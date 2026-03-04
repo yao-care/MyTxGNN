@@ -1,0 +1,481 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "cystic fibrosis",
+    "query_string": "Acetylcysteine AND cystic fibrosis"
+  },
+  "data": {
+    "query": "Acetylcysteine AND cystic fibrosis",
+    "results": [
+      {
+        "pmid": "35215328",
+        "title": "N-acetylcysteine (NAC) and Its Role in Clinical Practice Management of Cystic Fibrosis (CF): A Review.",
+        "abstract": "N-acetylcysteine is the acetylated form of the amino acid L-cysteine and a precursor to glutathione (GSH). It has been known for a long time as a powerful antioxidant and as an antidote for paracetamol overdose. However, other activities related to this molecule have been discovered over the years, making it a promising drug for diseases such as cystic fibrosis (CF). Its antioxidant activity plays a key role in CF airway inflammation and redox imbalance. Furthermore, this molecule appears to play an important role in the prevention and eradication of biofilms resulting from CF airway infections, in particular that of Pseudomonas aeruginosa. The aim of this review is to provide an overview of CF and the role that NAC could play in preventing and eliminating biofilms, as a modulator of inflammation and as an antioxidant, restoring the redox balance within the airways in CF patients. To do this, NAC can act alone, but it can also be used as an adjuvant molecule to known drugs (antibiotics",
+        "journal": "Pharmaceuticals (Basel, Switzerland)",
+        "year": "2022",
+        "authors": [
+          "Guerini Marta",
+          "Condrò Giorgia",
+          "Friuli Valeria",
+          "Maggi Lauretta",
+          "Perugini Paola"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35215328/"
+      },
+      {
+        "pmid": "39064168",
+        "title": "Anti-Inflammatory and Anti-Oxidant Properties of N-Acetylcysteine: A Fresh Perspective.",
+        "abstract": "N-acetyl-L-cysteine (NAC) was initially introduced as a treatment for mucus reduction and widely used for chronic respiratory conditions associated with mucus overproduction. However, the mechanism of action for NAC extends beyond its mucolytic activity and is complex and multifaceted. Contrary to other mucoactive drugs, NAC has been found to exhibit antioxidant, anti-infective, and anti-inflammatory activity in pre-clinical and clinical reports. These properties have sparked interest in its potential for treating chronic lung diseases, including chronic obstructive pulmonary disease (COPD), bronchiectasis (BE), cystic fibrosis (CF), and idiopathic pulmonary fibrosis (IPF), which are associated with oxidative stress, increased levels of glutathione and inflammation. NAC's anti-inflammatory activity is noteworthy, and it is not solely secondary to its antioxidant capabilities. In ex vivo models of COPD exacerbation, the anti-inflammatory effects have been observed even at very low doses",
+        "journal": "Journal of clinical medicine",
+        "year": "2024",
+        "authors": [
+          "Santus Pierachille",
+          "Signorello Juan Camilo",
+          "Danzo Fiammetta",
+          "Lazzaroni Giada",
+          "Saad Marina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39064168/"
+      },
+      {
+        "pmid": "39450216",
+        "title": "N-acetylcysteine Clinical Applications.",
+        "abstract": "This study aims to evaluate the therapeutic application of N-acetylcysteine (NAC) as a treatment or adjunct therapy for various medical conditions. While its efficacy in treating acetaminophen overdose, cystic fibrosis, and chronic obstructive pulmonary disease is well-established, emerging evidence suggests that NAC may also benefit a broader spectrum of illnesses due to its safety, simplicity, and affordability. A comprehensive review was conducted by searching PubMed, relevant books, and conference proceedings for publications discussing NAC about the specified health conditions. The clinically relevant data were analysed using the American Family Physician Evidence-Based Medicine Toolkit, following a standard integrated review methodology. NAC shows potential as an adjunctive treatment for a wide range of medical conditions, particularly chronic diseases. It may be beneficial for polycystic ovary syndrome, endometriosis, male infertility, cataracts, glaucoma, dry eye syndrome, park",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Yahia Zoubaida",
+          "Yahia Amer",
+          "Abdelaziz Tarek"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39450216/"
+      },
+      {
+        "pmid": "34221501",
+        "title": "N-Acetylcysteine: A Review of Clinical Usefulness (an Old Drug with New Tricks).",
+        "abstract": "To review the clinical usefulness of N-acetylcysteine (NAC) as treatment or adjunctive therapy in a number of medical conditions. Use in Tylenol overdose, cystic fibrosis, and chronic obstructive lung disease has been well documented, but there is emerging evidence many other conditions would benefit from this safe, simple, and inexpensive intervention. Quality of Evidence. PubMed, several books, and conference proceedings were searched for articles on NAC and health conditions listed above reviewing supportive evidence. This study uses a traditional integrated review format, and clinically relevant information is assessed using the American Family Physician Evidence-Based Medicine Toolkit. A table summarizing the potential mechanisms of action for N-acetylcysteine in these conditions is presented. Main Message. N-acetylcysteine may be useful as an adjuvant in treating various medical conditions, especially chronic diseases. These conditions include polycystic ovary disease, male infer",
+        "journal": "Journal of nutrition and metabolism",
+        "year": "2021",
+        "authors": [
+          "Schwalfenberg Gerry K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34221501/"
+      },
+      {
+        "pmid": "36990700",
+        "title": "[Chinese experts consensus statement: diagnosis and treatment of cystic fibrosis (2023)].",
+        "abstract": "Cystic fibrosis (CF) is one of the most common autosomal recessive genetic diseases in Caucasians, but CF patients in China are rare, and it was listed as the first batch of rare diseases in China in 2018. In recent years, CF has been gradually recognized in China, and the number of CF patients reported in China in the past 10 years is more than 2.5 times the total number in the previous 30 years, and the total number of CF patients is estimated to be more than 20 000. The research progress of CF gene modification has led to the innovation of CF treatment. However, the sweat test as an important test for the diagnosis of CF has not been widely implemented in China. At present, the diagnosis and treatment of CF in China still lacks standardized recommendations. In view of these updates, the Chinese Experts Cystic Fibrosis Consensus Committee has formed \"the Chinese experts consensus statement: diagnosis and treatment of cystic fibrosis\" based on extensive opinion gathering, literatures ",
+        "journal": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+        "year": "2023",
+        "authors": [],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Male",
+          "Adrenal Cortex Hormones",
+          "Anti-Bacterial Agents",
+          "Bronchiectasis",
+          "Bronchodilator Agents",
+          "Chlorides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36990700/"
+      },
+      {
+        "pmid": "31107966",
+        "title": "Mucolytic agents versus placebo for chronic bronchitis or chronic obstructive pulmonary disease.",
+        "abstract": "Individuals with chronic bronchitis or chronic obstructive pulmonary disease (COPD) may suffer recurrent exacerbations with an increase in volume or purulence of sputum, or both. Personal and healthcare costs associated with exacerbations indicate that therapies that reduce the occurrence of exacerbations are likely to be useful. Mucolytics are oral medicines that are believed to increase expectoration of sputum by reducing its viscosity, thus making it easier to cough it up. Improved expectoration of sputum may lead to a reduction in exacerbations of COPD.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2019",
+        "authors": [
+          "Poole Phillippa",
+          "Sathananthan Kavin",
+          "Fortescue Rebecca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Bronchitis, Chronic",
+          "Disease Progression",
+          "Expectorants",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31107966/"
+      },
+      {
+        "pmid": "35249163",
+        "title": "DMBT1 is upregulated in cystic fibrosis, affects ciliary motility, and is reduced by acetylcysteine.",
+        "abstract": "Cystic fibrosis (CF) is the most common genetic disorder in the Caucasian population. Despite remarkable improvements in morbidity and mortality during the last decades, the disease still limits survival and reduces quality of life of affected patients. Moreover, CF still represents substantial economic burden for healthcare systems. Inflammation and infection already start in early life and play important roles in pulmonary impairment. The aim of this study is to analyze the potential role of DMBT1, a protein with functions in inflammation, angiogenesis, and epithelial differentiation, in CF.",
+        "journal": "Molecular and cellular pediatrics",
+        "year": "2022",
+        "authors": [
+          "Kiefer Alexander",
+          "Plattner Erika",
+          "Ruppel Renate",
+          "Weiss Christel",
+          "Zhou-Suckow Zhe"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35249163/"
+      },
+      {
+        "pmid": "10090545",
+        "title": "Systematic review of N-acetylcysteine in cystic fibrosis.",
+        "abstract": "A systematic review was carried out to evaluate whether the use of N-acetylcysteine to improve lung function in patients with cystic fibrosis is supported by published evidence. Medline and the Cochrane Library were searched and the reference lists of all retrieved papers and of relevant chapters of three major textbooks were scanned. Data on lung function (forced expiratory volume in one second (FEV1)) were extracted from controlled clinical trials and pooled as weighted mean differences for analysis. Twenty-three studies, mostly uncontrolled clinical observations, were retrieved. Only three randomized controlled clinical trials on nebulized N-acetylcysteine in cystic fibrosis were found, not showing any beneficial effect on lung function. Six randomized controlled clinical trials on oral N-acetylcysteine in cystic fibrosis were found, with a total number of 181 patients. There was a tendency towards a beneficial effect on lung function of oral N-acetylcysteine therapy on FEV1 but it ",
+        "journal": "Acta paediatrica (Oslo, Norway : 1992)",
+        "year": "1999",
+        "authors": [
+          "Duijvestijn Y C",
+          "Brand P L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Meta-Analysis",
+          "Randomized Controlled Trial",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Administration, Inhalation",
+          "Cystic Fibrosis",
+          "Expectorants",
+          "Humans",
+          "Lung",
+          "Respiratory Function Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10090545/"
+      },
+      {
+        "pmid": "35361640",
+        "title": "Efficacy of N-acetylcysteine on idiopathic or postinfective non-cystic fibrosis bronchiectasis: a systematic review and meta-analysis protocol.",
+        "abstract": "Non-cystic fibrosis (non-CF) bronchiectasis is a chronic pulmonary disorder that causes destruction and permanent dilatation of the airways, resulting in excessive sputum production, repeated infection and inflammation. A need for high-quality and specialised care has been highlighted in recent years. N-acetylcysteine (NAC) is a widely used mucolytic agent in respiratory diseases that not only possesses a property to enhance secretion clearance, but also exhibits antioxidant and anti-inflammatory effects. However, the efficacy and safety of NAC are not well described in idiopathic or postinfective non-CF bronchiectasis.",
+        "journal": "BMJ open",
+        "year": "2022",
+        "authors": [
+          "Luo Ai",
+          "Liu Xuemei",
+          "Hu Qiongqiong",
+          "Yang Mei",
+          "Jiang Hongli"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchiectasis",
+          "Humans",
+          "Meta-Analysis as Topic",
+          "Quality of Life",
+          "Research Design",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35361640/"
+      },
+      {
+        "pmid": "23852992",
+        "title": "Nebulized and oral thiol derivatives for pulmonary disease in cystic fibrosis.",
+        "abstract": "Cystic fibrosis is an inherited condition resulting in thickened, sticky respiratory secretions. Respiratory failure, due to recurrent pulmonary infection and inflammation, is the most common cause of mortality. Muco-active therapies (e.g. dornase alfa and nebulized hypertonic saline) may decrease sputum viscosity, increase airway clearance of sputum, reduce infection and inflammation and improve lung function. Thiol derivatives, either oral or nebulized, have shown benefit in other respiratory diseases. Their mode of action is likely to differ according to the route of administration. There are several thiol derivatives, and it is unclear which of these may be beneficial in cystic fibrosis.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2013",
+        "authors": [
+          "Tam Julian",
+          "Nash Edward F",
+          "Ratjen Felix",
+          "Tullis Elizabeth",
+          "Stephenson Anne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Administration, Inhalation",
+          "Administration, Oral",
+          "Ambroxol",
+          "Carbocysteine",
+          "Cystic Fibrosis",
+          "Expectorants",
+          "Glutathione",
+          "Humans",
+          "Lung Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23852992/"
+      },
+      {
+        "pmid": "28397992",
+        "title": "Mucoactive agents for chronic, non-cystic fibrosis lung disease: A systematic review and meta-analysis.",
+        "abstract": "Inhaled mucoactive agents are used in respiratory disease to improve mucus properties and enhance secretion clearance. The effect of mannitol, recombinant human deoxyribonuclease/dornase alfa (rhDNase) and hypertonic saline (HS) or normal saline (NS) are not well described in chronic lung conditions other than cystic fibrosis (CF). The aim of this review was to determine the benefit and safety of inhaled mucoactive agents outside of CF. We searched Medline, Embase, CINAHL and CENTRAL for randomized controlled trials investigating the effects of mucoactive agents on lung function, adverse events (AEs), health-related quality of life (HRQOL), hospitalization, length of stay, exacerbations, sputum clearance and inflammation. There were detrimental effects of rhDNase in bronchiectasis, with average declines of 1.9-4.3% in forced expiratory volume in 1 s (FEV1 ) and 3.7-5.4% in forced vital capacity (FVC) (n = 410, two studies), and increased exacerbation risk (relative risk = 1.35, 95% CI ",
+        "journal": "Respirology (Carlton, Vic.)",
+        "year": "2017",
+        "authors": [
+          "Tarrant Benjamin J",
+          "Le Maitre Caitlin",
+          "Romero Lorena",
+          "Steward Ranjana",
+          "Button Brenda M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Administration, Inhalation",
+          "Bronchiectasis",
+          "Chronic Disease",
+          "Deoxyribonuclease I",
+          "Expectorants",
+          "Forced Expiratory Volume",
+          "Humans",
+          "Lung Diseases",
+          "Mannitol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28397992/"
+      },
+      {
+        "pmid": "17419975",
+        "title": "Mucolytics in cystic fibrosis.",
+        "abstract": "Mucus accumulation in the lower airways is a key feature of cystic fibrosis (CF) lung disease. The major component of mucus in CF is not mucin derived from mucus producing cells but rather pus that includes viscous material such as polymerized DNA derived from degraded neutrophils. This has important implications for mucolytic therapy aiming to improve mucus clearance from the airways, since degradation of mucin may not be a suitable treatment strategy. In addition, thinning of secretions may not always be beneficial, since it may negatively affect certain aspects of mucus transport such as cough clearance. While inhaled N-acetylcysteine has been used as a mucolytic drug in CF for decades, there is little evidence that it has any beneficial effect. Dornase alfa has been shown to reduce pulmonary exacerbations and improve lung function and is currently the only mucolytic agent with proven efficacy in CF. Newer agents targeting other components of CF mucus, such as filamentous actin, are",
+        "journal": "Paediatric respiratory reviews",
+        "year": "2007",
+        "authors": [
+          "Henke Markus O",
+          "Ratjen Felix"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cystic Fibrosis",
+          "Expectorants",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17419975/"
+      },
+      {
+        "pmid": "19160327",
+        "title": "Nebulized and oral thiol derivatives for pulmonary disease in cystic fibrosis.",
+        "abstract": "Cystic fibrosis is an inherited condition resulting in thickened, sticky respiratory secretions. Respiratory failure, due to recurrent pulmonary infection and inflammation, is the most common cause of mortality. Muco-active therapies (e.g. dornase alfa and nebulized hypertonic saline) may decrease sputum viscosity, increase airway clearance of sputum, reduce infection and inflammation and improve lung function. Thiol derivatives, either oral or nebulized, have shown benefit in other respiratory diseases. Their mode of action is likely to differ according to the route of administration. There are several thiol derivatives, and it is unclear which of these may be beneficial in cystic fibrosis.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2009",
+        "authors": [
+          "Nash Edward F",
+          "Stephenson Anne",
+          "Ratjen Felix",
+          "Tullis Elizabeth"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Administration, Inhalation",
+          "Administration, Oral",
+          "Ambroxol",
+          "Carbocysteine",
+          "Cystic Fibrosis",
+          "Expectorants",
+          "Humans",
+          "Lung Diseases",
+          "Mucociliary Clearance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19160327/"
+      },
+      {
+        "pmid": "25058850",
+        "title": "N-acetylcysteine and azithromycin affect the innate immune response in cystic fibrosis bronchial epithelial cells in vitro.",
+        "abstract": "We have previously reported that N-acetylcysteine (NAC), ambroxol and azithromycin (AZM) (partially) correct the chloride efflux dysfunction in cystic fibrosis bronchial epithelial (CFBE) cells with the ΔF508 homozygous mutation in vitro.",
+        "journal": "Experimental lung research",
+        "year": "2015",
+        "authors": [
+          "Hussain Shahida",
+          "Varelogianni Georgia",
+          "Särndahl Eva",
+          "Roomans Godfried M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Azithromycin",
+          "Bronchi",
+          "Cell Line",
+          "Cystic Fibrosis",
+          "Epithelial Cells",
+          "Humans",
+          "Immunity, Innate",
+          "Interleukin-6",
+          "Nod1 Signaling Adaptor Protein"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25058850/"
+      },
+      {
+        "pmid": "24789119",
+        "title": "Mucolytics for bronchiectasis.",
+        "abstract": "Bronchiectasis is predominantly an acquired disease process that represents the end stage of a variety of unrelated pulmonary insults. It is defined as persistent irreversible dilatation and distortion of medium-sized bronchi. It has been suggested that with widespread use of high-resolution computed tomography, more bronchiectasis diagnoses are being made. Patients diagnosed with bronchiectasis frequently have difficulty expectorating sputum. Sputum therefore is retained in the lungs and may become infected, leading to further lung damage. Mucolytic agents target hypersecretion or changed physiochemical properties of sputum to make it easier to clear. One drug, recombinant human DNase, breaks down the DNA that is released at the site of infection by neutrophils.Mucus clearance along with antimicrobial therapy remains an integral part of bronchiectasis management. Chest physiotherapy along with mucolytic agents is commonly used in practice without clear supportive evidence.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2014",
+        "authors": [
+          "Wilkinson Mark",
+          "Sugumar Karnam",
+          "Milan Stephen J",
+          "Hart Anna",
+          "Crockett Alan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bromhexine",
+          "Bronchiectasis",
+          "Deoxyribonucleases",
+          "Drug Therapy, Combination",
+          "Expectorants",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Recombinant Proteins",
+          "Thioglycolates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24789119/"
+      },
+      {
+        "pmid": "37760016",
+        "title": "Advances in the Use of N-Acetylcysteine in Chronic Respiratory Diseases.",
+        "abstract": "N-acetylcysteine (NAC) is widely used because of its mucolytic effects, taking part in the therapeutic protocols of cystic fibrosis. NAC is also administered as an antidote in acetaminophen (paracetamol) overdosing. Thanks to its wide antioxidative and anti-inflammatory effects, NAC may also be of benefit in other chronic inflammatory and fibrotizing respiratory diseases, such as chronic obstructive pulmonary disease, bronchial asthma, idiopathic lung fibrosis, or lung silicosis. In addition, NAC exerts low toxicity and rare adverse effects even in combination with other treatments, and it is cheap and easily accessible. This article brings a review of information on the mechanisms of inflammation and oxidative stress in selected chronic respiratory diseases and discusses the use of NAC in these disorders.",
+        "journal": "Antioxidants (Basel, Switzerland)",
+        "year": "2023",
+        "authors": [
+          "Mokra Daniela",
+          "Mokry Juraj",
+          "Barosova Romana",
+          "Hanusrichterova Juliana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37760016/"
+      },
+      {
+        "pmid": "18420468",
+        "title": "Oxidative stress and cystic fibrosis-related diabetes: a pilot study in children.",
+        "abstract": "Cystic fibrosis (CF) is characterized by chronic inflammation with increased oxidative stress. We evaluated the relationship between glucose tolerance and oxidative stress in CF children.",
+        "journal": "Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+        "year": "2008",
+        "authors": [
+          "Ntimbane Thierry",
+          "Krishnamoorthy Preetha",
+          "Huot Céline",
+          "Legault Laurent",
+          "Jacob Sheila V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adolescent",
+          "Analysis of Variance",
+          "Child",
+          "Cystic Fibrosis",
+          "Diabetes Mellitus",
+          "Fatty Acids",
+          "Female",
+          "Glucose Intolerance",
+          "Glucose Tolerance Test"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18420468/"
+      },
+      {
+        "pmid": "21829177",
+        "title": "N-acetylcysteine enhances cystic fibrosis sputum penetration and airway gene transfer by highly compacted DNA nanoparticles.",
+        "abstract": "For effective airway gene therapy of cystic fibrosis (CF), inhaled gene carriers must first penetrate the hyperviscoelastic sputum covering the epithelium. Whether clinically studied gene carriers can penetrate CF sputum remains unknown. Here, we measured the diffusion of a clinically tested nonviral gene carrier, composed of poly-l-lysine conjugated with a 10 kDa polyethylene glycol segment (CK(30)PEG(10k)). We found that CK(30)PEG(10k)/DNA nanoparticles were trapped in CF sputum. To improve gene carrier diffusion across sputum, we tested adjuvant regimens consisting of N-acetylcysteine (NAC), recombinant human DNase (rhDNase) or NAC together with rhDNase. While rhDNase alone did not enhance gene carrier diffusion, NAC and NAC + rhDNase increased average effective diffusivities by 6-fold and 13-fold, respectively, leading to markedly greater fractions of gene carriers that may penetrate sputum layers. We further tested the adjuvant effects of NAC in the airways of mice with Pseudomona",
+        "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+        "year": "2011",
+        "authors": [
+          "Suk Jung Soo",
+          "Boylan Nicholas J",
+          "Trehan Kanika",
+          "Tang Benjamin C",
+          "Schneider Craig S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adult",
+          "Animals",
+          "Biopolymers",
+          "Cystic Fibrosis",
+          "DNA",
+          "Diffusion",
+          "Expectorants",
+          "Female",
+          "Genetic Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21829177/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:02:45.519396",
+  "success": true,
+  "error_message": null
+}

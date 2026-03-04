@@ -1,0 +1,330 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "cystic fibrosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04155632",
+      "title": "Neurocircuit Strategy to Decrease Cocaine Cue Reactivity",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-12-18",
+      "completion_date": "2023-03-09",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "The overarching goal of this project is to examine the effect of combining theta burst stimulation (TBS) and N-acetylcysteine (NAC) on cocaine craving and brain response to cocaine-related images.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Age 18-65 2. English fluency 4. Meet criteria for cocaine use disorder (CUD), as determined by DSM-V criteria, using the Structured Clinical Interview for DSM-V.\n\n5\\. Enrolled in an intensive outpatient treatment program (MUSC Center for Drug and Alcohol Programs Intensive O",
+      "endpoints": [
+        "Change in Orbitofrontal Cortex (OFC) BOLD Signal During Cocaine Cue Reactivity Task (Pre- vs. Post-TBS)",
+        "Change in POMS Score From Baseline to Post-TBS\"",
+        "Change in Cocaine Craving Rating From Baseline to Post-TBS"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT04155632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00975689",
+      "title": "Biomarker Validation for Niemann-Pick Disease, Type C: Safety and Efficacy of N-Acetyl Cysteine",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "Background:\n\n* Niemann-Pick disease type C (NPC) is a genetic disorder that results in progressive loss of nervous system function by affecting the membranes of nerve cells. There is no known cure for NPC.\n* N-acetyl cysteine (NAC) is a drug that has been approved by the Food and Drug Administration to use either orally or IV for the treatment of acetaminophen (Tylenol) poisoning or as an aerosol to reduce the stickiness of mucous in patients with cystic fibrosis. In the body, NAC is converted t",
+      "eligibility_criteria": "* INCLUSION AND EXCLUSION CRITERIA:\n\nAll patients with an established diagnosis of NPC will be considered for this study. The diagnosis may be based upon either molecular or biochemical testing.\n\nINCLUSION CRITERIA:\n\n1. Diagnosis of NPC by cellular assay or molecular testing.\n2. Twelve months of age",
+      "endpoints": [
+        "Oxysterol Levels"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00975689"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00866866",
+      "title": "The Use of Oral N-Acetyl Cysteine for the Treatment of Chronic Sinonasal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-03",
+      "completion_date": "2010-05",
+      "country": "Canada",
+      "enrollment": 60,
+      "brief_summary": "Chronic sinonasal symptoms (CSNS), such as coughing, throat clearing, nasal obstruction, crusting, dryness and discharge are extremely common in the general population. Although the physical symptoms are readily apparent, the psychosocial impact is often overlooked. Depression, anxiety, fear of social interaction, impaired personal relationships and decreased performance at work have all been associated with CSNS, often leading to multiple, frequent visits to the patient's primary care physician",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* one or more the following symptoms: nasal stuffiness, nasal dryness or crusting, nasal congestion, discolored nasal discharge, or thick nasal discharge, for four or more days a week in the preceding two weeks\n\nExclusion Criteria:\n\n* poorly controlled asthma\n* cystic fibrosis\n*",
+      "endpoints": [
+        "Sinonasal Outcomes Test (SNOT) - 22"
+      ],
+      "sponsor": "University of Calgary",
+      "url": "https://clinicaltrials.gov/study/NCT00866866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00809094",
+      "title": "A Multi-Center, Phase IIB, Randomized, Placebo-controlled, Double-Blind Study Of The Effects Of N-Acetylcysteine On Redox Changes and Lung Inflammation In Cystic Fibrosis Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-02",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "This Phase IIB proof-of-concept study would examine the effects of an investigational product called N-acetylcysteine (NAC) on the basic processes that cause inflammation in CF lung disease. We hope to learn more about the causes of lung disease in cystic fibrosis by studying the characteristics of the inflammation in the lungs of patients who have CF.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female 7 years of age or older\n2. Diagnosis of CF based upon the following criteria:\n\n   1. One or more clinical features characteristic of CF AND (b or c)\n   2. Positive sweat test \\> 60 mEq/L by quantitative pilocarpine iontophoresis\n   3. A genotype with two identi",
+      "endpoints": [
+        "Change in the Logarithm of the Level of Human Neutrophil Elastase (HNE) Activity Measured in Sputum"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00809094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03281226",
+      "title": "An Open Label Randomized Phase 2 Clinical Trial to Assess Safety and Tolerability of RIPE vs RIPE Plus N-acetylcysteine in Patients With HIV/Aids and Pulmonary Tuberculosis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-12-07",
+      "completion_date": "2019-12",
+      "country": "Brazil",
+      "enrollment": 50,
+      "brief_summary": "Although tuberculosis is a treatable disease, it is currently the infectious disease with the highest mortality in the world. It is estimated that one-third of the world's population is infected. HIV is the main predisposing factor for TB development. The Brazilian Ministry of Health and the World Health Organization recommends that patients should initially be treated orally with RIPE - rifampicin (R), isoniazid (I), pyrazinamide (P) and ethambutol (E). The N-acetylcysteine (NAC) first benefit ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than or equal to 18 years;\n* Acceptance of the HIV test;\n* Forecast of hospital stay of more than twenty-four hours;\n* Clinical and laboratory indication of RIPE;\n* Conditions for puncture of venous access;\n\nExclusion Criteria:\n\n* Brazilian indigenous people;\n* Peo",
+      "endpoints": [
+        "Number of participants with any biological intolerability or adverse event"
+      ],
+      "sponsor": "Fundação de Medicina Tropical Dr. Heitor Vieira Dourado",
+      "url": "https://clinicaltrials.gov/study/NCT03281226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03956888",
+      "title": "The Effects of N-Acetylcysteine on Oxidative Stress Markers in Chronic Obstructive Pulmonary Disease (COPD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-05-01",
+      "completion_date": "2024-12-30",
+      "country": "Thailand",
+      "enrollment": 35,
+      "brief_summary": "Chronic obstructive pulmonary disease (COPD) is a condition defined as a disease state characterized by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and is associated with an abnormal inflammatory response of lungs to noxious particles or gases, primarily caused by cigarette smoking. The accelerated decline in lung function is closely associated with an increased number of neutrophils in the sputum and hence with higher level of airway inflammati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible stable COPD patients who are currently treated with only short-acting bronchodilator (salbutamol or fenoterol/ipratropium bromide) or long-acting bronchodilator (LABA or LAMA) or inhaled corticosteroids/LABA\n* Pre-bronchodilator FEV1 ≥ 80% and \\< 80% predicted\n* Curre",
+      "endpoints": [
+        "Level of 8 - isoprostane, MDA and DNA damage in sputum"
+      ],
+      "sponsor": "Siriraj Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03956888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03999021",
+      "title": "A Phase 1 Open-Label Extension Study to Assess the Long-Term Safety and Tolerability of N-Acetylcysteine (NAC) in Patients With Retinitis Pigmentosa",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-06-24",
+      "completion_date": "2027-06",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Retinitis Pigmentosa (RP) is a devastating eye disease and at present there are no known treatment options that can alter the rate of vision loss and eventual blindness. In a series of studies in animal models, the effects of exposing cones in the periphery of the retina to a large excess of oxygen results in progressive oxidative damage to cone photoreceptors and cone cell death. Cone cell death gradually spreads from the periphery of the retina toward its center, narrowing the visual field and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years\n* Patients diagnosed with RP\n* Informed consent\n* Authorization of use and disclosure of protected health information\n\nExclusion Criteria:\n\n* Patients with a concomitant ocular pathology that limits central macular function, including but not limited to: age-relat",
+      "endpoints": [
+        "Blood Pressure (mmHg)",
+        "Tolerability of N-Acetylcysteine as assessed by drug-related symptoms",
+        "Tolerability of N-Acetylcysteine as assessed by time at which medication is taken"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT03999021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06688292",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Actein Effervescent Tablets 600MG in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2024-09-20",
+      "completion_date": "2024-12-31",
+      "country": "Taiwan",
+      "enrollment": 42,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects aged older than 20\\~75 years old.\n2. Able to sign informed consent prior to the study.\n3. Subjects have COPD.\n\nExclusion Criteria:\n\n1. Subjects with known hypersensitivity to Acetylcysteine preparations.\n2. Subjects with other serious medical diseases that are judged",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06688292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02088216",
+      "title": "Effect of N-acetylcysteine on Exacerbations of Bronchiectasis (BENE): a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-04-01",
+      "completion_date": "2018-03-30",
+      "country": "China",
+      "enrollment": 161,
+      "brief_summary": "Objective: To evaluate whether long-term oral N-acetylcysteine as an expectorant drug can reduce the frequency of acute exacerbations of patients with non-cystic fibrosis bronchiectasis and improve their quality of life.\n\nMethods: Patients with non-cystic fibrosis bronchiectasis will be randomly assigned to the observer group (participants receive 600 mg of oral N-acetylcysteine BID for 12 months) or the control group (participants receive oral tablet BID for 12 months). The primary endpoint was",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. subjects were aged 18-80 years old;\n2. a diagnosis of idiopathic or post-infective bronchiectasis was made;\n3. patients had at least two exacerbations in the past year and were in a stable state for at least 4 weeks prior to the primary enrollment.\n\nExclusion Criteria:\n\nPatie",
+      "endpoints": [
+        "Median Number of Exacerbations"
+      ],
+      "sponsor": "Qilu Hospital of Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT02088216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04798118",
+      "title": "A Study on Toilet Bronchoscopy In Respiratory ICU, Assiut University Hospital",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-01",
+      "completion_date": "2023-12",
+      "country": "Egypt",
+      "enrollment": 130,
+      "brief_summary": "Toilet bronchoscopy is a potentially therapeutic intervention to aspirate retained secretions within the endotracheal tube and airways and revert atelectasis. Aspiration of airway secretions is the most common indication to perform a therapeutic bronchoscopy in the intensive care unit (ICU) .\n\nToilet bronchoscopy is particularly beneficial when retained secretions are visible during the procedure and when air-bronchograms are not present at the chest radiograph. It is also beneficial when there ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Patients on mechanical ventilation with underlying dieases that are characterized with mucus overproduction such as asthma, chronic obstructive pulmonary disease (COPD), bronchiectasis, and cystic fibrosis.\n\n  * Patients on mechanical ventilation with visible large amount of",
+      "endpoints": [
+        "1- percent of patients develop radiological improvement",
+        "2- improvement of hypoxemia",
+        "3-Lung mechanics reduction post procedure in mechanical ventilated patients"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04798118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00996424",
+      "title": "The Effect of Inhaled N-Acetylcysteine Compared to Normal Saline on Sputum Rheology and Lung Function.",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2010-01",
+      "completion_date": "2010-12",
+      "country": "Belgium",
+      "enrollment": 19,
+      "brief_summary": "Inhalation treatment with mucolytics is one of the cornerstones of CF treatment for respiratory problems.\n\nThe efficacy of inhalation treatment with recombinant DNAse and hypertonic saline is well established. The North American CF foundation reported that there is insufficient evidence for or against the chronic use of inhaled N-Acetylcysteine (NAC) to improve lung function and reduce exacerbations .\n\nIn vitro tests proved the positive effect of NAC on sputum rheology . Evidence based research ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who can perform lung function tests and who can produce sputum (\\> 5 years of age)\n* (Fe)males between 6-64 years\n\nExclusion Criteria:\n\n* Patients on the waiting lists for lung transplant.\n* Pregnancy or breast feeding\n* Patients can not take part in another 'inhalati",
+      "endpoints": [
+        "Changes in visco-elasticity and lung function.",
+        "Changes in visco-elasticity and lung function."
+      ],
+      "sponsor": "University Hospital, Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT00996424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06828120",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Fluimucil 600mg Granules in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2025-02-20",
+      "completion_date": "2025-09-17",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Fluimucil 600mg granules administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged older than 20\\~75 years old.\n* Able to sign informed consent prior to the study.\n* The appearance of sputum and the difficulty of expectoration are both at level 2 or above.\n\nExclusion Criteria:\n\n* Subjects with known hypersensitivity to Acetylcysteine preparatio",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Fluimucil 600MG granules administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06828120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07409727",
+      "title": "The Role of N-Acetylcysteine Inhalation in Critically Ill Mechanically Ventilated Patients",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-01",
+      "completion_date": "2028-06-01",
+      "country": "Egypt",
+      "enrollment": 80,
+      "brief_summary": "Background Mechanical ventilation is an essential medical intervention in the context of critical illness. However, the intervention is associated with a risk of significant, potentially preventable complications. Among these are ventilator-associated pneumonia, sepsis, acute respiratory distress syndrome, atelectasis, and pulmonary edema.\n\nVentilator-associated complications commonly increase morbidity and mortality. They may also prolong the duration of mechanical ventilation and the length of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18-64 years, either male or female.\n2. Critically ill patients who have undergone intubation and are on mechanical ventilation.\n3. Expected duration of mechanical ventilation of more than 48 hours.\n4. Provided consent to participate in this clinical trial by next of kin.",
+      "endpoints": [
+        "The primary endpoint of interest is incidence and time to develop ventilator associated pneumonia."
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT07409727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05495243",
+      "title": "A Phase 2a, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Safety and Efficacy of ARINA-1 in Adult Participants With Non-cystic Fibrosis Bronchiectasis (NCFBE) With Excess Mucus and Cough",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-10-03",
+      "completion_date": "2024-02-01",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This is a randomized, Phase 2a, double-blind, placebo-controlled study to evaluate the safety and efficacy of ARINA-1 compared to placebo (isotonic saline, 0.9%) in participants with NCFBE. Study participants will receive either study treatment or placebo twice daily for 28 days. Efficacy endpoints will include quality of life, sputum rheological markers, and blood inflammatory markers. Quality of life will be measured using the following tools: Quality of Life-Bronchiectasis (QOL-B) questionnai",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of NCFBE confirmed by chest CT\n* 18-80 years old, inclusive at time of informed consent\n* BMI \\>18\n* Percent predicted FEV1 \\> 40%, pre-bronchodilator\n* Stable for 90 days with any airway clearance technique (ACT) method(s)\n* Stable on standard of care (SOC) therapy ",
+      "endpoints": [
+        "Incidence of treatment-emergent adverse events",
+        "Proportion of participants that experience each treatment-emergent adverse event"
+      ],
+      "sponsor": "Renovion, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05495243"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03364218",
+      "title": "Nebulized N-Acetyl Cysteine for Bronchiolitis in Inpatient Hospital Use: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-01",
+      "completion_date": "2020-05-31",
+      "country": "United States",
+      "enrollment": 106,
+      "brief_summary": "Bronchiolitis is the major cause of hospital admission in infants \\< 6 months of age and usually viruses like Respiratory syncytial virus (RSV), human metapneumo virus, Adeno virus, para-influenza virus, Rhino virus and influenza virus are the main culprit. In the US, acute bronchiolitis in infancy is responsible for approximately 150,000 hospitalizations yearly at an estimated cost of $500 million. Globally in 2005 it was estimated that at least 33.8 million were affected with RSV and in the sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Full term new born neonates up to patients \\< 2yrs\n* Respiratory score ≥2\n* Otherwise healthy with new respiratory illness\n\nExclusion Criteria:\n\n* Prematurity \\<34 weeks for patients \\<6 months age.\n* h/o congenital heart disease requiring baseline medication\n* Patient receive",
+      "endpoints": [
+        "Respiratory Score",
+        "Time on Non-Invasive Ventilation",
+        "Duration of PICU/Hospital Admission"
+      ],
+      "sponsor": "Carilion Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03364218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03843541",
+      "title": "A Phase III, Multi-centre, Randomized, Rater- and Patient-blind, Placebo- and Active-controlled, Parallel Group Clinical Trial to Compare the Efficacy and Safety of 1-week Treatment of Intravenous N-acetylcysteine (NAC) 600 mg Twice Daily (Active Test Treatment), Ambroxol Hydrochloride 30 mg Twice Daily (Active Control Treatment) and Placebo as Expectorant Therapies in Adult Chinese Patients With Respiratory Tract Diseases and Abnormal Mucus Secretions",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-06-25",
+      "completion_date": "2021-02-05",
+      "country": "China",
+      "enrollment": 333,
+      "brief_summary": "This is a phase 3, multicenter, randomized, rater- and patient-blind, placebo- and active-controlled, 3-arm parallel group clinical trial. Patients will be randomized to N-acetylcysteine (NAC) or ambroxol or placebo in a 1:1:1 ratio. A total of approximately 333 patients in China will be randomized. The total study duration will be approximately 8 months including the enrolment period of approximately 7 months and the patient participation duration of 1 month or 4 weeks. Each patient will underg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female adult (≥18 years old) hospitalized patients with respiratory tract diseases and abnormal mucus secretions such as: acute bronchitis, chronic bronchitis and exacerbations, emphysema, mucoviscidosis and bronchiectasis.\n2. Chinese ethnicity and/or Chinese\n3. Signe",
+      "endpoints": [
+        "Change From Baseline to Day 7 of Mean Sputum Viscosity Score of NAC and Placebo",
+        "Change From Baseline to Day 7 Treatment of Mean Expectoration Difficulty Score of NAC and Placebo"
+      ],
+      "sponsor": "Zambon SpA",
+      "url": "https://clinicaltrials.gov/study/NCT03843541"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04374461",
+      "title": "Phase II Study of N-acetylcysteine in Severe or Critically Ill Patients With Refractory COVID-19 Infection",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-05-01",
+      "completion_date": "2026-05",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The study researchers think that a medication called N-acetylcysteine can help fight the COVID-19 virus by boosting a type of cell in your immune system that attacks infections. By helping your immune system fight the virus, the researchers think that the infection will get better, which could allow the patient to be moved out of the critical care unit or go off a ventilator, or prevent them from moving into a critical care unit or going on a ventilator.\n\nThe US Food and Drug Administration (FDA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented COVID-19 infection (either performed on site or documented external report)\n* Age ≥ 18\n\nArm A:\n\n* Admission to an intensive care unit at MSK (M-11) and/or receiving mechanical ventilation\n* Absolute lymphocyte count ≤ 1.0/mm3\n* As the ALC of patients with lymphoid m",
+      "endpoints": [
+        "Arm A: number of patients who are successfully extubated and/or transferred out of critical care due to clinical improvement",
+        "Arm B: number of patients who are discharged from the hospital due to clinical improvement"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT04374461"
+    }
+  ],
+  "timestamp": "2026-03-04T15:02:25.139990",
+  "success": true,
+  "error_message": null
+}

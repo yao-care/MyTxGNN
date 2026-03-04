@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Entacapone",
+    "disease": "juvenile onset Parkinson disease 19A",
+    "query_string": "Entacapone AND juvenile onset Parkinson disease 19A"
+  },
+  "data": {
+    "query": "Entacapone AND juvenile onset Parkinson disease 19A",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:27:26.302071",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,620 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cimetidine",
+    "disease": "gastric ulcer",
+    "query_string": "Cimetidine AND gastric ulcer"
+  },
+  "data": {
+    "query": "Cimetidine AND gastric ulcer",
+    "results": [
+      {
+        "pmid": "7213137",
+        "title": "[Cimetidine and gastric ulcer].",
+        "abstract": "",
+        "journal": "Arquivos de gastroenterologia",
+        "year": "1980",
+        "authors": [
+          "Marchese M A"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Guanidines",
+          "Humans",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7213137/"
+      },
+      {
+        "pmid": "6328637",
+        "title": "Gastric ulcer healing with ranitidine and cimetidine. A multicentre study.",
+        "abstract": "A single-blind study of 339 patients in 19 centres compared the efficacy and tolerance of ranitidine in treating endoscopically confirmed gastric ulcers. Ranitidine (150 mg twice daily) was compared with cimetidine (1 g daily in divided doses) over 4 weeks, followed by a second 4-week treatment for any patient whose ulcer was not healed. In 292 patients who completed the study, endoscopy showed healing in 69% of patients receiving ranitidine and 59% receiving cimetidine after 4 weeks, and 90% and 88%, respectively, by 8 weeks. These results were not significantly different, and, similarly, healing rates for different ulcer sites did not differ. There were no serious adverse drug reactions during the study. Ranitidine is an effective and safe treatment for healing gastric ulcers, with a tendency to produce a faster healing rate than cimetidine during the first 4 weeks of treatment.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1983",
+        "authors": [
+          "Baron J H",
+          "Perrin V L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Drug Tolerance",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6328637/"
+      },
+      {
+        "pmid": "6843622",
+        "title": "Cimetidine works for gastric ulcer, and more.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1983",
+        "authors": [
+          "Littman A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Guanidines",
+          "Humans",
+          "Placebos",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6843622/"
+      },
+      {
+        "pmid": "338114",
+        "title": "Cimetidine and gastric ulcer healing.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1977",
+        "authors": [
+          "Jensen K G",
+          "Rune S",
+          "Wulff H R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Guanidines",
+          "Humans",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/338114/"
+      },
+      {
+        "pmid": "620911",
+        "title": "Cimetidine in the treatment of gastric ulcer: review and commentary.",
+        "abstract": "Cimetidine therapy in gastric ulcer disease has been evaluated in four complete and one incomplete controlled, double blind trials. A sixth trial, still under way, is partially blind. Treatment duration ranged from 2 to 6 weeks; doses ranged from 0.8 to 1.2 g daily. Two studies also evaluated the influence of hospitalization on ulcer healing and symptoms. Relatively large doses of antacid taken with cimetidine confounded the evaluation of cimetidine efficacy in two of the trials, without answering the question of antacid efficacy. Cimetidine was more effective than were small doses of antacid in healing ulcers in one study but was not significantly superior to treatment with larger quantities of antacid in two other trials. Preliminary results indicate that cimetidine is more effective than carbenoxolone in healing ulcers. Hospitalization for 2 and 3 weeks conferred no advantage, but patients were not randomly assigned to hospitalization. Definitive studies on whether cessation of cime",
+        "journal": "Gastroenterology",
+        "year": "1978",
+        "authors": [
+          "Freston J W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Cimetidine",
+          "Guanidines",
+          "Hospitalization",
+          "Humans",
+          "Pain",
+          "Recurrence",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/620911/"
+      },
+      {
+        "pmid": "342231",
+        "title": "Cimetidine: a review of its pharmacological properties and therapeutic efficacy in peptic ulcer disease.",
+        "abstract": "Cimetidine is a specific competitive histamine H2-receptor antagonist which effectively inhibits gastric acid secretion and is advocated for the treatment of chronic peptic ulceration, haemorrhage from erosive gastritis, and the control of gastric hypersecretion and peptic ulceration in the Zollinger-Ellison syndrome. Placebo-controlled trials in outpatients have demonstrated its efficacy in promoting the healing of endoscopically diagnosed duodenal ulceration, during a period of 4 to 6 weeks, but its role in the treatment of gastric ulcer is less clear. Preliminary evidence suggests that maintenance therapy with cimetidine reduces the rate of recurrence of duodenal ulcer, but further studies are required to clarify its role in this situation and in the treatment of oesophagitis and acute gastrointestinal haemorrhage. Cimetidine controls the peptic ulceration of Zollinger-Ellison syndrome in most patients when given continuously for up to 2 years. Side-effects have generally been trivi",
+        "journal": "Drugs",
+        "year": "1978",
+        "authors": [
+          "Brogden R N",
+          "Heel R C",
+          "Speight T M",
+          "Avery G S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Cimetidine",
+          "Duodenal Ulcer",
+          "Gastric Juice",
+          "Gastrins",
+          "Gastrointestinal Hemorrhage",
+          "Guanidines",
+          "Humans",
+          "Intrinsic Factor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/342231/"
+      },
+      {
+        "pmid": "7843261",
+        "title": "Effect of cimetidine and omeprazole on gastric ulcer healing of rats with limited food intake time.",
+        "abstract": "The effects of cimetidine, omeprazole and atropine sulfate on the healing of acetic acid-induced gastric ulcers in rats with limited food intake time (9:00-10:00 a.m. and 5:00-6:00 p.m.) were evaluated 15 days after the acid injection. Oral repeated administration of cimetidine (25-100 mg/kg twice daily) or omeprazole (10-50 mg/kg once daily) dose dependently accelerated ulcer healing. Atropine sulfate (10 mg/kg twice daily, p.o.) was ineffective. A single oral administration of omeprazole (50 mg/kg) or cimetidine (100 mg/kg) resulted in potent and long-lasting anti-acid secretory and gastrin-releasing actions. The degree and duration of anti-acid secretion by atropine sulfate were equal to those of cimetidine, but the elevation of gastrin release by atropine sulfate was weak and temporary. These results indicate that the gastric ulcers of rats with a limited food intake time are useful for evaluating the healing effects of cimetidine and omeprazole on gastric ulcers. In addition, the ",
+        "journal": "European journal of pharmacology",
+        "year": "1994",
+        "authors": [
+          "Ito M",
+          "Segami T",
+          "Tsukahara T",
+          "Kojima R",
+          "Suzuki Y"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Acetic Acid",
+          "Administration, Oral",
+          "Analysis of Variance",
+          "Animals",
+          "Atropine",
+          "Cimetidine",
+          "Disease Models, Animal",
+          "Dose-Response Relationship, Drug",
+          "Eating"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7843261/"
+      },
+      {
+        "pmid": "2111784",
+        "title": "Cost-effectiveness of cimetidine maintenance therapy in chronic gastric and duodenal ulcer.",
+        "abstract": "The effects of cimetidine maintenance therapy on the socioeconomic life of patients with peptic ulcers in the 3 years after healing and the extent to which treatment was cost-effective were studied. Three hundred eleven patients with healed ulcers (184 gastric, 127 duodenal) were studied for periods of up to 3 years; 261 patients (152 gastric ulcer, 109 duodenal ulcer) completed the 3-year follow-up. Cimetidine (400 mg at night) was compared with placebo in a double-blind, randomized prospective study. Intention-to-treat analysis was used. In the placebo group, the major costs of ulcer disease in gastric ulcer patients were attributable to endoscopic procedures and absenteeism; in duodenal ulcer patients, the major costs were endoscopic procedures, absenteeism, and surgery. Cimetidine was cost-effective in both gastric ulcer and duodenal ulcer patients in the first 2 years after healing. Over the 3-year period it was also cost-effective, but no benefit was seen in the third year.",
+        "journal": "Gastroenterology",
+        "year": "1990",
+        "authors": [
+          "Pym B",
+          "Sandstad J",
+          "Seville P",
+          "Byth K",
+          "Middleton W R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absenteeism",
+          "Aged",
+          "Chronic Disease",
+          "Cimetidine",
+          "Cost-Benefit Analysis",
+          "Demography",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Endoscopy",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2111784/"
+      },
+      {
+        "pmid": "3525336",
+        "title": "Short term treatment of gastric ulcer: a comparison of sucralfate and cimetidine.",
+        "abstract": "A double blind randomised study was undertaken to compare sucralfate and cimetidine in short term treatment of gastric ulcer. The study included 149 patients with endoscopically confirmed gastric ulcerations. Patients with prepyloric ulcers 2 cm or less from the pyloric ring were not accepted for participation in the trial. Ulcer healing was assessed endoscopically at four week intervals. A total of 134 patients completed the study. The cumulative healing rates after 12 weeks were 98% for sucralfate and 94% for cimetidine treated patients. After four and eight weeks, the healing rates were 61% and 94% for sucralfate and 69% and 94% for the cimetidine-treated group respectively. No statistically significant differences in healing rates were seen. The 95% confidence interval was calculated for the difference between the ulcer healing rates of sucralfate and cimetidine. This interval was found to range between +11% and -2% after 12 weeks of treatment - that is, the healing efficacy of suc",
+        "journal": "Gut",
+        "year": "1986",
+        "authors": [
+          "Hallerbäck B",
+          "Anker-Hansen O",
+          "Carling L",
+          "Glise H",
+          "Solhaug J H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Prospective Studies",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3525336/"
+      },
+      {
+        "pmid": "3278955",
+        "title": "Effect of omeprazole and cimetidine on prepyloric gastric ulcer: double blind comparative trial.",
+        "abstract": "We conducted a six week double blind randomised study of 176 patients with prepyloric gastric ulcer to determine whether the proton pump inhibitor, omeprazole 30 mg daily would accelerate healing and pain relief, as compared with cimetidine 1 g daily. At two, four, and six weeks after entry ulcers healed in a larger percentage of patients treated with omeprazole (54, 81, and 86%) than of those treated with cimetidine (39, 73, and 78%) ('intention to treat' cohort; p less than 0.05 at two weeks). A higher proportion of patients on omeprazole became free of pain during the first week of treatment (p less than 0.05). No major clinical or biochemical side effects were noted. Omeprazole is an efficient treatment for patients with prepyloric gastric ulcers.",
+        "journal": "Gut",
+        "year": "1988",
+        "authors": [
+          "Lauritsen K",
+          "Rune S J",
+          "Wulff H R",
+          "Olsen J H",
+          "Laursen L S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3278955/"
+      },
+      {
+        "pmid": "6312110",
+        "title": "Ranitidine.",
+        "abstract": "Ranitidine is an H2-receptor antagonist that was released recently for use in the treatment of acute duodenal ulcer disease, Zollinger-Ellison syndrome, and systemic mastocytosis with gastric hypersecretion. The pharmacokinetics, efficacy, adverse effects, and clinical utility of ranitidine are presented. The drug is similar in therapeutic effect to its predecessor, cimetidine, yet has certain advantages over cimetidine in clinical applications.",
+        "journal": "JAMA",
+        "year": "1983",
+        "authors": [
+          "Strum W B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Animals",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Humans",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6312110/"
+      },
+      {
+        "pmid": "1576367",
+        "title": "Helicobacter pylori and gastric ulcer therapy: reflections and uncertainties.",
+        "abstract": "The relationship between Helicobacter pylori (HP) and gastric ulcer therapy is examined by analyzing both the data that suggest that eradication of HP renders the gastric mucosa less susceptible to development of gastric ulcer as well as the substantial body of evidence that does not support this contention. The results reported in clinical trials with colloidal bismuth citrate, antimicrobial agents (furazolidone), and combinations of anti-ulcer and antimicrobial agents (H2-antagonist+cefixime, H2-antagonist+metronidazole) are reviewed. Also analyzed is the relationship between HP eradication and ulcer recurrence. Only one study is available on this aspect, and the limited evidence it provides in favour of a prophylactic effect of eradication therapy is not entirely convincing. The authors conclude that there is no reasonable case for the dogmatic assumption that eradication of HP facilitates either acute healing or long-term prophylaxis of gastric ulcer, though certain subgroups of ga",
+        "journal": "The Italian journal of gastroenterology",
+        "year": "1992",
+        "authors": [
+          "Dobrilla G",
+          "Piazzi L",
+          "Amplatz S",
+          "Benvenuti S",
+          "Di Fede F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Ulcer Agents",
+          "Cefixime",
+          "Cefotaxime",
+          "Cimetidine",
+          "Drug Therapy, Combination",
+          "Furazolidone",
+          "Gastritis",
+          "Helicobacter Infections",
+          "Helicobacter pylori"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1576367/"
+      },
+      {
+        "pmid": "388168",
+        "title": "Cimetidine and gastric ulcer healing: a double-blind controlled trial.",
+        "abstract": "The effect of cimetidine in the daily dose of 1200 mg on the healing rate of chronic gastric ulcer was assessed in a randomized double-blind trial in 48 patients. Cimetidine was found to accelerate the healing of chronic gastric ulcers in the ambulant patients, but it conferred no additional benefit on the patients in hospital. No significant side effects were observed.",
+        "journal": "The Medical journal of Australia",
+        "year": "1979",
+        "authors": [
+          "Landecker K D",
+          "Crawford J",
+          "Hunt J H",
+          "Gillespie P",
+          "Piper D W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Chronic Disease",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Guanidines",
+          "Humans",
+          "Male",
+          "Outpatients",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/388168/"
+      },
+      {
+        "pmid": "7843262",
+        "title": "Cimetidine and omeprazole accelerate gastric ulcer healing by an increase in gastrin secretion.",
+        "abstract": "Daily oral administration of cimetidine or omeprazole markedly accelerated the healing of acetic acid-induced gastric ulcers in rats with a limited food intake time. The increased gastric acid secretion induced by daily treatment with histamine affected neither the spontaneous healing of the ulcers nor the healing-promoting actions of both agents. Pretreatment of rats with ulcers with 6-hydroxydopamine significantly inhibited the increase in the antrum gastrin cells, serum gastrin levels and corpus mucosal thickness elicited by repeated administration of cimetidine or omeprazole. Pretreatment with 6-hydroxydopamine did not affect the inhibitory actions of cimetidine and omeprazole on acid secretion, but completely abolished the ulcer healing-promoting actions of both drugs. Daily intraperitoneal administration of pentagastrin accelerated ulcer healing. These results suggest that cimetidine and omeprazole mainly accelerate the healing of gastric ulcers by the trophic action of gastrin v",
+        "journal": "European journal of pharmacology",
+        "year": "1994",
+        "authors": [
+          "Ito M",
+          "Segami T",
+          "Inaguma K",
+          "Suzuki Y"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Analysis of Variance",
+          "Animals",
+          "Cimetidine",
+          "Disease Models, Animal",
+          "Drug Interactions",
+          "Drug Synergism",
+          "Eating",
+          "Gastric Acid",
+          "Gastric Mucosa",
+          "Gastrins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7843262/"
+      },
+      {
+        "pmid": "340331",
+        "title": "Cimetidine and placebo in the treatment of benign gastric ulcer: a multicenter double blind study.",
+        "abstract": "A randomized, prospective, multicenter trial of the effects of cimetidine on benign gastric ulcer was conducted in 60 outpatients. Endoscopic assessment was used as the criterion for healing. Although none of the differences was statistically significant, mean healing rates were higher and mean decreases in ulcer size were greater with cimetidine than they were with placebo. Twenty-four per cent of the ulcers healed completely in 2 weeks when cimetidine was administered, compared with a placebo healing rate of 14 percent. At 6 weeks in the incidence of healing increased to 60 percent in the cimetidine group and 41 percent in the placebo group. The mean percentage of decrease in ulcer size was greater at both 2 and 6 weeks in the cimetidine group than it was in the placebo group. In both, the cimetidine and placebo groups, relatively liberal intake of a potent antacids in treatment of gastric ulcers has not been defined definitively. Thus, a possible beneficial effect of cimetidine may ",
+        "journal": "Gastroenterology",
+        "year": "1978",
+        "authors": [
+          "Dyck W P",
+          "Belsito A",
+          "Fleshler B",
+          "Liebermann T R",
+          "Dickinson P B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Gastric Juice",
+          "Gastroscopy",
+          "Guanidines",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/340331/"
+      },
+      {
+        "pmid": "6356321",
+        "title": "Sucralfate, and cimetidine for gastric ulcer.",
+        "abstract": "Eighty consecutive patients with endoscopically proven gastric ulcer were randomly assigned to treatment with sucralfate, 1 g four times daily, or cimetidine, 200 mg three times daily and 400 mg at night. The patients were endoscoped after four and eight weeks by an examiner who was unaware of the treatment in use. Of the 40 patients assigned to each treatment group, 2 in the sucralfate and 4 in the cimetidine group were withdrawn due to the finding of gastric cancer in the biopsies. Two patients in the sucralfate and 3 patients in the cimetidine group interrupted treatment. Complete ulcer healing was found after four weeks of treatment in 17 of the 36 patients (47%) in the sucralfate and in 16 of the 33 patients (48%) in the cimetidine group. The cumulative healing rate after 8 weeks of treatment was 80% in the sucralfate group and 73% in the cimetidine group. There were no serious side effects, but it was necessary to discontinue treatment with cimetidine in two subjects because of r",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1983",
+        "authors": [
+          "Lahtinen J",
+          "Aukee S",
+          "Miettinen P",
+          "Poikolainen E",
+          "Pääkkönen M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Anti-Ulcer Agents",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Random Allocation",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6356321/"
+      },
+      {
+        "pmid": "6853984",
+        "title": "Cimetidine for recurrent ulcer after gastric surgery.",
+        "abstract": "Seven of nine patients with ulcers recurring after a variety of gastric operations enjoyed loss of dyspeptic symptoms within 2 days of taking cimetidine, 1,200 mg/day for 6 weeks, and endoscopic confirmation of healing of the recurrent ulcer was established within 6 weeks of therapy. Once ulcer healing had been achieved in these seven patients, symptomatic remission persisted for over 19 months without maintenance therapy with cimetidine, and no complications suggestive of recurrent ulcerations occurred during this period in these seven patients. The eighth patient with a recurrent ulcer after vagotomy and pyloroplasty had symptoms suggestive of a gastric outlet obstruction in association with a bezoar and an elevated fasting serum gastrin concentration; cimetidine failed to heal the ulcer and a partial gastrectomy with Billroth I anastomosis was undertaken. The ninth patient lost his dyspeptic symptoms while on cimetidine, but 1 month after stopping therapy he succumbed to a massive h",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "1983",
+        "authors": [
+          "Thomson A B",
+          "Brust R",
+          "Dwyer J M",
+          "Wensel R",
+          "Sherbaniuk R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Dyspepsia",
+          "Female",
+          "Follow-Up Studies",
+          "Gastrectomy",
+          "Gastrins",
+          "Gastroscopy",
+          "Guanidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6853984/"
+      },
+      {
+        "pmid": "3937820",
+        "title": "Comparison of misoprostol and cimetidine in the treatment of gastric ulcer.",
+        "abstract": "The efficacy of misoprostol (a synthetic analogue of prostaglandin E1) and cimetidine in the treatment of gastric ulcer was evaluated. Thirty-two patients with endoscopically proven gastric ulcer were randomized, in a double-blind manner, in one of three groups that received four daily doses of either misoprostol, 50 or 200 micrograms, or cimetidine, 300 mg. Ulcer healing was assessed endoscopically after 4 weeks of treatment. The three groups were fairly comparable in their alcohol and caffeine intake, previous ulcer history and ulcer size. A relatively high proportion of patients in the cimetidine-treated group was smokers. Only one patient was withdrawn from the study. On the misoprostol low dose, healing of the ulcer was observed in 20% of the patients. In contrast, healing on the high dose of misoprostol (70%) was not significantly different from that on cimetidine (73%). No important clinical side effects were observed in any of the patients. These results (part of a multicenter,",
+        "journal": "Israel journal of medical sciences",
+        "year": "1985",
+        "authors": [
+          "Fich A",
+          "Goldin E",
+          "Zimmerman J",
+          "Ligumsky M",
+          "Rachmilewitz D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Alprostadil",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Gastric Mucosa",
+          "Gastroscopy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3937820/"
+      },
+      {
+        "pmid": "3885813",
+        "title": "Healing of benign gastric ulcer: comparison of cimetidine and placebo in the United States.",
+        "abstract": "Recently the Food and Drug Administration approved cimetidine for the treatment of benign gastric ulcer. Approval was based in part on the results of our large multicenter trial involving 172 patients with benign gastric ulcer between 0.5 and 2.5 cm in diameter: 87 were randomly assigned to receive cimetidine (300 mg four times daily) and 85 to receive placebo. Cimetidine treatment resulted in significantly more rapid healing than placebo; after 2 and 6 weeks of therapy, 10.0% and 44.8% of patients receiving placebo were healed, as compared to 22.6% and 65.1% receiving cimetidine. The results of our study were compared with the time-response curve previously published (0, 4, and 8 weeks of therapy). The combined data yielded linear healing rates for the first 8 weeks of therapy (r greater than 0.99 for both cimetidine and placebo). These studies can be used to define expectations for healing of benign gastric ulcer, and we recommend follow-up intervals of 8 and, if unhealed, 16 weeks.",
+        "journal": "Annals of internal medicine",
+        "year": "1985",
+        "authors": [
+          "Graham D Y",
+          "Akdamar K",
+          "Dyck W P",
+          "Englert E",
+          "Strickland R G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Gastroscopy",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3885813/"
+      },
+      {
+        "pmid": "6313458",
+        "title": "Comparison of ranitidine and cimetidine in the treatment of chronic gastric ulcer. A double-blind trial.",
+        "abstract": "The aim of the study was to compare the effectiveness of ranitidine and cimetidine in accelerating the healing of chronic gastric ulcer. 44 outpatients with endoscopically proven gastric ulcer whose duration of symptoms was greater than 4 weeks and who were without major systemic disease were studied. Patients were randomly allocated to receive either ranitidine, 150 mg twice a day or cimetidine, 200 mg three times a day and 400 mg at night for 4 weeks. If the ulcer had not healed, treatment was continued for a further 4 weeks, when patient assessment and endoscopy were repeated. By 4 weeks, 13 of 22 patients taking ranitidine (59%) and 14 of 22 patients taking cimetidine (64%) had healed (p2 = 1.0, 95% confidence interval - 20%, 38%). At 8 weeks, 91% on ranitidine and 91% on cimetidine had healed (p2 = 1.0, 95% confidence interval - 18%, 18%). Symptomatic improvement was similar with both drugs. Smoking did not influence healing rates. There were no major side effects with either medi",
+        "journal": "Digestion",
+        "year": "1983",
+        "authors": [
+          "Kellow J E",
+          "Barr G D",
+          "Cowen A E",
+          "Ward M",
+          "Wood L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Alcohol Drinking",
+          "Anti-Ulcer Agents",
+          "Chronic Disease",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6313458/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:54:12.438967",
+  "success": true,
+  "error_message": null
+}

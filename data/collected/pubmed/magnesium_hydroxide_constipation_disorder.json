@@ -1,0 +1,512 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Hydroxide",
+    "disease": "constipation disorder",
+    "query_string": "Magnesium Hydroxide AND constipation disorder"
+  },
+  "data": {
+    "query": "Magnesium Hydroxide AND constipation disorder",
+    "results": [
+      {
+        "pmid": "30132304",
+        "title": "Phosphate binders for preventing and treating chronic kidney disease-mineral and bone disorder (CKD-MBD).",
+        "abstract": "Phosphate binders are used to reduce positive phosphate balance and to lower serum phosphate levels for people with chronic kidney disease (CKD) with the aim to prevent progression of chronic kidney disease-mineral and bone disorder (CKD-MBD). This is an update of a review first published in 2011.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2018",
+        "authors": [
+          "Ruospo Marinella",
+          "Palmer Suetonia C",
+          "Natale Patrizia",
+          "Craig Jonathan C",
+          "Vecchio Mariacristina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Calcium",
+          "Calcium Compounds",
+          "Cause of Death",
+          "Chelating Agents",
+          "Chronic Disease",
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Disease Progression",
+          "Fibroblast Growth Factor-23"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30132304/"
+      },
+      {
+        "pmid": "21116598",
+        "title": "Comparison of the effectiveness of polyethylene glycol 4000 without electrolytes and magnesium hydroxide in the treatment of chronic functional constipation in children.",
+        "abstract": "To compare the effectiveness of two drugs, polyethylene glycol 4000 without electrolytes and magnesium hydroxide, in the treatment of chronic functional constipation in children.",
+        "journal": "Jornal de pediatria",
+        "year": "2011",
+        "authors": [
+          "Gomes Patricia Boechat",
+          "Duarte Marco Antônio",
+          "Melo Maria do Carmo Barros de"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Constipation",
+          "Female",
+          "Humans",
+          "Laxatives",
+          "Magnesium Hydroxide",
+          "Male",
+          "Polyethylene Glycols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21116598/"
+      },
+      {
+        "pmid": "2553511",
+        "title": "Comparison of the effects of magnesium hydroxide and a bulk laxative on lipids, carbohydrates, vitamins A and E, and minerals in geriatric hospital patients in the treatment of constipation.",
+        "abstract": "In a crossover study the effects of magnesium hydroxide on serum lipids, carbohydrates, vitamins A and E, uric acid and whole blood minerals were compared with those of a bulk laxative containing plantago rind and sorbitol in 64 constipated, elderly long-stay patients, 55 of whom were receiving diuretics. Hypomagnesaemia occurred in 11 (17%) patients after bulk laxative and in two (2%) patients after magnesium hydroxide treatment. There was a slight reduction in low values of high-density lipoprotein cholesterol and high values of triglycerides after magnesium hydroxide treatment. There were no significant differences in plasma lipids, whole blood minerals or vitamins A and E using either laxative. Negative correlations were found between the increase in serum concentrations of magnesium and glycosylated haemoglobin A1 (P less than 0.02) and the serum level of uric acid (P less than 0.01). These results suggest that the long-term effects of magnesium hydroxide and bulk laxative on the ",
+        "journal": "The Journal of international medical research",
+        "year": "1989",
+        "authors": [
+          "Kinnunen O",
+          "Salokannel J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Blood Glucose",
+          "Cathartics",
+          "Cholesterol",
+          "Cholesterol, HDL",
+          "Clinical Trials as Topic",
+          "Constipation",
+          "Dietary Fiber",
+          "Diuretics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2553511/"
+      },
+      {
+        "pmid": "25310742",
+        "title": "Efficacy and complications of polyethylene glycols for treatment of constipation in children: a meta-analysis.",
+        "abstract": "Constipation is a common childhood complaint. In 90% to 95% of children, constipation is functional, which means that there is no objective evidence of an underlying pathological condition. Polyethylene glycol (PEG or macrogol) solution is an osmotic laxative agent that is absorbed in only trace amounts from the gastrointestinal tract and routinely used to treat chronic constipation in adults. Here, we report the results of a meta-analysis of PEG-based laxatives compared with lactulose, milk of magnesia (magnesium hydroxide), oral liquid paraffin (mineral oil), or acacia fiber, psyllium fiber, and fructose in children. This meta-analysis was conducted in accordance with PRISMA guidelines and involved searches of MEDLINE, Cochrane, EMBASE, and Google Scholar databases up to February 10, 2014, using the keywords (Constipation OR Functional Constipation OR Fecal Impaction) AND (Children) AND (Polyethylene Glycol OR Laxative). Primary efficacy outcomes included a number of stool passages/w",
+        "journal": "Medicine",
+        "year": "2014",
+        "authors": [
+          "Chen Si-Le",
+          "Cai Shi-Rong",
+          "Deng Liang",
+          "Zhang Xin-Hua",
+          "Luo Te-Dong"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Chronic Disease",
+          "Constipation",
+          "Humans",
+          "Laxatives",
+          "Models, Statistical",
+          "Polyethylene Glycols",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25310742/"
+      },
+      {
+        "pmid": "38152602",
+        "title": "Fatal Hypermagnesemia in Patients Taking Magnesium Hydroxide.",
+        "abstract": "Hypermagnesemia is a rare but potentially fatal electrolyte disorder often overlooked because of its unfamiliarity. Magnesium is regulated through a balance of bone, intestinal absorption, and renal excretion. Hypermagnesemia typically arises from excessive magnesium intake or reduced renal excretion; however, it also occurs in patients with normal kidney function. Herein, we report two cases of hypermagnesemia in patients taking magnesium hydroxide for constipation. The first case involved an 82-year-old woman with end-stage renal disease who developed metabolic encephalopathy due to hypermagnesemia, after taking 3,000 mg of magnesium hydroxide daily for constipation. Her magnesium level was 9.9 mg/dL. Her treatment involved discontinuing magnesium hydroxide and continuing hemodialysis, which led to her recovery. In the second case, a 50-year-old woman with a history of cerebral hemorrhage and mental retardation developed hypermagnesemia despite having normal renal function. She was a",
+        "journal": "Electrolyte & blood pressure : E & BP",
+        "year": "2023",
+        "authors": [
+          "Jou Da Hye",
+          "Kim Su In",
+          "Choi In Hong",
+          "Song Su Hyun",
+          "Oh Tae Ryom"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38152602/"
+      },
+      {
+        "pmid": "17955081",
+        "title": "Review of the treatment options for chronic constipation.",
+        "abstract": "Constipation is a common gastrointestinal motility disorder that is often chronic, negatively affects patients' daily lives, and is associated with high healthcare costs. There is a considerable range of treatment modalities available for patients with constipation; however, the clinical evidence supporting their use varies widely. Nonpharmacologic modalities, such as increased exercise or fluid intake and bowel habit training, are generally recommended as first-line approaches, but data on the effectiveness of these measures are limited. The clinical benefits of various traditional pharmacologic agents (many of which are available over the counter, such as laxatives and fiber supplements) remain unclear. Although these modalities may benefit some patients with temporary constipation, their efficacy in patients for whom constipation is chronic is less well defined. Some studies suggest benefit with psyllium, polyethylene glycol, and lactulose; however, the use of other agents, such as ",
+        "journal": "MedGenMed : Medscape general medicine",
+        "year": "2007",
+        "authors": [
+          "Johanson John F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chronic Disease",
+          "Constipation",
+          "Decision Support Techniques",
+          "Humans",
+          "Practice Guidelines as Topic",
+          "Practice Patterns, Physicians'"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17955081/"
+      },
+      {
+        "pmid": "34506747",
+        "title": "Management of children with functional constipation referred to tertiary care.",
+        "abstract": "To describe the management, to compare treatment at initial referral vs. during specialized follow-up, and to describe outcomes of children with functional constipation (FC) referred to a Brazilian tertiary care center.",
+        "journal": "Jornal de pediatria",
+        "year": "2022",
+        "authors": [
+          "de Campos Giovanna Roberta Camargo",
+          "Sandy Natascha Silva",
+          "Lomazi Elizete Aparecida",
+          "Bellomo-Brandao Maria Angela"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Constipation",
+          "Enema",
+          "Female",
+          "Humans",
+          "Male",
+          "Referral and Consultation",
+          "Retrospective Studies",
+          "Tertiary Health Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34506747/"
+      },
+      {
+        "pmid": "20011352",
+        "title": "Childhood constipation: evaluation and management.",
+        "abstract": "Constipation is a common problem in children. It is also a long-term problem persisting for many months to years in children. Approximately 95% of childhood constipation is functional in nature without any obvious cause. Evaluation of a child with constipation requires a thorough history and physical examination. Hirschsprung's disease is an important cause of constipation arising in infancy and requires a thorough diagnostic evaluation and surgical treatment. Treatment of functional constipation in children requires a well-designed plan and a team approach involving the child, parents, and a health care provider. Treatment involves education of the family about constipation and encopresis, fecal disimpaction, and long-term maintenance therapy of laxatives and behavioral modification. Laxatives such as magnesium hydroxide, lactulose, and mineral oil have been used in children for a long time. A new laxative, polyethylene glycol 3350, has been used successfully in children with constipa",
+        "journal": "Clinics in colon and rectal surgery",
+        "year": "2005",
+        "authors": [
+          "Pashankar Dinesh S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20011352/"
+      },
+      {
+        "pmid": "24345842",
+        "title": "Chronic functional constipation in children: adherence and factors associated with drug treatment.",
+        "abstract": "The aim of the present study was to evaluate the treatment adherence of children with chronic functional constipation.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "2014",
+        "authors": [
+          "Steiner Sílvia A",
+          "Torres Marcia R F",
+          "Penna Francisco J",
+          "Gazzinelli Barbara F",
+          "Corradi Caroline G A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ambulatory Care Facilities",
+          "Brazil",
+          "Caregivers",
+          "Child",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Constipation",
+          "Fathers",
+          "Feces"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24345842/"
+      },
+      {
+        "pmid": "236651",
+        "title": "Pharmacology and clinical use of antacids.",
+        "abstract": "The pharmacology of antacids, with particular reference to their clinical use in treating acid-peptic disease, is discussed. Liquid antacid suspension should be given at least as often as one hour after each meal and at bedtime. Inthe treatment of the acute phase of acid-peptic disease, hourly antacid is recommended. The dose should be planned in terms of milliequivalents of acid neutralizing capacity and should be adjusted according to the type of disease under treatment. All antacids have side effects, the most serious of which are metabolic. In clinical terms, the harmful sustemicside effects of calcium carbonate and sodium bicarbonate outweigh their benefit as neutralizing agents; they should rarely be employed in the treatment of acid-peptic disease. The more common antacid side effects of diarrhea (magnesium hydroxide) and constipation (aluminum hydroxide) are best managed by appropriately alternating the agents or by using one of the various antacid mixtures.",
+        "journal": "American journal of hospital pharmacy",
+        "year": "1975",
+        "authors": [
+          "Green F W",
+          "Norton R A",
+          "Kaplan M M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Drug Combinations",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Peptic Ulcer",
+          "Solubility",
+          "Stomach Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/236651/"
+      },
+      {
+        "pmid": "22786523",
+        "title": "Osmotic and stimulant laxatives for the management of childhood constipation.",
+        "abstract": "Constipation within childhood is an extremely common problem. Despite the widespread use of osmotic and stimulant laxatives by health professionals to manage constipation in children, there has been a long standing paucity of high quality evidence to support this practice.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2012",
+        "authors": [
+          "Gordon Morris",
+          "Naidoo Khimara",
+          "Akobeng Anthony K",
+          "Thomas Adrian G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Child, Preschool",
+          "Constipation",
+          "Defecation",
+          "Dietary Fiber",
+          "Humans",
+          "Infant",
+          "Lactulose",
+          "Laxatives"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22786523/"
+      },
+      {
+        "pmid": "14157692",
+        "title": "TREATMENT OF THE CONSTIPATION-GAS SYNDROME IN GERIATRIC PATIENTS: USE OF A MAGNESIUM HYDROXIDE-SIMETHICONE EMULSION.",
+        "abstract": "",
+        "journal": "Journal of the American Geriatrics Society",
+        "year": "1964",
+        "authors": [
+          "DARLINGTON H F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cathartics",
+          "Constipation",
+          "Diet",
+          "Diet Therapy",
+          "Flatulence",
+          "Geriatrics",
+          "Humans",
+          "Magnesium Hydroxide",
+          "Simethicone",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14157692/"
+      },
+      {
+        "pmid": "6737191",
+        "title": "Sensitivity of the sigmoid colon and rectum in children treated for chronic constipation.",
+        "abstract": "Sensations in the sigmoid and rectum and the response of the anal canal to balloon distension were measured with a latex balloon and pressure transducer in 15 chronically constipated and 15 healthy control children. The constipated children received milk of magnesia and bowel training. Thirteen constipated children were restudied 7-12 months later and 11 were restudied 3 years later. Although thresholds of transient sensation and of the rectosphincteric reflex were not different in constipated and control children, the threshold of fullness, the critical volume, and the volume for constant relaxation were significantly higher in constipated than in control children (p less than 0.05), and remained higher 1 year and 3 years later, even in the children who recovered. The initial data support the concept of a sigmoid and rectum so enlarged that a normal fecal bolus may not cause a sensation of fullness or a sensory stimulus for defecation. Despite improvement in clinical manifestations an",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "1984",
+        "authors": [
+          "Loening-Baucke V A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anal Canal",
+          "Catheterization",
+          "Child",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Colon, Sigmoid",
+          "Constipation",
+          "Defecation",
+          "Enema",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6737191/"
+      },
+      {
+        "pmid": "23878124",
+        "title": "Cochrane Review: Osmotic and stimulant laxatives for the management of childhood constipation (Review).",
+        "abstract": "Constipation within childhood is an extremely common problem. Despite the widespread use of osmotic and stimulant laxatives by health professionals to manage constipation in children, there has been a long standing paucity of high quality evidence to support this practice.",
+        "journal": "Evidence-based child health : a Cochrane review journal",
+        "year": "2013",
+        "authors": [
+          "Gordon Morris",
+          "Naidoo Khimara",
+          "Akobeng Anthony K",
+          "Thomas Adrian G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Child, Preschool",
+          "Constipation",
+          "Defecation",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Lactulose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23878124/"
+      },
+      {
+        "pmid": "6267275",
+        "title": "Constipation--a simple approach to treatment.",
+        "abstract": "A simple method of treating patients with constipation is outlined and has been used successfully in 40 patients with severe primary constipation or constipation associated with diverticular disease.",
+        "journal": "The Journal of the Royal College of General Practitioners",
+        "year": "1981",
+        "authors": [
+          "Clark C G",
+          "Godfrey J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Constipation",
+          "Dietary Fiber",
+          "Energy Intake",
+          "Female",
+          "Humans",
+          "Magnesium Hydroxide",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6267275/"
+      },
+      {
+        "pmid": "9533062",
+        "title": "Antacid-induced hypermagnesemia in a patient with normal renal function and bowel obstruction.",
+        "abstract": "To report a case of severe hypermagnesemia caused by magnesium hydroxide in a woman with normal renal function.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1998",
+        "authors": [
+          "McLaughlin S A",
+          "McKinney P E"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antacids",
+          "Fatal Outcome",
+          "Female",
+          "Humans",
+          "Intestinal Obstruction",
+          "Magnesium",
+          "Magnesium Chloride",
+          "Sigmoid Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9533062/"
+      },
+      {
+        "pmid": "6668039",
+        "title": "Chronic constipation in infants and children.",
+        "abstract": "",
+        "journal": "Indian journal of pediatrics",
+        "year": "1983",
+        "authors": [
+          "Younoszai M K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Constipation",
+          "Enema",
+          "Hirschsprung Disease",
+          "Humans",
+          "Infant",
+          "Magnesium Hydroxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6668039/"
+      },
+      {
+        "pmid": "6617982",
+        "title": "Open safety-in-use trial of a new high-potency antacid product.",
+        "abstract": "In an open safety-in-use study, the subjective effectiveness and taste acceptability of a new high-potency antacid product were compared to previous treatment in 109 patients presenting with upper gastro-intestinal disorders of functional origin. Severity of the dominant symptoms prior to treatment was compared with that of symptoms present during treatment. Sixty-seven per cent to 73% of upper gastro-intestinal tract symptoms were completely relieved. Eighty-three per cent versus 48% of patients seen in a private practice setting, as compared with the speciality practice, reported good to excellent results, with 92% versus 56% describing good to excellent taste acceptability. When compared with previous antacid therapy, 70% of the patients preferred the new high-potency formulation to the regular-strength products, for both effectiveness and taste. The incidence of product-related side-effects was low, with only 6.7% experiencing the diarrhoea or loose stools commonly associated with ",
+        "journal": "The Journal of international medical research",
+        "year": "1983",
+        "authors": [
+          "Pawlowski G J",
+          "Krondl A",
+          "Darke A C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Colonic Diseases, Functional",
+          "Constipation",
+          "Diarrhea",
+          "Drug Combinations",
+          "Drug Evaluation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6617982/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:24:12.729124",
+  "success": true,
+  "error_message": null
+}

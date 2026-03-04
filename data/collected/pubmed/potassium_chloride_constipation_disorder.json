@@ -1,0 +1,571 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Potassium Chloride",
+    "disease": "constipation disorder",
+    "query_string": "Potassium Chloride AND constipation disorder"
+  },
+  "data": {
+    "query": "Potassium Chloride AND constipation disorder",
+    "results": [
+      {
+        "pmid": "31187895",
+        "title": "Physiology of Electrolyte Transport in the Gut: Implications for Disease.",
+        "abstract": "We now have an increased understanding of the genetics, cell biology, and physiology of electrolyte transport processes in the mammalian intestine, due to the availability of sophisticated methodologies ranging from genome wide association studies to CRISPR-CAS technology, stem cell-derived organoids, 3D microscopy, electron cryomicroscopy, single cell RNA sequencing, transgenic methodologies, and tools to manipulate cellular processes at a molecular level. This knowledge has simultaneously underscored the complexity of biological systems and the interdependence of multiple regulatory systems. In addition to the plethora of mammalian neurohumoral factors and their cross talk, advances in pyrosequencing and metagenomic analyses have highlighted the relevance of the microbiome to intestinal regulation. This article provides an overview of our current understanding of electrolyte transport processes in the small and large intestine, their regulation in health and how dysregulation at mult",
+        "journal": "Comprehensive Physiology",
+        "year": "2019",
+        "authors": [
+          "Rao Mrinalini C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Body Water",
+          "Electrolytes",
+          "Gastrointestinal Microbiome",
+          "Intestinal Absorption",
+          "Intestinal Diseases",
+          "Intestinal Mucosa",
+          "Ion Transport",
+          "Membrane Transport Proteins",
+          "Neurotransmitter Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31187895/"
+      },
+      {
+        "pmid": "31096799",
+        "title": "Use of prucalopride in adults with chronic idiopathic constipation.",
+        "abstract": "Introduction: Prucalopride is a selective 5-HT4 receptor agonist with colonic prokinetic activity. It was recently approved by the FDA for the treatment of chronic idiopathic constipation. Before this approval, there were limited options to improve colonic motility in the treatment of chronic idiopathic constipation. Areas covered: We systematically searched PubMed, Embase, ClinicalTrials.gov, and international conference presentations, and we reviewed all studies that evaluated prucalopride for the treatment of chronic idiopathic constipation in adults. In this review, we discuss the pharmacokinetics, pharmacodynamics, receptor interactions, phase I-IV clinical trials, and safety outcomes of prucalopride in adults, including the elderly. Expert opinion: Prucalopride is an effective agent to improve colonic motility, decrease colonic transit time, and increase complete spontaneous bowel movements in patients with chronic idiopathic constipation. Unlike previously available 5-HT4 recept",
+        "journal": "Expert review of clinical pharmacology",
+        "year": "2019",
+        "authors": [
+          "Vijayvargiya Priya",
+          "Camilleri Michael"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Benzofurans",
+          "Chronic Disease",
+          "Constipation",
+          "Gastrointestinal Motility",
+          "Humans",
+          "Laxatives",
+          "Serotonin 5-HT4 Receptor Agonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31096799/"
+      },
+      {
+        "pmid": "35996119",
+        "title": "Clinical significance of potential drug-drug interactions in older adults with psychiatric disorders: a retrospective study.",
+        "abstract": "Polypharmacy increases the risk of potential drug-drug interactions (pDDIs). This retrospective analysis was conducted to detect pDDIs and adverse drug reactions (ADRs) among older adults with psychiatric disorder, and identify pDDIs with clinical significance.",
+        "journal": "BMC psychiatry",
+        "year": "2022",
+        "authors": [
+          "Liu Yu",
+          "Yang Man",
+          "Ding Yaping",
+          "Wang Huanqiang",
+          "Zhang Hailin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Drug Interactions",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Lorazepam",
+          "Mental Disorders",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35996119/"
+      },
+      {
+        "pmid": "32678865",
+        "title": "Characterization of gut contractility and microbiota in patients with severe chronic constipation.",
+        "abstract": "Chronic constipation (CC) is one of the most common gastrointestinal disorders worldwide. Its pathogenesis, however, remains largely unclear. The purpose of the present work was to gain an insight into the role of contractility and microbiota in the etiology of CC. To this end, we studied spontaneous and evoked contractile activity of descending colon segments from patients that have undergone surgery for refractory forms of CC. The juxta-mucosal microbiota of these colon samples were characterized with culture-based and 16S rRNA sequencing techniques. In patients with CC the spontaneous colonic motility remained unchanged compared to the control group without dysfunction of intestinal motility. Moreover, contractions induced by potassium chloride and carbachol were increased in both circular and longitudinal colonic muscle strips, thus indicating preservation of contractile apparatus and increased sensitivity to cholinergic nerve stimulation in the constipated intestine. In the test g",
+        "journal": "PloS one",
+        "year": "2020",
+        "authors": [
+          "Yarullina Dina R",
+          "Shafigullin Marat U",
+          "Sakulin Kirill A",
+          "Arzamastseva Anastasiia A",
+          "Shaidullov Ilnar F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chronic Disease",
+          "Classification",
+          "Colon",
+          "Constipation",
+          "Female",
+          "Gastrointestinal Microbiome",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32678865/"
+      },
+      {
+        "pmid": "28531429",
+        "title": "Metabolic disturbances in patients with cerebral palsy and gastrointestinal disorders.",
+        "abstract": "Under nutrition and growth failure are common findings in children with cerebral palsy (CP) and neurologically impairments. Electrolyte and micronutrient abnormalities have also been documented. Gastrointestinal (GI) diseases like gastro esophageal reflux disease (GERD), feeding difficulties and constipation have been associated with increased frequency of these derangements. The goal of this study was to determine the prevalence of malnutrition, metabolic and electrolyte abnormalities in pediatric patients with cerebral palsy and gastrointestinal disorders. A retrospective review of 172 medical records was performed out of which 45 subjects did not have any GI problem, 69 patients had constipation and 58 patients either had GERD, esophagitis, gastrostomy and feeding difficulties. Data collected included: weight, length and body mass index, pre-albumin, albumin, vitamin D, potassium, chloride, bicarbonate, calcium, magnesium (Mg), phosphorus. The results demonstrate a significant diffe",
+        "journal": "Clinical nutrition ESPEN",
+        "year": "2016",
+        "authors": [
+          "Jaramillo Catalina",
+          "Johnson Abiodun",
+          "Singh Ruchi",
+          "Vasylyeva Tetyana L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Academic Medical Centers",
+          "Adolescent",
+          "Biomarkers",
+          "Cerebral Palsy",
+          "Child",
+          "Child, Preschool",
+          "Combined Modality Therapy",
+          "Constipation",
+          "Deficiency Diseases",
+          "Deglutition Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28531429/"
+      },
+      {
+        "pmid": "37197558",
+        "title": "A novel case of homozygous PAX1 mutation associated with hypoparathyroidism.",
+        "abstract": "The PAX1 gene plays an important role in the development of the parathyroid glands and the thymus. Mouse knockout models of PAX1, PAX3, and PAX9 have been found to have hypoplastic or absent parathyroid glands. To our knowledge, there are no reported cases of PAX1-associated hypoparathyroidism in humans. We present a case of hypoparathyroidism in a 23-month-old boy with a homozygous pathogenic variant in the PAX1 gene (PAX1 NM_006192.5 c.463_465del variant), predicted to cause an in-frame deletion of asparagine at position 155 (p.Asn155del) of the PAX1 protein. The hypoparathyroidism was unmasked after the patient developed significant hypocalcemia while receiving GoLYTELY (polyethylene glycol 3350, sodium sulfate anhydrous, sodium bicarbonate, sodium chloride, potassium chloride) for bowel cleanout. The patient had mild and asymptomatic hypocalcemia prior to hospitalization. The patient was noted to have inappropriately normal parathyroid hormone (PTH) level at the time of documented ",
+        "journal": "Therapeutic advances in rare disease",
+        "year": "2023",
+        "authors": [
+          "Hamel Benjamin L",
+          "Kumar Seema",
+          "Heidenreich Leah",
+          "Joshi Avni",
+          "DaSilva Christiana"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37197558/"
+      },
+      {
+        "pmid": "26152628",
+        "title": "Gitelman's syndrome as a cause of poorly controlled hypokalemia.",
+        "abstract": "Gitelman's syndrome is a rare autosomal recessive tubulopathy caused by a defect of the thiazide-sensitive sodium chloride co-transporter at the distal tubule, leading to hypokalemia, metabolic alkalosis, hypomagnesemia, hypocalciuria and low-to-normal blood pressure. Clinical features include transient periods of muscle weakness and tetany, dizziness, abdominal pains and constipation. Patients can also present with convulsions due to severe metabolic alkalosis or hypomagnesemia. Therefore, early recognition and treatment are important. Diagnosis of Gitelman's syndrome is usually made incidentally during adolescence or early adulthood based on clinical and biochemical findings. In this paper we present the case of a 23-year-old female patient referred to our nephrology department for severe hypokalemia. Complementary evaluation revealed hypokalemia, hypomagnesemia, metabolic alkalosis, increased chloride and sodium urinary excretion and reduced urinary calcium excretion with normal ren",
+        "journal": "La Clinica terapeutica",
+        "year": "2015",
+        "authors": [
+          "Dimitrijevic Z",
+          "Salinger-Martinovic S",
+          "Mitic B",
+          "Nikolic V"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkalosis",
+          "Calcium",
+          "Chlorides",
+          "Diagnosis, Differential",
+          "Female",
+          "Gitelman Syndrome",
+          "Humans",
+          "Hypokalemia",
+          "Magnesium",
+          "Potassium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26152628/"
+      },
+      {
+        "pmid": "11456284",
+        "title": "Clinical, biochemical and molecular genetic data in five children with Gitelman's syndrome.",
+        "abstract": "Gitelman's variant of Bartter's syndrome, inherited hypokalemic alkalosis, is caused by mutation in the thiazide-sensitive NaCl co-transporter (NCCT). The main clinical symptoms are: muscular weakness, carpopedal spasm, constipation and short stature. The diagnosis was suspected in five children according to clinical criteria. All patients exhibited carpopedal spasm during febrile illness, three patients had short stature. Biochemical features were: metabolic alkalosis, hypokalemia, hypomagnesemia, low IGF-I levels, hyperkaliuria, hypernatriuria, hypocalciuria and normoprostaglandinuria. Three patients had elevated plasma renin activity and hyperaldosteronism. Mutational analysis of the NCCT gene confirmed the diagnosis in all five patients. Different forms of therapy, potassium and magnesium substitution, spironolactone and indomethacin failed to fully correct hypokalemia and hypomagnesemia, but markedly improved growth velocity and normalized IGF-I levels in the three patients with s",
+        "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+        "year": "2001",
+        "authors": [
+          "Schmidt H",
+          "Kabesch M",
+          "Schwarz H P",
+          "Kiess W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Bartter Syndrome",
+          "Body Height",
+          "Carrier Proteins",
+          "Child",
+          "Child, Preschool",
+          "Electrolytes",
+          "Female",
+          "Homeostasis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11456284/"
+      },
+      {
+        "pmid": "32992050",
+        "title": "Inducible Deletion of YAP and TAZ in Adult Mouse Smooth Muscle Causes Rapid and Lethal Colonic Pseudo-Obstruction.",
+        "abstract": "YAP (Yap1) and TAZ (Wwtr1) are transcriptional co-activators and downstream effectors of the Hippo pathway, which play crucial roles in organ size control and cancer pathogenesis. Genetic deletion of YAP/TAZ has shown their critical importance for embryonic development of the heart, vasculature, and gastrointestinal mesenchyme. The aim of this study was to determine the functional role of YAP/TAZ in adult smooth muscle cells in vivo.",
+        "journal": "Cellular and molecular gastroenterology and hepatology",
+        "year": "2021",
+        "authors": [
+          "Daoud Fatima",
+          "Holmberg Johan",
+          "Alajbegovic Azra",
+          "Grossi Mario",
+          "Rippe Catarina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adaptor Proteins, Signal Transducing",
+          "Animals",
+          "Colon",
+          "Colonic Pseudo-Obstruction",
+          "Disease Models, Animal",
+          "Female",
+          "Gastrointestinal Motility",
+          "Humans",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32992050/"
+      },
+      {
+        "pmid": "16573444",
+        "title": "The essentials of calcium, magnesium and phosphate metabolism: part II. Disorders.",
+        "abstract": "To review the components of calcium, phosphate and magnesium metabolism that are relevant to the critically ill patient, in a two-part presentation.",
+        "journal": "Critical care and resuscitation : journal of the Australasian Academy of Critical Care Medicine",
+        "year": "2002",
+        "authors": [
+          "Baker S B",
+          "Worthley L I G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16573444/"
+      },
+      {
+        "pmid": "22079595",
+        "title": "Severe defects in absorptive ion transport in distal colons of mice that lack ClC-2 channels.",
+        "abstract": "The fluid secretion model predicts that intestinal obstruction disorders can be alleviated by promoting epithelial Cl(-) secretion. The adenosine 3',5'-cyclic monophosphate (cAMP)-activated anion channel CFTR mediates Cl(-)-dependent fluid secretion in the intestine. Although the role of the ClC-2 channel has not been determined in the intestine, this voltage-gated Cl(-) channel might compensate for the secretory defects observed in patients with cystic fibrosis and other chronic constipation disorders. We investigated whether mice that lack ClC-2 channels (Clcn2(-/-)) have defects in intestinal ion transport.",
+        "journal": "Gastroenterology",
+        "year": "2012",
+        "authors": [
+          "Catalán Marcelo A",
+          "Flores Carlos A",
+          "González-Begne Mireya",
+          "Zhang Yan",
+          "Sepúlveda Francisco V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blotting, Western",
+          "CLC-2 Chloride Channels",
+          "Chloride Channels",
+          "Chlorine",
+          "Colon",
+          "Constipation",
+          "Female",
+          "Intestinal Absorption",
+          "Intestinal Mucosa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22079595/"
+      },
+      {
+        "pmid": "23282232",
+        "title": "Gitelman syndrome as a cause of psychomotor retardation in a toddler.",
+        "abstract": "Gitelman syndrome (GS) is a very rare autosomal recessive tubulopathy due to loss-of-function or mutation in solute carrier family12, member 3 gene (SLC12A3 gene) encoding thiazide-sensitive NaCl co-transporter in the distal convoluted tubule, leading to hypokalemia, metabolic alkalosis, hypomagnesemia, hypocalciuria and low-to-normal blood pressure. Clinical signs are mostly secondary to chronic hypokalemia and include dizziness, fatigue, constipation and weakness. Patients can also present with muscle cramps, tetany, fatigue and convulsions due to severe metabolic alkalosis or hypomagnesemia. Manifestations of GS are rarely apparent before the age of five, and the syndrome is usually diagnosed during adolescence or adulthood. Here we describe a case of GS presenting in infancy with hypokalemia and psychomotor retardation.",
+        "journal": "Arab journal of nephrology and transplantation",
+        "year": "2013",
+        "authors": [
+          "Skalova Sylva",
+          "Neuman David",
+          "Lnenicka Petr",
+          "Stekrova Jitka"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dietary Supplements",
+          "Diuretics",
+          "Failure to Thrive",
+          "Gitelman Syndrome",
+          "Humans",
+          "Infant",
+          "Male",
+          "Potassium Chloride",
+          "Psychomotor Disorders",
+          "Receptors, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23282232/"
+      },
+      {
+        "pmid": "23856223",
+        "title": "[Efficacy, tolerance and safety of polyethylene glycol 3350 plus electrolytes for the treatment of functional constipation in children].",
+        "abstract": "To assess the renal safety of treatment with polyethylene glycol 3350 with electrolytes at 1, 3 and 6 months, its gastrointestinal tolerance and dose effectiveness.",
+        "journal": "Anales de pediatria (Barcelona, Spain : 2003)",
+        "year": "2014",
+        "authors": [
+          "Infante Pina D",
+          "Segarra Cantón O",
+          "Vilalta Casas R",
+          "Carnicer de la Pardina J",
+          "López Liñán M J"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Constipation",
+          "Cross-Sectional Studies",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Longitudinal Studies",
+          "Polyethylene Glycols",
+          "Potassium Chloride",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23856223/"
+      },
+      {
+        "pmid": "20488235",
+        "title": "Traditional Chinese formula, lubricating gut pill, improves loperamide-induced rat constipation involved in enhance of Cl- secretion across distal colonic epithelium.",
+        "abstract": "Lubricating gut pill (LGP), a traditional Chinese formula, was widely used for the treatment of chronic constipation, especially in the elderly, in China. However, it is unclear whether LGP-induced laxative and/or lubricating effect is involved in water and electrolytes transport in distal colonic epithelium.",
+        "journal": "Journal of ethnopharmacology",
+        "year": "2010",
+        "authors": [
+          "Wu Dazheng",
+          "Wang Xinhong",
+          "Zhou Jiyan",
+          "Yuan Jianye",
+          "Cui Bo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Chlorides",
+          "Cholinergic Antagonists",
+          "Colon",
+          "Constipation",
+          "Cyclic AMP",
+          "Cyclooxygenase Inhibitors",
+          "Cystic Fibrosis Transmembrane Conductance Regulator",
+          "Defecation",
+          "Disease Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20488235/"
+      },
+      {
+        "pmid": "8126626",
+        "title": "New treatment for rectal impaction in children: an efficacy, comfort, and safety trial of the pulsed-irrigation enhanced-evacuation procedure.",
+        "abstract": "To determine the efficacy, comfort, and safety of the pulsed-irrigation enhanced-evacuation (PIEE) procedure in children, we evaluated 27 procedures performed on 24 consecutive children, 16 boys and 8 girls, 4-15 years old (mean, 8.7), with chronic constipation, encopresis, and rectal impaction. Children with known heart, lung, and/or neurologic diseases were excluded. Temperature, pulse, respiratory rate, and blood pressure were obtained prior to, during, and immediately after the procedure. Abdominal radiographs were obtained before and after the procedure, and the degree of disimpaction was estimated by a single radiologist. Patients graded the discomfort of the procedure at the time of speculum insertion and every 15 min from 1 to 5: 1, painless; 2, mild discomfort; 3, moderate discomfort; 4, severe discomfort; 5, extremely painful. Serum sodium, potassium, chloride, and bicarbonate values were obtained before, immediately after, and 90 min after the procedure and compared by paire",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "1994",
+        "authors": [
+          "Gilger M A",
+          "Wagner M L",
+          "Barrish J O",
+          "McCarroll L R",
+          "Healy W M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Bicarbonates",
+          "Child",
+          "Child, Preschool",
+          "Chlorides",
+          "Chronic Disease",
+          "Constipation",
+          "Enema",
+          "Fecal Impaction",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8126626/"
+      },
+      {
+        "pmid": "9895382",
+        "title": "Comparison of a low dose polyethylene glycol electrolyte solution with lactulose for treatment of chronic constipation.",
+        "abstract": "Polyethylene glycol (PEG) 3350 is a non-absorbable, non-metabolised osmotic agent used in lavage solutions for gut cleansing.",
+        "journal": "Gut",
+        "year": "1999",
+        "authors": [
+          "Attar A",
+          "Lémann M",
+          "Ferguson A",
+          "Halphen M",
+          "Boutron M C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cathartics",
+          "Chronic Disease",
+          "Constipation",
+          "Drug Administration Schedule",
+          "Drug Combinations",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9895382/"
+      },
+      {
+        "pmid": "222419",
+        "title": "Recurrent obstipation as a complication of partial pancreatectomy for non-beta cell adenoma of the pancreas.",
+        "abstract": "Verner and Morrison, in 1958, reported non-insulin-secreting tumours of the pancreas that were associated with a syndrome of refractory diarrhea, achlorhydria and hypokalemia. Surgical resection of such tumours results in rebound acid hypersecretion and cessation of the watery diarrhea. The authors report the case of an 84-year-old man who had three of the four major criteria for diagnosis of the Verner Morrison syndrome. Hypokalemia was absent, but this was possibly due to the large doses of potassium chloride that he was taking in conjunction with diuretics. After resection of the tumour severe obstipation with resultant bowel obstruction developed in addition to rebound hypersecretion and relief of watery diarrhea. Treatment, consisting of bulk laxatives in appropriate amounts, alleviated the obstipation.",
+        "journal": "Canadian journal of surgery. Journal canadien de chirurgie",
+        "year": "1979",
+        "authors": [
+          "Fried G M",
+          "Ayeni O R",
+          "Brown R A",
+          "Lough J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Achlorhydria",
+          "Adenoma",
+          "Adenoma, Islet Cell",
+          "Aged",
+          "Constipation",
+          "Diarrhea",
+          "Humans",
+          "Male",
+          "Pancreatectomy",
+          "Pancreatic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/222419/"
+      },
+      {
+        "pmid": "4440960",
+        "title": "[Severe hypokalemia with tetraplegia due to laxative abuse. Clinical, histological and ultrastructural study (2 cases)].",
+        "abstract": "",
+        "journal": "Annales de medecine interne",
+        "year": "1974",
+        "authors": [
+          "Dujardin P",
+          "Soubiran P",
+          "Niccolai P",
+          "Audoly P",
+          "Daniel R"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cathartics",
+          "Constipation",
+          "Female",
+          "Humans",
+          "Hypokalemia",
+          "Male",
+          "Muscles",
+          "Potassium",
+          "Potassium Chloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4440960/"
+      },
+      {
+        "pmid": "4783770",
+        "title": "[Ulcerous stenosis of the small intestine caused by absorption of potassium chloride tablets].",
+        "abstract": "",
+        "journal": "Journal de chirurgie",
+        "year": "1973",
+        "authors": [
+          "Tenière P",
+          "Le Douarec P",
+          "Koytcha F",
+          "Testart J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Constipation",
+          "Crohn Disease",
+          "Diagnosis, Differential",
+          "Diarrhea",
+          "Humans",
+          "Intestinal Obstruction",
+          "Intestine, Small",
+          "Middle Aged",
+          "Potassium Chloride",
+          "Spasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4783770/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:59:22.472948",
+  "success": true,
+  "error_message": null
+}

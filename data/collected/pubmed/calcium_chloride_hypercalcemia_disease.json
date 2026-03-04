@@ -1,0 +1,563 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "hypercalcemia disease",
+    "query_string": "Calcium Chloride AND hypercalcemia disease"
+  },
+  "data": {
+    "query": "Calcium Chloride AND hypercalcemia disease",
+    "results": [
+      {
+        "pmid": "36282253",
+        "title": "Hypercalcemia: A Review.",
+        "abstract": "Hypercalcemia affects approximately 1% of the worldwide population. Mild hypercalcemia, defined as total calcium of less than 12 mg/dL (<3 mmol/L) or ionized calcium of 5.6 to 8.0 mg/dL (1.4-2 mmol/L), is usually asymptomatic but may be associated with constitutional symptoms such as fatigue and constipation in approximately 20% of people. Hypercalcemia that is severe, defined as total calcium of 14 mg/dL or greater (>3.5 mmol/L) or ionized calcium of 10 mg/dL or greater (≥2.5 mmol/L) or that develops rapidly over days to weeks, can cause nausea, vomiting, dehydration, confusion, somnolence, and coma.",
+        "journal": "JAMA",
+        "year": "2022",
+        "authors": [
+          "Walker Marcella Donovan",
+          "Shane Elizabeth"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Calcium",
+          "Coma",
+          "COVID-19",
+          "Dehydration",
+          "Denosumab",
+          "Hypercalcemia",
+          "Hyperparathyroidism, Primary",
+          "Immune Checkpoint Inhibitors",
+          "Nausea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36282253/"
+      },
+      {
+        "pmid": "28806048",
+        "title": "Electrolytes: Calcium Disorders.",
+        "abstract": "A normal serum calcium level is 8 to 10 mg/dL. The diagnosis of hypercalcemia (ie, levels 10.5 mg/dL or greater) should be confirmed with an albumin-adjusted or ionized calcium level. The two most common causes of hypercalcemia are hyperparathyroidism and malignancy. Drugs, notably lithium and thiazide diuretics, also can cause hypercalcemia. Patients with severe or symptomatic hypercalcemia should be treated initially with hydration to decrease calcium levels. The evaluation should include a parathyroid hormone (PTH) level. If the PTH level is low, cancer is a likely cause, particularly multiple myeloma, breast cancer, or lymphoma. If the PTH level is normal or elevated, hyperparathyroidism is the likely cause. Symptomatic patients with hyperparathyroidism and patients with certain clinical markers should be considered for surgery. For patients with mild disease, monitoring is an option. Hypocalcemia often is caused by vitamin D deficiency. Symptomatic patients and patients with calci",
+        "journal": "FP essentials",
+        "year": "2017",
+        "authors": [
+          "Barstow Craig",
+          "Braun Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Accidental Falls",
+          "Antimanic Agents",
+          "Calcium",
+          "Calcium Gluconate",
+          "Dietary Supplements",
+          "Fluid Therapy",
+          "Fractures, Bone",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28806048/"
+      },
+      {
+        "pmid": "25158579",
+        "title": "[Hypercalcemia].",
+        "abstract": "The most common cause of hypercalcemia is primary hyperparathyroidism. The level of parathyroid hormone (PTH) is the starting point of differential diagnosis. Other basic investigations include plasma phosphorus level, vitamin D, and calculated creatinine clearance. PTH-dependent hypercalcemia is mainly caused by primary hyperparathyreosis. If PTH is suppressed, malignant disease must be concidered carefully. Signs of severe hypercalcemia or hypercalcemic crisis are nausea, worsening general condition and impairment of renal function, whereby symptomatic treatment will be initiated without delay. Calcium drugs, thiazide diuretics and lithium are terminated. After taking care of sufficient rehydration, loop diuretics and bisphosphonates can be used as first line treatment of severe hypercalcemia.",
+        "journal": "Duodecim; laaketieteellinen aikakauskirja",
+        "year": "2014",
+        "authors": [
+          "Matikainen Niina"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biomarkers",
+          "Creatinine",
+          "Diagnosis, Differential",
+          "Diphosphonates",
+          "Disease Progression",
+          "Fluid Therapy",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Parathyroid Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25158579/"
+      },
+      {
+        "pmid": "15698586",
+        "title": "Laboratory screening for hyperparathyroidism.",
+        "abstract": "The clinical syndrome produced by excess parathyroid hormone (PTH) is referred to as hyperparathyroidism (HPT). Autonomous growth of PTH producing cells is defined as primary hyperparathyroidism (pHPT). In its classic form pHPT is characterized by painful bones, kidney stones, abdominal groans, psychic moans, fatigue overtones and hypercalcemia. Chronic stimulation of the parathyroid glands secondary to low circulating calcium level results in secondary hyperparathyroidism (sHPT). Tertiary hyperparathyroidism (tHPT) results from prolonged secondary hyperparathyroidism when the glands take on an autonomous function manifested by hypercalcemia and high PTH levels despite resolution of the original stimulus.",
+        "journal": "Clinica chimica acta; international journal of clinical chemistry",
+        "year": "2005",
+        "authors": [
+          "Younes Nidal A",
+          "Shafagoj Yanal",
+          "Khatib Faisal",
+          "Ababneh Mahmoud"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcitonin",
+          "Calcium",
+          "Clinical Chemistry Tests",
+          "Humans",
+          "Hyperparathyroidism",
+          "Vitamin D"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15698586/"
+      },
+      {
+        "pmid": "8029686",
+        "title": "[Hypercalcemia].",
+        "abstract": "Severe hypercalcemia is mainly caused by inappropriately high concentrations of compounds which promote bone resorption, in particular PTH, PTHrP, or 1,25 (OH)2D3. The major consequences are impaired central nervous system and kidney function (polyuria/dehydration); the latter, in turn, aggravate hypercalcemia via decreased fluid intake, mobility, and renal calcium clearance. The most common causes of hypercalcemia are primary hyperparathyroidism and tumors, drugs (in particular thiazides, lithium, vitamin D and vitamin A and their derivatives), granulomatous and infectious diseases. The patient with mild hypercalcemia should be controlled (and if necessary operated on for adenoma of the parathyroid glands), while the patient with acute severe hypercalcemia needs to be treated immediately by (1.) 0.9% NaCl i.v. to restore plasma volume, (2.) bisphophonates i.v. to block bone resorption, and (3.) therapy for the underlying disorder.",
+        "journal": "Schweizerische medizinische Wochenschrift",
+        "year": "1994",
+        "authors": [
+          "Schmid C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bone Resorption",
+          "Diphosphonates",
+          "Glucocorticoids",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Isotonic Solutions",
+          "Male",
+          "Multiple Myeloma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8029686/"
+      },
+      {
+        "pmid": "3731786",
+        "title": "Alterations in calcium, phosphorus and C-terminal parathyroid hormone levels in equine acute renal disease.",
+        "abstract": "The changes in serum and urinary levels of calcium and phosphorus and serum parathyroid hormone (PTH) were studied during controlled, chemically induced, acute renal disease in 4 ponies. There was an initial rise in daily urinary calcium and hydroxyproline excretion in 2 ponies which may have indicated increased bone resorption. Mild hypercalcemia, hypophosphatemia and elevated C-terminal PTH levels were associated with oliguria. Total daily urinary excretion of calcium and phosphorus decreased as oliguria developed. The levels of C-terminal PTH were increased in all four animals. This appears to have been related to their diminished renal function in that C-terminal fragments of intact PTH (which require functioning kidneys in order to be cleared) were probably being accumulated. Although there was no evidence with regard to an actual increase in PTH secretion, prolongation of intact PTH half-life due to renal tubular damage may have contributed to the development of hypercalcemia.",
+        "journal": "The Cornell veterinarian",
+        "year": "1986",
+        "authors": [
+          "Elfers R S",
+          "Bayly W M",
+          "Brobst D F",
+          "Reed S M",
+          "Liggitt H D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Animals",
+          "Calcium",
+          "Chromates",
+          "Horses",
+          "Hydroxyproline",
+          "Male",
+          "Mercuric Chloride",
+          "Orchiectomy",
+          "Parathyroid Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3731786/"
+      },
+      {
+        "pmid": "26138848",
+        "title": "Drugs Used in Paediatric Bone and Calcium Disorders.",
+        "abstract": "Calcium and bone disorders in children and adolescents are treated with a wide variety of drugs. Several of these drugs have been used for many years on the basis of accepted practice, without being subjected to rigorous trials. Bisphosphonates are the mainstay treatment for children with osteoporosis, but newer, more potent compounds such as zoledronate and risedronate have begun to replace the older-generation bisphosphonates. Hypocalcaemia is managed with calcium and vitamin D and its metabolites. In difficult cases that are secondary to hypoparathyroidism, subcutaneous injections or infusions of parathyroid hormone have been used. Multiple daily phosphate supplements and calcitriol are the standard treatment for hypophosphataemic rickets, but trials of an anti-fibroblast growth factor 23 antibody appear promising, and the results are eagerly awaited. Many new medications are undergoing clinical trials and are starting to emerge as viable treatment options for children. Some of thes",
+        "journal": "Endocrine development",
+        "year": "2015",
+        "authors": [
+          "Cheung Moira S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetazolamide",
+          "Bone Density Conservation Agents",
+          "Bone Diseases, Metabolic",
+          "Bone and Bones",
+          "Calcitonin",
+          "Calcitriol",
+          "Calcium",
+          "Child",
+          "Denosumab",
+          "Diphosphonates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26138848/"
+      },
+      {
+        "pmid": "37530086",
+        "title": "Regulation of the WNK4-SPAK-NCC pathway by the calcium-sensing receptor.",
+        "abstract": "Regulation of the sodium chloride cotransporter (NCC) in the distal convoluted tubule (DCT) plays a crucial role in renal salt handling. The calcium-sensing receptor (CaSR) has been shown to activate NCC through the WNK4-SPAK pathway, which is independent of the Renin-Angiotensin-Aldosterone system. In this review, we examine new information about the mechanism of how the CaSR regulates NCC through the WNK4-SPAK pathway and its physiological and therapeutic implications.",
+        "journal": "Current opinion in nephrology and hypertension",
+        "year": "2023",
+        "authors": [
+          "Chávez-Canales María",
+          "García Janeth Alejandra",
+          "Gamba Gerardo"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Protein Serine-Threonine Kinases",
+          "Receptors, Calcium-Sensing",
+          "Phosphorylation",
+          "Sodium Chloride",
+          "Calcium",
+          "Kidney Tubules, Distal",
+          "Hypertension",
+          "Sodium Chloride, Dietary",
+          "Solute Carrier Family 12, Member 3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37530086/"
+      },
+      {
+        "pmid": "29806749",
+        "title": "The Effects of Diuretics on Mineral and Bone Metabolism.",
+        "abstract": "The effects of diuretics on water and electrolyte metabolism are well-established, but less known to the clinician are their effects on bone and mineral metabolism, and in particular on that of calcium homeostasis. In general, and clinically most relevant, diuretics acting at the thick ascending limb of the loop of Henle cause loss of calcium into the urine, thus making them a useful tool in treating hypercalcemia. However the hypercalciuria caused by loop diuretics may lead to the development of urolithiasis and nephrocalcinosis, as well as secondary hyperparathyroidism and bone disease. On the other hand, thiazide diuretics that act more distally, increase tubular calcium reabsorption, thus providing protection against hypercalciuria, and with that may raise serum calcium, suppress PTH secretion and improve bone metabolism. Additional hypocalciuric effect may be observed with the use of potassium-sparing diuretics. This review will address the effects of diuretics on mineral metaboli",
+        "journal": "Pediatric endocrinology reviews : PER",
+        "year": "2018",
+        "authors": [
+          "Alon Uri S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bone Density",
+          "Calcium",
+          "Diuretics",
+          "Humans",
+          "Kidney",
+          "Sodium Chloride Symporter Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29806749/"
+      },
+      {
+        "pmid": "482179",
+        "title": "Causes of hypercalcemia.",
+        "abstract": "Hypercalcemia is most commonly seen in normal infants as the result of normal rapid bone growth. The most common causative diseases are malignant disease and hyperparathyroidism. A variety of pharmacologic agents, especially vitamin D and its metabolites and thiazide diuretics, can elevate serum calcium levels. Hypersensitivity to vitamin D appears to be a cause of hypercalcemia in infants and in patients with granulomatous disease, such as sarcoidosis. Ingestion of escessive amounts of calcium, especially with alkali, may also cause hypercalcemia, as may prolonged immobilization, particularly under conditions of rapid bone turnover.",
+        "journal": "Postgraduate medicine",
+        "year": "1979",
+        "authors": [
+          "Zawada E T",
+          "Lee D B",
+          "Kleeman C R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Benzothiadiazines",
+          "Diuretics",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Hyperparathyroidism, Secondary",
+          "Immobilization",
+          "Infant, Newborn",
+          "Infant, Newborn, Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/482179/"
+      },
+      {
+        "pmid": "6386333",
+        "title": "Differential laboratory diagnosis of hypercalcemia.",
+        "abstract": "It is proposed that this review will adopt the following format: establishment of hypercalcemia. This demands a discussion of the problem of normal ranges, the usage of either total calcium or ionized calcium in making this decision and where total calcium is used whether adjustment of this value for serum protein concentration should be used and if so, the formulae which have been cited to perform this. Having established hypercalcemia why is it necessary to differentiate this? This will involve reviewing those clinical situations in which differentiation of hypercalcemia has been attempted and will include an attempt to produce an up to date indication of conditions in which hypercalcemia has been described. When hypercalcemia has been established the laboratory tests which have been further used to discriminate will be divided into single tests such as N- or C- terminal parathormone, 1,25- dihydroxycholecalciferol, cyclic AMP; the combination tests which have been used including pho",
+        "journal": "Critical reviews in clinical laboratory sciences",
+        "year": "1984",
+        "authors": [
+          "Johnson K R",
+          "Mascall G C",
+          "Howarth A T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Clinical Laboratory Techniques",
+          "Diagnosis, Differential",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Kidney Failure, Chronic",
+          "Neoplasms",
+          "Parathyroid Hormone",
+          "Reference Values"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6386333/"
+      },
+      {
+        "pmid": "1763670",
+        "title": "Differential diagnosis of hypercalcemia.",
+        "abstract": "The differential diagnosis of hypercalcemia has expanded to over 25 separate disease states, with primary hyperparathyroidism and malignancy accounting for 80-90% of all hypercalcemic patients. Primary hyperparathyroidism comprises the majority of hypercalcemic patients among the ambulatory population, but malignancy accounts for up to 65% of such patients in the hospital. Factors favoring primary hyperparathyroidism include a family history of hyperparathyroidism or multiple endocrine neoplasia, a history of childhood radiation to the head and neck, the postmenopausal state, a history of renal calculi or peptic ulcer, hypertension, the induction of hypercalcemia by thiazides, or an asymptomatic patient with a prolonged, stable mild hypercalcemia. The usefulness of the serum calcium, parathyroid hormone, chloride, phosphorus, serum 25-OHD, and 1,25-(OH)2D, and urinary calcium in the differential diagnosis of hypercalcemia is discussed. The pitfalls of an excessive reliance on the serum",
+        "journal": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+        "year": "1991",
+        "authors": [
+          "Lafferty F W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcitriol",
+          "Calcium",
+          "Chlorides",
+          "Diagnosis, Differential",
+          "Discriminant Analysis",
+          "Hematocrit",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Multivariate Analysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1763670/"
+      },
+      {
+        "pmid": "22089066",
+        "title": "Hyperparathyroidism: primary or secondary disease?",
+        "abstract": "Primary hyperparathyroidism (PHPT) is characterized by the autonomous production of parathyroid hormone (PTH), in which there is hypercalcemia or normal-high serum calcium levels in the presence of elevated or inappropriately normal serum PTH concentrations. Exceptionally in symptomatic patients, a diagnostic can be established on the basis of clinical data. PHPT must always be evaluated in patients with clinical histories of nephrolithiasis, nephrocalcinosis, osseous pain, subperiosteal resorption, and pathologic fractures, as well as in those with osteoporosis-osteopenia, a personal history of neck irradiation, or a family history of multiple endocrine neoplasia syndrome (types 1 or 2). Diagnosis of PHPT is biochemical. Asymptomatic hypercalcemia without guiding signs or symptoms is the most frequent manifestation of the disease. For differential diagnosis, PTH must be measured, as well as phosphate, chloride, 25-hydroxyvitamin D, 1,25 dyhidroxyvitamin D and calcium-to-creatinine cle",
+        "journal": "Reumatologia clinica",
+        "year": "2012",
+        "authors": [
+          "Cordellat Isabel Martínez"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Bone Diseases, Metabolic",
+          "Cardiovascular Diseases",
+          "Chlorides",
+          "Creatinine",
+          "Diagnosis, Differential",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism, Primary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22089066/"
+      },
+      {
+        "pmid": "8749677",
+        "title": "A cloned Ca(2+)-sensing receptor: a mediator of direct effects of extracellular Ca2+ on renal function?",
+        "abstract": "Changes in the extracellular calcium concentration [Ca2+]o modulate several aspects of renal function through unknown mechanism(s). cDNA encoding a Ca2+o-sensing receptor from bovine parathyroid and rat kidney that appears to mediate several of the known effects of Ca2+o on parathyroid and renal function were recently isolated. The expressed receptor activates phospholipase C, showing a pharmacologic profile very similar to that of the native receptor. Its deduced amino acid sequence identifies it as a member of the superfamily of G protein-coupled receptors. The physiologic relevance of the receptor has been established by the demonstration that mutations in it cause three inherited diseases of calcium metabolism. Two hypercalcemic disorders, familial hypocalciuric hypercalcemia and neonatal severe hyperparathyroidism, result from inactivating mutations when present in the heterozygous and homozygous states, respectively. An activating mutation, in contrast, causes an autosomal domina",
+        "journal": "Journal of the American Society of Nephrology : JASN",
+        "year": "1995",
+        "authors": [
+          "Brown E M",
+          "Hebert S C"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Calcium",
+          "Extracellular Space",
+          "Humans",
+          "Kidney"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8749677/"
+      },
+      {
+        "pmid": "35757138",
+        "title": "Hypercalcemia and Osteolytic Lesions as Presenting Symptoms of Acute Lymphoblastic Leukemia in Children: Case Report and Literature Review.",
+        "abstract": "Acute lymphoblastic leukemia (ALL) presenting with hypercalcemia and osteolytic lesions is rare and unusual in childhood. We report a case of a 13-year-old boy with ALL who presented with intermittent fever, nausea, vomiting, and increasing lower limb pain. Skeletal X-rays and CT scan showed severe osteolytic lesions of the skull and extremities. Physical examination revealed multiple inguinal lymph nodes. Laboratory tests demonstrated severe hypercalcemia (Ca > 3.49 mmol/L), decreased parathyroid hormone (PTH), and vitamin D level. Despite a normal complete blood count and the absence of circulating blasts, bone marrow biopsy revealed B-precursor ALL. Hypercalcemia was initially treated with intravenous isotonic sodium chloride and furosemide but the serum calcium level was not normalized. It was successfully managed with calcitonin and pamidronate afterward. Later, the child responded well to chemotherapy and continued with consolidation treatment. The clinical condition was stable, ",
+        "journal": "Frontiers in pediatrics",
+        "year": "2022",
+        "authors": [
+          "Chen Min",
+          "Ni Jiaqi",
+          "Lu Xiaoxi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35757138/"
+      },
+      {
+        "pmid": "7148507",
+        "title": "Hypercalcemia due to primary hyperparathyroidism or malignant disease. Evaluated by means of biochemical tests and the steroid suppression test.",
+        "abstract": "The cortisone suppression test and some biochemical tests were evaluated in 13 patients with hypercalcemia due to primary hyperparathyroidism (PHP) and in 10 with hypercalcemia due to a malignant disease. The biochemical tests revealed that serum chloride was significantly raised in patients with PHP compared to patients with malignant diseases, whereas no differences were observed with regard to the serum values of corrected calcium, serum phosphate, chloride/phosphate ratio, HCO3-. Although serum values of parathyroid hormone were higher in patients with PHP, a consider-able overlap was observed between values in the two patient groups. Corrected serum calcium values were significantly suppressed during cortisone administration in patients with malignant disease compared to patients wit PHP, whereas prednisolone had no suppressive effect. The positive predictive value of the test was 80.0% and the negative predictive value 66.7%. We conclude that there is still no entirely reliable m",
+        "journal": "Acta medica Scandinavica",
+        "year": "1982",
+        "authors": [
+          "Kvetny J",
+          "Orthman-Brask H",
+          "Frederiksen P K",
+          "Jest P",
+          "Jensen E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Chlorides",
+          "Cortisone",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Male",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7148507/"
+      },
+      {
+        "pmid": "13260927",
+        "title": "Electrolyte balance in gastrointestinal disease.",
+        "abstract": "Even small losses of gastrointestinal secretions when combined with reduced intake of electrolytes may seriously disturb electrolyte balance. Knowledge of the ionic composition of secretions lost is essential in planning therapy. Loss of gastric contents usually results in excessive loss of chloride; in achlorhydria this is not the case. Loss of sodium and potassium may be large in either case and is often underestimated. Small bowel obstruction results in a more balanced loss of electrolyte which may not affect acidbase balance greatly. In diarrhea loss of base predominates, and may result in a large potassium deficit. Steatorrhea due to nontropical sprue results in large fecal losses of sodium, potassium and chloride, in addition to the large calcium and phosphorus loss. In chronic peptic ulcer excessive ingestion of milk and absorbable alkalies may result in hypercalcemia, azotemia and alkalosis, without hypercalciuria. Since renal function is usually adequate in the milder gastroin",
+        "journal": "California medicine",
+        "year": "1955",
+        "authors": [
+          "MOE A E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkalosis",
+          "Body Fluids",
+          "Diarrhea",
+          "Electrolytes",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Hypokalemia",
+          "Intestine, Small",
+          "Potassium",
+          "Sodium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13260927/"
+      },
+      {
+        "pmid": "6757872",
+        "title": "Fluid and electrolyte disturbances associated with cancer and its treatment.",
+        "abstract": "Individuals with cancer are subject to fluid and electrolyte imbalances because of the original disease process, therapy, and complications resulting from both the disease process and from therapy. These imbalances are life threatening either when they become extreme or when they occur very rapidly. Although almost any fluid and electrolyte disorder or combination of disorders can occur in people with cancer, this article will focus on the following more common, potentially critical imbalances: water excess, decreased vascular volume, hypercalcemia, hypokalemia, and tumor lysis syndrome, which includes hypocalcemia, hyperphosphatemia, hyperuricemia, and hyperkalemia. These imbalances will each be reviewed with a focus on their causes, signs and symptoms, and treatment. Additional readings on fluid and electrolyte imbalances in patients with cancer can be found in several recent articles.",
+        "journal": "The Nursing clinics of North America",
+        "year": "1982",
+        "authors": [
+          "Cunningham S G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Volume",
+          "Body Water",
+          "Calcium",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperkalemia",
+          "Hypocalcemia",
+          "Hypokalemia",
+          "Inappropriate ADH Syndrome",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6757872/"
+      },
+      {
+        "pmid": "34181644",
+        "title": "Effects of intravenous magnesium sulfate on serum calcium-regulating hormones and plasma and urinary electrolytes in healthy horses.",
+        "abstract": "Intravenous magnesium sulfate (MgSO4) is used in equine practice to treat hypomagnesemia, dysrhythmias, neurological disorders, and calcium dysregulation. MgSO4 is also used as a calming agent in equestrian events. Hypercalcemia affects calcium-regulating hormones, as well as plasma and urinary electrolytes; however, the effect of hypermagnesemia on these variables is unknown. The goal of this study was to investigate the effect of hypermagnesemia on blood parathyroid hormone (PTH), calcitonin (CT), ionized calcium (Ca2+), ionized magnesium (Mg2+), sodium (Na+), potassium (K+), chloride (Cl-) and their urinary fractional excretion (F) after intravenous administration of MgSO4 in healthy horses. Twelve healthy female horses of 4-18 years of age and 432-600 kg of body weight received a single intravenous dose of MgSO4 (60 mg/kg) over 5 minutes, and blood and urine samples were collected at different time points over 360 minutes. Plasma Mg2+ concentrations increased 3.7-fold over baseline",
+        "journal": "PloS one",
+        "year": "2021",
+        "authors": [
+          "Schumacher Stephen A",
+          "Kamr Ahmed M",
+          "Lakritz Jeffrey",
+          "Burns Teresa A",
+          "Bertone Alicia L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Animals",
+          "Calcitonin",
+          "Calcium",
+          "Calcium-Regulating Hormones and Agents",
+          "Chlorides",
+          "Electrolytes",
+          "Female",
+          "Horse Diseases",
+          "Horses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34181644/"
+      },
+      {
+        "pmid": "16817375",
+        "title": "[Iatrogenic hypercalcemia].",
+        "abstract": "",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2006",
+        "authors": [
+          "Akatsu Takuhiko"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Calcium Carbonate",
+          "Diagnosis, Differential",
+          "Estrogens",
+          "Humans",
+          "Hypercalcemia",
+          "Iatrogenic Disease",
+          "Lithium",
+          "Parathyroid Hormone",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16817375/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:34:15.495388",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,544 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "hemorrhoid",
+    "query_string": "Lidocaine AND hemorrhoid"
+  },
+  "data": {
+    "query": "Lidocaine AND hemorrhoid",
+    "results": [
+      {
+        "pmid": "40824576",
+        "title": "Hemorrhoidal Disease: A Review.",
+        "abstract": "Hemorrhoidal disease, pathology of the tissue lining of the anal canal, affects approximately 10 million individuals in the US. Hemorrhoidal disease may impair quality of life due to bleeding, pain, anal irritation, and tissue prolapse.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Ashburn Jean H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40824576/"
+      },
+      {
+        "pmid": "31555338",
+        "title": "Hemorrhoid management in women: the role of tribenoside + lidocaine.",
+        "abstract": "Hemorrhoids are commonly reported in women. However, despite the high prevalence of hemorrhoids in women and the major impact of this condition on quality of life, specific evidence and recommendations on the treatment of hemorrhoids in women are scant. This paper reviews various options in current therapy for hemorrhoids in women-namely, medical intervention (topical and systemic drug therapy)-and discusses the available clinical evidence for an appropriate use of over-the-counter topical formulations for the symptomatic treatment of hemorrhoids. Its focus is on a medical preparation containing tribenoside + lidocaine, available as a rectal cream (tribenoside 5%/lidocaine 2%) and a suppository (tribenoside 400 mg/lidocaine 40 mg) and marketed under the brand Procto-Glyvenol® (Recordati, SpA, Italy). Given its rapid comprehensive efficacy on all the different symptoms of hemorrhoids, the tribenoside + lidocaine combination can find a place in the treatment of this hemorrhoidal disease.",
+        "journal": "Drugs in context",
+        "year": "2019",
+        "authors": [
+          "Kestřánek Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31555338/"
+      },
+      {
+        "pmid": "27383331",
+        "title": "Tribenoside and lidocaine in the local treatment of hemorrhoids: an overview of clinical evidence.",
+        "abstract": "The combination of tribenoside+lidocaine (Procto-Glyvenol®) is a medical preparation for the local treatment of hemorrhoids, delivered as a suppository or rectal cream. This product has been used for decades in the therapy of hemorrhoids. This review discusses available evidence on the use of tribenoside/lidocaine in clinical practice.",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2016",
+        "authors": [
+          "Lorenc Z",
+          "Gökçe Ö"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Drug Therapy, Combination",
+          "Female",
+          "Glycosides",
+          "Hemorrhoids",
+          "Humans",
+          "Lidocaine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27383331/"
+      },
+      {
+        "pmid": "39945661",
+        "title": "Clinical evidence and rationale of topical nifedipine and lidocaine ointment in the treatment of anal fissure and hemorrhoidal disease.",
+        "abstract": "Anorectal conditions such as hemorrhoidal disease and anal fissure are frequently painful and debilitating. Pain after hemorrhoidectomy is also common and distressing. These conditions are at least initially managed conservatively. An ointment formulation containing the calcium channel blocker nifedipine and the local anesthetic lidocaine has an established role in the treatment of rectal conditions, particularly conditions associated with anal sphincter hypertonia such as hemorrhoidal disease and anal fissure. This review aimed to compile the evidence for the use of nifedipine 0.3% and lidocaine 1.5% ointment in treating these common but bothersome anorectal diseases.",
+        "journal": "Minerva surgery",
+        "year": "2025",
+        "authors": [
+          "Gallo Gaetano",
+          "Trompetto Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lidocaine",
+          "Nifedipine",
+          "Fissure in Ano",
+          "Hemorrhoids",
+          "Ointments",
+          "Anesthetics, Local",
+          "Administration, Topical",
+          "Calcium Channel Blockers",
+          "Hemorrhoidectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39945661/"
+      },
+      {
+        "pmid": "36570502",
+        "title": "Comparative evaluation of sedative and anti-nociceptive effects of epidural romifidine, romifidine-lidocaine, and lidocaine in donkeys (Equus asinus).",
+        "abstract": "Local and regional anesthetic procedures are valuable tools in veterinary practice. Caudal epidural administration of local anesthetic agents is widely reported for surgical interventions of the tail, anus, rectum, vulva, vagina, urethra, and bladder in the standing horse. Epidural analgesia is also obtained using various drugs such as alpha-2 adrenoceptor agonists, dissociative anesthetics, and opioids. The present study evaluates the anti-nociceptive and sedative effects of epidural administration of romifidine, a romifidine-lidocaine combination, and lidocaine alone in donkeys.",
+        "journal": "Frontiers in veterinary science",
+        "year": "2022",
+        "authors": [
+          "Marzok Mohamed",
+          "Almubarak Adel I",
+          "Babiker Hussein",
+          "Kandeel Mahmoud",
+          "El-Hawari Sayed Fathi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36570502/"
+      },
+      {
+        "pmid": "31433782",
+        "title": "Comparison of the effect of Myrtus communis herbal and anti-hemorrhoid ointments on the hemorrhoid symptoms and quality of life in postpartum women with grade I and II internal hemorrhoid: A triple-blinded randomized controlled clinical trial.",
+        "abstract": "Introduction Due to the effects of hemorrhoids on physical and mental health, this study aimed to compare the effect of Myrtus communis herbal and anti-hemorrhoid ointments on symptoms of hemorrhoid and quality of life (primary outcomes) and satisfaction of the treatment and side effects (secondary outcomes). Methods This triple-blind randomized controlled trial was performed on women with grade I and II hemorrhoid referring to health centers in Tehran, Iran, in 2017. Individuals were randomly assigned to two groups of 67 people through block randomization method. The intervention group received the Myrtus communis herbal ointment and the control group received anti-hemorrhoid ointment twice a day, every 12 ± 2 h, an applicator of the drug through the rectum for 4 weeks. The Colorectal Evaluation of a Clinical Therapeutics Scale (CORECTS) was used to assess the severity of symptoms of hemorrhoid. To assess the quality of life, the World Health Organization Quality of Life questionnaire",
+        "journal": "Journal of complementary & integrative medicine",
+        "year": "2019",
+        "authors": [
+          "Malekuti Jamileh",
+          "Mirghafourvand Mojgan",
+          "Samadi Khadijeh",
+          "Abbasalizadeh Fatemeh",
+          "Khodaei Laleh"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Adult",
+          "Bicarbonates",
+          "Drug Therapy, Combination",
+          "Female",
+          "Hemorrhoids",
+          "Humans",
+          "Hydrocortisone",
+          "Iran",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31433782/"
+      },
+      {
+        "pmid": "23044681",
+        "title": "Perioperative systemic lidocaine for postoperative analgesia and recovery after abdominal surgery: a meta-analysis of randomized controlled trials.",
+        "abstract": "Postoperative pain management remains a significant challenge after abdominal surgery.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "2012",
+        "authors": [
+          "Sun Yanxia",
+          "Li Tianzuo",
+          "Wang Nan",
+          "Yun Yue",
+          "Gan Tong J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Abdomen",
+          "Analgesics",
+          "Analgesics, Opioid",
+          "Defecation",
+          "Humans",
+          "Infusions, Intravenous",
+          "Intestine, Large",
+          "Length of Stay",
+          "Lidocaine",
+          "Postoperative Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23044681/"
+      },
+      {
+        "pmid": "40047126",
+        "title": "Combination of intrarectal heated lidocaine gel and periprostatic nerve block for pain control during transrectal ultrasound-guided prostate biopsy: A prospective randomized trial.",
+        "abstract": "To investigate the role of combined periprostatic nerve block (PNB) and intrarectal local anesthesia with heated lidocaine gel (ILAHL) in reducing pain during transrectal ultrasound (TRUS)-guided prostate biopsy, compared with PNB alone.",
+        "journal": "Investigative and clinical urology",
+        "year": "2025",
+        "authors": [
+          "Kim Jung Im",
+          "Sohn Dong Wan",
+          "Park Bong Hee"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Lidocaine",
+          "Prospective Studies",
+          "Nerve Block",
+          "Aged",
+          "Prostate",
+          "Middle Aged",
+          "Gels",
+          "Anesthetics, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40047126/"
+      },
+      {
+        "pmid": "24974731",
+        "title": "Editorial Comment to Combination of lidocaine suppository and periprostatic nerve block during transrectal prostate biopsy: a prospective randomized trial.",
+        "abstract": "",
+        "journal": "International journal of urology : official journal of the Japanese Urological Association",
+        "year": "2014",
+        "authors": [
+          "Salagierski Maciej"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Nerve Block",
+          "Prostate",
+          "Rectum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24974731/"
+      },
+      {
+        "pmid": "34575544",
+        "title": "Preparation and In Vivo Evaluation of a Lidocaine Self-Nanoemulsifying Ointment with Glycerol Monostearate for Local Delivery.",
+        "abstract": "Lidocaine, a commonly used local anesthetic, has recently been developed into a number of ointment products to treat hemorrhoids. This study examined its efficient delivery to the dermis through the pharmaceutical improvement of hemorrhoid treatment ointments. We attempted to increase the amount of skin deposition of lidocaine by forming a nanoemulsion through the self-nanoemulsifying effect that occurs when glycerol monostearate (GMS) is saturated with water. Using Raman mapping, the depth of penetration of lidocaine was visualized and confirmed, and the local anesthetic effect was evaluated via an in vivo tail-flick test. Evaluation of the physicochemical properties confirmed that lidocaine was amorphous and evenly dispersed in the ointment. The in vitro dissolution test confirmed that the nanoemulsifying effect of GMS accelerated the release of the drug from the ointment. At a specific concentration of GMS, lidocaine penetrated deeper into the dermis; the in vitro permeation test sh",
+        "journal": "Pharmaceutics",
+        "year": "2021",
+        "authors": [
+          "Kang Ji-Hyun",
+          "Yoo Kwang-Hwi",
+          "Park Hyo-Young",
+          "Hyun Seung-Min",
+          "Han Sang-Duk"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34575544/"
+      },
+      {
+        "pmid": "17483776",
+        "title": "[Refractory proctitis].",
+        "abstract": "",
+        "journal": "Gastroenterologie clinique et biologique",
+        "year": "2007",
+        "authors": [
+          "Seksik Philippe",
+          "Daniel Fady",
+          "Marteau Philippe",
+          "Beaugerie Laurent",
+          "Cosnes Jacques"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adrenal Cortex Hormones",
+          "Algorithms",
+          "Anesthetics, Local",
+          "Antibodies, Monoclonal",
+          "Aspirin",
+          "Azathioprine",
+          "Biopsy",
+          "Cyclosporine",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17483776/"
+      },
+      {
+        "pmid": "18280086",
+        "title": "Are one or two dangerous? Lidocaine and topical anesthetic exposures in children.",
+        "abstract": "Topical anesthetics are found in a variety of prescription and non-prescription preparations, from teething gels to hemorrhoid creams. In 2003, there were 8576 exposures to local/topical anesthetics reported to the American Association of Poison Control Centers, with 67% of cases in the age group younger than 6 years old. This report reviews the available literature involving topical anesthetic exposures in children younger than 6 years old, including the National Library of Medicine's Pub Med database (limited to English language) and data from POISINDEX. Additionally, we reviewed the American Association of Poison Control Centers' annual reports from 1983 to 2003. There were 7 deaths in this age range from topical anesthetics. Although the number of deaths is low, the fact that there have been deaths reveals the serious nature of the toxicity that can result from these readily available non-prescription analgesics. Toxicity may result from topical absorption, ingestion, or aspiration",
+        "journal": "The Journal of emergency medicine",
+        "year": "2009",
+        "authors": [
+          "Curtis Liesl A",
+          "Dolan Teresa Sullivan",
+          "Seibert H Edward"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anesthetics, Local",
+          "Child",
+          "Child, Preschool",
+          "Dose-Response Relationship, Drug",
+          "Emergency Medicine",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18280086/"
+      },
+      {
+        "pmid": "35592120",
+        "title": "Management and Treatment of External Hemorrhoidal Thrombosis.",
+        "abstract": "External hemorrhoidal thrombosis (EHT) is a common complication of hemorrhoidal disease. This condition causes extreme pain, likely resulting from internal anal sphincter hypertonicity, which traps the hemorrhoids below the dentate line thus leading to congestion and swelling. The choice of treatment remains controversial and both conservative and surgical options have been proposed in the last decades.",
+        "journal": "Frontiers in surgery",
+        "year": "2022",
+        "authors": [
+          "Picciariello Arcangelo",
+          "Rinaldi Marcella",
+          "Grossi Ugo",
+          "Verre Luigi",
+          "De Fazio Michele"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35592120/"
+      },
+      {
+        "pmid": "25831670",
+        "title": "Comparison of placebo and intrauterine lidocaine with/or without rectal diclofenac sodium suppositories used in office endometrial biopsy.",
+        "abstract": "To compare the effects of intrauterine lidocaine, intrauterine lidocaine plus rectal diclofenac, and a placebo on analgesia and to determine the satisfaction of patients and surgeons in cases of endometrial biopsy.",
+        "journal": "JPMA. The Journal of the Pakistan Medical Association",
+        "year": "2015",
+        "authors": [
+          "Kaya Cengiz",
+          "Sener Elif Bengi",
+          "Koksal Ersin",
+          "Ustun Yasemin Burcu",
+          "Celik Handan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anesthetics, Local",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Biopsy",
+          "Diclofenac",
+          "Double-Blind Method",
+          "Endometrium",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25831670/"
+      },
+      {
+        "pmid": "29469195",
+        "title": "Postoperative ileus following major colorectal surgery.",
+        "abstract": "Postoperative ileus (POI) is characterized by delayed gastrointestinal recovery following surgery. Current knowledge of pathophysiology, clinical interventions and methodological challenges was reviewed to inform modern practice and future research.",
+        "journal": "The British journal of surgery",
+        "year": "2018",
+        "authors": [
+          "Chapman S J",
+          "Pericleous A",
+          "Downey C",
+          "Jayne D G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Chewing Gum",
+          "Colectomy",
+          "Colon",
+          "Enteral Nutrition",
+          "Humans",
+          "Ileus",
+          "Postoperative Complications",
+          "Rectum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29469195/"
+      },
+      {
+        "pmid": "40581544",
+        "title": "Comparative efficacy of lidocaine- and nifedipine-based conservative therapies in acute hemorrhoidal disease: A retrospective cohort study.",
+        "abstract": "Acute hemorrhoidal disease (AHD) is a prevalent anorectal condition that significantly impacts patients' quality of life and healthcare systems. Despite the availability of various conservative treatments, comparative efficacy data remains limited. This retrospective study evaluates two treatment regimens for AHD, focusing on symptom relief, patient-reported outcomes, and treatment tolerability.",
+        "journal": "The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland",
+        "year": "2025",
+        "authors": [
+          "Schiano di Visconte Michele"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Retrospective Studies",
+          "Lidocaine",
+          "Male",
+          "Female",
+          "Hemorrhoids",
+          "Middle Aged",
+          "Nifedipine",
+          "Diosmin",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40581544/"
+      },
+      {
+        "pmid": "30588947",
+        "title": "Combined intrarectal lidocaine gel and periprostatic nerve block: A 'balanced' anaesthesia for transrectal ultrasound-guided prostate biopsy?",
+        "abstract": "Periprostatic nerve block (PNB) which appears to be the gold standard for pain relief during transrectal ultrasound-guided prostate (TrusP) biopsy has been proven to be lacking in providing satisfactory anaesthesia during transrectal ultrasound (Trus) probe insertion into the anorectum necessitating the addition of another technique to produce a 'balanced' anaesthesia. The aim of this study was to determine whether combined intrarectal lidocaine gel and periprostatic nerve block (cGPNB) will provide adequate anaesthesia at all stages of TrusP compared with caudal block (CB).",
+        "journal": "The Nigerian postgraduate medical journal",
+        "year": "2018",
+        "authors": [
+          "Alabi Taiwo Opeyemi",
+          "Tijani Kehinde Habeeb",
+          "Adeyomoye Adekunle Ayokunle",
+          "Jeje Emmanuel Ajibola",
+          "Anunobi Charles Chidozie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Rectal",
+          "Administration, Topical",
+          "Aged",
+          "Aged, 80 and over",
+          "Anesthetics, Local",
+          "Biopsy, Fine-Needle",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30588947/"
+      },
+      {
+        "pmid": "36562679",
+        "title": "[Modern trends in combined treatment of hemorrhoids: topical form Tribenoside + Lidocaine and phlebotonic Ginkgo biloba + Troxerutin + Heptaminol].",
+        "abstract": "Acute hemorrhoids are the most common reason for referring to coloproctologist in people of working age. In the modern world, food culture and lifestyle are the most prominent factors leading to the risk of hemorrhoids. In the 21st century, it is hard to overestimate an importance of potential employability and active social role regarding socio-economic well-being. This thesis applies to patients suffering from proctological diseases, and those with hemorrhoids prevail among these ones. Minimally invasive treatment and pharmacotherapy defined primary needs of patients, i.e. treatment should be quick, safe and effective. Favorable treatment outcomes are possible only in pathogenetic therapy. In this review, we will define the priorities in effective combined treatment of hemorrhoids.",
+        "journal": "Khirurgiia",
+        "year": "2022",
+        "authors": [
+          "Sidorova A V",
+          "Yunusov B T",
+          "Groshilin V S",
+          "Arkharov A V",
+          "Aliev V A"
+        ],
+        "pub_types": [
+          "Review",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hemorrhoids",
+          "Heptaminol",
+          "Ginkgo biloba",
+          "Lidocaine",
+          "Glycosides",
+          "Hydroxyethylrutoside"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36562679/"
+      },
+      {
+        "pmid": "40176588",
+        "title": "Tips and tricks of anorectal care with topical lidocaine (octose-dan) administration: retrospective, anecdotical, spontaneous, and observational study.",
+        "abstract": "The local symptomatic treatment of anorectal diseases encloses a wide variety of creams, ointments, suppositories, irrigation fluids etc, based essentially on anaesthetics, antioedema, phlebotomids, keratolytic and coating agents, anti-inflammatories, steroids, aiming at achieving fast improvement and at least partial pain remission especially soon after stool. Unfortunately, the method of blending different chemicals pooled in a single formulation often prevents the full curative effect of each active principle: in fact, the stechiometric balance of these melting pots does not achieve the full dose-effect of each one; furtherly the patients would be warned to use only effective evidence-based products, preventing the risk of skin and mucosa sen-sitization in the long run when different chemical or herbal compounds are together administered. On the basis of the literature review, we focused our study on a single drug-medication whose properties go beyond the classic anaesthetic claim: ",
+        "journal": "La Clinica terapeutica",
+        "year": "2025",
+        "authors": [
+          "Palmieri B",
+          "Vadalà M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Female",
+          "Retrospective Studies",
+          "Middle Aged",
+          "Anesthetics, Local",
+          "Hemorrhoids",
+          "Adult",
+          "Administration, Topical"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40176588/"
+      },
+      {
+        "pmid": "21316086",
+        "title": "Comparison between lidocaine and glyceryl trinitrate ointment for perianal-intrarectal local anesthesia before transrectal ultrasonography-guided prostate biopsy: a placebo-controlled trial.",
+        "abstract": "To evaluate the use of topical lidocaine gel and glyceryl trinitrate ointment (GTN) vs placebo, in reducing anal pain and discomfort as an adjunct to periprostatic anesthesia because of probe insertion, during the use of transrectal ultrasonography (TRUS) prostate-guided biopsy in young patients.",
+        "journal": "Urology",
+        "year": "2011",
+        "authors": [
+          "Skriapas Konstantinos",
+          "Konstantinidis Charalampos",
+          "Samarinas Michael",
+          "Xanthis Stylianos",
+          "Gekas Aristomenis"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anesthesia, Local",
+          "Anesthetics, Local",
+          "Biopsy, Needle",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Nitroglycerin",
+          "Ointments",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21316086/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:57:02.511996",
+  "success": true,
+  "error_message": null
+}

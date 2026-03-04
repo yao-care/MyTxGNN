@@ -6,7 +6,7 @@ drug_name: "Lamivudine"
 kg_predictions: 90
 dl_predictions: 57
 evidence_level: "L1"
-indication_count: 90
+indication_count: 5
 brands: []
 permalink: /drugs/lamivudine/
 ---

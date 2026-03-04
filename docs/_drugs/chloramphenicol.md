@@ -6,7 +6,7 @@ drug_name: "Chloramphenicol"
 kg_predictions: 140
 dl_predictions: 120
 evidence_level: "L1"
-indication_count: 140
+indication_count: 5
 brands: []
 permalink: /drugs/chloramphenicol/
 ---

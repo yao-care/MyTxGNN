@@ -1,0 +1,609 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "infectious otitis media",
+    "query_string": "Trimethoprim AND infectious otitis media"
+  },
+  "data": {
+    "query": "Trimethoprim AND infectious otitis media",
+    "results": [
+      {
+        "pmid": "36244081",
+        "title": "Epidemiological characteristics and antibiotic resistance mechanisms of Streptococcus pneumoniae: An updated review.",
+        "abstract": "Streptococcus pneumoniae (S. pneumoniae, pneumococcus) is a Gram-positive bacterium, which can cause a variety of diseases including otitis media, nasosinusitis, pneumonia, bacteremia and meningitis. To prevent and control pneumococcus diseases, pneumococcal conjugate vaccines (PCVs) were developed and widely implemented worldwide. The introduction of PCVs reduced the infections caused by PCV serotypes, while serotype replacements affected vaccine effectiveness. S. pneumoniae has developed resistance to multiple antibiotics including penicillin, macrolides, fluoroquinolone, and sulfamethoxazole-trimethoprim. In turn, infections caused by antibiotic resistant strains can affect the treatment of related diseases. Genetic functional studies, molecular detection, and molecular characterization of newly identified mechanisms have been updated in recent years. Hence, this review aims to summarize the serotype distribution, epidemiology and antibiotic resistance mechanism of S. pneumoniae in ",
+        "journal": "Microbiological research",
+        "year": "2023",
+        "authors": [
+          "Li Lifeng",
+          "Ma Jiayue",
+          "Yu Zengyuan",
+          "Li Mingchao",
+          "Zhang Wancun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infant",
+          "Streptococcus pneumoniae",
+          "Pneumococcal Infections",
+          "Pneumococcal Vaccines",
+          "Vaccines, Conjugate",
+          "Serogroup",
+          "Drug Resistance, Bacterial",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36244081/"
+      },
+      {
+        "pmid": "8989332",
+        "title": "Comparison of ceftriaxone and trimethoprim-sulfamethoxazole for acute otitis media. Greater Boston Otitis Media Study Group.",
+        "abstract": "The purpose of this prospective, randomized, single-blind trial was to assess the clinical efficacy of a single intramuscular dose of ceftriaxone compared with 10 days of oral trimethoprim-sulfamethoxazole (TMP-SMZ) in treating acute otitis media (AOM).",
+        "journal": "Pediatrics",
+        "year": "1997",
+        "authors": [
+          "Barnett E D",
+          "Teele D W",
+          "Klein J O",
+          "Cabral H J",
+          "Kharasch S J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ceftriaxone",
+          "Cephalosporins",
+          "Child, Preschool",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Infant",
+          "Injections, Intramuscular",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8989332/"
+      },
+      {
+        "pmid": "382938",
+        "title": "Trimethoprim-sulfamethoxazole in the United States.",
+        "abstract": "After approximately 5 years of clinical use in Great Britain and other European countries, trimethoprim-sulfamethoxazole in fixed-dose combination was introduced into the United States in 1973. As a result of sequential blockade in the biosynthesis of tetrahydrofolic acid, the antimicrobial activity of the combination exceeds that of either agent alone. Although the drug is approved for use in only chronic urinary-tract infection, otitis media, shigellosis, and Pneumocystis carinii pneumonia, many experimental clinical trials suggest that this agent may be useful in a number of other infectious disorders. Trimethoprim-sulfamethoxazole is generally well tolerated even with long-term administration, but its potential for hematologic toxicity and nephrotoxicity must be monitored.",
+        "journal": "Annals of internal medicine",
+        "year": "1979",
+        "authors": [
+          "Wormser G P",
+          "Keusch G T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bacterial Infections",
+          "Child",
+          "Drug Combinations",
+          "Drug Synergism",
+          "Dysentery, Bacillary",
+          "Humans",
+          "Male",
+          "Otitis Media",
+          "Pneumonia, Pneumocystis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/382938/"
+      },
+      {
+        "pmid": "8783722",
+        "title": "Otitis media and mastoiditis due to Mycobacterium fortuitum: case report, review of four cases, and a cautionary note.",
+        "abstract": "Mycobacterium fortuitum is a rarely reported cause of otitis media and mastoiditis. We report such a case recently seen at our institution and review the four previously published cases of this disease entity. Amikacin is recommended in the current medical literature as empirical treatment of disease due to M. fortuitum, but the isolate from our patient showed high-level resistance to amikacin, which is rare in clinical isolates of this species; this resistance was probably related to prior treatment with topical aminoglycosides. Our patient's infection responded to a 12-month course of therapy with clarithromycin and trimethoprim-sulfamethoxazole.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1996",
+        "authors": [
+          "Plemmons R M",
+          "McAllister C K",
+          "Liening D A",
+          "Garces M C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Amikacin",
+          "Anti-Bacterial Agents",
+          "Cefoxitin",
+          "Clarithromycin",
+          "Drug Resistance, Microbial",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Mastoiditis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8783722/"
+      },
+      {
+        "pmid": "34321442",
+        "title": "Haemophilus influenzae Prevalence, Proportion of Capsulated Strains and Antibiotic Susceptibility During Colonization and Acute Otitis Media in Children, 2019-2020.",
+        "abstract": "The objective of this study was to determine the prevalence, proportion of encapsulated strains and antibiotic susceptibility of Haemophilus influenzae isolated from young children.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2021",
+        "authors": [
+          "Fuji Naoko",
+          "Pichichero Michael",
+          "Kaur Ravinder"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Capsules",
+          "Child, Preschool",
+          "Female",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Infant",
+          "Male",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34321442/"
+      },
+      {
+        "pmid": "27917456",
+        "title": "Acute septic arthritis of the temporomandibular joint derived from otitis media: a report and review of the English and Japanese literature.",
+        "abstract": "Septic arthritis of the temporomandibular joint (SATMJ) is an extremely rare disease with characteristic features of preauricular pain, swelling, redness, and malocclusion. The present report describes a case of SATMJ derived from otitis media, which resulted in a good outcome. We also reviewed the English and Japanese literature with special interest in etiology. It is generally agreed that contiguous or distant infection and trauma are common etiological factors of SATMJ. So far, these etiological factors are mainly discussed based on hypotheses rather than sufficient evidence. Therefore, in many past cases, accurate causes were not identified. To our knowledge, our case is the third report of SATMJ following otitis media. In addition, this is the first case in which the pathogenic bacterium responsible for the otitis media was the definite cause of the SATMJ. Cases of SATMJ are sometimes misdiagnosed with otitis media, and SATMJ derived from otitis media is extremely rare. Dentists ",
+        "journal": "Oral and maxillofacial surgery",
+        "year": "2017",
+        "authors": [
+          "Ishikawa Shigeo",
+          "Watanabe Tomoo",
+          "Iino Mitsuyoshi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abscess",
+          "Aged, 80 and over",
+          "Arthritis, Infectious",
+          "Combined Modality Therapy",
+          "Diagnosis, Differential",
+          "Humans",
+          "Male",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Otitis Media",
+          "Staphylococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27917456/"
+      },
+      {
+        "pmid": "10926438",
+        "title": "Antibiotic treatment for acute otitis media.",
+        "abstract": "The major problems encountered in the antibiotic therapy of acute otitis media (AOM) are the tremendous increase in the resistance to antibiotics of its main pathogens and the lack of tight criteria (taking into consideration, as a major determinant, the eradication of the pathogens from the middle ear fluid) in the selection of the appropriate antibiotic drugs for the treatment of this disease. Future drugs for the treatment of AOM will have to be approved only after their in vivo microbiological efficacy for each major pathogen is documented. This documentation will be provided by more antibiotic studies with bacteriological outcome using the double-tympanocentesis method and stratifying the AOM patients by age and initial clinical severity. Judicious use of antibiotics for the treatment of AOM will have a major impact on society, leading to a less frequent but more skilled administration of the most effective drugs.",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2000",
+        "authors": [
+          "Leibovitz E",
+          "Dagan R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Cephalosporins",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Macrolides",
+          "Otitis Media"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10926438/"
+      },
+      {
+        "pmid": "26381007",
+        "title": "Change in Detection Rate of Methicillin-Resistant Staphylococcus aureus and Pseudomonas aeruginosa and Their Antibiotic Sensitivities in Patients with Chronic Suppurative Otitis Media.",
+        "abstract": "To investigate changes in Pseudomonas aeruginosa (PA) and methicillin-resistant Staphylococcus aureus (MRSA) and their antibiotic sensitivities over 13 years in patients diagnosed with chronic suppurative otitis media (CSOM).",
+        "journal": "The journal of international advanced otology",
+        "year": "2015",
+        "authors": [
+          "Kim Sang Hoon",
+          "Kim Myung Gu",
+          "Kim Sung Soo",
+          "Cha Sung Ho",
+          "Yeo Seung Geun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Chronic Disease",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Male",
+          "Medication Therapy Management",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26381007/"
+      },
+      {
+        "pmid": "25590837",
+        "title": "Etiology and antimicrobial susceptibility of middle ear fluid pathogens in Costa Rican children with otitis media before and after the introduction of the 7-valent pneumococcal conjugate vaccine in the National Immunization Program: acute otitis media microbiology in Costa Rican children.",
+        "abstract": "Acute otitis media (AOM) microbiology was evaluated in children after 7-valent pneumococcal conjugate vaccine (PCV7) introduction in Costa Rica (private sector, 2004; National Immunization Program, 2009). This was a combined prospective and retrospective study conducted in a routine clinical setting in San José, Costa Rica. In the prospective part of the study, which was conducted post-PCV7 introduction (2010-2012), standard bacteriological procedures were used to evaluate the etiology and serotype distribution of middle ear fluid samples collected by tympanocentesis or otorrhea from children aged 3-59 months diagnosed with AOM. E-tests were used to evaluate antimicrobial susceptibility in culture-positive samples. Retrospective data recorded between 1999 and 2004 were used for comparison of bacterial etiology and serotype distribution before and after PCV7 introduction. Statistical significance was evaluated in bivariate analyses at the P-value < 0.05 level (without multiplicity corre",
+        "journal": "Medicine",
+        "year": "2015",
+        "authors": [
+          "Abdelnour Arturo",
+          "Arguedas Adriano",
+          "Dagan Ron",
+          "Soley Carolina",
+          "Porat Nurith"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Costa Rica",
+          "Female",
+          "Haemophilus influenzae",
+          "Humans",
+          "Immunization Programs",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25590837/"
+      },
+      {
+        "pmid": "29624209",
+        "title": "WITHDRAWN: Grommets (ventilation tubes) for recurrent acute otitis media in children.",
+        "abstract": "This is an update of a Cochrane review first published in The Cochrane Library in Issue 4, 2008 and previously updated in 2011.Acute suppurative otitis media is one of the most common infectious diseases in childhood. Recurrent acute otitis media is defined for the purposes of this review as either three or more acute infections of the middle ear cleft in a six-month period, or at least four episodes in a year. Strategies for managing the condition include the assessment and modification of risk factors where possible, repeated courses of antibiotics for each new infection, antibiotic prophylaxis and the insertion of ventilation tubes (grommets).",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2018",
+        "authors": [
+          "Lau Loretta",
+          "Mick Paul",
+          "Nunez Desmond A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Child",
+          "Humans",
+          "Middle Ear Ventilation",
+          "Otitis Media, Suppurative",
+          "Randomized Controlled Trials as Topic",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29624209/"
+      },
+      {
+        "pmid": "28430673",
+        "title": "Antimicrobial Resistant Streptococcus pneumoniae: Prevalence, Mechanisms, and Clinical Implications.",
+        "abstract": "Streptococcus pneumoniae is a major cause of pneumonia, meningitis, sepsis, bacteremia, and otitis media. S. pneumoniae has developed increased resistance to multiple classes of antibiotics.",
+        "journal": "American journal of therapeutics",
+        "year": "2017",
+        "authors": [
+          "Cherazard Regine",
+          "Epstein Marcia",
+          "Doan Thien-Ly",
+          "Salim Tanzila",
+          "Bharti Sheena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Multiple, Bacterial",
+          "Genome, Bacterial",
+          "Humans",
+          "Mutation",
+          "Pneumococcal Infections",
+          "Prevalence",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28430673/"
+      },
+      {
+        "pmid": "16905907",
+        "title": "[Microorganisms isolated from middle ear cultures and their antibacterial susceptibility in patients with chronic suppurative otitis media].",
+        "abstract": "This study sought to determine causative microorganisms of chronic suppurative otitis media and their antibacterial susceptibility.",
+        "journal": "Kulak burun bogaz ihtisas dergisi : KBB = Journal of ear, nose, and throat",
+        "year": "2006",
+        "authors": [
+          "Gül H Cem",
+          "Kurnaz Ali",
+          "Turhan Vedat",
+          "Oncül Oral",
+          "Pahsa Alahattin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Ceftazidime",
+          "Chronic Disease",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Gram-Negative Bacteria",
+          "Gram-Positive Bacteria",
+          "Humans",
+          "Imipenem"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16905907/"
+      },
+      {
+        "pmid": "40484402",
+        "title": "Topical versus systemic antibiotics for chronic suppurative otitis media.",
+        "abstract": "Chronic suppurative otitis media (CSOM), sometimes referred to as chronic otitis media, is a chronic inflammation and often polymicrobial infection of the middle ear and mastoid cavity, characterised by ear discharge (otorrhoea) through a perforated tympanic membrane. The predominant symptoms of CSOM are ear discharge and hearing loss. Antibiotics are the most common treatment for CSOM, and aim to kill or inhibit the growth of micro-organisms that may be responsible for the infection. Antibiotics can be administered both topically and systemically, and can be used alone or in addition to other treatments for CSOM, such as ear cleaning (aural toileting). This is the first update of a review published in 2021. The update found no new studies. It is one of a suite of seven Cochrane reviews evaluating the effects of non-surgical interventions for CSOM.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2025",
+        "authors": [
+          "Chong Lee Yee",
+          "Head Karen",
+          "Webster Katie E",
+          "Daw Jessica",
+          "Strobel Natalie A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Administration, Topical",
+          "Anti-Bacterial Agents",
+          "Bias",
+          "Chronic Disease",
+          "Otitis Media, Suppurative",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40484402/"
+      },
+      {
+        "pmid": "32946586",
+        "title": "Substantial reduction of antibiotic-non-susceptible pneumococcal otitis media following PCV7/PCV13 sequential introduction.",
+        "abstract": "In the pre-pneumococcal conjugated vaccines (PCVs) era, serotypes included in the 7/13-valent PCVs (PCV7/PCV13) caused most pneumococcal otitis media (OM) and antibiotic-non-susceptible pneumococcal OM (ANSP-OM) episodes. In southern Israel, sequential PCV7/PCV13 introduction resulted in >90% reduction of vaccine-serotype OM.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Ben-Shimol Shalom",
+          "Givon-Lavi Noga",
+          "Greenberg David",
+          "van der Beek Bart Adriaan",
+          "Leibovitz Eugene"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Heptavalent Pneumococcal Conjugate Vaccine",
+          "Humans",
+          "Infant",
+          "Israel",
+          "Otitis Media",
+          "Pneumococcal Infections",
+          "Pneumococcal Vaccines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32946586/"
+      },
+      {
+        "pmid": "11163457",
+        "title": "Treatment of acute otitis media - challenges in the era of antibiotic resistance.",
+        "abstract": "The last decade is characterized by the increase in antibiotic resistance among respiratory bacterial pathogens in the presence of only modest progress in the development of new antibacterial agents to overcome this resistance. A series of recent studies show clearly that the increased resistance among the main AOM pathogens (namely Streptococcus pneumoniae and Haemophilus influenzae) is associated with a dramatic decrease in bacteriologic response to antibiotic treatment, which in turn has an impact on clinical response. Thus, the individual patient is affected by the increasing antibiotic resistance. Moreover, the society as a whole is now also affected because the carriage and spread of antibiotic resistant AOM pathogens is remarkably impacted by antibiotic treatment. New studies show the remarkable ability of antibiotics to rapidly promote nasopharyngeal carriage and spread of antibiotic-resistant AOM pathogens. In these studies, the increase in carriage of antibiotic resistant S. ",
+        "journal": "Vaccine",
+        "year": "2000",
+        "authors": [
+          "Dagan R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Adhesion",
+          "Carrier State",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Microbial",
+          "Drug Resistance, Multiple",
+          "Drug Utilization",
+          "Environment",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11163457/"
+      },
+      {
+        "pmid": "8596126",
+        "title": "Etiology and therapy of chronic suppurative otitis.",
+        "abstract": "Infectious diseases of the ear are important in adults due to their incidence and relapses. We carried out a study of aerobic microorganisms on 251 otic exudates from patients diagnosed as having chronic suppurative otitis media without cholesteatoma (119), chronic suppurative otitis media with cholesteatoma (85) and chronic external otitis (47). The microorganisms predominantly isolated were, Pseudomonas aeruginosa, Staphylococcus aureus and other Enterobacteriaceae. 86% of isolates were monomicrobial and 14% of isolates were polymicrobial. In these latter the predominantly isolated microorganisms were also P. aeruginosa, S. aureus, Corynebacterium spp. and Proteus mirabilis. P. aeruginosa was the most commonly isolated and showed the highest percentages of resistance against antimicrobial agents tested. P. aeruginosa was most susceptible to ciprofloxacin and imipenem, but much less susceptible to cefotaxime, moxalactam and trimethoprim-sulfamethoxazole. S. aureus was highly sensitive",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "1995",
+        "authors": [
+          "Campos M A",
+          "Arias A",
+          "Rodriguez C",
+          "Dorta A",
+          "Betancor L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Chronic Disease",
+          "Female",
+          "Gram-Negative Bacteria",
+          "Gram-Positive Bacteria",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8596126/"
+      },
+      {
+        "pmid": "7681376",
+        "title": "Cefprozil. A review of its antibacterial activity, pharmacokinetic properties, and therapeutic potential.",
+        "abstract": "Cefprozil is an orally active cephalosporin which has demonstrated activity against a wide range of organisms in vitro. It is particularly active against the Gram-positive organisms Streptococcus pyogenes, pneumoniae and agalactiae and against methicillin-susceptible Staphylococcus aureus. Strains of methicillin-resistant S. aureus are not susceptible to cefprozil. Cefprozil is also moderately active against Haemophilus influenzae, Moraxella catarrhalis, Neisseria gonorrhoeae, many Enterobacteriaceae and certain anaerobic organisms, and is relatively stable to hydrolysis by a number of beta-lactamases. In comparative trials, the clinical and bacteriological efficacy of cefprozil 500mg or 20 mg/kg administered once or twice daily has been comparable with multiple daily dosage regimens of erythromycin in patients with tonsillitis or pharyngitis, with cefaclor and amoxicillin/clavulanate in lower respiratory tract infections, with amoxicillin/clavulanate and erythromycin in skin and skin-",
+        "journal": "Drugs",
+        "year": "1993",
+        "authors": [
+          "Wiseman L R",
+          "Benfield P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bacteria",
+          "Bacterial Infections",
+          "Cephalosporins",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Otitis Media",
+          "Skin Diseases, Infectious",
+          "Urinary Tract Infections",
+          "Cefprozil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7681376/"
+      },
+      {
+        "pmid": "17266451",
+        "title": "Cefdinir: an oral cephalosporin for the treatment of respiratory tract infections and skin and skin structure infections.",
+        "abstract": "Cefdinir is an oral third-generation cephalosporin (also known as an advanced-spectrum or generation cephem) with good in vitro activity against the pathogens responsible for community-acquired respiratory tract infections and uncomplicated skin and skin structure infections. The drug distributes very well in respiratory tract tissues and fluids, as well as skin blisters and ear fluids; its pharmacokinetic profile allows once- or twice-daily administration. Oral cefdinir 300 mg twice daily or 600 mg once daily in adults and adolescents, or 14 mg/kg/day in one or two daily doses in pediatric patients, administered for 5 or 10 days, has shown good clinical and bacteriological efficacy, at least equivalent to that of other oral agents in randomized controlled trials conducted in patients with community-acquired pneumonia, acute bacterial exacerbation of chronic bronchitis, sinusitis, acute otitis media, pharyngitis and uncomplicated skin and skin structure infections. Cefdinir is well tol",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2007",
+        "authors": [
+          "Sader Helio S",
+          "Jones Ronald N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Animals",
+          "Cefdinir",
+          "Cephalosporins",
+          "Humans",
+          "Respiratory Tract Infections",
+          "Skin Diseases, Infectious"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17266451/"
+      },
+      {
+        "pmid": "25249162",
+        "title": "Antibiotic treatment failure in four common infections in UK primary care 1991-2012: longitudinal analysis.",
+        "abstract": "To characterise failure of antibiotic treatment in primary care in the United Kingdom in four common infection classes from 1991 to 2012.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2014",
+        "authors": [
+          "Currie Craig J",
+          "Berni Ellen",
+          "Jenkins-Jones Sara",
+          "Poole Chris D",
+          "Ouwens Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Humans",
+          "Longitudinal Studies",
+          "Otitis Media",
+          "Primary Health Care",
+          "Respiratory Tract Infections",
+          "Skin Diseases, Infectious",
+          "Soft Tissue Infections",
+          "Treatment Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25249162/"
+      },
+      {
+        "pmid": "7970967",
+        "title": "Variation in acceptance of common oral antibiotic suspensions.",
+        "abstract": "Palatability of oral antibiotic suspensions is important and may be a substantial factor in determining compliance in young pediatric patients. Because no comparative systematic data are available, we undertook the present study to assess the acceptance of and compliance with oral antibiotic suspensions commonly used in Israel. During a 4-month period lists of children receiving oral antibiotic suspensions were obtained from 3 major pediatric clinics, and parents were contacted by telephone 10 to 14 days after initiation of therapy, at which time information on age, sex, main disease, prescribed drugs and duration of treatment was obtained. Information regarding acceptance, side effects and compliance was obtained from 11 questions with graded scores. In the study 546 children received one of the following drugs: amoxicillin (n = 222); cefaclor (n - 142); cefuroxime axetil (n = 107); trimethoprim/sulfamethoxazole (n = 75). No major differences in background data were noted; more than 5",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1994",
+        "authors": [
+          "Dagan R",
+          "Shvartzman P",
+          "Liss Z"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Cefaclor",
+          "Cefuroxime",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Israel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7970967/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:49:59.078704",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,576 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "autism",
+    "query_string": "Risperidone AND autism"
+  },
+  "data": {
+    "query": "Risperidone AND autism",
+    "results": [
+      {
+        "pmid": "35101925",
+        "title": "Risperidone and aripiprazole for autism spectrum disorder in children: an overview of systematic reviews.",
+        "abstract": "To assess the effectiveness and safety of risperidone and aripiprazole in children with autism spectrum disorder (ASD).",
+        "journal": "BMJ evidence-based medicine",
+        "year": "2023",
+        "authors": [
+          "Fieiras Cecilia",
+          "Chen Michael Hao",
+          "Escobar Liquitay Camila Micaela",
+          "Meza Nicolás",
+          "Rojas Valeria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Aripiprazole",
+          "Autism Spectrum Disorder",
+          "Risperidone",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35101925/"
+      },
+      {
+        "pmid": "12151468",
+        "title": "Risperidone in children with autism and serious behavioral problems.",
+        "abstract": "Atypical antipsychotic agents, which block postsynaptic dopamine and serotonin receptors, have advantages over traditional antipsychotic medications in the treatment of adults with schizophrenia and may be beneficial in children with autistic disorder who have serious behavioral disturbances. However, data on the safety and efficacy of atypical antipsychotic agents in children are limited.",
+        "journal": "The New England journal of medicine",
+        "year": "2002",
+        "authors": [
+          "McCracken James T",
+          "McGough James",
+          "Shah Bhavik",
+          "Cronin Pegeen",
+          "Hong Daniel"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antipsychotic Agents",
+          "Autistic Disorder",
+          "Child",
+          "Child Behavior",
+          "Child, Preschool",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12151468/"
+      },
+      {
+        "pmid": "35246237",
+        "title": "Pharmacological and dietary-supplement treatments for autism spectrum disorder: a systematic review and network meta-analysis.",
+        "abstract": "There is still no approved medication for the core symptoms of autism spectrum disorder (ASD). This network meta-analysis investigated pharmacological and dietary-supplement treatments for ASD.",
+        "journal": "Molecular autism",
+        "year": "2022",
+        "authors": [
+          "Siafis Spyridon",
+          "Çıray Oğulcan",
+          "Wu Hui",
+          "Schneider-Thoma Johannes",
+          "Bighelli Irene"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Humans",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Autism Spectrum Disorder",
+          "Oxytocin",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35246237/"
+      },
+      {
+        "pmid": "28075089",
+        "title": "Autism Spectrum Disorder: Primary Care Principles.",
+        "abstract": "Autism spectrum disorder is characterized by difficulty with social communication and restricted, repetitive patterns of behavior, interest, or activities. The Diagnostic and Statistical Manual of Mental Disorders, 5th ed., created an umbrella diagnosis that includes several previously separate conditions: autistic disorder, Asperger syndrome, childhood disintegrative disorder, and pervasive developmental disorder not otherwise specified. There is insufficient evidence to recommend screening for autism spectrum disorder in children 18 to 30 months of age in whom the disorder is not suspected; however, there is a growing body of evidence that early intensive behavioral intervention based on applied behavior analysis improves cognitive ability, language, and adaptive skills. Therefore, early identification of autism spectrum disorder is important, and experts recommend the use of a validated screening tool at 18- and 24-month well-child visits. Medications can be used as adjunctive treat",
+        "journal": "American family physician",
+        "year": "2016",
+        "authors": [
+          "Sanchack Kristian E",
+          "Thomas Craig A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Asperger Syndrome",
+          "Autism Spectrum Disorder",
+          "Autistic Disorder",
+          "Behavior Therapy",
+          "Child Development Disorders, Pervasive",
+          "Child, Preschool",
+          "Early Diagnosis",
+          "Early Medical Intervention"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28075089/"
+      },
+      {
+        "pmid": "35470032",
+        "title": "Systematic Review and Meta-analysis: Efficacy of Pharmacological Interventions for Irritability and Emotional Dysregulation in Autism Spectrum Disorder and Predictors of Response.",
+        "abstract": "Emotional dysregulation and irritability are common in individuals with autism spectrum disorder (ASD). We conducted the first meta-analysis assessing the efficacy of a broad range of pharmacological interventions for emotional dysregulation and irritability in ASD and predictors of response.",
+        "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+        "year": "2023",
+        "authors": [
+          "Salazar de Pablo Gonzalo",
+          "Pastor Jordá Carolina",
+          "Vaquerizo-Serrano Julio",
+          "Moreno Carmen",
+          "Cabras Anna"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Meta-Analysis",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Risperidone",
+          "Aripiprazole",
+          "Antipsychotic Agents",
+          "Autism Spectrum Disorder",
+          "Attention Deficit Disorder with Hyperactivity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35470032/"
+      },
+      {
+        "pmid": "38263251",
+        "title": "Pharmacological and non-pharmacological interventions for irritability in autism spectrum disorder: a systematic review and meta-analysis with the GRADE assessment.",
+        "abstract": "Numerous interventions for irritability in autism spectrum disorder (ASD) have been investigated. We aimed to appraise the magnitude of pharmacological and non-pharmacological interventions for irritability in ASD without any restrictions in terms of eligible interventions.",
+        "journal": "Molecular autism",
+        "year": "2024",
+        "authors": [
+          "Choi Hangnyoung",
+          "Kim Jae Han",
+          "Yang Hee Sang",
+          "Kim Jong Yeob",
+          "Cortese Samuele"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "GRADE Approach",
+          "Aripiprazole",
+          "Risperidone",
+          "Autism Spectrum Disorder"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38263251/"
+      },
+      {
+        "pmid": "34757514",
+        "title": "European clinical guidelines for Tourette syndrome and other tic disorders-version 2.0. Part III: pharmacological treatment.",
+        "abstract": "In 2011, the European Society for the Study of Tourette Syndrome (ESSTS) published the first European guidelines for Tourette Syndrome (TS). We now present an update of the part on pharmacological treatment, based on a review of new literature with special attention to other evidence-based guidelines, meta-analyses, and randomized double-blinded studies. Moreover, our revision took into consideration results of a recent survey on treatment preferences conducted among ESSTS experts. The first preference should be given to psychoeducation and to behavioral approaches, as it strengthens the patients' self-regulatory control and thus his/her autonomy. Because behavioral approaches are not effective, available, or feasible in all patients, in a substantial number of patients pharmacological treatment is indicated, alone or in combination with behavioral therapy. The largest amount of evidence supports the use of dopamine blocking agents, preferably aripiprazole because of a more favorable p",
+        "journal": "European child & adolescent psychiatry",
+        "year": "2022",
+        "authors": [
+          "Roessner Veit",
+          "Eichele Heike",
+          "Stern Jeremy S",
+          "Skov Liselotte",
+          "Rizzo Renata"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Child",
+          "Female",
+          "Guanfacine",
+          "Humans",
+          "Male",
+          "Risperidone",
+          "Tic Disorders",
+          "Tourette Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34757514/"
+      },
+      {
+        "pmid": "25385293",
+        "title": "Clinical and pharmacokinetic evaluation of risperidone for the management of autism spectrum disorder.",
+        "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that is often accompanied by psychiatric comorbidity. Although there is no medication currently available to treat the core symptoms of ASD, risperidone was the first drug to be approved for use in ASD and is still the best established psychopharmacological option for the treatment of irritability and behavioral problems in ASD.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2015",
+        "authors": [
+          "Dinnissen Mariken",
+          "Dietrich Andrea",
+          "van den Hoofdakker Barbara J",
+          "Hoekstra Pieter J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antipsychotic Agents",
+          "Child Development Disorders, Pervasive",
+          "Disease Management",
+          "Drug Evaluation",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25385293/"
+      },
+      {
+        "pmid": "21962519",
+        "title": "Absence of CNTNAP2 leads to epilepsy, neuronal migration abnormalities, and core autism-related deficits.",
+        "abstract": "Although many genes predisposing to autism spectrum disorders (ASD) have been identified, the biological mechanism(s) remain unclear. Mouse models based on human disease-causing mutations provide the potential for understanding gene function and novel treatment development. Here, we characterize a mouse knockout of the Cntnap2 gene, which is strongly associated with ASD and allied neurodevelopmental disorders. Cntnap2(-/-) mice show deficits in the three core ASD behavioral domains, as well as hyperactivity and epileptic seizures, as have been reported in humans with CNTNAP2 mutations. Neuropathological and physiological analyses of these mice before the onset of seizures reveal neuronal migration abnormalities, reduced number of interneurons, and abnormal neuronal network activity. In addition, treatment with the FDA-approved drug risperidone ameliorates the targeted repetitive behaviors in the mutant mice. These data demonstrate a functional role for CNTNAP2 in brain development and ",
+        "journal": "Cell",
+        "year": "2011",
+        "authors": [
+          "Peñagarikano Olga",
+          "Abrahams Brett S",
+          "Herman Edward I",
+          "Winden Kellen D",
+          "Gdalyahu Amos"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Autistic Disorder",
+          "Brain",
+          "Cell Movement",
+          "Disease Models, Animal",
+          "Epilepsy",
+          "Humans",
+          "Interneurons",
+          "Membrane Proteins",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21962519/"
+      },
+      {
+        "pmid": "40503466",
+        "title": "Efficacy and Safety of Risperidone Interventions in Children and Adolescents with Autism Spectrum Disorder.",
+        "abstract": "Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that severely impairs children's health. Current data suggest that behavioral therapies are successful. Risperidone has been approved by the US Food and Drug Administration (FDA) to moderate impulsive behavior in people with ASD. This study aimed to evaluate the efficacy and safety of risperidone in children and adolescents with ASD.",
+        "journal": "Psychiatry and clinical psychopharmacology",
+        "year": "2025",
+        "authors": [
+          "Yang Fei",
+          "Kang Lin",
+          "Zou ChaoJie"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40503466/"
+      },
+      {
+        "pmid": "39773705",
+        "title": "Pharmacological treatment in autism: a proposal for guidelines on common co-occurring psychiatric symptoms.",
+        "abstract": "The prevalence of autism spectrum disorder (ASD) has surged, with an estimated 1 in 36 eight-year-olds in the United States meeting criteria for ASD in 2020. Autistic individuals face elevated rates of co-occurring medical, psychiatric, and behavioral conditions compared to non-autistic individuals. The rising ASD-patient demand is increasingly outpacing the capacity of ASD-specialty clinics, resulting in urgent need for autism-competent providers in general practice settings. This work aims to empower healthcare providers, especially primary care providers (PCPs), with guidelines for the recognition and safe pharmacologic management of common co-occurring psychiatric and behavioral conditions in ASD.",
+        "journal": "BMC medicine",
+        "year": "2025",
+        "authors": [
+          "Manter Mariah A",
+          "Birtwell Kirstin B",
+          "Bath James",
+          "Friedman Nora D B",
+          "Keary Christopher J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Autism Spectrum Disorder",
+          "Practice Guidelines as Topic",
+          "Sleep Wake Disorders",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Depression",
+          "Comorbidity",
+          "Anxiety"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39773705/"
+      },
+      {
+        "pmid": "39690490",
+        "title": "Navigating agitation in neurodevelopmental disorders: A comparative study of pharmacotherapies via network meta-analysis in children and adults with autism spectrum disorder or intellectual disabilities.",
+        "abstract": "Individuals with autism spectrum disorder (ASD) and intellectual disability often experience persistent challenges related to aggressive behaviour and agitation, highlighting the critical need for evidence-based pharmacological interventions among other strategies. Despite previous network meta-analyses (NMAs), the rapidly evolving landscape of treatment options necessitates ongoing and updated assessments.",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2025",
+        "authors": [
+          "Bahji Anees",
+          "Forth Evan",
+          "Nasar Amina",
+          "Waqas Ahmed",
+          "Hawken Emily R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Antipsychotic Agents",
+          "Autism Spectrum Disorder",
+          "Intellectual Disability",
+          "Psychomotor Agitation",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39690490/"
+      },
+      {
+        "pmid": "33029705",
+        "title": "Folinic Acid as Adjunctive Therapy in Treatment of Inappropriate Speech in Children with Autism: A Double-Blind and Placebo-Controlled Randomized Trial.",
+        "abstract": "This is a double-blind, placebo-controlled randomized trial to investigate the potential therapeutic effects of folinic acid/placebo as an adjuvant to risperidone on inappropriate speech and other behavioral symptoms of autism spectrum disorder (ASD). Fifty-five ASD children (age (mean ± standard deviation) = 13.40 ± 2.00; male/female: 35/20) were evaluated for behavioral symptoms at baseline, week 5, and week 10 using the aberrant behavior checklist-community (ABC-C). Folinic acid dosage was 2 mg/kg up to 50 mg per day for the entire course of the study. The repeated measures analysis showed significant effect for time × treatment interaction on inappropriate speech (F = 3.51; df = 1.61; P = 0.044), stereotypic behavior (F = 4.02; df = 1.37; P = 0.036), and hyperactivity/noncompliance (F = 6.79; df = 1.66; P = 0.003) subscale scores. In contrast, no significant effect for time × treatment interaction was found on lethargy/social withdrawal (F = 1.06; df = 1.57; P = 0.336) and irritabi",
+        "journal": "Child psychiatry and human development",
+        "year": "2021",
+        "authors": [
+          "Batebi Neda",
+          "Moghaddam Hossein Sanjari",
+          "Hasanzadeh Alireza",
+          "Fakour Yousef",
+          "Mohammadi Mohammad Reza"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Autism Spectrum Disorder",
+          "Autistic Disorder",
+          "Child",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Iran",
+          "Leucovorin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33029705/"
+      },
+      {
+        "pmid": "33921933",
+        "title": "Risperidone or Aripiprazole Can Resolve Autism Core Signs and Symptoms in Young Children: Case Study.",
+        "abstract": "Risperidone and aripiprazole are approved by the USA Food and Drug Administration for the treatment of irritability and aggression in children from the ages of 5 and 6 years, respectively. However, there are no approved medications for the treatment of autism spectrum disorder (ASD) core signs and symptoms. Nevertheless, early intervention is recognized as key to improving long-term outcomes. This retrospective case study included 10 children (mean age, 2 years 10 months) with ASD who presented with persistent irritability and aggression before 4 years of age that was unresponsive to behavioral interventions and sufficiently severe to consider pharmacological intervention with risperidone or aripiprazole combined with standard supportive therapies. Besides ameliorating comorbid behaviors, improvement was observed in ASD core signs and symptoms for all patients, with minimal-to-no symptoms observed in 60% of patients according to the Childhood Autism Rating Scale 2-Standard Test and Cli",
+        "journal": "Children (Basel, Switzerland)",
+        "year": "2021",
+        "authors": [
+          "Alsayouf Hamza A",
+          "Talo Haitham",
+          "Biddappa Marisa L",
+          "De Los Reyes Emily"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33921933/"
+      },
+      {
+        "pmid": "41004875",
+        "title": "Efficacy and safety of risperidone and aripiprazole in reducing severity of irritability in children with autism spectrum disorder: A randomized controlled trial.",
+        "abstract": "Both risperidone and aripiprazole are effective in reducing irritability severity in children with autism spectrum disorder (ASD). However, head-to-head comparison trials between these two drugs are scarce in the literature and have shown conflicting results.",
+        "journal": "Brain & development",
+        "year": "2025",
+        "authors": [
+          "Panda Prateek Kumar",
+          "Sharawat Indar Kumar",
+          "Gupta Diksha",
+          "Palayullakandi Achanya",
+          "Sopanam Suthiraj"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Risperidone",
+          "Aripiprazole",
+          "Autism Spectrum Disorder",
+          "Child",
+          "Male",
+          "Female",
+          "Irritable Mood",
+          "Adolescent",
+          "Antipsychotic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41004875/"
+      },
+      {
+        "pmid": "37147047",
+        "title": "Autism Spectrum Disorder and Complementary-Integrative Medicine.",
+        "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that affects 0.6%-1.7% of children. The etiology of autism is hypothesized to include both biological and environmental factors (Watts, 2008). In addition to the core symptoms of social-communication delay and restricted, repetitive interests, co-occurring irritability/aggression, hyperactivity, and insomnia negatively impact adaptive functioning and quality of life of patients and families. Despite years of effort, no pharmacologic agent has been found that targets the core symptoms of ASD. The only FDA-approved agents are risperidone and aripiprazole for agitation and irritability in ASD, not for core symptoms. Though they effectively reduce irritability/violence, they do so at the expense of problematic side effects: metabolic syndrome, elevated liver enzymes, and extrapyramidal side effects. Thus, it is not surprising that many families of children with ASD turn to nonallopathic treatment, including dietary interventio",
+        "journal": "Child and adolescent psychiatric clinics of North America",
+        "year": "2023",
+        "authors": [
+          "Vandana Pankhuree",
+          "Simkin Deborah R",
+          "Hendren Robert L",
+          "Arnold L Eugene"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Autism Spectrum Disorder",
+          "Integrative Medicine",
+          "Quality of Life",
+          "Autistic Disorder",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37147047/"
+      },
+      {
+        "pmid": "10674197",
+        "title": "Research Units on Pediatric Psychopharmacology (RUPP) Autism Network. Background and rationale for an initial controlled study of risperidone.",
+        "abstract": "This article has reviewed the background and rationale for the choice of risperidone as the first drug to be studied by the RUPP Autism Network. Risperidone has potent effects on 5-HT and DA neuronal systems, both of which have been implicated in the pathophysiology of autism. Unlike the typical antipsychotics, haloperidol and pimozide, which have been shown to be effective for reducing many of the maladaptive behaviors associated with autism, risperidone's 5-HT2A/DA D2 ratio of receptor blockade appears to produce a lower risk of acute and chronic extrapyramidal side effects, as well as enhanced efficacy for the \"negative\" symptoms of autism. Indirect clinical and preclinical evidence supports the use of risperidone to treat impaired social behavior, interfering repetitive phenomena, and aggression, targets of pharmacotherapy for many patients with autism. Numerous published open-label trials in children and adolescents with autism and related PDDs and one double-blind, placebo-contro",
+        "journal": "Child and adolescent psychiatric clinics of North America",
+        "year": "2000",
+        "authors": [
+          "McDougle C J",
+          "Scahill L",
+          "McCracken J T",
+          "Aman M G",
+          "Tierney E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antipsychotic Agents",
+          "Autistic Disorder",
+          "Brain",
+          "Child",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Receptors, Dopamine",
+          "Receptors, Serotonin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10674197/"
+      },
+      {
+        "pmid": "34080319",
+        "title": "Risperidone versus aripiprazole fracture risk in children and adolescents with autism spectrum disorders.",
+        "abstract": "Risperidone and aripiprazole, commonly used antipsychotics in children with autism spectrum disorder (ASD), have previously been associated with elevated fracture risk in other populations. The aim of this study was to evaluate and compare the risk of fracture among children with ASD using risperidone or aripiprazole. This was a retrospective, propensity-score matched cohort study, set between January 2013 and December 2018. We used the MarketScan Medicaid insurance data, which covers multiple states of the United States. We included ASD children aged 2-18 years, who were new users of aripiprazole or risperidone and with no prior history of antipsychotic use or fractures. The main exposure was the continued use of aripiprazole or risperidone. The incidence rates of any fracture during follow-up were evaluated, and the risk between aripiprazole and risperidone was compared via Cox-proportional hazard models. Results were stratified by age, sex, duration of exposure and fracture site. In",
+        "journal": "Autism research : official journal of the International Society for Autism Research",
+        "year": "2021",
+        "authors": [
+          "Houghton Richard",
+          "van den Bergh Joop",
+          "Law Kiely",
+          "Liu Yutong",
+          "de Vries Frank"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Autism Spectrum Disorder",
+          "Child",
+          "Cohort Studies",
+          "Female",
+          "Fractures, Bone",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34080319/"
+      },
+      {
+        "pmid": "30022830",
+        "title": "Risperidone for children and adolescents with autism spectrum disorder: a systematic review.",
+        "abstract": "Various clinical trials suggested that risperidone was beneficial in the treatment of autism spectrum disorder (ASD) in children and adolescents.",
+        "journal": "Neuropsychiatric disease and treatment",
+        "year": "2018",
+        "authors": [
+          "Maneeton Narong",
+          "Maneeton Benchalak",
+          "Putthisri Suwannee",
+          "Woottiluk Pakapan",
+          "Narkpongphun Assawin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30022830/"
+      },
+      {
+        "pmid": "35127178",
+        "title": "Effectiveness and Adverse Effects of Risperidone in Children with Autism Spectrum Disorder in a Naturalistic Clinical Setting at a University Hospital in Oman.",
+        "abstract": "This study aimed at examining the effectiveness of treating children with autism spectrum disorder (ASD) who present with irritability, aggression, and disruptive behavior at the Sultan Qaboos University Hospital (SQUH) in Muscat, Oman, with risperidone, and to note any sex-based differences among this cohort.",
+        "journal": "Autism research and treatment",
+        "year": "2022",
+        "authors": [
+          "Al-Huseini Salim",
+          "Al-Barhoumi Ali",
+          "Al-Balushi Miad",
+          "Al-Hosni Amira",
+          "Al-Mahrouqi Tamadhir"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35127178/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:32:11.947410",
+  "success": true,
+  "error_message": null
+}

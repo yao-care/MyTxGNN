@@ -1,0 +1,582 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbamazepine",
+    "disease": "glossopharyngeal motor neuropathy",
+    "query_string": "Carbamazepine AND glossopharyngeal motor neuropathy"
+  },
+  "data": {
+    "query": "Carbamazepine AND glossopharyngeal motor neuropathy",
+    "results": [
+      {
+        "pmid": "24703544",
+        "title": "Trigeminal and glossopharyngeal neuralgia.",
+        "abstract": "Trigeminal neuralgia and glossopharyngeal neuralgia are two causes of paroxysmal craniofacial pain. Either can be debilitating in affected individuals. This article reviews the epidemiology, pathogenesis, diagnosis, and treatment options for these disorders.",
+        "journal": "Neurologic clinics",
+        "year": "2014",
+        "authors": [
+          "Reddy Gaddum Duemani",
+          "Viswanathan Ashwin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Microvascular Decompression Surgery",
+          "Radiosurgery",
+          "Trigeminal Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24703544/"
+      },
+      {
+        "pmid": "15062534",
+        "title": "Trigeminal neuralgia and glossopharyngeal neuralgia.",
+        "abstract": "Trigeminal neuralgia and glossopharyngeal neuralgia are extremely painful conditions that typically afflict an older population. Distinct clinical characteristics guide the diagnosis of these unique syndromes. Treatment involves medication first and then surgical procedures if a patient is refractory to medicinal therapy. Antiepileptic medications are the most effective agents for these disorders.",
+        "journal": "Neurologic clinics",
+        "year": "2004",
+        "authors": [
+          "Rozen Todd D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics, Non-Narcotic",
+          "Anticonvulsants",
+          "Baclofen",
+          "Carbamazepine",
+          "GABA Agonists",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Phenytoin",
+          "Trigeminal Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15062534/"
+      },
+      {
+        "pmid": "20426709",
+        "title": "Medical management of trigeminal neuropathic pains.",
+        "abstract": "Although trigeminal neuralgia has traditionally been considered the prime neuralgic condition in the face region, other forms of neuropathic pain are now being more frequently recognized and require recognition and a different management approach.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Zakrzewska Joanna M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Anticonvulsants",
+          "Burning Mouth Syndrome",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Pain",
+          "Toothache",
+          "Trigeminal Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20426709/"
+      },
+      {
+        "pmid": "14713973",
+        "title": "[Glossopharyngeal neuralgia].",
+        "abstract": "Glossopharyngeal neuralgia is a rare but nevertheless important condition as it can be very incapacitating and as effective treatment is available.",
+        "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+        "year": "2003",
+        "authors": [
+          "Amthor Karl-Friedrich",
+          "Eide Per Kristian"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14713973/"
+      },
+      {
+        "pmid": "36181064",
+        "title": "Avellis syndrome with ipsilateral prosopalgia, glossopharyngeal neuralgia, and central post-stroke pain: A case report and literature review.",
+        "abstract": "Avellis syndrome is a rare bulbar syndrome. The main lesions may involve nucleus ambiguus and the lateral spinothalamic tract. The typical reported clinical manifestations are hoarseness, dysphagia, pain, and temperature disturbance of contralateral body. The manifestations, however, may vary. We aim to report new manifestations of Avellis syndrome in this report.",
+        "journal": "Medicine",
+        "year": "2022",
+        "authors": [
+          "He Sijin",
+          "Chen Qigang",
+          "Jing Zhicong",
+          "Gu Lihua",
+          "Luo Kaixuan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aspirin",
+          "Carbamazepine",
+          "Deglutition Disorders",
+          "Dizziness",
+          "Female",
+          "Gabapentin",
+          "Glossopharyngeal Nerve Diseases",
+          "Horner Syndrome",
+          "Humans",
+          "Infarction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36181064/"
+      },
+      {
+        "pmid": "15516816",
+        "title": "[Peculiarities of the investigation, clinics and treatment of stylohyoid syndrome and glossopharyngeal neuropathy].",
+        "abstract": "The aim of the study was to investigate the causes and the clinics of stylohyoid syndrome and its tendency to convert into glossopharyngeal nerve neuropathy; to investigate clinical peculiarities of glossopharyngeal neuropathy; to estimate differential diagnosis criteria for the glossopharyngeal neuropathy and stylohyoid syndrome; as well as to propose optimal treatment of the neuropathy.",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2004",
+        "authors": [
+          "Gervickas Albinas",
+          "Kubilius Ricardas"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Carbamazepine",
+          "Diagnosis, Differential",
+          "Female",
+          "Glossopharyngeal Nerve Diseases",
+          "Glucocorticoids",
+          "Humans",
+          "Hyoid Bone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15516816/"
+      },
+      {
+        "pmid": "10746612",
+        "title": "Glossopharyngeal neuralgia and MS.",
+        "abstract": "Glossopharyngeal neuralgia (GPN) is characterized by a severe lancing pain in the posterior pharynx, tonsillar fossa, and base of the tongue. It is induced frequently by swallowing and yawning. GPN has not been described previously in MS patients. The authors report four MS patients with GPN. Three responded to carbamazepine and one resolved during treatment with adrenocorticotrophin hormone (ACTH) and cyclophosphamide. Withdrawal of carbamazepine after 1 week in one patient resulted in recurrence of pain. GPN may be associated with MS and responds to carbamazepine.",
+        "journal": "Neurology",
+        "year": "2000",
+        "authors": [
+          "Minagar A",
+          "Sheremata W A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbamazepine",
+          "Female",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Multiple Sclerosis",
+          "Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10746612/"
+      },
+      {
+        "pmid": "27102416",
+        "title": "Glossopharyngeal neuralgia associated with cardiac syncope.",
+        "abstract": "Glossopharyngeal neuralgia is a rare pain syndrome presenting with paroxysms of pain in the region of the glossopharyngeal nerve. Even more uncommon is the association between glossopharyngeal neuralgia and cardiac syncope. In these patients, the cardiovascular consequences may include bradycardia, hypotension and cardiac arrest. We describe the case of a 40-year-old patient who presented with this rare association of glossopharyngeal neuralgia and syncope. Multiple pauses including one lasting 14 s were noted on ambulatory ECG monitoring. In this case, the patient declined pharmacological treatment with carbamazepine or with permanent pacing and so far has been in remission from symptoms for 3 months.",
+        "journal": "BMJ case reports",
+        "year": "2016",
+        "authors": [
+          "Burfield Laura",
+          "Ahmad Faheem",
+          "Adams Jacqueline"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bradycardia",
+          "Glossopharyngeal Nerve",
+          "Glossopharyngeal Nerve Diseases",
+          "Heart Arrest",
+          "Humans",
+          "Hypotension",
+          "Male",
+          "Neuralgia",
+          "Remission, Spontaneous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27102416/"
+      },
+      {
+        "pmid": "22647513",
+        "title": "[A case of combined glossopharyngeal and trigeminal neuralgia].",
+        "abstract": "It is well-known that idiopathic neuralgias of the trigeminal and glossopharyngeal nerves are caused by vascular compression at the root entry zone of the cranial nerves. Because they are functional diseases, initial treatment is medical, especially with carbamazepine. However, if medical therapy fails to adequately manage the pain, microvascular decompression (MVD) is prescribed. Glossopharyngeal neuralgia is rare, and combined trigeminal and glossopharyngeal neuralgia is an extremely rare disorder. A 70-year-old woman presented herself to Hokkaido Neurosurgical Memorial Hospital because of paroxysms of lancinating pain in her left pharynx and another lancinating pain in her left cheek. Carbamazepine, which was prescribed at another hospital, favorably relieved the pain; however, drug eruption compelled her to discontinue the medication. The multi-volume method revealed that a root entry zone of the left glossopharyngeal nerve was compressed by the left posterior inferior cerebellar a",
+        "journal": "No shinkei geka. Neurological surgery",
+        "year": "2012",
+        "authors": [
+          "Katoh Masahito",
+          "Aida Toshimitsu",
+          "Moriwaki Takuya",
+          "Yoshino Masami",
+          "Aoki Takeshi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Cranial Nerve Neoplasms",
+          "Craniotomy",
+          "Female",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Microvascular Decompression Surgery",
+          "Trigeminal Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22647513/"
+      },
+      {
+        "pmid": "18355311",
+        "title": "Glossopharyngeal neuralgia with cardiac syncope: an idiopathic case treated with carbamazepine and duloxetine.",
+        "abstract": "",
+        "journal": "European journal of neurology",
+        "year": "2008",
+        "authors": [
+          "Giza E",
+          "Kyriakou P",
+          "Liasides C",
+          "Dimakopoulou A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antidepressive Agents",
+          "Carbamazepine",
+          "Duloxetine Hydrochloride",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Syncope",
+          "Thiophenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18355311/"
+      },
+      {
+        "pmid": "38415995",
+        "title": "Glossopharyngeal neuralgia due to vertebrobasilar dolichoectasia: a case report.",
+        "abstract": "Glossopharyngeal neuralgia due to vertebrobasilar dolichoectasia is a rare form of neuropathic pain, and presents diagnostic and therapeutic challenges. Clinical presentation: A 67-year-old man presented with severe burning pain in the left oral cavity, with no explanatory findings during dental and ear, nose, and throat evaluations. Temporomandibular joint examination revealed tenderness, and panoramic radiographs showed a noncontributory periapical radiolucency. Magnetic resonance imaging/magnetic resonance angiography revealed abnormally tortuous vertebral arteries compressing the glossopharyngeal nerves and the brainstem. Topical lidocaine reduced pain, confirming glossopharyngeal neuralgia. Carbamazepine was initially ineffective, but at 200 mg pain reduced from 90 to 20 on the visual analog scale. The patient requested and underwent microvascular decompression surgery, which eliminated his pain. Conclusion: When the vertebral artery compresses the glossopharyngeal nerve, the pain",
+        "journal": "Quintessence international (Berlin, Germany : 1985)",
+        "year": "2024",
+        "authors": [
+          "Chen Jui Yen",
+          "Takizawa Keita",
+          "Ozasa Kana",
+          "Otani Naoki",
+          "Young Andrew"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Aged",
+          "Glossopharyngeal Nerve Diseases",
+          "Vertebrobasilar Insufficiency",
+          "Pain Measurement",
+          "Microvascular Decompression Surgery",
+          "Magnetic Resonance Angiography",
+          "Radiography, Panoramic",
+          "Magnetic Resonance Imaging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38415995/"
+      },
+      {
+        "pmid": "12633639",
+        "title": "Glossopharyngeal neuralgia with cardiac syncope treated by glossopharyngeal rhizotomy and microvascular decompression.",
+        "abstract": "A glossopharyngeal neuralgia case with cardiac asystole is presented. The sinus mode dysfunction and subsequent syncope with pain appears to be the most important life-threatening symptom in the late period of the disease. Because of cardiac symptoms induced by intense vagal stimulation, this case was considered to be vagoglossopharyngeal neuralgia. Several medical and surgical alternatives have been proposed for its treatment. In the presented case the cause of disease was compression of lower cranial nerves in the right cerebello-pontine angle (CPA) by the vertebro-basilar arterial system. Carbamazepine and pacing were determined ineffective, so the patient was treated surgically by cutting the glossopharyngeal nerve and by decompression of the vagal nerve at the CPA. The sinus arrest and paroxysmal pain attacks disappeared and the patient's life returned to normal.",
+        "journal": "Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology",
+        "year": "2003",
+        "authors": [
+          "Ozenci M",
+          "Karaoguz R",
+          "Conkbayir C",
+          "Altin T",
+          "Kanpolat Y"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Decompression, Surgical",
+          "Female",
+          "Glossopharyngeal Nerve",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Microsurgery",
+          "Middle Aged",
+          "Rhizotomy",
+          "Syncope",
+          "Vagus Nerve"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12633639/"
+      },
+      {
+        "pmid": "11954773",
+        "title": "Chiari type I presenting as left glossopharyngeal neuralgia with cardiac syncope.",
+        "abstract": "Glossopharyngeal neuralgia is an uncommon craniofacial pain syndrome that is occasionally associated with cardiac syncope. However, we relate Chiari I syndrome as a cause of this clinical picture for the first time in the literature. The authors analyze the relevant literature and discuss the pathogenesis and treatment of associated syndromes. We describe the case of a 45-year-old female patient who presented with a 3-year history of left glossopharyngeal neuralgia with occasional dysphagia and episodes of syncope when eating or swallowing. The pain was not disseminated to the right side and was fairly well controlled by carbamazepine. The syncopal attacks had a duration of about 10 sec. Neurological examination elicited a faint dysphonia associated with paradoxical dysphagia. The cranial magnetic resonance imaging scan showed a bilateral herniation of the cerebellar tonsils through the foramen magnum, more evidently on the left side. The patient received a suboccipital craniectomy and",
+        "journal": "Neurosurgical review",
+        "year": "2002",
+        "authors": [
+          "Aguiar Paulo Henrique",
+          "Tella Oswaldo Inácio",
+          "Pereira Carlos Umberto",
+          "Godinho Fábio",
+          "Simm Renata"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arnold-Chiari Malformation",
+          "Female",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Middle Aged",
+          "Syncope"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11954773/"
+      },
+      {
+        "pmid": "21272973",
+        "title": "Glossopharyngeal neuralgia: a presentation of 14 cases.",
+        "abstract": "The aim of this study was to present a series of clinical cases on glossopharyngeal neuralgia as well as the therapeutic approach used.",
+        "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+        "year": "2011",
+        "authors": [
+          "Martínez-González José María",
+          "Martínez-Rodríguez Natalia",
+          "Calvo-Guirado Jose Luis",
+          "Brinkmann Jorge Cortés-Bretón",
+          "Dorado Cristina Barona"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21272973/"
+      },
+      {
+        "pmid": "1600869",
+        "title": "[Glossopharyngeal neuralgia with syncope].",
+        "abstract": "Eleven years after treatment of a tonsillar carcinoma by neck dissection, chemotherapy and radiotherapy, a now 26-year-old man had several syncopes, all preceded by burning pain in the area of the left ear with radiation to the throat and left tonsil. ECG monitoring revealed 3 degrees atrioventricular block with a slow idioventricular rhythm (34/min), as well as an asystole lasting 13 seconds. There were renewed syncopes even after pacemaker implantation. 24-hour blood pressure monitoring recorded pressures of 65/50 mm Hg, coinciding with symptoms of pain and dizziness. Being diagnosed as having glossopharyngeal neuralgia with cardiovascular involvement he was given carbamazepine, 400 mg three times daily, but without improvement. Because of this treatment failure the glossopharyngeal nerve was surgically divided, with partial but not complete regression of the symptoms. The patient declined the suggested further bilateral division of the upper vagal branches.",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "1992",
+        "authors": [
+          "Thombansen E",
+          "Menges M M",
+          "Thimme W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbamazepine",
+          "Chronic Disease",
+          "Combined Modality Therapy",
+          "Cranial Nerve Diseases",
+          "Glossopharyngeal Nerve",
+          "Heart Block",
+          "Humans",
+          "Male",
+          "Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1600869/"
+      },
+      {
+        "pmid": "7213143",
+        "title": "Glossopharyngeal (vagoglossopharyngeal) neuralgia: a study of 217 cases.",
+        "abstract": "In 217 cases of glossopharyngeal neuralgia seen at the Mayo Clinic between 1922 and 1977, the disease was more common in patients older than 50 years (57%), but also occurred in 43% who were between 18 and 50. Spontaneous remissions were noted by 161 patients, but 37 had no periods of pain relief. Syncope was rarely a problem. Involvement was bilateral in 12%. The combination of glossopharyngeal and trigeminal neuralgia was found in 25 patients. Positive results on the cocaine test in 112 of 125 patients aided in diagnosis. Carbamazepine is the favored medication. Early surgical experience consisted of extracranial avulsion of the glossopharyngeal nerve or intracranial section at the jugular foramen; since 1948, surgical treatment has included section of the glossopharyngeal nerve and usually the upper rootlets of the vagus nerve and additional section of the fifth cranial nerve when trigeminal neuralgia was associated. Good relief of pain was obtained surgically in 110 patients.",
+        "journal": "Archives of neurology",
+        "year": "1981",
+        "authors": [
+          "Rushton J G",
+          "Stevens J C",
+          "Miller R H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Carbamazepine",
+          "Cocaine",
+          "Cranial Nerve Diseases",
+          "Geniculate Ganglion",
+          "Glossopharyngeal Nerve",
+          "Humans",
+          "Middle Aged",
+          "Movement"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7213143/"
+      },
+      {
+        "pmid": "38385643",
+        "title": "Long-term outcomes of Gamma Knife radiosurgery in treating glossopharyngeal neuralgia.",
+        "abstract": "Glossopharyngeal neuralgia (GPN) is an unusual disorder causing severe, brief pain episodes in the areas supplied by the glossopharyngeal nerve. Initial treatment involves medications like carbamazepine, but if these are ineffective or cause side effects, interventional pain management techniques or surgery may be considered. Gamma Knife radiosurgery is becoming popular in managing GPN due to its lower risk of complications than surgical interventions like microvascular decompression or rhizotomy. In this retrospective case series, we examined the outcomes of Gamma Knife radiosurgery in eight patients with GPN. The decision to utilize Gamma Knife radiosurgery was made following specific criteria, including failed surgical interventions, patient preference against surgery, or contraindications to surgical procedures. Patients were administered radiation doses within the range of 80 to 90 Gy, targeting either the cisternal glossopharyngeal nerve or glossopharyngeal meatus of the jugular ",
+        "journal": "Headache",
+        "year": "2024",
+        "authors": [
+          "Samanci Yavuz",
+          "Mürdün Elif",
+          "Çil Mahmut",
+          "Düzkalir Ali Haluk",
+          "Askeroglu Mehmet Orbay"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Middle Aged",
+          "Follow-Up Studies",
+          "Radiosurgery",
+          "Retrospective Studies",
+          "Treatment Outcome",
+          "Glossopharyngeal Nerve Diseases",
+          "Pain",
+          "Trigeminal Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38385643/"
+      },
+      {
+        "pmid": "31581374",
+        "title": "Glossopharyngeal Neuralgia: A Multidimensional Challenge.",
+        "abstract": "Glossopharyngeal neuralgia is an underreported condition characterized by discomfort elicited through involvement of the ninthcranial nerve. Triggering phenomena and associated vagal nerve involvement creates the potential for an unexpected clinical presentation. In this case report, we present a 60-year-old male who described a shock-like pain throughout his neck and jaw. The patient initially responded to carbamazepine but the clinical course was complicated by cardiac pauses with syncope requiring pacemaker implantation. Failure of pharmacologic treatment led to surgical intervention.",
+        "journal": "South Dakota medicine : the journal of the South Dakota State Medical Association",
+        "year": "2019",
+        "authors": [
+          "Sellers Alex",
+          "Simmons Matthew"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Analgesics, Non-Narcotic",
+          "Carbamazepine",
+          "Glossopharyngeal Nerve",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Neuralgia",
+          "Pacemaker, Artificial",
+          "Syncope"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31581374/"
+      },
+      {
+        "pmid": "24095216",
+        "title": "Use of electrophysiological monitoring in selective rhizotomy treating glossopharyngeal neuralgia.",
+        "abstract": "The aim of this study was to evaluate the effects of electrophysiological monitoring on selective rhizotomy of the glossopharyngeal nerve (SRGN) in treatment of glossopharyngeal neuralgia (GPN). From December, 2009 to May, 2012, SRGN was carried out on 8 patients with GPN, through a suboccipital sigmoid sinus posterior approach. The electrodes were placed on the cricothyroid muscle (vagus nerve). Two groups of amplitudes (A1 and A2) were recorded. A1 was recorded when the mixed nerve root was stimulated, and A2 when the part of the vagus nerve was stimulated. The glossopharyngeal nerve was sectioned and the vagus nerve was preserved. If A1/A2 < 50%, the mixed nerve root should be sectioned, otherwise the mixed nerve root should be retained. As the representation of vagus nerve, the averages of A1 and A2 were 22 and 36 μV respectively. The 8 patients were followed up for 9-39 months. Seven patients (87.5%) obtained complete pain relief (excellent) without complications such as hoarsenes",
+        "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+        "year": "2014",
+        "authors": [
+          "Zhang Wenhao",
+          "Chen Minjie",
+          "Zhang Weijie",
+          "Chai Ying"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbamazepine",
+          "Cerebellopontine Angle",
+          "Cough",
+          "Electric Stimulation",
+          "Electromyography",
+          "Evoked Potentials",
+          "Female",
+          "Follow-Up Studies",
+          "Glossopharyngeal Nerve"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24095216/"
+      },
+      {
+        "pmid": "17924296",
+        "title": "[Therapy of facial pain].",
+        "abstract": "Facial pain is a rare and often misdiagnosed condition. The most common facial pain syndrome is trigeminal neuralgia (TG), which is characterized by paroxysms of excruciating, sharp, burning or lancinating pain. Most cases are caused by a vascular compression of the trigeminal nerve at its entry zone to the pons. Treatment strategies comprise medical treatment and surgical procedures. Anticonvulsants like carbamazepin or gabapentin are widely used for the treatment of TG. The decision on the individual drug therapy may depend on factors like pharmacokinetic properties and individual drug tolerability. In case of drug failure, surgical treatment options like microvascular decompression are available. Persistent idiopathic facial pain is a rare pain condition. Elaborate diagnostic investigations have to be performed since symptomatic causes may be overlooked. Antidepressant drugs like amitriptyline are the first-line drugs for the treatment of this condition.",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "2007",
+        "authors": [
+          "Schuh-Hofer S",
+          "Arnold G"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chronic Disease",
+          "Diagnosis, Differential",
+          "Facial Pain",
+          "Glossopharyngeal Nerve Diseases",
+          "Humans",
+          "SUNCT Syndrome",
+          "Toothache",
+          "Trigeminal Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17924296/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:13:29.665965",
+  "success": true,
+  "error_message": null
+}

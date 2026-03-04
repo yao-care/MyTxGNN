@@ -1,0 +1,583 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Albendazole",
+    "disease": "cysticercosis",
+    "query_string": "Albendazole AND cysticercosis"
+  },
+  "data": {
+    "query": "Albendazole AND cysticercosis",
+    "results": [
+      {
+        "pmid": "27684822",
+        "title": "Disseminated cysticercosis: clinical spectrum, Toll-like receptor-4 gene polymorphisms and role of albendazole: A prospective follow-up of 60 cases with a review of 56 published cases.",
+        "abstract": "In this study, we describe clinical and imaging spectrum, and the natural course of patients with disseminated cysticercosis. How albendazole affects the course of disease has also been evaluated. We assessed the Toll-like receptor-4 gene polymorphisms, to know the reason for the apparently higher prevalence of disseminated cysticercosis in India.Sixty consecutive patients with disseminated cysticercosis were enrolled. Sixty age-and-sex-matched healthy controls were also enrolled for the purpose of genetic study. Twenty patients, who gave consent, were treated with albendazole along with corticosteroids. Forty patients did not give consent for antiparasitic therapy. Assessment for Toll-like receptor-4 gene polymorphisms (Asp299Gly and Thr399Ile genes) was done. Patients were followed for 6 months. We also performed a literature search of cases published in English language using PubMed electronic database and analyzed 56 cases thus available.There was an increased risk (6.63 fold and 4",
+        "journal": "Medicine",
+        "year": "2016",
+        "authors": [
+          "Qavi Abdul",
+          "Garg Ravindra Kumar",
+          "Malhotra Hardeep Singh",
+          "Jain Amita",
+          "Kumar Neeraj"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Alleles",
+          "Animals",
+          "Anticestodal Agents",
+          "Case-Control Studies",
+          "Cysticercosis",
+          "Cysticercus",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27684822/"
+      },
+      {
+        "pmid": "12213155",
+        "title": "Orbital and adnexal cysticercosis.",
+        "abstract": "Orbital and adnexal cysticercosis is emerging as a far commoner disease than previously considered, both in endemic and nonendemic areas of cysticercosis. A review of the literature on orbital and adnexal cysticercosis found that it has a predilection for children and young adults with no definite sex predilection. The extraocular muscle form is the commonest type of orbital and adnexal cysticercosis. Lodgement of cysts in the subconjunctival space is another common site, followed by the eyelid, optic nerve, retro-orbital space and lacrimal gland. Association of orbital cysticercosis with systemic cysticercosis is quite rare. The clinical manifestations of orbital or adnexal cysticercosis are entirely different and depend on the location, size, relation to adjacent structures and stage of evolution of the cyst. Diagnosis of cysticercosis is based mainly on orbital imaging because of its highly specific appearance. Tissue diagnosis is not essential for initiating treatment. Medical ther",
+        "journal": "Clinical & experimental ophthalmology",
+        "year": "2002",
+        "authors": [
+          "Pushker Neelam",
+          "Bajaj Mandeep S",
+          "Betharia Subhash M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Antiprotozoal Agents",
+          "Child",
+          "Child, Preschool",
+          "Combined Modality Therapy",
+          "Conjunctival Diseases",
+          "Cysticercosis",
+          "Diagnostic Imaging",
+          "Eye Infections, Parasitic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12213155/"
+      },
+      {
+        "pmid": "34919953",
+        "title": "Intraperitoneal and intracranial experimental cysticercosis present different metabolic preferences after treatment with isolated or combined albendazole and nitazoxanide.",
+        "abstract": "Cysticercosis is a zoonotic public health issue especially severe when the parasite is in the central nervous system although it may be found all over the human organism. Taenia crassiceps cysticerci inoculated in mice is the experimental model used to study cysticercosis. The most used cysticercosis treatment is with albendazole (ABZ). Nitazoxanide (NTZ) has been experimentally tested against this parasite. Metabolic analysis has been used to determine drugs impact on the parasite. The aim of this study was to determine the in vivo metabolic impact of the ABZ-NTZ combination in T. crassiceps cysticerci inoculated in mice peritoneal and intracranial cavities. Mice were experimentally inoculated with T. crassiceps cysticerci in the intraperitoneal cavity or in the intracranial one. Thirty days after the infection they were treated with NaCl 0.9% (control group), 50 mg/kg of ABZ, 50 mg/kg of NTZ or 50 mg/kg of NTZ and ABZ (ABZ/NTZ combination). 24 h after treatment the animals were eutha",
+        "journal": "Acta tropica",
+        "year": "2022",
+        "authors": [
+          "de Andrade Picanço Guaraciara",
+          "Ferreira de Lima Nayana",
+          "Cristina Gomes Taynara",
+          "de Sousa Mendes Moreira Alves Daniella",
+          "Luísa da Costa Tatiane"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Cysticercosis",
+          "Cysticercus",
+          "Mice",
+          "Mice, Inbred BALB C",
+          "Nitro Compounds",
+          "Taenia",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34919953/"
+      },
+      {
+        "pmid": "37783462",
+        "title": "Case Report: Three-Day Albendazole Regimen for Orbital Cysticercosis and the Stardust Sign.",
+        "abstract": "Ultrasonography findings have been used to diagnose and treat 10 cases of orbital cysticercosis. Although oral prednisolone has a key role in symptomatic alleviation, 3-day albendazole has been demonstrated to be curative without any recurrence.",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2023",
+        "authors": [
+          "Lokdarshi Gautam",
+          "Durgapal Prashant"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Albendazole",
+          "Orbital Diseases",
+          "Eye Infections, Parasitic",
+          "Tomography, X-Ray Computed",
+          "Cysticercosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37783462/"
+      },
+      {
+        "pmid": "8125597",
+        "title": "Albendazole.",
+        "abstract": "",
+        "journal": "Indian pediatrics",
+        "year": "1993",
+        "authors": [
+          "Dharnidharka V R",
+          "Agrawal M",
+          "Dandge V P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Cysticercosis",
+          "Echinococcosis",
+          "Humans",
+          "Nervous System Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8125597/"
+      },
+      {
+        "pmid": "24850954",
+        "title": "Current status of taeniasis and cysticercosis in Vietnam.",
+        "abstract": "Several reports on taeniasis and cysticercosis in Vietnam show that they are distributed in over 50 of 63 provinces. In some endemic areas, the prevalence of taeniasis was 0.2-12.0% and that of cysticercosis was 1.0-7.2%. The major symptoms of taeniasis included fidgeted anus, proglottids moving out of the anus, and proglottids in the feces. Clinical manifestations of cysticercosis in humans included subcutaneous nodules, epileptic seizures, severe headach, impaired vision, and memory loss. The species identification of Taenia in Vietnam included Taenia asiatica, Taenia saginata, and Taenia solium based on combined morphology and molecular methods. Only T. solium caused cysticercosis in humans. Praziquantel was chosen for treatment of taeniasis and albendazole for treatment of cysticercosis. The infection rate of cysticercus cellulosae in pigs was 0.04% at Hanoi slaughterhouses, 0.03-0.31% at provincial slaughterhouses in the north, and 0.9% in provincial slaughterhouses in the souther",
+        "journal": "The Korean journal of parasitology",
+        "year": "2014",
+        "authors": [
+          "Van De Nguyen",
+          "Le Thanh Hoa",
+          "Lien Phan Thi Huong",
+          "Eom Keeseon S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Antiprotozoal Agents",
+          "Cattle",
+          "Cattle Diseases",
+          "Cysticercosis",
+          "Feces",
+          "Humans",
+          "Meat"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24850954/"
+      },
+      {
+        "pmid": "11453864",
+        "title": "Ocular and orbital cysticercosis.",
+        "abstract": "To study the demographic factors, clinical diagnosis, results of investigation, modalities of treatment and their outcome in ocular and extraocular cysticercosis.",
+        "journal": "Acta ophthalmologica Scandinavica",
+        "year": "2001",
+        "authors": [
+          "Pushker N",
+          "Bajaj M S",
+          "Chandra M",
+          "Neena"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Albendazole",
+          "Antiprotozoal Agents",
+          "Child",
+          "Combined Modality Therapy",
+          "Cysticercosis",
+          "Eye Infections, Parasitic",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11453864/"
+      },
+      {
+        "pmid": "9533454",
+        "title": "Albendazole.",
+        "abstract": "",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1998",
+        "authors": [
+          "Venkatesan P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Antiprotozoal Agents",
+          "Cysticercosis",
+          "Echinococcosis",
+          "Giardiasis",
+          "Humans",
+          "Strongyloidiasis",
+          "Taenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9533454/"
+      },
+      {
+        "pmid": "8254166",
+        "title": "Taeniasis and cysticercosis.",
+        "abstract": "This article focuses on clinical issues of taeniasis and cysticercosis, including a comprehensive review of the clinical data, standard and latest chemotherapy, modern concepts of pathogenesis, conventional and advanced diagnostic tests, current epidemiology, and effective means of control. Fundamental parasitology is covered to familiarize physicians and scientists with the latest concepts of parasites.",
+        "journal": "Infectious disease clinics of North America",
+        "year": "1993",
+        "authors": [
+          "Botero D",
+          "Tanowitz H B",
+          "Weiss L M",
+          "Wittner M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Albendazole",
+          "Animals",
+          "Brain",
+          "Cysticercosis",
+          "Humans",
+          "Praziquantel",
+          "Taeniasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8254166/"
+      },
+      {
+        "pmid": "29884714",
+        "title": "Orbital cysticercosis.",
+        "abstract": "A young male patient presented to our ocular emergency department with chief complaints of progressive pain, redness, diplopia and a right-sided face turn. Ocular examination revealed severely restricted extraocular movements along with retinal folds in the left eye. Initial orbital ultrasound and CT findings were equivocal; however, serology favoured an infective cause. Considering the endemicity of the disease and equivocal investigation findings, a diagnosis of orbital cysticercosis with an atypical presentation was made. The patient was managed medically with a combination of oral albendazole and steroids over a period of 6 weeks to achieve optimal results.",
+        "journal": "BMJ case reports",
+        "year": "2018",
+        "authors": [
+          "Mukhija Ritika",
+          "Agarwal Divya",
+          "Pujari Amar",
+          "Bajaj Mandeep S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Antiprotozoal Agents",
+          "Cysticercosis",
+          "Diagnosis, Differential",
+          "Diplopia",
+          "Endemic Diseases",
+          "Eye Infections, Parasitic",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29884714/"
+      },
+      {
+        "pmid": "32129220",
+        "title": "Neurocysticercosis.",
+        "abstract": "Neurocysticercosis (NCC) is one of the common parasitic central nervous system (CNS) infections. Improperly cooked pork and eggs of the tapeworm Taenia solium, entering the body through the feco-oral route, are the common sources of its infection. Affected person may remain asymptomatic for long periods and can present with a variety of neurological manifestations, including focal neurological deficits and generalized seizures. Neuroimaging along with serological test can aid in its diagnosis. Treatment of NCC varies from case to case and must always be individualized based on the patients' condition. Common therapeutic strategies include surgery and treatment with drugs, such as antiparasitic agents (albendazole) and corticosteroids (hydrocortisone), apart from other agents which are based on the patient presentation. Proper prevention strategy has to be followed to control the spread of infection within and among the individuals. We herewith present a case of NCC in a tertiary care h",
+        "journal": "Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia",
+        "year": "2020",
+        "authors": [
+          "Siddiqua Tayyaba",
+          "Habeeb Ayesha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Anti-Inflammatory Agents",
+          "Anticestodal Agents",
+          "Brain",
+          "Dexamethasone",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Neurocysticercosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32129220/"
+      },
+      {
+        "pmid": "33107374",
+        "title": "Orbital cysticercosis: clinical features and management outcomes.",
+        "abstract": "To describe the clinical and radiological features of orbital cysticercosis and its management outcome.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2021",
+        "authors": [
+          "Salim Shebin",
+          "Alam Md Shahid",
+          "Backiavathy Varsha",
+          "Raichura Nirav Dilip",
+          "Mukherjee Bipasha"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Cysticercosis",
+          "Eye Infections, Parasitic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Oculomotor Muscles",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33107374/"
+      },
+      {
+        "pmid": "34794669",
+        "title": "Neurocysticercosis in Children.",
+        "abstract": "Neurocysticercosis is one of the most common parasitic infections in the central nervous system in children. The usual clinical manifestation is new-onset focal seizure. However, there are other multiple clinical manifestations, such as increased intracranial pressure, meningoencephalitis, spinal cord syndrome, and blindness. The diagnosis needs high index of suspicion with clinical history, physical examination, neuroimaging, and immunologic studies. Recent advances in neuroimaging and serology facilitate the accurate diagnosis. Management of neurocysticercosis should focus on critical symptoms first, such as the use of antiepileptic drugs and medical or surgical therapy for increased intracranial pressure.",
+        "journal": "Pediatric clinics of North America",
+        "year": "2022",
+        "authors": [
+          "Veeravigrom Montida",
+          "Thampratankul Lunliya"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Albendazole",
+          "Animals",
+          "Anticonvulsants",
+          "Antiprotozoal Agents",
+          "Blindness",
+          "Child",
+          "Child, Preschool",
+          "Emigrants and Immigrants",
+          "Enzyme-Linked Immunosorbent Assay"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34794669/"
+      },
+      {
+        "pmid": "9331197",
+        "title": "Orbital cysticercosis.",
+        "abstract": "Human cysticercosis is secondary to an infestation by cysticercus cellulosae, the larval form of Taenia solium. Cysticercosis is endemic to regions with poor sanitation. The purpose of this report is to present a large series of patients with orbital cysticercosis and to discuss the current treatment.",
+        "journal": "Ophthalmology",
+        "year": "1997",
+        "authors": [
+          "Sekhar G C",
+          "Lemke B N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Child",
+          "Child, Preschool",
+          "Conjunctiva",
+          "Conjunctival Diseases",
+          "Cysticercosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9331197/"
+      },
+      {
+        "pmid": "32171260",
+        "title": "Quantitative assessment of lesion load and efficacy of 3 cycles of albendazole in disseminated cysticercosis: a prospective evaluation.",
+        "abstract": "The management of disseminated cysticercosis is unclear and largely considered hazardous. The role of albendazole remains controversial in such patients.",
+        "journal": "BMC infectious diseases",
+        "year": "2020",
+        "authors": [
+          "Pandey Sudhakar",
+          "Malhotra Hardeep Singh",
+          "Garg Ravindra Kumar",
+          "Malhotra Kiran Preet",
+          "Kumar Neeraj"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Anticonvulsants",
+          "Brain",
+          "Child",
+          "Cysticercus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32171260/"
+      },
+      {
+        "pmid": "16382035",
+        "title": "Albendazole trial at 15 or 30 mg/kg/day for subarachnoid and intraventricular cysticercosis.",
+        "abstract": "Thirty-six patients with subarachnoid and intraventricular cysticercosis were randomly assigned to receive albendazole at 15 or 30 mg/kg/day plus dexamethasone for 8 days. Results favored a higher dose, with larger cyst reduction on MRI at 90 and 180 days and higher albendazole sulfoxide levels in plasma. An albendazole course at 30 mg/kg/day combined with corticosteroids is safe and more effective than the usual dose. A single treatment was insufficient in intraventricular and giant cysts.",
+        "journal": "Neurology",
+        "year": "2006",
+        "authors": [
+          "Göngora-Rivera F",
+          "Soto-Hernández J L",
+          "González Esquivel D",
+          "Cook H J",
+          "Márquez-Caraveo C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Anticestodal Agents",
+          "Cerebral Ventricles",
+          "Dexamethasone",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Female",
+          "Headache"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16382035/"
+      },
+      {
+        "pmid": "25056011",
+        "title": "Treatment of neurocysticercosis.",
+        "abstract": "",
+        "journal": "The Lancet. Infectious diseases",
+        "year": "2014",
+        "authors": [
+          "The Lancet Infectious Diseases"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Anthelmintics",
+          "Female",
+          "Humans",
+          "Male",
+          "Neurocysticercosis",
+          "Praziquantel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25056011/"
+      },
+      {
+        "pmid": "25500213",
+        "title": "Murine cysticercosis model: influence of the infection time and the time of treatment on the cysticidal efficacy of albendazole and praziquantel.",
+        "abstract": "In the search of new alternatives for neurocysticercosis treatment, Taenia crassiceps ORF strain cysticerci have been used instead of T. solium for in vitro studies. Up to date, the main criteria for the use of the murine cysticercosis model for drug efficacy evaluation have not been assessed. The aim of the present study was to evaluate the influence of two of the main variables related to the in vivo efficacy: the length of drug treatment and the starting time of treatment after experimental infection, using albendazole (ABZ) and praziquantel (PZQ) as test drugs. Additionally, the relationship between the number of cysts and the parasite weight was assessed. For the study, female BALB/c mice were experimentally infected with T. crassiceps cysts. Three different post-infection periods (10, 20 and 30 days) and three different lengths of treatment with ABZ or PZQ (10, 20 and 30 days) were selected. The efficacy of each treatment was evaluated by comparison with a control group. Our resu",
+        "journal": "Experimental parasitology",
+        "year": "2015",
+        "authors": [
+          "Palomares-Alonso Francisca",
+          "Palencia Hernández Guadalupe",
+          "Rojas-Tomé Irma Susana",
+          "Jung-Cook Helgi",
+          "Pinzón-Estrada Enrique"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Cysticercosis",
+          "Cysticercus",
+          "Disease Models, Animal",
+          "Drug Administration Schedule",
+          "Drug Evaluation, Preclinical",
+          "Female",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25500213/"
+      },
+      {
+        "pmid": "26984901",
+        "title": "Cysticidal Efficacy of Combined Treatment With Praziquantel and Albendazole for Parenchymal Brain Cysticercosis.",
+        "abstract": "The efficacy of current antiparasitic treatment for cerebral Taenia solium cysticercosis with either albendazole (ABZ) or praziquantel (PZQ) is suboptimal. A recent study demonstrated that combining these 2 antiparasitic drugs improves antiparasitic efficacy. We present here the parasiticidal efficacy data obtained during a previous phase II pharmacokinetic study that compared combined ABZ plus PZQ with ABZ alone.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2016",
+        "authors": [
+          "Garcia Hector H",
+          "Lescano Andres G",
+          "Gonzales Isidro",
+          "Bustos Javier A",
+          "Pretell E Javier"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Albendazole",
+          "Animals",
+          "Anticestodal Agents",
+          "Brain Diseases",
+          "Female",
+          "Humans",
+          "Male",
+          "Neurocysticercosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26984901/"
+      },
+      {
+        "pmid": "24141510",
+        "title": "Neurocysticercosis.",
+        "abstract": "Cysticercosis is one of the most common parasitic diseases of the nervous system in humans, and constitutes a major public health problem for most of the developing world. The clinical manifestations of neurocysticercosis (NCC) largely depend on the the host immune response against the parasite. NCC diagnosis is based upon neuroimaging studies (computerized tomography, magnetic resonance imaging) and antibody/antigen detection in the serum and the cerebrospinal fluid. Anticysticercal therapy has been marked by an intense controversy. Randomized controlled trials evaluating the clinical benefit of treatment have yield conflicting data with some studies indicating a benefit and others failing to show a difference. Prevention strategies must rely on multiple approaches, tailoring each to the special features of the particular endemic area.",
+        "journal": "Arquivos de neuro-psiquiatria",
+        "year": "2013",
+        "authors": [
+          "Takayanagui Osvaldo M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Anthelmintics",
+          "Humans",
+          "Neurocysticercosis",
+          "Praziquantel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24141510/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:42:15.712871",
+  "success": true,
+  "error_message": null
+}

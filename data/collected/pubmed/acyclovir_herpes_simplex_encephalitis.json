@@ -1,0 +1,566 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes simplex encephalitis",
+    "query_string": "Acyclovir AND herpes simplex encephalitis"
+  },
+  "data": {
+    "query": "Acyclovir AND herpes simplex encephalitis",
+    "results": [
+      {
+        "pmid": "30921087",
+        "title": "Herpes simplex virus encephalitis update.",
+        "abstract": "HSV is the most frequently identified cause of infectious encephalitis, in Western countries. This article is an update on the topic based on a review of recent studies from 2017 to 2018.",
+        "journal": "Current opinion in infectious diseases",
+        "year": "2019",
+        "authors": [
+          "Stahl Jean Paul",
+          "Mailles Alexandra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Brain",
+          "Cerebrospinal Fluid",
+          "Diagnostic Tests, Routine",
+          "Disease Management",
+          "Encephalitis, Herpes Simplex",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Molecular Diagnostic Techniques"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30921087/"
+      },
+      {
+        "pmid": "32051176",
+        "title": "Immunomodulatory Strategies in Herpes Simplex Virus Encephalitis.",
+        "abstract": "Herpes simplex virus 1 (HSV-1) can be responsible for life-threatening HSV encephalitis (HSE). The mortality rate of patients with HSE who do not receive antiviral treatment is 70%, with most survivors suffering from permanent neurological sequelae. The use of intravenous acyclovir together with improved diagnostic technologies such as PCR and magnetic resonance imaging has resulted in a reduction in the mortality rate to close to 20%. However, 70% of surviving patients still do not recover complete neurological functions. Thus, there is an urgent need to develop more effective treatments for a better clinical outcome. It is well recognized that cerebral damage resulting from HSE is caused by viral replication together with an overzealous inflammatory response. Both of these processes constitute potential targets for the development of innovative therapies against HSE. In this review, we discuss recent progress in therapy that may be used to ameliorate the outcome of patients with HSE,",
+        "journal": "Clinical microbiology reviews",
+        "year": "2020",
+        "authors": [
+          "Piret Jocelyne",
+          "Boivin Guy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adrenal Cortex Hormones",
+          "Animals",
+          "Antiviral Agents",
+          "Drug Therapy",
+          "Encephalitis, Herpes Simplex",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Immunity",
+          "Immunomodulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32051176/"
+      },
+      {
+        "pmid": "38527616",
+        "title": "Characteristics, management and outcome of Herpes Simplex and Varicella-Zoster virus encephalitis: a multicentre prospective cohort study.",
+        "abstract": "To characterize differences between Herpes Simplex virus encephalitis and Varicella-Zoster virus encephalitis (HSVE and VZVE) and other aetiologies of infectious encephalitis (IE), and to investigate the impact of time-to-aciclovir (ACV) start, ACV dose and duration on outcome.",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2024",
+        "authors": [
+          "Poussier Léa",
+          "Mailles Alexandra",
+          "Tattevin Pierre",
+          "Stahl Jean-Paul",
+          "Fillâtre Pierre"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Prospective Studies",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Antiviral Agents",
+          "Acyclovir",
+          "Aged",
+          "Encephalitis, Herpes Simplex",
+          "Encephalitis, Varicella Zoster"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38527616/"
+      },
+      {
+        "pmid": "29544668",
+        "title": "Neonatal herpes simplex virus infections.",
+        "abstract": "Neonatal herpes simplex virus (HSV) is an uncommon but devastating infection in the newborn, associated with significant morbidity and mortality. The use of PCR for identification of infected infants and acyclovir for treatment has significantly improved the prognosis for affected infants. The subsequent use of suppressive therapy with oral acyclovir following completion of parenteral treatment of acute disease has further enhanced the long-term prognosis for these infants. This review article will discuss the epidemiology, risk factors and routes of acquisition, clinical presentation, and evaluation of an infant suspected to have the infection, and treatment of proven neonatal HSV disease.",
+        "journal": "Seminars in perinatology",
+        "year": "2018",
+        "authors": [
+          "Pinninti Swetha G",
+          "Kimberlin David W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Cesarean Section",
+          "Delivery, Obstetric",
+          "Disseminated Intravascular Coagulation",
+          "Encephalitis, Herpes Simplex",
+          "Extraction, Obstetrical",
+          "Extraembryonic Membranes",
+          "Female",
+          "Herpes Genitalis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29544668/"
+      },
+      {
+        "pmid": "37485952",
+        "title": "State of the Art: Acute Encephalitis.",
+        "abstract": "Encephalitis is a devastating neurologic disease often complicated by prolonged neurologic deficits. Best practices for the management of adult patients include universal testing for a core group of etiologies, including herpes simplex virus (HSV)-1, varicella zoster virus (VZV), enteroviruses, West Nile virus, and anti-N-methyl-D-aspartate receptor (anti-NMDAR) antibody encephalitis. Empiric acyclovir therapy should be started at presentation and in selected cases continued until a second HSV-1 polymerase chain reaction test is negative. Acyclovir dose can be increased for VZV encephalitis. Supportive care is necessary for other viral etiologies. Patients in whom no cause for encephalitis is identified represent a particular challenge. Management includes repeat brain magnetic resonance imaging, imaging for occult malignancy, and empiric immunomodulatory treatment for autoimmune conditions. Next-generation sequencing (NGS) or brain biopsy should be considered. The rapid pace of discov",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2023",
+        "authors": [
+          "Bloch Karen C",
+          "Glaser Carol",
+          "Gaston David",
+          "Venkatesan Arun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Acyclovir",
+          "Herpesvirus 3, Human",
+          "Encephalitis",
+          "Brain",
+          "Nervous System Diseases",
+          "Herpesvirus 1, Human",
+          "Encephalitis, Herpes Simplex"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37485952/"
+      },
+      {
+        "pmid": "12185148",
+        "title": "Herpes simplex encephalitis.",
+        "abstract": "",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "2002",
+        "authors": [
+          "Kennedy P G E",
+          "Chaudhuri A"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Antigens, Viral",
+          "Antiviral Agents",
+          "Biopsy",
+          "Cerebrospinal Fluid",
+          "Child",
+          "Drug Administration Schedule",
+          "Encephalitis, Herpes Simplex",
+          "Ganciclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12185148/"
+      },
+      {
+        "pmid": "9163027",
+        "title": "Herpes simplex encephalitis.",
+        "abstract": "Herpes simplex encephalitis (HSE) is a life-threatening condition with high mortality as well as significant morbidity in survivors. In most cases herpes simplex virus type 1 (HSV-1) is responsible for the diseases, however, the type 2 virus (HSV-2) is involved in 4-6% of cases. Primary HSV infection is identified in only one-third of patients with HSE. The majority of cases are recorded in adults with recurrent HSV infection who are already seropositive for HSV at the onset of symptoms, but only 6-10% of these patients have a history of labial herpes. Acute focal, necrotizing encephalitis with inflammation and swelling of the brain tissue are consistent features of the pathology of HSE. HSV-induced cytolysis certainly damages neurones, oligodendrocytes and astrocytes, but the role of cellular and humoral immunopathology is important. A complex network of cytokines seems to be active in regulating the local immune response and inflammation during and after HSE. Brain biopsy, serologica",
+        "journal": "Scandinavian journal of infectious diseases. Supplementum",
+        "year": "1996",
+        "authors": [
+          "Sköldenberg B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Antibodies, Viral",
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "DNA, Viral",
+          "Diagnosis, Differential",
+          "Encephalitis, Viral",
+          "Herpes Simplex",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9163027/"
+      },
+      {
+        "pmid": "28074766",
+        "title": "[Herpes simplex encephalitis].",
+        "abstract": "Herpes simplex encephalitis (HSE) is a rare disease, although it is the most common form of sporadic encephalitis worldwide. Recently, studies have provided important new insight into the genetic and immunological basis of HSE. However, even in the presence of antiviral treatment, mortality and morbidity remain relatively high. Therefore, precise and early diagnosis together with basic and clinical studies to gain better insight into the pathogenesis of HSE is a prerequisite for the development of improved prophylaxis and treatment of this severe disease.",
+        "journal": "Ugeskrift for laeger",
+        "year": "2017",
+        "authors": [
+          "Jørgensen Laura Krogh",
+          "Mogensen Trine Hyrup"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Encephalitis, Herpes Simplex",
+          "Humans",
+          "Interferon-alpha",
+          "Interferon-beta",
+          "Simplexvirus",
+          "Toll-Like Receptor 3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28074766/"
+      },
+      {
+        "pmid": "10481538",
+        "title": "[Herpes simplex encephalitis].",
+        "abstract": "Herpes simplex virus infection of the central nervous system is still a significant cause of morbidity and often mortality. Changes of central nervous system are results of primary infection or activation of latent HSV-1, HSV-2. Neurological deficits often follow encephalitis herpetica. The application of PCR is prompt and specific diagnosis of herpes simplex virus infections of the brain. Advances in treatment herpes simplex encephalitis with acyclovir have improved outcome.",
+        "journal": "Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego",
+        "year": "1999",
+        "authors": [
+          "Zajkowska J M",
+          "Hermanowska-Szpakowicz T",
+          "Pancewicz S A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Editorial",
+          "English Abstract",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Antiviral Agents",
+          "Brain",
+          "Encephalitis, Viral",
+          "Female",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10481538/"
+      },
+      {
+        "pmid": "30089069",
+        "title": "Acute Viral Encephalitis.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2018",
+        "authors": [
+          "Tyler Kenneth L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Brain",
+          "Encephalitis, Herpes Simplex",
+          "Encephalitis, Viral",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Polymerase Chain Reaction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30089069/"
+      },
+      {
+        "pmid": "16675036",
+        "title": "Herpes simplex encephalitis: adolescents and adults.",
+        "abstract": "Herpes simplex encephalitis (HSE) remains one of the most devastating infections of the central nervous system despite available antiviral therapy. Children and adolescents account for approximately one third of all cases of HSE. Clinical diagnosis is suggested in the encephalopathic, febrile patient with focal neurologic signs. However, these clinical findings are not pathognomonic because numerous other diseases in the central nervous system can mimic HSE. Neurodiagnostic evaluation can provide support for the diagnosis by the demonstration of temporal lobe edema/hemorrhage by magnetic resonance image scan and spike and slow-wave activity on electroencephalogram. In the current era, the diagnostic gold standard is the detection of herpes simplex virus (HSV) DNA in the cerebrospinal fluid by polymerase chain reaction (PCR). Although PCR is an excellent test and preferable to brain biopsy, false negatives can occur early after disease onset. Acyclovir is the treatment of choice and is ",
+        "journal": "Antiviral research",
+        "year": "2006",
+        "authors": [
+          "Whitley Richard J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antiviral Agents",
+          "Child",
+          "Child, Preschool",
+          "DNA, Viral",
+          "Encephalitis, Herpes Simplex",
+          "Humans",
+          "Infant",
+          "Middle Aged",
+          "Polymerase Chain Reaction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16675036/"
+      },
+      {
+        "pmid": "15685145",
+        "title": "Herpes simplex encephalitis: children and adolescents.",
+        "abstract": "Herpes simplex encephalitis (HSE) remains one of the most devastating infections of the central nervous system despite available antiviral therapy. Children and adolescents account for approximately one third of all cases of HSE. Clinical diagnosis is suggested in the encephalopathic, febrile patient with focal neurologic signs. However, these clinical findings are not pathognomonic because numerous other infections in the central nervous system can mimic HSE. Support for the diagnosis from a neurodiagnostic perspective is aided by the demonstration of disease of the temporal lobe by magnetic resonance image scan and spike and slow-wave activity on electroencephalogram. In the current era, the gold standard for establishing diagnosis is the detection of herpes simplex virus DNA in the cerebrospinal fluid by polymerase chain reaction (PCR). Although PCR is an excellent test and far more desirable than brain biopsy, false negatives can occur early after disease onset. Current therapeutic",
+        "journal": "Seminars in pediatric infectious diseases",
+        "year": "2005",
+        "authors": [
+          "Whitley Richard J",
+          "Kimberlin David W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "DNA, Viral",
+          "Encephalitis, Herpes Simplex",
+          "Humans",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15685145/"
+      },
+      {
+        "pmid": "22674925",
+        "title": "Herpes simplex encephalitis.",
+        "abstract": "",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2012",
+        "authors": [
+          "Sabah Mazen",
+          "Mulcahy James",
+          "Zeman Adam"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Antiviral Agents",
+          "Diagnosis, Differential",
+          "Diagnostic Imaging",
+          "Electroencephalography",
+          "Encephalitis",
+          "Herpes Simplex",
+          "Humans",
+          "Lymphocyte Count"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22674925/"
+      },
+      {
+        "pmid": "1568846",
+        "title": "Herpes simplex encephalitis.",
+        "abstract": "",
+        "journal": "Irish medical journal",
+        "year": "1992",
+        "authors": [
+          "Wallace S J"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Encephalitis",
+          "Herpes Simplex",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1568846/"
+      },
+      {
+        "pmid": "2869265",
+        "title": "Herpes simplex encephalitis.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1986",
+        "authors": [],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Encephalitis",
+          "Herpes Simplex",
+          "Humans",
+          "Injections, Intravenous",
+          "Prognosis",
+          "Vidarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2869265/"
+      },
+      {
+        "pmid": "21272787",
+        "title": "Herpes simplex encephalitis.",
+        "abstract": "",
+        "journal": "The Lancet. Infectious diseases",
+        "year": "2011",
+        "authors": [
+          "Banatvala Jangu E"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Antiviral Agents",
+          "Child",
+          "Child, Preschool",
+          "Encephalitis, Herpes Simplex",
+          "England",
+          "Humans",
+          "Infant, Newborn",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21272787/"
+      },
+      {
+        "pmid": "6355046",
+        "title": "Interim summary of mortality in herpes simplex encephalitis and neonatal herpes simplex virus infections: vidarabine versus acyclovir.",
+        "abstract": "Herpes simplex encephalitis and neonatal herpes simplex virus infections are important consequences of herpes simplex virus infections of humans. The association of both diseases with significant mortality and morbidity has prompted intensive therapeutic trials designed to improve outcome. The NIAID Collaborative Antiviral Study Group has been able to demonstrate that vidarabine therapy decreases the mortality and improves morbidity for both herpes simplex encephalitis and neonatal herpes simplex virus infections. Nevertheless, mortality for both diseases is about 40% and many survivors are left with significant neurological impairment. With the hope of improving outcome, we initiated comparative trials of vidarabine and acyclovir for these two diseases. This report summarizes the status of these trials, which are still underway, with particular reference to the complexities of studies such as these. Because adequate numbers of patients for definitive statistical analyses have not been",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Whitley R J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Clinical Trials as Topic",
+          "Encephalitis",
+          "Female",
+          "Herpes Simplex",
+          "Humans",
+          "Infant, Newborn",
+          "Male",
+          "Random Allocation",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6355046/"
+      },
+      {
+        "pmid": "15319092",
+        "title": "Herpes simplex virus, meningitis and encephalitis in neonates.",
+        "abstract": "The consequences of neonatal herpes simplex virus (HSV) infection can be severe. Disease can be localized to skin, eye and mouth (SEM disease), involve the central nervous system (CNS) or manifest as disseminated infection involving multiple organs. Most surviving infants in the latter two categories have neurological sequelae, and the mortality rate in the absence of therapy is very high (80%) for babies in the latter category. The International Herpes Management Forum (IHMF) has produced guidelines on the diagnosis, prevention and effective management of neonatal herpes. Neonatal herpes may occur in the absence of skin lesions, so if the infection is suspected, swabs of the oropharynx, conjunctiva, rectum, skin lesions, mucosal lesions and urine should be promptly taken and submitted for virus culture. Cerebrospinal fluid (CSF) should be submitted for polymerase chain reaction (PCR) detection of HSV DNA. Evidence for disseminated or CNS infection should be sought using liver function",
+        "journal": "Herpes : the journal of the IHMF",
+        "year": "2004",
+        "authors": [
+          "Kimberlin David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Encephalitis, Herpes Simplex",
+          "Granulocyte Colony-Stimulating Factor",
+          "Herpes Simplex",
+          "Humans",
+          "Infant, Newborn",
+          "Infusions, Intravenous",
+          "Meningitis, Viral",
+          "Polymerase Chain Reaction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15319092/"
+      },
+      {
+        "pmid": "38364888",
+        "title": "Acyclovir dosing in herpes encephalitis: A scoping review.",
+        "abstract": "Herpes encephalitis, a rare yet potentially fatal viral infection, is treated exclusively with acyclovir, the sole antiviral medication used for this condition. Acyclovir recommended dose is 10 mg/kg/dose intravenous every 8 hours; however, it is unclear what body weight should be utilized in obese patients. Using the ideal body weight may result in subtherapeutic ineffective concentrations, while utilizing the actual body weight might result in acyclovir induced adverse effects, either nephrotoxicity or neurotoxicity or both.",
+        "journal": "Journal of the American Pharmacists Association : JAPhA",
+        "year": "2024",
+        "authors": [
+          "Aboelezz Asma",
+          "Mahmoud Sherif Hanafy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Scoping Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Body Weight",
+          "Dose-Response Relationship, Drug",
+          "Encephalitis, Herpes Simplex",
+          "Obesity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38364888/"
+      },
+      {
+        "pmid": "28450685",
+        "title": "[Acyclovir resistant acute herpes simplex encephalitis associated with acute retinal necrosis: A case report and review of the literature].",
+        "abstract": "A 55-year-old man was admitted to our hospital for investigation of high fever, decreased consciousness and bilateral visual impairment. His cerebrospinal fluid analysis revealed pleocytosis of mononuclear cells and an increased protein concentration. FLAIR images revealed multiple high-intensity lesions in the frontal lobe, part of which was enhanced with gadolinium. Despite initiating treatment with acyclovir and corticosteroids, his consciousness and visual acuity deteriorated. Immunopathological examination of brain biopsies showed numerous herpes simplex virus type 2-positive neurons and macrophages, leading to a diagnosis of herpes simplex encephalitis (HSE). Fundoscopic examination revealed multiple foci of retinitis with vasculopathies, and inflammation in the anterior chamber and vitreous, indicating acute retinal necrosis (ARN). Foscarnet treatment was initiated in place of acyclovir and his consciousness improved, with a slight improvement in visual acuity. ARN is typically ",
+        "journal": "Rinsho shinkeigaku = Clinical neurology",
+        "year": "2017",
+        "authors": [
+          "Ogura Haruchika",
+          "Fukae Jiro",
+          "Kimura Satoshi",
+          "Aoki Mikiko",
+          "Nabeshima Kazuki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Disease Progression",
+          "Drug Resistance, Viral",
+          "Encephalitis, Herpes Simplex",
+          "Foscarnet",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28450685/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:51:58.481296",
+  "success": true,
+  "error_message": null
+}

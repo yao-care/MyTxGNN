@@ -1,0 +1,597 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "nephrocalcinosis",
+    "query_string": "Calcium Carbonate AND nephrocalcinosis"
+  },
+  "data": {
+    "query": "Calcium Carbonate AND nephrocalcinosis",
+    "results": [
+      {
+        "pmid": "23228382",
+        "title": "Lanthanum carbonate inhibits intestinal oxalate absorption and prevents nephrocalcinosis after oxalate loading in rats.",
+        "abstract": "Increased intestinal oxalate absorption leads to increased urinary oxalate excretion (secondary hyperoxaluria) and calcium oxalate crystal formation, contributing to nephrocalcinosis/lithiasis. Lanthanum carbonate is an intestinal phosphate binder that is orally administered to patients on dialysis to treat hyperphosphatemia. It is hypothesized that lanthanum can also bind oxalate, in addition to phosphate. We evaluated this in vitro and in vivo.",
+        "journal": "The Journal of urology",
+        "year": "2013",
+        "authors": [
+          "Robijn Stef",
+          "Vervaet Benjamin A",
+          "Hoppe Bernd",
+          "D'Haese Patrick C",
+          "Verhulst Anja"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Intestinal Absorption",
+          "Lanthanum",
+          "Male",
+          "Nephrocalcinosis",
+          "Oxalates",
+          "Rats",
+          "Rats, Sprague-Dawley"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23228382/"
+      },
+      {
+        "pmid": "2507975",
+        "title": "Safety and efficacy of calcium carbonate in children with chronic renal failure.",
+        "abstract": "The safety and clinical efficacy of calcium carbonate therapy in children with chronic renal failure were assessed in 68 patients (average age 8.38 years) during a mean follow-up period of 19.9 months (range 1.2-49.4). Forty-seven episodes of hypercalcaemia occurred in 29 children (3.5 episodes per 100 patient-months). There were no significant differences in mean GFR or biochemical parameters between these patients at the start of calcium carbonate therapy and the group of children who never experienced hypercalcaemia. Good control of secondary hyperparathyroidism and a significant reduction in serum aluminum were achieved. Two of 23 hypercalcaemic patients showed nephrocalcinosis on ultrasonography. 99Tc pyrophosphate scanning failed to detect any other ectopic calcification. The incidence of hypercalcaemia increased significantly when the GFR was less than 15 ml/min per 1.73 m2 and was most frequent in children receiving dialysis (48 episodes per 100 patient-months). The decrease in",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "1989",
+        "authors": [
+          "Clark A G",
+          "Oner A",
+          "Ward G",
+          "Turner C",
+          "Rigden S P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Calcium Carbonate",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Glomerular Filtration Rate",
+          "Humans",
+          "Hypercalcemia",
+          "Infant",
+          "Kidney Failure, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2507975/"
+      },
+      {
+        "pmid": "9203205",
+        "title": "Severe hypercalcemia, renal failure, and medullary nephrocalcinosis secondary to calcium carbonate ingestion.",
+        "abstract": "",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "year": "1997",
+        "authors": [
+          "Blau E B",
+          "Hoyman S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Calcium Carbonate",
+          "Child",
+          "Down Syndrome",
+          "Female",
+          "Humans",
+          "Hypercalcemia",
+          "Kidney Medulla",
+          "Nephrocalcinosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9203205/"
+      },
+      {
+        "pmid": "8906632",
+        "title": "Effects of calcium gluconate on the utilization of magnesium and the nephrocalcinosis in rats fed excess dietary phosphorus and calcium.",
+        "abstract": "The effects of calcium gluconate on the utilization of magnesium and nephrocalcinosis in male Wistar rats made magnesium-deficient by adding excess dietary phosphorus (1.195 g of phosphorus/100 g of diet) and calcium (1.04 g of calcium/100 g of diet) were compared with the effects of calcium carbonate. The effects of dietary magnesium concentration on the magnesium status and nephrocalcinosis were also examined. Adding excess dietary phosphorus and calcium decreased the apparent magnesium absorption ratios and the concentrations of magnesium in the serum and femur and increased the deposition of calcium in the kidney, and the low magnesium condition (0.024 g of magnesium/100 g of diet) aggravated the deposition of calcium and the low magnesium status. The apparent magnesium absorption ratios and femur magnesium concentration in the rats fed a calcium gluconate diet (an equimolar mixture of calcium gluconate and calcium carbonate was used as a source of calcium) were significantly highe",
+        "journal": "Journal of nutritional science and vitaminology",
+        "year": "1996",
+        "authors": [
+          "Chonan O",
+          "Takahashi R",
+          "Kado S",
+          "Nagata Y",
+          "Kimura H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Animals",
+          "Bone and Bones",
+          "Calcium",
+          "Calcium Carbonate",
+          "Calcium Gluconate",
+          "Diet",
+          "Eating",
+          "Femur",
+          "Kidney"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8906632/"
+      },
+      {
+        "pmid": "7965206",
+        "title": "Dietary calcium chloride vs. calcium carbonate reduces urinary pH and phosphorus concentration, improves bone mineralization and depresses kidney calcium level in cats.",
+        "abstract": "The effect of dietary calcium chloride vs. calcium carbonate on mineral metabolism was studied in cats. Ovariectomized cats and female kittens were fed purified diets with a normal calcium level (9.5 mmol Ca/MJ) but containing either calcium carbonate or calcium chloride, or were fed diets with a high calcium level (17.7 mmol Ca/MJ) containing either calcium carbonate alone or equimolar amounts of both calcium carbonate and calcium chloride. A 4 x 4-wk cross-over study using adult cats and a 31-wk parallel study using kittens were conducted. Calcium, phosphorus and magnesium balances were established regularly. In the course of the experiment with the kittens, blood samples were taken and X-ray photographs of the tibiae made. At the age of 39 wk, the kittens were killed, and organs and bones were collected. In both adult cats and kittens fed the high calcium diets, urinary concentrations of magnesium and phosphorus and apparent absorption of these minerals were lower than after feeding",
+        "journal": "The Journal of nutrition",
+        "year": "1994",
+        "authors": [
+          "Pastoor F J",
+          "Opitz R",
+          "Van 't Klooster A T",
+          "Beynen A C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Animals",
+          "Animals, Newborn",
+          "Body Weight",
+          "Calcification, Physiologic",
+          "Calcium Carbonate",
+          "Calcium Chloride",
+          "Calcium, Dietary",
+          "Cats",
+          "Feces"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7965206/"
+      },
+      {
+        "pmid": "15815943",
+        "title": "Nephrolithiasis and nephrocalcinosis in rats with small bowel resection.",
+        "abstract": "Intestinal resection (IR) may lead to hyperoxaluria and nephrolithiasis. A rat model of IR was developed, in which kidney stones form. We describe the urine chemistries and histopathologic features. Rats underwent resection of 40-45 cm of distal ileum (n=16) or sham resection (SR) (n=8), and were then fed a 1% Na oxalate, 0.02% Ca diet. After 1 week on the diet, 24 h urine samples were obtained for stone chemistries. At 4-7 months after surgery, kidneys were examined grossly and by light microscopy. The extent and location of crystallization was assessed by polarized light. Histochemistry and infrared spectroscopy were used to determine crystal composition. IR rats had higher urine oxalate excretion (P<0.01) and concentration (P<0.001) than SR rats, and lower urine citrate excretion; only IR rats formed kidney stones (12/15 surviving rats). Tissue calcification was found only in kidneys from IR rats, located in the cortex (83% of kidneys), medulla (73%) and papillary tip (47%). Crystal",
+        "journal": "Urological research",
+        "year": "2005",
+        "authors": [
+          "O'Connor R Corey",
+          "Worcester Elaine M",
+          "Evan Andrew P",
+          "Meehan Shane",
+          "Kuznetsov Dimitri"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Disease Models, Animal",
+          "Ileum",
+          "Kidney Calculi",
+          "Kidney Medulla",
+          "Kidney Pelvis",
+          "Nephrocalcinosis",
+          "Rats",
+          "Urinary Calculi",
+          "Urine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15815943/"
+      },
+      {
+        "pmid": "39586905",
+        "title": "Pediatric hypoparathyroidism: etiological and clinical evaluation in a tertiary center.",
+        "abstract": "This study aims to evaluate the etiology, clinical presentation, and management of pediatric hypoparathyroidism in a tertiary center.",
+        "journal": "Endocrine",
+        "year": "2025",
+        "authors": [
+          "Kocabey Sütçü Zümrüt",
+          "Aytaç Kaplan Emel Hatun",
+          "Önal Hasan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hypoparathyroidism",
+          "Child",
+          "Female",
+          "Male",
+          "Adolescent",
+          "Child, Preschool",
+          "Retrospective Studies",
+          "Infant",
+          "Tertiary Care Centers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39586905/"
+      },
+      {
+        "pmid": "1908057",
+        "title": "X-linked recessive nephrolithiasis with renal failure.",
+        "abstract": "Nephrolithiasis may occur as a consequence of a number of hereditary disorders. We describe a large kindred from northern New York with hereditary nephrolithiasis accompanied by urinary concentrating defects, nephrocalcinosis, renal insufficiency, and renal wasting of potassium, phosphate, calcium, and uric acid. The pattern of inheritance was established by examining the patients and their records and interviewing family members. Selected members of the family were evaluated in detail, with measurements of erythrocyte cation fluxes and carbonic anhydrase (carbonate dehydratase) activity.",
+        "journal": "The New England journal of medicine",
+        "year": "1991",
+        "authors": [
+          "Frymoyer P A",
+          "Scheinman S J",
+          "Dunham P B",
+          "Jones D B",
+          "Hueber P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbonic Anhydrases",
+          "Child",
+          "Erythrocytes",
+          "Female",
+          "Genes, Recessive",
+          "Humans",
+          "Kidney",
+          "Kidney Calculi",
+          "Kidney Failure, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1908057/"
+      },
+      {
+        "pmid": "36146999",
+        "title": "Too much of a good thing: A case series of rare yet pertinent causes of hypercalcaemia and acute kidney injury.",
+        "abstract": "Calcium compounds and vitamin D supplements are readily available as over-the-counter preparations. Whilst integral in maintaining calcium homeostasis in certain patients, excess exogenous intake of these preparations can have deleterious effects, particularly in terms of renal function. We look at the cases of two patients, aged 52 and 34, who were referred into hospital with hypercalcaemia and acute kidney injury (AKI). Both individuals reported regular and prolonged self-medication with unregulated over-the-counter supplements containing calcium carbonate and vitamin D, respectively. Prompt investigation and treatment enabled an element of reversibility of the AKI in both the cases, with further improvement in renal function over time. We emphasise the importance of recognising the overuse of exogenous vitamin D supplements and calcium compounds as rare yet treatable causes of AKI associated with hypercalcaemia and discuss how raising public awareness into the risks posed by self-me",
+        "journal": "The journal of the Royal College of Physicians of Edinburgh",
+        "year": "2022",
+        "authors": [
+          "Munir Mohsin",
+          "Kejeh Kwerinuchi T",
+          "Richardson Michelle L",
+          "Ande Praveen C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Calcium",
+          "Calcium Carbonate",
+          "Humans",
+          "Hypercalcemia",
+          "Vitamin D"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36146999/"
+      },
+      {
+        "pmid": "8967338",
+        "title": "Evidence of calcium phosphate supersaturation in the loop of Henle.",
+        "abstract": "We have used published rat micropuncture data to construct a matrix of ion concentrations along the rat nephron. With an iterative computer model of known ion interactions, we calculated relative supersaturation ratios in all nephron segments. The collecting ducts and urine showed expected supersaturation with stone-forming salts. Fluid in the thin segment of the loop of Henle may be supersaturated with calcium carbonate and calcium phosphate under certain conditions. Because calculations cannot predict the actual course of crystallization, we made solutions to mimic, in vitro, presumed conditions in the loop of Henle. The solid phases that formed were analyzed by X-ray powder diffraction, electron microprobe, and infrared spectroscopy. All samples were identified as poorly crystallized or immature apatite. The descending limb of Henle's loop creates a unique condition as it extracts water but not sodium, bicarbonate, calcium, or phosphate, giving a calcium concentration at the bend of",
+        "journal": "The American journal of physiology",
+        "year": "1996",
+        "authors": [
+          "Asplin J R",
+          "Mandel N S",
+          "Coe F L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Calcium Phosphates",
+          "Crystallization",
+          "Durapatite",
+          "Electron Probe Microanalysis",
+          "Forecasting",
+          "Loop of Henle",
+          "Models, Biological",
+          "Nephrons",
+          "Rats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8967338/"
+      },
+      {
+        "pmid": "14531797",
+        "title": "Sevelamer hydrochloride attenuates kidney and cardiovascular calcifications in long-term experimental uremia.",
+        "abstract": "In chronic renal failure (CRF), hyperphosphatemia and an elevated calcium-phosphate product are associated with vascular calcification and increased cardiovascular morbidity and mortality. Previous data have demonstrated that 3-month treatment of uremic rats with sevelamer was associated with less nephrocalcinosis compared to calcium carbonate (CaCO3), despite similar control of serum phosphorus, calcium-phosphorus product (Ca x P product), and secondary hyperparathyroidism. There was no evidence of aortic calcification after 3 months of uremia (J Am Soc Nephrol 13:2299-2308, 2002). The present studies explore the influence of sevelamer and CaCO3 on cardiovascular and kidney calcifications in long-term experimental uremia over 6 months.",
+        "journal": "Kidney international",
+        "year": "2003",
+        "authors": [
+          "Cozzolino Mario",
+          "Staniforth Mark E",
+          "Liapis Helen",
+          "Finch Jane",
+          "Burke Steven K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Aorta",
+          "Body Weight",
+          "Calcinosis",
+          "Calcium",
+          "Calcium Carbonate",
+          "Creatinine",
+          "Epoxy Compounds",
+          "Female",
+          "Hyperparathyroidism, Secondary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14531797/"
+      },
+      {
+        "pmid": "34258537",
+        "title": "Lanthanum carbonate to control plasma and urinary oxalate level in type 1 primary hyperoxaluria?",
+        "abstract": "The therapy to reduce urinary oxalate excretion in primary hyperoxaluria type 1 is still required.",
+        "journal": "IJU case reports",
+        "year": "2021",
+        "authors": [
+          "Pozdzik Agnieszka",
+          "David Cristina",
+          "Vekeman Jelle",
+          "Tielens Frederik",
+          "Daudon Michel"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34258537/"
+      },
+      {
+        "pmid": "16909703",
+        "title": "Nephrocalcinosis in siblings--familial hypomagnesemia, hypercalciuria with nephrocalcinosis (FHHNC syndrome).",
+        "abstract": "Familial Hypomagnesemia, Hypercalciuria with Nephrocalcinosis is a rare autosomal recessive inherited disease associated with renal failure. Two girls born of consanguineous parentage aged 16 and 17 presented to us with renal failure, nephrocalcinosis and bone deformities. On evaluation they were found to have hypomagnesemia, hypercalciuria, increased fractional excretion of magnesium, hypocitraturia, renal failure and elevated PTH. Their parental screening was normal. There were no extra-renal features in them. One sibling had nephrolithiasis and the stone analysis revealed calcium phosphate stones. Both were treated with sodium bicarbonate, thiazides, calcitriol and calcium carbonate. They did not require dialysis during hospital stay. Both of them were treated conservatively. They are on regular outpatient follow up. The primary defect in this syndrome is impaired paracellular reabsorption of magnesium and calcium in the medullary thick ascending limb. Mutations in the PCLN-1gene wh",
+        "journal": "The Journal of the Association of Physicians of India",
+        "year": "2006",
+        "authors": [
+          "Prabahar M Ram",
+          "Manorajan R",
+          "Fernando M E",
+          "Venkatraman R",
+          "Balaraman V"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acid-Base Equilibrium",
+          "Adolescent",
+          "Calcium",
+          "Calcium Channels",
+          "Female",
+          "Humans",
+          "Magnesium Deficiency",
+          "Nephrocalcinosis",
+          "Siblings",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16909703/"
+      },
+      {
+        "pmid": "27353739",
+        "title": "A Case of Vitamin D-Dependent Rickets Type 1A with a Novel Mutation in the Uzbek Population.",
+        "abstract": "Vitamin D-dependent rickets type 1A (VDDR-1A) (Online Mendelian Inheritance in Man #264700) is a rare, autosomal recessively inherited disorder due to inactivating mutations in CYP27B1. It is characterized by early onset of rickets with hypocalcemia. We aimed to describe the clinical and laboratory findings in a VDDR-1A case and to report a novel homozygote truncating mutation NM_000785.3 c.403C>T (p.Q135*) in CYP27B1 which to our knowledge is the first described mutation in the Uzbek population. The patient was admitted with tetany at the age of 12 months. He was a healthy Uzbek boy until 9 months of age when he had a seizure due to hypocalcemia. Vitamin D treatment was given orally in Turkmenistan (no data available for dose and duration). The patient was the product of a consanguineous marriage. His brother had died with hypocalcemia and pneumonia. At physical examination, anthropometric measurements were within normal limits; he had caput quadratum, enlarged wrists, and carpopedal ",
+        "journal": "Journal of clinical research in pediatric endocrinology",
+        "year": "2016",
+        "authors": [
+          "Özcabı Bahar",
+          "Tahmiscioğlu Bucak Feride",
+          "Jaferova Sevinç",
+          "Oruç Çiğdem",
+          "Adrovic Amra"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "25-Hydroxyvitamin D3 1-alpha-Hydroxylase",
+          "Calcitriol",
+          "Calcium Carbonate",
+          "Consanguinity",
+          "Familial Hypophosphatemic Rickets",
+          "Genetic Predisposition to Disease",
+          "Homozygote",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27353739/"
+      },
+      {
+        "pmid": "3079421",
+        "title": "The role of magnesium in the aetiology and prevention of caries: some new findings and implications.",
+        "abstract": "While some epidemiological studies seem to indicate that a high intake of magnesium should be associated with a low prevalence of dental caries, the results of experimental studies are mainly equivocal. Magnesium is probably not bound to the apatite lattice of dental enamel or dentine, or it is bound to a small degree only. It is mainly located in the hydration layer of the apatite crystallites. In the dental caries process it is preferentially dissolved together with the carbonate of the mineral phase. It is not known to what extent feasible dietary changes can modify tooth magnesium content during pre-eruptive tooth development. Animal experiments indicate that the elevation of dietary magnesium alone after tooth eruption has no definite capacity to modify the occurrence of dental caries. When fed in combination with small fluoride supplements in the diet magnesium and fluoride may support each other in preventing various calcium salt imbalances such as dental caries, arteriosclerosi",
+        "journal": "Magnesium research",
+        "year": "1988",
+        "authors": [
+          "Luoma H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bacteria",
+          "Body Fluids",
+          "Dental Caries",
+          "Dental Enamel",
+          "Dentin",
+          "Fluorides",
+          "Humans",
+          "Magnesium",
+          "Mouth",
+          "Streptococcus mutans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3079421/"
+      },
+      {
+        "pmid": "9178485",
+        "title": "Hypophosphataemic rickets and nephrocalcinosis in ostrich chicks brooded and reared on limestone sand.",
+        "abstract": "",
+        "journal": "The Veterinary record",
+        "year": "1997",
+        "authors": [
+          "Morrow C J",
+          "Browne A P",
+          "O'Donnell C J",
+          "Thorp B H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animal Husbandry",
+          "Animals",
+          "Bird Diseases",
+          "Birds",
+          "Calcium Carbonate",
+          "Growth Plate",
+          "Hypophosphatemia",
+          "Kidney",
+          "Nephrocalcinosis",
+          "Radiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9178485/"
+      },
+      {
+        "pmid": "25790436",
+        "title": "Evaluation of intestinal phosphate binding to improve the safety profile of oral sodium phosphate bowel cleansing.",
+        "abstract": "Prior to colonoscopy, bowel cleansing is performed for which frequently oral sodium phosphate (OSP) is used. OSP results in significant hyperphosphatemia and cases of acute kidney injury (AKI) referred to as acute phosphate nephropathy (APN; characterized by nephrocalcinosis) are reported after OSP use, which led to a US-FDA warning. To improve the safety profile of OSP, it was evaluated whether the side-effects of OSP could be prevented with intestinal phosphate binders. Hereto a Wistar rat model of APN was developed. OSP administration (2 times 1.2 g phosphate by gavage) with a 12h time interval induced bowel cleansing (severe diarrhea) and significant hyperphosphatemia (21.79 ± 5.07 mg/dl 6h after the second OSP dose versus 8.44 ± 0.97 mg/dl at baseline). Concomitantly, serum PTH levels increased fivefold and FGF-23 levels showed a threefold increase, while serum calcium levels significantly decreased from 11.29 ± 0.53 mg/dl at baseline to 8.68 ± 0.79 mg/dl after OSP. OSP administra",
+        "journal": "PloS one",
+        "year": "2015",
+        "authors": [
+          "Robijn Stef",
+          "Vervaet Benjamin A",
+          "D'Haese Patrick C",
+          "Verhulst Anja"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Administration, Oral",
+          "Aluminum Hydroxide",
+          "Animals",
+          "Colonoscopy",
+          "Disease Models, Animal",
+          "Fibroblast Growth Factor-23",
+          "Hyperphosphatemia",
+          "Kidney Function Tests",
+          "Lanthanum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25790436/"
+      },
+      {
+        "pmid": "24296607",
+        "title": "Do no harm: calcium and phosphate supplementation in kidney transplant recipients.",
+        "abstract": "",
+        "journal": "Transplantation",
+        "year": "2013",
+        "authors": [
+          "Singh Neeraj",
+          "Qadir Maryam"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Biomarkers",
+          "Biopsy",
+          "Calcitriol",
+          "Calcium Carbonate",
+          "Creatinine",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Kidney Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24296607/"
+      },
+      {
+        "pmid": "5493536",
+        "title": "The relative importance of urinary pH and urinary content of citrate, magnesium and calcium in the production of nephro calcinosis by diet and acetazolamide in the rat.",
+        "abstract": "",
+        "journal": "Clinical science",
+        "year": "1970",
+        "authors": [
+          "Györy A Z",
+          "Edwards K D",
+          "Robinson J",
+          "Palmer A A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetazolamide",
+          "Acidosis",
+          "Animals",
+          "Body Weight",
+          "Calcium",
+          "Calcium Carbonate",
+          "Calcium Chloride",
+          "Carbon Dioxide",
+          "Citrates",
+          "Diet"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5493536/"
+      },
+      {
+        "pmid": "885714",
+        "title": "Renal tubular acidosis due to the milk-alkali syndrome.",
+        "abstract": "A 60-year-old man with a history of excessive ingestion of calcium carbonate presented with azotemia, hypercalcemia and hyperphosphatemia. His acid-base status was initially normal. Following the cessation of calcium carbonate treatment, the hypercalcemia and azotemia disappeared, and the patient was found to be in metabolic acidosis with blunted acid excretion and a urine pH of 6.1. Kidney biopsy showed focal tubular calcification; the tubular damage was apparently caused by hypercalcemia and had resulted in renal tubular acidosis. During the three months of observation since that time there has been a tendecy for spontaneous remission of the renal tubular acidosis. Impaired renal hydrogen ion excretion prevented the development of metabolic alkalosis despite ingestion of alkali initially, and was later responsible for the metabolic acidosis. Renal tubular acidosis occurring as a sequel to the milk-alkali syndrome may aggravate the danger of nephrocalcinosis in this syndrome.",
+        "journal": "Israel journal of medical sciences",
+        "year": "1977",
+        "authors": [
+          "Rochman J",
+          "Better O S",
+          "Winaver J",
+          "Chaimowitz C",
+          "Barzilai A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acidosis, Renal Tubular",
+          "Calcinosis",
+          "Humans",
+          "Hypercalcemia",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/885714/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:12:21.237581",
+  "success": true,
+  "error_message": null
+}

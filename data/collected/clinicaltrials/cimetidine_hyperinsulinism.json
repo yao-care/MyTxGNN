@@ -1,0 +1,31 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Cimetidine",
+    "disease": "hyperinsulinism"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05685693",
+      "title": "The Effect of ROSA®-Assisted Knee Arthroplasty on Clinical Outcomes",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-12-16",
+      "completion_date": "2035-12",
+      "country": "Netherlands",
+      "enrollment": 150,
+      "brief_summary": "This is a randomized clinical study, in which 150 patients with end-stage osteoarthritis will be enrolled to ROSA®-assisted knee arthroplasty or conventional knee arthroplasty. Patients are recruited at Zuyderland Medical Center, enrolled pre-operatively and followed up for 12 months post-surgery. In- and exclusion criteria are stated below.\n\nAfter recruitment, participants will be invited for a pre-operative visit. During this pre-operative visit Informed Consent is signed and completion of pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible for primary TKA\n* age 40-90 years\n* Body-Mass-Index 18.5-50.0 kg/m2\n* American Society of Anaesthesiologists Class I-III\n* Willingness and capability to understand and follow protocol\n\nExclusion Criteria:\n\n\\- Rheuma-/trauma-indicated knee arthroplasty",
+      "endpoints": [
+        "Oxford Knee Score",
+        "Oxford Knee Score"
+      ],
+      "sponsor": "Zuyderland Medisch Centrum",
+      "url": "https://clinicaltrials.gov/study/NCT05685693"
+    }
+  ],
+  "timestamp": "2026-03-04T14:53:40.462408",
+  "success": true,
+  "error_message": null
+}

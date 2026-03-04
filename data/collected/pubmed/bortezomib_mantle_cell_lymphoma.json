@@ -1,0 +1,525 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bortezomib",
+    "disease": "mantle cell lymphoma",
+    "query_string": "Bortezomib AND mantle cell lymphoma"
+  },
+  "data": {
+    "query": "Bortezomib AND mantle cell lymphoma",
+    "results": [
+      {
+        "pmid": "30348538",
+        "title": "Frontline bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP) versus rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) in transplantation-ineligible patients with newly diagnosed mantle cell lymphoma: final overall survival results of a randomised, open-label, phase 3 study.",
+        "abstract": "In the LYM-3002 study, the efficacy and safety of frontline bortezomib plus rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP) and rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) were compared in transplant-ineligible patients with untreated, newly diagnosed, mantle cell lymphoma. We report the final overall survival and safety outcomes for patients in the long-term follow-up phase after the primary progression-free-survival endpoint was met.",
+        "journal": "The Lancet. Oncology",
+        "year": "2018",
+        "authors": [
+          "Robak Tadeusz",
+          "Jin Jie",
+          "Pylypenko Halyna",
+          "Verhoef Gregor",
+          "Siritanaratkul Noppadol"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asia",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Disease Progression",
+          "Doxorubicin",
+          "Europe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30348538/"
+      },
+      {
+        "pmid": "30733891",
+        "title": "Mantle cell lymphoma and its management: where are we now?",
+        "abstract": "Mantle cell lymphoma is a relatively new recognized hematological malignant disease, comprising of 2.5-6% non-Hodgkin's lymphomas. The complexity of its clinical presentations (nodular pattern, diffuse pattern, and blastoid variant), variety in disease progression, and treatment response, make this disease a research focus to both experimental oncology and clinical oncology. Overexpression of cyclin D1 and chromosome t(11,14) translocation are the known molecular biomarkers of this disease. Mantle cell international prognostic index (MIPI), ki-67 proliferation index, and TP53 mutation are emerging as the prognostic biomarkers. Epigenetic profile variance and SOX11 gene expression profile correlate with treatment response. Over the years, the treatment strategy has been gradually evolving from combination chemotherapy to combination of targeted therapy, epigenetic modulation therapy, and immunotherapy. In a surprisingly short period of time, FDA specifically approved 4 drugs for treatin",
+        "journal": "Experimental hematology & oncology",
+        "year": "2019",
+        "authors": [
+          "Ladha Abdullah",
+          "Zhao Jianzhi",
+          "Epner Elliot M",
+          "Pu Jeffrey J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30733891/"
+      },
+      {
+        "pmid": "26755518",
+        "title": "Mantle Cell Lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is an uncommon subtype of non-Hodgkin lymphoma previously considered to have a poor prognosis. Large gains were made in the first decade of the new century when clinical trials established the importance of high-dose therapy and autologous stem-cell rescue and high-dose cytarabine in younger patients and the benefits of maintenance rituximab and bendamustine in older patients. In particular, greater depth of understanding of the molecular pathophysiology of MCL has resulted in an explosion of specifically targeted new efficacious agents. In particular, agents recently approved by the Food and Drug Administration include the proteasome inhibitor bortezomib, immunomodulator lenalidomide, and Bruton's tyrosine kinase inhibitor ibrutinib. We review recent advances in the understanding of MCL biology and outline our recommended approach to therapy, including choice of chemoimmunotherapy, the role of stem-cell transplantation, and mechanism-based targeted therapies",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2016",
+        "authors": [
+          "Cheah Chan Yoon",
+          "Seymour John F",
+          "Wang Michael L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Bortezomib",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation, Neoplastic",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26755518/"
+      },
+      {
+        "pmid": "23782157",
+        "title": "Targeting BTK with ibrutinib in relapsed or refractory mantle-cell lymphoma.",
+        "abstract": "Bruton's tyrosine kinase (BTK) is a mediator of the B-cell-receptor signaling pathway implicated in the pathogenesis of B-cell cancers. In a phase 1 study, ibrutinib, a BTK inhibitor, showed antitumor activity in several types of non-Hodgkin's lymphoma, including mantle-cell lymphoma.",
+        "journal": "The New England journal of medicine",
+        "year": "2013",
+        "authors": [
+          "Wang Michael L",
+          "Rule Simon",
+          "Martin Peter",
+          "Goy Andre",
+          "Auer Rebecca"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Administration, Oral",
+          "Adult",
+          "Agammaglobulinaemia Tyrosine Kinase",
+          "Aged",
+          "Aged, 80 and over",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Humans",
+          "Lymphocyte Count"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23782157/"
+      },
+      {
+        "pmid": "31479618",
+        "title": "Proteasome Inhibitor Drugs.",
+        "abstract": "Proteasomes are large, multicatalytic protein complexes that cleave cellular proteins into peptides. There are many distinct forms of proteasomes that differ in catalytically active subunits, regulatory subunits, and associated proteins. Proteasome inhibitors are an important class of drugs for the treatment of multiple myeloma and mantle cell lymphoma, and they are being investigated for other diseases. Bortezomib (Velcade) was the first proteasome inhibitor to be approved by the US Food and Drug Administration. Carfilzomib (Kyprolis) and ixazomib (Ninlaro) have recently been approved, and more drugs are in development. While the primary mechanism of action is inhibition of the proteasome, the downstream events that lead to selective cell death are not entirely clear. Proteasome inhibitors have been found to affect protein turnover but at concentrations that are much higher than those achieved clinically, raising the possibility that some of the effects of proteasome inhibitors are me",
+        "journal": "Annual review of pharmacology and toxicology",
+        "year": "2020",
+        "authors": [
+          "Fricker Lloyd D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Drug Development",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Multiple Myeloma",
+          "Proteasome Endopeptidase Complex",
+          "Proteasome Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31479618/"
+      },
+      {
+        "pmid": "33799484",
+        "title": "Relapsed Mantle Cell Lymphoma: Current Management, Recent Progress, and Future Directions.",
+        "abstract": "The increasing number of approved therapies for relapsed mantle cell lymphoma (MCL) provides patients effective treatment options, with increasing complexity in prioritization and sequencing of these therapies. Chemo-immunotherapy remains widely used as frontline MCL treatment with multiple targeted therapies available for relapsed disease. The Bruton's tyrosine kinase inhibitors (BTKi) ibrutinib, acalabrutinib, and zanubrutinib achieve objective responses in the majority of patients as single agent therapy for relapsed MCL, but differ with regard to toxicity profile and dosing schedule. Lenalidomide and bortezomib are likewise approved for relapsed MCL and are active as monotherapy or in combination with other agents. Venetoclax has been used off-label for the treatment of relapsed and refractory MCL, however data are lacking regarding the efficacy of this approach particularly following BTKi treatment. Anti-CD19 chimeric antigen receptor T-cell (CAR-T) therapies have emerged as highl",
+        "journal": "Journal of clinical medicine",
+        "year": "2021",
+        "authors": [
+          "Bond David A",
+          "Martin Peter",
+          "Maddocks Kami J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33799484/"
+      },
+      {
+        "pmid": "27917682",
+        "title": "The preclinical discovery and development of bortezomib for the treatment of mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is an incurable, often aggressive B-cell malignancy. Bortezomib (BTZ), the 20S proteasome inhibitor was originally developed and approved for treatment of relapsed refractory multiple myeloma, and subsequently approved for treatment of MCL. BTZ's single-agent activity induces clinical responses in approximately one-third of relapsed MCL patients. BTZ-containing combination therapies have further improved the quality and duration of clinical responses compared to standard chemotherapies in previously untreated MCL patients. Areas covered: This review summarizes the discovery, mechanisms of -action and resistance, preclinical- clinical-developments, and FDA approval of BTZ for treatments of MCL. Expert opinion: Preclinical MCL models demonstrated the apoptotic effect of BTZ through multiple mechanisms, as well as synergistic anti-MCL activity between BTZ and other chemotherapeutics. Single-agent and combinational clinical trials have validated the therapeutic p",
+        "journal": "Expert opinion on drug discovery",
+        "year": "2017",
+        "authors": [
+          "Arkwright Richard",
+          "Pham Tri Minh",
+          "Zonder Jeffrey A",
+          "Dou Q Ping"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Bortezomib",
+          "Drug Design",
+          "Drug Discovery",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Molecular Targeted Therapy",
+          "Proteasome Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27917682/"
+      },
+      {
+        "pmid": "35639332",
+        "title": "Mantle Cell Lymphoma: the Role of Risk-Adapted Therapy and Treatment of Relapsed Disease.",
+        "abstract": "In this review, the current treatment strategies are recapped, evolving agents are discussed, and we provide guidance in treating R/R MCL.",
+        "journal": "Current oncology reports",
+        "year": "2022",
+        "authors": [
+          "Tarockoff Meri",
+          "Gonzalez Teresita",
+          "Ivanov Stanislav",
+          "Sandoval-Sus Jose"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Bispecific",
+          "Antineoplastic Agents",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Immunoconjugates",
+          "Lymphoma, Mantle-Cell",
+          "Neoplasm Recurrence, Local",
+          "Receptors, Chimeric Antigen",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35639332/"
+      },
+      {
+        "pmid": "35237397",
+        "title": "Mantle cell lymphoma management trends and novel agents: where are we going?",
+        "abstract": "The heterogeneity in disease pathology, the unpredictability in disease prognosis, and the variability in response to therapy make mantle cell lymphoma (MCL) a focus of novel therapeutic development. MCL is characterized by dysregulated expression of cyclin D1 through a chromosome t(11;14) translocation. MCL international prognostic index (MIPI), ki-67 proliferation index, and TP53 mutation status are currently utilized for prognostication. With advances in pharmacokinetic analysis and drug discovery, treatment strategy has evolved from chemotherapy to combination of targeted, epigenetic, and immune therapies. In this review, we discuss investigational and newly approved treatment approaches. In a short time, the US Food and Drug Administration (FDA) has approved five agents for the treatment of MCL: lenalidomide, an immunomodulatory agent; bortezomib, a proteasome inhibitor; and ibrutinib, acalabrutinib, and zanubrutinib, all Bruton kinase inhibitors. Epigenetic agents (e.g. cladribin",
+        "journal": "Therapeutic advances in hematology",
+        "year": "2022",
+        "authors": [
+          "Pu Jeffrey J",
+          "Savani Malvi",
+          "Huang Nick",
+          "Epner Elliot M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35237397/"
+      },
+      {
+        "pmid": "33165832",
+        "title": "Ubiquitin-proteasome system (UPS) as a target for anticancer treatment.",
+        "abstract": "The ubiquitin-proteasome system (UPS) plays an important role in the cellular processes for protein quality control and homeostasis. Dysregulation of the UPS has been implicated in numerous diseases, including cancer. Indeed, components of UPS are frequently mutated or abnormally expressed in various cancers. Since Bortezomib, a proteasome inhibitor, received FDA approval for the treatment of multiple myeloma and mantle cell lymphoma, increasing numbers of researchers have been seeking drugs targeting the UPS as a cancer therapeutic strategy. Here, we introduce the essential component of UPS, including ubiquitinating enzymes, deubiquitinating enzymes and 26S proteasome, and we summarize their targets and mechanisms that are crucial for tumorigenesis. In addition, we briefly discuss some UPS inhibitors, which are currently in clinical trials as cancer therapeutics.",
+        "journal": "Archives of pharmacal research",
+        "year": "2020",
+        "authors": [
+          "Park Jinyoung",
+          "Cho Jinhong",
+          "Song Eun Joo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Humans",
+          "Molecular Targeted Therapy",
+          "Neoplasms",
+          "Proteasome Endopeptidase Complex",
+          "Proteasome Inhibitors",
+          "Proteolysis",
+          "Ubiquitination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33165832/"
+      },
+      {
+        "pmid": "39413903",
+        "title": "Bortezomib in cancer therapy: Mechanisms, side effects, and future proteasome inhibitors.",
+        "abstract": "The ubiquitin-proteasome pathway (UPP) regulates protein stability and normal cellular functions with the help of autocatalytic proteasome complex. Studies have linked aberrant proteasome activity to malignant cells and found that proteasome inhibitors play a significant role as therapeutic drugs for various types of cancer, specifically multiple myeloma and mantle cell lymphoma. Bortezomib, the first FDA-approved proteasome inhibitor for treating different stages of multiple myeloma, acts on cancer cells by inhibiting the 26S proteasome, modulating NF-κB, phosphorylating Bcl-2, upregulating of NOXA, blocking p53 degradation, activating caspase, generating reactive oxygen species (ROS), and inhibiting angiogenesis. However, its efficacy is limited due to side effects such as peripheral neuropathy (PN), thrombotic microangiopathy (TMA), and acute interstitial nephritis (AIN). Therefore, a better understanding of its precise mechanism of action may help mitigate these side effects. In th",
+        "journal": "Life sciences",
+        "year": "2024",
+        "authors": [
+          "Sogbein Olusola",
+          "Paul Pradipta",
+          "Umar Meenakshi",
+          "Chaari Ali",
+          "Batuman Vecihi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bortezomib",
+          "Proteasome Inhibitors",
+          "Antineoplastic Agents",
+          "Neoplasms",
+          "Animals",
+          "Proteasome Endopeptidase Complex"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39413903/"
+      },
+      {
+        "pmid": "26609233",
+        "title": "Bortezomib in mantle cell lymphoma: comparative therapeutic outcomes.",
+        "abstract": "Mantle cell lymphoma (MCL) is an incurable, typically aggressive subtype of non-Hodgkin lymphoma, accounting for 4%-7% of newly diagnosed non-Hodgkin lymphoma cases. Chemoresistance commonly ensues in MCL, and patients with this heterogeneous disease invariably relapse, underscoring the unmet need for better therapies. Over the past few years, several novel agents with promising activity and unique mechanisms of action have been deemed effective in MCL. Bortezomib is a reversible proteasome inhibitor, approved as a single agent for patients with relapsed/refractory MCL who have received at least one prior line of therapy. Addition of bortezomib to chemoimmunotherapies has demonstrated good tolerability and superior efficacy, both in the upfront and salvage settings, and recently one such combination of bortezomib plus rituximab, cyclophosphamide, doxorubicin, and prednisone was approved as a frontline regimen in untreated patients with MCL. This review examines the role of bortezomib i",
+        "journal": "Therapeutics and clinical risk management",
+        "year": "2015",
+        "authors": [
+          "Vallumsetla Nishanth",
+          "Paludo Jonas",
+          "Kapoor Prashant"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26609233/"
+      },
+      {
+        "pmid": "24857076",
+        "title": "Mantle cell lymphoma: biology, clinical presentation, and therapeutic approaches.",
+        "abstract": "Mantle cell lymphoma is molecularly characterized by the chromosomal translocation t(11;14) (q13;q32) that results in a constitutional overexpression of the cell cycle regulator protein cyclin D1. Generally, the disease is characterized by rapid relapses and poor long-term outcome. However, a subset of patients with indolent disease has been identified. Randomized trials have demonstrated the superiority of dose intensified, cytarabine-containing induction with or without autologous stem cell transplantation in younger patients. In elderly patients, a rituximab-based maintenance has significantly prolonged progression-free and overall survival after treatment with rituximab, cyclophosphamide, doxorubicin hydrochloride, vincristine, and prednisone (R-CHOP). Unfortunately, the vast majority of patients will eventually relapse. Numerous molecular targeting strategies (bortezomib, lenalidomide, temsirolimus, and especially inhibitors of the B-cell receptor pathway) have achieved high respo",
+        "journal": "American Society of Clinical Oncology educational book. American Society of Clinical Oncology. Annual Meeting",
+        "year": "2014",
+        "authors": [
+          "Dreyling Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review",
+          "Video-Audio Media"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Chemotherapy, Adjuvant",
+          "Chromosomes, Human, Pair 11",
+          "Chromosomes, Human, Pair 14",
+          "Disease Progression",
+          "Disease-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24857076/"
+      },
+      {
+        "pmid": "28811872",
+        "title": "Current and emerging treatment options for mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is a B-cell non-Hodgkin lymphoma with typically aggressive behavior. The genetic signature is the chromosomal translocation t(11;14)(q13;q32) resulting in overexpression of cyclin D1. Asymptomatic newly diagnosed MCL patients with low tumor burden can be closely observed, deferring therapy to the time of disease progression. Although MCL classically responds to upfront chemotherapy, it remains incurable with standard approaches. For patients in need of frontline therapy, the initial decision is whether to proceed with an intensive treatment strategy or a non-intensive treatment strategy. In general, given the unfavorable risk-benefit profile, older MCL patients should be spared intensive strategies, while younger and fit patients can be considered for intensive strategies. The bendamustine and rituximab (BR) regimen is becoming an increasingly popular treatment option among the elderly population, with improved progression-free survival (PFS) and acceptable s",
+        "journal": "Therapeutic advances in hematology",
+        "year": "2017",
+        "authors": [
+          "Fakhri Bita",
+          "Kahl Brad"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28811872/"
+      },
+      {
+        "pmid": "26347482",
+        "title": "Bortezomib in the treatment of mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is a hematological malignancy with unfavorable prognosis. Bortezomib, a potent, selective and reversible inhibitor of the 26S proteasome, was shown to be active in MCL and is currently implemented in therapeutic combinations. Single-agent bortezomib has demonstrated clinical efficacy in relapsed and refractory MCL with objective response in up to 47% of the patients. However, complete remission rates are low and duration of response is relatively short. In previously untreated patients, the addition of bortezomib to induction chemotherapy is also promising. Further evaluation of bortezomib alone or in combination with other drugs for the treatment of MCL is warranted to improve the quality of life and survival of patients. This review explores bortezomib as therapy in patients with MCL.",
+        "journal": "Future oncology (London, England)",
+        "year": "2015",
+        "authors": [
+          "Robak Tadeusz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Bortezomib",
+          "Humans",
+          "Lymphoma, Mantle-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26347482/"
+      },
+      {
+        "pmid": "28699667",
+        "title": "Mantle cell lymphoma: 2017 update on diagnosis, risk-stratification, and clinical management.",
+        "abstract": "Mantle cell lymphoma (MCL) is a non-Hodgkin lymphoma characterized by involvement of the lymph nodes, spleen, blood and bone marrow with a short remission duration to standard therapies and a median overall survival (OS) of 4-5 years.",
+        "journal": "American journal of hematology",
+        "year": "2017",
+        "authors": [
+          "Vose Julie M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Combined Modality Therapy",
+          "Disease Management",
+          "Drug Resistance, Neoplasm",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Prognosis",
+          "Recurrence",
+          "Risk Assessment",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28699667/"
+      },
+      {
+        "pmid": "18407730",
+        "title": "Bortezomib in mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) represents 6% of non-Hodgkin lymphomas, but is one of the most active fields of clinical investigation. Unfortunately, there is still no standard or curative therapy in MCL. Front-line therapy appears to benefit from intensification either through high-dose therapy with stem cell transplant consolidation or dose-intense chemotherapy with hyperfractionated cyclophosphamide, vincristine, adriamycin/doxorubicin and dexamethasone/rituximab. Most patients still relapse and a multitude of novel agents are currently being tested in this setting, including proteasome inhibitors with bortezomib (the first of its class and the first US FDA-approved drug for MCL), mTOR inhibitors, Bcl-2 inhibitors, antiangiogenesis agents and histone deacetylase inhibitors among others. An obvious effort is needed to enroll patients on clinical trials, the design of which might benefit from pharmacogenomics and a better understanding of MCL biology and its diversity.",
+        "journal": "Future oncology (London, England)",
+        "year": "2008",
+        "authors": [
+          "Suh K Stephen",
+          "Goy Andre"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Boronic Acids",
+          "Bortezomib",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18407730/"
+      },
+      {
+        "pmid": "38678093",
+        "title": "The addition of bortezomib to rituximab, high-dose cytarabine and dexamethasone in relapsed or refractory mantle cell lymphoma-a randomized, open-label phase III trial of the European mantle cell lymphoma network.",
+        "abstract": "The therapy of relapsed or refractory (r/r) mantle cell lymphoma (MCL) patients remains a major clinical challenge to date. We conducted a randomized, open-label, parallel-group phase-III trial hypothesizing superior efficacy of rituximab, high-dose cytarabine and dexamethasone with bortezomib (R-HAD + B) versus without (R-HAD) in r/r MCL ineligible for or relapsed after autologous stem cell transplant (ASCT). Primary endpoint was time to treatment failure (TTF), secondary endpoints included response rates, progression free survival, overall survival, and safety. In total, 128 of 175 planned patients were randomized to R-HAD + B (n = 64) or R-HAD (n = 64). Median TTF was 12 vs. 2.6 months (p = 0.045, MIPI-adjusted HR 0.69; 95%CI 0.47-1.02). Overall and complete response rates were 63 vs. 45% (p = 0.049) and 42 vs. 19% (p = 0.0062). A significant treatment effect was seen in the subgroup of patients >65 years (aHR 0.48, 0.29-0.79) and without previous ASCT (aHR 0.52, 0.28-0.96). Toxicit",
+        "journal": "Leukemia",
+        "year": "2024",
+        "authors": [
+          "Fischer Luca",
+          "Jiang Linmiao",
+          "Dürig Jan",
+          "Schmidt Christian",
+          "Stilgenbauer Stephan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bortezomib",
+          "Lymphoma, Mantle-Cell",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Male",
+          "Dexamethasone",
+          "Aged",
+          "Middle Aged",
+          "Cytarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38678093/"
+      },
+      {
+        "pmid": "27358886",
+        "title": "Current approaches and advance in mantle cell lymphoma treatment.",
+        "abstract": "Mantle cell lymphoma (MCL) is a set of heterogeneous non-Hodgkin lymphoma characterized by involvement of lymph nodes, spleen, bone marrow and blood. Under conventional treatment, survival time is 4 to 5 years with short remission period and there is still no standard treatment for MCL. In general, a close observation period called \"watchful waiting\" is used in elderly patients with low-risk slow clinical progress. And intensive chemotherapy including high-dose of cytarabine ± autologous hematopoietic stem cell transplantation (auto-HSCT) is recommended for younger and fit patients. Allogenic stem cell transplantation (allo-SCT) and drugs targeting the cell metabolic pathway, such as bortezomib (NF-κB inhibitor) and lenalidomide (anti-angiogenesis drug), are considerable treatments for relapsed/refractory patients. Clinical trials and less intensive chemotherapy such as R-CHOP (rituximab with cyclophosphamide, hydroxydaunomycin, oncovin and prednisone) and R-bendamustine should be cons",
+        "journal": "Stem cell investigation",
+        "year": "2015",
+        "authors": [
+          "Liu Yao",
+          "Zhang Xi",
+          "Zhong Jiang-Fan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27358886/"
+      },
+      {
+        "pmid": "24756802",
+        "title": "Bortezomib.",
+        "abstract": "The ubiquitin-mediated degradation of proteins in numerous cellular processes, such as turnover and quality control of proteins, cell cycle and apoptosis, transcription and cell signaling, immune response and antigen presentation, and inflammation and development makes the ubiquitin-proteosome systems a very interesting target for various therapeutic interventions. Proteosome inhibitors were first synthesized as tools to probe the function and specificity of this particle's proteolytic activities. Most synthetic inhibitors rely on a peptide base, which mimics a protein substrate, attached at a COOH terminal \"warhead.\" Notable warheads include boronic acids, such as bortezomib and epoxy ketones, such as carfilzomib. A variety of natural products also inhibit the proteosome that are not peptide-based, most notably lactacystin, that is related to NPI-0052, or salinosporamide A, another inhibitor in clinical trials. The possibility that proteosome inhibitors could be drug candidates was co",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2014",
+        "authors": [
+          "Einsele Hermann"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Boronic Acids",
+          "Bortezomib",
+          "Humans",
+          "Multiple Myeloma",
+          "Neoplasms",
+          "Proteasome Inhibitors",
+          "Pyrazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24756802/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:56:48.536573",
+  "success": true,
+  "error_message": null
+}

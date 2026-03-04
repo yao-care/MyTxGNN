@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Chloramphenicol",
+    "disease": "Rickettsiosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05972772",
+      "title": "A Pharmacokinetic-pharmacodynamic Study of Early Rickettsia Clearance in Murine Typhus or Scrub Typhus Patients Treated with Doxycycline or Azithromycin",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-11-01",
+      "completion_date": "2026-08-31",
+      "country": "Laos",
+      "enrollment": 72,
+      "brief_summary": "Murine typhus is a disease caused by Rickettisa typhi, an obligate intracellular bacterium transmitted by rodent fleas. The disease has a worldwide distribution; however the true burden is unknown, related to its non-specific presentation and lack of access to diagnosis in many regions. A systematic review of untreated murine typhus based on observational studies of a total of 239 patients has estimated the mortality associated with the disease at between 0.4% and 3.6%.\n\nScrub typhus is caused b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age above or equal 18 years\n* Able to take oral medication\n* Rapid test positive for murine typhus or scrub typhus\n* Agrees to stay in hospital for at least 36 hours and to attend for scheduled follow up visits\n* Written informed consent to participate in the study\n* A negativ",
+      "endpoints": [
+        "Rate of clearance of R. typhi or O. tsutsugamushi from peripheral blood of patients using serial qPCR measurement"
+      ],
+      "sponsor": "Lao-Oxford-Mahosot Hospital Wellcome Trust Research Unit",
+      "url": "https://clinicaltrials.gov/study/NCT05972772"
+    }
+  ],
+  "timestamp": "2026-03-04T15:36:48.220563",
+  "success": true,
+  "error_message": null
+}

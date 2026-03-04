@@ -1,0 +1,570 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "folic acid deficiency anemia",
+    "query_string": "Ferrous Fumarate AND folic acid deficiency anemia"
+  },
+  "data": {
+    "query": "Ferrous Fumarate AND folic acid deficiency anemia",
+    "results": [
+      {
+        "pmid": "34629872",
+        "title": "Cost-Effectiveness of Ferrous Fumarate-Folic Acid and Ferrous Gluconate-Multivitamins in a High Prevalence Area of Iron Deficiency Anemia in Indonesia.",
+        "abstract": "Up to now, the combinations of ferrous fumarate-folic acid (FF-FA) and ferrous gluconate-multivitamins (FG-MV) have been implemented by the local government in the province of Papua. Nevertheless, there is no a specific economic evaluation that has been applied to investigate the cost-effectiveness of FF-FA and FG-MV.",
+        "journal": "Therapeutics and clinical risk management",
+        "year": "2021",
+        "authors": [
+          "Rakanita Yasinta",
+          "Syamsunarno Mas Rizky A A",
+          "Sinuraya Rano K",
+          "Suradji Eka W",
+          "Abdulah Rizky"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34629872/"
+      },
+      {
+        "pmid": "15646652",
+        "title": "Comparison of a combination ferrous fumarate product and a polysaccharide iron complex as oral treatments of iron deficiency anemia: a Taiwanese study.",
+        "abstract": "Despite efforts to improve iron supplements for iron deficiency anemia, there is no consensus on products that balance efficacy, safety and tolerability, and cost. Ferrous products are effective, but they are associated with more gastrointestinal side effects than ferric products. Ferric products tend to have lower absorption. We present results from a 12-week study that randomized 72 people with uncomplicated iron deficiency anemia to receive a ferrous iron supplement (Ferall, a combination of ferrous fumarate with ascorbic acid, folic acid, and cyanocobalamin) or a ferric iron polysaccharide complex (Niferex, ferro-glycine sulfate) plus ascorbic acid. The ferrous product was significantly more effective, the primary and secondary endpoints including changes in levels of hemoglobin and serum ferritin. There was a slightly higher frequency of gastrointestinal side effects in patients taking the ferrous product, but both supplements were well tolerated. No participant withdrew from the ",
+        "journal": "International journal of hematology",
+        "year": "2004",
+        "authors": [
+          "Liu Ta-Chih",
+          "Lin Shen-Fung",
+          "Chang Chao-Sung",
+          "Yang Wen-Chi",
+          "Chen Tyen-Po"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Ascorbic Acid",
+          "Female",
+          "Ferritins",
+          "Ferrous Compounds",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15646652/"
+      },
+      {
+        "pmid": "11478761",
+        "title": "Evaluation of efficacy and safety of iron polymaltose complex and folic acid (Mumfer) vs iron formulation (ferrous fumarate) in female patients with anaemia.",
+        "abstract": "Treatment of iron deficiency anaemia with conventional oral preparations is handicapped by unpredictable haematological response in addition to potential for irritating gastrointestinal adverse events. Iron polymaltose complex (IPC), a novel oral iron formulation with better absorbability, predictable haematinic response and less side effects was compared with oral ferrous fumarate in 100 female patients with documented iron deficiency anaemia. Clinical parameters (pallor, weakness) as well as biochemical parameters (Hb, serum iron, total iron binding capacity) show favourable changes with IPC; the physician and patient assessment also favour IPC over ferrous fumarate.",
+        "journal": "Journal of the Indian Medical Association",
+        "year": "2001",
+        "authors": [
+          "Reddy P S",
+          "Adsul B B",
+          "Gandewar K",
+          "Korde K M",
+          "Desai A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Developing Countries",
+          "Drug Combinations",
+          "Female",
+          "Ferric Compounds",
+          "Ferrous Compounds",
+          "Folic Acid",
+          "Humans",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11478761/"
+      },
+      {
+        "pmid": "19635145",
+        "title": "Relative bioavailability of iron and folic acid from a new powdered supplement compared to a traditional tablet in pregnant women.",
+        "abstract": "Deficiencies of iron and folic acid during pregnancy can lead to adverse outcomes for the fetus, thus supplements are recommended. Adherence to current tablet-based supplements is documented to be poor. Recently a powdered form of micronutrients has been developed which may decrease side-effects and thus improve adherence. However, before testing the efficacy of the supplement as an alternate choice for supplementation during pregnancy, the bioavailability of the iron needs to be determined. Our objective was to measure the relative bioavailability of iron and folic acid from a powdered supplement that can be sprinkled on semi-solid foods or beverages versus a traditional tablet supplement in pregnant women.",
+        "journal": "BMC pregnancy and childbirth",
+        "year": "2009",
+        "authors": [
+          "Hartman-Craven Brenda",
+          "Christofides Anna",
+          "O'Connor Deborah L",
+          "Zlotkin Stanley"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Biological Availability",
+          "Cross-Over Studies",
+          "Dietary Supplements",
+          "Drug Therapy, Combination",
+          "Female",
+          "Folic Acid",
+          "Hematinics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19635145/"
+      },
+      {
+        "pmid": "40610127",
+        "title": "Effects of quintuply-fortified salt on the micronutrient status of females of reproductive age in Punjab, India: a randomized, community-based trial.",
+        "abstract": "Innovative fortification solutions are needed to address micronutrient deficiencies, which remain highly prevalent among adult females in India.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2025",
+        "authors": [
+          "Goh Yvonne E",
+          "Duggal Mona",
+          "Das Reena",
+          "Manger Mari S",
+          "Jamwal Manu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "India",
+          "Food, Fortified",
+          "Micronutrients",
+          "Sodium Chloride, Dietary",
+          "Adult",
+          "Double-Blind Method",
+          "Iodine",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40610127/"
+      },
+      {
+        "pmid": "23105698",
+        "title": "Scientific evaluation of some Ayurvedic preparations for correction of iron deficiency and anemia.",
+        "abstract": "A number of preparations are available in Ayurved for treatment of anemia and iron deficiency. This study was designed to evaluate efficacy of some of them. Six most commonly used Ayurvedic iron containing preparations (Navayasa Curna, Punarnavadi Mandura, Dhatri Lauha, Pradarantaka Lauha, Sarva-Juara-Hara Lauha and Vrihat Yakrdari Lauha) were given in a dose of 250 mg b.d. for 30 days to six groups of iron deficient anemic patients; each group consisting of 20 patients. A control group was given Allopathic preparation-Irex-12, (containing-ferrous fumarate, vitamin C, folic acid and vitamin B(12)); 1 capsule daily for 30 days for comparison. All hematological and iron parameters were determined before and after completion of treatment. The results showed that there was statistically significant rise (p<0.001) in all of them-Hb, PCV, TRBC, MCV, MCH, MCHC and plasma iron, percent saturation and plasma ferritin. Total iron binding capacity decreased significantly (p<0.001). The response o",
+        "journal": "Indian journal of clinical biochemistry : IJCB",
+        "year": "2007",
+        "authors": [
+          "Sharma Dinesh C",
+          "Chandiramani Deepa",
+          "Riyat Manminder",
+          "Sharma Praveen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23105698/"
+      },
+      {
+        "pmid": "10851577",
+        "title": "[Dose-effect of the administration of ferrous fumarate in aged persons with iron deficiency].",
+        "abstract": "Anemia is the most prevalent hematological problem in elderly persons, affecting 14% of the males and 6% of the females of the population over 60 years of age in Mexico City.",
+        "journal": "Revista de gastroenterologia de Mexico",
+        "year": "1999",
+        "authors": [
+          "Lares-Asseff I",
+          "Pérez M G",
+          "López M C",
+          "Romero L",
+          "Camacho G A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Data Interpretation, Statistical",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Ferritins",
+          "Ferrous Compounds",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10851577/"
+      },
+      {
+        "pmid": "12499344",
+        "title": "Hyperhomocysteinemia and vitamin B-12 deficiency in elderly using Title IIIc nutrition services.",
+        "abstract": "The effect of the folate food fortification program on the prevalence of hyperhomocysteinemia in the older population with coexisting vitamin B-12 deficiency is not known.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2003",
+        "authors": [
+          "Johnson Mary Ann",
+          "Hawthorne Nicole A",
+          "Brackett Wimberly R",
+          "Fischer Joan G",
+          "Gunter Elaine W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Activities of Daily Living",
+          "Aged",
+          "Aged, 80 and over",
+          "Dietary Services",
+          "Female",
+          "Folic Acid",
+          "Georgia",
+          "Geriatrics",
+          "Humans",
+          "Hyperhomocysteinemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12499344/"
+      },
+      {
+        "pmid": "5551272",
+        "title": "Further observations on the relation between iron and folate status in pregnancy.",
+        "abstract": "This study was planned to determine whether iron deficiency in pregnancy predisposed to the development of folate deficiency and also the smallest daily iron supplement that maintained haemoglobin levels in pregnancy.Three groups of women were given oral ferrous fumarate supplying 30, 60, and 120 mg of iron; a fourth group was given 1 g of parenteral iron in early pregnancy followed by oral iron (60 mg); a fifth group received a placebo. Tablets were taken once daily.Oral iron 30 mg once daily maintained haemoglobin levels throughout pregnancy. Women whose marrows lacked demonstrable iron at the 37th week had a significantly higher incidence of megaloblastic haemopoiesis (28.7%) than those with demonstrable iron stores (15.3%); women taking oral iron did not have a lower frequency of megaloblastosis than those given a placebo. We concluded that iron does not have a direct effect on folate status in pregnancy, that the association of iron deficiency and megaloblastic anaemia in pregnanc",
+        "journal": "British medical journal",
+        "year": "1971",
+        "authors": [
+          "Chanarin I",
+          "Rothman D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Birth Weight",
+          "Bone Marrow Examination",
+          "Erythropoiesis",
+          "Female",
+          "Folic Acid Deficiency",
+          "Hemoglobinometry",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5551272/"
+      },
+      {
+        "pmid": "4407270",
+        "title": "Nutritional anaemia during pregnancy. A comparative study of two socio-economic classes.",
+        "abstract": "",
+        "journal": "The Journal of obstetrics and gynaecology of the British Commonwealth",
+        "year": "1974",
+        "authors": [
+          "Molina R A",
+          "Diez-Ewald M",
+          "Fernández G",
+          "Velázquez N"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Binding Sites",
+          "Diet",
+          "Erythrocytes",
+          "Female",
+          "Folic Acid",
+          "Hematocrit",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4407270/"
+      },
+      {
+        "pmid": "27313416",
+        "title": "Clinical efficacy of Amalaki Rasayana in the management of Pandu (Iron deficiency anemia).",
+        "abstract": "Iron deficiency anemia (IDA) is one of the most common nutritional deficiencies worldwide, which can be correlated to Pandu described in ayurvedic classics. Poor absorption of iron is one of the main reasons of IDA. Amalaki (Phyllanthus emblica L.) has Tridoshahara, especially Pittashamaka (pacifying Pitta) and Rasayana (rejuvenative) properties, thus nourishes the Dhatus and is also known to enhance the absorption of iron.",
+        "journal": "Ayu",
+        "year": "2015",
+        "authors": [
+          "Layeeq Shaizi",
+          "Thakar Anup B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27313416/"
+      },
+      {
+        "pmid": "26824731",
+        "title": "Modifying effects of maternal Hb concentration on infant birth weight in women receiving prenatal iron-containing supplements: a randomised controlled trial.",
+        "abstract": "Concerns have been raised about the benefits of Fe-containing supplements on infant birth weight among women with normal/high Hb levels at baseline. Thus far, no clinical trials have examined whether the effects of prenatal Fe-containing supplements on birth weight vary by maternal Hb levels. We compared the effects of Fe-folic acid (IFA) or multiple micronutrients (MMN) with folic acid (FA) supplements on birth weight among pregnant women with mild/no anaemia or high Hb levels. A double-blind randomised controlled trial was conducted in 2006-2009. In total, 18 775 pregnant women with mild/no anaemia (145 g/l) baseline Hb levels, IFA and MMN supplements increased birth weight by 91·44 (95% CI 3·37, 179·51) g and 107·63 (95% CI 21·98, 193·28) g (P<0·05), respectively, compared with the FA group. No differences were found between the IFA and the MMN group, regardless of maternal Hb concentration. In conclusion, the effects of Fe-containing supplements on birth weight depended on baseline",
+        "journal": "The British journal of nutrition",
+        "year": "2016",
+        "authors": [
+          "Wang Linlin",
+          "Mei Zuguo",
+          "Li Hongtian",
+          "Zhang Yali",
+          "Liu Jianmeng"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Birth Weight",
+          "China",
+          "Dietary Supplements",
+          "Double-Blind Method",
+          "Female",
+          "Ferrous Compounds",
+          "Fetal Growth Retardation",
+          "Hematinics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26824731/"
+      },
+      {
+        "pmid": "17915799",
+        "title": "A randomised double-blind study comparing sodium feredetate with ferrous fumarate in anaemia in pregnancy.",
+        "abstract": "Iron deficiency anaemia is a major health problem in India especially in women of reproductive age group. The World Health Organisation recommends that the haemoglobin concentration should not fall below 11.0 g/dl at any time during pregnancy. The aim of study was to compare the efficacy and safety of two doses of sodium feredetate with ferrous fumarate in improving haemoglobin profile in pregnant anaemic women. Pregnant women with gestation period between 12 and 26 weeks having serum haemoglobin < 10 g/dl, serum ferritin levels less than 12 microg/l were included in the study. Patients were divided into 3 groups and drugs administered accordingly. A total of 48 patients were available for analysis which included 37 patients who had completed all the visits up to 75 days follow-up and 11 patients who were treatment failures. In group A combination of sodium feredetate (containing 33 mg of elemental iron) along with vitamin B12 (15 microg) and folic acid (1.5 mg) was administered twice ",
+        "journal": "Journal of the Indian Medical Association",
+        "year": "2007",
+        "authors": [
+          "Sarkate Pankaj",
+          "Patil Amrapali",
+          "Parulekar Shashank",
+          "Rege N N",
+          "Samant B D"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Double-Blind Method",
+          "Edetic Acid",
+          "Female",
+          "Ferric Compounds",
+          "Ferrous Compounds",
+          "Humans",
+          "Iron Chelating Agents",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17915799/"
+      },
+      {
+        "pmid": "11422959",
+        "title": "Intestinal helminth infections, anaemia and labour productivity of female tea pluckers in Bangladesh.",
+        "abstract": "We conducted a randomized clinical intervention trial over 24 weeks on a tea estate in north-east Bangladesh to investigate the effect of iron supplementation and anthelmintic treatment on the labour productivity of adult female tea pluckers. A total of 553 full-time tea pluckers, not pregnant and not breastfeeding, were randomly assigned to one of the four intervention groups: group 1 received iron supplementation on a weekly basis, group 2 received anthelmintic treatment at the beginning and half-way through the trial (week 12), group 3 received both iron supplementation as group 1 and anthelmintic treatment as group 2, and group 4 was a control group and received placebos. No significant difference in labour productivity was found between the four intervention groups over the trial period. However, there was a negative association for all three worms (Ascaris lumbricoides, Trichuris trichiura and hookworms) between the intensity of helminth infections (eggs/g faeces) and all measure",
+        "journal": "Tropical medicine & international health : TM & IH",
+        "year": "2001",
+        "authors": [
+          "Gilgen D D",
+          "Mascie-Taylor C G",
+          "Rosetta L L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Agriculture",
+          "Albendazole",
+          "Anemia, Iron-Deficiency",
+          "Anthelmintics",
+          "Ascariasis",
+          "Bangladesh",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11422959/"
+      },
+      {
+        "pmid": "22053854",
+        "title": "Influence of organic acids on rheological and bread-making characteristics of fortified wheat flour.",
+        "abstract": "Flour was fortified with premix containing ferrous fumarate and folic acid. Organic acids such as citric acid, malic acid and tartaric acid, which are promoters of iron bioavailability, were added at three levels and their influence on rheological and bread-making characteristics was studied. Farinograph water absorption increased with fortificants, but with addition of organic acids there was a decrease. Maximum pressure was 77 mm in control, which increased to 78-88 mm with the addition of different acids to the fortified flour. Addition of organic acids to fortified flour brought about a decrease in peak viscosity, hot paste viscosity, cold paste viscosity and setback values. The L, a and b values of fortified breads were similar to that of control. Sensory analysis revealed marginal differences in the overall quality of breads prepared with fortified flour with the addition of organic acids.",
+        "journal": "International journal of food sciences and nutrition",
+        "year": "2012",
+        "authors": [
+          "Gupta Sheetal",
+          "Shimray Crassina A",
+          "Venkateswara Rao G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acids, Acyclic",
+          "Anemia, Iron-Deficiency",
+          "Biological Availability",
+          "Bread",
+          "Color",
+          "Diet",
+          "Ferrous Compounds",
+          "Flour",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22053854/"
+      },
+      {
+        "pmid": "11424510",
+        "title": "The effect of weekly iron supplementation on anaemia and on iron deficiency among female tea pluckers in Bangladesh.",
+        "abstract": "To investigate the effect of weekly iron supplementation on anaemia and iron deficiency among adult, female tea pluckers.",
+        "journal": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+        "year": "2001",
+        "authors": [
+          "Gilgen D",
+          "Mascie-Taylor C G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Agriculture",
+          "Anemia, Iron-Deficiency",
+          "Bangladesh",
+          "Dietary Supplements",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Erythrocytes",
+          "Female",
+          "Ferritins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11424510/"
+      },
+      {
+        "pmid": "16684385",
+        "title": "Short-term daily or weekly administration of micronutrient Sprinkles has high compliance and does not cause iron overload in Chinese schoolchildren: a cluster-randomised trial.",
+        "abstract": "To examine consumption rates and serum ferritin (SF) concentrations (as a marker of safety) among schoolchildren (3-6 years) provided with daily and weekly micronutrients.",
+        "journal": "Public health nutrition",
+        "year": "2006",
+        "authors": [
+          "Sharieff Waseem",
+          "Yin Shi-An",
+          "Wu Michelle",
+          "Yang Qingjun",
+          "Schauer Claudia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Child, Preschool",
+          "China",
+          "Cluster Analysis",
+          "Dietary Supplements",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Ferritins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16684385/"
+      },
+      {
+        "pmid": "6543133",
+        "title": "On the therapeutic effects of trivalent and divalent iron in iron deficiency anaemia.",
+        "abstract": "The effectiveness of orally administered iron was investigated using three different iron preparations in a randomized study with 3 patient groups, each consisting of 20 subjects with iron deficiency anaemia. Group A received a ferric(III)-dextrin complex, group B Fe(II)-sulfate, and group C Fe(II)-fumarate with vitamins. For all three preparations the increase in the number of erythrocytes as well as hemoglobin and hematocrit values ran absolutely parallel for a period of 12 weeks. A relevant difference between the trivalent ferric-dextrin complex and the two bivalent iron preparations could not be detected on evaluation of the parameters measured except for a moderate increase in the transaminase values in the patients group who received the Fe(II)-sulfate preparation. No differences were found among the preparations with respect to tolerance. The results are discussed with respect to a possible overloading of the iron transport system by highly absorptive Fe(II)-preparations.",
+        "journal": "Arzneimittel-Forschung",
+        "year": "1984",
+        "authors": [
+          "Sas G",
+          "Nemesanszky E",
+          "Bräuer H",
+          "Scheffer K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Hypochromic",
+          "Erythrocyte Count",
+          "Female",
+          "Ferric Compounds",
+          "Ferrous Compounds",
+          "Folic Acid",
+          "Hematocrit",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6543133/"
+      },
+      {
+        "pmid": "3981699",
+        "title": "Haemopoietic response of Nigerian village children to iron, folate supplementation and malaria prophylaxis.",
+        "abstract": "",
+        "journal": "Journal of tropical pediatrics",
+        "year": "1985",
+        "authors": [
+          "Akenzua G I",
+          "Ihongbe J C",
+          "Imasuen I W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Antimalarials",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Ferrous Compounds",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3981699/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:17:18.540591",
+  "success": true,
+  "error_message": null
+}

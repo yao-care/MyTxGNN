@@ -1,0 +1,526 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Chloramphenicol",
+    "disease": "typhus",
+    "query_string": "Chloramphenicol AND typhus"
+  },
+  "data": {
+    "query": "Chloramphenicol AND typhus",
+    "results": [
+      {
+        "pmid": "34109905",
+        "title": "Scrub typhus and antibiotic-resistant Orientia tsutsugamushi.",
+        "abstract": "Introduction: Scrub typhus is one of the most underdiagnosed and under-reported febrile illnesses requiring hospitalization, mainly occurring in Southeast and East Asia and the Pacific Islands, in an area referred to as the 'Tsutsugamushi Triangle.' Scrub typhus is a zoonotic rickettsial disease that is transmitted to humans by trombiculid mites.Areas covered: A MEDLINE/PubMed search of the available literature was performed to describe the role of antibiotic-resistant scrub typhus in therapy failure.Expert opinion: Scrub typhus is characterized by an eschar that may appear 2-3 days before sudden-onset fever with chills, headache, backache, myalgia, profuse sweating, vomiting, and enlarged lymph nodes. A macular or maculopapular skin rash can develop within 3-8 days after the onset of fever. Various antibiotics, such as chloramphenicol, tetracycline, doxycycline, macrolides, quinolones, and rifampicin, have been used to treat scrub typhus. Resistance to tetracycline has been proposed t",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2021",
+        "authors": [
+          "Lu Chin-Te",
+          "Wang Lih-Shinn",
+          "Hsueh Po-Ren"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Doxycycline",
+          "Humans",
+          "Orientia tsutsugamushi",
+          "Scrub Typhus",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34109905/"
+      },
+      {
+        "pmid": "35934229",
+        "title": "Clinical outcomes of doxycycline, azithromycin and chloramphenicol for the treatment of patients with severe scrub typhus.",
+        "abstract": "Previous studies have evaluated treatment efficacy of various antibiotics for patients with mild-to-moderate scrub typhus (ST). However, the efficacy of different antibiotics for treating severe ST remains uncertain.",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2022",
+        "authors": [
+          "Guan Xiu-Gang",
+          "Zhou Shi-Xia",
+          "Zhang An-Ran",
+          "Lu Qing-Bin",
+          "Zhou Zi-Wei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Chloramphenicol",
+          "Doxycycline",
+          "Humans",
+          "Respiratory Distress Syndrome",
+          "Retrospective Studies",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35934229/"
+      },
+      {
+        "pmid": "31570937",
+        "title": "Scrub Typhus and the Misconception of Doxycycline Resistance.",
+        "abstract": "Scrub typhus, a neglected infectious disease caused by the obligate intracellular bacterium Orientia tsutsugamushi, is a major cause of fever across the Asia Pacific region with more than a billion people at risk. Treatment with antibiotics such as doxycycline or chloramphenicol is effective for the majority of patients. In the 1990s, reports from northern Thailand raised a troubling observation; some scrub typhus patients responded poorly to doxycycline, which investigators attributed to doxycycline resistance. Despite the controversial nature of these reports, independent verification was neglected, with subsequent studies speculating on the role of doxycycline resistance in contributing to failure of treatment or prophylaxis. In this review, we have outlined the evidence for drug-resistant Orientia tsutsugamushi, assessed the evidence for doxycycline resistance, and highlight more recent findings unsupportive of doxycycline resistance. We conclude that doxycycline resistance is a mi",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2020",
+        "authors": [
+          "Wangrangsimakul Tri",
+          "Phuklia Weerawat",
+          "Newton Paul N",
+          "Richards Allen L",
+          "Day Nicholas P J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Doxycycline",
+          "Humans",
+          "Orientia tsutsugamushi",
+          "Scrub Typhus",
+          "Thailand"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31570937/"
+      },
+      {
+        "pmid": "3364949",
+        "title": "Chloramphenicol, gentamicin, and ciprofloxacin against murine scrub typhus.",
+        "abstract": "Ciprofloxacin (120 mg/kg of body weight per day), chloramphenicol (300 mg/kg per day), and gentamicin (30 mg/kg per day) were compared with placebo in a BALB/cj mouse model of scrub typhus. All animals treated with ciprofloxacin and chloramphenicol survived. All animals treated with gentamicin or placebo died. All surviving animals showed evidence of seroconversion. Ciprofloxacin and chloramphenicol were statistically more effective in preventing death than gentamicin or placebo.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1988",
+        "authors": [
+          "McClain J B",
+          "Joshi B",
+          "Rice R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Chloramphenicol",
+          "Ciprofloxacin",
+          "Female",
+          "Gentamicins",
+          "Mice",
+          "Mice, Inbred BALB C",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3364949/"
+      },
+      {
+        "pmid": "28461826",
+        "title": "Effects of clarithromycin treatment in scrub typhus in children: comparison with chloramphenicol and azithromycin.",
+        "abstract": "Chloramphenicol and tetracycline are not recommended for treating scrub typhus in pediatric patients because of potential side effects, such as aplastic anemia or tooth discoloration. While clarithromycin has recently been used in adults, few reports have been published on its effects in pediatric patients. We report the clinical profiles of pediatric scrub typhus and the effects of clarithromycin on scrub typhus in children.",
+        "journal": "Korean journal of pediatrics",
+        "year": "2017",
+        "authors": [
+          "Lee Min",
+          "Kim June",
+          "Jo Dae Sun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28461826/"
+      },
+      {
+        "pmid": "40305823",
+        "title": "The discovery of chloramphenicol treatment for both scrub typhus and typhoid fever.",
+        "abstract": "",
+        "journal": "MSMR",
+        "year": "2025",
+        "authors": [
+          "Shanks G Dennis"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40305823/"
+      },
+      {
+        "pmid": "26937940",
+        "title": "Successful Treatment of Scrub Typhus-Associated Hemophagocytic Lymphohistiocytosis With Chloramphenicol: Report of 3 Pediatric Cases and Literature Review.",
+        "abstract": "Scrub typhus is caused by Orientia tsutsugamushi. Any delay in diagnosis can result in delayed treatment and severe complications, including secondary hemophagocytic lymphohistiocytosis, which is rare but potentially fatal.In this paper, the authors present 3 cases of secondary hemophagocytic lymphohistiocytosis associated with scrub typhus, successfully treated with chloramphenicol without additional antineoplastic therapy. All patients cured and achieved complete resolution.This report highlights the effectiveness of chloramphenicol without the need for chemotherapy in the treatment of scrub typhus-associated hemophagocytic lymphohistiocytosis in a pediatric population under the age of 8 years.",
+        "journal": "Medicine",
+        "year": "2016",
+        "authors": [
+          "Zhou Yong-Hai",
+          "Xia Fang-Qing",
+          "Van Poucke Sven",
+          "Zheng Ming-Hua"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "China",
+          "Chloramphenicol",
+          "Female",
+          "Humans",
+          "Lymphohistiocytosis, Hemophagocytic",
+          "Male",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26937940/"
+      },
+      {
+        "pmid": "23825810",
+        "title": "Scrub typhus.",
+        "abstract": "Scrub typhus is an acute febrile illness caused by orientia tsutsugamushi, transmitted to humans by the bite of the larva of trombiculid mites. It causes a disseminated vasculitic and perivascular inflammatory lesions resulting in significant vascular leakage and end-organ injury. It affects people of all ages and even though scrub typhus in pregnancy is uncommon, it is associated with increased foetal loss, preterm delivery, and small for gestational age infants. After an incubation period of 6-21 days, onset is characterized by fever, headache, myalgia, cough, and gastrointestinal symptoms. A primary papular lesion which later crusts to form a flat black eschar, may be present. If untreated, serious complications may occur involving various organs. Laboratory studies usually reveal leukopenia, thrombocytopenia, deranged hepatic and renal function, proteinuria and reticulonodular infiltrate. Owing to the potential for severe complications, diagnosis, and decision to initiate treatment",
+        "journal": "Indian journal of anaesthesia",
+        "year": "2013",
+        "authors": [
+          "Rapsang Amy G",
+          "Bhattacharyya Prithwis"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23825810/"
+      },
+      {
+        "pmid": "4716429",
+        "title": "Scrub typhus. A comparison of chloramphenicol and tetracycline in its treatment.",
+        "abstract": "",
+        "journal": "Archives of internal medicine",
+        "year": "1973",
+        "authors": [
+          "Sheehy T W",
+          "Hazlett D",
+          "Turk R E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Albuminuria",
+          "Anemia",
+          "Arrhythmias, Cardiac",
+          "Aspartate Aminotransferases",
+          "Chloramphenicol",
+          "Conjunctivitis",
+          "Evaluation Studies as Topic",
+          "Fever",
+          "Hepatomegaly",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4716429/"
+      },
+      {
+        "pmid": "26261776",
+        "title": "Severe scrub typhus infection: Clinical features, diagnostic challenges and management.",
+        "abstract": "Scrub typhus infection is an important cause of acute undifferentiated fever in South East Asia. The clinical picture is characterized by sudden onset fever with chills and non-specific symptoms that include headache, myalgia, sweating and vomiting. The presence of an eschar, in about half the patients with proven scrub typhus infection and usually seen in the axilla, groin or inguinal region, is characteristic of scrub typhus. Common laboratory findings are elevated liver transaminases, thrombocytopenia and leukocytosis. About a third of patients admitted to hospital with scrub typhus infection have evidence of organ dysfunction that may include respiratory failure, circulatory shock, mild renal or hepatic dysfunction, central nervous system involvement or hematological abnormalities. Since the symptoms and signs are non-specific and resemble other tropical infections like malaria, enteric fever, dengue or leptospirosis, appropriate laboratory tests are necessary to confirm diagnosis.",
+        "journal": "World journal of critical care medicine",
+        "year": "2015",
+        "authors": [
+          "Peter John Victor",
+          "Sudarsan Thomas I",
+          "Prakash John Anthony J",
+          "Varghese George M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26261776/"
+      },
+      {
+        "pmid": "30270920",
+        "title": "The Historical Case for and the Future Study of Antibiotic-Resistant Scrub Typhus.",
+        "abstract": "Scrub typhus is an acute, and sometimes fatal, human febrile illness, typically successfully treated using chloramphenicol or one of the tetracyclines. Over the past several years, descriptions of strains of Orientia tsutsugamushi with reduced susceptibility to antibiotics have appeared. Because case-fatality ratios approached 50% during the pre-antibiotic era, antibiotic-resistant scrub typhus is concerning. Herein, we review the data on resistant scrub typhus, describe how the theoretical existence of such resistance is affected by interpretation of treatment outcomes, and propose a plan to further identify whether true drug resistance is present and how to deal with drug resistance if it has evolved. Limited resistance is not unambiguous, if present, and antibiotic resistance in scrub typhus is not a dichotomous trait. Rather, evidence of resistance shows a continuous gradation of increasing resistance. The availability of genomes from isolates of O. tsutsugamushi allows the search ",
+        "journal": "Tropical medicine and infectious disease",
+        "year": "2017",
+        "authors": [
+          "Kelly Daryl J",
+          "Fuerst Paul A",
+          "Richards Allen L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30270920/"
+      },
+      {
+        "pmid": "14918542",
+        "title": "[Chloramphenicol and typhus abdominalis].",
+        "abstract": "",
+        "journal": "Lekarske listy",
+        "year": "1952",
+        "authors": [
+          "SEL B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Humans",
+          "Hyperthermia, Induced",
+          "Typhoid Fever",
+          "Typhoid-Paratyphoid Vaccines",
+          "Typhus, Epidemic Louse-Borne"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14918542/"
+      },
+      {
+        "pmid": "29253266",
+        "title": "Drug treatment of scrub typhus: a systematic review and meta-analysis of controlled clinical trials.",
+        "abstract": "Scrub typhus, a potentially fatal infection caused by the pathogen Orientia tsutsugamushi, has a wide geographical distribution. This systematic review analyses the evidence from prospective controlled clinical studies for the efficacy of antibiotics in the treatment of scrub typhus. PubMed, Embase, Scopus, Cochrane Library, CINAHL and clinical trial registries in China, India and Sri Lanka were searched for controlled prospective clinical trials (randomized, quasi-randomized or non-randomized) enrolling patients with confirmed scrub typhus for treatment with antibiotics. The PROSPERO registration number for this review is CRD42017071374. Eleven studies (from Southeast Asia and China) that enrolled 957 patients into 28 study groups met the inclusion criteria. Doxycycline was the most frequent comparator with other antibiotics. Chloramphenicol, tetracycline and azithromycin (limited evidence for roxithromycin, telithromycin, levofloxacin and rifampicin) had equal efficacy to doxycycline",
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "year": "2017",
+        "authors": [
+          "Wee Ian",
+          "Lo Adeline",
+          "Rodrigo Chaturaka"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Controlled Clinical Trials as Topic",
+          "Humans",
+          "Prospective Studies",
+          "Scrub Typhus",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29253266/"
+      },
+      {
+        "pmid": "25704650",
+        "title": "Scrub typhus in rural Rajasthan and a review of other Indian studies.",
+        "abstract": "Scrub typhus is an acute febrile illness which has been reported from various parts of India with Rajasthan recently joining the list of affected states.",
+        "journal": "Paediatrics and international child health",
+        "year": "2016",
+        "authors": [
+          "Masand Rupesh",
+          "Yadav Ritesh",
+          "Purohit Alok",
+          "Tomar Balvir Singh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "India",
+          "Male",
+          "Retrospective Studies",
+          "Rural Population"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25704650/"
+      },
+      {
+        "pmid": "35570886",
+        "title": "Evaluation of the Therapeutic Effect of Antibiotics on Scrub Typhus: A Systematic Review and Network Meta-Analysis.",
+        "abstract": "To explore the efficacy and safety of drugs in patients with scrub typhus.",
+        "journal": "Frontiers in public health",
+        "year": "2022",
+        "authors": [
+          "Lu Dafeng",
+          "Wang Taiwu",
+          "Luo Zhenghan",
+          "Ye Fuqiang",
+          "Qian Jiaojiao"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Child",
+          "Chloramphenicol",
+          "Female",
+          "Humans",
+          "Moxifloxacin",
+          "Rifampin",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35570886/"
+      },
+      {
+        "pmid": "34124995",
+        "title": "The epidemiology, diagnosis and management of scrub typhus disease in China.",
+        "abstract": "Thirty-nine years ago, scrub typhus (ST), a disease, was not among the China's notifiable diseases. However, ST has reemerged to become a growing public health issue in the southwest part of China. The major factors contributing to an increased incidence and prevalence of this disease include rapid globalization, urbanization, expansion of humans into previously uninhabited areas, and climate change. The clinical manifestation of ST also consists of high fever, headache, weakness, myalgia, rash, and an eschar. In severe cases, complications (e.g. multi-organ failure, jaundice, acute renal failure, pneumonitis, myocarditis, and even death) can occur. The diagnosis of ST is mainly based on serological identification by indirect immunofluorescence assay and other molecular methods. Furthermore, several groups of antibiotics (e.g. tetracycline, chloramphenicol, macrolides, and rifampicin) are currently effective in treating this disease. This fact suggests the need for robust early diagnos",
+        "journal": "Human vaccines & immunotherapeutics",
+        "year": "2021",
+        "authors": [
+          "Musa Taha Hussein",
+          "Ahmad Tauseef",
+          "Wana Mohammed Nasiru",
+          "Li Wei",
+          "Musa Hassan Hussein"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "China",
+          "Fluorescent Antibody Technique, Indirect",
+          "Humans",
+          "Orientia tsutsugamushi",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34124995/"
+      },
+      {
+        "pmid": "27514949",
+        "title": "Scrub typhus and spotted fever among hospitalised children in South India: Clinical profile and serological epidemiology.",
+        "abstract": "Rickettsial infections are re-emerging. In India, they are now being reported from several areas where they were previously unknown.",
+        "journal": "Indian journal of medical microbiology",
+        "year": "2016",
+        "authors": [
+          "Kalal B S",
+          "Puranik P",
+          "Nagaraj S",
+          "Rego S",
+          "Shet A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antibodies, Bacterial",
+          "Boutonneuse Fever",
+          "Child",
+          "Child, Preschool",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Female",
+          "Hospitalization",
+          "Humans",
+          "Immunoglobulin G"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27514949/"
+      },
+      {
+        "pmid": "35724826",
+        "title": "The efficacy and tolerability of antibiotics in scrub typhus: an updated network meta-analysis of randomized controlled trials.",
+        "abstract": "Inadequate treatment of scrub typhus results in severe complications such as septic shock and is also associated with a high median mortality rate of 6%. However, there has been no conclusive evidence about the superiority of different antibiotics in managing scrub typhus in terms of efficacy and tolerability.",
+        "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "year": "2022",
+        "authors": [
+          "Zeng Bing-Syuan",
+          "Zeng Bing-Yan",
+          "Hung Chao-Ming",
+          "Kuo Hung-Chang",
+          "Chen Yen-Wen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Chloramphenicol",
+          "Doxycycline",
+          "Humans",
+          "Minocycline",
+          "Orientia tsutsugamushi",
+          "Randomized Controlled Trials as Topic",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35724826/"
+      },
+      {
+        "pmid": "13180818",
+        "title": "Treatment of scrub typhus in the Pescadores Islands with chloramphenicol, aureomycin and terramycin.",
+        "abstract": "",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "1954",
+        "authors": [
+          "PREZYNA A P",
+          "CHANG T L",
+          "WANG T L",
+          "DOUGHERTY W J",
+          "BOND H B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Disease",
+          "Islands",
+          "Military Personnel",
+          "Oxytetracycline",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13180818/"
+      },
+      {
+        "pmid": "24540605",
+        "title": "Treatment of scrub typhus: evaluation of chloramphenicol, aureomycin, terramycin and para-aminobenzoic acid.",
+        "abstract": "",
+        "journal": "Antibiotics & chemotherapy (Northfield, Ill.)",
+        "year": "1951",
+        "authors": [
+          "BAILEY C A",
+          "LEY H L",
+          "DIERCKS F H",
+          "LEWTHWAITE R",
+          "SMADEL J E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "4-Aminobenzoic Acid",
+          "Anti-Bacterial Agents",
+          "Antibiotics, Antitubercular",
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Dermatologic Agents",
+          "Humans",
+          "Oxytetracycline",
+          "Scrub Typhus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24540605/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:37:09.497560",
+  "success": true,
+  "error_message": null
+}

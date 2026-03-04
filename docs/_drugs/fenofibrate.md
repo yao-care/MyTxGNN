@@ -6,7 +6,7 @@ drug_name: "Fenofibrate"
 kg_predictions: 78
 dl_predictions: 86
 evidence_level: "L1"
-indication_count: 78
+indication_count: 5
 brands: []
 permalink: /drugs/fenofibrate/
 ---

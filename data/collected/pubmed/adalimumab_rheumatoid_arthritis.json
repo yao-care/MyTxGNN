@@ -1,0 +1,591 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "rheumatoid arthritis",
+    "query_string": "Adalimumab AND rheumatoid arthritis"
+  },
+  "data": {
+    "query": "Adalimumab AND rheumatoid arthritis",
+    "results": [
+      {
+        "pmid": "35121639",
+        "title": "Long-term safety and efficacy of upadacitinib or adalimumab in patients with rheumatoid arthritis: results through 3 years from the SELECT-COMPARE study.",
+        "abstract": "To assess the long-term safety and efficacy of the Janus kinase inhibitor upadacitinib versus adalimumab over 3 years in the ongoing long-term extension (LTE) of SELECT-COMPARE, a randomised controlled phase 3 trial of patients with active rheumatoid arthritis and inadequate response to methotrexate (MTX).",
+        "journal": "RMD open",
+        "year": "2022",
+        "authors": [
+          "Fleischmann Roy",
+          "Mysler Eduardo",
+          "Bessette Louis",
+          "Peterfy Charles G",
+          "Durez Patrick"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Heterocyclic Compounds, 3-Ring",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35121639/"
+      },
+      {
+        "pmid": "40038288",
+        "title": "Single cell immunoprofile of synovial fluid in rheumatoid arthritis with TNF/JAK inhibitor treatment.",
+        "abstract": "Numerous patients with rheumatoid arthritis (RA) manifest severe syndromes, including elevated synovial fluid volumes (SF) with abundant immune cells, which can be controlled by TNF/JAK inhibitors. Here, we apply single-cell RNA sequencing (scRNA-seq) and subsequent validations in SF from RA patients. These analyses of synovial tissue show reduced density of SF-derived pathogenic cells (e.g., SPP1+ macrophages and CXCL13+CD4+ T cells), altered gene expression (e.g., SPP1 and STAT1), molecular pathway changes (e.g., JAK/STAT), and cell-cell communications in drug-specific manners in samples from patients pre-/post-treated with adalimumab/tofacitinib. Particularly, SPP1+ macrophages exhibit pronounced communication with CXCL13+CD4+ T cells, which are abolished after treatment and correlate with treatment efficacy. These pathogenic cell types alone or in combination can augment inflammation of fibroblast-like synoviocytes in vitro, while conditional Spp1 knocking-out reduces RA-related cy",
+        "journal": "Nature communications",
+        "year": "2025",
+        "authors": [
+          "Xia Xuyang",
+          "He Chenjia",
+          "Xue Zhinan",
+          "Wang Yuelan",
+          "Qin Yun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Synovial Fluid",
+          "Humans",
+          "Animals",
+          "Mice",
+          "Adalimumab",
+          "Single-Cell Analysis",
+          "Macrophages",
+          "Male",
+          "Janus Kinase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40038288/"
+      },
+      {
+        "pmid": "33889152",
+        "title": "Efficacy and Safety of Adalimumab Biosimilars: Current Critical Clinical Data in Rheumatoid Arthritis.",
+        "abstract": "Adalimumab, as a TNF inhibitor biologic for the treatment of rheumatoid arthritis, is one of the top-selling drugs worldwide. As its various patents have gradually expired, experiments on its biosimilars are constantly being implemented. In this review, we summarized clinical trials of seven biosimilars currently approved by the FDA and/or EMA for the treatment of rheumatoid arthritis, namely: ABP 501 (Amjevita/Amgevita/Solymbic), BI 695501 (Cyltezo), SB5 (Imraldi/Hadlima), GP2017 (Hyrimoz/Hefiya/Halimatoz), MSB11022 (Idacio), FKB327 (Hulio), and PF-06410293 (Abrilada). Overall, these biosimilars showed similar efficacy, safety, and immunogenicity to adalimumab. All biosimilar switching trials indicated that switching from adalimumab to a biosimilar does not have a significant impact on efficacy, safety, and immunogenicity.",
+        "journal": "Frontiers in immunology",
+        "year": "2021",
+        "authors": [
+          "Lu XiaoQin",
+          "Hu Rui",
+          "Peng Lin",
+          "Liu MengSi",
+          "Sun Zhen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Biosimilar Pharmaceuticals",
+          "Clinical Trials as Topic",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33889152/"
+      },
+      {
+        "pmid": "39977004",
+        "title": "Comparison of the efficacy of Janus kinase inhibitors and adalimumab in rheumatoid arthritis: a meta-analysis.",
+        "abstract": "Rheumatoid arthritis (RA) is a prevalent autoimmune disorder. This study examines the comparative efficacy of Janus kinase inhibitors (JAKi) and adalimumab (ADA) in managing RA.",
+        "journal": "Clinical and experimental rheumatology",
+        "year": "2025",
+        "authors": [
+          "Zhou Qiang",
+          "Zhu Sidong",
+          "Dai Senjie",
+          "Wu Qingping",
+          "Zheng Jiahao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Arthritis, Rheumatoid",
+          "Adalimumab",
+          "Janus Kinase Inhibitors",
+          "Antirheumatic Agents",
+          "Treatment Outcome",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39977004/"
+      },
+      {
+        "pmid": "30094742",
+        "title": "Review of Biosimilar Trials and Data on Adalimumab in Rheumatoid Arthritis.",
+        "abstract": "Adalimumab is one of the top-selling drugs worldwide. Its imminent patent expiration has seen the emergence of numerous biosimilar agents. In this article, we recap the evidence from bio-originator trials in rheumatoid arthritis (RA) to provide context for a critical review of biosimilar trial data.",
+        "journal": "Current rheumatology reports",
+        "year": "2018",
+        "authors": [
+          "Zhao Sizheng",
+          "Chadwick Laura",
+          "Mysler Eduardo",
+          "Moots Robert J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Biosimilar Pharmaceuticals",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30094742/"
+      },
+      {
+        "pmid": "31362993",
+        "title": "Safety and effectiveness of upadacitinib or adalimumab plus methotrexate in patients with rheumatoid arthritis over 48 weeks with switch to alternate therapy in patients with insufficient response.",
+        "abstract": "In SELECT-COMPARE, a randomised double-blind study, upadacitinib 15 mg once daily was superior to placebo or adalimumab on background methotrexate (MTX) for treating rheumatoid arthritis signs and symptoms and inhibited radiographical progression versus placebo at 26 weeks. Here we report 48-week safety and efficacy in patients who continued their original medication or were rescued to the alternative medication for insufficient response.",
+        "journal": "Annals of the rheumatic diseases",
+        "year": "2019",
+        "authors": [
+          "Fleischmann Roy M",
+          "Genovese Mark C",
+          "Enejosa Jeffrey V",
+          "Mysler Eduardo",
+          "Bessette Louis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Disease Progression",
+          "Double-Blind Method",
+          "Drug Substitution",
+          "Drug Therapy, Combination",
+          "Female",
+          "Heterocyclic Compounds, 3-Ring"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31362993/"
+      },
+      {
+        "pmid": "15379777",
+        "title": "Adalimumab: efficacy and safety in psoriasis and rheumatoid arthritis.",
+        "abstract": "The next generation of targeted biologic therapies for psoriasis will either be directed against new protein targets or improve on the efficacy, safety, or convenience of medications available for an already validated area in the immune response. Adalimumab is a fully human monoclonal antibody directed against tumor necrosis factor-alpha, a central cytokine in the immune response in psoriasis that has already been shown to be an effective target for therapy. This medication is approved by the US Food and Drug Administration (USFDA) for the treatment of rheumatoid arthritis. Early phrase II studies with adalimumab have shown excellent efficacy for psoriasis with either weekly or every other week subcutaneous injection. Moreover, the safety and tolerability of adalimumab in large clinical studies of rheumatoid arthritis have shown good results. Thus, adalimumab shows significant promise for the therapy of psoriasis in the future.",
+        "journal": "Dermatologic therapy",
+        "year": "2004",
+        "authors": [
+          "Patel Toral",
+          "Gordon Kenneth B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Psoriasis",
+          "Tumor Necrosis Factor-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15379777/"
+      },
+      {
+        "pmid": "17223742",
+        "title": "Adalimumab for rheumatoid arthritis.",
+        "abstract": "In the last few years significant advances have been made in our understanding of the molecular mechanisms underlying rheumatoid arthritis pathogenesis. Pro-inflammatory cytokines, such as TNF-alpha, play a pivotal role in its pathogenesis. Anti-TNF-alpha biological agents are considered a major advance in the treatment of rheumatoid arthritis. Adalimumab is a fully human monoclonal antibody that binds specifically to TNF-alpha, thereby neutralising its activity. It had significant efficacy in well-designed, placebo-controlled trials in patients suffering from rheumatoid arthritis, both as monotherapy and in combination with various disease-modifying antirheumatic drugs, including methotrexate. Adalimumab was generally well tolerated during both concomitant therapy with methotrexate or standard antirheumatic therapy and monotherapy. In addition, the radiographic progression of structural joint damage was significantly inhibited by adalimumab and improved quality of life. This review su",
+        "journal": "Expert opinion on biological therapy",
+        "year": "2006",
+        "authors": [
+          "Voulgari Paraskevi V",
+          "Drosos Alexandros A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Tumor Necrosis Factor-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17223742/"
+      },
+      {
+        "pmid": "26200188",
+        "title": "Serious infection during etanercept, infliximab and adalimumab therapy for rheumatoid arthritis: A literature review.",
+        "abstract": "The purpose of this review is to establish whether there is a significantly increased incidence of serious infections during treatment for rheumatoid arthritis (RA) with etanercept, infliximab or adalimumab, to determine the background risk of serious infection in RA patients without treatment with any biological therapy and to ascertain which organisms are involved in serious infections in RA patients while being treated with etanercept, infliximab or adalimumab. Randomised controlled trials (RCTs), meta-analyses of RCTs, Cochrane reviews, national registry articles and case reports were identified using PubMed/MEDLINE, The Cochrane Library and Google Scholar. The medical subject heading \"rheumatoid arthritis\" was combined with \"serious infection\" or \"infection\" or \"adverse drug events\" with each of the three reference biological therapies separately: etanercept, infliximab and adalimumab. These electronic searches were limited to human studies, adult studies, those published in the l",
+        "journal": "International journal of rheumatic diseases",
+        "year": "2016",
+        "authors": [
+          "Downey Colum"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Bacterial Infections",
+          "Etanercept",
+          "Humans",
+          "Immunocompromised Host",
+          "Infliximab",
+          "Opportunistic Infections",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26200188/"
+      },
+      {
+        "pmid": "27421721",
+        "title": "Detection of adalimumab and anti-adalimumab antibodies in patients with rheumatoid arthritis: a comprehensive overview of methodology pitfalls and benefits.",
+        "abstract": "About a third of patients with rheumatoid arthritis treated with adalimumab may develop anti-adalimumab antibodies. Anti-adalimumab antibodies are associated with reduced drug levels, loss of drug efficacy, clinical non-response and an increased risk of adverse effects. In case of suspected drug failure and in order to better define clinical efficacy, adalimumab as well as anti-adalimumab antibodies levels should be monitored. Sandwich or indirect enzyme-linked immunoassay is most commonly used for determining adalimumab, while bridging ELISA and antigen-binding test are most useful for determining anti-adalimumab antibodies. Most current assays cannot detect antibodies complexed with the adalimumab; however, methods for dissociation of the complexes using acid/temperature have been developed. The aim of this review is to report on the latest methodology for detecting adalimumab and anti-ADL antibodies, benefits of their detections in clinical practice, as well as expose problematic is",
+        "journal": "Immunologic research",
+        "year": "2017",
+        "authors": [
+          "Ogrič Manca",
+          "Terčelj Matic",
+          "Praprotnik Sonja",
+          "Tomšič Matija",
+          "Božič Borut"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Immunoassay"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27421721/"
+      },
+      {
+        "pmid": "39537558",
+        "title": "Therapeutic serum level for adalimumab in rheumatoid arthritis: explorative analyses of data from a randomised phase III trial.",
+        "abstract": "The objectives of this study are to identify a therapeutic serum level for adalimumab associated with remission and low disease activity in patients with rheumatoid arthritis.",
+        "journal": "RMD open",
+        "year": "2024",
+        "authors": [
+          "Gehin Johanna Elin",
+          "Klaasen Rolf Anton",
+          "Klami Kristianslund Eirik",
+          "Jyssum Ingrid",
+          "Sexton Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Humans",
+          "Arthritis, Rheumatoid",
+          "Female",
+          "Male",
+          "Antirheumatic Agents",
+          "Middle Aged",
+          "Treatment Outcome",
+          "Severity of Illness Index",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39537558/"
+      },
+      {
+        "pmid": "19707765",
+        "title": "A systematic review and meta-analysis of the efficacy and safety of adalimumab for treating rheumatoid arthritis.",
+        "abstract": "Adalimumab (ADA) is a monoclonal antibody. Published studies indicate that its use in patients with rheumatoid arthritis can be efficient in providing long-term benefits. The aim of this study is to evaluate the efficacy and safety of ADA for treating rheumatoid arthritis. A systematic review was performed to search for randomized clinical trials that compare subcutaneous doses of ADA 20 mg weekly or 40 mg every other week with placebo, with or without concomitant methotrexate. Only studies of moderate or high quality were included. A meta-analysis was conducted to assess the efficacy (based in changes of American College of Rheumatology ACR criteria) and the safety (based in serious adverse events, serious infections, malignancy and deaths) of ADA use. Withdrawals due to adverse events or lack of efficacy were also evaluated. Eight studies met the inclusion criteria, comprising 2,692 patients. In the efficacy meta-analysis, a greater number of ADA-treated patients relative to those in",
+        "journal": "Rheumatology international",
+        "year": "2010",
+        "authors": [
+          "Wiens Astrid",
+          "Correr Cassyano Januário",
+          "Venson Rafael",
+          "Otuki Michel Fleith",
+          "Pontarolo Roberto"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Outcome Assessment, Health Care",
+          "Placebos",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19707765/"
+      },
+      {
+        "pmid": "21554150",
+        "title": "Efficacy and safety of adalimumab treatment in patients with rheumatoid arthritis, ankylosing spondylitis and psoriatic arthritis.",
+        "abstract": "In the last couple of years, the number of patients with chronic inflammatory rheumatic diseases being treated with TNF α antagonist has increased dramatically. Adalimumab, a fully human monoclonal antibody against TNF α, is one of the most frequently administered TNF α antagonists. Yet, unresolved issues are the long-term safety of TNF α antagonists and high treatment costs.",
+        "journal": "Expert opinion on drug safety",
+        "year": "2011",
+        "authors": [
+          "Poddubnyy Denis",
+          "Rudwaleit Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Animals",
+          "Antibodies, Monoclonal, Humanized",
+          "Arthritis, Psoriatic",
+          "Arthritis, Rheumatoid",
+          "Clinical Trials as Topic",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Radiography",
+          "Spondylitis, Ankylosing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21554150/"
+      },
+      {
+        "pmid": "35285489",
+        "title": "Successful switching treatment of adalimumab for refractory pyoderma gangrenosum in a patient with rheumatoid arthritis with prior use of tumour necrosis factor inhibitors: A case report and review of the literature.",
+        "abstract": "Pyoderma gangrenosum (PG) is a rare chronic skin disease characterised by painful skin ulcers. There are no treatment guidelines for PG, but systemic treatments including biologics are often used. Recently, adalimumab (ADA), a fully human monoclonal antibody against tumour necrosis factor, was approved for refractory PG treatment in Japan. Herein, we report a case of rheumatoid arthritis with refractory PG 2 months after orthopaedic surgery of the foot during treatment with low-dose etanercept and methotrexate. Although adding a moderate dose of glucocorticoid did not improve her PG, the patient showed a remarkable response after switching from etanercept to ADA in a higher dose than that used to treat rheumatoid arthritis. This higher dose of ADA may be effective for the treatment of refractory PG after the failure of other tumour necrosis factor inhibitors.",
+        "journal": "Modern rheumatology case reports",
+        "year": "2023",
+        "authors": [
+          "Ohmura Shin-Ichiro",
+          "Homma Yoichiro",
+          "Hanai Shiho",
+          "Otsuki Yoshiro",
+          "Miyamoto Toshiaki"
+        ],
+        "pub_types": [
+          "Review",
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Adalimumab",
+          "Etanercept",
+          "Tumor Necrosis Factor Inhibitors",
+          "Infliximab",
+          "Pyoderma Gangrenosum",
+          "Antibodies, Monoclonal, Humanized",
+          "Receptors, Tumor Necrosis Factor",
+          "Immunoglobulin G"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35285489/"
+      },
+      {
+        "pmid": "25747348",
+        "title": "Rheumatoid arthritis: Perioperative management of biologics and DMARDs.",
+        "abstract": "Arthroplasty remains prevalent for patients with rheumatoid arthritis (RA), but outcomes are not equivalent to patients with osteoarthritis, and complications including infection are increased. The objective of this article is to review the current evidence supporting perioperative medication management. Challenges are discussed such as continuing potent disease-modifying therapy (DMARDs) and biologics, which may increase infection risk, versus withholding these medications, which may result in disease flares.",
+        "journal": "Seminars in arthritis and rheumatism",
+        "year": "2015",
+        "authors": [
+          "Goodman Susan M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abatacept",
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Arthroplasty, Replacement",
+          "Biological Products",
+          "Etanercept",
+          "Humans",
+          "Hydroxychloroquine",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25747348/"
+      },
+      {
+        "pmid": "15883612",
+        "title": "Adalimumab therapy: clinical findings and implications for integration into clinical guidelines for rheumatoid arthritis.",
+        "abstract": "Adalimumab (Humira) is the first fully human monoclonal anti-tumor necrosis factor (TNF) antibody available. Similar to the other TNF-alpha blockers, adalimumab has been shown to effectively reduce the symptoms and signs of rheumatoid arthritis and prevent the progression of erosive joint changes seen on radiological examination, which would lead to disabling joint damage. Clinical guidelines recommend the use of TNF blockers, specifically etanercept and infliximab (the only two available when the guidelines were issued) as treatment options for adults with rheumatoid arthritis who continue to have clinically active disease that has not responded adequately to two conventional disease-modifying antirheumatic drugs (DMARDs). The clinical results available using adalimumab, and summarized in this review, reveal a clinical profile similar to etanercept and infliximab, achieving similarly high response rates, suppression of joint damage, and improvements in quality of life and disability, ",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2005",
+        "authors": [
+          "Emery Paul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Arthritis, Rheumatoid",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Practice Guidelines as Topic",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15883612/"
+      },
+      {
+        "pmid": "35031874",
+        "title": "Rheumatoid arthritis and myasthenia gravis: a case-based review of the therapeutic options.",
+        "abstract": "Myasthenia gravis is an autoimmune disease affecting the neuromuscular junction, often associated with other autoimmune diseases, including rheumatoid arthritis. Patients with rheumatoid arthritis present an increased prevalence of myasthenia gravis compared to the general population. While these two diseases share some therapeutic options, such as glucocorticoids, methotrexate, and rituximab, there are no guidelines for treating concomitant disease. We aim to review the available evidence and to discuss the efficacy and safety of the therapeutic options in patients with rheumatoid arthritis associated with myasthenia gravis.",
+        "journal": "Clinical rheumatology",
+        "year": "2022",
+        "authors": [
+          "Bixio Riccardo",
+          "Bertelle Davide",
+          "Pistillo Francesca",
+          "Pedrollo Elisa",
+          "Carletto Antonio"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Arthritis, Rheumatoid",
+          "Female",
+          "Humans",
+          "Janus Kinase Inhibitors",
+          "Male",
+          "Methotrexate",
+          "Middle Aged",
+          "Myasthenia Gravis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35031874/"
+      },
+      {
+        "pmid": "31896550",
+        "title": "Adalimumab-induced photosensitivity and oral erosions in rheumatoid arthritis.",
+        "abstract": "",
+        "journal": "Postgraduate medical journal",
+        "year": "2020",
+        "authors": [
+          "Thakur Vishal",
+          "Bakshi Shirin",
+          "Bishnoi Anuradha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Female",
+          "Humans",
+          "Mouth Diseases",
+          "Photosensitivity Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31896550/"
+      },
+      {
+        "pmid": "23838092",
+        "title": "Efficacy of treatment intensification with adalimumab, etanercept and infliximab in rheumatoid arthritis: a systematic review of cohort studies with focus on dose.",
+        "abstract": "To summarize the empirical evidence regarding the effect of treatment intensification on clinical outcomes in patients with rheumatoid arthritis treated with one of the TNF-α-inhibitors, adalimumab, etanercept or infliximab.",
+        "journal": "Seminars in arthritis and rheumatism",
+        "year": "2013",
+        "authors": [
+          "Eng Grith",
+          "Stoltenberg Michael B",
+          "Szkudlarek Marcin",
+          "Bouchelouche Pierre N",
+          "Christensen Robin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Dose-Response Relationship, Drug",
+          "Etanercept",
+          "Humans",
+          "Immunoglobulin G",
+          "Infliximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23838092/"
+      },
+      {
+        "pmid": "33183071",
+        "title": "Preclinical discovery and development of adalimumab for the treatment of rheumatoid arthritis.",
+        "abstract": "Introduction: Rheumatoid arthritis (RA) is an autoimmune disease that is characterized by progressive joint disorders with significant pain and stiffness. In the past, RA was a difficult -to-treat ailment, but nowadays with the advent of biologics and better treatment strategies, disease remission is an achievable goal. Tumor necrosis factor α (TNFα) inhibitors were the first category of biologics to emerge with adalimumab being the first fully human TNFα.Areas covered: the authors provide an overview of the historical events that led to the discovery of TNFα inhibitors and more specifically the drug adalimumab. Several key trials are presented regarding the safety of the drug as well as its successful journey, but there is also a narrative description of the drug's future after patent expiration.Expert opinion: Adalimumab is a fully human TNFα inhibitor with a fairly rapid onset of action. It has a generally good safety and efficacy profile. Clinicians must be aware of the possible si",
+        "journal": "Expert opinion on drug discovery",
+        "year": "2021",
+        "authors": [
+          "Pelechas Eleftherios",
+          "Voulgari Paraskevi V",
+          "Drosos Alexandros A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Animals",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Biosimilar Pharmaceuticals",
+          "Drug Development",
+          "Drug Discovery",
+          "Drug Evaluation, Preclinical",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33183071/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:17:26.806818",
+  "success": true,
+  "error_message": null
+}

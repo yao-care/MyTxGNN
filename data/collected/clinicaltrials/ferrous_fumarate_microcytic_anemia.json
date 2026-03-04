@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "microcytic anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03212781",
+      "title": "Total Dose Infusion of Iron Dextran Versus Oral Iron for Treating Iron Deficiency Anemia in Pregnant Women: a Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2016-10",
+      "country": "Egypt",
+      "enrollment": 66,
+      "brief_summary": "Iron deficiency is the most prevalent nutritional deficiency and the most common cause of anemia .It is characterized by a defect in hemoglobin synthesis, resulting in red blood cells that are abnormally small (microcytic) and contain a decreased amount of hemoglobin (hypochromic).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hemoglobin \\< 10 g/dL\n* Gestational age between 14-28 weeks.\n* Willingness to participate and signing the informed consent form.\n\nExclusion Criteria:\n\n* Iron overload or disturbances in utilization of iron\n* Decompensated liver cirrhosis and active hepatitis\n* Active acute or ",
+      "endpoints": [
+        "The change in Hemoglobin concentration from baseline to 8 weeks therapy"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03212781"
+    }
+  ],
+  "timestamp": "2026-03-04T16:16:06.687632",
+  "success": true,
+  "error_message": null
+}

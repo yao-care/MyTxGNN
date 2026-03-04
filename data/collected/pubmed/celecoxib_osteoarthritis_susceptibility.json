@@ -1,0 +1,74 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "osteoarthritis susceptibility",
+    "query_string": "Celecoxib AND osteoarthritis susceptibility"
+  },
+  "data": {
+    "query": "Celecoxib AND osteoarthritis susceptibility",
+    "results": [
+      {
+        "pmid": "30860559",
+        "title": "Association of Tramadol With All-Cause Mortality Among Patients With Osteoarthritis.",
+        "abstract": "An American Academy of Orthopaedic Surgeons guideline recommends tramadol for patients with knee osteoarthritis, and an American College of Rheumatology guideline conditionally recommends tramadol as first-line therapy for patients with knee osteoarthritis, along with nonsteroidal anti-inflammatory drugs.",
+        "journal": "JAMA",
+        "year": "2019",
+        "authors": [
+          "Zeng Chao",
+          "Dubreuil Maureen",
+          "LaRochelle Marc R",
+          "Lu Na",
+          "Wei Jie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Analgesics, Opioid",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Body Mass Index",
+          "Codeine",
+          "Cohort Studies",
+          "Comorbidity",
+          "Confounding Factors, Epidemiologic",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30860559/"
+      },
+      {
+        "pmid": "36056857",
+        "title": "Novel Formulation Approaches used for the Management of Osteoarthritis: A Recent Review.",
+        "abstract": "Osteoarthritis (OA) causes economic, social, and health difficulties in patients. Approximately 10% to 15% of all persons above the age of 60 have some degree of OA. OA is more common in women than in males. Diagnosed OA prevalence varies widely among EU member states, from 2.8% in Romania to 18.3% in Hungary.",
+        "journal": "Current drug delivery",
+        "year": "2023",
+        "authors": [
+          "Kumar Mohit",
+          "Dogra Raghav",
+          "Mandal Uttam Kumar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Male",
+          "Female",
+          "Celecoxib",
+          "Rats, Inbred Lew",
+          "Osteoarthritis",
+          "Pain",
+          "Hydrogels"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36056857/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:13:26.814336",
+  "success": true,
+  "error_message": null
+}

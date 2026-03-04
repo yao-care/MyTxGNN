@@ -1,0 +1,124 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "dyspepsia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02125604",
+      "title": "A Multicenter, Open-Label, Single-Arm Study to Evaluate Gastrointestinal Tolerability in Subjects With Relapsing-Remitting Multiple Sclerosis Receiving Dimethyl Fumarate (TOLERATE)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2016-03",
+      "country": "Germany",
+      "enrollment": 214,
+      "brief_summary": "The primary objective of this study is to evaluate the effect of symptomatic therapies on gastrointestinal-related events reported by participants with relapsing-remitting multiple sclerosis initiating therapy with BG00012 (dimethyl fumarate, DMF) in the clinical practice setting.\n\nThe secondary objectives of this study in this study population are as follows: to evaluate gastrointestinal-related events requiring symptomatic therapy and the role of those therapies over time; to evaluate gastroin",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Have a confirmed diagnosis of relapsing-remitting multiple sclerosis according to the current McDonald Criteria and satisfy the therapeutic indication as described in the official local registration for Tecfidera (dimethyl fumarate)\n* Naïve to dimethyl fumarate and fumaric",
+      "endpoints": [
+        "Number of Participants Who Utilized Symptomatic Therapy With Gastrointestinal-Related Events During the 12-Week Treatment Period: Modified Overall Gastrointestinal Symptom Scale (MOGISS)",
+        "Number of Participants Who Utilized Symptomatic Therapy With Gastrointestinal-Related Events During the 12-Week Treatment Period: Modified Acute Gastrointestinal Symptom Scale (MAGISS)",
+        "Worst Severity Of Gastrointestinal-Related Events In Participants Who Utilized Symptomatic Therapy During the 12-Week Treatment Period, MOGISS"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT02125604"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06293326",
+      "title": "An Open Label, Single Center, Randomized, Two-way Crossover Parallel Group, Trial to Assess the Mechanism of Action of a Bi-layer Swallowable Tablet (Immediate Release and Sustained Release) Containing Calcium Carbonate Antacid in an Overnight and Day Application as Compared With a Standard, Non-layered (Immediate Release) Calcium Carbonate Swallow Tablet in Fed Healthy Male Participants.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2024-03-06",
+      "completion_date": "2024-05-15",
+      "country": "United Kingdom",
+      "enrollment": 21,
+      "brief_summary": "Researchers are looking for a better way to treat people who have heartburn, indigestion, and problems due to excessive stomach acid. These are common problems which can affect daily life and disturb sleep during the night-time. Heartburn is the burning sensation or pain in the chest which occurs when stomach acid rises up in the food pipe (esophagus).\n\nCalcium carbonate tablets are used to treat heartburn, indigestion, and related digestive problems. Calcium carbonate works by neutralizing the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male\n* Participant must be 18 to ≤65 years of age inclusive, at the time of signing the informed consent.\n* Participants must have a verified diagnosis of \"healthy\": the results of the standard clinical, laboratory, and instrumental examinations are within the normal range (li",
+      "endpoints": [
+        "Gastric pH levels as measured and recorded with tip of pH probe in gastric fundus."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT06293326"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06503978",
+      "title": "Dosing Study of Microbiota Transplant Therapy for Children With Autism Spectrum Disorder (ASD) Who Have Gastrointestinal Disorders",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-08-20",
+      "completion_date": "2026-08-17",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Autism-spectrum disorder with Gastrointestinal disorders (constipation, diarrhea, and/or abdominal pain). MTT involves a combination of 14 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using Miralax, followed by 5 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Child aged 4 to \\< 18 years. This is 1 year younger than our previous study of MTT for children with ASD (IND 19048, protocol 2), because there were minimal adverse effects in that study, and earlier intervention may be more beneficial.\n2. Diagnosis of autism per the Childhoo",
+      "endpoints": [
+        "Childhood Autism Rating Scale (CARS-2)",
+        "Daily Stool Record (DSR)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06503978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04202692",
+      "title": "Evaluation of the Performance and Safety of an Oral Formulation of Hyaluronic Acid With Chondroitin Sulphate and Magnesium Trisilicate (GERDOff® Plus) in Patients With Gastro-Esophageal Reflux Disease: A Double-blind, Placebo-controlled, Randomized, Cross-over Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-11-05",
+      "completion_date": "2022-11-23",
+      "country": "Germany",
+      "enrollment": 40,
+      "brief_summary": "This is a post-market, multi-center, double-blind, placebo-controlled, randomized, cross-over study with GERDOff Plus added on top of the current PPI treatment in patients with GERD. The aim of the study is to evaluate the performance of GERDOff Plus, a class III medical device, consisting in a hyaluronic acid, chondroitin sulphate and magnesium trisilicate, in addition to the PPIs, in patients with GERD not fully satisfied with their current treatment with PPIs.\n\nPatients will receive either GE",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent (ICF): a written informed consent must be obtained prior to any study related procedure being performed\n* Male and female out-patients aged 18 to 80 years\n* GERD diagnosis confirmed through a validated questionnaire (GERDQ score ≥ 8).\n* EGD en",
+      "endpoints": [
+        "Overall patient satisfaction"
+      ],
+      "sponsor": "SOFAR S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT04202692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02410278",
+      "title": "A Multicenter, Double- Blind, Placebo- Controlled Study of Montelukast on Gastrointestinal Tolerability in Patients With Relapsing Forms of Multiple Sclerosis Receiving Tecfidera® (Dimethyl Fumarate) Delayed Release Capsules",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-03-12",
+      "completion_date": "2017-04-27",
+      "country": "United States",
+      "enrollment": 102,
+      "brief_summary": "The primary objective of this study is to evaluate whether montelukast can reduce the severity of gastrointestinal (GI) events, measured by the Gastrointestinal Symptom Rating Scale (GSRS), after oral administration of dimethyl fumarate (DMF) in participants with relapsing forms of Multiple Sclerosis (MS). The secondary objectives of this study are as follows: To evaluate whether montelukast after oral administration of DMF in participants with relapsing forms of MS decreases discontinuations du",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Reside in the United States and have a confirmed diagnosis of a relapsing form of MS and satisfy the therapeutic indication as described in the local label\n* As perceived by the Investigator, have the ability to comply with all requirements of the study protocol and to ope",
+      "endpoints": [
+        "Percentage of Participants With a Worsening in Severity of Gastrointestinal (GI) Adverse Events (AEs) on the GSRS From Day 0 to Day 10"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT02410278"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06321796",
+      "title": "Microbiota Transfer Therapy for Children and Adults With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders: MTP-101 P",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-27",
+      "completion_date": "2025-05",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Pitt-Hopkins Syndrome (PTHS) and gastrointestinal problems (constipation, bloating, abdominal pain). MTT involves a combination of 10 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using magnesium citrate, followed by 4 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ages 5 to \\<18 years and adults ages 18 to \\< 55 years with Pitt Hopkins Syndrome (verified by genetic testing)\n2. GI disorder as defined below that has lasted for at least 2 years.\n3. No changes in medications, supplements, diet, or therapies in the 2 months prior t",
+      "endpoints": [
+        "Daily Stool Record (DSR)",
+        "Safety Measures (Adverse Events)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06321796"
+    }
+  ],
+  "timestamp": "2026-03-04T16:11:02.483863",
+  "success": true,
+  "error_message": null
+}

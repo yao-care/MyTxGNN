@@ -1,0 +1,522 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Levodopa",
+    "disease": "atypical juvenile parkinsonism",
+    "query_string": "Levodopa AND atypical juvenile parkinsonism"
+  },
+  "data": {
+    "query": "Levodopa AND atypical juvenile parkinsonism",
+    "results": [
+      {
+        "pmid": "31272925",
+        "title": "Juvenile parkinsonism: Differential diagnosis, genetics, and treatment.",
+        "abstract": "Juvenile parkinsonism is arbitrarily defined as parkinsonian symptoms and signs presenting prior to 21 years of age. Levodopa-responsive juvenile parkinsonism that is consistent with diagnostic criteria for Parkinson's disease is most often caused by mutations in the PARK-Parkin, PARK-PINK1, or PARK-DJ1 genes. However, many other genetic and acquired parkinsonian disorders presenting in childhood or young adulthood are being reported, often with atypical features, such as presence of other movement disorders, cognitive decline, and psychiatric symptoms. The genetic landscape of juvenile parkinsonism is rapidly changing with the discovery of new genes. Although the mainstay of treatment remains levodopa, other symptomatic therapies such as botulinum toxin for focal dystonia, supportive medical therapies, and deep brain stimulation in select cases, may also be used to provide the most optimal long-term outcomes. Since the topic has not been reviewed recently, we aim to provide an update ",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2019",
+        "authors": [
+          "Niemann Nicki",
+          "Jankovic Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antiparkinson Agents",
+          "Child",
+          "Child, Preschool",
+          "Deep Brain Stimulation",
+          "DiGeorge Syndrome",
+          "Diagnosis, Differential",
+          "Dystonic Disorders",
+          "Genetic Diseases, X-Linked",
+          "Hepatolenticular Degeneration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31272925/"
+      },
+      {
+        "pmid": "33848468",
+        "title": "Parkinson's disease.",
+        "abstract": "Parkinson's disease is a recognisable clinical syndrome with a range of causes and clinical presentations. Parkinson's disease represents a fast-growing neurodegenerative condition; the rising prevalence worldwide resembles the many characteristics typically observed during a pandemic, except for an infectious cause. In most populations, 3-5% of Parkinson's disease is explained by genetic causes linked to known Parkinson's disease genes, thus representing monogenic Parkinson's disease, whereas 90 genetic risk variants collectively explain 16-36% of the heritable risk of non-monogenic Parkinson's disease. Additional causal associations include having a relative with Parkinson's disease or tremor, constipation, and being a non-smoker, each at least doubling the risk of Parkinson's disease. The diagnosis is clinically based; ancillary testing is reserved for people with an atypical presentation. Current criteria define Parkinson's disease as the presence of bradykinesia combined with eith",
+        "journal": "Lancet (London, England)",
+        "year": "2021",
+        "authors": [
+          "Bloem Bastiaan R",
+          "Okun Michael S",
+          "Klein Christine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Disease Management",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Prodromal Symptoms",
+          "Time Factors",
+          "Tremor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33848468/"
+      },
+      {
+        "pmid": "18344392",
+        "title": "Parkinson's disease: clinical features and diagnosis.",
+        "abstract": "Parkinson's disease (PD) is a progressive neurological disorder characterised by a large number of motor and non-motor features that can impact on function to a variable degree. This review describes the clinical characteristics of PD with emphasis on those features that differentiate the disease from other parkinsonian disorders.",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "2008",
+        "authors": [
+          "Jankovic J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Humans",
+          "Neurologic Examination",
+          "Parkinson Disease",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18344392/"
+      },
+      {
+        "pmid": "37366140",
+        "title": "Parkinson's disease - genetic cause.",
+        "abstract": "Our knowledge of the genetic architecture underlying Parkinson's disease has vastly improved in the past quarter century. About 5-10% of all patients suffer from a monogenic form of Parkinson's disease.",
+        "journal": "Current opinion in neurology",
+        "year": "2023",
+        "authors": [
+          "Cherian Ajith",
+          "K P Divya",
+          "Vijayaraghavan Asish"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Membrane Proteins",
+          "Parkinsonian Disorders",
+          "Mutation",
+          "Seizures",
+          "LDL-Receptor Related Proteins",
+          "Receptors, Cell Surface"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37366140/"
+      },
+      {
+        "pmid": "30680679",
+        "title": "Pharmacological Management of Dementia with Lewy Bodies.",
+        "abstract": "Dementia with Lewy bodies (DLB) is a complex disease that involves a variety of cognitive, behavioral and neurological symptoms, including progressive memory loss, visual hallucinations, parkinsonism, cognitive fluctuations and rapid eye movement sleep behavior disorder (RBD). These symptoms may appear in varying combinations and levels of severity in each patient who is seen in the clinic, making diagnosis and treatment a challenge. DLB is the third most common of all the neurodegenerative diseases behind both Alzheimer's disease and Parkinson's disease (PD). The median age of onset for DLB (76.3 years) is younger than that seen in PD dementia (81.4 years). New pathological studies have shown that most DLB patients have variable amounts of Alzheimer's changes in their brains, explaining the wide variability in this disease's clinical presentation and clinical course. This review discusses the three cholinesterase inhibitors that have been shown to be effective in managing the cognitiv",
+        "journal": "Drugs & aging",
+        "year": "2019",
+        "authors": [
+          "Hershey Linda A",
+          "Coleman-Jackson Rhonda"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Anticonvulsants",
+          "Antiparkinson Agents",
+          "Cholinesterase Inhibitors",
+          "Clinical Trials, Phase II as Topic",
+          "Clonazepam",
+          "Humans",
+          "Levodopa",
+          "Lewy Body Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30680679/"
+      },
+      {
+        "pmid": "34678171",
+        "title": "Amantadine in the treatment of Parkinson's disease and other movement disorders.",
+        "abstract": "The efficacy of amantadine in the symptomatic treatment of patients with Parkinson's disease, discovered serendipitously more than 50 years ago, has stood the test of time and the drug is still commonly used by neurologists today. Its pharmacological actions are unique in combining dopaminergic and glutamatergic properties, which account for its dual effect on parkinsonian signs and symptoms and levodopa-induced dyskinesias. Furthermore, amantadine has additional and less well-defined pharmacological effects, including on anticholinergic and serotonergic activity. Evidence from randomised controlled trials over the past 5 years has confirmed the efficacy of amantadine to treat levodopa-induced dyskinesias in patients with Parkinson's disease, and clinical studies have also provided support for its potential to reduce motor fluctuations. Other uses of amantadine, such as in the treatment of drug-induced parkinsonism, atypical parkinsonism, Huntington's disease, or tardive dyskinesia, la",
+        "journal": "The Lancet. Neurology",
+        "year": "2021",
+        "authors": [
+          "Rascol Olivier",
+          "Fabbri Margherita",
+          "Poewe Werner"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amantadine",
+          "Antiparkinson Agents",
+          "Dyskinesia, Drug-Induced",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34678171/"
+      },
+      {
+        "pmid": "31779825",
+        "title": "Corticobasal degeneration.",
+        "abstract": "Corticobasal degeneration (CBD) is a rare neurodegenerative disease characterized by the predominance of pathological 4 repeat tau deposition in various cell types and anatomical regions. Corticobasal syndrome (CBS) is one of the clinical phenotypes associated with CBD pathology, manifesting as a progressive asymmetric akinetic-rigid, poorly levodopa-responsive parkinsonism, with cerebral cortical dysfunction. CBD can manifest as several clinical phenotypes, and similarly, CBS can also have a pathologic diagnosis other than CBD. This chapter discusses the clinical manifestations of pathologically confirmed CBD cases, the current diagnostic criteria, as well as the pathologic and neuroimaging findings of CBD/CBS. At present, therapeutic options for CBD remain symptomatic. Further research is needed to improve the clinical diagnosis of CBD, as well as studies on disease-modifying therapies for this relentlessly progressive neurodegenerative disorder.",
+        "journal": "International review of neurobiology",
+        "year": "2019",
+        "authors": [
+          "Saranza Gerard M",
+          "Whitwell Jennifer L",
+          "Kovacs Gabor G",
+          "Lang Anthony E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Basal Ganglia Diseases",
+          "Cerebral Cortex",
+          "Humans",
+          "Neurodegenerative Diseases",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31779825/"
+      },
+      {
+        "pmid": "15164182",
+        "title": "Vascular parkinsonism.",
+        "abstract": "The concept of vascular parkinsonism (VP) has been highly controversial since the initial paper by Critchley in 1929. This review tentatively delineates the extent of the spectrum of VP. Much confusion has arisen owing to the lack of clear definitions of parkinsonism, \"atypical parkinsonism\" and \"pseudoparkinsonism\", which we here attempt to define. Confusion has also arisen because incidental vascular lesions occurring in true idiopathic Parkinson's disease (IPD) are up to 10 times more common than parkinsonism due to cerebrovascular disease. VP is clinically heterogeneous. Most often VP is atypical and can be separated from IPD, on the basis of the presence of additional focal signs, and the absence of typical resting tremor in the upper limbs, of true akinesia (i. e.: with decrement and fatiguing of alternating movements), and of definite benefit from levodopa. Exceptionally, VP may mimic IPD or other degenerative diseases such as progressive supranuclear palsy or corticobasal degen",
+        "journal": "Journal of neurology",
+        "year": "2004",
+        "authors": [
+          "Sibon Igor",
+          "Fenelon Gilles",
+          "Quinn Niall P",
+          "Tison François"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Brain",
+          "Brain Infarction",
+          "Cerebrovascular Disorders",
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15164182/"
+      },
+      {
+        "pmid": "34686356",
+        "title": "Parkinsonism and cerebrovascular disease.",
+        "abstract": "The relationship between cerebrovascular disease and parkinsonism is commonly seen in everyday clinical practice but remains ill-defined and under-recognised with little guidance for the practising neurologist. We attempt to define this association and to illustrate key clinical, radiological and pathological features of the syndrome of Vascular Parkinsonism (VaP). VaP is a major cause of morbidity in the elderly associated with falls, hip fractures and cognitive impairment. Although acute parkinsonism is reported in the context of an acute cerebrovascular event, the vast majority of VaP presents as an insidious syndrome usually in the context of vascular risk factors and radiological evidence of small vessel disease. There may be an anatomic impact on basal ganglia neuronal networks, however the effect of small vessel disease (SVD) on these pathways is not clear. There are now established reporting standards for radiological features of SVD on MRI. White matter hyperintensities and la",
+        "journal": "Journal of the neurological sciences",
+        "year": "2022",
+        "authors": [
+          "Narasimhan Manisha",
+          "Schwartz Raymond",
+          "Halliday Glenda"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Cerebral Small Vessel Diseases",
+          "Cerebrovascular Disorders",
+          "Cognitive Dysfunction",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Parkinson Disease",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34686356/"
+      },
+      {
+        "pmid": "16237129",
+        "title": "Diagnosis and management of dementia with Lewy bodies: third report of the DLB Consortium.",
+        "abstract": "The dementia with Lewy bodies (DLB) Consortium has revised criteria for the clinical and pathologic diagnosis of DLB incorporating new information about the core clinical features and suggesting improved methods to assess them. REM sleep behavior disorder, severe neuroleptic sensitivity, and reduced striatal dopamine transporter activity on functional neuroimaging are given greater diagnostic weighting as features suggestive of a DLB diagnosis. The 1-year rule distinguishing between DLB and Parkinson disease with dementia may be difficult to apply in clinical settings and in such cases the term most appropriate to each individual patient should be used. Generic terms such as Lewy body (LB) disease are often helpful. The authors propose a new scheme for the pathologic assessment of LBs and Lewy neurites (LN) using alpha-synuclein immunohistochemistry and semiquantitative grading of lesion density, with the pattern of regional involvement being more important than total LB count. The new",
+        "journal": "Neurology",
+        "year": "2005",
+        "authors": [
+          "McKeith I G",
+          "Dickson D W",
+          "Lowe J",
+          "Emre M",
+          "O'Brien J T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Brain",
+          "Corpus Striatum",
+          "Diagnosis, Differential",
+          "Dopamine Plasma Membrane Transport Proteins",
+          "Drug Tolerance",
+          "Humans",
+          "Lewy Bodies",
+          "Lewy Body Disease",
+          "REM Sleep Behavior Disorder",
+          "alpha-Synuclein"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16237129/"
+      },
+      {
+        "pmid": "34184486",
+        "title": "[Progressive supranuclear palsy].",
+        "abstract": "Progressive supranuclear palsy (PSP) is a heterogeneous progressive neurodegenerative disease characterized by onset after 50 years old, Parkinson's syndrome, early development of postural instability, absence or transient reaction to levodopa drugs, neuropsychological disorders, dysphagia and dysarthria and eye movement disorders. The review provides an analysis of modern data on etiology, clinical presentation, differential diagnosis of the disease. The morphological picture and neuroimaging features, as well as modern ideas about treatment, are described. A great clinical polymorphism of the disease, as well as its similarity to other neurodegenerative diseases, manifested by Parkinson's syndrome, complicates the diagnosis of PSP. Establishing an accurate diagnosis makes it possible to determine the prognosis and further tactics of patient management.",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+        "year": "2021",
+        "authors": [
+          "Fedorova N V",
+          "Bril E V",
+          "Kulua T K",
+          "Mikhaylova A D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Middle Aged",
+          "Neurodegenerative Diseases",
+          "Neuroimaging",
+          "Parkinson Disease",
+          "Supranuclear Palsy, Progressive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34184486/"
+      },
+      {
+        "pmid": "34396589",
+        "title": "Genotype-Phenotype Relations for the Atypical Parkinsonism Genes: MDSGene Systematic Review.",
+        "abstract": "This Movement Disorder Society Genetic mutation database Systematic Review focuses on monogenic atypical parkinsonism with mutations in the ATP13A2, DCTN1, DNAJC6, FBXO7, SYNJ1, and VPS13C genes. We screened 673 citations and extracted genotypic and phenotypic data for 140 patients (73 families) from 77 publications. In an exploratory fashion, we applied an automated classification procedure via an ensemble of bootstrap-aggregated (\"bagged\") decision trees to distinguish these 6 forms of monogenic atypical parkinsonism and found a high accuracy of 86.5% (95%CI, 86.3%-86.7%) based on the following 10 clinical variables: age at onset, spasticity and pyramidal signs, hypoventilation, decreased body weight, minimyoclonus, vertical gaze palsy, autonomic symptoms, other nonmotor symptoms, levodopa response quantification, and cognitive decline. Comparing monogenic atypical with monogenic typical parkinsonism using 2063 data sets from Movement Disorder Society Genetic mutation database on pat",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2021",
+        "authors": [
+          "Wittke Christina",
+          "Petkovic Sonja",
+          "Dobricic Valerija",
+          "Schaake Susen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Genotype",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Parkinsonian Disorders",
+          "Phenotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34396589/"
+      },
+      {
+        "pmid": "28233705",
+        "title": "[Not Available].",
+        "abstract": "Parkinsonian syndrome is the clinical expression of a lesion within the nigro-striatal dopaminergic pathway. Akinesia is the main manifestation of parkinsonism. The clinical analysis of motor symptoms may guide clinical diagnosis. Parkinson's disease is characterized by a pure asymmetric parkinsonian syndrome, responsive to dopaminergic treatment. The evolution of Parkinson's disease is characterized by the occurrence of motor complications (dyskinesia and fluctuations). Gait disturbances (postural instability and freezing) are late in Parkinson's disease. When early (within the first three years), they point to atypical parkinsonian syndrome.",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "2017",
+        "authors": [
+          "Grabli David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Articulation Disorders",
+          "Corpus Striatum",
+          "Deglutition Disorders",
+          "Disease Progression",
+          "Dopamine Agonists",
+          "Dopaminergic Neurons",
+          "Gait Disorders, Neurologic",
+          "Humans",
+          "Hypokinesia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28233705/"
+      },
+      {
+        "pmid": "22166450",
+        "title": "Autosomal recessive parkinsonism.",
+        "abstract": "Several forms of autosomal recessive parkinsonism are known. In three forms, caused by mutations in parkin (PARK2), PINK1 (PARK6), or DJ-1 (PARK7), the phenotype is usually characterized by levodopa-responsive parkinsonism without atypical features. Parkin mutations are most frequent, explaining -50% of the cases with a clinical diagnosis of familial Parkinson's disease compatible with recessive inheritance and onset <45 years, and -15% of the sporadic cases with onset <45. Mutations in PINK1 and DJ-1 are less common, accounting for -1-8%, and -1-2% of the sporadic cases with early-onset. Since point mutations and genomic rearrangements can be present, sequencing and exon dosage are both required for accurate mutational screening of these genes. The phenotype of parkin mutations is characterized by early-onset parkinsonism, good response to levodopa, and benign course. The average onset age is in the 30s, but late-onset cases have been described. The phenotype associated with PINK1 and",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2012",
+        "authors": [
+          "Bonifati Vincenzo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "DNA Mutational Analysis",
+          "Humans",
+          "Mutation",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22166450/"
+      },
+      {
+        "pmid": "15109583",
+        "title": "Caribbean parkinsonism and other atypical parkinsonian disorders.",
+        "abstract": "Atypical parkinsonism (AP) is a term applied to disorders characterized by parkinsonism that evolves rapidly, with poor or transient response to levodopa, or has other associated features such as early falls and postural instability, early autonomic failure, supranuclear gaze palsy, pyramidal or cerebellar signs, alien hand syndrome or severe ideomotor apraxia. The most common AP are multiple system atrophy, progressive supranuclear palsy (PSP) and corticobasal degeneration (CBD). Other APs include Caribbean parkinsonism (CP) and parkinsonism-dementia complex of Guam (PDC). In this review we provide an update in etiology, neuropathology, diagnosis and treatment of atypical parkinsonian disorders associated with protein tau deposit, also known as tauopathies.",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2004",
+        "authors": [
+          "Tolosa Eduardo",
+          "Calandrella Daniela",
+          "Gallardo Marisol"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Parkinsonian Disorders",
+          "Supranuclear Palsy, Progressive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15109583/"
+      },
+      {
+        "pmid": "34674853",
+        "title": "Parkinsonism and cerebrospinal fluid disorders.",
+        "abstract": "Although various motor manifestations can be seen in patients with cerebrospinal fluid (CSF) disorders, such as hydrocephalus or intracranial hypotension, the clinical presentation with parkinsonism is not clearly elucidated.",
+        "journal": "Journal of the neurological sciences",
+        "year": "2022",
+        "authors": [
+          "Youn Jinyoung",
+          "Todisco Massimiliano",
+          "Zappia Mario",
+          "Pacchetti Claudio",
+          "Fasano Alfonso"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Brain",
+          "Cerebral Aqueduct",
+          "Cerebrospinal Fluid",
+          "Cerebrospinal Fluid Shunts",
+          "Humans",
+          "Hydrocephalus, Normal Pressure",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34674853/"
+      },
+      {
+        "pmid": "10634237",
+        "title": "Atypical parkinsonism in Afro-Caribbean and Indian origin immigrants to the UK.",
+        "abstract": "This article reviews evidence for the occurrence of atypical parkinsonism in Afro-Caribbean and Indian ethnic minority subjects living in western countries, particularly the UK. Current information on the frequency, pattern, and prevalence of Parkinson's disease and parkinsonism in these communities is unclear and controversial. While several workers have suggested that there is a low prevalence of Parkinson's disease in populations of African origin, other workers have suggested a higher prevalence of Parkinson's disease in African Americans. Furthermore, little information is available in relation to the pattern of parkinsonism in these subjects. A recent phenomenologic study of parkinsonism in the French West Indies by Caparros-Lefebvre and colleagues has indicated a significantly increased frequency of atypical parkinsonism in local non-white subjects. Since 1995, we have been studying the pattern and frequency of parkinsonism in Afro-Caribbean and Indian (originating from the Indi",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2000",
+        "authors": [
+          "Chaudhuri K R",
+          "Hu M T",
+          "Brooks D J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Black People",
+          "Emigration and Immigration",
+          "England",
+          "Humans",
+          "India",
+          "Parkinson Disease",
+          "Risk Factors",
+          "West Indies",
+          "White People",
+          "Black or African American"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10634237/"
+      },
+      {
+        "pmid": "31834375",
+        "title": "Evolving concepts on bradykinesia.",
+        "abstract": "Bradykinesia is one of the cardinal motor symptoms of Parkinson's disease and other parkinsonisms. The various clinical aspects related to bradykinesia and the pathophysiological mechanisms underlying bradykinesia are, however, still unclear. In this article, we review clinical and experimental studies on bradykinesia performed in patients with Parkinson's disease and atypical parkinsonism. We also review studies on animal experiments dealing with pathophysiological aspects of the parkinsonian state. In Parkinson's disease, bradykinesia is characterized by slowness, the reduced amplitude of movement, and sequence effect. These features are also present in atypical parkinsonisms, but the sequence effect is not common. Levodopa therapy improves bradykinesia, but treatment variably affects the bradykinesia features and does not significantly modify the sequence effect. Findings from animal and patients demonstrate the role of the basal ganglia and other interconnected structures, such as ",
+        "journal": "Brain : a journal of neurology",
+        "year": "2020",
+        "authors": [
+          "Bologna Matteo",
+          "Paparella Giulia",
+          "Fasano Alfonso",
+          "Hallett Mark",
+          "Berardelli Alfredo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Hypokinesia",
+          "Levodopa",
+          "Neural Pathways",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31834375/"
+      },
+      {
+        "pmid": "33033739",
+        "title": "SPG15: A Rare Correlation with Atypical Juvenile Parkinsonism Responsive to Levodopa.",
+        "abstract": "",
+        "journal": "Movement disorders clinical practice",
+        "year": "2020",
+        "authors": [
+          "Araujo Filipe Miranda Milagres",
+          "Junior Wilson Marques",
+          "Tomaselli Pedro José",
+          "Pimentel Ângela V",
+          "Macruz Brito Manuelina C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33033739/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:28:13.509500",
+  "success": true,
+  "error_message": null
+}

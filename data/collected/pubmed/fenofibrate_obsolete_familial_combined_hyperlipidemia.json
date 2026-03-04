@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fenofibrate",
+    "disease": "obsolete familial combined hyperlipidemia",
+    "query_string": "Fenofibrate AND obsolete familial combined hyperlipidemia"
+  },
+  "data": {
+    "query": "Fenofibrate AND obsolete familial combined hyperlipidemia",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:39:55.690635",
+  "success": true,
+  "error_message": null
+}

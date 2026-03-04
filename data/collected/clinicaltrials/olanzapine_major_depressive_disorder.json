@@ -1,0 +1,944 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "major depressive disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05600790",
+      "title": "Mechanism of Mindfulness Based Online Intervention in Reducing Emotional Distress",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-10-29",
+      "completion_date": "2023-02-28",
+      "country": "China",
+      "enrollment": 300,
+      "brief_summary": "This study hopes to:\n\n1. explore whether, at the individual level, the improvement of mindfulness ability can promote peace of mind, reduce the frequency of mental wandering, weaken or cut off the cycle between negative mood and mind wandering, and improve the individual's attention monitoring ability and ability to engage in the present.\n2. explore the impact of mindfulness intervention on intimate relationships in the eastern culture under the intimate relationship interaction model.\n3. explor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with scores greater than 21 on the Kessler Psychological Distress Scale.\n\nExclusion Criteria:\n\n* Subjects who could not access the Internet;\n* Subjects with insufficient Chinese ability;\n* Subjects who have participated in mindfulness based projects for more than 6 we",
+      "endpoints": [
+        "Weekly changes of Five Facet Mindfulness Questionnaire during the intervention",
+        "Weekly changes of Patient Health Questionnaire during the intervention",
+        "Weekly changes of Chinese Perceived Stress Scale during the intervention"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT05600790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04478526",
+      "title": "Determining the Efficacy of Online Cognitive Behavioural Therapy for Generalized Anxiety Disorder Compared to Pharmaceutical Interventions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-04-29",
+      "completion_date": "2021-05-01",
+      "country": "Canada",
+      "enrollment": 115,
+      "brief_summary": "Generalized anxiety disorder (GAD) is an extremely prevalent and debilitating mental health disorder. Currently, the gold standard treatment for GAD is cognitive behavioural therapy (CBT) and/or pharmacotherapy. The most common medications used to treat GAD are selective serotonin reuptake inhibitors (SSRIs) and selective norepinephrine reuptake inhibitors (SNRIs). While CBT is a gold standard treatment for GAD, it is costly, time-consuming, and often inaccessible. Fortunately, the electronic de",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Have consistent and reliable access to the internet\n* Be diagnosed with GAD according to the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-V) by a clinician\n* Meet the criteria for GAD according to the GAD-7 Screener (GAD-7)",
+      "endpoints": [
+        "Change in State Trait Anxiety Level",
+        "Change in Quality of Life",
+        "Change in Generalized Anxiety Levels"
+      ],
+      "sponsor": "Queen's University",
+      "url": "https://clinicaltrials.gov/study/NCT04478526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00490971",
+      "title": "A Randomized, Double-Blind, Active- and Placebo-controlled, Parallel-group, Multicenter Study to Evaluate the Efficacy and Safety of Extended-Release Paliperidone as Maintenance Treatment After an Acute Manic or Mixed Episode Associated With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2010-04",
+      "country": "Bulgaria, France, South Africa, Panama, India, Russia, Turkey (Türkiye), Serbia, Ukraine, Germany, China, Costa Rica, Malaysia, Poland, Romania, United States",
+      "enrollment": 768,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness and safety of oral extended-release (ER) paliperidone compared with placebo in the prevention of the recurrence of mood symptoms in patients with Bipolar I Disorder who initially respond to treatment of an acute manic or mixed episode with paliperidone ER. Olanzapine was included as an active control arm, although the study is not designed to allow for a direct comparison of olanzapine with paliperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, 4th Edition) criteria for Bipolar I Disorder Most Recent Episode Manic or Mixed (with or without psychotic features)\n* have a history of at least 2 previously documented mood episodes associated with Bipolar I",
+      "endpoints": [
+        "Time to Recurrence of Any Mood Symptoms (Manic or Depressive) Associated With Bipolar I Disorder"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00490971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01541371",
+      "title": "An Open-label Prospective Trial to Explore the Tolerability, Safety and Efficacy of Flexibly Dosed Paliperidone ER in Non Acute Episode Subjects With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2009-09",
+      "country": "N/A",
+      "enrollment": 405,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of paliperidone extended-release (ER; designed to slowly release a drug in the body over an extended period of time) tablets in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions \\[a false belief held in the face of strong differing evidence, especially as a symptom of psychiatric disorder\\] and hallucinations \\[imagining things\\], and withdrawal int",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants meeting Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV) diagnosis criteria of schizophrenia\n* Participant receiving full course of treatment (6-8 weeks) at correct dose (dose range recommended by the instruction) of Risperdal, Zyprexa or Seroquel",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score at Week 12"
+      ],
+      "sponsor": "Xian-Janssen Pharmaceutical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01541371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00520507",
+      "title": "An Investigation of the Sleep Architecture and Consequent Cognitive Changes in Olanzapine-Treated Depressed Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2009-05",
+      "country": "Canada",
+      "enrollment": 27,
+      "brief_summary": "OBJECTIVES:\n\nPrimary Objective:\n\nTo assess the objective (polysomnographic) changes in sleep quality before and after introduction of olanzapine in treatment of patients with depression.\n\nSecondary Objectives:\n\nTo assess the subjective changes in sleep quality parameters before and at different stages after introduction of olanzapine in treatment, longitudinally, and to correlate these changes with measures of illness severity and changes in cognition.\n\nSTUDY DESIGN:\n\nProspective, double blind, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A diagnosis of major depressive disorder or bipolar disorder type 1, 2 or NOS by Diagnostic and Statistical Manual of Mental Disorders- Fourth Edition (DSM-IV)\n2. Current depressive episode with a HAMD-17 of \\> 15\n3. Males or females over age18 years (yrs)\n4. Inpatients or ou",
+      "endpoints": [
+        "Sleep quality as measured by overnight PSG, defined as the change in time spent in slow wave sleep."
+      ],
+      "sponsor": "Queen's University",
+      "url": "https://clinicaltrials.gov/study/NCT00520507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03651674",
+      "title": "Longitudinal Effect of Electroconvulsive Therapy on Schizophrenia and Bipolar Disorder: a MRI Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-20",
+      "completion_date": "2020-04-01",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "For more severe and treatment-resistant cases in schizophrenia and bipolar disorder, electroconvulsive therapy (ECT) is often very effective. The purpose of this study is to investigate the brain structure and function changes after ECT treatment. The neuroimaging marker which may predict the outcome of ECT is also studied in this research.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* International classification of diseases (ICD) diagnosis of Schizophrenia and bipolar disorder;\n* Ages 15-70\n* All participants are ethnic Han\n* Not received ECT treatment before\n* PANSS ≥ 60 for schizophrenia subjects\n* The patient's written informed consent can be obtained. ",
+      "endpoints": [
+        "Changes of Positive And Negative Syndrome Scale(PANSS)for Schizophrenia;",
+        "Change of Bech-Rafaelsen Mania Rating Scale (BRMS) for Bipolar disorder",
+        "Change of Hamilton Anxiety Scale (HAMA) for Bipolar disorder"
+      ],
+      "sponsor": "Xidian University",
+      "url": "https://clinicaltrials.gov/study/NCT03651674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00402324",
+      "title": "A Double-Blind Placebo Controlled Trial of Divalproex and Olanzapine in Bipolar I Disorder, Mixed Episode",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 202,
+      "brief_summary": "Whether treatment with olanzapine in combination with mood stabilizer reduces symptoms of both mania and depression more than treatment with mood stabilizer alone, in patients with a mixed episode of bipolar I disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with a mixed episode of bipolar I disorder.\n* Have had at least one previous manic or mixed episode associated with bipolar disorder\n* You must be between 18 and 60 years old.\n* You must be able to visit the doctor's office three times in the first week and then once",
+      "endpoints": [
+        "Mean Change in Young Mania Rating Scale (YMRS) Scores From Baseline to Endpoint.",
+        "Mean Change in Hamilton Depression Rating Scale-21 (HAMD) Scores From Baseline to Endpoint."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00402324"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00035321",
+      "title": "The Study of Olanzapine Plus Fluoxetine in Combination for Treatment-Resistant Depression Without Psychotic Features",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2005-07",
+      "country": "Canada, United States",
+      "enrollment": 600,
+      "brief_summary": "The purposes of this study are to determine:\n\n* Whether olanzapine plus fluoxetine in combination will help patients with treatment-resistant major depression.\n* The safety of olanzapine plus fluoxetine in combination, plus and any side effects that might be associated with the combination.\n* The effectiveness of olanzapine plus fluoxetine compared to olanzapine and fluoxetine alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients, 18 - 65 years of age.\n* Each patient must have a level of understanding sufficient to perform all tests and examinations required by the protocol, and must be considered reliable according to the investigator's clinical judgement\n* Patients must fulfil",
+      "endpoints": [
+        "To assess the efficacy of up to 8 weeks of treatment with OFC versus olanzapine and fluoxetine monotherapies, in patients with recurrent MDD without psychotic features",
+        "who meet study criteria for TRD, as measured by last observation carried forward (LOCF) mean change from baseline to endpoint in the MADRS total score",
+        "Treatment-resistant depression will be defined as:historic failure to achieve satisfactory response to an antidepressant (other than fluoxetine) during the current MDD episode"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00035321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00958568",
+      "title": "A Study to Assess the Long-Term Efficacy and Safety of Olanzapine and Fluoxetine Combination Versus Fluoxetine Only in the Relapse Prevention of Stabilized Patients With Treatment-Resistant Depression",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2012-03",
+      "country": "Mexico, South Africa, Puerto Rico, India, Russia, Turkey (Türkiye), Argentina, United States",
+      "enrollment": 892,
+      "brief_summary": "The purpose of this study is to determine whether olanzapine and fluoxetine combination (OFC) if used for a long time (47 weeks) makes patients suffering from Treatment Resistant Depression stable, determine if OFC is safe when used to treat patients with Treatment Resistant Depression for a long time (up to 47 weeks), to determine whether olanzapine and fluoxetine combination or fluoxetine alone is better to treat Treatment Resistant Depression when treated for a long time (up to 47 weeks) and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have single or recurrent unipolar Major Depressive Disorder (MDD), without psychotic features by Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition-Text Revision (DSM-IV-TR) clinical assessment, confirmed by the structured clinician Interview for DSM-IV Axis",
+      "endpoints": [
+        "Time to Relapse by Any Criteria"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00958568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05814640",
+      "title": "Sequenced Treatment Alternatives to Relieve Adolescent Depression (STAR-AD): a Pragmatic Clinical Trial",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-02-20",
+      "completion_date": "2027-07-01",
+      "country": "China",
+      "enrollment": 520,
+      "brief_summary": "This project aims to investigate the effectiveness of existing common antidepressants and to provide new evidence for depressed children and adolescents who are not responding to their first treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 13 - 18\n2. As assessed by K-SADS-PL, it meets the DSM-V criteria for MDD with non-psychotic symptoms\n3. Score≥40 on the CDRS-R\n4. Participants with suicidal ideation are eligible, as long as clinicians consider outpatient treatment to be safe\n5. Sufficient audio-visual le",
+      "endpoints": [
+        "Change in CDRS-R (Children's Depression Rating Scale) scores from baseline"
+      ],
+      "sponsor": "First Affiliated Hospital of Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT05814640"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00618748",
+      "title": "Safety and Efficacy of Olanzapine (LY170053) in the Long-term Treatment for Patients With Bipolar I Disorder, Depressed",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2010-09",
+      "country": "Japan",
+      "enrollment": 101,
+      "brief_summary": "To assess the efficacy and safety of olanzapine in the long-term treatment for patients with bipolar I disorder, depressed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must be aged 18 to less than 75 years.\n2. Each patient must be reliable, have a level of understanding sufficient to perform all tests and examinations required by the protocol, and must understand the nature of the study and have provided informed consent.\n3. All fe",
+      "endpoints": [
+        "Percentage of Participants With Adverse Events Leading to Discontinuation"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00618748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00273624",
+      "title": "Olanzapine Augmentation Therapy in Treatment-resistant Depression: a Double-blind Placebo-controlled Trial",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2005-06",
+      "completion_date": "2009-12",
+      "country": "Germany",
+      "enrollment": 0,
+      "brief_summary": "60 patients with major depression will be treated with 10 mg Olanzapine or Placebo for 2 weeks. In case of response (reduction of depressive symptoms)the study will be continued for further 60 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* major depression without psychotic features\n* therapy resistance (2 courses of antidepressants from different classes for more than 3 weeks in adequate dose\n* HAM-D score greater/equal than 17\n* age 18-65\n\nExclusion Criteria:\n\n* bipolar disorder\n* active alcohol or illicit dru",
+      "endpoints": [
+        "Hamilton-Depression-Scale- HAM-D"
+      ],
+      "sponsor": "University Hospital Freiburg",
+      "url": "https://clinicaltrials.gov/study/NCT00273624"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01282632",
+      "title": "A Double Blind Pilot Trial to Evaluate Efficacy Trends and Safety of Risperidone and Olanzapine as add-on Therapy to Serotonin Type Antidepressants in Subjects With Treatment Resistant Depression (TRD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "2004-03",
+      "country": "Canada",
+      "enrollment": 42,
+      "brief_summary": "Atypical neuroleptics may have antidepressant qualities in bipolar depression and in unipolar depression. Some data support the use of both Risperidone and Olanzapine, but there are no direct comparisons of their relative efficacy and tolerability in treatment resistant depression. The current study was designed as a pilot study to examine efficacy and tolerability of Olanzapine vs. Risperidone add on to a failed serotonin re-uptake inhibitor (SSRI) in depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects who meet all of the following criteria are eligible for this trial:\n\n1. Male or female out-patients;\n2. Aged between 18 and 65 years (extremes included);\n3. Subjects suffering from a current episode of non-psychotic, unipolar depression as determined by the depression s",
+      "endpoints": [
+        "Change from Baseline in Hamilton Depression Rating Scale at 1 week",
+        "Change from Baseline in Montgomery Asberg Depression Scale (MADRS)at 1 week",
+        "Change from baseline Hamilton Rating Scale for Anxiety (HAM-A) at 1 week"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT01282632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02529163",
+      "title": "Evaluating the Efficacy of a Late-Life Schizophrenia Integrated Care Pathway to Treat Acute Psychotic Symptoms",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-08",
+      "completion_date": "2019-07",
+      "country": "Canada",
+      "enrollment": 24,
+      "brief_summary": "As of late Integrated Care Pathways (ICPs) have been shown to improve quality of care in the medical field with special attention given to mental health in particular. One aspect of metal health that has not seen the incorporation of ICPs is in the area of schizophrenia. Late life Schizophrenia (LLS) is defined as suffering from schizophrenia and being 50 years of age or older. The LLS-ICP study will look at the efficacy of an ICP in late life schizophrenia versus treatment as usual (TAU). Parti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All races and ethnicity\n* Meets DSM-IV TR (Diagnostic and Statistical Manual Version 4 Text Revision) criteria for a current diagnosis of Schizophrenia\n* clinically unstable and in an acute episode as defined by a CGI severity score greater than 3 or a BPRS thought disorder su",
+      "endpoints": [
+        "Efficacy of LLS-ICP using a medication algorithm and evaluating with the clinical global impression severity scale (CGI-S) and brief psychiatric rating scale (BPRS)"
+      ],
+      "sponsor": "Centre for Addiction and Mental Health",
+      "url": "https://clinicaltrials.gov/study/NCT02529163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00728195",
+      "title": "A Randomized, Double-Blind, Placebo- and Active-Controlled, Parallel-Group Study to Evaluate the Efficacy and Safety of 3 Fixed Doses of JNJ-37822681 Administered Twice Daily in Subjects With Schizophrenia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2010-02",
+      "country": "Bulgaria, South Korea, South Africa, Taiwan, Russia, Ukraine, Malaysia, Romania, Lithuania, Estonia",
+      "enrollment": 498,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of 3 fixed doses of JNJ-37822681 compared with placebo (an inactive substance that is compared with a drug to test if the drug has a real effect in a clinical trial) after 6 weeks treatment and olanzapine after 12 weeks treatment in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions and hallucinations, and withdrawal into the self).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have been diagnosed with schizophrenia according to Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV) (295.10, 295.20, 295.30, 295.60, 295.90) at least 1 year prior to screening\n* Participants must be experiencing an acute (a quick a",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score at Week 6"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00728195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05891015",
+      "title": "Exploring the Mechanism of Mindfulness Intervention to Alleviate Emotional Distress in Patients With Emotional Disorders",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-06-20",
+      "completion_date": "2025-12-15",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "This study hopes to:\n\n1. explore whether offline and online mindfulness interventions can significantly alleviate individual emotional distress,experiential avoidance and improve cognitive flexibility,distress tolerance level.\n2. explore whether cognitive flexibility, distress tolerance and experiential avoidance are the mediators in mindfulness intervention to alleviate emotional distress, and to meet the principles of mechanism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with scores greater than 21 on the Kessler Psychological Distress Scale.\n* Subjects have been diagnosed emotional disorders in the past 6 months.\n\nExclusion Criteria:\n\n* Subjects who could not access the Internet;\n* Subjects with insufficient Chinese ability;\n* Subjec",
+      "endpoints": [
+        "Weekly changes of Five Facet Mindfulness Questionnaire during the intervention",
+        "Weekly changes of Patient Health Questionnaire during the intervention",
+        "Weekly changes of Chinese Perceived Stress Scale during the intervention"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT05891015"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00667745",
+      "title": "Lithium Use for Bipolar Disorder (LiTMUS): A Randomized Controlled Effectiveness Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 283,
+      "brief_summary": "This study evaluated whether lithium included as part of optimized medication treatment improved overall level of illness, symptoms of mania and depression, and quality of life in people with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV Criteria for bipolar disorder (type I or II)\n* Currently symptomatic, as defined as a Clinical Global Impressions Scale-Bipolar Version, Overall Severity Index (CGI-BP-S) of greater than or equal to 3\n* If taking or has taken lithium, must be off lithium for at le",
+      "endpoints": [
+        "Overall Change in Bipolar Illness Severity as Measured by Clinical Global Impression for Bipolar Disorder Severity (CGI-BP-S) Score",
+        "Number of Necessary Medication Adjustments"
+      ],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00667745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04700930",
+      "title": "CBD Cigarettes Instead of Normal Cigarettes Against Enforcement Measures, for Improved Acute Treatment and for Harm Reduction of Smoking - Innovative Treatment for Schizophrenia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-04",
+      "completion_date": "2021-10-31",
+      "country": "Switzerland",
+      "enrollment": 31,
+      "brief_summary": "Interventional study using Cannabidiol containing cigarettes as replacement of usual cigarettes\n\nReduction of enforcement measures, improved acute treatment, harm reduction, and improvement of psychotic symptoms",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Schizophrenia or Related Disorders\n* PANNS \\> 21,\n* Tobacco-smokers\n* inpatient status\n* within age 18 - 65 years\n* German-speaking\n\nExclusion Criteria:\n\n* personality disorder\n* non-smokers\n* organic psychotic diseases\n* breast feeding\n* pregnancy",
+      "endpoints": [
+        "Change in psychotic symptoms",
+        "Change in violent behaviour.",
+        "Change in depressive Symptoms"
+      ],
+      "sponsor": "Psychiatric Hospital of the University of Basel",
+      "url": "https://clinicaltrials.gov/study/NCT04700930"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00433121",
+      "title": "Discontinuation of Antipsychotics and Antidepressants Among Patients With Dementia and BPSD Living in Nursing Homes - an Open Study.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2007-08",
+      "country": "Norway",
+      "enrollment": 24,
+      "brief_summary": "The aim of this study is to discontinue antipsychotics and antidepressants, and to study its effect on Behavioural- and Psychological Symptoms in Dementia (BPSD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Vascular- or Alzheimer Dementia\n* Nursing Homes resident for 3 months or more\n* Given antipsychotics or antidepressants for 3 months or more\n* Clinical Dementia rating 1, 2 or 3\n\nExclusion Criteria:\n\n* Dementia of other origin\n* Psychiatric disease\n* Life expectancy less than ",
+      "endpoints": [
+        "Changes in Neuropsychiatric Inventory",
+        "Changes in weight",
+        "Changes in Cornell's Depression Scale"
+      ],
+      "sponsor": "Sykehuset Innlandet HF",
+      "url": "https://clinicaltrials.gov/study/NCT00433121"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00845026",
+      "title": "A Long-Term, Phase 2, Multicenter, Randomized, Open-Label Comparative Safety Study of LY2140023 Versus Atypical Antipsychotic Standard of Care in Patients With DSM-IV-TR Schizophrenia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-12",
+      "country": "Germany, Mexico, Russia, United States",
+      "enrollment": 261,
+      "brief_summary": "The primary objective of this study was to assess time to discontinuation due to lack of tolerability among patients with schizophrenia receiving LY2140023, given orally twice daily for 24 weeks, versus those on atypical antipsychotic standard-of-care (SOC) treatment. Lack of tolerability was defined as discontinuation due to adverse events (AEs).\n\nPatients who completed the active treatment phase were eligible to continue to an optional 28 weeks of treatment extension phase. This extension phas",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of schizophrenia\n* Patients, in the investigator's opinion, must require a switch to another antipsychotic medication as clinically indicated or initiation of an antipsychotic agent\n* Patients must be willing and able to be hospitalized, or to remain hospita",
+      "endpoints": [
+        "Time to Discontinuation Due to Adverse Event (AE)"
+      ],
+      "sponsor": "Denovo Biopharma LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00845026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06667999",
+      "title": "The Intensive Care Platform Trial (INCEPT)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-06-26",
+      "completion_date": "2035-12",
+      "country": "Denmark",
+      "enrollment": 10000,
+      "brief_summary": "Among critically ill patients, many die, and many of the survivors and their family members struggle for years with reduced quality of life. Critically ill patients are treated in intensive care units (ICUs). Here, they receive life support, e.g., mechanical ventilation and advanced support of the circulation (heart and blood vessels) and kidneys. In addition, ICU patients receive many other treatments. It is, however, uncertain if all the treatments provide value for the patients. The desirable",
+      "eligibility_criteria": "The general eligibility criteria below apply to INCEPT as a whole and thus to all domains. Domains may impose domain-specific eligibility criteria that restrict the population eligible for that domain further, but domains are not allowed to broaden the general eligibility criteria. Domain-specific e",
+      "endpoints": [
+        "One of the INCEPT core outcomes (varying between domains)",
+        "Days alive without life support at day 30 (Albumin domain)",
+        "Days alive and out of hospital at day 30 (Thromboprophylaxis domain)"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT06667999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04216329",
+      "title": "A Phase I Clinical Trial of Selinexor (KPT-330) in Combination With Temozolomide and Radiation Therapy in Patients With Newly Diagnosed Glioblastoma",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-07-07",
+      "completion_date": "2028-07-30",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "Background:\n\nGlioblastoma is a type of brain cancer. Treatments include radiation, chemotherapy, and surgery. But survival rates are poor. Researchers think that the drug selinexor, when combined with chemotherapy and radiation, might help.\n\nObjective:\n\nTo learn the highest dose of selinexor that people with brain cancer can tolerate when given with temozolomide and radiation therapy.\n\nEligibility:\n\nPeople ages 18 and older with brain cancer that has not been treated with chemotherapy or radiati",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Histological diagnosis\n\n     * Pathologically confirmed glioblastoma or gliosarcoma (including astrocytoma, grade IV)\n  2. Patients must be eligible for definitive external beam radiotherapy and temozolomide.\n  3. Age \\>18 years. Because no dosing or adverse event data ar",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Selinexor"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT04216329"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00129220",
+      "title": "Placebo- and Haloperidol-Controlled Double-Blind Trial of Olanzapine in Patients With Manic or Mixed Episode of Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2009-01",
+      "country": "Japan",
+      "enrollment": 224,
+      "brief_summary": "The purpose of this study is to confirm the efficacy of olanzapine in the treatment of manic or mixed symptoms associated with bipolar I disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the criteria for manic or mixed episodes according to the Diagnostic and Statistical Manual of Mental Disorders Fourth Edition, Text Revision (DSM-IV-TR) and have a diagnosis of \"294.4x Bipolar I Disorder, Most Recent Episode Manic\" or \"296.6x Bipolar I Disorder, Most Rec",
+      "endpoints": [
+        "Change From Baseline to 3 Week Endpoint in Young Mania Rating Scale (YMRS) Total Score"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00129220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05889234",
+      "title": "Multimodal Magnetic Resonance Imaging-based Study of Electroconvulsive Efficacy Prediction in Adolescents With Depression: a Multicenter Prospective Cohort Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-11-06",
+      "completion_date": "2026-01-01",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "The aim of this project is to investigate the multimodal magnetic resonance brain imaging changes in adolescents with major depressive disorder (MDD) before and after electroconvulsive therapy. Development of a predictive model for the efficacy of electroconvulsive therapy in adolescent MDD.",
+      "eligibility_criteria": "Inclusion criteria for the modified electroconvulsive therapy (MECT) and non-modified electroconvulsive therapy (Non-MECT) groups:\n\n1. Age 13-18 years.\n2. Meeting a diagnosis of depression (MDD) from the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) based the Schedule for Affective D",
+      "endpoints": [
+        "Changes in CDRS-R (Children's Depression Rating Scale, Revised) scores"
+      ],
+      "sponsor": "First Affiliated Hospital of Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT05889234"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00510146",
+      "title": "Efficacy and Safety of Olanzapine in the Treatment of Patients With Bipolar I Disorder, Depressed: A Randomized, Double-Blind Comparison With Placebo",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2010-07",
+      "country": "Japan, China, South Korea",
+      "enrollment": 514,
+      "brief_summary": "The purpose of this study is to assess whether olanzapine is superior to placebo in patients with bipolar depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Each patient must be reliable, have a level of understanding sufficient to perform all tests and examinations required by the protocol, and must understand the nature of the study and have provided informed consent\n* All female patients must test negative for pregnancy and fem",
+      "endpoints": [
+        "Change From Baseline to Endpoint in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score (Acute Phase)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00510146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00391222",
+      "title": "A Randomized, Double Blind, Placebo and Active Controlled Parallel Group Study to Evaluate the Efficacy and Safety of Risperidone Long-acting Injectable (LAI) for the Prevention of Mood Episodes in the Treatment of Subjects With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-04",
+      "country": "Lebanon, Indonesia, Philippines, Mexico, South Africa, Taiwan, India, Greece, Russia, Germany, China, Malaysia, Peru, Colombia, Jordan",
+      "enrollment": 585,
+      "brief_summary": "The purpose of this randomized, double blind, double dummy, multicenter study was to evaluate the efficacy of risperidone long-acting injectable (LAI) monotherapy in comparison with placebo in the prevention of a mood episode in treatment of patients with bipolar I disorder. Oral olanzapine was used to assess the validity of the study design. The primary objective of this study is to evaluate the efficacy of risperidone LAI versus placebo in the prevention of a mood episode (recurrence event) in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar I disorder as defined by DSM-IV-TR criteria. All diagnoses will be confirmed by the Mini International Neuropsychiatric Interview (M.I.N.I.). Patients who present with additional signs or symptoms compatible with Axis I diagnoses of social anxiety disorder",
+      "endpoints": [
+        "Time to Recurrence of a Mood Episode (Risperidone LAI Versus Placebo)"
+      ],
+      "sponsor": "Janssen Pharmaceutica N.V., Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00391222"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06035003",
+      "title": "Mechanism of Mindfulness-Based Online Intervention in Enhancing Cognitive Flexibility: Thoughts as Thoughts",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-09-18",
+      "completion_date": "2024-02-28",
+      "country": "China",
+      "enrollment": 595,
+      "brief_summary": "Traditional offline interventions such as MBCT and MBSR have been implemented to treat patients with emotional disorders and obtained significantly improved clinical outcomes. However, these offline interventions require the involvement of a therapist expert in mindfulness and usually charge a high fee, which may not be accessible and cost-effective for lots of patients with psychological disorders. Fortunately, online self-help interventions can compensate for these disadvantages. Our research ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with scores greater than 21 on the Kessler Psychological Distress Scale.\n\nExclusion Criteria:\n\n* Subjects who could not access the Internet;\n* Subjects with insufficient Chinese ability;\n* Subjects who have participated in mindfulness based projects for more than 6 we",
+      "endpoints": [
+        "Weekly changes of Five Facet Mindfulness Questionnaire - Short Form during the intervention",
+        "Weekly changes of Patient Health Questionnaire during the intervention",
+        "Weekly changes of Chinese Perceived Stress Scale during the intervention"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT06035003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00259272",
+      "title": "Phase IIIb, Multicenter, Single-Arm Open-Label Study, Supporting the Development and the Validation of the MATHYS Scale (Multidimensional Assessment of THYmic States) in a Population of Bipolar Patients Treated With Olanzapine, Either in-Label (Manic and Mixed Patients) and Off-Label (Hypomanic and Bipolar Depression)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2008-05",
+      "country": "France",
+      "enrollment": 141,
+      "brief_summary": "A non randomized study to validate the MATHYS Scale in a population of in and outpatients greater than or equal to 18 years of age, suffering from Bipolar Disorder I or II, and treated with olanzapine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must meet Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) disease diagnostic criteria for Bipolar Disorder\n\n   * currently or most recently in a Manic Episode (Single Manic Episode or Most Recent Episode Manic) or\n   *",
+      "endpoints": [
+        "Mean Changes From Baseline to 6 Week and 24 Week Endpoints in the Multidimensional Assessment of THYmic States Scale (MATHYS) Total Score",
+        "Baseline MATHYS Assessment - Principal Component Analysis and Orthogonal Transformation Matrix"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00259272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00179062",
+      "title": "Effects of Risperidone and Olanzapine on Weight Gain, Physical Health, and Outcome in a Community Sample of Severity and Persistently Ill Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-02",
+      "completion_date": "2007-06",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "This twelve month, open-label study considers the effect of Risperdal (risperidone) versus Zyprexa (olanzapine) on weight gain, physical health, and outcome in a population of those diagnosed with schizophrenia, schizoaffective disorder, major depression or bipolar disorder with psychotic features. This study evaluates symptom response as well as general health indicators such as body mass index, glucose, prolactin, and cholesterol levels at baseline, month (M)1, M3, M6 and M12.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must meet all of the following criteria to be eligible for participation in the current research study.\n\n1. Subjects will be males and females between 18-60 years of age\n2. Subjects will have a definite diagnosis by DSM-IV criteria of schizophrenia, schizoaffective diso",
+      "endpoints": [
+        "Evaluate the main and interactional effects of risperidone and olanzapine on body mass index (BMI), other measures of obesity, and other health-related factors, including total cholesterol, lipid panels, blood glucose, glycohemoglobin, and prolactin"
+      ],
+      "sponsor": "Vanderbilt University",
+      "url": "https://clinicaltrials.gov/study/NCT00179062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03857581",
+      "title": "Clozapine Versus Olanzapine as Treatment for Comorbid Psychotic Disorder and Substance Use Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-07",
+      "completion_date": "2021-07",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this trial is to determine if patients with comorbid psychotic disorder and substance use disorder will continue in treatment longer if treated with clozapine than with olanzapine, and will have greater reductions in psychosis and in substance use if treated with clozapine than treated with olanzapine. The specific aims and hypotheses of this trial are: 1. To compare the enduring effectiveness and tolerability of clozapine and olanzapine, as measured by time to all-cause treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-60 years of age, male or female (post-menopausal, surgically sterilized, or receiving either one of the listed contraception - depot contraceptive, Intrauterine device, or implanted hormonal contraceptive),\n* who meet DSM-V criteria for schizophrenia, schizoaffective disord",
+      "endpoints": [
+        "Frequencies of positive urine drug screens and breathalyzer alcohol levels"
+      ],
+      "sponsor": "Augusta University",
+      "url": "https://clinicaltrials.gov/study/NCT03857581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04341467",
+      "title": "Amisulpride Versus Olanzapine Treatment for Behavioral and Psychological Symptoms in Patients With Dementia of the Alzheimer Type:A Randomized, Open-label, Prospective Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-01",
+      "completion_date": "2024-05",
+      "country": "China",
+      "enrollment": 76,
+      "brief_summary": "Currently, olanzapine is the most widely used and studied drug for the treatment of behavioral and psychological symptoms in patients with Alzheimer's disease, but there are significant side effects. Amisulpride is a new antipsychotic that not only controls mental symptoms but also improves cognitive function. Therefore, the aim of this study was to evaluate the effectiveness and tolerability of both amisulpride and Olanzapine for treating the behavioral and psychological symptoms of dementia in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. It conforms to the diagnostic standard of Alzheimer's disease in International Classification of Diseases 10th Revision (ICD-10)\n2. a total score of MMSE\\<24\n3. The patients had active behavioral symptoms with a minimum score of 20 on the 12-point Neuropsychiatric Inventory (",
+      "endpoints": [
+        "Changes of neuropsychiatric inventory（NPI）scores"
+      ],
+      "sponsor": "Tianjin Anding Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04341467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02439099",
+      "title": "Retinoic Acid Homeostasis in Neuropsychiatric Diseases",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2015-03",
+      "completion_date": "2022-12",
+      "country": "Germany",
+      "enrollment": 200,
+      "brief_summary": "It is hypothesized, that local retinoic acid (RA) homeostasis is functionally involved in the pathophysiology of depression. In a cross-sectional (and partly longitudinal) analysis, serum RA status will be assessed in healthy controls and subjects with Major Depression, Alzheimer's disease, alcoholism and in subjects with schizophrenia.",
+      "eligibility_criteria": "MDD-Group\n\nInclusion Criteria:\n\n* depressive episode in the context of unipolar major depression\n* at least 18 points or more on the BDI and HAMD-17\n\nExclusion Criteria:\n\n* additional or comorbid axis-I or axis-II disorder\n* current history of any neurological or other serious medical condition\n* an",
+      "endpoints": [
+        "Serum retinoic acid (RA) levels [nM]"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT02439099"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07263191",
+      "title": "A Multicenter, Prospective Observational Study to Evaluate Treatment Patterns and Safety in Patients With Bipolar Disorder Taking Olanzapine",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-10-30",
+      "completion_date": "2027-09",
+      "country": "South Korea",
+      "enrollment": 3000,
+      "brief_summary": "This study aimed to identify treatment patterns in patients with bipolar disorder receiving olanzapine according to demographic and clinical characteristics and to evaluate the effectiveness of education on weight gain, a side effect of olanzapine, in preventing weight gain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who have signed the informed consent after receiving information about the purpose and method of this study.\n* Patients diagnosed with bipolar disorder and scheduled to receive olanzapine.\n* Patients who understand the contents of the survey and can answer the questio",
+      "endpoints": [
+        "Treatment pattern"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT07263191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00186017",
+      "title": "Double-Blind Placebo-Controlled Olanzapine Add-on Therapy in the Treatment of Acute Syndromal and Subsyndromal Exacerbations in Bipolar Disorders",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2010-06",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "We will assess the effect of olanzapine compared to placebo added to prior treatment on CGI-S in a one-week randomized double-blind study. We will also assess the effect of olanzapine added to prior treatment on CGI-S in an eight-week open treatment study. In addition, we will assess the effect of olanzapine on Young Mania Rating Scale (YMRS), Hamilton and Montgomery-Asberg Depression Rating Scales (HDRS, and MADRS), and Hamilton Anxiety Rating Scales (HARS) in the above paradigms. We will also ",
+      "eligibility_criteria": "Inclusion Criteria:Patients must meet the following criteria to be eligible to participate in the study:\n\n* Male or female outpatients, 18 to 70 years of age\n* Female patients of childbearing potential must be using a medically accepted means of contraception\n* Able to communicate intelligently with",
+      "endpoints": [
+        "Mean Change in CGI-BP-OS After 1 Week of Treatment"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00186017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00190749",
+      "title": "Insulin Sensitivity in Patients With Schizophrenia or Schizoaffective Disorder Treated With Olanzapine and Risperidone",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "2008-06",
+      "country": "United States",
+      "enrollment": 130,
+      "brief_summary": "This study will assess whether olanzapine and/or risperidone affect the way the human body uses sugar in the blood.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-65 years old\n* Diagnosed with Schizophrenia or Schizoaffective disorder\n* Ability to visit the doctor's office for scheduled visits\n\nExclusion Criteria:\n\n* Women who are pregnant or breastfeeding\n* Have a body mass index (BMI) greater than 40\n* Have diabetes, heart disease ",
+      "endpoints": [
+        "Change in Baseline to Last Observation In Normalized Insulin Sensitivity Index at Low Insulin Phase Using Change in Weight as a Covariate"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00190749"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00056472",
+      "title": "Effectiveness of Selective Serotonin Reuptake Inhibitors Combined With Antipsychotic Medication for the Treatment of Psychotic Depression",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2008-06",
+      "country": "Canada, United States",
+      "enrollment": 259,
+      "brief_summary": "This study will determine the effectiveness of combining selective serotonin reuptake inhibitors (SSRIs) with antipsychotic medications in the treatment of psychotic depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Major depressive disorder, single or recurrent, with psychotic features\n\nExclusion Criteria:\n\n* History of substance abuse or dependence within the 3 months prior to enrollment\n* Acute or unstable medical illness\n* Diagnosis of schizophrenia or other psychotic disorders\n* Preg",
+      "endpoints": [
+        "Remission of Depression Hamilton Depression Scale (Ham-D) and Psychosis Schedule for Affective Disorders in Schizophrenia - Delusional Item (SADS) During the Course of the Trial"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT00056472"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01686815",
+      "title": "Cross-sectional Study to Compare Glucose and Lipid Metabolism in SMI Subjects Treated With Either Fanapt (Iloperidone), Zyprexa (Olanzapine), or Risperdal (Risperidone)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2016-05",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "This study aims to utilize state of the art procedures such as the frequently sampled intravenous glucose tolerance test (FSIVGTT), Bergman's Minimal Model Analysis, lipoprotein analysis, and DEXA scans to demonstrate that a newer agent, iloperidone, is devoid of the metabolic abnormalities associated with other atypical antipsychotic treatments, namely olanzapine and risperidone, and offers an advantage over these other agents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male/Female ages 18-65 years\n2. Capacity to provide informed consent\n3. BMI between 20 and 30 kg/m²\n4. Diagnosis of a serious mental illness, including schizophrenia, any subtype; schizoaffective disorder, any subtype; major depressive disorder, bipolar disorder, psychosis NO",
+      "endpoints": [
+        "Difference between cohorts in glucose metabolism",
+        "Difference between cohorts in triglycerides",
+        "Difference between cohorts on LDL cholesterol"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01686815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01057329",
+      "title": "Therapeutic Drug Monitoring (TDM) in Child & Adolescent Psychiatry",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2019-03-05",
+      "country": "Austria",
+      "enrollment": 200,
+      "brief_summary": "The investigators aim to analyse in adolescents with mental illness effectiveness, side effects, and serum level concentrations of antipsychotics (olanzapine and aripiprazole), antidepressants (Duloxetine, Atomoxetine) by means of \"Therapeutic Drug Monitoring\" (TDM) in order to optimize dosage - effect relations and minimize unwanted side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* appropriate diagnosis and severity of the disorder of interest\n* age range 10-19\n\nExclusion Criteria:\n\n* below 10 yrs of age\n* no written informed consent possible due to intelligence or no willingness by parents to include minor",
+      "endpoints": [
+        "Blood level concentrations of the drugs in use;"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT01057329"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00384332",
+      "title": "Orally-Disintegrating vs. Regular Olanzapine Tablets: Effects on Weight and GI Hormones",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is an 8 week study that compares two medications. One medication is olanzapine (5-20 mg daily) whereas the other medication is an orally disintegrating medication. Both medications are used to treat depressed bipolar patients. The main focus of this study is the comparison of these two medications on gastro-intestinal hormones and weight gain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A principal diagnosis of bipolar 1 or II disorder\n* Ages 18-60\n* Physically healthy\n* Outpatient status\n* Montgomery-Asberg Rating Scale (MADRS) Score greater than or equal to 15\n* BMI 23-30\n* Able and willing to give written informed consent\n\nExclusion Criteria:\n\n* Prior hist",
+      "endpoints": [
+        "Weight in Kilograms at Baseline, Weeks 1, 4, 6, and 8"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00384332"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01342120",
+      "title": "Seroquel Safety Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2010-11",
+      "country": "N/A",
+      "enrollment": 18325,
+      "brief_summary": "The purpose of this observational study is to study specific outcomes of interest in users of quetiapine compared with all other atypical antipsychotics and specifically olanzapine and risperidone. The outcomes of interest are all-cause mortality, failed suicide attempts, extrapyramidal symptoms, diabetes mellitus, hypothyroidism, acute myocardial infarction and stroke. This retrospective cohort study is based on population-based record linkage system (PHARMO RLS) capturing about 2.5 millions re",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Episode of new use of atypical antipsychotics in naïve (not used antipsychotic drugs for a year) users of antipsychotics.\n\nExclusion Criteria:\n\n* less than a year of recorded history before the cohort entry date\n* use of multiple antipsychotics concomitantly\n* duration and dos",
+      "endpoints": [
+        "The outcomes of interest will be evaluated by means of relative risk based on incidence rates estimates in users of quetiapine vs corresponding incidence rates in users of comparison drugs"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01342120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02977741",
+      "title": "Olanzapine for the Treatment of Refractory Chronic Nausea and Vomiting",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2016-11",
+      "completion_date": "2017-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Prospective, observational study evaluating the effect of olanzapine for the treatment of refractory chronic nausea and vomiting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-65 years of age\n* Able to communicate in English without aid of interpreter\n* Have chronic refractory nausea, meeting each of the following criteria:\n\n  1. Baseline nausea and vomiting score on VAS of 25mm or greater\n  2. Duration symptoms of at least 6 months (does not hav",
+      "endpoints": [
+        "Nausea and vomiting severity"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT02977741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00246259",
+      "title": "An Open-Label Randomized Trial Comparing Risperdal Consta With Oral Antipsychotic Care in the Treatment of Early Psychosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2008-12",
+      "country": "Canada",
+      "enrollment": 77,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness, safety and tolerability of risperidone long-acting injection (LAI) versus oral antipsychotics in participants with recent onset psychosis (abnormal thinking and/or hallucinations).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In-patients or out-patients\n* Primary Diagnostic and Statistical Manual of Mental Disorders, fourth edition (DSM-IV) diagnosis of schizophrenia, schizophreniform disorder or schizoaffective disorder for no longer than 3 years after diagnosis and treatment of a psychotic illnes",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score at Week 104 or Last Reported Visit (LRV)",
+        "Time to Relapse",
+        "Change From Baseline in Social and Occupational Functioning Assessment Scale (SOFAS) at Week 104 or LRV"
+      ],
+      "sponsor": "Janssen-Ortho Inc., Canada",
+      "url": "https://clinicaltrials.gov/study/NCT00246259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03790085",
+      "title": "Identification of Multi-modal Bio-markers for Early Diagnosis and Treatment Prediction in Schizophrenia Individuals",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-01",
+      "completion_date": "2020-12-31",
+      "country": "China",
+      "enrollment": 2700,
+      "brief_summary": "This study aims to screen and validate multi-scale bio-markers for early diagnosis and medication monitoring for early schizophrenia, including the genetic, neurobiochemistry, neuroimaging and eletrophysiological measures. Based on the validated bio-markers, the present study further tries to build several prediction models for early differential diagnosis of schizophrenia from healthy controls and other mental diseases (such as the major depression and anxiety disorders), biological sub-typing ",
+      "eligibility_criteria": "Inclusion Criteria for patients:\n\n* According with American mental disorder diagnosis and Diagnostic criteria for schizophrenia, major depressive disorder, and anxiety disorder in the statistical manual DSM-IV\n* The time from the onset of symptoms for the first time to participate in study is less t",
+      "endpoints": [
+        "Positive and Negative Syndrome Scale (PANSS)",
+        "Clinical Global Impression(CGI)"
+      ],
+      "sponsor": "Tianjin Medical University General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03790085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04076371",
+      "title": "The Treatment Efficacy of Combination Atypical Antipsychotics With Sertraline in Patients With Schizophrenia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2018-12",
+      "country": "N/A",
+      "enrollment": 1640,
+      "brief_summary": "A randomized, double-blind trial of the treatment effect of dose-low antipsychotics combined with low-dose sertraline in 1640 schizophrenia patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of schizophrenia by two senior psychiatrists\n* Between 18 and 60 years and Han Chinese\n\nExclusion Criteria:\n\n* A Diagnostic and Statistical Manual of Mental Disorders (DSM)-IV Axis I diagnosis other than schizophrenia\n* Documented disease of physical diseases includi",
+      "endpoints": [
+        "changes in psychopathology symptoms on PANSS during antipsychiatric treatment",
+        "changes in depressive symptoms on HAMD during antipsychiatric treatment"
+      ],
+      "sponsor": "Beijing HuiLongGuan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04076371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05693935",
+      "title": "A Multinational, Multicenter, Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study With an Open-Label, Long-Term Safety Phase to Evaluate the Efficacy, Safety, and Tolerability of Olanzapine for Extended-Release Injectable Suspension (TV-44749) for Subcutaneous Use as Treatment of Adult Patients With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-01-24",
+      "completion_date": "2025-01-27",
+      "country": "Bulgaria, Turkey (Türkiye), China, Romania, United States",
+      "enrollment": 675,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of TV-44749 in adult participants with schizophrenia.\n\nA key secondary objective is to further evaluate the efficacy of TV-44749 based on additional parameters in adult participants with schizophrenia.\n\nA secondary objective is to evaluate the safety and tolerability of TV-44749 in adult participants with schizophrenia\n\nAnother secondary objective of this study is to evaluate the efficacy of TV-44749 from baseline to endpoint in Per",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participant has a current confirmed diagnosis of schizophrenia according to the DSM-5, for \\>1 year\n* The participant has exacerbation of schizophrenia that started ≤8 weeks prior to screening and would benefit from psychiatric hospitalization or continued hospitalization ",
+      "endpoints": [
+        "Double-blind Period: Change in the Positive and Negative Syndrome Scale (PANSS) Total Score From Baseline to Week 8"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05693935"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02536846",
+      "title": "The Effects of Antipsychotic Drugs on Brain Metabolism in Healthy Individuals",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-11-17",
+      "completion_date": "2019-11-08",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "The primary aim of this study is to investigate antipsychotic drug effects on healthy brain metabolism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 21-50 years old\n* Male or female\n* Without psychiatric diagnosis according to a structured psychiatric interview (SCID)\n* Without history of a psychotic disorder among parents, siblings, or children\n\nExclusion Criteria:\n\n* Significant medical or neurological illness\n* Dia",
+      "endpoints": [
+        "Change in Brain Nicotinamide Adenine Dinucleotide Metabolites NAD+/NADH",
+        "Change in Brain Phosphocreatine (PCr)",
+        "Change in Brain Creatine Kinase (CK) Forward Reaction Rate"
+      ],
+      "sponsor": "Mclean Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02536846"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00845507",
+      "title": "A Double-Blind Placebo-Controlled Study of Exenatide for the Treatment of Weight Gain Associated With Olanzapine in Obese Adults With Bipolar Disorder, Major Depressive Disorder, Schizophrenia or Schizoaffective Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2015-07",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "The purpose of this research study is to test the safety and efficacy (how well it works) of exenatide as a treatment for weight gain associated with olanzapine in obese adults with Bipolar Disorder, Major Depressive Disorder, Schizophrenia or Schizoaffective Disorder\n\nExenatide has been approved by the FDA for the treatment of Type 2 diabetes.\n\nIt has not been approved for the treatment of weight gain associated with olanzapine in obese adults with bipolar disorder, Major Depressive Disorder, S",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must be between the ages of 18 and 55 years old.\n2. Subjects must have bipolar I disorder, schizophrenia, schizoaffective disorder or MDD as defined by DSM-IV-TR criteria and diagnosed using the Structured Clinical Interview for DSM-IV (SCID).\n3. Subjects must have a",
+      "endpoints": [
+        "Change in Weight From Baseline to Endpoint."
+      ],
+      "sponsor": "University of Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00845507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00844857",
+      "title": "Study to Assess the Efficacy and Safety of Olanzapine and Fluoxetine Combination Versus Placebo in Patients Ages 10-17 in the Treatment of Major Depressive Episodes Associated With Bipolar I Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2012-02",
+      "country": "Russia, United States",
+      "enrollment": 291,
+      "brief_summary": "The main goal of this study is to help answer the following research question(s) and not to treat the child's illness.\n\n* Can this study drug make children with bipolar depression feel better?\n* Does this study drug work better than a placebo (sugar pill)?\n* Does this study drug cause side effects in children who take it?\n* Is this drug safe to use in children? (The study drug is a mixture of olanzapine and fluoxetine)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female inpatients or outpatients, 10-17 years of age, who have not reached their 18th birthday prior to screening. Patient must weigh at least 20 kilograms (kg) at screening.\n* Must meet diagnostic criteria for current major depressive episode of Bipolar I Disorder acc",
+      "endpoints": [
+        "Change From Baseline in the Children's Depression Rating Scale Revised (CDRS-R) Total Score at Week 8"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00844857"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06613334",
+      "title": "Automatic Measurement of Antipsychotic Medication Adherence in Schizophrenia Through Speech (OBSERVSPEECH)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-10-04",
+      "completion_date": "2026-10-04",
+      "country": "France",
+      "enrollment": 200,
+      "brief_summary": "Schizophrenia is a serious psychiatric illness affecting approximately 25 million people worldwide. Patients with schizophrenia experience hallucinations, auditory illusions, disordered thinking, movement disorders, cognitive impairment and social isolation. Treatments with antipsychotics have proven effective in improving their living conditions, but poor compliance results in relapses and rehospitalizations for the majority of patients, which often results in a worsening of residual symptoms. ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Affiliated to a social security or other social protection scheme\n* Diagnosed with schizophrenia according to the DSM-5 (code F20)\n* Stable state without duration criteria\n* Main treatment with risperidone or paliperidone, aripiprazole, olanzapine in oral or long-acting inject",
+      "endpoints": [
+        "Voice interviews recorded on Callyope application",
+        "Plasma concentration of antipsychotics"
+      ],
+      "sponsor": "Centre Hospitalier St Anne",
+      "url": "https://clinicaltrials.gov/study/NCT06613334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00704860",
+      "title": "Treatment-Resistant Depression, Hippocampus Atrophy and Serotonin Genetic Polymorphism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2010-12",
+      "country": "Canada",
+      "enrollment": 27,
+      "brief_summary": "Reduction of volume of the hippocampus has been associated with major depression in many studies. It has been suggested that antidepressants may protect against hippocampus volume loss in humans associated with multiple episodes of depression and may also reverse the reduction of volume caused by the depression. In addition, genetic markers for serotonin are implicated with depression, and may be an indication of reduced response to antidepressant treatments.\n\nThis study aims to enroll patients ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between ages of 18 to 65 years of age.\n* A diagnosis of Major Depression according to the DSM-IV criteria\n* Failing to achieve remission while receiving at least two different antidepressants at adequate dosage for at least 6 weeks.\n* Initial score of at least 1",
+      "endpoints": [
+        "Sustained Remission from Depression and Hippocampal Atrophy"
+      ],
+      "sponsor": "University of Ottawa",
+      "url": "https://clinicaltrials.gov/study/NCT00704860"
+    }
+  ],
+  "timestamp": "2026-03-04T15:05:28.704797",
+  "success": true,
+  "error_message": null
+}

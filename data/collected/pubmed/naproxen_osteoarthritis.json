@@ -1,0 +1,603 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Naproxen",
+    "disease": "osteoarthritis",
+    "query_string": "Naproxen AND osteoarthritis"
+  },
+  "data": {
+    "query": "Naproxen AND osteoarthritis",
+    "results": [
+      {
+        "pmid": "32180294",
+        "title": "Herbal formulation \"turmeric extract, black pepper, and ginger\" versus Naproxen for chronic knee osteoarthritis: A randomized, double-blind, controlled clinical trial.",
+        "abstract": "Osteoarthritis is the most common articular disease that can lead to chronic pain and severe disability. Curcumin-an effective ingredient in turmeric with anti inflammatory property-plays an important role in protecting the joints against destructive factors. Gingerols and piperine, are the effective ingredients of ginger and black pepper, which may potentially enhance and sustain the effect of curcumin in this direction. To determine the effect of cosupplementation with turmeric extract, black pepper, and ginger on prostaglandin E2 (PGE2 ) in patients with chronic knee osteoarthritis, compared with Naproxen. Sixty patients with two different levels of knee osteoarthritis (Grade 2 and 3) were studied. Individuals were randomly assigned to receive daily turmeric extract, ginger, and black pepper together or Naproxen capsule for 4 weeks. PGE2 was evaluated by ELISA method. 24-hr recall was also assessed. All of participants completed the study. PGE2 decreased significantly in both groups",
+        "journal": "Phytotherapy research : PTR",
+        "year": "2020",
+        "authors": [
+          "Heidari-Beni Motahar",
+          "Moravejolahkami Amir R",
+          "Gorgian Pegah",
+          "Askari Gholamreza",
+          "Tarrahi Mohammad J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Chronic Disease",
+          "Curcuma",
+          "Curcumin",
+          "Double-Blind Method",
+          "Female",
+          "Zingiber officinale",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32180294/"
+      },
+      {
+        "pmid": "25560713",
+        "title": "Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.",
+        "abstract": "The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated.",
+        "journal": "Annals of internal medicine",
+        "year": "2015",
+        "authors": [
+          "Bannuru Raveendhara R",
+          "Schmid Christopher H",
+          "Kent David M",
+          "Vaysbrot Elizaveta E",
+          "Wong John B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Adrenal Cortex Hormones",
+          "Analgesics, Non-Narcotic",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Humans",
+          "Hyaluronic Acid",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25560713/"
+      },
+      {
+        "pmid": "27959716",
+        "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+        "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+        "journal": "The New England journal of medicine",
+        "year": "2016",
+        "authors": [
+          "Nissen Steven E",
+          "Yeomans Neville D",
+          "Solomon Daniel H",
+          "Lüscher Thomas F",
+          "Libby Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+      },
+      {
+        "pmid": "24175972",
+        "title": "Osteoarthritis of the hand II: chemistry, pharmacokinetics and pharmacodynamics of naproxen, and clinical outcome studies.",
+        "abstract": "This article aims to review osteoarthritis of the hand and the role of the non-steroidal anti-inflammatory drug (NSAID) naproxen on its management. We discuss the chemical and pharmacological properties of naproxen and the NSAID class, with an emphasis on its mechanism and adverse reactions. In the context of part I of this paper in characterizing hand osteoarthritis (OA), we review clinical trials that have been conducted involving hand OA and naproxen.",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2014",
+        "authors": [
+          "Leung Garvin J",
+          "Rainsford K D",
+          "Kean Walter F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Hand",
+          "Humans",
+          "Naproxen",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24175972/"
+      },
+      {
+        "pmid": "40333622",
+        "title": "Assessing the efficacy and safety of different nonsteroidal anti-inflammatory drugs in the treatment of osteoarthritis: A systematic review and network meta-analysis based on RCT trials.",
+        "abstract": "Osteoarthritis (OA) as a degenerative disease, has seen a continuous rise in incidence and prevalence globally since 1990, imposing a significant disease burden. NSAIDs (Nonsteroidal anti-inflammatory drugs) as symptomatic medications for OA treatment, hold an indispensable position in clinical practice.",
+        "journal": "PloS one",
+        "year": "2025",
+        "authors": [
+          "JiaoYi Pan",
+          "YongQi Sun",
+          "KeChun Guo",
+          "XingYu Li",
+          "ZeZhong Liu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Bayes Theorem",
+          "Osteoarthritis",
+          "Osteoarthritis, Knee",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40333622/"
+      },
+      {
+        "pmid": "12387696",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam (Mobic trade mark, Boehringer Ingelheim) is a relatively new oral non-steroidal anti-inflammatory drug (NSAID) approved for the treatment of osteoarthritis in the US. It has also been evaluated for the treatment of rheumatoid arthritis, ankylosing spondylitis and acute 'rheumatic' pain. Meloxicam has been shown to be COX-2 preferential, particularly at its lowest therapeutic dose, and is anti-inflammatory by inhibiting prostanoid synthesis in inflammatory cells. Since it is COX-2 preferential, it would be expected to have less gastrointestinal toxicity than non-selective NSAIDs. In clinical trials of meloxicam in osteoarthritis, it was found to be as effective as piroxicam, diclofenac and naproxen with less clinical gastrointestinal symptoms and less perforations, obstructions and bleeds by meta-analysis. Adverse events, including peripheral oedema and hypertension, occurred at a similar rate as with traditional NSAIDs.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2002",
+        "authors": [
+          "Fleischmann Roy",
+          "Iqbal Imran",
+          "Slobodin Gleb"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Drug Interactions",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Pain",
+          "Product Surveillance, Postmarketing",
+          "Spondylitis, Ankylosing",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12387696/"
+      },
+      {
+        "pmid": "8882380",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam is a new nonsteroidal anti-inflammatory drug (NSAID) developed for the treatment of rheumatoid arthritis and osteoarthritis. It has greater in vitro and in vivo inhibitory action against the inducible isoform of cyclo-oxygenase (COX-2), which is implicated in the inflammatory response, than against the constitutive form of this enzyme (COX-1), inhibition of which is associated with gastric, renal and other adverse effects. It has anti-inflammatory effects similar to or better than those of other NSAIDs in animal models, and a greater therapeutic ratio (ulcerogenic potential:efficacy in adjuvant arthritis). In healthy volunteers meloxicam 7.5 or 15 mg caused less gastrointestinal mucosal damage on endoscopy than piroxicam 20 mg, with a significant difference between meloxicam 7.5 mg and piroxicam. In comparative clinical trials, meloxicam was at least as effective as piroxicam and naproxen in patients with rheumatoid arthritis, and diclofenac and piroxicam in patients with ost",
+        "journal": "Drugs",
+        "year": "1996",
+        "authors": [
+          "Noble S",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Biological Availability",
+          "Clinical Trials as Topic",
+          "Half-Life",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8882380/"
+      },
+      {
+        "pmid": "10493277",
+        "title": "Rofecoxib.",
+        "abstract": "Rofecoxib selectively inhibits cyclo-oxygenase-2 in a dose-dependent manner in humans. No significant inhibition of cyclo-oxygenase-1 is observed with rofecoxib up to doses of 1000 mg. In 4 large double-blind randomised trials performed in patients with osteoarthritis, rofecoxib 12.5 and 25 mg/day significantly improved physical functioning, assessed using the Western Ontario and McMasters Universities Osteoarthritis Index and patient or investigator global assessment, compared with placebo. In addition, rofecoxib showed similar clinical efficacy to that observed with diclofenac 50 mg 3 times daily, ibuprofen 800 mg 3 times daily and nabumetone 1500 mg once daily. Rofecoxib is also an effective analgesic in patients with primary dysmenorrhoea or postoperative dental pain and demonstrates similar analgesic efficacy to that of naproxen sodium and ibuprofen. Rofecoxib is generally well tolerated. The most common adverse events associated with rofecoxib are diarrhoea, headache, nausea and ",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Scott L J",
+          "Lamb H M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase Inhibitors",
+          "Drug Interactions",
+          "Dysmenorrhea",
+          "Enzyme Inhibitors",
+          "Humans",
+          "Lactones",
+          "Osteoarthritis",
+          "Sulfones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10493277/"
+      },
+      {
+        "pmid": "12269850",
+        "title": "Valdecoxib.",
+        "abstract": "In ten large, well-controlled, randomised trials (n = 203 to 1089), valdecoxib, a selective inhibitor of cyclo-oxygenase-2, was significantly more effective than placebo in the treatment of osteoarthritis, rheumatoid arthritis and pain associated with primary dysmenorrhoea, and for postsurgical analgesia. Valdecoxib 1.25 to 10mg twice daily and valdecoxib 10mg once daily were more effective than placebo for the relief of pain in patients with osteoarthritis of the knee, and dosages above 5mg twice daily were similar in efficacy to naproxen 500mg twice daily. Similarly, valdecoxib 5 and 10 mg/day were as effective for osteoarthritis of the hip as naproxen 500mg twice daily. In patients with rheumatoid arthritis, valdecoxib 10, 20 or 40 mg/day was significantly more effective than placebo, and similar in efficacy to naproxen 500mg twice daily; there were no significant differences in efficacy between the three dosages of valdecoxib. Valdecoxib 20 or 40mg administered 1 to 3 hours before ",
+        "journal": "Drugs",
+        "year": "2002",
+        "authors": [
+          "Ormrod Douglas",
+          "Wellington Keri",
+          "Wagstaff Antona J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis",
+          "Clinical Trials as Topic",
+          "Dysmenorrhea",
+          "Female",
+          "Humans",
+          "Isoxazoles",
+          "Pain",
+          "Sulfonamides",
+          "Benzenesulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12269850/"
+      },
+      {
+        "pmid": "33538113",
+        "title": "Long-Term Safety and Efficacy of Subcutaneous Tanezumab Versus Nonsteroidal Antiinflammatory Drugs for Hip or Knee Osteoarthritis: A Randomized Trial.",
+        "abstract": "To assess the long-term safety and 16-week efficacy of subcutaneous tanezumab in patients with hip or knee osteoarthritis (OA).",
+        "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+        "year": "2021",
+        "authors": [
+          "Hochberg Marc C",
+          "Carrino John A",
+          "Schnitzer Thomas J",
+          "Guermazi Ali",
+          "Walsh David A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Analgesics",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antibodies, Blocking",
+          "Antibodies, Monoclonal, Humanized",
+          "Celecoxib",
+          "Diclofenac",
+          "Disease Progression"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33538113/"
+      },
+      {
+        "pmid": "40524845",
+        "title": "Multimodal Pain Management in Knee Osteoarthritis: A Comparative Study of Pregabalin and Duloxetine as Adjuncts to Naproxen.",
+        "abstract": "This single-blinded, randomised, prospective study was carried out to investigate the effectiveness of a combination drug regimen including pregabalin and duloxetine as adjuncts to naproxen in pain management of patients with knee osteoarthritis (OA).",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Zafar Muhammad Nauman",
+          "Fatima Syeda",
+          "Ambreen Saima",
+          "Khurram Muhammad",
+          "Iqbal Tahir"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40524845/"
+      },
+      {
+        "pmid": "35234840",
+        "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+        "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+        "journal": "European heart journal. Cardiovascular pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Obeid Slayman",
+          "Libby Peter",
+          "Husni Elaine",
+          "Wang Qiuqing",
+          "Wisniewski Lisa M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Humans",
+          "Ibuprofen",
+          "Naproxen",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+      },
+      {
+        "pmid": "2670397",
+        "title": "Diclofenac sodium.",
+        "abstract": "The pharmacology, pharmacokinetics, clinical efficacy, adverse effects, and dosage of diclofenac sodium are reviewed. Diclofenac, the first nonsteroidal anti-inflammatory agent (NSAID) to be approved that is a phenylacetic acid derivative, competes with arachidonic acid for binding to cyclo-oxygenase, resulting in decreased formation of prostaglandins. The drug has both analgesic and antipyretic activities. Diclofenac is efficiently absorbed from the gastrointestinal tract; peak plasma concentrations occur 1.5 to 2.0 hours after ingestion in fasting subjects. Even though diclofenac has a relatively short elimination half-life in plasma (1.5 hours), it persists in synovial fluid. The drug is metabolized in the liver and is eliminated by urinary and biliary excretion. In clinical trials, diclofenac was as effective as aspirin, diflunisal, indomethacin, sulindac, ibuprofen, ketoprofen, and naproxen in improving function and reducing pain in patients with rheumatoid arthritis. For treatmen",
+        "journal": "Clinical pharmacy",
+        "year": "1989",
+        "authors": [
+          "Small R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Diclofenac",
+          "Humans",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2670397/"
+      },
+      {
+        "pmid": "8064597",
+        "title": "Comparison of piroxicam and naproxen in osteoarthritis of the foot.",
+        "abstract": "Osteoarthritis is the most common joint disease and the second highest ranking cause of disability in the US. Osteoarthritis commonly affects the hands, wrists, spine, knees, and feet. One of the mainstays of treatment for osteoarthritis is the use of nonsteroidal anti-inflammatory drugs. While there have been controlled comparison studies of the various nonsteroidal anti-inflammatory drugs, these have been limited to osteoarthritis of the hands, spine, and hip. This study was a randomized, double-blind, parallel study of 8 weeks' duration comparing piroxicam (Feldene, 20 mg daily) to naproxen (Naprosyn, 1,000 mg daily) in the treatment of osteoarthritis of the foot in 45 patients. Both groups experienced significant pain relief and improvement of mobility.",
+        "journal": "Journal of the American Podiatric Medical Association",
+        "year": "1994",
+        "authors": [
+          "Jennings M B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Foot Diseases",
+          "Humans",
+          "Middle Aged",
+          "Naproxen",
+          "Osteoarthritis",
+          "Piroxicam"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8064597/"
+      },
+      {
+        "pmid": "35585779",
+        "title": "Lessons from 20 years with COX-2 inhibitors: Importance of dose-response considerations and fair play in comparative trials.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the enzyme cyclooxygenase (COX), which forms prostaglandins involved in pain and inflammation. COX inhibitors have analgesic and anti-inflammatory effects, but also increase risks for gastrointestinal ulcers, bleeding, and renal and cardiovascular adverse events. Identification of two isoforms of COX, COX-1 and COX-2, led to the development of selective COX-2 inhibitors, which were launched as having fewer gastrointestinal side effects since gastroprotective prostaglandins produced via COX-1 are spared. The balance between COX-1 mediated prothrombotic thromboxane and COX-2 mediated antithrombotic prostacyclin is important for thrombotic risk. An increased risk of suffering myocardial infarction and death with COX-2 inhibitor treatment is well established from clinical trials and observational research. Rofecoxib (Vioxx) was withdrawn from the market for this reason, but the equally COX-2 selective etoricoxib has replaced it in Europ",
+        "journal": "Journal of internal medicine",
+        "year": "2022",
+        "authors": [
+          "Stiller Carl-Olav",
+          "Hjemdahl Paul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Etoricoxib",
+          "Fibrinolytic Agents",
+          "Humans",
+          "Ibuprofen",
+          "Lactones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35585779/"
+      },
+      {
+        "pmid": "11803730",
+        "title": "Comparative efficacy and safety of celecoxib and naproxen in the treatment of osteoarthritis of the hip.",
+        "abstract": "Osteoarthritis (OA) is responsible for more disability of the lower extremities in the elderly than any other disease in the US. The pain associated with OA is the primary symptom leading to disability in these patients. Current ACR guidelines recommend consideration of acetaminophen for mild-to-moderate pain and conventional non-steroidal anti-inflammatory drugs (NSAIDs) or COX-2 specific inhibitors for moderate-to-severe OA symptoms. The aim of this study was to compare the efficacy and safety of the COX-1 sparing, COX-2 specific inhibitor, celecoxib, with the conventional NSAID naproxen, and placebo, in the treatment of OA of the hip. In this multicenter, randomized, placebo-controlled trial, 1061 patients with symptomatic OA of the hip were randomized to receive celecoxib at doses of 100 mg, 200 mg, or 400 mg/day; naproxen 1000 mg/day; or placebo, for 12 weeks. Patients were evaluated using standard measures of efficacy at baseline, 2-4 days after discontinuing previous NSAID or an",
+        "journal": "The Journal of international medical research",
+        "year": "2001",
+        "authors": [
+          "Kivitz A J",
+          "Moskowitz R W",
+          "Woods E",
+          "Hubbard R C",
+          "Verburg K M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Double-Blind Method",
+          "Female",
+          "Hip Joint",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11803730/"
+      },
+      {
+        "pmid": "28850393",
+        "title": "NSAIDs relieve osteoarthritis (OA) pain, but cardiovascular safety in question even for diclofenac, ibuprofen, naproxen, and celecoxib: what are the alternatives?",
+        "abstract": "",
+        "journal": "Scandinavian journal of pain",
+        "year": "2017",
+        "authors": [
+          "Breivik Harald"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Diclofenac",
+          "Ibuprofen",
+          "Naproxen",
+          "Network Meta-Analysis as Topic",
+          "Osteoarthritis",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28850393/"
+      },
+      {
+        "pmid": "41545313",
+        "title": "A phase III, randomised, double-blind, multi-dose, placebo- and naproxen-controlled study to evaluate the efficacy and safety of fasinumab in patients with pain due to osteoarthritis of the knee or hip.",
+        "abstract": "Chronic pain due to osteoarthritis (OA) causes considerable burden, and current treatment options are limited. This phase III study aimed to compare the efficacy and safety of fasinumab, an investigational, anti-nerve growth factor monoclonal antibody, with placebo and naproxen in patients with moderate-to-severe pain due to OA of the knee or hip.",
+        "journal": "RMD open",
+        "year": "2026",
+        "authors": [
+          "DiMartino Stephen J",
+          "Cicirello Helen",
+          "Magyar Andrew",
+          "Eng Simon",
+          "Ho Tina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Osteoarthritis, Hip",
+          "Osteoarthritis, Knee",
+          "Middle Aged",
+          "Naproxen",
+          "Aged",
+          "Treatment Outcome",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41545313/"
+      },
+      {
+        "pmid": "16490472",
+        "title": "Celecoxib versus naproxen and diclofenac in osteoarthritis patients: SUCCESS-I Study.",
+        "abstract": "To evaluate the efficacy and upper gastrointestinal (UGI) safety of celecoxib, compared with nonspecific nonsteroidal anti-inflammatory drugs (NSAIDs), among patients with osteoarthritis.",
+        "journal": "The American journal of medicine",
+        "year": "2006",
+        "authors": [
+          "Singh Gurkirpal",
+          "Fort John G",
+          "Goldstein Jay L",
+          "Levy Roger A",
+          "Hanrahan Patrick S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Diclofenac",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16490472/"
+      },
+      {
+        "pmid": "8216413",
+        "title": "Comparison of naproxen and acetaminophen in a two-year study of treatment of osteoarthritis of the knee.",
+        "abstract": "To compare the relative safety and efficacy of naproxen and acetaminophen in the treatment of osteoarthritis (OA) of the knee. The major outcome measures were radiographic progression and withdrawal from the trial due to lack of efficacy.",
+        "journal": "Arthritis and rheumatism",
+        "year": "1993",
+        "authors": [
+          "Williams H J",
+          "Ward J R",
+          "Egger M J",
+          "Neuner R",
+          "Brooks R H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Arthrography",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Knee Joint",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8216413/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:08:49.444140",
+  "success": true,
+  "error_message": null
+}

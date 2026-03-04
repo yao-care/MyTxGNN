@@ -1,0 +1,604 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Chloramphenicol",
+    "disease": "paratyphoid fever",
+    "query_string": "Chloramphenicol AND paratyphoid fever"
+  },
+  "data": {
+    "query": "Chloramphenicol AND paratyphoid fever",
+    "results": [
+      {
+        "pmid": "36420914",
+        "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+        "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Kuehn Rebecca",
+          "Stoesser Nicole",
+          "Eyre David",
+          "Darton Thomas C",
+          "Basnyat Buddha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Adult",
+          "Humans",
+          "Adolescent",
+          "Paratyphoid Fever",
+          "Typhoid Fever",
+          "Cephalosporins",
+          "Azithromycin",
+          "Ceftriaxone",
+          "Cefixime"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+      },
+      {
+        "pmid": "18843659",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever (enteric fever), but how they compare with other antibiotics and different fluoroquinolones is unclear.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2008",
+        "authors": [
+          "Thaver Durrane",
+          "Zaidi Anita Km",
+          "Critchley Julia A",
+          "Azmatullah Asma",
+          "Madni Syed Ali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18843659/"
+      },
+      {
+        "pmid": "21975746",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2011",
+        "authors": [
+          "Effa Emmanuel E",
+          "Lassi Zohra S",
+          "Critchley Julia A",
+          "Garner Paul",
+          "Sinclair David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+      },
+      {
+        "pmid": "18843701",
+        "title": "Azithromycin for treating uncomplicated typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Enteric fever (typhoid and paratyphoid fever) is potentially fatal. Infection with drug-resistant strains of the causative organism Salmonella enterica serovar Typhi or Paratyphi increases morbidity and mortality. Azithromycin may have better outcomes in people with uncomplicated forms of the disease.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2008",
+        "authors": [
+          "Effa Emmanuel E",
+          "Bukirwa Hasifa"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Child",
+          "Humans",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18843701/"
+      },
+      {
+        "pmid": "15846718",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever, but how they compare with other cheaper antibiotics and different fluoroquinolones is unclear.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2005",
+        "authors": [
+          "Thaver D",
+          "Zaidi A K",
+          "Critchley J",
+          "Madni S A",
+          "Bhutta Z A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Infective Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15846718/"
+      },
+      {
+        "pmid": "21975751",
+        "title": "WITHDRAWN: Azithromycin for treating uncomplicated typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Review status: Current question - no update intended. Azithromycin treatments are included in the review: Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever). (Thaver D, Zaidi AKM, Critchley JA, Azmatullah A, Madni SA, Bhutta ZA. Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever). Cochrane Database of Systematic Reviews 2008, Issue 4. Art. No.: CD004530. DOI: 10.1002/14651858.CD004530.pub3.)   This latter review is being updated, and will be published in late 2011.Enteric fever (typhoid and paratyphoid fever) is potentially fatal. Infection with drug-resistant strains of the causative organism Salmonella enterica serovar Typhi or Paratyphi increases morbidity and mortality. Azithromycin may have better outcomes in people with uncomplicated forms of the disease.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2011",
+        "authors": [
+          "Effa Emmanuel E",
+          "Bukirwa Hasifa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Child",
+          "Humans",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21975751/"
+      },
+      {
+        "pmid": "115625",
+        "title": "Typhoid and paratyphoid fever.",
+        "abstract": "",
+        "journal": "Clinics in gastroenterology",
+        "year": "1979",
+        "authors": [
+          "Mandal B K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carrier State",
+          "Chloramphenicol",
+          "Drug Combinations",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Intestinal Perforation",
+          "Nervous System Diseases",
+          "Paratyphoid Fever",
+          "Sulfamethoxazole",
+          "Trimethoprim"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/115625/"
+      },
+      {
+        "pmid": "11726293",
+        "title": "Typhoid and paratyphoid fever: a 10-year retrospective study of 41 cases in a Parisian hospital.",
+        "abstract": "Enteric fever remains a major cause of fever in travelers. We evaluated new trends in enteric fever.",
+        "journal": "Journal of travel medicine",
+        "year": "2001",
+        "authors": [
+          "Caumes E",
+          "Ehya N",
+          "Nguyen J",
+          "Bricaire F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Drug Resistance, Microbial",
+          "Feces",
+          "Female",
+          "Humans",
+          "Male",
+          "Medical Records",
+          "Middle Aged",
+          "Paratyphoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11726293/"
+      },
+      {
+        "pmid": "417191",
+        "title": "A comparative trial of co-trimoxazole and chloramphenicol in thyphoid and paratyphoid fever.",
+        "abstract": "A comparative trial of co-trimoxazole and chloramphenicol was carried out on 91 patients, 57 having typhoid fever and 34 cases having paratyphoid fever. Co-trimoxazole is an effective drug in the treatment of enteric fevers with respect to clinical cure, absence of relapses and the mild nature of short term toxic drug effects. Unlike some of the earlier reports, treatment failure or non-responsiveness to the drug occurred in just under 10 per cent of the cases and would constitute a drawback of therapy with co-trimoxazole. This feature was not observed in the patients receiving chloramphenicol. The excretion of Salmonellae after drug therapy was more common with chloramphenicol than with co-trimoxazole, again indicating the value of the latter drug in the treatment of enteric fevers.",
+        "journal": "The Journal of tropical medicine and hygiene",
+        "year": "1978",
+        "authors": [
+          "Ramachandran S",
+          "Godfrey J J",
+          "Lionel N D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Chloramphenicol",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Male",
+          "Paratyphoid Fever",
+          "Sulfamethoxazole",
+          "Trimethoprim"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/417191/"
+      },
+      {
+        "pmid": "6084470",
+        "title": "Dosage of chloramphenicol in typhoid and paratyphoid in children.",
+        "abstract": "Over a period of 12 years, 109 children with salmonella enteric fever were treated with chloramphenicol: 65 children were given the drug at 50 mg/kg/24 h (Group A) and 44 received 100 mg/kg/24 h (Group B). Treatment failed in 63% with the lower dose and in 24% of children treated with the higher dose (P less than 0.001). In the children who received only chloramphenicol, the higher dose produced a clinical response in 5.4 (1.8) (mean (S.D.] days compared with 7 (2.6) days with the lower dose (P less than 0.01). Chloramphenicol in an initial dose of 100 mg/kg/24 h is recommended in the treatment of typhoid and paratyphoid in children.",
+        "journal": "Annals of tropical paediatrics",
+        "year": "1984",
+        "authors": [
+          "Raghupathy P",
+          "Jeeson C U",
+          "Mohandas V",
+          "Pereira S M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Male",
+          "Paratyphoid Fever",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6084470/"
+      },
+      {
+        "pmid": "10088452",
+        "title": "[Typhoid fever--paratyphoid fever].",
+        "abstract": "",
+        "journal": "Ryoikibetsu shokogun shirizu",
+        "year": "1999",
+        "authors": [
+          "Nagatake T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Chloramphenicol",
+          "Diagnosis, Differential",
+          "Fluoroquinolones",
+          "Humans",
+          "Paratyphoid Fever",
+          "Salmonella paratyphi A",
+          "Salmonella typhi",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10088452/"
+      },
+      {
+        "pmid": "4976892",
+        "title": "Paratyphoid A fever.",
+        "abstract": "",
+        "journal": "Annals of internal medicine",
+        "year": "1969",
+        "authors": [
+          "Wahab M F",
+          "Robertson R P",
+          "Raasch F O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Ampicillin",
+          "Bone Marrow",
+          "Bone Marrow Examination",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4976892/"
+      },
+      {
+        "pmid": "35871037",
+        "title": "Clinical manifestations and microbiological features between indigenous and imported enteric fever in Taiwan, 2010-2020.",
+        "abstract": "Previous studies had showed that indigenous clones of Salmonella Typhi and S. Paratyphi were originally imported from other countries in Taiwan. We presented the clinical manifestations and laboratory findings of indigenous and imported enteric fever cases in Taiwan in the current decade. We retrospectively reviewed typhoid and paratyphoid fever cases in two medical centers of Chang Gung Memorial Hospitals in 2010-2020. A total of 37 enteric fever cases including 24 typhoid fever and 13 paratyphoid fever were recorded. There were 20 indigenous cases, 16 imported cases, and one indetermined case. Splenomegaly and hepatitis were more frequent in typhoid fever than in paratyphoid fever (P < 0.05). Imported cases had more ciprofloxacin non-susceptibility rate (8/16, 50.0%) than indigenous cases (2/20, 10%). Indigenous ciprofloxacin non-susceptible S. Typhi isolates were found in 2018. One indigenous S. Paratyphi B isolate was multi-drug resistant (MDR) to chloramphenicol, ampicillin, and t",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2022",
+        "authors": [
+          "Chen Chih-Ho",
+          "Hsu Ying-Jie",
+          "Chen Yi-Ching",
+          "Cheng Shu-Shen",
+          "Kuo Kuang-Che"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Typhoid Fever",
+          "Paratyphoid Fever",
+          "Salmonella paratyphi A",
+          "Retrospective Studies",
+          "Taiwan",
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35871037/"
+      },
+      {
+        "pmid": "3115088",
+        "title": "Typhoid and paratyphoid fever in 192 hospitalized children in Thailand.",
+        "abstract": "From 1977 to 1984, Salmonella typhi was isolated from 85% and Salmonella paratyphl A was isolated from 15% of 192 Thai children with enteric fever at Children's Hospital, Bangkok. Children with enteric fever presented with sudden onset of fever and gastrointestinal symptoms. of fever presented with sudden onset Diarrhea occurred in 62% of children with paratyphoid fever and 36% of children with typhoid fever. Rose spots were seen in 15% of patients with typhoid and 7% of patients with paratyphoid fever. There were no deaths. Bronchitis and pneumonia occurring in 11% of patients were the most common complications. Acute hemolysis occurred in 3% of the patients with typhoid fever who had thalassemia or glucose-6-phosphate dehydrogenase deficiency. Chloramphenicol-resistant S typhi, which accounted for 70% of the isolates in 1977, has since 1982 accounted for less than 2% of isolates.",
+        "journal": "American journal of diseases of children (1960)",
+        "year": "1987",
+        "authors": [
+          "Thisyakorn U",
+          "Mansuwan P",
+          "Taylor D N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Paratyphoid Fever",
+          "Salmonella paratyphi A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3115088/"
+      },
+      {
+        "pmid": "826229",
+        "title": "Paratyphoid fever: a report of 62 cases with several unusual findings and a review of the literature.",
+        "abstract": "Previous descriptions of paratyphoid fever (PTF) are of limited value to the clinician who has had no experience with Salmonella enteric fevers. Sixty-two cases of PTF occurred in a healthy, homogeneous population. Findings supported by the literature included a seasonal incidence, initially seen symptoms of gastroenteritis and spiking fevers, and a high percentage of positive blood cultures. Unusual findings included the rarity of rose spots, patients with fever as their only symptom, two patients with transient papilledema, and two others with peripheral blood smears suggestive of acute leukemia. The findings of this study are compared with previous reports. Likely causes for divergent and contradictory information are inclusion of data from non-PTF states and study of populations with altered states of health.",
+        "journal": "Archives of internal medicine",
+        "year": "1976",
+        "authors": [
+          "Meals R A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Ampicillin",
+          "Carrier State",
+          "Child",
+          "Chloramphenicol",
+          "Female",
+          "Hemagglutination Tests",
+          "Humans",
+          "Leukocyte Count"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/826229/"
+      },
+      {
+        "pmid": "17214195",
+        "title": "Comparative study between paratyphoid A and typhoid fever cases.",
+        "abstract": "Twenty eight positive blood culture paratyphoid A fever cases were studied. Forty two positive blood culture typhoid cases were taken as controls. Cases and controls were subjected to: 1) careful history, 2) thorough clinical examination, 3) two blood cultures for salmonella, 4) Widal agglutination test, 5) total and differential white blood count, 6) urine and stool cultures following therapy. There was no significant difference in the clinical picture between acute paratyphoid A fever and acute typhoid fever except the significant decrease of anorexia (57%), toxic look (54%), coated tongue (64%) in acute paratyphoid A cases when compared to acute typhoid cases. The prevalence of extraintestinal symptoms in paratyphoid A cases may mimic viral infections. Three of the 4 classical signs namely; toxic look (54%), bronchitic chest (50%), splenomegaly (72%) and tympanitis (64%) were good bed side suggestive clinical diagnostic aids in paratyphoid A cases. Blood culture was the cornerstone ",
+        "journal": "The Journal of the Egyptian Public Health Association",
+        "year": "1996",
+        "authors": [
+          "Abdel Wahab M F",
+          "Haseeb A N",
+          "Hamdy H S",
+          "Awadalla Y A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Agglutination Tests",
+          "Anti-Bacterial Agents",
+          "Bronchitis",
+          "Case-Control Studies",
+          "Child",
+          "Chloramphenicol",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17214195/"
+      },
+      {
+        "pmid": "8203854",
+        "title": "Randomized comparison of aztreonam and chloramphenicol in treatment of typhoid fever.",
+        "abstract": "Patients with clinical typhoid fever plus a blood, bone marrow, or bile positive for Salmonella typhi or Salmonella paratyphi were included in an open clinical trial to compare the efficacy of aztreonam (6 g/day [2 g intravenously every 8 h]) given for 10 days with that of chloramphenicol (50 mg/kg of body weight per day [intravenously or orally]) administered for 14 days. A total of 44 patients, 22 in each group, were included in the study, and both groups were comparable in terms of baseline parameters. All patients randomized to receive chloramphenicol completed the 14 days of treatment, while two patients randomized to receive aztreonam developed an intestinal hemorrhage, and a third patient elected to withdraw from the trial. Defervescence occurred more quickly in the subjects receiving chloramphenicol than in those receiving aztreonam (P < 0.05). All patients in the chloramphenicol group were clinically cured during therapy, while four patients (21%) in the group receiving aztreo",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Gotuzzo E",
+          "Echevarría J",
+          "Carrillo C",
+          "Sánchez J",
+          "Grados P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aztreonam",
+          "Chloramphenicol",
+          "Double-Blind Method",
+          "Feces",
+          "Female",
+          "Humans",
+          "Male",
+          "Paratyphoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8203854/"
+      },
+      {
+        "pmid": "14072634",
+        "title": "COMPARISON OF AMPICILLIN AND CHLORAMPHENICOL IN TREATMENT OF PARATYPHOID FEVER.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1964",
+        "authors": [
+          "SLEET R A",
+          "SANGSTER G",
+          "MURDOCH J M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Biometry",
+          "Chloramphenicol",
+          "Paratyphoid Fever",
+          "Penicillins",
+          "Statistics as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14072634/"
+      },
+      {
+        "pmid": "16082406",
+        "title": "Epidemiology of typhoid and paratyphoid fever in Kathmandu: two years study and trends of antimicrobial resistance.",
+        "abstract": "Enteric fever is prevalent in developing countries including Nepal, where it still remains as a major health problem. Appropriate antibiotics are essential for the treatment of typhoid and paratyphoid fever. A prospective study was carried out to characterize the epidemiological features of enteric fever in Kathmandu, Nepal and to analyse the recent trend of antimicrobial resistance pattern of the Salmonella isolated from the cases of enteric fever from different hospitals in Kathmandu during June, 2002 to June, 2004. A total of 1469 Salmonella typhi and Salmonella paratyphi 'A' isolates collected during this period from five different hospital laboratories situated in Kathmandu were studied. The antimicrobial susceptibilities of the isolates towards Ampicillin (10 mcg), Chloramphenicol (30 mcg), Cotrimoxazole (25 mcg), Ciprofloxacin (5 mcg) and Ceftriaxone (5 mcg) were determined by standard disc diffusion technique and Agar dilution technique were used to determine the minimum inhibi",
+        "journal": "JNMA; journal of the Nepal Medical Association",
+        "year": "2005",
+        "authors": [
+          "Malla S",
+          "Kansakar P",
+          "Serichantalergs O",
+          "Rahman M",
+          "Basnet S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Distribution",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16082406/"
+      },
+      {
+        "pmid": "11022153",
+        "title": "[Typhoid and paratyphoid fever in adults in the Internal Medicine Department at Libreville (Gabon)].",
+        "abstract": "We carried out a retrospective study of 150 files of patients suffering from typhoid or paratyphoid fever, confirmed bacteriologically, between January 1992 and December 1996 at Libreville. Young adults were the most frequently affected. These infections were associated with unstable living conditions and lack of cleanliness. Neurological (17%), digestive (12%) and cardiovascular (3%) complications were the principal factors aggravating the disease. The following serotypes were identified: Salmonella typhi (47%), S. paratyphi B (25%), S. paratyphi C (20%) and S. paratyphi A (8%). Salmonellosis was associated with schistosomiasis (13%), nematodiasis (2.3%), sickle-cell anemia (7%) and HIV infection (8%). The mortality rate was 3.3%. Fluoroquinolones are the molecules of choice for treating typhoid and paratyphoid fevers.",
+        "journal": "Sante (Montrouge, France)",
+        "year": "2000",
+        "authors": [
+          "Okome-Nkoumou M",
+          "Ayo Nkana E",
+          "Békalé J",
+          "Kombila M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Anti-Bacterial Agents",
+          "Cefotaxime",
+          "Cephalosporins",
+          "Chloramphenicol",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Gabon"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11022153/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:36:46.158960",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,72 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "leukemia, lymphocytic, susceptibility to",
+    "query_string": "Methylprednisolone AND leukemia, lymphocytic, susceptibility to"
+  },
+  "data": {
+    "query": "Methylprednisolone AND leukemia, lymphocytic, susceptibility to",
+    "results": [
+      {
+        "pmid": "225025",
+        "title": "Influence of adrenal corticosteroids on the susceptibility of cats to feline leukemia virus infection.",
+        "abstract": "The natural resistance of adult specific-pathogen-free cats to feline leukemia virus (FeLV) was abrogated by treatment with various doses of a synthetic corticosteroid, methylprednisolone acetate (MPA), prior to either oral-nasal or i.p. inoculation of FeLV. Persistent viremia was induced in 82% (18 of 22) of MPA-treated cats versus 11% (1 of 9) of age-matched control cats. MPA-treated FeLV-inoculated cats developed prolonged lymphopenia (2 to 8 weeks postinoculation) and a delayed antibody response to the feline oncornavirus-associated cell membrane antigen. The distribution of FeLV group specific antigen in tissues of MPA-treated, FeLV-inoculated cats suggested that corticosteroids enhanced susceptibility to FeLV by impairing early viral containment in the reticuloendothelial and lymphoid tissues.",
+        "journal": "Cancer research",
+        "year": "1979",
+        "authors": [
+          "Rojko J L",
+          "Hoover E A",
+          "Mathes L E",
+          "Krakowka S",
+          "Olsen R G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antigens, Viral",
+          "Cats",
+          "Leukemia Virus, Feline",
+          "Leukopenia",
+          "Methylprednisolone",
+          "Tumor Virus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/225025/"
+      },
+      {
+        "pmid": "382521",
+        "title": "Differential susceptibility in vitro to methylprednisolone of human lymphocyte subpopulations stimulated by phytohemagglutinin.",
+        "abstract": "",
+        "journal": "Transplantation proceedings",
+        "year": "1979",
+        "authors": [
+          "Kraft N",
+          "Atkins R C",
+          "Thomson N M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Kidney Transplantation",
+          "Leukemia, Lymphoid",
+          "Lymphocyte Activation",
+          "Lymphocytes",
+          "Methylprednisolone",
+          "Phytohemagglutinins",
+          "Renal Dialysis",
+          "T-Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/382521/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:44:14.359197",
+  "success": true,
+  "error_message": null
+}

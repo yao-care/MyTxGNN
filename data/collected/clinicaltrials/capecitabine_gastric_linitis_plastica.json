@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Capecitabine",
+    "disease": "gastric linitis plastica"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06451211",
+      "title": "Phase II Study of Neoadjuvant Immunotherapy Plus Chemotherapy in Borrmann Type 4 and Large Type 3 Gastric Cancer (Neo-ICEBOAT Study)",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-05-17",
+      "completion_date": "2027-11",
+      "country": "China",
+      "enrollment": 53,
+      "brief_summary": "The aim of this study is to test the efficacy and safety of immunotherapy plus chemotherapy on people with a relatively rare type of gastric cancer. Participants will take the anti-PD-1 inhibitor (Tislelizumab) and platinum-based chemotherapy (oxaliplatin + capecitabine or oxaliplatin + S-1) in a 3-week cycle, followed by a radical operation after 6 cycles.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed gastric adenocarcinoma,cT1-2N+M0 or cT3-4NanyM0;\n* Males or females, aged 18-70 years;\n* Gastroscopy and abdominal computed tomography (CT) scan-confirmed typical scirrhous gastric cancer (borrmann type 4) or large type 3 (over 8 cm);\n* No peritoneal m",
+      "endpoints": [
+        "MPR"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06451211"
+    }
+  ],
+  "timestamp": "2026-03-04T16:43:35.001483",
+  "success": true,
+  "error_message": null
+}

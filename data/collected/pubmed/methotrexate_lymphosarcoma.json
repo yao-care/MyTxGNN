@@ -1,0 +1,613 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methotrexate",
+    "disease": "lymphosarcoma",
+    "query_string": "Methotrexate AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Methotrexate AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "19767089",
+        "title": "High-dose cytarabine plus high-dose methotrexate versus high-dose methotrexate alone in patients with primary CNS lymphoma: a randomised phase 2 trial.",
+        "abstract": "Chemotherapy with high-dose methotrexate is the conventional approach to treat primary CNS lymphomas, but superiority of polychemotherapy compared with high-dose methotrexate alone is unproven. We assessed the effect of adding high-dose cytarabine to methotrexate in patients with newly diagnosed primary CNS lymphoma.",
+        "journal": "Lancet (London, England)",
+        "year": "2009",
+        "authors": [
+          "Ferreri Andrés J M",
+          "Reni Michele",
+          "Foppoli Marco",
+          "Martelli Maurizio",
+          "Pangalis Gerasimus A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Cranial Irradiation",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19767089/"
+      },
+      {
+        "pmid": "37195735",
+        "title": "Methotrexate concentrations and associated variability factors in high dose therapy of children with acute lymphoblastic leukemia and non-Hodgkin lymphoma.",
+        "abstract": "Monitoring and optimization procedures improved high dose methotrexate (HDMTX) treatment outcomes. However, there are still some concerns regarding unexplained concentration variability. The objective of this study was to evaluate drug concentrations and associated variability factors in pediatric patients with acute lymphoblastic leukemia (ALL) and non-Hodgkin lymphoma (NHL) on HDMTX. Fifty patients (aged 1-18 years), receiving in total 184 HDMTX cycles of 3 or 5 g/m2/24 h infusion, were included in the study. Comparisons of MTX concentrations and concentrations to dose ratio between two dosing groups were conducted by Mann-Whitney U test. Regression analysis was performed with transformed data to assess relationship between MTX concentration to dose ratio and patient characteristics, biochemical analysis and therapy data. Statistically significant difference in concentrations between 3 and 5 g/m2 dosing groups was detected only at 24 h after the start of infusion (p < 0.001), but not",
+        "journal": "Pediatric hematology and oncology",
+        "year": "2023",
+        "authors": [
+          "Škorić Biljana",
+          "Kuzmanović Miloš",
+          "Jovanović Marija",
+          "Miljković Branislava",
+          "Micić Dragan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Methotrexate",
+          "Antimetabolites, Antineoplastic",
+          "Lymphoma, Non-Hodgkin",
+          "Treatment Outcome",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37195735/"
+      },
+      {
+        "pmid": "782684",
+        "title": "Methotrexate and citrovorum factor rescue in the management of childhood lymphosarcoma and reticulum cell sarcoma (non-Hodgkin's lymphomas): parolonged unmaintained remissions.",
+        "abstract": "High doses of methotrexate (HDMTX), given in pulse infusions of 3 to 30 mg/kg body weight, were studied in 22 children with non-Hodgkin's lymphoma. Sixteen complete and five partial remissions were observed in 21 patients evaluable for remission induction. The dose of MTX was increased stepwise on consecutive treatments until objective tumor response occured. Citrovorum factor rescue (CFR) was used \"on demand\" when toxicity started to develop, and routinely after 30 mg/kg of MTX. Twelve patients who had no previous chemotherapy were entered in a Phase II study consisting of remission induction with HDMTX and remission maintenance with monthly HDMTX supplemented with one monthly injection of vincristine and Cytoxan and five days of oral 6-mercaptopurine and prednisone. Eleven patients achieved remissions (eight complete and three partial) with HDMTX and one with surgery and radiation followed by HDMTX. The three partial remissions improved to complete remission during remission maintena",
+        "journal": "Cancer",
+        "year": "1976",
+        "authors": [
+          "Djerassi I",
+          "Kim J S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Infusions, Parenteral",
+          "Leucovorin",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Remission, Spontaneous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/782684/"
+      },
+      {
+        "pmid": "34801161",
+        "title": "Primary Central Nervous System Lymphomas.",
+        "abstract": "Primary central nervous system lymphoma is a rare and aggressive extranodal non-Hodgkin lymphoma restricted to the brain, spinal cord, cerebrospinal fluid, and eyes. Optimization of treatment including high-dose methotrexate-based chemotherapy followed by consolidation therapy in the form of autologous stem cell transplant or whole-brain radiation leads to improved survival. However, several patients do not respond to upfront therapy and the relapse risk is high. Additionally, there is a risk of delayed neurotoxicity, particularly in older patients. Recent molecular insights underlying the pathophysiology of PCNSL have led to the development of clinical trials involving targeted therapies and immunotherapies for salvage.",
+        "journal": "Hematology/oncology clinics of North America",
+        "year": "2022",
+        "authors": [
+          "Chukwueke Ugonma",
+          "Grommes Christian",
+          "Nayak Lakshmi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34801161/"
+      },
+      {
+        "pmid": "33273169",
+        "title": "Central Nervous System Lymphomas.",
+        "abstract": "Primary central nervous system (CNS) lymphoma is a rare, aggressive extranodal non-Hodgkin lymphoma confined to the brain, eyes, CSF, or spinal cord without systemic, non-CNS involvement. This article reviews the clinical presentation, imaging characteristics, diagnostic workup, novel pathophysiologic insights, and treatment of immunocompetent patients with primary CNS lymphoma.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2020",
+        "authors": [
+          "Grommes Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System",
+          "Central Nervous System Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Tumor Microenvironment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33273169/"
+      },
+      {
+        "pmid": "36176002",
+        "title": "Evidence-based expert consensus on the management of primary central nervous system lymphoma in China.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) is a type of central nervous system restricted non-Hodgkin lymphoma, whose histopathological diagnosis is majorly large B cell lymphoma. To provide specific, evidence-based recommendations for medical professionals and to promote more standardized, effective and safe treatment for patients with PCNSL, a panel of experts from the Chinese Neurosurgical Society of the Chinese Medical Association and the Society of Hematological Malignancies of the Chinese Anti-Cancer Association jointly developed an evidence-based consensus. After comprehensively searching literature and conducting systematic reviews, two rounds of Delphi were conducted to reach consensus on the recommendations as follows: The histopathological specimens of PCNSL patients should be obtained as safely and comprehensively as possible by multimodal tomography-guided biopsy or minimally invasive surgery. Corticosteroids should be withdrawn from, or not be administered to, patien",
+        "journal": "Journal of hematology & oncology",
+        "year": "2022",
+        "authors": [
+          "Chen Tong",
+          "Liu Yuanbo",
+          "Wang Yang",
+          "Chang Qing",
+          "Wu Jinsong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System",
+          "Central Nervous System Neoplasms",
+          "Consensus",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Positron Emission Tomography Computed Tomography",
+          "Retinal Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36176002/"
+      },
+      {
+        "pmid": "30369593",
+        "title": "Renal Function and Plasma Methotrexate Concentrations Predict Toxicities in Adults Receiving High-Dose Methotrexate.",
+        "abstract": "BACKGROUND Methotrexate (MTX) is an effective drug for the treatment of adult malignancies, but toxicity remains a significant problem. Toxic reactions may occur when patients use high-dose MTX (HD-MTX), but the correlation between its toxicity and concentration in adults is controversial. The purpose of this study was to examine the relationship between MTX concentration and renal function, as well as to assess toxic reactions to MTX in Chinese adults with acute lymphoblastic leukemia (ALL) and non-Hodgkin lymphoma (NHL). MATERIAL AND METHODS This retrospective study enrolled 97 patients who had been diagnosed with ALL or NHL, and who were treated at the Hemopathology Department of Shanghai Changhai Hospital from January 2015 to June 2016. RESULTS Forty-one (27.5%) episodes of elimination delay were observed. We found negative correlations between creatinine clearance rate before MTX infusion and the plasma concentrations of MTX at 36 h after MTX infusion (P=0.005). The serum creatini",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "year": "2018",
+        "authors": [
+          "Yang Yunyun",
+          "Wang Xuebin",
+          "Tian Jing",
+          "Wang Zhuo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asian People",
+          "China",
+          "Female",
+          "Humans",
+          "Kidney",
+          "Kidney Function Tests",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30369593/"
+      },
+      {
+        "pmid": "29200113",
+        "title": "Primary Central Nervous System Lymphoma.",
+        "abstract": "Primary central nervous system (CNS) lymphoma is a rare and aggressive extranodal non-Hodgkin lymphoma confined to the brain, eyes, spinal cord, or leptomeninges without systemic involvement. This article provides an overview of the clinical features, diagnosis, and management of primary CNS lymphoma in patients who are immunocompetent, focusing on recent advances in treatment.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2017",
+        "authors": [
+          "Han Catherine H",
+          "Batchelor Tracy T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29200113/"
+      },
+      {
+        "pmid": "17477222",
+        "title": "High-dose methotrexate and primary central nervous system lymphoma.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) is a rare disease that is managed differently from other primary brain tumors and other types of systemic lymphomas. The use of high-dose methotrexate (HD-MTX) has improved survival rates. This article describes the experience of a patient treated with HD-MTX and outlines the essential aspects of care for the bedside practitioner. An understanding of the diagnostic workup and principles of treatment can minimize complications and maximize patient function as nurses care for the unique physical and emotional needs of this population.",
+        "journal": "The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses",
+        "year": "2007",
+        "authors": [
+          "Fahey Jean B",
+          "DiMaggio Carolyn"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Biopsy",
+          "Central Nervous System Neoplasms",
+          "Drug Administration Schedule",
+          "Drug Monitoring",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Infection Control",
+          "Infusions, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17477222/"
+      },
+      {
+        "pmid": "580447",
+        "title": "Distribution and pharmacokinetics of methotrexate in localized chemotherapy of solid Gardner's lymphosarcoma.",
+        "abstract": "Pharmacokinetics and organe distribution of Methotrexate (MTX) in Gardner lymphosarcoma bearing C3H mice was investigated following two ways of drug administration: 1. intraperitoneal injection, 2. intratumoral implantation of 2-hydroxyethylmethacrylate gel with sorbed Methotrexate (localized chemotherapy). The highest level of MTX in blood appeared 2 hours after intrperitoneal injection but 7 hr after localized intratumorous application. Following intraperitoneal application the drug level in tumor reached its maximum two hours after injection; after 7 hr the drug could not be detected any longer. The localized chemotherapy led to six times higher concentration of the drug in the tumors as compared with the intraperitoneal application. This high level persisted for 17 hr and decreased moderately for 48 hr. MTX was accumulated in liver after both modes of administration with a half life 6.1 hr after intraperitoneal injection and 12.4 hr after the localized chemotherpay, respectively.",
+        "journal": "Neoplasma",
+        "year": "1978",
+        "authors": [
+          "Slavíková V",
+          "Motycka K",
+          "Slavík K",
+          "Spacek P",
+          "Cihar R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Drug Implants",
+          "Gels",
+          "Injections, Intraperitoneal",
+          "Kinetics",
+          "Lymphoma, Non-Hodgkin",
+          "Methacrylates",
+          "Methotrexate",
+          "Mice",
+          "Mice, Inbred C3H"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/580447/"
+      },
+      {
+        "pmid": "33191243",
+        "title": "How to rescue high-dose methotrexate induced nephrotoxicity and literature review about hemodiafiltration?",
+        "abstract": "Methotrexate (MTX) is a highly renal and liver toxicity drug used in hematological malignancy treatment in children and adults. High-dose methotrexate (HD-MTX) therapy may cause impairment of kidney and decrease the elimination of MTX, at the same time, the serum concentration of MTX increased. Today the treatment for preventing MTX toxicity after renal shutdown is Carboxypeptidase. We report a patient who experienced nephrotoxicity after the HD-MTX infusions during the treatment for non-Hodgkin lymphoma (NHL) and received hemodiafiltration (HDF) with large dose of leucovorin (LV) to treat MTX intoxication. LV is very potent in the prevention of neurotoxicity and administration of LV could protect the normal cells, but the dosage and duration of LV should be according to the MTX concentration. Although a large dose of LV was applied, the patient's condition did not improve. It was found that the HDF with large dose of LV to save the patient and steadily improved the patient's clinical ",
+        "journal": "Pakistan journal of pharmaceutical sciences",
+        "year": "2020",
+        "authors": [
+          "Yang Yun-Yun",
+          "Gao Lei",
+          "Ding Nan",
+          "Wang Xue-Bin",
+          "Zhang Li-Peng"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antidotes",
+          "Antimetabolites, Antineoplastic",
+          "Hemodiafiltration",
+          "Humans",
+          "Kidney Diseases",
+          "Leucovorin",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Methotrexate",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33191243/"
+      },
+      {
+        "pmid": "12209750",
+        "title": "Prophylactic intrathecal methotrexate and hydrocortisone reduces central nervous system recurrence and improves survival in aggressive non-hodgkin lymphoma.",
+        "abstract": "Central nervous system (CNS) recurrence is almost invariably fatal in patients with aggressive non-Hodgkin lymphoma (NHL). Although some protocols are intended to prevent CNS disease, the value of CNS prophylaxis in patients with aggressive NHL remains to be determined.",
+        "journal": "Cancer",
+        "year": "2002",
+        "authors": [
+          "Tomita Naoto",
+          "Kodama Fumio",
+          "Kanamori Heiwa",
+          "Motomura Shigeki",
+          "Ishigatsubo Yoshiaki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Hydrocortisone",
+          "Injections, Spinal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12209750/"
+      },
+      {
+        "pmid": "1433017",
+        "title": "Association of methotrexate, rheumatoid arthritis and lymphoma: report of 2 cases and literature review.",
+        "abstract": "We describe 2 Caucasian men with rheumatoid arthritis (RA) who developed non-Hodgkin's lymphoma of identical histological type during treatment with low dose oral weekly methotrexate (MTX). Both patients had longstanding RA and had been treated with MTX for over 2 years at time of tumor diagnosis; neither had secondary Sjögren's syndrome. The oncogenic potential of MTX and RA arthritis is reviewed.",
+        "journal": "The Journal of rheumatology",
+        "year": "1992",
+        "authors": [
+          "Kingsmore S F",
+          "Hall B D",
+          "Allen N B",
+          "Rice J R",
+          "Caldwell D S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Lymphoma, B-Cell",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Methotrexate",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1433017/"
+      },
+      {
+        "pmid": "36799516",
+        "title": "Efficacy of a short sandwich protocol, methotrexate, gemcitabine, L-asparaginase and dexamethasone chemotherapy combined with radiotherapy, in localised newly diagnosed NK/T-cell lymphoma: A French retrospective study.",
+        "abstract": "Extranodal NK/T-cell lymphoma, nasal type is a rare and aggressive form of lymphoma, historically associated with poor prognosis. We report here the results of a retrospective multi-centre study evaluating the efficacy of MGAD (methotrexate, gemcitabine, L-asparaginase and dexamethasone) regimen (two cycles) combined with 'sandwich' radiotherapy in 35 patients with localised newly diagnosed extranodal NK/T-cell lymphoma. Thirty-two patients (91%) reached complete remission. With a long median follow-up of 59.6 months, progression-free and overall survival at 2 and 5 years were 71%, 80% and 53%, 73%, respectively. Around one third of the patients experienced relapse within a median time of 14.5 months. Side-effects were manageable with grades 3-4 cytopenias, mucositis and infection in 50%, 24% and 21% of the cases, respectively. Monitoring of asparaginase activity was performed in 13 patients and showed inactivation of the drug in seven (54%) patients. Our results indicate that a short ",
+        "journal": "British journal of haematology",
+        "year": "2023",
+        "authors": [
+          "Chaubard Sammara",
+          "Marouf Amira",
+          "Lavergne David",
+          "Lemonnier François",
+          "Rossignol Julien"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gemcitabine",
+          "Asparaginase",
+          "Methotrexate",
+          "Retrospective Studies",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Neoplasm Recurrence, Local",
+          "Treatment Outcome",
+          "Lymphoma, Extranodal NK-T-Cell",
+          "Dexamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36799516/"
+      },
+      {
+        "pmid": "23829278",
+        "title": "Genetic polymorphisms predicting methotrexate blood levels and toxicity in adult non-Hodgkin lymphoma.",
+        "abstract": "Methotrexate (MTX), a folate antagonist employed for treating a wide range of malignancies, has an extensive interpatient variability, resulting in unpredictable toxicity. The present study evaluated the impact of single gene polymorphisms (SNPs: rs1801133 and rs1801131 in the MTHFR gene; rs4149056 and rs11045879 in the SLC01B1 gene; and rs2032582 and rs1045642 in the ABCB1 transporter gene) on MTX blood levels and toxicity in samples from 69 patients with diffuse large-B-cell lymphoma (DLBCL) treated with high dose intravenous (HD IV) MTX, > 2 g/m(2). None of the studied genotypes was found to be associated with a statistically significant risk for elevated MTX levels at 24-48 h after completing therapy with MTX. Ancestral alleles (T) for SLC01B1 rs4149056 (T521C) and SLC01B1 rs11045879 (intron C21273886T) were found to be associated with an increased risk for MTX-related toxicity (p < 0.05 and p = 0.07, respectively), emphasizing the potential importance of employing pharmacogenetic ",
+        "journal": "Leukemia & lymphoma",
+        "year": "2014",
+        "authors": [
+          "Avivi Irit",
+          "Zuckerman Tsila",
+          "Krivoy Norberto",
+          "Efrati Edna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B",
+          "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Alleles",
+          "Animals",
+          "Antimetabolites, Antineoplastic",
+          "Female",
+          "Gene Frequency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23829278/"
+      },
+      {
+        "pmid": "25303299",
+        "title": "Effect of polymorphisms within methotrexate pathway genes on methotrexate toxicity and plasma levels in adults with hematological malignancies.",
+        "abstract": "Pharmacogenetics of methotrexate (MTX) contributes to interindividual differences in toxicity. We aimed to evaluate the impact of SNPs within the MTX pathway genes on MTX-induced toxicity and MTX plasma levels at 48 h following treatment in Asian adults with acute lymphoblastic leukemia or non-Hodgkin lymphoma.",
+        "journal": "Pharmacogenomics",
+        "year": "2014",
+        "authors": [
+          "Suthandiram Sujatha",
+          "Gan Gin-Gin",
+          "Zain Shamsul Mohd",
+          "Bee Ping-Chong",
+          "Lian Lay-Hoong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Asian People",
+          "Female",
+          "Genotype",
+          "Hematologic Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25303299/"
+      },
+      {
+        "pmid": "39821645",
+        "title": "Impact of Methotrexate and 7-Hydroxymethotrexate Exposure on Renal Toxicity in Pediatric Non-Hodgkin Lymphoma.",
+        "abstract": "7-Hydroxymethotrexate (7-OHMTX) is the main metabolite in plasma following high-dose MTX (HD-MTX), which may result in activity and toxicity of the MTX. Moreover, 7-OHMTX could produce crystalline-like deposits within the renal tubules under acidic conditions or induce renal inflammation, oxidative stress, and cell apoptosis through various signaling pathways, ultimately leading to kidney damage. The objectives of this study were thus to explore the exposure-safety relationship of two compounds and search the most reliable marker for predicting HDMTX nephrotoxicity.",
+        "journal": "Cancer medicine",
+        "year": "2025",
+        "authors": [
+          "Bing Hao",
+          "Ma Yi",
+          "Xu Jiamin",
+          "Ling Qixian",
+          "Duan Yanlong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Methotrexate",
+          "Lymphoma, Non-Hodgkin",
+          "Child",
+          "Male",
+          "Female",
+          "Adolescent",
+          "Child, Preschool",
+          "Antimetabolites, Antineoplastic",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39821645/"
+      },
+      {
+        "pmid": "30091022",
+        "title": "Impact of front line relative dose intensity for methotrexate and comorbidities in immunocompetent elderly patients with primary central nervous system lymphoma.",
+        "abstract": "Primary central nervous system lymphomas (PCNSL) are non-Hodgkin lymphomas strictly localized to the CNS, occurring mainly in elderly patients with comorbidities. Current treatment in fit patients relies on high-dose methotrexate and high-dose cytarabine. The aim of this study was to evaluate the efficacy and feasibility of this treatment in elderly patients and to assess potential prognostic factors associated with survival. We conducted a retrospective study in two centers between January 2008 and September 2015 including 35 elderly immunocompetent patients who received first-line treatment with high-dose methotrexate. With a median follow-up of 19.8 months (range: 1.7-73.4 months), median overall survival (OS) was 39.5 months (95% confidence interval (95% CI): 18.3-60.7) and median progression-free survival (PFS) was 25.8 months (95% CI: 5.2-46.4). In univariate analysis, administration of high-dose cytarabine and achieving a relative dose intensity for methotrexate > 75% were assoc",
+        "journal": "Annals of hematology",
+        "year": "2018",
+        "authors": [
+          "Farhi Jonathan",
+          "Laribi Kamel",
+          "Orvain Corentin",
+          "Hamel Jean-François",
+          "Mercier Mélanie"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Central Nervous System Neoplasms",
+          "Disease-Free Survival",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30091022/"
+      },
+      {
+        "pmid": "32246190",
+        "title": "Pharmacokinetics and pharmacogenetics of high-dose methotrexate in Chinese adult patients with non-Hodgkin lymphoma: a population analysis.",
+        "abstract": "High-dose methotrexate (HD-MTX) is widely used in the treatment of non-Hodgkin lymphoma (NHL), but the pharmacokinetic properties of HD-MTX in Chinese adult patients with NHL have not yet been established through an approach that integrates genetic covariates. The purposes of this study were to identify both physiological and pharmacogenomic covariates that can explain the inter- and intraindividual pharmacokinetic variability of MTX in Chinese adult patients with NHL and to explore a new sampling strategy for predicting delayed MTX elimination.",
+        "journal": "Cancer chemotherapy and pharmacology",
+        "year": "2020",
+        "authors": [
+          "Yang Lin",
+          "Wu Hui",
+          "de Winter Brenda C M",
+          "Sheng Chang-Cheng",
+          "Qiu Hong-Qiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B",
+          "Antimetabolites, Antineoplastic",
+          "Bayes Theorem",
+          "Body Surface Area",
+          "China",
+          "Dose-Response Relationship, Drug",
+          "Drug Monitoring",
+          "Female",
+          "Genotyping Techniques",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32246190/"
+      },
+      {
+        "pmid": "21303800",
+        "title": "Immunochemotherapy with rituximab, methotrexate, procarbazine, and lomustine for primary CNS lymphoma (PCNSL) in the elderly.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) is an aggressive extranodal non-Hodgkin lymphoma confined to the central nervous system. In this article, we report the results of a pilot trial adding rituximab to the established regimen consisting of methotrexate, procarbazine, and lomustine (R-MCP).",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2011",
+        "authors": [
+          "Fritsch K",
+          "Kasenda B",
+          "Hader C",
+          "Nikkhah G",
+          "Prinz M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Female",
+          "Humans",
+          "Lomustine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21303800/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:29:40.370221",
+  "success": true,
+  "error_message": null
+}

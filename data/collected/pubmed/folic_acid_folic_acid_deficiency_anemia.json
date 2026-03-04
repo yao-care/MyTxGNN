@@ -1,0 +1,558 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "folic acid deficiency anemia",
+    "query_string": "Folic Acid AND folic acid deficiency anemia"
+  },
+  "data": {
+    "query": "Folic Acid AND folic acid deficiency anemia",
+    "results": [
+      {
+        "pmid": "14276573",
+        "title": "FOLIC ACID.",
+        "abstract": "",
+        "journal": "Annual review of medicine",
+        "year": "1965",
+        "authors": [
+          "HERBERT V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Macrocytic",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Metabolism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14276573/"
+      },
+      {
+        "pmid": "4905911",
+        "title": "Folic acid deficiency anemia.",
+        "abstract": "",
+        "journal": "Seminars in hematology",
+        "year": "1970",
+        "authors": [
+          "Streiff R R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcoholism",
+          "Anemia, Hemolytic",
+          "Anemia, Macrocytic",
+          "Child Development",
+          "Chronic Disease",
+          "Diet Fads",
+          "Erythrocytes",
+          "Folic Acid",
+          "Folic Acid Antagonists",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4905911/"
+      },
+      {
+        "pmid": "6378487",
+        "title": "Folic acid and vitamin B12 deficiency in pregnancy and in the neonatal period.",
+        "abstract": "The fetus, the neonate, and the pregnant woman have a greater requirement for folic acid and vitamin B12 and are more likely to suffer from a deficiency of these vitamins. This article reviews the source, requirement, absorption, and metabolism of these vitamins and discusses the problems attributed to their deficiency in pregnancy and in the neonatal period.",
+        "journal": "Clinics in perinatology",
+        "year": "1984",
+        "authors": [
+          "Shojania A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Anemia",
+          "Congenital Abnormalities",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Intellectual Disability"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6378487/"
+      },
+      {
+        "pmid": "14096462",
+        "title": "FOLIC-ACID DEFICIENCY AND MEGALOBLASTIC ERYTHROPOIESIS IN MYELOFIBROSIS.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1964",
+        "authors": [
+          "FORSHAW J M",
+          "HARWOOD L",
+          "WEATHERALL D J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkaline Phosphatase",
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Blood",
+          "Cobalt Isotopes",
+          "Erythropoiesis",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Histidine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14096462/"
+      },
+      {
+        "pmid": "14245188",
+        "title": "IRON AND FOLIC-ACID DEFICIENCY IN PREGNANCY.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1965",
+        "authors": [
+          "VARADI S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Blood Chemical Analysis",
+          "Bone Marrow Examination",
+          "Diagnosis",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14245188/"
+      },
+      {
+        "pmid": "5863074",
+        "title": "Folic acid and reproduction.",
+        "abstract": "",
+        "journal": "Acta obstetricia et gynecologica Scandinavica",
+        "year": "1965",
+        "authors": [
+          "Hibbard B M",
+          "Hibbard E D",
+          "Jeffcoate T N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Abruptio Placentae",
+          "Adult",
+          "Anemia, Macrocytic",
+          "FIGLU Test",
+          "Female",
+          "Fetus",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5863074/"
+      },
+      {
+        "pmid": "14050985",
+        "title": "FOLIC ACID DEFICIENCY IN SICKLE-CELL ANEMIA.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1963",
+        "authors": [
+          "LINDENBAUM J",
+          "KLIPSTEIN F A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Sickle Cell",
+          "Avitaminosis",
+          "Erythropoiesis",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Vitamin B 12",
+          "Vitamin B Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14050985/"
+      },
+      {
+        "pmid": "13591299",
+        "title": "Folic acid deficiency and the megaloblastic anaemias.",
+        "abstract": "",
+        "journal": "Proceedings of the Royal Society of Medicine",
+        "year": "1958",
+        "authors": [
+          "CHANARIN I",
+          "MOLLIN D L",
+          "ANDERSON B B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Megaloblastic",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13591299/"
+      },
+      {
+        "pmid": "1596590",
+        "title": "Nutritional anaemias.",
+        "abstract": "Nutritional anaemia is recognized as a major public health problem throughout the world, especially in developing countries. Infants, young children, menstruating women and, in particular, pregnant women are most frequently affected. Sufficient evidence suggests that iron deficiency is the most common cause of nutritional anaemia in the world. Folate deficiency is considered as the second most common cause. In this chapter we discuss the factors determining nutritional inadequacy in iron and folate requirements versus iron and folate intake, particularly in different age/sex categories; the amounts of iron and folate involved in daily exchange and the role of the diet and physiological and pathological variations in losses and requirements are reviewed. The consequences in terms of health of iron and folate deficiencies and methods for assessing iron and folate status of populations are also presented.",
+        "journal": "Bailliere's clinical haematology",
+        "year": "1992",
+        "authors": [
+          "Hercberg S",
+          "Galan P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Hypochromic",
+          "Anemia, Megaloblastic",
+          "Child",
+          "Child, Preschool",
+          "Diet",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1596590/"
+      },
+      {
+        "pmid": "14051131",
+        "title": "MEGALOBLASTIC BOTHRIOCEPHALUS ANEMIA MAINLY DUE TO FOLIC ACID DEFICIENCY.",
+        "abstract": "",
+        "journal": "Acta medica Scandinavica",
+        "year": "1963",
+        "authors": [
+          "ODEBERG B",
+          "HANSEN H A",
+          "LANNER L O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Macrocytic",
+          "Anemia, Megaloblastic",
+          "Animals",
+          "Anthelmintics",
+          "Blood Chemical Analysis",
+          "Blood Transfusion",
+          "Cestode Infections",
+          "Diphyllobothrium",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14051131/"
+      },
+      {
+        "pmid": "14238675",
+        "title": "IRON DEFICIENCY AND ITS RELATION TO FOLIC-ACID STATUS IN PREGNANCY: RESULTS OF A CLINICAL TRIAL.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1965",
+        "authors": [
+          "CHANARIN I",
+          "ROTHMAN D",
+          "BERRY V"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Biological Assay",
+          "Biomedical Research",
+          "Blood Chemical Analysis",
+          "Bone Marrow Examination",
+          "FIGLU Test",
+          "Female",
+          "Fluids and Secretions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14238675/"
+      },
+      {
+        "pmid": "3880840",
+        "title": "Megaloblastic anemias.",
+        "abstract": "",
+        "journal": "Laboratory investigation; a journal of technical methods and pathology",
+        "year": "1985",
+        "authors": [
+          "Herbert V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Anemia, Megaloblastic",
+          "Anemia, Pernicious",
+          "Child",
+          "Child, Preschool",
+          "Demyelinating Diseases",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3880840/"
+      },
+      {
+        "pmid": "14169402",
+        "title": "FOLIC ACID DEFICIENCY IN MAN AND ITS INTERRELATIONSHIP WITH VITAMIN B12 METABOLISM.",
+        "abstract": "",
+        "journal": "Advances in metabolic disorders",
+        "year": "1964",
+        "authors": [
+          "LUHBY A L",
+          "COOPERMAN J M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Anemia",
+          "Anemia, Macrocytic",
+          "Biological Assay",
+          "Carbon Isotopes",
+          "Chromatography",
+          "Clinical Enzyme Tests",
+          "Clinical Laboratory Techniques",
+          "Coenzymes",
+          "Corrinoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14169402/"
+      },
+      {
+        "pmid": "14146483",
+        "title": "SOME INVESTIGATIONS OF FOLIC-ACID DEFICIENCY.",
+        "abstract": "",
+        "journal": "Scottish medical journal",
+        "year": "1964",
+        "authors": [
+          "KERSHAW P W",
+          "GIRDWOOD R H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Macrocytic",
+          "Anticonvulsants",
+          "Biomedical Research",
+          "Blood Chemical Analysis",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Geriatrics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14146483/"
+      },
+      {
+        "pmid": "395648",
+        "title": "Nutritional anemias.",
+        "abstract": "The role of the metals, iron and copper, and the vitamins E, folic acid, and B12 in the genesis of nutritional anemias in infancy have been reviewed. All are preventable. The precise requirements for each of these trace elements and vitamins in the small premature infant remain to be defined. The nonhematologic consequences of these nutritional deficiencies require further study. Anemia may prove to be the least important manifestation of the deficiency states.",
+        "journal": "Seminars in perinatology",
+        "year": "1979",
+        "authors": [
+          "Oski F A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Hypochromic",
+          "Child",
+          "Child, Preschool",
+          "Copper",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/395648/"
+      },
+      {
+        "pmid": "4560052",
+        "title": "Folate metabolism.",
+        "abstract": "",
+        "journal": "Revue europeenne d'etudes cliniques et biologiques. European journal of clinical and biological research",
+        "year": "1972",
+        "authors": [
+          "Zittoun J",
+          "Zittoun R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Sideroblastic",
+          "Coenzymes",
+          "DNA",
+          "FIGLU Test",
+          "Folic Acid",
+          "Folic Acid Antagonists",
+          "Folic Acid Deficiency",
+          "Food Analysis",
+          "Humans",
+          "Intestinal Absorption"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4560052/"
+      },
+      {
+        "pmid": "1121649",
+        "title": "Folic acid deficiency in sickle cell anaemia.",
+        "abstract": "Megaloblastic anaemia responding to folic acid has been reported in a number fo patients with sickle cell anaemia. The incidence of reduced serum and erythrocyte folate levels in such patients remains unclear, however. Serum and erythrocyte folate contents were measured microbiologically in patients with sickle cell anaemia as well as in two control groups with sickle cell trait or normal haemoglobin pattern. Low serum and erythrocyte folate values were significantly more common in 61 sickle-cell patients than in each of the two socio-economically-matched control groups including 61 subjects with Hb AS and 69 blacks with Hb AA. There was no correlation between serum folate and haematocrit or reticulocyte count. The erythrocyte folate, measured before and after removal of reticulocytes, remains a reliable indicator of deficiency of folic acid in sickle-cell patients despite variable degrees of reticulocytes. Folate therapy resulted in higher haematocrits in three of four sickle-cell pat",
+        "journal": "Scandinavian journal of haematology",
+        "year": "1975",
+        "authors": [
+          "Liu Y K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anemia, Sickle Cell",
+          "Blood Cell Count",
+          "Child",
+          "Child, Preschool",
+          "Erythrocytes",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1121649/"
+      },
+      {
+        "pmid": "11005035",
+        "title": "Clinical and laboratory features and sequelae of deficiency of folic acid (folate) and vitamin B12 (cobalamin) in pregnancy and gynecology.",
+        "abstract": "Classically, deficiency of folic acid (folate) or vitamin B12 (cobalamin) was recognized by the presence of a macrocytic anemia resulting from megaloblastic changes in the bone marrow. A markedly changing paradigm has identified both new mechanisms for altered folate and cobalamin status and new sequelae and clinical interrelationships that include altered mechanisms of absorption, a changing pattern of neurologic deficits, an increased risk of vascular occlusive lesions, and an important relationship with the mechanisms of neoplastic transformation. Several of these newer characterizations relate to issues of neoplasia in the nonpregnant woman and to issues in pregnancy, such as the potential for developmental abnormalities of the fetal nervous system.",
+        "journal": "Hematology/oncology clinics of North America",
+        "year": "2000",
+        "authors": [
+          "Frenkel E P",
+          "Yardley D A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Megaloblastic",
+          "Anemia, Pernicious",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Neoplasms",
+          "Neural Tube Defects",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11005035/"
+      },
+      {
+        "pmid": "11509095",
+        "title": "Prevalence of micronutrient deficiency particularly of iron, zinc and folic acid in pregnant women in South East Asia.",
+        "abstract": "Micronutrient deficiency, whether clinical or subclinical, may affect growth, cognition and reproductive performance. In pregnant women moderate to severe deficiencies of iron, zinc and folic acid have been shown to increase risk of low birth weight, pregnancy complications and birth defects. Any attempt to introduce a micronutrient supplementation programme during pregnancy must be based on adequate data on the prevalence of micronutrient deficiencies, their adverse effects and the potential for reversing these through supplementation. This paper reviews parameters for assessment of iron, zinc and folic acid deficiencies in pregnancy and the available data on prevalence of these in pregnant women in South Asia. Iron deficiency and anemia affect 50 % or more of pregnant women, the prevalence of folic acid deficiency may be up to 30-50 % and there is evidence to suggest that zinc deficiency is likely to be widespread but supportive data are scarce.",
+        "journal": "The British journal of nutrition",
+        "year": "2001",
+        "authors": [
+          "Seshadri S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Asia, Southeastern",
+          "Bone Marrow",
+          "Developing Countries",
+          "Erythrocytes",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11509095/"
+      },
+      {
+        "pmid": "14147634",
+        "title": "HEMOLYTIC ANEMIAS AND FOLIC ACID DEFICIENCY IN CHILDREN.",
+        "abstract": "",
+        "journal": "American journal of diseases of children (1960)",
+        "year": "1964",
+        "authors": [
+          "SHOJANIA A M",
+          "GROSS S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Sickle Cell",
+          "Black People",
+          "Blood",
+          "Child",
+          "FIGLU Test",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14147634/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:40:20.660874",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,940 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "endometriosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02793908",
+      "title": "The Role of the Subcutaneous Progesterone in Luteal Phase Supplementation in Patients With Endometriosis",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-06",
+      "completion_date": "2017-08",
+      "country": "Italy",
+      "enrollment": 52,
+      "brief_summary": "The aim of the study protocol will be to compare the efficacy of subcutaneous progesterone (25 mg / day; Pleyris, IBSA Institut Biochimique SA) with vaginal progesterone (90 mg / day; Crinone, Merck Serono) administered during the luteal phase in term of pelvic pain reduction in patients with grade I-II endometriosis and / or endometrioma \\<4 cm subjected to time intercourses or COS/IUI cycles.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Laparoscopic or ultrasonographic diagnosis of endometriosis grade I-II and / or endometrioma \\<4 cm;\n* Menstrual VAS score\\> 5 cm before the last menstrual period with progesterone treatment\n* Infertility for at least 1 year\n* Body Mass Index 19 to 30 kg / m2\n* Basal FSH serum",
+      "endpoints": [
+        "Delta VAS pain"
+      ],
+      "sponsor": "University Magna Graecia",
+      "url": "https://clinicaltrials.gov/study/NCT02793908"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02587000",
+      "title": "Pilot Phase II, Randomized , and Control in Double Blind Placebo Effectiveness a 3 Months on Bleeding Fibroids Treatment With ULIPRISTAL ACETATE 10 mg/Day in Patients Suffering From Symptomatic Endometriosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-06-16",
+      "completion_date": "2020-03-17",
+      "country": "France",
+      "enrollment": 26,
+      "brief_summary": "Evaluation of efficiency of selective progesterone receptor modulators (SPRM) (Ulipristal acetate) on bleeding control and pain for patients with adenomyosis and wish to keep fertility.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Not postmenopausal women aged 30 to 50,\n* Accepting to give consent informed in writing,\n* Suffering from a symptomatic pelvic endometriosis (menorrhagia isolated or associated with pain)\n* Diagnosis information, confirmed the adenomyosis (T2-weighted) MRI and/or transvaginal ",
+      "endpoints": [
+        "Percentage of patients with a control uterine bleeding estimated by a score of Pictorial Blood-loss Assessment Chart (PABC) < 75 of 28 days to the discontinuation of the study (S13)"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT02587000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04417972",
+      "title": "A Phase I/II, Randomized, Double-Blind, Placebo-Controlled, Multiple-Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics ,Pharmacodynamics and Efficacy of SHR7280 Tablets in Premenopausal Subjects With Endometriosis.",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-07-30",
+      "completion_date": "2024-05-14",
+      "country": "China",
+      "enrollment": 179,
+      "brief_summary": "The primary objective of this study is to assess the safety, tolerability, pharmacokinetics and pharmacodynamics of SHR7280 tablets in premenopausal subjects with endometriosis. In addition, this study will provide information on efficacy of SHR7280 tablets in premenopausal subjects with endometriosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPhase I/II\n\n1. premenopausal females, aged 18-45\n2. History of regular menstrual cycles\n3. Endometriosis participant diagnosed by surgical (e.g., laparoscopy or laparotomy) or by magnetic resonance imaging or ultrasonography.\n4. Participant must agree to use only protocol specif",
+      "endpoints": [
+        "Number of Participants with Adverse events",
+        "Change From Baseline in the 7-day mean score for pelvic pain as measured by VAS at weeks 12"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04417972"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03687021",
+      "title": "Clinical Study on the Impact of Route of Administration of Progesterone and Endometriosis on Endometrial Receptivity",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-10",
+      "completion_date": "2018-11-10",
+      "country": "China",
+      "enrollment": 35,
+      "brief_summary": "to explore the differential expression of miRNA in the implantation window of patients with endometriosis and the time of progesterone and route of administration on planting window",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The endometriosis group treatment group: Previous laparoscopy or laparotomy confirmed endometriosis;Regular menstruation, no rule vaginal bleeding;Ovarian reserve function is normal.\n\n   control group: Laparoscopic bilateral salpingectomy was performed due to ectopic pregnanc",
+      "endpoints": [
+        "endometrial receptivity measured by pathology"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03687021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06414720",
+      "title": "Salivary MicroRNA in Endometriosis: Correlation With Progestin Treatment Response: A Prospective Observational Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-04-22",
+      "completion_date": "2025-12-01",
+      "country": "Italy",
+      "enrollment": 90,
+      "brief_summary": "This study aims to analyze the salivary miRNA specific for patients diagnosed with endometriosis, specifically evaluating the miRNA profile of patients who respond versus those who do not respond to progestin therapy. Ninety patients attending the Chronic Pelvic Pain Clinic will be recruited, and they will be asked to provide a saliva sample before starting medical therapy. The response to the therapy will be evaluated after 4 months from the beginning of the therapy itself.",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\n* Age \\> 18 years\n* Fertile age\n* Clinical-ultrasound diagnosis or histological diagnosis of endometriosis\n* Informed consent\n\nEXCLUSION CRITERIA\n\n* Pregnancy\n* Pre-menarcheal or post-menopausal status\n* Chronic pelvic pain syndrome with or without central sensitization assessed ",
+      "endpoints": [
+        "response to the progestin therapy",
+        "changes in quality of life",
+        "differences in salivary miRNoma"
+      ],
+      "sponsor": "University of Udine",
+      "url": "https://clinicaltrials.gov/study/NCT06414720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04184323",
+      "title": "SIRT1-1 Antagonist Therapy Before Embryo Transfer to Improve Endometrial Receptivity and Life Pregnancy Rates",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2022-01",
+      "completion_date": "2023-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Progesterone resistance is mediated through epigenetic modification through SirT1 activation and is thought to contribute to infertility and progression of endometriosis. Endometriosis is a leading cause of unexplained IVF failure secondary to inflammatory changes that induce SirT1. The current study is designed to investigate a small molecule inhibitor of SirT1, in the clinical setting of In Vitro Fertilization and Embryo Transfer. The SAFER trial will compare EX-527 to placebo in a randomized,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must test positive for SIRT1 on mid-luteal endometrial biopsy\n* Prior failed embryo transfer with euploid embryos\n* Have at least one euploid embryo for transfer\n\nExclusion Criteria:\n\n* systemic illness affecting kidneys or liver; chronic headache or severe migraine\n* Endometr",
+      "endpoints": [
+        "Live birth rate"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04184323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05365464",
+      "title": "hCG or Progesterone Effect on Unexplained Recurrent Pregnancy Loss",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2022-05",
+      "completion_date": "2025-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Up to half of all cases of recurrent pregnancy loss are unexplained (uRPL). Evidence points towards endometriosis and progesterone resistance as an underlying cause of uRPL. Previous non-RCT studies have suggested the luteal hCG provides a useful treatment for uRPL. We propose performing a randomized controlled trial to compare mid-luteal hCG with oral progesterone to prevent early pregnancy losses. the endpoint will be ongoing pregnancy and live birth rates. Equal numbers of patients will be ra",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 2 first trimester losses\n* unexplained recurrent pregnancy loss\n\nExclusion Criteria:\n\n* Antiphospholipid syndrome\n* uterine septum\n* Asherman's syndrome\n* Paternal or maternal genetic abnormalities (i.e. balanced translocation)\n* Endocrine causes of RPL (thyroid, diabetes, hyp",
+      "endpoints": [
+        "Miscarriage",
+        "Ongoing pregnancy"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT05365464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06101303",
+      "title": "The Mechanisms Underlying Endometriosis Pain",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-09-29",
+      "completion_date": "2029-09-01",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "Aim 1. To determine the factors contributing to pain in patients with chronic pelvic pain with and without endometriosis Aim 2. To determine the changes following endometriosis lesion removal surgery in pain and sex hormone levels.\n\nAim 3. To identify factors predicting clinical pain reduction after lesion removal surgery.\n\nAdditional exploratory aims might compare subgroups of patients such as patients with vs. without endometriosis, with vs. without additional chronic pain syndromes, and with ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Patients with pelvic pain with and without endometriosis scheduled for an operative laparoscopic surgery for endometriosis diagnosis and/or treatment\n* Age 12-45\n* Females\n\nExclusion criteria:\n\n* Pregnancy\n* Planned hysterectomy or oophorectomy\n* Co-occurring vaginismus and/or",
+      "endpoints": [
+        "Pain ratings of clinical pain",
+        "Estrogen levels",
+        "Estrogen receptor expression in the lesion"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT06101303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00437658",
+      "title": "A Phase II, Randomized, Double-blind, Active-controlled Study to Assess the Safety and Efficacy of NBI-56418 in Subjects With Endometriosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-12-11",
+      "completion_date": "2008-11-24",
+      "country": "N/A",
+      "enrollment": 252,
+      "brief_summary": "This study is designed to assess the effects of elagolix versus subcutaneous depot medroxyprogesterone acetate (DMPA-SC; also known as depo-provera) on bone mineral density (BMD) during treatment for 24 weeks with a subsequent 24-week post-treatment period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be female, aged 18 to 49 years, inclusive\n* Have a total CPSSS of ≥ 6 at screening and baseline (Day 1) in the following categories: dysmenorrhea, dyspareunia, nonmenstrual pelvic pain, pelvic tenderness and induration. The total score must include a total of at least 2 in eac",
+      "endpoints": [
+        "Percent Change From Baseline in Bone Mineral Density of the Spine at Week 24",
+        "Percent Change From Baseline in Bone Mineral Density of the Femur at Week 24"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT00437658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04445025",
+      "title": "The Effect of Elagolix in Comparison to Leuprolide Acetate on in Vitro Fertilization (IVF) Cycle Outcomes After a Transfer of Euploid Embryos to Patients With Surgically Diagnosed Endometriosis: A Pilot Trial",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-09-01",
+      "completion_date": "2024-12-30",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Patients who have been previously surgically diagnosed with endometriosis and have embryos predicted to be euploid after in vitro fertilization will be divided into 2 groups via randomization. The test group will receive Elagolix for 60 days prior to starting frozen embryo transfer preparation. The control group will be given leuprolide acetate every 28 days x 2 prior to starting the frozen embryo transfer preparation.\n\nComparative implantation rates between two groups of patients will be evalua",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of infertility who are candidate for IVF\n2. Surgical diagnosis of endometriosis within 10 years of study entry\n3. Willing to sign/give informed consent and adhere to parameters of study\n4. Normal endometrial cavity as diagnosed by 3D ultrasound and office hysterosco",
+      "endpoints": [
+        "Comparison of Implantation Rates"
+      ],
+      "sponsor": "Colorado Center for Reproductive Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04445025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00041899",
+      "title": "Pharmacokinetic Comparison of Two Preparations of the Selective Progesterone Receptor Modular CDB2914",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2002-05",
+      "completion_date": "2005-03",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "This study will compare blood levels of the drug CDB-2914 in healthy women receiving the compound in crystalline powder form with the blood levels of women receiving an identical dose of the drug in micronized form. Generally, absorption of compounds made into a crystalline powder is less than that of micronized compounds, in which the substance is processed into many similar-sized particles.\n\nCDB-2914 is a manmade hormone similar to the hormones cortisol and progesterone. The National Institute",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nGeneral inclusion criteria:\n\nFemale gender--to evaluate effects in the target population for clinical trials.\n\nIn good health. Chronic medication use is acceptable except for glucocorticoid use. Other chronic medication use may be acceptable at discretion of the principal invest",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00041899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06885125",
+      "title": "Randomized Controlled Study on the Effect of a DietAry interveNtion in Ameliorating fertiliTy Parameters in Women With endomEtriosis Undergoing IVF (The DANTE Study)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-03-24",
+      "completion_date": "2029-12-31",
+      "country": "Italy",
+      "enrollment": 438,
+      "brief_summary": "The goal of this randomized controlled trial is to assess whether a 12-week anti-inflammatory diet can improve fertility outcomes in women with endometriosis undergoing In Vitro Fertilization (IVF).\n\nThe main questions are:\n\n* Does the anti-inflammatory diet reduce the rate of inadequate ovarian response to hormonal stimulation (retrieval of ≤3 oocytes)?\n* Does it improve secondary outcomes such as embryo quality, pregnancy rates, inflammation markers, and quality of life?\n\nResearchers will comp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\< 40 years\n* Pregnancy seeking for more than 12 months\n* Regular menstrual cycle, i.e. mean cycle interval between 21 and 35 days\n* Ultrasonographic diagnosis of ovarian endometriomas or deep peritoneal endometriosis.\n* Antral Follicle Counts (AFC) ≥ 5 (no other cause of ",
+      "endpoints": [
+        "Inadequate ovarian response"
+      ],
+      "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "url": "https://clinicaltrials.gov/study/NCT06885125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05069740",
+      "title": "Mechanisms and Interventions Addressing Accelerated Cardiovascular Disease Risk in Endometriosis",
+      "phase": "EARLY_PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2022-01-01",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to better understand the underlying mechanisms associated with elevated cardiovascular disease risk in women with endometriosis, and to measure the effectiveness of emerging endometriosis treatments on outcomes specific to cardiovascular dysfunction.\n\nEpidemiologic data demonstrate a clear association between endometriosis, reproductive risk factors, inflammation and cardiovascular (CV) risk. Circulating factors, low-density lipoprotein (LDL) and oxidized LDL (oxLDL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy women between the ages of 18 and 45 years (Controls), taking oral contraceptive or with regular menses every 26-34 days\n* Women between the ages of 18 and 45 years with endometriosis (diagnosis by prior laparoscopy by subject's own physician \\<5 years prior, and report",
+      "endpoints": [
+        "cutaneous vascular conductance",
+        "brachial artery diameter and blood flow velocity",
+        "Sera LOX-1 protein expression"
+      ],
+      "sponsor": "Penn State University",
+      "url": "https://clinicaltrials.gov/study/NCT05069740"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02647424",
+      "title": "A Comparison of Hormonal Profile and the Follicular Development Between Letrozole and Clomifene Citrate in Anovulatory Women With Polycystic Ovary Syndrome and Ovulatory Women",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-12",
+      "completion_date": "2017-12",
+      "country": "Hong Kong",
+      "enrollment": 40,
+      "brief_summary": "Polycystic ovary syndrome (PCOS) is one of the most common endocrinopathies, affecting 5% to 10% of women of reproductive age. Women with PCOS suffer from anovulatory infertility. Following lifestyle modification with weight reduction in obese PCOS women, clomifene citrate (CC) is considered the first line treatment for ovulation induction (OI) in these women. 75-80% of women will ovulate after CC administration. However, there is a discrepancy between the ovulation rate and pregnancy rate, whic",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age of women 18-39 years\n* Irregular menstrual cycles with anovulation (cycle \\>35 days) together with polycystic ovaries on pelvic scanning or laboratory/clinical hyperandrogenism (in PCOS group)\n* Regular cycle of 25-35 days cycle for the ovulatory women group\n* Body mass in",
+      "endpoints": [
+        "FSH concentrations"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT02647424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01403038",
+      "title": "A Phase 1, Open-Label Study of the Effects of Elagolix on Ovarian Activity, Ovulation and Ovarian Reserve in Premenopausal Females",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2012-11",
+      "country": "Puerto Rico, United States",
+      "enrollment": 216,
+      "brief_summary": "This is an open-label Phase 1 study in healthy premenopausal females evaluating the effects of different dosing regimens of elagolix on ovarian activity, ovulation, and ovarian reserve and to assess the effect of elagolix on selected endocrine/hormone levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Premenopausal female, between 18 and 40 years of age, inclusive - History of regular menstrual cycles - Endocrine and ultrasonographic evidence of ovulation and normal ovulatory cycle during the screening period - Follicle-stimulating hormone level of \\<35 mIU/mL - Agrees to ",
+      "endpoints": [
+        "Ovulation Classification",
+        "Ovarian Activity"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01403038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06560814",
+      "title": "Non-surgical Interventions for Infertility in Endometriosis: A Parallel-Design Randomized Clinical Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-07-01",
+      "completion_date": "2021-06-30",
+      "country": "Bangladesh",
+      "enrollment": 18,
+      "brief_summary": "A parallel design randomized clinical trial was carried out on 18 women with clinically diagnosed endometriosis who wish pregnancy in the Department of Reproductive Endocrinology and Infertility, Bangabandhu Sheikh Mujib Medical University, (BSMMU), Shahbag, Dhaka. Those who voluntarily provide consent to participate in this study will be randomly allocated to one of the two treatment arms. Allocation concealment will be done by sequentially numbered sealed envelopes. The arms and interventions ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Women of reproductive age 18-35 yrs\n2. Women who are infertile or wish pregnancy\n3. Sonographic diagnosis of chocolate cyst with or without dysmenorrhea\n4. Women staying with her husband\n\nExclusion Criteria:\n\n1. Recurrent endometrioma after previous surgery\n2. BMI at or more ",
+      "endpoints": [
+        "Pain reduction estimated by mean change on a Visual Analog Scale",
+        "Percentage change in size",
+        "Pregnancy rate"
+      ],
+      "sponsor": "Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT06560814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05467852",
+      "title": "Didroxyprogesterone Promotes Postoperative Natural Pregnancy in Infertile Patients With Mild and Moderate Endometriosis",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-12-10",
+      "completion_date": "2025-12-10",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "Endometriosis (EM) is an important cause of infertility in women of childbearing age. Laparoscopic surgery is the treatment of EM Related infertility is an important method. However, excluding other infertility factors, the natural pregnancy rate of EM patients one year after operation is still significantly lower than that of normal couples. At the same time, the high recurrence rate of EM often requires drugs to inhibit ovulation after operation, which forms a paradox with the demand for ferti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged ≥ 22 years and ≤ 35 years, diagnosed as infertility and with reproductive needs;\n* BMI：18.5-27.9kg/m2；\n* The menstrual cycle in recent half a year is 21-35 days;\n* Laparoscopic surgery was performed in certain hospitals, the intraoperative diagnosis or postoperative",
+      "endpoints": [
+        "pregnancy rate"
+      ],
+      "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05467852"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03204331",
+      "title": "SPIRIT 2: An International Phase 3 Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study to Evaluate Relugolix Administered With and Without Low-Dose Estradiol and Norethindrone Acetate in Women With Endometriosis-Associated Pain",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-01",
+      "completion_date": "2021-05-31",
+      "country": "Brazil, Sweden, Chile, Czechia, Italy, Georgia, Australia, Romania, Poland, New Zealand, United States",
+      "enrollment": 623,
+      "brief_summary": "The purpose of this study is to determine the benefit and safety of relugolix 40 milligrams (mg) once daily, co-administered with low-dose estradiol (E2) and norethindrone acetate (NETA) compared with placebo for 24 weeks, on dysmenorrhea and on nonmenstrual pelvic pain.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Is a premenopausal female aged 18 to 50 years old (inclusive) on the day of signing of the informed consent form.\n2. Has agreed to use only study-specified analgesic medications during the study and is not known to be intolerant to these.\n3. Has a diagnosis of endometrios",
+      "endpoints": [
+        "Percentage Of Participants Who Meet The Dysmenorrhea Responder Criteria At Week 24 Or End Of Treatment (EOT)",
+        "Percentage Of Participants Who Meet The Non-Menstrual Pelvic Pain (NMPP) Responder Criteria At Week 24 Or EOT"
+      ],
+      "sponsor": "Myovant Sciences GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT03204331"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07173127",
+      "title": "The Effect of a Novel Combined Hormonal Treatment Containing a GnRH-antagonist for Uterine Fibroids and Endometriosis on Hemostasis Parameters: a Prospective Cohort Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-30",
+      "completion_date": "2026-12-30",
+      "country": "Switzerland",
+      "enrollment": 30,
+      "brief_summary": "Uterine fibroids and endometriosis are two frequent diseases among women of reproductive age. They can be responsible for chronic and/or menstrual pelvic pain and abnormal uterine bleeding. The first-line management of these conditions relies on medical treatment. Hormonal treatment with contraceptive pill can be effective, although up to 30% of patients do not respond to this line of treatment. In this context, GnRH antagonists have been introduced. By suppressing ovulation, they inhibit the ac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women consulting at the DFEA of the HUG, who are prescribed Ryeqo® for a qualified medical condition\n* Age ≥ 18 years\n\nExclusion Criteria:\n\n* Unable to speak and/or read French\n* Having used either an oestro-progestin pill (oral, patch or vaginal ring) or oral estrogens in the",
+      "endpoints": [
+        "Change from baseline in the mean value of normalized activated protein C resistance (nAPCsr) at 3 months of treatment with Ryeqo"
+      ],
+      "sponsor": "University Hospital, Geneva",
+      "url": "https://clinicaltrials.gov/study/NCT07173127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03709420",
+      "title": "A Phase I/Ib, Randomised, Double-blind, Placebo-controlled Study in Healthy Postmenopausal and Pre-menopausal Women to Investigate the Safety, Tolerability, Food Effect, Pharmacokinetics of Single and Multiple Ascending Oral Doses of FOR-6219 and the Pharmacodynamics of Multiple Oral Doses of FOR-6219",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-08-13",
+      "completion_date": "2020-11-11",
+      "country": "United Kingdom",
+      "enrollment": 87,
+      "brief_summary": "This is a randomised, double-blind, placebo-controlled, Phase I/Ib study which will assess the safety, tolerability, food effect, pharmacokinetics and pharmacodynamics of FOR-6219, a hydroxysteroid (17B) dehydrogenase (HSD17B1) inhibitor. The study will be performed in three parts: (I) Single ascending doses (SAD) in healthy post-menopausal women; (II) multiple ascending doses (MAD) in post-menopausal women; (III) multiple ascending doses in healthy pre-menopausal women.",
+      "eligibility_criteria": "PART I and II (postmenopausal women):\n\nInclusion Criteria:\n\n* Healthy Caucasian female volunteers between 45 and 65 years (inclusive) at screening.\n* Female volunteers must be either naturally (spontaneously) post-menopausal: Natural (spontaneous) postmenopause is defined as being amenorrheic for at",
+      "endpoints": [
+        "Safety and tolerability as measured by the incidence of treatment-emergent adverse events (TEAEs).",
+        "Proportion of subjects with clinically significant changes in laboratory safety tests.",
+        "Proportion of subjects with changes in vital signs (blood pressure, diastolic blood pressure and pulse)"
+      ],
+      "sponsor": "Forendo Pharma Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT03709420"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04107129",
+      "title": "Predicting Endometrial Receptivity for Optimal Reproductive Management (PERFORM)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-07-01",
+      "completion_date": "2024-07-30",
+      "country": "United States",
+      "enrollment": 76,
+      "brief_summary": "The purpose of this study is to understand why some women are infertile (unable to conceive a child). The investigators hope to learn if an endometrial biopsy after egg retrieval is feasible for detecting biomarkers for endometriosis and predicting implantation and pregnancy rate after embryo transfer.\n\nThis study design will provide for the first time, an opportunity to compare endometrial biopsy material from hyperstimulated (gonadotropin treated) subjects after egg retrieval. If successful, i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age - 18 to 42\n2. AMH ≥ 1\n3. Planning to undergo IVF with delayed embryo transfer\n4. Must have blastocyst(s) by day 6 that were biopsied for PGT-A\n5. BMI 18-35\n\nExclusion Criteria:\n\n1. Uterine fibroids \\> 4 cm in size\n2. Polycystic ovary syndrome (PCOS) according with the Rot",
+      "endpoints": [
+        "SIRT1 gene expression in the endometrium"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT04107129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01711216",
+      "title": "A Post-Marketing, Prospective, Multicenter, Observational Program: Treatment Regimen in Menstrual Cycle Regularization and Persistence in Routine Clinical Practice in Russia, Ukraine, Kazakhstan and Uzbekistan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2014-08",
+      "country": "Uzbekistan, Russia, Ukraine, Kazakhstan",
+      "enrollment": 999,
+      "brief_summary": "Dydrogesterone is approved in more than 100 countries including Russia, Ukraine, Kazakhstan and Uzbekistan and widely used for the treatment of progesterone deficiencies such as for management of dysmenorrhea, endometriosis, secondary amenorrhea, irregular cycles, dysfunctional uterine bleeding, pre-menstrual syndrome, threatened and habitual miscarriage, infertility due to luteal insufficiency, as well as part of hormone replacement therapy. There are limited data regarding dydrogesterone's rol",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Women aged 18-40 years\n* Irregular menstrual cycle due to progesterone deficiency for at least 3 months\n* Dydrogesterone prescribed in accordance with locally approved package insert\n* Signed written authorization to provide data for the program\n\nExclusion Criteria\n\n* Known hyp",
+      "endpoints": [
+        "Number of Patients Received Dydrogesterone Therapy Cycles (by Cycle Number)",
+        "Number of Patients With Regular Menstrual Cycles During Follow-up (by Number of Cycles)"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT01711216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03789123",
+      "title": "Effects of Dienogest and Dienogest Plus Estradiol Valerate on Ovarian Reserve and Endometrioma Size",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-01",
+      "completion_date": "2019-12-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 710,
+      "brief_summary": "Progesterone resistance in endometriosis is a known fact. The progestin derivatives used in endometriosis cause decidualization and atrophy of ectopic foci. Moreover, they inhibit neo-angiogenesis, provide suppress expansile/destructive growth facilitated by matrix metalloproteinases, and implantation of ectopic foci. The effect of drugs containing the estrogen-progesterone combination is mainly based on the inhibition of ovulation, decidualization and atrophy of ectopic foci. In estrogen-proges",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Study Group: At least one endometrioma greater than 3 cm, between 18-40 years of age, without surgical indication at the time of diagnosis, occasionally and intermittently controlled pain with NSAIDs or no pain symptom\n2. Control Group: Patients with reproductive age without ",
+      "endpoints": [
+        "Ovarian reserve"
+      ],
+      "sponsor": "Bagcilar Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03789123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07204093",
+      "title": "Transdermally Applied Estradiol Delivery In Ultra-Safe Medications Valuable In Treatment Against Endometriosis",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-08-11",
+      "completion_date": "2026-02",
+      "country": "Italy",
+      "enrollment": 138,
+      "brief_summary": "Endometriosis is a chronic, estrogen-dependent disease affecting women of reproductive age, associated with pelvic pain, infertility, and reduced quality of life. Progestins are the standard first-line therapy, but long-term treatment requires well-tolerated regimens that balance efficacy with patient satisfaction.\n\nThis study will compare two combinations of progestins with natural transdermal estradiol-dienogest versus drospirenone-to evaluate which regimen provides greater patient satisfactio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women who have been on combination therapy for at least 6 months with progestin and transdermal natural oestrogen (Dienogest + transdermal oestradiol or Drospirenone + transdermal oestradiol);\n* women who have performed follow-up at least 6 months after the start of treatment ",
+      "endpoints": [
+        "Patients' statisfaction"
+      ],
+      "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "url": "https://clinicaltrials.gov/study/NCT07204093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441635",
+      "title": "Phase 2a Proof Of Concept Study to Evaluate the Safety and Efficacy of Elagolix in Pre-Menopausal Women With Heavy Uterine Bleeding and Uterine Fibroids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09-08",
+      "completion_date": "2014-05-17",
+      "country": "N/A",
+      "enrollment": 271,
+      "brief_summary": "The purpose of this proof-of-concept study is to assess the safety and effectiveness of elagolix versus placebo to reduce uterine bleeding associated with uterine fibroids, and to reduce fibroid volume and uterine volume in premenopausal women 20 to 49 years of age with heavy uterine bleeding.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is a pre-menopausal female 20 to 49 years of age.\n* Subject has a diagnosis of uterine fibroids documented by a pelvic ultrasound assessed by a central reader and verification that a fibroid present met the following criteria:\n\n  * At least 1 fibroid with diameter ≥ 2 ",
+      "endpoints": [
+        "Mean Change From Baseline to the Last 28 Days of Treatment in Menstrual Blood Loss (MBL)"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01441635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04527003",
+      "title": "A Randomized Controlled Pilot Study of the Use of Cannabidiol in the Management of Endometriosis Pain",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2020-12-04",
+      "completion_date": "2024-06-26",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The investigators are looking to conduct a study looking at the effects of cannabidiol (CBD) in patients with endometriosis. It is believed that CBD will improve both pain and quality of life. The study will last a total of 12 weeks and involve several onsite visits in addition to daily pain assessments.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Females ages 18-45 years at the time of enrollment\n2. A surgical diagnosis with direct visualization and/or histopathologic confirmation of endometriosis with associated moderate to severe endometriosis related pain ( \\> 3 on a VAS)\n3. Is not expected to undergo gynecological",
+      "endpoints": [
+        "Pain Score Area Under the Curve (AUC)"
+      ],
+      "sponsor": "Milton S. Hershey Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04527003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03204318",
+      "title": "SPIRIT 1: An International Phase 3 Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study to Evaluate Relugolix Administered With and Without Low-Dose Estradiol and Norethindrone Acetate in Women With Endometriosis-Associated Pain",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-12-07",
+      "completion_date": "2021-04-08",
+      "country": "Bulgaria, Spain, Finland, Czechia, South Africa, Ukraine, Hungary, Portugal, Poland, Canada, Argentina, Belgium, United States",
+      "enrollment": 638,
+      "brief_summary": "The purpose of this study is to determine the benefit and safety of relugolix 40 milligrams (mg) once daily, co-administered with low-dose estradiol (E2) and norethindrone acetate (NETA) compared with placebo for 24 weeks, on dysmenorrhea and on nonmenstrual pelvic pain.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Is a premenopausal female aged 18 to 50 years old (inclusive) on the day of signing of the informed consent form.\n2. Has agreed to use only study-specified analgesic medications during the study and is not known to be intolerant to these.\n3. Has a diagnosis of endometrios",
+      "endpoints": [
+        "Percentage Of Participants Who Meet The Dysmenorrhea Responder Criteria At Week 24 Or End Of Treatment (EOT)",
+        "Percentage Of Participants Who Meet The Non-Menstrual Pelvic Pain (NMPP) Responder Criteria At Week 24 Or EOT"
+      ],
+      "sponsor": "Myovant Sciences GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT03204318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05983224",
+      "title": "Effect of Quercetin Supplementation on Glycemic Status, Lipid Profile, Oxidative Stress, Inflammation, Growth Factor, Adiponectin, Sex Hormones and Anthropometric Indices in Women With Endometriosis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-15",
+      "completion_date": "2024-03-01",
+      "country": "Iran",
+      "enrollment": 50,
+      "brief_summary": "Quercetin is a polyphenol compound that possesses anti-inflammatory properties and can be found in various food sources like apples, berries, cabbage, and onions. In Park et al.'s study, it was discovered that quercetin led to a significant decrease in the proliferation of endometriosis cells. Furthermore, quercetin also triggered apoptosis in endometriosis cells in vitro and reduced the size of endometriosis lesions in vivo. Nevertheless, as of now, there have been no studies conducted in Iran ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing to cooperate and complete the informed consent form.\n* Diagnosed endometriosis using laparoscopy and histopathological tests.\n* In the age group of 18 to 40 years.\n* Having a regular menstrual cycle.\n* Having a body mass index between 18.5 and 30.\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Mean serum TNF-alpha concentration",
+        "Mean serum IL-6 concentration"
+      ],
+      "sponsor": "National Nutrition and Food Technology Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05983224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00958412",
+      "title": "A Randomized, Double-blind Study Evaluating the Safety and Efficacy of Proellex® in the Treatment of Premenopausal Women With Symptomatic Endometriosis-extension Study",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-02-28",
+      "completion_date": "2009-08-31",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "ZPE-201 Extension of treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Only subjects treated in the ZPE-201 study will be allowed to enter the extension study.\n* Subjects who withdrew from ZPE-201 due to lack of treatment efficacy will also be invited to participate.\n\nExclusion Criteria:\n\n* All other subjects",
+      "endpoints": [
+        "To Evaluate Incidence of Adverse Events (AEs) and Safety of Proellex® Administered Once Daily"
+      ],
+      "sponsor": "Repros Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00958412"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01125488",
+      "title": "Maintenance Therapy of LNG-IUS in Conjunction With the GnRH Agonist to Prevent the Recurrence of Symptomatic Endometriosis After Conservative Surgery: A Prospective Randomized, Phase III Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2008-03",
+      "completion_date": "2010-09",
+      "country": "Taiwan",
+      "enrollment": 80,
+      "brief_summary": "The recurrence rates of endometriosis reported in women 5 years after therapy with gonadotropin releasing hormone (GnRH) agonist were 74% for severe disease . No strategies to prevent the recurrence of endometriosis have been uniformly successful. Local progesterone treatment of endometriosis-associated dysmenorrhea with a levonorgestrel-releasing intrauterine system (LNG-IUS) for 12 months has resulted in a significant reduction in dysmenorrhea, pelvic pain and dyspareunia; a high degree of pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with moderate-severe symptomatic endometriosis (rASRM score \\>16) according to the American Society for Reproductive Medicine) or adenomyosis. Symptomatic endometriosis means menorrhagia or dysmenorrhea.\n* All patients were surgically treated by a conservative approac",
+      "endpoints": [
+        "Recurrence rate of endometriosis"
+      ],
+      "sponsor": "Taipei Veterans General Hospital, Taiwan",
+      "url": "https://clinicaltrials.gov/study/NCT01125488"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03518528",
+      "title": "Endometrial Estrogen Preparation Before Frozen-thawed Embryo Transfer : Comparison of Vaginal and Transdermal Administration",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-30",
+      "completion_date": "2018-12",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to compare pregnancy outcomes of frozen-thawed embryo transfer after endometrial preparation with vaginal estradiol or transdermal estradiol and to evaluate women's satisfaction",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age ≥ 18 and \\<43\n* frozen-thawed embryo transfer after exogenously administered estrogen in either way transdermal or vaginal\n* patients who accepted being included and signed the consent forms.\n\nExclusion Criteria:\n\n* patient who refuse to participate\n* frozen-thawed embryot",
+      "endpoints": [
+        "clinical pregnancy"
+      ],
+      "sponsor": "University Hospital, Angers",
+      "url": "https://clinicaltrials.gov/study/NCT03518528"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03620838",
+      "title": "Endometrioma Per se Versus Treatment Related Reduction in Ovarian Reserve (ERROR-2 Trial)",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-03-01",
+      "completion_date": "2020-09-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 250,
+      "brief_summary": "The present multi-center study aimed to evaluate whether endometrioma-associated decline in ovarian reserve is progressive in the absence of an intervention and is greater in magnitude than the natural decline over time. Also the affect of endometrioma treatment modalities like surgery or medical on the ovarian reserve over time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women between 18 and 40 years of age\n* Who had at least one endometrioma \\>3 cm\n\nExclusion Criteria:\n\n* İrregular periods\n* Polycystic ovarian syndrome\n* Pregnant patients\n* Patients unable to give informed consent • Using medication which could affect ovarian function during ",
+      "endpoints": [
+        "AMH"
+      ],
+      "sponsor": "Uludag University",
+      "url": "https://clinicaltrials.gov/study/NCT03620838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01301885",
+      "title": "Novel Diagnostic Tools for Endometriosis and Their Exploitation for Prognosis and Prevention of Complications",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2005-10",
+      "completion_date": "2028-12",
+      "country": "Finland",
+      "enrollment": 230,
+      "brief_summary": "Endometriosis is a chronic disease characterized by the presence of functional endometrial glands and stroma in ectopic locations outside the uterine cavity. The ectopic endometrial tissue responds to estradiol and other hormones similarly to the normal endometrium. Endometriosis is one of the most common benign gynecological conditions, as many as 5-10% of women in the reproductive age may be affected. In addition to pain which may be severe, subfertility is one of the typical problems associat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* study group: surgically and pathologically verified endometriosis\n* control group: existence of endometriosis ruled out in laparoscopy\n\nExclusion Criteria:\n\n* no other significant disease or medication for other diseases\n* suspicion of malignancy\n* pregnancy\n* acute infection\n",
+      "endpoints": [
+        "Intra-tissue steroid profiling indicates differential progesterone and testosterone metabolism in the endometrium and endometriosis lesions.",
+        "Endometrial and endometriotic concentrations of estrone and estradiol are determined by local metabolism rather than circulating levels.",
+        "Serum HE4 concentration differentiates malignant ovarian tumours from ovarian endometriotic cysts."
+      ],
+      "sponsor": "Turku University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01301885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06543550",
+      "title": "Comparison Between the Effects of Implantable Gestrinone and Oral Dienogest in the Treatment of Endometriosis: Randomized Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-07-30",
+      "completion_date": "2025-10",
+      "country": "Brazil",
+      "enrollment": 70,
+      "brief_summary": "This study aims to evaluate the effects of therapy with implantable Gestrinone compared to oral Dienogest in relieving complaints related to endometriosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult female patients of menstrual age, pre-menopause (18 to 45 years old), who seek medical treatment to alleviate complaints related to endometriosis, who are not undergoing other therapies to treat them.\n* Patients must have a diagnosis of Grade 1 or 2 endometriosis assesse",
+      "endpoints": [
+        "Evaluation of dysmenorrhea severity",
+        "Evaluation of dyspareunia severity",
+        "Evaluation of non-cyclical pelvic pain severity"
+      ],
+      "sponsor": "Bio Meds Pharmaceutica Ltda",
+      "url": "https://clinicaltrials.gov/study/NCT06543550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02158845",
+      "title": "Effects of the Levonorgestrel-releasing Intrauterine System Compared With the Leuprolide Acetate in Patients With Endometriosis: a Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2012-09",
+      "country": "Brazil",
+      "enrollment": 44,
+      "brief_summary": "The hemostatic and inflammatory systems may activate each other. Endometriosis is a chronic inflammatory disease affecting 10% of women. The objective of this study is to compare the hemostatic effects of two treatments widely prescribed to women with endometriosis: the levonorgestrel intrauterine system (LNG-IUS) and the gonadotropin-releasing hormone analog (GnRHa) leuprolide acetate.\n\nHypothesis:\n\nH0: There is no alteration in hemostatic system with the use of GnRHa or LNG-IUS H1: There is al",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* to have endometriosis\n* aged 18 to 40 years\n* Being without contraceptives for at least 3 months or with depot medroxyprogesterone acetate or GnRHa for at least 6 months at the time of randomization.\n\nExclusion Criteria:\n\n* obese patients with a body mass index (BMI) ≥30 kg/m2",
+      "endpoints": [
+        "change from baseline in d-dimer"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT02158845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03692403",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Phase 2 Trial Assessing the Efficacy, Safety and Dose-response of Quinagolide Extended-release Vaginal Rings Administered Sequentially for 4 Menstrual Cycles in Women With Moderate to Severe Endometriosis-related Pain",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-12-26",
+      "completion_date": "2022-02-14",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "To evaluate the efficacy of three doses of quinagolide administered as an extended-release vaginal ring compared to placebo on reduction of moderate to severe endometriosis-related pain",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pre-menopausal females aged ≥18 years at time of signing informed consent(s) with regular menstrual cycles.\n* Body mass index (BMI) of 18-42 kg/m2 (both inclusive) at screening.\n* Initial confirmation of endometriosis by laparoscopy or laparotomy within the last 10 years befor",
+      "endpoints": [
+        "Changes in the Mean Daily Numerical Rating Scale (NRS) Scores for the Worst Endometriosis-related Pain."
+      ],
+      "sponsor": "Ferring Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03692403"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01056042",
+      "title": "Postoperative Intramuscular Depot Medroxyprogesterone Acetate Versus Continuous Oral Contraceptive for Pelvic Pain Associated With Endometriosis : Randomized Comparative Trial.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2011-10",
+      "country": "Thailand",
+      "enrollment": 112,
+      "brief_summary": "Patients with endometriosis-associated pain have conservative surgery performed to remove all visible lesions. Then, patients are randomized into two groups. In the first group patients have depot medroxyprogesterone acetate injections every 3 months for a total of 6 months.In the second group patients have oral contraceptive combined pills everyday for 6 months. Patients are followed up on recurrence of pain for 1 year after medication.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal women from 18 to 45 years of age with endometriosis-associated pain for at least 6 months who had conservative surgery performed.\n\nExclusion Criteria:\n\n* Medical therapies for endometriosis other than NSAID within previous 6 months\n* Contraindication to the drugs",
+      "endpoints": [
+        "Patients' satisfaction with the treatment"
+      ],
+      "sponsor": "Prince of Songkla University",
+      "url": "https://clinicaltrials.gov/study/NCT01056042"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06145438",
+      "title": "Comparing the Safety and Efficacy in the Use of Dienogest, Leuprolide Acetate, DMPA and Combined Oral Contraceptive Pills (Microgynon) on Endometriosis Patients After Conservative Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-09-04",
+      "completion_date": "2024-11-19",
+      "country": "Indonesia",
+      "enrollment": 80,
+      "brief_summary": "The goal of this clinical trial is to compare safety and efficacy in endometriosis patient after conservative surgery. The main question\\[s\\] it aims to answer are:\n\n1. Health-related quality of life (HRQoL)\n2. VAS score\n3. Beta estradiol\n4. TNF Alpha\n5. Adnexal mass recurrence\n\nParticipants will be randomized into 4 groups, each group will receive:\n\n1. Leuprolide Acetate injection/month\n2. Dienogest 2 mg/day\n3. COC (mycrogynon)/day\n4. DMPA injection 150mg/month Researcher will compare the effic",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient post surgical removal of endometriosis cyst Willing to participate\n\nExclusion Criteria:\n\n1. Use of any hormonal therapy for endometriosis within the previous 16 weeks.\n2. History of severe adverse drug reactions or hypersensitivity to steroid hormones.\n3. Failure of prev",
+      "endpoints": [
+        "beta estradiol level",
+        "TNF alpha level"
+      ],
+      "sponsor": "Universitas Diponegoro",
+      "url": "https://clinicaltrials.gov/study/NCT06145438"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04955574",
+      "title": "Probiotic and Antibiotic Therapies in Women With Unexplained Infertility",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-01",
+      "completion_date": "2024-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The study is designed as a proof of concept pilot study with 3 study arms to evaluate the safety and feasibility of the use of oral probiotics and/or antibiotics in women with unexplained infertility/endometriosis. Our secondary outcomes will assess In Vitro Fertilization outcomes, and changes in the uterine microbiota (bacteria), intestinal barrier integrity, and urinary metabolites in response to study interventions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female aged 18-40 at the time of egg retrieval\n2. Generally in good health (at physician's discretion)\n3. Diagnosed with Unexplained Infertility\n4. Diagnosed with or suspected of having endometriosis (at ONE Fertility physician's discretion)\n5. Normal uterine cavity as assess",
+      "endpoints": [
+        "Rate of study enrollment",
+        "Rate of retention of study participants",
+        "Proportion of participants adhering to study protocol"
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT04955574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07240363",
+      "title": "First Line Surgery or First Line Fertility Treatment Using Assisted Reproductive Technologies in Patients With Advanced Endometriosis: A National Multicenter Randomized-controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-10-06",
+      "completion_date": "2031-09-22",
+      "country": "Sweden",
+      "enrollment": 350,
+      "brief_summary": "Endometriosis is a chronic disease affecting approximately 10% of women of reproductive age. It is strongly associated with pelvic pain and infertility. Women with advanced stages of the disease (stage III-IV) have markedly reduced fertility compared with the general population. A Swedish study has shown that about 22% of women undergoing treatments with assisted reproductive technologies (ART), such as in vitro fertilization (IVF), are affected by endometriosis.\n\nThe optimal management of women",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 - 38 years old\n* Endometriosis AAGL stage III-IV\n* Referred or eligible for ART-treatment such as IVF or ICSI, independent of infertility diagnosis (28) (including sperm donation cycles for social reasons) and/or infertility due to dyspareunia/dysmenorrhea caused by end",
+      "endpoints": [
+        "Cumulative live-birth rate (CLBR)"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT07240363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07337928",
+      "title": "Altitude Training Effectiveness; Is There a Role for Sleep and Menstrual Health?",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02",
+      "completion_date": "2026-06",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "Therefore, the present study aims to evaluate the role of the impact of altitude on sleep and the menstrual cycle in the inter- and intraindividual variability of altitude training effectiveness. In order to do so, elite female cyclists will be monitored before, during and after an altitude training camp. The monitoring will include menstrual cycle characteristics, sleep and altitude effectiveness and will start three months before the start of the altitude training camp and end two months after",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy\n* Female\n* Elite cyclist\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "Total hemoglobin mass (tHBmass)",
+        "A standardized 5-min all-out cycling test",
+        "A wake and sleep diary"
+      ],
+      "sponsor": "Vrije Universiteit Brussel",
+      "url": "https://clinicaltrials.gov/study/NCT07337928"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06472765",
+      "title": "Comprehensive Registry and PCR Analysis of the Vaginal Microbiome in Women: Data Collection in Healthy and Diseased States",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-05-16",
+      "completion_date": "2028-05-15",
+      "country": "Canada, United States",
+      "enrollment": 3250,
+      "brief_summary": "The central premise of this study is that the intricate balance and diversity of the vaginal microbiome plays a pivotal role in the onset, progression, and severity of various gynecological conditions. Specifically, the research aims to investigate how imbalances in microbial communities, such as the overgrowth of pathogenic bacteria or the depletion of beneficial ones, are linked to conditions like Bacterial Vaginosis, Candidiasis, Urinary Tract Infections, Vaginal Atrophy, and others. By emplo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy cis-gender women between ages 18 and 89\n\nExclusion Criteria:\n\n* Pregnant or trying to conceive (i.e. IVF, IUI)",
+      "endpoints": [
+        "Microbiome Analysis"
+      ],
+      "sponsor": "Vaginal Biome Science",
+      "url": "https://clinicaltrials.gov/study/NCT06472765"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07078435",
+      "title": "Inflammation, Innate Immunity, MIcrobiota and Inovative Treatments in ENDOmetriosis",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09-09",
+      "completion_date": "2027-09-30",
+      "country": "France",
+      "enrollment": 40,
+      "brief_summary": "Endometriosis is a chronic inflammatory, polygenic, and multifactorial disease affecting approximately 10% of women of reproductive age, corresponding to over one million women in France. Endometriosis profoundly impairs the health and quality of life of affected individuals and carries a significant socio-economic burden, making it a major public health concern. To date, the pathogenesis and prognostic factors of disease progression remain poorly understood. Despite current treatment options, w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged 18-42 years.\n* Surgery scheduled during the luteal phase.\n* Written informed consent provided.\n\nAdditional inclusion criteria for the \"endometriosis\" group:\n\n* Women with confirmed endometriosis and a surgical indication (due to persistent symptoms despite medical t",
+      "endpoints": [
+        "To identify immune biomarkers associated with endometriosis."
+      ],
+      "sponsor": "University Hospital, Grenoble",
+      "url": "https://clinicaltrials.gov/study/NCT07078435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04374006",
+      "title": "Effects of Tetragonula Aff. Biroi Propolis Extract on Lesion Growth, Apoptotic and Inflammatory Activity of the Rat Endometriosis Tissue",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-11-01",
+      "completion_date": "2020-05-18",
+      "country": "Indonesia",
+      "enrollment": 120,
+      "brief_summary": "This study aims to evaluating inflammatory and apoptotic activity in rat's endometriosis lesion treated by Propolis compared to Dienogest",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* female ratus rat type\n* having normal estrus cycle\n\nExclusion Criteria:\n\n* nothing",
+      "endpoints": [
+        "mRNA expressions of Bax, Bcl, Cleaved Caspase 3, IL-1B, and PGE 2",
+        "Mollecular docking",
+        "Lession size"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT04374006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03784404",
+      "title": "Trans-vaginal Aspiration With or Without Injection of Surgicel for Treatment of Small Ovarian Endometrioma Before ICSI Cycles. A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-12",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "women candidate for ICSI and having ovarian endometrioma smaller than 5 cm will be randomized to either transvaginal aspiration alone or transvaginal aspiration follwed by injection of small parts of oxidized regenerated cellulose within the cyst cavity during the cycle that preceded the induction cycle of ICSI",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subfertile women indicated for ICSI\n* having a single endometrioma of less than 5 cm with typical sonographic criteria; a cyst with 1 to 4 locules and ground glass appearance of the cyst fluid with no papillary projections and no or minimal vascularization of the cyst capsule.",
+      "endpoints": [
+        "clinical pregnancy rate"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT03784404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05601596",
+      "title": "ROSE II: Pilot Study to Analyze Menstrual Blood to Predict Endometriosis",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2022-05-27",
+      "completion_date": "2025-06-01",
+      "country": "United States",
+      "enrollment": 185,
+      "brief_summary": "This product will be used as a diagnostic test to screen for the likelihood of endometriosis in menstruating adults with symptoms suggestive of endometriosis. The purpose of the test will be to guide clinical decisions regarding: 1) whether to undergo diagnostic laparoscopy to confirm the presence of endometriosis (currently, the gold standard for diagnosing endometriosis) and/or 2) how to guide the choice of hormonal or other therapies to treat symptoms of endometriosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor All\n\n* 18 to 40 year old menstruating women (continue to get cycles)\n* More than a light menstrual flow (light flow is soaking less than 1 thin pad or light tampon in 4 hours at peak flow)\n* Willingness to provide two menstrual samples across two separate menstrual cycles.\n*",
+      "endpoints": [
+        "ROSE II: Pilot study to analyze menstrual blood to predict endometriosis"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT05601596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02867111",
+      "title": "Application of the Sperm Selection Assay in Assisted in Reproductive Technology",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2016-08",
+      "completion_date": "2020-12",
+      "country": "Argentina",
+      "enrollment": 150,
+      "brief_summary": "Infertility is considered a disease by the World Health Organization and it is increasing worldwide affecting more than 70 million couples. About 50% of the cases are due to male inability to fertilize the oocyte. In the last 40 years, several techniques, known as Assisted Reproduction Technology (ART) have been developed to treat infertility, but the efficiency is still relatively low (around 30%) whereas the remaining 70% attempts again several times, an expensive and emotionally moving treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis for primary and secondary infertility\n* Healthy females or females with tubal obstruction (uni or bilateral) and/or endometriosis.\n* Clinical diagnosis for unexplained infertility.\n* Females between 18 and 40 years old.\n* Healthy males between 18 and 50 year",
+      "endpoints": [
+        "Fertilization rate"
+      ],
+      "sponsor": "Universidad Nacional de Córdoba",
+      "url": "https://clinicaltrials.gov/study/NCT02867111"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00556075",
+      "title": "A Phase II, Three-Arm, Parallel Design, Dose-Ranging Placebo-Controlled, Randomized, Double-Blind, Multicenter Study Evaluating the Safety and Efficacy of Proellex in the Treatment of Premenopausal Women With Symptomatic Endometriosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-11",
+      "completion_date": "2009-07",
+      "country": "United States",
+      "enrollment": 67,
+      "brief_summary": "The purpose of this study is to determine whether Proellex is safe and effective for the treatment of symptomatic endometriosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal women aged 18-48 inclusive\n* Endometriosis documented by laparoscopic or surgical assessment within the past ten (10) years\n* Clinical symptoms of endometriosis for at least the past three (3) months\n* Endometriosis symptoms\n* Must be sexually active unless sexua",
+      "endpoints": [
+        "Difference Between the 50 mg Proellex Group and Placebo Group in the Month 4 Subject Diary Composite Pain Score",
+        "Difference Between the 25 mg and 50 mg Proellex Groups and Placebo Group in the Month 4 Subject Diary Composite Pain Score"
+      ],
+      "sponsor": "Repros Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00556075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05937490",
+      "title": "Assisted Reproductive Technology (ART) and Pregnancy Outcomes in Women With Adenomyosis (Internal Endometriosis) According to Stimulation Protocol in Relation to Immunological and Endometrial Features: a Prospective, Randomized Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-03-27",
+      "completion_date": "2025-03",
+      "country": "Italy",
+      "enrollment": 500,
+      "brief_summary": "The goal of this clinical trial is to:\n\n* Prospectively investigate the association of Adenomyosis with fertility outcomes in relation to COH protocols for ART (long or ultra- long protocol) with a preventive high-dose anti-inflammatory progestin such as DNG and to assess their association with pregnancy and neonatal outcomes (preterm delivery,pre-eclampsia,Caesarean section,fetal malpresentation,small for gestational age,low birth weight and postpartum hemorrhage).\n* Understand how the endometr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adenomyosis of the uterus defined with at least one of the following features: (1) heterogeneous myometrium; (2) hypoechoic striation in the myometrium; (3) myometrial anechoic lacunae or cysts; (4) asymmetrical myometrial thickening of the uterine walls.\n* Couples who are und",
+      "endpoints": [
+        "live birth after ART"
+      ],
+      "sponsor": "Azienda Ospedaliero-Universitaria di Modena",
+      "url": "https://clinicaltrials.gov/study/NCT05937490"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05096065",
+      "title": "An Open-label Dose-finding Study to Evaluate the Pharmacodynamic (PD) Profiles and Efficacy of Different Dosing Regimens of Leuprolide Oral Tablets (Ovarest®) in Women With Endometriosis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-18",
+      "completion_date": "2022-05",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "The pharmacodynamic endpoint of percentage of subjects with suppressed estradiol level (less than 20 pg/mL) on cycle day 29 is the primary endpoint of the study.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Women diagnosed with endometriosis and having pelvic pain, both treatment naive or previously treated with GnRH agonists or antagonists with improvement\n2. Premenopausal females in general good health, including absence of current COVID infection (positive test or presence of",
+      "endpoints": [
+        "Adequacy of suppression of estradiol (E2) as assessed by the subject incidence of estradiol level below 20 pg/mL"
+      ],
+      "sponsor": "Enteris BioPharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05096065"
+    }
+  ],
+  "timestamp": "2026-03-04T17:01:47.254697",
+  "success": true,
+  "error_message": null
+}

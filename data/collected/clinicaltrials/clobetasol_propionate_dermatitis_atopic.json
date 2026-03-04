@@ -1,0 +1,160 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clobetasol Propionate",
+    "disease": "dermatitis, atopic"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01591785",
+      "title": "An Investigator-Initiated Study: Treatment of Staphylococcus Aureus Colonization in Hand Eczema Decreases Severity of Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2012-08",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Atopic dermatitis is a chronic disease characterized by itching and eczematous lesions. In adults, eczema commonly localizes to the hands or feet. Several studies have implicated bacterial contamination, especially with Staphylococcus aureus (S. aureus), to be a factor in atopic dermatitis, as infection with this bacteria correlates with disease severity. No trial to date has investigated how to treat S. aureus infection in adults with hand or hand/foot dermatitis. Using retapamulin ointment in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects at least 18 years of age with a clear diagnosis of moderate-to-severe hand or hand/foot dermatitis.\n* Subjects must be in general good health as confirmed by a medical history.\n* Subjects must be capable of understanding and willing to provide a signed ",
+      "endpoints": [
+        "Number of Participants With PGA of 0 or 1",
+        "Number of Participants With PGA of 0 or 1"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT01591785"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02376049",
+      "title": "An Explorative Clinical Trial to Evaluate an Intra Patient Comparison Design of Topical Agents in Adults With Mild to Moderate Atopic Dermatitis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2015-07",
+      "country": "Israel, Canada",
+      "enrollment": 30,
+      "brief_summary": "An Explorative Clinical Trial to Evaluate an Intra Patient Comparison Design of Topical Agents in Adults with Mild to Moderate Atopic Dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject with mild to moderate AD\n* Four comparable TAs\n* TSS of at least 5 on all TAs\n* Difference in TSS not greater than 2 between the TAs\n* Sign score erythema ≥ 2 between the TAs\n* TAs should be at least 2 cm apart\n\nExclusion Criteria:\n\n* Investigator's opinion\n* Fitzpatri",
+      "endpoints": [
+        "Total Sign Score (TSS) change"
+      ],
+      "sponsor": "LEO Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02376049"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03983460",
+      "title": "Dupilumab Impact on Skin Resident Memory T Cells",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-03-09",
+      "completion_date": "2021-09",
+      "country": "France",
+      "enrollment": 20,
+      "brief_summary": "The main objective of the study consists in characterizing the immune cells that are present/persist in the skin and the blood of atopic dermatitis (AD) patients treated with Dupilumab, as well as with potent/very potent topical corticosteroids (TCS: betamethasone valerate cream 0.1% or clobetasol propionate cream 0.05%). A specific attention will be paid on the presence/persistence of skin Trm and ILCs.\n\nThe study population will consist of 20 adult patients suffering from moderate to severe At",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject over 18 years of age\n* Subject able to read, understand and give documented informed consent\n* Subject willing and able to comply with the protocol requirements for the duration of the study\n* Subject with health insurance coverage according to local regulations\n* For ",
+      "endpoints": [
+        "To assess the change of the number (per biopsy or per mL of blood) and/or frequency (among live hematopoietic cells CD45+) of immune cells that are present in the skin and the blood of AD patients after Dupilumab or TCS treatment."
+      ],
+      "sponsor": "Association pour la Recherche Clinique et Immunologique",
+      "url": "https://clinicaltrials.gov/study/NCT03983460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06504160",
+      "title": "Safety and Efficacy of Topical Bacteriotherapy for Atopic Dermatitis Using Staphylococcus Hominis A9",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-04-10",
+      "completion_date": "2026-11-02",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "This is a Phase 1b, randomized, placebo/vehicle-controlled, double-blinded, multi-center trial. It is designed to assess the safety and efficacy of S. hominis A9 (ShA9) topical application as a treatment for atopic dermatitis (AD). The trial will enroll adults and adolescents with atopic dermatitis who are culture positive for S. aureus colonization.\n\nThe primary safety objective of this study is to compare the safety profile of ShA9 to placebo (vehicle) over 14 weeks of application, which inclu",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEach individual must meet all of the following criteria at Screening to be eligible for enrollment as a study participant:\n\n1. Must be able to understand and provide informed consent.\n2. Male or female participant 12 years of age or older.\n3. Meet ADRN Standard Diagnostic Criter",
+      "endpoints": [
+        "Time to the first Atopic Dermatitis (AD) flare.",
+        "Serious and non-serious treatment-emergent adverse events (TEAEs) related or possibly related to study treatment."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT06504160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03584360",
+      "title": "Study Role of the Local Treatments on the Microbiome Modulation in the Psoriatic Skin. Study Monocentric, Interventional, Randomized and Single-blind",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-24",
+      "completion_date": "2019-03-07",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "Changes in microbiome have been reported recently in psoriasis lesions compared to healthy surround skin. Preliminary data showed that systemic treatments of psoriasis induce modification of the skin microbiome that becomes similar to healthy individuals after successful treatment. The causative role of microbiome in psoriasis remains in debate. The modification of skin microbiome is suspected to be able to activate the innate immune response, namely natural killers (NKs) and immune lymphoid cel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age who have signed and dated an informed information and consent form,\n* Subject presenting psoriasis vulgaris with lesions symmetrical in size and severity, localized on the elbows and the knees and having a severity score (PASI) \\<=10. The lesions must have an a",
+      "endpoints": [
+        "Quantitative evaluation of bacterial microbiota on psoriasis lesions and surrounding healthy skin by 16S rRNA (ribosomal ribonucleic acid 16S) amplification coupled with high throughput sequencing",
+        "Qualitative evaluation of bacterial microbiota on psoriasis lesions and surrounding healthy skin by 16S rRNA (ribosomal ribonucleic acid 16S) amplification coupled with high throughput sequencing"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT03584360"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00757874",
+      "title": "A Double Blind Phase II Study Comparing Safety and Efficacy of Tacrolimus Versus Topical Clobetasol Propionate in the Treatment of Vulvar Lichen Sclerosus.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2010-01",
+      "country": "Canada",
+      "enrollment": 56,
+      "brief_summary": "Lichen Sclerosus is an inflammatory skin condition affecting mostly the genital area of persons of all ages, gender or race. The most frequent complaint is that of itchiness of the vulva but pain may also occur. Some women will experience no symptoms at all. However, it is important to treat this condition since it may increase and cause important scarring and deformity. In less than 5% of cases, cancer may develop.\n\nLichen Sclerosus is a chronic disease which can be controlled but not cured. To",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female, 2 years or older\n* Medical diagnosis of vulvar lichen sclerosus\n* Received no treatment during the last 4 weeks\n\nExclusion Criteria:\n\n* Who have received topical steroids, tacrolimus or pimecrolimus during the 4 last weeks.\n* Who are immunocompromised\n* Who have histor",
+      "endpoints": [
+        "To document the efficacy of Tacrolimus vs topical clobetasol propionate in the treatment of Vulvar Lichen Sclerosus by medical examinations and reporting of the symptoms. Cream is applied once a day for 3 months"
+      ],
+      "sponsor": "St. Justine's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00757874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03847389",
+      "title": "Open-Label Study of the Pharmacokinetics and Safety Including HPA Axis Suppression Potential of Clobetasol Topical Oil in Pediatric Subjects With Moderate to Severe Atopic Dermatitis",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-09-09",
+      "completion_date": "2020-07-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Open-Label Study designed to evaluate the HPA axis suppression potential of Clobetasol Topical Oil and pharmacokinetic safety / systemic exposure to clobetasol when Clobetasol Topical Oil is applied to pediatric subjects with moderate to severe atopic dermatitis (AD) under maximal use conditions.\n\nThe study duration for each subject will be up to 54 days (up to 38 days for Screening assessments, followed by up to 16 days of treatment and follow-up). Additional time will be required for subjects ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects in good general health confirmed by medical history.\n* Subjects with a clinical diagnosis of AD (according to the criteria of Hanifin and Rajka) of moderate to severe intensity (ISGA score of 3 or 4) involving ≥25% to ≤50% of total BSA located within tr",
+      "endpoints": [
+        "Number of Participants With HPA Axis Suppression - Serum Cortisol Concentration (Cortrosyn Stimulation Test)",
+        "Adverse Events, Including Treatment Emergent Adverse Events (TEAEs)"
+      ],
+      "sponsor": "Hill Dermaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03847389"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01381445",
+      "title": "A Randomised, Double-blind (for GW870086), Placebo-controlled Study of Topical GW870086 Formulation to Explore the Potential for Skin Thinning in Healthy Adult Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-04-14",
+      "completion_date": "2011-07-07",
+      "country": "Germany",
+      "enrollment": 20,
+      "brief_summary": "This study is a randomised, double-blind, placebo-controlled study of topical GW870086 to explore the potential for skin thinning in healthy adult volunteers after 42±2 days of treatment. Twenty (20) healthy volunteers will be randomised to receive placebo and GW870086 2% cream, they will also receive either of the following treatments: GW870086 0.2% cream, or clobetasol propionate 0.05% cream.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* AST (Aspartate aminotransferase), ALT (Alanine aminotransferase), alkaline phosphatase and bilirubin ≤ 1.5xULN (Upper limit of normal)(isolated bilirubin \\>1.5xULN is acceptable if bilirubin is fractionated and direct bilirubin \\<35%).\n* Healthy as determined by an experienced",
+      "endpoints": [
+        "Change from baseline in skin thickness using ultrasound between GW870086 (0.2% and 2%) versus placebo"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01381445"
+    }
+  ],
+  "timestamp": "2026-03-04T15:04:26.627685",
+  "success": true,
+  "error_message": null
+}

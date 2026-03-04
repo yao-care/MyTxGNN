@@ -6,7 +6,7 @@ drug_name: "Ciprofloxacin"
 kg_predictions: 280
 dl_predictions: 215
 evidence_level: "L1"
-indication_count: 280
+indication_count: 5
 brands: []
 permalink: /drugs/ciprofloxacin/
 ---

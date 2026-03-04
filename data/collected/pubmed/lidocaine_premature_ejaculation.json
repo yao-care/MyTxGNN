@@ -1,0 +1,558 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "premature ejaculation",
+    "query_string": "Lidocaine AND premature ejaculation"
+  },
+  "data": {
+    "query": "Lidocaine AND premature ejaculation",
+    "results": [
+      {
+        "pmid": "37664322",
+        "title": "Topical Anesthetics and Premature Ejaculation: A Systematic Review and Meta-Analysis.",
+        "abstract": "This meta-analysis was conducted to assess the effectiveness of topical anesthetics in preventing premature ejaculation. We conducted an online database search for original studies comparing topical anesthetic agents with placebo in patients with premature ejaculation. After selecting relevant articles, we extracted data on baseline characteristics and predetermined endpoints. Intravaginal ejaculatory latency time (IELT) was the primary outcome for efficacy. Mean differences and corresponding 95% confidence intervals were used to present continuous data. A random-effects model was used to pool the data, and subgroup analysis was performed based on the type of anesthetic agent used. Eleven randomized controlled trials were examined, involving a total of 2008 participants. After analyzing the combined results, it was found that Severance Secret (SS) cream (CJ CheilJedang Corporation, Seoul, South Korea) demonstrated significantly higher effectiveness than a placebo in increasing IELT (P ",
+        "journal": "Cureus",
+        "year": "2023",
+        "authors": [
+          "Shah M Danial Ali",
+          "Shah Safdar",
+          "Nusrat Nadeem Bin",
+          "Zafar Nauman",
+          "Rehman Assad Ur"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37664322/"
+      },
+      {
+        "pmid": "28408390",
+        "title": "Lidocaine/prilocaine spray for premature ejaculation.",
+        "abstract": "Although premature ejaculation is the most common ejaculation problem, it is poorly understood and currently has no standard definition.1 Typically, it involves reduced time to ejaculation, inability to control or delay ejaculation and associated distress.1-5 Treatments that have been assessed include psychosexual counselling, antidepressants (e.g. selective serotonin reuptake inhibitors), phosphodiesterase type-5 inhibitors, tramadol and topical anaesthetic agents (e.g. lidocaine/prilocaine cream). A new formulation (cutaneous spray) of lidocaine/prilocaine (Fortacin-Plethora Solutions Ltd.) was launched in the UK in November 2016 for the treatment of primary premature ejaculation.6,7 Here, we consider the evidence for lidocaine/prilocaine spray and whether it has a role in the treatment of premature ejaculation.",
+        "journal": "Drug and therapeutics bulletin",
+        "year": "2017",
+        "authors": [],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Anesthetics, Local",
+          "Contraindications",
+          "Drug Combinations",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination",
+          "Male",
+          "Premature Ejaculation",
+          "Prilocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28408390/"
+      },
+      {
+        "pmid": "19557470",
+        "title": "[Premature ejaculation].",
+        "abstract": "With prevalence rates of 20%-25% premature ejaculation (PE) represents the most frequent sexual dysfunction in men. Whereas genetically determined changes in the serotonin receptor-/transporter mechanism seem to be responsible for lifelong PE, acquired PE is often associated with other conditioning diseases such as erectile dysfunction, prostatitis or thyroid dysfunctions. Typical features of PE are a short intravaginal ejaculatory latency time (IELT) <1-2 min, lack of control over ejaculation, personal distress and partner problems. Treatment of PE subdivides into sexual therapy as well as drug therapy. Among the medications considered for PE, oral therapy with selective serotonin re-uptake inhibitors (SSRI), Dapoxetine (the first officially approved medication for PE) and topical therapy with lidocaine/prilocaine-containing medications are given priority.",
+        "journal": "Der Urologe. Ausg. A",
+        "year": "2009",
+        "authors": [
+          "Porst H"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Benzylamines",
+          "Ejaculation",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Marital Therapy",
+          "Naphthalenes",
+          "Prilocaine",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19557470/"
+      },
+      {
+        "pmid": "39935900",
+        "title": "Evaluation of the Efficacy and Safety of On-Demand Tadalafil Alone or Combined With Lidocaine Spray for Treating Patients With Comorbid Erectile Dysfunction and Premature Ejaculation: A Randomized Controlled Trial.",
+        "abstract": "To evaluate the efficacy and safety of on-demand 20 mg tadalafil alone or combined with lidocaine spray for treating patients with comorbid erectile dysfunction (ED) and premature ejaculation (PE).",
+        "journal": "International journal of sexual health : official journal of the World Association for Sexual Health",
+        "year": "2025",
+        "authors": [
+          "Liu Min",
+          "Deng Zi Xiang",
+          "Zhu Xianxiang",
+          "Hu ShiAn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39935900/"
+      },
+      {
+        "pmid": "26599522",
+        "title": "Topical anaesthetics for premature ejaculation: a systematic review and meta-analysis.",
+        "abstract": "Eutectic Mixture of Local Anaesthetics (EMLA) is recommended for use off-label as a treatment for premature ejaculation (PE). Other topical anaesthetics are available, some of which have been evaluated against oral treatments. The purpose of this systematic review was to evaluate the evidence from randomised controlled trials (RCTs) for topical anaesthetics in the management of PE. Bibliographic databases including MEDLINE were searched to August 2014. The primary outcome was intra-vaginal ejaculatory latency time (IELT). Methodological quality of RCTs was assessed. IELT and other outcomes were pooled across RCTs in a meta-analysis. Between-trial heterogeneity was assessed. Nine RCTs were included. Seven were of unclear methodological quality. Pooled evidence (two RCTs, 43 participants) suggests that EMLA is significantly more effective than placebo at increasing IELT (P<0.00001). Individual RCT evidence also suggests that Topical Eutectic-like Mixture for Premature Ejaculation (TEMPE)",
+        "journal": "Sexual health",
+        "year": "2016",
+        "authors": [
+          "Martyn-St James Marrissa",
+          "Cooper Katy",
+          "Ren Kate",
+          "Kaltenthaler Eva",
+          "Dickinson Kath"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Humans",
+          "Male",
+          "Premature Ejaculation",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26599522/"
+      },
+      {
+        "pmid": "30606186",
+        "title": "Paroxetine in the treatment of premature ejaculation: a systematic review and meta-analysis.",
+        "abstract": "Paroxetine is one of the selective serotonin reuptake inhibitors (SSRIs) used in the treatment of premature ejaculation (PE). However, this use is not approved in many countries. The purpose of this systematic review and meta-analysis is to review the efficacy and safety of paroxetine for PE patients.",
+        "journal": "BMC urology",
+        "year": "2019",
+        "authors": [
+          "Zhang Dong",
+          "Cheng Yue",
+          "Wu Kerong",
+          "Ma Qi",
+          "Jiang Junhui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Paroxetine",
+          "Premature Ejaculation",
+          "Randomized Controlled Trials as Topic",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30606186/"
+      },
+      {
+        "pmid": "35314817",
+        "title": "Prilocaine/lidocaine spray for the treatment of premature ejaculation: a dose- and time-finding study for clinical practice use.",
+        "abstract": "A eutectic mixture of prilocaine/lidocaine spray (Fortacin™, Recordati, Milan, Italy) has been approved for the management of patients affected by life-long premature ejaculation (PE), but to date, there is a lack of dose- or time-finding studies in the literature that indicate the best method of intake to optimize treatment outcomes. In this multicentre, randomized, two-phase study, we aimed to compare, in terms of treatment effectiveness (primary objective) and safety (secondary objective), different treatment regimens (various doses and times of drug delivery) of Fortacin™ in 91 patients affected with lifelong PE who were recruited at four different centres and randomized (1:1:1 ratio) into three different groups. The study included two phases: during the first phase (focused on time-finding), the same drug dose (three sprays) was taken at different intervals before intercourse (5, 15, 30 min). In the second phase (focused on dose finding), different drug doses (1, 3, 5 sprays) were",
+        "journal": "International journal of impotence research",
+        "year": "2023",
+        "authors": [
+          "Cai Tommaso",
+          "Gallelli Luca",
+          "Verze Paolo",
+          "Salonia Andrea",
+          "Palmieri Alessandro"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Premature Ejaculation",
+          "Lidocaine",
+          "Prilocaine",
+          "Ejaculation",
+          "Coitus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35314817/"
+      },
+      {
+        "pmid": "25636495",
+        "title": "Tramadol for premature ejaculation: a systematic review and meta-analysis.",
+        "abstract": "Tramadol is a centrally acting analgesic prescribed off-label for the treatment of premature ejaculation (PE). However, tramadol may cause addiction and difficulty in breathing and the beneficial effect of tramadol in PE is yet not supported by a high level of evidence. The purpose of this study was to systematically review the evidence from randomised controlled trials (RCT) for tramadol in the management of PE.",
+        "journal": "BMC urology",
+        "year": "2015",
+        "authors": [
+          "Martyn-St James Marrissa",
+          "Cooper Katy",
+          "Kaltenthaler Eva",
+          "Dickinson Kath",
+          "Cantrell Anna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Drug Administration Schedule",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Male",
+          "Off-Label Use",
+          "Orgasm",
+          "Patient Satisfaction",
+          "Premature Ejaculation",
+          "Prevalence",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25636495/"
+      },
+      {
+        "pmid": "18087649",
+        "title": "Premature ejaculation: current and future treatments.",
+        "abstract": "Premature ejaculation (PE) is recognized to be the most common male sexual disorder. PE provides difficulties for professionals who treat this condition because there is neither a universally accepted definition nor a medication approved by the Food and Drug Administration (FDA). Despite these shortcomings, physicians continue to diagnose their patients with PE according to major guidelines and treat them with either behavioral therapies or off-label medications. This review focuses on current and emerging treatment options and medications for PE. Advantages and limitations of each treatment option are discussed in the light of current published peer-reviewed literature.",
+        "journal": "Asian journal of andrology",
+        "year": "2008",
+        "authors": [
+          "Gurkan Levent",
+          "Oommen Matthew",
+          "Hellstrom Wayne J G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Behavior Therapy",
+          "Clomipramine",
+          "Ejaculation",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Prilocaine",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Sexual Dysfunction, Physiological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18087649/"
+      },
+      {
+        "pmid": "28720356",
+        "title": "Phosphodiesterase Type 5 Inhibitors for Premature Ejaculation: A Systematic Review and Meta-analysis.",
+        "abstract": "Phosphodiesterase type 5 inhibitors (PDE5-Is) are prescribed off-label for the treatment of premature ejaculation (PE).",
+        "journal": "European urology focus",
+        "year": "2017",
+        "authors": [
+          "Martyn-St James Marrissa",
+          "Cooper Katy",
+          "Ren Shijie",
+          "Kaltenthaler Eva",
+          "Dickinson Kath"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Drug Therapy, Combination",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Premature Ejaculation",
+          "Randomized Controlled Trials as Topic",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28720356/"
+      },
+      {
+        "pmid": "20683504",
+        "title": "Available and future therapies for premature ejaculation.",
+        "abstract": "Premature ejaculation (PE), the most common male sexual dysfunction, impacts the quality of life of not only the affected male but also his partner. Despite its prevalence, there are currently no United States Food and Drug Administration-approved therapies for PE. In 2004, the American Urological Association published treatment guidelines for PE that recommended the serotonergic antidepressants paroxetine, sertraline, clomipramine and fluoxetine, as well as topical lidocaine-prilocaine cream. None of these treatments were developed for PE, and all have limitations associated with their use. Therapies in development may have advantages over the currently available treatments. These include PSD-502, a metered-dose aerosol of lidocaine and prilocaine used as an on-demand local treatment, and dapoxetine, an on-demand short-acting selective serotonin reuptake inhibitor. Together with a recent, evidence-based definition of PE, these novel therapies should improve sexual function and quality",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2010",
+        "authors": [
+          "Hellstrom W J G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Benzylamines",
+          "Drug Therapy, Combination",
+          "Drugs, Investigational",
+          "Ejaculation",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20683504/"
+      },
+      {
+        "pmid": "20089991",
+        "title": "Premature ejaculation: treatment update.",
+        "abstract": "Premature ejaculation (PE) is the most common male sexual problem worldwide affecting 22-38% of men. It has a significant morbidity both on patients and their partners, causing distress, anxiety and relationship difficulties. The mainstay of treatment is a combined approach using behavioural therapies and non-licensed medication such as topical anaesthetic preparations, selective serotonin re-uptake inhibitors and phosphodiesterase-5 inhibitors. In recent years, there has been a greater emphasis placed on researching novel treatments and exploring the on-demand use of current preparations. This review provides an overview of current accepted treatments and emerging agents for the use in PE.",
+        "journal": "International journal of STD & AIDS",
+        "year": "2010",
+        "authors": [
+          "McCarty E J",
+          "Dinsmore W W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Anesthetics, Combined",
+          "Anesthetics, Local",
+          "Benzylamines",
+          "Ejaculation",
+          "Enzyme Inhibitors",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20089991/"
+      },
+      {
+        "pmid": "21532601",
+        "title": "Current therapeutic strategies for premature ejaculation and future perspectives.",
+        "abstract": "Premature ejaculation (PE) is a common sexual disorder in men that is mediated by disturbances in the peripheral and central nervous systems. Although all pharmaceutical treatments for PE are currently used 'off-label', some novel oral agents and some newer methods of drug administration now provide important relief to PE patients. However, the aetiology of this condition has still not been unified, primarily because of the lack of a standard animal model for basic research and the absence of a widely accepted definition and assessment tool for evidence-based clinical studies in patients with PE. In this review, we focus on the current therapeutic strategies and future treatment perspectives for PE.",
+        "journal": "Asian journal of andrology",
+        "year": "2011",
+        "authors": [
+          "Xin Zhong-Cheng",
+          "Zhu Yi-Chen",
+          "Yuan Yi-Ming",
+          "Cui Wan-Shou",
+          "Jin Zhe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic alpha-1 Receptor Antagonists",
+          "Animals",
+          "Antidepressive Agents",
+          "Drug Combinations",
+          "Ejaculation",
+          "Erectile Dysfunction",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21532601/"
+      },
+      {
+        "pmid": "20553259",
+        "title": "The link between penile hypersensitivity and premature ejaculation.",
+        "abstract": "To investigate the correlation between penile hypersensitivity and premature ejaculation (PE), as defined by the criteria identified by the International Society of Sexual Medicine (ISSM). Penile hypersensitivity as a cause of PE is based on historical clinical neurophysiological data and clinical efficacy of the topical desensitizing agent PSD502 in the treatment of PE. PSD502 is a eutectic-like mixture of two local anaesthetics, lidocaine and prilocaine, whose primary action is to reduce neuronal conduction in sensory afferents.",
+        "journal": "BJU international",
+        "year": "2011",
+        "authors": [
+          "Wyllie Michael G",
+          "Hellstrom Wayne J G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anesthetics, Local",
+          "Case-Control Studies",
+          "Clinical Trials as Topic",
+          "Coitus",
+          "Drug Combinations",
+          "Ejaculation",
+          "Humans",
+          "Lidocaine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20553259/"
+      },
+      {
+        "pmid": "37462487",
+        "title": "[Compound Chamomile and Lidocaine Hydrochloride Gel applied at different time-windows for premature ejaculation: A prospective single-center randomized controlled study].",
+        "abstract": "To investigate the efficacy and safety of Compound Chamomile and Lidocaine Hydrochloride Gel (CCLH) (Kamistad) applied at different time-windows on premature ejaculation (PE).",
+        "journal": "Zhonghua nan ke xue = National journal of andrology",
+        "year": "2022",
+        "authors": [
+          "Cai Biao",
+          "Cai Hong-Cai",
+          "Zhuang Jin-Tao",
+          "Yang Bi-Cheng",
+          "Wan Zi"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Premature Ejaculation",
+          "Lidocaine",
+          "Prospective Studies",
+          "Chamomile",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37462487/"
+      },
+      {
+        "pmid": "33828264",
+        "title": "Real-life use of the eutectic mixture lidocaine/prilocaine spray in men with premature ejaculation.",
+        "abstract": "Topical anaesthetics are considered a first-line therapy option in men with premature ejaculation (PE). A cross-sectional retrospective analysis was performed to evaluate the real-life use of the eutectic mixture of prilocaine/lidocaine spray (FORTACIN™) in a cohort of 198 white-European men who had been consecutively and prospectively seen at a single tertiary-referral andrology centre for self-reported PE and naive for previous PE treatments. Descriptive statistics was used to describe the whole cohort and the paired t-test was applied to investigate potential differences throughout a 12-month follow-up (baseline, 1, 3, 6 and 12 months). Overall, mean (SD) age was 37 (6.5) years. Of all, lifelong, acquired and subjective PE were reported in 101 (51%), 59 (29.8%) and 38 (19.2%) patients at baseline, respectively. FORTACIN™ use increased up to 6 months, with 184 (92.9%) and 128 (66.4%) men who had tried and regularly used the compound, respectively. At 12-month follow-up, 53 (26.8%) me",
+        "journal": "International journal of impotence research",
+        "year": "2022",
+        "authors": [
+          "Boeri Luca",
+          "Pozzi Edoardo",
+          "Fallara Giuseppe",
+          "Montorsi Francesco",
+          "Salonia Andrea"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cross-Sectional Studies",
+          "Ejaculation",
+          "Female",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination",
+          "Male",
+          "Premature Ejaculation",
+          "Prilocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33828264/"
+      },
+      {
+        "pmid": "31896832",
+        "title": "Effectiveness and tolerability of lidocaine 5% spray in the treatment of lifelong premature ejaculation patients: a randomized single-blind placebo-controlled clinical trial.",
+        "abstract": "This study aimed to appraise the effectiveness and tolerability of lidocaine 5% spray in the treatment of patients with premature ejaculation (PE). The current study has been designed as a randomized single-blind placebo-controlled clinical trial. It was done on 150 lifelong PE patients with normal erection. They were randomized evenly categorized into two treatment groups. Group 1 (n = 75); was given on demand lidocaine 5% spray for 8 weeks. Group 2 (n = 75); was given placebo in the form on demand alcohol spray for 8 weeks. All medications were applied on the glans penis for 10-20 min, and then cleaned before planned sexual intercourse. Patients were evaluated with the Arabic Index of Premature Ejaculation (AIPE) scores, intravaginal ejaculatory latency times (IELTs), and frequency of sexual intercourse before and after treatments. The mean values of the AIPE scores, IELTs, and sexual intercourse frequency in the lidocaine 5% spray group were statistically significant increased than ",
+        "journal": "International journal of impotence research",
+        "year": "2021",
+        "authors": [
+          "Abu El-Hamd Mohammed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Coitus",
+          "Ejaculation",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Premature Ejaculation",
+          "Single-Blind Method",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31896832/"
+      },
+      {
+        "pmid": "36537026",
+        "title": "The Effects of Steady Freddy, a Lidocaine-Based Pump Spray for the Treatment of Premature Ejaculation (PE).",
+        "abstract": "Premature ejaculation (PE) is reported to be the most common sexual dysfunction in men and is defined as the inability to control or delay ejaculation. Steady Freddy is a lidocaine-based ejaculation-delaying spray. This article examines the effects of Steady Freddy on the sexual experience of men that have self-reported to suffer from PE. Under the conditions of a randomized single-blind placebo-controlled clinical trial, 150 participants received either placebo or treatment for the duration of 12 weeks and completed an internet-based questionnaire for the quality of their sexual experience. Prior to product usage, participant average latency time was <1 min, 70% claimed to be very sexually dissatisfied, and 67% claimed to be very dissatisfied with ejaculation control. Upon product usage, sexual experience was significantly improved (p<.01). Participant average latency time increased to >2 min, 80% claimed to be sexually satisfied, and 70% claimed to be satisfied with ejaculation contr",
+        "journal": "American journal of men's health",
+        "year": "2022",
+        "authors": [
+          "Shariev Artur",
+          "Savdie Richard",
+          "Hart Kieran"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Premature Ejaculation",
+          "Lidocaine",
+          "Single-Blind Method",
+          "Ejaculation",
+          "Sexual Behavior"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36537026/"
+      },
+      {
+        "pmid": "38586249",
+        "title": "The effect of local anesthetic on the hypersensitive and nonsensitive areas of the penis is different in primary premature ejaculation: a pilot study.",
+        "abstract": "Penile hypersensitivity is not the whole penis, but rather only a part of the penis. Though local anesthetic can prolong intravaginal ejaculation latency time by reducing penile hypersensitivity, the effect on the hypersensitive and nonsensitive areas of penis is still unclear.",
+        "journal": "Sexual medicine",
+        "year": "2024",
+        "authors": [
+          "Zheng Lei",
+          "Wei Le-Tian",
+          "Song-Chunli",
+          "Liu Wen-Rong",
+          "Jiang Hui"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38586249/"
+      },
+      {
+        "pmid": "23064688",
+        "title": "New insights on premature ejaculation: a review of definition, classification, prevalence and treatment.",
+        "abstract": "There are ongoing debates about the definition, classification and prevalence of premature ejaculation (PE). The first evidence-based definition of PE was limited to heterosexual men with lifelong PE who engage in vaginal intercourse. Unfortunately, many patients with the complaint of PE do not meet these criteria. However, these men can be diagnosed as one of the PE subtypes, namely acquired PE, natural variable PE or premature-like ejaculatory dysfunction. Nevertheless, the validity of these subtypes has not yet been supported by evidence. The absence of a universally accepted PE definition and lack of standards for data acquisition have resulted in prevalence studies that have reported conflicting rates. The very high prevalence of 20%-30% is probably due to the vague terminology used in the definitions at the time when such surveys were conducted. Although many men may complain of PE when questioned for a population-based prevalence study, only a few of them will actively seek trea",
+        "journal": "Asian journal of andrology",
+        "year": "2012",
+        "authors": [
+          "Serefoglu Ege C",
+          "Saitz Theodore R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Benzylamines",
+          "Coitus",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Naphthalenes",
+          "Piperazines",
+          "Premature Ejaculation",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23064688/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:57:16.534173",
+  "success": true,
+  "error_message": null
+}

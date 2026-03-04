@@ -1,0 +1,46 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Entacapone",
+    "disease": "atypical juvenile parkinsonism",
+    "query_string": "Entacapone AND atypical juvenile parkinsonism"
+  },
+  "data": {
+    "query": "Entacapone AND atypical juvenile parkinsonism",
+    "results": [
+      {
+        "pmid": "20305599",
+        "title": "Othello syndrome in patients with Parkinson's disease.",
+        "abstract": "Othello syndrome (OS) is an organic delusional disorder with prevailing jealousy symptoms presumably appearing as side effect of antiparkinsonian therapy. The clinical spectrum of psychiatric symptoms in Parkinson's disease (PD) is very wide, including symptoms of depression and anxiety, hallucinations, delusions, with prevalent paranoid symptoms, agitation, delirium and sleep disorders. At our knowledge, just a few cases of patients with PD and OS were reported till now.",
+        "journal": "Psychiatria Danubina",
+        "year": "2010",
+        "authors": [
+          "Georgiev Dejan",
+          "Danieli Aljosa",
+          "Ocepek Lidija",
+          "Novak Dominika",
+          "Zupancic-Kriznar Nina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age of Onset",
+          "Aged",
+          "Antiparkinson Agents",
+          "Antipsychotic Agents",
+          "Cross-Sectional Studies",
+          "Delusions",
+          "Diagnostic and Statistical Manual of Mental Disorders",
+          "Dopamine Agonists",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20305599/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:28:21.345690",
+  "success": true,
+  "error_message": null
+}

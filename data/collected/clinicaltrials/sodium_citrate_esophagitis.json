@@ -1,0 +1,108 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "esophagitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05998863",
+      "title": "Effervescent Calcium Magnesium Citrate to Prevent Mineral Metabolism and Renal Complications of Chronic Proton Pump Inhibitor Therapy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-04-19",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "Proton pump inhibitors (PPIs) are widely used for the control of gastric ulcer-gastritis, erosive esophagitis (gastroesophageal reflux disease), peptic ulcer disease (duodenal ulcer), and heartburn. Despite their efficacy, their use has been implicated in possibly causing fragility fractures (osteoporosis), hypomagnesemia (magnesium deficiency) and increased risk of chronic kidney disease (CKD). The current trial represents the investigators ongoing effort to discern whether these complications ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ambulatory adult subjects (\\> 21 years of age) of either gender of any ethnicity\n* Must have taken PPI (omeprazole or equivalent ≥ 20 mg/day, ≥ three times per week, for at least 2 months)\n* Expected to continue at a similar dosage\n* Stage 1 hypertension (with systolic blood p",
+      "endpoints": [
+        "Change From Baseline in Bone Mineral Density (BMD) T-Score at 1 Year",
+        "Change From Baseline in the Fractional Excretion of Magnesium (FEMg) at 1 Year",
+        "Change from baseline in endogenous creatinine clearance at 1 year."
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05998863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03812380",
+      "title": "Averting Complications of Proton Pump Inhibitor Therapy by Effervescent Calcium Magnesium Citrate",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2019-01-01",
+      "completion_date": "2021-08-11",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "Proton pump inhibitors (PPIs) are widely used for the control of gastric ulcer-gastritis, erosive esophagitis (gastroesophageal reflux disease), peptic ulcer disease (duodenal ulcer), and heartburn. Despite their efficacy, their use has been implicated in possibly causing fragility fractures (osteoporosis), hypomagnesemia (magnesium deficiency) and increased risk of chronic kidney disease (CKD). The current trial represents the investigators' ongoing effort to discern whether these complications",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have taken PPI (omeprazole or equivalent ≥ 20 mg/day, ≥ three times per week, for at least 2 months)\n* Expected to continue at a similar dosage\n* Stage 1 hypertension (with systolic blood pressure \\<140 and diastolic \\<90)\n* controlled diabetes mellitus Type II with HbA1C",
+      "endpoints": [
+        "Change From Baseline in Bone Mineral Density (BMD) T-Score at 2 Years",
+        "Change From Baseline in Bone Mineral Density (BMD) Z-Score at 2 Years",
+        "Change From Baseline in the Fractional Excretion of Magnesium (FEMg) at 2 Years"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03812380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04626609",
+      "title": "Prostaglandin and Cannabinoid Receptors in the Development of Eosinophilic Esophagitis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-07-01",
+      "completion_date": "2024-11-18",
+      "country": "Austria",
+      "enrollment": 45,
+      "brief_summary": "The purpose of this study is to investigate prostaglandin and cannabinoid receptors and their endogenous ligands in eosinophilic esophagitis (EoE). A prostaglandin D2 receptor antagonist has been shown to improve disease symptoms suggesting a regulatory role for bioactive lipids in EoE. Prostaglandin D2 and E2, and endocannabinoids are lipid mediators that govern the functional and inflammatory behavior of immune cells critical for EoE development. The prostaglandin D2 and E2 receptor axis, and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosed or suspected EoE or GERD\n* without esophageal diseases\n* with signed informed consent\n\nExclusion Criteria:\n\n* viral or parasitic diseases (e.g. herpes, candidiasis)\n* eosinophilic gastroenteritis, hypereosinophilic syndrome, Crohn's disease\n* autoimmune diseases\n* un",
+      "endpoints": [
+        "Analysis of cannabinoid receptors- protein content",
+        "Analysis of cannabinoid receptors- transcripts",
+        "Analysis of prostaglandin D2 receptors- protein content"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT04626609"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06850480",
+      "title": "A Multicenter, Randomized, Double-blind, Double-simulated, Positive Parallel-control Phase III Clinical Trails of JP-1366（Zastaprazan Citrate） Tablets and Nexium® on Reflux Esophagitis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-12-05",
+      "completion_date": "2025-04-30",
+      "country": "China",
+      "enrollment": 356,
+      "brief_summary": "To evaluate the efficacy and safety of JP-1366 tablets and Nexium® (Esomeprazole magnesium enteric-coated tablets) in subjects with reflux esophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily participate and sign a written informed consent form, and be able to understand the information provided and comply with the program requirements;\n2. Age between 18-75 years old (including boundary values) during screening, both male and female are acceptable.\n3. ",
+      "endpoints": [
+        "Percentage of subjects with esophageal mucosal healing confirmed by upper gastrointestinal endoscopy within 8 weeks of treatment"
+      ],
+      "sponsor": "Livzon Pharmaceutical Group Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06850480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03050359",
+      "title": "A Randomized Double-Blind, Double-Dummy, Phase 3 Study to Evaluate the Efficacy and Safety of Oral TAK-438 20 mg Compared to Lansoprazole 30 mg Once- or Twice-Daily in the Treatment of Endoscopically Confirmed Duodenal Ulcer Subjects With or Without Helicobacter Pylori Infection",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-04-05",
+      "completion_date": "2019-07-19",
+      "country": "Taiwan, China, Philippines, South Korea",
+      "enrollment": 533,
+      "brief_summary": "The purpose of this study is to demonstrate the non-inferior efficacy of TAK-438 versus lansoprazole in the treatment of participants with duodenal ulcer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Has endoscopic evidence of active duodenal ulcer(s) (i.e., mucosal defects with white coating \\[including cases associated with blood coagulation as long as there is no active bleeding\\]) measuring 5 mm or larger in longest diameter within 14 days prior to randomization.\n\nEx",
+      "endpoints": [
+        "Percentage of Participants With Endoscopically Confirmed Healing of Duodenal Ulcers"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT03050359"
+    }
+  ],
+  "timestamp": "2026-03-04T16:25:28.212410",
+  "success": true,
+  "error_message": null
+}

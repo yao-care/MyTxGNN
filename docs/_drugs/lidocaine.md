@@ -6,7 +6,7 @@ drug_name: "Lidocaine"
 kg_predictions: 108
 dl_predictions: 828
 evidence_level: "L1"
-indication_count: 108
+indication_count: 5
 brands: []
 permalink: /drugs/lidocaine/
 ---

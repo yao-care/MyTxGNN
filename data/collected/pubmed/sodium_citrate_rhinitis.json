@@ -1,0 +1,178 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "rhinitis",
+    "query_string": "Sodium Citrate AND rhinitis"
+  },
+  "data": {
+    "query": "Sodium Citrate AND rhinitis",
+    "results": [
+      {
+        "pmid": "27316224",
+        "title": "Intranasal sodium citrate solution improves olfaction in post-viral hyposmia.",
+        "abstract": "Calcium plays an integral role in olfactory signal transduction, including feedback inhibition. Sodium citrate acts as a calcium sequestrant and when applied intranasally, reduces free calcium available for feedback inhibition, which should theoretically improve olfaction. We aimed to investigate the utility of intranasal sodium citrate in improving the olfactory function of hyposmic patients, by performing this prospective placebo controlled, single-blind trial.",
+        "journal": "Rhinology",
+        "year": "2016",
+        "authors": [
+          "Whitcroft K L",
+          "Merkonidis C",
+          "Cuevas M",
+          "Haehner A",
+          "Philpott C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adult",
+          "Aged",
+          "Calcium Signaling",
+          "Chronic Disease",
+          "Citrates",
+          "Craniocerebral Trauma",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27316224/"
+      },
+      {
+        "pmid": "27101674",
+        "title": "[Clinical evaluation of Montelukast plus Budesonide nasal spray and Desloratadine citrate disodium in treating moderate and severe persistent allergic rhinitis].",
+        "abstract": "To investigate the clinical efficacy of montelukast plus budesonide nasal spray and desloratadine citrate disodium tablets on moderate and severe persistent allergic rhinitis.",
+        "journal": "Lin chuang er bi yan hou tou jing wai ke za zhi = Journal of clinical otorhinolaryngology head and neck surgery",
+        "year": "2015",
+        "authors": [
+          "Wang Renzia",
+          "Zhang Chunhui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Budesonide",
+          "Cyclopropanes",
+          "Humans",
+          "Loratadine",
+          "Nasal Sprays",
+          "Quinolines",
+          "Rhinitis, Allergic, Perennial",
+          "Sulfides",
+          "Surveys and Questionnaires"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27101674/"
+      },
+      {
+        "pmid": "34842278",
+        "title": "The importance of vascular epithelial growth factor (VEGF) and inducible nitric oxide synthase (INOS) in rhinitis medicamentosa pathogenesis: An experimental rat model study.",
+        "abstract": "Our aim in this study is to reveal the expression of Vascular Endothelial Growth Factor (VEGF) and Inducible Nitric Oxide Synthase (iNOS) in the pathogenesis of rhinitis medicamentosa (RM), which occurs as a result of the overdose and long-term use of topical nasal decongestants.",
+        "journal": "Histology and histopathology",
+        "year": "2022",
+        "authors": [
+          "Cumbul Alev",
+          "Bulut Fuat"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Edema",
+          "Nasal Mucosa",
+          "Nitric Oxide Synthase Type II",
+          "Oxymetazoline",
+          "Rats",
+          "Rats, Wistar",
+          "Rhinitis",
+          "Vascular Endothelial Growth Factor A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34842278/"
+      },
+      {
+        "pmid": "13443355",
+        "title": "[Treatment of allergic rhinitis with simultaneous sodium citrate-steroid dosage].",
+        "abstract": "",
+        "journal": "Wiener Zeitschrift fur innere Medizin und ihre Grenzgebiete",
+        "year": "1957",
+        "authors": [
+          "LADANYI J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Citrates",
+          "Humans",
+          "Hyperthermia, Induced",
+          "Rhinitis, Allergic",
+          "Rhinitis, Allergic, Seasonal",
+          "Sodium Citrate",
+          "Steroids",
+          "Vitamin D",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13443355/"
+      },
+      {
+        "pmid": "26155922",
+        "title": "Effects of desloratadine citrate disodium injection on rat models of ovalbumin-induced allergic rhinitis: involvement of T-cell responses modulation.",
+        "abstract": "Allergic rhinitis (AR) is a very common worldwide problem; patients display a number of symptoms, such as sneezing, nasal itching, and rhinorrhea, and their lifestyle is affected. Desloratadine is a novel, long-acting inhibitor of histamine. However, very little is known about the effect of desloratadine citrate disodium injection (DLC injection) on AR, and the underlying mechanisms are yet unexplored. Herein, we sought to explore the effects and mechanisms of actions of DLC injection in ovalbumin (OVA)-induced immune responses in a rat model of AR.",
+        "journal": "International forum of allergy & rhinology",
+        "year": "2015",
+        "authors": [
+          "Yuan Xin",
+          "Ghosh Arijit",
+          "Jie Qiong",
+          "He Guangwei",
+          "Wu Yulin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Allergens",
+          "Animals",
+          "Cell Adhesion Molecules",
+          "Citrates",
+          "Cytokines",
+          "Disease Models, Animal",
+          "Gene Expression Regulation",
+          "Histamine Antagonists",
+          "Humans",
+          "Immunomodulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26155922/"
+      },
+      {
+        "pmid": "13164942",
+        "title": "[Autohemotherapy with sodium citrate injections in therapy of hay fever; preliminary report].",
+        "abstract": "",
+        "journal": "Medizinische Klinik",
+        "year": "1954",
+        "authors": [
+          "FELDER H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Citrates",
+          "Humans",
+          "Immunization, Passive",
+          "Rhinitis, Allergic, Seasonal",
+          "Sodium Citrate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13164942/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:25:26.568152",
+  "success": true,
+  "error_message": null
+}

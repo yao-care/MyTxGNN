@@ -6,7 +6,7 @@ drug_name: "Ferrous Fumarate"
 kg_predictions: 91
 dl_predictions: 55
 evidence_level: "L1"
-indication_count: 91
+indication_count: 5
 brands: []
 permalink: /drugs/ferrous-fumarate/
 ---

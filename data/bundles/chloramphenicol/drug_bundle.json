@@ -1,0 +1,3173 @@
+{
+  "drug": {
+    "name": "Chloramphenicol",
+    "drugbank_id": "DB00446",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "paratyphoid fever",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "36420914",
+            "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+            "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2022",
+            "authors": [
+              "Kuehn Rebecca",
+              "Stoesser Nicole",
+              "Eyre David",
+              "Darton Thomas C",
+              "Basnyat Buddha"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Adult",
+              "Humans",
+              "Adolescent",
+              "Paratyphoid Fever",
+              "Typhoid Fever",
+              "Cephalosporins",
+              "Azithromycin",
+              "Ceftriaxone",
+              "Cefixime"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+          },
+          {
+            "pmid": "18843659",
+            "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever (enteric fever), but how they compare with other antibiotics and different fluoroquinolones is unclear.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2008",
+            "authors": [
+              "Thaver Durrane",
+              "Zaidi Anita Km",
+              "Critchley Julia A",
+              "Azmatullah Asma",
+              "Madni Syed Ali"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Fluoroquinolones",
+              "Humans",
+              "Norfloxacin",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18843659/"
+          },
+          {
+            "pmid": "21975746",
+            "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2011",
+            "authors": [
+              "Effa Emmanuel E",
+              "Lassi Zohra S",
+              "Critchley Julia A",
+              "Garner Paul",
+              "Sinclair David"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Fluoroquinolones",
+              "Humans",
+              "Norfloxacin",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+          },
+          {
+            "pmid": "18843701",
+            "title": "Azithromycin for treating uncomplicated typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Enteric fever (typhoid and paratyphoid fever) is potentially fatal. Infection with drug-resistant strains of the causative organism Salmonella enterica serovar Typhi or Paratyphi increases morbidity and mortality. Azithromycin may have better outcomes in people with uncomplicated forms of the disease.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2008",
+            "authors": [
+              "Effa Emmanuel E",
+              "Bukirwa Hasifa"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Child",
+              "Humans",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18843701/"
+          },
+          {
+            "pmid": "15846718",
+            "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever, but how they compare with other cheaper antibiotics and different fluoroquinolones is unclear.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2005",
+            "authors": [
+              "Thaver D",
+              "Zaidi A K",
+              "Critchley J",
+              "Madni S A",
+              "Bhutta Z A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Infective Agents",
+              "Child",
+              "Fluoroquinolones",
+              "Humans",
+              "Norfloxacin",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15846718/"
+          },
+          {
+            "pmid": "21975751",
+            "title": "WITHDRAWN: Azithromycin for treating uncomplicated typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Review status: Current question - no update intended. Azithromycin treatments are included in the review: Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever). (Thaver D, Zaidi AKM, Critchley JA, Azmatullah A, Madni SA, Bhutta ZA. Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever). Cochrane Database of Systematic Reviews 2008, Issue 4. Art. No.: CD004530. DOI: 10.1002/14651858.CD004530.pub3.)   This latter review is being updated, and will be published in late 2011.Enteric fever (typhoid and paratyphoid fever) is potentially fatal. Infection with drug-resistant strains of the causative organism Salmonella enterica serovar Typhi or Paratyphi increases morbidity and mortality. Azithromycin may have better outcomes in people with uncomplicated forms of the disease.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2011",
+            "authors": [
+              "Effa Emmanuel E",
+              "Bukirwa Hasifa"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Child",
+              "Humans",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21975751/"
+          },
+          {
+            "pmid": "115625",
+            "title": "Typhoid and paratyphoid fever.",
+            "abstract": "",
+            "journal": "Clinics in gastroenterology",
+            "year": "1979",
+            "authors": [
+              "Mandal B K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Carrier State",
+              "Chloramphenicol",
+              "Drug Combinations",
+              "Drug Resistance, Microbial",
+              "Humans",
+              "Intestinal Perforation",
+              "Nervous System Diseases",
+              "Paratyphoid Fever",
+              "Sulfamethoxazole",
+              "Trimethoprim"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/115625/"
+          },
+          {
+            "pmid": "11726293",
+            "title": "Typhoid and paratyphoid fever: a 10-year retrospective study of 41 cases in a Parisian hospital.",
+            "abstract": "Enteric fever remains a major cause of fever in travelers. We evaluated new trends in enteric fever.",
+            "journal": "Journal of travel medicine",
+            "year": "2001",
+            "authors": [
+              "Caumes E",
+              "Ehya N",
+              "Nguyen J",
+              "Bricaire F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Drug Resistance, Microbial",
+              "Feces",
+              "Female",
+              "Humans",
+              "Male",
+              "Medical Records",
+              "Middle Aged",
+              "Paratyphoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11726293/"
+          },
+          {
+            "pmid": "417191",
+            "title": "A comparative trial of co-trimoxazole and chloramphenicol in thyphoid and paratyphoid fever.",
+            "abstract": "A comparative trial of co-trimoxazole and chloramphenicol was carried out on 91 patients, 57 having typhoid fever and 34 cases having paratyphoid fever. Co-trimoxazole is an effective drug in the treatment of enteric fevers with respect to clinical cure, absence of relapses and the mild nature of short term toxic drug effects. Unlike some of the earlier reports, treatment failure or non-responsiveness to the drug occurred in just under 10 per cent of the cases and would constitute a drawback of therapy with co-trimoxazole. This feature was not observed in the patients receiving chloramphenicol. The excretion of Salmonellae after drug therapy was more common with chloramphenicol than with co-trimoxazole, again indicating the value of the latter drug in the treatment of enteric fevers.",
+            "journal": "The Journal of tropical medicine and hygiene",
+            "year": "1978",
+            "authors": [
+              "Ramachandran S",
+              "Godfrey J J",
+              "Lionel N D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chloramphenicol",
+              "Clinical Trials as Topic",
+              "Drug Combinations",
+              "Female",
+              "Humans",
+              "Male",
+              "Paratyphoid Fever",
+              "Sulfamethoxazole",
+              "Trimethoprim"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/417191/"
+          },
+          {
+            "pmid": "6084470",
+            "title": "Dosage of chloramphenicol in typhoid and paratyphoid in children.",
+            "abstract": "Over a period of 12 years, 109 children with salmonella enteric fever were treated with chloramphenicol: 65 children were given the drug at 50 mg/kg/24 h (Group A) and 44 received 100 mg/kg/24 h (Group B). Treatment failed in 63% with the lower dose and in 24% of children treated with the higher dose (P less than 0.001). In the children who received only chloramphenicol, the higher dose produced a clinical response in 5.4 (1.8) (mean (S.D.] days compared with 7 (2.6) days with the lower dose (P less than 0.01). Chloramphenicol in an initial dose of 100 mg/kg/24 h is recommended in the treatment of typhoid and paratyphoid in children.",
+            "journal": "Annals of tropical paediatrics",
+            "year": "1984",
+            "authors": [
+              "Raghupathy P",
+              "Jeeson C U",
+              "Mohandas V",
+              "Pereira S M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Female",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Male",
+              "Paratyphoid Fever",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6084470/"
+          },
+          {
+            "pmid": "10088452",
+            "title": "[Typhoid fever--paratyphoid fever].",
+            "abstract": "",
+            "journal": "Ryoikibetsu shokogun shirizu",
+            "year": "1999",
+            "authors": [
+              "Nagatake T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Chloramphenicol",
+              "Diagnosis, Differential",
+              "Fluoroquinolones",
+              "Humans",
+              "Paratyphoid Fever",
+              "Salmonella paratyphi A",
+              "Salmonella typhi",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10088452/"
+          },
+          {
+            "pmid": "4976892",
+            "title": "Paratyphoid A fever.",
+            "abstract": "",
+            "journal": "Annals of internal medicine",
+            "year": "1969",
+            "authors": [
+              "Wahab M F",
+              "Robertson R P",
+              "Raasch F O"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Ampicillin",
+              "Bone Marrow",
+              "Bone Marrow Examination",
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4976892/"
+          },
+          {
+            "pmid": "35871037",
+            "title": "Clinical manifestations and microbiological features between indigenous and imported enteric fever in Taiwan, 2010-2020.",
+            "abstract": "Previous studies had showed that indigenous clones of Salmonella Typhi and S. Paratyphi were originally imported from other countries in Taiwan. We presented the clinical manifestations and laboratory findings of indigenous and imported enteric fever cases in Taiwan in the current decade. We retrospectively reviewed typhoid and paratyphoid fever cases in two medical centers of Chang Gung Memorial Hospitals in 2010-2020. A total of 37 enteric fever cases including 24 typhoid fever and 13 paratyphoid fever were recorded. There were 20 indigenous cases, 16 imported cases, and one indetermined case. Splenomegaly and hepatitis were more frequent in typhoid fever than in paratyphoid fever (P < 0.05). Imported cases had more ciprofloxacin non-susceptibility rate (8/16, 50.0%) than indigenous cases (2/20, 10%). Indigenous ciprofloxacin non-susceptible S. Typhi isolates were found in 2018. One indigenous S. Paratyphi B isolate was multi-drug resistant (MDR) to chloramphenicol, ampicillin, and t",
+            "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+            "year": "2022",
+            "authors": [
+              "Chen Chih-Ho",
+              "Hsu Ying-Jie",
+              "Chen Yi-Ching",
+              "Cheng Shu-Shen",
+              "Kuo Kuang-Che"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Typhoid Fever",
+              "Paratyphoid Fever",
+              "Salmonella paratyphi A",
+              "Retrospective Studies",
+              "Taiwan",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35871037/"
+          },
+          {
+            "pmid": "3115088",
+            "title": "Typhoid and paratyphoid fever in 192 hospitalized children in Thailand.",
+            "abstract": "From 1977 to 1984, Salmonella typhi was isolated from 85% and Salmonella paratyphl A was isolated from 15% of 192 Thai children with enteric fever at Children's Hospital, Bangkok. Children with enteric fever presented with sudden onset of fever and gastrointestinal symptoms. of fever presented with sudden onset Diarrhea occurred in 62% of children with paratyphoid fever and 36% of children with typhoid fever. Rose spots were seen in 15% of patients with typhoid and 7% of patients with paratyphoid fever. There were no deaths. Bronchitis and pneumonia occurring in 11% of patients were the most common complications. Acute hemolysis occurred in 3% of the patients with typhoid fever who had thalassemia or glucose-6-phosphate dehydrogenase deficiency. Chloramphenicol-resistant S typhi, which accounted for 70% of the isolates in 1977, has since 1982 accounted for less than 2% of isolates.",
+            "journal": "American journal of diseases of children (1960)",
+            "year": "1987",
+            "authors": [
+              "Thisyakorn U",
+              "Mansuwan P",
+              "Taylor D N"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male",
+              "Paratyphoid Fever",
+              "Salmonella paratyphi A"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3115088/"
+          },
+          {
+            "pmid": "826229",
+            "title": "Paratyphoid fever: a report of 62 cases with several unusual findings and a review of the literature.",
+            "abstract": "Previous descriptions of paratyphoid fever (PTF) are of limited value to the clinician who has had no experience with Salmonella enteric fevers. Sixty-two cases of PTF occurred in a healthy, homogeneous population. Findings supported by the literature included a seasonal incidence, initially seen symptoms of gastroenteritis and spiking fevers, and a high percentage of positive blood cultures. Unusual findings included the rarity of rose spots, patients with fever as their only symptom, two patients with transient papilledema, and two others with peripheral blood smears suggestive of acute leukemia. The findings of this study are compared with previous reports. Likely causes for divergent and contradictory information are inclusion of data from non-PTF states and study of populations with altered states of health.",
+            "journal": "Archives of internal medicine",
+            "year": "1976",
+            "authors": [
+              "Meals R A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Ampicillin",
+              "Carrier State",
+              "Child",
+              "Chloramphenicol",
+              "Female",
+              "Hemagglutination Tests",
+              "Humans",
+              "Leukocyte Count"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/826229/"
+          },
+          {
+            "pmid": "17214195",
+            "title": "Comparative study between paratyphoid A and typhoid fever cases.",
+            "abstract": "Twenty eight positive blood culture paratyphoid A fever cases were studied. Forty two positive blood culture typhoid cases were taken as controls. Cases and controls were subjected to: 1) careful history, 2) thorough clinical examination, 3) two blood cultures for salmonella, 4) Widal agglutination test, 5) total and differential white blood count, 6) urine and stool cultures following therapy. There was no significant difference in the clinical picture between acute paratyphoid A fever and acute typhoid fever except the significant decrease of anorexia (57%), toxic look (54%), coated tongue (64%) in acute paratyphoid A cases when compared to acute typhoid cases. The prevalence of extraintestinal symptoms in paratyphoid A cases may mimic viral infections. Three of the 4 classical signs namely; toxic look (54%), bronchitic chest (50%), splenomegaly (72%) and tympanitis (64%) were good bed side suggestive clinical diagnostic aids in paratyphoid A cases. Blood culture was the cornerstone ",
+            "journal": "The Journal of the Egyptian Public Health Association",
+            "year": "1996",
+            "authors": [
+              "Abdel Wahab M F",
+              "Haseeb A N",
+              "Hamdy H S",
+              "Awadalla Y A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Adult",
+              "Agglutination Tests",
+              "Anti-Bacterial Agents",
+              "Bronchitis",
+              "Case-Control Studies",
+              "Child",
+              "Chloramphenicol",
+              "Diagnosis, Differential"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17214195/"
+          },
+          {
+            "pmid": "8203854",
+            "title": "Randomized comparison of aztreonam and chloramphenicol in treatment of typhoid fever.",
+            "abstract": "Patients with clinical typhoid fever plus a blood, bone marrow, or bile positive for Salmonella typhi or Salmonella paratyphi were included in an open clinical trial to compare the efficacy of aztreonam (6 g/day [2 g intravenously every 8 h]) given for 10 days with that of chloramphenicol (50 mg/kg of body weight per day [intravenously or orally]) administered for 14 days. A total of 44 patients, 22 in each group, were included in the study, and both groups were comparable in terms of baseline parameters. All patients randomized to receive chloramphenicol completed the 14 days of treatment, while two patients randomized to receive aztreonam developed an intestinal hemorrhage, and a third patient elected to withdraw from the trial. Defervescence occurred more quickly in the subjects receiving chloramphenicol than in those receiving aztreonam (P < 0.05). All patients in the chloramphenicol group were clinically cured during therapy, while four patients (21%) in the group receiving aztreo",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1994",
+            "authors": [
+              "Gotuzzo E",
+              "Echevarría J",
+              "Carrillo C",
+              "Sánchez J",
+              "Grados P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aztreonam",
+              "Chloramphenicol",
+              "Double-Blind Method",
+              "Feces",
+              "Female",
+              "Humans",
+              "Male",
+              "Paratyphoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8203854/"
+          },
+          {
+            "pmid": "14072634",
+            "title": "COMPARISON OF AMPICILLIN AND CHLORAMPHENICOL IN TREATMENT OF PARATYPHOID FEVER.",
+            "abstract": "",
+            "journal": "British medical journal",
+            "year": "1964",
+            "authors": [
+              "SLEET R A",
+              "SANGSTER G",
+              "MURDOCH J M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Biometry",
+              "Chloramphenicol",
+              "Paratyphoid Fever",
+              "Penicillins",
+              "Statistics as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14072634/"
+          },
+          {
+            "pmid": "16082406",
+            "title": "Epidemiology of typhoid and paratyphoid fever in Kathmandu: two years study and trends of antimicrobial resistance.",
+            "abstract": "Enteric fever is prevalent in developing countries including Nepal, where it still remains as a major health problem. Appropriate antibiotics are essential for the treatment of typhoid and paratyphoid fever. A prospective study was carried out to characterize the epidemiological features of enteric fever in Kathmandu, Nepal and to analyse the recent trend of antimicrobial resistance pattern of the Salmonella isolated from the cases of enteric fever from different hospitals in Kathmandu during June, 2002 to June, 2004. A total of 1469 Salmonella typhi and Salmonella paratyphi 'A' isolates collected during this period from five different hospital laboratories situated in Kathmandu were studied. The antimicrobial susceptibilities of the isolates towards Ampicillin (10 mcg), Chloramphenicol (30 mcg), Cotrimoxazole (25 mcg), Ciprofloxacin (5 mcg) and Ceftriaxone (5 mcg) were determined by standard disc diffusion technique and Agar dilution technique were used to determine the minimum inhibi",
+            "journal": "JNMA; journal of the Nepal Medical Association",
+            "year": "2005",
+            "authors": [
+              "Malla S",
+              "Kansakar P",
+              "Serichantalergs O",
+              "Rahman M",
+              "Basnet S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Distribution",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance, Bacterial",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16082406/"
+          },
+          {
+            "pmid": "11022153",
+            "title": "[Typhoid and paratyphoid fever in adults in the Internal Medicine Department at Libreville (Gabon)].",
+            "abstract": "We carried out a retrospective study of 150 files of patients suffering from typhoid or paratyphoid fever, confirmed bacteriologically, between January 1992 and December 1996 at Libreville. Young adults were the most frequently affected. These infections were associated with unstable living conditions and lack of cleanliness. Neurological (17%), digestive (12%) and cardiovascular (3%) complications were the principal factors aggravating the disease. The following serotypes were identified: Salmonella typhi (47%), S. paratyphi B (25%), S. paratyphi C (20%) and S. paratyphi A (8%). Salmonellosis was associated with schistosomiasis (13%), nematodiasis (2.3%), sickle-cell anemia (7%) and HIV infection (8%). The mortality rate was 3.3%. Fluoroquinolones are the molecules of choice for treating typhoid and paratyphoid fevers.",
+            "journal": "Sante (Montrouge, France)",
+            "year": "2000",
+            "authors": [
+              "Okome-Nkoumou M",
+              "Ayo Nkana E",
+              "Békalé J",
+              "Kombila M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Anti-Bacterial Agents",
+              "Cefotaxime",
+              "Cephalosporins",
+              "Chloramphenicol",
+              "Drug Resistance, Microbial",
+              "Female",
+              "Gabon"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11022153/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "Rickettsiosis",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05972772",
+            "title": "A Pharmacokinetic-pharmacodynamic Study of Early Rickettsia Clearance in Murine Typhus or Scrub Typhus Patients Treated with Doxycycline or Azithromycin",
+            "phase": "PHASE2, PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-11-01",
+            "completion_date": "2026-08-31",
+            "country": "Laos",
+            "enrollment": 72,
+            "brief_summary": "Murine typhus is a disease caused by Rickettisa typhi, an obligate intracellular bacterium transmitted by rodent fleas. The disease has a worldwide distribution; however the true burden is unknown, related to its non-specific presentation and lack of access to diagnosis in many regions. A systematic review of untreated murine typhus based on observational studies of a total of 239 patients has estimated the mortality associated with the disease at between 0.4% and 3.6%.\n\nScrub typhus is caused b",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age above or equal 18 years\n* Able to take oral medication\n* Rapid test positive for murine typhus or scrub typhus\n* Agrees to stay in hospital for at least 36 hours and to attend for scheduled follow up visits\n* Written informed consent to participate in the study\n* A negativ",
+            "endpoints": [
+              "Rate of clearance of R. typhi or O. tsutsugamushi from peripheral blood of patients using serial qPCR measurement"
+            ],
+            "sponsor": "Lao-Oxford-Mahosot Hospital Wellcome Trust Research Unit",
+            "url": "https://clinicaltrials.gov/study/NCT05972772"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "369769",
+            "title": "[Chloramphenicol and thiamphenicol].",
+            "abstract": "",
+            "journal": "La Clinica terapeutica",
+            "year": "1978",
+            "authors": [
+              "Mariani L"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anemia, Aplastic",
+              "Bacterial Infections",
+              "Chloramphenicol",
+              "Humans",
+              "Meningitis",
+              "Pancytopenia",
+              "Pneumonia",
+              "Rickettsia Infections",
+              "Thiamphenicol",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/369769/"
+          },
+          {
+            "pmid": "15286274",
+            "title": "Chloramphenicol: a review.",
+            "abstract": "",
+            "journal": "Pediatrics in review",
+            "year": "2004",
+            "authors": [
+              "Balbi Howard J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Brain Abscess",
+              "Child",
+              "Chloramphenicol",
+              "Chloramphenicol Resistance",
+              "Humans",
+              "Melioidosis",
+              "Meningitis, Bacterial",
+              "Rickettsia Infections",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15286274/"
+          },
+          {
+            "pmid": "14122822",
+            "title": "TREPONEMATOSIS AND RICKETTSIOSIS.",
+            "abstract": "",
+            "journal": "New York state journal of medicine",
+            "year": "1964",
+            "authors": [
+              "CAHILL K M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Chloramphenicol",
+              "Humans",
+              "Pathology",
+              "Penicillins",
+              "Pinta",
+              "Rickettsia Infections",
+              "Tropical Medicine",
+              "Yaws"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14122822/"
+          },
+          {
+            "pmid": "13989297",
+            "title": "Intracellular infections.",
+            "abstract": "",
+            "journal": "Bulletin of the New York Academy of Medicine",
+            "year": "1963",
+            "authors": [
+              "SMADEL J E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Humans",
+              "Orientia tsutsugamushi",
+              "Rickettsia Infections",
+              "Salmonella typhi",
+              "Typhoid Fever",
+              "Typhoid-Paratyphoid Vaccines",
+              "Typhus, Epidemic Louse-Borne"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13989297/"
+          },
+          {
+            "pmid": "8272101",
+            "title": "Tick-borne diseases.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1994",
+            "authors": [
+              "Schwartz S N"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Doxycycline",
+              "Humans",
+              "Rocky Mountain Spotted Fever",
+              "Tick-Borne Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8272101/"
+          },
+          {
+            "pmid": "2014623",
+            "title": "Rocky Mountain spotted fever.",
+            "abstract": "Rocky Mountain spotted fever is an endemic tickborne disease found throughout the United States and other regions of the world. Exposure may result in a spectrum of disease from subclinical infection to severe or fatal multiorgan collapse. The disease is maintained in nature in Ixodid tick vectors and their hosts. The most important ticks in the United States are Dermacentor variabilis and Dermacentor andersoni. Small mammals are the natural reservoirs in the wild. Dogs become infected when a tick harboring Rickettsia rickettsii feeds on the dog. Dogs do not develop sufficient rickettsemia to act as a reservoir in the transmission of Rickettsia rickettsii. Thus, although dogs act as sentinels to the presence of the disease, they cannot directly transmit infection. Signs in early stages of disease often are nonspecific. The most characteristic laboratory abnormality is thrombocytopenia, but serologic testing is necessary for confirmation of infection. Tetracycline and chloramphenicol ar",
+            "journal": "The Veterinary clinics of North America. Small animal practice",
+            "year": "1991",
+            "authors": [
+              "Comer K M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Arachnid Vectors",
+              "Dermacentor",
+              "Dog Diseases",
+              "Dogs",
+              "Humans",
+              "Rocky Mountain Spotted Fever",
+              "United States"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2014623/"
+          },
+          {
+            "pmid": "22856156",
+            "title": "[Present stage of chemotherapy and chemoprophylaxis of rickettsiosis and Q fever].",
+            "abstract": "The analysis of the published experimental and clinical data on chemoprophylaxis and chemotherapy of rickettsiosis and Q fever confirmed the preserved role of doxycycline, the main drug of choice in the treatment of the diseases, then followed chloramphenicol. Macrolides, such as azithromycin and clarithromycin proved to be useful in pediatric practice and the treatment of pregnant women with rickettsiosis. The treatment of acute and chronic Q fever required the use of doxycycline, fluoroquinolobes, co-trimoxazole and hydroxachloroquine in combined therapy. It is concluded that in vivo studies of novel drugs and investigation of prospective macrolides and fluoroquinolones are necessary. Clinical trials of a new glycycline, i.e. tigecycline, which experimentally showed highy strong activity against the Q fever pathogen, should be accelerated.",
+            "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+            "year": "2011",
+            "authors": [
+              "Iakovlev E A",
+              "Lukin E P",
+              "Borisevich S V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Chemoprevention",
+              "Chloramphenicol",
+              "Clarithromycin",
+              "Doxycycline",
+              "Female",
+              "Fluoroquinolones",
+              "Humans",
+              "Macrolides",
+              "Minocycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22856156/"
+          },
+          {
+            "pmid": "3657308",
+            "title": "Tetracyclines, chloramphenicol, erythromycin, and clindamycin.",
+            "abstract": "The tetracyclines are effective in the treatment of Chlamydia, Mycoplasma pneumoniae, and rickettsial infections and may also be used for gonococcal infections in patients unable to tolerate penicillins. These drugs may cause gastrointestinal irritation, photo-toxic dermatitis, diarrhea, vestibular damage, and hepatotoxicity in pregnant women. Chloramphenicol is used primarily for anaerobic infections, Haemophilus influenzae meningitis, and typhoid fever. The most important toxic effect of chloramphenicol is bone marrow suppression, which can be dose related or idiosyncratic. Erythromycin is the drug of choice for the treatment of infections caused by M. pneumoniae, Legionella species, group A beta-hemolytic streptococci, and Streptococcus pneumoniae. The frequency of serious untoward effects associated with the use of erythromycin is low; epigastric distress may occur. Clindamycin is active against Bacteroides fragilis and other anaerobic microorganisms. Pseudomembranous enterocolitis",
+            "journal": "Mayo Clinic proceedings",
+            "year": "1987",
+            "authors": [
+              "Wilson W R",
+              "Cockerill F R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bacterial Infections",
+              "Chloramphenicol",
+              "Clindamycin",
+              "Erythromycin",
+              "Humans",
+              "Rickettsia Infections",
+              "Tetracyclines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3657308/"
+          },
+          {
+            "pmid": "6764390",
+            "title": "Chloramphenicol: recent developments and clinical indications.",
+            "abstract": "Recent developments (including more accurate assays) that have led to revised recommendations for route of administration, dosage, and indications for chloramphenicol are reviewed. Chloramphenicol is most bioavailable by the oral route; doses of 75 mg/kg/day provide adequate therapeutic concentrations for most clinical indications. Serum concentrations of the drug should be monitored to ensure adequate therapeutic concentrations and to avoid toxicity. This is particularly important in newborns, in patients with liver dysfunction, and in those receiving concomitant drugs that may influence free chloramphenicol concentrations. The indications for chloramphenicol therapy evaluated are: Haemophilus influenzae infections, anaerobic infections, salmonellosis, Rocky Mountain spotted fever, and eye infections. Chloramphenicol is useful in the treatment of invasive Haemophilus influenzae infections resistant to ampicillin, in selected anaerobic and ocular infections, and for rickettsioses in pa",
+            "journal": "Clinical pharmacy",
+            "year": "1982",
+            "authors": [
+              "Marks M I",
+              "Laferriere C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Bacteroides Infections",
+              "Bacteroides fragilis",
+              "Child",
+              "Chloramphenicol",
+              "Eye Diseases",
+              "Haemophilus Infections",
+              "Haemophilus influenzae",
+              "Humans",
+              "Rocky Mountain Spotted Fever",
+              "Salmonella Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6764390/"
+          },
+          {
+            "pmid": "3280217",
+            "title": "Rocky Mountain spotted fever.",
+            "abstract": "The epidemiology, pathogenesis, clinical features, and treatment of Rocky Mountain spotted fever are reviewed. Rocky Mountain spotted fever is a severe infection caused by Rickettsia rickettsii transmitted to man by various species of ticks. High-incidence areas exist in the southeast and south central United States. Only 60-70% of patients with the disease report a history of tick bite or exposure to tick-infested areas. The disease is initially characterized by fever, headache, gastrointestinal complaints, myalgia, and a generalized rash. In several days generalized vasculitis may lead to periorbital edema and nonpitting edema of the face and extremities. Central nervous system involvement is common. Because signs and symptoms associated with the disease are nonspecific, the diagnosis is often delayed or missed. Traditionally diagnostic confirmation relied on serologic testing, but an indirect fluorescent antibody assay will soon be commercially available. Rocky Mountain spotted feve",
+            "journal": "Clinical pharmacy",
+            "year": "1988",
+            "authors": [
+              "Kamper C A",
+              "Chessman K H",
+              "Phelps S J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Rocky Mountain Spotted Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3280217/"
+          },
+          {
+            "pmid": "7177912",
+            "title": "Pharmacologic interactions among chloramphenicol, phenytoin and phenobarbital.",
+            "abstract": "Bioactive chloramphenicol was measured in the sera of 34 infants and children receiving intravenous chloramphenicol succinate (25 mg/kg/dose) as therapy for meningitis, pneumonia, brain abscess or Rocky Mountain spotted fever. In 17 children receiving chloramphenicol succinate alone, mean peak and trough serum concentrations of chloramphenicol were 25.3 and 13.4 micrograms/ml, respectively. Concurrent administration of chloramphenicol succinate and phenobarbital in six patients resulted in reduced peak and trough concentrations of chloramphenicol of 16.6 and 7.5 micrograms/ml, respectively (P less than 0.05). Concurrent administration of chloramphenicol succinate and phenytoin in six patients resulted in an elevated mean peak serum concentration of chloramphenicol of 41.7 micrograms/ml (P less than 0.05). Five other patients treated with phenytoin had indeterminate serum chloramphenicol half-lives with chloramphenicol concentrations of 29 to 90 micrograms/ml. Potentially toxic chloramp",
+            "journal": "Pediatric infectious disease",
+            "year": "1982",
+            "authors": [
+              "Krasinski K",
+              "Kusmiesz H",
+              "Nelson J D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Biological Availability",
+              "Brain Abscess",
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Chromatography, High Pressure Liquid",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Half-Life",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7177912/"
+          },
+          {
+            "pmid": "15398218",
+            "title": "Chloromycetin in scrub-typhus.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1950",
+            "authors": [
+              "GILES H M",
+              "SYMINGTON T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Humans",
+              "Scrub Typhus",
+              "Typhus, Epidemic Louse-Borne"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15398218/"
+          },
+          {
+            "pmid": "4461906",
+            "title": "[Typhus].",
+            "abstract": "",
+            "journal": "Lijecnicki vjesnik",
+            "year": "1974",
+            "authors": [
+              "Mihaljevic F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Humans",
+              "Typhus, Epidemic Louse-Borne"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4461906/"
+          },
+          {
+            "pmid": "1666498",
+            "title": "Efficacy of chloramphenicol, enrofloxacin, and tetracycline for treatment of experimental Rocky Mountain spotted fever in dogs.",
+            "abstract": "Dogs were experimentally inoculated with Rickettsia rickettsii to characterize the comparative efficacies of chloramphenicol, enrofloxacin, and tetracycline for the treatment of Rocky Mountain spotted fever (RMSF). All three antibiotics were equally effective in abrogating the clinical, hematologic, and vascular indicators of rickettsial infection. Antibiotic treatment for 24 h was sufficient to decrease the rickettsemia to levels below detection by Vero cell culture. Early treatment with all three antibiotics resulted in a similar decrease in antibody titer, but acute and convalescent serum samples taken at appropriate times would have still facilitated an accurate diagnosis of RMSF in all but one dog, which did not seroconvert. We conclude that chloramphenicol, enrofloxacin, and tetracycline are equally efficacious for treating experimental canine RMSF.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1991",
+            "authors": [
+              "Breitschwerdt E B",
+              "Davidson M G",
+              "Aucoin D P",
+              "Levy M G",
+              "Szabados N S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents",
+              "Antibodies, Bacterial",
+              "Capillary Permeability",
+              "Chloramphenicol",
+              "Dogs",
+              "Enrofloxacin",
+              "Female",
+              "Fluorescent Antibody Technique",
+              "Fluoroquinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1666498/"
+          },
+          {
+            "pmid": "18112761",
+            "title": "Comparison of synthetic and fermentation chloramphenicol in rickettsial and viral infections.",
+            "abstract": "",
+            "journal": "Proceedings of the Society for Experimental Biology and Medicine. Society for Experimental Biology and Medicine (New York, N.Y.)",
+            "year": "1949",
+            "authors": [
+              "SMADEL J E",
+              "JACKSON E B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Disease",
+              "Fermentation",
+              "Rickettsia Infections",
+              "Virus Diseases",
+              "Viruses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18112761/"
+          },
+          {
+            "pmid": "8131807",
+            "title": "Carbamazepine hypersensitivity and rickettsiosis mimicking Kawasaki disease.",
+            "abstract": "We report on two patients whose clinical presentation resembled that of Kawasaki disease. The first patient was a boy with epilepsy, whose symptoms first appeared following treatment with carbamazepine. The second boy had Mediterranean Spotted Fever. The significance of medical history in avoiding overdiagnosis of Kawasaki disease is emphasized.",
+            "journal": "European journal of pediatrics",
+            "year": "1993",
+            "authors": [
+              "Parha S",
+              "Garoufi A",
+              "Yiallouros P",
+              "Theodoridis C",
+              "Karpathios T"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Blood Cell Count",
+              "Boutonneuse Fever",
+              "Carbamazepine",
+              "Child",
+              "Chloramphenicol",
+              "Diagnosis, Differential",
+              "Drug Hypersensitivity",
+              "Epilepsy",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8131807/"
+          },
+          {
+            "pmid": "10201196",
+            "title": "[Boutonneuse fever].",
+            "abstract": "",
+            "journal": "Ryoikibetsu shokogun shirizu",
+            "year": "1999",
+            "authors": [
+              "Fujii T",
+              "Abe S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Boutonneuse Fever",
+              "Chloramphenicol",
+              "Diagnosis, Differential",
+              "Humans",
+              "Tetracyclines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10201196/"
+          },
+          {
+            "pmid": "1888241",
+            "title": "Rickettsial meningitis and encephalitis.",
+            "abstract": "Nine of 72 patients with scrub typhus and three of 137 with murine typhus presented with meningitis and/or encephalitis syndromes. Focal neurologic signs were rare, and cerebrospinal fluid profiles were similar to those of leptospirosis and viral and tuberculous meningitis. One patient had papilledema, and another had cerebellitis. Other major organ involvement (renal, liver, or lungs) occurred in five patients. One patient died and four spontaneously recovered, while the conditions of the rest responded well to either chloramphenicol or doxycycline. Scrub and murine typhus should be included in the differential diagnoses of aseptic meningitis and encephalitis in patients exposed to endemic areas, especially when accompanied by renal insufficiency and/or jaundice. They are treatable forms of virallike meningoencephalitis.",
+            "journal": "Archives of internal medicine",
+            "year": "1991",
+            "authors": [
+              "Silpapojakul K",
+              "Ukkachoke C",
+              "Krisanapan S",
+              "Silpapojakul K"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Chloramphenicol",
+              "Diagnosis, Differential",
+              "Doxycycline",
+              "Encephalitis",
+              "Female",
+              "Humans",
+              "Male",
+              "Meningitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1888241/"
+          },
+          {
+            "pmid": "4982445",
+            "title": "Evaluation of chloramphenicol acid succinate therapy of induced typhoid fever and rocky mountain spotted fever.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1970",
+            "authors": [
+              "DuPont H L",
+              "Hornick R B",
+              "Weiss C F",
+              "Snyder M J",
+              "Woodward T E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Clinical Trials as Topic",
+              "Esters",
+              "Humans",
+              "Injections, Intramuscular",
+              "Male",
+              "Rickettsia rickettsii",
+              "Rocky Mountain Spotted Fever",
+              "Salmonella typhi",
+              "Succinates"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4982445/"
+          },
+          {
+            "pmid": "12704264",
+            "title": "[Macrolides in the treatment of children with Mediterranean spotted fever].",
+            "abstract": "Till now there is not a gold standard therapy for Mediterranean spotted fever (MSF) in children. Standard treatment for MSF is the administration of tetracycline or chloramphenicol, however both these drugs can cause significant adverse effects in children (tetracyclines can cause staining of teeth, chloramphenicol severe hematological adverse events such as aplastic anemia, gray baby syndrome and hemolytic anemia in patients with the Mediterranean form of G6PD deficiency). We conducted two randomized clinical trials; the first compared clarithromycin versus chloramphenicol: mean time to defervescence was 36.7 +/- 18.1 h in the clarithromycin group and 47.1+/- 21.9 h in the chloramphenicol group (P= 0.047). The second trial compared clarithromycin versus azithromycin and did not show any statistically significant difference: mean time to defervescence was 46.2 +/- 36.4 h in the clarithromycin group and 39.3 +/- 31.3 h in the azithromycin group (P= 0.34). On the basis of these studies w",
+            "journal": "Le infezioni in medicina",
+            "year": "2002",
+            "authors": [
+              "Cascio Antonio",
+              "Colomba Claudia"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Boutonneuse Fever",
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Clarithromycin",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12704264/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "typhus",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03083197",
+            "title": "The Scrub Typhus Antibiotic Resistance Trial (START) Comparing Doxycycline and Azithromycin Treatment Modalities in Areas of Reported Antimicrobial Resistance for Scrub Typhus",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2017-10-15",
+            "completion_date": "2026-10",
+            "country": "Thailand",
+            "enrollment": 177,
+            "brief_summary": "Study type: Randomized Control Treatment Trial\n\nStudy population: Male and female patients with ≥15 years of age and acute scrub typhus\n\nDuration: 2 years\n\nStudy Design: Prospective, open-label, randomized-controlled treatment trial in patients ≥15 years old admitted to hospital with acute scrub typhus. Randomization into 3 oral treatment arms (each n=59 patients, total n=177): i) 7 days of doxycycline, ii) 3 days of doxycycline, and iii) 3 days of azithromycin\n\nPrimary Objective: To evaluate th",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 15 years old\n* Hospitalization with acute undifferentiated fever (temperature \\> 37.5°C, tympanic) ≤14 days or patients admitted to hospital with a history of fever ≤ 14 days who subsequently develop fever within 24 hours of admission\n* Clinically suspected scrub typhus:",
+            "endpoints": [
+              "Fever clearance time (FCT)"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT03083197"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05972772",
+            "title": "A Pharmacokinetic-pharmacodynamic Study of Early Rickettsia Clearance in Murine Typhus or Scrub Typhus Patients Treated with Doxycycline or Azithromycin",
+            "phase": "PHASE2, PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-11-01",
+            "completion_date": "2026-08-31",
+            "country": "Laos",
+            "enrollment": 72,
+            "brief_summary": "Murine typhus is a disease caused by Rickettisa typhi, an obligate intracellular bacterium transmitted by rodent fleas. The disease has a worldwide distribution; however the true burden is unknown, related to its non-specific presentation and lack of access to diagnosis in many regions. A systematic review of untreated murine typhus based on observational studies of a total of 239 patients has estimated the mortality associated with the disease at between 0.4% and 3.6%.\n\nScrub typhus is caused b",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age above or equal 18 years\n* Able to take oral medication\n* Rapid test positive for murine typhus or scrub typhus\n* Agrees to stay in hospital for at least 36 hours and to attend for scheduled follow up visits\n* Written informed consent to participate in the study\n* A negativ",
+            "endpoints": [
+              "Rate of clearance of R. typhi or O. tsutsugamushi from peripheral blood of patients using serial qPCR measurement"
+            ],
+            "sponsor": "Lao-Oxford-Mahosot Hospital Wellcome Trust Research Unit",
+            "url": "https://clinicaltrials.gov/study/NCT05972772"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "34109905",
+            "title": "Scrub typhus and antibiotic-resistant Orientia tsutsugamushi.",
+            "abstract": "Introduction: Scrub typhus is one of the most underdiagnosed and under-reported febrile illnesses requiring hospitalization, mainly occurring in Southeast and East Asia and the Pacific Islands, in an area referred to as the 'Tsutsugamushi Triangle.' Scrub typhus is a zoonotic rickettsial disease that is transmitted to humans by trombiculid mites.Areas covered: A MEDLINE/PubMed search of the available literature was performed to describe the role of antibiotic-resistant scrub typhus in therapy failure.Expert opinion: Scrub typhus is characterized by an eschar that may appear 2-3 days before sudden-onset fever with chills, headache, backache, myalgia, profuse sweating, vomiting, and enlarged lymph nodes. A macular or maculopapular skin rash can develop within 3-8 days after the onset of fever. Various antibiotics, such as chloramphenicol, tetracycline, doxycycline, macrolides, quinolones, and rifampicin, have been used to treat scrub typhus. Resistance to tetracycline has been proposed t",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2021",
+            "authors": [
+              "Lu Chin-Te",
+              "Wang Lih-Shinn",
+              "Hsueh Po-Ren"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Doxycycline",
+              "Humans",
+              "Orientia tsutsugamushi",
+              "Scrub Typhus",
+              "Tetracycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34109905/"
+          },
+          {
+            "pmid": "35934229",
+            "title": "Clinical outcomes of doxycycline, azithromycin and chloramphenicol for the treatment of patients with severe scrub typhus.",
+            "abstract": "Previous studies have evaluated treatment efficacy of various antibiotics for patients with mild-to-moderate scrub typhus (ST). However, the efficacy of different antibiotics for treating severe ST remains uncertain.",
+            "journal": "International journal of antimicrobial agents",
+            "year": "2022",
+            "authors": [
+              "Guan Xiu-Gang",
+              "Zhou Shi-Xia",
+              "Zhang An-Ran",
+              "Lu Qing-Bin",
+              "Zhou Zi-Wei"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Kidney Injury",
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Chloramphenicol",
+              "Doxycycline",
+              "Humans",
+              "Respiratory Distress Syndrome",
+              "Retrospective Studies",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35934229/"
+          },
+          {
+            "pmid": "31570937",
+            "title": "Scrub Typhus and the Misconception of Doxycycline Resistance.",
+            "abstract": "Scrub typhus, a neglected infectious disease caused by the obligate intracellular bacterium Orientia tsutsugamushi, is a major cause of fever across the Asia Pacific region with more than a billion people at risk. Treatment with antibiotics such as doxycycline or chloramphenicol is effective for the majority of patients. In the 1990s, reports from northern Thailand raised a troubling observation; some scrub typhus patients responded poorly to doxycycline, which investigators attributed to doxycycline resistance. Despite the controversial nature of these reports, independent verification was neglected, with subsequent studies speculating on the role of doxycycline resistance in contributing to failure of treatment or prophylaxis. In this review, we have outlined the evidence for drug-resistant Orientia tsutsugamushi, assessed the evidence for doxycycline resistance, and highlight more recent findings unsupportive of doxycycline resistance. We conclude that doxycycline resistance is a mi",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2020",
+            "authors": [
+              "Wangrangsimakul Tri",
+              "Phuklia Weerawat",
+              "Newton Paul N",
+              "Richards Allen L",
+              "Day Nicholas P J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Doxycycline",
+              "Humans",
+              "Orientia tsutsugamushi",
+              "Scrub Typhus",
+              "Thailand"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31570937/"
+          },
+          {
+            "pmid": "3364949",
+            "title": "Chloramphenicol, gentamicin, and ciprofloxacin against murine scrub typhus.",
+            "abstract": "Ciprofloxacin (120 mg/kg of body weight per day), chloramphenicol (300 mg/kg per day), and gentamicin (30 mg/kg per day) were compared with placebo in a BALB/cj mouse model of scrub typhus. All animals treated with ciprofloxacin and chloramphenicol survived. All animals treated with gentamicin or placebo died. All surviving animals showed evidence of seroconversion. Ciprofloxacin and chloramphenicol were statistically more effective in preventing death than gentamicin or placebo.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1988",
+            "authors": [
+              "McClain J B",
+              "Joshi B",
+              "Rice R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Chloramphenicol",
+              "Ciprofloxacin",
+              "Female",
+              "Gentamicins",
+              "Mice",
+              "Mice, Inbred BALB C",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3364949/"
+          },
+          {
+            "pmid": "28461826",
+            "title": "Effects of clarithromycin treatment in scrub typhus in children: comparison with chloramphenicol and azithromycin.",
+            "abstract": "Chloramphenicol and tetracycline are not recommended for treating scrub typhus in pediatric patients because of potential side effects, such as aplastic anemia or tooth discoloration. While clarithromycin has recently been used in adults, few reports have been published on its effects in pediatric patients. We report the clinical profiles of pediatric scrub typhus and the effects of clarithromycin on scrub typhus in children.",
+            "journal": "Korean journal of pediatrics",
+            "year": "2017",
+            "authors": [
+              "Lee Min",
+              "Kim June",
+              "Jo Dae Sun"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28461826/"
+          },
+          {
+            "pmid": "40305823",
+            "title": "The discovery of chloramphenicol treatment for both scrub typhus and typhoid fever.",
+            "abstract": "",
+            "journal": "MSMR",
+            "year": "2025",
+            "authors": [
+              "Shanks G Dennis"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40305823/"
+          },
+          {
+            "pmid": "26937940",
+            "title": "Successful Treatment of Scrub Typhus-Associated Hemophagocytic Lymphohistiocytosis With Chloramphenicol: Report of 3 Pediatric Cases and Literature Review.",
+            "abstract": "Scrub typhus is caused by Orientia tsutsugamushi. Any delay in diagnosis can result in delayed treatment and severe complications, including secondary hemophagocytic lymphohistiocytosis, which is rare but potentially fatal.In this paper, the authors present 3 cases of secondary hemophagocytic lymphohistiocytosis associated with scrub typhus, successfully treated with chloramphenicol without additional antineoplastic therapy. All patients cured and achieved complete resolution.This report highlights the effectiveness of chloramphenicol without the need for chemotherapy in the treatment of scrub typhus-associated hemophagocytic lymphohistiocytosis in a pediatric population under the age of 8 years.",
+            "journal": "Medicine",
+            "year": "2016",
+            "authors": [
+              "Zhou Yong-Hai",
+              "Xia Fang-Qing",
+              "Van Poucke Sven",
+              "Zheng Ming-Hua"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "China",
+              "Chloramphenicol",
+              "Female",
+              "Humans",
+              "Lymphohistiocytosis, Hemophagocytic",
+              "Male",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26937940/"
+          },
+          {
+            "pmid": "23825810",
+            "title": "Scrub typhus.",
+            "abstract": "Scrub typhus is an acute febrile illness caused by orientia tsutsugamushi, transmitted to humans by the bite of the larva of trombiculid mites. It causes a disseminated vasculitic and perivascular inflammatory lesions resulting in significant vascular leakage and end-organ injury. It affects people of all ages and even though scrub typhus in pregnancy is uncommon, it is associated with increased foetal loss, preterm delivery, and small for gestational age infants. After an incubation period of 6-21 days, onset is characterized by fever, headache, myalgia, cough, and gastrointestinal symptoms. A primary papular lesion which later crusts to form a flat black eschar, may be present. If untreated, serious complications may occur involving various organs. Laboratory studies usually reveal leukopenia, thrombocytopenia, deranged hepatic and renal function, proteinuria and reticulonodular infiltrate. Owing to the potential for severe complications, diagnosis, and decision to initiate treatment",
+            "journal": "Indian journal of anaesthesia",
+            "year": "2013",
+            "authors": [
+              "Rapsang Amy G",
+              "Bhattacharyya Prithwis"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23825810/"
+          },
+          {
+            "pmid": "4716429",
+            "title": "Scrub typhus. A comparison of chloramphenicol and tetracycline in its treatment.",
+            "abstract": "",
+            "journal": "Archives of internal medicine",
+            "year": "1973",
+            "authors": [
+              "Sheehy T W",
+              "Hazlett D",
+              "Turk R E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Albuminuria",
+              "Anemia",
+              "Arrhythmias, Cardiac",
+              "Aspartate Aminotransferases",
+              "Chloramphenicol",
+              "Conjunctivitis",
+              "Evaluation Studies as Topic",
+              "Fever",
+              "Hepatomegaly",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4716429/"
+          },
+          {
+            "pmid": "26261776",
+            "title": "Severe scrub typhus infection: Clinical features, diagnostic challenges and management.",
+            "abstract": "Scrub typhus infection is an important cause of acute undifferentiated fever in South East Asia. The clinical picture is characterized by sudden onset fever with chills and non-specific symptoms that include headache, myalgia, sweating and vomiting. The presence of an eschar, in about half the patients with proven scrub typhus infection and usually seen in the axilla, groin or inguinal region, is characteristic of scrub typhus. Common laboratory findings are elevated liver transaminases, thrombocytopenia and leukocytosis. About a third of patients admitted to hospital with scrub typhus infection have evidence of organ dysfunction that may include respiratory failure, circulatory shock, mild renal or hepatic dysfunction, central nervous system involvement or hematological abnormalities. Since the symptoms and signs are non-specific and resemble other tropical infections like malaria, enteric fever, dengue or leptospirosis, appropriate laboratory tests are necessary to confirm diagnosis.",
+            "journal": "World journal of critical care medicine",
+            "year": "2015",
+            "authors": [
+              "Peter John Victor",
+              "Sudarsan Thomas I",
+              "Prakash John Anthony J",
+              "Varghese George M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26261776/"
+          },
+          {
+            "pmid": "30270920",
+            "title": "The Historical Case for and the Future Study of Antibiotic-Resistant Scrub Typhus.",
+            "abstract": "Scrub typhus is an acute, and sometimes fatal, human febrile illness, typically successfully treated using chloramphenicol or one of the tetracyclines. Over the past several years, descriptions of strains of Orientia tsutsugamushi with reduced susceptibility to antibiotics have appeared. Because case-fatality ratios approached 50% during the pre-antibiotic era, antibiotic-resistant scrub typhus is concerning. Herein, we review the data on resistant scrub typhus, describe how the theoretical existence of such resistance is affected by interpretation of treatment outcomes, and propose a plan to further identify whether true drug resistance is present and how to deal with drug resistance if it has evolved. Limited resistance is not unambiguous, if present, and antibiotic resistance in scrub typhus is not a dichotomous trait. Rather, evidence of resistance shows a continuous gradation of increasing resistance. The availability of genomes from isolates of O. tsutsugamushi allows the search ",
+            "journal": "Tropical medicine and infectious disease",
+            "year": "2017",
+            "authors": [
+              "Kelly Daryl J",
+              "Fuerst Paul A",
+              "Richards Allen L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30270920/"
+          },
+          {
+            "pmid": "14918542",
+            "title": "[Chloramphenicol and typhus abdominalis].",
+            "abstract": "",
+            "journal": "Lekarske listy",
+            "year": "1952",
+            "authors": [
+              "SEL B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Humans",
+              "Hyperthermia, Induced",
+              "Typhoid Fever",
+              "Typhoid-Paratyphoid Vaccines",
+              "Typhus, Epidemic Louse-Borne"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14918542/"
+          },
+          {
+            "pmid": "29253266",
+            "title": "Drug treatment of scrub typhus: a systematic review and meta-analysis of controlled clinical trials.",
+            "abstract": "Scrub typhus, a potentially fatal infection caused by the pathogen Orientia tsutsugamushi, has a wide geographical distribution. This systematic review analyses the evidence from prospective controlled clinical studies for the efficacy of antibiotics in the treatment of scrub typhus. PubMed, Embase, Scopus, Cochrane Library, CINAHL and clinical trial registries in China, India and Sri Lanka were searched for controlled prospective clinical trials (randomized, quasi-randomized or non-randomized) enrolling patients with confirmed scrub typhus for treatment with antibiotics. The PROSPERO registration number for this review is CRD42017071374. Eleven studies (from Southeast Asia and China) that enrolled 957 patients into 28 study groups met the inclusion criteria. Doxycycline was the most frequent comparator with other antibiotics. Chloramphenicol, tetracycline and azithromycin (limited evidence for roxithromycin, telithromycin, levofloxacin and rifampicin) had equal efficacy to doxycycline",
+            "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+            "year": "2017",
+            "authors": [
+              "Wee Ian",
+              "Lo Adeline",
+              "Rodrigo Chaturaka"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Controlled Clinical Trials as Topic",
+              "Humans",
+              "Prospective Studies",
+              "Scrub Typhus",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29253266/"
+          },
+          {
+            "pmid": "25704650",
+            "title": "Scrub typhus in rural Rajasthan and a review of other Indian studies.",
+            "abstract": "Scrub typhus is an acute febrile illness which has been reported from various parts of India with Rajasthan recently joining the list of affected states.",
+            "journal": "Paediatrics and international child health",
+            "year": "2016",
+            "authors": [
+              "Masand Rupesh",
+              "Yadav Ritesh",
+              "Purohit Alok",
+              "Tomar Balvir Singh"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "India",
+              "Male",
+              "Retrospective Studies",
+              "Rural Population"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25704650/"
+          },
+          {
+            "pmid": "35570886",
+            "title": "Evaluation of the Therapeutic Effect of Antibiotics on Scrub Typhus: A Systematic Review and Network Meta-Analysis.",
+            "abstract": "To explore the efficacy and safety of drugs in patients with scrub typhus.",
+            "journal": "Frontiers in public health",
+            "year": "2022",
+            "authors": [
+              "Lu Dafeng",
+              "Wang Taiwu",
+              "Luo Zhenghan",
+              "Ye Fuqiang",
+              "Qian Jiaojiao"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Research Support, Non-U.S. Gov't",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Child",
+              "Chloramphenicol",
+              "Female",
+              "Humans",
+              "Moxifloxacin",
+              "Rifampin",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35570886/"
+          },
+          {
+            "pmid": "34124995",
+            "title": "The epidemiology, diagnosis and management of scrub typhus disease in China.",
+            "abstract": "Thirty-nine years ago, scrub typhus (ST), a disease, was not among the China's notifiable diseases. However, ST has reemerged to become a growing public health issue in the southwest part of China. The major factors contributing to an increased incidence and prevalence of this disease include rapid globalization, urbanization, expansion of humans into previously uninhabited areas, and climate change. The clinical manifestation of ST also consists of high fever, headache, weakness, myalgia, rash, and an eschar. In severe cases, complications (e.g. multi-organ failure, jaundice, acute renal failure, pneumonitis, myocarditis, and even death) can occur. The diagnosis of ST is mainly based on serological identification by indirect immunofluorescence assay and other molecular methods. Furthermore, several groups of antibiotics (e.g. tetracycline, chloramphenicol, macrolides, and rifampicin) are currently effective in treating this disease. This fact suggests the need for robust early diagnos",
+            "journal": "Human vaccines & immunotherapeutics",
+            "year": "2021",
+            "authors": [
+              "Musa Taha Hussein",
+              "Ahmad Tauseef",
+              "Wana Mohammed Nasiru",
+              "Li Wei",
+              "Musa Hassan Hussein"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "China",
+              "Fluorescent Antibody Technique, Indirect",
+              "Humans",
+              "Orientia tsutsugamushi",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34124995/"
+          },
+          {
+            "pmid": "27514949",
+            "title": "Scrub typhus and spotted fever among hospitalised children in South India: Clinical profile and serological epidemiology.",
+            "abstract": "Rickettsial infections are re-emerging. In India, they are now being reported from several areas where they were previously unknown.",
+            "journal": "Indian journal of medical microbiology",
+            "year": "2016",
+            "authors": [
+              "Kalal B S",
+              "Puranik P",
+              "Nagaraj S",
+              "Rego S",
+              "Shet A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antibodies, Bacterial",
+              "Boutonneuse Fever",
+              "Child",
+              "Child, Preschool",
+              "Enzyme-Linked Immunosorbent Assay",
+              "Female",
+              "Hospitalization",
+              "Humans",
+              "Immunoglobulin G"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27514949/"
+          },
+          {
+            "pmid": "35724826",
+            "title": "The efficacy and tolerability of antibiotics in scrub typhus: an updated network meta-analysis of randomized controlled trials.",
+            "abstract": "Inadequate treatment of scrub typhus results in severe complications such as septic shock and is also associated with a high median mortality rate of 6%. However, there has been no conclusive evidence about the superiority of different antibiotics in managing scrub typhus in terms of efficacy and tolerability.",
+            "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+            "year": "2022",
+            "authors": [
+              "Zeng Bing-Syuan",
+              "Zeng Bing-Yan",
+              "Hung Chao-Ming",
+              "Kuo Hung-Chang",
+              "Chen Yen-Wen"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Chloramphenicol",
+              "Doxycycline",
+              "Humans",
+              "Minocycline",
+              "Orientia tsutsugamushi",
+              "Randomized Controlled Trials as Topic",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35724826/"
+          },
+          {
+            "pmid": "13180818",
+            "title": "Treatment of scrub typhus in the Pescadores Islands with chloramphenicol, aureomycin and terramycin.",
+            "abstract": "",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "1954",
+            "authors": [
+              "PREZYNA A P",
+              "CHANG T L",
+              "WANG T L",
+              "DOUGHERTY W J",
+              "BOND H B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Disease",
+              "Islands",
+              "Military Personnel",
+              "Oxytetracycline",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13180818/"
+          },
+          {
+            "pmid": "24540605",
+            "title": "Treatment of scrub typhus: evaluation of chloramphenicol, aureomycin, terramycin and para-aminobenzoic acid.",
+            "abstract": "",
+            "journal": "Antibiotics & chemotherapy (Northfield, Ill.)",
+            "year": "1951",
+            "authors": [
+              "BAILEY C A",
+              "LEY H L",
+              "DIERCKS F H",
+              "LEWTHWAITE R",
+              "SMADEL J E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "4-Aminobenzoic Acid",
+              "Anti-Bacterial Agents",
+              "Antibiotics, Antitubercular",
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Dermatologic Agents",
+              "Humans",
+              "Oxytetracycline",
+              "Scrub Typhus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24540605/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "Q fever",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "4718845",
+            "title": "Q-fever endocarditis.",
+            "abstract": "",
+            "journal": "British medical journal",
+            "year": "1973",
+            "authors": [
+              "Hart R J",
+              "Shaw D B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antibodies, Bacterial",
+              "Chloramphenicol",
+              "Endocarditis, Bacterial",
+              "Humans",
+              "Male",
+              "Q Fever",
+              "Tetracycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4718845/"
+          },
+          {
+            "pmid": "7932487",
+            "title": "Q fever: an issue in occupational health & safety? An overview of the methods of control and the effects of Coxiella burnetii on the human host.",
+            "abstract": "Q Fever has proved to be a virulent infectious disease for a great many years. A number of epidemics have occurred among laboratory workers engaged in research on C burnetii but few fatalities have been recorded and the course of the disease is generally uncomplicated and benign (Braunwald et al, 1987). By following the recommendations of a large number of scientists, implementing and maintaining basic control measures, the risk of contamination will be kept at a minimum.",
+            "journal": "Journal of the Royal Society of Health",
+            "year": "1994",
+            "authors": [
+              "Ross C",
+              "Morrow P S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bacterial Vaccines",
+              "Chloramphenicol",
+              "Coxiella burnetii",
+              "Disease Reservoirs",
+              "Humans",
+              "Infection Control",
+              "Occupational Diseases",
+              "Q Fever",
+              "Tetracycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7932487/"
+          },
+          {
+            "pmid": "22856156",
+            "title": "[Present stage of chemotherapy and chemoprophylaxis of rickettsiosis and Q fever].",
+            "abstract": "The analysis of the published experimental and clinical data on chemoprophylaxis and chemotherapy of rickettsiosis and Q fever confirmed the preserved role of doxycycline, the main drug of choice in the treatment of the diseases, then followed chloramphenicol. Macrolides, such as azithromycin and clarithromycin proved to be useful in pediatric practice and the treatment of pregnant women with rickettsiosis. The treatment of acute and chronic Q fever required the use of doxycycline, fluoroquinolobes, co-trimoxazole and hydroxachloroquine in combined therapy. It is concluded that in vivo studies of novel drugs and investigation of prospective macrolides and fluoroquinolones are necessary. Clinical trials of a new glycycline, i.e. tigecycline, which experimentally showed highy strong activity against the Q fever pathogen, should be accelerated.",
+            "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+            "year": "2011",
+            "authors": [
+              "Iakovlev E A",
+              "Lukin E P",
+              "Borisevich S V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Chemoprevention",
+              "Chloramphenicol",
+              "Clarithromycin",
+              "Doxycycline",
+              "Female",
+              "Fluoroquinolones",
+              "Humans",
+              "Macrolides",
+              "Minocycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22856156/"
+          },
+          {
+            "pmid": "15434718",
+            "title": "Chronic relapsing Q fever: treatment with streptomycin aureomycin, and chloramphenicol.",
+            "abstract": "",
+            "journal": "California medicine",
+            "year": "1950",
+            "authors": [
+              "CHUDNOFF J S",
+              "BOWER A G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Q Fever",
+              "Recurrence",
+              "Streptomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15434718/"
+          },
+          {
+            "pmid": "14931751",
+            "title": "An outbreak of Q fever. II. Treatment with aureomycin and chloramphenicol.",
+            "abstract": "",
+            "journal": "United States Armed Forces medical journal",
+            "year": "1952",
+            "authors": [
+              "FELLERS F X"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Disease Outbreaks",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14931751/"
+          },
+          {
+            "pmid": "37382236",
+            "title": "Q fever represented as multiple pulmonary nodules: a case report.",
+            "abstract": "Q fever is an important zoonotic disease caused by the pathogen Coxiella burnetii, which is inhaled into the body through the respiratory tract leading to acute symptoms. Severe acute Q fever may result in complications, such as pneumonia, hepatitis, or myocarditis, and some patients may develop chronic Q fever after incomplete treatment. Local persistent C. burnetii infection may lead to chronic Q fever that often requires surgery and anti-infection treatment for several years, seriously endangering patient health and increasing the economic burden for families. The clinicians' lack of awareness of the disease may be one reason leading to a delay in treatment. Here, a case of Q fever in a 53-year-old male patient, which was diagnosed by next generation sequencing and exhibited a distinct computed tomographic feature, is reported, with the aim of improving clinical knowledge of this disease. Following diagnosis, the patient was treated with 0.1 g doxycycline, orally, twice daily, and 0",
+            "journal": "The Journal of international medical research",
+            "year": "2023",
+            "authors": [
+              "Zhai Yu"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Animals",
+              "Humans",
+              "Middle Aged",
+              "Q Fever",
+              "Multiple Pulmonary Nodules",
+              "Zoonoses",
+              "Chloramphenicol",
+              "Doxycycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37382236/"
+          },
+          {
+            "pmid": "5649450",
+            "title": "Q fever endocarditis.",
+            "abstract": "",
+            "journal": "American heart journal",
+            "year": "1968",
+            "authors": [
+              "Grist N R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chloramphenicol",
+              "Endocarditis, Bacterial",
+              "England",
+              "Female",
+              "Heart Valve Prosthesis",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5649450/"
+          },
+          {
+            "pmid": "14948558",
+            "title": "[Chloramphenicol therapy of Q fever].",
+            "abstract": "",
+            "journal": "Il Policlinico. Sezione pratica",
+            "year": "1952",
+            "authors": [
+              "SCURO L A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Humans",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14948558/"
+          },
+          {
+            "pmid": "14898080",
+            "title": "A comparison by means of the complement-fixation test of the relative potencies of chloramphenicol, aureomycin, and terramycin in experimental Q fever infections in embryonated eggs.",
+            "abstract": "",
+            "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+            "year": "1951",
+            "authors": [
+              "ORMSBEE R A",
+              "PICKENS E G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Complement Fixation Tests",
+              "Oxytetracycline",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14898080/"
+          },
+          {
+            "pmid": "2665989",
+            "title": "Rickettsial diseases.",
+            "abstract": "The rickettsioses have several unifying features. Arthropod vectors are the common means of transmission. Fever, headache, myalgias, and the characteristic eruption (except in Q fever and ehrlichioses) are the hallmarks of the clinical presentation. The diseases share a common pathogenesis, namely, vasculitis, and treatment uniformly consists of tetracycline or chloramphenicol. Distinguishing aspects of these processes include the multitude of different reservoirs, the progression of the rash, and the nonspecific antigen test (Weil-Felix) results.",
+            "journal": "Dermatologic clinics",
+            "year": "1989",
+            "authors": [
+              "McCalmont C",
+              "Zanolli M D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Rickettsiaceae Infections",
+              "Skin Diseases, Infectious",
+              "Vasculitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2665989/"
+          },
+          {
+            "pmid": "13139179",
+            "title": "Treatment of Q fever with antibiotics.",
+            "abstract": "",
+            "journal": "Annals of the New York Academy of Sciences",
+            "year": "1952",
+            "authors": [
+              "CLARK W H",
+              "LENNETTE E H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Penicillins",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13139179/"
+          },
+          {
+            "pmid": "4167098",
+            "title": "Medical and surgical treatment of Q-fever endocarditis.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1967",
+            "authors": [
+              "Kristinsson A",
+              "Bentall H H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aortic Valve Insufficiency",
+              "Aortic Valve Stenosis",
+              "Chloramphenicol",
+              "Complement Fixation Tests",
+              "Female",
+              "Heart Valve Prosthesis",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4167098/"
+          },
+          {
+            "pmid": "8167358",
+            "title": "Minimizing the risk of Q fever in the hospital setting.",
+            "abstract": "Q fever is caused by a rickettsial microorganism (Coxiella burnetii) harboured in sheep. The highest concentration of organisms are found in birth products. It is a very contagious organism which humans can contract by inhaling aerosolized organisms. Most commonly it leads to an acute 'flu-like illness. Rarely, chronic disease with endocarditis is fatal. Infected patients should be treated with tetracyclines or chloramphenicol. A number of outbreaks have been reported in hospital and research settings. Because of the fear of patients and staff contracting Q fever, Hospital Research Review Boards have increasingly resisted the presence of sheep in medical facilities. The authors have reviewed the circumstances leading to these outbreaks and believe researchers can minimize the risk of Q fever. The most important precautions are to use sheep only from Q fever controlled flocks and, depending on the nature of the research, only male sheep.",
+            "journal": "The Canadian journal of infection control : the official journal of the Community & Hospital Infection Control Association-Canada = Revue canadienne de prevention des infections",
+            "year": "1994",
+            "authors": [
+              "Perry S",
+              "Dennie C J",
+              "Coblentz C L",
+              "Cleland S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Academies and Institutes",
+              "Animals",
+              "Cross Infection",
+              "Disease Models, Animal",
+              "Disease Outbreaks",
+              "Female",
+              "Humans",
+              "Infection Control",
+              "Male",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8167358/"
+          },
+          {
+            "pmid": "11980285",
+            "title": "Community-acquired pneumonia: role of atypical organisms.",
+            "abstract": "M. pneumoniae infection occurs world-wide and is the most common cause of community-acquired pneumonia (CAP) in the 5 to 20 year-old age group. The most reliable diagnostic test is enzyme immunoassay that allows immunoglobulin (Ig)G and IgM titration and presents 92% sensitivity and 95% specificity on paired samples. Potentially active drugs are tetracyclines, macrolides, ketolides, lincosamides, streptogamines, chloramphenicol, and fluoroquinolones. The incidence of Legionella infection, in spite of its world-wide diffusion, is highly variable in different studies, ranging from 1% to 27% of CAP. The most likely mode of transmission is direct inhalation from Legionella-contaminated water-supply systems. Extrapulmonary manifestations are relatively common but nonspecific. However, some signs and symptoms may raise the suspicion of Legionella infection: a sputum Gram stain with a high number of neutrophils without any organism, hyponatremia, and diarrhea in a critically ill patient. Urin",
+            "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+            "year": "2001",
+            "authors": [
+              "Cosentini R",
+              "Tarsia P",
+              "Blasi F",
+              "Roma E",
+              "Allegra L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Chlamydophila Infections",
+              "Chlamydophila pneumoniae",
+              "Community-Acquired Infections",
+              "Humans",
+              "Legionnaires' Disease",
+              "Pneumonia, Bacterial",
+              "Pneumonia, Mycoplasma",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11980285/"
+          },
+          {
+            "pmid": "28066723",
+            "title": "Coxiella burnetii Employs the Dot/Icm Type IV Secretion System to Modulate Host NF-κB/RelA Activation.",
+            "abstract": "Coxiella burnetii is the causative agent of Q fever and an obligate intracellular pathogen in nature that survives and grows in a parasitophorous vacuole (PV) within eukaryotic host cells. C. burnetii promotes intracellular survival by subverting apoptotic and pro-inflammatory signaling pathways that are typically regulated by nuclear transcription factor-κB (NF-κB). We and others have demonstrated that C. burnetii NMII proteins inhibit expression of pro-inflammatory cytokines and induce expression of anti-apoptotic genes during infection. Here, we demonstrate that C. burnetii promotes intracellular survival by modulating NF-κB subunit p65 (RelA) phosphorylation, and thus activation, in a Type Four B Secretion System (T4BSS)-dependent manner. Immunoblot analysis of RelA phosphorylated at serine-536 demonstrated that C. burnetii increases NF-κB activation via the canonical pathway. However, RelA phosphorylation levels were even higher in infected cells where bacterial protein or mRNA sy",
+            "journal": "Frontiers in cellular and infection microbiology",
+            "year": "2016",
+            "authors": [
+              "Mahapatra Saugata",
+              "Gallaher Brandi",
+              "Smith Sydni Caet",
+              "Graham Joseph G",
+              "Voth Daniel E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Bacterial Proteins",
+              "Cell Line",
+              "Chloramphenicol",
+              "Coxiella burnetii",
+              "Epithelial Cells",
+              "HeLa Cells",
+              "Host-Parasite Interactions",
+              "Humans",
+              "Mutation",
+              "NF-kappa B"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28066723/"
+          },
+          {
+            "pmid": "15390569",
+            "title": "Chemotherapy in viral and rickettsial disease.",
+            "abstract": "Aureomycin and chloromycetin have now been used in a number of viral and rickettsial diseases and have gone far toward fulfilling their original promise. In local trials aureomycin has been shown to be a very effective drug in primary atypical pneumonia, and a valuable drug in Q fever. A small number of cases of psittacosis appear to have responded favorably to aureomycin. The search for chemotherapeutic compounds which may be effective in other viral diseases has been sharply stimulated by these developments.",
+            "journal": "California medicine",
+            "year": "1949",
+            "authors": [
+              "MEIKLEJOHN G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Chlortetracycline",
+              "Drug Therapy",
+              "Humans",
+              "Influenza, Human",
+              "Mycoplasma Infections",
+              "Pneumonia, Mycoplasma",
+              "Psittacosis",
+              "Q Fever",
+              "Rickettsia Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15390569/"
+          },
+          {
+            "pmid": "19114492",
+            "title": "Characterization of a Coxiella burnetii ftsZ mutant generated by Himar1 transposon mutagenesis.",
+            "abstract": "Coxiella burnetii is a gram-negative obligate intracellular bacterium and the causative agent of human Q fever. The lack of methods to genetically manipulate C. burnetii significantly impedes the study of this organism. We describe here the cloning and characterization of a C. burnetii ftsZ mutant generated by mariner-based Himar1 transposon (Tn) mutagenesis. C. burnetii was coelectroporated with a plasmid encoding the Himar1 C9 transposase variant and a plasmid containing a Himar1 transposon encoding chloramphenicol acetyltransferase, mCherry fluorescent protein, and a ColE1 origin of replication. Vero cells were infected with electroporated C. burnetii and transformants scored as organisms replicating in the presence of chloramphenicol and expressing mCherry. Southern blot analysis revealed multiple transpositions in the C. burnetii genome and rescue cloning identified 30 and 5 insertions in coding and noncoding regions, respectively. Using micromanipulation, a C. burnetii clone was ",
+            "journal": "Journal of bacteriology",
+            "year": "2009",
+            "authors": [
+              "Beare Paul A",
+              "Howe Dale",
+              "Cockrell Diane C",
+              "Omsland Anders",
+              "Hansen Bryan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Intramural"
+            ],
+            "mesh_terms": [
+              "Amino Acid Sequence",
+              "Animals",
+              "Bacterial Proteins",
+              "Chlorocebus aethiops",
+              "Cloning, Molecular",
+              "Coxiella burnetii",
+              "Cytoskeletal Proteins",
+              "DNA Transposable Elements",
+              "Electroporation",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19114492/"
+          },
+          {
+            "pmid": "3843239",
+            "title": "A fatal case of Q fever hepatitis in a child.",
+            "abstract": "A two-year-old boy of Arabic extraction presented with progressive jaundice and prolonged pyrexia. Both IgM and IgG immunofluorescent antibody titers for Q fever were 1:1280. Two goats and one cow of the domestic animals owned by the family also had positive antibody titers against Q fever. In spite of antibiotic treatment with tetracyclines and chloramphenicol, the hepatic involvement progressed gradually. On the twentieth day of admission the child succumbed from hepatic failure. This child presents a rare case of fatal hepatic failure due to Q fever.",
+            "journal": "Helvetica paediatrica acta",
+            "year": "1985",
+            "authors": [
+              "Berkovitch M",
+              "Aladjem M",
+              "Beer S",
+              "Cohar K"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antibodies, Bacterial",
+              "Child, Preschool",
+              "Coxiella",
+              "Hepatic Encephalopathy",
+              "Hepatitis, Viral, Human",
+              "Humans",
+              "Immunoglobulins",
+              "Male",
+              "Q Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3843239/"
+          },
+          {
+            "pmid": "12734219",
+            "title": "Evaluation of Coxiella burnetii antibiotic susceptibilities by real-time PCR assay.",
+            "abstract": "Coxiella burnetii is an obligate intracellular bacterium. The inability to cultivate this organism on axenic medium has made calculation of infectious units challenging and prevents the use of conventional antibiotic susceptibility assays. A rapid and reliable real-time PCR assay was developed to quantify C. burnetii cells from J774.16 mouse macrophage cells and was applied to antibiotic susceptibility testing of C. burnetii Nine Mile, phase I. For calculation of bacterial replication, real-time PCR performed equally as well as immunofluorescent-antibody (IFA) assay when J774.16 cells were infected with 10-fold serial dilutions of C. burnetii and was significantly (P < 0.05) more repeatable than IFA when 2-fold dilutions were used. Newly infected murine macrophage-like J774.16 cells were treated with 8 microg of chloramphenicol per ml, 4 microg of tetracycline per ml, 4 microg of rifampin per ml, 4 microg of ampicillin per ml, or 1 microg of ciprofloxacin per ml. After 6 days of treatm",
+            "journal": "Journal of clinical microbiology",
+            "year": "2003",
+            "authors": [
+              "Brennan Robert E",
+              "Samuel James E"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Evaluation Study",
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Animals",
+              "Base Sequence",
+              "Cell Line",
+              "Chloramphenicol",
+              "Ciprofloxacin",
+              "Coxiella burnetii",
+              "DNA, Bacterial",
+              "Drug Resistance, Bacterial",
+              "Fluorescent Antibody Technique"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12734219/"
+          },
+          {
+            "pmid": "19635823",
+            "title": "Actin dynamics and Rho GTPases regulate the size and formation of parasitophorous vacuoles containing Coxiella burnetii.",
+            "abstract": "Q fever is a disease caused by Coxiella burnetii. In the host cell, this pathogen generates a large parasitophorous vacuole (PV) with lysosomal characteristics. Here we show that F-actin not only is recruited to but also is involved in the formation of the typical PV. Treatment of infected cells with F-actin-depolymerizing agents alters PV development. The small PVs formed in latrunculin B-treated cells were loaded with transferrin and Lysotracker and labeled with an antibody against cathepsin D, suggesting that latrunculin B did not affect vacuole cargo and its lysosomal characteristics. Nevertheless, the vacuoles were unable to fuse with latex bead phagosomes. It is known that actin dynamics are regulated by the Rho family GTPases. To assess the role of these GTPases in PV formation, infected cells were transfected with pEGFP expressing wild-type and mutant Rac1, Cdc42, and RhoA proteins. Rac1 did not show significant PV association. In contrast, PVs were decorated by both the wild t",
+            "journal": "Infection and immunity",
+            "year": "2009",
+            "authors": [
+              "Aguilera Milton",
+              "Salinas Romina",
+              "Rosales Eliana",
+              "Carminati Sergio",
+              "Colombo Maria I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Actins",
+              "Coxiella burnetii",
+              "HeLa Cells",
+              "Humans",
+              "Microscopy, Confocal",
+              "Microscopy, Electron, Transmission",
+              "Vacuoles",
+              "rho GTP-Binding Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19635823/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "meningococcal infection",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3917987",
+            "title": "Neisseria meningitidis.",
+            "abstract": "N. meningitidis continues to be a worldwide cause of human disease, usually in otherwise healthy individuals. The natural habitat and reservoir for meningococci are the mucosal surfaces of the human nasopharynx and to a lesser extent, the urogenital tract and anal canal. In most instances meningococcal colonization of mucosal surfaces is asymptomatic but may produce local infection. In those individuals who lack serum bactericidal activity against the meningococcus, colonization of mucosal surfaces and bloodstream invasion by N. meningitidis can lead to devastating meningitis and septicemia. Recent studies on the ultrastructure of the meningococcus and on the mechanisms of pathogenesis have given us new insight into meningococcal infections and suggest ways for improved immunoprophylaxis. Currently, penicillin is the drug of choice for the treatment of meningococcal meningitis and septicemia. However, the report of meningococci with antibiotic resistant plasmids is alarming and in the ",
+            "journal": "Infection control : IC",
+            "year": "1985",
+            "authors": [
+              "Stephens D S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cephalosporins",
+              "Chloramphenicol",
+              "Humans",
+              "Meningitis, Meningococcal",
+              "Neisseria meningitidis",
+              "Penicillins",
+              "Rifampin",
+              "Serotyping"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3917987/"
+          },
+          {
+            "pmid": "807105",
+            "title": "Meningococcal pneumonia.",
+            "abstract": "A patient with meningococcal pneumonia which developed following therapy for an earlier episode of pneumococcal pneumonia is presented. This entity is most frequently associated with an antecedent viral respiratory illness and/or a concurrent infection with Hemophilus influenzae or diplococcus pneumoniae. The characteristics of this disease are discussed and the possible pathogenetic mechanisms reviewed.",
+            "journal": "The American journal of the medical sciences",
+            "year": "1975",
+            "authors": [
+              "Galpin J E",
+              "Chow A W",
+              "Yoshikawa T T",
+              "Guze L B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chloramphenicol",
+              "Clindamycin",
+              "Humans",
+              "Male",
+              "Meningococcal Infections",
+              "Neisseria meningitidis",
+              "Pneumococcal Infections",
+              "Pneumonia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/807105/"
+          },
+          {
+            "pmid": "164144",
+            "title": "Primary meningococcal pneumonia.",
+            "abstract": "Three cases of pneumonia caused by Neisseria meningitidis group Y are reported. From the results of these cases, the following conclusions were made. N. meningitidis probably can cause serious infection without preceding blood stream invasion. Primary meningococcal pneumonia is not rare; it has no distinctive clinical presentation; and it may not be recognized by routine expectorated sputum cultures. In addition, it may be associated with recent influenzal and adenoviral infections. Lastly, meningococci of the serogroup Y are capable of causing serious disease. Antimicrobial susceptibility studies showed that all three group Y isolates were sensitive to sulfadiazine and rifampin as well as to penicillin, ampicillin, erythromycin, and chloramphenicol.",
+            "journal": "Annals of internal medicine",
+            "year": "1975",
+            "authors": [
+              "Irwin R S",
+              "Woelk W K",
+              "Coudon W L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenoviridae Infections",
+              "Adolescent",
+              "Adult",
+              "Female",
+              "Humans",
+              "Influenza, Human",
+              "Male",
+              "Meningococcal Infections",
+              "Microbial Sensitivity Tests",
+              "Neisseria meningitidis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/164144/"
+          },
+          {
+            "pmid": "26984070",
+            "title": "Meningococcemia in Adults: A Review of the Literature.",
+            "abstract": "We mainly refer to the acute setting of meningococcemia. Meningococcemia is an infection caused by Neisseria meningitidis, which has 13 clinically significant serogroups that are distinguishable by the structure of their capsular polysaccharides. N. meningitidis, also called meningococcus, is a Gram-negative, aerobic, diplococcus bacterium. The various consequences of severe meningococcal sepsis include hypotension, disseminated intravascular coagulation (DIC), multiple organ failure, and osteonecrosis due to DIC. The gold standard for the identification of meningococcal infection is the bacteriologic isolation of N. meningitidis from body fluids such as blood, cerebrospinal fluid (CSF), synovial fluid, and pleural fluid. Blood, CSF, and skin biopsy cultures are used for diagnosis. Meningococcal infection is a medical emergency that requires antibiotic therapy and intensive supportive care. Management of the systemic circulation, respiration, and intracranial pressure is vital for impr",
+            "journal": "Internal medicine (Tokyo, Japan)",
+            "year": "2016",
+            "authors": [
+              "Takada Shimon",
+              "Fujiwara Sho",
+              "Inoue Toshiya",
+              "Kataoka Yuki",
+              "Hadano Yoshiro"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Africa",
+              "Anti-Bacterial Agents",
+              "Cephalosporins",
+              "Child",
+              "Chloramphenicol",
+              "Disease Outbreaks",
+              "Disseminated Intravascular Coagulation",
+              "Drug Resistance, Bacterial",
+              "Host-Pathogen Interactions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26984070/"
+          },
+          {
+            "pmid": "9819486",
+            "title": "Changing patterns of antibiotic sensitivity and resistance during an outbreak of meningococcal infection in Jos, Nigeria.",
+            "abstract": "Isolates of Neisseria meningitidis from blood and cerebrospinal fluid (CSF) of 87 children admitted to the emergency paediatric unit (EPU) at the Jos University Teaching Hospital (JUTH) during an outbreak of meningococcal infection (between February and April 1996) were tested against the commonly used antibiotics in an attempt to determine the sensitivity and resistance pattern. There were 11 (15.1 per cent) positive for N. meningitidis out of 73 blood cultures and 61 (70 per cent) positive out of 87 CSF cultures. Seventy-seven and thirty-eight per cent respectively of the CSF isolates were resistant to benzylpenicillin and ampicillin. Sensitivity to chloramphenicol and erythromycin was 97 and 95 per cent, respectively. Out of the 11 positive blood cultures, 82 and 27 per cent were resistant to benzylpenicillin and ampicillin, respectively, while all the isolates (100 per cent) were sensitive to chloramphenicol and erythromycin. It is concluded that in view of the high level of resist",
+            "journal": "Journal of tropical pediatrics",
+            "year": "1998",
+            "authors": [
+              "Angyo I A",
+              "Okpeh E S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Child",
+              "Disease Outbreaks",
+              "Drug Resistance, Microbial",
+              "Drug Resistance, Multiple",
+              "Female",
+              "Humans",
+              "Male",
+              "Meningococcal Infections",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9819486/"
+          },
+          {
+            "pmid": "4617205",
+            "title": "Chemotherapy.",
+            "abstract": "",
+            "journal": "The Practitioner",
+            "year": "1974",
+            "authors": [
+              "Geddes A M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Ampicillin",
+              "Anti-Infective Agents",
+              "Antifungal Agents",
+              "Antitubercular Agents",
+              "Antiviral Agents",
+              "Bronchitis",
+              "Cephalosporins",
+              "Chloramphenicol",
+              "Drug Combinations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4617205/"
+          },
+          {
+            "pmid": "1902182",
+            "title": "Effect of penicillin and chloramphenicol on the growth and endotoxin release by N. meningitidis.",
+            "abstract": "The action of two antibiotics, penicillin and chloramphenicol, on bacterial growth and endotoxin liberation was studied in 18 strains of Neissevia meningitidis isolated from blood and CSF of patients with meningococcal infections. The antibiotics were administered both separately and in combined form in doses equivalent to 1 MIC and 100 MIC. Penicillin was found to produce a faster and more intense bactericidal effect than chloramphenicol during the first hour, whereas at 12 h these differences were not significant. This could explain the initial worsening observed in some infected patients when large doses of penicillin are administered. An increased liberation of endotoxin after adding penicillin was observed in six of the strains studied, whereas the remaining 12 did not show significant increases. The six strains (belonging to serogroup B) were known to have an enhanced capacity for spontaneous endotoxin liberation.",
+            "journal": "Epidemiology and infection",
+            "year": "1991",
+            "authors": [
+              "Mellado M C",
+              "Rodríguez-Contreras R",
+              "Mariscal A",
+              "Luna J D",
+              "Delgado Rodríguez M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chloramphenicol",
+              "Colony Count, Microbial",
+              "Endotoxins",
+              "Humans",
+              "Meningitis, Meningococcal",
+              "Meningococcal Infections",
+              "Neisseria meningitidis",
+              "Penicillins",
+              "Sepsis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1902182/"
+          },
+          {
+            "pmid": "28613408",
+            "title": "Pre-admission antibiotics for suspected cases of meningococcal disease.",
+            "abstract": "Meningococcal disease can lead to death or disability within hours after onset. Pre-admission antibiotics aim to reduce the risk of serious disease and death by preventing delays in starting therapy before confirmation of the diagnosis.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2017",
+            "authors": [
+              "Sudarsanam Thambu D",
+              "Rupali Priscilla",
+              "Tharyan Prathap",
+              "Abraham Ooriapadickal Cherian",
+              "Thomas Kurien"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antibiotic Prophylaxis",
+              "Ceftriaxone",
+              "Chloramphenicol",
+              "Humans",
+              "Injections, Intramuscular",
+              "Meningitis, Meningococcal",
+              "Meningococcal Infections",
+              "Patient Admission"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28613408/"
+          },
+          {
+            "pmid": "7177917",
+            "title": "Chloramphenicol: properties and clinical use.",
+            "abstract": "Chloramphenicol was introduced into medical practice in 1949. At therapeutic concentrations of 10 to 20 micrograms drug per ml, the drug inhibits bacterial ribosomal and, to a lesser extent, mammalian mitochondrial protein synthesis but concentrations above 60 micrograms drug per ml induce progressive reduction of oxygen-dependent cellular metabolism. Some adverse reactions (e.g. bone marrow suppression and the \"gray baby syndrome\") reflect these effects. The pathogenesis of chloramphenicol-induced aplastic anemia remains unclear. Chloramphenicol is most bioavailable after oral administration and has a remarkable ability to diffuse into body fluids and tissues. However, there are wide interindividual variations in its metabolism and elimination, particularly in newborns. Chloramphenicol is indicated for invasive ampicillin-resistant H. influenzae infections; for patients allergic to penicillin with pneumococcal, meningococcal or H. influenzae meningitis; in patients under 8 years of ag",
+            "journal": "Pediatric infectious disease",
+            "year": "1982",
+            "authors": [
+              "Laferriere C I",
+              "Marks M I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bacteroides Infections",
+              "Brain Abscess",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Chloramphenicol",
+              "Cystic Fibrosis",
+              "Drug Hypersensitivity",
+              "Eye Diseases",
+              "Hematopoietic Stem Cells",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7177917/"
+          },
+          {
+            "pmid": "9625934",
+            "title": "Meningococcal disease in Africa.",
+            "abstract": "Neisseria meningitidis (the meningococcus) is responsible for endemic and meningococcal disease in Africa. Meningococci are placed into 12 serogroups based on their capsular polysaccharide antigens. Group-B meningococci are responsible for sporadic endemic disease. In the meningitis belt of sub-Saharan Africa, the large spreading epidemics which occur every 5-10 years are usually caused by group-A meningococci, with attack rates of 400-500/100,000 population. In the last epidemic, infection spread from the original meningitis belt to Kenya, Uganda, Rwanda, Zambia and Tanzania. Most cases of meningococcal disease are of meningitis and meningococcal septicaemia is a rare presentation except in South Africa. It is important to exclude meningococcal septicaemia since this carries the highest mortality (up to 75%). Treatment involves intravenous chloramphenicol (or intramuscular, oily chloramphenicol), a drug which is preferable to penicillin because penicillin-resistant meningococci have a",
+            "journal": "Annals of tropical medicine and parasitology",
+            "year": "1997",
+            "authors": [
+              "Hart C A",
+              "Cuevas L E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Africa",
+              "Bacteremia",
+              "Child",
+              "Child, Preschool",
+              "Disease Outbreaks",
+              "Female",
+              "Global Health",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9625934/"
+          },
+          {
+            "pmid": "15521528",
+            "title": "[Meningococcal disease caused by Neisseria meningitidis: epidemiological, clinical, and preventive perspectives].",
+            "abstract": "Bacterial meningitis constitutes a significant global public health problem. In particular, Neisseria meningitidis continues to be a public health problem among human populations in both developed and developing countries. Meningococcal infection is present as an endemic and an epidemic disease. Meningococcal disease is manifested not only as meningitis, but also as meningococcemia. The latter is usually fulminant. The global persistence of N. meningitidis is due to the significant number of carriers and the dynamics of transmission and disease. Approximately 500 million people worldwide are carriers of the bacterium in their nasopharynx. Multiple factors have been identified that predispose to the transmissibility of N. meningitidis, including active or passive inhalation tobacco smoking, upper viral respiratory tract infections, drought seasons, and overcrowding. These factors explain the frequent occurrence of outbreaks in military barracks, schools, prisons, and dormitories. Some o",
+            "journal": "Salud publica de Mexico",
+            "year": "2004",
+            "authors": [
+              "Almeida-González Lourdes",
+              "Franco-Paredes Carlos",
+              "Pérez Luis Fernando",
+              "Santos-Preciado José Ignacio"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Meningitis, Meningococcal",
+              "Meningococcal Vaccines",
+              "Mexico"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15521528/"
+          },
+          {
+            "pmid": "14158895",
+            "title": "ACUTE BACTERIAL MENINGITIS.",
+            "abstract": "",
+            "journal": "Advances in pediatrics",
+            "year": "1964",
+            "authors": [
+              "HAGGERTY R J",
+              "ZIAI M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenocorticotropic Hormone",
+              "Anti-Bacterial Agents",
+              "Antibody Formation",
+              "Child",
+              "Chloramphenicol",
+              "Erythromycin",
+              "Haemophilus",
+              "Humans",
+              "Infant",
+              "Infant, Newborn"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14158895/"
+          },
+          {
+            "pmid": "14123642",
+            "title": "MANAGEMENT OF MENINGITIS.",
+            "abstract": "",
+            "journal": "British medical journal",
+            "year": "1964",
+            "authors": [
+              "ANDERSON J P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Chloramphenicol",
+              "Haemophilus",
+              "Humans",
+              "Infant",
+              "Injections, Intramuscular",
+              "Injections, Spinal",
+              "Meningitis",
+              "Meningitis, Haemophilus",
+              "Meningitis, Meningococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14123642/"
+          },
+          {
+            "pmid": "715382",
+            "title": "Disseminated intravascular coagulation in patients with meningococcal infection: laboratory diagnosis and prognostic factors.",
+            "abstract": "In 36 patients with meningococcal infection a close association between the laboratory evidence of disseminated intravascular coagulation (DIC) and unfavourable prognostic factors was established. Patients with platelet count lessthan 100000/microliter, Normotest lessthan 50% and plasma fibrinogen concentration less than 100 mg/dl had a serious prognosis. No significant differences could be extablished between patients with infection from serogroup A and B meningococci for either laboratory evidence of DIC or prognostic factors.",
+            "journal": "Scandinavian journal of infectious diseases",
+            "year": "1978",
+            "authors": [
+              "Vik-Mo H",
+              "Lote K",
+              "Nordøy A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Blood Cell Count",
+              "Blood Coagulation Tests",
+              "Blood Platelets",
+              "Blood Pressure",
+              "Chloramphenicol",
+              "Disseminated Intravascular Coagulation",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/715382/"
+          },
+          {
+            "pmid": "6323376",
+            "title": "Comparison of the efficacy and safety of ceftriaxone to ampicillin/chloramphenicol in the treatment of childhood meningitis.",
+            "abstract": "Ceftriaxone is a new cephalosporin with a broad spectrum of antibacterial activity and unique serum and CSF pharmacokinetics. The drug was compared in a randomized fashion with ampicillin and chloramphenicol in the treatment of 19 children with Haemophilus influenzae type b meningitis. Ceftriaxone was also administered non-randomly to six other patients including three children with Gram-negative meningitis. Among the children with H. influenzae meningitis, no deaths were noted and the outcomes of the study and the control groups were similar. Ninety per cent of the isolates of H. influenzae were inhibited by 0.0625, 1 and 1 mg/l of ceftriaxone, ampicillin and chloramphenicol respectively. One child with pneumococcal meningitis and two children with meningococcal meningitis recovered rapidly and without incident during ceftriaxone therapy. Three children with Gram-negative meningitis caused by multiply-drug resistant organisms were bacteriologically cured within five days of the onset ",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1984",
+            "authors": [
+              "Aronoff S C",
+              "Reed M D",
+              "O'Brien C A",
+              "Blumer J L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Ampicillin",
+              "Cefotaxime",
+              "Ceftriaxone",
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6323376/"
+          },
+          {
+            "pmid": "7886841",
+            "title": "Bacterial meningitis in developing countries.",
+            "abstract": "",
+            "journal": "Tropical doctor",
+            "year": "1995",
+            "authors": [
+              "Wright J P",
+              "Ford H L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Child, Preschool",
+              "Developing Countries",
+              "HIV Infections",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Meningitis, Bacterial",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7886841/"
+          },
+          {
+            "pmid": "31355666",
+            "title": "Serogroup diversity and antibiotic susceptibility of Neisseria meningitidis: Meningococcus infection monitoring in Belarus.",
+            "abstract": "This study performed an epidemiological survey of Neisseria meningitidis strains isolated from patients and from asymptomatic carriers. Altogether, 74 N. meningitidis strains (46 invasive and 28 non-invasive) were isolated between February 2011 and May 2018 in different regions of the Republic of Belarus. Serogenotyping was carried out by real-time PCR. Minimum inhibitory concentrations (MICs) of antibiotics were determined by broth microdilution and results were interpreted in accordance with EUCAST. The serogroups of N. meningitidis were determined as follows: serogroup B - 65%, C - 11%, W - 9%, A - 5%, Y - 4%, and Z and NG - 3% each. The MIC50 and MIC90 for benzylpenicillin (0.032/0.064-0.125 mg/L), ampicillin (0.032/0.125 mg/L), amoxicillin (0.125/0.25 mg/L), cefotaxime (0.016/0.016 mg/L), ceftriaxone (0.002/0.016 mg/L), ciprofloxacin (0.004/0.008 mg/L), chloramphenicol (1/1 mg/L), meropenem (0.008/0.008-0.016 mg/L), tetracycline (0.25/0.5 mg/L), and rifampicin (0.016/0.25 mg/L) we",
+            "journal": "Acta microbiologica et immunologica Hungarica",
+            "year": "2019",
+            "authors": [
+              "Kharkhal Hanna N",
+              "Titov Leonid P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "Epidemiological Monitoring",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31355666/"
+          },
+          {
+            "pmid": "531911",
+            "title": "An epidemic of meningococcal infection at Zaria, Northern Nigeria. 3. Meningococcal carriage.",
+            "abstract": "Meningococcal carriage was studied in household contacts of patients with group A meningococcal disease and in controls. The carriage rate of group A meningococci among 1,098 household contacts was low (3.8%) and only slightly higher than the carriage rate found among 416 controls (2.6%). However, higher carrier rates were found among those in close contact with a patient. Carriage was found most frequently among children and young adults and was commoner in adult females than in adult males. Sulphonamides had no effect on carriage and all 60 strains tested in vitro were resistant to sodium sulphadiazine at a concentration of 10 micrograms/ml.",
+            "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+            "year": "1979",
+            "authors": [
+              "Hassan-King M",
+              "Greenwood B M",
+              "Whittle H C",
+              "Abbott J D",
+              "Sutcliffe E M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Carrier State",
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Disease Outbreaks",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/531911/"
+          },
+          {
+            "pmid": "35467371",
+            "title": "Penicillin- and Ciprofloxacin-Resistant Invasive Neisseria meningitidis Isolates from Japan.",
+            "abstract": "Neisseria meningitidis causes a life-threatening invasive meningococcal disease (IMD). Isolates resistant to antibiotics, such as penicillin, ceftriaxone, and ciprofloxacin that are recommended for the treatment of IMD patients and their close contacts have been serious public health concerns globally. However, susceptibility profiles to critically important antibiotics and the genetic characteristics of isolates possessing antibiotic resistance are extremely limited as IMD incidence is low in Japan. We assessed the susceptibility profiles of 87 randomly selected, sterile site-derived N. meningitidis strains isolated from hospitals nationwide, recovered between April 1998 and March 2018 in Japan, to seven antibiotics. As a result, we demonstrated, for the first time, that the isolates remained highly susceptible to ceftriaxone, meropenem, azithromycin, ciprofloxacin, chloramphenicol, and rifampin, but not to penicillin. We then characterized the genetic relatedness of six penicillin- a",
+            "journal": "Microbiology spectrum",
+            "year": "2022",
+            "authors": [
+              "Saito Ryoichi",
+              "Nakajima Jun",
+              "Prah Isaac",
+              "Morita Masatomo",
+              "Mahazu Samiratu"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ceftriaxone",
+              "Ciprofloxacin",
+              "Humans",
+              "Japan",
+              "Meningococcal Infections",
+              "Microbial Sensitivity Tests",
+              "Neisseria meningitidis",
+              "Penicillins",
+              "Phylogeny"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35467371/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860736AZ",
+        "product": "XEPANICOL EYE DROPS 0.5%",
+        "active_ingredient": "CHLORAMPHENICOL[0.5% W/V                      ]",
+        "generic_name": "Chloramphenicol 0.5% Eye Drops",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-13",
+        "date_end": "2027-05-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860736AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860741AZ",
+        "product": "XEPANICOL EAR DROPS 5% W/V",
+        "active_ingredient": "CHLORAMPHENICOL[5% W/V                        ]",
+        "generic_name": "Chloramphenicol 5% w/v Ear Drops",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-04",
+        "date_end": "2027-08-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860741AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12115064AZ",
+        "product": "SHINADEX EYE DROPS",
+        "active_ingredient": "CHLORAMPHENICOL[0.5%w/v],DEXAMETHASONE SODIUM PHOSPHATE[0.1%w/v]",
+        "generic_name": "Chloramphenicol 0.1% & Dexamethasone 0.5% Eye Drop",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-01",
+        "date_end": "2027-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12115064AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12115063AZ",
+        "product": "SHINACOL EYE DROPS 0.5%",
+        "active_ingredient": "CHLORAMPHENICOL[0.5% w/v]",
+        "generic_name": "Chloramphenicol 0.5% Eye Drops",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-01",
+        "date_end": "2027-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12115063AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111769AZ",
+        "product": "Vanmycetin Eye Drops (Chloramphenicol Eye Drops 0.5% w/v)",
+        "active_ingredient": "CHLORAMPHENICOL[5.00;mg;;ml]",
+        "generic_name": "Chloramphenicol 0.5% Eye Drops",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-01-04",
+        "date_end": "2029-01-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111769AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20142424AEZ",
+        "product": "HOVID CHLORAMPHENICOL CAPSULE 250MG",
+        "active_ingredient": "CHLORAMPHENICOL[250MG]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-10",
+        "date_end": "2029-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20142424AEZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL09072753AZ",
+        "product": "Kloraxin Eye Ointment 1% w/w",
+        "active_ingredient": "Chloramphenicol B.P.[10.00;mg;;g]",
+        "generic_name": "Chloramphenicol 1% Eye Ointment",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL09072753AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19992589AZ",
+        "product": "CHLOROP EYE OINTMENT 1 %",
+        "active_ingredient": "CHLORAMPHENICOL[10.2MG                        ]",
+        "generic_name": "Chloramphenicol 1% Eye Ointment",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-03",
+        "date_end": "2029-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19992589AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24116042HA",
+        "product": "Anicol Eye Drops 0.5% w/v",
+        "active_ingredient": "CHLORAMPHENICOL[0.5 %w/v]",
+        "generic_name": NaN,
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-07",
+        "date_end": "2029-11-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24116042HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860033AZ",
+        "product": "ENCLOR EAR DROPS 5% W/V",
+        "active_ingredient": "CHLORAMPHENICOL[5%                            ]",
+        "generic_name": "Chloramphenicol 5% w/v Ear Drops",
+        "holder": "INSPIRAPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-05",
+        "date_end": "2030-01-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860033AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076051AE",
+        "product": "XEPA CHLORAMPHENICOL EYE DROPS 0.5% W/V",
+        "active_ingredient": "CHLORAMPHENICOL[0.5 %w/v]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076051AE"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10110022AZ",
+        "product": "NICOL EYE DROPS 0.5%W/V",
+        "active_ingredient": "CHLORAMPHENICOL[0.5;%(w/v);;0]",
+        "generic_name": "Chloramphenicol 0.5% Eye Drops",
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-25",
+        "date_end": "2030-11-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10110022AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00446",
+    "name": "Chloramphenicol",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Chloramphenicol"
+      },
+      "queried_at": "2026-03-04T15:36:17.911028",
+      "status": "success",
+      "result_count": 12,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Chloramphenicol"
+      },
+      "queried_at": "2026-03-04T15:36:29.501122",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T15:36:30.837265",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T15:36:35.899801",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T15:36:46.159623",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "Rickettsiosis"
+      },
+      "queried_at": "2026-03-04T15:36:48.221685",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "Rickettsiosis"
+      },
+      "queried_at": "2026-03-04T15:36:53.754025",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "Rickettsiosis"
+      },
+      "queried_at": "2026-03-04T15:36:57.193937",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "typhus"
+      },
+      "queried_at": "2026-03-04T15:36:58.839903",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "typhus"
+      },
+      "queried_at": "2026-03-04T15:37:03.204938",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "typhus"
+      },
+      "queried_at": "2026-03-04T15:37:09.498642",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "Q fever"
+      },
+      "queried_at": "2026-03-04T15:37:10.295623",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "Q fever"
+      },
+      "queried_at": "2026-03-04T15:37:15.957747",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "Q fever"
+      },
+      "queried_at": "2026-03-04T15:37:19.445970",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "meningococcal infection"
+      },
+      "queried_at": "2026-03-04T15:37:20.736315",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "meningococcal infection"
+      },
+      "queried_at": "2026-03-04T15:37:24.537967",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloramphenicol",
+        "disease": "meningococcal infection"
+      },
+      "queried_at": "2026-03-04T15:37:49.760677",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T15:37:49.766192",
+    "version": "1.0"
+  }
+}

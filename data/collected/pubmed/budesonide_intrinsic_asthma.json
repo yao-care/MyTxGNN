@@ -1,0 +1,304 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "intrinsic asthma",
+    "query_string": "Budesonide AND intrinsic asthma"
+  },
+  "data": {
+    "query": "Budesonide AND intrinsic asthma",
+    "results": [
+      {
+        "pmid": "2683633",
+        "title": "Antiinflammatory therapy with glucocorticoids in intrinsic asthma.",
+        "abstract": "The pioneering study by Bordley et al. (John Hopkins Hosp. 1949) contains information on glucocorticoids in asthma that has stood the test of time: These drugs do not distinguish between intrinsic and extrinsic asthma. The beneficial effect can be seen in 4-48 h. The full effect is obtained in a week or longer. After stopping therapy in \"cured\" patients, symptoms may gradually return. Studies carried out by Swedish, English and German workers in the mid-1950s appear to be the first successful uses of topical glucocorticoids in asthma. As shown with beclomethasone dipropionate during the 1970s, and expanded during the 1980s with the more lung-selective drug, budesonide, inhaled glucocorticoids have a broad clinical efficacy in mild and severe asthma and are very safe to use. They improve baseline airway resistance and reduce \"non-specific\" hyperreactivity. They inhibit not only late phase responses but also immediate type reactions in the airways including exercise-induced asthma. It ha",
+        "journal": "Agents and actions. Supplements",
+        "year": "1989",
+        "authors": [
+          "Persson C G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Glucocorticoids",
+          "Humans",
+          "Steroids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2683633/"
+      },
+      {
+        "pmid": "8526176",
+        "title": "[Comparative study] of beclomethasone and budesonide, with same posology (400 micrograms every 12 hours), in the control of cortico-dependent intrinsic asthma].",
+        "abstract": "Inhaled steroids have rendered an undoubtful benefit in the control of airway inflammation of the asthmatic patients. Our objective was to compare clinical efficacy between budesonide (BUD) and beclomethasona depropionate (BDP), when administered at equal doses (800 micrograms/24 hours). A two ways crossed open clinical trial was designed. Thirty-three steroid dependent chronic asthmatic patients (18 females, 15 males) were included. Ages ranged from 29 to 73 years (mean = 52.5 +/- 11.7). All subjects suffered a severe asthma, with several years of activity (mean = 11.7 +/- 7.8), insufficiently controlled by inhaled steroids and bronchodilators, who required regular systemic steroids supply. The parameters compared were: the patients subjective symptoms punctuation (cough, expectoration, thoracic noises, exercise induce dyspnea and dyspnea at rest), salbutamol needs (number of inhalations/day), additional prednisone needs, sputum eosinophil counts, FEV1 measurement and inespecific bron",
+        "journal": "Allergologia et immunopathologia",
+        "year": "1995",
+        "authors": [
+          "Hernández J",
+          "García-Sellés F J",
+          "Negro J M",
+          "Pascual A",
+          "Sola J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Beclomethasone",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8526176/"
+      },
+      {
+        "pmid": "9563368",
+        "title": "Development of fluticasone propionate and comparison with other inhaled corticosteroids.",
+        "abstract": "Fluticasone propionate (FP) is a trifluorinated glucocorticoid based on the androstane nucleus. It was selected for development from structure-activity relationships (topical anti-inflammatory, cutaneous vasoconstriction, and hypothalamic-pituitary-adrenal axis suppression) of a series of 17beta-carbothioates. FP is 3-, 300-, and 1000-fold more lipophilic than beclomethasone dipropionate, budesonide, and triamcinolone acetonide, respectively. FP has an absolute affinity (KD) for the glucocorticoid receptor of 0.5 nmol/L and a relative receptor affinity 1.5-fold higher than beclomethasone-17-monopropionate (17-BMP) and mometasone furoate, 3-fold higher than budesonide, and 20-fold higher than flunisolide and triamcinolone acetonide. The rate of association of FP with the receptor is faster and the rate of dissociation slower than other corticosteroids. The resulting half-life of the FP active steroid-receptor complex is >10 hours, compared with approximately 5, 7.5, and 4 hours for bude",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "1998",
+        "authors": [
+          "Johnson M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Androstadienes",
+          "Anti-Asthmatic Agents",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Fluticasone",
+          "Humans",
+          "Lung",
+          "Receptors, Glucocorticoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9563368/"
+      },
+      {
+        "pmid": "32789546",
+        "title": "Intranasal administration of budesonide-loaded nanocapsule microagglomerates as an innovative strategy for asthma treatment.",
+        "abstract": "The co-existence with rhinitis limits the control of asthma. Compared with oral H1 receptor antagonists, intranasal corticosteroids have been demonstrated to provide greater relief of all symptoms of rhinitis and are recommended as first-line treatment for allergic rhinitis. Intrinsic limitations of nasal delivery, such as the presence of the protective mucous layer, the relentless mucociliary clearance, and the consequent reduced residence time of the formulation in the nasal cavity, limit budesonide efficacy to the treatment of local nasal symptoms. To overcome these limitations and to enable the treatment of asthma via nasal administration, we developed a budesonide-loaded lipid-core nanocapsule (BudNC) microagglomerate powder by spray-drying using a one-step innovative approach. BudNC was obtained, as a white powder, using L-leucine as adjuvant with 75 ± 6% yield. The powder showed a bimodal size distribution curve by laser diffraction with a principal peak just above 3 μm and a se",
+        "journal": "Drug delivery and translational research",
+        "year": "2020",
+        "authors": [
+          "Ortiz Manoel",
+          "de Sa Coutinho Diego",
+          "Ciambarella Bianca Torres",
+          "de Souza Everton Tenorio",
+          "D'Almeida Ana Paula Leite"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adrenal Cortex Hormones",
+          "Animals",
+          "Asthma",
+          "Budesonide",
+          "Male",
+          "Mice",
+          "Nanocapsules"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32789546/"
+      },
+      {
+        "pmid": "4089578",
+        "title": "[Results of treatment with budesonide (Pulmicort) in corticosteroid-dependent intrinsic asthma].",
+        "abstract": "Budesonid is a topical corticosteroid for application by inhalation with a high anti-inflammatory effect. 25 patients (15 women, 10 men, average age 45.3 years) with intrinsic asthma requiring corticosteroids were treated for an average of 36 days with budesonid (Pulmicort dosage aerosol, Astra Sweden) in a dose of 3 X 400 micrograms per day. The basic therapy with beta sympathicomimetics, theophylline preparations and systemic corticosteroids was continued. Changes in the plasmacortisol level (PCS) and the course of the asthma were studied under reduction of the systemic corticosteroid dosage. The mean reduction in dosage of the systemic corticosteroid achieved was almost 2/3 of the initial dosage (p 0.001). The pathologically reduced PCS at the start of the study normalized in 13 patients (52%) to values within the standard range. A significant (p 0.001) mean increase in PCS of 43% was achieved. The eosinophils in the blood underwent no significant change. The peak flow improved by a",
+        "journal": "Schweizerische medizinische Wochenschrift",
+        "year": "1985",
+        "authors": [
+          "Petri E"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Budesonide",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Lung"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4089578/"
+      },
+      {
+        "pmid": "17991502",
+        "title": "The effects of inhaled corticosteroids on intrinsic responsiveness and histology of airways from infant monkeys exposed to house dust mite allergen and ozone.",
+        "abstract": "Inhaled corticosteroids (ICS) are recommended to treat infants with asthma, some with intermittent asthma. We previously showed that exposing infant monkeys to allergen/ozone resulted in asthma-like characteristics of their airways. We evaluated the effects of ICS on histology and intrinsic responsiveness of allergen/ozone-exposed and normal infant primate airways. Infant monkeys were exposed by inhalation to (1) filtered air and saline, (2) house dust mite allergen (HDMA)+ozone and saline, (3) filtered air and ICS (budesonide) or (4) HDMA+ozone and ICS. Allergen/ozone exposures started at 1 month and ICS at 3 months of age. At 6 months of age, methacholine-induced changes in luminal area of airways in proximal and distal lung slices were determined using videomicrometry, followed by histology of the same slices. Proximal airway responsiveness was increased by allergen/ozone and by ICS. Eosinophil profiles were increased by allergen/ozone in both proximal and distal airways, an effect ",
+        "journal": "Toxicology and applied pharmacology",
+        "year": "2008",
+        "authors": [
+          "Joad Jesse P",
+          "Kott Kayleen S",
+          "Bric John M",
+          "Schelegle Edward S",
+          "Gershwin Laurel J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Animals",
+          "Animals, Newborn",
+          "Antigens, Dermatophagoides",
+          "Bronchial Hyperreactivity",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Disease Models, Animal",
+          "Eosinophils"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17991502/"
+      },
+      {
+        "pmid": "9012556",
+        "title": "Dose-response of inhaled drugs in asthma. An update.",
+        "abstract": "The demographic characteristics of patients used in clinical trials (such as the severity of airway obstruction) can significantly influence the results of dose-response studies, emphasising the need to evaluate effects on the steep part of the dose-response curve. Differences in inhaler devices can also influence study outcomes, as for inhaled drugs both airway efficacy and adverse effect profiles are primarily determined by lung deposition and hence bioavailability. Dose-response studies with short- and long-acting beta 2-agonists show an excellent therapeutic ratio at conventional doses used in everyday clinical practice (i.e. 2 to 4 puffs). Dose-related systemic effects of beta 2-agonist occur at higher doses, for salbutamol (albuterol) > 500 micrograms. Fenoterol is a beta 2-agonists with higher intrinsic activity than salbutamol and produces greater systemic effects at higher than conventional doses on a microgram equivalent basis, although even at 4000 micrograms such difference",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1997",
+        "authors": [
+          "Clark D J",
+          "Lipworth B J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-2 Receptor Agonists",
+          "Adrenergic beta-Agonists",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9012556/"
+      },
+      {
+        "pmid": "37690772",
+        "title": "Ascending to New Heights for Novel Therapeutics for Eosinophilic Esophagitis.",
+        "abstract": "",
+        "journal": "Gastroenterology",
+        "year": "2024",
+        "authors": [
+          "Hirano Ikuo",
+          "Dellon Evan S",
+          "Falk Gary W",
+          "Gonsalves Nirmala P",
+          "Furuta Glenn T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Enteritis",
+          "Gastritis",
+          "Humans",
+          "Eosinophilic Esophagitis",
+          "Eosinophilia",
+          "Esophagitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37690772/"
+      },
+      {
+        "pmid": "6958495",
+        "title": "Development of new glucocorticosteroids with a very high ratio between topical and systemic activities.",
+        "abstract": "The very potent topical anti-inflammatory glucocorticosteroids (GCS) most widely used are either 17 alpha-esters of halogenated 16-methyl-17 alpha-hydroxycorticosteroids (e.g. beclomethasone 17 alpha, 21-dipropionate = BDP) or 16 alpha, 17 alpha-acetals of halogenated 16 alpha, 17 alpha-dihydroxy corticosteroids (e.g. triamcinolone acetonide = TA). The purpose of the present investigation was to increase the ratio between the topical anti-inflammatory (TAIP) and the systemic potencies (SP) of GCS 16 alpha, 17 alpha-acetals, as such compounds are not biotransformed in the lung. Structure-activity investigations in rodents showed that fluoro substituents in positions 6 alpha or 9 alpha or both 6 alpha, 9 alpha 9 alpha increased SP more than TAIP. On the other hand, nonsymmetrical 16 alpha, 17 alpha-acetal substitution increased TAIP more than SP. The best TAIP:SP ratio was obtained with budesonide, which contains this new type of acetal substituent, but has no halogen atoms in the steroi",
+        "journal": "European journal of respiratory diseases. Supplement",
+        "year": "1982",
+        "authors": [
+          "Brattsand R",
+          "Thalén A",
+          "Roempke K",
+          "Källström L",
+          "Gruvstad E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Asthma",
+          "Beclomethasone",
+          "Budesonide",
+          "Glucocorticoids",
+          "Humans",
+          "Inflammation",
+          "Male",
+          "Mice",
+          "Mice, Inbred Strains"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6958495/"
+      },
+      {
+        "pmid": "15481267",
+        "title": "Clinical evaluation of the peak inspiratory flow generated by asthmatic children through the Novolizer.",
+        "abstract": "To assess whether asthmatic children may generate sufficient peak inspiratory flow through the Novolizer, a novel multiple dose dry powder inhaler with acoustic and optical feedback mechanisms for correct inhalation.",
+        "journal": "Respiratory medicine",
+        "year": "2004",
+        "authors": [
+          "Vogelberg C",
+          "Kremer H J",
+          "Ellers-Lenz B",
+          "Engel M",
+          "Maus J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Child",
+          "Child, Preschool",
+          "Equipment Design",
+          "Female",
+          "Forced Expiratory Volume",
+          "Humans",
+          "Male",
+          "Metered Dose Inhalers",
+          "Peak Expiratory Flow Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15481267/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:09:45.354766",
+  "success": true,
+  "error_message": null
+}

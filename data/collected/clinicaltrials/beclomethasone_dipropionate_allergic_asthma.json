@@ -1,0 +1,157 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Beclomethasone Dipropionate",
+    "disease": "allergic asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02646904",
+      "title": "Nebulized Beclometasone Dipropionate Improves Nasal Patency in Children With Allergic Rhinitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-05",
+      "completion_date": "2017-07",
+      "country": "Italy",
+      "enrollment": 68,
+      "brief_summary": "The purpose of this study is to examine in children with persistent AR the effect of the topically applied beclomethasone in comparison with cetirizine on nasal patency evaluated by acoustic rhinometry and subjective nasal symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* children 6-16 years of age with a history of AR in the previous year\n* T5SS: ≥5 in the last week before enrollment\n\nExclusion Criteria:\n\n* asthma symptoms\n* acute upper respiratory infections\n* anatomic nasal defects (ie, septum deviation), or nasal polyps\n* use in the past 4 ",
+      "endpoints": [
+        "Nasal patency evaluated by acoustic rhinometry."
+      ],
+      "sponsor": "Istituto per la Ricerca e l'Innovazione Biomedica",
+      "url": "https://clinicaltrials.gov/study/NCT02646904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01550471",
+      "title": "A Study Evaluating the Effect of Omnaris Nasal Spray 200 mcg QD & Alvesco Inhalation Aerosol 80 BID vs Beconase AQ Nasal Spray 168 mcg BID & QVAR Inhalation Aerosol 40 mcg BID vs Placebo Nasal Spray QD & Placebo Inhalation Aerosol BID on Short Term Growth in Pediatric Subjects With Mild Asthma & Allergic Rhinitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This study will provide the clinicians guidance on the safest combination of inhaled and nasal corticosteroids for children with mild asthma and allergic rhinitis respectively; however, one safety concern is that these products are independently known to have dose-related effects on short term and intermediate term growth. Knemometry is a non invasive technique for measuring short-term lower leg growth in children and is currently the method of choice in growth studies of short duration. Subject",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will include females and males 6 to 15 years of age.\n2. All subjects must have a history of physician diagnosed mild asthma and allergic rhinitis as documented by PCP medical record or detailed history by study investigator.\n3. All subjects must have a height within ",
+      "endpoints": [
+        "The Effect of Omnaris Nasal Spray & Alvesco Inhalation Aerosol vs Beconase AQ Nasal Spray & QVAR Inhalation Aerosol on Short-term Lower Leg Growth Velocity as Measured by Knemometry in Pediatric Subjects w/ Mild Asthma & Allergic Rhinitis."
+      ],
+      "sponsor": "West Penn Allegheny Health System",
+      "url": "https://clinicaltrials.gov/study/NCT01550471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00115089",
+      "title": "A Phase II Multi-Center, Randomized, Double-Blind, Active and Placebo-Controlled 7 Day Study of Mast Cell Inhibitor, R926112, in Patients With Symptomatic Seasonal Allergic Rhinitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 375,
+      "brief_summary": "This is a study of the effectiveness and safety of a new nasal spray for the relief of the symptoms of seasonal allergies. The agents being compared are: R926112 (a novel anti-allergy medicine), Beconase (beclomethasone dipropionate, an established FDA approved steroid treatment), and an inactive placebo. The study hypothesis is that R926112 will be superior to placebo at the end of a week of testing and evaluation. The study does not have the power to determine how R926112 compares to Beconase.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must sign a written informed consent form and assent (if applicable) for study participation.\n* Males and females, 12 years of age or older\n* Subjects must have a history consistent with seasonal allergic rhinitis (SAR) during the fall pollen season for at least the p",
+      "endpoints": [
+        "Change in total nasal symptom score from baseline over time"
+      ],
+      "sponsor": "Rigel Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00115089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06869382",
+      "title": "Comparative Analysis of ICS Combined with LABA Versus Addition of Omalizumab on Transcriptomic Expression Profiles in Patients with Allergic Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-01-01",
+      "completion_date": "2024-03-31",
+      "country": "Taiwan",
+      "enrollment": 26,
+      "brief_summary": "Asthma is a chronic respiratory disease characterized by airway inflammation and obstruction, leading to wheezing, breathlessness, chest tightness, and coughing. Uncontrolled asthma impairs daily activities and reduces quality of life, making it a significant global health concern affecting 334 million people worldwide. Proper management is essential to minimize its impact.\n\nThe Global Initiative for Asthma (GINA) recommends inhaled corticosteroids (ICS) combined with long-acting beta-agonists (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years old with a confirmed asthma diagnosis via a provocation test\n* The treatment of asthma was according to GINA guideline. ICS with LABA group are patients of asthma presented as stage III. The adding of omalizuamb is patients with poor control of ICS with LABA with high",
+      "endpoints": [
+        "Gene Expression Profiles and Differentially Expressed Genes (DEGs) Identified by RNA Sequencing"
+      ],
+      "sponsor": "Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT06869382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01839851",
+      "title": "Evaluation of Hair Cortisol in Patients With Asthma or Allergic Rhinitis Treated With Topical (Inhaled or Intranasal) Corticosteroids",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2013-05",
+      "completion_date": "2014-12",
+      "country": "Israel",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to prospectively examine the relation between topical corticosteroid use and hair cortisol concentration, among patients with moderate persistent asthma or allergic rhinitis. The investigators hypothesize that patients with asthma or allergic rhinitis treated with topical corticosteroids (i.e. inhaled corticosteroids (ICS) or intranasal glucocorticoids (INGC)) have higher levels of hair cortisol after 3 months of treatment than during the 3 months prior to initiation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 18 years or older\n* Diagnosis of asthma or allergic rhinitis, or both.\n* Planned initiation of treatment with ICS and/or INGC at study recruitment, according to routine clinical practice\n\nExclusion Criteria:\n\n* Use of inhaled, systemic or topical corticosteroids at stud",
+      "endpoints": [
+        "Change in concentration of hair cortisol under topical corticosteroid treatment"
+      ],
+      "sponsor": "Meir Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01839851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00988247",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Clinical Study to Assess the Long-term Efficacy and Safety of BDP HFA Nasal Aerosol (320 mcg, Once Daily) in Adult and Adolescent Subjects (12 Years of Age and Older) With Perennial Allergic Rhinitis (PAR)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10-31",
+      "completion_date": "2011-02-28",
+      "country": "United States",
+      "enrollment": 529,
+      "brief_summary": "Subjects with perennial allergic rhinitis will be randomized to 320 mcg of beclomethasone dipropionate (BDP) using a hydrofluoroalkane (HFA) propellant or placebo as a nasal aerosol. The subjects will be followed for safety and efficacy for a period of 30 or 52 weeks. BDP HFA is a steroid which is currently FDA approved for the treatment of asthma. BDP-HFA should be safe and effective as a \"dry\" nasal aerosol which may be preferred by some patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects, 12 years of age or older as of the Screening Visit (SV)\n* General good health, and free of any concomitant conditions or treatment that could interfere with study conduct, influence the interpretation of study observations/results, or put the subject a",
+      "endpoints": [
+        "Change From Baseline in Average Subject-Assessed 24-Hour Reflective Total Nasal Symptom Score (rTNSS) up to 30 Weeks"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00988247"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03141424",
+      "title": "Periostin-guided Withdrawal of Inhaled Corticosteroids in Patients With Non-eosinophilic Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-06-01",
+      "completion_date": "2024-10-25",
+      "country": "Denmark",
+      "enrollment": 20,
+      "brief_summary": "Background: Asthma is a common chronic condition characterized by respiratory symptoms and hyperresponsive airways. According to treatment guidelines, patients with persistent asthma require daily treatment with inhaled corticosteroids (ICS). However, certain subgroups of asthma patients such as non-eosinophilic asthma patients do not respond well to the ICS treatment. In the present study, asthma patients treated with ICS and exhibiting low levels of eosinophilic biomarkers such as S-periostin,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Astma patients followed in the Respiratory Outpatient Ward, Hvidovre Hospital, Amager Hospital or Glostrup Hospital.\n* At least one of the following test suggestive for asthma, performed at any time during the outpatient course: 1) FEV1-reversibility on at least 12% and 200 ml",
+      "endpoints": [
+        "Change in Control Questionnaire (ACQ) from baseline to post-tapered ICS",
+        "Time from baseline to drop-out"
+      ],
+      "sponsor": "Hvidovre University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03141424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01113489",
+      "title": "Assessment of Oxidative Stress Markers in the Upper and Lower Airways of Atopic Children Treated With Nebulized Beclomethasone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2010-07",
+      "country": "Italy",
+      "enrollment": 32,
+      "brief_summary": "Although it is well known that the presence of uncontrolled inflammation in upper airways may compromise the control of asthma and may favor the progression of asthma toward more severe grades of disease, few studies addressed whether therapies aimed to control both upper and lower airway inflammation may be more effective in controlling asthma. Markers of oxidative stress and of inflammation such as Nitrotyrosine and IL-5 are increased in the airways of children with atopic asthma and correlate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* children with intermittent asthma and allergic rhinitis\n\nExclusion Criteria:\n\n* children with acute respiratory symptoms in the last 4 weeks\n* children with nasal polyposis or bronchial or respiratory tract infections\n* children with a severe exacerbation of asthma resulting i",
+      "endpoints": [
+        "Change in level of oral and nasal fractional exhaled nitric oxide (FeNO)"
+      ],
+      "sponsor": "Fondazione C.N.R./Regione Toscana \"G. Monasterio\", Pisa, Italy",
+      "url": "https://clinicaltrials.gov/study/NCT01113489"
+    }
+  ],
+  "timestamp": "2026-03-04T15:33:36.298532",
+  "success": true,
+  "error_message": null
+}

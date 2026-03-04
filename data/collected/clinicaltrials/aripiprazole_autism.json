@@ -1,0 +1,564 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Aripiprazole",
+    "disease": "autism"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00619190",
+      "title": "An Open Label Study of Aripiprazole in Children and Adolescents With Autism Spectrum Disorders",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2012-06",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this open label study in children and adolescents is to examine the acute and long-term effects of aripiprazole on problem behaviors associated with autism spectrum disorders and development in areas which appear to be affected by autism spectrum disorders.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be between 30 months and 17 years 11 months, male or female, of any ethnicity and of any cognitive level\n* Meet criteria for diagnosis of autism, Asperger's Disorder or Pervasive Developmental Order NOS (i.e. an autism spectrum disorder) based on clinical evaluat",
+      "endpoints": [
+        "Change From Baseline in Aberrant Behavior Checklist-Irritability at 12 Weeks"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT00619190"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00468130",
+      "title": "Efficacy of Aripiprazole Versus Placebo in the Reduction of Aggressive and Aberrant Behavior in Autistic Children",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "Hypothesis: (1) Aripiprazole treatment will be superior to placebo in reducing aggression and irritability in autistic individuals as shown by reductions in the Aberrant Behavior Checklist-irritability subscale.\n\n(2) Aripiprazole treatment will be superior to placebo in the acute treatment of global autism severity.\n\nThe purpose of this study is to examine the possible benefit of the medication Aripiprazole in autistic individuals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV, ADI-R criteria for autistic disorder.\n* Age 5-17 years.\n* Outpatients\n* Parent or legal guardian willing to sign informed consent.\n\nExclusion Criteria:\n\n* Subject has been diagnosed with a psychotic disorder (such as schizophrenia) or a mood disorder, including d",
+      "endpoints": [
+        "Clinical Global Impression Improvement (CGI-AD)"
+      ],
+      "sponsor": "Rutgers, The State University of New Jersey",
+      "url": "https://clinicaltrials.gov/study/NCT00468130"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00198107",
+      "title": "Novel Pharmacological Strategies in Autism",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2011-09",
+      "country": "United States",
+      "enrollment": 81,
+      "brief_summary": "This study will determine the effectiveness of aripiprazole and D-Cycloserine in treating symptoms associated with autism in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Weight of at least 15 kg (33.75 lbs)\n* Meets DSM-IV criteria for autistic disorder\n* Outpatient\n* Medication-free for at least 2 weeks prior to baseline for all psychotropic medications. More information about this criterion, including exceptions, can be found in the protocol.",
+      "endpoints": [
+        "Mean Post-baseline Aberrant Behavior Checklist Irritability Score, Parent Report, Double-blind Phase",
+        "Odds of Improvement as Measured by the Clinical Global Impression-Global Improvement Scale (Improvement Defined as CGI-I=1 or CGI-I=2)"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00198107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01028820",
+      "title": "Pilot Study of the Effect of Aripiprazole Treatment in Autism Spectrum Disorders on Functional Magnetic Resonance Imaging (fMRI) Activation Patterns and Symptoms",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "This is an 8 week research study of aripiprazole (abilify) which is used to reduce irritable behaviors in autism spectrum disorders. All participants will receive active study medication. Participants will also receive diagnostic and cognitive evaluations at no cost. Participants will be required to undergo two fMRI (functional magnetic resonance imaging scans) where we will take pictures of your brain while performing simple tasks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female of any race or ethnicity\n* ambulatory status (outpatient) at time of consent\n* age 10-55 inclusive at time of consent\n* clinical diagnosis of autism spectrum disorder and meets screening criteria on the Social Communication Questionnaire as well as either the Au",
+      "endpoints": [
+        "Baseline and Week 8scores on Children's Yale-Brown Obsessive Compulsive Scale - Pervasive Developmental Disorder Version"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT01028820"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01227668",
+      "title": "Safety and Efficacy of Aripiprazole in the Long-term Maintenance Treatment of Pediatric Patients With Irritability Associated With Autistic Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2012-06",
+      "country": "United States",
+      "enrollment": 215,
+      "brief_summary": "The purpose of this study is to determine whether pediatric participants with irritability associated with autistic disorder who have responded to aripiprazole treatment will experience a relapse significantly later when continuing therapy with aripiprazole than will participants who receive placebo",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Male or female children or adolescents, 6 to 17 years of age, inclusive, at the time of the baseline visit\n* Meets current diagnostic criteria of the Diagnostic and Statistical Manual-of Mental Disorders IV-Text Revised for autistic disorder and displays behaviors such as ",
+      "endpoints": [
+        "Percentage of Patients Relapsing by Week 16"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT01227668"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00332241",
+      "title": "A Multicenter Double-Blind, Randomized, Placebo-Controlled, Flexible-Dosed, Parallel-Group Study of Aripiprazole Flexibly Dosed in the Treatment of Children and Adolescents With Autistic Disorder (AD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2008-04",
+      "country": "United States",
+      "enrollment": 98,
+      "brief_summary": "This study will compare the effectiveness (how well the drug works) of aripiprazole, flexibly dosed with a placebo, in reducing serious behavioral problems in children and adolescents with a diagnosis of autistic disorder (AD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets current Diagnostic and Statistical Manual for Mental Disorders-Fourth Edition (DSM-IV) diagnostic criteria for AD and demonstrates serious behavioral problems. Diagnosis confirmed by Autism Diagnostic Interview- Revised (ADI-R)\n* CGI score \\> = 4 AND and Aberrant Behavio",
+      "endpoints": [
+        "Mean Change (Week 8 - Baseline) in the Autistic Behavior Checklist (ABC) Irritability Subscale Score"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00332241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02069977",
+      "title": "A Multinational, Multicenter, Open-label, Single-arm Study to Evaluate the Efficacy and Safety of Aripiprazole in Asian Pediatric Patients With Autism Spectrum Disorder and Behavior Problems",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-02",
+      "completion_date": "2016-02",
+      "country": "South Korea, Thailand, Philippines",
+      "enrollment": 79,
+      "brief_summary": "* To evaluate the efficacy of flexibly dosed aripiprazole in reducing serious behavioral problems in Asian children and adolescents with a diagnosis of autism spectrum disorder, as measured by change from baseline to endpoint on the irritability subscale of the aberrant behavior checklist (ABC-I).\n* To evaluate the long-term safety and tolerability of flexibly dosed aripiprazole in the treatment of serious behavioral problems in Asian children and adolescents with a diagnosis of autism spectrum ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6 to 17 years of age.\n* Meeting the diagnostic criteria for autistic disorder specified by the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR), with a diagnosis corroborated by the Autism Diagnostic Interview-Revised (ADI-R) dia",
+      "endpoints": [
+        "irritability subscale of the aberrant behavior checklist"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02069977"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04903353",
+      "title": "Pragmatic Trial Comparing Weight Gain in Children With Autism Taking Risperidone Versus Aripiprazole",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-02-01",
+      "completion_date": "2025-12-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "This study aims to compare two FDA approved medications (aripiprazole and risperidone) for the treatment of behavioral dysregulation in children with autism spectrum disorders. This trial, done in the context of routine clinical care, will seek to evaluate whether aripiprazole or risperidone is associated with more weight gain in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 17 years and younger\n* diagnosed with autism\n* have behavior problems\n* seen in Vanderbilt clinic\n* naïve to atypical antipsychotics\n\nExclusion Criteria:\n\n* 18 years or older\n* history of atypical antipsychotic use\n* not diagnosed with autism",
+      "endpoints": [
+        "weight gain"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04903353"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00198055",
+      "title": "An Open-Label Study of Aripiprazole in Children and Adolescents With Autistic Disorder",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "The purpose of this study is to develop a better tolerated and more effective pharmacologic treatment for individuals with Asperger's Disorder and Pervasive Developmental Disorder. This is an open-label investigation of aripiprazole in the management of the maladaptive behaviors of autistic disorder. We hypothesize that aripiprazole will be effective for reducing aggression and repetitive behavior.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mental age of 18 months\n* Diagnosis of Asperger's Disorder or Pervasive Developmental Disorder\n* Good health overall\n* Free of all psychotropic medication for 2 weeks\n\nExclusion Criteria:\n\n* Weight less than 15kg\n* Subjects who have received an adequate trial of aripiprazole\n*",
+      "endpoints": [
+        "The Clinical Global Impression(CGI)Improvement Scale.",
+        "The Irritability subscale of the Aberrant Behavior Checklist (ABC)"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00198055"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04047355",
+      "title": "A Pilot/Feasibility Study of the Use of High Dose Propranolol to Treat Severe and Chronic Challenging Behaviors in Adolescents and Adults With Autism Spectrum Disorders",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-02-11",
+      "completion_date": "2023-09-30",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Severe challenging behaviors such as aggression and self-injury can cause significant morbidity and decrease the quality of life for individuals with Autism Spectrum Disorders (ASD). There are only two medications (Risperdal and Abilify) rigorously studied and FDA-approved for the treatment of irritability in individuals with ASD. These medications are not always successful and have many short and long-term side effects. Well-designed studies demonstrating efficacy and safety of alternative medi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females between the ages of 12-30 years and is a resident in the state of New Jersey.\n2. Diagnosis of autism conducted by a clinician with confirmation using the Autism Diagnostic Observation Schedule (ADOS) or the Social Communication Questionnaire (SCQ).\n3. At lea",
+      "endpoints": [
+        "Aberrant Behavior Checklist--Community (ABC-C) Irritability Subscale Scores"
+      ],
+      "sponsor": "Rutgers, The State University of New Jersey",
+      "url": "https://clinicaltrials.gov/study/NCT04047355"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02574741",
+      "title": "Augmenting Language Interventions in ASD: A Translational Approach (ACE Project 3)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2019-12",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "The study will consist of two main elements: the enrollment of 72 children aged 6-11 years with ASD and low language competency to receive a thrice-weekly one hour language intervention for 12 weeks; and, beginning at the same time, subjects will be equally randomized to receive either aripiprazole (Abilify) (flexibly dosed from 2-10 mg per day) or placebo for 12 weeks.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* boys and girls ages 5-11 years;\n* criteria for autistic disorder or PDD-NOS as defined by DSM-IV-TR and confirmed by clinical examination and ADI-R, ADOS;\n* low language usage as defined by \\<30 functional words obtained from a natural language sample, parent report, and stand",
+      "endpoints": [
+        "Number of words as assessed in a naturalistic language assessment"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT02574741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00870727",
+      "title": "Pharmacotherapy of Pervasive Developmental Disorders",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2015-05",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "The purpose of this study is to develop a better tolerated and more effective pharmacologic treatment with individuals with Pervasive Developmental Disorder. This is a double-blind, placebo-controlled study of aripiprazole in the management of the maladaptive behaviors of Pervasive Developmental Disorder. The investigators hypothesize that aripiprazole will be more effective than placebo for reducing aggression, tantrum and self-injurious behavior in children with Pervasive Developmental Disorde",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female outpatients between the ages of 5 and 17 years and greater than or equal to 15 kg body weight.\n* Diagnostic and Statistical Manual of Mental Disorders Fourth Edition, Text Revised (DSM-IV-TR) diagnosis of Pervasive Developmental Disorder Not Otherwise Specified",
+      "endpoints": [
+        "Number of Participants Improved as Measured by the Clinical Global Impression-Global Improvement Scale (Improvement Defined as CGI-I=1 or CGI-I=2)",
+        "Mean Post-baseline Aberrant Behavior Checklist Irritability Subscale Score, Parent Report, Double-blind Phase"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00870727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07024303",
+      "title": "Measuring the Effects of Medication and Behavioral Treatments for Challenging Behavior",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-06-15",
+      "completion_date": "2027-12-31",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "The overall objective is to evaluate and compare the efficacy of two common treatments for CB in children and adolescents with autism using multiple outcome measures. Our central hypothesis is that both behavioral treatment and medication will produce reductions in CB, but behavioral treatments, including behavior treatment + medication, will produce a greater reduction in CB when measured using direct observation within the contexts most associated with challenging behavior. We have four aims: ",
+      "eligibility_criteria": "The adult subjects will be the caregiver/guardian of the minor subjects. The only inclusion criterion for the adult subjects is that they must be the caregiver/legal guardian of the minor subject and their home is primarily English speaking.\n\nThe minor subjects will be individuals who were referred ",
+      "endpoints": [
+        "Aberrant Behavior Checklist, Irritability Subscale",
+        "Behavior Problems Inventory",
+        "Clinical Global Impressions Scale"
+      ],
+      "sponsor": "University of Iowa",
+      "url": "https://clinicaltrials.gov/study/NCT07024303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01617460",
+      "title": "A Long-term Administration Study of Aripiprazole in Children and Adolescents (Age: 6 to 17 Years) With Autistic Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2016-10",
+      "country": "Japan",
+      "enrollment": 86,
+      "brief_summary": "The objective of this study is to investigate the safety and efficacy of aripiprazole orally administered over long term in subjects who complete a short-term treatment study of pediatric Autistic Disorder (031-11-002 study).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient meets Autistic disorder diagnostic criteria defined in DSM-IV-TR.\n* The patient has completed the 031-11-002 study (the patient has visited the hospital during week8)\n* Inpatient or outpatient status\n\nExclusion Criteria:\n\n* The patient is currently diagnosed with a",
+      "endpoints": [
+        "Mean Change From Baseline at the Final Assessment in Aberrant Behavior Checklist Japanese Version (ABC-J) Irritability Subscale Score"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01617460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03522168",
+      "title": "Pediatric Trials Network Long-term Antipsychotic Pediatric Safety Trial (LAPS) NICHD-2016-LAP01 Phase 4 Trial",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-01-10",
+      "completion_date": "2023-11-21",
+      "country": "United States",
+      "enrollment": 509,
+      "brief_summary": "Main LAP01 study: The purpose is to evaluate the long-term pathologic weight changes associated with multi-year risperidone or aripiprazole therapy in 3 - \\<18-year-old children, who have varying durations of prior antipsychotic drug exposure from the start of study Month 0 (M0). This is critical because children appear to have greater vulnerability to antipsychotic-associated weight gain than adults, and obesity has significant effects on morbidity and mortality.\n\nAn additional sub-study (regis",
+      "eligibility_criteria": "Main Study\n\nInclusion Criteria:\n\n1. Parent/guardian has provided informed consent\n2. Participant has provided assent if developmentally appropriate and as required by the institutional review board (IRB)\n3. 3 - \\<18 years of age inclusive at time of M0 visit\n4. Participant, when developmentally appr",
+      "endpoints": [
+        "Main Trial: Change in BMI z-score",
+        "Registry Sub-Study: Modified Body Mass Index (BMI) z-score"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT03522168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00337571",
+      "title": "A Multicenter Double-Blind, Randomized, Placebo-Controlled, Parallel-Group Study With Three Fixed Doses of Aripiprazole in the Treatment of Children and Adolescents With Autistic Disorder (AD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2008-06",
+      "country": "United States",
+      "enrollment": 218,
+      "brief_summary": "This study will compare the effectiveness (how well the drug works) of aripiprazole with placebo (fixed dose) in reducing serious behavioral problems in children and adolescents with a diagnosis of autistic disorder (AD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets current Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) diagnostic criteria for AD and demonstrates serious behavioral problems; diagnosis confirmed by Autism, Diagnostic Interview-Revised (ADI-R).\n* CGI score \\> = 4 AND a",
+      "endpoints": [
+        "Mean Change (Week 8 - Baseline) in the Autistic Behavior Checklist (ABC) Irritability Subscale Score"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00337571"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01844700",
+      "title": "1/2-MC4R Genotype and Pediatric Antipsychotic Drug- Induced Weight Gain",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2013-07",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "We will conduct a 12-week, randomized open label study, comparing usual care (UC) antipsychotic treatment (aripiprazole, quetiapine, risperidone) with ziprasidone (ZIP) in children and adolescents aged 13-18 years old. Patients will have 10 days or less lifetime antipsychotic exposure and be in clinical need for antipsychotic treatment for a pediatric psychiatric disorder with FDA indication for antipsychotic use, i.e., bipolar mania, schizophrenia-spectrum disorders, and irritability associated",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 13-18 years\n* English-speaking\n* DSM diagnoses that have an FDA indication for SGA use for at least one agent in the respective pediatric or adult age group. Specifically, primary DSM-IV diagnosis of early-onset schizophrenia spectrum disorders; bipolar I disorder mania (a",
+      "endpoints": [
+        "Weight Change"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT01844700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208533",
+      "title": "Aripiprazole in Children With Autism: A Pilot Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2011-11-16",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "This is a 6-week open pilot study of aripiprazole for the treatment of adolescents, aged 12 to 18 years, diagnosed with autism.\n\nChildren who qualify for the study will be treated with aripiprazole for 6 weeks.\n\nTreatment is provided at no cost.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of autism (DSM-IV) made by a boarded child and adolescent psychiatrist.\n* Males and females.\n* Aged 12 to 18 years.\n* Clinical judgment that medication treatment for autism is indicated.\n\nExclusion Criteria:\n\n* Major medical problems including cardiac, liver, endocri",
+      "endpoints": [
+        "Clinical Global Impressions"
+      ],
+      "sponsor": "Drexel University",
+      "url": "https://clinicaltrials.gov/study/NCT00208533"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05554627",
+      "title": "VA Aripiprazole vs. Esketamine for Treatment of Depression VAST-D II",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2023-10-27",
+      "completion_date": "2023-10-27",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This is an open-label, parallel-group, randomized clinical trial of up to 6 months treatment of adjunctive intranasal (IN) esketamine (ESK) vs. adjunctive aripiprazole (ARI) in Veterans with unipolar Treatment Resistant Depression (TRD). This study will assess the efficacy, safety, and acceptability of adjunctive IN ESK in comparison to ARI, one of the best studied and most widely used adjunctive therapies for TRD. The primary hypothesis is that participants receiving adjunctive IN ESK will be s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-5 diagnosis of current episode of major depressive disorder (MDE, single or recurrent, non-psychotic) by MINI\n* TRD defined as at least 2 failed trials of antidepressants (adequate dose and duration) including the current episode and another during last 2 years\n* Current Q",
+      "endpoints": [
+        "Quick Inventory of Depressive Symptoms (QUIDS-C16)"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT05554627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03179787",
+      "title": "Post-Marketing Surveillance Study of Aripiprazole in Patients With Autism",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-04-01",
+      "completion_date": "2020-07-06",
+      "country": "Japan",
+      "enrollment": 528,
+      "brief_summary": "The purpose of this study is to evaluate the safety and effectiveness of aripiprazole in patients with autism in the real world clinical setting in Japan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosed as autism with irritability\n\nExclusion Criteria:\n\n* patients who has ever been treated with aripiprazole",
+      "endpoints": [
+        "Mean Changes of Aberrant Behavior Checklist-Japanese Version (ABC-J) Irritability Subscale Scores From Baseline."
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03179787"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00080145",
+      "title": "Risperidone and Behavioral Therapy in Treatment of Children and Adolescents With Autistic Disorder",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 124,
+      "brief_summary": "This 24-week study will compare the safety and effectiveness of medication treatment alone (risperidone or aripiprazole) to medication treatment in combination with a parent management training program.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Autistic Disorder, Asperger's Disorder, or Pervasive Developmental Disorder not otherwise specified\n* Weight \\> 30 lbs\n* IQ \\>= 35 or mental age of at least 18 months\n\nExclusion Criteria:\n\n* Psychotic Disorder\n* History of intolerance or nonresponse to risperidone\n* Pregnancy\n",
+      "endpoints": [
+        "Home Situations Questionnaire",
+        "Vineland Daily Living Skills Scale"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT00080145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01337700",
+      "title": "Milnacipran in Autism and the Functional Locus Coeruleus and Noradrenergic Model of Autism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2014-07",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Autism Spectrum Disorders (ASD) include Autistic disorder, Asperger's syndrome and Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS). These are developmental disorders beginning prior to three years of age. Recent Centers for Disease Control (CDC) estimates suggest that ASD affects up to 1 in 100 individuals and up to 1 in 50 boys. There are very substantial costs associated with caring for patients with ASD, and ASD has the highest Caregiver Burden Scores of any condition. Ther",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female patients\n* Aged 18-50 years\n* Diagnosis of Autism Spectrum Disorder\n* intelligence quotient greater than 70\n\nExclusion Criteria:\n\n* Pregnant subjects\n* Patients deemed by comprehensive psychiatric interview to have a significant risk of suicide",
+      "endpoints": [
+        "Change in Score on Conners Adults Attention Deficit Hyperactivity Disorder (ADHD) Rating Scale",
+        "Change in Hyperactivity as Measured by Aberrant Behavior Checklist - Hyperactivity Scale"
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01337700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01617447",
+      "title": "A Short-term Administration Study of Aripiprazole in Children and Adolescents (Age: 6 to 17 Years) With Autistic Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2015-06",
+      "country": "Japan",
+      "enrollment": 92,
+      "brief_summary": "The objective of this study is to investigate the efficacy and safety of aripiprazole orally administered over a period of 8 weeks in pediatric patients with Autistic Disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient meets current DSM-IV-TR diagnostic criteria for Autistic Disorder (defined in DSM-IV-TR) and also demonstrates behaviors such as tantrums, aggression, self-injurious behavior, or a combination of these problems.\n* Inpatient or outpatient status\n* Others\n\nExclusion ",
+      "endpoints": [
+        "Mean Change From Baseline in the Aberrant Behavior Checklist Japanese Version (ABC-J) Irritability Subscale Score"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01617447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00420459",
+      "title": "Aripiprazole in Fragile X Syndrome",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The purpose of this study is to determine the effectiveness and tolerability of aripiprazole in the treatment of children and adolescents with Fragile X Syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females between the ages of 5 and 35 years and\n2. Body weight greater than or equal to 15 kg\n3. Confirmed diagnosis of Fragile X Syndrome based upon genetic testing results.\n4. Outpatients.\n5. Psychotropic medication-free for at least 2 weeks prior to screening labo",
+      "endpoints": [
+        "Aberrant Behavior Checklist",
+        "Clinical Global Impressions- Severity"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00420459"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03487770",
+      "title": "A Multicenter, Randomized, Double-blind, Flexible-dosed, Placebo-controlled, Parallel-group Clinical Trial Evaluating the Efficacy and Safety of Aripiprazole Oral Solution in Children and Adolescents With Autistic Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-04-09",
+      "completion_date": "2020-04-21",
+      "country": "China",
+      "enrollment": 111,
+      "brief_summary": "This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group study to assess the efficacy, safety, tolerability and the steady-state plasma trough concentration of aripiprazole flexible-dosed in children and adolescents with a diagnosis of Autistic Disorder. Approximately 100 subjects will be randomly assigned at a 1:1 ratio to receive aripiprazole (2 to 15 mg) or placebo treatment for 8 weeks",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent must be obtained from a legally authorized guardianprior to the initiation of any protocol-required procedures.\n2. The subject and/or the designated guardian(s) or caregiver(s) are able to comprehend and satisfactorily comply with the protocol require",
+      "endpoints": [
+        "Changes from Baseline to Week 8 (or endpoint) in the ABC-I score"
+      ],
+      "sponsor": "Otsuka Beijing Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03487770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05868720",
+      "title": "EFFECT OF RISPERIDONE vs ARIPIPRAZOLE ON OXIDATIVE STRESS IN PATIENTS WITH AUTISM SPECTRUM DISORDER: A RANDOMIZED CONTROLLED TRIAL",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-07-01",
+      "completion_date": "2025-03-02",
+      "country": "N/A",
+      "enrollment": 42,
+      "brief_summary": "The goal of this Randomized Controlled Trial is to to compare the effect of Risperidone vs Aripiprazole in terms of change in serum Glutathione level in patients with Autism Spectrum Disorder over a period of 6 weeks.\n\nThe main questions it aims to answer are:\n\n1. (Primary Outcome) Change in serum Glutathione levels following 6 weeks of intervention in both the arms\n2. (Secondary Outcomes) Change in serum superoxide dismutase (SOD) levels following 6 weeks of intervention.\n\nChange in ISAA score ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion criteria:\n\n  * Patients diagnosed with Autism Spectrum Disorder (according to ICD-11 DCR) under the age group of 18 years.\n  * Legally authorized representative (LAR) giving voluntary written consent for participation in the study.\n\nExclusion Criteria:\n\n* History of ",
+      "endpoints": [
+        "Change in serum Glutathione levels following 6 weeks of intervention in both the arms"
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT05868720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06373770",
+      "title": "Effects of Ayres Sensory Integration Therapy Versus Conservative Treatment in Autism Spectrum",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-10-01",
+      "completion_date": "2024-09-30",
+      "country": "Pakistan",
+      "enrollment": 30,
+      "brief_summary": "Effects of Ayres Sensory Integration Therapy Versus Conservative Treatment in Autism Spectrum",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed cases of autism age range from 2 year to 8 years.\n* All patients will be assed using sensory profile by Winnie Dunn.\n* All the patients fulfilling the above-mentioned inclusion criteria will be assessed and evaluated by occupational therapist for sensory integration ",
+      "endpoints": [
+        "sensory profile by winnie dunn"
+      ],
+      "sponsor": "Superior University",
+      "url": "https://clinicaltrials.gov/study/NCT06373770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00365859",
+      "title": "A 52-Week, Open-Label, Multicenter Study of the Safety and Tolerability of Aripiprazole Flexibly Dosed in the Treatment of Children and Adolescents With Autistic Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 330,
+      "brief_summary": "This study will provide long-term safety data for patients who are taking aripiprazole for up to 1 year. Most patients enrolled in this study will have participated in a short-term study with aripiprazole (CN138-178 \\[NCT00332241\\] or CN138-179 \\[NCT00337571\\]).",
+      "eligibility_criteria": "Inclusion Criteria - Rollover:\n\n* Completed 8 weeks of treatment in one of the following double-blind clinical trials: CN138-178 \\[NCT00332241\\] or CN138-179 \\[NCT00337571\\]\n* No significant protocol violations and sufficient medical justification to continue on open-label treatment with aripiprazol",
+      "endpoints": [
+        "Number of Participants With Serious Adverse Events (SAEs), Treatment-Emergent Adverse Events (AEs), Deaths, AEs Leading to Discontinuation, Extra Pyramidal Syndrome (EPS)-Related AEs",
+        "Mean Change From Baseline in Total Simpson-Angus Scale (SAS) At Week 8, Week 26, and Week 52",
+        "Mean Change From Baseline in Abnormal Involuntary Movement Scale (AIMS) At Week 8, Week 26, and Week 52"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00365859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00308074",
+      "title": "A Prospective Open-Label Trial of Aripiprazole Monotherapy in the Autism Spectrum Disorders (ASD)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2009-02",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "The aim of this study is to evaluate the efficacy, safety and tolerability of aripiprazole monotherapy in the treatment of children and adolescents suffering from Autism Spectrum Disorder (ASD) over a 12-week period. We hypothesize that aripiprazole may be helpful in reducing ASD-associated symptoms of anxiety and aggression, resulting in significant improvements in global outcome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and Females ages 6-17\n* A diagnosis of Autism, Asperger's Disorder, or Pervasive Developmental Disorder - not otherwise specified (PDD NOS)\n* Medically healthy\n* Ability to give assent\n* Significant tantrums, aggression, self-injurious behavior and/or agitation by achiev",
+      "endpoints": [
+        "Clinical Global Impressions-Improvement",
+        "Aberrant Behavior Checklist-Irritability Subscale"
+      ],
+      "sponsor": "Cambridge Health Alliance",
+      "url": "https://clinicaltrials.gov/study/NCT00308074"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01333072",
+      "title": "Biomarkers in Autism of Aripiprazole and Risperidone Treatment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The Biomarkers in autism of aripiprazole and risperidone treatment (BAART) project will provide evidence-based guidance in the selection and monitoring of drug treatment of autism. BAART involves 3 academic centers across South Carolina. Although the FDA has approved use of the antipsychotic drug risperidone for irritability associated with autistic disorder, a moderate response rate in pivotal clinical trials and concerns over tolerability and weight gain can force clinicians to select alternat",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Aged 6 to 17 years and weight of at least 15 kg\n* Meet DSM-IV criteria for of AD, established by chart review, clinical judgment and the Autism Diagnostic Interview- Revised (ADI-R) criteria\n* Clinical Global Impressions Severity (CGI-S) score of \\>4 (moderately ill)\n* ABC Irri",
+      "endpoints": [
+        "Changes in the Irritability Subscale of the Larger ABC (Abberent Behavior Checklist) That Occur From Baseline to 10 Weeks"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT01333072"
+    }
+  ],
+  "timestamp": "2026-03-04T15:25:46.805609",
+  "success": true,
+  "error_message": null
+}

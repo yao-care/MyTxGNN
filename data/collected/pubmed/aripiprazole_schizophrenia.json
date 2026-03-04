@@ -1,0 +1,607 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Aripiprazole",
+    "disease": "schizophrenia",
+    "query_string": "Aripiprazole AND schizophrenia"
+  },
+  "data": {
+    "query": "Aripiprazole AND schizophrenia",
+    "results": [
+      {
+        "pmid": "36142523",
+        "title": "New Atypical Antipsychotics in the Treatment of Schizophrenia and Depression.",
+        "abstract": "Schizophrenia and depression are heterogeneous disorders. The complex pathomechanism of the diseases imply that medication responses vary across patients. Many psychotropic drugs are available but achieving optimal therapeutic effect can be challenging. The evidence correlates well with clinical observations, suggesting that new atypical antipsychotic drugs are effective against negative and cognitive symptoms of schizophrenia, as well as against affective symptoms observed in depression. The purpose of this review presents the background and evidence for the use of the new second/third-generation antipsychotics (aripiprazole, cariprazine, lurasidone, asenapine, brexpiprazole, lumateperone, pimavanserin) in treatment of schizophrenia and depression. We have first provided a brief overview of the major neurobiological underpinnings of schizophrenia and depression. We then shortly discuss efficacy, safety and limitations of ongoing pharmacotherapy used in depression and schizophrenia. Ma",
+        "journal": "International journal of molecular sciences",
+        "year": "2022",
+        "authors": [
+          "Orzelska-Górka Jolanta",
+          "Mikulska Joanna",
+          "Wiszniewska Anna",
+          "Biała Grażyna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Depression",
+          "Humans",
+          "Lurasidone Hydrochloride",
+          "Psychotropic Drugs",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36142523/"
+      },
+      {
+        "pmid": "36526889",
+        "title": "Antipsychotic drug-aripiprazole against schizophrenia, its therapeutic and metabolic effects associated with gene polymorphisms.",
+        "abstract": "Second-generation antipsychotics are widely used for the treatment of schizophrenia. Aripiprazole (ARI) is classified as a third-generation antipsychotic drug with a high affinity for dopamine and serotonin receptors. It is considered a dopamine-system stabilizer without severe side effects. In some patients the response to ARI treatment is inadequate and they require an effective augmentation strategy. It has been found that the response to the drug and the risk of adverse metabolic effects can be related to gene polymorphisms. A reduced dose is recommended for CYP2D6 poor metabolizers; moreover, it is postulated that other polymorphisms including CYP3A4, CYP3A5, ABCB1, DRD2, and 5-HTRs genes influence the therapeutic effect of ARI. ARI can increase the levels of prolactin, C-peptide, insulin, and/or cholesterol possibly due to specific genetic variants. It seems that a pharmacogenetic approach can help predict drug response and improve the clinical management of patients with schizop",
+        "journal": "Pharmacological reports : PR",
+        "year": "2023",
+        "authors": [
+          "Stelmach Adriana",
+          "Guzek Katarzyna",
+          "Rożnowska Alicja",
+          "Najbar Irena",
+          "Sadakierska-Chudy Anna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Schizophrenia",
+          "Dopamine",
+          "Polymorphism, Genetic",
+          "Drug-Related Side Effects and Adverse Reactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36526889/"
+      },
+      {
+        "pmid": "32002559",
+        "title": "Aripiprazole vs. brexpiprazole for acute schizophrenia: a systematic review and network meta-analysis.",
+        "abstract": "What is the difference between aripiprazole and brexpiprazole?",
+        "journal": "Psychopharmacology",
+        "year": "2020",
+        "authors": [
+          "Kishi Taro",
+          "Ikuta Toshikazu",
+          "Matsuda Yuki",
+          "Sakuma Kenji",
+          "Iwata Nakao"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Akathisia, Drug-Induced",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Humans",
+          "Quinolones",
+          "Randomized Controlled Trials as Topic",
+          "Schizophrenia",
+          "Thiophenes",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32002559/"
+      },
+      {
+        "pmid": "20152550",
+        "title": "Aripiprazole in schizophrenia and schizoaffective disorder: A review.",
+        "abstract": "During the past decade, there has been some progress in the pharmacotherapy of schizophrenia and schizoaffective disorder. Current evidence supports the use of various second-generation, or atypical, antipsychotic medications, although few of these agents have been associated with long-term efficacy and tolerability. Aripiprazole is an atypical antipsychotic that has been found to improve positive and negative symptoms of schizophrenia with a favorable adverse-effect profile.",
+        "journal": "Clinical therapeutics",
+        "year": "2010",
+        "authors": [
+          "Stip Emmanuel",
+          "Tourjman Valérie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Akathisia, Drug-Induced",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20152550/"
+      },
+      {
+        "pmid": "29905899",
+        "title": "Efficacy and safety of aripiprazole for the treatment of schizophrenia: an overview of systematic reviews.",
+        "abstract": "To conduct an overview to summarize the efficacy and safety of aripiprazole for the treatment of schizophrenia.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "2018",
+        "authors": [
+          "Ribeiro Esther Letícia Amorim",
+          "de Mendonça Lima Tácio",
+          "Vieira Marcio Eduardo Bergamini",
+          "Storpirtis Sílvia",
+          "Aguiar Patricia Melo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Basal Ganglia Diseases",
+          "Cholesterol",
+          "Glucose Metabolism Disorders",
+          "Humans",
+          "Lipid Metabolism",
+          "Schizophrenia",
+          "Treatment Outcome",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29905899/"
+      },
+      {
+        "pmid": "27383873",
+        "title": "Cognitive Impairment in Schizophrenia, Neurotransmitters and the New Atypical Antipsychotic Aripiprazole.",
+        "abstract": "Cognition is a group of mental processes that includes the capacity to perceive, think, learn and to study, and the capacity of the brain to analyze information and program adaptive behaviour. Although there has been an appreciable evolution in the therapy of psychoses in the last twenty-five years, cognitive disturbances still persist in spite of antipsychotic treatment. The cognitive decay disrupts the ability of clinically diagnosed patients with psychoses, mainly schizophrenia, to learn and to memorize skills that are useful for their family and social relationships. Moreover, cognitive deficiency is often considered to be crucial for further rehabilitation. In atypical antipsychotics there are big differences in the effects on cognitive functions. Some clinical studies demonstrate the benefits of a third generation of antipsychotics on cognitive functions in patients treated for mental illnesses. In the present study we have reviewed many articles investigating the influence of ar",
+        "journal": "Folia medica",
+        "year": "2016",
+        "authors": [
+          "Topolov Mariyan K",
+          "Getova Damianka P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Cognitive Dysfunction",
+          "Dopamine",
+          "Humans",
+          "Schizophrenia",
+          "Schizophrenic Psychology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27383873/"
+      },
+      {
+        "pmid": "26573020",
+        "title": "Aripiprazole long-acting injectable formulations for schizophrenia: aripiprazole monohydrate and aripiprazole lauroxil.",
+        "abstract": "Aripiprazole monohydrate (AM) and aripiprazole lauroxil (AL) are two different long-acting injectable formulations of aripiprazole. AM 400 mg administered once monthly demonstrated efficacy in an acute, double-blind, placebo-controlled, randomized clinical trial, as well as in a double-blind, placebo-controlled, randomized-withdrawal maintenance study, and in two non-inferiority maintenance studies. AL is a prodrug of aripiprazole and available in 441 mg, 662 mg or 882 mg strengths. AL 441 mg and 882 mg administered once monthly demonstrated efficacy in an acute, double-blind, placebo-controlled, randomized clinical trial. The pharmacokinetic profile of AL also led to approval of dosing intervals of every 6 weeks for the 882 mg dose. The overall tolerability profiles of both products are consistent with what is known about oral aripiprazole.",
+        "journal": "Expert review of clinical pharmacology",
+        "year": "2016",
+        "authors": [
+          "Citrome Leslie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Delayed-Action Preparations",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Injections",
+          "Randomized Controlled Trials as Topic",
+          "Schizophrenia",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26573020/"
+      },
+      {
+        "pmid": "39734212",
+        "title": "Effectiveness and safety of aripiprazole oral solution in the acute treatment of schizophrenia in Chinese patients.",
+        "abstract": "This study investigates the effectiveness and safety of aripiprazole oral solution in Chinese patients with schizophrenia.",
+        "journal": "BMC psychiatry",
+        "year": "2024",
+        "authors": [
+          "Mao Zhen",
+          "Dong Fang",
+          "Li Anning",
+          "Li Feng",
+          "Zhu Junhong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Clinical Trial, Phase IV"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aripiprazole",
+          "Schizophrenia",
+          "Male",
+          "Female",
+          "Antipsychotic Agents",
+          "Adult",
+          "China",
+          "Middle Aged",
+          "Administration, Oral"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39734212/"
+      },
+      {
+        "pmid": "38299536",
+        "title": "Evaluating the efficacy and safety of the currently available once-every-two months long-acting injectable formulations of aripiprazole for the treatment of schizophrenia or as a maintenance monotherapy for bipolar I disorder in adults.",
+        "abstract": "An aripiprazole long-acting injectable (LAI) antipsychotic is now available for gluteal administration every 2 months via two different formulations: aripiprazole lauroxil (AL) and aripiprazole monohydrate (Ari 2MRTU). These longer dosing regimens of aripiprazole LAI offer new potential benefits for patients.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2024",
+        "authors": [
+          "Samalin Ludovic",
+          "Boudieu Ludivine",
+          "Llorca Pierre Michel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aripiprazole",
+          "Schizophrenia",
+          "Bipolar Disorder",
+          "Prospective Studies",
+          "Delayed-Action Preparations",
+          "Antipsychotic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38299536/"
+      },
+      {
+        "pmid": "15257633",
+        "title": "Aripiprazole: a review of its use in schizophrenia and schizoaffective disorder.",
+        "abstract": "Aripiprazole, a quinolinone derivative, is an atypical antipsychotic drug indicated for the treatment of adult patients with schizophrenia. Aripiprazole 10 or 15 mg once daily is effective and well tolerated in patients with schizophrenia or schizoaffective disorder. Although aripiprazole has only been directly compared with haloperidol and olanzapine in treatment-responsive patients to date, current data generally indicate that aripiprazole has a beneficial profile in terms of a low potential for bodyweight gain. Dosage titration is not necessary and the drug is effective in the first few weeks of treatment. Head-to-head comparative trials with atypical antipsychotic agents are required, as are long-term (> or =1 year) studies, to fully define the position of aripiprazole in relation to other antipsychotic drugs. Aripiprazole is a valuable new therapeutic option in the management of patients with schizophrenia. PHARMACOLOGICAL PROPERTIES: Aripiprazole is a quinolinone derivative with ",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Swainston Harrison Tracy",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Metabolic Clearance Rate",
+          "Piperazines",
+          "Psychotic Disorders",
+          "Quinolones",
+          "Receptors, Neurotransmitter",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15257633/"
+      },
+      {
+        "pmid": "31152368",
+        "title": "Long-Acting Injectable (LAI) Aripiprazole Formulations in the Treatment of Schizophrenia and Bipolar Disorder: a Systematic Review.",
+        "abstract": "Several second-generation antipsychotics (SGAs) are available in long-acting injectable (LAI) formulations.",
+        "journal": "Clinical drug investigation",
+        "year": "2019",
+        "authors": [
+          "Rapinesi Chiara",
+          "Kotzalidis Georgios D",
+          "Mazzarini Lorenzo",
+          "Brugnoli Roberto",
+          "Ferracuti Stefano"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Injections, Intramuscular",
+          "Male",
+          "Recurrence",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31152368/"
+      },
+      {
+        "pmid": "27755219",
+        "title": "Efficacy and Safety of Adjunctive Aripiprazole in Schizophrenia: Meta-Analysis of Randomized Controlled Trials.",
+        "abstract": "This meta-analysis of randomized controlled trials (RCTs) evaluated the efficacy and safety of adding aripiprazole to other antipsychotics in schizophrenia. A systematic computer search identified 55 RCTs including 4457 patients who were randomized to aripiprazole (14.0 ± 7.0 mg/d) versus placebo (18 RCTs) or open antipsychotic treatment (37 RCTs). Aripiprazole significantly outperformed the comparison interventions based on psychiatric scales: (1) total score in 43 RCTs (N = 3351) with a standardized mean difference (SMD) of -0.48 (95% confidence interval [CI], -0.68 to -0.28; P < 0.00001; I = 88%), (2) negative symptom score in 30 RCTs (N = 2294) with an SMD of -0.61(95% CI, -0.91 to -0.31; P < 0.00001; I = 91%), and (3) general psychopathology score in 13 RCTs (N = 1138) with a weighted mean difference (WMD) of -4.02 (95% CI, -7.23 to -0.81; P = 0.01; I = 99%), but not in positive symptoms in 29 RCTs (N = 2223) with a SMD of -0.01 (95% CI, 0.26 to 0.25; P = 0.95; I = 88%). Differenc",
+        "journal": "Journal of clinical psychopharmacology",
+        "year": "2016",
+        "authors": [
+          "Zheng Wei",
+          "Zheng Ying-Jun",
+          "Li Xian-Bin",
+          "Tang Yi-Lang",
+          "Wang Chuan-Yue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Drug Synergism",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27755219/"
+      },
+      {
+        "pmid": "38602057",
+        "title": "Population Pharmacokinetics and Dosing Simulations for Aripiprazole 2-Month Ready-to-Use Long-Acting Injectable in Adult Patients With Schizophrenia or Bipolar I Disorder.",
+        "abstract": "A ready-to-use (RTU) long-acting injectable (LAI) formulation of aripiprazole monohydrate for administration once every 2 months, available in 960 mg (Ari 2MRTU 960) or 720 mg doses, has been developed for the treatment of schizophrenia or bipolar I disorder. A previously developed and validated population pharmacokinetic model for characterizing aripiprazole plasma concentrations following administration of oral aripiprazole or aripiprazole once-monthly (AOM) intramuscular injection was expanded to include the RTU LAI formulation of aripiprazole (Ari RTU LAI). Overall, 8899 aripiprazole pharmacokinetic samples from 1191 adults from 10 clinical trials were included in the final combined analysis data set. Aripiprazole plasma concentration-time profiles were simulated for various Ari RTU LAI initiation and maintenance scenarios in 1000 virtual patients. Diagnostic plots demonstrated that the final population pharmacokinetic model, which incorporated data for oral aripiprazole, AOM, and ",
+        "journal": "Clinical pharmacology in drug development",
+        "year": "2024",
+        "authors": [
+          "Wang Yanlin",
+          "Harlin Matthew",
+          "Larsen Frank",
+          "Wang Xiaofeng",
+          "Park Wansu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aripiprazole",
+          "Schizophrenia",
+          "Adult",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "Delayed-Action Preparations",
+          "Injections, Intramuscular",
+          "Male",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38602057/"
+      },
+      {
+        "pmid": "39002529",
+        "title": "Remission in schizophrenia spectrum disorders: A randomized trial of amisulpride, aripiprazole and olanzapine.",
+        "abstract": "Schizophrenia is a serious mental disorder, and monitoring remission is a widely used measure of effectiveness of the treatment provided. It is very important to identify possible factors correlating with remission. In our substudy of BeSt InTro, a randomized controlled trial of three antipsychotic drugs, 126 patients with ICD-10 diagnoses F20-29 (F23 excluded) were randomized to one of the second-generation antipsychotic drugs amisulpride, aripiprazole or olanzapine. Remission rate was calculated at seven assessment points, with and without using the time criterion of six months included in the consensus remission criteria. Because of drop-out (n = 77), we had data for 49 patients at one-year follow-up. These data were used to calculate the one-year remission rate to 55 % (27/49), without taking into consideration the 6-month time criterion. When we applied the consensus remission criteria with the 6-month time criterion included, the one-year remission rate was calculated for 59 pati",
+        "journal": "Schizophrenia research",
+        "year": "2024",
+        "authors": [
+          "Drosos Petros",
+          "Johnsen Erik",
+          "Bartz-Johannessen Christoffer Andreas",
+          "Larsen Tor Ketil",
+          "Reitan Solveig Klæbo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aripiprazole",
+          "Amisulpride",
+          "Olanzapine",
+          "Antipsychotic Agents",
+          "Female",
+          "Male",
+          "Adult",
+          "Schizophrenia",
+          "Benzodiazepines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39002529/"
+      },
+      {
+        "pmid": "16420071",
+        "title": "Efficacy of aripiprazole against hostility in schizophrenia and schizoaffective disorder: data from 5 double-blind studies.",
+        "abstract": "The objective was to determine the effects of aripiprazole on hostility.",
+        "journal": "The Journal of clinical psychiatry",
+        "year": "2005",
+        "authors": [
+          "Volavka Jan",
+          "Czobor Pal",
+          "Citrome Leslie",
+          "McQuade Robert D",
+          "Carson William H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Brief Psychiatric Rating Scale",
+          "Double-Blind Method",
+          "Female",
+          "Haloperidol",
+          "Hostility"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16420071/"
+      },
+      {
+        "pmid": "19689167",
+        "title": "Aripiprazole: dose-response relationship in schizophrenia and schizoaffective disorder.",
+        "abstract": "Aripiprazole is an atypical antipsychotic that has been shown to be more effective than placebo and at least as effective as haloperidol and risperidone in the treatment of schizophrenia and schizoaffective disorder. Despite having a well defined licensed dose range, the optimum dose for aripiprazole is yet to be established. Aripiprazole exhibits high affinity for dopamine D(2) receptors, with near maximal receptor occupancy at a dose of 30 mg. Even doses as low as 2 mg, thought not to be clinically effective, have produced striatal D(2) receptor occupancies exceeding 70%, higher than the accepted threshold for antipsychotic effect. In this review we examined the efficacy data from short-term studies of aripiprazole in relapsed schizophrenia or schizoaffective disorder, in order to establish a dose-response relationship for aripiprazole. Results of five fixed-dose studies suggest that the threshold for clinical effect is between 5 and 10 mg/day. In addition, the highest response rate ",
+        "journal": "CNS drugs",
+        "year": "2009",
+        "authors": [
+          "Mace Shubhra",
+          "Taylor David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Piperazines",
+          "Psychotic Disorders",
+          "Quinolones",
+          "Receptors, Dopamine D2",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19689167/"
+      },
+      {
+        "pmid": "29179595",
+        "title": "Efficacy and safety of aripiprazole lauroxil once-monthly versus aripiprazole once-monthly long-acting injectable formulations in patients with acute symptoms of schizophrenia: an indirect comparison of two double-blind placebo-controlled studies.",
+        "abstract": "Aripiprazole lauroxil (AL) is a long-acting injectable atypical antipsychotic recently approved for the treatment of schizophrenia.",
+        "journal": "Current medical research and opinion",
+        "year": "2018",
+        "authors": [
+          "Cameron Chris",
+          "Zummo Jacqueline",
+          "Desai Dharmik",
+          "Drake Christine",
+          "Hutton Brian"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Akathisia, Drug-Induced",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bayes Theorem",
+          "Delayed-Action Preparations",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29179595/"
+      },
+      {
+        "pmid": "38676675",
+        "title": "[Atypical antipsychotics in the treatment of depression in affective disorders and schizophrenia (using the aripiprazole model)].",
+        "abstract": "The review discusses aspects of the use of atypical antipsychotics in the treatment of depression in affective disorders and schizophrenia using the model of aripiprazole, a partial agonist of dopamine receptors. According to numerous studies, aripiprazole is the drug of choice for augmentative therapy of major depressive disorder, as well as for relieving and long-term maintenance monotherapy and combination therapy of various affective episodes of bipolar affective disorder and depression in schizophrenia.",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+        "year": "2024",
+        "authors": [
+          "Dorozhenok I Yu",
+          "Strukova A V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "English Abstract"
+        ],
+        "mesh_terms": [
+          "Aripiprazole",
+          "Humans",
+          "Schizophrenia",
+          "Antipsychotic Agents",
+          "Piperazines",
+          "Quinolones",
+          "Mood Disorders",
+          "Depression"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38676675/"
+      },
+      {
+        "pmid": "18514155",
+        "title": "[Present data and treatment schedule of aripiprazole in the treatment of schizophrenia].",
+        "abstract": "Among the second generation antipsychotics, aripiprazole presents a new pharmacological profile, basically differentiated by a partial agonist effect on the D2 and D3 dopaminergic receptors. Five short-term efficacy studies, conducted on 1648 patients presenting with schizophrenia or acute relapse of schizoaffective disorders, demonstrated the greater efficacy of aripiprazole than the placebo and comparable efficacy to that of haloperidol and risperidone. The short-term tolerance profile was characterised by a lesser incidence of the extrapyramidal side effects and drowsiness than with haloperidol. Two thousand six hundred and eighty five patients were followed-up over a period of 26 to 52 weeks in five clinical trials versus a placebo and haloperidol, olanzapine, quetiapine and risperiodone: demonstrated efficacy in maintaining the response to treatment and on the delay before relapse was comparable to the other antipsychotics. The classical side effects of antipsychotics decreased in",
+        "journal": "L'Encephale",
+        "year": "2008",
+        "authors": [
+          "Limosin F",
+          "Azorin J M",
+          "Krebs M O",
+          "Millet B",
+          "Glikman J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Clinical Trials as Topic",
+          "Drug Administration Schedule",
+          "Follow-Up Studies",
+          "Humans",
+          "Piperazines",
+          "Psychiatric Status Rating Scales",
+          "Psychotic Disorders",
+          "Quinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18514155/"
+      },
+      {
+        "pmid": "40049117",
+        "title": "Inverse dose-dependent effects of aripiprazole on sexual dysfunction and prolactin levels in patients with schizophrenia.",
+        "abstract": "Aripiprazole, with its distinct pharmacodynamic profile, acts as a partial agonist at dopamine D2 and serotonin 5-HT1A receptors and an antagonist at 5-HT2A receptors, offering a superior safety profile compared to other antipsychotic drugs. The aim of this study was to assess the dose-dependent effects of aripiprazole on sexual dysfunction and prolactin levels in patients with schizophrenia. Patients receiving aripiprazole were recruited for this study. Psychopathology was assessed using the Positive and Negative Syndrome Scale (PANSS), and sexual dysfunction was evaluated with the Arizona Sexual Experiences Scale (ASEX). Fasting blood samples were collected to measure prolactin levels. A total of 128 patients with schizophrenia were recruited, comprising 86 females and 42 males. The prevalence of hyperprolactinemia, hypoprolactinemia, and sexual dysfunction was 12.5%, 47.6%, and 39.1%, respectively. Patients with sexual dysfunction had significantly higher prolactin levels and a high",
+        "journal": "Journal of psychiatric research",
+        "year": "2025",
+        "authors": [
+          "Wu Tzu-Hua",
+          "Goh Kah Kheng",
+          "Chiu Yi-Hang",
+          "Lin Chieh-Hsin",
+          "Chen Chun-Hsin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aripiprazole",
+          "Male",
+          "Female",
+          "Prolactin",
+          "Schizophrenia",
+          "Adult",
+          "Antipsychotic Agents",
+          "Dose-Response Relationship, Drug",
+          "Sexual Dysfunction, Physiological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40049117/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:26:20.799124",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,922 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "head and neck cancer"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00165464",
+      "title": "A Phase II Trial of Taxotere, Cisplatin, and Irinotecan in Advanced Esophageal and Gastric Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-08",
+      "completion_date": "2009-04",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "This is a phase II study of taxotere, cisplatin and irinotecan (CPT-11) used in combination to treat metastatic esophageal and gastric cancer in an effort to see what effects (good and bad) the combination may have on the patients cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed, incurable esophageal or gastric carcinoma (carcinoma = adenocarcinoma or squamous cell carcinoma)\n* Measurable disease \\> 1cm (longest diameter) by spiral CT scan or \\> 2cm by other radiographic technique.\n* Lesions must be measurable in at least one ",
+      "endpoints": [
+        "To assess the response rate of patients with esophageal or gastric carcinoma to weekly Taxotere, Cisplatin, and Irinotecan (CPT-11)."
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00165464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05027204",
+      "title": "A Single-arm, Multicenter, Phase Ib/II Clinical Study of Docetaxel for Injection (Albumin-bound) in Combination With Nivolumab in Patients With Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck (SCCHN) Progressing on or After Platinum-based Therapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-04",
+      "completion_date": "2023-12-31",
+      "country": "China",
+      "enrollment": 94,
+      "brief_summary": "This trial is a single-arm, multicenter phase Ib/II clinical study to evaluate the efficacy and safety of Docetaxel for Injection (Albumin-bound) combined with Nivolumab and the pharmacokinetic characteristics of Docetaxel in patients with recurrent or metastatic SCCHN who are positive for PD-L1 expression and have progressed on or after platinum-based therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years old and voluntarily signed the informed consent form.\n2. Patients with histologically or cytologically confirmed SCCHN (primary tumor located in the oral cavity, oropharynx, larynx or hypopharynx), with positive PD-L1 expression, and who are not suitable for lo",
+      "endpoints": [
+        "Phase Ib: Incidence of adverse events and serious adverse events",
+        "Phase II: Objective response rate (ORR)"
+      ],
+      "sponsor": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05027204"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02753140",
+      "title": "Concurrent Chemoradiotherapy in Locally Advanced Squamous Cell Carcinoma of the Head and Neck Versus Concomitant Cetuximab With Radiotherapy After Neoadjuvant Chemotherapy: a Randomized, Opened, Multicenter Phase II Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-04",
+      "completion_date": "2018-09",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "Verify the effect and the incidence of oral mucositis of concurrent chemoradiotherapy in locally advanced squamous cell carcinoma of the head and neck versus concomitant cetuximab with radiotherapy after neoadjuvant chemotherapy.\n\nThe predictive effect of Apurinic/apyrimidinic endonuclease 1(APE1)/ Ref-1 protein and Apurinic/apyrimidinic endonuclease 1(APE1)/Ref-1 antibody on oral mucositis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed first diagnosis of locally advanced squamous cell carcinoma of the head and neck\n2. Imaging (MRI, CT, bone scan) stage Ⅲ、Ⅳa (T1-2N2M0、T3N0-2M0、T4N0-2M0) (2010AJCC staging criteria)\n3. 18 years of age or older\n4. Presence of at least 1",
+      "endpoints": [
+        "Progression-free survival",
+        "incidence of oral mucositis"
+      ],
+      "sponsor": "Daping Hospital and the Research Institute of Surgery of the Third Military Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02753140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01217060",
+      "title": "Phase IIB Study of Trimodality Management of Clinical T1bN0M0 Cancers of the Esophagus",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2020-06-14",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "The goal of this clinical research study is to learn if giving chemotherapy and radiation therapy before surgery for early-stage esophageal cancer can help to control the disease and if so, for how long. The safety of this treatment will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically documented adenocarcinoma or squamous cell carcinoma of the thoracic esophagus or gastroesophageal junction that are staged as T1b using endoscopic ultrasound (EUS) or from a large biopsy (either criteria # 1 or #2 can be met for eligibility).\n2. Patients who u",
+      "endpoints": [
+        "Pathologic Complete Response (PCR) Rate"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01217060"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02944708",
+      "title": "A Randomized Phase III Trial Evaluating Maintenance Chemotherapy for Metastatic Nasopharyngeal Carcinoma",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-10",
+      "completion_date": "2018-10",
+      "country": "Taiwan, China, Singapore",
+      "enrollment": 384,
+      "brief_summary": "The purpose of this study is to examine the efficacy of maintenance chemotherapy for the treatment of metastatic nasopharyngeal carcinoma. Participants will be randomized to 3 arms. Arm 1, control group, participants will receive only 4-8 cycles of conventional chemotherapy; arm 2, participants will receive 6 cycles of maintenance chemotherapy after conventional chemotherapy; arm 3, experiment arm, after conventional chemotherapy, participants will receive maintenance chemotherapy until disease ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 and ≤ 70 years\n* Histologically confirmed nasopharyngeal carcinoma, WHO (World Health Organization) classification II/III\n* With distant metastasis\n* With measurable lesions that can be detected by imaging studies\n* Achieving PR (partial response) after 4 cycles of co",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "Shanghai Proton and Heavy Ion Center",
+      "url": "https://clinicaltrials.gov/study/NCT02944708"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02969473",
+      "title": "Definitive Concurrent Chemoradiotherapy With Docetaxel Plus Cisplatin Versus 5-fluorouracil Plus Cisplatin in Patients With Esophageal Squamous Cell Carcinoma: a Phase II Randomized Controlled Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2017-05",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "In this phase II study, the investigators aim to evaluated the efficacy and toxicity of definitive concurrent chemoradiotherapy (CCRT) with docetaxel plus cisplatin (DP regimen) versus 5-fluorouracil plus cisplatin (PF regimen) in patients with esophageal squamous cell carcinoma (ESCC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with histologically proven squamous cell carcinoma of the esophagus\n* stage II-IVA disease, including metastatic celiac or cervical nodes, according to the sixth edition of American Joint Committee on Cancer (AJCC) staging system for esophageal cancer\n* aged between 1",
+      "endpoints": [
+        "Overall survival (OS)"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02969473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00169182",
+      "title": "Randomized Study Comparing Induction Chemotherapy With Docetaxel, Cisplatin, 5FU Versus Cisplatin, 5 FU in Patients With T3 and T4 Larynx and Hypopharynx Carcinoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-12-15",
+      "completion_date": "2009-05",
+      "country": "France",
+      "enrollment": 220,
+      "brief_summary": "The purpose of the study is to compare two regimen of chemotherapy used as first treatment for patients with larynx or hypopharynx tumors that would be treated with total laryngectomy. The standard treatment is a combination of 2 drugs (Cisplatin and 5FU). The aim of the study is to evaluate the potential benefit of the addition of a third drug (Docetaxel) in the chemotherapy regimen. Patients will receive 3 cycles of chemotherapy. Responders to the induction treatment are treated with radiation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T3 and T4 larynx and hypopharynx tumor that would be treated with total laryngectomy\n* Biopsy proven carcinoma\n* Adequate biology\n* Performance status 0 or 1\n\nExclusion Criteria:\n\n* Larynx or hypopharynx tumors that could be treated with partial laryngectomy\n* Distant metastas",
+      "endpoints": [
+        "3-years larynx preservation rate"
+      ],
+      "sponsor": "Groupe Oncologie Radiotherapie Tete et Cou",
+      "url": "https://clinicaltrials.gov/study/NCT00169182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04030455",
+      "title": "Immuno-Chemotherapy as Single Treatment Modality for Larynx Preservation (ICoLP)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-08-07",
+      "completion_date": "2026-09-17",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "This phase II trial studies how well cisplatin, docetaxel, and pembrolizumab work in treating patients with stage II-III laryngeal cancer. Drugs used in chemotherapy, such as cisplatin and docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Immunotherapy with monoclonal antibodies, such as pembrolizumab, may help the body's immune system attack the cancer, and may interfere with the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, previously untreated, histologically confirmed stage II to III larynx squamous cell carcinoma will be enrolled in this study\n* A male participant must agree to use a contraception during the treatment period and for at least 150 days after the last dose of stu",
+      "endpoints": [
+        "CBR (After 2 Cycles of PCD) AND pCR (After 4 Cycles of PCD)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT04030455"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00544414",
+      "title": "Multimodality Management of Head and Neck Cancer: A Phase II Trial of Induction Chemotherapy, Organ Preservation Surgery, and Concurrent Chemoradiotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-06-07",
+      "completion_date": "2024-07-02",
+      "country": "N/A",
+      "enrollment": 31,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving combination chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs such as gemcitabine and cisplatin may make tumor cells more sensitive to radiation therapy. Giving combination chemotherapy before su",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed squamous cell carcinoma of the head and neck, including any of the following subtypes:\n\n  * Oral cavity\n  * Oropharynx\n  * Hypopharynx\n  * Larynx\n* Stage III or IV disease\n\n  * Stage II carcinoma of the larynx, hypopharynx, or base of tongue allow",
+      "endpoints": [
+        "Overall Response",
+        "Progression-free Survival"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00544414"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00117572",
+      "title": "A Phase III Randomized Trial of Docetaxel Based Induction Chemotherapy in Patients With N2/N3 Locally Advanced Head and Neck Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2016-12",
+      "country": "Spain, France, Croatia, Russia, United States",
+      "enrollment": 285,
+      "brief_summary": "The combined use of chemotherapeutic drugs with radiation has proven to be effective in improving overall survival and local control among patients with locally advanced head and neck cancer. Induction chemotherapy given before receiving local treatment has been shown to reduce the rate of distant failure. Many drugs have been found to prevent tumor cells from growing or dividing, although it has yet to be determined which agent, or specific combination of agents, is most effective in treating h",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Histologically or cytologically confirmed diagnosis of squamous cell or poorly differentiated carcinomas of the head and neck (excluding lip), or lymphoepithelioma\n* No prior chemotherapy or radiotherapy\n* Prior surgical therapy will consist only of inc",
+      "endpoints": [
+        "Overall Survival: Time From Randomization to Death From Any Cause"
+      ],
+      "sponsor": "University of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT00117572"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02465736",
+      "title": "A Phase III Clinical Trial of Docetaxel Plus Cisplatin Versus Vinorelbine Plus Cisplatin in Neoadjuvant Chemoradiotherapy for Locally Advanced Esophageal Squamous Cell Carcinoma (NEOCRTEC308)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-07",
+      "completion_date": "2025-07",
+      "country": "China",
+      "enrollment": 610,
+      "brief_summary": "The primary objective is to compare docetaxel plus cisplatin (DP) versus vinorelbine plus cisplatin (NP) in neoadjuvant chemoradiotherapy, in terms of the overall survival and toxicity in patients with Stage IIB or III squamous cell esophageal carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologic diagnosis of squamous cell thoracic esophageal carcinoma of Stage T1-4aN1-3M0 or T4aN0M0, according to 7th edition of Union for International Cancer Control (UICC) staging system.\n2. Patients must not have received any prior anticancer therapy.\n3. More than 6 month",
+      "endpoints": [
+        "Overall survival",
+        "Toxicities of neo-adjuvant chemoradiotherapy"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02465736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03413436",
+      "title": "Multicenter Comparative of Toxicity and Effectiveness of Lobaplation or Cisplatin Based Adjuvant Chemotherapy in Esophageal Carcinoma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-01-31",
+      "completion_date": "2018-02-21",
+      "country": "China",
+      "enrollment": 733,
+      "brief_summary": "The multicenter real-world and propensity score matching comparative study was designed to explore the toxicity and effectiveness of Lobaplation or Cisplatin based adjuvant chemotherapy in esophageal carcinoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* i) thoracic ESCC stage II to III; ii) without any preoperation treatment for ESCC; iii) underwent R0 resection; iv) received ajuvant chemotherapy of Cisplatin plus Docetaxel or Lobaplatin plus Docetaxel.\n\nExclusion Criteria:\n\n* i) with ajuvant radiotherapy/chemoradiotherapy; i",
+      "endpoints": [
+        "overall survival"
+      ],
+      "sponsor": "Henan Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03413436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06463834",
+      "title": "A Study of Sintilimab Combined With Chemotherapy for Neoadjuvant Treatment of Esophageal Squamous Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-03-20",
+      "completion_date": "2028-03-19",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "This study is aimed to evaluate the efficacy and safety of sintilimab combined with chemotherapy (docetaxel+cisplatin+5-fluorouracil, DCF) in neoadjuvant treatment of locally advanced esophageal squamous cell carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ≥18 years old and ≤75 years old\n* Esophageal squamous cell carcinoma diagnosed biopsy histopathology\n* The primary tumor is located in the middle of the esophagus and T1b-3N1-3M0 /M1 or T3N0M0 diagnosed by CT/MRI/EUS (AJCC 8th)\n* At least one measurable lesion\n* Eastern cooper",
+      "endpoints": [
+        "Pathological complete response"
+      ],
+      "sponsor": "Fujian Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06463834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02512315",
+      "title": "4 Cycles Of Neoadjuvant Chemotherapy Plus Concurrent Chemoradiation Versus Concurrent Chemoradiation Alone In Patients With Stage N2-3 Nasopharyngeal Carcinoma: A Phase 3 Multicenter Randomised Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-08",
+      "completion_date": "2024-12",
+      "country": "China",
+      "enrollment": 192,
+      "brief_summary": "The standard treatment strategy of locally advanced nasopharyngeal carcinoma (NPC) nowadays is concurrent chemoradiation (CCRT) based on intensity-modulated radiation therapy (IMRT). However, distant metastasis remains the major cause of treatment failure, especially in patients with T1-4N2-3M0 diseases (N2-3 NPC). The investigators inferred that it was more appropriate to consider N2-3 NPC as a systemic disease instead of a local disease. NACT of sufficient intensity such as 4 cycles might be e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with pathological diagnosis of nasopharyngeal carcinoma\n* Union Internationale Contre le Cancer/American Joint Cancer Committee (UICC/AJCC) 2010 Stage T1-4 N2-3 M0 through magnetic resonance imaging of head and neck, whole-body bone scan and thoracoabdominal computed ",
+      "endpoints": [
+        "5-year overall survival (5y-OS)",
+        "5-year distant-metastasis-free survival (5y-MFS)"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02512315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00006038",
+      "title": "A Phase II Trial of Neoadjuvant Cisplatin-Fluorouracil-Docetaxel Chemotherapy, Surgery, and Intraperitoneal (IP) Floxuridine (FUdR) Plus Leucovorin in Patients With Locally Advanced Gastric Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-02",
+      "completion_date": "2003-02",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Giving chemotherapy drugs in different ways may kill more tumor cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy followed by surgery and intraperitoneal chemotherapy in treating patients who have locally advanced stomach cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically proven locally advanced adenocarcinoma of the stomach or gastroesophageal (GE) junction that is potentially curable by surgery Patients with tumors involving the GE junction must have the bulk of their disease in the stomach No tumors of the distal esophagus o",
+      "endpoints": [],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00006038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03360890",
+      "title": "Synergy of Pembrolizumab Anti-PD-1 Immunotherapy With Chemotherapy for Poorly Chemo-responsive Thyroid and Salivary Gland Tumors. The iPRIME Study.",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-03-26",
+      "completion_date": "2032-09",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "Phase II, 2-cohort, single arm trial treated with the combination of the following two agents:\n\n1. Pembrolizumab (MK3475) 200mg, every three weeks, iv\n2. Docetaxel 75mg/m2, every three weeks, iv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed disease that is unresectable and not amenable to curative intent therapy:\n\n  1. Cohort A: salivary gland cancers (mucoepidermoid carcinoma, adenocarcinoma, adenoidcystic carcinoma, acinic cell carcinoma, or other histology) originati",
+      "endpoints": [
+        "Rate of response"
+      ],
+      "sponsor": "University of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT03360890"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01608464",
+      "title": "A Trial Comparing Pre-operative Chemo-radiotherapy With Cisplatin and Fluorouracil Versus Chemotherapy With Docetaxel and Irinotecan in PET Non Responders Resectable Cancer Esophagus: a Multicenter Study",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-05",
+      "completion_date": "2015-09",
+      "country": "Saudi Arabia",
+      "enrollment": 170,
+      "brief_summary": "The purpose of this study is to improve their outcome by either changing the chemotherapy drugs or giving them radiation therapy with concurrent chemotherapy, hoping that this will improve their outcome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically proven squamous cell or adenocarcinoma of the thoracic esophagus and gastro-esophageal junction.\n* No distant metastases.\n* Signed written informed consent.\n* Age less than 75 years.\n* Potentially resectable tumor (radiological evidence of resection with no resi",
+      "endpoints": [
+        "Pathological Complete Response ( regression score 1a- see response assessment) in each treatment group"
+      ],
+      "sponsor": "King Faisal Specialist Hospital & Research Center",
+      "url": "https://clinicaltrials.gov/study/NCT01608464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01149902",
+      "title": "Phase I Study of Chemo-Immunotherapy in Patients With Relapsed and Refractory Head and Neck Squamous Cell Carcinoma",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2010-07",
+      "completion_date": "",
+      "country": "Japan",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to determine safety and feasibility of Chemo-Immunotherapy using cyclophosphamide, docetaxel, OK-432, and autologous immature dendritic cells for patients with relapsed and refractory head and neck squamous cell carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The patients with relapsed and refractory head and neck squamous cell carcinoma\n2. 20 years and older\n3. ECOG performance status 0-1\n4. More than 4 weeks must have elapsed from the time of radiation therapy and the last dose of chemotherapy\n5. Tumor lesions are accessible to ",
+      "endpoints": [
+        "The safety and feasibility of chemo-immunotherapy"
+      ],
+      "sponsor": "University of Yamanashi",
+      "url": "https://clinicaltrials.gov/study/NCT01149902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01204099",
+      "title": "Phase 1/2 Study of PX-866 and Docetaxel in Patients With Solid Tumors",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2014-02",
+      "country": "Canada, United States",
+      "enrollment": 223,
+      "brief_summary": "Phase 1: To determine the maximally tolerated dose (MTD) or recommended dose (RD) and any potential efficacy of PX-866 in combination with docetaxel in patients with solid tumors.\n\nPhase 2: To determine the antitumor activity and safety of PX-866 in combination with docetaxel versus docetaxel alone in patients with NSCLC or SCCHN.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years at time of consent\n* Agrees to use a medically accepted form of contraception from the time of consent to completion of all follow up study visits\n* If female of child bearing potential, negative pregnancy test (not required for post menopausal females)\n* Sig",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Seagen Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01204099"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02997332",
+      "title": "Phase I Trial Evaluating the Safety of Durvalumab in Combination With Docetaxel, Cisplatin and 5-FU in Induction for Locally Advanced Head and Neck Squamous Cell Carcinoma",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2017-03-30",
+      "completion_date": "2019-12",
+      "country": "France",
+      "enrollment": 36,
+      "brief_summary": "The prognosis of patients with locally advanced SCCHN is poor. Results of recent randomized trials evaluating induction chemotherapy by docetaxel, cisplatin, 5 fluorouracil are conflicting, and benefit on overall survival is uncertain. Improve efficacy of induction chemotherapy is important without increase toxicities. Durvalumab is a promising agent in SSCHN. The safety of combination of docetaxel, cisplatin, 5 fluorouracil with durvalumab is unknown.\n\nThe aim of the study is to evaluate the fe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years and \\< 75 years\n2. Histologically or cytologically confirmed squamous cell carcinoma of the oral cavity, oropharynx, larynx or hypopharynx, previously untreated, amenable to induction chemotherapy according to the investigator. Patients with a diagnosis of SCCH",
+      "endpoints": [
+        "Recommended Phase 2 dose (RP2D)",
+        "Number of Dose Limiting Toxicity (DLT)"
+      ],
+      "sponsor": "Gustave Roussy, Cancer Campus, Grand Paris",
+      "url": "https://clinicaltrials.gov/study/NCT02997332"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02434614",
+      "title": "A Randomized Phase III Non-inferiority Study of Induction Chemotherapy Followed by IMRT Alone Versus Induction Chemotherapy Followed by IMRT Plus Concurrent Chemotherapy in Locoregionally Advanced Nasopharyngeal Carcinoma",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-03",
+      "completion_date": "2021-12",
+      "country": "China",
+      "enrollment": 440,
+      "brief_summary": "Several prospective randomized trials have demonstrated that concurrent chemoradiotherapy was superior to radiotherapy alone in the treatment of locoregionally advanced nasopharyngeal carcinoma (NPC). Based on these evidences, concurrent chemoradiotherapy (CCRT) with/without sequential chemotherapy has become the standard care for locoregionally advanced NPC. However, most of these evidences of standard treatment for locoregionally advanced NPC were based on the two-dimensional conventional radi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients with newly histologically confirmed non-keratinizing (according to WHO histologically type); Tumor staged as III-IVb (according to the 7th AJCC edition); No pregnant female; Age between 18-70; Normal complete blood count level (hemoglobin \\>10 g/dL, white blood cells ≥4",
+      "endpoints": [
+        "Progression-free Survival"
+      ],
+      "sponsor": "Guilin Medical University, China",
+      "url": "https://clinicaltrials.gov/study/NCT02434614"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00120939",
+      "title": "Phase I Trial of Motexafin Gadolinium (MGd) and Docetaxel Chemotherapy in the Treatment of Advanced Solid Tumors",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "The primary purpose of this study is to evaluate the safety, side effects, and dosage for Motexafin Gadolinium given with the chemotherapy drug docetaxel to patients with advanced cancers. Secondly, tumor response to the combined treatment, drug levels in the body, and drug interactions will be evaluated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years old\n* Metastatic, or unresectable solid tumors from breast, head, and neck, gastrointestinal, genitourinary, lung, or ovarian cancer or recurrent glioblastoma multiforme\n* ECOG performance status score either 0, 1, or 2\n* Willing and able to provide written i",
+      "endpoints": [
+        "Determine the Dose Limiting Toxicity at 8 weeks (2 cycles), and the Maximum Tolerated Dose at 24 weeks."
+      ],
+      "sponsor": "Pharmacyclics LLC.",
+      "url": "https://clinicaltrials.gov/study/NCT00120939"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00525200",
+      "title": "p53-Adjusted Neoadjuvant Chemotherapy for Potentially Resectable Esophageal Cancer: A Multicenter, Randomized Controlled, Predictive Marker Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2012-12",
+      "country": "Austria",
+      "enrollment": 170,
+      "brief_summary": "Study Hypothesis:\n\nPANCHO is a prospective randomized, predictive marker study, evaluating the interaction between the potential predictive marker 'p53 genotype' and response to induction chemotherapy in patients with esophageal cancer considered resectable.\n\n170 patients with measurable disease will be enrolled in this study. After testing the marker genotype (two genotypes: p53 normal or p53 mutant) patients will be stratified according to histological subtype only (adeno- or squamous cell car",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological verification of esophageal cancer\n* Presence of T2,T3,T4 or any N1 (except M1)\n* Clinically measurable lesions according to RECIST criteria\n* Males and females, age \\>18 to 75 or older with WHO performance status 1\n* No prior tumor therapy for esophageal cancer\n* ",
+      "endpoints": [
+        "Tumor response (clinical and pathological) to neoadjuvant treatment in relation to p53 genotype"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT00525200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00599131",
+      "title": "A Phase II Organ Preservation Trial Using Cetuximab and Radiation Therapy in Advanced Laryngeal Cancer Patients Who Have Responded to One Cycle of Induction Chemotherapy With Taxotere, Cisplatin, 5-Fluorouracil (TPF), and Cetuximab",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-08",
+      "completion_date": "2010-10",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "The purpose of this study is to learn how to identify early which patients will respond to chemotherapy plus radiation therapy in order to reduce the number of subjects who require surgery (followed by radiation therapy).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have pathologically confirmed, previously untreated, resectable, squamous cell carcinoma of the larynx.\n* Disease must be Stage III or IV.\n* Tumor must be potentially surgically resectable and curable with conventional surgery and radiation therapy.\n* Patients mu",
+      "endpoints": [
+        "Percentage of Patients Achieving Histologic Complete Response"
+      ],
+      "sponsor": "University of Michigan Rogel Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00599131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00405405",
+      "title": "A Phase I Study of the Combination of Chemoradiotherapy With Biologic Therapy for Advanced Head and Neck Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2010-06",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "To determine a safe and effective doses of two biologic drugs, erlotinib and bevacizumab when used with chemotherapy and radiation therapy in advanced head and neck cancer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Locally advanced Carcinoma (epithelial malignancy) of the head and neck. This may include non-squamous carcinomas (e.g. parotid, thyroid, melanoma) in which a large portion of mucosa of the oral cavity and/or laryngopharynx is expected to be irradiated.\n* Stage IV disease (T4N",
+      "endpoints": [
+        "Bevacizumab and Erlotinib Combined with Chemoradiotherapy for the Treatment of Advanced Head and Neck Cancer"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT00405405"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05322499",
+      "title": "Phase II Clinical Study of Camrelizumab Combined With Chemotherapy or Anlotinib in Second-line or Above Therapy for Advanced Esophageal Squamous Cell Cancer Previously Treated With First-line Immunotherapy",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-15",
+      "completion_date": "2025-04-15",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "To observe and evaluate the efficacy and safety of camrelizumab combined with chemotherapy or anlotinib in patients with advanced esophageal squamous cell carcinoma previously Treated With First-line Immunotherapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-75 years old, male or female;\n2. Participants signed and dated written informed consent. (Informed consent forms must be signed prior to any protocol-related procedures that are not part of the participant's routine medical care.);\n3. Patients with advanced esophageal ",
+      "endpoints": [
+        "Objective response rate (ORR)"
+      ],
+      "sponsor": "Zhejiang Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05322499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03117257",
+      "title": "A Prospective Phase II Randomized Clinical Trial: Docetaxel and Loplatin Induction Chemotherapy Followed by Concurrent Lobaplatin Chemoradiotherapy for Locally Advanced Head and Neck Squamous Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-08-19",
+      "completion_date": "2021-08-20",
+      "country": "China",
+      "enrollment": 144,
+      "brief_summary": "This study is to observe and compare the safety and tolerability of docetaxel plus lobaplatin induction chemotherapy combined with lopoplatin chemoradiotherapy and TPF induction chemotherapy combined with cisplatin chemoradiotherapy in the treatment of locally advanced head and neck squamous cell carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntary participation and written informed consent\n2. Age 18-70 years old, gender is not limited\n3. histologically proved to be squamous cell carcinoma\n4. No surgery: head and neck squamous cell carcinoma 2010UICC staging Ⅲ - ⅣA, ⅣB period.\n\n   After surgery: 2010UICC stagi",
+      "endpoints": [
+        "National Cancer Institute CTCAE v4.0",
+        "evaluation of immediate efficacy"
+      ],
+      "sponsor": "Guiyang Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT03117257"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00915850",
+      "title": "Phase I/II Trial of Combination Chemotherapy With Docetaxel, Cisplatin and 5-FU for Unresectable Advanced Esophageal Cancer.",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-08",
+      "completion_date": "2015-08",
+      "country": "Japan",
+      "enrollment": 32,
+      "brief_summary": "This phase I/II study is being conducted to determine the maximum-tolerated dose (MTD), dose-limiting toxicity (DLT), and efficacy of a combination chemotherapy using docetaxel, cisplatin and 5-fluorouracil (DCF) in unresectable advanced esophageal cancer. The usefulness of the this regimen is evaluated by RECIST, time to progression and median survival time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* locally advanced or metastatic esophageal cancer precluding curative surgical resection and recurrent esophageal cancer measurable disease by CT scan\n* ECOG performance status 0-1\n* 20 years and older\n* Patients must have clinically documented unresectable or metastatic esopha",
+      "endpoints": [
+        "Safety (Phase I: toxicities as assessed by NCI CTCAE version3) and efficacy (Phase II: Feasibility as evaluated by RECIST)"
+      ],
+      "sponsor": "Wakayama Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT00915850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01126008",
+      "title": "A Phase II Trial of Concurrent Chemoradiotherapy With Weekly Docetaxel and Cisplatin for Locally Advanced Head and Neck Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-11-16",
+      "completion_date": "2016-04-15",
+      "country": "South Korea",
+      "enrollment": 44,
+      "brief_summary": "This phase II trial is evaluating the efficacy of concurrent chemoradiation therapy with weekly docetaxel and cisplatin combination regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed squamous cell carcinoma of the head and neck (SCCHN) of one of following sites : oral cavity, oropharynx, larynx, or hypopharynx\n2. Unresectable Stage III - ⅣB disease\n3. previously untreated for head \\& Neck cancer with chemotherapy or radiotherapy\n4",
+      "endpoints": [
+        "Complete response rate"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01126008"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03894891",
+      "title": "Sequential Therapy With Induction TPN Followed by Nivolumab With Radiation in Locoregionally Advanced Laryngeal and Hypopharyngeal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-06-11",
+      "completion_date": "2022-12-16",
+      "country": "United States",
+      "enrollment": 6,
+      "brief_summary": "This research is being performed to treat patient for head and neck cancer patients who have not received prior chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must have histologically or cytologically confirmed, resectable or unresectable, Stage III or Stage IV locoregionally advanced squamous cell carcinoma of the larynx or hypopharynx, as defined by 2017 American Joint Committee on Cancer (AJCC), 8th edition\n* Willing to p",
+      "endpoints": [
+        "Median Laryngectomy-free Survival (LFS)"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03894891"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06219980",
+      "title": "A Phase II Study of SBRT Followed by Neoadjuvant Chemoimmunotherapy of Sindilizumab Plus Docetaxel and Cisplatin for Locoregionally Advanced Squamous Carcinoma of Oral Cavity and Oropharynx",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-12-07",
+      "completion_date": "2026-12-07",
+      "country": "China",
+      "enrollment": 25,
+      "brief_summary": "In resectable locally advanced oral cavity cancer and oropharyngeal cancer, SBRT with the total dose of 18 Gy by three fractions will be delivered to the primary tumor and metastatic lymph nodes every other day. One week later, neoadjuvant chemoimmunotherapy of Sindilizumab (200mg) plus docetaxel (75mg/m2) and cisplatin (75mg/m2) will be administered every three weeks for three cycles. Then radical surgical resection will be performed and postoperative radiotherapy with or without chemotherapy w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* pathologically confirmed squamous carcinoma of oral cavity or oropharynx\n* III-IVa based on the eighth edition of AJCC\n* aged 18 to 70\n* ECOG PS 0-1\n* no organ dysfunction\n* Expected survival ≥ 3 months\n\nExclusion Criteria:\n\n* diagnosed with other malignant tumors\n* has autoim",
+      "endpoints": [
+        "rate of pathological complete response"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06219980"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00448760",
+      "title": "A Nonrandomized Phase II Study: Feasibility and Outcome of Neo Adjuvant Chemotherapy With Oxaliplatin, Fluorodeoxyuridine (FUdR), Taxotere and Leucovorin in the Treatment of Previously Untreated Advanced Esophago-Gastric Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2010-04",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as oxaliplatin, floxuridine, docetaxel, and leucovorin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Giving chemotherapy before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed.\n\nPURPOSE: This phase II trial is studying how well combination chemother",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of adenocarcinoma of the esophagus meeting the following criteria:\n\n  * Stage II or III disease\n  * Resectable disease\n  * Previously untreated disease\n* No stage I (mucosal only) or stage IV (metastatic) disease\n\nPATIENT CHARACTERISTICS:\n\n* WBC \\> 3,000/mm\\^3\n*",
+      "endpoints": [
+        "Pathologic Complete Response"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT00448760"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05383482",
+      "title": "A Phase I/II Dose-Escalation and Efficacy/Safety Study of Afuresertib Plus Sintilimab Plus Chemotherapy in Patients With Selected Solid Tumors That Resistance to Prior Anti-PD-1/PD-L1 Treatment",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-07-01",
+      "completion_date": "2024-07-18",
+      "country": "China",
+      "enrollment": 22,
+      "brief_summary": "This is a multicenter, open-label, dose-escalation and efficacy/safety Phase I/II study to assess RP2D, safety, tolerability and anti-tumor activity of Sintilimab + afuresertib + nab-paclitaxel or docetaxel administered as a combination therapy.\n\nThis study is designed to identify the MTD and recommended Phase II dose (RP2D) of afuresertib in combination with sintilimab and nab-paclitaxel or docetaxel, respectively, to characterize the PK profile of afuresertib in phase I and to evaluate clinica",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Be \\>=18 years of age on the day of signing the informed consent and be able to provide written informed consent for the trial.\n2. Prior treatments:\n\n   * In phase I, patients had at least 1 prior systemic anti-cancer treatment (including neoadjuvant/adjuvant therapy are qual",
+      "endpoints": [
+        "Phase I: Frequency and severity of Adverse Events (AEs),including incidence rate of DLTs",
+        "Phase I: Recommended Phase II dose",
+        "Phase II: Overall Response Rate (ORR) based on RECIST 1.1"
+      ],
+      "sponsor": "Laekna Limited",
+      "url": "https://clinicaltrials.gov/study/NCT05383482"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03114280",
+      "title": "Induction Therapy With Docetaxel, Cisplatin, 5-Fluoro Uracil and Pembrolizumab in Untreated Locally-advanced Unresectable Squamous Cell Head and Neck Carcinoma (Pembrolizumab and Induction Chemotherapy in Head and Neck Squamous Cell Carcinoma. PICH Study)",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2019-03-12",
+      "completion_date": "2019-03-12",
+      "country": "France",
+      "enrollment": 0,
+      "brief_summary": "Non-randomized phase I/II, open-labeled clinical study, 1-arm, multicenter, of docetaxel (T), cisplatin (P), 5-fluorouracil (F) and pembrolizumab every 21 days for 3 cycles followed by radiotherapy (RT) combined with carboplatin in untreated unresectable locally-advanced Head and Neck Squamous Cell Carcinoma (HNSCC).\n\nThe TPF and pembrolizumab combination will be called TP²F.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be eligible for participation in this trial, the subject should fulfill the following criteria:\n\n1. Age \\> or = 18 and \\< 70 years years at the time of signing informed consent,\n2. Histologically or cytologically confirmed head and neck squamous-cell carcinoma (oral cavity, o",
+      "endpoints": [
+        "Phase I : Evaluation of Recommended dose for phase II and characterization of the safety and tolerability profile of pembrolizumab when administered in combination with docetaxel, cisplatin and 5 Fluorouracil",
+        "Phase II : Progression-free survival"
+      ],
+      "sponsor": "Centre Antoine Lacassagne",
+      "url": "https://clinicaltrials.gov/study/NCT03114280"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01640860",
+      "title": "A Phase II Study of Concurrent Chemoradiotherapy With Weekly Docetaxel and Cisplatin in Inoperable Esophageal Cancer",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2011-12",
+      "country": "South Korea",
+      "enrollment": 36,
+      "brief_summary": "This study is designed to determined the feasibility and safety in advanced esophageal cancer treated with docetaxel and cisplatin cocurrent chemoradiotherapy. The primary end points were clinical best response and response rate and secondary endpoints were progression free survival and overall survival.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18\\<age\\<75 years\n2. histologically proven and previously untreated SCC of the esophagus\n3. WHO performance status(PS)≤2\n4. absolute neutrophil count≥2,000/uL, platelet count≥100,000/uL\n5. adequate renal and hepatic function\n6. No prior chemotherapy but prior adjuvant chemoth",
+      "endpoints": [
+        "Response rate"
+      ],
+      "sponsor": "Chonnam National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01640860"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06469060",
+      "title": "Tislelizumab Combined With Chemotherapy as Neoadjuvant Regimen for AdenoCarcinoma of the Esophagogastric Junction: a Single-arm, Phase II Clinical Trial (TRACE)",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-06-19",
+      "completion_date": "2027-06-30",
+      "country": "China",
+      "enrollment": 34,
+      "brief_summary": "The investigators will conduct a prospective phase 2 study to evaluate the efficacy and safety of a modified neoadjuvant immunotherapy plus chemotherapy (one cycle of Tislelizumab monotherapy followed by four cycles of Tislelizumab plus Docetaxel, Oxaliplatin and Capecitabine) in patients with locally advanced resectable adenocarcinoma of the esophagogastric junction (AEG).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects signed the informed consent and volunteered to participate in the study.\n2. Primary resectable, histologically confirmed Adenocarcinoma of the Esophagogastric junction (clinical stage T1-T4aN1-3M0 or T3-T4aN0M0, AJCC 8th).\n3. Expect to have R0 resection\n4. Age 18 or ",
+      "endpoints": [
+        "pCR rate"
+      ],
+      "sponsor": "Shanghai Chest Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06469060"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02610556",
+      "title": "Concurrent Docetaxel Plus Cisplatin or Cisplatin Alone With Intensity-modulated Radiotherapy in High Risk Locregionally Advanced Nasopharyngeal Carcinoma: a Phase 2 Randomized Controlled Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-01",
+      "completion_date": "2022-01",
+      "country": "China",
+      "enrollment": 130,
+      "brief_summary": "The investigators aim to evaluate the efficiency and toxicities of concurrent docetaxel and cisplatin with intensity-modulated radiotherapy in high risk locoregionally advanced nasopharyngeal carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly histologically confirmed non-keratinizing (WHO 1991) nasopharyngeal carcinoma.\n* Tumor staged as T1N3M0, T2-3N2-3M0 or T4N0-3M0 (the 2010 UICC/AJCC staging system).\n* Pretreatment EBV DNA ≥ 1500 copies/mL.\n* Karnofsky scale (KPS) ≥ 70.\n* Adequate marrow: leucocyte count ",
+      "endpoints": [
+        "overall survival"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02610556"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00978549",
+      "title": "Randomised Phase III Study of Docetaxel vs Active Symptom Control in Patients With Relapsed Oesophago-gastric Adenocarcinoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-10",
+      "country": "United Kingdom",
+      "enrollment": 320,
+      "brief_summary": "RATIONALE: Analgesics, antiemetics, steroids, and radiation therapy are effective in helping to control symptoms caused by cancer. It is not yet known whether these treatments are more effective when given with or without docetaxel in treating patients with relapsed esophageal cancer or stomach cancer.\n\nPURPOSE: This randomized phase II trial is studying symptom control given together with docetaxel to see how well it works compared with symptom control given without docetaxel in treating patien",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the esophagus or stomach, including adenocarcinoma of the esophagogastric junction\n\n  * Advanced disease not amenable to curative treatment\n  * Documented progressive disease while receiving or within 6 months of completion of fi",
+      "endpoints": [
+        "Overall survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00978549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00623558",
+      "title": "A Randomized, Multicenter, Open Phase II Study of Cetuximab With Docetaxel, Cisplatin as Induction Chemotherapy in Unresectable, Locally Advanced Head and Neck Squamous Cell Carcinoma (HNSCC)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2013-08",
+      "country": "South Korea",
+      "enrollment": 92,
+      "brief_summary": "The aim of the study is to investigate the efficacy and safety of cetuximab, docetaxel, cisplatin combination as induction therapy in locally advanced head and neck squamous cell carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Unresectable, locally advanced (cT4b \\&/or cN2-3) HNSCC\n* ECOG performance status 0-1\n* Age 18 or older than 18 years\n* Measurable disease by RECIST criteria\n* Having signed informed consent\n* ALT and AST\\<2.5 times ULN\n* Serum albumin level ≥3.0g/dL\n* Serum AKP \\< 2.5 times U",
+      "endpoints": [
+        "Response rate"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00623558"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01928524",
+      "title": "Phase I Trial With Docetaxel, Oxaliplatin and S1 as First-line Treatment for Patients With Non-resectable Adenocarcinoma of the Esophagus or Gastric",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2015-12-17",
+      "country": "Denmark",
+      "enrollment": 34,
+      "brief_summary": "The purpose of this study is to determine maximal tolerable dose (MTD) of the combination of docetaxel, oxaliplatin and S1 (DOS) to patients with gastric cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histological proven adenocarcinoma of the esophagus or the ventricle (ECV), and which cannot be treated curatively.\n2. Age ≥ 18 years.\n3. WHO performance status 0-1.\n4. Neutrophils ≥ 1,5 x 109/L and platelets ≥ 100 x 109/L.\n5. Bilirubin ≤ 1,5 x UNL (Upper Normal Limit) and AS",
+      "endpoints": [
+        "Median Overall Survival"
+      ],
+      "sponsor": "Odense University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01928524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00137813",
+      "title": "Phase II Study of Bevacizumab and Docetaxel (AvaTax) in Metastatic Esophagogastric Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to determine what effects (good and bad) bevacizumab (Avastin) and docetaxel (Taxotere), used in combination, have on metastatic gastric and esophageal cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed, unresectable or metastatic stage IV esophageal or gastric carcinoma\n* Measurable disease greater than or equal to 1cm by spiral computed tomography (CT) scan or greater than or equal to 2cm by other radiographic technique\n* ECOG performance status 0-2",
+      "endpoints": [
+        "To evaluate the overall response and safety of the combination docetaxel and bevacizumab in patients with esophageal or gastric cancer"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00137813"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03604965",
+      "title": "A Multicenter, Randomized Controlled Phase III Clinical Trial of GP Induction Chemotherapy With TPF Adjuvant Chemotherapy Combined With DDP Concurrent Chemoradiotherapy in the Treatment of Locally Advanced Nasopharyngeal Carcinoma",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2018-07-21",
+      "completion_date": "2020-07-21",
+      "country": "China",
+      "enrollment": 204,
+      "brief_summary": "Through randomized controlled phase III multicenter clinical trials, GP induction chemotherapy vs TPF regimen adjuvant chemotherapy combined with DDP concurrent chemoradiotherapy for the treatment of locally advanced nasopharyngeal carcinoma: the efficacy, toxicity and quality of life, and further improvement Survival rate and improve the quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. In the newly diagnosed patient, no radiotherapy or chemotherapy was performed before the start of the clinical trial.\n2. Pathologically confirmed as non-keratinizing nasopharyngeal carcinoma (differentiated or undifferentiated, ie WHO type II or III).\n3. III, IVa patients (AJ",
+      "endpoints": [
+        "Progress-free survival(PFS)"
+      ],
+      "sponsor": "Guiyang Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT03604965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07222657",
+      "title": "Phase 2 Randomized Trial Of Liquid Nitrogen Spray Cryotherapy Prior To Neoadjuvant Systemic Therapy In Locally Advanced Esophageal Adenocarcinoma",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-11",
+      "completion_date": "2027-09",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This research study is for people who have locally advanced esophageal adenocarcinoma and are expected to receive chemotherapy. The purpose of this study is to compare the effectiveness of Liquid Nitrogen Spray Cryotherapy (LNSC) in addition to chemotherapy versus chemotherapy alone in the treatment of esophageal adenocarcinoma. LNSC is an FDA approved device that works by using liquid nitrogen to rapidly cool cancerous tissue causing cell damage. Participants in this study will be randomly assi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults with locally advanced EAC who are expected to receive FLOT +/-Durvalumab will be eligible to participate.\n* Locally advanced esophageal cancer is defined as TNM stages T1N+M0 or T2-T4aNanyM0, as defined by endoscopic ultrasound (EUS) and PET-CT.\n\nExclusion Criteria:\n\n* ",
+      "endpoints": [
+        "Complete response (CR) rates"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT07222657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01064479",
+      "title": "A Randomized, Placebo-Controlled, Phase 2 Study of Docetaxel and Cisplatin/Carboplatin With or Without Erlotinib in Patients With Metastatic or Recurrent Squamous Cell Carcinoma of the Head and Neck",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-02-05",
+      "completion_date": "2020-11-03",
+      "country": "United States",
+      "enrollment": 123,
+      "brief_summary": "This randomized phase II trial studies how well combination chemotherapy with or without erlotinib hydrochloride works in treating patients with squamous cell carcinoma of the head and neck that has spread to other parts of the body or has come back. Drugs used in chemotherapy, such as docetaxel, cisplatin, and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Erlotinib hydrochlo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic or recurrent squamous cell carcinoma of the head and neck (SCCHN) of the oral cavity, oropharynx, hypopharynx or larynx; metastatic or recurrent lesions of the nasopharynx and sinus are excluded\n* Radiologically measurable disease, defined a",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01064479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01262859",
+      "title": "Pilot Study of Induction Docetaxel, Cisplatin, Cetuximab and Bevacizumab (TPE-A) Followed by Concurrent Radiation, Cisplatin, Cetuximab and Bevacizumab (XPE-A) in Patients With Locally Advanced Head and Neck Cancer",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2010-12",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Induction chemotherapy is gaining momentum in the management of locally advanced squamous cell carcinoma of the head and neck (SCCHN). The combination of docetaxel, cisplatin, and 5-FU (TPF) was superior compared with PF in a Phase III clinical trials73,74. We have completed a Phase II clinical trial that showed that docetaxel, cisplatin, and cetuximab (TPE) is highly active and well tolerated as induction chemotherapy in SCCHN (Argiris et al. ASCO 2008; A6002). Preliminary survival results are ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with AJCC 6th edition stage III-IVB head and neck cancer, all sites, including unknown primary tumors.\n* Prior to entry in the study the resectability and alternative treatment options for each patient will be determined by a team composed of an Ear, Nose, and Throat ",
+      "endpoints": [
+        "Response rate"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01262859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00084435",
+      "title": "Adjuvant Chemo-RT With Cisplatin (NSC-119875) and Docetaxel (NSC-628503) After Complete Resection of Locally Advanced (Stage III and IV) Squamous Cell Carcinoma of the Head and Neck (SCCHN)",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2005-07",
+      "completion_date": "2007-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cisplatin and docetaxel, work in different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Cisplatin and docetaxel may make the tumor cells more sensitive to radiation therapy. Giving chemoradiotherapy after surgery may kill any remaining tumor cells.\n\nPURPOSE: This phase II trial is studying how well adjuvant chemoradiotherapy using cisplatin and docetaxel works in",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of squamous cell carcinoma of the head and neck\n\n  * Selected stage III or IV (no distant metastasis) disease\n\n    * The following TNM stages are excluded:\n\n      * T3, N0, M0\n      * T4a, N0, M0\n      * T4b, N3, M0\n      * Any T, any N, M1\n* Complete total rese",
+      "endpoints": [
+        "Disease progression",
+        "Disease-free survival",
+        "Symptomatic deterioration"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00084435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01551589",
+      "title": "Multicenter Prospective Randomized Phase III Trial Comparing Elective to Prophylactic Regional Lymph Node Irradiation for Thoracic Esophageal Cancer",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2017-07",
+      "country": "China",
+      "enrollment": 220,
+      "brief_summary": "This study examines contrast advantages and disadvantages of elective or prophylactic nodal irradiation in the treatment of esophageal cancer with three-dimensional conformed radiotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 and ≤ 80\n2. ECOG performance status 0-2\n3. Weight is not less than 90% of it before treatment\n4. Histologically proven primary thoracic esophageal squamous cell carcinoma previously untreated stage I-III\n5. Chest and abdominal contrast enhanced CT within 2 weeks prio",
+      "endpoints": [
+        "radiation pneumonitis and radiation esophagitis"
+      ],
+      "sponsor": "The Second People's Hospital of Sichuan",
+      "url": "https://clinicaltrials.gov/study/NCT01551589"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00139230",
+      "title": "TPLF-4, Compressed TPLF for Locally Advanced Squamous Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1997-01",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to further test a combination chemotherapy regimen for the treatment of squamous cell carcinoma of the head and neck and to see if the addition of supportive medicine can help reduce the side effects of these drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologic confirmation of squamous cell carcinoma of head and neck.\n* All patients with previously untreated Stage III or IV.\n* Measurable disease\n* Complete recovery from previous diagnostic or therapeutic procedures.\n* Life expectancy greater than 3 months\n* Creatinine less",
+      "endpoints": [
+        "To evaluate the safety of a four day regimen of taxotere, cisplatin, 5-fluorouracil and high-dose leucovorin with growth factor support and ciprofloxacin."
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00139230"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06194734",
+      "title": "A Randomized, Controlled, Open-label, Multicenter Phase III Study to Evaluate the Efficacy and Safety of KC1036 Versus Investigator's Choice of Chemotherapy as Third-line Therapy in Patients With Advanced Esophageal Squamous Cell Carcinoma",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-05",
+      "completion_date": "2027-12-30",
+      "country": "China",
+      "enrollment": 490,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of KC1036 versus investigator's choice of chemotherapy in patients with advanced recurrent or metastatic esophageal squamous cell carcinoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females aged 18 to 75 years;\n* Histologically or cytologically confirmed esophageal or esophageal-gastric junction squamous cell carcinoma;\n* Patient with advanced recurrent or metastatic esophageal squamous cell carcinoma previously treated with a PD-1 or PD-L1 inhib",
+      "endpoints": [
+        "Overall survival (OS)"
+      ],
+      "sponsor": "Beijing Konruns Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06194734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00003908",
+      "title": "Evaluation of the Combination of Docetaxel (Taxotere)/ Carboplatin in Patients With Metastatic or Recurrent Squamous Cell Carcinoma of the Head and Neck (SCCHN)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1999-11",
+      "completion_date": "2007-01",
+      "country": "United States",
+      "enrollment": 68,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die.\n\nPURPOSE: Phase II trial to study the effectiveness of docetaxel plus carboplatin in treating patients who have metastatic or recurrent head and neck cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically proven squamous cell carcinoma of the head and neck Metastatic disease at diagnosis OR Persistent, metastatic or recurrent disease following surgery and/or radiotherapy No newly diagnosed nonmetastatic disease Bidimensionally measurable disease Demonstrated pr",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00003908"
+    }
+  ],
+  "timestamp": "2026-03-04T16:52:29.704294",
+  "success": true,
+  "error_message": null
+}

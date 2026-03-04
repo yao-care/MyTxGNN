@@ -1,0 +1,1577 @@
+{
+  "drug": {
+    "name": "Tobramycin",
+    "drugbank_id": "DB00684",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "superior limbic keratoconjunctivitis",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "acute contagious conjunctivitis",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "iridocyclitis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "12095819",
+            "title": "Intraocular caterpillar setae without subsequent vitritis or iridocyclitis.",
+            "abstract": "To report a case of caterpillar setae embedded in the corneal stroma and inferotemporal retina with minimal inflammation.",
+            "journal": "American journal of ophthalmology",
+            "year": "2002",
+            "authors": [
+              "Ibarra Michael S",
+              "Orlin Stephen E",
+              "Saran Bruce R",
+              "Liss Robert P",
+              "Maguire Albert M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Child, Preschool",
+              "Corneal Stroma",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Eye Diseases",
+              "Eye Foreign Bodies",
+              "Eye Injuries, Penetrating",
+              "Glucocorticoids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12095819/"
+          },
+          {
+            "pmid": "15209466",
+            "title": "A case of infected scleral buckle with Mycobacterium chelonae associated with chronic intraocular inflammation.",
+            "abstract": "To describe a unique case of chronic intraocular inflammation secondary to scleral buckle infection with Mycobacterium chelonae that was successfully treated with buckle explantation.",
+            "journal": "Ocular immunology and inflammation",
+            "year": "2004",
+            "authors": [
+              "Oz Ozay",
+              "Lee David H",
+              "Smetana Scott M",
+              "Akduman Levent"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Chronic Disease",
+              "Device Removal",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Eye Infections, Bacterial",
+              "Glucocorticoids",
+              "Humans",
+              "Iridocyclitis",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15209466/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "escherichia coli infection",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01349738",
+            "title": "Asymptomatic Bacteriuria & Risk of Urinary Tract Infection in Renal Transplants",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2011-05",
+            "completion_date": "2013-05",
+            "country": "United States",
+            "enrollment": 200,
+            "brief_summary": "The goal of this research program is to understand the natural history of asymptomatic bacteriuria in the renal transplant patients, to determine if screening for asymptomatic bacteriuria and identification of key host characteristics and virulence factors present on uropathogenic bacteria identifies a sub-population of patients with asymptomatic bacteriuria that are at risk to develop symptomatic urinary tract infection. Ultimately, the knowledge obtained from this study will prevent inappropri",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* must be 18 years old or older,\n* had a kidney transplant,\n* be at least 30 days post operation.\n\nExclusion Criteria:\n\n* Pregnant women, those planning to become pregnant or nursing mothers;\n* Renal transplant patients less than 30 days post transplant; Use of an indwelling Fol",
+            "endpoints": [
+              "Prevalence of Asymptomatic Bacteriuria and Risk of Developing Symptomatic Urinary Tract Infections or Renal Allograft Injury in Renal Transplant Patients"
+            ],
+            "sponsor": "Rice, James C., M.D.",
+            "url": "https://clinicaltrials.gov/study/NCT01349738"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06093191",
+            "title": "Efficacy and Safety of tobRamycin Inhalation Solution for Pseudomonas AeruginoSa Eradication in Bronchiectasis (ERASE): a Multi-center, 2×2 Factorial Randomized, Double-blind, Placebo-controlled Trial",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2023-09-25",
+            "completion_date": "2025-12-30",
+            "country": "China",
+            "enrollment": 364,
+            "brief_summary": "People with bronchiectasis are prone to Pseudomonas aeruginosa (PA) infections, which can become chronic and lead to increased death rates and disease severity. Studies from cystic fibrosis suggest that eradication therapy aimed at PA can successfully transition patients to a culture-negative status, providing long-term benefits. Current guidelines for managing bronchiectasis in adults recommend eradicating PA when it is first or newly isolated; however, there is a lack of randomized controlled ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, aged 18 years and 80 years at screening\n2. Signed and dated written informed consent prior to admission to the study in accordance with local legislation.\n3. Clinical history consistent with bronchiectasis (cough, chronic sputum production and/or recurrent res",
+            "endpoints": [
+              "The proportion of patients successfully eradicating PA in each group by the end of the study, defined as a negative sputum culture of PA at both 24 weeks and 36 weeks."
+            ],
+            "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+            "url": "https://clinicaltrials.gov/study/NCT06093191"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04872400",
+            "title": "Acute Application Of Intrawound Antibiotic Powder In Open Extremity Fracture Wounds",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2021-06-14",
+            "completion_date": "2023-09-30",
+            "country": "United States",
+            "enrollment": 20,
+            "brief_summary": "The purpose of this study is to help determine the best treatment for severe injures like open fracture wounds.\n\nSome broken bone injuries can be more likely to get an infection. It is mostly due to the way they were injured. Surgical site infection in the orthopedic surgery population is a big public health issue. Wound infections result in both longer length of hospital stay and total cost of care. This study will be using an antibiotic called Vancomycin or Tobramycin in a powder form.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subject or proxy willing and able to provide written informed consent.\n* Age between 18 years and 80 years (inclusive), with an upper or lower extremity Gustilo Type II, IIIA, or IIIB open fractures requiring debridement and internal fixation.\n* Open extremity fractures\n* Time",
+            "endpoints": [
+              "Incidence of surgical site infection during the post-operative follow-up period"
+            ],
+            "sponsor": "University of Colorado, Denver",
+            "url": "https://clinicaltrials.gov/study/NCT04872400"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07236944",
+            "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2025-12",
+            "completion_date": "2029-03",
+            "country": "Norway, Sweden",
+            "enrollment": 560,
+            "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+            "endpoints": [
+              "Clinical response (primary endpoint)."
+            ],
+            "sponsor": "Uppsala University",
+            "url": "https://clinicaltrials.gov/study/NCT07236944"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "36585631",
+            "title": "The protective effect of URP20 on ocular Staphylococcus aureus and Escherichia coli infection in rats.",
+            "abstract": "Infectious keratitis, a medical emergency with acute and rapid disease progression may lead to severe visual impairment and even blindness. Herein, an antimicrobial polypeptide from Crassostrea hongkongensis, named URP20, was evaluated for its therapeutic efficacy against keratitis caused by Staphylococcus aureus (S. aureus) and Escherichia coli (E. coli) infection in rats, respectively.",
+            "journal": "BMC ophthalmology",
+            "year": "2022",
+            "authors": [
+              "Li Meng",
+              "Xin Danli",
+              "Gao Jian",
+              "Yi Quanyong",
+              "Yuan Jianshu"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Rats",
+              "Animals",
+              "Staphylococcus aureus",
+              "Corneal Neovascularization",
+              "Vascular Endothelial Growth Factor A",
+              "Escherichia coli",
+              "Staphylococcal Infections",
+              "Keratitis",
+              "Cornea",
+              "Escherichia coli Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36585631/"
+          },
+          {
+            "pmid": "39067645",
+            "title": "Escherichia coli exopolysaccharides disrupt Pseudomonas aeruginosa biofilm and increase its antibiotic susceptibility.",
+            "abstract": "Pseudomonas aeruginosa (P. aeruginosa) is a major pathogen that causes infectious diseases. It has high tendency to form biofilms, resulting in the failure of traditional antibiotic therapies. Inspired by the phenomenon that co-culture of Escherichia coli (E. coli) and P. aeruginosa leads to a biofilm reduction, we reveal that E. coli exopolysaccharides (EPS) can disrupt P. aeruginosa biofilm and increase its antibiotic susceptibility. The results show that E. coli EPS effectively inhibit biofilm formation and disrupt mature biofilms in P. aeruginosa, Staphylococcus aureus, and E. coli itself. The maximal inhibition and disruption rates against P. aeruginosa biofilm are 40 % and 47 %, respectively. Based on the biofilm-disrupting ability of E. coli EPS, we develop an E. coli EPS/antibiotic combining strategy for the treatment of P. aeruginosa biofilms. The combination with E. coli EPS increases the antibacterial efficiency of tobramycin against P. aeruginosa biofilms in vitro and in vi",
+            "journal": "Acta biomaterialia",
+            "year": "2024",
+            "authors": [
+              "Wan Chenxiao",
+              "Ju Xiaoyan",
+              "Xu Dandan",
+              "Ou Jinzhao",
+              "Zhu Meng"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Biofilms",
+              "Pseudomonas aeruginosa",
+              "Polysaccharides, Bacterial",
+              "Anti-Bacterial Agents",
+              "Escherichia coli",
+              "Animals",
+              "Microbial Sensitivity Tests",
+              "Mice",
+              "Tobramycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39067645/"
+          },
+          {
+            "pmid": "37657231",
+            "title": "Remarkable antibiofilm activity of ciprofloxacin, cefoxitin, and tobramycin, by themselves or in combination, against enteroaggregative Escherichia coli in vitro.",
+            "abstract": "Enteroaggregative Escherichia coli (EAEC), a biofilm forming pathogen, causes acute and persistent diarrhea worldwide, requiring antimicrobial therapy in severe or persistent cases. To determine the susceptibility of EAEC biofilm to antimicrobials, as single-agent or combined therapy, biofilm formation was investigated using EAEC clinical strains via peg lid. Of the 78 initially analyzed strains, 35 could form biofilms, 15 (42.9%; 15/35) were resistant to at least 1 tested antimicrobial and 20 (57.1%) were susceptible to all of them in the planktonic form. The biofilms of these susceptible strains were challenged against chosen antimicrobials, and displayed resistance to tetracycline, trimethoprim-sulfamethoxazole, chloramphenicol, ampicillin, cefotaxime, ceftriaxone (85%-100%), tobramycin (25%), cefoxitin (20%), and ciprofloxacin (5%). Moreover, ciprofloxacin combined with ampicillin, and tobramycin eradicated the biofilm of 2 of the 4 tested strains. Ciprofloxacin, cefoxitin, and tob",
+            "journal": "Diagnostic microbiology and infectious disease",
+            "year": "2023",
+            "authors": [
+              "Gastaldi Guerrieri Caroline",
+              "Teixeira Gonçalves Mariana",
+              "Ferreira da Silva Anazi",
+              "Souza Dos Santos André Luis",
+              "Dos Santos Kênia Valéria"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Escherichia coli",
+              "Cefoxitin",
+              "Escherichia coli Infections",
+              "Ciprofloxacin",
+              "Tobramycin",
+              "Diarrhea",
+              "Anti-Bacterial Agents",
+              "Biofilms",
+              "Ampicillin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37657231/"
+          },
+          {
+            "pmid": "39587720",
+            "title": "Comparison of Crohn's disease-associated adherent-invasive Escherichia coli (AIEC) from France and Hong Kong: results from the Pacific study.",
+            "abstract": "Association between ileal colonization by Adherent-Invasive Escherichia coli (AIEC) and Crohn's disease (CD) has been widely described in high-incidence Western countries but remains unexplored in Asian countries with a fast increase in CD incidence. In the PACIFIC study, we compared the characteristics of AIEC pathobionts retrieved from ileal biopsies of CD patients enrolled in France (FR) and Hong Kong (HK). The prevalence of AIEC was similar in France (24.5%, 25/102) and Hong Kong (30.0%, 18/60) (p = 0.44). No difference was observed between the two populations of AIEC regarding adhesion and invasion levels. When tested for antibiotic resistance, the proportion of AIEC strains resistant to ampicillin, piperacillin, tobramycin, and gentamicin was significantly higher in HK AIEC strains compared to French strains. AIEC strains from FR or HK population were both able to persist in the mice intestine (DSS-treated CEABAC10 mice model). Moreover, genomic analysis of 25 FR and 17 hK AIEC s",
+            "journal": "Gut microbes",
+            "year": "2024",
+            "authors": [
+              "Chevarin Caroline",
+              "Xu Zhilu",
+              "Martin Lucas",
+              "Robin Frederic",
+              "Beyrouthy Racha"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Crohn Disease",
+              "Hong Kong",
+              "Escherichia coli Infections",
+              "Escherichia coli",
+              "Animals",
+              "France",
+              "Mice",
+              "Female",
+              "Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39587720/"
+          },
+          {
+            "pmid": "30961771",
+            "title": "Drug Resistance and Integron Genes in Escherichia coli Isolated from Urinary Tract Infection.",
+            "abstract": "Escherichia coli (E. coli) is a major cause of urinary tract infections. Treatment of these infections with antibiotics is often not effective due to the acquisition of drug-resistance genes by the bacteria. This process is mediated by integrons which belong to bacterial mobile genetic elements. Therefore, the present study addressed the issue of the relation between antibiotic resistance and integron genes in E. coli isolated from patients affected by urinary tract infection. Multiplex PCR assay employed to detect the E. coli integrase gene demonstrated that out of 49 bacterial strains, 26 were carrying class 1 integron and there was no case of bacteria harboring class 2 or class 3 integrons. Correlation analysis documented that E. coli strains harboring class 1 integron exhibited higher resistance towards tobramycin. The variable region gene cassette contained combinations of four genes responsible for antibiotic resistance: dfr17, aadA2, aadA5, and aac(6')-Ib-cr, of which the latter",
+            "journal": "Journal of nanoscience and nanotechnology",
+            "year": "2019",
+            "authors": [
+              "Chen Mianxiong",
+              "Wu Yanqi",
+              "Yu Shaolong",
+              "Liu Shangwen",
+              "Wang Yadong"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Drug Resistance",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Humans",
+              "Integrons",
+              "Urinary Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30961771/"
+          },
+          {
+            "pmid": "30129883",
+            "title": "Detection and Characterization of Extended-Spectrum Beta-Lactamases-Producing Escherichia coli in Animals.",
+            "abstract": "The detection of multidrug-resistant bacteria is a growing problem; however, the role of domesticated animals in the propagation of antimicrobial resistance has barely been studied. The aim of this study was to identify extended-spectrum beta-lactamase (ESBL)-producing Escherichia coli strains in domestic animal feces to assess their antimicrobial resistance profile and carry out molecular characterization of the β-lactamases. A total of 325 samples were collected from eight animal species. Of these, 34 bacterial isolates were identified as E. coli. The antibiotic resistance profile of the E. coli strains was as follows: 100% resistant to amoxicillin, aztreonam, and cephalosporins; 58.8% resistant to nalidixic acid, ciprofloxacin, and trimethoprim/sulfamethoxazole; 41.2% resistant to gentamicin and tobramycin; 11.8% resistant and 32.4% intermediate to cefoxitin; 97.1% sensible and 2.9% intermediate to amoxicillin/clavulanate; and 100% sensible to ertapenem, minocycline, imipenem, merop",
+            "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+            "year": "2019",
+            "authors": [
+              "Suay-García Beatriz",
+              "Galán Fátima",
+              "Rodríguez-Iglesias Manuel A",
+              "Pérez-Gracia María Teresa"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Animals, Domestic",
+              "Anti-Bacterial Agents",
+              "Drug Resistance, Multiple, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "beta-Lactamases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30129883/"
+          },
+          {
+            "pmid": "342889",
+            "title": "Sensitivity of strains of enteropathogenic Escherichia coli to tobramycin and other antibiotics.",
+            "abstract": "The sensitivity patterns of strains of enteropathogenic Escherichia coli associated with diarrhoeal disease of infants to tobramycin and other antibiotics were estimated. The activity of tobramycin and of gentamicin alone and in combinations against recent isolates of enteropathogenic Escherichia coli was investigated. It was found that all the strains included in the present study were sensitive to tobramycin and gentamicin and most of them were sensitive to colistin and furazolidone. No significant differences in minimal inhibitory concentrations (MICs) and rates of killing were found between tobramycin and gentamicin, and they acted in an additive manner against most of the strains tested.",
+            "journal": "Medical microbiology and immunology",
+            "year": "1977",
+            "authors": [
+              "Konforti N",
+              "Lev B",
+              "Hanner N"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Diarrhea, Infantile",
+              "Drug Resistance, Microbial",
+              "Drug Synergism",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Feces",
+              "Gentamicins",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/342889/"
+          },
+          {
+            "pmid": "36454354",
+            "title": "Drug synergy discovery of tavaborole and aminoglycosides against Escherichia coli using high throughput screening.",
+            "abstract": "High incidences of urinary tract infection (UTI) of aminoglycosides-resistant E.coli causes a severe burden for public health. A new therapeutic strategy to ease this crisis is to repurpose non-antibacterial compounds to increase aminoglycosides sensibility against multidrug resistant E.coli pathogens. Based on high throughput screening technology, we profile the antimicrobial activity of tavaborole, a first antifungal benzoxaborole drug for onychomycosis treatment, and investigate the synergistic interaction between tavaborole and aminoglycosides, especially tobramycin and amikacin. Most importantly, by resistance accumulation assay, we found that, tavaborole not only slowed resistance occurrence of aminoglycosides, but also reduced invasiveness of E.coli in combination with tobramycin. Mechanistic studies preliminary explored that tavaborole and aminoglycosides lead to mistranslation, but would be still necessary to investigate more details for further research. In addition, tavaboro",
+            "journal": "AMB Express",
+            "year": "2022",
+            "authors": [
+              "Liu Shasha",
+              "She Pengfei",
+              "Li Zehao",
+              "Li Yimin",
+              "Li Linhui"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36454354/"
+          },
+          {
+            "pmid": "24566757",
+            "title": "Genotypic and phenotypic characterization of invasive neonatal Escherichia coli clinical isolates.",
+            "abstract": "The objective of this study was to describe the clinical characteristics of neonates with Escherichia coli bacteremia and the antibiotic resistance pattern of the bacterial isolates. We assessed the isolates' genetic relatedness and virulence phenotypic characteristics in vitro.",
+            "journal": "American journal of perinatology",
+            "year": "2014",
+            "authors": [
+              "Shakir Salika Mehreen",
+              "Goldbeck Jessica Marie",
+              "Robison Denise",
+              "Eckerd Annette Marie",
+              "Chavez-Bueno Susana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antigens, Bacterial",
+              "Bacteremia",
+              "Bacterial Capsules",
+              "Bacterial Typing Techniques",
+              "Cells, Cultured",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Genotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24566757/"
+          },
+          {
+            "pmid": "24589574",
+            "title": "CTX-M-producing Escherichia coli in Lithuania: associations between sites of infection, coresistance, and phylogenetic groups.",
+            "abstract": "Increasing resistance of Escherichia coli (E. coli) to antibiotics, especially to the third-generation cephalosporins, has prompted studies on widespread resistance genes such as blaCTX-M and differentiation of E. coli to phylogenetic groups. The aim of this study was to determine the associations between the CTX-M type and the phylogenetic group, the site of infection, and coresistance in Lithuanian E. coli isolates producing β-lactamases. MATERIAL AND METHODS. A total of 90 E. coli ESBL strains were recovered from the lower respiratory tract, the urinary tract, sterile body sites, wounds, and other body sites between 2008 and 2012. The E. coli isolates resistant to at least 2 antibiotics with different modes of action along with resistance to cefotaxime were considered as multiresistant. The blaCTX-M, blaTEM, blaOXA-1, and blaSHV genes, the phylogenetic groups, and the resistance profiles were analyzed. RESULTS. Of the 90 isolates, 84 (93.3%) were classified as multiresistant and 6 (",
+            "journal": "Medicina (Kaunas, Lithuania)",
+            "year": "2013",
+            "authors": [
+              "Giedraitienė Agnė",
+              "Vitkauskienė Astra",
+              "Ašmonienė Virginija",
+              "Plančiūnienė Rita",
+              "Simonytė Sandrita"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cefepime",
+              "Cephalosporins",
+              "Drug Resistance, Multiple, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Galanin",
+              "Gentamicins",
+              "Humans",
+              "Lithuania"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24589574/"
+          },
+          {
+            "pmid": "31919670",
+            "title": "In Vitro Activity of Fosfomycin in Double and Triple Combinations with Imipenem, Ciprofloxacin and Tobramycin Against Multidrug-Resistant Escherichia coli.",
+            "abstract": "The rates of urinary tract infection with multidrug-resistant (MDR) Escherichia coli have dramatically increased and the treatment of these infections with single and double antibiotic combinations became limited or ineffective. The present study aimed at finding effective antibiotic combinations against MDR uropathogenic E. coli. Antibiotic susceptibility testing of uropathogenic E. coli isolates (n = 29) showed that all the examined isolates were found to be MDR. The interaction of double and triple combinations of fosfomycin (FOS) with imipenem (IPM), ciprofloxacin (CIP) and tobramycin (TOB) against selected isolates (n = 8) by checkerboard method showed that all the examined combinations exhibited synergistic effects (FIC index < 1) against tested isolate. However, 1/8, 5/8 and 6/8 of the isolates remained resistant to the constituent antibiotics in FOS/IPM, FOS/CIP and FOS/TOB combinations, respectively. Notably, the triple combinations (FOS/IPM/CIP, FOS/IPM/TOB and FOS/CIP/TOB) i",
+            "journal": "Current microbiology",
+            "year": "2020",
+            "authors": [
+              "El-Wafa Wael Mohamed Abu",
+              "Ibrahim Yasser Musa"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Drug Synergism",
+              "Egypt",
+              "Fosfomycin",
+              "Imipenem",
+              "Microbial Sensitivity Tests",
+              "Tobramycin",
+              "Uropathogenic Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31919670/"
+          },
+          {
+            "pmid": "36430555",
+            "title": "Tobramycin Nanoantibiotics and Their Advantages: A Minireview.",
+            "abstract": "Nowadays, antimicrobial resistance (AMR) represents a challenge for antibiotic therapy, mostly involving Gram-negative bacteria. Among the strategies activated to overcome AMR, the repurposing of already available antimicrobial molecules by encapsulating them in drug delivery systems, such as nanoparticles (NPs) and also engineered NPs, seems to be promising. Tobramycin is a powerful and effective aminoglycoside, approved for complicated infections and reinfections and indicated mainly against Gram-negative bacteria, such as Pseudomonas aeruginosa, Escherichia coli, Proteus, Klebsiella, Enterobacter, Serratia, Providencia, and Citrobacter species. However, the drug presents several side effects, mostly due to dose frequency, and for this reason, it is a good candidate for nanomedicine formulation. This review paper is focused on what has been conducted in the last 20 years for the development of Tobramycin nanosized delivery systems (nanoantibiotics), with critical discussion and compa",
+            "journal": "International journal of molecular sciences",
+            "year": "2022",
+            "authors": [
+              "Rosalia Mariella",
+              "Chiesa Enrica",
+              "Tottoli Erika Maria",
+              "Dorati Rossella",
+              "Genta Ida"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Tobramycin",
+              "Gentamicins",
+              "Drug Resistance, Microbial",
+              "Aminoglycosides",
+              "Anti-Bacterial Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36430555/"
+          },
+          {
+            "pmid": "38361731",
+            "title": "Susceptibility and Synergistic Effects of Guava Plant Extract and Antimicrobial Drugs on Escherichia coli.",
+            "abstract": "Introduction Psidium guajava (guava) is a fruit plant of the Myrtaceae family. Guava roots, leaves, and fruits have traditionally been used to prevent and treat various infections. In the last few decades, there has been exponential growth in herbal medicine. Therefore, the present study was conducted to determine the susceptibility and synergistic properties of the antimicrobial activity of the aqueous leaf extract of guava and other antimicrobial drugs against Escherichia coli (E. coli). Methodology A prospective observational study was conducted at the Department of Microbiology, MGM Medical College and Hospital, Navi Mumbai, India, involving 180 urine samples collected from patients who exhibited symptoms of urinary tract infection (UTI). The aim was to evaluate in vitro synergism between leaf extracts of guava and antimicrobial drugs on uropathogenic E. coli, using minimal inhibitory concentration (MIC) and the Kirby-Bauer method. The Kirby-Bauer disc diffusion method was employed",
+            "journal": "Cureus",
+            "year": "2024",
+            "authors": [
+              "Mitra Sohini",
+              "Bhesania Hodiwala Anahita V",
+              "Kar Harapriya"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38361731/"
+          },
+          {
+            "pmid": "401853",
+            "title": "Comparison of amikacin and tobramycin in the treatment of infection in patients with cancer.",
+            "abstract": "Two new aminoglycoside antibiotics, tobramycin and amikacin, were compared in a randomized study of the treatment of infections in patients with cancer. For the identified infections, the response rate for tobramycin was 60% and for amikacin was 64%. Pneumonia, urinary tract infection, and septicemia were the most frequent infections. Most (78%) of the identified pathogens were gram-negative bacilli; Klebsiella pneumoniae, Escherichia coli, and Pseudomonas aeruginosa were the most frequently isolated organisms. When only infections due to gram-negative bacilli were considered, 67% responded to tobramycin and 69% responded to amikacin. All infections except pneumonias had at least a 50% response rate to either antibiotic. The major form of toxicity of both antibiotics was azotemia and occurred in 22% of cases treated with tobramycin and in 20% treated with amikacin. Tobramycin and amikacin are equally effective in the treatment of gram-negative infections and have similar toxicity.",
+            "journal": "The Journal of infectious diseases",
+            "year": "1977",
+            "authors": [
+              "Feld R",
+              "Valdivieso M",
+              "Bodey G P",
+              "Rodriguez V"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amikacin",
+              "Anti-Bacterial Agents",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Female",
+              "Humans",
+              "Kanamycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/401853/"
+          },
+          {
+            "pmid": "38854982",
+            "title": "Phenotypic and genotypic evaluation of aminoglycoside resistance in Escherichia coli isolated from patients with blood stream infections in Tehran, Iran.",
+            "abstract": "Escherichia coli is a significant causative agent of bloodstream infections (BSIs). Aminoglycoside antibiotics play a crucial role in treating severe infections such as sepsis and pneumonia. However, resistance to these antibiotics often occurs due to the production of aminoglycoside-modifying enzymes (AMEs). This study was conducted to assess antimicrobial susceptibility patterns against various aminoglycosides and to determine the prevalence of common AME genes in E. coli strains isolated from BSIs.",
+            "journal": "Iranian journal of microbiology",
+            "year": "2024",
+            "authors": [
+              "Ghamari Mahsa",
+              "Emaneini Mohammad",
+              "Hemmati Saeed",
+              "Jabalameli Fereshteh",
+              "Beigverdi Reza"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38854982/"
+          },
+          {
+            "pmid": "25285538",
+            "title": "Effect of bacteriophage infection in combination with tobramycin on the emergence of resistance in Escherichia coli and Pseudomonas aeruginosa biofilms.",
+            "abstract": "Bacteriophage infection and antibiotics used individually to reduce biofilm mass often result in the emergence of significant levels of phage and antibiotic resistant cells. In contrast, combination therapy in Escherichia coli biofilms employing T4 phage and tobramycin resulted in greater than 99% and 39% reduction in antibiotic and phage resistant cells, respectively. In P. aeruginosa biofilms, combination therapy resulted in a 60% and 99% reduction in antibiotic and PB-1 phage resistant cells, respectively. Although the combined treatment resulted in greater reduction of E. coli CFUs compared to the use of antibiotic alone, infection of P. aeruginosa biofilms with PB-1 in the presence of tobramycin was only as effective in the reduction of CFUs as the use of antibiotic alone. The study demonstrated phage infection in combination with tobramycin can significantly reduce the emergence of antibiotic and phage resistant cells in both E. coli and P. aeruginosa biofilms, however, a reducti",
+            "journal": "Viruses",
+            "year": "2014",
+            "authors": [
+              "Coulter Lindsey B",
+              "McLean Robert J C",
+              "Rohde Rodney E",
+              "Aron Gary M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteriophage T4",
+              "Bacteriophages",
+              "Biofilms",
+              "Colony Count, Microbial",
+              "Escherichia coli",
+              "Host-Pathogen Interactions",
+              "Pseudomonas Phages",
+              "Pseudomonas aeruginosa",
+              "Tobramycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25285538/"
+          },
+          {
+            "pmid": "10022107",
+            "title": "Multiple antibiotic-resistant Klebsiella and Escherichia coli in nursing homes.",
+            "abstract": "Infections caused by ceftazidime sodium-resistant gram-negative bacteria that harbor extended-spectrum beta-lactamases (ESBLs) are increasing in frequency in hospitals in the United States.",
+            "journal": "JAMA",
+            "year": "1999",
+            "authors": [
+              "Wiener J",
+              "Quinn J P",
+              "Bradford P A",
+              "Goering R V",
+              "Nathan C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Case-Control Studies",
+              "Ceftazidime",
+              "Cephalosporin Resistance",
+              "Cephalosporins",
+              "Cross Infection",
+              "DNA Fingerprinting",
+              "DNA, Bacterial",
+              "Drug Resistance, Microbial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10022107/"
+          },
+          {
+            "pmid": "30938219",
+            "title": "Ciprofloxacin, amoxicillin, and aminoglycosides stimulate genetic and phenotypic changes in uropathogenic Escherichia coli strains.",
+            "abstract": "Antibiotic therapy and its consequences in bacterial and human aspects are widely investigated. Despite this, the emergence of new multidrug resistant bacteria is still a current problem. The scope of our work included the observation of changes among uropathogenic Escherichia coli strains after the treatment with a subinhibitory concentration of different antibiotics. The sensitive strains with or without virulence factors were incubated with amoxicillin, ciprofloxacin, gentamycin, or tobramycin. After each passage, the E. coli derivatives were compared to their wild types based on their susceptibility profiles, virulence genes, biofilm formations and the fingerprint profiles of PCR products amplified with using the (N)(6)(CGG)(4) primer. It turned out that antibiotics caused significant changes in the repertoire of bacterial virulence and biofilm formation, corresponding to acquired cross-resistance. The genomic changes among the studied bacteria were reflected in the changed profile",
+            "journal": "Virulence",
+            "year": "2019",
+            "authors": [
+              "Adamus-Białek Wioletta",
+              "Wawszczak Monika",
+              "Arabski Michał",
+              "Majchrzak Michał",
+              "Gulba Martyna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Escherichia coli Infections",
+              "Escherichia coli Proteins",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Phenotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30938219/"
+          },
+          {
+            "pmid": "37727028",
+            "title": "Prevalence of neonatal calf diarrhea caused by Escherichia coli and investigation of virulence factors, serotypes, and antibiotic susceptibility.",
+            "abstract": "Neonatal calf diarrhea (NCD) is one of the most important concerns in cattle production. Escherichia coli is the most important bacterial agent of NCD. Although vaccination and antibiotic treatment are common in NCD, the high antigenic diversity of E. coli and the increase in antibiotic resistance cause difficulties in the control. The study aimed to investigate the rate of E. coli in calf diarrhea, isolate an agent of the NCD E. coli strain, determine antimicrobial resistance, and find out about some surface antigens. Fecal samples (n=115) were analyzed to isolate pathogenic E. coli strains with nine mixed infections; sixty-one strains isolate from fifty diarrhoeic calves. Among the isolates from diseased animals, 22 K99+STa+F41, 3 K99+STa, 3 strains F41, 2 strains Stx1, one strain K99, one strain eae, and one strain Stx2+eae were detected. 27 strains of F17- associated fimbriae have been identified. 17 strains F17a, 6 strains F111, 3 strains F17c, one strain carrying the F17a and F17",
+            "journal": "Polish journal of veterinary sciences",
+            "year": "2023",
+            "authors": [
+              "Coşkun M R",
+              "Şahin M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Prevalence",
+              "Virulence Factors",
+              "Escherichia coli",
+              "Noncommunicable Diseases",
+              "Serogroup",
+              "Anti-Bacterial Agents",
+              "Antigens, Bacterial",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37727028/"
+          },
+          {
+            "pmid": "36622756",
+            "title": "Susceptibility of Multidrug-Resistant Escherichia coli, Klebsiella pneumoniae, and Pseudomonas aeruginosa from Germany to Ceftolozane-Tazobactam, Ceftazidime-Avibactam, and Imipenem-Relebactam.",
+            "abstract": "This cross-sectional in-vitro resistance surveillance study involving 10 medical laboratories was conducted in 2018. Each study site was asked to collect 30 consecutive nonduplicate isolates per species from hospitalized patients with documented infections. Minimum inhibitory concentrations were determined at a central laboratory. European Committee on Antimicrobial Susceptibility Testing (EUCAST) breakpoints were used for interpretation. A total of 860 isolates were collected, including 298 Escherichia coli, 268 Klebsiella pneumoniae, and 294 Pseudomonas aeruginosa. Fifty (16.8%) E. coli and 63 (23.5%) K. pneumoniae isolates were found to be resistant to third-generation cephalosporins. Resistance to carbapenems (imipenem and/or meropenem) was identified in 5 (1.9%) K. pneumoniae and 64 (21.8%) P. aeruginosa, but not in E. coli. Thirty-three (11.2%) P. aeruginosa isolates were resistant to both carbapenems and 30 (10.2%) P. aeruginosa showed resistance to ≥3 antimicrobials/antimicrobi",
+            "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+            "year": "2023",
+            "authors": [
+              "Kresken Michael",
+              "Wohlfarth Esther",
+              "Wichelhaus Thomas A",
+              "Gatermann Sören G",
+              "Pfennigwerth Niels"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Pseudomonas aeruginosa",
+              "Klebsiella pneumoniae",
+              "Escherichia coli",
+              "Cross-Sectional Studies",
+              "Pseudomonas Infections",
+              "Microbial Sensitivity Tests",
+              "Cephalosporins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36622756/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "bacterial meningitis",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01431326",
+            "title": "Pharmacokinetics of Understudied Drugs Administered to Children Per Standard of Care",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-11",
+            "completion_date": "2019-11",
+            "country": "Israel, Singapore, United Kingdom, Canada, United States",
+            "enrollment": 3520,
+            "brief_summary": "Understudied drugs will be administered to children per standard of care as prescribed by their treating caregiver and only biological sample collection during the time of drug administration will be involved. A total of approximately 7000 children aged \\<21 years who are receiving these drugs for standard of care will be enrolled and will be followed for up a maximum of 90 days. The goal of this study is to characterize the pharmacokinetics of understudied drugs for which specific dosing recomm",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\) Children (\\< 21 years of age) who are receiving understudied drugs of interest per standard of care as prescribed by their treating caregiver\n\nExclusion Criteria:\n\n* 1\\) Failure to obtain consent/assent (as indicated)\n* 2\\) Known pregnancy as determined via interview or te",
+            "endpoints": [
+              "Composite of pharmacokinetic outcomes for understudied drugs in children"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT01431326"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "18416587",
+            "title": "Meropenem: a review of its use in the treatment of serious bacterial infections.",
+            "abstract": "Meropenem (Merrem, Meronem) is a broad-spectrum antibacterial agent of the carbapenem family, indicated as empirical therapy prior to the identification of causative organisms, or for disease caused by single or multiple susceptible bacteria in both adults and children with a broad range of serious infections. Meropenem is approved for use in complicated intra-abdominal infection (cIAI), complicated skin and skin structure infection (cSSSI) and bacterial meningitis (in paediatric patients aged > or = 3 months) in the US, and in most other countries for nosocomial pneumonia, cIAI, septicaemia, febrile neutropenia, cSSSI, bacterial meningitis, complicated urinary tract infection (UTI), obstetric and gynaecological infections, in cystic fibrosis patients with pulmonary exacerbations, and for the treatment of severe community-acquired pneumonia (CAP). Meropenem has a broad spectrum of in vitro activity against Gram-positive and Gram-negative pathogens, including extended-spectrum beta-lact",
+            "journal": "Drugs",
+            "year": "2008",
+            "authors": [
+              "Baldwin Claudine M",
+              "Lyseng-Williamson Katherine A",
+              "Keam Susan J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Cost-Benefit Analysis",
+              "Drug Costs",
+              "Humans",
+              "Meropenem",
+              "Severity of Illness Index",
+              "Thienamycins",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18416587/"
+          },
+          {
+            "pmid": "30446934",
+            "title": "Current Practices of Intraventricular Antibiotic Therapy in the Treatment of Meningitis and Ventriculitis: Results from a Multicenter Retrospective Cohort Study.",
+            "abstract": "Central nervous system (CNS) infections are particularly prevalent in the adult neurocritical care patient population and are associated with significant morbidity and mortality. Factors relevant to the nature of CNS infections pose significant challenges to clinicians treating afflicted patients. Intraventricular (IVT) administration of antibiotics may offer several benefits over systemic therapy; however, the outcomes and current practices of such treatments are poorly described in the literature.",
+            "journal": "Neurocritical care",
+            "year": "2019",
+            "authors": [
+              "Lewin John J",
+              "Cook Aaron M",
+              "Gonzales Cynthia",
+              "Merola David",
+              "Neyens Ron"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Cerebral Ventriculitis",
+              "Cerebrospinal Fluid",
+              "Critical Care",
+              "Female",
+              "Gentamicins",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30446934/"
+          },
+          {
+            "pmid": "927330",
+            "title": "Intralumbar and intraventricular therapy of bacterial meningitis.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "1977",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Cerebrospinal Fluid Shunts",
+              "Gentamicins",
+              "Humans",
+              "Infant, Newborn",
+              "Injections, Intraventricular",
+              "Meningitis",
+              "Tobramycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/927330/"
+          },
+          {
+            "pmid": "18713049",
+            "title": "Update on the efficacy and tolerability of meropenem in the treatment of serious bacterial infections.",
+            "abstract": "Meropenem is a carbapenem antibiotic approved by the US Food and Drug Administration for the treatment of complicated skin and skin-structure infections, complicated intra-abdominal infections, and pediatric bacterial meningitis (in patients >or=3 months of age). In clinical trials, it also has shown efficacy as initial empirical therapy for the treatment of nosocomial pneumonia. Unlike other beta-lactam antibiotics, including third-generation cephalosporins, carbapenems have shown activity against extended-spectrum beta-lactamase-producing and AmpC chromosomal beta-lactamase-producing bacteria. Compared with imipenem, meropenem is more active against gram-negative pathogens and somewhat less active against gram-positive pathogens, and it does not require coadministration of a renal dehydropeptidase inhibitor. In most comparative trials, clinical and bacteriological response rates with imipenem and meropenem were similar. Compared with clindamycin/tobramycin, meropenem is associated wi",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2008",
+            "authors": [
+              "Mohr John F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abdominal Abscess",
+              "Bacteria",
+              "Bacterial Infections",
+              "Cross Infection",
+              "Humans",
+              "Infant",
+              "Meningitis, Bacterial",
+              "Meropenem",
+              "Pneumonia",
+              "Skin Diseases, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18713049/"
+          },
+          {
+            "pmid": "33522127",
+            "title": "Intrathecal tobramycin and pausing induction chemotherapy for pediatric acute lymphoblastic leukemia facilitate successful management of disseminated Pseudomonas aeruginosa infection and meningitis.",
+            "abstract": "",
+            "journal": "Pediatric blood & cancer",
+            "year": "2021",
+            "authors": [
+              "Aarnivala Henri",
+              "Tapiainen Terhi",
+              "Peltoniemi Outi",
+              "Niinimäki Riitta"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Child",
+              "Humans",
+              "Induction Chemotherapy",
+              "Meningitis",
+              "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+              "Pseudomonas Infections",
+              "Pseudomonas aeruginosa",
+              "Tobramycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33522127/"
+          },
+          {
+            "pmid": "4599859",
+            "title": "Comparative clinical study of tobramycin and gentamicin.",
+            "abstract": "Gentamicin and tobramycin have been compared in vitro and as single-drug therapy in patients with a serious infection caused by gram-negative rods. In vitro, a slight advantage of tobramycin over gentamicin has been found against Pseudomonas aeruginosa. Cross-resistance between gentamicin and tobramycin has been observed for gentamicin-resistant strains of P. aeruginosa and Providence but was not always present. The clinical effectiveness of gentamicin and tobramycin was similar: 14 (45.1%) out of the 31 patients in each series responded favorably. The clinical results were much better in urinary tract infections (66% of favorable responses) than in wound infections, pulmonary infections, septicemia, and meningitis (26% of favorable responses). The frequency of adverse reactions encountered in the present series was similar for both drugs.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1974",
+            "authors": [
+              "Klastersky J",
+              "Hensgens C",
+              "Henri A",
+              "Daneau D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Bacterial Infections",
+              "Clinical Trials as Topic",
+              "Drug Resistance, Microbial",
+              "Female",
+              "Gentamicins",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4599859/"
+          },
+          {
+            "pmid": "7261686",
+            "title": "Tobramycin levels in cerebrospinal fluid of patients with slightly and severely impaired blood-cerebrospinal barrier.",
+            "abstract": "Concentrations of tobramycin in cerebrospinal fluid (CSF) and serum of neurosurgical and of meningitis patients were determined following systemic application of 80-mg doses. Tobramycin was detectable only in 8 tests out of 17 in CSF of 11 neurosurgical patients. The highest drug amount in CSF in these tests was 0.47 microgram/ml. In CSF of 7 meningitis patients with CSF cell counts ranging from 173/3 to 20,500/3 cells, tobramycin was detectable in all 11 determinations. However, the tobramycin level was above 1.0 microgram/ml in only one CSF sample. These results also confirm the poor penetrability of aminoglycosides through the blood-CSF barrier for tobramycin. In proven gram-negative bacillary meningitis and tobramycin treatment, additional intraventricular aminoglycoside application is necessary to obtain effective levels in CSF. An exception may be treatment of neonatal meningitis.",
+            "journal": "Chemotherapy",
+            "year": "1981",
+            "authors": [
+              "Brückner O",
+              "Alexander M",
+              "Collmann H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Blood-Brain Barrier",
+              "Humans",
+              "Meningitis",
+              "Neurosurgical Procedures",
+              "Postoperative Complications",
+              "Tobramycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7261686/"
+          },
+          {
+            "pmid": "38755556",
+            "title": "New and old lessons from a devastating case of neonatal E coli meningitis.",
+            "abstract": "Neonatal Escherichia coli (E coli) meningitis results in significant morbidity and mortality. We present a case of a premature infant with extensive central nervous system (CNS) injury from recurrent E coli infection and the non-traditional methods necessary to identify and clear the infection.",
+            "journal": "BMC pediatrics",
+            "year": "2024",
+            "authors": [
+              "Saleh Tawny",
+              "Kamau Edwin",
+              "Rathe Jennifer A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Infant, Newborn",
+              "Anti-Bacterial Agents",
+              "Infant, Premature",
+              "Infant, Premature, Diseases",
+              "Meningitis, Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38755556/"
+          },
+          {
+            "pmid": "3524215",
+            "title": "Aminoglycoside toxicity in infants and children.",
+            "abstract": "The aminoglycosides are frequently prescribed for infants and children, especially newborn infants with suspected or documented sepsis or meningitis. In older infants and children, the aminoglycosides are commonly used to treat acute respiratory exacerbations in patients with cystic fibrosis, intra-abdominal sepsis, complicated urinary tract infections, and other infections caused by gram-negative enteric bacilli. Although these drugs are generally well tolerated and efficacious, there is relatively little information on toxicity in pediatric patients. The potential for ototoxicity from the aminoglycosides, especially streptomycin, kanamycin, and gentamicin, was evaluated in seven prospective, controlled studies of 1,321 newborn infants. Although the designs and follow-up periods were different among the studies, the audiometric tests were similar and appropriate for age. Three studies measured auditory brain stem response during the neonatal and early infancy periods. With the excepti",
+            "journal": "The American journal of medicine",
+            "year": "1986",
+            "authors": [
+              "McCracken G H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amikacin",
+              "Aminoglycosides",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Child",
+              "Clinical Trials as Topic",
+              "Evoked Potentials, Auditory",
+              "Gentamicins",
+              "Hearing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3524215/"
+          },
+          {
+            "pmid": "1633464",
+            "title": "Infections in neurologic surgery. The intraventricular use of antibiotics.",
+            "abstract": "Intraventricular antibiotic therapy appears to be a useful treatment modality in those CSF infections in which systemic therapy may fail. Consideration should be given to using this form of treatment when infecting organisms are only sensitive to antibiotics with poor penetration of the CSF (e.g., aminoglycosides and vancomycin) and for cases in which intravenous therapy has failed to sterilize the CSF, toxicity from systemic therapy precludes further increases in dosages, and shunts or other CSF hardware might be expected to reduce the efficacy of systemic therapy by providing a foreign body to harbor organisms. Shunts or reservoirs that are infected may be successfully sterilized with IVT therapy alone or in conjunction with systemic therapy, but this has a lower success rate than cases in which the shunt is removed. There is a wealth of clinical experience with IVT vancomycin and gentamicin that suggests that they are relatively safe. Until more data are available on other aminoglyc",
+            "journal": "Neurosurgery clinics of North America",
+            "year": "1992",
+            "authors": [
+              "Wen D Y",
+              "Bottini A G",
+              "Hall W A",
+              "Haines S J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antifungal Agents",
+              "Cerebrospinal Fluid Shunts",
+              "Humans",
+              "Injections, Intraventricular",
+              "Meningitis, Bacterial",
+              "Meningitis, Fungal",
+              "Surgical Wound Infection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1633464/"
+          },
+          {
+            "pmid": "11816266",
+            "title": "Pharmacokinetic model for tobramycin in acinetobacter meningitis.",
+            "abstract": "To report a case of acinetobacter meningitis treated with a once-daily intravenous dose of tobramycin and to propose a pharmacokinetic model for the drug disposition.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2002",
+            "authors": [
+              "Chicano-Piá Pedro V",
+              "Cercós-Lletí Ana-Cristina",
+              "Romá-Sánchez Eva"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acinetobacter Infections",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Cerebrospinal Fluid Shunts",
+              "Humans",
+              "Hydrocephalus",
+              "Injections, Intravenous",
+              "Male",
+              "Meningitis, Bacterial",
+              "Models, Biological"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11816266/"
+          },
+          {
+            "pmid": "9255896",
+            "title": "Fatal Listeria meningitis, endocarditis and pericarditis in a patient with haemochromatosis.",
+            "abstract": "A 65-year-old man with primary haemochromatosis was admitted because of fever and confusion. He was found to have bacteraemia and meningitis due to Listeria monocytogenes. Treatment with ampicillin plus tobramycin was instituted, and despite an initial improvement, the patient experienced an unfavourable course and died. At postmortem examination, tricuspid valve endocarditis and purulent pericarditis with tamponade were detected. Listeria monocytogenes grew in the culture of the pericardial fluid. Documentation of Listeria monocytogenes pericarditis is extremely rare, and data on the patient described and on seven published cases are reported.",
+            "journal": "Scandinavian journal of infectious diseases",
+            "year": "1997",
+            "authors": [
+              "Manso C",
+              "Rivas I",
+              "Peraire J",
+              "Vidal F",
+              "Richart C"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bacteremia",
+              "Endocarditis, Bacterial",
+              "Fatal Outcome",
+              "Female",
+              "Hemochromatosis",
+              "Humans",
+              "Listeria monocytogenes",
+              "Listeriosis",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9255896/"
+          },
+          {
+            "pmid": "10991742",
+            "title": "Disseminated gonococcal infection and meningitis.",
+            "abstract": "",
+            "journal": "The American journal of medicine",
+            "year": "2000",
+            "authors": [
+              "Mofredj A",
+              "Baraka D",
+              "Madec Y",
+              "Lemaitre P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alcoholism",
+              "Anti-Bacterial Agents",
+              "Cerebrospinal Fluid",
+              "Drug Therapy, Combination",
+              "Female",
+              "Gonorrhea",
+              "Humans",
+              "Meningitis, Bacterial",
+              "Neisseria gonorrhoeae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10991742/"
+          },
+          {
+            "pmid": "7588092",
+            "title": "Meropenem. A review of its antibacterial activity, pharmacokinetic properties and clinical efficacy.",
+            "abstract": "The parenteral carbapenem meropenem is relatively stable to inactivation by human renal dehydropeptidase (DHP-1) and does not require concomitant administration of a DHP-1 inhibitor such as cilastatin. It has a broad spectrum of antibacterial activity in vitro, the majority of Gram-negative, Gram-positive and anaerobic pathogens being highly susceptible to the drug. Meropenem has shown clinical and bacteriological efficacy in the treatment of a wide range of serious infections in adults and children which is at least comparable with that of currently available treatment options. Its clinical and bacteriological efficacy is similar to that of imipenem/cilastatin, clindamycin plus tobramycin and cefotaxime plus metronidazole in the treatment of intraabdominal infections; cefotaxime or ceftriaxone in the treatment of meningitis; imipenem/cilastatin, and ceftazidime with or without an aminoglycoside, in lower respiratory tract infections; and imipenem/cilastatin or ceftazidime in the treat",
+            "journal": "Drugs",
+            "year": "1995",
+            "authors": [
+              "Wiseman L R",
+              "Wagstaff A J",
+              "Brogden R N",
+              "Bryson H M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Absorption",
+              "Aging",
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Bacterial Infections",
+              "Child",
+              "Child, Preschool",
+              "Drug Evaluation",
+              "Drug Resistance, Microbial",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7588092/"
+          },
+          {
+            "pmid": "24237442",
+            "title": "[Healthcare-associated Neisseria meningitidis W135 conjunctivitis].",
+            "abstract": "Neisseria meningitidis is an unusual pathogen among the causes of acute bacterial conjunctivitis. Meningococcal conjunctivitis may present as primary or secondary infection, while primary meningococcal conjunctivitis may emerge as invasive or non-invasive forms. N.meningitidis W135 strain is not common in Turkey, and is rarely reported as the cause of meningitis. Moreover, no cases of conjunctivitis due to N.meningitidis W135 were reported from Turkey. In this report a case of N.meningitidis W135 conjunctivitis has been presented who acquired the infection from another patient with meningococcal meningitis by close contact in the hospital environment. A 2-month-old male infant was admitted to our hospital with poor health condition, feeding difficulty and weight loss. He was hospitalized in intensive care unit and fluid replacement started due to severe dehydration. The infant had stigmata of Down's Syndrome, and since conjunctivitis were detected on physical examination, swab samples ",
+            "journal": "Mikrobiyoloji bulteni",
+            "year": "2013",
+            "authors": [
+              "Unal Yılmaz Gülizar",
+              "Alkan Metin",
+              "Vatansever Özbek Ulfet",
+              "Tuğrul H Murat"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Conjunctivitis, Bacterial",
+              "Cross Infection",
+              "Dehydration",
+              "Down Syndrome",
+              "Fluid Therapy",
+              "Humans",
+              "Infant",
+              "Male",
+              "Meningococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24237442/"
+          },
+          {
+            "pmid": "40463015",
+            "title": "Antibiotic treatment modulates Escherichia coli-derived bacterial extracellular vesicle (BEV) production and their capacity to upregulate ICAM-1 in human endothelial cells.",
+            "abstract": "Antibiotic treatment is often necessary to eliminate life-threatening bacterial infections. However, these treatments can alter production of bacterial extracellular vesicles (BEVs), which often contain pro-inflammatory biomolecules. In this study, we examined how the clinically-relevant antibiotics meropenem, tobramycin, and ciprofloxacin impacted BEV production from a urinary tract infection-associated Escherichia coli strain (CFT073 [WAM2267]) and a meningitis-associated strain (K1 RS218). BEVs from both strains caused a dose-dependent increase in expression of intercellular adhesion molecule-1 (ICAM-1) in human umbilical vein endothelial cells, priming the endothelium for interactions with immune cells. Blockade of toll-like receptor 4 revealed that this receptor was responsible for BEV-endothelial interactions. Treatment with meropenem, a β-lactam antibiotic, increased production of BEVs from strain K1 RS218. Furthermore, meropenem treatment caused strain CFT073 [WAM2267] to produ",
+            "journal": "bioRxiv : the preprint server for biology",
+            "year": "2025",
+            "authors": [
+              "Widom Louis P",
+              "Torabian Panteha",
+              "Wojehowski Abigail C",
+              "Ghaemmaghami Sina",
+              "Michel Lea V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Preprint"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40463015/"
+          },
+          {
+            "pmid": "2179845",
+            "title": "Treatment of Pseudomonas meningitis with ceftazidime with or without concurrent therapy.",
+            "abstract": "In ongoing studies in Europe and the United States, 10 pediatric patients with bacterial meningitis caused by Pseudomonas species were treated with ceftazidime. Pseudomonas aeruginosa was isolated from the CSF of 7 patients and other Pseudomonas species from the remaining 3. Eight of the 10 patients had received previous antimicrobial treatment which included aminoglycosides in 6, along with ticarcillin and ureidopenicillins in 3. Ceftazidime was administered 10 to 42 days in dosages ranging from 109 to 300 mg/kg/day. Seven of the 10 patients received ceftazidime only for 10 to 42 days. The other 3 patients received amikacin in 2 and gentamicin and tobramycin in the other. Seven patients were cured clinically and 3 died; 9 were cured bacteriologically and one who was presumed cured on the basis of clinical response subsequently died. Sterilization of the cerebrospinal fluid occurred at 48 hours to 12 days. Ceftazidime appears useful in treating bacterial meningitis caused by Pseudomona",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "1990",
+            "authors": [
+              "Rodriguez W J",
+              "Khan W N",
+              "Cocchetto D M",
+              "Feris J",
+              "Puig J R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2179845/"
+          },
+          {
+            "pmid": "3279487",
+            "title": "Use of animal models in evaluation of the quinolones.",
+            "abstract": "Discriminative animal models of infection are important in helping to define the role of new antibacterial drugs in the treatment of human diseases. Several animal models have been used to compare the efficacies of quinolones with those of standard therapies against selected bacterial pathogens. In animal models of endocarditis, pefloxacin, enoxacin, and ciprofloxacin have been shown to be equivalent to standard therapies against methicillin-sensitive Staphylococcus aureus and as effective as vancomycin against methicillin-resistant strains. Difloxacillin has been shown to be equivalent to vancomycin in a model of osteomyelitis due to S. aureus. Ciprofloxacin is as effective as the combination of ceftazidime and tobramycin in a model of pseudomonal meningitis, although the levels of ciprofloxacin (6 mg/L) in serum required to produce a bactericidal effect in the cerebrospinal fluid are higher than those usually obtained in humans. Ciprofloxacin and other quinolones are also effective t",
+            "journal": "Reviews of infectious diseases",
+            "year": "1988",
+            "authors": [
+              "Sande M A",
+              "Brooks-Fournier R A",
+              "Gerberding J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents",
+              "Disease Models, Animal",
+              "Drug Evaluation",
+              "Metabolic Clearance Rate",
+              "Pseudomonas Infections",
+              "Quinolines",
+              "Staphylococcal Infections",
+              "Therapeutic Equivalency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3279487/"
+          },
+          {
+            "pmid": "23300401",
+            "title": "Intraventricular and Intravenous Tobramycin with Ceftazidime for Ventriculitis Secondary to Pseudomonas aeruginosa.",
+            "abstract": "The preferred method for shunting cerebrospinal fluid in the ventricles is via a ventriculoperitoneal or ventriculoatrial shunt. Unfortunately, infection is a major complication of shunt surgery, which places the patient at risk of intellectual impairment and death. Although the most common causative pathogens are Staphylococcus epidermidis and Staphylococcus aureus, gram-negative bacterial infections have increased over the last three decades. Treatment of Pseudomonas ventriculitis is highly variable, because there are few guidelines for drug selection, administration, and monitoring. We report a case of post-shunt revision Pseudomonas meningitis/ ventriculitis that was successfully treated by the intraventricular adminstration tobramycin in conjunction with intravenous tobramycin and ceftazidime.",
+            "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+            "year": "2003",
+            "authors": [
+              "Masvosva Priscilla",
+              "Buckingham Steven C",
+              "Einhaus Stephanie",
+              "Phelps Stephanie J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23300401/"
+          },
+          {
+            "pmid": "7015646",
+            "title": "[Cefuroxime-tobramycin treatment of bacterial infections in cancer patients].",
+            "abstract": "Twenty-five patients with different metastatic tumors, and often with other diseases which may have further compromised their defenses (such as diabetes, anemia and neutropenia), had a simultaneous bacterial complication. This was regarded as documented (i.e., proved by positive culture) in 12 of 25 patients, and probable if subjective and objective symptoms, X-ray, laboratory tests and the clinical picture agreed with bacterial infection in progress, even though the culture was negative, in 13 of 25 patients. Antibiotic therapy with cefuroxime-tobramycin gave good results in 19 of 25 patients, i.e., in 10 of 12 with a documented infection and in 9 of 13 with a probable infection. Fever of unknown origin and urinary infections were the most responsive to the therapy. Three of 25 patients had nephrotoxicity, with a very small rise in BUN and creatinine, which was easily reversible. According to our experience, antibiotic therapy with cefuroxime-tobramycin would be useful in cancer patie",
+            "journal": "Tumori",
+            "year": "1980",
+            "authors": [
+              "Azzoni P"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Cefuroxime",
+              "Cephalosporins",
+              "Drug Therapy, Combination",
+              "Enterobacteriaceae Infections",
+              "Humans",
+              "Meningitis, Meningococcal",
+              "Neoplasms",
+              "Staphylococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7015646/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920042ARZ",
+        "product": "TOBRADEX OPHTHALMIC SUSPENSION",
+        "active_ingredient": "TOBRAMYCIN[3.00MG                        ],DEXAMETHASONE[1.00MG                        ]",
+        "generic_name": "Tobramycin 0.3% & Dexamethasone 0.1% Eye Drops",
+        "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-02-26",
+        "date_end": "2027-02-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920042ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921132ARZ",
+        "product": "TOBRADEX EYE OINTMENT",
+        "active_ingredient": "DEXAMETHASONE[1MG                           ],TOBRAMYCIN[3MG                           ]",
+        "generic_name": "Tobramycin 0.3% & Dexamethasone 0.1% Eye Ointment",
+        "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-08",
+        "date_end": "2029-10-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921132ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920043ARZ",
+        "product": "TOBREX OPHTHALMIC SOLUTION 0.3%",
+        "active_ingredient": "TOBRAMYCIN[0.3%                          ]",
+        "generic_name": "Tobramycin Sulphate 0.3% Eye Drops",
+        "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-25",
+        "date_end": "2030-12-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920043ARZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00684",
+    "name": "Tobramycin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Tobramycin"
+      },
+      "queried_at": "2026-03-04T16:40:31.137438",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Tobramycin"
+      },
+      "queried_at": "2026-03-04T16:40:41.300877",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "superior limbic keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T16:40:42.329792",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "superior limbic keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T16:40:49.253843",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "superior limbic keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T16:40:51.594600",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T16:40:52.880104",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T16:40:58.428358",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T16:41:00.146182",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "iridocyclitis"
+      },
+      "queried_at": "2026-03-04T16:41:02.504716",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "iridocyclitis"
+      },
+      "queried_at": "2026-03-04T16:41:06.907469",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "iridocyclitis"
+      },
+      "queried_at": "2026-03-04T16:41:09.935016",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "escherichia coli infection"
+      },
+      "queried_at": "2026-03-04T16:41:11.186776",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "escherichia coli infection"
+      },
+      "queried_at": "2026-03-04T16:41:17.227212",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "escherichia coli infection"
+      },
+      "queried_at": "2026-03-04T16:41:21.894838",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "bacterial meningitis"
+      },
+      "queried_at": "2026-03-04T16:41:23.023979",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "bacterial meningitis"
+      },
+      "queried_at": "2026-03-04T16:41:26.851034",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tobramycin",
+        "disease": "bacterial meningitis"
+      },
+      "queried_at": "2026-03-04T16:41:30.816359",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:41:30.822638",
+    "version": "1.0"
+  }
+}

@@ -6,7 +6,7 @@ drug_name: "Norfloxacin"
 kg_predictions: 150
 dl_predictions: 0
 evidence_level: "L2"
-indication_count: 150
+indication_count: 5
 brands: []
 permalink: /drugs/norfloxacin/
 ---

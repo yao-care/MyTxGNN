@@ -1,0 +1,191 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "endometriosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01791413",
+      "title": "Effect of Pre-operative Depo Medroxyprogesterone Acetate on Serum Anti-mullerian Hormone Level After Laparoscopic Ovarian Cystectomy of Endometriomas",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-03",
+      "country": "Thailand",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to evaluate the ovarian reserve changes after preoperative depot medroxyprogesterone acetate (DMPA) in women with ovarian endometrioma undergoing laparoscopic cystectomy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy women 18-40 years old\n* A diagnosis of endometrioma with diameter of at least 3 cm.\n* Candidates for laparoscopic cystectomy\n\nExclusion Criteria:\n\n* Patients' refusal to participate\n* Not candidate for depot medroxyprogesterone acetate such as: cirrhosis, chronic kidne",
+      "endpoints": [
+        "Percentage Changes of Serum Anti-Mullerian Hormone (AMH) at 2-week and 3-month Post Operation"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT01791413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00437658",
+      "title": "A Phase II, Randomized, Double-blind, Active-controlled Study to Assess the Safety and Efficacy of NBI-56418 in Subjects With Endometriosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-12-11",
+      "completion_date": "2008-11-24",
+      "country": "N/A",
+      "enrollment": 252,
+      "brief_summary": "This study is designed to assess the effects of elagolix versus subcutaneous depot medroxyprogesterone acetate (DMPA-SC; also known as depo-provera) on bone mineral density (BMD) during treatment for 24 weeks with a subsequent 24-week post-treatment period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be female, aged 18 to 49 years, inclusive\n* Have a total CPSSS of ≥ 6 at screening and baseline (Day 1) in the following categories: dysmenorrhea, dyspareunia, nonmenstrual pelvic pain, pelvic tenderness and induration. The total score must include a total of at least 2 in eac",
+      "endpoints": [
+        "Percent Change From Baseline in Bone Mineral Density of the Spine at Week 24",
+        "Percent Change From Baseline in Bone Mineral Density of the Femur at Week 24"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT00437658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01630252",
+      "title": "A Phase IIa Efficacy and Safety Study of PGL5001 Versus Placebo Administered for up to 5 Months With Concomitant Administration of Depot Medroxyprogesterone Acetate for the Treatment of Peritoneal and/or Ovarian Endometriosis With an Inflammatory Component.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2013-10",
+      "country": "Poland",
+      "enrollment": 24,
+      "brief_summary": "This is a prospective, three-part (Part A1, Part A2 and Part B),Phase II study investigating the efficacy, safety, pharmacokinetics and pharmacodynamics of the JNK inhibitor PGL5001 orally administered for up to 5 months with concomitant DMPA administration for the treatment of laparoscopically diagnosed inflammatory endometriosis. The part A1 is open-label, the parts A2 and B are double-blind.\n\nThe target population will be women of reproductive age and suffering from newly diagnosed peritoneal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The Subject must provide written informed consent prior to initiation of any study related procedures.\n* The Subject must be an adult woman of reproductive age, aged from 18 and above.\n* The Subject must be a newly diagnosed patient suffering from peritoneal and/or ovarian end",
+      "endpoints": [
+        "Change from baseline to end of treatment in the number and percentage of red lesions (and/or inflammatory lesions), based on total number of red and black lesions."
+      ],
+      "sponsor": "PregLem SA",
+      "url": "https://clinicaltrials.gov/study/NCT01630252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00155051",
+      "title": "Progestin Treatment for Endometrial Stromal Cells in Adenomyosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2004-07",
+      "completion_date": "2005-04",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "Long term treatment of progestin has been demonstrated to have an inhibitory effect on endometrial angiogenesis and the proliferation of endometrial stromal cells. As a result, progestin is now widely employed in the treatment of endometrial cancer, endometrial hyperplasia, and dysfunction uterine bleeding. In the treatment of adenomyosis, however, the beneficial effect of progestin was limited. It might imply that the behavior of endometrial cells in women with adenomyosis is different from tha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with adenomyosis\n* at early- to mid-secretory phases\n\nExclusion Criteria:\n\n* postmenopausal\n* malignancy",
+      "endpoints": [],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00155051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02534688",
+      "title": "Effectiveness of Levonorgestrel-intrauterine System (LNG-IUS) Versus Depot Medroxyprogesterone Acetate (DMPA) in Treatment of Pelvic Pain in Clinically Diagnosed Endometriotic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2016-05",
+      "country": "Thailand",
+      "enrollment": 50,
+      "brief_summary": "randomized controlled trial\n\nEligiblility criteria Provisional diagnosis Clinical presentation Progressive dysmenorrhea Chronic pelvic pain Deep dyspareunia Evidences of endometriosis Endometriotic nodule Cul-de-sac nodularity Endometrioma detected by ultrasonography size \\< 4 cm\n\nInclusion criteria Female age 18-45 yr Moderate to severe pelvic pain categorized by VAS \\>50 Previous sexual intercourse\n\nExclusion criteria Co-existing other genital tract disease associated pain Previous hormonal us",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female age 18-45 yr\n* Moderate to severe pelvic pain categorized by VAS \\>50\n* Previous sexual intercourse\n\nExclusion Criteria:\n\n* Co-existing other genital tract disease associated pain\n* Previous hormonal use within 3 months\n* History of DMPA treatment failure\n* WHO eligibil",
+      "endpoints": [
+        "Severity of pelvic pain : measured by visual analog scale"
+      ],
+      "sponsor": "King Chulalongkorn Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02534688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02894151",
+      "title": "Effectiveness of Levonorgestrel-intrauterine System (LNG-IUS) Versus Depot Medroxyprogesterone Acetate (DMPA) in Treatment of Pelvic Pain in Clinically Diagnosed Endometriotic Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2016-05",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "The primary objective : To compare effectiveness of pain control in endometriosis associated pelvic pain between LNG-IUS and DMPA The secondary objective : To compare vaginal bleeding pattern, side effect, continuation rate, satisfaction and quality of life between LNG-IUS and DMPA in treatment of endometriosis associated pelvic pain",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18-45year Pelvic pain VAS\\>50 Previous Sexual intercouse\n\nExclusion Criteria:\n\n* other genital tract disease causing pelvic pain Previous hromonal treament 3 month History of DMPA treatment failure WHO eligibility criteria 2009 categorized in 3-4 for DMPA and LNG-IUS user ",
+      "endpoints": [
+        "Change baseline pain score assessed by visual analog scale after 6 month-use of both interventions"
+      ],
+      "sponsor": "Chulalongkorn University",
+      "url": "https://clinicaltrials.gov/study/NCT02894151"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01056042",
+      "title": "Postoperative Intramuscular Depot Medroxyprogesterone Acetate Versus Continuous Oral Contraceptive for Pelvic Pain Associated With Endometriosis : Randomized Comparative Trial.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2011-10",
+      "country": "Thailand",
+      "enrollment": 112,
+      "brief_summary": "Patients with endometriosis-associated pain have conservative surgery performed to remove all visible lesions. Then, patients are randomized into two groups. In the first group patients have depot medroxyprogesterone acetate injections every 3 months for a total of 6 months.In the second group patients have oral contraceptive combined pills everyday for 6 months. Patients are followed up on recurrence of pain for 1 year after medication.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal women from 18 to 45 years of age with endometriosis-associated pain for at least 6 months who had conservative surgery performed.\n\nExclusion Criteria:\n\n* Medical therapies for endometriosis other than NSAID within previous 6 months\n* Contraindication to the drugs",
+      "endpoints": [
+        "Patients' satisfaction with the treatment"
+      ],
+      "sponsor": "Prince of Songkla University",
+      "url": "https://clinicaltrials.gov/study/NCT01056042"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06145438",
+      "title": "Comparing the Safety and Efficacy in the Use of Dienogest, Leuprolide Acetate, DMPA and Combined Oral Contraceptive Pills (Microgynon) on Endometriosis Patients After Conservative Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-09-04",
+      "completion_date": "2024-11-19",
+      "country": "Indonesia",
+      "enrollment": 80,
+      "brief_summary": "The goal of this clinical trial is to compare safety and efficacy in endometriosis patient after conservative surgery. The main question\\[s\\] it aims to answer are:\n\n1. Health-related quality of life (HRQoL)\n2. VAS score\n3. Beta estradiol\n4. TNF Alpha\n5. Adnexal mass recurrence\n\nParticipants will be randomized into 4 groups, each group will receive:\n\n1. Leuprolide Acetate injection/month\n2. Dienogest 2 mg/day\n3. COC (mycrogynon)/day\n4. DMPA injection 150mg/month Researcher will compare the effic",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient post surgical removal of endometriosis cyst Willing to participate\n\nExclusion Criteria:\n\n1. Use of any hormonal therapy for endometriosis within the previous 16 weeks.\n2. History of severe adverse drug reactions or hypersensitivity to steroid hormones.\n3. Failure of prev",
+      "endpoints": [
+        "beta estradiol level",
+        "TNF alpha level"
+      ],
+      "sponsor": "Universitas Diponegoro",
+      "url": "https://clinicaltrials.gov/study/NCT06145438"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00173212",
+      "title": "Proliferation of Endometrial Stromal Cells in Adenomyosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2005-09",
+      "completion_date": "2006-03",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "Adenomyosis refers to the presence of endometrial glands and stroma that is haphazardly deep within the myometrium. However, the etiology and pathologic mechanism responsible for adenomyosis are not yet very well known. Our previous results revealed that the expression of killer inhibitory receptors on natural killer cells was decreased in eutopic endometrium in women with adenomyosis. It implies that the formation of adenomyosis might be due to abnormal endometrial tissues, but not the aberrant",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with adenomyosis\n* at early- to mid-secretory phases\n\nExclusion Criteria:\n\n* postmenopausal\n* malignancy",
+      "endpoints": [],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00173212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06378489",
+      "title": "The Etonogestrel Contraceptive Implant for Treatment of Endometrial Hyperplasia Without Atypia: A Single-arm, Open-label, Longitudinal Study in a Government Hospital in the Philippines",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-06-01",
+      "completion_date": "2025-05-31",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "Endometrial hyperplasia without atypia is a condition in which the endometrium (the lining of the uterus) becomes abnormally thick. Although endometrial hyperplasia without atypia is not cancer, it can lead to endometrial cancer in 1-3% of women. This disease is treated by giving progestins. The optimal route, dosage and duration of progestin treatment for endometrial hyperplasia has not yet been determined until now. However, several publications have suggested the use of levonorgestrel releasi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women aged 18 years old to perimenopause who present with or without abnormal uterine bleeding and who have an endometrial biopsy result which shows endometrial hyperplasia without atypia\n* women willing to have the etonogestrel implant (Implant NXT) for the duration of treatm",
+      "endpoints": [
+        "Rate of (resolution) regression to normal endometrium",
+        "Endometrial thickness (by ultrasound)"
+      ],
+      "sponsor": "University of the Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT06378489"
+    }
+  ],
+  "timestamp": "2026-03-04T17:00:30.916867",
+  "success": true,
+  "error_message": null
+}

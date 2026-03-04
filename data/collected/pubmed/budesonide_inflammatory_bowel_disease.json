@@ -1,0 +1,586 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "inflammatory bowel disease",
+    "query_string": "Budesonide AND inflammatory bowel disease"
+  },
+  "data": {
+    "query": "Budesonide AND inflammatory bowel disease",
+    "results": [
+      {
+        "pmid": "36753033",
+        "title": "Mild Crohn's Disease: Definition and Management.",
+        "abstract": "Crohn's Disease (CD) is a chronic inflammatory disease that can lead to progressive damage to the gastrointestinal tract and significant disability. Early, \"top-down\" biologic therapy is recommended in moderate-to-severe CD to induce remission and to prevent hospitalization and complications. However, an estimated 20-30% of patients with CD have a mild disease course and may not garner sufficient benefit from expensive, immunosuppressing agents to justify their risks. Herein, we review characteristics of patients with mild CD, the available options for disease treatment and monitoring, and future directions of research.",
+        "journal": "Current gastroenterology reports",
+        "year": "2023",
+        "authors": [
+          "Claytor Jennifer",
+          "Kumar Pushkar",
+          "Ananthakrishnan Ashwin N",
+          "Colombel Jean-Frederic",
+          "Agrawal Manasi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Crohn Disease",
+          "Sulfasalazine",
+          "Budesonide",
+          "Anti-Bacterial Agents",
+          "Enteral Nutrition",
+          "Remission Induction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36753033/"
+      },
+      {
+        "pmid": "30840605",
+        "title": "ACG Clinical Guideline: Ulcerative Colitis in Adults.",
+        "abstract": "Ulcerative colitis (UC) is an idiopathic inflammatory disorder. These guidelines indicate the preferred approach to the management of adults with UC and represent the official practice recommendations of the American College of Gastroenterology. The scientific evidence for these guidelines was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) process. In instances where the evidence was not appropriate for GRADE, but there was consensus of significant clinical merit, \"key concept\" statements were developed using expert consensus. These guidelines are meant to be broadly applicable and should be viewed as the preferred, but not only, approach to clinical scenarios.",
+        "journal": "The American journal of gastroenterology",
+        "year": "2019",
+        "authors": [
+          "Rubin David T",
+          "Ananthakrishnan Ashwin N",
+          "Siegel Corey A",
+          "Sauer Bryan G",
+          "Long Millie D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Anti-Inflammatory Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Biopsy",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Colonoscopy",
+          "Colorectal Neoplasms",
+          "Disease Management",
+          "Early Detection of Cancer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30840605/"
+      },
+      {
+        "pmid": "30007787",
+        "title": "Reviewing the therapeutic role of budesonide in Crohn's disease.",
+        "abstract": "Oral budesonide is a glucocorticoid of primarily local action. In the field of digestive diseases, it is used mainly in inflammatory bowel disease, but also in other indications. This review addresses the pharmacology, pharmacodynamics and therapeutic use of budesonide. Its approved indications are reviewed, as well as other clinical scenarios in which it could play a role, in order to facilitate its use and improve the accuracy of its prescription.",
+        "journal": "Gastroenterologia y hepatologia",
+        "year": "2018",
+        "authors": [
+          "López-Sanromán Antonio",
+          "Clofent Joan",
+          "Garcia-Planella Esther",
+          "Menchén Luis",
+          "Nos Pilar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Controlled Clinical Trials as Topic",
+          "Crohn Disease",
+          "Humans",
+          "Ileostomy",
+          "Postoperative Complications",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30007787/"
+      },
+      {
+        "pmid": "8819801",
+        "title": "Budesonide in inflammatory bowel disease.",
+        "abstract": "Due to its immunomodulatory and anti-inflammatory properties glucocorticosteroids have proved to be highly efficacious in patients with inflammatory bowel disease. However, because of the risk of side-effects, the dose and duration of therapy with systemically acting glucocorticosteroids have to be restricted. Recently the use of topically acting glucocorticosteroids has attracted great interest. Among the various topically acting glucocorticosteroids budesonide has emerged as the most promising. Budesonide is highly potent, is readily water-soluble and has low systemic bioavailability, thus reducing the risk of corticosteroid-related side-effects. When given as enema to patients with proctitis or proctosigmoiditis, the efficacy of budesonide is greater than that of placebo and equal to that of prednisolone or 5-aminosalicylic acid enemas. In an enteric-coated formulation budesonide is more effective than placebo in achieving and maintaining remission in patients with ileocecal Crohn's",
+        "journal": "The Netherlands journal of medicine",
+        "year": "1996",
+        "authors": [
+          "Lamers C B",
+          "Wagtmans M J",
+          "van der Sluys Veer A",
+          "van Hogezand R A",
+          "Griffioen G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Crohn Disease",
+          "Delayed-Action Preparations",
+          "Enema",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8819801/"
+      },
+      {
+        "pmid": "18422482",
+        "title": "Oral pH-modified release budesonide for treatment of inflammatory bowel disease, collagenous and lymphocytic colitis.",
+        "abstract": "Budesonide is a glucocorticoid with high topical glucocorticoid activity and low systemic availability. Oral pH-modified release budesonide has been investigated for the treatment of various inflammatory intestinal diseases.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2008",
+        "authors": [
+          "Gross Volker"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Clinical Trials as Topic",
+          "Colitis, Collagenous",
+          "Colitis, Lymphocytic",
+          "Delayed-Action Preparations",
+          "Glucocorticoids",
+          "Humans",
+          "Hydrogen-Ion Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18422482/"
+      },
+      {
+        "pmid": "32681228",
+        "title": "Randomized Trial of Ciprofloxacin Doxycycline and Hydroxychloroquine Versus Budesonide in Active Crohn's Disease.",
+        "abstract": "Increased mucosa-associated E. coli are present in Crohn's disease, but their role in pathogenesis is uncertain.",
+        "journal": "Digestive diseases and sciences",
+        "year": "2021",
+        "authors": [
+          "Rhodes Jonathan M",
+          "Subramanian Sreedhar",
+          "Flanagan Paul K",
+          "Horgan Graham W",
+          "Martin Kate"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Ciprofloxacin",
+          "Crohn Disease",
+          "Cross-Over Studies",
+          "Doxycycline",
+          "Drug Therapy, Combination",
+          "Enzyme Inhibitors",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32681228/"
+      },
+      {
+        "pmid": "8586030",
+        "title": "Budesonide. A review of its pharmacological properties and therapeutic efficacy in inflammatory bowel disease.",
+        "abstract": "Budesonide is a glucocorticoid with high topical activity, but low systemic bio-availability which results in reduced systemic effects in comparison with other glucocorticoids. To date, it has been evaluated for use in patients with inflammatory bowel disease when administered either orally as a controlled ileal release formulation or rectally as an enema. In comparative trials, daily treatment with budesonide enema 2 mg/100ml for 4 weeks produced endoscopic remission or improvement in 46 to 84% of patients with active distal ulcerative colitis and/or proctitis and histological remission or improvement in 45 to 68%. In general, this regimen was effective as regimens of hydrocortisone, methylprednisolone, prednisolone or mesalazine (5-amino-salicylic acid, mesalamine) enemas, but caused less suppression of plasma cortisol levels than the other glucocorticoids. Oral treatment with controlled release budesonide 9 mg/day for 8 weeks produces clinical remission in 42 to 67% of patients with",
+        "journal": "Drugs",
+        "year": "1995",
+        "authors": [
+          "Spencer C M",
+          "McTavish D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Clinical Trials as Topic",
+          "Colitis, Ulcerative",
+          "Crohn Disease",
+          "Humans",
+          "Pregnenediones",
+          "Proctitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8586030/"
+      },
+      {
+        "pmid": "37418329",
+        "title": "Drugs for inflammatory bowel disease.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2023",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Immunosuppressive Agents",
+          "Colitis, Ulcerative",
+          "Infliximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37418329/"
+      },
+      {
+        "pmid": "21790284",
+        "title": "Budesonide in the treatment of inflammatory bowel disease.",
+        "abstract": "Inflammatory bowel disease, including Crohn's disease and ulcerative colitis, features recurrent episodes of inflammation of the GI tract. The treatment of inflammatory bowel disease is aimed at breaking the cycle of relapsing and remitting inflammation by inducing and maintaining remission. Systemically active conventional corticosteroids have long played a role in the induction of remission in both Crohn's disease and ulcerative colitis, however, their long-term use can lead to adverse systemic effects. Budesonide, a synthetic steroid, has potent local anti-inflammatory effects and limited systemic bioavailability making it an appealing therapeutic option. Ulcerative colitis with predominantly distal disease may be treated with topical budesonide, however, novel oral controlled-release formulations have also been developed to allow for treatment of the entire colon. This article summarizes the use of budesonide in the management of inflammatory bowel disease.",
+        "journal": "Expert review of clinical immunology",
+        "year": "2011",
+        "authors": [
+          "Silverman Jason",
+          "Otley Anthony"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Clinical Trials as Topic",
+          "Drug Administration Routes",
+          "Drug Delivery Systems",
+          "Gastrointestinal Tract",
+          "Humans",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21790284/"
+      },
+      {
+        "pmid": "21407179",
+        "title": "Glucocorticosteroid therapy in inflammatory bowel disease: systematic review and meta-analysis.",
+        "abstract": "The use of glucocorticosteroids to treat both Crohn's disease (CD) and ulcerative colitis (UC) is widespread, but no systematic review and meta-analysis has examined the issue of efficacy of these agents in its entirety.",
+        "journal": "The American journal of gastroenterology",
+        "year": "2011",
+        "authors": [
+          "Ford Alexander C",
+          "Bernstein Charles N",
+          "Khan Khurram J",
+          "Abreu Maria T",
+          "Marshall John K"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Crohn Disease",
+          "Glucocorticoids",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Remission Induction",
+          "Risk",
+          "Secondary Prevention"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21407179/"
+      },
+      {
+        "pmid": "27261899",
+        "title": "Pregnancy and the Patient with Inflammatory Bowel Disease: Fertility, Treatment, Delivery, and Complications.",
+        "abstract": "For many women with inflammatory bowel disease (IBD), the illness coincides with their childbearing years. IBD increases the risk of pregnancy complications and adverse pregnancy outcomes. The multidisciplinary care team should emphasize the importance of medication adherence to achieve preconception disease control and maintain corticosteroid-free remission throughout pregnancy. Medication adjustments to reduce fetal exposure may be considered on an individualized basis in quiescent disease; however, any benefits of such adjustments remain theoretic and there is risk of worsening disease activity. Mode of delivery is determined by obstetric indications, except for women with active perianal disease who should consider cesarean delivery.",
+        "journal": "Gastroenterology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "McConnell Ryan A",
+          "Mahadevan Uma"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Aminosalicylic Acids",
+          "Anti-Bacterial Agents",
+          "Antibodies, Monoclonal",
+          "Biological Products",
+          "Breast Feeding",
+          "Budesonide",
+          "Certolizumab Pegol",
+          "Delivery, Obstetric",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27261899/"
+      },
+      {
+        "pmid": "39715834",
+        "title": "[Efficient treatment of mild Crohn's disease and mild ulcerative colitis].",
+        "abstract": "The cornerstone of treatment for mild ulcerative colitis is still the oral or topical (rectal) application of aminosalicylates (5-ASA). 5‑ASA preparations are often only administered orally in mild ulcerative colitis. Study data show that in ulcerative proctitis and left-sided colitis, rectal 5‑ASA preparations are even more effective than oral administration. In a next step, steroid-containing topical therapies should be used. Topical steroids such as budesonide are also primarily used in mild Crohn's disease. However, it is controversial whether treatment is necessary in symptom-free patients. There is still a lack of evidence to prove that more aggressive treatment (using immunosuppressants, biologics or small molecules) has a long-term benefit in these patients. Most guidelines are critical of the use of 5‑ASA in mild Crohn's disease. Nevertheless, there is some evidence for sufficiently high-dose treatment with 5‑ASA, although one must be aware of its limited effectiveness. Howeve",
+        "journal": "Innere Medizin (Heidelberg, Germany)",
+        "year": "2025",
+        "authors": [
+          "Rogler Gerhard"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Crohn Disease",
+          "Colitis, Ulcerative",
+          "Mesalamine",
+          "Budesonide",
+          "Administration, Oral",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Administration, Rectal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39715834/"
+      },
+      {
+        "pmid": "10650668",
+        "title": "[Budesonide and inflammatory bowel disease].",
+        "abstract": "",
+        "journal": "Gastroenterologia y hepatologia",
+        "year": "1999",
+        "authors": [
+          "Gomollón F",
+          "Hinojosa J",
+          "Nos P"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Clinical Trials as Topic",
+          "Colitis, Ulcerative",
+          "Crohn Disease",
+          "Humans",
+          "Hydrocortisone",
+          "Inflammatory Bowel Diseases",
+          "Meta-Analysis as Topic",
+          "Multicenter Studies as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10650668/"
+      },
+      {
+        "pmid": "39243391",
+        "title": "Differences in the Adverse Event Burden of Corticosteroid Use in Inflammatory Bowel Disease as Reported Between Adverse Event Reporting Systems and a Patient Questionnaire.",
+        "abstract": "Corticosteroids are widely used in managing inflammatory bowel disease (IBD). While adverse events (AEs) of corticosteroids are well recognized, current understanding of corticosteroid-related AE burden in IBD remains incomplete.",
+        "journal": "Journal of Crohn's & colitis",
+        "year": "2025",
+        "authors": [
+          "Al Sulais Eman",
+          "Louis Edouard",
+          "Bokemeyer Bernd",
+          "Gecse Krisztina B",
+          "Parkes Gareth C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adverse Drug Reaction Reporting Systems",
+          "Inflammatory Bowel Diseases",
+          "Female",
+          "Male",
+          "Adult",
+          "Budesonide",
+          "Surveys and Questionnaires",
+          "Middle Aged",
+          "Prednisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243391/"
+      },
+      {
+        "pmid": "11181269",
+        "title": "[Budesonide in inflammatory bowel disease: a meta-analysis].",
+        "abstract": "Budesonide is a synthetic glucocorticoid used in the Crohns's disease (CD) and ulcerative colitis (UC). The aim of the study was to evaluate its efficacy in inducing and maintaining remission of CD in oral administration and in inducing endoscopic and histologic remission in distal UC when was given as enema.",
+        "journal": "Medicina clinica",
+        "year": "2001",
+        "authors": [
+          "Nos P",
+          "Hinojosa J",
+          "Gomollón F",
+          "Ponce J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Clinical Trials as Topic",
+          "Glucocorticoids",
+          "Humans",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11181269/"
+      },
+      {
+        "pmid": "18855676",
+        "title": "Budesonide: teaching an old dog new tricks for inflammatory bowel disease treatment.",
+        "abstract": "Crohn's disease and ulcerative colitis are chronic relapsing inflammatory bowel diseases with extremely great variability in presentation and clinical course. For many decades, corticosteroids and aminosalicylates have been the mainstay of the treatment for both Crohn's disease and ulcerative colitis, for the induction and maintenance of remission, respectively. The main limiting factors for the repeated use of corticosteroids or the use as a maintenance treatment are the very high prevalence of systemic side effects, together with the possibility of developing dependency on and/or resistance to the drug, which are reported in more than one third of patients with inflammatory bowel disease. In the last decade, a number of corticosteroids with enhanced topical activity and low systemic activity have been developed. Among them, budesonide and beclomethasone dipropionate are the most used for the treatment of the inflammatory bowel diseases. Indeed, budesonide is the drug of choice for th",
+        "journal": "Current medicinal chemistry",
+        "year": "2008",
+        "authors": [
+          "Angelucci Erika",
+          "Malesci Alberto",
+          "Danese Silvio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Budesonide",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Randomized Controlled Trials as Topic",
+          "Recurrence",
+          "Remission Induction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18855676/"
+      },
+      {
+        "pmid": "36137844",
+        "title": "AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review.",
+        "abstract": "The purpose of this expert review is to summarize the diagnosis and management of refractory celiac disease. It will review evaluation of patients with celiac disease who have persistent or recurrent symptoms, differential diagnosis, nutritional support, potential therapeutic options, and surveillance for complications of this condition.",
+        "journal": "Gastroenterology",
+        "year": "2022",
+        "authors": [
+          "Green Peter H R",
+          "Paski Shirley",
+          "Ko Cynthia W",
+          "Rubio-Tapia Alberto"
+        ],
+        "pub_types": [
+          "Review",
+          "Practice Guideline",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "United States",
+          "Enteropathy-Associated T-Cell Lymphoma",
+          "Prednisone",
+          "Lactose",
+          "Celiac Disease",
+          "Glutens",
+          "Inflammatory Bowel Diseases",
+          "Atrophy",
+          "Budesonide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36137844/"
+      },
+      {
+        "pmid": "8078535",
+        "title": "Budesonide for inflammatory bowel disease. Is it a magic bullet?",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1994",
+        "authors": [
+          "Sachar D B"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Budesonide",
+          "Crohn Disease",
+          "Glucocorticoids",
+          "Humans",
+          "Prednisolone",
+          "Pregnenediones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8078535/"
+      },
+      {
+        "pmid": "18618676",
+        "title": "Oral budesonide for the therapy of post-liver transplant de novo inflammatory bowel disease: a case series and systematic review of the literature.",
+        "abstract": "The therapy for posttransplant IBD is clinically challenging. Patients receiving liver transplants are immunosuppressed to prevent rejection, but via an unknown mechanism develop de novo IBD in spite of receiving some of the same medications used for therapy in traditional IBD. In the published literature most of the patients who developed de novo IBD were treated with traditional corticosteroids. Exposure to systemic corticosteroids increases risks of infection, diabetes mellitus, and osteoporosis among other complications. Budesonide, a luminally active steroid with low systemic absorption, is an established therapeutic agent for IBD that should receive special considerations as first-line therapy in this patient population.",
+        "journal": "Inflammatory bowel diseases",
+        "year": "2008",
+        "authors": [
+          "Barritt A Sidney",
+          "Zacks Steven L",
+          "Rubinas Tara C",
+          "Herfarth Hans H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Administration, Oral",
+          "Budesonide",
+          "Cytomegalovirus",
+          "Cytomegalovirus Infections",
+          "Immunosuppressive Agents",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18618676/"
+      },
+      {
+        "pmid": "30236840",
+        "title": "Mucus-penetrating budesonide nanosuspension enema for local treatment of inflammatory bowel disease.",
+        "abstract": "Inflammatory bowel disease (IBD) is a chronic inflammatory gastrointestinal disorder that affects more than 1 million individuals in the USA. Local therapy with enema formulations, such as micronized budesonide (Entocort®), is a common strategy for treating patients with distally active IBD. However, we hypothesize that micronized particulates are too large to effectively penetrate colorectal mucus, limiting the extent of drug delivery to affected tissues prior to clearance. Here, we describe the development of a budesonide nanosuspension (NS) with the appropriate surface coating and size to enhance penetration of colorectal mucus and ulcerated colorectal tissues. We demonstrate that model fluorescent polystyrene (PS) particles ∼200 nm in size with a muco-inert Pluronic F127 coating provide enhanced mucosal distribution and tissue penetration in mice with trinitrobenzenesulfonic acid (TNBS)-induced IBD compared to model 2 μm PS particles coated with polyvinylpyrollidone (PVP), the stab",
+        "journal": "Biomaterials",
+        "year": "2018",
+        "authors": [
+          "Date Abhijit A",
+          "Halpert Gilad",
+          "Babu Taarika",
+          "Ortiz Jairo",
+          "Kanvinde Pranjali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Colon",
+          "Drug Compounding",
+          "Drug Delivery Systems",
+          "Enema",
+          "Inflammatory Bowel Diseases",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30236840/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:08:39.250042",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,598 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "urinary tract infection",
+    "query_string": "Trimethoprim AND urinary tract infection"
+  },
+  "data": {
+    "query": "Trimethoprim AND urinary tract infection",
+    "results": [
+      {
+        "pmid": "29305250",
+        "title": "Diagnosis and treatment of urinary tract infections across age groups.",
+        "abstract": "Urinary tract infections are the most common outpatient infections, but predicting the probability of urinary tract infections through symptoms and test results can be complex. The most diagnostic symptoms of urinary tract infections include change in frequency, dysuria, urgency, and presence or absence of vaginal discharge, but urinary tract infections may present differently in older women. Dipstick urinalysis is popular for its availability and usefulness, but results must be interpreted in context of the patient's pretest probability based on symptoms and characteristics. In patients with a high probability of urinary tract infection based on symptoms, negative dipstick urinalysis does not rule out urinary tract infection. Nitrites are likely more sensitive and specific than other dipstick components for urinary tract infection, particularly in the elderly. Positive dipstick testing is likely specific for asymptomatic bacteriuria in pregnancy, but urine culture is still the test of",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2018",
+        "authors": [
+          "Chu Christine M",
+          "Lowder Jerry L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Antimicrobial Stewardship",
+          "Asymptomatic Infections",
+          "Bacteriuria",
+          "Culture Techniques",
+          "Drug Resistance, Bacterial",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29305250/"
+      },
+      {
+        "pmid": "37273158",
+        "title": "Recurrent Urinary Tract Infection in Adult Patients, Risk Factors, and Efficacy of Low Dose Prophylactic Antibiotics Therapy.",
+        "abstract": "Recurrent urinary tract infection (UTI) occurs in sizable percentages of patients after a single episode and is a frequent cause of primary healthcare visits and hospital admissions, accounting for up to one quarter of emergency department visits. We aim to describe the pattern of continuous antibiotic prophylaxis prescription for recurrent urinary tract infections, in what group of adult patients they are prescribed and their efficacy.",
+        "journal": "Journal of epidemiology and global health",
+        "year": "2023",
+        "authors": [
+          "Alghoraibi Hala",
+          "Asidan Aisha",
+          "Aljawaied Raneem",
+          "Almukhayzim Raghad",
+          "Alsaydan Aljoharah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Female",
+          "Antibiotic Prophylaxis",
+          "Nitrofurantoin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Escherichia coli",
+          "Retrospective Studies",
+          "Urinary Bladder, Neurogenic",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37273158/"
+      },
+      {
+        "pmid": "38587648",
+        "title": "Antibiotics efficacy in clinical and microbiological cure of uncomplicated urinary tract infection: a systematic review and network meta-analysis.",
+        "abstract": "Fosfomycin has been used more frequently in managing uncomplicated urinary tract infections (UTIs) due to decreased compliance and increased multidrug-resistant bacteria. The aim of this network meta-analysis was to assess the efficacy of Fosfomycin compared to Nitrofurantoin, Trimethoprim-Sulfamethoxazole (TMP-SMX), and Ciprofloxacin in terms of clinical and microbiological cure alongside with other measurements.",
+        "journal": "World journal of urology",
+        "year": "2024",
+        "authors": [
+          "Hadidi Mohammed F",
+          "Alhamami Nawaf",
+          "Alhakami Mohammed",
+          "Abdulhamid Ahmed S",
+          "Alsharif Abdullah"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Bacterial Agents",
+          "Fosfomycin",
+          "Nitrofurantoin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Urinary Tract Infections",
+          "Ciprofloxacin",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38587648/"
+      },
+      {
+        "pmid": "38393801",
+        "title": "Acute Uncomplicated UTIs in Adults: Rapid Evidence Review.",
+        "abstract": "An acute uncomplicated urinary tract infection (UTI) is a bacterial infection of the lower urinary tract with no sign of systemic illness or pyelonephritis in a noncatheterized, nonpregnant adult with no urologic abnormalities or immunocompromise. In women, a self-diagnosis of a UTI with the presence of typical symptoms (e.g., frequency, urgency, dysuria/burning sensation, nocturia, suprapubic pain), without vaginal discharge, is accurate enough to diagnose an uncomplicated UTI without further testing. Urine culture and susceptibility testing should be reserved for women with recurrent infection, treatment failure, history of resistant isolates, or atypical presentation to make a definitive diagnosis and guide antibiotic selection. First-line antibiotics include nitrofurantoin for five days, fosfomycin in a single dose, trimethoprim for three days, or trimethoprim/sulfamethoxazole for three days. Symptomatic treatment with nonsteroidal anti-inflammatory drugs and delayed antibiotics ma",
+        "journal": "American family physician",
+        "year": "2024",
+        "authors": [
+          "Kurotschka Peter K",
+          "Gágyor Ildikó",
+          "Ebell Mark H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Anti-Bacterial Agents",
+          "Fosfomycin",
+          "Nitrofurantoin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38393801/"
+      },
+      {
+        "pmid": "31088380",
+        "title": "Epidemiology of urinary tract infection and antimicrobial resistance in a pediatric hospital in Nepal.",
+        "abstract": "Urinary tract infection is an infection affecting infants and children. The aim of this study was to determine the etiology of urinary tract infection along with their antimicrobial resistance.",
+        "journal": "BMC infectious diseases",
+        "year": "2019",
+        "authors": [
+          "Ganesh Rabina",
+          "Shrestha Dhiraj",
+          "Bhattachan Balkrishna",
+          "Rai Ganesh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Female",
+          "Hospitals, Pediatric"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31088380/"
+      },
+      {
+        "pmid": "31888378",
+        "title": "Laboratory Findings After Urinary Tract Infection and Antimicrobial Prophylaxis in Children With Vesicoureteral Reflux.",
+        "abstract": "It is a common practice to monitor blood tests in patients receiving long-term trimethoprim-sulfamethoxazole (TMP-SMZ) prophylaxis for recurrent urinary tract infections. This multicenter, randomized, placebo-controlled trial enrolled 607 children aged 2 to 71 months with vesicoureteral reflux diagnosed after symptomatic urinary tract infection. Study participants received TMP-SMZ (n = 302) or placebo (n = 305) and were followed for 2 years. Serum electrolytes (n ≥ 370), creatinine (n = 310), and complete blood counts (n ≥ 206) were measured at study entry and at the 24-month study conclusion. We found no significant electrolyte, renal, or hematologic abnormalities when comparing the treatment and placebo groups. We observed changes in several laboratory parameters in both treatment and placebo groups as would normally be expected with physiologic maturation. Changes were within the normal range for age. Long-term use of TMP-SMX had no treatment effect on complete blood count, serum el",
+        "journal": "Clinical pediatrics",
+        "year": "2020",
+        "authors": [
+          "Nadkarni Milan Dattaram",
+          "Mattoo Tej K",
+          "Gravens-Mueller Lisa",
+          "Carpenter Myra A",
+          "Ivanova Anastasia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents, Urinary",
+          "Biomarkers",
+          "Child",
+          "Child, Preschool",
+          "Drug Monitoring",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31888378/"
+      },
+      {
+        "pmid": "38565823",
+        "title": "Paediatric Escherichia coli urinary tract infection: susceptibility trends and clinical management-a retrospective analysis of a 10-year period.",
+        "abstract": "Escherichia coli is the predominant urinary pathogen in children. Irish and international studies have demonstrated increasing antimicrobial resistance (AMR) to antibiotics such as co-amoxiclav.",
+        "journal": "Irish journal of medical science",
+        "year": "2024",
+        "authors": [
+          "Whelan Seán Olann",
+          "Kyne Sarah",
+          "Dore Andrew",
+          "Glynn Mark",
+          "Higgins Frances"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Urinary Tract Infections",
+          "Retrospective Studies",
+          "Escherichia coli Infections",
+          "Child",
+          "Infant",
+          "Anti-Bacterial Agents",
+          "Escherichia coli",
+          "Child, Preschool",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38565823/"
+      },
+      {
+        "pmid": "37102524",
+        "title": "Microbiological Spectrum and Antibiogram of Urinary Tract Infection in a Tertiary Care Center from the Kingdom of Bahrain.",
+        "abstract": "Urinary tract infection is the second-most common after respiratory infections. This is a single-center retrospective study conducted in Bahrain Specialist Hospital, Bahrain. Urine culture data from November 2011 until December 2020 was obtained from the hospital database. Out of 28082, 4849 (17.3%) cultures were positive. One hundred and thirty-four (2.8%) showed the growth of multiple organisms. The male-to-female ratio was 3.7. Most of the patients [1872 (39.7%)] were 20-40 years. Men and women were 53.84 ± 25.85 and 43.41 ± 23.89 years, respectively; P <0.001. 4118/4715 (87.3%) were Gram-negative. Five hundred and sixty-four (11.9 %) and 33 (0.7%) were Gram-positive cocci and fungi, respectively. Escherichia coli (E. coli) was the most common and Klebsiella species were second-most common, accounting for 2916 (61.8%) and 586 (12.4%), respectively. 30.2% of all E. coli and 130 (22.2%) of all Klebsiella species were extended-spectrum beta-lactamase (ESBL) producers. ESBL Klebsiella p",
+        "journal": "Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia",
+        "year": "2022",
+        "authors": [
+          "Sheikh Rayees Yousuf",
+          "Murdeshwar Soni",
+          "Maheshwari Teerath Kumar",
+          "Chacko Saramma"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Escherichia coli",
+          "Tertiary Care Centers",
+          "Levofloxacin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Retrospective Studies",
+          "Bahrain",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37102524/"
+      },
+      {
+        "pmid": "35610571",
+        "title": "Antimicrobial resistance in urinary pathogens and culture-independent detection of trimethoprim resistance in urine from patients with urinary tract infection.",
+        "abstract": "Although urinary tract infections (UTIs) are extremely common, isolation of causative uropathogens is not always routinely performed, with antibiotics frequently prescribed empirically. This study determined the susceptibility of urinary isolates from two Health and Social Care Trusts (HSCTs) in Northern Ireland to a range of antibiotics commonly used in the treatment of UTIs. Furthermore, we determined if detection of trimethoprim resistance genes (dfrA) could be used as a potential biomarker for rapid detection of phenotypic trimethoprim resistance in urinary pathogens and from urine without culture.",
+        "journal": "BMC microbiology",
+        "year": "2022",
+        "authors": [
+          "Somorin Yinka M",
+          "Weir Nichola-Jane M",
+          "Pattison Sally H",
+          "Crockard Martin A",
+          "Hughes Carmel M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Trimethoprim",
+          "Trimethoprim Resistance",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35610571/"
+      },
+      {
+        "pmid": "14575059",
+        "title": "Urinary tract infection.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2003",
+        "authors": [
+          "Hoey Rachel",
+          "Probst Fey"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Infective Agents, Urinary",
+          "Cephalexin",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Tests",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14575059/"
+      },
+      {
+        "pmid": "14573744",
+        "title": "Urinary tract infection.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2003",
+        "authors": [
+          "Talan David A"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Infective Agents, Urinary",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Nitrofurantoin",
+          "Treatment Failure",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14573744/"
+      },
+      {
+        "pmid": "6119364",
+        "title": "Urinary tract infection.",
+        "abstract": "",
+        "journal": "Journal of the Royal College of Physicians of London",
+        "year": "1981",
+        "authors": [
+          "Asscher A W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Bacteriuria",
+          "Child",
+          "Child, Preschool",
+          "Cystitis",
+          "Escherichia coli",
+          "Female",
+          "Fimbriae, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6119364/"
+      },
+      {
+        "pmid": "12113870",
+        "title": "Urinary tract infection: traditional pharmacologic therapies.",
+        "abstract": "Urinary tract infections (UTIs) are common bacterial infections, particularly in women. Antimicrobial therapy is seldom indicated for asymptomatic infection, but antimicrobial therapy is usually indicated for amelioration of symptoms. Management of acute uncomplicated UTI (cystitis) is generally straightforward, with a predictable distribution of uropathogens isolated. First-line treatment of acute uncomplicated UTI has traditionally involved a 3-day regimen of trimethoprim-sulfamethoxazole (TMP-SMX) or TMP alone for patients with sulfa allergies. Increasing resistance among community-acquired Escherichia coli to TMP-SMX worldwide has led to a reassessment of the most appropriate empiric therapy for these infections. Alternative first-line agents include the fluoroquinolones, nitrofurantoin, and fosfomycin. Factors to be considered in the selection of appropriate antimicrobial therapy include pharmacokinetics, spectrum of activity of the antimicrobial agent, resistance prevalence for t",
+        "journal": "The American journal of medicine",
+        "year": "2002",
+        "authors": [
+          "Nicolle Lindsay E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Infective Agents, Urinary",
+          "Cephalosporins",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Fluoroquinolones",
+          "Fosfomycin",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12113870/"
+      },
+      {
+        "pmid": "36307776",
+        "title": "E. coli bacteraemia and antimicrobial resistance following antimicrobial prescribing for urinary tract infection in the community.",
+        "abstract": "Urinary tract infections are one of the most common infections in primary and secondary care, with the majority of antimicrobial therapy initiated empirically before culture results are available. In some cases, however, over 40% of the bacteria that cause UTIs are resistant to some of the antimicrobials used, yet we do not know how the patient outcome is affected in terms of relapse, treatment failure, progression to more serious illness (bacteraemia) requiring hospitalization, and ultimately death. This study analyzed the current patterns of antimicrobial use for UTI in the community in Scotland, and factors for poor outcomes.",
+        "journal": "BMC infectious diseases",
+        "year": "2022",
+        "authors": [
+          "McCowan Colin",
+          "Bakhshi Andisheh",
+          "McConnachie Alex",
+          "Malcolm William",
+          "Barry Sarah Je"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aged",
+          "Male",
+          "Female",
+          "Adolescent",
+          "Young Adult",
+          "Middle Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36307776/"
+      },
+      {
+        "pmid": "37991965",
+        "title": "BACTERIAL PROFILE, ANTIMICROBIAL RESISTANCE, AND FACTORS ASSOCIATED WITH URINARY TRACT INFECTION AMONG PREGNANT WOMEN AT HOSANNA TOWN HEALTH FACILITIES, CENTRAL ETHIOPIA.",
+        "abstract": "Urinary tract infection in pregnancy is a common microbial infection. Antimicrobial resistance among uropathogens is becoming a major health problem worldwide. The antimicrobial agents used to manage urinary tract infections during pregnancy should be carefully chosen. Therefore, this study aimed to determine the bacterial profile, antibiotic susceptibility pattern, and factors associated with urinary tract infection among pregnant women at Hosanna town public health facilities. A facility-based cross-sectional study was conducted from March to August 2022 on a total of 312 pregnant women who attended antenatal care at Hosanna Town public health facilities. Sociodemographic, clinical data, and related information were collected by using a pre-tested questionnaire. In addition, mid-stream urine specimens were collected from study participants. Bacterial pathogens were identified by standard bacteriological techniques. Antibiotic susceptibility testing was performed by using the Kirby Ba",
+        "journal": "Georgian medical news",
+        "year": "2023",
+        "authors": [
+          "Mussema A",
+          "Admasu D",
+          "Bawore S",
+          "Abdo R",
+          "Seid A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Anti-Bacterial Agents",
+          "Bacteriuria",
+          "Nitrofurantoin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Pregnant People",
+          "Escherichia coli",
+          "Staphylococcus aureus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37991965/"
+      },
+      {
+        "pmid": "19864673",
+        "title": "Antibiotic prophylaxis and recurrent urinary tract infection in children.",
+        "abstract": "Antibiotics are widely administered to children with the intention of preventing urinary tract infection, but adequately powered, placebo-controlled trials regarding efficacy are lacking. This study from four Australian centers examined whether low-dose, continuous oral antibiotic therapy prevents urinary tract infection in predisposed children.",
+        "journal": "The New England journal of medicine",
+        "year": "2009",
+        "authors": [
+          "Craig Jonathan C",
+          "Simpson Judy M",
+          "Williams Gabrielle J",
+          "Lowe Alison",
+          "Reynolds Graham J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Infective Agents, Urinary",
+          "Antibiotic Prophylaxis",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19864673/"
+      },
+      {
+        "pmid": "25377311",
+        "title": "Asymptomatic bacteriuria and urinary tract infections among renal allograft recipients.",
+        "abstract": "Bacteriuria is common among renal allograft recipients. It can be categorized into asymptomatic bacteriuria (ASB) and urinary tract infection (UTI). However, in medical literature, the classifications of bacteriuria are often not clear or ASB is also classified as a UTI. This contributes to difficulties in interpretation of the incidence and risk factors of these two entities. In this review, we describe the epidemiology, risk factors, management and the impact on renal allograft function of these two entities separately according to the recent literature.",
+        "journal": "Current opinion in infectious diseases",
+        "year": "2015",
+        "authors": [
+          "Singh Ramandeep",
+          "Geerlings Suzanne E",
+          "Bemelman Frederike J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Asymptomatic Diseases",
+          "Bacteriuria",
+          "Humans",
+          "Kidney Transplantation",
+          "Pyelonephritis",
+          "Risk Factors",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25377311/"
+      },
+      {
+        "pmid": "18193296",
+        "title": "Febrile urinary tract infection in children: ampicillin and trimethoprim insufficient as empirical mono-therapy.",
+        "abstract": "The aim of this study was to characterize the pathogens and their antibiotic susceptibilities in defined groups of children (total number 694) with urinary tract infection (UTI) regarding age, first UTI (FUTI) or recurrent UTI (RUTI), renal abnormalities or vesico-ureteric reflux (VUR) in order to optimize empirical antibiotic therapy and prophylaxis. In patients aged between 1 month and 24 months with a first febrile UTI (FUTI; n = 205) the leading pathogen was Escherichia coli (E. coli) (83.4%). In comparison with patients with FUTI, those with RUTI (n = 24) had more Enterococcus and Enterobacter infections and higher resistance rates of E. coli against trimethoprim (TMP), trimethoprim/sulfamethoxazole (SXT) or ampicillin (AMP). Boys with ultrasound-detected renal abnormalities (n = 71) showed 14.2% Pseudomonas and 59.1% E. coli infections versus girls (n = 48) (2.1% Pseudomonas and 93.7% E. coli). Of 390 patients who underwent voiding cysto-urethrography, 31.5% had VUR. Of them, 45.",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "year": "2008",
+        "authors": [
+          "Prelog Martina",
+          "Schiefecker Daniela",
+          "Fille Manfred",
+          "Wurzner Reinhard",
+          "Brunner Andrea"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents, Urinary",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Bacterial",
+          "Drug Therapy, Combination",
+          "Escherichia coli",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18193296/"
+      },
+      {
+        "pmid": "25335150",
+        "title": "Diagnosis and management of urinary tract infections in the outpatient setting: a review.",
+        "abstract": "Urinary tract infection is among the most common reasons for an outpatient visit and antibiotic use in adult populations. The increasing prevalence of antibacterial resistance among community uropathogens affects the diagnosis and management of this clinical syndrome.",
+        "journal": "JAMA",
+        "year": "2014",
+        "authors": [
+          "Grigoryan Larissa",
+          "Trautner Barbara W",
+          "Gupta Kalpana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Cystitis",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Middle Aged",
+          "Outpatients"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25335150/"
+      },
+      {
+        "pmid": "15655744",
+        "title": "Is acute uncomplicated urinary tract infection a foodborne illness, and are animals the source?",
+        "abstract": "",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2005",
+        "authors": [
+          "Hooton Thomas M",
+          "Samadpour Mansour"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacterial Typing Techniques",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Female",
+          "Food Microbiology",
+          "Humans",
+          "Trimethoprim, Sulfamethoxazole Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15655744/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:49:31.412452",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,1189 @@
+{
+  "drug": {
+    "name": "Ammonium Chloride",
+    "drugbank_id": "DB06767",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "pharyngitis",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "38622748",
+            "title": "A case of severe benzalkonium chloride intoxication in a cat.",
+            "abstract": "Benzalkonium chloride (BAC) is a quaternary ammonium compound (QAC), that can be found in a wide variety of household products-from disinfectants to medicaments and home fragrances-but also professional products. In pets, cats have long been reported as more sensitive than dogs to QACs; in fact, signs of irritation such as oral ulcerations, stomatitis and pharyngitis can be observed after contact with concentrations of 2% or lower. In a review of 245 cases of BAC exposure in cats, reported by the Veterinary Poisons Information Service (United Kingdom) only 1.2% of the cases died or were euthanized. Nevertheless, BAC toxidromes in cats can result in transitory CNS and respiratory distress, as well as severe mucosal and cutaneous lesions. Currently, only a few reports are available concerning BAC poisoning in this species.",
+            "journal": "Acta veterinaria Scandinavica",
+            "year": "2024",
+            "authors": [
+              "Rubini Silva",
+              "Rubini Roberto",
+              "Bertocchi Silvia",
+              "Zordan Silvia",
+              "Magri Alice"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cats",
+              "Animals",
+              "Female",
+              "Dogs",
+              "Benzalkonium Compounds",
+              "Quaternary Ammonium Compounds",
+              "Disinfectants",
+              "Italy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38622748/"
+          },
+          {
+            "pmid": "3606702",
+            "title": "An approach of the in vivo antibacterial activity of benzoxonium chloride and comparison with other buccopharyngeal disinfectants.",
+            "abstract": "Different pharmaceutical forms of N-benzyl,N-dodecyl-N,N-di(2-hydroxyethyl) ammonium chloride (benzoxonium chloride, Orofar) have been tested on the overall buccopharyngeal bacterial count in healthy volunteers, and compared to competitors. Gargle solutions are most effective in reducing initial bacterial count. An open repeated dose study has been performed on 38 patients with sore throat to assess the safety and the efficacy of benzoxonium chloride tablets and gelsolets at doses of 6 mg and 10 mg daily for 4 to 6 days. Pathogens disappeared or were clearly reduced and the syndrome resolved. Tolerance was good. Differences in methodologies are discussed.",
+            "journal": "Arzneimittel-Forschung",
+            "year": "1987",
+            "authors": [
+              "Weibel M A",
+              "Cortat M",
+              "Lebek G",
+              "LeCotonnec J Y",
+              "Kitler M E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Benzalkonium Compounds",
+              "Culture Media",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Mouth",
+              "Mouth Diseases",
+              "Mouthwashes",
+              "Pharyngeal Diseases",
+              "Pharyngitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3606702/"
+          },
+          {
+            "pmid": "7818285",
+            "title": "Irritative and systemic symptoms following exposure to Microban disinfectant through a school ventilation system.",
+            "abstract": "Microban, a pesticide not registered in California, was sprayed into an operating heating/ventilation/air conditioning (HVAC) unit at an elementary school in San Francisco, California. This incident occurred on Monday, September 28, 1992, while 396 students and 67 staff members were in the school. The Microban formulation used contains ortho-phenylphenol (0.21%), a quaternary ammonium complex (di-isobutylphenoxy-ethoxy-ethyldimethylbenzyl-ammonium chloride, 0.69%), and bromine (0.04%). This study of the health effects of Microban mist exposure on the school staff was conducted as a result of legal and toxicological concerns. California registration for this formulation had been denied because of inadequate data and because there were concerns about inhalation toxicity in test animals. Predicted health effects from short-duration exposure to Microban are primarily skin and mucous membrane irritation. A self-administered health symptom questionnaire that covered the work week following t",
+            "journal": "Archives of environmental health",
+            "year": "1994",
+            "authors": [
+              "Sesline D",
+              "Ames R G",
+              "Howd R A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Air Pollutants",
+              "Bias",
+              "Bromine",
+              "Child",
+              "Data Collection",
+              "Drug Combinations",
+              "Environmental Exposure",
+              "Female",
+              "Headache"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7818285/"
+          },
+          {
+            "pmid": "442769",
+            "title": "[Therapy of acute inflammatory diseases of the mouth and pharyngeal space].",
+            "abstract": "",
+            "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+            "year": "1979",
+            "authors": [
+              "Willenberg W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Ammonium Chloride",
+              "Anti-Inflammatory Agents",
+              "Cetylpyridinium",
+              "Child",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/442769/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "common cold",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "34705560",
+            "title": "Chemical Evolution of Rhinovirus Identifies Capsid-Destabilizing Mutations Driving Low-pH-Independent Genome Uncoating.",
+            "abstract": "Rhinoviruses (RVs) cause recurrent infections of the nasal and pulmonary tracts, life-threatening conditions in chronic respiratory illness patients, predisposition of children to asthmatic exacerbation, and large economic cost. RVs are difficult to treat. They rapidly evolve resistance and are genetically diverse. Here, we provide insight into RV drug resistance mechanisms against chemical compounds neutralizing low pH in endolysosomes. Serial passaging of RV-A16 in the presence of the vacuolar proton ATPase inhibitor bafilomycin A1 (BafA1) or the endolysosomotropic agent ammonium chloride (NH4Cl) promoted the emergence of resistant virus populations. We found two reproducible point mutations in viral proteins 1 and 3 (VP1 and VP3), A2526G (serine 66 to asparagine [S66N]), and G2274U (cysteine 220 to phenylalanine [C220F]), respectively. Both mutations conferred cross-resistance to BafA1, NH4Cl, and the protonophore niclosamide, as identified by massive parallel sequencing and reverse",
+            "journal": "Journal of virology",
+            "year": "2022",
+            "authors": [
+              "Murer Luca",
+              "Petkidis Anthony",
+              "Vallet Thomas",
+              "Vignuzzi Marco",
+              "Greber Urs F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antiviral Agents",
+              "Capsid",
+              "Capsid Proteins",
+              "Drug Resistance, Viral",
+              "Endosomes",
+              "HeLa Cells",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Intercellular Adhesion Molecule-1",
+              "Mutation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34705560/"
+          },
+          {
+            "pmid": "26482329",
+            "title": "Hydrothermal Formation of Calcium Copper Tetrasilicate.",
+            "abstract": "We describe the first hydrothermal synthesis of CaCuSi4 O10 as micron-scale clusters of thin platelets, distinct from morphologies generated under salt-flux or solid-state conditions. The hydrothermal reaction conditions are surprisingly specific: too cold, and instead of CaCuSi4 O10 , a porous calcium copper silicate forms; too hot, and calcium silicate (CaSiO3 ) forms. The precursors also strongly impact the course of the reaction, with the most common side product being sodium copper silicate (Na2 CuSi4 O10 ). Optimized conditions for hydrothermal CaCuSi4 O10 formation from calcium chloride, copper(II) nitrate, sodium silicate, and ammonium hydroxide are 350 °C at 3000 psi for 72 h; at longer reaction times, competitive delamination and exfoliation causes crystal fragmentation. These results illustrate that CaCuSi4 O10 is an even more unique material than previously appreciated.",
+            "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+            "year": "2015",
+            "authors": [
+              "Johnson-McDaniel Darrah",
+              "Comer Sara",
+              "Kolis Joseph W",
+              "Salguero Tina T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26482329/"
+          },
+          {
+            "pmid": "27249425",
+            "title": "HTCC: Broad Range Inhibitor of Coronavirus Entry.",
+            "abstract": "To date, six human coronaviruses have been known, all of which are associated with respiratory infections in humans. With the exception of the highly pathogenic SARS and MERS coronaviruses, human coronaviruses (HCoV-NL63, HCoV-OC43, HCoV-229E, and HCoV-HKU1) circulate worldwide and typically cause the common cold. In most cases, infection with these viruses does not lead to severe disease, although acute infections in infants, the elderly, and immunocompromised patients may progress to severe disease requiring hospitalization. Importantly, no drugs against human coronaviruses exist, and only supportive therapy is available. Previously, we proposed the cationically modified chitosan, N-(2-hydroxypropyl)-3-trimethylammonium chitosan chloride (HTCC), and its hydrophobically-modified derivative (HM-HTCC) as potent inhibitors of the coronavirus HCoV-NL63. Here, we show that HTCC inhibits interaction of a virus with its receptor and thus blocks the entry. Further, we demonstrate that HTCC po",
+            "journal": "PloS one",
+            "year": "2016",
+            "authors": [
+              "Milewska Aleksandra",
+              "Kaminski Kamil",
+              "Ciejka Justyna",
+              "Kosowicz Katarzyna",
+              "Zeglen Slawomir"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antiviral Agents",
+              "Cell Line",
+              "Chitosan",
+              "Coronavirus",
+              "Humans",
+              "Macaca mulatta",
+              "Membrane Fusion",
+              "Quaternary Ammonium Compounds",
+              "Virus Replication"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27249425/"
+          },
+          {
+            "pmid": "14053191",
+            "title": "THERAPEUTIC ASPECTS OF ASTHMA, EMPHASIZING THE ROLE AND CONTROL OF COUGH.",
+            "abstract": "",
+            "journal": "Hawaii medical journal",
+            "year": "1963",
+            "authors": [
+              "PRICKMAN L E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ammonium Chloride",
+              "Asthma",
+              "Common Cold",
+              "Cough",
+              "Epinephrine",
+              "Humans",
+              "Hypersensitivity",
+              "Iodides",
+              "Neurotic Disorders",
+              "Pathology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14053191/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "nasopharyngitis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "pharyngitis",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "38622748",
+            "title": "A case of severe benzalkonium chloride intoxication in a cat.",
+            "abstract": "Benzalkonium chloride (BAC) is a quaternary ammonium compound (QAC), that can be found in a wide variety of household products-from disinfectants to medicaments and home fragrances-but also professional products. In pets, cats have long been reported as more sensitive than dogs to QACs; in fact, signs of irritation such as oral ulcerations, stomatitis and pharyngitis can be observed after contact with concentrations of 2% or lower. In a review of 245 cases of BAC exposure in cats, reported by the Veterinary Poisons Information Service (United Kingdom) only 1.2% of the cases died or were euthanized. Nevertheless, BAC toxidromes in cats can result in transitory CNS and respiratory distress, as well as severe mucosal and cutaneous lesions. Currently, only a few reports are available concerning BAC poisoning in this species.",
+            "journal": "Acta veterinaria Scandinavica",
+            "year": "2024",
+            "authors": [
+              "Rubini Silva",
+              "Rubini Roberto",
+              "Bertocchi Silvia",
+              "Zordan Silvia",
+              "Magri Alice"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cats",
+              "Animals",
+              "Female",
+              "Dogs",
+              "Benzalkonium Compounds",
+              "Quaternary Ammonium Compounds",
+              "Disinfectants",
+              "Italy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38622748/"
+          },
+          {
+            "pmid": "3606702",
+            "title": "An approach of the in vivo antibacterial activity of benzoxonium chloride and comparison with other buccopharyngeal disinfectants.",
+            "abstract": "Different pharmaceutical forms of N-benzyl,N-dodecyl-N,N-di(2-hydroxyethyl) ammonium chloride (benzoxonium chloride, Orofar) have been tested on the overall buccopharyngeal bacterial count in healthy volunteers, and compared to competitors. Gargle solutions are most effective in reducing initial bacterial count. An open repeated dose study has been performed on 38 patients with sore throat to assess the safety and the efficacy of benzoxonium chloride tablets and gelsolets at doses of 6 mg and 10 mg daily for 4 to 6 days. Pathogens disappeared or were clearly reduced and the syndrome resolved. Tolerance was good. Differences in methodologies are discussed.",
+            "journal": "Arzneimittel-Forschung",
+            "year": "1987",
+            "authors": [
+              "Weibel M A",
+              "Cortat M",
+              "Lebek G",
+              "LeCotonnec J Y",
+              "Kitler M E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Benzalkonium Compounds",
+              "Culture Media",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Mouth",
+              "Mouth Diseases",
+              "Mouthwashes",
+              "Pharyngeal Diseases",
+              "Pharyngitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3606702/"
+          },
+          {
+            "pmid": "7818285",
+            "title": "Irritative and systemic symptoms following exposure to Microban disinfectant through a school ventilation system.",
+            "abstract": "Microban, a pesticide not registered in California, was sprayed into an operating heating/ventilation/air conditioning (HVAC) unit at an elementary school in San Francisco, California. This incident occurred on Monday, September 28, 1992, while 396 students and 67 staff members were in the school. The Microban formulation used contains ortho-phenylphenol (0.21%), a quaternary ammonium complex (di-isobutylphenoxy-ethoxy-ethyldimethylbenzyl-ammonium chloride, 0.69%), and bromine (0.04%). This study of the health effects of Microban mist exposure on the school staff was conducted as a result of legal and toxicological concerns. California registration for this formulation had been denied because of inadequate data and because there were concerns about inhalation toxicity in test animals. Predicted health effects from short-duration exposure to Microban are primarily skin and mucous membrane irritation. A self-administered health symptom questionnaire that covered the work week following t",
+            "journal": "Archives of environmental health",
+            "year": "1994",
+            "authors": [
+              "Sesline D",
+              "Ames R G",
+              "Howd R A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Air Pollutants",
+              "Bias",
+              "Bromine",
+              "Child",
+              "Data Collection",
+              "Drug Combinations",
+              "Environmental Exposure",
+              "Female",
+              "Headache"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7818285/"
+          },
+          {
+            "pmid": "442769",
+            "title": "[Therapy of acute inflammatory diseases of the mouth and pharyngeal space].",
+            "abstract": "",
+            "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+            "year": "1979",
+            "authors": [
+              "Willenberg W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Ammonium Chloride",
+              "Anti-Inflammatory Agents",
+              "Cetylpyridinium",
+              "Child",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/442769/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "common cold",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "34705560",
+            "title": "Chemical Evolution of Rhinovirus Identifies Capsid-Destabilizing Mutations Driving Low-pH-Independent Genome Uncoating.",
+            "abstract": "Rhinoviruses (RVs) cause recurrent infections of the nasal and pulmonary tracts, life-threatening conditions in chronic respiratory illness patients, predisposition of children to asthmatic exacerbation, and large economic cost. RVs are difficult to treat. They rapidly evolve resistance and are genetically diverse. Here, we provide insight into RV drug resistance mechanisms against chemical compounds neutralizing low pH in endolysosomes. Serial passaging of RV-A16 in the presence of the vacuolar proton ATPase inhibitor bafilomycin A1 (BafA1) or the endolysosomotropic agent ammonium chloride (NH4Cl) promoted the emergence of resistant virus populations. We found two reproducible point mutations in viral proteins 1 and 3 (VP1 and VP3), A2526G (serine 66 to asparagine [S66N]), and G2274U (cysteine 220 to phenylalanine [C220F]), respectively. Both mutations conferred cross-resistance to BafA1, NH4Cl, and the protonophore niclosamide, as identified by massive parallel sequencing and reverse",
+            "journal": "Journal of virology",
+            "year": "2022",
+            "authors": [
+              "Murer Luca",
+              "Petkidis Anthony",
+              "Vallet Thomas",
+              "Vignuzzi Marco",
+              "Greber Urs F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antiviral Agents",
+              "Capsid",
+              "Capsid Proteins",
+              "Drug Resistance, Viral",
+              "Endosomes",
+              "HeLa Cells",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Intercellular Adhesion Molecule-1",
+              "Mutation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34705560/"
+          },
+          {
+            "pmid": "26482329",
+            "title": "Hydrothermal Formation of Calcium Copper Tetrasilicate.",
+            "abstract": "We describe the first hydrothermal synthesis of CaCuSi4 O10 as micron-scale clusters of thin platelets, distinct from morphologies generated under salt-flux or solid-state conditions. The hydrothermal reaction conditions are surprisingly specific: too cold, and instead of CaCuSi4 O10 , a porous calcium copper silicate forms; too hot, and calcium silicate (CaSiO3 ) forms. The precursors also strongly impact the course of the reaction, with the most common side product being sodium copper silicate (Na2 CuSi4 O10 ). Optimized conditions for hydrothermal CaCuSi4 O10 formation from calcium chloride, copper(II) nitrate, sodium silicate, and ammonium hydroxide are 350 °C at 3000 psi for 72 h; at longer reaction times, competitive delamination and exfoliation causes crystal fragmentation. These results illustrate that CaCuSi4 O10 is an even more unique material than previously appreciated.",
+            "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+            "year": "2015",
+            "authors": [
+              "Johnson-McDaniel Darrah",
+              "Comer Sara",
+              "Kolis Joseph W",
+              "Salguero Tina T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26482329/"
+          },
+          {
+            "pmid": "27249425",
+            "title": "HTCC: Broad Range Inhibitor of Coronavirus Entry.",
+            "abstract": "To date, six human coronaviruses have been known, all of which are associated with respiratory infections in humans. With the exception of the highly pathogenic SARS and MERS coronaviruses, human coronaviruses (HCoV-NL63, HCoV-OC43, HCoV-229E, and HCoV-HKU1) circulate worldwide and typically cause the common cold. In most cases, infection with these viruses does not lead to severe disease, although acute infections in infants, the elderly, and immunocompromised patients may progress to severe disease requiring hospitalization. Importantly, no drugs against human coronaviruses exist, and only supportive therapy is available. Previously, we proposed the cationically modified chitosan, N-(2-hydroxypropyl)-3-trimethylammonium chitosan chloride (HTCC), and its hydrophobically-modified derivative (HM-HTCC) as potent inhibitors of the coronavirus HCoV-NL63. Here, we show that HTCC inhibits interaction of a virus with its receptor and thus blocks the entry. Further, we demonstrate that HTCC po",
+            "journal": "PloS one",
+            "year": "2016",
+            "authors": [
+              "Milewska Aleksandra",
+              "Kaminski Kamil",
+              "Ciejka Justyna",
+              "Kosowicz Katarzyna",
+              "Zeglen Slawomir"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antiviral Agents",
+              "Cell Line",
+              "Chitosan",
+              "Coronavirus",
+              "Humans",
+              "Macaca mulatta",
+              "Membrane Fusion",
+              "Quaternary Ammonium Compounds",
+              "Virus Replication"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27249425/"
+          },
+          {
+            "pmid": "14053191",
+            "title": "THERAPEUTIC ASPECTS OF ASTHMA, EMPHASIZING THE ROLE AND CONTROL OF COUGH.",
+            "abstract": "",
+            "journal": "Hawaii medical journal",
+            "year": "1963",
+            "authors": [
+              "PRICKMAN L E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ammonium Chloride",
+              "Asthma",
+              "Common Cold",
+              "Cough",
+              "Epinephrine",
+              "Humans",
+              "Hypersensitivity",
+              "Iodides",
+              "Neurotic Disorders",
+              "Pathology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14053191/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19962540AZ",
+        "product": "DIPHENMIN LINCTUS",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14MG/5ML                      ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Linctus",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-10-20",
+        "date_end": "2026-10-20",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19962540AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900422AZ",
+        "product": "DEXCOPHAN COUGH LINCTUS PLUS",
+        "active_ingredient": "DEXTROMETHORPHAN HYDROBROMIDE[10MG/5ML                      ],AMMONIUM CHLORIDE[150MG/5ML                     ],EPHEDRINE HYDROCHLORIDE[6.25MG/5ML                    ]",
+        "generic_name": "Dextromethorphan HBr 10 mg/5ml, Ephedrine HCl 6.25 mg/5ml & Ammonium CI 150 mg/5ml Linctus",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-01",
+        "date_end": "2026-11-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900422AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16105026AZ",
+        "product": "BENA EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14mg;5ml],AMMONIUM CHLORIDE[135mg;5ml]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-01",
+        "date_end": "2026-11-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16105026AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12015019AZ",
+        "product": "Diphendry Syrup",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[7mg;5ml],AMMONIUM CHLORIDE[67.5mg;5ml]",
+        "generic_name": "Diphenhydramine HCl 7 mg/5ml & Ammonium Chloride 67.5 mg/5ml Syrup",
+        "holder": "ROYCE PHARMA MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-01-20",
+        "date_end": "2027-01-20",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12015019AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020262AZ",
+        "product": "ALLAVIN EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14MG/5ML                      ],AMMONIUM CHLORIDE[135MG/5ML                     ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-04",
+        "date_end": "2027-03-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020262AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07050906AZ",
+        "product": "Avaphen Cough Syrup (Raspberry Flavour)",
+        "active_ingredient": "Diphenhydramine HCl[14.0;mg;5;ml],AMMONIUM CHLORIDE[135.0;mg;5;ml]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "AV MANUFACTURING SDN.BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-27",
+        "date_end": "2027-05-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07050906AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22096019AZ",
+        "product": "Uphadyl Forte Expectorant",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14 mg,5 ml],AMMONIUM CHLORIDE[135 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22096019AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021157AZ",
+        "product": "AXCEL FLEMIN JUNIOR EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[7MG                           ],AMMONIUM CHLORIDE[67.5MG                        ]",
+        "generic_name": "Diphenhydramine HCl 7 mg/5ml & Ammonium Chloride 67.5 mg/5ml Syrup",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-01",
+        "date_end": "2027-10-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021157AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19971329AZ",
+        "product": "PHARMANIAGA DIPHENHYDRAMINE EXPECTORANT",
+        "active_ingredient": "AMMONIUM CHLORIDE[135MG/5ML                     ],DIPHENHYDRAMINE HYDROCHLORIDE[12.5MG/5ML                    ]",
+        "generic_name": "Diphenhydramine HCI Expectorant",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19971329AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021006AZ",
+        "product": "NILCO SYRUP",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14MG                          ],AMMONIUM CHLORIDE[135MG                         ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Syrup",
+        "holder": "INSPIRAPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021006AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19860108AZ",
+        "product": "BENCODYL LINCTUS",
+        "active_ingredient": "Menthol[1.1MG/5ML                     ],SODIUM CITRATE/TRISODIUM CITRATE[57MG/5ML                      ],DIPHENHYDRAMINE HYDROCHLORIDE[14MG/5ML                      ],AMMONIUM CHLORIDE[135MG/5ML                     ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19860108AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19971331AZ",
+        "product": "SUNEX COUGH SYRUP",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14MG                          ],SODIUM CITRATE/TRISODIUM CITRATE[57.5MG                        ],AMMONIUM CHLORIDE[135MG                         ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Syrup",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-28",
+        "date_end": "2027-11-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19971331AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23026021AZ",
+        "product": "Curekuf  W Cough Syrup",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14.0 mg,5 ml],AMMONIUM CHLORIDE[135.0 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-02-02",
+        "date_end": "2028-02-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23026021AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23026020ACZ",
+        "product": "Presmedic Expectorant (Sugar Free)",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14.00 mg,5.00 ml],AMMONIUM CHLORIDE[135.00 mg,5.00 ml],SODIUM CITRATE DIHYDRATE[57.00 mg,5.00 ml]",
+        "generic_name": NaN,
+        "holder": "Hovid Pharmacy Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-02-02",
+        "date_end": "2028-02-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23026020ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08010745AZ",
+        "product": "Winadryl Expectorant Syrup",
+        "active_ingredient": "AMMONIUM CHLORIDE[135;mg;5;ml],Diphenhydramine HCl[14;mg;5;ml]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-02-03",
+        "date_end": "2028-02-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08010745AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19912799X",
+        "product": "LOAN YAN HO-CHOW SYRUP",
+        "active_ingredient": "AMMONIUM CHLORIDE[300MG/10ML                    ]",
+        "generic_name": NaN,
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19912799X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08042468AZ",
+        "product": "Anprodryl Syrup",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[12.5;mg;5;ml],AMMONIUM CHLORIDE.[125;mg;5;ml]",
+        "generic_name": "Diphenhydramine HCl 12.5 mg/5ml & Ammonium Chloride 125 mg/5ml Syrup",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-05-02",
+        "date_end": "2028-05-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08042468AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23066025AZ",
+        "product": "BENATUSSIL FORTE EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14.00 mg,5.00 ml],AMMONIUM CHLORIDE[135.00 mg,5.00 ml]",
+        "generic_name": NaN,
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-08",
+        "date_end": "2028-06-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23066025AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23066026AZ",
+        "product": "BENATUSSIL PAEDIATRIC EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[7.00 mg,5.00 ml],AMMONIUM CHLORIDE[67.50 mg,5.00 ml]",
+        "generic_name": NaN,
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-08",
+        "date_end": "2028-06-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23066026AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08061596AZ",
+        "product": "UPHADYL PAED EXPECTORANT",
+        "active_ingredient": "AMMONIUM CHLORIDE[67.5;mg;5.0;ml],DIPHENHYDRAMINE HYDROCHLORIDE[7.0;mg;5.0;ml]",
+        "generic_name": "Diphenhydramine HCl 7 mg/5ml & Ammonium Chloride 67.5 mg/5ml Syrup",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-29",
+        "date_end": "2028-06-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08061596AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23086011AZ",
+        "product": "SINARDRYL SYRUP",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14 mg,5 ml],AMMONIUM CHLORIDE[135 mg,5 ml],SODIUM CITRATE[57 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "DYNAPHARM MARKETING (M) SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-03",
+        "date_end": "2028-08-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23086011AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871725AZ",
+        "product": "DIPHENDRYL EXPECTORANT",
+        "active_ingredient": "AMMONIUM CHLORIDE[135MG/5ML                     ],DIPHENHYDRAMINE HYDROCHLORIDE[14MG/5ML                      ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "ROYCE PHARMA MANUFACTURING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871725AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871714AZ",
+        "product": "BENATUSSIL EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[12.5MG/5ML                    ],AMMONIUM CHLORIDE[100MG/5ML]",
+        "generic_name": "Diphenhydramine HCl 12.5 mg/5ml & Ammonium Chloride 100 mg/5ml Syrup",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871714AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13115205AZ",
+        "product": "Phenadryl Syrup",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14.0mg;5.0ml],AMMONIUM CHLORIDE[135.0mg;5.0ml],SODIUM CITRATE[57.5mg;5.0ml]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-30",
+        "date_end": "2028-11-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13115205AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19991903AZ",
+        "product": "AXCEL FLEMIN EXPECTORANT",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[12.5MG/5ML                    ],AMMONIUM CHLORIDE[130MG/5ML                     ]",
+        "generic_name": "Diphenhydramine HCl 12.5 mg/5ml & Ammonium Chloride 130 mg/5ml Syrup",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-03",
+        "date_end": "2029-08-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19991903AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900592AZ",
+        "product": "PHENEXPECT SYRUP",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[12.5MG/5ML                    ],AMMONIUM CHLORIDE[135MG/5ML                     ]",
+        "generic_name": "Diphenhydramine HCl 12.5 mg/5ml & Ammonium Chloride 135 mg/5ml Syrup",
+        "holder": "DCH AURIGA (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900592AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19880310AZ",
+        "product": "COREDIN EXPECTORANT LINCTUS",
+        "active_ingredient": "AMMONIUM CHLORIDE[135MG/5ML                     ],DIPHENHYDRAMINE HYDROCHLORIDE[14MG/5ML                      ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "TERAPUTICS SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19880310AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19880311AZ",
+        "product": "COREDIN PAEDIATRIC LINCTUS",
+        "active_ingredient": "AMMONIUM CHLORIDE[67.5MG/5ML                    ],DIPHENHYDRAMINE HYDROCHLORIDE[7MG/5ML                       ]",
+        "generic_name": "Diphenhydramine HCl 7 mg/5ml & Ammonium Chloride 67.5 mg/5ml Linctus",
+        "holder": "TERAPUTICS SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19880311AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14095026AZ",
+        "product": "Hova Expectorant (Sugar Free)",
+        "active_ingredient": "AMMONIUM CHLORIDE[135.00mg;5ml],DIPHENHYDRAMINE HYDROCHLORIDE[14.00mg;5ml],SODIUM CITRATE[57.00mg;5ml]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-20",
+        "date_end": "2029-09-20",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14095026AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20026062AZ",
+        "product": "REXOM UNIZET SYRUP",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[8 mg,5 ml],Bromhexine HCl[4 mg,5 ml],AMMONIUM CHLORIDE[100 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-02-14",
+        "date_end": "2030-02-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20026062AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25056024ACZ",
+        "product": "CP PHARMA DIPHENHYDRAMINE EXPECTORANT SUGAR FREE",
+        "active_ingredient": "SODIUM CITRATE DIHYDRATE[57.0 mg,5 ml],DIPHENHYDRAMINE HYDROCHLORIDE[14 mg,5 ml],AMMONIUM CHLORIDE[135 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "Hovid Nutriworld Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-22",
+        "date_end": "2030-05-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25056024ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14105008T",
+        "product": "Nature's Green Ying Nin Tablets",
+        "active_ingredient": "Arnebia euchroma[80mg;444.23mg],INDIGO NATURALIS[24mg;444.23mg],Curcuma aromatica[30mg;444.23mg],Curcuma aeruginosa[30mg;444.23mg],Gleditsia sinensis[30mg;444.23mg],Eupolyphaga seu steleophaga[36mg;444.23mg],Momordica cochinchinensis[24mg;444.23mg],Dictamnus albus[100mg;444.23mg],Smilax glabra[200mg;444.23mg],Lonicera japonica[80mg;444.23mg],Sophora flavescens[80mg;444.23mg],Gentiana macrophylla[30mg;444.23mg],Angelica sinensis[30mg;444.23mg],Cyperus rotundus[30mg;444.23mg],Prunus persica[30mg;444.23mg],Carthamus tinctorius[30mg;444.23mg],Boswellia carterii[30mg;444.23mg],Taraxacum mongolicum[80mg;444.23mg],Rheum palmatum[18mg;444.23mg],Natrii sulfas exsiccatus[18mg;444.23mg],Ammonium chloride (navasara)[12mg;444.23mg],Acorus tatarinowii[30mg;444.23mg]",
+        "generic_name": NaN,
+        "holder": "Tong Jum Chew (m) Sdn. Bhd.",
+        "description": "NATURAL PRODUCT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-03",
+        "date_end": "2030-07-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14105008T"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19910827AZ",
+        "product": "DYNADRYL SYRUP",
+        "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE[14MG                          ],AMMONIUM CHLORIDE[135MG                         ],SODIUM CITRATE[57MG]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Syrup",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19910827AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871717AZ",
+        "product": "CP Pharma Diphenhydramine Expectorant",
+        "active_ingredient": "SODIUM CITRATE/TRISODIUM CITRATE[57MG/5ML                      ],DIPHENHYDRAMINE HYDROCHLORIDE[14MG/5ML                      ],AMMONIUM CHLORIDE[135MG/5ML                     ]",
+        "generic_name": "Diphenhydramine HCl 14mg/5ml & Ammonium Chloride 135mg/5ml Expectorant",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-10-28",
+        "date_end": "2030-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871717AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20126125ACZ",
+        "product": "Medidyl Cough Syrup",
+        "active_ingredient": "AMMONIUM CHLORIDE[135mg/ 5 ml],DIPHENHYDRAMINE HYDROCHLORIDE[14mg/ 5 ml]",
+        "generic_name": NaN,
+        "holder": "World Medicare Supplies Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-25",
+        "date_end": "2030-12-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20126125ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16065027AZ",
+        "product": "Pediatric Bencodyl Linctus",
+        "active_ingredient": "AMMONIUM CHLORIDE[13.5 mg/ml;0],LEVOMENTHOL[0.18 mg/ml;0],DIPHENHYDRAMINE HYDROCHLORIDE[1.40 mg/ml;0]",
+        "generic_name": NaN,
+        "holder": "KCK PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-06-09",
+        "date_end": "2031-06-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16065027AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB06767",
+    "name": "Ammonium chloride",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Ammonium Chloride"
+      },
+      "queried_at": "2026-03-04T16:08:50.816296",
+      "status": "success",
+      "result_count": 36,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ammonium Chloride"
+      },
+      "queried_at": "2026-03-04T16:08:52.900579",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T16:08:53.799616",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T16:08:58.600759",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:01.622354",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T16:09:02.447688",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T16:09:09.126294",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T16:09:12.399586",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:13.194502",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:18.459738",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:20.028488",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:20.592550",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:24.202123",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T16:09:27.951655",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T16:09:29.286673",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T16:09:33.945406",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ammonium Chloride",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T16:09:39.004795",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:09:39.009280",
+    "version": "1.0"
+  }
+}

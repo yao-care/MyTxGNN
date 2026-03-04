@@ -1,0 +1,603 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "non-small cell lung carcinoma",
+    "query_string": "Docetaxel AND non-small cell lung carcinoma"
+  },
+  "data": {
+    "query": "Docetaxel AND non-small cell lung carcinoma",
+    "results": [
+      {
+        "pmid": "37196428",
+        "title": "Flashback Foreword: Docetaxel Versus Best Supportive Care in Non-Small-Cell Lung Cancer and Pemetrexed Versus Docetaxel in Second-Line Non-Small-Cell Lung Cancer.",
+        "abstract": "",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2023",
+        "authors": [
+          "Stinchcombe Thomas E"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Pemetrexed",
+          "Docetaxel",
+          "Lung Neoplasms",
+          "Antineoplastic Agents",
+          "Treatment Outcome",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37196428/"
+      },
+      {
+        "pmid": "39018922",
+        "title": "Ferroptosis-inducing compounds synergize with docetaxel to overcome chemoresistance in docetaxel-resistant non-small cell lung cancer cells.",
+        "abstract": "Development of resistance to therapy-induced cell death is a major hurdle in the effective treatment of advanced solid tumors. Erastin and RSL3 were originally found to induce synthetic lethality by induction of a novel form of cell death termed ferroptosis. Emerging evidence suggests that ferroptosis inducers enhance chemosensitivity of classic therapeutic agents by triggering ferroptotic cell death. In this study we evaluated the effects of erastin and RSL3 on the resistance of docetaxel, doxorubicin, and cisplatin, and revealed a mechanism whereby these ferroptosis inducers augment docetaxel efficacy in non-small cell lung cancer by regulating redox signaling to promote ferroptosis. Transcriptome analysis revealed that combination treatment modulated not only p53 signaling pathway but also immune responses and several signaling pathways including MAPK, NF-κB and PI3K/Akt. Considering that glutathione peroxidase 4 (GPX4) serves as the main effector to protect cells from ferroptosis, ",
+        "journal": "European journal of medicinal chemistry",
+        "year": "2024",
+        "authors": [
+          "Huang Wei",
+          "Guo Yi",
+          "Qian Yazhi",
+          "Liu Xiaoang",
+          "Li Gaoxiang"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ferroptosis",
+          "Humans",
+          "Docetaxel",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Drug Resistance, Neoplasm",
+          "Lung Neoplasms",
+          "Antineoplastic Agents",
+          "Drug Screening Assays, Antitumor",
+          "Molecular Structure",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39018922/"
+      },
+      {
+        "pmid": "40404206",
+        "title": "Development and validation of a serum proteomic test for predicting patient outcomes in advanced non-small cell lung cancer treated with atezolizumab or docetaxel.",
+        "abstract": "Programmed cell death-ligand 1 (PD-L1) expression is used in treatment decision-making for patients with advanced non-small cell lung cancer, determining if immune checkpoint inhibitors (ICI) are recommended. Patient selection for ICI treatment can be improved by incorporating the host response. We developed and carried out multiple independent validations of a blood-based test designed to stratify outcomes for patients treated with atezolizumab.",
+        "journal": "Journal for immunotherapy of cancer",
+        "year": "2025",
+        "authors": [
+          "Srivastava Minu K",
+          "Zou Wei",
+          "McCleland Mark",
+          "Roder Joanna",
+          "Asmellash Senait"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Antibodies, Monoclonal, Humanized",
+          "Lung Neoplasms",
+          "Docetaxel",
+          "Male",
+          "Proteomics",
+          "Female",
+          "Middle Aged",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40404206/"
+      },
+      {
+        "pmid": "36336841",
+        "title": "Sintilimab versus docetaxel as second-line treatment in advanced or metastatic squamous non-small-cell lung cancer: an open-label, randomized controlled phase 3 trial (ORIENT-3).",
+        "abstract": "Treatment options for Chinese patients with locally advanced or metastatic squamous-cell non-small-cell lung cancer (sqNSCLC) after failure of first-line chemotherapy are limited. This study (ORIENT-3) aimed to evaluate the efficacy and safety of sintilimab versus docetaxel as second-line treatment in patients with locally advanced or metastatic sqNSCLC.",
+        "journal": "Cancer communications (London, England)",
+        "year": "2022",
+        "authors": [
+          "Shi Yuankai",
+          "Wu Lin",
+          "Yu Xinmin",
+          "Xing Puyuan",
+          "Wang Yan"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Lung Neoplasms",
+          "Taxoids",
+          "Carcinoma, Squamous Cell",
+          "Transcription Factors",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36336841/"
+      },
+      {
+        "pmid": "40679002",
+        "title": "Comparison of anlotinib combined with docetaxel versus single docetaxel as second-line treatment beside radiotherapy for advanced non-small cell lung cancer: Efficacy and safety.",
+        "abstract": "This study compared the efficacy and safety of anlotinib combined with docetaxel versus docetaxel alone in patients with non-small cell lung cancer (NSCLC), assessing overall survival (OS), disease control rate (DCR), and incidence of adverse events (AE). 128 patients with advanced non-small cell lung cancer were randomly divided into ACD group (n=64) and DOC group (n=64). They were treated with ACD and Docetaxel alone, respectively. They received routine blood, urine, stool examination, fecal occult blood, blood biochemistry and tumor markers. The post-treatment CEA and VEGF levels in the ACD group were sharply lower to those in the DOC group (P<0.05). DCR in the ACD group was 79.7%, which was much higher in comparison to the 60.9% in the DOC group (P<0.05). The overall response rate (ORR) of ACD was 23.4%, slightly higher than the 17.2% of DOC. The incidence of hand-foot syndrome (HFS), hypertension, and hemoptysis in the ACD group was significantly higher than in the DOC group. Anlo",
+        "journal": "Pakistan journal of pharmaceutical sciences",
+        "year": "2025",
+        "authors": [
+          "Fu Huiying",
+          "Ke Chuanqin",
+          "Xu Yongchun",
+          "Zhang Haoli",
+          "Zhong Ying"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Docetaxel",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Male",
+          "Quinolines",
+          "Female",
+          "Middle Aged",
+          "Lung Neoplasms",
+          "Indoles",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40679002/"
+      },
+      {
+        "pmid": "34488513",
+        "title": "Factors affecting the efficacy and safety of docetaxel combined with platinum in the treatment of advanced non-small cell lung cancer.",
+        "abstract": "This study aimed to quantitatively evaluate factors influencing the efficacy and safety of the docetaxel-platinum regimen to provide reliable information for optimizing chemotherapy regimens.",
+        "journal": "Expert review of clinical pharmacology",
+        "year": "2021",
+        "authors": [
+          "Wang FengLi",
+          "Zhao ChenYang",
+          "Wen Xin",
+          "Zheng Qingshan",
+          "Li Lujin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asian People",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Humans",
+          "Lung Neoplasms",
+          "Models, Statistical",
+          "Platinum Compounds",
+          "Survival Analysis",
+          "Survival Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34488513/"
+      },
+      {
+        "pmid": "27912835",
+        "title": "Second-Line Chemotherapy and Beyond for Non-Small Cell Lung Cancer.",
+        "abstract": "The landscape for the second- and third-line treatment of advanced non-small cell lung cancer has changed dramatically over the last two decades. Immunotherapeutic agents have become a preferred choice following progression on platinum-based first-line chemotherapy. However, there remains a role for cytotoxic chemotherapy and pemetrexed and docetaxel (with or without ramucirumab) are approved for single-agent use in the second-line setting. With the discovery of new genetic alterations and the development of novel targeted drugs, the treatment of advanced non-small cell lung cancer following progression on first-line therapy continues to become more complicated as new treatment algorithms evolve.",
+        "journal": "Hematology/oncology clinics of North America",
+        "year": "2017",
+        "authors": [
+          "Durm Greg",
+          "Hanna Nasser"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "ErbB Receptors",
+          "Erlotinib Hydrochloride",
+          "Humans",
+          "Lung Neoplasms",
+          "Mutation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27912835/"
+      },
+      {
+        "pmid": "37945672",
+        "title": "Detection of factors related to treatment reduction in docetaxel and ramucirumab for non-small cell lung cancer treatment.",
+        "abstract": "Treatment using docetaxel (DOC) and ramucirumab (RAM) is an effective regimen in second or later line advanced non-small cell lung carcinoma (NSCLC) treatment. However, it induces severe adverse effects, resulting in treatment reduction such as dose reduction and/or discontinuation. This study aimed to reveal the factor(s) associated with treatment reduction in DOC + RAM. We retrospectively evaluated patients with advanced NSCLC (n = 155). Treatment reduction of the second course due to severe adverse effects was conducted in 25.8% of the participants, and relative dose intensity at the second course was 95.7 ± 8.4% for DOC and 91.9 ± 24.8% for RAM. Multivariate logistic regression analyses identified that baseline anemia and prophylactic granulocyte colony-stimulating factor (G-CSF) administration are preventive factors for the reduction (adjusted odds ratio, 0.29; 95% confidence interval, 0.12-0.66; P = 0.004 for baseline anemia, 0.18; 0.08-0.42; P < 0.0001 for prophylactic G-CSF adm",
+        "journal": "Scientific reports",
+        "year": "2023",
+        "authors": [
+          "Saito Yoshitaka",
+          "Tamaki Shinya",
+          "Hirate Daisuke",
+          "Takada Shinya",
+          "Takahashi Kenta"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Lung Neoplasms",
+          "Retrospective Studies",
+          "Granulocyte Colony-Stimulating Factor",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Anemia",
+          "Ramucirumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37945672/"
+      },
+      {
+        "pmid": "36773042",
+        "title": "Sequencing strategies with ramucirumab and docetaxel following prior treatments for advanced non-small cell lung cancer: a multicenter retrospective cohort study.",
+        "abstract": "Ramucirumab (RAM) and docetaxel (DOC) are commonly used after first-line therapy for advanced non-small cell lung cancer (NSCLC). Therefore, we aimed to elucidate sequencing strategies of RAM and DOC following prior treatments, including immune checkpoint inhibitor (ICI), cytotoxic agent (CTx) alone, bevacizumab (BEV), and tyrosine kinase inhibitor (TKI).",
+        "journal": "European journal of clinical pharmacology",
+        "year": "2023",
+        "authors": [
+          "Tanizaki Satoshi",
+          "Matsumoto Kinnosuke",
+          "Tamiya Akihiro",
+          "Taniguchi Yoshihiko",
+          "Matsuda Yoshinobu"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Lung Neoplasms",
+          "Retrospective Studies",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Protein Kinase Inhibitors",
+          "Ramucirumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36773042/"
+      },
+      {
+        "pmid": "10777470",
+        "title": "Paclitaxel and docetaxel combinations in non-small cell lung cancer.",
+        "abstract": "Paclitaxel, the first of the taxanes, has exhibited unique and encouraging single-agent activity in the treatment of non-small cell lung cancer (NSCLC). Yet, with single-agent response rates approaching 25%, it was logical to examine the impact of paclitaxel in combination chemotherapy regimens. In trials evaluating the activity of paclitaxel in combination with one of the platinum compounds, cisplatin or carboplatin, response rates have ranged from 35 to > 50% and were significantly better than response rates observed with etoposide/cisplatin, the previous standard regimen for treatment of NSCLC. Docetaxel is a newer taxane that also has exhibited notable single-agent activity and response rates ranging from 20 to 50% when combined with cisplatin. Future research will look to refine the use of taxane combinations in NSCLC and to examine the potential of these unique and promising drugs when combined with newer agents that are active against this disease.",
+        "journal": "Chest",
+        "year": "2000",
+        "authors": [
+          "Belani C P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Cisplatin",
+          "Docetaxel",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Lung Neoplasms",
+          "Paclitaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10777470/"
+      },
+      {
+        "pmid": "28675058",
+        "title": "Selumetinib for the treatment of non-small cell lung cancer.",
+        "abstract": "KRAS is the most frequently mutated oncogene in NSCLC, occurring in around a third of patients. However, this largest genomically defined subgroup of lung cancer patients seem to remain 'undruggable', with any effective targeted therapy approved at the moment. The prognostic and predictive power and thus the clinical utility of KRAS oncogenic mutations in lung cancer are highly debated issues, not supportive of KRAS testing in clinical practice of NSCLC therapy. Areas covered: A phase II trial in KRAS-mutant NSCLC had shown significant improvements in PFS and ORR in patients treated with selumetinib plus docetaxel compared to docetaxel alone. Disappointing data emerged from the next phase III trial in which the addition of selumetinib to docetaxel in patients with advanced KRAS mutant lung cancer did not improve survival or show clinical benefit. Expert opinion: Promising strategies against this common mutation are under evaluation in clinical trials. Combination therapies represent a ",
+        "journal": "Expert opinion on investigational drugs",
+        "year": "2017",
+        "authors": [
+          "Casaluce Francesca",
+          "Sgambato Assunta",
+          "Maione Paolo",
+          "Sacco Paola Claudia",
+          "Santabarbara Giuseppe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Benzimidazoles",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Humans",
+          "Lung Neoplasms",
+          "Mutation",
+          "Protein Kinase Inhibitors",
+          "Proto-Oncogene Proteins p21(ras)"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28675058/"
+      },
+      {
+        "pmid": "39434017",
+        "title": "Effect of baseline anemia on the efficacy of docetaxel and ramucirumab for advanced non-small cell lung cancer treatment.",
+        "abstract": "Docetaxel (DOC) and ramucirumab (RAM) is one of the most effective regimens for advanced non-small cell lung cancer (NSCLC) treatment. In our previous study, baseline anemia was identified as a preventive factor against the development of severe adverse effects during the first treatment cycle. It was hypothesized that anemia directly promotes tumor angiogenesis, leading to the elevation of RAM efficacy with increased DOC delivery to tumors, while reducing DOC delivery to other organs, potentially mitigating severe adverse effects. If this hypothesis is correct, patients with baseline anemia may have better clinical outcomes than those with normal hemoglobin levels. In this study, we aimed to investigate the effect of baseline anemia on the efficacy of DOC + RAM in treating advanced NSCLC in a real-word setting.",
+        "journal": "BMC cancer",
+        "year": "2024",
+        "authors": [
+          "Saito Yoshitaka",
+          "Takekuma Yoh",
+          "Sakakibara-Konishi Jun",
+          "Shimizu Yasushi",
+          "Kinoshita Ichiro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Ramucirumab",
+          "Docetaxel",
+          "Anemia",
+          "Male",
+          "Female",
+          "Aged",
+          "Middle Aged",
+          "Lung Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39434017/"
+      },
+      {
+        "pmid": "10830138",
+        "title": "Advanced non-small cell lung carcinoma: the emerging role of docetaxel.",
+        "abstract": "The treatment of advanced non-small cell lung carcinoma (NSCLC) has improved greatly over the past decade. With the advent of new agents, in particular taxanes, gemcitabine, vinorelbine, and topoisomerase I inhibitors, response rates have improved from 15-20% to 25-35%, with commensurate improvement in median and one year survival rates to 8-10 months and 35-45%, respectively. These improvements have proven statistically significant in multiple studies [1-4]. Docetaxel, either alone or in combination with platinols, has shown particular promise; and, in some arenas, it has become a standard component of our therapeutic armamentarium. We will review the preclinical data and single agent activity of docetaxel in treatment-naive and previously treated NSCLC patients, its activity in combination with cisplatin and carboplatin, as well as other new agents, and finally focus on ongoing studies evaluating its role in locally advanced disease.",
+        "journal": "Investigational new drugs",
+        "year": "2000",
+        "authors": [
+          "Langer C J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Clinical Trials as Topic",
+          "Docetaxel",
+          "Humans",
+          "Lung Neoplasms",
+          "Paclitaxel",
+          "Salvage Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10830138/"
+      },
+      {
+        "pmid": "11122830",
+        "title": "Second-line chemotherapy for non-small-cell lung cancer.",
+        "abstract": "Most of the experience with second-line chemotherapy for non-small-cell lung cancer (NSCLC) comes from small phase II trials, which have shown disappointing or inconsistent results. The notable exception has been docetaxel, which has been extensively studied as a second-line therapy for NSCLC. On the basis of consistent phase II activity, two large randomized phase III trials were conducted for patients with advanced NSCLC that had progressed either on or after first-line platinum-based therapy. In one trial, docetaxel, at either 100 or 75 mg/m(2), was compared with a regimen of either vinorelbine or ifosfamide. In the second trial, docetaxel 75 to 100 mg/m(2) was compared with best supportive care. Both trials showed significant improvement in survival, time to progression, and quality of life in the patients receiving docetaxel versus the control therapy. Based on these two large trials, it appears that the use of second-line therapy with single-agent docetaxel at a dose of 75 mg/m(2",
+        "journal": "Current oncology reports",
+        "year": "2000",
+        "authors": [
+          "Fossella F V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Alkylating",
+          "Antineoplastic Agents, Phytogenic",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Disease Progression",
+          "Docetaxel",
+          "Drug Resistance, Neoplasm",
+          "Health Status",
+          "Humans",
+          "Ifosfamide",
+          "Lung Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11122830/"
+      },
+      {
+        "pmid": "15757434",
+        "title": "Docetaxel in advanced non-small cell lung cancer.",
+        "abstract": "Based on the survival benefit demonstrated in large randomized clinical trials, docetaxel is approved for the treatment of advanced non-small cell lung cancer (NSCLC) in both the first- and second-line settings. The efficacy of docetaxel in combination with cisplatin is equivalent to some, and superior to other, platinum-based doublets for first-line management of NSCLC, and has a manageable toxicity profile. Carboplatin-based regimens and nonplatinum combinations with docetaxel also have proven efficacy in first-line therapy of patients with advanced NSCLC. Combinations of docetaxel with various novel targeted agents have produced encouraging data in Phase II studies. This article reviews recent studies of docetaxel as a single agent and in combination regimens with cytotoxic and more recent targeted agents in the management of advanced NSCLC.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2005",
+        "authors": [
+          "Wakelee Heather",
+          "Ramalingam Sakkaraiappan",
+          "Belani Chandra P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Humans",
+          "Lung Neoplasms",
+          "Randomized Controlled Trials as Topic",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15757434/"
+      },
+      {
+        "pmid": "26758586",
+        "title": "Meta-analysis of published efficacy and safety data for docetaxel in second-line treatment of patients with advanced non-small-cell lung cancer.",
+        "abstract": "To gain a better understanding of the impact of dose and other prognostic factors on safety and efficacy of docetaxel in second-line non-small-cell lung cancer patients.",
+        "journal": "Cancer chemotherapy and pharmacology",
+        "year": "2016",
+        "authors": [
+          "Stroh Mark",
+          "Green Michelle",
+          "Cha Edward",
+          "Zhang Nancy",
+          "Wada Russ"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Lung Neoplasms",
+          "Neutropenia",
+          "Prognosis",
+          "Survival Rate",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26758586/"
+      },
+      {
+        "pmid": "37851885",
+        "title": "Perioperative Nivolumab and Chemotherapy in Non-Small-Cell Lung Cancer.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2023",
+        "authors": [
+          "Verma Saurav",
+          "Vincent Mark",
+          "Breadner Daniel"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Nivolumab",
+          "Lung Neoplasms",
+          "Docetaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37851885/"
+      },
+      {
+        "pmid": "29136767",
+        "title": "The exposure-effect-toxicity correlation of docetaxel and magnesium isoglycyrrhizinate in non-small cell lung tumor-bearing mice.",
+        "abstract": "To take full advantage of combination therapy of Docetaxel (DTX) and Magnesium isoglycyrrhizinate (MGIG), the pharmacokinetic- pharmacodynamic- toxicodynamics (PK-PD-TD) interaction of DTX and MGIG in non-small cell lung tumor-bearing mice was investigated in the present study. A model, an integrated semi-mechanistic PK-PD-TD, was established for elucidating the exposure-effect-toxicity relationship between DTX and MGIG. A tumor growth and a transit compartmental system were applied to imitate the growth and death of tumor cell. An indirect model with precursor-dependence was induced to clarify the temporal relationship between liver injury and drug exposure. No PK interaction between DTX and MGIG in plasma, liver and tumor was observed. In PD and TD results, MGIG had no antitumoral activity on non-small cell lung carcinoma, while it showed a strong hepatoprotection on DTX-induced liver injury. The PK-PD parameters of anti-tumor effect were related with the tumor growth characteristics",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2018",
+        "authors": [
+          "Li Peijin",
+          "Li Suning",
+          "Gu Hongmei",
+          "Lu Qianfeng",
+          "Jiang Wenjiao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Chemical and Drug Induced Liver Injury",
+          "Docetaxel",
+          "Dose-Response Relationship, Drug",
+          "Hepatocytes",
+          "Humans",
+          "Lung Neoplasms",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29136767/"
+      },
+      {
+        "pmid": "27467210",
+        "title": "Selumetinib in the treatment of non-small-cell lung cancer.",
+        "abstract": "The RAS-RAF-MEK-ERK pathway regulates processes involved in the proliferation and survival of cells. KRAS mutations, prevalent in approximately 30% of patients with non-small-cell lung cancer (NSCLC), result in constitutive activation of the pathway. Selumetinib (AZD6244, ARRY-142886) is a potent and selective inhibitor of MEK1/2 which has demonstrated significant efficacy in combination with docetaxel in patients with KRAS mutant pretreated advanced NSCLC. Several trials in combination with other chemotherapy and targeted therapy regimens in lung cancer are ongoing. We review the development of selumetinib in patients with NSCLC, summarize the pharmacodynamic, pharmacokinetic and tolerability characteristics, and the available clinical trial data to understand the role of selumetinib in the treatment of NSCLC.",
+        "journal": "Future oncology (London, England)",
+        "year": "2016",
+        "authors": [
+          "Bernabé Reyes",
+          "Patrao Ana",
+          "Carter Louise",
+          "Blackhall Fiona",
+          "Dean Emma"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Benzimidazoles",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Humans",
+          "MAP Kinase Kinase 1",
+          "MAP Kinase Kinase 2",
+          "Mutation",
+          "Protein Kinase Inhibitors",
+          "Proto-Oncogene Proteins p21(ras)"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27467210/"
+      },
+      {
+        "pmid": "33982408",
+        "title": "Safety and pharmacokinetics of docetaxel in combination with pegvorhyaluronidase alfa in patients with non-small cell lung cancer.",
+        "abstract": "This open-label, phase Ib study (NCT02346370) assessed the effect of pegvorhyaluronidase alfa (PVHA; PEGPH20) on the plasma pharmacokinetics (PKs) and safety of docetaxel in 15 patients with stage IIIB/IV non-small cell lung cancer (NSCLC). The docetaxel PK profile from this study was consistent with simulations from a published docetaxel population PK model, and did not demonstrate an effect of PVHA on docetaxel PK. A maximum a posteriori Bayesian fit of the literature PK model to the docetaxel PK appeared unbiased. Adverse events (AEs) were generally consistent with previous reports for docetaxel monotherapy in NSCLC, except for higher incidence of musculoskeletal events, including myalgias, with PVHA plus docetaxel. The most common AEs were fatigue (87%), muscle spasms (60%), and myalgia (53%). Four patients experienced thromboembolic events (27%), three leading to treatment discontinuation. PVHA appeared to demonstrate an acceptable safety profile when given with docetaxel without ",
+        "journal": "Clinical and translational science",
+        "year": "2021",
+        "authors": [
+          "Heineman Thomas",
+          "Baumgart Megan",
+          "Nanavati Charvi",
+          "Gabrail Nash",
+          "Van Wart Scott A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans",
+          "Hyaluronoglucosaminidase",
+          "Lung Neoplasms",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33982408/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:52:49.302179",
+  "success": true,
+  "error_message": null
+}

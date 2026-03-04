@@ -1,0 +1,632 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": "breast neoplasm",
+    "query_string": "Bevacizumab AND breast neoplasm"
+  },
+  "data": {
+    "query": "Bevacizumab AND breast neoplasm",
+    "results": [
+      {
+        "pmid": "35044810",
+        "title": "CALGB 40603 (Alliance): Long-Term Outcomes and Genomic Correlates of Response and Survival After Neoadjuvant Chemotherapy With or Without Carboplatin and Bevacizumab in Triple-Negative Breast Cancer.",
+        "abstract": "CALGB 40603 (NCT00861705), a 2 × 2 randomized phase II trial, demonstrated that adding carboplatin or bevacizumab to weekly paclitaxel (wP) followed by doxorubicin and cyclophosphamide significantly increased the pathologic complete response (pCR) rate in stage II-III triple-negative breast cancer. We now report long-term outcomes (LTOs) and correlative science end points.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2022",
+        "authors": [
+          "Shepherd Jonathan H",
+          "Ballman Karla",
+          "Polley Mei-Yin C",
+          "Campbell Jordan D",
+          "Fan Cheng"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Carboplatin",
+          "Female",
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Neoplasm, Residual",
+          "Paclitaxel",
+          "Triple Negative Breast Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35044810/"
+      },
+      {
+        "pmid": "18160686",
+        "title": "Paclitaxel plus bevacizumab versus paclitaxel alone for metastatic breast cancer.",
+        "abstract": "In an open-label, randomized, phase 3 trial, we compared the efficacy and safety of paclitaxel with that of paclitaxel plus bevacizumab, a monoclonal antibody against vascular endothelial growth factor, as initial treatment for metastatic breast cancer.",
+        "journal": "The New England journal of medicine",
+        "year": "2007",
+        "authors": [
+          "Miller Kathy",
+          "Wang Molin",
+          "Gralow Julie",
+          "Dickler Maura",
+          "Cobleigh Melody"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18160686/"
+      },
+      {
+        "pmid": "37612624",
+        "title": "Neoadjuvant immunotherapy and chemotherapy regimens for the treatment of high-risk, early-stage triple-negative breast cancer: a systematic review and network meta-analysis.",
+        "abstract": "Patients with triple-negative breast cancer (TNBC) are generally younger and more likely to experience disease recurrence and have the shortest survival among all breast cancer patients. Recently, neoadjuvant delivery of the programmed cell death protein-1 inhibitor pembrolizumab plus chemotherapy followed by adjuvant pembrolizumab was approved for patients with high-risk, early-stage TNBC, but this treatment regimen has not been evaluated in head-to-head trials with other neoadjuvant treatment regimens. Therefore, the objective of this study was to estimate the relative efficacy of neoadjuvant pembrolizumab + chemotherapy followed by adjuvant pembrolizumab versus other neoadjuvant treatments for early-stage TNBC through a systematic review and network meta-analysis (NMA).",
+        "journal": "BMC cancer",
+        "year": "2023",
+        "authors": [
+          "Cortes Javier",
+          "Haiderali Amin",
+          "Huang Min",
+          "Pan Wilbur",
+          "Schmid Peter"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Triple Negative Breast Neoplasms",
+          "Bevacizumab",
+          "Carboplatin",
+          "Neoplasm Recurrence, Local",
+          "Immunotherapy",
+          "Adjuvants, Immunologic",
+          "Anthracyclines",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37612624/"
+      },
+      {
+        "pmid": "40199609",
+        "title": "Bevacizumab, tislelizumab and nab-paclitaxel for previously untreated metastatic triple-negative breast cancer: a phase II trial.",
+        "abstract": "Optimal first-line therapy for metastatic triple-negative breast cancer (mTNBC) varied in different situations. This phase II trial explores the efficacy and safety of combination regimens with bevacizumab, tislelizumab and nab-paclitaxel (BETINA) in first-line setting for mTNBC.",
+        "journal": "Journal for immunotherapy of cancer",
+        "year": "2025",
+        "authors": [
+          "Chen Meiting",
+          "Huang Riqing",
+          "Rong Qixiang",
+          "Yang Wei",
+          "Shen Xiujiao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Bevacizumab",
+          "Middle Aged",
+          "Triple Negative Breast Neoplasms",
+          "Paclitaxel",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Adult",
+          "Antibodies, Monoclonal, Humanized",
+          "Albumins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40199609/"
+      },
+      {
+        "pmid": "25185646",
+        "title": "Angiogenesis and tumor microenvironment: bevacizumab in the breast cancer model.",
+        "abstract": "Solid tumors require blood vessels for growth, and many new cancer therapies are directed against the tumor vasculature. Antiangiogenic therapies should destroy the tumor vasculature, thereby depriving the tumor of oxygen and nutrients. According to Jain et al., an alternative hypothesis could be that certain antiangiogenic agents can also transiently \"normalize\" the abnormal structure and function of tumor vasculature to make it more efficient for oxygen and drug delivery. With emphasize on the research works of Jain et al., the aim of this review is to describe the impact of antivascular endothelial growth factor (VEGF) therapy on \"pseudo-normalization\" of tumor vasculature and tumor microenvironment, its role in early and metastatic breast cancer, and the clinical evidence supporting this original concept. The phase III clinical trials showed that extended tumors, metastatic or locally advanced, are likely to benefit from bevacizumab therapy in combination with chemotherapy, assumin",
+        "journal": "Targeted oncology",
+        "year": "2015",
+        "authors": [
+          "Trédan Olivier",
+          "Lacroix-Triki Magali",
+          "Guiu Séverine",
+          "Mouret-Reynier Marie-Ange",
+          "Barrière Jérôme"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Bevacizumab",
+          "Biomarkers, Tumor",
+          "Breast Neoplasms",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Humans",
+          "Neovascularization, Pathologic",
+          "Patient Selection"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25185646/"
+      },
+      {
+        "pmid": "27494978",
+        "title": "[Not Available].",
+        "abstract": "NEOADJUVANT CHEMOTHERAPY IN HER2-POSITIVE AND TRIPLE-NEGATIVE BREAST CANCER: Neoadjuvant chemotherapy is a standard option in the management of operable breast cancer, as effective as adjuvant chemotherapy in term of survival and with the potential to increase the rate of breast conservation. In HER2+ and triple-negative breast cancers, neoadjuvant chemotherapy is associated with a high probability of pathological complete response, which strongly predicts survival outcome. In HER2+ breast cancer, trastuzumab, in combination with neoadjuvant chemotherapy, mostly anthracyclines and taxane-based, demonstrated a significant increase in pathological complete response rate. Recently, dual HER2 blockade strategies (lapatinib-trastuzumab or pertuzumab-trastuzumab) demonstrated a significant improvement in terms of pathological complete response over trastuzumab. In triple-negative breast cancer, recent data indicate that incorporating platinum compounds to neoadjuvant chemotherapy also signif",
+        "journal": "Bulletin du cancer",
+        "year": "2016",
+        "authors": [
+          "Gonçalves Anthony"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Chemotherapy, Adjuvant",
+          "Female",
+          "Humans",
+          "Lapatinib",
+          "Neoadjuvant Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27494978/"
+      },
+      {
+        "pmid": "34533811",
+        "title": "Docetaxel and bevacizumab with or without trastuzumab as first-line treatment for patients with metastatic breast cancer: a meta-analysis.",
+        "abstract": "Although bevacizumab and trastuzumab have been widely added to the standard regimen for metastatic breast cancer, the clinical outcomes remain controversial. The purpose of this study was to conduct meta-analysis to verify the clinical efficacy and safety of docetaxel and bevacizumab with or without trastuzumab as first-line treatment for patients with metastatic breast cancer (MBC).",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2021",
+        "authors": [
+          "Sun Z-W",
+          "Lan X-Y",
+          "Kong F-L",
+          "Gao Y-Y",
+          "Li S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Docetaxel",
+          "Female",
+          "Humans",
+          "Progression-Free Survival",
+          "Erb-b2 Receptor Tyrosine Kinases",
+          "Survival Rate",
+          "Trastuzumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34533811/"
+      },
+      {
+        "pmid": "25947646",
+        "title": "VEGF-A levels in bevacizumab-treated breast cancer patients: a systematic review and meta-analysis.",
+        "abstract": "Bevacizumab may improve outcomes of patients with breast cancer, but the absence of an established biomarker hampers patient selection and researchers´ ability to demonstrate a clear survival benefit. Its putative target, circulating VEGF-A, emerged as the main candidate and we sought to identify the relationship between VEGF-A levels and outcomes through systematic review. We searched electronic databases and meeting proceedings for randomized controlled trials (RCTs) comparing the addition of bevacizumab to standard chemotherapy for breast cancer. RCTs were included if outcomes were presented separately according to VEGF-A plasma levels. Random-effects model were applied to calculate the pooled hazard ratios for progression-free survival, event-free survival (EFS), comprising disease recurrence, progression or any-cause death, and overall survival (OS), with respective confidence intervals (95 % CI). High and low VEGF-A levels subgroups followed each trial definition, and results wer",
+        "journal": "Breast cancer research and treatment",
+        "year": "2015",
+        "authors": [
+          "Santos Lucas Vieira dos",
+          "Cruz Marcelo Rocha",
+          "Lopes Gilberto de Lima",
+          "Lima Joao Paulo da Silveira Nogueira"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Female",
+          "Humans",
+          "Neoplasm Staging",
+          "Prognosis",
+          "Proportional Hazards Models"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25947646/"
+      },
+      {
+        "pmid": "21205751",
+        "title": "Bevacizumab and heart failure risk in patients with breast cancer: a thorn in the side?",
+        "abstract": "",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2011",
+        "authors": [
+          "Verma Nitin",
+          "Swain Sandra M"
+        ],
+        "pub_types": [
+          "Comment",
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Clinical Trials as Topic",
+          "Female",
+          "Heart Failure",
+          "Humans",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21205751/"
+      },
+      {
+        "pmid": "27647231",
+        "title": "Bevacizumab as first-line treatment in HER2-negative advanced breast cancer: pros and cons.",
+        "abstract": "Bevacizumab, a humanized, anti-vascular endothelial growth factor-A monoclonal antibody, has shown efficacy in a number of cancers. However, its use in metastatic breast cancer (MBC) remains controversial.",
+        "journal": "Tumori",
+        "year": "2016",
+        "authors": [
+          "Sini Valentina",
+          "Cassano Alessandra",
+          "Corsi Domenico",
+          "De Laurentiis Michele",
+          "Gamucci Teresa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Molecular Targeted Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27647231/"
+      },
+      {
+        "pmid": "19954282",
+        "title": "Bevacizumab and breast cancer: current therapeutic progress and future perspectives.",
+        "abstract": "Bevacizumab is a humanized monoclonal antibody to VEGF, and the incorporation of bevacizumab to chemotherapy is one of the rapidly evolving areas in the treatment of breast cancer. Bevacizumab in combination with chemotherapy versus chemotherapy alone improves progression-free survival and increases the response rate in first-line therapy for locally recurrent or metastatic breast cancer. This approach has been and is still being evaluated for early breast cancer in neoadjuvant and adjuvant settings. Bevacizumab is well tolerated and has an established tolerability profile. Both tumor- and host-related biomarkers of bevacizumab activity, response and benefit are emerging from Phase I, II and III clinical trials. The biomarkers of benefit will ultimately help identify the subgroups of patients who specifically benefit from anti-VEGF therapy with bevacizumab.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2009",
+        "authors": [
+          "Yang Sherry X"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Chemotherapy, Adjuvant",
+          "Clinical Trials as Topic",
+          "Disease-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19954282/"
+      },
+      {
+        "pmid": "35404400",
+        "title": "Photoacoustic Tomography Detects Response and Resistance to Bevacizumab in Breast Cancer Mouse Models.",
+        "abstract": "Angiogenesis is an established prognostic factor in advanced breast cancer, yet response to antiangiogenic therapies in this disease remains highly variable. Noninvasive imaging biomarkers could help identify patients that will benefit from antiangiogenic therapy and provide an ideal tool for longitudinal monitoring, enabling dosing regimens to be altered with real-time feedback. Photoacoustic tomography (PAT) is an emerging imaging modality that provides a direct readout of tumor hemoglobin concentration and oxygenation. We hypothesized that PAT could be used in the longitudinal setting to provide an early indication of response or resistance to antiangiogenic therapy. To test this hypothesis, PAT was performed over time in estrogen receptor-positive and estrogen receptor-negative breast cancer xenograft mouse models undergoing treatment with the antiangiogenic bevacizumab as a single agent. The cohort of treated tumors, which were mostly resistant to the treatment, contained a subset",
+        "journal": "Cancer research",
+        "year": "2022",
+        "authors": [
+          "Quiros-Gonzalez Isabel",
+          "Tomaszewski Michal R",
+          "Golinska Monika A",
+          "Brown Emma",
+          "Ansel-Bollepalli Laura"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Female",
+          "Hemoglobins",
+          "Humans",
+          "Mice",
+          "Neovascularization, Pathologic",
+          "Receptors, Estrogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35404400/"
+      },
+      {
+        "pmid": "24200986",
+        "title": "The life, death, and attempted rebirth of bevacizumab in breast cancer.",
+        "abstract": "Breast cancer is the leading cause of cancer in women. In recent years, there has been immense drug discovery and development in the field of breast cancer. Most recently, the role of vascular endothelial growth factor has moved to the treatment forefront with bevacizumab immersed into the literature as well as the media. Bevacizumab, a vascular endothelial growth factor inhibitor FDA approved for the treatment of other cancers, was first studied in metastatic breast cancer. Its use in human epidermal growth factor receptor 2-negative metastatic breast cancer ultimately failed to show an improvement in overall survival in landmark trials (E2100, AVADO, RIBBON-1 and RIBBON-2) despite its positive impact on progression-free survival. The role is yet to be determined in triple negative breast cancer as well as in the adjuvant and neoadjuvant settings. Trends begin to emerge as bevacizumab is combined with other chemotherapeutic drugs in terms of toxicities. The addition of bevacizumab is ",
+        "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+        "year": "2014",
+        "authors": [
+          "Seddon Amanda N",
+          "Cuellar Sandra",
+          "Haaf Christina M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal, Humanized",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Clinical Trials as Topic",
+          "Disease-Free Survival",
+          "Female",
+          "Humans",
+          "Survival Rate",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24200986/"
+      },
+      {
+        "pmid": "38969879",
+        "title": "Metronomic chemotherapy plus anti-PD-1 in metastatic breast cancer: a Bayesian adaptive randomized phase 2 trial.",
+        "abstract": "It remains unclear whether metronomic chemotherapy is superior to conventional chemotherapy when combined with immune checkpoint blockade. Here we performed a phase 2 clinical trial of metronomic chemotherapy combined with PD-1 blockade to compare the efficacy of combined conventional chemotherapy and PD-1 blockade using Bayesian adaptive randomization and efficacy monitoring. Eligible patients had metastatic HER2-negative breast cancer and had not received more than one prior line of standard chemotherapy. Patients (total n = 97) were randomized to receive (1) metronomic vinorelbine (NVB) monotherapy (n = 11), (2) NVB plus anti-PD-1 toripalimab (n = 7), (3) anti-angiogenic bevacizumab, NVB and toripalimab (n = 27), (4) conventional cisplatin, NVB and toripalimab (n = 26), or (5) metronomic cyclophosphamide, capecitabine, NVB and toripalimab (the VEX cohort) (n = 26). The primary endpoint was disease control rate (DCR). Secondary objectives included progression-free survival (PFS) and ",
+        "journal": "Nature medicine",
+        "year": "2024",
+        "authors": [
+          "Mo Hongnan",
+          "Yu Yongpei",
+          "Sun Xiaoying",
+          "Ge Hewei",
+          "Yu Lanlan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Breast Neoplasms",
+          "Administration, Metronomic",
+          "Middle Aged",
+          "Bayes Theorem",
+          "Programmed Cell Death 1 Receptor",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Adult",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38969879/"
+      },
+      {
+        "pmid": "25398698",
+        "title": "Docetaxel, gemcitabine and bevacizumab as salvage chemotherapy for HER-2-negative metastatic breast cancer.",
+        "abstract": "To evaluate the activity and safety of the docetaxel, gemcitabine and bevacizumab combination, administered biweekly, in pretreated patients with HER-2-negative metastatic breast cancer (MBC).",
+        "journal": "Cancer chemotherapy and pharmacology",
+        "year": "2015",
+        "authors": [
+          "Kontopodis E",
+          "Kentepozidis N",
+          "Christophyllakis Ch",
+          "Boukovinas I",
+          "Kalykaki A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast",
+          "Breast Neoplasms",
+          "Cohort Studies",
+          "Deoxycytidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25398698/"
+      },
+      {
+        "pmid": "22257791",
+        "title": "Combining capecitabine and bevacizumab in metastatic breast cancer: a comprehensive review.",
+        "abstract": "Both capecitabine and bevacizumab are established agents in the treatment of metastatic breast cancer, but until recently clinical data supporting their use in combination were limited. We review available data on the capecitabine-bevacizumab combination in breast cancer, particularly results from the RIBBON-1 trial in the first-line setting, and we discuss these findings in light of previous studies. We also examine ongoing trials investigating capecitabine-bevacizumab combination therapy.",
+        "journal": "European journal of cancer (Oxford, England : 1990)",
+        "year": "2012",
+        "authors": [
+          "Miles David",
+          "Zielinski Christoph",
+          "Martin Miguel",
+          "Vrdoljak Eduard",
+          "Robert Nicholas"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Capecitabine",
+          "Carcinoma",
+          "Clinical Trials, Phase III as Topic",
+          "Deoxycytidine",
+          "Female",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22257791/"
+      },
+      {
+        "pmid": "17439759",
+        "title": "Novel approaches to advanced breast cancer: bevacizumab and lapatinib.",
+        "abstract": "New biological therapies continue to emerge in breast cancer. Recent advances with anti-angiogenesis therapies and anti-HER2 therapies highlight the next generation of treatments that will be entering clinical practice. Important questions regarding these targeted treatments remain, however. There are uncertainties as to how best to integrate new drugs into existing treatment algorithms, whether to use monotherapy or combination therapy with chemotherapy, and how to manage novel side effects seen with these agents. This review highlights recent advances with the anti-vascular endothelial growth factor antibody, bevacizumab, and the dual kinase inhibitor, lapatinib, in the treatment of metastatic breast cancer.",
+        "journal": "Journal of the National Comprehensive Cancer Network : JNCCN",
+        "year": "2007",
+        "authors": [
+          "Mayer Erica L",
+          "Lin Nancy U",
+          "Burstein Harold J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Lapatinib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17439759/"
+      },
+      {
+        "pmid": "16724868",
+        "title": "Spotlight on bevacizumab in advanced colorectal cancer, breast cancer, and non-small cell lung cancer.",
+        "abstract": "Bevacizumab (Avastin) is a humanized recombinant antibody that prevents vascular endothelial growth factor (VEGF) receptor binding, and inhibits angiogenesis and tumor growth. In patients receiving an irinotecan plus fluorouracil/leucovorin (IFL) regimen for first-line treatment of metastatic colorectal cancer, the addition of bevacizumab significantly increased overall survival by 4.7 months relative to IFL plus placebo. In the second-line treatment of advanced colorectal cancer, patients who received bevacizumab in combination with a fluorouracil/leucovorin plus oxaliplatin (FOLFOX4) regimen had an overall survival time that was 2 months longer than that in patients receiving FOLFOX4. Preliminary results indicated that bevacizumab significantly extended progression-free survival by 4.9 months in patients receiving paclitaxel for the first-line treatment of locally recurrent or metastatic breast cancer. The addition of bevacizumab to paclitaxel plus carboplatin in the first-line treat",
+        "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+        "year": "2006",
+        "authors": [
+          "Lyseng-Williamson Katherine A",
+          "Robinson Dean M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Clinical Trials as Topic",
+          "Colorectal Neoplasms",
+          "Humans",
+          "Lung Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16724868/"
+      },
+      {
+        "pmid": "36719904",
+        "title": "Cellular Uptake of Bevacizumab in Cervical and Breast Cancer Cells Revealed by Single-Molecule Spectroscopy.",
+        "abstract": "Bevacizumab is a biological drug that is now extensively studied in clinics against various types of cancer. Although bevacizumab's action is preferably extracellular, there are reports suggesting its internalization into cancer cells, consequently decreasing its therapeutic potential. Here we are solving this issue by applying fluorescence correlation spectroscopy in living cells. We tracked single molecules of fluorescent bevacizumab in MDA-MB-231 and HeLa cells and proved that mobility measurements bring significant added value to standard imaging techniques. We confirmed the presence of the drug in intracellular vesicles. Additionally, we explicitly excluded the presence of a free cytosolic fraction of bevacizumab in both studied cell types. Extracellular and intracellular concentrations of the drug were measured, giving a partition coefficient on the order of 10-5, comparable with the spontaneous uptake of biologically inert nanoparticles. Our work presents how techniques and mode",
+        "journal": "The journal of physical chemistry letters",
+        "year": "2023",
+        "authors": [
+          "Karpinska Aneta",
+          "Magiera Gaweł",
+          "Kwapiszewska Karina",
+          "Hołyst Robert"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Bevacizumab",
+          "Angiogenesis Inhibitors",
+          "HeLa Cells",
+          "Single Molecule Imaging",
+          "Breast Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36719904/"
+      },
+      {
+        "pmid": "22276820",
+        "title": "Neoadjuvant chemotherapy and bevacizumab for HER2-negative breast cancer.",
+        "abstract": "Bevacizumab, a monoclonal antibody against vascular endothelial growth factor A, has shown clinical efficacy in patients with human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer. We evaluated the efficacy, measured according to the rate of pathological complete response (absence of invasive and intraductal disease in the breast and the axillary lymph nodes), and the safety of adding bevacizumab to neoadjuvant chemotherapy in patients with early-stage breast cancer.",
+        "journal": "The New England journal of medicine",
+        "year": "2012",
+        "authors": [
+          "von Minckwitz Gunter",
+          "Eidtmann Holger",
+          "Rezai Mahdi",
+          "Fasching Peter A",
+          "Tesch Hans"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Cyclophosphamide",
+          "Disease Progression",
+          "Epirubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22276820/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:20:34.242028",
+  "success": true,
+  "error_message": null
+}

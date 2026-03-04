@@ -1,0 +1,191 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ezetimibe",
+    "disease": "sitosterolemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00705211",
+      "title": "Designated Drug Use Investigation (Long-Term Administration) of Zetia 10-mg Tablets - A 52-Week Long-Term Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 1794,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 52-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "A primary endpoint is the incidence of adverse events.",
+        "A primary endpoint is change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00705211"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01584206",
+      "title": "Assessment of Sterol Metabolism in Sitosterolemia: A Pilot Study of Patients Treated With Ezetimibe",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2016-12",
+      "country": "Canada",
+      "enrollment": 8,
+      "brief_summary": "Ezetimibe has become the treatment choice for patients with sitosterolemia. Ezetimibe is an inhibitor of cholesterol absorption from the gastrointestinal tract. The purpose of this study is to determine if ezetimibe improves whole body plant sterol and cholesterol homeostasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* confirmed diagnosis of homozygous sitosterolemia as established by genotyping and clinical parameters\n\nExclusion Criteria:\n\n* pregnant\n* intellectual disability\n* major infectious diseases\n* immunodeficiency\n* cancer\n* renal failure\n* diabetes",
+      "endpoints": [
+        "Plasma cholesterol level",
+        "Plasma sitosterol level"
+      ],
+      "sponsor": "University of Manitoba",
+      "url": "https://clinicaltrials.gov/study/NCT01584206"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00099996",
+      "title": "A Study to Assess Adding Ezetimibe 30 mg to Ongoing Treatment With Ezetimibe 10 mg in Patients With Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "This study will test the safety and effectiveness of 40 mg of ezetimibe (Zetia ) daily in lowering blood levels of cholesterol and of the plant sterols sitosterol and campesterol in patients with homozygous sitosterolemia, an inherited disorder of sterol metabolism. (Sterols are alcohol substances found in animal and plant fats.) In this disorder, an excess of many plant sterols is absorbed and not enough excreted. Patients can develop atherosclerosis and coronary heart disease as early as child",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nTo be enrolled into this study, patients must meet all of the following criteria:\n\n1. Patient is at least 18 years of age and no greater than 85 years of age as of Visit 1.\n2. Patient has a diagnosis of homozygous sitosterolemia, with a history of a plasma sitosterol concentrati",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00099996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092820",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of MK0653 When Added to Current Regimen in Patients With Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02-12",
+      "completion_date": "2004-11-30",
+      "country": "N/A",
+      "enrollment": 58,
+      "brief_summary": "This is an extension study for patients having unusually high absorption of non-cholesterol sterols, resulting in heart-related diseases. This study will evaluate the long term safety and the ability to lower cholesterol levels with an investigational drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with elevated sitosterol levels while taking current medication\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional crit",
+      "endpoints": [
+        "Plasma sitosterol levels after 52 weeks."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092820"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00045812",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Study to Evaluate SCH-58235 in Homozygous Sitosterolemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2004-04",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "This study will test the safety and effectiveness of SCH-58235 (Ezetimibe) in lowering sitosterol, plant sterol and cholesterol blood levels in patients with homozygous sitosterolemia when added to the patients' current treatment regimen. Homozygous sitosterolemia is an inherited disorder of sterol metabolism in which an excess of many plant sterols, including sitosterol, is absorbed and not enough excreted. (Sterols are substances used to form hormones, vitamins and membranes found in animal an",
+      "eligibility_criteria": "INCLUSION/EXCLUSION CRITERIA\n\nMale or female, age greater than or equal to 10 years are eligible.\n\nPatients must have a diagnosis of homozygous sitosterolemia with an elevated plasma sitosterol level (greater than 5 mg/dL at screening visit) on their current regimen.\n\nAll women of childbearing poten",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00045812"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00704444",
+      "title": "Designated Drug Use Investigation (12 Weeks) of Zetia 10mg Tablets - A 12-Week Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-09",
+      "country": "N/A",
+      "enrollment": 11332,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 12-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "Incidence of adverse events",
+        "Change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00704444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01948648",
+      "title": "Effects of Fish Oil, Colesevelam and Combination Therapy on Sterol Metabolism in Sitosterolemia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-06",
+      "completion_date": "2021-07-30",
+      "country": "Canada",
+      "enrollment": 13,
+      "brief_summary": "If treatment of colesevelam, fish oil in conjunction with ezetimibe, will lead to further reduction in plasma plant sterol levels in sitosterolemia patients. We hypothesize that treatments with fish oil, colesevelam and ezetimibe will maximize decrease in plasma concentrations of sitosterol and other plant sterols in sitosterolemia patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of homozygous sitosterolemia as established by genotyping and/or clinical parameters\n2. Receiving ezetimibe treatment\n3. Over 8 years of age (no maximum)\n4. Concomitant illnesses or conditions\n\nExclusion Criteria:\n\n1. Pregnancy\n2. Intellectual disability\n3",
+      "endpoints": [
+        "Plasma plant sterol level"
+      ],
+      "sponsor": "University of Manitoba",
+      "url": "https://clinicaltrials.gov/study/NCT01948648"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092898",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate Efficacy and Safety of Adding Ezetimibe 30 mg to An Ongoing Regimen of Ezetimibe 10 mg in Patients Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-10",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "This is a 6-month study with patients who have the rare disease, sitosterolemia which may result in heart-related diseases. These patients have unusually high absorption of non-cholesterol sterols, resulting in heart-related diseases. This study investigates whether absorption of these non-cholesterols can be reduced in these patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older, with a history of elevated sitosterol levels and have received treatment for at least 6 months prior to study entry.\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient or interfere with",
+      "endpoints": [
+        "Sitosterol concentrations after 26 weeks."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092833",
+      "title": "An Open-Label, Worldwide, Treatment Use Study to Provide Ezetimibe 10 Mg/Day to Patients With Homozygous Familial Hypercholesterolemia or Homozygous Sitosterolemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2002-07",
+      "completion_date": "2005-05",
+      "country": "N/A",
+      "enrollment": 49,
+      "brief_summary": "The purpose of this study is to provide an investigational drug to patients with a specific type of hypercholesterolemia (high cholesterol) or sitosterolemia (unusually high absorption of non-cholesterol sterols) in a treatment use setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Homozygous familial hypercholesterolemia or sitosterolemia\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional criteria as requir",
+      "endpoints": [
+        "Incidence of clinical and laboratory adverse experiences in in patients with homozygous FH or homozygous sitosterolemia taking ezetimibe 10 mg/day"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092833"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092807",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of MK0653 When Added to Current Regimen in Patients With Homozygous Sitosterolemia - 1 Year Open-Label Extension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02-12",
+      "completion_date": "2004-11-30",
+      "country": "N/A",
+      "enrollment": 37,
+      "brief_summary": "This is an extension study for patients having unusually high absorption of non-cholesterol sterols, resulting in heart-related diseases. This study will evaluate the long term safety and the ability to lower cholesterol levels with an investigational drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with elevated sitosterol levels while taking current medication\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional crit",
+      "endpoints": [
+        "To assess the percent change relative to baseline in plasma sitosterol concentration after long-term treatment with MK0653 10 mg/day."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092807"
+    }
+  ],
+  "timestamp": "2026-03-04T14:59:48.130182",
+  "success": true,
+  "error_message": null
+}

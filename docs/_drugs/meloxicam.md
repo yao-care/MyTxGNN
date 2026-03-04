@@ -6,7 +6,7 @@ drug_name: "Meloxicam"
 kg_predictions: 119
 dl_predictions: 52
 evidence_level: "L1"
-indication_count: 119
+indication_count: 5
 brands: []
 permalink: /drugs/meloxicam/
 ---

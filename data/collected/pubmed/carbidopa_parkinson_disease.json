@@ -1,0 +1,568 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbidopa",
+    "disease": "Parkinson disease",
+    "query_string": "Carbidopa AND Parkinson disease"
+  },
+  "data": {
+    "query": "Carbidopa AND Parkinson disease",
+    "results": [
+      {
+        "pmid": "32044947",
+        "title": "Diagnosis and Treatment of Parkinson Disease: A Review.",
+        "abstract": "Parkinson disease is the most common form of parkinsonism, a group of neurological disorders with Parkinson disease-like movement problems such as rigidity, slowness, and tremor. More than 6 million individuals worldwide have Parkinson disease.",
+        "journal": "JAMA",
+        "year": "2020",
+        "authors": [
+          "Armstrong Melissa J",
+          "Okun Michael S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Combined Modality Therapy",
+          "Deep Brain Stimulation",
+          "Diagnosis, Differential",
+          "Disease Progression",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Humans",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32044947/"
+      },
+      {
+        "pmid": "33252908",
+        "title": "Parkinson Disease.",
+        "abstract": "Parkinson disease is a progressive neurodegenerative disorder with significant morbidity and mortality. Most patients consult with their primary care physician about Parkinson disease symptoms before seeking care from a specialist. The diagnosis of Parkinson disease is clinical, and key disease features are bradykinesia, rigidity, and tremor. The main diagnostic signs of Parkinson disease are motor symptoms; however, Parkinson disease is also associated with nonmotor symptoms, including autonomic dysfunction, depression, and hallucinations, which can make the initial diagnosis of Parkinson disease difficult. Disease progression is variable and clinical signs cannot be used to predict progression accurately. Therapies, including levodopa, have not demonstrated the ability to slow disease progression. Motor symptoms are managed with carbidopa/levodopa, monoamine oxidase-B inhibitors, and nonergot dopamine agonists. Prolonged use and higher doses of levodopa result in dyskinesias and moto",
+        "journal": "American family physician",
+        "year": "2020",
+        "authors": [
+          "Halli-Tierney Anne D",
+          "Luker Jacquelynn",
+          "Carroll Dana G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Combined Modality Therapy",
+          "Deep Brain Stimulation",
+          "Disease Progression",
+          "Drug Combinations",
+          "Family Practice",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33252908/"
+      },
+      {
+        "pmid": "31356286",
+        "title": "Parkinson Disease.",
+        "abstract": "Parkinson disease is a common neurodegenerative disorder that affects millions of people worldwide. Important advances in the treatment, etiology, and the pathogenesis of Parkinson disease have been made in the past 50 years. This article provides a review of the current understanding of Parkinson disease, including the epidemiology, phenomenology, and treatment options of the disease.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2019",
+        "authors": [
+          "Zesiewicz Theresa A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Drug Combinations",
+          "Exercise",
+          "Female",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31356286/"
+      },
+      {
+        "pmid": "29517331",
+        "title": "Using tube feeding and levodopa-carbidopa intestinal gel application in advanced Parkinson's disease.",
+        "abstract": "The inability to achieve adequate nutrition and weight loss are serious problems for patients with advanced Parkinson's disease (PD). To ensure the optimal intake of nutrition and fluids and to administer levodopa-carbidopa intestinal gel (LCIG) (which patients need to increase or maintain their mobility as long as possible), different artificial feeding tubes can be used. Although percutaneous endoscopic gastrostomy (PEG) tubes are frequently used in medical practice, there is little research that addresses key questions, including if and when to administer artificial fluids, nutrition and/or LCIG via tubes. Weight gain through tube feeding is only possible for some patients; nurses should keep in mind that tube insertion and feeding may lead to frequent adverse events. Administering LCIG via tubes is usually advisable as it seems to enhance patients' mobility and therefore has positive outcomes in terms of the quality of life of patients and their families ( Lim et al, 2015 ). The au",
+        "journal": "British journal of nursing (Mark Allen Publishing)",
+        "year": "2018",
+        "authors": [
+          "Lex Katharina Maria",
+          "Kundt Firuzan Sari",
+          "Lorenzl Stefan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Drug Combinations",
+          "Enteral Nutrition",
+          "Female",
+          "Gels",
+          "Humans",
+          "Intestines",
+          "Levodopa",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29517331/"
+      },
+      {
+        "pmid": "39152018",
+        "title": "Continuous subcutaneous levodopa-carbidopa infusion for Parkinson's disease.",
+        "abstract": "",
+        "journal": "The Lancet. Neurology",
+        "year": "2024",
+        "authors": [
+          "Wang Shu",
+          "Jiang Yin",
+          "Yang Anchao",
+          "Meng Fangang",
+          "Zhang Jianguo"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Carbidopa",
+          "Antiparkinson Agents",
+          "Infusions, Subcutaneous",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39152018/"
+      },
+      {
+        "pmid": "39932029",
+        "title": "Cognitive Outcomes of Advanced Therapies in Parkinson's Disease: A Systematic Review of Apomorphine and Levodopa-Carbidopa Intestinal Gel Therapies.",
+        "abstract": "Parkinson's disease (PD) treatments, such as apomorphine (APO) and levodopa-carbidopa intestinal gel (LCIG), represent advanced therapeutic options for managing motor symptoms. However, clear selection criteria and well-defined cognitive outcomes are lacking. This systematic review specifically aimed to address these gaps by assessing the cognitive impact of APO and LCIG in PD patients.",
+        "journal": "European journal of neurology",
+        "year": "2025",
+        "authors": [
+          "Longo Chiara",
+          "Papagno Costanza"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carbidopa",
+          "Parkinson Disease",
+          "Levodopa",
+          "Drug Combinations",
+          "Apomorphine",
+          "Antiparkinson Agents",
+          "Gels",
+          "Cognition"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39932029/"
+      },
+      {
+        "pmid": "27044646",
+        "title": "Advances in levodopa therapy for Parkinson disease: Review of RYTARY (carbidopa and levodopa) clinical efficacy and safety.",
+        "abstract": "Parkinson disease (PD) is a slowly progressive, incurable, neurodegenerative disorder with progressive motor symptoms that can be managed with treatments. Levodopa is generally recognized as the most effective and widely used treatment for PD. It improves function and quality of life, morbidity, and mortality, and therefore reduces individual and societal costs. Levodopa has a relatively short half-life, however, and is quickly metabolized in the plasma, leading to fluctuations, including wearing-off of effect and inconsistent symptomatic relief as well as development of dyskinesias, with both wearing off and dyskinesias worsening with advancing disease. Immediate-release and controlled-release formulations have been used with success, but motor fluctuations remain a problem. RYTARY (levodopa and carbidopa, IPX066) is an oral extended-release therapy composed of carbidopa-levodopa microbeads designed to dissolve at various rates that allows for quick absorption and sustained levodopa r",
+        "journal": "Neurology",
+        "year": "2016",
+        "authors": [
+          "Dhall Rohit",
+          "Kreitzman David L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Animals",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Delayed-Action Preparations",
+          "Drug Administration Schedule",
+          "Drug Combinations",
+          "Dyskinesia, Drug-Induced",
+          "Humans",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27044646/"
+      },
+      {
+        "pmid": "32162166",
+        "title": "Levodopa/carbidopa/entacapone for the treatment of early Parkinson's disease: a meta-analysis.",
+        "abstract": "Treatment of Parkinson's disease with levodopa/carbidopa/entacapone (LCE) has been studied for a long time. However, the efficacy and safety of LCE in the treatment of early Parkinson's disease (PD) still need to be assessed. Our objective was to do a meta-analysis of relevant randomized controlled trials (RCTs) to evaluate the efficacy and safety of LCE for early PD. PubMed, Embase, the Cochrane Library, and the Web of Science were searched for RCTs with \"levodopa/carbidopa/entacapone\" and \"Parkinson's disease\" as keywords. The search period was from inception to October 2018. The quality of included studies was strictly evaluated. We evaluated the quality of included studies strictly and six studies met all inclusion criteria. The results showed that LCE could improve activities of daily living and motor function in PD patients. However, LCE therapy was associated with higher risks of total AEs and single AEs compared with traditional therapy.",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "year": "2020",
+        "authors": [
+          "Liao Xiaoli",
+          "Wu Nianyue",
+          "Liu Dongfeng",
+          "Shuai Bowei",
+          "Li Shilei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Catechols",
+          "Drug Combinations",
+          "Humans",
+          "Levodopa",
+          "Nitriles",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32162166/"
+      },
+      {
+        "pmid": "38780079",
+        "title": "Levodopa infusion therapies for Parkinson disease.",
+        "abstract": "to review recent progress in the development and use of continuous levodopa therapies in Parkinson disease (PD).",
+        "journal": "Current opinion in neurology",
+        "year": "2024",
+        "authors": [
+          "Dean Marissa N",
+          "Standaert David G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Drug Combinations",
+          "Infusions, Subcutaneous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38780079/"
+      },
+      {
+        "pmid": "25832138",
+        "title": "New and emerging treatments for Parkinson disease.",
+        "abstract": "",
+        "journal": "The Medical journal of Australia",
+        "year": "2015",
+        "authors": [
+          "Fung Victor S C"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Clinical Trials as Topic",
+          "Deep Brain Stimulation",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25832138/"
+      },
+      {
+        "pmid": "40108546",
+        "title": "The efficacy of levodopa/carbidopa/entacapone on cognitive function in moderate to advanced Parkinson's disease and its relationship with peripheral inflammatory cytokines.",
+        "abstract": "Entacapone has been widely used in the treatment of moderate to advanced Parkinson's disease (PD), and its efficacy for motor symptoms has been well-known from several clinical trials and long-term clinical use. The efficacy of Levodopa/Carbidopa/Entacapone (LCE) on neuropsychological functions in moderate to advanced PD has not been validated yet, and little is known about the effect of LCE on peripheral inflammatory cytokines.",
+        "journal": "BMC neurology",
+        "year": "2025",
+        "authors": [
+          "Xu Dongjuan",
+          "Fang Yuan",
+          "Hu Mengmeng",
+          "Shen Yilei",
+          "Li Hongfei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Catechols",
+          "Cognition",
+          "Cytokines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40108546/"
+      },
+      {
+        "pmid": "39152017",
+        "title": "Continuous subcutaneous levodopa-carbidopa infusion for Parkinson's disease.",
+        "abstract": "",
+        "journal": "The Lancet. Neurology",
+        "year": "2024",
+        "authors": [
+          "Moes Harmen R",
+          "Buskens Erik",
+          "van Laar Teus"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Carbidopa",
+          "Antiparkinson Agents",
+          "Infusions, Subcutaneous",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39152017/"
+      },
+      {
+        "pmid": "33867393",
+        "title": "Phytobezoar Associated with Levodopa-carbidopa Intestinal Gel Infusion in Patients with Parkinson's Disease: A Case Report and Literature Review.",
+        "abstract": "Continuous intrajejunal infusion of levodopa-carbidopa intestinal gel (LCIG) is an established device-aided therapy for advanced Parkinson's disease (PD). Phytobezoar associated with LCIG is a rare device-related complication and presents with exacerbations of gastrointestinal and PD symptoms. We herein report the case of a phytobezoar that was formed at a knot on the pigtail-shaped J-tube and developed only in association with postprandial abdominal pain, similar to a feeling of a tube being pulled in without an exacerbation of PD symptoms. Such abdominal pain may be a warning sign of phytobezoar in LCIG-treated patients. Despite device-related complications, high-pressure alarms are not always present, and PD symptoms are not always exacerbated.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2021",
+        "authors": [
+          "Ueno Tatsuya",
+          "Hanabata Norihiro",
+          "Katagai Atsuko",
+          "Okudera Rena",
+          "Arai Akira"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Bezoars",
+          "Carbidopa",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33867393/"
+      },
+      {
+        "pmid": "33647001",
+        "title": "Drugs for Parkinson's disease.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2021",
+        "authors": [],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Catechol O-Methyltransferase",
+          "Dopaminergic Neurons",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+      },
+      {
+        "pmid": "17078781",
+        "title": "Enteral levodopa/carbidopa gel infusion for the treatment of motor fluctuations and dyskinesias in advanced Parkinson's disease.",
+        "abstract": "Pharmacotherapy designed to alleviate the symptoms of Parkinson's disease is focused on the stimulation of striatal dopamine receptors. The ideal pharmacological treatment would involve continuous dopaminergic stimulation. Currently, the most effective pharmacotherapy available is levodopa delivered orally; however, its short plasma half-life in combination with erratic gastric emptying and intestinal absorption makes dopaminergic stimulation pulsatile. Motor fluctuations and dyskinesias develop with time as a consequence and can become disabling. A gel formulation of levodopa/carbidopa has been developed for enteral (duodenal or jejunal) infusion via a portable pump. The infusion provides smooth plasma levodopa levels, more continuous dopaminergic stimulation and effective treatment of motor complications.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2006",
+        "authors": [
+          "Nyholm Dag"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbidopa",
+          "Dyskinesias",
+          "Gels",
+          "Humans",
+          "Infusion Pumps",
+          "Infusions, Parenteral",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17078781/"
+      },
+      {
+        "pmid": "40221966",
+        "title": "Pregnancy and delivery in women with Parkinson's disease: A case series.",
+        "abstract": "BackgroundParkinson's disease (PD) is a progressive degenerative disease affecting people at any age; however, it is generally more prevalent in older age groups. Younger individuals, especially women, are facing significant challenges that pertain to pregnancy. Unfortunately, the available information is limited and supported mostly by anecdotical experience.ObjectiveTo gain insight into the interaction between early-onset PD and pregnancy.MethodsWe report on a case series of women, diagnosed with PD, that underwent pregnancy to explore the disease catachrestic, natural history, and different challenges associated with these unique group of people.ResultsWe identified a total of 9 participants who met our inclusion criteria, who had gone through a total of 12 pregnancies after onset of PD motor symptoms. In 10 out of 12 pregnancies, participants did not use any PD medication; throughout 1 pregnancy, a participant used pramipexole and throughout 1 pregnancy, a participant used levodopa",
+        "journal": "Journal of Parkinson's disease",
+        "year": "2025",
+        "authors": [
+          "Kapelle Willanka M",
+          "Oosterbaan Annelien M",
+          "Patane Gaia",
+          "Piat Capucine",
+          "Ghoniem Khaled E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Parkinson Disease",
+          "Pregnancy Complications",
+          "Adult",
+          "Levodopa",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Pregnancy Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40221966/"
+      },
+      {
+        "pmid": "24996235",
+        "title": "Parkinson disease treatment in hospitals and nursing facilities: avoiding pitfalls.",
+        "abstract": "The unique needs of patients with Parkinson disease challenge staff when such patients are admitted to hospitals or nursing facilities. Prolongation of the hospital stay, falls with injuries, fainting, or declining motor function may result from therapeutic misadventures or failure to anticipate common problems. Staff familiarity with Parkinson disease, and especially carbidopa-levodopa dosing and dynamics, may prevent such problems and streamline hospital and nursing home care.",
+        "journal": "Mayo Clinic proceedings",
+        "year": "2014",
+        "authors": [
+          "Ahlskog J Eric"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amantadine",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Catechols",
+          "Dopamine Agonists",
+          "Drug Administration Schedule",
+          "Drug Combinations",
+          "Hospitalization",
+          "Humans",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24996235/"
+      },
+      {
+        "pmid": "20414107",
+        "title": "Factors associated with motor fluctuations and dyskinesia in Parkinson Disease: potential role of a new melevodopa plus carbidopa formulation (Sirio).",
+        "abstract": "Parkinson disease is a progressive movement disorder caused by loss of dopaminergic neurons in the substantia nigra. Of unknown etiology, Parkinson disease is characterized by 4 cardinal symptoms: tremor at rest, bradykinesia, postural instability, and rigidity. The current criterion-standard drug used in the management of parkinsonian symptoms is levodopa (l-dopa). However, long-term l-dopa therapy is associated with the development of motor complications; approximately 50% to 80% of patients will develop motor complications within 5 to 10 years of l-dopa treatment initiation. Motor complications can be divided into motor fluctuations, caused largely through pulsatile dopamine stimulation and low l-dopa concentrations, and dyskinesia, associated more often with peak l-dopa concentrations. Ultimately, the main goal was to provide steady l-dopa concentrations, without peaks and troughs. Empirical investigations using parenteral infusions of l-dopa and highly soluble l-dopa prodrugs have",
+        "journal": "Clinical neuropharmacology",
+        "year": "2010",
+        "authors": [
+          "Stocchi Fabrizio",
+          "Marconi Stefano"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Biological Availability",
+          "Carbidopa",
+          "Delayed-Action Preparations",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Dyskinesia, Drug-Induced",
+          "Dyskinesias",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20414107/"
+      },
+      {
+        "pmid": "40203445",
+        "title": "Therapeutic effect of levodopa-carbidopa-entacapone combined with rTMS in Parkinson's disease.",
+        "abstract": "Parkinson's disease (PD) is a neurodegenerative disorder characterized by progressive tissue deterioration. This study evaluated the effects of levodopa-carbidopa-entacapone (LCE) combined with high-frequency repetitive transcranial magnetic stimulation (HF-rTMS) in elderly PD patients. Participants were divided into an observation group (HF-rTMS + LCE) and a control group (HF-rTMS alone). Motor and cognitive function, quality of life, and adverse effects were assessed before treatment and at 8 weeks, 16 weeks and 6 months post-treatment. Both groups showed no significant differences in baseline data. However, post-treatment, the observation group demonstrated superior clinical improvements. The Unified Parkinson's Disease Rating Scale-III (UPDRS-III) score significantly decreased from 43.40±3.94 to 34.73±5.05 at 6 months (P<0.01), while the Berg Balance Scale (BBS) score increased from 30.97±5.17 to 46.35±5.75 (P<0.01). The Timed Up and Go test (TUGT) time reduced from 13.12±2.23 seco",
+        "journal": "Pakistan journal of pharmaceutical sciences",
+        "year": "2025",
+        "authors": [
+          "Zhang Ke-Fei",
+          "Wang Bing",
+          "Yu Qing-Yun",
+          "Wei Guo-Bang",
+          "Cui Xiao-Rui"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carbidopa",
+          "Levodopa",
+          "Parkinson Disease",
+          "Male",
+          "Female",
+          "Aged",
+          "Drug Combinations",
+          "Catechols",
+          "Nitriles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40203445/"
+      },
+      {
+        "pmid": "1549202",
+        "title": "Long-acting carbidopa-levodopa in the management of moderate and advanced Parkinson's disease.",
+        "abstract": "Parkinson's disease patients treated chronically with levodopa often develop fluctuations in motor response. Motor fluctuations can be attributed in part to oscillating plasma levodopa concentrations. A controlled-release formulation containing 200 mg of levodopa and 50 mg of carbidopa provides superior plasma levodopa profiles compared with the standard preparation. A multicenter, double-blind trial involving 202 patients with fluctuating motor response found controlled-release carbidopa-levodopa to be safe and tolerable, with improved efficacy compared with the standard formulation. Long-term exposure to the controlled-release formulation, at least for a period of 3 years, does not appear to be associated with any increase in the incidence of adverse side effects.",
+        "journal": "Neurology",
+        "year": "1992",
+        "authors": [
+          "Hutton J T",
+          "Morris J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbidopa",
+          "Delayed-Action Preparations",
+          "Disability Evaluation",
+          "Drug Administration Schedule",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1549202/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:18:59.930495",
+  "success": true,
+  "error_message": null
+}

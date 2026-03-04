@@ -1,0 +1,122 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Desloratadine",
+    "disease": "allergic urticaria"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00521170",
+      "title": "Randomized, Monocenter, Double Blind, Placebo-controlled, Single Oral Dose, Three-way Cross Over Study, to Compare Levocetirizine and Desloratadine on Allergen-induced Wheal and Flare Reaction During 24 Hours in 18 Adult Allergic Volunteers.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2005-01",
+      "country": "France",
+      "enrollment": "N/A",
+      "brief_summary": "Compare the activity of 5 mg levocetirizine and 5 mg desloratadine on allergen-induced wheal and flare reaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female allergic volunteers: Diagnosed allergy based on medical history and on positivity to skin tests to at least one of the standardized allergen including grass pollens, tree pollens, house dust mites, cat and dog dander and with a positive RAST for the specific se",
+      "endpoints": [
+        "Compare the activity of levocetirizine and desloratadine on allergen-induced wheal and flare reaction. Response to allergen administered by skin prick test (SPT) measured by the wheal and flare surface areas"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00521170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00724698",
+      "title": "Post-marketing Surveillance of the Safety, Tolerability and Efficacy of Desloratadine Tablet Among Filipino Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2007-12",
+      "country": "N/A",
+      "enrollment": 3011,
+      "brief_summary": "Eligible patients will be prescribed Desloratadine 1 tablet of 5 mg once daily. Patients will be asked to follow-up for a final visit after 14 days (Day 15) where the safety, tolerability and clinical efficacy will be measured.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient men or women, age 12 years and above.\n* Diagnosis of Allergic Rhinitis or Chronic Idiopathic Urticaria\n\nExclusion Criteria:\n\n* Known hypersensitivity to Desloratadine.\n* Pregnancy or lactation",
+      "endpoints": [
+        "Adverse Events"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00724698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06806826",
+      "title": "Evaluatıon of the Effectıveness of Omalızumab Treatment In Patıents Wıth Allergıc Rhınıtıs",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-01",
+      "completion_date": "2020-03-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 50,
+      "brief_summary": "We aimed to evaluate the usability and efficacy of omalizumab in allergic rhinitis and its potential as an alternative treatment option.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Those who gave informed consent and wanted to participate in the study and did not have any additional systemic or nasal diseases were included.\n\nExclusion Criteria:\n\n* under 18 years old,\n* over 65 years old,\n* with systemic comorbidities (diabetes mellitus, hypertension, chr",
+      "endpoints": [
+        "omalizumab treatment process"
+      ],
+      "sponsor": "Yuzuncu Yil University",
+      "url": "https://clinicaltrials.gov/study/NCT06806826"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00761527",
+      "title": "Post-marketing Surveillance of the Safety, Tolerability and Efficacy of Desloratadine Syrup Among Filipino Pediatric Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2010-05",
+      "country": "N/A",
+      "enrollment": 2980,
+      "brief_summary": "The purpose of this study is to observe the side effects of desloratadine syrup and how effective it is in relieving symptoms of allergic rhinitis or hives in Filipino children. The participants will take desloratadine syrup for 14 days. At the end of treatment, side effects will be recorded, as well as how the participants tolerate the medication. Effectiveness will also be rated at the end of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient pediatric participants, male or female, aged 6 months to 11 years\n* Diagnosis of allergic rhinitis or chronic idiopathic urticaria\n\nExclusion Criteria:\n\n* Known hypersensitivity to desloratadine",
+      "endpoints": [
+        "Number of Adverse Events Reported By Category After 14 Days of Treatment",
+        "Safety of Desloratadine Syrup Reported by Number of Participants Experiencing Adverse Events After 14 Days of Treatment",
+        "Participant Global Tolerability Assessment"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00761527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00757562",
+      "title": "Multiple-Dose Safety and Tolerance Study of Desloratadine in Atopic Pediatric Subjects and Pediatric Subjects With Chronic Idiopathic Urticaria, Ages >=2 to <12 Years, Who Are Poor Metabolizers of Desloratadine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-11-01",
+      "completion_date": "2003-10-01",
+      "country": "N/A",
+      "enrollment": 97,
+      "brief_summary": "This study was conducted to evaluate the safety and tolerance of desloratadine after 5 weeks of repetitive dosing in children ages 2 to 12 years old with allergic hypersensitivity or chronic hives. All of the subjects enrolled in this trial were previously identified in an earlier trial to be poor metabolizers of desloratadine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must:\n\n* have been previously identified through the previous study P03031 to be atopic or with chronic idiopathic urticaria and be a poor metabolizer of desloratadine.\n* have clinical laboratory tests within normal limits.\n* be in good health, free of any clinically si",
+      "endpoints": [
+        "Safety and Tolerance"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00757562"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00723736",
+      "title": "Non-Interventional Study of the Safe Use of Aerius in Pediatric Patients With Allergic Rhinitis or Chronic Idiopathic Urticaria.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2008-06",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "The objective of this non-interventional study is to evaluate the safety of Aerius syrup in pediatric patients aged 1-5 years old with allergic rhinitis or chronic idiopathic uticaria. The patients will receive 2.5 ml (1.25 mg) once daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with allergic rhinitis or chronic idiopathic urticaria\n* Aged 1-5 years old\n* Caregiver's consent to participate\n\nExclusion Criteria:\n\n* Healthy individuals\n* Younger or older than the 1-5 year old age range",
+      "endpoints": [
+        "Proportion of Patients With Adverse Events"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00723736"
+    }
+  ],
+  "timestamp": "2026-03-04T15:03:25.882453",
+  "success": true,
+  "error_message": null
+}

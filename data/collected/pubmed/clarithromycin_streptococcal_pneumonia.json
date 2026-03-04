@@ -1,0 +1,590 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "streptococcal pneumonia",
+    "query_string": "Clarithromycin AND streptococcal pneumonia"
+  },
+  "data": {
+    "query": "Clarithromycin AND streptococcal pneumonia",
+    "results": [
+      {
+        "pmid": "29932038",
+        "title": "Community-Acquired Pneumonia in Children.",
+        "abstract": "Community-acquired pneumonia is an important cause of morbidity in developed countries and an important cause of morbidity and mortality in developing countries. Prompt diagnosis and appropriate treatment are very important.",
+        "journal": "Recent patents on inflammation & allergy drug discovery",
+        "year": "2018",
+        "authors": [
+          "Leung Alexander K C",
+          "Wong Alex H C",
+          "Hon Kam L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Community-Acquired Infections",
+          "Diagnosis, Differential",
+          "Humans",
+          "Patents as Topic",
+          "Pneumococcal Infections",
+          "Pneumonia",
+          "Respiratory Syncytial Virus Infections",
+          "Respiratory Syncytial Viruses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29932038/"
+      },
+      {
+        "pmid": "10193688",
+        "title": "Moxifloxacin.",
+        "abstract": "Moxilloxacin is a new fluoroquinolone antibacterial agent with a broad spectrum of activity, encompassing gram-negative and gram-positive bacteria. It has improved activity against gram-positive species (including staphylococci, streptococci, enterococci) and anaerobes compared with ciprofloxacin. This is offset by slightly lower activity against pseudomonal species and Enterobacteriaceae. In common with other fluoroquinolones, moxifloxacin attains good penetration into respiratory tissues and fluids and its bioavailability is substantially reduced by coadministration with an antacid or iron preparation. However, moxifloxacin does not interact with theophylline or warfarin. In clinical trials in patients with community-acquired pneumococcal pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or acute sinusitis, moxifloxacin 400 mg once daily achieved bacteriological and/or clinical success rates of approximately 90% or higher. Moxifloxacin was as effective as amoxicillin ",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Balfour J A",
+          "Wiseman L R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Area Under Curve",
+          "Aza Compounds",
+          "Bacterial Infections",
+          "Ciprofloxacin",
+          "Drug Interactions",
+          "Fluoroquinolones",
+          "Half-Life",
+          "Humans",
+          "Metabolic Clearance Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10193688/"
+      },
+      {
+        "pmid": "9655546",
+        "title": "Clarithromycin and azithromycin.",
+        "abstract": "",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1998",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Clarithromycin",
+          "Humans",
+          "Otitis Media",
+          "Pneumonia, Bacterial",
+          "Soft Tissue Infections",
+          "Streptococcal Infections",
+          "Streptococcus pyogenes",
+          "Whooping Cough"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9655546/"
+      },
+      {
+        "pmid": "16024590",
+        "title": "Efficacy of pulsatile amoxicillin and clarithromycin dosing alone and in combination in a murine pneumococcal pneumonia model.",
+        "abstract": "Amoxicillin and clarithromycin have been proven to be effective in the treatment of community-acquired pneumonia. This study investigated the in vivo bactericidal efficacy of a novel, pulsatile dosing strategy for amoxicillin and clarithromycin, when used as monotherapy and combination therapy.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2005",
+        "authors": [
+          "Sun Heather K",
+          "Lee Su Young",
+          "Banevicius Mary Anne",
+          "Du Xiaoli",
+          "Maglio Dana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Amoxicillin",
+          "Animals",
+          "Bacterial Proteins",
+          "Clarithromycin",
+          "Disease Models, Animal",
+          "Dose-Response Relationship, Drug",
+          "Drug Combinations",
+          "Drug Resistance, Multiple, Bacterial",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16024590/"
+      },
+      {
+        "pmid": "29621339",
+        "title": "Clarithromycin expands CD11b+Gr-1+ cells via the STAT3/Bv8 axis to ameliorate lethal endotoxic shock and post-influenza bacterial pneumonia.",
+        "abstract": "Macrolides are used to treat various inflammatory diseases owing to their immunomodulatory properties; however, little is known about their precise mechanism of action. In this study, we investigated the functional significance of the expansion of myeloid-derived suppressor cell (MDSC)-like CD11b+Gr-1+ cells in response to the macrolide antibiotic clarithromycin (CAM) in mouse models of shock and post-influenza pneumococcal pneumonia as well as in humans. Intraperitoneal administration of CAM markedly expanded splenic and lung CD11b+Gr-1+ cell populations in naïve mice. Notably, CAM pretreatment enhanced survival in a mouse model of lipopolysaccharide (LPS)-induced shock. In addition, adoptive transfer of CAM-treated CD11b+Gr-1+ cells protected mice against LPS-induced lethality via increased IL-10 expression. CAM also improved survival in post-influenza, CAM-resistant pneumococcal pneumonia, with improved lung pathology as well as decreased interferon (IFN)-γ and increased IL-10 level",
+        "journal": "PLoS pathogens",
+        "year": "2018",
+        "authors": [
+          "Namkoong Ho",
+          "Ishii Makoto",
+          "Fujii Hideki",
+          "Yagi Kazuma",
+          "Asami Takahiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "CD11b Antigen",
+          "Cell Differentiation",
+          "Cell Proliferation",
+          "Clarithromycin",
+          "Gastrointestinal Hormones",
+          "Lipopolysaccharides",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29621339/"
+      },
+      {
+        "pmid": "19046911",
+        "title": "Pharmacodynamic target attainment potential of azithromycin, clarithromycin, and telithromycin in serum and epithelial lining fluid of community-acquired pneumonia patients with penicillin-susceptible, intermediate, and resistant Streptococcus pneumoniae.",
+        "abstract": "To compare the probability of target attainment (PTA) for macrolides and ketolides against penicillin-susceptible, intermediate, and resistant Streptococcus pneumoniae in both serum and epithelial lining fluid (ELF) of patients with community-acquired pneumonia (CAP).",
+        "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "year": "2009",
+        "authors": [
+          "Noreddin Ayman M",
+          "El-Khatib Walid F",
+          "Aolie Jason",
+          "Salem Ahmed H",
+          "Zhanel George G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Area Under Curve",
+          "Azithromycin",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Ketolides",
+          "Microbial Sensitivity Tests",
+          "Monte Carlo Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19046911/"
+      },
+      {
+        "pmid": "1387132",
+        "title": "Individual efficacy of clarithromycin (A-56268) and its major human metabolite 14-hydroxy clarithromycin (A-62671) in experimental pneumococcal pneumonia in the mouse.",
+        "abstract": "In man, clarithromycin (A-56268) is metabolized to a 14-hydroxy derivative (14-OH clarithromycin, A-62671); this metabolite is absent in mice. An experimental mouse model was used to compare the efficacy of clarithromycin versus 14-OH clarithromycin in pneumococcal pneumonia by treatment with either the parent drug or its 14-OH metabolite alone. Four groups of 15 mice were infected intra-tracheally with a virulent strain of Streptococcus pneumoniae serotype 3 (approximately 10(5) cfu/mouse). Treatment was begun 18 h post infection, with clarithromycin or erythromycin 50 mg/kg subcutaneously (sc) bd, 14-OH clarithromycin 25 mg/kg sc bd or antibiotic free saline sc bd for 24 or 48 h. Survival rates ten days after one day of treatment with clarithromycin, 14-OH clarithromycin, erythromycin, or saline were 53%, 60%, 27% and 0% respectively. After two days treatment the rates were 100%, 100%, 53% (P less than 0.01) and 0% respectively. Thirty-six h after two doses, 14-OH clarithromycin demo",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1992",
+        "authors": [
+          "Bédos J P",
+          "Azoulay-Dupuis E",
+          "Vallée E",
+          "Veber B",
+          "Pocidalo J J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Clarithromycin",
+          "Erythromycin",
+          "Female",
+          "Lung",
+          "Mice",
+          "Microbial Sensitivity Tests",
+          "Pneumonia, Pneumococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1387132/"
+      },
+      {
+        "pmid": "17939262",
+        "title": "An open-label, randomized comparison of levofloxacin and amoxicillin/clavulanate plus clarithromycin for the treatment of hospitalized patients with community-acquired pneumonia.",
+        "abstract": "Anti-pneumococcal fluoroquinolone has been used to treat community-acquired pneumonia (CAP) frequently because of its broad antimicrobial spectrum.",
+        "journal": "Chang Gung medical journal",
+        "year": "2007",
+        "authors": [
+          "Lin Ting-Yu",
+          "Lin Shu-Min",
+          "Chen Hao-Cheng",
+          "Wang Chih-Jan",
+          "Wang Yu-Min"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Female",
+          "Hospitalization",
+          "Humans",
+          "Levofloxacin",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17939262/"
+      },
+      {
+        "pmid": "9109154",
+        "title": "History of macrolide use in pediatrics.",
+        "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Drug Interactions",
+          "Erythromycin",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+      },
+      {
+        "pmid": "8407696",
+        "title": "Aetiology and treatment of community-acquired pneumonia in adults: an historical perspective.",
+        "abstract": "Community-acquired pneumonia is common. Most disease is mild but mortality among hospitalized patients is 5-20%. The most common aetiological pathogens are Streptococcus pneumoniae, Haemophilus influenzae, and the 'atypical' organisms, Mycoplasma pneumoniae, Legionella pneumophila and Chlamydia pneumoniae. Less common pathogens account for 10-30% of cases and the aetiology cannot be determined in one-third to one-half of cases. Classification by aetiology and initiation of specific antimicrobial therapy are difficult and treatment is often initiated empirically. Ampicillin (or amoxycillin) or erythromycin are inexpensive and effective for most patients, but their use in combination, the addition of a beta-lactamase inhibitor (e.g. amoxycillin/clavulanate) or the substitution of an expanded spectrum cephalosporin (e.g. cefuroxime) should be considered for patients with more serious illnesses or pathogens likely to be drug-resistant. Fluoroquinolones such as ciprofloxacin or ofloxacin wo",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1993",
+        "authors": [
+          "Fass R J"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Infective Agents",
+          "Bronchopneumonia",
+          "Community-Acquired Infections",
+          "Drug Resistance, Microbial",
+          "History, 20th Century",
+          "Humans",
+          "Oropharynx",
+          "Pneumonia",
+          "Pneumonia, Pneumococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8407696/"
+      },
+      {
+        "pmid": "29096010",
+        "title": "Macrolides in Children With Community-Acquired Pneumonia: Panacea or Placebo?",
+        "abstract": "Pneumonia, most often caused by a respiratory virus, is common in childhood. Mycoplasma pneumoniae also is detected frequently, particularly in older children in the era of pneumococcal conjugate vaccination. Despite recommendations for β-lactam antibiotics, macrolide antibiotics, including erythromycin, clarithromycin, and azithromycin, are prescribed frequently to children with acute lower respiratory infection. However, the significance of detecting \"atypical\" pathogens, including M pneumoniae, in children remains contentious. Considering the potential for antibacterial and anti-inflammatory activities of macrolides, our understanding of the role of these drugs in acute and chronic infections and in inflammatory conditions is changing. Some observational data have revealed improved outcomes in adults and children with pneumonia who are prescribed macrolides, although its widespread use has led to increases in macrolide resistance in Streptococcus pneumoniae and M pneumoniae. Clinica",
+        "journal": "Journal of the Pediatric Infectious Diseases Society",
+        "year": "2018",
+        "authors": [
+          "Blyth Christopher C",
+          "Gerber Jeffrey S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Community-Acquired Infections",
+          "Humans",
+          "Macrolides",
+          "Pneumonia, Bacterial",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29096010/"
+      },
+      {
+        "pmid": "15269191",
+        "title": "Clinical and bacteriological efficacy and safety of 5 and 7 day regimens of telithromycin once daily compared with a 10 day regimen of clarithromycin twice daily in patients with mild to moderate community-acquired pneumonia.",
+        "abstract": "This study was conducted to investigate the potential equivalence in clinical efficacy and assess safety of a 5 or 7 day regimen of oral telithromycin (800 mg once daily) and a 10 day regimen of oral clarithromycin (500 mg twice daily) in treating community-acquired pneumonia (CAP). Bacteriological efficacy was also compared.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2004",
+        "authors": [
+          "Tellier Guy",
+          "Niederman Michael S",
+          "Nusrat Roomi",
+          "Patel Manish",
+          "Lavin Bruce"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Double-Blind Method",
+          "Drug Resistance, Bacterial",
+          "Electrocardiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15269191/"
+      },
+      {
+        "pmid": "28951197",
+        "title": "Clinical presentation of Legionella pneumonia: Evaluation of clinical scoring systems and therapeutic efficacy.",
+        "abstract": "To evaluate scoring systems to predict Legionella pneumonia and therapeutic efficacy against Legionella pneumonia, the Japanese Society of Chemotherapy Legionella committee has collected data on cases of Legionella pneumonia from throughout Japan. We analyzed 176 patients with Legionella pneumonia and compared them with 217 patients with Streptococcus pneumoniae pneumonia and 202 patients with Mycoplasma pneumoniae pneumonia. We evaluated four scoring systems, the Winthrop-University Hospital score, Community-Based Pneumonia Incidence Study Group score, and Japan Respiratory Society score, but they demonstrated limited sensitivity and specificity for predicting Legionella pneumonia. Using six clinical and laboratory parameters (high fever, high C-reactive protein, high lactate dehydrogenase, thrombocytopenia, hyponatremia, and unproductive cough) reported by Fiumefreddo and colleagues, only 6% had Legionnella pneumonia when less than 2 parameters were present. The efficacy rates of ant",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2017",
+        "authors": [
+          "Miyashita Naoyuki",
+          "Higa Futoshi",
+          "Aoki Yosuke",
+          "Kikuchi Toshiaki",
+          "Seki Masafumi"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Female",
+          "Humans",
+          "Japan",
+          "Legionella"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28951197/"
+      },
+      {
+        "pmid": "34670879",
+        "title": "Pneumococcal Pneumonia Co-infection with Mycobacterium avium and Nocardia cyriacigeorgica in an Immunocompetent Patient.",
+        "abstract": "A 61-year-old woman was transferred with a complaint of a fever and productive cough. She had tested positive for Mycobacterium avium and Nocardia cyriacigeorgica at least twice, and Streptococcus pneumonia (PISP) was isolated (3+) from her purulent sputum. As radiological findings, a lower lung field-dominant infiltration shadow and nodular shadow with cavity were recognized in the bilateral lung fields. We diagnosed her with pneumococcal pneumonia co-infection with M. avium and N. cyriacigeorgica. She was treated with MEPM for pneumococcal pneumonia, a standard regimen containing clarithromycin for pulmonary M. avium complex (MAC) disease, and sulfamethoxazole/trimethoprim for pulmonary nocardiosis. She improved with appropriate treatment.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2022",
+        "authors": [
+          "Kobashi Yoshihiro",
+          "Yoshioka Daisuke",
+          "Kato Shigeki",
+          "Oga Toru"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Coinfection",
+          "Female",
+          "Humans",
+          "Lung Diseases",
+          "Middle Aged",
+          "Mycobacterium avium",
+          "Mycobacterium avium-intracellulare Infection",
+          "Nocardia",
+          "Nocardia Infections",
+          "Pneumonia, Pneumococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34670879/"
+      },
+      {
+        "pmid": "9711451",
+        "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+        "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Langtry H D",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Drug Tolerance",
+          "Humans",
+          "Infant",
+          "Otitis Media",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+      },
+      {
+        "pmid": "10688386",
+        "title": "Comparison of bacteriologic eradication of Streptococcus pneumoniae by clarithromycin and reports of increased antimicrobial resistance.",
+        "abstract": "To determine whether reported increases in Streptococcus pneumoniae resistance, as determined by in vitro antimicrobial susceptibility testing, correlate with the clinical efficacy of clarithromycin in treating patients with acute exacerbations of chronic bronchitis (AECB) or community-acquired pneumonia (CAP).",
+        "journal": "Clinical therapeutics",
+        "year": "2000",
+        "authors": [
+          "Gotfried M H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Pneumococcal Infections",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10688386/"
+      },
+      {
+        "pmid": "25300166",
+        "title": "Antibiotics for community-acquired pneumonia in adult outpatients.",
+        "abstract": "Lower respiratory tract infection (LRTI) is the third leading cause of death worldwide and the first leading cause of death in low-income countries. Community-acquired pneumonia (CAP) is a common condition that causes a significant disease burden for the community, particularly in children younger than five years, the elderly and immunocompromised people. Antibiotics are the standard treatment for CAP. However, increasing antibiotic use is associated with the development of bacterial resistance and side effects for the patient. Several studies have been published regarding optimal antibiotic treatment for CAP but many of these data address treatments in hospitalised patients. This is an update of our 2009 Cochrane Review and addresses antibiotic therapies for CAP in outpatient settings.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2014",
+        "authors": [
+          "Pakhale Smita",
+          "Mulpuru Sunita",
+          "Verheij Theo J M",
+          "Kochen Michael M",
+          "Rohde Gernot G U"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Humans",
+          "Outpatients",
+          "Pneumonia",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25300166/"
+      },
+      {
+        "pmid": "9074839",
+        "title": "Choosing the right macrolide antibiotic. A guide to selection.",
+        "abstract": "Macrolide antibiotics have proven to be valuable alternatives to penicillins and cephalosporins for the treatment of a number of infections. Currently, a number of macrolides are available. When choosing a particular macrolide, the types of organisms causing the infection, the tolerability of the drug, convenience of dosing and possible drug interactions all must be taken into account. Erythromycin, azithromycin and clarithromycin are equally effective against most gram-positive organisms. However, clarithromycin and azithromycin have much better activity against Haemophilus influenza and Moraxella catarrhalis. Thus, these 2 drugs are better choices for the treatment of community-acquired pneumonia. However, the low serum concentrations of azithromycin may be a problem in patients with bacteraemia associated with with community-acquired pneumonia. Clarithromycin appears to be effective for the treatment and prophylaxis of Mycobacterium avium complex (MAC) in patients with AIDS, while a",
+        "journal": "Drugs",
+        "year": "1997",
+        "authors": [
+          "Charles L",
+          "Segreti J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Bacterial Agents",
+          "Bronchitis",
+          "Humans",
+          "Macrolides",
+          "Otitis Media",
+          "Pharyngitis",
+          "Sinusitis",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9074839/"
+      },
+      {
+        "pmid": "16376537",
+        "title": "Clinical and bacteriologic efficacy of telithromycin in patients with bacteremic community-acquired pneumonia.",
+        "abstract": "This retrospective analysis was performed to determine the clinical and bacteriologic efficacy of the ketolide antibacterial telithromycin in patients with community-acquired pneumonia (CAP) with pneumococcal bacteremia. Patients 13 years old with radiologically confirmed CAP and a positive blood culture for Streptococcus pneumoniae at screening were analyzed from eight multicenter Phase III/IV clinical trials. In four open-label, non-comparative studies, patients received telithromycin 800 mg once daily for 7-10 days. In four randomized, controlled, double-blind, comparative studies, patients received telithromycin 800 mg once daily for 5-10 days or a comparator antimicrobial (amoxicillin 1000 mg three times daily, clarithromycin 500 mg twice daily, or trovafloxacin 200 mg once daily) for 7-10 days. In total, 118 patients (telithromycin, 94/1061 [8.9%]; comparator, 24/244 [9.8%]) had documented pneumococcal bacteremia. Those who were treated with telithromycin achieved a clinical cure",
+        "journal": "Respiratory medicine",
+        "year": "2006",
+        "authors": [
+          "Carbon C",
+          "van Rensburg D",
+          "Hagberg L",
+          "Fogarty C",
+          "Tellier G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Clinical Trials, Phase IV as Topic",
+          "Community-Acquired Infections",
+          "Female",
+          "Humans",
+          "Ketolides",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16376537/"
+      },
+      {
+        "pmid": "36531812",
+        "title": "Serotype distribution and antibiotic resistance of Streptococcus pneumoniae isolates collected from unvaccinated children with pneumonia at a province in central Vietnam.",
+        "abstract": "Identification of pnemococcal serotypes and antimicrobial resistance provides helpful information for the use of suitable vaccines and antibiotics; however, very limited data is available on these issues in Vietnam. The present study aimed to find the serotype distribution and drug resistance patterns of Streptococcus pneumoniae isolated from unvaccinated children less than 5 years of age with pneumonia at a province in centre Vietnam.",
+        "journal": "Iranian journal of microbiology",
+        "year": "2022",
+        "authors": [
+          "Son Bui Anh",
+          "Hai Tang Xuan",
+          "Van Cuong Tran",
+          "Chinh Duong Dinh",
+          "Le Thi-Hong-Hanh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36531812/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:55:15.558136",
+  "success": true,
+  "error_message": null
+}

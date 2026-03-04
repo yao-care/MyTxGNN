@@ -1,0 +1,630 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "familial prostate carcinoma",
+    "query_string": "Docetaxel AND familial prostate carcinoma"
+  },
+  "data": {
+    "query": "Docetaxel AND familial prostate carcinoma",
+    "results": [
+      {
+        "pmid": "23832735",
+        "title": "Taxane- and epothilone-based chemotherapy: from molecule cargo cytoskeletal logistics to management of castration-resistant prostate carcinoma.",
+        "abstract": "Challenges in the discovery of more potent agents to treat the castration-resistant prostate carcinoma (CRPC) reflect the frustrating condition due to development of its drug-resistance in addition to hormone-refractoriness. Although among the different CRPC therapy modalities, the chemotherapy regimens might seem conceptually outclassed as exhibiting a scant tumor cell-selectivity if compared with new molecular mechanism-based agents (so-called \"smart drugs\"), nevertheless, combo-therapies which combine the chemotherapeutic highly killing potential with specific mechanism-targeting products, seem to be effective antitumor measures. Thus, both microtubule (taxanes, epothilones, noscapine, Vinca-derivatives) and actin filament (pertenotoxins, cytochalasin D)-targeting agents may supply valuable outcomes in CRPC, either alone or in combination with \"smart drugs\" such as tyrosine- or multi-kinase receptor blockers, mTOR (mammalian target of rapamicin) inhibitors, monoclonal antibodies aga",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2013",
+        "authors": [
+          "Alberti C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma",
+          "Castration",
+          "Cytoskeleton",
+          "Epothilones",
+          "Humans",
+          "Male",
+          "Prostatic Neoplasms",
+          "Taxoids",
+          "Tubulin Modulators"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23832735/"
+      },
+      {
+        "pmid": "28235398",
+        "title": "Testis specific Y-like 5: gene expression, methylation and implications for drug sensitivity in prostate carcinoma.",
+        "abstract": "TSPYL5, a putative tumor suppressor gene, belongs to the nucleosome assembly protein family. The chromosomal location of the TSPYL5 gene is 8Q22.1, and its exact role in prostate cancer etiology remains unclear. Further TSPYL5 gene and protein expression in prostate carcinoma cells and diseased tissues including its susceptibility for epigenetic silencing is unknown. Also, not known is the variation in TSPYL5 protein expression with regards to progression of prostatic carcinoma and its possible role in drug sensitivity.",
+        "journal": "BMC cancer",
+        "year": "2017",
+        "authors": [
+          "Kumar Senthil R",
+          "Bryan Jeffrey N",
+          "Esebua Magda",
+          "Amos-Landgraf James",
+          "May Tanner J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Cell Line, Tumor",
+          "Cyclin-Dependent Kinase Inhibitor p21",
+          "DNA (Cytosine-5-)-Methyltransferase 1",
+          "DNA Methylation",
+          "Decitabine",
+          "Epigenesis, Genetic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28235398/"
+      },
+      {
+        "pmid": "15332713",
+        "title": "Effects of paclitaxel and docetaxel on EGFR-expressing human carcinoma cells under normoxic versus hypoxic conditions in vitro.",
+        "abstract": "Human malignant tumors, such as non-small lung, breast, ovarian, head and neck, prostate, stomach and colorectal cancers express a number of growth factor receptors (e.g. EGFR or EGFR family members) that are regulated by tumor hypoxia and contribute to tumor growth and failure of cytotoxic therapy. Paclitaxel and docetaxel are indispensable substances in the treatment of these tumors. Despite the active clinical use of taxanes, little is known about their cytotoxic activity under hypoxia. The aim of the present work was to compare the cytotoxic effect of taxanes, paclitaxel and docetaxel on the EGFR-expressing carcinoma cell lines A431, MDA-MB-231 and NCI-H358 under normoxic and hypoxic conditions. The two taxanes caused different cell cycle distribution and varying aneuploid cell formation under hypoxia. EGFR-overexpressing carcinoma cells showed hypoxia to severely affect the cytotoxicity of paclitaxel, whereas docetaxel preserved its tumor cell-killing activity even at lowest conce",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "2004",
+        "authors": [
+          "Skvortsova I",
+          "Skvortsov S",
+          "Haidenberger A",
+          "Devries A",
+          "Nevinny-Stickel M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Apoptosis",
+          "Cell Cycle",
+          "Cell Survival",
+          "Docetaxel",
+          "Drug Resistance, Neoplasm",
+          "ErbB Receptors",
+          "Female",
+          "Humans",
+          "Hypoxia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15332713/"
+      },
+      {
+        "pmid": "29587605",
+        "title": "Chondritis of the ear after docetaxel-carboplatin chemotherapy.",
+        "abstract": "Docetaxel, derived from the yew tree, belongs to the taxane family of medications. It works by disrupting the normal function of microtubules, thereby stopping cell division. Docetaxel is used in the treatment of ovarian, breast, esophageal, gastric, prostate, lung, and head and neck cancers. Common side effects include hair loss, low blood cell counts, peripheral neuropathy, vomiting, and muscle pain. Auricular chondritis with ear deformity has not been reported previously as a side effect of docetaxel. In this paper, we present the case of a 64-year-old male patient with chondritis accompanied by ear deformity that developed due to docetaxel-carboplatin chemotherapy for non-small cell lung cancer.",
+        "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+        "year": "2019",
+        "authors": [
+          "Kong Tae Hoon",
+          "Han Sung Min",
+          "Seo Young Joon"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinoma, Non-Small-Cell Lung",
+          "Docetaxel",
+          "Humans",
+          "Lung Neoplasms",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29587605/"
+      },
+      {
+        "pmid": "24714754",
+        "title": "Circulating microRNAs are associated with docetaxel chemotherapy outcome in castration-resistant prostate cancer.",
+        "abstract": "Docetaxel is the first-line chemotherapy for castration-resistant prostate cancer (CRPC). However, response rates are ∼50% and determined quite late in the treatment schedule, thus non-responders are subjected to unnecessary toxicity. The potential of circulating microRNAs as early biomarkers of docetaxel response in CRPC patients was investigated in this study.",
+        "journal": "British journal of cancer",
+        "year": "2014",
+        "authors": [
+          "Lin H-M",
+          "Castillo L",
+          "Mahon K L",
+          "Chiam K",
+          "Lee B Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Aged, 80 and over",
+          "Androgen Antagonists",
+          "Antineoplastic Agents, Hormonal",
+          "Antineoplastic Agents, Phytogenic",
+          "Biomarkers, Tumor",
+          "Cell Line, Tumor",
+          "Docetaxel",
+          "Drug Resistance, Neoplasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24714754/"
+      },
+      {
+        "pmid": "27537383",
+        "title": "Loss of SLCO1B3 drives taxane resistance in prostate cancer.",
+        "abstract": "Both taxanes, docetaxel and cabazitaxel, are effective treatments for metastatic castration-resistant prostate cancer (mCRPC). However, resistance to taxanes is common. Our objective was to investigate mechanisms of taxane resistance in prostate cancer.",
+        "journal": "British journal of cancer",
+        "year": "2016",
+        "authors": [
+          "de Morrée Ellen S",
+          "Böttcher René",
+          "van Soest Robert J",
+          "Aghai Ashraf",
+          "de Ridder Corrina M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Androgens",
+          "Androstenes",
+          "Animals",
+          "Antineoplastic Agents, Phytogenic",
+          "Benzamides",
+          "Biological Transport",
+          "Cell Line, Tumor",
+          "Docetaxel",
+          "Drug Resistance, Multiple"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27537383/"
+      },
+      {
+        "pmid": "23199349",
+        "title": "Abiraterone acetate for the treatment of prostate cancer.",
+        "abstract": "Prostate cancer is the second leading cause of cancer death in men in the United States. The disease is driven by androgen receptor (AR) signaling, and the majority of patients initially respond to androgen deprivation therapies. The lethal form of this disease occurs when metastatic lesions progress in the setting of low testosterone levels, in what is conventionally referred to as castration-resistant prostate cancer (CRPC). Recent insights suggest that CRPC continues to rely on an active AR pathway for cell survival and growth.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2013",
+        "authors": [
+          "Ryan Charles J",
+          "Cheng Michael L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Administration, Oral",
+          "Androstenes",
+          "Androstenols",
+          "Antineoplastic Agents",
+          "Castration",
+          "Disease Progression",
+          "Humans",
+          "Male",
+          "Neoplasms, Hormone-Dependent"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23199349/"
+      },
+      {
+        "pmid": "32252682",
+        "title": "Overexpression of SLC6A1 associates with drug resistance and poor prognosis in prostate cancer.",
+        "abstract": "Solute Carrier Family 6 Member 1 (SLC6A1) has been identified as a cancer-promoting gene in various human cancers, such as clear cell renal cell carcinoma and ovarian cancer. However, its roles in prostate cancer (PCa) has not been fully elucidated. The aim of this study was to investigate the expression and clinical significance of SLC6A1 in PCa tissues and its effect on drug resistance to docetaxel in PCa.",
+        "journal": "BMC cancer",
+        "year": "2020",
+        "authors": [
+          "Chen Chaojiang",
+          "Cai Zhiduan",
+          "Zhuo Yangjia",
+          "Xi Ming",
+          "Lin Zhuoyuan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Animals",
+          "Antineoplastic Agents",
+          "Biomarkers, Tumor",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Computational Biology",
+          "Databases, Genetic",
+          "Disease Progression",
+          "Docetaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32252682/"
+      },
+      {
+        "pmid": "34649352",
+        "title": "A phase II study of docetaxel plus lycopene in metastatic castrate resistant prostate cancer.",
+        "abstract": "We carried out a phase II study to investigate the activity of docetaxel plus lycopene in advanced castrate resistant adenocarcinoma of the prostate. Patients were chemotherapy and biological therapy naive. Docetaxel 75 mg/m2 was given every 21 days with daily oral lycopene 30 mg. The primary endpoint was a ≥50% reduction in PSA. Secondary endpoints were median time to PSA progression, duration of response and overall survival. Thirteen patients were initiated on protocol therapy. Median age was 77 (range 55-90). Twelve patients (92%) had bone metastases. Four patients (30%) had both bone and visceral metastases. PSA response was seen in 10 patients (76.9% [95% confidence interval (CI), 46.2-94.9%]). Two patients had stable disease (SD), yielding a disease control rate of 92%. Median time to PSA progression was 8 months [95% CI, 3.5-8.7]. Median duration of response (DOR) was 7.3 months [95% CI, 4.8-13.2]. Median overall survival at 5 years was 35.1 months [95% CI 25.7-57.7]. No new sa",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2021",
+        "authors": [
+          "Zhuang Eric",
+          "Uchio Edward",
+          "Lilly Michael",
+          "Zi Xiaolin",
+          "Fruehauf John P"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "California",
+          "Disease Progression",
+          "Docetaxel",
+          "Humans",
+          "Kallikreins",
+          "Lycopene"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34649352/"
+      },
+      {
+        "pmid": "26041764",
+        "title": "Management of patients with advanced prostate cancer: recommendations of the St Gallen Advanced Prostate Cancer Consensus Conference (APCCC) 2015.",
+        "abstract": "The first St Gallen Advanced Prostate Cancer Consensus Conference (APCCC) Expert Panel identified and reviewed the available evidence for the ten most important areas of controversy in advanced prostate cancer (APC) management. The successful registration of several drugs for castration-resistant prostate cancer and the recent studies of chemo-hormonal therapy in men with castration-naïve prostate cancer have led to considerable uncertainty as to the best treatment choices, sequence of treatment options and appropriate patient selection. Management recommendations based on expert opinion, and not based on a critical review of the available evidence, are presented. The various recommendations carried differing degrees of support, as reflected in the wording of the article text and in the detailed voting results recorded in supplementary Material, available at Annals of Oncology online. Detailed decisions on treatment as always will involve consideration of disease extent and location, p",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2015",
+        "authors": [
+          "Gillessen S",
+          "Omlin A",
+          "Attard G",
+          "de Bono J S",
+          "Efstathiou E"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Androgen Antagonists",
+          "Antineoplastic Agents",
+          "Antineoplastic Agents, Hormonal",
+          "Bone Density Conservation Agents",
+          "Docetaxel",
+          "Humans",
+          "Male",
+          "Orchiectomy",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26041764/"
+      },
+      {
+        "pmid": "30922918",
+        "title": "A novel DNA-binding motif in prostate tumor overexpressed-1 (PTOV1) required for the expression of ALDH1A1 and CCNG2 in cancer cells.",
+        "abstract": "PTOV1 is a transcription and translation regulator and a promoter of cancer progression. Its overexpression in prostate cancer induces transcription of drug resistance and self-renewal genes, and docetaxel resistance. Here we studied PTOV1 ability to directly activate the transcription of ALDH1A1 and CCNG2 by binding to specific promoter sequences. Chromatin immunoprecipitation and electrophoretic mobility shift assays identified a DNA-binding motif inside the PTOV-A domain with similarities to known AT-hooks that specifically interacts with ALDH1A1 and CCNG2 promoters. Mutation of this AT-hook-like sequence significantly decreased the expression of ALDH1A1 and CCNG2 promoted by PTOV1. Immunohistochemistry revealed the association of PTOV1 with mitotic chromosomes in high grade prostate, colon, bladder, and breast carcinomas. Overexpression of PTOV1, ALDH1A1, and CCNG2 significantly correlated with poor prognosis in prostate carcinomas and with shorter relapse-free survival in colon ca",
+        "journal": "Cancer letters",
+        "year": "2019",
+        "authors": [
+          "Maggio Valentina",
+          "Cánovas Verónica",
+          "Félix Alex J",
+          "Gómez Valentí",
+          "de Torres Inés"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aldehyde Dehydrogenase 1 Family",
+          "Biomarkers, Tumor",
+          "Cell Line, Tumor",
+          "Cyclin G2",
+          "DNA-Binding Proteins",
+          "Disease Progression",
+          "Gene Expression Regulation, Neoplastic",
+          "Humans",
+          "Male",
+          "Neoplasm Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30922918/"
+      },
+      {
+        "pmid": "19433978",
+        "title": "Prolonged survival in a patient with BRCA2 associated metastatic pancreatic cancer after exposure to camptothecin: a case report and review of literature.",
+        "abstract": "Germline mutations in the tumor suppressor genes BRCA1 and BRCA2 have been proven to predict a drastically increased lifetime risk of breast and ovarian cancers in the individuals who carry them. A number of studies have shown that the third most common cancer associated with these mutations is pancreatic cancer. There is evidence of in vivo therapeutic response to the cross-linking agents; such as mitomycin C (MMC) in BRCA2 mutated pancreatic cell lines. We present the 'first patient' who achieved a prolonged survival on irinotecan, a topoisomerase I poison, administered alone and then in combination with cetuximab. Our patient presented at the age of 71 years with a dual diagnosis of prostate carcinoma and pancreatic carcinoma on the background of a significant family history of cancer. On genetic testing, he was found to have the common Ashkenazi Jewish BRCA2 mutation, 6174delT. To date, he has received 22 cycles of docetaxel, capecitabine, and gemcitibine followed by single agent i",
+        "journal": "Anti-cancer drugs",
+        "year": "2009",
+        "authors": [
+          "James Edward",
+          "Waldron-Lynch Maeve G",
+          "Saif Muhammad Wasif"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Camptothecin",
+          "Drug Resistance, Neoplasm",
+          "Genes, BRCA2",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Irinotecan",
+          "Male",
+          "Neoplasm Metastasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19433978/"
+      },
+      {
+        "pmid": "27402060",
+        "title": "Subsequent Chemotherapy and Treatment Patterns After Abiraterone Acetate in Patients with Metastatic Castration-resistant Prostate Cancer: Post Hoc Analysis of COU-AA-302.",
+        "abstract": "Treatment patterns for metastatic castration-resistant prostate cancer (mCRPC) have changed substantially in the last few years. In trial COU-AA-302 (chemotherapy-naïve men with mCRPC), abiraterone acetate plus prednisone (AA) significantly improved radiographic progression-free survival and overall survival (OS) when compared to placebo plus prednisone (P).",
+        "journal": "European urology",
+        "year": "2017",
+        "authors": [
+          "de Bono Johann S",
+          "Smith Matthew R",
+          "Saad Fred",
+          "Rathkopf Dana E",
+          "Mulders Peter F A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abiraterone Acetate",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma",
+          "Disease-Free Survival",
+          "Docetaxel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27402060/"
+      },
+      {
+        "pmid": "32593665",
+        "title": "Cediranib, an inhibitor of vascular endothelial growth factor receptor kinases, inhibits proliferation and invasion of prostate adenocarcinoma cells.",
+        "abstract": "Prostate Cancer is the second cause of cancer-related death in men and development of metastatic castration-resistant prostate cancer (mCRPC) is the major reason for its high mortality rate. Despite various treatments, all patients succumb to resistant disease, suggesting that there is a pressing need for novel and more efficacious treatments. Members of the vascular endothelial growth factor (VEGF) family play key roles in the tumorigenesis of mCRPC, indicating that VEGF-targeted therapies may have potential anti-tumor efficacy in this malignancy. However, due to compensatory activation of other family members, clinical trials with single-targeted VEGF inhibitors were discouraging. Here, we determined the anti-neoplastic activity of Cediranib, a pan-VEGF receptor inhibitor, in the mCRPC cell lines. Anti-growth effects of Cediranib were studied by MTT and BrdU cell proliferation assays and crystal violet staining. Annexin V/PI, radiation therapy and cell motility assays were carried ou",
+        "journal": "European journal of pharmacology",
+        "year": "2020",
+        "authors": [
+          "Momeny Majid",
+          "Sankanian Ghazaleh",
+          "Hamzehlou Sepideh",
+          "Yousefi Hassan",
+          "Esmaeili Fatemeh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Cell Line, Tumor",
+          "Cell Movement",
+          "Cell Proliferation",
+          "Combined Modality Therapy",
+          "Docetaxel",
+          "Gamma Rays",
+          "Gene Expression Regulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32593665/"
+      },
+      {
+        "pmid": "18512732",
+        "title": "Effects of Eg5 knockdown on human prostate cancer xenograft growth and chemosensitivity.",
+        "abstract": "Microtubular inhibitors, including docetaxel, are active cytotoxics in many cancers, including prostate cancer (CaP). The Eg5 gene, a member of the kinesin-5 family, plays critical roles in proper mitotic spindle function, and is a potential microtubule-related target for proliferating cancer cells. To investigate the functional activities of Eg5 in CaP, we used an antisense oligonucleotide (ASO) targeting Eg5 to assess the potency and anti-cancer activity of Eg5 ASO treatment for androgen-independent CaP cells in vitro and in vivo.",
+        "journal": "The Prostate",
+        "year": "2008",
+        "authors": [
+          "Hayashi Norihiro",
+          "Koller Erich",
+          "Fazli Ladan",
+          "Gleave Martin E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Antineoplastic Agents, Phytogenic",
+          "Apoptosis",
+          "Cell Cycle",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Dose-Response Relationship, Drug",
+          "Down-Regulation",
+          "Drug Therapy, Combination",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18512732/"
+      },
+      {
+        "pmid": "22112969",
+        "title": "Randomized phase II trial of docetaxel plus prednisone in combination with placebo or AT-101, an oral small molecule Bcl-2 family antagonist, as first-line therapy for metastatic castration-resistant prostate cancer.",
+        "abstract": "AT-101 (A), a small molecule oral inhibitor of the Bcl-2 family, has activity alone and in combination with docetaxel (Taxotere) and prednisone (DP) in metastatic castration-resistant prostate cancer (mCRPC). A randomized, double-blind, placebo-controlled phase II trial compared DP combined with either AT-101 (A) or placebo in chemonaive mCRPC.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2012",
+        "authors": [
+          "Sonpavde G",
+          "Matveev V",
+          "Burke J M",
+          "Caton J R",
+          "Fleming M T"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Neoplasms",
+          "Docetaxel",
+          "Gossypol",
+          "Humans",
+          "Kaplan-Meier Estimate",
+          "Lymphatic Metastasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22112969/"
+      },
+      {
+        "pmid": "23973186",
+        "title": "Effect of abiraterone acetate treatment on the quality of life of patients with metastatic castration-resistant prostate cancer after failure of docetaxel chemotherapy.",
+        "abstract": "In a recent randomised, double-blind, phase III clinical trial among 1195 patients with metastatic castration-resistant prostate cancer (mCRPC) who had failed docetaxel chemotherapy, abiraterone acetate was shown to significantly prolong overall survival compared with prednisone alone. Here we report on the impact of abiraterone therapy on the health-related quality of life (HRQoL) observed during this trial, assessed using the validated Functional Assessment of Cancer Therapy-Prostate (FACT-P) questionnaire.",
+        "journal": "European journal of cancer (Oxford, England : 1990)",
+        "year": "2013",
+        "authors": [
+          "Harland Stephen",
+          "Staffurth John",
+          "Molina Arturo",
+          "Hao Yanni",
+          "Gagnon Dennis D"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Abiraterone Acetate",
+          "Adenocarcinoma",
+          "Androstadienes",
+          "Antineoplastic Agents",
+          "Chemotherapy, Adjuvant",
+          "Docetaxel",
+          "Humans",
+          "Male",
+          "Neoplasm Metastasis",
+          "Orchiectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23973186/"
+      },
+      {
+        "pmid": "25653093",
+        "title": "Suppression of CHK1 by ETS Family Members Promotes DNA Damage Response Bypass and Tumorigenesis.",
+        "abstract": "The ETS family of transcription factors has been repeatedly implicated in tumorigenesis. In prostate cancer, ETS family members, such as ERG, ETV1, ETV4, and ETV5, are frequently overexpressed due to chromosomal translocations, but the molecular mechanisms by which they promote prostate tumorigenesis remain largely undefined. Here, we show that ETS family members, such as ERG and ETV1, directly repress the expression of the checkpoint kinase 1 (CHK1), a key DNA damage response cell-cycle regulator essential for the maintenance of genome integrity. Critically, we find that ERG expression correlates with CHK1 downregulation in human patients and demonstrate that Chk1 heterozygosity promotes the progression of high-grade prostatic intraepithelial neoplasia into prostatic invasive carcinoma in Pten(+) (/-) mice. Importantly, CHK1 downregulation sensitizes prostate tumor cells to etoposide but not to docetaxel treatment. Thus, we identify CHK1 as a key functional target of the ETS proto-onc",
+        "journal": "Cancer discovery",
+        "year": "2015",
+        "authors": [
+          "Lunardi Andrea",
+          "Varmeh Shohreh",
+          "Chen Ming",
+          "Taulli Riccardo",
+          "Guarnerio Jlenia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Binding Sites",
+          "Cell Line, Tumor",
+          "Cell Transformation, Neoplastic",
+          "Checkpoint Kinase 1",
+          "Conserved Sequence",
+          "DNA Damage",
+          "DNA-Binding Proteins",
+          "Disease Progression",
+          "Down-Regulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25653093/"
+      },
+      {
+        "pmid": "34425813",
+        "title": "A novel germline BRCA2 mutation in a Chinese patient with prostate cancer sensitive to platinum chemotherapy: a case report.",
+        "abstract": "Germline BRCA2 mutation is associated with an aggressive prostate cancer phenotype and indicates higher risk for hereditary cancer. Recently, numerous studies have attempted to identify the genomic landscape of prostate cancer to better understand the genomic drivers of this disease and look for the molecular targets to guide treatment selection.",
+        "journal": "BMC urology",
+        "year": "2021",
+        "authors": [
+          "Jiang Lijuan",
+          "Bai Zunguang",
+          "Zhu Shoulun",
+          "Zhao Tingting",
+          "Yang Yining"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Agents",
+          "Asian People",
+          "BRCA2 Protein",
+          "Carboplatin",
+          "Genetic Predisposition to Disease",
+          "Germ-Line Mutation",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34425813/"
+      },
+      {
+        "pmid": "19396016",
+        "title": "A phase II trial of the Src-kinase inhibitor AZD0530 in patients with advanced castration-resistant prostate cancer: a California Cancer Consortium study.",
+        "abstract": "Prostate cancer cells undergo neuroendocrine differentiation during androgen deprivation and secrete neuropeptides, hence activating androgen receptor-regulated genes. Src-family protein kinases are involved in neuropeptide-induced prostate cancer growth and migration. A phase II trial of AZD0530, an oral Src-family kinase inhibitor, in patients with advanced castration resistant prostate cancer was conducted. The primary endpoint was prostate cancer-specific antigen (PSA) response rate, defined as a 30% or greater decrease. A two-stage Simon design was used. Eligibility criteria included documentation of castration resistance (including antiandrogen withdrawal), adequate end-organ function, and performance status, and not more than one prior taxane-based chemotherapy regimen. AZD0530 was given at 175 mg orally once daily continuously. Rapid accrual led to 28 patients registering in the first stage. Median age was 67 years. Sixteen patients had performance status (PS) 0, eight patients",
+        "journal": "Anti-cancer drugs",
+        "year": "2009",
+        "authors": [
+          "Lara Primo N",
+          "Longmate Jeff",
+          "Evans Christopher P",
+          "Quinn David I",
+          "Twardowski Przemyslaw"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Aged, 80 and over",
+          "Androgen Antagonists",
+          "Antineoplastic Agents",
+          "Antineoplastic Agents, Hormonal",
+          "Benzodioxoles",
+          "Chemical and Drug Induced Liver Injury",
+          "Combined Modality Therapy",
+          "Disease-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19396016/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:51:03.007041",
+  "success": true,
+  "error_message": null
+}

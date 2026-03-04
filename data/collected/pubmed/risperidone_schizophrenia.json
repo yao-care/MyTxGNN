@@ -1,0 +1,579 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "schizophrenia",
+    "query_string": "Risperidone AND schizophrenia"
+  },
+  "data": {
+    "query": "Risperidone AND schizophrenia",
+    "results": [
+      {
+        "pmid": "7545034",
+        "title": "Risperidone: review and assessment of its role in the treatment of schizophrenia.",
+        "abstract": "To review pharmacologic, pharmacokinetic, therapeutic, and safety information for the antipsychotic agent risperidone and to evaluate its place in the treatment of schizophrenia.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1995",
+        "authors": [
+          "Cardoni A A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Clinical Trials as Topic",
+          "Controlled Clinical Trials as Topic",
+          "Humans",
+          "Isoxazoles",
+          "Piperidines",
+          "Risperidone",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7545034/"
+      },
+      {
+        "pmid": "39044342",
+        "title": "An overview of the currently available and emerging long-acting formulations of risperidone for schizophrenia and bipolar disorder.",
+        "abstract": "Long-acting injectable (LAI) antipsychotic medications can help improve treatment adherence in patients with schizophrenia and bipolar disorder. Despite this, they are underutilized. In 2003, intramuscular risperidone became the first available LAI atypical antipsychotic medication, and since then, a number of competing long-acting risperidone formulations have been brought to market, with additional options under active development. These include intramuscular, subcutaneous, long-acting oral, and implantable formulations.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2024",
+        "authors": [
+          "Faden Justin",
+          "Ramirez Camila",
+          "Martinez Vanessa",
+          "Citrome Leslie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Schizophrenia",
+          "Risperidone",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Delayed-Action Preparations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39044342/"
+      },
+      {
+        "pmid": "15907151",
+        "title": "Effectiveness and cost of risperidone and olanzapine for schizophrenia: a systematic review.",
+        "abstract": "Risperidone and olanzapine are novel antipsychotic medications that compete as first-line agents in treating patients with schizophrenia. The objective of this paper is to review the available evidence regarding the effectiveness and cost of risperidone versus olanzapine. We reviewed both randomised and peer-reviewed non-randomised head-to-head (olanzapine versus risperidone) studies in populations with schizophrenia. The studies were selected through a MEDLINE search. Risperidone and olanzapine provide control of positive, negative and global symptoms of schizophrenia. Each drug has a distinct adverse effect profile. Five randomised trials comparing risperidone with olanzapine suggested grossly similar efficacy in the first 2 months of treatment, with some results indicating advantages for olanzapine over the longer term. Only two of the trials included measures of service utilisation. One had 28-week follow-up, and the other followed patients for 12 months but had small sample sizes.",
+        "journal": "CNS drugs",
+        "year": "2005",
+        "authors": [
+          "Hargreaves William A",
+          "Gibson P Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Costs and Cost Analysis",
+          "Humans",
+          "Olanzapine",
+          "Randomized Controlled Trials as Topic",
+          "Risperidone",
+          "Schizophrenia",
+          "Schizophrenic Psychology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15907151/"
+      },
+      {
+        "pmid": "7527327",
+        "title": "Risperidone. A review of its pharmacology and therapeutic potential in the treatment of schizophrenia.",
+        "abstract": "Risperidone, a benzisoxazol derivative, is a novel antipsychotic agent which combines potent serotonin (5-hydroxytryptamine) 5-HT2 and dopamine D2 receptor antagonism. Development of the drug was stimulated by reports that the selective serotonin 5-HT2 antagonist ritanserin improved the negative symptoms of schizophrenia and decreased extrapyramidal symptoms when combined with haloperidol. The relatively low incidence of extrapyramidal symptoms with risperidone may reflect a preferential action on mesolimbic rather than nigrostriatal dopaminergic pathways. Recent clinical investigation suggests that risperidone is of at least comparable efficacy to haloperidol and perphenazine in improving the symptoms of acute and chronic schizophrenia on short term administration. Advantages offered by risperidone over haloperidol include a faster onset of antipsychotic action, a lower incidence of extrapyramidal effects and possibly greater efficacy against the negative symptoms of schizophrenia. If",
+        "journal": "Drugs",
+        "year": "1994",
+        "authors": [
+          "Grant S",
+          "Fitton A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Adult",
+          "Aged",
+          "Aging",
+          "Animals",
+          "Antipsychotic Agents",
+          "Central Nervous System",
+          "Cross-Over Studies",
+          "Disease Models, Animal",
+          "Drug Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7527327/"
+      },
+      {
+        "pmid": "35839173",
+        "title": "Effect of risperidone on serum IL-6 levels in individuals with schizophrenia: a systematic review and meta-analysis.",
+        "abstract": "Risperidone has been significant correlated with a direct effect of interleukin-6 (IL-6) levels in patients with schizophrenia. This fact allows the opportunity to link the probable immunomodulatory effect of antipsychotic medication. Specially, a proper functioning of IL-6 pathway plays a potential role in the treatment or development of schizophrenia.",
+        "journal": "International journal of psychiatry in clinical practice",
+        "year": "2023",
+        "authors": [
+          "Ramos-Méndez Miguel Angel",
+          "Tovilla-Zárate Carlos Alfonso",
+          "Juárez-Rojop Isela Esther",
+          "Villar-Soto Mario",
+          "Genis-Mendoza Alma Delia"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Risperidone",
+          "Schizophrenia",
+          "Interleukin-6",
+          "Antipsychotic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35839173/"
+      },
+      {
+        "pmid": "14687852",
+        "title": "Risperidone in acute and long-term therapy of schizophrenia--a clinical profile.",
+        "abstract": "Data from a range of well-controlled clinical trials, observational studies, and clinical use support the efficacy of risperidone for both acute and long-term therapy of schizophrenic psychoses. With regard to positive symptoms, the efficacy of risperidone was shown to be at least comparable with that of haloperidol. However, risperidone differs from conventional antipsychotics because it is more effective against the negative symptoms, has beneficial effects on affective and cognitive symptoms, and carries less risk of extrapyramidal side effects (EPS). To date, risperidone is the only atypical antipsychotic to have shown a significantly lower relapse rate compared with haloperidol in a long-term double-blind trial. This review describes comprehensive trial data and therapeutic observations gained with risperidone in the treatment of schizophrenia since its approval.",
+        "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+        "year": "2004",
+        "authors": [
+          "Pajonk Frank-Gerald"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Antipsychotic Agents",
+          "Chronic Disease",
+          "Humans",
+          "Risperidone",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14687852/"
+      },
+      {
+        "pmid": "7517246",
+        "title": "Risperidone for schizophrenia.",
+        "abstract": "",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "1994",
+        "authors": [
+          "Edwards J G"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Humans",
+          "Isoxazoles",
+          "Piperidines",
+          "Risperidone",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7517246/"
+      },
+      {
+        "pmid": "19750235",
+        "title": "Efficacy and safety of risperidone long-acting injection in elderly people with schizophrenia.",
+        "abstract": "Antipsychotic medication is the mainstay of treatment in elderly patients with psychosis. In recent years, second generation antipsychotics have come to be preferred. Long-acting risperidone is the first such antipsychotic available for use in this vulnerable group of patients and offers an attractive alternative to traditional medications. The available literature revealed that long-acting risperidone is generally well tolerated and is effective in treating both the positive and negative symptoms of schizophrenia. Despite a lack of randomized trials and head-to-head studies, it appears to be a useful addition to the treatment armory for patients with chronic psychosis who require a depot preparation. Further research into its endocrine and metabolic side effects is needed.",
+        "journal": "Clinical interventions in aging",
+        "year": "2009",
+        "authors": [
+          "Singh Dhiren",
+          "O'Connor Daniel W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antipsychotic Agents",
+          "Delayed-Action Preparations",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Risperidone",
+          "Schizophrenia",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19750235/"
+      },
+      {
+        "pmid": "11532383",
+        "title": "Effects of the atypical antipsychotic risperidone on hostility and aggression in schizophrenia: a meta-analysis of controlled trials.",
+        "abstract": "Atypical antipsychotics have been hypothesized to be more effective than classical antipsychotics in the treatment of hostility and aggression, due to their characteristic pharmacological profile, involving serotonergic as well as dopaminergic systems. In the present quantitative review the published evidence regarding the effects of risperidone on hostility and aggression in schizophrenia is evaluated. Meta-analysis of seven controlled trials revealed significant differences between risperidone and classical antipsychotics and between risperidone and placebo, although the effect size was small. Additional analyses in which only methodological rigorous studies were included showed highly significant differences (risperidone versus classical antipsychotics) and the effect size approached the 'medium' range. We conclude that risperidone is superior to classical antipsychotics and placebo in the treatment of hostility and aggression in schizophrenia. Neuropharmacological mechanisms that m",
+        "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+        "year": "2001",
+        "authors": [
+          "Aleman A",
+          "Kahn R S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Aggression",
+          "Antipsychotic Agents",
+          "Controlled Clinical Trials as Topic",
+          "Hostility",
+          "Humans",
+          "Risperidone",
+          "Schizophrenia",
+          "Schizophrenic Psychology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11532383/"
+      },
+      {
+        "pmid": "40017334",
+        "title": "Pharmacokinetic characteristics of risperidone ISM for the treatment of schizophrenia.",
+        "abstract": "Risperidone-ISM is a novel intramuscular long-acting injectable formulation (LAI) of risperidone approved for the treatment of schizophrenia in adults. Knowledge regarding the pharmacokinetic properties of risperidone-ISM can improve care.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2025",
+        "authors": [
+          "Schoretsanitis Georgios",
+          "Correll Christoph U"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Schizophrenia",
+          "Risperidone",
+          "Antipsychotic Agents",
+          "Injections, Intramuscular",
+          "Adult",
+          "Female",
+          "Delayed-Action Preparations",
+          "Male",
+          "Drug Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40017334/"
+      },
+      {
+        "pmid": "14742807",
+        "title": "Cost comparisons of olanzapine and risperidone in treating schizophrenia.",
+        "abstract": "To review the literature on the healthcare costs associated with olanzapine and risperidone in treating schizophrenia.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2004",
+        "authors": [
+          "Liu Gordon G",
+          "Sun Shawn X",
+          "Christensen Dale B",
+          "Luo Xuemei"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Benzodiazepines",
+          "Fees, Pharmaceutical",
+          "Humans",
+          "Olanzapine",
+          "Risperidone",
+          "Schizophrenia",
+          "Treatment Outcome",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14742807/"
+      },
+      {
+        "pmid": "37487866",
+        "title": "Association Between Risperidone Use and Kidney Function Decline in Patients with Schizophrenia: A Retrospective Cohort Study.",
+        "abstract": "Several D-amino acids have been shown to be protective against kidney injury in mice. Risperidone, a currently used atypical antipsychotic agent for schizophrenia, is also known to inhibit the activity of D-amino acid oxidase, which degrades certain D-amino acids. Based on the hypothesis that risperidone would prevent kidney disease progression, this study investigated the association between risperidone use and kidney function decline in patients with schizophrenia.",
+        "journal": "Clinical therapeutics",
+        "year": "2023",
+        "authors": [
+          "Oshima Megumi",
+          "Toyama Tadashi",
+          "Nakade Yusuke",
+          "Yomogida Daichi",
+          "Yuasa Takahiro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Animals",
+          "Mice",
+          "Middle Aged",
+          "Female",
+          "Schizophrenia",
+          "Risperidone",
+          "Retrospective Studies",
+          "Antipsychotic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37487866/"
+      },
+      {
+        "pmid": "8749887",
+        "title": "Risperidone: efficacy and safety.",
+        "abstract": "This article reviews the evidence for the efficacy and effectiveness of risperidone in persons with schizophrenia. Nine published double-blind studies compare risperidone with another antipsychotic medication and/or placebo. All were conducted in the acute phase of illness. Risperidone's antipsychotic efficacy is shown to be consistently superior to that of placebo and at least comparable to that of haloperidol and perphenazine for patients in the acute phase of schizophrenia. Further research is necessary to determine the effectiveness of risperidone and its efficacy both as a maintenance treatment and in treatment-refractory and deficit-state patients.",
+        "journal": "Schizophrenia bulletin",
+        "year": "1995",
+        "authors": [
+          "Umbricht D",
+          "Kane J M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Antipsychotic Agents",
+          "Double-Blind Method",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Risperidone",
+          "Schizophrenia",
+          "Schizophrenic Psychology",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8749887/"
+      },
+      {
+        "pmid": "27755991",
+        "title": "Risperidone and escitalopram co-administration: A potential treatment of schizophrenia symptoms with less side effects.",
+        "abstract": "Schizophrenia is a psychiatric disorder characterized by positive and negative symptoms often accompanied by depression and cognitive deficits. Positive symptoms, like delusions and hallucinations are caused by an excess of dopamine (DA) signaling and are treated with the second generation antipsychotic drugs. Negative symptoms of schizophrenia are represented by social withdrawal, apathy and blunted emotional response. It was demonstrated that co-administration of risperidone and selective serotonin reuptake inhibitors alleviated depressive symptoms and cognitive dysfunction in animal models of schizophrenia. Moreover, combination of fluoxetine or mirtazapine with risperidone increased DA and 5-hydroxytryptamine (5-HT) release in the rat frontal cortex more potently than either drug given separately. The present study aimed to investigate whether combination of risperidone and escitalopram is effective in increasing DA and 5-HT release.",
+        "journal": "Pharmacological reports : PR",
+        "year": "2017",
+        "authors": [
+          "Kamińska Katarzyna",
+          "Noworyta-Sokołowska Karolina",
+          "Jurczak Alexandra",
+          "Górska Anna",
+          "Rogóż Zofia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antipsychotic Agents",
+          "Citalopram",
+          "Dopamine",
+          "Drug Therapy, Combination",
+          "Male",
+          "Nucleus Accumbens",
+          "Prefrontal Cortex",
+          "Rats",
+          "Rats, Wistar"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27755991/"
+      },
+      {
+        "pmid": "39404139",
+        "title": "Pharmacokinetics and Safety of a Novel Extended-Release Microsphere Formulation of Risperidone in Patients with Schizophrenia or Schizoaffective Disorder.",
+        "abstract": "Risperidone extended-release injectable suspension (R-ERIS; marketed as RYKINDO) is a novel immediate-release version of risperidone formulated as extended-release microspheres for biweekly intramuscular injection to treat schizophrenia in adults. The pharmacokinetics (PK) and safety of R-ERIS were evaluated in a multicenter, randomized, open-label, multiple-dose study in patients with stable schizophrenia or schizoaffective disorder. Eligible patients (N = 108) 18 to 65 years old were randomized (1:1) to receive IM injections of R-ERIS 25 mg or the comparator, a biweekly risperidone long-acting injectable (BW-RLAI; marketed as RISPERDAL CONSTA) 25 mg for a total of 5 injections. The primary objective was to evaluate the relative bioavailability of active moiety (risperidone plus 9-hydroxyrisperidone) at steady state. Blood samples were analyzed for risperidone and 9-hydroxyrisperidone using a validated, specific, and sensitive liquid chromatography with tandem mass spectrometry method",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2025",
+        "authors": [
+          "Walling David P",
+          "Dong Ying",
+          "Litman Robert",
+          "Wang Wenyan",
+          "Liu Chunli"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Antipsychotic Agents",
+          "Biological Availability"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39404139/"
+      },
+      {
+        "pmid": "26553741",
+        "title": "Risperidone and NAP protect cognition and normalize gene expression in a schizophrenia mouse model.",
+        "abstract": "Mutated disrupted in schizophrenia 1 (DISC1), a microtubule regulating protein, leads to schizophrenia and other psychiatric illnesses. It is hypothesized that microtubule stabilization may provide neuroprotection in schizophrenia. The NAP (NAPVSIPQ) sequence of activity-dependent neuroprotective protein (ADNP) contains the SxIP motif, microtubule end binding (EB) protein target, which is critical for microtubule dynamics leading to synaptic plasticity and neuroprotection. Bioinformatics prediction for FDA approved drugs mimicking SxIP-like motif which displace NAP-EB binding identified Risperidone. Risperidone or NAP effectively ameliorated object recognition deficits in the mutated DISC1 mouse model. NAP but not Risperidone, reduced anxiety in the mutated mice. Doxycycline, which blocked the expression of the mutated DISC1, did not reverse the phenotype. Transcripts of Forkhead-BOX P2 (Foxp2), a gene regulating DISC1 and associated with human ability to acquire a spoken language, wer",
+        "journal": "Scientific reports",
+        "year": "2015",
+        "authors": [
+          "Vaisburd Sinaya",
+          "Shemer Zeev",
+          "Yeheskel Adva",
+          "Giladi Eliezer",
+          "Gozes Illana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Animals",
+          "Binding Sites",
+          "Cognition",
+          "Disease Models, Animal",
+          "Doxycycline",
+          "Female",
+          "Gene Expression Regulation",
+          "Hippocampus",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26553741/"
+      },
+      {
+        "pmid": "20016438",
+        "title": "Priapism and risperidone.",
+        "abstract": "A patient taking oral risperidone while using cocaine and alcohol presented with priapism shortly after long-acting, injectable risperidone was prescribed. Another case of priapism was diagnosed in a sickle cell disease patient who was on oral risperidone. A penectomy due to necrosis was required in the first case, while the other patient regained erectile function. Physicians should be aware of priapism-inducing/predisposing factors, such as sickle cell disease, certain medicines or drugs of abuse, and antipsychotic medications. Risperidone is an established cause of priapism. It occurs especially in males with sickle cell disease; use of antipsychotic drugs and/or cocaine further increases risk.",
+        "journal": "Southern medical journal",
+        "year": "2009",
+        "authors": [
+          "Koirala Sharad",
+          "Penagaluri Praveen",
+          "Smith Carolyn",
+          "Lippmann Steven"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Alcoholism",
+          "Anemia, Sickle Cell",
+          "Antipsychotic Agents",
+          "Cocaine-Related Disorders",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Priapism",
+          "Psychotic Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20016438/"
+      },
+      {
+        "pmid": "17211053",
+        "title": "[Maintenance pharmacotherapy of schizophrenia: remission and the effectiveness of long-acting risperidone therapy].",
+        "abstract": "Schizophrenia is a severe and devastating psychiatric disorder affecting about 1 percent of the world's population, is characterized by psychotic episodes, negative symptoms and cognitive deficits. New advances in the understanding of schizophrenia etiology, course, treatment have increased interest in the development of consensus-defined standards for clinical status, improvement, remission and recovery. The introduction of standardized remission criteria may offer significant opportunities for clinical practice and clinical trials. Risperidone is the first atypical antipsychotic available in a long-acting injectable formulation. Clinical studies have demonstrated that long-acting risperidone is effective and well tolerated in patient with schizophrenia. Significant clinical improvement has been reported in patients switched to long-acting risperidone from other antipsychotic agents. Several patient groups (young, first episode, schizoaffective patients) have been shown significant be",
+        "journal": "Neuropsychopharmacologia Hungarica : a Magyar Pszichofarmakologiai Egyesulet lapja = official journal of the Hungarian Association of Psychopharmacology",
+        "year": "2006",
+        "authors": [
+          "Sárosi Andrea"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Patient Compliance",
+          "Remission Induction",
+          "Risperidone",
+          "Schizophrenia",
+          "Schizophrenic Psychology",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17211053/"
+      },
+      {
+        "pmid": "26664488",
+        "title": "Clozapine and risperidone influence on cortisol and estradiol levels in male patients with schizophrenia.",
+        "abstract": "Estrogens role in schizophrenia patients is a subject, which has gained an increased attention from the medical community. Estrogens have been shown to inhibit dopamine actions, improve neuronal regeneration, and overall, have a protective role in the pathology of schizophrenia. The adjunctive estrogen therapy for men is currently under debate. Antipsychotic medication is known to influence the hypothalamo-hypophyseal - gonadal axis by inducing variable degrees of hyperprolactinemia. Several studies have found that some of the atypical antipsychotics lower cortisol levels in patients and also in healthy controls. We have investigated the effects of clozapine and risperidone on estradiol levels in men with schizophrenia. We have also evaluated the levels of prolactin and cortisol, taking into account the possible influence of antipsychotic drugs on both these hormones. Both prolactin and cortisol also have the potential to regulate sexual hormones biosynthesis. Our study found decreased",
+        "journal": "Journal of medicine and life",
+        "year": "2015",
+        "authors": [
+          "Piriu G",
+          "Torac E",
+          "Gaman L E",
+          "Iosif L",
+          "Tivig I C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Case-Control Studies",
+          "Clozapine",
+          "Estradiol",
+          "Humans",
+          "Hydrocortisone",
+          "Hyperprolactinemia",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26664488/"
+      },
+      {
+        "pmid": "40854788",
+        "title": "The place of risperidone in situ microparticles (ISM®) among long-acting injectable antipsychotics in schizophrenia treatment.",
+        "abstract": "A key challenge in managing schizophrenia is ensuring adequate adherence to antipsychotic treatment. Long-acting injectable (LAI) antipsychotics play a crucial role in improving adherence, yet certain clinical needs remain unmet, including a rapid symptom control and satisfactory efficacy/tolerability balance.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2025",
+        "authors": [
+          "de Filippis Renato",
+          "D'Onofrio Ettore",
+          "Liparota Gaspare",
+          "Scaramuzzino Andrea",
+          "Aguglia Andrea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Risperidone",
+          "Antipsychotic Agents",
+          "Schizophrenia",
+          "Delayed-Action Preparations",
+          "Injections",
+          "Medication Adherence",
+          "Adult",
+          "Animals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40854788/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:32:33.428057",
+  "success": true,
+  "error_message": null
+}

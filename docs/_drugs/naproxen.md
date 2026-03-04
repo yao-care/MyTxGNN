@@ -6,7 +6,7 @@ drug_name: "Naproxen"
 kg_predictions: 100
 dl_predictions: 136
 evidence_level: "L1"
-indication_count: 100
+indication_count: 5
 brands: []
 permalink: /drugs/naproxen/
 ---

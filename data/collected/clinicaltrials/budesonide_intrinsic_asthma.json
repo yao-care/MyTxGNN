@@ -1,0 +1,164 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "intrinsic asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04680117",
+      "title": "Defining the Severe Paediatric Asthma Endotype: an Integrated Approach Combining Phenotypic Analyses Related to Immune, Metabolomics and Microbial Features",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-06-15",
+      "completion_date": "2025-01",
+      "country": "France",
+      "enrollment": 150,
+      "brief_summary": "The primary objective of this project is to extensively characterize the endotypes of pre-schoolers (0 to 6 years) and school-age children (6 to 12 years) with SA using an integrated approach, combining a description of their phenotype (asthma symptoms, atopy, and lung function) associated with histological (airway inflammation and remodelling), immune (innate and adaptive immunity), metabolomics, and microbiota analyses. This goal shall be achieved by an unsupervised in-depth analysis of patien",
+      "eligibility_criteria": "Patient Inclusion Criteria:\n\n* Minors aged 0 to 6 years or 6 to 12 years, hospitalized for assessment of Severe Asthma\n* Minors need with his follow-up an bronchial endoscopy with realization of LBA and biopsies of bronchial mucosa\n* Social insurance affiliation, except AME\n* Parents or legal guardi",
+      "endpoints": [
+        "Description of the environment and smoke exposure",
+        "Description of family atopy status",
+        "Description of Demographics"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04680117"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00576069",
+      "title": "Evaluation of Mechanism(s)Limiting Expiratory Airflow in Chronic, Stable Asthmatics Who Are Non-smokers",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2007-10-25",
+      "completion_date": "2027-06",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to evaluate the site and mechanisms responsible for expiratory airflow limitation in chronic, treated, non-smoking, stable asthmatics with moderate to severe persistent expiratory airflow obstruction. Treatment will include inhaled corticosteroids and long acting beta2agonists and long acting muscarinic antagonists. We are interested in determining whether the large and/or small airways are the predominant site of airflow limitation. We are also interested in determi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current non-smoking (\\<10 pack yr smoking history)\n* Stable, treated asthmatics\n* Age 12-95 yr\n* post 180ug albuterol by MDI: FEV 1/FVC \\< 70% and FEV 1 \\<80% predicted\n\nExclusion Criteria:\n\n* Pregnancy",
+      "endpoints": [
+        "use exhaled nitric oxide as a surrogate marker of large airway vs small airway/lung inflammation following various doses of inhaled corticosteroids",
+        "determine site of airflow limitation, whether predominantly large and /or small airways using expiratory flow volume curves obtained before and after asthmatics breathe a 80% helium-20% oxygen gas mixture",
+        "investigate the mechanisms that limit expiratory airflow: intrinsic airway obstruction vs loss of lung elastic recoil"
+      ],
+      "sponsor": "Gelb, Arthur F., M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT00576069"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04278404",
+      "title": "Pharmacokinetics, Pharmacodynamics, and Safety Profile of Understudied Drugs",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2020-03-05",
+      "completion_date": "2027-09",
+      "country": "Canada, United States",
+      "enrollment": 5000,
+      "brief_summary": "The study investigators are interested in learning more about how drugs, that are given to children by their health care provider, act in the bodies of children and young adults in hopes to find the most safe and effective dose for children. The primary objective of this study is to evaluate the PK of understudied drugs currently being administered to children per SOC as prescribed by their treating provider.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participant is \\< 21 years of age\n2. Parent/ Legal Guardian/ Adult Participant can understand the consent process and is willing to provide informed consent/HIPAA:\n3. (a) Participant is receiving one or more of the study drugs of interest at the time of enrollment or (b) Part",
+      "endpoints": [
+        "Clearance (CL) or apparent oral clearance (CL/F) as measured by PK sampling",
+        "Volume of distribution (V) or apparent oral volume of distribution (V/F) as measured by PK sampling",
+        "Elimination rate constant (ke) as measured by PK sampling"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT04278404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01225913",
+      "title": "Evaluation of Mechanism(s)Limiting Expiratory Airflow in Chronic, Stable Asthmatics Who Are Non-smokers",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2007-10",
+      "completion_date": "2027-06",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to evaluate the site and mechanisms responsible for expiratory airflow limitation in chronic, treated, non-smoking, stable asthmatics with moderate to severe persistent expiratory airflow obstruction. Treatment will include inhaled corticosteroids and long acting beta2agonists. The investigators are interested in determining whether the large and/or small airways are the predominant site of airflow limitation. The investigators are also interested in determining whet",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current non-smoking (\\<10 pack yr smoking history)\n* Stable, treated asthmatics\n* Age 10-80 yr\n* post 180ug albuterol by MDI: FEV 1/FVC \\< 70% and FEV 1 \\<80% predicted\n\nExclusion Criteria:\n\n* Pregnancy",
+      "endpoints": [
+        "Exhaled nitric oxide"
+      ],
+      "sponsor": "Gelb, Arthur F., M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT01225913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00624429",
+      "title": "A Pilot Study Involving an Asthma Management Program for Inner-city Early Head Start Children",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-03",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The Early Head Start program serves lower socioeconomic inner-city children from birth to 3 years. This population has a higher incidence of asthma due to increased exposures. The primary objective of this study is:\n\nTo evaluate the effect of early identification of these high risk, inner-city asthmatic infants, age 1-3 years, and early treatment with pulmicort respules on asthma morbidity (asthma symptoms and use of rescue medications), infant pulmonary functions, and use of health care resourc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children 12-36 months of age with a history of wheezing or airway reactivity responding to bronchodilators, or diagnosed with asthma by a physician.\n\nExclusion Criteria:\n\n* Children less than 12 months or greater than 36 months of age.\n* Children diagnosed with attention defic",
+      "endpoints": [
+        "FEV0.5"
+      ],
+      "sponsor": "Phoenix Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00624429"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01293734",
+      "title": "Research on Traditional Chinese Medicine (TCM) Clinical Treatment of the Acute Episode of Bronchial Asthma.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2011-02",
+      "country": "N/A",
+      "enrollment": 360,
+      "brief_summary": "Bronchial asthma is a common disease and frequently encountered disease of respiratory apparatus. It has very complex mechanism and multiple inducing factors. This study will focus on a new Chinese therapy on Bronchial asthma, analyzing the treatment mechanism of internal and external use, based on Traditional Chinese Medicine (TCM) theory and clinical practice. The study will also investigate the efficacy of the Chinese drugs and treatments on Bronchial asthma, and provide an effective therapy ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 to 65 years old;\n* Patients with mild-to-moderate bronchial asthma on attacking stage;\n* Without cardiopulmonary or other complications;\n* To comply with the diagnostic standard of bronchial asthma in western medicine and TCM syndrome differentiation;\n* Informed",
+      "endpoints": [
+        "primary Symptom",
+        "physical sign",
+        "assistant examination"
+      ],
+      "sponsor": "Liaoning University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01293734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00377572",
+      "title": "Inner-City Anti-IgE Therapy for Asthma (ICAC-08)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 419,
+      "brief_summary": "The purpose of this study is to find out if adding omalizumab to standard asthma treatment results in a safer, more effective, and longer lasting asthma treatment strategy than standard treatment alone, in inner-city children with mild to severe asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both body weight and total serum IgE suitable for omalizumab dosing.\n* Diagnosis of asthma made by a physician more than 1 year prior to study entry OR diagnosis of asthma made less than 1 year prior to study entry but have had asthma symptoms for longer than 1 year prior to s",
+      "endpoints": [
+        "Maximum Number of Asthma Symptom Days"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00377572"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07114107",
+      "title": "Evaluation of the Efficacy and Safety of Vibroacoustic Therapy With Oscillating Positive Expiratory Pressure in the Treatment of Nasal Congestion: A Randomized, Double-Blind, Placebo-Controlled Parallel-Group Clinical Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-08",
+      "completion_date": "2026-05",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "This is a prospective study. It enrolls subjects with allergic rhinitis, with or without asthma, who have nasal congestion as the main symptom and meet the inclusion criteria, aiming to evaluate the efficacy and safety of acoustic vibration combined with an oscillating positive expiratory pressure device in the treatment of patients with nasal congestion. On the premise that subjects agree to use basic medications (antihistamines, mometasone furoate nasal spray, ICS-LABA), they are instructed to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged 12-50 years at the time of signing the informed consent form, regardless of gender; Meeting the guideline diagnostic criteria for allergic rhinitis with or without asthma; Presenting with significant nasal congestion for at least 1 week, with or without asthma, a",
+      "endpoints": [
+        "Peak Nasal Inspiratory Flow (PNIF)"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT07114107"
+    }
+  ],
+  "timestamp": "2026-03-04T15:09:34.284053",
+  "success": true,
+  "error_message": null
+}

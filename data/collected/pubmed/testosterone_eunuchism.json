@@ -1,0 +1,584 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "eunuchism",
+    "query_string": "Testosterone AND eunuchism"
+  },
+  "data": {
+    "query": "Testosterone AND eunuchism",
+    "results": [
+      {
+        "pmid": "32068334",
+        "title": "Testosterone replacement therapy.",
+        "abstract": "The aim of testosterone replacement therapy (TRT) is to improve symptoms and signs of testosterone deficiency including decreased libido, erectile dysfunction, depressed mood, anaemia, loss of muscle and bone mass, by increasing serum testosterone levels to physiologic range. TRT has been used in the last 70 years, and overtime, numerous preparations and formulations have been developed to improve pharmacokinetics (PKs) and patient compliance. The routes of delivery approved for use in the Western world include buccal, nasal, subdermal, transdermal and intramuscular (IM).",
+        "journal": "Andrology",
+        "year": "2020",
+        "authors": [
+          "Barbonetti Arcangelo",
+          "D'Andrea Settimio",
+          "Francavilla Sandro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Decision-Making",
+          "Dosage Forms",
+          "Drug Administration Routes",
+          "Drug Compounding",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Male",
+          "Risk Assessment",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32068334/"
+      },
+      {
+        "pmid": "26791805",
+        "title": "Testofen, a specialised Trigonella foenum-graecum seed extract reduces age-related symptoms of androgen decrease, increases testosterone levels and improves sexual function in healthy aging males in a double-blind randomised clinical study.",
+        "abstract": "This study examined the effect of Testofen, a specialised Trigonella foenum-graecum seed extract on the symptoms of possible androgen deficiency, sexual function and serum androgen concentrations in healthy aging males. This was a double-blind, randomised, placebo-controlled trial involving 120 healthy men aged between 43 and 70 years of age. The active treatment was standardised Trigonella foenum-graecum seed extract at a dose of 600 mg/day for 12 weeks. The primary outcome measure was the change in the Aging Male Symptom questionnaire (AMS), a measure of possible androgen deficiency symptoms; secondary outcome measures were sexual function and serum testosterone. There was a significant decrease in AMS score over time and between the active and placebo groups. Sexual function improved, including number of morning erections and frequency of sexual activity. Both total serum testosterone and free testosterone increased compared to placebo after 12 weeks of active treatment. Trigonella ",
+        "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+        "year": "2016",
+        "authors": [
+          "Rao Amanda",
+          "Steels Elizabeth",
+          "Inder Warrick J",
+          "Abraham Suzanne",
+          "Vitetta Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Eunuchism",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Phytotherapy",
+          "Plant Extracts",
+          "Seeds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26791805/"
+      },
+      {
+        "pmid": "30614347",
+        "title": "Testosterone, testosterone therapy and prostate cancer.",
+        "abstract": "With prostate cancer not observed in eunuchs and total androgen suppression by castration an effective first-line treatment for advanced prostate cancer, the dramatic regression seen in tumour symptoms after castration, lead to the theory that high levels of circulating androgens were a risk factor for prostate cancer. This theory however, ignored the effects testosterone variations within a physiologic range could have on early tumour events and since the early 2000s, clinical evidence discounting testosterone as a linear mechanistic cause of prostate cancer growth mounted, with alternative mechanistic hypotheses such as the saturation model being proposed. Together with a growing understanding of the negative health effects and decreased quality of life in men with testosterone deficiency or hypogonadism, a paradigm shift away from testosterone as a prostate cancer inducer occurred allowing clinicians to use testosterone therapy as potential treatment for men with difficult and sympt",
+        "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+        "year": "2019",
+        "authors": [
+          "Yassin A",
+          "AlRumaihi K",
+          "Alzubaidi R",
+          "Alkadhi S",
+          "Al Ansari A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androgens",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Prostatic Neoplasms",
+          "Quality of Life",
+          "Risk Factors",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30614347/"
+      },
+      {
+        "pmid": "25337845",
+        "title": "Testosterone and benign prostatic hyperplasia.",
+        "abstract": "The use of testosterone to treat the symptoms of late-onset hypogonadal men has increased recently due to patient and physician awareness. However, concerns regarding the effect of testosterone on the prostate, in particular any possible effect on the risk of prostate cancer have prompted further research in this regard. Surprisingly, numerous retrospective or small, randomized trials have pointed to a possible improvement in male lower urinary tract symptoms (LUTS) in patients treated with testosterone. The exact mechanism of this improvement is still debated but may have a close relationship to metabolic syndrome. For the clinician, the results of these studies are promising but do not constitute high levels of evidence. A thorough clinical examination (including history, examination and laboratory testing of testosterone) should be undertaken before considering the diagnosis of late-onset hypogonadism or instigating treatment for it. Warnings still remain on the testosterone supplem",
+        "journal": "Asian journal of andrology",
+        "year": "2015",
+        "authors": [
+          "Jarvis Thomas R",
+          "Chughtai Bilal",
+          "Kaplan Steven A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Lower Urinary Tract Symptoms",
+          "Male",
+          "Prostatic Hyperplasia",
+          "Quality of Life",
+          "Risk Factors",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25337845/"
+      },
+      {
+        "pmid": "7712321",
+        "title": "Hemicorporectomy.",
+        "abstract": "Intractable decubitus ulcers and femoropelvic osteomyelitis are rare sequelae of paraplegia. Therapy for these conditions ranges from the simple to the complex, including wound debridement and care, alimentary and urinary tract diversion, hip disarticulation, and myofasciocutaneous rotational flaps. Should the condition be recalcitrant to these modalities the only curative therapy is hemicorporectomy. A 28-year-old rendered paraplegic 3 years ago presented manifesting sepsis; marasmus; hip and knee flexion contractures; suppurative sacral and femoropelvic decubitus ulcers, exposed bone, and osteomyelitis; and fecal and urinary incontinence. Pre-operative nutritional supplementation, wound debridement and care, and psychological counselling were provided. Hemicorporectomy was performed, including colostomy, ureteroileal conduit, gastrostomy, and translumbar amputation. Several anatomical, physiological, and operative-technical perspectives are emphasized: a two-staged approach may be pr",
+        "journal": "Clinical anatomy (New York, N.Y.)",
+        "year": "1995",
+        "authors": [
+          "Stelly T C",
+          "McNeil J W",
+          "Snypes S R",
+          "Thomas W O",
+          "Rodning C B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Hemipelvectomy",
+          "Humans",
+          "Male",
+          "Osteomyelitis",
+          "Paraplegia",
+          "Pressure Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7712321/"
+      },
+      {
+        "pmid": "25532575",
+        "title": "Diagnosis and management of testosterone deficiency.",
+        "abstract": "Testosterone supplementation therapy (TST) use has dramatically increased over the past decade, due to the availability of newer agents, aggressive marketing, and an increasing incidence of testosterone deficiency (TD). Despite the increase in TST, a degree of ambiguity remains as to the exact diagnostic criteria of TD, and administration and monitoring of TST. One explanation for this phenomenon is the complex role testosterone plays in multiple physiologic pathways. Numerous medical co-morbidities and medications can alter testosterone levels resulting in a wide range of nonspecific clinical signs and symptoms of TD. The diagnosis is also challenging due to the lack of a definitive serum total testosterone level that reliably correlates with symptoms. This observation is particularly true in the aging male and is exacerbated by inconsistencies between different laboratory assays. Several prominent medical societies have developed guideline statements to clarify the diagnosis, but the",
+        "journal": "Asian journal of andrology",
+        "year": "2015",
+        "authors": [
+          "McBride James A",
+          "Carson Culley C",
+          "Coward Robert M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Aging",
+          "Cardiovascular Diseases",
+          "Comorbidity",
+          "Diagnostic Tests, Routine",
+          "Disease Management",
+          "Erectile Dysfunction",
+          "Eunuchism",
+          "Hormone Replacement Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25532575/"
+      },
+      {
+        "pmid": "38146670",
+        "title": "The testis, eunuchs, and testosterone: a historical review over the ages and around the world.",
+        "abstract": "Testosterone therapy for men with testosterone deficiency is widely used, yet remains controversial. The rich and fascinating history of the testicles, including human castration, provides a valuable perspective on this important topic.",
+        "journal": "Sexual medicine reviews",
+        "year": "2024",
+        "authors": [
+          "Morgentaler Abraham",
+          "Hanafy Han M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Male",
+          "Testis",
+          "Testosterone",
+          "Orchiectomy",
+          "Sexual Behavior",
+          "China"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146670/"
+      },
+      {
+        "pmid": "25652628",
+        "title": "Controversies in testosterone replacement therapy: testosterone and cardiovascular disease.",
+        "abstract": "The role of testosterone in the cardiovascular (CV) health of men is controversial. Data suggest that both the condition and treatment of clinical hypogonadism is associated with decreased CV mortality; however, two recent studies suggest that hypogonadal subjects treated with testosterone replacement therapy have a higher incidence of new CV events. There has been increased media attention concerning the risk of CV disease in men treated with testosterone. Until date, there are no long-term prospective studies to determine safety. Literature spanning over the past 30 years has suggested that not only is there a possible increased CV risk in men with low levels of testosterone, but the benefits from testosterone therapy may even lower this risk. We review here the recent studies that have garnered such intense scrutiny. This article is intended as a thorough review of testosterone levels and CV risk, providing the clinician with the facts needed to make informed clinical decisions in m",
+        "journal": "Asian journal of andrology",
+        "year": "2015",
+        "authors": [
+          "Hwang Kathleen",
+          "Miner Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Cardiovascular Diseases",
+          "Eunuchism",
+          "Follow-Up Studies",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Incidence",
+          "Male",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25652628/"
+      },
+      {
+        "pmid": "26433309",
+        "title": "[Testosterone deficiency, metabolic syndrome and diabetes mellitus].",
+        "abstract": "Testosterone deficiency in adult age is associated with a decrease in libido, energy, hematocrit, muscle mass and bone mineral density, as well as with depression. More recently, testosterone deficiency has also been associated with various components of the metabolic syndrome, which in turn is associated with a five-fold increase in the risk of cardiovascular disease. Low testosterone levels are associated with increased insulin resistance, increase in fat mass, low HDL cholesterol, higher triglyceride levels and hypertension. Testosterone replacement therapy in patients with testosterone deficiency and type 2 diabetes mellitus and/or metabolic syndrome has shown reductions in insulin resistance, total cholesterol, LDL cholesterol and triglycerides and improvement in glycemic control and anthropometric parameters.",
+        "journal": "Medicina clinica",
+        "year": "2016",
+        "authors": [
+          "Fernández-Miró Mercè",
+          "Chillarón Juan J",
+          "Pedro-Botet Juan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adiposity",
+          "Aging",
+          "Cardiovascular Diseases",
+          "Diabetes Mellitus",
+          "Disease Susceptibility",
+          "Early Diagnosis",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hyperlipidemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26433309/"
+      },
+      {
+        "pmid": "32056383",
+        "title": "Late-onset hypogonadism: Prostate safety.",
+        "abstract": "There have always been concerns regarding testosterone replacement therapy and prostate safety because of the central role of testosterone in prostate tissue. Even though there is a body of evidence supporting that the benefits of testosterone replacement therapy outbalance the risks of prostate disease, this matter is still debatable and represents a common concern among testosterone prescribers.",
+        "journal": "Andrology",
+        "year": "2020",
+        "authors": [
+          "Miranda Eduardo P",
+          "Torres Luiz Otávio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biomarkers",
+          "Clinical Decision-Making",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Male",
+          "Prognosis",
+          "Prostate",
+          "Prostatic Hyperplasia",
+          "Prostatic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32056383/"
+      },
+      {
+        "pmid": "32969626",
+        "title": "Subclinical male hypogonadism.",
+        "abstract": "The concept of subclinical or compensated male hypogonadism (SHG), characterized by increased gonadotropins and normal testosterone levels is emerging. However, its real clinical significance is still conflicting. The aim of the present study was to summarize and discuss the available evidence related to the possible definition of SHG and the possible advantages of testosterone replacement therapy (TRT).",
+        "journal": "Minerva endocrinology",
+        "year": "2021",
+        "authors": [
+          "Corona Giovanni",
+          "Rastrelli Giulia",
+          "Dicuio Mauro",
+          "Concetti Sergio",
+          "Minnetti Marianna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cross-Sectional Studies",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32969626/"
+      },
+      {
+        "pmid": "34260411",
+        "title": "Functional hypogonadism in middle-aged and older men: testosterone treatment or not?",
+        "abstract": "Clinicians commonly encounter middle-aged and older men who present with functional hypogonadism, that is, with clinical features compatible with androgen deficiency and lowered serum testosterone, but without evidence of organic hypothalamic-pituitary-testicular axis pathology. Whether, and when, testosterone therapy should be offered to such men remains uncertain and controversial, in part due to the lack of definitive evidence regarding long-term patient-important health outcomes with testosterone treatment. In this debate, we address this controversy and provide two opposing points of view on the role of testosterone treatment in older men with functional hypogonadism.",
+        "journal": "European journal of endocrinology",
+        "year": "2021",
+        "authors": [
+          "Grossmann Mathis",
+          "Jones Thomas Hugh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Testosterone",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34260411/"
+      },
+      {
+        "pmid": "24268958",
+        "title": "[Plasma testosterone, obesity, metabolic syndrome and diabetes].",
+        "abstract": "The frequency of diabetes and/or metabolic syndrome rises concurrently with that of body mass index (BMI). In adult men, plasma testosterone level changes evolve inversely to that of BMI. Plasma total testosterone, sex hormone-binding globulin (SHBG) and free testosterone are significantly lower in adult men with a clinical and biological pattern of metabolic syndrome (MetS) than in those without such a pattern. After adjustment for confounding factors, diabetes type 2 (DT2) remains associated with a significant decrease of plasma testosterone level. The androgenic blockade, used as a treatment for disseminated prostate cancer, induces a metabolic pattern similar to MetS. In men older than 65 years, a decrease of plasma testosterone level is associated with an increased risk of stroke or of death linked to a cardiovascular event. After exclusion of contraindications, the substitution with androgens of a demonstrated hypogonadism in a obese patient, notably when obesity is associated wi",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "2014",
+        "authors": [
+          "Prévost Gaëtan",
+          "Eas Florence",
+          "Kuhn Jean-Marc"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Diabetes Mellitus, Type 2",
+          "Eunuchism",
+          "Humans",
+          "Male",
+          "Metabolic Syndrome",
+          "Obesity",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24268958/"
+      },
+      {
+        "pmid": "33375244",
+        "title": "Cordyceps militaris Fruit Body Extract Decreases Testosterone Catabolism and Testosterone-Stimulated Prostate Hypertrophy.",
+        "abstract": "The androgens testosterone and dihydrotestosterone (DHT) are essential for a variety of systemic functions in mature males. Alteration of these hormones results in late-onset hypogonadism (LOH) and benign prostate hyperplasia (BPH). The fruit bodies of fungi of the genus Cordyceps have been regarded as folk medicine or health food with tonic and antifatigue effects. The extract from the fruit body of Cordyceps militaris parasitizing Samia cynthia ricini (CM) was evaluated as a novel-candidate natural product for ameliorating male andropause symptoms. To explore the effects of CM on LOH and BPH, CM was applied to rat models and cultured testicular cells and prostate cells. The concentrations of androgens in the serum and culture media were determined by ELISA. Expression of steroidogenic enzymes and androgen-related genes was evaluated by qPCR, and prostatic cell proliferation was assessed with the cell-viability assay. CM maintained the serum levels of testosterone and DHT, but inhibit",
+        "journal": "Nutrients",
+        "year": "2020",
+        "authors": [
+          "Kusama Kazuya",
+          "Miyagawa Mayuko",
+          "Ota Koichiro",
+          "Kuwabara Naoko",
+          "Saeki Kaori"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amino Acids",
+          "Animals",
+          "Cells, Cultured",
+          "Cordyceps",
+          "Culture Media, Conditioned",
+          "Dihydrotestosterone",
+          "Eunuchism",
+          "Fruiting Bodies, Fungal",
+          "Male",
+          "Orchiectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33375244/"
+      },
+      {
+        "pmid": "26927833",
+        "title": "The effect of testosterone treatment on prostate histology and apoptosis in men with late-onset hypogonadism.",
+        "abstract": "To investigate the effect of testosterone replacement therapy (TRT) on prostate histology and apoptosis in men with late-onset hypogonadism (LOH).",
+        "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+        "year": "2016",
+        "authors": [
+          "Efesoy Ozan",
+          "Apa Duygu",
+          "Tek Mesut",
+          "Çayan Selahittin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Apoptosis",
+          "Biopsy",
+          "Eunuchism",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Prostate",
+          "Prostate-Specific Antigen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26927833/"
+      },
+      {
+        "pmid": "32469467",
+        "title": "Late-onset Hypogonadism: Bone health.",
+        "abstract": "Bone health is underdiagnosed and undermanaged in men. Bone loss occurs in men with hypogonadism and in aging men. Thus, patients with a diagnosis of late-onset hypogonadism (LOH) are at risk of osteoporosis and osteoporotic fractures.",
+        "journal": "Andrology",
+        "year": "2020",
+        "authors": [
+          "Rochira Vincenzo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age of Onset",
+          "Animals",
+          "Biomarkers",
+          "Bone Density",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Male",
+          "Osteoporosis",
+          "Osteoporotic Fractures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32469467/"
+      },
+      {
+        "pmid": "28409902",
+        "title": "Testosterone level and endothelial dysfunction in patients with vasculogenic erectile dysfunction.",
+        "abstract": "The association between endothelial dysfunction and late onset hypogonadism (LOH) in patients with vasculogenic erectile dysfunction (ED) is not yet well settled. Our objective was to assess the association between LOH and endothelial dysfunction in patients with vasculogenic ED. Throughout 2014-2015 a total of 90 men were enrolled in this cross-sectional observational study. Of them 60 patients with a clinical diagnosis of ED were further subdivided into two equal groups: patients with vasculogenic ED and LOH (A); patients with vasculogenic ED and euogonadal (B). Thirty age-matched men with no ED or hypogonadism were enrolled as control group (C). All patients were subjected to detailed medical and sexual history, total testosterone (TT), calculated free (FT) and bioavailable testosterone (BT), flow cytometric evaluation for endothelial progenitor cells (EPCs) (CD45negative/CD34positive/CD144positive) and endothelial microparticles (EMPs) (CD45negative/CD144positive/annexin V positive",
+        "journal": "Andrology",
+        "year": "2017",
+        "authors": [
+          "Omar Y A",
+          "Younis S E",
+          "Ismail I Y",
+          "El-Sakka A I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cross-Sectional Studies",
+          "Endothelial Cells",
+          "Endothelial Progenitor Cells",
+          "Endothelium, Vascular",
+          "Eunuchism",
+          "Flow Cytometry",
+          "Humans",
+          "Impotence, Vasculogenic",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28409902/"
+      },
+      {
+        "pmid": "28249799",
+        "title": "European Association of Urology Position Statement on the Role of the Urologist in the Management of Male Hypogonadism and Testosterone Therapy.",
+        "abstract": "Testosterone is a crucial sex hormone important for the health and development of men of all ages. It plays a role in the integrity and maintaining the function of several systems and organs. Testosterone deficiency is linked to a number of signs and symptoms potentially affecting every man in his complexity and masculinity, and is therefore of strong urological interest. For this reason, urologists should attach importance to the need for knowledge, vocational education, and training in this specific area.",
+        "journal": "European urology",
+        "year": "2017",
+        "authors": [
+          "Mirone Vincenzo",
+          "Debruyne Frans",
+          "Dohle Gert",
+          "Salonia Andrea",
+          "Sofikitis Nikolaos"
+        ],
+        "pub_types": [
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Consensus",
+          "Drug Monitoring",
+          "Erectile Dysfunction",
+          "Eunuchism",
+          "Hormone Replacement Therapy",
+          "Libido",
+          "Lower Urinary Tract Symptoms",
+          "Professional Role"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28249799/"
+      },
+      {
+        "pmid": "24404752",
+        "title": "Comparison of testosterone fractions between Framingham Heart Study participants and Japanese participants.",
+        "abstract": "To determine testosterone fractions in Japanese men and to compare these values with those of Framingham Heart Study participants.",
+        "journal": "International journal of urology : official journal of the Japanese Urological Association",
+        "year": "2014",
+        "authors": [
+          "Taya Masaki",
+          "Koh Eitetsu",
+          "Izumi Kouji",
+          "Iijima Masashi",
+          "Maeda Yuji"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Distribution",
+          "Age of Onset",
+          "Aged",
+          "Aged, 80 and over",
+          "Asian People",
+          "Cohort Studies",
+          "Dehydroepiandrosterone",
+          "Dihydrotestosterone",
+          "Eunuchism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24404752/"
+      },
+      {
+        "pmid": "5408621",
+        "title": "[An XY eunuchism syndrome with preserved spermatogenesis and normal secretion of FSH, ICSH and testosterone. Preliminary report].",
+        "abstract": "",
+        "journal": "Revista iberica de endocrinologia",
+        "year": "1969",
+        "authors": [
+          "Del Pozo E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Biopsy",
+          "Eunuchism",
+          "Follicle Stimulating Hormone",
+          "Luteinizing Hormone",
+          "Male",
+          "Pituitary Gland",
+          "Testis",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5408621/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:26:36.643741",
+  "success": true,
+  "error_message": null
+}

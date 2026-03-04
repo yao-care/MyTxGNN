@@ -1,0 +1,932 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "bipolar disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00159796",
+      "title": "A Phase III, Randomized, Placebo-Controlled, Double-Blind Trial Evaluating the Safety and Efficacy of Sublingual Asenapine vs. Olanzapine and Placebo in In-Patients With an Acute Manic Episode Clinical Trial Protocol 7501005 (Secondary Title: ARES)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12-14",
+      "completion_date": "2006-04-28",
+      "country": "N/A",
+      "enrollment": 489,
+      "brief_summary": "Bipolar disorder is characterized by mood swings that range from high (manic) to low (depressed) states. Sometimes, symptoms of both depression and mania are present (mixed episodes). Asenapine is an investigational medication for the treatment of manic or mixed episodes of bipolar disorder. This is a 3-week study that will test the safety and efficacy of this medication. Participants will receive either asenapine, olanzapine (a medication that is already approved for the treatment of bipolar ma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a Diagnostic and Statistical Manual of Mental Disorders, 4th Edition (DSM-IV) diagnosis of bipolar I disorder, current episode manic or mixed.\n\nExclusion Criteria:\n\n* Participants with unstable medical conditions or clinically significant laboratory abnormalities or parti",
+      "endpoints": [
+        "Change from Baseline to Day 21 on the Young Mania Rating Scale (YMRS) Total Score"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00159796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01625923",
+      "title": "A Pilot Study on the Efficacy and Safety of Olanzapine in Improving Symptoms and Gastric Motility in Gastroparesis",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2013-01",
+      "completion_date": "2019-06",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Gastroparesis is a disorder characterized by impaired gastric emptying in the absence of obstruction in the proximal GI tract. It is a common condition affecting up to 5 million persons in the United States alone. Despite this, metoclopramide is currently the only FDA approved medication for the treatment of gastroparesis. However, the evidence supporting metoclopramide in gastroparesis is fairly weak and was recently issued a black box warning because of potential irreversible side effects. The",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between 18 and 70 years of age\n* Must have a \\> or = 6 month history of relevant symptoms of gastroparesis, (e.g., chronic post-prandial fullness, early satiety, postprandial nausea), patients will have a mean of the daily scores over a minimum of 7 days indicat",
+      "endpoints": [
+        "Change in Mean BMI",
+        "Mean GCSI-DD Before/After Treatment With Olanzapine",
+        "Change in Mean Serum Glucose"
+      ],
+      "sponsor": "University of Michigan",
+      "url": "https://clinicaltrials.gov/study/NCT01625923"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03818256",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety, Efficacy, and Pharmacokinetics of Miricorilant (CORT118335) in Obese Adult Patients With Schizophrenia or Bipolar Disorder and Recent Weight Gain While Taking Antipsychotic Medications (GRATITUDE)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-12-04",
+      "completion_date": "2022-07-06",
+      "country": "United States",
+      "enrollment": 71,
+      "brief_summary": "This phase 2, double blind, placebo-controlled, randomized study is to assess the safety, efficacy, and pharmacokinetics (PK) of miricorilant (CORT118335) in obese adults with schizophrenia or bipolar disorder treated with antipsychotic medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a diagnosis of schizophrenia or bipolar disorder\n* Are currently taking oral or injectable atypical antipsychotic medication (except clozapine) and must have documented weight gain while on these medications\n* Must be on a stable dose of medication for 1 month prior to Sc",
+      "endpoints": [
+        "Change From Baseline in Body Weight at Week 12 for 600 mg Miricorilant Versus Placebo",
+        "Number of Patients With One or More Treatment-emergent Adverse Events",
+        "Number of Patients With One or More Treatment-emergent Serious Adverse Events"
+      ],
+      "sponsor": "Corcept Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03818256"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00490971",
+      "title": "A Randomized, Double-Blind, Active- and Placebo-controlled, Parallel-group, Multicenter Study to Evaluate the Efficacy and Safety of Extended-Release Paliperidone as Maintenance Treatment After an Acute Manic or Mixed Episode Associated With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2010-04",
+      "country": "Bulgaria, France, South Africa, Panama, India, Russia, Turkey (Türkiye), Serbia, Ukraine, Germany, China, Costa Rica, Malaysia, Poland, Romania, United States",
+      "enrollment": 768,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness and safety of oral extended-release (ER) paliperidone compared with placebo in the prevention of the recurrence of mood symptoms in patients with Bipolar I Disorder who initially respond to treatment of an acute manic or mixed episode with paliperidone ER. Olanzapine was included as an active control arm, although the study is not designed to allow for a direct comparison of olanzapine with paliperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, 4th Edition) criteria for Bipolar I Disorder Most Recent Episode Manic or Mixed (with or without psychotic features)\n* have a history of at least 2 previously documented mood episodes associated with Bipolar I",
+      "endpoints": [
+        "Time to Recurrence of Any Mood Symptoms (Manic or Depressive) Associated With Bipolar I Disorder"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00490971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02582736",
+      "title": "Atypical Antipsychotics and Hyperglycemic Emergencies: Multicentre, Retrospective Cohort Study of Administrative Data",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2012-12",
+      "country": "Canada",
+      "enrollment": 725489,
+      "brief_summary": "The purpose of this study is to determine whether the use of atypical antipsychotic medication increases the risk of hospitalization for a hyperglycemic emergency.\n\nThe investigators will carry out separate population-based cohort studies using administrative health databases in eight jurisdictions in Canada and the UK. Cohort entry will be defined by the initiation of a new antipsychotic medication. Follow-up will continue until hospitalization for a hyperglycemic emergency or the end of 365 da",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a with a first-time prescription for an antipsychotic medication\n* Patients at least 18 years of age at cohort entry (except Alberta, Ontario, and Nova Scotia, where patients will be a least 66 years of age)\n* Patients with at least 1 year of history in the datab",
+      "endpoints": [
+        "Hospitalization for a hyperglycemic emergency"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02582736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03187769",
+      "title": "A Study to Evaluate the Effect of ALKS 3831 Compared to Olanzapine on Body Weight in Young Adults With Schizophrenia, Schizophreniform, or Bipolar I Disorder Who Are Early in Their Illness",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-08",
+      "completion_date": "2022-01-03",
+      "country": "Israel, South Korea, Spain, Russia, Austria, Italy, Ukraine, Germany, Ireland, United Kingdom, Poland, United States",
+      "enrollment": 426,
+      "brief_summary": "This study will evaluate the effect of ALKS 3831 compared to olanzapine on body weight in young adults with schizophrenia, schizophreniform, or bipolar I disorder who are early in their illness",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has less than 24 weeks previous treatment with antipsychotics (cumulative; lifetime)\n\n  * Subject treated with aripiprazole can receive an additional 1 year of treatment at ≤5 mg/day, and this treatment will not be considered as part of the 24 weeks of previous treatment with ",
+      "endpoints": [
+        "Percent Change From Baseline in Body Weight at Week 12"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03187769"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04987229",
+      "title": "Long-term, Safety Extension Study of OLZ/SAM in Pediatric Subjects With Schizophrenia or Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2021-10-22",
+      "completion_date": "2027-09",
+      "country": "Brazil, Mexico, Colombia, Argentina, United States",
+      "enrollment": 236,
+      "brief_summary": "To evaluate the long-term safety and tolerability of OLZ/SAM in pediatric subjects with schizophrenia or Bipolar I disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has completed the treatment period in either the ALKS 3831-A311 or the ALKS 3831-A312 study within 10 days of enrolling into this extension study, or subject had terminated early from Study ALKS 3831-A312 due to the clinically significant weight gain criterion.\n* Subje",
+      "endpoints": [
+        "Incidence of adverse events"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04987229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00520507",
+      "title": "An Investigation of the Sleep Architecture and Consequent Cognitive Changes in Olanzapine-Treated Depressed Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2009-05",
+      "country": "Canada",
+      "enrollment": 27,
+      "brief_summary": "OBJECTIVES:\n\nPrimary Objective:\n\nTo assess the objective (polysomnographic) changes in sleep quality before and after introduction of olanzapine in treatment of patients with depression.\n\nSecondary Objectives:\n\nTo assess the subjective changes in sleep quality parameters before and at different stages after introduction of olanzapine in treatment, longitudinally, and to correlate these changes with measures of illness severity and changes in cognition.\n\nSTUDY DESIGN:\n\nProspective, double blind, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A diagnosis of major depressive disorder or bipolar disorder type 1, 2 or NOS by Diagnostic and Statistical Manual of Mental Disorders- Fourth Edition (DSM-IV)\n2. Current depressive episode with a HAMD-17 of \\> 15\n3. Males or females over age18 years (yrs)\n4. Inpatients or ou",
+      "endpoints": [
+        "Sleep quality as measured by overnight PSG, defined as the change in time spent in slow wave sleep."
+      ],
+      "sponsor": "Queen's University",
+      "url": "https://clinicaltrials.gov/study/NCT00520507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02562287",
+      "title": "A Randomized Controlled Trial to Evaluate the Effectiveness of Clozapine Versus Olanzapine, Quetiapine or Risperidone in Treatment Resistant Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-10",
+      "completion_date": "2020-12",
+      "country": "Brazil",
+      "enrollment": 54,
+      "brief_summary": "The clinical use of clozapine has been an unequivocal advance in the treatment of schizophrenia, a chronic and severe mental illness. A wealth of clinical data demonstrates it offers enhanced efficacy on both positive and negative symptomatology, improving cognition, functioning and quality of life. It is also associated with improved compliance and a continued efficacy in long-term treatment that can be translated into a reduction of suicidality and all-cause mortality. Because of preclinical e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV Bipolar I Disorder;\n* having had a mood episode within the preceding year; DSM-IV rapid cyclers will be permitted to participate in this study;\n* males or females between 18 and 65 years of age;\n* ongoing illness symptoms including significant functional impairment;\n* d",
+      "endpoints": [
+        "Functioning according to Functioning Assessment Short-Test"
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT02562287"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03651674",
+      "title": "Longitudinal Effect of Electroconvulsive Therapy on Schizophrenia and Bipolar Disorder: a MRI Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-20",
+      "completion_date": "2020-04-01",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "For more severe and treatment-resistant cases in schizophrenia and bipolar disorder, electroconvulsive therapy (ECT) is often very effective. The purpose of this study is to investigate the brain structure and function changes after ECT treatment. The neuroimaging marker which may predict the outcome of ECT is also studied in this research.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* International classification of diseases (ICD) diagnosis of Schizophrenia and bipolar disorder;\n* Ages 15-70\n* All participants are ethnic Han\n* Not received ECT treatment before\n* PANSS ≥ 60 for schizophrenia subjects\n* The patient's written informed consent can be obtained. ",
+      "endpoints": [
+        "Changes of Positive And Negative Syndrome Scale(PANSS)for Schizophrenia;",
+        "Change of Bech-Rafaelsen Mania Rating Scale (BRMS) for Bipolar disorder",
+        "Change of Hamilton Anxiety Scale (HAMA) for Bipolar disorder"
+      ],
+      "sponsor": "Xidian University",
+      "url": "https://clinicaltrials.gov/study/NCT03651674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00402324",
+      "title": "A Double-Blind Placebo Controlled Trial of Divalproex and Olanzapine in Bipolar I Disorder, Mixed Episode",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 202,
+      "brief_summary": "Whether treatment with olanzapine in combination with mood stabilizer reduces symptoms of both mania and depression more than treatment with mood stabilizer alone, in patients with a mixed episode of bipolar I disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with a mixed episode of bipolar I disorder.\n* Have had at least one previous manic or mixed episode associated with bipolar disorder\n* You must be between 18 and 60 years old.\n* You must be able to visit the doctor's office three times in the first week and then once",
+      "endpoints": [
+        "Mean Change in Young Mania Rating Scale (YMRS) Scores From Baseline to Endpoint.",
+        "Mean Change in Hamilton Depression Rating Scale-21 (HAMD) Scores From Baseline to Endpoint."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00402324"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00143182",
+      "title": "A Double-Blind, 9-Week Extension Study Evaluating the Safety and Maintenance of Effect of Asenapine vs. Olanzapine in the Treatment of Subjects With Acute Mania Clinical Trial Protocol A7501006 (Secondary Title: ARES)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01-07",
+      "completion_date": "2006-06-28",
+      "country": "N/A",
+      "enrollment": 504,
+      "brief_summary": "Bipolar disorder is characterized by mood swings that range from high (manic) to low (depressed) states. Sometimes, symptoms of both depression and mania are present (mixed episodes). Asenapine is an investigational medication for the treatment of manic or mixed episodes of bipolar disorder. Patients who completed the 3 week trial (A7601004 or A7501005) continued on the same treatment that they received in the short term study: asenapine or olanzapine (a medication already approved for the treat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have completed an asenapine 3-week study for the treatment of an acute manic or mixed episode and not had a major protocol violation.in the short term study (A7501004 or A7501005) that they completed.\n\nExclusion Criteria:\n\n* Patients with unstable medical conditions or clinica",
+      "endpoints": [
+        "Maintenance of the effect (Asenapine comparable to olanzapine in terms of the reduction of symptoms achieved in the short term (ie. 3 week studies [A7501004 or A7501005]) as measured on the Young Mania Rating Scale"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00143182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02287259",
+      "title": "A Randomized, Open Label Trial of Olanzapine Versus Lithium in the Treatment of Acute Depression in Patients With Bipolar II or Bipolar Not Otherwise Specified.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2019-03-31",
+      "country": "Japan",
+      "enrollment": 50,
+      "brief_summary": "Determine the efficacy and tolerability of olanzapine for treatment of acute depression in patients with bipolar II or bipolar disorder NOS compared with lithium.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* major depressive episode in type2 bipolar disorder or bipolar disorder NOS.(MADRS more than 20 point)\n* 18years to 65years\n* subjects who sign the informed consent document\n\nExclusion Criteria:\n\n* don't have Diabetes and abnormal metabolism of sugar\n* not noticed as bipolar di",
+      "endpoints": [
+        "Change in Montgomery- Åsberg Depression Rating(MADRS)"
+      ],
+      "sponsor": "Chiba University",
+      "url": "https://clinicaltrials.gov/study/NCT02287259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00618748",
+      "title": "Safety and Efficacy of Olanzapine (LY170053) in the Long-term Treatment for Patients With Bipolar I Disorder, Depressed",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2010-09",
+      "country": "Japan",
+      "enrollment": 101,
+      "brief_summary": "To assess the efficacy and safety of olanzapine in the long-term treatment for patients with bipolar I disorder, depressed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must be aged 18 to less than 75 years.\n2. Each patient must be reliable, have a level of understanding sufficient to perform all tests and examinations required by the protocol, and must understand the nature of the study and have provided informed consent.\n3. All fe",
+      "endpoints": [
+        "Percentage of Participants With Adverse Events Leading to Discontinuation"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00618748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00682448",
+      "title": "Metformin to Prevent the Metabolic Complications of Olanzapine",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "We hypothesize that metformin co-administered with olanzapine will be well tolerated and associated with significantly less insulin resistance, weight gain and dyslipidemia as compared to olanzapine plus placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of: Schizophrenia, Schizoaffective Disorder, Bipolar I or II or major depression with psychotic features who will be started on or who have just started taking Olanzapine (Zyprexa).\n\nExclusion Criteria:\n\n* Patients with either a history of diabetes mellitus or a base",
+      "endpoints": [
+        "Weight Gain"
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00682448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01282632",
+      "title": "A Double Blind Pilot Trial to Evaluate Efficacy Trends and Safety of Risperidone and Olanzapine as add-on Therapy to Serotonin Type Antidepressants in Subjects With Treatment Resistant Depression (TRD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "2004-03",
+      "country": "Canada",
+      "enrollment": 42,
+      "brief_summary": "Atypical neuroleptics may have antidepressant qualities in bipolar depression and in unipolar depression. Some data support the use of both Risperidone and Olanzapine, but there are no direct comparisons of their relative efficacy and tolerability in treatment resistant depression. The current study was designed as a pilot study to examine efficacy and tolerability of Olanzapine vs. Risperidone add on to a failed serotonin re-uptake inhibitor (SSRI) in depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects who meet all of the following criteria are eligible for this trial:\n\n1. Male or female out-patients;\n2. Aged between 18 and 65 years (extremes included);\n3. Subjects suffering from a current episode of non-psychotic, unipolar depression as determined by the depression s",
+      "endpoints": [
+        "Change from Baseline in Hamilton Depression Rating Scale at 1 week",
+        "Change from Baseline in Montgomery Asberg Depression Scale (MADRS)at 1 week",
+        "Change from baseline Hamilton Rating Scale for Anxiety (HAM-A) at 1 week"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT01282632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00044187",
+      "title": "The Assessment of a Anti-Obesity Agent for the Treatment of Olanzapine-Associated Weight Gain in Patients With Schizophrenia, Schizophreniform Disorder, Schizoaffective Disorder and Bipolar I Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-04",
+      "completion_date": "2003-09",
+      "country": "United States",
+      "enrollment": 130,
+      "brief_summary": "Olanzapine is currently marketed for the treatment of schizophrenia and acute manic episodes with bipolar 1 disorder. This Anti-obesity Agent is currently marketed for the management of obesity. In this study, the Anti-obesity Agent is being tested to see if it can treat weight gain that may be associated with taking olanzapine.\n\nThe purposes of this study are to determine the safety of olanzapine when given in combination with the Anti-obesity Agent and any side effects that might be associated",
+      "eligibility_criteria": "Eligibility Criteria:\n\n* You must be between the ages of 18 and 65. If you have reached your 66th birthday, you will not be able to participate.\n* You must have been diagnosed with schizophrenia, schizoaffective disorder, schizophreniform disorder, or bipolar I disorder and be taking olanzapine.\n* Y",
+      "endpoints": [],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00044187"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00177164",
+      "title": "A Random Assignment,Parallel Group, Open Label Comparison of Clinical Outcomes and Resource Utilization Among Bipolar Disorder Patients Receiving Either Long Acting Injectable Risperidone Microspheres (Risperdal Consta® ) or Other Second Generation Oral Antipsychotic Agents: A 15 Month Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "We recruited 50 consenting adult subjects with DSM-IV TR diagnoses of bipolar disorder who were about to initiate or switch their current antipsychotic agent. Only 48 patients (23 in the risperidone LAI group and 25 in the oral AAP group) contributed data to the assessments. Patients were titrated and cross-tapered during a 3 month titration and stabilization phase. They were followed for an additional 12 months. Clinical outcomes such as study drop out, adverse events, worsening of symptoms, cr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV - TR diagnoses of bipolar disorder (I or II or NOS).\n* Age 18 to 70 years\n* Men or women\n* Any Ethnicity\n* Currently receiving or willing to receive treatment at sites associated with the Western Psychiatric Institute and Clinic -University of Pittsburgh Medical Center ",
+      "endpoints": [
+        "Evaluate the Number of Clinical Events (Pooled) Occurring Between 3-15 Months Following a Switch/Stabilization of the Antipsychotic Agents Among Patients Who Receive Either Risperidal Consta or One of the 4 Marketed 2nd Generation Antipsychotic Agents."
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00177164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01977300",
+      "title": "Atypical Antipsychotics for Continuation and Maintenance Treatment After an Acute Manic Episode",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2011-08",
+      "country": "Canada",
+      "enrollment": 159,
+      "brief_summary": "Hypothesis: Continuation of an atypical antipsychotic medication in combination with a Mood Stabilizer, following remission from an acute manic episode, lowers the rates of relapse and recurrence of mood episodes compared to discontinuing the antipsychotics within days of resolution of manic symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who were recently (within the last 12 weeks) commenced on treatment for a Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) manic or mixed episode with a combination of lithium and risperidone, lithium and olanzapine, valproate and risperidone, or valproa",
+      "endpoints": [
+        "The primary outcome measure is the time to any mood episode (depressive or manic episode)."
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01977300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01000402",
+      "title": "Assessment and Follow Up Study of Children and Adolescent With Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-02",
+      "completion_date": "2014-11",
+      "country": "Brazil",
+      "enrollment": 150,
+      "brief_summary": "This is an outpatient program for children and adolescents with bipolar disorders. The naturalistic approach of the program will allow a proper investigation of the disorder, assessment of environmental and biological factors, the conduction of treatment studies, and follow-up of the subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6-18 years-old;\n* Bipolar Disorder I, II or NOS\n* Severe Mood Dysregulation\n\nExclusion Criteria:\n\n* Schizophrenia\n* Pervasive Developmental Disorder\n* Drug use disorder\n* Severe suicidal or homicidal risk, counterindicating outpatient treatment",
+      "endpoints": [
+        "Changes in manic and depressive symptoms over time using YMRS, CMRS-P, CDRS, and CDI",
+        "Polymorphisms at candidate genes for Bipolar Disorder and Attention-Deficit/Hyperactivity Disorder"
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT01000402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00667745",
+      "title": "Lithium Use for Bipolar Disorder (LiTMUS): A Randomized Controlled Effectiveness Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 283,
+      "brief_summary": "This study evaluated whether lithium included as part of optimized medication treatment improved overall level of illness, symptoms of mania and depression, and quality of life in people with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV Criteria for bipolar disorder (type I or II)\n* Currently symptomatic, as defined as a Clinical Global Impressions Scale-Bipolar Version, Overall Severity Index (CGI-BP-S) of greater than or equal to 3\n* If taking or has taken lithium, must be off lithium for at le",
+      "endpoints": [
+        "Overall Change in Bipolar Illness Severity as Measured by Clinical Global Impression for Bipolar Disorder Severity (CGI-BP-S) Score",
+        "Number of Necessary Medication Adjustments"
+      ],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00667745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01786369",
+      "title": "Determination of Adherence in Patients Admitted to a Psychiatric Unit for Decompensated Psychosis: an Analysis of Serum Levels of Antipsychotics.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2015-04",
+      "country": "United States",
+      "enrollment": 106,
+      "brief_summary": "This is a screening study aimed at estimating the frequency of antipsychotic non-compliance in patients with a history of schizophrenia or other psychotic disorder admitted to an inpatient psychiatric unit. Levels of the antipsychotics risperidone, olanzapine, quetiapine, aripiprazole, and paliperidone will be drawn in patients presenting the emergency room who are acutely psychotic, require admission to an inpatient hospital, have a history of psychosis, and have previously been prescribed one ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older\n* Documented diagnosis of schizophrenia, schizoaffective disorder, or bipolar 1 disorder\n* Admitted to an inpatient psychiatric unit at Zucker Hillside Hospital for a psychotic decompensation.\n* Outpatient for at least one month prior to admission\n* On a regi",
+      "endpoints": [
+        "Serum concentration of risperidone/9-OH-risperidone/olanzapine/quetiapine/aripiprazole"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT01786369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00329108",
+      "title": "A Multicenter, Randomized, Double-Blind, Parallel Group Study, Comparing The Efficacy And Tolerability Of Ziprasidone (Zeldox, Geodon) vs. Olanzapine (Zyprexa) In The Treatment And Maintenance Of Response In Patients With Acute Mania",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2006-11",
+      "completion_date": "2008-01",
+      "country": "Spain, Turkey (Türkiye), Greece, Italy, Germany",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this study is to compare the efficacy and tolerability of ziprasidone versus olanzapine in the treatment of acute mania. An open label extension will further evaluate the efficacy, safety, and tolerability of ziprasidone compared with olanzapine. Study recruitment was stopped due to difficulty in enrolling the targeted number of patients on July 30, 2007. Subjects that were enrolled at the time completed the study as per protocol. There were no safety concerns involved in the deci",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a primary diagnosis of Bipolar I Disorder, current episode manic (DSM-IV 296.4x) or mixed (DSM-IV296.6x) as determined by a structured clinical interview (Mini International Neuropsychiatric Interview (MINI)) at screening.\n* A minimum score of 20 on the YMRS (Youngs Mania",
+      "endpoints": [
+        "Mean Reduction in Young Mania Rating Scale (YMRS) Score During the Double Blind Phase."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00329108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00272025",
+      "title": "Six Week Double Blind, Randomized Trial of Escitalopram Add On for Treatment Resistant Bipolar Depression",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2006-10",
+      "completion_date": "2010-01",
+      "country": "Canada",
+      "enrollment": 1,
+      "brief_summary": "To determine if adding Escitalopram to current mood stabilizer (MS) or atypical antipsychotic (AA) will improve in rates similar to or better than adding a placebo (inactive pill)in resistant bipolar patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 or older\n* Diagnosis of Bipolar Disorder and currently be in depressive state, and not responded to mood stabilizer or atypical antipsychotic alone or combined with an antidepressant medication.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n* History of seizure diso",
+      "endpoints": [
+        "To evaluate the response rates when Escitalopram vs. placeboes added to the current mood stabilizer or antipsychotic medication"
+      ],
+      "sponsor": "Queen's University",
+      "url": "https://clinicaltrials.gov/study/NCT00272025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03201757",
+      "title": "A Phase 3 Study to Assess the Long Term Safety, Tolerability, and Durability of Treatment Effect of ALKS 3831 in Subjects With Schizophrenia, Schizophreniform Disorder, or Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-15",
+      "completion_date": "2023-09-06",
+      "country": "Israel, Bulgaria, South Korea, Puerto Rico, Russia, Austria, Italy, Serbia, Ukraine, Ireland, United Kingdom, Poland, United States",
+      "enrollment": 523,
+      "brief_summary": "This study will evaluate the long-term safety, tolerability, and durability of treatment effect of ALKS 3831 in subjects with schizophrenia, schizophreniform disorder, or bipolar I disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing and able to give informed consent/assent as per local requirements\n* Agrees to use an acceptable method of contraception during the study, and for 30 days after any study drug administration, unless surgically sterile or post-menopausal\n* Has the potential to benefit f",
+      "endpoints": [
+        "Incidence of Adverse Events",
+        "Change From Baseline in Clinical Global Impression-Severity (CGI-S) Scale"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03201757"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00094549",
+      "title": "Olanzapine Versus Divalproex and Placebo in the Treatment of Mild to Moderate Mania Associated With Bipolar I Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2006-12",
+      "country": "Puerto Rico, Russia, Romania, Lithuania, United States",
+      "enrollment": 500,
+      "brief_summary": "The goals of this study are:\n\nA. To determine whether olanzapine can help patients with bipolar disorder who currently have mild to moderate mania.\n\nB. To assess the safety of olanzapine and any side effects that might be associated with it, as well as the quality of life and functioning of patients treated with olanzapine.\n\nC. To assess how olanzapine compares to divalproex.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* You must be 18 to 65 years old.\n* You must have a diagnosis of bipolar I disorder and must be experiencing a manic or mixed (symptoms of mania and depression occurring together) episode.\n* You must be able to visit the doctor's office as scheduled for 15 weeks.\n* All female pa",
+      "endpoints": [
+        "To test the superiority of olanzapine compared with divalproex in improving overall manic symptomatology in patients with mild to moderate",
+        "mania associated with bipolar I disorder, as measured by reductions on the Young Mania Rating Scale (YMRS) total score from baseline to the endpoint of Study Period II (3-week acute therapy phase)."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00094549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00205699",
+      "title": "Metabolic Effects of Antipsychotics in Children",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 144,
+      "brief_summary": "The project aims to describe and compare the outcome of 12 weeks of prospective, randomized treatment with olanzapine, risperidone or aripiprazole on insulin action in skeletal muscle, liver and adipose tissue, abdominal fat mass, total body and fat-free mass, efficacy for symptoms of aggression and non-metabolic adverse events. Children aged 6-18 will be studied, exploring effects of stimulant therapy and age-related differences in vulnerability to treatment-induced adverse metabolic changes. A",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 6-18 years\n* Generally healthy and a score of ≥ 18 on the Aberrant Behavior Checklist in the context of one or more Axis I Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) childhood psychiatric disorders, including conduct disorder, oppositio",
+      "endpoints": [
+        "Change in DEXA % Body Fat",
+        "Change in Insulin-stimulated Glucose Rate of Disappearance (Glucose Rd)"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00205699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02006862",
+      "title": "Olanzapine in Standard Clinical Practice. 6-month Efficacy and Safety Monitoring",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2014-12",
+      "country": "Greece",
+      "enrollment": 468,
+      "brief_summary": "This clinical observational study aims to investigate the efficacy of olanzapine (Villamos ®) in accordance with the instructions attached thereto in standard clinical practice, followed by the physician to the patient.\n\nThis is a multicenter, non- interventional observational study , 6-month period without preparing the patient to take the usual his medication . A total of 3 scheduled visits : Visit 1 to Day 0 ( integration , base ) , Visit 2 at month 3 and Visit 3 at month 6 ( = end of treatme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years and over\n\n  * Diagnosis of schizophrenia (DSM-IV-DR)\n  * Maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response .\n  * Treatment of moderate to severe manic episode .\n  * Patients whose manic episod",
+      "endpoints": [
+        "Change in scales' ratings to assess efficacy"
+      ],
+      "sponsor": "Elpen Pharmaceutical Co. Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02006862"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00183612",
+      "title": "Developmental Pharmacokinetics of Psychotropic Drugs: Olanzapine",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2000-05",
+      "completion_date": "2007-04",
+      "country": "United States",
+      "enrollment": 68,
+      "brief_summary": "This study will examine the safety and effectiveness of the antipsychotic drug olanzapine in children and adolescents with bipolar disorder or psychosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar disorder with mania, mixed mania, or psychosis not otherwise specified\n* Meet certain laboratory result requirements\n* Have taken either lithium or valproate for 4 weeks or longer with no or only partial response\n* Parent or guardian willing to provide inf",
+      "endpoints": [
+        "Olanzapine pharmacokinetics, safety, and effectiveness"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00183612"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00159783",
+      "title": "A Double-Blind, 40-Week Continuation Study Evaluating the Safety of Asenapine and Olanzapine in the Treatment of Subjects With Acute Mania Clinical Trial Protocol A7501007 (Secondary Title: ARES)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2007-04",
+      "country": "N/A",
+      "enrollment": 218,
+      "brief_summary": "Bipolar disorder is characterized by mood swings that range from from high (manic) to low (depressed) states. Sometimes, symptoms of both depression and mania are present (mixed episodes). Asenapine is an investigational medication for the treatment of manic or mixed episodes of bipolar disorder. Patients who completed study A7501006 (a 9 week extension study) could continue with the same treatment that they had been receiving: asenapine or olanzapine (a medication that is already approved for t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have completed asenapine 3-week and 9 -week studies for the treatment of an acute manic or mixed episode and not had any major protocol violations..\n\nExclusion Criteria:\n\n* Patients with unstable medical conditions or clinically significant laboratory\n\nabnormalities.",
+      "endpoints": [
+        "Participants Who Experienced Adverse Event(s)",
+        "Number of Participants With Abnormal Physical Examination Findings",
+        "Number of Participants With Abnormal Electrocardiogram"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00159783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00246246",
+      "title": "A Randomized, Open-label Trial of RISPERDAL® CONSTA™ Versus Oral Antipsychotic Care in Subjects With Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2006-04",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study is to determine the safety and effectiveness of a long-acting injectable formulation of risperidone in stable bipolar patients randomly switched from their current add-on oral antipsychotic (olanzapine, risperidone, or quetiapine) therapy to long-acting injectable risperidone. The patients switched to long-acting injectable risperidone will be compared to patients who continue on their oral antipsychotic treatment regimen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable outpatients meeting the DSM-IV criteria for Bipolar I or Bipolar II Disorder\n* YMRS score of \\<= 19, MADRS score \\<= 19 and the Clinical Global Impression - Severity of Illness subscale (CGI-S) score \\<= 4 at screening and baseline\n* Must be receiving stable doses of on",
+      "endpoints": [
+        "Changes in the Clinical Global Impression - Severity of Illness subscale (CGI-S) from baseline to endpoint, compared between treatment groups"
+      ],
+      "sponsor": "Janssen-Ortho Inc., Canada",
+      "url": "https://clinicaltrials.gov/study/NCT00246246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01495741",
+      "title": "An Observational Post-Authorization Safety Surveillance (PASS) Study of Sycrest® (Asenapine) Among Patients Aged 18 and Older Diagnosed With Bipolar Disorder",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-07-01",
+      "completion_date": "2017-12-18",
+      "country": "N/A",
+      "enrollment": 42,
+      "brief_summary": "This study will assess asenapine (Sycrest®) use in participants with bipolar disorder; comparison will be made to the use of risperidone (RISPERDAL®CONSTA®) and olanzapine (Zyprexa®). The occurrence of identified and potential clinically important risks will also be assessed.",
+      "eligibility_criteria": "Inclusion Criteria for the Bipolar Disease Cohort:\n\n* A diagnosis of Bipolar Disorder\n\nExclusion Criteria for the Bipolar Disease Cohort:\n\n* None\n\nInclusion Criteria for the potential Schizophrenia Cohort:\n\n* A diagnosis of schizophrenia\n\nExclusion Criteria for the potential Schizophrenia Cohort:\n\n*",
+      "endpoints": [
+        "Number of Participants with Bipolar Disorder with Identified and Potential Clinically Important Risks"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01495741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00202293",
+      "title": "Comparison of Combination Olanzapine and Lithium and Combination Chlorpromazine and Lithium in the Treatment of a First Manic Episode With Psychotic Features.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-10-01",
+      "completion_date": "2015-11-01",
+      "country": "Australia",
+      "enrollment": 83,
+      "brief_summary": "Aim: In a population of first episode manic patients with psychotic features, we want to compare the side effect profile, the degree of adherence and the subjective well being, as well as the efficacy of two treatments: The standard treatment currently applied (lithium + chlorpromazine) and an alternative treatment more recently introduced (lithium + olanzapine). In addition, we want to study retrospectively the development of bipolar disorder and study prospectively the 6 and 12-month outcome o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 15 to 29.\n* Experiencing a first episode psychosis.\n* Meet DSM-IV criteria for bipolar either manic or mixed episode, or schizoaffective disorder manic episode.\n* Minimum score of 20 on the YMRS\n* Written informed consent to participation.\n\nExclus",
+      "endpoints": [
+        "Intensity of side effects",
+        "¨The frequency of treatment-emergent adverse events (events that first appear or worsen during the study period) will be compared between both groups.",
+        "¨The frequency of side effects as rated with the UKU scale will be compared between both groups."
+      ],
+      "sponsor": "Melbourne Health",
+      "url": "https://clinicaltrials.gov/study/NCT00202293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00191399",
+      "title": "Bipolar Depression Assessment Study on Tx Response",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-05",
+      "completion_date": "2006-03",
+      "country": "Puerto Rico, United States",
+      "enrollment": 150,
+      "brief_summary": "The primary objective of this study is to assess the efficacy of olanzapine and fluoxetine combined on all the visits as compared with the baseline visit in patients with bipolar disorder, measured by the total score of the Montgomery-Asberg Depression Rating Scale (MADRS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet criteria for bipolar depression, in the opinion of the investigator, according to the Diagnostic and Statistical Manual of Mental Disorders \\[Text Revision\\] (DSM-IV-TR) disease diagnostic criteria.\n* Patients must have experienced, in the opinion of the investigator, at ",
+      "endpoints": [
+        "MADRS is a rating scale for severity of depressive mood symptoms."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00191399"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05669742",
+      "title": "Evaluating the Safety and Efficacy of Empagliflozin Addition in Modulating Metabolic Disturbances Associated With Olanzapine in Schizophrenia Patients.A Double-Blind, Randomized, Placebo-Controlled Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-05-25",
+      "completion_date": "2026-12",
+      "country": "Egypt",
+      "enrollment": 40,
+      "brief_summary": "Olanzapine is a thieno-benzodiazepine derivate that is effective managing the symptoms of schizophrenia and reducing the psychopathological symptoms of psychosis. It is also effective in controlling the acute manic episodes associated with bipolar disorder, and have provided some therapeutic advantages over other antipsychotic agents (Citrome et al., 2019).\n\nHowever, Ola administration has been reported to induce profound BWG accompanied with higher incidence of metabolic deficits, such as hyper",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSchizophrenia Patients treated with Olanzapine with ages ranging from 18 to 60 years.\n\nExclusion Criteria:\n\npatients who had any other inflammatory disease (cardiovascular, asthma, bone",
+      "endpoints": [
+        "Change in body weight and body mass index (BMI)"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT05669742"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00129220",
+      "title": "Placebo- and Haloperidol-Controlled Double-Blind Trial of Olanzapine in Patients With Manic or Mixed Episode of Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2009-01",
+      "country": "Japan",
+      "enrollment": 224,
+      "brief_summary": "The purpose of this study is to confirm the efficacy of olanzapine in the treatment of manic or mixed symptoms associated with bipolar I disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the criteria for manic or mixed episodes according to the Diagnostic and Statistical Manual of Mental Disorders Fourth Edition, Text Revision (DSM-IV-TR) and have a diagnosis of \"294.4x Bipolar I Disorder, Most Recent Episode Manic\" or \"296.6x Bipolar I Disorder, Most Rec",
+      "endpoints": [
+        "Change From Baseline to 3 Week Endpoint in Young Mania Rating Scale (YMRS) Total Score"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00129220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00303602",
+      "title": "BMI Evaluation: Placebo and Active Comparator Trial of Olanzapine Zydis Pills Used Sublingually (PLATYPUS)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2007-12",
+      "country": "Mexico, Puerto Rico, Netherlands, Canada, United States",
+      "enrollment": 149,
+      "brief_summary": "This study is testing if under the tongue olanzapine for schizophrenia, related psychosis, schizoaffective disorder or bipolar disorder will have less weight gain than olanzapine that is swallowed, in patients who are already gaining weight on olanzapine.",
+      "eligibility_criteria": "Inclusion Criteria (Patients must):\n\n* Be at least 18 years old\n* Have gained weight while taking olanzapine\n* Be able to visit the doctor's office seven times over 4 months (17 weeks)\n\nExclusion Criteria (Patients must NOT):\n\n* Have started a weight loss program within the last 8 weeks\n* Have an il",
+      "endpoints": [
+        "Time Course of Change From Baseline in Body Mass Index (BMI)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00303602"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07047651",
+      "title": "The Effectiveness and Efficacy of the Combination of Pharmacotherapy With the Two New Recovery-oriented Programs, RECOVERYTRSGR (Treatment Resistant Schizophrenia) and RECOVERYTRSBDGR (Treatment Resistant Bipolar Disorder)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-06-04",
+      "completion_date": "2027-12-20",
+      "country": "Greece",
+      "enrollment": 40,
+      "brief_summary": "The effectiveness and efficacy of the combination of pharmacotherapy with the two new recovery-oriented programs, RECOVERYTRSGR for patients with treatment- resistant schizophrenia and RECOVERYTRSBDGR for patients with treatment- resistant bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria: For patients with treatment resistant schizophrenia:\n\n* age 18-65\n* IQ ≥ 80\n* Diagnosis TRS.\n\nInclusion criteria for patients with treatment resistant bipolar disorder:\n\n* age 18-65\n* IQ ≥ 80\n* Diagnosis TRSBD.\n\nExclusion Criteria: For patients with treatment resistant schizophre",
+      "endpoints": [
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)",
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)",
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)"
+      ],
+      "sponsor": "Rakitzi, Stavroula",
+      "url": "https://clinicaltrials.gov/study/NCT07047651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00510146",
+      "title": "Efficacy and Safety of Olanzapine in the Treatment of Patients With Bipolar I Disorder, Depressed: A Randomized, Double-Blind Comparison With Placebo",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2010-07",
+      "country": "Japan, China, South Korea",
+      "enrollment": 514,
+      "brief_summary": "The purpose of this study is to assess whether olanzapine is superior to placebo in patients with bipolar depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Each patient must be reliable, have a level of understanding sufficient to perform all tests and examinations required by the protocol, and must understand the nature of the study and have provided informed consent\n* All female patients must test negative for pregnancy and fem",
+      "endpoints": [
+        "Change From Baseline to Endpoint in Montgomery-Asberg Depression Rating Scale (MADRS) Total Score (Acute Phase)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00510146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00391222",
+      "title": "A Randomized, Double Blind, Placebo and Active Controlled Parallel Group Study to Evaluate the Efficacy and Safety of Risperidone Long-acting Injectable (LAI) for the Prevention of Mood Episodes in the Treatment of Subjects With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-04",
+      "country": "Lebanon, Indonesia, Philippines, Mexico, South Africa, Taiwan, India, Greece, Russia, Germany, China, Malaysia, Peru, Colombia, Jordan",
+      "enrollment": 585,
+      "brief_summary": "The purpose of this randomized, double blind, double dummy, multicenter study was to evaluate the efficacy of risperidone long-acting injectable (LAI) monotherapy in comparison with placebo in the prevention of a mood episode in treatment of patients with bipolar I disorder. Oral olanzapine was used to assess the validity of the study design. The primary objective of this study is to evaluate the efficacy of risperidone LAI versus placebo in the prevention of a mood episode (recurrence event) in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar I disorder as defined by DSM-IV-TR criteria. All diagnoses will be confirmed by the Mini International Neuropsychiatric Interview (M.I.N.I.). Patients who present with additional signs or symptoms compatible with Axis I diagnoses of social anxiety disorder",
+      "endpoints": [
+        "Time to Recurrence of a Mood Episode (Risperidone LAI Versus Placebo)"
+      ],
+      "sponsor": "Janssen Pharmaceutica N.V., Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00391222"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01893229",
+      "title": "Comparative Efficacy and Acceptability of Lithium, Valproate, Oxcarbazepine, Quetiapine, Olanzapine, and Ziprasidone in Bipolar I Disorder, Manic or Mixed Phase",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2013-09",
+      "completion_date": "2015-12",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "Background:\n\nBipolar disorder is one of the most common mental illnesses affecting 1%-4% of the population, and one of the leading causes of worldwide disability. Mania is a condition of excessively elevated mood, characterizes bipolar disorder, and usually is a main cause of hospitalization. Mood stabilisers and antipsychotic drugs have long been the maintenance treatment of acute mania with and without psychotic symptoms. Though clinical trails have been demonstrated that these drugs are indiv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* with a diagnosis of bipolar I disorder, manic or mixed phase\n* equal or more than 18 scores in Young Mania Rating Scale (YMRS)\n\nExclusion Criteria:\n\n* Serious general medical illness\n* pregnancy and lactation\n* given long-acting antipsychotic drug within the last two month\n* e",
+      "endpoints": [
+        "Change from baseline in Young Mania Rating Scale at 2 weeks and 6 weeks",
+        "rate of dropout (treatment discontinuation)"
+      ],
+      "sponsor": "Guangzhou Psychiatric Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01893229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00512070",
+      "title": "Melatonin Metabolism Abnormality in Patients With Schizophrenia or Schizoaffective Disorder Treated With Olanzapine and Melatonin Dose Finding for the Correction of the Metabolic Abnormality",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2024-12",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "Atypical antipsychotic medications, such as olanzapine, cause metabolic side effects, including weight gain, extra fat around the middle of the body, high blood sugar, and high cholesterol. One of the mechanisms by which these medications may cause these effects is by reducing plasma melatonin. This study is a pilot project to evaluate 1) the effect of olanzapine on melatonin secretion levels and 2) the effect of melatonin on olanzapine-induced changes in melatonin secretion in patients with sch",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-65;\n2. DSM-IV-TR diagnosis of schizophrenia, schizoaffective disorder, or bipolar disorder;\n3. Patients who, in the clinical judgment of the investigator, may benefit from a switch to olanzapine;\n4. Females must be of non-child bearing potential (i.e., surgically steri",
+      "endpoints": [
+        "Nocturnal Melatonin Production"
+      ],
+      "sponsor": "Seattle Institute for Biomedical and Clinical Research",
+      "url": "https://clinicaltrials.gov/study/NCT00512070"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00982020",
+      "title": "A Long-Term, Open-Label, Safety Study of Oral Olanzapine in Adolescents With Bipolar I Disorder (Manic or Mixed Episodes) or Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2013-05",
+      "country": "Puerto Rico, Russia, Poland, United States",
+      "enrollment": 203,
+      "brief_summary": "Open-label safety study of oral olanzapine treatment in adolescents, aged 13 to 17 years, with bipolar I disorder (manic or mixed episodes) or schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have a diagnosis of bipolar I disorder and display an acute manic or mixed episode (with or without psychotic features) or a diagnosis of schizophrenia according to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition - Text Revision (DSM",
+      "endpoints": [
+        "Mean Change From Baseline to 52 Weeks in Body Mass Index (BMI) for All Participants"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00982020"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00259272",
+      "title": "Phase IIIb, Multicenter, Single-Arm Open-Label Study, Supporting the Development and the Validation of the MATHYS Scale (Multidimensional Assessment of THYmic States) in a Population of Bipolar Patients Treated With Olanzapine, Either in-Label (Manic and Mixed Patients) and Off-Label (Hypomanic and Bipolar Depression)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2008-05",
+      "country": "France",
+      "enrollment": 141,
+      "brief_summary": "A non randomized study to validate the MATHYS Scale in a population of in and outpatients greater than or equal to 18 years of age, suffering from Bipolar Disorder I or II, and treated with olanzapine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must meet Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) disease diagnostic criteria for Bipolar Disorder\n\n   * currently or most recently in a Manic Episode (Single Manic Episode or Most Recent Episode Manic) or\n   *",
+      "endpoints": [
+        "Mean Changes From Baseline to 6 Week and 24 Week Endpoints in the Multidimensional Assessment of THYmic States Scale (MATHYS) Total Score",
+        "Baseline MATHYS Assessment - Principal Component Analysis and Orthogonal Transformation Matrix"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00259272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00179062",
+      "title": "Effects of Risperidone and Olanzapine on Weight Gain, Physical Health, and Outcome in a Community Sample of Severity and Persistently Ill Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-02",
+      "completion_date": "2007-06",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "This twelve month, open-label study considers the effect of Risperdal (risperidone) versus Zyprexa (olanzapine) on weight gain, physical health, and outcome in a population of those diagnosed with schizophrenia, schizoaffective disorder, major depression or bipolar disorder with psychotic features. This study evaluates symptom response as well as general health indicators such as body mass index, glucose, prolactin, and cholesterol levels at baseline, month (M)1, M3, M6 and M12.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must meet all of the following criteria to be eligible for participation in the current research study.\n\n1. Subjects will be males and females between 18-60 years of age\n2. Subjects will have a definite diagnosis by DSM-IV criteria of schizophrenia, schizoaffective diso",
+      "endpoints": [
+        "Evaluate the main and interactional effects of risperidone and olanzapine on body mass index (BMI), other measures of obesity, and other health-related factors, including total cholesterol, lipid panels, blood glucose, glycohemoglobin, and prolactin"
+      ],
+      "sponsor": "Vanderbilt University",
+      "url": "https://clinicaltrials.gov/study/NCT00179062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00759993",
+      "title": "A 6 Week, Blinded, Randomized, Controlled Pilot Study to Evaluate the Safety and Efficacy of Chromium Piccolinate in the Prevention of Weight Gain Induced by Serotonergic Medications Initiated on Psychiatric Inpatient Units.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-09",
+      "completion_date": "2013-03",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "A majority of patients who suffer from mental illness are treated with serotonin regulating FDA approved medications. Some of these medications also block histamine transmission, increase blood prolactin levels, induce insulin resistance, hyperlipidemia, and promote sedation. All of which lead to weight gain and obesity. Many of these drugs are generally safe and effective but do carry the risk of a long term side effect in that acute and gradual weight gain of 10-30 pounds over a few months to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent is obtained.\n* The subject is English-speaking and 18 through 64 years of age inclusive.\n* The subject is currently receiving a serotonergic agent or is scheduled to receive a new or change in serotonergic psychotropic agents for their a psychiatric co",
+      "endpoints": [
+        "Body Weight"
+      ],
+      "sponsor": "State University of New York - Upstate Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT00759993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01592201",
+      "title": "An Open-label, Prospective, Randomized and Comparative Study of Patient Satisfaction Between Continued Administration of Previous Antipsychotics Versus Switched Administration to Paliperidone ER in Non-satisfied Patients With Previous Antipsychotic Drug",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2012-07",
+      "completion_date": "2013-06",
+      "country": "South Korea",
+      "enrollment": 13,
+      "brief_summary": "The purpose of this study is to compare the patient satisfaction between continued administration of previous antipsychotics versus switched administration to paliperidone ER in non-satisfied patients with previous (paliperidone)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must be diagnosed with schizophrenia according to the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) criteria\n* Have taken atypical antipsychotics (aripiprazole, olanzapine, risperidone) at least 6 weeks prior to start of study.\n* Have Medication Satisfaction Q",
+      "endpoints": [
+        "Change From Baseline in the medication satisfaction questionnaire (MSQ) score at Week 8"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT01592201"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03857581",
+      "title": "Clozapine Versus Olanzapine as Treatment for Comorbid Psychotic Disorder and Substance Use Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-07",
+      "completion_date": "2021-07",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this trial is to determine if patients with comorbid psychotic disorder and substance use disorder will continue in treatment longer if treated with clozapine than with olanzapine, and will have greater reductions in psychosis and in substance use if treated with clozapine than treated with olanzapine. The specific aims and hypotheses of this trial are: 1. To compare the enduring effectiveness and tolerability of clozapine and olanzapine, as measured by time to all-cause treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-60 years of age, male or female (post-menopausal, surgically sterilized, or receiving either one of the listed contraception - depot contraceptive, Intrauterine device, or implanted hormonal contraceptive),\n* who meet DSM-V criteria for schizophrenia, schizoaffective disord",
+      "endpoints": [
+        "Frequencies of positive urine drug screens and breathalyzer alcohol levels"
+      ],
+      "sponsor": "Augusta University",
+      "url": "https://clinicaltrials.gov/study/NCT03857581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00485771",
+      "title": "Olanzapine/Fluoxetine Combination Versus Lamotrigine in the Treatment of Bipolar I Depression",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2005-01",
+      "country": "United States",
+      "enrollment": 403,
+      "brief_summary": "The purpose of this study is to assess olanzapine/fluoxetine combination and lamotrigine comparative efficacy, safety and tolerability in acute and longer term treatment of bipolar depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients, 18 to 60 years of ages, inpatients or outpatients. Inpatients are qualified only if they are hospitalized for current episode of bipolar depression and should be able to leave hospital when clinical criteria are no longer met for acute inpatient hospit",
+      "endpoints": [
+        "Assess the efficacy of olanzapine/fluoxetine combination compared with lamotrigine in the treatment of patients with bipolar I depression during the first 7 weeks of therapy."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00485771"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05303064",
+      "title": "A Phase 3, Randomized, Double-Blind, 52-Week Study of OLZ/SAM vs Olanzapine to Evaluate Weight Gain as Assessed by Change in BMI Z-Score in Pediatric Subjects With Schizophrenia or Bipolar I Disorder (ENLIGHTEN-Youth)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-06-30",
+      "completion_date": "2026-09",
+      "country": "Brazil, Mexico, Colombia, Argentina, United States",
+      "enrollment": 220,
+      "brief_summary": "To compare changes in body mass index (BMI) Z-score following treatment with OLZ/SAM vs olanzapine",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged 13 to 17 years with schizophrenia or aged 10 to 17 years with bipolar I disorder, diagnosed according to Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) criteria\n* Subject is an outpatient or will be able to be treated on an outpatient ",
+      "endpoints": [
+        "Change from baseline in body mass index (BMI) Zscore at week 12"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05303064"
+    }
+  ],
+  "timestamp": "2026-03-04T15:06:39.447157",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,581 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Erythromycin",
+    "disease": "acne",
+    "query_string": "Erythromycin AND acne"
+  },
+  "data": {
+    "query": "Erythromycin AND acne",
+    "results": [
+      {
+        "pmid": "38300170",
+        "title": "Guidelines of care for the management of acne vulgaris.",
+        "abstract": "Acne vulgaris commonly affects adults, adolescents, and preadolescents aged 9 years or older.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2024",
+        "authors": [
+          "Reynolds Rachel V",
+          "Yeung Howa",
+          "Cheng Carol E",
+          "Cook-Bolden Fran",
+          "Desai Seemal R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Adrenal Cortex Hormones",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Contraceptives, Oral, Combined",
+          "Cortodoxone",
+          "Dermatologic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/"
+      },
+      {
+        "pmid": "26897386",
+        "title": "Guidelines of care for the management of acne vulgaris.",
+        "abstract": "Acne is one of the most common disorders treated by dermatologists and other health care providers. While it most often affects adolescents, it is not uncommon in adults and can also be seen in children. This evidence-based guideline addresses important clinical questions that arise in its management. Issues from grading of acne to the topical and systemic management of the disease are reviewed. Suggestions on use are provided based on available evidence.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2016",
+        "authors": [
+          "Zaenglein Andrea L",
+          "Pathy Arun L",
+          "Schlosser Bethanee J",
+          "Alikhan Ali",
+          "Baldwin Hilary E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Dermatologic Agents",
+          "Evidence-Based Medicine",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26897386/"
+      },
+      {
+        "pmid": "36447117",
+        "title": "Treatment of Acne Vulgaris During Pregnancy and Lactation: A Narrative Review.",
+        "abstract": "Acne vulgaris frequently affects women during pregnancy and lactation. Hormonal and physiologic changes in pregnancy contribute to the pathogenesis of acne during the various phases of pregnancy. Several effective acne treatments commonly prescribed in the general population are contraindicated during pregnancy or lactation. There is a lack of guidelines and updated resources on acne management in these populations. In this narrative review, we summarize existing evidence on the safety and efficacy of acne treatments during pregnancy and breastfeeding. Acne management in pregnancy and lactation should follow a stepwise approach based on severity to minimize risk. Topical therapies, such as benzoyl peroxide, azelaic acid, or keratolytics, can be used to treat mild-to-moderate disease. Moderate-to-severe acne may require systemic treatments, including penicillin, amoxicillin, cephalexin, and erythromycin, with special consideration for trimester-specific teratogenicity of medications and",
+        "journal": "Dermatology and therapy",
+        "year": "2023",
+        "authors": [
+          "Ly Sophia",
+          "Kamal Kanika",
+          "Manjaly Priya",
+          "Barbieri John S",
+          "Mostaghimi Arash"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36447117/"
+      },
+      {
+        "pmid": "32356369",
+        "title": "Topical azelaic acid, salicylic acid, nicotinamide, sulphur, zinc and fruit acid (alpha-hydroxy acid) for acne.",
+        "abstract": "Acne is an inflammatory disorder with a high global burden. It is common in adolescents and primarily affects sebaceous gland-rich areas. The clinical benefit of the topical acne treatments azelaic acid, salicylic acid, nicotinamide, sulphur, zinc, and alpha-hydroxy acid is unclear.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2020",
+        "authors": [
+          "Liu Haibo",
+          "Yu Haiyan",
+          "Xia Jun",
+          "Liu Ling",
+          "Liu Guan J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adapalene",
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Bias",
+          "Child",
+          "Clindamycin",
+          "Dermatologic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32356369/"
+      },
+      {
+        "pmid": "38453786",
+        "title": "Management of Acne in Pregnancy.",
+        "abstract": "Acne is one of the most common dermatological conditions to affect women of childbearing age, so it is important to consider the safety of long-term acne treatments on women who could become pregnant. In this review article, we clarify what management options are available to treat acne during pregnancy. Topical treatments, typically first-line for acne, such as azelaic acid, clindamycin, erythromycin, metronidazole, benzoyl peroxide, salicylic acid, dapsone, and retinoids, were reviewed. Systemic treatments, such as zinc supplements, cephalexin, cefadroxil, amoxicillin, azithromycin, erythromycin, and corticosteroids, typically second-line for acne, were also reviewed. Alternative treatments such as light therapy and cosmetic procedures were also evaluated. Due to recommendation of sunscreen utilization during acne treatments, sunscreen usage during pregnancy was also assessed. Management of acne during unplanned pregnancy was discussed in further detail regarding safety and adverse e",
+        "journal": "American journal of clinical dermatology",
+        "year": "2024",
+        "authors": [
+          "Rau Akash",
+          "Keri Jonette",
+          "Murase Jenny E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Pregnancy",
+          "Female",
+          "Dermatologic Agents",
+          "Pregnancy Complications",
+          "Anti-Bacterial Agents",
+          "Sunscreening Agents",
+          "Pregnancy, Unplanned",
+          "Phototherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38453786/"
+      },
+      {
+        "pmid": "37550898",
+        "title": "A systematic review to evaluate the efficacy of azelaic acid in the management of acne, rosacea, melasma and skin aging.",
+        "abstract": "Topical azelaic acid (AA) is indicated for acne and rosacea, but there is some evidence for its use for other dermatological conditions.",
+        "journal": "Journal of cosmetic dermatology",
+        "year": "2023",
+        "authors": [
+          "King Sarah",
+          "Campbell Jo",
+          "Rowe Rebecca",
+          "Daly Marie-Louise",
+          "Moncrieff George"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Skin Aging",
+          "Acne Vulgaris",
+          "Rosacea",
+          "Erythema",
+          "Treatment Outcome",
+          "Melanosis",
+          "Dermatologic Agents",
+          "Dicarboxylic Acids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37550898/"
+      },
+      {
+        "pmid": "21477388",
+        "title": "Acne vulgaris.",
+        "abstract": "Acne vulgaris affects over 80% of teenagers, and persists beyond the age of 25 years in 3% of men and 12% of women. Typical lesions of acne include comedones, inflammatory papules, and pustules. Nodules and cysts occur in more severe acne and can cause scarring and psychological distress.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "Purdy Sarah",
+          "de Berker David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Humans",
+          "Isotretinoin",
+          "Lymecycline",
+          "Minocycline",
+          "Tretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21477388/"
+      },
+      {
+        "pmid": "19450306",
+        "title": "Acne vulgaris.",
+        "abstract": "Acne vulgaris affects over 80% of teenagers, and persists beyond the age of 25 years in 3% of men and 12% of women. Typical lesions of acne include comedones, inflammatory papules, and pustules. Nodules and cysts occur in more severe acne and can cause scarring and psychological distress.",
+        "journal": "BMJ clinical evidence",
+        "year": "2008",
+        "authors": [
+          "Purdy Sarah",
+          "Deberker David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Benzoyl Peroxide",
+          "Clindamycin",
+          "Erythromycin",
+          "Humans",
+          "Isotretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19450306/"
+      },
+      {
+        "pmid": "24690039",
+        "title": "Do tetracyclines and erythromycin exert anti-acne effects by inhibition of P450-mediated degradation of retinoic acid?",
+        "abstract": "For decades, retinoic acid (RA) is known as the most potent therapeutic option in the therapy of acne and altered homeostasis of endogenous retinoids has been discussed in the context of acne pathogenesis. Besides retinoids, antibiotics such as tetracyclines or erythromycin are well established in acne pharmacotherapy. Accumulating evidence points towards common molecular pathways being targeted by both RA and anti-acne antibiotics; however, a precise 'common denominator' connecting these chemically diverse anti-acne agents has not yet been identified. Interestingly, tetracyclines are associated with the occurrence of pseudotumor cerebri, a rare neurological side effect otherwise associated with retinoid intoxication or RA exposure. This association at the clinical level suggests an interaction between tetracyclines and endogenous RA signalling. As erythromycin does not cross the blood brain barrier, CNS side effects are not to be expected, yet not precluding a possible local interacti",
+        "journal": "Experimental dermatology",
+        "year": "2014",
+        "authors": [
+          "Hellmann-Regen Julian",
+          "Herzog Irmelin",
+          "Fischer Norina",
+          "Heuser Isabella",
+          "Regen Francesca"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Cytochrome P-450 Enzyme System",
+          "Erythromycin",
+          "Humans",
+          "Tetracyclines",
+          "Tretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24690039/"
+      },
+      {
+        "pmid": "32474948",
+        "title": "Antibiotic resistance in acne: changes, consequences and concerns.",
+        "abstract": "Antibiotic resistance in acne was first observed in the 1970s and has been a major concern in dermatology since the 1980s. The resistance rates and types of antimicrobials have subsequently shown great variations in regions and countries. Illustrative of this is the resistance to topical erythromycin and clindamycin which continues to be a problem worldwide, while resistance to systemic treatment with tetracyclines has remained low during the past decade. The resistance for the newer macrolides like azithromycin and clarithromycin has been increasing. The results of antibiotic resistance may include treatment failure of acne, disturbance of skin microbiota, induction of opportunistic pathogens locally and systemically, and dissemination of resistant strains to both healthcare personnel and the general population. The ensuing complications, such as aggravated opportunistic infections caused by Propionibacterium acnes and the emergence of multiresistant superbugs, have not yet been confi",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2021",
+        "authors": [
+          "Karadag A S",
+          "Aslan Kayıran M",
+          "Wu C-Y",
+          "Chen W",
+          "Parish L C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Anti-Bacterial Agents",
+          "Clindamycin",
+          "Drug Resistance, Bacterial",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Propionibacterium acnes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32474948/"
+      },
+      {
+        "pmid": "15152959",
+        "title": "Diagnosis and treatment of acne.",
+        "abstract": "Acne can cause significant embarrassment and anxiety in affected patients. It is important for family physicians to educate patients about available treatment options and their expected outcomes. Topical retinoids, benzoyl peroxide, sulfacetamide, and azelaic acid are effective in patients with mild or moderate comedones. Topical erythromycin or clindamycin can be added in patients with mild to moderate inflammatory acne or mixed acne. A six-month course of oral erythromycin, doxycycline, tetracycline, or minocycline can be used in patients with moderate to severe inflammatory acne. A low-androgen oral contraceptive pill is effective in women with moderate to severe acne. Isotretinoin is reserved for use in the treatment of the most severe or refractory cases of inflammatory acne. Because of its poor side effect profile and teratogenicity, isotretinoin (Accutane) must by prescribed by a physician who is a registered member of the manufacturer's System to Manage Accutane-Related Teratog",
+        "journal": "American family physician",
+        "year": "2004",
+        "authors": [
+          "Feldman Steven",
+          "Careccia Rachel E",
+          "Barham Kelly L",
+          "Hancox John"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Anti-Bacterial Agents",
+          "Contraceptives, Oral",
+          "Humans",
+          "Retinoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15152959/"
+      },
+      {
+        "pmid": "27425633",
+        "title": "The extinction of topical erythromycin therapy for acne vulgaris and concern for the future of topical clindamycin.",
+        "abstract": "This study aims to evaluate changes in topical antibiotic prescribing trends for acne.",
+        "journal": "The Journal of dermatological treatment",
+        "year": "2017",
+        "authors": [
+          "Austin Brett A",
+          "Fleischer Alan B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Cutaneous",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Clindamycin",
+          "Drug Prescriptions",
+          "Drug Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27425633/"
+      },
+      {
+        "pmid": "39417892",
+        "title": "Effect of oral doxycycline, azithromycin and isotretinoin on haematological inflammatory markers and interleukin-17A levels in acne vulgaris: a single blinded randomised interventional study.",
+        "abstract": "Amidst the existing literature on the effect of isotretinoin on serum interleukin-17 levels in acne patients, the effects of oral antibiotics azithromycin and doxycycline on serum interleukin-17 is scarce. We conducted an investigator blinded randomized interventional study to compare the effect of doxycycline, azithromycin and isotretinoin on inflammatory markers and Interleukin-17A (IL-17A) levels in acne. Patients were randomized and received the treatment according to treatment arm till 12 weeks. At baseline and 12 weeks/treatment completion, clinical improvement and Red-cell-distribution width (RDW),Neutrophil-lymphocyte ratio(NLR),Platelet-lymphocyte ratio(PLR), Mean-Platelet volume(MPV), Platelet-distribution width(PDW) and Interleukin-17A levels were analysed. P-value < 0.05 was considered statistically significant. Out of 120 patients, 110 patients completed the study. Baseline Global acne grading scale (GAGS) in doxycycline, azithromycin or isotretinoin group was 24.32  ± 3.1",
+        "journal": "Archives of dermatological research",
+        "year": "2024",
+        "authors": [
+          "Agrawal Akriti",
+          "Bhardwaj Abhishek",
+          "Singh Saurabh",
+          "Budania Anil",
+          "Bains Anupama"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acne Vulgaris",
+          "Interleukin-17",
+          "Doxycycline",
+          "Isotretinoin",
+          "Azithromycin",
+          "Male",
+          "Female",
+          "Young Adult",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39417892/"
+      },
+      {
+        "pmid": "30998422",
+        "title": "Clinical assessment of topical erythromycin gel with and without zinc acetate for treating mild-to-moderate acne vulgaris.",
+        "abstract": "Purpose: Erythromycin is an effective topical antibiotic for treating mild-to-moderate inflammatory acne vulgaris, especially papules acne during puberty as well as papules - pustular acne in adult women. Erythromycin is a macrolide antibiotic that has long been used as a topical dosage form to treat acne. It has favorable effects in resolving inflammatory acne lesions not only by reducing Propioni bacterium acnes density, but also by directly inhibiting neutrophil chemotactic factors and reactive oxygen species (ROS) production. Zinc, a metallic element has bacteriostatic activity against Propioni bacterium acnes. Combining zinc with antibiotic (erythromycin) can reduce antibiotic resistance and increase antibiotic absorption in-to the skin.Material and methods: In the present study, erythromycin (2% w/v) with zinc acetate (1.2% w/v) as 'topical gel' and erythromycin (2% w/v) gel alone were evaluated for treating mild to moderate inflammatory acne vulgaris. This double-blind study was",
+        "journal": "The Journal of dermatological treatment",
+        "year": "2020",
+        "authors": [
+          "Sayyafan Mohammad Sadegh",
+          "Ramzi Maryam",
+          "Salmanpour Rahmatollah"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Analysis of Variance",
+          "Anti-Bacterial Agents",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Drug Resistance, Microbial",
+          "Erythromycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30998422/"
+      },
+      {
+        "pmid": "35791482",
+        "title": "Development and evaluation of herbal formulation AKIGTU01 and AKIGCL03 against acne producing microbes.",
+        "abstract": "Acne vulgaris is a common global skin disease affecting teenagers and adults and exerting serious psychological impacts which includes everlasting scarring, reduced self-image, depression and anxiety. One of the suspected causative agent of acne is Propionibacterium acnes; a Gram positive anaerobic organism which lives in skin hair follicle and openings. Treatments currently available for acne include use of oral antibiotics, hormones, isotretinoin and also physical treatments like lesion removal and photo-therapy. All these are associated with risks and none is completely satisfactory.Therefore, natural alternatives are gaining greater research support but lacks sufficient studies. In our study we have isolated Propionibacterium acnes from infected individuals and tested the effect of certain chemicals and herbs/ vegetable extracts against it. There anti-acne property was studied and compared with commercially used antibiotics including Clinagel (Clindamycin phosphate), Vibramycin (Do",
+        "journal": "Pakistan journal of pharmaceutical sciences",
+        "year": "2022",
+        "authors": [
+          "Abdullah -",
+          "Zuberi M Hashim",
+          "Haroon Urooj",
+          "Tajammul Ayesha",
+          "Tabassum Arman"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adolescent",
+          "Adult",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Doxycycline",
+          "Humans",
+          "Isotretinoin",
+          "Propionibacterium acnes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35791482/"
+      },
+      {
+        "pmid": "32390309",
+        "title": "A retrospective assessment and comparison of the effectiveness of benzoyl peroxide; the combination of topical niacinamide, gallic acid, and lauric acid; and the combination of benzoyl peroxide and erythromycin in acne vulgaris.",
+        "abstract": "Acne vulgaris is a chronic inflammatory skin disease that mostly develops during adolescence and continues throughout adulthood. It affects the face, the main location of cosmetic appearance. Despite many developments in acne treatment, various combination therapies are needed to create the best option. Ninety patients were included in this study. We used the global acne grading system (GAGS) and the lesion counting and photographic standards that were used by Hayashi et al., to assess acne severity. The patients were randomly divided into three groups as group 1 (using only 5% BPO, twice a day), group 2 (using only the combination of 5% BPO + 3% erythromycin, twice a day), and group 3 (using only the combination of 4% niacinamide + 1% gallic acid + 1% lauric acid, twice a day). Thirty patients were included in each group. The scores were evaluated at weeks 0, 2, 4 and 8, and compared with each other. As a result of the study, all three treatment types were found to be effective. The c",
+        "journal": "Dermatologic therapy",
+        "year": "2020",
+        "authors": [
+          "Kozan Ahmet",
+          "Guner Rukiye Yasak",
+          "Akyol Melih"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Benzoyl Peroxide",
+          "Dermatologic Agents",
+          "Erythromycin",
+          "Gallic Acid",
+          "Gels",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32390309/"
+      },
+      {
+        "pmid": "2949771",
+        "title": "The effect of tetracycline and erythromycin in a model of acne-type inflammation.",
+        "abstract": "The effects of systemically administered oxytetracycline and erythromycin in a guinea pig model of acne-type inflammation were assessed histologically and by tissue measurement techniques. It was found that oxytetracycline significantly reduced the volume and maximum area of inflammation compared with both control and erythromycin treated groups. Oxytetracycline also altered the morphology of the inflammatory infiltrate significantly reducing the proportion of polymorphonuclear leucocytes present. In this model, erythromycin did not alter the inflammatory response but did seem to reduce the amount of transepidermal elimination of inflammatory debris.",
+        "journal": "British journal of experimental pathology",
+        "year": "1987",
+        "authors": [
+          "Dalziel K",
+          "Dykes P J",
+          "Marks R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Animals",
+          "Disease Models, Animal",
+          "Erythromycin",
+          "Guinea Pigs",
+          "Inflammation",
+          "Oxytetracycline",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2949771/"
+      },
+      {
+        "pmid": "40254135",
+        "title": "Biomimetic hyaluronic acid-stabilized zinc oxide nanoparticles in acne treatment: A preclinical and clinical approach.",
+        "abstract": "Acne vulgaris is a common chronic inflammatory skin condition, often caused by C. acnes infection. While ZnO has shown promise as an antibacterial agent in acne treatment, concerns over toxicity and non-selective bacterial killing remain. In this study we developed a hyaluronic acid-stabilized nano‑zinc oxide (HA-ZnO) formulation aimed at enhancing the therapeutic efficacy and safety of ZnO for acne treatment. HA-ZnO was synthesized through biomimetic mineralization. HA-ZnO targeted acne-prone areas, especially sebaceous glands, without skin penetration. HA-ZnO demonstrated selective antibacterial activity against C. acnes, exhibiting a killing efficacy more than 16 times greater than that against S. epidermidis. The HA coating also improved ZnO's stability in acidic conditions, mitigating potential toxicity and side effects. Additionally, the sustained release of Zn2+ promoted cell proliferation and migration, reducing sebum secretion, and exerting anti-inflammatory effects, supportin",
+        "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+        "year": "2025",
+        "authors": [
+          "Zhu Jiaojiao",
+          "Wen Tiao",
+          "Ma Yunxiao",
+          "Zeng Qingya",
+          "Li Pei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Zinc Oxide",
+          "Acne Vulgaris",
+          "Hyaluronic Acid",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Zebrafish",
+          "Humans",
+          "Nanoparticles",
+          "Female",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40254135/"
+      },
+      {
+        "pmid": "23657872",
+        "title": "Treatment of acne vulgaris during pregnancy and lactation.",
+        "abstract": "Acne vulgaris is a common problem encountered by pregnant and lactating women. Unfortunately, in clinical practice, treatment is often not optimized as a result of the lack of safety data and unified recommendations on the use of the various anti-acne therapies. In this narrative review, current data on their safety is summarized. We recommend the use of topical medications as first-line treatment for acne vulgaris in pregnant and lactating women. These include antibiotics (erythromycin, clindamycin, metronidazole and dapsone), benzoyl peroxide, azelaic acid and salicylic acid. Oral agents and/or light-based therapy may be considered as second-line treatment. The former consists of oral macrolides (erythromycin and azithromycin), cephalexin or zinc compounds. Blue-violet or red light phototherapy may be used as monotherapy or in addition to topical and/or oral therapies. Hormonal therapy, antibiotics consisting of tetracyclines, co-trimoxazole and fluoroquinolones, and both oral and to",
+        "journal": "Drugs",
+        "year": "2013",
+        "authors": [
+          "Kong Y L",
+          "Tey H L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Androgen Antagonists",
+          "Anti-Bacterial Agents",
+          "Female",
+          "Humans",
+          "Lactation",
+          "Phototherapy",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23657872/"
+      },
+      {
+        "pmid": "12566804",
+        "title": "Update and future of systemic acne treatment.",
+        "abstract": "Systemic treatment is required in patients with moderate-to-severe acne, especially when acne scars start to occur. Antibiotics with anti-inflammatory properties, such as tetracyclines (oxytetracycline, tetracycline chloride, doxycycline, minocycline and limecycline) and macrolide antibiotics (erythromycin and azithromycin) are the agents of choice for papulopustular acne, even though the emerging resistant bacterial strains are minimizing their effect, especially regarding erythromycin. Systemic antibiotics should be administered during a period of 8-12 weeks. In severe papulopustular and in nodulocystic/conglobate acne, oral isotretinoin is the treatment of choice. Hormonal treatment represents an alternative regimen in female acne, whereas it is mandatory in resistant, severe pubertal or post-adolescent forms of the disease. Compounds with anti-androgenic properties include estrogens combined with progestins, such as ethinyl estradiol with cyproterone acetate, chlormadinone acetate,",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "2003",
+        "authors": [
+          "Zouboulis Christos C",
+          "Piquero-Martin Jaime"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Oral",
+          "Androgen Antagonists",
+          "Anti-Bacterial Agents",
+          "Cheilitis",
+          "Clindamycin",
+          "Cyproterone",
+          "Forecasting",
+          "Humans",
+          "Isotretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12566804/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:28:47.788794",
+  "success": true,
+  "error_message": null
+}

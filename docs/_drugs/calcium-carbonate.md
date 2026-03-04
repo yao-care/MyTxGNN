@@ -6,7 +6,7 @@ drug_name: "Calcium Carbonate"
 kg_predictions: 96
 dl_predictions: 9
 evidence_level: "L1"
-indication_count: 96
+indication_count: 5
 brands: []
 permalink: /drugs/calcium-carbonate/
 ---

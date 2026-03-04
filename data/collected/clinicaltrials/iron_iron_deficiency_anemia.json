@@ -1,0 +1,930 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Iron",
+    "disease": "iron deficiency anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05991128",
+      "title": "The Effects of Ferric Derisomaltose Administered Before Hospital Discharge in Stabilised Patients With Acute Heart Failure and Iron Deficiency on Exercise Capacity and Quality of Life: a Randomised, Parallel-group, Double-blind, Placebo Controlled Trial (COREVIVE-HFpEF)",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-01",
+      "completion_date": "2025-08-01",
+      "country": "China",
+      "enrollment": 170,
+      "brief_summary": "This study will address whether the additional use of Ferric Derisomaltose on top of standard care will improve exercise capacity and quality of life in patients with acute heart failure and iron deficiency. One group of participants will receive treatment with Ferric Derisomaltose and the other group will receive normal saline 0.9% as placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years.\n2. Clinical diagnosis of heart failure with preserved ejection fraction (HFpEF), defined as documented 2-dimensional echocardiography left ventricular ejection fraction (LVEF) ≥50% before randomization.\n3. Currently hospitalized for an episode of acute heart fa",
+      "endpoints": [
+        "Change in 6-minute walking distance"
+      ],
+      "sponsor": "China-Japan Friendship Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05991128"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06338787",
+      "title": "Novel Iron-Based Supplement for Active Young Women With Sub-Optimal Iron",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-06-17",
+      "completion_date": "2025-12",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "Female endurance athletes are susceptible to iron deficiency and this can impact their exercise performance. This study aims to assess the efficacy of a novel iron supplement in improving iron status, gut microbiome, and exercise performance in endurance-trained females.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* cis-gendered female 14-18 years old\n* sub-optimal iron status (ferritin ≤45mcg/ L)\n* At least 1 year past the age of menarche\n* Engage in moderate to vigorous endurance activity for at least 3 hours a week\n\nExclusion Criteria:\n\n* Supplemented with iron iron (\\>5mg/day), prebio",
+      "endpoints": [
+        "Iron Status",
+        "Hemoglobin",
+        "Lower Gut microbiome"
+      ],
+      "sponsor": "University of Calgary",
+      "url": "https://clinicaltrials.gov/study/NCT06338787"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01815333",
+      "title": "Clinical and Technical Feasibility of a Ultrasuperparamagnetic Nanoparticle Iron Oxide (USPIO)-Enhanced Magnetic Resonance Lymph Node Imaging",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2019-07-25",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The goal of this clinical research study is to learn if the drug Feraheme ® (ferumoxytole) helps researchers most clearly to \"see\" cancerous lymph nodes on an MRI scan. Researchers also want to learn if ferumoxytole may be used in liver imaging.\n\nFerumoxytole is designed to deliver iron to treat iron-deficiency anemia (low red blood cell counts) in patients with chronic kidney disease. In this study, it will be used as an MRI contrast. Contrasts are used by doctors in order to see MRI images mor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Enrolled at MDACC, Written consent\n2. Measurable nodes on the recent cross sectional imaging (CT, MRI. US) or suspicious lymph nodes for metastasis\n3. Requiring tissue diagnosis (FNA, core biopsy, surgical biopsy, surgical resection), or clinical follow-ups for at least 6 mon",
+      "endpoints": [
+        "Number of Participants With Signal Intensity (SI) Change of a Lymph Node Between the Pre- and Post- Contrast of the Feraheme Enhanced Magnetic Resonance Imaging (MRI)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01815333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04840433",
+      "title": "Location of Lesions Responsible for Blood Loss in the Gastrointestinal (GI) Tract",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-12",
+      "completion_date": "2022-12-31",
+      "country": "Hong Kong",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to identify the prevalence, nature and location of lesions in the GI tract that may contribute to iron deficiency anaemia and compare diagnostic yied of the upper GI magnetic controlled capsule endoscopy with conventional gastroscopy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 18 years and over and up to but not exceeding 80 years\n* Patients presenting with IDA whom require gastroscopy and colonoscopy as per national guidelines (1)\n\nExclusion Criteria:\n\n* Patients who have contraindications to gastroscopy or colonoscopy",
+      "endpoints": [
+        "Prevalence and nature of lesions in the upper GI tract, small bowel and colon that cause IDA"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT04840433"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01216709",
+      "title": "Iron Absorption From Iron-fortified Infant Formula and Iron Drops in Infants (MJAU-studien)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2012-06",
+      "country": "Sweden",
+      "enrollment": 72,
+      "brief_summary": "Iron deficiency (ID) affects up to 25% of Swedish infants and severe ID is associated with cognitive and behavioral problems. To avoid this, iron supplements or iron-fortified infant foods are recommended for infants. However, the optimal iron dose and mode of delivery have not yet been established. This is a concern as excessive iron intake may impair growth and increase morbidity in iron-sufficient infants. Previous studies have suggested that iron-fortified foods may have different effects th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6-7 months of age at the start of intervention\n* healthy at enrollment\n* full-term (\\>37 gestational weeks at birth)\n* birth weight \\>2500 g\n* predominantly bottle-fed at recruitment\n\nExclusion Criteria:\n\n* iron deficiency at enrollment\n* previous or current use of iron supple",
+      "endpoints": [
+        "iron absorption"
+      ],
+      "sponsor": "Umeå University",
+      "url": "https://clinicaltrials.gov/study/NCT01216709"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03457571",
+      "title": "Clinical Observational Study: IBD Patients With Restless-legs-syndrome and Iron Deficiency Syndrome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-02-01",
+      "completion_date": "2015-04-30",
+      "country": "N/A",
+      "enrollment": 353,
+      "brief_summary": "Patients with inflammatory bowel disease, such as Crohn´s disease or ulcerative colitis, have recurring episodes of abdominal pain, diarrhea and loss of weight. Besides this other clinical symptoms are possible e.g. deficiency syndromes such as iron deficiency. Iron deficiency usually attended by symptoms like hair loss, pale skin, loss of concentration or fatigue. In some cases iron deficiency can lead to neurological manifestations such as restless-legs-syndrome (RLS). Restless legs syndrome i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written consent\n* Age \\> 18\n* Inflammatory bowel disease\n\nExclusion Criteria:\n\n* \\<18 years\n* No written consent",
+      "endpoints": [
+        "Prevalence of RLS in IBD"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT03457571"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02327299",
+      "title": "Assessment of the Bioavailability of Iron in Iron Fortified Bouillon Cubes in Healthy Women",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-10",
+      "completion_date": "2014-12",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "Iron deficiency is a highly prevalent nutrient deficiency which is a public health problem, especially in developing countries. There are several strategies to correct iron deficiency in populations: besides supplementation with tablets, one of the most sustainable and effective strategies on medium term has been iron fortification, the addition of iron to regularly consumed foods. In fortification, the chemical nature of the compound to be added plays an important role: depending on the compoun",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 and \\< 40 years at screening;\n* Body weight \\<65 kg;\n* Apparently healthy: no medical conditions which might affect study measurements (judged by study physician);\n* With low iron stores (serum ferritin \\<15µg/L);\n* Reported intense sporting activities ≤10h/w;\n* Repo",
+      "endpoints": [
+        "Change from baseline in the isotopic ratio of iron in blood at week 2",
+        "Change from week 4 in the isotopic ratio of iron in blood at week 6"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02327299"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03816800",
+      "title": "Investigating the Association of Iron and Pollen Allergy in Female Subjects Studie Zur Wirkung Von Eisen Auf Pollenallergikerinnen",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-01-28",
+      "completion_date": "2020-10-29",
+      "country": "Austria",
+      "enrollment": 58,
+      "brief_summary": "Iron deficiency and anemia are clearly associated with the onset of allergy and allergic diseases, whereas an improved iron status seems to prevent the onset of allergy in humans. Iron-deficiency can be absolute or functional. Functional iron-deficiency occurs during immune activation and may be reflective for the hyperactive state of atopic subjects.\n\nThe investigators plan a prophylactic dietary intervention study in atopic/allergic and non-allergic individuals that transport chelated iron to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants will be healthy premenopausal women over 18 years of age. Allergic participants should have been diagnosed with allergic rhinitis against birch and/or grass pollen.\n\nExclusion Criteria:\n\n* Subjects with co-morbidities such as diabetes mellitus, disorders of the li",
+      "endpoints": [
+        "Symptom severity - Total nasal symptom score",
+        "Symptom severity - Total nasal symptom score"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT03816800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03871699",
+      "title": "The Effect of Ferric Carboximaltose on Intra-myocardial Iron Load Assessed by Cardiac Magnetic Resonance in Patients With Heart Failure With Reduced Ejection Fraction (HFREF).",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2019-08-30",
+      "completion_date": "2021-02-28",
+      "country": "Brazil",
+      "enrollment": 20,
+      "brief_summary": "In general, anemia is associated with a greater presence of HF symptoms, worsening NYHA functional class, higher rate of hospitalization for heart failure, and reduced survival. However, it is unclear whether anemia is the cause of decreased survival or a marker for more advanced disease. Correction of iron deficiency in patients with New York Heart Association (NYHA) class II or III HF using intravenous iron (Ferinject®) improved \"overall patient self-assessment\" and NYHA functional class of 6-",
+      "eligibility_criteria": "Inclusion Criteria:\n\nLeft ventricular ejection fraction \\<40% assessed by transthoracic echocardiography or cardiac magnetic resonance with at least 3 months.\n\n* Serum ferritin \\< 100µg/L or 100-299µg/L with transferrin saturation \\< 20%\n* clinical stability during last 3 months\n\nExclusion Criteria:",
+      "endpoints": [
+        "Absolut changes in left ventricular ejection fraction"
+      ],
+      "sponsor": "Hospital Moinhos de Vento",
+      "url": "https://clinicaltrials.gov/study/NCT03871699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04721262",
+      "title": "Evaluation of Hyperfine Low Field Strength Portable Point-of-Care Magnetic Resonance Imaging System in Patients Receiving Ferumoxytol Infusions",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-11-09",
+      "completion_date": "2022-08-29",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "The purpose of this pilot study is to evaluate the feasibility of using Ferumoxytol as a contrast agent on a low field strength, portable magnetic resonance imaging (MRI) system. Participants receiving Ferumoxytol as part of routine clinical care for iron deficiency anemia will be recruited and scanned on the Hyperfine MRI system before and after their clinically scheduled intravenous infusion. Resultant images will be compared to assess signal intensity changes generated by the presence of Fero",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Prescribed Ferumoxytol for iron deficiency anemia\n* Informed consent obtained from patient or a legally authorized representative\n\nExclusion Criteria:\n\n1. Contraindications to routine 1.5 T MRI evaluation, including:\n\n   * Electrical implants such as ca",
+      "endpoints": [
+        "Contrast enhancement"
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT04721262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06466746",
+      "title": "The Impact of Faba Bean Rich Bread on Iron Status, Postprandial Lipaemia and Satiety in Adults with Low Iron Stores",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-09",
+      "completion_date": "2025-09",
+      "country": "United Kingdom",
+      "enrollment": 16,
+      "brief_summary": "High levels of animal proteins (meat) in the diet are linked with a greater risk of developing heart disease and other long-term health conditions. Recently there has been a shift to plant-based diets including plant proteins such as pulses, defined as beans, peas, chickpeas and lentils. Pulses are a nutritious and sustainable form of plant protein which are rich in fibre and iron. Despite this, the UK population does not consume the recommended daily amount of pulses (80g/day equivalent to a la",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-anaemic, males and pre-menopausal females (must have regular periods)\n* Aged 18-50 years old\n* BMI between 19 - 30 kg/m2\n* Low iron stores (serum ferritin between 13-40 µg/L for females and 30-90 µg/L for males)\n\nExclusion Criteria:\n\n* Food allergies or intolerances to fab",
+      "endpoints": [
+        "Change from baseline in the enrichment of whole blood haemoglobin with iron-57 stable isotope 30 days after consuming the faba bean-enriched bread and conventional bread."
+      ],
+      "sponsor": "University of Reading",
+      "url": "https://clinicaltrials.gov/study/NCT06466746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05226169",
+      "title": "Randomized Controlled Trial of Intravenous Ferric Carboxymaltose for Iron-Deficiency Anemia in Patients With Advanced Gastric Cancer Receiving Palliative Chemotherapy",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-04-29",
+      "completion_date": "2024-11-30",
+      "country": "South Korea",
+      "enrollment": 330,
+      "brief_summary": "The main objective of this study is to evaluate the efficacy and safety of IV FCM(ferric carboxymaltose) in patients with AGC receiving palliative chemotherapy. This study will also evaluate the effect of IV FCM on the treatment outcomes of palliative chemotherapy in patients with gastric cancer receiving fluoropyrimidine and platinum-based regimen in the same 1st-line palliative setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 19 years at the time of study registration\n2. Eastern Cooperative Oncology Group performance status ≤ 2\n3. Histologically or cytologically confirmed gastric or gastroesophageal junction (GEJ) adenocarcinoma\n4. Locally advanced unresectable or metastatic disease\n5. Patie",
+      "endpoints": [
+        "Maximum change of Hb concentration"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05226169"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06442111",
+      "title": "The Role of Intravenous Ferritin in Optimizing Postoperative Recovery Following Pancreaticoduodenectomy: A Multicenter, Randomized, Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-07-01",
+      "completion_date": "2025-12-31",
+      "country": "N/A",
+      "enrollment": 106,
+      "brief_summary": "Iron deficiency anemia is well known as a risk factor that worsens postoperative morbidity and patient prognosis. Several studies have shown that intravenous iron administration before surgery is effective in reducing the risk of iron deficiency anemia and improving the postoperative prognosis. However, the risk of iron deficiency anemia after surgery is increased due to the resection of the duodenum, the main organ for iron absorption. Very few studies have been conducted on the postoperative e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who diagnosed periampullary tumor\n* age under 75, over 18 years\n\nExclusion Criteria:\n\n1. palliative or emergency surgery,\n2. incurable or metastatic disease state,\n3. insufficient data,\n4. accompanying hematologic disorders that may cause anemia,\n5. loss to follow-up,",
+      "endpoints": [
+        "Number of hemoglobin responders by 12 weeks after surgery"
+      ],
+      "sponsor": "Seoul St. Mary's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06442111"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00662285",
+      "title": "Description of Iron Status in Blood Donors",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2008-04",
+      "completion_date": "2009-04",
+      "country": "Norway",
+      "enrollment": 400,
+      "brief_summary": "Description of the effect of standard iron supplement on iron status in blood donors\n\nHypothesis:\n\nFor each person in each group (group a \"without iron supplement\" or group b \"with iron supplement\") individual biological variation in reticulocytes, tested day 1 and day 8 will be described. Groups a and b will be compared on iron status from day 1 and day 8.\n\n* H1 null: There is no significant intraindividual difference in reticstatus at day 1 and at day 8, in group a.\n* H2 null: There is no sign",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must be accepted as blood donor",
+      "endpoints": [
+        "Iron status"
+      ],
+      "sponsor": "Haukeland University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00662285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01101399",
+      "title": "Randomised Controlled Open-label Study to Evaluate Efficacy & Safety of Intravenous Ferric Carboxymaltose Versus no Treatment in Anaemic Subjects With Lymphoid Malignancies & Functional Iron Deficiency Receiving Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2013-11",
+      "country": "Germany, Sweden",
+      "enrollment": 19,
+      "brief_summary": "Anaemia and functional iron deficiency are common conditions in patients with lymphoid malignancies, conditions which reduce significantly the quality of life and increase morbidity and mortality. Traditionally, Erythropoiesis Stimulating Agents (ESAs) have been used, but recently their use has been shown to have a negative impact on overall survival in different oncology populations. Recently published data suggest that intravenous (IV) iron can be effective in anaemia treatment, even without E",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects (male or female) aged ≥18, suffering from indolent non-Hodgkin's lymphoma, multiple myeloma or chronic lymphocytic leukaemia on any chemotherapy excluding anthracycline containing.\n* Life expectancy at least 6 months.\n* Received at least 12 weeks (or 3 cycles) of trea",
+      "endpoints": [
+        "Change in haemoglobin from baseline to Week 4"
+      ],
+      "sponsor": "Vifor Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01101399"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01208363",
+      "title": "Improving Iron Status Through Consumption Of Iron Fortified Cowpea: An Intervention Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2011-07",
+      "country": "Ghana",
+      "enrollment": 240,
+      "brief_summary": "Rationale: Iron deficiency and zinc deficiency, are of public health significance in sub-Saharan Africa. An estimated 50% of children (5-14 years) in developing countries suffer from anaemia, half of which is estimated iron deficiency anaemia. Interventions have been designed and implemented over the years towards solving hunger and anaemia especially among school age children. One of such interventions is School Feeding Programme (SFP) which is common in both developing and industrialized count",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children 6-12 years old\n* Regularly attending school, in grades 1-3\n* Apparently healthy, free of chronic illnesses and not taking chronic medication.\n* No medication nor supplemental iron at time of entry into the study\n* Informed consent obtained from at least one parent or ",
+      "endpoints": [
+        "Iron deficiency anemia, defined by Hb<115 g/l; SF<12 microgram/l"
+      ],
+      "sponsor": "Wageningen University",
+      "url": "https://clinicaltrials.gov/study/NCT01208363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01787526",
+      "title": "High Dose Intravenous Iron in Blood Donors With Iron Deficiency: a Randomized, Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2016-08",
+      "country": "Austria",
+      "enrollment": 176,
+      "brief_summary": "2-3% of the population participates in blood donation programmes. Traditionally, safety issues in transfusion medicine have been concentrating on product and recipient safety. Extensive efforts including strict donor inclusion criteria and testing for important transmissible infections have substantially improved product quality. One of the most common risks of blood donation is iatrogenic iron deficiency. It may affect up to 30% of regular blood donors because each whole blood donation causes a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age ≥18 years and ≤ 65 years\n* ferritin ≤ 30 ng/ml\n* fulfilment of the strict criteria for blood donation\n\nExclusion Criteria:\n\n* hemochromatosis\n* active infection\n* pregnancy or lactation",
+      "endpoints": [
+        "transferrin saturation (%) at visit 1 (V1)"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT01787526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03651934",
+      "title": "Verification of Correlation Between Genetic Testing of Nutritional Metabolism and Clinical Biochemical Indicators",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-01",
+      "completion_date": "2020-06-01",
+      "country": "N/A",
+      "enrollment": 600,
+      "brief_summary": "The research plan is divided into two parts. The first part is the correlation study .It is planned to include women who prepare for pregnancy or in the early stages of pregnancy to carry out the detection of 25 loci SNP of 21 genes of 9 nutrients, to predict the nutritional abnormalities of 9 nutrients, and to determine the nutritional status of 9 nutrients, and then verify the correlation between nutrient metabolism related gene SNP and nutrient nutrition status .The second part selects iron a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* preparing for pregnancy or early pregnancy women (\\< 12w)\n* no major surgery, trauma, or important viscera disease\n* no long-term medication history\n* No serious mental and psychological behavior abnormalities\n* resident in Beijing, can accept regular prenatal in Beijing area\n",
+      "endpoints": [
+        "Correlation between the results of nutritional evaluation of selenium-related genes and selenium levels in vivo",
+        "Correlation between the results of nutritional evaluation of iron-related genes and iron levels in vivo",
+        "Correlation between the results of nutritional evaluation of vitamin B6-related genes and vitamin B6 levels in vivo"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03651934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01935661",
+      "title": "A Case Control Study to Evaluate the Cognitive and Brain Function of β-thalassemia Patients in EMEK MEDICAL CENTER Compare to Healthy Controls.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2013-09",
+      "completion_date": "2020-12-31",
+      "country": "Israel",
+      "enrollment": 120,
+      "brief_summary": "β-thalassemia syndromes are a group of hereditary disorders characterized by a genetic deficiency in the synthesis of beta-globin chains.\n\nIn recent studies done in β-thalassemia major patients abnormal iron deposition was evident using MRI in brain structures, cortex, putamen, and caudate nucleus . In most of the cases the neurological involvement is subclinical. Cognitive functioning was evaluated in beta thalassemia major, compared with healthy controls, using a neuropsychological battery inc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Thalassemia major and intermedia patients older than 6 years treated at Emek Medical Center Afula Israel.\n* healthy controls matched for age and ethnicity.\n\nExclusion Criteria:\n\n* patients suffering from acute diseases.",
+      "endpoints": [
+        "Brain function assessment evaluated by Event-related potentials (ERPs of the information stream in the brain of Thalassemia patients."
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT01935661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04016922",
+      "title": "Effect of Maternal Iron Deficiency Anemia on Fetal Hemodynamics and Neonatal Outcome",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-07",
+      "completion_date": "2019-10",
+      "country": "Egypt",
+      "enrollment": 500,
+      "brief_summary": "This study will be conducted to show the effect of different degrees of maternal iron deficiency anemia on fetal hemodynamics and neonatal outcome and to evaluate the effect of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant females aged 20- 35 years.\n* Gestational age 32 weeks or more.\n* Living singleton fetus.\n\nExclusion Criteria:\n\n* Multifetal pregnancy.\n* Patients with chronic illness or medical disorders other than iron deficiency anemia.\n* Patients with history of recurrent perinata",
+      "endpoints": [
+        "Changes in fetal vascular doppler parameters.",
+        "Neonatal birth weight"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT04016922"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02174731",
+      "title": "A Phase 3, Multicenter, Randomized, Open-label, Active-Controlled Study of the Safety and Efficacy of Roxadustat in the Treatment of Anemia in Dialysis Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-07-01",
+      "completion_date": "2018-09-26",
+      "country": "Bulgaria, Spain, Philippines, Sweden, Czechia, Mexico, India, Russia, Ukraine, Hungary, Slovakia, Australia, Peru, Poland, Canada, Thailand, Vietnam, United States",
+      "enrollment": 2133,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of roxadustat compared to epoetin alfa for the treatment of anemia in chronic kidney disease patients on dialysis.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Provision of Informed Consent prior to any study specific procedures\n2. Age ≥18 years at screening visit 1\n3. Previous versions of the protocol prior to US amendment ver 6.0 and outside of US amendment ver 7.0:\n\n   Receiving or initiating hemodialysis or peritoneal dialysis f",
+      "endpoints": [
+        "Mean Change From Baseline in Hb Averaged Over Week 28 to Week 52"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02174731"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03660462",
+      "title": "Iron Bioavailability of High Surface Area Ferric Phosphate in Thai Women",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-11-21",
+      "completion_date": "2019-07-19",
+      "country": "Thailand",
+      "enrollment": 18,
+      "brief_summary": "The primary objective of this study is to compare iron absorption of high surface area ferric phosphate with that of ferrous sulfate and bulk ferric phosphate in a rice-based meal in non-pregnant women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women of reproductive age (18 to 49 years) in Thailand\n* BMI \\< 23 kg/m2\n* Body weight \\< 65 kg\n* Mildly anaemic to normocythemic (Hb 80-110 g/L)\n* Ferritin \\< 25 µg/L\n* Not pregnant (confirmed by pregnancy test stripe) or lactating\n* No inflammation (CRP \\< 5 mg/L)\n* Having p",
+      "endpoints": [
+        "Fractional iron absorption"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT03660462"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05606146",
+      "title": "Phase IIc (Protocol 55P127): Addition of up to 10 Women to Explore Silver Systemic Absorption as a Continuation Study to: Phase IIb (Protocol 55P140)",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-02-23",
+      "completion_date": "2024-07",
+      "country": "Israel",
+      "enrollment": 10,
+      "brief_summary": "One of the AUB symptoms, heavy menstrual bleeding (HMB), can lead to iron deficiency and iron deficiency anemia and in acute and severe cases, can necessitate emergency medical care. This study's focus is on the symptom of HMB which has a number of benign causes.\n\nThe investigative device, the IUB SEAD™, is a novel spherical endometrial ablation device developed to allow for simple, office-based chemical EA to treat benign causes of the symptom of HMB. The suggested procedure is expected to be s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female subject age 40 to 50 years, inclusive\n2. Suffering from the symptom of heavy menstrual bleeding (HMB) from benign causes with no definable organic cause and are candidates for endometrial ablation or surgical treatment.\n3. PBAC score of \\>150 - an average of 2 consecut",
+      "endpoints": [
+        "Safety: Incidence and characteristics of device and/or procedure related adverse events (AEs)",
+        "Efficacy: Change in bleeding volume"
+      ],
+      "sponsor": "Ocon Medical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05606146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03573570",
+      "title": "Reducing Anemia Through Food Fortification at Scale",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2018-04-01",
+      "completion_date": "2021-09-30",
+      "country": "India",
+      "enrollment": 0,
+      "brief_summary": "Anemia is the most common form of malnutrition, affecting approximately 1.6 billion people world-wide. Most commonly caused by iron deficiency, its adverse effects include increased mortality (especially during childbirth), impaired cognitive development among children, chronic fatigue, and reduced lifetime earnings. While iron deficiency is the main cause of anemia worldwide, its etiology is complex and it can also be caused by an insufficient intake of other micronutrients such as Vitamin A, B",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children in the age group of 6 months to 5 years\n* Women in the age group of 12 to 40 years\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to endline using Rapid Diagnostic Tests (RDT)",
+        "Change in hemoglobin level from baseline to endline using DBS",
+        "Change in Transferrin Receptor (TfR) level from baseline to endline using DBS"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT03573570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02570854",
+      "title": "A First-in-human, Two-part (Open Label, and Randomized/Double Blind/Placebo Controlled), Single- and Repeat-dose Study of CSJ137 in Erythropoietin-treated Chronic Hemodialysis Patients With Functional Iron-deficiency Anemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-09-22",
+      "completion_date": "2020-05-13",
+      "country": "Israel, Czechia, United Kingdom, United States",
+      "enrollment": 40,
+      "brief_summary": "The study will assess the safety, tolerability and efficacy of CSJ137 in chronic hemodialysis patients. It is hypothesized that treatment with CSJ137 may improve the level of hemoglobin in patients on chronic hemodialysis with iron-restricted anemia while reducing the need for dosing with erythropoietin and intravenous iron in these patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Hemodialysis-dependent for at least 2 months prior to screening.\n2. Receiving hemodialysis at least 2 times per week\n3. Receiving erythropoietin (EPO) therapy.\n4. Hemoglobin (Hgb) ≥ 8.5 and \\< 11.5 g/dL at screening.\n5. Ferritin \\>500 ng/mL and ≤ 2000 ng/mL at screening.\n6. T",
+      "endpoints": [
+        "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0",
+        "Minimum active dose of CSJ137 determined by assessment of levels of hemoglobin in blood, without evidence of liver dysfunction or other safety concerns."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT02570854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05266703",
+      "title": "Defining the Serum Ferritin Concentration in Kenyan Women at Which the Body Senses Iron Depletion and Begins to Upregulate Iron Absorption",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-02-18",
+      "completion_date": "2023-06-30",
+      "country": "Kenya",
+      "enrollment": 1000,
+      "brief_summary": "The serum or plasma ferritin concentration (referred to hereafter as ferritin) is the most widely used indicator to detect iron deficiency and a low ferritin indicates depleted iron stores. However, the threshold ferritin that defines iron deficiency remains unclear and diagnostic ferritin cutoffs from expert groups vary widely.\n\nOur study aim is to define the ferritin in Kenyan young women at which the body senses iron depletion and begins to upregulate iron absorption from the diet; this appro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-28 y, not pregnant or lactating\n* Body weight \\<75 kg\n* body mass index (BMI) between 17 and 25 kg/m2\n* No acute illness/infection (self-reported)\n* No metabolic or gastrointestinal disorders (self-reported)\n* No use of medications affecting iron absorption or metabolis",
+      "endpoints": [
+        "Fractional iron absorption"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT05266703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07050342",
+      "title": "Evaluation Der Spezialambulanz Ernährung Und Psyche: Eine Pilotstudie",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2028-12-01",
+      "country": "Austria",
+      "enrollment": 84,
+      "brief_summary": "The goal of this observational pilot study is to learn how personalized nutrition-focused care can help people with mental and psychosomatic health problems. This study takes place in Europe's first outpatient clinic that focuses on how diet affects mental well-being.\n\nThe main questions the study aims to answer are:\n\nDoes care at this clinic help lower participants' stress levels over one year?\n\nDo participants report better mental health, resilience, and quality of life during the study?\n\nAre ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria:\n\nNew patient at the outpatient clinic for Nutrition and Psychosomatics\n\nAge between 18 and 65 years\n\nSufficient German language skills\n\nProvided written informed consent\n\nAble and willing to complete online questionnaires via email\n\nExclusion Criteria:\n\n* L",
+      "endpoints": [
+        "Change in perceived stress levels measured by the Perceived Stress Scale (PSS-10)"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT07050342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05251493",
+      "title": "Intravenous Iron Isomaltoside Versus Iron Sucrose for Treatment of Iron Deficiency in Pregnancy: A Randomized Comparative Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-06-06",
+      "completion_date": "2027-02-28",
+      "country": "Canada",
+      "enrollment": 280,
+      "brief_summary": "Ion deficiency anemia (IDA) is associated with poor neonatal outcomes and maternal morbidity. Iron replacement may be done with oral iron or intravenous iron, with intravenous iron being utilized later in pregnancy or if there is an inadequate response to oral iron in the first trimester. In Canada, iron sucrose has been used, however iron isomaltoside is as safe as other formulations of IV iron but can replete iron stores with a single visit. Replenishing iron stores reduces both maternal and n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age and over\n* Pregnancy with Gestational age ≥13 weeks\n* Iron deficiency anemia defined as:\n* Hemoglobin less than or equal to 110g/L and\n* Serum ferritin less than 30ng/mL or\n* Iron Saturation (Iron/TIBC) less than 20%\n* Willing to participate and attend all plan",
+      "endpoints": [
+        "Correction of anemia",
+        "Correction of anemia",
+        "Correction of anemia"
+      ],
+      "sponsor": "Saskatchewan Health Authority - Regina Area",
+      "url": "https://clinicaltrials.gov/study/NCT05251493"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05179226",
+      "title": "A Phase III, Prospective, Open-label, Multi-center Trial of Ferric Derisomaltose in Children 0 to <18 Years of Age With Iron Deficiency Anemia Due to NDD-CKD or With Iron Deficiency Anemia Who Are Intolerant or Unresponsive to Oral Iron",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-11-28",
+      "completion_date": "2026-04-30",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "Several clinical trials have been reported for ferric derisomaltose where it has been shown to be well tolerated and to improve markers of IDA. All clinical trials with ferric derisomaltose have been performed in adults, however, IDA is not specific to the adult population. In fact, children are likely to develop IDA due to their rapid growth.\n\nThe aim in this trial is to evaluate the efficacy and safety of intravenous (IV) ferric derisomaltose in children 0 to \\<18 years of age with IDA due to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects \\<18 years\n* Informed consent and child assent, as age-appropriate, obtained before any trial- related activities and willingness to participate. LAR of the subject must sign and date the ICF (according to local requirements). The child must sign and date the CAF or p",
+      "endpoints": [
+        "Incidence of subjects with a Hb increase of ≥1 g/dL (NDD-CKD) or 2 g/dL (intolerant or unresponsive to oral iron). Measurement by bloodsample."
+      ],
+      "sponsor": "Pharmacosmos A/S",
+      "url": "https://clinicaltrials.gov/study/NCT05179226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07356258",
+      "title": "Iron Supplementation Frequency and Tolerability in Pregnancy",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2026-06",
+      "country": "Israel",
+      "enrollment": 50,
+      "brief_summary": "The goal of this prospective observational study is to examine the frequency of gastrointestinal side effects associated with oral iron supplementation during pregnancy. The main question it aims to answer is:\n\nDoes intermittent oral iron supplementation result in fewer gastrointestinal side effects compared with daily supplementation in pregnant women? Pregnant women who are prescribed oral iron as part of their routine medical care will take ferrous sulfate on an alternate-day schedule for one",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women aged 18-50\n* Indication for oral iron treatment as determined by the treating physician, in accordance with standard clinical practice\n* Baseline iron store levels measured prior to initiation of oral iron therapy\n\nExclusion Criteria:\n\n* Women taking ferrous sul",
+      "endpoints": [
+        "Incidence of gastrointestinal side effects in response to iron intake"
+      ],
+      "sponsor": "Bnai Zion Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT07356258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01385189",
+      "title": "Phase I Study of the Safety and Immunogenicity of Na-GST-1/Alhydrogel® With Different Doses of the Novel Immunostimulant GLA-AF in Healthy Adults",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2015-06",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study is designed to evaluate the safety, reactogenicity, and immunogenicity of Na-GST-1 adsorbed to Alhydrogel® with or without two different dose concentrations of a novel adjuvant, GLA-AF (1 µg or 5 μg) among healthy adult volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between 18 and 45 years, inclusive.\n* Good general health as determined by means of the screening procedure.\n* Available for the duration of the trial (16 months).\n* Willingness to participate in the study as evidenced by signing the informed consent document.",
+      "endpoints": [
+        "Immediate Vaccine Related Adverse Events"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01385189"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05802732",
+      "title": "Diagnostic Accuracy Of Stool Antigen In Diagnosis Of Helicobacter Pylori Infection In Children",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-01-01",
+      "completion_date": "2024-04",
+      "country": "Egypt",
+      "enrollment": 63,
+      "brief_summary": "Helicobacter pylori is among the most common bacterial infections in humans. Helicobacter pylori is a Gram-negative, S -shaped rod .The most likely mode of transmission is fecal-oral or oral-oral. Helicobacter pylori infection is acquired in early life and continues to have a high prevalence, especially in developing countries. Growing antibiotic-resistant strains necessitate adapted treatments. The majority of children with Helicobacter pylori infection remain asymptomatic, although a percentag",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- 1. Children and adolescents between 4 and 18 years old having chronic or reccurent unexplained dyspeptic symptoms (epigastric pain, post prandial fullness, early satiety, bleching, heart burn, bloating, flatulence, regurgitation, nausea, vomiting and/ or halitosis)(Miwa et al",
+      "endpoints": [
+        "detect the diagnostic accuracy of stool Ag test in diagnosis of H.pylori infction in children and adolescents"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05802732"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02856633",
+      "title": "Preliminary Testing of the Vitaliti CVSM Wearable, Vitaliti Spirotoscope, and Vitaliti IVD Station",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-07",
+      "completion_date": "2017-05",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "The study objective is to satisfy the testing requirements for the Qualcomm Tricorder XPRIZE Competition. This requires an oversight model using the Vitaliti CVSM Wearable, Vitaliti Spirotoscope, and Vitaliti IVD Station to continuously monitor the patient's five core vital signs and to detect the health conditions required by the competition.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 to 65 years of age.\n* English speaking\n* Established diagnosis of one of the thirteen required conditions with evidence in Medical Record.\n\nExclusion Criteria:\n\n* Lack of patient consent\n* Has pacemaker or internal medical device\n* Pregnancy\n* Concurrent enrollment into",
+      "endpoints": [
+        "Successful diagnosis of patient's condition by Vitaliti software as compared to patient's Medical Record"
+      ],
+      "sponsor": "Cloud DX Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02856633"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02440087",
+      "title": "Evaluation of the Dietary Supplement Refill Bypass Administered Sublingually to Reduce Nutritional Deficiencies of Patients Who Underwent Bariatric Surgery Type Gastric Bypass",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2016-04",
+      "country": "France",
+      "enrollment": 35,
+      "brief_summary": "This is a cohort, observational, prospective, multicenter, longitudinal study. 100 patients will be followed postoperatively for a period of 12 months. Intermediate statistical analyzes will be performed at 1 month, 3 months, 6 months and 9 months.\n\nThis observational study is non-interventional, it does not change the usual care of patients who underwent a bariatric surgery. Data collection will be carried out during routine visits planned in the post-operation usual follow-up. The blood tests ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with a scheduled bariatric surgery \"gastric bypass\",\n* Patient who performed a blood test before surgery,\n* Patient compliant.\n\nExclusion Criteria:\n\n* Allergy to components of the dietary supplement,\n* Pregnancy or breastfeeding,\n* Any biological abnormality considered",
+      "endpoints": [
+        "Reduction of iron deficiency"
+      ],
+      "sponsor": "Refill France",
+      "url": "https://clinicaltrials.gov/study/NCT02440087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02701309",
+      "title": "Non-invasive Optical Detection of Iron Deficiency in Children- Evaluation of a Fiber Optic Tissue Fluorescence Measurement to Determine the Erythrocyte Zinc Protoporphyrin-IX/Heme Ratio",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-04",
+      "completion_date": "2016-09",
+      "country": "Germany",
+      "enrollment": 100,
+      "brief_summary": "This study aims to evaluate a prototype device detecting zinc protoporphyrin-IX fluorescence non-invasively from the intact oral mucosa in children. The prototype device has shown high sensitivity and specificity in women after delivery for iron deficiency. Children are at increased risk for iron deficiency and prevention methods are not established jet. Zinc protoporphyrin-IX is an early indicator of iron deficiency and may be more sensitive than other established parameters. The prototype devi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children aged 9 months to 5 years\n* Planed blood sampling, independently from this study\n* Informed written consent to participation´s guardian in the study\n\nExclusion Criteria:\n\n* the ability of the guardian is not given to approve the consent\n* transfusion of blood products ",
+      "endpoints": [
+        "Comparison of non-invasive erythrocyte zinc protoporphyrin IX measurements with HPLC reference (Spearman's Rho correlation, sensitivity and specificity)"
+      ],
+      "sponsor": "Ludwig-Maximilians - University of Munich",
+      "url": "https://clinicaltrials.gov/study/NCT02701309"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01785407",
+      "title": "Using Stable Iron Isotopic Techniques and Serum Hepcidin Profiles to Optimize Iron Supplementation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2013-06",
+      "country": "Switzerland",
+      "enrollment": 25,
+      "brief_summary": "Oral iron supplementation (OIS) is a widely-used strategy to treat iron deficiency anemia. However, absorption of OIS is often low and response is variable. To overcome this, large doses are given but this may reduce compliance due to gastric irritation. Thus, OIS doses should be low, while maximizing absorption. The prevailing serum hepcidin concentration (SHep) is the major determinant of iron absorption and erythrocyte iron utilization. Based on limited data in humans, SHep can be increased b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI 17-25\n* No anemia\n* Low iron stores defined as Serum Ferritin \\< 20 micrograms/L\n* No blood donation in in the last 4 months\n* No intake of vitamin and mineral supplements 2 weeks prior and during the study\n\nExclusion Criteria:\n\n* Chronic, metabolic, gastrointestinal disea",
+      "endpoints": [
+        "Iron bio-availability from Oral Iron Supplements (%)"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT01785407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03596996",
+      "title": "Optimizing Iron Status While Minimizing Morbidity in HIV-infected Ugandan Children",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-04-19",
+      "completion_date": "2020-02-10",
+      "country": "Uganda",
+      "enrollment": 200,
+      "brief_summary": "Randomized, placebo-controlled trial of the effect of 84 days of daily iron supplementation on iron status, gut microbiome profile, infectious disease frequency, and HIV disease severity in moderately anemic \\[hemoglobin 9 - \\<11 g/dL (6-59 mo); hemoglobin 9 - \\< 11.5 g/dL (5 -12 years)\\], HIV-infected Ugandan children between the ages of 6 mos and 12 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of HIV (based JCRC clinic records);\n2. On Highly Active Antiretroviral Treatment (HAART) for ≥ 6 months\n3. Age 6 months - 12 years at the time of screening\n4. Hemoglobin 9 - \\<11 g/dL (6-59 mo); hemoglobin 9 - \\< 11.5 g/dL (5 -12 years)by CBC at time of sc",
+      "endpoints": [
+        "Hemoglobin",
+        "Anemia",
+        "Iron status"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT03596996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03371173",
+      "title": "A Pilot Study to Explore Preliminary Safety, Tolerability and Efficacy of ORal IrON Supplementation With Ferric Maltol in Treating Iron Deficiency in Patients With Pulmonary Hypertension and Iron Deficiency Anemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2018-03-27",
+      "completion_date": "2020-03-19",
+      "country": "Germany",
+      "enrollment": 22,
+      "brief_summary": "This is an explorative, open-label, uncontrolled, single center study to explore the preliminary safety, tolerability and efficacy of oral ferric maltol in treating iron deficiency in patients with pulmonary hypertension and iron deficiency anemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed written informed consent prior to any study-related procedure and willingness to comply with treatment and follow-up procedures\n2. Male and female patients ≥18 years at day of inclusion\n3. Patients capable of understanding the investigational nature, potential risks an",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to week 12"
+      ],
+      "sponsor": "Hannover Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT03371173"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00102245",
+      "title": "Clinical and Laboratory Investigation of Humans With Informative Iron or Erythroid Phenotypes",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2005-01-18",
+      "completion_date": "2017-08-04",
+      "country": "United States",
+      "enrollment": 334,
+      "brief_summary": "This study will examine blood for factors that may cause or prevent diseases involving iron or red blood cells. Iron is an important nutrient for human health that is needed to produce red blood cells. Red blood cells carry oxygen to body tissues. A better understanding of iron and red blood cells may help lead to better treatment of several diseases including anemia.\n\nPatients of all ages with red cell abnormalities in the following categories may be eligible for this study:\n\n* Diseases with de",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nA clinically definable iron or erythroid cell phenotype as defined by:\n\nGroup 1: Patients with known iron or erythroid diseases (examples: iron deficient anemia or ineffective erythropoiesis).\n\nOR\n\nGroup 2: Patients with diseases of unknown etiology (example: unexplained iron ",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00102245"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03377777",
+      "title": "Development of Infants and Young Children Living in the Amazon Region of Peru: Relationship With Anemia, Chronic Malnutrition, and Gut Microbiota.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-08-01",
+      "completion_date": "2014-11-30",
+      "country": "N/A",
+      "enrollment": 203,
+      "brief_summary": "Serum and fecal samples were collected from infants at either 6-7 m of age or 12-13 m of age. Serum and feces were analyzed locally for hemoglobin status or evidence of parasites, and standard of care was provided. Excess serum was transported to UC Davis for metabolomics analysis and the University of Hohenheim for iron status assessment and measurement of inflammatory markers. Fecal samples were transported to UC Davis for measurement of the microbiome structure and function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outwardly healthy,\n* birthweight \\> 2,500 g\n* term births\n* residents in Moronacocha, Iquitos, Loreto\n\nExclusion Criteria:\n\n* Obvious signs of illness or malnutrition\n* birthweight \\< 2,500 g\n* preterm birth\n* not a resident of Moronacocha, Iquitos, Loreto",
+      "endpoints": [
+        "Anemia status"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT03377777"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02546154",
+      "title": "A Non-interventional Study of the Time to Relapse of Iron Deficiency Anaemia After Standard Treatment With the Intravenous Iron Monofer® (10% Iron Isomaltoside 1000)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-01-22",
+      "completion_date": "2018-12",
+      "country": "United Kingdom",
+      "enrollment": 359,
+      "brief_summary": "The objective is to monitor and quality assure the efficacy, including effects on quality of life, and safety of Monofer® in Chronic Kidney Disease and Inflammatory Bowel Disease patient populations when Monofer® is used according to the Monofer® label (Summary of Product Characteristics, SPC) in current clinical practice and where standard routines are being followed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with iron deficiency anaemia as a consequence of CKD or IBD (on the basis of local definition or clinical judgement), treated on the doctor's discretion with Monofer® as standard treatment according to current practice\n\nExclusion Criteria:\n\n* Patients diagno",
+      "endpoints": [
+        "Time to relapse of iron deficiency anaemia"
+      ],
+      "sponsor": "Pharmacosmos A/S",
+      "url": "https://clinicaltrials.gov/study/NCT02546154"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03703739",
+      "title": "Effect of Solubilizing Agents on Iron Absorption From Iron Fortified Rice in Young Women",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-02",
+      "completion_date": "2018-12",
+      "country": "Switzerland",
+      "enrollment": 22,
+      "brief_summary": "Food fortification is regarded as a safe and cost-effective approach to counteract and prevent iron deficiency. Rice is a staple food for millions of people living in regions where iron-deficiency anaemia is a significant public health problem. Therefore, rice may be a promising fortification vehicle. Ferric pyrophosphate (FePP) is an acceptable iron compound for rice fortification, due to its white colour and low reactivity with the rice matrix. However, iron from FePP generally has a low bioav",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female, 18 to 40 years old\n* Normal body Mass Index (18.5 - 25 kg/m2)\n* Body weight ≤ 65 kg\n* Signed informed consent\n\nExclusion Criteria:\n\n* Pregnancy (assessed by self-declaration)\n* Lactating up to 6 weeks before study initiation\n* Anaemia (Hb \\< 12.0 g/dL)\n* Elevate CRP (\\",
+      "endpoints": [
+        "Change from baseline in the isotopic ratio of iron in blood at week 2",
+        "Change from week 2 in the isotopic ratio of iron in blood at week 4",
+        "Change from week 4 in the isotopic ratio of iron in blood at week 6"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT03703739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04343170",
+      "title": "Effect of Ultra-short-term Treatment of Patients With Iron Deficiency or Anemia Undergoing Adolescent Scoliosis Correction",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2024-10-01",
+      "country": "Egypt",
+      "enrollment": 44,
+      "brief_summary": "Scoliosis is a condition in which there is curvature of the spine occurring in the lateral plane. It occurs in structural forms, characterized by a fixed curve, and \"functional\" forms, characterized by a flexible or correctable curve. By anatomic necessity, this lateral deviation is associated with vertebral rotation, such that when this deformity occurs in the thoracic spine, a chest wall deformity, or \"rib hump,\" develops.\n\nOften there is a primary structural curve with an adjacent secondary c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with idiopathic adolescent scoliosis\n* patients with anemia (haemoglobin concentration (Hb) \\<12g/dL in women and Hb \\<13 g/dL in men)\n* patients with isolated iron deficiency (ferritin \\<100 mcg/L, no anemia)\n\nExclusion Criteria:\n\n1. Impairments, diseases (renal \\&/ ",
+      "endpoints": [
+        "percentage of patients not required blood transfusion"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04343170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00456729",
+      "title": "Malabsorption as a Cause of Iron Treatment Failure in Infants - A Clinical Observational Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2006-07",
+      "country": "Israel",
+      "enrollment": 100,
+      "brief_summary": "Infants should receive prophylacatic iron supplementation since age 4 months till one year. Patients suffering from malabsorption, mainly Giardia infestation may develop iron deficiency resistent to further iron treatment. The purpose of this study is to assess the incidence of malabsorption in those infants and to examine the results of empiric treatment with metronidazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All infants referred to the Pediatric Hematology Unit because lack of response to iron treatment.\n\nExclusion Criteria:\n\n* Patients diagnosed with specific malabsorption causes like Celiac or Cystic Fibrosis.",
+      "endpoints": [
+        "Hgb level"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT00456729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04071067",
+      "title": "Anemia of Inflammation and Deficiency Anemia in Critically Ill Patients; Biological Markers",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-01-01",
+      "completion_date": "2021-07-01",
+      "country": "Romania",
+      "enrollment": 1000,
+      "brief_summary": "Critical patients which requiring admission to intensive care (IT) are a special group of patients. In these patients the prevalence of anemia reported in studies is 75%. This prevalence is similar to that in the retrospective observational study conducted in our intensive care unit(ICU). Of the 783 patients included in the study, 551 (73.37%) had anemia on admission. Frequently anemia is present on discharge from ICU or hospital and may persist for an average of 11 weeks. Some studies have repo",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients admitted to ICU\n\nICU stay \\>48hours\n\nExclusion Criteria:\n\n* Refusal to participate in the study\n* Allergy to iron products\n* Anemia requiring massive transfusion in the last 7 days\n* Treatment of iron products in the last 7 days\n* Chronic renal failure with GFR \\<30mL /",
+      "endpoints": [
+        "Change in hemoglobin levels during ICU stay",
+        "Number of transfusions during ICU stay"
+      ],
+      "sponsor": "Iuliu Hatieganu University of Medicine and Pharmacy",
+      "url": "https://clinicaltrials.gov/study/NCT04071067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04250298",
+      "title": "Pilot Study to Gain First Indications for the Impact of a Three-month's Oral Intake of an Iron Supplement With High Bioavailability on the Hemoglobin Concentration in Iron Deficient Blood Donors",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-11-13",
+      "completion_date": "2020-12-20",
+      "country": "Austria",
+      "enrollment": 50,
+      "brief_summary": "The aim of this descriptive/explorative pilot study is to examine the effects of supplementing a sucrosomial iron preparation in whole blood donors with iron deficiency for three months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Deferral from donation because of low capillary hemoglobin (Hb) \\<12.5 g/dl (women) and Hb \\<13 g/dl;\n* Otherwise eligibility for donation according to medical history;\n* Ferritin at the time of deferral \\<30 ng/ml;\n* Last whole blood donation \\>2 months prior to current hemog",
+      "endpoints": [
+        "Hb (g/dl) at E2",
+        "Δ Hb (g/dl) (E2-E1)",
+        "Δ Hb (g/dl) (E2-E1) / 90 Days"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT04250298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04642521",
+      "title": "Anaemia and Handgrip Strength, a Prospective Observatonal Study Amongst Female Population Planned for Major Elective Surgery",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-11-18",
+      "completion_date": "2021-04-30",
+      "country": "Malaysia",
+      "enrollment": 65,
+      "brief_summary": "This is a sub-study parallel to ProPBM : A Randomised Control Trial Comparing a Modified Patient Blood Management Protocol Against Standard Care for Patients Undergoing Major Surgery (NCT03888768).\n\nOnly female participants of ProPBM will be included in this sub-study.\n\nAssociation between anaemia and handgrip strength and the effect of intravenous iron therapy as part of ProPBM protocol within female participants is elucidated in this study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients participating in the ProPBM study\n* Undergoing major surgery in gynaecology, gastrointestinal surgery and orthopaedics surgery\n* The patient must be willing and able to provide informed consent for the study\n\nExclusion Criteria:\n\n* Patients with known muscle we",
+      "endpoints": [
+        "Association between handgrip strength and haemoglobin status within female participants of ProPBM study"
+      ],
+      "sponsor": "University of Malaya",
+      "url": "https://clinicaltrials.gov/study/NCT04642521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03310736",
+      "title": "Evaluation of the Intrinsic Hepcidin IDx™ Test to Detect Iron Deficiency and Predict Response to Oral Iron Therapy in Adolescents and Young Adults",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-06-30",
+      "completion_date": "2019-02-28",
+      "country": "United States",
+      "enrollment": 494,
+      "brief_summary": "This is a single center, prospective, observational study to demonstrate the clinical validity of the Intrinsic LifeSciences (ILS) Intrinsic Hepcidin IDx™ Test in the diagnosis and management of iron deficiency (ID) in adolescents and young adults. This test is considered non-significant risk.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age at least 11 years\n* Subjects must give informed assent/ consent prior to the blood draw. Subjects that are minors (\\<18 years) must have a parent or guardian give informed consent and the subject must give assent to participate in the study.\n* Willing to comply with all or",
+      "endpoints": [
+        "Diagnostic accuracy of the Intrinsic Hepcidin IDx test"
+      ],
+      "sponsor": "Intrinsic LifeSciences, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03310736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03803111",
+      "title": "A Randomized Trial on Sequential Effects of Iron Therapy and Exercise Training in Patients With Heart Failure and Iron Deficiency",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2022-03-15",
+      "country": "Germany",
+      "enrollment": 0,
+      "brief_summary": "It is the aim of the study to prove, if intravenous supplementation with ferric carboxymaltose in iron-deficient patients with heart failure with reduced ejection fraction (HFrEF) leads to better exercise training effects compared to exercise training without previous iron supplementation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Heart failure with reduced ejection fraction ≤ 40%\n* New York Heart Failure Asssociation class II-III\n* Iron deficiency (ferritin \\< 100 ng/ml or 100-299 ng/ml, if transferrin saturation \\< 20%)\n\nExclusion Criteria:\n\n* Planned cardiovascular interventions (such as bypass surge",
+      "endpoints": [
+        "Exercise capacity (Peak VO2)"
+      ],
+      "sponsor": "Herzzentrum Bremen",
+      "url": "https://clinicaltrials.gov/study/NCT03803111"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03516734",
+      "title": "The Effect of Iron-fortified Lentils on the Iron (Fe) Status Among the Adolescent Girls in Bangladesh- a Double-blind Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-30",
+      "completion_date": "2021-04-30",
+      "country": "Bangladesh",
+      "enrollment": 1252,
+      "brief_summary": "We designed a double-blind, community-based, cluster-randomized control trial which will test to establish novel evidence on the efficacy of iron-fortified lentil in improving body Fe status of non-pregnant adolescents in rural Mymensingh district of Bangladesh. Lentils will be fortified with iron in the lab setting at the Crop Development Center (CDC) of the University of Saskatchewan in Canada. There will be three lentils based dietary intervention arm in this efficacy trial. Arm 1 will be int",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescent girls who attend the BRAC adolescent clubs\n* Age between 10 -17 years\n* Non-smoking\n* Not pregnant\n* Not breastfeeding\n* Generally healthy.\n\nExclusion Criteria:\n\n* Unwilling to participate\n* Active illness during recruitment\n* Known case of Infectious disease",
+      "endpoints": [
+        "Changes in Serum ferritin level (micrograms per liter)"
+      ],
+      "sponsor": "University of Saskatchewan",
+      "url": "https://clinicaltrials.gov/study/NCT03516734"
+    }
+  ],
+  "timestamp": "2026-03-04T16:20:29.260129",
+  "success": true,
+  "error_message": null
+}

@@ -6,7 +6,7 @@ drug_name: "Celecoxib"
 kg_predictions: 198
 dl_predictions: 121
 evidence_level: "L1"
-indication_count: 198
+indication_count: 5
 brands: []
 permalink: /drugs/celecoxib/
 ---

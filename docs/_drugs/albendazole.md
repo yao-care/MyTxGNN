@@ -6,7 +6,7 @@ drug_name: "Albendazole"
 kg_predictions: 72
 dl_predictions: 286
 evidence_level: "L1"
-indication_count: 72
+indication_count: 5
 brands: []
 permalink: /drugs/albendazole/
 ---

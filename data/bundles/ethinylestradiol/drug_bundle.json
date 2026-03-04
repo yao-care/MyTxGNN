@@ -1,0 +1,2782 @@
+{
+  "drug": {
+    "name": "Ethinylestradiol",
+    "drugbank_id": "DB00977",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "acne",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00480532",
+            "title": "A Study of Continuous Oral Contraceptives and Doxycycline",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-05",
+            "completion_date": "2011-05",
+            "country": "United States",
+            "enrollment": 131,
+            "brief_summary": "The purpose of this study is to learn if the study drug, doxycycline, can decrease the amount of unplanned vaginal bleeding that women commonly experience when taking combined oral contraception (COC)- pills with estrogen and progestin - in a continuous fashion - no hormone-free week. The study drug, doxycycline, is an antibiotic used commonly for many conditions (i.e. acne, Chlamydia infections, pneumonia) and can be safely used on a daily basis. Doxycycline has been shown to decrease unplanned",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* General good health\n* Willing and able to agree to randomization and sign informed consent\n* Currently having regular menstrual cycles (24-36 days), with combined cyclic hormonal method (COCs, Nuva Ring, Ortho Evra), without intermenstrual bleeding in last 2 years.\n\nExclusion ",
+            "endpoints": [
+              "Differences in Bleeding Patterns Between Study Groups."
+            ],
+            "sponsor": "Oregon Health and Science University",
+            "url": "https://clinicaltrials.gov/study/NCT00480532"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00722800",
+            "title": "A Single-Center, Randomized Double-Blind, Parallel-Group Study to Examine the Safety and Efficacy of YAZ Compared With Placebo In The Treatment Of Hidradenitis Suppurativa",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2008-10",
+            "completion_date": "2011-12",
+            "country": "United States",
+            "enrollment": 4,
+            "brief_summary": "The purpose of this study is to find out if taking a birth control pill, YAZ, is safe and effective for treating hidradenitis suppurativa. Hidradenitis suppurativa (HS) is a chronic (long lasting) skin disorder that mostly affects the armpits and groin area. It appears as blackheads and one or more red, tender bumps that may enlarge, break open, and drain pus. Scarring may result after several attacks of the disease.\n\nThe exact cause of HS isn't known. However, it is believed that the plugging o",
+            "eligibility_criteria": "INCLUSION CRITERIA\n\n1. Female Subjects 14-45 years of age who have achieved spontaneous menarche.\n2. Clinical diagnosis of hidradenitis suppurativa of stage II or greater on the Hurley scale.\n3. Willing and able to understand and sign informed consent.\n4. Able to complete study and comply with study",
+            "endpoints": [
+              "Mean Improvement in the Sartorius Severity Score at Month 6."
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00722800"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06067256",
+            "title": "A Multicentre, Prospective, Open-label, Non-comparative Study to Evaluate Menstrual Bleeding Typology, Tolerability, and Compliance During a Monophasic Hormonal Contraceptive Treatment With Norgestimate + Ethinylestradiol in Italy.",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2023-07-20",
+            "completion_date": "2024-06",
+            "country": "Italy",
+            "enrollment": 228,
+            "brief_summary": "As there are no recent studies conducted in Italy on the profile of this COC, the purpose of this study is to evaluate its efficacy and tolerability in a given subset of women residing in Italy that are in need of contraception. Evaluate the cycle control: breakthrough bleeding (bleeding and/or spotting between cyclically regular onset of menses) of monophasic oral contraceptive pill Effimia® (NGM250 + EE35) in a population of women residing in Italy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All the following criteria must be met.\n\n  * Healthy women aged between 18 and 35 years (inclusive) in need of contraception.\n  * Subjects residing in Italy and having a good knowledge of the Italian language, such as to correctly understand the Informed Consent Form, the inst",
+            "endpoints": [
+              "Cycle control evaluation parameter"
+            ],
+            "sponsor": "Italfarmaco",
+            "url": "https://clinicaltrials.gov/study/NCT06067256"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00752635",
+            "title": "Comparison of Efficacy and Safety of Tricilest (Norgestimate-ethinyl Estradiol) and Diane-35 (Cyproterone Acetate-ethinyl Estradiol) in the Treatment of Acne Vulgaris",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2004-09",
+            "completion_date": "2005-09",
+            "country": "N/A",
+            "enrollment": 48,
+            "brief_summary": "The purpose of this study was to evaluate the effectiveness and safety of norgestimate-ethinyl estradiol as comparted with cyproterone acetate-ethinyl estradiol among female patients with moderate acne vulgaris.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female adults who were suffering from moderate acne vulgaris (grade II or III)\n* With 6 to 100 comedones (non-inflammatory lesions)\n* With 10 to 50 inflammatory lesions (papules or pustules)\n* With fewer than 5 nodules\n* Agree to condoms or diaphragm, and spermicide or any oth",
+            "endpoints": [
+              "The primary efficacy variable was the change form baseline to the latest available evaluation in total lesion count. The primary efficacy result of this study clearly manifested the potency of TriCilest."
+            ],
+            "sponsor": "Johnson & Johnson Taiwan Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT00752635"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01511822",
+            "title": "Clinical, Metabolic and Endocrine Effects of the Treatment With Drospirenone and Ethinyl Estradiol Alone or in Combination With Myo-inositol in Young Women With Polycystic Ovary Syndrome (PCOS) and Insulin Resistance",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "",
+            "country": "Italy",
+            "enrollment": "N/A",
+            "brief_summary": "Polycystic ovary syndrome (PCOS) is a heterogeneous syndrome with a variety of metabolic and endocrine abnormalities and clinical symptoms.\n\nThe primary defect in PCOS consists of an abnormal androgen synthesis and secretion, particularly by ovarian theca cells. Insulin resistance and obesity may act as triggers, explaining the frequent association of PCOS with these metabolic conditions. Hyperinsulinaemia, which results from insulin resistance, stimulates both ovarian and adrenal androgen secre",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Women fulfilled two out of three diagnostic criteria for PCOS, according to the 2003 Rotterdam Consensus conference\n* Women with PCOS, insulin resistance, acne, hirsutism and seborrhea\n\nExclusion Criteria:\n\n* Women with pre-existing secondary endocrine disorders\n* Women wishin",
+            "endpoints": [
+              "Score acne (acne grading system by Cook et al)",
+              "Score hirsutism (Ferriman-Gallwey classification)",
+              "Measurement of sex hormones in serum"
+            ],
+            "sponsor": "AGUNCO Obstetrics and Gynecology Centre",
+            "url": "https://clinicaltrials.gov/study/NCT01511822"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03819140",
+            "title": "Continuous Versus Cyclical OCP Use in PCOS: A Pilot Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2019-04-01",
+            "completion_date": "2022-10-16",
+            "country": "United States",
+            "enrollment": 51,
+            "brief_summary": "The mainstay treatment for females with Polycystic Ovary Syndrome (PCOS) has long been a combination of an oral contraceptive pill or OCP (containing both estrogen and progestin) along with an anti-androgen medication (such as Spironolactone) to not only prevent chronic anovulation but also suppress elevated testosterone levels and its clinical effects on the body. While there are multiple OCPs available on the market today and several studies that look at different progestins and their anti-and",
+            "eligibility_criteria": "Inclusion Criteria: To be included in this study, participants must be:\n\n1. Female, within 15-40 years of age\n2. Diagnosed with Polycystic Ovary Syndrome based on the 2003 Rotterdam Criteria (must meet 2 out of 3 criteria):\n\n   1. evidence of either biochemical or clinical hyperandrogenism (elevated",
+            "endpoints": [
+              "Change in Biochemical Hyperandrogenism From Baseline to 1 Month Post Yasmin Initiation",
+              "Change in Biochemical Hyperandrogenism From Baseline to 3 Month Post Yasmin Initiation",
+              "Change in Biochemical Hyperandrogenism From Baseline to 6 Month Post Yasmin Initiation"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT03819140"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00998257",
+            "title": "Regulatory Post Marketing Surveillance Study on YAZ",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2009-07",
+            "completion_date": "2011-11",
+            "country": "South Korea",
+            "enrollment": 770,
+            "brief_summary": "The objective of this Post Marketing Surveillance (PMS) is to gain information about safety and efficacy in real practice.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy female subjects\n\n  * requesting contraception\n  * suggesting PMDD by Physician who are also requesting contraception\n  * with acne who are also requesting contraception\n* Age: 18 - 50 years\n* Women who is prescribed YAZ first, during study period\n\nExclusion Criteria:\n\n",
+            "endpoints": [
+              "Adverse event collection",
+              "Contraception efficacy",
+              "Drug compliance"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00998257"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00818519",
+            "title": "A Multicenter, Double-blind, Randomized, Placebo Controlled Study to Evaluate the Efficacy and Safety of an Oral Contraceptive Preparation YAZ (Drospirenone 3 mg / Ethinylestradiol 20 µg) for 6 Treatment Cycles in Women With Moderate Acne",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-12",
+            "completion_date": "2010-05",
+            "country": "China",
+            "enrollment": 179,
+            "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of YAZ (drospirenone 3 mg / ethinylestradiol 20 µg) in comparison with placebo in female patients with moderate acne vulgaris over 6 treatment cycles.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Women of age 14-45 years\n* \\>1 year post-menarche with moderate acne vulgaris who have no known contraindications to combined oral contraceptives\n* Otherwise healthy, except for the presence of moderate acne\n* Smokers up to a maximum age of 30 (inclusive) at inclusion\n\nExclusi",
+            "endpoints": [
+              "Percent Change From Cycle 6 to Baseline in the Total Lesion Count (Open and Closed Comedones, Papules, Pustules, and Nodules) in the FAS (Full Analysis Set)",
+              "Percent Change From Cycle 6 to Baseline in the Total Lesion Count (Open and Closed Comedones, Papules, Pustules, and Nodules) in the PPS (Per Protocol Set)"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00818519"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01850095",
+            "title": "The Influence of Peripheral Androgen Conversion at Toll-like Receptors-2 and CD1d Expressions in Human Keratinocytes as Well as Their Modulation After 6 Months Treatment With Oral Contraceptive.",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2012-03",
+            "completion_date": "2015-01",
+            "country": "Brazil",
+            "enrollment": 60,
+            "brief_summary": "Acne vulgaris is a chronic inflammatory disease that affects the pilosebaceous unit. Recent studies have demonstrated an increase number of acne cases in adult women. These cases are predominantly normoandrogenic and have some clinical differences when compared with the most common group, the adolescent. The local glandular metabolism converts some hormonal precursors to more active substances that increase the sebum production, leaving these areas more prone to increase the colonization to Prop",
+            "eligibility_criteria": "Inclusion Criteria:\n\nTo all:\n\n1. Signing the consent form before any study procedures;\n2. women aged 26 to 44 years, not pregnant and in good health;\n3. no topical treatment for acne in the past three months,\n4. absence of the use of oral antibiotics in the last 3 months;\n5. absence of the use of is",
+            "endpoints": [
+              "Clinical evaluation of the treatment group"
+            ],
+            "sponsor": "Federal University of São Paulo",
+            "url": "https://clinicaltrials.gov/study/NCT01850095"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01466673",
+            "title": "Comparative Study of the Effect on Acne With Norgestimate Containing Triphasic Oral Contraceptive and Biphasic Preparation Containing Desogestrel",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2008-12",
+            "completion_date": "2010-03",
+            "country": "Thailand",
+            "enrollment": 201,
+            "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Ethinyl estradiol and Norgestimate (EE/NGM) compared to Ethinyl estradiol and Desogestrel (EE/DSG), for treatment of female participants with mild to moderate acne vulgaris (pimples).",
+            "eligibility_criteria": "Inclusion Criteria: - Needs contraception in the family planning - Mild to moderate acne vulgaris - Agrees to take only the supplied study drug as treatment for acne during the 6-month treatment phase of the study - Signs and dates an informed consent to participate in the study - female participant",
+            "endpoints": [
+              "Change From Baseline in Total and Each Type of Acne Lesions Count at Month 1",
+              "Change From Baseline in Total and Each Type of Acne Lesions Count at Month 3",
+              "Change From Baseline in Total and Each Type of Acne Lesions Count at Month 6"
+            ],
+            "sponsor": "Janssen-Cilag Ltd.,Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT01466673"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02410031",
+            "title": "Study to Evaluate Physician Knowledge of Safety and Safe Use Information for Diane-35 and Its Generics in Europe: An Observational Post-Authorisation Safety Study",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-06-26",
+            "completion_date": "2016-03-04",
+            "country": "France, Spain, Czechia, Austria, Netherlands",
+            "enrollment": 759,
+            "brief_summary": "The study will be an observational, cross-sectional study of knowledge, understanding, and self-reported behavior among a sample of physicians with recent experience in prescribing Diane-35 or its generics in a total of five European countries. The primary objective of this study is to measure physician knowledge and understanding of the key information contained in the Diane-35 educational material: Patient information card, and Prescribers' Checklist.\n\nSpecifically, the following objectives wi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n-Physicians eligible to participate will have recently prescribed (e.g., within previous 6 months) Diane-35 or its generics",
+            "endpoints": [
+              "The knowledge of the physician concerning Diane-35"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT02410031"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00651469",
+            "title": "A Multicenter, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate Safety & Efficacy of Oral Contraceptive Prep., Containing Drospirenone 3 mg/Ethinyl Estradiol 20 Mcg for 6 Treatment Cycles in Women With Moderate Acne Vulgaris.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2004-07",
+            "country": "United States",
+            "enrollment": 534,
+            "brief_summary": "The objectives of this study were to evaluate the efficacy and safety of drospirenone 3 mg/ethinyl estradiol 0.02 mg (DRSP/EE) in comparison with placebo in female subjects with moderate acne vulgaris during 6 treatment cycles.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female age 14-45, with 10 to 100 comedones (noninflammatory lesions), 10 to 50 inflammatory lesions (papules or pustules), and not more than 35 nodules (\\<5mm) on the face).\n\nExclusion Criteria:\n\n* Standard contraindications for use of combined oral contraceptives (class label",
+            "endpoints": [
+              "Percent change in inflammatory lesion counts (including papules, pustules, and nodules), non-inflammatory lesion counts (including open and closed comedones), total lesion count, and the ISGA."
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00651469"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02494297",
+            "title": "Drug Utilization Study on the Prescribing Indications for Cyproterone Acetate and Ethinyl Estradiol in 5 European Countries",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-03-06",
+            "completion_date": "2016-10-31",
+            "country": "Germany",
+            "enrollment": 1597,
+            "brief_summary": "This study was designed to compile the reasons and specific indications for the prescription of Cyproterone Acetate combined with Ethinyl Estradiol by Health Care Providers. The primary objective of the study was to characterize the prescribing behaviors for Cyproterone Acetate combined with Ethinyl Estradiol in 5 European countries (Austria, Czech Republic, France, the Netherlands, and Spain), including:\n\n* prescription indications for Cyproterone Acetate combined with Ethinyl Estradiol\n* use o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Women who are prescribed Cyproterone Acetate combined with Ethinyl Estradiol during the study period\n* Women who are willing to participate in the drug utilization study\n\nExclusion Criteria:\n\n* Women who are not willing to sign the informed consent\n* Women with a language barr",
+            "endpoints": [
+              "Drug Utilization Pattern of Cyproterone Acetate and Ethinyl Estradiol"
+            ],
+            "sponsor": "Center for Epidemiology and Health Research, Germany",
+            "url": "https://clinicaltrials.gov/study/NCT02494297"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00280657",
+            "title": "Multicenter, Double-blind, Double-dummy, Randomized Parallel Group Study to Evaluate the Safety and Efficacy of SH D 00659 E for 6 Treatment Cycles in Female Patients With Acne Papulopustulosa in Comparison to SH D 00659 G and Placebo.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-03-10",
+            "completion_date": "2005-05-21",
+            "country": "Czechia, Russia, Ukraine, Slovakia, Poland",
+            "enrollment": 1326,
+            "brief_summary": "The purpose of the study is to determine safety and efficacy of an oral contraceptive in treating acne papulopustulosa.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with mild to moderate facial papulopustular acne\n\nExclusion Criteria:\n\n* Contraindication against use of hormonal contraceptives",
+            "endpoints": [
+              "Change in lesions"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00280657"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02710708",
+            "title": "Single-arm, Open-label, Interventional Study to Observe the Safety and Efficacy Profile of the Combined Oral Contraceptive YAZ®, a 24-day Cyclic Regimen Containing Drospirenone 3 mg and Ethinyl Estradiol 20 µg During a Treatment Duration of 6 Cycles: a Post-authorization Safety and Efficacy Study in Chinese Women",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2016-05-27",
+            "completion_date": "2018-07-03",
+            "country": "China",
+            "enrollment": 1921,
+            "brief_summary": "The primary objective is to assess the safety profile of YAZ in Chinese women, including adverse drug reactions (ADRs).\n\nThe secondary objectives are to investigate the rate of unintended pregnancies, the cycle control for subjects with and without preceding abortion, the bleeding pattern of subjects with and without preceding abortion (including the abortion-related bleeding pattern) and the efficacy in moderate acne vulgaris.\n\nAnother objective is to investigate the effect on dysmenorrhea.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent\n* Chinese female subjects requesting oral contraception, including subjects who underwent abortion (medical or surgical)\n* Planned use of combined oral contraceptives for at least 6 cycles\n* Age: 18 to 45 years (inclusive); smokers must not be",
+            "endpoints": [
+              "Number of subjects with adverse drug reactions (ADRs)"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT02710708"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00722761",
+            "title": "A Single-Center, Randomized Double-Blind, Parallel-Group Study to Examine the Safety and Efficacy Of YAZ Compared With Placebo In The Treatment Of Moderate Truncal Acne Vulgaris",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2009-04",
+            "completion_date": "2012-04",
+            "country": "United States",
+            "enrollment": 30,
+            "brief_summary": "The purpose of this study is to find out if taking a birth control pill, YAZ, is safe and effective for treating acne on the trunk (the main part of the body that does not include the arms, legs, and head).\n\nAcne vulgaris is a very common skin disorder. It is caused when oil-producing skin glands (sebaceous glands) become plugged. The plug can cause blackheads, whiteheads, pimples, and cysts on the face, neck, upper chest, and upper back.\n\nYAZ is a combination birth control pill. A \"combination\"",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female Subjects 18-45 years of age who have achieved spontaneous menarche.\n* A clinical diagnosis of truncal acne vulgaris and the desire for an oral contraceptive for birth control.\n* A minimum of 10 but not more than 50 inflammatory lesions on the back and chest combined.\n* ",
+            "endpoints": [
+              "Percent Change in Truncal Lesion Counts"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00722761"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01608698",
+            "title": "A Comparison of Body Weight Changing and Side Effects Between Treatment With 30 mcg Ethinylestradiol/2 mg Chlormadinone Acetate (Belara®) and 30 mcg Ethinylestradiol/3 mg Drospirenone (Yasmin®): A Randomized Control Trial",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2012-06",
+            "completion_date": "2016-02",
+            "country": "Thailand",
+            "enrollment": 100,
+            "brief_summary": "The purpose of this study is to evaluate different side effect in contraceptive use of two oral combined contraceptive pills (OCP)in combination of 30 mcg ethinylestradiol/2 mg chlormadinone acetate (Belara®) and 30 mcg ethinylestradiol/3 mg drospirenone (Yasmin®), especially body weight change.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Reproductive woman\n* Woman who has BMI \\< 28.5 kg/m2.\n* Woman who has regular menstruation.\n* Woman who don't have pelvic organ disorder.\n* Woman who want contraception with oral contraceptive pills.\n\nExclusion Criteria:\n\n* Woman who has abnormal blood pressure\n* Woman who has",
+            "endpoints": [
+              "body weight change"
+            ],
+            "sponsor": "Mahidol University",
+            "url": "https://clinicaltrials.gov/study/NCT01608698"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02349399",
+            "title": "Drug Utilization Study on Diane®-35 (and Generics) in European Healthcare Databases",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-05-01",
+            "completion_date": "2016-03-01",
+            "country": "United Kingdom, Netherlands, Italy",
+            "enrollment": 26065,
+            "brief_summary": "The study objectives are to characterize new users of Cyproterone Acetate / Ethinylestradiol (CPA/EE) in 2011/2012 and in 2014 according to demographics, treatment characteristics, previous diagnosis of acne, hirsutism or other hyperandrogenic conditions, previous acne treatment and (concomitant) use of hormonal contraceptives identified in Healthcare Databases in the UK (THIN), the Netherlands (PHARMO) and Italy (HSD).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The study population will include all female patients registered in the investigated healthcare databases receiving CPA/EE in 2011 or 2012 (first run) or 2014 (second run), without a prescription of CPA/EE in the year prior to index date. Only patients with recorded history in",
+            "endpoints": [
+              "Proportion (%) of new users of Diane-35 (or generics) with a previous diagnosis of Acne",
+              "Proportion (%) of new users of Diane-35 (or generics) with a previous diagnosis of Hirsutism",
+              "Proportion (%) of new users of Diane-35 (or generics) with a previous diagnosis of other Hyperandrogenic Conditions (e.g. androgenic alopecia, seborrhea, polycystic ovary syndrome)"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT02349399"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07242131",
+            "title": "Comparison of the Efficacy of Oral Contraceptive, Progesterone, and Inositol Use in Regulating Menstrual Cycles in Patients With Polycystic Ovary Syndrome (PCOS)",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2025-12-01",
+            "completion_date": "2026-06-01",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 150,
+            "brief_summary": "This cross-sectional study aims to compare the effectiveness of oral contraceptives, oral progesterone (didrogesterone), and inositol in regulating menstrual cycles among women diagnosed with polycystic ovary syndrome (PCOS).\n\nPCOS is a common endocrine disorder affecting reproductive-aged women and is associated with menstrual irregularities, hyperandrogenism, and polycystic ovarian morphology. While oral contraceptives are the mainstay of treatment, their use may be contraindicated in patients",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female participants aged 18 to 40 years.\n* Diagnosed with polycystic ovary syndrome (PCOS) according to the ESHRE/ASRM (Rotterdam) criteria (presence of at least two of the following: oligo/anovulation, clinical or biochemical hyperandrogenism, polycystic ovarian morphology).\n",
+            "endpoints": [
+              "Restoration of Regular Menstrual Cycles"
+            ],
+            "sponsor": "Ege University",
+            "url": "https://clinicaltrials.gov/study/NCT07242131"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00656981",
+            "title": "A Multicenter, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate Safety & Efficacy of Oral Contraceptive Prep., Containing Drospirenone 3 mg/Ethinyl Estradiol 20 Mcg for 6 Treatment Cycles in Women With Moderate Acne Vulgaris",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2004-06",
+            "country": "United States",
+            "enrollment": 541,
+            "brief_summary": "The objectives of this study were to evaluate the efficacy and safety of drospirenone 3 mg/ethinyl estradiol 0.02 mg (DRSP/EE) in comparison with placebo in female subjects with moderate acne vulgaris during 6 treatment cycles",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female age 14-45, with 10 to 100 comedones (noninflammatory lesions), 10 to 50 inflammatory lesions (papules or pustules), and not more than 35 nodules (\\<5mm) on the face).\n\nExclusion Criteria:\n\n* Standard contraindications for use of combined oral contraceptives (class label",
+            "endpoints": [
+              "Percent change in inflammatory lesion counts (including papules, pustules, and nodules), non-inflammatory lesion counts (including open and closed comedones), total lesion count, and the ISGA."
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00656981"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "34919250",
+            "title": "Treatment of lean PCOS teenagers: a follow-up comparison between Myo-Inositol and oral contraceptives.",
+            "abstract": "Polycystic ovary syndrome (PCOS) is an endocrinological and metabolic disorder widely diffused and diagnosed in women of reproductive age. The pathology exhibits alteration of the reproductive functions, including conditions as hyperandrogenism, menstrual cycle irregularity, type 2 diabetes. These conditions are visible in the patients through phenotypical manifestations as hirsutism, acne, and obesity. Even if the syndrome is characterized by common features among both adult and adolescent women, the diagnostic criteria are different for the two age categories and to date still controversial. We investigated different treatments in PCOS adolescents with non-severe metabolic conditions, to evaluate which could be the appropriate therapeutical approach for these patients.",
+            "journal": "European review for medical and pharmacological sciences",
+            "year": "2021",
+            "authors": [
+              "Pkhaladze L",
+              "Russo M",
+              "Unfer V",
+              "Nordio M",
+              "Basciani S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Retracted Publication"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Age Factors",
+              "Androstenes",
+              "Body Mass Index",
+              "Contraceptives, Oral",
+              "Ethinyl Estradiol",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Inositol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34919250/"
+          },
+          {
+            "pmid": "9829156",
+            "title": "Dienogest.",
+            "abstract": "The progestogen dienogest exhibits highly selective binding to the progesterone receptor. It has high progestational and significant antiandrogenic activity, but only moderate antigonadotrophic activity. Dienogest inhibits ovulation, produces secretory transformation of the endometrium and has antiproliferative effects. Oral dienogest 2 mg/day plus ethinylestradiol 30 micrograms/day provides effective contraception (Pearl Index approximately 0.2). Cycle stability is good during long term use of this combination; irregular vaginal bleeding was evident in 6% of women after 12 months' use. Androgenic symptoms (including hirsutism, seborrhoea, alopecia, acne vulgaris and hair and skin greasiness) improved in women treated with dienogest plus ethinylestradiol. The adverse events associated with dienogest are typical of those expected of a progestogen. The drug does not produce androgenic adverse effects and has little clinically significant effect on metabolic, lipid and haemostatic paramet",
+            "journal": "Drugs",
+            "year": "1998",
+            "authors": [
+              "Foster R H",
+              "Wilde M I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Androgen Antagonists",
+              "Animals",
+              "Clinical Trials as Topic",
+              "Contraceptives, Oral",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Nandrolone",
+              "Progestins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9829156/"
+          },
+          {
+            "pmid": "17683173",
+            "title": "Drospirenone/ethinylestradiol 3mg/20microg (24/4 day regimen): a review of its use in contraception, premenstrual dysphoric disorder and moderate acne vulgaris.",
+            "abstract": "Drospirenone 3mg with ethinylestradiol 20microg (Yaz) is a low-dose combined oral contraceptive (COC) administered in a regimen of 24 days of active tablets followed by a short hormone-free interval (4 days; 24/4 regimen). Drospirenone, unlike other synthetic progestogens used in COCs, is a 17alpha-spirolactone derivative and a 17alpha-spironolactone analogue with antimineralocorticoid and antiandrogenic properties. Drospirenone/ethinylestradiol 3mg/20microg (24/4) is approved in the US for the prevention of pregnancy in women, for the treatment of the symptoms of premenstrual dysphoric disorder (PMDD) and for the treatment of moderate acne vulgaris in women who wish to use an oral contraceptive for contraception.Drospirenone/ethinylestradiol 3mg/20microg (24/4) provided 99% contraceptive protection over 1 year of treatment in two large studies. The same treatment regimen over three treatment cycles also significantly improved the emotional and physical symptoms associated with PMDD, a",
+            "journal": "Drugs",
+            "year": "2007",
+            "authors": [
+              "Fenton Caroline",
+              "Wellington Keri",
+              "Moen Marit D",
+              "Robinson Dean M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Androstenes",
+              "Contraception",
+              "Contraceptives, Oral, Combined",
+              "Contraceptives, Oral, Synthetic",
+              "Estrogens",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Mineralocorticoid Receptor Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17683173/"
+          },
+          {
+            "pmid": "19445767",
+            "title": "PCOS.",
+            "abstract": "Polycystic ovary syndrome (PCOS) is diagnosed in up to 10% of women attending gynaecology clinics, but the prevalence in the population as a whole is unclear. PCOS has been associated with hirsutism, infertility, acne, weight gain, type 2 diabetes, cardiovascular disease (CVD), and endometrial hyperplasia.",
+            "journal": "BMJ clinical evidence",
+            "year": "2009",
+            "authors": [
+              "Cahill David"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Diabetes Mellitus, Type 2",
+              "Flutamide",
+              "Hair Removal",
+              "Hirsutism",
+              "Humans",
+              "Metformin",
+              "Polycystic Ovary Syndrome",
+              "Weight Loss"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19445767/"
+          },
+          {
+            "pmid": "18389090",
+            "title": "Drospirenone/ethinyl estradiol.",
+            "abstract": "Drospirenone 3 mg/ethinyl estradiol 20 microg (24/4) is a new unique oral contraceptive formulation that combines in a novel dosing regimen the lowest dosage of ethinyl estradiol commonly used today with drospirenone, an innovative progestin. Drospirenone is a compound closely resembling progesterone, but with the antimineralocorticoid and antiandrogenic properties of a related therapeutic agent, the diuretic, antihypertensive and androgen receptor antagonist, 17alpha-spironolactone. The prolongation of hormonally active pills in the monthly drospirenone/ethinyl estradiol cycle from 21 days to 24 days, followed by 4 days of inactive pills, is an interesting variant of the recently developed extended pill regimens (1). Recent contraceptive research has focused on improving side effect profiles and providing noncontraceptive health and lifestyle advantages. Many of these benefits are now supported with evidence-based medicine (2). Most available oral contraceptives improve cycle regulari",
+            "journal": "Drugs of today (Barcelona, Spain : 1998)",
+            "year": "2008",
+            "authors": [
+              "Rapkin Andrea J",
+              "Sorger Shelley N",
+              "Winer Sharon A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Androstenes",
+              "Contraceptives, Oral, Combined",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Premenstrual Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18389090/"
+          },
+          {
+            "pmid": "36986218",
+            "title": "Metabolic and Dietary Factors in Acne Vulgaris and Evaluation of the Acne Vulgaris Treatment with Oral Contraceptive-Based Therapies in Young Adult Women.",
+            "abstract": "The etiopathogenesis of acne is complex, as several endo- and exogenous factors that affect the sebaceous-hair unit are involved in the development of acne lesions. The main aim of the study was to evaluate selected metabolic parameters before treatment. Another goal of the study was to determine the correlation between selected metabolic and dietary parameters and the severity of acne before treatment. The third objective was to assess the severity of acne before and after treatment, considering the type of treatment used. The final objective was to assess the relationship between the difference in acne severity before and after treatment, considering the type of treatment used and factors of dairy or sweets intake. 168 women participated in the study. The patients belonged to two groups: the study group (99 patients with acne vulgaris) and the control group (69 patients without skin lesions). The study group was divided into subgroups according to the treatment used: contraceptive pr",
+            "journal": "Nutrients",
+            "year": "2023",
+            "authors": [
+              "Kozłowski Mateusz",
+              "Niedzielska Mirela",
+              "Lorenz Anna",
+              "Brodowska Agnieszka",
+              "Malanowska Ewelina"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Young Adult",
+              "Contraceptives, Oral",
+              "Acne Vulgaris",
+              "Ethinyl Estradiol",
+              "Cyproterone Acetate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36986218/"
+          },
+          {
+            "pmid": "21212911",
+            "title": "Desogestrel+ethinylestradiol versus levonorgestrel+ethinylestradiol. Which one has better affect on acne, hirsutism, and weight change.",
+            "abstract": "To compare complications of third and second generation oral contraceptive pills (OCPs).",
+            "journal": "Saudi medical journal",
+            "year": "2011",
+            "authors": [
+              "Sanam Moradan",
+              "Ziba Omidvar"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Contraceptives, Oral",
+              "Contraceptives, Oral, Combined",
+              "Contraceptives, Oral, Hormonal",
+              "Contraceptives, Oral, Synthetic",
+              "Desogestrel",
+              "Ethinyl Estradiol",
+              "Female",
+              "Hirsutism",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21212911/"
+          },
+          {
+            "pmid": "12566804",
+            "title": "Update and future of systemic acne treatment.",
+            "abstract": "Systemic treatment is required in patients with moderate-to-severe acne, especially when acne scars start to occur. Antibiotics with anti-inflammatory properties, such as tetracyclines (oxytetracycline, tetracycline chloride, doxycycline, minocycline and limecycline) and macrolide antibiotics (erythromycin and azithromycin) are the agents of choice for papulopustular acne, even though the emerging resistant bacterial strains are minimizing their effect, especially regarding erythromycin. Systemic antibiotics should be administered during a period of 8-12 weeks. In severe papulopustular and in nodulocystic/conglobate acne, oral isotretinoin is the treatment of choice. Hormonal treatment represents an alternative regimen in female acne, whereas it is mandatory in resistant, severe pubertal or post-adolescent forms of the disease. Compounds with anti-androgenic properties include estrogens combined with progestins, such as ethinyl estradiol with cyproterone acetate, chlormadinone acetate,",
+            "journal": "Dermatology (Basel, Switzerland)",
+            "year": "2003",
+            "authors": [
+              "Zouboulis Christos C",
+              "Piquero-Martin Jaime"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Administration, Oral",
+              "Androgen Antagonists",
+              "Anti-Bacterial Agents",
+              "Cheilitis",
+              "Clindamycin",
+              "Cyproterone",
+              "Forecasting",
+              "Humans",
+              "Isotretinoin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12566804/"
+          },
+          {
+            "pmid": "32404240",
+            "title": "Oral Contraceptives in Dermatology.",
+            "abstract": "Oral contraceptives combine estrogen and progesterone to suppress ovulation. Synthetic forms are usually used. In dermatology, oral contraceptives are prescribed for 2 main reasons: to prevent pregnancy when teratogenic drugs must be taken and to treat skin manifestations of hyperandrogenism. Most oral contraceptives improve both acne and hirsutism, but the androgenic effect of progestogens - particularly if the contraceptive contains first- or second-generation progestogens- can trigger or exacerbate acne. One of the most serious side effects of oral contraceptives, thrombosis, is mainly caused by the estrogen component and its dose. If we mainly consider a contraceptive's thrombotic profile when prescribing, the choice would be to have 30μg or less of ethinyl estradiol combined with levonorgestrel. On the other hand, if our main objective is to treat signs of androgenization, we would prefer contraceptives containing progestogens with antiandrogenic effects.",
+            "journal": "Actas dermo-sifiliograficas",
+            "year": "2020",
+            "authors": [
+              "Requena C",
+              "Llombart B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Contraceptives, Oral",
+              "Dermatology",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Levonorgestrel",
+              "Pregnancy",
+              "Progesterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32404240/"
+          },
+          {
+            "pmid": "40949888",
+            "title": "Contribution of the combined oral contraceptive ethinylestradiol 20 µg/dienogest 2 mg, in the treatment of mild to moderate acne vulgaris and its perceived psychological effects in young university women.",
+            "abstract": "In adult females, acne is usually a chronic condition, and its management remains challenging due to therapeutic failures or limited healthcare seeking, with repercussions on mental health. Oral contraceptives may provide an alternative to reduce acne and enhance psychological well-being.",
+            "journal": "International journal of women's dermatology",
+            "year": "2025",
+            "authors": [
+              "Palacio-Cardona John J",
+              "Caicedo-Borrero Diana M",
+              "Cuartas Daniel Elías",
+              "Calle-Madrid Carlos",
+              "Aristizabal-Aristizabal Diana M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40949888/"
+          },
+          {
+            "pmid": "140576",
+            "title": "Treatment of hirsutism and acne in women with two combinations of cyproterone acetate and ethinylestradiol.",
+            "abstract": "175 women of reproductive age, with hirsutism of differing degrees and different pathogenetic causes (ovarian, adrenal, iatrogenic) or idiopathic, and acne were treated with two different combinations of Cyprotrone acetate and ethinyl estradiol (SH 8.1041 and SH B209AB). 90 patients were given SH 8.1041 and 10 were given SH B209AB. 75 received both preparations. The total number of treatment cycles was 1534. Clinical, hormonal and biochemical assessments were made before, during and after treatment. The degrees of hirsutism and acne, and of seborrhea and hair loss when present, were scored by means of a modified version of the Ferriman and Gallway criteria. SH 8.1041 brought about a significant improvement in the majority of the patients. SH B209AB was generally used as maintenance therapy for hirsutism and severe acne. It was the initial treatment of choice in patients with milder acne. Reduction of hirsutism was usually apparent after the fourth cycle of therapy and acne regressed af",
+            "journal": "Acta Europaea fertilitatis",
+            "year": "1976",
+            "authors": [
+              "Cremoncini C",
+              "Vignati E",
+              "Libroia A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Adult",
+              "Cyproterone",
+              "Dermatitis, Seborrheic",
+              "Drug Combinations",
+              "Ethinyl Estradiol",
+              "Female",
+              "Hirsutism",
+              "Humans",
+              "Sex Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/140576/"
+          },
+          {
+            "pmid": "41051345",
+            "title": "Polycystic ovary syndrome and estroprogestins.",
+            "abstract": "Clinical characteristics of polycystic ovary syndrome (PCOS) (menstrual irregularities, obesity, anovulation, etc.), occur together with a series of conditions at skin level like seborrhea, acne, hirsutism, and androgenetic alopecia. Estroprogestins (EPs) are recognized as the most powerful therapy to treat hyperandrogenism and/or hyperandrogenemia and regularize menstrual cycle.",
+            "journal": "Minerva obstetrics and gynecology",
+            "year": "2025",
+            "authors": [
+              "Lello Stefano",
+              "Fagotti Anna",
+              "Vignali Michele",
+              "Colonna Laura",
+              "Capozzi Anna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Polycystic Ovary Syndrome",
+              "Female",
+              "Hyperandrogenism",
+              "Androgen Antagonists",
+              "Androstenes",
+              "Drug Combinations",
+              "Ethinyl Estradiol",
+              "Norpregnenes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41051345/"
+          },
+          {
+            "pmid": "18840013",
+            "title": "Effects of an oral contraceptive containing chlormadinone and ethinylestradiol on acne-prone skin of women of different age groups: an open-label, single-centre, phase IV study.",
+            "abstract": "Acne-prone skin, a common skin condition not only in adolescents but also in adults, can significantly influence the affected individual's quality of life. The aim of this open-label, prospective, single-centre, phase IV study was to investigate the effects of an oral contraceptive containing chlormadinone 2 mg and ethinylestradiol 0.03 mg (Belara) on the physiology of acne-prone facial skin in healthy women aged 18-37 years.",
+            "journal": "Clinical drug investigation",
+            "year": "2008",
+            "authors": [
+              "Kerscher Martina",
+              "Reuther Tilmann",
+              "Bayrhammer Julia",
+              "Schramm Georg"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase IV",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Androgen Antagonists",
+              "Body Water",
+              "Chlormadinone Acetate",
+              "Contraceptives, Oral, Combined",
+              "Contraceptives, Oral, Synthetic",
+              "Ethinyl Estradiol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18840013/"
+          },
+          {
+            "pmid": "15157791",
+            "title": "Cycle control, quality of life and acne with two low-dose oral contraceptives containing 20 microg ethinylestradiol.",
+            "abstract": "Poor cycle control and tolerability can be reasons for irregular pill intake. This study compared the tolerability of two low-dose oral contraceptives and their effect on cycle control.",
+            "journal": "Contraception",
+            "year": "2004",
+            "authors": [
+              "Winkler U H",
+              "Ferguson H",
+              "Mulders J A P A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Adolescent",
+              "Adult",
+              "Contraceptives, Oral, Combined",
+              "Desogestrel",
+              "Ethinyl Estradiol",
+              "Female",
+              "Germany",
+              "Humans",
+              "Levonorgestrel"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15157791/"
+          },
+          {
+            "pmid": "12566806",
+            "title": "Update and future of hormonal therapy in acne.",
+            "abstract": "Hormonal therapy is an important component in the treatment of women with acne who may or may not have elevated serum androgens. The mainstays of hormonal therapy include oral contraceptives and antiandrogens such as cyproterone acetate, flutamide or spironolactone. Recent research over the past several years has unraveled some of the details regarding the way that the skin and sebaceous glands synthesize and metabolize hormones. The knowledge gained from this work may provide an impetus for future drug discovery in the hormonal treatment of acne and lead to improvements in the care of our patients with acne.",
+            "journal": "Dermatology (Basel, Switzerland)",
+            "year": "2003",
+            "authors": [
+              "Thiboutot Diane",
+              "Chen WenChieh"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Androgen Antagonists",
+              "Androgens",
+              "Contraceptives, Oral, Hormonal",
+              "Dehydroepiandrosterone",
+              "Estradiol Congeners",
+              "Ethinyl Estradiol",
+              "Glucocorticoids",
+              "Humans",
+              "Hyperandrogenism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12566806/"
+          },
+          {
+            "pmid": "21175386",
+            "title": "Drospirenone/ethinylestradiol: a review on efficacy and noncontraceptive benefits.",
+            "abstract": "Considerable advances have been made in the field of combined oral contraceptives since their introduction 50 years ago. This ongoing evolution has been focused on reducing the estrogen dose and synthesizing new progestogens. A recently launched combination of ethinylestradiol 20 µg and drospirenone 3 mg demonstrates the advantages of a lower estrogen dose with the antimineralocorticoid activity of drospirenone that is responsible for the drug's significant antiandrogenic and antimineralocorticoid effects, reflected clinically in lower rates of adverse events including less fluid retention. In addition to the drug's contraceptive efficacy, its effects on the skin and other classic noncontraceptive benefits, the ethinylestradiol 20 µg and drospirenone 3 mg combination has demonstrated highly satisfactory results in women with premenstrual dysphoric syndrome.",
+            "journal": "Women's health (London, England)",
+            "year": "2011",
+            "authors": [
+              "Machado Rogério Bonassi",
+              "Pompei Luciano de Melo",
+              "Giribela Arícia Galvão",
+              "Giribela Cassiana Galvão"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Androstenes",
+              "Contraceptives, Oral, Combined",
+              "Dysmenorrhea",
+              "Endometrium",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Mineralocorticoid Receptor Antagonists",
+              "Premenstrual Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21175386/"
+          },
+          {
+            "pmid": "10796856",
+            "title": "Minocycline for acne vulgaris: efficacy and safety.",
+            "abstract": "Minocycline is a tetracycline antibiotic that is commonly used in the treatment of moderate to severe acne vulgaris. Although it is more convenient for patients to take than first-generation tetracyclines, as it only needs to be taken once or twice a day and can be taken with food, it is more expensive. Concerns have also been expressed over its safety following the deaths of two patients taking the drug. There is a lack of consensus among dermatologists over the relative risks and benefits of minocycline. As most acne prescribing is undertaken by general practitioners, it is important that guidelines issued to them are based on the best available evidence rather than personal judgements.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2000",
+            "authors": [
+              "Garner S E",
+              "Eady E A",
+              "Popescu C",
+              "Newton J",
+              "Li Wan Po A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Anti-Bacterial Agents",
+              "Humans",
+              "Minocycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10796856/"
+          },
+          {
+            "pmid": "29729107",
+            "title": "Which acne treatment has the best influence on health-related quality of life? Literature review by the European Academy of Dermatology and Venereology Task Force on Quality of Life and Patient Oriented Outcomes.",
+            "abstract": "According to results of a recent literature search performed by the European Academy of Dermatology and Venereology (EADV) Task Forces (TF) on Quality of Life and Patient Oriented Outcomes (QoL and PO) and Acne, Rosacea and Hidradenitis Suppurativa (ARHS), most of the publications where health-related (HR) QoL of acne patients was studied were clinical trials. Members of the EADV TF on QoL and PO decided to detect which acne treatment has the best influence on HRQoL of acne patients. A new literature search was organized to find publications on acne treatment where the HRQoL of patients was assessed as an outcome measure. From 186 papers with HRQoL assessment, 37 papers were included for further analysis. Our results revealed that oral isotretinoin had the best influence on HRQoL of acne patients. Several other treatment methods also showed good effects on the HRQoL of acne patients. Oral isotretinoin and norethindrone acetate/ethinyl estradiol, topical clindamycin phosphate/benzoyl pe",
+            "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+            "year": "2018",
+            "authors": [
+              "Chernyshov P V",
+              "Tomas-Aragones L",
+              "Manolache L",
+              "Svensson A",
+              "Marron S E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Advisory Committees",
+              "Dermatologic Agents",
+              "Humans",
+              "Practice Guidelines as Topic",
+              "Quality of Life",
+              "Severity of Illness Index"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29729107/"
+          },
+          {
+            "pmid": "6562744",
+            "title": "[Stediril].",
+            "abstract": "",
+            "journal": "Soins. Gynecologie, obstetrique, puericulture, pediatrie",
+            "year": "1984",
+            "authors": [
+              "Csech J",
+              "Gervais C"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Contraceptives, Oral",
+              "Contraceptives, Oral, Hormonal",
+              "Contraceptives, Oral, Synthetic",
+              "Ethinyl Estradiol",
+              "Ethinyl Estradiol-Norgestrel Combination",
+              "Humans",
+              "Norgestrel"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6562744/"
+          },
+          {
+            "pmid": "36257374",
+            "title": "Tolerability and safety of the estetrol/drospirenone combined oral contraceptive: Pooled analysis of two multicenter, open-label phase 3 trials.",
+            "abstract": "To evaluate tolerability and safety of estetrol (E4) 15 mg/drospirenone (DRSP) 3 mg oral contraceptive using pooled data from two, multicenter, phase 3 trials.",
+            "journal": "Contraception",
+            "year": "2022",
+            "authors": [
+              "Chen Melissa J",
+              "Jensen Jeffrey T",
+              "Kaunitz Andrew M",
+              "Achilles Sharon L",
+              "Zatik János"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase III",
+              "Multicenter Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pregnancy",
+              "Female",
+              "Estetrol",
+              "Contraceptives, Oral, Combined",
+              "Venous Thromboembolism",
+              "Androstenes",
+              "Estrogens",
+              "Ethinyl Estradiol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36257374/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "obsolete atrophic vulva",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "postmenopausal atrophic vaginitis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "5282948",
+            "title": "A comparative study of the estrogenic potential of two synthetic estrogens (mestranol and ethinylestradiol).",
+            "abstract": "",
+            "journal": "Acta cytologica",
+            "year": "1971",
+            "authors": [
+              "Teter J",
+              "Stupnicki R"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Amenorrhea",
+              "Cell Count",
+              "Epithelium",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Menopause",
+              "Mestranol",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5282948/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "postmenopausal osteoporosis",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "6362926",
+            "title": "Calcitonin and postmenopausal osteoporosis.",
+            "abstract": "Fasting serum calcitonin levels were measured in 54 postmenopausal women who had for 10 years been taking part in a double blind trial to assess the effect of the synthetic oestrogen, mestranol, on postmenopausal bone loss. There were no differences in calcitonin levels between mestranol treated and placebo groups. Fifteen of the women were challenged with a calcium infusion to measure the secretory reserve of calcitonin. Oestrogen treatment did not increase the calcitonin response to calcium infusion. The three patients who exhibited the greatest responses were placebo treated. Bone density was measured by gamma-ray absorptiometry over the ten year period and the annual rate of change of bone density calculated. No correlation could be found between basal calcitonin level or calcitonin reserve and change in bone density. Our results indicate that postmenopausal osteoporosis is not caused by a deficiency of calcitonin and that the action of oestrogen therapy to prevent bone loss does n",
+            "journal": "Clinical endocrinology",
+            "year": "1984",
+            "authors": [
+              "Leggate J",
+              "Farish E",
+              "Fletcher C D",
+              "McIntosh W",
+              "Hart D M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Calcitonin",
+              "Calcium",
+              "Clinical Trials as Topic",
+              "Densitometry",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Menopause",
+              "Mestranol",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6362926/"
+          },
+          {
+            "pmid": "40742784",
+            "title": "Comparison of estrogens and selective estrogen receptor modulators (SERMs) used for menopausal hormone therapy.",
+            "abstract": "A variety of natural and synthetic steroidal estrogens, as well as selective estrogen receptor modulators (SERMs), are used for menopausal hormone therapy (MHT) by oral and/or parenteral routes of administration. Two of the most widely used estrogens for MHT are conjugated equine estrogens (CEE) and estradiol (E2); other estrogens include esterified estrogens, piperazine estrone sulfate, estriol, estetrol (E4), E2 valerate, and ethinyl estradiol. Commonly used SERMs include tamoxifen, raloxifene, ospemifene, lasofoxifene, and bazedoxifene. These agents vary widely in their affinities for the estrogen receptors and in their pharmacokinetics, leading to differences in clinical utility. The estrogens are highly effective in treating vasomotor symptoms (VMS) and genitourinary syndrome of menopause (GSM), and they have a beneficial effect on bone density. While some SERMs are approved for osteoporosis prevention and treatment, they have variable effects on VMS and GSM. Studies show that CEE",
+            "journal": "Menopause (New York, N.Y.)",
+            "year": "2025",
+            "authors": [
+              "Stanczyk Frank Z",
+              "Yang Jane L",
+              "Coelingh Bennink Herjan J T",
+              "Sriprasert Intira",
+              "Winer Sharon"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Selective Estrogen Receptor Modulators",
+              "Female",
+              "Estrogens",
+              "Menopause",
+              "Estrogens, Conjugated (USP)",
+              "Breast Neoplasms",
+              "Estrogen Replacement Therapy",
+              "Tamoxifen",
+              "Estradiol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40742784/"
+          },
+          {
+            "pmid": "1822826",
+            "title": "Effects of oestrogens and progestogens on coronary atherosclerosis and osteoporosis of monkeys.",
+            "abstract": "We have used the cynomolgus macaque as a model for the study of the effects of endogenous and exogenous sex steroid hormones on atherosclerosis and osteoporosis. As in human beings, premenopausal female cynomolgus macaques develop much less extensive coronary artery atherosclerosis than their male counterparts. Furthermore, surgical menopause results in a more atherogenic plasma lipoprotein pattern and an approximate doubling of atherosclerosis extent. Frequent pregnancy, a hyperoestrogenic state, results in an approximate 50% reduction in atherosclerosis extent. Physiological replacement with 17 beta-oestradiol alone or in combination with progesterone prevents the increase in coronary artery atherosclerosis extent associated with ovariectomy. This effect is independent of plasma lipoprotein concentrations and appears to be accounted for, at least in part, by an inhibitory effect of oestrogen replacement therapy on the uptake and degradation of LDL by the artery wall. Also, as in huma",
+            "journal": "Bailliere's clinical obstetrics and gynaecology",
+            "year": "1991",
+            "authors": [
+              "Adams M R",
+              "Williams J K",
+              "Clarkson T B",
+              "Jayo M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bone Density",
+              "Coronary Artery Disease",
+              "Coronary Vessels",
+              "Disease Models, Animal",
+              "Estradiol Congeners",
+              "Estrogen Replacement Therapy",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1822826/"
+          },
+          {
+            "pmid": "269626",
+            "title": "The prevention and management of post-menopausal osteoporosis.",
+            "abstract": "In 6 groups of peri- and post-menopausal women, there was an inverse relation between the urinary sediment smear maturation value and the fasting urinary hydroxyproline/creatinine ratio. Administration of ethinyloestradiol and Progynova both reduced urinary hydroxyproline into the pre-menopausal range, the fall being proportional to the starting value. Oestrogen therapy also produced a significant fall in plasma ionised calcium. In a prospective trial, oestrogen therapy prevented post-menopausal bone loss but calcium therapy was less effective. It is suggested that a high fasting urinary hydroxyproline/creatinine ratio might be taken as an indication for oestrogen therapy in post-menopausal women. In established post-menopausal osteoporosis, pre-disposing risk factors appear to be low calcium intake, malabsorption of calcium and low oestrogen status. These patients appear to represent the fast bone-losers in the post-menopausal population. The accelerated bone loss can be wholly or par",
+            "journal": "Acta obstetricia et gynecologica Scandinavica. Supplement",
+            "year": "1977",
+            "authors": [
+              "Marshall D H",
+              "Horsman A",
+              "Nordin B E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bone and Bones",
+              "Calcium",
+              "Creatinine",
+              "Estradiol",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Hydroxyproline",
+              "Menopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/269626/"
+          },
+          {
+            "pmid": "6320148",
+            "title": "Post-menopausal osteoporosis and estrogens. Who should be treated and why.",
+            "abstract": "Estrogen deficiency after menopause results in loss of skeletal calcium and increased risk of bone fractures. Administration to postmenopausal women of a daily dose of 0.625 mg of conjugated equine estrogen, 1 mg estradiol-17 beta, or 0.15 mg ethinyl estradiol prevents these changes. The safety of long-term estrogen administration has not been established by large-scale controlled studies. Therefore, hormone treatment should be reserved for patients with symptoms of estrogen deficiency or for subsets of persons at increased risk of osteoporotic bone fractures. These include fair-skinned or lightweight persons, smokers, heavy drinkers, persons on prolonged corticosteroid therapy, and those with early menopause or rheumatoid arthritis.",
+            "journal": "Postgraduate medicine",
+            "year": "1984",
+            "authors": [
+              "Saville P D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Calcium",
+              "Drug Therapy, Combination",
+              "Estradiol",
+              "Estrogens",
+              "Estrogens, Conjugated (USP)",
+              "Ethinyl Estradiol",
+              "Female",
+              "Fractures, Bone",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6320148/"
+          },
+          {
+            "pmid": "8571999",
+            "title": "Bone-sparing properties of oral contraceptives.",
+            "abstract": "Postmenopausal osteoporosis is a major health care problem that affects 20 million women in the United States and accounts for > 1 million fractures per year. Hormone replacement therapy is effective for reducing bone loss in the postmenopausal women. However, intervention before menopause may delay or prevent the decline in bone mass that begins between ages 30 and 40 years. The effects of oral contraceptives on bone mass have been investigated, and a positive association between oral contraceptive use and bone mass that is directly related to the duration of oral contraceptive use was observed. The effects of oral contraceptives on bone mass may be related to the specific formation. The effect of estrogens is dose related, and the optimal dose appears to be 25 to 35 micrograms of ethinyl estradiol or its equivalent. Results from several studies show that norethindrone has a positive effect on bone mass. An oral contraceptive may offer optimal birth control for the older premenopausal",
+            "journal": "American journal of obstetrics and gynecology",
+            "year": "1996",
+            "authors": [
+              "DeCherney A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Contraceptives, Oral",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Menopause",
+              "Norethindrone",
+              "Osteoporosis, Postmenopausal",
+              "Premenopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8571999/"
+          },
+          {
+            "pmid": "8120857",
+            "title": "Physiologic and pharmacologic effects of estrogen and progestins on bone.",
+            "abstract": "Estrogen deficiency has a primary role in the pathogenesis of osteoporosis, a major cause of morbidity and mortality in postmenopausal women. Estrogen therapy is associated with increased peak bone mass premenopausally and prevention of bone loss postmenopausally. The mechanisms by which estrogen exerts its effects on bone are not completely understood. Nonetheless, estrogen does affect calcium balance, and evidence suggests a direct mechanism via estrogen receptors on bone. The role of progestins in preventing bone loss is less well understood than that of estrogen. Studies in postmenopausal women and studies of add-back therapy in younger women have shown that norethindrone, but not medroxyprogesterone, treatment has a bone-sparing effect on cortical bone but not on trabecular bone. In addition, norethindrone, 5 or 10 mg daily, has effects on biochemical markers of bone turnover similar to those of estrogen, providing further evidence of a bone-sparing effect. The mechanisms for the ",
+            "journal": "The Journal of reproductive medicine",
+            "year": "1993",
+            "authors": [
+              "DeCherney A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Bone Density",
+              "Contraceptives, Oral",
+              "Estrogens",
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Osteoporosis",
+              "Progestins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8120857/"
+          },
+          {
+            "pmid": "6110915",
+            "title": "Calcitonin and the calcium-regulating hormones in postmenopausal women: effect of oestrogens.",
+            "abstract": "In man, the major function of calcitonin appears to be prevention of excessive or unwanted bone resorption. There is a striking sex difference in circulating levels, with a relative deficiency in women. Calcitonin secretion in young adults is increased by oestrogens and therefore long periods of oestrogen lack, such as after the menopause, may be associated with a more pronounced calcitonin deficiency. This exaggerated deficiency could be an important factor in the pathogenesis of postmenopausal bone loss, especially since the latter may be due to excessive bone resorption. In a study of the effects of oestrogen treatment on circulating levels of calcitonin, parathyroid hormone, and vitamin-D metabolites in postmenopausal women, the most striking change was a sharp rise in plasma-calcitonin. Oestrogens prevent postmenopausal bone loss, and it is suggested that this effect could be mediated, at least in part, through control of calcitonin secretion. Calcitonin may prove effective in the",
+            "journal": "Lancet (London, England)",
+            "year": "1981",
+            "authors": [
+              "Stevenson J C",
+              "Abeyasekera G",
+              "Hillyard C J",
+              "Phang K G",
+              "MacIntyre I"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bone Resorption",
+              "Bone and Bones",
+              "Calcitonin",
+              "Calcium",
+              "Estrogens",
+              "Female",
+              "Humans",
+              "Menopause",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6110915/"
+          },
+          {
+            "pmid": "25815520",
+            "title": "Effects of OsteoKing on osteoporotic rabbits.",
+            "abstract": "Heng-Gu-Gu-Shang-Yu-He-Ji, also known as OsteoKing, is used as a herbal Traditional Chinese Medicine for the treatment of bone disease, including femoral head necrosis and osteoarthritis. However, whether OsteoKing has anti-osteoporotic properties has remained to be elucidated. The purpose of the present study was therefore to investigate the effects of OsteoKing on ovariectomy-induced osteoporosis in rabbits. Female New Zealand white rabbits were randomly divided into an ovariectomized (OVX) group and a sham-surgery group. The rabbits in the OVX group were subjected to an ovariectomy, while the rabbits in the sham group were subjected to the removal of an area of fat near the two ovaries. Bone mineral density, mechanical properties, serum biochemical parameters and micro-architecture were examined at 150 days post-OVX to characterize the experimental animal model. Once the osteoporotic rabbit model had been established, the rabbits in the OVX group were divided into the following grou",
+            "journal": "Molecular medicine reports",
+            "year": "2015",
+            "authors": [
+              "Dai Lifen",
+              "Wu Haiying",
+              "Yu Shan",
+              "Zhao Hongbin",
+              "Xue Lanjie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Absorptiometry, Photon",
+              "Acid Phosphatase",
+              "Administration, Oral",
+              "Animals",
+              "Bone Density",
+              "Bone Density Conservation Agents",
+              "Drugs, Chinese Herbal",
+              "Estriol",
+              "Estrogens",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25815520/"
+          },
+          {
+            "pmid": "2309827",
+            "title": "A study of combined continuous ethinyl estradiol and norethindrone acetate for postmenopausal hormone replacement.",
+            "abstract": "In a blinded, prospective, dose-response pilot study of continuous estrogen-progestin replacement therapy, 77 thin, nonsmoking, white women, who were 12 to 60 months postmenopausal and had normal medical histories, were randomly assigned to receive one of five dose combinations of daily ethinyl estradiol and norethindrone acetate (20 micrograms and 1.0 mg, 10 micrograms and 1.0 mg, 10 micrograms and 0.5 mg, 5 micrograms and 1.0 mg, and 5 micrograms and 0.5 mg) or conjugated estrogens 0.625 mg on days 1 to 25 and medroxyprogesterone acetate 10 mg on days 16 to 25. An additional 10 women meeting the same criteria served as a comparison group by taking calcium only. During 12 months of therapy, continuous users had significantly less vaginal bleeding and spotting than did sequential users. As compared with baseline values, bone metabolism and computerized tomographic measurements of vertebral trabecular bone density at month 12 indicated reduced bone turnover and increased density in horm",
+            "journal": "American journal of obstetrics and gynecology",
+            "year": "1990",
+            "authors": [
+              "Williams S R",
+              "Frenchek B",
+              "Speroff T",
+              "Speroff L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Biopsy",
+              "Bone Density",
+              "Cholesterol, HDL",
+              "Cholesterol, LDL",
+              "Dose-Response Relationship, Drug",
+              "Drug Therapy, Combination",
+              "Endometrium",
+              "Estrogen Replacement Therapy",
+              "Ethinyl Estradiol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2309827/"
+          },
+          {
+            "pmid": "18464016",
+            "title": "Oral bioavailability and bone-sparing effects of estetrol in an osteoporosis model.",
+            "abstract": "To measure the oral bioavailability of estetrol (E(4)) in rats relative to its subcutaneous administration and to test the bone-sparing effect of oral E(4) compared to that of ethinylestradiol (EE).",
+            "journal": "Climacteric : the journal of the International Menopause Society",
+            "year": "2008",
+            "authors": [
+              "Coelingh Bennink H J T",
+              "Heegaard A-M",
+              "Visser M",
+              "Holinka C F",
+              "Christiansen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Animals",
+              "Area Under Curve",
+              "Biological Availability",
+              "Bone Density",
+              "Bone Density Conservation Agents",
+              "Bone and Bones",
+              "Dose-Response Relationship, Drug",
+              "Estetrol",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18464016/"
+          },
+          {
+            "pmid": "16203654",
+            "title": "Effects of drospirenone/estrogen combinations on bone metabolism.",
+            "abstract": "Bone mass is maintained when low-dose ethinylestradiol is used in combination with the new progestogen drospirenone as an oral contraceptive, making a regimen of drospirenone combined with 17beta-estradiol an attractive option for hormone replacement therapy (HRT) in postmenopausal women. Drospirenone is a novel progestogen, more closely related to endogenous progesterone in its pharmacological properties than other progestogens available; in combination with estrogen, drospirenone can closely mimic the premenopausal hormonal balance. In a phase II/III double-blind, placebo-controlled, randomized trial, three different doses of drospirenone plus low-dose 17beta-estradiol were compared with placebo, in order to determine their effects on bone density. Of 240 healthy postmenopausal women aged 45-65 years who enrolled, 180 completed the 2-year prospective study. Treatment groups received 1 mg 17beta-estradiol combined with 1, 2 or 3 mg drospirenone daily or placebo. Bone mineral densities",
+            "journal": "Climacteric : the journal of the International Menopause Society",
+            "year": "2005",
+            "authors": [
+              "Christiansen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Androstenes",
+              "Bone Density",
+              "Estrogen Replacement Therapy",
+              "Female",
+              "Humans",
+              "Mineralocorticoid Receptor Antagonists",
+              "Osteoporosis",
+              "Progesterone Congeners",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16203654/"
+          },
+          {
+            "pmid": "28033335",
+            "title": "Chlorogenic Acid Prevents Osteoporosis by Shp2/PI3K/Akt Pathway in Ovariectomized Rats.",
+            "abstract": "Cortex Eucommiae is used worldwide in traditional medicine, various constituents of Cortex Eucommiae, such as chlorogenic acid (CGA), has been reported to exert anti-osteoporosis activity in China, but the mechanism about their contribution to the overall activity is limited. The aims of this study were to determine whether chlorogenic acid can prevent estrogen deficiency-induced osteoporosis and to analyze the mechanism of CGA bioactivity. The effect of CGA on estrogen deficiency-induced osteoporosis was performed in vivo. Sixty female Sprague-Dawley rats were divided randomly among a sham-operated group and five ovariectomy (OVX) plus treatment subgroups: saline vehicle, 17α-ethinylestradiol (E2), or CGA at 9, 27, or 45 mg/kg/d. The rats' femoral metaphyses were evaluated by micro-computed tomography (μCT). The mechanism of CGA bioactivity was investigated in vitro. Bone mesenchymal stem cells (BMSCs) were treated with CGA, with or without phosphoinositide 3-kinase (PI3K) inhibitor L",
+            "journal": "PloS one",
+            "year": "2016",
+            "authors": [
+              "Zhou Rong Ping",
+              "Lin Si Jian",
+              "Wan Wen Bing",
+              "Zuo Hui Ling",
+              "Yao Fen Fen"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bone Density",
+              "Cell Differentiation",
+              "Cell Proliferation",
+              "Cells, Cultured",
+              "Chlorogenic Acid",
+              "Chromones",
+              "Cyclin D1",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28033335/"
+          },
+          {
+            "pmid": "11379383",
+            "title": "The role of antiandrogens in hormone replacement therapy.",
+            "abstract": "The most widely used antiandrogens in clinical practice are cyproterone acetate, a derivative of 17-hydroxyprogesterone, and dienogest, a 19-norprogestin. An established sequential preparation for hormone replacement therapy (HRT) consists of 11 days of 2 mg estradiol valerate, 10 days of 2 mg estradiol valerate with 1 mg cyproterone acetate, followed by a 7-day drug-free interval (Climen, Schering AG, Berlin, Germany). Cyproterone acetate is highly progestogenic, has no androgenic properties, and is antiandrogenic above a certain dose. Cyproterone acetate does not counteract the estrogenic effects of estradiol valerate in Climen. This therapy, therefore, has optimal effects on lipid metabolism and coronary heart disease risk, protects the endometrium and reduces menopausal symptoms, preserves bone and reduces osteoporotic fracture risk, and has antiandrogenic effects on the skin and other androgen-sensitive epidermal structures. Dienogest, on the other hand, will soon be introduced in",
+            "journal": "Climacteric : the journal of the International Menopause Society",
+            "year": "2000",
+            "authors": [
+              "Schneider H P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Androgen Antagonists",
+              "Biological Availability",
+              "Body Weight",
+              "Chemistry, Pharmaceutical",
+              "Cognition",
+              "Coronary Disease",
+              "Cyproterone Acetate",
+              "Drug Combinations",
+              "Estradiol",
+              "Estrogen Replacement Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11379383/"
+          },
+          {
+            "pmid": "12428992",
+            "title": "Hormone replacement therapy: optimising the dose and route of administration.",
+            "abstract": "Several new products and regimens for estrogen replacement in the postmenopausal woman have recently been introduced, giving physicians and patients greater choice not only in dose but also in route of administration. Estrogen treatment in the postmenopausal woman has several proven benefits for those who have vasomotor symptoms or problems related to urogenital atrophy. However, the most controversial area is in the long-term preventive benefits of estrogen against the development of osteoporosis and cardiovascular disease, particularly in women older than 60 years. It is in these areas that decisions on the dose and optimal route of administration of estrogen replacement therapy (ERT) must be made. Although adding a progestogen to an ERT regimen is mandatory, particularly in a woman with an intact uterus, discussion now focuses on which progestogen least attenuates the beneficial effects of estrogen. Emerging trends suggest that lower doses of estrogen (i.e. ethinylestradiol 5 microg",
+            "journal": "Drugs & aging",
+            "year": "2002",
+            "authors": [
+              "Montgomery Rice Valerie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Adult",
+              "Aged",
+              "Cardiovascular Diseases",
+              "Drug Combinations",
+              "Estradiol",
+              "Estrogen Replacement Therapy",
+              "Estrogens, Conjugated (USP)",
+              "Ethinyl Estradiol",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12428992/"
+          },
+          {
+            "pmid": "1304463",
+            "title": "Prospective double-blind study of CEE3 in peri- and postmenopausal women: effects on bone loss and lipoprotein lipids.",
+            "abstract": "A prospective double-blind study was carried out in 136 women 0.5 to 21 years since menopause (YSM) in order to demonstrate the effects of a long-acting estriol derivative-Nylestriol (CEE3) on bone loss and lipoprotein lipids. They were orally administered at 2 mg of CEE3 or placebo every 2 weeks. Among 90 subjects who finished 1 year of medication, 49 received CEE3 and 41 placebo. The results were: 1. Serum ALP, Ca/Cr and Hop/Cr in fasting urine decreased in 3 months (P < 0.05); 2. Menopause-related reduction of forearm bone density was restrained; 3. LDL-C decreased in 3 months and HDL-C increased in 6 months (P < 0.05), with no significant changes in TC and TG; 4. Side effects were mild. 1/3 of those with intact uterus had spotting and another 1/3 had moderate withdrawal bleeding after the addition of medroxyprogesterone acetate at the end of 12 months of CEE3 therapy. This study demonstrates that CEE3 is effective and acceptable for preventing osteoporosis and lipoprotein lipids di",
+            "journal": "Chinese medical journal",
+            "year": "1992",
+            "authors": [
+              "Cheng G J",
+              "Liu J L",
+              "Zhang Q",
+              "Ye H F",
+              "Wang Z Q"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Bone Density",
+              "Cholesterol, HDL",
+              "Cholesterol, LDL",
+              "Double-Blind Method",
+              "Estradiol Congeners",
+              "Estrogen Replacement Therapy",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1304463/"
+          },
+          {
+            "pmid": "11594153",
+            "title": "[Low-dose oral contraception and bone density].",
+            "abstract": "Oral contraceptives (OC) with 20 or 30 mcg Ethinyl-Estradiol (EE) inhibit bone remodeling in all age groups investigated until today as far as the biochemical parameters are considered. In perimenopausal women, OC with 20 or 30 mcg EE reduce the decrease in bone density and may, depending on the starting point, induce an increase in bone density. OC with 20 mcg EE might impede the formation of a physiological peak bone mass in very young women (probably women less than 20 years of age) by a reduction of bone metabolism. This possibility provoked a certain insecurity. However, it should not lead to the consequence that a safe contraceptive method is refused to young women. Unfortunately, there is still a lack of reliable studies allowing a final statement on the effect of low-dose OC on bone density in teenagers. Such studies are urgently needed so that we are able to guarantee in very young women that a reasonable contraception has not to be payed by a long-term risk for the skeletal h",
+            "journal": "Therapeutische Umschau. Revue therapeutique",
+            "year": "2001",
+            "authors": [
+              "Karck U",
+              "Breckwoldt M"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Bone Density",
+              "Contraceptives, Oral",
+              "Contraceptives, Oral, Combined",
+              "Dose-Response Relationship, Drug",
+              "Estrogen Replacement Therapy",
+              "Europe",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11594153/"
+          },
+          {
+            "pmid": "12856809",
+            "title": "The effect of low dose nylestriol-levonorgestrel replacement therapy on bone mineral density in women with postmenopausal osteoporosis.",
+            "abstract": "Recently our studies have shown that nylestriol in combination with levonorgestrel prevented bone loss, decreased bone turnover rate and increased the maximal loading of bone without obvious side effects in retinoic acid (RA) induced osteoporotic rats. In addition to the animal experiments, we evaluate the effect of Compound Nylestriol Tablet (CNT) on bone mineral density (BMD) in women with postmenopausal osteoporosis. Compound Nylestriol Tablet, which contains 0.5 mg of nylestriol (cyclopentylethinyl estriol) and 0.15 mg of levonorgestrel per tablet, was authorized as a new anti-osteoporotic agent for clinical trial in postmenopausal osteoporosis.",
+            "journal": "Endocrine research",
+            "year": "2003",
+            "authors": [
+              "Liao Er-yuan",
+              "Luo Xiang-hang",
+              "Deng Xiao-ge",
+              "Wu Xian-ping",
+              "Liao Hui-juan"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bone Density",
+              "Bone and Bones",
+              "Breast",
+              "Contraceptives, Oral, Synthetic",
+              "Double-Blind Method",
+              "Drug Combinations",
+              "Endometrium",
+              "Estrogen Replacement Therapy",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12856809/"
+          },
+          {
+            "pmid": "22312238",
+            "title": "The bone-protective effect of genistein in the animal model of bilateral ovariectomy: roles of phytoestrogens and PTH/PTHR1 against post-menopausal osteoporosis.",
+            "abstract": "Genistein, a major phytoestrogen of soy, is considered a potential drug for the prevention and treatment of post-menopausal osteoporosis. Mounting evidence suggested a positive correlation between genistein consumption and bone health both in vivo and in vitro. Earlier studies have revealed that genistein acted as a natural estrogen analogue which activated estrogen receptor and exerted anti-osteoporotic effect. However, it remains unclear whether PTH, the most crucial hormone that regulates mineral homeostasis, participates in the process of genistein-mediated bone protection. In the present study, we compared the therapeutic effects between genistein and nilestriol and investigated whether PTH and its specific receptor PTHR1 altered in response to genistein-containing diet in the animal model of ovariectomy. Our results showed that genistein administration significantly improved femoral mechanical properties and alleviates femoral turnover. Genistein at all doses (4.5 mg/kg, 9.0 mg/k",
+            "journal": "International journal of molecular sciences",
+            "year": "2012",
+            "authors": [
+              "Miao Qing",
+              "Li Jing-Ge",
+              "Miao Shan",
+              "Hu Nan",
+              "Zhang Jin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alkaline Phosphatase",
+              "Animals",
+              "Bone Density",
+              "Creatinine",
+              "Disease Models, Animal",
+              "Estriol",
+              "Female",
+              "Femur",
+              "Genistein",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22312238/"
+          },
+          {
+            "pmid": "8344086",
+            "title": "[Bone metabolism in postmenopausal women and after estrogen treatment].",
+            "abstract": "Changes of bone metabolism in 11 premenopausal women and 109 postmenopausal women were studied. 50 postmenopausal women were randomly divided into 4 groups: 20, 10 and 6 cases were given nylestriol, diethyl stilbestrol and chlorotrianisen respectively, and 14 cases served as control. It was shown that bone mineral content (BMC), and, blood estrogen level in postmenopausal women were significantly lower than those of premenopausal women. Close correlation existed between E1, E2, and BMC. Serum alkaline phosphatase (ALP), bone GLA protein (BGP), urine Ca/Cr and Hpr/Cr were markedly increased in postmenopausal women and declined after 3 months of treatment with nylestriol, diethylstilbestrol or chlorotrianisen. The radial BMC increased by 0.8% with (P > 0.05) nylestriol treatment for one year and decreased by 1.1% (P < 0.05) in the control cases. The present study indicated that postmenopausal estrogen deficiency accelerated bone loss, which was prevented by small substitution doses of es",
+            "journal": "Zhonghua fu chan ke za zhi",
+            "year": "1993",
+            "authors": [
+              "Song S J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bone Density",
+              "Bone and Bones",
+              "Chlorotrianisene",
+              "Diethylstilbestrol",
+              "Estrogen Replacement Therapy",
+              "Estrogens",
+              "Female",
+              "Humans",
+              "Menopause",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8344086/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "osteoporosis",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00310791",
+            "title": "Effects of Adrenal and Gonadal Hormone Replacement in Young Women With Anorexia Nervosa",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-04",
+            "completion_date": "2010-12",
+            "country": "United States",
+            "enrollment": 80,
+            "brief_summary": "This study seeks to gain new information on why young women with anorexia nervosa are predisposed to early bone loss and osteoporosis. Through a randomized treatment trial in which participants will receive either combined therapy with the adrenal hormone, dehydroepiandrosterone (DHEA) and estrogen replacement therapy or placebo, we will determine the effects of an 18-month treatment course on bone mass, circulating markers of bone turnover, and serum levels of a factor, insulin-like growth fact",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 15 - 30 years\n* Anorexia nervosa by psychiatric criteria\n* Amenorrhea for at least 3 months\n\nExclusion Criteria:\n\n* Receiving no medications known to affects bone metabolism\n* No other chronic medical conditions",
+            "endpoints": [
+              "Areal Bone Density by DXA"
+            ],
+            "sponsor": "Boston Children's Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00310791"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00946192",
+            "title": "Fat Mediated Modulation of Reproductive and Endocrine Function in Young Athletes",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2009-05",
+            "completion_date": "2021-04",
+            "country": "United States",
+            "enrollment": 121,
+            "brief_summary": "One aim of this study is to determine changes in body composition and hormones that differentiate athletes who stop getting their periods versus those who continue to get their periods and non-athletes. The second aim of this study is to determine whether transdermal or oral estrogen (versus no estrogen) is effective in increasing bone density and improving bone microarchitecture in adolescent athletes who are not getting their periods and are thus estrogen deficient. The investigators hypothesi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Females 14-21 years old Note: Our pilot data are reassuring in that young women 18-25 years old with hypothalamic amenorrhea are not adversely affected with estrogen use. In fact, in our prospective study, beneficial effects were observed both in young women 18-25 years old us",
+            "endpoints": [
+              "Change in Lumbar Bone Mineral Density"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00946192"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06131424",
+            "title": "Multicentre NIS Retrospective Study to Know the Prevalence of HER2- Low,Clinical Characteristics,Treatment Patterns,Associated Outcome in Patient With HER2-negative in Metastatic Breast Cancer Who Progressed on Systemic Anticancer Therapy",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2024-04-23",
+            "completion_date": "2025-05-19",
+            "country": "Brazil, Indonesia, Philippines, Hong Kong, Dominican Republic, Mexico, Singapore, Panama, India, Malaysia, Thailand, Vietnam, Argentina",
+            "enrollment": 1151,
+            "brief_summary": "This noninterventional, multicenter,retrospective study has been proposed to estimate the prevalence, clinicopathological characteristics,treatment patterns and clinical outcomes of human epidermal growth factor receptor 2 -(HER2)low locally-advanced or metastatic breast cancer(mBC) by accurate rescoring of archived IHC-stained formalin-fixed paraffin-embedded (FFPE) slides for HER2 in patients previously identified as HER2-negative from emerging markets of international regions (non-US and non-",
+            "eligibility_criteria": "Inclusion Criteria:1. Men or women, ≥18 years of age 2. Provision of informed consent by the patient or next of kin/legal representative (for deceased patients at study entry, unless a waiver was granted) according to local regulations 3. Must have a histological or cytological confirmed previous di",
+            "endpoints": [
+              "Proportion of patients with IHC 1+ or IHC 2+/ISH- HER2 expression.",
+              "Proportion of patients with HER2 ultra-low (IHC 0 (pattern 0+) with membrane staining ie, incomplete and faint/barely perceptible in ≤10% tumor cells) HER2 expression and IHC null (IHC 0 ie, absent membrane staining),"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT06131424"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00320567",
+            "title": "The Effect of Ortho Tri-Cyclen on Bone Mineral Density in Pediatric Subjects With Anorexia Nervosa: A Double-Blind, Placebo-Controlled Study",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "2004-04",
+            "country": "N/A",
+            "enrollment": 123,
+            "brief_summary": "The purpose of this study is to evaluate the effect of norgestimate/ethinyl estradiol on lumbar spine (L1-L4) and total hip bone mineral density (BMD) in pediatric subjects with anorexia nervosa.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a monthly period\n* health status consistent with anorexia nervosa\n* meet the modified DSM-IV (Diagnostic and Statistical Manual of Mental Disorders) guideline for anorexia nervosa\n* must discontinue the following prior to Baseline visit: hormonal contracepti",
+            "endpoints": [
+              "The change in total lumbar spine (L1-L4) bone mineral density from baseline to Cycle 6 (Visit 6)."
+            ],
+            "sponsor": "McNeil Consumer & Specialty Pharmaceuticals, a Division of McNeil-PPC, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00320567"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "21688973",
+            "title": "Ethinylestradiol liposome preparation and its effects on ovariectomized rats' osteoporosis.",
+            "abstract": "Ethinylestradiol liposome (EEL) was prepared by thin film evaporation-extrusion technique and its effects on ovariectomized rat osteoporosis were investigated. The liposomes were characterized with clear homogeneous lamellar vesicles and had the average size of 200 ± 1.5 nm. The long term stability of liposome formulations were tested over a 28-day period at 4°C and ethinylestradiol retention was approximately 80% up to 28 day. Release data of ethinylestradiol was tested in PBS pH 7.4 at 37°C using a dialysis method and its release profiles were biphasic, showing a relatively large burst effect over the first four hours, followed by a slower release phase. Ovariectomized rat model was used to investigate EEL effects on osteoporosis. After three months post-surgery, the rats were divided into two groups and injected intraperitoneally (IP) with 2 μg per kilogram per day of either free ethinylestradiol (EE) or encapsulated ethinlyestradiol (EEL). At termination of one month IP injection, ",
+            "journal": "Drug delivery",
+            "year": "2011",
+            "authors": [
+              "Lu Tingli",
+              "Ma Yufan",
+              "Hu Huijing",
+              "Chen Yun",
+              "Zhao Wen"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alkaline Phosphatase",
+              "Animals",
+              "Bone Density",
+              "Disease Models, Animal",
+              "Drug Stability",
+              "Drug Storage",
+              "Estrogens",
+              "Ethinyl Estradiol",
+              "Female",
+              "Injections, Intraperitoneal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21688973/"
+          },
+          {
+            "pmid": "40742784",
+            "title": "Comparison of estrogens and selective estrogen receptor modulators (SERMs) used for menopausal hormone therapy.",
+            "abstract": "A variety of natural and synthetic steroidal estrogens, as well as selective estrogen receptor modulators (SERMs), are used for menopausal hormone therapy (MHT) by oral and/or parenteral routes of administration. Two of the most widely used estrogens for MHT are conjugated equine estrogens (CEE) and estradiol (E2); other estrogens include esterified estrogens, piperazine estrone sulfate, estriol, estetrol (E4), E2 valerate, and ethinyl estradiol. Commonly used SERMs include tamoxifen, raloxifene, ospemifene, lasofoxifene, and bazedoxifene. These agents vary widely in their affinities for the estrogen receptors and in their pharmacokinetics, leading to differences in clinical utility. The estrogens are highly effective in treating vasomotor symptoms (VMS) and genitourinary syndrome of menopause (GSM), and they have a beneficial effect on bone density. While some SERMs are approved for osteoporosis prevention and treatment, they have variable effects on VMS and GSM. Studies show that CEE",
+            "journal": "Menopause (New York, N.Y.)",
+            "year": "2025",
+            "authors": [
+              "Stanczyk Frank Z",
+              "Yang Jane L",
+              "Coelingh Bennink Herjan J T",
+              "Sriprasert Intira",
+              "Winer Sharon"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Selective Estrogen Receptor Modulators",
+              "Female",
+              "Estrogens",
+              "Menopause",
+              "Estrogens, Conjugated (USP)",
+              "Breast Neoplasms",
+              "Estrogen Replacement Therapy",
+              "Tamoxifen",
+              "Estradiol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40742784/"
+          },
+          {
+            "pmid": "1822826",
+            "title": "Effects of oestrogens and progestogens on coronary atherosclerosis and osteoporosis of monkeys.",
+            "abstract": "We have used the cynomolgus macaque as a model for the study of the effects of endogenous and exogenous sex steroid hormones on atherosclerosis and osteoporosis. As in human beings, premenopausal female cynomolgus macaques develop much less extensive coronary artery atherosclerosis than their male counterparts. Furthermore, surgical menopause results in a more atherogenic plasma lipoprotein pattern and an approximate doubling of atherosclerosis extent. Frequent pregnancy, a hyperoestrogenic state, results in an approximate 50% reduction in atherosclerosis extent. Physiological replacement with 17 beta-oestradiol alone or in combination with progesterone prevents the increase in coronary artery atherosclerosis extent associated with ovariectomy. This effect is independent of plasma lipoprotein concentrations and appears to be accounted for, at least in part, by an inhibitory effect of oestrogen replacement therapy on the uptake and degradation of LDL by the artery wall. Also, as in huma",
+            "journal": "Bailliere's clinical obstetrics and gynaecology",
+            "year": "1991",
+            "authors": [
+              "Adams M R",
+              "Williams J K",
+              "Clarkson T B",
+              "Jayo M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bone Density",
+              "Coronary Artery Disease",
+              "Coronary Vessels",
+              "Disease Models, Animal",
+              "Estradiol Congeners",
+              "Estrogen Replacement Therapy",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1822826/"
+          },
+          {
+            "pmid": "14291272",
+            "title": "SPINAL OSTEOPOROSIS AND THE MENOPAUSE.",
+            "abstract": "",
+            "journal": "Proceedings of the Royal Society of Medicine",
+            "year": "1965",
+            "authors": [
+              "JASANI C",
+              "NORDIN B E",
+              "SMITH D A",
+              "SWANSON I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Blood",
+              "Bone Resorption",
+              "Calcium",
+              "Ethinyl Estradiol",
+              "Female",
+              "Fluids and Secretions",
+              "Glycerophosphates",
+              "Humans",
+              "Hydroxyproline",
+              "Menopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14291272/"
+          },
+          {
+            "pmid": "6362926",
+            "title": "Calcitonin and postmenopausal osteoporosis.",
+            "abstract": "Fasting serum calcitonin levels were measured in 54 postmenopausal women who had for 10 years been taking part in a double blind trial to assess the effect of the synthetic oestrogen, mestranol, on postmenopausal bone loss. There were no differences in calcitonin levels between mestranol treated and placebo groups. Fifteen of the women were challenged with a calcium infusion to measure the secretory reserve of calcitonin. Oestrogen treatment did not increase the calcitonin response to calcium infusion. The three patients who exhibited the greatest responses were placebo treated. Bone density was measured by gamma-ray absorptiometry over the ten year period and the annual rate of change of bone density calculated. No correlation could be found between basal calcitonin level or calcitonin reserve and change in bone density. Our results indicate that postmenopausal osteoporosis is not caused by a deficiency of calcitonin and that the action of oestrogen therapy to prevent bone loss does n",
+            "journal": "Clinical endocrinology",
+            "year": "1984",
+            "authors": [
+              "Leggate J",
+              "Farish E",
+              "Fletcher C D",
+              "McIntosh W",
+              "Hart D M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Calcitonin",
+              "Calcium",
+              "Clinical Trials as Topic",
+              "Densitometry",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Menopause",
+              "Mestranol",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6362926/"
+          },
+          {
+            "pmid": "9157285",
+            "title": "Turner's syndrome.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1997",
+            "authors": [
+              "Taback S P",
+              "Deal C",
+              "Van Vliet G"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Estrogens",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Osteoporosis",
+              "Puberty",
+              "Turner Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9157285/"
+          },
+          {
+            "pmid": "269626",
+            "title": "The prevention and management of post-menopausal osteoporosis.",
+            "abstract": "In 6 groups of peri- and post-menopausal women, there was an inverse relation between the urinary sediment smear maturation value and the fasting urinary hydroxyproline/creatinine ratio. Administration of ethinyloestradiol and Progynova both reduced urinary hydroxyproline into the pre-menopausal range, the fall being proportional to the starting value. Oestrogen therapy also produced a significant fall in plasma ionised calcium. In a prospective trial, oestrogen therapy prevented post-menopausal bone loss but calcium therapy was less effective. It is suggested that a high fasting urinary hydroxyproline/creatinine ratio might be taken as an indication for oestrogen therapy in post-menopausal women. In established post-menopausal osteoporosis, pre-disposing risk factors appear to be low calcium intake, malabsorption of calcium and low oestrogen status. These patients appear to represent the fast bone-losers in the post-menopausal population. The accelerated bone loss can be wholly or par",
+            "journal": "Acta obstetricia et gynecologica Scandinavica. Supplement",
+            "year": "1977",
+            "authors": [
+              "Marshall D H",
+              "Horsman A",
+              "Nordin B E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bone and Bones",
+              "Calcium",
+              "Creatinine",
+              "Estradiol",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Hydroxyproline",
+              "Menopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/269626/"
+          },
+          {
+            "pmid": "15063479",
+            "title": "Are all estrogens the same?",
+            "abstract": "This paper focuses on the question whether different estrogens (E) have different qualitative pharmacodynamic effects when used by women for contraception, Hormone Replacement Therapy (HRT) or prevention of osteoporosis. In this context estrogens have been defined as the estrogen agonists estradiol (E2), estrone (E1), estriol (E3), conjugated equine estrogens (CEE), diethylstilbestrol (DES) and ethinylestradiol (EE). Selective Estrogen Receptor Modulator's (SERM's) have been excluded from this analysis primarily because of lack of comparative (clinical) data with estrogen agonists. A major problem when addressing the issue of comparability of estrogen agonists is the lack of data from head-to-head estrogen-only comparative studies. Comparative studies have been performed almost exclusively with estrogen agonists combined with a series of different progestogens (P), that have been added to protect the uterus from endometrial hyperplasia. Since progestogens are known to exhibit different",
+            "journal": "Maturitas",
+            "year": "2004",
+            "authors": [
+              "Coelingh Bennink Herjan J T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Administration, Oral",
+              "Estrogen Replacement Therapy",
+              "Estrogens",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15063479/"
+          },
+          {
+            "pmid": "6320148",
+            "title": "Post-menopausal osteoporosis and estrogens. Who should be treated and why.",
+            "abstract": "Estrogen deficiency after menopause results in loss of skeletal calcium and increased risk of bone fractures. Administration to postmenopausal women of a daily dose of 0.625 mg of conjugated equine estrogen, 1 mg estradiol-17 beta, or 0.15 mg ethinyl estradiol prevents these changes. The safety of long-term estrogen administration has not been established by large-scale controlled studies. Therefore, hormone treatment should be reserved for patients with symptoms of estrogen deficiency or for subsets of persons at increased risk of osteoporotic bone fractures. These include fair-skinned or lightweight persons, smokers, heavy drinkers, persons on prolonged corticosteroid therapy, and those with early menopause or rheumatoid arthritis.",
+            "journal": "Postgraduate medicine",
+            "year": "1984",
+            "authors": [
+              "Saville P D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Calcium",
+              "Drug Therapy, Combination",
+              "Estradiol",
+              "Estrogens",
+              "Estrogens, Conjugated (USP)",
+              "Ethinyl Estradiol",
+              "Female",
+              "Fractures, Bone",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6320148/"
+          },
+          {
+            "pmid": "21104044",
+            "title": "Oral contraceptive use and bone.",
+            "abstract": "Sex hormones play a key role in bone homeostasis, and oral contraceptive (OC) use may affect bone mass in women. However, the nature of the association between OC use and bone remains controversial. This paper critically reviews studies on OC use and bone published between January 2009 and August 2010. Studies of OC use and bone mass mainly focus on adolescents or young adults and showed mixed results. Weak evidence suggests that OC use has no effect or a beneficial effect on bone mass, except in women commencing OCs shortly after menarche, and a consistently negative effect on bone turnover markers. A limited number of studies have examined the effect of ultra-low-dose OC (20 μg ethinyl estradiol) on bone mass in adolescents or young adults, and present conflicting results. The lack of randomized trials indicates that further high-quality prospective studies are required to investigate the effect of OC use on bone mass, particularly the optimal dose and timing of initiation of OC use ",
+            "journal": "Current osteoporosis reports",
+            "year": "2011",
+            "authors": [
+              "Wei Shuying",
+              "Winzenberg Tania",
+              "Laslett Laura L",
+              "Venn Alison",
+              "Jones Graeme"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Biomarkers",
+              "Bone Density",
+              "Clinical Trials as Topic",
+              "Collagen Type I",
+              "Contraceptives, Oral",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21104044/"
+          },
+          {
+            "pmid": "18464016",
+            "title": "Oral bioavailability and bone-sparing effects of estetrol in an osteoporosis model.",
+            "abstract": "To measure the oral bioavailability of estetrol (E(4)) in rats relative to its subcutaneous administration and to test the bone-sparing effect of oral E(4) compared to that of ethinylestradiol (EE).",
+            "journal": "Climacteric : the journal of the International Menopause Society",
+            "year": "2008",
+            "authors": [
+              "Coelingh Bennink H J T",
+              "Heegaard A-M",
+              "Visser M",
+              "Holinka C F",
+              "Christiansen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Animals",
+              "Area Under Curve",
+              "Biological Availability",
+              "Bone Density",
+              "Bone Density Conservation Agents",
+              "Bone and Bones",
+              "Dose-Response Relationship, Drug",
+              "Estetrol",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18464016/"
+          },
+          {
+            "pmid": "34167315",
+            "title": "Estetrol and the possibilities of its clinical use.",
+            "abstract": "Combined hormonal contraceptive methods are one of the most commonly used methods of planned parenthood. They show high contraceptive effectiveness, reasonable cycle control and bring several non-contraceptive benefits. A limitation of the widespread use of combined hormonal contraception is the risk of cardiovascular complications in individuals with specific risk factors. The risk of cardiovascular complications is related to the used estrogen component. Currently, the most common use of estrogen in combined hormonal contraception is ethinyl estradiol and estradiol valerate. The good estrogenic part of combined oral contraceptives is estetrol, a hormone produced exclusively by the fetal liver. Estetrol exhibits a tissue-selective receptor activity. Unlike previously used estrogens, it does not negatively affect the production of liver proteins and blood clotting parameters. Estetrol is not a perspective for combined hormonal contraception only. It is also promising for treating and p",
+            "journal": "Ceska gynekologie",
+            "year": "2021",
+            "authors": [
+              "Křepelka Petr"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Contraceptives, Oral, Combined",
+              "Estetrol",
+              "Estradiol",
+              "Estrogens",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34167315/"
+          },
+          {
+            "pmid": "8462314",
+            "title": "Contraception in older woman.",
+            "abstract": "Oral contraception (OC) in the premenopause has been recently proposed as treatment for control and prevention of the putative symptoms typical of this period of life. Indeed, menstrual cycle disturbances and climacteric symptoms frequently occur at this age. The major aim of normal contraception is resultant maintenance of normal sexual activity. The effects of one OC containing 20 mcg ethinylestradiol and 150 mcg desogestrel (EE/DOG) were studied. Treatment did not significantly modify both lipid metabolism (triglycerides, total cholesterol, HDL, LDL, Apo A, Apo B) and clotting system (fibrinogen, PT, PTT, antithrombin III, fibrinopeptide A). No significant modifications of oral glucose tolerance test (OGGT) occurred after EE/DOG treatment. Also, bone density was not modified during estro-progestinic administration. From our experience, if there are no risk factors such as smoking, obesity or hypertension, the OCs could be used until menopause for absolute contraceptive efficacy, goo",
+            "journal": "Contraception",
+            "year": "1993",
+            "authors": [
+              "Volpe A",
+              "Silferi M",
+              "Genazzani A D",
+              "Genazzani A R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Blood Coagulation Factors",
+              "Bone Density",
+              "Breast",
+              "Climacteric",
+              "Contraceptives, Oral, Combined",
+              "Desogestrel",
+              "Ethinyl Estradiol",
+              "Female",
+              "Glucose"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8462314/"
+          },
+          {
+            "pmid": "4302987",
+            "title": "Estrogens in the menopause and postmenopause.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1969",
+            "authors": [
+              "Rogers J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Arteriosclerosis",
+              "Diabetes Mellitus",
+              "Diethylstilbestrol",
+              "Estrogens",
+              "Estrogens, Conjugated (USP)",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Hypercholesterolemia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4302987/"
+          },
+          {
+            "pmid": "14142405",
+            "title": "EFFECTS OF ANDROGENS, ESTROGENS AND HIGH CALCIUM INTAKES ON BONE FORMATION AND RESORPTION IN OSTEOPOROSIS.",
+            "abstract": "",
+            "journal": "The American journal of medicine",
+            "year": "1964",
+            "authors": [
+              "LAFFERTY F W",
+              "SPENCER G E",
+              "PEARSON O H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Androgens",
+              "Arthritis",
+              "Arthritis, Rheumatoid",
+              "Blood Chemical Analysis",
+              "Calcium",
+              "Calcium Isotopes",
+              "Calcium, Dietary",
+              "Estrogens",
+              "Ethinyl Estradiol",
+              "Feces"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14142405/"
+          },
+          {
+            "pmid": "36283120",
+            "title": "Maintaining bone health by estrogen therapy in patients with advanced prostate cancer: a narrative review.",
+            "abstract": "The purpose of androgen deprivation therapy (ADT) in prostate cancer (PCa), using luteinizing hormone-releasing hormone agonists (LHRHa) or gonadotrophin-releasing hormone antagonists, is to suppress the levels of testosterone. Since testosterone is the precursor of estradiol (E2), one of the major undesired effects of ADT is the concomitant loss of E2, causing among others an increased bone turnover and bone loss and an increased risk of osteoporosis and fractures. Therefore, the guidelines for ADT indicate to combine ADT routinely with bone-sparing agents such as bisphosphonates, denosumab or selective estrogen receptor modulators. However, these compounds may have side effects and some require inconvenient parenteral administration. Co-treatment with estrogens is an alternative approach to prevent bone loss and at the same time, to avoid other side effects caused by the loss of estrogens, which is the topic explored in the present narrative review. Estrogens investigated in PCa pati",
+            "journal": "Endocrine connections",
+            "year": "2022",
+            "authors": [
+              "Coelingh Bennink Herjan J T",
+              "Krijgh Jan",
+              "Egberts Jan F M",
+              "Slootweg Maria",
+              "van Melick Harm H E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36283120/"
+          },
+          {
+            "pmid": "31972296",
+            "title": "Bones and Birth Control in Adolescent Girls.",
+            "abstract": "Peak bone mass acquisition during adolescence is an important determinant of adult bone health. Knowledge about the effects of different contraceptives on peak bone mass acquisition could influence choice of method recommended. This review summarizes normal bone acquisition during adolescence, discusses methods of assessing bone health in this age group, and reviews the effects of different contraceptive options on bone health, both in adults and in adolescents. Based on the evidence, long-acting reversible contraceptives do not appear to affect peak bone mass acquisition or future fracture risk and remain the first-line contraceptive choice for adolescents. Oral contraceptives with doses of ethinyl estradiol greater than 30 μg should be used in preference to lower-dose preparations, and the adverse effects of depo medroxyprogesterone acetate (DMPA) on bone health are reversible on discontinuation of the medication. Concerns about bone health should not prevent use of DMPA in an adoles",
+            "journal": "Journal of pediatric and adolescent gynecology",
+            "year": "2020",
+            "authors": [
+              "Golden Neville H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Bone Density",
+              "Contraception",
+              "Contraceptive Agents, Female",
+              "Contraceptives, Oral",
+              "Ethinyl Estradiol",
+              "Female",
+              "Humans",
+              "Long-Acting Reversible Contraception",
+              "Medroxyprogesterone Acetate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31972296/"
+          },
+          {
+            "pmid": "25815520",
+            "title": "Effects of OsteoKing on osteoporotic rabbits.",
+            "abstract": "Heng-Gu-Gu-Shang-Yu-He-Ji, also known as OsteoKing, is used as a herbal Traditional Chinese Medicine for the treatment of bone disease, including femoral head necrosis and osteoarthritis. However, whether OsteoKing has anti-osteoporotic properties has remained to be elucidated. The purpose of the present study was therefore to investigate the effects of OsteoKing on ovariectomy-induced osteoporosis in rabbits. Female New Zealand white rabbits were randomly divided into an ovariectomized (OVX) group and a sham-surgery group. The rabbits in the OVX group were subjected to an ovariectomy, while the rabbits in the sham group were subjected to the removal of an area of fat near the two ovaries. Bone mineral density, mechanical properties, serum biochemical parameters and micro-architecture were examined at 150 days post-OVX to characterize the experimental animal model. Once the osteoporotic rabbit model had been established, the rabbits in the OVX group were divided into the following grou",
+            "journal": "Molecular medicine reports",
+            "year": "2015",
+            "authors": [
+              "Dai Lifen",
+              "Wu Haiying",
+              "Yu Shan",
+              "Zhao Hongbin",
+              "Xue Lanjie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Absorptiometry, Photon",
+              "Acid Phosphatase",
+              "Administration, Oral",
+              "Animals",
+              "Bone Density",
+              "Bone Density Conservation Agents",
+              "Drugs, Chinese Herbal",
+              "Estriol",
+              "Estrogens",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25815520/"
+          },
+          {
+            "pmid": "22312238",
+            "title": "The bone-protective effect of genistein in the animal model of bilateral ovariectomy: roles of phytoestrogens and PTH/PTHR1 against post-menopausal osteoporosis.",
+            "abstract": "Genistein, a major phytoestrogen of soy, is considered a potential drug for the prevention and treatment of post-menopausal osteoporosis. Mounting evidence suggested a positive correlation between genistein consumption and bone health both in vivo and in vitro. Earlier studies have revealed that genistein acted as a natural estrogen analogue which activated estrogen receptor and exerted anti-osteoporotic effect. However, it remains unclear whether PTH, the most crucial hormone that regulates mineral homeostasis, participates in the process of genistein-mediated bone protection. In the present study, we compared the therapeutic effects between genistein and nilestriol and investigated whether PTH and its specific receptor PTHR1 altered in response to genistein-containing diet in the animal model of ovariectomy. Our results showed that genistein administration significantly improved femoral mechanical properties and alleviates femoral turnover. Genistein at all doses (4.5 mg/kg, 9.0 mg/k",
+            "journal": "International journal of molecular sciences",
+            "year": "2012",
+            "authors": [
+              "Miao Qing",
+              "Li Jing-Ge",
+              "Miao Shan",
+              "Hu Nan",
+              "Zhang Jin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alkaline Phosphatase",
+              "Animals",
+              "Bone Density",
+              "Creatinine",
+              "Disease Models, Animal",
+              "Estriol",
+              "Female",
+              "Femur",
+              "Genistein",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22312238/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20013009AZ",
+        "product": "NORDETTE 21 TABLET",
+        "active_ingredient": "ETHINYLOESTRADIOL[0.030MG                       ],LEVONORGESTREL[0.150MG                       ]",
+        "generic_name": "Levonorgestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-04-27",
+        "date_end": "2026-04-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20013009AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19991384AZ",
+        "product": "MINULET TABLET",
+        "active_ingredient": "ETHINYLESTRADIOL[30MCG                         ],GESTODEN[75MCG                         ]",
+        "generic_name": "Gestodene 75 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-26",
+        "date_end": "2026-11-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19991384AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12085067AZ",
+        "product": "LIZA 0.03MG/3MG FILM-COATED TABLET",
+        "active_ingredient": "DROSPIRENONE[3mg;0],ETHINYLESTRADIOL[0.03mg;0]",
+        "generic_name": "Drospirenone 3 mg & Ethinyloestradiol 0.03 mg Tablet",
+        "holder": "EURODRUG LABORATORIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12085067AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12085077AZ",
+        "product": "LIZELLE 0.02mg/3mg film-coated tablet",
+        "active_ingredient": "DROSPIRENONE[3mg;0],ETHINYLESTRADIOL[0.02mg;0]",
+        "generic_name": "Drospirenone 3 mg & Ethinylestradiol 0.02 mg Tablet",
+        "holder": "EURODRUG LABORATORIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12085077AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10100173AZ",
+        "product": "Giane 35 Tablet",
+        "active_ingredient": "Ethinylestradiol[0.035;mg;;0],CYPROTERONE ACETATE[2.00;mg;;0]",
+        "generic_name": "Cyproterone Acetate 2.0 mg & Ethinyloestradiol 0.035 mg Tablet",
+        "holder": "Vitamode  Sdn.bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10100173AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12115065AZ",
+        "product": "LIZ 0.02mg/3mg film-coated tablet",
+        "active_ingredient": "DROSPIRENONE[3mg;0],ETHINYLESTRADIOL[0.02mg;0]",
+        "generic_name": "Drospirenone 3 mg & Ethinyloestradiol 0.03 mg Tablet",
+        "holder": "EURODRUG LABORATORIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-01",
+        "date_end": "2027-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12115065AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19992694AZ",
+        "product": "LOETTE 21 TABLET",
+        "active_ingredient": "LEVONORGESTREL[100MCG                        ],ESTRADIOL[20MCG                         ]",
+        "generic_name": "Levonorgestrel 100 mcg & Ethinylestradiol 20 mcg Tablet",
+        "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-31",
+        "date_end": "2027-12-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19992694AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13015043AZ",
+        "product": "Daisy-30  Tablets",
+        "active_ingredient": "DESOGESTREL[0.150mg;0],ETHINYLESTRADIOL[0.030mg;0]",
+        "generic_name": "Levonorgestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-02",
+        "date_end": "2028-03-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13015043AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18046136AZ",
+        "product": "BELARA 0.03 mg/2 mg film-coated tablets",
+        "active_ingredient": "Chlormadinone acetate[2 mg],Ethinylestradiol[0.03 mg]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-24",
+        "date_end": "2028-04-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18046136AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18056094AZ",
+        "product": "DIENILLE 2mg / 0.03mg film coated tablets",
+        "active_ingredient": "DIENOGEST[2mg;],ETHINYLESTRADIOL[0.03mg;]",
+        "generic_name": NaN,
+        "holder": "EURODRUG LABORATORIES (M) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18056094AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08061574AZ",
+        "product": "Oralcon Tablet",
+        "active_ingredient": "LEVONORGESTREL[0.15;mg;;0],Ethinylestradiol[0.03;mg;;0]",
+        "generic_name": "Levonorgestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-29",
+        "date_end": "2028-06-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08061574AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18086162AZ",
+        "product": "Volina 3 mg/0.03 mg film-coated tablets",
+        "active_ingredient": "DROSPIRENONE[3.000mg;0],ETHINYLESTRADIOL[0.030mg;0]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-29",
+        "date_end": "2028-08-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18086162AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19872093AZ",
+        "product": "MARVELON TABLET",
+        "active_ingredient": "ETHINYLOESTRADIOL[0.03 MG                       ],DESOGESTREL[0.15MG                        ]",
+        "generic_name": "Desogestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19872093AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900570AZ",
+        "product": "MICROGYNON 30 TABLET",
+        "active_ingredient": "ETHINYLOESTRADIOL[0.03MG                        ],LEVONORGESTREL[0.15MG                        ]",
+        "generic_name": "Levonorgestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-07",
+        "date_end": "2028-10-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900570AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18106111AZ",
+        "product": "Daylina 3 mg/0.02 mg film-coated tablets",
+        "active_ingredient": "DROSPIRENONE[3.000mg;0],ETHINYLESTRADIOL[0.020mg;0]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-16",
+        "date_end": "2028-10-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18106111AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040023ARZ",
+        "product": "YASMIN TABLET",
+        "active_ingredient": "ETHINYLESTRADIOL[0.03mg],DROSPIRENONE[3 mg]",
+        "generic_name": "Drospirenone 3 mg & Ethinyloestradiol 0.03 mg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-01",
+        "date_end": "2029-02-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040023ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14035051ACZ",
+        "product": "MINIPIL 20 Film-coated Tablets",
+        "active_ingredient": "LEVONORGESTREL[0.10mg;0],ETHINYLESTRADIOL[0.02mg;0]",
+        "generic_name": NaN,
+        "holder": "EURODRUG LABORATORIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-29",
+        "date_end": "2029-03-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14035051ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20091884ACRZ",
+        "product": "YAZ TABLETS",
+        "active_ingredient": "DROSPIRENONE[3.00 mg],ETHINYLESTRADIOL[0.020 mg]",
+        "generic_name": "Drospirenone 3 mg & Ethinylestradiol 0.02 mg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-30",
+        "date_end": "2029-03-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20091884ACRZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900640AZ",
+        "product": "MERCILON TABLETS",
+        "active_ingredient": "ETHINYLOESTRADIOL[20MCG                         ],DESOGESTREL[150MCG                        ]",
+        "generic_name": "Desogestrel 150 mcg & Ethinylestradiol 20 mcg Tablet",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900640AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14125068ACZ",
+        "product": "CYBELLE 2mg/0.035mg film-coated tablet",
+        "active_ingredient": "CYPROTERONE ACETATE[2mg;0],ETHINYLESTRADIOL[0.035mg;0]",
+        "generic_name": NaN,
+        "holder": "EURODRUG LABORATORIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-16",
+        "date_end": "2030-01-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14125068ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10043680AZ",
+        "product": "Zinnia Tablets",
+        "active_ingredient": "LEVONORGESTREL[150;mcg;;0],Ethinylestradiol Ph.Eur.[30;mcg;;0]",
+        "generic_name": "Levonorgestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-02",
+        "date_end": "2030-05-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10043680AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076018ACZ",
+        "product": "Gracial Tablet",
+        "active_ingredient": "DESOGESTREL[25 mcg ],Ethinylestradiol[40 mcg ],DESOGESTREL[125 mcg ],Ethinylestradiol[30 mcg ]",
+        "generic_name": NaN,
+        "holder": "Aspen Medical Products Malaysia Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076018ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05072019AZ",
+        "product": "Regulon Tablet",
+        "active_ingredient": "Ethinylestradiol[0.030;mg;;],DESOGESTREL[0.150;mg;;]",
+        "generic_name": "Desogestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05072019AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20001225AZ",
+        "product": "RIGEVIDON COATED TABLET",
+        "active_ingredient": "ETHINYLESTRADIOL[0.03MG                        ],LEVONORGESTREL[0.15MG                        ]",
+        "generic_name": "Levonorgestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20001225AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05072014AZ",
+        "product": "Novynette Tablet",
+        "active_ingredient": "DESOGESTREL[0.150;mg;;],Ethinylestradiol[0.020;mg;;]",
+        "generic_name": "Desogestrel 150 mcg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05072014AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10070585AZ",
+        "product": "Desolon  Tablet  (Desogestrel  0.15 mg + Ethinylestradiol  0.03 mg)",
+        "active_ingredient": "DESOGESTREL[0.15;mg;;0],Ethinylestradiol[0.03;mg;;0]",
+        "generic_name": "Desogestrel 150 mcg & Ethinylestradiol 30 mcg Tablet",
+        "holder": "Vitamode  Sdn.bhd",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10070585AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05090010AZ",
+        "product": "Estelle-35 tablets",
+        "active_ingredient": "CYPROTERONE ACETATE[2;mg;;0],ETHINYLESTRADIOL[35;mcg;;0]",
+        "generic_name": "Cyproterone Acetate 2.0 mg & Ethinyloestradiol 0.035 mg Tablet",
+        "holder": "SCHMIDT BIOMEDTECH SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05090010AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00977",
+    "name": "Ethinylestradiol",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Ethinylestradiol"
+      },
+      "queried_at": "2026-03-04T16:01:37.295646",
+      "status": "success",
+      "result_count": 27,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ethinylestradiol"
+      },
+      "queried_at": "2026-03-04T16:01:38.826051",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "acne"
+      },
+      "queried_at": "2026-03-04T16:01:41.170230",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "acne"
+      },
+      "queried_at": "2026-03-04T16:01:46.138592",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "acne"
+      },
+      "queried_at": "2026-03-04T16:01:50.740949",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "obsolete atrophic vulva"
+      },
+      "queried_at": "2026-03-04T16:01:51.297806",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "obsolete atrophic vulva"
+      },
+      "queried_at": "2026-03-04T16:01:54.665695",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "obsolete atrophic vulva"
+      },
+      "queried_at": "2026-03-04T16:01:56.134902",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-04T16:01:56.689943",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-04T16:02:01.519775",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-04T16:02:05.066650",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "postmenopausal osteoporosis"
+      },
+      "queried_at": "2026-03-04T16:02:05.869594",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "postmenopausal osteoporosis"
+      },
+      "queried_at": "2026-03-04T16:02:12.016482",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "postmenopausal osteoporosis"
+      },
+      "queried_at": "2026-03-04T16:02:20.472798",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "osteoporosis"
+      },
+      "queried_at": "2026-03-04T16:02:22.640048",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "osteoporosis"
+      },
+      "queried_at": "2026-03-04T16:02:28.226263",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ethinylestradiol",
+        "disease": "osteoporosis"
+      },
+      "queried_at": "2026-03-04T16:02:35.542325",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:02:35.551131",
+    "version": "1.0"
+  }
+}

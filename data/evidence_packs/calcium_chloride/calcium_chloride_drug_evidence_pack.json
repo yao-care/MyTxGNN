@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Calcium Chloride",
+    "drugbank_id": "DB01164"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 90
+  },
+  "indications": [
+    {
+      "disease": "hypercalcemia disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 26,
+      "articles": 20,
+      "phase3": 6,
+      "phase2": 5,
+      "phase4": 8
+    },
+    {
+      "disease": "cardiac arrest",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 16,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 8,
+      "phase4": 1
+    },
+    {
+      "disease": "phosphorus metabolism disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 11,
+      "phase2": 12,
+      "phase4": 4
+    },
+    {
+      "disease": "potassium deficiency disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 0,
+      "phase3": 3,
+      "phase2": 9,
+      "phase4": 2
+    },
+    {
+      "disease": "nephrocalcinosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 19,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

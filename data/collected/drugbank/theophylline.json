@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Theophylline"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00277",
+    "name": "Theophylline",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:58:40.747160",
+  "success": true,
+  "error_message": null
+}

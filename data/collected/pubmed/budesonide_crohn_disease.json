@@ -1,0 +1,564 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "Crohn disease",
+    "query_string": "Budesonide AND Crohn disease"
+  },
+  "data": {
+    "query": "Budesonide AND Crohn disease",
+    "results": [
+      {
+        "pmid": "36753033",
+        "title": "Mild Crohn's Disease: Definition and Management.",
+        "abstract": "Crohn's Disease (CD) is a chronic inflammatory disease that can lead to progressive damage to the gastrointestinal tract and significant disability. Early, \"top-down\" biologic therapy is recommended in moderate-to-severe CD to induce remission and to prevent hospitalization and complications. However, an estimated 20-30% of patients with CD have a mild disease course and may not garner sufficient benefit from expensive, immunosuppressing agents to justify their risks. Herein, we review characteristics of patients with mild CD, the available options for disease treatment and monitoring, and future directions of research.",
+        "journal": "Current gastroenterology reports",
+        "year": "2023",
+        "authors": [
+          "Claytor Jennifer",
+          "Kumar Pushkar",
+          "Ananthakrishnan Ashwin N",
+          "Colombel Jean-Frederic",
+          "Agrawal Manasi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Crohn Disease",
+          "Sulfasalazine",
+          "Budesonide",
+          "Anti-Bacterial Agents",
+          "Enteral Nutrition",
+          "Remission Induction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36753033/"
+      },
+      {
+        "pmid": "30007787",
+        "title": "Reviewing the therapeutic role of budesonide in Crohn's disease.",
+        "abstract": "Oral budesonide is a glucocorticoid of primarily local action. In the field of digestive diseases, it is used mainly in inflammatory bowel disease, but also in other indications. This review addresses the pharmacology, pharmacodynamics and therapeutic use of budesonide. Its approved indications are reviewed, as well as other clinical scenarios in which it could play a role, in order to facilitate its use and improve the accuracy of its prescription.",
+        "journal": "Gastroenterologia y hepatologia",
+        "year": "2018",
+        "authors": [
+          "López-Sanromán Antonio",
+          "Clofent Joan",
+          "Garcia-Planella Esther",
+          "Menchén Luis",
+          "Nos Pilar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Controlled Clinical Trials as Topic",
+          "Crohn Disease",
+          "Humans",
+          "Ileostomy",
+          "Postoperative Complications",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30007787/"
+      },
+      {
+        "pmid": "31562236",
+        "title": "British Society of Gastroenterology consensus guidelines on the management of inflammatory bowel disease in adults.",
+        "abstract": "Ulcerative colitis and Crohn's disease are the principal forms of inflammatory bowel disease. Both represent chronic inflammation of the gastrointestinal tract, which displays heterogeneity in inflammatory and symptomatic burden between patients and within individuals over time. Optimal management relies on understanding and tailoring evidence-based interventions by clinicians in partnership with patients. This guideline for management of inflammatory bowel disease in adults over 16 years of age was developed by Stakeholders representing UK physicians (British Society of Gastroenterology), surgeons (Association of Coloproctology of Great Britain and Ireland), specialist nurses (Royal College of Nursing), paediatricians (British Society of Paediatric Gastroenterology, Hepatology and Nutrition), dietitians (British Dietetic Association), radiologists (British Society of Gastrointestinal and Abdominal Radiology), general practitioners (Primary Care Society for Gastroenterology) and patien",
+        "journal": "Gut",
+        "year": "2019",
+        "authors": [
+          "Lamb Christopher Andrew",
+          "Kennedy Nicholas A",
+          "Raine Tim",
+          "Hendy Philip Anthony",
+          "Smith Philip J"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Conservative Treatment",
+          "Disease Management",
+          "Gastroenterology",
+          "Inflammatory Bowel Diseases",
+          "Societies, Medical",
+          "United Kingdom",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31562236/"
+      },
+      {
+        "pmid": "30840605",
+        "title": "ACG Clinical Guideline: Ulcerative Colitis in Adults.",
+        "abstract": "Ulcerative colitis (UC) is an idiopathic inflammatory disorder. These guidelines indicate the preferred approach to the management of adults with UC and represent the official practice recommendations of the American College of Gastroenterology. The scientific evidence for these guidelines was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) process. In instances where the evidence was not appropriate for GRADE, but there was consensus of significant clinical merit, \"key concept\" statements were developed using expert consensus. These guidelines are meant to be broadly applicable and should be viewed as the preferred, but not only, approach to clinical scenarios.",
+        "journal": "The American journal of gastroenterology",
+        "year": "2019",
+        "authors": [
+          "Rubin David T",
+          "Ananthakrishnan Ashwin N",
+          "Siegel Corey A",
+          "Sauer Bryan G",
+          "Long Millie D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Anti-Inflammatory Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Biopsy",
+          "Budesonide",
+          "Colitis, Ulcerative",
+          "Colonoscopy",
+          "Colorectal Neoplasms",
+          "Disease Management",
+          "Early Detection of Cancer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30840605/"
+      },
+      {
+        "pmid": "32681228",
+        "title": "Randomized Trial of Ciprofloxacin Doxycycline and Hydroxychloroquine Versus Budesonide in Active Crohn's Disease.",
+        "abstract": "Increased mucosa-associated E. coli are present in Crohn's disease, but their role in pathogenesis is uncertain.",
+        "journal": "Digestive diseases and sciences",
+        "year": "2021",
+        "authors": [
+          "Rhodes Jonathan M",
+          "Subramanian Sreedhar",
+          "Flanagan Paul K",
+          "Horgan Graham W",
+          "Martin Kate"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Ciprofloxacin",
+          "Crohn Disease",
+          "Cross-Over Studies",
+          "Doxycycline",
+          "Drug Therapy, Combination",
+          "Enzyme Inhibitors",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32681228/"
+      },
+      {
+        "pmid": "39715834",
+        "title": "[Efficient treatment of mild Crohn's disease and mild ulcerative colitis].",
+        "abstract": "The cornerstone of treatment for mild ulcerative colitis is still the oral or topical (rectal) application of aminosalicylates (5-ASA). 5‑ASA preparations are often only administered orally in mild ulcerative colitis. Study data show that in ulcerative proctitis and left-sided colitis, rectal 5‑ASA preparations are even more effective than oral administration. In a next step, steroid-containing topical therapies should be used. Topical steroids such as budesonide are also primarily used in mild Crohn's disease. However, it is controversial whether treatment is necessary in symptom-free patients. There is still a lack of evidence to prove that more aggressive treatment (using immunosuppressants, biologics or small molecules) has a long-term benefit in these patients. Most guidelines are critical of the use of 5‑ASA in mild Crohn's disease. Nevertheless, there is some evidence for sufficiently high-dose treatment with 5‑ASA, although one must be aware of its limited effectiveness. Howeve",
+        "journal": "Innere Medizin (Heidelberg, Germany)",
+        "year": "2025",
+        "authors": [
+          "Rogler Gerhard"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Crohn Disease",
+          "Colitis, Ulcerative",
+          "Mesalamine",
+          "Budesonide",
+          "Administration, Oral",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Administration, Rectal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39715834/"
+      },
+      {
+        "pmid": "40539199",
+        "title": "Reevaluating therapeutic strategies in Crohn's disease: Comparing Modulen and budesonide.",
+        "abstract": "This article explores the significant implications of the study by Ovadia et al, which innovatively compares the efficacy of a nutritional intervention (Modulen) to conventional pharmaceutical therapy (budesonide) in promoting mucosal healing in Crohn's disease. Highlighting the paradox of a well-established yet underutilized nutritional approach, the findings suggest that Modulen may offer comparable therapeutic benefits despite its high withdrawal rate due to adherence challenges. This advancement underscores the evolving paradigm in inflammatory bowel disease treatment, shifting focus toward non-pharmacologic alternatives that target both clinical remission and endoscopic healing. The article advocates for the development of integrative treatment strategies that balance efficacy, patient adherence, and long-term disease management, emphasizing the need for further research to refine and optimize the role of nutritional therapies in clinical practice.",
+        "journal": "World journal of gastroenterology",
+        "year": "2025",
+        "authors": [
+          "Lahoud Chloe",
+          "Habib Toni",
+          "Bou Sanayeh Elie",
+          "Deeb Liliane"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Crohn Disease",
+          "Budesonide",
+          "Treatment Outcome",
+          "Remission Induction",
+          "Intestinal Mucosa",
+          "Anti-Inflammatory Agents",
+          "Medication Adherence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40539199/"
+      },
+      {
+        "pmid": "28146003",
+        "title": "Comparative Effectiveness of Mesalamine, Sulfasalazine, Corticosteroids, and Budesonide for the Induction of Remission in Crohn's Disease: A Bayesian Network Meta-analysis.",
+        "abstract": "Induction treatment of mild-to-moderate Crohn's disease is controversial.",
+        "journal": "Inflammatory bowel diseases",
+        "year": "2017",
+        "authors": [
+          "Coward Stephanie",
+          "Kuenzig M Ellen",
+          "Hazlewood Glen",
+          "Clement Fiona",
+          "McBrien Kerry"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Bayes Theorem",
+          "Budesonide",
+          "Comparative Effectiveness Research",
+          "Crohn Disease",
+          "Humans",
+          "Induction Chemotherapy",
+          "Mesalamine",
+          "Odds Ratio"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28146003/"
+      },
+      {
+        "pmid": "25864873",
+        "title": "Systematic review with network meta-analysis: comparative efficacy and safety of budesonide and mesalazine (mesalamine) for Crohn's disease.",
+        "abstract": "Budesonide and mesalazine (mesalamine) are commonly used in the medical management of patients with mild to moderate Crohn's disease.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2015",
+        "authors": [
+          "Moja L",
+          "Danese S",
+          "Fiorino G",
+          "Del Giovane C",
+          "Bonovas S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bayes Theorem",
+          "Budesonide",
+          "Crohn Disease",
+          "Humans",
+          "Mesalamine",
+          "Odds Ratio",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25864873/"
+      },
+      {
+        "pmid": "19611401",
+        "title": "Budesonide for Crohn's disease.",
+        "abstract": "Crohn's disease is characterized by recurrent transmural inflammation of the gastrointestinal tract, most commonly, the terminal ileum and the colon. Therapy is aimed at breaking the cycle of inflammation by inducing and maintaining remission. Current effective therapies include systemic corticosteroids, but this class of drugs is associated with a variety of adverse effects, which may lead to significant morbidity and even mortality. Budesonide, a potent corticosteroid designed to have location specific delivery to the gastrointestinal tract, has limited systemic bioavailability largely due to its extensive first pass metabolism and has been demonstrated to be a safer alternative to conventional corticosteroids and of proven efficacy in the induction of remission in mild to moderate Crohn's disease. However, budesonide is not effective in maintaining remission in patients with Crohn's disease.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2009",
+        "authors": [
+          "Seow Cynthia H",
+          "Benchimol Eric I",
+          "Steinhart A Hillary",
+          "Griffiths Anne M",
+          "Otley Anthony R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19611401/"
+      },
+      {
+        "pmid": "26039678",
+        "title": "Budesonide for induction of remission in Crohn's disease.",
+        "abstract": "Corticosteroids are commonly used for the induction of remission in Crohn's disease. However, traditional corticosteroids can cause significant adverse events. Budesonide is an alternative glucocorticoid with limited systemic bioavailability.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2015",
+        "authors": [
+          "Rezaie Ali",
+          "Kuenzig M Ellen",
+          "Benchimol Eric I",
+          "Griffiths Anne Marie",
+          "Otley Anthony R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Budesonide",
+          "Crohn Disease",
+          "Humans",
+          "Induction Chemotherapy",
+          "Mesalamine",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26039678/"
+      },
+      {
+        "pmid": "32683839",
+        "title": "Crohn's Disease Following Rituximab Treatment for Follicular Lymphoma in a Patient with Synchronous Gastric Signet Ring Cells Carcinoma: A Case Report and Literature Review.",
+        "abstract": "Recently, there have been a few reports of rituximab (RTX)-induced Crohn's disease, but there is no literature available on successful long-term treatment and the clinical outcome of this condition. We retrospectively analyzed the clinical data of a rare case of Crohn's disease induced by RTX administered as induction and prolonged maintenance therapy of a follicular lymphoma, diagnosed synchronously with a gastric signet ring cells carcinoma, treated at our hospital.",
+        "journal": "Cancer research and treatment",
+        "year": "2020",
+        "authors": [
+          "Cavalcanti Elisabetta",
+          "Armentano Raffaele",
+          "Lolli Ivan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Antineoplastic Agents, Immunological",
+          "Budesonide",
+          "Carcinoma, Signet Ring Cell",
+          "Crohn Disease",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Induction Chemotherapy",
+          "Lymphoma, Follicular",
+          "Maintenance Chemotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32683839/"
+      },
+      {
+        "pmid": "11069312",
+        "title": "Budesonide in the treatment of Crohn's disease: a meta-analysis.",
+        "abstract": "To perform a meta-analysis to assess the effectiveness and safety of oral budesonide for inducing remission in active Crohn's disease and for preventing relapse in Crohn's disease with medically- or surgically-induced remission.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2000",
+        "authors": [
+          "Papi C",
+          "Luchetti R",
+          "Gili L",
+          "Montanti S",
+          "Koch M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Double-Blind Method",
+          "Glucocorticoids",
+          "Humans",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11069312/"
+      },
+      {
+        "pmid": "29603368",
+        "title": "Oral budesonide in gastrointestinal and liver disease: A practical guide for the clinician.",
+        "abstract": "Oral budesonide is a second-generation steroid that allows local, selective treatment of the gastrointestinal tract and the liver, minimizing systemic exposure. The results of randomized trials comparing budesonide versus placebo or active comparators have led to expert recommendations that budesonide be used to treat mild or moderate active ileocecal Crohn's disease, microscopic colitis (including both collagenous and lymphocytic colitis), ulcerative colitis, and non-cirrhotic autoimmune hepatitis. The mechanism of budesonide action obviates the need for dose tapering due to safety reasons after induction therapy. Where low-dose budesonide is used to maintain remission, usually in microscopic colitis, it does not appear to have adverse safety implications other than slight reductions in cortisol levels on rare occasions. As a gut-selective and liver-selective corticosteroid, budesonide offers an appealing alternative to conventional systemic glucocorticoids in diseases of these organs",
+        "journal": "Journal of gastroenterology and hepatology",
+        "year": "2018",
+        "authors": [
+          "Miehlke Stephan",
+          "Acosta Manuel Barreiro-de",
+          "Bouma Gerd",
+          "Carpio Daniel",
+          "Magro Fernando"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29603368/"
+      },
+      {
+        "pmid": "25141071",
+        "title": "Budesonide for maintenance of remission in Crohn's disease.",
+        "abstract": "Corticosteroids are effective for induction, but not maintenance of remission in Crohn's disease. Significant concerns exist regarding the risk for adverse events, particularly when corticosteroids are used for long treatment courses. Budesonide is a glucocorticoid with limited systemic bioavailability due to extensive first-pass hepatic metabolism and is effective for induction of remission in Crohn's disease.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2014",
+        "authors": [
+          "Kuenzig M Ellen",
+          "Rezaie Ali",
+          "Seow Cynthia H",
+          "Otley Anthony R",
+          "Steinhart A Hillary"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Humans",
+          "Induction Chemotherapy",
+          "Maintenance Chemotherapy",
+          "Randomized Controlled Trials as Topic",
+          "Risk",
+          "Secondary Prevention"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25141071/"
+      },
+      {
+        "pmid": "8652141",
+        "title": "Budesonide or prednisolone in active Crohn's disease.",
+        "abstract": "",
+        "journal": "Annals of medicine",
+        "year": "1995",
+        "authors": [
+          "Baert F",
+          "Rutgeerts P"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Drugs, Investigational",
+          "Humans",
+          "Prednisolone",
+          "Pregnenediones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8652141/"
+      },
+      {
+        "pmid": "18680195",
+        "title": "Budesonide induction and maintenance therapy for Crohn's disease during pregnancy.",
+        "abstract": "There is no standard approach for the medical management of Crohn's disease (CD) during pregnancy and there is limited data regarding safety and efficacy of the treatments. Budesonide (Entocort EC, AstraZeneca) is an enteric coated locally acting glucocorticoid preparation whose pH- and time-dependent coating enables its release into the ileum and ascending colon for the treatment of mild to moderate Crohn's disease. There is no available data on the safety of using oral budesonide in pregnant patients.",
+        "journal": "Inflammatory bowel diseases",
+        "year": "2009",
+        "authors": [
+          "Beaulieu Dawn B",
+          "Ananthakrishnan Ashwin N",
+          "Issa Mazen",
+          "Rosenbaum Lydia",
+          "Skaros Sue"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications",
+          "Remission Induction",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18680195/"
+      },
+      {
+        "pmid": "11023556",
+        "title": "Steroid-dependent Crohn's disease.",
+        "abstract": "Placebo controlled trials have demonstrated that a tapering course of corticosteroids is an effective therapy for active Crohn's disease. A population-based study of 109 patients with Crohn's disease undergoing their first course of corticosteroids showed that, at the end of one year, 44% of patients were steroid responsive, 36% were steroid dependent and 20% were steroid refractory. Side effects occur frequently during a four-month tapering course of corticosteroids, including moon face, acne, infection, ecchymoses, hypertension, hirsutism, petechial bleeding and striae. More serious side effects occur with long term use, including hypertension, diabetes, infection, osteonecrosis, osteoporosis, myopathy, cataracts, glaucoma and psychosis. Low dose corticosteroids, alternate-day corticosteroids and mesalamine (5-aminosalicylate) are not effective steroid-sparing agents in patients with Crohn's disease. Controlled ileal release budesonide, 6 mg/day, is an effective steroid-sparing agent",
+        "journal": "Canadian journal of gastroenterology = Journal canadien de gastroenterologie",
+        "year": "2000",
+        "authors": [
+          "Sandborn W J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Glucocorticoids",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11023556/"
+      },
+      {
+        "pmid": "28612627",
+        "title": "Pharmacokinetic drug evaluation of budesonide in the treatment of Crohn's disease.",
+        "abstract": "Crohn's disease (CD) is a chronic inflammatory disorder that commonly affects the terminal ileum and proximal colon. Although systemic corticosteroids such as prednisone and methylprednisolone are widely used for treatment of CD, these agents have a high incidence of adverse drug reactions due to off-target effects. Budesonide is a locally acting corticosteroid with enhanced formulation properties that offer a superior therapeutic index in comparison to conventional members of the class. Areas covered: This review focuses on budesonide for the treatment of CD. The pharmacological and pharmacokinetics of the drug are summarized, along with clinical efficacy and safety data. We also indicate the role of budesonide in therapeutic algorithms. Expert opinion: Budesonide has an important role as an induction therapy in patients with mild to moderately active CD of the ileum and proximal colon. The most distinctive advantage of budesonide over conventional corticosteroids is a substantially r",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2017",
+        "authors": [
+          "Kwapisz Lukasz",
+          "Jairath Vipul",
+          "Khanna Reena",
+          "Feagan Brian"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Anti-Inflammatory Agents",
+          "Budesonide",
+          "Crohn Disease",
+          "Glucocorticoids",
+          "Humans",
+          "Methylprednisolone",
+          "Prednisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28612627/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:10:29.306221",
+  "success": true,
+  "error_message": null
+}

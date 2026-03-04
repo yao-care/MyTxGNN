@@ -1,0 +1,606 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "bipolar disorder",
+    "query_string": "Olanzapine AND bipolar disorder"
+  },
+  "data": {
+    "query": "Olanzapine AND bipolar disorder",
+    "results": [
+      {
+        "pmid": "29536616",
+        "title": "Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) 2018 guidelines for the management of patients with bipolar disorder.",
+        "abstract": "The Canadian Network for Mood and Anxiety Treatments (CANMAT) previously published treatment guidelines for bipolar disorder in 2005, along with international commentaries and subsequent updates in 2007, 2009, and 2013. The last two updates were published in collaboration with the International Society for Bipolar Disorders (ISBD). These 2018 CANMAT and ISBD Bipolar Treatment Guidelines represent the significant advances in the field since the last full edition was published in 2005, including updates to diagnosis and management as well as new research into pharmacological and psychological treatments. These advances have been translated into clear and easy to use recommendations for first, second, and third- line treatments, with consideration given to levels of evidence for efficacy, clinical support based on experience, and consensus ratings of safety, tolerability, and treatment-emergent switch risk. New to these guidelines, hierarchical rankings were created for first and second- ",
+        "journal": "Bipolar disorders",
+        "year": "2018",
+        "authors": [
+          "Yatham Lakshmi N",
+          "Kennedy Sidney H",
+          "Parikh Sagar V",
+          "Schaffer Ayal",
+          "Bond David J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aged",
+          "Algorithms",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Bupropion",
+          "Child",
+          "Evidence-Based Medicine",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29536616/"
+      },
+      {
+        "pmid": "34599629",
+        "title": "Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) recommendations for the management of patients with bipolar disorder with mixed presentations.",
+        "abstract": "The 2018 Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) guidelines provided clinicians with pragmatic treatment recommendations for bipolar disorder (BD). While these guidelines included commentary on how mixed features may direct treatment selection, specific recommendations were not provided-a critical gap which the current update aims to address.",
+        "journal": "Bipolar disorders",
+        "year": "2021",
+        "authors": [
+          "Yatham Lakshmi N",
+          "Chakrabarty Trisha",
+          "Bond David J",
+          "Schaffer Ayal",
+          "Beaulieu Serge"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Anxiety",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Canada",
+          "Humans",
+          "Olanzapine",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34599629/"
+      },
+      {
+        "pmid": "36472471",
+        "title": "Psychopharmacological Treatment Algorithms of Manic/Mixed and Depressed Episodes in Pediatric Bipolar Disorder.",
+        "abstract": "Introduction: Pediatric bipolar disorder (PBD) is a severe psychiatric illness diagnosed before the age of 18, which is associated with extreme shifts in mood characterized by manic and depressive episodes. In 2005, AACAP published algorithms to guide pharmacological treatment of manic/mixed episodes associated with PBD. At that time, lithium was the only Food and Drug Administration (FDA)-approved treatment for pediatric bipolar manic/mixed episodes. The goal of this article is to review evidence that has emerged since the AACAP algorithm in 2005. Methods: Literature searches were conducted through PubMed and limited to studies published between 2005 and 2021, using keywords that focused on randomized controlled trials (RCTs) for available psychopharmacological medications. In addition, the authors conducted in-depth searches for articles providing evidence for agents included in the 2005 AACAP algorithm. Results: Since the publication of the AACAP algorithm in 2005, multiple RCTs hav",
+        "journal": "Journal of child and adolescent psychopharmacology",
+        "year": "2022",
+        "authors": [
+          "Hobbs Elizabeth",
+          "Reed Rachel",
+          "Lorberg Boris",
+          "Robb Adelaide S",
+          "Dorfman Julia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "Mania",
+          "Olanzapine",
+          "Algorithms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36472471/"
+      },
+      {
+        "pmid": "34489127",
+        "title": "Preventing new episodes of bipolar disorder in adults: Systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "Uncertainty remains regarding the relative efficacy of maintenance pharmacotherapy for bipolar disorder (BD), and available data require updating. The present systematic review and meta-analysis aims to consolidate the evidence from the highest quality randomized controlled trials (RCTs) published up to July 2021, overcoming the limitations of earlier reviews. The PubMed and the Cochrane Central Register of Controlled Trials were searched for double-blind RCTs involving lithium, mood stabilizing anticonvulsants (MSAs), antipsychotics, antidepressants, and other treatments. Rates of new mood episodes with test vs. reference treatments (placebo or alternative active agent) were compared by random-effects meta-analysis. Polarity index was calculated for each treatment type. Eligible trials involved ≥6 months of maintenance follow up. Of 2,158 identified reports, 22 met study eligibility criteria, and involved 7,773 subjects stabilized for 1-12 weeks and followed-up for 24-104 weeks. Psych",
+        "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+        "year": "2022",
+        "authors": [
+          "Nestsiarovich Anastasiya",
+          "Gaudiot Christopher E S",
+          "Baldessarini Ross J",
+          "Vieta Eduard",
+          "Zhu Yiliang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lithium",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34489127/"
+      },
+      {
+        "pmid": "35040357",
+        "title": "Olanzapine/Samidorphan: New Drug Approved for Treating Bipolar I Disorder and Schizophrenia.",
+        "abstract": "To describe the approval of olanzapine/samidorphan, compare the clinical trial data, and summarize key findings, with a focus on impact to clinical practice.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Monahan Christie",
+          "McCoy Lindsey",
+          "Powell Jason",
+          "Gums John G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Naltrexone",
+          "Olanzapine",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35040357/"
+      },
+      {
+        "pmid": "35545157",
+        "title": "Evidence-based treatment strategies for rapid cycling bipolar disorder, a systematic review.",
+        "abstract": "Rapid cycling is a phase of bipolar disorder with increased episode frequencies. It is a severe and disabling condition that often poses a major challenge to the clinician. The aim of this paper is to give an overview of the evidence-based treatment options for rapid cycling.",
+        "journal": "Journal of affective disorders",
+        "year": "2022",
+        "authors": [
+          "Roosen L",
+          "Sienaert P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lamotrigine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35545157/"
+      },
+      {
+        "pmid": "35644903",
+        "title": "Olanzapine/Samidorphan: A New Combination Treatment for Schizophrenia and Bipolar I Disorder Intended to Reduce Weight Gain.",
+        "abstract": "Olanzapine is a second-generation antipsychotic with established efficacy in several psychiatric disease states, but its use is limited because of weight gain and metabolic side effects. Samidorphan is a novel opioid antagonist that binds to mu-opioid, kappa-opioid, and delta-opioid receptors and is hypothesized to reduce cravings for high-calorie foods thus attenuating antipsychotic-induced weight gain. The combination product olanzapine/samidorphan was approved by the US Food and Drug Administration in June 2021 for the treatment of schizophrenia and bipolar I disorder; this article reviews the pharmacological properties of oral olanzapine/samidorphan and its clinical efficacy and tolerability with a focus on mitigation of olanzapine-induced weight gain in these patient populations. In clinical trials, the combination of olanzapine/samidorphan was associated with significantly less weight gain and smaller increases in waist circumference as compared with olanzapine monotherapy. Olanz",
+        "journal": "CNS drugs",
+        "year": "2022",
+        "authors": [
+          "Corrao Madeline M",
+          "Nelson Leigh Anne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics, Opioid",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Naltrexone",
+          "Olanzapine",
+          "Schizophrenia",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35644903/"
+      },
+      {
+        "pmid": "35354374",
+        "title": "Olanzapine-samidorphan combination tablets for the treatment of schizophrenia and bipolar I disorder - what is it, and will it be used?",
+        "abstract": "Although olanzapine remains one of the most efficacious antipsychotic medications for the treatment of schizophrenia, there are significant tolerability concerns related to its weight and metabolic profile. Olanzapine-samidorphan combination tablets (OLZ/SAM), branded as Lybalvi, is a newly FDA approved formulation aimed at attenuating antipsychotic induced weight gain via modulation of the endogenous opioid system with samidorphan, while retaining the robust antipsychotic efficacy of olanzapine.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2022",
+        "authors": [
+          "Faden Justin",
+          "Serdenes Ryan",
+          "Citrome Leslie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Naltrexone",
+          "Narcotic Antagonists",
+          "Olanzapine",
+          "Schizophrenia",
+          "Tablets",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35354374/"
+      },
+      {
+        "pmid": "38487836",
+        "title": "Efficacy and tolerability of FDA-approved atypical antipsychotics for the treatment of bipolar depression: a systematic review and network meta-analysis.",
+        "abstract": "We employed a Bayesian network meta-analysis for comparison of the efficacy and tolerability of US Food and Drug Administration (FDA)-approved atypical antipsychotics (AAPs) for the treatment of bipolar patients with depressive episodes. Sixteen randomized controlled trials with 7234 patients treated by one of the five AAPs (cariprazine, lumateperone, lurasidone, olanzapine, and quetiapine) were included. For the response rate (defined as an improvement of ≥50% from baseline on the Montgomery-Åsberg Depression Rating Scale [MADRS]), all AAPs were more efficacious than placebo. For the remission rate (defined as the endpoint of MADRS ≤12 or ≤ 10), cariprazine, lurasidone, olanzapine, and quetiapine had higher remission rates than placebo. In terms of tolerability, olanzapine was unexpectedly associated with lower odds of all-cause discontinuation in comparison with placebo, whereas quetiapine was associated with higher odds of discontinuation due to adverse events than placebo. Compared",
+        "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+        "year": "2024",
+        "authors": [
+          "Li Shaoli",
+          "Xu Chenyue",
+          "Hu Shaohua",
+          "Lai Jianbo"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "United States",
+          "United States Food and Drug Administration",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Quetiapine Fumarate",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38487836/"
+      },
+      {
+        "pmid": "35778967",
+        "title": "A systematic review and meta-analysis of treatments for rapid cycling bipolar disorder.",
+        "abstract": "Rapid cycling is a common and disabling phenomenon in individuals with bipolar disorders. In the absence of a recent literature examination, this systematic review and meta-analysis aimed to synthesise the evidence of efficacy, acceptability and tolerability of treatments for individuals with rapid cycling bipolar disorder (RCBD).",
+        "journal": "Acta psychiatrica Scandinavica",
+        "year": "2022",
+        "authors": [
+          "Strawbridge Rebecca",
+          "Kurana Suman",
+          "Kerr-Gaffney Jess",
+          "Jauhar Sameer",
+          "Kaufman Kenneth R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Citalopram",
+          "Fluoxetine",
+          "Humans",
+          "Lamotrigine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Venlafaxine Hydrochloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35778967/"
+      },
+      {
+        "pmid": "29926533",
+        "title": "Incidence and characteristics of the nocebo response from meta-analyses of the placebo arms of clinical trials of olanzapine for bipolar disorder.",
+        "abstract": "In the clinical setting, the nocebo phenomenon is where clinical worsening or adverse events occur as a response to a treatment, in a situation in which conditioning from previous treatment exposure and/or expectations of sickness or symptoms lead to sickness and symptoms in a conditioned or expectant individual. The nocebo response may thus be a confounder in clinical treatment and clinical research. There is a need to know how to predict if an individual is likely to be a nocebo responder, and how significant and commonplace the nocebo effect might be.",
+        "journal": "Bipolar disorders",
+        "year": "2019",
+        "authors": [
+          "Dodd Seetal",
+          "Walker Adam J",
+          "Brnabic Alan J M",
+          "Hong Nancy",
+          "Burns Amber"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29926533/"
+      },
+      {
+        "pmid": "18220496",
+        "title": "Olanzapine for the treatment of bipolar disorder in children and adolescents.",
+        "abstract": "The second-generation antipsychotic olanzapine has been shown to be efficacious as a treatment for adults with bipolar disorder and is approved by the United States Food and Drug Administration for the treatment of acute manic or mixed episodes as well as for maintenance treatment in bipolar adults.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2008",
+        "authors": [
+          "Strawn Jeffrey R",
+          "Delbello Melissa P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Child",
+          "Diabetes Mellitus",
+          "Humans",
+          "Hyperprolactinemia",
+          "Olanzapine",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18220496/"
+      },
+      {
+        "pmid": "19828571",
+        "title": "Olanzapine in the long-term treatment of bipolar disorder: a systematic review and meta-analysis.",
+        "abstract": "Olanzapine was licensed in the USA by the Food and Drug Administration in 2003 for the prevention of relapse in patients with bipolar disorder when the acute manic episode had responded to treatment with olanzapine. However, olanzapine is commonly used in clinical practice for preventing relapse in patients with bipolar disorder even when acute response has not been demonstrated. The aim of this systematic review and meta-analysis is to determine the effectiveness and acceptability of olanzapine in preventing recurrent mood episodes in bipolar disorder. MEDLINE, EMBASE, the Cochrane Collaboration Depression, Anxiety and Neurosis Controlled Trials Register and the Cochrane Central Register of Controlled up to July 2008 were accessed. Only randomised controlled trials comparing olanzapine with placebo or other active drugs for long-term treatment were included. Two reviewers independently extracted data. Authors were contacted to provide additional data. Of the five trials included in th",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2010",
+        "authors": [
+          "Cipriani Andrea",
+          "Rendell Jennifer",
+          "Geddes John R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Lithium Compounds",
+          "Olanzapine",
+          "Randomized Controlled Trials as Topic",
+          "Secondary Prevention"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19828571/"
+      },
+      {
+        "pmid": "28939419",
+        "title": "Initial symptom severity of bipolar I disorder and the efficacy of olanzapine: a meta-analysis of individual participant data from five placebo-controlled studies.",
+        "abstract": "The efficacy of antipsychotics across the initial severity range in patients with acute mania remains unclear. Therefore, we examined the influence of baseline severity on the efficacy of olanzapine.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2017",
+        "authors": [
+          "Samara Myrto T",
+          "Goldberg Yair",
+          "Levine Stephen Z",
+          "Furukawa Toshi A",
+          "Geddes John R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Humans",
+          "Olanzapine",
+          "Outcome Assessment, Health Care",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28939419/"
+      },
+      {
+        "pmid": "24392714",
+        "title": "Interactions between valproic acid and quetiapine/olanzapine in the treatment of bipolar disorder and the role of therapeutic drug monitoring.",
+        "abstract": "The anticonvulsant valproic acid and the atypical antipsychotics olanzapine and quetiapine provide synergistic mood-stabilising, antidepressant and antipsychotic activities in the treatment of bipolar and schizoaffective disorders. Existing literature shows that pharmacokinetic and pharmacodynamics drug-drug interactions (DDIs) possibly occur with the use of such a combination. Clinical reports of a possible interaction between the drugs leading to an increased risk of adverse drug reactions have also emerged. The main objective of this paper is to review the incidence of DDIs between the anticonvulsant and the antipsychotics, to postulate the possible mechanisms of the interaction and to establish whether certain target populations are at an increased susceptibility to such interactions. The usefulness of therapeutic drug monitoring (TDM) of the antipsychotics to monitor for an interaction was also assessed. A systematic database search was carried out using the search engine provided",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2014",
+        "authors": [
+          "Vella Thomas",
+          "Mifsud Janet"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Dibenzothiazepines",
+          "Drug Interactions",
+          "Drug Monitoring",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24392714/"
+      },
+      {
+        "pmid": "15529211",
+        "title": "[Economic analyses of olanzapine in the treatment of schizophrenia and bipolar disorder].",
+        "abstract": "Schizophrenia generates important costs for society both direct, as a consequence of hospitalization and outpatient treatment, and indirect; related to loss of productivity. The atypical antipsychotics, such as olanzapine, have supposed an important advance in the treatment of schizophrenia. The greater cost of atypical antipsychotics with respect to conventional drugs has led to the conduction of pharmacoeconomic studies to determine its efficiency. This article reviews the complete pharmacoeconomic studies that compare olanzapine with haloperidol and risperidone in the treatment of schizophrenia. Cost analyses comparing olanzapine and haloperidol show that the former drug does not add increased cost to therapy, and even contributes to lessen expenses fundamentally as a result of a decrease in hospitalizations. In the economic evaluations comparing olanzapine and risperidone, the results are not conclusive, and in general, the total costs associated with both treatments were similar. ",
+        "journal": "Actas espanolas de psiquiatria",
+        "year": "2004",
+        "authors": [
+          "Dilla T",
+          "Prieto L",
+          "Ciudad A",
+          "Sacristán J A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Cost-Benefit Analysis",
+          "Haloperidol",
+          "Humans",
+          "Olanzapine",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15529211/"
+      },
+      {
+        "pmid": "33494115",
+        "title": "Bipolar Disorder and Outcomes of Monotherapy with Lithium, Valproate, Quetiapine, Olanzapine, Venlafaxine, and Citalopram.",
+        "abstract": "The aim of this study was to compare the outcomes of monotherapy in individuals with bipolar disorder who are prescribed lithium, valproate, quetiapine, olanzapine, venlafaxine, or citalopram in private psychiatric practices in Germany.",
+        "journal": "Pharmacopsychiatry",
+        "year": "2021",
+        "authors": [
+          "Bohlken Jens",
+          "Riedel-Heller Steffi",
+          "Bauer Michael",
+          "Kostev Karel"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Citalopram",
+          "Humans",
+          "Lithium",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Retrospective Studies",
+          "Valproic Acid",
+          "Venlafaxine Hydrochloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33494115/"
+      },
+      {
+        "pmid": "41249796",
+        "title": "Molecular mechanisms of olanzapine against agitation in schizophrenia and bipolar disorder based on network pharmacology and molecular docking.",
+        "abstract": "Olanzapine, a second-generation antipsychotic, is commonly used to manage agitation in patients with schizophrenia and bipolar disorder, though its underlying mechanism of action remains unclear. In this study, network pharmacology and molecular docking were applied to explore the potential molecular mechanisms of olanzapine. Targets related to olanzapine were retrieved from GeneCards, SwissTargetPrediction, and the Comparative Toxicogenomics Database (CTD), while disease-associated targets were collected from DisGeNET and GeneCards. A protein-protein interaction (PPI) network was constructed to identify key targets. Functional enrichment analyses using the Database for Annotation, Visualization and Integrated Discovery (DAVID) and Bioinformatics platforms indicated involvement in cell proliferation, apoptosis, and inflammation. The core targets identified included brain-derived neurotrophic factor (BDNF), insulin (INS), AKT serine/threonine kinase 1 (AKT1), tumor protein p53 (TP53), i",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Shi Xuemin",
+          "Chen Xingying",
+          "Ma Xiaoyan",
+          "Li Ranli",
+          "Yang Jiangshun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Olanzapine",
+          "Molecular Docking Simulation",
+          "Bipolar Disorder",
+          "Schizophrenia",
+          "Humans",
+          "Antipsychotic Agents",
+          "Network Pharmacology",
+          "Psychomotor Agitation",
+          "Protein Interaction Maps",
+          "Signal Transduction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41249796/"
+      },
+      {
+        "pmid": "33795581",
+        "title": "Long-Term Treatment of Bipolar Disorder with Valproate: Updated Systematic Review and Meta-analyses.",
+        "abstract": "After participating in this activity, learners should be better able to:• Evaluate the evidence regarding the effectiveness of long-term treatment of bipolar disorder with valproate.",
+        "journal": "Harvard review of psychiatry",
+        "year": "2021",
+        "authors": [
+          "Yee Caitlin S",
+          "Vázquez Gustavo H",
+          "Hawken Emily R",
+          "Biorac Aleksandar",
+          "Tondo Leonardo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Olanzapine",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33795581/"
+      },
+      {
+        "pmid": "23678597",
+        "title": "[Olanzapine].",
+        "abstract": "Olanzapine is one of the SGAs (second-generation antipsychotics) which have been used for the treatment of patients with schizophrenia and bipolar disorder in Japan. Olanzapine has various affinities for multiple receptors, including dopamine D2 receptor, serotonin 5-HT2A, 5-HT2C, 5-HT6 receptors, and adrenaline alpha1, histamine H1, muscarine M1-M5 receptors as well. Therefore, olanzapine is known as MARTA(multi-acting receptor targeted antipsychotics). Numerous studies have been conducted to compare the effectiveness of olanzapine between SGAs and FGAs (first-generation antipsychotics). According to the head-to-head meta-analysis and large-scale studies like CATIE and EUFEST, olanzapine seems to have not only higher efficacy but also less discontinuation comparing to other anti-psychotics.",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2013",
+        "authors": [
+          "Nagai Nobuhiro",
+          "Watanabe Koichiro"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Clozapine",
+          "Humans",
+          "Male",
+          "Olanzapine",
+          "Schizophrenia",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23678597/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:06:58.307868",
+  "success": true,
+  "error_message": null
+}

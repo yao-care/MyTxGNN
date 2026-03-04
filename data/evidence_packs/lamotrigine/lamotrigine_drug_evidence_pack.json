@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Lamotrigine",
+    "drugbank_id": "DB00555"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 20
+  },
+  "indications": [
+    {
+      "disease": "cutis verticis gyrata",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "epilepsy",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 12,
+      "phase2": 1,
+      "phase4": 14
+    },
+    {
+      "disease": "Lennox-Gastaut syndrome",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 2,
+      "articles": 20,
+      "phase3": 1,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "partial epilepsy",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 24,
+      "articles": 20,
+      "phase3": 10,
+      "phase2": 3,
+      "phase4": 8
+    },
+    {
+      "disease": "visual epilepsy",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 2,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 1
+    }
+  ]
+}

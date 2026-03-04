@@ -1,0 +1,68 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Erythromycin",
+    "disease": "pneumonia caused by chlamydia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02048007",
+      "title": "Evaluating Impact of Azithromycin Mass Drug Administrations on All-cause Mortality and Antibiotic Resistance: Morbidity Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2020-08-27",
+      "country": "Niger, Tanzania, United Kingdom, Malawi, United States",
+      "enrollment": 72000,
+      "brief_summary": "The long-term goal of this study is to more precisely define the role of mass azithromycin treatments as an intervention for reducing childhood morbidity and increasing growth, and for the potential selection of antibiotic resistance. The investigators propose a set of 3 cluster-randomized trials in Malawi, Niger, and Tanzania comparing communities randomized to oral azithromycin with those randomized to placebo. To assess the generalizability of the intervention, investigators will monitor for ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nCommunities:\n\n* The community location in target district.\n* The community leader consents to participation in the trial\n* The community's estimated population is between 200-2,000 people.\n* The community is not in an urban area.\n\nIndividuals (Intervention):\n\n\\- Children-treated",
+      "endpoints": [
+        "Presence of malaria parasites on thick blood smear or Rapid Diagnostic Test (RDT) in children 1-60 months",
+        "Fraction of isolates of pneumococcus exhibiting macrolide resistance by nasopharyngeal swabs in children 1-60 months",
+        "Prevalence of macrolide resistance in the stool as determined by genetic determinants or phenotypic testing"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT02048007"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00043264",
+      "title": "Antibiotic Treatment Trial Directed Against Chlamydia Pneumonia in Multiple Sclerosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "Multiple sclerosis (MS) is an inflammatory, demyelinating disease which affects the central nervous system (CNS). The etiology of MS is unknown, although the immune system appears to play a role. Many different infectious agents have been proposed as potential causes for MS, including Epstein-Barr virus, human herpesvirus 6, and coronaviruses. Recently Dr. Sriram at Vanderbilt University has found evidence for active Chlamydia pneumonia infection in the CNS of MS patients. These findings have be",
+      "eligibility_criteria": "Patients with unequivocal diagnosis of multiple sclerosis and have evidence of C. pneumoniae infection in the cerebral spinal fluid",
+      "endpoints": [],
+      "sponsor": "National Center for Research Resources (NCRR)",
+      "url": "https://clinicaltrials.gov/study/NCT00043264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06798051",
+      "title": "A Single-dose, Fasting, Randomized, Open-label, Two-treatment, Three-period, Partially-replicated, Reference-corrected Crossover Bioequivalence Study of Roxithromycin Tablets in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-06-03",
+      "completion_date": "2019-09-03",
+      "country": "China",
+      "enrollment": 39,
+      "brief_summary": "Roxithromycin is used for the treatment of pharyngitis and tonsillitis caused by Streptococcus pyogenes, sinusitis, otitis media, acute bronchitis, acute exacerbations of chronic bronchitis, and pneumonia caused by Mycoplasma pneumoniae or Chlamydia pneumoniae; urethritis and cervicitis caused by Chlamydia trachomatis; and skin and soft tissue infections caused by susceptible bacteria.\n\nThe purpose of this study was to evaluate the bioequivalence of roxithromycin tablets from two different manuf",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chinese healthy adults over 18 years old ( including 18 years old ) ;\n* Weight : male ≥ 50.0kg, female ≥ 45.0kg and body mass index ( BMI ) :\n\n19.0 \\~ 26.0kg / m2 ( including boundary value, BMI = weight ( kg ) / height ( m ) 2 ) ;\n\n* Understand and sign the informed consent, ",
+      "endpoints": [
+        "maximum observed serum or plasma concentration",
+        "area under the serum or plasma concentration-time curve from 0 to t",
+        "area under the serum or plasma concentration-time curve from 0 to infinity"
+      ],
+      "sponsor": "The Affiliated Hospital Of Guizhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06798051"
+    }
+  ],
+  "timestamp": "2026-03-04T16:28:49.972745",
+  "success": true,
+  "error_message": null
+}

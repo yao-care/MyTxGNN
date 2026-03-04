@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Albendazole",
+    "drugbank_id": "DB00518"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 29
+  },
+  "indications": [
+    {
+      "disease": "echinococcus granulosus infectious disease",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "cystic echinococcosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "cysticercosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 11,
+      "articles": 20,
+      "phase3": 7,
+      "phase2": 3,
+      "phase4": 1
+    },
+    {
+      "disease": "echinococcus granulosus infectious disease",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "cystic echinococcosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

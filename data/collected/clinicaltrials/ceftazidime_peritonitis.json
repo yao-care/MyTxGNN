@@ -1,0 +1,248 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ceftazidime",
+    "disease": "peritonitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06864585",
+      "title": "Zavicefta Combination for Intravenous Infusion Special Investigation - Surveillance on Patients With Sepsis or Renal Impairment (Creatinine Clearance ≤ 50 mL/Min) -",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-15",
+      "completion_date": "2029-03-30",
+      "country": "N/A",
+      "enrollment": 59,
+      "brief_summary": "The purpose of this study is to learn about the safety and how effective is Zavicefta under actual clinical practice in Japan.\n\nZavicefta is a combination of Avibactam sodium and Ceftazidime hydrate.\n\nThis study is seeking for patients with:\n\n* sepsis (A very serious infection in your blood caused by germ (a bacteria)) or\n* renal impairment (loss of kidney function) who are administrated with Zavicefta for the first time.\n\nSubjects will take part in this study from the start date of receiving Za",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who received Zavicefta for the first time after the launch of Zavicefta\n2. Patients who received Zavicefta for an infectious diseases indicated for Zavicefta\n3. Patients with diagnosis of sepsis and/or renal impairment (creatinine clearance ≤ 50mL/min) at the start o",
+      "endpoints": [
+        "Number of Participants with adverse drug reactions (ADRs)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT06864585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04077996",
+      "title": "Randomized Multicentric Clinical Trial, Efficcacy of the Treatment Application on Peritonitis in Automated Peritoneal Dialysis (APD); Comparision Between APD Versus Ambulatory Dialysis.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-07-01",
+      "completion_date": "2022-08-30",
+      "country": "Mexico",
+      "enrollment": 64,
+      "brief_summary": "The main infectious complication of peritoneal dialysis (PD) is bacterial peritonitis, which increases morbidity, mortality and conversion to hemodialysis.\n\nIn Mexico, 485 patients per million people undergo PD. The Mexican Institute of Social Security (IMSS) reported 55,101 patients with kidney failure, 59% on PD. Automated PD (APD) has contributed by reducing peritonitis. The treatment of peritonitis in APD is carried out by changing to continuous ambulatory peritoneal dialysis (CAPD) or by ad",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\> 18 years in Automated Peritoneal Dialysis.\n* Patients in the Hospital General 1, 10 and sub-zone 4 of Colima.\n* Patients with diagnosis of peritonitis (abdominal pain, fever, vomiting, nausea, turbid fluid, cytologic with leukocytes \\>100 cells/mm3, polymorphonuclear \\>50%)",
+      "endpoints": [
+        "Peritonitis Resolved"
+      ],
+      "sponsor": "Universidad de Colima",
+      "url": "https://clinicaltrials.gov/study/NCT04077996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04367974",
+      "title": "Clinical Pharmacokinetic Study of Ceftazidime and Cefazolin in Treating CAPD-related Peritonitis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-06-01",
+      "completion_date": "2022-05-01",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "Peritoneal dialysis-related peritonitis is a common complication of peritoneal dialysis, which is the main cause of transfer from peritoneal dialysis to hemodialysis. Guidelines for International Society for peritoneal dialysis（ISPD）published in 2016 recommend that timely and adequate use of antibiotics is the most important part of treatment. Empiric treatment should be initiated as soon as possible after obtaining microbiological specimens，then adjust the antibiotics according to culture resul",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMaintained on continuous ambulatory PD (CAPD) for at least 1 month,all patients received 4 exchanges per day with dialysate volumes of 2 L per exchange.\n\n1. The diagnostic criteria for CAPD-related peritonitis are as follows:\n\n   The dialysate fluid appears cloudy and accord wit",
+      "endpoints": [
+        "concentration of ceftazidime and cefazolin"
+      ],
+      "sponsor": "Fifth Affiliated Hospital, Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT04367974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01455246",
+      "title": "Daptomycin + Meropenem Versus Ceftazidime in the Treatment of Nosocomial Spontaneous Bacterial Peritonitis: an Open, Randomized, Controlled Clinical Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-10",
+      "completion_date": "2014-07",
+      "country": "Italy",
+      "enrollment": 32,
+      "brief_summary": "Nosocomial spontaneous bacterial peritonitis (SBP) is frequently caused by multi drug resistant bacteria. Standard treatment of SBP could be ineffective. The aim of the study is to compare daptomycin + meropenem vs ceftazidime in the treatment of nosocomial SBP.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with liver cirrhosis and ascites\n* Meets all criteria for nosocomial SBP as outlined below\n\n  * Ascitic fluid polymorphonuclear cells count \\>250/mm3\n  * Onset of signs and symptoms of infection after 72 hours of hospitalization\n\nExclusion Criteria:\n\n* Hepatocellular ",
+      "endpoints": [
+        "The primary end-point of the study is the response to therapy"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT01455246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02593201",
+      "title": "The Efficacy of Prolonged Antibiotic Therapy for the Prevention of Relapsing Peritonitis in Peritoneal Dialysis Patients With High Dialysis Effluent Bacterial DNA Fragment Levels",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-02-26",
+      "completion_date": "2019-06-30",
+      "country": "Hong Kong",
+      "enrollment": 358,
+      "brief_summary": "Peritoneal dialysis (PD) is the first-line treatment of end stage renal disease (ESRD) in Hong Kong. Despite the advances in antibiotic therapy and connecting system, recurrent peritonitis remains the major cause of peritoneal failure. A recent study showed that an elevated bacterial DNA fragment levels in PD effluent 5 days prior to the completion of antibiotics predicts the development of relapsing or recurrent peritonitis episodes. We hypothesize that prolonged antibiotic therapy in PD patien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with peritoneal dialysis-related peritonitis\n\nExclusion Criteria:\n\n* Patients with fungal peritonitis\n* Patients with obvious surgical problems and require laparotomy",
+      "endpoints": [
+        "relapsing peritonitis episodes",
+        "repeat peritonitis episodes",
+        "recurrent peritonitis episodes"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT02593201"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02872038",
+      "title": "A Multicenter, Randomized, Controlled Trial Comparing Cefepime Monotherapy Versus Combination of Cefazolin Plus Ceftazidime for Empirical Treatment of CAPD-associated Peritonitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2016-11-30",
+      "country": "Thailand",
+      "enrollment": 154,
+      "brief_summary": "The purpose of this study is to compare the efficacy of empirical antibiotics of CAPD-associated peritonitis with intraperitoneal, continuous dosing of cefepime monotherapy versus combination of cefazolin and ceftazidime. Patients were randomized to be administered either intraperitoneal cefepime 1 g loading then 250 mg all exchanges (treatment group) or cefazolin and ceftazidime (control group) in the same dose.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age more than 18 years\n* CAPD initiation more than 4 weeks\n\nExclusion Criteria:\n\n* Exit site or tunnel infection\n* Sepsis\n* Previous CAPD-associated peritonitis treatment within 4 weeks\n* Drug allergy to cephalosporin\n* Tenckhoff catheter malfunction\n* Hospitalization more tha",
+      "endpoints": [
+        "Primary response rate"
+      ],
+      "sponsor": "Chulalongkorn University",
+      "url": "https://clinicaltrials.gov/study/NCT02872038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02443285",
+      "title": "Is Spontaneous Bacterial Peritonitis Still Responding to 3rd Generation Cephalosporins?",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Current European and most other international guidelines recommend the use of a third-generation cephalosporin as the first choice, or amoxicillin-clavulanate acid or fluoroquinolones as an alternative choice .\n\nThese recommendations are based mainly on clinical trials that were very often conducted a decade or more ago, and on the assumption that E. coli would be involved in nearly half of the cases.\n\nThe microbial etiology of SBP remains relatively constant; however, the antibiotic resistance ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and SBP\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections",
+      "endpoints": [
+        "number of patients with clearence of infection"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02443285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03754387",
+      "title": "Mutil-institutions Comparing Antibiotic Therapy With Laparscopic Appendectomy in Pediatric Chronic Appendicitis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-01",
+      "completion_date": "2022-01-01",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "This clinical trial will compare antibiotic therapy with laparoscopic appendectomy in the treatment of pediatric chronic appendicitis in china. Enrolled patients will be randomised and an allocation ratio of 1:1 will be made via weighted minimisation, where half of the patients will receive antibiotic therapy with intravenous Ceftazidime sodium, while the other half will have a laparoscopic appendicectomy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients were eligible if they were between 3 and 15 years of age, and they suffered from chronic appendicitis.\n2. US showing hyperemia and fecalith, ≤ 1.1 cm in diameter, compressible or non-compressible, no abscess, no phlegmon or CT showing hyperemia and fecalith, fat stra",
+      "endpoints": [
+        "Success rate"
+      ],
+      "sponsor": "Zunyi Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT03754387"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03790176",
+      "title": "Plasma, ELF and Intraperitoneal Pharmacokinetics of Ceftazidime/Avibactam in Critically Ill and Peritoneal Dialysis Patients",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-01",
+      "completion_date": "2022-12",
+      "country": "Austria",
+      "enrollment": 20,
+      "brief_summary": "CAZ/AVI is a new antibiotic drug that is meant to be used for various indications including cIAI and nosocomial pneumonia. To date, limited data exists on PK of CAZ/AVI in patients undergoing peritoneal dialysis as well as on penetration of CAZ/AVI in ELF of critically ill patients. The present study is carried out to determine target site PK of CAZ/AVI in these two populations, in order to contribute to a more complete understanding of the drug's penetration to its site of action.",
+      "eligibility_criteria": "Inclusion criteria (PART A - PATIENTS UNDERGOING APD):\n\n* Males or females aged between 18 and 85 years undergoing automated peritoneal dialysis (APD)\n* Written informed consent given after being provided detailed information about the nature, risks, and scope of the clinical study as well as the ex",
+      "endpoints": [
+        "Area under the concentration time curve (AUC) from 0 to 8 hours (AUC0-8)"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT03790176"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05971537",
+      "title": "Clinical Trial on Antibiotic-Lock in Tenckhoff Catheter for Relasping and Repeat Peritonitis",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-06-15",
+      "completion_date": "2026-10",
+      "country": "Hong Kong",
+      "enrollment": 46,
+      "brief_summary": "Biofilm formation is an important cause of catheter-related infection. In hemodialysis, use of an antibiotic-lock has been proven to be effective to manage such a complication with preservation of the central venous catheter. In peritoneal dialysis, while biofilm has been implicated in relapsing and repeat peritonitis, both of which are caused by the identical bacteria as in their preceding peritonitis episode, no adjunctive measure has been proven to be effective to eradicate the biofilm bacter",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PD patients who suffer from Either relapsing peritonitis (within 4 weeks of completion of antibiotics) or repeat peritonitis (between 4 to 12 weeks of completion of antibiotics), in which the causative organism is confirmed to be identical to the one in the preceding peritonit",
+      "endpoints": [
+        "rate of developement of relapsing or repeat peritonitis"
+      ],
+      "sponsor": "Alice Ho Miu Ling Nethersole Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05971537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02787057",
+      "title": "Intraperitoneal (IP) Vancomycin Plus Oral Moxifloxacin Versus IP Vancomycin Plus IP Ceftazidime for the Treatment of Peritoneal Dialysis-related Peritonitis: a Pilot Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2016-04",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "Intra-peritoneal administration of antibiotics covering both gram-positive and gram-negative organisms was recommended as first-line regimen for the management of peritoneal dialysis related peritonitis. Oral administration of quinolones can also achieve effective serum concentrations, and is more convenient and economical. We conducted a pilot randomized controlled study to compare the effects on peritonitis cure and relapsing rates between oral moxifloxacin plus IP vancomycin and conventional ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* incident or prevalent peritoneal dialysis patients\n* diagnosis of acute peritonitis according to ISPD guideline\n* age \\>18 years\n\nExclusion Criteria:\n\n* receiving antibiotic treatment for other reasons when peritonitis occurred\n* contraindication to cephalosporin, vancomycin, ",
+      "endpoints": [
+        "Complete Cure Rate"
+      ],
+      "sponsor": "Peking University First Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02787057"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02463721",
+      "title": "Identification of Ascitic Fluid Bacterial Pathogens in Spontaneous Bacterial Peritonitis in Nile Delta and Its Impact on Clinical Outcome of These Patients",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Several studies have pointed out changes in the epidemiology of the causative bacteria in SBP and bacterascites and in their susceptibility to antibiotics. In particular, the development of beta-lactamase enzymes, which confer resistance to clavulanate, or extended spectrum beta-lactamases in Escherichia coli. The potential emergence of enterococci, methicillin-resistant S. aureus, or fluoroquinolone-resistant bacteria, following norfloxacin prophylaxis, is also a cause of concern since they may",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and suspected to have SBP.\n* ascitic fluid PMNL ≥ 250 cells/mm3\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections\n* patients started empirical antibiotics without prior culture.",
+      "endpoints": [
+        "identification of SBP bacterial pathogens through gram stain or other specific stains"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02463721"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01785641",
+      "title": "Single Versus Combined Antibiotic Therapy for Bacterial Peritonitis in Continuous Ambulatory Peritoneal Dialysis Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2013-12",
+      "country": "Thailand",
+      "enrollment": 300,
+      "brief_summary": "To compare the efficacy of single versus combined antibiotic therapy for bacterial peritonitis in CAPD patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>/= 18 years old\n* ESRD patients on continuous ambulatory peritoneal dialysis more than 4 weeks\n* presence of symptom or sign of peritonitis\n* presence of WBC \\>100cell/mm3 with PMN \\>50% in peritoneal dialysate or gram stain positive for gram positive or gram negative ba",
+      "endpoints": [
+        "relapse or recurrent rate"
+      ],
+      "sponsor": "Chulalongkorn University",
+      "url": "https://clinicaltrials.gov/study/NCT01785641"
+    }
+  ],
+  "timestamp": "2026-03-04T16:00:53.002927",
+  "success": true,
+  "error_message": null
+}

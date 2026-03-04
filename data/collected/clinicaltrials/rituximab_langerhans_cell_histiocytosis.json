@@ -1,0 +1,86 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "Langerhans cell histiocytosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01818908",
+      "title": "A Prospective, Single-arm, Open-label, Phase 2 Study to Evaluate Efficacy and Safety of DA-EPOCH Regimen for Non-Hodgkin's Lymphoma With Hemophagocytic Lymphohistiocytosis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2019-04",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "The major purpose of this clinical study is to assess clinical outcome of dose-adjusted EPOCH regimen for patients with non-Hodgkin's lymphoma(NHL)-associated hemophagocytic lymphohistiocytosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1 .Histologically confirmed non-Hodgkin's lymphoma; 2. Patients whose clinical findings satisfy either of HLH 2004 standard: 3. newly-diagnosed and untreated; 4. understand and voluntarily sign an informed consent form, able to adhere to the study visit schedule and other protoc",
+      "endpoints": [
+        "overall response rate"
+      ],
+      "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT01818908"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03096782",
+      "title": "Cord Blood Ex-Vivo MSC Expansion Plus Fucosylation to Enhance Homing and Engraftment",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-10-13",
+      "completion_date": "2022-09-20",
+      "country": "United States",
+      "enrollment": 6,
+      "brief_summary": "This phase II trial studies how well an umbilical cord blood transplant with added sugar works with chemotherapy and radiation therapy in treating patients with leukemia or lymphoma. Giving chemotherapy and total-body irradiation before a donor umbilical cord blood transplant helps stop the growth of cells in the bone marrow, including normal blood-forming cells (stem cells) and cancer cells. When the healthy stem cells from a donor are infused into the patient they may help the patient's bone m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have one of the following hematologic malignancies: a. Acute myelogenous leukemia (AML), induction failure, high-risk for relapse first remission (with intermediate-risk or high-risk cytogenetics, flt3 mutation positive and/or evidence of minimal residual disease",
+      "endpoints": [
+        "Time to Engraftment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03096782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01471067",
+      "title": "Cord Blood Fucosylation to Enhance Homing and Engraftment in Patients With Hematologic Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-07-13",
+      "completion_date": "2017-04-25",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "The goal of this clinical research study is to learn if it is safe and feasible to transplant changed cord blood for patients with leukemia or lymphoma. Researchers also want to learn if this can help to control the disease.\n\nThe cord blood will be changed to make use of sugar that is found in small amounts in blood cells. It plays a role in signaling where in the body the transplanted cells should go to. Adding more sugars to the cord blood cells in the laboratory is designed to help the cord b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have one of the following hematologic malignancies: Acute Myelogenous Leukemia (AML), induction failure, high-risk for relapse first remission (with intermediate-risk or high-risk cytogenetics, flt3 mutation positive and/or evidence of minimal residual disease b",
+      "endpoints": [
+        "Number of Participants with engraftment within 42 days",
+        "Mean Time to Engraftment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01471067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07270835",
+      "title": "The Study of Zanubrutinib Combined With Rituximab in the Treatment of Secondary Hemophagocytic Lymphohistiocytosis in B-cell Lymphoma",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-11-01",
+      "completion_date": "2027-08",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "For patients who met the inclusion criteria, treatment regimens were administered: Rituximab 375 mg/m², intravenously, once weekly for 4 weeks.\n\nZanubrutinib 160 mg, orally, twice daily for 4 weeks. Combined drugs: prednisone 100 mg/m²/d, orally, d1-5; Ruxolitinib 15mg bid orally; With/without emapalumab as appropriate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* According to the diagnostic criteria of HLH-04, the patients meet the diagnostic criteria of HLH;\n* HLH patients with definite or highly suspected evidence of B-cell lymphoma; Or HLH patients whose bone marrow flow cytometry show an increased proportion of CD20-positive B cell",
+      "endpoints": [
+        "response rate of HLH after 4 weeks of treatment",
+        "OS at week 8"
+      ],
+      "sponsor": "The First Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT07270835"
+    }
+  ],
+  "timestamp": "2026-03-04T16:24:37.045645",
+  "success": true,
+  "error_message": null
+}

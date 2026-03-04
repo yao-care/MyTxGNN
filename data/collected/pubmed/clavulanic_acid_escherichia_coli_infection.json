@@ -1,0 +1,598 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "escherichia coli infection",
+    "query_string": "Clavulanic Acid AND escherichia coli infection"
+  },
+  "data": {
+    "query": "Clavulanic Acid AND escherichia coli infection",
+    "results": [
+      {
+        "pmid": "30592257",
+        "title": "Urinary Tract Infection in Children.",
+        "abstract": "Urinary Tract Infection (UTI) is a common infection in children. Prompt diagnosis and appropriate treatment are very important to reduce the morbidity associated with this condition.",
+        "journal": "Recent patents on inflammation & allergy drug discovery",
+        "year": "2019",
+        "authors": [
+          "Leung Alexander K C",
+          "Wong Alex H C",
+          "Leung Amy A M",
+          "Hon Kam L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Cystitis",
+          "Drug Resistance, Bacterial",
+          "Dysuria",
+          "Escherichia coli",
+          "Escherichia coli Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30592257/"
+      },
+      {
+        "pmid": "31880885",
+        "title": "Antibiotic Resistance Among Uropathogenic Escherichia coli.",
+        "abstract": "Urinary tract infections (UTIs) belong to the most common community-acquired and nosocomial infections. A main etiological factor of UTIs is uropathogenic Escherichia coli (UPEC). This review describes the current state of knowledge on the resistance of UPEC to antibiotics recommended for the treatment of UTIs based on the available literature data. Nitrofurantoin and fosfomycin are recommended as first-line therapy in the treatment of uncomplicated cystitis, and the resistance to these antimicrobial agents remains low between UPEC. Recently, in many countries, the increasing resistance is observed to trimethoprim-sulfamethoxazole, which is widely used as the first-line antimicrobial in the treatment of uncomplicated UTIs. In European countries, the resistance of UPEC to this antimicrobial agent ranges from 14.6% to 60%. The widespread use of fluoroquinolones (FQs), especially ciprofloxacin, in the outpatients is the cause of a continuous increase in resistance to these drugs. The resi",
+        "journal": "Polish journal of microbiology",
+        "year": "2019",
+        "authors": [
+          "Kot Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli Infections",
+          "Humans",
+          "Urinary Tract Infections",
+          "Uropathogenic Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31880885/"
+      },
+      {
+        "pmid": "27662890",
+        "title": "Urinary tract infections in adults.",
+        "abstract": "A urinary tract infection (UTI) is a collective term for infections that involve any part of the urinary tract. It is one of the most common infections in local primary care. The incidence of UTIs in adult males aged under 50 years is low, with adult women being 30 times more likely than men to develop a UTI. Appropriate classification of UTI into simple or complicated forms guides its management and the ORENUC classification can be used. Diagnosis of a UTI is based on a focused history, with appropriate investigations depending on individual risk factors. Simple uncomplicated cystitis responds very well to oral antibiotics, but complicated UTIs may require early imaging, and referral to the emergency department or hospitalisation to prevent urosepsis may be warranted. Escherichia coli remains the predominant uropathogen in acute community-acquired uncomplicated UTIs and amoxicillin-clavulanate is useful as a first-line antibiotic. Family physicians are capable of managing most UTIs if",
+        "journal": "Singapore medical journal",
+        "year": "2016",
+        "authors": [
+          "Tan Chee Wei",
+          "Chlebicki Maciej Piotr"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Clavulanic Acid",
+          "Cystitis",
+          "Drug Resistance, Microbial",
+          "Escherichia coli",
+          "Escherichia coli Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27662890/"
+      },
+      {
+        "pmid": "37273158",
+        "title": "Recurrent Urinary Tract Infection in Adult Patients, Risk Factors, and Efficacy of Low Dose Prophylactic Antibiotics Therapy.",
+        "abstract": "Recurrent urinary tract infection (UTI) occurs in sizable percentages of patients after a single episode and is a frequent cause of primary healthcare visits and hospital admissions, accounting for up to one quarter of emergency department visits. We aim to describe the pattern of continuous antibiotic prophylaxis prescription for recurrent urinary tract infections, in what group of adult patients they are prescribed and their efficacy.",
+        "journal": "Journal of epidemiology and global health",
+        "year": "2023",
+        "authors": [
+          "Alghoraibi Hala",
+          "Asidan Aisha",
+          "Aljawaied Raneem",
+          "Almukhayzim Raghad",
+          "Alsaydan Aljoharah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Female",
+          "Antibiotic Prophylaxis",
+          "Nitrofurantoin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Escherichia coli",
+          "Retrospective Studies",
+          "Urinary Bladder, Neurogenic",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37273158/"
+      },
+      {
+        "pmid": "38945364",
+        "title": "Favourable effect of clavulanic acid on the minimum inhibitory concentrations of cefixime and ceftibuten in ESBL-producing Escherichia coli and Klebsiella pneumoniae.",
+        "abstract": "The use of cephalosporins combined with clavulanate for the treatment of ESBL-harbouring Enterobacteriaceae has been scarcely described. We aimed to describe the effect of different concentrations of clavulanate in the MIC of cefixime and ceftibuten of ESBL-producing Escherichia coli and Klebsiella pneumoniae.",
+        "journal": "Journal of global antimicrobial resistance",
+        "year": "2024",
+        "authors": [
+          "Martinez-Guerra Bernardo Alfonso",
+          "Xancal-Salvador Luis Fernando",
+          "Esteban-Kenel Veronica",
+          "Tello-Mercado Andrea Carolina",
+          "Bobadilla-Del-Valle Miriam"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Klebsiella pneumoniae",
+          "Escherichia coli",
+          "Microbial Sensitivity Tests",
+          "Clavulanic Acid",
+          "Anti-Bacterial Agents",
+          "Humans",
+          "beta-Lactamases",
+          "Cefixime",
+          "Ceftibuten",
+          "Klebsiella Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38945364/"
+      },
+      {
+        "pmid": "38969188",
+        "title": "The phylogroups and antibiotic susceptibilities of Escherichia coli isolates from the feces of Anatolian Ground Squirrels (Spermophilus xanthoprymnus).",
+        "abstract": "The current study was conducted to determine the phylogroups and antibiotic susceptibilities of Escherichia coli isolates recovered from fecal samples of Anatolian Ground Squirrels (Spermophilus xanthoprymnus) and to examine the relationship between them. Eighty-two E. coli isolates obtained from 150 fecal samples were investigated. The quadruplex polymerase chain reaction (PCR), phylogroup C-, and E-specific mPCR were subjected to phylogenetic typing of the isolates. The susceptibilities to fifteen antibiotics of the isolates were detected by the disk diffusion method. In the result of phylogenetic typing, phylogroup B2 was most predominant (58.6 %), followed by B1 (25.6 %), E (8.5 %), C (4.9 %), and D (2.4 %). The phylogroup A, F, and Escherichia clades were not detected. The antibiotic susceptibility test revealed that 59.8 % (49/82) and 19.5 % (16/82) of E. coli isolates were resistant to at least one antibiotic and multidrug-resistant (MDR), respectively. Twenty-six (31.7 %), 19 (",
+        "journal": "Microbial pathogenesis",
+        "year": "2024",
+        "authors": [
+          "Karakaya Emre",
+          "Abay Seçil",
+          "Aydin Fuat"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Feces",
+          "Escherichia coli",
+          "Sciuridae",
+          "Anti-Bacterial Agents",
+          "Phylogeny",
+          "Microbial Sensitivity Tests",
+          "Drug Resistance, Multiple, Bacterial",
+          "Escherichia coli Infections",
+          "Polymerase Chain Reaction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38969188/"
+      },
+      {
+        "pmid": "30236958",
+        "title": "Synergistic and bactericidal activities of mecillinam, amoxicillin and clavulanic acid combinations against extended-spectrum β-lactamase (ESBL)-producing Escherichia coli in 24-h time-kill experiments.",
+        "abstract": "This study aimed to evaluate the potential synergistic and bactericidal effects of mecillinam in combination with amoxicillin and clavulanic acid against extended-spectrum β-lactamase (ESBL)-producing Escherichia coli. Eight clinical E. coli isolates with varying susceptibility to mecillinam [minimum inhibitory concentrations (MICs) of 0.125 mg/L to >256 mg/L] and high-level resistance to amoxicillin (MICs > 256 mg/L) were used. Whole-genome sequencing was performed to determine the presence of β-lactamase genes and mutations in the cysB gene. The activities of single drugs and the combinations of two or three drugs were tested in 24-h time-kill experiments. Population analysis was performed for two strains before and after experiments. Only one strain had a mutation in the cysB gene resulting in an amino acid substitution. With the two-drug combinations, initial killing was observed both with mecillinam and amoxicillin when combined with clavulanic acid. Synergy was observed with meci",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2019",
+        "authors": [
+          "Skarp Kari-Pekka",
+          "Shams Ayda",
+          "Montelin Hanna",
+          "Lagerbäck Pernilla",
+          "Tängdén Thomas"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amdinocillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Escherichia coli",
+          "Microbial Sensitivity Tests",
+          "beta-Lactamases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30236958/"
+      },
+      {
+        "pmid": "38565823",
+        "title": "Paediatric Escherichia coli urinary tract infection: susceptibility trends and clinical management-a retrospective analysis of a 10-year period.",
+        "abstract": "Escherichia coli is the predominant urinary pathogen in children. Irish and international studies have demonstrated increasing antimicrobial resistance (AMR) to antibiotics such as co-amoxiclav.",
+        "journal": "Irish journal of medical science",
+        "year": "2024",
+        "authors": [
+          "Whelan Seán Olann",
+          "Kyne Sarah",
+          "Dore Andrew",
+          "Glynn Mark",
+          "Higgins Frances"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Urinary Tract Infections",
+          "Retrospective Studies",
+          "Escherichia coli Infections",
+          "Child",
+          "Infant",
+          "Anti-Bacterial Agents",
+          "Escherichia coli",
+          "Child, Preschool",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38565823/"
+      },
+      {
+        "pmid": "15456336",
+        "title": "Prulifloxacin.",
+        "abstract": "Prulifloxacin, the prodrug of ulifloxacin, is a broad-spectrum oral fluoroquinolone antibacterial agent. After absorption, prulifloxacin is metabolised by esterases to ulifloxacin. The drug has a long elimination half-life, allowing once-daily administration. Ulifloxacin is generally more active in vitro than other fluoroquinolones against a variety of clinical isolates of Gram-negative bacteria, including community and nosocomial isolates of Escherichia coli, Klebsiella spp., Proteus, Providencia and Morganella spp., Moraxella catarrhalis and Haemophilus spp. The activity of ulifloxacin against Pseudomonas aeruginosa varies between countries. Gram-positive organisms, including meticillin- or oxacillin-susceptible Staphylococcus aureus, Enterococcus spp. and Italian community isolates of Streptococcus pneumoniae are susceptible to ulifloxacin. Activity against Spanish strains of S. pneumoniae is moderate. In well designed clinical trials, good clinical and bacteriological efficacy (sim",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Keam Susan J",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Amoxicillin",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bronchitis, Chronic",
+          "Ciprofloxacin",
+          "Clavulanic Acid",
+          "Dioxolanes",
+          "Drug Evaluation, Preclinical",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15456336/"
+      },
+      {
+        "pmid": "17642541",
+        "title": "In vitro susceptibilities of Escherichia coli and Klebsiella spp. to ampicillin-sulbactam and amoxicillin-clavulanic acid.",
+        "abstract": "Ampicillin-sulbactam (A/S) and amoxicillin-clavulanic acid (AUG) are thought to be equally efficacious clinically against the Enterobacteriaceae family. In this study, the in vitro activities of the A/S and AUG were evaluated and compared against Escherichia coli and Klebsiella spp. Antimicrobial susceptibility tests were performed by standard agar dilution and disc diffusion techniques according to the Clinical and Laboratory Standards Institute (CLSI). During the study period, 973 strains were isolated. Of the 973 bacteria isolated, 823 were E. coli and 150 Klebsiella spp. More organisms were found to be susceptible to AUG than A/S, regardless of the susceptibility testing methodology. The agar dilution results of the isolates that were found to be sensitive or resistant were also compatible with the disc diffusion results. However, some differences were seen in the agar dilution results of some isolates that were found to be intermediately resistant with disc diffusion. In E. coli i",
+        "journal": "Japanese journal of infectious diseases",
+        "year": "2007",
+        "authors": [
+          "Kacmaz Birgul",
+          "Sultan Nedim"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Ampicillin",
+          "Colony Count, Microbial",
+          "Diffusion Chambers, Culture",
+          "Drug Resistance, Multiple, Bacterial",
+          "Enterobacteriaceae Infections",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Humans",
+          "Klebsiella"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17642541/"
+      },
+      {
+        "pmid": "39452783",
+        "title": "Escherichia coli Occurrence and Antimicrobial Resistance in a Swine Slaughtering Process.",
+        "abstract": "The swine production chain can be a reservoir of antimicrobial-resistant Escherichia coli, which transfers resistance genes to other bacteria, serving as an important biomarker in the One Health approach. This study aimed to identify the frequency and antimicrobial resistance profile of E. coli in the swine production chain, assess the presence of extended-spectrum beta-lactamases (ESBL), and compare resistance profiles across different sample types. A total of 622 samples of swine carcasses from various points of the slaughter process (n = 400), swine feces (n = 100), commercial cuts (n = 45), environment (n = 67), and feces from employees (n = 10) of a pig slaughterhouse certified by the Federal Inspection Service, located in São Paulo state, Brazil, were collected. A total of 1260 E. coli isolates were obtained from the samples, with 73.6% of the samples testing positive. The agar disk diffusion test was performed with 10 different classes of antimicrobials. To confirm the productio",
+        "journal": "Pathogens (Basel, Switzerland)",
+        "year": "2024",
+        "authors": [
+          "Sampaio Aryele Nunes da Cruz Encide",
+          "Caron Evelyn Fernanda Flores",
+          "Cerqueira-Cézar Camila Koutsodontis",
+          "Juliano Lára Cristina Bastos",
+          "Tadielo Leonardo Ereno"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Escherichia coli",
+          "Swine",
+          "Abattoirs",
+          "Anti-Bacterial Agents",
+          "Feces",
+          "Brazil",
+          "Microbial Sensitivity Tests",
+          "Drug Resistance, Bacterial",
+          "beta-Lactamases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39452783/"
+      },
+      {
+        "pmid": "37340526",
+        "title": "Evolution of Antibiotic Resistance in Escherichia coli and Klebsiella pneumoniae from Urine Cultures.",
+        "abstract": "Determine the evolution of antibiotic resistance of symptomatic bacteriuria caused by Escherichia coli (E. coli) and Klebsiella pneumoniae (K. pneumoniae) in Granada.",
+        "journal": "Archivos espanoles de urologia",
+        "year": "2023",
+        "authors": [
+          "López-Sampedro Inmaculada",
+          "Hernández-Chico Itahisa",
+          "Gómez-Vicente Esther",
+          "Expósito-Ruiz Manuela",
+          "Navarro-Marí José María"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Male",
+          "Humans",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Klebsiella pneumoniae",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Retrospective Studies",
+          "Klebsiella Infections",
+          "Drug Resistance, Microbial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37340526/"
+      },
+      {
+        "pmid": "21172788",
+        "title": "Significant ecological impact on the progression of fluoroquinolone resistance in Escherichia coli with increased community use of moxifloxacin, levofloxacin and amoxicillin/clavulanic acid.",
+        "abstract": "To determine trends in ciprofloxacin resistance and co-resistance to other antibiotic classes in blood isolates of Escherichia coli, and to investigate if there is an ecological relationship to the community use of fluoroquinolones and other antibiotics.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2011",
+        "authors": [
+          "Cuevas Oscar",
+          "Oteo Jesús",
+          "Lázaro Edurne",
+          "Aracil Belén",
+          "de Abajo Francisco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Aza Compounds",
+          "Bacteremia",
+          "Drug Resistance, Bacterial",
+          "Drug Utilization",
+          "Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21172788/"
+      },
+      {
+        "pmid": "36307776",
+        "title": "E. coli bacteraemia and antimicrobial resistance following antimicrobial prescribing for urinary tract infection in the community.",
+        "abstract": "Urinary tract infections are one of the most common infections in primary and secondary care, with the majority of antimicrobial therapy initiated empirically before culture results are available. In some cases, however, over 40% of the bacteria that cause UTIs are resistant to some of the antimicrobials used, yet we do not know how the patient outcome is affected in terms of relapse, treatment failure, progression to more serious illness (bacteraemia) requiring hospitalization, and ultimately death. This study analyzed the current patterns of antimicrobial use for UTI in the community in Scotland, and factors for poor outcomes.",
+        "journal": "BMC infectious diseases",
+        "year": "2022",
+        "authors": [
+          "McCowan Colin",
+          "Bakhshi Andisheh",
+          "McConnachie Alex",
+          "Malcolm William",
+          "Barry Sarah Je"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aged",
+          "Male",
+          "Female",
+          "Adolescent",
+          "Young Adult",
+          "Middle Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36307776/"
+      },
+      {
+        "pmid": "6762661",
+        "title": "Augmentin: laboratory studies.",
+        "abstract": "Clavulanic acid is a beta-lactam antibiotic which, although it has little intrinsic activity, is a potent inhibitor of bacterial beta-lactamases. When combined with amoxycillin its range of activity includes penicillinase-producing strains of Staphylococcus aureus and many of the beta-lactamase-producing strains of Gram-negative bacilli. Bacteria sensitive to augmentin include amoxycillin-resistant strains of Haemophilus influenzae and Escherichia coli, in addition strains of Klebsiella aerogenes, Proteus mirabilis, Proteus vulgaris and Bacteroides fragilis are usually sensitive. The beta-lactamases produced by Enterobacter spp, Proteus morgani, Serratia marcescens and Pseudomonas aeruginosa are less susceptible to clavulanic acid and these bacteria are usually resistant to augmentin (1).",
+        "journal": "Scottish medical journal",
+        "year": "1982",
+        "authors": [
+          "Farrell I D",
+          "Turner P J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Ampicillin",
+          "Bacteria",
+          "Bacterial Infections",
+          "Drug Combinations",
+          "Escherichia coli",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6762661/"
+      },
+      {
+        "pmid": "39088560",
+        "title": "Extended-Spectrum β-Lactamase and carbapenemase-producing Escherichia coli O157:H7 among diarrheic patients in Shashemene, Ethiopia.",
+        "abstract": "The worldwide increase in multidrug resistance is a major threat to public health. One particular concern is the presence of Escherichia coli strains that carry Extended-Spectrum β-Lactamase (ESBL) and Carbapenemase enzymes, which can make multiple antibiotics ineffective. This complicates treatment strategies and raises the risk of illness and death. The aim of this study was to isolate E. coli O157:H7, assess its susceptibility against antimicrobial agents, and determine the presence of ESBL and Carbapenemase production in stool samples collected from diarrheic patients in Shashemene, west Arsi, Ethiopia from July to November 2022.",
+        "journal": "PloS one",
+        "year": "2024",
+        "authors": [
+          "Ayalneh Shimelis Teshome",
+          "Beshah Biruk Yeshitela",
+          "Jeon Yeonji",
+          "Teshome Seifegebriel",
+          "Getahun Tomas"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "beta-Lactamases",
+          "Ethiopia",
+          "Humans",
+          "Diarrhea",
+          "Escherichia coli O157",
+          "Male",
+          "Female",
+          "Escherichia coli Infections",
+          "Child, Preschool",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39088560/"
+      },
+      {
+        "pmid": "3072924",
+        "title": "Comparative efficacies of amoxicillin-clavulanic acid and ampicillin-sulbactam against experimental Bacteroides fragilis-Escherichia coli mixed infections.",
+        "abstract": "Amoxicillin-clavulanic acid was compared with ampicillin-sulbactam in preventing the development of mixed infections produced in mice by subcutaneous inoculation of amoxicillin-resistant strains of Bacteroides fragilis and Escherichia coli. At doses designed to produce concentrations in mouse plasma similar to those obtained in humans, both amoxicillin-clavulanic acid and ampicillin-sulbactam were effective in preventing an infection caused by B. fragilis VPI 8908 mixed with E. coli E96, both strains being susceptible in vitro to each combination. However, ampicillin-sulbactam failed to arrest the progression of infections involving a more potent beta-lactamase-producing strain, E. coli 41548, even when a comparatively low inoculum was tested. In contrast, amoxicillin-clavulanic acid therapy effectively reduced the bacterial numbers at the site of infection. These data illustrate the need to treat polymicrobial infections with agents effective against the responsible aerobic as well as",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1988",
+        "authors": [
+          "Gisby J",
+          "Beale A S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Ampicillin",
+          "Animals",
+          "Bacteroides Infections",
+          "Bacteroides fragilis",
+          "Clavulanic Acids",
+          "Drug Combinations",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3072924/"
+      },
+      {
+        "pmid": "16154483",
+        "title": "Urinary concentrations and bactericidal activity against amoxicillin-nonsusceptible strains of Escherichia coli with single-dose, oral, sustained-release amoxicillin/clavulanic acid: a phase I, open-label, noncomparative clinical trial in healthy volunteers.",
+        "abstract": "Urinary tract infections (UTIs) account for 5 to 6 million medical consultations in the United States each year. Worldwide, an estimated 20% to 30% of women aged 20 to 40 years have at least 1 episode of the most common type of UTI (uncomplicated cystitis) in their lifetime, with Escherichia coli being the causative pathogen in 80% of cases. Antibacterial activity in urine has been shown to be correlated with outcomes of uncomplicated cystitis.",
+        "journal": "Clinical therapeutics",
+        "year": "2005",
+        "authors": [
+          "Ponte Carrnen",
+          "Gracia Matilde",
+          "Giménez Maria-José",
+          "Aguilar Lorenzo",
+          "Maín Carmen Martínez"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Clavulanic Acid",
+          "Delayed-Action Preparations",
+          "Drug Combinations",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16154483/"
+      },
+      {
+        "pmid": "34965471",
+        "title": "Genomic characterisation of Escherichia coli isolates co-producing NDM-5 and OXA-1 from hospitalised patients with invasive infections.",
+        "abstract": "Carbapenems are one of the last-report therapeutic choices to treat infections due to multidrug-resistant (MDR) micro-organisms. For this reason, the spread of carbapenemase-producing Enterobacteriaceae represents a serious health-public problem. Here we describe isolates co-producing blaNDM-5 and blaOXA-1.",
+        "journal": "Journal of global antimicrobial resistance",
+        "year": "2022",
+        "authors": [
+          "Corbellini S",
+          "Scaltriti E",
+          "Piccinelli G",
+          "Gurrieri F",
+          "Mascherpa M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Proteins",
+          "Carbapenems",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Genomics",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "beta-Lactamases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34965471/"
+      },
+      {
+        "pmid": "34175999",
+        "title": "A comparison of E. coli susceptibility for amoxicillin/clavulanic acid according to EUCAST and CLSI guidelines.",
+        "abstract": "In our tertiary care center, the reported susceptibility of E. coli blood isolates to amoxicillin/clavulanic acid exceeded 90% in 2005 and showed a progressive decrease to 50% by 2017. In this study, we investigate whether there is a real increase in resistant E. coli strains or if this apparent decline in reported susceptibility might be attributed to the substitution of CLSI by EUCAST guidelines in 2014. We randomly selected 237 E. coli blood isolates (stored at - 80 °C) from 1985 to 2018 and reassessed their MIC values, applying both the CLSI (fixed ratio of clavulanic acid) and EUCAST guidelines (fixed concentration of clavulanic acid). In parallel, the susceptibility of these isolates was retested by disk diffusion, according to the EUCAST guidelines. Whole genome sequencing was successfully performed on 233 of the 237 isolates. In only 130 of the 237 isolates (55.0%), testing according to the EUCAST and CLSI criteria delivered identical MIC values for amoxicillin/clavulanic acid.",
+        "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+        "year": "2021",
+        "authors": [
+          "Vanstokstraeten Robin",
+          "Belasri N",
+          "Demuyser T",
+          "Crombé F",
+          "Barbé K"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Disk Diffusion Antimicrobial Tests",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Escherichia coli Proteins",
+          "Europe",
+          "Humans",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34175999/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:51:41.161101",
+  "success": true,
+  "error_message": null
+}

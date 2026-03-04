@@ -1,0 +1,576 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Hydroxide",
+    "disease": "peptic esophagitis",
+    "query_string": "Magnesium Hydroxide AND peptic esophagitis"
+  },
+  "data": {
+    "query": "Magnesium Hydroxide AND peptic esophagitis",
+    "results": [
+      {
+        "pmid": "6385868",
+        "title": "Antacids and cimetidine treatment for gastro-oesophageal reflux and peptic oesophagitis.",
+        "abstract": "Thirty three children aged 2 to 42 months (mean 9 months) with gastro-oesophageal reflux and peptic oesophagitis took part in a treatment trial comparing cimetidine (20 mg/kg/day) with an intensive regimen of antacids (Maalox, 700 mmol (mEq)/1 X 73 m2/day). All children were evaluated clinically and by radiology, acid reflux test, and endoscopy. After 12 weeks of treatment all were again evaluated clinically, by pH measurement, and endoscopy. Twenty nine children, 15 on antacid and 14 on cimetidine, completed the trial. Eight patients on antacid and seven on cimetidine were cured; five on antacid and six on cimetidine improved; and two patients on antacid and one on cimetidine underwent surgery. Both groups of children showed a statistically significant reduction in the score of clinical, pH, and endoscopic variables after treatment. Lower oesophageal sphincter pressure before treatment did not correlate significantly with the final total score. Antacids in large quantities are as effe",
+        "journal": "Archives of disease in childhood",
+        "year": "1984",
+        "authors": [
+          "Cucchiara S",
+          "Staiano A",
+          "Romaniello G",
+          "Capobianco S",
+          "Auricchio S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Child, Preschool",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6385868/"
+      },
+      {
+        "pmid": "2986275",
+        "title": "Sucralfate and alginate/antacid in reflux esophagitis.",
+        "abstract": "The efficacy of sucralfate and of an alginate/antacid compound was compared in a randomized, double-blind 6-week trial in patients with symptomatic, endoscopically confirmed macroscopic reflux esophagitis. Of the 68 patients who completed the study, 36 received sucralfate and 32 alginate/antacid. Significant symptomatic improvement occurred in both treatment groups: almost 70% of the patients became symptom-free or improved. Esophagitis healed completely in 53% of the patients receiving sucralfate and in 34% of the alginate/antacid patients, as measured with endoscopic criteria (p greater than 0.05). Our results indicate that sucralfate seems to be at least as effective as alginate/antacid in relieving symptoms and in healing macroscopic lesions. As a safe, locally active mucosal protecting agent, sucralfate is a promising new drug for the treatment of reflux esophagitis and deserves further trials over longer periods.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1985",
+        "authors": [
+          "Laitinen S",
+          "Ståhlberg M",
+          "Kairaluoma M I",
+          "Kiviniemi H",
+          "Pääkkönen M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2986275/"
+      },
+      {
+        "pmid": "32592251",
+        "title": "Editorial: simultaneous prolonged monitoring of the acid pocket and oesophageal reflux.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Katz Philip O",
+          "Castell Donald O"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592251/"
+      },
+      {
+        "pmid": "32592257",
+        "title": "Editorial: simultaneous, prolonged monitoring of the acid pocket and oesophageal reflux. Authors' reply.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Ma Zheng Feei",
+          "Deraman Mohd Adli",
+          "Coyle Cathal",
+          "Lee Yeong Yeh"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592257/"
+      },
+      {
+        "pmid": "7831874",
+        "title": "[The use of 3rd-generation antacid preparations for the treatment of patients with nonulcerous dyspepsia and peptic ulcer complicated by reflux esophagitis].",
+        "abstract": "In the present investigation on the treatment of patients with nonulcerous dyspepsia and peptic ulcer, hiatus hernia complicated with reflux esophagitis, a mechanism has been studied of the action of topalkan, a 3rd generation aluminium-magnesium antacid, that involves not only its antacid properties but in an even greater degree the availability of alginic acid in its formula which has antipeptic and protective effect with respect of the mucous membrane of the stomach and esophagus, and provides, together with the magnesium salts, a floating layer of the preparation in the stomach. In grave course of nonulcerous dyspepsia (preulcerous condition) and peptic ulcer complicated by reflux disease of the esophagus topalkan was used in combination with present-day antisecretory preparations pyrenzepine or H2-blockaders of histamine receptors capable of enhancing the antisecretory effect of topalkan as well as endowed with cytoprotective properties with respect of the mucous membrane of the s",
+        "journal": "Likars'ka sprava",
+        "year": "1994",
+        "authors": [
+          "Degtiareva I I",
+          "Bogdanov A",
+          "Khatib Z",
+          "Kharchenko N V",
+          "Lodianaia E V"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Drug Evaluation",
+          "Drug Therapy, Combination",
+          "Duodenal Ulcer",
+          "Dyspepsia",
+          "Esophagitis, Peptic",
+          "Gastric Acidity Determination",
+          "Hernia, Hiatal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7831874/"
+      },
+      {
+        "pmid": "4359481",
+        "title": "Drug therapy. Antacid therapy.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1974",
+        "authors": [
+          "Morrissey J F",
+          "Barreras R F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Buffers",
+          "Calcium Carbonate",
+          "Drug Combinations",
+          "Duodenal Ulcer",
+          "Esophagitis, Peptic",
+          "Gastric Juice",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4359481/"
+      },
+      {
+        "pmid": "2821808",
+        "title": "Sucralfate versus alginate/antacid in the treatment of peptic esophagitis.",
+        "abstract": "Fifty patients in whom endoscopy revealed peptic esophagitis were included in a double-blind study in which either sucralfate (1 g four times a day) or an alginate/antacid compound (5 g four times a day) were randomly assigned. After six weeks of treatment, efficacy and clinical safety were evaluated in 23 patients in the sucralfate group and 22 patients in the alginate/antacid group. No significant difference between the two treatments was detected with regard to efficacy, evaluated on the basis of clinical and endoscopic criteria. Clinical safety was also good in both groups. Sucralfate was, therefore, found to be as effective and as well tolerated as the alginate/antacid compound in the treatment of peptic esophagitis.",
+        "journal": "The American journal of medicine",
+        "year": "1987",
+        "authors": [
+          "Evreux M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Endoscopy",
+          "Esophagitis, Peptic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2821808/"
+      },
+      {
+        "pmid": "6091079",
+        "title": "Comparative study of four antacids.",
+        "abstract": "Four antacid preparations have been studied in a stratified, randomized, double-blind trial to evaluate criteria which determine patients' acceptance of this type of therapy. There was a considerable range of judgements about palatability, but preference was determined not only by factors such as the smell, taste, texture and after-taste of the preparation, but also by the order in which the antacids were tested and by the age and sex of the patient. The preparations also differed considerably in acid-neutralizing capacity and ability to bind bile salts, as well as cost. We conclude that individuals requiring antacid therapy should be allowed to chose from among a range of preparations, in order to maximize compliance.",
+        "journal": "Postgraduate medical journal",
+        "year": "1984",
+        "authors": [
+          "Jacyna M R",
+          "Boyd E J",
+          "Wormsley K G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Compounds",
+          "Aluminum Hydroxide",
+          "Aluminum Silicates",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Dimethylpolysiloxanes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6091079/"
+      },
+      {
+        "pmid": "23329718",
+        "title": "Gaviscon: not always entirely safe!",
+        "abstract": "",
+        "journal": "BMJ case reports",
+        "year": "2013",
+        "authors": [
+          "Shenvi Asha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bezoars",
+          "Diagnosis, Differential",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23329718/"
+      },
+      {
+        "pmid": "3440273",
+        "title": "Adsorption of bile acids by sucralfate, antacids, and cholestyramine in vitro.",
+        "abstract": "Sucralfate, one of the newer drugs shown to be effective in the treatment of peptic ulcer and esophagitis; cholestyramine, a known bile acid binder; and commercial antacid preparations of pure aluminum hydroxide, pure magnesium hydroxide, and a combination of aluminum hydroxide, magnesium hydroxide, and magnesium carbonate were tested in vitro for bile acid-binding capacity. Cholestyramine was found to be the most effective bile acid binder, with more than 90% of bile acids adsorbed at all of the pH values studied. Sucralfate proved efficacious at pH 4, 6, and 8, adsorbing about 50% of the bile acids, but its binding capacity decreased at pH 2. Pure aluminum hydroxide was the most effective of the various antacid preparations; it adsorbed about 90% of bile acids at pH 2, although this percentage was significantly reduced at pH 6 and 8. Sucralfate was significantly more effective as a bile acid absorbent at pH 4 than either the magnesium hydroxide or aluminum-magnesium hydroxide plus ma",
+        "journal": "Clinical therapeutics",
+        "year": "1987",
+        "authors": [
+          "Ståhlberg M",
+          "Jalovaara P",
+          "Laitinen S",
+          "Mokka R",
+          "Hentilä R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adsorption",
+          "Antacids",
+          "Bile Acids and Salts",
+          "Cholestyramine Resin",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Sucralfate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3440273/"
+      },
+      {
+        "pmid": "2877526",
+        "title": "[Therapeutic procedures in gastroesophageal reflux disease].",
+        "abstract": "The medical therapy of reflux esophagitis consists of modifications of the patients's lifestyle and antacids, alginic acid or both (phase I). Phase II medications include drugs that suppress acid/peptic activity (antacid/alginate, H2-receptor blockers, cimetidine, ranitidine, famotidine), drugs that enhance motility (metoclopramide, domperidone) and drugs that coat and increase mucosal protection (sucralfate). Combinations of H2-receptor blockers and motility stimulating drugs have not been very effective. Overall the results of medical therapy of reflux esophagitis are suboptimal.",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "1986",
+        "authors": [
+          "Tytgat G N"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Combined Modality Therapy",
+          "Dilatation",
+          "Domperidone",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2877526/"
+      },
+      {
+        "pmid": "2401189",
+        "title": "Peptic disease in paediatric patients: a diagnostic and therapeutic contribution.",
+        "abstract": "A retrospective clinical study was conducted in 267 children referred to the Verona University Institute of Paediatrics over the period from June 1985 to May 1989 for peptic symptoms. The aim was to obtain data on the incidence of peptic disease in paediatric patients and on the efficacy of various types of pharmacological active principles in treatment of the acute phase and of relapses. All cases observed were subjected to endoscopy (also combined with biopsy in cases presenting signs of inflammatory ulcer disease), which revealed the presence of mucosal abnormalities in 125 patients (46.8%), diagnosed as follows: oesophagitis (44 cases), gastritis and duodenitis (73 cases) and peptic ulcer (8 cases). Among the drugs used, ranitidine proved highly effective, producing healing in all cases reporting for follow-up, and showed excellent tolerability.",
+        "journal": "Drugs under experimental and clinical research",
+        "year": "1990",
+        "authors": [
+          "Deganello A",
+          "Tamassia G",
+          "Gaburro D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aluminum Hydroxide",
+          "Child",
+          "Child, Preschool",
+          "Duodenal Ulcer",
+          "Duodenitis",
+          "Endoscopy",
+          "Esophagitis",
+          "Female",
+          "Gastritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2401189/"
+      },
+      {
+        "pmid": "16206671",
+        "title": "[Hydrotalcite in the treatment of reflux esophagitis: a multicenter clinical study].",
+        "abstract": "To investigate the effect of hydrotalcite on reflux esophagitis.",
+        "journal": "Zhonghua nei ke za zhi",
+        "year": "2001",
+        "authors": [],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bilirubin",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Magnesium Hydroxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16206671/"
+      },
+      {
+        "pmid": "6784737",
+        "title": "[Neutralizing capacity, pepsin inactivation and binding to bile acids and lysolecithin of the antacid magaldrate (author's transl)].",
+        "abstract": "The neutralizing capacity of pentaaluminum-decamagnesiumhentriacontahydroxide-bis(sulfate)-hydrate (magaldrate, Riopan), a stable Al-Mg-hydroxide mono-substance, determined by a modification of the method described in literature, surpasses the efficacy index (mval divided by g) of various commercial antacids. These results coincide with the findings of other workers. The intragastric pH is rapidly and consistently raised to a value between 3 and 5 which is not exceeded (no acid rebound). Due to this fact, pepsin is inactivated and finally adsorbed by magaldrate. Moreover, magaldrate binds a considerable amount of substances contained in duodeno-gastric reflux, such as bile acids and lysolecithin (aggressors in case of gastritis, peptic ulcer, stress ulcer, peptic esophagitis).",
+        "journal": "Arzneimittel-Forschung",
+        "year": "1981",
+        "authors": [
+          "Baur C",
+          "Becker A",
+          "Linder R",
+          "Schwan T"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bile Acids and Salts",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Lysophosphatidylcholines",
+          "Magnesium",
+          "Magnesium Hydroxide",
+          "Pepsin A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6784737/"
+      },
+      {
+        "pmid": "3201113",
+        "title": "Buffering effect of antacids in the mouth--a new treatment of dental erosion?",
+        "abstract": "Antacids are drugs of choice in the treatment of reflux esophagitis and peptic ulcer disease, where acid regurgitation may cause dental erosion. Since there are no specific preventive measures or effective treatment for erosions, the present study was made to assess whether the keeping of antacids in the mouth before swallowing would be beneficial with regard to their effect on mouth pH, after acidic challenge. Five healthy subjects formed the test panel. After measuring the acid binding capacity of all the antacid preparations in the Finnish market, the two most effective were selected for testing, one in emulsion form (Novaluzid), the other a tablet (Link). Acid regurgitation was mimicked by consuming a low-pH (3.2) drink immediately before the antacid. Control series were made with the acidic drink only. Both the antacids were found to counteract totally the pH fall caused by the drink, when measured as changes in the tongue surface pH. The Novaluzid preparation was more effective t",
+        "journal": "Scandinavian journal of dental research",
+        "year": "1988",
+        "authors": [
+          "Meurman J H",
+          "Kuittinen T",
+          "Kangas M",
+          "Tuisku T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acids",
+          "Adult",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Buffers",
+          "Carbonates",
+          "Drug Combinations",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3201113/"
+      },
+      {
+        "pmid": "16927137",
+        "title": "Intravenous pantoprazole as initial treatment in patients with gastroesophageal reflux disease and a history of erosive esophagitis: a randomized clinical trial.",
+        "abstract": "We sought to evaluate safety and efficacy of IV pantoprazole when used as initial therapy in patients with gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) in a double-blind, placebo-controlled, randomized, parallel-group study. Patients were randomized to 7 days of once-daily IV or oral pantoprazole (40 mg) or placebo. Efficacy variables included maximal acid output, basal acid output, and changes from baseline in frequency/severity of GERD symptoms, and frequency of antacid usage. Seventy-eight patients were randomized (n=26/27/25 [IV/oral/placebo]). Mean maximal acid output was 8.4, 6.3, and 20.9 mEq/h for IV or oral pantoprazole, and placebo, respectively. For pantoprazole versus placebo, maximal and basal acid output were significantly lower (P<.001) and there was a numerical trend toward improved GERD and antacid usage. Both treatments were well tolerated. In conclusion, IV/oral pantoprazole were similarly effective in suppressing basal and pentaga",
+        "journal": "Digestive diseases and sciences",
+        "year": "2006",
+        "authors": [
+          "Pratha Vijaya",
+          "Hogan Daniel L",
+          "Lynn Richard B",
+          "Field Brian",
+          "Metz David C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Administration, Oral",
+          "Adult",
+          "Aluminum Hydroxide",
+          "Analysis of Variance",
+          "Anti-Ulcer Agents",
+          "Benzimidazoles",
+          "Body Weights and Measures",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16927137/"
+      },
+      {
+        "pmid": "23227500",
+        "title": "[Alginates in the treatment of postgastroresection reflux esophagitis].",
+        "abstract": "To evaluate the efficacy of alginates in the treatment of postgastroresection reflux esophagitis.",
+        "journal": "Terapevticheskii arkhiv",
+        "year": "2012",
+        "authors": [
+          "Ianova O B",
+          "Kim V A",
+          "Treĭman E V"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Drug Combinations",
+          "Endoscopy, Digestive System",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastrectomy",
+          "Gastroenterostomy",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23227500/"
+      },
+      {
+        "pmid": "204058",
+        "title": "A multicentric, randomized clinical trial of Gaviscon in reflux esophagitis.",
+        "abstract": "Gaviscon tablets and the standard antacid proved equally effective in reducing the number of heartburn attacks. Chi-square tests revealed no significant difference between the two treatment groups at the end of weeks 1, 2, 3, or 4. Heartburn score was arrived at by multiplying heartburn incidence by heartburn severity. This heartburn score also indicated no significant difference between the two treatment groups at the end of the four weeks. Tabulation of the mean number of tablets consumed by patients in the two groups was made. There was no significant difference between the two groups in tablet consumption, indicating equal demand as well as equal compliance in the two groups. Esophagoscopy done before and after 28 days of treatment showed that Gaviscon and the standard antacid tablets were equally effective in each group. There was significant, and equal, decrease in the severity in the specific signs of esophagitis, friability, erosion, and ulceration in both treatment groups, as ",
+        "journal": "Southern medical journal",
+        "year": "1978",
+        "authors": [
+          "McHardy G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Bicarbonates",
+          "Drug Combinations",
+          "Drug Evaluation",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Humans",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/204058/"
+      },
+      {
+        "pmid": "6345111",
+        "title": "Double-blind comparison of liquid antacid and placebo in the treatment of symptomatic reflux esophagitis.",
+        "abstract": "Although antacids have been the mainstay of pharmacologic therapy for reflux esophagitis, their effectiveness has not been tested in a placebo-controlled double-blind trial. We report a double-blind comparison of liquid antacid vs placebo in the treatment of reflux esophagitis in 32 patients with chronic heartburn. Entry criteria included the presence of symptomatic gastroesophageal reflux confirmed by both an acid perfusion (Bernstein) test and by intraesophageal pH probe. Drug treatment consisted of 15 ml (80 mEq) doses of antacid (Maalox Therapeutic Concentration, William H. Rorer) or placebo taken 7 times daily, ie, 1 and 3 hr after meals and at bedtime. Both groups showed significant improvement (P less than 0.05) in both frequency and severity of heartburn. The time to reproduce heartburn with the timed Bernstein test was increased with both active drug and placebo therapy. The mean increase was 402% (41 +/- 20 sec to 169 +/- 66 sec) for the placebo group and 286% (42 +/- 16 to 1",
+        "journal": "Digestive diseases and sciences",
+        "year": "1983",
+        "authors": [
+          "Graham D Y",
+          "Patterson D J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Chronic Disease",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Heartburn",
+          "Humans",
+          "Magnesium Hydroxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6345111/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:24:32.993466",
+  "success": true,
+  "error_message": null
+}

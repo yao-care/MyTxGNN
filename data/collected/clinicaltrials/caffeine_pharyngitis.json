@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "pharyngitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01192178",
+      "title": "A Randomized, Double-Blind, Parallel Group Study of ADVAIR™ DISKUS™ 100/50 and FLOVENT™DISKUS™ 100, Both Twice Daily, in a Pediatric Population During the Fall Viral Season.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 339,
+      "brief_summary": "Study ADA113872 is an exploratory 16-week multi-centre, randomized, double-blind, parallel group study in pediatric subjects, 4 to 11 years of age, with a history of seasonal asthma exacerbation(s). Approximately 40 clinical sites in the United States will randomize 316 subjects. Eligible subjects will be randomly assigned to one of two double-blind treatments using a 1:1 randomization. Subjects will be identified for their eligibility for enrolment starting in April 2010. Eligible subjects will",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient\n* Subjects must be between the ages of 4 and 11 at Randomization\n* Subjects must attend day-care, pre-school, elementary school, or middle school. Day-care attendance is defined as receiving childcare outside the home for at least 10 hours per week. Children who are",
+      "endpoints": [
+        "Total Number of Asthma Exacerbations Reported During the Treatment Period"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01192178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01048866",
+      "title": "A Repeat-Dose, Multi-Centre, Randomized, Double-Blind, Placebo-Controlled, Study to Determine the Safety and Efficacy of Flurbiprofen 8.75 mg Lozenge Compared to Its Vehicle Control Lozenge in Patients With Painful Pharyngitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 198,
+      "brief_summary": "The purposes of this study is to demonstrate the analgesic efficacy of flurbiprofen 8.75 mg lozenge compared to its vehicle lozenge and to demonstrate the safety of the flurbiprofen lozenge throughout the course of treating sore throat due to acute pharyngitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The patient has a complaint of sore throat.\n2. If the patient is a female of childbearing potential, she has been using effective contraception since the last date of menses and is not breast-feeding or lactating.\n3. If the patient is a female of childbearing potential, the p",
+      "endpoints": [
+        "Time Weighted Sum of Pain Intensity Differences (SPID) in Sore Throat Pain Intensity Scale (STPIS) Over the 24 Hours Post-baseline (STPIS SPID24)"
+      ],
+      "sponsor": "Reckitt Benckiser LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01048866"
+    }
+  ],
+  "timestamp": "2026-03-04T15:54:55.420751",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,325 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "escherichia coli infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04575493",
+      "title": "Clinical Efficacy of Crano-cure inTreatment of Urinary Tract Infection",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-10-05",
+      "completion_date": "2020-11-30",
+      "country": "Pakistan",
+      "enrollment": 205,
+      "brief_summary": "The main objectives of the study are; to determine the efficacy of test drug Crano-cure for the treatment of urinary tract infection, to compare the effectiveness of Polyherbal formulation Crano-cure vs. Standard allopathic. Antibacterial/ antibiotic (Ciprofloxacin 500 mg) in treatment of UTI, to assess the safety of trial drug.\n\nResearch literatures have revealed that Tribulus terrestris (Gokhro), Vaccinium macrocarpon (karonda), Cuminum cyminum (Zeera sufaid), Rheum emodi (Revand chini) and Pi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 15 to 60 years with symptomatic acute urinary tract infection.\n\n  * Willing to participate in the study\n  * Non-pregnant adult females.\n  * Clinical signs and symptoms of a UTI (e.g., dysuria, frequency, urgency to urinate, Burning sensations during urination, Hematuria, s",
+      "endpoints": [
+        "Urine Culture Examination"
+      ],
+      "sponsor": "Islamia University of Bahawalpur",
+      "url": "https://clinicaltrials.gov/study/NCT04575493"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01349738",
+      "title": "Asymptomatic Bacteriuria & Risk of Urinary Tract Infection in Renal Transplants",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2011-05",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The goal of this research program is to understand the natural history of asymptomatic bacteriuria in the renal transplant patients, to determine if screening for asymptomatic bacteriuria and identification of key host characteristics and virulence factors present on uropathogenic bacteria identifies a sub-population of patients with asymptomatic bacteriuria that are at risk to develop symptomatic urinary tract infection. Ultimately, the knowledge obtained from this study will prevent inappropri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* must be 18 years old or older,\n* had a kidney transplant,\n* be at least 30 days post operation.\n\nExclusion Criteria:\n\n* Pregnant women, those planning to become pregnant or nursing mothers;\n* Renal transplant patients less than 30 days post transplant; Use of an indwelling Fol",
+      "endpoints": [
+        "Prevalence of Asymptomatic Bacteriuria and Risk of Developing Symptomatic Urinary Tract Infections or Renal Allograft Injury in Renal Transplant Patients"
+      ],
+      "sponsor": "Rice, James C., M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT01349738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06080698",
+      "title": "Gram-Negative Bloodstream Infection Oral Antibiotic Therapy Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-02-22",
+      "completion_date": "2027-06-30",
+      "country": "United States",
+      "enrollment": 1204,
+      "brief_summary": "The Gram-negative bloodstream infection Oral Antibiotic Therapy trial (The GOAT Trial) is a multi-center, randomized clinical trial that hypothesizes that early transition to oral antibiotic therapy for the treatment of Gram-Negative BloodStream Infection (GN-BSI) is as effective but safer than remaining on intravenous (IV) antibiotic therapy for the duration of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult (≥ 18 years) at the time of screening\n* Hospitalized\n* Identification of at least one Gram-negative organism in a blood culture\n* Capable of providing written informed consent (includes through a legally authorized representative)\n* Willingness to adhere to assigned stud",
+      "endpoints": [
+        "Desirability of Outcome Ranking (DOOR)"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT06080698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02555059",
+      "title": "Special Drug Use Investigation of Ciproxan® Injection in Pediatrics",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-07-15",
+      "completion_date": "2019-06-13",
+      "country": "Japan",
+      "enrollment": 48,
+      "brief_summary": "The objective in this study is collecting post-marketing information on the safety and efficacy of Ciproxan injection under the routine clinical practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male pediatric patients (less than 15 years old) with a diagnosis of complicated cystitis, pyelonephritis, cystic fibrosis, or anthrax infected by ciprofloxacin-active microorganisms, i.e. Bacillus anthracis, Escherichia coli, Pseudomonas aeruginosa.\n* Patients for ",
+      "endpoints": [
+        "Number of musculoskeletal adverse events."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02555059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06692907",
+      "title": "A Phase 2b, Double-Blind, Placebo Controlled Trial to Evaluate the Efficacy of Intramuscularly Administered CssBA+dmLT Against Moderate-severe Diarrhea in a Controlled Human Infection Model With Enterotoxigenic Escherichia Coli (ETEC) Strain B7A in Healthy Adults",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-03-31",
+      "completion_date": "2026-08-20",
+      "country": "United States",
+      "enrollment": 72,
+      "brief_summary": "The study is designed to evaluate the safety, immunogenicity, and efficacy of the intramuscular administration of a CS6 based vaccine (CssBA) against ETEC co-administered with double mutant labile toxin (dmLT) in preventing moderate-severe diarrhea (MSD) following challenge with ETEC strain B7A in healthy adults. Approximately 72 adult participants, divided into 4 cohorts of 18, will be randomized 1:1 to receive vaccine (45 micrograms CssBA with 0.5 micrograms dmLT) or placebo (normal saline) on",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Non-pregnant, non-breast-feeding adults, age 18 to 49 years (inclusive) at the time of enrollment.\n2. Willing and able to sign and date informed consent document prior to study procedures.\n3. Stated willingness to be available for all study visits and comply with all trial pr",
+      "endpoints": [
+        "Number and percentage of CssBA+dmLT injected participants experiencing local solicited AEs",
+        "Number and percentage of CssBA+dmLT injected participants experiencing MAAEs",
+        "Number and percentage of CssBA+dmLT injected participants experiencing SAEs"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT06692907"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06093191",
+      "title": "Efficacy and Safety of tobRamycin Inhalation Solution for Pseudomonas AeruginoSa Eradication in Bronchiectasis (ERASE): a Multi-center, 2×2 Factorial Randomized, Double-blind, Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-09-25",
+      "completion_date": "2025-12-30",
+      "country": "China",
+      "enrollment": 364,
+      "brief_summary": "People with bronchiectasis are prone to Pseudomonas aeruginosa (PA) infections, which can become chronic and lead to increased death rates and disease severity. Studies from cystic fibrosis suggest that eradication therapy aimed at PA can successfully transition patients to a culture-negative status, providing long-term benefits. Current guidelines for managing bronchiectasis in adults recommend eradicating PA when it is first or newly isolated; however, there is a lack of randomized controlled ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, aged 18 years and 80 years at screening\n2. Signed and dated written informed consent prior to admission to the study in accordance with local legislation.\n3. Clinical history consistent with bronchiectasis (cough, chronic sputum production and/or recurrent res",
+      "endpoints": [
+        "The proportion of patients successfully eradicating PA in each group by the end of the study, defined as a negative sputum culture of PA at both 24 weeks and 36 weeks."
+      ],
+      "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+      "url": "https://clinicaltrials.gov/study/NCT06093191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02443285",
+      "title": "Is Spontaneous Bacterial Peritonitis Still Responding to 3rd Generation Cephalosporins?",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Current European and most other international guidelines recommend the use of a third-generation cephalosporin as the first choice, or amoxicillin-clavulanate acid or fluoroquinolones as an alternative choice .\n\nThese recommendations are based mainly on clinical trials that were very often conducted a decade or more ago, and on the assumption that E. coli would be involved in nearly half of the cases.\n\nThe microbial etiology of SBP remains relatively constant; however, the antibiotic resistance ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and SBP\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections",
+      "endpoints": [
+        "number of patients with clearence of infection"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02443285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236944",
+      "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-03",
+      "country": "Norway, Sweden",
+      "enrollment": 560,
+      "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+      "endpoints": [
+        "Clinical response (primary endpoint)."
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT07236944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05002413",
+      "title": "NANO-RAST: Nanomotion-based Resistell AST to Determine the Antibiotic Susceptibility of Gram-negative Bacteria Causing Bacteremia and/or Sepsis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-06-18",
+      "completion_date": "2024-02-19",
+      "country": "Switzerland",
+      "enrollment": 300,
+      "brief_summary": "Blood culture samples from bacteremia patients positive for Gram-negative bacteria will be tested for antibacterial susceptibility using Resistell Phenotech device. The results will be compared with current AST gold standard tests to calculate sensitivity, specificity, and accuracy of Resistell Phenotech device.",
+      "eligibility_criteria": "Inclusion Criteria: The patients meeting all the following criteria can be recruited in the study:\n\n* patients over the age of 18 years who sign, or their relatives / legal representatives sign the informed consent form;\n* patients with bacteremia considered to be due to a pathogenic strain;\n* patie",
+      "endpoints": [
+        "Sensitivity of Resistell AST"
+      ],
+      "sponsor": "Resistell AG",
+      "url": "https://clinicaltrials.gov/study/NCT05002413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05293483",
+      "title": "The Impact of Hospital Care for COVID-19 on the Prevalence of Multidrug-resistant Microorganisms Among Patients Compared to Non-COVID-19 Hospital Care in Limited-resource Hospitals in Indonesia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-07",
+      "completion_date": "2023-03-07",
+      "country": "Indonesia",
+      "enrollment": 1110,
+      "brief_summary": "The effect of the COVID-19 pandemic on the emergence and spread of antibiotic-resistant bacteria is largely unknown, especially in low-resource settings. We aim to investigate the prevalence and relatedness of multidrug-resistant bacteria among patients in both COVID-19 and non-COVID-19 wards in two hospitals in Indonesia. Bacterial isolates will be collected from clinical sample and by screening of patients at discharge followed by 30 days after discharge. Aspects of hospital care that may be d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All adult patients discharged from Covid wards and non Covid wards (ICU and internal medicine wards)\n\nExclusion Criteria:\n\n* Patients discharged within 48 hours of admission\n* Patients who either live outside the city of Malang or their address is unclear",
+      "endpoints": [
+        "Multidrug resistant bacteria prevalence",
+        "Multidrug resistant bacteria transmission",
+        "Hand Hygiene and Personal Protective Equipment Use Compliance"
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05293483"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00449735",
+      "title": "Quinolone Resistance in Bloodstream Isolates of Escherichia Coli",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2017-06",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "This proposed study aims to document the risk factors for quinolone resistance in bloodstream isolates of E. coli. Additionally, the adequacy of empiric antibiotic therapy for E. coli bloodstream infections will be assessed. Finally, outcome will be recorded - this is all-cause mortality at 28 days from the time of the first positive blood culture. Hypothesis: Ciprofloxacin resistant strains are associated with admission from nursing home and with prior quinolone use.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nClinical information is collected by chart review of \"case\" and \"control\" patients.\n\nA \"case A\" patient is defined as follows:\n\n* One or more blood cultures are positive for E. coli. The organism is ciprofloxacin resistant.\n\nA \"case B\" patient is defined as follows:\n\n* One or mo",
+      "endpoints": [
+        "dead or alive"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00449735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00930982",
+      "title": "Randomized, Placebo-controlled, Double-blind, Multi-center Study to Evaluate the Safety and Efficacy of Ciprofloxacin Inhale Compared to Placebo in Patients With Non-cystic Fibrosis Bronchiectasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2010-09",
+      "country": "Spain, Germany, Australia, United Kingdom, Sweden, United States",
+      "enrollment": 124,
+      "brief_summary": "The purpose of this study is to find out if bacterial load in the airways can be reduced after inhalation of ciprofloxacin for 28 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a proven and documented diagnosis of non-cystic fibrosis idiopathic or post pneumonic bronchiectasis\n* Stable pulmonary status and stable regimen of standard treatment at least for the past 30 days\n\nExclusion Criteria:\n\n* Forced Expiratory Volume 1 \\< 35% or \\> 8",
+      "endpoints": [
+        "Change From Baseline in Total Bacterial Load in the Sputum at End of Treatment (Day 29)."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00930982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02247960",
+      "title": "Antibiotic Prophylaxis for Urinary Catheter Removal After Radical Prostatectomy",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2014-07",
+      "completion_date": "2016-05",
+      "country": "United States",
+      "enrollment": 175,
+      "brief_summary": "The aim of this study is to determine whether antibiotics prophylaxis at the time of urinary catheter removal decreases the number of symptomatic urinary tract infections in patients after radical prostatectomy. In addition, the investigators aim to determine whether antibiotic prophylaxis is potentially harmful to patients (e.g. adverse reactions from antibiotic use, resistant bacteria in the urine, Clostridium difficile infections etc.). The investigators also aim to identify specific populati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects will include patients undergoing radical prostatectomy for prostate cancer. Subjects will be randomized into control or treatment group.\n\nExclusion Criteria:\n\n* Subjects with a history of adverse reaction to ciprofloxacin, or any other quinolone will be excluded. Subj",
+      "endpoints": [
+        "Number of Participants With a Positive Urinary Tract Infection"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT02247960"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06252428",
+      "title": "Detection of Biofilm Among Uropathogenic Escherichia Coli Clinical Isolates in Suez Canal University Hospitals",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-12-20",
+      "completion_date": "2024-02-20",
+      "country": "Egypt",
+      "enrollment": 47,
+      "brief_summary": "This descriptive cross-sectional study will beconducted in Suez Canal University Hospitals (SCUHs) in Ismailia, Egypt. The study aims to detect Escherichia coli biofilm producers to improve prognosis and treatment and reduce morbidity and mortality rates due to this infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients showing criteria for Symptomatic Urinary Tract Infection (SUTI) according to Center of Diseases and Control criteria (CDC) (CDC, 2022).\n\nPatient has at least one of the following signs or symptoms:\n\n* fever (\\>38.0°C)\n* suprapubic tenderness\n* costovertebral angle pai",
+      "endpoints": [
+        "antibiotic resistance",
+        "Congo red Agar method (CRA)",
+        "Modified tissue culture plate method (MTCP)"
+      ],
+      "sponsor": "Suez Canal University",
+      "url": "https://clinicaltrials.gov/study/NCT06252428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02463721",
+      "title": "Identification of Ascitic Fluid Bacterial Pathogens in Spontaneous Bacterial Peritonitis in Nile Delta and Its Impact on Clinical Outcome of These Patients",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Several studies have pointed out changes in the epidemiology of the causative bacteria in SBP and bacterascites and in their susceptibility to antibiotics. In particular, the development of beta-lactamase enzymes, which confer resistance to clavulanate, or extended spectrum beta-lactamases in Escherichia coli. The potential emergence of enterococci, methicillin-resistant S. aureus, or fluoroquinolone-resistant bacteria, following norfloxacin prophylaxis, is also a cause of concern since they may",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and suspected to have SBP.\n* ascitic fluid PMNL ≥ 250 cells/mm3\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections\n* patients started empirical antibiotics without prior culture.",
+      "endpoints": [
+        "identification of SBP bacterial pathogens through gram stain or other specific stains"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02463721"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03969758",
+      "title": "Efficacy of Empirical Ciprofloxacin Plus Metronidazole and Cefixime Plus Metronidazole Therapy for the Treatment of Liver Abscess: A Randomised Controlled Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-07",
+      "completion_date": "2020-05",
+      "country": "India",
+      "enrollment": 140,
+      "brief_summary": "Liver abscess is purulent collections in the liver parenchyma that result from microbial infection spread to the liver through the biliary tree, hepatic or portal vein and by extension of adjacent infection or as a result of trauma. Liver abscesses are most commonly pyogenic followed by amoebic and rarely tuberculous or fungal in immunocompromised patients. In the developing country amoebic liver abscess is more frequent than the developed country but secondary bacterial infection of amoebic liv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Irrespective of gender\n* Age ≥ 18 years\n* Symptomatic patients of liver abscess confirmed with radiology imaging, either by ultrasonography (USG) or computed tomographgy (CT) scan\n\nExclusion Criteria:\n\n* Past history of liver abscess\n* Chronic kidney disease (CKD)\n* History of",
+      "endpoints": [
+        "Clinical cure"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT03969758"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00654108",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Dose Escalation, Inpatient Phase I Study to Determine the Safety and Immunogenicity of a Single Oral Dose of a Combined Live, Attenuated, Enterotoxigenic Escherichia Coli (ETEC)-Cholera Vaccine (Peru-15 pCTB) in Healthy Adult Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-06-02",
+      "completion_date": "2010-12-31",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "Enterotoxigenic Escherichia (E.) coli (ETEC) bacteria are the main cause of traveler's diarrhea and are significant pathogens affecting children and elderly individuals of developing countries. The purpose of the study is to determine the safety of the ETEC-Cholera vaccine and the body's ability to protect itself against ETEC and cholera infection after receiving the vaccine. The study will enroll a total of 64 healthy volunteers, 18 to 45 years old at the Cincinnati Children's Hospital. The stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Male or female age 18-45, inclusive. -Healthy as judged by the Principal Investigator (PI) and determined by medical history, physical examination, vital signs, screening laboratories, and medication history. -Capable of understanding, consenting and complying with the entire s",
+      "endpoints": [
+        "Adverse Events (AEs) will be graded according to standardized criteria.",
+        "Safety: physical examinations, interim medical history, solicited symptoms/subject memory aid, and laboratory evaluations."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00654108"
+    }
+  ],
+  "timestamp": "2026-03-04T14:51:14.342794",
+  "success": true,
+  "error_message": null
+}

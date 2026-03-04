@@ -1,0 +1,925 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "inflammatory bowel disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05405465",
+      "title": "Effectiveness of Golimumab in Patients With Ulcerative Colitis: Results of a Real-life Study in Switzerland",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-01-01",
+      "completion_date": "2021-06-01",
+      "country": "Switzerland",
+      "enrollment": 103,
+      "brief_summary": "TNF inhibitors have improved treatment options for patients with inflammatory bowel disease (IBD) and three TNF inhibitors, infliximab, adalimumab and golimumab are available for treatment of ulcerative colitis in Switzerland. However, these drugs have been tested under ideal conditions in randomized controlled trials. Real-world data are needed to complement this information. It is the aim of the investigators to study, whether patients with ulcerative colitis can be effectively treated with go",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient of the Swiss IBD cohort study\n* Diagnosis of ulcerative colitis\n* Past treatment with golimumab (at least one dose)\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "Response at week 6-10"
+      ],
+      "sponsor": "University of Zurich",
+      "url": "https://clinicaltrials.gov/study/NCT05405465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03710486",
+      "title": "Vedolizumab and Anti-TNFs Outcomes in Real-World Biologic Ulcerative Colitis and Crohn's Disease Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-02-19",
+      "completion_date": "2022-02-21",
+      "country": "Spain, Portugal",
+      "enrollment": 409,
+      "brief_summary": "The purpose of this study is to describe treatment patterns associated with first-line and second line biologic use (vedolizumab or other biologic) and to describe the real-world clinical effectiveness of the use (first-line and second line) vedolizumab versus other biologics at least 6 months post-treatment initiation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Has a diagnosis of moderate to severe UC or CD documented in the medical chart.\n2. Received at least one dose of vedolizumab or other biologic (infliximab, adalimumab, or golimumab \\[UC only\\]) during the eligibility period.\n3. Received the biologic treatment as first-line or",
+      "endpoints": [
+        "Percentage of Participants With One or More Treatment Intensifications for CD Participants",
+        "Percentage of Participants With One or More Treatment Intensifications for UC Participants",
+        "Number of Participants With Reasons for Treatment Modifications in CD Participants"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT03710486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05598684",
+      "title": "Assessment of Predictive Factors for Persistence of Treatment After Initiation of Adalimumab With a Biosimilar (Adalimumab Fresenius KaBI or Substitution of Reference Adalimumab With the Fresenius Kabi Adalimumab Biosimilar in Patients With Chronic Inflammatory Diseases",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-11-24",
+      "completion_date": "2025-12-30",
+      "country": "Guadeloupe, France, Martinique",
+      "enrollment": 600,
+      "brief_summary": "A prospective, longitudinal, multicentre, observational cohort follow-up study conducted in France.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient aged 18 years or over\n* Patient who have been informed of the objectives and the conditions of the study and who did not object to its participation\n* Patient diagnosed with one chronic inflammatory rheumatological (rheumatoid arthritis, ankylosing spondylitis, psoriat",
+      "endpoints": [
+        "Persistence of the biosimilar",
+        "Discontinuation of the biosimilar"
+      ],
+      "sponsor": "Fresenius Kabi, France",
+      "url": "https://clinicaltrials.gov/study/NCT05598684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04882683",
+      "title": "Clinical Study of Cord Blood Mononuclear Cells on Treatment of Hormone-resistant or Hormone-dependent Ulcerative Colitis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-06-01",
+      "completion_date": "2022-12-31",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "This study conducted a systematic clinical observation of the clinical efficacy of UCB-MNCs in the treatment of hormone-resistant or hormone-dependent ulcerative colitis, in order to observe its clinical safety and efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Western medicine diagnosis is consistent with patients with refractory ulcerative colitis.\n* 2\\. 18 Years to 65 Years，male or female.\n* 3\\. Those who voluntarily participate in this clinical study and have signed an informed consent.\n\nExclusion Criteria:\n\n* 1\\. Patients wi",
+      "endpoints": [
+        "Clinical efficacy rate",
+        "Clinical response rate"
+      ],
+      "sponsor": "Shandong Qilu Stem Cells Engineering Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04882683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03917303",
+      "title": "Control Crohn Safe With Episodic Adalimumab Monotherapy as First Line Treatment Study.",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2019-12-23",
+      "completion_date": "2026-09",
+      "country": "Netherlands",
+      "enrollment": 158,
+      "brief_summary": "Crohn's disease (CD) is a chronic disease with a heterogeneous clinical presentation, relapse rate and treatment response. Insufficient control of mucosal inflammation results in irreversible bowel damage and complications and at present no markers are available to predict such a complicated disease course at diagnosis. Therefore, to prevent overtreatment of low risk patients, step-up treatment with subsequent introduction of corticosteroids, thiopurines maintenance and TNF-blockers if a previou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed CD patients or CD patients with a flare, visiting the outpatient clinic or endoscopy ward of the participating centres\n* CD diagnosis according to ECCO-guidelines + complete ileo-colonoscopy + complete small bowel imaging at diagnosis (MRI or CT-enterography )\n",
+      "endpoints": [
+        "Number of yearly-quarters of corticosteroid free remission as a measure of treatment efficacy"
+      ],
+      "sponsor": "Maastricht University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03917303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01901627",
+      "title": "A Multicenter Registry to Evaluate the Clinical Outcome of Chinese Adult Patients With Active Ankylosing Spondylitis Treated With Adalimumab in the Real World Practice",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2013-04",
+      "completion_date": "2015-06",
+      "country": "China",
+      "enrollment": 400,
+      "brief_summary": "A multicenter registry to explore the clinical outcome of Chinese adult patients with active Ankylosing Spondylitis \\*AS\\* treated with adalimumab,prescribed according to the local label,in the real world practice",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients with established diagnosis of ankylosing spondylitis.\n2. Patients eligible to use adalimumab according to the local label without any contraindication.(According to the local label, patients should be screened for active infection,TB,HBV,malignancy and CHF befo",
+      "endpoints": [
+        "Effectiveness of adalimumab, measured as percentage of patients achieving Bath Ankylosing Spondylitis Disease Activity Index *BASDAI* 50 at week12 with adalimumab treatment."
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01901627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04131322",
+      "title": "Loss of Response of Adalimumab Biosimilar Compared With the Loss of Response of Adalimumab Original: Controlled, Randomized, Non-inferiority Open Study. \"ADA-SWITCH Study\"",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2019-10-10",
+      "completion_date": "2020-06-08",
+      "country": "Spain",
+      "enrollment": 24,
+      "brief_summary": "Loss of response of the Adalimumab biosimilar compared with the original drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be male or female over 18 years of age\n* Be a Patient with a previous confirmed diagnosis of Crohn´s disease an Ulcerative Colitis\n* Previous treated with original Adalimumab for at least 6 months with regular maintenance dose (40 mg every 15 days) and in clinical and biologic",
+      "endpoints": [
+        "Change from baseline to final follow-up in the response of the switch."
+      ],
+      "sponsor": "Fundación Pública Andaluza para la gestión de la Investigación en Sevilla",
+      "url": "https://clinicaltrials.gov/study/NCT04131322"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02413047",
+      "title": "A Pilot Study to Evaluate if Response to Infliximab or Adalimumab May be Regained With the Addition of an Immunomodulator",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2015-05",
+      "completion_date": "2018-02",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "The immunogenicity of anti-tumor necrosis factor alpha (anti-TNF) therapy in inflammatory bowel disease (IBD) is an important cause of loss of response to therapy that may lead to escalation of dose or discontinuation of therapy. Antibodies may develop to infliximab (ATI) or to adalimumab (ATA) and cause this loss of response, also known as a secondary loss of response. An alternative approach is the addition of immunomodulator (IM) therapy to counteract the antibody response and regain efficacy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with inflammatory bowel disease who on are stable doses of infliximab or adalimumab for at least 3 months who experience a secondary loss of response to the medication based on clinical symptoms.\n* Presence of at least one objective marker of active disease: active di",
+      "endpoints": [
+        "Harvey Bradshaw Index HBI: Decrease >3 Points or Remission Score<5",
+        "Therapeutic Trough Level for Infliximab is Defined as >3 and as > 5 for Adalimumab.",
+        "Ulcerative Colitis Clinical Score UCCS Decrease >3 Points or Remission Score <3"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT02413047"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02738125",
+      "title": "Assessing Effectiveness of Adalimumab for Treating Ulcerative Colitis in Real Life Conditions",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-04-29",
+      "completion_date": "2023-12-15",
+      "country": "France",
+      "enrollment": 265,
+      "brief_summary": "This study assesses the long?term effectiveness of adalimumab in subjects starting a treatment for ulcerative colitis in real life conditions, namely to describe the time to loss of clinical benefit in a time to event approach.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Suffering from ulcerative colitis\n* Naïve from Adalimumab\n* Starting a treatment with adalimumab\n* Capable of and willing to grant authorization for use/disclosure of data collected\n* Able to read, understand, and complete patients questionnaires\n\nExclusion Criteria:\n\n\\- None",
+      "endpoints": [
+        "Time to loss of clinical benefit"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02738125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03681652",
+      "title": "Post-Operative Crohn's Disease Outcome in Children (The POPCORN Trial): a Prospective Comparative Non-interventional Open Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2019-02-11",
+      "completion_date": "2027-03-01",
+      "country": "Israel",
+      "enrollment": 100,
+      "brief_summary": "Objectives: To examine the effect of prophylaxis therapy on clinical and endoscopic disease recurrence in children with Crohn's Disease (CD) following ileo-cecal resection. Hypothesis: Post-operative pediatric patients treated with anti-Tumor necrosis factor (TNF) prophylaxis will demonstrate lower endoscopic recurrence rates at 1 year and lower clinical recurrence rates at 2 years compared with thiopurines treated patients. Design: A multi-center, prospective, observational study. Patients with",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Crohn's disease\n2. Age: 6 - 17 years (inclusive)\n3. L1 or L3 phenotypes\n4. Ileocecal resection in the previous 3 months\n5. No active perianal disease (including draining fistula or a peri-anal abscess)\n6. Prophylactic therapy with either thiopurines or anti-TNF has been initi",
+      "endpoints": [
+        "Endoscopic recurrence (Rutgeerts score ≥ i2b)"
+      ],
+      "sponsor": "Schneider Children's Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT03681652"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02134054",
+      "title": "Stavanger University Hospital IBD Study - a Cross Sectional Longitudinal Study on Patients Treated With Biologics",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2014-04",
+      "completion_date": "2024-12",
+      "country": "Norway",
+      "enrollment": 210,
+      "brief_summary": "In this cross sectional and longitudinal study, patients with inflammatory bowel disease on biological treatment with infliximab or adalimumab will be included.\n\nAfter inclusion, the dosage of their existing biological therapy will be adjusted following regular trough-level and antibody-level monitoring, according to a treatment algorithm.\n\nDisease activity markers, fatigue and QoL will be assessed during the study. The hypothesis is that therapeutic drug monitoring may improve clinical disease ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with inflammatory bowel disease on treatment with infliximab or adalimumab of any duration (at least 3 doses)\n\nExclusion Criteria:\n\n* Inability to consent\n* Inability to adhere to treatment protocol.",
+      "endpoints": [
+        "Clinical remission rate"
+      ],
+      "sponsor": "Helse Stavanger HF",
+      "url": "https://clinicaltrials.gov/study/NCT02134054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03847467",
+      "title": "Pilot and Feasibility Study of 2'-FL as a Dietary Supplement in Pediatric and Young Adult IBD Patients Receiving Stable Maintenance Anti-TNF Therapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2019-09-20",
+      "completion_date": "2027-06-30",
+      "country": "United States",
+      "enrollment": 116,
+      "brief_summary": "Randomized, placebo-controlled dose-ranging study of 2'-FL in IBD, Crohn's Disease (CD) and ulcerative colitis (UC). The overarching hypothesis is that 2'-FL supplementation in IBD will be safe and well tolerated, while increasing fecal Bifidobacterium abundance and butyrate in a dose dependent manner. The investigators will test 1, 5, or 10 gm 2'-FL compared to 2 gm dextrose placebo as a daily dietary supplement in pediatric and young adult IBD participants in stable remission receiving inflixi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of signed and dated informed consent form\n2. Stated willingness to comply with all study procedures and availability for the duration of the study\n3. Male or female, aged 11 - 25\n4. Diagnosed with Crohns Disease or Ulcerative Colitis\n5. Disease is in remission\n\n   *",
+      "endpoints": [
+        "Mean Gastrointestinal Symptom Rating Scale (GSRS) in participants who receive 2'-fucosyllactose (2'FL) or dextrose placebo"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT03847467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06269185",
+      "title": "Comparison of Short and Long-term Efficacy Between Infliximab and Adalimumab on Patients With Ulcerative Colitis - a Retrospective Observational Multicenter Cohort Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-03-06",
+      "completion_date": "2024-10-18",
+      "country": "Sweden",
+      "enrollment": 271,
+      "brief_summary": "Anti-TNF (tumor necrosing factor) treatment with infliximab (IFX) and adalimumab (ADA) are established first-line biological therapies used in treatment of patients with ulcerative colitis (UC). There are no head-to-head comparative studies between these two drug but meta-analysis of randomized controlled trials states that IFX might be more effective than ADA for the induction of clinical remission. However, several observational studies conclude that ADA seem to have similar effect as IFX in t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-100 years.\n* Diagnosis of ulcerative colitis confirmed by endoscopy and histology.\n* Mild, moderate and severe disease activity.\n* Initiation of IFX or ADA-treatment at one of the centers of the study.\n\nExclusion Criteria:\n\n* Clinical remission.\n* Previous colonic surge",
+      "endpoints": [
+        "Percentage of patients achieving steroid-free clinical remission"
+      ],
+      "sponsor": "Vastra Gotaland Region",
+      "url": "https://clinicaltrials.gov/study/NCT06269185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04404517",
+      "title": "Correlation of Serum Adalimumab Levels at an Administration of 40 mg Weekly vs 80 mg Every Two Weeks",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-10-01",
+      "completion_date": "2021-10-30",
+      "country": "Spain",
+      "enrollment": 20,
+      "brief_summary": "RCT to evaluate possible pharmacokinetic differences between the two current regimes of intensified adalimumab administration.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients \\> 18y\n* Intensified adalimumab regime at least 4 weeks prior to enrollment.\n* Immunosuppressants are allowed if a stable dose for \\> 12w is maintained.\n* Corticosteroids are allowed if they were initiated prior to enrollment and a stable dose is maintained.\n\nExclusio",
+      "endpoints": [
+        "Adalimumab trough level"
+      ],
+      "sponsor": "Hospital Universitario La Paz",
+      "url": "https://clinicaltrials.gov/study/NCT04404517"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05040854",
+      "title": "Can we Rely on HLA to Predict Resistance to Biological Therapy in IBD Patients",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-07-01",
+      "completion_date": "2024-07-01",
+      "country": "Portugal",
+      "enrollment": 600,
+      "brief_summary": "The investigators propose an observational study including patients with inflammatory bowel disease under biological therapy with anti-TNF, anti-integrin α₄β₇ or anti-interleukin 12-23 (Ustekinumab), followed by an external Gastroenterology consultation at Centro Hospitalar Tondela-Viseu.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with the diagnosis of IBD (according to ECCO diagnosis criteria);\n* Adult patients (over 18 years);\n* Full capability of signing informed consent.\n\nExclusion Criteria:\n\n* Patients who refuse to participate in the study;\n* Patients submitted to prior biological therapy",
+      "endpoints": [
+        "Response to biological therapy"
+      ],
+      "sponsor": "Centro Hospitalar Tondela-Viseu",
+      "url": "https://clinicaltrials.gov/study/NCT05040854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02065557",
+      "title": "A Multicenter, Randomized, Double-Blind Study of the Human Anti-TNF Monoclonal Antibody Adalimumab in Pediatric Subjects With Moderate to Severe Ulcerative Colitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-10-13",
+      "completion_date": "2020-02-07",
+      "country": "Israel, Spain, Czechia, Austria, Hungary, Slovakia, Australia, United Kingdom, New Zealand, Poland, Canada, Japan, Belgium, United States",
+      "enrollment": 101,
+      "brief_summary": "The purpose of the study is to demonstrate the efficacy and safety, and to assess the pharmacokinetics of adalimumab administered subcutaneously (SC) in pediatric subjects with moderate to severe ulcerative colitis (UC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of UC for at least 12 weeks prior to screening, confirmed by endoscopy with biopsy.\n* Active ulcerative colitis with a Mayo Score of 6 - 12 points and endoscopy subscore of 2 - 3 despite concurrent treatment with oral corticosteroids or immunosuppressants or both.\n\nE",
+      "endpoints": [
+        "Co-Primary Endpoint 1: Percentage of Participants Who Achieved Clinical Remission as Measured by Partial Mayo Score (PMS) at Week 8 - Induction Period",
+        "Co-Primary Endpoint 2: Percentage of Participants With Clinical Remission Per Full Mayo Score (FMS) at Week 52 in Week 8 Responders Per PMS - Maintenance Period"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02065557"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01494857",
+      "title": "Open-Label, Non-Randomized, Single Patient Group, Multi-Center Study to Evaluate the Efficacy and Safety of Adalimumab for the Induction of Clinical Response in Moderately to Severely Active Ulcerative Colitis",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2012-01",
+      "completion_date": "2013-12",
+      "country": "Israel",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to assess the clinical benefit and tolerability of adalimumab, a fully human monoclonal antibody to tumor necrosis factor α (TNF- α), in patients with ulcerative colitis (UC) naive to treatment with biologics.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female ≥ 18 years of age.\n2. Diagnosis of ulcerative colitis for greater than 90 days prior to Baseline.\n3. Diagnosis of active UC confirmed by colonoscopy with biopsy or flexible sigmoidoscopy with biopsy during the Screening Period, with exclusion of infection.\n4. A",
+      "endpoints": [
+        "Proportion of subjects with clinical response per Mayo Score, at Week 12"
+      ],
+      "sponsor": "Clalit Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT01494857"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02451839",
+      "title": "An ObserVatIonal STudy of the Effectiveness of AdaLimumab on Health and Disability Outcomes in New Zealand Patients With Immune-Mediated InflammaTorY Diseases (VITALITY)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-07-06",
+      "completion_date": "2017-12-05",
+      "country": "N/A",
+      "enrollment": 168,
+      "brief_summary": "For public health purposes disability is becoming increasingly important as an outcome measure. Despite this, there are few data on the effectiveness of adalimumab on disability outcomes in patients with immune-mediated inflammatory diseases (IMIDs), particularly in the Phase IV setting. There are even less data available in New Zealand, which did not have the opportunity to participate to a major extent in large, multinational, Phase III pivotal studies of adalimumab in IMIDs.\n\nThe World Health",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a diagnosis of rheumatoid arthritis, Crohn's disease or psoriasis who have made a decision with their physician to commence treatment with adalimumab in accordance with routine medical practice and with the approved adalimumab New Zealand Datasheet.\n* Patients wh",
+      "endpoints": [
+        "Change From Baseline in WHODAS 2.0 Response Score at Month 6 Across All Indications"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02451839"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04873700",
+      "title": "Real-world Data of Moderate to Severe Inflammatory Bowel Disease (UC and CD) in Mexico: a Multicenter, Non-interventional Study to Evaluate Disease Control, Treatment Patterns, Burden of Disease and Patient Reported Outcomes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-08-30",
+      "completion_date": "2022-05-17",
+      "country": "Mexico",
+      "enrollment": 335,
+      "brief_summary": "The main aim of this study is to check the disease activity in people with moderate to severe ulcerative colitis and Crohn's disease.\n\nParticipants will complete questionnaires about their disease and quality of life on Day 1 clinic visit. They will do this during a standard scheduled appointment with their doctor. Some of this study will also involve collecting information about participants from their medical records.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosed with moderate to severe CD or UC established for at least 6 months prior to Day 1 appointment, based on clinical, endoscopic or image criteria.\n2. Participants aged 18 years or older (at the time of diagnosis of moderate to severe UC or CD).\n\nExclusion Criteria:\n\n1.",
+      "endpoints": [
+        "Percentage of Participants With Active CD at Day 1",
+        "Percentage of Participants With Active UC at Day 1"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT04873700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03017014",
+      "title": "Assessing Long-term Safety and Effectiveness of Adalimumab for Treating Children and Adolescents With Crohn's Disease in Real Life Conditions-LEA",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2017-09-26",
+      "completion_date": "2019-10-14",
+      "country": "France",
+      "enrollment": 62,
+      "brief_summary": "The primary objective of this study is to evaluate long-term effectiveness of adalimumab in pediatric participants starting a treatment for Crohn's disease in real life conditions, namely to describe the time to loss of clinical benefit in a time to event approach. Main secondary objectives are to describe growth and pubertal development and to describe long-term safety. The participants will be followed-up up to 10 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* With confirmed diagnosis of Crohn's disease\n* Adalimumab-naïve patient (a patient having received an anti-TNF other than adalimumab may enter the study)\n* Starting a treatment with adalimumab\n* Guardian capable of and willing to grant authorization for use/disclosure of data c",
+      "endpoints": [
+        "Time to loss of clinical benefit"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT03017014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05599347",
+      "title": "Pre-treatment With Azithromycin to Reduce Immunogenicity to Anti-Tumor Necrosis Factor-α Agents in Patients With Crohn's Disease",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-04-24",
+      "completion_date": "2026-12-31",
+      "country": "Israel",
+      "enrollment": 180,
+      "brief_summary": "This is a randomized placebo-controlled trial in Crohn's disease patients before initiation of anti-tumor necrosis factor-α (anti-TNF) therapy that aims to test the effect of a pre-treatment short course of azithromycin therapy on immunogenicity",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to provide written informed consent prior to any study procedures and willing and able to attend all study visits, comply with the study procedures, read and write in order to complete questionnaires, and be able to complete the study period.\n* Aged 18 to 80 years of a",
+      "endpoints": [
+        "Anti-drug antibody development"
+      ],
+      "sponsor": "Rambam Health Care Campus",
+      "url": "https://clinicaltrials.gov/study/NCT05599347"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02822235",
+      "title": "Real-world Data of Moderate to Severe Inflammatory Bowel Disease in Brazil: a Non-interventional, Multicenter Study to Evaluate Disease Control, Treatment Patterns, Burden of Disease and Quality of Life (RISE BR)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-10-11",
+      "completion_date": "2018-02-19",
+      "country": "Brazil",
+      "enrollment": 407,
+      "brief_summary": "The purpose of this study is to gather information regarding the population with moderate to severe inflammatory bowel disease (IBD), the burden of the disease, and understand their treatment patterns, particularly on the use of available biologic therapies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female.\n2. 18 years or older (at the time of diagnosis of moderate to severe UC or CD).\n3. Diagnosis of moderate to severe CD or UC for at least 6 months prior to Day 1 appointment according the clinical or endoscopic \\\\ criteria.\n4. Has provided the written informed ",
+      "endpoints": [
+        "Percentage of Participants With Active Crohn's Disease (CD) at Day 1",
+        "Number of Participants With Active Ulcerative Colitis (UC) at Day 1"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT02822235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06089590",
+      "title": "Ibd CAncer and seRious Infections in France (I-CARE 2)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-01-25",
+      "completion_date": "2031-03-01",
+      "country": "France",
+      "enrollment": 6000,
+      "brief_summary": "This is a French prospective longitudinal observational multicentre cohort study.\n\nPrimary objective : to assess prospectively the presence and the extent of safety concerns (cancer, serious infections, arterial and venous thrombotic events) in patients with CD and UC and treated with JAKi, anti-IL23p19, and S1p modulators.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with an established diagnosis of Crohn's disease, ulcerative colitis or IBD unclassified based on usual radiological, endoscopic or histological criteria.\n* Patient aged 18 and older accepting to sign the informed participating consent form, stating that he accepts to ",
+      "endpoints": [
+        "Number of SAE declared by patients (cancer, serious infections, arterial and venous thrombotic events)"
+      ],
+      "sponsor": "Groupe d'Etude Therapeutique des Affections Inflammatoires Digestives",
+      "url": "https://clinicaltrials.gov/study/NCT06089590"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01657513",
+      "title": "Production of Antibodies Against Tnf-alfa Blockers in Patients With Psoriasis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "",
+      "country": "Denmark, Sweden",
+      "enrollment": 60,
+      "brief_summary": "TNF alfa blockers are widely used for treatment of severe psoriasis. These biologics are well-tolerated with few side effects.\n\nUnfortunately not all patients respond adequately to treatment with tnf alfa blockers. Some do not respond at all while others respond initially but gradually lose effect despite increased dose and more frequent administration.\n\nThe cause of treatment failure is largely unknown and it may be production of tnf-alfa neutralizing antibodies. This has been demonstrated in p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female\n* Age above 18\n* Psoriasis\n* Indication for treatment with tnf alfa blocking drug\n* Written informed consent obtained\n\nExclusion Criteria:\n\n* Severe psychiatric disorder\n* No indication for treatment with tnf-alfa blocking drug\n* Pregnancy\n* Breastfeeding\n* No w",
+      "endpoints": [
+        "change in concentration of tnf-alfa antibodies in serum"
+      ],
+      "sponsor": "University Hospital, Gentofte, Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT01657513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07138898",
+      "title": "Immunosuppressant Management in Rheumatology Patients Undergoing Elective Total Shoulder Arthroplasty",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09",
+      "completion_date": "2027-09",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to assess the incidence of rheumatologic flares, changes in pain scores (VAS), changes in functional outcomes (PROMIS), wound complications, surgical site infections, and return trips to the operating room for rheumatology patients following shoulder replacements, comparing those who stop their immunosuppressants preoperatively for the same amount of time as suggested in the literature for hip and knee arthroplasty versus those who hold the medications for a shorter ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults aged 18 years and older at the time of informed consent;\n2. Diagnosis of rheumatic disease: rheumatoid arthritis (RA), psoriatic arthritis (PA) , ankylosing spondylitis (AS), systemic lupus erythematosus (SLE), juvenile idiopathic arthritis (JIA), spondyloarthritis, po",
+      "endpoints": [
+        "Incidence of wound complications",
+        "Incidence of superficial surgical site infections",
+        "Incidence of deep surgical site infections"
+      ],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT07138898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06673134",
+      "title": "Prospective Registry Study and Clinical Observation of Children With Crohn's Disease",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-12-01",
+      "completion_date": "2028-07-24",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "To evaluate the clinical manifestations, treatment options, and improved clinical outcomeof children with Crohn's disease in real-world Settings: (1) analysis of clinical manifestations; (2) probability of using the same treatment options; (3) Clinical outcome;",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children under 17 years old;\n* Children with a definite diagnosis of Crohn's disease;\n* Patients and their guardians must sign informed consent;\n\nExclusion Criteria:\n\n* Other conditions deemed inappropriate by the doctor to participate in the study;",
+      "endpoints": [
+        "To evaluate the clinical manifestations, treatment options, and clinical outcomes of Crohn's disease in children in real-world Settings"
+      ],
+      "sponsor": "Tongji Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06673134"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06604728",
+      "title": "Evaluation of Effectiveness and Tolerance of Intravenous and Subcutaneous Biological Drugs in Gastrointestinal Diseases (BIOES)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-09-04",
+      "completion_date": "2025-09-01",
+      "country": "Italy",
+      "enrollment": 400,
+      "brief_summary": "Biologics are effective pharmacological treatments for Inflammatory Bowel Disease (IBD). To date, in the context of these pathologies, the formulations that can be administered subcutaneously are available for all the biological agents on the market (infliximab, adalimumab, golimumab, vedolizumab and ustekinumab) and can guarantee self-administration of the therapy at home with a reduction in hospital admissions , improved pharmacokinetics and pharmacoeconomic benefits For these reasons, the con",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years;\n* Confirmed diagnosis of IBD (Crohn's disease, ulcerative colitis or indeterminate colitis)\n* Intravenous therapy with vedolizumab or infliximab; OR\n* Patients who for clinical reasons initiated subcutaneous vedolizumab or infliximab therapy at least 2 and up t",
+      "endpoints": [
+        "The percentage of patients who maintain clinical remission"
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT06604728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00409617",
+      "title": "A Multi-Center, Open-Label Study of the Fully Human Anti-TNF Monoclonal Antibody Adalimumab for the Induction and Maintenance of Clinical Remission in Subjects With Moderate to Severe Crohn's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-07",
+      "country": "France, Spain, Finland, Norway, Czechia, Switzerland, Greece, Austria, Italy, Slovakia, Denmark, Germany, Ireland, United Kingdom, Portugal, Sweden, Belgium",
+      "enrollment": 945,
+      "brief_summary": "The purpose of this study is to evaluate the safety of adalimumab for treatment of patients with moderate to severe Crohn's Disease (CD) and to measure the effects of treatment on patient general well-being, health-related quality of life (QoL), fistula healing, CD-related extra-intestinal manifestations, work performance, and overall activity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of moderate to severe Crohn's Disease confirmed by endoscopy or radiologic evaluation for greater than 4 months (16 weeks)\n* Inadequate response to conventional therapy for Crohn's Disease\n* Subjects \\>=18 and \\<=75 years of age and in good health (Investigator discr",
+      "endpoints": [
+        "Number of Participants in Clinical Remission at Treatment Week 20. Clinical Remission Defined as Harvey Bradshaw Index (HBI) Score Less Than 5."
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00409617"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00517296",
+      "title": "EUS Guided Treatment With Humira for Crohn's Perianal Fistulas",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "This study is to assess whether utilizing endoscopic ultrasound(EUS) to guide treatment can improve durable fistula healing in patients with Crohn's perianal fistulas and to get preliminary information regarding the effectiveness of Adalimumab for Crohn's perianal fistulas.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA patient may be considered for study participation if all of the following apply:\n\n* Male and Female aged 18 years or older; and\n* A confirmed diagnosis of Crohn's disease and one or more identifiable perianal fistulas.\n\nExclusion Criteria:\n\nA patient will be excluded from the ",
+      "endpoints": [
+        "Number of Participants With Durable Fistula Healing"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00517296"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00408629",
+      "title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Study of the Human Anti-TNF Monoclonal Antibody Adalimumab for the Induction and Maintenance of Clinical Remission in Subjects With Moderately to Severely Active Ulcerative Colitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2010-03",
+      "country": "Israel, France, Spain, Norway, Czechia, Switzerland, Austria, Hungary, Denmark, Australia, Germany, New Zealand, Portugal, Poland, Canada, Argentina, Belgium, United States",
+      "enrollment": 518,
+      "brief_summary": "This was a Phase 3, multicenter, randomized, double-blind, placebo-controlled trial designed to evaluate the efficacy and safety of the human anti-tumor necrosis factor (TNF) monoclonal antibody adalimumab (ADA) in patients with moderately to severely active ulcerative colitis (UC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants \\>=18 years of age and in good health (Investigator discretion) with a recent stable medical history\n2. Diagnosis of UC for greater than 90 days prior to Baseline\n3. Diagnosis of active UC confirmed by colonoscopy with biopsy or flexible sigmoidoscopy with biopsy",
+      "endpoints": [
+        "Proportion of Participants Who Achieved Clinical Remission Per Mayo Score at Week 8",
+        "Proportion of Participants Who Achieved Clinical Remission Per Mayo Score at Week 52"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00408629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03640637",
+      "title": "Accuracy of PET/MRI in Diagnosis and Treatment Evaluation of Children and Adolescents With Inflammatory Bowel Disease",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-18",
+      "completion_date": "2021-08",
+      "country": "Denmark",
+      "enrollment": 75,
+      "brief_summary": "The purpose of this study is to test the utility of PET/MRI in diagnosis and management of Inflammatory bowel disease (IBD) in children and adolescents, hereby\n\n* To test if PET/MRI scan is an accurate method to diagnose and differentiate Crohn's disease and Ulcerous Colitis in children and adolescents suspected of IBD.\n* To evaluate whether PET/MRI scan in children and adolescents with Crohn's disease is an accurate method to diagnose relapses and to monitor the effect of biological treatment w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Suspected of having IBD\n* Planned to undergo standard evaluation OR\n* Known Crohn's disease about to start anti-TNF therapy due to steroid dependency or disease relapse.\n\nExclusion Criteria:\n\n* Active or prior diagnosis of inflammatory disease other than IBD\n* Active or prior ",
+      "endpoints": [
+        "Sensitivity, specificity, accuracy and predictive value of PET/MRI at diagnosis of IBD and in differentiating Crohn's disease and Ulcerous colitis.",
+        "Sensitivity, specificity and accuracy of PET/MRI in diagnosing disease flare in Crohn's disease and to evaluate inflammatory response to anti-TNF treatment."
+      ],
+      "sponsor": "Odense University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03640637"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04089514",
+      "title": "Pan-EU Real-World Experience With Imraldi®",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-06-30",
+      "completion_date": "2021-11-30",
+      "country": "Spain, Italy, Germany, Ireland, United Kingdom, Belgium",
+      "enrollment": 1000,
+      "brief_summary": "The primary objective of this study is to evaluate candidate predictors of persistence on adalimumab (Imraldi®) participants diagnosed with immune-mediated inflammatory disease in Europe (EU).\n\nThe secondary objectives of this study are to describe participant clinical characteristics at baseline, utilization of Imraldi® over time, biologic drug effectiveness over time, participant satisfaction with biologic administration, routine laboratory values and clinical evaluation measurements over time",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Initiation on Imraldi® therapy after 18th October 2018, as part of routine treatment immediately after transitioning from at least 16 weeks' treatment with originator adalimumab (Humira®)\n* Availability of at least one Baseline disease score (i.e. within 16 weeks prior or up t",
+      "endpoints": [
+        "Candidate Predictors of Persistence on Adalimumab"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT04089514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02450513",
+      "title": "Adalimumab Trough Concentrations in Crohn's Disease: A Pilot Pharmacokinetic Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2016-05-25",
+      "country": "Belgium",
+      "enrollment": 30,
+      "brief_summary": "Observational pharmacokinetics study of adalimumab in patients with active refractory Crohn's disease who are naïve to TNF antagonist therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with confirmed diagnosis of Crohn's disease, fulfilling the criteria for reimbursement (Belgium).\n* Patients with active disease defined as a Harvey-Bradshaw index \\>4 and/or a C-reactive protein concentration \\>5 mg/l.\n* Informed consent.\n\nExclusion Criteria:\n\n* Pati",
+      "endpoints": [
+        "Proportion of patients in clinical remission"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT02450513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03885713",
+      "title": "Identification of Predictive Biomarkers for Response to Biologic Therapies and Tofacitinib in Inflammatory Bowel Disease by Proteomic and Mass Cytometry Approaches",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-09-10",
+      "completion_date": "2024-12-31",
+      "country": "Spain",
+      "enrollment": 180,
+      "brief_summary": "Prospective, multicentre trial which the biologic treatment will be initiated by clinical indication. The treatment selection anti-TNFα (infliximab, adalimumab or golimumab), vedolizumab, ustekinumab and tofacitinib will be made at the discretion of the clinician. There will be no random assignment of treatment. The drugs will be used in the approved indications and conditions of use.",
+      "eligibility_criteria": "Group 1: Patients with IBD\n\nInclusion Criteria:\n\n* Over 18 years.\n* Diagnosis of IBD according to the criteria of the European Crohns and Colitis Organization (ECCO).\n* Have indication of treatment with a biologic drug or tofacitinib.\n* Be the first received drug with a given mechanism of action (an",
+      "endpoints": [
+        "Identify predictive tissue and blood biomarkers for response to biologic therapies and tofacitinib in Crohn´s disease and ulcerative colitis"
+      ],
+      "sponsor": "Fundación de Investigación Biomédica - Hospital Universitario de La Princesa",
+      "url": "https://clinicaltrials.gov/study/NCT03885713"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07388446",
+      "title": "Role of Mucosal Associated Invariant T Cells in Hidradenitis Suppurativa",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2027-02-01",
+      "country": "France",
+      "enrollment": 45,
+      "brief_summary": "Hidradenitis Suppurativa (HS) is a chronic, debilitating inflammatory skin disease characterized by painful, purulent lesions primarily in skin folds. Its pathogenesis remains poorly understood. The clinical benefit observed with both antibiotics and immunosuppressive therapies suggests HS may involve an abnormal immune response to skin microbiota.\n\nMucosal-associated invariant T (MAIT) cells are immune cells that bridge innate and adaptive immunity and are known to regulate microbial flora. Dys",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject aged 18 to 65 years (included)\n* Subject able to read, understand and give documented informed consent\n* Subject willing and able to comply with the protocol requirements for the duration of the study\n* Subject with health insurance coverage according to local regulati",
+      "endpoints": [
+        "Frequency of MAIT cells within CD45+ cells in the blood of HS patients"
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT07388446"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01670240",
+      "title": "Adalimumab (Humira) in the Treatment of Chronic Pouchitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2016-01",
+      "country": "Denmark",
+      "enrollment": 13,
+      "brief_summary": "This study wants to investigate the efficiency of biological treatment for chronic pouchitis. Chronic pouchitis is inflammation in a reconstruction after removal of the colon, a pouch. It is examined in patients with ulcerative colitis.\n\nThe primary objective evaluation is to evaluate the clinically effect of biological therapy (adalimumab) in patients with chronic pouchitis.\n\nSecondary objective is to evaluate the effect of biological therapy on the endoscopical and histological inflammatory ac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Operated with proctocolectomy and construction of an IPAA\n* Prior to surgery diagnosed with ulcerative colitis according to established clinically, radiologic, endoscopic and histological criteria.\n* Diagnosed with chronic pouchitis as defined above\n* PDAI ≥ 7, with the clinic",
+      "endpoints": [
+        "Clinical response on treatment with Adalimumab"
+      ],
+      "sponsor": "Odense University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01670240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04154852",
+      "title": "Prospective, Single-centre, Double-Blind, Randomised, Placebo-controlled Study Evaluating Efficacy of Adalimumab + Methotrextate Compared With Placebo + Methotrexate in Patients With Early Oligoarthritis (ADEOS)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2017-01-16",
+      "country": "United Kingdom",
+      "enrollment": 22,
+      "brief_summary": "The purpose of this study is to investigate adalimumab, a drug that is currently licensed for treatment of patients with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and inflammatory bowel disease (Crohn's disease). It is a protein (human monoclonal antibody) that is designed to block the effects of an inflammatory cytokine, tumour necrosis factor alpha (TNF alpha) which is a causative factor in joint inflammation. It is given as a subcutaneous injection.\n\nManagement of esta",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects presenting at the rheumatology clinic who meet all of the following criteria will be considered for enrolment into the study:-\n\n* Male and female patients aged between 18 and 80 years.\n* Oligoarthritis defined as inflammatory arthritis affecting ≤ 4 joints\n* At least 1 ",
+      "endpoints": [
+        "Patients in remission at 24 weeks."
+      ],
+      "sponsor": "University of Leeds",
+      "url": "https://clinicaltrials.gov/study/NCT04154852"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01012570",
+      "title": "The Effect of Adalimumab on the Bone Microstructure in Crohn's Disease (CD) Patients",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2009-08",
+      "completion_date": "",
+      "country": "Switzerland",
+      "enrollment": 34,
+      "brief_summary": "The investigators will study the effect of Adalimumab on the bone microstructure.\n\n* Trial with medicinal product",
+      "eligibility_criteria": "Inclusion criteria:\n\n* CDAI \\> 220 und \\< 450\n* Biologika naiv\n* CD seit \\> 6 Monaten\n\nExclusion criteria:\n\n* other TNF-Blocker\n* Steroids \\> 40 mg\n* Malignoma in der Anamnesis",
+      "endpoints": [],
+      "sponsor": "University of Zurich",
+      "url": "https://clinicaltrials.gov/study/NCT01012570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01958827",
+      "title": "A Multicenter Open-label Study of the Human Anti-TNF Monoclonal Antibody Adalimumab to Investigate Efficacy, Safety and Pharmacokinetics After Dose Escalation in Japanese Subjects With Crohn's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2015-10",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study is to investigate the efficacy, safety and pharmacokinetics after dose escalation in Japanese subjects with Crohn's Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject ≥ 15 years of age at the time of informed consent.\n* Subject with Crohn's disease who received induction treatment of commercially available Humira® (160 mg initially and 80 mg at 2 weeks after initial dose), achieved response after initial dose, and then lost response",
+      "endpoints": [
+        "Percentage of Participants Who Achieved Clinical Response 50 (CR50; Crohn's Disease Activity Index [CDAI] Decrease ≥ 50 From Week 0) at Week 8"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01958827"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00055523",
+      "title": "A Phase II Study of the Human Anti-TNF Antibody Adalimumab for the Induction of Clinical Remission in Subjects With Crohn's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "Purpose of the study is to test whether adalimumab can induce clinical remission in subjects with active Crohn's disease when compared to placebo (an inactive substance)",
+      "eligibility_criteria": "Inclusion:\n\n* Diagnosis of Crohn's disease\n* CDAI score at baseline of between 220 and 450\n* Normal laboratory parameters\n* Willing and able to give informed consent\n\nExclusion:\n\n* Diagnosis of ulcerative colitis\n* Women cannot be pregnant or breastfeeding\n* No previous use of infliximab or other an",
+      "endpoints": [
+        "comparison of the induction of clinical remission",
+        "(achievement of a CDAI <150) of adalimumab 40 mg and 80 mg vs. placebo at Week 4."
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00055523"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05205603",
+      "title": "Efficacy of Mesalazine Combined With Biologics in the Treatment of Moderate to Severe Ulcerative Colitis: a Multicenter, Prospective, Randomized, Controlled Clinical Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-15",
+      "completion_date": "2025-01-15",
+      "country": "China",
+      "enrollment": 438,
+      "brief_summary": "Endocopic remission rates of moderate to severe ulcerative colitis are low. Biologics including Vedolizumab, infliximab, and adalimumab are effective in induction and maintainence of ulcerative colitis. The role of 5-ASA in promoting a higher rate of endocsopic remission is unclear. We aim to evaluate the efficacy of combination of 5-ASA and biologics in treating ulcerative colitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with moderate and severe ulcerative colitis;\n2. Subjects were above 18 years old and below 80 years;\n3. Indications of 5-ASA or biological treatment;\n4. According to the clinical symptoms, ulcerative colitis was diagnosed by endoscopic changes, pathological manifesta",
+      "endpoints": [
+        "endoscopic remission rate at 12 months"
+      ],
+      "sponsor": "Sixth Affiliated Hospital, Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05205603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01086059",
+      "title": "Humira (Adalimumab) Pregnancy Exposure Registry: OTIS Rheumatoid Arthritis in Pregnancy Project",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2019-10",
+      "country": "United States",
+      "enrollment": 944,
+      "brief_summary": "The purpose of the OTIS Autoimmune disease in pregnancy study is to monitor planned and unplanned pregnancies exposed to certain medications, to evaluate the possible teratogenic effect of these medications and to follow live born infants for one year after birth. With respect to fetal outcome, it is important to evaluate the spectrum of outcomes that may be relevant to a medication exposure during pregnancy, and these include both easily recognizable defects that are visible at birth, as well a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Currently pregnant",
+      "endpoints": [
+        "Major malformations"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT01086059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03397108",
+      "title": "Assessing the Drug Exposure Risk of Infants Breastfed by Women With Inflammatory Bowel Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-08-31",
+      "completion_date": "2024-11-05",
+      "country": "Canada",
+      "enrollment": 79,
+      "brief_summary": "Breastfeeding is beneficial to both mother and baby. However, many breastfeeding women are affected by long-term health conditions and need to take medications.\n\nInflammatory Bowel Disease (IBD) is marked by an abnormal response of the body's immune system, and high levels of certain proteins that cause inflammation (Cytokines like Tumor Necrosis Factor-alpha or TNF). A group of drugs called \"biologics\" target and stop these proteins from causing inflammation, and have been successfully used to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Breastfeeding women with IBD or healthy breastfeeding women in the first 4-month postpartum period\n\nExclusion Criteria:\n\n* unable to communicate in English\n* Present illness of chronic inflammatory conditions (except IBD)\n* Mastitis\n* Present acute or chronic infection\n* use o",
+      "endpoints": [
+        "Levels of TNF (Tumor Necrosis Factor Alpha) and TNF-dependent Chemokines (MCP1, MIP-1beta and IP10) in Breast Milk of Women With IBD and Healthy Controls by Multiplex Assay"
+      ],
+      "sponsor": "The Hospital for Sick Children",
+      "url": "https://clinicaltrials.gov/study/NCT03397108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02322008",
+      "title": "Anti-TNF Therapy in Danish Patients With Inflammatory Bowel Diseases in Clinical Practice",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2011-03",
+      "country": "N/A",
+      "enrollment": 1035,
+      "brief_summary": "Can genetic markers be used to predict anti-TNF response? A cohort was established to identify SNPs associated with anti-TNF therapy in patients with inflammatory bowel disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CD or UC, treated with anti-TNF\n\nExclusion Criteria:\n\n* Missing data",
+      "endpoints": [
+        "3-step scale"
+      ],
+      "sponsor": "Regionshospitalet Viborg, Skive",
+      "url": "https://clinicaltrials.gov/study/NCT02322008"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02750800",
+      "title": "Post-marketing Observational Study to Evaluate the Effect of HUMIRA (Adalimumab) Treatment With AbbVie's Patient Support Program on Patient Reported Outcomes and Health Resource Utilization in Inflammatory Arthritis, Psoriasis and Inflammatory Bowel Diseases in Hungary in a Real-life Setting: VALUE",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-04-07",
+      "completion_date": "2018-04-03",
+      "country": "N/A",
+      "enrollment": 427,
+      "brief_summary": "The objective of this post-marketing observational study (PMOS) was to evaluate the effectiveness of adalimumab plus the AbbVie Care 2.0 patient support program in participants with rheumatoid arthritis (RA), ankylosing spondylitis (AS), psoriatic arthritis (PsA), psoriasis (Ps), Crohn's disease (CD) or ulcerative colitis (UC) in the routine clinical setting in Hungary.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Diagnosis of rheumatoid arthritis (RA), ankylosing spondylitis (AS), psoriatic arthritis (PsA), psoriasis (Ps), Crohn's disease (CD) or ulcerative colitis (UC) by the treating physician\n* Age ≥ 18 years at the time of enrollment\n* RA, AS, PsA, Ps, UC or CD patients for whom ad",
+      "endpoints": [
+        "Mean Change From Baseline in Short Form 36 Version 2.0 (SF-36 V2) Physical Component Summary (PCS) Score at 12 Months"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02750800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02087878",
+      "title": "A Multicenter Study to Collect Samples for Future Evaluation of Biomarkers and Genetic Mutations in Patients Exposed to Adalimumab With Crohn's Disease (CD) or Ulcerative Colitis (UC) Who Developed Hepatosplenic T-Cell Lymphoma (HSTCL)",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2014-03-31",
+      "completion_date": "2019-09-30",
+      "country": "Italy",
+      "enrollment": 0,
+      "brief_summary": "To collect and store blood and biopsy samples obtained from CD or UC patients exposed to adalimumab and diagnosed with Hepatosplenic T-cell Lymphoma (HSTCL), for the purpose of identifying potential biomarkers and genetic mutations in patients who have developed HSTCL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female who has received a single dose of HUMIRA prior to a confirmed diagnosis of HSTCL.\n* Confirmed diagnosis of CD or UC as documented by a Gastroenterologist or physician who diagnosed the CD or UC.\n* Confirmed diagnosis of HSTCL as determined by a biopsy performed ",
+      "endpoints": [
+        "Collection of Samples"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02087878"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01083121",
+      "title": "Post-Marketing Surveillance of Humira Injection in Korean Patients Under the \"New-Drug Re-examination\"",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2012-06",
+      "country": "South Korea",
+      "enrollment": 1779,
+      "brief_summary": "Patients who take Humira as prescribed by physicians as per Korean label will be enrolled and observed in normal medical practice setting for not less than 3 months following first dose of Humira. Information on demographics, diagnosis and medical history, results of tuberculosis skin test, results of chest X-ray, Humira treatment information, concomitant medication, physician's global assessment for effectiveness, disease activity assessment for rheumatoid arthritis, disease activity assessment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients (19 years and above) with one of the following indications:\n\n  * Moderately to severely active rheumatoid arthritis or\n  * active and progressive psoriatic arthritis when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate ",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs)"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01083121"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02914717",
+      "title": "One Year Outcome of Golimumab for Patients With Moderate-to-severe Ulcerative Colitis: a Retrospective Multi-centre Belgian Cohort Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-04-27",
+      "completion_date": "2018-05",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Ulcerative colitis (UC) is a chronic inflammatory condition causing continuous mucosal inflammation of the colon, which is accompanied by episodes of bloody diarrhoea and abdominal pain. Both infliximab and adalimumab have been used with success for moderate-to-severe UC refractory to conventional therapy. More recently, golimumab, another anti-TNF antibody, has been added to the treatment armamentarium.\n\nIn the multi-centre, double-blind, placebo-controlled PURSUIT trial, patients with moderate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. At least 18 years of age\n2. Established diagnosis of UC for at least 3 months\n3. Moderate-to-severe ulcerative colitis (Mayo score ≥ 6, including endoscopic sub-score ≥ 2)\n4. Previous conventional therapy for a period of at least 3 months with aminosalicylates and at least 3 ",
+      "endpoints": [
+        "Steroid-free clinical response at week 26"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT02914717"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06180382",
+      "title": "Comparison of Vedolizumab Treatment to Adalimumab Dose Intensification in Crohn's Disease Patients With Loss of Response or Biomarker Activity to Adalimumab on First Line With Therapeutic Drug Concentration: A Randomized, Multicentre, Controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-10-31",
+      "completion_date": "2027-01",
+      "country": "France",
+      "enrollment": 220,
+      "brief_summary": "A substantial fraction of IBD patients with an initial response to infliximab or adalimumab later experience re-emerging active disease despite ongoing anti-Tumour Necrosis Factor (TNF) agents maintenance therapy. The optimal intervention in patients with secondary loss-of-response (LOR) is still poorly defined, as there are still scant data on how best to choose the next intervention from among dose-intensification, switch to another anti-TNF or switch out of the anti-TNF class. Moreover, accor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Major patient and having given consent to participate in the study\n* Patients with Crohn's disease who have responded primary to Adalimumab princeps or similar bio with loss of response to Adalimumab (40 mg every two weeks) with therapeutically adequate levels of ADA (\\> 7.5 μ",
+      "endpoints": [
+        "ADA optimized versus Vedolizumab as second line"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Saint Etienne",
+      "url": "https://clinicaltrials.gov/study/NCT06180382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00055497",
+      "title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study of the Human Anti-TNF Monoclonal Antibody Adalimumab for the Maintenance of Clinical Remission in Subjects With Crohn's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 276,
+      "brief_summary": "The objectives were: (1) To demonstrate the efficacy of adalimumab in the maintenance of clinical remission up to 56 weeks in participants with Crohn's disease who participated in NCT00055523; (2) To delineate the safety of adalimumab when administered to participants with Crohn's disease up to 56 weeks.",
+      "eligibility_criteria": "Inclusion:\n\n* Patient must have successfully completed the induction study NCT00055523\n* Diagnosis of Crohn's disease\n* Willing and able to give informed consent\n\nExclusion:\n\n* Diagnosis of ulcerative colitis\n* Pregnancy or breastfeeding\n* Previous use of infliximab or other anti-TNF antagonists\n* P",
+      "endpoints": [
+        "Number of Randomized Participants Achieving Clinical Remission at Week 56 - Non-Responder Imputation (NRI)",
+        "Number of Randomized Participants Achieving Clinical Remission at Week 56 - Last Observation Carried Forward (LOCF)"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00055497"
+    }
+  ],
+  "timestamp": "2026-03-04T15:16:57.608867",
+  "success": true,
+  "error_message": null
+}

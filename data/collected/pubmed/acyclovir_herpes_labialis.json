@@ -1,0 +1,550 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes labialis",
+    "query_string": "Acyclovir AND herpes labialis"
+  },
+  "data": {
+    "query": "Acyclovir AND herpes labialis",
+    "results": [
+      {
+        "pmid": "28971780",
+        "title": "Herpes Labialis: An Update.",
+        "abstract": "Herpes labialis is characterized by recurrent vesicular eruptions primarily on the lips and perioral skin. The condition is contagious, can cause significant discomfort/pain, and can have an adverse effect on the quality of life.",
+        "journal": "Recent patents on inflammation & allergy drug discovery",
+        "year": "2017",
+        "authors": [
+          "Leung Alexander K C",
+          "Barankin Benjamin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Antiviral Agents",
+          "Herpes Labialis",
+          "Humans",
+          "Pain",
+          "Patents as Topic",
+          "Quality of Life",
+          "Recurrence",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28971780/"
+      },
+      {
+        "pmid": "19454101",
+        "title": "Herpes labialis.",
+        "abstract": "Herpes simplex virus type 1 infection usually causes a mild, self-limiting painful blistering around the mouth, with 20-40% of adults affected at some time. Primary infection usually occurs in childhood, after which the virus is thought to remain latent in the trigeminal ganglion. Recurrence may be triggered by factors such as exposure to bright light, stress, and fatigue.",
+        "journal": "BMJ clinical evidence",
+        "year": "2006",
+        "authors": [
+          "Worrall Graham"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Gene Library",
+          "Herpes Labialis",
+          "United States",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454101/"
+      },
+      {
+        "pmid": "40943411",
+        "title": "Topical and Systemic Therapeutic Approaches in the Treatment of Oral Herpes Simplex Virus Infection: A Systematic Review.",
+        "abstract": "Herpes Simplex Virus (HSV) infections, caused primarily by HSV-1 and HSV-2, are among the most prevalent viral diseases worldwide, with recurrent manifestations that significantly affect quality of life. Therapeutic strategies include both topical and systemic interventions, each with distinct goals. This systematic review was conducted according to PRISMA guidelines. A comprehensive search of PubMed, Scopus, and Web of Science (2005-2025) identified studies evaluating topical or systemic treatments for HSV. Eligible studies included randomized controlled trials and observational studies reporting validated clinical outcomes. Topical treatments, including acyclovir cream, docosanol, and newer formulations, primarily reduce lesion duration and alleviate local symptoms when applied early. These interventions have limited systemic absorption and generally do not influence recurrence frequency. Novel delivery methods and combination strategies, such as acyclovir-hydrocortisone formulations",
+        "journal": "International journal of molecular sciences",
+        "year": "2025",
+        "authors": [
+          "Mancini Antonio",
+          "Inchingolo Angelo Michele",
+          "Marinelli Grazia",
+          "Trilli Irma",
+          "Sardano Roberta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antiviral Agents",
+          "Administration, Topical",
+          "Herpes Simplex",
+          "Acyclovir",
+          "Herpesvirus 1, Human",
+          "Stomatitis, Herpetic",
+          "Valacyclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40943411/"
+      },
+      {
+        "pmid": "36914303",
+        "title": "COMPARATIVE EFFICACY OF ANTIVIRAL AGENTS FOR PREVENTION AND MANAGEMENT OF HERPES LABIALIS: A SYSTEMATIC REVIEW AND NETWORK META-ANALYSIS.",
+        "abstract": "To compare the relative efficacy and safety of antiviral agents used in the prevention and management of herpes labialis through a network meta-analysis of clinical trials.",
+        "journal": "The journal of evidence-based dental practice",
+        "year": "2023",
+        "authors": [
+          "Koe Kim Hoe",
+          "Veettil Sajesh K",
+          "Maharajan Mari Kannan",
+          "Syeed M Sakil",
+          "Nair Athira Balakrishnan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Antiviral Agents",
+          "Clobetasol",
+          "Herpes Labialis",
+          "Valacyclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36914303/"
+      },
+      {
+        "pmid": "31497896",
+        "title": "Recurrent herpes labialis in the pediatric population: Prevalence, therapeutic studies, and associated complications.",
+        "abstract": "Recurrent herpes labialis (RHL) is an incredibly common condition, though the medical literature evaluating pediatric aspects is limited. This paper assesses prevalence and therapeutic studies of pediatric RHL as well as disease complications. A comprehensive literature search of English-language citations based on PubMed queries of selected terms was performed, with exclusion if methodology was not discussed, or if studies had 10 or fewer patients. RHL prevalence in pediatrics has been assessed by measures of point and periodic prevalence, though methodologic limitations may under- or over-estimate the true prevalence of RHL. Studies have been conducted to evaluate therapeutic safety, tolerability, and efficacy of antivirals in the pediatric population. Pediatric RHL point prevalence ranges from 0.72% to 5.2% depending on the population study and the methodologies used. Pediatric RHL carries a significant public health burden and is often implicated in patients with eczema herpeticum,",
+        "journal": "Pediatric dermatology",
+        "year": "2019",
+        "authors": [
+          "Ahluwalia Jusleen",
+          "Han Allison",
+          "Kusari Ayan",
+          "Eichenfield Lawrence F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Child",
+          "Herpes Labialis",
+          "Humans",
+          "Prevalence",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31497896/"
+      },
+      {
+        "pmid": "20873400",
+        "title": "The role of topical 5% acyclovir and 1% hydrocortisone cream (Xerese™) in the treatment of recurrent herpes simplex labialis.",
+        "abstract": "Recurrent herpes simplex labialis (HSL), also known as orofacial herpes or cold sores, is a common clinical presentation of herpes simplex virus (HSV) infection. It may manifest as painful, distressing, and cosmetically displeasing vesicles on the lips, nose, and nasal septum. Although oral or topical treatment with antiviral agents can reduce the replication of HSV-1, the primary benefits of antiviral therapies for recurrent HSL have been limited to modest reductions in healing time; they do not mitigate the accompanying immune-mediated response of the host to the virus. The addition of a topical corticosteroid to an antiviral cream has been hypothesized to improve the clinical outcome of HSL by decreasing the HSV-related immune-mediated inflammatory skin reaction. A recently developed topical cream containing 5% acyclovir and 1% hydrocortisone (AHC) in a novel cream vehicle has been shown to be safe and effective for the early treatment of recurrent HSL in immunocompetent adult and a",
+        "journal": "Postgraduate medicine",
+        "year": "2010",
+        "authors": [
+          "Hull Christopher M",
+          "Brunton Stephen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Antiviral Agents",
+          "Drug Combinations",
+          "Herpes Labialis",
+          "Humans",
+          "Hydrocortisone",
+          "Immunocompetence",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20873400/"
+      },
+      {
+        "pmid": "39506756",
+        "title": "Therapeutic effects of acyclovir and acyclovir-clobetasol nanofibers vs. cream formulation for recurrent herpes labialis.",
+        "abstract": "This study aims to compare the therapeutic effects of acyclovir nanofiber and acyclovir-clobetasol nanofiber formulations with their non-nano formulations (cream formulation) on recurrent labial herpes.",
+        "journal": "BMC oral health",
+        "year": "2024",
+        "authors": [
+          "Mirzaei Shahla",
+          "Nejad Zahra Golestan",
+          "Khozaimeh Faezeh",
+          "Mohammadi Solmaz",
+          "Loqmani Alireza"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Humans",
+          "Herpes Labialis",
+          "Clobetasol",
+          "Female",
+          "Adult",
+          "Antiviral Agents",
+          "Male",
+          "Nanofibers",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39506756/"
+      },
+      {
+        "pmid": "16620481",
+        "title": "Herpes labialis.",
+        "abstract": "",
+        "journal": "Clinical evidence",
+        "year": "2005",
+        "authors": [
+          "Worrall Graham"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Herpes Labialis",
+          "Humans",
+          "Secondary Prevention",
+          "Sunscreening Agents",
+          "Valacyclovir",
+          "Valine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16620481/"
+      },
+      {
+        "pmid": "8555890",
+        "title": "Acyclovir in recurrent herpes labialis.",
+        "abstract": "",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "1996",
+        "authors": [
+          "Worrall G"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "Herpes Labialis",
+          "Humans",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8555890/"
+      },
+      {
+        "pmid": "6355056",
+        "title": "Acyclovir in the management of herpes labialis.",
+        "abstract": "The efficacy of topical acyclovir in the treatment of herpes labialis has been evaluated in placebo-controlled trials with both the polyethylene glycol ointment and modified aqueous cream base preparations. Whereas a significant antiviral effect was demonstrated with acyclovir ointment in the two larger studies only favourable trends were demonstrated in the clinical parameters following early initiation of therapy. Significant clinical benefit was observed in a small single-centre study involving patients with frequent and generally more severe episodes of herpes labialis. In an animal model of experimental cutaneous herpes simplex virus infection acyclovir cream was found to be more effective than the ointment. This was confirmed in the first completed trial with acyclovir cream where a significant treatment effect was revealed on lesion duration and the inhibition of lesion development. Both topical preparations of acyclovir were well tolerated but acyclovir cream is to be preferred",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Yeo J M",
+          "Fiddian A P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Topical",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Herpes Labialis",
+          "Humans",
+          "Male",
+          "Ointments",
+          "Polyethylene Glycols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6355056/"
+      },
+      {
+        "pmid": "25188362",
+        "title": "Recent approval of Xerese in Canada: 5% acyclovir and 1% hydrocortisone topical cream in the treatment of herpes labialis.",
+        "abstract": "Herpes labialis is a frequently occurring viral infection of the lips and oral mucosa. Recurring lesions are induced by viral reactivation and replication, but the symptoms leading to morbidity, such as pain and inflammation, are immune-mediated. The introduction of 5% acyclovir/1% hydrocortisone in a topical cream (Xerese™) represents a therapeutic strategy directed at both of these pathogenic processes. Applied at the onset of prodromal symptoms, this combination treatment has a good safety profile and is more effective in reducing healing time than antiviral or anti-inflammatory agents alone. Although it was US FDA-approved for herpes labialis in 2009, Xerese™ has only recently been approved for use in Canada in October 2013. Herein, we review the basic science and clinical studies that support the efficacy of this topical combination acyclovir-hydrocortisone product in treating herpes labialis and examine its safety profile, as well as touch upon other therapies that have been show",
+        "journal": "Skin therapy letter",
+        "year": "2014",
+        "authors": [
+          "Nguyen H P",
+          "Stiegel K R",
+          "Downing C",
+          "Stiegel K R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Antiviral Agents",
+          "Canada",
+          "Drug Approval",
+          "Drug Combinations",
+          "Herpes Labialis",
+          "Humans",
+          "Hydrocortisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25188362/"
+      },
+      {
+        "pmid": "30189985",
+        "title": "Painful Oral Lesions.",
+        "abstract": "Painful oral vesiculoerosive diseases (OVD) include lichen planus, pemphigus vulgaris, mucous membrane pemphigoid, erythema multiforme, and recurrent aphthous stomatitis. OVD lesions have an immunopathic cause. Treatment is aimed at reducing the immunologic and the following inflammatory response. The mainstay of OVD management is topical or systemic corticosteroids to include topical triamcinolone, fluocinonide, and clobetasol, whereas systemic medications used in practice can include dexamethasone, prednisone, and prednisolone. Oral herpetic lesions can be primary or recurrent. If management is desired, they can be treated by topical or systemic antiviral drugs. Topical antiviral creams include prescription acyclovir, penciclovir and over-the-counter docosanol.",
+        "journal": "Dental clinics of North America",
+        "year": "2018",
+        "authors": [
+          "Hargitai Istvan A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Erythema Multiforme",
+          "Facial Pain",
+          "Humans",
+          "Lichen Planus",
+          "Pemphigoid, Benign Mucous Membrane",
+          "Pemphigus",
+          "Stomatitis, Aphthous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30189985/"
+      },
+      {
+        "pmid": "37157985",
+        "title": "[What is known about the diagnosis and treatment of herpes labialis?].",
+        "abstract": "Herpes labialis is one of the most common skin infections. In most people it is asymptomatic or mildly symptomatic, but very severe cases do occur. Herpes remains latent and can recur. Herpes labialis is a clinical diagnosis. If in doubt, additional testing can be carried out, usually polymerase chain reaction. There are no treatments that can eliminate the virus. In case of more severe symptoms and frequent recurrences, there may be an indication for treatment. In case of mild complaints, topical zinc sulphate/zinc oxide and analgesics (systemic or topical lidocaine) will suffice. More severe complaints and frequent recurrences can be treated with antiviral creams (Aciclovir) or with systemic antiviral medication (Valaciclovir). In frequent recurrences, prophylactic Valaciclovir can also be given for a period of many months. Treatment should be started as soon as possible and will slightly shorten the duration of the disease.",
+        "journal": "Nederlands tijdschrift voor tandheelkunde",
+        "year": "2023",
+        "authors": [
+          "Starink M V"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Herpes Labialis",
+          "Valacyclovir",
+          "Antiviral Agents",
+          "Acyclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37157985/"
+      },
+      {
+        "pmid": "8245888",
+        "title": "Natural history, management and complications of herpes labialis.",
+        "abstract": "Infection with herpes simplex virus (HSV) is a common worldwide problem. Primary infection with HSV-1 rarely causes significant problems although widespread involvement in atopic eczema can be life-threatening as may associated encephalitis. Keratoconjunctivitis, pharyngitis and hepatitis can also complicate primary infection. Twenty to 40% of the population at some stage have recurrent orolabial infections with HSV although in only 1% of these cases is this recurrence severe. Recurrent erythema multiforme appears to be associated with HSV-65% of patients are thought to have preceding herpes labialis. Many primary and recurrent infections with HSV-1 require little more than topical antiseptic therapy to control secondary infection. Systemic acyclovir, however, is indicated in various situations including complicated primary infection, infection in neonates, eczema herpeticum, HSV infections in the immunocompromised, and recurrent erythema multiforme. In the latter, prophylactic treatme",
+        "journal": "Journal of medical virology",
+        "year": "1993",
+        "authors": [
+          "Higgins C R",
+          "Schofield J K",
+          "Tatnall F M",
+          "Leigh I M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Herpes Labialis",
+          "Humans",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8245888/"
+      },
+      {
+        "pmid": "33212267",
+        "title": "Photodynamic therapy and Acyclovir in the treatment of recurrent herpes labialis: A controlled randomized clinical trial.",
+        "abstract": "Herpes Simplex Virus Type 1 (HSV-1) is one of the most widespread infections that can effect the orofacial region. Recurrent infection is considered a life-long oral health problem, leading to pain, discomfort, and social restriction due to esthetic features when active. Effective therapies are needed. This study aimed to compare photodynamic therapy (PDT), Topical Acyclovir (AC), and the association of both in the healing process and self-reported symptomologies of HSV-1 recurrences.",
+        "journal": "Photodiagnosis and photodynamic therapy",
+        "year": "2021",
+        "authors": [
+          "Ramalho Karen Müller",
+          "Cunha Sandra Ribeiro",
+          "Gonçalves Flavia",
+          "Escudeiro Gustavo Silva",
+          "Steiner-Oliveira Carolina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Herpes Labialis",
+          "Herpesvirus 1, Human",
+          "Humans",
+          "Photochemotherapy",
+          "Photosensitizing Agents",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33212267/"
+      },
+      {
+        "pmid": "8245889",
+        "title": "Prophylactic chemotherapy with acyclovir for recurrent herpes simplex labialis.",
+        "abstract": "The medical literature was reviewed and 11 clinical trials of prophylactic topical or peroral acyclovir for the suppression of recurrent herpes simplex labialis were identified. The results of these trials showed that prophylactic topical acyclovir was mostly ineffective, but that prophylactic peroral acyclovir, in doses ranging from 400 to 1,000 mg/day, reduced the frequency of herpes labialis during treatment by 50-78%. The reduction in the frequency of episodes of herpes labialis with acyclovir prophylaxis is less than the suppressive effect that has been reported for herpes genitalis (50-78% vs. 80-90%). In trials of prophylactic acyclovir for herpes labialis induced by experimental ultraviolet radiation, 26% of induced lesions developed within 48 hours of radiation exposure (\"immediate\" lesions) and, in contrast to \"delayed\" lesions that developed 2-7 days post-irradiation, were not suppressed by the antiviral compound. It is proposed that these treatment-unresponsive immediate le",
+        "journal": "Journal of medical virology",
+        "year": "1993",
+        "authors": [
+          "Spruance S L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Clinical Trials as Topic",
+          "Herpes Labialis",
+          "Humans",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8245889/"
+      },
+      {
+        "pmid": "21889905",
+        "title": "Current management and recommendations for access to antiviral therapy of herpes labialis.",
+        "abstract": "Herpes labialis is a common skin infective condition, worldwide, which is primarily caused by HSV-1. Recurrent episodes of herpes labialis, also known as cold sores, can be frequent, painful, long-lasting and disfiguring for infected patients. At present, there are two types of antivirals for the treatment of herpes labialis, topical and oral, which are available over the counter or as prescription-only. The aim of antiviral therapy is to block viral replication to enable shortening the duration of symptoms and to accelerate healing of the lesions associated with herpes labialis. This review examines the evidence for the effectiveness of current topical and oral antivirals in the management of recurrent episodes of herpes labialis. In most countries, oral antivirals for herpes labialis are available as prescription-only. However, in early 2010, the oral antiviral famciclovir was reclassified from prescription-only medicine to pharmacist-controlled status in New Zealand. The benefits an",
+        "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+        "year": "2012",
+        "authors": [
+          "Cunningham Anthony",
+          "Griffiths Paul",
+          "Leone Peter",
+          "Mindel Adrian",
+          "Patel Rajul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Aminopurine",
+          "Acyclovir",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Antiviral Agents",
+          "Disease Management",
+          "Drug Resistance, Viral",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Famciclovir",
+          "Herpes Labialis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21889905/"
+      },
+      {
+        "pmid": "15482124",
+        "title": "Review of antiviral therapy for herpes labialis, genital herpes and herpes zoster.",
+        "abstract": "Acyclovir (Zovirax) was approved for the treatment of herpesvirus infections almost two decades ago. It was the first agent in a novel group of antiviral medications that now include valacyclovir (Valtrex), penciclovir (Denavir and famciclovir (Famvir). These agents have made a dramatic impact on the morbidity associated with herpes simplex virus infections and herpes zoster. Topical and oral antiviral use have shown modest but statistically significant efficacy in treating herpes labialis with most studies demonstrating a significant reduction in episode length and/or healing time. Oral acyclovir, valacyclovir and famciclovir are efficacious and safe for the treatment of the first episode and recurrent genital herpes and are useful as suppressive therapy for individuals with frequent genital herpes recurrences. In addition, high doses of oral acyclovir, valacyclovir and famciclovir have been shown to speed the healing of herpes zoster, and data suggests that these agents also decrease",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2003",
+        "authors": [
+          "Moomaw Michelle D",
+          "Cornea Paul",
+          "Rathbun R Chris",
+          "Wendel Karen A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Labialis",
+          "Herpes Zoster",
+          "Humans",
+          "Immunocompromised Host",
+          "Nucleosides",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15482124/"
+      },
+      {
+        "pmid": "9498027",
+        "title": "Acyclovir cream prevents clinical and thermographic progression of recrudescent herpes labialis beyond the prodromal stage.",
+        "abstract": "Early treatment of recrudescent herpes labialis over the symptomatic area has been claimed to inhibit the clinical signs of recrudescent herpes labialis. Electronic infrared thermography can both recognise the prodromal phase and identify the area requiring drug therapy. Our objective was to use infrared thermography to identify prodromal herpes and follow the response to topical acyclovir cream therapy over the thermographically active area. Seventy instances of prodromal cold sores were confirmed thermographically. Zovirax cold sore cream (acyclovir) was applied 5 times per day for 5 days to the thermographically positive area. All returned after 72 h for a further thermographic and clinical examination of the initially active area. All 70 patients illustrated a localised increase in temperature over the symptomatic area during the prodromal stage. The development of a clinical herpes lesion was prevented in 46% of the patients. In the lesions that did develop, an 80% reduction in cl",
+        "journal": "Acta dermato-venereologica",
+        "year": "1998",
+        "authors": [
+          "Biagioni P A",
+          "Lamey P J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Cutaneous",
+          "Adult",
+          "Antiviral Agents",
+          "Disease Progression",
+          "Female",
+          "Herpes Labialis",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9498027/"
+      },
+      {
+        "pmid": "24456534",
+        "title": "Acyclovir Lauriad(®): a muco-adhesive buccal tablet for the treatment of recurrent herpes labialis.",
+        "abstract": "The treatment of recurrent herpes labialis remains a challenge in the 21st century. The virus is ubiquitous and there is no vaccine against the disease. Although recurrence episodes are usually of shorter duration than the primary episode, they are debilitating to patients and there is significant stigma associated with the disease. Acyclovir Lauriad(®) is a new topical agent that was approved by the US FDA in 2013 for the treatment of recurrent herpes labialis, which affects approximately 20-40% of the population worldwide. The drug is a muco-adhesive tablet, applied to the upper gum at the onset of prodromal symptoms. Utilizing Lauriad(®) technology, a biologically active compound traverses the mucous membrane to deliver a high concentration of acyclovir directly to the site of the herpes simplex virus infection. Data from a Phase III clinical trial shows that this may be a promising therapy for patients with recurrent herpes labialis.",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2014",
+        "authors": [
+          "Downing Christopher",
+          "Moayyad Jonathan",
+          "Tamirisa Aparna",
+          "Tyring Stephen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Buccal",
+          "Clinical Trials, Phase III as Topic",
+          "Herpes Labialis",
+          "Humans",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24456534/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:52:11.230328",
+  "success": true,
+  "error_message": null
+}

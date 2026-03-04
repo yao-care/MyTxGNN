@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Glycine",
+    "disease": "common cold"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03656198",
+      "title": "Non-specific Effects of Rabies Vaccine on the Incidence of Common Infectious Disease Episodes: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-08-29",
+      "completion_date": "2020-07-27",
+      "country": "Saint Kitts and Nevis",
+      "enrollment": 546,
+      "brief_summary": "Vaccines work by stimulating the body to produce a high-quality, rapid and specific immune response upon exposure to infection by a particular disease-causing microorganism - the microorganism targeted by the vaccine. Evidence is emerging that some vaccines may have additional 'non-specific effects' (NSEs); that is, effects on the immune system beyond the direct protection against the diseases for which the vaccines were developed. It has been proposed that rabies vaccine has protective NSEs in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA student registered at RUSVM, and in the Veterinary Preparatory (VP) program or the 1st or 5th semester of the Doctor of Veterinary Medicine (DVM) program\n\nExclusion Criteria:\n\nA student registered at RUSVM and in the VP program or the 1st or 5th semester of the DVM program wil",
+      "endpoints": [
+        "Number of self-reported new episodes of acute common infectious disease (CID), defined as any of the following: upper respiratory illness (URI) or influenza-like illness (ILI) or diarrhea (DIA) or undifferentiated febrile illness (UFI)"
+      ],
+      "sponsor": "Ross University School of Veterinary Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03656198"
+    }
+  ],
+  "timestamp": "2026-03-04T15:14:18.993333",
+  "success": true,
+  "error_message": null
+}

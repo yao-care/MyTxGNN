@@ -1,0 +1,933 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Carbamazepine",
+    "disease": "epilepsy"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208520",
+      "title": "Second-Line Treatment Choice for Epilepsy",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2003-07",
+      "completion_date": "2007-06",
+      "country": "Netherlands",
+      "enrollment": 60,
+      "brief_summary": "Most patients are prescribed valproate as their first antiepileptic drug. It is unknown which is the best second-line drug when patients do not become seizure free on valproate. This has led the Dutch Epilepsy Clinics Foundation (SEIN) to start the SLICE study. Adult patients with partial and/or tonic-clonic seizures, insufficiently responding to valproate, are recruited for this study. These patients are randomized to receive one of three other drugs. Patients wil initially use this drug next t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with generalized tonic-clonic, complex partial and/or simple partial seizures. The seizures should be well-defined according to the International Classification of Epileptic Seizures (1). Therefore, an accurate history and adequate neurophysiological data should",
+      "endpoints": [
+        "Percentage seizure free"
+      ],
+      "sponsor": "Dutch Epilepsy Clinics Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00208520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00007670",
+      "title": "CSP #428 - Treatment of Seizures in the Elderly Population",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 720,
+      "brief_summary": "New onset epilepsy in the elderly occurs in 45,000-50,000 elderly patients each year. These patients are especially vulnerable to side effects from medications because of changes caused by the aging process and the fact that these patients often have many common diseases for which they are already receiving medications for so that the likelihood of drug interactions is increased. Two new drugs, gabapentin and lamotrigine, have recently been approved by the FDA as antiepileptic drugs. These drugs",
+      "eligibility_criteria": "Veterans 60 years of age or older who have new onset, unprovoked seizures of focal onset, with or without secondary generalization.",
+      "endpoints": [],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00007670"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00612651",
+      "title": "A Phase I Trial of the Addition of the Farnesyl Transferase Inhibitor, SCH 66336, to Temodar for Patients With Grade 3 and 4 Malignant Gliomas",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2011-06",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "Objectives:\n\nTo determine maximum tolerated dose of farnesyl transferase inhibitor, SCH 66336, when administered w TEMODAR®.\n\nTo characterize any toxicity associated w combo of farnesyl transferase inhibitor, SCH 66336, \\& TEMODAR®.\n\nTo observe patients for clinical antitumor response when treated with combination of farnesyl transferase inhibitor, SCH 66336, \\& TEMODAR®.\n\nTo assess pharmacokinetics of SCH 66336 for patients on \\& not on enzyme inducing antiepileptic drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pts with MG histologically confirmed at diagnosis, who were treated previously with conventional external beam radiation \\& with or without chemotherapy, \\& have stable disease, recurrence or relapse at the time of enrollment.\n* Age \\> or = to 18 years.\n* Patients who have had",
+      "endpoints": [
+        "Dose-limiting toxicity"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00612651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06138847",
+      "title": "Does Levetiracetam and Carbamazepine Impact the Autonomic Activity of Children With Self-limiting Focal Epilepsy?",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-01-01",
+      "completion_date": "2023-12-02",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 119,
+      "brief_summary": "The goal of this cross-sectional study is to learn about autonomic cardiac profile changes in children with self-limiting focal epilepsy using levetiracetam and carbamazepine in children with self-limiting focal epilepsy syndrome. The main questions is it aims to answer are:\n\n1. Are heart rate variability and autonomic tone different among healthy controls and children with epilepsy?\n2. Does Levetiracetam and carbamazepine affect autonomic tone differently among children with self-limiting focal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Based on the ILAE classification, all children with epilepsy are categorized as self-limiting focal epilepsy syndromes.\n\nExclusion Criteria:\n\n* had signs of organic heart disease\n* had other conditions that could influence the cardiovascular and autonomic nervous systems (such",
+      "endpoints": [
+        "children with epilepsy has autonomic disfunction"
+      ],
+      "sponsor": "Ege University",
+      "url": "https://clinicaltrials.gov/study/NCT06138847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00616863",
+      "title": "A Single Dose, 2-Period, 2-Treatment, 2-Way Crossover Bioequivalency Study of Oxcarbazapine 600 mg Tablets Under Fed Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-07",
+      "completion_date": "2004-07",
+      "country": "Canada",
+      "enrollment": 28,
+      "brief_summary": "The objective of this study was to assess the bioequivalence of a potential generic 600 mg oxcarbazepine tablet formulation with Novartis Pharmaceutical's 600 mg oxcarbazepine tablet, Trileptal, folloiwng a single 600 mg dose administered with food.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on the physical examination, medical history, or clinical laboratory results during screening.\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with known enzyme altering drugs.\n* History of alle",
+      "endpoints": [
+        "Bioequivalence"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT00616863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00224952",
+      "title": "The Role of Drug Metabolizing Enzymes in the Pathogenesis Adverse Drug Reactions in Children",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 274,
+      "brief_summary": "The purpose of the study is to examine the individual metabolic profiles of pediatric patients receiving carbamazepine or valproate therapy, in an attempt to determine identities of the reactive metabolites or, alternatively, the identities of those metabolites that serve as potential precursors to reactive species.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric patients of both genders between 1 and 16 years of age receiving CBZ or VPA mono-therapy will be recruited for this study. Additionally, for those patients who are receiving drugs other than CBZ or VPA to control their seizures, if CBZ or VPA are subsequently added t",
+      "endpoints": [
+        "Drug (Valproic Acid or Carbamazepine) Metabolite Profiles in Urine"
+      ],
+      "sponsor": "Children's Mercy Hospital Kansas City",
+      "url": "https://clinicaltrials.gov/study/NCT00224952"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00807989",
+      "title": "An Open Label, Randomized, Multicenter Clinical Trial to Compare the Efficacy and Safety of Lamotrigine / Valproate Coadministration and Carbamazepine as Initial Pharmacotherapy in Epilepsies (Phase Ⅳ)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2012-05",
+      "country": "South Korea",
+      "enrollment": 207,
+      "brief_summary": "To evaluate the efficacy of usual monotherapy and low dose combination of Lamotrigine and Valproate. Low dose combination may be more effective and tolerable because they are low dose and VPA reduce Lamotrigine metabolism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥16yr old\n* Who are diagnosed as epilepsy definitely\n* Who have minimum 2 unprovoked seizures and minimum 1 seizure in previous 3 months\n* Who need AED therapy and no AED medication for previous 1 year (exclude emergency medication for less than 2weeks)\n* Who is not pregna",
+      "endpoints": [
+        "Retention Rate After 52 Weeks Maintenance Period"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT00807989"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04815278",
+      "title": "NC Works4Health: Reducing Chronic Disease Risks in Socioeconomically Disadvantaged, Unemployed Populations",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-09-17",
+      "completion_date": "2025-11-30",
+      "country": "United States",
+      "enrollment": 455,
+      "brief_summary": "The proposed study, NC Works4Health (NCW4H), builds on the strengths of long-standing academic-community research partnerships between this UNC at Chapel Hill (UNC) team of investigators and key stakeholders across health, social service, employment, and economic development sectors. The overall goal of this study is to test the effectiveness of a multilevel intervention that can be readily adopted by communities to reduce chronic disease risks in socioeconomically disadvantaged populations by (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* receiving DSS-E services\n* between the age of 18 and 64 years old\n* unemployed\n* fluent and able to read English\n\nExclusion Criteria:\n\n* receiving or applied for disability benefits\n* pregnant\n* Any of the following chronic conditions: severe high blood pressure (with a readin",
+      "endpoints": [
+        "Mean Psychological Distress Scores at Baseline",
+        "Mean Psychological Distress Scores at Month 3",
+        "Mean Psychological Distress Scores at Month 6"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT04815278"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01097720",
+      "title": "Developmental Delay in Children Exposed During Pregnancy to Either Lamotrigine, Sodium Valproate, or Carbamazepine",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2005-03",
+      "completion_date": "2010-09",
+      "country": "United States",
+      "enrollment": 298,
+      "brief_summary": "This study is investigating the neurodevelopmental effects of prenatal exposure to lamotrigine (LTG), sodium valproate (VPA), or carbamazepine (CBZ) monotherapies. The hypotheses to be tested include:\n\n1. Exposure during pregnancy to CBZ, LTG, and VPA, each as monotherapy, is associated with developmental delay with or without signs of autism.\n2. Exposure to each drug (CBZ, LTG, and VPA) as monotherapy is associated with an increased rate of occurrence of major malformations.\n3. The child with m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 36-83 months of age\n* Prenatal exposure to LTG, VPA, or CBZ monotherapy\n* AED was used by mother to suppress seizures\n* Mother was enrolled in the North American AED Pregnancy Registry\n\nExclusion Criteria:\n\n* Exposure during the first trimester to other known teratogens.\n* Mot",
+      "endpoints": [
+        "Adaptive Behavior Scores"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01097720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01465997",
+      "title": "A Multicenter, Double-blind, Double-dummy, Follow up Study Evaluating the Long-term Safety of Lacosamide in Comparison With Controlled-release Carbamazepine Used as Monotherapy in Subjects With Partial-onset or Generalized Tonic-clonic Seizures ≥16 Years of Age Coming From the SP0993 Study.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2017-01",
+      "country": "Bulgaria, Spain, Mexico, Switzerland, Russia, Canada, Sweden, Belgium, Hungary, Slovakia, Germany, Australia, Latvia, Portugal, Romania, Thailand, Lithuania, South Korea, Finland, Greece, Ukraine, Poland, Japan, United States, France, Philippines, Czechia, Italy, United Kingdom",
+      "enrollment": 551,
+      "brief_summary": "Compare safety of Lacosamide (LCM) to Carbamazepine Controlled-Release (CBZ-CR) as monotherapy in newly or recently newly diagnosed subjects with primary safety variables including spontaneous reports of Adverse Events (AEs), withdrawal of subjects due to AEs, reporting of Serious AEs (SAEs).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject/legal representative is considered reliable and capable of adhering to the protocol\n* Subject has remained seizure free and completed the Maintenance Phase of the SP0993; or subject has experienced 1 or more seizures on the first or second target dose during the SP0993",
+      "endpoints": [
+        "Number of Subjects With at Least One Treatment-emergent Adverse Event (AE) During the Treatment Phase (Maximum of 3.5 Years)",
+        "Number of Subjects Who Withdrew From the Study Due to a Treatment-emergent Adverse Event (AE) During the Treatment Phase (Maximum 3.5 Years)",
+        "Number of Subjects With at Least One Treatment-emergent Serious Adverse Event (SAE) During the Treatment Phase (Maximum of 3.5 Years)"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01465997"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02556320",
+      "title": "Immunological and Viral Parameters in Patients Receiving Anti-epileptic Drugs",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2015-12",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "A recent study has shown that certain drug allergies were actually related to an immune system against certain viruses. The aim of the study is to evaluate, in patients taking antiepileptic drugs, if this treatment induces proliferation of these viruses and secondarily an immune response that would promote the development of a rash. In particular, will be studied whether these drugs can induce virus reactivation \"dormant\" in the immune system. This study will not affect the usual follow-up propo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients age over 18 years\n* Patient for whom treatment of antiepileptic class will be started or was set for less than 48 hours and including one of the following molecules (as princeps or generic equivalent form): sodium valproate, divalproate sodium, valpromide, lamotrigine",
+      "endpoints": [
+        "Number of patients with viral reactivation of Epstein-Barr Virus",
+        "Number of patients with viral reactivation of Human Herpes Virus 6",
+        "Number of patients with viral reactivation of Human Herpes Virus 7"
+      ],
+      "sponsor": "University Hospital, Rouen",
+      "url": "https://clinicaltrials.gov/study/NCT02556320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00054990",
+      "title": "The Effects Of Antiepileptic Drugs On Cortical Excitability",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-03",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the usefulness of transcranial magnetic stimulation (TMS) in measuring cortical excitability. The cortex is the outer part of the brain. Patients with seizures have increased cortical excitability and are often treated with antiepileptic drugs to reduce this excitability. The therapeutic effects of antiepileptic drugs are usually tracked with blood tests that measure their blood levels. However, these blood tests may not always correctly reflect the effects of the drugs ",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nNormal volunteers will be male or female, aged 18 to 55 at protocol entry without any of the exclusion criteria described below.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded from this study if they:\n\n1. are pregnant (tested with urine pregnancy test).\n2. have severe coronary ",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00054990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03636958",
+      "title": "Study of the Efficacy and Safety of Perampanel in Combination in Glioma-refractory Epilepsy",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-02-15",
+      "completion_date": "2026-12-01",
+      "country": "France",
+      "enrollment": 0,
+      "brief_summary": "Gliomas are primitive brain tumors frequently associated with epilepsy. In a significant number of these patients epilepsy is resistant to antiepileptic drugs. There are currently no recommendations for the management of these drug-resistant epilepsies associated with glioma. In addition, few studies have addressed the subject and no treatment appears to be superior to others in the literature for this indication. In addition, many antiepileptic drugs pose problems of tolerance or interaction wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient, male or female, over 18 years old\n\n* Glioma confirmed by histology\n* Not in progression (clinico-radiological criterion RANO, (Wen et al., 2014), see appendix 1)\n\n  * No clinical worsening (excluding epileptic seizures)\n  * No increase greater than 25% in contrast enhan",
+      "endpoints": [
+        "Numbers of crisis at baseline",
+        "Numbers of crisis under treatment"
+      ],
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "url": "https://clinicaltrials.gov/study/NCT03636958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01162460",
+      "title": "Efficacy and Safety of Eslicarbazepine Acetate (BIA 2-093) as Monotherapy for Patients With Newly Diagnosed Partial-onset Seizures:a Double-blind, Randomized, Active-controlled, Parallel-group, Multicenter Clinical Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2016-09",
+      "country": "Portugal",
+      "enrollment": 815,
+      "brief_summary": "The purpose of this study is to investigate the efficacy and safety of eslicarbazepine acetate (BIA 2-093) as monotherapy for patients with newly diagnosed partial-onset seizures.",
+      "eligibility_criteria": "For inclusion in the study, subjects must fulfill all of the following at the time points indicated:\n\nVisit 1 (Days -1 to -7; Screening)\n\n* Have signed an informed consent before undergoing any study-related activities. Subjects of Asian ancestry (subjects with a direct ancestor of Asian origin, irr",
+      "endpoints": [
+        "The primary efficacy variable will be the proportion of subjects in the PP set who are seizure free for the entire 26-week Evaluation Period at the last received dose level."
+      ],
+      "sponsor": "Bial - Portela C S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01162460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01713946",
+      "title": "A Three-arm, Randomized, Double-blind, Placebo-controlled Study of the Efficacy and Safety of Two Trough-ranges of Everolimus as Adjunctive Therapy in Patients With Tuberous Sclerosis Complex (TSC) Who Have Refractory Partial-onset Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-04-29",
+      "completion_date": "2017-10-25",
+      "country": "Spain, Mexico, Russia, Canada, Belgium, Norway, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Thailand, South Korea, Greece, Ireland, Poland, Colombia, Argentina, Japan, United States, France, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 366,
+      "brief_summary": "This study evaluated the efficacy and safety of two trough-ranges of everolimus given as adjunctive therapy in patients with tuberous sclerosis complex (TSC) who had refractory partial-onset seizures.\n\nThe study consisted of 4 phases for each patient Baseline phase:\\[From Screening Week -8 (V1) to randomization visit at Week 0 (V2)\\], Core phase \\[from randomization at Week 0 (V2) to Week 18 (V11)\\], Extension phase \\[from Week 18 (V11) until 48 weeks after the last patient had completed the cor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Male or female between the ages of 2 and 65 years (except in Europe where minimum age will be 1).\n\n  2\\. Clinically definite diagnosis of TSC per modified Gomez criteria 3. Diagnosis of partial-onset epilepsy according to the classification of the International League Agai",
+      "endpoints": [
+        "Core Phase: European Medicine Agency (EMA): Seizure Frequency Response Rate",
+        "Core Phase: Food & Drug Administration (FDA): Percentage Change From Baseline in Partial Onset-seizure Frequency"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01713946"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00050947",
+      "title": "A Multicenter, Rater-blind, Randomized, Age-stratified, Parallel-group Study Comparing Two Doses of Oxcarbazepine as Monotherapy in Pediatric Patients With Inadequately-controlled Partial Seizures.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2004-02",
+      "country": "Germany, Mexico, Brazil, United States",
+      "enrollment": 94,
+      "brief_summary": "This study will evaluate the safety and effectiveness of oxcarbazepine (Trileptal) as monotherapy in the treatment of partial seizures in pediatric patients 1 month to 3 years of age.",
+      "eligibility_criteria": "INCLUSION CRITERIA: To enter this study, patients must:\n\n* Have a diagnosis of partial seizures\n* Have 2-30 seizures per week while on a stable dose of one anti-epileptic drug or be a patient recently diagnosed with partial seizures and currently receiving no seizure medication\n* Be willing to be ho",
+      "endpoints": [
+        "Time to meeting one of the exit criteria starting from the first dose of oxcarbazepine on Day 3."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00050947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02208492",
+      "title": "The Effects on Cognitive Function of Levetiracetam (Keppra®) Compared to Carbamazepine (Tegretol®, Carmazepine®) as Monotherapy for Children With Partial Seizure; A Multicentric Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2014-02",
+      "country": "South Korea",
+      "enrollment": 75,
+      "brief_summary": "Unlike the first generation antiepileptic medications, newer drugs for epilepsy such as levetiracetam are reported to have less adverse effect in children but not many studies have systematically reviewed the subject. This study aims to prospectively evaluate the effect of levetiracetam on neurocognition, behavioral issues and quality of life, as well as its seizure control efficacy and other adverse events in pediatric epilepsy patients, in comparison to carbamazepine, one of the classic antiep",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients from age 4 to 16, who have been diagnosed with focal epilepsy\n2. Patients who have experienced minimal two unprovoked seizures, or patients who have had one unprovoked seizure and have shown focal abnormality in the EEG\n3. Patients who have not received any antiepile",
+      "endpoints": [
+        "Assessment and comparative analysis of initial and follow-up Neuropsychological evaluation in both treated groups. (Levetiracetam and Carbamazepine)"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT02208492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01375374",
+      "title": "Multicenter, Open-label, Single-arm Study to Evaluate Hormone and Lipid Levels in Male Subjects With Partial-onset Seizures After a Switch of Treatment From Carbamazepine as Adjunctive Treatment to Levetiracetam to Lacosamide as Adjunctive Treatment to Levetiracetam",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2011-07",
+      "completion_date": "2013-03",
+      "country": "Germany, Spain, Austria",
+      "enrollment": 11,
+      "brief_summary": "The purpose of the trial is to investigate whether changes in lipids and hormonal parameters can be observed in blood when Carbamazepine treatment is replaced with Lacosamide treatment, while Levetiracetam treatment remains unchanged.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male subject with diagnosis of Epilepsy with Partial-Onset Seizures\n* Subject only taking Levetiracetam in combination with Carbamazepine as adjunctive treatment for Epilepsy\n\nExclusion Criteria:\n\n* Subject is taking another Anti-Epileptic Drug (AED) than Carbamazepine (CBZ) a",
+      "endpoints": [
+        "Change in Serum Sex Hormone Binding Globulin (SHBG) From Baseline to Treatment Period End (Comprised of a 4-week Titration Period and an 8-week Maintenance Period)"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01375374"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00734864",
+      "title": "Phase I Study of Dasatinib Plus Protracted Temozolomide in Recurrent Malignant Glioma",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2009-06",
+      "completion_date": "2012-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary objective of this study is to determine the maximum tolerated dose (MTD) and dose limiting toxicity (DLT) of dasatinib when combined with protracted, daily temozolomide (TMZ). Secondary objectives are: To further evaluate the safety and tolerability of dasatinib plus protracted, daily TMZ; 2. To evaluate the pharmacokinetics of dasatinib when administered with protracted, daily TMZ among recurrent malignant glioma patients who are on and not on CYP-3A enzyme inducing anti-epileptic d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have a histologically confirmed diagnosis of a recurrent/progressive WHO Gr.4 malignant glioma (glioblastoma multiforme or gliosarcoma) or WHO Gr.3 malignant glioma (anaplastic astrocytoma, anaplastic oligodendroglioma or anaplastic mixed glioma). Recurrence wil",
+      "endpoints": [
+        "Toxicity assessed using CTCAE v.3.0"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00734864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00918047",
+      "title": "Multiple Dose, Open-Label, Multi-Center Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of OXC XR as Adjunctive Therapy in Pediatric Subjects With Refractory Partial Epilepsy",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "Study to evaluate the pharmacokinetics, safety, and tolerability of OXC XR as adjunctive therapy in pediatric subjects with refractory partial epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able to provide written informed assent (IAF), as appropriate, with written informed permission (and informed consent (ICF) where required by regional laws or regulations) from the parent or legally-authorized representative (LAR).\n2. Male or female aged 4 to 17 years, inclus",
+      "endpoints": [
+        "Examine the steady-state pharmacokinetics (PK) of OXC XR and to assess the safety and tolerability of repeated oral dosing of OXC XR in pediatric subjects with partial seizures."
+      ],
+      "sponsor": "Supernus Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00918047"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05269901",
+      "title": "Association Between GPX4 Dependent Ferroptosis Pathway and Epilepsy in School-aged Children",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-01-20",
+      "completion_date": "2022-01-01",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Epilepsy is one of the most common neurologic disorders seen in children, often characterized by recurring seizures. Nearly 10.5 million children worldwide are estimated to have active epilepsy. Children with epilepsy are more likely to have developmental health and developmental comorbidities such as depression, anxiety, attention deficit hyperactivity disorder, learning disabilities, and developmental delay compared to children without epilepsy. Status epilepticus (SE) is the most common life-",
+      "eligibility_criteria": "Seizure group\n\nInclusion Criteria:\n\n1. Aged between 6 and 12 years old\n2. Newly diagnosed untreated epilepsy\n\nExclusion Criteria:\n\n1. Treated with medicine or another therapy\n2. Had history of cancer diseases\n3. Had history of endocrine diseases\n\nHealthy control group\n\nInclusion Criteria:\n\n1\\. Aged ",
+      "endpoints": [
+        "Rt-qPCR"
+      ],
+      "sponsor": "Affiliated Hospital of Jiangnan University",
+      "url": "https://clinicaltrials.gov/study/NCT05269901"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03490487",
+      "title": "Electroclinical Effect of Steroid in Patients With Benign Childhood Epilepsy With Centrotemporal Spikes",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-06-20",
+      "completion_date": "2020-12-25",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Benign epilepsy with centro-temporal spikes is the most common type of focal epilepsy in children. It is known to be age-dependent and presumably genetic. Age of onset ranges from one to fourteen years and it represents fifteen percent to twenty five percent of epilepsy in children under 15 years of age.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History and EEG findings of benign epilepsy with centrotemporal spikes\n\nExclusion Criteria:\n\n* Genetic disorders.\n* Metabolic or neurodegenerative disease.\n* Gross motor delay.",
+      "endpoints": [
+        "To detect the effect of oral steroids on normalization of sleep EEG.",
+        "To detect the effect of oral steroids regarding improvement of cognitive functions of patients with BECTS."
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03490487"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00216567",
+      "title": "A Randomized, Open Label, Comparative, Multi-center Clinical Trial to Determine the Efficacy and Safety of Topiramate Comparing With Carbamazepine in Benign Rolandic Epilepsy.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2006-02",
+      "country": "N/A",
+      "enrollment": 114,
+      "brief_summary": "The purpose of this study is to determine the efficacy and safety of Topiramate in comparison to Carbamazepine in Benign rolandic epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects whose guardians submitted written consent\n* Subjects with more than 2 seizures in last 1 year\n* Subjects showing one of the following additional criteria\n* Psychological burden due to seizure\n* Seizure in daytime\n* More than 3 seizures in last 6 month\n* Convulsive sei",
+      "endpoints": [
+        "Seizure-free rate at 24 weeks in comparison of topiramate to carbamazepine"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT00216567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00552526",
+      "title": "Comparing Ketogenic Diet With the Most Appropriate Antiepileptic Drug- a Randomized Study of Children With Mental Retardation and Drug Resistant Epilepsy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-11",
+      "completion_date": "2013-12",
+      "country": "Norway",
+      "enrollment": 60,
+      "brief_summary": "This is an open randomized controlled study in children with mental retardation and refractory epilepsy in which treatment with ketogenic diet (KD) is compared with treatment with the antiepileptic drug (AED), not tried by the patient before, which we consider to be the most appropriate AED for the patient.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient is mentally retarded\n* The patient has tried at least 3 different AED:s including one combination with two or more different AED:s.\n* The parents are willing to include their child in the study after written and verbal information.\n* Patients with all types of epil",
+      "endpoints": [
+        "Comparing amount of patients with 100%, >90% and >50% reduction in number of seizures between the two groups of seizures"
+      ],
+      "sponsor": "Oslo University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00552526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01527006",
+      "title": "An Open-label Pilot Study With an Extension Phase to Evaluate the Pharmacokinetics, and to Generate Preliminary Safety, Tolerability, and Efficacy of Perampanel (E2007) Oral Suspension When Given as an Adjunctive Therapy in Pediatric Subjects From 2 to Less Than 12 Years of Age With Epilepsy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2015-04",
+      "country": "United States",
+      "enrollment": 63,
+      "brief_summary": "This study is designed to evaluate the pharmacokinetics, efficacy, and safety of perampanel oral suspension on seizure frequency in pediatric participants maintained on one to three stable antiepileptic drugs",
+      "eligibility_criteria": "Inclusion:\n\n1. Have a minimum weight of 10 kg (22 lb)\n2. Have had brain imaging (computed tomography \\[CT\\] or magnetic resonance imaging \\[MRI\\]) prior to Visit 1 that ruled out a progressive cause of epilepsy\n3. Have a diagnosis of epilepsy with any type of seizure according to the International L",
+      "endpoints": [
+        "Apparent Clearance (CL/F) of Perampanel [Core Study]",
+        "Steady-state Average Concentration (C av,ss) of Perampanel [Core Study]"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01527006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02707965",
+      "title": "Characterization of Epilepsy Patients At-risk for Adverse Outcomes Related to Switching Antiepileptic Drug Products: BEEP 2b Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-06-08",
+      "completion_date": "2018-09-04",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Some epilepsy patients are described as GB when they have worsened seizures or side effects related to switching between brand name and generic, or between generic antiepileptic drug (AED) products. In concert with Aim 1 (protocol BEEP2a), this study will uncover possible reasons for patient problems with the drug switching. Factors that will be studied in GB epilepsy patients include physiologic, psychological, and genetic factors, including in this protocol whether brand and generic AEDs are p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject previously completed BEEP2a study, found to be probably GB, and able to provide informed consent or subject's legally authorized representative is able to provide informed consent.\n2. Subject is male or female between 18 and 76 years of age inclusive.\n3. Subject has a",
+      "endpoints": [
+        "Mean AUC0-last_ss (Test vs. Reference)",
+        "Mean Cmax_ss (Test vs. Reference)",
+        "Mean Cmin_ss (Test vs. Reference)"
+      ],
+      "sponsor": "Food and Drug Administration (FDA)",
+      "url": "https://clinicaltrials.gov/study/NCT02707965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07443241",
+      "title": "Gender-specific Differences in the Etiology, Diagnosis, Treatment and Outcome of Status Epilepticus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-12-16",
+      "completion_date": "2024-03-27",
+      "country": "N/A",
+      "enrollment": 779,
+      "brief_summary": "Sex-specific differences in neurological emergencies such as Status epilepticus (SE) remain understudied despite growing recognition of gender disparities in medicine. This study aimes to investigate sex-related differences in etiology, diagnostics, treatment, and outcomes among patients with SE. The investigators conducted a retrospective analysis of 779 patients treated with SE at Marburg University Hospital between 2011 and 2023.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who were treated at Marburg University Hospital (UKGM Marburg) between January 2011 to March 2023 with diagnosis of SE\n\nExclusion Criteria:\n\n* children",
+      "endpoints": [
+        "Age at SE Onset",
+        "Diagnosis of SE Subtype",
+        "Semiology: Focal vs. Generalized"
+      ],
+      "sponsor": "University Hospital Marburg",
+      "url": "https://clinicaltrials.gov/study/NCT07443241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06491303",
+      "title": "Study of Effects of Levetiracetam Monotherapy on Various Hematological Parameters in Adult Patients Suffering of Epilepsy",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-11-01",
+      "completion_date": "2025-12-01",
+      "country": "N/A",
+      "enrollment": 45,
+      "brief_summary": "Low therapeutic index of established antiepileptic drugs (AEDs) coupled with better understanding of the pathophysiology of seizure has encouraged the development of several novel AEDs. The conventional antiepileptics like phenytoin, phenobarbitone, valproate and carbamazepine and newer antiepileptics like levetiracetam. are used for epilepsy. AEDs induce potentially toxic effects over a period of time which remains undetermined over very long time. Earlier studies in this regard, states uneven ",
+      "eligibility_criteria": "Inclusion Criteria: Adult Epileptic patients of both genders aged \\>18 years on mono-therapy of levetiracetam anti-epileptic drug treatment for at least six months.\n\nExclusion Criteria:\n\n1. Patients were on treatment for less than six months.\n2. Patients had other conditions besides epilepsy that co",
+      "endpoints": [
+        "Study of Effects of Levetiracetam Monotherapy on Various Hematological Parameters in Adult Patients Suffering of Epilepsy"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06491303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00903786",
+      "title": "A Long-term Extension Study of E2007 in Patients With Refractory Partial Seizures Uncontrolled With Other Anti-Epileptic Drugs (AEDs)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06-17",
+      "completion_date": "2016-10-31",
+      "country": "Japan",
+      "enrollment": 21,
+      "brief_summary": "The purpose of this trial is to investigate the safety and tolerability of perampanel in long- term treatment in the patients with refractory partial epilepsy (uncontrolled with other anti-epileptic drugs) who completed Week 10 of Phase II Study E2007-J081-231 study.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Patients who consent to the study entry on their free will before starting any trial-related activities.\n2. Patients who participated in Study 231 and completed the required evaluation period (10 weeks).\n3. Patients who are certainly and voluntarily able to participate in thi",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs) as a Measure of Safety and Tolerability of Perampanel"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00903786"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00175903",
+      "title": "A Therapeutic Confirmatory, Open-label, Multi-center, Randomized 2 Parallel Groups, Community-based Trial Studying the Efficacy and Safety of Levetiracetam (1000 to 3000 mg/Day Oral Tablets 250-500 mg b.i.d.) Compared to Sodium Valproate (1000 to 2000 mg/Day Oral ER Tablets 300-500 mg b.i.d.) and Carbamazepine (600 to 1600 mg/Day Oral CR Tablets 200-400 mg b.i.d.) as Monotherapy in Subjects With Newly Diagnosed Epilepsy.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2007-10",
+      "country": "Bulgaria, Spain, Switzerland, Russia, Sweden, Belgium, Norway, Turkey (Türkiye), Hungary, Slovakia, Germany, Australia, Romania, Finland, Greece, Austria, Ireland, Poland, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 1701,
+      "brief_summary": "Study N01175 was to compare overall effectiveness (efficacy and safety) of levetiracetam (LEV) versus the 2 older antiepileptic drugs (AEDs), sodium valproate extended release (VPA-ER) and carbamazepine controlled release (CBZ-CR) in the treatment of subjects with newly diagnosed epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of epilepsy (all types of seizures) was made during the past year\n* Subjects must have had at least two unprovoked seizures in the past 2 years with at least one during the last 6 months\n* Female subjects without childbearing potential are eligible. Female subjects w",
+      "endpoints": [
+        "Time to withdrawal from study medication (starting at V1) as a measure of combined efficacy and safety"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00175903"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00612235",
+      "title": "Comparison of Different Antiepileptic Drug Monotherapies for the Occurrence of Premenstrual Dysphoric Disorder Among Women With Epilepsy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-06",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study is being done to determine if there are differences in mood during the menstrual cycle among women with epilepsy who take various different antiepileptic drugs and women without epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with epilepsy, 18-45 years of age. Women will be on one of 4 established (≥ 3 months) AED monotherapies: LTG, CBZ, PHT or LEV and with documented therapeutic range serum AED level during the year prior to enrollment.\n* Normal Control women, 18-45 years of age, in good ge",
+      "endpoints": [
+        "To Determine if the Frequency of Premenstrual Dysphoric Disorder Differs Among Various Antiepileptic Drug Monotherapies.",
+        "Proportion of Women With PMDD in WWE and the Control Group"
+      ],
+      "sponsor": "Beth Israel Deaconess Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00612235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03307863",
+      "title": "Effect of Anti-epileptic Drugs on Etonogestrel-releasing Implant Pharmacokinetics in Women With Epilepsy",
+      "phase": "PHASE4",
+      "status": "SUSPENDED",
+      "start_date": "2017-11-01",
+      "completion_date": "2028-11-30",
+      "country": "Brazil",
+      "enrollment": 69,
+      "brief_summary": "Data on the interaction between the etonogestrel (ENG) implant and antiepileptic drug (AED) regimen are scarce. We will evaluated the effect of 2 AED regimens (1 including carbamazepine and the other topiramate) on the pharmacokinetic (PK) parameters of an ENG-releasing implant in women with epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women 18- 45 years old;\n* with regular menstrual cycles;\n* with BMI between 18 and 29.9 (kg/m2);\n* who has selected the ENG implant as a contraceptive method;\n* Using a stable antiepileptic drug regimen including carbamazepine or topiramate for ate least 3 months (only for wom",
+      "endpoints": [
+        "Area under the plasma concentration versus time curve (AUC) of ENG in women with epilepsy (WWE) using carbamazepine",
+        "Plasma maximum concentration (Cmax) of ENG in women with epilepsy (WWE) using carbamazepine",
+        "Plasma minimum concentration (Cmin) of ENG in women with epilepsy (WWE) using carbamazepine"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT03307863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04836559",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multicenter Study to Evaluate the Efficacy, Safety, and Tolerability of JNJ-40411813 as Adjunctive Therapy in Subjects With Focal Onset Seizures With Suboptimal Response to Levetiracetam or Brivaracetam",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-05-18",
+      "completion_date": "2024-02-08",
+      "country": "South Korea, Spain, Russia, Ukraine, Germany, Poland, Belgium, United States",
+      "enrollment": 110,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of up to 3 dose levels of adjunctive JNJ-40411813 compared to placebo based on the time to baseline monthly seizure count in participants with focal onset seizures who are receiving levetiracetam or brivaracetam and up to 3 other anti-epileptic drugs (AEDs) (double-blind treatment period) and to evaluate the long-term efficacy and safety of adjunctive therapy with JNJ-40411813 in participants with epilepsy (open-label extension \\[OLE\\] period",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\\^2, inclusive (BMI = weight/height\\^2). Minimum body weight should be 40-kilogram (kg)\n* Established diagnosis of focal epilepsy, for at least 1 year using the International League Against Epilepsy (ILAE) ",
+      "endpoints": [
+        "Cohort 1 and 2: Time to Baseline Monthly Seizure Count up to the End of the 12-week Double-blind (DB) Treatment Period"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04836559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01030094",
+      "title": "A Cross-sectional, Comparative, Multi-center Study to Investigate the Effect of Topiramate Monotherapy on Markers of Bone Mineral Metabolism and Bone Mineral Density in Premenopausal Women With Epilepsy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "2009-04",
+      "country": "N/A",
+      "enrollment": 140,
+      "brief_summary": "The purpose of this study is to investigate the influence of topiramate monotherapy on the bone and mineral metabolism markers, and bone density (the amount of mineral per square centimeter of bone ) in female participants with epilepsy (seizure disorder), before menopause (time in life when a woman stops having a menstrual period), as compared with healthy participants and comparative group received either carbamazepine or valproic acid monotherapy for at least last one year.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who agree to participate in this study\n* Female epileptic participants\n* Participants who are receiving topiramate, carbamazepine or valproic acid monotherapy for more than one year\n* Participants who are using proper contraceptive method (s) or have a negative pr",
+      "endpoints": [
+        "Absolute Concentration of Calcium in Serum and Random Urine",
+        "Absolute Concentration of 25-hydroxy Vitamin D, Osteocalcin, Carboxy-terminal Telopeptide of type 1 collagen (CTx) and Somatomedin-C (IGF-1) in Serum",
+        "Absolute Concentration of 1-alpha 25-dihydroxyvitamin D-3, Parathyroid Hormone (PTH) in Serum"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT01030094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00618046",
+      "title": "A Single Dose, 2-Period, 2-Treatment, 2-Way Crossover Bioequivalency Study of Oxcarbazepine 600 mg Tablets Under Fed Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2004-11",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The objective of this study was to assess bioequivalence of a potential generic 600 mb oxcarbazepine tablet formulation compared with Novartis Pharmaceutical's 600 mg oxcarbazepine tablet, Trileptal, following a single 600 mg dose, administered with food.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on the physical examination, medical history, or clinical laboratory results at screening.\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with any known enzyme altering drugs.\n* History of alle",
+      "endpoints": [
+        "Bioequivalence"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT00618046"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05459597",
+      "title": "Population Pharmacokinetics, Effectiveness and Safety of Antiepileptic Drugs in Elderly Patients",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2021-01-01",
+      "completion_date": "2028-06-30",
+      "country": "China",
+      "enrollment": 500,
+      "brief_summary": "The purpose is to study the population pharmacokinetics, effectiveness and safety of antiepileptic drug (phenytoin, carbamazepine, lamotrigine, levetiracetam, parempanel, etc) in elderly patients and recommend optimized dosage regimens.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥65 years old;\n2. Diagnosed with epilepsy;\n3. Using antiepileptic drugs for treatment;\n\nExclusion Criteria:\n\n1. Patients who are expected to die within 48 hours;\n2. Patients with allergy to antiepileptic drugs;\n3. Patients receiving other investigational drugs;\n4. Other f",
+      "endpoints": [
+        "The peak plasma drug concentration of antiepileptic drugs.",
+        "The random plasma drug concentration of antiepileptic drugs.",
+        "The trough plasma drug concentration of antiepileptic drugs."
+      ],
+      "sponsor": "Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT05459597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01128959",
+      "title": "Open-Label Study to Assess the Safety and Tolerability of Intravenous Carbamazepine as Short-Term Replacement of Oral Carbamazepine in Adult Patients With Epilepsy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2013-01",
+      "country": "United States",
+      "enrollment": 108,
+      "brief_summary": "The purpose of this study is to assess the safety and tolerability of intravenous (IV) carbamazepine (CBZ) administered as multiple 15 minute infusions and a single 5 minute infusion to adult patients with epilepsy on stable higher doses of oral CBZ.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The patient or legal representative must be able to read, understand, sign and date the IRB approved Informed Consent Form and HIPAA Authorization prior to study participation.\n2. The patient is a man or a non-pregnant woman who is at least 18 years of age.\n3. If a woman:\n\n  ",
+      "endpoints": [
+        "Adverse Events"
+      ],
+      "sponsor": "Lundbeck LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01128959"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01227902",
+      "title": "An Open-Label, Flexible-Dose Study of Retigabine Immediate Release (IR) as Adjunctive Therapy to Specified Monotherapy Antiepileptic Treatments in Adults With Partial -Onset Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2012-12",
+      "country": "Bulgaria, France, Spain, Russia, Italy, Ukraine, Denmark, Germany, Netherlands, Thailand, Poland, Belgium",
+      "enrollment": 203,
+      "brief_summary": "The purpose of this Phase III study is to evaluate the efficacy, safety and tolerability and health outcomes of retigabine Immediate Release (IR) as adjunctive therapy to each of the following monotherapy Antiepileptic Drug (AED) treatments: carbamazepine/oxcarbazepine, lamotrigine, levetiracetam, or valproic acid in adult subjects with partial-onset seizures (POS) using a flexible dosing regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is 18 years of age (men or women)\n* Has a confident diagnosis of epilepsy with partial-onset seizures i.e., simple or complex partial seizures with or without secondary generalization (International League Against Epilepsy (ILAE) classification; 1981) for more than 24 weeks pr",
+      "endpoints": [
+        "Number of Participants With a >=50% Reduction in Partial-onset Seizure (POS) Frequency From Baseline"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01227902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00918424",
+      "title": "Long Term Multiple Dose, Open-Label, Multi-Center Study to Evaluate the Safety and Tolerability of OXC XR as Adjunctive Therapy in Pediatric Subjects With Refractory Partial Epilepsy",
+      "phase": "N/A",
+      "status": "APPROVED_FOR_MARKETING",
+      "start_date": "2009-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "Follow-on study to continue evaluation of the safety of OXC XR as adjunctive therapy in pediatric epilepsy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able to provide written informed assent (IAF), as appropriate, with written informed permission (and informed consent (ICF) where required by regional laws or regulations) from the parent or legally-authorized representative (LAR).\n2. Was eligible for and completed the 804P10",
+      "endpoints": [],
+      "sponsor": "Supernus Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00918424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05419180",
+      "title": "Study of the Interest of the Combination of Stiripentol (Diacomit®) and Carbamazepine in the Treatment of Patients With Pharmacoresistant Focal Epilepsies",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-10-13",
+      "completion_date": "2024-06-13",
+      "country": "France",
+      "enrollment": 52,
+      "brief_summary": "This is a monocentric, open-label clinical study, presenting a retrospective part and a prospective part, studying the data of patients with drug-resistant focal epilepsies and treated with the combination of stiripentol (Diacomit®) and Carbamazepine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Retrospective part of the research:\n\nThe medical records of CRéER patients with the following criteria will be included in the retrospective part of the research by an investigator:\n\n1. With pharmacoresistant epilepsy, i.e. a history of failure of two well-conducted and well-t",
+      "endpoints": [
+        "Age",
+        "Previous antiepileptic treatments received",
+        "Surgery"
+      ],
+      "sponsor": "Biocodex",
+      "url": "https://clinicaltrials.gov/study/NCT05419180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00772603",
+      "title": "Phase III Study to Evaluate the Efficacy and Safety of OXC XR as Adjunctive Therapy in Subjects With Refractory Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2010-11",
+      "country": "Bulgaria, Croatia, Mexico, Russia, Romania, Poland, Canada, United States",
+      "enrollment": 366,
+      "brief_summary": "Evaluation of the safety and efficacy of Oxcarbazepine XR as adjunctive treatment for adults with partial onset seizures",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of complying with the study procedures.\n* Able to provide written informed consent\n* Male or female aged 18 to 65 years, inclusive.\n* Diagnosis of partial onset seizures\n* Minimum of three seizures per 28 days\n* Receiving treatment with 1-3 AEDs\n* Refractory to at leas",
+      "endpoints": [
+        "PCH(T), ITT"
+      ],
+      "sponsor": "Supernus Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00772603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01390909",
+      "title": "Clinical and Economic Burden of Uncontrolled Epilepsy: Analyses From a Medicaid Database and a Private Health Plan Database",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2011-01",
+      "country": "N/A",
+      "enrollment": 12386,
+      "brief_summary": "Antiepileptic drugs (AEDs) are the main therapeutic option for patients with epilepsy; however, complete seizure control remains elusive for many patients. Uncontrolled or refractory epilepsy is associated with a higher risk of mortality, physical injuries, and depression or anxiety compared with patients with controlled epilepsy. Higher resource utilization for patients with poor control is likely to be associated with higher economic costs. While diagnostic criteria for uncontrolled epilepsy a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years of age at the initiation of anti-epileptic drug (AED) treatment as noted in the database\n* A record of at least one medical visit with a diagnosis of epilepsy (ICD-9-CM 345.xx) or at least two diagnoses of non-febrile convulsions (ICD-9-CM 780.30 or 780.39) o",
+      "endpoints": [
+        "Average Annualized Costs"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01390909"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01051193",
+      "title": "A Multicentre, Open-label, Extension Study in Children With Inadequately Controlled Partial Onset Seizures to Investigate Long-term Safety and Tolerability of TRI476 (Oxcarbazepine) as Adjunctive Therapy",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-01-05",
+      "completion_date": "2019-09-30",
+      "country": "Japan",
+      "enrollment": 88,
+      "brief_summary": "This study is designed to provide long term safety data of TRI476 in children with inadequately-controlled partial seizures. This study is conducted in patients who complete the core study CTRI476B1301. Blinding is maintained during the transition and dose adjustment phase of the extension study. All patients are treated with TRI476 from the dose adjustment phase onwards. The purpose of study is to confirm that TRI476 as adjunctive therapy is safe.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who completed the double-blind treatment phase of the core study (B1301).\n* A parent/legal guardian must be present and give written consent for all patients enrolled in this trial. Patients consent must be obtained using assent document according to patients age.\n* F",
+      "endpoints": [
+        "Safety and tolerability (adverse events, laboratory tests, vital signs, electrocardiogram (ECG))"
+      ],
+      "sponsor": "Nobelpharma",
+      "url": "https://clinicaltrials.gov/study/NCT01051193"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00150787",
+      "title": "A Multicenter, Double-blind, Follow-up Trial Evaluating the Long-term Safety of Levetiracetam (1000 to 3000 mg/Day Oral b.i.d.) and Carbamazepine (400 to 1200 mg/Day Oral b.i.d.), Used as Monotherapy in Subjects (≥ 16 Years) Coming From the N01061 Trial.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2005-11",
+      "country": "N/A",
+      "enrollment": 250,
+      "brief_summary": "A double-blind follow-up trial assessing the long term safety of Levetiracetam as per adverse events reporting, physical and neurological examination and vital signs",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with a confirmed diagnosis of epilepsy.\n* Subjects having experienced in the past unprovoked partial seizures (IA, IB, IC with clear focal origin), or generalized tonic-clonic seizures (without clear focal origin), that are classifiable according to the International ",
+      "endpoints": [
+        "Around 2 years of Safety assessment of levetiracetam via Adverse Events reporting, physical and neurological examination and vital signs"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00150787"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00275925",
+      "title": "A 24-Week Prospective, Open-Label, Multicenter Study to Evaluate the Effect on Seizure Frequency, Safety and Tolerability of Oxcarbazepine Monotherapy in Adult Patients With Partial Seizures",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2007-03",
+      "country": "Russia",
+      "enrollment": 80,
+      "brief_summary": "This study is aimed to evaluate the efficacy, safety and tolerability of oxcarbazepine monotherapy in adults with partial seizures.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* males and females, 18 - 70 years of age;\n* diagnosis of epilepsy, partial seizures;\n* ineffective or intolerable present therapy with 1 antiepileptic drug, or none of previous therapy with antiepileptic drugs\n\nExclusion Criteria:\n\n* progressive lesion of brain revealed by CT/M",
+      "endpoints": [
+        "Epileptic activity at electroencephalography in rest",
+        "Flash light and hyperventilation test with electroencephalography",
+        "Frequency of epileptic episodes according to patient's diary"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00275925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00616681",
+      "title": "A Single Dose, Two-Treatment, Two-Period, Two-Sequence Crossover Bioequivalency Study of Oxcarbazepine 600 mg Tablets Under Fasting Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2004-07",
+      "country": "Canada",
+      "enrollment": 28,
+      "brief_summary": "The objective of this study was to assess the bioequivalence of a potential generic 600 mg oxcarbazepine tablet formulation compared with Novartis Pharmaceutical's 600 mg oxcarbazepine tablet, Trileptal, following a single 600 mg dose administered under fasting conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on the physical examination, medical history, or clinical labratory results duirng screening\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with known enzyme altering drugs.\n* History of allerg",
+      "endpoints": [
+        "Bioequivalence"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT00616681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02429596",
+      "title": "A Randomized Controlled Trial of Generic Substitution of Antiepileptic Drugs",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2015-05",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "Background. Anecdotal reports and uncontrolled studies have described an association between generic substitution of antiepileptic drugs (AEDs) and adverse events, including loss of seizure control. Although these results are likely to be influenced by methodological bias, they have led to a strong opposition, among physicians and patients, to the use of generic products in epilepsy.\n\nObjectives. The primary objective is to assess potential risks associated with substitution of the currently tak",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older;\n* currently being treated and at steady-state with any product (brand or generic) of carbamazepine, valproic acid, topiramate, oxcarbazepine, levetiracetam and/or lamotrigine administered in two or three divided daily doses, either alone or in combina",
+      "endpoints": [
+        "Serum drug concentration (25% change in serum drug concentration)"
+      ],
+      "sponsor": "IRCCS National Neurological Institute \"C. Mondino\" Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT02429596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00896987",
+      "title": "An Open, Randomized, Multicenter Comparative Clinical Trial of Lamotrigine or Carbamazepine for Cognitive Function as Initial Monotherapy in Adult Untreated Epilepsies",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2008-12",
+      "country": "South Korea",
+      "enrollment": 121,
+      "brief_summary": "The purpose of this study is to compare the effect of anti-epileptic drugs' (AEDs) long-term treatment on cognitive function. This study is an open-label, randomized, multicenter comparative trial of lamotrigine versus carbamazepine. The planned enrollment is 100 patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age : 16\\~60\n* Seizure type was defined by MRI etc.\n* Had more than 2 unprovoked seizures or 1 seizure with clear evidence for epilepsy (ex. positive in EEG or brain imaging)\n* Need AED therapy and no AED medication for previous 1 year (exclude emergency medication for less th",
+      "endpoints": [
+        "To define the superiority of Lamictal in cognitive function comparing to carbamazepine in newly diagnosed adult partial epilepsy patients"
+      ],
+      "sponsor": "Korean Epilepsy Society",
+      "url": "https://clinicaltrials.gov/study/NCT00896987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03695094",
+      "title": "A Multicenter, Open-label, Parallel-group Study in Study Participants With Epilepsy, to Evaluate the Effect of Oxcarbazepine on the Pharmacokinetics, Safety, and Tolerability of Padsevonil",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-09-18",
+      "completion_date": "2019-05-30",
+      "country": "Bulgaria, Netherlands",
+      "enrollment": 31,
+      "brief_summary": "The purpose of the study is to evaluate the effect of stable coadministered oxcarbazepine (OXC), on the pharmacokinetics (PK), safety, tolerability of padsevonil (PSL) and the plasma PK of PSL metabolites, UCB1431322-000 and UCB1447499-000, in study participants with epilepsy compared with study participants co-medicated with stable doses of levetiracetam (LEV), lamotrigine (LTG) or brivaracetam (BRV) therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Study participant is male or female between 18 to 64 years of age, inclusive, with a diagnosis of epilepsy according to the International League Against Epilepsy (ILAE) classification\n* Study participant is currently treated for epilepsy with stable doses of the following for ",
+      "endpoints": [
+        "The Maximum Observed Plasma Concentration (Cmax) of Padsevonil (PSL) During the Study",
+        "The Time to Reach Maximum Concentration (Tmax) for Padsevonil During the Study",
+        "The Area Under the Plasma Concentration Time Curve (AUCtau) Over a Dosing Interval for PSL"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03695094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03184597",
+      "title": "HLA Screening in Reducing the Risk of Antiepileptic Drug-induced Cutaneous Adverse Reactions: a Multicenter Clinical Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-08-01",
+      "completion_date": "2021-06",
+      "country": "China",
+      "enrollment": 4000,
+      "brief_summary": "Cutaneous adverse drug reactions (cADRs) include mild maculopapular exanthema (MPE) and severe cutaneous reactions such as hypersensitivity syndrome, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN). cADRs are considered as a major public health issue because of their potentially life-threatening morbidity, especially severe cutaneous reactions. The incidence of SJS/TEN is estimated to vary from 1 in 1,000 to 10,000 drug exposures, and its mortality is as high as 35%. Antiepi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who are going to receive a kind of aromatic AEDs including CBZ, OXC, LTG, PHT, and PB as a new therapy. An AED was deemed newly commenced if there was no record of its prescription in at least the previous 12 months.\n2. Ethnic Han Chinese. None of the biological gran",
+      "endpoints": [
+        "AEDs-induced cADRs incidence"
+      ],
+      "sponsor": "Second Affiliated Hospital of Guangzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT03184597"
+    }
+  ],
+  "timestamp": "2026-03-04T16:12:55.185648",
+  "success": true,
+  "error_message": null
+}

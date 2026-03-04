@@ -1,0 +1,545 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Levodopa",
+    "disease": "Parkinson disease",
+    "query_string": "Levodopa AND Parkinson disease"
+  },
+  "data": {
+    "query": "Levodopa AND Parkinson disease",
+    "results": [
+      {
+        "pmid": "39083773",
+        "title": "Parkinson's Disease.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Tanner Caroline M",
+          "Ostrem Jill L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antiparkinson Agents",
+          "Levodopa",
+          "Parkinson Disease",
+          "Deep Brain Stimulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39083773/"
+      },
+      {
+        "pmid": "30704685",
+        "title": "Parkinson's Disease.",
+        "abstract": "The diagnosis of Parkinson disease (PD) is based on the presence of bradykinesia and either resting tremor or rigidity and there should be no features from the history or examination to suggest an alternative cause of parkinsonism. In addition to the motor manifestations of PD, there is a long list of nonmotor symptoms, several of which occur before motor signs and are considered \"prodromal\" PD. These are classified as neuropsychiatric, autonomic, sleep, and sensory. There are many medical options for the treatment of PD but levodopa remains the mainstay. Deep brain stimulation and other advanced therapies are also available.",
+        "journal": "The Medical clinics of North America",
+        "year": "2019",
+        "authors": [
+          "Reich Stephen G",
+          "Savitt Joseph M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Deep Brain Stimulation",
+          "Diagnosis, Differential",
+          "Humans",
+          "Hypokinesia",
+          "Levodopa",
+          "Parkinson Disease",
+          "Tremor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30704685/"
+      },
+      {
+        "pmid": "18781671",
+        "title": "The history of dopamine and levodopa in the treatment of Parkinson's disease.",
+        "abstract": "The discoveries of dopamine as a neurotransmitter in the brain, its depletion in patients with Parkinson disease, and its replacement with levodopa therapy were major revolutionary events in the rise to effective therapy for patients with this disorder. This review describes these events and the persons who carried out these accomplishments. Their impact went beyond a single clinical entity of parkinsonism, for it opened up the beginning of a much better understanding of the role of dopamine in other neurologic movement disorders and also in many psychiatric diseases.",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2008",
+        "authors": [
+          "Fahn Stanley"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Brain",
+          "Dopamine",
+          "History, 20th Century",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18781671/"
+      },
+      {
+        "pmid": "33252908",
+        "title": "Parkinson Disease.",
+        "abstract": "Parkinson disease is a progressive neurodegenerative disorder with significant morbidity and mortality. Most patients consult with their primary care physician about Parkinson disease symptoms before seeking care from a specialist. The diagnosis of Parkinson disease is clinical, and key disease features are bradykinesia, rigidity, and tremor. The main diagnostic signs of Parkinson disease are motor symptoms; however, Parkinson disease is also associated with nonmotor symptoms, including autonomic dysfunction, depression, and hallucinations, which can make the initial diagnosis of Parkinson disease difficult. Disease progression is variable and clinical signs cannot be used to predict progression accurately. Therapies, including levodopa, have not demonstrated the ability to slow disease progression. Motor symptoms are managed with carbidopa/levodopa, monoamine oxidase-B inhibitors, and nonergot dopamine agonists. Prolonged use and higher doses of levodopa result in dyskinesias and moto",
+        "journal": "American family physician",
+        "year": "2020",
+        "authors": [
+          "Halli-Tierney Anne D",
+          "Luker Jacquelynn",
+          "Carroll Dana G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Combined Modality Therapy",
+          "Deep Brain Stimulation",
+          "Disease Progression",
+          "Drug Combinations",
+          "Family Practice",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33252908/"
+      },
+      {
+        "pmid": "27044648",
+        "title": "Levodopa therapy for Parkinson disease: A look backward and forward.",
+        "abstract": "Although levodopa is widely recognized as the most effective therapy for Parkinson disease (PD), its introduction 5 decades ago was preceded by several years of uncertainty and equivocal clinical results. The translation of basic neuroscience research by Arvid Carlsson and Oleh Hornykiewicz provided a logical pathway for treating PD with levodopa. Yet the pioneering clinicians who transformed PD therapeutics with this drug--among them Walther Birkmayer, Isamu Sano, Patrick McGeer, George Cotzias, Melvin Yahr, and others--faced many challenges in determining whether the concept and the method for replenishing deficient striatal dopamine was correct. This article reviews highlights in the early development of levodopa therapy. In addition, it provides an overview of emerging drug delivery strategies that show promise for improving levodopa's pharmacologic limitations.",
+        "journal": "Neurology",
+        "year": "2016",
+        "authors": [
+          "LeWitt Peter A",
+          "Fahn Stanley"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antiparkinson Agents",
+          "Clinical Trials as Topic",
+          "Corpus Striatum",
+          "Dopamine",
+          "Drug Delivery Systems",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27044648/"
+      },
+      {
+        "pmid": "31356286",
+        "title": "Parkinson Disease.",
+        "abstract": "Parkinson disease is a common neurodegenerative disorder that affects millions of people worldwide. Important advances in the treatment, etiology, and the pathogenesis of Parkinson disease have been made in the past 50 years. This article provides a review of the current understanding of Parkinson disease, including the epidemiology, phenomenology, and treatment options of the disease.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2019",
+        "authors": [
+          "Zesiewicz Theresa A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Drug Combinations",
+          "Exercise",
+          "Female",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31356286/"
+      },
+      {
+        "pmid": "35710101",
+        "title": "Practical pearls to improve the efficacy and tolerability of levodopa in Parkinson's disease.",
+        "abstract": "Levodopa is the most effective medication for the treatment of motor symptoms of Parkinson's disease (PD). Several factors may affect the efficacy and tolerability of levodopa. These include the timing, dosage and administration of levodopa, concomitant drugs, food, PD-associated non-motor symptoms, and various neurologic and non-neurologic comorbidities. If not appropriately addressed, these issues may limit levodopa efficacy, tolerability, and compliance.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2022",
+        "authors": [
+          "Lenka Abhishek",
+          "Di Maria Gianluca",
+          "Lamotte Guillaume",
+          "Bahroo Laxman",
+          "Jankovic Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Drug Combinations",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35710101/"
+      },
+      {
+        "pmid": "20739929",
+        "title": "Parkinson's disease.",
+        "abstract": "",
+        "journal": "Nature",
+        "year": "2010",
+        "authors": [
+          "Grayson Michelle"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Introductory Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20739929/"
+      },
+      {
+        "pmid": "31175606",
+        "title": "Comparison of selegiline and levodopa combination therapy versus levodopa monotherapy in the treatment of Parkinson's disease: a meta-analysis.",
+        "abstract": "Selegiline or levodopa treatment has been suggested as a therapeutic method for Parkinson's disease (PD) in many clinical trial reports. However, the combined effects of two drugs still remain controversial. The aim of this report was to evaluate the clinical efficacy and safety of selegiline plus levodopa (S + L) combination therapy in the treatment of PD compared to that of L monotherapy, to provide a reference resource for rational drug use.",
+        "journal": "Aging clinical and experimental research",
+        "year": "2020",
+        "authors": [
+          "Jiang De-Qi",
+          "Li Ming-Xing",
+          "Jiang Li-Lin",
+          "Chen Xiao-Bai",
+          "Zhou Xing-Wen"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Activities of Daily Living",
+          "Combined Modality Therapy",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Levodopa",
+          "Mental Status and Dementia Tests",
+          "Parkinson Disease",
+          "Selegiline",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31175606/"
+      },
+      {
+        "pmid": "1691427",
+        "title": "Parkinson's disease.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1990",
+        "authors": [
+          "Marsden C D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "1-Methyl-4-phenylpyridinium",
+          "Adrenal Glands",
+          "Adult",
+          "Antiparkinson Agents",
+          "Brain Chemistry",
+          "Child",
+          "Child, Preschool",
+          "Cytoplasmic Granules",
+          "Dyskinesia, Drug-Induced",
+          "Environmental Pollutants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1691427/"
+      },
+      {
+        "pmid": "7755681",
+        "title": "Parkinson's disease.",
+        "abstract": "",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "1994",
+        "authors": [
+          "Marsden C D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cognition Disorders",
+          "Persons with Disabilities",
+          "Gait",
+          "Humans",
+          "Levodopa",
+          "Medical Audit",
+          "Movement Disorders",
+          "Neurocognitive Disorders",
+          "Neurosurgery",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7755681/"
+      },
+      {
+        "pmid": "4606887",
+        "title": "Parkinson's disease and levodopa. A five-year follow-up and review.",
+        "abstract": "",
+        "journal": "The Western journal of medicine",
+        "year": "1974",
+        "authors": [
+          "Markham C H",
+          "Treciokas L J",
+          "Diamond S G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Activities of Daily Living",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Animals",
+          "Athetosis",
+          "Basal Ganglia",
+          "Chorea",
+          "Corpus Striatum",
+          "Dementia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4606887/"
+      },
+      {
+        "pmid": "20163273",
+        "title": "Levodopa in Parkinson's disease: from the past to the future.",
+        "abstract": "Levodopa is the mainstay of symptomatic treatment for Parkinson's disease (PD). Although other treatments have been developed in the last 30 years, most patients use levodopa in view of its superior efficacy in controlling PD symptoms. Unfortunately, levodopa is associated with long-term motor complications (motor fluctuations and dyskinesias). The main causes of these undesirable effects are the narrowing of the therapeutic window with the natural progression of the disease, pulsatile dopaminergic stimulation due to the short half-life of the drug and erratic absorption. Several studies suggest that PD control could be enhanced by changing the mode of levodopa delivery so as to ensure continuous and stable supply of the drug to the brain. The objective of this text is to review the ascertained strengths and limitations of levodopa in PD, starting from its history, and propose novel modes of usage designed to cover currently unmet medical needs.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Pezzoli Gianni",
+          "Zini Michela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Humans",
+          "Levodopa",
+          "MEDLINE",
+          "Parkinson Disease",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20163273/"
+      },
+      {
+        "pmid": "16097259",
+        "title": "[Parkinson's disease].",
+        "abstract": "",
+        "journal": "La Revue du praticien",
+        "year": "2005",
+        "authors": [
+          "Jean-Luc Houeto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Cholinergic Antagonists",
+          "Diagnosis, Differential",
+          "Dopamine Agonists",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16097259/"
+      },
+      {
+        "pmid": "15372612",
+        "title": "Hypothyroidism and Parkinson's disease.",
+        "abstract": "",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2004",
+        "authors": [
+          "Teive Helio A G",
+          "Munhoz Renato P"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Drug Resistance",
+          "Humans",
+          "Hypothyroidism",
+          "Levodopa",
+          "Parkinson Disease",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15372612/"
+      },
+      {
+        "pmid": "33647001",
+        "title": "Drugs for Parkinson's disease.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2021",
+        "authors": [],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Catechol O-Methyltransferase",
+          "Dopaminergic Neurons",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+      },
+      {
+        "pmid": "25488146",
+        "title": "Levodopa: 50 years of a revolutionary drug for Parkinson disease.",
+        "abstract": "",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2015",
+        "authors": [
+          "Fahn Stanley",
+          "Poewe Werner"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Historical Article"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25488146/"
+      },
+      {
+        "pmid": "8420191",
+        "title": "Dystonia and Parkinson's disease.",
+        "abstract": "",
+        "journal": "Advances in neurology",
+        "year": "1993",
+        "authors": [
+          "Carella F",
+          "Giovannini P",
+          "Girotti F",
+          "Testa D",
+          "Caraceni T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Dose-Response Relationship, Drug",
+          "Dystonia",
+          "Humans",
+          "Levodopa",
+          "Long-Term Care",
+          "Neurologic Examination",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8420191/"
+      },
+      {
+        "pmid": "17017563",
+        "title": "Thirty five years of experience in the treatment of Parkinson's disease with levodopa and associations.",
+        "abstract": "",
+        "journal": "Journal of neural transmission. Supplementum",
+        "year": "2006",
+        "authors": [
+          "Chouza C",
+          "Buzó R",
+          "Scaramelli A",
+          "Romero S",
+          "de Medina O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Dopamine Agonists",
+          "Dyskinesia, Drug-Induced",
+          "History, 20th Century",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17017563/"
+      },
+      {
+        "pmid": "38199273",
+        "title": "Neurovascular coupling alteration in drug-naïve Parkinson's disease: The underlying molecular mechanisms and levodopa's restoration effects.",
+        "abstract": "Parkinson's disease (PD) patients exhibit an imbalance between neuronal activity and perfusion, referred to as abnormal neurovascular coupling (NVC). Nevertheless, the underlying molecular mechanism and how levodopa, the standard treatment in PD, regulates NVC is largely unknown.",
+        "journal": "Neurobiology of disease",
+        "year": "2024",
+        "authors": [
+          "Wu Chenqing",
+          "Wu Haoting",
+          "Zhou Cheng",
+          "Guan Xiaojun",
+          "Guo Tao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Neurovascular Coupling",
+          "Putamen",
+          "Cerebrovascular Circulation",
+          "Dopamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38199273/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:28:02.814918",
+  "success": true,
+  "error_message": null
+}

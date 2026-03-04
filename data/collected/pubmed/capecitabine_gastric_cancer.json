@@ -1,0 +1,640 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Capecitabine",
+    "disease": "gastric cancer",
+    "query_string": "Capecitabine AND gastric cancer"
+  },
+  "data": {
+    "query": "Capecitabine AND gastric cancer",
+    "results": [
+      {
+        "pmid": "22226517",
+        "title": "Adjuvant capecitabine and oxaliplatin for gastric cancer after D2 gastrectomy (CLASSIC): a phase 3 open-label, randomised controlled trial.",
+        "abstract": "D2 gastrectomy is recommended in US and European guidelines, and is preferred in east Asia, for patients with resectable gastric cancer. Adjuvant chemotherapy improves patient outcomes after surgery, but the benefits after a D2 resection have not been extensively investigated in large-scale trials. We investigated the effect on disease-free survival of adjuvant chemotherapy with capecitabine plus oxaliplatin after D2 gastrectomy compared with D2 gastrectomy only in patients with stage II-IIIB gastric cancer.",
+        "journal": "Lancet (London, England)",
+        "year": "2012",
+        "authors": [
+          "Bang Yung-Jue",
+          "Kim Young-Woo",
+          "Yang Han-Kwang",
+          "Chung Hyun Cheol",
+          "Park Young-Kyu"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Female",
+          "Fluorouracil",
+          "Gastrectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22226517/"
+      },
+      {
+        "pmid": "34252374",
+        "title": "Perioperative or postoperative adjuvant oxaliplatin with S-1 versus adjuvant oxaliplatin with capecitabine in patients with locally advanced gastric or gastro-oesophageal junction adenocarcinoma undergoing D2 gastrectomy (RESOLVE): an open-label, superiority and non-inferiority, phase 3 randomised controlled trial.",
+        "abstract": "The optimal perioperative chemotherapeutic regimen for locally advanced gastric cancer remains undefined. We evaluated the efficacy and safety of perioperative and postoperative S-1 and oxaliplatin (SOX) compared with postoperative capecitabine and oxaliplatin (CapOx) in patients with locally advanced gastric cancer undergoing D2 gastrectomy.",
+        "journal": "The Lancet. Oncology",
+        "year": "2021",
+        "authors": [
+          "Zhang Xiaotian",
+          "Liang Han",
+          "Li Ziyu",
+          "Xue Yingwei",
+          "Wang Yanong"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Drug Combinations",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34252374/"
+      },
+      {
+        "pmid": "33278599",
+        "title": "A randomized phase III trial comparing adjuvant single-agent S1, S-1 with oxaliplatin, and postoperative chemoradiation with S-1 and oxaliplatin in patients with node-positive gastric cancer after D2 resection: the ARTIST 2 trial☆.",
+        "abstract": "Adjuvant chemotherapy and chemoradiotherapy are some of the standards of care for gastric cancer (GC). The Adjuvant chemoRadioTherapy In Stomach Tumors (ARTIST) 2 trial compares two adjuvant chemotherapy regimens and chemoradiotherapy in patients with D2-resected, stage II or III, node-positive GC.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2021",
+        "authors": [
+          "Park S H",
+          "Lim D H",
+          "Sohn T S",
+          "Lee J",
+          "Zang D Y"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Disease-Free Survival",
+          "Fluorouracil",
+          "Humans",
+          "Neoplasm Recurrence, Local",
+          "Neoplasm Staging",
+          "Oxaliplatin",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33278599/"
+      },
+      {
+        "pmid": "25439693",
+        "title": "Adjuvant capecitabine plus oxaliplatin for gastric cancer after D2 gastrectomy (CLASSIC): 5-year follow-up of an open-label, randomised phase 3 trial.",
+        "abstract": "The CLASSIC trial was done to compare adjuvant capecitabine plus oxaliplatin versus observation after D2 gastrectomy for patients with stage II or III gastric cancer. The planned interim analysis of CLASSIC (median follow-up 34 months) showed that adjuvant capecitabine plus oxaliplatin significantly improved disease-free survival, the primary endpoint, compared with observation after D2 gastrectomy. We report the 5-year follow-up data from the trial.",
+        "journal": "The Lancet. Oncology",
+        "year": "2014",
+        "authors": [
+          "Noh Sung Hoon",
+          "Park Sook Ryun",
+          "Yang Han-Kwang",
+          "Chung Hyun Cheol",
+          "Chung Ik-Joo"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Fluorouracil",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25439693/"
+      },
+      {
+        "pmid": "35287591",
+        "title": "Combined systemic immune-inflammatory index (SII) and prognostic nutritional index (PNI) predicts chemotherapy response and prognosis in locally advanced gastric cancer patients receiving neoadjuvant chemotherapy with PD-1 antibody sintilimab and XELOX: a prospective study.",
+        "abstract": "Previous studies have confirmed that systemic immune-inflammatory index (SII) and prognostic nutritional index (PNI) can predict the prognosis and chemotherapy efficacy of various malignant tumors. However, to the best of our knowledge, no study investigated the SII combined with PNI score to predict the efficacy of anti-programmed death 1 (anti-PD-1) antibody sintilimab and XELOX regimen (capecitabine plus oxaliplatin) in the treatment of locally advanced gastric cancer. This study aims to evaluate the predictive value of pre-treatment SII-PNI score on the sensitivity of sintilimab immunotherapy combined with XELOX chemotherapy in patients with locally advanced gastric cancer.",
+        "journal": "BMC gastroenterology",
+        "year": "2022",
+        "authors": [
+          "Ding Ping'an",
+          "Guo Honghai",
+          "Sun Chenyu",
+          "Yang Peigang",
+          "Kim Na Hyun"
+        ],
+        "pub_types": [
+          "Clinical Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Humans",
+          "Immunotherapy",
+          "Neoadjuvant Therapy",
+          "Nutrition Assessment",
+          "Oxaloacetates",
+          "Prognosis",
+          "Programmed Cell Death 1 Receptor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35287591/"
+      },
+      {
+        "pmid": "40244574",
+        "title": "Atezolizumab and Trastuzumab Plus Chemotherapy for ERBB2-Positive Locally Advanced Resectable Gastric Cancer: A Randomized Clinical Trial.",
+        "abstract": "Effective treatment of locally advanced gastric cancer (GC) or gastroesophageal junction (GEJ) cancer remains a challenge.",
+        "journal": "JAMA oncology",
+        "year": "2025",
+        "authors": [
+          "Peng Zhi",
+          "Zhang Xiaotian",
+          "Liang Han",
+          "Zheng Zhichao",
+          "Wang Zhenning"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stomach Neoplasms",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Antibodies, Monoclonal, Humanized",
+          "Erb-b2 Receptor Tyrosine Kinases",
+          "Trastuzumab",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40244574/"
+      },
+      {
+        "pmid": "22184384",
+        "title": "Phase III trial comparing capecitabine plus cisplatin versus capecitabine plus cisplatin with concurrent capecitabine radiotherapy in completely resected gastric cancer with D2 lymph node dissection: the ARTIST trial.",
+        "abstract": "The ARTIST (Adjuvant Chemoradiation Therapy in Stomach Cancer) trial was the first study to our knowledge to investigate the role of postoperative chemoradiotherapy therapy in patients with curatively resected gastric cancer with D2 lymph node dissection. This trial was designed to compare postoperative treatment with capecitabine plus cisplatin (XP) versus XP plus radiotherapy with capecitabine (XP/XRT/XP).",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2012",
+        "authors": [
+          "Lee Jeeyun",
+          "Lim Do Hoon",
+          "Kim Sung",
+          "Park Se Hoon",
+          "Park Joon Oh"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemoradiotherapy, Adjuvant",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Female",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22184384/"
+      },
+      {
+        "pmid": "33610734",
+        "title": "FAST: a randomised phase II study of zolbetuximab (IMAB362) plus EOX versus EOX alone for first-line treatment of advanced CLDN18.2-positive gastric and gastro-oesophageal adenocarcinoma.",
+        "abstract": "Claudin 18.2 (CLDN18.2) is contained within normal gastric mucosa epithelial tight junctions; upon malignant transformation, CLDN18.2 epitopes become exposed. Zolbetuximab, a chimeric monoclonal antibody, mediates specific killing of CLDN18.2-positive cells through immune effector mechanisms.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2021",
+        "authors": [
+          "Sahin U",
+          "Türeci Ö",
+          "Manikhas G",
+          "Lordick F",
+          "Rusyn A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adolescent",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Claudins",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33610734/"
+      },
+      {
+        "pmid": "21950464",
+        "title": "Capecitabine for the treatment for advanced gastric cancer: efficacy, safety and ethnicity.",
+        "abstract": "Capecitabine- and 5-fluorouracil (5-FU)-based regimens are widely used for the treatment for advanced gastric cancer (AGC). We aimed to compare the efficacy of the two regimens for both Caucasian and Asian subjects, through a meta-analysis of the available trial evidence.",
+        "journal": "Journal of clinical pharmacy and therapeutics",
+        "year": "2012",
+        "authors": [
+          "Ma Y",
+          "Tang L",
+          "Wang H-X",
+          "Xu Y-C",
+          "Ma Y"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Asian People",
+          "Capecitabine",
+          "Deoxycytidine",
+          "Fluorouracil",
+          "Humans",
+          "Neoplasm Staging",
+          "Stomach Neoplasms",
+          "White People"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21950464/"
+      },
+      {
+        "pmid": "34275019",
+        "title": "Comparison of S-1-based vs. capecitabine-based adjuvant chemotherapy for patients with gastric cancer: a systematic review and meta-analysis.",
+        "abstract": "S-1-based and capecitabine-based adjuvant treatments are proved efficacious for patients with gastric cancer, but conventional meta-analyses of the direct comparisons between two alternative adjuvant regimens to resection of GC have not been attempted.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "2021",
+        "authors": [
+          "Zhang Qingqian",
+          "Qian Yue",
+          "Yin Ying"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Disease-Free Survival",
+          "Drug Combinations",
+          "Gastrectomy",
+          "Humans",
+          "Neoplasm Staging",
+          "Oxonic Acid",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34275019/"
+      },
+      {
+        "pmid": "32389017",
+        "title": "The efficacy and safety of capecitabine-based versus S-1-based chemotherapy for metastatic or recurrent gastric cancer: a systematic review and meta-analysis of clinical randomized trials.",
+        "abstract": "Gastric cancer (GC), particularly unresectable, metastatic, or recurrent GC, has been characterized by unfavorable prognosis. This meta-analysis of clinical randomized phase II trials was conducted to systematically evaluate the efficacy and safety of capecitabine-based versus S-1-based chemotherapy for metastatic or recurrent GC.",
+        "journal": "Annals of palliative medicine",
+        "year": "2020",
+        "authors": [
+          "Feng Zhijun",
+          "Yan Peijing",
+          "Hou Xiaofeng",
+          "Feng Jie",
+          "He Xiaodong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Capecitabine",
+          "Disease-Free Survival",
+          "Drug Combinations",
+          "Humans",
+          "Oxonic Acid",
+          "Randomized Controlled Trials as Topic",
+          "Stomach Neoplasms",
+          "Tegafur"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32389017/"
+      },
+      {
+        "pmid": "26470733",
+        "title": "Capecitabine for the treatment of gastric cancer.",
+        "abstract": "Capecitabine is an orally administered prodrug of 5-fluorouracil (5-FU) and was designed to specifically affect tumor cells more than normal tissues. Capecitabine is as effective and well tolerated as infusional 5-FU in the treatment of advanced gastric cancer (AGC). Following the REAL-2 and ML17032 studies, capecitabine has replaced infusional 5-FU for treating GC. Capecitabine plus platinum is one of the most widely used regimens for the first-line treatment of AGC, regardless of HER2 status. The adjuvant capecitabine/oxaliplatin regimen is one therapeutic option for resectable gastric cancer, especially after D2 resection. Compared with S-1, capecitabine has been shown to have a similar efficacy, but is associated with fewer ethnic differences than S-1, which accounts for the more widespread usage of capecitabine worldwide.",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "year": "2015",
+        "authors": [
+          "Kim Tae-Yong",
+          "Oh Do-Youn",
+          "Bang Yung-Jue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Camptothecin",
+          "Capecitabine",
+          "Cisplatin",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Docetaxel",
+          "Humans",
+          "Irinotecan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26470733/"
+      },
+      {
+        "pmid": "37852180",
+        "title": "SPOTlight on GLOW.",
+        "abstract": "The GLOW randomized double-blind phase 3 trial1 shows that Claudin-18.2 targeting antibody zolbetuximab combined with capecitabine and oxaliplatin improves outcome compared to placebo and chemotherapy as first-line treatment in Claudin-18.2-positive, HER2-negative gastric or gastroesophageal junction adenocarcinomas.",
+        "journal": "Cell reports. Medicine",
+        "year": "2023",
+        "authors": [
+          "Derks Sarah",
+          "van Laarhoven Hanneke W M"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Claudins",
+          "Esophageal Neoplasms",
+          "Erb-b2 Receptor Tyrosine Kinases",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37852180/"
+      },
+      {
+        "pmid": "39162872",
+        "title": "Nivolumab plus chemotherapy in patients with HER2-negative, previously untreated, unresectable, advanced, or recurrent gastric/gastroesophageal junction cancer: 3-year follow-up of the ATTRACTION-4 randomized, double-blind, placebo-controlled, phase 3 trial.",
+        "abstract": "Nivolumab + chemotherapy is now a standard of care for HER2-negative, previously untreated, unresectable or recurrent gastric/gastroesophageal junction cancer (advanced gastric cancer), but long-term follow-up data of clinical trials are limited.",
+        "journal": "Gastric cancer : official journal of the International Gastric Cancer Association and the Japanese Gastric Cancer Association",
+        "year": "2024",
+        "authors": [
+          "Boku Narikazu",
+          "Omori Takeshi",
+          "Shitara Kohei",
+          "Sakuramoto Shinichi",
+          "Yamaguchi Kensei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stomach Neoplasms",
+          "Nivolumab",
+          "Female",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Male",
+          "Double-Blind Method",
+          "Esophagogastric Junction",
+          "Middle Aged",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39162872/"
+      },
+      {
+        "pmid": "25744576",
+        "title": "Efficacy and safety of trastuzumab in combination with oxaliplatin and fluorouracil-based chemotherapy for patients with HER2-positive metastatic gastric and gastro-oesophageal junction adenocarcinoma patients: a retrospective study.",
+        "abstract": "Trastuzumab with 5-fluorouracil (5-FU) and cisplatin offers prolonged survival in patients with HER2-overexpressing advanced gastric cancer (AGC) and advanced gastro-oesophageal junction cancer (AGOJ). Oxaliplatin in combination with intravenous 5-FU plus leucovorin (LV; modified [m]FOLFOX6) or capecitabine (XELOX) improves tolerability compared with 5-FU/cisplatin regimen. There are few data available on the efficacy and safety of trastuzumab-oxaliplatin-based chemotherapy in previously untreated HER2-positive AGC and AGOJ patients.",
+        "journal": "Bulletin du cancer",
+        "year": "2015",
+        "authors": [
+          "Soularue Émilie",
+          "Cohen Romain",
+          "Tournigand Christophe",
+          "Zaanan Aziz",
+          "Louvet Christophe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Deoxycytidine",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25744576/"
+      },
+      {
+        "pmid": "17956204",
+        "title": "Capecitabine in advanced gastric cancer.",
+        "abstract": "Since the routine introduction of chemotherapy for advanced gastric cancer in the early 1990 s, median survival for gastric cancer has improved from 3 months, with best supportive care alone, to > 11 months in recently reported Phase III trials of triplet chemotherapy. Capecitabine is an orally-active fluoropyrimidine, which is selectively metabolised to fluorouracil in tumour cells. The combinations of platinum compounds and capecitabine have been evaluated in two recent, large, Phase III trials demonstrating non-inferiority in efficacy compared with platinum plus continuous infusion fluorouracil. In view of the convenience and flexibility of patients in adjusting dosage when encountering toxicities, capecitabine is replacing continuous infusion fluorouracil as the backbone of combination chemotherapy in advanced gastric cancer patients. Future trials evaluating biologicals are now incorporating capecitabine combinations as control arms in both advanced disease and peri-operative sett",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2007",
+        "authors": [
+          "Okines Alicia",
+          "Chau Ian",
+          "Cunningham David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Capecitabine",
+          "Clinical Trials as Topic",
+          "Deoxycytidine",
+          "Drug Approval",
+          "Fluorouracil",
+          "Humans",
+          "Prodrugs",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17956204/"
+      },
+      {
+        "pmid": "22117147",
+        "title": "Capecitabine in gastric cancer.",
+        "abstract": "Chemotherapy is an important part of treatment for patients with gastric cancer. Although there is no single globally accepted standard of care for patients with advanced disease, regimens typically include a fluoropyrimidine and a platinum compound with or without a third drug (usually epirubicin or docetaxel). Oral fluoropyrimidines, such as capecitabine, offer clear advantages to patients in terms of convenience, but it is only recently that comprehensive data on their efficacy and safety in patients with gastric cancer have become available. The present article reviews capecitabine in the treatment of advanced and resectable gastric cancer. Ongoing Phase III trials involving capecitabine are also discussed. The data show that capecitabine is now established as an integral part of the multi-agent regimens used in the management of patients with gastric cancers.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2011",
+        "authors": [
+          "Bang Yung-Jue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Capecitabine",
+          "Clinical Trials as Topic",
+          "Deoxycytidine",
+          "Fluorouracil",
+          "Humans",
+          "Stomach Neoplasms",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22117147/"
+      },
+      {
+        "pmid": "38394851",
+        "title": "Deciphering drug resistance in gastric cancer: Potential mechanisms and future perspectives.",
+        "abstract": "Gastric cancer (GC) is a malignant tumor that originates from the epithelium of the gastric mucosa. The latest global cancer statistics show that GC ranks fifth in incidence and fourth in mortality among all cancers, posing a serious threat to public health. While early-stage GC is primarily treated through surgery, chemotherapy is the frontline option for advanced cases. Currently, commonly used chemotherapy regimens include FOLFOX (oxaliplatin + leucovorin + 5-fluorouracil) and XELOX (oxaliplatin + capecitabine). However, with the widespread use of chemotherapy, an increasing number of cases of drug resistance have emerged. This article primarily explores the potential mechanisms of chemotherapy resistance in GC patients from five perspectives: cell death, tumor microenvironment, non-coding RNA, epigenetics, and epithelial-mesenchymal transition. Additionally, it proposes feasibility strategies to overcome drug resistance from four angles: cancer stem cells, tumor microenvironment, n",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2024",
+        "authors": [
+          "Liu Jiahua",
+          "Yuan Qihang",
+          "Guo Hui",
+          "Guan Hewen",
+          "Hong Zhijun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stomach Neoplasms",
+          "Oxaliplatin",
+          "Deoxycytidine",
+          "Capecitabine",
+          "Fluorouracil",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Leucovorin",
+          "Drug Resistance",
+          "Tumor Microenvironment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38394851/"
+      },
+      {
+        "pmid": "18846273",
+        "title": "Capecitabine in gastric cancer.",
+        "abstract": "Double and triplet regimens comprising a fluoropyrimidine and a platinum compound, with or without an anthracycline or taxane are accepted standards of care for advanced gastric cancer. Capecitabine, an oral fluoropyrimidine designed to selectively deliver 5-fluorouracil (5-FU) to tumor cells, is safe and effective in combination chemotherapy regimens for advanced gastric cancer, and it is noninferior to 5-FU for survival. As capecitabine is more convenient to administer than infused 5-FU, avoiding the need for central venous access and the associated risk of complications, it is also an accepted alternative to 5-FU within perioperative combination chemotherapy regimens for resectable gastric cancer.",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2008",
+        "authors": [
+          "Okines Alicia",
+          "Chau Ian",
+          "Cunningham David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antimetabolites, Antineoplastic",
+          "Capecitabine",
+          "Combined Modality Therapy",
+          "Deoxycytidine",
+          "Fluorouracil",
+          "Humans",
+          "Patient Acceptance of Health Care",
+          "Protein Binding",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18846273/"
+      },
+      {
+        "pmid": "19474114",
+        "title": "Meta-analysis of the REAL-2 and ML17032 trials: evaluating capecitabine-based combination chemotherapy and infused 5-fluorouracil-based combination chemotherapy for the treatment of advanced oesophago-gastric cancer.",
+        "abstract": "The REAL-2 and ML17032 trials demonstrated that the oral fluoropyrimidine, capecitabine, is noninferior to 5-fluorouracil (5-FU) for overall survival (OS) and progression-free survival (PFS), respectively, in advanced oesophago-gastric cancer.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2009",
+        "authors": [
+          "Okines A F C",
+          "Norman A R",
+          "McCloud P",
+          "Kang Y-K",
+          "Cunningham D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Esophageal Neoplasms",
+          "Female",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19474114/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:44:53.194108",
+  "success": true,
+  "error_message": null
+}

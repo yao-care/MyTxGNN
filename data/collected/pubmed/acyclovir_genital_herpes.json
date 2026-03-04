@@ -1,0 +1,589 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "genital herpes",
+    "query_string": "Acyclovir AND genital herpes"
+  },
+  "data": {
+    "query": "Acyclovir AND genital herpes",
+    "results": [
+      {
+        "pmid": "27281837",
+        "title": "Genital Herpes: A Review.",
+        "abstract": "Genital herpes is a common sexually transmitted disease, affecting more than 400 million persons worldwide. It is caused by herpes simplex virus (HSV) and characterized by lifelong infection and periodic reactivation. A visible outbreak consists of single or clustered vesicles on the genitalia, perineum, buttocks, upper thighs, or perianal areas that ulcerate before resolving. Symptoms of primary infection may include malaise, fever, or localized adenopathy. Subsequent outbreaks, caused by reactivation of latent virus, are usually milder. Asymptomatic shedding of transmissible virus is common. Although HSV-1 and HSV-2 are indistinguishable visually, they exhibit differences in behavior that may affect management. Patients with HSV-2 have a higher risk of acquiring human immunodeficiency virus (HIV) infection. Polymerase chain reaction assay is the preferred method of confirming HSV infection in patients with active lesions. Treatment of primary and subsequent outbreaks with nucleoside ",
+        "journal": "American family physician",
+        "year": "2016",
+        "authors": [
+          "Groves Mary Jo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Disease Transmission, Infectious",
+          "Education, Medical, Continuing",
+          "Female",
+          "Herpes Genitalis",
+          "Herpesvirus 2, Human",
+          "Humans",
+          "Pregnancy",
+          "Pregnant People"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27281837/"
+      },
+      {
+        "pmid": "6359082",
+        "title": "Acyclovir: mechanism of action, pharmacokinetics, safety and clinical applications.",
+        "abstract": "Acyclovir is a new antiviral drug that acts as a specific inhibitor of herpesvirus DNA polymerase. It shows good in vitro activity against herpes simplex and varicella-zoster viruses. The drug may be administered topically to the skin, intravenously, orally, or topically to the eye (only topical and intravenous preparations are currently available). Acyclovir kinetics are described by a two-compartment open model. The drug and its metabolites are excreted by the kidney via glomerular filtration and tubular secretion. Dosage adjustment is required in patients with renal failure. Safety and tolerance studies in animals and humans have shown acyclovir to be very well tolerated. The most important adverse effect is crystalluria and elevated serum creatinine related to bolus intravenous administration. Other reported adverse effects include infusion site inflammation and rash. Topical acyclovir is effective for treating initial genital herpes and mucocutaneous herpes in the compromised host",
+        "journal": "Pharmacotherapy",
+        "year": "1983",
+        "authors": [
+          "Gnann J W",
+          "Barton N H",
+          "Whitley R J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Topical",
+          "Animals",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Clinical Trials as Topic",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6359082/"
+      },
+      {
+        "pmid": "34030813",
+        "title": "Neonatal Herpes Simplex Virus Disease: Updates and Continued Challenges.",
+        "abstract": "This article defines neonatal herpes simplex virus (HSV) disease and describes the progress over the past 40 years that has revolutionized the management of HSV disease in neonates to improve their outcomes. These advancements include the introduction of acyclovir in the 1980s, polymerase chain reaction (PCR) for the detection of HSV DNA in the 1990s, and recommendations on managing infants born to mothers with active genital lesions. Despite these advancements, however, there remain high morbidity and mortality in affected neonates, with need for continued improvement. Areas of high interest include vaccine development and rapid PCR detection at time of delivery.",
+        "journal": "Clinics in perinatology",
+        "year": "2021",
+        "authors": [
+          "Samies Nicole L",
+          "James Scott H",
+          "Kimberlin David W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34030813/"
+      },
+      {
+        "pmid": "29798750",
+        "title": "[Genital herpes].",
+        "abstract": "Genital herpes is a common sexually transmissible infection (STI) caused by herpes simplex virus (HSV). Clinically, the infection presents with genital ulcers but may also be asymptomatic. The risk of genital HSV infection is associated with increasing number of sex partners, previous infection with another STI and female sex. The cornerstone of treatment is systemic antivirals such as acyclovir. Counselling on transmission and recurrence risks is essential, and psychological distress is often a consequence of the disease.",
+        "journal": "Ugeskrift for laeger",
+        "year": "2018",
+        "authors": [
+          "Vestergaard Tine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Genitalis",
+          "Humans",
+          "Recurrence",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29798750/"
+      },
+      {
+        "pmid": "21496359",
+        "title": "Genital herpes.",
+        "abstract": "Genital herpes is an infection with herpes simplex virus type 1 (HSV-1) or type 2 (HSV-2), and is among the most common sexually transmitted diseases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "Hollier Lisa M",
+          "Straub Heather"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Condoms",
+          "Herpes Genitalis",
+          "Herpesvirus 2, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21496359/"
+      },
+      {
+        "pmid": "39132940",
+        "title": "Genital Herpes Zoster.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Bao Chengbei",
+          "Ji Chao"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Herpes Genitalis",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Aged",
+          "Scrotum",
+          "Penis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39132940/"
+      },
+      {
+        "pmid": "14702423",
+        "title": "Once-daily valacyclovir to reduce the risk of transmission of genital herpes.",
+        "abstract": "Nucleoside analogues against herpes simplex virus (HSV) have been shown to suppress shedding of HSV type 2 (HSV-2) on genital mucosal surfaces and may prevent sexual transmission of HSV.",
+        "journal": "The New England journal of medicine",
+        "year": "2004",
+        "authors": [
+          "Corey Lawrence",
+          "Wald Anna",
+          "Patel Raj",
+          "Sacks Stephen L",
+          "Tyring Stephen K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antiviral Agents",
+          "Disease Transmission, Infectious",
+          "Drug Administration Schedule",
+          "Female",
+          "Herpes Genitalis",
+          "Herpesvirus 2, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14702423/"
+      },
+      {
+        "pmid": "35271913",
+        "title": "Phenotypic and genotypic acyclovir resistance surveillance of genital herpes simplex virus 2 in South Africa.",
+        "abstract": "Acyclovir (ACV) is currently included in the syndromic management algorithm for genital ulcer disease in South Africa, and is the recommended first-line treatment for herpes simplex virus 2 (HSV-2). In the majority of cases, HSV-2 resistance to ACV is due to amino acid changes within the viral thymidine kinase (TK). Phenotypic and genotypic ACV resistance surveillance of HSV-2 derived from genital ulcer disease swab specimens was conducted at a primary healthcare facility in Johannesburg between 2018 and 2020. The objectives of this surveillance were to identify ACV resistance-associated mutations and polymorphisms in HSV-2 TK, and to determine the phenotypic ACV resistance profiles of the corresponding clinical HSV-2 isolates. Genotypic analysis of TK from 67 HSV-2 positive genital ulcer swabs revealed 48 specimens with TK mutations, conferring 113 nucleotide changes. No resistance-associated mutations were found, however, we identified nine known natural polymorphisms (R26H, A27T, S2",
+        "journal": "Antiviral research",
+        "year": "2022",
+        "authors": [
+          "Muller Etienne E",
+          "Maseko Dumisile V",
+          "Kularatne Ranmini S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Amino Acids",
+          "Antiviral Agents",
+          "Drug Resistance, Viral",
+          "Female",
+          "Genitalia",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35271913/"
+      },
+      {
+        "pmid": "6355051",
+        "title": "Genital herpes - the disease and its treatment including intravenous acyclovir.",
+        "abstract": "This paper firstly reviews the natural history of genital herpes, giving special attention to the differences between primary and non-primary initial disease and recurrent disease and between herpes simplex virus 1 and 2. Secondly, previous therapies for genital herpes, and in particular the problems associated with previous drug trials are considered. The final part of the paper reviews a double-blind placebo controlled randomized study of intravenous acyclovir in patients with severe first attack, genital herpes. Intravenous acyclovir significantly reduced the duration of viral shedding, the healing time, the duration of vesicles and new lesion formation, and the duration of all symptoms, but did not prevent subsequent recurrences.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Mindel A",
+          "Sutherland S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adolescent",
+          "Adult",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Herpes Genitalis",
+          "Humans",
+          "Injections, Intravenous",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6355051/"
+      },
+      {
+        "pmid": "19454063",
+        "title": "Genital herpes.",
+        "abstract": "Genital herpes is an infection with herpes simplex virus type 1 (HSV-1) or type 2 (HSV-2), and is among the most common sexually transmitted diseases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2007",
+        "authors": [
+          "Jungmann Eva Maria Agnes"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Herpes Genitalis",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454063/"
+      },
+      {
+        "pmid": "6355052",
+        "title": "Current status and prospects for oral acyclovir treatment of first episode and recurrent genital herpes simplex virus.",
+        "abstract": "Herpes simplex genitalis is an increasingly common primary or recurrent HSV infection. Acyclovir (ACV) has been found to diminish virus shedding and clinical symptoms in patients with first episode genital HSV when given topically or intravenously. As most patients with first episode disease do not require hospitalization and recurrent disease is usually less severe than the primary infection, out-patient treatment forms the basis of practical management. Acyclovir is absorbed orally with plasma concentrations which exceed in vitro inhibitory concentrations for HSV1 and HSV2. In double blind studies in over 100 recipients with first episode HSV, oral ACV treatment (200 mg, 5 times daily) significantly reduced virus shedding, new lesion formation, duration of genital lesions and clinical symptoms in both men and women when compared with placebo recipients. No toxicity was observed. Recurrence rates following the first episode were similar in placebo and ACV groups. A multi-centre double",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Bryson Y J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Oral",
+          "Adult",
+          "Ambulatory Care",
+          "Antibody Formation",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Herpes Genitalis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6355052/"
+      },
+      {
+        "pmid": "6355054",
+        "title": "Treatment of primary first-episode genital herpes simplex virus infections with acyclovir: results of topical, intravenous and oral therapy.",
+        "abstract": "Three double-blind, placebo-controlled evaluations of acyclovir were performed in first-episode genital herpes infections. In one trial intravenous acyclovir or saline was administered in hospital over 5 days. In the other two trials, 10-day courses of oral, or 7-day courses of topical acyclovir and respective placebos were followed up in the outpatient department. Regular assessments included staging examinations, culture of lesions and blood and serum analyses. No patient discontinued medication because of an adverse reaction, although one quarter of topically treated patients complained of local irritation on application. The placebo-controlled evaluations indicate that, if given within the first 7 days after the onset of lesions, topical, intravenous and oral acyclovir are useful in shortening the course of first-episode primary genital herpes. The clinical and virological effects of intravenous and oral acyclovir were more marked than those of topical treatment in the reduction of",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Corey L",
+          "Benedetti J",
+          "Critchlow C",
+          "Mertz G",
+          "Douglas J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Adult",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Herpes Genitalis",
+          "Humans",
+          "Injections, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6355054/"
+      },
+      {
+        "pmid": "28619732",
+        "title": "Genital herpes.",
+        "abstract": "",
+        "journal": "Sexually transmitted infections",
+        "year": "2017",
+        "authors": [
+          "Patel Rajul"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Oral",
+          "Antiviral Agents",
+          "Drug Resistance, Viral",
+          "Herpes Genitalis",
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Uncertainty"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28619732/"
+      },
+      {
+        "pmid": "29132768",
+        "title": "[Not Available].",
+        "abstract": "Identify measures to diagnose, prevent and treat genital herpes infection during pregnancy and childbirth and neonatal infection.",
+        "journal": "Gynecologie, obstetrique, fertilite & senologie",
+        "year": "2017",
+        "authors": [
+          "Sénat M-V",
+          "Anselem O",
+          "Picone O",
+          "Renesme L",
+          "Sananès N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Cesarean Section",
+          "Female",
+          "Premature Rupture of Fetal Membranes",
+          "Gestational Age",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Herpesvirus 2, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29132768/"
+      },
+      {
+        "pmid": "3512870",
+        "title": "Oral acyclovir for treatment and suppression of genital herpes simplex virus infection. A review.",
+        "abstract": "",
+        "journal": "JAMA",
+        "year": "1986",
+        "authors": [
+          "Guinan M E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Oral",
+          "Clinical Trials as Topic",
+          "Female",
+          "Herpes Genitalis",
+          "Humans",
+          "Male",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3512870/"
+      },
+      {
+        "pmid": "30366717",
+        "title": "[Diagnostic and therapeutic recommendations for sexually transmitted diseases: Genital herpes].",
+        "abstract": "TREATMENT OF THE INITIAL INFECTION OR FIRST CLINICAL EPISODE OF GENITAL HERPES: An initial infection or first clinical episode of genital herpes is treated with oral aciclovir 200mg×5/d for 5 to 10 days depending on clinical status. The recommended dosage for valaciclovir is 1g×2/d and treatment duration is identical to that for aciclovir. TREATMENT OF HERPES RECURRING DURING PREGNANCY: There are no studies of the efficacy of antiviral therapy on the symptoms of genital recurring during pregnancy. However, initial anti-viral treatment using aciclovir or valaciclovir may be given where warranted by symptoms (i.e. duration and severity of symptoms). Valaciclovir may be used instead (equivalent efficacy but better safety data for aciclovir). Valaciclovir may be given at a dosage of 1×500mg b.i.d. p.o. for 5 days. PROPHYLACTIC ANTI-VIRAL TREATMENT DURING PREGNANCY: In female patients presenting an initial infection or infection recurring during pregnancy, although there is no demonstrated ",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2019",
+        "authors": [
+          "Milpied B",
+          "Janier M",
+          "Timsit J",
+          "Spenatto N",
+          "Caumes E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Herpes Genitalis",
+          "Humans",
+          "Infectious Disease Transmission, Vertical",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious",
+          "Valacyclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30366717/"
+      },
+      {
+        "pmid": "11772333",
+        "title": "Valacyclovir in the treatment of genital herpes and herpes zoster.",
+        "abstract": "Genital herpes is prevalent and sometimes debilitating. Likewise, herpes zoster ('shingles') can be painful and often disabling. The treatment of these conditions has been advanced over the past two decades by the introduction of guanosine nucleoside antivirals such as valacyclovir (Valtrex), Glaxo Wellcome), the highly bioavailable prodrug of acyclovir (Zovirax), Glaxo Wellcome). This review describes the pharmacology, pharmacokinetics, clinical efficacy and tolerability of valacyclovir and considers its clinical attributes in the context of those of the antivirals, acyclovir and famciclovir (Famvir), SmithKline Beecham). The data demonstrate that valacyclovir is more effective than placebo and as effective as other antivirals in the episodic and suppressive treatment of recurrent genital herpes. Valacyclovir is the only antiviral shown to be effective with a short (3-day) course in the episodic treatment of recurrent genital herpes, as well as with once-daily dosing for daily suppres",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2002",
+        "authors": [
+          "Baker David A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "Headache",
+          "Herpes Genitalis",
+          "Herpes Zoster",
+          "Humans",
+          "Nausea",
+          "Secondary Prevention",
+          "Tissue Distribution"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11772333/"
+      },
+      {
+        "pmid": "25565081",
+        "title": "Sexually transmitted diseases.",
+        "abstract": "Sexually transmitted diseases (STDs) continue to be a global epidemic with significant risk of morbidity/mortality for the fetus. STDs with prominent cutaneous findings including condylomata acuminata, genital herpes infections, and syphilis are reviewed. Important clinical cutaneous findings help aid early diagnosis and facilitate treatment. Condylomata acuminata have the potential of causing cervical cancer, anogenital cancer, and oropharyngeal cancer. Significant advances have been made in human papilloma virus vaccinations and treatment. Genital herpes infection can produce significant physical and emotional distress to the patient and significant potential harm to the fetus. Early clinical recognition of STDs and their appropriate management is critical.",
+        "journal": "Clinical obstetrics and gynecology",
+        "year": "2015",
+        "authors": [
+          "Bechtel Mark A",
+          "Trout Wayne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Aminoquinolines",
+          "Anti-Bacterial Agents",
+          "Antineoplastic Agents",
+          "Antiviral Agents",
+          "Chancre",
+          "Condylomata Acuminata",
+          "Female",
+          "Herpes Genitalis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25565081/"
+      },
+      {
+        "pmid": "15450382",
+        "title": "HSV shedding.",
+        "abstract": "Viral shedding of HSV occurs frequently in infected individuals. HSV is shed asymptomatically from multiple anatomical sites and shedding, like exposure, is a significant risk for transmission. However, the relationship between shedding frequency, viral titer and transmission is unknown. HSV-2 shedding is affected by the site and time since acquisition of infection. The advent of sensitive PCR techniques has shown that the magnitude and frequency of viral shedding is higher than shown previously with viral culture techniques. It has also clearly demonstrated that suppressive (daily) antiviral therapy reduces clinical and subclinical reactivation rates, and has been successfully used in the prevention of recurrent oral and genital HSV infections. A recent study has demonstrated that daily antiviral therapy with valaciclovir can significantly reduce transmission of HSV-2 between discordant heterosexual couples in monogamous relationships.",
+        "journal": "Antiviral research",
+        "year": "2004",
+        "authors": [
+          "Sacks S L",
+          "Griffiths P D",
+          "Corey L",
+          "Cohen C",
+          "Cunningham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "DNA, Viral",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans",
+          "Polymerase Chain Reaction",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15450382/"
+      },
+      {
+        "pmid": "32403219",
+        "title": "Carrageenan-Based Acyclovir Mucoadhesive Vaginal Tablets for Prevention of Genital Herpes.",
+        "abstract": "Women are the most affected by genital herpes, which is one of the most common sexually transmitted infections, affecting more than 400 million people worldwide. The application of vaginal microbicides could provide a safe method of protection. Acyclovir is a safe and effective medication for vaginal administration, and numerous benefits have been observed in the treatment of primary or recurrent lesions due to genital herpes. Vaginal tablets based on a combination of the polymers iota-carrageenan and hydroxypropyl methylcellulose were developed for the controlled release of acyclovir. Swelling, mucoadhesion and drug release studies were carried out in simulated vaginal fluid. The tablets, containing a combination of iota-carrageenan and hydroxypropyl methylcellulose, have an adequate uptake of the medium that allows them to develop the precise consistency and volume of gel for the controlled release of acyclovir. Its high mucoadhesive capacity also allows the formulation to remain in ",
+        "journal": "Marine drugs",
+        "year": "2020",
+        "authors": [
+          "Pacheco-Quito Edisson-Mauricio",
+          "Ruiz-Caro Roberto",
+          "Rubio Juan",
+          "Tamayo Aitana",
+          "Veiga María-Dolores"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adhesiveness",
+          "Administration, Intravaginal",
+          "Antiviral Agents",
+          "Carrageenan",
+          "Delayed-Action Preparations",
+          "Drug Liberation",
+          "Excipients",
+          "Female",
+          "Herpes Genitalis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32403219/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:52:26.975503",
+  "success": true,
+  "error_message": null
+}

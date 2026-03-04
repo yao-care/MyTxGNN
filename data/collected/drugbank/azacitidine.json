@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Azacitidine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00928",
+    "name": "Azacitidine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:10:47.363966",
+  "success": true,
+  "error_message": null
+}

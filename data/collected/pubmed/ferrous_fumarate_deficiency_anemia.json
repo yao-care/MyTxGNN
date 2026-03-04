@@ -1,0 +1,588 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "deficiency anemia",
+    "query_string": "Ferrous Fumarate AND deficiency anemia"
+  },
+  "data": {
+    "query": "Ferrous Fumarate AND deficiency anemia",
+    "results": [
+      {
+        "pmid": "35276810",
+        "title": "Efficacy and Safety of Ferrous Bisglycinate and Folinic Acid in the Control of Iron Deficiency in Pregnant Women: A Randomized, Controlled Trial.",
+        "abstract": "Iron deficiency in pregnancy is a major public health problem that causes maternal complications. The objective of this randomized, controlled trial was to examine the bioavailability, efficacy, and safety of oral ferrous bisglycinate plus folinic acid supplementation in pregnant women with iron deficiency. Subjects (12−16 weeks of gestation, n = 120) were randomly allocated to receive oral iron as ferrous bisglycinate (equiv. iron 24 mg) in supplement form with folinic acid and multivitamins (test group, n = 60) or as ferrous fumarate (equiv. iron 66 mg iron, control group, n = 60) after breakfast daily. Iron absorption was assessed by measuring fasted serum iron levels at 1 and 2 h immediately after supplementation. Hematological biomarkers and iron status were assessed before intervention, and at 3 and 6 months. Side effects were monitored throughout the intervention. A significant increase in serum iron was seen in both groups (p < 0.001) during the bioavailability assessment; howe",
+        "journal": "Nutrients",
+        "year": "2022",
+        "authors": [
+          "Bumrungpert Akkarach",
+          "Pavadhgul Patcharanee",
+          "Piromsawasdi Theera",
+          "Mozafari M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Biomarkers",
+          "Female",
+          "Ferrous Compounds",
+          "Glycine",
+          "Humans",
+          "Iron Deficiencies",
+          "Leucovorin",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35276810/"
+      },
+      {
+        "pmid": "23252877",
+        "title": "Tolerability of different oral iron supplements: a systematic review.",
+        "abstract": "A systematic review was conducted to analyze the tolerability of several oral iron supplements based on data obtained in available publications and to report the incidence of adverse effects (AEs) for each supplement both overall and gastrointestinal.",
+        "journal": "Current medical research and opinion",
+        "year": "2013",
+        "authors": [
+          "Cancelo-Hidalgo María Jesús",
+          "Castelo-Branco Camil",
+          "Palacios Santiago",
+          "Haya-Palazuelos Javier",
+          "Ciria-Recasens Manel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Ferric Compounds",
+          "Ferrous Compounds",
+          "Glycine",
+          "Humans",
+          "Metalloproteins",
+          "Succinates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23252877/"
+      },
+      {
+        "pmid": "38740692",
+        "title": "Comparative evaluation of different oral iron salts in the management of iron deficiency anemia.",
+        "abstract": "Anemia affects one-fourth of the world's population and is caused mostly by iron deficiency. Iron supplementation is the most essential strategy for preventing iron deficiency anemia. Conventional oral iron salts have many drawbacks such as poor absorption & bioavailability, and poor tolerability resulting in poor clinical outcomes.",
+        "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+        "year": "2024",
+        "authors": [
+          "Suva Manoj A",
+          "Tirgar Pravin R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Male",
+          "Retrospective Studies",
+          "Ferrous Compounds",
+          "Ascorbic Acid",
+          "Administration, Oral",
+          "Adult",
+          "Hemoglobins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38740692/"
+      },
+      {
+        "pmid": "39582678",
+        "title": "Low-Dose Prophylactic Oral Iron Supplementation (Ferrous Fumarate, Ferrous Bisglycinate, and Ferrous Sulphate) in Pregnancy Is Not Associated With Clinically Significant Gastrointestinal Complaints: Results From Two Randomized Studies.",
+        "abstract": "Background: Many pregnant women are reluctant to follow the recommendation concerning oral iron prophylaxis due to concerns about gastrointestinal (GI) side effects. Objective: To assess the frequency of GI complaints during low-dose oral iron prophylaxis and compare three iron formulas in equipotent doses: ferrous fumarate versus ferrous bisglycinate versus ferrous sulphate, in healthy women with an uncomplicated single pregnancy. Methods: Results from two randomized, double-blind studies are reported: the Gentofte study comprising 404 women allocated into four groups taking 20, 40, 60, and 80 mg of elemental iron as ferrous fumarate/day and the Naestved study comprising 78 women allocated into two groups: 25 mg of elemental iron as ferrous bisglycinate/day and 50 mg of elemental iron as ferrous sulphate/day between meals from 15 to 19 weeks of gestation to delivery. GI complaints (nausea, vomiting, epigastric pain/pyrosis, belching, meteorism, borborygmi, intestinal colic, flatulence",
+        "journal": "Journal of pregnancy",
+        "year": "2024",
+        "authors": [
+          "Milman Nils Thorm",
+          "Bergholt Thomas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Ferrous Compounds",
+          "Pregnancy",
+          "Adult",
+          "Gastrointestinal Diseases",
+          "Double-Blind Method",
+          "Glycine",
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39582678/"
+      },
+      {
+        "pmid": "24071485",
+        "title": "Anemia and iron deficiency before and after bariatric surgery.",
+        "abstract": "Iron deficiency and anemia are changes often associated with obesity. Bariatric surgery is responsible for increasing the iron loss and reducing its absorption. The objective of this study was to evaluate anemia and iron deficiency before and after bariatric surgery and to relate them to possible predisposing factors.",
+        "journal": "Surgery for obesity and related diseases : official journal of the American Society for Bariatric Surgery",
+        "year": "2014",
+        "authors": [
+          "Salgado Wilson",
+          "Modotti Caue",
+          "Nonino Carla Barbosa",
+          "Ceneviva Reginaldo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Body Mass Index",
+          "Dietary Supplements",
+          "Female",
+          "Ferrous Compounds",
+          "Gastric Bypass",
+          "Humans",
+          "Iron Deficiencies",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24071485/"
+      },
+      {
+        "pmid": "37010569",
+        "title": "A randomized controlled trial of thrice-weekly versus thrice-daily oral ferrous fumarate treatment in adult patients with iron-deficiency anemia.",
+        "abstract": "Iron deficiency anemia (IDA) is a common health problem in developing countries. Many studies have shown that low-dose oral iron could have similar efficacy and less gastrointestinal effects in iron deficiency without anemia. This prospective open-labeled randomized controlled study was designed to compare the response of 200 mg ferrous fumarate thrice-weekly (TIW) as not inferior to the thrice-daily (TID) regimen and to assess the incidence of adverse events (AEs) between two regimens in treating adult patients with IDA. The primary endpoint was either an increase in Hb ≥ 3 g/dL, having Hb of 12 g/dL in females or 13 g/dL in males at the 12th week of treatment. Secondary outcomes included adverse events (AEs), red blood cell indices, iron profiles, and patient compliance. Sixty-four patients were randomized: 32 in the TIW arm and the other 32 in the TID arm. The response rates were not different between two arms either with intention to treat analysis (72.0%, 95%CI 56.6-88.5 vs. 71.9%",
+        "journal": "Annals of hematology",
+        "year": "2023",
+        "authors": [
+          "Jongkraijakra Siddhibhong",
+          "Doungngern Thitima",
+          "Sripakdee Warunsuda",
+          "Lekhakula Arnuparp"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Female",
+          "Humans",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Prospective Studies",
+          "Iron",
+          "Ferrous Compounds",
+          "Anemia",
+          "Hemoglobins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37010569/"
+      },
+      {
+        "pmid": "36107229",
+        "title": "Intravenous ferric derisomaltose versus oral iron for persistent iron deficient pregnant women: a randomised controlled trial.",
+        "abstract": "To compare the efficacy of intravenous (IV) iron (ferric derisomaltose) with oral iron (ferrous fumarate) in women 14-21 weeks pregnant with persistent iron deficiency (ferritin < 30 µg/L).",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2023",
+        "authors": [
+          "Hansen Rebecka",
+          "Sommer Veronika Markova",
+          "Pinborg Anja",
+          "Krebs Lone",
+          "Thomsen Lars Lykke"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Ferric Compounds",
+          "Anemia, Iron-Deficiency",
+          "Administration, Oral",
+          "Administration, Intravenous",
+          "Trace Elements",
+          "Pregnancy Trimester, Second",
+          "Denmark"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36107229/"
+      },
+      {
+        "pmid": "34629872",
+        "title": "Cost-Effectiveness of Ferrous Fumarate-Folic Acid and Ferrous Gluconate-Multivitamins in a High Prevalence Area of Iron Deficiency Anemia in Indonesia.",
+        "abstract": "Up to now, the combinations of ferrous fumarate-folic acid (FF-FA) and ferrous gluconate-multivitamins (FG-MV) have been implemented by the local government in the province of Papua. Nevertheless, there is no a specific economic evaluation that has been applied to investigate the cost-effectiveness of FF-FA and FG-MV.",
+        "journal": "Therapeutics and clinical risk management",
+        "year": "2021",
+        "authors": [
+          "Rakanita Yasinta",
+          "Syamsunarno Mas Rizky A A",
+          "Sinuraya Rano K",
+          "Suradji Eka W",
+          "Abdulah Rizky"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34629872/"
+      },
+      {
+        "pmid": "39651609",
+        "title": "Effect and safety of intravenous iron compared to oral iron for treatment of iron deficiency anaemia in pregnancy.",
+        "abstract": "Intravenous iron is increasingly used to treat iron-deficient anaemia (IDA) in pregnancy. A previous network meta-analysis suggested that intravenous irons have a greater effect on haematological parameters than oral irons; however, the impact on serious pregnancy complications such as postpartum haemorrhage (PPH) or the need for blood transfusion was unclear. Since then, several new randomised controlled trials (RCTs) have been conducted.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2024",
+        "authors": [
+          "Nicholson Lily",
+          "Axon Emma",
+          "Daru Jahnavi",
+          "Rogozińska Ewelina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Anemia, Iron-Deficiency",
+          "Bias",
+          "Blood Transfusion",
+          "Ferric Compounds",
+          "Ferric Oxide, Saccharated"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39651609/"
+      },
+      {
+        "pmid": "15646652",
+        "title": "Comparison of a combination ferrous fumarate product and a polysaccharide iron complex as oral treatments of iron deficiency anemia: a Taiwanese study.",
+        "abstract": "Despite efforts to improve iron supplements for iron deficiency anemia, there is no consensus on products that balance efficacy, safety and tolerability, and cost. Ferrous products are effective, but they are associated with more gastrointestinal side effects than ferric products. Ferric products tend to have lower absorption. We present results from a 12-week study that randomized 72 people with uncomplicated iron deficiency anemia to receive a ferrous iron supplement (Ferall, a combination of ferrous fumarate with ascorbic acid, folic acid, and cyanocobalamin) or a ferric iron polysaccharide complex (Niferex, ferro-glycine sulfate) plus ascorbic acid. The ferrous product was significantly more effective, the primary and secondary endpoints including changes in levels of hemoglobin and serum ferritin. There was a slightly higher frequency of gastrointestinal side effects in patients taking the ferrous product, but both supplements were well tolerated. No participant withdrew from the ",
+        "journal": "International journal of hematology",
+        "year": "2004",
+        "authors": [
+          "Liu Ta-Chih",
+          "Lin Shen-Fung",
+          "Chang Chao-Sung",
+          "Yang Wen-Chi",
+          "Chen Tyen-Po"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Ascorbic Acid",
+          "Female",
+          "Ferritins",
+          "Ferrous Compounds",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15646652/"
+      },
+      {
+        "pmid": "28708072",
+        "title": "Iron Fortified Complementary Foods Containing a Mixture of Sodium Iron EDTA with Either Ferrous Fumarate or Ferric Pyrophosphate Reduce Iron Deficiency Anemia in 12- to 36-Month-Old Children in a Malaria Endemic Setting: A Secondary Analysis of a Cluster-Randomized Controlled Trial.",
+        "abstract": "Iron deficiency anemia (IDA) is a major public health problem in sub-Saharan Africa. The efficacy of iron fortification against IDA is uncertain in malaria-endemic settings. The objective of this study was to evaluate the efficacy of a complementary food (CF) fortified with sodium iron EDTA (NaFeEDTA) plus either ferrous fumarate (FeFum) or ferric pyrophosphate (FePP) to combat IDA in preschool-age children in a highly malaria endemic region. This is a secondary analysis of a nine-month cluster-randomized controlled trial conducted in south-central Côte d'Ivoire. 378 children aged 12-36 months were randomly assigned to no food intervention (n = 125; control group), CF fortified with 2 mg NaFeEDTA plus 3.8 mg FeFum for six days/week (n = 126; FeFum group), and CF fortified with 2 mg NaFeEDTA and 3.8 mg FePP for six days/week (n = 127; FePP group). The outcome measures were hemoglobin (Hb), plasma ferritin (PF), iron deficiency (PF < 30 μg/L), and anemia (Hb < 11.0 g/dL). Data were analy",
+        "journal": "Nutrients",
+        "year": "2017",
+        "authors": [
+          "Glinz Dominik",
+          "Wegmüller Rita",
+          "Ouattara Mamadou",
+          "Diakité Victorine G",
+          "Aaron Grant J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Child, Preschool",
+          "Cluster Analysis",
+          "Cote d'Ivoire",
+          "Diphosphates",
+          "Edetic Acid",
+          "Endemic Diseases",
+          "Ferric Compounds",
+          "Ferritins",
+          "Ferrous Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28708072/"
+      },
+      {
+        "pmid": "40027279",
+        "title": "Iron mother- protocol for a randomised controlled trial of daily versus alternate day ferrous fumarate for the treatment of iron deficiency anaemia in pregnancy.",
+        "abstract": "Iron deficiency anaemia (IDA) is the commonest haematological problem in pregnancy and has implications for maternal, fetal, and childhood health. Treatment, despite being inexpensive and readily available, remains challenging with issues relating to compliance, tolerability, and effectiveness. There is a lack of consensus regarding the optimal dosing of oral iron replacement in pregnancy. Emerging evidence from non-pregnant populations suggest that alternate day dosing may be as effective.",
+        "journal": "Contemporary clinical trials communications",
+        "year": "2025",
+        "authors": [
+          "O'Toole F E",
+          "McAuliffe F M",
+          "Fitzgerald J M",
+          "Mealy G A",
+          "Petkute R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40027279/"
+      },
+      {
+        "pmid": "29767699",
+        "title": "Impact of Double-Fortified Salt with Iron and Iodine on Hemoglobin, Anemia, and Iron Deficiency Anemia: A Systematic Review and Meta-Analysis.",
+        "abstract": "Double-fortified salt (DFS) containing iron and iodine has been proposed as a feasible and cost-effective alternative for iron fortification in low- and middle-income countries (LMICs). We conducted a systematic review and meta-analysis from randomized and quasi-randomized controlled trials to 1) assess the effect of DFS on biomarkers of iron status and the risk of anemia and iron deficiency anemia (IDA) and 2) evaluate differential effects of DFS by study type (efficacy or effectiveness), population subgroups, iron formulation (ferrous sulfate, ferrous fumarate, and ferric pyrophosphate), iron concentration, duration of intervention, and study quality. A systematic search with the use of MEDLINE, EMBASE, Cochrane, Web of Science, and other sources identified 221 articles. Twelve efficacy and 2 effectiveness studies met prespecified inclusion criteria. All studies were conducted in LMICs: 10 in India, 2 in Morocco, and 1 each in Côte d'Ivoire and Ghana. In efficacy studies, DFS increas",
+        "journal": "Advances in nutrition (Bethesda, Md.)",
+        "year": "2018",
+        "authors": [
+          "Ramírez-Luzuriaga María J",
+          "Larson Leila M",
+          "Mannar Venkatesh",
+          "Martorell Reynaldo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Developing Countries",
+          "Female",
+          "Food, Fortified",
+          "Hemoglobins",
+          "Humans",
+          "Iodine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29767699/"
+      },
+      {
+        "pmid": "15743019",
+        "title": "Iron amino acid chelates.",
+        "abstract": "Iron amino acid chelates, such as iron glycinate chelates, have been developed to be used as food fortificants and therapeutic agents in the prevention and treatment of iron deficiency anemia. Ferrous bis-glycine chelate (FeBC), ferric tris-glycine chelate, ferric glycinate, and ferrous bis-glycinate hydrochloride are available commercially. FeBC is the most studied and used form. Iron absorption from FeBC is affected by enhancers and inhibitors of iron absorption, but to a lesser extent than ferrous sulfate. Its absorption is regulated by iron stores. FeBC is better absorbed from milk, wheat, whole maize flour, and precooked corn flour than is ferrous sulfate. Supplementation trials have demonstrated that FeBC is efficacious in treating iron deficiency anemia. Consumption of FeBC-fortified liquid milk, dairy products, wheat rolls, and multi-nutrient beverages is associated with an improvement of iron status. The main limitations to the widespread use of FeBC in national fortification ",
+        "journal": "International journal for vitamin and nutrition research. Internationale Zeitschrift fur Vitamin- und Ernahrungsforschung. Journal international de vitaminologie et de nutrition",
+        "year": "2004",
+        "authors": [
+          "Hertrampf Eva",
+          "Olivares Manuel"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Amino Acids",
+          "Anemia, Iron-Deficiency",
+          "Biological Availability",
+          "Dairy Products",
+          "Drug Stability",
+          "Food Handling",
+          "Food, Fortified",
+          "Glycine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15743019/"
+      },
+      {
+        "pmid": "13867867",
+        "title": "Treatment of iron deficiency anemia with ferrous fumarate.",
+        "abstract": "",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "1962",
+        "authors": [
+          "BERK M S",
+          "NOVICH M A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Iron-Deficiency",
+          "Ferrous Compounds",
+          "Iron",
+          "Maleates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13867867/"
+      },
+      {
+        "pmid": "35811545",
+        "title": "Iron supplementation in pregnant Danish women revisited: Effects on prepartum and postpartum iron deficiency, anemia, serum erythropoietin; including iron status, erythropoietin and anthropometrics in newborns. A randomized, placebo-controlled study.",
+        "abstract": "To assess effects of iron supplementation, 66 mg elemental iron daily as ferrous fumarate, on iron status markers during normal pregnancies.",
+        "journal": "Journal of neonatal-perinatal medicine",
+        "year": "2022",
+        "authors": [
+          "Milman N T"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Female",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Humans",
+          "Iron",
+          "Birth Weight",
+          "Placenta",
+          "Iron Deficiencies",
+          "Anemia, Iron-Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35811545/"
+      },
+      {
+        "pmid": "9508353",
+        "title": "A comparison between intravenous iron polymaltose complex (Ferrum Hausmann) and oral ferrous fumarate in the treatment of iron deficiency anaemia in pregnancy.",
+        "abstract": "Anaemia is the most common medical disorder in pregnancy with iron deficiency anaemia accounting for the majority of cases. Over 90% of the iron deficiency anaemia is due to red cell iron deficiency associated with depleted iron stores and deficient intake. The two main modalities of treating iron deficiency anaemia are oral or parenteral iron. Ferrous Hausmann (iron dextrin) is the latest iron preparation which can be used for intravenous parenteral administration as a total dose infusion. This study compares the efficacy of Ferrum Hausmann with oral ferrous fumarate therapy in the treatment of iron deficiency anaemia in pregnancy. Our study shows that treatment with intravenous Ferrum Hausmann (iron dextrin) resulted in a significantly better level and rate of increase of haemoglobin (p<0.001). Serum ferritin, which is the best indicator of iron stores, was significantly higher (p<0.001) in the intravenous group. Other indices of iron status such as serum iron, serum transferrin and ",
+        "journal": "European journal of haematology",
+        "year": "1998",
+        "authors": [
+          "Singh K",
+          "Fong Y F",
+          "Kuperan P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Ferric Compounds",
+          "Ferrous Compounds",
+          "Hematinics",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9508353/"
+      },
+      {
+        "pmid": "28482869",
+        "title": "Intravenous iron sucrose v/s oral ferrous fumarate for treatment of anemia in pregnancy. A randomized controlled trial.",
+        "abstract": "The objective of this study was to compare the efficacy, safety and tolerability of intravenous iron sucrose with that of oral ferrous fumarate in iron deficiency anemia during 14 to 34 weeks of pregnancy.",
+        "journal": "BMC pregnancy and childbirth",
+        "year": "2017",
+        "authors": [
+          "Bhavi Shruti B",
+          "Jaju Purushottam B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Ferric Compounds",
+          "Ferric Oxide, Saccharated",
+          "Ferritins",
+          "Ferrous Compounds",
+          "Glucaric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28482869/"
+      },
+      {
+        "pmid": "11722961",
+        "title": "Treatment of anemia with microencapsulated ferrous fumarate plus ascorbic acid supplied as sprinkles to complementary (weaning) foods.",
+        "abstract": "Standard therapy for anemia in infants is ferrous sulfate drops administered 3 times/d. Adherence to treatment, however, is often poor. One likely reason for poor adherence is the unpleasant side effects associated with drops.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2001",
+        "authors": [
+          "Zlotkin S",
+          "Arthur P",
+          "Antwi K Y",
+          "Yeung G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Ascorbic Acid",
+          "Drug Administration Schedule",
+          "Drug Compounding",
+          "Drug Therapy, Combination",
+          "Female",
+          "Ferritins",
+          "Ferrous Compounds",
+          "Ghana",
+          "Hemoglobins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11722961/"
+      },
+      {
+        "pmid": "32692367",
+        "title": "Acute Consumption of Prebiotic Galacto-Oligosaccharides Increases Iron Absorption from Ferrous Fumarate, but not from Ferrous Sulfate and Ferric Pyrophosphate: Stable Iron Isotope Studies in Iron-Depleted Young Women.",
+        "abstract": "Although acute consumption of high doses of prebiotic galacto-oligosaccharides (GOS) increases fractional iron absorption (FIA) from ferrous fumarate (FeFum), it is uncertain if low doses of GOS have this effect. Furthermore, whether GOS improve iron absorption from other commonly used iron compounds and whether ascorbic acid (AA) enhances the effect of GOS on iron absorption from FeFum is unclear.",
+        "journal": "The Journal of nutrition",
+        "year": "2020",
+        "authors": [
+          "Jeroense Frederike M D",
+          "Zeder Christophe",
+          "Zimmermann Michael B",
+          "Herter-Aeberli Isabelle"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Biological Transport",
+          "Cross-Over Studies",
+          "Diphosphates",
+          "Drug Administration Schedule",
+          "Female",
+          "Ferrous Compounds",
+          "Humans",
+          "Iron",
+          "Iron Isotopes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32692367/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:16:38.891771",
+  "success": true,
+  "error_message": null
+}

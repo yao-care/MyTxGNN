@@ -1,0 +1,554 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluconazole",
+    "disease": "disseminated candidiasis",
+    "query_string": "Fluconazole AND disseminated candidiasis"
+  },
+  "data": {
+    "query": "Fluconazole AND disseminated candidiasis",
+    "results": [
+      {
+        "pmid": "38514673",
+        "title": "Invasive candidiasis.",
+        "abstract": "Invasive candidiasis is an important fungal disease caused by Candida albicans and, increasingly, non-albicans Candida pathogens. Invasive Candida infections originate most frequently from endogenous human reservoirs and are triggered by impaired host defences. Signs and symptoms of invasive candidiasis are non-specific; candidaemia is the most diagnosed manifestation, with disseminated candidiasis affecting single or multiple organs. Diagnosis poses many challenges, and conventional culture techniques are frequently supplemented by non-culture-based assays. The attributable mortality from candidaemia and disseminated infections is ~30%. Fluconazole resistance is a concern for Nakaseomyces glabratus, Candida parapsilosis, and Candida auris and less so in Candida tropicalis infection; acquired echinocandin resistance remains uncommon. The epidemiology of invasive candidiasis varies in different geographical areas and within various patient populations. Risk factors include intensive car",
+        "journal": "Nature reviews. Disease primers",
+        "year": "2024",
+        "authors": [
+          "Lass-Flörl Cornelia",
+          "Kanj Souha S",
+          "Govender Nelesh P",
+          "Thompson George R",
+          "Ostrosky-Zeichner Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antifungal Agents",
+          "Candidiasis, Invasive",
+          "Fluconazole",
+          "Candida",
+          "Candidemia",
+          "Candidiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38514673/"
+      },
+      {
+        "pmid": "31654220",
+        "title": "Candida urinary tract infections in adults.",
+        "abstract": "Candiduria is commonly seen in hospitalized patients and most of the patients are asymptomatic, but it may be due to cystitis, pyelonephritis, prostatitis, epididymo-orchitis or disseminated candidiasis. Major risk factors are diabetes mellitus, indwelling urinary catheters, use of broad-spectrum antibiotics, urinary obstruction, and admission to intensive care units. Candida urinary tract infections can be caused by hematogenous spread following candidemia, or retrograde route via the urethra. The presence of Candida species in urine in asymptomatic patients does not warrant antifungal therapy except neutropenic patients, very low-birth-weight infants and patients undergoing urologic procedures. Fluconazole is the treatment of choice for symptomatic infections, it achieves high urinary levels. The other azole antifungals and echinocandins do not reach sufficient urine levels. Amphotericin B deoxycholate is the alternative antifungal agent if fluconazole can not be used because of resi",
+        "journal": "World journal of urology",
+        "year": "2020",
+        "authors": [
+          "Odabasi Zekaver",
+          "Mert Ali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Humans",
+          "Risk Factors",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31654220/"
+      },
+      {
+        "pmid": "10830059",
+        "title": "Fluconazole.",
+        "abstract": "Incidence of systemic candidiasis is increasing with improvement in the survival of high risk neonates who undergo multiple interventions. Therapies available to treat systemic fungal infection are few and have several drawbacks. Fluconazole, a new triazole derivative may be a useful anti-fungal agent in view of its excellent oral absorption, easy administration, low plasma protein affinity, long half-life, high concentrations in urine and CSF, minimal adverse reactions, wide spectrum of anti-fungal activity and high specificity for fungal cytochrome P450 system. Its utility in neonates and children with candidiasis has already been documented by few case reports and studies.",
+        "journal": "Indian journal of pediatrics",
+        "year": "1996",
+        "authors": [
+          "Agrawal P B",
+          "Narang A",
+          "Kumar P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Child",
+          "Child, Preschool",
+          "Fluconazole",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10830059/"
+      },
+      {
+        "pmid": "1867240",
+        "title": "Fluconazole therapy for chronic disseminated candidiasis in patients with leukemia and prior amphotericin B therapy.",
+        "abstract": "To study the efficacy of fluconazole against chronic disseminated candidiasis (hepatosplenic candidiasis) in patients with leukemia in whom amphotericin B treatment had failed.",
+        "journal": "The American journal of medicine",
+        "year": "1991",
+        "authors": [
+          "Anaissie E",
+          "Bodey G P",
+          "Kantarjian H",
+          "David C",
+          "Barnett K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amphotericin B",
+          "Candidiasis",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1867240/"
+      },
+      {
+        "pmid": "1476286",
+        "title": "[Systemic candidiasis].",
+        "abstract": "Candida proliferate within the body of patients with deficient cellular immunity either by the haematogenous route or by adjacency. This condition is often found in hospital patients. It explains the increasing incidence of disseminated candidiasis. They are preferentially found in patients who have had complicated surgery, mostly of the gastrointestinal tract and the heart, or transplant surgery (except for kidney transplants), or who have had prolonged intensive care. Other patients concerned are neonates with a low birth weight, haemato-oncology patients, heroin addicts and AIDS patients. Clinical signs are usually unspecific. When there is widespread involvement, clinical signs can be defined by the secondary locations, especially within the kidneys, lung, endocardium and brain in surgical patients, and liver and spleen in haemato-oncology patients. Eye, skin, gastrointestinal tract, and indeed, muscle lesions which are easily accessible, should be looked for routinely. This helps ",
+        "journal": "Annales francaises d'anesthesie et de reanimation",
+        "year": "1992",
+        "authors": [
+          "Lelarge P",
+          "Mariot J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candida",
+          "Candidiasis",
+          "Decontamination",
+          "Drug Therapy, Combination",
+          "Female",
+          "Flucytosine",
+          "Humans",
+          "Ketoconazole",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1476286/"
+      },
+      {
+        "pmid": "2024963",
+        "title": "Comparison of fluconazole and amphotericin B for treatment of disseminated candidiasis and endophthalmitis in rabbits.",
+        "abstract": "We compared the efficacy of intravenous fluconazole (80 mg/kg of body weight per day) with that of amphotericin B (1 mg/kg/day) for the long-term treatment of endophthalmitis in rabbits with disseminated candidiasis. After 17 days of therapy, fluconazole decreased the fungal colony counts of the choroid-retinas significantly more than did the saline control (P less than 0.05); however, after 24 days of fluconazole therapy, this treatment effect was lost and fluconazole was no more effective than saline. In contrast, treatment for 24 days with amphotericin B reduced the vitreous and choroid-retina fungal colony counts significantly more than either fluconazole or saline (P less than 0.05 for both treatment groups). After 17 days of therapy, indirect ophthalmoscopy revealed less severe eye involvement in both antifungal treatment groups than in saline controls; however, this difference reached statistical significance only for the amphotericin B-treated rabbits (P less than 0.05). Also, ",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Filler S G",
+          "Crislip M A",
+          "Mayer C L",
+          "Edwards J E"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Candida albicans",
+          "Candidiasis",
+          "Endophthalmitis",
+          "Female",
+          "Fluconazole",
+          "Kidney",
+          "Rabbits"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2024963/"
+      },
+      {
+        "pmid": "40781933",
+        "title": "Utility and Pitfalls of β-D-Glucan for Diagnosis and Response Monitoring of Chronic Disseminated Candidiasis in Paediatric Cancer Patients.",
+        "abstract": "β-D-Glucan (BDG) is a useful but nonspecific biomarker in patients with suspected invasive fungal diseases including Pneumocystis pneumonia. Little is known, however, about its utility for response monitoring in chronic disseminated candidiasis (CDC).",
+        "journal": "Mycoses",
+        "year": "2025",
+        "authors": [
+          "Körholz Katharina F",
+          "Hennies Marc T",
+          "Herbrüggen Heidrun",
+          "Krämer Katja",
+          "Ahlmann Martina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "beta-Glucans",
+          "Child",
+          "Adolescent",
+          "Child, Preschool",
+          "Male",
+          "Female",
+          "Antifungal Agents",
+          "Neoplasms",
+          "Proteoglycans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40781933/"
+      },
+      {
+        "pmid": "34228541",
+        "title": "Efficacy of Voriconazole, Isavuconazole, Fluconazole, and Anidulafungin in the Treatment of Emerging Candida auris Using an Immunocompromised Murine Model of Disseminated Candidiasis.",
+        "abstract": "Antifungal activity of anidulafungin, voriconazole, isavuconazole, and fluconazole in the treatment of Candida auris was determined in vitro and in vivo. MICs for anidulafungin, voriconazole, isavuconazole, fluconazole, and amphotericin B were 0.5, 1, >64, 0.25, and 4 μg/ml, respectively. Significant in vivo efficacy was observed in the anidulafungin- and voriconazole-treated groups in survival and reduction in kidney tissue fungal burden compared to that in the untreated group (P values of <0.001 and 0.044, respectively). Our data showed that anidulafungin and voriconazole had comparable efficacies against C. auris, whereas isavuconazole did not show significant in vivo activity.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2021",
+        "authors": [
+          "Gamal Ahmed",
+          "Long Lisa",
+          "Herrada Janet",
+          "Aram Jalal",
+          "McCormick Thomas S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Anidulafungin",
+          "Animals",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis",
+          "Disease Models, Animal",
+          "Fluconazole",
+          "Mice",
+          "Microbial Sensitivity Tests",
+          "Nitriles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34228541/"
+      },
+      {
+        "pmid": "29744900",
+        "title": "Pharmacokinetics and safety of fluconazole and micafungin in neonates with systemic candidiasis: a randomized, open-label clinical trial.",
+        "abstract": "The pharmacokinetics (PK) of fluconazole and micafungin differ in neonates compared with children and adults. Dosing instructions in product labels appear to be inconsistent with the emerging scientific evidence. Limited information is available on the safety profile of these agents in neonates. Our objective was to study the population PK and safety of both drugs, randomly administered in neonates with suspected or confirmed systemic candidiasis.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "2018",
+        "authors": [
+          "Leroux S",
+          "Jacqz-Aigrain E",
+          "Elie V",
+          "Legrand F",
+          "Barin-Le Guellec C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Animals",
+          "Antifungal Agents",
+          "Area Under Curve",
+          "Candidiasis",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Infant",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29744900/"
+      },
+      {
+        "pmid": "11780576",
+        "title": "Hamycin therapy of murine disseminated candidiasis: efficacy and interaction with fluconazole.",
+        "abstract": "The efficacy of antifungal agent, hamycin, in a murine model of disseminated candidiasis was studied. Mice were intravenously infected with Candida albicans blastoconidia and treated for 14 days with intraperitoneal hamycin, oral fluconazole, or a combination of these two. Hamycin alone was most efficacious in prolonging survival and in decreasing renal colony counts, usually with complete sterilization of the kidneys by the end of the treatment period. Fluconazole improved survival rates and effected a decrease in renal colony counts, but kidneys were not microbiologically sterilized. Combination therapy with hamycin and fluconazole did not result in a decrease in the efficacy of hamycin by either end point (survival or renal colony counts). High-pressure liquid chromatographic analysis of Hamycin concentrations in serum indicated lowlevels of absorption of the drug. From the results of the present study, it can be concluded that hamycin is effective in the treatment of murine invasiv",
+        "journal": "Roczniki Akademii Medycznej w Bialymstoku (1995)",
+        "year": "2001",
+        "authors": [
+          "Dhuley J N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Drug Interactions",
+          "Fluconazole",
+          "Male",
+          "Mice",
+          "Mice, Inbred BALB C",
+          "Polyenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11780576/"
+      },
+      {
+        "pmid": "17093376",
+        "title": "Neonatal invasive candidiasis.",
+        "abstract": "Over the last two decades, systemic fungal infections have emerged to play a primary role in hospital-acquired infections. C. albicans is involved in 75% of neonatal candidiasis; however, the incidence of infection from C. parapsilosis is also increasing significantly. The higher incidence observed in the high-risk group of very low birth weight (VLBW) infants is linked to their special physical characteristics and the diagnostic and therapeutic invasive procedures they undergo. Colonization is a relevant risk factor depending on the colonized site , the fungal species and the type of colonization. Serological tests have a low specificity and sensitivity; in many cases, they do not distinguish between colonization and infection. Blood culture, although the best diagnostic test for determining systemic infection, can result negative, even in cases of deep organ involvement. In addition, fungi grow more slowly than bacteria in cultures. So, the difficulty in diagnosing systemic candidias",
+        "journal": "Minerva pediatrica",
+        "year": "2006",
+        "authors": [
+          "Stronati M",
+          "Decembrino L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Drug Therapy, Combination",
+          "Fluconazole",
+          "Flucytosine",
+          "Humans",
+          "Incidence",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17093376/"
+      },
+      {
+        "pmid": "15755501",
+        "title": "Chronic disseminated candidiasis in patients with acute leukemia: emphasis on diagnostic definition and treatment.",
+        "abstract": "Chronic disseminated candidiasis (CDC) is a form of invasive fungal infection that occurs most commonly in patients with acute leukemia treated with chemotherapy. Recent studies have provided evidence for diagnostic alternatives to invasive procedures and more therapeutic options for the management of this complication. In order to put diagnostic criteria and methodological approach to the disease into the perspective of developing strategies for therapy, all relevant studies published in the English literature over the last 30 years were examined.",
+        "journal": "Leukemia research",
+        "year": "2005",
+        "authors": [
+          "Masood Aisha",
+          "Sallah Sabah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Chronic Disease",
+          "Fluconazole",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Salvage Therapy",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15755501/"
+      },
+      {
+        "pmid": "37622338",
+        "title": "Fluconazole and echinocandin resistance of Candida species in invasive candidiasis at a university hospital during pre-COVID-19 and the COVID-19 outbreak.",
+        "abstract": "Antifungal susceptibility of Candida species is decreasing. Successful treatment for antifungal-resistant candida infection is challenging and associated with significant mortality. We performed a prospective observational study to identify the species and antifungal susceptibilities of invasive isolates of Candida species over a 5-year period at a university hospital in southern Thailand. Between 2017 and 2021, the species distribution was 39.1% Candida tropicalis, 24.8% Candida albicans, 20.3% Candida parapsilosis complex, 10.5% Candida glabrata, and 5.2% miscellaneous Candida spp. Notable observations include elevated minimal inhibitory concentration (MIC) and decrease susceptibility of C. tropicalis and C. glabrata to echinocandin and all tested triazoles. A shift of MIC90 value in the COVID-19 era was seen in C. albicans and C. tropicalis with azoles and echinocandins. Azole resistance increased among C. tropicalis isolates, and echinocandin resistance also increased among C. para",
+        "journal": "Epidemiology and infection",
+        "year": "2023",
+        "authors": [
+          "Szekely Jidapa",
+          "Rakchang Wiraphan",
+          "Rattanaphan Paramaporn",
+          "Kositpantawong Narongdet"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Echinocandins",
+          "Candidiasis, Invasive",
+          "Antifungal Agents",
+          "Fluconazole",
+          "Disease Outbreaks",
+          "Humans",
+          "Hospitals, University",
+          "Candida",
+          "Candidiasis",
+          "Azoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37622338/"
+      },
+      {
+        "pmid": "1929481",
+        "title": "Fluconazole in neonatal disseminated candidiasis.",
+        "abstract": "",
+        "journal": "Archives of disease in childhood",
+        "year": "1991",
+        "authors": [
+          "Wiest D B",
+          "Fowler S L",
+          "Garner S S",
+          "Simons D R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Fluconazole",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Infant, Premature, Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1929481/"
+      },
+      {
+        "pmid": "9165556",
+        "title": "The fluconazole era: management of hematogenously disseminated candidiasis in the nonneutropenic patient.",
+        "abstract": "Hematogenously disseminated candidiasis arising from nosocomial fungal infection is a life-threatening complication in critically ill, nonneutropenic patients. The overall nosocomial fungal infection rate in United States hospitals doubled from 1980-1990. Until recently, amphotericin B was the only agent available for the treatment of life-threatening candidal infections, but its use is plagued by toxicities including nephrotoxicity and infusion-related reactions such as rigors and hypotension. The availability of fluconazole, which is regarded as much less toxic than amphotericin B, prompted a surge in research to determine if it is as efficacious in the management of candidemia and hematogenously disseminated candidiasis. Complicating the interpretation of studies is the broad range of infection severity, from candidemia that may be transient and self-limiting to life-threatening hematogenously disseminated candidiasis. Clinical trials comparing fluconazole and amphotericin B demonst",
+        "journal": "Pharmacotherapy",
+        "year": "1997",
+        "authors": [
+          "Kramer K M",
+          "Skaar D J",
+          "Ackerman B H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Catheterization",
+          "Critical Illness",
+          "Cross Infection",
+          "Fluconazole",
+          "Fungemia",
+          "Humans",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9165556/"
+      },
+      {
+        "pmid": "39552641",
+        "title": "Antimicrobial peptide AMP-17 induces protection against systemic candidiasis and interacts synergistically with fluconazole against Candida albicans biofilm.",
+        "abstract": "Candida albicans, a common commensal and opportunistic fungal pathogen in humans, can occasionally progress to disseminated candidiasis which is a serious condition with a high morbidity and fatality rate. The emergence of drug-resistant fungal strains compels us to look for an efficient treatment solution. Our earlier studies have demonstrated that the unique antimicrobial peptide AMP-17 from Musca domestica has a strong antifungal impact on C. albicans in vitro. Here, we verified the therapeutic effects of AMP-17 on systemic candidiasis in vivo and the peptide interacts with fluconazole, a common antifungal medication, to treat systemic candidiasis. In the disseminated candidiasis model of Galleria mellonella and mice challenged with C. albicans, AMP-17 increased the survival rates of infected larvae and mice to 66.7 and 75%, respectively. Furthermore, the peptide lowered the load of C. albicans in the infected larvae and the kidneys of the mice by nearly 90%. Additional histological",
+        "journal": "Frontiers in microbiology",
+        "year": "2024",
+        "authors": [
+          "Sun Chaoqin",
+          "Zhu Lijuan",
+          "Yang Longbing",
+          "Tian Zhuqing",
+          "Jiao Zhenlong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39552641/"
+      },
+      {
+        "pmid": "28847765",
+        "title": "Acute disseminated candidiasis with skin lesions: a systematic review.",
+        "abstract": "Neutropenic patients developing acute disseminated candidiasis may present with skin lesions.",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2018",
+        "authors": [
+          "Guarana M",
+          "Nucci M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis, Invasive",
+          "Chemoprevention",
+          "Humans",
+          "Immunocompromised Host",
+          "Neutropenia",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28847765/"
+      },
+      {
+        "pmid": "36309674",
+        "title": "Cost-utility analysis of caspofungin and fluconazole for primary treatment of invasive candidiasis and candidemia in Ethiopia.",
+        "abstract": "Invasive candidiasis and/or candidemia (IC/C) is a common fungal infection leading to significant health and economic losses worldwide. Caspofungin was shown to be more effective than fluconazole in treating inpatients with IC/C. However, cost-effectiveness of caspofungin for treating IC/C in Ethiopia remains unknown. We aimed to assess the cost-utility of caspofungin compared to fluconazole-initiated therapies as primary treatment of IC/C in Ethiopia.",
+        "journal": "BMC health services research",
+        "year": "2022",
+        "authors": [
+          "Gebretekle Gebremedhin Beedemariam",
+          "Fentie Atalay Mulu",
+          "Gebremariam Girma Tekle",
+          "Ali Eskinder Eshetu",
+          "Erku Daniel Asfaw"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Caspofungin",
+          "Fluconazole",
+          "Candidemia",
+          "Cost-Benefit Analysis",
+          "Echinocandins",
+          "Ethiopia",
+          "Lipopeptides",
+          "Candidiasis, Invasive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36309674/"
+      },
+      {
+        "pmid": "37392947",
+        "title": "Lopinavir and ritonavir act synergistically with azoles against Candida auris in vitro and in a mouse model of disseminated candidiasis.",
+        "abstract": "The emergence of Candida auris has created a global health challenge. Azole antifungals are the most affected antifungal class because of the extraordinary capability of C. auris to develop resistance against these drugs. Here, we used a combinatorial therapeutic approach to sensitize C. auris to azole antifungals.",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2023",
+        "authors": [
+          "Salama Ehab A",
+          "Eldesouky Hassan E",
+          "Elgammal Yehia",
+          "Abutaleb Nader S",
+          "Seleem Mohamed N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Antifungal Agents",
+          "Ritonavir",
+          "Azoles",
+          "Itraconazole",
+          "Lopinavir",
+          "Candida auris",
+          "HIV Protease Inhibitors",
+          "Candidiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37392947/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:16:08.050231",
+  "success": true,
+  "error_message": null
+}

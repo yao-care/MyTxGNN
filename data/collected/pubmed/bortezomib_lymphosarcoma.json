@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bortezomib",
+    "disease": "lymphosarcoma",
+    "query_string": "Bortezomib AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Bortezomib AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "38767403",
+        "title": "Plasmablastic lymphoma: 2024 update on diagnosis, risk stratification, and management.",
+        "abstract": "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options. Though PBL is associated with human immunodeficiency virus infection and other immunosuppressed states, it can also affect immunocompetent individuals.",
+        "journal": "American journal of hematology",
+        "year": "2024",
+        "authors": [
+          "Ramirez-Gamero Andres",
+          "Martínez-Cordero Humberto",
+          "Beltrán Brady E",
+          "Florindez Jorge",
+          "Malpica Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Plasmablastic Lymphoma",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Risk Assessment",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Vincristine",
+          "Prednisone",
+          "Lenalidomide",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38767403/"
+      },
+      {
+        "pmid": "30348538",
+        "title": "Frontline bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP) versus rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) in transplantation-ineligible patients with newly diagnosed mantle cell lymphoma: final overall survival results of a randomised, open-label, phase 3 study.",
+        "abstract": "In the LYM-3002 study, the efficacy and safety of frontline bortezomib plus rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP) and rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) were compared in transplant-ineligible patients with untreated, newly diagnosed, mantle cell lymphoma. We report the final overall survival and safety outcomes for patients in the long-term follow-up phase after the primary progression-free-survival endpoint was met.",
+        "journal": "The Lancet. Oncology",
+        "year": "2018",
+        "authors": [
+          "Robak Tadeusz",
+          "Jin Jie",
+          "Pylypenko Halyna",
+          "Verhoef Gregor",
+          "Siritanaratkul Noppadol"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asia",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Disease Progression",
+          "Doxorubicin",
+          "Europe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30348538/"
+      },
+      {
+        "pmid": "31479618",
+        "title": "Proteasome Inhibitor Drugs.",
+        "abstract": "Proteasomes are large, multicatalytic protein complexes that cleave cellular proteins into peptides. There are many distinct forms of proteasomes that differ in catalytically active subunits, regulatory subunits, and associated proteins. Proteasome inhibitors are an important class of drugs for the treatment of multiple myeloma and mantle cell lymphoma, and they are being investigated for other diseases. Bortezomib (Velcade) was the first proteasome inhibitor to be approved by the US Food and Drug Administration. Carfilzomib (Kyprolis) and ixazomib (Ninlaro) have recently been approved, and more drugs are in development. While the primary mechanism of action is inhibition of the proteasome, the downstream events that lead to selective cell death are not entirely clear. Proteasome inhibitors have been found to affect protein turnover but at concentrations that are much higher than those achieved clinically, raising the possibility that some of the effects of proteasome inhibitors are me",
+        "journal": "Annual review of pharmacology and toxicology",
+        "year": "2020",
+        "authors": [
+          "Fricker Lloyd D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Drug Development",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Multiple Myeloma",
+          "Proteasome Endopeptidase Complex",
+          "Proteasome Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31479618/"
+      },
+      {
+        "pmid": "29303024",
+        "title": "Bortezomib in combination with dose-adjusted EPOCH (etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin) induces long-term survival in patients with plasmablastic lymphoma: a retrospective analysis.",
+        "abstract": "Plasmablastic lymphoma (PBL) is a rare and aggressive form of B-cell non-Hodgkin lymphoma. This subtype of lymphoma has a post-germinal center cell-of-origin called the plasmablast, and the immunophenotype is more consistent with that of a plasma cell than a lymphocyte. Because of these unique features, PBL is notoriously difficult to treat. Case reports and small reviews have evaluated the addition of agents directed against plasma cell disorders in combination with traditional lymphoma-directed regimens. We describe the largest case series to date, with the longest follow-up, evaluating bortezomib in combination with etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin (V-EPOCH) for the treatment of PBL. Our results show that this is a safe and effective regimen with an overall and complete response rate of 100% and 2-year overall survival of 50%.",
+        "journal": "Leukemia & lymphoma",
+        "year": "2018",
+        "authors": [
+          "Dittus Christopher",
+          "Grover Natalie",
+          "Ellsworth Steven",
+          "Tan Xianming",
+          "Park Steven I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Kaplan-Meier Estimate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29303024/"
+      },
+      {
+        "pmid": "38886623",
+        "title": "Duvelisib plus romidepsin in relapsed/refractory T cell lymphomas: a phase 1b/2a trial.",
+        "abstract": "PI3K-δ inhibitors have shown impressive activity in lymphoid malignancies but have been hampered by autoimmune and infectious toxicities, leading to market withdrawals. We previously demonstrated activity of the PI3K-δγ inhibitor duvelisib in T cell lymphomas (TCLs) that was associated with inflammatory adverse events. As reported here, we conducted a phase 1b/2a study of duvelisib in combination with either romidepsin (n = 66) or bortezomib (n = 32) in patients with relapsed/refractory TCL and found that the addition of romidepsin, but not bortezomib, appeared to increase efficacy while attenuating PI3K inhibitor-driven toxicity. The primary endpoint of the study was to determine the safety and maximum tolerated dose of duvelisib, which was 75 mg twice daily when combined with romidepsin versus 25 mg twice daily when combined with bortezomib. The most common adverse events were neutropenia (42%, 25/59) and fatigue (37%, 22/59) in patients treated with duvelisib and romidepsin and diar",
+        "journal": "Nature medicine",
+        "year": "2024",
+        "authors": [
+          "Horwitz Steven M",
+          "Nirmal Ajit J",
+          "Rahman Jahan",
+          "Xu Ran",
+          "Drill Esther"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Depsipeptides",
+          "Middle Aged",
+          "Female",
+          "Male",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Adult",
+          "Lymphoma, T-Cell",
+          "Bortezomib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38886623/"
+      },
+      {
+        "pmid": "29527667",
+        "title": "Bortezomib plus EPOCH is effective as frontline treatment in patients with plasmablastic lymphoma.",
+        "abstract": "",
+        "journal": "British journal of haematology",
+        "year": "2019",
+        "authors": [
+          "Castillo Jorge J",
+          "Guerrero-Garcia Thomas",
+          "Baldini Francesco",
+          "Tchernonog Emmanuelle",
+          "Cartron Guillaume"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Letter",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Disease-Free Survival",
+          "Doxorubicin",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29527667/"
+      },
+      {
+        "pmid": "20072838",
+        "title": "Bortezomib.",
+        "abstract": "The ubiquitin-mediated degradation of proteins in numerous cellular processes, such as turnover and quality control of proteins, cell cycle and apoptosis, transcription and cell signaling, immune response and antigen presentation, and inflammation and development makes the ubiquitin-proteosome systems a very interesting target for various therapeutic interventions. Proteosome inhibitors were first synthesized as tools to probe the function and specificity of this particle's proteolytic activities. Most synthetic inhibitors rely on a peptide base, which mimics a protein substrate, attached at a COOH terminal \"warhead\". Notable warheads include boronic acids, such as Bortezomib and epoxyketones, such as carfilzomib. A variety of natural products also inhibit the proteosome that are not peptide-based, most notably lactacystin, that is related to NPI-0052, or salinosporamide A, another inhibitor in clinical trials. The possibility that proteosome inhibitors could be drug candidates was con",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2010",
+        "authors": [
+          "Einsele Hermann"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Boronic Acids",
+          "Bortezomib",
+          "Humans",
+          "Multiple Myeloma",
+          "Protease Inhibitors",
+          "Proteasome Inhibitors",
+          "Pyrazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20072838/"
+      },
+      {
+        "pmid": "30523719",
+        "title": "Molecular High-Grade B-Cell Lymphoma: Defining a Poor-Risk Group That Requires Different Approaches to Therapy.",
+        "abstract": "Biologic heterogeneity is a feature of diffuse large B-cell lymphoma (DLBCL), and the existence of a subgroup with poor prognosis and phenotypic proximity to Burkitt lymphoma is well known. Conventional cytogenetics identifies some patients with rearrangements of MYC and BCL2 and/or BCL6 (double-hit lymphomas) who are increasingly treated with more intensive chemotherapy, but a more biologically coherent and clinically useful definition of this group is required.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2019",
+        "authors": [
+          "Sha Chulin",
+          "Barrans Sharon",
+          "Cucco Francesco",
+          "Bentley Michael A",
+          "Care Matthew A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Databases, Genetic",
+          "Doxorubicin",
+          "Female",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30523719/"
+      },
+      {
+        "pmid": "38678093",
+        "title": "The addition of bortezomib to rituximab, high-dose cytarabine and dexamethasone in relapsed or refractory mantle cell lymphoma-a randomized, open-label phase III trial of the European mantle cell lymphoma network.",
+        "abstract": "The therapy of relapsed or refractory (r/r) mantle cell lymphoma (MCL) patients remains a major clinical challenge to date. We conducted a randomized, open-label, parallel-group phase-III trial hypothesizing superior efficacy of rituximab, high-dose cytarabine and dexamethasone with bortezomib (R-HAD + B) versus without (R-HAD) in r/r MCL ineligible for or relapsed after autologous stem cell transplant (ASCT). Primary endpoint was time to treatment failure (TTF), secondary endpoints included response rates, progression free survival, overall survival, and safety. In total, 128 of 175 planned patients were randomized to R-HAD + B (n = 64) or R-HAD (n = 64). Median TTF was 12 vs. 2.6 months (p = 0.045, MIPI-adjusted HR 0.69; 95%CI 0.47-1.02). Overall and complete response rates were 63 vs. 45% (p = 0.049) and 42 vs. 19% (p = 0.0062). A significant treatment effect was seen in the subgroup of patients >65 years (aHR 0.48, 0.29-0.79) and without previous ASCT (aHR 0.52, 0.28-0.96). Toxicit",
+        "journal": "Leukemia",
+        "year": "2024",
+        "authors": [
+          "Fischer Luca",
+          "Jiang Linmiao",
+          "Dürig Jan",
+          "Schmidt Christian",
+          "Stilgenbauer Stephan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bortezomib",
+          "Lymphoma, Mantle-Cell",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Male",
+          "Dexamethasone",
+          "Aged",
+          "Middle Aged",
+          "Cytarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38678093/"
+      },
+      {
+        "pmid": "26755518",
+        "title": "Mantle Cell Lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is an uncommon subtype of non-Hodgkin lymphoma previously considered to have a poor prognosis. Large gains were made in the first decade of the new century when clinical trials established the importance of high-dose therapy and autologous stem-cell rescue and high-dose cytarabine in younger patients and the benefits of maintenance rituximab and bendamustine in older patients. In particular, greater depth of understanding of the molecular pathophysiology of MCL has resulted in an explosion of specifically targeted new efficacious agents. In particular, agents recently approved by the Food and Drug Administration include the proteasome inhibitor bortezomib, immunomodulator lenalidomide, and Bruton's tyrosine kinase inhibitor ibrutinib. We review recent advances in the understanding of MCL biology and outline our recommended approach to therapy, including choice of chemoimmunotherapy, the role of stem-cell transplantation, and mechanism-based targeted therapies",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2016",
+        "authors": [
+          "Cheah Chan Yoon",
+          "Seymour John F",
+          "Wang Michael L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Bortezomib",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation, Neoplastic",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26755518/"
+      },
+      {
+        "pmid": "38820500",
+        "title": "Randomized study of induction with bendamustine-rituximab ± bortezomib and maintenance with rituximab ± lenalidomide for MCL.",
+        "abstract": "Although initial therapy of mantle cell lymphoma (MCL) is not standardized, bendamustine plus rituximab (BR) is commonly used in older patients. Rituximab (R) maintenance after induction is often used. Thus, the open-label, randomized phase 2 ECOG-ACRIN Cancer Research Group E1411 trial was designed to test 2 questions: (1) does addition of bortezomib to BR induction (BVR) and/or (2) addition of lenalidomide to rituximab (LR) maintenance improve progression-free survival (PFS) in patients with treatment-naïve MCL? From 2012 to 2016, 373 previously untreated patients, 87% aged ≥60 years, were enrolled in this trial. At a median follow-up of 7.5 years, there is no difference in the median PFS of BR compared with BVR (5.5 vs 6.4 years; hazard ratio [HR], 0.90; 90% confidence interval [CI], 0.70-1.16). There were no unexpected additional toxicities with BVR treatment compared with BR, with no impact on total dose/duration of treatment received. Independent of the induction treatment, addit",
+        "journal": "Blood",
+        "year": "2024",
+        "authors": [
+          "Smith Mitchell R",
+          "Jegede Opeyemi A",
+          "Martin Peter",
+          "Till Brian G",
+          "Parekh Samir S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Bendamustine Hydrochloride",
+          "Bortezomib",
+          "Lenalidomide",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Aged",
+          "Lymphoma, Mantle-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38820500/"
+      },
+      {
+        "pmid": "27917682",
+        "title": "The preclinical discovery and development of bortezomib for the treatment of mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is an incurable, often aggressive B-cell malignancy. Bortezomib (BTZ), the 20S proteasome inhibitor was originally developed and approved for treatment of relapsed refractory multiple myeloma, and subsequently approved for treatment of MCL. BTZ's single-agent activity induces clinical responses in approximately one-third of relapsed MCL patients. BTZ-containing combination therapies have further improved the quality and duration of clinical responses compared to standard chemotherapies in previously untreated MCL patients. Areas covered: This review summarizes the discovery, mechanisms of -action and resistance, preclinical- clinical-developments, and FDA approval of BTZ for treatments of MCL. Expert opinion: Preclinical MCL models demonstrated the apoptotic effect of BTZ through multiple mechanisms, as well as synergistic anti-MCL activity between BTZ and other chemotherapeutics. Single-agent and combinational clinical trials have validated the therapeutic p",
+        "journal": "Expert opinion on drug discovery",
+        "year": "2017",
+        "authors": [
+          "Arkwright Richard",
+          "Pham Tri Minh",
+          "Zonder Jeffrey A",
+          "Dou Q Ping"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Bortezomib",
+          "Drug Design",
+          "Drug Discovery",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Molecular Targeted Therapy",
+          "Proteasome Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27917682/"
+      },
+      {
+        "pmid": "29026157",
+        "title": "Bortezomib promotes KHSV and EBV lytic cycle by activating JNK and autophagy.",
+        "abstract": "KSHV and EBV are gammaherpesviruses strictly linked to human cancers. Even if the majority of cancer cells harbor a latent infection, the few cells that undergo viral replication may contribute to the pathogenesis and maintenance of the virus-associated malignancies. Cytotoxic drugs used for the therapies of cancers harboring virus-infection often have, as side effect, the activation of viral lytic cycle. Therefore it is important to investigate whether they affect viral reactivation and understand the underlying mechanisms involved. In this study, we found that proteasome inhibitor bortezomib, a cytotoxic drug that efficiently target gammaherpesvirus-associated B cell lymphomas, triggered KSHV or EBV viral lytic cycle by activating JNK, in the course of ER stress, and inducing autophagy. These results suggest that the manipulation of these pathways could limit viral spread and improve the outcome of bortezomib treatment in patients affected by gammaherpesvirus-associated lymphomas.",
+        "journal": "Scientific reports",
+        "year": "2017",
+        "authors": [
+          "Granato Marisa",
+          "Romeo Maria Anele",
+          "Tiano Mariangela Sara",
+          "Santarelli Roberta",
+          "Gonnella Roberta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Autophagy",
+          "Bortezomib",
+          "Cell Line",
+          "Gammaherpesvirinae",
+          "Gene Expression Regulation, Viral",
+          "Herpesvirus 4, Human",
+          "Herpesvirus 8, Human",
+          "Humans",
+          "Lymphoma, B-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29026157/"
+      },
+      {
+        "pmid": "17929113",
+        "title": "Proteasome inhibitor, bortezomib, for myeloma and lymphoma.",
+        "abstract": "Bortezomib, a boronic acid, is a potent and selective proteasome inhibitor. The 20S proteasome is an enzyme complex present in cells, and it degrades many cell-cycle control factors, signal transduction factors, transcription factors, and oncogene and anti-oncogene products, thus controlling cell proliferation, differentiation, and apoptosis. Bortezomib is a novel molecular targeting agent which was designed to exhibit an antitumor effect by selectively inhibiting the 20S proteasome. Multiple myeloma is one of the incurable B-cell malignancies that continues to relapse with current treatment modalities, and the duration to progression becomes shorter in patients who repeatedly receive chemotherapy. There are no available treatment options in which durable efficacy can be expected after relapse; therefore, an effective therapy with a novel mechanism of action has been desired. In this review article, the results of clinical trials of bortezomib for multiple myeloma, including a Japanese",
+        "journal": "International journal of clinical oncology",
+        "year": "2007",
+        "authors": [
+          "Tobinai Kensei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Boronic Acids",
+          "Bortezomib",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Lymphoma",
+          "Multiple Myeloma",
+          "Protease Inhibitors",
+          "Proteasome Inhibitors",
+          "Pyrazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17929113/"
+      },
+      {
+        "pmid": "15688598",
+        "title": "Pharmacology, pharmacokinetics, and practical applications of bortezomib.",
+        "abstract": "Bortezomib (PS-341, Velcade) is a novel, first-in-class proteasome inhibitor with antitumor activity against a number of hematologic and nonhematologic malignancies. Based on the results of phase II clinical trials, bortezomib received accelerated US Food and Drug Administration approval on May 13, 2003, for the treatment of multiple myeloma patients whose disease has progressed after they have received at least two prior conventional therapies. The results of phase III studies evaluating bortezomib as first- or second-line therapy, or in combination with other commonly prescribed therapies in multiple myeloma patients, are eagerly awaited. Studies assessing the antitumor effects of bortezomib in other hematologic malignancies and solid tumors are also under way. A thorough understanding of the pharmacology, pharmacodynamics, and pharmacokinetics of this novel compound is essential for appropriate prescribing and monitoring of bortezomib therapy. Bortezomib is rapidly distributed into ",
+        "journal": "Oncology (Williston Park, N.Y.)",
+        "year": "2004",
+        "authors": [
+          "Schwartz Rowena",
+          "Davidson Terri"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Boronic Acids",
+          "Bortezomib",
+          "Cell Cycle",
+          "Clinical Trials, Phase I as Topic",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15688598/"
+      },
+      {
+        "pmid": "15688597",
+        "title": "Discovery, Development, and clinical applications of bortezomib.",
+        "abstract": "Proteasome inhibition is a novel, targeted approach in cancer therapy. Both natural and synthetic proteasome inhibitors selectively penetrate cancer cells, disrupting the orderly destruction of key regulatory proteins involved in tumorigenesis and metastasis. Disrupting the orderly destruction of regulatory proteins causes an imbalance of these proteins within the cell, which interferes with the systematic activation of signaling pathways required to maintain tumor cell growth and survival; therefore, cellular replication is inhibited and apoptosis ensues. Bortezomib (PS-341, Velcade), the first proteasome inhibitor evaluated in human clinical trials, has been approved by the US Food and Drug Administration for use in patients with refractory or relapsed multiple myeloma. Preclinical study results show that bortezomib suppresses tumor cell growth, induces apoptosis, overcomes resistance to standard chemotherapy agents and radiation therapy, and inhibits angiogenesis. Phase I study resu",
+        "journal": "Oncology (Williston Park, N.Y.)",
+        "year": "2004",
+        "authors": [
+          "Jung Laura",
+          "Holle Lisa",
+          "Dalton William S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Boronic Acids",
+          "Bortezomib",
+          "Cell Cycle",
+          "Clinical Trials, Phase I as Topic",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15688597/"
+      },
+      {
+        "pmid": "36808095",
+        "title": "Pharmacokinetics-Pharmacodynamics Modeling and Evaluation of Tumor Response to Bortezomib Proteasome Inhibitor in Waldenstrom Macroglobulinemia.",
+        "abstract": "Waldenstrom's macroglobulinemia (WM), also known as lymphoplasmacytic lymphoma, is a type of non-Hodgkin's lymphoma in which the malignant cells produce many macroglobulin proteins. It originates from B cells and develops in the bone marrow, where Wm cells combine to produce distinct types of blood cells, resulting in reduced volumes of red blood cells, white blood cells, and platelets, making it harder for the body to fight diseases. Chemoimmunotherapy is being used for the clinical management of WM, but new targeted agents, the BTK inhibitor ibrutinib and the proteasome inhibitor bortezomib, have shown significant improvements in patients with relapsed/refractory WM. However, given its effectiveness, drug resistance and relapse are normal, and there is little research on the pathways responsible for drug effects on the tumor.",
+        "journal": "American journal of clinical oncology",
+        "year": "2023",
+        "authors": [
+          "Munir Anum",
+          "Fazal Sahar",
+          "Bhatti Aamer Iqbal",
+          "Sajjad Bilawal"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bortezomib",
+          "Proteasome Inhibitors",
+          "Waldenstrom Macroglobulinemia",
+          "Neoplasm Recurrence, Local",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36808095/"
+      },
+      {
+        "pmid": "34461632",
+        "title": "Bortezomib and rituximab in de novo adolescent/adult CD20-positive, Ph-negative pre-B-cell acute lymphoblastic leukemia.",
+        "abstract": "The expression of CD20 in precursor B-cell acute lymphoblastic leukemia (B-ALL) is associated with poor outcomes. The addition of rituximab to intensive chemotherapy in CD20+ ALL has led to improved outcomes in several studies. However, there is no clear evidence regarding the optimal number of doses and its benefit without an allogeneic stem cell transplant. Achieving measurable residual disease (MRD)-negative status postinduction would reduce the requirement for a transplant. Novel approaches are needed to induce a higher proportion of MRD-negative complete remission in patients with high-risk ALL. Given bortezomib's activity in relapsed ALL and its synergism with rituximab in B-cell lymphomas, the addition of bortezomib to rituximab and chemotherapy may provide an incremental benefit in CD20+ precursor B-ALL. We conducted a phase 2 study to test the activity of bortezomib and rituximab in combination with a pediatric-inspired regimen during induction therapy in newly diagnosed adole",
+        "journal": "Blood advances",
+        "year": "2021",
+        "authors": [
+          "Jain Hasmukh",
+          "Sengar Manju",
+          "Goli Vasu Babu",
+          "Thorat Jayashree",
+          "Tembhare Prashant"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Bortezomib",
+          "Child",
+          "Humans",
+          "Lymphoma, B-Cell",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Precursor Cells, B-Lymphoid",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34461632/"
+      },
+      {
+        "pmid": "37708877",
+        "title": "Bortezomib and Vorinostat Therapy as Maintenance Therapy Post-Autologous Transplant for Non-Hodgkin's Lymphoma Using R-BEAM or BEAM Transplant Conditioning Regimen.",
+        "abstract": "The success of autologous stem cell transplantation (ASCT) for treating non-Hodgkin's lymphoma (NHL) is limited by its high relapse rates. To reduce the risk of relapse, additional maintenance therapy can be added post-transplant. In a non-transplant setting at the time of initiation of this study, both bortezomib and vorinostat had been studied alone or in combination for some NHL histology and showed some clinical activity. At our center, this combination therapy post-transplant for multiple myeloma showed acceptable toxicity. Therefore, it seemed reasonable to study this combination therapy post-ASCT for NHL.",
+        "journal": "Acta haematologica",
+        "year": "2024",
+        "authors": [
+          "Holmberg Leona A",
+          "Maloney David G",
+          "Connelly-Smith Laura"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Vorinostat",
+          "Bortezomib",
+          "Lymphoma, Non-Hodgkin",
+          "Middle Aged",
+          "Female",
+          "Male",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Melphalan",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37708877/"
+      },
+      {
+        "pmid": "40565058",
+        "title": "Overexpression of CDCA2 in Diffuse Large B-Cell Lymphoma Promotes Cell Proliferation and Bortezomib Sensitivity.",
+        "abstract": "Numerous clinical trials have attempted to improve first-line R-CHOP treatment of diffuse large B-cell lymphoma (DLBCL) through the addition or substitution of drugs. The REMoDL-B trial, testing the addition of bortezomib (RB-CHOP), revealed that ABC and molecular high-grade DLBCL patients benefit from bortezomib. The aim of this study was to achieve a better understanding of the bortezomib response in DLBCL through a functional investigation of clinically identified markers. A retrospective analysis of transcriptional and clinical data from the REMoDL-B trial was conducted to identify genes associated with bortezomib response, identifying CDCA2. DLBCL patients with high expression of CDCA2 had a superior survival outcome when treated with RB-CHOP in comparison to R-CHOP, whereas no difference in outcome was observed for patients with low CDCA2. Moreover, CDCA2 was found to be overexpressed in DLBCL compared to non-malignant tissue, and to have higher levels in GCB and MYC/BCL2 double-",
+        "journal": "International journal of molecular sciences",
+        "year": "2025",
+        "authors": [
+          "Due Hanne",
+          "Brogaard Asta",
+          "Issa Issa Ismail",
+          "Jakobsen Maja Zimmer",
+          "Sylvester Cathrine"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Humans",
+          "Bortezomib",
+          "Cell Proliferation",
+          "Cell Line, Tumor",
+          "Cell Cycle Proteins",
+          "Gene Expression Regulation, Neoplastic",
+          "Prednisone",
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40565058/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:56:33.519126",
+  "success": true,
+  "error_message": null
+}

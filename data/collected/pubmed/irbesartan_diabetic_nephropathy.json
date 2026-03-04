@@ -1,0 +1,568 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Irbesartan",
+    "disease": "diabetic nephropathy",
+    "query_string": "Irbesartan AND diabetic nephropathy"
+  },
+  "data": {
+    "query": "Irbesartan AND diabetic nephropathy",
+    "results": [
+      {
+        "pmid": "35613364",
+        "title": "Efficacy of Combined Abelmoschus manihot and Irbesartan for Reduction of Albuminuria in Patients With Type 2 Diabetes and Diabetic Kidney Disease: A Multicenter Randomized Double-Blind Parallel Controlled Clinical Trial.",
+        "abstract": "",
+        "journal": "Diabetes care",
+        "year": "2022",
+        "authors": [
+          "Zhao Jing",
+          "Tostivint Isabelle",
+          "Xu Lingdong",
+          "Huang Jihan",
+          "Gambotti Laetitia"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Abelmoschus",
+          "Albuminuria",
+          "Biphenyl Compounds",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Double-Blind Method",
+          "Humans",
+          "Irbesartan",
+          "Tetrazoles",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35613364/"
+      },
+      {
+        "pmid": "18627212",
+        "title": "Irbesartan: a review of its use in hypertension and diabetic nephropathy.",
+        "abstract": "Irbesartan (Aprovel, Avapro, Irbetan, Karvea), an angiotensin II receptor type 1 antagonist, is approved in many countries worldwide for the treatment of hypertension. It is also approved in some regions for the treatment of nephropathy in patients with hypertension and type 2 diabetes mellitus. In adults with essential hypertension, irbesartan is effective at reducing blood pressure (BP) over a 24-hour period with once-daily administration. Irbesartan also slows the progression of renal disease in hypertensive patients with type 2 diabetes, with this effect partly independent of its BP-lowering effect. In addition, irbesartan was generally well tolerated in clinical trials. Thus, irbesartan is a useful treatment option for patients with hypertension, including those with type 2 diabetes and nephropathy.",
+        "journal": "Drugs",
+        "year": "2008",
+        "authors": [
+          "Croom Katherine F",
+          "Plosker Greg L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Biphenyl Compounds",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18627212/"
+      },
+      {
+        "pmid": "15101793",
+        "title": "Irbesartan: a review of its use in hypertension and in the management of diabetic nephropathy.",
+        "abstract": "Irbesartan (Avapro, Aprovel) is a potent and selective angiotensin II subtype 1 receptor antagonist indicated for use in patients with hypertension, including those with type 2 diabetes mellitus and nephropathy. Once-daily administration of irbesartan provided 24-hour control of blood pressure (BP). In patients with mild-to-moderate hypertension irbesartan was as effective as enalapril, atenolol and amlodipine, and more effective than valsartan in terms of absolute reduction in BP and response rates. Irbesartan produced a greater reduction in diastolic BP at trough than once-daily losartan, but had a smaller effect than olmesartan; the reduction in systolic BP achieved with irbesartan was similar or greater than that with losartan and similar to that seen with olmesartan. The combination of irbesartan with hydrochlorothiazide produced additive effects on BP reduction. Irbesartan also induced regression of left ventricular mass in patients with hypertension and left ventricular hypertro",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Croom Katherine F",
+          "Curran Monique P",
+          "Goa Karen L",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15101793/"
+      },
+      {
+        "pmid": "33158581",
+        "title": "Therapeutic Efficacy of Piperazine Ferulate Combined With Irbesartan in Diabetic Nephropathy: A Systematic Review and Meta-analysis.",
+        "abstract": "Irbesartan is widely used clinically in the treatment of diabetic nephropathy (DN). It is believed that piperazine ferulate (PF) combined with irbesartan could result in an improved efficacy in the treatment of DN. We present the latest meta-analysis that details the combination of PF and irbesartan therapy.",
+        "journal": "Clinical therapeutics",
+        "year": "2020",
+        "authors": [
+          "Li Dan",
+          "Li Bo",
+          "Peng Li-Xia",
+          "Liu Rong",
+          "Zeng Nan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Blood Urea Nitrogen",
+          "Creatinine",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Irbesartan",
+          "Middle Aged",
+          "Piperazine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33158581/"
+      },
+      {
+        "pmid": "39529886",
+        "title": "Effects of Abelmoschus manihot (L.) and its combination with irbesartan in the treatment of diabetic nephropathy via the gut-kidney axis.",
+        "abstract": "Clinical observations have recently shown that Abelmoschus manihot (L.) in the form of Huangkui capsule (HKC) and in combination with irbesartan (EB) is an effective therapy for diabetic nephropathy (DN) in patients with type 2 diabetes (T2D). The present study aims to explore the mechanisms underlying the therapeutic efficacies of HKC and its combination with EB in DN via the gut-kidney axis.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2024",
+        "authors": [
+          "Yu Hongmei",
+          "Tang Haitao",
+          "Saxu Rengui",
+          "Song Yuhui",
+          "Cui Xu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39529886/"
+      },
+      {
+        "pmid": "16086646",
+        "title": "An update of irbesartan and renin-angiotensin system blockade in diabetic nephropathy.",
+        "abstract": "Type 2 diabetes is a chief cause of pathologies such as cardiovascular disease, nephropathy and retinopathy, and its prevalence is increasing worldwide. Development of renal disease can be slowed by tight glycaemic control and treatment of associated hypertension with angiotensin-converting enzyme inhibition, as The Diabetes Control and Complications Trial and the UK Prospective Diabetes Study have demonstrated. Recent clinical trials have supported the use of angiotensin II receptor antagonists in the treatment of diabetic nephropathy, resulting in the approval of new therapeutic indications in the US and Europe. The main goal of this review is to demonstrate how results from the Programme for Irbesartan Mortality and Morbidity Evaluation and other recent studies, based on the effects of renin-angiotensin system blockade, can be appropriate in clinical practice, thus displaying benefits of irbesartan therapy at any stage of renal disease in diabetics.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2005",
+        "authors": [
+          "García-Donaire Jose Antonio",
+          "Segura Julian",
+          "Ruilope Luis Miguel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Biphenyl Compounds",
+          "Diabetic Nephropathies",
+          "Diet, Protein-Restricted",
+          "Europe",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Kidney Failure, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16086646/"
+      },
+      {
+        "pmid": "38761776",
+        "title": "Senolytic combination of dasatinib and quercetin attenuates renal damage in diabetic kidney disease.",
+        "abstract": "Senolytic combination of dasatinib and quercetin (DQ) is the most studied senolytics drugs used to treat various age-related diseases. However, its protective activity against diabetic kidney disease (DKD) and underlying mechanisms are uncertain.",
+        "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "year": "2024",
+        "authors": [
+          "Guo Xiuli",
+          "Wen Si",
+          "Wang Jiao",
+          "Zeng Xiaobian",
+          "Yu Hongyuan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Diabetic Nephropathies",
+          "Quercetin",
+          "PPAR alpha",
+          "Mice",
+          "Dasatinib",
+          "Molecular Docking Simulation",
+          "Male",
+          "Kidney",
+          "Mice, Inbred C57BL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38761776/"
+      },
+      {
+        "pmid": "15938034",
+        "title": "Prevention and treatment of diabetic nephropathy: the program for irbesartan mortality and morbidity evaluation.",
+        "abstract": "Aggressive treatment of hypertension is effective in reducing both microvascular and macrovascular complications in type 2 diabetes, with target BP < 130/80 mmHg being recommended. Angiotensin-converting enzyme inhibitors were found to be more effective than the other traditional agents in reducing the onset of clinical proteinuria in individuals with both type 1 and type 2 diabetes and incipient nephropathy. However, small trials on patients with type 2 diabetes and overt nephropathy failed to demonstrate a specific renoprotective role for this class of drugs. The aim of the Program for Irbesartan Mortality and Morbidity Evaluation was to ascertain whether angiotensin II receptor blockers are effective in both preventing the development of clinical proteinuria and delaying the progression of nephropathy in type 2 diabetes. The Irbesartan in Patients with Type 2 Diabetes and Microalbuminuria (IRMA) Study showed that, as compared with conventional therapy, irbesartan is better at preven",
+        "journal": "Journal of the American Society of Nephrology : JASN",
+        "year": "2005",
+        "authors": [
+          "Ravera Maura",
+          "Ratto Elena",
+          "Vettoretti Simone",
+          "Parodi Denise",
+          "Deferrari Giacomo"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biphenyl Compounds",
+          "Cause of Death",
+          "Diabetic Nephropathies",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Irbesartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15938034/"
+      },
+      {
+        "pmid": "37392674",
+        "title": "Network pharmacology-based study on the mechanism of ShenKang injection in diabetic kidney disease through Keap1/Nrf2/Ho-1 signaling pathway.",
+        "abstract": "To study the effect of ShenKang Injection (SKI) on the kidneys of DKD rats and its effect on oxidative stress mediated by the Keap1/Nrf2/Ho-1 signaling pathway through network pharmacology and in vivo and in vitro experiments.",
+        "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "year": "2023",
+        "authors": [
+          "Liu Yunhua",
+          "Wang Sitong",
+          "Jin Ge",
+          "Gao Kun",
+          "Wang Shuyue"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Reactive Oxygen Species",
+          "Diabetic Nephropathies",
+          "Rats, Sprague-Dawley",
+          "Kelch-Like ECH-Associated Protein 1",
+          "NF-E2-Related Factor 2",
+          "Network Pharmacology",
+          "Oxidative Stress",
+          "Signal Transduction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37392674/"
+      },
+      {
+        "pmid": "11565517",
+        "title": "Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes.",
+        "abstract": "It is unknown whether either the angiotensin-II-receptor blocker irbesartan or the calcium-channel blocker amlodipine slows the progression of nephropathy in patients with type 2 diabetes independently of its capacity to lower the systemic blood pressure.",
+        "journal": "The New England journal of medicine",
+        "year": "2001",
+        "authors": [
+          "Lewis E J",
+          "Hunsicker L G",
+          "Clarke W R",
+          "Berl T",
+          "Pohl M A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amlodipine",
+          "Angiotensin Receptor Antagonists",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Calcium Channel Blockers",
+          "Creatinine",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11565517/"
+      },
+      {
+        "pmid": "38503013",
+        "title": "Irbesartan ameliorates diabetic nephropathy by activating the Nrf2/Keap1 pathway and suppressing NLRP3 inflammasomes in vivo and in vitro.",
+        "abstract": "Diabetic nephropathy (DN) is characterized by albuminuria and renal dysfunction caused by diabetes. At present there is no specific treatment for DN. Irbesartan (IRB) is an angiotensin receptor inhibitor indicated for the treatment of hypertension and DN. However, the underlying molecular mechanisms of IRB on DN remains obscure.",
+        "journal": "International immunopharmacology",
+        "year": "2024",
+        "authors": [
+          "Li Yuan",
+          "Long Weihong",
+          "Zhang Haifeng",
+          "Zhao Meng",
+          "Gao Menghan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Mice",
+          "Animals",
+          "Male",
+          "Inflammasomes",
+          "NLR Family, Pyrin Domain-Containing 3 Protein",
+          "Diabetic Nephropathies",
+          "Irbesartan",
+          "NF-E2-Related Factor 2",
+          "Kelch-Like ECH-Associated Protein 1",
+          "Mice, Inbred C57BL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38503013/"
+      },
+      {
+        "pmid": "15865682",
+        "title": "Diabetic nephropathy.",
+        "abstract": "",
+        "journal": "Clinical evidence",
+        "year": "2004",
+        "authors": [
+          "Shlipak Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Biphenyl Compounds",
+          "Blood Glucose",
+          "Captopril",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Irbesartan",
+          "Losartan",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15865682/"
+      },
+      {
+        "pmid": "15485429",
+        "title": "Impact of irbesartan, blood pressure control, and proteinuria on renal outcomes in the Irbesartan Diabetic Nephropathy Trial.",
+        "abstract": "It is important to know the reliability of early changes in proteinuria in predicting late renal outcomes. The IDNT was a trial in which treatment assignment, baseline and follow-up blood pressure determinations, and albumin/creatinine ratios (ACR), and renal outcomes were recorded.",
+        "journal": "Kidney international. Supplement",
+        "year": "2004",
+        "authors": [
+          "Hunsicker Lawrence G",
+          "Atkins Robert C",
+          "Lewis Julia B",
+          "Braden Gregory",
+          "de Crespigny Paul J Champion"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Irbesartan",
+          "Predictive Value of Tests",
+          "Proteinuria",
+          "Risk Factors",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15485429/"
+      },
+      {
+        "pmid": "26321089",
+        "title": "Irbesartan can improve blood lipid and the kidney function of diabetic nephropathy.",
+        "abstract": "Diabetic nephropathy (DN) is the most frequent cause of end-stage renal disease. The activation of the renin-angiotensin system (RAS) and lipid disorders are major risk factors in progressive chronic kidney disease. Inhibition of the RAS is one of the most widely used therapies to treat chronic kidney disease. But its effect is not sufficient, and lowered hyperlipidemia is required. Most of medications for hypertension have effects only on the blood pressure in DN. This study is to evaluate the influence of irbesartan on blood lipid, kidney function, and the pathological change of kidney, liver, and adipose tissue.",
+        "journal": "Discovery medicine",
+        "year": "2015",
+        "authors": [
+          "Wang Chunyi",
+          "Min Cunyun",
+          "Rong Xianglu",
+          "Fu Tingting",
+          "Huang Xuhui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biphenyl Compounds",
+          "Chronic Disease",
+          "Creatinine",
+          "Diabetic Nephropathies",
+          "Irbesartan",
+          "Kidney",
+          "Lipids",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26321089/"
+      },
+      {
+        "pmid": "35035400",
+        "title": "Clinical efficacy of linagliptin combined with irbesartan in patients with diabetic nephropathy.",
+        "abstract": "To determine the clinical efficacy of linagliptin combined with irbesartan in patients with diabetic nephropathy (DN).",
+        "journal": "Pakistan journal of medical sciences",
+        "year": "2022",
+        "authors": [
+          "Liu Jie",
+          "Zhang Jing",
+          "Hou Ming-Hui",
+          "Du Wei-Xuan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35035400/"
+      },
+      {
+        "pmid": "15017527",
+        "title": "Angiotensin receptor blockers in diabetic nephropathy: renal and cardiovascular end points.",
+        "abstract": "The activity of the renin-angiotensin-aldosterone system (RAAS) is elevated both in the circulation and in the renal tissue of diabetic and nondiabetic nephropathies. The increased RAAS activity plays an important role in the hemodynamic and nonhemodynamic pathogenetic mechanisms involved in kidney disease. Previous studies have demonstrated that albuminuria is not only a marker of glomerular lesions, but also a progression promoter, and finally a powerful predictor of the long-term beneficial effect of blood pressure-lowering therapy. Randomized crossover and parallel blind studies in patients with diabetic nephropathy have demonstrated that angiotensin II receptor blockers (ARB) induce favorable changes in systemic blood pressure, renal hemodynamics, and proteinuria similar to those induced by angiotensin-converting enzyme (ACE) inhibition. Studies have revealed the optimal renoprotective dose for some ARBs; however, additional dose titration studies are urgently needed to obtain the",
+        "journal": "Seminars in nephrology",
+        "year": "2004",
+        "authors": [
+          "Parving Hans-Henrik",
+          "Andersen Steen",
+          "Jacobsen Peter",
+          "Christensen Per K",
+          "Rossing Kasper"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin Receptor Antagonists",
+          "Cardiovascular Diseases",
+          "Diabetic Nephropathies",
+          "Genotype",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Peptidyl-Dipeptidase A",
+          "Renin-Angiotensin System",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15017527/"
+      },
+      {
+        "pmid": "37478684",
+        "title": "Lupenone improves type 2 diabetic nephropathy by regulating NF-κB pathway-mediated inflammation and TGF-β1/Smad/CTGF-associated fibrosis.",
+        "abstract": "Type 2 diabetic nephropathy is a common diabetic complication and the main cause of death in patients with diabetes. Research has aimed to find an ideal drug with minimal side effects for treating this disease. Banana peel has been shown to be anti-diabetic, with lupenone isolated from banana peel exhibiting antidiabetic and anti-inflammatory activities; However, the effects of lupenone on type 2 diabetic nephropathy are largely unknown.",
+        "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "year": "2023",
+        "authors": [
+          "Wu Hongmei",
+          "Xu Feng",
+          "Huang Xulong",
+          "Li Xiaofen",
+          "Yu Piao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Mice",
+          "Animals",
+          "Diabetic Nephropathies",
+          "NF-kappa B",
+          "Transforming Growth Factor beta1",
+          "Eosine Yellowish-(YS)",
+          "Hematoxylin",
+          "Kidney",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37478684/"
+      },
+      {
+        "pmid": "12430239",
+        "title": "[Diabetic nephropathy].",
+        "abstract": "",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2002",
+        "authors": [
+          "Haneda Masakazu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albuminuria",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Animals",
+          "Antihypertensive Agents",
+          "Biomarkers",
+          "Biphenyl Compounds",
+          "Chronic Disease",
+          "Combined Modality Therapy",
+          "Diabetes Complications",
+          "Diabetes Mellitus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12430239/"
+      },
+      {
+        "pmid": "15855214",
+        "title": "Cost-effectiveness of irbesartan in diabetic nephropathy: a systematic review of published studies.",
+        "abstract": "To review published studies on the cost-effectiveness of the use of irbesartan for treatment of advance overt nephropathy in patients with type 2 diabetes and hypertension.",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "2005",
+        "authors": [
+          "Palmer Andrew J",
+          "Tucker Daniel M D",
+          "Valentine William J",
+          "Roze Stéphane",
+          "Gabriel Sylvie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Cost-Benefit Analysis",
+          "Diabetic Nephropathies",
+          "Economics, Pharmaceutical",
+          "Humans",
+          "Irbesartan",
+          "Kidney Failure, Chronic",
+          "Life Expectancy",
+          "Markov Chains"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15855214/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:36:16.549920",
+  "success": true,
+  "error_message": null
+}

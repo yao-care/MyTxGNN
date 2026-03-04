@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Fluconazole"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00196",
+    "name": "Fluconazole",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:15:10.734345",
+  "success": true,
+  "error_message": null
+}

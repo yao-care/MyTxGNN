@@ -1,0 +1,444 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Beclomethasone Dipropionate",
+    "disease": "intrinsic asthma",
+    "query_string": "Beclomethasone Dipropionate AND intrinsic asthma"
+  },
+  "data": {
+    "query": "Beclomethasone Dipropionate AND intrinsic asthma",
+    "results": [
+      {
+        "pmid": "9554653",
+        "title": "Long-acting inhaled beta2-agonists in asthma therapy.",
+        "abstract": "To review the pharmacology of the long-acting inhaled beta2-agonists, salmeterol and formoterol, summarize results of their clinical trials, evaluate their safety records, and discuss their roles in the treatment of asthma.",
+        "journal": "Chest",
+        "year": "1998",
+        "authors": [
+          "Moore R H",
+          "Khan A",
+          "Dickey B F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Agonists",
+          "Albuterol",
+          "Animals",
+          "Asthma",
+          "Bronchial Spasm",
+          "Ethanolamines",
+          "Formoterol Fumarate",
+          "Humans",
+          "Salmeterol Xinafoate",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9554653/"
+      },
+      {
+        "pmid": "8526176",
+        "title": "[Comparative study] of beclomethasone and budesonide, with same posology (400 micrograms every 12 hours), in the control of cortico-dependent intrinsic asthma].",
+        "abstract": "Inhaled steroids have rendered an undoubtful benefit in the control of airway inflammation of the asthmatic patients. Our objective was to compare clinical efficacy between budesonide (BUD) and beclomethasona depropionate (BDP), when administered at equal doses (800 micrograms/24 hours). A two ways crossed open clinical trial was designed. Thirty-three steroid dependent chronic asthmatic patients (18 females, 15 males) were included. Ages ranged from 29 to 73 years (mean = 52.5 +/- 11.7). All subjects suffered a severe asthma, with several years of activity (mean = 11.7 +/- 7.8), insufficiently controlled by inhaled steroids and bronchodilators, who required regular systemic steroids supply. The parameters compared were: the patients subjective symptoms punctuation (cough, expectoration, thoracic noises, exercise induce dyspnea and dyspnea at rest), salbutamol needs (number of inhalations/day), additional prednisone needs, sputum eosinophil counts, FEV1 measurement and inespecific bron",
+        "journal": "Allergologia et immunopathologia",
+        "year": "1995",
+        "authors": [
+          "Hernández J",
+          "García-Sellés F J",
+          "Negro J M",
+          "Pascual A",
+          "Sola J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Beclomethasone",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8526176/"
+      },
+      {
+        "pmid": "9563368",
+        "title": "Development of fluticasone propionate and comparison with other inhaled corticosteroids.",
+        "abstract": "Fluticasone propionate (FP) is a trifluorinated glucocorticoid based on the androstane nucleus. It was selected for development from structure-activity relationships (topical anti-inflammatory, cutaneous vasoconstriction, and hypothalamic-pituitary-adrenal axis suppression) of a series of 17beta-carbothioates. FP is 3-, 300-, and 1000-fold more lipophilic than beclomethasone dipropionate, budesonide, and triamcinolone acetonide, respectively. FP has an absolute affinity (KD) for the glucocorticoid receptor of 0.5 nmol/L and a relative receptor affinity 1.5-fold higher than beclomethasone-17-monopropionate (17-BMP) and mometasone furoate, 3-fold higher than budesonide, and 20-fold higher than flunisolide and triamcinolone acetonide. The rate of association of FP with the receptor is faster and the rate of dissociation slower than other corticosteroids. The resulting half-life of the FP active steroid-receptor complex is >10 hours, compared with approximately 5, 7.5, and 4 hours for bude",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "1998",
+        "authors": [
+          "Johnson M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Androstadienes",
+          "Anti-Asthmatic Agents",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Fluticasone",
+          "Humans",
+          "Lung",
+          "Receptors, Glucocorticoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9563368/"
+      },
+      {
+        "pmid": "1841740",
+        "title": "Clinical management of bronchial asthma with inhaled high-dose beclomethasone dipropionate (Beclomet 250--Orion).",
+        "abstract": "The efficacy of inhaled high-dose beclomethasone dipropionate (BDP) in intrinsic and cortico-dependent asthma was studied in 12 asthmatics (3 males and 9 females), average age 39 years (range 17-62 years), with a mean duration of the disease of 9 years (range 2-20 years). The patients were instructed to use one actuation (250 micrograms), three times daily or two actuations three times daily in severe cases in which dyspnoea persisted during the intake of oral corticosteroids. The results during the 6 month follow-up period were: Clinical: dyspnoea, wheeze and cough disappeared or diminished, oral administration of corticosteroids stopped or the daily dose was reduced, the intake of beta-agonists decreased; Functional: after 2-4 weeks, in almost all cases, the base line values of FEV 1.0 and Raw were normal and hyperinflation significantly diminished after the first month of BDP therapy. Clinical and functional improvement were maintained during the follow-up period; no side-effects we",
+        "journal": "Pneumoftiziologia : revista Societatii Romane de Pneumoftiziologie",
+        "year": "1991",
+        "authors": [
+          "Duţu S",
+          "Stoicescu P",
+          "Bistriceanu G",
+          "Bîscă N",
+          "Popescu O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adult",
+          "Asthma",
+          "Beclomethasone",
+          "Chronic Disease",
+          "Drug Evaluation",
+          "Female",
+          "Forced Expiratory Volume",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1841740/"
+      },
+      {
+        "pmid": "2683633",
+        "title": "Antiinflammatory therapy with glucocorticoids in intrinsic asthma.",
+        "abstract": "The pioneering study by Bordley et al. (John Hopkins Hosp. 1949) contains information on glucocorticoids in asthma that has stood the test of time: These drugs do not distinguish between intrinsic and extrinsic asthma. The beneficial effect can be seen in 4-48 h. The full effect is obtained in a week or longer. After stopping therapy in \"cured\" patients, symptoms may gradually return. Studies carried out by Swedish, English and German workers in the mid-1950s appear to be the first successful uses of topical glucocorticoids in asthma. As shown with beclomethasone dipropionate during the 1970s, and expanded during the 1980s with the more lung-selective drug, budesonide, inhaled glucocorticoids have a broad clinical efficacy in mild and severe asthma and are very safe to use. They improve baseline airway resistance and reduce \"non-specific\" hyperreactivity. They inhibit not only late phase responses but also immediate type reactions in the airways including exercise-induced asthma. It ha",
+        "journal": "Agents and actions. Supplements",
+        "year": "1989",
+        "authors": [
+          "Persson C G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Glucocorticoids",
+          "Humans",
+          "Steroids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2683633/"
+      },
+      {
+        "pmid": "329663",
+        "title": "[Beclomethasone dipropionate in the treatment of corticodependent intrinsic bronchial asthma].",
+        "abstract": "",
+        "journal": "Allergologia et immunopathologia",
+        "year": "1977",
+        "authors": [
+          "Campos A",
+          "Peláez A",
+          "García Villalmanzo I",
+          "Basomba A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aerosols",
+          "Asthma",
+          "Beclomethasone",
+          "Clinical Trials as Topic",
+          "Cortisone",
+          "Drug Evaluation",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/329663/"
+      },
+      {
+        "pmid": "2178513",
+        "title": "Pharmacology and pharmacokinetics of topical corticosteroid derivatives used for asthma therapy.",
+        "abstract": "Although systemic corticosteroids provide additional therapeutic benefit for persons with refractory asthma, their side effects make them less than optimal agents. Introduction of beclomethasone dipropionate (BDP), the first corticosteroid that is clinically useful when delivered by aerosol, provided a major advance in asthma therapy. Patients who were previously maintained on daily systemic steroids could be transferred to inhaled steroids with no loss of medical benefit and significant improvement in the function of the hypothalamic-pituitary-adrenal axis. The value of BDP and subsequent topical corticosteroids lies in their pharmacologic properties. These agents possess increased intrinsic potency when administered by inhaler. At the same time they have considerably lower systemic potency than corticosteroids such as hydrocortisone and dexamethasone in aerosol form. This is because the fraction of the topically useful compounds that is swallowed, which is substantial, is rapidly ina",
+        "journal": "The American review of respiratory disease",
+        "year": "1990",
+        "authors": [
+          "Check W A",
+          "Kaliner M A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Administration, Topical",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Glucocorticoids",
+          "Humans",
+          "Structure-Activity Relationship"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2178513/"
+      },
+      {
+        "pmid": "9012556",
+        "title": "Dose-response of inhaled drugs in asthma. An update.",
+        "abstract": "The demographic characteristics of patients used in clinical trials (such as the severity of airway obstruction) can significantly influence the results of dose-response studies, emphasising the need to evaluate effects on the steep part of the dose-response curve. Differences in inhaler devices can also influence study outcomes, as for inhaled drugs both airway efficacy and adverse effect profiles are primarily determined by lung deposition and hence bioavailability. Dose-response studies with short- and long-acting beta 2-agonists show an excellent therapeutic ratio at conventional doses used in everyday clinical practice (i.e. 2 to 4 puffs). Dose-related systemic effects of beta 2-agonist occur at higher doses, for salbutamol (albuterol) > 500 micrograms. Fenoterol is a beta 2-agonists with higher intrinsic activity than salbutamol and produces greater systemic effects at higher than conventional doses on a microgram equivalent basis, although even at 4000 micrograms such difference",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1997",
+        "authors": [
+          "Clark D J",
+          "Lipworth B J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-2 Receptor Agonists",
+          "Adrenergic beta-Agonists",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9012556/"
+      },
+      {
+        "pmid": "15801332",
+        "title": "Soluble CD23 and interleukin-1 receptor antagonist in human asthmatics following antigen challenge.",
+        "abstract": "Two postulated intrinsic anti-inflammatory mechanisms in asthma include the low affinity IgE receptor, or CD23, and interleukin 1 receptor antagonist (IL-1ra). We investigated the role these mediators play in the asthmatic response by measuring local levels in human asthmatics before and after segmental allergen challenge and examined the effect of inhaled corticosteroids on soluble CD23 and IL-1ra levels. Ten subjects underwent bronchoscopy at baseline and 24 hours after antigen challenge. Prior to challenge and every 12 hours afterward subjects received beclomethasone 252 microg or placebo. Fluid was analyzed for sCD23 and IL-1ra using ELISA immunoassays. Eosinophil percentages significantly increased at 24 hours following antigen challenge. sCD23 levels were generally undetectable at baseline and increased significantly following antigen challenge. IL-1ra levels increased 28-fold in the late-phase response. Beclomethasone significantly reduced the late-phase eosinophil percentage at",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2005",
+        "authors": [
+          "Amrol David J",
+          "Hagaman David D",
+          "Sheller James R",
+          "Murray John J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Beclomethasone",
+          "Bronchial Provocation Tests",
+          "Cross-Over Studies",
+          "Double-Blind Method",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Eosinophils"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15801332/"
+      },
+      {
+        "pmid": "884456",
+        "title": "A case of intrinsic asthma.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1977",
+        "authors": [
+          "Bell G M",
+          "Rawlins M D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Albuterol",
+          "Asthma",
+          "Beclomethasone",
+          "Humans",
+          "Male",
+          "Prednisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/884456/"
+      },
+      {
+        "pmid": "6769155",
+        "title": "Clinical practice with regard to management of the adult asthmatic with cromoglycate.",
+        "abstract": "An open clinical long-term trial of cromoglycate (DSCG) involving 80 asthmatics over a period of more than one year showed significant effectiveness of DSCG compared with placebo. It was possible to improve the quality of life for asthmatics and reduce the oral steroids; it was also noted that the patients undergoing DSCG treatment needed less bronchodilator than the placebo group. The strict prescription of 4 inhalations per day was not ordered. Instead, half of the patients in the trial inhaled as regularly as possible and the other half when they felt that it was necessary. The results obtained were as good as those following a strict prescription. In general, extrinsic allergic asthma reacted better to DSCG than intrinsic asthma. What is recommendable above all is to prescribe DSCG prophylactically in pollen asthma during the critical months. Expected allergenic contact or exercise, which usually leads to onset of asthma, are also optimal indications for prophylactic use of DSCG. F",
+        "journal": "Schweizerische medizinische Wochenschrift",
+        "year": "1980",
+        "authors": [
+          "Turner-Warwick M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asthma",
+          "Clinical Trials as Topic",
+          "Cromolyn Sodium",
+          "Humans",
+          "Isoproterenol",
+          "Physical Exertion",
+          "Placebos",
+          "Pollen",
+          "Respiratory Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6769155/"
+      },
+      {
+        "pmid": "7375908",
+        "title": "[Problems of indication and execution of long-term steroid therapy in advanced disabling bronchial asthma].",
+        "abstract": "In the management of severe chronic asthma, extensive avoidance of known precipitating factors and optimum betastimulation supported by theophylline have pride of place. In combination with sodium cromoglycate they sufficiently relieve symptoms and lung function disturbances in most cases of adult extrinsic allergic asthma. The cases with chronic disabling intrinsic asthma need, in our experience, additional long-term use of corticosteroids. The intrinsic type (late onset, severe perennial course, aspirin intolerance, nasal polyps) is in many cases recognised only with difficulty. Detailed history-taking, reversibility of the lung function disturbances and eosinophilia in the sputum may in general differentiate it from chronic obstructive bronchitis and extrinsic asthma. The aim of the long-term use of steroids in asthma is to achieve the best effect with minimal risk. In this respect the following treatment schedule has proved its worth: daily administration of prednisone in a single ",
+        "journal": "Schweizerische medizinische Wochenschrift",
+        "year": "1980",
+        "authors": [
+          "Imhof K",
+          "Scherrer M"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Albuterol",
+          "Altitude",
+          "Asthma",
+          "Beclomethasone",
+          "Humans",
+          "Prednisone",
+          "Respiratory Therapy",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7375908/"
+      },
+      {
+        "pmid": "6954092",
+        "title": "The effect of powder aerosol compared to pressurized aerosol.",
+        "abstract": "A comparison was performed between inhalation of salbutamol as a powder aerosol or as a pressurized aerosol. Seven intrinsic asthmatics, well-trained in inhalation technique, were studied in an open randomized crossover comparison of the two different modes of administration. Five doses were inhaled of salbutamol from the pressurized aerosol, 0.1-2.4 mg, and five doses as a powder aerosol from a Rotahaler, 0.2-4.8 mg. The FEV1 dose-response curves were almost identical indicating bronchodilating equipotency between the two modes of administration. A preliminary report is given of the effects on morning cortisol of inhalation of beclomethasone dipropionate as a powder aerosol or as a pressurized aerosol in 10 healthy volunteers trained in inhalation technique. Morning cortisol decreased to the same degree after both modes of administration and the decrease was dose-dependent when beclomethasone dipropionate was given in the doses 200 micrograms, 500 micrograms and 1000 micrograms q.i.d.",
+        "journal": "European journal of respiratory diseases. Supplement",
+        "year": "1982",
+        "authors": [
+          "Svedmyr N",
+          "Löfdahl C G",
+          "Svedmyr K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Albuterol",
+          "Asthma",
+          "Beclomethasone",
+          "Humans",
+          "Powders",
+          "Pressure",
+          "Random Allocation",
+          "Respiratory Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6954092/"
+      },
+      {
+        "pmid": "6958495",
+        "title": "Development of new glucocorticosteroids with a very high ratio between topical and systemic activities.",
+        "abstract": "The very potent topical anti-inflammatory glucocorticosteroids (GCS) most widely used are either 17 alpha-esters of halogenated 16-methyl-17 alpha-hydroxycorticosteroids (e.g. beclomethasone 17 alpha, 21-dipropionate = BDP) or 16 alpha, 17 alpha-acetals of halogenated 16 alpha, 17 alpha-dihydroxy corticosteroids (e.g. triamcinolone acetonide = TA). The purpose of the present investigation was to increase the ratio between the topical anti-inflammatory (TAIP) and the systemic potencies (SP) of GCS 16 alpha, 17 alpha-acetals, as such compounds are not biotransformed in the lung. Structure-activity investigations in rodents showed that fluoro substituents in positions 6 alpha or 9 alpha or both 6 alpha, 9 alpha 9 alpha increased SP more than TAIP. On the other hand, nonsymmetrical 16 alpha, 17 alpha-acetal substitution increased TAIP more than SP. The best TAIP:SP ratio was obtained with budesonide, which contains this new type of acetal substituent, but has no halogen atoms in the steroi",
+        "journal": "European journal of respiratory diseases. Supplement",
+        "year": "1982",
+        "authors": [
+          "Brattsand R",
+          "Thalén A",
+          "Roempke K",
+          "Källström L",
+          "Gruvstad E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Asthma",
+          "Beclomethasone",
+          "Budesonide",
+          "Glucocorticoids",
+          "Humans",
+          "Inflammation",
+          "Male",
+          "Mice",
+          "Mice, Inbred Strains"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6958495/"
+      },
+      {
+        "pmid": "6160921",
+        "title": "Histamine release from blood of asthmatics.",
+        "abstract": "A group of forty-two steroid-dependent perennial asthmatics was studied over a 13-week period incuding the 8 weeks of a double-blind controlled trial of oral sodium cromoglycate. Given at a dose of 200 mg four times per day the drug provided no significant benefit to the patients when compared with results for those on placebo. Blood from eleven patients consistently failed to release more than 25% of the total cellular histamine when challenged with a range of concentrations of antibody to IgE. All six of the cryptogenic (intrinsic) asthmatics in the trial fell within this group, together with 2/12 asthmatics with negative skin tests but suggestive clinical histories implicating common alergens, and 3/24 extrinsic asthmastics with positive skin prick tests. There was no correlation between drug usage and histamine release in response to challenge with antibody to IgE.",
+        "journal": "Clinical allergy",
+        "year": "1980",
+        "authors": [
+          "Cromwell O",
+          "Harries M G",
+          "Pepys J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Asthma",
+          "Beclomethasone",
+          "Cromolyn Sodium",
+          "Double-Blind Method",
+          "Female",
+          "Hemoglobins",
+          "Histamine Release",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6160921/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:34:07.027352",
+  "success": true,
+  "error_message": null
+}

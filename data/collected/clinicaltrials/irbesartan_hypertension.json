@@ -1,0 +1,919 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Irbesartan",
+    "disease": "hypertension"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00095394",
+      "title": "The Efficacy and Safety of Irbesartan/HCTZ Combination Therapy as First Line Treatment for Severe Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2005-05",
+      "country": "Israel, France, Russia, Germany, Netherlands, Canada, Belgium, United States",
+      "enrollment": 645,
+      "brief_summary": "The purpose of this clinical research is to learn if severe hypertension can be better controlled by initially treating with a combination of drugs (Irbesartan/HCTZ), in patients who are unlikely to achieve blood pressure (B/P) control with only one drug. In addition, the study will also evaluate the safety and tolerability of the drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ages 18 and older;\n* Willing to provide written informed consent;\n* Must have uncontrolled hypertension defined as: currently untreated with a diastolic blood pressure greater than 110 mmHg OR currently receiving antihypertensive monotherapy with a diastolic bloo",
+      "endpoints": [
+        "Proportion of subjects whose seated diastolic blood pressure is controlled (SeDBP < 90 mmHg) at Week 5"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00095394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03006796",
+      "title": "Observational Prospective stUdy of aZilsartan Medoxomil/ Chlorthalidone Compared With Irbesartan/hydrochlorothiaZide Combination Therapy in Patients With arteriaL Hypertension and obEsity in Routine Clinical Practice (PUZZLE).",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-01-16",
+      "completion_date": "2020-03-31",
+      "country": "Russia",
+      "enrollment": 94,
+      "brief_summary": "This is an observational prospective study of azilsartan medoxomil / chlorthalidone compared with irbesartan / hydrochlorothiazide in routine therapy of patients with arterial hypertension and obesity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male and female 35-55 year old,\n2. diagnosis of I-II grade essential AH,\n3. patients with obesity (BMI ≥ 30 kg/m²),\n4. patients with untreated AH (office SBP ≥ 140 mmHg, DBP ≥ 90 mmHg, no previous antihypertensive therapy),\n5. patients with poorly controlled AH (office SBP ≥ ",
+      "endpoints": [
+        "Clinic systolic blood pressure lowering."
+      ],
+      "sponsor": "Russian Heart Failure Society",
+      "url": "https://clinicaltrials.gov/study/NCT03006796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741702",
+      "title": "Diabetes Risk Evaluation and Microalbuminuria in Saskatchewan First Nations Peoples",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2001-09",
+      "completion_date": "2003-03",
+      "country": "N/A",
+      "enrollment": 95,
+      "brief_summary": "This randomized controlled trial was designed to assess whether a community-based treatment strategy implemented by home care nurses would be effective in controlling hypertension in First Nations people with existing hypertension and type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age\\>= 18 yr\n* Type 2 diabetes mellitus\n* Persistent hypertension (systolic pressure \\>= 130 mmHg, diastolic pressure \\>= 80 mm Hg, or both)\n\nExclusion Criteria:\n\n* use of beta blocker\n* women of child-bearing age not able to use a reliable method of birth control\n* Connective",
+      "endpoints": [
+        "systolic blood pressure"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT00741702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05243199",
+      "title": "Sacubitril/Valsartan for Dialysis Patients With CKD5 Stage Complicated With Hypertension- A Prospective, Randomized, Controlled Multicenter Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-08-01",
+      "completion_date": "2023-03-08",
+      "country": "China",
+      "enrollment": 330,
+      "brief_summary": "Hemodialysis or peritoneal dialysis CKD5 patients were randomly divided into Sacubitril/Valsartan and irbesartan treatment groups. Comparing the blood pressure, survival rates, the cardiac function, renal function,and adverse reactions of two groups, to evaluate whether the efficacy and safety of Sacubitril/Valsartan in the treatment of patients with CKD dialysis combined with heart failure is superior to that of irbesartan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CKD stage 5, starting regular hemodialysis or peritoneal dialysis for more than 1 month.\n* NT-proBNP ≥2000pg/ml.\n* hypertension\n* Voluntary informed consent.\n\nExclusion Criteria:\n\n* Unable to tolerate ACEI/ARB class antihypertensive drugs;\n* History of symptomatic hypotension/",
+      "endpoints": [
+        "The effect of ARNI on blood pressure in patients with CKD who are on dialysis"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05243199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00334581",
+      "title": "A Study of Irbesartan 150mg Verses 300mg in Chinese Hypertensive Patients With Diabetes and Microalbuminuria",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2008-06",
+      "country": "China",
+      "enrollment": 192,
+      "brief_summary": "Primary objective:\n\n* To determine if irbesartan 300mg is better than 150mg in protecting the kidneys in hypertensive patients with diabetes and microalbuminuria.\n\nSecondary objectives:\n\n* To determine how well irbesartan 300mg is tolerated versus 150mg\n* To determine the percentage of patients reaching the blood pressure target of 130/80 mmHg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertensive patients, treated or untreated, with type 2 diabetes and urinary albumin excretion rate 20-200ug/min.\n* Blood pressure of \\< 180/110mmHg at baseline\n* Normal serum creatinine\n\nExclusion Criteria:\n\n* Type 1 diabetes\n* Use of angiotensin converting enzyme inhibitors",
+      "endpoints": [
+        "The difference of urinary albumin excretion rate change"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00334581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389168",
+      "title": "Randomized, Double-blind Evaluation of the Effects of Irbesartan and Atenolol on Cardiovascular Structure and Function in Subjects With Hypertension and Left Ventricular Hypertrophy",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1995-04",
+      "completion_date": "1997-04",
+      "country": "Sweden",
+      "enrollment": 115,
+      "brief_summary": "The renin-angiotensin-aldosterone system has been implicated in the control of structural changes of the heart and the vasculature, beyond the effects on blood pressure.\n\nThis projects examines the importance of the renin-angiotensin-aldosterone system and the sympathetic nervous system in the control of cardiac and vascular structure and function in subjects with hypertension.Patients with hypertension and left ventricular hypertrophy were randomized to an angiotensin receptor blocker or a beta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 ys old\n* Male or female with no child bearing potential\n* Seated blood pressure diastolic 90-115 mm Hg\n* Left ventricular mass above 131 g/m2 for men, above 100 g/m2 for women\n* Informed consent\n\nExclusion Criteria:\n\n* Coronary artery disease, heart failure or othe",
+      "endpoints": [
+        "Changes in Left Ventricular Mass Index"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT00389168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00224549",
+      "title": "Management of Resistant Hypertension -Pharmacokinetic Assessment of Different Antihypertensive Regimen -Comparison of Two Treatment Strategies: Increase Sodium Depletion or Combined Blockage of Renin-angiotensin System (RAS)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2009-08",
+      "country": "France",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to assess the efficacy of two different treatment regimens for treating resistant hypertension previously uncontrolled with at least 3 antihypertensive treatments. The study hypothesis is that these two regimens (one based on increasing diuretics and the other based on increasing renin angiotensin system blockage) may not differ in terms of efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary hypertension\n* Resistant hypertension defined by mean day-time SBP \\> 135 mmHg and DBP \\> 85 mmHg (determined with ABPM device) after a standardized 4-week regimen including irbesartan, amlodipine and HCTZ.\n\nExclusion Criteria:\n\n* Secondary hypertension\n* Unstable angi",
+      "endpoints": [
+        "Mean day-time systolic blood pressure (SBP) at week 12, measured with an average blood pressure measurement (ABPM) device"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT00224549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01805362",
+      "title": "RAS Blockade at Bedtime Versus on Awakening for the Prevention of Aldosterone Breakthrough",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-02-27",
+      "completion_date": "2018-01-12",
+      "country": "France",
+      "enrollment": 104,
+      "brief_summary": "Objective:\n\nTo show that the frequency of aldosterone breakthrough is lower when RAS blockers are given at bedtime compared to on awaking, and to analyze the determinants and consequences of aldosterone breakthrough.\n\nDuration of the study: Inclusion 2 years, follow-up one year, total 3 years Design: prospective, multicenter, randomized, controlled, open label, two parallel groups.\n\nMain selection criteria:\n\nInclusion criteria\n\n* Chronic kidney disease stage 3 to 4,\n* ACEI (captopril, enalapril,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic kidney disease stage 3 to 4,\n* ACEI (captopril, enalapril, or ramipril), and/or ARB (losartan, valsartan, or irbesartan) on awaking for at least three months,\n* History of hypertension or proteinuria \\> 0,5 g/24h or g/g creatininuria,\n* Adult with social security insur",
+      "endpoints": [
+        "Serum aldosterone levels at one year"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT01805362"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00950066",
+      "title": "Study to Evaluate the Safety and Efficacy of Two Fixed Dose Combinations of Irbesartan / Amlodipine and Monotherapy After Eight Weeks of Treatment in Subjects With Uncomplicated Mild to Moderate Essential Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2010-01",
+      "country": "Taiwan, South Korea, India, Philippines",
+      "enrollment": 270,
+      "brief_summary": "The primary objective is to compare the extent of reduction of mean Seated Diastolic Blood Pressure (SeDBP) at the end of 8 weeks between each Fixed Dose Combination (FDC), its individual constituents administered as monotherapy and placebo.\n\nThe secondary objectives are:\n\n* to compare the reduction of mean Seated Systolic Blood Pressure (SeSBP) at the end of 8 weeks from baseline between each FDC, its individual constituents administered as monotherapy and placebo.\n* to compare the reduction of",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects with uncomplicated mild to moderate essential hypertension (as per European Society of Cardiology Classification of Hypertension)\n\n  * Treatment naïve subjects (newly diagnosed subjects or subjects currently only on lifestyle modification) with mean SeDBP of 95 to 109",
+      "endpoints": [
+        "Difference in mean change in SeDBP between each FDC, its individual constituents administered as monotherapy and placebo"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00950066"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06256991",
+      "title": "Potassium Correction for Renin-angiotensin-aldosterone System Optimization in Chronic Kidney Disease",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-04-01",
+      "completion_date": "2027-12",
+      "country": "Netherlands",
+      "enrollment": 44,
+      "brief_summary": "The goal of this placebo-controlled, double-blinded cross-over trial is to test whether patiromer, compared with placebo, better enables up-titration of RAAS-blocker treatment in patients with chronic kidney disease stage 3b/4.\n\nThe main questions it aims to answer are:\n\n* Does patiromer allow uptitration of irbesartan, resulting in a significant reduction in albuminuria and blood pressure?\n* Does patiromer allow uptitration of irbesartan, resulting in a significant reduction in blood pressure?\n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years;\n* CKD stage 3b-4 (eGFR 15-44 mL/min/1.73 m2)\n* Albumin-creatinine ratio \\>3 mg/mmol, or proteinuria \\>0.05g/24u, or protein-creatinine ratio \\> 5mg/mmol\n* Systolic blood pressure \\>130 mmHg or use of one or more antihypertensive drugs;\n* Serum K+ 4.0-5.0 mmol/L",
+      "endpoints": [
+        "Albumin-creatinine ratio (ACR)"
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "url": "https://clinicaltrials.gov/study/NCT06256991"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06790927",
+      "title": "A Cluster Randomized Controlled Trial on a Standardized Antihypertensive Treatment Protocol",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-02-24",
+      "completion_date": "2026-12-31",
+      "country": "China",
+      "enrollment": 400,
+      "brief_summary": "Study name: A cluster randomized controlled trial on a standardized antihypertensive treatment protocol.\n\nObjective: To evaluate a simple treatment protocol for China in a real clinic setting.\n\nStudy design: In this study, newly identified uncontrolled hypertension or monotherapy for patients with substandard blood pressure are sequentially enrolled and monitored for blood pressure in the office and at home. Randomization was carried out on a machine numeric table, one center with a small value ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-80 years;\n2. Newly identified or monotherapy patients with uncontrolled clinical blood pressure;\n3. Systolic blood pressure≥140 mmHg and/or diastolic blood pressure≥90 mmHg;\n4. Agree to participate in the trial and sign the informed consent form.\n\nExclusion criteria:\n\n",
+      "endpoints": [
+        "Control rate of clinical blood pressure"
+      ],
+      "sponsor": "Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT06790927"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02721342",
+      "title": "Remission Clinic: Computed Registry for the Ambulatory Follow up of Patients With Proteinuric Chronic Nephropathies Treated Based on a Standard Multipharmacological Model Aimed at Normalizing Proteinuria and Stabilizing the Renal Function",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2009-06",
+      "completion_date": "2022-11",
+      "country": "Italy",
+      "enrollment": 1500,
+      "brief_summary": "Most chronic kidney diseases have a progressive evolution characterized by the gradual loss of glomerular filtration rate (GFR), electrolytic imbalance, reduced erythropoietin synthesis and activation of vitamin D. On many occasions, the progressive deterioration of renal function occurs, even when the etiologic factors responsible for the kidney disease are treated and/or eliminated as a result of an auto-sustained mechanism of inflammation and fibrosis. Moreover, chronic nephropathies are ofte",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Proteinuria \\>0.5 g/24 hours or albuminuria \\>200 g / min (or \\>300 g/24 hours) for at least 2 consecutive evaluations regardless of treatment with ACEi and/or ARBs;\n* Change in serum creatinine or creatinine clearance less than 30% in the last 3 months;\n* No corticosteroids o",
+      "endpoints": [
+        "Glomerular Filtration Rate (GFR) estimated",
+        "24 hour proteinuria"
+      ],
+      "sponsor": "Mario Negri Institute for Pharmacological Research",
+      "url": "https://clinicaltrials.gov/study/NCT02721342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00684489",
+      "title": "Renin-Guided Therapeutics in the Management of Untreated, Uncontrolled or Complicated Hypertension",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 52,
+      "brief_summary": "Plasma renin values determine whether volume or vasoconstrictor (renin) factors predominate in elevating blood pressure and are useful in selecting effective antihypertensive therapy.2,3\n\nThe researchers hypothesize that:\n\n1. Plasma renin-guided therapeutics will improve systolic and diastolic blood pressure control in patients with untreated hypertension as well as in patients with treatment refractory or resistant hypertension that are managed by Clinical Hypertension Specialists.\n2. Renin-gui",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age, 21 years of age and older\n* Male or female (post-menopausal or effective method of birth control)\n* BP and treatment criteria noted above\n* Willingness to provide written, informed consent\n* Ability to adhere to study protocol\n\nExclusion Criteria:\n\n* Uncontrolled diabetes",
+      "endpoints": [],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT00684489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04488978",
+      "title": "A Randomized, Double-blind, Multicenter, Factorial Design, Phase II Study to Evaluate the Efficacy and Safety of Irbesartan and Amlodipine Combined or Alone in Patients With Essential Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-05-21",
+      "completion_date": "2021-11-09",
+      "country": "South Korea",
+      "enrollment": 440,
+      "brief_summary": "A Randomized, Double-blind, Multicenter, Factorial Design, Phase II Study to Evaluate the Efficacy and Safety of Irbesartan and Amlodipine Combined or Alone in Patients With Essential Hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are 19 years or older / 75 years or younger on screening\n* Signed informed consent\n* Patients with Essential Hypertension\n* Other inclusion applied\n\nExclusion Criteria:\n\n* Orthostatic hypertension with symptom\n* Other exclusion applied",
+      "endpoints": [
+        "The change in MSSBP between baseline and Week8."
+      ],
+      "sponsor": "Handok Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04488978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05476354",
+      "title": "A Randomized, Double-blind, Multicenter, Placebo-control, Parallel Group Phase 3 Study to Evaluate the Efficacy and Safety of Irbesartan and Amlodipine Combined Therapy in Essential Hypertension Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-07-05",
+      "completion_date": "2023-06-13",
+      "country": "South Korea",
+      "enrollment": 271,
+      "brief_summary": "The purpose of this study is to evaluate efficacy and safety of Irbesartan and Amlodipine combined therapy in patients with essential hypertension inadequately controlled on Irbesartan monotherapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are 19 years or older on screening\n* Signed informed consent\n* Patients with Essential Hypertension\n* Other inclusion applied\n\nExclusion Criteria:\n\n* Orthostatic hypotension\n* Other exclusion applied",
+      "endpoints": [
+        "Change from baseline in mean sitting systolic blood pressure(mmHg)"
+      ],
+      "sponsor": "Handok Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05476354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00564187",
+      "title": "Prospective, Multicentric, Randomized, Open, Comparative Phase IV Study Evaluating the Efficacy and Safety of the Dosage Adjustment of Aprovel® (Irbesartan) in Hypertensive Outpatients in Current Clinical Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-12",
+      "country": "Tunisia",
+      "enrollment": 115,
+      "brief_summary": "Primary:\n\n* To evaluate the efficacy of two regimens of irbesartan in patients responding but not normalized at 6 weeks of treatment (schema N°1: maintenance 150 mg/day, schema n°2: 300 mg/day for 6 more weeks)\n\nSecondary:\n\n* To evaluate the percentage of patients with DBP \\< 90 mmHg at 6 and 12 weeks\n* To evaluate the percentage of patients with SBP \\< 140 mmHg at 6 and 12 weeks\n* To evaluate rate of adverse events during the study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mild to Moderate hypertension (90mmHg\\<DBP\\<110mmHg and 140mmHg\\<SBP\\<180mmHg)\n* Or new diagnosed hypertension (after 2 visits within 1 month), never treated before and responding to required conditions for a treatment with irbesartan, after an adapted but insufficient diet\n* ",
+      "endpoints": [
+        "To Evaluate the efficacy of two regimens of irbesartan in patients responding but not normalized (schema N°1: maintenance 150mg/day, schema n°2: 300mg/day for 6 more weeks)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00564187"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00152698",
+      "title": "A Randomised, Double-blind, Placebo-controlled, Phase III Trial to Study the Effect of Irbesartan on Endothelial Function of the Retinal Vasculature in Patients With Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2009-11",
+      "completion_date": "2009-12",
+      "country": "Germany",
+      "enrollment": 0,
+      "brief_summary": "The retinal vasculature is morphologically and functionally related to the cerebral vessels due to its common origin from the internal carotid artery. A recent study demonstrated that endothelium-dependent vasodilation of the retinal vasculature is impaired in patients with essential hypertension, which is a strong risk factor for stroke. Furthermore, AT1-receptor blockade was demonstrated to improve retinal endothelium-dependent vasodilation in these hypertensive patients. Hypercholesterolemia ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male patients aged 18-65 years with LDL-cholesterol \\>= 130mg/dl\n* Male healthy control subjects aged 18-65 years\n\nExclusion Criteria:\n\n* All kinds of secondary hyperlipidemia.\n* Advanced damage of vital organs (grades III and IV retinopathy)\n* Lipid-lowering drugs (including ",
+      "endpoints": [
+        "Comparison of retinal endothelial function between hypercholesterolemic patients and healthy control subjects"
+      ],
+      "sponsor": "University of Erlangen-Nürnberg Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT00152698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362037",
+      "title": "Irbesartan In Hypertensive Patients With Left Ventricular Hypertrophy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-06",
+      "country": "Egypt",
+      "enrollment": 281,
+      "brief_summary": "* To evaluate Blood Pressure (BP) reduction to the targeted values (BP ≤ 140/90 mm Hg in non-diabetic patients, and ≤ 130/80 mm Hg in diabetic patients).\n* To emphasize and to evaluate the benefit of Irbesartan in the reduction of left ventricular mass index in hypertensive patients with left ventricular hypertrophy.\n* To demonstrate safety of Irbesartan in this population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with proven mild to moderate Hypertension.\n* Patients must have left ventricular mass index \\> 130g/m2 in men, \\> 100g/m2 in women, as evidenced by echocardiography before inclusion.\n* Newly diagnosed \"naïve\" hypertensive patients (no prior treatment for hypertension)",
+      "endpoints": [
+        "Reduction in BP to target values according to the ESC 2003 Hypertension Guidelines",
+        "Reduction in left ventricular hypertrophy from baseline values to week 36."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00362037"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00219115",
+      "title": "A 12-week Randomized Double-blind Parallel Group Study to Evaluate the Efficacy and Safety of the Combination Aliskiren With HCTZ Compared to Irbesartan or Amlodipine With HCTZ or HCTZ Alone in Hypertensive Patients With BMI ≥ 30 kg/m2 Not Adequately Responsive to HCTZ 25 mg",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2006-03",
+      "country": "Germany, United States",
+      "enrollment": 493,
+      "brief_summary": "To evaluate the blood pressure lowering effects of the combination of aliskiren 300 mg and HCTZ 25 mg in obese patients with essential hypertension inadequately treated with HCTZ 25 mg, compared to irbesartan or amlodipine with HCTZ or HCTZ alone.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Patients with essential hypertension\n* Patients with body mass index ≥ 30 kg/m2\n\nExclusion Criteria\n\n* Severe hypertension\n* History or evidence of a secondary form of hypertension\n* History of Hypertensive encephalopathy or cerebrovascular accident.\n\nOther protocol-defined inc",
+      "endpoints": [
+        "Change from baseline in mean sitting diastolic blood pressure after 8 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00219115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02386293",
+      "title": "Effectiveness of Avapro in the Treatment of Salt Sensitivity in Both Normotensive and Untreated Hypertensive Obese African Americans: A Randomized Double Blind Placebo Controlled Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-04",
+      "completion_date": "2019-11-30",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to test the hypothesis that hypertension increases the anti-natriuretic effects of an angiotensin receptor antagonist during mental stress in overweight/obese African-American's who retain sodium during mental stress.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* of good general health\n* not on any prescription medications\n* between the ages of 18 and 50\n* not pregnant\n\nExclusion Criteria:\n\n* not African-American\n* pregnant\n* taking medications that will affect my blood pressure",
+      "endpoints": [
+        "Urinary sodium excretion rate"
+      ],
+      "sponsor": "Augusta University",
+      "url": "https://clinicaltrials.gov/study/NCT02386293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01712113",
+      "title": "A Single Dose, 2-Period, 2-Treatment, 2-Way Crossover Bioequivalency Study of Irbesartan Tablets Under Fasting Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2007-08",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "The objective of this study was to prove the bioequivalence of Roxane Laboratories' Irbesartan 300 mg Tablets under fasted conditions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female subjects between the ages of 18 and 45 years (inclusive).\n2. Voluntary consent to participate in the study.\n3. Body Mass Index (BMI) between 18 and 30 (inclusive).\n4. Female subjects of childbearing potential - not surgically sterile or at least 2 years postme",
+      "endpoints": [
+        "bioequivalence determined by statistical comparison Cmax"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01712113"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01625494",
+      "title": "A Prospective Open-label Multicentre Study of Efficacy and Safety of Irbesartan/Amlodipine 4 Fixed Combination Therapy in Hypertensive Patients Uncontrolled on Irbesartan 150 mg or Amlodipine 5 mg Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2013-01",
+      "country": "Russia",
+      "enrollment": 158,
+      "brief_summary": "Primary Objective:\n\n\\- To assess the proportion of patients with controlled Office Blood Pressure Measurements (OBPM), defined as Systolic blood pressure \\< 140 mmHg and Diastolic blood pressure \\<90mmHg, at the end of the study\n\nSecondary Objectives:\n\n* To examine over time the antihypertensive effect of the 4 doses of the fixed combination therapy irbesartan/amlodipine on OBPM (SBP (systolic blood pressure) and DBP (diastolic blood pressure)\n* To examine the proportion of patients with control",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Men and women ≥18 years old\n* Established essential hypertension\n* Treated with irbesartan 150 mg or amlodipine 5 mg as monotherapy for at least 2 weeks\n* With uncontrolled systolic BP (blood pressure) defined as ≥140 mm Hg assessed by OBPM (office blood pressure measurements",
+      "endpoints": [
+        "Proportion of patients with controlled OBPM (SBP<140 mmHg and DBP<90 mmHg) at the end of the study"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01625494"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00529750",
+      "title": "Comparative Trial of the Effects of Irbesartan vs Atenolol on the Endothelial Function of Hypertensive Patients With Metabolic Syndrome",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2005-01",
+      "country": "N/A",
+      "enrollment": 108,
+      "brief_summary": "Primary:\n\n* To evaluate the impact of irbesartan on endothelial function in hypertensive patients with metabolic syndrome.\n\nSecondary:\n\n* To evaluate the oxidative stress status in patients with hypertension with metabolic syndrome.\n* To correlate the oxidative stress status with endothelial function in these patients.\n* To evaluate the effect of irbesartan on the oxidative stress stage in patients with metabolic syndrome and to correlate it with the effect on endothelial function .\n* To correla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertension grade 1 or 2\n* With at least two of the following criteria for the diagnosis of metabolic syndrome:\n\n  * Body mass index \\> or = 25 kg/m2 AND waist circumference \\> or = 100 cm.\n  * Dyslipidemia (triglycerides fasting serum levels \\> or = 200 mg/dL OR HDL serum le",
+      "endpoints": [
+        "Endothelial function in vivo qualification: brachial artery flow mediated vasodilation (FMV%) determined by high resolution ultrasound."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00529750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362258",
+      "title": "Irbesartan In Hypertensive Diabetic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2008-09",
+      "country": "Egypt",
+      "enrollment": 797,
+      "brief_summary": "* To evaluate Blood Pressure (BP) reduction to the targeted values (Systolic BP ≤ 130 mmHg and Diastolic BP ≤ 80 mmHg) in hypertensive type 2 diabetic patients.\n* To evaluate the benefit of Irbesartan in the reduction of microalbuminuria from baseline (if any at the inclusion visit) in this population.\n* To demonstrate the safety of Irbesartan in this population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Proven Hypertensive Type 2 Diabetic Patients with HbA1c \\> 6% and ≤ 10% (with or without microalbuminuria).\n* Newly diagnosed \"naïve\" hypertensive patients (no prior treatment for hypertension). OR,\n* Patients who were receiving antihypertensive agents (maximum two agents, inc",
+      "endpoints": [
+        "Reach blood pressure target in hypertensive diabetic patients i.e. 130/80 mmHg."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00362258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00263003",
+      "title": "A Randomized, Open Label Comparative Study of Irbesartan/Hydrochlorothiazide and Irbesartan in the Treatment of Mild to Moderate Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "",
+      "country": "Taiwan",
+      "enrollment": 40,
+      "brief_summary": "Study Objectives :\n\n* To demonstrate the reduction in office Blood Pressure following a 8-week regimen of irbesartan / hydrochlorothiazide using irbesartan as a reference.\n* To demonstrate the reduction in office Blood Pressure after 4-week regimen of irbesartan / hydrochlorothiazide using irbesartan as a reference.\n* To compare the response rate (defined as office Systolic Blood Pressure/Diastolic Blood Pressure reduce more than 10mmHg from Week 0) of patients after 4-week and 8-week regimen of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with mild to moderate hypertension with office Diastolic Blood Pressure (DBP) 90-109 mmHg and/or Systolic Blood Pressure (SBP) 140-179 mmHg\n* All women of child-bearing potential must have negative urine pregnancy tests within a week prior to initiation of therapy\n\nEx",
+      "endpoints": [
+        "Compare the reduction in office BP following a 8-week regimen of irbesartan / hydrochlorothiazide versus irbesartan"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00263003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01238705",
+      "title": "Effect of Combined Antihypertensive Therapy on Blood Pressure and Sexual Function in Patients With Essential Hypertension",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-04",
+      "completion_date": "2010-11",
+      "country": "China",
+      "enrollment": 280,
+      "brief_summary": "This randomized,active controlled study aimed to compare the effects on sexual function of treatment with combined antihypertensive drugs.\n\nThe researchers hypothesize that:\n\n1. Both felodipine-irbesartan combination and felodipine-metoprolol combination are effective in lowing blood pressure in patients with essential hypertension.\n2. Felodipine-metoprolol combination induces a worse sexual function and a reduction of sex hormone,whereas felodipine-irbesartan combination does not impair sexual ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with essential hypertension.\n* Initial hypertension, or without taking any antihypertensive for at least one month.\n* Sexual active.\n\nExclusion Criteria:\n\n* Patients with secondary hypertension.\n* Patients with malignant hypertension, coronary heart disease, diabetes,",
+      "endpoints": [
+        "Female Sexual Function Index (FSFI)",
+        "International Index of Erectile Function(IIEF)"
+      ],
+      "sponsor": "LanZhou University",
+      "url": "https://clinicaltrials.gov/study/NCT01238705"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00343551",
+      "title": "A Nine-week, Randomized, Double-blind, Parallel Group Study to Evaluate the Efficacy and Safety of Aliskiren 300 mg Compared to Irbesartan 300 mg and Ramipril 10 mg in the Setting of a Missed Dose in Patients With Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "",
+      "country": "Germany, Switzerland",
+      "enrollment": 654,
+      "brief_summary": "The purpose of this study is to investigate the efficacy (blood pressure lowering effect) and safety of aliskiren given to hypertensive patients after a missed dose.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients 18 years of age and older.\n* Patients must meet following blood pressure criteria:\n\nAt Visit 2 : Office Mean Sitting Diastolic Blood Pressure ≥ 90 mmHg and \\< 110 mmHg At Visit 3 : Office Mean Sitting Diastolic Blood Pressure ≥ 95 mmHg and \\< 110 mmHg before applic",
+      "endpoints": [
+        "Mean 24-hour ambulatory diastolic blood pressure (MADBP) change from baseline, after a missed dose, aliskiren 300 mg versus irbesartan 300mg.",
+        "from baseline.",
+        "Mean 24-hour ambulatory diastolic blood pressure (MADBP) change from baseline, after a missed dose, ramipril 10 mg versus irbesartan 300mg."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00343551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01613118",
+      "title": "Efficacy and Safety of Sparsentan (RE-021), a Dual Endothelin Receptor and Angiotensin Receptor Blocker, in Patients With Focal Segmental Glomerulosclerosis (FSGS): a Randomized, Double-Blind, Active-Control, Dose-Escalation Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2024-03-25",
+      "country": "Czechia, Italy, United States",
+      "enrollment": 109,
+      "brief_summary": "This study will investigate whether RE-021 (Sparsentan), a selective dual-acting receptor antagonist with affinity for endothelin (A type) and angiotensin II receptors (Type 1), is safe and effective in treating patients with focal segmental glomerulosclerosis (FSGS).",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Biopsy-proven FSGS OR documentation of a genetic mutation in a podocyte protein associated with the disease.\n2. Urine protein/creatinine ratio (Up/C) at or above 1.0 g/g.\n3. Estimated glomerular filtration rate (eGFR) \\>30.\n4. Mean seated blood pressure (BP) \\>100/60 mmHg and ",
+      "endpoints": [
+        "Percent Change in Urine Protein/Creatinine (Up/C)"
+      ],
+      "sponsor": "Travere Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01613118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01712126",
+      "title": "A Single Dose, 2-Period, 2-Treatment, 2-Way Crossover Bioequivalency Study of Irbesartan / Hydrochlorothiazide 300/25 mg Tablets Under Fed Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The objective of this study was to prove the bioequivalence of Roxane Laboratories' Irbesartan and Hydrochlorothiazide 300 mg / 25 mg Tablets under fed conditions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female subjects between the ages of 18 and 45 years (inclusive).\n2. Voluntary consent to participate in the study.\n3. Body Mass Index (BMI) between 18 and 30 (inclusive).\n4. Female subjects of childbearing potential - not surgically sterile or at least 2 years postme",
+      "endpoints": [
+        "bioequivalence determined by statistical comparison Cmax"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01712126"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01082835",
+      "title": "Jiangzhuo Qinggan Prescription and Irbesartan in the Treatment of Essential Hypertension(Hepatogastric Damp-heat), Randomized, Parallel-controlled, Multi-center Clinical Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2010-03",
+      "completion_date": "2010-08",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "Jangzhuo Qinggan prescription and irbesartan in the treatment of essential hypertension(Hepatogastric Damp-heat), randomized, parallel-controlled, multi-center clinical study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Consistent with diagnosed hypertension, blood pressure, for 1-2 grade.\n2. Aged 18-65 years old.\n3. Body mass index (BMI) ≥ 24kg/m2, but \\<35 kg/m2.\n4. Waist circumference ≥ 85cm (male) or waist circumference ≥ 80cm (women).\n5. Comply with any of the following 3 : triglyceride",
+      "endpoints": [],
+      "sponsor": "Guang'anmen Hospital of China Academy of Chinese Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01082835"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00517322",
+      "title": "Left Atrial Remodelling in Hypertension: Effects of Ramipril or Irbesartan",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-08",
+      "completion_date": "2010-08",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Aim of the study is to compare in hypertensive patients the effect of one year therapy with ACE-inhibitor (RAMIPRIL) or angiotensin II receptor blocker (IRBESARTAN) on left atrial remodelling and diastolic function.",
+      "eligibility_criteria": "Inclusion Criteria:·\n\n* mild to moderate essential hypertension\n* no antihypertensive treatment\n* good quality echocardiogram\n\nExclusion Criteria:\n\n* cardiovascular diseases (AMI, stroke o TIA)\n* heart failure, valvular heart disease\n* diabetes\n* secondary hypertension\n* atrial fibrillation\n* hepati",
+      "endpoints": [
+        "left atrial volume",
+        "diastolic function"
+      ],
+      "sponsor": "Università degli Studi dell'Insubria",
+      "url": "https://clinicaltrials.gov/study/NCT00517322"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00317915",
+      "title": "The Irbesartan in Patients With Type 2 Diabetes and Microalbuminuria (IRMA 2)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The aim of this multicenter, doubleblind, randomized study was to investigate the renoprotective effect of irbesartan treatment in patients with type 2 diabetes and microalbuminuria (a precursor of diabetic kidney disease). 590 patients were randomized to a median 24 months of treatment with 300 mg irbesartan once daily, 150 mg irbesartan once daily or placebo. Time to development of overt nephropathy, defined by persistent proteinuria, was the primary outcome measure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nType 2 diabetes. Hypertension. Persistent microalbuminuria. Serum creatinine concentration of no more than 1.5 mg per deciliter (133 µmol per liter) for men and no more than 1.1 mg per deciliter (97 µmol per liter) for women. -\n\nExclusion Criteria:\n\nNondiabetic kidney disease. C",
+      "endpoints": [
+        "Development of overt nephropathy"
+      ],
+      "sponsor": "Steno Diabetes Center Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT00317915"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01442987",
+      "title": "Efficacy and Safety of Coadministered Irbesartan and Atorvastatin in Patients With Hypertension and Hyperlipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2013-05",
+      "country": "South Korea",
+      "enrollment": 230,
+      "brief_summary": "The purpose of this study is to evaluate efficacy and safety of coadministered Irbesartan and Atorvastatin in patients with hypertension and hyperlipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 19 and 75 years\n* Signed informed consent\n\nExclusion Criteria:\n\n* At screening, SPB ≥ 180mmHg or DBP ≥ 110mmHg or LDL-C \\> 250mg/dL or TG ≥ 400mg/dL\n* Has a history of hypersensitivity to Angiotensin Ⅱ receptor blocker or HMG-CoA reductase inhibitor or component o",
+      "endpoints": [
+        "Percent change from baseline to 8 week in LDL-Cholesterol",
+        "Change from baseline to 8 week in Blood Pressure."
+      ],
+      "sponsor": "Hanmi Pharmaceutical Company Limited",
+      "url": "https://clinicaltrials.gov/study/NCT01442987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00847834",
+      "title": "Multi-center Open Label, Non-comparative Observational Study of Irbesartan-Hydrochlorothiazide in the Treatment of Hypertension in Chinese Population",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 968,
+      "brief_summary": "To analyse the control rate of irbesartan/hydrochlorothiazide(HCTZ) (COAPROVEL) in the treatment of patients with mild to moderate primary hypertension.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Systolic blood pressure \\< 180 mmHg\n* 90 mmHg ≤ Diastolic blood pressure \\< 110 mmHg\n\nExclusion criteria:\n\n* Pregnancy or lactation. Women of child bearing potential (not post-menopausal) should be using a reliable contraceptive method\n* Known or suspected secondary hypertensi",
+      "endpoints": [
+        "Proportion of patients who reach a diastolic blood pressure <85 mmHg"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00847834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02973035",
+      "title": "Effect of Add-on of Amlodipine Versus Valsartan on Diastolic Dysfunction Associated With Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-12",
+      "completion_date": "2020-01-06",
+      "country": "South Korea",
+      "enrollment": 104,
+      "brief_summary": "Hypertensive patients are at increased risk of developing LV hypertrophy and myocardial fibrosis, which cause diastolic dysfunction. Because the activation of rennin-angiotensin-aldosterone system (RAAS) has been shown to induce LV hypertrophy and myocardial fibrosis, the RAAS may play a central role in the pathogenic process from hypertension to diastolic HF. Inhibitors of RAAS have been considered as a treatment option for these patients, and the angiotensin receptor blockers (ARB) have been o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Controlled hypertension: systolic BP \\< 150 and diastolic BP \\< 90 mmHg in persons aged 60 years or older, systolic BP \\< 140 and diastolic BP \\< 90 mmHg in persons 40 through 59 years according to the JNC 8th guideline\n* Evidence of diastolic dysfunction showing E/E' \\> 10\n* ",
+      "endpoints": [
+        "Change in the ratio of E velocity (Early mitral inflow velocity) to E' velocity (Early mitral annular velocity)"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02973035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00264212",
+      "title": "A Multicentre Prospective Randomized Open-Label 12-Week Study With Blinded Evaluation Comparing the Efficacy and Safety of Irbesartan and Irbesartan-Hydrochlorothiazide Fixed Combination With Amlodipine and Amlodipine Plus Hydrochlorothiazide in Elderly Patients With Isolated Systolic Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "",
+      "country": "South Korea, Indonesia, Philippines, Chile, Mexico, Taiwan, China, Thailand",
+      "enrollment": 436,
+      "brief_summary": "To compare the antihypertensive efficacy and tolerability of irbesartan and irbesartan-hydrochlorothiazide fixed combination therapy with amlodipine and amlodipine plus hydrochlorothiazide in the treatment of isolated systolic hypertension.",
+      "eligibility_criteria": "Main criteria are listed hereafter:\n\nInclusion Criteria:\n\n* at Screening\n\n  * Outpatients\n  * With newly diagnosed and untreated OR previously diagnosed, treated and uncontrolled Isolated Systolic Hypertension defined as:\n\n    * seated Systolic Blood Pressure (SBP) ≥ 160mmHg and \\< 220 mmHg \\[160-22",
+      "endpoints": [
+        "Change from baseline in office seated SBP at week 12"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00264212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741585",
+      "title": "Prognostic Value of the Circadian Pattern of Ambulatory Blood Pressure for Multiple Risk Assessment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09-01",
+      "completion_date": "2018-06-30",
+      "country": "Spain",
+      "enrollment": 21983,
+      "brief_summary": "The HYGIA study was designed to investigate prospectively\n\n1. the prognostic value of ambulatory blood pressure (BP) monitoring among subjects primarily evaluated at primary care settings\n2. the impact of changes in ambulatory BP during follow-up in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n3. the influence of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n4. the prevalence of an altered",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects ≥18 years of age.\n* High-normal BP or essential hypertension.\n* Any subject with recommendation for evaluation with ABPM according to the 2007 European Guidelines.\n* Informed consent to participate in the study prior to any study procedures.\n\nExclusion ",
+      "endpoints": [
+        "To evaluate the impact of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk assessment."
+      ],
+      "sponsor": "University of Vigo",
+      "url": "https://clinicaltrials.gov/study/NCT00741585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06515678",
+      "title": "Impact of Antihypertensive Therapy on Recurrence Risk of Ovarian Cancer for Patients Treated With Bevacizumab Maintenance: A Target Trial Emulation",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2024-08-31",
+      "country": "France",
+      "enrollment": 9464,
+      "brief_summary": "Antiangiogenic therapies like bevacizumab, have notably improved cancer treatment, including for gynecological cancers, by inhibiting the vascular endothelial growth factor and thus limiting tumor growth. In treating advanced ovarian cancer, bevacizumab has been shown to extend progression-free survival by four months, though it also induces or worsens hypertension in 2 to 19% of patients by affecting vascular nitric oxide production or by capillary rarefaction. This hypertension may result in s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with newly ovarian cancer diagnosis (FIGO III to IV)\n* age over 18 years old at time of ovarian cancer diagnosis\n* diagnosed between January 1, 2011 and December 31, 2020\n* with debulking ovarian cancer surgery and adjuvant chemotherapy\n\nExclusion Criteria:\n\n* not in the",
+      "endpoints": [
+        "Progression-free survival for ovarian cancer"
+      ],
+      "sponsor": "Groupe Hospitalier Pitie-Salpetriere",
+      "url": "https://clinicaltrials.gov/study/NCT06515678"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00335673",
+      "title": "Irbesartan in Mild to Moderate Hypertensive Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2006-11",
+      "country": "Egypt",
+      "enrollment": 1630,
+      "brief_summary": "* To evaluate control rate of Blood Pressure ≤ 140/90 mm Hg in non-diabetic patients, and ≤ 130/80 mm Hg in diabetic patients.\n* To determine percentage of patients achieving blood pressure control according to their profile (naïve, switch, patient history, etc…) at the end of the trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with proved mild to moderate hypertension.\n* Newly diagnosed \"naïve\" hypertensive patients (no prior treatment for hypertension)OR\n* Patients who were receiving antihypertensive agents (maximum two - one of them is diuretic) and who in the investigator's opinion would",
+      "endpoints": [
+        "Reduction in blood pressure to target values according to ESC 2003 guidelines at the end of the study."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00335673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00987662",
+      "title": "Double Blind Study of Irbesartan vs. Amlodipine in Obese Hypertensive Subjects- The OBI Study",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2012-01",
+      "completion_date": "2014-01",
+      "country": "Greece",
+      "enrollment": 0,
+      "brief_summary": "Objective:\n\n1. To study the effectiveness of irbesartan 300mg and amlodipine 10 mg in 24h ambulatory blood pressure values in obese subjects\n2. To study the drug specific effect in arterial stiffness\n3. To study possible drug mechanisms in obesity (reduction of central adiposity and changing the ratio of leptin to adiponectin)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 60 years.\n2. All patients are going to give their informed consent to participate in the study.\n3. Stage I hypertension.\n4. BMI \\> 30.\n\nExclusion Criteria:\n\n1. Known oversensitiveness,\n2. Chronic renal disease (GFR \\< 50 ml/min) or ESRD,\n3. Heart or respira",
+      "endpoints": [
+        "Reduction of 24h BP and arterial stiffness in obese hypertensives"
+      ],
+      "sponsor": "Aristotle University Of Thessaloniki",
+      "url": "https://clinicaltrials.gov/study/NCT00987662"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02148991",
+      "title": "Observational Clinical Trial to Assess Irbesartan Alone or in Combination With Amlodipine and Carvedilol Effectiveness in Patients With Hypertension and Left Ventricular Dysfunction",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2017-01",
+      "country": "Greece",
+      "enrollment": 100,
+      "brief_summary": "Arterial hypertension causes adverse effects on the entire cardiovascular system, with effects centrally such as diastolic dysfunction and structural changes of the left ventricle and, peripherally such as endothelial dysfunction and increased thickness of the vessels.\n\nCo-existing diseases, such as diabetes mellitus, renal dysfunction, sleep apnea, etc. further aggravate the prognosis of these patients.\n\nIn addition the rate of patients aged \\> 65 years suffering from un-diagnosed or diagnosed ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Men and Women\n* Patients with hypertension\n* Patients with preserved left ventricular ejection fraction\n* Patients on monotherapy with irbesartan\n* Patients who have not achieved the therapeutic target regulating AP.\n\nExclusion Criteria:\n\n* Patients with syst",
+      "endpoints": [
+        "Blood pressure measurement"
+      ],
+      "sponsor": "Elpen Pharmaceutical Co. Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02148991"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03476616",
+      "title": "Hypertension thErapy With irBesartan Versus EpleRenone for Obese Patients: A Randomized Clinical Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-09-01",
+      "completion_date": "2025-06-30",
+      "country": "Greece",
+      "enrollment": 198,
+      "brief_summary": "Obesity is a complex metabolic state at which many pathophysiological pathways seem to interfere, like imbalance of autonomic nervous system, as well as renin-angiotensin-aldosterone system (RAAS) activation. Latest studies have shown that the increase of peripheral fat in obese patients, alongside with the increase of P-450 aromatase leads to hyper-aldosteronism, which results to increased sodium intake and rise of blood pressure. The present study aims to investigate the potential superiority ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 30-75 years of age\n2. Written consent\n3. Untreated or never-treated arterial hypertension with office systolic blood pressure of 140-180 mmHg and/or diastolic blood pressure of 90-120 mmHg, confirmed by 24-hour ambulatory blood pressure measurements of mean ambulatory systoli",
+      "endpoints": [
+        "Difference in change of ABPM from baseline, in the eplerenone arm versus the irbesartan arm as monotherapy at 8 weeks, as combined dual treatment with amlodipine at 16 weeks and as combined triple treatment with amlodipine and indapamide at 24 weeks."
+      ],
+      "sponsor": "Hippocration General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03476616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04954560",
+      "title": "Losartan and Eprosartan Induce a Similar Effect on Oral Fructose-induced Rise in Serum Uric Acid Concentration in Patients With Metabolic Syndrome",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-01-01",
+      "completion_date": "2010-01-01",
+      "country": "N/A",
+      "enrollment": 16,
+      "brief_summary": "Hyperuricemia is seen in about 20% of adults in the general population, Chronic hyperuricemia, frequently manifesting as the gout, is a well-known risk factor of joint damage but has been also linked to a variety of other pathologies mostly affecting the cardiovascular system. The close relation between high uric acid concentration and increased risk of cardiovascular disease has been reported for more than a century. Furthermore, many studies reported a strong association between hyperuricemia,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years old\n* Fulfillment of three or more of the AHA / NHLBI 2005 assessment criteria for the metabolic syndrome:\n* abdominal obesity (i.e. handling in women ≥88 cm) male ≥ 102 cm\n* concentration of triglycerides in the form ≥150 mg / dl\n* concentration of HDL fraction (",
+      "endpoints": [
+        "serum uric acid after losartan",
+        "serum uric acid after eprosartan",
+        "urine uric acid after losartan"
+      ],
+      "sponsor": "Medical University of Lodz",
+      "url": "https://clinicaltrials.gov/study/NCT04954560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00660309",
+      "title": "An Open-label, Randomized, Parallel-group Study to Evaluate the Acute and Steady-state Renal Hemodynamic Responses to Aliskiren in Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "The study objective was to assess the effect of single and multiple doses of aliskiren on renal plasma flow, glomerular filtration rate and to compare the effects of single and multiple doses of aliskiren versus captopril or irbesartan on renal blood flow, glomerular filtration rate, and retinal blood flow in patients with type 2 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertensive, male and females of non-child bearing potential patients, with type 2 diabetes mellitus (T2DM) (diagnosed at least 8 weeks before Screening), with or without renal impairment; estimated glomerular filtration rate (eGFR) ≥ 40 mL/min/1.73 m\\^2, documented at least ",
+      "endpoints": [
+        "Change From Baseline in Renal Plasma Flow (RPF) After a Single Dose of Aliskiren or Irbesartan",
+        "Change From Baseline to Steady State Trough in Renal Plasma Flow (RPF) After Aliskiren or Irbesartan",
+        "Change From Baseline to Steady State Peak in Renal Plasma Flow (RPF) After Aliskiren or Irbesartan"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00660309"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05475665",
+      "title": "A Randomized, Double-blind, Multicenter, Placebo-control, Parallel Group Phase # Study to Evaluate the Efficacy and Safety of Irbesartan and Amlodipine Combined Therapy in Essential Hypertension Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-07-14",
+      "completion_date": "2023-06-13",
+      "country": "South Korea",
+      "enrollment": 157,
+      "brief_summary": "The purpose of this study is to evaluate efficacy and safety of Irbesartan and Amlodipine combined therapy in patients with essential hypertension inadequately controlled on Irbesartan monotherapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are 19 years or older on screening\n* Signed informed consent\n* Patients with Essential Hypertension\n* Other inclusion applied\n\nExclusion Criteria:\n\n* Orthostatic hypotension with symptom\n* Other exclusion applied",
+      "endpoints": [
+        "Change from baseline in mean sitting systolic blood pressure (mmHg)"
+      ],
+      "sponsor": "Handok Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05475665"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01500590",
+      "title": "Phase IV, Effect of Rennin-Angiotensin System Blockers on Glomerular Filtration Rate in Patients With Hypertension, Type 2 Diabetes With Normoalbuminuria--- A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-11",
+      "completion_date": "2019-08",
+      "country": "China",
+      "enrollment": 1400,
+      "brief_summary": "Diabetes is the leading cause of chronic kidney disease in developed countries. About 30-40% of patients with type 1 and type 2 diabetes mellitus will develop diabetic nephropathy. Microalbuminuria is often used as an early predictor of diabetic nephropathy. Many studies already demonstrated the renoprotective effect of Renin-angiotensin-system (RAS) blockers in patients with varying degree of albuminuria, few studies focus on studying the decline in glomerular filtration rate (GFR) among patien",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Age \\>=35 - 80 years old who is capable to give consent\n2. Chinese\n3. Either (i) Type 2 diabetes mellitus (DM) diagnosed according to ADA guideline or (ii) Hypertension defined as systolic blood pressure \\>140 or diastolic \\>90 mmHg or taking anti-hypertensive medication to a",
+      "endpoints": [
+        "change of estimated GFR calculated by MDRD equation and onset of microalbuminuria"
+      ],
+      "sponsor": "Hospital Authority, Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01500590"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00549133",
+      "title": "Irbesartan Effects on Endothelial Dysfunction in Hypertensive Type II Diabetic Patients Comparing Atenolol",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "2005-04",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 44,
+      "brief_summary": "To show that Irbesartan improves endothelial dysfunction and the procoagulant state which are thought to be the possible mechanisms, inducing a generalized vasculopathy associated with microalbuminuria and vascular events in type II diabetic hypertensive patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* non insulin dependent type II manifest diabetes with glycosilated HbA1c levels over %6.5-8\n* mild to moderate hypertension stage I and stage II according to ESC-ESH 2003 (140-180 mmHg)\n\nExclusion Criteria:\n\n* congestive heart failure\n* azotemia\n* insulin dependent diabetes\n* l",
+      "endpoints": [
+        "Evaluation of the effect of irbesartan on nitric oxide (NO), which has key role in the endothelial dysfunction and the development of pressure vasomotor response, compared to standard therapy (atenolol)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00549133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00956644",
+      "title": "Efficacy and Safety of Irbesartan/Amlodipine Fixed Combination Therapy Compared With Amlodipine Monotherapy in Hypertensive Patients Uncontrolled on Amlodipine 5 mg Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2010-08",
+      "country": "Lebanon, Brazil, Egypt, Chile, Mexico, Tunisia, Venezuela, Colombia, Morocco",
+      "enrollment": 406,
+      "brief_summary": "Primary Objective:\n\n* To demonstrate that the antihypertensive efficacy of the fixed combination irbesartan/amlodipine 150/5 mg is superior to that of amlodipine 5 mg monotherapy in lowering systolic blood pressure (SBP) as measured by home blood pressure measurement (HBPM) after 5 weeks of treatment (W5)\n\nSecondary Objective:\n\n* To compare the antihypertensive efficacy of the fixed combination irbesartan/amlodipine 150/5 mg with that of amlodipine 5 mg monotherapy after 5 weeks of treatment (W5",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Established essential hypertension\n* Treated with amlodipine 5 mg monotherapy for at least 4 weeks\n* With uncontrolled BP defined as mean SBP = or \\> 145 mmHg assessed by OBPM\n* Signed written inform consent obtained prior to inclusion in the study\n\nRandomisation Criteria:\n\n* ",
+      "endpoints": [
+        "Mean home systolic blood pressure"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00956644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00535925",
+      "title": "Nephropathy in Type 2 Diabetes: Effects of an Intensive Multifactorial Intervention Trial on Cardio-renal Events.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2019-05",
+      "country": "Italy",
+      "enrollment": 850,
+      "brief_summary": "The NID-2 study, a multicentric study (21 centres enrolled), was planned in two phases:\n\nPhase 1(observational study, completed in September 2005): after the identification of a type-2 diabetic population with typical Diabetic Nephropathy (DN), to study of the rate of renal and cardiovascular events during a middle term follow-up.\n\nPhase 2(interventional study, started in October 2005): after randomization in two groups, a group (intervention group) is treated with an intensive multifactorial in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* type 2 diabetic patients\n* albumin extraction rate (AER= \\>30 mg/die (micro- or macro-albuminuric ranges) in at least two determinations in the last six months\n* diabetic retinopathy\n* patients followed in the outpatients clinic for at least 12 months\n\nExclusion Criteria:\n\n* t",
+      "endpoints": [
+        "\"Number of Participants With Overall Fatal and Non-fatal, Major Adverse Cardiovascular Events (MACEs)\""
+      ],
+      "sponsor": "University of Campania Luigi Vanvitelli",
+      "url": "https://clinicaltrials.gov/study/NCT00535925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04061824",
+      "title": "Open-label, Randomized, Single Center, Paralleled Clinical Study to Evaluate Adherence Improvement Fixed-dose Combination of Olostar Tab. in Patients With Hypertension and Dyslipidemia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-05-24",
+      "completion_date": "2018-12-20",
+      "country": "South Korea",
+      "enrollment": 150,
+      "brief_summary": "Hypertension and dyslipidemia are very prevalent diseases in general population, and the prevalence is keep increasing especially on population with advanced age. Both diseases are major risk factor of cardiovascular disease, and many complication could be induced if not managed properly. Also, these diseases need consistent medication for long time, so the compliance to the treatment is an important issue for these diseases.\n\nTreatment effect of olmesartan to hypertension and rosuvastatin to dy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients between 20 to 80 years old\n2. Patients with at least one condition below\n\n   * Systolic blood pressure is 140mmHg or higher, or diastolic pressure is 90mmHg or higher, and 2 or more cardiovascular risk factor, and low-density lipoprotein cholesterol i",
+      "endpoints": [
+        "Compliance of prescribed medication - By using the number of prescribed pills and remained pills, the percentage of admitted drugs were calculated"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT04061824"
+    }
+  ],
+  "timestamp": "2026-03-04T15:35:15.186641",
+  "success": true,
+  "error_message": null
+}

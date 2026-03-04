@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tolnaftate",
+    "disease": "dermatophytosis of groin and perianal area",
+    "query_string": "Tolnaftate AND dermatophytosis of groin and perianal area"
+  },
+  "data": {
+    "query": "Tolnaftate AND dermatophytosis of groin and perianal area",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:48:12.424548",
+  "success": true,
+  "error_message": null
+}

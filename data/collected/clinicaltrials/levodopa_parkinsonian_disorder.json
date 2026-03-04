@@ -1,0 +1,933 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Levodopa",
+    "disease": "parkinsonian disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03881371",
+      "title": "A Randomised, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Safinamide, as add-on Therapy, in Idiopathic Chinese Parkinson's Disease (PD) Patients With Motor Fluctuations Treated With Stable Doses of Levodopa",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-08-01",
+      "completion_date": "2021-08-20",
+      "country": "China",
+      "enrollment": 307,
+      "brief_summary": "This is a Phase III, multicentre, randomised, double-blind, placebo-controlled study to evaluate the effects of 100 mg safinamide, administered orally once daily (OD), in Chinese Parkinson's disease (PD) patients, experiencing motor fluctuations while on stable doses of Levodopa (L-dopa) (alone or in combination with other anti-Parkinson drugs). Eligible patients are required to meet the United Kingdom PD Society Brain Bank Clinical Diagnostic Criteria. The study involves a placebo group. Placeb",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients aged ≥18 years old.\n2. Chinese ethnicity.\n3. Able to understand and willing to provide written informed consent.\n4. Able to maintain an accurate and complete 24-hour diary with the help of a caregiver.\n5. Diagnosis of idiopathic Parkinson's Disease (IP",
+      "endpoints": [
+        "Change From Baseline to Week 16 in the Mean Total Daily \"OFF\" Time"
+      ],
+      "sponsor": "Zambon SpA",
+      "url": "https://clinicaltrials.gov/study/NCT03881371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02240030",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Investigating the Efficacy and Safety of CVT 301 (Levodopa Inhalation Powder) in Parkinson's Disease Patients With Motor Response Fluctuations (OFF Phenomena) (SPAN-PD™)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2016-12",
+      "country": "Spain, Czechia, Poland, Canada, United States",
+      "enrollment": 351,
+      "brief_summary": "This randomized, multicenter, placebo-controlled, double-blind study will evaluate the efficacy and safety of inhaled CVT 301 compared with placebo in PD patients experiencing motor response fluctuations (OFF phenomena) as an outpatient (i.e., at home) and in the clinic.\n\nPatients who successfully complete this study will be eligible to enroll into a 12 month treatment extension (CVT-301-004E) study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Idiopathic Parkinson's Disease (PD) diagnosed between the ages of 30 and 85 years;\n* Hoehn and Yahr Stage 1-3 in an \"on\" state;\n* Require levodopa-containing medication regimen at least 3 times during the waking day;\n* Experience motor fluctuations with a minimum of 2 hours of",
+      "endpoints": [
+        "Unified Parkinson's Disease Rating Scale (UPDRS) Part III"
+      ],
+      "sponsor": "Acorda Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT02240030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00206687",
+      "title": "Study of the Safety, Tolerability and Efficacy of Spheramine Implanted Bilaterally Into the Postcommissural Putamen of Patients With Advanced Parkinson's Disease",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2003-01-08",
+      "completion_date": "2012-05-14",
+      "country": "Germany, Spain, United States",
+      "enrollment": 71,
+      "brief_summary": "The purpose of the study is to explore the safety, tolerability and efficacy of Spheramine (cultured human retinal pigment epithelial cells on microcarriers) in Parkinson's Disease patients with advanced disease who have insufficient symptom control by optimum oral medication. Patients are randomized to receive Spheramine injections into both hemispheres or a sham surgical procedure in a ratio of 1:1. A three month pretreatment period must be completed prior to surgery. Time to endpoint is 24 mo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced Parkinson's disease for at least 5 years\n* Good response to L-dopa\n* Age 30 to 70 years\n* Optimum oral therapy\n\nExclusion Criteria:\n\n* Tremor only\n* Dementia\n* Very severe dyskinesia\n* Previous brain surgery including deep brain stimulation\n* Malignant disease",
+      "endpoints": [
+        "Change in UPDRS part III (Motor Score) in the defined medication at 12 months post surgery"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00206687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05251701",
+      "title": "Personal KinetiGraph® Clinical Validation Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-12-09",
+      "completion_date": "2025-09-03",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "The purpose of this study is to clinically validate new measures of the Personal KinetiGraph® (PKG®).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able and willing to sign a written informed consent for study participation\n* Existing diagnosis of a movement disorder or a healthy control subject without diagnosis of a movement disorder\n\nExclusion Criteria:\n\n* Bedridden, wheelchair confined, or requires the regular use of ",
+      "endpoints": [
+        "Evaluation of new PKG assessments to be clinically validated for Gait/walking using movement data collected from the PKG Watch",
+        "Evaluation of new PKG assessments to be clinically validated for Device Assisted Therapy readiness using movement data collected from the PKG Watch",
+        "Evaluation of new PKG assessments to be clinically validated for Percent Time Bradykinesia using movement data collected from the PKG Watch (PTB)"
+      ],
+      "sponsor": "Global Kinetics Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05251701"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03648671",
+      "title": "Spontaneous and Evoked Pain in Parkinson's Disease With Motor Fluctuations: an Observational, Prospective, Clinical and Neurophysiological Study in Patients Under L-dopa Add on Therapies.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-03-28",
+      "completion_date": "2019-11-30",
+      "country": "Italy",
+      "enrollment": 48,
+      "brief_summary": "Pain (spontaneous pain) is a fundamental non-motor symptom (NMS) of Parkinson's disease (PD) that is prevalent throughout the condition and often unrecognized and undertreated. The study of the scalp laser-evoked potentials (LEPs) (evoked pain) allows a non-invasive exploration of pain central pathways in humans. This technique proved useful in elucidating the physiopathology underlying different pain syndromes. This study has been conceived to study spontaneous pain (and/or evoked pain by laser",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PD patients with or without pain willing to participate in this study and able to sign the written informed consent\n* To be included in the PD with pain group, the patient's intensity of pain must be moderate to severe over the last month, as reported by a numerical rating sco",
+      "endpoints": [
+        "Latency (ms) of N1/P1 complex.",
+        "Latency (ms) of N2/P2 complex.",
+        "Amplitude (microvolt) of N1/P1 complex."
+      ],
+      "sponsor": "Universita di Verona",
+      "url": "https://clinicaltrials.gov/study/NCT03648671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00562198",
+      "title": "Effects of Single Doses of Stalevo 200 and Levodopa/Carbidopa 200/50mg on Striatal 11C-Raclopride Binding Potential in Parkinson's Disease Patients With Wearing-Off Symptoms;an Open, Randomised, Active-Controlled,Two-Period Crossover Study.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-01",
+      "completion_date": "2008-05",
+      "country": "Finland",
+      "enrollment": 16,
+      "brief_summary": "This is an open, randomised, active-controlled, 2-period crossover study comparing the effect of single doses of Stalevo 200 and Sinemet on striatal (putamenal and caudate) 11C-raclopride BP in PD patients with wearing-off symptoms. The study consists of 4 visits: a screening visit (visit 1), 2 treatment periods (period 1=visit 2, period 2=visit 3) separated by a minimum wash-out period of at least 3 days, and an end-of-study visit (visit 4). Subjects will be randomly allocated to start the peri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients with idiopathic Parkinson's disease according to the UK Brain Bank criteria.\n2. Predictable wearing-off symptoms with a response to standard release levodopa/carbidopa (200/50 mg)during the levodopa challenge test lasting for a minimum of 1.5 h and a m",
+      "endpoints": [
+        "The difference between the study drugs in change in striatal 11C-raclopride BP.Striatal 11C-raclopride BP will be determined with PET scans performed at baseline and from 2.5 to 3.5 h after the study drug administration."
+      ],
+      "sponsor": "Orion Corporation, Orion Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00562198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00466167",
+      "title": "A Double-blind, Double-dummy, Placebo-controlled, Randomized, Three Parallel Groups Study Comparing the Efficacy, Safety and Tolerability of Pramipexole Extended Release (ER) Versus Placebo and Versus Pramipexole Immediate Release (IR) Administered Orally Over a 26-week Maintenance Phase in L-Dopa+ Treated Patients With Advanced Parkinsons Disease (PD).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "",
+      "country": "South Korea, Spain, Philippines, Sweden, Czechia, India, Russia, Italy, Austria, Hungary, Slovakia, Ukraine, United Kingdom, Poland",
+      "enrollment": 517,
+      "brief_summary": "The general aim of this trial is to determine the efficacy (as measured by the change from baseline to the end of the maintenance phase in the total score for Unified Parkinsons Disease Rating Scale Parts II and III combined), safety, and tolerability of pramipexole ER, in daily doses from 0.375 milligram to 4.5 milligram once a day, in comparison to placebo, in Levodopa combined with a Dopa-Decarboxylase-inhibitor treated Parkinson patients with advanced Parkinsons Disease and motor fluctuation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patient with advanced idiopathic Parkinsons disease confirmed by at least two of the following signs: resting tremor, bradykinesia, rigidity.\n2. Parkinsons disease diagnosed for at least 2 years.\n3. Patients 30 years of age or older at the time of diagnosis.\n4.",
+      "endpoints": [
+        "Change From Baseline in Unified Parkinson's Disease Rating Scale (UPDRS) Parts II+III Score at Week 18"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00466167"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001928",
+      "title": "Intravenous Levodopa in Parkinsonism",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1999-03",
+      "completion_date": "2000-07",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "Patients with Parkinson's disease have low levels of the neurotransmitter dopamine. Dopamine is responsible for motor function and normal physical activity. Patients with Parkinson's disease typically suffer from tremors, rigid muscles, stooped postures, and walk with a shuffle. The drug levodopa acts as a replacement for dopamine and has been has been used effectively for over 30 years as treatment for Parkinsons disease. Because of its effectiveness, levodopa has been used to distinguish Parki",
+      "eligibility_criteria": "All patients will have parkinsonism of undetermined etiology.\n\nMales and females between the ages of 18 and 85 are eligible for the study.\n\nNo presence or history of any medical condition that can reasonably be expected to subject the patient to unwarranted risks, specifically those who have the fol",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001928"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02815800",
+      "title": "Efficacy of Ethnodyne Visio in Parkinson's Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-09-02",
+      "completion_date": "2018-03-12",
+      "country": "France",
+      "enrollment": 24,
+      "brief_summary": "ETHNODYNE VISIO is a food supplement composed of an innovative plant-based active ingredient acting alongside vitamin B2. It is proposed in patients with visual problems. Based on clinical and experimental data, the investigators propose a pilot open study in order to test the efficacy of \"Ethnodyne visio\" in patients with Parkinson 's disease (PD). The hypothesis is that Ethnodyne visio may improve motor and non motor signs of PD. 24 patients with PD will be evaluated before and after 3 months ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Parkinson disease (PD) with at least 3 years of evolution\n* Hoehn and Yahr score 2 or 3\n* with moderate fluctuations (score 1 or 2 for item 3 score IV MSD UPDRS)\n* with no modification in anti-parkinsonian drugs since at least 1 month\n* minimental test \\>24\n\nExcl",
+      "endpoints": [
+        "Change in MDS UPDRS III score"
+      ],
+      "sponsor": "University Hospital, Strasbourg, France",
+      "url": "https://clinicaltrials.gov/study/NCT02815800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07267065",
+      "title": "An Open-label Safety and Efficacy Study of AAV2-hAADC Administered by MRI-Guided Convective Infusion Using a Transfrontal Trajectory Into the Putamen and Caudate of Participants With Young Onset Parkinson's Disease",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2028-12-01",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This study is looking at whether a gene therapy called AAV2-hAADC is safe and may help people with Parkinson's Disease.\n\nAAV2-hAADC is intended to increase the levels of dopamine in your brain. It contains a virus called adeno-associated virus 2 (AAV2) that has been modified to carry the genetic code for an enzyme called Aromatic L-Amino Acid Decarboxylase, or AADC for short.\n\nIn this study, AAV2-hAADC is delivered to two parts of the brain called the putamen and the caudate. Increasing the amou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female adults 18-75 years of age (inclusive), at the time of signing the informed consent.\n2. Diagnosed with idiopathic Parkinson's Disease as defined by the following:\n\n   a. Presence of bradykinesia PLUS any of the following: i. Rigidity ii. Resting tremor iii. Pos",
+      "endpoints": [
+        "Adverse Events",
+        "MRI findings",
+        "Physical Exam and labs"
+      ],
+      "sponsor": "Ohio State University",
+      "url": "https://clinicaltrials.gov/study/NCT07267065"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02912871",
+      "title": "A Pilot Clinical Trial of the Feasibility, Safety and Efficacy of Subthalamotomy Using the ExAblate Transcranial System to Treat the Cardinal Motor Features of Parkinson's Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-04",
+      "completion_date": "2017-01",
+      "country": "N/A",
+      "enrollment": 10,
+      "brief_summary": "Based on published animal and human studies, ExAblate Transcranial subthalamotomy can be as safe and as effective as any of the surgical treatments within the currently accepted standard of care including radiofrequency lesioning and Deep Brain Stimulation (DBS). A unilateral lesion of the subthalamic nucleus has shown reduction of contralateral motor symptoms in Parkinson's disease (PD). Using ExAblate Transcranial Magnetic Resonance guided High Intensity Focused Ultrasound (MRgHIFU) to create ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women, age 30 years and older\n2. Subjects who are able and willing to give informed consent and able to attend all study visits through 6 Months\n3. Subjects with a diagnosis of PD by United Kingdom Brain Bank Criteria as confirmed by a movement disorder neurologist at",
+      "endpoints": [
+        "All causes of morbidity",
+        "Efficacy"
+      ],
+      "sponsor": "Fundación de investigación HM",
+      "url": "https://clinicaltrials.gov/study/NCT02912871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02657681",
+      "title": "Prevention of Levodopa-induced Dyskinesias by Transcranial Static Magnetic Field Stimulation (tSMS)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2018-09",
+      "country": "Spain",
+      "enrollment": 50,
+      "brief_summary": "This is a randomized sham-controlled double-blind study to test the hypothesis that transcranial static magnetic field stimulation (tSMS) of the motor cortex improves levodopa-induced dyskinesias in patients with Parkinson's disease. Half of the patients will receive real tSMS treatment, the other half will receive sham treatment (placebo).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* advanced idiopathic Parkinson's disease (Brain Bank criteria)\n* optimal clinical response to dopaminergic medication (\\>30% UPDRS-III improvement)\n* presence of clinically relevant levodopa-induced peak-dose dyskinesias in at least one upper limb\n\nExclusion Criteria:\n\n* MRI-in",
+      "endpoints": [
+        "Change from baseline of the maximal dyskinesia severity within 90min after levodopa intake, as measured by objective evaluation with the Unified Dyskinesia Rating Scale (UDysRS) one day after the end of treatment."
+      ],
+      "sponsor": "Fundación de investigación HM",
+      "url": "https://clinicaltrials.gov/study/NCT02657681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00368108",
+      "title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study of the Efficacy, Safety, and Tolerability of E2007 in Levodopa Treated Parkinson's Disease Patients With Motor Fluctuations",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2008-01",
+      "country": "Canada, United States",
+      "enrollment": 752,
+      "brief_summary": "This is a multi-center, randomized, double-blind, placebo-controlled, parallel-group study of E2007 in levodopa treated Parkinson's disease patients with motor fluctuations.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. Male or female patients with idiopathic Parkinson's Disease fulfilling the United Kingdom (UK) Parkinson's disease Society Brain Bank diagnostic criteria 7, with a good response to levodopa.\n2. Patients must have been diagnosed with idiopathic PD at \\> 30 years of age.\n3. Pat",
+      "endpoints": [
+        "Mean Change From Baseline in Total Daily OFF Time (Hours) to Week 20 (Including Last Observation Carried Forward [LOCF] Data)"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00368108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05271513",
+      "title": "The Use of Non-invasive Trans-spinal Magnetic Stimulation to Enhance the Efficacy of Trans-cranial Magnetic Stimulation in Advanced PD With Axial Motor Symptoms: Double Blinded Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-01",
+      "completion_date": "2023-07-01",
+      "country": "Egypt",
+      "enrollment": 38,
+      "brief_summary": "The purpose of this randomized trial was to evaluate the efficacy of repeated sessions of trans-spinal magnetic stimulation on gait abnormality, and posture abnormalities in patients with idiopathic Parkinson's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men or women of at least 40-80 years of age.\n2. Are reliable and willing to make themselves available for the duration of the study and are willing to follow up.\n3. Medically stable outpatients with a confirmed diagnosis of idiopathic PD according to United Kingdom Brain Bank",
+      "endpoints": [
+        "Score on Freezing of gait Questionnaire",
+        "Time taken for Primed up-and-go",
+        "Time taken for 10m walk"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05271513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00869791",
+      "title": "A Study to Compare Pharmacokinetics and Pharmacodynamics of IPX066 to Standard Carbidopa-Levodopa",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "This study evaluated the pharmacokinetics, motor effects, and assessed the safety of IPX066 compared with an immediate-release cabridopa-levodopa formulation in subjects with advanced Parkinson's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female diagnosed with idiopathic PD, without any known cause for Parkinsonism.\n2. If female and of childbearing potential, subject should be abstinent or continuing to practice and willing to continue throughout the study with appropriate contraceptives (defined as No",
+      "endpoints": [
+        "Pharmacokinetics Measurements to Determine Cmax for Carbidopa (CD) and Levodopa (LD) Plasma Concentrations From Samples Collected Pre-dose and at Different Time Points on Day 1 and Day 8 of Periods 1 and 2 of Both Treatment Arms.",
+        "Pharmacokinetics Measurements to Determine Tmax for Levodopa and Carbidopa Plasma Concentrations From Samples Collected Pre-dose and at Different Time Points on Day 1 and Day 8 of Periods 1 and 2 of Both Treatment Arms.",
+        "Pharmacokinetics Measurements to Determine Area Under the Concentration-time Curve for the Dosing Interval for LD and CD Concentrations From Blood Collected Pre-dose and at Different Time Points on Day 1 and Day 8 of Periods 1 and 2 of Treatment Arms."
+      ],
+      "sponsor": "Impax Laboratories, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00869791"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02785510",
+      "title": "Determining Clinical Profile of Parkinson's Disease Among Egyptian Population",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2017-08-01",
+      "completion_date": "2018-12-31",
+      "country": "Egypt",
+      "enrollment": 500,
+      "brief_summary": "Parkinson's disease is the second most common neurodegenerative disease affecting about 1-3% of population above 60 years. Recently, non-motor symptoms are getting more attention in PD management. The pattern of PD onset and clinical course differ from one population to another. Many studies have been conducted to determine the clinical profile of PD in populations worldwide. However, no similar studies have been conducted in Egypt. Therefore, the investigators will conduct a nation-wide, collab",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who meet the Parkinson's disease criteria of United Kingdom Brain Bank within the study centres.\n\nExclusion Criteria:\n\n* Patients with vascular Parkinsonism (history of stroke)\n* Patients with treatment induced Parkinsonism\n* Patients with history of dopaminergic neur",
+      "endpoints": [
+        "Age at disease onset",
+        "Time to diagnosis",
+        "Initial motor symptom"
+      ],
+      "sponsor": "Zagazig University",
+      "url": "https://clinicaltrials.gov/study/NCT02785510"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00139880",
+      "title": "A Single Center, Randomized, Double-blind, Crossover Pilot Trial Comparing the Onset of Action of Parcopa™ With Sinemet® in Subjects With Stable Parkinson's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2005-08",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To test whether Parcopa, a new Orally Disintegrating Tablet of Carbidopa-Levodopa, has a faster onset of action, changes in the UPDRS Motor Exam score at intervals after a single dose of Parcopa or Sinemet are being compared in 10 subjects with Parkinson's disease. Subjects 40 years or older having idiopathic PD with Hoehn and Yahr state II or III are eligible if taking a stable dose of \\< 200 mg carbidopa and \\< 2000 mg levodopa daily. At both treatment visits, either Parcopa or Sinemet, plus a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable Parkinson's disease\n\nExclusion Criteria:\n\n* idiopathic PD with Hoehn and Yahr state II or III",
+      "endpoints": [],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00139880"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06570824",
+      "title": "Network Based Repetitive Transcranial Magnetic Stimulation (rTMS) as an Intervention for Levodopa-induced Dyskinesia (LID) in Parkinson's Disease (PD)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-07-22",
+      "completion_date": "2027-05-01",
+      "country": "Denmark",
+      "enrollment": 68,
+      "brief_summary": "The proposed study investigates the use of repetitive transcranial magnetic stimulation (rTMS) as a treatment for levodopa-induced dyskinesia (LID) in Parkinson's Disease (PD). Specifically, the study aims to determine whether patterned stimulation of the pre-supplementary motor area (pre-SMA) can delay the onset of LID after levodopa intake and reduce LID severity in PD patients. This study will provide critical insights into potential targets for rTMS treatment, optimal rTMS parameters, and th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically established or probable PD\n* Clinical Diagnostic Criteria for Parkinson's Disease\n* Peak-of-dose levodopa-induced dyskinesia.\n* Stable antiparkinsonian medicine for at least four weeks.\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Psychiatric disorders.\n* Usag",
+      "endpoints": [
+        "Unified Dyskinesia Rating Scale (UDysRS)",
+        "Dyskinesia onset time"
+      ],
+      "sponsor": "Danish Research Centre for Magnetic Resonance",
+      "url": "https://clinicaltrials.gov/study/NCT06570824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00629161",
+      "title": "Clinical Trial on the Effectiveness of Traditional Chinese Medicinal Mixture in Parkinson Disease",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2008-11",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 144,
+      "brief_summary": "This study was designed to evaluate the symptomatic effects or potential disease progression slowing down effect of a kind of Traditional Chinese Medicinal Mixture in Parkinson's disease (PD) patients. The treatment phase includes 12 months period of Traditional Chinese Medicinal Mixture per day or placebo and 1 month wash-out period without herbal medicine and placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Parkinson's disease according to the UK Brain Bank criteria\n* Hoehn \\& Yahr stadium Ⅰ～Ⅲ\n* Age over 50 years\n* Taking only levodopa and/or dopamine agonists when recruiting\n* Consistent with the liver kidney deficiency type by Traditional Chinese Medicine (TCM) standard\n* Patie",
+      "endpoints": [
+        "Unified Parkinson's Disease Rating Scale (UPDRS)"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT00629161"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02601586",
+      "title": "Evaluation of the Analgesic Effects of Prolonged-release Oxycodone and of Levodopa, Versus Placebo, on Central Neuropathic Pain in Parkinson's Disease: OXYDOPA Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2020-11",
+      "country": "France",
+      "enrollment": 67,
+      "brief_summary": "This study will be conducted in three parallel groups receiving oxycodone, levodopa or placebo, administered as an add-on therapy, in addition to the usual antiparkinsonian treatment. As this study focuses on chronic central neuropathic pain caused by PD, the effects of study treatments will be evaluated after a 10-week treatment period",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Parkinson's disease according to the UKPDSBB (United Kingdom Parkinson's Disease Society Brain Bank) criteria\n* Patients suffering from chronic pain (lasting for more than 3 months)\n* Patients suffering from central neuropathic pain caused by PD,\n* Patients with ",
+      "endpoints": [
+        "Average pain intensity"
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "url": "https://clinicaltrials.gov/study/NCT02601586"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01016470",
+      "title": "Efficacy of Nutritional Supplement VIUSID/ALZER in Patients With Parkinson's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-05",
+      "country": "Cuba",
+      "enrollment": 100,
+      "brief_summary": "The purpose of the study is to evaluate whether Viusid/Alzer Nutritional supplements, could improve the progression disease, in patients with Parkinson's Disease (PD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with clinical of PD, with the criteria of Brain Bank of London with early stage.\n* Informed consent.\n\nExclusion Criteria:\n\n* Presence of another disease not well controlled.\n* Patient with atypical features.\n* Patient with advanced Parkinson's disease.",
+      "endpoints": [
+        "Periodical measures of the clinical features with Unified Parkinson Disease Rating Scale (UPDRS) will be done at the beginning, every three months until one year (end of the treatment)"
+      ],
+      "sponsor": "Catalysis SL",
+      "url": "https://clinicaltrials.gov/study/NCT01016470"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07322458",
+      "title": "The Effect of Spinal Cord Stimulation on Orthostatic Hypotension in Parkinsonism and Its Related Mechanisms",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-01",
+      "completion_date": "2028-06-30",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Parkinson's disease (PDS) is a syndrome characterized by tremor, bradykinesia, rigidity, and postural disturbances. Causes include Parkinson's disease (PD), multiple system atrophy (MSA), progressive supranuclear palsy (PSP), and corticobasal degeneration (CBD). Non-motor symptoms of PDS, such as neurogenic orthostatic hypotension (nOH), have received more intensive research due to their greater disabling potential compared to motor symptoms. In patients with PD and MSA, nOH can lead to intolera",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Aged between 40 and 80 years;\n* 2\\. No dementia as measured by the cMMSE scale (formal cMMSE score should be \\>20 for subjects with 1 to 6 years of formal education; cMMSE score should be \\>24 for subjects with \\>6 years of formal education);\n* 3\\. Able and willing to foll",
+      "endpoints": [
+        "Change of blood pressure from baseline to immediately post-operation or post transcutaneous stimulation",
+        "Change of blood pressure from baseline to 3 months post-operation or post transcutaneous stimulation",
+        "Change of blood pressure from baseline to 6 months post-operation or post transcutaneous stimulation"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07322458"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03119636",
+      "title": "A Phase I/II, Open-Label Study to Assess the Safety and Efficacy of Striatum Transplantation of Human Embryonic Stem Cells-derived Neural Precursor Cells in Patients With Parkinson's Disease",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2017-05",
+      "completion_date": "2020-12",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "This study will evaluate the safety and efficacy of intracerebral transplantation of human embryonic stem cells-derived neural precursor cells in patients with Parkinson's Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Primary Parkinson's disease patients，a history over 5 years，females or males;\n2. Cannot effectively control the PD or tolerate the side effects of drugs;\n3. Hoehn and Yahr Stage 3 or 4 in the off state at screening\n4. Age between 50 and 80 years;\n5. Dopamine is effective or o",
+      "endpoints": [
+        "Incidence of treatment-emergent adverse events (TEAEs), severe TEAEs as assessed by head MRI and blood examination"
+      ],
+      "sponsor": "Chinese Academy of Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03119636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03230526",
+      "title": "Brain Microglial Activation in the Early Stage of the Parkinson's Disease: a Predictive Biomarker of the Evolution?",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-04-16",
+      "completion_date": "2024-05-06",
+      "country": "France",
+      "enrollment": 31,
+      "brief_summary": "Phase II, Open-labeled, Prospective, Multi-center study of assessing the link between microglial activation and dopaminergic denervation kinetics in the early stage of Parkinson disease, by using the imaging of \\[18F\\]DPA-714 a new ligand of Translocator Protein-18 kDa (TSPO) by Positron Emission Tomography (PET).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients having a Parkinson's disease diagnosed according to the criteria UKPDSBB.\n* Diagnosis done less than three years before the date the inclusion.\n* Patient Age at diagnosis : between 40 and 65 years.\n* Absence of clinical arguments for an associated neurovascular pathol",
+      "endpoints": [
+        "Coefficient of correlation between level of microglial striatal activation and the And the dopaminergic denervation kinetics"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03230526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02763852",
+      "title": "Pharmacokinetic-Pharmacodynamic Interaction Between Four Different Single Doses of BIA 3-202 and a Single Dose of Levodopa/Benserazide (100/25 mg): a Double-blind, Randomised, Crossover, Placebo Controlled Study in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2001-04",
+      "completion_date": "2001-07",
+      "country": "Portugal",
+      "enrollment": 18,
+      "brief_summary": "The purpose of this study is to investigate the tolerability, pharmacokinetic profile of BIA 3-202 and its metabolites, and the pharmacokinetic and pharmacodynamic interaction between 4 different single doses of BIA 3-202 (50 mg, 100 mg, 200 mg and 400 mg) and a single dose of standard levodopa 100 mg/benserazide 25 mg (Madopar® 125) in adult male and female healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects aged between 18 and 45 years, inclusive.\n* Subjects of body mass index (BMI) between 19 and 28 kg/m2, inclusive.\n* Subjects who were healthy as determined by pre study medical history, physical examination, and 12- lead ECG.\n* Subjects who had clinical",
+      "endpoints": [
+        "Maximum observed plasma concentration (Cmax)",
+        "Area under the plasma concentration time curve extrapolated to infinity (AUC0-∞)",
+        "Apparent terminal elimination half-life (t1/2)"
+      ],
+      "sponsor": "Bial - Portela C S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02763852"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00143026",
+      "title": "Study to Compare the Effect of Treatment With Carbidopa/Levodopa/Entacapone on the Quality of Life of Patients With Parkinson's Disease.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2006-06",
+      "country": "Australia, Taiwan, Thailand, Philippines",
+      "enrollment": 184,
+      "brief_summary": "This study examines the effect of treatment of levodopa/entacapone on quality of life, as measured by the Parkinson's Disease-Questionnaire 8 (PDQ-8), in Parkinson's disease patients with no or minimal, non-disabling motor fluctuations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of idiopathic Parkinson's disease exhibiting at least 2 or 3 symptoms\n* Motor functions must be regarded as non-disabling by the patient\n\nExclusion Criteria:\n\n* History, signs or symptoms suggesting the diagnosis of atypical or secondary parkinsonism\n* Histo",
+      "endpoints": [
+        "Quality of life assessment"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00143026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00610103",
+      "title": "A Phase 2 Clinical Study of KW-6500 (Apomorphine Hydrochloride) in Patients With Parkinson's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2008-10",
+      "country": "Japan",
+      "enrollment": 16,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of KW-6500 versus placebo when administered as a subcutaneous injection at the individualized maintenance dose level in an OFF state in Parkinson's disease patients with motor response complications on levodopa therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women aged 20 years or older at the time of giving informed consent.\n* Patients who have idiopathic Parkinson's disease.\n* Patients who have been on a stable regimen of levodopa (at least three times daily) plus at least one other antiparkinsonian agent being administe",
+      "endpoints": [
+        "The change (response ratio, raw score change, percent score change) in UPDRS (Unified Parkinson's Disease Rating Scale ) Part 3 score at the maintenance dose level"
+      ],
+      "sponsor": "Kyowa Kirin Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00610103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01725802",
+      "title": "A Phase I/IIa, Single Dose, Single-centre, Randomized, Crossover, Double-blind, Placebo-controlled Study Evaluating Safety, Tolerability and Levodopa Plasma Concentration Following Administration of Subcutaneous Continuously-delivered Levodopa/Carbidopa Solution (ND0612) in PD Patients",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-12-16",
+      "completion_date": "2013-02-26",
+      "country": "Israel",
+      "enrollment": 8,
+      "brief_summary": "In this Phase I/IIa study, the effect of continuous subcutaneous administration of LD/CD solution (ND0612) on the safety and PK profile of LD will be examined.",
+      "eligibility_criteria": "Main Inclusion Criteria:\n\n* Men and women with idiopathic Parkinson's disease\n* Subjects must experience motor fluctuations associated with LD/CD dosing\n* Modified Hoehn and Yahr stage \\< 5\n* Subjects must be taking optimized and stable levodopa/dopa decarboxylase inhibitor therapy\n* Women must be p",
+      "endpoints": [
+        "Incidence and frequency of adverse events",
+        "Withdrawal rate"
+      ],
+      "sponsor": "NeuroDerm Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01725802"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01142739",
+      "title": "A Descriptive Study of Lymphocytic Phosphorylation of ERK1/2 in Patients With Parkinson's Disease With Dyskinesias and in Controls",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2012-07",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "Levodopa-induced dyskinesia severely limits the use of levodopa in Parkinson's disease and constitutes a debilitating complication of dopaminergic treatment in late stage. Among several neurobiological mechanisms identified so far, the investigators have established in experimental models the key role of D1 receptor hypersensitivity and a\"Ras-ERK\" signalling pathway. As the very same dopamine receptor machinery and the Ras-ERK pathway are present in blood lymphocytes, the investigators wish to t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consecutive eligible PD in- and outpatients selected at the university hospital of Bordeaux.\n* Non-demented patients (DSM IV) who are able to give their informed consent and who are affiliated to the social security.\n* Controls: Subjects without known neurological disorder, no",
+      "endpoints": [
+        "ERK phosphorylation"
+      ],
+      "sponsor": "University Hospital, Bordeaux",
+      "url": "https://clinicaltrials.gov/study/NCT01142739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06029686",
+      "title": "Vibrotactile Coordinated Reset for Parkinson's Patients of a More Variable Population",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-05",
+      "completion_date": "2027-01",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of our study is to evaluate Vibrotactile Coordinated Reset stimulation (vCR) and its effects on Parkinson's symptoms of a more variable population. vCR will be administered with a device called the Stanford Glove. vCR is expected to provide patients with a non-invasive alternative to the most widely used treatments such as Levodopa and or deep brain stimulation. Patients will be followed for two years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age at the time of enrollment: 35 - 92 years\n2. Idiopathic Parkinson's Symptoms between Hoehn and Yahr stages 2 to\n3. Fluent in English\n4. Comfortable with technology; can use a computer, check email, and access the internet; can initiate and engage in a virtual meeting for t",
+      "endpoints": [
+        "Change in Parkinsonian symptoms as defined by the change in Movement Disorder Society Unified Parkinson's Disease Rating Scale Part III Score"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT06029686"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01283594",
+      "title": "A Double-blind, Randomized, Placebo-controlled Study of the Safety and Efficacy of SYN115 as Adjunctive Therapy in Levodopa-treated Parkinson's Subjects With End of Dose Wearing Off",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2012-10",
+      "country": "Chile, Ukraine, Romania, Canada, Argentina, United States",
+      "enrollment": 420,
+      "brief_summary": "The purpose of this research study is to test the effect of SYN115 compared to placebo (a \"sugar pill\" that looks like SYN115 but does not include active drug) on movement during the \"on\" and \"off\" states as well as other symptoms that some patients with Parkinson's disease experience. This study will also look at whether or not patients with Parkinson's disease experience \"side-effects\" with SYN115.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet Parkinson's Disease (PD) diagnosis consistent with UK PD diagnostic criteria\n* Meet Hoehn and Yahr PD stage\n* Good response to levodopa\n* Stable regimen of anti-parkinson medications\n* Are able to complete a Parkinson's disease diary\n* If of childbearing potential(male an",
+      "endpoints": [
+        "Assess efficacy of different doses of SYN115 for reducing the mean total hours of awake time per day spent in the off state"
+      ],
+      "sponsor": "Biotie Therapies Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01283594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06301282",
+      "title": "Electroencephalographic Signatures of Neuropsychiatric Fluctuations in Parkinson's Disease and the Temporal Dynamics of Their Dopaminergic Modulation",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-03-03",
+      "completion_date": "2025-12",
+      "country": "Switzerland",
+      "enrollment": 30,
+      "brief_summary": "Dopaminergic replacement therapy while efficient at reducing symptoms of Parkinson's disease is however often associated with motor and non-motor fluctuations which have a severe impact on patient quality of life. To date, the interplay between cortical activity linked to motor and non-motor symptoms and Parkinson's disease fluctuations linked to dopaminergic medication remain poorly understood.\n\nThe aim of the study is to characterize the cortical electroencephalographic oscillatory correlates ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Parkinson's disease (PD) based on United Kingdom PD Society Brain Bank Criteria\n* Patients in the PD phase called \"fluctuation stage\". PD can be defined according to the four following disease stages: de novo stage (i.e. at the time of diagnosis, dopamine replacem",
+      "endpoints": [
+        "Correlation of electroencephalographic resting-state oscillatory activity with neuropsychiatric clinical scores during the levodopa challenge"
+      ],
+      "sponsor": "University Hospital, Geneva",
+      "url": "https://clinicaltrials.gov/study/NCT06301282"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00115427",
+      "title": "Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Trial of Liatermin (r-metHuGDNF) Administered by Bilateral Intraputaminal (IPu) Infusion to Subjects With Idiopathic Parkinson's Disease",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "This randomized study was designed to evaluate the efficacy and safety of IPu-infused liatermin (15mg/putamen/day) compared with placebo in subjects with symptomatic, levodopa-response Parkinson's disease. This study consisted of a 90-day evaluation period followed by implantation of the IPu delivery system and then a 6-month double-blind treatment period.",
+      "eligibility_criteria": "Inclusion Criteria: - Diagnosis of bilateral, idiopathic Parkinson's disease",
+      "endpoints": [
+        "United Parkinson's Disease Rating Scale"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00115427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00291733",
+      "title": "Levetiracetam Administration for the Management of Levodopa-Induced Dyskinesias in Parkinson's Disease: A Double-Blind,Placebo-Controlled, Crossover Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2006-05",
+      "completion_date": "2007-10",
+      "country": "Greece",
+      "enrollment": 50,
+      "brief_summary": "Levodopa-induced dyskinesias have been associated with irregular oscillatory discharge characteristics of basal ganglia. From the other hand, LEV which shares a different electrophysiologic profile than other antiepileptics, inhibits hyper-synchronization of abnormal neuronal firing in experimental models of epilepsy. LEV also reduces levodopa-induced dyskinesias in MPTP-lesioned macaques and modulates \"priming phenomenon\" which associated with long-term changes in synaptic function that can lea",
+      "eligibility_criteria": "Inclusion Criteria:\n\nDiagnosis of PD will be according to the criteria of United Kingdom Parkinson's Disease Society Brain Bank.\n\nOther inclusion criteria:\n\n* Patients between ages 30 and 80\n* Hoehn and Yahr stage of PD over IIb\n* Levodopa-induced dyskinesias (LID) despite optimization of antiparkin",
+      "endpoints": [
+        "Percent change of \"on with levodopa-induced dyskinesias (LID)\" time from patient diaries"
+      ],
+      "sponsor": "1st Hospital of Social Security Services",
+      "url": "https://clinicaltrials.gov/study/NCT00291733"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360568",
+      "title": "Open-Label, 12-Month Safety and Efficacy Study of Levodopa - Carbidopa Intestinal Gel in Levodopa-Responsive Parkinson's Disease Subjects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2012-10",
+      "country": "Germany, New Zealand, United States",
+      "enrollment": 62,
+      "brief_summary": "Long term safety and efficacy (12 months) of levodopa-carbidopa intestinal gel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Idiopathic Parkinson's disease (PD) according to United Kingdon Parkinson's Disease Society (UKPDS) Brain Bank Criteria\n* Levodopa-responsive with severe motor fluctuations\n* Completion of protocol S187.3.001 (NCT00357994) or S187.3.002 (NCT00660387) and continue to meet the i",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs), Serious AEs (SAEs), Deaths and Discontinuations Due to AEs",
+        "Number of Participants With Device Complications",
+        "Number of Participants With Potentially Clinically Significant Values for Hematology Parameters"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT00360568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00199407",
+      "title": "A 12-week, Double Blind, Placebo-controlled, Randomized, Parallel Group, Multicenter, Fixed Dose Study to Evaluate the Efficacy and Safety of a 20 mg/d Oral Dose of KW-6002 (Istradefylline) as Treatment for Parkinson's Disease in Patients With Motor Response Complications on Levodopa/Carbidopa Therapy.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2006-01",
+      "country": "United States",
+      "enrollment": 230,
+      "brief_summary": "To establish the efficacy of a 20 mg/day dose of istradefylline for reducing the percentage of OFF time in patients with advanced Parkinson's disease (PD) treated with levodopa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. UK Parkinson's Disease Society (UKPDS) brain bank criteria (Step 1 and 2) for PD.\n2. PD stages 2-4 in the OFF state for Modified Hoehn and Yahr Scale.\n3. On levodopa/carbidopa for at least one year, stable dose in past 4 weeks.\n4. Currently take at least three doses of levodo",
+      "endpoints": [
+        "To establish the efficacy of a 20 mg/d dose of istradefylline for reducing the percentage of OFF time in patients with advanced Parkinson's disease (PD) treated with levodopa/carbidopa."
+      ],
+      "sponsor": "Kyowa Kirin Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00199407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01519284",
+      "title": "A Double-blind, Randomised, Placebo- and Active-controlled Multiple-dose Study of BIA 9-1067 to Investigate Its Effect on Levodopa Pharmacokinetics Following a Levodopa/Carbidopa 100/25 mg Single-dose in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2011-06",
+      "country": "Portugal",
+      "enrollment": 82,
+      "brief_summary": "To investigate the effect of repeated dosing of BIA 9-1067 on the levodopa pharmacokinetics, in comparison to placebo and entacapone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able and willing to give written informed consent.\n* Male or female subjects aged between 18 and 45 years, inclusive.\n* Subjects of body mass index (BMI) between 19 and 30 kg/m2, inclusive.\n* Healthy as determined by pre-study medical history, physical examination, vital signs",
+      "endpoints": [
+        "Cmax - Maximum Plasma Concentration of Levodopa"
+      ],
+      "sponsor": "Bial - Portela C S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01519284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01766258",
+      "title": "Efficacy and Safety of ODM-101 Compared to a Standard Combination (Stalevo®); a Randomised, Double-blind, Crossover, Proof of Concept Study in Patients With Parkinson's Disease and End-of-dose Motor Fluctuations",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2012-09",
+      "country": "N/A",
+      "enrollment": 117,
+      "brief_summary": "The primary objective of the study is to assess the efficacy, carbidopa dose response and safety of ODM-101, a new combination of levodopa, carbidopa and entacapone in the treatment of Parkinson's disease (PD) patients with end-of-dose motor fluctuations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent (IC) obtained.\n* Male or female patients with idiopathic PD according to the United Kingdom brain bank criteria with end-of-dose -motor fluctuations.\n* Hoehn and Yahr stage 2-4 performed during the on state.\n* An average of 3.0 hours of off time, with ",
+      "endpoints": [
+        "Duration of off time"
+      ],
+      "sponsor": "Orion Corporation, Orion Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01766258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03599726",
+      "title": "Improving Walking Automaticity in Parkinson's Disease: Levodopa or Donepezil",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-07-30",
+      "completion_date": "2019-07-30",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Safe and independent mobility at home and in the community requires control of walking while accomplishing other functional tasks. A hallmark of healthy control of walking is automaticity, defined as the ability of the nervous system to successfully coordinate movement with minimal use of attention-demanding executive resources \\[1\\]. Recent evidence indicates that walking disorders are often characterized by a shift in the locomotor control strategy from healthy automaticity to compensatory exe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be able to stand unassisted for a minute and to walk continuously for 2 minutes without assistance or assistive devices.\n* Diagnosis of idiopathic Parkinson's disease with sensitivity to levodopa and off-medication Hoehn \\& Yahr scores of III-IV.\n* Subjects must ",
+      "endpoints": [
+        "Oxygenated Hemoglobin levels in the prefrontal cortex while walking (microM)."
+      ],
+      "sponsor": "Oregon Health and Science University",
+      "url": "https://clinicaltrials.gov/study/NCT03599726"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00590122",
+      "title": "Comparison of Orally Dissolving Carbidopa/Levodopa (Parcopa) to Conventional Oral Carbidopa/Levodopa: A Single-Dose, Double-Blind, Double-Dummy, Placebo-Controlled, Crossover Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-11",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "To find out if a single dose of Parcopa®, a form of levodopa that dissolves in your mouth, works faster than regular oral levodopa which is swallowed, in fluctuating PD patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between the age of 31 and 80 -Diagnosis of idiopathic Parkinson's disease for at least three years duration\n* Patients requiring levodopa for their PD\n* Good subjective response to levodopa\n* Fluctuating symptoms defined by wearing off phenomenon, any dyskinesia",
+      "endpoints": [
+        "Measurement of Time in Minutes From When a Patient Was in a Clinical \"Off\" State, Took Their Medication and Went Into a Clinical \"on\" State"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00590122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04735172",
+      "title": "Exploration of Differences in Metabolite Concentrations by 7Teslas NMR Spectroscopy in Striatum and Subthalamic Nuclei in de Novo Parkinsonian Patients and Control Subjects",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-04-07",
+      "completion_date": "2029-08",
+      "country": "France",
+      "enrollment": 44,
+      "brief_summary": "Initially, the exploration of brain metabolism by Nuclear Magnetic Resonance Spectroscopy (MRS) of the high magnetic field proton (1H) (11.7T) applied to acute and chronic animal models of Parkinson's disease (PD) showed glutamatergic hyperactivity within the striatum, one of the components of the basal ganglia. Interestingly, acute administration of L-dopa and acute, subchronic and chronic deep brain stimulation of the subthalamic nucleus (STN) normalizes these neurochemical profiles. Investiga",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients will be included:\n\n* suffering from idiopathic Parkinson's disease according to UKPDSBB criteria (Gibb \\& Lees, 1988; Hughes et al., 1992),\n* the stage of the disease is I-II according to the Hoehn and Yahr scale,\n* which do not receive dopaminergic treatment,\n* duratio",
+      "endpoints": [
+        "Glutamate concentration (mmol.L-1) measured in the putamen"
+      ],
+      "sponsor": "University Hospital, Clermont-Ferrand",
+      "url": "https://clinicaltrials.gov/study/NCT04735172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04232969",
+      "title": "A Randomised, Double Blind, Parallel Group, Placebo Controlled, Phase 3 Trial of Exenatide Once Weekly Over 2 Years as a Potential Disease Modifying Treatment for Parkinson's Disease",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-01-20",
+      "completion_date": "2024-07-31",
+      "country": "United Kingdom",
+      "enrollment": 194,
+      "brief_summary": "This study is a clinical trial in patients with Parkinson's disease (PD), of a drug called exenatide, which is already licensed for the treatment of patients with type 2 diabetes. There have been several groups that have confirmed that exenatide has beneficial effects of nerve cells when tested in the laboratory, which raises the possibility that exenatide may slow down or stop the degeneration of PD. In an open label trial in patients with PD who self administered the drug for a period of 48 we",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of Parkinson's disease.\n2. Hoehn and Yahr stage ≤2.5 in the ON medication state.\n3. Between 25 and 80 years of age.\n4. On dopaminergic treatment for at least 4 weeks before enrolment.\n5. Ability to self-administer, or to arrange carer administration of trial medicat",
+      "endpoints": [
+        "Movement Disorder Society Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part 3"
+      ],
+      "sponsor": "University College, London",
+      "url": "https://clinicaltrials.gov/study/NCT04232969"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02119611",
+      "title": "Deep Brain Stimulation Therapy in Movement Disorders",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2014-04-02",
+      "completion_date": "2030-12-01",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "Background:\n\n\\- In deep brain stimulation (DBS), a device called a neurostimulator is placed in the chest. It is attached to wires in parts of the brain that affect movement. DBS might help people with movement disorders like Parkinson s disease (PD), dystonia, and essential tremor (ET).\n\nObjective:\n\n\\- To provide DBS treatment to people with some movement disorders.\n\nEligibility:\n\n\\- Adults 18 years and older with PD, ET, or certain forms of dystonia.\n\nDesign:\n\n* Participants will be screened w",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nTo be eligible for entry into the study, candidates must meet all the following criteria:\n\n* Be 18 years of age or older.\n* Able to comply with study procedures and provide informed consent.\n* Have a clinical diagnosis of idiopathic PD, primary dystonia, or ET:\n\n  1. The diagn",
+      "endpoints": [
+        "To provide DBS therapy and follow-up management",
+        "To maintain a cohort of patients treated with DBS who can participate in other NIH protocols addressing the efficacy of functional surgery and the relevant physiology",
+        "Data collection"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT02119611"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03336307",
+      "title": "Predictors of Gait Improvement in Patients With Parkinson's Disease After Rehabilitation",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2017-07",
+      "country": "Italy",
+      "enrollment": 36,
+      "brief_summary": "Patients with Parkinson's disease show a gait disturbance which is considered as one of the most disabling aspect of the disease that strongly impacts on patients' autonomy and quality of life. The mechanism underlying gait impairment is multi-factorial, reflects the global motor impairment of patients with PD and is mainly related to a neurotransmitter deficiency inducing bradykinesia, rigidity, abnormal trunk control and postural instability. For this reason, and considering the impact of soci",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of idiopathic PD according to UK bank criteria\n* Hoehn and Yahr stages 1 to 3.\n* All patients were in a stable drug program and had adapted to their current medications for at least 2 weeks\n\nExclusion Criteria:\n\n* Cognitive deficits (defined as scores of \\<26 on the ",
+      "endpoints": [
+        "stance duration (change)",
+        "step length (change)",
+        "Step width (change)"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT03336307"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06596876",
+      "title": "A Randomized, Controlled, Double-blind, Double-dummy, Multicenter Phase III Study to Evaluate the Efficacy and Safety of HRG2010 in Parkinson's Disease With Motor Fluctuations",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-11-06",
+      "completion_date": "2027-02-14",
+      "country": "China",
+      "enrollment": 450,
+      "brief_summary": "The study is a multicenter, randomized, double-blind, double-dummy, active-controlled, Phase III clinical study. The aim of this trial is to evaluated the efficacy and assessed the safety of HRG2010 compared with a sustained-release cabridopa-levodopa formulation in Parkinson's Disease With Motor Fluctuations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female who are at age 40\\~80 years with PD, consistent with the International Parkinson and Movement Disorder Society Clinical Diagnostic Criteria and who are being treated with stable regimens of DDCI+LD but experiencing motor fluctuations.\n2. Mini Mental State Exami",
+      "endpoints": [
+        "Change from baseline in \"Off\" time at Week 21"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06596876"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03959540",
+      "title": "A Multinational, Multicentre, Prospective Non-interventional Study to Assess Safety and Effectiveness of Opicapone Plus Standard of Care in Elderly Patients With Parkinson's Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-04-28",
+      "completion_date": "2021-05-11",
+      "country": "United Kingdom",
+      "enrollment": 39,
+      "brief_summary": "The purpose of this study is to describe the safety and efficacy of opicapone plus standard of care in elderly patients with PD in the real-world setting",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient or legally acceptable representative willing and able to provide informed consent as mandated by local regulation\n* Patient with clinical diagnosis of idiopathic PD (excluding non-idiopathic PD: atypical Parkinsonism, secondary \\[acquired or symptomatic\\] Parkinsonism,",
+      "endpoints": [
+        "Percentage of patients having at least one Adverse Event (AE)"
+      ],
+      "sponsor": "Bial - Portela C S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03959540"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04308135",
+      "title": "The Clinical and Neuroimaging Differences Between Patients With Vascular Parkinsonism and Idiopathic Parkinson's Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-09-01",
+      "completion_date": "2022-04-01",
+      "country": "Egypt",
+      "enrollment": 104,
+      "brief_summary": "Vascular parkinsonism (VP) is defined as the presence of parkinsonian syndrome, evidence of cerebrovascular disease by brain imaging and an established relationship between the two disorders.\n\nHowever, the diagnosis of VP is problematic. This study aims to distinguish VP from Parkinson's disease (PD) in multiple aspects including clinical features as motor ,non motor symptoms\n\n,response to treatment ,cognitive assessments by using multiple scales, neuro-radiological features of magnetic resonanc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with PD or VP, and healthy controls will be included in the study.\n* PD diagnosis will be based on the Queen Square Brain Bank for Neurological Disorders clinical criteria and MDS criteria.\n* The VP patients will be included if they fulfill the following cri",
+      "endpoints": [
+        "MDS-UPDRS scale on on and off state",
+        "Montreal Cognitive Assessment (MoCA) (Arabic version)",
+        "White matter severity by MRI brain"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT04308135"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07361250",
+      "title": "Evaluation of the Efficacy and Safety of Transcranial Temporal Interference Stimulation (TIS) Targeting the Subthalamic Nucleus (STN) in Parkinson's Disease: A Single-Center, Prospective, Double-Blind, Randomized Controlled Clinical Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-20",
+      "completion_date": "2027-06-20",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "This is a single-center, prospective, double-blind, randomized controlled trial to evaluate the efficacy and safety of transcranial temporal interference stimulation targeting the subthalamic nucleus in patients with Parkinson's disease. It plans to enroll 20 eligible participants who will be randomly assigned in a 1:1 ratio to either the active TIS stimulation group or the sham stimulation group.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 years or older, no gender restriction;\n2. Diagnosis of primary Parkinson's disease according to MDS criteria: specifically, the patient must (a) exhibit parkinsonism (bradykinesia + resting tremor/rigidity); (b) not meet any of the MDS absolute exclusion criteria; and ",
+      "endpoints": [
+        "Change in Score on Part III (Motor Examination) of the Movement Disorder Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS)"
+      ],
+      "sponsor": "Tongji Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07361250"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05822739",
+      "title": "A Single-Arm, Open-Label, Exploratory Clinical Study of BBM-P002 Gene Therapy for Parkinson's Disease",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2023-04-14",
+      "completion_date": "2025-10-30",
+      "country": "China",
+      "enrollment": 10,
+      "brief_summary": "Safety and Efficacy Study of BBM-P002 in participants with primary advanced Parkinson's disease",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinically confirmed diagnosis of idiopathic Parkinson's Disease (PD) in accordance with the 2015 Movement Disorder Society (MDS) diagnostic criteria.\n2. Participants aged between 40 and 65 years, inclusive, of any gender.\n3. A disease history of five years or more.\n4. A Hoeh",
+      "endpoints": [
+        "Incidence of Adverse Events and Serious Adverse Events"
+      ],
+      "sponsor": "Xiangya Hospital of Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT05822739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00086294",
+      "title": "5HT2A/C Serotonin Blockade in Parkinson's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-06-25",
+      "completion_date": "2007-11-15",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the effects of an experimental drug called ACP-103 on Parkinson's disease symptoms and on dyskinesias (involuntary movements) that develop as a result of long-term levodopa treatment. ACP-103 changes the spread of certain brain signals that are affected in patients with Parkinson's disease.\n\nPatients with relatively advanced Parkinson's disease and dyskinesias who are between 30 and 80 years of age may be eligible for this study. Candidates are screened with a complete m",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nPatients who meet all of the following inclusion criteria will be eligible to participate in the study:\n\n1. Patient is between the ages of 30 and 80 (inclusive);\n2. Patient has been diagnosed with idiopathic Parkinson's disease based on the presence of a characteristic clinica",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00086294"
+    }
+  ],
+  "timestamp": "2026-03-04T15:27:05.591574",
+  "success": true,
+  "error_message": null
+}

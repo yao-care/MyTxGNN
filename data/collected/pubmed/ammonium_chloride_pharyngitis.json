@@ -1,0 +1,133 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ammonium Chloride",
+    "disease": "pharyngitis",
+    "query_string": "Ammonium Chloride AND pharyngitis"
+  },
+  "data": {
+    "query": "Ammonium Chloride AND pharyngitis",
+    "results": [
+      {
+        "pmid": "38622748",
+        "title": "A case of severe benzalkonium chloride intoxication in a cat.",
+        "abstract": "Benzalkonium chloride (BAC) is a quaternary ammonium compound (QAC), that can be found in a wide variety of household products-from disinfectants to medicaments and home fragrances-but also professional products. In pets, cats have long been reported as more sensitive than dogs to QACs; in fact, signs of irritation such as oral ulcerations, stomatitis and pharyngitis can be observed after contact with concentrations of 2% or lower. In a review of 245 cases of BAC exposure in cats, reported by the Veterinary Poisons Information Service (United Kingdom) only 1.2% of the cases died or were euthanized. Nevertheless, BAC toxidromes in cats can result in transitory CNS and respiratory distress, as well as severe mucosal and cutaneous lesions. Currently, only a few reports are available concerning BAC poisoning in this species.",
+        "journal": "Acta veterinaria Scandinavica",
+        "year": "2024",
+        "authors": [
+          "Rubini Silva",
+          "Rubini Roberto",
+          "Bertocchi Silvia",
+          "Zordan Silvia",
+          "Magri Alice"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cats",
+          "Animals",
+          "Female",
+          "Dogs",
+          "Benzalkonium Compounds",
+          "Quaternary Ammonium Compounds",
+          "Disinfectants",
+          "Italy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38622748/"
+      },
+      {
+        "pmid": "3606702",
+        "title": "An approach of the in vivo antibacterial activity of benzoxonium chloride and comparison with other buccopharyngeal disinfectants.",
+        "abstract": "Different pharmaceutical forms of N-benzyl,N-dodecyl-N,N-di(2-hydroxyethyl) ammonium chloride (benzoxonium chloride, Orofar) have been tested on the overall buccopharyngeal bacterial count in healthy volunteers, and compared to competitors. Gargle solutions are most effective in reducing initial bacterial count. An open repeated dose study has been performed on 38 patients with sore throat to assess the safety and the efficacy of benzoxonium chloride tablets and gelsolets at doses of 6 mg and 10 mg daily for 4 to 6 days. Pathogens disappeared or were clearly reduced and the syndrome resolved. Tolerance was good. Differences in methodologies are discussed.",
+        "journal": "Arzneimittel-Forschung",
+        "year": "1987",
+        "authors": [
+          "Weibel M A",
+          "Cortat M",
+          "Lebek G",
+          "LeCotonnec J Y",
+          "Kitler M E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Benzalkonium Compounds",
+          "Culture Media",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Mouth",
+          "Mouth Diseases",
+          "Mouthwashes",
+          "Pharyngeal Diseases",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3606702/"
+      },
+      {
+        "pmid": "7818285",
+        "title": "Irritative and systemic symptoms following exposure to Microban disinfectant through a school ventilation system.",
+        "abstract": "Microban, a pesticide not registered in California, was sprayed into an operating heating/ventilation/air conditioning (HVAC) unit at an elementary school in San Francisco, California. This incident occurred on Monday, September 28, 1992, while 396 students and 67 staff members were in the school. The Microban formulation used contains ortho-phenylphenol (0.21%), a quaternary ammonium complex (di-isobutylphenoxy-ethoxy-ethyldimethylbenzyl-ammonium chloride, 0.69%), and bromine (0.04%). This study of the health effects of Microban mist exposure on the school staff was conducted as a result of legal and toxicological concerns. California registration for this formulation had been denied because of inadequate data and because there were concerns about inhalation toxicity in test animals. Predicted health effects from short-duration exposure to Microban are primarily skin and mucous membrane irritation. A self-administered health symptom questionnaire that covered the work week following t",
+        "journal": "Archives of environmental health",
+        "year": "1994",
+        "authors": [
+          "Sesline D",
+          "Ames R G",
+          "Howd R A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Air Pollutants",
+          "Bias",
+          "Bromine",
+          "Child",
+          "Data Collection",
+          "Drug Combinations",
+          "Environmental Exposure",
+          "Female",
+          "Headache"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7818285/"
+      },
+      {
+        "pmid": "442769",
+        "title": "[Therapy of acute inflammatory diseases of the mouth and pharyngeal space].",
+        "abstract": "",
+        "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+        "year": "1979",
+        "authors": [
+          "Willenberg W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Ammonium Chloride",
+          "Anti-Inflammatory Agents",
+          "Cetylpyridinium",
+          "Child",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/442769/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:09:27.951639",
+  "success": true,
+  "error_message": null
+}

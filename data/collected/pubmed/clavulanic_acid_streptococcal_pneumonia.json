@@ -1,0 +1,595 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "streptococcal pneumonia",
+    "query_string": "Clavulanic Acid AND streptococcal pneumonia"
+  },
+  "data": {
+    "query": "Clavulanic Acid AND streptococcal pneumonia",
+    "results": [
+      {
+        "pmid": "1854164",
+        "title": "Comparative efficacies of ciprofloxacin, amoxicillin, amoxicillin-clavulanic acid, and cefaclor against experimental Streptococcus pneumoniae respiratory infections in mice.",
+        "abstract": "Experimental respiratory infections were established in mice by intranasal inoculation of Streptococcus pneumoniae. Inoculation of 10(7) CFU of either S. pneumoniae 1629 or S. pneumoniae 7 produced a fatal pneumonia in nontreated mice 2 to 3 days after infection. Oral therapy was commenced 1 h after infection and was continued three times a day for 2 days. The doses used in mice produced peak concentrations in serum and lung tissue similar to those measured in humans. Ciprofloxacin failed to eliminate either strain of pneumococcus from mouse lungs at any of the doses tested (40, 80, or 160 mg/kg of body weight) by the end of therapy (33 h). Mice that received ciprofloxacin at 160 mg/kg were clear of S. pneumoniae 7 5 days later, whereas persistence and regrowth of S. pneumoniae 1629 resulted in the death of 20% of animals treated with ciprofloxacin. Therapy with cefaclor (20 mg/kg) produced an effect similar to that of ciprofloxacin. In contrast, amoxicillin (10 and 20 mg/kg) and amoxi",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Gisby J",
+          "Wightman B J",
+          "Beale A S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Cefaclor",
+          "Ciprofloxacin",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Female",
+          "Humans",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1854164/"
+      },
+      {
+        "pmid": "10501315",
+        "title": "Treatment of pneumococcal pneumonia.",
+        "abstract": "The emergence of Streptococcus pneumoniae strains with resistance to penicillin, macrolide, and other drugs has made the treatment of pneumococcal infections more complicated. Although resistance to penicillin has had a profound impact on the outcome of meningitis, it has had little impact on the mortality from pneumococcal pneumonia because the serum and pulmonary levels achieved with penicillin (or related drugs) are several times higher than the minimal inhibitory concentration of the strains. Thus, based on current levels of resistance to penicillin and cephalosporin, most patients with mild/moderate pneumococcal pneumonia may respond to oral amoxicillin, and most with severe pneumonia may be successfully treated with intravenous ceftriaxone, cefotaxime, or amoxicillin-clavulanic acid. It is of concern that patients infected with erythromycin-resistant pneumococci may not respond to therapy with a macrolide. In our opinion, except for well-selected patients, imipenem and vancomycin",
+        "journal": "Seminars in respiratory infections",
+        "year": "1999",
+        "authors": [
+          "Pallares R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Multiple",
+          "Female",
+          "Humans",
+          "Lactams",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Penicillins",
+          "Pneumonia, Pneumococcal",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10501315/"
+      },
+      {
+        "pmid": "2227080",
+        "title": "Treatment of respiratory tract infections in children: a study of a combination of amoxycillin and clavulanic acid.",
+        "abstract": "In an open study, 70 in-patients and 23 out-patients aged between 1 and 14 years with sinusitis (n = 1), perforated otitis media (n = 4), pharyngotonsillitis (n = 25), tracheobronchitis (n = 30) or broncho-pneumonia (n = 33) were treated daily with a combination of 40 mg/kg amoxycillin and 10 mg/kg clavulanic acid in three equal doses for between 6 and 15 days. Purulent specimens were cultured when obtainable and pathogenic organisms identified were Staphylococcus aureus, beta-haemolytic streptococcal group A, Pseudomonas aeruginosa, Pseudococcus species and Klebsiella pneumoniae infections, of which 45.7% were beta-lactamase-producing and 54.3% were ampicillin-susceptible. After treatment, only one beta-lactamase-producing Streptococcus and one Staphylococcus infection persisted. Side-effects (vomiting, nausea, diarrhoea, maculopapular exanthema, rash) occurred in 16 patients and treatment was withdrawn in eight. It is concluded that the amoxycillin--clavulanic acid combination is a s",
+        "journal": "The Journal of international medical research",
+        "year": "1990",
+        "authors": [
+          "Fiocchi A",
+          "Zuccotti G",
+          "Bellù R",
+          "Marangione P",
+          "Riva E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Blood Cell Count",
+          "Child",
+          "Child, Preschool",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2227080/"
+      },
+      {
+        "pmid": "36086715",
+        "title": "Community-acquired pneumonia-causing bacteria and antibiotic resistance rate among Vietnamese patients: A cross-sectional study.",
+        "abstract": "Due to the overuse of antibiotics in treatment and regional variation in disease factors, community-acquired pneumonia (CAP) has a relatively high morbidity and mortality rate. This study determined the prevalence of bacteria that cause CAP and the rate of antibiotic resistance. From April 2018 to May 2019, a cross-sectional study was conducted on 254 CAP patients at hospitals and medical centers in the province of Vinh Long. Based on interviews and medical records, SPSS 18.0 was used to analyze the data. CAP-causing bacteria, antibiotic susceptibility, and extended-spectrum β-lactamase production of bacteria were determined by performing Identification and Antibiotic Susceptibility Testing on sputum specimens using the VITEK 2 Automated instrument. With a total of 254 patients, the age of 60s accounted for the highest prevalence. Streptococcus pneumonia was the leading factor, accounting for 12.6%, followed by Klebsiella pneumonia and Pseudomonas aeruginosa at 12.2% and 8.3%, respecti",
+        "journal": "Medicine",
+        "year": "2022",
+        "authors": [
+          "Tran Hung Do",
+          "Bach Nguyen Yen Thi",
+          "Thanh Tran Trung",
+          "Thu Le Trang Thi",
+          "Thu Nguyen Ha Thi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Asian People",
+          "Bacteria",
+          "Clavulanic Acid",
+          "Community-Acquired Infections",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Microbial",
+          "Gram-Negative Bacteria",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36086715/"
+      },
+      {
+        "pmid": "9711451",
+        "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+        "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Langtry H D",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Drug Tolerance",
+          "Humans",
+          "Infant",
+          "Otitis Media",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+      },
+      {
+        "pmid": "15212560",
+        "title": "Cefdinir: a review of its use in the management of mild-to-moderate bacterial infections.",
+        "abstract": "Cefdinir (Omnicef) is an oral third-generation cephalosporin with good in vitro activity against many pathogens commonly causative in community-acquired infections. The drug provides good coverage against Haemophilus influenzae, Moraxella catarrhalis and penicillin-susceptible Streptococcus pneumoniae, the most common respiratory tract pathogens. Cefdinir is stable to hydrolysis by commonly occurring plasmid-mediated beta-lactamases and retains good activity against beta-lactamase-producing strains of H. influenzae and M. catarrhalis. The drug distributes into various tissues (e.g. sinus and tonsil) and fluids (e.g. middle ear), and has a pharmacokinetic profile that allows for once- or twice-daily administration.Cefdinir, administered for 5 or 10 days, has shown good clinical and bacteriological efficacy in the treatment of a wide range of mild-to-moderate infections of the respiratory tract and skin in adults, adolescents and paediatric patients in randomised, controlled trials. In a",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Perry Caroline M",
+          "Scott Lesley J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cefdinir",
+          "Cephalosporins",
+          "Child",
+          "Gram-Negative Bacteria",
+          "Gram-Negative Bacterial Infections",
+          "Gram-Positive Bacteria",
+          "Gram-Positive Bacterial Infections",
+          "Humans",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15212560/"
+      },
+      {
+        "pmid": "15303634",
+        "title": "Gemifloxacin once daily for 7 days compared to amoxicillin/clavulanic acid thrice daily for 10 days for the treatment of community-acquired pneumonia of suspected pneumococcal origin.",
+        "abstract": "Community-acquired pneumonia (CAP) is common among adults and contributes considerably to morbidity and mortality.",
+        "journal": "Respiratory medicine",
+        "year": "2004",
+        "authors": [
+          "Léophonte P",
+          "File T",
+          "Feldman C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Clavulanic Acid",
+          "Community-Acquired Infections",
+          "Double-Blind Method",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15303634/"
+      },
+      {
+        "pmid": "16137193",
+        "title": "Spotlight on amoxicillin/clavulanic acid 2000 mg/125 mg extended release (XR) in respiratory tract infections in adults.",
+        "abstract": "Amoxicillin/clavulanic acid 2000 mg/125 mg extended release (Augmentin XR), referred to herein as amoxicillin/clavulanic acid XR, is a pharmacokinetically enhanced formulation designed to provide more effective therapy in adults and adolescents than conventional formulations against community-acquired respiratory tract pathogens, particularly Streptococcus pneumoniae, with reduced susceptibility to amoxicillin.Amoxicillin/clavulanic acid XR maintains plasma amoxicillin concentrations >4 microg/mL for a mean of 49% of the dosing interval indicating that it would be highly effective against S. pneumoniae strains with minimum inhibitory concentrations (MICs) above the National Committee for Clinical Laboratory Standard's amoxicillin +/- clavulanic acid susceptibility breakpoint of < or = 2 microg/mL. Amoxicillin/clavulanic acid XR is at least as effective as conventional amoxicillin/clavulanic acid formulations, levofloxacin, and clarithromycin in treating community-acquired pneumonia, ac",
+        "journal": "Treatments in respiratory medicine",
+        "year": "2005",
+        "authors": [
+          "McCormack Paul L",
+          "Keating Gillian M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Delayed-Action Preparations",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Respiratory Tract Infections",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16137193/"
+      },
+      {
+        "pmid": "14979735",
+        "title": "New developments in antibacterial choice for lower respiratory tract infections in elderly patients.",
+        "abstract": "Elderly patients are at increased risk of developing lower respiratory tract infections compared with younger patients. In this population, pneumonia is a serious illness with high rates of hospitalisation and mortality, especially in patients requiring admission to intensive care units (ICUs). A wide range of pathogens may be involved depending on different settings of acquisition and patient's health status. Streptococcus pneumoniae is the most common bacterial isolate in community-acquired pneumonia, followed by Haemophilus influenzae, Moraxella catarrhalis and atypical pathogens such as Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae. However, elderly patients with comorbid illness, who have been recently hospitalised or are residing in a nursing home, may develop severe pneumonia caused by multidrug resistant staphylococci or pneumococci, and enteric Gram-negative bacilli, including Pseudomonas aeruginosa. Moreover, anaerobes may be involved in aspiration pn",
+        "journal": "Drugs & aging",
+        "year": "2004",
+        "authors": [
+          "Ferrara Anna Maria",
+          "Fietta Anna Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Anti-Bacterial Agents",
+          "Geriatrics",
+          "Humans",
+          "Intestinal Absorption",
+          "Respiratory Tract Infections",
+          "Tissue Distribution",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14979735/"
+      },
+      {
+        "pmid": "9793046",
+        "title": "[Would ampicillin alone again be enough for treating community-acquired pneumonias?].",
+        "abstract": "MORE THAN SEMANTICS: The complexity of the problem raised by this apparently simple question becomes apparent if one examines the meanings behind the words.",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "1998",
+        "authors": [
+          "Bédos J P"
+        ],
+        "pub_types": [
+          "Editorial",
+          "English Abstract"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Ampicillin",
+          "Community-Acquired Infections",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Penicillins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9793046/"
+      },
+      {
+        "pmid": "29659884",
+        "title": "Results from the Survey of Antibiotic Resistance (SOAR) 2014-16 in Greece.",
+        "abstract": "To determine antimicrobial susceptibility in isolates of Streptococcus pneumoniae and Haemophilus influenzae collected in 2014-16 from patients with community-acquired respiratory tract infections in Greece.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2018",
+        "authors": [
+          "Torumkuney D",
+          "Papaparaskevas J",
+          "Morrissey I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Community-Acquired Infections",
+          "Drug Resistance, Multiple, Bacterial",
+          "Epidemiological Monitoring",
+          "Fluoroquinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29659884/"
+      },
+      {
+        "pmid": "14720016",
+        "title": "Clarithromycin extended-release tablet: a review of its use in the management of respiratory tract infections.",
+        "abstract": "Clarithromycin is an orally active, advanced-generation macrolide that has been reformulated as an extended-release tablet (Biaxin) XL Filmtab allowing convenient once-daily administration. The reformulation is intended to improve patient compliance and the tolerability of the drug. Although maximum plasma clarithromycin concentrations are lower and reached later with the extended-release tablets than with the immediate-release tablets, the two formulations are bioequivalent with respect to the area under the plasma concentration-time curve. Bioequivalence is also achieved between the formulations for the microbiologically active metabolite, 14-hydroxy-clarithromycin. Two randomized trials in patients with acute exacerbations of chronic bronchitis (AECB) showed that a 7-day course of clarithromycin extended-release 1000 mg once daily produced clinical cure rates of 83% and 85% and bacteriologic cure rates of 86% and 92% at the test-of-cure study visit. Similar rates of cure were achiev",
+        "journal": "American journal of respiratory medicine : drugs, devices, and other interventions",
+        "year": "2003",
+        "authors": [
+          "Darkes Malcolm J M",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Biological Availability",
+          "Clarithromycin",
+          "Delayed-Action Preparations",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14720016/"
+      },
+      {
+        "pmid": "14759229",
+        "title": "Proof of concept: performance testing in models.",
+        "abstract": "Pharmacokinetic (PK) and pharmacodynamic (PD) principles that predict antimicrobial efficacy can be used to set targets for antimicrobial design and optimisation. Although current formulations of amoxicillin and amoxicillin/clavulanate have retained their efficacy against many, but not all, penicillin-nonsusceptible Streptococcus pneumoniae, additional coverage is required to address the growing problem of drug-resistant strains. Accordingly, two new oral formulations of amoxicillin/clavulanate, a paediatric formulation at 90/6.4 mg/kg/day and a pharmacokinetically enhanced formulation at 2000/125 mg twice daily for adults, were designed using PK/PD principles. These principles indicate that for amoxicillin and amoxicillin/clavulanate, a time above MIC of 35-40% of the dosing interval is predictive of high bacterial efficacy. In line with PK/PD predictions, simulation of human pharmacokinetics in in-vitro kinetic models and in a rat model of pneumonia, amoxicillin/clavulanate 2000/125 ",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2004",
+        "authors": [
+          "Craig W A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Disease Models, Animal",
+          "Drug Design",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Models, Biological",
+          "Pneumonia, Pneumococcal",
+          "Rats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14759229/"
+      },
+      {
+        "pmid": "14745340",
+        "title": "[Levofloxacine for the treatment of pneumococcal pneumonia: results of a meta-analysis].",
+        "abstract": "Levofloxacine is a fluoroquinolone presenting good anti-pneumococcal activity, including against strains with reduced sensitivity to penicillin. Four randomized controlled studies have compared the efficacy of levofloxacine versus other antibiotics (amoxacillin-clavulanic acid, amoxicillin, ceftriaxone, ceftriaxone plus cefuroxime +/- erythromycin) for the treatment of acute community-acquired pneumonia in adults. Grouping the 1,738 analyzable patients in these four studies, a meta-analysis was performed on the sub-group of 275 patients with documented pneumococcal infection (86 with bacteriemia) in order to compare the efficacy of levofloxacine with that of the comparer antibiotics. The trials were homogeneous, allowing the meta-analysis. The overall rate of clinical success was 88.6% in the levofloxacine group and 86.7% in the comparer group. The interval of confidence for the difference in the rate of estimated clinical success was between -5.65% and +9.39%. Bacteriologically, the r",
+        "journal": "Revue de pneumologie clinique",
+        "year": "2003",
+        "authors": [
+          "Bru J-P",
+          "Leophonte P",
+          "Veyssier P"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Community-Acquired Infections",
+          "Humans",
+          "Ofloxacin",
+          "Pneumonia, Pneumococcal",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14745340/"
+      },
+      {
+        "pmid": "19929027",
+        "title": "Chronic obstructive pulmonary disease: role of bacteria and updated guide to antibacterial selection in the older patient.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) remains a major cause of morbidity and mortality worldwide. COPD is especially prevalent in the elderly, affecting 25% of those aged>or=75 years. The course of the disease in the elderly is often complicated by co-morbid conditions, and its management is complicated by drug-drug interactions. Exacerbations of COPD increase rates of hospitalization and mortality and decrease quality of life. Exacerbations are marked by an increase from baseline in dyspnoea, sputum volume and sputum purulence. Approximately 50% of acute exacerbations of symptoms in COPD are caused by non-typeable Haemophilus influenzae, Moraxella catarrhalis, Streptococcus pneumoniae and Pseudomonas aeruginosa. Stratification of exacerbations based on severity of symptoms and signs, and severity of underlying COPD, is useful in selecting patients likely to benefit from antibacterial therapy. Patients who are hospitalized with exacerbations, those who have all three symptoms (i",
+        "journal": "Drugs & aging",
+        "year": "2009",
+        "authors": [
+          "Iyer Parameswaran G",
+          "Murphy Timothy F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Anti-Bacterial Agents",
+          "Haemophilus Infections",
+          "Humans",
+          "Moraxellaceae Infections",
+          "Pneumonia, Pneumococcal",
+          "Pulmonary Disease, Chronic Obstructive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19929027/"
+      },
+      {
+        "pmid": "14759230",
+        "title": "Building in efficacy: developing solutions to combat drug-resistant S. pneumoniae.",
+        "abstract": "The development of our understanding of the pharmacokinetic (PK) and pharmacodynamic (PD) principles that determine antimicrobial efficacy has advanced substantially over the last 10 years. We are now in a position to use PK/PD principles to set targets for antimicrobial design and optimisation so that we can predict eradication of specific pathogens or resistant variants when agents are used clinically. Optimisation of PK/PD parameters to enable the treatment of resistant pathogens with oral agents may not be possible with many current agents, such as some cephalosporins, macrolides and fluoroquinolones. Aminopenicillins, however, such as amoxicillin, have linear PK and have a good safety profile even at high doses. The new pharmacokinetically enhanced oral formulation of amoxicillin/clavulanate, 2000/125 mg twice daily, was designed using PK/PD principles to be able to eradicate Streptococcus pneumoniae with amoxicillin MICs of up to and including 4 mg/L, which includes most penicill",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2004",
+        "authors": [
+          "Jacobs M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Drug Design",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Mice",
+          "Microbial Sensitivity Tests",
+          "Pneumonia, Pneumococcal",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14759230/"
+      },
+      {
+        "pmid": "1726206",
+        "title": "Cefpodoxime proxetil in the treatment of lower respiratory tract infections.",
+        "abstract": "Cefpodoxime proxetil is the orally absorbed ester of cefpodoxime, a new third generation cephalosporin. In the gastrointestinal tract, cefpodoxime proxetil is hydrolysed to cefpodoxime, which has potent antibacterial activity against the major bacterial pathogens involved in lower respiratory tract infections: Haemophilus influenzae, Moraxella (Branhamella) catarrhalis (including beta-lactamase-producing strains), and Streptococcus pneumoniae (including amoxicillin-resistant strains). Six randomised comparative studies in patients with lower respiratory tract infections, 5 of which were large (enrollment of more than 200 patients) and double-blind, examined the efficacy and safety of cefpodoxime proxetil. Cefpodoxime proxetil (at a dosage equivalent to 200mg of cefpodoxime) administered twice daily for 5 to 10 days was similar in clinical and bacteriological efficacy to the following: amoxicillin 500mg 3 times daily in the treatment of community-acquired pneumonia; intramuscular ceftri",
+        "journal": "Drugs",
+        "year": "1991",
+        "authors": [
+          "Geddes A M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bronchitis",
+          "Ceftizoxime",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Moraxella catarrhalis",
+          "Neisseriaceae Infections",
+          "Pneumococcal Infections",
+          "Prodrugs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1726206/"
+      },
+      {
+        "pmid": "18777713",
+        "title": "[Pneumonia--ambulatory management].",
+        "abstract": "",
+        "journal": "Praxis",
+        "year": "2008",
+        "authors": [
+          "Somaini Silvia Ulrich",
+          "Bonani Marco",
+          "Steurer-Stey Claudia"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Ambulatory Care",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Ceftriaxone",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18777713/"
+      },
+      {
+        "pmid": "2011407",
+        "title": "[Evaluation of ciprofloxacin versus amoxicillin + clavulanic acid or erythromycin for the empiric treatment of community-acquired pneumonia].",
+        "abstract": "For the empiric management of community-acquired pneumonia, ciprofloxacin (750 mg b.i.d.) was compared with two antibiotics frequently used in this indication, i.e., amoxicillin + clavulanic acid and erythromycin. One hundred and forty-two patients were randomized in this prospective study. Among them, the 63 patients with bacteriologically documented disease were evaluated. Clinical recovery was achieved in 73.3% of patients in the ciprofloxacin group (22/30) versus 81.8% of patients in the amoxicillin + clavulanic acid or erythromycin group (27/33) (non-significant difference). Clinical failures seen with ciprofloxacin were found to be correlated with recovery of Streptococcus pneumoniae. Ciprofloxacin is effective in pneumonia but should be used only in cases where Streptococcus pneumoniae can be excluded as the causative agent.",
+        "journal": "Pathologie-biologie",
+        "year": "1991",
+        "authors": [
+          "Mouton Y",
+          "Beuscart C",
+          "Leroy O",
+          "Ajana F",
+          "Charrel J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amoxicillin",
+          "Ciprofloxacin",
+          "Clavulanic Acids",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Male",
+          "Pneumonia, Pneumococcal",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2011407/"
+      },
+      {
+        "pmid": "18206596",
+        "title": "A comparative study of bacteremic and non-bacteremic pneumococcal pneumonia.",
+        "abstract": "Few attempts have been made to compare bacteremic and non-bacteremic pneumococcal pneumonia, mainly because it is difficult to gain agreement on which cases represent non-bacteremic pneumococcal pneumonia. Recently, an immunochromatographic assay for the detection of Streptococcus pneumoniae urinary antigen has been successfully evaluated for the diagnosis of pneumococcal pneumonia. The aim of our study was to examine and compare clinical and radiological features, risk factors, and outcome associated with bacteremic and non-bacteremic groups.",
+        "journal": "European journal of internal medicine",
+        "year": "2008",
+        "authors": [
+          "Jover Francisco",
+          "Cuadrado José-María",
+          "Andreu Lucio",
+          "Martínez Silvia",
+          "Cañizares Ruth"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Antigens, Bacterial",
+          "Bacteremia",
+          "Cephalosporins",
+          "Community-Acquired Infections",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18206596/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:50:33.693623",
+  "success": true,
+  "error_message": null
+}

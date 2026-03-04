@@ -1,0 +1,580 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Naproxen",
+    "disease": "migraine disorder",
+    "query_string": "Naproxen AND migraine disorder"
+  },
+  "data": {
+    "query": "Naproxen AND migraine disorder",
+    "results": [
+      {
+        "pmid": "27910087",
+        "title": "Menstrual Migraine and Treatment Options: Review.",
+        "abstract": "A review of treatment options for menstrual migraine.",
+        "journal": "Headache",
+        "year": "2017",
+        "authors": [
+          "Maasumi Kasra",
+          "Tepper Stewart J",
+          "Kriegler Jennifer S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Menstruation",
+          "Migraine Disorders",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27910087/"
+      },
+      {
+        "pmid": "39318200",
+        "title": "Sumatriptan-naproxen sodium in migraine: A review.",
+        "abstract": "Varied responses to acute migraine medications have been observed, with over one-third (34.5%) of patients reporting insufficient headache relief. Sumatriptan-naproxen sodium, a single, fixed-dose combination tablet comprising sumatriptan 85 mg and naproxen sodium 500 mg, was developed with the rationale of targeting multiple putative mechanisms involved in the pathogenesis of migraine to optimise acute migraine care.",
+        "journal": "European journal of neurology",
+        "year": "2024",
+        "authors": [
+          "Wilcha Robyn-Jenia",
+          "Afridi Shazia K",
+          "Barbanti Piero",
+          "Diener Hans Christoph",
+          "Jürgens Tim Patrick"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Female",
+          "Male",
+          "Young Adult",
+          "Acute Disease",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Migraine Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39318200/"
+      },
+      {
+        "pmid": "31413171",
+        "title": "Practice guideline update summary: Acute treatment of migraine in children and adolescents: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Headache Society.",
+        "abstract": "To provide evidence-based recommendations for the acute symptomatic treatment of children and adolescents with migraine.",
+        "journal": "Neurology",
+        "year": "2019",
+        "authors": [
+          "Oskoui Maryam",
+          "Pringsheim Tamara",
+          "Holler-Managan Yolanda",
+          "Potrebic Sonja",
+          "Billinghurst Lori"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Academies and Institutes",
+          "Drug Combinations",
+          "Headache",
+          "Migraine Disorders",
+          "Naproxen",
+          "Neurology",
+          "Research Report"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31413171/"
+      },
+      {
+        "pmid": "40238598",
+        "title": "Head-to-head relief: ubrogepant, rimegepant, and zavegepant in migraine treatment.",
+        "abstract": "Migraine, a significant cause of disability worldwide, heavily impacts daily functioning and quality of life. Despite various acute treatment options, including nonsteroidal anti-inflammatory drugs (NSAIDs) and triptans, patients experience limited relief or adverse effects. This review examines the efficacy and safety of gepants - ubrogepant, rimegepant, and zavegepant - in the acute treatment of migraine. We assessed phase II and III clinical trials, focusing on clinically relevant endpoints such as pain freedom and freedom from the most bothersome symptom at two hours post-treatment. We calculated the number needed to treat (NNT) to achieve significant endpoints for each gepant. Gepants are recommended for the acute treatment of migraine in individuals who do not respond to triptan monotherapy or combination therapy, who experience only partial effectiveness, or who cannot tolerate or have contraindications to triptans. The NNT values for achieving pain freedom at two hours were 9 f",
+        "journal": "Pain management",
+        "year": "2025",
+        "authors": [
+          "Pellesi Lanfranco",
+          "Jedie Budour",
+          "Barhum Fadia",
+          "Al-Abdullah Samah",
+          "Martelletti Paolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Migraine Disorders",
+          "Pyridines",
+          "Pyrroles",
+          "Piperidines",
+          "Anti-Inflammatory Agents, Non-Steroidal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40238598/"
+      },
+      {
+        "pmid": "25217187",
+        "title": "Breastfeeding and migraine drugs.",
+        "abstract": "Breastfeeding women may suffer from migraine. While we have many drugs for its treatment and prophylaxis, the majority are poorly studied in breastfeeding women. We conducted a review of the most common anti-migraine drugs (AMDs) and we determined their lactation risk.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "2014",
+        "authors": [
+          "Davanzo Riccardo",
+          "Bua Jenny",
+          "Paloni Giulia",
+          "Facchina Giulia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Analgesics, Non-Narcotic",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anticonvulsants",
+          "Antidepressive Agents",
+          "Breast Feeding",
+          "Calcium Channel Blockers",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25217187/"
+      },
+      {
+        "pmid": "25600718",
+        "title": "The acute treatment of migraine in adults: the american headache society evidence assessment of migraine pharmacotherapies.",
+        "abstract": "The study aims to provide an updated assessment of the evidence for individual pharmacological therapies for acute migraine treatment. Pharmacological therapy is frequently required for acutely treating migraine attacks. The American Academy of Neurology Guidelines published in 2000 summarized the available evidence relating to the efficacy of acute migraine medications. This review, conducted by the members of the Guidelines Section of the American Headache Society, is an updated assessment of evidence for the migraine acute medications. A standardized literature search was performed to identify articles related to acute migraine treatment that were published between 1998 and 2013. The American Academy of Neurology Guidelines Development procedures were followed. Two authors reviewed each abstract resulting from the search and determined whether the full manuscript qualified for review. Two reviewers studied each qualifying full manuscript for its level of evidence. Level A evidence r",
+        "journal": "Headache",
+        "year": "2015",
+        "authors": [
+          "Marmura Michael J",
+          "Silberstein Stephen D",
+          "Schwedt Todd J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Humans",
+          "Migraine Disorders",
+          "Serotonin Receptor Agonists",
+          "Societies, Medical"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25600718/"
+      },
+      {
+        "pmid": "26252584",
+        "title": "Acute Migraine Treatment.",
+        "abstract": "This article provides a systematic, evidence-based approach to acute medication choices for the patient with migraine.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2015",
+        "authors": [
+          "Becker Werner J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Dihydroergotamine",
+          "Humans",
+          "Migraine Disorders",
+          "Tryptamines",
+          "Vasoconstrictor Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26252584/"
+      },
+      {
+        "pmid": "26628293",
+        "title": "Sumatriptan/Naproxen Sodium: A Review in Migraine.",
+        "abstract": "Sumatriptan/naproxen sodium (Treximet®) is a fixed-dose combination of a serotonin 5-HT1B/1D receptor agonist (sumatriptan) and an NSAID (naproxen sodium), approved in the USA for the acute treatment of migraine with or without aura in adolescents and adults. In a randomized, phase 3 trial in adolescents, significantly more sumatriptan/naproxen sodium than placebo recipients were pain-free at 2 h. Similarly, in a pair of randomized phase 3 trials in adults, significantly more sumatriptan/naproxen sodium than placebo recipients had relief from migraine symptoms at 2 h, and the combination was more effective than individual components in terms of sustained (2-24 h) pain-free response rate. Sumatriptan/naproxen sodium was generally well tolerated, with ≤11 % of adolescents and ≤22 % of adults reporting treatment-related adverse events in the key clinical trials. The most common adverse reactions were nasopharyngitis, hot flushes and muscle tightness in adolescents, and dizziness, pain or ",
+        "journal": "Drugs",
+        "year": "2016",
+        "authors": [
+          "Syed Yahiya Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Drug Combinations",
+          "Humans",
+          "Migraine Disorders",
+          "Naproxen",
+          "Sumatriptan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26628293/"
+      },
+      {
+        "pmid": "21955195",
+        "title": "Evaluation of the use of sumatriptan-naproxen sodium for menstrual migraine and dysmenorrhea.",
+        "abstract": "Menstrual migraine (MM) is a form of headache that tends to occur with prolonged, intense and extremely disabling attacks in a short period around the menstrual cycle (usually 2 days before to 3 days after the onset of the menstrual flow). At least 50% of the female migraine population suffers from this subtype of migraine. The possible presence of other perimenstrual pain, such as dysmenorrhea, can make the attacks even more disabling. Since both of these conditions have a common pathological background consisting of a secretion of abnormally high levels of prostaglandins, it can be particularly useful to use a combination of sumatriptan, the progenitor of the triptans and the drug of choice in the treatment of migraine attack, and naproxen sodium, a potent inhibitor of prostaglandin biosynthesis. The combination of sumatriptan 85 mg and naproxen sodium 500 mg has been tested in women suffering from MM and dysmenorrhea, and this combination has been shown to achieve greater satisfacti",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2011",
+        "authors": [
+          "Allais Gianni",
+          "Castagnoli Gabellari Ilaria",
+          "Rolando Sara",
+          "Benedetto Chiara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Dysmenorrhea",
+          "Female",
+          "Humans",
+          "Menstrual Cycle",
+          "Migraine Disorders",
+          "Naproxen",
+          "Prostaglandins",
+          "Serotonin 5-HT1 Receptor Agonists",
+          "Sumatriptan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21955195/"
+      },
+      {
+        "pmid": "16109111",
+        "title": "Sumatriptan and naproxen sodium for the acute treatment of migraine.",
+        "abstract": "To evaluate the efficacy and tolerability of treatment with a combination of sumatriptan 50 mg (encapsulated) and naproxen sodium 500 mg administered concurrently in the acute treatment of migraine.",
+        "journal": "Headache",
+        "year": "2005",
+        "authors": [
+          "Smith Timothy R",
+          "Sunshine Abraham",
+          "Stark Stuart R",
+          "Littlefield Diane E",
+          "Spruill Susan E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Double-Blind Method",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Fatigue",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16109111/"
+      },
+      {
+        "pmid": "10487510",
+        "title": "Migraine in pregnancy.",
+        "abstract": "Migraine does not increase the risk for complications of pregnancy for the mother or for the fetus: the incidences of toxemia, miscarriages, abnormal labour, congenital anomalies, and stillbirths are comparable to those of the general population. Several retrospective studies have shown a tendency for migraine to improve with pregnancy. Between 60 and 70% of women either go into remission or improve significantly, mainly during the second and third trimesters. Women with migraine onset at menarche and those with perimenstrual migraine are more likely to go into remission during pregnancy. The migraine type does not seem to be a significant prognostic factor for improvement. However, in the small number of women (4-8%) whose migraines worsen with pregnancy, migraine with aura appears to be overrepresented. In a small number of cases (1.3-16.5%), migraine appears to start with pregnancy, often in the first trimester; these headaches involve a higher proportion of migraine with aura. Mana",
+        "journal": "Neurology",
+        "year": "1999",
+        "authors": [
+          "Aubé M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Migraine Disorders",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10487510/"
+      },
+      {
+        "pmid": "28129702",
+        "title": "Triptans and migraine: advances in use, administration, formulation, and development.",
+        "abstract": "Recent triptan development has focused on new administration methods and formulations, triptan combination therapies, treatment in menstrually related migraines, and novel serotonin receptor subtype agonists (5HTf). Areas covered: Clinical triptan research related to migraine was reviewed, analyzing EMBASE and PUBMED data bases from 01/01/2011 to 06/29/2016, with a focus on clinical trials of class 1 or 2 level of evidence. There have been advances in drug combination therapies, as well as administration devices that aid in ease of use, increase efficacy, and decrease adverse reactions. Some new agents and devices have similar or less efficacy compared to previous generic triptan formulations. New agents have action at the 5HTf receptor subtype, and avoid vascular side effects of classic 5Ht1b/d agonists, however adverse reactions may limit their clinic use. Long half-life triptans, frovatriptan and naratriptan, do appear to have good benefit in menstral related migraine. Expert opinio",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2017",
+        "authors": [
+          "Macone Amanda E",
+          "Perloff Michael D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbazoles",
+          "Humans",
+          "Migraine Disorders",
+          "Piperidines",
+          "Serotonin 5-HT1 Receptor Agonists",
+          "Serotonin Receptor Agonists",
+          "Tryptamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28129702/"
+      },
+      {
+        "pmid": "20236345",
+        "title": "Meta-analysis of the efficacy and safety of naproxen sodium in the acute treatment of migraine.",
+        "abstract": "To assess the efficacy and safety of naproxen sodium in the treatment of acute migraine attacks.",
+        "journal": "Headache",
+        "year": "2010",
+        "authors": [
+          "Suthisisang Chuthamanee C",
+          "Poolsup Nalinee",
+          "Suksomboon Naeti",
+          "Lertpipopmetha Vorachart",
+          "Tepwitukgid Bhakanit"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Double-Blind Method",
+          "Humans",
+          "Migraine Disorders",
+          "Naproxen",
+          "Randomized Controlled Trials as Topic",
+          "Secondary Prevention",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20236345/"
+      },
+      {
+        "pmid": "26865183",
+        "title": "The Pharmacology of Indomethacin.",
+        "abstract": "Over 50 years ago, indomethacin emerged as an extremely potent non-steroidal anti-inflammatory drug (NSAID) during a massive effort to find effective anti-inflammatory and analgesic medications. The 1960s saw acetic acid derivatives developed into indomethacin, diclofenac, and sulindac, and propionic derivatives into ibuprofen, naproxen, and ketoprofen. Indomethacin was likely the most potent of these compounds and one of the earliest to enter clinical trials. It is not surprising that indomethacin was among the first of the NSAID medications to be used in treatment of migraine and for headaches that eventually became known as \"indomethacin-responsive\" headache disorders. Potential pharmacokinetic and bio-mechanistic differences between indomethacin and other NSAIDs are of great clinical and research interest to explain this observation.",
+        "journal": "Headache",
+        "year": "2016",
+        "authors": [
+          "Lucas Sylvia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Central Nervous System",
+          "Eating",
+          "Humans",
+          "Indomethacin",
+          "Tissue Distribution"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26865183/"
+      },
+      {
+        "pmid": "23759429",
+        "title": "Managing migraine and other headache syndromes in those over 50.",
+        "abstract": "Migraine in an older person may appear with sensory or motor phenomena (\"late-life migraine accompaniments\"), so that it may be confused with transient ischemic attack or stroke. An older patient may have cervicogenic headache in addition to migraine. Medication overuse headache is just as much of a problem in older patients as it is in younger ones. Abdominal migraine without headache can be seen in older adults as a migraine equivalent, just as it can occur in children. The most effective drugs for migraine prophylaxis in young people (divalproex, topiramate, metoprolol and propranolol) are similarly effective for those who are over the age of 50. Oral rescue drugs, including naproxen and hydroxyzine, are also useful in older adults. We need to remind older adults about the dangers of excessive use of caffeine in coffee, tea and energy drinks, since these substances can lead to daily HA and migraine equivalents.",
+        "journal": "Maturitas",
+        "year": "2013",
+        "authors": [
+          "Dees Brett",
+          "Coleman-Jackson Rhonda",
+          "Hershey Linda A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Headache Disorders",
+          "Humans",
+          "Hydroxyzine",
+          "Middle Aged",
+          "Migraine Disorders",
+          "Naproxen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23759429/"
+      },
+      {
+        "pmid": "21521204",
+        "title": "Sumatriptan-naproxen sodium for menstrual migraine and dysmenorrhea: satisfaction, productivity, and functional disability outcomes.",
+        "abstract": "To evaluate the impact of a sumatriptan/naproxen sodium combination tablet on patient satisfaction, productivity, and functional disability in menstrual migraine treated during the mild pain phase of a single menstrual migraine attack associated with dysmenorrhea.",
+        "journal": "Headache",
+        "year": "2011",
+        "authors": [
+          "Cady Roger K",
+          "Diamond Merle L",
+          "Diamond Michael P",
+          "Ballard Jeanne E",
+          "Lener Michelle E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Analgesics",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Dysmenorrhea",
+          "Female",
+          "Humans",
+          "Migraine Disorders",
+          "Naproxen",
+          "Patient Satisfaction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21521204/"
+      },
+      {
+        "pmid": "24579886",
+        "title": "Relief of menstrual symptoms and migraine with a single-tablet formulation of sumatriptan and naproxen sodium.",
+        "abstract": "Dysmenorrhea and menstrual migraine may share a common pathogenic pathway. Both appear to be mediated, in part, by an excess of prostaglandin production that occurs during menstruation.",
+        "journal": "Journal of women's health (2002)",
+        "year": "2014",
+        "authors": [
+          "Martin Vincent T",
+          "Ballard Jeanne",
+          "Diamond Michael P",
+          "Mannix Lisa K",
+          "Derosier Frederick J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Analgesics",
+          "Drug Combinations",
+          "Dysmenorrhea",
+          "Female",
+          "Humans",
+          "Logistic Models",
+          "Migraine Disorders",
+          "Naproxen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24579886/"
+      },
+      {
+        "pmid": "24648004",
+        "title": "Adiponectin and migraine: systematic review of clinical evidence.",
+        "abstract": "Although the pathogenesis of migraine is very complex and has not been thoughtfully elucidated, general consensus exists to date that this condition should be considered a primary neurovascular disorder with an important inflammatory component. Owing to epidemiological evidence of increased risk of migraine in overweight and obese subjects and to the inverse relationship that exists between serum adiponectin concentration and obesity, we performed an electronic search on Medline, Scopus and Web of Science, using the keywords \"migraine\" and \"adiponectin\" with no language or date restriction to explore the existence of an association between serum adiponectin and migraine. According to our search criteria, five studies were finally included in this systematic review, four cross-sectional (totaling 300 patients with migraine and 177 controls) and one interventional. Collectively, the results of our analysis suggest that a link between serum adiponectin and migraine remains elusive, at the",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "year": "2014",
+        "authors": [
+          "Lippi Giuseppe",
+          "Meschi Tiziana",
+          "Mattiuzzi Camilla",
+          "Borghi Loris",
+          "Targher Giovanni"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adiponectin",
+          "Adult",
+          "Comorbidity",
+          "Cross-Sectional Studies",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Migraine Disorders",
+          "Naproxen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24648004/"
+      },
+      {
+        "pmid": "24021029",
+        "title": "SumaRT/Nap vs naproxen sodium in treatment and disease modification of migraine: a pilot study.",
+        "abstract": "This pilot study explored the potential for 2 recognized acute migraine medications, 85 mg of sumatriptan plus 500 mg of naproxen sodium in a combination tablet (SumaRT/Nap) and 500 mg of naproxen sodium, to treat and modify the disease progression of migraine. In other words, can these medications both abort an acute attack of migraine and reduce the number of future migraine attacks?",
+        "journal": "Headache",
+        "year": "2014",
+        "authors": [
+          "Cady Roger",
+          "O'Carroll Phillip",
+          "Dexter Kent",
+          "Freitag Fred",
+          "Shade Candace L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Drug Combinations",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24021029/"
+      },
+      {
+        "pmid": "8496057",
+        "title": "Disposition of naproxen after oral administration during and between migraine attacks.",
+        "abstract": "Naproxen is an anti-inflammatory drug widely used in the management of pain and in the treatment of migraine and headache. As gastrointestinal disturbances are a common feature of migraine, the aim of this study was to evaluate the absorption and the efficacy of naproxen administered during migraine attacks. Ten patients were treated with 500 mg of a soluble form of naproxen during and between migraine attacks. Clinical parameters and drug plasma levels were recorded at scheduled times. Pain reduction, from severe to mild was evident by 6.5 +/- 3.4 hours and the total pain score showed a reduction from 2 hours onwards. Pharmacokinetic data showed a slight delay in drug absorption during attacks (absorption half-life and time of maximum drug concentration were increased during attacks), but overall bioavailability of naproxen, as reflected by area under the curve (AUC) and maximum plasma drug concentration were unchanged. Since pain relief was reported, it may be concluded that delayed ",
+        "journal": "Headache",
+        "year": "1993",
+        "authors": [
+          "Pini L A",
+          "Bertolotti M",
+          "Trenti T",
+          "Vitale G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chromatography, High Pressure Liquid",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Migraine Disorders",
+          "Naproxen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8496057/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:08:25.730801",
+  "success": true,
+  "error_message": null
+}

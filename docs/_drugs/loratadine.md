@@ -6,7 +6,7 @@ drug_name: "Loratadine"
 kg_predictions: 297
 dl_predictions: 18
 evidence_level: "L1"
-indication_count: 297
+indication_count: 5
 brands: []
 permalink: /drugs/loratadine/
 ---

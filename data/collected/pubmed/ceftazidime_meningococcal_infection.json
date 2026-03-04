@@ -1,0 +1,487 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ceftazidime",
+    "disease": "meningococcal infection",
+    "query_string": "Ceftazidime AND meningococcal infection"
+  },
+  "data": {
+    "query": "Ceftazidime AND meningococcal infection",
+    "results": [
+      {
+        "pmid": "3519175",
+        "title": "Bacterial meningitis. Rational selection and use of antibacterial drugs.",
+        "abstract": "Bacterial meningitis is a continuing challenge. This applies especially to infections in the neonate and the elderly, and to those which are hospital acquired. Factors which maintain the high morbidity and significant mortality from this disease include microbial virulence, a limited host response to infection within the cerebrospinal fluid (CSF), where phagocyte function is often impaired and complement and opsonic antibody activity are deficient, as well as delays in diagnosis and treatment. Added to these adverse factors is the pharmacokinetic hurdle of the 'blood-brain barrier', which limits drug concentrations achievable within the CSF. Inflammatory changes certainly improve the penetration of many agents, especially the penicillins and cephalosporins, but it must be remembered that with resolution of inflammation, achievable concentrations decline. Hence, the necessity for continuing parenteral administration of antibiotics throughout the treatment period. Although penicillin G (",
+        "journal": "Drugs",
+        "year": "1986",
+        "authors": [
+          "Whitby M",
+          "Finch R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Bacterial Infections",
+          "Cephalosporins",
+          "Chloramphenicol",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Kinetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3519175/"
+      },
+      {
+        "pmid": "3896704",
+        "title": "Pharmacokinetics and cerebrospinal fluid penetration of ceftazidime in children with meningitis.",
+        "abstract": "The single dose pharmacokinetics and cerebrospinal fluid (CSF) penetration of ceftazidime were determined in 10 children with bacterial meningitis. Serum ceftazidime pharmacokinetics showed a distinct age dependence in which the clearance in children less than 1 month of age was markedly reduced. Ceftazidime concentrations in CSF, which ranged from 1.4-8.5 micrograms/ml, exceeded the minimum bactericidal concentrations for infecting pathogens throughout the 8-hour sampling period. These concentrations were found to be independent of CSF cell count, protein concentration or the day of therapy on which the study was performed. The ratio of CSF to serum ceftazidime concentration increased with time, suggesting that ceftazidime was cleared more slowly from CSF than from peripheral blood. Our data support the initiation of a study comparing the efficacy of ceftazidime to conventional therapy in children with bacterial meningitis.",
+        "journal": "Developmental pharmacology and therapeutics",
+        "year": "1985",
+        "authors": [
+          "Blumer J L",
+          "Aronoff S C",
+          "Myers C M",
+          "O'Brien C A",
+          "Klinger J D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Ceftazidime",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Kinetics",
+          "Male",
+          "Meningitis",
+          "Meningitis, Haemophilus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3896704/"
+      },
+      {
+        "pmid": "15234151",
+        "title": "Neisseria meningitidis endophthalmitis.",
+        "abstract": "",
+        "journal": "Ophthalmology",
+        "year": "2004",
+        "authors": [
+          "Zacks David N"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ceftazidime",
+          "DNA, Bacterial",
+          "Drug Therapy, Combination",
+          "Endophthalmitis",
+          "Eye Infections, Bacterial",
+          "Humans",
+          "Male",
+          "Meningococcal Infections",
+          "Neisseria meningitidis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15234151/"
+      },
+      {
+        "pmid": "3523458",
+        "title": "Treatment of bacterial meningitis with ceftazidime.",
+        "abstract": "Ceftazidime was prospectively evaluated in the treatment of bacterial meningitis in 19 pediatric patients. Haemophilus influenzae type b (HIB) was the etiologic agent in 17 patients, and Streptococcus pneumonia and Neisseria meningitidis were the etiologic agents in one patient each. Ceftazidime was administered intravenously in a dosage of 150 mg/kg/day divided into eight hourly doses for a mean of 15 days (range, 14 to 22 days) for H. influenzae type b meningitis. The clinical and microbiologic response was appropriate in all cases. The mean ceftazidime CSF concentration was 6.7 micrograms/ml at approximately 2 hours following iv infusions. This concentration was 16- to greater than 100-fold the minimal bactericidal concentration determined for the isolated pathogens. These preliminary observations support ceftazidime as a candidate cephalosporin for the treatment of bacterial meningitis caused by H. influenzae. Additional study is required to further define its role in meningitis ca",
+        "journal": "Pediatric infectious disease",
+        "year": "1986",
+        "authors": [
+          "Hatch D",
+          "Overturf G D",
+          "Kovacs A",
+          "Forthal D",
+          "Leong C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ceftazidime",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Meningitis",
+          "Meningitis, Haemophilus",
+          "Meningitis, Meningococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3523458/"
+      },
+      {
+        "pmid": "12887674",
+        "title": "Red eyes as the initial presentation of systemic meningococcal infection.",
+        "abstract": "The present paper is a report of a 14-month-old boy who presented with fever, coryzal symptoms and red eyes. The patient developed a generalized tonic clonic convulsion on day 2 of his illness. Ophthalmological assessment demonstrated bilateral hypopyon and vitreous opacity resulting from endophthalmitis. Cerebrospinal fluid was positive for Neisseria meningitidis (A, C, Y, W 135) by latex agglutination. He was treated with high dose intravenous cefotaxime and intravitreal ceftazidime. He made good recovery and his vision was preserved. In view of the potential morbidity and mortality associated with systemic meningococcal infection, the presence of red eye and hypopyon provides important diagnostic clues indicating the need to investigate beyond superficial conjunctivitis. It should prompt the clinician to recognize endopthalmitis early and accurately diagnose this serious disease.",
+        "journal": "Journal of paediatrics and child health",
+        "year": "2003",
+        "authors": [
+          "Yeung W L",
+          "Yam K L",
+          "Chan W M",
+          "Hui J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Cefotaxime",
+          "Ceftazidime",
+          "Endophthalmitis",
+          "Humans",
+          "Infant",
+          "Male",
+          "Meningococcal Infections",
+          "Neisseria meningitidis",
+          "Vitreous Body"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12887674/"
+      },
+      {
+        "pmid": "3523457",
+        "title": "Ceftazidime vs. standard therapy for pediatric meningitis: therapeutic, pharmacologic and epidemiologic observations.",
+        "abstract": "One hundred patients ages 1 month to 15 years received either ceftazidime (CZ) at a dose of 150 mg/kg/day divided every 8 hours or conventional treatment with chloramphenicol and ampicillin (CA). Seventy-eight had isolates recovered from the cerebrospinal fluid: 40 (51%) were Haemophilus influenzae (all ampicillin-susceptible); 16 (21%) were Streptococcus pneumoniae; 14 (18%) were Neisseria meningitidis; 3 (4%) were salmonellae; 1 (2%) was Pseudomonas; and 1 (2%) was Group B Streptococcus. Six patients with negative cerebrospinal fluid culture had positive latex agglutination (two H. influenzae, three N. meningitidis, one S. pneumoniae). Sixty-one patients had positive blood cultures. CZ inhibited 100% of H. influenzae at 0.78 micrograms/ml, S. pneumoniae at 0.39, N. meningitidis at 0.04 and salmonellae at 0.39 micrograms/ml. The mean peak serum concentration of CZ was 36.4 micrograms/ml with a mean cerebrospinal fluid level of 7.4 micrograms/ml. If one eliminates from the statistics t",
+        "journal": "Pediatric infectious disease",
+        "year": "1986",
+        "authors": [
+          "Rodriguez W J",
+          "Puig J R",
+          "Khan W N",
+          "Feris J",
+          "Gold B G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ampicillin",
+          "Ceftazidime",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3523457/"
+      },
+      {
+        "pmid": "28859312",
+        "title": "Phase variation of DNA methyltransferases and the regulation of virulence and immune evasion in the pathogenic Neisseria.",
+        "abstract": "The pathogenic Neisseria provide textbook examples of phase variation: the high frequency, random and reversible switching of gene expression. Typically, phase variable gene expression is observed in genes required for the expression of surface proteins and carbohydrate structures. All Neisseria gonorrhoeae and N. meningitidis strains also express phase variable DNA methyltransferases that are components of DNA restriction-modification systems. Phase variation of these DNA methyltransferases (Mod) alters global DNA methylation patterns. The change in DNA methylation due to phase variation events alters expression of a regulon of genes, called a phasevarion, and results in differentiation of the population into cells with two distinct phenotypes. For example, in N. meningitidis switching of the modA11 phasevarion alters expression of immunogenic outer membrane proteins such as lactoferrin-binding protein, and also modulates sensitivity to ceftazidime and ciprofloxacin. The modD1 phaseva",
+        "journal": "Pathogens and disease",
+        "year": "2017",
+        "authors": [
+          "Seib Kate L",
+          "Jen Freda E-C",
+          "Scott Adeana L",
+          "Tan Aimee",
+          "Jennings Michael P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Outer Membrane Proteins",
+          "Ceftazidime",
+          "Ciprofloxacin",
+          "DNA Methylation",
+          "DNA Modification Methylases",
+          "Epigenesis, Genetic",
+          "Gene Expression Regulation, Bacterial",
+          "Gonorrhea",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28859312/"
+      },
+      {
+        "pmid": "9850506",
+        "title": "A ring hypopyon in a patient with meningococcal endophthalmitis: a case report and review of the literature.",
+        "abstract": "",
+        "journal": "Journal of pediatric ophthalmology and strabismus",
+        "year": "1998",
+        "authors": [
+          "Gonzalez G A",
+          "Whitcher J P",
+          "Irvine A R",
+          "O'Brien J M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abscess",
+          "Anterior Chamber",
+          "Ceftazidime",
+          "Child",
+          "Dexamethasone",
+          "Drug Therapy, Combination",
+          "Endophthalmitis",
+          "Eye Infections, Bacterial",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9850506/"
+      },
+      {
+        "pmid": "11237833",
+        "title": "Active immunization with a detoxified Escherichia coli J5 lipopolysaccharide group B meningococcal outer membrane protein complex vaccine protects animals from experimental sepsis.",
+        "abstract": "The passive infusion of antibodies elicited in rabbits with a detoxified J5 lipopolysaccharide (LPS)/group B meningococcal outer membrane protein complex vaccine protected neutropenic rats from heterologous lethal gram-negative bacterial infection. In this study, active immunization was studied in neutropenic rats infected with Pseudomonas aeruginosa, in the presence or absence of ceftazidime therapy, and with Klebsiella pneumoniae. This vaccine elicited a > 200-fold increase in anti-J5 LPS antibody, which remained elevated throughout the duration of cyclophosphamide-induced neutropenia and for < or = 3 months. There was improved survival among immunized versus control animals: 48% (13/28) versus 7% (2/29) in Pseudomonas-challenged rats; 61% (11/18) versus 0% (0/10) in Pseudomonas- and ceftazidime-treated rats; and 64% (9/14) versus 13% (2/15) in Klebsiella-challenged rats (P < 0.01 for each comparison). Immunized animals had lower levels of bacteria in organs and lower levels of circu",
+        "journal": "The Journal of infectious diseases",
+        "year": "2001",
+        "authors": [
+          "Cross A S",
+          "Opal S M",
+          "Warren H S",
+          "Palardy J E",
+          "Glaser K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Bacterial",
+          "Bacterial Outer Membrane Proteins",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Cyclophosphamide",
+          "Disease Models, Animal",
+          "Disease-Free Survival",
+          "Endotoxins",
+          "Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11237833/"
+      },
+      {
+        "pmid": "25118647",
+        "title": "In silico analysis of different generation β lactams antibiotics with penicillin binding protein-2 of Neisseria meningitidis for curing meningococcal disease.",
+        "abstract": "Neisseria meningitidis is a gram negative, diplococcic pathogen responsible for the meningococcal disease and fulminant septicemia. Penicillin-binding proteins-2 (PBPs) is crucial for the cell wall biosynthesis during cell proliferation of N. meningitidis and these are the target for β-lactam antibiotics. For many years penicillin has been recognized as the antibiotic for meningococcal disease but the meningococcus has seemed to be antibiotic resistance. In the present work we have verified the molecular interaction of Penicillin binding protein-2 N. meningitidis to different generation of β-lactam antibiotics and concluded that the third generation of β-lactam antibiotics shows efficient binding with Penicillin binding protein-2 of N. meningitidis. On the basis of binding efficiency and inhibition constant, ceftazidime emerged as the most efficient antibiotic amongst the other advanced β-lactam antibiotics against Penicillin-binding protein-2 of N. meningitidis.",
+        "journal": "Interdisciplinary sciences, computational life sciences",
+        "year": "2014",
+        "authors": [
+          "Tripathi Vijay",
+          "Tripathi Pooja",
+          "Srivastava Navita",
+          "Gupta Dwijendra"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Anti-Bacterial Agents",
+          "Bacterial Proteins",
+          "Ceftazidime",
+          "Cell Wall",
+          "Computer Simulation",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Meningococcal Infections",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25118647/"
+      },
+      {
+        "pmid": "15008315",
+        "title": "Purpura fulminans due to E. coli septicemia.",
+        "abstract": "",
+        "journal": "Wiener klinische Wochenschrift",
+        "year": "2004",
+        "authors": [
+          "Huemer Georg M",
+          "Bonatti Hugo",
+          "Dunst Karin M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Ceftazidime",
+          "Debridement",
+          "Diagnosis, Differential",
+          "Drug Therapy, Combination",
+          "Escherichia coli Infections",
+          "Floxacillin",
+          "Hepatolenticular Degeneration",
+          "Humans",
+          "Liver Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15008315/"
+      },
+      {
+        "pmid": "17387516",
+        "title": "Orchitis as a rare complication of meningococcemia in a young infant.",
+        "abstract": "",
+        "journal": "European journal of pediatrics",
+        "year": "2007",
+        "authors": [
+          "Tsai Ming-Horng",
+          "Lien Reyin",
+          "Chao Hsun-Chin",
+          "Huang Hsuan-Rong",
+          "Chu Shih-Ming"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ceftazidime",
+          "Humans",
+          "Infant",
+          "Male",
+          "Meningococcal Infections",
+          "Orchitis",
+          "Ultrasonography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17387516/"
+      },
+      {
+        "pmid": "20118079",
+        "title": "Neonatal intrauterine infection with Neisseria meningitidis B.",
+        "abstract": "",
+        "journal": "Clinical pediatrics",
+        "year": "2010",
+        "authors": [
+          "Kurlenda Julianna",
+          "Kaminska-Pabich Agata",
+          "Grinholc Mariusz"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Cefotaxime",
+          "Ceftazidime",
+          "Cesarean Section",
+          "Clavulanic Acid",
+          "Female",
+          "Fever",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20118079/"
+      },
+      {
+        "pmid": "2510596",
+        "title": "Comparative activity in vitro of 16 antimicrobial agents against penicillin-susceptible meningococci and meningococci with diminished susceptibility to penicillin.",
+        "abstract": "Broad-spectrum cephalosporins were very active against strains of Neisseria meningitidis with both penicillin susceptibility and diminished penicillin susceptibility. Ceftriaxone was the most active antibiotic. Increases in MIC for 90% of meningococci with diminished susceptibility to penicillin of greater than or equal to 16-fold were observed for amdinocillin, cefuroxime, aztreonam, and imipenem; 2-fold increases were observed for ceftazidime, mezlocillin, and piperacillin. No differences were observed for non-beta-lactam antibiotics.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1989",
+        "authors": [
+          "Pérez Trallero E",
+          "Garcia Arenzana J M",
+          "Ayestaran I",
+          "Muñoz Baroja I"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Humans",
+          "Meningitis, Meningococcal",
+          "Microbial Sensitivity Tests",
+          "Neisseria meningitidis",
+          "Penicillin Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2510596/"
+      },
+      {
+        "pmid": "9549552",
+        "title": "The choice of antibacterial drugs.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "1998",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Cefotaxime",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Community-Acquired Infections",
+          "Costs and Cost Analysis",
+          "Cross Infection",
+          "Drug Resistance, Microbial",
+          "Drug Resistance, Multiple"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9549552/"
+      },
+      {
+        "pmid": "2582913",
+        "title": "[The penetration of cephalosporins across the blood-brain barrier and its clinical significance].",
+        "abstract": "The penetration of Cefuroxime (CXM), Ceftazidime (CTZ), Cefotaxime (CTX), Ceftizoxime (CZX), and Ceftriaxone (CTRX) across the blood-brain barrier was studied in 119 patients with or without meningitis after an intravenous injection of 2 grams. Cephalosporins were undetectable or their concentrations very low in the cerebrospinal fluid (CSF), when there was no inflammation in the meninges. On the contrary, the mean CSF concentrations of cephalosporins were 2.21-5.36 micrograms/ml and the CSF/serum ratios 3.73-31.80% in acute stage of purulent meningitis. The CSF levels of all the five cephalosporins were much higher than the mean MICs of the common pathogens of bacterial meningitis as well as that of Enterobacteriaceae. It is thus shown that these five new cephalosporins are useful for treatment of meningitis including those caused by gram-negative bacilli.",
+        "journal": "Zhonghua nei ke za zhi",
+        "year": "1989",
+        "authors": [
+          "Zhang Y Y",
+          "Wu P J",
+          "Zhang Q"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Blood-Brain Barrier",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2582913/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:01:28.132394",
+  "success": true,
+  "error_message": null
+}

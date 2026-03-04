@@ -1,0 +1,936 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ezetimibe",
+    "disease": "hyperlipidemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01644474",
+      "title": "A Randomized, Double-Blind, Active-Controlled, Parallel-Group Study to Evaluate the Efficacy And Safety of SAR236553/REGN727 Over 24 Weeks in Patients With Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-07",
+      "country": "Netherlands, Belgium, Finland, United States",
+      "enrollment": 103,
+      "brief_summary": "Alirocumab (SAR236553/REGN727) is a fully human monoclonal antibody that binds PCSK9 (proprotein convertase subtilisin/kexin type 9).\n\nPrimary Objective of the study:\n\nTo demonstrate the reduction of low-density lipoprotein cholesterol (LDL-C) by alirocumab in comparison with ezetimibe after 24 weeks of treatment in participants with hypercholesterolemia.\n\nSecondary Objectives:\n\n* To evaluate the effect of alirocumab in comparison with ezetimibe on LDL-C at other time points\n* To evaluate the ef",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants with hypercholesterolemia\n\nExclusion criteria:\n\n* Age \\< 18 or legal age of adulthood, whichever was greater\n* LDL-C \\< 100 mg/dL (\\< 2.59 mmol/L) or \\> 190 mg/dL (\\> 4.9 mmol/L)\n* Fasting serum triglycerides (TG) \\> 400 mg/dL (\\> 4.52 mmol/L)\n* Known history of h",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent-to-Treat (ITT) Analysis"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01644474"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00965055",
+      "title": "Atorvastatin vs. Atorvastatin/Ezetimibe in Patients With Hypo-response to Initial Dose Statin Therapy",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-09",
+      "completion_date": "2012-09",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "Response to statin therapy for elevated low density lipoprotein is variable and may be influenced by cholesterol absorption. This study will evaluate whether combination therapy with atorvastatin/ezetimibe will be superior to atorvastatin alone in subjects who have less than 25% LDL reduction on starting dose statin (eg, atorvastatin 10 mg daily or simvastatin 20 mg daily).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients will need to have an LDL-C level of 130 mg/dl or greater without treatment.\n* They must have demonstrated an initial LDL-C reduction of less than 25% on 10 mg of atorvastatin or 20 mg of simvastatin.\n* Eligible patients will be those deemed by their physicians to be e",
+      "endpoints": [
+        "LDL-C Reduction"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT00965055"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06450366",
+      "title": "A Phase 3, Randomized, Double-Blind Study to Evaluate the Efficacy and Safety of MK-0616 Compared With Ezetimibe or Bempedoic Acid or Ezetimibe and Bempedoic Acid in Adults With Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2024-07-08",
+      "completion_date": "2025-03-28",
+      "country": "Israel, France, Spain, Taiwan, United Kingdom, Canada, Argentina, United States",
+      "enrollment": 301,
+      "brief_summary": "The main purpose of this study is to assess whether enlicitide decanoate is superior to ezetimibe or bempedoic acid or ezetimibe + bempedoic acid in reducing LDL-C in participants with hypercholesterolemia, and to evaluate its safety and tolerability. The primary study hypotheses are enlicitide decanoate is superior to ezetimibe, bempedoic acid, and ezetimibe + bempedoic acid on mean percent change from baseline in LDL-C at week 8.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has either a) history of a major atherosclerotic cardiovascular disease (ASCVD) event or b) if no history of a major ASCVD event, has intermediate to high risk for development of a first major ASCVD event\n* Has fasted lipid values (evaluated by the central laboratory) at Visit",
+      "endpoints": [
+        "Mean Percent Change from Baseline in LDL-C at Day 56"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT06450366"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04862260",
+      "title": "A Phase 1 Feasibility Study of Cholesterol Metabolism Reprogramming (Evolocumab, Atorvastatin and Ezetimibe) in Combination With the Standard of Care in Patients With Advanced or Metastatic Pancreatic Adenocarcinoma",
+      "phase": "EARLY_PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-10-04",
+      "completion_date": "2026-12-31",
+      "country": "Canada",
+      "enrollment": 3,
+      "brief_summary": "Cardiovascular diseases and cancers, the two leading causes of death in Canada, require cholesterol to sustain their progression. All cells require cholesterol, but cancer cells have much higher needs to sustain growth, division and metastasis. The availability of new cholesterol-lowering drugs developed to protect patients from heart diseases has resulted in unprecedented low levels of cholesterol. The combination of atorvastatin, ezetimibe and Repatha, which are 3 cholesterol-lowering drugs us",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be eligible to this trial, patients must fulfill the following inclusion criteria:\n\n1. Have a histologically confirmed, treatment-naive locally advanced and inoperable (LaiPDAC) or metastatic pancreatic ductal adenocarcinoma (mPDAC).\n2. Be at least 18 years or older at the ti",
+      "endpoints": [
+        "Safety as measured by the rate of adverse events",
+        "Characterization of dose-limiting toxicities"
+      ],
+      "sponsor": "CHU de Quebec-Universite Laval",
+      "url": "https://clinicaltrials.gov/study/NCT04862260"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01890889",
+      "title": "A Double-blinded, Placebo-controlled Randomized Trial Assessing the Extent to Which Consumption of Two Different Amounts of a Non-Pharmaceutical Food Supplement Can Improve Cardiovascular Health",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2013-07",
+      "completion_date": "2013-12",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of a food-source nutrient containing bitter orange by comparing changes 45 blood chemistries and self-reported quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* be an English-speaking male or female at least 18 years of age;\n* have a total cholesterol level between 200 mg/dL and 250mg/dL\n* have a LDL level between 100 mg/dL and 160 mg/dL\n* not have allergic reactions to eggs or egg products\n* not have consumed cholesterol-lowering dru",
+      "endpoints": [
+        "Change from baseline in Total Cholesterol and LDL levels at 30 days",
+        "Change from baseline in Total Cholesterol and LDL levels at 60 days",
+        "Change from mid-point in Total Cholesterol and LDL levels at 60 days"
+      ],
+      "sponsor": "Integrative Health Technologies, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01890889"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00653835",
+      "title": "SCH 58235: A Multicenter, Randomised, Parallel Groups, Placebo-Controlled Study Comparing The Efficacy, Safety, and Tolerability Of The Daily Co-Administration of Ezetimibe 10 mg With Simvastatin 20 mg vs Ezetimibe Placebo With Simvastatin 20 mg in Untreated Subjects With Primary Hypercholesterolaemia And Coronary Heart Disease (Protocol P03435)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-09-01",
+      "completion_date": "2004-08-01",
+      "country": "N/A",
+      "enrollment": 153,
+      "brief_summary": "This study will assess whether co-administration of ezetimibe 10 mg with simvastatin 20 mg will be more effective than treatment with simvastatin 20 mg alone in reducing LDL-C concentrations when administered for 6 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>=18 years and \\<= 75 years of age\n* LDL-C concentration \\>= 3.3 mmol/L (130 mg/dL) to \\<= 4.9 mmol/L (190 mg/dL) at baseline.\n* Triglyceride concentration \\<3.99 mmol/L (350 mg/dL) at baseline.\n* Documented coronary heart disease (CHD), which will include one or more of the ",
+      "endpoints": [
+        "Percent change in LDL-C from baseline to endpoint."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00653835"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01070953",
+      "title": "Re-examination Study for General Drug Use to Assess the Safety and Efficacy Profile of EZETROL® in Usual Practice",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2010-07",
+      "country": "N/A",
+      "enrollment": 4467,
+      "brief_summary": "This survey is conducted for preparing application materials for re-examination under the Pharmaceutical Affairs Laws and its Enforcement Regulation, its aim is to reconfirm the clinical usefulness of EZETROL® through collecting the safety information according to the Re-examination Regulation for New Drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants Who Receives EZETROL® In Usual Medical Practice",
+      "endpoints": [
+        "Participants With Any Clinical and/or Laboratory Adverse Experience While Being Treated With EZETROL® Within 14 Days After Treatment Discontinuation",
+        "Mean Percent Change From Baseline to Treatment in Lipid Parameters",
+        "Overall Efficacy Evaluation of EZETROL®"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01070953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00650819",
+      "title": "A Multicenter, Double-blind, Randomized, Active-controlled Parallel Groups Study Comparing The Efficacy and Safety of The Daily Co-Administration of Ezetimibe 10 mg With Simvastatin 20 mg Vs Simvastatin Or Ezetimibe Alone in Subjects With Primary Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-06-01",
+      "completion_date": "2005-02-01",
+      "country": "N/A",
+      "enrollment": 240,
+      "brief_summary": "This is a multicenter, randomized, double blind; active-controlled parallel groups study enrolling subjects with primary hypercholesterolemia. Subjects receive ezetimibe, simvastatin, or the combination once daily for 8 weeks to determine the effect on LDL-cholesterol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must demonstrate their willingness to participate in the study and comply with its procedures by signing a written informed consent.\n* Subjects must be \\>= 18 years and \\<= 75 years of age.\n* Subjects with Primary Hypercholesterolemia must be finished the Lab test lis",
+      "endpoints": [
+        "Percent change from baseline in LDL-C concentration."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00650819"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00267267",
+      "title": "Phase 3, Open-Label, Multi-Center, Double-Blind, Randomized, Parallel Group Study Efficacy and Safety of Fixed Combination Torcetrapib/Atorvastatin, Administered Once Daily (QD) Compared to Fixed Combination Ezetimibe/Simvastatin for 6 Weeks in Subjects With Dyslipidemia.",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2006-01",
+      "completion_date": "2007-01",
+      "country": "United States",
+      "enrollment": 1784,
+      "brief_summary": "The Torcetrapib project was terminated on December 2, 2006 due to safety findings.\n\nCholesterol levels will be measured over six weeks in subjects being treated with two different kinds of combination cholesterol medications to see how the different treatments compare to one another.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Specific LDL-C levels based on CHD risk after a six-week washout period.\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant.\n* Subjects taking any drugs known to be associated with an increased risk of myositis in combination with HMG-C",
+      "endpoints": [
+        "Percent change in LDL-C and HDL-C from baseline, after six weeks of treatment."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00267267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03872232",
+      "title": "A Randomized, Double-blind, Active-controlled, Multicenter Phase3 Trial to Evaluate the Efficacy and Safety of Co-administrated Rosuvastatin/Ezetimibe and Telmisartan in Patients With Primary Hypercholesterolemia and Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-02-26",
+      "completion_date": "2020-08-12",
+      "country": "South Korea",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of co-administrated Rosuvastatin/Ezetimibe and Telmisartan in patients with primary hypercholesterolemia and essential hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Subjects with hypertension and hyperlipidemia\n\nExclusion Criteria:\n\n* Patient with known or suspected secondary hypertension\n* Other exclusions applied",
+      "endpoints": [
+        "Low density lipoprotein cholesterol (LDL-C)",
+        "Mean sitting systolic blood pressure (MSSBP)"
+      ],
+      "sponsor": "Addpharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03872232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00762229",
+      "title": "Prospective Evaluation of LDL Levels in Patients Converted From Zetia (Ezetimibe)10 mg to 5 mg",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2008-09",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "The purpose of this study is to compare the effect on LDL cholesterol levels of converting patients who are receiving the cholesterol absorption inhibitor Zetia at a dose of 10 milligrams to 5 milligrams, when prescribed as a split 10 milligram tablet.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects receiving ezetimibe 10 mg\n* Subjects who have demonstrated compliance with ezetimibe as evidenced by the following Proportions of Days Covered patterns (which represent a PDC of more than 75%):\n\n  * 90 day prescriptions: Filled a ezetimibe prescription within the prev",
+      "endpoints": [
+        "LDL Cholesterol"
+      ],
+      "sponsor": "Bronx VA Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00762229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00653796",
+      "title": "SCH 58235: A Multicentre, Randomised, Parallel Group, Placebo-Controlled Study Comparing the Efficacy, Safety, And Tolerability of the Daily Co-Administration of Ezetimibe 10 mg With Atorvastatin 10 mg vs. Ezetimibe Placebo With Atorvastatin 10 mg in Untreated Subjects With Primary Hypercholesterolaemia and Coronary Heart Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-09-01",
+      "completion_date": "2004-08-01",
+      "country": "N/A",
+      "enrollment": 148,
+      "brief_summary": "This study was designed to assess whether co-administration of ezetimibe 10 mg with atorvastatin 10 mg in treatment naïve subjects would be more effective than treatment with atorvastatin 10 mg alone for reducing LDL-concentrations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and non-pregnant female subjects, who demonstrated willingness to participate and comply with procedures by signing informed consent, and who were \\>=18 years and \\<=75 years of age, were eligible to participate if they had: a baseline LDL-C concentration \\>=3.3 mmol/L (1",
+      "endpoints": [
+        "Percent change in LDL-C from baseline to endpoint."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00653796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092560",
+      "title": "Evaluation of the Efficacy and Safety of Fenofibrate and Ezetimibe Coadministration in Patients With Mixed Hyperlipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2003-12",
+      "country": "N/A",
+      "enrollment": 587,
+      "brief_summary": "The purpose of this study is to evaluate the cholesterol lowering effectiveness and safety of two investigational drugs in patients with mixed hyperlipidemia (high cholesterol and high triglycerides).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* High cholesterol and high triglycerides\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional criteria as required by the study",
+      "endpoints": [
+        "Plasma LDL-C vs. fenofibrate for 12 weeks."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00548145",
+      "title": "The Clinical Study of Pitavastatin Treatment for Group of Mild to Moderate Alzheimer's Disease",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2007-11",
+      "completion_date": "2012-03",
+      "country": "Japan",
+      "enrollment": 38,
+      "brief_summary": "Some studies suggest that statin medications may be effective against Alzheimer's disease. However, this has not been proven. The purpose of this study is to evaluate the efficacy of pitavastatin in patients with mild to moderate Alzheimer's disease and hypercholesterolemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Alzheimer's Disease patients (15 ≤ MMSE total score ≤ 23, CDR \"1\" or \"2\")\n* Patients with hypercholesterolemia\n* Patients who have taken donepezil more than 3 months stably\n* Both patients and care-givers must be more than 20 years old\n\nExclusion Criteria:\n\n* Women with pregna",
+      "endpoints": [
+        "Alzheimer's Disease Assessment Scale-cognitive Component-Japanese Version(ADAS-Jcog)"
+      ],
+      "sponsor": "Osaka University",
+      "url": "https://clinicaltrials.gov/study/NCT00548145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02749994",
+      "title": "A Clinical Trial to Compare the Efficacy and Safety of a Combination Therapy of Ezetimibe and Rosuvastatin Versus Monotherapy of Rosuvastatin in Hypercholesterolemia Patients (I-ROSETTE Study)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-04",
+      "completion_date": "2017-02",
+      "country": "South Korea",
+      "enrollment": 396,
+      "brief_summary": "A phase Ⅲ, multi-center, randomized, double-blinded, active comparator, factorial design clinical trial to compare the efficacy and safety of a combination therapy of ezetimibe and rosuvastatin versus monotherapy of rosuvastatin in hypercholesterolemia patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 19 \\~ 79 years old\n2. Patients who confirmed hypercholesterolemia.\n3. Patients who requiring drug therapy according to NCEP ATP(National Cholesterol Education Program Adult Treatment Panel) III Guideline at Visit2.\n4. Patients with Triglyceride\\< 400 at Visit 2.\n5. Patients w",
+      "endpoints": [
+        "Percent change from baseline to 8 week in LDL-Cholesterol"
+      ],
+      "sponsor": "IlDong Pharmaceutical Co Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT02749994"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01597700",
+      "title": "A RANDOMIZED, BALANCED, OPEN LABEL, CROSSOVER, TWO PERIOD, TWO TREATMENT, TWO SEQUENCE, SINGLE DOSE, BIOEQUIVALENCE STUDY OF ACOTRAL® EZETIMIBE 10 MG TABLETS CONTAINING EZETIMIBE MANUFACTURED BY LABORATORIOS PHOENIX S.A.I.C.F, ARGENTINA AND ZETIA® EZETIMIBE 10 MG TABLETS OF MERCK/SCHERING - PLOUGH PHARMACEUTICALS, USA IN HEALTHY ADULT HUMAN MALE SUBJECTS UNDER FASTING CONDITION",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-01-13",
+      "completion_date": "2012-01-30",
+      "country": "India",
+      "enrollment": 52,
+      "brief_summary": "Bioequivalence study comparing test Acotral® ezetimibe 10 mg tablet manufactured by Laboratorios Phoenix, with a reference comparator Zetia® ezetimibe 10 mg tablet of Merck/Schering-Plough Pharmaceuticals. The CRO Clinigene Bangalore, will conduct the study. Fifty two healthy adult subjects who have satisfied the inclusion and exclusion criteria and given their informed consent will be entered into the study. They will be fasted and receive one tablet by mouth in accordance with a randomisation ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Literate healthy adult male human subjects within the age range of 18 to 45 years inclusive.\n* Weight not less than 50 kg.\n* Normal BMI \\[18.5 to 24.99 kg/m2 inclusive\\].\n* Willingness to provide written informed consent to participate in the study and capable of giving writte",
+      "endpoints": [
+        "Changes from baseline in plasma ezetimibe concentrations in time after dosing",
+        "Number of participants with adverse events",
+        "Number of participants with changes in haematology and/or chemistry"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01597700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04397653",
+      "title": "Phase IV Study for Efficacy and Safety of Evolocumab Added to Ezetimibe (Standard of Care) in High Cardiovascular Risk Haemodialized Statin Intolerant Patients With Hypercholesterolemia",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-04",
+      "completion_date": "2020-12-14",
+      "country": "Italy",
+      "enrollment": 50,
+      "brief_summary": "Evolocumab is a monoclonal antibody that inhibits proprotein convertase subtilisin-kexin type 9 (PCSK9) and lowers low-density lipoprotein (LDL) cholesterol, reducing in turn the risk of cardiovascular events. Whether evolcumab is effective in haemodialized patients is uncertain. The investigators will conduct a randomized, double-blind, placebo-controlled trial to assess the feasibility, safety, and LDL-C-lowering efficacy of evolocumab in high cardiovascular risk haemodialized statin intoleran",
+      "eligibility_criteria": "Inclusion Criteria (all of them must be present):\n\n* high cardiovascular risk defined as patients with: Documented cardiovascular disease (CVD), clinical or unequivocal on imaging. Documented clinical CVD includes previous acute myocardial infarction, coronary revascularization and other arterial re",
+      "endpoints": [
+        "LDL cholesterol reduction dichotomic"
+      ],
+      "sponsor": "Policlinico Casilino ASL RMB",
+      "url": "https://clinicaltrials.gov/study/NCT04397653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01266876",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, 12-Week Study of the Safety and Efficacy of REGN727 in Patients With Heterozygous Familial Hypercholesterolemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-01",
+      "completion_date": "2011-11",
+      "country": "Canada, United States",
+      "enrollment": 77,
+      "brief_summary": "The purpose of this study is to assess the efficacy and safety of REGN727/SAR236553 in participants diagnosed with heterozygous familial hypercholesterolemia (heFH)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Must meet the World Health Organization criteria for heFH\n2. Participants must be on a stable statin dose, with or without ezetimibe, for at least 6 weeks before screening\n3. Serum LDL-C levels ≥ 100 mg/dL at screening\n4. Willing to follow the NCEP ATPIII TLC diet, or an equi",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C at Week 12 - On-treatment Analysis"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01266876"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01370603",
+      "title": "A Randomized, Double-Blind, Active-Controlled, Multicenter, Crossover Study to Evaluate the Efficacy of Ezetimibe/Atorvastatin 10 mg/40 mg Fixed-Dose Combination Tablet Compared to Co-Administration of Marketed Ezetimibe 10 mg and Atorvastatin 40 mg in Patients With Primary Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2012-05",
+      "country": "N/A",
+      "enrollment": 328,
+      "brief_summary": "The purpose of this study is to determine whether ezetimibe/atorvastatin 10 mg/40 mg combination tablet is equivalent to the coadministration of ezetimibe 10 mg and atorvastatin 40 mg in lowering low-density-lipoprotein-cholesterol (LDL-C) after 6 weeks of treatment.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* At low, moderate, or moderately high cardiovascular risk (according to National Cholesterol Education Program adult treatment panel III \\[NCEP ATP III\\] guidelines) and either statin-naïve with LDL-C ≥130 mg/dL for low risk or ≥100 mg/dL for moderate or moderately high risk OR",
+      "endpoints": [
+        "Percent Change From Baseline in Low-density Lipoprotein Cholesterol (LDL-C) After 6 Weeks of Treatment"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01370603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00879710",
+      "title": "Effect of Diabetes Mellitus on Cholesterol Absorption, Synthesis and Statin Efficacy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2013-07",
+      "country": "United States",
+      "enrollment": 57,
+      "brief_summary": "HMG CoA reductase inhibitors (statins) are commonly used to treat high cholesterol (HC) in both type 1 and type 2 diabetes mellitus (DM). Several studies have shown benefits of statin among patients of type 2 DM, however, no such data is available for patients with type 1 DM.\n\nIt is known from studies on cholesterol metabolism using surrogate markers that patients with type 1 DM have higher cholesterol absorption compared to normals and those with type 2 DM have higher cholesterol synthesis. Sin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 DM:\n* Age \\> 18 years\n* Subjects diagnosed with type 1 DM (diagnosed based upon history of ketoacidosis, proven insulin dependence, absent C-peptide and or positive autoantibody profile (such as anti-GAD etc.)\n* Stable A1C \\< 8.5%\n* BMI \\< 31\n* Type 2 DM:\n* Age \\> 18 ye",
+      "endpoints": [
+        "Changes in LDL Cholesterol"
+      ],
+      "sponsor": "Medical College of Wisconsin",
+      "url": "https://clinicaltrials.gov/study/NCT00879710"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03867110",
+      "title": "A Phase 3, Double-Blind Efficacy and Safety Study of Ezetimibe (SCH 58235) 10 mg in Addition to Atorvastatin Compared to Placebo in Subjects With Primary Hypercholesterolemia (Protocol P00692)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-03-06",
+      "completion_date": "2001-07-27",
+      "country": "N/A",
+      "enrollment": 628,
+      "brief_summary": "This is a multicenter, randomized, double-blind, placebo-controlled, balanced-parallel-group, efficacy and safety trial of ezetimibe coadministered with atorvastatin in adult participants with primary hypercholesterolemia. The primary hypothesis is that the coadministration of ezetimibe 10 mg/day with atorvastatin (pooled across all doses: 10 mg, 20 mg, 40 mg, 80 mg) will result in a significantly greater reduction in direct low density lipoprotein-cholesterol (LDL-C) when compared with atorvast",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* If female, is not pregnant or breastfeeding, and is either not a woman of childbearing potential (WOCBP), or is a WOCBP who has used a contraceptive consistent with local regulations.\n* Postmenopausal women who are receiving postmenopausal hormonal therapy or raloxifene must b",
+      "endpoints": [
+        "Percent Change from Baseline at Week 12 of Plasma Low Density Lipoprotein Cholesterol (LDL-C)"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03867110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02984982",
+      "title": "A Randomized, Open-label, Blinded Intravascular Ultrasound Analysis, Parallel Group, Multicenter Study to Evaluate the Effect of Praluent® (Alirocumab) on Coronary Atheroma Volume in Japanese Patients Hospitalized for Acute Coronary Syndrome With Hypercholesterolemia Not Adequately Controlled With Statin",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-11-15",
+      "completion_date": "2018-07-27",
+      "country": "Japan",
+      "enrollment": 206,
+      "brief_summary": "Primary Objective:\n\nTo compare the efficacy of alirocumab (Praluent®) with standard of care (SoC) on coronary atheroma progression (percent change in normalized total atheroma volume \\[TAV\\]) after 9 months of treatment in participants who had acute coronary syndrome (ACS) within 4 weeks prior to randomization, with hypercholesterolemia treated with statin.\n\nSecondary Objectives:\n\n* To compare the efficacy of alirocumab (Praluent®) with SoC on secondary endpoints including absolute change in per",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Participants hospitalized for ACS (Acute ST-segment elevation myocardial infarction \\[STEMI\\], Acute non-ST-segment elevation myocardial infarction \\[NSTEMI\\], and unstable angina.\n* LDL-C \\>=100 mg/dL at ACS diagnosis.\n* Participants who has stenosis with at least \\>50% sten",
+      "endpoints": [
+        "Percent Change From Baseline in Normalized Total Atheroma Volume (TAV) at Week 36"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02984982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01420549",
+      "title": "Phase III, Multicenter, Randomized, Open-label, Comparative Study to Evaluate Efficacy and Safety of Rosuvastatin + Ezetimibe Versus Simvastatin + Ezetimibe in High Risk Patients With Primary Hypercholesterolemia or Mixed Dyslipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-03",
+      "completion_date": "2014-11",
+      "country": "Brazil",
+      "enrollment": 129,
+      "brief_summary": "The purpose of this study is to determine the non-inferiority between two different FDC (fixed-dose combination), measuring LDL-Cholesterol levels, in high risk patients with primary hypercholesterolemia or mixed dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female participants aged 18 to 80 years;\n* Participants diagnosed with primary hypercholesterolemia or mixed dyslipidemia;\n* Participants must not have other clinically significant comorbidities that may interfere with study evaluations;\n* Participants able to underst",
+      "endpoints": [
+        "Reduction of LDL Cholesterol Levels"
+      ],
+      "sponsor": "Ache Laboratorios Farmaceuticos S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01420549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02451098",
+      "title": "A Multicenter, Randomized, Double-blind, Active-controlled, Parallel Group, Factorial Design, Phase III Clinical Trial To Evaluate the Efficacy and Safety of Atorvastatin+Ezetimibe Combination Therapy and Atorvastatin Monotherapy in Patients With Primary Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-03",
+      "completion_date": "2016-01",
+      "country": "South Korea",
+      "enrollment": 385,
+      "brief_summary": "A Multicenter, Randomized, Double-blind, Active-controlled, Parallel group, Factorial Design, Phase III Clinical Trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult, at least 19 years of age.\n* Hyperlipidemia patient of LDL-C≤250 mg/dl and TG ≤400 mg/dl\n* Patients requiring anti-dyslipidemia drug therapy \\[based on the NCEP ATP III(2002)\\]\n* Drug compliance during Run-in period ≥70%\n* Patients must willing to the study and signed an",
+      "endpoints": [
+        "Change form baseline in LDL-C"
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02451098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01723735",
+      "title": "A Randomized, Partial Blind, 3 Parallel Groups Study of the Pharmacodynamic Profile of SAR236553 (REGN727) Administered as Multiple Subcutaneous Doses, Either Alone or on Top of Ezetimibe or Fenofibrate Administered as Multiple Oral Doses in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2013-07",
+      "country": "France",
+      "enrollment": 79,
+      "brief_summary": "Primary Objective:\n\nTo assess the pharmacodynamic profile of alirocumab (SAR236553/REGN727) administered either alone or on top of ezetimibe or fenofibrate, based on low-density lipoprotein -cholesterol (LDL-C).\n\nSecondary Objectives:\n\n* To assess the pharmacodynamic profile of alirocumab administered either alone or on top of ezetimibe or fenofibrate, based on other lipid parameters.\n* To assess the pharmacokinetic profile of alirocumab administered either alone or on top of ezetimibe or fenofi",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Healthy male /or female subjects,\n* aged 18 to 65 years old,\n* with LDL-C \\> 130 mg/dL\n* not receiving lipid lowering therapy.\n\nExclusion criteria:\n\n* Healthy subjects with history or presence of clinically relevant illness.\n* Subjects currently taking statins, ezetimibe or f",
+      "endpoints": [
+        "Assessment of the effect of alirocumab on LDL-C"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01723735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03768427",
+      "title": "A Phase 3 Randomized, Active-comparator-controlled Clinical Study to Evaluate the Efficacy and Safety of Ezetimibe/Atorvastatin Combination Tablet (MK-0653C) as Second Line Lipid Lowering Treatment in Chinese Participants",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-05-27",
+      "completion_date": "2021-04-01",
+      "country": "China",
+      "enrollment": 454,
+      "brief_summary": "This study will evaluate the EZ/Ator fixed-dose combination (FDC) tablet (MK-0653C) as second line Low-Density Lipoprotein - Cholesterol (LDL-C) treatment in Chinese participants. The primary hypothesis is that MK-0653C 10/10 mg is superior to atorvastatin 20 mg in percent change from baseline in LDL-C to 12 weeks after treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has hypercholesterolemia diagnosed by investigator according to Chinese Guidelines on Prevention and Treatment of Dyslipidemia in Adults (2016 Edition).\n* Has been stabilized on atorvastatin treatment at 10 mg or 20 mg (or other statins with LDL-C lowering efficacy equivalent ",
+      "endpoints": [
+        "Percent Change From Baseline in LDL-C at Week 12"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03768427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06305559",
+      "title": "A Placebo-controlled, Double-blind, Randomized, Phase 3 Study to Evaluate the Effect of Obicetrapib/Ezetimibe Fixed Dose Combination Daily on Coronary Plaque Characteristics in Participants With Atherosclerotic Cardiovascular Disease on Coronary CT Angiography (REMBRANDT Trial)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-05-16",
+      "completion_date": "2027-03",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "This placebo-controlled, double-blind, randomized, Phase 3 study is being conducted in adult participants with high-risk atherosclerotic cardiovascular disease (ASCVD) who are not adequately controlled by their maximally tolerated lipid-modifying therapy, to assess the impact of the obicetrapib 10 mg + ezetimibe 10 mg FDC daily on coronary plaque and inflammation characteristics, evaluated using cardiovascular computed tomography angiography (CCTA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Fasting serum LDL-C ≥70 mg/dL (≥1.81 mmol/L)\n* Evaluable non-calcified plaque of at least 75 mm3 in the major epicardial coronary arteries\n* BMI 18-40, inclusive\n* Max tolerated lipid modifying therapy\n* Estimated glomerular filtration rate ≥40 mL/min/1.73 m2\n\nExclusion Criter",
+      "endpoints": [
+        "• To evaluate the effect of obicetrapib 10 mg + ezetimibe 10 mg fixed dose combination (FDC) daily on total non-calcified coronary atherosclerotic plaque volume (NCPV) at 18 months."
+      ],
+      "sponsor": "NewAmsterdam Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT06305559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07255820",
+      "title": "Comparative Efficacy and Safety of Dual Versus Triple Lipid-Lowering Therapies (Rosuvastatin/Ezetimibe, Bempedoic Acid/Ezetimibe, and Rosuvastatin/Ezetimibe/Bempedoic Acid ) in Type 2 Diabetes Mellitus Patients With Elevated LDL Cholesterol",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-01",
+      "completion_date": "2026-06-30",
+      "country": "Pakistan",
+      "enrollment": 126,
+      "brief_summary": "This Open-label, randomized clinical trial evaluates the comparative efficacy and safety of dual versus triple lipid-lowering therapy using rosuvastatin, ezetimibe, and bempedoic acid in patients with type 2 diabetes mellitus and elevated LDL cholesterol. The study aims to determine whether adding bempedoic acid to standard dual therapy provides superior lipid control without compromising safety. The 126 participants, aged 35 - 60 years will be randomly assigned to one of three treatment groups ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMales and females Age 35-60 years HbA1c ≥ 7.0 (≥ 48 mmol/mol) On stable anti-diabetic therapy for at least 3 months LDL-C \\> 100 mg/dL on at least two occasions Diagnosed with hypercholesterolemia Establish high cardiovascular risk (e.g, previous MI, stroke or atherosclerosis) o",
+      "endpoints": [
+        "Primary outcome: Percent reduction in LDL-C and proportion of patients achieving LDL-C <70 mg/dL"
+      ],
+      "sponsor": "Bahria University",
+      "url": "https://clinicaltrials.gov/study/NCT07255820"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02634580",
+      "title": "A Double-blind, Randomized, Multicenter Study to Evaluate the Safety and Efficacy of Evolocumab, Compared With Ezetimibe, in Hypercholesterolemic Japanese Subjects Unable to Tolerate an Effective Dose of a HMG-CoA Reductase Inhibitor Due to Muscle Related Side Effects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02-27",
+      "completion_date": "2018-05-26",
+      "country": "Japan",
+      "enrollment": 61,
+      "brief_summary": "The primary objective of the study was to evaluate the effect of 12 weeks of subcutaneous (SC) evolocumab compared with ezetimibe, on percent change from baseline in low-density lipoprotein cholesterol (LDL-C) in hypercholesterolemic adults unable to tolerate an effective dose of a statin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female ≥ 20 to ≤ 80 years of age\n* Japanese by self-identification\n* Not on a statin or on a low dose statin with stable dose for at least 4 weeks.\n* Subject not at LDL-C goal\n* History of statin intolerance to at least 2 statins\n* Lipid lowering therapy has been stabl",
+      "endpoints": [
+        "Percent Change From Baseline in Low-Density Lipoprotein Cholesterol (LDL-C) at the Mean of Weeks 10 and 12",
+        "Percent Change From Baseline in Low-Density Lipoprotein Cholesterol (LDL-C) at Week 12"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT02634580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06005597",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized, Phase 3 Study to Evaluate the Effect of Obicetrapib 10 mg and Ezetimibe 10 mg Fixed Dose Combination Daily on Top of Maximally Tolerated Lipid-Modifying Therapy in Participants With Heterozygous Familial Hypercholesterolemia (HeFH) and/or Atherosclerotic Cardiovascular Disease (ASCVD) or Multiple ASCVD Risk Factors",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2024-03-01",
+      "completion_date": "2024-10-16",
+      "country": "United States",
+      "enrollment": 407,
+      "brief_summary": "The study is a placebo-controlled, double-blind, randomized, phase 3 study in participants with heterozygous familial hypercholesterolemia (HeFH) and/or atherosclerotic cardiovascular disease (ASCVD) or multiple ASCVD risk factors to evaluate the efficacy, safety and tolerability of obicetrapib 10mg and ezetimibe 10mg fixed dose combination as an adjunct to diet and maximally tolerated lipid-lowering therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have underlying HeFH and/or a history of ASCVD or multiple ASCVD risk factors\n* On maximally tolerated lipid-modifying therapy as an adjunct to a diet and lifestyle modifications\n* LDL-C ≥ 70 mg/dL\n* Triglycerides \\< 500\n* Estimated glomerular filtration rate ≥ 15 mL/min/1.73 ",
+      "endpoints": [
+        "Effect of Fixed-Dose Combination (FDC) Compared to Placebo on LDL-C",
+        "Effect of Fixed Dose Combination (FDC) Compared to Ezetimibe Monotherapy on LDL-C",
+        "Effect of Fixed Dose Combination (FDC) Compared to Obicetrapib Monotherapy on LDL-C"
+      ],
+      "sponsor": "NewAmsterdam Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT06005597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00730132",
+      "title": "Observational Study of Approaches to Lipid-lowering Therapy in Russian Patients With Coronary Heart Disease (<<Treat to Goal>>)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-08",
+      "country": "N/A",
+      "enrollment": 712,
+      "brief_summary": "This study is being performed to evaluate what variants of lipid-lowering therapy are used in Russian clinical practice in coronary heart disease (CHD) patients with hypercholesterolemia in whom the initial statin therapy did not achieve low density lipoprotein-cholesterol (LDL-C) goals. Additionally, the efficacy and safety of all variants of modified lipid-lowering therapy are to be evaluated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female, from 18 to 75 years old;\n* Established diagnosis of CHD;\n* Previous (at least, within 1 month before inclusion in the present study) treatment with statin;\n* Levels of plasma TC and LDL-C above the recommended target values\n\n(TC\\> 4.5 mmol\\\\L; LDL-C\\> 2.5 mmol",
+      "endpoints": [
+        "Percentage of Patients Receiving Each Variant of Modified Lipid-lowering Therapy: Statin Dose Titration, Administration of a New Statin, Administration of a Ezetimibe in Addition to a Current Statin.",
+        "Percentage of Patients Per Group Who Reach Goal for Total Cholesterol (TC) (< 4.5 mmol/L) According to All-Russian Scientific Cardiologists Society (ARSCS) Recommendations by End of Observation",
+        "Percentage of Patients Per Group Who Reached Goal for Low Density Lipoprotein (LDL-C) (< 2.6 mmol/L) According to ARSCS Recommendations by End of Observation"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00730132"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00701727",
+      "title": "Ezetimibe Reverse Cholesterol Transport (RCT) Pilot Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2009-03",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "This is a prospective, placebo-controlled, cross-over trial comparing the the effects of approximately 7 weeks of placebo treatment to 7 weeks of ezetimibe (10mg/day) treatment on several parameters of reverse cholesterol transport (RCT) in men and post-menopausal women diagnosed with hypercholesterolemia. The primary hypothesis is that the ezetimibe treatment will increase the excretion of endogenous (plasma-derived) cholesterol as fecal sterols, with secondary hypotheses that there will be a s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male, non-smoker, 21-75 years of age\n* female, non-smoker, 40-75 years of age\n* post-menopausal women, as defined by lack of menses for at least 2 years and age \\>55, OR history of documented bilateral oophorectomy, confirmed with an elevated FSH at screening\n* low-density lip",
+      "endpoints": [
+        "Fecal Excretion of Plasma-derived Cholesterol"
+      ],
+      "sponsor": "Radiant Research",
+      "url": "https://clinicaltrials.gov/study/NCT00701727"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01763827",
+      "title": "A Double-blind, Randomized, Placebo and Ezetimibe-controlled, Multicenter Study to Evaluate Safety and Efficacy of Lipid Lowering Monotherapy With AMG 145 in Subjects With a 10-Year Framingham Risk Score of 10% or Less",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-01-21",
+      "completion_date": "2013-10-29",
+      "country": "South Korea, France, South Africa, Taiwan, Turkey (Türkiye), Denmark, Australia, Canada, Belgium, United States",
+      "enrollment": 615,
+      "brief_summary": "The primary objective was to evaluate the effect of 12 weeks of evolocumab subcutaneous (SC) monotherapy every 2 weeks (Q2W) and monthly (QM), compared with placebo and ezetimibe, on percent change from baseline in low-density lipoprotein cholesterol (LDL-C) in adults with a 10-year Framingham risk score of 10% or less.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female ≥ 18 to ≤ 80 years of age\n* National Cholesterol Education Program Adult Treatment Panel III (NCEP ATP III) Framingham risk score of 10% or less\n* Fasting LDL-C ≥ 100 mg/dL (2.6 mmol/L) and \\<190 mg/dL\n* Fasting triglycerides ≤ 400 mg/dL (4.5 mmol/L)\n\nExclusion ",
+      "endpoints": [
+        "Percent Change From Baseline in Low-density Lipoprotein Cholesterol (LDL-C) at Week 12",
+        "Percent Change From Baseline in LDL-C at the Mean of Weeks 10 and 12"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT01763827"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01941836",
+      "title": "A Randomized, Double-Blind, Parallel Group, Multicenter Study to Evaluate the Efficacy and Safety of ETC-1002, Ezetimibe, and the Combination in Hypercholesterolemic Patients With or Without Statin Intolerance",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2014-11",
+      "country": "United States",
+      "enrollment": 349,
+      "brief_summary": "The purpose of this research study is to see how ETC-1002 is tolerated in the body, to measure the amount of ETC-1002 in the blood, and to determine how ETC-1002 affects the level of LDL-cholesterol (bad cholesterol) and other markers of health and disease in blood and urine in patients with elevated LDL-cholesterol with or without statin intolerance.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Statin intolerant and statin tolerant\n* Fasting LDL-C between 130 mg/dL and 220 mg/dL\n* Fasting triglyceride less than or equal to 400 mg/dL\n* Body mass index (BMI) between 18 and 45 kg/m2\n\nKey Exclusion Criteria:\n\n* History or current clinically significant cardiovascular",
+      "endpoints": [
+        "Percent change in calculated low density lipoprotein-cholesterol (LDL-C)"
+      ],
+      "sponsor": "Esperion Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01941836"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00705211",
+      "title": "Designated Drug Use Investigation (Long-Term Administration) of Zetia 10-mg Tablets - A 52-Week Long-Term Designated Drug Use Investigation of Zetia Monotherapy and Combination Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 1794,
+      "brief_summary": "This study is a non-interventional (observational) study in Japan to confirm the safety and efficacy of Zetia when administered alone or in combination with other lipid-lowering drugs in daily medical practice throughout a 52-week period. It is being conducted as a post-approval commitment, in accordance with the Ministry of Health, Labour and Welfare's guideline on Good Post-marketing Study Practice.\n\nPost-marketing surveys are not considered applicable clinical trials and thus the results of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who have hypercholesterolemia, familial hypercholesterolemia, or homozygous sitosterolemia will be considered for this study.\n\nZetia monotherapy patients must be treated with Zetia alone.\n\nZetia combination therapy patients must be treated with Zetia in combination wi",
+      "endpoints": [
+        "A primary endpoint is the incidence of adverse events.",
+        "A primary endpoint is change in LDL-C"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00705211"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04289285",
+      "title": "Safety and Efficacy of IBI306 in Chinese Non-familial Hypercholesterolemia Subjects at Very High or High Cardiovascular Risk: a Randomized, Double-blind and Placebo-controlled Phase III Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-04-29",
+      "completion_date": "2022-02-09",
+      "country": "China",
+      "enrollment": 804,
+      "brief_summary": "IBI306 is a fully human monoclonal antibody that binds proprotein convertase substilisin/kexin type 9 (PCSK-9), preventing its interaction with the low-density lipoprotein cholesterol receptor (LDL-R) and thereby restoring LDL-R recycling and low-density lipoprotein cholesterol(LDL-C) uptake. This study is being done to investigate the effects of IBI306 in Chinese people with non-familial hypercholesterolemia with very high or high cardiovascular risk. This study will see if IBI306 will reduce l",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Males and females ≥ 18 to ≤ 75 years of age\n2. Diagnosis of hypercholesterolemia\n3. LDL cholesterol ≥ 70 mg/dl (1.8mmol/L)\n4. Very high or high cardiovascular risk\n5. TG≤500 mg/dL(5.64 mmol/L)\n\nExclusion criteria:\n\n1. Diagnosis of HoFH or HeFH\n2. Uncontrolled hypertension\n3. ",
+      "endpoints": [
+        "Mean percent change from baseline in low-density lipoprotein cholesterol (LDL-C) at week 48"
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04289285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092599",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate Efficacy, Safety, and Tolerability of Ezetimibe 10 mg or Placebo Co-administered With Existing Simvastatin 10 mg or 20 mg in Attaining Low-Density Lipoprotein Cholesterol Target Levels in Patients With Hypercholesterolemia and Coronary Heart Disease.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-07",
+      "country": "N/A",
+      "enrollment": 410,
+      "brief_summary": "This study will evaluate patients who have coronary heart disease to determine if an investigational drug will further lower cholesterol when taken in combination with an approved cholesterol lowering medication.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with elevated cholesterol and coronary heart disease\n\nExclusion Criteria:\n\n* Patients who do not meet specific cholesterol levels as required by the study",
+      "endpoints": [
+        "Percentage of patients reaching LDL goal of <2.60 mmol/L after 6 weeks of treatment"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00409773",
+      "title": "A Multicenter, Randomized, Double-Blind, Parallel Arm, 6-Week Study to Evaluate the Efficacy and Safety of Ezetimibe/Simvastatin Versus Atorvastatin in Patients With Metabolic Syndrome and Hypercholesterolemia at High Risk for Coronary Heart Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2008-07",
+      "country": "N/A",
+      "enrollment": 1143,
+      "brief_summary": "A 6-week clinical trial in patients with metabolic syndrome and hypercholesterolemia at high risk for coronary heart disease to study the effects of ezetimibe/simvastatin and atorvastatin on lipids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients 18 to 79 years of age with metabolic syndrome and hypercholesterolemia at high risk for coronary heart disease (CHD) with LDL-C above 70 mg/dL or 100 mg/dL depending on their CHD risk category\n\nExclusion Criteria:\n\n* A condition which, in the opinion of the investigat",
+      "endpoints": [
+        "Percent Change From Baseline in Low Density Lipoprotein (LDL-C) at Week 6"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00409773"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00651391",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of the Effect of Ezetimibe Plus Simvastatin Compared With Simvastatin Alone on Flow-Mediated Brachial Artery Vasoactivity in Subjects With Primary Hypercholesterolemia (The EFFECTS Trial)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2003-10-01",
+      "completion_date": "2004-09-01",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study is to evaluate the effect of ezetimibe coadministered with simvastatin compared with simvastatin alone when administered for 12 weeks on endothelial function as assessed by brachial artery reactivity testing (BART) using high-frequency ultrasound to image the brachial artery vasomotor response to a flow-mediated stimulus (high-shear stress) in subjects with high cholesterol. The secondary objectives include evaluation of nitroglycerin-induced vasodilation. In addition, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (18 years old and older) with primary hypercholesterolemia with a plasma LDL-C \\>=145 mg/dL and \\<=250 mg/dL, and plasma TG \\<=350 mg/dL after adequate drug washout.\n* Postmenopausal women who are receiving postmenopausal hormonal therapy or raloxifene must be maintaine",
+      "endpoints": [
+        "Change from baseline to endpoint in flow-mediated vasodilation: percent change in the mean diameter between 1-minute, post-cuff release diameter and image obtained prior to cuff application."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00651391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03867318",
+      "title": "A Phase III Double-Blind Efficacy and Safety of Ezetimibe (SCH 58235) 10 MG in Addition to Atorvastatin in Subjects With Coronary Heart Disease or Multiple Cardiovascular Risk Factors and With Primary Hypercholesterolemia Not Controlled by a Starting Dose (10 mg) of Atorvastatin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-04-24",
+      "completion_date": "2001-11-16",
+      "country": "N/A",
+      "enrollment": 621,
+      "brief_summary": "The overall objective is to evaluate the efficacy and safety of ezetimibe (SCH 058235/MK-0653) 10 mg administered daily in conjunction with atorvastatin in participants with Heterozygous Familial Hypercholesterolemia (HeFH) or in participants with coronary heart disease (CHD) or multiple cardiovascular risk factors (≥2 risk factors) and primary hypercholesterolemia not controlled by a starting dose (10 mg/day) of atorvastatin.\n\nThe primary hypothesis is that the coadministration of ezetimibe 10 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary hypercholesterolemic participants with known coronary heart disease (CHD) or multiple risk factors for CHD (≥2) not meeting the target low-density-lipoprotein cholesterol (LDL-C) of ≤100 mg/dL (2.59 mmol/L), with plasma LDL-C ≥130 mg/dL (3.37 mmol/L) and plasma triglyc",
+      "endpoints": [
+        "Percentage of Participants Achieving Target Low-Density-Lipoprotein Cholesterol (LDL-C) Levels of ≤100 mg/dL",
+        "Percentage of Participants With an Adverse Event",
+        "Percentage of Participants Who Discontinued the Study due to an Adverse Event"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03867318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03882996",
+      "title": "Long-Term, Open-Label, Safety and Tolerability Study of Ezetimibe (SCH 58235) in Addition to Atorvastatin in Subjects With Coronary Heart Disease or Multiple Risk Factors and With Primary Hypercholesterolemia Not Controlled by a Starting Dose (10 mg) of Atorvastatin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-10-06",
+      "completion_date": "2003-02-04",
+      "country": "N/A",
+      "enrollment": 432,
+      "brief_summary": "The purpose of this study was to evaluate the long-term safety and tolerability of ezetimibe 10 mg once daily co-administered with atorvastatin 10 to 80 mg daily for up to 12 consecutive months in participants with heterozygous familial hypercholesterolemia (HeFH) or in participants with coronary heart disease (CHD) or multiple cardiovascular risk factors and primary hypercholesterolemia not controlled by a starting dose (10 mg daily) of atorvastatin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who have successfully completed the 14-week double-blind, efficacy and safety study of SCH 58235 in addition to atorvastatin in participants with CHD or multiple risk factors or HeFH, (Protocol P00693/MK-0653-030; NCT03867318). Entry into this protocol must occur ",
+      "endpoints": [
+        "Number of participants who experienced an adverse event",
+        "Number of participants who discontinued study drug due to an adverse event"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03882996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02460159",
+      "title": "A Phase III, Clinical Trial to Assess the Long Term Safety and Tolerability of MK-0653C in Japanese Patients With Hypercholesterolemia Who Have Inadequate LDL-C Control on Ezetimibe or Atorvastatin Calcium Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-06-23",
+      "completion_date": "2016-12-22",
+      "country": "N/A",
+      "enrollment": 135,
+      "brief_summary": "This study will assess the safety and tolerability of Ezetimibe (EZ) 10 mg/Atorvastatin (Atora) 10 mg and EZ 10mg/Atora 20 mg fixed-dose combination (FDC) in Japanese participants with hypercholesterolemia uncontrolled with monotherapy of Ezetimibe 10 mg or Atorvastatin up to 20 mg. There is no formal hypothesis for the study.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Japanese\n* Outpatient with hypercholesterolemia\n* Has familial hypercholesterolemia (FH) diagnosed per genetic testing or meets two or more of the below criteria based on Japan Atherosclerosis Society Guideline 2012 (JAS2012): Hyper low-density lipoprotein (LDL)-cholesterolemia",
+      "endpoints": [
+        "Percentage of Participants Who Experience 1 or More Adverse Event (AE)",
+        "Percentage of Participants Who Experience 1 or More Gastrointestinal-related AEs",
+        "Percentage of Participants Who Experience 1 or More Gallbladder-related AEs"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT02460159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04770389",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized Phase 2 Study to Evaluate the Effect of Obicetrapib in Combination With Ezetimibe in Participants With Mild Dyslipidemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-02-23",
+      "completion_date": "2021-06-30",
+      "country": "Netherlands, United States",
+      "enrollment": 112,
+      "brief_summary": "This study will be a placebo-controlled, double-blind, randomized, phase 2 study in participants with mild dyslipidemia to evaluate the efficacy, safety, and tolerability of obicetrapib and ezetimibe combination therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understanding of the study procedures, willingness to adhere to the study schedules and diet, and agreement to participate in the study by giving written informed consent prior to Screening procedures\n* Men or women 18 to 70 years of age, inclusive\n* Women may be enrolled if a",
+      "endpoints": [
+        "Mean Percent Change in Low-Density Lipoprotein Cholesterol (LDL-C) From Baseline to Day 57: Obicetrapib in Combination With Ezetimibe Compared to Placebo [Friedewald]",
+        "Median Percent Change in Low-Density Lipoprotein Cholesterol (LDL-C) From Baseline to Day 57: Obicetrapib in Combination With Ezetimibe Compared to Placebo [Friedewald]",
+        "LS Mean Percent Change in Low-Density Lipoprotein Cholesterol (LDL-C) From Baseline to Day 57: Obicetrapib in Combination With Ezetimibe Compared to Placebo [Friedewald]"
+      ],
+      "sponsor": "NewAmsterdam Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT04770389"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00654628",
+      "title": "Begin With The Right Patients With Dual-Inhibition Action Therapy Through Vytorin for Newly Diagnosed Dyslipidemia Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-08-01",
+      "completion_date": "2009-07-01",
+      "country": "N/A",
+      "enrollment": 173,
+      "brief_summary": "The purpose of this study is to determine the safety and tolerability of ezetimibe/simvastatin in patients newly diagnosed with dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male Or Female Patient, 20 Through 79 Years Of Age\n* Newly Diagnosed Dyslipidemia Patients Including: 1) Intermediate Risk (\\>2 Risk Factors) With Total Cholesterol level above 200 mg/dL Or Low Density Lipoprotein-C (LDL-C) level\\> 130 mg/dLwho failed a 3-Month diet control pe",
+      "endpoints": [
+        "The Percentage of Participants Achieving Low Density Lipoprotein-C (LDL-C) Treatment Goal After 6-week Treatment.",
+        "The Percentage of Participants Achieving Low Density Lipoprotein-C (LDL-C) Treatment Goal After 12-week Treatment."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00654628"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00132717",
+      "title": "An Open-Label, Multicenter Study to Assess the Efficacy of Switching to a Combination Tablet Ezetimibe/Simvastatin 10mg/40mg, Compared to Doubling the Dose of Statin in Patients Hospitalized With a Coronary Event",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01-01",
+      "completion_date": "2007-06-01",
+      "country": "N/A",
+      "enrollment": 450,
+      "brief_summary": "The purpose of this study is to investigate the effect of an investigational cholesterol-lowering drug in patients who are currently taking an approved medication for hypercholesterolemia (high cholesterol levels) and have been hospitalized for a heart problem.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients greater than 18 years old, who were admitted to a hospital for an investigation of a heart problem and are currently receiving an approved medication to lower cholesterol\n\nExclusion Criteria:\n\n* Patients who have congestive heart failure (CHF), uncontrolled high blood",
+      "endpoints": [
+        "Evaluate the effectiveness of MK0653A compared to doubling the statin dose as shown by the low-density lipoprotein cholesterol (LDL-C) values achieved after 12 weeks of treatment"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00132717"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01370590",
+      "title": "A Randomized, Double-Blind, Active-Controlled, Multicenter, Crossover Study to Evaluate the Efficacy and Safety of Ezetimibe/Atorvastatin 10 mg/20 mg Fixed-Dose Combination Tablet Compared to Co-administration of Marketed Ezetimibe 10 mg and Atorvastatin 20 mg in Patients With Primary Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2012-04",
+      "country": "N/A",
+      "enrollment": 406,
+      "brief_summary": "The purpose of this study is to determine whether ezetimibe/atorvastatin 10 mg/20 mg combination tablet is equivalent to the coadministration of ezetimibe 10 mg and atorvastatin 20 mg in lowering low-density-lipoprotein-cholesterol (LDL-C) after 6 weeks of treatment.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* At low, moderate, or moderately high cardiovascular risk (according to National Cholesterol Education Program adult treatment panel III \\[NCEP ATP III\\] guidelines) and either statin-naïve with LDL-C ≥130 mg/dL for low risk or ≥100 mg/dL for moderate or moderately high risk OR",
+      "endpoints": [
+        "Percent Change From Baseline in Low-density Lipoprotein Cholesterol (LDL-C) After 6 Weeks of Treatment"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01370590"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01477944",
+      "title": "Pattern of Statins Use in Catalonia",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2012-02",
+      "country": "N/A",
+      "enrollment": 180723,
+      "brief_summary": "To describe the new statins prescription pattern in Catalonia (getting their first prescription for any statin, or receiving a change in their statin treatment including switching, changing in doses or adding ezetimibe/fibrates) since September 2009.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Patient with a new prescription of statin Patients receiving one or more changes of the statins treatment\n\nExclusion Criteria\n\n* Patient with not full information",
+      "endpoints": [
+        "Description of detailed clinical treatment in terms of duration of treatment, doses, drug switches and add-on therapy, in patients with hypercholesterolemia and on treatment with statins from the index date.",
+        "Type of prescriber",
+        "Date of change from previous statin to new."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01477944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00466401",
+      "title": "Phase 4 Study on Effect of Ezetimibe on Platelet Aggregation and LDL Tendency to Peroxidation In Hypercholesterolemic Patients on Simvastatin",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2007-08",
+      "country": "Israel",
+      "enrollment": 20,
+      "brief_summary": "The aim of our study is to Estimate the reduction of LDL by ezetimibe in hypercholesterolemic patients on simvastatin.Investigate the effect of LDL lowering by ezetimibe on platelet activity and LDL tendency to peroxidation in hypercholesterolemic patients on simvastatin therapy\n\nThe hypothesis is that:\n\n1. LDL lowering by ezetimibe on-top of simvastatin in patients on fixed dose of simvastatin can reduce platelet aggregation, due to the potential decreasing of cholesterol content in the platele",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Hypercholesterolemic patients on stable simvastatin dose for at least one month.\n2. Age ≥18 years on stable AHA step 1 diet.\n3. Patients without CHD or with one risk factors ; LDL \\> 130 mg/dL and for Patients with CHD or CHD risk equivalent(clinical manifestations of non-cor",
+      "endpoints": [],
+      "sponsor": "Ziv Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00466401"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04669041",
+      "title": "A Randomized Double-blinded, Double Dummy, Active-controlled, Parallel Design, Phase 3 Clinical Trial to Evaluate the Efficacy and the Safety of Single Pill Combination (SPC) Ezetimibe/Rosuvastatin in Chinese Adult Patients With Primary Hypercholesterolemia, Not Adequately Controlled on Statin Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-12-08",
+      "completion_date": "2022-06-15",
+      "country": "China",
+      "enrollment": 305,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate the superiority of the single pill combination (SPC) ezetimibe 10 mg/rosuvastatin 10 mg (E10/R10) compared to rosuvastatin 10 mg (R10), in the reduction of low density lipoprotein cholesterol (LDL-C) after 8 weeks.\n\nSecondary Objectives:\n\n* To evaluate the proportion of patients who attain their LDL-C goal.\n* To evaluate the effect of SPC (E10/R10) compared to rosuvastatin 10 mg (R10) in reduction of LDL-C at Week 4.\n* To evaluate the effect of SPC (E10/R10) co",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Participant must be at least 18 years of age inclusive, at the time of signing the informed consent.\n* Patients with primary hypercholesterolemia.\n* Inclusion criteria in the run-in period: Participants who are not adequately controlled (defined by screening LDL-C \\>2.6 mmol/",
+      "endpoints": [
+        "Percent change in measured LDL-C from baseline (the last available measured LDL-C value obtained up to randomization) to Week 8"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT04669041"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03847506",
+      "title": "A Randomized, Double-blind, Multi-center Clinical Trial to Evaluate Efficacy and Safety of Ezetimibe/Rosuvastatin Combination Tablets and Candesartan Cilexetil/Amlodipine Besylate Combination Tablets",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-07-05",
+      "completion_date": "2020-12-02",
+      "country": "South Korea",
+      "enrollment": 127,
+      "brief_summary": "To evaluate the efficacy and the safety of concomitant use of Ezetimibe/Rosuvastatin combination tablets and Candesartan cilexetil/Amlodipine besylate combination tablets compared to each combination tablet alone in patients with essential hypertension (HTN) and hyperlipidemia.",
+      "eligibility_criteria": "\\[ Inclusion Criteria \\]\n\n1. Adults aged 19 to \\<75 years.\n2. Diagnosed with essential HTN accompanied by hyperlipidemia (average siSBP ≥140 mmHg and LDL-C ≥100 mg/dL) or being treated for the condition after the diagnosis, at Visit 1 (screening).\n3. Provided the signed informed consent form volunta",
+      "endpoints": [
+        "Change in sitting Systolic Blood Pressure(siSBP) from baseline after 6 weeks of study treatment",
+        "Percentage change in LDL-C levels from baseline after 6 weeks of study treatment"
+      ],
+      "sponsor": "HK inno.N Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT03847506"
+    }
+  ],
+  "timestamp": "2026-03-04T15:00:55.205182",
+  "success": true,
+  "error_message": null
+}

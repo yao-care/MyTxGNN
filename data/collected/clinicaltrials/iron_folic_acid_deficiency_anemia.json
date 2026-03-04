@@ -1,0 +1,941 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Iron",
+    "disease": "folic acid deficiency anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03573570",
+      "title": "Reducing Anemia Through Food Fortification at Scale",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2018-04-01",
+      "completion_date": "2021-09-30",
+      "country": "India",
+      "enrollment": 0,
+      "brief_summary": "Anemia is the most common form of malnutrition, affecting approximately 1.6 billion people world-wide. Most commonly caused by iron deficiency, its adverse effects include increased mortality (especially during childbirth), impaired cognitive development among children, chronic fatigue, and reduced lifetime earnings. While iron deficiency is the main cause of anemia worldwide, its etiology is complex and it can also be caused by an insufficient intake of other micronutrients such as Vitamin A, B",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children in the age group of 6 months to 5 years\n* Women in the age group of 12 to 40 years\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to endline using Rapid Diagnostic Tests (RDT)",
+        "Change in hemoglobin level from baseline to endline using DBS",
+        "Change in Transferrin Receptor (TfR) level from baseline to endline using DBS"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT03573570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04343170",
+      "title": "Effect of Ultra-short-term Treatment of Patients With Iron Deficiency or Anemia Undergoing Adolescent Scoliosis Correction",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2024-10-01",
+      "country": "Egypt",
+      "enrollment": 44,
+      "brief_summary": "Scoliosis is a condition in which there is curvature of the spine occurring in the lateral plane. It occurs in structural forms, characterized by a fixed curve, and \"functional\" forms, characterized by a flexible or correctable curve. By anatomic necessity, this lateral deviation is associated with vertebral rotation, such that when this deformity occurs in the thoracic spine, a chest wall deformity, or \"rib hump,\" develops.\n\nOften there is a primary structural curve with an adjacent secondary c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with idiopathic adolescent scoliosis\n* patients with anemia (haemoglobin concentration (Hb) \\<12g/dL in women and Hb \\<13 g/dL in men)\n* patients with isolated iron deficiency (ferritin \\<100 mcg/L, no anemia)\n\nExclusion Criteria:\n\n1. Impairments, diseases (renal \\&/ ",
+      "endpoints": [
+        "percentage of patients not required blood transfusion"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04343170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03629587",
+      "title": "Helicobacter Pylori and it's Hematological Impact",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-09-27",
+      "completion_date": "2018-08-08",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "To evaluate the effect of helicobacter pylori on the blood for proper management",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients complained of symptoms suggestive of gastritis whether acute (within two weeks) or chronic (three or more months) and were diagnosed at endoscopy to have H.pylori infection by biopsy.\n* Patients aged more than 18 years old.\n* Both sexes (male \\& female).\n\nExclusio",
+      "endpoints": [
+        "Upper endoscopy"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03629587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02118402",
+      "title": "In Home Iron Fortification in Kenyan Infants: Effect of Co-supplementation With Galactooligosaccharides (GOS) on the Gut Microbiota Composition and the Effectiveness of Iron Supplementation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-12",
+      "country": "Kenya",
+      "enrollment": 155,
+      "brief_summary": "Iron deficiency and anemia are health issues affecting mainly infants and women in developing countries. Iron deficiency in infancy can have long-lasting impact on cognitive and motor development of the child. Iron fortification has shown to be effective against anemia. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Therefore we want to assess the effects of home fortificat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-10 months at baseline\n* Assessment of good health as assessed by professional staff at Kikoneni Health Clinic.\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<7g/dL; these participants will be referred for treatment at",
+      "endpoints": [
+        "The co-primary outcomes are the gut microbiome and gut inflammation"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02118402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04694898",
+      "title": "Integrating Health and Agriculture Services for Improved Household Food Security and Nutritional Status of Mothers and Children 4-6 Years of Age",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-12-28",
+      "completion_date": "2021-03-13",
+      "country": "Ethiopia",
+      "enrollment": 1292,
+      "brief_summary": "The causes of malnutrition are complex and addressing the problem requires integrated action among various sectors. Globally, much attention has been given to nutrition-specific interventions to address the immediate causes of undernutrition. But undernutrition prevalence is decreasing at a very slow rate. Nutrition-specific interventions address the immediate determinants of child undernutrition, such as inadequate food and nutrient intake, but do not consider the underlying causes such as food",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children 4 years - 6 years and their mothers/fathers and caregivers\n* Participated in the baseline survey (2016)\n* Resided in the Control communities during the last four years (control arm), or in the SURE intervention communities (intervention arm).\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "Hemoglobin (g/dl)",
+        "Linear growth (Z-score and prevalence)"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT04694898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05681871",
+      "title": "A South African Multi-centre Pilot Trial to Assess the Feasibility and Clinical Efficacy of Preoperative Oral Iron to Treat Preoperative Iron-deficiency Anaemia in Children Undergoing Elective Noncardiac Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-02-09",
+      "completion_date": "2025-05-31",
+      "country": "South Africa",
+      "enrollment": 755,
+      "brief_summary": "Preoperative anaemia has been shown to be associated with worse outcomes after surgery in both adults and children. Limited research has been done on how common preoperative iron-deficiency anaemia (IDA) is in children and how best to treat it. Oral iron is a relatively cost-effective treatment for IDA. This study aims to show whether giving children with IDA oral iron for 6-12 weeks before their surgery significantly improves their haemoglobin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 6 months to \\<16 years\n* Noncardiac surgery\n* Elective surgery\n* Anaemic as per World Health Organisation criteria\n\nExclusion Criteria:\n\n* Patient or parent refusal\n* Unable to obtain written consent at the surgical outpatient clinic\n* Surgery planned within 4 weeks fro",
+      "endpoints": [
+        "Delta Haemoglobin = Change in haemoglobin pre- and post- oral iron supplementation"
+      ],
+      "sponsor": "University of Cape Town",
+      "url": "https://clinicaltrials.gov/study/NCT05681871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06425796",
+      "title": "Impact of Maternal Adiposity on Maternal Iron Status and Requirements: a Randomised Intervention Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2026-01-19",
+      "country": "United Kingdom",
+      "enrollment": 312,
+      "brief_summary": "This study aims to explore how body fat influences the response to either 25 or 50 mg of daily iron supplements during pregnancy. We will conduct a double-blind randomized controlled intervention study involving 312 pregnant women recruited from antenatal clinics in the Northern Trust Area. Participants will be randomly assigned to receive either 25 or 50 mg of iron per day from 12 weeks of pregnancy until delivery, using the Active Iron supplement brand. Blood samples will be collected at 12, 2",
+      "eligibility_criteria": "Inclusion Criteria:- Pregnant women\n\n* Age ≥ 18 years\n* BMI ≥18.5 kg/m2\n* Without current pregnancy complications (for example, severe bleeding, Diabetes Mellitus, hyperemesis gravidarum, ectopic and molar pregnancies)\n* At least 12 Gestational Week\n* Singleton pregnancy confirmed with the first ult",
+      "endpoints": [
+        "* - Adjusted maternal ferritin concentrations in response to iron supplementation (ng/mL)"
+      ],
+      "sponsor": "University of Ulster",
+      "url": "https://clinicaltrials.gov/study/NCT06425796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642408",
+      "title": "Prevention of Intrauterine Growth Retardation in Hounde District, Burkina Faso",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2006-10",
+      "country": "Burkina Faso",
+      "enrollment": 1370,
+      "brief_summary": "Intrauterine Growth Retardation is the most important determinant of mortality and morbidity in the neonatal period. It is also a very important factor in predicting nutritional status, health and development in childhood. It even influences health in adult life, contributing to the vicious cycle of disease and poverty. The high rate IUGR in DCs represents therefore a major public health problem. Maternal malnutrition is usually assumed to be a major determinant of the problem in these countries",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll the women of child-bearing age (15-44 years) living in the study area (4 100) will be visited monthly to assess early pregnancy and will be invited to participate in the trial.\n\nExclusion Criteria:\n\nWill be excluded from the study women :\n\n* planning to move outside the dist",
+      "endpoints": [
+        "Weight, length and Rohrer index at birth, and gestational duration in single pregnancies.",
+        "Mortality, morbidity and growth during the first year of life"
+      ],
+      "sponsor": "Institute of Tropical Medicine, Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00642408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02666417",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 64,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Thus, there is an urgent need to find safer formulations of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by professional staff at Msambweni District Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L ; these infants will be referred for treatment a",
+      "endpoints": [
+        "Change from baseline in the isotopic ratio of iron in blood at week 5"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02666417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04250428",
+      "title": "Strategies to Increase Antenatal Iron and Folic Acid Supplementation and Malaria Prophylaxis in Rural South-central Côte d'Ivoire: Study Protocol of a Cluster Randomised Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-02",
+      "completion_date": "2021-12",
+      "country": "N/A",
+      "enrollment": 720,
+      "brief_summary": "Pregnancy increases the risk of malaria and nutritional deficiency. Despite some progress in ANC access over the past years, coverage of antenatal iron and folic acid supplementation (AIFAS) and intermittent preventive treatment of malaria in pregnancy (IPTp) remains low in many countries. The main objective of this research project is to identify the most effective ways to increase AIFAS and IPTp in low-income settings. We will assess the relative effectiveness of two strategies: the provision ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women in the first trimester of their pregnancy, living in the HDSS with an age greater than or equal to 15 years.\n* Be registered as a member in the HDSS of Taabo\n* Willing to provide one drop of blood for hemoglobin assessment and the rapid diagnostic malaria test.\n",
+      "endpoints": [
+        "Percentage of participants with a concentration of hemoglobin less than 11g/dL after delivery",
+        "Percentage of participants tested positive for malaria"
+      ],
+      "sponsor": "Centre Suisse de Recherches Scientifiques en Cote d'Ivoire",
+      "url": "https://clinicaltrials.gov/study/NCT04250428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04404751",
+      "title": "Effectiveness of Quadruple Fortified Salt in Improving Hemoglobin Levels Among Anemic Women of Reproductive Age (18-49 Years) in Rural Low Resource Setting",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-08-23",
+      "completion_date": "2020-12-31",
+      "country": "Tanzania",
+      "enrollment": 174,
+      "brief_summary": "Anaemia is the world leading cause of disability and is responsible for about more than 115,000 maternal deaths and 591,000 perinatal deaths per year, of which 3/4 occur in Africa and Asia. Despite the fact that there are several causes of anemia, the most important causes are due to micronutrients deficiency, namely iron, Folic acid and Vitamin B12. Low intakes of these micronutrients consequently affect a woman's health, pregnancy outcome and the nutritional status of breast-fed children. With",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult with relative low haemoglobin (Hb level 8g/dl to 13g/dl)\n* Able to eat food cooked with salt\n* Able to give consent\n\nExclusion Criteria:\n\n* Planning to become pregnant within the study period,\n* chronically ill,\n* have haematological diseases during study time,\n* restric",
+      "endpoints": [
+        "Haemoglobin level"
+      ],
+      "sponsor": "Haydom Lutheran Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04404751"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06009575",
+      "title": "Local Culture-Based Nutrition Education Intervention on Iron Supplement Tablets (IST) Consumption Compliance in Female Adolescents at Ogan Komering Ilir Regency: A Quasi-Experimental Protocol Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-07-01",
+      "completion_date": "2022-01-31",
+      "country": "Indonesia",
+      "enrollment": 126,
+      "brief_summary": "The goal of this clinical trial is to test the impact of a local culture-based nutritional education intervention on IST consumption compliance among female adolescents in the Ogan Komering Ilir Regency. The main questions it aims to answer are:\n\na To identify information for the development of a local culture-based nutrition education model and to build a ready-to-implement local culture-based nutrition education model.\n\nb. To evaluate the implementation of the Anemia Prevention and Control Pro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* public schools have received the IST program from the government, and the distance between schools is at least 10 kilometers\n* students enrolled in grade 11, age range 15-17 years, menstruating, owning a smartphone, having an Instagram account, and obtaining parental approval ",
+      "endpoints": [
+        "Educational Intervention",
+        "Iron Supplement Tablet (IST) Administration"
+      ],
+      "sponsor": "Universitas Sriwijaya",
+      "url": "https://clinicaltrials.gov/study/NCT06009575"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06876545",
+      "title": "Identification of Vitamin C Deficiency in Hospitalized Adults Through a Systematic Approach Vs. Traditional Medical Judgment: a Before-and-After Observational Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2025-04-30",
+      "country": "France",
+      "enrollment": 150,
+      "brief_summary": "Brief Summary of the Study The goal of this observational study is to assess the incidence of vitamin C deficiency among hospitalized adults presenting with hemorrhagic signs. The study will also evaluate the effectiveness of a standardized screening protocol compared to traditional clinical judgment.\n\nThe main questions it aims to answer are:\n\nWhat is the incidence of vitamin C deficiency in hospitalized patients with hemorrhagic symptoms? Is a standardized screening protocol more effective tha",
+      "eligibility_criteria": "Inclusion Criteria:\n\nHospitalized adult patients (≥18 years old) who had Vitamin C testing performed during their hospital stay.\n\nDocumented hemorrhagic manifestations in medical records, including at least one of the following:\n\nHematuria (macroscopic or detected via urine dipstick/microscopy). Ecc",
+      "endpoints": [
+        "The primary outcome of the study is the existence of Vitamin C deficiency in hospitalized patients presenting with hemorrhagic signs."
+      ],
+      "sponsor": "Internist.Ro",
+      "url": "https://clinicaltrials.gov/study/NCT06876545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05020847",
+      "title": "The Underlying Causes Affecting the Response to Dietary Rehabilitation in Severely Acutely Malnourished Children at the Center Hôspitalier Universitaire Sourô Sanou, Bobo Dioulasso, Burkina Faso",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-09-15",
+      "completion_date": "2023-08-31",
+      "country": "Burkina Faso",
+      "enrollment": 297,
+      "brief_summary": "Severe acute malnutrition (SAM) is a life threatening condition and is defined by 1) a weight-for-height Z-score more than three standard deviations (SD) below the median based on the 2006 World Health Organization (WHO) growth standards, 2) a mid-upper arm circumference (MUAC) of less than 115 mm or 3) by the presence of nutritional edema. Signs such as edema, mucocutaneous changes, hepatomegaly, lethargy, anorexia, anemia, severe immune deficiency and rapid progression to mortality characteriz",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Severe acute malnutrition defined as Weight-for-Height Z-score (WHZ) \\<- 3 SD AND / OR MUAC \\<115 mm AND / OR with edema\n* With complications\n* Who are admitted and treated in the refeeding center (CREN) of the CHUSS\n* Aged between 6 and 59 Months\n* Parental Signed informed co",
+      "endpoints": [
+        "Recovery rate of children",
+        "Daily weight gain",
+        "Number of days during the first phase of treatment"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT05020847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05178407",
+      "title": "Effect of Household Use of Multiple Micronutrient-fortified Bouillon on Micronutrient Status Among Women and Children in Two Districts in the Northern Region of Ghana",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-16",
+      "completion_date": "2024-06-12",
+      "country": "Ghana",
+      "enrollment": 2372,
+      "brief_summary": "Background: Micronutrient (MN) deficiencies are severe and widespread in West Africa, particularly among young children and women of reproductive age. Bouillon is a promising food fortification vehicle because the product is centrally processed on large scale, consumed by most households in West African countries (even rural, poor households), and consumed by most members of the household in relatively constant amounts. However, several important research questions remain regarding whether the u",
+      "eligibility_criteria": "Inclusion/exclusion criteria at recruitment (home visit):\n\nHousehold\n\nInclusion criteria:\n\n\\- Head of household provides oral consent for the participation of household members (index participants), and willingness to have study-provided bouillon cubes used in their household for the next 10 months.",
+      "endpoints": [
+        "Change in vitamin A status among non-pregnant, non-lactating women",
+        "Change in vitamin A status among children 2-5 years",
+        "Change in vitamin A status among lactating women 4-18 mo postpartum"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT05178407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06084871",
+      "title": "Patient Blood Management in Cardiac Surgery in Turkiye",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-06-01",
+      "completion_date": "2025-06-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 368,
+      "brief_summary": "* Rationale and background: Surgical patients' transfusions have changed from replacing surgically lost blood with allogenic blood transfusions to implementing strategies that reduce transfusion requirements. Patient Blood Management (PBM) is designed to maintain hemoglobin concentration, optimize hemostasis, and minimize blood loss to improve patient outcomes. There is mounting evidence that multimodal PBM programs can improve postoperative outcomes and reduce perioperative blood transfusions a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed patient informed consent\n* Male or female patient 18-80 years old\n* Patients scheduled for elective first time coronary artery bypass grafting (CABG)\n* Antiplatelet treatment will be discontinued in patients on antiplatelet therapy and will be operated after wash-out ti",
+      "endpoints": [
+        "Red blood cell transfusion"
+      ],
+      "sponsor": "ERAS Turkey Association",
+      "url": "https://clinicaltrials.gov/study/NCT06084871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07361380",
+      "title": "Non-Invasive Testing of Blood Biomarkers in Pregnant Women",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-10-28",
+      "completion_date": "2026-10-01",
+      "country": "United Kingdom",
+      "enrollment": 300,
+      "brief_summary": "Anaemia (iron deficiency) arises from a reduction in the number of healthy red blood cells or the level of haemoglobin (Hb) (a protein inside red blood cells) necessary to effectively transport oxygen throughout the body. Anaemia is common among pregnant women. The gold standard for anaemia diagnosis still relies on laboratory blood tests, which come with limitations in terms of point-of-care capability, accessibility and quality. The investigators have developed a portable and user-friendly dev",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant is willing and able to give informed consent for participation in the study.\n* Pregnant\n* Aged 16-50 years\n\nExclusion Criteria:\n\n* Ear piercings that cannot be temporarily removed that would prevent the ability of the VITA device to take images of the ear blood ves",
+      "endpoints": [
+        "To compare Hb measured by VITA with Hb measured by blood sample analysis"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT07361380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01930838",
+      "title": "Prevalence of Medical and Nutritional Complications After Bariatric Surgery (Gastric Bypass) Based on a Clinical Trial",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2016-08",
+      "completion_date": "2016-08",
+      "country": "Denmark",
+      "enrollment": 0,
+      "brief_summary": "The number of obese is increasing rapidly. Bariatric surgery is used to a greater and greater extent as treatment of obesity to obtain a greater and more permanent weight loss. The currently most commonly used surgical method is the gastric bypass (RYGB), which so far has proved to be the most effective way to achieve a greater and more permanent weight loss, reduction and maybe even elimination of many of the obesity-related health complication (diabetes, sleep apnea, pain due to osteoarthrosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* gastric bypass operation 2006-2011\n* resident in The Central Denmark Region\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "Number of participants with complications"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT01930838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01358552",
+      "title": "Néevo®/NéevoDHA® P.L.U.S. Program (Progress Through Learning, Understand & Support)",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2011-01",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "This is an observational study in which patients who have been prescribed Néevo®/NéevoDHA® are invited to participate in surveys about their pregnancy and experiences with Néevo®/NéevoDHA®. The purpose of this study is to increase the understanding of the role of L-methylfolate among patients who are candidates for Néevo®/NéevoDHA®, provide patients with personalized education and support during their pregnancies, and contribute to the overall understanding of the needs and concerns of women fac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* New Néevo®/NéevoDHA® Start.\n* Only for women who are pregnant and taking brand name Néevo®/ NéevoDHA® under a physicians care.\n\nExclusion Criteria:\n\n* Patients who are not pregnant.\n* If participant indicates that she did not get a prescription for Néevo®/ NéevoDHA®, she will ",
+      "endpoints": [
+        "To determine the safety and tolerability of Néevo®/NéevoDHA® as measured by side effects and compliance"
+      ],
+      "sponsor": "Pamlab, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01358552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01062958",
+      "title": "A Retrospective Analysis of Neevo® and Neevo®DHA Compared to a Standard Prenatal Vitamin in Anemia During Pregnancy (N-001)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2010-02",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This study is a multi-site, retrospective chart review to determine the effect of Neevo® or Neevo®DHA (with higher folate and B12) versus standard prenatal vitamins on hemoglobin (Hgb) levels in pregnant women throughout the course of pregnancy. Neevo® is a prescription medical food indicated for the dietary management of women under a doctor's care who face high risk pregnancies, older overactive bladder (OB) patients and patients unable to fully metabolize folic acid. Data will be collected fr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant females, age 21-39, who received either Neevo®/Neevo®DHA or another standard prenatal vitamin (Prenatal vitamins must contain ≤1 mg folic acid, 27-35mg iron, and ≤12mcg vitamin B12).\n* Clinical diagnosis of pregnancy must have been made at ≤12 weeks of pregnancy and o",
+      "endpoints": [
+        "To determine the effect of Neevo®/Neevo®DHA (with higher folate and B12) versus standard prenatal vitamins on hemoglobin levels in pregnant women throughout the course of pregnancy."
+      ],
+      "sponsor": "Pamlab, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01062958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05975125",
+      "title": "The Effect of Vitamin C for Iron Supplementation During Pregnancy with Risk of Anemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-06-28",
+      "completion_date": "2024-06-27",
+      "country": "Thailand",
+      "enrollment": 100,
+      "brief_summary": "Anemia is a common problem during pregnancy. Most studies have demonstrated that anemia during pregnancy have adverse effects on their pregnancy outcome, which is important and should pay attention to prevent and solve such problems. The most common cause of anemia is iron deficiency. Several studies reveal that Vitamin C promotes iron absorption. In this study we will compare between Vitamin C with iron supplement and iron supplement alone in prevention of anemia in pregnancy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Pregnant woman Antenatal care at Rajavithi Hospital\n2. Singleton pregnancy\n3. Provide inform consent with both patient and her husband\n4. Gestational age between 14-28 weeks\n5. Risk of anemia during pregnancy, including more than 2 pregnancies, teenage pregnancy, advanced mat",
+      "endpoints": [
+        "To compare hemoglobin and hematocrit levels"
+      ],
+      "sponsor": "Department of Medical Services Ministry of Public Health of Thailand",
+      "url": "https://clinicaltrials.gov/study/NCT05975125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04561635",
+      "title": "Effects of Multiple-micronutrients Supplementation on Growth and Iron Status of Indigenous Children in Malaysia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-09-01",
+      "completion_date": "2019-04-30",
+      "country": "Malaysia",
+      "enrollment": 98,
+      "brief_summary": "Child undernutrition is largely attributed to inadequate nutrition including micronutrient deficiency. Undernutrition is prevalent among indigenous children as compared to the general population. This cluster randomized controlled trial aimed to determine the effect of multiple-micronutrients supplement (MMS) on growth and iron status of Orang Asli (indigenous group in Peninsular Malaysia) young children (6 to 24 months) in Selangor. MMS is a blend of 15 micronutrients in powder form that can be",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 6 to 24 months old; and\n* Normal weight-for-age (WAZ \\> -2SD), length-for-age (LAZ \\> -2SD) and weight-for-length (WLZ \\> -2SD); and\n* Normal haemoglobin level (\\> 11.0g/dL).\n\nExclusion Criteria:\n\n* Has/ had history of chronic diseases e.g. failure to thrive and/o",
+      "endpoints": [
+        "Weight",
+        "Length",
+        "Weight-for-age z score"
+      ],
+      "sponsor": "Universiti Putra Malaysia",
+      "url": "https://clinicaltrials.gov/study/NCT04561635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00613717",
+      "title": "Timing, Duration and Severity of Infant Iron Deficiency: Developmental Impacts",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2014-06",
+      "country": "China",
+      "enrollment": 2371,
+      "brief_summary": "The Healthy Infant Development Project will determine if providing micronutrient supplements to mothers during pregnancy and infants in the first 9 months fosters healthy behavior and development in babies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Full-term healthy neonates born to study mothers from CDC's Prenatal Nutrition Study with randomly selected lot numbers.\n\nExclusion Criteria:\n\n* birth weight \\< 2500 g\n* gestational age ≤ 37 wk\n* major perinatal complications\n* major congenital anomaly\n* multiple birth.",
+      "endpoints": [
+        "Infant behavior and development"
+      ],
+      "sponsor": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "url": "https://clinicaltrials.gov/study/NCT00613717"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03067012",
+      "title": "Nutritional Safety and Metabolic Benefits of Oncometabolic Surgery (Long Limb Uncut Roux-en Y Gastrojejunostomy) for Obese Gastric Cancer",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-09-01",
+      "completion_date": "2017-07-30",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "The metabolic effect of oncometabolic surgery (long limb Roux-en Y reconstruction) for early gastric cancer patients has been revealed in a few pilot studies. However, the nutritional safety has not been dealt with in previous literatures. This is a prospective pilot study for evaluating the nutritional safety and metabolic benefits of oncometabolic surgery for obese early gastric cancer patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Lesion located on distal or mid stomach Lesion confined to submucosa (cT1b) : Early gastric cancer No evidence of metastatic enlarged lymph nodes Preoperative body mass index (BMI) ≥ 32.5 kg/m2 or ≥ 27.5 kg/m2 with co-morbidities\n\nExclusion Criteria:\n\n* Being unable to underst",
+      "endpoints": [
+        "micronutrients' deficiency (iron, folate, vitamin B12)"
+      ],
+      "sponsor": "Seoul National University Bundang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03067012"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04398238",
+      "title": "\"Change in Transfusion Rates of Patients Undergoing Elective Total Hip Replacement Before/After the Implementation of a Peri-operative Patient Blood Management Program: a Retrospective Observational Study.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-08-01",
+      "completion_date": "2023-04-04",
+      "country": "Italy",
+      "enrollment": 400,
+      "brief_summary": "Retrospective observational study: impact of a peri-operative patient blood management program (PBM) on transfusion rates of patients undergoing elective hip replacement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* undergoing elective hip replacement in the selected time-frame\n* American Society of Anesthesiology (ASA) status 1-2-3\n* age \\>18\n\nExclusion Criteria:\n\n* patients not undergoing screening as outpatients at pre-operative clinic",
+      "endpoints": [
+        "transfusion rates"
+      ],
+      "sponsor": "Istituto Ortopedico Rizzoli",
+      "url": "https://clinicaltrials.gov/study/NCT04398238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04820465",
+      "title": "Identification of the Main Causes of Anemia in Older Adults",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-07",
+      "completion_date": "2015-09",
+      "country": "N/A",
+      "enrollment": 829,
+      "brief_summary": "A cross-sectional study with 829 older Mexican adults were recruited from July to September 2015, from four localities in the southern region of México. Older adults were interviewed at their homes and a fasting blood sample was obtained for analysis of micronutrient status (iron deficiency, vitamin B12 deficiency, folate deficiency, vitamin A deficiency and biomarkers of inflammation). The aim of the study was to identify the main causes of anemia in older adults with higher rates of anemia acc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Community-dwelling older adults who wish to participate in the study\n* Ambulatory older adultos\n* Older adult with own decision making\n\nExclusion Criteria:\n\n* Non demented\n* Non oxygen dependent\n* No disability",
+      "endpoints": [
+        "Anemia"
+      ],
+      "sponsor": "Instituto Nacional de Salud Publica, Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT04820465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02280330",
+      "title": "Iodine Intake & Status of Preschoolers Given Micronutrient Powder for 6 Months",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2015-03",
+      "country": "Philippines",
+      "enrollment": 396,
+      "brief_summary": "Iodine deficiency remains widespread worldwide with children as among the vulnerable groups considering their stage of growth and development. In the Philippines, current data shows an optimal status among schoolchildren, however no data exists on iodine status nor intake of preschool children. One recent approach to improvement of the vitamin and mineral status of the population is home fortification using micronutrient powder or MNP. This contains 15 vitamins and minerals, including iodine and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* apparently healthy\n* permanent resident in the barangay or municipality\n* 4-6 years old\n* with informed written parental consent\n* whose mothers are willing to devote time for the survey\n\nExclusion Criteria:\n\n* severely underweight\n* with obvious clinical problem like goiter, ",
+      "endpoints": [
+        "Iodine status based on urinary iodine measures"
+      ],
+      "sponsor": "Nutrition Center of the Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT02280330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06637137",
+      "title": "Patient Blood Management in Cardiac Surgical Patients: the ICARUS-2 Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-02-24",
+      "completion_date": "2027-02-28",
+      "country": "Italy",
+      "enrollment": 464,
+      "brief_summary": "The ICARUS 2 study has the general objective of collecting data in patients undergoing cardiac surgery; in our centre, in order to optimize and improve hemoglobin values, a team of haematologists, assisted by cardio anesthetists and cardiac surgeons, will evaluate the blood tests of patients scheduled for elective cardiac surgery in order to correct any states of hypoferritinemia (low iron in the blood) to promote recovery from blood losses related to cardiac surgery. This objective is strongly ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- all adult patients scheduled for elective cardiac surgery\n\nExclusion Criteria:\n\n* pregnancy\n* dyalisis\n* patient's refusal",
+      "endpoints": [
+        "Percentage of patients receiving RBC transfusion within post-operative day 7"
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT06637137"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06875947",
+      "title": "EFFECTS of MORINGA OLEIFERA LEAF MICRONIZED POWDERS on HEMATOLOGICAL PROFILES, PERIPHERAL BLOOD SMEAR, HEPCIDIN, AND CYTOKINES (IL-1 DAN IL-6) OF PREGNANT WOMEN WITH IRON DEFICIENCY ANAEMIA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-05-23",
+      "completion_date": "2026-05-31",
+      "country": "Indonesia",
+      "enrollment": 59,
+      "brief_summary": "Title: The Effect of Moringa Oleifera Leaf Micronized Powders on Hematological Profile, Hepcidin, and Cytokines (IL-1 and IL-6) in Pregnant Women with Iron Deficiency Anemia\n\nStudy Description:\n\nIron deficiency anemia is one of the most common health problems affecting pregnant women worldwide, especially in developing countries like Indonesia. This condition can cause serious complications for both mothers and babies, such as premature birth, low birth weight, and increased risk of maternal mor",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Demographic Characteristics:\n\n   * Women aged 18-44 years\n   * Married, have a husband and/or family\n   * Have an ID card\n2. Clinical Characteristics:\n\n   * Pregnant with a gestational age of 28 to \\<32 weeks\n   * Live single fetus\n   * Hemoglobin (Hb) 7 - \\< 11 g/dl\n   * No c",
+      "endpoints": [
+        "Hemoglobin Levels"
+      ],
+      "sponsor": "Fakultas Kedokteran Universitas Padjadjaran",
+      "url": "https://clinicaltrials.gov/study/NCT06875947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03853304",
+      "title": "A Randomized Trial of Quadruple Fortified Salt for Anemia and Birth Defects Prevention in Southern India",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-10-01",
+      "completion_date": "2024-12",
+      "country": "India",
+      "enrollment": 1000,
+      "brief_summary": "Women of reproductive age are at an increased risk of anemia and micronutrient deficiencies. Evidence supports the role of periconceptional nutrition in the development of neural tube defects and other pregnancy complications. Vitamin B12 deficiency is a risk factor for neural tube defects and may modify folate biomarkers that predict neural tube defect risk at the population level. There is an interest in mandatory fortification with vitamin B12 and folic acid for anemia and birth defect preven",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women between 18 and 49 years of age\n* Healthy\n* Not pregnant or lactating\n* Plan to reside in the catchment area of our periconceptional surveillance program for at least two years\n\nExclusion Criteria:\n\n* Severe anemia (Hemoglobin \\<8.0 g/dL)\n* Reported diagnosis of HIV, mala",
+      "endpoints": [
+        "Concentrations of erythrocyte folate and serum folate",
+        "Concentrations of hemoglobin",
+        "Concentrations of vitamin B12"
+      ],
+      "sponsor": "Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT03853304"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088958",
+      "title": "Diarrhea, Malaria, Anemia, and Helminthiasis Prevention Through Household-based Interventions in Rural Western Kenya: the Nyando Integrated Child Health and Education (NICHE) Project",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2014-09",
+      "country": "Kenya",
+      "enrollment": 7200,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness of household-based distribution of evidence-based health products and to measure the health impact of these combined interventions on a population basis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 6-36 months at the time of enrollment\n* Live within the study area for the duration of the intervention and follow-up period\n\nExclusion Criteria:\n\n* Unavailable for enrollment on 3 separate household visits\n* Parental refusal to give informed consent",
+      "endpoints": [
+        "Product sales and use (coverage)"
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT01088958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06669052",
+      "title": "Liposomal Iron 30 mg Supplement in Non-anemic Pregnant Females an Observational Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-11-01",
+      "completion_date": "2025-05",
+      "country": "N/A",
+      "enrollment": 714,
+      "brief_summary": "Protocol Summary: Liposomal Iron Supplementation in Non-anemic Pregnant Females This observational study aims to evaluate the efficacy and safety of daily liposomal iron supplementation (30 mg) in non-anemic pregnant women during their second trimester of pregnancy. The study will focus on pregnant females aged 18-45 years with low-risk, singleton pregnancies who are non-anemic (hemoglobin ≥10.5) at 14-16 weeks gestation.\n\nPrimary Research Question:\n\nDoes daily supplementation with 30 mg liposom",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant females; gestational age from 14 to 16 weeks Age 18-45 years\n* Low-risk pregnancy is defined as a pregnancy in which there is no high risk of problems or unfavorable outcomes, and the expectant mother and fetus are typically healthy\n* Non-anemic women at the time of r",
+      "endpoints": [
+        "Measure the change in Maternal Hemoglobin Level"
+      ],
+      "sponsor": "Orchidia pharmaceutical Industries",
+      "url": "https://clinicaltrials.gov/study/NCT06669052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00727571",
+      "title": "Prospective Observational Study to Evaluate Physical Performance and Quality of Life in Older Long Stay Nursing Home Residents With Chronic Kidney Disease With and Without Anemia",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2008-07",
+      "country": "N/A",
+      "enrollment": 815,
+      "brief_summary": "This is a prospective, multicenter, observational, hypothesis-generating study exploring mobility, Quality of Life and other physical performance measures among older, long-term stay Nursing Home residents with CKD, with versus without anemia. Enrolled patients will participate in the study up to a total of 26 weeks and be assessed at Weeks 1, 2, 14 and 26/End of Study. Based upon Week 1 hemoglobin and serum creatinine lab results, participants will be categorized into 1 of 4 groups.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 65 years\n* Long-term resident of NH as documented in medical record by Director of Nursing (DON) or Medical Director or as indicated in Minimum Data Set (MDS) Section Q\n* Able to walk at least 1 step or propel wheelchair 1 revolution of wheel\n* Able to follow a one-step",
+      "endpoints": [
+        "Total Distance Walked or Wheeled in a Maximum of 10 Minutes at Each Visit"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00727571"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04414527",
+      "title": "Effects of Video-based Health Education on Health Status of Pregnant Mothers and Their Infants (From 0 to 6 Months) in Dirashe District Southern Ethiopia - a Cluster Randomized Controlled Trial.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-03-13",
+      "completion_date": "2021-07-31",
+      "country": "Ethiopia",
+      "enrollment": 675,
+      "brief_summary": "Low adherence to recommended health and nutrition strategies during the critical 1000 day-window of opportunity is multifactorial but low quality communication is key limitation. Innovative strategies to improve interpersonal communication can reduce the burden and the fatigue of community health workers and may result in a greater change. The findings of this project will support governments and other stakeholders in their delivery of high impact nutrition and health practices.\n\nThis interventi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent form\n* Aged at least 18 years\n* Permanent resident of the village of the study intervention/control\n* Planned availability during the whole period of the study (12 months)\n* Acceptance of the intervention package including home visits for data collectio",
+      "endpoints": [
+        "Adherence to iron and folic acid supplementation during pregnancy",
+        "Adherence to iron and folic acid supplementation post-partum",
+        "Maternal anemia during pregnancy"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT04414527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05389618",
+      "title": "Dietary Challenges in the Population of Nursing Homes' Residents in Slovenia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-05-26",
+      "completion_date": "2023-12-31",
+      "country": "Slovenia",
+      "enrollment": 300,
+      "brief_summary": "To obtain up-to-date data on nutritional status of older adults, a national dietary survey will be conducted in 2022/2023, providing data on the consumption of foods and enabling the assessment intakes of energy and specific nutrients. Participating subjects will be also screened for micronutrient status using blood biomarkers (focusing into vitamin D, folic acid, vitamin B12, and iron).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 65 years or older\n* Has been in the elderly care institution (nursing home) for at least 3 months before joining the study\n* Care category: I., II., III.A\n* The person can feed independently or with minimal help\n* Agrees to be included in the study (signed a statement of c",
+      "endpoints": [
+        "Assessment of protein intake",
+        "Assessment of energy intake"
+      ],
+      "sponsor": "Institute of Nutrition, Slovenia (Nutris)",
+      "url": "https://clinicaltrials.gov/study/NCT05389618"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05455073",
+      "title": "Evaluation of a Package of Nutrition Interventions to School-based Nutrition and Health Intervention for Adolescents in Bangladesh",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-07-31",
+      "completion_date": "2022-02-28",
+      "country": "Canada",
+      "enrollment": 3018,
+      "brief_summary": "Addressing the nutrition needs of adolescents could be an important initiative for breaking the vicious cycle of intergenerational malnutrition, chronic diseases and poverty. To respond to these diverse needs of adolescents, the Government of Bangladesh (GoB) in 2012, instituted a national policy for adolescent girls' weekly iron and folic acid (WIFA) supplementation in secondary schools to reduce anemia. Efforts are in place to roll out a national WIFA supplementation program for both in-school",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Randomly selected adolescent girl or boy\n* Present on the day(s) of the survey\n* Verbal assent and parental/guardian written consent\n* School level headteacher, assigned teacher or student leader in the various grades\n\nExclusion Criteria:\n\n* Girl or boy enrolled in grades othe",
+      "endpoints": [
+        "Hemoglobin concentration and anemia prevalence among adolescent girls",
+        "Iron and folate status, iron deficiency and folate insufficiency among adolescent girls",
+        "Decrease morbidity among adolescents due to improved water, sanitation and hygiene (WASH) behaviour."
+      ],
+      "sponsor": "Nutrition International",
+      "url": "https://clinicaltrials.gov/study/NCT05455073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03522428",
+      "title": "Vitamin B12 Supplementation in Addition to Folic Acid and Iron Improves Hematological and Biochemical Markers in Pregnancy: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09-15",
+      "completion_date": "2012-12-23",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "Pregnancy is associated with increased requirements for iron and increased blood volume of up to 40%. Because expansion in plasma volume is higher than the increase in the mass of red blood cells, there is a fall in hemoglobin concentration, which leads to physiological anemia, characterized with lower hemoglobin (Hb), hematocrit and red blood cells, but without changes in mean corpuscular volume (MCV). Anemia in pregnancy is defined with Hb values under 110 g/L in the first trimester and under ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* healthy women from 8th week of pregnancy\n\nExclusion Criteria:\n\n* existence of hypertension\n* existence of diabetes\n* existence of genetic abnormalities\n* smoking\n* previous miscarriage",
+      "endpoints": [
+        "Change of Red blood cells (RBC) count in first and second trimester",
+        "Change of Hemoglobin (Hgb) concentration in first and second trimester",
+        "Change of Hematocrit in first and second trimester"
+      ],
+      "sponsor": "University of Split, School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03522428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02481375",
+      "title": "Is Iron Deficiency the Cause of Anemia Among Women of Reproductive Age in Cambodia? A 2 x 2 Factorial Double Blind Randomized Controlled Trial of Oral Iron and Multiple Micronutrient Supplementation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-07",
+      "completion_date": "2016-01",
+      "country": "Cambodia",
+      "enrollment": 809,
+      "brief_summary": "Globally, the most common cause of anemia is thought to be iron deficiency anemia (IDA). This was assumed to be the major cause of anemia in Cambodia, because Cambodian diets, which consist mainly of rice, lack iron-rich animal food sources. However, our findings from a previous study in Cambodia (a Canadian government funded study investigating multiple interventions to improve food and nutrition security) showed that IDA is almost non-existent and challenges this assumption. In a cross-section",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. women between 18-45 years\n2. healthy except for Hb = or \\<117 g/L\n3. consent to participate in the study.\n\nExclusion Criteria:\n\n1. women with Hb \\>117 g/L\n2. women who are currently pregnant\n3. women who are taking medications, including any dietary supplements.",
+      "endpoints": [
+        "Hemoglobin Levels at 12-weeks. Marginal Means (95% CI)."
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT02481375"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02989311",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-08",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 23,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA by ensuring that the iron needs of infants and young children are met without changing their traditional diet. In order to optimize iron absorption timing of MNP consumption might as well be important. This is because hepcidin, a ke",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by health professional staff at Msambweni County Referral Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L; these infants will be referred fo",
+      "endpoints": [
+        "Change from baseline in isotopic ratio of iron in blood at day 18 and 19 for Study 1 and 2 respectively"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02989311"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01795131",
+      "title": "Role of Vitamin B12 Supplementation During Pregnancy and Postpartum to Reduce Nutritional Anemia and Improve Immunity in Bangladeshi Women and Their Infants",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2013-12",
+      "country": "Bangladesh",
+      "enrollment": 120,
+      "brief_summary": "Nutritional anemia is a major public health problem among children and women in developing countries. Despite ongoing national program of supplementing pregnant women with iron-folate, prevalence of anemia is 39% among pregnant women and 78% among infants in Bangladesh. Vitamin B12 deficiency is a more prevalent cause of megaloblastic anemia than folate in many developing countries. This data raises the interest to address the role of vitamin B12 deficiency in nutritional anemia. Low dietary int",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Hb level in the range of 7.0-11 g/dL\n2. Age: 22-35 years\n3. Mothers at the beginning of second trimester (i.e. at 11-14 weeks of gestation)\n4. Willing to stay in Dhaka during pregnancy and willing to get admitted in the clinic for delivery\n5. Self-reported Last Menstrual Peri",
+      "endpoints": [
+        "a) Percent reduction in nutritional anemia among mothers (based on measurement of Hb, ferritin, sTfR, folate, B12 levels in plasma; urinary MMA and tHcy; B12 levels in breast milk.)",
+        "Increase in influenza vaccine specific cellular and humoral responses among mothers (blastogenesis and T cell phenotyping,serum IgA, and IgG).",
+        "Increase in influenza vaccine specific immunity in infants by passive transfer (vaccine specific IgG in cord blood and breast milk and IgA in children at 3 mo)."
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT01795131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03978260",
+      "title": "Preoperative Anaemia Prevalence in Surgical Patients- A Prospective, International, Multicentre Observational Study (ALICE)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-08-15",
+      "completion_date": "2023-12-31",
+      "country": "Germany",
+      "enrollment": 2500,
+      "brief_summary": "Preoperative anaemia is common in surgery, with a prevalence between 10 and 50 %, and is an independent risk factor for morbidity and mortality.\n\nAnaemia is mostly the result of an inadequate erythropoiesis due to iron deficiency, lack of vitamin B12 or folate, and bone marrow diseases. Among the elderly, renal disease and chronic inflammation account for approximately one-third of all anaemia incidences. The aim of this study is to provide detailed data about the prevalence of preoperative defi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Written informed consent prior to study participating according to the national law requirements\n* Patients undergoing major surgery\n* Expected hospital stay with a minimum of 24 hours\n\nExclusion Criteria:\n\n* Preoperative autologous blood donation\n* Patients w",
+      "endpoints": [
+        "Prevalence of preoperative anaemia"
+      ],
+      "sponsor": "Johann Wolfgang Goethe University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03978260"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03990948",
+      "title": "Hepcidin Behavior in Patients With Obesity and Bariatric Surgery",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2019-01-08",
+      "completion_date": "2023-12-12",
+      "country": "Belgium",
+      "enrollment": 300,
+      "brief_summary": "Iron deficiency is one of the most common nutritional problems observed in patients with obesity and after bariatric surgery. From a therapeutic point of view, iron deficiency can lead to iron deficiency anemia. Iron supplementation carries the risk of exacerbating infections, altering the gut microbiome and iron overload. Therefore, it would be beneficial to use iron supplementation only in truly iron deficient patients. To date, different studies have observed that hepcidin could be a possible",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient has to be 18 years or older\n* Written informed consent has to be obtained after being informed on all aspects of the study\n* The patient has a BMI \\> 30 kg/m² OR There has to be at least one year between the primary RYGB and the participation in the study OR There ",
+      "endpoints": [
+        "Serum hepcidin concentration"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT03990948"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01715038",
+      "title": "Home-fortification Approaches for the Prevention of Malnutrition in Pregnant and Lactating Women and Their Children in Bangladesh: Program Effectiveness Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2015-10",
+      "country": "Bangladesh",
+      "enrollment": 4011,
+      "brief_summary": "The program effectiveness study aims to assess the effect of a lipid-based nutrition supplement (LNS) and micronutrient powder (MNP) provided in a programmatic context for improving maternal nutritional status during pregnancy and lactation (LNS only), and preventing malnutrition in infants and young children (LNS and MNP) in Bangladesh.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age ≤ 20 weeks\n* Planning to remain in the study area during pregnancy and the following three years (i.e., a permanent resident of the study area)\n\nExclusion Criteria:\n\n* Pregnancy identified and registered in the CHDP program before the beginning of the enrollmen",
+      "endpoints": [
+        "Birth weight",
+        "Birth length",
+        "Child linear growth status at 24 months"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT01715038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05489094",
+      "title": "The Impact of Nutrition Education and Milk Provision in Fueling the Progress of 1 - 3 Years Old Children",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-08-31",
+      "completion_date": "2023-02-28",
+      "country": "N/A",
+      "enrollment": 196,
+      "brief_summary": "The study will be conducted by the Indonesia Nutrition Association that led by a Principle Investigator and supported by the study team consisted of Nutritionists.\n\nThe aims of the study are to reduce iron deficiency by increasing iron intake in children 1-3 years by providing interventions in the form of increasing iron intake from growing up milk for four months and nutrition education for the intervention group and nutrition education only for the control group.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Apparently healthy Indonesian children\n* Age 12 - 32 months at baseline visit\n* Willing to take min 2 serving of study product per day\n* Daily Iron intake less than 80% of Indonesian RDA (\\<5.6 mg/day)\n* Planning to reside in the study area during the next 4 months\n* Written i",
+      "endpoints": [
+        "Impact of milk provision on change from baseline of daily iron intake at 4 month in intervention group vs control group"
+      ],
+      "sponsor": "Danone Specialized Nutrition Indonesia",
+      "url": "https://clinicaltrials.gov/study/NCT05489094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04464850",
+      "title": "Effects Intravenous Iron and Oral Iron Therapy on Erythropoietin Dose in Maintenance Hemodialysis Patients: An Open-label, Randomized, Controlled Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-29",
+      "completion_date": "2022-07-31",
+      "country": "Thailand",
+      "enrollment": 124,
+      "brief_summary": "This study is aim to compare the efficacy of intravenous versus oral iron therapy regarding the hemoglobin levels, iron status and erythropoietin dosage in maintenance hemodialysis patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Hemodialysis for at least 3 months\n* Hemoglobin levels between 8 and 11.5 g/dl inclusive\n* Transferrin saturation (TSAT) \\<50% and ferritin \\<800 mg/dl\n* Stable dose of epoetin of any types and iron therapy for at least 1 month\n\nExclusion Criteria:\n\n* History ",
+      "endpoints": [
+        "Changes of epoetin dose"
+      ],
+      "sponsor": "Chiang Mai University",
+      "url": "https://clinicaltrials.gov/study/NCT04464850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07387588",
+      "title": "Anemia as Predictor of Outcome in IBD Pateints in Assuit University Hospitals",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03",
+      "completion_date": "2027-12",
+      "country": "N/A",
+      "enrollment": 83,
+      "brief_summary": "Inflammatory bowel diseases (IBD), encompassing ulcerative colitis (UC) and Crohn's disease (CD), are chronic, relapsing inflammatory disorders of the gastrointestinal tract with significant morbidity and impact on patients' quality of life. Despite advances in diagnostic and therapeutic strategies, many patients continue to experience complications, frequent hospitalizations, and impaired long-term outcomes. Identifying prognostic factors that can predict disease course and response to therapy ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Adult patients (≥18 years old) diagnosed with inflammatory bowel diseases (ulcerative colitis or Crohn's disease).\n\n  * Patients admitted or followed up in Assiut University Hospitals during the study period.\n  * Patients who have given written informed consent to participat",
+      "endpoints": [
+        "hospitalization rate"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT07387588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03284840",
+      "title": "NUTRIHEALTH - Adults Nutrition as a Protective or Health-risk Factor",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-06-01",
+      "completion_date": "2018-12-31",
+      "country": "Slovenia",
+      "enrollment": 280,
+      "brief_summary": "To obtain up-to-date data on nutrient intakes in adults, a national dietary survey - the EU Menu study will be conducted during 12 consecutive months in 2017/2018, providing data on the consumption of foods and enabling the assessment of energy and macronutrient intakes. Participating subjects will be invited to NUTRIHEALTH study for assessment for micronutrient status (focusing into vitamin D, folic acid, vitamin B12, and iron) and medical examination, in which thyroid size will be aslo measure",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Resident of Republic of Slovenia (included to the register of residents)\n* Finished EU MENU Slovenia Study\n\nExclusion Criteria:\n\n* Not willing to give blood\\&urine sample\n* Long-term disease\n* Living in institutions with controled diet, such as such as in elderly care, hospita",
+      "endpoints": [
+        "Assessment of inadequate vitamin D status",
+        "Assessment of thyroid health"
+      ],
+      "sponsor": "Institute of Nutrition, Slovenia (Nutris)",
+      "url": "https://clinicaltrials.gov/study/NCT03284840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06745817",
+      "title": "Challenges in Achieving Adequate Dietary Status of Women of Reproductive Age (NutriFem)",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-01-06",
+      "completion_date": "2026-12-31",
+      "country": "Slovenia",
+      "enrollment": 300,
+      "brief_summary": "The aim of the study is to investigate the dietary habits of women of reproductive age (20-49 years). We aim to obtain epidemiological data on the intake and adequacy of key macronutrients and micronutrients, as well as to explore associations with various health indicators. Additionally, we will focus on the nutritional status of subgroups with specific dietary practices, such as vegetarians and vegans.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age: 20 to 49 years\n* Gender: female\n* Agrees to participate in the study (has signed a consent form)\n\nExclusion criteria:\n\n* Menopause (absence of menstruation for at least 12 months, unless the absence is due to hormonal contraception) or post-menopause\n* Pregnancy\n\nReasons ",
+      "endpoints": [
+        "Assessment of nutrient intake",
+        "Assessment of nutritional deficiencies"
+      ],
+      "sponsor": "Institute of Nutrition, Slovenia (Nutris)",
+      "url": "https://clinicaltrials.gov/study/NCT06745817"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03126253",
+      "title": "The Burden of Childhood Anemia in Bangladesh:",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-05-11",
+      "completion_date": "2012-01-18",
+      "country": "Bangladesh",
+      "enrollment": 2320,
+      "brief_summary": "Childhood anemia is a global public health problem that is associated with life-threatening consequences such as growth retardation, impaired motor and cognitive development, and increased morbidity and mortality. Anemia can be caused by a variety of factors such as nutritional deficiencies (i.e., iron, folic acid, vitamin B12, and vitamin A), infections (i.e., helminth), and blood disorders (i.e., hemoglobinopathies). The World Health Organization (WHO) estimates that approximately 50% of anemi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infant: Less than or equal to 12 months old\n* Toddler: between 13-36 months\n* Preschool children: between 37-59 month\n\nExclusion Criteria:\n\n* Child 0-5 months",
+      "endpoints": [
+        "Anemia"
+      ],
+      "sponsor": "Shahjalal University of Science and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT03126253"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03894449",
+      "title": "Probing the Synergistic Effect of Pre-Biotics & Iron Fortificants in Anemic",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-04-06",
+      "completion_date": "2019-07-06",
+      "country": "Pakistan",
+      "enrollment": 75,
+      "brief_summary": "Hypothesis: Synergistic effect of pre-biotics and iron fortificants will enhance the bioavailability of iron; thereby improving the body iron reserves.\n\nA double blind, randomized controlled trail will be conducted on iron deficient female adults (age 18-25 years) in order to determine the synergistic effect of pre-biotics and iron fortificants in anemic human subjects. 75 iron deficient females will be randomly divided into 5 groups (D0, D1, D2, D3 and D4), each having 15 study subjects and wil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All willing anemic female adults without any chronic diseases such as diabetes or hypertension will be included in the study.\n\nExclusion Criteria:\n\n* Married females or those with chronic diseases or those already taking iron and/or prebiotic supplements will be excluded from ",
+      "endpoints": [
+        "Change in Hemoglobin Concentration From Baseline to 90 Days",
+        "Change in Hematocrit in Concentration From Baseline to 90 Days",
+        "Change in Mean Corpuscular Volume From Baseline to 90 Days"
+      ],
+      "sponsor": "University of Veterinary and Animal Sciences, Lahore - Pakistan",
+      "url": "https://clinicaltrials.gov/study/NCT03894449"
+    }
+  ],
+  "timestamp": "2026-03-04T16:19:53.057091",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Calcium Carbonate",
+    "drugbank_id": "DB06724"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 348
+  },
+  "indications": [
+    {
+      "disease": "nephrocalcinosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "dyspepsia",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 6,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 2,
+      "phase4": 2
+    },
+    {
+      "disease": "phosphorus metabolism disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 18,
+      "phase2": 9,
+      "phase4": 6
+    },
+    {
+      "disease": "hypercalcemia disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 13,
+      "articles": 18,
+      "phase3": 3,
+      "phase2": 5,
+      "phase4": 2
+    },
+    {
+      "disease": "nephrocalcinosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

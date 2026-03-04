@@ -1,0 +1,643 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "esophagitis",
+    "query_string": "Omeprazole AND esophagitis"
+  },
+  "data": {
+    "query": "Omeprazole AND esophagitis",
+    "results": [
+      {
+        "pmid": "11280530",
+        "title": "Efficacy and safety of esomeprazole compared with omeprazole in GERD patients with erosive esophagitis: a randomized controlled trial.",
+        "abstract": "In patients with gastroesophageal reflux disease (GERD), esomeprazole, the S-isomer of omeprazole, has demonstrated pharmacological and clinical benefits beyond those seen with the racemic parent compound. This study was designed to further evaluate the efficacy and tolerability of esomeprazole relative to that of omeprazole in healing erosive esophagitis and resolving accompanying symptoms of GERD.",
+        "journal": "The American journal of gastroenterology",
+        "year": "2001",
+        "authors": [
+          "Richter J E",
+          "Kahrilas P J",
+          "Johanson J",
+          "Maton P",
+          "Breiter J R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Enzyme Inhibitors",
+          "Esomeprazole",
+          "Esophagitis",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Isomerism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11280530/"
+      },
+      {
+        "pmid": "26329348",
+        "title": "Comparative effectiveness and tolerability of esomeprazole and omeprazole in gastro-esophageal reflux disease: A systematic review and meta-analysis.",
+        "abstract": "This study aims to evaluate the effectiveness and tolerability of esomeprazole and omeprazole in patients with gastroesophageal reflux disease (GERD). Electronic searches on PubMed, EMBASE, the Cochrane Library, and ClinicalTrials.gov databases were carried out for reports up to February 28, 2015. Ten eligible studies from 8 articles were found that enrolled a total of 10,286 patients for meta-analysis. These results revealed a significant difference between esomeprazole vs. omeprazole (RR=1.06, 95% CI [1.01, 1.10], I2=72%, p=0.01) by subgroup according to dosage by random effects model, and a significant difference between esomeprazole 40 mg vs. omeprazole 20 mg (RR=1.07, 95% CI [1.004, 1.14], I2=78%, p=0.04) based on healing rate as determined by endoscopy, using a random effects model. A significant difference between esomeprazole 20 mg and omeprazole 40 mg (RR=0.68, 95% CI [0.47, 0.97], I2=not applicable, p=0.03) was also found in comparing relief of symptoms by random effects mode",
+        "journal": "International journal of clinical pharmacology and therapeutics",
+        "year": "2015",
+        "authors": [
+          "Qi Qian",
+          "Wang Rugang",
+          "Liu Lin",
+          "Zhao Feng",
+          "Wang Sheng"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Esomeprazole",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Omeprazole",
+          "Proton Pump Inhibitors",
+          "Publication Bias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26329348/"
+      },
+      {
+        "pmid": "38976448",
+        "title": "Randomized, Double-Blind, Active-Controlled Phase 3 Study to Evaluate Efficacy and Safety of Zastaprazan Compared With Esomeprazole in Erosive Esophagitis.",
+        "abstract": "Zastaprazan is a potent potassium-competitive acid blocker developed to treat gastroesophageal reflux disease. The aim of this study was to evaluate the efficacy and safety of zastaprazan compared with esomeprazole in patient with erosive esophagitis (EE).",
+        "journal": "The American journal of gastroenterology",
+        "year": "2025",
+        "authors": [
+          "Oh Jung-Hwan",
+          "Kim Hyun-Soo",
+          "Cheung Dae Young",
+          "Lee Hang Lak",
+          "Lee Dong Ho"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anti-Ulcer Agents",
+          "Double-Blind Method",
+          "Esomeprazole",
+          "Esophagitis, Peptic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38976448/"
+      },
+      {
+        "pmid": "38251791",
+        "title": "The efficacy and safety of fexuprazan in treating erosive esophagitis: a phase III, randomized, double-blind, multicenter study.",
+        "abstract": "Fexuprazan is a novel potassium-competitive acid blocker (P-CAB). This study aimed to explore the noninferior efficacy and safety of fexuprazan to esomeprazole in treating erosive esophagitis (EE).",
+        "journal": "Journal of gastroenterology and hepatology",
+        "year": "2024",
+        "authors": [
+          "Zhuang Qianjun",
+          "Liao Aijun",
+          "He Qingling",
+          "Liu Chengxia",
+          "Zheng Changqing"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Amines",
+          "Double-Blind Method",
+          "Esomeprazole",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Peptic Ulcer",
+          "Proton Pump Inhibitors",
+          "Pyrroles",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38251791/"
+      },
+      {
+        "pmid": "37635269",
+        "title": "Pharmacological treatment of gastro-oesophageal reflux in children.",
+        "abstract": "Gastro-oesophageal reflux (GOR) is characterised by the regurgitation of gastric contents into the oesophagus. GOR is a common presentation in infancy, both in primary and secondary care, affecting approximately 50% of infants under three months old. The natural history of GOR in infancy is generally of a self-limiting condition that improves with age, but older children and children with co-existing medical conditions can have more protracted symptoms. The distinction between gastro-oesophageal reflux disease (GORD) and GOR is debated. Current National Institute of Health and Care Excellence (NICE) guidelines define GORD as GOR causing symptoms severe enough to merit treatment. This is an update of a review first published in 2014.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2023",
+        "authors": [
+          "Tighe Mark P",
+          "Andrews Edward",
+          "Liddicoat Iona",
+          "Afzal Nadeem A",
+          "Hayen Andrew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Esomeprazole",
+          "Gastroesophageal Reflux",
+          "Omeprazole",
+          "Pantoprazole",
+          "Proton Pump Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37635269/"
+      },
+      {
+        "pmid": "36504556",
+        "title": "Randomized controlled trial to evaluate the efficacy and safety of fexuprazan compared with esomeprazole in erosive esophagitis.",
+        "abstract": "Fexuprazan, a novel potassium-competitive acid blocker, reversibly suppresses the K+/H+-ATPase enzyme in proton pumps within gastric parietal cells. Fexuprazan's suppression of gastric acid was maintained in healthy individuals for 24 h in a dose-dependent manner.",
+        "journal": "World journal of gastroenterology",
+        "year": "2022",
+        "authors": [
+          "Lee Kang Nyeong",
+          "Lee Oh Young",
+          "Chun Hoon Jai",
+          "Kim Jin Il",
+          "Kim Sung Kook"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Esomeprazole",
+          "Gastrins",
+          "Quality of Life",
+          "Esophagitis",
+          "Peptic Ulcer",
+          "H(+)-K(+)-Exchanging ATPase",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Amines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36504556/"
+      },
+      {
+        "pmid": "10983736",
+        "title": "Esomeprazole.",
+        "abstract": "Esomeprazole, a new proton pump inhibitor, is the S-isomer of omeprazole and is the first such inhibitor to be developed as a single isomer. Esomeprazole provided better control of intragastric pH than omeprazole, lansoprazole and pantoprazole in trials conducted in patients with gastro-oesophageal reflux disease (GORD) or healthy volunteers (n = 20 to 115). In 2 large randomised, double-blind multicentre trials esomeprazole 20 and/or 40mg for 8 weeks produced higher healing rates of erosive oesophagitis and better symptom control than omeprazole 20 mg in patients with GORD. Esomeprazole 10, 20 or 40mg once daily for 6 months maintained healing versus placebo (p < 0.001) in patients with endoscopically confirmed healed erosive oesophagitis in 2 large randomised, double-blind multicentre trials. Similarly, symptom-driven on-demand use of esomeprazole effectively controlled symptoms of GORD (heartburn) for 6 months in 2 large placebo-controlled trials. Esomeprazole-based triple therapy f",
+        "journal": "Drugs",
+        "year": "2000",
+        "authors": [
+          "Spencer C M",
+          "Faulds D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Enzyme Inhibitors",
+          "Esomeprazole",
+          "Gastroesophageal Reflux",
+          "Helicobacter pylori",
+          "Humans",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10983736/"
+      },
+      {
+        "pmid": "30843245",
+        "title": "Randomised phase 3 trial: tegoprazan, a novel potassium-competitive acid blocker, vs. esomeprazole in patients with erosive oesophagitis.",
+        "abstract": "Tegoprazan is a novel potassium-competitive acid blocker that has a fast onset of action and can control gastric pH for a prolonged period, which could offer clinical benefit in acid-related disorders.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2019",
+        "authors": [
+          "Lee Kwang Jae",
+          "Son Byoung Kwan",
+          "Kim Gwang Ha",
+          "Jung Hye-Kyung",
+          "Jung Hwoon-Yong"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Benzene Derivatives",
+          "Double-Blind Method",
+          "Esomeprazole",
+          "Esophagitis",
+          "Female",
+          "Humans",
+          "Imidazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30843245/"
+      },
+      {
+        "pmid": "10146883",
+        "title": "Omeprazole: a pharmacoeconomic evaluation of its use in duodenal ulcer and reflux oesophagitis.",
+        "abstract": "Omeprazole regulates gastric acid secretion and is an effective treatment of acute duodenal ulcer and reflux oesophagitis, achieving more rapid healing and symptomatic relief than histamine H 2-receptor antagonists. When administered as maintenance therapy, omeprazole reduces the incidence of relapse. The drug is also highly effective in patients poorly responsive to histamine H 2-receptor antagonists. The daily acquisition cost of omeprazole is higher than that of histamine H 2-receptor antagonists in many countries, and thus it is important to evaluate the pharmacoeconomic impact of omeprazole in the short and long term treatment of duodenal ulcer and reflux oesophagitis. Pharmacoeconomic analyses have been performed in several clinical settings using pooled data from clinical trials or simulated models of clinical practice. In a single analysis using Finnish cost data, omeprazole was more cost effective than ranitidine in the treatment of duodenal ulcer disease over a 6-month period",
+        "journal": "PharmacoEconomics",
+        "year": "1993",
+        "authors": [
+          "Barradell L B",
+          "McTavish D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cost-Benefit Analysis",
+          "Duodenal Ulcer",
+          "Economics, Pharmaceutical",
+          "Esophagitis, Peptic",
+          "Health Care Costs",
+          "Humans",
+          "Models, Econometric",
+          "Omeprazole",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10146883/"
+      },
+      {
+        "pmid": "14625604",
+        "title": "On-demand therapy for Los Angeles grade A and B reflux esophagitis: esomeprazole versus omeprazole.",
+        "abstract": "Reflux esophagitis of Los Angeles grade A or B is more common than grades C and D disease among Taiwanese. This study compared the efficacy of esomeprazole 40 mg and omeprazole 20 mg for starting on-demand therapy for grade A and B reflux esophagitis.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2003",
+        "authors": [
+          "Kao Ai-Wen",
+          "Sheu Bor-Shyang",
+          "Sheu Ming-Jen",
+          "Chang Ye-Mei",
+          "Huang Shu-Feng"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Drug Administration Schedule",
+          "Esomeprazole",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14625604/"
+      },
+      {
+        "pmid": "37678812",
+        "title": "Comparison of oral esomeprazole and oral omeprazole in the treatment of equine squamous gastric disease.",
+        "abstract": "Oral omeprazole is the accepted treatment for equine squamous gastric disease (ESGD); however, it is not universally effective. Esomeprazole results in more consistent and pronounced acid suppression in men and is more effective than omeprazole in the treatment of oesophageal and gastric disease. Pharmacodynamic and pilot clinical studies have indicated esomeprazole might also be more effective than omeprazole in horses.",
+        "journal": "Equine veterinary journal",
+        "year": "2024",
+        "authors": [
+          "Sundra Tania",
+          "Gough Sarah",
+          "Rossi Gabriele",
+          "Kelty Erin",
+          "Rendle David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial, Veterinary",
+          "Retracted Publication"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Female",
+          "Male",
+          "Administration, Oral",
+          "Anti-Ulcer Agents",
+          "Esomeprazole",
+          "Horse Diseases",
+          "Horses",
+          "Omeprazole",
+          "Stomach Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37678812/"
+      },
+      {
+        "pmid": "2574908",
+        "title": "The clinical utility and safety of omeprazole.",
+        "abstract": "More than 13,000 individuals with duodenal ulcer, gastric ulcer or reflux oesophagitis have now taken part in controlled clinical studies with omeprazole. In duodenal ulcer, treatment with omeprazole, 20 mg daily or more, has resulted in healing rates of 58%-83% after 2 weeks and 84%-100% after 4 weeks. In all of these studies, healing rates with omeprazole have been higher than with either ranitidine or cimetidine. Omeprazole has also had a more pronounced effect on ulcer symptoms. Although the first comparative study on gastric ulcer showed only marginally higher healing rates with omeprazole than with an H2-receptor antagonist, later studies have all shown significantly higher healing rates with omeprazole. Healing rates of the order of 70% or more have been achieved within 4 weeks, rising to over 88% after 8 weeks. Symptom relief has also been faster with omeprazole. In both duodenal ulcer and gastric ulcer, almost every patient can be healed, including those resistant to treatment",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1989",
+        "authors": [
+          "Walan A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Duodenal Ulcer",
+          "Esophagitis, Peptic",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Multicenter Studies as Topic",
+          "Omeprazole",
+          "Stomach Ulcer",
+          "Zollinger-Ellison Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2574908/"
+      },
+      {
+        "pmid": "19248200",
+        "title": "Comparative study of omeprazole, lansoprazole, pantoprazole and esomeprazole for symptom relief in patients with reflux esophagitis.",
+        "abstract": "To clarify whether there is any difference in the symptom relief in patients with reflux esophagitis following the administration of four Proton pump inhibitors (PPIs).",
+        "journal": "World journal of gastroenterology",
+        "year": "2009",
+        "authors": [
+          "Zheng Ri-Nan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Esomeprazole",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Heartburn",
+          "Humans",
+          "Lansoprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19248200/"
+      },
+      {
+        "pmid": "36451489",
+        "title": "Efficacy and safety of proton pump inhibitors versus vonoprazan in treatment of erosive esophagitis: A PRISMA-compliant systematic review and network meta-analysis.",
+        "abstract": "Proton-pump inhibitors (PPIs) and vonoprazan are recommended as first-line therapies for erosive esophagitis (EE). However, it is uncertain how the magnitude of efficacy and safety of first-line therapy, the choice of individual PPIs or vonoprazan in the treatment of EE remains controversial. This study aimed to evaluate the efficacy and safety of vonoprazan and PPIs in healing esophageal mucosal injury in patients with EE.",
+        "journal": "Medicine",
+        "year": "2022",
+        "authors": [
+          "Yang Sensen",
+          "Deng Weishang",
+          "Xie Zeyu",
+          "Chen Jisheng"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Proton Pump Inhibitors",
+          "Esomeprazole",
+          "Peptic Ulcer",
+          "Rabeprazole",
+          "Esophagitis, Peptic",
+          "Abdominal Injuries",
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Pyrroles",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36451489/"
+      },
+      {
+        "pmid": "12132559",
+        "title": "Esomeprazole: a clinical review.",
+        "abstract": "The pharmacology, pharmacodynamics, pharmacokinetics, clinical efficacy, and adverse effects of esomeprazole are reviewed. Esomeprazole, a proton-pump inhibitor (PPI), is the S-isomer of omeprazole. Esomeprazole has FDA-approved labeling for use in the treatment of symptomatic gastroesophageal reflux disease (GERD), including healing and maintenance of healing of erosive esophagitis and as part of a triple-drug regimen for Helicobocter pylori infection. Esomeprazole is structurally similar to other PPIs but is the first PPI to include only the active isomer, which may lead to improved pharmacokinetic and pharmacodynamic characteristics. Esomeprazole maintains intragastric pH at a higher level and above 4 for a longer period than other PPIs. Clinical studies have shown that esomeprazole is at least equivalent in safety and efficacy to other drugs in the class. Esomeprazole has demonstrated efficacy in the treatment of erosive esophagitis, the maintenance of healing of erosive esophagiti",
+        "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+        "year": "2002",
+        "authors": [
+          "Johnson Thomas J",
+          "Hedge Dennis D"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Enzyme Inhibitors",
+          "Esomeprazole",
+          "Esophagitis, Peptic",
+          "Helicobacter Infections",
+          "Humans",
+          "Omeprazole",
+          "Stereoisomerism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12132559/"
+      },
+      {
+        "pmid": "7614110",
+        "title": "Omeprazole and H2-receptor antagonists in the acute treatment of duodenal ulcer, gastric ulcer and reflux oesophagitis: a meta-analysis.",
+        "abstract": "This paper is a meta-analysis of 30 published, double-blind clinical trials comparing omeprazole with ranitidine or cimetidine for the treatment of duodenal ulcer, gastric ulcer and reflux oesophagitis. These studies compare the recommended doses of omeprazole with those for ranitidine and cimetidine, and the confidence intervals for the therapeutic gain show that the findings are highly reliable. The difference in healing rates favoured omeprazole over ranitidine in patients with duodenal ulcer after 2 weeks of treatment (15.2 percentage units; P < 0.001), and after 4 weeks of treatment in patients with gastric ulcer (9.9 percentage units; P = 0.005), or reflux oesophagitis (23 percentage units; P < 0.001). Similarly, omeprazole gave a 20.6 percentage units higher average healing rate than cimetidine in patients with duodenal ulcer after 2 weeks of treatment (P < 0.0001). Significantly more patients treated with omeprazole were free of symptoms at their first follow-up visit than pati",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "1995",
+        "authors": [
+          "Eriksson S",
+          "Långström G",
+          "Rikner L",
+          "Carlsson R",
+          "Naesdal J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cimetidine",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7614110/"
+      },
+      {
+        "pmid": "8857137",
+        "title": "A randomized blinded comparison of omeprazole and ranitidine in the treatment of chronic esophageal stricture secondary to acid peptic esophagitis.",
+        "abstract": "Esophageal strictures due to gastroesophageal reflux disease are often resistant to medical therapy and require repeated dilation procedures. Our aim was to compare the efficacy of therapy with omeprazole (20 mg/day) to ranitidine (150 mg twice daily) in the treatment of chronic esophageal strictures.",
+        "journal": "Gastrointestinal endoscopy",
+        "year": "1996",
+        "authors": [
+          "Silvis S E",
+          "Farahmand M",
+          "Johnson J A",
+          "Ansel H J",
+          "Ho S B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Chi-Square Distribution",
+          "Chronic Disease",
+          "Combined Modality Therapy",
+          "Dilatation",
+          "Esophageal Stenosis",
+          "Esophagitis, Peptic",
+          "Esophagus",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8857137/"
+      },
+      {
+        "pmid": "26573220",
+        "title": "Comparative efficacy of esomeprazole and omeprazole: Racemate to single enantiomer switch.",
+        "abstract": "Both omeprazole and its S enantiomer (esomeprazole) have been available and used to treat symptoms of gastroesophageal reflux disease (GERD) and conditions associated with excessive stomach acid secretion for more than a decade. Controversy exists over improved efficacy of S enantiomer (esomeprazole) over parent racemate (omeprazole). However, a comparison of the clinical outcomes of these products may reveal the rationale for switching from the racemate to single enantiomer. Since enantiomers of omeprazole are equipotent, we compared the outcomes of equal doses of each product to see if both actually differ in their efficacy's or the reported superiority of S enantiomer is just a dose effect.",
+        "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+        "year": "2015",
+        "authors": [
+          "Asghar Waheed",
+          "Pittman Elliot",
+          "Jamali Fakhreddin"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Esomeprazole",
+          "Gastroesophageal Reflux",
+          "Helicobacter Infections",
+          "Humans",
+          "Omeprazole",
+          "Proton Pump Inhibitors",
+          "Randomized Controlled Trials as Topic",
+          "Stereoisomerism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26573220/"
+      },
+      {
+        "pmid": "28787360",
+        "title": "Efficacy of Pharmacologic Therapy for Eosinophilic Esophagitis: A Systematic Review and Network Meta-Analysis.",
+        "abstract": "In order to provide a comparative evaluation of available pharmacologic treatments for eosinophilic esophagitis (EoE), we conducted a network meta-analysis.",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "2018",
+        "authors": [
+          "Tomizawa Yutaka",
+          "Melek John",
+          "Komaki Yuga",
+          "Kavitt Robert T",
+          "Sakuraba Atsushi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Budesonide",
+          "Child",
+          "Child, Preschool",
+          "Eosinophilic Esophagitis",
+          "Esomeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28787360/"
+      },
+      {
+        "pmid": "16642422",
+        "title": "A multicenter, randomized, double-blind, 8-week comparative trial of standard doses of esomeprazole (40 mg) and omeprazole (20 mg) for the treatment of erosive esophagitis.",
+        "abstract": "To compare esomeprazole with omeprazole for healing erosive esophagitis (EE), 1148 patients with endoscopically confirmed EE were randomized to once-daily esomeprazole, 40 mg, or omeprazole, 20 mg, for 8 weeks in this multicenter, double-blind, parallel-group trial. The primary outcome was the proportion of patients with healed EE at week 8. Secondary outcomes included diary and investigator assessments of heartburn symptoms. At week 8, estimated healing rates were 92.2% (95% CI, 89.9%-94.5%) with esomeprazole and 89.8% (95% CI, 87.2%-92.4%) with omeprazole. Healing rates with esomeprazole were significantly higher than those with omeprazole at weeks 8 (88.4% vs 77.5%; P = 0.007) and 4 (60.8% vs 47.9%; P = 0.02) in patients with moderate to severe (Los Angeles grade C or D) EE at baseline but were not significantly different for patients with mild (Los Angeles grade A or B) EE. Both treatments were comparable for other secondary measures and had similar tolerability profiles.",
+        "journal": "Digestive diseases and sciences",
+        "year": "2006",
+        "authors": [
+          "Schmitt Colleen",
+          "Lightdale Charles J",
+          "Hwang Clara",
+          "Hamelin Bernard"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Esomeprazole",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16642422/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:41:17.066618",
+  "success": true,
+  "error_message": null
+}

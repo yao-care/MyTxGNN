@@ -1,0 +1,578 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "uterine corpus cancer",
+    "query_string": "Medroxyprogesterone Acetate AND uterine corpus cancer"
+  },
+  "data": {
+    "query": "Medroxyprogesterone Acetate AND uterine corpus cancer",
+    "results": [
+      {
+        "pmid": "6842804",
+        "title": "Risk of breast, uterine corpus, and ovarian cancer in women receiving medroxyprogesterone injections.",
+        "abstract": "Animal studies have yielded conflicting results on the carcinogenicity of long-acting progestins. Since more than 1.5 million women worldwide are currently receiving injections of a contraceptive progestin, depot medroxyprogesterone acetate, this is potentially an important public health problem. We obtained information on the occurrence of breast, uterine, and ovarian cancer among 5,000 black women attending a metropolitan hospital's family planning clinic who had received injections of medroxyprogesterone for contraception (between 1967 and 1976). The women were followed up for four to 13 years after their initial medroxyprogesterone injection. We compared the observed number of cancer cases in these women with the expected number based on annual age-, race-, and sex-specific rates derived from National Cancer Institute data. During more than 40,000 woman-years of observation, we found no evidence of an increased risk of developing cancer of the breast, uterine corpus, or ovary in th",
+        "journal": "JAMA",
+        "year": "1983",
+        "authors": [
+          "Liang A P",
+          "Levenson A G",
+          "Layde P M",
+          "Shelton J D",
+          "Hatcher R A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Black People",
+          "Breast Neoplasms",
+          "Child",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Injections",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6842804/"
+      },
+      {
+        "pmid": "2526620",
+        "title": "[Combination with medroxyprogesterone acetate and chemotherapy making possible complete removal of uterine corpus carcinoma].",
+        "abstract": "A case of uterine corpus carcinoma (stage III) after surgical resection of her primary lesion was treated with a medroxyprogesterone acetate (MPA) and PAE (CDDP, adriamycin and etoposide) regimen. The patient has been given MPA during a three-month period and received four courses of PAE regimen. The residual tumor was decreased and removed completely at the second-look operation. Pathologically, the carcinoma cells were clearly changed in loss of atrophy or degeneration by MPA or PAE regimen. After the second-look operation, the patient underwent 4 courses of PAE regimen and was given MPA continuously. We have not recognized any recurrence of carcinoma for seven months after the second look operation.",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "1989",
+        "authors": [
+          "Tajima H",
+          "Okada T",
+          "Fujimori Y",
+          "Tomioka Y",
+          "Hirano M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Doxorubicin",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Hysterectomy",
+          "Medroxyprogesterone",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2526620/"
+      },
+      {
+        "pmid": "9605604",
+        "title": "Effects of conjugated estrogens with or without medroxyprogesterone acetate on mammary carcinogenesis, uterine adenomyosis and femur in mice.",
+        "abstract": "Although combined hormone replacement therapy using estrogens and progestins reduces the risk of endometrial cancer in postmenopausal women, it has been unclear whether the combined therapy is associated with an alteration of the risk of mammary cancer. Virgin mice of the SHN strain, which has a high potential for the development of mammary cancer and uterine adenomyosis, were given diets containing conjugated estrogens with or without medroxyprogesterone acetate for 230 days. The combined administration of conjugated estrogens and medroxyprogesterone acetate completely suppressed the development of uterine adenomyosis with a decrease in uterine thymidylate synthetase activity, significantly enhanced the bone mineral density in the femur and slightly shortened the latent period of mammary carcinogenesis.",
+        "journal": "Acta anatomica",
+        "year": "1997",
+        "authors": [
+          "Sakamoto S",
+          "Mori T",
+          "Shinoda H",
+          "Sassa S",
+          "Koyama T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenoma",
+          "Animals",
+          "Antineoplastic Agents, Hormonal",
+          "Bone Density",
+          "Corpus Luteum",
+          "Drug Combinations",
+          "Estradiol",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Femur"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9605604/"
+      },
+      {
+        "pmid": "15535270",
+        "title": "[Hormone therapy for uterine corpus cancer--introduction].",
+        "abstract": "",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2004",
+        "authors": [
+          "Sugiyama Toru",
+          "Izutsu Toshihiko"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "17 alpha-Hydroxyprogesterone Caproate",
+          "Antineoplastic Agents, Hormonal",
+          "Endometrial Neoplasms",
+          "Estrogens",
+          "Female",
+          "Gonadotropin-Releasing Hormone",
+          "Humans",
+          "Hydroxyprogesterones",
+          "Leuprolide",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15535270/"
+      },
+      {
+        "pmid": "6467144",
+        "title": "Radiosensitizing effect of medroxyprogesterone acetate on endometrial cancer cells in vitro.",
+        "abstract": "From clinical experience it is known that medroxyprogesterone acetate (MPA) can increase the radiosensitivity of adenocarcinomas of the corpus uteri. This study investigates this phenomenon in vitro. Primary explants of highly differentiated adenocarcinomas were irradiated with or without pretreatment with MPA and compared with an untreated control group and to a group treated with MPA only. Cell culture itself was performed on an agarose medium in order to prevent overgrowth by fibroblasts. Untreated samples formed 43 +/- 5 clones, explants treated with MPA only produced 39 +/- 5 clones, a difference which was not statistically different; samples irradiated without pretreatment produced 16 +/- 8 and samples after combined treatment 9 +/- 3 clones (all values means +/- SD). This numeric reduction of cell growth through preirradiation treatment with MPA was statistically significant. The effect of MPA as a radiosensitizer may be due to its potential to prolong the radiosensitive G2 phas",
+        "journal": "Cancer",
+        "year": "1984",
+        "authors": [
+          "Huber H",
+          "Husslein P",
+          "Michalica W",
+          "Wagenbichler P"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Cell Division",
+          "Cells, Cultured",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone",
+          "Radiation-Sensitizing Agents",
+          "Uterine Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6467144/"
+      },
+      {
+        "pmid": "20414038",
+        "title": "[Two cases of multidrug-resistant recurrent endometrial cancer successfully treated with medroxyprogesterone acetate (MPA)].",
+        "abstract": "We report two cases of multidrug-resistant endometrial cancer which recurred after the initial therapy and progressed despite further anticancer chemotherapy, but could be successfully treated with medroxyprogesterone acetate (MPA). The first patient with stage IVb moderately-differentiated endometrioid adenocarcinoma of the uterine corpus underwent initial operation and postoperative chemotherapy followed by maintenance chemotherapy. Four months later, lung metastases were found. Since the hormone receptor status was positive, the patient was treated with MPA, and CR was achieved. The second patient with stage IIIc poorly-differentiated endometrioid adenocarcinoma of the uterine corpus developed lung metastases 14 months after the initial operation and postoperative chemotherapy. Subsequent chemotherapy yielded a complete response(CR). Two months later, however, a small intestinal metastasis was observed, which was treated by surgical excision and chemotherapy. The patient again remai",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2010",
+        "authors": [
+          "Nishio Shin",
+          "Koyanagi Takahiro",
+          "Miyabe Kyosuke",
+          "Kuromatsu Hajime"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents, Hormonal",
+          "Drug Resistance, Multiple",
+          "Drug Resistance, Neoplasm",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Lung Neoplasms",
+          "Medroxyprogesterone Acetate",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20414038/"
+      },
+      {
+        "pmid": "1801500",
+        "title": "Epidemiologic aspects of exogenous progestagens in relation to their role in pathogenesis of human breast cancer.",
+        "abstract": "This review focuses on epidemiologic studies of the relationship between breast cancer risk and exogenous progestagens, as present in oral contraceptives, injectable contraceptives and hormone replacement therapy. Subsequently, it will be discussed whether the present findings are consistent with one of the hypotheses that have been postulated for the role of hormones in breast cancer pathogenesis. The relationship between oral contraceptives and breast cancer is still controversial. Several studies have found that prolonged oral contraceptives use at young ages is associated with increased risk to develop breast cancer at an early age, i.e. before age 35. None of these studies, however, has been able to attribute the increased risk to specific formulations of oral contraceptives, or to the progestagen content of the preparations. This may be largely due to the fact that there is no good method to calculate progestagen potencies of different formulations. There are no reliable data reg",
+        "journal": "Acta endocrinologica",
+        "year": "1991",
+        "authors": [
+          "van Leeuwen F E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Breast Neoplasms",
+          "Contraceptives, Oral, Hormonal",
+          "Estrogen Replacement Therapy",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Progestins",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1801500/"
+      },
+      {
+        "pmid": "38469132",
+        "title": "Successful fertility preservation in stage II endometrial carcinoma with long-term progestin therapy: A case report.",
+        "abstract": "Progestin therapy is a fertility-sparing treatment option for well-differentiated stage IA endometrioid carcinomas without myometrial invasion. Here, we present a case of successful pregnancy and live birth following long-term progestin therapy in a patient with stage II well-differentiated endometrioid carcinoma. A 30-year-old nulliparous woman with an unremarkable medical history presented with abnormal uterine bleeding. A 45 mm mass was identified in the lower uterine segment. An endometrial biopsy revealed grade 1 endometrioid carcinoma, leading to a diagnosis of stage II uterine corpus cancer based on hysteroscopic findings. The patient refused surgical treatment and underwent oocyte retrieval and cryopreservation at another hospital. A subsequent endometrial biopsy revealed a marked reduction in the Ki-67 index from approximately 60 % to less than 10 %, suggesting the possibility of a hormone-sensitive tumor. The patient persistently refused surgery. Therefore, progestin therapy ",
+        "journal": "Gynecologic oncology reports",
+        "year": "2024",
+        "authors": [
+          "Kashihara Yuki",
+          "Sekiyama Kentaro",
+          "Abe Akiko",
+          "Yamamura Akitoshi",
+          "Kozono Yuki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38469132/"
+      },
+      {
+        "pmid": "7559094",
+        "title": "Inhibitory effects of medroxyprogesterone acetate on mouse endometrial carcinogenesis.",
+        "abstract": "The present study was undertaken to examine the effects of cyclic administration of low-dose progestogen on endometrial carcinogenesis in mice. A total of 115 female ICR mice, 10 weeks of age, were divided into four experimental and control groups. Mice in groups 1-3 received laparotomy and were injected with N-methyl-N-nitrosourea (MNU) solution at a dose of 1 mg/100 g body weight to the left uterine tube and with normal saline to the right uterine tube. From one week after the MNU exposure, groups 1 and 2 were given 5 ppm 17 beta-estradiol (E2)-containing diet throughout the experiment. Mice in group 1 received 5 s.c. injections of medroxyprogesterone acetate (MPA) (2 mg/mouse) at intervals of 4 weeks from week 7. Group 3 was treated with MNU/normal saline alone. Group 4 consisted of mice treated with MPA alone. At the termination of the experiment (week 30), all animals were killed and autopsied for pathological examinations. It was found that adenocarcinomas and preneoplastic lesio",
+        "journal": "Japanese journal of cancer research : Gann",
+        "year": "1995",
+        "authors": [
+          "Niwa K",
+          "Morishita S",
+          "Murase T",
+          "Itoh N",
+          "Tanaka T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticarcinogenic Agents",
+          "Carcinogens",
+          "Cocarcinogenesis",
+          "Disease Models, Animal",
+          "Dose-Response Relationship, Drug",
+          "Endometrial Neoplasms",
+          "Endometrium",
+          "Estradiol",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7559094/"
+      },
+      {
+        "pmid": "3972289",
+        "title": "Cauda equina compression secondary to metastatic carcinoma of the uterine corpus: preservation of neurologic function and long-term survival following surgical decompression and radiation therapy.",
+        "abstract": "Spinal cord or cauda equina compression secondary to epidural metastasis rarely develops in patients with endometrial carcinoma and the early signs and symptoms of compression can therefore be inadvertently overlooked. A 78-year-old patient who developed bone metastasis with destruction of the fifth lumbar vertebral body and blockage of the cauda equina at L-4, L-5 as the only sites of metastasis is reported. This occurred 2 years after initial treatment of a stage IB, well-differentiated, grade I, adenosquamous carcinoma of the endometrium. The patient remains alive, with good neurological function and free of metastatic disease, 2 1/2 years following vertebrectomy, radiation therapy, and adjuvant Provera (medroxyprogesterone acetate) therapy. This patient represents the only case of metastatic endometrial cancer with cauda equina compression in the literature in whom long-term disease-free follow-up has been noted.",
+        "journal": "Gynecologic oncology",
+        "year": "1985",
+        "authors": [
+          "Kapp D S",
+          "LiVolsi V A",
+          "Kohorn E I"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Carcinoma, Squamous Cell",
+          "Cauda Equina",
+          "Female",
+          "Humans",
+          "Nerve Compression Syndromes",
+          "Spinal Neoplasms",
+          "Uterine Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3972289/"
+      },
+      {
+        "pmid": "12266559",
+        "title": "[Contraception using normal dose progestins].",
+        "abstract": "",
+        "journal": "Contraception, fertilite, sexualite",
+        "year": "1984",
+        "authors": [
+          "Pelissier-langbort C"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Androgens",
+          "Biology",
+          "Chlormadinone Acetate",
+          "Contraception",
+          "Contraceptive Agents",
+          "Contraceptive Agents, Female",
+          "Corpus Luteum Hormones",
+          "Endocrine System",
+          "Ethynodiol Diacetate",
+          "Family Planning Services"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12266559/"
+      },
+      {
+        "pmid": "2545046",
+        "title": "[Effect of progestin therapy on the level of cytoplasmic receptors in patients with cancer of the corpus uteri].",
+        "abstract": "Correlations were identified between tumor morphobiochemical characteristics and basic parameters of reproductive homeostasis in 256 cases of endometrial carcinoma. A correlation was established between the levels of cytoplasmic receptors to estradiol (ER) and progesterone (PR), on the one hand, and morphological differentiation and spontaneous secretion in tumor tissue, on the other. A direct correlation was found between ER and metastatic spread to regional lymph nodes, and no correlation--between ER and PR and major parameters of reproductive homeostasis. A significant decrease in ER, PR, gonadotropins, estradiol and colpocytological reaction indexes followed hormone therapy with hydroxyprogesterone capronate and medroxyprogesterone acetate. The criteria of endometrial carcinoma patients sensitivity to progestin therapy were as follows: ER and PR levels--more than 30.0 fmol/mg protein, estradiol--more than 30-50 pg/ml and colpocytological index--over 40%.",
+        "journal": "Voprosy onkologii",
+        "year": "1989",
+        "authors": [
+          "Vishnevskiĭ A S",
+          "Bokhman Ia V",
+          "Tsyrlina E V",
+          "Bobrov Iu F",
+          "Fel'dkoren B I"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "17 alpha-Hydroxyprogesterone Caproate",
+          "Antineoplastic Agents",
+          "Cytoplasm",
+          "Drug Evaluation",
+          "Female",
+          "Homeostasis",
+          "Humans",
+          "Hydroxyprogesterones",
+          "Lymphatic Metastasis",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2545046/"
+      },
+      {
+        "pmid": "11578372",
+        "title": "Surgical pathologic staging in apparent stage I endometrial carcinoma.",
+        "abstract": "A multicenter trial on apparent stage I endometrial carcinoma was performed to establish an intensive surgical staging, to formulate a treatment on the basis of the pathological extent of the disease and to determine the effectiveness of adjuvant medroxyprogesterone acetate therapy. The results of the first objective on 1,055 patients are herein reported. All patients had total abdominal hysterectomy, bilateral salpingo-oophorectomy, colpectomy of the superior third, and biopsy of lymph nodes positive or doubtful at radiological imaging or on surgical inspection. On the basis of the pathologic extent of the disease, patients were classified into five categories: disease outside the uterine corpus (RE); disease limited to endometrium (RO); disease with inner myometrial invasion and high or moderate grade (R1); disease with deep myometrial invasion or poor differentiation (R2); disease with positive retroperitoneal nodes (R3). One hundred and forty-six patients were RE, 163 RO, 382 R1, 3",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "1993",
+        "authors": [
+          "Mangioni C.",
+          "De Palo G.",
+          "Marubini E.",
+          "Del Vecchio M."
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11578372/"
+      },
+      {
+        "pmid": "20383792",
+        "title": "Microsomal epoxide hydrolase expression in the endometrial uterine corpus is regulated by progesterone during the menstrual cycle.",
+        "abstract": "We have shown previously that high expression levels of microsomal epoxide hydrolase (mEH) correlate with a poor prognosis of breast cancer patients receiving tamoxifen, suggesting that enhanced mEH expression could lead to antiestrogen resistance (Fritz et al. in J Clin Oncol 19:3-9, 2001). Thus, the purpose of this study was to gain insights into the role of mEH in hormone-responsive tissues. We analyzed biopsy samples of the endometrium by immunohistochemical staining, pointing to a regulation of mEH during the menstrual cycle: during the first half mEH expression was low, increased during the second half and reached highest levels during pregnancy. Additionally, the progesterone receptor (PR) positive human endometrial cell lines IKPRAB-36 (estrogene receptor alpha [ERalpha] negative) and ECC1-PRAB72 (ERalpha positive) were chosen to further investigate the hormonal regulation of mEH expression. Western Blot and quantitative RT-PCR analysis revealed an increase of mEH expression af",
+        "journal": "Journal of molecular histology",
+        "year": "2010",
+        "authors": [
+          "Popp Simone L",
+          "Abele Ina S",
+          "Buck Miriam B",
+          "Stope Matthias B",
+          "Blok Leen J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Blotting, Western",
+          "Cell Culture Techniques",
+          "Cell Line",
+          "Endometrium",
+          "Epoxide Hydrolases",
+          "Estrogen Receptor alpha",
+          "Estrogen Receptor beta",
+          "Female",
+          "Gene Expression Regulation, Enzymologic",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20383792/"
+      },
+      {
+        "pmid": "2973195",
+        "title": "[Adjuvant gestagen therapy in stage I endometrial cancer].",
+        "abstract": "221 patients with endometrial cancer stage Ia and Ib have been operated on between 1980 and 1986. 99 patients have been irradiated postoperatively. 122 patients got 300 mg medroxyprogesterone acetate per day over one year provided that the carcinoma was limited to the uterine corpus, the invasion into the myometrium was at a maximum of 2/3 of the uterine wall, there was no invasion of the lymphatic vessels and the tumour was histologic uniform. The 5-year-survival rate of the patients operated on without irradiation but with gestagens was 98.1 per cent calculated with actuarial method in contrast to a matched group from the years 1970 to 1979 with operation and irradiation but without gestagens of 93.2 per cent. These results demonstrate that an individualized therapy in stage I is possible in patients with a low risk of recurrence.",
+        "journal": "Zentralblatt fur Gynakologie",
+        "year": "1988",
+        "authors": [
+          "Lahousen M",
+          "Pickel H"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents",
+          "Combined Modality Therapy",
+          "Female",
+          "Humans",
+          "Hysterectomy",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2973195/"
+      },
+      {
+        "pmid": "6218817",
+        "title": "Use of progestogens as an adjuvant to surgery in the treatment of stage I adenocarcinoma of the uterine corpus.",
+        "abstract": "Fifty-nine patients with proven stage I adenocarcinoma of the uterine corpus were treated by total abdominal hysterectomy and bilateral salpingo-oophorectomy, followed by gestronal hexanoate intramuscularly for 3 months and then medroxyprogesterone acetate orally for a prolonged period. In the 7-year period of study, there were no vaginal recurrences, but one patient suffered a recurrence in the inguinal lymph nodes and pelvis. Undesirable side effects did not occur. These results compare favourably with other reported studies in which surgery and radiotherapy were used.",
+        "journal": "British journal of obstetrics and gynaecology",
+        "year": "1983",
+        "authors": [
+          "Moazzami B",
+          "Van der Walt J D",
+          "Boyd N R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Castration",
+          "Female",
+          "Gestonorone Caproate",
+          "Humans",
+          "Hysterectomy",
+          "Medroxyprogesterone",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6218817/"
+      },
+      {
+        "pmid": "18487930",
+        "title": "[Two cases of endometrial stromal sarcoma (ESS) in which survival was prolonged by administration of MPA].",
+        "abstract": "Endometrial stromal sarcoma (ESS) is very rare. It accounts for 0.5% of all uterine corpus malignant tumors and 10% of all malignant non-epithelial tumors. MPA is one effective hormonal treatment for ESS. We describe two cases in which patients with metastatic low-grade ESS lesions had prolonged survival with MPA therapy. Case 1 was a 50-year-old woman with a low-grade uterine endometrial stromal tumor who had been operated on at another hospital. She had been followed for three years. She had pelvis metastases with infiltration into the bladder, and pulmonary metastases. She had an incomplete response to chemotherapy. We initiated MPA therapy, which resulted in significant improvement in her metastatic lesions. Case 2 was a 58-year-old woman with stage Ic low-grade ESS who presented with abnormal uterine bleeding. Following surgery (TAH+BSO), MPA therapy was initiated and she had no recurrence. After 1 year and 7 months, she discontinued the MPA because it worsened her articular rheum",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2008",
+        "authors": [
+          "Ishibashi Masako",
+          "Nakayama Kentaro",
+          "Shamima Yeasmin",
+          "Katagiri Atsuko",
+          "Iida Kohji"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Hormonal",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Middle Aged",
+          "Neoplasm Metastasis",
+          "Sarcoma, Endometrial Stromal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18487930/"
+      },
+      {
+        "pmid": "995285",
+        "title": "[Diabetes, obesity and adenocarcinoma of corpus uteri].",
+        "abstract": "Diabetes and obesity were noted in 21.3% and 42.3% respectively of 94 patients with adenocarcinoma corporis uteri. Hypertension and ovarian or mammary neoplasia were also common. Obese and diabetic subjects proved more sensitive to treatment with high doses of medroxyprogesterone acetate. Screening for precancerous states or carcinoma of the endometrium in obese and diabetic women is suggested.",
+        "journal": "Minerva medica",
+        "year": "1976",
+        "authors": [
+          "Bumma C",
+          "Calciati A",
+          "Cacciari P",
+          "La Grotta G",
+          "Falda M"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Diabetes Complications",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Obesity",
+          "Uterine Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/995285/"
+      },
+      {
+        "pmid": "23590013",
+        "title": "Atypical polypoid adenomyoma mixed with endometrioid carcinoma: a case report.",
+        "abstract": "The following is a description of an extremely rare tumor of the uterus, malignant atypical polypoid adenomyoma (APA), admixed with well-differentiated endometroid carcinoma, in a 29-year-old patient previously treated for sterility in whom, due to the existence of a ten-millimeter sessile tumor on the uterine corpus, verified by transvaginal ultrasonography (TVUS), a hysteroscopic resection of the anomaly was performed. The patient underwent all requisite examinations and was referred to the malignant diseases panel for an examination and a decision on further treatment. As the patient wished to preserve fertility, the authors decided to continue performing regular controls at intervals of two to three months. The first subsequent control called for a TVUS examination or one using another imaging method, with a multiple endometrial biopsy with curettage of the endocervix. The results of the first examination promised that fertility could be preserved. Therapy with medroxyprogesterone ",
+        "journal": "European journal of gynaecological oncology",
+        "year": "2013",
+        "authors": [
+          "Nejković L",
+          "Pazin V",
+          "Filimonović D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenomyoma",
+          "Adult",
+          "Carcinoma, Endometrioid",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Polyps",
+          "Ultrasonography",
+          "Vagina"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23590013/"
+      },
+      {
+        "pmid": "2948865",
+        "title": "[Therapy with gestagens in hyperplastic changes of the endometrium].",
+        "abstract": "Forty-six patients with premenopausal or postmenopausal bleeding anomalies were given gestagen therapy for endometrial hyperplasia. The therapy was carried out using medroxyprogesterone acetate (MPA) or norethisterone acetate (NEA), in each case 10 mg/day either continuously or for 10 days per cycle. Therapy was controlled either by fractionated curettage or hysterectomy or on the basis of the subsequent clinical course. In the literature a regression of the endometrial hyperplasias in most cases under gestagen therapy has been described, and no case of development of carcinoma following therapy has been reported. These facts were confirmed in the patients treated with MPA, while among the women treated with NEA there were carcinomatous changes in three cases and progressive histologic control findings in three others. A pathologist asked to give a second opinion confirmed the diagnosis of carcinoma in one patient, but classified the histologic changes in the other two not as carcinoma",
+        "journal": "Geburtshilfe und Frauenheilkunde",
+        "year": "1986",
+        "authors": [
+          "Griesinger R",
+          "Schindler A E"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adenoma",
+          "Endometrial Hyperplasia",
+          "Endometrium",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone",
+          "Medroxyprogesterone Acetate",
+          "Menstruation Disturbances",
+          "Norethindrone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2948865/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:00:09.627283",
+  "success": true,
+  "error_message": null
+}

@@ -6,7 +6,7 @@ drug_name: "Olanzapine"
 kg_predictions: 224
 dl_predictions: 81
 evidence_level: "L1"
-indication_count: 224
+indication_count: 5
 brands: []
 permalink: /drugs/olanzapine/
 ---

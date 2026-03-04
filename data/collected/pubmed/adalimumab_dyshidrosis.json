@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "dyshidrosis",
+    "query_string": "Adalimumab AND dyshidrosis"
+  },
+  "data": {
+    "query": "Adalimumab AND dyshidrosis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:17:15.243134",
+  "success": true,
+  "error_message": null
+}

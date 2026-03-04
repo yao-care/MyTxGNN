@@ -6,7 +6,7 @@ drug_name: "Omeprazole"
 kg_predictions: 126
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 126
+indication_count: 5
 brands: []
 permalink: /drugs/omeprazole/
 ---

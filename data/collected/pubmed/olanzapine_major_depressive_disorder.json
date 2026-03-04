@@ -1,0 +1,501 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "major depressive disorder",
+    "query_string": "Olanzapine AND major depressive disorder"
+  },
+  "data": {
+    "query": "Olanzapine AND major depressive disorder",
+    "results": [
+      {
+        "pmid": "34986373",
+        "title": "Augmentation strategies for treatment resistant major depression: A systematic review and network meta-analysis.",
+        "abstract": "To compare the efficacy and discontinuation of augmentation agents in adult patients with treatment-resistant depression (TRD). We conducted a systematic review and network meta-analyses (NMA) to combine direct and indirect comparisons of augmentation agents.",
+        "journal": "Journal of affective disorders",
+        "year": "2022",
+        "authors": [
+          "Nuñez Nicolas A",
+          "Joseph Boney",
+          "Pahwa Mehak",
+          "Kumar Rakesh",
+          "Resendez Manuel Gardea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Research Support, N.I.H., Extramural",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Depression",
+          "Major Depressive Disorder",
+          "Depressive Disorder, Treatment-Resistant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34986373/"
+      },
+      {
+        "pmid": "26407790",
+        "title": "Risk of metabolic syndrome and its components in people with schizophrenia and related psychotic disorders, bipolar disorder and major depressive disorder: a systematic review and meta-analysis.",
+        "abstract": "Metabolic syndrome (MetS) and its components are highly predictive of cardiovascular diseases. The primary aim of this systematic review and meta-analysis was to assess the prevalence of MetS and its components in people with schizophrenia and related psychotic disorders, bipolar disorder and major depressive disorder, comparing subjects with different disorders and taking into account demographic variables and psychotropic medication use. The secondary aim was to compare the MetS prevalence in persons with any of the selected disorders versus matched general population controls. The pooled MetS prevalence in people with severe mental illness was 32.6% (95% CI: 30.8%-34.4%; N = 198; n = 52,678). Relative risk meta-analyses established that there was no significant difference in MetS prevalence in studies directly comparing schizophrenia versus bipolar disorder, and in those directly comparing bipolar disorder versus major depressive disorder. Only two studies directly compared people w",
+        "journal": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+        "year": "2015",
+        "authors": [
+          "Vancampfort Davy",
+          "Stubbs Brendon",
+          "Mitchell Alex J",
+          "De Hert Marc",
+          "Wampers Martien"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26407790/"
+      },
+      {
+        "pmid": "38360024",
+        "title": "Pharmacological treatments for psychotic depression: a systematic review and network meta-analysis.",
+        "abstract": "There are no recommendations based on the efficacy of specific drugs for the treatment of psychotic depression. To address this evidence gap, we did a network meta-analysis to assess and compare the efficacy and safety of pharmacological treatments for psychotic depression.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2024",
+        "authors": [
+          "Oliva Vincenzo",
+          "Possidente Chiara",
+          "De Prisco Michele",
+          "Fico Giovanna",
+          "Anmella Gerard"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Major Depressive Disorder",
+          "Antipsychotic Agents",
+          "Antidepressive Agents",
+          "Randomized Controlled Trials as Topic",
+          "Bipolar Disorder",
+          "Psychotic Disorders",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38360024/"
+      },
+      {
+        "pmid": "37149344",
+        "title": "Pharmacotherapy for Treatment-Resistant Depression: Antidepressants and Atypical Antipsychotics.",
+        "abstract": "Treatment-resistant depression (TRD) affects one in three patients with major depressive disorder and is associated with increased risk of all-cause mortality. Studies of real-world practices suggest that antidepressant monotherapy continues to be the most widely used treatment after inadequate response to a first-line treatment. However, rates of remission with antidepressants in TRD are suboptimal. Atypical antipsychotics are the most widely studied augmentation agent and aripiprazole, brexpiprazole, cariprazine, quetiapine extended-release, and olanzapine-fluoxetine combination are approved for depression. Benefits of using atypical antipsychotics for TRD has to be weighted against their potential adverse events, such as weight gain, akathisia, and tardive dyskinesia.",
+        "journal": "The Psychiatric clinics of North America",
+        "year": "2023",
+        "authors": [
+          "Vas Collin",
+          "Jain Ayush",
+          "Trivedi Mili",
+          "Jha Manish Kumar",
+          "Mathew Sanjay J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Major Depressive Disorder",
+          "Depression",
+          "Antidepressive Agents",
+          "Quetiapine Fumarate",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37149344/"
+      },
+      {
+        "pmid": "37595997",
+        "title": "Comparative efficacy and tolerability of pharmacological interventions for acute bipolar depression in adults: a systematic review and network meta-analysis.",
+        "abstract": "Bipolar depression constitutes a major public health problem due to its substantial burden of disease. Although pharmacological interventions are available, guidelines required updated evidence synthesis to improve their current recommendations. In order to inform evidence-based prescribing, we investigated the comparative efficacy and tolerability of pharmacological interventions for acute bipolar depression.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2023",
+        "authors": [
+          "Yildiz Ayşegül",
+          "Siafis Spyridon",
+          "Mavridis Dimitris",
+          "Vieta Eduard",
+          "Leucht Stefan"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Adult",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Bipolar Disorder",
+          "Depression",
+          "Fluoxetine",
+          "Lamotrigine",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37595997/"
+      },
+      {
+        "pmid": "35510505",
+        "title": "Efficacy and safety/tolerability of antipsychotics in the treatment of adult patients with major depressive disorder: a systematic review and meta-analysis.",
+        "abstract": "Antipsychotics are widely used in the treatment of major depressive disorder (MDD), but there has been no comprehensive meta-analytic assessment that examined their use as monotherapy and adjunctive therapy.",
+        "journal": "Psychological medicine",
+        "year": "2023",
+        "authors": [
+          "Kishimoto Taishiro",
+          "Hagi Katsuhiko",
+          "Kurokawa Shunya",
+          "Kane John M",
+          "Correll Christoph U"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Antipsychotic Agents",
+          "Quetiapine Fumarate",
+          "Risperidone",
+          "Major Depressive Disorder",
+          "Amisulpride",
+          "Olanzapine",
+          "Benzodiazepines",
+          "Dibenzothiazepines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35510505/"
+      },
+      {
+        "pmid": "38993656",
+        "title": "The Black Book of Psychotropic Dosing and Monitoring.",
+        "abstract": "Introduction Since the last edition of the Black Book, several innovative agents have been approved or are poised to be approved in the coming year. These include novel antidepressants, the first muscarine agonist for the treatment of schizophrenia, the first psychedelic which may be approved for the treatment of PTSD (Post Traumatic Stress Disorder), and the first disease modifying drug for the treatment of Alzheimer's disease. Three new antidepressants have come to the market in the past 18 months. The first of those, Auvelity, the combination of bupropion and dextromethorphan, takes advantage of a pharmacokinetic and pharmacodynamic synergism between the two drugs.85 Dextromethorphan has several pharmacodynamic properties including actions on the NMDA receptor and the Sigma 1 receptor, adding to the indirect norepinephrine agonist properties of bupropion. How Dextromethorphan is rapidly metabolized via the CYP2D6 isoenzyme to dextrophan that may have mu opioid agonist properties. Th",
+        "journal": "Psychopharmacology bulletin",
+        "year": "2024",
+        "authors": [
+          "DeBattista Charles",
+          "Schatzberg Alan F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bupropion",
+          "Dextromethorphan",
+          "Psychotropic Drugs",
+          "Antidepressive Agents",
+          "Drug Monitoring",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38993656/"
+      },
+      {
+        "pmid": "37746943",
+        "title": "Comparative efficacy and safety of 4 atypical antipsychotics augmentation treatment for major depressive disorder in adults: A systematic review and network meta-analysis.",
+        "abstract": "Atypical antipsychotic (AAP) augmentation is an alternative strategy for patients with major depressive disorder (MDD) who had an inadequate response to antidepressant therapy (ADT). We aimed to compare and rank the efficacy and safety of 4 AAPs in the adjuvant treatment of MDD.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Wang Jia",
+          "Li Wenwei",
+          "Li Mengting",
+          "Wu Hanbiao",
+          "Qiu Zhikun"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Major Depressive Disorder",
+          "Antipsychotic Agents",
+          "Quetiapine Fumarate",
+          "Aripiprazole",
+          "Olanzapine",
+          "Adjuvants, Immunologic",
+          "Adjuvants, Pharmaceutic",
+          "Thiophenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37746943/"
+      },
+      {
+        "pmid": "36855876",
+        "title": "Pharmacotherapies for Treatment-Resistant Depression: How Antipsychotics Fit in the Rapidly Evolving Therapeutic Landscape.",
+        "abstract": "One in three adults with major depressive disorder (MDD) do not experience clinically significant improvement after multiple sequential courses of antidepressants and have treatment-resistant depression (TRD). The presence of TRD contributes to the morbidity and excess mortality associated with MDD and has been linked to significantly increased health care expenses. In the absence of a consensus definition of TRD, this report takes a broad approach by considering inadequate response to one or more courses of antidepressants and focuses on atypical antipsychotics that are approved by the U.S. Food and Drug Administration for treatment of depression (aripiprazole, brexpiprazole, cariprazine, extended-release quetiapine, and olanzapine-fluoxetine combination). While multiple acute-phase studies have demonstrated the efficacy of these medications in improving depressive symptoms, clinically meaningful improvement (i.e., remission) remains limited, with significant concerns about side effec",
+        "journal": "The American journal of psychiatry",
+        "year": "2023",
+        "authors": [
+          "Jha Manish K",
+          "Mathew Sanjay J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "United States",
+          "Adult",
+          "Humans",
+          "Antipsychotic Agents",
+          "Major Depressive Disorder",
+          "Depression",
+          "Depressive Disorder, Treatment-Resistant",
+          "Aripiprazole",
+          "Drug-Related Side Effects and Adverse Reactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36855876/"
+      },
+      {
+        "pmid": "35861202",
+        "title": "Systematic review and meta-analysis of augmentation and combination treatments for early-stage treatment-resistant depression.",
+        "abstract": "Major depressive disorder (MDD) is a highly burdensome health condition, for which there are numerous accepted pharmacological and psychological interventions. Adjunctive treatment (augmentation/combination) is recommended for the ~50% of MDD patients who do not adequately respond to first-line treatment. We aimed to evaluate the current evidence for concomitant approaches for people with early-stage treatment-resistant depression (TRD; defined below).",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2023",
+        "authors": [
+          "Scott Fraser",
+          "Hampsey Elliot",
+          "Gnanapragasam Sam",
+          "Carter Ben",
+          "Marwood Lindsey"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aripiprazole",
+          "Risperidone",
+          "Depression",
+          "Major Depressive Disorder",
+          "Ketamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35861202/"
+      },
+      {
+        "pmid": "34238049",
+        "title": "Efficacy and Tolerability of Combination Treatments for Major Depression: Antidepressants plus Second-Generation Antipsychotics vs. Esketamine vs. Lithium.",
+        "abstract": "Successful treatment of major depressive disorder (MDD) can be challenging, and failures (\"treatment-resistant depression\" [TRD]) are frequent. Steps to address TRD include increasing antidepressant dose, combining antidepressants, adding adjunctive agents, or using nonpharmacological treatments. Their relative efficacy and tolerability remain inadequately tested. In particular, the value and safety of increasingly employed second-generation antipsychotics (SGAs) and new esketamine, compared to lithium as antidepressant adjuncts remain unclear.",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2021",
+        "authors": [
+          "Vázquez Gustavo H",
+          "Bahji Anees",
+          "Undurraga Juan",
+          "Tondo Leonardo",
+          "Baldessarini Ross J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Major Depressive Disorder",
+          "Depressive Disorder, Treatment-Resistant",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Ketamine",
+          "Lithium Compounds",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238049/"
+      },
+      {
+        "pmid": "35545157",
+        "title": "Evidence-based treatment strategies for rapid cycling bipolar disorder, a systematic review.",
+        "abstract": "Rapid cycling is a phase of bipolar disorder with increased episode frequencies. It is a severe and disabling condition that often poses a major challenge to the clinician. The aim of this paper is to give an overview of the evidence-based treatment options for rapid cycling.",
+        "journal": "Journal of affective disorders",
+        "year": "2022",
+        "authors": [
+          "Roosen L",
+          "Sienaert P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lamotrigine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35545157/"
+      },
+      {
+        "pmid": "37393954",
+        "title": "Psychopharmacology of eating disorders: Systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "The concurrent assessment of weight and affective psychopathology outcomes relevant to the psychopharmacology of major eating disorders (EDs), namely anorexia nervosa (AN), bulimia nervosa (BN), and binge eating disorder (BED), warrants systematic review and meta-analysis of randomized controlled trials (RCTs).",
+        "journal": "Journal of affective disorders",
+        "year": "2023",
+        "authors": [
+          "Fornaro Michele",
+          "Mondin Anna Maria",
+          "Billeci Martina",
+          "Fusco Andrea",
+          "De Prisco Michele"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fluoxetine",
+          "Psychopharmacology",
+          "Randomized Controlled Trials as Topic",
+          "Feeding and Eating Disorders",
+          "Bulimia Nervosa",
+          "Binge-Eating Disorder",
+          "Anorexia Nervosa",
+          "Antipsychotic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37393954/"
+      },
+      {
+        "pmid": "20675970",
+        "title": "Adjunctive aripiprazole, olanzapine, or quetiapine for major depressive disorder: an analysis of number needed to treat, number needed to harm, and likelihood to be helped or harmed.",
+        "abstract": "To describe the efficacy and safety of adjunctive aripiprazole, olanzapine, and quetiapine for major depressive disorder.",
+        "journal": "Postgraduate medicine",
+        "year": "2010",
+        "authors": [
+          "Citrome Leslie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Benzodiazepines",
+          "Biostatistics",
+          "Clinical Trials as Topic",
+          "Major Depressive Disorder",
+          "Dibenzothiazepines",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Epidemiologic Measurements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20675970/"
+      },
+      {
+        "pmid": "21154393",
+        "title": "Second-generation antipsychotics for major depressive disorder and dysthymia.",
+        "abstract": "Major depressive disorder (MDD) is a common condition with a lifetime prevalence of 15% to 18%, which leads to considerable suffering and disability. Some antipsychotics have been reported to induce remission in major depression, when added to an antidepressant.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2010",
+        "authors": [
+          "Komossa Katja",
+          "Depping Anna M",
+          "Gaudchau Andrea",
+          "Kissling Werner",
+          "Leucht Stefan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Amisulpride",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Benzodiazepines",
+          "Major Depressive Disorder",
+          "Dibenzothiazepines",
+          "Dysthymic Disorder",
+          "Humans",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21154393/"
+      },
+      {
+        "pmid": "40433178",
+        "title": "Drug-drug interaction of paroxetine on olanzapine and initial dosage optimization in patients with major depressive disorder based on population pharmacokinetics.",
+        "abstract": "Olanzapine is already used to treat patients with major depressive disorder; however, whether complex drug-drug interaction (DDI) has an effect on the pharmacokinetics of people using olanzapine and its initial dosage remains unknown. The present study aims to explore the effect of DDI on olanzapine.",
+        "journal": "Frontiers in psychiatry",
+        "year": "2025",
+        "authors": [
+          "Zhang Cun",
+          "Chen Liang",
+          "Duan Yin-Yin",
+          "He Su-Mei",
+          "Tian Ya-Li"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40433178/"
+      },
+      {
+        "pmid": "25963405",
+        "title": "Antipsychotics as antidepressants.",
+        "abstract": "Three second-generation antipsychotic (SGA) agents have received FDA approval for adjunctive treatment, to antidepressant, of major depressive disorder: quetiapine, aripiprazole, and olanzapine. Additionally, quetiapine and lurasidone have been approved for the treatment of bipolar depression. There are data suggesting that quetiapine is effective for major depressive disorder as monotherapy. These agents are effective for depression only at subantipsychotic doses. Receptor profiles predict that all SGA will have anxiolytic effects as subantipsychotic doses but that all will be dysphorogenic at full antipsychotic doses (i.e., produce a depression-like clinical picture). The antidepressant effect appears to be unique to some agents, with direct evidence of insignificant antidepressant action for ziprasidone. Three general principles can guide the use of antipsychotics as antidepressants: (i) All SGAs may have anxiolytic effects; (ii) full antipsychotic doses are dysphorogenic, and there",
+        "journal": "Asia-Pacific psychiatry : official journal of the Pacific Rim College of Psychiatrists",
+        "year": "2016",
+        "authors": [
+          "Roberts Rona Jeannie",
+          "Lohano Kavita K",
+          "El-Mallakh Rif S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Major Depressive Disorder",
+          "Humans",
+          "Off-Label Use",
+          "United States",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25963405/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:05:45.199637",
+  "success": true,
+  "error_message": null
+}

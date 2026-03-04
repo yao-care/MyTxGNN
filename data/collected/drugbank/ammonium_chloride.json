@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Ammonium Chloride"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB06767",
+    "name": "Ammonium chloride",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:08:52.900557",
+  "success": true,
+  "error_message": null
+}

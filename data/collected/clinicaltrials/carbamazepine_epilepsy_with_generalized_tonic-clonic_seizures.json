@@ -1,0 +1,144 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Carbamazepine",
+    "disease": "epilepsy with generalized tonic-clonic seizures"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208520",
+      "title": "Second-Line Treatment Choice for Epilepsy",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2003-07",
+      "completion_date": "2007-06",
+      "country": "Netherlands",
+      "enrollment": 60,
+      "brief_summary": "Most patients are prescribed valproate as their first antiepileptic drug. It is unknown which is the best second-line drug when patients do not become seizure free on valproate. This has led the Dutch Epilepsy Clinics Foundation (SEIN) to start the SLICE study. Adult patients with partial and/or tonic-clonic seizures, insufficiently responding to valproate, are recruited for this study. These patients are randomized to receive one of three other drugs. Patients wil initially use this drug next t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with generalized tonic-clonic, complex partial and/or simple partial seizures. The seizures should be well-defined according to the International Classification of Epileptic Seizures (1). Therefore, an accurate history and adequate neurophysiological data should",
+      "endpoints": [
+        "Percentage seizure free"
+      ],
+      "sponsor": "Dutch Epilepsy Clinics Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00208520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01465997",
+      "title": "A Multicenter, Double-blind, Double-dummy, Follow up Study Evaluating the Long-term Safety of Lacosamide in Comparison With Controlled-release Carbamazepine Used as Monotherapy in Subjects With Partial-onset or Generalized Tonic-clonic Seizures ≥16 Years of Age Coming From the SP0993 Study.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2017-01",
+      "country": "Bulgaria, Spain, Mexico, Switzerland, Russia, Canada, Sweden, Belgium, Hungary, Slovakia, Germany, Australia, Latvia, Portugal, Romania, Thailand, Lithuania, South Korea, Finland, Greece, Ukraine, Poland, Japan, United States, France, Philippines, Czechia, Italy, United Kingdom",
+      "enrollment": 551,
+      "brief_summary": "Compare safety of Lacosamide (LCM) to Carbamazepine Controlled-Release (CBZ-CR) as monotherapy in newly or recently newly diagnosed subjects with primary safety variables including spontaneous reports of Adverse Events (AEs), withdrawal of subjects due to AEs, reporting of Serious AEs (SAEs).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject/legal representative is considered reliable and capable of adhering to the protocol\n* Subject has remained seizure free and completed the Maintenance Phase of the SP0993; or subject has experienced 1 or more seizures on the first or second target dose during the SP0993",
+      "endpoints": [
+        "Number of Subjects With at Least One Treatment-emergent Adverse Event (AE) During the Treatment Phase (Maximum of 3.5 Years)",
+        "Number of Subjects Who Withdrew From the Study Due to a Treatment-emergent Adverse Event (AE) During the Treatment Phase (Maximum 3.5 Years)",
+        "Number of Subjects With at Least One Treatment-emergent Serious Adverse Event (SAE) During the Treatment Phase (Maximum of 3.5 Years)"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01465997"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02208492",
+      "title": "The Effects on Cognitive Function of Levetiracetam (Keppra®) Compared to Carbamazepine (Tegretol®, Carmazepine®) as Monotherapy for Children With Partial Seizure; A Multicentric Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2014-02",
+      "country": "South Korea",
+      "enrollment": 75,
+      "brief_summary": "Unlike the first generation antiepileptic medications, newer drugs for epilepsy such as levetiracetam are reported to have less adverse effect in children but not many studies have systematically reviewed the subject. This study aims to prospectively evaluate the effect of levetiracetam on neurocognition, behavioral issues and quality of life, as well as its seizure control efficacy and other adverse events in pediatric epilepsy patients, in comparison to carbamazepine, one of the classic antiep",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients from age 4 to 16, who have been diagnosed with focal epilepsy\n2. Patients who have experienced minimal two unprovoked seizures, or patients who have had one unprovoked seizure and have shown focal abnormality in the EEG\n3. Patients who have not received any antiepile",
+      "endpoints": [
+        "Assessment and comparative analysis of initial and follow-up Neuropsychological evaluation in both treated groups. (Levetiracetam and Carbamazepine)"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT02208492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07443241",
+      "title": "Gender-specific Differences in the Etiology, Diagnosis, Treatment and Outcome of Status Epilepticus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-12-16",
+      "completion_date": "2024-03-27",
+      "country": "N/A",
+      "enrollment": 779,
+      "brief_summary": "Sex-specific differences in neurological emergencies such as Status epilepticus (SE) remain understudied despite growing recognition of gender disparities in medicine. This study aimes to investigate sex-related differences in etiology, diagnostics, treatment, and outcomes among patients with SE. The investigators conducted a retrospective analysis of 779 patients treated with SE at Marburg University Hospital between 2011 and 2023.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who were treated at Marburg University Hospital (UKGM Marburg) between January 2011 to March 2023 with diagnosis of SE\n\nExclusion Criteria:\n\n* children",
+      "endpoints": [
+        "Age at SE Onset",
+        "Diagnosis of SE Subtype",
+        "Semiology: Focal vs. Generalized"
+      ],
+      "sponsor": "University Hospital Marburg",
+      "url": "https://clinicaltrials.gov/study/NCT07443241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04836559",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multicenter Study to Evaluate the Efficacy, Safety, and Tolerability of JNJ-40411813 as Adjunctive Therapy in Subjects With Focal Onset Seizures With Suboptimal Response to Levetiracetam or Brivaracetam",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-05-18",
+      "completion_date": "2024-02-08",
+      "country": "South Korea, Spain, Russia, Ukraine, Germany, Poland, Belgium, United States",
+      "enrollment": 110,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of up to 3 dose levels of adjunctive JNJ-40411813 compared to placebo based on the time to baseline monthly seizure count in participants with focal onset seizures who are receiving levetiracetam or brivaracetam and up to 3 other anti-epileptic drugs (AEDs) (double-blind treatment period) and to evaluate the long-term efficacy and safety of adjunctive therapy with JNJ-40411813 in participants with epilepsy (open-label extension \\[OLE\\] period",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI) between 18 and 35 kilogram per meter square (kg/m\\^2, inclusive (BMI = weight/height\\^2). Minimum body weight should be 40-kilogram (kg)\n* Established diagnosis of focal epilepsy, for at least 1 year using the International League Against Epilepsy (ILAE) ",
+      "endpoints": [
+        "Cohort 1 and 2: Time to Baseline Monthly Seizure Count up to the End of the 12-week Double-blind (DB) Treatment Period"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04836559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01243177",
+      "title": "A Multicenter, Double-blind, Double-dummy, Randomized, Positive- Controlled Study Comparing the Efficacy and Safety of Lacosamide (200 to 600 mg/Day) to Controlled Release Carbamazepine (400 to 1200 mg/Day), Used as Monotherapy in Subjects (≥ 16 Years) Newly or Recently Diagnosed With Epilepsy and Experiencing Partial-onset or Generalized Tonic-clonic Seizures.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2015-08",
+      "country": "Bulgaria, Spain, Mexico, Switzerland, Russia, Canada, Sweden, Belgium, Hungary, Slovakia, Germany, Australia, Latvia, Portugal, Romania, Thailand, Lithuania, South Korea, Finland, Greece, Ukraine, Poland, Japan, United States, France, Philippines, Czechia, Italy, United Kingdom",
+      "enrollment": 888,
+      "brief_summary": "Compare efficacy and safety of Lacosamide (LCM) to Carbamazepine Controlled-Release (CBZ-CR) as monotherapy in newly or recently newly diagnosed subjects with a primary efficacy endpoint of 6-month seizure freedom. Noninferiority design to show a similar risk/benefit balance between Lacosamide (LCM) and Carbamazepine-CR (CBZ-CR).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject able to comply with study requirements\n* Subject is 16 years and older (female; male). Minors will be included in countries only if legally permitted\n* Subject has newly or recently diagnosed Epilepsy experiencing partial onset seizures (POS) or generalized tonic-cloni",
+      "endpoints": [
+        "Proportion of Subjects in the Full Analysis Set (FAS) Remaining Seizure Free for 6 Consecutive Months (26 Consecutive Weeks) of Treatment Following Stabilization at the Last Evaluated Dose for Each Subject",
+        "Proportion of Subjects in the Per Protocol Set (PPS) Remaining Seizure Free for 6 Consecutive Months (26 Consecutive Weeks) of Treatment Following Stabilization at the Last Evaluated Dose for Each Subject",
+        "Number of Subjects With at Least One Treatment-emergent Adverse Event (AE) During the Treatment Phase (up to 113 Weeks)"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01243177"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00150735",
+      "title": "A Multicenter, Double-blind, Randomized, Parallel Group, Positive-controlled Trial Comparing the Efficacy and Safety of Levetiracetam (1000 to 3000 mg/Day Oral b.i.d.) to Carbamazepine (400 to 1200 mg/Day Oral b.i.d.), Used as Monotherapy for up to a Maximum of 121 Weeks in Subjects (≥ 16 Years) Newly or Recently Diagnosed as Suffering From Epilepsy, and Experiencing Partial or Generalized Tonic-clonic Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2005-07",
+      "country": "N/A",
+      "enrollment": 580,
+      "brief_summary": "A double-blind trial comparing the efficacy and safety of levetiracetam to carbamazepine used as monotherapy in subjects (≥ 16 years) newly or recently diagnosed as suffering from epilepsy, and experiencing partial or generalized tonic-clonic seizures.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with newly or recently diagnosed epilepsy having experienced unprovoked partial seizures (IA, IB, IC with clear focal origin), or generalized tonic-clonic seizures (without clear focal origin), that are classifiable according to the International Classification of Epi",
+      "endpoints": [
+        "To demonstrate that levetiracetam monotherapy is not inferior to carbamazepine by measuring the proportion of subjects with 6-month seizure freedom in subjects newly diagnosed as suffering from epilepsy."
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00150735"
+    }
+  ],
+  "timestamp": "2026-03-04T16:12:37.058555",
+  "success": true,
+  "error_message": null
+}

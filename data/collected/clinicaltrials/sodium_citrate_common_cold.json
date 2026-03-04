@@ -1,0 +1,68 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "common cold"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00903201",
+      "title": "A Randomized, Double Blind, Parallel Group, Placebo Controlled 28 Day Study to Investigate the Safety, Tolerability and Pharmacodynamics of SB-656933 in Patients With Cystic Fibrosis.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-09-28",
+      "completion_date": "2010-12-29",
+      "country": "Israel, France, Germany, Canada, United States",
+      "enrollment": 146,
+      "brief_summary": "The purpose of this study is to determine whether the safety, tolerability and pharmacodynamics of SB656933 in patients that have cystic fibrosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of CF based on the following: sweat chloride \\> 60 mEq/L and/or genotype with 2 identifiable mutations consistent with CF; (ΔF508 homozygote, or ΔF508 heterozygote with a second allele known to cause the disease, or two alleles known to cause a class I, II, or III mu",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AE) and Serious Adverse Events (SAE)",
+        "Number of Participants With Vital Signs of Potential Clinical Importance",
+        "Number of Participants With Hematology Abnormalities of Potential Clinical Importance"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00903201"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04122105",
+      "title": "PDE5i Use in Renal Transplant Recipients",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-04-01",
+      "completion_date": "2023-01-01",
+      "country": "Canada",
+      "enrollment": 0,
+      "brief_summary": "Ischemia-reperfusion (IRI) injuries are common in renal transplantation and cause poor patient outcomes. Ischemia occurs after the donor's death and reperfusion occurs after kidney implantation. The donor kidney undergoes warm ischemia (WIT) after blood circulation stops and cold ischemia (CIT) when subjected to cold storage during transportation. Decreased blood flow leads to waste product accumulation and cellular damage. During reperfusion, reactive oxygen radicals and inflammatory processes ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* renal transplant patients at VGH undergoing donation after circulatory death (DCD) and donation after brain death (DBD) kidney transplants\n* 19 years of age\n* able to provide consent.\n\nExclusion Criteria:\n\n* Patients that are unable to understand the purpose of the study or ca",
+      "endpoints": [
+        "renal transplant function within 90 days postop"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT04122105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01435486",
+      "title": "Caffeine Citrate for the Treatment of Apnea Associated With Bronchiolitis in Young Infants: A Randomized, Double Blind, Controlled Trial (RCT)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-11",
+      "country": "Qatar",
+      "enrollment": 90,
+      "brief_summary": "Viral bronchiolitis is the most common lower respiratory tract infection of infancy. Apnea is a complication of bronchiolitis, reported in 16 - 21% of cases. Caffeine, a trimethylxanthine, acts as an antagonist to endogenous adenosine and a potent central nervous system stimulant. In apnea of prematurity, caffeine is believed to work by increasing central respiratory drive.\n\nInfants ≤4 months of age, presenting to pediatric emergency center Al-Sadd, from September 2011 to May 2014, with a diagno",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants ≤4 months of age, presenting to pediatric emergency center Al-Sadd, from September 2011 to May 2014, with a diagnosis of viral bronchiolitis associated with apnea.\n\nExclusion Criteria:\n\n* Hypersensitivity to caffeine.\n* Patients on caffeine treatment.\n* Cardiovascular ",
+      "endpoints": [
+        "The primary efficacy outcome in this double-blinded study was the time until last apnea episode in both groups."
+      ],
+      "sponsor": "Hamad Medical Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01435486"
+    }
+  ],
+  "timestamp": "2026-03-04T16:25:55.298298",
+  "success": true,
+  "error_message": null
+}

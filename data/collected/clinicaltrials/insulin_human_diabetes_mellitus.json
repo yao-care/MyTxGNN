@@ -1,0 +1,931 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Insulin Human",
+    "disease": "diabetes mellitus"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02455934",
+      "title": "The Dose-response Effects of D-allulose (Psicose) With Sucrose Beverage on Glucose Tolerance and Insulin Level in Healthy Volunteers and Volunteers With Impaired Fasting Glucose",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2015-12",
+      "country": "Thailand",
+      "enrollment": 30,
+      "brief_summary": "Randomized, double-blind, crossover-trial, 30 subjects in each groups, either males or females, normal fasting glucose or pre-diabetes, aged \\> 18 years old to perform oral sucrose tolerance with either one of the 5 study products\n\n1. Sucrose 50 g\n2. Sucrose 50 g + D-allulose (psicose) 2.5 g\n3. Sucrose 50 g + D-allulose (psicose) 5 g\n4. Sucrose 50 g + D-allulose (psicose) 7.5 g\n5. Sucrose 50 g + D-allulose (psicose) 10 g\n\nPrimary endpoints:\n\n1. To investigate the dose-response effects of D- allu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, age \\> 18 years and legal age of consent.\n2. If female, the participant is either post-menopausal or surgically sterilized, or has a negative urine kit pregnancy test within 7 days prior to enrollment and will use adequate contraception during the study.\n3. Th",
+      "endpoints": [
+        "The dose-response effects of D-allulose (psicose) with sucrose beverage on glucose tolerance"
+      ],
+      "sponsor": "Chiang Mai University",
+      "url": "https://clinicaltrials.gov/study/NCT02455934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00371800",
+      "title": "The Effect of Cinnamon on HbA1c Among Adolescents With Type I Diabetes",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2006-05",
+      "country": "United States",
+      "enrollment": 72,
+      "brief_summary": "the purpose of this study is to determine if cinnamon improves glucose control among adolescents with type 1 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of Type 1 diabetes for \\> 18 months prior to enrollment,\n2. Age 13-18 years at the time of enrollment\n3. Presenting to the clinic for routine care,\n4. No hospital admissions for medical or psychiatric reasons in the 12 months prior to enrollment,\n5. Accessible by ph",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Dartmouth-Hitchcock Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00371800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03084471",
+      "title": "An Open-Label, Multi-Centre, Safety Study of Fixed-Dose Durvalumab + Tremelimumab Combination Therapy or Durvalumab Monotherapy in Advanced Solid Malignancies.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-05",
+      "completion_date": "2022-12-16",
+      "country": "South Korea, France, Italy, Germany, United Kingdom, Netherlands, Canada, United States",
+      "enrollment": 867,
+      "brief_summary": "To evaluate the safety, tolerability, and anti-tumor activity of the combination of durvalumab + tremelimumab or durvalumab alone in different solid tumors.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Must have a life expectancy of at least 12 weeks.\n2. Age ≥18 years at the time of screening. For patients aged \\<20 years and enrolled in Japan, a written informed consent should be obtained from the patient and his or her legally acceptable representative\n3. Capable of givin",
+      "endpoints": [
+        "Number of Participants With Adverse Events of Special Interest (AESIs)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT03084471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01837134",
+      "title": "TeleLifestyleCoaching Study - Telemedical Coaching for Weight Loss",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2014-04",
+      "country": "Germany",
+      "enrollment": 100,
+      "brief_summary": "Lifestyle changes often fail due to loss of motivation. Telemedicine and personal coaching have the potential to support lifestyle change and weight loss. Therefore, the aim of our randomized controlled trial is to examine the effect of telemedicine with and without coaching in comparison to a control group on weight loss in overweight participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* employed at Boehringer Ingelheim Pharma GmbH for at least 2 years\n* older than 40 years\n* overweight or obese or metabolic syndrome\n\nExclusion Criteria:\n\n* not willing to participate",
+      "endpoints": [
+        "weight loss"
+      ],
+      "sponsor": "West German Center of Diabetes and Health",
+      "url": "https://clinicaltrials.gov/study/NCT01837134"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01244971",
+      "title": "Effect of Exercise Training - Alone or in Combination With Acarbose - on Clinical and Metabolic Factors, and Studies of Cellular and Moleculargenetic Factors, in Type 2 Diabetes.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "",
+      "country": "Sweden",
+      "enrollment": 62,
+      "brief_summary": "The purpose of this study is to investigate the impact of exercise training, Acarbose, and the combination of exercise and Acarbose on glycemic control, body composition, insulin sensitivity and other cardiovascular risk markers in type 2 diabetes. Further, muscle biopsies will be obtain to study gene expression. Our hypothesis is that the combination therapy will be superior to monotherapy with exercise or Acarbose.",
+      "eligibility_criteria": "Inclusion Criteria: Men and women, diagnosis of type 2 diabetes established since at least three months, treatment with diet or maximum one oral anti-diabetic drug, GHb \\< 8.5 %, age 45 - 60 years, BMI 25 - 30 kg/m2, no participation in any regular exercise program.\n\n\\-\n\nExclusion Criteria: Unable t",
+      "endpoints": [
+        "Glycemic control"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT01244971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00934336",
+      "title": "Importance in Type 1 Diabetes Patients of an Optimized Control of Post-Prandial Glycaemia on Oxidant Stress Prevention",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-04",
+      "country": "France",
+      "enrollment": 50,
+      "brief_summary": "The aim of this study is to determine whether postprandial hyperglycaemia plays an important role in oxidative stress phenomena and influences their harmful effects on the arterial wall.\n\n25 type 1 diabetic patients practicing FIT and with an HbA1c value of 8 percent or less at the beginning of the study will be recruited. The 25 control subjects will be recruited after the patients, so that they can be paired by age and sex.\n\nPatients will be randomized via an alternative cross over study desig",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 Diabetes\n* treaties by basal / bolus with a ultra rapid analogue or a pump with a ultra rapid analogue\n* Adults between 18 and 50 years old\n* Patients practicing FIT\n* Written informed consent obtained prior to enrollment in the study\n* HbA1c ≤ 8%\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "Assay of isoprostane-F2, an indicator of lipid peroxidase derivative production, in the 24 hour urine"
+      ],
+      "sponsor": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diabète",
+      "url": "https://clinicaltrials.gov/study/NCT00934336"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02094534",
+      "title": "A Prospective, Randomized, Double-blind, Placebo Controlled Study to Assess the Impact of ORMD-0801 (Insulin Capsules) on the Exogenous Insulin Requirements of Type 1 Diabetics",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2014-10",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "This will be a prospective, randomized, double-blind, placebo controlled study. Patients with established Type 1 diabetes will be eligible for entry into the study. Eligible patients will be screened and those who fulfill all inclusion/exclusion criteria will be admitted to the inpatient unit no fewer than 2 days and no more than 7 days after Screening. Patients will report to the inpatient unit at 6 a.m. and outfitted with a continuous glucose monitoring (CGM) device. Patients will be given sta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and Females age 18 to 55 years old, inclusive.\n* Patients must be willing and able to sign informed consent.\n* Documented history of Type 1 Diabetes for at least 6 months\n* Females of childbearing potential must have a negative serum pregnancy test at screening and a neg",
+      "endpoints": [
+        "Change From Baseline in Total, Basal, and Bolus Exogenous Insulin Requirements"
+      ],
+      "sponsor": "Oramed, Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02094534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05973734",
+      "title": "Clinical Islet Transplantation With Apheresis, Isolation and Reintroduction of Recipient Regulatory T Cells or Administration of Deceased Donor Vertebral Bone Marrow in Type 1 Diabetes",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2023-10-01",
+      "completion_date": "2028-05",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The goal of this clinical trial is to learn if patients who have brittle type 1 diabetes receiving an islet transplantation will have better control of their sugars if they also receive one of 2 types of immune cells along with the islet transplant. The participants will receive either their own immune cells, called regulatory T cells, or immune cells from the bone marrow of the islet donor.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients age 18 to 70 years of age.\n* Ability to provide written informed consent.\n* Mentally stable and able to comply with the procedures of the study protocol.\n* Clinical history compatible with T1D with onset of disease at \\< 45 years of age, insulin- depen",
+      "endpoints": [
+        "Occurrence of Grade 3 to 5 cytokine release syndrome / acute infusion reaction after Treg administration infusion reaction after Treg administration",
+        "Occurrence of grade 4 or greater adverse events of islet transplantation",
+        "Number of patients who receive Treg infusions (Arm1) or Donor Derived Vertebral Bone Marrow (Arm2) and islet transplantation (feasibility)"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT05973734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00167934",
+      "title": "Metabolic Effects of Valproate and Antipsychotic Therapy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 164,
+      "brief_summary": "This study will determine the metabolic processes responsible for high levels of blood glucose, metabolism disorders, and weight gain in people with schizophrenia who have been treated with antipsychotic medications in combination with valproate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV criteria for schizophrenia, any type, treated with the same antipsychotic for at least 6 months\n* No antipsychotic medication dose changes for 1 month, and no other medication changes for 1 month prior to study entry\n\nExclusion Criteria:\n\n* Meets DSM-IV criteria f",
+      "endpoints": [
+        "Change From Baseline in Total Body Fat Composition Using Dual Energy X-ray Absorptiometry at 12 Weeks",
+        "Effects of Medication on Insulin Secretion at Skeletal Muscle (Glucose Disposal)"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00167934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05724134",
+      "title": "Role of Hyperinsulinemia in Non-Alcoholic Fatty Liver Disease (NAFLD) Pathogenesis: Pancreatic Clamp Pilot & Feasibility Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2023-08-29",
+      "completion_date": "2025-09-24",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "This is a single-center, prospective, randomized, controlled (crossover) clinical study designed to investigate the specific dose-response impact of insulin infusion rate (IIR) on blood glucose levels during a pancreatic clamp study. The investigators will recruit participants with a history of overweight/obesity and evidence of insulin resistance (i.e., fasting hyperinsulinemia plus prediabetes and/or impaired fasting glucose and/or Homeostasis Model Assessment of Insulin Resistance \\[HOMA-IR\\]",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women (using highly effective contraception if of childbearing potential, aged 18-65 years\n2. Body mass index of 25-45 kg/m2\n3. Able to understand written and spoken English and/or Spanish\n4. Evidence of insulin resistance, represented by any or all of the following c",
+      "endpoints": [
+        "Plasma glucose (absolute values) (units: mg/dL)",
+        "Plasma glucose (relative/change) (units: fold difference and/or ∆mg/dL relative to previous time points)",
+        "Serum insulin (absolute values) (units: micro-international units per milliliter (µIU/mL))"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT05724134"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01864564",
+      "title": "Early Gestational Diabetes Screening in the Gravid Obese Woman",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-06-18",
+      "completion_date": "2018-08-31",
+      "country": "United States",
+      "enrollment": 962,
+      "brief_summary": "Specific Aim 1: To test the hypothesis that early GDM screening between 14-18 weeks in obese women (body mass index ≥30.0) will result in improved perinatal outcomes.\n\nSpecific Aim 2: To test the hypothesis that a lower diagnostic threshold for GDM at 14-18 weeks will result in improved detection of GDM and reduce the need for third-trimester testing.\n\nSpecific Aim 3: To test the hypothesis that 1,5-anhydroglucitol, a sensitive marker of hyperglycemia, can be used as a simple and sensitive serum",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant\n* 18 years and older\n* Body mass index \\>=30.0\n* \\<20 weeks gestation at presentation for care\n\nExclusion Criteria:\n\n* Prior cesarean\n* History of bariatric surgery\n* Major maternal medical illness (cardiac disease, HIV, hemoglobinopathy, oxygen requirement)\n* Chronic",
+      "endpoints": [
+        "Number of Participants With a Composite Perinatal Outcome"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT01864564"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06798181",
+      "title": "The Effect of Neuropathic Pain on Self-Care Ability and Quality of Life in Type II Diabetic Patients",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-12-15",
+      "completion_date": "2026-01-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 128,
+      "brief_summary": "Diabetes Mellitus (DM) is a common metabolic disease characterized by hyperglycemia resulting from insufficiency, deficiency or absence of the insulin hormone. Chronic hyperglycemia, secondary metabolic and microvascular changes resulting in diabetic neuropathy are among the most common complications encountered in DM patients.\n\nDiabetic neuropathy is called peripheral, autonomic or spinal depending on the region of involvement. Peripheral involvement is more common than other region involvement",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years and older,\n* Diagnosed with type II diabetes,\n* Reading and writing,\n* No physical or psychological communication barriers,\n* Can read and speak Turkish,\n* Volunteers\n\nExclusion Criteria:\n\n* Diagnosed with type I diabetes",
+      "endpoints": [
+        "Neuropathic pain",
+        "the pain severity"
+      ],
+      "sponsor": "Bilecik Seyh Edebali Universitesi",
+      "url": "https://clinicaltrials.gov/study/NCT06798181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00167830",
+      "title": "Understanding The Barriers in Treatment of Obesity in Adolescents 11-18 in Central Virginia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2013-12",
+      "country": "United States",
+      "enrollment": 292,
+      "brief_summary": "The purpose of this study is to identify significant racial and ethnical differences in risk factors for development of obesity and weight loss in adolescents in Central Virginia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 11-18\n* Above 95th percentile for weight\n* Reside within 30 miles of program site\n* Ability to comprehend basic instructions\n* Ability to perform basic exercise movements\n\nExclusion Criteria:\n\n* Having a metabolic disorder that causes weight gain\n* Having a cognitive defic",
+      "endpoints": [
+        "A decrease in body mass index.",
+        "Improvement in metabolic indicators.",
+        "Improvement in fitness measures"
+      ],
+      "sponsor": "Virginia Commonwealth University",
+      "url": "https://clinicaltrials.gov/study/NCT00167830"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04215328",
+      "title": "Facilitated Release of Endogenous Enterokines: An Ambulatory Prospective Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-11-01",
+      "completion_date": "2019-02-28",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "The overall objective is to develop therapy for obesity and diabetes that is as effective as gastric bypass surgery but without the cost and safety concerns.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes on oral antidiabetic medication\n* BMI greater than or equal to 30kg/m2\n* A1C less than 9%\n\nExclusion Criteria:\n\n* Use of any of the following medications: dipeptide-peptidase IV (DPP-IV) inhibitors (e.g., sitagliptin), GLP-1 analogs (e.g., exenatide) or medicat",
+      "endpoints": [
+        "Weight change between groups"
+      ],
+      "sponsor": "University of Southern California",
+      "url": "https://clinicaltrials.gov/study/NCT04215328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06638567",
+      "title": "Postoperative Glucose Control with a Basal Bolus Versus Sliding Scale Insulin Regimen and Its Effect on the Incidence of Surgical Site Infections in People with Type 2 Diabetes Mellitus.",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-01-03",
+      "completion_date": "2027-09",
+      "country": "Netherlands",
+      "enrollment": 1008,
+      "brief_summary": "A multicentre, matched-pair, cluster randomised controlled superiority trial to investigate the effect of a proactive basal bolus insulin regimen compared to the reactive sliding scale insulin regimen, targeting a glucose level of 3.9-10.0 mmol/L, to reduce the number of surgical site infections within the first 30 days postoperatively in adult patients with diabetes mellitus type 2.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18 or older\n* Diagnosed with type 2 diabetes mellitus\n* Undergoing gastointestinal or vascular surgery\n* Admitted to one of the participating surgical wards\n* Expected duration of stay at least one overnight stay\n* Willing and able to provide informed consent\n\nEx",
+      "endpoints": [
+        "Surgical site infection"
+      ],
+      "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+      "url": "https://clinicaltrials.gov/study/NCT06638567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03747107",
+      "title": "Pharmacist and Data Driven Quality Improvement in Primary Care",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-09-16",
+      "completion_date": "2021-06-30",
+      "country": "United Kingdom",
+      "enrollment": 19,
+      "brief_summary": "P-DQIP is an intervention to improve prescribing safety in primary care. The 'intervention' is a health board quality improvement programme that will be implemented across all practices in one National Health Service (NHS) board in Scotland (Tayside), and comprises the following components:\n\ni. Case finding of patients with drug therapy risks via the P-DQIP informatics tool ii. Decision support for clinicians when conducting medication reviews via the P-DQIP informatics tool iii. Support from pr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* General practices in NHS Tayside, who use the Vision electronic medical record software and agree to the extraction of data from medical records for monitoring and evaluation purposes\n\nExclusion Criteria:\n\n* General practices using electronic medical record software other than",
+      "endpoints": [
+        "Initially targeted drug therapy risks in patients aged 75 years or older"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT03747107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01924767",
+      "title": "Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of 4 Multiple Rising Oral Doses (2.5 mg to 100 mg) of BI 10773 Tablets in Male and Female Type 2 Diabetic Patients",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2007-11",
+      "country": "Germany",
+      "enrollment": 48,
+      "brief_summary": "To investigate safety, tolerability, pharmacokinetics and pharmacodynamics of BI 10773 with repeat dosing for eight days and the exploration of the pharmacokinetics and pharmacodynamics of BI 10773 after multiple dosing, including dose proportionality and assessment of steady state.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Male and postmenopausal or hysterectomised female patients with proven diagnosis of type 2 diabetes mellitus treated with diet and exercise only or on a maximum of two oral antidiabetic agents except thiazolidindiones with at least one agent taken at 50% of its maximum dose o",
+      "endpoints": [
+        "Percentage of Participants With Clinically Relevant Findings in Physical Examination, Vital Signs and Clinical Laboratory Tests",
+        "Percentage of Participants With Clinically Relevant Findings in Electrocardiogram (ECG) Results",
+        "Micturition Frequency"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT01924767"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03829800",
+      "title": "Effect of the Intake of Specific Formulas for Diabetes With Sucromalt and Isomaltulose on the Glycemic Index, Insulin, Glucagon-like Peptide-1, Gastric Inhibitory Peptide Levels and Subjective Appetite in Subjects With Type 2 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-09-01",
+      "completion_date": "2018-11-15",
+      "country": "N/A",
+      "enrollment": 23,
+      "brief_summary": "Consumption of nutritional supplements with low glycemic carbohydrates induce favorable glycemic responses in subjects with type 2 diabetes. The aim of this study was to compare the effect of the intake of specific formulas for diabetes, with different types of carbohydrates (isomaltulose and sucromaltose) on the glycemic response, release of intestinal peptides and subjective appetite in Type 2 diabetic individuals. In a randomized, double-blind, cross-over study of 4 treatments, 16 subjects (5",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 Diabetes\n* Demonstrated use of oral hypoglycemic agents (metformin), for at least two months\n* BMI of 18.5 kg/m2 to ≤ 35 kg/m2\n\nExclusion Criteria:\n\n* Type 1 Diabetes\n* Diabetic ketoacidosis\n* Congestive heart failure\n* Gastric, renal or hepatic diseases\n* Myocardial in",
+      "endpoints": [
+        "Change from baseline Glycemia at 180 minutes",
+        "Change from baseline Insulin at 180 minutes",
+        "Glycemic Index (GI)"
+      ],
+      "sponsor": "Universidad del Zulia",
+      "url": "https://clinicaltrials.gov/study/NCT03829800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05166200",
+      "title": "Postprandial Glycemic Response to a Diabetes-Specific Formula and Oatmeal in Adults With Type 2 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-03-11",
+      "completion_date": "2022-06-20",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This is a randomized, controlled, crossover study to compare the effects of two treatments on postprandial glucose in adults with type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 21 and ≤ 75 years\n* Participant has type 2 diabetes as evidenced by use of oral antihyperglycemic medication(s) with constant dose for at least two months prior to screening and baseline visit. Participant is able to maintain medication number, type and dose throughout t",
+      "endpoints": [
+        "Glucose positive area under the curve (AUC)"
+      ],
+      "sponsor": "Abbott Nutrition",
+      "url": "https://clinicaltrials.gov/study/NCT05166200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06236932",
+      "title": "PRIN \"SIDERALE\": Susceptibility to Infectious Diseases in obEsity: an endocRine trAnslational socioLogic Evaluation",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-12-29",
+      "completion_date": "2026-10-29",
+      "country": "Italy",
+      "enrollment": 100,
+      "brief_summary": "Obesity is a life-threatening disease, defined by excessive fat accumulation that increases the risk of other diseases such as cardiovascular events, hypertension, diabetes and cancer. Obesity is also a risk factor for nosocomial infections and is associated with worse COVID-19 outcomes, although anthropometric measurements are not routinely recorded during hospitalization and lack of a registry data does not allow performing retrospective studies.Obesity is closely related to chronodisruption, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* essential obesity (BMI : 30-35 Kg/m2)\n* genetic forms of obesity (BMI: 30-35 Kg/m2)\n* obesity (BMI:30-35 Kg/m2) associated with T2DM\n* obesity (BMI:30-35 Kg/m2) associated with endocrinopathies\n* lipodystrophy\n\nExclusion Criteria:\n\n* pregnancy, breast-feeding, alcohol and drug",
+      "endpoints": [
+        "Investigation of the impact of hypocaloric MD and hypocaloric MD plus melatonin on the number of events - i.e. flu- or flulike syndromes, skin, respiratory, digestive, urinary infections in patients with obesity and lipodystrophy"
+      ],
+      "sponsor": "Federico II University",
+      "url": "https://clinicaltrials.gov/study/NCT06236932"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02097316",
+      "title": "Feasibility Study of the JewelPump Version 3",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2014-09",
+      "country": "France",
+      "enrollment": 21,
+      "brief_summary": "The study will be conducted, in cross-over with a time interval of at least 2 days between 2 treatment periods. Patients will be randomized into 2 groups According to the order of the randomization, patients will bear the JewelPump for 5 days, followed by a period of 5 days of treatment with their usual pumps.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients type 1 diabetics treated by external insulin pump;\n* Patients with HbA1c \\< 8.5%\n* Patients who signed consent\n\nExclusion Criteria:\n\n* Patients type 2 diabetics\n* Patients who have all serious diseases that could interfere with the study",
+      "endpoints": [
+        "Time spent in glycemic area 70-180 mg / dl, measured continuously for 5 days with a continuous glucose monitoring (CGM) DEXCOM G4"
+      ],
+      "sponsor": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diabète",
+      "url": "https://clinicaltrials.gov/study/NCT02097316"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06007404",
+      "title": "The Role of Circulating Meta-Inflammatory Monocytes in Adolescent Insulin Resistance",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-09-06",
+      "completion_date": "2027-09",
+      "country": "United States",
+      "enrollment": 175,
+      "brief_summary": "This research study collects health-related information and blood samples to better understand how body composition, lifestyle habits, and diet influence meta-inflammatory monocytes (MiMos) in adolescents. The hypothesis of this study is that adolescents at risk for metabolic disease have enhanced MiMo related activities leading to insulin resistance.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 14 and 18 years of age\n* Tanner stage 4 or 5 (mature adult stage of puberty)\n* Normal weight (BMI ≥ 5th percentile \\& \\< 85th percentile), overweight (BMI \\> 86th percentile) \\& \\< 94th percentile), obese weight (BMI percentile ≥ 95th percentile), and/or pre-diabetes (",
+      "endpoints": [
+        "Glucose (OGTT)",
+        "Insulin (OGTT)",
+        "Glucose (MMTT)"
+      ],
+      "sponsor": "University of Michigan",
+      "url": "https://clinicaltrials.gov/study/NCT06007404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05487833",
+      "title": "Comparison of Insulin and Standard Management in Hypertriglyceridemic Acute Pancreatitis in Patients Without Diabetes",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-11",
+      "completion_date": "2024-09",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "To compare the efficacy of infusion containing insulin and infusion without insulin on reduction of triglycerides in acute hypertriglyceridemic pancreatitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* acute pancreatitis\n* triglycerides \\> 15 mmol/l\n\nExclusion Criteria:\n\n* diabetes on peroral therapy or insulin\n* blood glucose \\> 11 mmol/l\n* pregnancy",
+      "endpoints": [
+        "%triglyceride reduction"
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "url": "https://clinicaltrials.gov/study/NCT05487833"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00078052",
+      "title": "Genetic Markers of Coronary Heart Disease in Type 2 Diabetes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2008-08",
+      "country": "N/A",
+      "enrollment": 120000,
+      "brief_summary": "To investigate genetic markers of coronary heart disease in type 2 diabetes.",
+      "eligibility_criteria": "no history of CVD or cancer at baseline",
+      "endpoints": [
+        "cardiovascular disease"
+      ],
+      "sponsor": "Harvard School of Public Health (HSPH)",
+      "url": "https://clinicaltrials.gov/study/NCT00078052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01479075",
+      "title": "The Effect of Central Insulin on Insulin Sensitivity and Energy Metabolism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2014-06",
+      "country": "Germany",
+      "enrollment": 30,
+      "brief_summary": "Insulin has a direct effect on the energy metabolism of the brain under basal conditions and has an effect on the hepatic glucose production, lipid metabolism and the secretion of various hormone. The effect of intranasal insulin on peripheral metabolism in humans supposedly is mediated by the vagus nerve.\n\nThe purpose of this study is to determine whether central insulin influences the human peripheral insulin sensitivity of liver and muscle and whether vagus nerve stimulation can mimick this e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 30 and ≤ 70 years\n* balanced gender ratio (50: 50)\n* BMI 20-25 kg/m² (normal weight subjects)\n* BMI 25-35 kg/m² (obese subjects)\n\nExclusion Criteria:\n\n* acute illness within the last 2 weeks before the examination\n* autoimmune diseases and disorders immune- compromised (",
+      "endpoints": [
+        "Insulin sensitivity"
+      ],
+      "sponsor": "German Diabetes Center",
+      "url": "https://clinicaltrials.gov/study/NCT01479075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02205528",
+      "title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled, Parallel-Group, Phase 2a Study With an Open-Label Active Group to Assess the Efficacy and Safety of Once-Daily NNC0090-2746 in Type 2 Diabetic Patients Inadequately Controlled With Metformin",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-08-18",
+      "completion_date": "2015-09-15",
+      "country": "United States",
+      "enrollment": 108,
+      "brief_summary": "This trial is conducted in the United States of America (USA). The aim of the trial is to investigate the efficacy, safety, and tolerability of once-daily subcutaneous (SC) injections of NNC0090-2746 for 12 weeks, as an adjunct to metformin, in participants with T2D.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants aged 18 to 70 years, inclusive\n* Active diagnosis of T2D for greater than or equal to (\\>/=) 3 months\n* For females of childbearing potential and males with female partners of childbearing potential, agreement to use highly effective contraceptive measures\n* Treat",
+      "endpoints": [
+        "Change in HbA1c"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT02205528"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02611232",
+      "title": "Incretin-based Therapy in Preclinical Type 1 Diabetes in Adults",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2015-12",
+      "completion_date": "2024-06",
+      "country": "Finland",
+      "enrollment": 42,
+      "brief_summary": "The main objectives of the trial are to study whether daily treatment with liraglutide improves insulin secretion and glucose metabolism, and whether liraglutide treatment is tolerable and safe in subjects with preclinical type 1 diabetes aged 18-30 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-30 years of age\n* positive for at least 2 biochemical islet autoantibodies\n* have normal glucose tolerance in OGTT\n* are not pregnant\n\nExclusion Criteria:\n\n* allergic to liraglutide or other ingredients of Victoza®\n* Type 1 diabetes\n* diabetic ketoacidosis\n* previous treatm",
+      "endpoints": [
+        "FPIR (first phase insulin response)"
+      ],
+      "sponsor": "University of Oulu",
+      "url": "https://clinicaltrials.gov/study/NCT02611232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03815006",
+      "title": "An Open-label, Multi-centre, Randomised, Parallel Design Study to Assess the Efficacy of Flash Glucose Monitoring in Adults With Sub-optimally Controlled Type 1 Diabetes.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-09",
+      "completion_date": "2021-10-10",
+      "country": "United Kingdom",
+      "enrollment": 156,
+      "brief_summary": "FreeStyle Libre (FSL2) is a novel glucose monitoring device (Flash glucose monitoring) in the form of a disc worn on the arm for 14 days, and a hand-held reader which is designed to largely replace the recommended 4-10 painful finger-stick blood glucose tests required each day for the self-management of type 1 diabetes. The purpose of this study is to determine whether flash glucose monitoring with FSL2 device will improve HbA1c over 24 weeks compared to self-monitoring of blood glucose in adult",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participant is ≥16 years old\n* The participant has type 1 diabetes, as defined by WHO for at least 1 year or is confirmed C-peptide negative if duration of diabetes is \\< 1 years\n* Participant is treated with insulin pump or multiple daily injection for at least 12 weeks a",
+      "endpoints": [
+        "HbA1c Level at 24 Weeks"
+      ],
+      "sponsor": "Manchester University NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03815006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07210684",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Trial on the Effects of Dihydroberberine (DHB) on Glucagon-Like Peptide-1 (GLP-1), Glycemic Control, and Subjective Rating of Appetite and Mood/Energy in Adults With Pre-Diabetes",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-08-06",
+      "completion_date": "2026-03-15",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "The goal of this clinical trial is to learn if Dihydroberberine (DHB) supplementation affects adults with pre-diabetes.\n\nThe main questions it aims to answer are:\n\nDoes DHB supplementation increase the concentration of GLP-1 in the blood? Does DHB supplementation affect appetite, mood, and energy levels? Does DHB supplementation affect body weight, blood sugar control and insulin? Researchers will compare DHB supplementation to a placebo (a look-alike substance that contains no drug) to see if D",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1.35 - 65 years of age (inclusive). 2.BMI 25.0 - 35.0 kg/m2 (inclusive). 3.HbA1c 5.7% - 6.4% (39 - 47 mmol/mol, inclusive) measured at visit 1. 4.Participant has a score of 7 - 10 on the Vein Access Scale Assessment at visit 1.\n\n5.Non-user or former user (daily use; cessation ≥1",
+      "endpoints": [
+        "Change in Postprandial Total GLP-1 Cmax After Single Dose of DHB",
+        "Change in GLP-1 Cmax From Baseline to End of Study After 6 Weeks of DHB"
+      ],
+      "sponsor": "Nanjing Nutrabuilding Bio-tech Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07210684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00142701",
+      "title": "Enhancing Support for Women at Risk for Heart Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1999-04",
+      "completion_date": "2005-03",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "To test a practical, theory-based intervention to achieve long-term behavior change for postmenopausal women with Type 2 diabetes at high risk for developing coronary heart disease (CHD).",
+      "eligibility_criteria": "No eligibility criteria",
+      "endpoints": [],
+      "sponsor": "Oregon Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00142701"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05566912",
+      "title": "AVOIDING PAIN CAUSED BY INSULIN INJECTION Patients Using Insulin With Diabetes Seek For Painless Injection",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-10-15",
+      "completion_date": "2022-04-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 399,
+      "brief_summary": "Abstract Objective: This study was conducted to determine the knowledge levels of DM patients about the disease and insulin use, and their practices to avoid insulin injection pain.\n\nMethods: Data were collected from 399 patients who administered insulin injections in the study. Patient identification form, disease and treatment compliance form, Morisky-8 Treatment Adherence Scale (MMAS-8), and Visual Analog Scale were used for data collection. The data were collected by the same researcher by f",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between the ages of 18-65, diagnosed with diabetes mellitus at least 1 year ago, injecting themselves with insulin.\n\nExclusion Criteria:\n\n* Having no communication problems, and having no mental illness were included in the study.",
+      "endpoints": [
+        "Completing the surveys"
+      ],
+      "sponsor": "Selcuk University",
+      "url": "https://clinicaltrials.gov/study/NCT05566912"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03469492",
+      "title": "Investigating the Role of the Polyol Pathway in the Central Nervous System Production of Fructose: an Intervention Study",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-01-18",
+      "completion_date": "2020-03-20",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "To investigate whether longer-term improvement of glycemic control in poorly controlled diabetes patients with a 12-week intensified insulin treatment regimen will lead to decreased polyol pathway activity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 15 Type 2 DM subjects with HbA1C \\> 7.5%\n* 15 Type 1 DM subjects with HbA1C \\> 7.5%\n* Age 18-60\n* BMI ≥18 kg/m2\n* Weight ≤ 285 pounds\n\nExclusion Criteria:\n\n* Creatinine \\> 1.5 mg/dL, Hgb \\< 10 mg/dL, ALT \\> 2.5 X ULN,\n* untreated thyroid disease,\n* uncontrolled hypertension,\n*",
+      "endpoints": [
+        "Change in HbA1c Levels"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT03469492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02321111",
+      "title": "The Role of TLR4 on Lipid-Induced Insulin Resistance",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2018-09",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to determine whether pharmacologic inhibition of Toll-like receptor 4 (TLR4) with eritoran for injection (E5564) prevents lipid-induced insulin resistance in lean, normal glucose tolerant (NGT) subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects capable of giving informed consent.\n* lean (BMI \\<26 kg/m2)\n* normal glucose-tolerant subjects (completers) without a family history of Type 2 diabetes mellitus (DM)\n* Both genders. (50% males)\n* Age = 18-65 years. Older subjects are excluded because aging is a pro-in",
+      "endpoints": [
+        "Effect of Eritoran on Muscle Insulin Sensitivity",
+        "Effect of Eritoran on Hepatic Insulin Sensitivity"
+      ],
+      "sponsor": "The University of Texas Health Science Center at San Antonio",
+      "url": "https://clinicaltrials.gov/study/NCT02321111"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05899309",
+      "title": "Precision Medicine to Predict the Trajectory of Liver Cirrhosis : Prospective Cohort Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-05-23",
+      "completion_date": "2024-09",
+      "country": "Singapore",
+      "enrollment": 80,
+      "brief_summary": "Preventing decompensation is a key endpoint in the management of compensate cirrhosis patients. The known factors that increases the risk of decompensation include the presence of clinically significant portal hypertension (CSPH) and the control of primary etiology of cirrhosis. Other factors which may influence the progression of cirrhosis included the presence of metabolic syndrome (diabetes mellitus and obesity), frailty, concomitant medications (statin, non-selective beta-blocker) were not w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 21 to 90 years with the diagnosis of liver cirrhosis (regardless of etiology)\n* Consent to participate in the study\n\nExclusion Criteria:\n\n* Terminal malignancy. Subjects with prognosis \\< 3 months.\n* Patient refusal or unable to commit to study follow-up",
+      "endpoints": [
+        "Liver related events"
+      ],
+      "sponsor": "Changi General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05899309"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07243821",
+      "title": "Cohort Studies on Metabolic Syndrome and Prediabetes",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-10-31",
+      "completion_date": "2028-09-01",
+      "country": "Taiwan",
+      "enrollment": 2000,
+      "brief_summary": "This study aims to establish a cohort of individuals with metabolic syndrome and prediabetes to enable long-term follow-up of risk factors, disease progression, and the development of obesity-related complications. The study will also monitor changes in nutritional status and physical function over time, in order to identify key prognostic determinants influencing clinical outcomes.\n\nMetabolic syndrome and prediabetes are chronic multisystem disorders, and poor long-term control is closely assoc",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Adults aged 18 years or older.\n2. Individuals clinically diagnosed by a physician as having metabolic syndrome (meeting at least three of the following five criteria) or prediabetes:\n\n   (A) Waist circumference: ≥ 90 cm in men or ≥ 80 cm in women, or body mass index (BMI) ≥ 27",
+      "endpoints": [
+        "Medical record system and on-site inspection data collection"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07243821"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02201004",
+      "title": "A Randomized, Double Blind Placebo Controlled 2-Arm Parallel Group, Multicenter Study With A 16-Week Treatment Assessing The Efficacy And Safety, And 52-Week Long Term Safety Including 36-Week Open Label Extension Of Tofogliflozin With Insulin Treatment In Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2016-10",
+      "country": "Japan",
+      "enrollment": 211,
+      "brief_summary": "Primary Objectives:\n\nTo assess the effects of tofogliflozin on glycemic control in comparison to placebo as an add-on treatment to insulin treatment in terms of glycated hemoglobin (HbA1c) reduction over a period of 16 weeks in patients with type 2 diabetes mellitus.\n\nTo assess the safety of tofogliflozin in combination with insulin treatment throughout 52 weeks.\n\nSecondary Objectives:\n\nTo assess the effects of tofogliflozin in comparison to placebo on:\n\n* Body weight\n* Fasting plasma glucose (F",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Patients aged 20-75 years old with type 2 diabetes mellitus (T2DM).\n* Hemoglobin A1c ≥7.5% - ≤10.5% and FPG ≤220 mg/dL.\n* Basal bolus (BB), Bolus, Premix, Basal supported oral therapy (BOT) regimens used for more than 12 weeks before screening.\n* Stable dose (-/+20%) of insuli",
+      "endpoints": [
+        "Change in HbA1c from baseline"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02201004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00659165",
+      "title": "Exploration of the Weight Neutral Effects of Insulin Detemir Compared to Insulin Glargine: A Measure of Satiety and Calories Consumed in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Patients with diabetes treated with insulin often gain weight, which may deter patients from adhering to insulin treatment. Detemir is one type of long acting insulin approved by the Food and Drug Administration for use in people with diabetes. It is similar to other long acting insulins (Neutral Protein Hagedorn \\[NPH\\], glargine) except that it has been associated with less weight gain compared to other types of insulin. The reasons for this are still unclear. One possibility is that detemir i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes\n* Treated with long-acting and meal time insulin therapy for at least 2 years\n* Ages 18 to 60 years of age\n* Glycosylated hemoglobin value between 7 - 9 mg/dL\n* C-peptide value less than 1.0 pmol/ml 90 minutes after oral Boost Plus administration.\n\nExclusion Cr",
+      "endpoints": [
+        "Calories Consumed After Fast."
+      ],
+      "sponsor": "University of New Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT00659165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07083336",
+      "title": "Liver Fat as a Dietary Target of the Chinese Medical Nutrition Therapy (CMNT) Diet for Treating Type 2 Diabetes With Nonalcoholic Fatty Liver Disease",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-06-05",
+      "completion_date": "2026-06-05",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "This study aims to explore the efficacy of CMNT, an intermittent energy restriction (iER) intervention, in managing Chinese adults with type 2 diabetes and non-alcoholic fatty liver disease. An interim analysis will be added to the planned 120-participant CMNT intervention program to compare intervention efficacy with the usual care control group and assess potential risks associated with dietary interventions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with type 2 diabetes and NAFLD.\n* Age between 18 and 75 years.\n* Body mass index (BMI) \\> 18.0 kg/m2\n* Weight stable for at least 3 months prior to the study (gain or loss \\<4kg).\n* Stable treatment for at least 3 months with 1-3 oral\n* antidiabetic medicati",
+      "endpoints": [
+        "Controlled attenuation parameter (CAP) value by transient elastography",
+        "HbA1C"
+      ],
+      "sponsor": "State Key Laboratory of Subhealth Intervention Technology",
+      "url": "https://clinicaltrials.gov/study/NCT07083336"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01707771",
+      "title": "Effect of Gastric Bypass Versus Diet on Cardiovascular Risk Factors",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2012-09",
+      "country": "Italy",
+      "enrollment": 40,
+      "brief_summary": "Objective: to assess the effect of gastric bypass on HDL-cholesterol concentration and its Apolipoprotein A4 content at 1 year following bariatric surgery in comparison with a hypocaloric diet. Secondary aim was to measure total cholesterol and triglycerides levels as well as insulin sensitivity after interventions.\n\nSummary Background Data: Very few prospective uncontrolled studies have investigated the effects of Roux-en-Y gastric bypass (RYGB) on cardiovascular risk factors. No controlled stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI =/\\> 35 kg/m2,\n* age 30-60 years,\n* both sexes\n\nExclusion Criteria:\n\n* history of major abdominal or bariatric surgery,\n* disabling cardiac or pulmonary diseases,\n* cancer,\n* long-term treatment with oral corticosteroids, and\n* mental illness",
+      "endpoints": [
+        "changes in HDL-cholesterol Baseline to 1 year HDL-cholesterol changes: baseline to 1 year"
+      ],
+      "sponsor": "Catholic University of the Sacred Heart",
+      "url": "https://clinicaltrials.gov/study/NCT01707771"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04233034",
+      "title": "Hybrid Closed Loop Therapy and Verapamil for Beta Cell Preservation in New Onset Type 1 Diabetes (CLVer)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-07-09",
+      "completion_date": "2022-09-30",
+      "country": "United States",
+      "enrollment": 113,
+      "brief_summary": "Randomized trial of youth aged 7-\\<18 years with newly diagnosed stage 3 type 1 diabetes (T1D) to assess the effect of both (1) near-normalization of glucose concentrations achieved through use of a hybrid closed loop (HCL) system and (2) verapamil on preservation of β-cell function 12 months after diagnosis. Participants with body weight ≥30 kg (Cohort A) will be randomly assigned in a factorial design to (1) HCL plus intensive diabetes management or usual care with no HCL and (2) verapamil or ",
+      "eligibility_criteria": "* Participant Inclusion Criteria:\n\n  1. New-onset stage 3 T1D within 21 days of diagnosis (timed from start of insulin therapy), with ability to be randomized within 31 days of diagnosis (time from diagnosis to screening can be longer provided all screening testing can be completed within 31 days of",
+      "endpoints": [
+        "C-peptide Area Under the Curve (AUC)"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT04233034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07167693",
+      "title": "Phase 1 Randomized Clinical Trial of Arginine Hydrochloride Administration to Reduce Duration of Diabetic Ketoacidosis in Patients With Type 2 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-12-19",
+      "completion_date": "2027-12-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is increasingly recognized in adults with \"ketone-prone\" type 2 diabetes. In many of these patients, the pancreas can still make insulin but becomes temporarily \"stunned\" during severe, prolonged high blood sugar. Arginine is a naturally occurring amino acid that can trigger the pancreas to release its own insulin when glucose is high. It is FDA-approved for other uses and has been given intravenously for decades with a strong safety record. Whether a single arginine ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>17 years.\n* Unscheduled presentation to a participating emergency department with hyperglycemia (serum glucose \\>250 mg/dL) and significant ketonemia consistent with DKA, defined as laboratory serum/plasma β-hydroxybutyrate (BHB) \\>20 mg/dL (≈≥1.9 mmol/L).\n\nNote: point-o",
+      "endpoints": [
+        "Change in endogenous insulin secretion (C-peptide/glucose ratio)"
+      ],
+      "sponsor": "Wayne State University",
+      "url": "https://clinicaltrials.gov/study/NCT07167693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05000021",
+      "title": "Reducing Diabetes Distress Using Cognitive Behavioral Therapy in Young Adults With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-06-27",
+      "completion_date": "2026-06",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "This project proposes to use telemedicine-delivered cognitive-behavioral therapy (CBT) enhanced with continuous glucose monitor (CGM) review to target diabetes distress in adults with type 1 diabetes. The efficacy of CBT for diabetes distress (CBT-DD) will be tested in comparison to commercial FDA-approved CGM only in a randomized controlled clinical trial. The investigators' central hypothesis is that the addition of a CBT intervention that targets diabetes distress and self-management directly",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 Diabetes (T1D) duration ≥6 months\n* English or Spanish speaking\n* At least moderate Diabetes Distress (DD) (score of ≥2 on T1D-Diabetes Distress Scale)\n* Stable insulin treatment regimen (insulin prescription, use of pump, etc.) for at least 3 months prior to study enro",
+      "endpoints": [
+        "Diabetes Distress Levels"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT05000021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03538821",
+      "title": "The Effects of a Daily Intake of Protein From Cod Fillet and Cod Residual Material for 8 Weeks on Serum Lipids and Fatty Acids, Glucose Regulation and Inflammation Markers in Overweight or Obese Adults: A Randomized Controlled Trial.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-01",
+      "completion_date": "2021-12",
+      "country": "Norway",
+      "enrollment": 100,
+      "brief_summary": "A high intake of fish is associated with positive health effects, including prevention and treatment of chronic non-communicable diseases, such as cardiovascular diseases (CVDs) and type 2 diabetes. These health effects have traditionally been attributed to the omega-3 fatty acids in fatty fish, but recent studies have suggested that also fish proteins may improve biomarkers of metabolic disease. Intake of cod fillet have previously shown beneficial effects on blood lipids, glucose regulation an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI ≥ 27 kg/m2\n* Fasting blood glucose ≤7 mmol/L\n* Physically inactive\n* Percent body fat \\> 25 % for men and \\> 35 % for women\n\nExclusion Criteria:\n\n* Allergies towards fish, milk, egg, gluten\n* Tobacco use \\> 10 cigarettes (or snus) per day\n* Diseases affecting the heart, in",
+      "endpoints": [
+        "Biomarkers related to lipid metabolism"
+      ],
+      "sponsor": "University of Bergen",
+      "url": "https://clinicaltrials.gov/study/NCT03538821"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06254014",
+      "title": "A Phase 3, Multi-center, Double-blind, Randomized, Placebo-controlled Study to Evaluate the Efficacy and Safety of JY09 in Patients With T2DM Inadequately Controlled by Diet and Exercise Alone",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-07-10",
+      "completion_date": "2026-06-30",
+      "country": "China",
+      "enrollment": 270,
+      "brief_summary": "The main purpose of this study is to investigate the efficacy and safety of JY09 versus placebo in patients with type 2 diabetes mellitus (T2DM) inadequately controlled by diet and exercise alone",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects ≥18 years of age and ≤75 years of age at the time of signing the informed consent form.\n2. Those who meet the World Health Organization（WHO）1999 diagnostic criteria for type 2 diabetes mellitus and the WHO Recommendations for the Use of Glycosylated Ha",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Beijing Dongfang Biotech Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06254014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04725630",
+      "title": "A Healthy Food Prescription Incentive Program for Adults With Type 2 Diabetes Who Are Experiencing Food Insecurity",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-05-29",
+      "completion_date": "2025-03-07",
+      "country": "Canada",
+      "enrollment": 597,
+      "brief_summary": "It is important for individuals with type 2 diabetes (T2DM) to adhere to a healthy dietary pattern to maintain optimal blood glucose levels and overall health. The increasing costs of healthy foods, however, is a barrier to maintaining healthful dietary patterns, particularly for individuals with T2DM who are experiencing food insecurity (i.e., inadequate or insecure access to food due to financial constraints). Lower diet quality may result in difficulties maintaining optimal blood glucose leve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (18-85 years) with type 2 diabetes (or diabetes of unknown etiology)\n* Persistent hyperglycemia (i.e. hemoglobin A1C 6.5-12%)\n* Are currently experiencing food insecurity and/or report that it is difficult/very difficult to make ends meet\n* Can communicate in English or",
+      "endpoints": [
+        "Blood glucose levels via hemoglobin A1C"
+      ],
+      "sponsor": "University of Calgary",
+      "url": "https://clinicaltrials.gov/study/NCT04725630"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07109128",
+      "title": "The T1D Talks Pilot Study: An Online Teen / Tween Group About Life With T1D and Managing the Emotions That Come With it",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-02-15",
+      "completion_date": "2025-11-14",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "Despite recent technological advances in type 1 diabetes (T1D) treatment, adolescents are the only age group for which glycemic levels have not improved. Technology and education help adolescents execute the mechanics of managing blood glucose levels, but do not help adolescents manage the emotional distress that arises when T1D management goals conflict with social/emotional goals (e.g., taking insulin for a meal in front of new friends vs. trying to \"fit-in\"). The emotional distress caused by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T1D for at least 1 year\n* the ability to read/write and converse in English\n* reliable internet connection and a virtual meeting capable device (tablet or laptop)\n\nExclusion Criteria:\n\n* a chronic medical condition that requires intensive daily management\n* a significant menta",
+      "endpoints": [
+        "Percent of participants who attended the intervention",
+        "Percent of participants who rated each session as acceptable",
+        "Percent of participants who rated the overall intervention as acceptable"
+      ],
+      "sponsor": "Western Michigan University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT07109128"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03337828",
+      "title": "Randomized, Cross-over Study Comparing the Effect of Two Alcohol-free Beers With Different Carbohydrates Composition on Lipid and Glycemic Metabolism in Subjects With Prediabetes and Recently Diagnosed Diabetes and Overweight or Obesity",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-03-01",
+      "completion_date": "2017-12",
+      "country": "Spain",
+      "enrollment": 44,
+      "brief_summary": "This a controlled, double-blind, randomized, cross designed study to determine the effect of an alcohol-free beer with low glycemic index carbohydrates (isomaltulose) and a resistant maltodextrin, comparing to an alcohol-free beer with regular composition, on glycemic metabolism (glucose, glycated hemoglobin, insulin and HOMA index) in subjects with recently diagnosed diabetes mellitus and overweight or obesity. 44 subjects were randomized to consume for 10 weeks: a) two alcohol-free beers with ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 18 and 80 years.\n* To provide informed consent in writing of voluntary participation in the study after having read the participant information sheet, and having consulted the doubts that may arise from it.\n* Diagnosis of prediabetes or diabetes mellitus type 2 de",
+      "endpoints": [
+        "Glucose concentration change after each alcohol-free beer phase.",
+        "Glycated hemoglobin concentration change after each alcohol-free beer phase.",
+        "Insulin concentration change after each alcohol-free beer phase."
+      ],
+      "sponsor": "Instituto Aragones de Ciencias de la Salud",
+      "url": "https://clinicaltrials.gov/study/NCT03337828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00703599",
+      "title": "Phase I/II Study of Intravenous Administration of Activated Autologous Adipose-Derived Stromal Vascular Fraction in Patients With Type 1 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-11",
+      "completion_date": "2009-12",
+      "country": "Philippines",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine whether intravenous administration of autologous adipose stem cells is safe and beneficial in patients with type 1 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of Type I diabetes for at least 2 years\n* Insulin-dependent\n\nExclusion Criteria:\n\n* Presence of acute diabetic complications in the acute stage as recent myocardial infarction, recent CVA or acute renal failure.",
+      "endpoints": [
+        "Lowering of insulin-dependence and anti-hyperglycemic medication dosages"
+      ],
+      "sponsor": "Adistem Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT00703599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04076800",
+      "title": "Comparison of the Effects of a Standardized Acupuncture Treatment and Sham Acupuncture on Insulin Doses in Insulin-treated Patients With Type 2 Diabetes. A Randomized, Single-blind, Crossover Study.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-08-01",
+      "completion_date": "2023-10-31",
+      "country": "Italy",
+      "enrollment": 42,
+      "brief_summary": "This study is a randomized, single blinded, cross-over interventional study for evaluating the effect of acupuncture versus sham acupuncture in diabetic type 2 patient in insulin treatment. Primary end-point of the study is the difference of daily units of insulin between treatment and control group; secondary end point are the variation of glycated hemoglobin levels, lipids panel (total cholesterol, low density lipoprotein, high density lipoprotein, triglycerides), C reactive protein and adipon",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* type 2 Diabetes Mellitus\n* insulin therapy \\> 20 UI daily for at least 6 months\n* HbA1c \\< 69 mmol/mol\n\nExclusion Criteria:\n\n* Class I Psychiatric illness not adequately treated\n* Actual pregnancy or breastfeeding, or pregnancy planning.\n* Corticosteroid treatment\n* Severe hea",
+      "endpoints": [
+        "Insulin daily doses"
+      ],
+      "sponsor": "Azienda Ospedaliero-Universitaria Careggi",
+      "url": "https://clinicaltrials.gov/study/NCT04076800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07261800",
+      "title": "Sex-specific Differences in the Association Between Leg Fat and Diabetes Risk: The Mediating Role of Visceral Adipose Tissue",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-12-31",
+      "completion_date": "2025-08-10",
+      "country": "China",
+      "enrollment": 542,
+      "brief_summary": "This study investigates the association between LFP, VAT and T2DM using DXA in 542 adults. We apply penalized regression, generalized additive models (GAM), and causal mediation analysis to explore whether higher LFP reduces diabetes risk and whether this effect is mediated by VAT. Sex-specific analyses further clarify the biological differences in adipose distribution. The findings aim to improve understanding of fat distribution and metabolic health.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAdults (≥18 years old)\n\nAvailable DXA measurement of fat distribution\n\nComplete fasting glucose or diabetes diagnosis record\n\nExclusion Criteria:\n\n* Missing key variables (fat distribution, diabetes status)\n\nSevere systemic disease interfering with data integrity\n\nImplausible or",
+      "endpoints": [
+        "Prevalence of diabetes in relation to lower extremity fat"
+      ],
+      "sponsor": "Qianfoshan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07261800"
+    }
+  ],
+  "timestamp": "2026-03-04T15:52:52.004482",
+  "success": true,
+  "error_message": null
+}

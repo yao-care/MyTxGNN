@@ -1,0 +1,84 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "staphylococcus aureus pneumonia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07322549",
+      "title": "Amoxicillin/Clavulanic Acid Susceptibility in Acute Community-acquired Pneumonia Documented With Streptococcus Pneumoniae, Haemophilus Influenzae, or Staphylococcus Aureus Requiring Intensive Care Management: a Single-center Retrospective Study.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-09-30",
+      "country": "France",
+      "enrollment": 104,
+      "brief_summary": "Severe community-acquired pneumonia (CAP) and community-acquired aspiration pneumonia (CAAP) are common reasons for adult emergency department visits and subsequent admission to the intensive care unit (ICU). Three bacteria are primarily implicated in this type of pneumonia: Streptococcus pneumoniae, Haemophilus influenzae, and Staphylococcus aureus.\n\nEmpirical antibiotic therapy for this condition is currently based on the use of beta-lactams. While third-generation cephalosporins (3GC) remain ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient admitted to the ICU at Sainte-Musse Hospital between January 2018 and December 2022.\n2. Diagnosis of severe CAP or CAAP within 48 hours of hospital admission, documented with Streptococcus pneumoniae, and/or Haemophilus influenzae, and/or Staphylococcus aureus (confir",
+      "endpoints": [
+        "Susceptibility rate to AMC and/or 3GC for identified bacteria at CAP or CAAP diagnosis"
+      ],
+      "sponsor": "Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer",
+      "url": "https://clinicaltrials.gov/study/NCT07322549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05079620",
+      "title": "Antibiotic Prophylaxis in Critically Ill Patients After Suspected Aspiration",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2021-11-30",
+      "completion_date": "2024-04-12",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "The purpose of this study is to evaluate the use of early antibiotics in ICU patients who appear to have aspirated, to help determine whether this improves outcomes by reducing the later incidence of pneumonia and other negative consequences.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Admitted to the ICU within the last 24 hours, or with a witnessed aspiration event in the last 24 hours while in the ICU\n* Radiographic findings on chest x-ray or CT deemed by the treating ICU team to be consistent with aspiration (e.g. dependent infiltrates or intraluminal ai",
+      "endpoints": [
+        "ICU-free Days"
+      ],
+      "sponsor": "UConn Health",
+      "url": "https://clinicaltrials.gov/study/NCT05079620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110421",
+      "title": "A Prospective, Randomized, Double-Blind, Multicenter Study to Establish the Safety and Tolerability of Doripenem Compared With Cefepime in Hospitalized Children With Bacterial Pneumonia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2012-03",
+      "country": "Brazil, Mexico, Panama, Ukraine, Lithuania, Latvia, Poland, Colombia, Argentina, United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of doripenem compared to cefepime in children hospitalized with pneumonia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Require parenteral antibacterial therapy for the treatment of pneumonia\n* Have new or progressive radiographic infiltrate(s) (alveolar, lobar, or consolidation) consistent with a bacterial pneumonia that is not related to cardiac or other disease processes\n* Must, based on the",
+      "endpoints": [
+        "The Number of Participants With Clinical Cure Rate at Test Of Cure (TOC) Visit"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01110421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01669980",
+      "title": "A Multicenter, Randomized, Observer-Blinded, Active-Controlled Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of Ceftaroline Versus Ceftriaxone Plus Vancomycin in Pediatric Subjects With Complicated Community-acquired Bacterial Pneumonia (CABP)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2014-08",
+      "country": "Argentina, Georgia, Ukraine, United States",
+      "enrollment": 40,
+      "brief_summary": "This is a study of safety and effectiveness of ceftaroline fosamil in children with Complicated Community-acquired Pneumonia receiving antibiotic therapy in the hospital.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of CABP warranting 3 days of initial hospitalization\n* Confirmed presence of indicators of complicated CABP\n\nExclusion Criteria:\n\n* Hypersensitivity or allergic reaction to vancomycin or any β-lactam antimicrobial\n* Confirmed or suspected infection with a pathogen kno",
+      "endpoints": [
+        "Evaluate the safety and tolerability of ceftaroline versus ceftriaxone plus vancomycin in pediatric subjects ages 2 months to < 18 years with complicated community-acquired bacterial pneumonia (CABP)"
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT01669980"
+    }
+  ],
+  "timestamp": "2026-03-04T15:50:40.708659",
+  "success": true,
+  "error_message": null
+}

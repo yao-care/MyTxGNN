@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Ceftazidime",
+    "drugbank_id": "DB00438"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 11
+  },
+  "indications": [
+    {
+      "disease": "peritonitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 13,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 1,
+      "phase4": 3
+    },
+    {
+      "disease": "streptococcal pneumonia",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "endometritis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 11,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "meningococcal infection",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 16,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "staphylococcal pneumonia",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

@@ -6,7 +6,7 @@ drug_name: "Methotrexate"
 kg_predictions: 150
 dl_predictions: 415
 evidence_level: "L1"
-indication_count: 150
+indication_count: 5
 brands: []
 permalink: /drugs/methotrexate/
 ---

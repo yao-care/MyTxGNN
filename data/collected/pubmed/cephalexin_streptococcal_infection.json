@@ -1,0 +1,557 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "streptococcal infection",
+    "query_string": "Cephalexin AND streptococcal infection"
+  },
+  "data": {
+    "query": "Cephalexin AND streptococcal infection",
+    "results": [
+      {
+        "pmid": "25250996",
+        "title": "Impetigo: diagnosis and treatment.",
+        "abstract": "Impetigo is the most common bacterial skin infection in children two to five years of age. There are two principal types: nonbullous (70% of cases) and bullous (30% of cases). Nonbullous impetigo, or impetigo contagiosa, is caused by Staphylococcus aureus or Streptococcus pyogenes, and is characterized by honey-colored crusts on the face and extremities. Impetigo primarily affects the skin or secondarily infects insect bites, eczema, or herpetic lesions. Bullous impetigo, which is caused exclusively by S. aureus, results in large, flaccid bullae and is more likely to affect intertriginous areas. Both types usually resolve within two to three weeks without scarring, and complications are rare, with the most serious being poststreptococcal glomerulonephritis. Treatment includes topical antibiotics such as mupirocin, retapamulin, and fusidic acid. Oral antibiotic therapy can be used for impetigo with large bullae or when topical therapy is impractical. Amoxicillin/clavulanate, dicloxacill",
+        "journal": "American family physician",
+        "year": "2014",
+        "authors": [
+          "Hartman-Adams Holly",
+          "Banvard Christine",
+          "Juckett Gregory"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Anti-Bacterial Agents",
+          "Diagnosis, Differential",
+          "Disease Management",
+          "Global Health",
+          "Humans",
+          "Impetigo",
+          "Incidence",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25250996/"
+      },
+      {
+        "pmid": "33971117",
+        "title": "[Non-Necrotizing Acute Dermo-Hypodermal Infections: Erysipela and Infectious Cellulitis].",
+        "abstract": "Non-necrotizing acute dermo-hypodermal infections are infectious processes that include erysipela and infectious cellulitis, and are mainly caused by group A β-haemolytic streptococcus. The lower limbs are affected in more than 80% of cases and the risk factors are disruption of cutaneous barrier, lymphoedema and obesity. Diagnosis is clinical and in a typical setting we observe an acute inflammatory plaque with fever, lymphangitis, adenopathy and leucocytosis. Bacteriology is usually not helpful because of low sensitivity or delayed positivity. In case of atypical presentations, erysipela must be distinguished from necrotizing fasciitis and acute vein thrombosis. Flucloxacillin and cefradine remain the first line of treatment. Recurrence is the main complication, so correct treatment of the risk factors is crucial.",
+        "journal": "Acta medica portuguesa",
+        "year": "2021",
+        "authors": [
+          "Rodrigues Maria Alexandra",
+          "Caetano Mónica",
+          "Amorim Isabel",
+          "Selores Manuela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cellulitis",
+          "Cephradine",
+          "Erysipelas",
+          "Floxacillin",
+          "Humans",
+          "Recurrence",
+          "Soft Tissue Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33971117/"
+      },
+      {
+        "pmid": "39240378",
+        "title": "Efficacy and safety of first- and second-line antibiotics for cellulitis and erysipelas: a network meta-analysis of randomized controlled trials.",
+        "abstract": "This study systematically evaluated and ranked the efficacy of first- and second-line antibiotics antibiotic options for the clinical management of cellulitis and erysipelas through a network meta-analysis approach. From inception to July 04, 2024, a search for relevant randomized clinical trials (RCTs) was carried out using several databases. Antibiotics including azithromycin, cefaclor, cephalexin, cloxacillin, erythromycin, cephalexin plus trimethoprim-sulfamethoxazole, cephalexin plus placebo, flucloxacillin, clindamycin, ceftriaxone, penicillin, roxithromycin, and pristinamycin were assessed regarding cure rate, the eradication of baseline pathogens, diarrhea or vomiting, and rash. In total, 10 RCTs with 1,936 cellulitis or erysipelas patients were eligible for inclusion. There were no significant differences in the cure rates for cellulitis among the antibiotics analysed, with cefaclor demonstrating the most favorable profile for curative outcomes. In terms of side effects, ceftr",
+        "journal": "Archives of dermatological research",
+        "year": "2024",
+        "authors": [
+          "Shu Zhou",
+          "Cao Jie",
+          "Li He",
+          "Chen Ping",
+          "Cai Peishan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Bacterial Agents",
+          "Cellulitis",
+          "Erysipelas",
+          "Pristinamycin",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39240378/"
+      },
+      {
+        "pmid": "4248663",
+        "title": "Cephalexin.",
+        "abstract": "",
+        "journal": "The Medical clinics of North America",
+        "year": "1970",
+        "authors": [
+          "Griffith R S",
+          "Black H R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Animals",
+          "Aqueous Humor",
+          "Bacteria",
+          "Biological Assay",
+          "Cats",
+          "Cephalosporins",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Diarrhea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+      },
+      {
+        "pmid": "38169286",
+        "title": "Doxycycline versus cephalexin treatment of presumed streptococcal skin and soft tissue infection among adults presenting to the emergency department.",
+        "abstract": "Among 100 propensity score-matched emergency department patients receiving ≤14 days doxycycline versus cephalexin monotherapy for outpatient treatment of nonpurulent (presumed streptococcal) skin and soft tissue infection, a low rate of 14-day clinical failure was observed [6% each group; odds ratio (OR), 1.34 (0.21-8.69); P = 0.745], defined as hospital admission, i.v. antibiotic therapy, or change in oral antibiotic. Doxycycline may represent a reasonable therapeutic alternative for this indication in regions with low tetracycline resistance.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2024",
+        "authors": [
+          "Taylor Eric",
+          "Nailor Michael D",
+          "Feider Michelle",
+          "Sullivan Shannon",
+          "Goodlet Kellie J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Cephalexin",
+          "Soft Tissue Infections",
+          "Doxycycline",
+          "Anti-Bacterial Agents",
+          "Streptococcus",
+          "Emergency Service, Hospital",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38169286/"
+      },
+      {
+        "pmid": "1415072",
+        "title": "Cephalexin and penicillin in the treatment of group A beta-hemolytic streptococcal throat infections.",
+        "abstract": "To determine whether cephalexin or penicillin is more effective in the treatment of group A beta-hemolytic streptococcal tonsillopharyngitis in children.",
+        "journal": "American journal of diseases of children (1960)",
+        "year": "1992",
+        "authors": [
+          "Disney F A",
+          "Dillon H",
+          "Blumer J L",
+          "Dudding B A",
+          "McLinn S E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Penicillin V",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1415072/"
+      },
+      {
+        "pmid": "6364089",
+        "title": "The role of cephalexin in the treatment of skin and soft-tissue infections.",
+        "abstract": "Cephalexin remains an effective and highly useful antibiotic for the treatment of streptococcal and staphylococcal skin infections. Twelve years of experience have not diminished its efficacy, and cure rates of 90% or higher continue to be achieved. Its resistance to degradation by gastric acid and its uniform absorption ensure its bioavailability, and its efficacy in twice-daily dosages enhances medication compliance. The suspension formulation is well accepted by young children, and side effects have generally been mild and infrequent. Cephalexin is comparable to erythromycin, clindamycin, dicloxacillin, cloxacillin, and other cephalosporins in the treatment of streptococcal and staphylococcal infections. Because many of these antibiotics are similar in their efficacy, palatability, and adverse reactions, cost factors may play an important role in choosing one over the other. Penicillin remains the drug of choice for streptococcal skin infections. If the cure rates of the mixed strep",
+        "journal": "Postgraduate medical journal",
+        "year": "1983",
+        "authors": [
+          "Derrick C W",
+          "Reilly K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Biological Availability",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Infant",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6364089/"
+      },
+      {
+        "pmid": "37760698",
+        "title": "A Systematic Review on the Clinical Pharmacokinetics of Cephalexin in Healthy and Diseased Populations.",
+        "abstract": "Cephalexin is a first-generation β-lactam antibiotic used in adults and pediatrics to treat various streptococcal and staphylococcal infections. This review aims to summarize and evaluate all the pharmacokinetic (PK) data on cephalexin by screening out all pertinent studies in human beings following the per oral (PO) route. By employing different online search engines such as Google Scholar, PubMed, Cochrane Central, and Science Direct, 23 studies were retrieved, among which nine were in healthy subjects, five in diseased ones, and the remaining were drug-drug, drug-food, and bioequivalence-related. These studies were included only based on the presence of plasma concentration-time profiles or PK parameters, i.e., maximum plasma concentration (Cmax), half-life (t1/2) area under the curve from time 0-infinity (AUC0-∞), and clearance (CL/F). A dose-proportional increase in AUC0-∞ and Cmax can be portrayed in different studies conducted in the healthy population. In comparison to cefaclor",
+        "journal": "Antibiotics (Basel, Switzerland)",
+        "year": "2023",
+        "authors": [
+          "Kanan Mohammed",
+          "Atif Shahd",
+          "Mohammed Faisal",
+          "Balahmar Yara",
+          "Adawi Yasir"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37760698/"
+      },
+      {
+        "pmid": "11980459",
+        "title": "Skin and soft tissue infection.",
+        "abstract": "Abstract. Normal skin is heavily colonized by bacterial flora. The most common are the various nonpathogenic gram-positive bacteria such as Staphylococcus epidermidis (coagulase-negative). Skin and soft tissue infections are usually caused by Staphylococcus aureus (S. aureus) and Streptococcus pyogenes. This article discusses common and some not so common bacterial skin infections, including impetigo, folliculitis, furncles and carbuncles, cellulitis and erysipelas, gangrenous cellulitis, staphylococcal scalded skin syndrome and scarlet fever. Impetigo and ecthyma are common bacterial infections of the skin commonly caused by S. aureus and / or Group A streptoccus. In mild and localized impetigo topical antibiotics whereas in widespread or severe one and in ecthyma systemic antibiotics like, cloxacillin, erythromycin, azithromycin or cephalexin should be used. Folliculitis, furunculosis and carbuncle are folliculocentric infections caused by S. aureus involving the variable depth and e",
+        "journal": "Indian journal of pediatrics",
+        "year": "2001",
+        "authors": [
+          "Sharma S",
+          "Verma K K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cellulitis",
+          "Child",
+          "Child, Preschool",
+          "Gangrene",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Skin Diseases, Bacterial",
+          "Soft Tissue Infections",
+          "Staphylococcal Skin Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11980459/"
+      },
+      {
+        "pmid": "4989538",
+        "title": "Comparison of cephalexin, penicillin V, and ampicillin in streptococcal infections in monkeys.",
+        "abstract": "Intravenous inoculation of a group A hemolytic streptococcus caused lethal infections in all of 11 untreated monkeys. Daily intragastric administration of either 25 or 50 mg per kg per day, given in two equal morning and afternoon doses, yielded similar results in monkeys treated with cephalexin, penicillin V, and ampicillin; all eight monkeys in each therapy group survived. At dose levels of 12.5 mg per kg per day, six of eight, four of eight, and one of eight receiving cephalexin, penicillin V, and ampicillin, respectively, died. The differences observed at the lower dose level between cephalexin and ampicillin could be attributed, in part, to differences in the minimal inhibitory concentrations (MIC) of cephalexin (MIC = 0.24 mug/ml) and ampicillin (MIC = 0.01 mug/ml). The differences in results between penicillin V, which had the same MIC as ampicillin, could perhaps be attributed, in part, to shorter duration of antibacterial activity and higher protein binding of penicillin V. Th",
+        "journal": "Applied microbiology",
+        "year": "1970",
+        "authors": [
+          "Saslaw S",
+          "Carlisle H N"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Ampicillin",
+          "Animals",
+          "Blood Urea Nitrogen",
+          "C-Reactive Protein",
+          "Cephalosporins",
+          "Filtration",
+          "Haplorhini",
+          "Heterocyclic Compounds",
+          "Penicillin V"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4989538/"
+      },
+      {
+        "pmid": "6373094",
+        "title": "Comparison between cephalexin two- and four-time per day regimens in group A streptococcal pharyngitis.",
+        "abstract": "In previous studies, twice daily (bid) and four times daily (qid) administration of most antibiotics approved for group A streptococcus (GAS) pharyngitis therapy have been demonstrated to be equally effective. In this study, four investigators collaborated in a double-blind, randomized multicenter study assessing the efficacy of cephalexin given in doses of 1.0 g or 0.5 g daily on a bid or qid regimen for 10 to 14 days to 157 patients with GAS pharyngitis. The mean daily doses for patients on the bid and qid regimens were 30 mg/kg and 29 mg/kg, respectively. Pretreatment and two follow-up cultures, usually 2 to 6 and 12 to 16 days after the end of treatment, were taken on all patients. Failure, defined as recurrence of the original GAS M-precipitin and T-agglutination types on follow-up culture, occurred in 7.3 percent of 82 patients on the bid and 5.3 percent of 75 patients on the qid regimen. We conclude that cephalexin bid and qid regimens are equally effective, and that the bid reg",
+        "journal": "Clinical pediatrics",
+        "year": "1984",
+        "authors": [
+          "Stillerman M",
+          "Aronovitz G H",
+          "Durnell M D",
+          "Rosenberg R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6373094/"
+      },
+      {
+        "pmid": "4642154",
+        "title": "Pneumonia.",
+        "abstract": "",
+        "journal": "American family physician",
+        "year": "1972",
+        "authors": [
+          "Pagano J S",
+          "Sarubbi F A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Bronchopneumonia",
+          "Cephalexin",
+          "Cephalothin",
+          "Erythromycin",
+          "Gentamicins",
+          "Haemophilus Infections",
+          "Humans",
+          "Klebsiella Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4642154/"
+      },
+      {
+        "pmid": "5000259",
+        "title": "Streptococcal pharyngitis therapy: comparison of cyclacillin, cephalexin, and potassium penicillin V.",
+        "abstract": "",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1970",
+        "authors": [
+          "Stillerman M",
+          "Isenberg H D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Male",
+          "Penicillin V",
+          "Penicillins",
+          "Pharyngitis",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5000259/"
+      },
+      {
+        "pmid": "5556190",
+        "title": "Cephalexin and penicillin therapy of childhood beta-hemolytic streptococcal infections.",
+        "abstract": "",
+        "journal": "Postgraduate medical journal",
+        "year": "1971",
+        "authors": [
+          "Disney F A",
+          "Breese B B",
+          "Green J L",
+          "Talpey W B",
+          "Tobin J R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Male",
+          "Penicillin G",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5556190/"
+      },
+      {
+        "pmid": "799997",
+        "title": "Comparative efficacy and safety of cephradine and cephalexin in children.",
+        "abstract": "Cephradine was compared to cephalexin a randomized, double-blind study for the treatment of bacterial infections in 162 children between four months and eleven years of age. In addition to evaluations of clinical and bacteriologic responses to therapy, the relative safety of the two cephalosporins was assessed for all children, including eight who were not included in the evaluation of drug efficacy. The children in the efficacy evaluation had either lobar pneumonia or skin infections and received oral suspensions of cephradine (25-110 mg/kg per day) or cephalexin (25-150 mg/kg per day) for five to fifteen days. Overall clinical and bacteriologic responses were nearly identical in the two groups, and both antibiotics proved to equally safe and effective for use paediatric practice.",
+        "journal": "The Journal of international medical research",
+        "year": "1976",
+        "authors": [
+          "Mouallem R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Cephalexin",
+          "Cephalosporins",
+          "Cephradine",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/799997/"
+      },
+      {
+        "pmid": "4098790",
+        "title": "Cephalexin and oral cephalosporin.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1970",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Cephalosporins",
+          "Drug Resistance, Microbial",
+          "Escherichia coli",
+          "Haemophilus Infections",
+          "Humans",
+          "Infections",
+          "Respiratory Tract Diseases",
+          "Staphylococcus",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4098790/"
+      },
+      {
+        "pmid": "38896826",
+        "title": "Common Skin Conditions in Children and Adolescents: Bacterial Infections.",
+        "abstract": "Bacterial skin infections represent a significant health care burden. Cellulitis and erysipelas are rapidly spreading, painful, superficial skin infections, usually caused by streptococci or Staphylococcus aureus. Folliculitis is an infection of hair follicles mostly caused by S aureus. Simple folliculitis typically is self-limited. Topical benzoyl peroxide is a first-line nonantibiotic treatment. Mupirocin and clindamycin are topical antibiotic options. For treatment-resistant cases, oral cephalexin or dicloxacillin is an appropriate option. Impetigo is a common, self-limited infection in children. Bullous impetigo is caused by S aureus, and nonbullous impetigo is caused by beta-hemolytic streptococci, S aureus, or both. In most cases, topical mupirocin or retapamulin (Altabax) is effective. Oral antibiotics should be considered for household outbreaks or patients with multiple lesions. Abscesses are red, painful collections of purulence in the dermis and deeper tissues caused by S au",
+        "journal": "FP essentials",
+        "year": "2024",
+        "authors": [
+          "Zha Mengyi",
+          "Usatine Richard"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Anti-Bacterial Agents",
+          "Adolescent",
+          "Impetigo",
+          "Skin Diseases, Bacterial",
+          "Cellulitis",
+          "Folliculitis",
+          "Erysipelas",
+          "Abscess"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38896826/"
+      },
+      {
+        "pmid": "4623690",
+        "title": "Streptococcal pharyngitis therapy. Comparison of cephalexin, phenoxymethyl penicillin, and ampicillin.",
+        "abstract": "",
+        "journal": "American journal of diseases of children (1960)",
+        "year": "1972",
+        "authors": [
+          "Stillerman M",
+          "Isenberg H D",
+          "Moody M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Cephalexin",
+          "Cephalosporins",
+          "Child",
+          "Diarrhea",
+          "Humans",
+          "Penicillin V",
+          "Pharyngitis",
+          "Pharynx",
+          "Skin Manifestations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4623690/"
+      },
+      {
+        "pmid": "12625858",
+        "title": "Group A streptococcal hydrocele infection and sepsis in a renal transplant recipient.",
+        "abstract": "A case of hydrocele infection secondary to a cutaneous b-hemolytic group A streptococcal infection is described in a renal transplant recipient. Sepsis and renal failure occurred in the setting of this severe, life-threatening infection. This case represents the first description of a group A streptococcal hydrocele infection in an adult. This type of infection can progress rapidly to sepsis and its attendant complications, especially in an immunocompromised patient. Early diagnosis and treatment is crucial in order to optimize the outcome.",
+        "journal": "The Canadian journal of urology",
+        "year": "2003",
+        "authors": [
+          "Beiko Darren T",
+          "Watterson James D",
+          "Cook Anthony J",
+          "Denstedt John D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Cephalexin",
+          "Humans",
+          "Immunocompromised Host",
+          "Kidney Transplantation",
+          "Male",
+          "Sepsis",
+          "Streptococcal Infections",
+          "Streptococcus pyogenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12625858/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:58:25.427407",
+  "success": true,
+  "error_message": null
+}

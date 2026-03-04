@@ -1,0 +1,275 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "malignant otitis externa caused by Pseudomonas aeruginosa",
+    "query_string": "Ciprofloxacin AND malignant otitis externa caused by Pseudomonas aeruginosa"
+  },
+  "data": {
+    "query": "Ciprofloxacin AND malignant otitis externa caused by Pseudomonas aeruginosa",
+    "results": [
+      {
+        "pmid": "7805430",
+        "title": "Ciprofloxacin in the treatment of malignant external otitis.",
+        "abstract": "Malignant external otitis is a serious infection most frequently caused by Pseudomonas aeruginosa. Because of its antipseudomonal activity and good tissue penetration, ciprofloxacin is an antibiotic which should, in theory, be effective in the treatment of this type of infection. Publications on the use of ciprofloxacin in the treatment of malignant external otitis are analysed below. This paper analyses 84 clinical case studies collected from 13 publications: ciprofloxacin, administered for the most part orally, was given in a dosage of 750 mg twice daily, apart from three studies where a lower dosage of 500 mg twice daily was used. When the drug was administered parenterally, the dosage was 200 mg b.i.d. In one publication, ciprofloxacin was used in combination with rifampicin. The average duration of treatment was 3 months. Ps. aeruginosa was isolated in 82 patients and sensitivity tests were carried out on 47 strains, none of which was resistant to ciprofloxacin. The clinical cure ",
+        "journal": "Chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Gehanno P"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Ciprofloxacin",
+          "Drug Administration Schedule",
+          "Enterobacteriaceae",
+          "Female",
+          "Humans",
+          "Infusions, Parenteral",
+          "Male",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7805430/"
+      },
+      {
+        "pmid": "9591416",
+        "title": "Otitis externa malignant. A case report and review of literature.",
+        "abstract": "Otitis externa malignant (OEM) is a virulent infection if it is not diagnosed and treated promptly. Its mortality rate was reported to be 53% when there is associated facial nerve paralysis. It usually affects elderly diabetic patients, who present with deep-seated pain and other features of non-resolving otitis externa. It is mostly caused by Pseudomonas (P) aeruginosa and the treatment of choice is anti-Pseudomonas antibiotic. A 64-year-old diabetic male patient is described who presented with left ear pain and discharge for two months and did not respond to ordinary treatment. The patient also noticed a progressive facial weakness on the same side. The clinical presentation, investigations, treatment and follow-up of the OEM are discussed on the basis of our case and the review of the literature. The diagnosis of OEM is based on high index of suspicion and confirmed by histopathologic changes and radionuclide studies. Gallium 67 citrate scan is a sensitive way to diagnose and follow",
+        "journal": "Otolaryngologia polska = The Polish otolaryngology",
+        "year": "1998",
+        "authors": [
+          "al Dousary S",
+          "Attallh M",
+          "al Rabah A",
+          "al Ammar A",
+          "Gaafar M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Middle Aged",
+          "Otitis Externa",
+          "Pseudomonas aeruginosa",
+          "Tomography, X-Ray Computed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9591416/"
+      },
+      {
+        "pmid": "36035057",
+        "title": "A Case of Collet-Sicard Syndrome Caused by Otitis Externa.",
+        "abstract": "Collet-Sicard syndrome is a unilateral palsy of the lower cranial nerves IX, X, XI, and XII, resulting from lesions at the skull base that affect the jugular foramen and hypoglossal canal. Common causes of the lesions include basilar skull fractures, carotid artery dissections, and malignancy. Infectious and inflammatory etiologies have also been reported. A 63-year-old male with a history of uncontrolled diabetes was admitted for dysphagia, right ear pain, drainage, and right-sided facial droop after recent local trauma and surgical instrumentation of the right ear. Culture of the external auditory canal grew Pseudomonas aeruginosa. Triple phase bone scan demonstrated osteomyelitis at the skull base due to complications from otitis externa. The patient's presentation was consistent with Collet-Sicard syndrome, and he was subsequently treated with a six-week course of ciprofloxacin. This patient demonstrates a unique case since his malignant otitis externa spread locally and led to sku",
+        "journal": "Cureus",
+        "year": "2022",
+        "authors": [
+          "Bonda Sruthi",
+          "Tun Kyaw M",
+          "Asad Shadaba"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36035057/"
+      },
+      {
+        "pmid": "16995959",
+        "title": "Resistance of Pseudomonas to ciprofloxacin: implications for the treatment of malignant otitis externa.",
+        "abstract": "For fifteen years oral ciprofloxacin has been the standard treatment for malignant otitis externa, a sometimes fatal osteomyelitis of the skull base usually caused by Pseudomonas aeruginosa. Resistance to ciprofloxacin is developing. Over a 16-month period, we saw five cases where malignant otitis externa progressed, with the development of cranial nerve palsies in four cases, despite oral ciprofloxacin. Prolonged intravenous antibiotic therapy became necessary. One case was managed largely as an out-patient, but four patients spent many weeks in hospital. Only two cases had diabetes and this was monitored and controlled. Pseudomonas aeruginosa was isolated in four of the five cases, but antibiotic sensitivity to ciprofloxacin was not determined. In one case a later isolate was tested and found to be ciprofloxacin resistant. Progress was monitored by serial C-reactive protein (CRP) and white cell count. For diagnosis and assessing response to treatment we considered serial magnetic res",
+        "journal": "The Journal of laryngology and otology",
+        "year": "2007",
+        "authors": [
+          "Bernstein J M",
+          "Holland N J",
+          "Porter G C",
+          "Maw A R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Male",
+          "Otitis Externa",
+          "Pseudomonas Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16995959/"
+      },
+      {
+        "pmid": "1343094",
+        "title": "Malignant otitis externa: the therapeutic evolution of a lethal infection.",
+        "abstract": "Malignant otitis externa (MOE) is a potentially fatal infection of the external auditory canal caused by Pseudomonas aeruginosa in a majority of cases. Treatment of MOE has changed over the years. Surgical debridement of all infected tissue is no longer considered the treatment of choice and has been replaced by localized surgical debridement supplemented with long-term antimicrobial chemotherapy. The recent availability of the fluoroquinolones and in particular ciprofloxacin has opened up new therapeutic opportunities.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1992",
+        "authors": [
+          "Giamarellou H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Cephalosporins",
+          "Fluoroquinolones",
+          "Humans",
+          "Otitis Externa",
+          "Pseudomonas Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1343094/"
+      },
+      {
+        "pmid": "7805599",
+        "title": "Malignant otitis externa in AIDS patients: case report and review of the literature.",
+        "abstract": "Malignant otitis externa is a necrotizing infection of the external ear canal and surrounding soft tissue and bone, usually caused by Pseudomonas aeruginosa. The infection classically occurs in diabetic patients, however recently, several patients with the acquired immunodeficiency syndrome (AIDS) have been reported to have malignant otitis externa. A patient with AIDS who had malignant otitis externa with skull base osteomyelitis is presented and reported cases in patients with AIDS are reviewed. Predisposing factors include immunologic abnormalities (notably neutropenia), dermatitis, medications, neoplasm, and iatrogenic procedures, e.g., ear lavage. Treatment of malignant otitis externa has traditionally included anti-pseudomonal cephalosporins/penicillins and aminoglycosides for prolonged durations. Recently, ciprofloxacin has been shown to be effective as an oral regimen. With the increasing number of patients with AIDS being seen in the outpatient clinics, the diagnosis of malign",
+        "journal": "Ear, nose, & throat journal",
+        "year": "1994",
+        "authors": [
+          "Weinroth S E",
+          "Schessel D",
+          "Tuazon C U"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Bone Diseases",
+          "Ciprofloxacin",
+          "Humans",
+          "Male",
+          "Otitis Externa",
+          "Pseudomonas aeruginosa",
+          "Skull"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7805599/"
+      },
+      {
+        "pmid": "40672814",
+        "title": "Expanding the diagnostic spectrum of malignant otitis externa: a case report of proteus infection in a non-immunosuppressed patient.",
+        "abstract": "Malignant otitis externa (MOE) is a severe and potentially life-threatening infection of the external auditory canal, most frequently caused by Pseudomonas aeruginosa. Although typically seen in immunocompromised individuals-especially those with diabetes mellitus-up to 45% of cases have been reported in non-diabetic patients, highlighting the importance of recognizing atypical presentations. Rare pathogens, such as Proteus mirabilis, have been identified in only a few documented cases. Early diagnosis and prompt intervention are essential to prevent serious complications, including osteomyelitis and intracranial extension.",
+        "journal": "Frontiers in medicine",
+        "year": "2025",
+        "authors": [
+          "Arias Rodríguez Fabián Darío",
+          "Larenas Mercedes",
+          "Paredes Santiago",
+          "Giuliano Guillermina",
+          "López-Cortés Andrés"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40672814/"
+      },
+      {
+        "pmid": "23276814",
+        "title": "Initial management of necrotizing external otitis: errors to avoid.",
+        "abstract": "Diagnostic and therapeutic practice guidelines have been established for classical forms of benign otitis externa. However, these guidelines do not include unusual forms of the disease, especially \"invasive\" otitis externa. No consensual diagnostic flow diagram has been published in the literature, which frequently results in delayed diagnosis and inappropriate primary care management. The objective of this study was to analyse the primary care management practices of malignant otitis externa (MOE).",
+        "journal": "European annals of otorhinolaryngology, head and neck diseases",
+        "year": "2013",
+        "authors": [
+          "Guevara N",
+          "Mahdyoun P",
+          "Pulcini C",
+          "Raffaelli C",
+          "Gahide I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents, Local",
+          "Ceftazidime",
+          "Ciprofloxacin",
+          "Delayed Diagnosis",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23276814/"
+      },
+      {
+        "pmid": "32983891",
+        "title": "Multiple cranial nerve palsies in malignant external otitis: A rare presentation of a rare condition.",
+        "abstract": "Malignant external otitis (MEO) is a rare inflammatory and infectious condition, typically caused by Pseudomonas aeruginosa, that mainly affects diabetic or immunocompromised elderly patients and is associated with severe morbidity and mortality. It begins in the external auditory canal and rapidly progresses through the skull base, leading to osteomyelitis and may result in cranial neuropathy, especially of the facial nerve. Here we describe a rare neurological presentation of MEO in a 65-year old diabetic man, who presented with an 8-month progressing left otitis externa and evolved with ipsilateral proptosis, ophthalmoplegia, blindness, facial palsy, hearing loss and contralateral evolvement of the temporal bone with hearing impairment. He was initially treated with oral ciprofloxacin and after one week was transferred to our tertiary hospital, where antibiotic therapy was switched to meropenem and vancomycin due to the severity of the case and to the hospital's microbiological prof",
+        "journal": "IDCases",
+        "year": "2020",
+        "authors": [
+          "Silveira Rodrigo Queiroz",
+          "Carvalho Viviane Tavares",
+          "Cavalcanti Haline Novais",
+          "Eduardo Rodrigues Fabiana Carraro",
+          "Braune Caroline Bittar"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32983891/"
+      },
+      {
+        "pmid": "3411213",
+        "title": "Necrotizing external otitis treated with ciprofloxacin. A case report.",
+        "abstract": "Necrotizing (malignant) external otitis is a severe infection caused by Pseudomonas aeruginosa which occurs mainly in elderly diabetics or in immuno-depressed patients (Chandler, 1968). The management of this condition requires the association between an aminoglycoside antibiotic and an antipseudomonal beta-lactamic, given parenterally during a 4 to 6 week period. Sometimes it is necessary to continue the therapy for months until there is no evidence of residual disease (Strauss et al., 1982). Ciprofloxacin is a quinolone with antipseudomonal activity which can be taken orally, and it is a useful alternative to the current treatment. The authors report a case of necrotizing external otitis which was successfully treated with ciprofloxacin.",
+        "journal": "The Journal of laryngology and otology",
+        "year": "1988",
+        "authors": [
+          "Sabater F",
+          "Mensa J",
+          "Doménech J",
+          "Loncá M",
+          "Carulla M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Ciprofloxacin",
+          "Humans",
+          "Male",
+          "Necrosis",
+          "Otitis Externa",
+          "Tomography, X-Ray Computed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3411213/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:51:33.195839",
+  "success": true,
+  "error_message": null
+}

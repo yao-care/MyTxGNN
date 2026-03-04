@@ -1,0 +1,395 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "bacterial pneumonia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00797108",
+      "title": "A Phase 2 Randomized, Double-blind, Double-dummy Efficacy, Safety And Tolerability Study Of Iv Sulopenem With Switch To Oral Pf-03709270 Compared To Ceftriaxone With Step Down To Amoxicillin/Clavulanate Potassium (Augmentin) In Subjects With Community Acquired Pneumonia (Cap) Requiring Hospitalization",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2009-06",
+      "country": "South Korea, Australia, Poland, Canada, United States",
+      "enrollment": 35,
+      "brief_summary": "The purpose of this study is to test if intravenous sulopenem and an oral drug, PF-03709270 are safe and effective in patients that are hospitalized with community acquired pneumonia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hospitalized male or female patients 18 years of age or older.\n* Female patients of childbearing potential must not be pregnant.\n* Must exhibit at least two pre-specified clinical symptoms/signs of pneumonia.\n* Must require hospitalization for the pneumonia.\n* Chest Xray must ",
+      "endpoints": [
+        "Percentage of Participants With Clinical Response at Test of Cure (TOC) Visit"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00797108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01530763",
+      "title": "A Multicenter, Randomized, Observer-Blinded, Active-Controlled Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of Ceftaroline Versus Ceftriaxone in Pediatric Subjects With Community-acquired Bacterial Pneumonia Requiring Hospitalization",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2014-07",
+      "country": "Bulgaria, Spain, Greece, Ukraine, Georgia, Hungary, Poland, Argentina, United States",
+      "enrollment": 161,
+      "brief_summary": "This is a study of safety and effectiveness of ceftaroline fosamil in children with Community Acquired Bacterial Pneumonia receiving antibiotic therapy in the hospital.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, 2 months to \\< 18 years old.\n* Presence of CABP requiring hospitalization and IV antibacterial therapy\n\nExclusion Criteria:\n\n* Documented history of any hypersensitivity of allergic reaction to any β-lactam antimicrobial.\n* Confirmed or suspected infection with",
+      "endpoints": [
+        "Evaluate the safety and tolerability of ceftaroline versus ceftriaxone in pediatric subjects age 2 months to <18 years with CABP requiring hospitalization"
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT01530763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02258763",
+      "title": "Pneumonia in Children: Aetiology, Ideal Antibiotic Duration, Quality of Life",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2018-10",
+      "country": "Malaysia",
+      "enrollment": 19,
+      "brief_summary": "To determine, in children hospitalized with pneumonia, if an extended duration of oral antibiotics (10 days) will be superior to a shorter duration (3 days) of antibiotics in improving clinical outcomes.\n\nSecondary Aims:\n\n1. Describe the prevalence of respiratory viruses and bacteria at presentation.\n2. Investigate the depression, anxiety and stress scores (DASS21) and quality of life scored (QOL) by parents of the children during admission, pre-discharge and post discharge and at follow-ups.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nChildren admitted with severe pneumonia as defined by the presence of all the following as defined as below:\n\n* 3 months to 59 months old\n* History of cough and/or shortness of breath\n* Unwell for \\<= 7 days -Increased respiratory rate ( ≥ 50/min if ≤12 months old, ≥ 40/min) or ",
+      "endpoints": [
+        "Clinical cure"
+      ],
+      "sponsor": "University of Malaya",
+      "url": "https://clinicaltrials.gov/study/NCT02258763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05553743",
+      "title": "The UCSD Human Milk Biorepository",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2014-03-27",
+      "completion_date": "2040-03",
+      "country": "United States",
+      "enrollment": 5000,
+      "brief_summary": "The purpose of the UCSD Human Milk Biorepository is to establish and maintain a repository of breast milk samples that can be used to learn more about how breast milk influences infant and child health.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women who are 18 years old or older\n* Breastfeeding\n* Producing sufficient breast milk to donate an excess to the Biorepository\n\nExclusion Criteria:\n\n* Women under 18 years old",
+      "endpoints": [
+        "Human Milk Repository",
+        "Develop, maintain and manage the Repository"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT05553743"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05340257",
+      "title": "An Open Label, Single Arm Study, to Evaluate the Pharmacokinetics and Safety of Augmentin Extra Strength (ES)-600 Suspension in Children Presenting With Community Acquired Pneumonia (CAP) and Acute Bacterial Rhinosinusitis (ABRS) in Brazil",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-10-14",
+      "completion_date": "2024-07-08",
+      "country": "Brazil",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the pharmacokinetics, safety or tolerability through treatment emergent adverse event (TEAE) and to explore primary and secondary clinical response of treatment with Augmentin ES in pediatric population presenting with CAP and ABRS in Brazil.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participant and/or parent(s)/legal guardian(s) are willing and able to comply with the study protocol.\n* In accordance with regional/local laws and regulations,\n* a. the parent(s)/legal guardian(s) has given signed informed, dated consent; and the participant has\n* b.given",
+      "endpoints": [
+        "Absorption rate constant (Ka) of amoxicillin and clavulanic acid combination",
+        "Area under the serum concentration-time curve (AUC) of amoxicillin and clavulanic acid combination",
+        "Maximum serum concentration (Cmax) of amoxicillin and clavulanic acid combination"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT05340257"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01261546",
+      "title": "MULTICENTRIC, PHASE II, CLINICAL TRIAL CORTICOIDS FOR EMPYEMA AND PLEURAL EFFUSION IN CHILDREN",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2015-05",
+      "country": "Spain",
+      "enrollment": 60,
+      "brief_summary": "STUDY JUSTIFICATION\n\n1. Scientific evidence of the usefulness of corticosteroid use for infectious diseases: Corticosteroids along with antibiotic use improve survival in some infectious processes provide long term benefits and improve symptoms in many others.\n2. Clinical Observation: the investigators observed that patients with parapneumonic pleural effusion and associated bronchospasm who were treated with corticosteroids for their bronchospasm, evolved to healing before patients who were not",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between 1 and 14 year old.\n* Presence of pneumonia diagnosed by clinical and radiographic criteria: cough, fever and radiological consolidation.\n* Evidence of pleural effusion.\n\nExclusion Criteria:\n\n* Allergy to any of the drugs included in the study.\n* Immunodeficien",
+      "endpoints": [
+        "time to resolution"
+      ],
+      "sponsor": "Hospital Infanta Sofia",
+      "url": "https://clinicaltrials.gov/study/NCT01261546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02735707",
+      "title": "Randomized, Embedded, Multifactorial Adaptive Platform Trial for Community- Acquired Pneumonia",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2016-04-11",
+      "completion_date": "2028-02",
+      "country": "Spain, Saudi Arabia, Switzerland, Canada, Belgium, Croatia, India, Hungary, Serbia, Germany, Australia, Portugal, Romania, Israel, Finland, Ireland, Pakistan, Colombia, Japan, Estonia, United States, Slovenia, France, Czechia, Italy, United Kingdom, Netherlands, New Zealand, Nepal",
+      "enrollment": 20000,
+      "brief_summary": "REMAP-CAP is a randomised, embedded, multifactorial, adaptive platform trial for community-acquired pneumonia.\n\nThe purpose of this study is to evaluate the effect of a range of interventions to improve outcome of patients admitted to intensive care with community-acquired pneumonia.\n\nIn addition, REMAP-CAP provides and adaptive research platform for evaluation of multiple treatment modalities in the event of a respiratory pandemic such as COVID-19.\n\nREMAP-COVID is a sub-platform of REMAP-CAP th",
+      "eligibility_criteria": "REMAP-CAP PLATFORM INCLUSION CRITERIA:\n\n1. Adult patient admitted to an ICU for severe CAP within 48 hours of hospital admission with:\n\n   1. symptoms or signs or both that are consistent with lower respiratory tract infection AND\n   2. Radiological evidence of new onset consolidation (in patients w",
+      "endpoints": [
+        "All-cause mortality",
+        "Days alive and not receiving organ support in ICU"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT02735707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07322549",
+      "title": "Amoxicillin/Clavulanic Acid Susceptibility in Acute Community-acquired Pneumonia Documented With Streptococcus Pneumoniae, Haemophilus Influenzae, or Staphylococcus Aureus Requiring Intensive Care Management: a Single-center Retrospective Study.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2025-03-01",
+      "completion_date": "2025-09-30",
+      "country": "France",
+      "enrollment": 104,
+      "brief_summary": "Severe community-acquired pneumonia (CAP) and community-acquired aspiration pneumonia (CAAP) are common reasons for adult emergency department visits and subsequent admission to the intensive care unit (ICU). Three bacteria are primarily implicated in this type of pneumonia: Streptococcus pneumoniae, Haemophilus influenzae, and Staphylococcus aureus.\n\nEmpirical antibiotic therapy for this condition is currently based on the use of beta-lactams. While third-generation cephalosporins (3GC) remain ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient admitted to the ICU at Sainte-Musse Hospital between January 2018 and December 2022.\n2. Diagnosis of severe CAP or CAAP within 48 hours of hospital admission, documented with Streptococcus pneumoniae, and/or Haemophilus influenzae, and/or Staphylococcus aureus (confir",
+      "endpoints": [
+        "Susceptibility rate to AMC and/or 3GC for identified bacteria at CAP or CAAP diagnosis"
+      ],
+      "sponsor": "Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer",
+      "url": "https://clinicaltrials.gov/study/NCT07322549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00132275",
+      "title": "Evaluation of National Guidelines for Acute Sinusitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2006-08",
+      "country": "United States",
+      "enrollment": 240,
+      "brief_summary": "Viral upper respiratory infections occur frequently during childhood (6-8 per year) and are, for the most part, self-limited episodes that resolve spontaneously and do not require antibiotic therapy. Acute otitis media and acute bacterial sinusitis are frequent complications of viral upper respiratory infections that will benefit from treatment with antibiotics. Acute bacterial sinusitis is one of the most common diagnoses in ambulatory practice and, in all age groups, accounts for an estimated ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA convenience sample of children between 1 and 10 years of age with one of three clinical presentations:\n\n* Onset with persistent symptoms\n* Onset with severe symptoms\n* Onset with worsening symptoms\n\nExclusion Criteria:\n\nPatients will be excluded if they have:\n\n* Received antib",
+      "endpoints": [
+        "A comparison of the proportion of children who have a complete resolution (cure) of their respiratory symptoms in each treatment group (Amoxicillin clavulanate versus placebo)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00132275"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01820026",
+      "title": "Bacterial Infections Associated With Healthcare (Healthcare-Associated) in Hospitalized Cirrhotic Patients: Randomized Study of Use of Traditional Empirical Antibiotic Therapy and Second-line Targeted at Multi-resistant Bacteria",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-12",
+      "completion_date": "2015-06",
+      "country": "Italy",
+      "enrollment": 96,
+      "brief_summary": "Bacterial infections are a frequent complication in liver cirrhosis with a bad prognosis. However, the clinical outcome of cirrhotic patients with serious infections is significantly improved over the last 30 years due to early diagnosis and to the use of a more appropriate antibiotic therapy.\n\nAs in the general population, empirical treatment should be initiated soon after diagnosis, after making the necessary sampling and should be based on the use of an antibiotic with low toxicity and broad ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* cirrhosis\n* healthcare infection\n* older than 18 years\n* agreement to participate\n\nExclusion Criteria:\n\n* HIV\n* patients underwent to liver transplantation",
+      "endpoints": [
+        "Efficacy of anti-multiresistant empirical antibiotic therapy in healthcare associated infections in cirrhosis"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT01820026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00914888",
+      "title": "Multicenter, Randomized, And Double-Blind Study To Evaluate The Safety Of Tigecycline Versus A Ceftriaxone Regimen In The Treatment Of Complicated Intra-Abdominal Infections And Community-Acquired Pneumonia In Subjects Of 8-17 Years",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2011-01",
+      "completion_date": "2014-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The main purpose of this study is to compare the safety of tigecycline versus a ceftriaxone regimen in pediatric subjects (aged 8 to 17 years) with complicated intra-abdominal infections (cIAI) and community acquired pneumonia (CAP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 8 to 17 years old. Children with bone maturation less than 8 years old should be enrolled with caution due to potential risk of tooth discoloration.\n* Have a diagnosis of a serious infection (complicated intra-abdominal infections \\[cIAI\\] or community ",
+      "endpoints": [
+        "Clinical efficacy response (cure, failure, or indeterminate) at the test of cure (TOC) visit for 2 co-primary populations: the clinically evaluable (CE) and clinical modified Intent-to-Treat (c-mITT) populations"
+      ],
+      "sponsor": "Wyeth is now a wholly owned subsidiary of Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00914888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01602874",
+      "title": "Multicenter, Randomized, And Double-Blind Study To Evaluate The Safety Of Tigecycline Versus A Ceftriaxone Regimen In The Treatment Of Complicated Intra-Abdominal Infections And Community-Acquired Pneumonia In Subjects Of 8-17 Years",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2011-01",
+      "completion_date": "2014-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The main purpose of this study is to compare the safety of tigecycline versus a ceftriaxone regimen in pediatric subjects (aged 8 to 17 years) with complicated intra-abdominal infections (cIAI) and community acquired pneumonia (CAP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 8 to 17 years old. Children with bone maturation less than 8 years old should be enrolled with caution due to potential risk of tooth discoloration.\n* Have a diagnosis of a serious infection (complicated intra-abdominal infections \\[cIAI\\] or community ",
+      "endpoints": [
+        "Clinical efficacy response (cure, failure, or indeterminate) at the test of cure (TOC) visit for 2 co-primary populations: the clinically evaluable (CE) and clinical modified Intent-to-Treat (c-mITT) populations"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01602874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02891915",
+      "title": "A Phase IV Double-Blind, Placebo-Controlled, Randomized Trial to Evaluate Short Course vs.Standard Course Outpatient Therapy of Community Acquired Pneumonia in Children (SCOUT-CAP)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-12-02",
+      "completion_date": "2019-12-16",
+      "country": "United States",
+      "enrollment": 385,
+      "brief_summary": "This is a multi-center, randomized, double-blind, placebo-controlled, superiority clinical trial will test the effectiveness of short (5-day) vs.standard (10-day) course therapy in children who are diagnosed with CAP and initially treated in outpatient clinics, urgent care facilities, and emergency departments. Primary objective is to compare the composite overall outcome (Desirability of Outcome Ranking, DOOR) among children 6-71 months of age with CAP assigned to a strategy of short course (5 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 6 - 71 months\n2. Provider diagnosis of CAP and prescription of antibiotic therapy with amoxicillin, amoxicillin-clavulanate, or cefdinir\n\n   \\- amoxicillin or amoxicillin-clavulanate prescribed at a amoxicillin dose of 60 mg/kg/day\n\n   \\-- cefdinir prescribed at a minimum",
+      "endpoints": [
+        "Desirability of Outcome Ranking (DOOR)"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT02891915"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110421",
+      "title": "A Prospective, Randomized, Double-Blind, Multicenter Study to Establish the Safety and Tolerability of Doripenem Compared With Cefepime in Hospitalized Children With Bacterial Pneumonia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2012-03",
+      "country": "Brazil, Mexico, Panama, Ukraine, Lithuania, Latvia, Poland, Colombia, Argentina, United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of doripenem compared to cefepime in children hospitalized with pneumonia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Require parenteral antibacterial therapy for the treatment of pneumonia\n* Have new or progressive radiographic infiltrate(s) (alveolar, lobar, or consolidation) consistent with a bacterial pneumonia that is not related to cardiac or other disease processes\n* Must, based on the",
+      "endpoints": [
+        "The Number of Participants With Clinical Cure Rate at Test Of Cure (TOC) Visit"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01110421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02783859",
+      "title": "A Multi-centre Double-blind Randomised Controlled Trial to Determine if a Longer Duration of Amoxicillin-clavulanic Acid (Compared to Shorter Duration) Improves Clinical Outcomes of Children Hospitalised With Community-acquired Pneumonia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2022-12",
+      "country": "Australia, New Zealand, Malaysia",
+      "enrollment": 314,
+      "brief_summary": "An intervention study to determine if a longer duration of antibiotics (compared to shorter duration) improves the short and long term clinical outcomes of children hospitalised for pneumonia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Hospitalised children aged 3-mo to 5-yrs (in Darwin, children have to be Indigenous)\n2. Have features of severe pneumonia on admission (temperature \\>37.5 celsius or a history of fever at home or observed at the referring clinic, age-adjusted tachypnoea \\[respiratory rate\\>50",
+      "endpoints": [
+        "The proportion without chronic respiratory symptoms and signs or bronchiectasis."
+      ],
+      "sponsor": "Menzies School of Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT02783859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01669980",
+      "title": "A Multicenter, Randomized, Observer-Blinded, Active-Controlled Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of Ceftaroline Versus Ceftriaxone Plus Vancomycin in Pediatric Subjects With Complicated Community-acquired Bacterial Pneumonia (CABP)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2014-08",
+      "country": "Argentina, Georgia, Ukraine, United States",
+      "enrollment": 40,
+      "brief_summary": "This is a study of safety and effectiveness of ceftaroline fosamil in children with Complicated Community-acquired Pneumonia receiving antibiotic therapy in the hospital.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of CABP warranting 3 days of initial hospitalization\n* Confirmed presence of indicators of complicated CABP\n\nExclusion Criteria:\n\n* Hypersensitivity or allergic reaction to vancomycin or any β-lactam antimicrobial\n* Confirmed or suspected infection with a pathogen kno",
+      "endpoints": [
+        "Evaluate the safety and tolerability of ceftaroline versus ceftriaxone plus vancomycin in pediatric subjects ages 2 months to < 18 years with complicated community-acquired bacterial pneumonia (CABP)"
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT01669980"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05114161",
+      "title": "Promoting Optimal Treatment for Community-acquired Pneumonia in the Emergency Room (PIONEER): a Prospective, Before-after, Cohort Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-02-14",
+      "completion_date": "2024-04-18",
+      "country": "Canada",
+      "enrollment": 162,
+      "brief_summary": "Pneumonia in children can be caused by different types of germs such as bacteria and viruses. Giving antibiotics to children with bacterial bugs is helpful while giving antibiotics to children with viruses will not help them. Unfortunately, it is difficult for doctors to tell when a child's pneumonia is caused by bacteria or viruses. Most young children are given antibiotics even though it doesn't help them.\n\nOur study wants to test a new way to care for children with pneumonia so that only chil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosed primarily with community-acquired pneumonia as per the ED MD and are well enough to be discharged home.\n2. They also must have any one of:\n\n   1. tachypnoea;\n   2. cough;\n   3. increased work of breathing; or\n   4. auscultatory findings consistent with pneumonia;\n\nE",
+      "endpoints": [
+        "Treatment with antibiotics for community-acquired pneumonia"
+      ],
+      "sponsor": "Hamilton Health Sciences Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05114161"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06804096",
+      "title": "Efficacy and Safety of Faropenem in Bangladeshi Adult Patients With Community-Acquired Bacterial Pneumonia (CABP): A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-02-20",
+      "completion_date": "2025-12-01",
+      "country": "Bangladesh",
+      "enrollment": 160,
+      "brief_summary": "The goal of this clinical trial is to evaluate the efficacy and safety of faropenem in comparison to co-amoxiclav and clarithromycin in Bangladeshi adults diagnosed with community-acquired bacterial pneumonia (CABP). Eligible participants will be randomly assigned to one of two treatment arms. The first arm will receive faropenem at a dosage of 200 mg administered three times daily for a duration of seven days. The second arm will receive co-amoxiclav 625 mg, also three times daily, along with c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients aged between 18 to 65 years.\n* Have an acute illness (less than or equal to 7 days duration) with any of the following signs and symptoms consistent with a lower respiratory tract infection (new or worsening):\n\n  1. Fever (body temperature \\> 38.0 °C (1",
+      "endpoints": [
+        "Clinical Cure Rate between two groups.",
+        "Percentage of patients withdrawn from the study due to adverse events between two groups."
+      ],
+      "sponsor": "Beximco Pharmaceuticals Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06804096"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06229288",
+      "title": "Amoxicillin Alone Versus Amoxicillin/Clavulanate for Community-acquired Pneumonia in Patients Aged 65 Years or Older, and Hospitalized in a Non-intensive Care Unit Ward: a Non-inferiority Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-04-25",
+      "completion_date": "2027-05-25",
+      "country": "France",
+      "enrollment": 326,
+      "brief_summary": "Reduce inappropriate antibiotic use is a priority of public health agencies. Community-acquired pneumonia (CAP) is one of the most important indications for antibiotic prescriptions.\n\nIn the majority of the studies of CAP, there is a large proportion of cases with no pathogen identified. Thus, the choice of the empirical antibiotic depends on the most likely pathogen, individual risk factors, comorbidities, and allergies.\n\nPatients aged 65 years or older are often treated with amoxicillin/clavul",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient aged 65 years or older with or without comorbidities defined by chronic diseases in immunocompetent patients,\n2. Patient admitted to the hospital for a CAP defined by at least two clinical signs of pneumonia (cough, sputum production, dyspnea, tachypnea, or pleuritic ",
+      "endpoints": [
+        "Non-inferiority"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06229288"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02605122",
+      "title": "A Phase 2/3, Randomized, Open-Label, Multi-center Study to Determine the Safety and Efficacy of Solithromycin in Adolescents and Children With Suspected or Confirmed Community-Acquired Bacterial Pneumonia",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2016-04",
+      "completion_date": "2018-03-21",
+      "country": "Bulgaria, Spain, Philippines, Hungary, United Kingdom, United States",
+      "enrollment": 97,
+      "brief_summary": "This is a phase 2/3, randomized, open-label, active control, multi-center study to assess the safety and efficacy of solithromycin in children and adolescents with community-acquired bacterial pneumonia (CABP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of and/or documented fever (rectal, ear, or oral temperature ≥38°C or axillary temperature ≥37.5°C) or hypothermia (rectal, ear, or oral temperature \\<35°C or axillary temperature \\<34.5°C)\n* Chest radiograph infiltrates consistent with bacterial pneumonia (or pneumoni",
+      "endpoints": [
+        "Overview of Adverse Events By Treatment Arm"
+      ],
+      "sponsor": "Melinta Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02605122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02899507",
+      "title": "Prophylactic Versus Clinically-driven Antibiotics in Comatose Survivors of Out-of-hospital Cardiac Arrest",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2015-04",
+      "country": "Slovenia",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to determine whether there is potential benefits of prophylactic antibiotic treatment in comatose survivors of out-of-hospital cardiac arrest (OHCA) treated in intensive care unit with therapeutic hypothermia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male over 18 years old\n* Comatose survivors of out-of-hospital cardiac arrest treated in intensive care unit with therapeutic hypothermia\n\nExclusion Criteria:\n\n* Suspected or confirmed pregnancy\n* Allergy to amoxicillin-clavulanic acid\n* Tracheobronchial aspiration\n",
+      "endpoints": [
+        "Value of C-reactive protein (CRP) at day three"
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "url": "https://clinicaltrials.gov/study/NCT02899507"
+    }
+  ],
+  "timestamp": "2026-03-04T15:51:10.751041",
+  "success": true,
+  "error_message": null
+}

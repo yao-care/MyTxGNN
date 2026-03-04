@@ -1,0 +1,557 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Deferasirox",
+    "disease": "beta-thalassemia intermedia",
+    "query_string": "Deferasirox AND beta-thalassemia intermedia"
+  },
+  "data": {
+    "query": "Deferasirox AND beta-thalassemia intermedia",
+    "results": [
+      {
+        "pmid": "26114738",
+        "title": "Efficacy of Deferasirox (Exjade®) in Modulation of Iron Overload in Patients with β-Thalassemia Intermedia.",
+        "abstract": "Because of insufficient erythropoiesis, peripheral hemolysis and increased gastrointestinal iron absorption, iron overload is still a matter of debate in β-thalassemia intermedia (β-TI) patients, which can be overcome using iron chelators. However, data on use of iron chelators in β-TI patients is highly restricted. The aim of this study was to evaluate the efficacy of oral administration of deferasirox (Exjade(®) or DFX) by assessment of serum ferritin levels in β-TI patients. In this quasi-experimental study, 50 β-TI patients with serum ferritin levels >1000 ng/mL were selected and received oral DFX for 12 consecutive months. Iron overload was measured by checking serum ferritin levels every 2 months and the results were compared with the baseline level. The mean serum ferritin was decreased during 1 year of chelation therapy without any toxic effect. Although the difference between baseline ferritin and ferritin levels at the end of second month was not remarkable (p = 0.88), a sign",
+        "journal": "Hemoglobin",
+        "year": "2015",
+        "authors": [
+          "Karimi Mehran",
+          "Arandi Nargess",
+          "Haghpanah Sezaneh",
+          "Ansari Shahla",
+          "Azarkeyvan Azita"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Benzoates",
+          "Child",
+          "Deferasirox",
+          "Female",
+          "Ferritins",
+          "Humans",
+          "Iron Chelating Agents",
+          "Iron Overload"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26114738/"
+      },
+      {
+        "pmid": "23775258",
+        "title": "Cardiovascular function and treatment in β-thalassemia major: a consensus statement from the American Heart Association.",
+        "abstract": "This aim of this statement is to report an expert consensus on the diagnosis and treatment of cardiac dysfunction in β-thalassemia major (TM). This consensus statement does not cover other hemoglobinopathies, including thalassemia intermedia and sickle cell anemia, in which a different spectrum of cardiovascular complications is typical. There are considerable uncertainties in this field, with a few randomized controlled trials relating to treatment of chronic myocardial siderosis but none relating to treatment of acute heart failure. The principles of diagnosis and treatment of cardiac iron loading in TM are directly relevant to other iron-overload conditions, including in particular Diamond-Blackfan anemia, sideroblastic anemia, and hereditary hemochromatosis. Heart failure is the most common cause of death in TM and primarily results from cardiac iron accumulation. The diagnosis of ventricular dysfunction in TM patients differs from that in nonanemic patients because of the cardiova",
+        "journal": "Circulation",
+        "year": "2013",
+        "authors": [
+          "Pennell Dudley J",
+          "Udelson James E",
+          "Arai Andrew E",
+          "Bozkurt Biykem",
+          "Cohen Alan R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "American Heart Association",
+          "Consensus",
+          "Heart Failure",
+          "Humans",
+          "Iron Chelating Agents",
+          "Iron Overload",
+          "United States",
+          "beta-Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23775258/"
+      },
+      {
+        "pmid": "28316434",
+        "title": "Comparison of deferasirox and deferoxamine effects on iron overload and immunological changes in patients with blood transfusion-dependent β-thalassemia.",
+        "abstract": "Beta-thalassemias are a cluster of inherited (autosomal recessive) hematological disorders prevalent in the Mediterranean area due to defects in synthesis of β chains of hemoglobin. The aim of present study was to compare the effects of deferasirox and deferoxamine on iron overload and immunological changes in patients with blood transfusion-dependent β-thalassemia major and intermedia.",
+        "journal": "Asian journal of transfusion science",
+        "year": "2017",
+        "authors": [
+          "Al-Kuraishy Hayder M",
+          "Al-Gareeb Ali I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28316434/"
+      },
+      {
+        "pmid": "23599881",
+        "title": "Side effects of Deferasirox Iron Chelation in Patients with Beta Thalassemia Major or Intermedia.",
+        "abstract": "Chelating agents remain the mainstay in reducing the iron burden and extending patient survival in homozygous beta-thalassemia but adverse and toxic effects may increase with the institution and long term use of this essential therapy. This study aimed to estimate the incidence of deferasirox (DFX) side effects in patients with thalassemia major or intermedia.",
+        "journal": "Oman medical journal",
+        "year": "2013",
+        "authors": [
+          "Al-Khabori Murtadha",
+          "Bhandari Sunil",
+          "Al-Huneini Mohammed",
+          "Al-Farsi Khalil",
+          "Panjwani Vinodh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23599881/"
+      },
+      {
+        "pmid": "21813448",
+        "title": "How I treat thalassemia.",
+        "abstract": "The purpose of this article is to set forth our approach to diagnosing and managing the thalassemias, including β-thalassemia intermedia and β-thalassemia major. The article begins by briefly describing recent advances in our understanding of the pathophysiology of thalassemia. In the discussion on diagnosing the condition, we cover the development of improved diagnostic tools, including the use of very small fetal DNA samples to detect single point mutations with great reliability for prenatal diagnosis of homozygous thalassemia. In our description of treatment strategies, we focus on how we deal with clinical manifestations and long-term complications using the most effective current treatment methods for β-thalassemia. The discussion of disease management focuses on our use of transfusion therapy and the newly developed oral iron chelators, deferiprone and deferasirox. We also deal with splenectomy and how we manage endocrinopathies and cardiac complications. In addition, we describ",
+        "journal": "Blood",
+        "year": "2011",
+        "authors": [
+          "Rachmilewitz Eliezer A",
+          "Giardina Patricia J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Cardiovascular Diseases",
+          "Endocrine System Diseases",
+          "Humans",
+          "Incidence",
+          "Models, Biological",
+          "Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21813448/"
+      },
+      {
+        "pmid": "20007138",
+        "title": "Complications and treatment of patients with β-thalassemia in France: results of the National Registry.",
+        "abstract": "beta-thalassemia is a rare disease in France, encountered mainly in patients originating from Italy and North Africa. In the setting of the recent French plan for rare diseases, a National Registry for thalassemia has been developed since 2005. Epidemiological and clinical data have been collected on living patients with beta-thalassemia major or intermedia, including those who underwent hematopoietic stem cell transplantation.",
+        "journal": "Haematologica",
+        "year": "2010",
+        "authors": [
+          "Thuret Isabelle",
+          "Pondarré Corinne",
+          "Loundou Anderson",
+          "Steschenko Dominique",
+          "Girot Robert"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Cardiovascular Diseases",
+          "Child",
+          "Child, Preschool",
+          "Cohort Studies",
+          "Cross-Sectional Studies",
+          "Diabetes Complications",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20007138/"
+      },
+      {
+        "pmid": "36606625",
+        "title": "β-Thalassemia in childhood: Current state of health in a high-income country.",
+        "abstract": "β-thalassemia is an haemoglobinopathy characterized by a defective synthesis of the β-globin chain. To assess the current state of health of paediatric patients with β-thalassemia, data from the French national registry regarding children born between 2005 and 2020 with β-thalassemia intermedia (TI) or major (TM) were collected. A total of 237 patients (median age 7.1 years at last visit) were analysed, of whom 156 (65.8%) were born in France and 162 (68.4%) had a TM phenotype. The probability of survival for children with TM born in France was 98.3% at 15 years. Fifty-four (22.8%) children received a haematopoietic stem cell transplant with a success rate of 88.8%. Hepatic and cardiac iron overload monitoring in non-transplanted patients showed moderate overload in 15.7% (18/115) and 7.1% (7/99) of cases, respectively, while clinical complications were found in only 4 patients with TM (hepatic in 3 cases). At last visit, mean ferritinemia was 1293 ng/ml (±759). Overall, less than 10% ",
+        "journal": "British journal of haematology",
+        "year": "2023",
+        "authors": [
+          "Donze Caroline",
+          "Benoit Audrey",
+          "Thuret Isabelle",
+          "Faust Cindy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "beta-Thalassemia",
+          "Iron Overload",
+          "Phenotype",
+          "Hemoglobinopathies",
+          "France"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36606625/"
+      },
+      {
+        "pmid": "27809710",
+        "title": "The questioning for routine monthly monitoring of proteinuria in patients with β-thalassemia on deferasirox chelation.",
+        "abstract": "Iron chelation therapy is one of the mainstays of the management of the patients with β-thalassemia (BT) major. Deferasirox is an oral active iron chelating agent. Proteinuria is one of the potential renal adverse effects of deferasirox, and monthly follow-up for proteinuria is suggested by Food and Drug Administration and European Medicine Agency.",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2017",
+        "authors": [
+          "Bayhan Turan",
+          "Ünal Şule",
+          "Ünlü Ozan",
+          "Küçüker Hakan",
+          "Tutal Anıl Doğukan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Benzoates",
+          "Child",
+          "Child, Preschool",
+          "Deferasirox",
+          "Female",
+          "Humans",
+          "Male",
+          "Proteinuria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27809710/"
+      },
+      {
+        "pmid": "30704764",
+        "title": "Pantoprazole reduces serum ferritin in patients with thalassemia major and intermedia: A randomized, controlled study.",
+        "abstract": "Complications due to iron overload exert a problematic situation in patients with thalassemia. Proton pump inhibitors (PPIs) like pantoprazole are effective agents to reduce acid gastric acid secretion and perhaps to interrupt iron absorption in conditions with increased iron absorption. Our purpose was to study effects of pantoprazole addition to chelators on iron levels in patients with thalassemia major and intermedia.",
+        "journal": "Therapie",
+        "year": "2019",
+        "authors": [
+          "Eghbali Aziz",
+          "Khalilpour Atefeh",
+          "Taherahmadi Hassan",
+          "Bagheri Bahador"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Deferasirox",
+          "Deferiprone",
+          "Deferoxamine",
+          "Female",
+          "Ferritins",
+          "Humans",
+          "Iran"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30704764/"
+      },
+      {
+        "pmid": "24422369",
+        "title": "An update on thalassemia intermedia.",
+        "abstract": "Thalassemia intermedia is a genetically diverse group of diseases that is the result of an imbalance in the production of the alpha and beta chains with ensuing chronic hemolysis, ineffective erythropoiesis, and iron overload. Resulting complications include bone changes, hypercoagulability, and end-organ damage due to iron overload. This decade has witnessed major breakthroughs in the management of thalassemia. In this article, we examine these novelties in therapy including iron chelation therapy, stem cell transplant, and gene therapy. Iron chelation therapy has been revolutionized with the advent of deferasirox, a once-daily oral iron chelator, that has been shown to be safe and efficacious. Gene therapy was also at the core of this revolution with the discovery of novel gene elements and viral vectors allowing for better control and improved outcomes.",
+        "journal": "Le Journal medical libanais. The Lebanese medical journal",
+        "year": "2013",
+        "authors": [
+          "Maakaron Joseph E",
+          "Cappellini Maria Domenica",
+          "Taher Ali T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Developing Countries",
+          "Genetic Therapy",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Iron Chelating Agents",
+          "Janus Kinase 2",
+          "Mice",
+          "beta-Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24422369/"
+      },
+      {
+        "pmid": "23553596",
+        "title": "Deferasirox demonstrates a dose-dependent reduction in liver iron concentration and consistent efficacy across subgroups of non-transfusion-dependent thalassemia patients.",
+        "abstract": "The 1-year THALASSA study enrolled 166 patients with various non-transfusion-dependent thalassemia (NTDT) syndromes, degrees of iron burden and patient characteristics, and demonstrated the overall efficacy and safety of deferasirox in reducing liver iron concentration (LIC) in these patients. Here, reduction in LIC with deferasirox 5 and 10 mg/kg/day starting dose groups is shown to be consistent across the following patient subgroups-baseline LIC/serum ferritin, age, gender, race, splenectomy (yes/no), and underlying NTDT syndrome (β-thalassemia intermedia, HbE/β-thalassemia or α-thalassemia). These analyses also evaluated deferasirox dosing strategies for patients with NTDT. Greater reductions in LIC were achieved in patients dose-escalated at Week 24 from deferasirox 10 mg/kg/day starting dose to 20 mg/kg/day. Patients who received an average actual dose of deferasirox >12.5-≤17.5 mg/kg/day achieved a greater LIC decrease compared with the ≥7.5-≤12.5 mg/kg/day and >0-<7.5 mg/kg/day",
+        "journal": "American journal of hematology",
+        "year": "2013",
+        "authors": [
+          "Taher Ali T",
+          "Porter John B",
+          "Viprakasit Vip",
+          "Kattamis Antonis",
+          "Chuncharunee Suporn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Benzoates",
+          "Deferasirox",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Female",
+          "Ferritins",
+          "Humans",
+          "Iron Chelating Agents",
+          "Iron Overload"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23553596/"
+      },
+      {
+        "pmid": "38457547",
+        "title": "Compound heterozygosity for Southeast Asian hereditary persistence of fetal hemoglobin and β0-thalassemia results in thalassemia intermedia: Pedigree analysis and genetic research in a family from South China. A case report.",
+        "abstract": "Compound heterozygotes for deletional β-thalassemia can be difficult to diagnose due to its diverse clinical presentations and no routine screenings. This can lead to disease progression and delay in treatment.",
+        "journal": "Medicine",
+        "year": "2024",
+        "authors": [
+          "Wang Guangli",
+          "Deng Huiping",
+          "Peng Peng",
+          "Zheng Haiqing",
+          "Tian Baodong"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "beta-Thalassemia",
+          "Fetal Hemoglobin",
+          "Pedigree",
+          "Deferasirox",
+          "Southeast Asian People",
+          "Genetic Research",
+          "China",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38457547/"
+      },
+      {
+        "pmid": "28404539",
+        "title": "A National Registry of Thalassemia in Turkey: Demographic and Disease Characteristics of Patients, Achievements, and Challenges in Prevention.",
+        "abstract": "The Turkish Society of Pediatric Hematology set up a National Hemoglobinopathy Registry to demonstrate the demographic and disease characteristics of patients and assess the efficacy of a hemoglobinopathy control program (HCP) over 10 years in Turkey.",
+        "journal": "Turkish journal of haematology : official journal of Turkish Society of Haematology",
+        "year": "2018",
+        "authors": [
+          "Aydınok Yeşim",
+          "Oymak Yeşim",
+          "Atabay Berna",
+          "Aydoğan Gönül",
+          "Yeşilipek Akif"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Age Distribution",
+          "Alleles",
+          "Demography",
+          "Female",
+          "Humans",
+          "Male",
+          "Mass Screening",
+          "Mutation",
+          "Phenotype",
+          "Population Surveillance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28404539/"
+      },
+      {
+        "pmid": "26802257",
+        "title": "Deferasirox at therapeutic doses is associated with dose-dependent hypercalciuria.",
+        "abstract": "Deferasirox is an oral iron chelator used widely in the treatment of thalassemia major and other transfusion-dependent hemoglobinopathies. Whilst initial long-term studies established the renal safety of deferasirox, there are now increasing reports of hypercalciuria and renal tubular dysfunction. In addition, urolithiasis with rapid loss of bone density in patients with β thalassemia major has been reported. We conducted a cross-sectional cohort study enrolling 152 adult patients comprising of β thalassemia major (81.5%), sickle cell disease (8%), thalassemia intermedia (2%), HbH disease (6.5%) and E/β thalassemia (2%). Cases were matched with normal control subjects on age, gender and serum creatinine. Iron chelator use was documented and urine calcium to creatinine ratios measured. At the time of analysis, 88.8% of patients were receiving deferasirox and 11.2% were on deferoxamine. Hypercalciuria was present in 91.9% of subjects on deferasirox in a positive dose-dependent relationsh",
+        "journal": "Bone",
+        "year": "2016",
+        "authors": [
+          "Wong Phillip",
+          "Polkinghorne Kevan",
+          "Kerr Peter G",
+          "Doery James C G",
+          "Gillespie Matthew T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Benzoates",
+          "Calcium",
+          "Case-Control Studies",
+          "Creatinine",
+          "Deferasirox",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans",
+          "Hypercalciuria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26802257/"
+      },
+      {
+        "pmid": "26670754",
+        "title": "Sensorineural hearing loss in β-thalassemia patients treated with iron chelation.",
+        "abstract": "The predictive value of pure-tone audiometry (PTA) in the early detection of ototoxicity has been questioned, particularly in the higher frequencies. Otoacoustic emissions testing appears to be more sensitive to cochlear insult than conventional PTA. We conducted a cross-sectional descriptive study to compare the efficacy of distortion-product otoacoustic emissions (DPOAE) testing with that of PTA as a method of audiologic monitoring. Our study group was made up of 159 patients (318 ears)-69 males (43.4%) and 90 females (56.6%), aged 5 to 61 years (mean: 23.59 ± 12.55). All patients had been diagnosed with either β-thalassemia major (BTM) or β-thalassemia intermedia (BTI), and all had received at least 1 year of treatment within the previous year with an iron chelator-either deferasirox, desferrioxamine (deferoxamine in the United States), deferiprone, or a combination of desferrioxamine and deferiprone. PTA and DPOAE evaluations were performed by the same audiologist using the same au",
+        "journal": "Ear, nose, & throat journal",
+        "year": "2015",
+        "authors": [
+          "Osma Ustun",
+          "Kurtoglu Erdal",
+          "Eyigor Hulya",
+          "Yilmaz Mustafa Deniz",
+          "Aygener Nurdan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Audiometry, Pure-Tone",
+          "Benzoates",
+          "Child",
+          "Child, Preschool",
+          "Cross-Sectional Studies",
+          "Deferasirox",
+          "Deferiprone",
+          "Deferoxamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26670754/"
+      },
+      {
+        "pmid": "22859709",
+        "title": "Iron out for nontransfused thalassemia.",
+        "abstract": "Individuals with β-thalassemia intermedia and hemoglobinopathies of equivalent severity who are infrequently or never transfused can still develop serious complications of iron overload. Taher et al report the first 1-year, randomized, double-blind, placebo-controlled trial of oral iron chelation therapy with deferasirox in this population.",
+        "journal": "Blood",
+        "year": "2012",
+        "authors": [
+          "Marks Peter W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Benzoates",
+          "Deferasirox",
+          "Female",
+          "Humans",
+          "Iron Overload",
+          "Male",
+          "Thalassemia",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22859709/"
+      },
+      {
+        "pmid": "28818403",
+        "title": "Heavy metal levels in patients with ineffective erythropoiesis.",
+        "abstract": "Iron is taken into enterocytes at the duodenum via apical divalent metal-ion transporter 1 protein. Besides iron, divalent metal-ion transporter 1 also transports other divalent metals. We aimed to investigate blood heavy metal levels in patients with ineffective erythropoiesis.",
+        "journal": "Transfusion and apheresis science : official journal of the World Apheresis Association : official journal of the European Society for Haemapheresis",
+        "year": "2017",
+        "authors": [
+          "Bayhan Turan",
+          "Ünal Şule",
+          "Çırak Eyüp",
+          "Erdem Onur",
+          "Akay Cemal"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Dyserythropoietic, Congenital",
+          "Benzoates",
+          "Child",
+          "Child, Preschool",
+          "Deferasirox",
+          "Erythropoiesis",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28818403/"
+      },
+      {
+        "pmid": "33024552",
+        "title": "Green tea influence on iron overload in thalassemia intermedia patients: a randomized controlled trial.",
+        "abstract": "Background: Although iron chelation therapies have been available for many years for thalassemia intermedia patients, iron accumulation remains the major cause of death. Therefore, the need for additional chelation options is in demand. This randomized controlled study aimed to understand the effects of green tea on iron balance in thalassemia intermedia patients. Methods: Using a random selection method, 141 thalassemia intermedia patients were initially screened for inclusion in this trial; only 68 patients included after applying exclusion criteria. Two equal groups were generated (n=34/group): green tea (three cups/day after meals) + usual treatment (deferasirox iron chelator and on demand blood transfusion); and control (only usual treatment). The study lasted for a period of 12 months. Patients failing to comply to the trial methodology were excluded, leaving a final total of 29 patients in the green tea group and 28 patients in the control group. Liver iron concentration, and se",
+        "journal": "F1000Research",
+        "year": "2020",
+        "authors": [
+          "Al-Momen Hayder",
+          "Hussein Hussein Khudhair",
+          "Al-Attar Zaid",
+          "Hussein Mohammed Jalal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Benzoates",
+          "Deferasirox",
+          "Humans",
+          "Iron Chelating Agents",
+          "Iron Overload",
+          "Tea",
+          "Triazoles",
+          "beta-Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33024552/"
+      },
+      {
+        "pmid": "25809173",
+        "title": "Deferiprone versus deferoxamine in thalassemia intermedia: Results from a 5-year long-term Italian multicenter randomized clinical trial.",
+        "abstract": "In patients with thalassemia intermedia (TI), such as beta-TI, alpha-thalassemia (mainly HbH disease and mild/moderate forms of HbE/beta-thalassemia), iron overload is an important challenge in terms of diagnosis, monitoring, and treatment. Moreover, to date, the only possible chelators available are deferoxamine, deferasirox, and deferiprone. Here, we report the first 5-year long-term randomized clinical trial comparing the effectiveness of deferiprone versus deferoxamine in patients with TI. Body iron burden, which was determined by measuring serum ferritin levels in the same patient over 5 years and analyzed according to the generalized linear mixed model (GLMM), showed a linear decrease over time in the mean serum ferritin levels in both treatment groups (P-value = 0.035). The overall period of observation was 235.2 person-years for the deferiprone patients compared with 214.3 person-years for the deferoxamine patients. The results of the log-rank test suggested that the deferipron",
+        "journal": "American journal of hematology",
+        "year": "2015",
+        "authors": [
+          "Calvaruso Giuseppina",
+          "Vitrano Angela",
+          "Di Maggio Rosario",
+          "Lai Eliana",
+          "Colletta Grazia"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Agranulocytosis",
+          "Arthralgia",
+          "Chelation Therapy",
+          "Deferiprone",
+          "Deferoxamine",
+          "Female",
+          "Ferritins",
+          "Humans",
+          "Iron Chelating Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25809173/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:10:48.596633",
+  "success": true,
+  "error_message": null
+}

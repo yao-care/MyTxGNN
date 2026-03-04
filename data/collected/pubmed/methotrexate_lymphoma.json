@@ -1,0 +1,610 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methotrexate",
+    "disease": "lymphoma",
+    "query_string": "Methotrexate AND lymphoma"
+  },
+  "data": {
+    "query": "Methotrexate AND lymphoma",
+    "results": [
+      {
+        "pmid": "26433846",
+        "title": "Methotrexate and Pralatrexate.",
+        "abstract": "This article reviews methotrexate and the more potent, related compound, pralatrexate, for the treatment of cutaneous T-cell lymphomas, including mycosis fungoides, Sézary syndrome, and CD30+ lymphoproliferative disorders. Although these folate antagonists are traditionally viewed as antiproliferative cell cycle inhibitors, it is recognized that they inhibit DNA methylation, providing a rationale for their use as epigenetic regulators and cell proliferation inhibitors. The underlying mechanisms are outlined, key supporting data presented, followed by brief mention of recent mathematical modeling supporting the general superiority of combination therapy. Several novel examples involving folate antagonists are proposed.",
+        "journal": "Dermatologic clinics",
+        "year": "2015",
+        "authors": [
+          "Wood Gary S",
+          "Wu Jianqiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminopterin",
+          "Antimetabolites, Antineoplastic",
+          "Apoptosis",
+          "DNA Methylation",
+          "Epigenesis, Genetic",
+          "Folic Acid Antagonists",
+          "Humans",
+          "Lymphoma, T-Cell, Cutaneous",
+          "Methotrexate",
+          "S Phase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26433846/"
+      },
+      {
+        "pmid": "19767089",
+        "title": "High-dose cytarabine plus high-dose methotrexate versus high-dose methotrexate alone in patients with primary CNS lymphoma: a randomised phase 2 trial.",
+        "abstract": "Chemotherapy with high-dose methotrexate is the conventional approach to treat primary CNS lymphomas, but superiority of polychemotherapy compared with high-dose methotrexate alone is unproven. We assessed the effect of adding high-dose cytarabine to methotrexate in patients with newly diagnosed primary CNS lymphoma.",
+        "journal": "Lancet (London, England)",
+        "year": "2009",
+        "authors": [
+          "Ferreri Andrés J M",
+          "Reni Michele",
+          "Foppoli Marco",
+          "Martelli Maurizio",
+          "Pangalis Gerasimus A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Cranial Irradiation",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19767089/"
+      },
+      {
+        "pmid": "24265352",
+        "title": "Beyond high-dose methotrexate and brain radiotherapy: novel targets and agents for primary CNS lymphoma.",
+        "abstract": "While there has been significant progress in outcomes for patients diagnosed with primary central nervous system (CNS) lymphoma (PCNSL), survival rates will likely plateau with the current armamentarium of agents used to treat these patients. Moreover, given that PCNSL increasingly impacts an older population, a significant proportion of patients are not eligible for intensive therapies such as high-dose chemotherapy or whole-brain radiation. There is a need for the development of novel agents, which target key survival pathways in order to continue to make progress in this disease.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2014",
+        "authors": [
+          "Ponzoni M",
+          "Issa S",
+          "Batchelor T T",
+          "Rubenstein J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Central Nervous System Neoplasms",
+          "Chemoradiotherapy",
+          "Humans",
+          "Lymphoma",
+          "Methotrexate",
+          "Phenotype",
+          "Tumor Microenvironment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24265352/"
+      },
+      {
+        "pmid": "32985253",
+        "title": "Use of intravitreal rituximab and methotrexate in vitreoretinal lymphoma.",
+        "abstract": "A 64-year-old Caucasian woman was referred to our hospital after referring vision loss; she had been previously diagnosed with systemic diffuse large B-cell lymphoma. Retinal and optic nerve involvement were found in her right eye, and iris and vitreous involvement were found in her left eye. Vitreoretinal lymphomas (VRL) are rare in medical literature, hence there is a lack of standardised studies regarding therapeutic options in these patients. In our patient, we decided to add intravitreal injections of rituximab and methotrexate to systemic chemotherapy, and to perform pars plana vitrectomy.",
+        "journal": "European journal of ophthalmology",
+        "year": "2022",
+        "authors": [
+          "Rahhal-Ortuño Miriam",
+          "Udaondo-Mirete Patricia",
+          "Fernández-Santodomingo Alex Samir",
+          "Díaz-Llopis Manuel"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Methotrexate",
+          "Middle Aged",
+          "Retinal Neoplasms",
+          "Retrospective Studies",
+          "Rituximab",
+          "Vitreous Body"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32985253/"
+      },
+      {
+        "pmid": "17477222",
+        "title": "High-dose methotrexate and primary central nervous system lymphoma.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) is a rare disease that is managed differently from other primary brain tumors and other types of systemic lymphomas. The use of high-dose methotrexate (HD-MTX) has improved survival rates. This article describes the experience of a patient treated with HD-MTX and outlines the essential aspects of care for the bedside practitioner. An understanding of the diagnostic workup and principles of treatment can minimize complications and maximize patient function as nurses care for the unique physical and emotional needs of this population.",
+        "journal": "The Journal of neuroscience nursing : journal of the American Association of Neuroscience Nurses",
+        "year": "2007",
+        "authors": [
+          "Fahey Jean B",
+          "DiMaggio Carolyn"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Biopsy",
+          "Central Nervous System Neoplasms",
+          "Drug Administration Schedule",
+          "Drug Monitoring",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Infection Control",
+          "Infusions, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17477222/"
+      },
+      {
+        "pmid": "29862535",
+        "title": "Rheumatoid arthritis and lymphoma: Incidence, pathogenesis, biology, and outcome.",
+        "abstract": "Patients with rheumatoid arthritis (RA) have a greater risk of developing both Hodgkin lymphoma (HL) and non-HL than the general population. Non-Hodgkin lymphoma is more common than HL in these patients, and diffuse large B cell lymphoma is the most frequent subtype observed. Although the clinical course of lymphoma in RA is often aggressive, the prognosis in these cases is similar to that of lymphoma in the general population. In this review, we summarize data derived from both retrospective and prospective studies, regarding incidence, pathogenesis, and outcome of lymphomas in RA patients and outline the possible mechanisms and hypotheses linking these 2 disorders. Over the years, 3 main theories have been suggested to explain this association. These hypotheses relate to genetic predisposition, persistence of long standing disease activity with continued immune stimulation, and the role of anti-RA therapy given. A common genetic predisposition linking RA and lymphoma has not been est",
+        "journal": "Hematological oncology",
+        "year": "2018",
+        "authors": [
+          "Klein Alina",
+          "Polliack Aaron",
+          "Gafter-Gvili Anat"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Incidence",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Methotrexate",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29862535/"
+      },
+      {
+        "pmid": "15160953",
+        "title": "Modified magrath regimens for adults with Burkitt and Burkitt-like lymphomas: preserved efficacy with decreased toxicity.",
+        "abstract": "Burkitt and Burkitt-like lymphomas are rapidly growing tumors which require specialized therapy. Although intensive, multi-agent regimens have been effective in children, results are more variable in adults. Magrath et al. previously described a regimen that was highly effective in children and young adults. This phase II study of a modified Magrath regimen was designed to assess its efficacy in older adults and reduce treatment-related toxicity. Fourteen patients with Burkitt/Burkitt-like lymphoma and median age of 47 years were stratified into two categories: low-risk (normal LDH and a single focus of disease measuring less than 10 cm, 3 patients) and high risk (all other, 11 patients). Low-risk patients received three cycles of modified CODOX-M (cyclophosphamide, doxorubicin, adriamycin, vincristine with intrathecal methotrexate and cytarabine followed by high-dose systemic methotrexate, regimen A). High-risk patients received four alternating cycles of regimens A and B (A-B-A-B). R",
+        "journal": "Leukemia & lymphoma",
+        "year": "2004",
+        "authors": [
+          "Lacasce A",
+          "Howard O",
+          "Lib S",
+          "Fisher D",
+          "Weng A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Burkitt Lymphoma",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Doxorubicin",
+          "Etoposide",
+          "Granulocyte Colony-Stimulating Factor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15160953/"
+      },
+      {
+        "pmid": "39394958",
+        "title": "Biological Findings and Clinical Outcomes in Patients Treated With R-CHOP Plus High-Dose Methotrexate as First-Line Therapy in Large B-Cell Lymphoma With Testis Involvement.",
+        "abstract": "Primary testicular lymphoma (PTL) is a rare occurrence of diffuse large B-cell lymphoma (DLBCL) that accounts for 1%-2% of all cases. Nodal DLBCL with testis involvement (DLBCL-T) and PTL are associated with poor prognosis, with high incidence of central nervous system relapse. Fifteen patients (median age 60 years) with PTL (n = 5) or DLBCL-T (n = 10) received high-dose methotrexate + R-CHOP. Overall, complete response (CR) rate was 73% and overall response rate 86%. With a 3.9-year median follow-up, 100% of patients with PTL had CR and none relapsed. On the contrary, 55% of DLBCL-T patients achieved CR among which only one was still in remission at the end of follow-up. Molecular parallels between PTL and Primary CNS Lymphoma (PCNSL) suggest shared origins, urging further research for tailored treatments and enhanced understanding of these lymphomas' biology.",
+        "journal": "European journal of haematology",
+        "year": "2025",
+        "authors": [
+          "Liévin R",
+          "Burroni B",
+          "Balducci E",
+          "Palmic P",
+          "Decroocq J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Rituximab",
+          "Cyclophosphamide",
+          "Prednisone",
+          "Methotrexate",
+          "Vincristine",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39394958/"
+      },
+      {
+        "pmid": "25837901",
+        "title": "Primary CNS lymphoma and neurologic complications of hematologic malignancies.",
+        "abstract": "This article provides a practical clinical approach to diagnose primary CNS lymphoma and recognize neurologic complications of lymphomas and leukemias. This includes current diagnostic and treatment recommendations for primary CNS lymphoma and complications related to hematologic malignancies.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2015",
+        "authors": [
+          "Nayak Lakshmi",
+          "Pentsova Elena",
+          "Batchelor Tracy T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Diagnosis, Differential",
+          "Hematologic Neoplasms",
+          "Humans",
+          "Leukemia",
+          "Lymphoma",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25837901/"
+      },
+      {
+        "pmid": "40450180",
+        "title": "Efficacy and safety of orelabrutinib combined with rituximab and high dose methotrexate in primary or secondary central nervous system diffuse large B-cell lymphoma: a retrospective analysis.",
+        "abstract": "Central nervous system lymphoma (CNSL) are mainly diffuse large B-cell lymphomas (DLBCLs). Orelabrutinib is a second-generation Bruton's tyrosine kinase (BTK) inhibitor and has shown single-agent activity in CNSL. This study aims to evaluate the efficacy and safety of orelabrutinib combined with rituximab and high dose methotrexate (ORM) regimen in the treatment of patients with CNSL. We retrospectively analyzed data from CNSL patients treated with ORM regimen at Jiangsu Province Hospital, the First Affiliated Hospital of Nanjing Medical University from April 2021 to October 2023. Patients receiving rituximab plus high-dose methotrexate (RM regimen) from June 2017 to January 2024 were identified as the control group. Progression-free survival (PFS) and overall survival (OS) were estimated using the Kaplan-Meier method. Adverse events (AEs) were assessed according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. A total of 32 patients were identified: 14 patients i",
+        "journal": "Investigational new drugs",
+        "year": "2025",
+        "authors": [
+          "Zhou Jiahao",
+          "Xing Lingxiao",
+          "Miao Yi",
+          "Qin Shuchao",
+          "Zhang Run"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Rituximab",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Methotrexate",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40450180/"
+      },
+      {
+        "pmid": "15280831",
+        "title": "Self-resolution of Epstein-Barr virus-associated B-cell lymphoma in a patient with dermatomyositis following withdrawal of mycophenolate mofetil and methotrexate.",
+        "abstract": "Self-resolving Epstein-Barr virus (EBV)-associated lymphomas have become more common with the use of immunosuppressive agents in both transplant patients and patients with connective tissue disorders. Immunosuppressive agents are often used for control of dermatomyositis, but their use has not been linked to subsequent malignancy. We present a 46-year-old woman with dermatomyositis, who developed an EBV-associated B-cell lymphoma of the brain while on oral methotrexate, mycophenolate mofetil and low-dose prednisone. The patient's lymphoma gradually resolved \"spontaneously\" upon discontinuation of the methotrexate and mycophenolate mofetil. The potential for EBV-associated B-cell lymphoma to self-resolve should be recognized by the clinician in order to prevent unnecessary and potentially toxic treatments including radiation therapy or multi-drug chemotherapy.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2004",
+        "authors": [
+          "Waldman Mark A",
+          "Callen Jeffrey P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biopsy",
+          "Brain Neoplasms",
+          "Burkitt Lymphoma",
+          "Dermatomyositis",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Methotrexate",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15280831/"
+      },
+      {
+        "pmid": "36513674",
+        "title": "Rituximab with high-dose methotrexate is effective and cost-effective in newly diagnosed primary central nervous system lymphoma.",
+        "abstract": "Induction chemotherapy based on high-dose methotrexate is considered as the standard approach for newly diagnosed primary central nervous system lymphomas (PCNSLs). However, the best combination chemotherapeutic regimen remains unclear. This study aimed to determine the efficacy and toxicities of rituximab with methotrexate (R-M regimen). Consecutive 37 Chinese patients receiving R-M regimen as induction chemotherapy were retrospectively identified from January 2015 to June 2020 from our center in eastern China. Fourteen patients receiving rituximab plus methotrexate with cytarabine (R-MA regimen) at the same period were identified as the positive control group. The response rates, survival, toxicities, length of hospital stay (LOS), and cost were compared. Compared with the R-MA regimen, the R-M regimen showed comparable response rate and survival outcomes, but had fewer grade 3-4 hematological toxicities, shorter LOS, lower mean total hospitalization cost and lower mean total antibio",
+        "journal": "Scientific reports",
+        "year": "2022",
+        "authors": [
+          "Yuan Xianggui",
+          "Yu Teng",
+          "Huang Yurong",
+          "Jiang Huawei",
+          "Xu Xiaohua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Methotrexate",
+          "Central Nervous System Neoplasms",
+          "Lymphoma",
+          "Retrospective Studies",
+          "Cost-Benefit Analysis",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cytarabine",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36513674/"
+      },
+      {
+        "pmid": "17852190",
+        "title": "Comparison of 2-methoxyestradiol and methotrexate effects on non-Hodgkin's B-cell lymphoma.",
+        "abstract": "Methotrexate (MTX) is the most commonly used chemotherapeutic agent to treat primary central nervous system lymphoma (PCNSL) and intraocular lymphoma (IOL). 2-methoxyestradiol (2ME2) is a potent antitumor and anti-angiogenesis agent which, unlike other cytotoxic drugs, has minimal toxicity. In this study, anti-proliferative, apoptotic, and cell-cycle effects of 2ME2 and MTX were compared to evaluate 2ME2 efficacy in human lymphoma cells, models for non-Hodgkin B cell lymphomas.",
+        "journal": "Current eye research",
+        "year": "2007",
+        "authors": [
+          "Park Juyoung",
+          "Franco Robert S",
+          "Augsburger James J",
+          "Banerjee Rupak K"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "2-Methoxyestradiol",
+          "Annexin A5",
+          "Antimetabolites, Antineoplastic",
+          "Apoptosis",
+          "Cell Cycle",
+          "Cell Proliferation",
+          "Dose-Response Relationship, Drug",
+          "Estradiol",
+          "Flow Cytometry",
+          "Fluorescein-5-isothiocyanate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17852190/"
+      },
+      {
+        "pmid": "11196542",
+        "title": "Epstein-Barr virus, methotrexate, and lymphoma in patients with rheumatoid arthritis and primary Sjögren's syndrome: case series.",
+        "abstract": "Rheumatoid arthritis (RA) and primary Sjögren's syndrome (SS) are associated with an increased risk of lymphoma. Epstein-Barr virus (EBV), a ubiquitous herpes virus, has been linked etiologically to lymphoma in patients with RA and primary SS. Recently, methotrexate (MTX) has also been linked to the development of these lymphomas. We investigated the frequency of EBV in lymphoma tissue of patients with RA and primary SS and the association of MTX with lymphomagenesis.",
+        "journal": "The Journal of rheumatology",
+        "year": "2001",
+        "authors": [
+          "Dawson T M",
+          "Starkebaum G",
+          "Wood B L",
+          "Willkens R F",
+          "Gown A M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Epstein-Barr Virus Infections",
+          "Female",
+          "Herpesvirus 4, Human",
+          "Humans",
+          "Immunocompromised Host"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11196542/"
+      },
+      {
+        "pmid": "3839010",
+        "title": "Curability of Burkitt's lymphoma with high-dose cyclophosphamide-high-dose methotrexate therapy and intrathecal chemoprophylaxis.",
+        "abstract": "Twenty-four children with Burkitt's lymphoma were treated beginning May 1976 with a regimen alternating high doses of cyclophosphamide and methotrexate in induction and consolidation; only high doses of methotrexate were used in the maintenance phase. Throughout therapy, which was planned for 54 weeks, intrathecal chemoprophylaxis using methotrexate, cytosine arabinoside, and hydrocortisone was coordinated with the high-dose methotrexate infusion therapy to provide CNS chemoprophylaxis that maintained therapeutic methotrexate spinal fluid levels (greater than 10(-6) mol/L) for approximately 60 hours. Twenty-two (92%) of the 24 children attained complete remission; two (8.3%) patients attained only partial remission, failing therapy. Two children died of infection while in complete remission; two children relapsed on therapy. Actual survival is 75%; the median follow-up time is 38+ months (range, 1 1/2+ to 84+ months). Relapses correlated with Murphy disease stage as follows: stage I--0",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "1985",
+        "authors": [
+          "Sullivan M P",
+          "Ramirez I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Burkitt Lymphoma",
+          "Child",
+          "Cyclophosphamide",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Injections, Intravenous",
+          "Injections, Spinal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3839010/"
+      },
+      {
+        "pmid": "18456377",
+        "title": "Immunodeficiency-associated lymphomas.",
+        "abstract": "This article covers lymphoproliferative disorders in patients with primary or acquired immunodeficiencies. Primary immunodeficiences include Ataxia Telangiectasia and X-linked disorders such as Wiskott-Aldrich syndrome. Acquired immunodeficiencies predominantly occur in the setting of infection with the Human Immunodeficiency Virus or arise following immunosuppressive therapy administered after organ transplantation. The rising incidence of HIV throughout the world and the dramatic increase in transplant surgery since the 1990's suggest that these lymphomas will remain an important health problem. Evidence for lymphoma developing as a result of treatment with methotrexate or Tumour Necrosis Factor Antagonists for autoimmune entities will also be reviewed. The lymphoproliferations that occur with immunodeficiency are extremely heterogenous. In part this reflects the diversity of the causal immune defect. The most striking clinical characteristic is the high frequency of extranodal disea",
+        "journal": "Blood reviews",
+        "year": "2008",
+        "authors": [
+          "Tran Huy",
+          "Nourse Jamie",
+          "Hall Sara",
+          "Green Michael",
+          "Griffiths Lyn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Epstein-Barr Virus Infections",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Immunocompromised Host",
+          "Immunologic Deficiency Syndromes",
+          "Lymphoma",
+          "Methotrexate",
+          "Tumor Necrosis Factor-alpha",
+          "Virus Latency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18456377/"
+      },
+      {
+        "pmid": "27438209",
+        "title": "Methotrexate and etanercept-induced primary cutaneous CD4 positive small/medium-sized pleomorphic T-cell lymphoma.",
+        "abstract": "Immunosuppressive drugs and biological agents may represent a potential risk of lymphoma development in patients with rheumatoid arthritis. But most cases are diffuse, large B-cell lymphomas. Primary cutaneous CD4+ small/medium-sized pleomorphic T-cell lymphoma, a provisional entity in the 2005 WHO-EORTC classification of cutaneous lymphomas, is only described in a limited number of reports. To our knowledge, our case is a rare instance of primary cutaneous CD4+ small/medium-sized pleomorphic T-cell lymphoma, after associated treatment with methotrexate and etanercept, in a patient with moderate rheumatoid arthritis who had undergone an orchidectomy incorrectly.",
+        "journal": "Anais brasileiros de dermatologia",
+        "year": "2016",
+        "authors": [
+          "Ma Han",
+          "Qiu Shu",
+          "Lu Rongbiao",
+          "Feng Peiying",
+          "Lu Chun"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Etanercept",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Lymphoma, T-Cell, Cutaneous",
+          "Male",
+          "Methotrexate",
+          "Middle Aged",
+          "Orchiectomy",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27438209/"
+      },
+      {
+        "pmid": "33273169",
+        "title": "Central Nervous System Lymphomas.",
+        "abstract": "Primary central nervous system (CNS) lymphoma is a rare, aggressive extranodal non-Hodgkin lymphoma confined to the brain, eyes, CSF, or spinal cord without systemic, non-CNS involvement. This article reviews the clinical presentation, imaging characteristics, diagnostic workup, novel pathophysiologic insights, and treatment of immunocompetent patients with primary CNS lymphoma.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2020",
+        "authors": [
+          "Grommes Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System",
+          "Central Nervous System Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Tumor Microenvironment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33273169/"
+      },
+      {
+        "pmid": "36367559",
+        "title": "Performance status, comorbidities, and cycles of methotrexate exert the greatest influence on outcomes of primary and secondary CNS lymphomas: the Lexington experience.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) occurs primarily in older patients and has a worse prognosis than other extranodal lymphomas. Contemporary treatment is based on high-dose methotrexate (HD-MTX), which crosses the blood-brain barrier. Secondary CNS lymphoma (SCNSL) can occur concomitantly with systemic lymphoma or later at relapse and generally has a dismal outcome. We reviewed disease characteristics and outcomes of 103 patients (44 PCNSL and 59 SCNSL) treated at our center between 2015 and 2020. Median ages at diagnosis were 64 and 62 years, respectively. In both groups, diffuse large B cell lymphoma (DLBCL) was the major histologic type; in SCNSL, other types were also seen. SCNSL, in contrast with PCNSL, manifested with smaller tumors or cerebrospinal fluid positivity. For SCNSL the mean interval to brain involvement was 18 months (0-138). The overall survival had a trend to worse in SCNSL; median survival 11 months versus 61 months in PCNSL (p = 0.089). Progression-f",
+        "journal": "Annals of hematology",
+        "year": "2023",
+        "authors": [
+          "Curry Lauren D",
+          "Munker Reinhold",
+          "Li Ning",
+          "Yan Donglin",
+          "Pryor Paul"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Central Nervous System Neoplasms",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Comorbidity",
+          "Retrospective Studies",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36367559/"
+      },
+      {
+        "pmid": "10392665",
+        "title": "Lymphoma in patients with rheumatoid arthritis: what is the evidence of a link with methotrexate?",
+        "abstract": "An increasing number of instances of lymphoma in patients with rheumatoid arthritis who are treated with methotrexate continue to appear. The majority of patients with lymphoproliferation have features of immunosuppression-associated lymphoma. Rheumatoid arthritis itself and the actions of methotrexate concur in leading to a immunosuppressed state. Possible oncogenic mechanisms and the risk factors for patients with rheumatoid arthritis to develop lymphoma while receiving methotrexate include: (i) intense immunosuppression and severe disease in combination with genetic predisposition and; (ii) an increased frequency of latent infection with prooncogenic viruses like Epstein-Barr virus. The aetiological role of methotrexate in the development of these lymphomas is supported by the spontaneous remission of these malignancies in some of patients with rheumatoid arthritis after methotrexate has been stopped. The physicians caring for patients with rheumatoid arthritis receiving methotrexat",
+        "journal": "Drug safety",
+        "year": "1999",
+        "authors": [
+          "Georgescu L",
+          "Paget S A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Comorbidity",
+          "Epstein-Barr Virus Infections",
+          "Female",
+          "Humans",
+          "Immunosuppression Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10392665/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:30:19.375657",
+  "success": true,
+  "error_message": null
+}

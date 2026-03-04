@@ -1,0 +1,597 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Insulin Human",
+    "disease": "IDDM 1",
+    "query_string": "Insulin Human AND IDDM 1"
+  },
+  "data": {
+    "query": "Insulin Human AND IDDM 1",
+    "results": [
+      {
+        "pmid": "37373160",
+        "title": "Anti-Islet Autoantibodies in Type 1 Diabetes.",
+        "abstract": "Anti-islet autoantibodies serve as key markers in immune-mediated type 1 diabetes (T1D) and slowly progressive T1D (SPIDDM), also known as latent autoimmune diabetes in adults (LADA). Autoantibodies to insulin (IAA), glutamic acid decarboxylase (GADA), tyrosine phosphatase-like protein IA-2 (IA-2A), and zinc transporter 8 (ZnT8A) are currently employed in the diagnosis, pathological analysis, and prediction of T1D. GADA can also be detected in non-diabetic patients with autoimmune diseases other than T1D and may not necessarily reflect insulitis. Conversely, IA-2A and ZnT8A serve as surrogate markers of pancreatic β-cell destruction. A combinatorial analysis of these four anti-islet autoantibodies demonstrated that 93-96% of acute-onset T1D and SPIDDM cases were diagnosed as immune-mediated T1D, while the majority of fulminant T1D cases were autoantibody-negative. Evaluating the epitopes and immunoglobulin subclasses of anti-islet autoantibodies help distinguish between diabetes-associ",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Kawasaki Eiji"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Autoantibodies",
+          "Autoimmune Diseases",
+          "Insulin",
+          "Insulin, Regular, Human",
+          "Glutamate Decarboxylase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37373160/"
+      },
+      {
+        "pmid": "38597269",
+        "title": "Association Between Type 1 Diabetes Mellitus and Eating Disorders: A Systematic Review and Meta-Analysis.",
+        "abstract": "Previous meta-analyses have shown mixed results regarding the association between eating disorders (EDs) and type 1 diabetes mellitus (T1DM). Our paper aimed to analyse different EDs and disordered eating behaviours that may be practiced by patients with T1DM.",
+        "journal": "Endocrinology, diabetes & metabolism",
+        "year": "2024",
+        "authors": [
+          "Dean Yomna E",
+          "Motawea Karam R",
+          "Aslam Muaaz",
+          "Pintado Jose J Loayza",
+          "Popoola-Samuel Helen A O"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "Diabetes Mellitus, Type 1",
+          "Bulimia",
+          "Feeding and Eating Disorders",
+          "Insulin",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38597269/"
+      },
+      {
+        "pmid": "38444317",
+        "title": "Efficacy of Semaglutide in Overweight and Obese Patients with Type 1 Diabetes.",
+        "abstract": "Introduction: More than two-thirds of patients with type 1 diabetes (T1D) are overweight (OW) and/or obese (OB) in the USA and Western Europe, resulting in insulin resistance as in type 2 diabetes. None of the currently available glucagon like polypeptide 1 (GLP-1) analogs are approved for patients with T1D. A higher dose of semaglutide has been approved by the Food and Drug Administration (FDA) for subjects with body mass index (BMI) >27 kg/m2. We evaluated the real-world use of semaglutide in patients with T1D. Methods: This was a retrospective chart review study of 50 OW or OB patients with T1D who were initiated on semaglutide and followed for 1 year. The control group comprised of 50 computer-matched patients (for sex, race, weight, BMI, and diabetes duration) during a similar time period and were not on any weight loss medications. Results: Most patients (92%) were non-Hispanic white in both arms. Mean ± standard deviation (SD) age and duration of diabetes were 42 ± 11 and 27 ± 1",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2024",
+        "authors": [
+          "Garg Satish K",
+          "Kaur Gurleen",
+          "Haider Zehra",
+          "Rodriquez Erika",
+          "Beatson Christie"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "United States",
+          "Humans",
+          "Overweight",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Prospective Studies",
+          "Retrospective Studies",
+          "Obesity",
+          "Glucagon-Like Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38444317/"
+      },
+      {
+        "pmid": "37607392",
+        "title": "Teplizumab: A Disease-Modifying Therapy for Type 1 Diabetes That Preserves β-Cell Function.",
+        "abstract": "In November 2022, teplizumab-mzwv became the first drug approved to delay the onset of stage 3 type 1 diabetes in adults and children age ≥8 years with stage 2 type 1 diabetes on the basis of data from the pivotal study TN-10.",
+        "journal": "Diabetes care",
+        "year": "2023",
+        "authors": [
+          "Herold Kevan C",
+          "Gitelman Stephen E",
+          "Gottlieb Peter A",
+          "Knecht Laura A",
+          "Raymond Ralph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "C-Peptide",
+          "Insulin, Regular, Human",
+          "Antibodies, Monoclonal, Humanized",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37607392/"
+      },
+      {
+        "pmid": "31876563",
+        "title": "Biosynthetic Human Insulin and Insulin Analogs.",
+        "abstract": "Biosynthetic human insulins and analogs have replaced animal insulins and permitted structural modifications to alter the rate of absorption, duration of action, improve reproducibility of effects, and modulate relative efficacy in various target tissues. Several forms of rapidly acting insulins nearly achieve rapid pharmacokinetics and pharmacodynamics similar to first-phase insulin release. There is need for even faster-acting analogs to mimic normal physiology and improve control of postprandial glycemic excursions. Two biosynthetic insulin analogs have sufficiently long duration of action for use as once-daily basal insulins; controversy persists regarding their respective risks of hypoglycemia and relative glycemic variability.",
+        "journal": "American journal of therapeutics",
+        "year": "2020",
+        "authors": [
+          "Rodbard Helena W",
+          "Rodbard David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin Infusion Systems",
+          "Insulin, Long-Acting",
+          "Insulin, Regular, Pork"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31876563/"
+      },
+      {
+        "pmid": "38489032",
+        "title": "Comparing Continuous Glucose Monitoring and Blood Glucose Monitoring in Adults With Inadequately Controlled, Insulin-Treated Type 2 Diabetes (Steno2tech Study): A 12-Month, Single-Center, Randomized Controlled Trial.",
+        "abstract": "To compare the 12-month effects of continuous glucose monitoring (CGM) versus blood glucose monitoring (BGM) in adults with insulin-treated type 2 diabetes.",
+        "journal": "Diabetes care",
+        "year": "2024",
+        "authors": [
+          "Lind Nanna",
+          "Christensen Merete B",
+          "Hansen Dorte L",
+          "Nørgaard Kirsten"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Male",
+          "Female",
+          "Insulin",
+          "Diabetes Mellitus, Type 2",
+          "Blood Glucose",
+          "Blood Glucose Self-Monitoring",
+          "Glycated Hemoglobin",
+          "Diabetes Mellitus, Type 1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38489032/"
+      },
+      {
+        "pmid": "38450851",
+        "title": "Type 1 diabetes: A new vision of the disease based on endotypes.",
+        "abstract": "Diagnosis and management of type 1 diabetes (T1D) have remained largely unchanged for the last several years. The management of the disease remains primarily focused on its phenotypical presentation and less on endotypes, namely the specific biological mechanisms behind the development of the disease. Furthermore, the treatment of T1D is essentially universal and indiscriminate-with patients administering insulin at varying dosages and frequencies to maintain adequate glycaemic control. However, it is now well understood that T1D is a heterogeneous disease with many different biological mechanisms (i.e. endotypes) behind its complex pathophysiology. A range of factors, including age of onset, immune system regulation, rate of β-cell destruction, autoantibodies, body weight, genetics and the exposome are recognised to play a role in the development of the condition. Patients can be classified into distinct diabetic subtypes based on these factors, which can be used to categorise patient",
+        "journal": "Diabetes/metabolism research and reviews",
+        "year": "2024",
+        "authors": [
+          "Weston Craig Sinclair",
+          "Boehm Bernhard O",
+          "Pozzilli Paolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Autoimmune Diseases",
+          "Insulin, Regular, Human",
+          "Autoantibodies",
+          "Body Weight"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38450851/"
+      },
+      {
+        "pmid": "36795053",
+        "title": "Examining the Acute Glycemic Effects of Different Types of Structured Exercise Sessions in Type 1 Diabetes in a Real-World Setting: The Type 1 Diabetes and Exercise Initiative (T1DEXI).",
+        "abstract": "Maintenance of glycemic control during and after exercise remains a major challenge for individuals with type 1 diabetes. Glycemic responses to exercise may differ by exercise type (aerobic, interval, or resistance), and the effect of activity type on glycemic control after exercise remains unclear.",
+        "journal": "Diabetes care",
+        "year": "2023",
+        "authors": [
+          "Riddell Michael C",
+          "Li Zoey",
+          "Gal Robin L",
+          "Calhoun Peter",
+          "Jacobs Peter G"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Hypoglycemia",
+          "Blood Glucose",
+          "Blood Glucose Self-Monitoring",
+          "Insulin Infusion Systems",
+          "Insulin",
+          "Insulin, Regular, Human",
+          "Exercise"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36795053/"
+      },
+      {
+        "pmid": "38444315",
+        "title": "Is It Time to Move Beyond TIR to TITR? Real-World Data from Over 20,000 Users of Continuous Glucose Monitoring in Patients with Type 1 and Type 2 Diabetes.",
+        "abstract": "The growing use of continuous glucose monitoring (CGM) has been supported by expert consensus and clinical guidelines on glycemic management in diabetes with time in range (TIR 70-180 mg/dL) representing a key CGM-derived glucose metric. Time in tight range (TITR) has also been proposed for clinical use, spanning largely normal glucose levels of 70-140 mg/dL. However, keeping such narrow glucose ranges can be challenging, and understanding the factors modulating TITR can help achieve these tight glycemic targets. Our real-life study aimed to evaluate the relationship between average glucose (AG) and TIR/TITR in a large cohort (n = 22,006) of CGM users, divided into four groups: self-identified as having type 1 diabetes (T1D) treated with insulin using multiple daily injections (MDI) or pumps; type 2 diabetes (T2D) on MDI or insulin pumps; T2D on basal insulin only; and T2D not on insulin treatment. The T2D groups, regardless of treatment type, displayed the highest TIR and TITR values,",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2024",
+        "authors": [
+          "Dunn Timothy C",
+          "Ajjan Ramzi A",
+          "Bergenstal Richard M",
+          "Xu Yongjin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Diabetes Mellitus, Type 1",
+          "Blood Glucose Self-Monitoring",
+          "Continuous Glucose Monitoring",
+          "Blood Glucose",
+          "Insulin, Regular, Human",
+          "Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38444315/"
+      },
+      {
+        "pmid": "35441466",
+        "title": "A randomized pharmacokinetic and pharmacodynamic trial of two regular human insulins demonstrates bioequivalence in type 1 diabetes and availability of biosimilar insulin may improve access to this medication.",
+        "abstract": "To compare the pharmacokinetic (PK) and pharmacodynamic (PD) effects and safety of therapeutic dosages of a regular insulin (experimental drug) produced by Bioton S.A. (Warsaw, Poland) versus Humulin® R, a regular insulin (reference drug) produced by Eli Lilly (Indianapolis, Indiana).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2022",
+        "authors": [
+          "Vencio Sérgio",
+          "Caiado-Vencio Rafael",
+          "Caixeta Leonardo Ferreira",
+          "Masierek Małgorzata",
+          "Mlynarski Wojciech"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Biosimilar Pharmaceuticals",
+          "Cross-Over Studies",
+          "Diabetes Mellitus, Type 1",
+          "Double-Blind Method",
+          "Glucose",
+          "Glucose Clamp Technique",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin, Isophane"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35441466/"
+      },
+      {
+        "pmid": "31301295",
+        "title": "The Case for Using Human Insulin.",
+        "abstract": "",
+        "journal": "The American journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Davidson Mayer B"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31301295/"
+      },
+      {
+        "pmid": "18715205",
+        "title": "Immunogenicity of human and bovine insulin in type 1 diabetes mellitus patients.",
+        "abstract": "The advantages of synthetic insulin (human insulin) over bovine insulin in the treatment of type 1 diabetes mellitus (DM) are much debated in terms of potency and purity. Immunogenicity is one of several factors that determine potency and safety. This study was designed to investigate and study the difference in immunogenicity of human and bovine insulin. We investigated anti-insulin antibody (AIAB) status in 69 type 1 DM patients receiving insulin therapy. Group 1 had 33 patients treated with bovine insulin, and group 2 had 32 patients treated with human insulin. All patients had received their respective insulin therapy for a minimum period of 1 year and had no history of change in insulin type. Forty-three subjects from the normal population were the control group.",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2008",
+        "authors": [
+          "Himanshu M",
+          "Bhat Chetan B",
+          "Ramchandran Sarita",
+          "Bhat K Geetha",
+          "Kumar Prasanna K M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Animals",
+          "Cattle",
+          "Child",
+          "Diabetes Mellitus, Type 1",
+          "Female",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18715205/"
+      },
+      {
+        "pmid": "18454569",
+        "title": "Insulin analog preparations and their use in children and adolescents with type 1 diabetes mellitus.",
+        "abstract": "Standard or 'traditional' human insulin preparations such as regular soluble insulin and neutral protamine Hagedorn (NPH) insulin have shortcomings in terms of their pharmacokinetic and pharmacodynamic properties that limit their clinical efficacy. Structurally modified insulin molecules or insulin 'analogs' have been developed with the aim of delivering insulin replacement therapy in a more physiological manner. In the last 10 years, five insulin analog preparations have become commercially available for clinical use in patients with type 1 diabetes mellitus: three 'rapid' or fast-acting analogs (insulin lispro, aspart, and glulisine) and two long-acting analogs (insulin glargine and detemir). This review highlights the specific pharmacokinetic properties of these new insulin analog preparations and focuses on their potential clinical advantages and disadvantages when used in children and adolescents with type 1 diabetes mellitus. The fast-acting analogs specifically facilitate more f",
+        "journal": "Paediatric drugs",
+        "year": "2008",
+        "authors": [
+          "Miles Harriet L",
+          "Acerini Carlo L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Diabetes Mellitus, Type 1",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18454569/"
+      },
+      {
+        "pmid": "38295386",
+        "title": "An Insulin-Chromogranin A Hybrid Peptide Activates DR11-Restricted T Cells in Human Type 1 Diabetes.",
+        "abstract": "Hybrid insulin peptides (HIPs) formed through covalent cross-linking of proinsulin fragments to secretory granule peptides are detectable within murine and human islets. The 2.5HIP (C-peptide-chromogranin A [CgA] HIP), recognized by the diabetogenic BDC-2.5 clone, is a major autoantigen in the nonobese diabetic mouse. However, the relevance of this epitope in human disease is currently unclear. A recent study probed T-cell reactivity toward HIPs in patients with type 1 diabetes, documenting responses in one-third of the patients and isolating several HIP-reactive T-cell clones. In this study, we isolated a novel T-cell clone and showed that it responds vigorously to the human equivalent of the 2.5HIP (designated HIP9). Although the responding patient carried the risk-associated DRB1*04:01/DQ8 haplotype, the response was restricted by DRB1*11:03 (DR11). HLA class II tetramer staining revealed higher frequencies of HIP9-reactive T cells in individuals with diabetes than in control partic",
+        "journal": "Diabetes",
+        "year": "2024",
+        "authors": [
+          "Callebaut Aïsha",
+          "Guyer Perrin",
+          "Baker Rocky L",
+          "Gallegos Joylynn B",
+          "Hohenstein Anita C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Animals",
+          "Mice",
+          "Insulin",
+          "T-Lymphocytes",
+          "Proinsulin",
+          "Diabetes Mellitus, Type 1",
+          "C-Peptide",
+          "Chromogranin A",
+          "Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38295386/"
+      },
+      {
+        "pmid": "16193096",
+        "title": "Insulin glulisine.",
+        "abstract": "In patients with diabetes, the benefit of conventional insulin therapy can be limited due to difficulty in achieving tight glycemic control, which is critical to reducing the risk of long-term diabetes-related complications. The recent development of recombinant analogs of regular human insulin is changing the clinical management of diabetes. One of the newest members of this class of hypoglycemic agents is insulin glulisine, a rapid-acting insulin analog with a pharmacokinetic profile that more closely mimics the natural pattern of insulin secretion than regular human insulin. Subcutaneous administration of insulin glulisine has a faster subcutaneous absorption, a more rapid onset of activity, and a shorter duration of action than regular human insulin. These properties of insulin glulisine allow it to be administered shortly before or soon after meals by subcutaneous injection or by continuous subcutaneous pump infusion. Insulin glulisine effectively controls postprandial glucose exc",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2005",
+        "authors": [
+          "Cox Sandra L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16193096/"
+      },
+      {
+        "pmid": "25644227",
+        "title": "Clinical efficacy and safety of insulin aspart compared with regular human insulin in patients with type 1 and type 2 diabetes: a systematic review and meta-analysis.",
+        "abstract": "Prandial insulin is a key component in insulin treatment of type 1 diabetes mellitus (T1DM) and in many patients with type 2 diabetes mellitus (T2DM). The evidence-based data supporting the choice of an insulin preparation are still limited.",
+        "journal": "Polskie Archiwum Medycyny Wewnetrznej",
+        "year": "2015",
+        "authors": [
+          "Wojciechowski Piotr",
+          "Niemczyk-Szechowska Patrycja",
+          "Olewińska Elżbieta",
+          "Jaros Patrycja",
+          "Mierzejewska Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin Aspart",
+          "Postprandial Period"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25644227/"
+      },
+      {
+        "pmid": "27362975",
+        "title": "Short-acting insulin analogues versus regular human insulin for adults with type 1 diabetes mellitus.",
+        "abstract": "Short-acting insulin analogue use for people with diabetes is still controversial, as reflected in many scientific debates.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2016",
+        "authors": [
+          "Fullerton Birgit",
+          "Siebenhofer Andrea",
+          "Jeitler Klaus",
+          "Horvath Karl",
+          "Semlitsch Thomas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Diabetes Mellitus, Type 1",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin Aspart",
+          "Insulin Lispro",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27362975/"
+      },
+      {
+        "pmid": "36856574",
+        "title": "Frequency and Detection of Insulin Infusion Site Failure in the Type 1 Diabetes Exchange Online Community.",
+        "abstract": "Insulin infusion site (IIS) failures are a weakness in insulin pump therapy. We examined experience with IIS failures among U.S. individuals with diabetes on insulin pump through survey distributed to the T1D Exchange Online Community. Demographic factors, IIS characteristics, and diabetes-related perceptions were assessed by logistic regression to determine odds of higher (≥1 per month) or lower (<1 per month) reported IIS failure frequency. IIS failures were common; 41.4% reported ≥1 per month. IIS failure is usually detected through development of hyperglycemia rather than pump alarm. No assessed demographic factor or IIS characteristic was predictive; however, higher odds of ≥1 failure per month were associated with feelings of burnout (odds ratios [OR] 1.489 [1.024, 2.165]) and considering pump discontinuation (OR 2.233 [1.455, 3.427]). IIS failures are frequent and unpredictable, typically require hyperglycemia for detection, and are associated with negative perceptions. More sho",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2023",
+        "authors": [
+          "Hughes Michael S",
+          "Douvas Julia L",
+          "Layfield-Bryan Madison",
+          "Blanco Luis E",
+          "Gray John Clark"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Insulin",
+          "Hypoglycemic Agents",
+          "Insulin, Regular, Human",
+          "Hyperglycemia",
+          "Insulin Infusion Systems"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36856574/"
+      },
+      {
+        "pmid": "28099755",
+        "title": "Comparing effects of insulin analogues and human insulin on nocturnal glycaemia in hypoglycaemia-prone people with Type 1 diabetes.",
+        "abstract": "To assess the difference between analogue and human insulin with regard to nocturnal glucose profiles and risk of hypoglycaemia in people with recurrent severe hypoglycaemia.",
+        "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+        "year": "2017",
+        "authors": [
+          "Kristensen P L",
+          "Tarnow L",
+          "Bay C",
+          "Nørgaard K",
+          "Jensen T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Blood Glucose",
+          "Circadian Rhythm",
+          "Cross-Over Studies",
+          "Diabetes Mellitus, Type 1",
+          "Female",
+          "Humans",
+          "Hypoglycemia",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28099755/"
+      },
+      {
+        "pmid": "38019818",
+        "title": "Hepatic insulin synthesis increases in rat models of diabetes mellitus type 1 and 2 differently.",
+        "abstract": "Insulin-positive (+) cells (IPCs), detected in multiple organs, are of great interest as a probable alternative to ameliorate pancreatic beta-cells dysfunction and insulin deficiency in diabetes. Liver is a potential source of IPCs due to it common embryological origin with pancreas. We previously demonstrated the presence of IPCs in the liver of healthy and diabetic rats, but detailed description and analysis of the factors, which potentially can induced ectopic hepatic expression of insulin in type 1 (T1D) and type 2 diabetes (T2D), were not performed. In present study we evaluate mass of hepatic IPCs in the rat models of T1D and T2D and discuss factors, which may stimulate it generation: glycaemia, organ injury, involving of hepatic stem/progenitor cell compartment, expression of transcription factors and inflammation. Quantity of IPCs in the liver was up by 1.7-fold in rats with T1D and 10-fold in T2D compared to non-diabetic (ND) rats. We concluded that ectopic hepatic expression ",
+        "journal": "PloS one",
+        "year": "2023",
+        "authors": [
+          "Abidov Musa",
+          "Sokolova Ksenia",
+          "Danilova Irina",
+          "Baykenova Madina",
+          "Gette Irina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Insulin",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Diabetes Mellitus, Experimental",
+          "Cell Differentiation",
+          "Insulin-Secreting Cells",
+          "Insulin, Regular, Human",
+          "Liver"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38019818/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:54:18.840738",
+  "success": true,
+  "error_message": null
+}

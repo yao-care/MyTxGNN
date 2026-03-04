@@ -1,0 +1,103 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clobetasol Propionate",
+    "disease": "scalp dermatosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00715975",
+      "title": "Clinical Trial of Effectiveness and Safety of Topical Halobetasol Propionate in the Treatment of Patients With Psoriasis Plate, and as Comparator the Product Psorex (Clobetasol Propionate).",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-08",
+      "country": "Brazil",
+      "enrollment": 140,
+      "brief_summary": "The Psoriasis and a chronic dermatosis characterized by abnormal proliferation of cells epithelial, vessel dilation and inflammation locally, which presents erythematous-scaly lesions in various areas of the body, preferably in the scalp, region and religious joints as elbows and knees. It occurs equally in both sexes and can appear at any age, and the mean age for the onset of the disease and around 27.3 years.\n\nThe halobetasol propionate and an ultra-potent corticoid. Its chemical structure an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes, adults over 18 years, holders of psoriasis plating of mild to moderate,\n* Patients with area of involvement of up to 20% of body surface,\n* Patients with good physical and mental health\n* Patients who agree with the purposes of the study and sign the In",
+      "endpoints": [
+        "assess the improvement of symptoms of psoriasis"
+      ],
+      "sponsor": "Azidus Brasil",
+      "url": "https://clinicaltrials.gov/study/NCT00715975"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03535233",
+      "title": "Combined Topical 5% Minoxidil and Potent Topical Corticosteroid Versus Intralesional Corticosteroid in the Treatment of Alopecia Areata A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2017-09",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "Alopecia areata (AA) presents with circumscribed patches of non-scarring hair loss. It inflects a significant psychological and social burden. Many treatment options are used for the treatment of AA. Randomized controlled trials comparing intralesional and topical therapy and comparing combinations are few.\n\nThe aim of this work is to evaluate the efficacy of combined topical 5% minoxidil and potent topical corticosteroid therapy compared to intralesional triamcinolone injection in alopecia area",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients presenting with scalp alopecia areata, patchy type, of at least 2 months duration.\n\nExclusion Criteria:\n\n* Alopecia totalis and alopecia universalis.\n* Alopecia areata solely affecting the beard.\n* Pregnant and lactating.\n* Patients known to have autoimmune diseases e",
+      "endpoints": [
+        "Clinical assessment using SALT score (Severity of Alopecia Tool score)"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT03535233"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04207931",
+      "title": "Treatment Results for Patients With Central Centrifugal Cicatricial Alopecia (CCCA): a Multicenter Prospective Study",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2018-04-30",
+      "completion_date": "2026-08",
+      "country": "United States",
+      "enrollment": 250,
+      "brief_summary": "The objective of this study is to examine photos of CCCA patients taken before and after treatment to compare treatment outcomes between different treatment groups",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* African-American women, ages 18-60 years old\n* with a clinical diagnosis and biopsy-proven CCCA, with Central Scalp Alopecia Scale severity 1 through 4 will be included in this study\n* These subjects will be seen and treated in Wake Forest Baptist Health Dermatology Outpatient",
+      "endpoints": [
+        "Central Scalp Alopecia Photographic Scale in African American Women",
+        "Central Scalp Alopecia Photographic Scale in African American Women"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04207931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01453686",
+      "title": "A Randomized Controlled Trial of Clobetasol Propionate 0.05% Cream Versus Hydrocortisone 1% Cream in Children With Alopecia Areata",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "2003-08",
+      "country": "Canada",
+      "enrollment": 41,
+      "brief_summary": "The use of topical steroids in the treatment of alopecia areata in children is common practice. However, no particular potency of steroid is accepted as the standard treatment due to the paucity of high quality evidence in the dermatology literature to substantiate their use. Two randomized controlled trials exist assessing topical steroid efficacy in this disorder, both have methodological limitations. The question remains as to which topical steroid is safe and efficacious for use. We performe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 2 to 16 years\n* New patients presenting to The Hospital for Sick Children\n* Clinical confirmation of alopecia areata\n* Hair loss between 10 -75%\n\nExclusion Criteria:\n\n* Skin or medical problems requiring use of oral steroids\n* Immunosuppressants or PUVA for 4 weeks prior t",
+      "endpoints": [
+        "Change in scalp surface area affected over time"
+      ],
+      "sponsor": "The Hospital for Sick Children",
+      "url": "https://clinicaltrials.gov/study/NCT01453686"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06120140",
+      "title": "A Phase 2, Open-Label, Randomized Trial Evaluating the Impact of Enhanced Versus Standard Dermatologic Management on Selected Dermatologic Adverse Events Among Patients With Locally Advanced or Metastatic EGFR-Mutated NSCLC Treated First-Line With Amivantamab + Lazertinib",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-16",
+      "completion_date": "2032-01-31",
+      "country": "South Korea, Brazil, France, Spain, Taiwan, Turkey (Türkiye), Germany, China, Malaysia, Argentina, United States",
+      "enrollment": 300,
+      "brief_summary": "The purpose of this study is to evaluate whether enhanced dermatologic management can reduce incidence of grade greater than or equal to (\\>=) 2 dermatologic adverse events of interest (DAEIs) when compared with standard-of-care skin management and with modified enhanced dermatologic management in participants with locally advanced or metastatic stage IIIB/C-IV epidermal growth factor receptor (EGFR)-mutated non-small cell lung cancer (NSCLC) treated first-line with amivantamab and lazertinib. T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed, locally advanced or metastatic non-small cell lung cancer (NSCLC); Is treatment naive and not amenable to curative therapy including surgical resection or (chemo) radiation. Adjuvant or neoadjuvant therapy for Stage I, Stage II o",
+      "endpoints": [
+        "Number of Participants With Grade Greater Than or Equal to (>=) 2 Dermatologic Adverse Events of Interest (DAEIs) Within 12 Weeks After Initiation of Anticancer Treatment"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT06120140"
+    }
+  ],
+  "timestamp": "2026-03-04T15:04:18.031088",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,624 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Meloxicam",
+    "disease": "rheumatoid arthritis",
+    "query_string": "Meloxicam AND rheumatoid arthritis"
+  },
+  "data": {
+    "query": "Meloxicam AND rheumatoid arthritis",
+    "results": [
+      {
+        "pmid": "16863437",
+        "title": "Meloxicam in rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis (RA), a chronic inflammatory multisystem disorder marked by joint pain, stiffness, swelling and multiple systemic involvements, requires a multifaceted approach for its management. It includes symptomatic treatment with analgesics as well as disease-modifying medications to alter the course of RA over time. NSAIDS have been widely used for their symptomatic effects, but their use is not free from adverse effects, which may include life-threatening adverse events such as gastrointestinal (GI) bleeding and perforation. Meloxicam, an oxicam derivative that is a member of the enolic acid group of NSAIDs, has recently been approved by the US FDA for use in RA and osteoarthritis. At the FDA-recommended doses meloxicam is COX-2 preferential. By virtue of this COX-2 preferential activity it is expected to have lower GI toxicity as compared with COX-2 nonselective NSAIDs. Clinical trials have shown that meloxicam at 7.5 - 15 mg/day is as effective as diclofenac, piroxicam a",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2005",
+        "authors": [
+          "Ahmed Mansoor",
+          "Khanna Dinesh",
+          "Furst Daniel E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular System",
+          "Cyclooxygenase Inhibitors",
+          "Gastrointestinal Tract",
+          "Humans",
+          "Kidney",
+          "Meloxicam",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16863437/"
+      },
+      {
+        "pmid": "32164967",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam, an oxicam derivative: 4-Hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2- benzothiazine-3-carboxamide 1,1-dioxide, is a nonsteroidal anti-inflammatory drug (NSAID). It is a selective inhibitor of cyclooxygenase-2 (COX-2). It is used in the management of rheumatoid arthritis, acute exacerbations of osteoarthritis, ankylosing spondylitis and juvenile idiopathic arthritis. It is given in a single oral dose of 7.5mg, increased if necessary to a maximum of 15mg daily (7.5mg in the elderly). It may also be given by rectal suppository in doses similar to those used orally. The reported side effects of meloxicam are similar to those of nonsteroidal anti-inflammatory drugs (NSAIDs), such as abdominal pain, anemia, and edema. There is also an increased risk of serious gastrointestinal (GI) adverse events, including ulceration and bleeding. This profile is prepared to discuss and explain physical characteristics, Proprietary and nonproprietary names of meloxicam. It also includes metho",
+        "journal": "Profiles of drug substances, excipients, and related methodology",
+        "year": "2020",
+        "authors": [
+          "Khalil Nasr Y",
+          "Aldosari Khalid F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Humans",
+          "Meloxicam",
+          "Thiazines",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32164967/"
+      },
+      {
+        "pmid": "8882380",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam is a new nonsteroidal anti-inflammatory drug (NSAID) developed for the treatment of rheumatoid arthritis and osteoarthritis. It has greater in vitro and in vivo inhibitory action against the inducible isoform of cyclo-oxygenase (COX-2), which is implicated in the inflammatory response, than against the constitutive form of this enzyme (COX-1), inhibition of which is associated with gastric, renal and other adverse effects. It has anti-inflammatory effects similar to or better than those of other NSAIDs in animal models, and a greater therapeutic ratio (ulcerogenic potential:efficacy in adjuvant arthritis). In healthy volunteers meloxicam 7.5 or 15 mg caused less gastrointestinal mucosal damage on endoscopy than piroxicam 20 mg, with a significant difference between meloxicam 7.5 mg and piroxicam. In comparative clinical trials, meloxicam was at least as effective as piroxicam and naproxen in patients with rheumatoid arthritis, and diclofenac and piroxicam in patients with ost",
+        "journal": "Drugs",
+        "year": "1996",
+        "authors": [
+          "Noble S",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Biological Availability",
+          "Clinical Trials as Topic",
+          "Half-Life",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8882380/"
+      },
+      {
+        "pmid": "12387696",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam (Mobic trade mark, Boehringer Ingelheim) is a relatively new oral non-steroidal anti-inflammatory drug (NSAID) approved for the treatment of osteoarthritis in the US. It has also been evaluated for the treatment of rheumatoid arthritis, ankylosing spondylitis and acute 'rheumatic' pain. Meloxicam has been shown to be COX-2 preferential, particularly at its lowest therapeutic dose, and is anti-inflammatory by inhibiting prostanoid synthesis in inflammatory cells. Since it is COX-2 preferential, it would be expected to have less gastrointestinal toxicity than non-selective NSAIDs. In clinical trials of meloxicam in osteoarthritis, it was found to be as effective as piroxicam, diclofenac and naproxen with less clinical gastrointestinal symptoms and less perforations, obstructions and bleeds by meta-analysis. Adverse events, including peripheral oedema and hypertension, occurred at a similar rate as with traditional NSAIDs.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2002",
+        "authors": [
+          "Fleischmann Roy",
+          "Iqbal Imran",
+          "Slobodin Gleb"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Drug Interactions",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Pain",
+          "Product Surveillance, Postmarketing",
+          "Spondylitis, Ankylosing",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12387696/"
+      },
+      {
+        "pmid": "18405470",
+        "title": "Cyclooxygenase-2 selective non-steroidal anti-inflammatory drugs (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis and rheumatoid arthritis: a systematic review and economic evaluation.",
+        "abstract": "To review the clinical effectiveness and cost-effectiveness of cyclooxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drugs (NSAIDs) (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis (OA) and rheumatoid arthritis (RA).",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2008",
+        "authors": [
+          "Chen Y-F",
+          "Jobanputra P",
+          "Barton P",
+          "Bryan S",
+          "Fry-Smith A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Cost-Benefit Analysis",
+          "Cyclooxygenase 2 Inhibitors",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Markov Chains",
+          "Models, Econometric",
+          "Omeprazole",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18405470/"
+      },
+      {
+        "pmid": "9034984",
+        "title": "Efficacy and safety of meloxicam in patients with rheumatoid arthritis.",
+        "abstract": "To evaluate the efficacy and safety of meloxicam, a new acidic enolic nonsteroidal anti-inflammatory drug, at doses of 7.5 and 15 mg once daily in patients with rheumatoid arthritis (RA).",
+        "journal": "The Journal of rheumatology",
+        "year": "1997",
+        "authors": [
+          "Lemmel E M",
+          "Bolten W",
+          "Burgos-Vargas R",
+          "Platt P",
+          "Nissilä M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Demography",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Joints",
+          "Male",
+          "Meloxicam"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9034984/"
+      },
+      {
+        "pmid": "11339515",
+        "title": "Comparison of intramuscular and oral meloxicam in rheumatoid arthritis patients.",
+        "abstract": "This double-blind, double-dummy, two-way comparative trial evaluated the overall efficacy and tolerability of intramuscular (im) vs oral meloxicam.",
+        "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+        "year": "2001",
+        "authors": [
+          "Combe B",
+          "Vélicitat P",
+          "Garzón N",
+          "Bluhmki E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cyclooxygenase Inhibitors",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Injections, Intramuscular"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11339515/"
+      },
+      {
+        "pmid": "28597983",
+        "title": "Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis is a systemic auto-immune disorder that causes widespread and persistent inflammation of the synovial lining of joints and tendon sheaths. Presently, there is no cure for rheumatoid arthritis and treatment focuses on managing symptoms such as pain, stiffness and mobility, with the aim of achieving stable remission and improving mobility. Celecoxib is a selective non-steroidal anti-inflammatory drug (NSAID) used for treatment of people with rheumatoid arthritis.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Fidahic Mahir",
+          "Jelicic Kadic Antonia",
+          "Radic Mislav",
+          "Puljak Livia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Myocardial Infarction",
+          "Pain Measurement",
+          "Randomized Controlled Trials as Topic",
+          "Stomach Ulcer",
+          "Stroke",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28597983/"
+      },
+      {
+        "pmid": "35175701",
+        "title": "[Meloxicam clinical effects].",
+        "abstract": "Pain syndromes, acute and chronic, against the background of inflammatory diseases (such as osteoarthritis (OA)), degenerative-dystrophic changes (involutive process, trauma) or systemic diseases (rheumatoid arthritis, etc.) dictate a steady increase in the intake of nonsteroidal anti-inflammatory drugs (NSAIDs). The choice of the most «safe NSAID» is based on the assessment of the toxicity index (the ratio when blocking cyclooxygenase (COX)) and the development of relative risks (the benefit/risk ratio). As well as those adverse events that can be detected with individual sensitivity to a specific NSAIDs, taking into account the anamnesis of previous diseases and intolerance to NSAIDs, existing chronic diseases (gastrointestinal tract, cardiovascular system, type 2 diabetes mellitus), limiting the appointment of NSAIDs. Considering these circumstances, the NSAID meloxicam (Amelotex) can be recommended for the treatment of various genesis pain syndromes. A number of studies have demons",
+        "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+        "year": "2022",
+        "authors": [
+          "Shavlovskaya O A",
+          "Bokova I A",
+          "Shavlovskiy N I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35175701/"
+      },
+      {
+        "pmid": "11398914",
+        "title": "Rofecoxib: a review of its use in the management of osteoarthritis, acute pain and rheumatoid arthritis.",
+        "abstract": "Rofecoxib is a selective cyclo-oxygenase (COX)-2 inhibitor which has little or no effect on the COX-1 isoenzyme at doses up to 1000 mg/day. Rofecoxib has greater selectivity for COX-2 than celecoxib, meloxicam, diclofenac and indomethacin. In well-controlled clinical trials, rofecoxib 12.5 to 500 mg/day has been evaluated for its efficacy in the treatment of osteoarthritis, acute pain and rheumatoid arthritis [lower dosages (5 to 125 mg/day) were generally used in the chronic pain indications]. In the treatment of patients with osteoarthritis, rofecoxib was more effective in providing symptomatic relief than placebo, paracetamol (acetaminophen) and celecoxib and was similar in efficacy to ibuprofen, diclofenac, naproxen and nabumetone. Overall, both the physician's assessment of disease status and the patient's assessment of response to therapy tended to favour rofecoxib. In patients with postsurgical dental pain, pain after spinal fusion or orthopaedic surgery, or primary dysmenorrhoe",
+        "journal": "Drugs",
+        "year": "2001",
+        "authors": [
+          "Matheson A J",
+          "Figgitt D P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase Inhibitors",
+          "Humans",
+          "Lactones",
+          "Osteoarthritis",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11398914/"
+      },
+      {
+        "pmid": "33771151",
+        "title": "Clinical safety of total glucosides of paeony adjuvant therapy for rheumatoid arthritis treatment: a systematic review and meta-analysis.",
+        "abstract": "Total glucosides of paeony (TGP), an active compound extracted from the roots of Paeonia lactiflora Pallas, has been increasingly used as the adjunctive therapy for rheumatoid arthritis (RA) patients. Though TGP could mitigate the unanticipated adverse effects during the conventional treatment of RA, high-quality evidence-based meta-analysis data on this subject are still insufficient. The objective of this study is to evaluate the clinical safety of TGP adjuvant therapy in the RA treatment.",
+        "journal": "BMC complementary medicine and therapies",
+        "year": "2021",
+        "authors": [
+          "Liu Bin",
+          "Meng Xiang",
+          "Ma Yanfang",
+          "Li Huizhen",
+          "Liu Yuqi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Drug Therapy, Combination",
+          "Glucosides",
+          "Humans",
+          "Methotrexate",
+          "Paeonia",
+          "Phytochemicals",
+          "Phytotherapy",
+          "Plant Roots",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33771151/"
+      },
+      {
+        "pmid": "24362788",
+        "title": "The concomitant use of meloxicam and methotrexate does not clearly increase the risk of silent kidney and liver damages in patients with rheumatoid arthritis.",
+        "abstract": "We investigated whether the concomitant use of meloxicam and methotrexate might induce kidney and liver damages in patients with rheumatoid arthritis (RA). We enrolled 101 RA patients with normal kidney and liver functions taking meloxicam and methotrexate concomitantly for more than 6 months. Blood and urine tests were performed. Estimated glomerular filtration rate (eGFR) and liver stiffness measurement (LSM) were used for evaluating silent kidney and liver damages. Ultrasonography was also performed to exclude structural abnormalities. We adopted 90 mL/min/1.73 mm(2) and 5.3 kPa as the cutoff for an abnormal eGFR and LSM. The mean age (85 women) was 51.9 years. The mean eGFR was 97.0 mL/min/1.73 m(2) and the mean LSM was 4.7 kPa. The mean weekly dose of methotrexate was 13.4 mg. The mean weekly dose of methotrexate did not correlate with eGFR or LSM. Neither the cumulative dose of meloxicam or methotrexate nor the mean weekly dose of methotrexate showed the significant odds ratio or",
+        "journal": "Rheumatology international",
+        "year": "2014",
+        "authors": [
+          "Park Hee-Jin",
+          "Park Min-Chan",
+          "Park Yong-Beom",
+          "Lee Soo-Kon",
+          "Lee Sang-Won"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Asymptomatic Diseases",
+          "Chemical and Drug Induced Liver Injury",
+          "Cohort Studies",
+          "Drug Therapy, Combination",
+          "Elasticity Imaging Techniques"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24362788/"
+      },
+      {
+        "pmid": "33509333",
+        "title": "Pulmonary Manifestations of Rheumatoid Arthritis.",
+        "abstract": "OBJECTIVE: To describe the case of an 88-yearold male with rheumatoid arthritis who developed pulmonary manifestations. Treatment for his RA previously included various biologics, while at the time of pulmonary consultation included meloxicam, methotrexate, and abatacept. Following chest scans, bronchoscopy, needle biopsy, pulmonary function testing, and a thoracentesis, the diagnosis of pleural effusion and nodules associated with rheumatoid arthritis was determined. The patient was recommended to follow-up with the pulmonologist but was lost to follow-up because of nonpulmonary and nonrheumatoid arthritis complications.<BR/> SETTINGS: Ambulatory clinic pharmacy practice, Community pharmacy, Consultant pharmacy practice.<BR/> PRACTICE CONSIDERATIONS: Drugs used to treat rheumatoid arthritis may produce pulmonary toxicity similar to what is seen with the disease itself. Drug therapy may require modification if identified as an offending agent causing pulmonary manifestations. If fibros",
+        "journal": "The Senior care pharmacist",
+        "year": "2021",
+        "authors": [
+          "Christensen Keith J",
+          "Malesker Mark A",
+          "Jagan Nikhil",
+          "Moore Douglas R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abatacept",
+          "Aged, 80 and over",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Biopsy",
+          "Bronchoscopy",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Humans",
+          "Lung"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33509333/"
+      },
+      {
+        "pmid": "8630633",
+        "title": "A long-term study to evaluate the safety and efficacy of meloxicam therapy in patients with rheumatoid arthritis.",
+        "abstract": "Meloxicam is a new non-steroidal anti-inflammatory drug (NSAID), which has a higher activity against cyclooxygenase-2 (COX-2) than against cyclooxygenase-1 (COX-1), with potentially high anti-inflammatory and analgesic action. This study was designed to assess the long-term safety and efficacy of meloxicam 15 mg daily. Three hundred and fifty-seven patients (aged 19-84 yr, mean 56 yr) with rheumatoid arthritis (RA) received meloxicam 15 mg orally once daily, for up to 18 months. Sixty-six per cent of patients remained on therapy for 18 months. Mean global efficacy, assessed by each patient on a visual analogue scale (0 cm = excellent, 10 cm = useless), was 3.32 +/- 3.1 cm at the last study visit (all patients included) and 2.33 +/- 2.25 cm after 18 months. Health status, general condition, morning stiffness, grip strength of right hand, Ritchie joint index, pain in the morning and pain at night all improved significantly. Efficacy was maintained through the study. Only 11.4% of patient",
+        "journal": "British journal of rheumatology",
+        "year": "1996",
+        "authors": [
+          "Huskisson E C",
+          "Ghozlan R",
+          "Kurthen R",
+          "Degner F L",
+          "Bluhmki E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Drug Administration Schedule",
+          "Drug Tolerance",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8630633/"
+      },
+      {
+        "pmid": "12534638",
+        "title": "Population pharmacokinetic analysis of meloxicam in rheumatoid arthritis patients.",
+        "abstract": "To perform a nonlinear mixed effect modelling (NONMEM) population pharmacokinetic analysis of meloxicam plasma concentrations in rheumatoid arthritis (RA) patients participating in three clinical trials, and to evaluate the effects of age, weight, gender and concomitant medications on meloxicam pharmacokinetics.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "2003",
+        "authors": [
+          "Meineke Ingolf",
+          "Türck Dietrich"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12534638/"
+      },
+      {
+        "pmid": "11908554",
+        "title": "Dose response and safety study of meloxicam up to 22.5 mg daily in rheumatoid arthritis: a 12 week multicenter, double blind, dose response study versus placebo and diclofenac.",
+        "abstract": "This Phase III, placebo and active controlled, multicenter trial evaluated the efficacy and safety of meloxicam 7.5, 15, and 22.5 mg daily for the treatment of rheumatoid arthritis (RA).",
+        "journal": "The Journal of rheumatology",
+        "year": "2002",
+        "authors": [
+          "Furst Daniel E",
+          "Kolba Karen S",
+          "Fleischmann Roy",
+          "Silverfield Joel",
+          "Greenwald Maria"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Arthritis, Rheumatoid",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Cyclooxygenase Inhibitors",
+          "Diclofenac",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11908554/"
+      },
+      {
+        "pmid": "33477357",
+        "title": "Anti-Inflammatory and Analgesic Effects of TRPV1 Polypeptide Modulator APHC3 in Models of Osteo- and Rheumatoid Arthritis.",
+        "abstract": "Arthritis is a widespread inflammatory disease associated with progressive articular surface degradation, ongoing pain, and hyperalgesia causing the development of functional limitations and disability. TRPV1 channel is one of the high-potential targets for the treatment of inflammatory diseases. Polypeptide APHC3 from sea anemone Heteractis crispa is a mode-selective TRPV1 antagonist that causes mild hypothermia and shows significant anti-inflammatory and analgesic activity in different models of pain. We evaluated the anti-inflammatory properties of APHC3 in models of monosodium iodoacetate (MIA)-induced osteoarthritis and complete Freund's adjuvant (CFA)-induced rheumatoid monoarthritis in comparison with commonly used non-steroidal anti-inflammatory drugs (NSAIDs) such as diclofenac, ibuprofen, and meloxicam. Subcutaneous administration of APHC3 (0.1 mg/kg) significantly reversed joint swelling, disability, grip strength impairment, and thermal and mechanical hypersensitivity. The ",
+        "journal": "Marine drugs",
+        "year": "2021",
+        "authors": [
+          "Logashina Yulia A",
+          "Palikova Yulia A",
+          "Palikov Viktor A",
+          "Kazakov Vitaly A",
+          "Smolskaya Sviatlana V"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Experimental",
+          "Arthritis, Rheumatoid",
+          "Cnidarian Venoms",
+          "Disease Models, Animal",
+          "Disease Progression",
+          "Intercellular Signaling Peptides and Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33477357/"
+      },
+      {
+        "pmid": "34553902",
+        "title": "Se-[(2,2-Dimethyl-1,3-dioxolan-4-yl)methyl] 4-Chlorobenzoselenolate Attenuates Inflammatory Response, Nociception, and Affective Disorders Related to Rheumatoid Arthritis in Mice.",
+        "abstract": "Despite major advances, not all patients achieve rheumatoid arthritis (RA) remission, thus highlighting a pressing need for new therapeutic treatments. Given this scenario, this study sought to evaluate Se-[(2,2-dimethyl-1,3-dioxolan-4-yl)methyl] 4-chlorobenzoselenolate (Se-DMC) potential on a complete Freund's adjuvant (CFA)-induced unilateral arthritis model. The effects of Se-DMC (5 mg/kg; oral dose) and meloxicam (5 mg/kg; oral dose), both administered to animals daily for 14 days, on paw edema, mechanical sensitivity, neurobehavioral deficits (anxiogenic- and depressive-like behaviors), Na+/K+-ATPase activity, oxidative stress, and inflammation were evaluated in male Swiss mice exposed to CFA (intraplantar injection of 0.1 mL; 10 mg/mL). Se-DMC reduced the paw withdrawal threshold and CFA-induced paw edema. Histopathological results revealed the antiedematogenic potential of the compound, which was evidenced by lower quantities of dilated lymphatic vessels compared with the CFA gr",
+        "journal": "ACS chemical neuroscience",
+        "year": "2021",
+        "authors": [
+          "Wilhelm Ethel A",
+          "Soares Paola S",
+          "Reis Angélica S",
+          "Motta Ketlyn P",
+          "Lemos Briana B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arthritis, Rheumatoid",
+          "Freund's Adjuvant",
+          "Humans",
+          "Inflammation",
+          "Male",
+          "Mice",
+          "Mood Disorders",
+          "Nociception"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34553902/"
+      },
+      {
+        "pmid": "8630632",
+        "title": "A six-month double-blind trial to compare the efficacy and safety of meloxicam 7.5 mg daily and naproxen 750 mg daily in patients with rheumatoid arthritis.",
+        "abstract": "Meloxicam is a new non-steroidal anti-inflammatory drug (NSAID) which preferentially inhibits cyclooxygenase-2 over cyclooxygenase-1. A double-blind parallel-group trial compared meloxicam 7.5 mg once daily (n = 199) with naproxen 750 mg (n = 180) in rheumatoid arthritis. There was no significant difference between the groups regarding the primary efficacy variables (global efficacy assessment by patient and investigator, number of painful/tender and swollen joints) and eight of the ten secondary efficacy endpoints. Only the swollen joint severity index and the number of discontinuations due to lack of efficacy favoured naproxen 750 mg significantly over meloxicam 7.5 mg. Meloxicam was better tolerated in the gastrointestinal (GI) tract, with fewer GI adverse events in the meloxicam-treated group (30.3%) than in the naproxen-treated group (44.7%), where two patients developed ulcers. No ulcers were seen in meloxicam patients. Significantly more patients discontinued due to GI adverse e",
+        "journal": "British journal of rheumatology",
+        "year": "1996",
+        "authors": [
+          "Wojtulewski J A",
+          "Schattenkirchner M",
+          "Barceló P",
+          "Le Loët X",
+          "Bevis P J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Double-Blind Method",
+          "Drug Tolerance",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Meloxicam",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8630632/"
+      },
+      {
+        "pmid": "8630631",
+        "title": "A double-blind, three-week study to compare the efficacy and safety of meloxicam 7.5 mg and meloxicam 15 mg in patients with rheumatoid arthritis.",
+        "abstract": "A multicentre, double-blind, randomized study was conducted in patients with rheumatoid arthritis (RA) in order to compare the efficacy and safety of two different doses of meloxicam, a new preferential cyclooxygenase-2 (COX-2) inhibitor. Four hundred and twenty-three patients were randomized to receive once-daily oral meloxicam 7.5 mg (n = 216) or meloxicam 15 mg (n = 207) for 3 weeks. The Ritchie joint index and pain in the morning were significantly improved versus baseline (P < 0.001) in both groups. There were no significant differences between the effects of each dose with respect to these measures nor with respect to final assessment of global efficacy by the patients. However, the 15 mg dose was associated with a significantly (P < 0.05) better effect on morning stiffness and grip strength. No differences between the doses were observed with regard to the other secondary efficacy parameter (pain at night, body weight and erythrocyte sedimentation rate). Both doses of meloxicam ",
+        "journal": "British journal of rheumatology",
+        "year": "1996",
+        "authors": [
+          "Reginster J Y",
+          "Distel M",
+          "Bluhmki E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Tolerance",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8630631/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:42:42.924105",
+  "success": true,
+  "error_message": null
+}

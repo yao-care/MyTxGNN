@@ -1,0 +1,934 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "rheumatoid arthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07037732",
+      "title": "Circulating B-cell, Drug and Anti-drug Antibodies Monitoring in Patients Treated With Rituximab for Autoimmune Disorders : the MONIRITUX Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-06-01",
+      "completion_date": "2030-06-01",
+      "country": "France",
+      "enrollment": 50,
+      "brief_summary": "The MONIRITUX study aimed to evaluate whether monitoring (i) circulating B-cell reconstitution or (ii) serum rituximab levels could help identify relapse of autoimmune diseases in patients treated with rituximab. Retrospective data suggest that B-cell reconstitution or the appearance of anti-drug antibodies are associated with rituximab's failure to prevent relapses (i.e. rheumatoid arthritis, systemic lupus erythematosus, autoimmune cytopenia...). According to the routine care provided by our i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient who undergo rituximab treatment according to routine care and having one of the following disorder:\n* primary immune thrombocytopenia\n* primary autoimmune hemolytic anemia\n* systmic lupus erythematous\n* systemic sclerosis\n* rheumatoid arthritis\n* inflammatory myopathy\n",
+      "endpoints": [
+        "Patients with (Immune Thrombocytopenia) ITP",
+        "Patients with AIHA Autoimmune Hemolytic Anemia.",
+        "Patients with inflammatory myopathy"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT07037732"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03853746",
+      "title": "Evaluating the Effects of Short-term B-cell Depletion on Long-term Disease Activity and Immune Tolerance in Relapsing Multiple Sclerosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-04-01",
+      "completion_date": "2024-07-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Several disease-modifying therapies (DMTs) have been shown to be effective in reducing the disease activity in patients with relapsing forms of multiple sclerosis (MS) but these treatments, often need to be used continuously for an unknown duration, rendering the long-term use extremely expensive. In addition, chronic administration of DMTs is often associated with undesirable side effects. Among these medications, B-cell depleting monoclonal antibodies might have the properties of an ideal grou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years and older.\n* Diagnosis of relapsing-remitting multiple sclerosis (RRMS) based on revised McDonald criteria\n* At least two Gd-enhancing lesions on the brain or spinal cord MRI done in the prior three months\n* Naïve to disease modifying therapies or using an injecta",
+      "endpoints": [
+        "Number of Patients With a Return of Disease Activity After the Third Month Post-first-infusion"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT03853746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01873443",
+      "title": "An Open-Label, Single-Arm, Maintenance Study to Demonstrate Long-Term Efficacy and Safety of CT-P10 in Patients With Rheumatoid Arthritis Who Were Treated With Rituximab (MabThera or CT-P10) in Study CT-P10 1.1",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2014-10",
+      "country": "South Korea",
+      "enrollment": 87,
+      "brief_summary": "This is an open-label, single-arm, multicenter, efficacy, and safety maintenance study of the Phase 1 Study CT-P10 1.1. This study is designed to assess the long-term efficacy and safety of CT-P10 co-administered with MTX and folic acid in patients with RA who have completed the scheduled visits in Study CT-P10 1.1",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has disease improvement (moderate or good response) according to Disease Activity Score using 28 joint counts (DAS28) during the last course of treatment in Study CT-P10 1.1.\n* Patient has completed all of the scheduled visits in the Study CT-P10 1.1 Main Study Period,",
+      "endpoints": [
+        "Efficacy evaluation by ACR criteria and safety evaluation by hypersensitivity monitoring"
+      ],
+      "sponsor": "Celltrion",
+      "url": "https://clinicaltrials.gov/study/NCT01873443"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01640548",
+      "title": "A Retrospective Chart Review on the Use of Biologics in Monotherapy for the Treatment of Patients With Rheumatoid Arthritis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2013-06",
+      "country": "United Kingdom",
+      "enrollment": 320,
+      "brief_summary": "This non-interventional, retrospective, cross sectional chart review study will evaluate the management of rheumatoid arthritis patients with a biologic in monotherapy. Data from eligible patients will be collected from the patient's last visit on the prior rheumatoid arthritis treatment and from the most recent visit for the biological monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>/= 18 years of age\n* Diagnosis of rheumatoid arthritis by a Rheumatologist\n* Patient being prescribed with a biologic in monotherapy\n\nExclusion Criteria:\n\n* N/A",
+      "endpoints": [
+        "Percentage (%) of Participants Receiving Biologic Disease Modifying Anti-Rheumatic Drugs (bDMARDs) in Monotherapy as Current Treatment for RA According to National Institute for Health and Clinical Excellence (NICE) Guidelines by Type of bDMARD",
+        "Percentage of Participants Treated With Traditional DMARDs as Their Previous Treatment for RA by Type of DMARD",
+        "Percentage of Participants With bDMARD and Concomitant Traditional DMARD Regimen as Previous RA Treatment at Anytime Prior to Switch to bDMARD Monotherapy by Type of bDMARD"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01640548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00422383",
+      "title": "A Randomized, Double-blind Study to Evaluate the Effect of Various Re-treatment Regimens of MabThera in Combination With Methotrexate on Treatment Response in Rheumatoid Arthritis Patients With an Inadequate Response to Methotrexate.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2013-03",
+      "country": "Brazil, France, Spain, Finland, South Africa, Taiwan, Italy, Hungary, Slovakia, Germany, Australia, China, Netherlands, New Zealand, Thailand, Canada, United Kingdom, Belgium",
+      "enrollment": 378,
+      "brief_summary": "This study will evaluate the efficacy and safety of various treatment and retreatment regimens of MabThera. All patients will receive concomitant methotrexate, 10-25mg once weekly either orally or parenterally. The anticipated time on study treatment is 2+ years, and the target sample size is 100-500 individuals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients \\>=18 years of age;\n* RA for \\>=6 months;\n* receiving outpatient treatment;\n* inadequate response to methotrexate, having received and tolerated it for \\>=12 weeks, with a stable dose for \\>=4 weeks.\n\nExclusion Criteria:\n\n* rheumatic autoimmune disease other tha",
+      "endpoints": [
+        "Percentage of Participants With a Response as Determined by American College of Rheumatology (ACR) 20% Improvement (ACR20)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00422383"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02622503",
+      "title": "Retrospective Data Collection on Rheumatoid Arthritis (RA) Patients Treated With Rituximab in Finland.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2008-08",
+      "country": "Finland",
+      "enrollment": 81,
+      "brief_summary": "The purpose of the study is to obtain an overall picture of rituximab treatments and treatment responses in RA patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Rheumatoid arthritis (RA) patients treated with rituximab in Finland\n\nExclusion Criteria:\n\n* Not applicable",
+      "endpoints": [
+        "Information on previous RA treatments",
+        "Information on rituximab treatment responses",
+        "Information on concomitant medications"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02622503"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05114109",
+      "title": "Isatuximab in Type I Cryoglobulinemia: A Prospective Pilot Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-01",
+      "completion_date": "2023-12-31",
+      "country": "N/A",
+      "enrollment": 21,
+      "brief_summary": "Cryoglobulinaemia is defined as the presence of immunoglobulins in the serum, which reversibly precipitate and form a gel when the temperature drops below 37°C and redissolve upon re-warming. Classification includes three subgroups based on Immunoglobulin (Ig) composition. Type I cryoglobulinaemia consists of only one isotype or subclass of immunoglobulin. Types II and III are classified as mixed cryoglobulinaemia (MC) because they include both IgG and IgM components. Overall, cryoglobulinaemia ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Written informed consent\n* Indolent Multiple myeloma or monoclonal gammopathy of unknown significance (MGUS) with monoclonal IgG component\n* Active cryoglobulinemia vasculitis defined by positive type I IgG cryoglobulinemia and a clinically active cryoglobuli",
+      "endpoints": [
+        "Clinical response W20"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT05114109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00425932",
+      "title": "Impact of Rituximab on Magnetic Resonance Imaging Evidence of Synovitis and Bone Lesions in Patients With Moderate or Severe Rheumatoid Arthritis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "2012-11",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to further investigate rituximab in the treatment of rheumatoid arthritis and to evaluate magnetic resonance imaging of the joints as a possible method to improve the evaluation of treatments.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Able and willing to give written informed consent\n* Age 18-80 years\n* Must have active rheumatoid arthritis for at least 12 weeks, but no more than 5 years.\n* Must be receiving treatment on an outpatient basis\n* Must have \\> 8 tender and swollen joints\n* Must have negative seru",
+      "endpoints": [
+        "The primary endpoint fo the trial is change in 1.5 Tesla MRI erosion score (RAMRIS system) from baseline to Week 24."
+      ],
+      "sponsor": "Gaylis, Norman B., M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT00425932"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00147966",
+      "title": "Assessment of the Immunomodulatory Effects of Rituximab in Seropositive Rheumatoid Arthritis Using Arthroscopic Synovial Biopsies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "Using repeated arthroscopic biopsies of patients with rheumatoid arthritis, the researchers will assess changes in the immune response that occur as a result of treatment with rituximab.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Active rheumatoid arthritis\n* Use of concomitant methotrexate\n\nExclusion Criteria:\n\n* Use of disease-modifying anti-rheumatic drugs (DMARDs)/biologics other than methotrexate\n* Serious medical conditions that would preclude the use of the treating agent",
+      "endpoints": [
+        "American College of Rheumatology (ACR) 20 at Week 12"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT00147966"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00502853",
+      "title": "Pilot Study to Evaluate the Effect of Mabthera in Combination With MTX in the Inhibition of Progression of Synovitis, Bone Marrow Edema, and Erosions Evaluated by Magnetic Resonance Imaging (MRI) in the Hand of Patients With Rheumatoid Arthritis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-10-25",
+      "completion_date": "2010-07-23",
+      "country": "Italy",
+      "enrollment": 10,
+      "brief_summary": "This single arm study will measure the effect of MabThera in combination with methotrexate on the progression of synovitis, the extent of bone marrow edema, and the number of erosions in the wrist and hand of patients with rheumatoid arthritis, using a new MRI technique. Patients will receive MabThera 1000mg i.v. on days 1 and 15, in combination with a stable dosage of 10-25mg/week methotrexate throughout the duration of the study. Further courses of MabThera will be provided to eligible patient",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients, 18-75 years of age;\n* rheumatoid arthritis for \\>=3 months and \\<=10 years;\n* inadequate response to methotrexate (12.5-25mg/week) for \\>=3 months;\n* evidence of erosive disease and/or clinical synovitis in a signal joint.\n\nExclusion Criteria:\n\n* autoimmune rhe",
+      "endpoints": [
+        "Outcome Measures in Rheumatoid Arthritis Clinical Trials (OMERACT) Rheumatoid Arthritis Magnetic Resonance Imaging Scoring System (RAMRIS) Synovitis Score",
+        "OMERACT RAMRIS Bone Edema Score",
+        "OMERACT RAMRIS Erosion Score"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00502853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01083563",
+      "title": "The Morphologic and Functional Relationship Between the Draining PLN and Synovial Inflammation in the Knee Joints of RA Patients Before and After Anti-TNF or B Cell Depletion Therapy",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of this study is to examine the effect of anti-TNF therapy on rheumatoid arthritis using magnetic resonance imaging (MRI) and ultrasound imaging.\n\nAnti-TNF therapies include a group of medications such as Enbrel, Remicade and Humira that affect your body's inflammatory response. These medications are routinely prescribed for the treatment of rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Signed, IRB-approved, written informed consent\n* Subjects can be of either gender but must be more than 18 years old.\n* Subjects must fulfill the disease activity criteria for RA and a DAS28 will be assessed at baseline and at 2 months after rituximab therapy.\n* Aim A - Eligibl",
+      "endpoints": [
+        "Morphologic and functional relationship between the draining PLN and synovial inflammation in the knee joints of RA patients",
+        "TNF inhibition on volume and CE in the PLN in RA patients by MRI versus Doppler ultrasound.",
+        "Effect of anti-CD20 therapy on volume and CE in the PLN in RA patients who \"flare\""
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT01083563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01613963",
+      "title": "Observational Study of Visual Outcomes in Retinal Disease",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2012-12",
+      "country": "United Kingdom",
+      "enrollment": 2000,
+      "brief_summary": "This is a study of visual outcomes in retinal disease that seeks to identify the causes of visual loss. This data will be used to predict which patients are at risk of losing vision and how they can be better treated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with a diagnosis of ocular inflammation\n* patients with at least 6 months of follow-up\n\nExclusion Criteria:\n\n* patients without a diagnosis of ocular inflammation\n* patients with less than 6 months of follow-up",
+      "endpoints": [
+        "Visual acuity at 5 years"
+      ],
+      "sponsor": "Royal Surrey County Hospital NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01613963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03027999",
+      "title": "Efficiency of a Tight Monitoring by a Nurse Practitioner of Rheumatoid Arthritis (RA) Patients in Remission (or Low Disease Activity) Under Rituximab to Detect Early Relapse of the Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-05-05",
+      "completion_date": "2022-09-22",
+      "country": "France",
+      "enrollment": 51,
+      "brief_summary": "Rheumatoid arthritis (RA) is a progressive disease that affects mainly small and medium joints and, in the absence of appropriate background therapy, leads to progressive joint destruction, functional, psychological, social and occupational repercussions.\n\nSeveral biomedicine treat this pathology, including rituximab (RTX). It is recommended to evaluate the therapeutic response to RTX and re-administer it from the 24th week when the goal of remission has not been achieved. However, the optimal m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female (age 18 or older)\n* Rheumatoid arthritis fulfilling the ACR/EULAR 2010 criteria\n* Patient to whom the rheumatologist prescribed a treatment with rituximab or who received a treatment with rituximab in the last 6 months\n* Patients with active rheumatoid arthritis",
+      "endpoints": [
+        "Difference from baseline of disease activity specific score"
+      ],
+      "sponsor": "University Hospital, Rouen",
+      "url": "https://clinicaltrials.gov/study/NCT03027999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07138898",
+      "title": "Immunosuppressant Management in Rheumatology Patients Undergoing Elective Total Shoulder Arthroplasty",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09",
+      "completion_date": "2027-09",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to assess the incidence of rheumatologic flares, changes in pain scores (VAS), changes in functional outcomes (PROMIS), wound complications, surgical site infections, and return trips to the operating room for rheumatology patients following shoulder replacements, comparing those who stop their immunosuppressants preoperatively for the same amount of time as suggested in the literature for hip and knee arthroplasty versus those who hold the medications for a shorter ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults aged 18 years and older at the time of informed consent;\n2. Diagnosis of rheumatic disease: rheumatoid arthritis (RA), psoriatic arthritis (PA) , ankylosing spondylitis (AS), systemic lupus erythematosus (SLE), juvenile idiopathic arthritis (JIA), spondyloarthritis, po",
+      "endpoints": [
+        "Incidence of wound complications",
+        "Incidence of superficial surgical site infections",
+        "Incidence of deep surgical site infections"
+      ],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT07138898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07247279",
+      "title": "A Multicenter Non Interventional Single Arm Retrospective-prospective Observational Study in Therapeutic Approaches in AChR-Antibody Positive Generalized Myasthenia Gravis (gMG) in Real Clinical Practice in Russia",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-12-23",
+      "completion_date": "2029-12-31",
+      "country": "Russia",
+      "enrollment": 450,
+      "brief_summary": "This is a multicenter, non-interventional, retrospective-prospective, single-arm observational study designed to describe real-world treatment approaches and clinical outcomes among adults with acetylcholine receptor (AChR) antibody-positive generalized myasthenia gravis (gMG) in routine clinical practice in Russia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults (≥18 years) diagnosed with generalized MG positive for acetylcholine receptor (AChR) antibodies.\n2. Provision of signed and dated written informed consent.\n\nExclusion Criteria:\n\n1. Participants currently enrolled in clinical studies for treatment of gMG.\n2. Ocular MG o",
+      "endpoints": [
+        "Age at baseline (years)",
+        "Age at gMG diagnosis (years)",
+        "Sex and ethnicity distribution"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT07247279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05487703",
+      "title": "Tofacitinib Use in Rituximab-Experienced RA Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-11-14",
+      "completion_date": "2022-12-23",
+      "country": "Morocco",
+      "enrollment": 318,
+      "brief_summary": "This study is to characterize the use of tofacitinib after use of rituximab in patients with Rheumatoid Arthritis in a real-world setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Enrolled in the CorEvitas RA Registry and initiated tofacitinib on or after November 2012.\n* Initiate tofacitinib (defined as first ever use of tofacitinib) at Registry enrollment visit or at a Registry follow-up visit after November 2012\n* Have prior use of rituximab\n* Have C",
+      "endpoints": [
+        "Number of Participants According to Type of Health Insurance Plan",
+        "Number of Participants With College Graduation or Higher Education",
+        "Number of Participants According to Smoking Status"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT05487703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01382940",
+      "title": "A Multicenter, Open-label, Single-arm Study to Evaluate the Safety Administering Rituximab at a More Rapid Infusion Rate in Patients With Rheumatoid Arthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-07-26",
+      "completion_date": "2013-01-06",
+      "country": "United States",
+      "enrollment": 351,
+      "brief_summary": "This study was designed to evaluate the safety of administering rituximab at a more rapid infusion rate in patients with moderate to severe rheumatoid arthritis who have had an inadequate response to biopharmaceuticals that treat diseases by interfering with tumor necrosis factor (anti-TNF therapies), and were receiving methotrexate therapy for more than eight weeks.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Adult patients, ≥ 18 years of age\n* Rheumatoid arthritis of ≥ 6 months duration, diagnosed according to the revised 1987 American College of Rheumatology criteria\n* Inadequate response to at least one approved anti-TNF agent (adalimumab, etanercept, infliximab, golimumab, ",
+      "endpoints": [
+        "Percentage of Participants Experiencing Any Infusion-related Reaction (IRR) Associated With the Second Rituximab Infusion"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01382940"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06175338",
+      "title": "Randomized Double Blind Phase I Trial Comparing Pharmacokinetics, Pharmacodynamics, Immunogenicity and Safety of Rituximab (Mabscale LLC, Russia)+ Methotrexate+ Folic Acid and MabThera® Methotrexate+ Folic Acid in Adult Patients With Moderate or Severe Rheumatoid Arthritis With Insufficient Response to Treatment Tumor Necrosis Factor (TNF-α)",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-06-14",
+      "completion_date": "2025-04",
+      "country": "Russia",
+      "enrollment": 208,
+      "brief_summary": "A randomised, double blind, parallel group, multicentre study to compare the pharmacokinetics, pharmacodynamics, immunogenicity and safety of Rituximab (Mabscale LLC, Russia) versus MabThera® in patients with rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female 18-65 y.o. with body weight 50-120 kg\n* Patients with active rheumatoid arthritis with disease duration minimum 6 months prior to screening visit per ACR/EULAR 2019 criteria classification.\n* Moderate or severe active course of rheumatoid arthritis, which is de",
+      "endpoints": [
+        "AUC(w2-24)",
+        "AUC0-inf",
+        "Cmax"
+      ],
+      "sponsor": "Mabscale, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT06175338"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01021735",
+      "title": "Optimal Management of Rheumatoid Arthritis Patients Requiring Biologic Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2015-04",
+      "country": "United Kingdom",
+      "enrollment": 302,
+      "brief_summary": "That anti-TNF therapy and rituximab therapy are equally effective in treating patients with rheumatoid arthritis who meet the eligibility criteria for biologic therapy in the British Society for Rheumatology guidelines, and have not previously been exposed to biologic therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Rheumatoid arthritis\n* Eligible for biologic therapy according to BSR/NICE guidelines\n\nExclusion Criteria:\n\n* Prior biologic therapy\n* Contra-indication to anti-TNF therapy or rituximab",
+      "endpoints": [
+        "Mean change in Disease Activity Score (DAS28)"
+      ],
+      "sponsor": "University of Glasgow",
+      "url": "https://clinicaltrials.gov/study/NCT01021735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00934648",
+      "title": "An Open Label Study to Evaluate the Safety and Efficacy of Rituximab in Patients With Active Rheumatoid Arthritis Who Have Had an Inadequate Response to Prior Treatment With Methotrexate",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2010-11",
+      "country": "Morocco",
+      "enrollment": 15,
+      "brief_summary": "This study will evaluate the safety and efficacy of MabThera in patients with active rheumatoid arthritis who have had an inadequate response or were intolerant to treatment with methotrexate. Eligible patients will receive MabThera (1000mg by intravenous infusion) on days 1 and 15, and background methotrexate (oral or subcutaneous dose of 10-25mg weekly). After the initial study period of 24 weeks, eligible patients may receive up to 3 re-treatments with MabThera. The anticipated time on study ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* receiving out-patient treatment;\n* experienced an inadequate response to previous or current treatment with methotrexate.\n\nExclusion Criteria:\n\n* rheumatic autoimmune disease other than RA, or significant systemic involvement secondary to ",
+      "endpoints": [
+        "Percentage of Participants With an Adverse Event (AE)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00934648"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02819726",
+      "title": "A Randomized, Double-blind, Parallel Group, Multicenter Study to Compare the Pharmacokinetics, Pharmacodynamics, Safety, and Efficacy of SAIT101 Versus MabThera® Versus Rituxan® in Patients With Rheumatoid Arthritis (RA)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-10-11",
+      "completion_date": "2018-11-07",
+      "country": "Bulgaria, South Korea, Spain, Bosnia and Herzegovina, Czechia, Mexico, India, Hungary, Germany, Poland, United States",
+      "enrollment": 294,
+      "brief_summary": "A randomised, double blind, parallel group, multicentre study yo compare the pharmacokinetics, pharmacokinetics, safety and efficacy of SAIT101 versus MabThera® versus Rituxan® in patients with rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Severe RA defined as:\n\n* Diagnosis of RA according to the revised (1987) American College of Rheumatology (ACR) criteria for the classification of RA for at least 3 months prior to screening visit (see Appendix 3).\n* And ≥6 swollen joints and ≥6 tender/painful joints (from t",
+      "endpoints": [
+        "Area Under the Concentration Time Cure From Time 0 to Last Quantifiable Concentration (AUC0-t)",
+        "Area Under the Plasma Concentration Versus Time Curve (AUC0-∞)",
+        "Area Under the Plasma Concentration Versus Time Curve (AUC0-D15)"
+      ],
+      "sponsor": "Archigen Biotech Limited",
+      "url": "https://clinicaltrials.gov/study/NCT02819726"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01632124",
+      "title": "Rituximab-induced Pulmonary Function Changes - an Observational Study in Patients With Rheumatoid Arthritis and Inflammatory Myositis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2012-01",
+      "completion_date": "2013-12",
+      "country": "Switzerland",
+      "enrollment": 80,
+      "brief_summary": "Measuring lung function (FVC, FEV1, DLCO) before, during and after treatment with rituximab in patients with rheumatoid arthritis or inflammatory myositis.",
+      "eligibility_criteria": "Inclusion criteria: - Patients with established diagnosis of RA or inflammatory myositis, in whom a de novo RTX treatment is indicated\n\n* Age \\>18 y\n* Informed consent of patient\n\nExclusion criteria: - Acute infection\n\n* Pre-existing interstitial pulmonary disease\n* Patients with impaired forced vit",
+      "endpoints": [],
+      "sponsor": "University of Zurich",
+      "url": "https://clinicaltrials.gov/study/NCT01632124"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01664117",
+      "title": "Study of the Profile and Clinical Management of Patients With Rheumatoid Arthritis Treated With Biologic Therapy Alone",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2013-06",
+      "country": "Spain",
+      "enrollment": 210,
+      "brief_summary": "This observational multicenter study will evaluate the management of disease and safety in clinical practice in patients with moderate to severe rheumatoid arthritis receiving any biological therapies in monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>/=18 years of age\n* Patients with moderate to severe rheumatoid arthritis who have had an inadequate response or intolerance to disease modifying antirheumatic drugs (DMARDs) or other biological drugs\n* Patients treated with biologic DMARDs alone for at least",
+      "endpoints": [
+        "Number of Participants With Level of Education Completed",
+        "Number of Participants With Smoking Habits",
+        "Smoking-habit for Smokers or Ex-smokers (Packs in Years)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01664117"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01272908",
+      "title": "Rituximab Phase IIIb Open-label, Multi-centre Assessment of Safety and Effectiveness in Patients With RA Following an Inadequate Response to One Prior Anti-TNF Inhibitor (RESET)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07-18",
+      "completion_date": "2009-03-12",
+      "country": "Sweden, Canada",
+      "enrollment": 120,
+      "brief_summary": "This study will evaluate the safety and effectiveness of MabThera (rituximab) in patients with active rheumatoid arthritis who are receiving methotrexate, and who have a previous or current inadequate response to one prior anti-TNF therapy. All patients will receive MabThera 1000 mg as an intravenous infusion on days 1 and 15. After the initial study phase of 24 weeks, eligible patients may receive one re-treatment with MabThera. The anticipated time on study treatment is 48 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, 18-80 years of age\n* Moderate to severe active rheumatoid arthritis\n* Inadequate response to a single previous or current treatment with an anti-TNF agent\n* Methotrexate for at least 12 weeks, at a stable dose over the past 4 weeks\n\nExclusion Criteria:\n\n* Previ",
+      "endpoints": [
+        "Percentage of Participants With Adverse Events During the Initial Treatment Period - Overall Summary"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01272908"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00299130",
+      "title": "A Randomized, Placebo Controlled, Double-blind, Parallel Group, International Study to Evaluate the Safety and Efficacy of Rituximab in Combination With Methotrexate, Compared to Methotrexate Monotherapy, in Patients With Active Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2013-07",
+      "country": "N/A",
+      "enrollment": 511,
+      "brief_summary": "This study evaluated the efficacy and safety of rituximab in patients with active rheumatoid arthritis (RA).",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Adult patients 18-80 years of age.\n* Rheumatoid arthritis (RA) for ≥ 6 months, diagnosed according to the revised 1987 American College of Rheumatology (ACR) criteria for the classification of rheumatoid arthritis.\n* Receiving outpatient treatment for RA.\n* Swollen joint count",
+      "endpoints": [
+        "Percentage of Participants With American College of Rheumatology (ACR) 20 Response at Week 24"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00299130"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03355872",
+      "title": "A Randomised, Double-blind, Phase I/II Study to Evaluate the PK, PD, Safety, and Efficacy Between HLX01 and Rituximab in Patients With Moderate to Severe Rheumatoid Arthritis and Inadequate Response to Treatment With DMARDs",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-02",
+      "completion_date": "2018-08",
+      "country": "N/A",
+      "enrollment": 194,
+      "brief_summary": "To compare the PK profiles of HLX01 and Rituximab in Chinese patients with moderate to severe rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants, between 18 and 65 years of age, who have a diagnosis of moderately to severely active RA for at least 6 months as defined by at least 6 swollen joints (66 joint count) and at least 6 tender joints (68 joint count) at Screening and Baseline (Day 1)",
+      "endpoints": [
+        "AUC(0-inf)"
+      ],
+      "sponsor": "Shanghai Henlius Biotech",
+      "url": "https://clinicaltrials.gov/study/NCT03355872"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01295151",
+      "title": "Randomised-controlled Trial of Switching to Alternative Tumour-necrosis Factor (TNF)-Blocking Drugs or Abatacept or Rituximab in Patients With Rheumatoid Arthritis Who Have Failed an Initial TNF-blocking Drug",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2015-11",
+      "country": "United Kingdom",
+      "enrollment": 122,
+      "brief_summary": "The principal aim of this study is to fill a clear knowledge gap and provide guidance for rheumatologists and reassurance to the patient group on a management challenge faced daily in rheumatology practice. Specifically, it aims to provide robust evidence on the optimal management of patients with established RA that have failed an anti-TNF therapy (the first of the biological therapies to be introduced); in particular, the investigators wish to address whether the currently licensed but non NIC",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Male and female subjects aged ≥18 years at the time of signing the Informed Consent Form.\n2. Patients with a diagnosis of rheumatoid arthritis as per the ACR/EULAR 2010 classification criteria (Appendix 7) confirmed at least 24 weeks prior to the screening visit.\n3. Patients w",
+      "endpoints": [
+        "Change in disease activity."
+      ],
+      "sponsor": "University of Leeds",
+      "url": "https://clinicaltrials.gov/study/NCT01295151"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00565331",
+      "title": "A Prospective Randomized Study on the Efficacy and Safety of the Prophylactic Use of Rituximab, Added to Standard Immunosuppressive Treatment in Comparison With Standard Immunosuppressive Treatment Alone in Renal Transplantation",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2015-06",
+      "country": "Netherlands",
+      "enrollment": 280,
+      "brief_summary": "Our standard immunosuppressive treatment after renal transplantation is a combination of tacrolimus, mycophenolate mofetil, and prednisolone. With this regimen the incidence of acute rejection within the first six months after transplantation has dropped to about 20%. The main challenge at present remains to improve long-term outcome by preventing chronic allograft nephropathy (CAN). Since acute rejection is a strong predictor of CAN, a further decrease in the incidence of acute rejection can im",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Renal transplant recipients\n* Signed, dated, and witnessed IRB approved informed consent\n\nExclusion Criteria:\n\n* Pregnancy\n* Living donor, who is HLA identical.\n* Hemolytic uremic syndrome as original kidney disease.\n* Focal segmental glomerulosclerosis that had recurred in a ",
+      "endpoints": [
+        "Incidence and severity of biopsy-confirmed acute rejection"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00565331"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06186219",
+      "title": "Open-label Study of Rituximab (RTX) Pretreatment Followed by Standard of Care (SOC) Methotrexate-Pegloticase (MTXPEG) to Treat Poorly Controlled Tophaceous Gout in Individuals With Prior Loss of Response to Pegloticase.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2024-04-10",
+      "completion_date": "2024-11-22",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This safety and feasibility, open-label study of up to 9 subjects will examine a group of subjects with poorly controlled tophaceous gout (intolerant to or ineffective oral urate lowering agents and loss of prior Pegloticase response) pre-treated with Rituximab to recapture response to Methotrexate-Pegloticase.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEligible subjects must meet/provide all the following criteria:\n\n1. Must be able to provide written informed consent.\n2. Male or female ≥ 18 years of age at Baseline Visit.\n3. Meets the American College of Rheumatology Classification Criteria for Gout.\n4. Poorly controlled topha",
+      "endpoints": [
+        "The study will be measured by the frequency and grade of adverse event (AEs) (solicited and unsolicited), serious adverse experience (SAEs), adverse event of special interest (AESI1s), medically attended adverse events (MAAEs).",
+        "Neutralizing antibody titers (assays provided by Horizon labs) will be measured at Screening (Visit 0), prior to first Pegloticase infusion (Visit 3, Week 0), Visit 9, Week 12 and Visit 16, Week 26."
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT06186219"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01727232",
+      "title": "Efficacy and Safety of Rituximab Given at Fixed Dose (1000 mg on Days 1 and 15) Compared to the Standard Regimen in Adult's Immune Thrombocytopenia",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2012-10",
+      "country": "N/A",
+      "enrollment": 107,
+      "brief_summary": "The aim of this large French multicentric retrospective study was to compare the efficacy and safety of two (the standard and the Rheumatoid arthritis) rituximab regimens in adult's immune thrombocytopenia .",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary ITP\n* Age \\> 18 years\n\nExclusion Criteria:\n\n* Secondary ITP\n* Age \\< 18 years",
+      "endpoints": [
+        "The primary end point of the study was to assess the response rate to treatment 1 year after the first rituximab infusion."
+      ],
+      "sponsor": "Henri Mondor University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01727232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02378298",
+      "title": "Rituximab (RTX) Therapy in Steroid Resistant Patients or Patients Relapsing After Intravenous Steroids With Active TAO",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2020-02-01",
+      "country": "Sweden",
+      "enrollment": 38,
+      "brief_summary": "Thyroid Associated Ophthalmopathy is condition affecting the eyes of about 10% of patients with Graves disease. Its combination of protrusion affecting the looks of the patient and pain is often severely affecting the quality of life among these patients.\n\nThe standard treatment for this illness today is intravenous glucocorticoids together with methotrexate. The purpose of this study is to evaluate the effect of rituximab on patients that do not respond to or relapse after conventional therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ◦Man or woman between 18-70 years TAO with CAS of ≥ 4 (less than 3 months).\n* Euthyroid for at least 6 weeks\n\nExclusion Criteria:\n\n* Dysthyroid optic neuropathy (DON)\n* Ulcerative Keratitis\n* Previous treatment with steroids for TAO (do not include prophylaxis for TAO in conne",
+      "endpoints": [
+        "Clinical Activity Score (a Composite Measure of Ophthalmological Signs and Symptoms)"
+      ],
+      "sponsor": "Göteborg University",
+      "url": "https://clinicaltrials.gov/study/NCT02378298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00578565",
+      "title": "Rituximab for the Treatment of Rheumatoid Arthritis-Associated Interstitial Pneumonia: A Pilot Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2011-06",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This study will examine the course of patients with progressive rheumatoid arthritis associated interstitial lung disease (RA-ILD) treated with rituximab for safety and progression-free survival at 48 weeks. Safety of rituximab therapy in this disease will be assessed through patient history, physical exams and laboratory parameters.\n\n* Twelve male/or female patient with RA-associated lung disease (6 of each nonspecific interstitial pneumonia (NSIP) and usual interstitial pneumonia (UIP) histolo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of RA according to the revised 1987 American Rheumatism Association criteria\n2. Absence of clinical features suggesting infection, neoplasm, sarcoidosis, interstitial lung disease other than UIP or NSIP, other collagen vascular disease, or exposure to known fibrogen",
+      "endpoints": [
+        "Change in Diffusion Capacity for Carbon Monoxide (DLco) From Baseline to 48 Weeks",
+        "Change in Forced Vital Capacity (FVC) From Baseline to 48 Weeks"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00578565"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02693210",
+      "title": "A Randomised, Double Dummy Controlled, Parallel Group Study of the Efficacy and Safety of MabThera (Rituximab) Alone or in Combination With Either Cyclophosphamide or Methotrexate, in Patients With Rheumatoid Arthritis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-02",
+      "completion_date": "2004-08",
+      "country": "Israel, Spain, Czechia, Italy, Germany, Australia, United Kingdom, Netherlands, Poland, Canada, Belgium",
+      "enrollment": 161,
+      "brief_summary": "WA16291 is a Phase IIa \"proof-of-concept\" study. The primary objective of this study is to determine the safety and efficacy of rituximab (a B cell depleting chimeric monoclonal antibody) used either as monotherapy or in combination with methotrexate or cyclophosphamide in participants with rheumatoid arthritis who have failed prior Disease Modifying Anti-Rheumatic Drug (DMARD) therapy and currently have an inadequate clinical response to methotrexate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with moderate to severe rheumatoid arthritis (RA) who have previously failed 1-5 DMARDS who currently have partial clinical response to treatment with methotrexate\n* Using methotrexate as a single DMARD for at least 16 weeks, of which the last 4 weeks prior to bas",
+      "endpoints": [
+        "Percentage of participants achieving American College of Rheumatology (ACR) 50 response at Week 24"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02693210"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02731560",
+      "title": "Efficacy and Safety of Rituximab in Pakistani Patients With Rheumatoid Arthritis (RA)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2012-12",
+      "country": "N/A",
+      "enrollment": 74,
+      "brief_summary": "A study to determine the efficacy and safety of rituximab in Pakistani patients with rheumatoid arthritis (RA) who have been inadequately controlled with standard disease modifying anti rheumatic drugs (DMARDs).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able and willing to give written informed consent.\n2. Men and women aged 18-80 years, inclusive.\n3. Patients with RA for at least 6 months.\n4. DAS28 score \\> 3.70 at baseline.\n5. Inadequate response to methotrexate (MTX), for at least 4 weeks using a stable dose of 15mg/week.",
+      "endpoints": [
+        "Improvement in Disease Activity Assessment Score (DAS-28)"
+      ],
+      "sponsor": "Pakistan Institute of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02731560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00504777",
+      "title": "An Open Label Study to Evaluate the Safety, and Effect on Treatment Response, of MabThera in Combination With Methotrexate in Patients With Active Rheumatoid Arthritis Who Have Had an Inadequate Response or Intolerance to One or More Anti-TNF Agents.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2010-03",
+      "country": "Taiwan",
+      "enrollment": 36,
+      "brief_summary": "This single arm study will assess the safety and efficacy of MabThera in combination with methotrexate in patients with rheumatoid arthritis who have had an inadequate response or intolerance to one or more anti-TNF agents. Patients will receive MabThera 1000mg i.v. on days 1 and 15, and methotrexate (10-25mg/week p.o. or parenteral), together with methylprednisolone 100mg i.v. prior to infusion of MabThera. The anticipated time on study treatment is 3-12 months, and the target sample size is \\<",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients, \\>=18 years of age;\n* active rheumatoid arthritis;\n* receiving outpatient treatment;\n* an inadequate response, or intolerance, to \\>=1 anti-TNF agent.\n\nExclusion Criteria:\n\n* other rheumatic autoimmune disease or inflammatory joint disease;\n* concurrent treatme",
+      "endpoints": [
+        "Change From Baseline in Disease Activity Score Based on 28-Joint Count (DAS28)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00504777"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01557348",
+      "title": "A Global Multi-centre Observational Study in RA Patients Who Are Non Responders or Intolerant to a Single TNF Inhibitor.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2012-03",
+      "country": "France, Monaco, Spain, Norway, Mexico, Greece, Italy, Germany, United Kingdom, Portugal, Canada, Colombia",
+      "enrollment": 1239,
+      "brief_summary": "This multicenter, prospective, observational study will assess the efficacy of MabThera/Rituxan (rituximab) and alternative TNF-inhibitors in patients with rheumatoid arthritis who are non-responders or intolerant to a single previous TNF-inhibitor. Data will be collected from each patient from the time of change in biologic therapy for 12 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>/= 18 years of age\n* Patients with rheumatoid arthritis (RA) who have not responded or have been intolerant to a single TNF-inhibitor therapy\n* Initiated on treatment with MabThera/Rituxan or an alternative TNF-inhibitor therapy, in accordance with the releva",
+      "endpoints": [
+        "Least Squares Mean Change From Baseline in Disease Activity Score (3 Variables)-Erythrocyte Sedimentation Rate at Month 6"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01557348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05116228",
+      "title": "Randomized, Prospective, Active-comparator Controlled, Patient-blinded Study to Demonstrate Non-inferiority of Reduced-dose Rituximab in Rheumatoid Arthritis Patients in Low Disease Activity and Remission - the REDOREM Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2015-09-01",
+      "completion_date": "2021-11-01",
+      "country": "Austria",
+      "enrollment": 21,
+      "brief_summary": "To investigate whether a reduced-dose dosing regimen (1x500mg semiannually) of rituximab (RTX) (Mabthera®) is non-inferior in patients with rheumatoid arthritis (RA) whose disease is in persistent low disease activity (LDA) or clinical remission (REM) (pLDA/pREM) as compared to the standard dosing regimen of 1x1000mg semi-annual infusions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of RA according to the 2010 American College of Rheumatology (ACR) / European League Against Rheumatism (EULAR) classification criteria\n* Current treatment with RTX (at time of inclusion have already received at least 2 cycles of 1000mg RTX) at the Day-Clinic of the ",
+      "endpoints": [
+        "Proportion of flare"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT05116228"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00854321",
+      "title": "One Centre Follow-up Study on Safety and Efficacy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2008-07",
+      "country": "Finland",
+      "enrollment": 49,
+      "brief_summary": "One centre follow-up study on safety and efficacy of treatment with rituximab among patients with RA during 4 year period. Basic data is collected for the national register of biologicals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* active RA without response to earlier treatment\n\nExclusion Criteria:\n\n* contraindications to rituximab",
+      "endpoints": [
+        "ACR20 ACR50 ACR70 response"
+      ],
+      "sponsor": "Kuopio University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00854321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00299104",
+      "title": "A Randomized, Phase 3, Controlled, Double-Blind, Parallel-Group, Multicenter Study to Evaluate the Safety and Efficacy of Rituximab in Combination With Methotrexate (MTX) Compared to MTX Alone, in Methotrexate-Naive Patients With Active Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2013-07",
+      "country": "N/A",
+      "enrollment": 755,
+      "brief_summary": "This is a phase III, randomized, controlled, double-blind, parallel group, international study in approximately 750 patients with active Rheumatoid Arthritis (RA) who are naive to Methotrexate (MTX) therapy. Rheumatoid Factor (RF)-positive and RF-negative patients will be enrolled and will be allocated equally between 3 treatment arms.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Adult patients 18-80 years of age\n* RA for ≥ 2 months;\n* Receiving outpatient treatment\n* Patients naive to, and considered to be candidates for, methotrexate treatment\n\nExclusion criteria:\n\n* Rheumatic autoimmune disease other than RA, or significant systemic involvement seco",
+      "endpoints": [
+        "Change From Baseline in Modified Total Sharp Score (mTSS) From Screening at Week 52"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00299104"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00466037",
+      "title": "Vaccination Against Influenza in Rheumatoid Arthritis Patients: The Effect of Rituximab on the Humoral Response",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2005-09",
+      "completion_date": "2006-02",
+      "country": "N/A",
+      "enrollment": 64,
+      "brief_summary": "Rituximab is a genetically engineered chimeric anti-CD20 monoclonal antibody that selectively targets CD20+ B cells and induces a transient depletion of the CD20+ mature B cell subpopulation.The objective of our study was to assess the effect of rituximab on the efficacy and safety of influenza virus vaccine in patients with rheumatoid arthritis (RA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Rheumatoid Arthritis\n* Age-18-85\n* Treatment with Rituximab and other Disease modifying drugs\n\nExclusion Criteria:\n\n* Treatment with anti TNF alpha\n* Allergy to eggs",
+      "endpoints": [
+        "Efficacy of vaccination against influenza"
+      ],
+      "sponsor": "Tel-Aviv Sourasky Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00466037"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01332994",
+      "title": "Efficacy and Safety Study of a Sequential Therapy of Tocilizumab (TCZ) and, if Initially Inadequately Responded to Tocilizumab (TCZ), Followed by Rituximab (RTX) in DMARD-IR Patients With Rheumatoid Arthritis (MIRAI)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2014-02",
+      "country": "Germany",
+      "enrollment": 519,
+      "brief_summary": "This open-label, multi-center, two-arm, uncontrolled and non-randomized study will evaluate the efficacy and safety of RoActemra/Actemra (tocilizumab) in patients with rheumatoid arthritis. Patients will receive 8 mg/kg RoActemra/Actemra intravenously every 4 weeks for 12 weeks and - if adequately responded - for further 12 weeks. Patients, who show an inadequate clinical response after the first 12 weeks to RoActemra/Actemra, will receive 1 g MabThera/Rituxan (rituximab) intravenously at Week 1",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients \\>/=18 years of age\n* Body weight \\< /=130kg\n* Active rheumatoid arthritis of at least 6 months duration, diagnosed according to the American College of Rheumatology (ACR) criteria of 1987\n* Disease Activity Score (DAS28) of \\>3.2\n* Inadequate clinical response ",
+      "endpoints": [
+        "Percentage of Participants Achieving Remission at Week 16 According to DAS28"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01332994"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00443651",
+      "title": "An Open-Label, Prospective Study of the Safety of Rituximab in Combination With Other Disease-Modifying Anti-Rheumatic Drugs in Subjects With Active Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2013-02",
+      "country": "N/A",
+      "enrollment": 578,
+      "brief_summary": "This is a Phase III, open-label study of a total of approximately 560 subjects with active rheumatoid arthritis (RA) who have had an inadequate response to one or more disease-modifying anti-rheumatic drugs (DMARDs). Enrollment in the study was conducted in two stages. In Stage I of the study, approximately 400 subjects receiving non-biological DMARDs (with the exception of methotrexate \\[MTX\\] monotherapy or MTX and leflunomide combination therapy) were enrolled. In Stage II of the study, appro",
+      "eligibility_criteria": "Inclusion Criteria (Stage I):\n\n* Male or female subjects, between 18 and 80 years of age, who have a documented diagnosis of active rheumatoid arthritis (RA) for ≥ 6 months\n* Receiving treatment for RA on an outpatient basis\n* Have had an inadequate response to at least one non-biological disease-mo",
+      "endpoints": [
+        "Percentage of Patients Developing a Serious Adverse Event (SAE) Within 24 Weeks After Receiving the First Course of Rituximab Treatment"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00443651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02820038",
+      "title": "Enhancing Patient Ability to Understand and Utilize Complex Information Concerning Medication Self-management",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2018-12-31",
+      "country": "United States",
+      "enrollment": 286,
+      "brief_summary": "The aim of the proposed project is to compare the effectiveness of two strategies designed to enhance patient understanding of medication risks/benefits: (1) Medication Guides, mandated for many medications by the Food and Drug Administration and (2) Drug Facts Boxes, developed by Woloshin and Schwartz to enhance the usability of consumer medication information. The investigators will also assess whether the effectiveness of these communication strategies can be increased by Gist Reasoning Train",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 years or older\n2. Able to speak and read in English\n3. Physician confirmed RA define by 1987 American College of Rheumatology criteria\n4. Moderate or highly active rheumatoid arthritis (assess by Routine Assessment of Patient Index Data 3 (RAPID3) score \\> 2.0) and\n5. ",
+      "endpoints": [
+        "Percentage of Participants Classified as Having Made an Informed Decision at 6 Months"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT02820038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01534884",
+      "title": "Phase 1, Randomized, Controlled, Multicenter, 2-Arm, Parallel-Group, Double-Blind Study to Demonstrate the Equivalence of CT-P10 to MabThera With Respect to the Pharmacokinetic Profile in Patients With Rheumatoid Arthritis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2014-02",
+      "country": "South Korea",
+      "enrollment": 154,
+      "brief_summary": "This randomized,controlled, multicenter, 2-arm, parallel-group, double-blind, prospective, Phase 1 study is designed to demonstrate comparable pharmacokinetics in terms of AUC0-last and Cmax (after second infusion) between CT-P10 and MabThera in patients with active RA concomitantly treated with MTX during the Core Study Period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient has a diagnosis of RA according to the revised 1987 ACR classification criteria (Arnett et al 1987) for at least 6 months prior to randomization.\n2. Patient has active disease as defined by the presence of 6 or more swollen joints (of 66 assessed) and 6 or more tender",
+      "endpoints": [
+        "PK in terms of Cmax"
+      ],
+      "sponsor": "Celltrion",
+      "url": "https://clinicaltrials.gov/study/NCT01534884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01842386",
+      "title": "Rituximab (Anti-CD20) for the Treatment of Subjects With Anticytokine Autoantibody-Associated Diseases",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-04-29",
+      "completion_date": "2021-05-06",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "Background:\n\n* Healthy people have white blood cells that protect them against bacteria, viruses, and fungi. However, some people have diseases which cause the body to make white blood cells that do not work properly. These white blood cells can attack the body s own proteins. These types of diseases are called anti-cytokine autoantibody-associated diseases. They can cause severe illnesses and even death. They are also difficult to treat with standard drugs.\n* Rituximab is a drug used to treat r",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nSubjects (greater than or equal to 18 years of age) are eligible if they meet the following criteria:\n\n1. Currently enrolled in one of the following protocols: 95-I-0066, 07-I-0033, 01-I-0202, or 93-I-0119.\n2. Presence of anticytokine autoantibodies in serum or plasma, along w",
+      "endpoints": [
+        "safe and tolerable administration of rituximab in subjects with anticytokine autoantibody-associated diseases who are refractory to conventional treatment"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01842386"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03054259",
+      "title": "A Feasibility Randomised Placebo-controlled Trial With Objective Outcome Measures to Evaluate the Efficacy of Biosimilar Rituximab in Musculoskeletal and Mucocutaneous Systemic Lupus Erythematosus",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2017-09-21",
+      "completion_date": "2020-02",
+      "country": "United Kingdom",
+      "enrollment": 30,
+      "brief_summary": "This is a feasibility study to test a new trial design for an important drug in Systemic Lupus Erythematosus (SLE or \"lupus\").\n\nSLE is an autoimmune disease. The immune system attacks the body's own tissues, any part of the body may be affected, but most commonly lupus causes a rash and arthritis, this affects patients' quality of life.\n\nLupus is usually treated with steroids or drugs that suppress the immune system. Although these help, many patients don't respond well enough and there is also ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged at least 18 years old\n* Active musculoskeletal SLE defined by inflammatory musculoskeletal pain with either clinical synovitis, ultrasound tenosynovitis or positive power Doppler in at least 1 joint\n* No contraindication to the use of IV methylprednisolone, biosimi",
+      "endpoints": [
+        "Feasibility of trial considering adherence to protocol, completion of all assessments and visits"
+      ],
+      "sponsor": "University of Leeds",
+      "url": "https://clinicaltrials.gov/study/NCT03054259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06877403",
+      "title": "Prospective Study on the Prevalence and Impact of Fatigue in Myasthenic Patients Followed At Clermont-Ferrand University Hospital - \"My\" Asthenia",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-01-31",
+      "completion_date": "2025-10",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "After identifying myasthenic patients meeting the inclusion criteria, telephone contact with patients to suggest that they participate in the study by responding to various questionnaires composed of validated scales used in current practice (MG-ADL, MG-QoL-15, MFIS, FSS, PASS, HADS, Godin-Leisure Exercise Time) which will be completed either digitally (REDCap link) or by paper form if necessary. Consultation of patients' medical records to collect information relating to factors associated with",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients who consulted the neurology department of the Clermont-Ferrand University Hospital between 01/01/2022 and 12/31/2024 in the context of their myasthenia and identified by the BAMARA and PMSI databases of the Clermont-Ferrand University Hospital\n* Diagnosis of aut",
+      "endpoints": [
+        "Prevalence of fatigue"
+      ],
+      "sponsor": "University Hospital, Clermont-Ferrand",
+      "url": "https://clinicaltrials.gov/study/NCT06877403"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02122406",
+      "title": "Depression and Anxiety in Rheumatoid Arthritis: Prevalence and Relation With Disease Activity",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2015-12",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "The primary endpoint of this study is to evaluate the prevalence of anxiety and depressive disorders, and their relationship with disease activity, in patients with rheumatoid arthritis treated with biological drugs",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>18 years\n* diagnosis of rheumatoid arthritis according to 2010 Classification American College of Rheumatology/ European League Against Rheumatism (ACR/EULAR) Criteria\n* being able to compile questionnaire\n* current treatment with biological disease-modifying antirheumat",
+      "endpoints": [
+        "Hospital Anxiety and Depression Scale (HADS)"
+      ],
+      "sponsor": "University of Pavia",
+      "url": "https://clinicaltrials.gov/study/NCT02122406"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02376335",
+      "title": "B-Cell Depleting Therapy (Rituximab) as a Treatment for Fatigue in Primary Biliary Cirrhosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2016-09",
+      "country": "United Kingdom",
+      "enrollment": 71,
+      "brief_summary": "Primary Biliary Cirrhosis (PBC) is a liver disease that predominantly affects females, can present for the first time at any age and which develops over many years. It is caused by the immune system attacking the body's own tissues. People with PBC frequently experience profound fatigue or tiredness which they liken to their \"batteries running down\" and although people still want to undertake normal activities they often lack the energy to be able to do them. This reduces quality of life, makes ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age ≥ 18 years\n* patient has capacity and provided written informed consent for participation in the study prior to any study specific procedures\n* moderate or severe fatigue as assessed using previously designated cut-offs of the PBC-40 fatigue domain (i.e. fatigue domain sco",
+      "endpoints": [
+        "Fatigue severity in PBC patients, assessed using the fatigue domain of the PBC-40, a fully validated, psychometrically robust, disease specific quality of life measure"
+      ],
+      "sponsor": "Newcastle-upon-Tyne Hospitals NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT02376335"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00261118",
+      "title": "Phase 3: Randomised Controlled Trial of Rituximab in Active Ulcerative Colitis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2009-10",
+      "country": "United Kingdom",
+      "enrollment": 24,
+      "brief_summary": "There is broad support for the hypothesis that Ulcerative colitis is an auto-immune disease. Rituximab is an antibody protein that removes a subgroup of white blood cells (B lymphocytes) from the circulation. These cells have the capacity to generate the auto-antibodies that typify auto-immune disease. Although Rituximab has been mainly used for treating B lymphocyte malignancies (lymphoma) it has also been used with promising results in Rheumatoid arthritis and has an excellent safety record. T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients over age of 18 years who are capable of providing written informed consent.\n2. Confirmed diagnosis of ulcerative colitis by conventional clinical, endoscopic and histological criteria.\n3. Failure of response to at least two weeks of oral prednisolone 40mg/day.\n4. Act",
+      "endpoints": [
+        "Remission defined as a decrease in Mayo score to ≤ 2 points at week 4"
+      ],
+      "sponsor": "Royal Liverpool University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00261118"
+    }
+  ],
+  "timestamp": "2026-03-04T16:23:42.638156",
+  "success": true,
+  "error_message": null
+}

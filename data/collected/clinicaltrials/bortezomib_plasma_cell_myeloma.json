@@ -1,0 +1,939 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Bortezomib",
+    "disease": "plasma cell myeloma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04133636",
+      "title": "A Phase 2, Multicohort Open-Label Study of JNJ-68284528, a Chimeric Antigen Receptor T Cell (CAR-T) Therapy Directed Against BCMA in Subjects With Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-11-07",
+      "completion_date": "2029-09-03",
+      "country": "Israel, France, Spain, Saudi Arabia, Germany, Netherlands, Belgium, United States",
+      "enrollment": 210,
+      "brief_summary": "The purpose of this study is to evaluate the overall minimal residual disease (MRD) negative rate of participants who receive JNJ-68284528.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cohort A: Received a minimum of 1 to a maximum of 3 prior lines of therapy including a proteasome inhibitor (PI) and immunomodulatory therapy (IMiD), and lenalidomide refractory per International Myeloma Working Group (IMWG) guidelines\n* Cohort B: Received one line of prior th",
+      "endpoints": [
+        "Cohorts A, B, C, D, E, and F: Percentage of Participants with Negative Minimal Residual Disease (MRD)",
+        "Cohorts G and H: Percentage of Participants with Sustained MRD Negative Complete Response (CR)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04133636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01541644",
+      "title": "A Pilot Study to Evaluate the Efficacy and Explore the Mechanism of Acupuncture in Treating Bortezomib-induced Peripheral Neuropathy (BIPN) in Multiple Myeloma Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2014-12",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "Patients are asked to be in this study if they have multiple myeloma and are having tingling, numbness and pain from taking bortezomib (velcade®). Patients who have been diagnosed with multiple myeloma often take bortezomib (velcade®).\n\nThis research is being done to find out if acupuncture can reduce the nerve pain, tingling, and/or numbness patients experience due to bortezomib (velcade®).\n\nAcupuncture is a medical technique of inserting very thin needles into the \"energy points\" on the body w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented diagnosis of multiple myeloma.\n* Greater than or equal to grade 2 BIPN as defined by the National Cancer Institute - -Common Toxicity Criteria (NCI-CTC) 4.0.\n* BIPN symptoms persist after bortezomib has been discontinued.\n* Eastern Cooperative Oncology Group (ECOG) ",
+      "endpoints": [
+        "To Determine the Response Rate (Via FACT/GOG-Ntx Scores) Effectiveness and Safety of Acupuncture in Alleviating Neuropathic Symptoms When Treating Patients With Moderate to Severe Bortezomib-induced Peripheral Neuropathy (BIPN)"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT01541644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00508209",
+      "title": "Phase II Study of Bortezomib Dexamethasone and High-dose Melphalan in Patients With Relapse After High-dose Melphalan With Autologous Stem Cell Support",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-07",
+      "completion_date": "2010-09",
+      "country": "Norway, Denmark, Sweden",
+      "enrollment": 50,
+      "brief_summary": "The prognosis after retreating with high-dose melphalan with stem cell support after first relapse after high-dose treatment is dependent on the time to first relapse. Bortezomib can increase chemosensitivity of e.g. melphalan. The trial aims at determining the toxicity of adding bortezomib to high-dose melphalan with stem cell support and evaluating whether the time to a second relapse can be prolonged.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* First relapse after ASCT\n* Symptomatic myeloma\n* More than 2,0 x 10\\^6 CD34+ stem cells / kg bodyweight in the freezer for stem cell support\n* Signed informed consent given prior to any study related activities have been performed\n* Age \\> 18 years\n\nExclusion Criteria:\n\n* Allo",
+      "endpoints": [
+        "Comparison of the event free survival after first high-dose melphalan with stem cell support (ASCT) and a second ASCT combined with bortezomib treatment of first relapse"
+      ],
+      "sponsor": "Nordic Myeloma Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT00508209"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03490084",
+      "title": "Impacts on Health Outcomes and Resources Utilization of Hospital-at-home for Elderly Patients With Multiple Myeloma",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-02-25",
+      "completion_date": "2023-10",
+      "country": "France",
+      "enrollment": 300,
+      "brief_summary": "The study aims to compare the overall survival adjusted to quality of life of 2 groups of patients with multiple myeloma, depending on the type of care: (1) day hospitalization exclusively or (2) day hospitalization combined with hospital-at-home.\n\nAs secondary objectives, the study aims to compare the impacts of the two types of care organization on:\n\n* the survival of patients and response to treatments according to criteria of the International Myeloma Working Group,\n* psychological status of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient \\> 65 years;\n* Resident of the departments in Île-de-France region (75, 92, 93 and 94);\n* Symptomatic multiple myeloma (relapsed or no);\n* Patient planned to receive one of the following chemotherapy protocols including bortezomib (VELCADE®): VMP (Velcade, Melphalan, P",
+      "endpoints": [
+        "Change in Quality of life using questionnaires EORTC QLQ-30",
+        "Change in Quality of life using questionnaires EORTC QLQ-MY20"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT03490084"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02197221",
+      "title": "IFM 2014-02 Study: A Randomized Phase III Study of Bortezomib-Melphalan 200 Conditioning Regimen Versus Melphalan 200 for Frontline Transplant Eligible Patients With Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2018-12-31",
+      "country": "Belgium, France",
+      "enrollment": 300,
+      "brief_summary": "Phase III multicenter randomized, open-label study comparing the efficacy of a combined high dose chemotherapy using melphalan and bortezomib versus melphalan alone followed by stem cell transplant in frontline multiple myeloma patients, non-progressive after induction therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have results from their initial diagnosis available at the time of screening to confirm all the following :\n\n  1. Diagnosis of multiple myeloma according to the diagnostic\n  2. Symptomatic de novo Multiple Myeloma\n* Be eligible for high-dose therapy with autologous stem c",
+      "endpoints": [
+        "Complete Response rates (according to IMWG 2011 criteria)",
+        "overall survival"
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "url": "https://clinicaltrials.gov/study/NCT02197221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01633281",
+      "title": "A Study of Acupuncture for Bortezomib or Thalidomide -Induced Peripheral Neuropathy in Patients With Multiple Myeloma or Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-06",
+      "completion_date": "2014-06",
+      "country": "Singapore",
+      "enrollment": 8,
+      "brief_summary": "A significant proportion (up to 60%) of myeloma patients treated with Bortezomib or thalidomide or both develop significant peripheral neuropathy (PN). Standard of care for this complication include drugs like gabapentin or pregabalin, which relieve symptoms only partially. PN of grade II or above mandates reduction in dose or frequency of Bortezomib or thalidomide, which may compromise treatment outcome. This clinical study explores whether, by intervening early in its course using acupuncture,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\> 21 years and have a diagnosis of a plasma cell dyscrasia or lymphoma.\n2. Patients must have neuropathy greater or equal to 2 according to CTCAE v 3.0 scale in spite of adequate duration (at least 3 weeks) of previous treatment with Gabapentin or Pregabalin or are unabl",
+      "endpoints": [
+        "Improvement in peripheral neuropathy"
+      ],
+      "sponsor": "Singapore General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01633281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03314181",
+      "title": "A Phase 1/2, Multicenter, Dose-Escalation and Expansion Study of Combination Therapy With Venetoclax, Daratumumab and Dexamethasone (With and Without Bortezomib) in Subjects With Relapsed or Refractory Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-04-02",
+      "completion_date": "2031-05",
+      "country": "France, Denmark, Australia, Germany, Canada, Japan, United States",
+      "enrollment": 156,
+      "brief_summary": "This is a study of venetoclax, daratumumab, and dexamethasone with and without bortezomib combination therapy to evaluate safety, tolerability, and efficacy of these combinations in participants with relapsed or refractory multiple myeloma. The study will consist of 3 distinct parts: Part 1 includes participants with t(11;14) positive relapsed/refractory (R/R) multiple myeloma who will receive venetoclax in combination with daratumumab and dexamethasone (VenDd); Part 2 includes participants with",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status \\<= 2.\n* Participant has relapsed or refractory multiple myeloma with documented evidence of progression that occurred during or after the participant's last treatment regimen based on investigator's determination of",
+      "endpoints": [
+        "Overall Response Rate (ORR)",
+        "Very Good Partial Response or Better Response Rate (VGPR)",
+        "Complete Response (CR) or Better Rate"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT03314181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03701321",
+      "title": "Phase 1/2 Study of Daratumumab, Bortezomib, Dexamethasone With or Without Venetoclax in Relapsed/Refractory Multiple Myeloma With Assessment for t(11;14) Status",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2019-01-25",
+      "completion_date": "2020-05-28",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of venetoclax when given together with daratumumab, bortezomib, and dexamethasone, and how well they work in treating patients with multiple myeloma that has come back (relapsed) or does not respond to treatment (refractory). Drugs used in chemotherapy, such as venetoclax and dexamethasone, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PHASE I (ARMS A, B, C) - STEP 1: Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n* PHASE I (ARMS A, B, C) - STEP 1: Patients must have been diagnosed with symptomatic relapsed/refractory multiple myeloma.\n\n  * NOTE: Relapsed/refractory myeloma is defined a",
+      "endpoints": [
+        "Maximum tolerated dose of venetoclax in combination with daratumumab, bortezomib and dexamethasone (Phase I)",
+        "Minimal residual disease (MRD) negative status (Phase II)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03701321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01526694",
+      "title": "Phase II Multicenter Clinical Trial to Investigate the Efficacy and Safety of Bendamustine, Dexamethasone and Thalidomide in R/R MM Pts After Treatment With Lenalidomide and Bortezomib or Which Are Ineligible to One of These Drugs",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2017-04-08",
+      "country": "Italy",
+      "enrollment": 30,
+      "brief_summary": "This is a prospective, multicenter phase II trial designed to determine efficacy and safety of a combination chemotherapy consisting of Bendamustine + Dexamethasone + Thalidomide in patients with multiple myeloma (MM) after treatment with lenalidomide and bortezomib or which are ineligible to one of these drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and voluntarily sign an informed consent form.\n* Age 18 years at the time of signing the informed consent form.\n* Life expectancy of at least 3 months\n* Able to adhere to the study visit schedule and other protocol requirements\n* Relapsed or refractory active MM (ac",
+      "endpoints": [
+        "Response rate",
+        "Incidence of haematological toxicity of BDT"
+      ],
+      "sponsor": "Azienda Ospedaliera di Bolzano",
+      "url": "https://clinicaltrials.gov/study/NCT01526694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03984097",
+      "title": "An Open-Label, Multicenter Phase 1b Study Investigating the Safety of TAK-079 in Combination With Backbone Regimens for the Treatment of Patients With Newly Diagnosed Multiple Myeloma and for Whom Stem Cell Transplantation Is Not Planned as Initial Therapy",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-07-29",
+      "completion_date": "2026-03-05",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this original study is to determine the recommended phase 2 dose (RP2D) of TAK-079 when administered to participants with NDMM in combination with the backbone treatment regimen. The purpose of the safety/access cohort is to provide continued access to TAK-079 to participants previously enrolled to a TAK-079 parent study and to evaluate the long-term safety profile of TAK-079.",
+      "eligibility_criteria": "Inclusion (Inc) Criteria:\n\n1. Must have previously untreated multiple myeloma (MM) as defined by the IMWG criteria requiring treatment according to the investigator.\n2. Are appropriate candidates for either the VRd or Rd backbone antimyeloma therapy according to the investigator.\n3. Must have measur",
+      "endpoints": [
+        "Treatment Phase: RP2D of TAK-079",
+        "Safety Extension Phase: Number of Participants Reporting one or More Serious Adverse Events (SAEs)",
+        "Safety Extension Phase: Number of Participants With Grade 3 or Higher Treatment-emergent Adverse Events (TEAEs)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT03984097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07018050",
+      "title": "A Multicenter, Open-Label Phase II Study to Evaluate QLS32015 Combination Therapy in the Treatment of Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-09-12",
+      "completion_date": "2028-07",
+      "country": "China",
+      "enrollment": 160,
+      "brief_summary": "The purpose of the study is to compare the efficacy of QLS32105 (SC) in combination with Pomalidomide, and QLS32105 (SC) in combination with QL2109 or Daratumumab, and QLS32105 (SC) in combination with QL2109 or Daratumumab and Pomalidomide, and QLS32105(SC) in combination with Bortezomib and Lenalidomide.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of multiple myeloma confirmed according to the 2016 International Myeloma Working Group (IMWG) diagnostic criteria;\n* Prior therapy: Relapsed, progressed, or intolerant to ≥1 prior line of anti-multiple myeloma therapy;\n* Measurable disease at screening, defined by a",
+      "endpoints": [
+        "ORR (Partial Response [PR] or Better)",
+        "Overall Minimal Residual Disease (MRD)"
+      ],
+      "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07018050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04065308",
+      "title": "A Phase II Trial to Evaluate the Efficacy of Daratumumab With DCEP in Multiply Myeloma Patients With Plasmacytoma Who Fail to Achieve Complete Remission With Bortezomib Containing Induction Regimen",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-14",
+      "completion_date": "2021-09-30",
+      "country": "South Korea",
+      "enrollment": 33,
+      "brief_summary": "This trial aimed to investigate the therapeutic efficacy of daratumumnab plus chemitherapy in multiple myeloma with plasmacytoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nECOG performance status 2 or better Adequate physical condition that could tolerate cytotoxic chemotherapy judged by investigator Relapsed/Refractory Multiple myeloma with plasmacytoma Adequate cardiac function , hepatic and renal function Adequate hematopoietic function i. Whit",
+      "endpoints": [
+        "Complete response rate in terms of plasmacytoma"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04065308"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729338",
+      "title": "Phase II Subcutaneous VELCADE and Oral Cyclophosphamide-based Induction + Sequential VELCADE and Revlimid Maintenance for Newly Diagnosed Multiple Myeloma in Non-transplant Candidates: An Entirely Non-intravenous Regimen",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-12-19",
+      "completion_date": "2016-12-31",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "The primary purpose of this study is to estimate the overall response rate (ORR), defined as partial response (PR) or better at any time during induction therapy. The success of the therapy will be determined by ORR with strong consideration given to the secondary endpoints of tolerability, duration of response, and quality of life (QOL).\n\nAll patients will be treated with the same experimental regimen. Several novel features are being explored: the substitution of cyclophosphamide for melphalan",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary written informed consent before performance of any study-related procedure not part of normal medical care, with the understanding that consent may be withdrawn by the subject at any time without prejudice to future medical care.\n* Age ≥18 years at the time of signin",
+      "endpoints": [
+        "Overall Response Rate (ORR) During Induction Therapy"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT01729338"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00691704",
+      "title": "Lenalidomide and Low Dose Dexamethasone Induction Therapy Followed by Low Dose Melphalan, Prednisone, Lenalidomide and Bortezomib Sequential Maintenance Therapy for Newly Diagnosed High-risk Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of induction therapy with lenalidomide and low dose dexamethasone followed by sequential low dose bortezomib followed by low dose Melphalan and Prednisone, then followed by low dose lenalidomide for multiple cycles in subjects with high risk Multiple Myeloma (MM). The primary objective is to evaluate the efficacy as measured by the progression free survival (PFS) at 2 years of low dose sequential therapy following four cycles of inductio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age 18 years or older at the time of signing the consent.\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. Multiple myeloma (MM) diagnosed according to the following standard criteri",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00691704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01237249",
+      "title": "A National, Open-label, Multicenter, Randomized, Comparative Phase IIb Study of Treatment for Newly Diagnosed Multiple Myeloma Patients Older Than 65 Years With Sequential Melphalan/Prednisone/Velcade (MPV) Followed by Revlimid/Low Dose Dexamethasone (Rd) Versus Alternating Velcade/Melphalan/Prednisone (MPV) With Revlimid/Low Dose Dexamethasone (Rd).",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2016-05",
+      "country": "Spain",
+      "enrollment": 250,
+      "brief_summary": "This is a national, multicenter, open-label, randomized, comparative study designed to compare, first, the TTP of the two treatment schemes proposed (MPV followed by Rd or MPV alternating with Rd) in newly diagnosed MM patients older than 65 years. This comparison will be performing in terms of both efficacy and safety. Up to 120 patients will be included in each treatment arm and evaluated at scheduled visits in up to 3 study periods: Pre-treatment, Treatment and Follow-up.\n\nPrimary outcome mea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent obtained before starting any study-specific procedure.\n2. Symptomatic elderly MM newly diagnosed by EBMT criteria older than 65 years.\n3. Performance status (ECOG) ≤ 2.\n4. Have pre-treatment clinical laboratory values meeting the following criteria wi",
+      "endpoints": [
+        "To evaluate the efficacy in terms of time to progression (TTP) at 18 months of MPV and Rd used as either in a sequential or alternating approach in newly diagnosed MM patients older than 65 years.",
+        "To evaluate the toxicity (safety and tolerability) of the sequential versus the alternating use of MPV and Rd,in terms of adverse events presented in both groups of patients"
+      ],
+      "sponsor": "PETHEMA Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT01237249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04991103",
+      "title": "Minimal Residual Disease Response-adapted Deferral of Transplant in Dysproteinemia - MILESTONE Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-09-22",
+      "completion_date": "2028-08-27",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This is a phase II interventional study evaluating the use of minimal residual disease by next generation sequencing to defer autologous hematopoietic stem cell transplantation (AHCT) in patients with newly diagnosed multiple myeloma (cohort A) and amyloidosis (cohort B).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years with no upper age limit with a diagnosis of newly diagnosed multiple myeloma with indication for initiation of therapy with Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* No prior therapy except for dexamethasone (up to 160 mg) and/or bortezo",
+      "endpoints": [
+        "Number of patients who are able to attain MRD<10-5 by next generation sequencing after 6 cycles of Dara-VRD and defer AHCT."
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT04991103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02514382",
+      "title": "A Phase 1b Study of REOLYSIN® (Reovirus Serotype 3 - Dearing Strain) Combined With Standard Doses of Bortezomib and Dexamethasone in Patients With Relapsed/Refractory Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-08-21",
+      "completion_date": "2022-04-19",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "This phase Ib trial studies the safety and best dose of wild-type reovirus in combination with bortezomib and dexamethasone and to see how well they work in treating patients with multiple myeloma that has returned (relapsed) or does not respond to treatment (refractory). A virus, called wild-type reovirus, may be able to infect cancer cells and slow the cancer growth and kill cancer cells. Bortezomib and dexamethasone may stop the growth of cancer cells by blocking some of the enzymes needed fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have relapsed or refractory MM after at least one line of therapy\n* Have a confirmed diagnosis of MM with measurable disease, as defined by the presence of monoclonal immunoglobulin protein in serum electrophoreses of at least 0.5 g/dL for immunoglobulin G (IgG) or 0.25 g/dL f",
+      "endpoints": [
+        "Incidence of adverse events assessed by CTCAE version 4.03"
+      ],
+      "sponsor": "University of Southern California",
+      "url": "https://clinicaltrials.gov/study/NCT02514382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06212596",
+      "title": "A Randomised Phase II Trial of Selinexor, Cyclophosphamide and Prednisone vs Cyclophosphamide and Prednisone in Relapsed or Refractory Multiple Myeloma (RRMM) Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-07-16",
+      "completion_date": "2023-11-14",
+      "country": "United Kingdom",
+      "enrollment": 66,
+      "brief_summary": "The trial is designed as a randomised, controlled, open, parallel group, multi-centre phase II trial to evaluate clinical efficacy of selinexor in combination with cyclophosphamide and prednisone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able to give informed consent and willing to follow all trial protocol assessments\n2. Aged 18 years or over\n3. Participants with confirmed myeloma based on International Myeloma Working Group (IMWG) criteria (Rajkumar et al. (2014))\n4. Measurable disease with at least one of ",
+      "endpoints": [
+        "Progression free survival at 6 months"
+      ],
+      "sponsor": "University of Leeds",
+      "url": "https://clinicaltrials.gov/study/NCT06212596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00765102",
+      "title": "A Phase II Trial of Romidepsin and Bortezomib for Multiple Myeloma Patients With Relapsed or Refractory Disease",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-09-01",
+      "completion_date": "2010-03-01",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "This is a phase II, open-label, multicenter, dual-strata study designed to evaluate the efficacy and safety of IV romidepsin given in combination with IV bortezomib for multiple myeloma (MM) patients with refractory or relapsed disease. Patients will be enrolled into one of two strata, bortezomib-resistant or bortezomib non-resistant.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must fulfill all of the following criteria to be eligible for study participation:\n\n* Male or female patients aged ≥ 18 years old\n* Has given voluntary written informed consent before any study-related procedure not part of normal medical care, with the understanding tha",
+      "endpoints": [
+        "Count of Participant Best Overall Response As Assessed by the Investigator"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00765102"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01453088",
+      "title": "(PRO#11307) Phase III Randomized Study of Autologous Stem Cell Transplantation With High-dose Melphalan Versus High-dose Melphalan and Bortezomib in Patients With Multiple Myeloma 65 Year or Older",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-06-24",
+      "completion_date": "2022-05-01",
+      "country": "United States",
+      "enrollment": 63,
+      "brief_summary": "In this study the investigators are comparing this standard regimen to the newly established regimen of melphalan and bortezomib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of multiple myeloma less than 12 months since initiation of systemic therapy\n* Age ≥60 years at time of transplantation\n* KPS 70-100%\n* Recovery from complications of prior therapy\n\nExclusion Criteria:\n\n* Diagnosis other than multiple myeloma\n* Chemotherapy",
+      "endpoints": [
+        "Progression Free Survival Rate"
+      ],
+      "sponsor": "Hackensack Meridian Health",
+      "url": "https://clinicaltrials.gov/study/NCT01453088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06012383",
+      "title": "A Phase IV, Post Marketing, Prospective, Observational Cohort Study to Investigate Safety and Effectiveness of Alvocade® in Iranian Patients With Multiple Myeloma",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-07",
+      "completion_date": "2022-12",
+      "country": "N/A",
+      "enrollment": 57,
+      "brief_summary": "This study is a phase IV, post-marketing, observational, cohort study for safety and effectiveness evaluation of Alvocade® use in Iranian patients with multiple myeloma. No control groups were considered in the study design. The primary objective of this study was safety assessment, including the incidence of adverse events (AEs).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with multiple myeloma were included in the study.\n\nExclusion Criteria:\n\n* There were no exclusion criteria for this study.",
+      "endpoints": [
+        "Safety Assessment"
+      ],
+      "sponsor": "NanoAlvand",
+      "url": "https://clinicaltrials.gov/study/NCT06012383"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00111813",
+      "title": "Phase I Clinical Trial of Vorinostat (MK-0683) in Combination With Bortezomib in Patients With Advanced Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2011-05",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "The purposes of this study are:\n\n* To determine the maximum tolerated dose (MTD) for the combination of oral vorinostat and bortezomib in participants with advanced multiple myeloma\n* To assess the safety and tolerability of this regimen and to document the participant's clinical status (by anti-tumor activity) for this combination, as determined per standard of care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults with refractory or relapsed multiple myeloma\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2 (a measurement to determine participant's ability to perform daily activities)\n* Adequate bone marrow reserve\n* Adequate hepatic and renal function\n* Abili",
+      "endpoints": [
+        "Mean Duration of Treatment With Vorinostat"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00111813"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04008888",
+      "title": "Phase II Open Lable Clinical Study Efficacy and Safety of the Holistic Treatment for Young Patients With High-Risk Multiple Myeloma",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-05",
+      "completion_date": "2020-08-01",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "The clinical trial was conducted in a cohort of young, high-risk myeloma patients who were designed to receive a combination of high-dose chemotherapy with allogeneic or autologous hematopoietic stem cell transplantation. The objective was to assess the progression free survival (PFS), overall survival (OS),and overall response rate (ORR) of the overall treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinical diagnosis of high-risk multiple myeloma\n\n   In addition, patients must meet at least one of the following criteria I-IX (I-VIII at time of diagnosis or pre-autograft):\n\n   I.Complex karyotype\n\n   II.Fluorescent in situ hybridization (FISH) translocation 4:14 or 14:16",
+      "endpoints": [
+        "progression free survival(PFS)"
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT04008888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06158269",
+      "title": "Phase II Clinical Study of Daratumumab Combined With Bortezomib, Lenalidomide and Dexamethasone (DVRd) in the Treatment of Patients With Newly Diagnosed Double-hit Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-12",
+      "completion_date": "2027-12",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Evaluate the efficacy of DVRd in patients with newly diagnosed double-hit multiple myeloma (MM) and the feasibility of minimal residual disease (MRD) guided maintenance therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily signing the Informed Consent Form (ICF).\n2. Age: ≥ 18 years old and \\< 70 years old.\n3. Newly diagnosed MM according to International Myeloma Working Group (IMWG) criteria, with at least one measurable disease: The serum M protein detected by serum protein electro",
+      "endpoints": [
+        "MRD negative rate"
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT06158269"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00084747",
+      "title": "Phase I/II Trial of Autologous Peripheral Blood Progenitor Cell Transplantation With VELCADE Maintenance as Treatment for Intermediate- and Advanced-Stage Multiple Myeloma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2013-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for their growth. Giving bortezomib as maintenance therapy after autologous stem cell transplantation may kill more cancer cells and prolong remission.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of adjuvant bortezomib as maintenance therapy and to see how well it works in treating patients who have undergone stem cell transplantation for intermediate or advanced multiple my",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of intermediate or advanced multiple myeloma meeting criteria for at least 1 2 following:\n* Intermediate- to high-M-component production rates (immunoglobulin \\[Ig\\]G \\> 5 g/dL or immunoglobulin A (IgA) \\> 3 g/dL or urine M component \\> 4 g/24 hours)\n* More than one ",
+      "endpoints": [
+        "Progression-free Survival"
+      ],
+      "sponsor": "Jonsson Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00084747"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03733691",
+      "title": "A Phase 2, Open Label, Randomized Trial Evaluating Ixazomib Compared to Ixazomib-Lenalidomide Combination Maintenance Therapy for Frontline Multiple Myeloma Patients",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-03-01",
+      "completion_date": "2023-10-19",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "This is a randomized, Phase 2 study involving two arms evaluating the efficacy and safety of ixazomib alone and the combination of both ixazomib and lenalidomide as maintenance therapy for patients with multiple myeloma who have achieved at least partial response (PR) or better after receiving a bortezomib- and lenalidomide-containing combination front-line therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\-\n\nEach patient must meet all of the following inclusion criteria to be enrolled in the study:\n\n1. Male or female patients 18 years or older.\n2. Patients must be receiving a frontline bortezomib- and lenalidomide-containing regimen for treatment of disease\n3. Patients must meet",
+      "endpoints": [
+        "PFS",
+        "Adverse events (AEs)"
+      ],
+      "sponsor": "Oncotherapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03733691"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01212952",
+      "title": "MC1082: A Phase I/II Trial of Pomalidomide (CC-4047), Bortezomib, and Dexamethasone in Patients With Relapsed or Refractory Multiple Myeloma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2018-03-22",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "RATIONALE: Pomalidomide and bortezomib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Bortezomib may also stop the growth of tumor cells by blocking blood flow to the tumor. Drugs used in chemotherapy, such as dexamethasone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving pomalidomide and bortezomib together with dexamethasone may kill more tumor cells. PURPOSE: This phase ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum Creatinine =\\< 3 mg/dL\n* Absolute neutrophil count \\>= 1000/uL\n* Platelet count \\>= 75,000/uL\n* Measurable disease of multiple myeloma as defined by at least ONE of the following:\n\n  * serum monoclonal protein \\>= 1.0 g/dL\n  * \\> 200 mg of monoclonal protein in the urine",
+      "endpoints": [
+        "Find Maximum Tolerated Dose (MTD) of Bortezomib in Combination With Pomalidomide and Dexamethasone Out to 2.5 Years, by Count of Patients With Dose Limiting Toxicities.",
+        "Number of Participants With a Hematologic Response (PR, VGPR, or CR)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT01212952"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02773550",
+      "title": "Clinical, Multicenter, Single-arm, Treatment With a Scheme With Low Doses of Bortezomib / Melphalan / Prednisone (MPV) in Patients With Multiple Myeloma (MM) Newly Diagnosed Symptomatic ≥75 Years",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2014-01",
+      "completion_date": "2018-07",
+      "country": "Spain",
+      "enrollment": 24,
+      "brief_summary": "This clinical trial is a multicenter, cohort, with one arm to study the SLP to 18 months of Velcadito scheme (velcade 1.0 mg / m2 administered over two days with melphalan and prednisone) in patients with MM diagnosis again higher 75. After completion of the protocol patients were still approximately every two months, in clinical practice, to observe the survival and answers to other treatments. All the scans are part of the normal routine. The realization of diagnostic tests and drug treatment ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient should, in the investigator's opinion, be able to meet all requirements of the trial.\n* The patient must voluntarily sign informed consent before performing any test study that is not part of routine care of patients, with the knowledge that the patient can leave t",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "Basque Health Service",
+      "url": "https://clinicaltrials.gov/study/NCT02773550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05860036",
+      "title": "Safety and Efficiency of VRd-based Regimen Followed by BCMA CAR-T for New-diagnosed Transplant-ineligible Multiple Myeloma Patients: a Prospective, Single-arm, Single-center, Phase II Study.",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-04-04",
+      "completion_date": "2028-03-10",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "This is a single-arm, open-label study to evaluate the efficacy and safety of VRd(Bortezomib, Lenalidomide and Dexamethasone)-based regimen combined with BCMA CAR-T in Chinese transplant-ineligible patients with newly diagnosed multiple myeloma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years and ≤ 75 years.\n2. Participants with documented NDMM according to IMWG diagnostic criteria.\n3. Measurable disease, at screening as defined by any of the following: Serum monoclonal paraprotein (M-protein) level ≥1.0 g/dL or urine M-protein level ≥200 mg/24 hour",
+      "endpoints": [
+        "Safety and Tolerability",
+        "MRD-negative rate"
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT05860036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03652064",
+      "title": "A Phase 3 Study Comparing Daratumumab, VELCADE (Bortezomib), Lenalidomide, and Dexamethasone (D-VRd) With VELCADE, Lenalidomide, and Dexamethasone (VRd) in Subjects With Untreated Multiple Myeloma and for Whom Hematopoietic Stem Cell Transplant is Not Planned as Initial Therapy",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-11-06",
+      "completion_date": "2026-03-31",
+      "country": "Israel, Brazil, France, Spain, Czechia, Turkey (Türkiye), Germany, United Kingdom, Netherlands, Poland, Canada, Japan, United States",
+      "enrollment": 395,
+      "brief_summary": "The purpose of this study to determine if the addition of daratumumab to bortezomib + lenalidomide + dexamethasone (VRd) will improve overall minimal residual disease (MRD) negativity rate compared with VRd alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Diagnosis of multiple myeloma as documented per International Myeloma Working Group (IMWG) criteria Monoclonal plasma cells in the bone marrow greater than or equal to (\\>=)10 percentage (%) or presence of a biopsy proven plasmacytoma and documented multiple myeloma satisfyin",
+      "endpoints": [
+        "Percentage of Participants with Negative Minimal Residual Disease (MRD) Status"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03652064"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01005628",
+      "title": "Velcade - Regulatory Post Marketing Surveillance (PMS)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2012-03",
+      "country": "South Korea",
+      "enrollment": 1121,
+      "brief_summary": "After the KFDA (Korea Food and Drug Administration) approval of a new drug, an annual report of the drug's safety and efficacy data must be reported to the Health Authority in 6 years. In this Observational study, we will investigate the basic demographic, medical history, concomitant drug use, as well as dosing information of multiple myeloma patients using bortezomib (Velcade).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are newly prescribed bortezomib injection for the treatment of multiple myeloma\n\nExclusion Criteria:\n\n* Patients who are hypersensitive to the bortezomib or any component of the bortezomib or with a history of the hypersensitivity\n* Patients with severe hepatic im",
+      "endpoints": [
+        "The data on AE (Adverse event) incidence, such as whether AEs occurred, types of AEs, and incidence of AEs by type"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT01005628"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06913192",
+      "title": "A Single-Center, Open-Label, Single-Arm Clinical Study of Sequential Anti-BCMA CAR-T Cell Therapy Following Autologous Hematopoietic Stem Cell Transplantation in Transplant-Eligible Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2028-02-28",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "1. Study Title A Single-Center, Open-Label, Single-Arm Clinical Study of Sequential Anti-BCMA CAR-T Cell Therapy Following Autologous Hematopoietic Stem Cell Transplantation in Transplant-Eligible Newly Diagnosed Multiple Myeloma\n2. Study Objective This study aims to evaluate the safety and efficacy of sequential anti-BCMA CAR-T cell therapy following autologous hematopoietic stem cell transplantation (ASCT) in transplant-eligible patients with newly diagnosed multiple myeloma (NDMM), in order t",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge between 18 and 70 years; Estimated life expectancy \\> 12 weeks; Diagnosis of multiple myeloma confirmed by physical examination, histopathology, laboratory tests, and imaging; Liver function: ALT and AST \\< 3 times the upper limit of normal; Karnofsky Performance Status (KPS",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Xuzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06913192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00932698",
+      "title": "An Open-Label, Dose-Escalation, Phase 1 Study of the Oral Form of Ixazomib (MLN9708), a Second-Generation Proteasome Inhibitor, in Adult Patients With Relapsed and/or Refractory Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-10-12",
+      "completion_date": "2017-05-23",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "This study will determine the safety profile, tolerability, and maximum tolerated dose (MTD) and disease response of Ixazomib administered orally in participants with relapsed and/or refractory multiple myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEach participant must meet all of the following inclusion criteria to be enrolled in the study:\n\n* Multiple myeloma diagnosed according to the standard criteria.\n* Participants with multiple myeloma who have relapsed following at least 2 lines of therapy.\n* Participants must hav",
+      "endpoints": [
+        "Number of Participants With One or More Treatment-emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)",
+        "Number of Participants With Clinically Significant Abnormalities Reported as TEAEs",
+        "Number of Participants With a TEAE of Peripheral Neuropathy"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT00932698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00744354",
+      "title": "A Phase 1 Dose Escalation Study of Bortezomib (Velcade®), Pegylated Liposomal Doxorubicin (Doxil®), and Vorinostat (Suberoylanilide Hydromaxic Acid, Saha, Zolinzatm) in Patients With Relapse/Refractory Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2008-10",
+      "completion_date": "2015-04",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "RATIONALE: Vorinostat and bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Bortezomib may also stop the growth of multiple myeloma by blocking blood flow to the tumor. Drugs used in chemotherapy, such as doxorubicin hydrochloride liposome, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving doxorubicin hydrochloride liposome together with vorinostat and bortezomib ma",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of multiple myeloma\n\n  * Relapsed or refractory disease\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance status 0-2\n* Life expectancy ≥ 3 months\n* ANC ≥ 1.0 x 10\\^9/L (no granulocyte growth factor support, e.g., G-CSF or GM-CSF allowed)\n* Platelet count ≥ 100 x 10\\",
+      "endpoints": [
+        "Maximum tolerated dose of vorinostat"
+      ],
+      "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00744354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05422027",
+      "title": "Selinexor(ATG-010) Plus Bortezomib, Lenalidomide and Dexamethasone (XVRd) in High Risk Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-07-25",
+      "completion_date": "2025-12-31",
+      "country": "China",
+      "enrollment": 42,
+      "brief_summary": "This is a single-arm and open-label study to explore XVRd (ATG-010, Bortezomib, Lenalidomide and Dexamethasone) regimen in high-risk newly diagnosed multiple myeloma.The primary objective of the dose escalation study is to determine the safety, tolerability, and recommended phase II dose (RP2D) of selinexor; Then dose expansion at the RP2D level based on dose escalation phase will be conducted to evaluate the efficacy, safety and tolerability.The enrollment period for this study is expected to b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet all of the following inclusion criteria to be eligible to enroll in this study:\n\n  1. Willing and able to written informed consent (ICF) .\n  2. Age ≥ 18 years.\n  3. Newly diagnosed multiple myeloma as defined by IMWG(Rajkumar, Dimopoulos et al. 2014) , measu",
+      "endpoints": [
+        "Dose Escalation: Maximum Tolerated Dose (MTD)",
+        "Dose Escalation: Recommended Phase 2 Does (RP2D)",
+        "Dose Expansion: MRD negative remission"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05422027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00849251",
+      "title": "Combination Pegylated Liposomal Doxorubicin, Bortezomib, Cyclophosphamide, and Dexamethasone for Multiple Myeloma (PLD-BCD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-11",
+      "completion_date": "2015-06",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as pegylated liposomal doxorubicin hydrochloride and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the cancer. Giving pegylated liposomal doxorubicin hydrochloride together with bortezomib, cyclophosphamide, and dexamethasone may ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cohort 1: Relapsed, refractory patients with multiple myeloma who have failed at least one prior regimen not including dexamethasone alone\n* Cohort 2: Newly diagnosed patients with previously untreated multiple myeloma; prior dexamethasone permitted; not to exceed 320 mg\n* Dia",
+      "endpoints": [
+        "Maximum Tolerated Dose of This Combination of Drugs as Assessed by the NCI Common Terminology Criteria for Adverse Events (CTCAE) Version 3.0 (Cohort 1) [MTD Cyclophosphamide, MTD Bortezmib, MTD Docxorubicin]",
+        "Disease Response Rate (Cohort II)",
+        "Maximum Tolerated Dose of This Combination of Drugs as Assessed by the NCI Common Terminology Criteria for Adverse Events (CTCAE) Version 3.0 (Cohort 1). [Dexamethasone MTD]"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00849251"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02204553",
+      "title": "An Expanded Treatment Protocol of Panobinostat (LBH589) in Combination With Bortezomib and Dexamethasone in Patients With Multiple Myeloma Who Have Had at Least One Prior Line of Therapy",
+      "phase": "N/A",
+      "status": "NO_LONGER_AVAILABLE",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "This will be a multi-center, open label, expanded treatment protocol of panobinostat, bortezomib and dexamethasone in patients with relapsed and/or refractory multiple myeloma. Panobinostat will be administered at a starting dose of 20mg orally three times a week (every other day) for two weeks on and one week off, with dose adjustments permitted based on observed toxicity. Bortezomib will be administered either intravenously or sub-cutaneously, twice a week on days 1 and 4, two weeks on 1 week ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* This study is intended for patients with relapsed and/or refractory multiple myeloma, who have received at least one prior line of therapy. Patients must require retreatment as per IMWG definitions (Kyle et al 2003). Approximately 50-100 patients are expected to be enrolled in",
+      "endpoints": [],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT02204553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05114109",
+      "title": "Isatuximab in Type I Cryoglobulinemia: A Prospective Pilot Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-01",
+      "completion_date": "2023-12-31",
+      "country": "N/A",
+      "enrollment": 21,
+      "brief_summary": "Cryoglobulinaemia is defined as the presence of immunoglobulins in the serum, which reversibly precipitate and form a gel when the temperature drops below 37°C and redissolve upon re-warming. Classification includes three subgroups based on Immunoglobulin (Ig) composition. Type I cryoglobulinaemia consists of only one isotype or subclass of immunoglobulin. Types II and III are classified as mixed cryoglobulinaemia (MC) because they include both IgG and IgM components. Overall, cryoglobulinaemia ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Written informed consent\n* Indolent Multiple myeloma or monoclonal gammopathy of unknown significance (MGUS) with monoclonal IgG component\n* Active cryoglobulinemia vasculitis defined by positive type I IgG cryoglobulinemia and a clinically active cryoglobuli",
+      "endpoints": [
+        "Clinical response W20"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT05114109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05979363",
+      "title": "Safety and Efficiency of VRd Combining BCMA CAR-T Regimen for Transplant-ineligible Patients With Primary Plasma Cell Leukemia: a Prospective, Single-arm, Single-center, Phase II Study.",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-08-14",
+      "completion_date": "2028-07-01",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "This is a single-arm, open-label study to evaluate the efficacy and safety of VRD-based regimen combined with BCMA CAR-T in transplant-ineligible patients with primary plasma cell leukemia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years and ≤ 75 years.\n2. Participants with documented primary plasma cell leukemia according to IMWG diagnostic criteria (circulating plasma cells ≥5%, determined by morphology on peripheral blood smear; or absolute value of peripheral blood tumorigenic plasma cells ",
+      "endpoints": [
+        "Safety and Tolerability",
+        "MRD-negative rate"
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT05979363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01818752",
+      "title": "A Randomized, Open-label Phase 3 Study of Carfilzomib, Melphalan, and Prednisone Versus Bortezomib, Melphalan, and Prednisone in Transplant-ineligible Patients With Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-07-08",
+      "completion_date": "2016-11-04",
+      "country": "Bulgaria, Singapore, Spain, Mexico, Switzerland, Russia, Canada, Belgium, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Romania, Israel, South Korea, Greece, Austria, Ukraine, Poland, Argentina, Japan, United States, France, Czechia, Italy, China, Netherlands, United Kingdom, New Zealand",
+      "enrollment": 955,
+      "brief_summary": "The primary objective was to compare the progression-free survival of transplant ineligible patients newly diagnosed with multiple myeloma who were treated with carfilzomib, melphalan and prednisone (CMP) or with Velcade® (bortezomib), melphalan and prednisone (VMP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Newly diagnosed symptomatic multiple myeloma (per International Myeloma Working Group \\[IMWG\\] diagnostic criteria)\n2. Transplant ineligibility\n3. Measurable disease, as defined by 1 or more of the following (assessed within 21 days prior to randomization):\n\n   * Serum M-prot",
+      "endpoints": [
+        "Progression-Free Survival (PFS)"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT01818752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02811978",
+      "title": "A Phase 3, Randomized, Open-label Study of Subcutaneous and Intravenous VELCADE in Combination With Dexamethasone in Chinese Subjects With Relapsed or Refractory Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-09-27",
+      "completion_date": "2018-11-10",
+      "country": "China",
+      "enrollment": 81,
+      "brief_summary": "The purpose of this phase 3 study is to determine if subcutaneous velcade is non-inferior to intravenous velcade when administered in combination with low-dose dexamethasone in chinese refractory or relapsed multiple myeloma (r/rMM) patients. The study will assess the overall response rate after 4 cycles of velcade and dexamethasone administration.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have received at least 1 and no more than 3 prior lines of therapy for multiple myeloma\n* Have an Eastern Cooperative Oncology Group (ECOG) performance status score of 0, 1, or 2\n* The toxicities resulting from previous therapy must be resolved or stabilized to less than or eq",
+      "endpoints": [
+        "Overall Response Rate After 4 Cycles of Velcade Treatment"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02811978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02219178",
+      "title": "A Phase II Study of the Efficacy and Safety of Lenalidomide, Subcutaneous Bortezomib, and Dexamethasone Combination Therapy for Patients With Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-11",
+      "completion_date": "2020-04",
+      "country": "Ireland",
+      "enrollment": 42,
+      "brief_summary": "This study aims to evaluate the overall response rate after 4 cycles and the best response to induction therapy with combination of lenalidomide, subcutaneous bortezomib, and dexamethasone (RsqVD) in patients with newly diagnosed multiple myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants must have a diagnosis of symptomatic MM, according to International Myeloma Foundation 2003 Diagnostic Criteria:\n\n   * Clonal plasma cells \\> 10% on bone marrow biopsy\n   * A monoclonal protein (paraprotein) in either serum or urine ( except in the cases of non-s",
+      "endpoints": [
+        "To evaluate the overall response rate (ORR) after 4 induction cycles"
+      ],
+      "sponsor": "Cancer Trials Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT02219178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02244125",
+      "title": "A Multicenter Open Label Phase II Study of Pomalidomide and Cyclophosphamide and Dexamethasone in Relapse/Refractory Multiple Myeloma Patients Who Were First Treated Within the IFM/DFCI 2009 Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-04-14",
+      "completion_date": "2023-05-29",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "Imnovid in combination with dexamethasone is indicated in the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide (Revlimid) and bortezomib (Velcade), and have demonstrated disease progression on the last therapy.\n\nPatients with relapsed and refractory multiple myeloma who have received bortezomib, lenalidomide, dexamethasone combination, considered to be the multiple myeloma optimal treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have been treated in first line within the IFM/DFCI 2009 trial to be treated within the PCD trial in second line\n2. Must be able to understand and voluntarily sign an informed consent form\n3. Must be able to adhere to the study visit schedule and other protocol ",
+      "endpoints": [
+        "Response rate (Partial response (PR) or better)"
+      ],
+      "sponsor": "Institut Curie",
+      "url": "https://clinicaltrials.gov/study/NCT02244125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02224729",
+      "title": "Phase II Study of Bendamustine, Bortezomib, and Dexamethasone (BBD) for Newly Diagnosed Patients With Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-08-25",
+      "completion_date": "2018-11-17",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "This phase II trial studies side effects and how well bendamustine hydrochloride, bortezomib, and dexamethasone work in treating patients with newly diagnosed multiple myeloma. Drugs used in chemotherapy, such as bendamustine hydrochloride and dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. New diagnosis of multiple myeloma with no prior history of systemic treatment (Exceptions include corticosteroids, bisphosphonates, single agent cyclophosphamide, \\<= 21 days of the first cycle of a planned regimen\n2. \\>= 18 years of age\n3. ECOG \\<= 3\n4. Signed informed conse",
+      "endpoints": [
+        "Count of Participants That Experience Overall Response Following 4 Cycles of the Combination Regimen BBd"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT02224729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01675245",
+      "title": "Velcade (Bortezomib for Injection) Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2010-05",
+      "country": "N/A",
+      "enrollment": 532,
+      "brief_summary": "The purpose of this study is to acquire information on the usage, effectiveness, safety, and levels of health care resource utilization associated with Velcade therapy in recurrent and refractory multiple myeloma patients who are initiating Velcade and various combination therapies within the approved indication in a naturalistic setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must give informed consent in agreement with local legislation\n* Must not have any contraindication listed in package insert\n\nExclusion Criteria:\n\n* Patients currently participating in another investigational study of Velcade or any other medication\n* Patients with severe hepa",
+      "endpoints": [
+        "Information on treatment sequence for Velcade therapy",
+        "Information on dosage of Velcade",
+        "Information on duration of Velcade therapy"
+      ],
+      "sponsor": "Xian-Janssen Pharmaceutical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01675245"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02082405",
+      "title": "A Phase II Trial of Weekly Bortezomib and Dexamethasone With Oral Metronomic Cyclophosphamide in Elderly Patients With Plasma Cell Myeloma",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2015-04",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This phase II trial studies the side effects and how well lower doses of bortezomib, dexamethasone, and cyclophosphamide work in treating older patients with multiple myeloma. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as cyclophosphamide and dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving cyclophosphamide dai",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a confirmed diagnosis of symptomatic myeloma in accordance with International Myeloma Working group (IMWG) criteria\n\n  * Bone marrow plasmacytosis with \\> 10% plasma cells or sheets of plasma cells or biopsy proven plasmacytoma\n  * Symptomatic disease, i.e.,",
+      "endpoints": [
+        "Overall Response rate in accordance with the IMWG Uniform Response criteria",
+        "Incidence of toxicities according to National Cancer Institute Common Terminology Criteria for Adverse Events version 4"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02082405"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04348006",
+      "title": "Assessment of Bortezomib (Alvocade ®) Efficacy and Safety in Newly Diagnosed Multiple Myeloma Patients",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2020-03-01",
+      "completion_date": "2021-07-30",
+      "country": "Iraq",
+      "enrollment": 0,
+      "brief_summary": "Bortezomib considered the standard of care for treating multiple myeloma patients, the aim was to assess the safety and efficacy of newly approved drug (Alvocade ®) in Iraq, in newly diagnosed patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosis Multiple myeloma with CRAB (C: hypercalcemia, R: renal impairment, A: anemia, and B: bone lesions)\n* Age above 18 years old\n\nExclusion Criteria:\n\n* Age below 18 years\n* Smoldering MM",
+      "endpoints": [
+        "Assessment the safety of Alvocade® therapy",
+        "Assessment the effecacy of Alvocade® therapy"
+      ],
+      "sponsor": "Al-Rasheed University College",
+      "url": "https://clinicaltrials.gov/study/NCT04348006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00317811",
+      "title": "A Phase II Trial of Bortezomib + Ascorbic Acid + Melphalan (BAM) Combination Therapy for Patients With Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as melphalan, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Ascorbic acid may help melphalan work better by making cancer cells more sensitive to the drug. Giving bortezomib together with ascorbic acid and melphalan may kill more cancer cells.\n\nPURPOSE: This phase II trial is ",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Newly diagnosed symptomatic multiple myeloma based on the following criteria:\n\n  * Durie-Salmon staging\n  * Measurable disease, defined as a monoclonal immunoglobulin spike on serum electrophoresis of ≥ 1 g/dL and/or urine monoclonal immunoglobulin spike of ≥ 200 mg/24 ho",
+      "endpoints": [
+        "Overall response rate (complete response [CR], near CR, partial response, and minimal response)",
+        "Safety and tolerability as assessed by NCI CTCAE v3.0",
+        "Proportion of patients responding"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00317811"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06636552",
+      "title": "An Investigator-Initiated, Phase II, Multicenter, Open-Label, Single-Arm, Prospective Clinical Trial to Evaluate the Efficacy and Safety of Alternating Bortezomib-Based Regimens in Combination With DaratUMumab Followed by Maintenance With Daratumumab in the Frontline Setting of Primary Plasma CEll LEukemIA: A Trial of the Greek Myeloma Study Group The \" EUMELEIA \" Study",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-11-19",
+      "completion_date": "2029-01-05",
+      "country": "Greece",
+      "enrollment": 43,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of the alternating D-PAD/D-CVD induction regimen followed by D-CVD consolidation regimen and maintenance with daratumumab monotherapy, in terms of PFS, in the first-line setting of pPCL.",
+      "eligibility_criteria": "Inclusion\n\n1. Age between 18 and 80 years (inclusive) at the time of signing the informed consent.\n2. Patients newly diagnosed with documented pPCL as defined by the current IMWG criteria for PCL and MM:\n\n   * Documented presence of ≥5% PBPCs and/or absolute number ≥0.5 × 103/μL, assessed either mor",
+      "endpoints": [
+        "Εfficacy of the alternating D-PAD/D-CVD induction regimen followed by D-CVD consolidation regimen and maintenance with daratumumab monotherapy, in terms of PFS, in the first-line setting of pPCL."
+      ],
+      "sponsor": "Hellenic Society of Hematology",
+      "url": "https://clinicaltrials.gov/study/NCT06636552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02100657",
+      "title": "Phase I Study of Plitidepsin (Aplidin®) in Combination With Bortezomib and Dexamethasone in Patients With Relapsed and/or Refractory Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2018-06",
+      "country": "Spain, France",
+      "enrollment": 39,
+      "brief_summary": "Study of Plitidepsin (Aplidin®) to determine the recommended dose (RD) of plitidepsin in Combination with Bortezomib and Dexamethasone in Patients with Relapsed and/or Refractory Multiple Myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Prior autologous transplantation (HSCT) patients are allowed.\n* Patients must have received at least one previous treatment line of induction, chemotherapy, chemotherapy and transplantation or previous treatment with bortezomib or another proteasome drug\n\nExc",
+      "endpoints": [
+        "Recommended Dose of Plitidepsin in Combination With Bortezomib and Dexamethasone",
+        "Recommended Dose of Bortezomib in Combination With Plitidepsin and Dexamethasone",
+        "Recommended Dose of Dexamethasone in Combination With Plitidepsin and Bortezomib"
+      ],
+      "sponsor": "PharmaMar",
+      "url": "https://clinicaltrials.gov/study/NCT02100657"
+    }
+  ],
+  "timestamp": "2026-03-04T16:56:12.384766",
+  "success": true,
+  "error_message": null
+}

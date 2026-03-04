@@ -1,0 +1,625 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fenofibrate",
+    "disease": "hyperlipidemia",
+    "query_string": "Fenofibrate AND hyperlipidemia"
+  },
+  "data": {
+    "query": "Fenofibrate AND hyperlipidemia",
+    "results": [
+      {
+        "pmid": "26099043",
+        "title": "Fenofibrate and diabetic retinopathy.",
+        "abstract": "",
+        "journal": "Clinical & experimental ophthalmology",
+        "year": "2015",
+        "authors": [
+          "Fagan Xavier J",
+          "Chong Elaine W"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Australia",
+          "Diabetic Retinopathy",
+          "Disease Progression",
+          "Drug Costs",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents",
+          "Randomized Controlled Trials as Topic",
+          "Sex Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26099043/"
+      },
+      {
+        "pmid": "33137654",
+        "title": "Fenofibrate treatment for severe hypertriglyceridemia in dogs.",
+        "abstract": "Lipid disorders are relatively common in dogs. Hyperlipidemia can be primary or secondary to other diseases. In humans, fenofibrate is used to control hypertriglyceridemia. In dogs, there are no studies evaluating fenofibrate in hypertriglyceridemia. The aim of the study was to evaluate the safety and efficacy of fenofibrate to control severe hypertriglyceridemia in dogs. A total of 124 dogs (n = 124) with severe hypertriglyceridemia (>300 mg/dL, 3.39 mmol/L) were randomly distributed in the fenofibrate group (n = 64) and the diet group (n = 60). Dogs of the fenofibrate group were treated with fenofibrate (10 mg/Kg) once daily. Dogs of the diet group were treated with low-fat diet (10%). Serum triglycerides (TGs), total cholesterol (TC), liver enzymes, and creatine kinase concentrations were evaluated, before and after 1 mo of medical or dietary treatment. Triglyceride concentrations were reduced with fenofibrate (P < 0.001), and 85.93% of the dogs normalized their levels. Triglyceride",
+        "journal": "Domestic animal endocrinology",
+        "year": "2021",
+        "authors": [
+          "Miceli D D",
+          "Vidal V P",
+          "Blatter M F C",
+          "Pignataro O P",
+          "Castillo V A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial, Veterinary",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Diet, Fat-Restricted",
+          "Dog Diseases",
+          "Dogs",
+          "Fenofibrate",
+          "Gene Expression Regulation",
+          "Glucose Transporter Type 4",
+          "Hypertriglyceridemia",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33137654/"
+      },
+      {
+        "pmid": "22651832",
+        "title": "Pravastatin and fenofibrate in combination (Pravafenix(®)) for the treatment of high-risk patients with mixed hyperlipidemia.",
+        "abstract": "Pravafenix(®) is a fixed-dose combination of pravastatin 40 mg and fenofibrate 160 mg. The rationale for the use of Pravafenix is based on the increased residual cardiovascular risk observed for high-risk patients with either increased triglycerides or low HDL cholesterol levels despite statin monotherapy. This article reviews the current available information on the pharmacology, clinical efficacy and safety of Pravafenix. Pravafenix is recommended to be taken with food in the evening. In clinical trials, Pravafenix consistently produces complementary benefits on the overall atherogenic lipid profile of high-risk patients with mixed hyperlipidemia not controlled by either pravastatin 40 mg or simvastatin 20 mg. Within the limitations of the database, Pravafenix seems to be well tolerated up to 64 weeks, with an overall tolerability and safety profile consistent with findings generally observed with fenofibrate treatment. In particular, no myopathy or rhabdomyolysis has been reported. ",
+        "journal": "Expert review of cardiovascular therapy",
+        "year": "2012",
+        "authors": [
+          "Farnier Michel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cardiovascular Diseases",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Drug Combinations",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents",
+          "Pravastatin",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22651832/"
+      },
+      {
+        "pmid": "17315051",
+        "title": "Ezetimibe and fenofibrate combination therapy for mixed hyperlipidemia.",
+        "abstract": "The ezetimibe and fenofibrate combination regimen was recently approved by the U.S. Food and Drug Administration for treatment of mixed hyperlipidemia. This powerful lipid-modifying therapy takes advantage of the different mechanisms of action of the two individual components. Ezetimibe selectively inhibits intestinal uptake of dietary and biliary cholesterol, and exerts its effect most notably on the low-density lipoprotein cholesterol (LDL-C). Fenofibrate activates the peroxisome proliferators-activated receptor alpha (PPAR-alpha), thereby increasing the tissue lipoprotein lipase activity and breakdown of triglycerides in very low-density lipoproteins (VLDL). The combination therapy of ezetimibe and fenofibrate has an excellent safety profile and exhibits potent synergistic actions on multiple lipid risk factors and represents another alternative in the clinical management of mixed hyperlipidemia. Further studies are needed to determine the effectiveness and safety of the ezetimibe a",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2007",
+        "authors": [
+          "Moon Yong S K",
+          "Chun Patricia",
+          "Chung Suna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azetidines",
+          "Drug Combinations",
+          "Drug Synergism",
+          "Ezetimibe",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17315051/"
+      },
+      {
+        "pmid": "9526816",
+        "title": "Long-term efficacy and safety of fenofibrate and a statin in the treatment of combined hyperlipidemia.",
+        "abstract": "To assess the long-term efficacy and use of fenofibrate together with a 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitor (\"statin\") in the treatment of elevated levels of triglycerides and low-density lipoprotein (LDL) cholesterol, we conducted a study that compared a before- and after-case series. The study involved 80 patients with a diagnosis of combined hyperlipidemia and existing coronary artery disease (81% of patients) or outpatients with > or = 3 risk factors for coronary artery disease who had been receiving treatment at a tertiary care center. Fasting biochemical measures were obtained at baseline during monotherapy with a statin consisting of pravastatin 20 mg once daily or simvastatin 10 mg once daily (39 patients) or fenofibrate 300 mg once daily (41 patients), and during a 2-year period of combination therapy. This combination therapy comprised fenofibrate 300 mg once daily or micronized fenofibrate 200 mg once daily taken together with pravastatin 20 m",
+        "journal": "The American journal of cardiology",
+        "year": "1998",
+        "authors": [
+          "Ellen R L",
+          "McPherson R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Coronary Disease",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemia, Familial Combined",
+          "Hypolipidemic Agents",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9526816/"
+      },
+      {
+        "pmid": "38273789",
+        "title": "Role of Fenofibrate Use in Dyslipidemia and Related Comorbidities in the Asian Population: A Narrative Review.",
+        "abstract": "Hypertriglyceridemia and decreased high-density lipoprotein cholesterol (HDL-C) persist despite statin therapy, contributing to residual atherosclerotic cardiovascular disease (ASCVD) risk. Asian subjects are metabolically more susceptible to hypertriglyceridemia than other ethnicities. Fenofibrate regulates hypertriglyceridemia, raises HDL-C levels, and is a recommended treatment for dyslipidemia. However, data on fenofibrate use across different Asian regions are limited. This narrative review summarizes the efficacy and safety data of fenofibrate in Asian subjects with dyslipidemia and related comorbidities (diabetes, metabolic syndrome, diabetic retinopathy, and diabetic nephropathy). Long-term fenofibrate use resulted in fewer cardiovascular (CV) events and reduced the composite of heart failure hospitalizations or CV mortality in type 2 diabetes mellitus. Fenofibrate plays a significant role in improving irisin resistance and microalbuminuria, inhibiting inflammatory responses, a",
+        "journal": "Diabetes & metabolism journal",
+        "year": "2024",
+        "authors": [
+          "Deerochanawong Chaicharn",
+          "Kim Sin Gon",
+          "Chang Yu-Cheng"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fenofibrate",
+          "Hypolipidemic Agents",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Diabetes Mellitus, Type 2",
+          "Metabolic Syndrome",
+          "Dyslipidemias",
+          "Hypertriglyceridemia",
+          "Atherosclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38273789/"
+      },
+      {
+        "pmid": "32212983",
+        "title": "Efficacy and safety of coenzyme A versus fenofibrate in patients with hyperlipidemia: a multicenter, double-blind, double-mimic, randomized clinical trial.",
+        "abstract": "Background: We investigated the lipid-lowering efficacy and safety of coenzyme A (CoA) versus fenofibrate in Chinese patients with moderate dyslipidemia.Methods: A total of 417 subjects (aged 18-75 years) diagnosed with moderate dyslipidemia (triglyceride 2.3-6.5 mmol/L) from 13 large cardiovascular centers in China were recruited and randomly divided into a fenofibrate group (n = 207), which received 200 mg of fenofibrate orally once daily, and a CoA group (n = 210), which received 400 mg of CoA orally once a day. Blood lipoproteins, liver and renal function, creatine kinase, and blood glucose were measured at baseline, and after 4 and 8 weeks of treatment.Results: The baseline triglyceride (TG) level in the fenofibrate group and the CoA group was 3.39 ± 0.99 mmol/L and 3.60 ± 1.11 mmol/L, respectively. After treatment for 4 and 8 weeks with fenofibrate, TG was reduced by 31.62% and 33.13%. In the CoA group, TG was reduced by 17.29% and 23.80%. Compared with baseline, total cholestero",
+        "journal": "Current medical research and opinion",
+        "year": "2020",
+        "authors": [
+          "Chen Ya-Qin",
+          "Zhao Shui-Ping",
+          "Ye Hui-Jun"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Coenzyme A",
+          "Double-Blind Method",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32212983/"
+      },
+      {
+        "pmid": "12500022",
+        "title": "Comparison of micronized fenofibrate and pravastatin in patients with primary hyperlipidemia.",
+        "abstract": "Micronized fenofibrate lowers total cholesterol and low-density lipoprotein cholesterol to a similar extent as statins but raises high-density lipoprotein cholesterol and lowers triglycerides to a greater extent. The comparative lipid-modifying efficacy of micronized fenofibrate and pravastatin has not been evaluated in dyslipidemic patients. This prospective, multicenter, randomized trial compared the efficacy of 3 months' treatment with micronized fenofibrate (200 mg once daily) or pravastatin (20 mg once daily) in hypercholesterolemic type IIa and mixed dyslipidemic type IIb patients. Two hundred sixty-five male and female patients (18-75 years) were recruited from 28 European centers, and 151 were analyzed. Micronized fenofibrate was at least as effective as pravastatin in reducing levels of low-density lipoprotein cholesterol and total cholesterol in primary dyslipidemia but was significantly more effective than pravastatin in raising high-density lipoprotein cholesterol (respecti",
+        "journal": "Journal of cardiovascular pharmacology",
+        "year": "2003",
+        "authors": [
+          "Ducobu Jean",
+          "VanHaelst Luc",
+          "Salomon Herve"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cholesterol",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Male",
+          "Middle Aged",
+          "Pravastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12500022/"
+      },
+      {
+        "pmid": "25220639",
+        "title": "Metabolomic analysis of simvastatin and fenofibrate intervention in high-lipid diet-induced hyperlipidemia rats.",
+        "abstract": "To investigate the metabolite changes caused by simvastatin or fenofibrate intervention in diet-induced hyperlipidemia rats using a GC-MS-based metabolomic profiling approach.",
+        "journal": "Acta pharmacologica Sinica",
+        "year": "2014",
+        "authors": [
+          "Xu Qiu-yu",
+          "Liu Yin-hui",
+          "Zhang Qi",
+          "Ma Bo",
+          "Yang Zhen-dong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "3-Hydroxybutyric Acid",
+          "Animals",
+          "Biomarkers",
+          "Cholesterol",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Creatinine",
+          "Diet, High-Fat",
+          "Fenofibrate",
+          "Hyperlipidemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25220639/"
+      },
+      {
+        "pmid": "3318454",
+        "title": "Effects of fenofibrate on plasma lipoproteins in hypercholesterolemia and combined hyperlipidemia.",
+        "abstract": "To investigate the lipoprotein effect of fenofibrate in hypercholesterolemia or combined hyperlipidemia (types II A and II B hyperlipidemias, respectively), 240 patients were recruited and 227 randomized to a double-blind randomized trial lasting 24 weeks and 192 patients continued to participate in an open-label phase for another 24 weeks. A 100-mg dose of fenofibrate or a matching placebo was given three times daily. Fenofibrate side effects in excess of placebo affected 6 percent of fenofibrate users and were confined almost entirely to skin rashes. In 180 hypercholesterolemic patients randomly assigned to receive fenofibrate versus placebo, triglyceride and very low-density lipoprotein cholesterol levels decreased 38 percent, total cholesterol levels decreased 17.5 percent, and low-density lipoprotein cholesterol levels decreased 20.3 percent with fenofibrate treatment. High-density lipoprotein cholesterol levels increased 11.1 percent with a decrease in the low-density lipoprotein",
+        "journal": "The American journal of medicine",
+        "year": "1987",
+        "authors": [
+          "Knopp R H",
+          "Brown W V",
+          "Dujovne C A",
+          "Farquhar J W",
+          "Feldman E B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hyperlipoproteinemia Type II",
+          "Lipoproteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3318454/"
+      },
+      {
+        "pmid": "27397061",
+        "title": "Efficacy and Safety of Long-term Coadministration of Fenofibrate and Ezetimibe in Patients with Combined Hyperlipidemia: Results of the EFECTL Study.",
+        "abstract": "We investigated the safety and efficacy of a long-term combination therapy with fenofibrate and ezetimibe in Japanese patients with combined hyperlipidemia, in comparison with fenofibrate or ezetimibe alone.",
+        "journal": "Journal of atherosclerosis and thrombosis",
+        "year": "2017",
+        "authors": [
+          "Oikawa Shinichi",
+          "Yamashita Shizuya",
+          "Nakaya Noriaki",
+          "Sasaki Jun",
+          "Kono Suminori"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Biomarkers",
+          "Cholesterol",
+          "Cholesterol, LDL",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Female",
+          "Fenofibrate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27397061/"
+      },
+      {
+        "pmid": "12087019",
+        "title": "Atorvastatin and micronized fenofibrate alone and in combination in type 2 diabetes with combined hyperlipidemia.",
+        "abstract": "This study evaluated the effect of a atorvastatin-fenofibrate combination on lipid profile, in comparison to each drug alone, in patients with type 2 diabetes and combined hyperlipidemia (CHL).",
+        "journal": "Diabetes care",
+        "year": "2002",
+        "authors": [
+          "Athyros Vasilios G",
+          "Papageorgiou Athanasios A",
+          "Athyrou Valasia V",
+          "Demitriadis Dimokritos S",
+          "Kontopoulos Athanasios G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Apolipoproteins",
+          "Atorvastatin",
+          "Blood Glucose",
+          "Cholesterol",
+          "Cholesterol, LDL",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12087019/"
+      },
+      {
+        "pmid": "2226216",
+        "title": "Fenofibrate. A review of its pharmacodynamic and pharmacokinetic properties and therapeutic use in dyslipidaemia.",
+        "abstract": "Fenofibrate is a lipid-regulating drug which is structurally related to other fibric acid derivatives, such as clofibrate. At the recommended dosage of 200 to 400 mg daily, it produces substantial reductions in plasma triglyceride levels in hypertriglyceridaemic patients and in plasma total cholesterol levels in hypercholesterolaemic patients. High density lipoprotein (HDL)-cholesterol levels are generally increased in patients with low pretreatment values. Fenofibrate appears to be equally effective in diabetic patients with hyperlipoproteinaemia without adversely affecting glycaemic control. The influence of fenofibrate on the plasma lipid profile is sustained during long term (2 to 7 years) treatment. Comparative studies conducted to date have involved only small groups of patients--in overall terms fenofibrate was at least as effective as other fibrates, but larger comparative studies are needed before valid conclusions on its relative efficacy compared with nonfibrate lipid-loweri",
+        "journal": "Drugs",
+        "year": "1990",
+        "authors": [
+          "Balfour J A",
+          "McTavish D",
+          "Heel R C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Lipids",
+          "Lipoproteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2226216/"
+      },
+      {
+        "pmid": "15695129",
+        "title": "Effectiveness and tolerability of simvastatin plus fenofibrate for combined hyperlipidemia (the SAFARI trial).",
+        "abstract": "Patients with combined hyperlipidemia (elevated triglyceride [TG] levels, elevated low-density lipoprotein [LDL] cholesterol, and multiple lipoprotein abnormalities) are at increased risk for coronary heart disease. We conducted a multicenter (in the United States), randomized, double-blind, active-controlled, 18-week study to determine if combination therapy with simvastatin plus fenofibrate is more effective in reducing elevated TG levels, thus improving the lipoprotein pattern in patients with combined hyperlipidemia compared with simvastatin monotherapy, and to evaluate safety and tolerability. Patients (aged 21 to 68 years) with a diagnosis of combined hyperlipidemia (fasting TG levels >/=150 and </=500 mg/dl, and LDL cholesterol >130 mg/dl) received simvastatin monotherapy (20 mg/day, n = 207) or simvastatin 20 mg plus fenofibrate (160 mg/day) combination therapy (n = 411) for 12 weeks following a 6-week diet and placebo run-in period. From baseline to week 12, median TG levels d",
+        "journal": "The American journal of cardiology",
+        "year": "2005",
+        "authors": [
+          "Grundy Scott M",
+          "Vega Gloria L",
+          "Yuan Zhong",
+          "Battisti Wendy P",
+          "Brady William E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alanine Transaminase",
+          "Apolipoproteins",
+          "Aspartate Aminotransferases",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fenofibrate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15695129/"
+      },
+      {
+        "pmid": "38042280",
+        "title": "Fenofibrate inhibits MOXD1 and PDZK1IP1 expression and improves lipid deposition and inflammation in mice with alcoholic fatty liver.",
+        "abstract": "Alcoholic liver disease (ALD) can develop into cirrhosis and hepatocellular carcinoma but no specific drugs are available. Fenofibrate is therapeutically effective in ALD, however, the exact mechanism remains unknown. We explored the hub genes of ALD and the role of fenofibrate in ALD.",
+        "journal": "Life sciences",
+        "year": "2024",
+        "authors": [
+          "Pan Tongtong",
+          "Zhao Zhiguang",
+          "Lu Jianshuang",
+          "Wen Hong",
+          "Zhang Jiarong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Mice",
+          "Humans",
+          "Animals",
+          "Fenofibrate",
+          "Fatty Liver, Alcoholic",
+          "Molecular Docking Simulation",
+          "Liver",
+          "Inflammation",
+          "PPAR alpha",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38042280/"
+      },
+      {
+        "pmid": "10353071",
+        "title": "Comparison of the efficacy of atorvastatin and micronized fenofibrate in the treatment of mixed hyperlipidemia.",
+        "abstract": "To evaluate and compare the influences of micronized fenofibrate and atorvastatin on serum lipid profile, including lipoprotein(a) levels, and on fibrinogen levels in a large group of patients with primary mixed hyperlipidemia (serum total and low-density lipoprotein cholesterol levels > 240 and 160 mg/dl, respectively, and serum triglyceride level > 200 mg/dl).",
+        "journal": "Journal of cardiovascular risk",
+        "year": "1999",
+        "authors": [
+          "Bairaktari E T",
+          "Tzallas C S",
+          "Tsimihodimos V K",
+          "Liberopoulos E N",
+          "Miltiadous G A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Atorvastatin",
+          "Biomarkers",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Female",
+          "Fenofibrate",
+          "Fibrinogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10353071/"
+      },
+      {
+        "pmid": "16630994",
+        "title": "Safety and efficacy of long-term co-administration of fenofibrate and ezetimibe in patients with mixed hyperlipidemia.",
+        "abstract": "This study sought to determine the long-term safety and efficacy of co-administered fenofibrate (FENO) and ezetimibe (EZE) in patients with mixed hyperlipidemia.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": "2006",
+        "authors": [
+          "McKenney James M",
+          "Farnier Michel",
+          "Lo Kwok-Wing",
+          "Bays Harold E",
+          "Perevozkaya Inna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Female",
+          "Fenofibrate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16630994/"
+      },
+      {
+        "pmid": "12481201",
+        "title": "Update on fenofibrate.",
+        "abstract": "Fenofibrate is a fibric acid derivative that has been marketed since the mid-1970's (1998 in the United States). Its active metabolite, fenofibric acid, is responsible for the primary pharmacodynamic effects of the drug: reductions in total plasma cholesterol, low density lipoprotein cholesterol, triglycerides, and very low-density lipoprotein concentrations and increases in high-density lipoprotein cholesterol and apolipoproteins AI and AII concentrations. These effects are mediated by activation of peroxisome proliferator-activated receptor-alpha (PPAR(alpha)). The drug has broad spectrum utility, with documented efficacy in Fredrickson types IIa, IIb, III, IV, and V hyperlipidemias. Fenofibrate is well tolerated, with digestive and musculoskeletal side effects similar to those of other fibrates. Results of the initial cardiovascular morbidity/mortality outcomes study with fenofibrate (known as DAIS [Diabetes Atherosclerosis Intervention Study]) were encouraging vis-à-vis slowing of ",
+        "journal": "Cardiovascular drug reviews",
+        "year": "2002",
+        "authors": [
+          "Guay David R P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Interactions",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12481201/"
+      },
+      {
+        "pmid": "14523053",
+        "title": "Effects of atorvastatin versus fenofibrate on apoB-100 and apoA-I kinetics in mixed hyperlipidemia.",
+        "abstract": "Kinetics of apo B and apo AI were assessed in 8 patients with mixed hyperlipidemia at baseline and after 8 weeks of atorvastatin 80 mg q.d. and micronised fenofibrate 200 mg q.d. in a cross-over study. Both increased hepatic production and decreased catabolism of VLDL accounted for elevated cholesterol and triglyceride concentrations at baseline. Atorvastatin significantly decreased triglyceride, total, VLDL and LDL cholesterol and apo B concentrations (-65%, -36%, -57%, -40% and -33%, respectively, P<0.05). Kinetic analysis revealed that atorvastatin stimulated the catabolism of apo B containing lipoproteins, enhanced the delipidation of VLDL1 and decreased VLDL1 production. Fenofibrate lowered triglycerides and VLDL cholesterol (-57% and -64%, respectively, P<0.05) due to enhanced delipidation of VLDL1 and VLDL2 and increased VLDL1 catabolism. Changes of HDL particle composition accounted for the increase of HDL cholesterol during atorvastatin and fenofibrate (18% and 23%, P<0.01). O",
+        "journal": "Journal of lipid research",
+        "year": "2004",
+        "authors": [
+          "Bilz Stefan",
+          "Wagner Stephan",
+          "Schmitz Michaela",
+          "Bedynek Andrea",
+          "Keller Ulrich"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticholesteremic Agents",
+          "Apolipoprotein A-I",
+          "Apolipoprotein B-100",
+          "Apolipoproteins B",
+          "Atorvastatin",
+          "Fenofibrate",
+          "Heptanoic Acids",
+          "Humans",
+          "Hyperlipidemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14523053/"
+      },
+      {
+        "pmid": "40052566",
+        "title": "Pharmacokinetics and Safety of Fenofibrate in Participants with Mild Hepatic Impairment or with Advanced Fibrosis due to Metabolic-Associated Fatty Liver Disease.",
+        "abstract": "Fenofibrate is contraindicated in patients with advanced hepatic fibrosis due to limited clinical data. We evaluated the pharmacokinetics and safety of fenofibrate in participants with mild hepatic impairment (phase 1 study) or advanced fibrosis due to metabolic-associated fatty liver disease (MAFLD; phase 2a study). In the phase 1 study, participants with mild hepatic impairment and healthy matched controls (each n = 10) received a single, oral dose of fenofibrate 48 mg. In the phase 2a study, participants with hypertriglyceridemia and advanced fibrosis due to MAFLD were randomly assigned (1:1) fenofibrate 48 mg (n = 15) or fenofibrate 145 mg (n = 16) combined with firsocostat 20 mg, taken orally once daily for 24 weeks. Pharmacokinetics and safety were assessed in both studies. In the phase 1 study, the AUCinf of fenofibric acid was 25% higher in participants with mild hepatic impairment than in healthy matched participants. In the phase 2a study, the AUCss,0-24 of fenofibric acid (f",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2025",
+        "authors": [
+          "Younis Islam R",
+          "Weber Elijah J",
+          "Nelson Cara",
+          "Qin Ann R",
+          "Watkins Timothy R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fenofibrate",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Liver Cirrhosis",
+          "Adult",
+          "Hypolipidemic Agents",
+          "Fatty Liver",
+          "Hypertriglyceridemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40052566/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:40:29.998274",
+  "success": true,
+  "error_message": null
+}

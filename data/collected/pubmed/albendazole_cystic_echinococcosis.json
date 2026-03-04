@@ -1,0 +1,581 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Albendazole",
+    "disease": "cystic echinococcosis",
+    "query_string": "Albendazole AND cystic echinococcosis"
+  },
+  "data": {
+    "query": "Albendazole AND cystic echinococcosis",
+    "results": [
+      {
+        "pmid": "30760475",
+        "title": "Echinococcosis: Advances in the 21st Century.",
+        "abstract": "Echinococcosis is a zoonosis caused by cestodes of the genus Echinococcus (family Taeniidae). This serious and near-cosmopolitan disease continues to be a significant public health issue, with western China being the area of highest endemicity for both the cystic (CE) and alveolar (AE) forms of echinococcosis. Considerable advances have been made in the 21st century on the genetics, genomics, and molecular epidemiology of the causative parasites, on diagnostic tools, and on treatment techniques and control strategies, including the development and deployment of vaccines. In terms of surgery, new procedures have superseded traditional techniques, and total cystectomy in CE, ex vivo resection with autotransplantation in AE, and percutaneous and perendoscopic procedures in both diseases have improved treatment efficacy and the quality of life of patients. In this review, we summarize recent progress on the biology, epidemiology, diagnosis, management, control, and prevention of CE and AE.",
+        "journal": "Clinical microbiology reviews",
+        "year": "2019",
+        "authors": [
+          "Wen Hao",
+          "Vuitton Lucine",
+          "Tuxun Tuerhongjiang",
+          "Li Jun",
+          "Vuitton Dominique A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "China",
+          "Clinical Trials as Topic",
+          "Cystectomy",
+          "Disease Management",
+          "Echinococcosis",
+          "Humans",
+          "Quality of Life",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30760475/"
+      },
+      {
+        "pmid": "37578473",
+        "title": "Pulmonary cystic echinococcosis.",
+        "abstract": "The aim of our review is to summarize specific clinical, diagnostic and treatment aspects of pulmonary cystic echinococcosis. The lung is the organ second most affected by cystic echinococcosis with approximately a quarter of cystic echinococcosis cysts. Most cysts are in the liver. Apart from the watch and wait approach for selected inactive cysts [cystic echinococcosis CE4, CE5], the well established WHO cystic echinococcosis cyst classification-based treatment of hepatic cystic echinococcosis cannot be applied to pulmonary cystic echinococcosis cysts. Some standard interventions can even be harmful when applied to pulmonary cystic echinococcosis cysts.",
+        "journal": "Current opinion in infectious diseases",
+        "year": "2023",
+        "authors": [
+          "Weber Tim Frederik",
+          "Junghanss Thomas",
+          "Stojković Marija"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Echinococcosis",
+          "Echinococcosis, Hepatic",
+          "Albendazole",
+          "Cysts",
+          "Lung"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37578473/"
+      },
+      {
+        "pmid": "30141399",
+        "title": "Echinococcosis and Albendazole: A Case for Suitable Treatment.",
+        "abstract": "",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2018",
+        "authors": [
+          "Horton John"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Anthelmintics",
+          "Drug Administration Schedule",
+          "Echinococcosis",
+          "Humans",
+          "Practice Guidelines as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30141399/"
+      },
+      {
+        "pmid": "37466820",
+        "title": "Albendazole Monotherapy for Pediatric Cystic Echinococcosis: A Case Series.",
+        "abstract": "Data regarding albendazole monotherapy for cystic echinococcosis (CE) are scarce, especially in children. We report our experience treating CE in children with albendazole monotherapy.",
+        "journal": "Acta parasitologica",
+        "year": "2023",
+        "authors": [
+          "Shmueli Moshe",
+          "Elamour Siham",
+          "Sagi Orli",
+          "Grupel Daniel",
+          "Assi Zaki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Albendazole",
+          "Retrospective Studies",
+          "Echinococcosis",
+          "Cysts",
+          "Echinococcosis, Hepatic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37466820/"
+      },
+      {
+        "pmid": "27085708",
+        "title": "Intra-cystic concentrations of albendazole-sulphoxide in human cystic echinococcosis: a systematic review and analysis of individual patient data.",
+        "abstract": "Cystic echinococcosis (CE) is a widespread zoonosis caused by the species complex Echinococcus granulosus. Albendazole (ABZ)-the first-line anthelminthic drug for medical treatment of CE-is metabolized in vivo to the active derivative ABZ-sulphoxide (ABZ-SO). Target-site ABZ-SO concentrations in the hydatid cyst mediate the anthelminthic effect in CE. Primary outcome of this systematic review of individual patient data was the intra-cystic ABZ-SO concentration stratified by cyst size, location, calcification status and use of praziquantel. Studies reporting intra-cystic ABZ-SO concentrations in humans were identified by a systematic search. A pooled analysis of individual patient data was performed to assess intra-cystic concentrations. Pharmacokinetic data of 121 individual cysts were analysed. There was no correlation between plasma and intra-cystic ABZ-SO concentrations (rho = -0.03, p = 0.76). Intra-cystic drug concentrations were also not associated with sex and treatment duration",
+        "journal": "Parasitology research",
+        "year": "2016",
+        "authors": [
+          "Lötsch Felix",
+          "Naderer Judith",
+          "Skuhala Tomislava",
+          "Groger Mirjam",
+          "Auer Herbert"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Cysts",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Humans",
+          "Praziquantel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27085708/"
+      },
+      {
+        "pmid": "40093668",
+        "title": "Current considerations for the management of liver echinococcosis.",
+        "abstract": "Echinococcosis or hydatid disease is induced mainly by Echinococcus granulosus and occasionally by Echinococcus multilocularis (alveolaris) and affects the liver predominantly. Hepatic alveolar echinococcosis is similar to carcinoma in appearance, and without treatment, it can lead to death. Diagnosis is based on current imaging modalities. Surgical management is the cornerstone of treatment. Complete removal of the cyst (total pericystectomy or hepatectomy) ensures a permanent cure and should be the first-choice treatment for cystic disease. Cyst evacuation, partial cystectomy, and drainage or omentoplasty, may be alternative choices in difficult cases. Albendazole, mebendazole and praziquantel are options for treating small cysts and preventing recurrence after surgery. Despite the efforts, alveolar echinococcus is not usually amenable to surgical management, except in the early stage, which is less common, and management by albendazole is indicated. However, there are few recent rep",
+        "journal": "World journal of gastroenterology",
+        "year": "2025",
+        "authors": [
+          "Pavlidis Efstathios T",
+          "Galanis Ioannis N",
+          "Pavlidis Theodoros E"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Echinococcosis, Hepatic",
+          "Animals",
+          "Hepatectomy",
+          "Albendazole",
+          "Treatment Outcome",
+          "Anthelmintics",
+          "Liver",
+          "Echinococcus multilocularis",
+          "Echinococcus granulosus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40093668/"
+      },
+      {
+        "pmid": "29976137",
+        "title": "Medical treatment of cystic echinococcosis: systematic review and meta-analysis.",
+        "abstract": "Cystic echinococcosis (CE) is a well-known neglected parasitic disease. However, evidence supporting the four current treatment modalities is inadequate, and treatment options remain controversial. The aim of this work is to analyse the available data to answer clinical questions regarding medical treatment of CE.",
+        "journal": "BMC infectious diseases",
+        "year": "2018",
+        "authors": [
+          "Velasco-Tirado Virginia",
+          "Alonso-Sardón Montserrat",
+          "Lopez-Bernus Amparo",
+          "Romero-Alegría Ángela",
+          "Burguillo Francisco Javier"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Anthelmintics",
+          "Benzimidazoles",
+          "Databases, Factual",
+          "Drug Therapy, Combination",
+          "Echinococcosis",
+          "Humans",
+          "Neglected Diseases",
+          "Praziquantel",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29976137/"
+      },
+      {
+        "pmid": "37593962",
+        "title": "Cystic echinococcosis of the bone.",
+        "abstract": "Cystic echinococcosis (CE) has a wide world distribution causing important morbidity. Osseous involvement is present in less than 4% of the CE cases. Its diagnosis and therapeutic management is full of challenges and low grade of evidence.",
+        "journal": "Current opinion in infectious diseases",
+        "year": "2023",
+        "authors": [
+          "Monge-Maillo Begoña",
+          "Lopez-Velez Rogelio"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Echinococcosis",
+          "Albendazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37593962/"
+      },
+      {
+        "pmid": "25526545",
+        "title": "Treatment of echinococcosis: albendazole and mebendazole--what else?",
+        "abstract": "The search for novel therapeutic options to cure alveolar echinococcosis (AE), due to the metacestode of Echinococcus multilocularis, is ongoing, and these developments could also have a profound impact on the treatment of cystic echinococcosis (CE), caused by the closely related Echinococcus granulosus s.l. Several options are being explored. A viable strategy for the identification of novel chemotherapeutically valuable compounds includes whole-organism drug screening, employing large-scale in vitro metacestode cultures and, upon identification of promising compounds, verification of drug efficacy in small laboratory animals. Clearly, the current focus is targeted towards broad-spectrum anti-parasitic or anti-cancer drugs and compound classes that are already marketed, or that are in development for other applications. The availability of comprehensive Echinococcus genome information and gene expression data, as well as significant progress on the molecular level, has now opened the ",
+        "journal": "Parasite (Paris, France)",
+        "year": "2014",
+        "authors": [
+          "Hemphill Andrew",
+          "Stadelmann Britta",
+          "Rufener Reto",
+          "Spiliotis Markus",
+          "Boubaker Ghalia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Cell Division",
+          "Clarithromycin",
+          "Cytostatic Agents",
+          "Drug Design",
+          "Drug Evaluation, Preclinical",
+          "Echinococcosis",
+          "Echinococcosis, Hepatic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25526545/"
+      },
+      {
+        "pmid": "25101556",
+        "title": "Acceptance of standardized ultrasound classification, use of albendazole, and long-term follow-up in clinical management of cystic echinococcosis: a systematic review.",
+        "abstract": "Cystic echinococcosis is a chronic, complex, and neglected disease. The need for a simple classification of cyst morphology that would provide an accepted framework for scientific and clinical work on cystic echinococcosis has been addressed by two documents issued by the WHO Informal Working Group on Echinococcosis in 2003 (cyst classification) and in 2010 (Expert consensus for the diagnosis and treatment of echinococcosis).",
+        "journal": "Current opinion in infectious diseases",
+        "year": "2014",
+        "authors": [
+          "Tamarozzi Francesca",
+          "Nicoletti Giovanni J",
+          "Neumayr Andreas",
+          "Brunetti Enrico"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Anthelmintics",
+          "Drainage",
+          "Echinococcosis, Hepatic",
+          "Follow-Up Studies",
+          "Hepatectomy",
+          "Humans",
+          "Neglected Diseases",
+          "Ultrasonography, Interventional",
+          "World Health Organization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25101556/"
+      },
+      {
+        "pmid": "36435216",
+        "title": "Experimental treatment of cystic echinococcosis: Combination therapy with carvacrol and thymol versus albendazole.",
+        "abstract": "Cystic echinococcosis is a worldwide zoonotic disease caused by Echinococcus granulosus sensu lato (s.l.), which produces serious health and economic problems. For human treatment, chemotherapy with albendazole (ABZ), a derivative of benzimidazoles, is widely used. However, due to its low efficacy and the lack of alternatives to ABZ, novel compounds are urgently needed. Aromatic plants exhibit powerful pharmacological activities, are accessible, have a relatively low cost, and have generally mild toxicities, making them an effective choice to traditional therapies. In particular, the pharmaceutical properties of aromatic plants are partially attributed to essential oils (EOs). The aim of the present study was to assess the in vitro and in vivo effects of the combined carvacrol and thymol against E. granulosus sensu stricto (s.s.). The greatest protoscolicidal effect was observed with the 9:1 and 5:5 (carvacrol:thymol) combinations which caused a marked decrease in viability after 6 day",
+        "journal": "Experimental parasitology",
+        "year": "2023",
+        "authors": [
+          "Albani Clara",
+          "Pensel Patricia",
+          "Fabbri Julia",
+          "Albanese Adriana",
+          "Paladini Antonela"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Mice",
+          "Animals",
+          "Humans",
+          "Albendazole",
+          "Thymol",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Cysts",
+          "Cymenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36435216/"
+      },
+      {
+        "pmid": "34034501",
+        "title": "A review of the diagnosis and management of liver hydatid cyst.",
+        "abstract": "Hydatidosis is a zoonosis caused by Echinococcus in the larval stage. Humans are accidental intermediary hosts where cystic lesions develop, primarily in the liver and the lungs. It is usually asymptomatic, hence it often represents an incidental finding. Symptoms result from cyst expansion and/or host inflammatory reaction. Hepatomegaly is the most common sign. Hydatidosis induces no specific changes in lab tests but immunodiagnostics are available that may complement its study, with antibody detection being the modality of choice. While ultrasound is the main diagnostic technique, tomography offers more accurate information regarding both characteristics and anatomical relations. A number of therapy options are presently available. Treatment with albendazole, whether combined or not with praziquantel, is useful for smaller, uncomplicated cysts (< 5 cm). Only 30 % of cysts disappear with medical treatment alone. Surgery is indicated for bigger liver cysts (> 10 cm), and cysts at risk ",
+        "journal": "Revista espanola de enfermedades digestivas",
+        "year": "2022",
+        "authors": [
+          "Ferrer Inaebnit Ester",
+          "Molina Romero Francesc Xavier",
+          "Segura Sampedro Juan José",
+          "González Argenté Xavier",
+          "Morón Canis José Miguel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Cysts",
+          "Echinococcosis",
+          "Echinococcosis, Hepatic",
+          "Humans",
+          "Liver Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34034501/"
+      },
+      {
+        "pmid": "19254162",
+        "title": "Benzimidazoles for the treatment of cystic and alveolar echinococcosis: what is the consensus?",
+        "abstract": "",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2009",
+        "authors": [
+          "Vuitton Dominique Angèle"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Benzimidazoles",
+          "Clinical Protocols",
+          "Consensus",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Echinococcus multilocularis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19254162/"
+      },
+      {
+        "pmid": "34808118",
+        "title": "Status and prospect of novel treatment options toward alveolar and cystic echinococcosis.",
+        "abstract": "Cystic echinococcosis (CE) and alveolar echinococcosis (AE) are the two most important global parasitic infectious diseases caused by species of Echinococcus granulosus and E. multilocularis, respectively. Although numerous trials have been performed in search of novel therapeutic options to curb the neglected zoonosis, no other nonsurgical options are currently available to replace the licensed anti echinococcal drugs albendazole (ABZ) and mebendazole (MBZ). A safer and more effective treatment plan for echinococcosis is therefore urgently needed to compensate for this therapeutic shortfall. Here, we present a review of the literature for state-of-the-art valuable anti-parasitic compounds and novel strategies that have proved effective against CE and AE, which includes details about the pharmaceutical type, practical approach, experimental plan, model application and protoscolecidal effects in vivo and in vitro. The content includes the current application of traditional clinical chem",
+        "journal": "Acta tropica",
+        "year": "2022",
+        "authors": [
+          "Wang Sibo",
+          "Ma Yibo",
+          "Wang Weishan",
+          "Dai Yi",
+          "Sun Haohao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Echinococcus multilocularis",
+          "Mebendazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34808118/"
+      },
+      {
+        "pmid": "39864780",
+        "title": "Cystic echinococcosis of the liver.",
+        "abstract": "Cystic echinococcosis (CE) is a widely endemic helminthic disease caused by infection with metacestodes (larval stage) of the Echinococcus granulosus tapeworm, which is transmitted by dogs and found on every continent, except Antarctica. This study aimed to review the life cycle, epidemiology, symptoms, diagnostic methods, and treatment of E granulosus infection of the liver.",
+        "journal": "Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract",
+        "year": "2025",
+        "authors": [
+          "Aziz Hassan",
+          "Seda Peyton",
+          "Aswani Yashant",
+          "Gosse Matthew D",
+          "Krishnakumari Aparna Joshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Echinococcosis, Hepatic",
+          "Humans",
+          "Animals",
+          "Echinococcus granulosus",
+          "Albendazole",
+          "Liver",
+          "Anthelmintics",
+          "Life Cycle Stages",
+          "Dogs",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39864780/"
+      },
+      {
+        "pmid": "37593991",
+        "title": "Medical management of cystic echinococcosis.",
+        "abstract": "Cystic echinococcosis is a neglected zoonosis for which humans are dead end hosts. It is not only widely distributed in sheep rearing areas of low-income and middle-income countries but also has a significant presence in wealthy countries, for example, in Europe. It results in considerable morbidity, and its current management is far from optimal. Medical management is with a benzimidazole, with the addition of praziquantel under some circumstances.",
+        "journal": "Current opinion in infectious diseases",
+        "year": "2023",
+        "authors": [
+          "Chiodini Peter L"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Animals",
+          "Sheep",
+          "Albendazole",
+          "Echinococcosis",
+          "Zoonoses",
+          "Europe",
+          "Mebendazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37593991/"
+      },
+      {
+        "pmid": "39060987",
+        "title": "Follow up study of symptomatic human cystic echinococcosis treatment with albendazole and praziquantel, in Uruguay.",
+        "abstract": "Cystic echinococcosis (CE) is a chronic disease considered a neglected one. Cystic echinococcosis is endemic in Uruguay and the region. Surgery, using various technical approaches, has the potential to safely remove the cyst(s) and lead to a complete cure in a high number of patients with simple forms of CE. However, surgery may be impractical in patients with multiple cysts in several organs, high surgical risk, or in patients with previous multiple surgeries. In these cases, the pharmacological treatment with the benzimidazolic drug Albendazole (ABZ) alone or combined with Praziquantel (PZQ), has been promising as the best choice to achieve improvement or cure.",
+        "journal": "BMC infectious diseases",
+        "year": "2024",
+        "authors": [
+          "Rosa Daniel Da",
+          "Figueredo Elisa",
+          "Rosas Michel",
+          "Goñi Fernando"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Albendazole",
+          "Praziquantel",
+          "Echinococcosis",
+          "Male",
+          "Female",
+          "Uruguay",
+          "Adult",
+          "Middle Aged",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39060987/"
+      },
+      {
+        "pmid": "29024292",
+        "title": "Hepatic cystic echinococcosis in Australia: an update on diagnosis and management.",
+        "abstract": "Echinococcosis is an uncommonly encountered zoonotic disease caused by the taeniid Echinococcus. The only endemic species in Australia, Echinococcus granulosus, forms cysts in the liver in 70% of cases. The aim of this study was to review the literature to provide an evidence-based narrative update on the diagnosis and management of hepatic cystic echinococcosis in Australia.",
+        "journal": "ANZ journal of surgery",
+        "year": "2018",
+        "authors": [
+          "Keong Ben",
+          "Wilkie Bruce",
+          "Sutherland Tom",
+          "Fox Adrian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Australia",
+          "Conservative Treatment",
+          "Cysts",
+          "Echinococcosis, Hepatic",
+          "Echinococcus",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29024292/"
+      },
+      {
+        "pmid": "28336270",
+        "title": "The natural history of cystic echinococcosis in untreated and albendazole-treated patients.",
+        "abstract": "The World Health Organization (WHO) treatment protocols for cystic echinococcosis (CE) are based on the standardized ultrasound (US) classification. This study examined whether the classification reflected the natural history of CE in untreated and albendazole-treated patients. Data were collected during mass US screenings in CE endemic regions among transhumant populations, the Turkana and Berber peoples of Kenya and Morocco. Cysts were classified using the WHO classification. Patient records occurring prior to treatment, and after albendazole administration, were selected. 852 paired before/after observations of 360 cysts from 257 patients were analyzed. A McNemar-Bowker χ2 test for symmetry was significant (p<0.0001). 744 observations (87.3%) maintained the same class, and 101 (11.9%) progressed, consistent with the classification. Regression to CE3B occurred in seven of 116 CE4 cyst observations (6.0%). A McNemar-Bowker χ2 test of 1414 paired before/after observations of 288 cysts ",
+        "journal": "Acta tropica",
+        "year": "2017",
+        "authors": [
+          "Solomon N",
+          "Kachani M",
+          "Zeyhle E",
+          "Macpherson C N L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albendazole",
+          "Anthelmintics",
+          "Echinococcosis",
+          "Female",
+          "Humans",
+          "Kenya",
+          "Male",
+          "Mass Screening",
+          "Medical Records"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28336270/"
+      },
+      {
+        "pmid": "27589236",
+        "title": "Abdominal Cystic Echinococcosis Treated with Albendazole. A Pediatric Cohort Study.",
+        "abstract": "Cystic echinococcosis is endemic in Argentina. The standard pharmacological treatment for the disease is albendazole, but surgery is a common alternative. Even though primary infection occurs mainly in the pediatric population, the optimal therapeutic option in pediatrics is not clearly defined and few pediatric cohorts with cystic echinococcosis treated with albendazole have been described to date.",
+        "journal": "PloS one",
+        "year": "2016",
+        "authors": [
+          "Moroni Samanta",
+          "Moscatelli Guillermo",
+          "Bournissen Facundo García",
+          "González Nicolás",
+          "Ballering Griselda"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Argentina",
+          "Child",
+          "Child, Preschool",
+          "Echinococcosis",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27589236/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:42:52.603070",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,617 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bortezomib",
+    "disease": "plasma cell myeloma",
+    "query_string": "Bortezomib AND plasma cell myeloma"
+  },
+  "data": {
+    "query": "Bortezomib AND plasma cell myeloma",
+    "results": [
+      {
+        "pmid": "38832972",
+        "title": "Isatuximab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma.",
+        "abstract": "Bortezomib, lenalidomide, and dexamethasone (VRd) is a preferred first-line treatment option for patients with newly diagnosed multiple myeloma. Whether the addition of the anti-CD38 monoclonal antibody isatuximab to the VRd regimen would reduce the risk of disease progression or death among patients ineligible to undergo transplantation is unclear.",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Facon Thierry",
+          "Dimopoulos Meletios-Athanasios",
+          "Leleu Xavier P",
+          "Beksac Meral",
+          "Pour Ludek"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38832972/"
+      },
+      {
+        "pmid": "38084760",
+        "title": "Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma.",
+        "abstract": "Daratumumab, a monoclonal antibody targeting CD38, has been approved for use with standard myeloma regimens. An evaluation of subcutaneous daratumumab combined with bortezomib, lenalidomide, and dexamethasone (VRd) for the treatment of transplantation-eligible patients with newly diagnosed multiple myeloma is needed.",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Sonneveld Pieter",
+          "Dimopoulos Meletios A",
+          "Boccadoro Mario",
+          "Quach Hang",
+          "Ho P Joy"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone",
+          "Disease Progression",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Membrane Glycoproteins",
+          "ADP-ribosyl Cyclase 1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38084760/"
+      },
+      {
+        "pmid": "35560063",
+        "title": "Multiple myeloma: 2022 update on diagnosis, risk stratification, and management.",
+        "abstract": "Multiple myeloma accounts for approximately 10% of hematologic malignancies.",
+        "journal": "American journal of hematology",
+        "year": "2022",
+        "authors": [
+          "Rajkumar S Vincent"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Neoplasm Recurrence, Local",
+          "Risk Assessment",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35560063/"
+      },
+      {
+        "pmid": "37315268",
+        "title": "Daratumumab, Cyclophosphamide, Bortezomib, Lenalidomide, and Dexamethasone as Induction and Extended Consolidation Improves Outcome in Ultra-High-Risk Multiple Myeloma.",
+        "abstract": "The multicenter OPTIMUM (MUKnine) phase II trial investigated daratumumab, low-dose cyclophosphamide, lenalidomide, bortezomib, and dexamethasone (Dara-CVRd) before and after autologous stem-cell transplant (ASCT) in newly diagnosed patients with molecularly defined ultra-high-risk (UHiR) multiple myeloma (NDMM) or plasma cell leukemia (PCL). To provide clinical context, progression-free survival (PFS) and overall survival (OS) were referenced to contemporaneous outcomes seen in patients with UHiR NDMM treated in the recent Myeloma XI (MyeXI) trial.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2023",
+        "authors": [
+          "Kaiser Martin F",
+          "Hall Andrew",
+          "Walker Katrina",
+          "Sherborne Amy",
+          "De Tute Ruth M"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Multiple Myeloma",
+          "Lenalidomide",
+          "Bortezomib",
+          "Bayes Theorem",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Transplantation, Autologous",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37315268/"
+      },
+      {
+        "pmid": "39287147",
+        "title": "A plain language summary of the PERSEUS study of daratumumab plus bortezomib, lenalidomide, and dexamethasone for treating newly diagnosed multiple myeloma.",
+        "abstract": "This summary describes the first analysis of the PERSEUS study, which looked at adults with multiple myeloma that had never been treated before, also called newly diagnosed multiple myeloma. Multiple myeloma is a type of cancer in the blood, specifically in plasma cells within the soft, spongy tissue in the center of most bones, called the bone marrow. Researchers wanted to see if adding daratumumab (D) to a standard treatment of three other medicines called VRd, which stands for bortezomib (V), lenalidomide (R), and dexamethasone (d), could stop the multiple myeloma from getting worse and help participants live longer without multiple myeloma.Half of the participants were assigned to the treatment plan with daratumumab; they received D-VRd during initial treatment phases (induction and consolidation), followed by daratumumab as well as lenalidomide (D-R) in the maintenance phase. The other half of participants received treatment without daratumumab; they received VRd induction and con",
+        "journal": "Future oncology (London, England)",
+        "year": "2024",
+        "authors": [
+          "Sonneveld Pieter",
+          "Dimopoulos Meletios A",
+          "Boccadoro Mario",
+          "Quach Hang",
+          "Ho P Joy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Patient Education Handout"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39287147/"
+      },
+      {
+        "pmid": "31201134",
+        "title": "Retrospective Review of the Use of High-Dose Cyclophosphamide, Bortezomib, Doxorubicin, and Dexamethasone for the Treatment of Multiple Myeloma and Plasma Cell Leukemia.",
+        "abstract": "Multiple myeloma (MM) usually follows a clinical course leading to refractoriness and limited treatment options in advanced stages, which might need bridge therapies to either autologous stem cell transplantation or novel therapies. We report our experience with the high-dose chemotherapy mCBAD (modified cyclophosphamide, bortezomib, doxorubicin, and dexamethasone) regimen in newly diagnosed MM (NDMM), relapsed/refractory MM (RRMM), and plasma cell leukemia (PCL) patients.",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2019",
+        "authors": [
+          "Tabchi Samer",
+          "Nair Rajit",
+          "Kunacheewa Chutima",
+          "Patel Krina K",
+          "Lee Hans C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31201134/"
+      },
+      {
+        "pmid": "39623468",
+        "title": "Doxorubicin synergizes bortezomib-induced multiple myeloma cell death by inhibiting aggresome formation and augmenting endoplasmic reticulum/Golgi stress and apoptosis.",
+        "abstract": "Bortezomib is a standard treatment for multiple myeloma (MM), working by the accumulation of toxic misfolded proteins in cancer cells. However, a significant clinical challenge arises from the development of resistance to bortezomib in MM treatment. Aggresome, a subcellular structure enclosed within Vimentin, forms in response to proteasome inhibitors and sequesters misfolded proteins that are transported by histone deacetylase 6 (HDAC6) and Dynein for degradation via autophagy, thereby reducing bortezomib's cytotoxic effects. Therefore, in this study, we screened several anticancer agents to identify those that could synergize with bortezomib to enhance cell death and block aggresome formation in the MM cell line U266B1.",
+        "journal": "Journal of translational medicine",
+        "year": "2024",
+        "authors": [
+          "Yu Chang-Tze Ricky",
+          "Liao Yu-Ting Amber",
+          "Chiang Chi-Yin Nina",
+          "Chen Jo-Mei Maureen",
+          "Pan Hsin-Yu Bella"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bortezomib",
+          "Multiple Myeloma",
+          "Humans",
+          "Apoptosis",
+          "Doxorubicin",
+          "Endoplasmic Reticulum Stress",
+          "Cell Line, Tumor",
+          "Golgi Apparatus",
+          "Drug Synergism",
+          "Histone Deacetylase 6"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39623468/"
+      },
+      {
+        "pmid": "32863212",
+        "title": "Iron regulates myeloma cell/macrophage interaction and drives resistance to bortezomib.",
+        "abstract": "Iron plays a major role in multiple processes involved in cell homeostasis such as metabolism, respiration and DNA synthesis. Cancer cells exhibit pronounced iron retention as compared to healthy counterpart. This phenomenon also occurs in multiple myeloma (MM), a hematological malignancy characterized by terminally differentiated plasma cells (PCs), in which serum ferritin levels have been reported as a negative prognostic marker. The aim of current study is to evaluate the potential role of iron metabolism in promoting drug resistance in myeloma cancer cells with particular regard to the interactions between PCs and tumor-associated macrophages (TAMs) as a source of iron. Our data showed that myeloma cell lines are able to intake and accumulate iron and thus, increasing their scavenger antioxidant-related genes and mitochondrial mass. We further demonstrated that PCs pre-treated with ferric ammonium citrate (FAC) decreased bortezomib (BTZ)-induced apoptosis in vitro and successfully ",
+        "journal": "Redox biology",
+        "year": "2020",
+        "authors": [
+          "Camiolo Giuseppina",
+          "Barbato Alessandro",
+          "Giallongo Cesarina",
+          "Vicario Nunzio",
+          "Romano Alessandra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Bortezomib",
+          "Carrier Proteins",
+          "Cell Line, Tumor",
+          "Drug Resistance, Neoplasm",
+          "Extracellular Matrix Proteins",
+          "Glycoproteins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32863212/"
+      },
+      {
+        "pmid": "33440212",
+        "title": "Management of acute kidney injury in symptomatic multiple myeloma.",
+        "abstract": "Symptomatic multiple myeloma is commonly complicated by acute kidney injury through various mechanisms. The most frequent is the precipitation of monoclonal free light chains with uromodulin in the distal tubules, defining light chain cast nephropathy. Early diagnosis and identification of the cause of acute kidney injury are required for optimizing management and avoiding chronic kidney injury that strongly affects quality of life and patient survival. In light chain cast nephropathy, often manifesting with severe acute kidney injury, renal recovery requires urgent intervention based on vigorous rehydration, correction of precipitating factors, and efficient anti-plasma cell chemotherapy to rapidly reduce the secretion of nephrotoxic free light chains. Currently, the association of the proteasome inhibitor bortezomib with high-dose dexamethasone is the standard regimen in newly diagnosed patients. The addition of another drug such as cyclophosphamide or an immunodulatory agent may imp",
+        "journal": "Kidney international",
+        "year": "2021",
+        "authors": [
+          "Bridoux Frank",
+          "Leung Nelson",
+          "Belmouaz Mohamed",
+          "Royal Virginie",
+          "Ronco Pierre"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Bortezomib",
+          "Humans",
+          "Immunoglobulin Light Chains",
+          "Multiple Myeloma",
+          "Quality of Life",
+          "Renal Dialysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33440212/"
+      },
+      {
+        "pmid": "27275642",
+        "title": "[Multiple myeloma and other plasma cell dyscrasias].",
+        "abstract": "Multiple myeloma is the most common primary malignant disease of bone marrow. It mainly occurs among elderly people and, according to international databases, it is twice as frequent in men, however in our country this fact cannot be observed because of the high male mortality rate. The presence of this disease increased by more than one and the half times during the last 60 years. The five year survival for multiple myeloma has increased from 25% to 40% since the seventies due to high-dose chemotherapy followed by autologous stem cell transplantation and the new anti-myeloma drugs which were introduced in the last decade, such as immunomodulators (IMiD) like thalidomide, lenalidomide, pomalidomide and proteasome inhibitors (PI) like bortezomib, carfilzomib, ixazomib. The number of treatment options are growing fast, and not only because of using new combinations of medications, but also due to the development of investigational products which are available for the patients by particip",
+        "journal": "Magyar onkologia",
+        "year": "2016",
+        "authors": [
+          "Nagy Zsolt"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bortezomib",
+          "Female",
+          "Humans",
+          "Immunologic Factors",
+          "Male",
+          "Multiple Myeloma",
+          "Proteasome Inhibitors",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27275642/"
+      },
+      {
+        "pmid": "37642368",
+        "title": "STMN1 promotes cell malignancy and bortezomib resistance of multiple myeloma cell lines via PI3K/AKT signaling.",
+        "abstract": "This study investigates the biological functions of Stathmin1 (STMN1) involving drug resistance and cell proliferation in multiple myeloma (MM) and its related mechanisms.",
+        "journal": "Expert opinion on drug safety",
+        "year": "2024",
+        "authors": [
+          "Wang Ling",
+          "Cao Jie",
+          "Tao Jian",
+          "Liang Yan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bortezomib",
+          "Multiple Myeloma",
+          "Phosphatidylinositol 3-Kinases",
+          "Proto-Oncogene Proteins c-akt",
+          "Cell Line, Tumor",
+          "Drug Resistance, Neoplasm",
+          "Cell Proliferation",
+          "Apoptosis",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37642368/"
+      },
+      {
+        "pmid": "25418598",
+        "title": "[Plasma cell leukemia].",
+        "abstract": "Plasma cell leukemia (PCL) is a rare disorder which develops spontaneously (primary PCL) or evolves in patients with multiple myeloma (secondary PCL). It is defined by the presence of 2 × 10(9)/L peripheral blood plasma cells or plasmacytosis accounting for more than 20 % of the differential white cell count. PCL presents more often extramedullary involvement, anemia, thrombocytopenia, hypercalcemia, as well as impaired renal function. Cytogenetic abnormalities and mutations observed in PCL lead to escape from immune surveillance and independence from the bone marrow microenvironment with changes in expression of adhesion molecules or chemokines receptors. The outcome of PCL has improved with combination approaches with novel agents (including bortezomib and immunomodulatory drugs, such as lenalidomide) and with autologous stem cell transplantation. Allogeneic hematopoietic stem cell transplantation is currently available for young patients. This article is an overview of this rare and",
+        "journal": "Bulletin du cancer",
+        "year": "2014",
+        "authors": [
+          "Ravinet Aurélie",
+          "Bay Jacques Olivier",
+          "Tournilhac Olivier"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Biomedical Research",
+          "Boronic Acids",
+          "Bortezomib",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Leukemia, Plasma Cell",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25418598/"
+      },
+      {
+        "pmid": "37000077",
+        "title": "Plasma cell myeloma initially diagnosed as light-chain deposition disease on liver biopsy: A case report and literature review.",
+        "abstract": "Light-chain deposition disease (LCDD) is a rare condition characterized by the abnormal deposition of monoclonal light chains (LCs) in multiple organs, leading to progressive organ dysfunction. Herein, we report a case of plasma cell myeloma initially diagnosed as LCDD on liver biopsy performed for prominent cholestatic hepatitis.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Jeong Ji Yun",
+          "Yang Hyeon Tae",
+          "Cho Seung Hyun",
+          "Lee Yu Rim",
+          "Kim Jinhee"
+        ],
+        "pub_types": [
+          "Review",
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Multiple Myeloma",
+          "Hepatomegaly",
+          "In Situ Hybridization, Fluorescence",
+          "COVID-19",
+          "Liver Diseases",
+          "Lenalidomide",
+          "Bortezomib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37000077/"
+      },
+      {
+        "pmid": "39891948",
+        "title": "Enhancing T cell cytotoxicity in multiple myeloma with bispecific αPD-L1 × αCD3 T cell engager-armed T cells and low-dose bortezomib therapy.",
+        "abstract": "Multiple myeloma (MM) is an incurable plasma cell malignancy characterized by frequent relapse due to acquired treatment resistance, underscoring the need for innovative therapies, particularly for relapsed cases. This study explores the effects of low-dose bortezomib (BTZ) on programmed death ligand 1 (PD-L1) expression in MM cell lines and its potential to enhance T cell-mediated anti-tumor responses. Utilizing this PD-L1 upregulation, we employed bispecific αPD-L1 × αCD3 T cell engager-armed T cells (BATs) to block PD-L1 signaling and activate T cells. Flow cytometry confirmed that BATs selectively bound CD3 on T cells and PD-L1 on cancer cells, inducing T cell activation and proliferation without directly affecting cancer cell viability. BATs' cytotoxic activity was evaluated in MM cell lines with or without BTZ-induced PD-L1 expression. While KMS-12-PE cells showed no significant response, BATs significantly increased cell death in L363 cells, with further enhancement by BTZ. In R",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2025",
+        "authors": [
+          "Sawasdee Nunghathai",
+          "Thepmalee Chutamas",
+          "Junking Mutita",
+          "Okada Seiji",
+          "Panya Aussara"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bortezomib",
+          "Multiple Myeloma",
+          "Humans",
+          "B7-H1 Antigen",
+          "Cell Line, Tumor",
+          "Antibodies, Bispecific",
+          "Animals",
+          "CD3 Complex",
+          "Antineoplastic Agents",
+          "T-Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39891948/"
+      },
+      {
+        "pmid": "19541364",
+        "title": "Multiple myeloma.",
+        "abstract": "Multiple myeloma is characterised by clonal proliferation of malignant plasma cells, and mounting evidence indicates that the bone marrow microenvironment of tumour cells has a pivotal role in myeloma pathogenesis. This knowledge has already expanded treatment options for patients with multiple myeloma. Prototypic drugs thalidomide, bortezomib, and lenalidomide have each been approved for the treatment of this disease by targeting both multiple myeloma cells and the bone marrow microenvironment. Although benefit was first shown in relapsed and refractory disease, improved overall response, duration of response, and progression-free and overall survival can be achieved when these drugs are part of first-line regimens. This treatment framework promises to improve outcome not only for patients with multiple myeloma, but also with other haematological malignancies and solid tumours.",
+        "journal": "Lancet (London, England)",
+        "year": "2009",
+        "authors": [
+          "Raab Marc S",
+          "Podar Klaus",
+          "Breitkreutz Iris",
+          "Richardson Paul G",
+          "Anderson Kenneth C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Boronic Acids",
+          "Bortezomib",
+          "Clinical Trials as Topic",
+          "Combined Modality Therapy",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Lenalidomide",
+          "Melphalan",
+          "Multiple Myeloma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19541364/"
+      },
+      {
+        "pmid": "39196376",
+        "title": "Light chain deposition disease: pathogenesis, clinical characteristics and treatment strategies.",
+        "abstract": "Light chain deposition disease (LCDD) is a rare hematologic disorder characterized by the deposition of non-amyloid monoclonal light chains in several organs. Together with renal impairment is being the primary morbidity associated with this disease. Due to its rarity, randomized clinical trials lack to explore treatment strategies and there are no approved or universally accepted standard of care treatment options. We aimed to provide a systematic summary of histological and clinical aspects of LCDD and treatment options of available literature therapies strategies. Currently, drugs used to treat multiple myeloma are recommended when LCDD patients also presented multiple myeloma. Anyway, in patients with LCDD that is not associated to multiple myeloma, haematopoietic stem cell transplantation (ASCT) and chemotherapy with thalidomide, dexamethasone, bortezomib are also recommended. In eligible patients, bortezomib-based chemotherapy followed by ASCT appears to be an effective treatment",
+        "journal": "Annals of hematology",
+        "year": "2025",
+        "authors": [
+          "Cassano Cassano Raffaella",
+          "Bonadio Angelo Giovanni",
+          "Del Giudice Maria Livia",
+          "Giannese Domenico",
+          "Galimberti Sara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hematopoietic Stem Cell Transplantation",
+          "Bortezomib",
+          "Multiple Myeloma",
+          "Immunoglobulin Light Chains",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Immunoglobulin Light-chain Amyloidosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39196376/"
+      },
+      {
+        "pmid": "35772042",
+        "title": "Response and Survival Estimates of Patients With Plasma Cell Myeloma in a Resource-Constrained Setting Using Protocols From High-Income Countries: A Single-Center Experience From Sri Lanka.",
+        "abstract": "There is a significant disparity in global cancer care and outcome between countries. Progress in the treatment of symptomatic plasma cell myeloma (PCM) in high-income countries is not seen in low- and middle-income countries.",
+        "journal": "JCO global oncology",
+        "year": "2022",
+        "authors": [
+          "Hewamana Saman",
+          "Gunasena Prasanna",
+          "Jayasinghe Chathuri",
+          "Skandarajah Thurairajah",
+          "Harischandra Mahesh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Developed Countries",
+          "Dexamethasone",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Multiple Myeloma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35772042/"
+      },
+      {
+        "pmid": "39695697",
+        "title": "Bortezomib-releasing silica-collagen xerogels for local treatment of osteolytic bone- and minimal residual disease in multiple myeloma.",
+        "abstract": "Accumulation of malignant plasma cells in the bone marrow causes lytic bone lesions in 80% of multiple myeloma patients. Frequently fracturing, they are challenging to treat surgically. Myeloma cells surviving treatment in the presumably protective environment of bone lesions impede their healing by continued impact on bone turnover and can explain regular progression of patients without detectable minimal residual disease (MRD). Locally applicable biomaterials could stabilize and foster healing of bone defects, simultaneously delivering anti-cancer compounds at systemically intolerable concentrations, overcoming drug resistance.",
+        "journal": "Journal of hematology & oncology",
+        "year": "2024",
+        "authors": [
+          "Hose Dirk",
+          "Ray Seemun",
+          "Rößler Sina",
+          "Thormann Ulrich",
+          "Schnettler Reinhard"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Multiple Myeloma",
+          "Bortezomib",
+          "Animals",
+          "Silicon Dioxide",
+          "Rats",
+          "Collagen",
+          "Mice",
+          "Humans",
+          "Neoplasm, Residual",
+          "Osteolysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39695697/"
+      },
+      {
+        "pmid": "16689452",
+        "title": "[The plasma cell myeloma--molecular pathogenesis and target therapies].",
+        "abstract": "The cells of the malignant clone of plasmacell myeloma have cytogenetic aberrations in a substantial number of cases. Many of these abnormal karyotypes are predictive for an unfavorable outcome. Gene mutations and abnormal gene expression, particularly of oncogenes and tumor suppressor genes, are often observed in myeloma cells. The cross talk between the myeloma cells and the bone marrow microenvironment plays an important role for growth and survival of the tumor cells. As a consequence of this cell-to-cell-interaction, several cytokines are secreted. The intracellular signaling, evoked by these cytokines, leads to continuous growth and proliferation and inhibition of apoptosis. Since these molecular pathways have been defined, many new targets for therapeutical interventions become obvious. Some molecules, directed against cytokines, are under early clinical investigation. Medicaments intervening in the cross talk between the myeloma cell and the bone marrow stroma as Thalidomide, L",
+        "journal": "Therapeutische Umschau. Revue therapeutique",
+        "year": "2006",
+        "authors": [
+          "Hess U"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angiogenesis Inhibitors",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Arsenic Trioxide",
+          "Arsenicals",
+          "Boronic Acids",
+          "Bortezomib",
+          "Cell Communication",
+          "Chromosome Aberrations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16689452/"
+      },
+      {
+        "pmid": "29333597",
+        "title": "TP53 polymorphism in plasma cell myeloma.",
+        "abstract": "Significant and accessible predictive factors for bortezomib treatment in plasma cell myeloma (PCM) are still lacking. TP53 codon 72 polymorphism (P72R) results in proline (P) or arginine (R) at 72 amino acid position, which causes synthesis of proteins with distinct functions. The aims of our study were to: 1) analyze whether this polymorphism is associated with an increased risk of PCM; 2) study whether the P72R polymorphism affects overall survival (OS) among PCM patients; 3) assess the possible association of the P72R polymorphism with sensitivity to bortezomib in cell cultures derived from PCM patients.",
+        "journal": "Folia histochemica et cytobiologica",
+        "year": "2017",
+        "authors": [
+          "Zmorzynski Szymon Andrzej",
+          "Korszen-Pilecka Iwona",
+          "Wojcierowska-Litwin Magdalena",
+          "Kwiatkowska-Drabik Barbara",
+          "Luterek Malgorzata"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Bortezomib",
+          "Female",
+          "Humans",
+          "Male",
+          "Multiple Myeloma",
+          "Plasma Cells",
+          "Polymorphism, Genetic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29333597/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:56:22.180468",
+  "success": true,
+  "error_message": null
+}

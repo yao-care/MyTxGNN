@@ -1,0 +1,929 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lamotrigine",
+    "disease": "epilepsy"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00113165",
+      "title": "A Multicenter, Double-Blind, Randomized, Parallel-group Evaluation of LAMICTAL Extended-release Adjunctive Therapy in Subjects With Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2007-07",
+      "country": "South Korea, Brazil, Chile, Puerto Rico, India, Russia, Ukraine, Germany, Argentina, United States",
+      "enrollment": 244,
+      "brief_summary": "This study is being conducted to compare the efficacy and safety of LAMICTAL (lamotrigine) extended-release with placebo in the treatment of partial seizures. LAMICTAL extended-release is an investigational drug. Placebo tablets look like LAMICTAL extended-release tablets but do not contain active medication. In this study, LAMICTAL extended-release or placebo tablets will be added to current seizure treatments.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Diagnosis of epilepsy with partial seizures for more than 24 weeks.\n* Must experience at least 8 partial seizures during an 8-week Baseline Phase.\n* Must currently be receiving treatment with a stable regimen of one or two antiepileptic drugs for at least four weeks.\n* Patient",
+      "endpoints": [
+        "The efficacy of LAMICTAL extended-release therapy will be measured by the percentage change from Baseline in partial seizure frequency during the double-blind treatment phase."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00113165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208520",
+      "title": "Second-Line Treatment Choice for Epilepsy",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2003-07",
+      "completion_date": "2007-06",
+      "country": "Netherlands",
+      "enrollment": 60,
+      "brief_summary": "Most patients are prescribed valproate as their first antiepileptic drug. It is unknown which is the best second-line drug when patients do not become seizure free on valproate. This has led the Dutch Epilepsy Clinics Foundation (SEIN) to start the SLICE study. Adult patients with partial and/or tonic-clonic seizures, insufficiently responding to valproate, are recruited for this study. These patients are randomized to receive one of three other drugs. Patients wil initially use this drug next t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with generalized tonic-clonic, complex partial and/or simple partial seizures. The seizures should be well-defined according to the International Classification of Epileptic Seizures (1). Therefore, an accurate history and adequate neurophysiological data should",
+      "endpoints": [
+        "Percentage seizure free"
+      ],
+      "sponsor": "Dutch Epilepsy Clinics Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00208520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00007670",
+      "title": "CSP #428 - Treatment of Seizures in the Elderly Population",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 720,
+      "brief_summary": "New onset epilepsy in the elderly occurs in 45,000-50,000 elderly patients each year. These patients are especially vulnerable to side effects from medications because of changes caused by the aging process and the fact that these patients often have many common diseases for which they are already receiving medications for so that the likelihood of drug interactions is increased. Two new drugs, gabapentin and lamotrigine, have recently been approved by the FDA as antiepileptic drugs. These drugs",
+      "eligibility_criteria": "Veterans 60 years of age or older who have new onset, unprovoked seizures of focal onset, with or without secondary generalization.",
+      "endpoints": [],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00007670"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04274179",
+      "title": "A Prospective, Case-control Evaluation of Ketogenic Dietary Therapy for New-onset Childhood Absence Epilepsy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2020-08-10",
+      "completion_date": "2026-05-01",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The ketogenic diet is a medical therapy for epilepsy that is used nearly predominantly for refractory epilepsy (after 2-3 drugs have been tried and failed). However, there is both published evidence for first-line use (infantile spasms, Glut1 deficiency syndrome) and also anecdotal experience (families choosing to change the child's (or the family' own) diet rather than use anticonvulsant medications). Childhood absence epilepsy (refractory) has been published as being responsive to ketogenic di",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children ages 3-12 years at seizure onset with classic childhood absence epilepsy clinically.\n* Normal intellect or mild disability\n* EEG with confirmed 3/second spike-wave discharges, usually with hyperventilation\n* Daily reported absence seizures.\n* Generalized convulsions a",
+      "endpoints": [
+        "Change in seizure frequency"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT04274179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00807989",
+      "title": "An Open Label, Randomized, Multicenter Clinical Trial to Compare the Efficacy and Safety of Lamotrigine / Valproate Coadministration and Carbamazepine as Initial Pharmacotherapy in Epilepsies (Phase Ⅳ)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2012-05",
+      "country": "South Korea",
+      "enrollment": 207,
+      "brief_summary": "To evaluate the efficacy of usual monotherapy and low dose combination of Lamotrigine and Valproate. Low dose combination may be more effective and tolerable because they are low dose and VPA reduce Lamotrigine metabolism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥16yr old\n* Who are diagnosed as epilepsy definitely\n* Who have minimum 2 unprovoked seizures and minimum 1 seizure in previous 3 months\n* Who need AED therapy and no AED medication for previous 1 year (exclude emergency medication for less than 2weeks)\n* Who is not pregna",
+      "endpoints": [
+        "Retention Rate After 52 Weeks Maintenance Period"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT00807989"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00789113",
+      "title": "Determination of Bioavailability and Clearance of Lamotrigine-XR by a Stable Isotope Technique",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "People over 65 years of ag break down (metabolize) drugs differently than younger adults. It is not known why this happens or how elderly people absorb or break down these drug differently. These difference may show that elderly individuals need lower doses of medications to avoid possible toxicity. We are interested in studying how yor body absorbs and breaks down your lamotrigine medication. This research may indicate that doses of lamotrigine should be lowered as people get older.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical Diagnosis of Epilepsy or Bipolar Depression\n* able to have a venus catheter implanted for blood withdrawal and for intravenous infusion\n* equal to or over the age of 65\n\nExclusion Criteria:\n\n* not on any medication that will interact with lamotrigine e.g. carbamazepin",
+      "endpoints": [
+        "Area Under the Curve (AUC) for Oral Bioavailability of Lamotrigine (LTG"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00789113"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01064297",
+      "title": "Lamotrigine Pregnancy Registry (LAM05)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-11",
+      "completion_date": "2010-07",
+      "country": "N/A",
+      "enrollment": 3416,
+      "brief_summary": "Antiepileptic drugs (AEDs) are not indicated for use in pregnancy. However, women with epilepsy, and other approved indications including bipolar disorder, may require or be unintentionally exposed to AEDs during pregnancy. Prior to an AED being marketed there are few data available on drug safety in pregnancy: data from animal models may not translate directly to humans and pregnant women are routinely excluded from clinical trials. The International Lamotrigine Pregnancy Registry was establish",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women exposed in utero to lamotrigine (as monotherapy or in a polytherapy combination) during pregnancy. Exposure can occur at any time during pregnancy, though exposure in the first trimester is of primary interest.\n* Pregnancies exposed to lamotrigine and reported before the",
+      "endpoints": [
+        "Birth Outcomes by Earliest Pregnancy Trimester of Exposure to Lamotrigine Monotherapy",
+        "Birth Outcomes by Earliest Pregnancy Trimester of Exposure to Lamotrigine Polytherapy With Valproate",
+        "Birth Outcomes by Earliest Pregnancy Trimester of Exposure to Lamotrigine Polytherapy Without Valproate"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01064297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00292461",
+      "title": "A Study for Evaluating the Efficacy and Safety of Zonisamide and Lamotrigine (Lamictal) for Subjects With Refractory Simple Partial, Complex Partial or Partial With Secondary Generalized Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2009-09",
+      "country": "China",
+      "enrollment": 64,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of zonisamide for anti-epilepsy drugs (AEDs) treated subjects with refractory simple partial, complex partial or partial with secondary generalized seizures.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects must sign and date the informed consent form\n* Clinical diagnosis as refractory epilepsy\n\nExclusion criteria:\n\n* Progressive neurologic disease\n* Serious psychiatric disease\n* Hemolytic anemia\n* G6PD (glucose-6-phosphate dehydrogenase) deficiency\n* Acute intermittent ",
+      "endpoints": [
+        "The Percentage Change of Monthly Seizure Frequency at the End of the 16-week Treatment From Baseline"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00292461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00280059",
+      "title": "A Randomized, Comparative, Double-Blind, Parallel-Group, Multicenter, Monotherapy, Study Of Pregabalin (Lyrica) And Lamotrigine (Lamictal) In Patients With Newly Diagnosed Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2010-04",
+      "country": "Bulgaria, Singapore, Spain, Mexico, Sweden, Belgium, Norway, Taiwan, India, Hungary, Slovakia, Germany, Latvia, Portugal, Romania, Thailand, Lithuania, South Korea, Finland, Hong Kong, Ireland, Colombia, Estonia, France, Czechia, Italy, China, Netherlands, United Kingdom",
+      "enrollment": 660,
+      "brief_summary": "The purpose of this study is to assess whether Lyrica is a safe and effective treatment for partial epilepsy in comparison with an established treatment, Lamictal.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be diagnosed with partial epilepsy and have experienced at least 2 partial seizures (simple partial, complex partial or partial seizure with secondary generalization) in the past year with one in the past 6 months.\n\nExclusion Criteria:\n\n* Treatable causes of seiz",
+      "endpoints": [
+        "Percentage of Seizure-free Participants (Responders) During Efficacy Assessment Phase"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00280059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01097720",
+      "title": "Developmental Delay in Children Exposed During Pregnancy to Either Lamotrigine, Sodium Valproate, or Carbamazepine",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2005-03",
+      "completion_date": "2010-09",
+      "country": "United States",
+      "enrollment": 298,
+      "brief_summary": "This study is investigating the neurodevelopmental effects of prenatal exposure to lamotrigine (LTG), sodium valproate (VPA), or carbamazepine (CBZ) monotherapies. The hypotheses to be tested include:\n\n1. Exposure during pregnancy to CBZ, LTG, and VPA, each as monotherapy, is associated with developmental delay with or without signs of autism.\n2. Exposure to each drug (CBZ, LTG, and VPA) as monotherapy is associated with an increased rate of occurrence of major malformations.\n3. The child with m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 36-83 months of age\n* Prenatal exposure to LTG, VPA, or CBZ monotherapy\n* AED was used by mother to suppress seizures\n* Mother was enrolled in the North American AED Pregnancy Registry\n\nExclusion Criteria:\n\n* Exposure during the first trimester to other known teratogens.\n* Mot",
+      "endpoints": [
+        "Adaptive Behavior Scores"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01097720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02556320",
+      "title": "Immunological and Viral Parameters in Patients Receiving Anti-epileptic Drugs",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2015-12",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "A recent study has shown that certain drug allergies were actually related to an immune system against certain viruses. The aim of the study is to evaluate, in patients taking antiepileptic drugs, if this treatment induces proliferation of these viruses and secondarily an immune response that would promote the development of a rash. In particular, will be studied whether these drugs can induce virus reactivation \"dormant\" in the immune system. This study will not affect the usual follow-up propo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients age over 18 years\n* Patient for whom treatment of antiepileptic class will be started or was set for less than 48 hours and including one of the following molecules (as princeps or generic equivalent form): sodium valproate, divalproate sodium, valpromide, lamotrigine",
+      "endpoints": [
+        "Number of patients with viral reactivation of Epstein-Barr Virus",
+        "Number of patients with viral reactivation of Human Herpes Virus 6",
+        "Number of patients with viral reactivation of Human Herpes Virus 7"
+      ],
+      "sponsor": "University Hospital, Rouen",
+      "url": "https://clinicaltrials.gov/study/NCT02556320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00054990",
+      "title": "The Effects Of Antiepileptic Drugs On Cortical Excitability",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-03",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study will evaluate the usefulness of transcranial magnetic stimulation (TMS) in measuring cortical excitability. The cortex is the outer part of the brain. Patients with seizures have increased cortical excitability and are often treated with antiepileptic drugs to reduce this excitability. The therapeutic effects of antiepileptic drugs are usually tracked with blood tests that measure their blood levels. However, these blood tests may not always correctly reflect the effects of the drugs ",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nNormal volunteers will be male or female, aged 18 to 55 at protocol entry without any of the exclusion criteria described below.\n\nEXCLUSION CRITERIA:\n\nPatients will be excluded from this study if they:\n\n1. are pregnant (tested with urine pregnancy test).\n2. have severe coronary ",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00054990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03636958",
+      "title": "Study of the Efficacy and Safety of Perampanel in Combination in Glioma-refractory Epilepsy",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-02-15",
+      "completion_date": "2026-12-01",
+      "country": "France",
+      "enrollment": 0,
+      "brief_summary": "Gliomas are primitive brain tumors frequently associated with epilepsy. In a significant number of these patients epilepsy is resistant to antiepileptic drugs. There are currently no recommendations for the management of these drug-resistant epilepsies associated with glioma. In addition, few studies have addressed the subject and no treatment appears to be superior to others in the literature for this indication. In addition, many antiepileptic drugs pose problems of tolerance or interaction wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient, male or female, over 18 years old\n\n* Glioma confirmed by histology\n* Not in progression (clinico-radiological criterion RANO, (Wen et al., 2014), see appendix 1)\n\n  * No clinical worsening (excluding epileptic seizures)\n  * No increase greater than 25% in contrast enhan",
+      "endpoints": [
+        "Numbers of crisis at baseline",
+        "Numbers of crisis under treatment"
+      ],
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "url": "https://clinicaltrials.gov/study/NCT03636958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00916149",
+      "title": "Cognitive Effects of Treatment of Interictal Discharges",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2012-10",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study is to determine if levetiracetam (for patients with focal seizures) or lamotrigine (for patients with generalized seizures) reduces the occurrence of interictal discharges. The study investigates the possible correlation between reduction of interictal discharges and improved cognitive performance.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* 18-55 years of age\n* Normal Intelligence Quotient (IQ ≥ 80) as estimated by the Wechsler Test of Adult Reading (WTAR)\n* Able to give consent\n* The subject's treating physician is planning to prescribe levetiracetam for focal or lamotrigine for generalized seizure prevention\n* E",
+      "endpoints": [
+        "Mean Change in Focal Interictal Discharges (IEDs) Per Hour, Pre to Post Treatment"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00916149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04939675",
+      "title": "Modification of Epilepsy Screen Questionnaire and Treatment Feasibility Evaluation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-07-01",
+      "completion_date": "2025-06-30",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "Atypical presentations in epilepsy may include confusion status, acute maniac or delirious condition, loss of cognitive ability such as speech, interaction skills, or other praxis. Current diagnosis of epilepsy did not address on definition of seizure. The new insights of seizure semiology and their treatment response, suggest the screen tool and diagnostic criteria of epilepsy can be revised.\n\nIn this study, we have two aims. The first aim is to develop a screening questionnaire by adding new s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Age equal or more than 20-year-old 2a. Patients already diagnosed of epilepsy 2b. Non-epileptic patients from outpatient and inpatient settings of National Taiwan University Hospital (NTUH) and National Taiwan University Hospital Yunlin Branch (NTUHYL) 2c. Community health p",
+      "endpoints": [
+        "Mini-Mental State Examination"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04939675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01657864",
+      "title": "WEUSKOP6166: Prevalence of Aseptic Meningitis Among Lamotrigine Users",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2012-07",
+      "country": "N/A",
+      "enrollment": 1,
+      "brief_summary": "The objective of the study is to quantify the number of cases of aseptic meningitis among users of Lamotrigine. This study is a cross-sectional study design using data on lamotrigine patients within the Thomson Reuters MarketScan® Commercial database (MarketScan database). The MarketScan database is a US-based insurance claims database representative of a US insured population and includes supplemental datao n Medicare patients. This cross-sectional study will evaluate the number of cases of ase",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be using lamotrigine for epilepsy or bipolar disorder.\n* Patients must have at least 180 days history on the database prior to the index of lamotrigine use.\n* Patients must have medical and pharmacy coverage throughout the study, with no gaps in eligibility.\n\nExc",
+      "endpoints": [
+        "Aseptic meningitis during the period of time the patient is taking lamotrigine"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01657864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02727101",
+      "title": "\"Rational Polytherapy\" Using Perampanel Dual Therapy Anticonvulsant Combination Treatments of Adults With Refractory Focal Epilepsy : a Pilot Study.",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2015-11",
+      "completion_date": "2017-07",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "The goal of the present study is to evaluate (\"screen\") a large number (12) of different dual therapies of perampanel + another AED (\"PMP+\") for a large, 75-100% seizure frequency reduction. The design of the study will differ from usual AED studies. The study will be (i) open label, with (ii) a small n per group, n=6, with (iii) outcome measures a 'blockbuster effect': (a) ≥75 seizure frequency reduction; and (b) seizure freedom.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-65\n2. Stable focal epilepsy, with partial complex seizures including partial complex seizures with or without secondary generalization, partial simple seizures with a clear motor component with or without secondary generalization, and partial simple seizures with secon",
+      "endpoints": [
+        "responder rate",
+        "seizure freedom rate",
+        "treatment discontinuation rate"
+      ],
+      "sponsor": "Mid-Atlantic Epilepsy and Sleep Center, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02727101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00552526",
+      "title": "Comparing Ketogenic Diet With the Most Appropriate Antiepileptic Drug- a Randomized Study of Children With Mental Retardation and Drug Resistant Epilepsy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-11",
+      "completion_date": "2013-12",
+      "country": "Norway",
+      "enrollment": 60,
+      "brief_summary": "This is an open randomized controlled study in children with mental retardation and refractory epilepsy in which treatment with ketogenic diet (KD) is compared with treatment with the antiepileptic drug (AED), not tried by the patient before, which we consider to be the most appropriate AED for the patient.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient is mentally retarded\n* The patient has tried at least 3 different AED:s including one combination with two or more different AED:s.\n* The parents are willing to include their child in the study after written and verbal information.\n* Patients with all types of epil",
+      "endpoints": [
+        "Comparing amount of patients with 100%, >90% and >50% reduction in number of seizures between the two groups of seizures"
+      ],
+      "sponsor": "Oslo University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00552526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02707965",
+      "title": "Characterization of Epilepsy Patients At-risk for Adverse Outcomes Related to Switching Antiepileptic Drug Products: BEEP 2b Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-06-08",
+      "completion_date": "2018-09-04",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Some epilepsy patients are described as GB when they have worsened seizures or side effects related to switching between brand name and generic, or between generic antiepileptic drug (AED) products. In concert with Aim 1 (protocol BEEP2a), this study will uncover possible reasons for patient problems with the drug switching. Factors that will be studied in GB epilepsy patients include physiologic, psychological, and genetic factors, including in this protocol whether brand and generic AEDs are p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject previously completed BEEP2a study, found to be probably GB, and able to provide informed consent or subject's legally authorized representative is able to provide informed consent.\n2. Subject is male or female between 18 and 76 years of age inclusive.\n3. Subject has a",
+      "endpoints": [
+        "Mean AUC0-last_ss (Test vs. Reference)",
+        "Mean Cmax_ss (Test vs. Reference)",
+        "Mean Cmin_ss (Test vs. Reference)"
+      ],
+      "sponsor": "Food and Drug Administration (FDA)",
+      "url": "https://clinicaltrials.gov/study/NCT02707965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07443241",
+      "title": "Gender-specific Differences in the Etiology, Diagnosis, Treatment and Outcome of Status Epilepticus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-12-16",
+      "completion_date": "2024-03-27",
+      "country": "N/A",
+      "enrollment": 779,
+      "brief_summary": "Sex-specific differences in neurological emergencies such as Status epilepticus (SE) remain understudied despite growing recognition of gender disparities in medicine. This study aimes to investigate sex-related differences in etiology, diagnostics, treatment, and outcomes among patients with SE. The investigators conducted a retrospective analysis of 779 patients treated with SE at Marburg University Hospital between 2011 and 2023.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who were treated at Marburg University Hospital (UKGM Marburg) between January 2011 to March 2023 with diagnosis of SE\n\nExclusion Criteria:\n\n* children",
+      "endpoints": [
+        "Age at SE Onset",
+        "Diagnosis of SE Subtype",
+        "Semiology: Focal vs. Generalized"
+      ],
+      "sponsor": "University Hospital Marburg",
+      "url": "https://clinicaltrials.gov/study/NCT07443241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00299793",
+      "title": "Observational Study of Lamotrigine",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-10",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to assess efficacy, safety and tolerability of lamotrigine as used in a natural clinical setting, to examine the positive effects of lamotrigine, and the reasons why some patients choose to continue or discontinue lamotrigine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are about to be prescribed lamotrigine as an appropriate treatment for their epileptic disorder\n\nExclusion Criteria:\n\n* Patients with mental retardation",
+      "endpoints": [],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT00299793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01607333",
+      "title": "WEUKBRE5557: IMI PROTECT (Work Package 2): Use of Antiepileptics and Risk of Suicidality",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2014-07",
+      "country": "N/A",
+      "enrollment": 1,
+      "brief_summary": "The studies described in this protocol are all performed within the framework of PROTECT (Pharmacoepidemiological Research on Outcomes of Therapeutics by a European ConsorTium) Workpackage 2 and Workgroup 1. Primary aim of these studies is to develop, test and disseminate methodological standards for the design, conduct and analysis of Pharmacoepidemiological (PE) studies applicable to different safety issues and using different data sources. To achieve this, results from PE studies on five key ",
+      "eligibility_criteria": "Inclusion Criteria for the descriptive studies to compare the six European databases:\n\n* patients with at least one prescription to an AED between January 1, 2000 and December 31, 2009\n* patients who fulfill the quality criteria of the respective database\n\nInclusion Criteria for the additional descr",
+      "endpoints": [
+        "Suicide attempt including completed suicide identified in GPRD from Read codes and cause of death; and ICD-9 codes and cause of death from Death Registry in Danish database"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01607333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00612235",
+      "title": "Comparison of Different Antiepileptic Drug Monotherapies for the Occurrence of Premenstrual Dysphoric Disorder Among Women With Epilepsy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-06",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study is being done to determine if there are differences in mood during the menstrual cycle among women with epilepsy who take various different antiepileptic drugs and women without epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with epilepsy, 18-45 years of age. Women will be on one of 4 established (≥ 3 months) AED monotherapies: LTG, CBZ, PHT or LEV and with documented therapeutic range serum AED level during the year prior to enrollment.\n* Normal Control women, 18-45 years of age, in good ge",
+      "endpoints": [
+        "To Determine if the Frequency of Premenstrual Dysphoric Disorder Differs Among Various Antiepileptic Drug Monotherapies.",
+        "Proportion of Women With PMDD in WWE and the Control Group"
+      ],
+      "sponsor": "Beth Israel Deaconess Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00612235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01431963",
+      "title": "A Multi-center, Uncontrolled, Open-label, Evaluation of Lamotrigine Monotherapy in Newly Diagnosed Epilepsy or Recurrent Epilepsy (Currently Untreated)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2014-10",
+      "country": "Japan, South Korea",
+      "enrollment": 70,
+      "brief_summary": "This is a multi-center, uncontrolled, open-label study conducted in Japan and South Korea to evaluate the efficacy and safety of lamotrigine monotherapy in subjects with newly diagnosed epilepsy and those with recurrent epilepsy (currently untreated).\n\nThe study is composed of baseline, escalation phase, maintenance phase, taper phase and post study examination. During the escalation phase, the investigational product is administered orally at 25 mg/day for 2 weeks, then 50 mg/day for 2 weeks an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Target disease: Subjects with newly diagnosed epilepsy or recurrent epilepsy which is untreated, having the following seizure types as classified by the International Classification of Seizures.\n\n   * Partial seizures (with or without secondarily generalisation)\n   * Generali",
+      "endpoints": [
+        "Number of Participants Who Were Seizure Free in the Maintenance Phase (Across Seizure Types and by Seizure Type Within 6 Months Prior to the Start of the Study)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01431963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00395694",
+      "title": "Clinical Evaluation of BW430C in Epilepsy<Phase III Study>",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08-07",
+      "completion_date": "2009-03-26",
+      "country": "Japan",
+      "enrollment": 102,
+      "brief_summary": "To evaluate safety information of BW430C when administered using the lower starting doses and slower dose escalations as recommended Global Data Sheet",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Epilepsy with partial seizures\n* Tonic clonic seizures\n* Generalized seizures of Lennox-Gastaut\n* Subjects whose seizures are easily recognizable at least one seizure per month and counts for 8 consecutive weeks prior to the start of the study drug.\n* Concurrent AEDs: Subjects",
+      "endpoints": [
+        "Number of Participants With Any Rash Event (Including Stevens-Johnson Syndrome [SJS] and Any Other Serious Drug Eruption) During the Initial 8 Weeks of Study Treatment"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00395694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05459597",
+      "title": "Population Pharmacokinetics, Effectiveness and Safety of Antiepileptic Drugs in Elderly Patients",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2021-01-01",
+      "completion_date": "2028-06-30",
+      "country": "China",
+      "enrollment": 500,
+      "brief_summary": "The purpose is to study the population pharmacokinetics, effectiveness and safety of antiepileptic drug (phenytoin, carbamazepine, lamotrigine, levetiracetam, parempanel, etc) in elderly patients and recommend optimized dosage regimens.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥65 years old;\n2. Diagnosed with epilepsy;\n3. Using antiepileptic drugs for treatment;\n\nExclusion Criteria:\n\n1. Patients who are expected to die within 48 hours;\n2. Patients with allergy to antiepileptic drugs;\n3. Patients receiving other investigational drugs;\n4. Other f",
+      "endpoints": [
+        "The peak plasma drug concentration of antiepileptic drugs.",
+        "The random plasma drug concentration of antiepileptic drugs.",
+        "The trough plasma drug concentration of antiepileptic drugs."
+      ],
+      "sponsor": "Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT05459597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00516139",
+      "title": "Lamotrigine Extended-Release in Elderly Patients With Epilepsy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2010-07",
+      "country": "United States",
+      "enrollment": 122,
+      "brief_summary": "This study is being conducted to determine the safety and tolerability of lamotrigine (LTG) in elderly patients with epilepsy. This study will be carried out using an extended-release formulation of lamotrigine (LTG-XR) that will allow once-a-day dosing.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Confident diagnosis of epilepsy\n* Currently treated with one or two antiepileptic medications\n* Able to complete a seizure diary\n\nExclusion criteria:\n\n* History of hypersensitivity to lamotrigine\n* Progressive diseases that would interfere with the study objectives",
+      "endpoints": [
+        "Number of Participants With Any Serious Adverse Event (SAE) and Any Non-serious Adverse Event"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00516139"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01357902",
+      "title": "An Open Label, Randomized, Cross-Over Study to Investigate the Single Dose Bioequivalence of Lamotrigine Dispersible/Chewable Tablets (5mg) Compared to Lamotrigine Compressed/Standard Tablets (25mg) in Chinese Healthy Male Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-04-18",
+      "completion_date": "2011-05-23",
+      "country": "Hong Kong",
+      "enrollment": 24,
+      "brief_summary": "It is an open-label, randomised, single dose, two-sequence cross-over study. Twenty-four eligible, healthy, Chinese male subjects will be enrolled after providing written informed consent. Subjects will be randomised into two treatment groups 1 day prior to the first dosing day and will be assigned to regimen sequences (AB or BA) in a balanced fashion in accordance with the randomisation schedule. Regimen A is five lamotrigine 5 mg chewable/dispersible tablets and Regimen B is one lamotrigine 25",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. According to medical history and clinical examination, healthy and non-smoking male subjects\n2. Between 18 and 45 years of age, inclusive.\n3. Body weight \\>=50 kg and BMI 19-24 kg/m2, inclusive.\n4. Male subjects with female partners of child-bearing potential must agree to us",
+      "endpoints": [
+        "AUC(0-infinity)",
+        "AUC(0-t)",
+        "Cmax"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01357902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02362373",
+      "title": "Women With Epilepsy: a Pilot Study of Pharmacokinetic and Pharmacodynamic Anti-epileptic Drug Effects in Levonorgestrel Intrauterine System Users",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2014-01",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The investigators will conduct a prospective, seven-month pilot study to explore pharmacokinetic (PK) and pharmacodynamic (PD) effects among women with epilepsy using the levonorgestrel intrauterine system (LNG IUS) for contraception. The investigators will enroll twenty women with well-controlled epilepsy maintained on stable anti-epileptic drugs (AED) therapy seeking the LNG IUS for contraception. The primary outcomes are AED levels and seizures before and after LNG IUS placement. Secondary ou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age18-45 years\n2. Regular menstrual cycle of length 21-35 days\n3. Willing to use IUS for contraception\n4. Willing to use non-hormonal contraception for one month before insertion\n5. Stable AED therapy for at least two months\n6. Well-controlled epilepsy (2 or fewer seizures, o",
+      "endpoints": [
+        "Percent of Participants That Experienced Clinically Meaningful Change in Lamotrigine Level",
+        "Percent of Participants That Experienced Clinically Meaningful Change in Levetiracetam Level",
+        "Percent of Participants That Experienced Clinically Meaningful Change in Oxcarbazepine Level"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT02362373"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01227902",
+      "title": "An Open-Label, Flexible-Dose Study of Retigabine Immediate Release (IR) as Adjunctive Therapy to Specified Monotherapy Antiepileptic Treatments in Adults With Partial -Onset Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2012-12",
+      "country": "Bulgaria, France, Spain, Russia, Italy, Ukraine, Denmark, Germany, Netherlands, Thailand, Poland, Belgium",
+      "enrollment": 203,
+      "brief_summary": "The purpose of this Phase III study is to evaluate the efficacy, safety and tolerability and health outcomes of retigabine Immediate Release (IR) as adjunctive therapy to each of the following monotherapy Antiepileptic Drug (AED) treatments: carbamazepine/oxcarbazepine, lamotrigine, levetiracetam, or valproic acid in adult subjects with partial-onset seizures (POS) using a flexible dosing regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is 18 years of age (men or women)\n* Has a confident diagnosis of epilepsy with partial-onset seizures i.e., simple or complex partial seizures with or without secondary generalization (International League Against Epilepsy (ILAE) classification; 1981) for more than 24 weeks pr",
+      "endpoints": [
+        "Number of Participants With a >=50% Reduction in Partial-onset Seizure (POS) Frequency From Baseline"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01227902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01390909",
+      "title": "Clinical and Economic Burden of Uncontrolled Epilepsy: Analyses From a Medicaid Database and a Private Health Plan Database",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2011-01",
+      "country": "N/A",
+      "enrollment": 12386,
+      "brief_summary": "Antiepileptic drugs (AEDs) are the main therapeutic option for patients with epilepsy; however, complete seizure control remains elusive for many patients. Uncontrolled or refractory epilepsy is associated with a higher risk of mortality, physical injuries, and depression or anxiety compared with patients with controlled epilepsy. Higher resource utilization for patients with poor control is likely to be associated with higher economic costs. While diagnostic criteria for uncontrolled epilepsy a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years of age at the initiation of anti-epileptic drug (AED) treatment as noted in the database\n* A record of at least one medical visit with a diagnosis of epilepsy (ICD-9-CM 345.xx) or at least two diagnoses of non-febrile convulsions (ICD-9-CM 780.30 or 780.39) o",
+      "endpoints": [
+        "Average Annualized Costs"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01390909"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855738",
+      "title": "Liceo Study: A Prospective, Observational Study On The Effectiveness Of New Antiepileptic Drugs As First Bitherapy In The Daily Clinical Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-06",
+      "country": "N/A",
+      "enrollment": 111,
+      "brief_summary": "Assessment of the efficacy under daily clinical conditions of the new antiepileptic drugs (AEDs) gabapentin, lamotrigine, levetiracetam, oxcarbazepine, pregabalin, tiagabine and topiramate, used as first-choice combination therapy (bitherapy) in patients with focal epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 years or older.\n* Diagnosis of focal epilepsy.\n* Previous failure of one or more AEDs used in monotherapy.\n* Background treatment with an antiepileptic drug.\n* The investigator has considered that the patient must start treatment with some of the seven new AEDs in comb",
+      "endpoints": [
+        "Percent of Participants Classified as Responders"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00855738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02064465",
+      "title": "A Single-Dose, Open-Label, Randomized, Parallel-Group Study to Demonstrate the Bioequivalence of Lamotrigine Dispersible/Chewable Tablet (100mg) and Lamotrigine Compressed Tablet (100mg) in Healthy Chinese Male Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-03-15",
+      "completion_date": "2014-07-08",
+      "country": "China",
+      "enrollment": 138,
+      "brief_summary": "This is an open-label, randomised, parallel-group study to demonstrate the bioequivalence of lamotrigine 100mg in two different formulations, dispersible/chewable tablet and compressed tablet, in healthy subjects under fasting conditions. Subjects will be randomized in equal numbers to be dosed with either lamotrigine dispersible/chewable (Test) 100mg tablet or lamotrigine compressed (Reference) 100mg tablet. Pharmacokinetic blood sampling will be collected over 216 hours post dose. Safety (tole",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy Chinese male non-smoker, based on medical history and physical examination, aged between 18 and 45 years of age inclusive, at the time of signing the informed consent.\n* Healthy as determined by a responsible and experienced physician, based on a medical evaluation inc",
+      "endpoints": [
+        "Area under the concentration-time curve [AUC(0-inf)] of lamotrigine if coefficients of variation (CV)% of λz<=30%, or AUC(0-inf)• λz if CV% of λz >30%, or AUC(0-t) if AUC(0-inf) cannot be accurately determined, including bioequivalence evaluation",
+        "The observed maximum serum drug concentration (Cmax), including bioequivalence evaluation"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02064465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02429596",
+      "title": "A Randomized Controlled Trial of Generic Substitution of Antiepileptic Drugs",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2015-05",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "Background. Anecdotal reports and uncontrolled studies have described an association between generic substitution of antiepileptic drugs (AEDs) and adverse events, including loss of seizure control. Although these results are likely to be influenced by methodological bias, they have led to a strong opposition, among physicians and patients, to the use of generic products in epilepsy.\n\nObjectives. The primary objective is to assess potential risks associated with substitution of the currently tak",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older;\n* currently being treated and at steady-state with any product (brand or generic) of carbamazepine, valproic acid, topiramate, oxcarbazepine, levetiracetam and/or lamotrigine administered in two or three divided daily doses, either alone or in combina",
+      "endpoints": [
+        "Serum drug concentration (25% change in serum drug concentration)"
+      ],
+      "sponsor": "IRCCS National Neurological Institute \"C. Mondino\" Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT02429596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00043901",
+      "title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled, Parallel-Group Evaluation of Lamotrigine Adjunctive Therapy in Subjects Wtih Primary Generalized Tonic-Clonic Seizures",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-12-01",
+      "completion_date": "2005-03-01",
+      "country": "Argentina, Chile, Peru, United States",
+      "enrollment": 141,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness and safety of an investigational new drug for supplemental therapy in subjects with primary generalized tonic-clonic (PGTC) seizures.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n* Weigh at least 13kg.\n* Have a confident diagnosis of epilepsy with primary generalized tonic-clonic (PGTC) seizures with or without other generalized seizure types.\n* Currently being treated with an antiepileptic drug(s) (AED).\n* Benzodiazepines are allowed with some frequency",
+      "endpoints": [
+        "% change from Baseline in average monthly PGTC seizure frequency"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00043901"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00896987",
+      "title": "An Open, Randomized, Multicenter Comparative Clinical Trial of Lamotrigine or Carbamazepine for Cognitive Function as Initial Monotherapy in Adult Untreated Epilepsies",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2008-12",
+      "country": "South Korea",
+      "enrollment": 121,
+      "brief_summary": "The purpose of this study is to compare the effect of anti-epileptic drugs' (AEDs) long-term treatment on cognitive function. This study is an open-label, randomized, multicenter comparative trial of lamotrigine versus carbamazepine. The planned enrollment is 100 patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age : 16\\~60\n* Seizure type was defined by MRI etc.\n* Had more than 2 unprovoked seizures or 1 seizure with clear evidence for epilepsy (ex. positive in EEG or brain imaging)\n* Need AED therapy and no AED medication for previous 1 year (exclude emergency medication for less th",
+      "endpoints": [
+        "To define the superiority of Lamictal in cognitive function comparing to carbamazepine in newly diagnosed adult partial epilepsy patients"
+      ],
+      "sponsor": "Korean Epilepsy Society",
+      "url": "https://clinicaltrials.gov/study/NCT00896987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02100644",
+      "title": "Valproate Dose Reduction and Its Clinical Evaluation by Introducing Lamotrigine in Japanese Women With Epilepsy - Single Arm, Multicenter, and Open-label Study -",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-04-12",
+      "completion_date": "2015-05-11",
+      "country": "Japan",
+      "enrollment": 33,
+      "brief_summary": "The purpose of this study is to examine whether the VPA (Valproate) dose can be reduced by additional administration of LTG (Lamotrigine) in Japanese pre-menopausal female epilepsy patients aged 15 years or older, whose seizures are well controlled by VPA monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. (Target disease) Epilepsy patients having the following seizure types as classified by the International Classification of Epileptic Seizures\n\n   * Partial seizures (with or without secondary generalization)\n   * Tonic-clonic seizures with or without myoclonus but without oth",
+      "endpoints": [
+        "Percentage of Participants Who Achieved Reduction in Daily VPA Dose",
+        "Percent Change in the VPA Dose"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02100644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03695094",
+      "title": "A Multicenter, Open-label, Parallel-group Study in Study Participants With Epilepsy, to Evaluate the Effect of Oxcarbazepine on the Pharmacokinetics, Safety, and Tolerability of Padsevonil",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-09-18",
+      "completion_date": "2019-05-30",
+      "country": "Bulgaria, Netherlands",
+      "enrollment": 31,
+      "brief_summary": "The purpose of the study is to evaluate the effect of stable coadministered oxcarbazepine (OXC), on the pharmacokinetics (PK), safety, tolerability of padsevonil (PSL) and the plasma PK of PSL metabolites, UCB1431322-000 and UCB1447499-000, in study participants with epilepsy compared with study participants co-medicated with stable doses of levetiracetam (LEV), lamotrigine (LTG) or brivaracetam (BRV) therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Study participant is male or female between 18 to 64 years of age, inclusive, with a diagnosis of epilepsy according to the International League Against Epilepsy (ILAE) classification\n* Study participant is currently treated for epilepsy with stable doses of the following for ",
+      "endpoints": [
+        "The Maximum Observed Plasma Concentration (Cmax) of Padsevonil (PSL) During the Study",
+        "The Time to Reach Maximum Concentration (Tmax) for Padsevonil During the Study",
+        "The Area Under the Plasma Concentration Time Curve (AUCtau) Over a Dosing Interval for PSL"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03695094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00144872",
+      "title": "Evaluation of Lamotrigine in Subjects With Absence Seizures",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2004-11-01",
+      "completion_date": "2006-04-22",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "This is an open-label study evaluating the efficacy and safety of lamotrigine (LTG) for the treatment of newly-diagnosed typical absence seizures. Subjects will be children and adolescents \\< 13 years of age. It will be conducted at multiple sites in the US. The study will consist of 4 phases: Screen Phase (up to 1 week), Baseline Phase (24 hours), Escalation Phase (up to 20 weeks) and Maintenance Phase (12 weeks). Subjects will receive increasing doses of LTG according to the dosing schedule un",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Newly-diagnosed with absence epilepsy and never been treated with Anti-epileptic drugs (AEDs).\n* Diagnosis demonstrated on one of two 5-minute hyperventilation tests.\n* Investigator must judge that the subject and parent/guardian are likely to comply with all study procedures.",
+      "endpoints": [
+        "The proportion of subjects with no typical absence seizures for two consecutive weeks as confirmed by hyperventilation (HV) for clinical signs and 1-hour electroencephalogram (EEG)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00144872"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00266149",
+      "title": "Phase 3: Metabolism of Lamotrigine During Treatment With Oral Contraceptives",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2003-06",
+      "completion_date": "2005-05",
+      "country": "Denmark",
+      "enrollment": 10,
+      "brief_summary": "The present study evaluates the effect of oral contraceptives on lamotrigine plasma concentrations in a double blind, placebo controlled, cross-over study in patients with epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWomen with epilepsy, treated with lamotrigine in monotherapy and taking combination type oral contraceptives, and who were between 18 and 40 years of age, were candidates for inclusion in the study. Patients should agree to use contraception of barrier type throughout the study ",
+      "endpoints": [
+        "The dose corrected trough concentration of lamotrigine following 21 days of placebo treatment compared to the dose"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT00266149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03184597",
+      "title": "HLA Screening in Reducing the Risk of Antiepileptic Drug-induced Cutaneous Adverse Reactions: a Multicenter Clinical Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-08-01",
+      "completion_date": "2021-06",
+      "country": "China",
+      "enrollment": 4000,
+      "brief_summary": "Cutaneous adverse drug reactions (cADRs) include mild maculopapular exanthema (MPE) and severe cutaneous reactions such as hypersensitivity syndrome, Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN). cADRs are considered as a major public health issue because of their potentially life-threatening morbidity, especially severe cutaneous reactions. The incidence of SJS/TEN is estimated to vary from 1 in 1,000 to 10,000 drug exposures, and its mortality is as high as 35%. Antiepi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who are going to receive a kind of aromatic AEDs including CBZ, OXC, LTG, PHT, and PB as a new therapy. An AED was deemed newly commenced if there was no record of its prescription in at least the previous 12 months.\n2. Ethnic Han Chinese. None of the biological gran",
+      "endpoints": [
+        "AEDs-induced cADRs incidence"
+      ],
+      "sponsor": "Second Affiliated Hospital of Guangzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT03184597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00043914",
+      "title": "A Multicenter, Open-Label Conversion of Valproate Monotherapy to Lamotrigine Monotherapy in Patients With Epilepsy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-01-14",
+      "completion_date": "2003-01-29",
+      "country": "N/A",
+      "enrollment": 72,
+      "brief_summary": "This study includes patients 16 years of age or older with a confident diagnosis of epilepsy who are currently treated with an antiepileptic drug (AED) monotherapy but require a change in therapy due to inadequate seizure control and/or unacceptable side effects.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n* 16 years old or older.\n* Have confident diagnosis of epilepsy.\n* Have been on the medication valproate for at least 3 months and is currently on a stable daily dose.\n* Male or female; females of child-bearing potential must have negative pregnancy test at screen and must agree",
+      "endpoints": [
+        "Drug levels of lamotrigine."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00043914"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01995825",
+      "title": "Evaluation of Bioequivalence of Lamotrigine Tablets in Epileptic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2013-10",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "In this study, brand name lamotrigine (LAMICTAL) and generic lamotrigine will be compared in patients with epilepsy. Both the brand name and generic lamotrigine are approved by the Food and Drug Administration (FDA) and are commonly used to treat epilepsy. Some physicians and patients with epilepsy have believed that brand and generic lamotrigine have had clinically significant differences in efficacy and tolerability. The brand name and generic tablets have been shown to be the same when blood ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is able to provide informed consent.\n* Subject is male or female between 18 and 65 years of age inclusive.\n* Subject has a diagnosis of epilepsy with simple partial seizures and/or complex partial seizures, with or without secondary generalization or primary generalize",
+      "endpoints": [
+        "AUC",
+        "Cmax"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT01995825"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00605371",
+      "title": "A Pivotal, Single-Dose, Randomised, Parallel-Group, Open-Label Study to Demonstrate Bioequivalence of 250mg Lamotrigine XR Relative to 200mg + 50mg Lamotrigine XR and to Demonstrate Lack of Food Effect on 250mg Lamotrigine XR in Healthy Male and Female Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-01-15",
+      "completion_date": "2008-03-06",
+      "country": "United States",
+      "enrollment": 209,
+      "brief_summary": "This study intends to demonstrate bioequivalence and lack of food effect on 250mg lamotrigine XR in healthy male and female volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects aged from 19 to 55 years, inclusive.\n* Body weight \\>50 kg (males) or \\>45 kg (females) and BMI within the range 19 - 32 kg/m2 inclusive.\n* Healthy as determined by a responsible physician, based on a medical evaluation including history, physical exami",
+      "endpoints": [
+        "Pharmacokinetics ie Serum lamotrigine Cmax and AUC(0-inf)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00605371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00438451",
+      "title": "A Multicentre, Double-blind, Randomized, Phase IV Clinical Trial Comparing the Safety, Tolerability and Efficacy of Levetiracetam Versus Lamotrigine and Carbamazepine in the Oral Antiepileptic Therapy of Newly Diagnosed Elderly Patients With Focal Epilepsy.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2011-08",
+      "country": "Germany",
+      "enrollment": 361,
+      "brief_summary": "In this clinical trial patients with newly diagnosed focal epilepsy aged 60 years or older receive three different antiepileptic drugs in a double-blind, randomized design over a period of 58 weeks. All drugs are licensed for the treatment of epilepsy. The primary endpoint of this study will be retention rate at 58-weeks, since it reflects both efficacy and tolerability.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 60 yrs or above.\n* New onset focal epilepsy i.e. either at least one epileptic seizure in the last 6 months and focal epileptiform discharges on EEG or a relevant lesion on CT/MRI or at least 2 epileptic seizures, one of which occurring in the last 6 months prior inclusion",
+      "endpoints": [
+        "58-week Retention Rate Measured by the Number of Drop Outs Due to Adverse Events or Seizures From Day 1 of Treatment"
+      ],
+      "sponsor": "Johannes Gutenberg University Mainz",
+      "url": "https://clinicaltrials.gov/study/NCT00438451"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00242606",
+      "title": "Lamotrigine Versus Levetiracetam in the Initial Monotherapy of Epilepsy: An Open, Prospective, Multicenter, Randomized Phase III Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2009-01",
+      "country": "Germany",
+      "enrollment": 409,
+      "brief_summary": "The purpose of this study is to compare the efficacy, safety and tolerance of the drugs Lamotrigine and Levetiracetam in the initial monotherapy of patients with newly diagnosed epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 12 years\n* Body weight ≥ 30kg (patients 12-15 years of age) and ≥ 40kg (patients over 16 years of age), respectively\n* Either one epileptic seizure with high risk of relapse (partial seizure semiology, MRI lesion or pathological focal EEG findings) or a newly diagnosed e",
+      "endpoints": [
+        "Rate of seizure-free patients"
+      ],
+      "sponsor": "Philipps University Marburg",
+      "url": "https://clinicaltrials.gov/study/NCT00242606"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05450978",
+      "title": "Physiological-based Pharmacokinetics Approach to Determine the Extent of Drug Exposure of Antiseizure Medications During Pregnancy and Breastfeeding",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-07-20",
+      "completion_date": "2028-04-01",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "This project focuses on anti-seizure medication (ASM) clearance and physiological factors determining blood concentrations in pregnant adult women with epilepsy and amounts of exposure to their unborn children and nursing infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Woman with epilepsy between the ages of 18-45 planning pregnancy or in the early first trimester of pregnancy.\n* Women with epilepsy ability to maintain a daily medical diary\n* Women with epilepsy ability to answer side effect questionnaires\n* Women with epilepsy currently bei",
+      "endpoints": [
+        "Anti-Seizure Medication (ASM) Clearance"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT05450978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03116828",
+      "title": "Efficacy and Safety of Eslicarbazepine Acetate as First Add-on to Levetiracetam or Lamotrigine Monotherapy or as Later Adjunctive Treatment for Subjects With Uncontrolled Partial-onset Seizures: A Multicenter, Open-label, Non-randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-07-07",
+      "completion_date": "2019-06-06",
+      "country": "Canada, United States",
+      "enrollment": 102,
+      "brief_summary": "A study of a drug to be used in addition with another drug to treat adults with Uncontrolled Partial-onset Seizures",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects ≥ 18 years of age.\n2. Subject is willing and able to sign informed consent.\n3. Subject has a documented diagnosis of epilepsy with simple POS with a motor component or complex POS with or without secondarily generalized seizures as defined in the Class",
+      "endpoints": [
+        "The Number of Subjects Completing 24 Weeks Adjunctive Therapy During Maintenance Phase"
+      ],
+      "sponsor": "Sumitomo Pharma America, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03116828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02205931",
+      "title": "A Randomised Controlled Trial of the Ketogenic Diet in the Treatment of Epilepsy in Children Under the Age of Two Years",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-06",
+      "country": "United Kingdom",
+      "enrollment": 160,
+      "brief_summary": "Epilepsy, a condition where individuals are prone to recurrent epileptic seizures, is the most common chronic neurological disorder in children. Epilepsy onset is most common in the first two years of life and is associated with poor prognosis for seizure control and neurodevelopmental outcome.\n\nThe ketogenic diet (KD) is a medically supervised diet that is high in fat and restricted in carbohydrates and protein. KD therapy has shown to be an effective treatment for seizures in children with epi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 1 month and 24 months of age (not beyond second birthday at baseline).\n2. Diagnosis of epilepsy confirmed.\n3. At least an average of 4 seizures/week in baseline period.\n4. Failed response to previous trial of two anti-epileptic drugs. In the case of infantile spas",
+      "endpoints": [
+        "Number of seizures"
+      ],
+      "sponsor": "University College, London",
+      "url": "https://clinicaltrials.gov/study/NCT02205931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00355082",
+      "title": "A Multicenter, Double-Blind, Randomized Conversion to Monotherapy Comparison of Two Doses of Lamotrigine for the Treatment of Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2008-11",
+      "country": "South Korea, Chile, Puerto Rico, Russia, Ukraine, Costa Rica, Argentina, United States",
+      "enrollment": 226,
+      "brief_summary": "This study is being conducted to determine the effectiveness of a lower monotherapy dose of lamotrigine than that currently approved.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Male or Female ≥13 years of age\n* Have a confident diagnosis of epilepsy with partial seizures for at least 24 weeks prior to the Baseline Phase\n* Have a documented history of partial seizures such that the investigator must judge that the subject is likely to have at least 4 ",
+      "endpoints": [
+        "The Percentage of Participants in the 300 mg/Day Dose Group Who Prematurely Discontinued the Study Between Study Visit 5 (Approximately Week 7) and Visit 9 (End of the Treatment Phase)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00355082"
+    }
+  ],
+  "timestamp": "2026-03-04T16:03:26.589272",
+  "success": true,
+  "error_message": null
+}

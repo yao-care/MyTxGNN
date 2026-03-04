@@ -1,0 +1,927 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Thiotepa",
+    "disease": "lymphosarcoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00863460",
+      "title": "Prospective , Multicentric, Randomized Phase II Study, Evaluating the Role of Cranial Radiotherapy or Intensive Chemotherapy With Hematopoietic Stem Cell Rescue After Conventional Chemotherapy for Primary Central Nervous System in Young Patients (< 60 y)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2008-10-03",
+      "completion_date": "2026-05",
+      "country": "France",
+      "enrollment": 140,
+      "brief_summary": "Purpose of the study :\n\nTo evaluate the antitumoral effect of two therapeutic procedures and to evaluate their respective toxicity on the CNS.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histopathologically or cytologically proven diagnostic of Primary CNS lymphoma\n* All histological types of non-Hodgkin's lymphoma, except MALT\n* Age \\> 18 and \\< 60 ans.\n* Negative for HIV, HCV and HBV\n* Written informed consent -\n\nExclusion Criteria:\n\n* Age \\< 18 or \\> 60 ans",
+      "endpoints": [
+        "2-years progression-free survival in each arm"
+      ],
+      "sponsor": "Institut Curie",
+      "url": "https://clinicaltrials.gov/study/NCT00863460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002534",
+      "title": "A RANDOMIZED TRIAL OF UNMODIFIED VERSUS T-CELL DEPLETED ALLOGENEIC HLA-IDENTICAL BONE MARROW TRANSPLANTATION FOR THE TREATMENT OF ACUTE LEUKEMIAS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1993-05",
+      "completion_date": "2003-04",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining chemotherapy with bone marrow transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more cancer cells.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of bone marrow transplantation using untreated or treated bone marrow in treating patients with acute leukemia in first or second remission.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Acute leukemias in the following categories: Histologically documented ANLL in first remission (CR1) or second remission (CR2) Pediatric ANLL patients in CR1 eligible provided they are not enrolled on protocol CCG-2891 ALL in CR1 presenting with at least 1 of the following h",
+      "endpoints": [],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03509961",
+      "title": "A Phase II Pilot Trial to Estimate Survival After a Non-total Body Irradiation (TBI) Based Conditioning Regimen in Patients Diagnosed With B-acute Lymphoblastic Leukemia (ALL) Who Are Pre-allogeneic Hematopoietic Cell Transplantation (HCT) Next-generation-sequence (NGS) Minimal Residual Disease (MRD) Negative",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2018-08-29",
+      "completion_date": "2026-07-01",
+      "country": "United States",
+      "enrollment": 95,
+      "brief_summary": "This study will evaluate the use of non- TBI (total body irradiation) conditioning for B-ALL patients with low risk of relapse as defined by absence of NGS-MRD (next generation sequencing minimal residual disease) before receiving a hematopoietic cell transplant (HCT). Patients diagnosed with B-ALL who are candidates for HCT will be screened by NGS-MRD on a test of bone marrow done before the HCT. Subjects who are pre-HCT NGS-MRD negative will be eligible to receive a non-TBI conditioning regime",
+      "eligibility_criteria": "Inclusion Criteria for the Observational Arm:\n\nAny patient with ALL who undergoes Myeloablative HCT including any of the following:\n\n* Patients who are pre-HCT NGS-MRD positive.\n* Patients \\<1 year old who are pre-HCT NGS-MRD negative.\n* Patients who are pre-HCT NGS-MRD negative (CR1/CR2) who receiv",
+      "endpoints": [
+        "Two Year Event-free Survival"
+      ],
+      "sponsor": "Pediatric Transplantation & Cellular Therapy Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT03509961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05565105",
+      "title": "A Phase II Trial of CD34+ Enriched Transplants From HLA-Compatible Related or Unrelated Donors for Treatment of Patients With Leukemia or Lymphoma",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-06",
+      "completion_date": "2033-06",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This study will evaluate whether processing blood stem cell transplants using an investigational device (the CliniMACS system) results in less complications for patients undergoing transplant for treatment of a blood malignancy (cancer) or blood disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Malignant conditions or other life-threatening disorders correctable by transplant for which CD34+ selected, T-cell depleted allogeneic hematopoietic stem cell transplantation is indicated such as:\n\n  1. AML in 1st remission - for patients who is AML does not have 'good risk' ",
+      "endpoints": [
+        "Incidence rate of graft versus host disease (GvHD)",
+        "Severity of disease",
+        "Incidence of transplant-related mortality (TRM)"
+      ],
+      "sponsor": "Baptist Health South Florida",
+      "url": "https://clinicaltrials.gov/study/NCT05565105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00186823",
+      "title": "Haploidentical Stem Cell Transplantation Utilizing Purified CD34+ Hematopoietic Cells for Patients With Hematologic Malignancies",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 57,
+      "brief_summary": "Blood and marrow stem cell transplant has improved the outcome for patients with high-risk hematologic malignancies. However, most patients do not have an appropriate HLA (immune type) matched sibling donor available and/or are unable to identify an acceptable unrelated HLA matched donor through the registries in a timely manner. Another option is haploidentical transplant using a partially matched family member donor.\n\nAlthough haploidentical transplant has proven curative in many patients, thi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Lacking a HLA-identical sibling or unrelated donor matched at 6 HLA loci formally requested within an approximate 90 day period from search initiation and who has a mismatched family member donor available\n* At least 2 and less than or equal to 21 years of age\n\n  * Must have o",
+      "endpoints": [
+        "To describe rate of hematopoietic and immune reconstitution in first 100 days posttransplant for pediatric patients with high-risk hematologic malignancies receiving haploidentical transplant processed with investigational CliniMACS cell sorting device."
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00186823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00801216",
+      "title": "High-dose Sequential Chemotherapy and Rituximab (R-HDS) in Patients With Systemic B-cell Lymphoma With Central Nervous System Involvement at Diagnosis or Relapse",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2013-01",
+      "country": "Italy",
+      "enrollment": 40,
+      "brief_summary": "This prospective trial will assess the activity and feasibility of a new high-dose methotrexate-based high-dose sequential chemotherapy combination in patients with B-cell lymphomas and CNS involvement at diagnosis or relapse. Selected drugs, with a well-documented anti-lymphoma activity, will be administered at high doses to increase blood-brain barrier penetration and CNS bioavailability as well as to reduce potential cross-resistance.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of diffuse large-cell, follicular or mantle cell lymphoma\n2. CNS involvement (brain, meninges, cranial nerves, eyes, and/or spinal cord) at diagnosis or relapse after conventional chemotherapy\n3. Diagnosis of CNS involvement either by brain ",
+      "endpoints": [
+        "Event-free Survival"
+      ],
+      "sponsor": "IRCCS San Raffaele",
+      "url": "https://clinicaltrials.gov/study/NCT00801216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05457556",
+      "title": "A Multi-Center, Phase 3, Randomized Trial of Matched Unrelated Donor (MUD) Versus HLA-Haploidentical Related (Haplo) Myeloablative Hematopoietic Cell Transplantation for Children, Adolescents, and Young Adults (AYA) With Acute Leukemia or Myelodysplastic Syndrome (MDS)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-03-15",
+      "completion_date": "2026-06-30",
+      "country": "Australia, Canada, United States",
+      "enrollment": 435,
+      "brief_summary": "This phase III trial compares hematopoietic (stem) cell transplantation (HCT) using mismatched related donors (haploidentical \\[haplo\\]) versus matched unrelated donors (MUD) in treating children, adolescents, and young adults with acute leukemia or myelodysplastic syndrome (MDS). HCT is considered standard of care treatment for patients with high-risk acute leukemia and MDS. In HCT, patients are given very high doses of chemotherapy and/or radiation therapy, which is intended to kill cancer cel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PATIENT INCLUSION CRITERIA FOR ENROLLMENT:\n* 6 months to \\< 22 years at enrollment\n* Diagnosed with ALL, AML, or MDS or mixed phenotype acute leukemia (MPAL) for which an allogeneic hematopoietic stem cell transplant is indicated. Complete Remission (CR) status will not be con",
+      "endpoints": [
+        "Severe GVHD (Grade III-IV acute GVHD or chronic GVHD requiring systemic immunosuppressive therapy)",
+        "Disease free survival (DFS) (where an event is the occurrence of death from any cause or relapse)"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT05457556"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04872595",
+      "title": "Phase 2 Study of Personalized r-ATG Dosing to Improve Survival Through Enhanced Immune Reconstitution in Pediatric and Adult Patients Undergoing Ex-vivo CD34-Selected Allogeneic-HCT (PRAISE-IR)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-04-30",
+      "completion_date": "2026-04",
+      "country": "United States",
+      "enrollment": 59,
+      "brief_summary": "The purpose of this study is to see if conditioning regimens that include personalized rabbit ATG (P-rATG) help the immune system recover sooner and decrease the chances of transplant-related side effects. Participants in this study will be children and adults who have acute leukemia or myelodysplastic syndrome (MDS), and will receive a standard conditioning regimen to prepare the body for an allogeneic hematopoietic cell transplant (allo-HCT). The conditioning regimen will include r-ATG, one of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients receiving first peripheral blood mobilized ex-vivo CD34-selected T cell depleted allo-HCT for the following hematologic malignant conditions:\n\n  * Acute myeloid leukemia (AML) with intermediate or high-risk features in CR1 or Relapse AML in ≥ CR2.\n  * Must have MRD \\<",
+      "endpoints": [
+        "proportion of patients who achieve CD4+IR"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT04872595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01182415",
+      "title": "Phase II Trial of Hihg-Dose Thiotepa, Busulfan, Cyclophosphamide, and Rituximab With Autologous Stem Cell Transplantation for Patients With CNS Involvement by Non-Hodgkin's Lymphoma or Primary CNS Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Current standard treatments for lymphoma involving the central nervous system include chemotherapy or whole brain radiation therapy (WBRT). However, many patients do not respond to this treatment, and some of the patients who do respond relapse after treatment.\n\nPrevious research has shown that a stem cell transplant of a patient's own cells (autologous stem cell transplant) may be more effective for some patients with lymphoma involving the CNS. In previous research using autologous stem cell t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* One of the following clinical criteria:secondary CNS NHL; synchronous CNS NHL; relapsed PCNSL; relapsed IOL; PCNSL or IOL which has only achieved a PR after adequate initial therapy\n* Must have CNS or intraocular involvement by NHL\n* Subjects with secondary CNS NHL, relapsed P",
+      "endpoints": [
+        "Proportion of Patients With CNS Involvement by B-cell NHL, Relapsed PCNSL, or Relapsed PIOL Who Are Alive and Progression-free at One Year"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01182415"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01011920",
+      "title": "Randomized Phase II Trial On Primary Chemotherapy With High-Dose Methotrexate And High-Dose Cytarabine With Or Without Thiotepa, And With Or Without Rituximab, Followed By Brain Irradiation Vs. High-Dose Chemotherapy Supported By Autologous Stem Cells Transplantation For Immunocompetent Patients With Newly Diagnosed Primary CNS Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2017-03",
+      "country": "Germany, Switzerland, Italy, United Kingdom",
+      "enrollment": 126,
+      "brief_summary": "This is a multicenter open label randomized phase II trial.\n\nEnrolled Primary Central Nervous System Lymphoma (PCNSL) patients will be stratified according to the IELSG score and randomized to receive one of the follows as primary chemotherapy:\n\n* Arm A: Methotrexate (MTX) + Cytarabine (Ara-C)\n* Arm B: MTX + Ara-C + rituximab\n* Arm C: MTX + Ara-C + rituximab + thiotepa.\n\nChemotherapy will be administered every three weeks. The maximum number of chemotherapy induction courses will be 4. Patients ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological or cytological assessed diagnosis of non-Hodgkin's lymphoma.\n* Diagnostic sample obtained by stereotactic or surgical biopsy, Cerebrospinal Fluid (CSF) cytology examination or vitrectomy.\n* Disease exclusively localized into the central nervous system, CSF, crania",
+      "endpoints": [
+        "response rate after primary chemotherapy and 2 years failure free survival at second randomization"
+      ],
+      "sponsor": "International Extranodal Lymphoma Study Group (IELSG)",
+      "url": "https://clinicaltrials.gov/study/NCT01011920"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07416890",
+      "title": "A Prospective, Single-Arm, Phase II Clinical Study Evaluating the Efficacy and Safety of Thiotepa in Combination With Pirtobrutinib (a BTK Inhibitor) and Sintilimab (a PD-1 Inhibitor) for Frail or Relapsed/Refractory Primary or Secondary Central Nervous System Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2026-02-10",
+      "completion_date": "2030-08-05",
+      "country": "China",
+      "enrollment": 24,
+      "brief_summary": "This is a prospective, single-Arm, phase II clinical study evaluating the efficacy and safety of thiotepa in combination with pirtobrutinib (a BTK Inhibitor) and sintilimab (a PD-1 Inhibitor) for frail or relapsed/refractory primary or secondary central nervous system lymphoma.It includes screening phase， induction therapy phase, and maintenance therapy phase.The screening period is defined as within 14 days prior to the first dose.Induction Treatment Phase: Enrolled subjects will receive a comb",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histopathologically confirmed relapsed primary central nervous system lymphoma (PCNSL) of B-cell lineage, or secondary central nervous system lymphoma (SCNSL) with a previously confirmed B-cell origin primary lesion but without evidence of active extracranial systemic involve",
+      "endpoints": [
+        "ORR"
+      ],
+      "sponsor": "Zhejiang Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07416890"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02660281",
+      "title": "Haploidentical Donor Hematopoietic Stem Cell Transplantation",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2021-01-07",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "This study will be a single-center treatment protocol, designed to validate the process of related donor haploidentical-SCT at the Wilmot Cancer Institute Blood and Marrow Transplant Unit.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient Age:\n\n* Pediatric (ages 6 months to 18 years)\n* Adult (ages 18-75 years)\n\nDisease:\n\nCongenital and Other Non-malignant Disorders\n\n* Immunodeficiency disorders (e.g. Severe Combined Immunodeficiency, Wiskott-Aldrich Syndrome)\n* Congenital hematopoietic stem cell defects (",
+      "endpoints": [
+        "The number of days from the date of the stem cell infusion to engraftment of absolute neutrophils (ANC) and platelets (PLT) will be determined based on daily CBC and differential counts.",
+        "Rate of non-engraftment and secondary graft failure"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT02660281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00143559",
+      "title": "Haploidentical Hematopoietic Stem Cell Transplantation Utilizing Partial T-Cell Depletion as Immunotherapy for Hematologic Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "Blood and marrow stem cell transplant has improved the outcome for patients with high-risk hematologic malignancies. However, most patients do not have an appropriate HLA (immune type) matched sibling donor available and/or are unable to identify an acceptable unrelated HLA matched donor through the registries in a timely manner. Another option is haploidentical transplant using a partially matched family member donor.\n\nAlthough haploidentical transplant has proven curative in many patients, thi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEligible participants were assigned to one of two different strata dependent on diagnosis, disease status and/or past transplant experience. Both strata received the same intervention but will be followed and analyzed separately.\n\n* Group A must have one of the following diagnos",
+      "endpoints": [
+        "To measure the rate of disease relapse by six months posttransplant in children and young adults with refractory hematologic malignancies who receive a haploidentical stem cell graft processed using the investigational CliniMACS cell sorting device."
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00143559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01025778",
+      "title": "Clofarabine Based Remission Induction Followed by Haploidentical Stem Cell Transplantation in Children With Refractory Hematological Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2012-12",
+      "country": "Sweden",
+      "enrollment": 7,
+      "brief_summary": "Despite substantial progress in the treatment pediatric acute leukemia a significant number of children will experience primary or secondary resistance to the treatment. In other words it will be not possible to achieve remission using standard chemotherapy (primary resistance) or the patients will develop chemotherapy resistant relapse (secondary resistance). Children failing to achieve remission or children relapsing after previous allogeneic stem cell transplantation have short life expectanc",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTarget population\n\n1. Refractory acute lymphoblastic leukemia\n\n   * Chemoresistant isolated or combined bone marrow relapse\n\n     * Relapse after during/after conventional treatment\n     * Relapse ≥6 months after allogeneic stem cell transplantation\n   * Primary induction failur",
+      "endpoints": [
+        "Event free survival"
+      ],
+      "sponsor": "Lund University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01025778"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03913026",
+      "title": "A Phase II Open-label Study of ECT-001-expanded Cord Blood Transplantation in Patients With High-risk Acute Leukemia/Myelodysplasia",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-04-01",
+      "completion_date": "2027-06",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "Allogeneic hematopoietic stem cell transplantation is a life-saving procedure in patients with blood cancers. Cord blood (CB) represents an alternative source of stem cells, which is associated with a lower risk of relapse, especially in the presence of minimal residual disease in the setting of acute leukemia and myelodysplasia. Furthermore, CB has the added advantage of being associated with a low risk of chronic graft versus host disease (GVHD). Unfortunately, CB transplants are hampered by a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presence of high-risk acute leukemia/myelodysplasia defined as one of the following:\n\n   I. Acute Myeloid Leukemia:\n   1. Primary induction failure (no CR or CRi after ≥ 2 courses of induction therapy or after ≥ 1 induction containing high dose Ara-C)\n   2. Chemorefractory re",
+      "endpoints": [
+        "Transplant Related Mortality (TRM)",
+        "Relapse Free survival (RFS)",
+        "Overall survival (OS)"
+      ],
+      "sponsor": "Ciusss de L'Est de l'Île de Montréal",
+      "url": "https://clinicaltrials.gov/study/NCT03913026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02790515",
+      "title": "Provision of TCRγδ T Cells and Memory T Cells Plus Selected Use of Blinatumomab in Naïve T-cell Depleted Haploidentical Donor Hematopoietic Cell Transplantation for Hematologic Malignancies Relapsed or Refractory Despite Prior Transplantation",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-07-14",
+      "completion_date": "2026-07-01",
+      "country": "United States",
+      "enrollment": 170,
+      "brief_summary": "This study seeks to examine treatment therapy that will reduced regimen-related toxicity and relapse while promoting rapid immune reconstitution with limited serious graft-versus-host-disease (GVHD) and also improve disease-free survival and quality of life. The investigators propose to evaluate the safety and efficacy of selective naive T-cell depleted (by TCRɑβ and CD45RA depletion, respectively) haploidentical hematopoietic cell transplant (HCT) following reduced intensity conditioning regime",
+      "eligibility_criteria": "Inclusion Criteria for Transplant Recipient:\n\n* Age less than or equal to 21 years.\n* Any of the following hematologic malignancies that has relapsed or remains refractory after prior allogeneic HCT (this includes any stage of disease - such as refractory due to induction failure, refractory in rela",
+      "endpoints": [
+        "The number of patients engrafted by day +30 post-transplant"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02790515"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02508038",
+      "title": "TCR-αβ+ and CD19+ Depleted KIR/KIR Ligand-mismatched Haploidentical Hematopoietic Stem Cell Transplant and Zoledronate for Pediatric Relapsed/Refractory Hematologic Malignancies and High Risk Solid Tumors",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2016-02-12",
+      "completion_date": "2027-12",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This phase I trial studies the safety of transplantation with a haploidentical donor peripheral blood stem cell graft depleted of TCRαβ+ cells and CD19+ cells in conjunction with the immunomodulating drug, Zoledronate, given in the post-transplant period to treat pediatric patients with relapsed or refractory hematologic malignancies or high risk solid tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Availability of an eligible haploidentical donor\n* Hematologic malignancy or solid tumor\n* Patients with more than one malignancy (hematologic or solid tumor) are eligible\n* Patients with hematologic malignancy must have no HLA identical sibling or suitable unrelated donor OR ",
+      "endpoints": [
+        "Incidence of acute graft versus host disease (GVHD)",
+        "Incidence of graft failure"
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "url": "https://clinicaltrials.gov/study/NCT02508038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02500550",
+      "title": "An Exploratory, Open-label, Multicenter Study to Evaluate the Safety and Efficacy of a Two-dose Regimen of ATIR101, a T-lymphocyte Enriched Leukocyte Preparation Depleted ex Vivo of Host Alloreactive T-cells (Using Photodynamic Treatment), in Patients With a Hematologic Malignancy, Who Received a CD34-selected Hematopoietic Stem Cell Transplantation From a Haploidentical Donor",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-10-09",
+      "completion_date": "2018-12-17",
+      "country": "Croatia, Germany, United Kingdom, Portugal, Canada, Belgium",
+      "enrollment": 15,
+      "brief_summary": "The purpose of this study is to determine whether a repeat dose administration of ATIR101 is safe and effective when infused in patients with a hematologic malignancy following a T-cell depleted stem cell graft from a related haploidentical donor. All patients are planned to receive two ATIR101 doses of 2×10E6 viable T-cells/kg, unless the second dose is reduced or halted for safety reasons.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any of the following hematologic malignancies:\n\n  * Acute myeloid leukemia (AML) in first remission with high-risk features or in second or higher remission\n  * Acute lymphoblastic leukemia (ALL) in first remission with high-risk features or in second or higher remission\n  * M",
+      "endpoints": [
+        "Incidence of Acute Graft Versus Host Disease (GVHD) Grade III/IV"
+      ],
+      "sponsor": "Kiadis Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02500550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02861417",
+      "title": "Timed Sequential Busulfan and Post Transplant Cyclophosphamide for Allogeneic Transplantation",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-08-05",
+      "completion_date": "2026-08-31",
+      "country": "United States",
+      "enrollment": 204,
+      "brief_summary": "This phase II trial studies the side effect of busulfan, fludarabine phosphate, and post-transplant cyclophosphamide in treating patients with blood cancer undergoing donor stem cell transplant. Drugs used in chemotherapy, such as busulfan, fludarabine phosphate and cyclophosphamide work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving chemotherapy such as busulfan and fludarabine phospha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with high-risk hematologic malignancies with anticipated poor prognosis with non transplant therapy, including those in remission or with induction failure and after treated or untreated relapse; Diagnoses to be included a) Acute myeloid leukemia; b) Acute lymphocytic",
+      "endpoints": [
+        "Non-relapse mortality rate"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02861417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05398224",
+      "title": "Phase II Study of Zanubrutinib in Combination With Rituximab and Methotrexate, Followed by Zanubrutinib Maintenance in Patients With Secondary Central Nervous System Lymphoma (SCNSL)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-02-26",
+      "completion_date": "2024-05-26",
+      "country": "China",
+      "enrollment": 45,
+      "brief_summary": "Secondary central nervous system lymphoma (SCNSL) occurred in about 5% of patients with diffuse large B-cell lymphoma (DLBCL). The prognosis of SCNSL is very poor. A number of retrospective studies have shown that the median overall survival (mOS) since the diagnosis of CNSL is only 2.5-3.5 months, and the 2-year OS rate is only 20%. At present, there is no consensus on the treatment of SCNSL, and new therapeutic strategies are urgently needed. Zanubrutinib is a new second-generation BTK inhibit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 18, and ≤75 years of age\n* Histologically documented systemic diffuse large B-cell lymphoma(DLBCL)\n* Central nervous system (CNS) relapse (meningeal or /and intraparenchymal) with or without systemic lymphoma manifestations\n* All patients need to have received ",
+      "endpoints": [
+        "progression free survival"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT05398224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00719888",
+      "title": "Transplantation of Umbilical Cord Blood for Patients With Hematological Diseases With Cyclophosphamide/Fludarabine/Total Body Irradiation or Cyclophosphamide/Fludarabine/Thiotepa/Total Body Irradiation Myeloablative Preparative Regimen",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11-18",
+      "completion_date": "2024-12-19",
+      "country": "United States",
+      "enrollment": 135,
+      "brief_summary": "This phase II trial studies how well giving an umbilical cord blood transplant together with cyclophosphamide, fludarabine, and total-body irradiation (TBI) works in treating patients with hematologic disease. Giving chemotherapy, such as cyclophosphamide and fludarabine, and TBI before a donor umbilical cord blood transplant helps stop the growth of cancer and abnormal cells and helps stop the patient's immune system from rejecting the donor's stem cells. When the healthy stem cells from a dono",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* GRAFT CRITERIA:\n\n  * UCB units will be selected according to current umbilical cord blood graft selection algorithm; one or 2 UCB units may be used to achieve the required cell dose\n  * The UCB graft is matched at 4-6 human leukocyte antigen (HLA)-A, B, DRB1 antigens with the ",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00719888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06832267",
+      "title": "A Single-center, Single-arm Phase II Trial of Rituximab-Methotrexate-Temozolomide-Thiotepa (RMTT) Regimen As First-line Therapy for Primary Central Nervous System Diffuse Large B-cell Lymphomas(PCNS DLBCL)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-02-14",
+      "completion_date": "2028-02-13",
+      "country": "China",
+      "enrollment": 44,
+      "brief_summary": "This study aims to observe and explore the efficacy and safety of Rituximab-Methotrexate-Temozolomide-Thiotepa (RMTT) regimen as first-line therapy for primary central nervous system diffuse large B-cell lymphomas(PCNS DLBCL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients voluntarily joined the study, signed the informed consent, and had good compliance;\n* Patients with 18 Years to 75 Years(at the time of signing the informed consent); Eastern Cooperative Oncology Group Performance Status (ECOG-PS) score: 0-3;\n* Patients with histopath",
+      "endpoints": [
+        "Complete Remission Rate（CRR）"
+      ],
+      "sponsor": "Zhejiang Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06832267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00038857",
+      "title": "Megadose CD34 Selected Progenitor Cells for Transplantation in Patients With Advanced Hematological Malignant Diseases",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-09",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "Donor:\n\nThis clinical study will evaluate the feasibility of a purified CD34 peripheral blood progenitor cell (PBPC) transplants in patients with hematological malignancies.\n\nThe primary objectives of the study are to evaluate the recipient obtaining donor derived neutrophil engraftment and the incidence of acute graft versus host disease \\[GvHD\\] (grade III-IV).\n\nSecondary objectives include assessments of recipient having donor derived platelet engraftment, incidence of graft failure and chron",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female recipients must have histopathologically confirmed diagnosis of hematological or lymphatic malignancy in one of the following categories:\n2. Acute Leukemia: Recipients must have acute leukemia in second or greater remission in relapse, or primary refractory dis",
+      "endpoints": [
+        "Number of Participants With Absolute Neutrophil Count Engraftment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00038857"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01598025",
+      "title": "Biparental HLA Haplotype Disparate T-cell Depleted Transplants for Patients Lacking an HLACompatible Donor",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2012-05-02",
+      "completion_date": "2017-10-16",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Approximately 30% of patients who are candidates for bone marrow transplants do not have an HLA-matched, or close to matched, donor available. For this reason, doctors have been testing ways to make transplants from HLA-partially matched donors as safe and effective as transplants from HLA-matched donors.\n\nThis study is being done to test the safety and the treatment results of a specific kind of transplant. In this transplant, blood from two donors will be used. Each donor will share one half o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Malignant conditions for which CD34+ selected, T-cell depleted allogeneic hematopoietic stem cell transplantation is indicated such as:\n\nAML in 1st remission - for patients whose AML does not have 'good risk' cytogenetic features (i.e. t 8;21, t15;17, inv 16).\n\n* Secondary AML",
+      "endpoints": [
+        "Efficacy of HLA-haploidentical Biparental T-cell Depleted CD34+ Peripheral Blood Stem Cell Transplants"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01598025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02399189",
+      "title": "MT-R Followed by Autologous Stem Cells Transplantation in Newly-diagnosed Primary Central Nervous System Lymphoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-05",
+      "completion_date": "2019-04",
+      "country": "China",
+      "enrollment": 39,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of chemotherapy with MT-R followed by autologous stem cells transplantation in newly-diagnosed primary central nervous system lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* primary central nervous system diffuse large B-cell lymphoma histologically confirmed by brain biopsy\n* ECOG 0-2\n* Absence of systemic disease as evaluated by chest-abdomen-pelvis CT scan\n* Leucocytes\\>3.500/mm3, platelets\\>130.000/mm3, Bilirubin \\< 2 mg, transaminases \\< 2.5 ",
+      "endpoints": [
+        "progression-free survival"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT02399189"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07191431",
+      "title": "A Clinical Study on the Efficacy and Safety of Methotrexate (MTX) or Thiotepa (for MTX Intolerance) or Temozolomide (TMZ) Combined With Orelabrutinib and Selinexor in Relapsed/Refractory Primary or Secondary Central Nervous System Lymphoma（SELINA）",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-22",
+      "completion_date": "2029-09-02",
+      "country": "China",
+      "enrollment": 25,
+      "brief_summary": "Clinical Study on the Efficacy and Safety of Methotrexate (MTX) or Thiotepa (for MTX intolerance) or Temozolomide (TMZ) Combined with Orelabrutinib and Selinexor in the Treatment of Relapsed/Refractory Primary or Secondary Central Nervous System Lymphoma\n\nThis study adopts an open-label, prospective, single-arm, single-center design aimed at evaluating the efficacy and safety of methotrexate (MTX) or thiotepa (for MTX intolerance) or temozolomide (TMZ) combined with orelabrutinib and selinexor i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet all of the following criteria to be enrolled in this study:\n* Fully understand this study and voluntarily sign the informed consent form;\n* Age: 14-80 years;\n* Life expectancy judged by the investigator to exceed 3 months;\n* B-cell origin central nervous sys",
+      "endpoints": [
+        "ORR"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07191431"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01148173",
+      "title": "Combined Systemic and Intrathecal Chemotherapy Followed by High-dose Chemotherapy and Autologous Stem Cell Transplantation for CNS Relapse of Aggressive Lymphomas",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-10",
+      "completion_date": "2012-10",
+      "country": "Germany",
+      "enrollment": 30,
+      "brief_summary": "Central nervous system (CNS) relapses of aggressive lymphomas are a rare but devastating complication. There is no therapy standard, conventional approaches are palliative. This study investigates an intensive chemotherapy with CNS penetrating drugs followed by high-dose chemotherapy and autologous stem cell transplantation as a potentially curative approach.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* highly-malignant non-Hodgkins-Lymphoma, mantle-cell lymphoma or follicular lymphoma 3°\n* CNS relapse (meningeal or/and intraparenchymal) with or without systemic lymphoma manifestations\n* ECOG performance score ≤2\n* no active infection\n* negative HIV-serology\n* adequate renal ",
+      "endpoints": [
+        "Time to treatment failure"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT01148173"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02220985",
+      "title": "A Phase II Study Evaluating Selective Depletion of CD45RA+ T Cells From Allogeneic Peripheral Blood Stem Cell Grafts From HLA-Matched Related and Unrelated Donors for Prevention of GVHD",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-02-03",
+      "completion_date": "2025-05-01",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "This phase II trial is for patients with acute lymphocytic leukemia, acute myeloid leukemia, myelodysplastic syndrome or chronic myeloid leukemia who have been referred for a peripheral blood stem cell transplantation to treat their cancer. In these transplants, chemotherapy and total-body radiotherapy ('conditioning') are used to kill residual leukemia cells and the patient's normal blood cells, especially immune cells that could reject the donor cells. Following the chemo/radiotherapy, blood s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are considered appropriate candidates for allogeneic hematopoietic stem cell transplantation and have one of the following diagnoses:\n\n  * Acute lymphocytic leukemia in first or subsequent remission\n  * Acute myeloid leukemia in first or subsequent remission\n  * A",
+      "endpoints": [
+        "Occurrence of chronic graft-versus-host disease (GHVD), defined operationally as the occurrence of compatible symptoms meeting National Institutes of Health criteria and requiring systemic pharmacological immunosuppression",
+        "Use of additional immune suppressive agents other than first line therapy (prednisone and tacrolimus/cyclosporine)",
+        "Time to completion of prednisone"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02220985"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06195891",
+      "title": "A Single Center, Non-Randomized, Phase 1b Study of Orca-T Following Escalated Dose of Total Marrow and Lymphoid Irradiation in Patients With Acute Leukemias and MDS",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2024-05-24",
+      "completion_date": "2027-06-21",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "This phase I trial tests the side effects and best dose of total marrow lymphoid irradiation along with chemotherapy, with fludarabine and melphalan, with or without thiotepa, in combination with Orca-T cells for patients with acute myeloid leukemia (AML), acute lymphoblastic leukemia (ALL) or myelodysplastic syndrome (MDS). Total marrow and lymphoid irradiation is a targeted form of total body irradiation that uses intensity-modulated radiation therapy to target marrow, lymph node chains, and t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented informed consent of the participant\n* Agreement to allow the use of archival tissue from diagnostic bone marrow biopsies\n\n  * If unavailable, exceptions may be granted with study primary investigator (PI) approval\n* Age: 60-75 years\n* Karnofsky performance status ≥ ",
+      "endpoints": [
+        "Incidence of adverse events"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06195891"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00145613",
+      "title": "Haploidentical Stem Cell Transplantation Utilizing T-Cell Depletion as Therapy for Patients With Refractory Hematological Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2009-02",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "Relapsed disease is the most common cause of death in children with hematological malignancies. Patients who fail high-intensity conventional chemotherapeutic regimens or relapse after stem cell transplantation have a poor prognosis. Toxicity from multiple therapies and elevated leukemic/tumor burden usually make these patients ineligible for the aggressive chemotherapy regimens required for conventional stem cell transplantation. Alternative options are needed. One type of treatment being explo",
+      "eligibility_criteria": "Inclusion Criteria: Refractory hematological malignancies (chemoresistant relapse or primary induction failure) including:\n\n* Acute lymphoblastic leukemia (ALL), must have isolated or combined bone marrow relapse or primary induction failure. Patients with extramedullary relapse are not eligible unl",
+      "endpoints": [
+        "To ask in terms of one-year survival the efficacy of haploidentical stem cell transplantation in children with refractory hematological malignancies."
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00145613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450983",
+      "title": "Transplantation of Haploidentical CD34+ Purified Peripheral Blood Stem Cells With NK-Cell Add-Back Following Conditioning With Total Body Irradiation, Thiotepa, Fludarabine and OKT3",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-12",
+      "completion_date": "2010-07",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "RATIONALE: Giving chemotherapy and total-body irradiation before a donor peripheral blood stem cell and donor natural killer cell transplant helps stop the growth of cancer and abnormal cells and helps stop the patient's immune system from rejecting the donor's stem cells. When certain stem cells from a donor are infused into the patient they may help the patient's bone marrow make stem cells, red blood cells, white blood cells, and platelets. Sometimes the transplanted cells from a donor can ma",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of 1 of the following life-threatening hematological malignancies:\n\n  * Acute lymphoblastic leukemia meeting 1 of the following criteria:\n\n    * Advanced beyond first remission\n    * In first remission with high-risk prognostic features, including any of the fol",
+      "endpoints": [
+        "Risk of Developing Grades III-IV Acute Graft-vs-host Disease (GVHD)"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00450983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07014943",
+      "title": "A Study of High Dose Gemcitabine, Busulfan and Thiotepa With Autologous Stem Cell Transplantation for Primary or Relapse Central Nervous System Lymphomas",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-01-01",
+      "completion_date": "2026-12-31",
+      "country": "China",
+      "enrollment": 34,
+      "brief_summary": "The goal of this single-arm, prospective study is to learn if high dose gemcitabine, busulfan and thiotepa with autologous stem cell transplantation to treat primary or relapse central nervous system lymphomas. It will learn about the safety and efficacy of combination therapy. The main question it aims to answer is:\n\nEfficacy and safety of the combination of high dose gemcitabine, busulfan and thiotepa as a bridging therapy to ASCT in patients with CNSL.\n\nParticipants will:\n\nTake gemcitabine (2",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age between 18 and 70 years;\n2. CNS status of complete remission (CR) or partial response (PR) as assessed by magnetic resonance imaging (MRI), positron emission tomography-computed tomography (PET/CT), or CSF analysis (if applicable);\n3. Eastern Cooperative Oncology Group (E",
+      "endpoints": [
+        "PFS"
+      ],
+      "sponsor": "Sichuan University",
+      "url": "https://clinicaltrials.gov/study/NCT07014943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06830421",
+      "title": "Age-adjusted High-dose Chemotherapy Followed by Autologous Stem Cell Transplantation or Conventional Chemotherapy With R-MP as First-line Treatment in Elderly Primary CNS Lymphoma Patients - a Randomized Phase III Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-08-09",
+      "completion_date": "2031-08-31",
+      "country": "Germany",
+      "enrollment": 340,
+      "brief_summary": "Most patients being diagnosed with primary diffuse large B-cell lymphoma of the central nervous system (PCNSL) are 60 years or older. Elderly patients with PCNSL have a poor prognosis and there is a great medical need to improve outcome for this vulnerable population. In Germany and many international centres, there are currently two widely used strategies to treat elderly PCNSL patients who are eligible for high-dose methotrexate (HD-MTX) treatment, which have not yet been compared head-to-head",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Immunocompetent patients with newly-diagnosed primary DLBCL of the central nervous system.\n2. Age \\> 70 years or age 65-70 years if not eligible for more intensive treatment (e.g. OptiMATe trial).\n3. Histologically or cytologically assessed diagnosis of B-cell lymphoma by loc",
+      "endpoints": [
+        "Progression free survival (PFS) between the 2 arms"
+      ],
+      "sponsor": "University Hospital Freiburg",
+      "url": "https://clinicaltrials.gov/study/NCT06830421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01050764",
+      "title": "A Feasibility Trial of Post-Transplant Infusion of Allogeneic Regulatory T Cells and Allogeneic Conventional T Cells in Patients With Hematologic Malignancies Undergoing Allogeneic Myeloablative Hematopoietic Cell Transplantation From Haploidentical-Related Donors",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-06",
+      "completion_date": "2014-06",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Patients with hematologic malignancies will receive myeloablative chemotherapy followed by stem cell rescue with bone marrow or hematopoietic peripheral blood stem cells collected by apheresis from a filgrastim- (G-CSF)-mobilized haploidentical related-donor, ie, hematopoietic peripheral blood stem cell transplant (HSCT).",
+      "eligibility_criteria": "Inclusion Criteria\n\nRECIPIENT\n\n* Histopathologically-confirmed:\n* Acute leukemia (in first remission with poor risk factors and molecular prognosis)\n* Acute myelogenous leukemia (AML) with -5,-7, t (6;9), tri8, -11\n* Acute lymphoblastic leukemia (ALL) with Ph+ t (9;22), t (4;22), (q34;q11)\n* Acute l",
+      "endpoints": [
+        "Maximum-tolerated Dose (MTD) of Regulatory and Conventional T-cells"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01050764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01050439",
+      "title": "Unrelated Donor Stem Cell Transplant for Patients With Malignant and Non-Malignant Disorders",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2002-11",
+      "completion_date": "2011-04",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "Unrelated matched donor (cord blood, bone marrow or peripheral blood) allogeneic stem cell transplantation (UDAlloSCT) with either myeloablative or reduced intensity conditioning will be well tolerated and result in a high degree of engraftment in patients with selected malignant and non malignant disorders.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adequate renal function defined as: serum creatinine 2.0 x normal, or creatinine clearance or radioisotope GFR \\> 40 ml/min/m2 or \\> 40 ml/min/1.73 m2 or an equivalent GFR as determined by the institutional normal range.\n* Adequate liver function defined as: total bilirubin \\<",
+      "endpoints": [
+        "Incidence of toxicity related to myeloablative therapy"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT01050439"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00067002",
+      "title": "Randomized Trial of Unmanipulated Versus Expanded Cord Blood",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2016-07",
+      "country": "United States",
+      "enrollment": 110,
+      "brief_summary": "The goal of this clinical research study is to learn if combining cord blood units to make the cells \"take\" faster in recipients will help to improve the results of cord blood transplants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Disease-Specific Eligibility Requirements: Patients must have one of the following hematologic malignancies: 1. Acute Myelogenous Leukemia (AML), Myelodysplastic Syndrome (MDS) 2. Acute Lymphoblastic Leukemia (ALL) 3. Chronic Myelogenous Leukemia (CML) 4. Non-Hodgkin's Lympho",
+      "endpoints": [
+        "Time To Neutrophil Engraftment",
+        "Number of Participants With Engraftment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00067002"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05425654",
+      "title": "Rituximab, Methotrexate, Procarbazine, Vincristine, Lenalidomide (RL-MPV) Followed by BBC (BCNU, Busulfan, Cyclophosphamide) High-dose Chemotherapy With Auto-HCT and Maintenance Therapy With Nivolumab in Newly Diagnosed Primary CNS Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-05-17",
+      "completion_date": "2026-05",
+      "country": "Russia",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine the efficacy and safety of the new treatment proposed in this study. Conducting a prospective study \"CNS-2015\" in patients with PDLBCL CNS made it possible to achieve 2-year EFS, DFS and OS of 83%, 83% and 88%, respectively. The presence of early relapses of the disease has now led to the need to find an alternative program for patients with PDLBCL CNS. In the new \"CNS-2021\" protocol, lenalidomide was included in the R-MPV program in order to intensify t",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll patients must have non-Hodgkin's lymphoma involving the brain, as demonstrated by CT or MRI and histologic confirmation by one of the following: A positive CSF cytology for lymphoma or a monoclonal lymphocyte population as defined by cell surface markers.\n\nA biopsy of the vi",
+      "endpoints": [
+        "frequency of adverse events"
+      ],
+      "sponsor": "National Research Center for Hematology, Russia",
+      "url": "https://clinicaltrials.gov/study/NCT05425654"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00462787",
+      "title": "A Phase I Dose Escalation Trial of Clofarabine in Addition to Topotecan, Vinorelbine, Thiotepa, and Dexamethasone in Pediatric Patients With Relapsed or Refractory Acute Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2013-11",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as clofarabine, topotecan, vinorelbine, thiotepa, and dexamethasone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of clofarabine when given together with topotecan, vinorelbine, thiotepa, and dexamethasone in treating young pa",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Must have 1 of the following diagnoses:\n\n  * Acute lymphoblastic leukemia (ALL) meeting 1 of the following criteria:\n\n    * Refractory to initial induction with two or more standard regimens\n    * Relapsed \\< 24 months after first complete response on a high-risk protocol",
+      "endpoints": [
+        "Maximum tolerated dose of clofarabine",
+        "Overall survival",
+        "Progression-free survival"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00462787"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06625359",
+      "title": "Efficacy of High-dose Chemotherapy with Thiotepa, Busulfan, and Cyclophosphamide Before Autologous Stem Cell Transplantation in Patients with Primary/secondary Central Nervous System Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-06-01",
+      "completion_date": "2024-09-30",
+      "country": "South Korea",
+      "enrollment": 17,
+      "brief_summary": "The involvement of the central nervous system (CNS) by non-Hodgkin lymphoma (NHL) has carried a poor prognosis. For both of primary central nervous system lymphoma (PCNSL) and secondary central nervous system lymphoma (SCNSL), high-dose methotrexate (HD- MTX) based chemotherapy and combined modality have significantly improved the previously poor response rates and prognosis. However, in PCNSL, relapse rates have remained high, with only 20% to 30% patients achieving a durable long-term remissio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ∙Patients with histologically confirmed primary central nervous system lymphoma or secondary CNS lymphoma defined as either synchronous CNS involvement of sys- temic NHL or as a site of recurrence in a patient s with a history of systemic NHL\n\n  * Patients who achieved remissi",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06625359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002718",
+      "title": "A Phase II Trial of T-Cell Depleted Marrow Grafts Combined With Infusions of G-CSF Stimulated, CD34 Ceprate Stem Cell Column Selected, E-Rosette Depleted Peripheral Blood Progenitor Cells Derived From HLA Haplotype Matched Related Donors for Patients With Leukemia Lacking an HLA-Matched Related or Unrelated Donor",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1995-11",
+      "completion_date": "2008-10",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "RATIONALE: Bone marrow and peripheral stem cell transplantation may be able to replace immune cells that were destroyed by chemotherapy or radiation therapy used to kill cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of T-cell depleted bone marrow and G-CSF stimulated peripheral stem cell transplantation in treating patients with leukemia, lymphoblastic lymphoma, myelodysplastic syndrome, or aplastic anemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following diagnoses:\n\n  * Acute myelogenous leukemia (AML) meeting 1 of the following conditions:\n\n    * Failed to achieve first remission after an intensive induction regimen containing an anthracycline and cytarabine\n    * In second remission and not enrolled",
+      "endpoints": [
+        "overall disease survival"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01786018",
+      "title": "Allogeneic Transplantation After a Conditioning With Thiotepa, Busulfan and Fludarabin for the Treatment of Refractory/Early Relapsed Aggressive B-cell Non Hodgkin Lymphomas: a Phase II Multi-Center Trial",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2013-02",
+      "completion_date": "2015-02",
+      "country": "Italy",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to evaluate progression free survival, transplant-related morbidity (TRM) at day +100 and at +365, overall survival and incidence of acute and chronic GVHD in refractory/early relapsed aggressive B-cell non Hodgkin lymphomas patients treated with allogeneic Transplantation after a conditioning with Thiotepa, Busulfan and fludarabin.",
+      "eligibility_criteria": "Patient inclusion criteria:\n\n* Patients with refractory/relapsed aggressive B-cell non Hodgkin lymphomas after frontline therapy.\n* Patients with stable disease or partial or complete remission (PET-negative) after salvage therapy\n* Patients younger than 65 years old\n* A fully HLA-identical sibling ",
+      "endpoints": [
+        "Progression free survival"
+      ],
+      "sponsor": "Azienda Ospedaliera San Giovanni Battista",
+      "url": "https://clinicaltrials.gov/study/NCT01786018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05021770",
+      "title": "Safety and Efficacy of Orelabrutinib（O） in Combination With Thiotepa（T） in Refractory and Relapsed Primary CNS Lymphoma： A Single-arm, Multicenter Phase Ib/II Study（OT）",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-12",
+      "completion_date": "2024-06",
+      "country": "China",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this study was to investigate the maximum tolerated dose and efficacy of Orelabrutinib combined with Thiotepa in refractory and relapsed primary central nervous system lymphoma (PCNSL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and woman who aged 18 or older on the day of consenting to the study.\n2. Participants must be able to understand and willing to sign a written informed consent document.\n3. ECOG performance status of 0 to 2.\n4. Histologically documented primary central nervous system(CNS)",
+      "endpoints": [
+        "Part 1 Dose Escalation：The maximum tolerated dose (MTD)",
+        "Part 2 Dose Expansion：ORR (Investigator-Assessed)"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05021770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07074470",
+      "title": "A Prospective Study of Combination Regimen of Teniposide, PD-1 Monoclonal Antibody and Selinixor for Patients With Relapsed and Refractory Primary Central Nervous System Lymphoma.",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-01-02",
+      "completion_date": "2032-01-02",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "This study aims to evaluate the efficacy and safety of the VPX regimen, a novel combination of teniposide, PD-1 monoclonal antibody and selinexor, in patients with relapsed/refractory (R/R) primary central nervous system lymphoma (PCNSL) who have progressed after high-dose methotrexate (HD-MTX)-based systemic therapy. By investigating this therapeutic approach, we seek to establish a new treatment paradigm that may improve clinical outcomes of this high-risk population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 75 years old (inclusive).\n2. Participants must be able to understand and willing to sign a written informed consent form.\n3. The Eastern Cooperative Oncology Group is in a state of 0 to 3.\n4. The expected lifespan is ≥ 3 months (according to researchers).\n5",
+      "endpoints": [
+        "Overall response rate(ORR)"
+      ],
+      "sponsor": "The First Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT07074470"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04931368",
+      "title": "Optimizing MATRix as Remission Induction in PCNSL: De-escalated Induction Treatment in Newly Diagnosed Primary CNS Lymphoma - a Randomized Phase III Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2021-06-07",
+      "completion_date": "2028-11",
+      "country": "Germany",
+      "enrollment": 326,
+      "brief_summary": "This phase III study investigates if a de-escalated induction treatment in newly diagnosed primary CNS lymphoma is superior to the standard MATRix protocol in terms of event free survival.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Immunocompetent patients with newly diagnosed primary diffuse large B-cell lymphoma of the central nervous system (PCNSL).\n2. Male or female patients aged 18-65 years irrespective of ECOG or 66-70 years with ECOG Performance Status ≤2.\n3. Histologically or cytologically asses",
+      "endpoints": [
+        "Event-free survival (EFS)"
+      ],
+      "sponsor": "Klinikum Stuttgart",
+      "url": "https://clinicaltrials.gov/study/NCT04931368"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04103879",
+      "title": "A Phase II Open-Label Study of UM171-Expanded Cord Blood Transplantation in Patients With High and Very High Risk Acute Leukemia/Myelodysplasia",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-11-13",
+      "completion_date": "2026-02",
+      "country": "Netherlands, United States",
+      "enrollment": 30,
+      "brief_summary": "Cord blood (CB) transplants are an option for patients lacking an HLA identical donor but are hampered by low cell dose, prolonged aplasia and high transplant related mortality. UM171, a novel and potent agonist of hematopoietic stem cell self renewal could solve this major limitation, allowing for CB's important qualities as lower risk of chronic GVHD and relapse to prevail. In a previous trial (NCT02668315), the CB expansion protocol using the ECT-001-CB technology (UM171 molecule) has proven ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. High and very high-risk hematologic malignancy defined as:\n\n   1. Acute Myeloid Leukemia (Primary induction failure, Chemorefractory relapse, Relapse after allogeneic or autologous transplant, High risk AML in CR1, ≥ CR2)\n   2. Acute Lymphoid leukemia (Primary induction failu",
+      "endpoints": [
+        "Adverse events of ECT-001-CB",
+        "Adverse events of ECT-001-CB",
+        "Relapse-free survival"
+      ],
+      "sponsor": "ExCellThera inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04103879"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01949129",
+      "title": "Allogeneic Stem Cell Transplantation for Children and Adolescents With Acute Lymphoblastic Leukaemia",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2013-04",
+      "completion_date": "2030-04",
+      "country": "Spain, Mexico, Saudi Arabia, Switzerland, Canada, Sweden, Belgium, Norway, Chile, Croatia, Turkey (Türkiye), Hungary, Slovakia, Germany, Australia, Romania, Israel, Finland, Greece, Belarus, Austria, Poland, Argentina, Slovenia, France, Czechia, Italy, Denmark, Netherlands, Malaysia, New Zealand",
+      "enrollment": 1800,
+      "brief_summary": "The ALL SCTped 2012 FORUM is a multinational, multi-centre, controlled, prospective phase III study for the therapy and therapy optimisation for children and adolescents with ALL in complete morphological remission (CR, less than 5% bone marrow blasts, no blasts in cerebrospinal fluid, no other extramedullary leukemia), who have an indication for HSCT with a myeloablative conditioning regimen.\n\nThe stratification of patients in first and following remissions according to the individual transplan",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients with ALL (except for patients with B-ALL) who fulfil the following criteria:\n\n* age at diagnosis ≤ 18 years. Age at HSCT ≤ 21 years\n* indication for allogeneic HSCT\n* complete remission (CR) before HSCT\n* written consent of the parents (legal guardian) and, if necessary",
+      "endpoints": [
+        "Overall Survival (OS) Stratum 1a (randomisation TBI+ chemo-conditioning vs. chemo-conditioning only)",
+        "Event free survival (EFS) Stratum 2 (mismatched donor transplantation)",
+        "Overall Survival (OS), Stratum 1b: MSD/MD without randomisation"
+      ],
+      "sponsor": "St. Anna Kinderkrebsforschung",
+      "url": "https://clinicaltrials.gov/study/NCT01949129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06680661",
+      "title": "ABBA CORD: Double Umbilical Cord Blood Transplants With Abatacept for Graft Versus Host Disease Prophylaxis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-02-25",
+      "completion_date": "2028-10-31",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The goal of this clinical trial is to see if adding abatacept to tacrolimus and MMF prevents or reduces the chances of acute graft versus host disease which is a complication that can occur after transplant in participants with blood cancer. The usual therapy for graft versus host disease prevention after a cord blood transplant includes tacrolimus and MMF. The main question this clinical trial aims to answer is whether or not abatacept will be safe and effective in reducing aGVHD rates in dCBT.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with the following hematologic malignancies:\n\n  * Acute myelogenous leukemia (AML): High-risk and intermediate-risk AML including:\n\n    * Antecedent hematological disease (e.g., myelodysplasia (MDS))\n    * Treatment-related leukemia\n    * Complete Remission (CR1) with",
+      "endpoints": [
+        "Severe aGVHD free survival"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT06680661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01682226",
+      "title": "Myeloablative Unrelated Donor Cord Blood Transplantation With T-Cell Depleted Haplo-identical Peripheral Blood Stem Cells for Patients With High Risk Hematological Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-09-05",
+      "completion_date": "2021-01-08",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "The purpose of this study is to find out whether the addition of blood stem cells from a close family member, when added to umbilical cord blood will make the transplant safer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nNote: protocol eligible patients according to the criteria outlined below will then be divided according to age, diagnosis, performance status, organ function, prior transplantation, hematopoietic cell transplant comorbidity index (HCT-CI)23, and CB TNC dose into those who are a",
+      "endpoints": [
+        "Percent of Engrafted Participants With Successful Neutrophil Recovery"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01682226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01423747",
+      "title": "Allogeneic Stem Cell Transplantation in Children and Adolescents With Acute Lymphoblastic Leukaemia",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2003-07",
+      "completion_date": "2016-09",
+      "country": "Germany, Austria",
+      "enrollment": 400,
+      "brief_summary": "With this protocol the ALL-SZT BFM international study group wants\n\nto evaluate whether hematopoietic stem cell transplantation (HSCT) from matched family or unrelated matched donors (MD) is equivalent to the HSCT from matched sibling donors (MSD).\n\nto evaluate the efficacy of haematopoietic stem cell transplantation (HSCT) from mismatched family or unrelated mismatched donors (MMD) as compared to HSCT from matched sibling donor (MSD) and matched donor (MD).\n\nto determine whether therapy has bee",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age at time of initial diagnosis or relapse diagnosis, respectively under or equal 18 years\n* indication for allogeneic hematopoietic stem cell transplantation (HSCT)\n* complete remission before hematopoietic stem cell transplantation (HSCT)\n* written consent of the parents (l",
+      "endpoints": [
+        "Event-free and overall survival after allogeneic haematopoietic stem cell transplantation (HSCT)"
+      ],
+      "sponsor": "St. Anna Kinderkrebsforschung",
+      "url": "https://clinicaltrials.gov/study/NCT01423747"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03615105",
+      "title": "Allogeneic Hematopoietic Cell Transplantation Using α/β+ T-lymphocyte Depleted Grafts From HLA Mismatched Donors",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2018-07-25",
+      "completion_date": "2024-03-06",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This study is being done to learn whether a new method to prevent rejection between the donor immune system and the patient's body is effective.",
+      "eligibility_criteria": "Subject Inclusion Criteria:\n\n* Patients with any of the following hematologic malignancies who are considered to be eligible for allogeneic transplantation:\n\n  * Acute lymphoid leukemia (ALL) in first complete remission (CR1) with high risk for relapse including:\n\n    * Detectable minimal residual d",
+      "endpoints": [
+        "the Number of Incidences of Grade 3-4 Acute GVHD"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03615105"
+    }
+  ],
+  "timestamp": "2026-03-04T15:45:34.280214",
+  "success": true,
+  "error_message": null
+}

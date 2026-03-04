@@ -1,0 +1,3246 @@
+{
+  "drug": {
+    "name": "Ciprofloxacin",
+    "drugbank_id": "DB00537",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "paratyphoid fever",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04349826",
+            "title": "Azithromycin and Cefixime Combination Versus Azithromycin Alone for the Out-patient Treatment of Clinically Suspected or Confirmed Uncomplicated Typhoid Fever in South Asia; a Randomised Controlled Trial",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2021-05-23",
+            "completion_date": "2025-12-31",
+            "country": "Nepal",
+            "enrollment": 2150,
+            "brief_summary": "Typhoid and paratyphoid (enteric) fever affects more than 11 million children and adults globally each year including 7 million in South Asia. Up to 1% of patients who get typhoid may die of the disease and, in those that survive, a prolonged period of ill health and catastrophic financial cost to the family may follow. In the last 20 years, treatment of typhoid fever with a 7-day course of a single oral antimicrobial, such as ciprofloxacin, cefixime or azithromycin, given in an out-patient sett",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A history of fever at presentation for ≥ 72 hours and a documented fever (≥37.5oC (axillary) or ≥38oC (oral))\n* Age ≥ 2 years (and ≥ 10kg) to 65 years\n* No clear focus of infection on initial clinical evaluation\n* Malaria rapid Diagnostic test( RDT) negative; dengue nonstructu",
+            "endpoints": [
+              "Treatment Failure"
+            ],
+            "sponsor": "Oxford University Clinical Research Unit, Vietnam",
+            "url": "https://clinicaltrials.gov/study/NCT04349826"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "40914181",
+            "title": "Enteric (typhoid and paratyphoid) fever.",
+            "abstract": "Enteric fever, caused by the human-restricted bacteria Salmonella enterica serovar Typhi (typhoid) and Salmonella enterica serovar Paratyphi A, B, and C (paratyphoid), affects persons residing in, or travelling from, areas lacking safe water, sanitation, and hygiene infrastructure. Transmission is by the faecal-oral route. A gradual fever onset over 3-7 days with malaise, headache, and myalgia is typical. Symptoms can be altered by previous antimicrobial use. Life-threatening complications can arise in the second week of untreated illness. Differentiation from other febrile illnesses is challenging. Blood or bone marrow culture remain reference standard diagnostic methods, despite the low sensitivity of blood culture. Azithromycin, ciprofloxacin (excepting cases originating in south Asia due to drug resistance), or ceftriaxone are recommended treatment options for both typhoid and paratyphoid; however, choice should be guided by local resistance patterns. Ciprofloxacin-resistant and ce",
+            "journal": "Lancet (London, England)",
+            "year": "2025",
+            "authors": [
+              "Kuehn Rebecca",
+              "Rahden Paul",
+              "Hussain Huma Syed",
+              "Karkey Abhilasha",
+              "Qamar Farah Naz"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Typhoid Fever",
+              "Paratyphoid Fever",
+              "Anti-Bacterial Agents",
+              "Salmonella typhi",
+              "Typhoid-Paratyphoid Vaccines",
+              "Ciprofloxacin",
+              "Ceftriaxone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40914181/"
+          },
+          {
+            "pmid": "36420914",
+            "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+            "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2022",
+            "authors": [
+              "Kuehn Rebecca",
+              "Stoesser Nicole",
+              "Eyre David",
+              "Darton Thomas C",
+              "Basnyat Buddha"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Adult",
+              "Humans",
+              "Adolescent",
+              "Paratyphoid Fever",
+              "Typhoid Fever",
+              "Cephalosporins",
+              "Azithromycin",
+              "Ceftriaxone",
+              "Cefixime"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+          },
+          {
+            "pmid": "32050286",
+            "title": "[Typhoid and paratyphoid fever].",
+            "abstract": "Typhoid fever and paratyphoid fever are systemic infectious diseases of global significance caused by Salmonella enterica subspecies enterica Serovar Typhi (short name: Salmonella Typhi) or Serovar Paratyphi (short name: Salmonella Paratyphi). The course of these fecal-orally transmitted diseases is mainly characterized by a high fever. Left untreated, the course of typhoid fever can be severe and lethal. The infection is almost always acquired outside of Europe (mainly in India) and is notifiable in Germany, Austria and Switzerland. Paratyphoid is an attenuated disease of typhoid fever caused by Salmonella Paratyphi. Available vaccines only protect against Salmonella Typhi. Antibiotic resistance reflects the situation in endemic countries and shows a worrying increase of multi-drug resistant isolates. Currently, third-generation cephalosporins such as ceftriaxone are recommended as first-line therapy; if sensitive to quinolones, fluoroquinolones such as ciprofloxacin may continue to b",
+            "journal": "Zeitschrift fur Gastroenterologie",
+            "year": "2020",
+            "authors": [
+              "Trawinski Henning",
+              "Wendt Sebastian",
+              "Lippmann Norman",
+              "Heinitz Sascha",
+              "von Braun Amrei"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cephalosporins",
+              "Fluoroquinolones",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Paratyphoid Fever",
+              "Quinolones",
+              "Salmonella enterica",
+              "Salmonella paratyphi A",
+              "Salmonella typhi"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32050286/"
+          },
+          {
+            "pmid": "16271634",
+            "title": "Typhoid and paratyphoid fever.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "2005",
+            "authors": [
+              "Pandit Anil",
+              "Arjyal Amit"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Nalidixic Acid",
+              "Nepal",
+              "Ofloxacin",
+              "Salmonella enterica"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16271634/"
+          },
+          {
+            "pmid": "21975746",
+            "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+            "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2011",
+            "authors": [
+              "Effa Emmanuel E",
+              "Lassi Zohra S",
+              "Critchley Julia A",
+              "Garner Paul",
+              "Sinclair David"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Fluoroquinolones",
+              "Humans",
+              "Norfloxacin",
+              "Paratyphoid Fever",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome",
+              "Typhoid Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+          },
+          {
+            "pmid": "40934281",
+            "title": "Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan.",
+            "abstract": "Salmonella enterica serovar Paratyphi A (S. Paratyphi A) has emerged as a significant global health concern due to the progressive development of antimicrobial resistance and its broader geographic distribution. In Taiwan, paratyphoid fever was historically rare and predominantly associated with imported cases. Since 2022, however, a marked increase in domestically acquired infections has been observed, prompting investigations into their origin and likely route of introduction.",
+            "journal": "PLoS neglected tropical diseases",
+            "year": "2025",
+            "authors": [
+              "Liao Ying-Shu",
+              "Hong Yu-Ping",
+              "Chen Bo-Han",
+              "Wan You-Wun",
+              "Teng Ru-Hsiou"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Paratyphoid Fever",
+              "Salmonella paratyphi A",
+              "Taiwan",
+              "Whole Genome Sequencing",
+              "Epidemiological Monitoring",
+              "Drug Resistance, Bacterial",
+              "Microbial Sensitivity Tests",
+              "Communicable Diseases, Imported",
+              "Ciprofloxacin",
+              "Nalidixic Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40934281/"
+          },
+          {
+            "pmid": "15976828",
+            "title": "[Typhoid and paratyphoid fever in children].",
+            "abstract": "Febrile illness without focal symptoms in a child who has visited tropical or sub-tropical areas is an increasing health problem in western countries. In the department of paediatrics at Ullevaal University Hospital, malaria, typhoid and paratyphoid fever are the most frequent infectious diseases acquired in tropical or sub-tropical areas.",
+            "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+            "year": "2005",
+            "authors": [
+              "Krogh Kristin",
+              "Hermansen Nils Olav",
+              "Wathne Karl-Olaf"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Emigration and Immigration",
+              "Humans",
+              "India",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15976828/"
+          },
+          {
+            "pmid": "25808163",
+            "title": "Enteric fever and its impact on returning travellers.",
+            "abstract": "Enteric fever, a systemic illness, is caused by Salmonella enterica serovar Typhi or S. enterica serovar Paratyphi A, B or C. The organism is transmitted to humans by the faecal oral route and is endemic in countries with poor sanitation and lacking clean drinking water. There are around 27 million individuals infected with S. Typhi worldwide annually. Enteric fever is a particular problem in travellers to endemic areas, especially those visiting friends and relatives. Currently, the two main vaccines recommended for travellers are the Vi polysaccharide vaccine and the oral Ty21a vaccine. These internationally licensed vaccines are safe and effective against S. Typhi. However, there is currently no commercially available vaccine against S. Paratyphi, which is increasingly reported as a cause of enteric fever. Vaccine uptake and taking appropriate precautions are poor in travellers visiting friends and relatives abroad; this problem requires addressing. Ciprofloxacin is no longer recomm",
+            "journal": "International health",
+            "year": "2015",
+            "authors": [
+              "Dave Jayshree",
+              "Sefton Armine"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Ceftriaxone",
+              "Drug Resistance",
+              "Humans",
+              "Paratyphoid Fever",
+              "Salmonella paratyphi A",
+              "Salmonella paratyphi B",
+              "Salmonella paratyphi C",
+              "Salmonella typhi"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25808163/"
+          },
+          {
+            "pmid": "35871037",
+            "title": "Clinical manifestations and microbiological features between indigenous and imported enteric fever in Taiwan, 2010-2020.",
+            "abstract": "Previous studies had showed that indigenous clones of Salmonella Typhi and S. Paratyphi were originally imported from other countries in Taiwan. We presented the clinical manifestations and laboratory findings of indigenous and imported enteric fever cases in Taiwan in the current decade. We retrospectively reviewed typhoid and paratyphoid fever cases in two medical centers of Chang Gung Memorial Hospitals in 2010-2020. A total of 37 enteric fever cases including 24 typhoid fever and 13 paratyphoid fever were recorded. There were 20 indigenous cases, 16 imported cases, and one indetermined case. Splenomegaly and hepatitis were more frequent in typhoid fever than in paratyphoid fever (P < 0.05). Imported cases had more ciprofloxacin non-susceptibility rate (8/16, 50.0%) than indigenous cases (2/20, 10%). Indigenous ciprofloxacin non-susceptible S. Typhi isolates were found in 2018. One indigenous S. Paratyphi B isolate was multi-drug resistant (MDR) to chloramphenicol, ampicillin, and t",
+            "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+            "year": "2022",
+            "authors": [
+              "Chen Chih-Ho",
+              "Hsu Ying-Jie",
+              "Chen Yi-Ching",
+              "Cheng Shu-Shen",
+              "Kuo Kuang-Che"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Typhoid Fever",
+              "Paratyphoid Fever",
+              "Salmonella paratyphi A",
+              "Retrospective Studies",
+              "Taiwan",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35871037/"
+          },
+          {
+            "pmid": "16271635",
+            "title": "Typhoid and paratyphoid fever.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "2005",
+            "authors": [
+              "Hasan Rumina",
+              "Cooke Fiona J",
+              "Nair Satheesh",
+              "Harish Belgode N",
+              "Wain John"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Female",
+              "Humans",
+              "Male",
+              "Salmonella paratyphi A"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16271635/"
+          },
+          {
+            "pmid": "31967084",
+            "title": "Burden of typhoid fever and cholera: similarities and differences. Prevention strategies for European travelers to endemic/epidemic areas.",
+            "abstract": "The burden of diarrheal diseases is very high, accounting for 1.7 to 5 billion cases per year worldwide. Typhoid fever (TF) and cholera are potentially life-threatening infectious diseases, and are mainly transmitted through the consumption of food, drink or water that have been contaminated by the feces or urine of subjects excreting the pathogen. TF is mainly caused by Salmonella typhi, whereas cholera is caused by intestinal infection by the toxin-producing bacterium Vibrio cholerae. These diseases typically affect low- and middle-income countries where housing is overcrowded and water and sanitation are poor, or where conflicts or natural disasters have led to the collapse of the water, sanitation and healthcare systems. Mortality is higher in children under 5 years of age. Regarding their geographical distribution, TF has a high incidence in sub-Saharan Africa, India and south-east Asia, while cholera has a high incidence in a few African countries, particularly in the Horn of Afr",
+            "journal": "Journal of preventive medicine and hygiene",
+            "year": "2019",
+            "authors": [
+              "Amicizia D",
+              "Micale R T",
+              "Pennati B M",
+              "Zangrillo F",
+              "Iovine M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antineoplastic Combined Chemotherapy Protocols",
+              "Azithromycin",
+              "Bicarbonates",
+              "Cephalosporins",
+              "Cholera",
+              "Cholera Vaccines",
+              "Ciprofloxacin",
+              "Drinking Water",
+              "Drug Resistance, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31967084/"
+          },
+          {
+            "pmid": "18422453",
+            "title": "Laboratory-based surveillance of paratyphoid fever in the United States: travel and antimicrobial resistance.",
+            "abstract": "The incidence of paratyphoid fever, including paratyphoid fever caused by antimicrobial-resistant strains, is increasing globally. However, the epidemiologic and laboratory characteristics of paratyphoid fever in the United States have never been studied.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2008",
+            "authors": [
+              "Gupta Sundeep K",
+              "Medalla Felicita",
+              "Omondi Michael W",
+              "Whichard Jean M",
+              "Fields Patricia I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Humans",
+              "Laboratories",
+              "Microbial Sensitivity Tests",
+              "Paratyphoid Fever",
+              "Salmonella Infections",
+              "Salmonella paratyphi A",
+              "Salmonella paratyphi B",
+              "Salmonella paratyphi C",
+              "Salmonella typhi"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18422453/"
+          },
+          {
+            "pmid": "40362220",
+            "title": "Assessing Salmonella Typhi Pathogenicity and Prevention: The Crucial Role of Vaccination in Combating Typhoid Fever.",
+            "abstract": "Enteric fever is caused by Salmonella enterica serovar Typhi (S. Typhi) and Salmonella enterica serovar Paratyphi (S. Paratyphi) A, B, and C. Globally, an estimated 11 to 21 million cases of typhoid and paratyphoid fever occur annually, with approximately 130,000-160,000 deaths, most of which are reported in South/Southeast Asia and sub-Saharan Africa. The antibiotic susceptibility of S. Typhi strains varies between countries within broad limits, from 3% to 97% for ampicillin, 9% to 95% for ciprofloxacin, 4% to 94% for chloramphenicol (India vs. Pakistan), and 0% to 99% for ceftriaxone (India vs. Iraq). With S. Typhi increasingly exhibiting resistance to antibiotics, vaccination becomes an essential preventive measure. Currently, three vaccines are licensed for typhoid fever: the typhoid conjugate vaccine (TCV), live-attenuated oral vaccine Ty21a (Ty21a), and Vi capsular polysaccharide vaccine (Vi-CPS). While no specific vaccine exists for paratyphoid fever, the genetic and antigenic s",
+            "journal": "International journal of molecular sciences",
+            "year": "2025",
+            "authors": [
+              "Buzilă Elena Roxana",
+              "Dorneanu Olivia Simona",
+              "Trofin Felicia",
+              "Sima Cristina Mihaela",
+              "Iancu Luminița Smaranda"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Salmonella typhi",
+              "Typhoid Fever",
+              "Humans",
+              "Typhoid-Paratyphoid Vaccines",
+              "Vaccination",
+              "Virulence",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Drug Resistance, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40362220/"
+          },
+          {
+            "pmid": "16082406",
+            "title": "Epidemiology of typhoid and paratyphoid fever in Kathmandu: two years study and trends of antimicrobial resistance.",
+            "abstract": "Enteric fever is prevalent in developing countries including Nepal, where it still remains as a major health problem. Appropriate antibiotics are essential for the treatment of typhoid and paratyphoid fever. A prospective study was carried out to characterize the epidemiological features of enteric fever in Kathmandu, Nepal and to analyse the recent trend of antimicrobial resistance pattern of the Salmonella isolated from the cases of enteric fever from different hospitals in Kathmandu during June, 2002 to June, 2004. A total of 1469 Salmonella typhi and Salmonella paratyphi 'A' isolates collected during this period from five different hospital laboratories situated in Kathmandu were studied. The antimicrobial susceptibilities of the isolates towards Ampicillin (10 mcg), Chloramphenicol (30 mcg), Cotrimoxazole (25 mcg), Ciprofloxacin (5 mcg) and Ceftriaxone (5 mcg) were determined by standard disc diffusion technique and Agar dilution technique were used to determine the minimum inhibi",
+            "journal": "JNMA; journal of the Nepal Medical Association",
+            "year": "2005",
+            "authors": [
+              "Malla S",
+              "Kansakar P",
+              "Serichantalergs O",
+              "Rahman M",
+              "Basnet S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Distribution",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance, Bacterial",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16082406/"
+          },
+          {
+            "pmid": "11197787",
+            "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+            "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+            "journal": "Internal medicine (Tokyo, Japan)",
+            "year": "2000",
+            "authors": [
+              "Ohnishi K",
+              "Kimura K",
+              "Masuda G",
+              "Tsunoda T",
+              "Obana M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Anti-Infective Agents",
+              "Drug Evaluation",
+              "Female",
+              "Fluoroquinolones",
+              "Humans",
+              "Japan",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+          },
+          {
+            "pmid": "17965350",
+            "title": "In vitro activity of azithromycin, newer quinolones and cephalosporins in ciprofloxacin-resistant Salmonella causing enteric fever.",
+            "abstract": "The therapeutic alternatives available for use against ciprofloxacin-resistant enteric fever isolates in an endemic area are limited. The antibiotics currently available are the quinolones, third-generation cephalosporins and conventional first-line drugs. In this study, the MICs of various newer drugs were determined for 31 ciprofloxacin-resistant enteric fever isolates (26 Salmonella enterica serovar Typhi and 5 S. enterica serovar Paratyphi A). MICs for ciprofloxacin, ofloxacin, gatifloxacin, levofloxacin, cefotaxime, cefixime, cefepime and azithromycin were determined using Etest strips and the agar dilution method. By Etest, all of the ciprofloxacin-resistant isolates had ciprofloxacin MICs >/=32 mug ml(-1). S. Typhi showed MIC(90) values of 0.50, 0.25 and 0.38 mug ml(-1) for cefixime, cefotaxime and cefepime, respectively. For the cephalosporins, a negligible difference in MIC(90) and MIC(50) values for S. Typhi and S. Paratyphi A was observed. A single isolate of S. Typhi showed",
+            "journal": "Journal of medical microbiology",
+            "year": "2007",
+            "authors": [
+              "Capoor Malini R",
+              "Rawat Deepti",
+              "Nair Deepthi",
+              "Hasan Azra S",
+              "Deb Monorama"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Cephalosporins",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Paratyphoid Fever",
+              "Quinolones",
+              "Salmonella paratyphi A",
+              "Salmonella typhi"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17965350/"
+          },
+          {
+            "pmid": "38196224",
+            "title": "Burden of enteric fever and antibiotic sensitivity in Nepalese Children Prior to Typhoid Vaccine in National Immunization Program.",
+            "abstract": "Enteric fever is a major public health problem in developing and under developed countries. Case fatality rate without treatment is 10-30% and with appropriate treatment is only 1-4%. Gold standard for diagnosis is isolation of Salmonella enterica from blood or bone marrow. Antibiotics resistance is skyrocketing with emergence of multidrug resistance S. typhi and extensively drug resistant S. typhi.",
+            "journal": "Journal of Nepal Health Research Council",
+            "year": "2023",
+            "authors": [
+              "Chapagain Ram Hari",
+              "Adhikari Santosh",
+              "Bhattarai Tribhuwan",
+              "Basaula Yubanidhi",
+              "Bhattarai Srijana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Humans",
+              "Child, Preschool",
+              "Anti-Bacterial Agents",
+              "Typhoid Fever",
+              "Typhoid-Paratyphoid Vaccines",
+              "Azithromycin",
+              "Cefixime",
+              "Ceftriaxone",
+              "Nalidixic Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38196224/"
+          },
+          {
+            "pmid": "38387472",
+            "title": "Evaluating the relationship between ciprofloxacin prescription and non-susceptibility in Salmonella Typhi in Blantyre, Malawi: an observational study.",
+            "abstract": "Ciprofloxacin is the first-line drug for treating typhoid fever in many countries in Africa with a high disease burden, but the emergence of non-susceptibility poses a challenge to public health programmes. Through enhanced surveillance as part of vaccine evaluation, we investigated the occurrence and potential determinants of ciprofloxacin non-susceptibility in Blantyre, Malawi.",
+            "journal": "The Lancet. Microbe",
+            "year": "2024",
+            "authors": [
+              "Ashton Philip M",
+              "Chunga Chirambo Angeziwa",
+              "Meiring James E",
+              "Patel Priyanka D",
+              "Mbewe Maurice"
+            ],
+            "pub_types": [
+              "Observational Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Child",
+              "Salmonella typhi",
+              "Ciprofloxacin",
+              "Typhoid Fever",
+              "Malawi",
+              "Phylogeny",
+              "Typhoid-Paratyphoid Vaccines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38387472/"
+          },
+          {
+            "pmid": "7573719",
+            "title": "Efficacy of ciprofloxacin in enteric fever: comparison of treatment duration in sensitive and multidrug-resistant Salmonella.",
+            "abstract": "The efficacy of two regimens of ciprofloxacin was compared in a randomized study conducted on 69 patients with enteric fever, 52.2% of whom had infection with multidrug-resistant (MDR) strains of Salmonella typhi or S. paratyphi. Patients were randomly assigned to two regimens (10 days versus 14 days) of ciprofloxacin (500 mg twice a day). The mean +/- SD time required for defervescence was similar for both regimens (4.2 +/- 1.9 days in the 10-day group and 4.9 +/- 2.6 days in the 14-day group). A 100% cure was observed in each treatment group and no serious side effects were observed. Relapse occurred in two patients (14-day regimen). Only one patient (14-day regimen) had growth of S. typhi in stool culture at the time of the first follow-up three days after completion of therapy. Follow-up studies on available patients on two, six, and 12 months after completion of therapy revealed that all patients had negative stool cultures for S. typhi and S. paratyphi. This study indicates that ",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "1995",
+            "authors": [
+              "Alam M N",
+              "Haq S A",
+              "Das K K",
+              "Baral P K",
+              "Mazid M N"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Drug Administration Schedule",
+              "Drug Resistance, Microbial",
+              "Drug Resistance, Multiple",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7573719/"
+          },
+          {
+            "pmid": "17071955",
+            "title": "Molecular characterization of ciprofloxacin-resistant Salmonella enterica serovar Typhi and Paratyphi A causing enteric fever in India.",
+            "abstract": "To define the genetic characteristics and resistance mechanisms of clinical isolates of Salmonella enterica serovar Typhi (S. Typhi) and S. enterica serovar Paratyphi A (S. Paratyphi A) exhibiting high-level fluoroquinolones resistance.",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "2006",
+            "authors": [
+              "Gaind R",
+              "Paglietti B",
+              "Murgia M",
+              "Dawar R",
+              "Uzzau S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amino Acid Substitution",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "DNA Gyrase",
+              "DNA Topoisomerase IV",
+              "DNA Topoisomerases",
+              "DNA, Bacterial",
+              "Deoxyribonucleases, Type II Site-Specific",
+              "Drug Resistance, Bacterial",
+              "Electrophoresis, Gel, Pulsed-Field"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17071955/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "diarrheal disease",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00741052",
+            "title": "Randomized, Double Blind, Controlled Clinical Trial to Evaluate the Efficacy of Multiple-dose Ciprofloxacin With Single Dose Azithromycin Therapy for Adults With Cholera Due to Multiply Resistant Strains of V. Cholerae O1 or O139",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2007-07",
+            "completion_date": "2010-06",
+            "country": "Bangladesh",
+            "enrollment": 218,
+            "brief_summary": "Cholera is an important diarrhoeal disease and an important cause of death, particularly during epidemic outbreaks, in Bangladesh and many other developing countries. Used as an adjunct to management of dehydration, antimicrobial therapy using an appropriate agent reduces diarrhoea duration and stool volume in severe cholera by about half.\n\nThe usefulness of antimicrobials has, however, been greatly eroded by the increasing prevalence of resistant strains of V. cholerae O1. From October 2004 at ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 60 years.\n* Gender: Male\n* Duration of diarrhoea: Not exceeding 24 hours\n* Written informed consent for participation.\n* Dehydration status: Severe dehydration.\n* Positive stool dark-field microscopic examination for V. cholerae \\& culture positive for V cholerae\n* F",
+            "endpoints": [
+              "To determine whether clinical success of therapy in the two treatment regimens are comparable."
+            ],
+            "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+            "url": "https://clinicaltrials.gov/study/NCT00741052"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00229944",
+            "title": "Randomized, Double-Blind, Controlled Clinical Trial to Compare Efficacy of a Single Dose of Azithromycin Versus a Single Dose of Ciprofloxacin in the Treatment of Adults With Clinically Severe Cholera Due to V. Cholerae O1 or O139",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2002-12",
+            "completion_date": "2004-05",
+            "country": "Bangladesh",
+            "enrollment": 220,
+            "brief_summary": "Cholera remains an important cause of diarrhoeal illness and death in Asia, Africa and Latin America. Antimicrobial therapy is an important adjunct to fluid therapy in the management of patients with cholera, and should be given to all patients with clinically moderate-to-severe disease since they can reduce the diarrhoea duration and stool volume by half. Current therapy for cholera is limited by increasing prevalence of multiply-resistant strains of Vibrio cholerae O1 or O139. Tetracycline and",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 60 years\n* Gender: Male (To facilitate accurate measurement of stool and urine, and also due to the difficulties in hospitalizing women for longer duration)\n* Duration of illness: 24 hours or less\n* Written informed consent for participation in the study\n* Dehydratio",
+            "endpoints": [
+              "Clinical success",
+              "Bacteriological Success"
+            ],
+            "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+            "url": "https://clinicaltrials.gov/study/NCT00229944"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00142272",
+            "title": "Randomised, Open, Parallel Group Clinical Trial to Compare the Efficacy and Safety of a Single Dose of Ciprofloxacin Oral Suspension 20 mg/kg With a 3-day Course of Erythromycin Oral Suspension Administered in a Dose of 12.5 mg/kg Every 6 Hours (12 Doses) in the Treatment of Children,With Clinically Severe Cholera Due to V. Cholerae O1 or O139.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2001-05",
+            "completion_date": "2002-07",
+            "country": "Bangladesh",
+            "enrollment": 180,
+            "brief_summary": "The study will be conducted to compare the efficacy and safety of a single dose of ciprofloxacin oral suspension 20 mg/kg with a 3-day course of erythromycin oral suspension administered in a dose of 12.5 mg/kg every 6 hours (12 doses) in the treatment of children, aged 2-15 years with clinically severe cholera due to V. cholerae O1 or O139.\n\nWe hypothesize that single dose ciprofloxacin would result in similar outcome in the clinicalcurewith that of erythromycin given in multiple doses.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAge: 2-15 years. Gender: male. Duration of illness: \\<24 hours. Written informed consent for participation in the study from either of the parents, or guardian, and oral assent from children aged ³ 8 years.\n\nSevere dehydration according to World Health Organisation (WHO) guideli",
+            "endpoints": [
+              "Rates of clinical success"
+            ],
+            "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+            "url": "https://clinicaltrials.gov/study/NCT00142272"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "15880088",
+            "title": "Shigellosis.",
+            "abstract": "Shigellosis is a global human health problem. Four species of Shigella i.e. S. dysenteriae, S. flexneri, S. boydii and S. sonnei are able to cause the disease. These species are subdivided into serotypes on the basis of O-specific polysaccharide of the LPS. Shigella dysenteriae type 1 produces severe disease and may be associated with life-threatening complications. The symptoms of shigellosis include diarrhoea and/or dysentery with frequent mucoid bloody stools, abdominal cramps and tenesmus. Shigella spp. cause dysentery by invading the colonic mucosa. Shigella bacteria multiply within colonic epithelial cells, cause cell death and spread laterally to infect and kill adjacent epithelial cells, causing mucosal ulceration, inflammation and bleeding. Transmission usually occurs via contaminated food and water or through person-to-person contact. Laboratory diagnosis is made by culturing the stool samples using selective/differential agar media. Shigella spp. are highly fragile organism ",
+            "journal": "Journal of microbiology (Seoul, Korea)",
+            "year": "2005",
+            "authors": [
+              "Niyogi Swapan Kumar"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Drug Resistance, Bacterial",
+              "Dysentery, Bacillary",
+              "Humans",
+              "Shigella",
+              "Shigella Vaccines",
+              "Virulence Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15880088/"
+          },
+          {
+            "pmid": "36509064",
+            "title": "Etiology of Acute Diarrheal Disease and Antimicrobial Susceptibility Pattern in Children Younger Than 5 Years Old in Nepal.",
+            "abstract": "Diarrhea is a common cause of morbidity and mortality among children younger than 5 years in developing countries. Children from 3 to 60 months of age were recruited from two hospitals in Nepal- Bharatpur Hospital, Bharatpur, and Kanti Children's Hospital, Kathmandu-in 2006 to 2009. Stool specimens collected from 1,200 children with acute diarrhea (cases) and 1,200 children without diarrhea (control subjects) were examined for a broad range of enteropathogens by standard microbiology, including microscopy, enzyme immunoassay for viral pathogens (adenovirus, astrovirus, and rotavirus) and protozoa (Giardia, Cryptosporidium, and Entamoeba histolytica), as well as by using reverse transcription real-time polymerase for norovirus. Antimicrobial susceptibility testing was performed using the disk diffusion method. Overall, rotavirus (22% versus 2%), norovirus (13% versus 7%), adenovirus (3% versus 0%), Shigella (6% versus 1%), enterotoxigenic Escherichia coli (8% versus 4%), Vibrio (7% vers",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "2023",
+            "authors": [
+              "Shrestha Sanjaya K",
+              "Shrestha Jasmin",
+              "Mason Carl J",
+              "Sornsakrin Siriporn",
+              "Dhakhwa Jyoti Ratna"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Infant",
+              "Child, Preschool",
+              "Cryptosporidiosis",
+              "Nepal",
+              "Cryptosporidium",
+              "Diarrhea",
+              "Rotavirus",
+              "Shigella",
+              "Enterotoxigenic Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36509064/"
+          },
+          {
+            "pmid": "37697804",
+            "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes.",
+            "abstract": "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse Salmonella enterica serovar Typhi (Typhi) genomic data to inform public health action. This analysis, which marks 22 years since the publication of the first Typhi genome, represents the largest Typhi genome sequence collection to date (n=13,000).",
+            "journal": "eLife",
+            "year": "2023",
+            "authors": [
+              "Carey Megan E",
+              "Dyson Zoe A",
+              "Ingle Danielle J",
+              "Amir Afreenish",
+              "Aworh Mabel K"
+            ],
+            "pub_types": [
+              "Meta-Analysis",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Salmonella typhi",
+              "Typhoid Fever",
+              "Anti-Bacterial Agents",
+              "Travel",
+              "Drug Resistance, Bacterial",
+              "Ciprofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37697804/"
+          },
+          {
+            "pmid": "17426177",
+            "title": "Diarrheal disease among HIV-infected adults in Karnataka, India: evaluation of risk factors and etiology.",
+            "abstract": "The objectives of this study were to evaluate characteristics associated with diarrhea, the effect of trimethoprim-sulfamethoxazole (TMP/SMX) prophylaxis on diarrhea, the response to treatment with ciprofloxacin and tinidazole (Cipro-TZ), and presence of enteric pathogens. Adults infected with human immunodeficiency virus with and without diarrhea served as cases and controls, respectively. Participants provided a medical history and underwent a physical examination. Blood was collected for CD4 cell counts and stool for culture. Cases were treated with Cipro-TZ. Factors associated with a risk of diarrhea included crowded living and no toilet (all P < 0.05). Protective variables (P < 0.05) included a CD4 count greater than 200 cells/mm(3) and TMP/SMX prophylaxis. Cases were more likely to have a pathogen identified (P = 0.05). Eighty-six percent of the cases responded to treatment. Important risk factors for diarrhea were identified. Protection by TMP/SMX reinforces the importance of pr",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "2007",
+            "authors": [
+              "Becker Marissa L",
+              "Cohen Craig R",
+              "Cheang Mary",
+              "Washington Reynold G",
+              "Blanchard James F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Case-Control Studies",
+              "Diarrhea",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "India",
+              "Male",
+              "Risk Factors",
+              "Surveys and Questionnaires"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17426177/"
+          },
+          {
+            "pmid": "1656260",
+            "title": "Diarrheal disease during Operation Desert Shield.",
+            "abstract": "Under combat conditions infectious disease can become a major threat to military forces. During Operation Desert Shield, there were numerous outbreaks of diarrhea among the U.S. forces. To evaluate the causes of and risk factors for diarrheal disease, we collected clinical and epidemiologic data from U.S. troops stationed in northeastern Saudi Arabia.",
+            "journal": "The New England journal of medicine",
+            "year": "1991",
+            "authors": [
+              "Hyams K C",
+              "Bourgeois A L",
+              "Merrell B R",
+              "Rozmajzl P",
+              "Escamilla J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Ampicillin",
+              "Diarrhea",
+              "Drug Resistance, Microbial",
+              "Dysentery, Bacillary",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Feces",
+              "Gastroenteritis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1656260/"
+          },
+          {
+            "pmid": "15387492",
+            "title": "Emerging nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from patients having acute diarrhoeal disease.",
+            "abstract": "Non-typhoidal Salmonella are one of the key etiological agents of diarrhoeal disease. The appearance of multiple drug resistance along with resistance to quinolones in this bacterium poses a serious therapeutic problem. We determined the prevalence of nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from faecal samples of patients with acute diarrhoeal disease attending the outpatient and inpatient departments of a hospital in Saudi Arabia during the years 1999 to 2002.",
+            "journal": "Annals of Saudi medicine",
+            "year": "2004",
+            "authors": [
+              "Panhotra B R",
+              "Saxena A K",
+              "Al-Arabi Al-Ghamdi Ali M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Communicable Diseases, Emerging",
+              "Diarrhea",
+              "Drug Resistance, Multiple, Bacterial",
+              "Feces",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Nalidixic Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15387492/"
+          },
+          {
+            "pmid": "33544770",
+            "title": "Characterization of Arcobacter spp. Isolated from human diarrheal, non-diarrheal and food samples in Thailand.",
+            "abstract": "Arcobacter butzleri is an emerging zoonotic food-borne and water-borne pathogen that can cause diarrhea in humans. The global prevalence of A. butzleri infection is underestimated, and little is known about their phenotypic and genotypic characterization. The aim of this study was to determine antimicrobial susceptibility (AST) profiles, detect related virulence genes, and classify sequence type (ST) of A. butzleri isolates obtained from human stool and food samples. A total of 84 A. butzleri isolates were obtained from human diarrheal (n = 25), non-diarrheal (n = 24) stool, and food (n = 35) samples in Thailand. They were evaluated for phenotypic identification by conventional microbiological procedures and AST by Kirby-Bauer disc diffusion method as well as virulence genes detection. Representative isolates from each origin were selected based on the presence of virulence genes and AST profiles to analyze genetic diversity by multilocus sequence typing (MLST). All isolates showed res",
+            "journal": "PloS one",
+            "year": "2021",
+            "authors": [
+              "Kietsiri Paksathorn",
+              "Muangnapoh Chonchanok",
+              "Lurchachaiwong Woradee",
+              "Lertsethtakarn Paphavee",
+              "Bodhidatta Ladaporn"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Arcobacter",
+              "Diarrhea",
+              "Genes, Bacterial",
+              "Genotype",
+              "Gram-Negative Bacterial Infections",
+              "Humans",
+              "Multilocus Sequence Typing",
+              "Thailand",
+              "Virulence Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33544770/"
+          },
+          {
+            "pmid": "31404533",
+            "title": "Acute Diarrheal Illness.",
+            "abstract": "",
+            "journal": "Gastroenterology",
+            "year": "2020",
+            "authors": [
+              "Jansson-Knodell Claire L",
+              "Shin Andrea",
+              "Rogers Nicholas"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Ciprofloxacin",
+              "Colon",
+              "Diarrhea",
+              "Feces",
+              "Female",
+              "Heart Rate",
+              "Humans",
+              "Ileum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31404533/"
+          },
+          {
+            "pmid": "39540737",
+            "title": "Antibiotic resistance and serotype distribution of Shigella strains in Bangladesh over the period of 2014-2022: evidence from a nationwide hospital-based surveillance for cholera and other diarrheal diseases.",
+            "abstract": "The objective of this study was to assess the prevalence, antimicrobial resistance patterns, and risk factors linked to Shigella infections through a nationwide hospital-based diarrheal disease surveillance in Bangladesh. From May 2014 to May 2022, from a systematic sentinel surveillance of Shigella infections in over 10 hospitals across Bangladesh, stool specimens were collected from patients with acute watery diarrhea and tested for Shigella species by microbiological culture. The susceptibility to antibiotics was tested using the disk diffusion method. Structured questionnaires were used to collect participants' socioeconomic status and clinical, sanitation, and food history. Out of 24,357 stool specimens, 1.8% were positive for Shigella species, with a higher prevalence among males (58%). Children in the 6-17 age group were found to be at the highest risk of Shigella infections. The most prevalent serotype was Shigella flexneri (79.5%), followed by Shigella sonnei. S. flexneri sero",
+            "journal": "Microbiology spectrum",
+            "year": "2024",
+            "authors": [
+              "Afrad Mokibul Hassan",
+              "Islam Md Taufiqul",
+              "Begum Yasmin Ara",
+              "Saifullah Md",
+              "Ahmmed Faisal"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39540737/"
+          },
+          {
+            "pmid": "38387472",
+            "title": "Evaluating the relationship between ciprofloxacin prescription and non-susceptibility in Salmonella Typhi in Blantyre, Malawi: an observational study.",
+            "abstract": "Ciprofloxacin is the first-line drug for treating typhoid fever in many countries in Africa with a high disease burden, but the emergence of non-susceptibility poses a challenge to public health programmes. Through enhanced surveillance as part of vaccine evaluation, we investigated the occurrence and potential determinants of ciprofloxacin non-susceptibility in Blantyre, Malawi.",
+            "journal": "The Lancet. Microbe",
+            "year": "2024",
+            "authors": [
+              "Ashton Philip M",
+              "Chunga Chirambo Angeziwa",
+              "Meiring James E",
+              "Patel Priyanka D",
+              "Mbewe Maurice"
+            ],
+            "pub_types": [
+              "Observational Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Child",
+              "Salmonella typhi",
+              "Ciprofloxacin",
+              "Typhoid Fever",
+              "Malawi",
+              "Phylogeny",
+              "Typhoid-Paratyphoid Vaccines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38387472/"
+          },
+          {
+            "pmid": "15573842",
+            "title": "Emerging nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from patients having acute diarrhoeal disease.",
+            "abstract": "Non-typhoidal Salmonella are one of the key etiological agents of diarrhoeal disease. The appearance of multiple drug resistance along with resistance to quinolones in this bacterium poses a serious therapeutic problem. We determined the prevalence of nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from faecal samples of patients with acute diarrhoeal disease attending the outpatient and inpatient department of a hospital in Saudi Arabia during the years 1999 to 2002.",
+            "journal": "Annals of Saudi medicine",
+            "year": "2004",
+            "authors": [
+              "Panhotra B R",
+              "Saxena A K",
+              "Al-Ghamdi Ali M Al-Arabi"
+            ],
+            "pub_types": [
+              "Corrected and Republished Article",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Communicable Diseases, Emerging",
+              "Drug Resistance, Bacterial",
+              "Dysentery",
+              "Feces",
+              "Humans",
+              "Nalidixic Acid",
+              "Prevalence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15573842/"
+          },
+          {
+            "pmid": "25098316",
+            "title": "Gastroenteritis due to typhoidal Salmonella: a decade of observation at an urban and a rural diarrheal disease hospital in Bangladesh.",
+            "abstract": "The study aimed to compare the socio-demographic, host and clinical characteristics, seasonality and antimicrobial susceptibility of Typhoidal Salmonella (Salmonella enterica serovar Typhi and Paratyphi) (TS) with diarrhea between urban and rural Bangladesh.",
+            "journal": "BMC infectious diseases",
+            "year": "2014",
+            "authors": [
+              "Das Sumon Kumar",
+              "Chisti Mohammod Jobayer",
+              "Afrad Mokibul Hassan",
+              "Malek Mohammad Abdul",
+              "Ahmed Shahnawaz"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Bangladesh",
+              "Child",
+              "Child, Preschool",
+              "Diarrhea",
+              "Female",
+              "Gastroenteritis",
+              "Hospitals"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25098316/"
+          },
+          {
+            "pmid": "32187137",
+            "title": "Molecular and Epidemiologic Analysis of Diarrheal Pathogens in Children With Acute Gastroenteritis in Bangladesh During 2014-2019.",
+            "abstract": "Diarrheal disease is one of the leading causes of childhood morbidity and mortality in the 21st century in developing countries. Mainly infants and young children develop diarrheal diseases. This study aims to determine the incidence of diarrheal pathogens in children in Bangladesh.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2020",
+            "authors": [
+              "Sharif Nadim",
+              "Nobel Nasir Uddin",
+              "Sakib Najmuj",
+              "Liza Syeda Moriam",
+              "Khan Shafia Tasnim"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Bacteria",
+              "Bacterial Infections",
+              "Bangladesh",
+              "Child",
+              "Child, Preschool",
+              "Coinfection",
+              "DNA Viruses",
+              "Feces",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32187137/"
+          },
+          {
+            "pmid": "31374081",
+            "title": "Characterizing Shigella species distribution and antimicrobial susceptibility to ciprofloxacin and nalidixic acid in Latin America between 2000-2015.",
+            "abstract": "Shigellosis is the second leading cause of diarrheal death globally. The global burden has been complicated by the emergence of Shigella strains resistant to first line antibiotic treatments such as ciprofloxacin. This study aims to describe the epidemiologic distribution of the most common Shigella species, and their antimicrobial susceptibility patterns to ciprofloxacin and nalidixic acid (NA) in Latin America.",
+            "journal": "PloS one",
+            "year": "2019",
+            "authors": [
+              "Sati Hatim F",
+              "Bruinsma Nienke",
+              "Galas Marcelo",
+              "Hsieh Jenny",
+              "Sanhueza Antonio"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Latin America",
+              "Microbial Sensitivity Tests",
+              "Nalidixic Acid",
+              "Shigella"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31374081/"
+          },
+          {
+            "pmid": "40405224",
+            "title": "Understanding the etiology of diarrheal illness in Cambodia in a case-control study from 2020 to 2023.",
+            "abstract": "Diarrheal infection remains a major public health problem in low and middle-income countries (LMICs). Prevention and control of diarrheal diseases are considered a global health priority. This case-control study aims to describe the prevalence of diarrhea etiologic agents and antimicrobial resistance in bacterial enteropathogens for acute diarrhea among children, adult civilians, and military personnel in Cambodia, detecting over 20 bacterial species, viruses, and parasites. A total of 918 subjects with acute diarrhea (cases), 791 aged-matched subjects without diarrhea (controls), and 675 follow-up cases were enrolled from five hospitals in Battambang and Oddor Meanchey provinces from 2020 to 2023. Pathogens were identified from collected stool samples via bacteriology, molecular techniques, immunoassays, and microscopy. Bacterial isolates were tested for antibiotic resistance patterns. From enrolled diarrhea cases, 533 stool samples (58%) were positive for enteric pathogens, compared ",
+            "journal": "Gut pathogens",
+            "year": "2025",
+            "authors": [
+              "Kietsiri Paksathorn",
+              "Sornsakrin Siriporn",
+              "Nou Samon",
+              "Oransathid Wilawan",
+              "Peerapongpaisarn Dutsadee"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40405224/"
+          },
+          {
+            "pmid": "37275268",
+            "title": "Genomic Analysis and Antimicrobial Resistance of Campylobacter jejuni Isolated from Diarrheal Patients - Beijing Municipality, China, 2019-2021.",
+            "abstract": "Campylobacter jejuni (C. jejuni) is the leading cause of human bacterial gastroenteritis worldwide and has a major impact on global public health. The objective of the present study was to conduct whole genome sequencing (WGS) to determine the genetic diversity, virulence factors, and determinants of antimicrobial resistance of C. jejuni during a 3-year surveillance period in Beijing, China.",
+            "journal": "China CDC weekly",
+            "year": "2023",
+            "authors": [
+              "Zhang Daitao",
+              "Zhang Xin",
+              "Lyu Bing",
+              "Tian Yi",
+              "Huang Ying"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37275268/"
+          },
+          {
+            "pmid": "25399653",
+            "title": "Treatment of drug-resistant Shigella infections.",
+            "abstract": "Since the introduction of sulfonamides in the late 1930s, selective pressure and the widespread dissemination of mobile genetic elements conferring antimicrobial resistance have forced clinicians to seek successive agents for the treatment of multidrug-resistant shigellosis. Over the decades, the principal antibiotics used to treat Shigella infections have included tetracycline, chloramphenicol, ampicillin, trimethoprim-sulfamethoxazole, and nalidixic acid. Presently, ciprofloxacin, azithromycin, and ceftriaxone serve as the mainstays of treatment, although growing evidence has documented decreased susceptibility or full resistance to these agents in some regions. With diminishing pharmaceutical options available, there is an enhanced need for preventive measures in the form of improved sanitation and hygiene standards, strict use of currently effective agents, and a safe and effective licensed vaccine.",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2015",
+            "authors": [
+              "Klontz Karl C",
+              "Singh Nalini"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Drug Resistance, Multiple, Bacterial",
+              "Dysentery, Bacillary",
+              "Humans",
+              "Shigella"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25399653/"
+          },
+          {
+            "pmid": "7872452",
+            "title": "Diarrheal disease among military personnel during Operation Restore Hope, Somalia, 1992-1993.",
+            "abstract": "The potential for widespread diarrheal disease was regarded as a substantial threat to U.S. troops participating in the early phases of Operation Restore Hope in Somalia. Outpatient surveillance of 20,859 U.S. troops deployed during the first eight weeks, however, indicated that a mean of only 0.8% (range 0.5-1.2%) of personnel sought care for diarrhea each week, and in three epidemiologic surveys, < 3% of troops reported experiencing a diarrheal illness per week. Despite these low overall attack rates, diarrhea accounted for 16% of 381 hospital admissions and 20% of 245 patients admitted with a temperature > or = 38.5 degrees C. Sixty-one specimens were obtained from inpatients and 52 were obtained from outpatients. Shigella sp. were isolated from 33%, enterotoxigenic Escherichia coli from 16%, Giardia lamblia from 4%, and rotavirus from 1% of 113 stool samples obtained from inpatient (61) and outpatient (52) troops with diarrhea. Bacterial isolates obtained in Somalia were resistant ",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "1995",
+            "authors": [
+              "Sharp T W",
+              "Thornton S A",
+              "Wallace M R",
+              "Defraites R F",
+              "Sanchez J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Diarrhea",
+              "Disease Outbreaks",
+              "Dysentery, Bacillary",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Feces",
+              "Gastroenteritis",
+              "Humans",
+              "Military Personnel"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7872452/"
+          },
+          {
+            "pmid": "31913705",
+            "title": "Prevalence, Antimicrobial Resistance, and Pathogenic Potential of Enterotoxigenic and Enteropathogenic Escherichia coli Associated with Acute Diarrheal Patients in Tangail, Bangladesh.",
+            "abstract": "In this study, the prevalence and antimicrobial resistance of enterotoxigenic Escherichia coli (ETEC) and enteropathogenic Escherichia coli (EPEC) were investigated. Altogether 100 stool samples were collected from diarrheal patients attending the Sheikh Hasina Medical College and Hospital, Tangail, Bangladesh, during the period from March 1 to May 30, 2018. In vivo pathogenic potential of ETEC and EPEC using a Caenorhabditis elegans infection model was investigated. Among 100 diarrheal patients, 31% were positive for both ETEC and EPEC strains, 23% were lt positive for ETEC strains, and 8% were bfpA positive for EPEC strains. It was detected that 82.60%, 65.21%, 73.91%, 78.26%, 47.82%, 60.86%, and 47.82% of ETEC strains were resistant to amoxicillin-clavulanic acid (AMC), tetracycline (TE), nalidixic acid (NA), azithromycin, ciprofloxacin, ampicillin (AMP), and erythromycin (E), respectively. Whereas it was detected that 87.5% strains were resistant to AMC, AMP, and E, 75% were resist",
+            "journal": "Foodborne pathogens and disease",
+            "year": "2020",
+            "authors": [
+              "Rahman Md Masuder",
+              "Ahmed Parvez",
+              "Kar Antora",
+              "Sakib Nazmus",
+              "Shibly Abu Zaffar"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bangladesh",
+              "Caenorhabditis elegans",
+              "Diarrhea",
+              "Drug Resistance, Multiple, Bacterial",
+              "Enteropathogenic Escherichia coli",
+              "Enterotoxigenic Escherichia coli",
+              "Escherichia coli Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31913705/"
+          },
+          {
+            "pmid": "31069372",
+            "title": "A systematic review and meta-analysis on the epidemiology of antibiotic resistance of Vibrio cholerae in Iran.",
+            "abstract": "Cholera, an acute diarrheal disease caused by Vibrio cholerae (V. cholerae), is an endemic disease and a major public health problem in Iran. Antibiotic therapy can decrease duration of the disease, transmission of infection and contamination of the environment. Considering different pattern of V. cholerae antibiotic resistance around the world, the aim of the current systematic review and meta-analysis was to evaluate the prevalence of antibiotic resistance of V. cholerae in Iran.",
+            "journal": "Annali di igiene : medicina preventiva e di comunita",
+            "year": "2019",
+            "authors": [
+              "Yousefi A",
+              "Vaez H",
+              "Sahebkar A",
+              "Khademi F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cholera",
+              "Drug Resistance, Microbial",
+              "Drug Resistance, Multiple, Bacterial",
+              "Humans",
+              "Iran",
+              "Vibrio cholerae",
+              "Vibrio cholerae O1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31069372/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "acute contagious conjunctivitis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31788487",
+            "title": "Bacteriology and Antimicrobial Susceptibility Patterns of Childhood Acute Bacterial Conjunctivitis in Western Greece.",
+            "abstract": "Acute bacterial conjunctivitis is a common, highly contagious infection in children and is usually treated empirically with broad spectrum topical antibiotics. In the current study we investigated bacteriology and antibiotic susceptibility patterns in childhood acute bacterial conjunctivitis in Western Greece. We conducted a retrospective analysis of presumed acute bacterial conjunctivitis cases in ''Karamandaneio'' Pediatric General Hospital of Patras, Western Greece, between February 1, 2013 and January 31, 2018. Specimens from the lower conjunctiva fornix were isolated from 191 cases and outcomes were analyzed to identify the pathogenic bacteria of acute bacterial conjunctivitis and their corresponding antibiotic susceptibility patterns. Patients were divided into 3 groups; Group A included neonates under 28 days of life, Group B children from 1 month to 2 years and Group C from 2 years to 14 years. Results revealed that Staphylococcus spp., Haemophilus spp. and Streptococcus spp. w",
+            "journal": "Medical hypothesis, discovery & innovation ophthalmology journal",
+            "year": "2019",
+            "authors": [
+              "Oikonomakou Maria-Zoi",
+              "Makri Olga E",
+              "Panoutsou Eleni",
+              "Kagkelaris Konstantinos",
+              "Plotas Panagiotis"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31788487/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "escherichia coli infection",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04575493",
+            "title": "Clinical Efficacy of Crano-cure inTreatment of Urinary Tract Infection",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2020-10-05",
+            "completion_date": "2020-11-30",
+            "country": "Pakistan",
+            "enrollment": 205,
+            "brief_summary": "The main objectives of the study are; to determine the efficacy of test drug Crano-cure for the treatment of urinary tract infection, to compare the effectiveness of Polyherbal formulation Crano-cure vs. Standard allopathic. Antibacterial/ antibiotic (Ciprofloxacin 500 mg) in treatment of UTI, to assess the safety of trial drug.\n\nResearch literatures have revealed that Tribulus terrestris (Gokhro), Vaccinium macrocarpon (karonda), Cuminum cyminum (Zeera sufaid), Rheum emodi (Revand chini) and Pi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 15 to 60 years with symptomatic acute urinary tract infection.\n\n  * Willing to participate in the study\n  * Non-pregnant adult females.\n  * Clinical signs and symptoms of a UTI (e.g., dysuria, frequency, urgency to urinate, Burning sensations during urination, Hematuria, s",
+            "endpoints": [
+              "Urine Culture Examination"
+            ],
+            "sponsor": "Islamia University of Bahawalpur",
+            "url": "https://clinicaltrials.gov/study/NCT04575493"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01349738",
+            "title": "Asymptomatic Bacteriuria & Risk of Urinary Tract Infection in Renal Transplants",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2011-05",
+            "completion_date": "2013-05",
+            "country": "United States",
+            "enrollment": 200,
+            "brief_summary": "The goal of this research program is to understand the natural history of asymptomatic bacteriuria in the renal transplant patients, to determine if screening for asymptomatic bacteriuria and identification of key host characteristics and virulence factors present on uropathogenic bacteria identifies a sub-population of patients with asymptomatic bacteriuria that are at risk to develop symptomatic urinary tract infection. Ultimately, the knowledge obtained from this study will prevent inappropri",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* must be 18 years old or older,\n* had a kidney transplant,\n* be at least 30 days post operation.\n\nExclusion Criteria:\n\n* Pregnant women, those planning to become pregnant or nursing mothers;\n* Renal transplant patients less than 30 days post transplant; Use of an indwelling Fol",
+            "endpoints": [
+              "Prevalence of Asymptomatic Bacteriuria and Risk of Developing Symptomatic Urinary Tract Infections or Renal Allograft Injury in Renal Transplant Patients"
+            ],
+            "sponsor": "Rice, James C., M.D.",
+            "url": "https://clinicaltrials.gov/study/NCT01349738"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06080698",
+            "title": "Gram-Negative Bloodstream Infection Oral Antibiotic Therapy Trial",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2024-02-22",
+            "completion_date": "2027-06-30",
+            "country": "United States",
+            "enrollment": 1204,
+            "brief_summary": "The Gram-negative bloodstream infection Oral Antibiotic Therapy trial (The GOAT Trial) is a multi-center, randomized clinical trial that hypothesizes that early transition to oral antibiotic therapy for the treatment of Gram-Negative BloodStream Infection (GN-BSI) is as effective but safer than remaining on intravenous (IV) antibiotic therapy for the duration of treatment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult (≥ 18 years) at the time of screening\n* Hospitalized\n* Identification of at least one Gram-negative organism in a blood culture\n* Capable of providing written informed consent (includes through a legally authorized representative)\n* Willingness to adhere to assigned stud",
+            "endpoints": [
+              "Desirability of Outcome Ranking (DOOR)"
+            ],
+            "sponsor": "Johns Hopkins University",
+            "url": "https://clinicaltrials.gov/study/NCT06080698"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02555059",
+            "title": "Special Drug Use Investigation of Ciproxan® Injection in Pediatrics",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2016-07-15",
+            "completion_date": "2019-06-13",
+            "country": "Japan",
+            "enrollment": 48,
+            "brief_summary": "The objective in this study is collecting post-marketing information on the safety and efficacy of Ciproxan injection under the routine clinical practice.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male pediatric patients (less than 15 years old) with a diagnosis of complicated cystitis, pyelonephritis, cystic fibrosis, or anthrax infected by ciprofloxacin-active microorganisms, i.e. Bacillus anthracis, Escherichia coli, Pseudomonas aeruginosa.\n* Patients for ",
+            "endpoints": [
+              "Number of musculoskeletal adverse events."
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT02555059"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06692907",
+            "title": "A Phase 2b, Double-Blind, Placebo Controlled Trial to Evaluate the Efficacy of Intramuscularly Administered CssBA+dmLT Against Moderate-severe Diarrhea in a Controlled Human Infection Model With Enterotoxigenic Escherichia Coli (ETEC) Strain B7A in Healthy Adults",
+            "phase": "PHASE2",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2025-03-31",
+            "completion_date": "2026-08-20",
+            "country": "United States",
+            "enrollment": 72,
+            "brief_summary": "The study is designed to evaluate the safety, immunogenicity, and efficacy of the intramuscular administration of a CS6 based vaccine (CssBA) against ETEC co-administered with double mutant labile toxin (dmLT) in preventing moderate-severe diarrhea (MSD) following challenge with ETEC strain B7A in healthy adults. Approximately 72 adult participants, divided into 4 cohorts of 18, will be randomized 1:1 to receive vaccine (45 micrograms CssBA with 0.5 micrograms dmLT) or placebo (normal saline) on",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Non-pregnant, non-breast-feeding adults, age 18 to 49 years (inclusive) at the time of enrollment.\n2. Willing and able to sign and date informed consent document prior to study procedures.\n3. Stated willingness to be available for all study visits and comply with all trial pr",
+            "endpoints": [
+              "Number and percentage of CssBA+dmLT injected participants experiencing local solicited AEs",
+              "Number and percentage of CssBA+dmLT injected participants experiencing MAAEs",
+              "Number and percentage of CssBA+dmLT injected participants experiencing SAEs"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT06692907"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06093191",
+            "title": "Efficacy and Safety of tobRamycin Inhalation Solution for Pseudomonas AeruginoSa Eradication in Bronchiectasis (ERASE): a Multi-center, 2×2 Factorial Randomized, Double-blind, Placebo-controlled Trial",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2023-09-25",
+            "completion_date": "2025-12-30",
+            "country": "China",
+            "enrollment": 364,
+            "brief_summary": "People with bronchiectasis are prone to Pseudomonas aeruginosa (PA) infections, which can become chronic and lead to increased death rates and disease severity. Studies from cystic fibrosis suggest that eradication therapy aimed at PA can successfully transition patients to a culture-negative status, providing long-term benefits. Current guidelines for managing bronchiectasis in adults recommend eradicating PA when it is first or newly isolated; however, there is a lack of randomized controlled ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, aged 18 years and 80 years at screening\n2. Signed and dated written informed consent prior to admission to the study in accordance with local legislation.\n3. Clinical history consistent with bronchiectasis (cough, chronic sputum production and/or recurrent res",
+            "endpoints": [
+              "The proportion of patients successfully eradicating PA in each group by the end of the study, defined as a negative sputum culture of PA at both 24 weeks and 36 weeks."
+            ],
+            "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+            "url": "https://clinicaltrials.gov/study/NCT06093191"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02443285",
+            "title": "Is Spontaneous Bacterial Peritonitis Still Responding to 3rd Generation Cephalosporins?",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2015-01",
+            "completion_date": "2019-12",
+            "country": "Egypt",
+            "enrollment": 100,
+            "brief_summary": "Current European and most other international guidelines recommend the use of a third-generation cephalosporin as the first choice, or amoxicillin-clavulanate acid or fluoroquinolones as an alternative choice .\n\nThese recommendations are based mainly on clinical trials that were very often conducted a decade or more ago, and on the assumption that E. coli would be involved in nearly half of the cases.\n\nThe microbial etiology of SBP remains relatively constant; however, the antibiotic resistance ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and SBP\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections",
+            "endpoints": [
+              "number of patients with clearence of infection"
+            ],
+            "sponsor": "Tanta University",
+            "url": "https://clinicaltrials.gov/study/NCT02443285"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07236944",
+            "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2025-12",
+            "completion_date": "2029-03",
+            "country": "Norway, Sweden",
+            "enrollment": 560,
+            "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+            "endpoints": [
+              "Clinical response (primary endpoint)."
+            ],
+            "sponsor": "Uppsala University",
+            "url": "https://clinicaltrials.gov/study/NCT07236944"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05002413",
+            "title": "NANO-RAST: Nanomotion-based Resistell AST to Determine the Antibiotic Susceptibility of Gram-negative Bacteria Causing Bacteremia and/or Sepsis",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2021-06-18",
+            "completion_date": "2024-02-19",
+            "country": "Switzerland",
+            "enrollment": 300,
+            "brief_summary": "Blood culture samples from bacteremia patients positive for Gram-negative bacteria will be tested for antibacterial susceptibility using Resistell Phenotech device. The results will be compared with current AST gold standard tests to calculate sensitivity, specificity, and accuracy of Resistell Phenotech device.",
+            "eligibility_criteria": "Inclusion Criteria: The patients meeting all the following criteria can be recruited in the study:\n\n* patients over the age of 18 years who sign, or their relatives / legal representatives sign the informed consent form;\n* patients with bacteremia considered to be due to a pathogenic strain;\n* patie",
+            "endpoints": [
+              "Sensitivity of Resistell AST"
+            ],
+            "sponsor": "Resistell AG",
+            "url": "https://clinicaltrials.gov/study/NCT05002413"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05293483",
+            "title": "The Impact of Hospital Care for COVID-19 on the Prevalence of Multidrug-resistant Microorganisms Among Patients Compared to Non-COVID-19 Hospital Care in Limited-resource Hospitals in Indonesia",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2022-03-07",
+            "completion_date": "2023-03-07",
+            "country": "Indonesia",
+            "enrollment": 1110,
+            "brief_summary": "The effect of the COVID-19 pandemic on the emergence and spread of antibiotic-resistant bacteria is largely unknown, especially in low-resource settings. We aim to investigate the prevalence and relatedness of multidrug-resistant bacteria among patients in both COVID-19 and non-COVID-19 wards in two hospitals in Indonesia. Bacterial isolates will be collected from clinical sample and by screening of patients at discharge followed by 30 days after discharge. Aspects of hospital care that may be d",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All adult patients discharged from Covid wards and non Covid wards (ICU and internal medicine wards)\n\nExclusion Criteria:\n\n* Patients discharged within 48 hours of admission\n* Patients who either live outside the city of Malang or their address is unclear",
+            "endpoints": [
+              "Multidrug resistant bacteria prevalence",
+              "Multidrug resistant bacteria transmission",
+              "Hand Hygiene and Personal Protective Equipment Use Compliance"
+            ],
+            "sponsor": "Erasmus Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT05293483"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00449735",
+            "title": "Quinolone Resistance in Bloodstream Isolates of Escherichia Coli",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2007-03",
+            "completion_date": "2017-06",
+            "country": "United States",
+            "enrollment": 500,
+            "brief_summary": "This proposed study aims to document the risk factors for quinolone resistance in bloodstream isolates of E. coli. Additionally, the adequacy of empiric antibiotic therapy for E. coli bloodstream infections will be assessed. Finally, outcome will be recorded - this is all-cause mortality at 28 days from the time of the first positive blood culture. Hypothesis: Ciprofloxacin resistant strains are associated with admission from nursing home and with prior quinolone use.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nClinical information is collected by chart review of \"case\" and \"control\" patients.\n\nA \"case A\" patient is defined as follows:\n\n* One or more blood cultures are positive for E. coli. The organism is ciprofloxacin resistant.\n\nA \"case B\" patient is defined as follows:\n\n* One or mo",
+            "endpoints": [
+              "dead or alive"
+            ],
+            "sponsor": "University of Pittsburgh",
+            "url": "https://clinicaltrials.gov/study/NCT00449735"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00930982",
+            "title": "Randomized, Placebo-controlled, Double-blind, Multi-center Study to Evaluate the Safety and Efficacy of Ciprofloxacin Inhale Compared to Placebo in Patients With Non-cystic Fibrosis Bronchiectasis",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-06",
+            "completion_date": "2010-09",
+            "country": "Spain, Germany, Australia, United Kingdom, Sweden, United States",
+            "enrollment": 124,
+            "brief_summary": "The purpose of this study is to find out if bacterial load in the airways can be reduced after inhalation of ciprofloxacin for 28 days.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a proven and documented diagnosis of non-cystic fibrosis idiopathic or post pneumonic bronchiectasis\n* Stable pulmonary status and stable regimen of standard treatment at least for the past 30 days\n\nExclusion Criteria:\n\n* Forced Expiratory Volume 1 \\< 35% or \\> 8",
+            "endpoints": [
+              "Change From Baseline in Total Bacterial Load in the Sputum at End of Treatment (Day 29)."
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00930982"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02247960",
+            "title": "Antibiotic Prophylaxis for Urinary Catheter Removal After Radical Prostatectomy",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2014-07",
+            "completion_date": "2016-05",
+            "country": "United States",
+            "enrollment": 175,
+            "brief_summary": "The aim of this study is to determine whether antibiotics prophylaxis at the time of urinary catheter removal decreases the number of symptomatic urinary tract infections in patients after radical prostatectomy. In addition, the investigators aim to determine whether antibiotic prophylaxis is potentially harmful to patients (e.g. adverse reactions from antibiotic use, resistant bacteria in the urine, Clostridium difficile infections etc.). The investigators also aim to identify specific populati",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects will include patients undergoing radical prostatectomy for prostate cancer. Subjects will be randomized into control or treatment group.\n\nExclusion Criteria:\n\n* Subjects with a history of adverse reaction to ciprofloxacin, or any other quinolone will be excluded. Subj",
+            "endpoints": [
+              "Number of Participants With a Positive Urinary Tract Infection"
+            ],
+            "sponsor": "University of Rochester",
+            "url": "https://clinicaltrials.gov/study/NCT02247960"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06252428",
+            "title": "Detection of Biofilm Among Uropathogenic Escherichia Coli Clinical Isolates in Suez Canal University Hospitals",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2022-12-20",
+            "completion_date": "2024-02-20",
+            "country": "Egypt",
+            "enrollment": 47,
+            "brief_summary": "This descriptive cross-sectional study will beconducted in Suez Canal University Hospitals (SCUHs) in Ismailia, Egypt. The study aims to detect Escherichia coli biofilm producers to improve prognosis and treatment and reduce morbidity and mortality rates due to this infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients showing criteria for Symptomatic Urinary Tract Infection (SUTI) according to Center of Diseases and Control criteria (CDC) (CDC, 2022).\n\nPatient has at least one of the following signs or symptoms:\n\n* fever (\\>38.0°C)\n* suprapubic tenderness\n* costovertebral angle pai",
+            "endpoints": [
+              "antibiotic resistance",
+              "Congo red Agar method (CRA)",
+              "Modified tissue culture plate method (MTCP)"
+            ],
+            "sponsor": "Suez Canal University",
+            "url": "https://clinicaltrials.gov/study/NCT06252428"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02463721",
+            "title": "Identification of Ascitic Fluid Bacterial Pathogens in Spontaneous Bacterial Peritonitis in Nile Delta and Its Impact on Clinical Outcome of These Patients",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2015-01",
+            "completion_date": "2019-12",
+            "country": "Egypt",
+            "enrollment": 100,
+            "brief_summary": "Several studies have pointed out changes in the epidemiology of the causative bacteria in SBP and bacterascites and in their susceptibility to antibiotics. In particular, the development of beta-lactamase enzymes, which confer resistance to clavulanate, or extended spectrum beta-lactamases in Escherichia coli. The potential emergence of enterococci, methicillin-resistant S. aureus, or fluoroquinolone-resistant bacteria, following norfloxacin prophylaxis, is also a cause of concern since they may",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and suspected to have SBP.\n* ascitic fluid PMNL ≥ 250 cells/mm3\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections\n* patients started empirical antibiotics without prior culture.",
+            "endpoints": [
+              "identification of SBP bacterial pathogens through gram stain or other specific stains"
+            ],
+            "sponsor": "Tanta University",
+            "url": "https://clinicaltrials.gov/study/NCT02463721"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03969758",
+            "title": "Efficacy of Empirical Ciprofloxacin Plus Metronidazole and Cefixime Plus Metronidazole Therapy for the Treatment of Liver Abscess: A Randomised Controlled Clinical Trial",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2019-07",
+            "completion_date": "2020-05",
+            "country": "India",
+            "enrollment": 140,
+            "brief_summary": "Liver abscess is purulent collections in the liver parenchyma that result from microbial infection spread to the liver through the biliary tree, hepatic or portal vein and by extension of adjacent infection or as a result of trauma. Liver abscesses are most commonly pyogenic followed by amoebic and rarely tuberculous or fungal in immunocompromised patients. In the developing country amoebic liver abscess is more frequent than the developed country but secondary bacterial infection of amoebic liv",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Irrespective of gender\n* Age ≥ 18 years\n* Symptomatic patients of liver abscess confirmed with radiology imaging, either by ultrasonography (USG) or computed tomographgy (CT) scan\n\nExclusion Criteria:\n\n* Past history of liver abscess\n* Chronic kidney disease (CKD)\n* History of",
+            "endpoints": [
+              "Clinical cure"
+            ],
+            "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+            "url": "https://clinicaltrials.gov/study/NCT03969758"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00654108",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled Dose Escalation, Inpatient Phase I Study to Determine the Safety and Immunogenicity of a Single Oral Dose of a Combined Live, Attenuated, Enterotoxigenic Escherichia Coli (ETEC)-Cholera Vaccine (Peru-15 pCTB) in Healthy Adult Subjects",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2008-06-02",
+            "completion_date": "2010-12-31",
+            "country": "United States",
+            "enrollment": 62,
+            "brief_summary": "Enterotoxigenic Escherichia (E.) coli (ETEC) bacteria are the main cause of traveler's diarrhea and are significant pathogens affecting children and elderly individuals of developing countries. The purpose of the study is to determine the safety of the ETEC-Cholera vaccine and the body's ability to protect itself against ETEC and cholera infection after receiving the vaccine. The study will enroll a total of 64 healthy volunteers, 18 to 45 years old at the Cincinnati Children's Hospital. The stu",
+            "eligibility_criteria": "Inclusion Criteria:\n\n-Male or female age 18-45, inclusive. -Healthy as judged by the Principal Investigator (PI) and determined by medical history, physical examination, vital signs, screening laboratories, and medication history. -Capable of understanding, consenting and complying with the entire s",
+            "endpoints": [
+              "Adverse Events (AEs) will be graded according to standardized criteria.",
+              "Safety: physical examinations, interim medical history, solicited symptoms/subject memory aid, and laboratory evaluations."
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00654108"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "30938219",
+            "title": "Ciprofloxacin, amoxicillin, and aminoglycosides stimulate genetic and phenotypic changes in uropathogenic Escherichia coli strains.",
+            "abstract": "Antibiotic therapy and its consequences in bacterial and human aspects are widely investigated. Despite this, the emergence of new multidrug resistant bacteria is still a current problem. The scope of our work included the observation of changes among uropathogenic Escherichia coli strains after the treatment with a subinhibitory concentration of different antibiotics. The sensitive strains with or without virulence factors were incubated with amoxicillin, ciprofloxacin, gentamycin, or tobramycin. After each passage, the E. coli derivatives were compared to their wild types based on their susceptibility profiles, virulence genes, biofilm formations and the fingerprint profiles of PCR products amplified with using the (N)(6)(CGG)(4) primer. It turned out that antibiotics caused significant changes in the repertoire of bacterial virulence and biofilm formation, corresponding to acquired cross-resistance. The genomic changes among the studied bacteria were reflected in the changed profile",
+            "journal": "Virulence",
+            "year": "2019",
+            "authors": [
+              "Adamus-Białek Wioletta",
+              "Wawszczak Monika",
+              "Arabski Michał",
+              "Majchrzak Michał",
+              "Gulba Martyna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Escherichia coli Infections",
+              "Escherichia coli Proteins",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Phenotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30938219/"
+          },
+          {
+            "pmid": "38778123",
+            "title": "Quantifying combined effects of colistin and ciprofloxacin against Escherichia coli in an in silico pharmacokinetic-pharmacodynamic model.",
+            "abstract": "Co-administering a low dose of colistin (CST) with ciprofloxacin (CIP) may improve the antibacterial effect against resistant Escherichia coli, offering an acceptable benefit-risk balance. This study aimed to quantify the interaction between ciprofloxacin and colistin in an in silico pharmacokinetic-pharmacodynamic model from in vitro static time-kill experiments (using strains with minimum inhibitory concentrations, MICCIP 0.023-1 mg/L and MICCST 0.5-0.75 mg/L). It was also sought to demonstrate an approach of simulating concentrations at the site of infection with population pharmacokinetic and whole-body physiologically based pharmacokinetic models to explore the clinical value of the combination when facing more resistant strains (using extrapolated strains with lower susceptibility). The combined effect in the final model was described as the sum of individual drug effects with a change in drug potency: for ciprofloxacin, concentration at half maximum killing rate (EC50) in combin",
+            "journal": "Scientific reports",
+            "year": "2024",
+            "authors": [
+              "Zhao Chenyan",
+              "Kristoffersson Anders N",
+              "Khan David D",
+              "Lagerbäck Pernilla",
+              "Lustig Ulrika"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ciprofloxacin",
+              "Colistin",
+              "Escherichia coli",
+              "Anti-Bacterial Agents",
+              "Computer Simulation",
+              "Microbial Sensitivity Tests",
+              "Humans",
+              "Escherichia coli Infections",
+              "Drug Therapy, Combination",
+              "Models, Biological"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38778123/"
+          },
+          {
+            "pmid": "37657231",
+            "title": "Remarkable antibiofilm activity of ciprofloxacin, cefoxitin, and tobramycin, by themselves or in combination, against enteroaggregative Escherichia coli in vitro.",
+            "abstract": "Enteroaggregative Escherichia coli (EAEC), a biofilm forming pathogen, causes acute and persistent diarrhea worldwide, requiring antimicrobial therapy in severe or persistent cases. To determine the susceptibility of EAEC biofilm to antimicrobials, as single-agent or combined therapy, biofilm formation was investigated using EAEC clinical strains via peg lid. Of the 78 initially analyzed strains, 35 could form biofilms, 15 (42.9%; 15/35) were resistant to at least 1 tested antimicrobial and 20 (57.1%) were susceptible to all of them in the planktonic form. The biofilms of these susceptible strains were challenged against chosen antimicrobials, and displayed resistance to tetracycline, trimethoprim-sulfamethoxazole, chloramphenicol, ampicillin, cefotaxime, ceftriaxone (85%-100%), tobramycin (25%), cefoxitin (20%), and ciprofloxacin (5%). Moreover, ciprofloxacin combined with ampicillin, and tobramycin eradicated the biofilm of 2 of the 4 tested strains. Ciprofloxacin, cefoxitin, and tob",
+            "journal": "Diagnostic microbiology and infectious disease",
+            "year": "2023",
+            "authors": [
+              "Gastaldi Guerrieri Caroline",
+              "Teixeira Gonçalves Mariana",
+              "Ferreira da Silva Anazi",
+              "Souza Dos Santos André Luis",
+              "Dos Santos Kênia Valéria"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Escherichia coli",
+              "Cefoxitin",
+              "Escherichia coli Infections",
+              "Ciprofloxacin",
+              "Tobramycin",
+              "Diarrhea",
+              "Anti-Bacterial Agents",
+              "Biofilms",
+              "Ampicillin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37657231/"
+          },
+          {
+            "pmid": "27460583",
+            "title": "Characterization of Ciprofloxacin-Resistant and Ciprofloxacin-Susceptible Uropathogenic Escherichia coli Obtained from Patients with Gynecological Cancer.",
+            "abstract": "The objective of this work was to assess the genetic characteristics of uropathogenic Escherichia coli, ciprofloxacin resistance or susceptibility, obtained from patients with gynecological cancer and urinary tract infection (UTI). Seventy-seven E. coli ciprofloxacin-resistant isolates and 38 ciprofloxacin-susceptible were analyzed by polymerase chain reaction (PCR) to determine the phylogenetic groups, virulence factors as iucC, fyuA, hlyC, cnf1 genes, and pks pathogenicity island. The presence of genes related to ciprofloxacin resistance such as qnrA, qnrB, qnrS, aac(6')-Ib-cr, and qepA, and the sequencing of DNA gyrase genes and topoisomerase IV were determined. The genetic profile of the isolates was determined by pulsed-field gel electrophoresis (PFGE). Statistical analysis was performed using Fisher's exact test and Chi-square test. Phylogenetic group B2 was the most prevalent although a great genetic diversity was observed by PFGE. Only genes associated to siderophores were foun",
+            "journal": "Current microbiology",
+            "year": "2016",
+            "authors": [
+              "Capett Muniqui S",
+              "Vollú-Silva Patricia",
+              "Melchiades Vanessa A",
+              "Bokehi Luciana C",
+              "Araújo Fernanda M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli Infections",
+              "Escherichia coli Proteins",
+              "Female",
+              "Genital Neoplasms, Female",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Phylogeny"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27460583/"
+          },
+          {
+            "pmid": "34570646",
+            "title": "Uropathogenic Escherichia coli Shows Antibiotic Tolerance and Growth Heterogeneity in an In Vitro Model of Intracellular Infection.",
+            "abstract": "Uropathogenic Escherichia coli (UPEC), the major causative agent of urinary tract infections, can invade different types of host cells. To compare the pharmacodynamic properties of antibiotics against intra- and extracellular UPEC, an in vitro model of intracellular infection was established in J774 mouse macrophages infected by the UPEC strain CFT073. We tested antibiotics commonly prescribed against urinary tract infections (gentamicin, ampicillin, nitrofurantoin, trimethoprim, sulfamethoxazole, and ciprofloxacin) and the investigational fluoroquinolone finafloxacin. The metabolic activity of individual bacteria was assessed by expressing the fluorescent reporter protein TIMERbac within CFT073. Concentration-response experiments revealed that all tested antibiotics were much less effective against intracellular bacteria than extracellular ones. Most antibiotics, except fluoroquinolones, were unable to reach a bactericidal effect intracellularly at clinically achievable concentrations",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2021",
+            "authors": [
+              "Kerkez Ivana",
+              "Tulkens Paul M",
+              "Tenson Tanel",
+              "Van Bambeke Françoise",
+              "Putrinš Marta"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Escherichia coli Infections",
+              "Mice",
+              "Urinary Tract Infections",
+              "Uropathogenic Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34570646/"
+          },
+          {
+            "pmid": "35729017",
+            "title": "Investigation of the effects of antimicrobial and anti-biofilm peptide IDR1018 and chitosan nanoparticles on ciprofloxacin-resistant Escherichia coli.",
+            "abstract": "Peptide IDR1018 and chitosan nanoparticles (CNs) showed antimicrobial and anti-biofilm activity against bacteria. In this study, the antimicrobial effects of peptide IDR1018 and CNs were evaluated on 50 clinical isolates of uropathogenic Escherichia coli (UPEC) resistant to ciprofloxacin. Ion gelation method was applied for CNs synthesis. Scanning electron microscope (SEM) and dynamic light scattering (DLS) were utilized to evaluate the nanoparticles. Antimicrobial and synergistic activity of peptide IDR1018 and CNs with ciprofloxacin were evaluated by microtiter broth dilution method. The checkerboard test was used to investigate the antimicrobial effects of IDR1018 and CNS in combination with ciprofloxacin. Anti-biofilm effect of ciprofloxacin, peptide IDR1018, and CNs was evaluated using crystal violet method. Fourteen (28%), 21 (42%), and 15 (30%) of clinical isolates produced strong, moderate, and weak biofilm, respectively. The CNs were spherical and uniform under electron micros",
+            "journal": "Journal of basic microbiology",
+            "year": "2022",
+            "authors": [
+              "Haji Hossein Tabrizi Aida",
+              "Habibi Mehri",
+              "Foroohi Fatemeh",
+              "Mohammadian Taher",
+              "Asadi Karam Mohammad Reza"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antimicrobial Cationic Peptides",
+              "Biofilms",
+              "Chitosan",
+              "Ciprofloxacin",
+              "Escherichia coli Infections",
+              "Gentian Violet",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Nanoparticles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35729017/"
+          },
+          {
+            "pmid": "35512736",
+            "title": "Genome-Wide Screening and Characterization of Genes Involved in Response to High Dose of Ciprofloxacin in Escherichia coli.",
+            "abstract": "The global emergence of antibiotic resistance, especially in Gram-negative bacteria, is an urgent threat to public health. Inevitably, considering its extensive use and misuse, resistance toward ciprofloxacin has increased in almost all clinically relevant bacteria. This study aimed to investigate the transcriptome changes at a high concentration of ciprofloxacin in Escherichia coli. In brief, 1,418 differentially expressed genes (DEGs) were identified, from which 773 genes were upregulated by ciprofloxacin, whereas 651 genes were downregulated. Enriched biological pathways reflected the upregulation of biological processes such as DNA damage and repair system, toxin/antitoxin systems, formaldehyde detoxification system. With kyoto encyclopedia of genes and genomes pathway analysis, higher expressed DEGs were associated with \"LPS biosynthesis,\" \"streptomycin biosynthesis,\" and \"polyketide sugar unit biosynthesis.\" Lower expressed DEGs were associated with \"biosynthesis of amino acids\" ",
+            "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+            "year": "2022",
+            "authors": [
+              "Sun Rui",
+              "Zhao Xianqi",
+              "Meng Qingtai",
+              "Huang Ping",
+              "Zhao Qian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Gene Expression Profiling",
+              "Humans",
+              "Lipopolysaccharides",
+              "Transcriptome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35512736/"
+          },
+          {
+            "pmid": "36113642",
+            "title": "Antimicrobial resistant Escherichia coli in Scottish wild deer: Prevalence and risk factors.",
+            "abstract": "Antimicrobial resistance (AMR) is a recognised threat to global health. Obtaining data on the prevalence of AMR in environmental bacteria is key to understanding drivers and routes of transmission. Here, 325 Shiga toxin negative deer faecal samples-gathered from across the Scottish mainland-were screened for the presence of AMR Escherichia coli and investigated for potential risk factors associated with AMR occurrence. E. coli with resistance to antimicrobials of clinical health concern, including carbapenems and 3rd generation cephalosporins, were targeted. Ninety-nine percent of samples yielded E. coli, and the prevalence of resistant E. coli at the level of faecal samples was 21.8% (n = 71) for tetracycline, 6.5% (n = 21) for cefpodoxime, 0.3% for ciprofloxacin (n = 1), with no recorded resistance to meropenem. Potential risk factors for tetracycline and cefpodoxime resistance were investigated. The presence of broadleaved woodlands was significantly associated with both AMR phenoty",
+            "journal": "Environmental pollution (Barking, Essex : 1987)",
+            "year": "2022",
+            "authors": [
+              "Elsby Derek T",
+              "Zadoks Ruth N",
+              "Boyd Kenneth",
+              "Silva Nuno",
+              "Chase-Topping Margo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Animals",
+              "Horses",
+              "Escherichia coli",
+              "Prevalence",
+              "Meropenem",
+              "Deer",
+              "Escherichia coli Infections",
+              "Anti-Bacterial Agents",
+              "Animals, Wild"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36113642/"
+          },
+          {
+            "pmid": "33075514",
+            "title": "Bacteriophage-antibiotic combinations against ciprofloxacin/ceftriaxone-resistant Escherichia coli in vitro and in an experimental Galleria mellonella model.",
+            "abstract": "Escherichia coli is the most common cause of Gram-negative prosthetic joint infections (PJIs) and ciprofloxacin is the first-line antibiofilm antibiotic. Due to the emergence of fluoroquinolone resistance, management of E. coli PJIs has become challenging and is associated with high treatment failure rates. We evaluated the efficacy of a newly isolated bacteriophage ɸWL-3 as a therapeutic agent in combination with ciprofloxacin, fosfomycin, gentamicin, meropenem or ceftriaxone against biofilm of a ciprofloxacin/ceftriaxone-resistant E. coli strain and the ATCC 25922 reference strain. ɸWL-3 was first characterised in terms of virion morphology, absorption rate, burst size and killing kinetics against both E. coli strains. The tested antibiotics presented high inhibitory concentrations (ranging from 16 to >1024 μg/mL) when tested alone against biofilms. Co-administration of ɸWL-3 with antibiotics improved the antibiotic efficacy against biofilm, especially after staggered exposure, reduc",
+            "journal": "International journal of antimicrobial agents",
+            "year": "2020",
+            "authors": [
+              "Wang Lei",
+              "Tkhilaishvili Tamta",
+              "Bernal Andres Beatriz",
+              "Trampuz Andrej",
+              "Gonzalez Moreno Mercedes"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bacteriophages",
+              "Biofilms",
+              "Ceftriaxone",
+              "Ciprofloxacin",
+              "Combined Modality Therapy",
+              "Disease Models, Animal",
+              "Drug Resistance, Multiple, Bacterial",
+              "Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33075514/"
+          },
+          {
+            "pmid": "26607324",
+            "title": "Ciprofloxacin resistance in community- and hospital-acquired Escherichia coli urinary tract infections: a systematic review and meta-analysis of observational studies.",
+            "abstract": "During the last decade the resistance rate of urinary Escherichia coli (E. coli) to fluoroquinolones such as ciprofloxacin has increased. Systematic reviews of studies investigating ciprofloxacin resistance in community- and hospital-acquired E. coli urinary tract infections (UTI) are absent. This study systematically reviewed the literature and where appropriate, meta-analysed studies investigating ciprofloxacin resistance in community- and hospital-acquired E. coli UTIs.",
+            "journal": "BMC infectious diseases",
+            "year": "2015",
+            "authors": [
+              "Fasugba Oyebola",
+              "Gardner Anne",
+              "Mitchell Brett G",
+              "Mnatzaganian George"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Community-Acquired Infections",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Humans",
+              "Observational Studies as Topic",
+              "Urinary Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26607324/"
+          },
+          {
+            "pmid": "32407399",
+            "title": "Cuminaldehyde potentiates the antimicrobial actions of ciprofloxacin against Staphylococcus aureus and Escherichia coli.",
+            "abstract": "Escherichia coli and Staphylococcus aureus are important agents of urinary tract infections that can often evolve to severe infections. The rise of antibiotic-resistant strains has driven the search for novel therapies to replace the use or act as adjuvants of antibiotics. In this context, plant-derived compounds have been widely investigated. Cuminaldehyde is suggested as the major antimicrobial compound of the cumin seed essential oil. However, this effect is not fully understood. Herein, we investigated the in silico and in vitro activities of cuminaldehyde, as well as its ability to potentiate ciprofloxacin effects against S. aureus and E. coli. In silico analyses were performed by using different computational tools. The PASS online and SwissADME programmes were used for the prediction of biological activities and oral bioavailability of cuminaldehyde. For analysis of the possible toxic effects and the theoretical pharmacokinetic parameters of the compound, the Osiris, SwissADME a",
+            "journal": "PloS one",
+            "year": "2020",
+            "authors": [
+              "Monteiro-Neto Valério",
+              "de Souza Cláudio D",
+              "Gonzaga Laoane F",
+              "da Silveira Bruna C",
+              "Sousa Nágila C F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adjuvants, Pharmaceutic",
+              "Administration, Oral",
+              "Anti-Bacterial Agents",
+              "Benzaldehydes",
+              "Biofilms",
+              "Biological Availability",
+              "Ciprofloxacin",
+              "Computer Simulation",
+              "Cymenes",
+              "Drug Synergism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32407399/"
+          },
+          {
+            "pmid": "35387587",
+            "title": "Characterization of Escherichia coli isolated from urinary tract infection and association between virulence expression and antimicrobial susceptibility.",
+            "abstract": "The capacity of antibiotics to modulate bacterial virulence has raised concerns over the appropriateness of antibiotic therapies, including when dosing strategies fall below sub-therapeutic levels. In this work, we investigated the ability of antibiotics to influence virulence in Escherichia coli isolated from urinary tract infection (UTI).",
+            "journal": "BMC microbiology",
+            "year": "2022",
+            "authors": [
+              "Derakhshan Safoura",
+              "Ahmadi Sanaz",
+              "Ahmadi Erfan",
+              "Nasseri Sherko",
+              "Aghaei Abbas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Ceftriaxone",
+              "Ciprofloxacin",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Hemolysis",
+              "Urinary Tract Infections",
+              "Virulence",
+              "Virulence Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35387587/"
+          },
+          {
+            "pmid": "39795934",
+            "title": "Can α-Mangostin and Photodynamic Therapy Support Ciprofloxacin in the Inactivation of Uropathogenic Escherichia coli and Staphylococcus aureus Strains?",
+            "abstract": "Multidrug-resistant bacteria represent a significant challenge in the treatment of bacterial infections, often leading to therapeutic failures. This issue underlines the need to develop strategies that improve the efficacy of conventional antibiotic therapies. In this study, we aimed to assess whether a plant-derived compound, α-mangostin, and photodynamic therapy (PDT) could enhance the antibacterial activity of ciprofloxacin against uropathogenic strains of Escherichia coli and Staphylococcus aureus. Using nanopore sequencing technology, we confirmed that the clinical strains tested were classified as multidrug-resistant. Digital holotomography (DHT) was used to examine α-mangostin-induced changes in the bacterial cells' penetration by a photosensitizer. A scanning confocal fluorescence microscope was used to visualize photosensitizer penetration into bacterial cells and validate DHT results. A synergistic effect between α-mangostin and ciprofloxacin was observed exclusively in S. au",
+            "journal": "International journal of molecular sciences",
+            "year": "2024",
+            "authors": [
+              "Wojnicz Dorota",
+              "Korzekwa Kamila",
+              "Guźniczak Mateusz",
+              "Wernecki Maciej",
+              "Ulatowska-Jarża Agnieszka"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ciprofloxacin",
+              "Xanthones",
+              "Photochemotherapy",
+              "Staphylococcus aureus",
+              "Uropathogenic Escherichia coli",
+              "Anti-Bacterial Agents",
+              "Photosensitizing Agents",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Escherichia coli Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39795934/"
+          },
+          {
+            "pmid": "33106267",
+            "title": "Ciprofloxacin Pharmacokinetics/Pharmacodynamics against Susceptible and Low-Level Resistant Escherichia coli Isolates in an Experimental Ascending Urinary Tract Infection Model in Mice.",
+            "abstract": "The mouse ascending urinary tract infection model was used to study the pharmacokinetic/pharmacodynamic (PKPD) relationships of the effect of ciprofloxacin in subcutaneous treatment for 3 days with varying doses and dosing intervals against a susceptible Escherichia coli strain (MIC, 0.032 mg/liter). Further, a humanized dose of ciprofloxacin was administered for 3 days against three E. coli strains with low-level resistance, i.e., MICs of 0.06, 0.25, and 1 mg/liter, respectively. Against the susceptible isolate, ciprofloxacin was highly effective in clearing the urine with daily doses from 10 mg/kg, but the dosing regimen had to be divided into at least two doses for optimal effect. Ciprofloxacin could not clear the urine or kidneys for the low-level-resistant strains. PKPD correlations with all strains combined showed that for the AUC24/MIC there was a slightly higher correlation with effect in urine and kidneys (R2, 0.71 and 0.69, respectively) than the %T>MIC (R2, 0.41 and 0.61, re",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2020",
+            "authors": [
+              "Jakobsen Lotte",
+              "Lundberg Carina Vingsbro",
+              "Frimodt-Møller Niels"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Mice",
+              "Microbial Sensitivity Tests",
+              "Urinary Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33106267/"
+          },
+          {
+            "pmid": "38687060",
+            "title": "Could traces of fluoroquinolones in food induce ciprofloxacin resistance in Escherichia coli and Klebsiella pneumoniae? An in vivo study in Galleria mellonella with important implications for maximum residue limits in food.",
+            "abstract": "We hypothesized that the residual concentrations of fluoroquinolones allowed in food (acceptable daily intake-ADIs) could select for ciprofloxacin resistance in our resident microbiota. We developed models of chronic Escherichia coli and Klebsiella pneumoniae infection in Galleria mellonella larvae and exposed them to ADI doses of ciprofloxacin via single dosing and daily dosing regimens. The emergence of ciprofloxacin resistance was assessed via isolation of the target bacteria in selective agar plates. Exposure to as low as one-tenth of the ADI dose of the single and daily dosing regimens of ciprofloxacin resulted in the selection of ciprofloxacin resistance in K. pneumoniae but not E. coli. This resistance was associated with cross-resistance to doxycycline and ceftriaxone. Whole genome sequencing revealed inactivating mutations in the transcription repressors, ramR and rrf2, as well as mutations in gyrA and gyrB. We found that ciprofloxacin doses 10-fold lower than those classified",
+            "journal": "Microbiology spectrum",
+            "year": "2024",
+            "authors": [
+              "Gestels Zina",
+              "Baranchyk Yuliia",
+              "Van den Bossche Dorien",
+              "Laumen Jolein",
+              "Abdellati Said"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Klebsiella pneumoniae",
+              "Animals",
+              "Escherichia coli",
+              "Ciprofloxacin",
+              "Anti-Bacterial Agents",
+              "Fluoroquinolones",
+              "Klebsiella Infections",
+              "Drug Resistance, Bacterial",
+              "Moths",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38687060/"
+          },
+          {
+            "pmid": "32747356",
+            "title": "Escherichia coli Resistance to Fluoroquinolones in Community-Acquired Uncomplicated Urinary Tract Infection in Women: a Systematic Review.",
+            "abstract": "Antibiotic resistance is a threat to public health, and uncomplicated urinary tract infections (uUTIs) are an example of this concern. This systematic review (International Prospective Register of Systematic Reviews [PROSPERO] ID: CRD42020156674) is the first to determine the prevalence of Escherichia coli resistance to fluoroquinolones in women with community-acquired uUTI. PubMed and Embase searches were conducted; 38 studies fulfilled eligibility criteria and were included in the systematic review. Within Europe, ciprofloxacin resistance in E. coli isolates varied between countries and increased in some from 2006 to 2008 and 2014 to 2016, specifically in the United Kingdom (0.5% to 15.3%), Germany (8.7% to 15.1%), and Spain (22.9% to 30.8%), although methodologies and settings were often not comparable. In Asia, there was a substantial increase in ciprofloxacin resistance during 2008 to 2014 from 25% to more than 40%. In North America, resistance to ciprofloxacin also increased betw",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2020",
+            "authors": [
+              "Stapleton Ann E",
+              "Wagenlehner Florian M E",
+              "Mulgirigama Aruni",
+              "Twynholm Monique"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Asia",
+              "Ciprofloxacin",
+              "Community-Acquired Infections",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Europe",
+              "Female",
+              "Fluoroquinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32747356/"
+          },
+          {
+            "pmid": "31665215",
+            "title": "Fluoroquinolone Use and Seasonal Patterns of Ciprofloxacin Resistance in Community-Acquired Urinary Escherichia coli Infection in a Large Urban Center.",
+            "abstract": "Urinary tract infections caused by the bacterium Escherichia coli are among the most frequently encountered infections and are a common reason for antimicrobial prescriptions. Resistance to fluoroquinolone antimicrobial agents, particularly ciprofloxacin, has increased in recent decades. It is intuitive that variation in fluoroquinolone resistance is driven by changes in antimicrobial use, but careful study of this association requires the use of time-series methods. Between April 2010 and December 2014, we studied seasonal variation in resistance to ciprofloxacin, trimethoprim-sulfamethoxazole, and ampicillin in community-acquired urinary E. coli isolates in Montreal, Quebec, Canada. Using dynamic linear models, we investigated whether seasonal variation in resistance could be explained by seasonal variation in community antimicrobial use. We found a positive association between total fluoroquinolone use lagged by 1 and 2 months and the proportion of isolates resistant to ciprofloxaci",
+            "journal": "American journal of epidemiology",
+            "year": "2020",
+            "authors": [
+              "Soucy Jean-Paul R",
+              "Schmidt Alexandra M",
+              "Quach Caroline",
+              "Buckeridge David L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Bacteriuria",
+              "Ciprofloxacin",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31665215/"
+          },
+          {
+            "pmid": "35091053",
+            "title": "Ciprofloxacin resistances rates in Escherichia coli across Canada (CREAC): a longitudinal analysis 2015-2019.",
+            "abstract": "Clinical guidelines recommend empirical fluoroquinolone therapy for urinary tract infections (UTIs) only where local Escherichia coli resistance does not exceed 10%; however, access to local susceptibility data is not uniform across Canada and it is not known which regions meet this threshold. Our objective was to collect susceptibility data from across Canada to evaluate regional trends of E. coli resistance to fluoroquinolones. Antibiogram data were collected retrospectively for the years 2015-2019 from the most local level within each province, typically regional health authorities (RHAs) or local health zones. Antibiogram data were collected from publicly available sources or by directly contacting RHAs or health zones. Susceptibility data were aggregated into regional or population-level data. Antibiograms were collected from 72 regions across 10 provinces. These included 1 949 515 E. coli isolates. Only seven regions throughout Canada met the IDSA target of <10% resistance to con",
+            "journal": "International journal of antimicrobial agents",
+            "year": "2022",
+            "authors": [
+              "Dobbyn Dylan",
+              "Zeggil Teagan",
+              "Kudrowich Brendan",
+              "Beahm Nathan P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Fluoroquinolones",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Retrospective Studies",
+              "Urinary Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35091053/"
+          },
+          {
+            "pmid": "34780264",
+            "title": "Plasmid-Mediated Ciprofloxacin Resistance Imparts a Selective Advantage on Escherichia coli ST131.",
+            "abstract": "Escherichia coli ST131 is a recently emerged antibiotic resistant clone responsible for high rates of urinary tract and bloodstream infections. Despite its global dominance, the precise mechanisms that have driven the rapid dissemination of ST131 remain unknown. Here, we show that the plasmid-associated resistance gene encoding the AAC(6')-Ib-cr enzyme that inactivates the fluoroquinolone (FQ) antibiotic ciprofloxacin is present in >70% of strains from the most rapidly expanding subgroup of multidrug resistant ST131. Using a series of genome-edited and plasmid-cured isogenic strains, we demonstrate that the aac(6')-Ib-cr gene confers a selective advantage on ST131 in the presence of ciprofloxacin, even in strains containing chromosomal GyrA and ParC FQ-resistance mutations. Further, we identify a pattern of emerging carbapenem resistance in other common E. coli clones carrying both aac(6')-Ib-cr and chromosomal FQ-resistance mutations, suggesting this dual resistance combination may al",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2022",
+            "authors": [
+              "Phan Minh-Duy",
+              "Peters Kate M",
+              "Alvarez Fraga Laura",
+              "Wallis Steven C",
+              "Hancock Steven J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Multiple, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Plasmids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34780264/"
+          },
+          {
+            "pmid": "35030401",
+            "title": "Evolution of fluoroquinolone-resistant Escherichia coli in the gut after ciprofloxacin treatment.",
+            "abstract": "Three healthy volunteers carried similar quinolone-resistant E. coli (QREC) (pulsed field gel electrophoresis profiles) in their gut before and after 14 days ciprofloxacin treatment. Given the intensity of the selective pressure and the mutagenic properties of quinolones, we determined whether these strains had evolved at the phenotypic and/or genomic levels.",
+            "journal": "International journal of medical microbiology : IJMM",
+            "year": "2022",
+            "authors": [
+              "de Lastours V",
+              "El Meouche I",
+              "Chau F",
+              "Beghain J",
+              "Chevret D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Fluoroquinolones",
+              "Gastrointestinal Tract",
+              "Humans",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35030401/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "malignant otitis externa caused by Pseudomonas aeruginosa",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "7805430",
+            "title": "Ciprofloxacin in the treatment of malignant external otitis.",
+            "abstract": "Malignant external otitis is a serious infection most frequently caused by Pseudomonas aeruginosa. Because of its antipseudomonal activity and good tissue penetration, ciprofloxacin is an antibiotic which should, in theory, be effective in the treatment of this type of infection. Publications on the use of ciprofloxacin in the treatment of malignant external otitis are analysed below. This paper analyses 84 clinical case studies collected from 13 publications: ciprofloxacin, administered for the most part orally, was given in a dosage of 750 mg twice daily, apart from three studies where a lower dosage of 500 mg twice daily was used. When the drug was administered parenterally, the dosage was 200 mg b.i.d. In one publication, ciprofloxacin was used in combination with rifampicin. The average duration of treatment was 3 months. Ps. aeruginosa was isolated in 82 patients and sensitivity tests were carried out on 47 strains, none of which was resistant to ciprofloxacin. The clinical cure ",
+            "journal": "Chemotherapy",
+            "year": "1994",
+            "authors": [
+              "Gehanno P"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Aged",
+              "Ciprofloxacin",
+              "Drug Administration Schedule",
+              "Enterobacteriaceae",
+              "Female",
+              "Humans",
+              "Infusions, Parenteral",
+              "Male",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7805430/"
+          },
+          {
+            "pmid": "9591416",
+            "title": "Otitis externa malignant. A case report and review of literature.",
+            "abstract": "Otitis externa malignant (OEM) is a virulent infection if it is not diagnosed and treated promptly. Its mortality rate was reported to be 53% when there is associated facial nerve paralysis. It usually affects elderly diabetic patients, who present with deep-seated pain and other features of non-resolving otitis externa. It is mostly caused by Pseudomonas (P) aeruginosa and the treatment of choice is anti-Pseudomonas antibiotic. A 64-year-old diabetic male patient is described who presented with left ear pain and discharge for two months and did not respond to ordinary treatment. The patient also noticed a progressive facial weakness on the same side. The clinical presentation, investigations, treatment and follow-up of the OEM are discussed on the basis of our case and the review of the literature. The diagnosis of OEM is based on high index of suspicion and confirmed by histopathologic changes and radionuclide studies. Gallium 67 citrate scan is a sensitive way to diagnose and follow",
+            "journal": "Otolaryngologia polska = The Polish otolaryngology",
+            "year": "1998",
+            "authors": [
+              "al Dousary S",
+              "Attallh M",
+              "al Rabah A",
+              "al Ammar A",
+              "Gaafar M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Humans",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Middle Aged",
+              "Otitis Externa",
+              "Pseudomonas aeruginosa",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9591416/"
+          },
+          {
+            "pmid": "36035057",
+            "title": "A Case of Collet-Sicard Syndrome Caused by Otitis Externa.",
+            "abstract": "Collet-Sicard syndrome is a unilateral palsy of the lower cranial nerves IX, X, XI, and XII, resulting from lesions at the skull base that affect the jugular foramen and hypoglossal canal. Common causes of the lesions include basilar skull fractures, carotid artery dissections, and malignancy. Infectious and inflammatory etiologies have also been reported. A 63-year-old male with a history of uncontrolled diabetes was admitted for dysphagia, right ear pain, drainage, and right-sided facial droop after recent local trauma and surgical instrumentation of the right ear. Culture of the external auditory canal grew Pseudomonas aeruginosa. Triple phase bone scan demonstrated osteomyelitis at the skull base due to complications from otitis externa. The patient's presentation was consistent with Collet-Sicard syndrome, and he was subsequently treated with a six-week course of ciprofloxacin. This patient demonstrates a unique case since his malignant otitis externa spread locally and led to sku",
+            "journal": "Cureus",
+            "year": "2022",
+            "authors": [
+              "Bonda Sruthi",
+              "Tun Kyaw M",
+              "Asad Shadaba"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36035057/"
+          },
+          {
+            "pmid": "16995959",
+            "title": "Resistance of Pseudomonas to ciprofloxacin: implications for the treatment of malignant otitis externa.",
+            "abstract": "For fifteen years oral ciprofloxacin has been the standard treatment for malignant otitis externa, a sometimes fatal osteomyelitis of the skull base usually caused by Pseudomonas aeruginosa. Resistance to ciprofloxacin is developing. Over a 16-month period, we saw five cases where malignant otitis externa progressed, with the development of cranial nerve palsies in four cases, despite oral ciprofloxacin. Prolonged intravenous antibiotic therapy became necessary. One case was managed largely as an out-patient, but four patients spent many weeks in hospital. Only two cases had diabetes and this was monitored and controlled. Pseudomonas aeruginosa was isolated in four of the five cases, but antibiotic sensitivity to ciprofloxacin was not determined. In one case a later isolate was tested and found to be ciprofloxacin resistant. Progress was monitored by serial C-reactive protein (CRP) and white cell count. For diagnosis and assessing response to treatment we considered serial magnetic res",
+            "journal": "The Journal of laryngology and otology",
+            "year": "2007",
+            "authors": [
+              "Bernstein J M",
+              "Holland N J",
+              "Porter G C",
+              "Maw A R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Infective Agents",
+              "Ciprofloxacin",
+              "Drug Resistance, Bacterial",
+              "Female",
+              "Humans",
+              "Male",
+              "Otitis Externa",
+              "Pseudomonas Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16995959/"
+          },
+          {
+            "pmid": "1343094",
+            "title": "Malignant otitis externa: the therapeutic evolution of a lethal infection.",
+            "abstract": "Malignant otitis externa (MOE) is a potentially fatal infection of the external auditory canal caused by Pseudomonas aeruginosa in a majority of cases. Treatment of MOE has changed over the years. Surgical debridement of all infected tissue is no longer considered the treatment of choice and has been replaced by localized surgical debridement supplemented with long-term antimicrobial chemotherapy. The recent availability of the fluoroquinolones and in particular ciprofloxacin has opened up new therapeutic opportunities.",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1992",
+            "authors": [
+              "Giamarellou H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Cephalosporins",
+              "Fluoroquinolones",
+              "Humans",
+              "Otitis Externa",
+              "Pseudomonas Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1343094/"
+          },
+          {
+            "pmid": "7805599",
+            "title": "Malignant otitis externa in AIDS patients: case report and review of the literature.",
+            "abstract": "Malignant otitis externa is a necrotizing infection of the external ear canal and surrounding soft tissue and bone, usually caused by Pseudomonas aeruginosa. The infection classically occurs in diabetic patients, however recently, several patients with the acquired immunodeficiency syndrome (AIDS) have been reported to have malignant otitis externa. A patient with AIDS who had malignant otitis externa with skull base osteomyelitis is presented and reported cases in patients with AIDS are reviewed. Predisposing factors include immunologic abnormalities (notably neutropenia), dermatitis, medications, neoplasm, and iatrogenic procedures, e.g., ear lavage. Treatment of malignant otitis externa has traditionally included anti-pseudomonal cephalosporins/penicillins and aminoglycosides for prolonged durations. Recently, ciprofloxacin has been shown to be effective as an oral regimen. With the increasing number of patients with AIDS being seen in the outpatient clinics, the diagnosis of malign",
+            "journal": "Ear, nose, & throat journal",
+            "year": "1994",
+            "authors": [
+              "Weinroth S E",
+              "Schessel D",
+              "Tuazon C U"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Bone Diseases",
+              "Ciprofloxacin",
+              "Humans",
+              "Male",
+              "Otitis Externa",
+              "Pseudomonas aeruginosa",
+              "Skull"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7805599/"
+          },
+          {
+            "pmid": "40672814",
+            "title": "Expanding the diagnostic spectrum of malignant otitis externa: a case report of proteus infection in a non-immunosuppressed patient.",
+            "abstract": "Malignant otitis externa (MOE) is a severe and potentially life-threatening infection of the external auditory canal, most frequently caused by Pseudomonas aeruginosa. Although typically seen in immunocompromised individuals-especially those with diabetes mellitus-up to 45% of cases have been reported in non-diabetic patients, highlighting the importance of recognizing atypical presentations. Rare pathogens, such as Proteus mirabilis, have been identified in only a few documented cases. Early diagnosis and prompt intervention are essential to prevent serious complications, including osteomyelitis and intracranial extension.",
+            "journal": "Frontiers in medicine",
+            "year": "2025",
+            "authors": [
+              "Arias Rodríguez Fabián Darío",
+              "Larenas Mercedes",
+              "Paredes Santiago",
+              "Giuliano Guillermina",
+              "López-Cortés Andrés"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40672814/"
+          },
+          {
+            "pmid": "23276814",
+            "title": "Initial management of necrotizing external otitis: errors to avoid.",
+            "abstract": "Diagnostic and therapeutic practice guidelines have been established for classical forms of benign otitis externa. However, these guidelines do not include unusual forms of the disease, especially \"invasive\" otitis externa. No consensual diagnostic flow diagram has been published in the literature, which frequently results in delayed diagnosis and inappropriate primary care management. The objective of this study was to analyse the primary care management practices of malignant otitis externa (MOE).",
+            "journal": "European annals of otorhinolaryngology, head and neck diseases",
+            "year": "2013",
+            "authors": [
+              "Guevara N",
+              "Mahdyoun P",
+              "Pulcini C",
+              "Raffaelli C",
+              "Gahide I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents, Local",
+              "Ceftazidime",
+              "Ciprofloxacin",
+              "Delayed Diagnosis",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23276814/"
+          },
+          {
+            "pmid": "32983891",
+            "title": "Multiple cranial nerve palsies in malignant external otitis: A rare presentation of a rare condition.",
+            "abstract": "Malignant external otitis (MEO) is a rare inflammatory and infectious condition, typically caused by Pseudomonas aeruginosa, that mainly affects diabetic or immunocompromised elderly patients and is associated with severe morbidity and mortality. It begins in the external auditory canal and rapidly progresses through the skull base, leading to osteomyelitis and may result in cranial neuropathy, especially of the facial nerve. Here we describe a rare neurological presentation of MEO in a 65-year old diabetic man, who presented with an 8-month progressing left otitis externa and evolved with ipsilateral proptosis, ophthalmoplegia, blindness, facial palsy, hearing loss and contralateral evolvement of the temporal bone with hearing impairment. He was initially treated with oral ciprofloxacin and after one week was transferred to our tertiary hospital, where antibiotic therapy was switched to meropenem and vancomycin due to the severity of the case and to the hospital's microbiological prof",
+            "journal": "IDCases",
+            "year": "2020",
+            "authors": [
+              "Silveira Rodrigo Queiroz",
+              "Carvalho Viviane Tavares",
+              "Cavalcanti Haline Novais",
+              "Eduardo Rodrigues Fabiana Carraro",
+              "Braune Caroline Bittar"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32983891/"
+          },
+          {
+            "pmid": "3411213",
+            "title": "Necrotizing external otitis treated with ciprofloxacin. A case report.",
+            "abstract": "Necrotizing (malignant) external otitis is a severe infection caused by Pseudomonas aeruginosa which occurs mainly in elderly diabetics or in immuno-depressed patients (Chandler, 1968). The management of this condition requires the association between an aminoglycoside antibiotic and an antipseudomonal beta-lactamic, given parenterally during a 4 to 6 week period. Sometimes it is necessary to continue the therapy for months until there is no evidence of residual disease (Strauss et al., 1982). Ciprofloxacin is a quinolone with antipseudomonal activity which can be taken orally, and it is a useful alternative to the current treatment. The authors report a case of necrotizing external otitis which was successfully treated with ciprofloxacin.",
+            "journal": "The Journal of laryngology and otology",
+            "year": "1988",
+            "authors": [
+              "Sabater F",
+              "Mensa J",
+              "Doménech J",
+              "Loncá M",
+              "Carulla M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Ciprofloxacin",
+              "Humans",
+              "Male",
+              "Necrosis",
+              "Otitis Externa",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3411213/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06061696AZ",
+        "product": "Ciprocep Tablet 500mg",
+        "active_ingredient": "CIPROFLOXACIN  HYDROCHLORIDE  MONOHYDRATE[583.00;mg;;]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-02",
+        "date_end": "2026-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06061696AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20162604ACREZ",
+        "product": "hovid Zepro-500 Tablet",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582.210mg]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-02",
+        "date_end": "2026-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20162604ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16075021AZ",
+        "product": "CIPOFAIN (Ciprofloxacin Sterile Ophthalmic Solution 0.3% w/v)",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[0.35% w/v]",
+        "generic_name": NaN,
+        "holder": "AIN MEDICARE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-26",
+        "date_end": "2026-07-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16075021AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06071054AZ",
+        "product": "Cipmax Eye Drops 0.3%W/V, 5 ml bottle",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[3.5;mg;1;ml]",
+        "generic_name": "Ciprofloxacin HCl 0.3% Eye Drops",
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-09-28",
+        "date_end": "2026-09-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06071054AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034631ACZ",
+        "product": "BACTIFLOX-500 LACTAB",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[583MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "MEPHARM (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-14",
+        "date_end": "2026-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034631ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06121051AZ",
+        "product": "CIPROXOL ( Ciprofloxacin 0.2%w/v Intravenous Infusion BP )",
+        "active_ingredient": "CIPROFLOXACIN LACTATE[0.254;%(w/v);;]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "AIN MEDICARE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-30",
+        "date_end": "2026-12-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06121051AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07021411AZ",
+        "product": "Ciproglen 500 Tablets",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[582;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-04",
+        "date_end": "2027-08-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07021411AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL12085065AZ",
+        "product": "PYCIP 500mg film coated tablets",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582mg;0]",
+        "generic_name": "Ciprofloxacin 500mg Capsule",
+        "holder": "DKSH MALAYSIA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-01",
+        "date_end": "2027-09-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL12085065AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07090903AZ",
+        "product": "QUINTOR 500 Tablet",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582.200;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "LABORATORIES TORRENT (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-30",
+        "date_end": "2027-09-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07090903AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107028AZ",
+        "product": "Ciflox Eye Drop 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[17.5mg;5ml]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107028AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021148AZ",
+        "product": "CIPRICIN-500 TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "STERILINE SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021148AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021000AZ",
+        "product": "PHARMANIAGA CIPROFLOXACIN TABLET 500MG",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[500MG                         ]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021000AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107036ACREZ",
+        "product": "hovid Ciprofloxacin Eye Drops 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN LACTATE[30.8mg]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-03",
+        "date_end": "2027-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107036ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17107040ACREZ",
+        "product": "hovid Ciprofloxacin Ophthalmic Solution 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN[0.3% w/v]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-03",
+        "date_end": "2027-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17107040ACREZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07081466AZ",
+        "product": "Ificipro Injection 200mg/100ml",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[232.80;mg;100.00;ml]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2023-02-02",
+        "date_end": "2028-02-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07081466AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20032244AZ",
+        "product": "CIPQUIN 500 TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[500MG                         ]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-25",
+        "date_end": "2028-03-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20032244AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984772ACZ",
+        "product": "CIPROBAY 400 INFUSION SOLUTION",
+        "active_ingredient": "CIPROFLOXACIN[400MG/200ML                   ]",
+        "generic_name": "Ciprofloxacin 400 mg/200 ml Injection",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984772ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20033356AZ",
+        "product": "UFEXIL SOLUTION FOR INTRAVENOUS INFUSION 200MG/100ML",
+        "active_ingredient": "CIPROFLOXACIN[2MG/ML]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-02",
+        "date_end": "2028-06-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20033356AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08021506AZ",
+        "product": "Ciproflo 2mg/ml solution for IV Infusion",
+        "active_ingredient": "CIPROFLOXACIN HCL[2.33;mg;1;ml]",
+        "generic_name": "Ciprofloxacin 2 mg/ml Injection",
+        "holder": "AVERROES PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-08",
+        "date_end": "2028-06-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08021506AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08082706ACZ",
+        "product": "CIPROX TABLET 500 MG",
+        "active_ingredient": "CIPROFLOXACIN HCL[582.00;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "APEX PHARMACY MARKETING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08082706ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08082713ACZ",
+        "product": "CIPROX TABLET 250MG",
+        "active_ingredient": "CIPROFLOXACIN HCL[291;mg;;0]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "APEX PHARMACY MARKETING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08082713ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085049AZ",
+        "product": "Ciflox Film Coated Tablet 750mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[832.43mg;1215.0mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085049AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085047AZ",
+        "product": "Ciflox Film Coated Tablet 500mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[555.0 mg;810.0mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085047AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085048AZ",
+        "product": "Ciflox Film Coated Tablet 250mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[277.5mg;405.0 mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085048AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20032243AZ",
+        "product": "CIPQUIN 250 TABLET",
+        "active_ingredient": "CIPROFLOXACIN[250MG                         ]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2023-10-05",
+        "date_end": "2028-10-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20032243AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13115208AZ",
+        "product": "Axcel CIPROFLOXACIN-250MG TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[291.11mg;387.6mg]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-30",
+        "date_end": "2028-11-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13115208AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13115209AZ",
+        "product": "Axcel CIPROFLOXACIN-500MG TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582.21mg;775.2mg]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-30",
+        "date_end": "2028-11-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13115209AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111828AZ",
+        "product": "Ificipro 250mg Tablet",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[297;mg;;]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-07",
+        "date_end": "2028-12-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111828AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111830AZ",
+        "product": "Ificipro 500 mg Tablet",
+        "active_ingredient": "Ciprofloxacin Hydrochloride USP[594;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-07",
+        "date_end": "2028-12-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111830AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034634AZ",
+        "product": "CIPROCEP TABLET 250 MG",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[291.5 MG]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-28",
+        "date_end": "2028-12-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034634AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034629AZ",
+        "product": "CIPRODAC 500 TABLET",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[583MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-28",
+        "date_end": "2028-12-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034629AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040197AZ",
+        "product": "C-FLOX 250 TABLETS",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[277.5 MG]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "JETPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2024-06-10",
+        "date_end": "2029-06-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040197AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040198AZ",
+        "product": "C-FLOX 500 TABLETS",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[555 MG]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "JETPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2024-06-10",
+        "date_end": "2029-06-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040198AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900105ACZ",
+        "product": "CIPROBAY 200 INFUSION 100ML",
+        "active_ingredient": "CIPROFLOXACIN[200MG/                        ]",
+        "generic_name": "Ciprofloxacin 200 mg/ 100 ml Injection",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900105ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19890626AZ",
+        "product": "CIPROBAY TABLET 500MG",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[500MG                         ]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-05",
+        "date_end": "2029-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19890626AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10021807AZ",
+        "product": "Zoxan Eye Drops 0.3% w/v",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[0.35;%(w/v);;0]",
+        "generic_name": "Ciprofloxacin HCl 0.3% Eye Drops",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-04",
+        "date_end": "2030-03-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10021807AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05051054AZ",
+        "product": "Enoxin Tablet 500mg",
+        "active_ingredient": "CIPROFLOXACIN HYDROCHLORIDE[582;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "Duopharma Marketing Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-30",
+        "date_end": "2030-05-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05051054AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15065020AZ",
+        "product": "Cetraxal 2mg/ml Ear Drops Solution",
+        "active_ingredient": "CIPROFLOXACIN[2.00mg;1ml]",
+        "generic_name": NaN,
+        "holder": "HYPHENS PHARMA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-01",
+        "date_end": "2030-07-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15065020AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15085079AZ",
+        "product": "Cetraxal Plus Ear Drops Solution",
+        "active_ingredient": "CIPROFLOXACIN[3.00mg;1ml],FLUOCINOLONE ACETONIDE[0.25mg;1ml]",
+        "generic_name": NaN,
+        "holder": "HYPHENS PHARMA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-22",
+        "date_end": "2030-08-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15085079AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20096007AZ",
+        "product": "CIFLOXIN INFUSION (2 MG/ML) (SOLUTION FOR INFUSION)",
+        "active_ingredient": "CIPROFLOXACIN[2 mg/mL ]",
+        "generic_name": NaN,
+        "holder": "SPG PHARMA (MALAYSIA) SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2025-09-04",
+        "date_end": "2030-09-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20096007AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10110029AZ",
+        "product": "Cinolone F.C. Tablet 250 mg \"S.T.\"(Ciprofloxacin)",
+        "active_ingredient": "Ciprofloxacin . HCl . H2O[291.1;mg;;0]",
+        "generic_name": "Ciprofloxacin 250 mg Tablet",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-25",
+        "date_end": "2030-11-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10110029AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06011700AZ",
+        "product": "Ciprinol Film Coated Tablets 500mg",
+        "active_ingredient": "Ciprofloxacin Hydrochloride Monohydrate (Ciprofloxacin)[594;mg;;0]",
+        "generic_name": "Ciprofloxacin 500 mg Tablet",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-07-02",
+        "date_end": "2031-07-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06011700AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00537",
+    "name": "Ciprofloxacin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Ciprofloxacin"
+      },
+      "queried_at": "2026-03-04T14:50:10.647109",
+      "status": "success",
+      "result_count": 42,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ciprofloxacin"
+      },
+      "queried_at": "2026-03-04T14:50:35.315725",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T14:50:37.317392",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T14:50:42.712250",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-04T14:50:50.501346",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "diarrheal disease"
+      },
+      "queried_at": "2026-03-04T14:50:53.694922",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "diarrheal disease"
+      },
+      "queried_at": "2026-03-04T14:50:57.568569",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "diarrheal disease"
+      },
+      "queried_at": "2026-03-04T14:51:04.491661",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:51:05.018200",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:51:08.532303",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:51:10.811833",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "escherichia coli infection"
+      },
+      "queried_at": "2026-03-04T14:51:14.349203",
+      "status": "success",
+      "result_count": 17,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "escherichia coli infection"
+      },
+      "queried_at": "2026-03-04T14:51:17.662389",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "escherichia coli infection"
+      },
+      "queried_at": "2026-03-04T14:51:24.686442",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "malignant otitis externa caused by Pseudomonas aeruginosa"
+      },
+      "queried_at": "2026-03-04T14:51:25.612448",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "malignant otitis externa caused by Pseudomonas aeruginosa"
+      },
+      "queried_at": "2026-03-04T14:51:29.479263",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ciprofloxacin",
+        "disease": "malignant otitis externa caused by Pseudomonas aeruginosa"
+      },
+      "queried_at": "2026-03-04T14:51:33.195921",
+      "status": "success",
+      "result_count": 10,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T14:51:33.201490",
+    "version": "1.0"
+  }
+}

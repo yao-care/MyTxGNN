@@ -1,0 +1,3086 @@
+{
+  "drug": {
+    "name": "Cephalexin",
+    "drugbank_id": "DB00567",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "streptococcal pneumonia",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "4248663",
+            "title": "Cephalexin.",
+            "abstract": "",
+            "journal": "The Medical clinics of North America",
+            "year": "1970",
+            "authors": [
+              "Griffith R S",
+              "Black H R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Absorption",
+              "Animals",
+              "Aqueous Humor",
+              "Bacteria",
+              "Biological Assay",
+              "Cats",
+              "Cephalosporins",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+          },
+          {
+            "pmid": "3752972",
+            "title": "Therapeutic efficacy of cefadroxil and cephalexin for pneumonia in a rat test model.",
+            "abstract": "The therapeutic efficacies of cefadroxil and cephalexin were compared in a Streptococcus pyogenes-induced lung infection in rats. Although MICs, rates of in vitro killing in rat serum, and antibiotic serum levels after oral administration were similar for both drugs, cefadroxil was about eight times more effective than cephalexin in reducing the number of viable streptococci at the site of infection. This excellent in vivo bactericidal activity of cefadroxil in lung tissue and bronchial secretions was reflected in the 50% protective dose (PD50) after single or multiple oral treatments. A single treatment given 24 h after infection resulted in a PD50 of 2.8 mg of cefadroxil per kg, compared with 21 mg of cephalexin per kg. When treatment was administered three times, at 24, 27, and 30 h postinfection, the PD50s of cefadroxil and cephalexin were 0.7 and 8.0 mg/kg, respectively. In infected animals, treated 24 h postinfection, the area under the lung tissue concentration versus time curve",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1986",
+            "authors": [
+              "Chisholm D R",
+              "DeRegis R G",
+              "Behr D A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cefadroxil",
+              "Cephalexin",
+              "Lung",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Pneumonia",
+              "Rats",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3752972/"
+          },
+          {
+            "pmid": "4642154",
+            "title": "Pneumonia.",
+            "abstract": "",
+            "journal": "American family physician",
+            "year": "1972",
+            "authors": [
+              "Pagano J S",
+              "Sarubbi F A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Anti-Bacterial Agents",
+              "Bronchopneumonia",
+              "Cephalexin",
+              "Cephalothin",
+              "Erythromycin",
+              "Gentamicins",
+              "Haemophilus Infections",
+              "Humans",
+              "Klebsiella Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4642154/"
+          },
+          {
+            "pmid": "799997",
+            "title": "Comparative efficacy and safety of cephradine and cephalexin in children.",
+            "abstract": "Cephradine was compared to cephalexin a randomized, double-blind study for the treatment of bacterial infections in 162 children between four months and eleven years of age. In addition to evaluations of clinical and bacteriologic responses to therapy, the relative safety of the two cephalosporins was assessed for all children, including eight who were not included in the evaluation of drug efficacy. The children in the efficacy evaluation had either lobar pneumonia or skin infections and received oral suspensions of cephradine (25-110 mg/kg per day) or cephalexin (25-150 mg/kg per day) for five to fifteen days. Overall clinical and bacteriologic responses were nearly identical in the two groups, and both antibiotics proved to equally safe and effective for use paediatric practice.",
+            "journal": "The Journal of international medical research",
+            "year": "1976",
+            "authors": [
+              "Mouallem R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Cephalexin",
+              "Cephalosporins",
+              "Cephradine",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/799997/"
+          },
+          {
+            "pmid": "15212560",
+            "title": "Cefdinir: a review of its use in the management of mild-to-moderate bacterial infections.",
+            "abstract": "Cefdinir (Omnicef) is an oral third-generation cephalosporin with good in vitro activity against many pathogens commonly causative in community-acquired infections. The drug provides good coverage against Haemophilus influenzae, Moraxella catarrhalis and penicillin-susceptible Streptococcus pneumoniae, the most common respiratory tract pathogens. Cefdinir is stable to hydrolysis by commonly occurring plasmid-mediated beta-lactamases and retains good activity against beta-lactamase-producing strains of H. influenzae and M. catarrhalis. The drug distributes into various tissues (e.g. sinus and tonsil) and fluids (e.g. middle ear), and has a pharmacokinetic profile that allows for once- or twice-daily administration.Cefdinir, administered for 5 or 10 days, has shown good clinical and bacteriological efficacy in the treatment of a wide range of mild-to-moderate infections of the respiratory tract and skin in adults, adolescents and paediatric patients in randomised, controlled trials. In a",
+            "journal": "Drugs",
+            "year": "2004",
+            "authors": [
+              "Perry Caroline M",
+              "Scott Lesley J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cefdinir",
+              "Cephalosporins",
+              "Child",
+              "Gram-Negative Bacteria",
+              "Gram-Negative Bacterial Infections",
+              "Gram-Positive Bacteria",
+              "Gram-Positive Bacterial Infections",
+              "Humans",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15212560/"
+          },
+          {
+            "pmid": "4284",
+            "title": "Comparison of cepharadine and cephalexin in the treatment of respiratory and urinary tract infections.",
+            "abstract": "",
+            "journal": "Current therapeutic research, clinical and experimental",
+            "year": "1976",
+            "authors": [
+              "Mogabgab W J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Bronchitis",
+              "Cephalexin",
+              "Cephalosporins",
+              "Cephradine",
+              "Child",
+              "Clinical Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4284/"
+          },
+          {
+            "pmid": "3803252",
+            "title": "Cefadroxil compared with cefaclor in the treatment of streptococcal pneumonia in adults.",
+            "abstract": "103 young male Black African gold-miners with pneumococcal pneumonia confirmed by culture or serology were randomly assigned to receive the long acting oral cephalosporin cefadroxil 1 g every 12 hours or cefaclor 500 mg every 8 hours for 10 days. Clinical cures were obtained in 94% of the group who received cefadroxil and in 94% of the cefaclor group. Similarly, the causative organism S. pneumoniae was eradicated in 98% and 96% of patients who received cefadroxil and cefaclor, respectively. Minimal side effects occurred in both groups, although 1 patient withdrew from therapy with cefaclor because of severe diarrhoea. Thus, cefadroxil and cefaclor both displayed effective antimicrobial activity with low toxicity in the treatment of pneumococcal pneumonia.",
+            "journal": "Drugs",
+            "year": "1986",
+            "authors": [
+              "ZeLuff B",
+              "Catchpole M",
+              "Lowe P",
+              "Koornhof H",
+              "Gentry L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cefaclor",
+              "Cefadroxil",
+              "Cephalexin",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pneumonia",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3803252/"
+          },
+          {
+            "pmid": "44908",
+            "title": "Treatment of acute bacterial bronchitis and pneumonia with cefaclor.",
+            "abstract": "Sixty patients with pneumonia and/or bronchitis were treated with cefaclor, a new orally administered cephalosporin. Of those 60, 27 adults were treated with 500 mg every 8 hours, 26 adults with 250 mg every 6 hours, and 7 children with 50 mg/kg/day. In the adults, pneumonia was caused most frequently by Streptococcus pneumoniae and Haemophilus influenzae. The 7 children had pneumococcal pneumonia. All but 2 adults, both elderly patients with chronic obstructive pulmonary disease, were successfully treated. One instance of drug hypersensitivity occurred. All 7 children responded rapidly, with no side effects, to cefaclor therapy.",
+            "journal": "Postgraduate medical journal",
+            "year": "1979",
+            "authors": [
+              "Mogabgab W J",
+              "Pollock B",
+              "Beville R B",
+              "Gentry L O",
+              "Jemsek J G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Bronchitis",
+              "Cefaclor",
+              "Cephalexin",
+              "Child",
+              "Drug Administration Schedule",
+              "Haemophilus influenzae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/44908/"
+          },
+          {
+            "pmid": "4791486",
+            "title": "Clinical studies of cefazolin and comparison with other cephalosporins.",
+            "abstract": "Cefazolin, a new cephalosporin derivative, was studied in the treatment of 105 hospitalized patients with a variety of infections including endocarditis, pneumonia, and urinary and soft tissue infections, and was found to be effective in 104 patients. Cefazolin was also tested in vitro and shown to be effective against staphylococci, pneumococci, Escherichia coli, Klebsiella sp., and Proteus mirabilis by agar dilution method. It was shown to produce high serum levels when administered in a 250- to 1,000-mg intramuscular dose and was well tolerated and free from renal toxicity. Comparison of the results of this study with those from our prior studies on cephaloridine revealed equivalent antibiotic potency, good tolerance to both the agents when given intramuscularly, superior, average blood levels with cefazolin, equal clinical efficacy, and absence of renal toxicity with cefazolin (unlike cephaloridine). Similarly, the results of treatment of pneumococcal pneumonia with intramuscular c",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1973",
+            "authors": [
+              "Madhavan T",
+              "Quinn E L",
+              "Freimer E",
+              "Fisher E J",
+              "Cox F"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bacterial Infections",
+              "Cephalexin",
+              "Cephaloridine",
+              "Cephalosporins",
+              "Drug Evaluation",
+              "Humans",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4791486/"
+          },
+          {
+            "pmid": "1617044",
+            "title": "Review of the experience with cefprozil for the treatment of lower respiratory tract infections.",
+            "abstract": "A regimen of cefprozil (500 mg twice daily), a new oral cephalosporin with a broad in vitro spectrum of antimicrobial activity, was compared to standard regimens of cefaclor (500 mg three times daily), cefuroxime axetil (500 mg twice daily), or amoxicillin/clavulanate (500 mg/125 mg three times daily) for the treatment of lower respiratory tract infections (mainly bronchitis and acute exacerbations of chronic bronchitis) in adults in three open-label, randomized trials. In the first trial, in which bacterial pathogens were isolated in initial cultures for only one-third of the patients, 90% of the pathogens were susceptible to cefprozil. A satisfactory clinical response was noted for 84% of the evaluable patients who received cefprozil versus 79% of those who received cefaclor for treatment of lower respiratory tract infections; rates of bacteriologic efficacy were 82% and 78%, respectively. In the second study rates of satisfactory clinical response were 96% with cefprozil and 83% wit",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1992",
+            "authors": [
+              "Pelletier L L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Amoxicillin",
+              "Amoxicillin-Potassium Clavulanate Combination",
+              "Bronchitis",
+              "Bronchopneumonia",
+              "Cefaclor",
+              "Cefuroxime",
+              "Cephalosporins",
+              "Clavulanic Acids",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1617044/"
+          },
+          {
+            "pmid": "4404851",
+            "title": "Cephalexin therapy of lower respiratory tract, soft tissue and bone infections.",
+            "abstract": "",
+            "journal": "Scandinavian journal of infectious diseases",
+            "year": "1972",
+            "authors": [
+              "Solberg C O",
+              "Schreiner A",
+              "Digranes A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Cephalexin",
+              "Child",
+              "Drug Eruptions",
+              "Erysipelas",
+              "Female",
+              "Haemophilus influenzae",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4404851/"
+          },
+          {
+            "pmid": "15631797",
+            "title": "[Comparative study on cefdinir and cefaclor in the treatment of patients with mild to moderate bacterial community acquired pneumonia].",
+            "abstract": "To evaluate the efficacy and safety of cefdinir in the treatment of patients with mild to moderate bacterial community acquired pneumonia (CAP).",
+            "journal": "Zhonghua yi xue za zhi",
+            "year": "2004",
+            "authors": [
+              "Jiang Xing-tang",
+              "Du Yan-ping",
+              "Deng Li-ping"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Cefaclor",
+              "Cefdinir",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15631797/"
+          },
+          {
+            "pmid": "16778466",
+            "title": "Microbial pathogens of adult community-acquired pneumonia in Southern Estonia.",
+            "abstract": "Prospective analysis of the etiology of community-acquired pneumonia in 209 inpatients (mean age 56.2+/-11.2 years) was performed at the Lung Hospital of Tartu University, Estonia. Majority of the patients (87.6%) had at least one significant modifying or risk factor and 30.6% had severe community-acquired pneumonia. Streptococcus pneumoniae, beta-hemolytic streptococci, Klebsiella pneumoniae, and Moraxella catarrhalis were the most frequent pathogens (22.0, 12.2, 11.4, and 10.2%, respectively). Combined etiology was detected in 17.2%. Gram-negative pathogens prevailed over gram-positives and were significantly more frequent in patients aged > or =60 years (p=0.002) as in those with underlying diseases (p=0.01). An age of > or =60 years and previous antibacterial therapy were significant risk factors for Klebsiella pneumoniae as a pathogen (p=0.005 and p=0.002, respectively). Susceptibility of Streptococcus pneumoniae to penicillin, erythromycin, and doxycycline was 79.5, 90.2, and 100",
+            "journal": "Medicina (Kaunas, Lithuania)",
+            "year": "2006",
+            "authors": [
+              "Leesik Helle",
+              "Ani Ulle",
+              "Juhani Anneli",
+              "Altraja Alan"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Community-Acquired Infections",
+              "Data Interpretation, Statistical",
+              "Drug Resistance, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16778466/"
+          },
+          {
+            "pmid": "933394",
+            "title": "Common childhood bacterial infections.",
+            "abstract": "Acute bacterial infections are a common cause of pediatric visits to the emergency department. The diagnosis and treatment of pharyngitis, otitis media, pneumonia, urinary tract infection, acute bacterial lymphadenitis and gastroenteritis are reviewed. The authors propose the use of a limited number of antibiotic agents including penicillin, ampicillin, erythromycin, lincomycin, cephalexin, a sulfonamide and tetracycline to improve efficiency and quality of care and to allow physicians to become familar with the drugs' characteristics, indications, dosage and side effects.",
+            "journal": "JACEP",
+            "year": "1976",
+            "authors": [
+              "Mohan K",
+              "Gordon R C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Child",
+              "Gastroenteritis",
+              "Haemophilus Infections",
+              "Humans",
+              "Lymphadenitis",
+              "Otitis Media",
+              "Pharyngitis",
+              "Pneumonia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/933394/"
+          },
+          {
+            "pmid": "5556191",
+            "title": "Treatment of pneumonia in childhood with cephalexin.",
+            "abstract": "",
+            "journal": "Postgraduate medical journal",
+            "year": "1971",
+            "authors": [
+              "Rosenthal I M",
+              "Metzger W A",
+              "Laxminarayana M S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Klebsiella Infections",
+              "Male",
+              "Pneumococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5556191/"
+          },
+          {
+            "pmid": "4931110",
+            "title": "[Cephalexin monohydrate in pediatrics. Clinical, bacteriological experiences and the hematic, hepatic and renal tolerance in 120 children with respiratory infections].",
+            "abstract": "",
+            "journal": "La Prensa medica mexicana",
+            "year": "1970",
+            "authors": [
+              "Albores J M",
+              "Martinez Meyer C A",
+              "Ots T P",
+              "Guilhem A",
+              "Bures O M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Blood Cells",
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Enterobacteriaceae Infections",
+              "Escherichia coli Infections",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4931110/"
+          },
+          {
+            "pmid": "1656740",
+            "title": "Multicenter evaluation of azithromycin and cefaclor in acute lower respiratory tract infections.",
+            "abstract": "This was a randomized, third-party-blinded, multicenter study that compared once-daily azithromycin (500 mg on day 1, followed by 250 mg on days 2-5) to cefaclor (500 mg three times daily for 10 days) in the treatment of patients with acute bronchitis or pneumonia. A total of 546 patients were entered into the study and 272 patients were evaluable for efficacy analysis. Of these, 249 (176 azithromycin, 73 cefaclor) had bronchitis and 23 (15 azithromycin, 8 cefaclor) had pneumonia. The combined clinical cure and improvement rate, as determined by the investigator, was 96% for azithromycin and 94% for cefaclor, with 88% bacteriologic eradication in both treatment groups. The elimination of Haemophilus influenzae was significantly better with azithromycin (94.5%) than with cefaclor (61.1%) (p less than 0.001; Fisher's exact two-tail test). The two antibiotics were well tolerated during this study; the incidence of side effects reported was similar for azithromycin and cefaclor. Approximat",
+            "journal": "The American journal of medicine",
+            "year": "1991",
+            "authors": [
+              "Dark D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Azithromycin",
+              "Bronchitis",
+              "Cefaclor",
+              "Erythromycin",
+              "Haemophilus Infections",
+              "Humans",
+              "Klebsiella Infections",
+              "Moraxella catarrhalis",
+              "Neisseriaceae Infections",
+              "Pneumonia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1656740/"
+          },
+          {
+            "pmid": "1525791",
+            "title": "Cefaclor advanced formulation versus cefaclor in the treatment of pneumonia.",
+            "abstract": "The use of cefaclor advanced formulation (cefaclor AF) in the treatment of pneumonia caused by susceptible organisms was investigated in a multi-center trial conducted in the United Kingdom and the United States. A total of 266 patients were enrolled in this double-blind, double-dummy, randomized, parallel study; 132 patients were treated with cefaclor AF and 134 patients received the reference drug cefaclor. Inclusion criteria were a diagnosis of lobar pneumonia or bronchopneumonia, with a positive sputum culture and an infiltrate on chest roentgenogram. Patients received either cefaclor AF (750 mg twice daily) or cefaclor (500 mg three times daily) for 10 to 14 days. Forty patients in the cefaclor AF group and 45 in the cefaclor group were evaluable for efficacy, with 37 (92.5%) and 43 (95.6%), respectively, showing a favorable posttherapy clinical response. Proven or presumed pathogen elimination was achieved in 87.5% and 86.7% of cases, respectively. Both study drugs demonstrated h",
+            "journal": "Clinical therapeutics",
+            "year": "1992",
+            "authors": [
+              "Casali L",
+              "Voi M",
+              "Janssen C J",
+              "Olovich K G",
+              "Dere W H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Bronchopneumonia",
+              "Cefaclor",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pneumonia",
+              "Pneumonia, Pneumococcal",
+              "Pneumonia, Staphylococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1525791/"
+          },
+          {
+            "pmid": "357229",
+            "title": "Clinical experience with cefadroxil in upper and lower respiratory tract infections.",
+            "abstract": "Cefadroxil is a new semisynthetic oral cephalosporin with a broad spectrum of activity against both Gram-positive and Gram-negative organisms. Absorption of cefadroxil is unaffected by food, its serum levels are prolonged and it is excreted in the urine at a relatively slow rate compared to cephalexin. In the treatment of 108 patient with upper or lower respiratory tract infections, cefadroxil effected 93% complete cures. Fifty-five of the patients had upper respiratory tract infections and fifty-three had lower respiratory tract infections; among them cefadroxil acheived clinical success rates of 100% and 96%, respectively. Cefadroxil was clinically successful in eight (89%) out of nine patients whose infections were caused by mixed aetiologies. The principal causative agents were Staphylococcus aureus, beta-haemolytic streptococci, Streptococcus pneumoniae and Klebsiella pneumoniae. Overall bacterial eradication produced by cefadroxil was 112 (91%) of 123 organisms isolated from 108 ",
+            "journal": "The Journal of international medical research",
+            "year": "1978",
+            "authors": [
+              "Mercado F F",
+              "Santella P J",
+              "Fernandez C A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Bronchiectasis",
+              "Bronchitis",
+              "Cephalosporins",
+              "Female",
+              "Humans",
+              "Klebsiella Infections",
+              "Klebsiella pneumoniae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/357229/"
+          },
+          {
+            "pmid": "1259399",
+            "title": "In vitro and clinical studies of cefatrizine, a new semisynthetic cephalosporin.",
+            "abstract": "Cefatrizine, a new oral semisynthetic cephalosporin, was evaluated in vitro and in the treatment of 18 patients with acute urinary tract infection, pneumonia, and soft tissue infection. In vitro, it was more active than cephalexin for gram-positive and gram-negative bacteria. It was also more active than cephalothin, cefazolin, and cephapirin against most of the gram-negative bacteria but less active against the gram-positive bacteria. Of the patients treated with cefatrizine, only one failed to respond. This patient had pneumococcal conjunctivitis and hypogammaglobulinemia and neutropenia. The mean peak serum level after multiple 6-hourly doses of 500 mg was 6.2 mug/ml. The serum levels of cefatrizine necessary for inhibition of most susceptible organisms were well within the achievable range. The drug was well tolerated, and no renal, hepatic, or hematological toxicity was detected.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1976",
+            "authors": [
+              "del Busto R",
+              "Haas E",
+              "Madhaven T",
+              "Burch K",
+              "Cox F"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Bacteria",
+              "Bacterial Infections",
+              "Cephalosporins",
+              "Drug Evaluation",
+              "Humans",
+              "Species Specificity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1259399/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "infectious otitis media",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02297815",
+            "title": "Comparative Effectiveness of Broad vs. Narrow Spectrum Antibiotics for Acute Respiratory Tract Infections in Children",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2014-01",
+            "completion_date": "2016-04",
+            "country": "United States",
+            "enrollment": 2472,
+            "brief_summary": "The purpose of this study is to identify and use patient centered outcomes to compare narrow-spectrum and broad-spectrum antibiotics for the treatment of common acute respiratory tract infections (ARTIs) in children.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nWe included children between six months and 12 years old, diagnosed with an ARTI (acute otitis media, acute sinusitis, Group A streptococcal \\[GAS\\] pharyngitis) using International Classification of Diseases diagnosis codes and prescribed an antibiotic. For GAS pharyngitis, the",
+            "endpoints": [
+              "Health Related Quality of Life Score"
+            ],
+            "sponsor": "Children's Hospital of Philadelphia",
+            "url": "https://clinicaltrials.gov/study/NCT02297815"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "arthropathy",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "37827185",
+            "title": "Antimicrobial susceptibility of Treponema pallidum subspecies pallidum: an in-vitro study.",
+            "abstract": "The increasing incidence of syphilis and the limitations of first-line treatment with penicillin, particularly in neurosyphilis, neonatal syphilis, and pregnancy, highlight the need to expand the therapeutic repertoire for effective management of this disease. We assessed the in-vitro efficacy of 18 antibiotics from several classes on Treponema pallidum subspecies pallidum (T pallidum), the syphilis bacteria.",
+            "journal": "The Lancet. Microbe",
+            "year": "2023",
+            "authors": [
+              "Tantalo Lauren C",
+              "Lieberman Nicole A P",
+              "Pérez-Mañá Clara",
+              "Suñer Clara",
+              "Vall Mayans Marti"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Infant, Newborn",
+              "Humans",
+              "Treponema pallidum",
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Syphilis",
+              "Macrolides",
+              "Linezolid",
+              "Ceftriaxone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37827185/"
+          },
+          {
+            "pmid": "32412727",
+            "title": "Twice- and Thrice-daily Cephalexin Dosing for Staphylococcus aureus Infections in Children.",
+            "abstract": "Cephalexin is used for the treatment of methicillin-susceptible Staphylococcus aureus (MSSA) infections in children. Although 4 times daily dosing is recommended, less frequent dosing regimens are often prescribed to improve treatment acceptability and adherence. We developed a population pharmacokinetic model of cephalexin in children to determine a twice-daily (BID) and thrice-daily (TID) cephalexin dosing regimen for MSSA infections.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2020",
+            "authors": [
+              "Gwee Amanda",
+              "Autmizguine Julie",
+              "Curtis Nigel",
+              "Duffull Stephen B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Humans",
+              "Infant",
+              "Joints"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32412727/"
+          },
+          {
+            "pmid": "23811740",
+            "title": "Pharmacokinetics and pharmacodynamics of oral cephalexin in children with osteoarticular infections.",
+            "abstract": "Osteoarticular infections lead to significant morbidity in children. Cephalexin has in vitro activity against methicillin-susceptible Staphylococcus aureus, a predominant pathogen in osteoarticular infection. However, cephalexin pharmacokinetics (PK) and pharmacodynamics (PD) are poorly described in children. This study described cephalexin PK in children treated for osteoarticular infection and assessed the proportion of children achieving surrogate PK/PD target for efficacy in methicillin-susceptible S. aureus infection.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2013",
+            "authors": [
+              "Autmizguine Julie",
+              "Watt Kevin M",
+              "Théorêt Yves",
+              "Kassir Nastya",
+              "Laferrière C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Arthritis, Infectious",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23811740/"
+          },
+          {
+            "pmid": "37741341",
+            "title": "Antibiotic therapy for osteoarticular infections in 2023: Proposals from the Pediatric Infectious Pathology Group (GPIP).",
+            "abstract": "Most osteoarticular infections (OAI) occur via the hematogenous route, affect children under 5 years of age old, and include osteomyelitis, septic arthritis, osteoarthritis and spondylodiscitis. Early diagnosis and prompt treatment are needed to avoid complications. Children with suspected OAI should be hospitalized at the start of therapy. Surgical drainage is indicated in patients with septic arthritis or periosteal abscess. Staphylococcus aureus is implicated in OAI in children at all ages; Kingella kingae is a very common causative pathogen in children from 6 months to 4 years old. The French Pediatric Infectious Disease Group recommends empirical antibiotic therapy with appropriate coverage against methicillin-sensitive S. aureus (MSSA) with high doses (150 mg/kg/d) of intravenous cefazolin. In most children presenting uncomplicated OAI with favorable outcome (disappearance of fever and pain), short intravenous antibiotic therapy during 3 days can be followed by oral therapy. In t",
+            "journal": "Infectious diseases now",
+            "year": "2023",
+            "authors": [
+              "Lorrot Mathie",
+              "Gillet Yves",
+              "Basmaci Romain",
+              "Bréhin Camille",
+              "Dommergues Marie-Aliette"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Infant",
+              "Infant, Newborn",
+              "Child",
+              "Humans",
+              "Child, Preschool",
+              "Staphylococcus aureus",
+              "Discitis",
+              "Anti-Bacterial Agents",
+              "Communicable Diseases",
+              "Osteomyelitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37741341/"
+          },
+          {
+            "pmid": "34893452",
+            "title": "Inappropriate antibiotic administration in the setting of Charcot arthropathy: A case series and literature review.",
+            "abstract": "Differentiating Charcot neuropathic osteoarthropathy (CN) from infection is challenging. The diagnosis of CN is often missed or delayed, resulting in inappropriate and delayed treatment. We hypothesized that the misdiagnosis of CN results in inappropriate antibiotic prescriptions and explore the sequelae of unnecessary antibiotic use.",
+            "journal": "Primary care diabetes",
+            "year": "2022",
+            "authors": [
+              "Shazadeh Safavi Kiya",
+              "Janney Cory",
+              "Shazadeh Safavi Pejma",
+              "Kunzler Daniel",
+              "Jupiter Daniel"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Arthropathy, Neurogenic",
+              "Diagnostic Errors",
+              "Humans",
+              "Inappropriate Prescribing",
+              "Peripheral Nervous System Diseases",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34893452/"
+          },
+          {
+            "pmid": "31528142",
+            "title": "Xanthogranulomatous Osteomyelitis of the Tibia.",
+            "abstract": "Background: Xanthogranulomatous osteomyelitis (XO) is a rare chronic inflammatory process that is histologically characterized by the presence of foamy macrophages, histiocytes, and plasma cells. Radiologic and gross examinations can mimic malignancy, so definitive diagnosis should be made by histopathologic evaluation. Case Report: A 15-year-old male presented with pain in the proximal right leg for 2 weeks prior to admission. The patient had a history of leg trauma 3 years prior that was responsive to as-needed analgesics. Laboratory data revealed increased erythrocyte sedimentation rate and C-reactive protein. X-ray of the right tibia showed a periosteal reaction and bulging of bone with a questionable destruction of the cortex. Magnetic resonance imaging demonstrated an expansile bony lesion in the proximal metaphysis of the tibia. Histopathologic examination showed the bone trabecula surrounded by chronic inflammatory cells and a fragment of dead bone surrounded by histiocytes, fo",
+            "journal": "Ochsner journal",
+            "year": "2019",
+            "authors": [
+              "Solooki Saeed",
+              "Hoveidaei Amir Human",
+              "Kardeh Bahareh",
+              "Azarpira Negar",
+              "Salehi Ehsan"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31528142/"
+          },
+          {
+            "pmid": "38868304",
+            "title": "Variation in North American Infectious Disease Specialists' Practice Regarding Oral and Suppressive Antibiotics for Adult Osteoarticular Infections: Results of an Emerging Infections Network (EIN) Survey.",
+            "abstract": "Osteoarticular infections (OAIs) are commonly treated with prolonged intravenous (IV) antimicrobials. The Oral versus Intravenous Antibiotics for Bone and Joint Infection (OVIVA) trial demonstrated that oral (PO) antibiotics are noninferior to IV antibiotics in the treatment of OAIs. We surveyed infectious disease (ID) physicians about their use of PO antibiotics in the treatment of OAIs.",
+            "journal": "Open forum infectious diseases",
+            "year": "2024",
+            "authors": [
+              "Cortés-Penfield Nicolás",
+              "Beekmann Susan E",
+              "Polgreen Philip M",
+              "Ryan Keenan",
+              "Marschall Jonas"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38868304/"
+          },
+          {
+            "pmid": "35730963",
+            "title": "Cefadroxil Comparable to Cephalexin: Minimum Inhibitory Concentrations among Methicillin-Susceptible Staphylococcus aureus Isolates from Pediatric Musculoskeletal Infections.",
+            "abstract": "Cephalexin and cefadroxil are oral first-generation cephalosporins used to treat methicillin-susceptible Staphylococcus aureus (MSSA) infections. Despite its shorter half-life, cephalexin is more frequently prescribed, although cefadroxil is an appealing alternative, given its slower clearance and possibility for less frequent dosing. We report comparative MIC distributions for cefadroxil and cephalexin, as well as for oxacillin, cephalothin, ceftaroline, and cefazolin, for 48 unique clinical MSSA isolates from pediatric patients with musculoskeletal infections. Both cefadroxil and cephalexin had MIC50 values of 2 μg/mL and MIC90 values of 4 μg/mL. MIC50s for oxacillin, cephalothin, and ceftaroline were ≤0.25 μg/mL, and cefazolin's MIC50 was 0.5 μg/mL. While cefadroxil and cephalexin MICs are higher than those for other active agents, the distributions of MICs for cefadroxil and cephalexin are statistically equivalent, suggesting similar in vitro MSSA activities. Cefadroxil should be f",
+            "journal": "Microbiology spectrum",
+            "year": "2022",
+            "authors": [
+              "Haynes Andrew S",
+              "Prinzi Andrea",
+              "Silveira Lori J",
+              "Parker Sarah K",
+              "Lampe Jed N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Cefadroxil",
+              "Cefazolin",
+              "Cephalexin",
+              "Cephalothin",
+              "Child",
+              "Humans",
+              "Methicillin",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35730963/"
+          },
+          {
+            "pmid": "27520996",
+            "title": "Post-streptococcal reactive arthritis: where are we now.",
+            "abstract": "A 35-year-old man presented with polyarthritis and constitutional symptoms, and a recent history of multiple tick bites and skin rash on trekking holiday. He did not respond to oral doxycycline and cephalexine for presumed Lyme's disease. Further investigation confirmed strongly positive streptococcal serology. There was absence of clinical or echocardiography evidence of heart involvement and immunological screening for inflammatory arthritis was negative. In the absence of other major Jones criteria for acute rheumatic fever, besides polyarthritis and the serological evidence of a recent streptococcal infection, a diagnosis of post-streptococcal reactive arthritis (PSRA) was also made. He responded well to penicillin therapy and has been started on oral penicillin prophylaxis as per available guidance. As streptococcal infections in the adult population are increasingly reported, it is a timely opportunity to revisit PSRA, and develop comprehensive treatment and antibiotic prophylaxi",
+            "journal": "BMJ case reports",
+            "year": "2016",
+            "authors": [
+              "Pathak Himanshu",
+              "Marshall Tarnya"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Arthritis, Reactive",
+              "Diagnosis, Differential",
+              "Humans",
+              "Male",
+              "Penicillin V",
+              "Streptococcal Infections",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27520996/"
+          },
+          {
+            "pmid": "3931060",
+            "title": "Management of streptococcal pharyngitis reconsidered.",
+            "abstract": "Adequate treatment of GABHS pharyngitis with penicillin shortens the course of illness, reduces the spread of streptococci and prevents suppurative complications. It has also been a major factor in the markedly accelerated decline in the incidence of acute rheumatic fever in this country. Difficulties in the clinical diagnosis of GABHS pharyngitis make bacteriologic confirmation highly desirable. Currently a properly performed throat culture is the best way to obtain this bacteriologic confirmation. However, it is possible that rapid antigen detection tests will replace the throat culture in the future. These diagnostic tools should be used more selectively and only in conjunction with clinical and epidemiologic data. Greater selectivity will help control costs and will increase the chances of identifying patients who are truly infected and are not merely streptococcal carriers. Penicillin is still the drug of choice and an oral preparation given twice daily is as effective as more fre",
+            "journal": "Pediatric infectious disease",
+            "year": "1985",
+            "authors": [
+              "Gerber M A",
+              "Markowitz M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Cefadroxil",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Humans",
+              "Penicillin V",
+              "Penicillins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3931060/"
+          },
+          {
+            "pmid": "607395",
+            "title": "Cephalexin levels in serum, synovial fluid and joint tissues after oral administration.",
+            "abstract": "Cephalexin (1 g) was administered orally every 6 hours to 13 patients with rheumatoid arthritis and chronic knee effusions without bacterial arthritis. Samples were taken from blood, synovial fluid, synovium, cartilage and bone. The concentrations found in these samples after one oral dose were high enough to have a possible therapeutic effect in bacterial arthritis sensitive to cephalexin.",
+            "journal": "Scandinavian journal of rheumatology",
+            "year": "1977",
+            "authors": [
+              "Jalava S",
+              "Saarimaa H",
+              "Elfving R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Arthritis, Infectious",
+              "Bone and Bones",
+              "Cartilage",
+              "Cephalexin",
+              "Female",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/607395/"
+          },
+          {
+            "pmid": "4715912",
+            "title": "[Cephalexin in the treatment of bone and joint infections].",
+            "abstract": "",
+            "journal": "La Nouvelle presse medicale",
+            "year": "1973",
+            "authors": [
+              "Evrard J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Arthritis, Infectious",
+              "Bacteria",
+              "Cephalexin",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4715912/"
+          },
+          {
+            "pmid": "34525008",
+            "title": "One Affectionate Puppy: A Case of Septic Arthritis Due to Staphylococcus Pseudintermedius.",
+            "abstract": "We describe a case of septic arthritis caused by Staphylococcus pseudintermedius, a common colonizer of dogs that has emerged as a rare human pathogen. Our patient presented with ankle pain and swelling and was treated adequately with cefazolin/cephalexin and arthrotomy. S. pseudintermedius is often misidentified as other coagulase-positive staphylococcal species and has high rates of methicillin and nonpenicillin antibiotic resistance.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2021",
+            "authors": [
+              "Bowen Stephen",
+              "DeMarco Arielle",
+              "Villasis Lorillaine",
+              "Barsi James",
+              "Handel Andrew S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Arthritis, Infectious",
+              "Child",
+              "Dog Diseases",
+              "Dogs",
+              "Female",
+              "Humans",
+              "Methicillin Resistance",
+              "Staphylococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34525008/"
+          },
+          {
+            "pmid": "30287435",
+            "title": "An old disease re-emerging: acute rheumatic fever.",
+            "abstract": "We present the case of a 41-year-old Australian woman with a 3-day history of fevers and migratory polyarthritis. Three weeks prior she had been treated by her GP with phenoxymethylpenicillin for acute tonsillitis. Examination confirmed synovitis. Systemic assessment including cardiovascular, neurological and skin examination was unremarkable. Abnormal investigations included a leucocytosis with neutrophilia, C-reactive peptide of 116 mg/L, erythrocyte sedimentation rate of 103 mm/hour and acute transaminitis. The antistreptolysin O titre was 304 IU, which increased to 1,250 IU after 2 weeks. Troponin T, electrocardiogram and echocardiography were all normal. The patient was treated for acute rheumatic fever with corticosteroids and a 10-day course of cephalexin. After 8 weeks, she made a full recovery and had normalised inflammatory markers and liver biochemistry. She was then commenced on monthly prophylactic intramuscular benzathine penicillin. This case study aims to raise awarenes",
+            "journal": "Clinical medicine (London, England)",
+            "year": "2018",
+            "authors": [
+              "Khan Asim",
+              "Sutcliffe Nurhan",
+              "Jawad Ali Sm"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Anti-Inflammatory Agents",
+              "Arthritis",
+              "Female",
+              "Fever",
+              "Humans",
+              "Rheumatic Fever",
+              "Tonsillitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30287435/"
+          },
+          {
+            "pmid": "263883",
+            "title": "Treatment of osteomyelitis and septic arthritis with cefazolin.",
+            "abstract": "Sixteen cases of severe osteomyelitis and septic arthritis caused by staphylococci, streptococci, gonococci, and a variety of gram-negative bacilli were treated with 4 to 8 g of parenteral cefazolin per day; nine received subsequent therapy with oral cephalexin or ampicillin. Of 16 infections, 15 were apparently cured. Cefazolin concentrations in those patients were: serum (peak), 25 to 216 micrograms/ml; synovial fluid, 24 to 46 micrograms/ml; and bone, 3.2 to 10.6 micrograms/g. Bacterial pathogens had minimal inhibitory concentrations of cefazolin of 2 micrograms or less per ml and seemed to be eradicated from foci of infection during therapy. One infection in a diabetic patient did not respond; despite high concentrations of cefazolin in serum, no detectable antibiotic was present in her infected metatarsal, and the infecting Escherichia coli (minimal inhibitory concentration, 16 micrograms/ml) was not eradicated during therapy. Concentrations of cefazolin in bone in 10 uninfected p",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1978",
+            "authors": [
+              "Fass R J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Arthritis, Infectious",
+              "Bone and Bones",
+              "Cefazolin",
+              "Gonorrhea",
+              "Humans",
+              "Middle Aged",
+              "Osteomyelitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/263883/"
+          },
+          {
+            "pmid": "32360431",
+            "title": "Joint report of SBI (Brazilian Society of Infectious Diseases), FEBRASGO (Brazilian Federation of Gynecology and Obstetrics Associations), SBU (Brazilian Society of Urology) and SBPC/ML (Brazilian Society of Clinical Pathology/Laboratory Medicine): recommendations for the clinical management of lower urinary tract infections in pregnant and non-pregnant women.",
+            "abstract": "Urinary tract infection (UTI) is a common condition in women. There is an increased concern on reduction of bacterial susceptibility resulting from wrongly prescribing antimicrobials. This paper summarizes the recommendations of four Brazilian medical societies (SBI - Brazilian Society of Infectious Diseases, FEBRASGO - Brazilian Federation of Gynecology and Obstetrics Associations, SBU - Brazilian Society of Urology, and SBPC/ML - Brazilian Society of Clinical Pathology/Laboratory Medicine) on the management of urinary tract infection in women. Asymptomatic bacteriuria should be screened at least twice during pregnancy (early and in the 3rd trimester). All cases of significant bacteriuria (≥105CFU/mL in middle stream sample) should be treated with antimicrobials considering safety and susceptibility profile. In women with typical symptoms of cystitis, dipsticks are not necessary for diagnosis. Urine cultures should be collected in pregnant women, recurrent UTI, atypical cases, and if ",
+            "journal": "The Brazilian journal of infectious diseases : an official publication of the Brazilian Society of Infectious Diseases",
+            "year": "2020",
+            "authors": [
+              "de Rossi Patricia",
+              "Cimerman Sergio",
+              "Truzzi José Carlos",
+              "Cunha Clóvis Arns da",
+              "Mattar Rosiane"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Female",
+              "Humans",
+              "Practice Guidelines as Topic",
+              "Pregnancy",
+              "Pregnancy Complications, Infectious",
+              "Societies, Medical",
+              "Urinary Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32360431/"
+          },
+          {
+            "pmid": "7130382",
+            "title": "Benefits and risks of sequential parenteral--oral cephalosporin therapy for suppurative bone and joint infections.",
+            "abstract": "Seventy-five infants and children with suppurative skeletal infections were managed with a sequential parenteral-oral regimen of cephalosporin antibiotic therapy. Initially, parenteral antibiotics (cefamandole for 48 patients and cefuroxime for 27 patients) were given for a median of 5 days. Oral therapy was with large doses of cefaclor (150 mg/kg/day) or cephalexin (100 mg/kg/day). Eight patients (11%) had inadequate serum bactericidal activity with cefaclor. Six of them were successfully managed with alternative oral antibiotics, and parenteral therapy resumed in one patient. Chronic disease developed in a child who was continued on oral cloxacillin therapy in spite of absent serum bactericidal activity. It is concluded that oral therapy can be successful for the majority of patients but that it is hazardous and not indicated if careful laboratory monitoring of compliance and serum bactericidal activity cannot be performed.",
+            "journal": "Journal of pediatric orthopedics",
+            "year": "1982",
+            "authors": [
+              "Nelson J D",
+              "Bucholz R W",
+              "Kusmiesz H",
+              "Shelton S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Administration, Oral",
+              "Arthritis, Infectious",
+              "Bacterial Infections",
+              "Cefaclor",
+              "Cefamandole",
+              "Cefuroxime",
+              "Cephalexin",
+              "Cephalosporins",
+              "Child"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7130382/"
+          },
+          {
+            "pmid": "36911022",
+            "title": "Impact of guidelines implementation on empiric antibiotic treatment for pediatric uncomplicated osteomyelitis and septic arthritis over a ten-year period: Results of the ELECTRIC study (ostEomyeLitis and sEptiC arThritis tReatment in children).",
+            "abstract": "Due to the growing evidence of the efficacy of intravenous (IV) cefazolin with an early switch to oral cefalexin in uncomplicated pediatric osteomyelitis (OM) and septic arthritis (SA) in children, we changed our guidelines for empiric antibiotic therapy in these conditions. This study aims at evaluating the impact of the guidelines' implementation in reducing broad-spectrum antibiotic prescriptions, duration of IV antibiotic treatment and hospital stay, treatment failure and recurrence.",
+            "journal": "Frontiers in pediatrics",
+            "year": "2023",
+            "authors": [
+              "Minotti Chiara",
+              "Tirelli Francesca",
+              "Guariento Chiara",
+              "Sturniolo Giulia",
+              "Giaquinto Carlo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36911022/"
+          },
+          {
+            "pmid": "32398570",
+            "title": "Frequency of Dosing of Cephalexin for Oral Step-Down Therapy of Pediatric Osteoarticular Infections Caused by Methicillin-Sensitive Staphylococcus Aureus.",
+            "abstract": "Osteoarticular infections are one of the more common invasive bacterial infections encountered in children. There exist significant practice variations in both the diagnosis and treatment of such infections. However, the practice of transitioning from parenteral therapy to oral antibiotics has been well validated by several studies. For methicillin-sensitive Staphylococcus aureus (MSSA), cephalexin is often recommended. Prospective, controlled data regarding optimal dosing of cephalexin in pediatric osteomyelitis are not available. We sought to review our retrospective, uncontrolled data on four times daily (QID) versus three times daily (TID) dosing of cephalexin for pediatric osteoarticular infections. Children ≥1 month to <18 years of age admitted to Rady Children's Hospital-San Diego with a diagnosis of osteomyelitis or septic arthritis between January 1, 2002, and November 30, 2007, were identified and previously reported. Only patients with culture-positive MSSA infections are in",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2020",
+            "authors": [
+              "Ramchandar Nanda",
+              "Arnold John",
+              "Cannavino Chris",
+              "Bradley John S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Arthritis, Infectious",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Drug Administration Schedule",
+              "Electronic Health Records",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32398570/"
+          },
+          {
+            "pmid": "16687984",
+            "title": "It's on the tip of my tongue.",
+            "abstract": "A 48-year-old white woman was admitted to the hospital with low-grade fever, night sweats, fatigue, nonproductive cough with dyspnea, bilateral knee pain, and swelling that progressed slowly over 6 weeks. She was a 30-pack-year smoker, and had received outpatient antibiotic therapy with clarithromycin and then cephalexin without improvement. The admission chest radiograph showed bilateral interstitial infiltrates, and an effusion was seen on knee radiographs. She was treated with levofloxacin, cefepime, and methylprednisolone with some improvement, but fevers persisted up to 104 degrees F/40 degrees C. She also developed multiple painful skin nodules (Figure 1) and an enlarging painful tongue ulcer (Figure 2). Her bilateral knee swelling and pain also worsened, and a bone scan showed increased activity. Skin biopsy showed acute and chronic inflammation with an abscess that contained \"yeast\" (Figure 3). Fungal culture from the skin lesion and joint fluid aspirate grew Blastomyces dermat",
+            "journal": "Skinmed",
+            "year": "2006",
+            "authors": [
+              "Bernstein Jack M",
+              "Bacheller Catherine D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Blastomyces",
+              "Blastomycosis",
+              "Diagnosis, Differential",
+              "Fatigue",
+              "Female",
+              "Fever",
+              "Humans",
+              "Joint Diseases",
+              "Middle Aged",
+              "Mouth Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16687984/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "streptococcal infection",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02297815",
+            "title": "Comparative Effectiveness of Broad vs. Narrow Spectrum Antibiotics for Acute Respiratory Tract Infections in Children",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2014-01",
+            "completion_date": "2016-04",
+            "country": "United States",
+            "enrollment": 2472,
+            "brief_summary": "The purpose of this study is to identify and use patient centered outcomes to compare narrow-spectrum and broad-spectrum antibiotics for the treatment of common acute respiratory tract infections (ARTIs) in children.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nWe included children between six months and 12 years old, diagnosed with an ARTI (acute otitis media, acute sinusitis, Group A streptococcal \\[GAS\\] pharyngitis) using International Classification of Diseases diagnosis codes and prescribed an antibiotic. For GAS pharyngitis, the",
+            "endpoints": [
+              "Health Related Quality of Life Score"
+            ],
+            "sponsor": "Children's Hospital of Philadelphia",
+            "url": "https://clinicaltrials.gov/study/NCT02297815"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01561703",
+            "title": "Postoperative Healthcare Utilization in Adenotonsillectomy Patients With Postoperative Antibiotic Administration Compared to Patients Without Antibiotic Administration",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-03",
+            "completion_date": "2015-06",
+            "country": "United States",
+            "enrollment": 58,
+            "brief_summary": "This study is designed to look at healthcare utilization following the removal of tonsils and adenoids in pediatric patients who are not given an antibiotic following surgery.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are candidates for Adenotonsillectomy or Tonsillectomy only (AT/T).\n* Patient age 18 years or younger(if patient not 18 years, then parent/guardian will be the participant and must also meet inclusion criteria #3).\n* English as the primary language.\n\nExclusion Cri",
+            "endpoints": [
+              "Healthcare Utilization"
+            ],
+            "sponsor": "University of Missouri-Columbia",
+            "url": "https://clinicaltrials.gov/study/NCT01561703"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "25250996",
+            "title": "Impetigo: diagnosis and treatment.",
+            "abstract": "Impetigo is the most common bacterial skin infection in children two to five years of age. There are two principal types: nonbullous (70% of cases) and bullous (30% of cases). Nonbullous impetigo, or impetigo contagiosa, is caused by Staphylococcus aureus or Streptococcus pyogenes, and is characterized by honey-colored crusts on the face and extremities. Impetigo primarily affects the skin or secondarily infects insect bites, eczema, or herpetic lesions. Bullous impetigo, which is caused exclusively by S. aureus, results in large, flaccid bullae and is more likely to affect intertriginous areas. Both types usually resolve within two to three weeks without scarring, and complications are rare, with the most serious being poststreptococcal glomerulonephritis. Treatment includes topical antibiotics such as mupirocin, retapamulin, and fusidic acid. Oral antibiotic therapy can be used for impetigo with large bullae or when topical therapy is impractical. Amoxicillin/clavulanate, dicloxacill",
+            "journal": "American family physician",
+            "year": "2014",
+            "authors": [
+              "Hartman-Adams Holly",
+              "Banvard Christine",
+              "Juckett Gregory"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Anti-Bacterial Agents",
+              "Diagnosis, Differential",
+              "Disease Management",
+              "Global Health",
+              "Humans",
+              "Impetigo",
+              "Incidence",
+              "Skin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25250996/"
+          },
+          {
+            "pmid": "33971117",
+            "title": "[Non-Necrotizing Acute Dermo-Hypodermal Infections: Erysipela and Infectious Cellulitis].",
+            "abstract": "Non-necrotizing acute dermo-hypodermal infections are infectious processes that include erysipela and infectious cellulitis, and are mainly caused by group A β-haemolytic streptococcus. The lower limbs are affected in more than 80% of cases and the risk factors are disruption of cutaneous barrier, lymphoedema and obesity. Diagnosis is clinical and in a typical setting we observe an acute inflammatory plaque with fever, lymphangitis, adenopathy and leucocytosis. Bacteriology is usually not helpful because of low sensitivity or delayed positivity. In case of atypical presentations, erysipela must be distinguished from necrotizing fasciitis and acute vein thrombosis. Flucloxacillin and cefradine remain the first line of treatment. Recurrence is the main complication, so correct treatment of the risk factors is crucial.",
+            "journal": "Acta medica portuguesa",
+            "year": "2021",
+            "authors": [
+              "Rodrigues Maria Alexandra",
+              "Caetano Mónica",
+              "Amorim Isabel",
+              "Selores Manuela"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cellulitis",
+              "Cephradine",
+              "Erysipelas",
+              "Floxacillin",
+              "Humans",
+              "Recurrence",
+              "Soft Tissue Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33971117/"
+          },
+          {
+            "pmid": "39240378",
+            "title": "Efficacy and safety of first- and second-line antibiotics for cellulitis and erysipelas: a network meta-analysis of randomized controlled trials.",
+            "abstract": "This study systematically evaluated and ranked the efficacy of first- and second-line antibiotics antibiotic options for the clinical management of cellulitis and erysipelas through a network meta-analysis approach. From inception to July 04, 2024, a search for relevant randomized clinical trials (RCTs) was carried out using several databases. Antibiotics including azithromycin, cefaclor, cephalexin, cloxacillin, erythromycin, cephalexin plus trimethoprim-sulfamethoxazole, cephalexin plus placebo, flucloxacillin, clindamycin, ceftriaxone, penicillin, roxithromycin, and pristinamycin were assessed regarding cure rate, the eradication of baseline pathogens, diarrhea or vomiting, and rash. In total, 10 RCTs with 1,936 cellulitis or erysipelas patients were eligible for inclusion. There were no significant differences in the cure rates for cellulitis among the antibiotics analysed, with cefaclor demonstrating the most favorable profile for curative outcomes. In terms of side effects, ceftr",
+            "journal": "Archives of dermatological research",
+            "year": "2024",
+            "authors": [
+              "Shu Zhou",
+              "Cao Jie",
+              "Li He",
+              "Chen Ping",
+              "Cai Peishan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Anti-Bacterial Agents",
+              "Cellulitis",
+              "Erysipelas",
+              "Pristinamycin",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39240378/"
+          },
+          {
+            "pmid": "4248663",
+            "title": "Cephalexin.",
+            "abstract": "",
+            "journal": "The Medical clinics of North America",
+            "year": "1970",
+            "authors": [
+              "Griffith R S",
+              "Black H R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Absorption",
+              "Animals",
+              "Aqueous Humor",
+              "Bacteria",
+              "Biological Assay",
+              "Cats",
+              "Cephalosporins",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+          },
+          {
+            "pmid": "38169286",
+            "title": "Doxycycline versus cephalexin treatment of presumed streptococcal skin and soft tissue infection among adults presenting to the emergency department.",
+            "abstract": "Among 100 propensity score-matched emergency department patients receiving ≤14 days doxycycline versus cephalexin monotherapy for outpatient treatment of nonpurulent (presumed streptococcal) skin and soft tissue infection, a low rate of 14-day clinical failure was observed [6% each group; odds ratio (OR), 1.34 (0.21-8.69); P = 0.745], defined as hospital admission, i.v. antibiotic therapy, or change in oral antibiotic. Doxycycline may represent a reasonable therapeutic alternative for this indication in regions with low tetracycline resistance.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2024",
+            "authors": [
+              "Taylor Eric",
+              "Nailor Michael D",
+              "Feider Michelle",
+              "Sullivan Shannon",
+              "Goodlet Kellie J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Cephalexin",
+              "Soft Tissue Infections",
+              "Doxycycline",
+              "Anti-Bacterial Agents",
+              "Streptococcus",
+              "Emergency Service, Hospital",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38169286/"
+          },
+          {
+            "pmid": "1415072",
+            "title": "Cephalexin and penicillin in the treatment of group A beta-hemolytic streptococcal throat infections.",
+            "abstract": "To determine whether cephalexin or penicillin is more effective in the treatment of group A beta-hemolytic streptococcal tonsillopharyngitis in children.",
+            "journal": "American journal of diseases of children (1960)",
+            "year": "1992",
+            "authors": [
+              "Disney F A",
+              "Dillon H",
+              "Blumer J L",
+              "Dudding B A",
+              "McLinn S E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Penicillin V",
+              "Pharyngitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1415072/"
+          },
+          {
+            "pmid": "6364089",
+            "title": "The role of cephalexin in the treatment of skin and soft-tissue infections.",
+            "abstract": "Cephalexin remains an effective and highly useful antibiotic for the treatment of streptococcal and staphylococcal skin infections. Twelve years of experience have not diminished its efficacy, and cure rates of 90% or higher continue to be achieved. Its resistance to degradation by gastric acid and its uniform absorption ensure its bioavailability, and its efficacy in twice-daily dosages enhances medication compliance. The suspension formulation is well accepted by young children, and side effects have generally been mild and infrequent. Cephalexin is comparable to erythromycin, clindamycin, dicloxacillin, cloxacillin, and other cephalosporins in the treatment of streptococcal and staphylococcal infections. Because many of these antibiotics are similar in their efficacy, palatability, and adverse reactions, cost factors may play an important role in choosing one over the other. Penicillin remains the drug of choice for streptococcal skin infections. If the cure rates of the mixed strep",
+            "journal": "Postgraduate medical journal",
+            "year": "1983",
+            "authors": [
+              "Derrick C W",
+              "Reilly K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Biological Availability",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Humans",
+              "Infant",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6364089/"
+          },
+          {
+            "pmid": "37760698",
+            "title": "A Systematic Review on the Clinical Pharmacokinetics of Cephalexin in Healthy and Diseased Populations.",
+            "abstract": "Cephalexin is a first-generation β-lactam antibiotic used in adults and pediatrics to treat various streptococcal and staphylococcal infections. This review aims to summarize and evaluate all the pharmacokinetic (PK) data on cephalexin by screening out all pertinent studies in human beings following the per oral (PO) route. By employing different online search engines such as Google Scholar, PubMed, Cochrane Central, and Science Direct, 23 studies were retrieved, among which nine were in healthy subjects, five in diseased ones, and the remaining were drug-drug, drug-food, and bioequivalence-related. These studies were included only based on the presence of plasma concentration-time profiles or PK parameters, i.e., maximum plasma concentration (Cmax), half-life (t1/2) area under the curve from time 0-infinity (AUC0-∞), and clearance (CL/F). A dose-proportional increase in AUC0-∞ and Cmax can be portrayed in different studies conducted in the healthy population. In comparison to cefaclor",
+            "journal": "Antibiotics (Basel, Switzerland)",
+            "year": "2023",
+            "authors": [
+              "Kanan Mohammed",
+              "Atif Shahd",
+              "Mohammed Faisal",
+              "Balahmar Yara",
+              "Adawi Yasir"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37760698/"
+          },
+          {
+            "pmid": "11980459",
+            "title": "Skin and soft tissue infection.",
+            "abstract": "Abstract. Normal skin is heavily colonized by bacterial flora. The most common are the various nonpathogenic gram-positive bacteria such as Staphylococcus epidermidis (coagulase-negative). Skin and soft tissue infections are usually caused by Staphylococcus aureus (S. aureus) and Streptococcus pyogenes. This article discusses common and some not so common bacterial skin infections, including impetigo, folliculitis, furncles and carbuncles, cellulitis and erysipelas, gangrenous cellulitis, staphylococcal scalded skin syndrome and scarlet fever. Impetigo and ecthyma are common bacterial infections of the skin commonly caused by S. aureus and / or Group A streptoccus. In mild and localized impetigo topical antibiotics whereas in widespread or severe one and in ecthyma systemic antibiotics like, cloxacillin, erythromycin, azithromycin or cephalexin should be used. Folliculitis, furunculosis and carbuncle are folliculocentric infections caused by S. aureus involving the variable depth and e",
+            "journal": "Indian journal of pediatrics",
+            "year": "2001",
+            "authors": [
+              "Sharma S",
+              "Verma K K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cellulitis",
+              "Child",
+              "Child, Preschool",
+              "Gangrene",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Skin Diseases, Bacterial",
+              "Soft Tissue Infections",
+              "Staphylococcal Skin Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11980459/"
+          },
+          {
+            "pmid": "4989538",
+            "title": "Comparison of cephalexin, penicillin V, and ampicillin in streptococcal infections in monkeys.",
+            "abstract": "Intravenous inoculation of a group A hemolytic streptococcus caused lethal infections in all of 11 untreated monkeys. Daily intragastric administration of either 25 or 50 mg per kg per day, given in two equal morning and afternoon doses, yielded similar results in monkeys treated with cephalexin, penicillin V, and ampicillin; all eight monkeys in each therapy group survived. At dose levels of 12.5 mg per kg per day, six of eight, four of eight, and one of eight receiving cephalexin, penicillin V, and ampicillin, respectively, died. The differences observed at the lower dose level between cephalexin and ampicillin could be attributed, in part, to differences in the minimal inhibitory concentrations (MIC) of cephalexin (MIC = 0.24 mug/ml) and ampicillin (MIC = 0.01 mug/ml). The differences in results between penicillin V, which had the same MIC as ampicillin, could perhaps be attributed, in part, to shorter duration of antibacterial activity and higher protein binding of penicillin V. Th",
+            "journal": "Applied microbiology",
+            "year": "1970",
+            "authors": [
+              "Saslaw S",
+              "Carlisle H N"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Ampicillin",
+              "Animals",
+              "Blood Urea Nitrogen",
+              "C-Reactive Protein",
+              "Cephalosporins",
+              "Filtration",
+              "Haplorhini",
+              "Heterocyclic Compounds",
+              "Penicillin V"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4989538/"
+          },
+          {
+            "pmid": "6373094",
+            "title": "Comparison between cephalexin two- and four-time per day regimens in group A streptococcal pharyngitis.",
+            "abstract": "In previous studies, twice daily (bid) and four times daily (qid) administration of most antibiotics approved for group A streptococcus (GAS) pharyngitis therapy have been demonstrated to be equally effective. In this study, four investigators collaborated in a double-blind, randomized multicenter study assessing the efficacy of cephalexin given in doses of 1.0 g or 0.5 g daily on a bid or qid regimen for 10 to 14 days to 157 patients with GAS pharyngitis. The mean daily doses for patients on the bid and qid regimens were 30 mg/kg and 29 mg/kg, respectively. Pretreatment and two follow-up cultures, usually 2 to 6 and 12 to 16 days after the end of treatment, were taken on all patients. Failure, defined as recurrence of the original GAS M-precipitin and T-agglutination types on follow-up culture, occurred in 7.3 percent of 82 patients on the bid and 5.3 percent of 75 patients on the qid regimen. We conclude that cephalexin bid and qid regimens are equally effective, and that the bid reg",
+            "journal": "Clinical pediatrics",
+            "year": "1984",
+            "authors": [
+              "Stillerman M",
+              "Aronovitz G H",
+              "Durnell M D",
+              "Rosenberg R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6373094/"
+          },
+          {
+            "pmid": "4642154",
+            "title": "Pneumonia.",
+            "abstract": "",
+            "journal": "American family physician",
+            "year": "1972",
+            "authors": [
+              "Pagano J S",
+              "Sarubbi F A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Anti-Bacterial Agents",
+              "Bronchopneumonia",
+              "Cephalexin",
+              "Cephalothin",
+              "Erythromycin",
+              "Gentamicins",
+              "Haemophilus Infections",
+              "Humans",
+              "Klebsiella Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4642154/"
+          },
+          {
+            "pmid": "5000259",
+            "title": "Streptococcal pharyngitis therapy: comparison of cyclacillin, cephalexin, and potassium penicillin V.",
+            "abstract": "",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1970",
+            "authors": [
+              "Stillerman M",
+              "Isenberg H D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Male",
+              "Penicillin V",
+              "Penicillins",
+              "Pharyngitis",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5000259/"
+          },
+          {
+            "pmid": "5556190",
+            "title": "Cephalexin and penicillin therapy of childhood beta-hemolytic streptococcal infections.",
+            "abstract": "",
+            "journal": "Postgraduate medical journal",
+            "year": "1971",
+            "authors": [
+              "Disney F A",
+              "Breese B B",
+              "Green J L",
+              "Talpey W B",
+              "Tobin J R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Male",
+              "Penicillin G",
+              "Pharyngitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5556190/"
+          },
+          {
+            "pmid": "799997",
+            "title": "Comparative efficacy and safety of cephradine and cephalexin in children.",
+            "abstract": "Cephradine was compared to cephalexin a randomized, double-blind study for the treatment of bacterial infections in 162 children between four months and eleven years of age. In addition to evaluations of clinical and bacteriologic responses to therapy, the relative safety of the two cephalosporins was assessed for all children, including eight who were not included in the evaluation of drug efficacy. The children in the efficacy evaluation had either lobar pneumonia or skin infections and received oral suspensions of cephradine (25-110 mg/kg per day) or cephalexin (25-150 mg/kg per day) for five to fifteen days. Overall clinical and bacteriologic responses were nearly identical in the two groups, and both antibiotics proved to equally safe and effective for use paediatric practice.",
+            "journal": "The Journal of international medical research",
+            "year": "1976",
+            "authors": [
+              "Mouallem R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Cephalexin",
+              "Cephalosporins",
+              "Cephradine",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/799997/"
+          },
+          {
+            "pmid": "4098790",
+            "title": "Cephalexin and oral cephalosporin.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1970",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Cephalosporins",
+              "Drug Resistance, Microbial",
+              "Escherichia coli",
+              "Haemophilus Infections",
+              "Humans",
+              "Infections",
+              "Respiratory Tract Diseases",
+              "Staphylococcus",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4098790/"
+          },
+          {
+            "pmid": "38896826",
+            "title": "Common Skin Conditions in Children and Adolescents: Bacterial Infections.",
+            "abstract": "Bacterial skin infections represent a significant health care burden. Cellulitis and erysipelas are rapidly spreading, painful, superficial skin infections, usually caused by streptococci or Staphylococcus aureus. Folliculitis is an infection of hair follicles mostly caused by S aureus. Simple folliculitis typically is self-limited. Topical benzoyl peroxide is a first-line nonantibiotic treatment. Mupirocin and clindamycin are topical antibiotic options. For treatment-resistant cases, oral cephalexin or dicloxacillin is an appropriate option. Impetigo is a common, self-limited infection in children. Bullous impetigo is caused by S aureus, and nonbullous impetigo is caused by beta-hemolytic streptococci, S aureus, or both. In most cases, topical mupirocin or retapamulin (Altabax) is effective. Oral antibiotics should be considered for household outbreaks or patients with multiple lesions. Abscesses are red, painful collections of purulence in the dermis and deeper tissues caused by S au",
+            "journal": "FP essentials",
+            "year": "2024",
+            "authors": [
+              "Zha Mengyi",
+              "Usatine Richard"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Child",
+              "Anti-Bacterial Agents",
+              "Adolescent",
+              "Impetigo",
+              "Skin Diseases, Bacterial",
+              "Cellulitis",
+              "Folliculitis",
+              "Erysipelas",
+              "Abscess"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38896826/"
+          },
+          {
+            "pmid": "4623690",
+            "title": "Streptococcal pharyngitis therapy. Comparison of cephalexin, phenoxymethyl penicillin, and ampicillin.",
+            "abstract": "",
+            "journal": "American journal of diseases of children (1960)",
+            "year": "1972",
+            "authors": [
+              "Stillerman M",
+              "Isenberg H D",
+              "Moody M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Cephalexin",
+              "Cephalosporins",
+              "Child",
+              "Diarrhea",
+              "Humans",
+              "Penicillin V",
+              "Pharyngitis",
+              "Pharynx",
+              "Skin Manifestations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4623690/"
+          },
+          {
+            "pmid": "12625858",
+            "title": "Group A streptococcal hydrocele infection and sepsis in a renal transplant recipient.",
+            "abstract": "A case of hydrocele infection secondary to a cutaneous b-hemolytic group A streptococcal infection is described in a renal transplant recipient. Sepsis and renal failure occurred in the setting of this severe, life-threatening infection. This case represents the first description of a group A streptococcal hydrocele infection in an adult. This type of infection can progress rapidly to sepsis and its attendant complications, especially in an immunocompromised patient. Early diagnosis and treatment is crucial in order to optimize the outcome.",
+            "journal": "The Canadian journal of urology",
+            "year": "2003",
+            "authors": [
+              "Beiko Darren T",
+              "Watterson James D",
+              "Cook Anthony J",
+              "Denstedt John D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Cephalexin",
+              "Humans",
+              "Immunocompromised Host",
+              "Kidney Transplantation",
+              "Male",
+              "Sepsis",
+              "Streptococcal Infections",
+              "Streptococcus pyogenes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12625858/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "staphylococcus aureus infection",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00179959",
+            "title": "The Impact of Treating Staphylococcus Aureus Infection and Colonization on the Clinical Severity of Atopic Dermatitis",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-09",
+            "completion_date": "2011-03",
+            "country": "United States",
+            "enrollment": 31,
+            "brief_summary": "Staphylococcus aureus (S. aureus) infection is perceived not only as a common secondary complication of atopic dermatitis (AD), but also as a culprit in the worsening of this condition. In addition, the recent development of community acquired methicillin-resistant S. aureus (CA-MRSA) has presented a new challenge to our management of AD, both in treatment of acute infections and maintenance therapy. The investigators would like to perform a randomized investigator-blinded placebo-controlled stu",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 6 months to 17 years of age\n* Moderate to severe atopic dermatitis\n\nExclusion Criteria:\n\n* Use of cephalexin or other antibiotic in last 6 weeks\n* Allergy to cephalosporins",
+            "endpoints": [
+              "Change in Eczema Area and Severity Index (EASI)Scores According to Location"
+            ],
+            "sponsor": "Northwestern University",
+            "url": "https://clinicaltrials.gov/study/NCT00179959"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00729937",
+            "title": "Strategies Using Off-Patent Antibiotics for Methicillin-Resistant Staphylococcus Aureus (\"STOP MRSA\") - A Phase IIB, Multi-Center, Randomized, Double-Blind Clinical Trial",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2009-04",
+            "completion_date": "2013-06",
+            "country": "United States",
+            "enrollment": 2265,
+            "brief_summary": "The purpose of this study is to determine the optimal outpatient treatment strategy of uncomplicated skin and soft tissue infection (SSTI) in areas of the United States where the prevalence of Community-Acquired Methicillin-Resistant Staphylococcus (S.) aureus (CA-MRSA) is high. Infection with the S. aureus bacteria that is resistant to antibiotics is a cause of SSTIs. Three oral antibiotics will be tested for off patent treatment. Patients will receive Trimethoprim/Sulfamethoxazole (TMP/SMX), p",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult or child 13 years of age and older (who weighs greater than or equal to 40 kg);\n* Have a skin and soft tissue infection (SSTI) with all three local findings of erythema (\\> 2 cm across the lesion or from a discrete wound edge), tenderness, and swelling/induration. Fever,",
+            "endpoints": [
+              "Number of Participants With Clinical Cure as of the Test-of-Cure (TOC) Visit in the Per Protocol Population"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00729937"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00676130",
+            "title": "Randomized Trial of Trimethoprim-Sulfamethoxazole Versus Placebo Added to Standard Treatment of Uncomplicated Cellulitis in Emergency Department Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-05",
+            "completion_date": "2012-05",
+            "country": "United States",
+            "enrollment": 153,
+            "brief_summary": "The primary aim of this study is to quantify the effectiveness of Bactrim as additional therapy for the treatment of uncomplicated cellulitis in adults, by comparing: standard therapy plus Bactrim, versus standard therapy plus placebo.\n\nThe primary hypothesis of this study is that, in light of increasing CA-MRSA prevalence, subjects treated with standard therapy plus Bactrim will have higher cure rates than those treated with standard therapy plus placebo.",
+            "eligibility_criteria": "Inclusion Criteria\n\n* Must have cellulitis as defined here:\n\n  1. Definition A (preferred definition):\n\n     Recent onset of soft tissue erythema, considered by the treating clinician to be bacterial in origin, and associated with signs of infection that include at least two of the following: pain, ",
+            "endpoints": [
+              "Relative Efficacy"
+            ],
+            "sponsor": "Brigham and Women's Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00676130"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00388310",
+            "title": "Effective Duration of Antibiotic Treatment of Community-Acquired Methicillin-Resistant Staphylococcus Aureus (MRSA)",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2006-02",
+            "completion_date": "2008-12",
+            "country": "United States",
+            "enrollment": 33,
+            "brief_summary": "To evaluate the effective duration (in days) to clinical improvement of outpatient antibiotic regimens in the treatment of superficial abscesses caused by MRSA in patients that present to the emergency department.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All patients age 18 and older, presenting to the emergency department with an abscess with a diameter greater than three centimeters\n* Informed consent\n\nExclusion Criteria:\n\n* Patients who are presumed to have community-acquired pathogens\n* Under 18\n* Abscess less than three c",
+            "endpoints": [
+              "To determine the effective duration of treatment of different antibiotic regimens in the treatment of abscess with regards to resolution of patient symptoms and signs.",
+              "Treatment failure will be defined as an increase in patient symptoms, increase in abscess size, development of constitutional symptoms, or hospitalization secondary to abscess complications"
+            ],
+            "sponsor": "Christiana Care Health Services",
+            "url": "https://clinicaltrials.gov/study/NCT00388310"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02814916",
+            "title": "A Phase 3, Multicenter, Open-Label, Randomized, Comparator Controlled Trial of the Safety and Efficacy of Dalbavancin Versus Active Comparator in Pediatric Subjects With Acute Bacterial Skin and Skin Structure Infections",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2017-03-30",
+            "completion_date": "2024-01-01",
+            "country": "Bulgaria, Brazil, Spain, Mexico, Russia, Chile, Latvia, Romania, Lithuania, South Africa, Greece, Belarus, Georgia, Ukraine, Poland, Colombia, Guatemala, Argentina, United States, Panama",
+            "enrollment": 199,
+            "brief_summary": "To determine the safety and descriptive efficacy of dalbavancin for the treatment of acute bacterial skin and skin structure infections in children, aged birth to 17 years (inclusive), known or suspected to be caused by susceptible Gram-positive organisms, including methicillin-resistant strains of Staphylococcus aureus.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients birth to 17 years (inclusive)\n* A clinical picture compatible with Acute Bacterial Skin and Skin Structure Infections (ABSSSI) suspected or confirmed to be caused by Gram-positive bacteria, including Methicillin-resistant Staphylococcus aureus (MRSA).\n*",
+            "endpoints": [
+              "Shift From Baseline in Distortion Product Otoacoustic Emission at TOC Visit",
+              "Shift From Baseline in Auditory Brainstem Response Test at TOC Visit",
+              "Shift From Baseline in Acoustic Immittance Test at TOC Visit"
+            ],
+            "sponsor": "AbbVie",
+            "url": "https://clinicaltrials.gov/study/NCT02814916"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04553419",
+            "title": "Antibiotic Treatment Of Staphylococcus Aureus In Stable People With CF (ASAP-CF) Clinical Research Protocol",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2020-07-27",
+            "completion_date": "2025-06-30",
+            "country": "Canada",
+            "enrollment": 86,
+            "brief_summary": "This is a randomized, double-blinded study that aims to assess the effect of an oral antibiotic called Cephalexin (150 mg/kg/day) compared to placebo in clinically stable children with cystic fibrosis who have grown a bacteria called MSSA (methicillin-susceptible Staphylococcus aureus) over the course of 2 weeks.\n\nA sensitive technique called MBW (multiple breath washout) will be used to look at how well the participants lungs are functioning during the study and to see if the antibiotic improve",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of CF as evidenced by one or more clinical feature consistent with the CF phenotype or positive CF newborn screen AND one or more of the following criteria:\n\n   1. A documented sweat chloride ≥ 60 mEq/L by quantitative pilocarpine iontophoresis (QPIT)\n   2. A docume",
+            "endpoints": [
+              "The relative change in LCI2.5 between day 0 and day 14 (relative change = [LCI2.5 at day 14-LCI2.5 at day 0]/LCI2.5 at day 0)."
+            ],
+            "sponsor": "University of British Columbia",
+            "url": "https://clinicaltrials.gov/study/NCT04553419"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06207786",
+            "title": "Efficacy of Intranasal Povidone Iodine Swab Versus Oral Antibiotic Prophylaxis to Prevent Surgical Site Infections in Patients Undergoing Mohs Micrographic Surgery",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2024-09-01",
+            "completion_date": "2030-05",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this study is to compare surgical site infection rates for patients treated with Mohs micrographic surgery after bilateral nasal swab with povidone iodine versus standard treatment including the use of a standardized oral antibiotic prophylaxis protocol.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Non-pregnant, non-lactating/breastfeeding, non-incarcerated, English-speaking persons undergoing Mohs micrographic surgery (MMS) for malignant cutaneous neoplasms and receiving same-day defect repair by the MMS-performing surgeon\n* Able to provide written informed consent prio",
+            "endpoints": [
+              "Effectiveness of nasal decolonization with povidone-iodine versus a standardized oral antibiotic prophylaxis protocol to prevent surgical site infection (SSI)"
+            ],
+            "sponsor": "Mayo Clinic",
+            "url": "https://clinicaltrials.gov/study/NCT06207786"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06336824",
+            "title": "Early Intravenous to Oral Antibiotic Switch in Uncomplicated Staphylococcus Aureus Bacteraemia: The EVOS Randomized Controlled Trial",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-06-28",
+            "completion_date": "2025-06",
+            "country": "Malaysia",
+            "enrollment": 290,
+            "brief_summary": "The Early Intravenous to Oral Antibiotic Switch in Uncomplicated Staphylococcus aureus Bacteraemia (EVOS) study is a multicentre, randomized, open-label, parallel group, phase 3, non-inferiority trial of early intravenous to oral antibiotic switch in comparison with standard intravenous antibiotic regime among patients with uncomplicated Staphylococcus aureus bacteraemia (SAB). The study is based on the hypothesis that an early switch from IV to oral antimicrobial therapy is non-inferior and saf",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Blood culture positive for Staphylococcus aureus (S. aureus).\n2. Received 3 to 7 days of definitive IV antimicrobial therapy, defined as:\n\n   * Cloxacillin or cefazolin for methicillin-sensitive staphylococcus aureus (MSSA); Vancomycin or ceftaroline for methicillin-resistant",
+            "endpoints": [
+              "Rate of SAB-relapse"
+            ],
+            "sponsor": "Clinical Research Centre, Malaysia",
+            "url": "https://clinicaltrials.gov/study/NCT06336824"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00187759",
+            "title": "A Placebo Controlled, Randomized, and Blinded Study of Antibiotic Treatment of Patients With Uncomplicated Soft Tissue Infection",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2004-11",
+            "completion_date": "2005-03",
+            "country": "United States",
+            "enrollment": 500,
+            "brief_summary": "This study is to determine whether antibiotic therapy is needed for patients with non-life threatening soft tissue infections. Most patients with these soft tissue infections are presently treated with antibiotics. Many of these infections resolve without proper antibiotic treatment. Treatment of patients with antibiotics after surgical drainage of an abscess may not be necessary and indiscriminate use of antibiotics may lead to colonization by drug-resistant organisms. Subsequent infection by d",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients must have a complicated skin or skin-structure infection that meets disease diagnostic criteria (severity, definition of complicated, and disease).\n\nSEVERITY: Complicated soft tissue infections must be of sufficient severity to anticipate five or more days of anti",
+            "endpoints": [
+              "Cure of soft tissue infection."
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT00187759"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01229553",
+            "title": "Effect of Topical and Systemic Decolonization of Staphylococcus Aureus (SA) in Pediatric Cystic Fibrosis (CF) Patients at the CF Center at SUNY Upstate Medical University, Syracuse, NY.",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2011-01",
+            "completion_date": "2011-01",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The primary objective of this study is to measure efficacy of our new protocol by monitoring the results of our routine respiratory cultures at the end of the new standard treatment, and during routine visits for 1 year from initiation of therapy for Staphylococcus aureus. The secondary objective will include determining the clinical course (pulmonary exacerbations, antibiotic use, hospitalizations, pulmonary function tests) of patients who underwent the protocol.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nEligible participants will include all patients with CF who test positive for SA from respiratory tract culture (throat, nares or expectorated sputum) and are 2-23 months of age at protocol presentation.\n\nExclusion Criteria:\n\nPatients co-infected with other bacteria (e.g. Pseudo",
+            "endpoints": [
+              "To measure the efficacy of a decolonization regimen to eliminate SA from nares, oropharynx and sputum of pediatric CF patients (2-23 months of age)."
+            ],
+            "sponsor": "State University of New York - Upstate Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT01229553"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00352612",
+            "title": "Comparison of Cephalexin Versus Clindamycin in the Empiric, Outpatient Treatment of Suspected Staphylococcal Cutaneous Infections in the Era of Community-associated Methicillin-resistant Staphylococcus Aureus (CA-MRSA)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2006-09",
+            "completion_date": "2009-08",
+            "country": "United States",
+            "enrollment": 200,
+            "brief_summary": "The purpose of this study is to help define the role of antibiotics in the treatment of pediatric skin infections caused by community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA). The investigators hypothesize that treatment with cephalexin, a penicillin-like antibiotic to which CA-MRSA would be expected to be resistant, does not result in poorer outcomes than treatment with clindamycin, an antibiotic to which CA-MRSA is most often susceptible.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Children between the ages of 6 months and 18 years of age (inclusive)\n* Suspected purulent staphylococcal skin or soft tissue infection\n* No hospitalization within the previous 14 days\n* Must have reliable means of follow-up contact (e.g. working phone)\n* Outpatient management",
+            "endpoints": [
+              "Clinical Improvement at the 48-72 Hour Clinical Follow-up"
+            ],
+            "sponsor": "Johns Hopkins University",
+            "url": "https://clinicaltrials.gov/study/NCT00352612"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "25250996",
+            "title": "Impetigo: diagnosis and treatment.",
+            "abstract": "Impetigo is the most common bacterial skin infection in children two to five years of age. There are two principal types: nonbullous (70% of cases) and bullous (30% of cases). Nonbullous impetigo, or impetigo contagiosa, is caused by Staphylococcus aureus or Streptococcus pyogenes, and is characterized by honey-colored crusts on the face and extremities. Impetigo primarily affects the skin or secondarily infects insect bites, eczema, or herpetic lesions. Bullous impetigo, which is caused exclusively by S. aureus, results in large, flaccid bullae and is more likely to affect intertriginous areas. Both types usually resolve within two to three weeks without scarring, and complications are rare, with the most serious being poststreptococcal glomerulonephritis. Treatment includes topical antibiotics such as mupirocin, retapamulin, and fusidic acid. Oral antibiotic therapy can be used for impetigo with large bullae or when topical therapy is impractical. Amoxicillin/clavulanate, dicloxacill",
+            "journal": "American family physician",
+            "year": "2014",
+            "authors": [
+              "Hartman-Adams Holly",
+              "Banvard Christine",
+              "Juckett Gregory"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Anti-Bacterial Agents",
+              "Diagnosis, Differential",
+              "Disease Management",
+              "Global Health",
+              "Humans",
+              "Impetigo",
+              "Incidence",
+              "Skin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25250996/"
+          },
+          {
+            "pmid": "34902109",
+            "title": "Cellulitis: A Review of Current Practice Guidelines and Differentiation from Pseudocellulitis.",
+            "abstract": "Cellulitis, an infection involving the deep dermis and subcutaneous tissue, is the most common reason for skin-related hospitalization and is seen by clinicians across various disciplines in the inpatient, outpatient, and emergency room settings, but it can present as a diagnostic and therapeutic challenge. Cellulitis is a clinical diagnosis based on the history of present illness and physical examination and lacks a gold standard for diagnosis. Clinical presentation with acute onset of redness, warmth, swelling, and tenderness and pain is typical. However, cellulitis can be difficult to diagnose due to a number of infectious and non-infectious clinical mimickers such as venous stasis dermatitis, contact dermatitis, eczema, lymphedema, and erythema migrans. Microbiological diagnosis is often unobtainable due to poor sensitivity of culture specimens. The majority of non-purulent, uncomplicated cases of cellulitis are caused by β-hemolytic streptococci or methicillin-sensitive Staphyloco",
+            "journal": "American journal of clinical dermatology",
+            "year": "2022",
+            "authors": [
+              "Boettler Michelle A",
+              "Kaffenberger Benjamin H",
+              "Chung Catherine G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cellulitis",
+              "Humans",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Skin",
+              "Staphylococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34902109/"
+          },
+          {
+            "pmid": "18819238",
+            "title": "Management of mastitis in breastfeeding women.",
+            "abstract": "Mastitis occurs in approximately 10 percent of U.S. mothers who are breastfeeding, and it can lead to the cessation of breastfeeding. The risk of mastitis can be reduced by frequent, complete emptying of the breast and by optimizing breastfeeding technique. Sore nipples can precipitate mastitis. The differential diagnosis of sore nipples includes mechanical irritation from a poor latch or infant mouth anomalies, such as cleft palate or bacterial or yeast infection. The diagnosis of mastitis is usually clinical, with patients presenting with focal tenderness in one breast accompanied by fever and malaise. Treatment includes changing breastfeeding technique, often with the assistance of a lactation consultant. When antibiotics are needed, those effective against Staphylococcus aureus (e.g., dicloxacillin, cephalexin) are preferred. As methicillin-resistant S. aureus becomes more common, it is likely to be a more common cause of mastitis, and antibiotics that are effective against this or",
+            "journal": "American family physician",
+            "year": "2008",
+            "authors": [
+              "Spencer Jeanne P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Breast Feeding",
+              "Female",
+              "Humans",
+              "Mastitis",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18819238/"
+          },
+          {
+            "pmid": "32412727",
+            "title": "Twice- and Thrice-daily Cephalexin Dosing for Staphylococcus aureus Infections in Children.",
+            "abstract": "Cephalexin is used for the treatment of methicillin-susceptible Staphylococcus aureus (MSSA) infections in children. Although 4 times daily dosing is recommended, less frequent dosing regimens are often prescribed to improve treatment acceptability and adherence. We developed a population pharmacokinetic model of cephalexin in children to determine a twice-daily (BID) and thrice-daily (TID) cephalexin dosing regimen for MSSA infections.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2020",
+            "authors": [
+              "Gwee Amanda",
+              "Autmizguine Julie",
+              "Curtis Nigel",
+              "Duffull Stephen B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Cephalexin",
+              "Child",
+              "Child, Preschool",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Humans",
+              "Infant",
+              "Joints"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32412727/"
+          },
+          {
+            "pmid": "33634465",
+            "title": "Interventions for bacterial folliculitis and boils (furuncles and carbuncles).",
+            "abstract": "Bacterial folliculitis and boils are globally prevalent bacterial infections involving inflammation of the hair follicle and the perifollicular tissue. Some folliculitis may resolve spontaneously, but others may progress to boils without treatment. Boils, also known as furuncles, involve adjacent tissue and may progress to cellulitis or lymphadenitis. A systematic review of the best evidence on the available treatments was needed.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2021",
+            "authors": [
+              "Lin Huang-Shen",
+              "Lin Pei-Tzu",
+              "Tsai Yu-Shiun",
+              "Wang Shu-Hui",
+              "Chi Ching-Chi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents, Local",
+              "Bias",
+              "Carbuncle",
+              "Child",
+              "Child, Preschool"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33634465/"
+          },
+          {
+            "pmid": "30562290",
+            "title": "Extended Oral Antibiotic Prophylaxis in High-Risk Patients Substantially Reduces Primary Total Hip and Knee Arthroplasty 90-Day Infection Rate.",
+            "abstract": "Total joint arthroplasty (TJA) episodic payment models shift risk and cost of periprosthetic joint infection (PJI) to surgeons and hospitals, causing some to avoid treating high-risk patients. Furthermore, there are little data to support optimization of host factors preoperatively to decrease PJI, and recent literature supports using extended antibiotic prophylaxis following reimplantation TJA. The purpose of this study was to evaluate whether extended oral antibiotic prophylaxis minimized PJI after primary TJA in high-risk patients.",
+            "journal": "The Journal of bone and joint surgery. American volume",
+            "year": "2018",
+            "authors": [
+              "Inabathula Avinash",
+              "Dilley Julian E",
+              "Ziemba-Davis Mary",
+              "Warth Lucian C",
+              "Azzam Khalid A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Antibiotic Prophylaxis",
+              "Arthroplasty, Replacement, Hip",
+              "Arthroplasty, Replacement, Knee",
+              "Cefadroxil",
+              "Clindamycin",
+              "Delayed-Action Preparations",
+              "Drug Administration Schedule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30562290/"
+          },
+          {
+            "pmid": "33413376",
+            "title": "Dynamic interactions between cephalexin and macrophages on different Staphylococcus aureus inoculum sizes: a tripartite in vitro model.",
+            "abstract": "The bactericidal activity of an antimicrobial drug is generally assessed by in vitro bacterial time-kill experiments which do not include any components of the immune system, even though the innate immunity, the primary host defence, is probably able to kill a large proportion of pathogenic bacteria in immunocompetent patients. We developed an in vitro tripartite model to investigate the joint action of C57Bl/6 murine bone-marrow-derived macrophages and cephalexin on the killing of Staphylococcus aureus.",
+            "journal": "BMC veterinary research",
+            "year": "2021",
+            "authors": [
+              "Lallemand Elodie Anne",
+              "Zemirline Claudine",
+              "Toutain Pierre-Louis",
+              "Bousquet-Melou Alain",
+              "Ferran Aude A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Cephalexin",
+              "Female",
+              "Host-Pathogen Interactions",
+              "Immunity, Innate",
+              "Macrophages",
+              "Mice, Inbred C57BL",
+              "Microbial Sensitivity Tests",
+              "Models, Biological"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33413376/"
+          },
+          {
+            "pmid": "40372039",
+            "title": "Infection of neonates with Staphylococcus aureus and methicillin-resistant Staphylococcus aureus at Dormaa Presbyterian Hospital, Ghana.",
+            "abstract": "Staphylococcus aureus is the second most common pathogen found in all cases of nosocomial infections globally. Methicillin-resistant Staphylococcus aureus (MRSA) is a common cause of infection among preterm and critically ill newborns in neonatal intensive care units. Newborns are predominantly susceptible to S. aureus and MRSA colonization and infection due to their weaker immune systems. Treating infections in newborns associated with S. aureus and MRSA has proven challenging due to decreasing susceptibility to first-line antibiotics, leaving clinicians with few treatment options. This cross-sectional study aimed to determine the prevalence of hospital-acquired MRSA among neonates at the Dormaa Presbyterian Hospital in Ghana, the susceptibility profile to selected antibiotics, and the associated risk factors. Venous blood samples were taken from each of the neonatal participants and inoculated into Brain Heart Infusion broth. Standard biochemical tests were performed, and 36.0% (9/25",
+            "journal": "Microbiology spectrum",
+            "year": "2025",
+            "authors": [
+              "Obeng Jerome Adinkrah",
+              "Akanwariwiak William Gariba",
+              "Adade Eugene",
+              "Sylverken Augustina Angelina"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Ghana",
+              "Infant, Newborn",
+              "Staphylococcal Infections",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Anti-Bacterial Agents",
+              "Female",
+              "Cross-Sectional Studies",
+              "Male",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40372039/"
+          },
+          {
+            "pmid": "38788844",
+            "title": "District-wide herd sanitation and eradication of intramammary Staphylococcus aureus genotype B infection in dairy herds in Ticino, Switzerland.",
+            "abstract": "The present study demonstrates successful herd sanitation and eradication of contagious mastitis caused by Staphylococcus aureus genotype B (GTB) in an entire Swiss district (Ticino) including 3,364 dairy cows from 168 farms. Herd sanitation included testing of all cows using a highly GTB-specific and sensitive real-time quantitative PCR (qPCR) assay, implementation of related on-farm measures, appropriate antibiotic therapy of GTB-positive cows, and culling of therapy-resistant animals, respectively. A treatment index was used as an objective criterion to select GTB-positive cows eligible for culling and replacement payment. Sixty-two herds (37%) were initially GTB-positive with a cow prevalence between 10% and 100% and were submitted to sanitation. Twenty months after the start of the campaign, all of these herds were free from S. aureus GTB, whereby 73% of them were sanitized during the first 7 mo. At the cow level, a total of 343 animals were infected. Fifty of them were immediatel",
+            "journal": "Journal of dairy science",
+            "year": "2024",
+            "authors": [
+              "Sesso L",
+              "Vanzetti T",
+              "Weber J",
+              "Vaccani M",
+              "Riva Scettrini P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Female",
+              "Staphylococcus aureus",
+              "Staphylococcal Infections",
+              "Mastitis, Bovine",
+              "Switzerland",
+              "Genotype",
+              "Milk",
+              "Sanitation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38788844/"
+          },
+          {
+            "pmid": "18649613",
+            "title": "Diabetic foot infection.",
+            "abstract": "Foot infections are common in patients with diabetes and are associated with high morbidity and risk of lower extremity amputation. Diabetic foot infections are classified as mild, moderate, or severe. Gram-positive bacteria, such as Staphylococcus aureus and beta-hemolytic streptococci, are the most common pathogens in previously untreated mild and moderate infection. Severe, chronic, or previously treated infections are often polymicrobial. The diagnosis of diabetic foot infection is based on the clinical signs and symptoms of local inflammation. Infected wounds should be cultured after debridement. Tissue specimens obtained by scraping the base of the ulcer with a scalpel or by wound or bone biopsy are strongly preferred to wound swabs. Imaging studies are indicated for suspected deep soft tissue purulent collections or osteomyelitis. Optimal management requires aggressive surgical debridement and wound management, effective antibiotic therapy, and correction of metabolic abnormalit",
+            "journal": "American family physician",
+            "year": "2008",
+            "authors": [
+              "Bader Mazen S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diabetic Foot",
+              "Humans",
+              "Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18649613/"
+          },
+          {
+            "pmid": "4248663",
+            "title": "Cephalexin.",
+            "abstract": "",
+            "journal": "The Medical clinics of North America",
+            "year": "1970",
+            "authors": [
+              "Griffith R S",
+              "Black H R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Absorption",
+              "Animals",
+              "Aqueous Humor",
+              "Bacteria",
+              "Biological Assay",
+              "Cats",
+              "Cephalosporins",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+          },
+          {
+            "pmid": "37219839",
+            "title": "Cephalosporin susceptibility of Staphylococcus aureus strains isolated from commercial rabbit and goats farms in Spain.",
+            "abstract": "Antimicrobial drug resistance is an important problem that challenges veterinary clinicians to provide effective treatments without further spreading resistance to other animals and people. The most commonly used pharmacodynamic parameter to define potency of antimicrobial drugs is minimum inhibitory concentration (MIC). The aim of this study was to evaluate the antibiotic susceptibility of thirty-six strains of Staphylococcus aureus isolated from dairy goats with mastitis and rabbits with chronic staphylococcosis. Four cephalosporins were tested: cephalexin, cephalotin, cefonicid and ceftiofur. MIC tests were performed according to the microdilution broth method. The calculated values of sensitivity in goats and rabbits were 66.67% and 72.22% for cephalexin, 72.22 % and 94.44% for cefonicid, 77.78% and 94.44% for cephalotin and 77.78% and 100% for ceftiofur, respectively. For all antibiotics, MIC90 of S. aureus from rabbits were lower than MIC90 from goats. These data suggest that mor",
+            "journal": "Veterinaria italiana",
+            "year": "2022",
+            "authors": [
+              "Badillo Elena",
+              "Escudero Elisa",
+              "Galecio Juan Sebastián",
+              "Hernandis Verónica",
+              "Marin Pedro"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Female",
+              "Rabbits",
+              "Staphylococcus aureus",
+              "Farms",
+              "Cefonicid",
+              "Goats",
+              "Spain",
+              "Lactation",
+              "Cephalosporins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37219839/"
+          },
+          {
+            "pmid": "29675919",
+            "title": "Therapy and Outcome of Staphylococcus aureus Infections of Intracorporeal Ventricular Assist Devices.",
+            "abstract": "Infection of the driveline or pump pocket is a common complication in patients with ventricular assist devices (VADs) and Staphylococcus aureus is the main pathogen causing such infections. Limited evidence is currently available to guide the choice of antibiotic therapy and the duration of treatment in these patients. Patients at the University Medical Center Utrecht who developed a VAD-related S. aureus infection between 2007 and 2016 were retrospectively assessed. Blood culture isolates were typed by whole genome sequencing to differentiate between relapses and reinfections, and to determine whether antibiotic therapy had led to acquisition of resistance mutations. Twenty-eight patients had S. aureus VAD infections. Ten of these patients also suffered S. aureus bacteremia. Discontinuation of antibiotic therapy was followed by relapse in 50% of the patients without prior S. aureus bacteremia and in 80% of patients with bacteremia. Oral cephalexin could ultimately suppress the infecti",
+            "journal": "Artificial organs",
+            "year": "2018",
+            "authors": [
+              "Ekkelenkamp Miquel B",
+              "Vervoorn Mats T",
+              "Bayjanov Jumamurat R",
+              "Fluit Ad C",
+              "Benaissa-Trouw Barry J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Cephalexin",
+              "Clindamycin",
+              "Female",
+              "Heart-Assist Devices",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29675919/"
+          },
+          {
+            "pmid": "41465858",
+            "title": "The Mechanism of Emodin Against Methicillin-Resistant Staphylococcus aureus Infection and Research on Synergistic Antibiotics.",
+            "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) poses a significant clinical challenge due to its multidrug resistance, particularly to β-lactam antibiotics. This study comprehensively evaluated the natural compound emodin for its anti-MRSA activity, mechanisms of action, and potential for synergy with β-lactam antibiotics. Our findings demonstrate that emodin dose-dependently inhibits MRSA growth and abrogates biofilm formation at 2× MIC. Mechanistic studies revealed that emodin compromises cell membrane and wall integrity, induces oxidative stress, and downregulates the virulence factors SPA and EsxA. Furthermore, emodin acted synergistically with β-lactam antibiotics: it enhanced the ability of cefalexin to block bacterial adhesion and invasion of HaCat cells, and potentiated the efficacy of amoxicillin in clearing MRSA from infected macrophages. In conclusion, emodin employs a multi-target mechanism against MRSA and can resensitize the bacterium to conventional β-lactam antibiot",
+            "journal": "Life (Basel, Switzerland)",
+            "year": "2025",
+            "authors": [
+              "Chu Chenliang",
+              "Qin Liang",
+              "Peng Huayong",
+              "Kuang Tao",
+              "Li Yongshi"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41465858/"
+          },
+          {
+            "pmid": "32725811",
+            "title": "Comparison of Antibacterial Effect of Cationic Peptide LL-37 and Cefalexin on Clinical Staphylococcus aureus-induced Infection after Femur Fracture Fixation.",
+            "abstract": "Antimicrobial peptides are widely present in nature, with many of the antimicrobial peptides having antimicrobial activity against Gram-positive and Gram-negative bacteria, fungi, parasites, and even coated viruses. Internal fixation of fractures is a reliable technique. However, the fracture is difficult to heal and internal fixation is not easy to maintain after infection. This study aims to verify the antibacterial effect of cationic peptide LL-37 on Staphylococcus aureus, explore the anti-biofilm effects of LL-37, and compare the effects of the cationic peptide LL-37 and Cefalexin in treatment of postoperative infection of femoral fracture in vivo.",
+            "journal": "Orthopaedic surgery",
+            "year": "2020",
+            "authors": [
+              "Yan Cheng-Yuan",
+              "Liu Yu-Zhou",
+              "Xu Zhong-Hua",
+              "Yang Hao-Yu",
+              "Li Jin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Antimicrobial Cationic Peptides",
+              "Biofilms",
+              "Cephalexin",
+              "Disease Models, Animal",
+              "Femoral Fractures",
+              "Fracture Fixation, Internal",
+              "Humans",
+              "Rabbits"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32725811/"
+          },
+          {
+            "pmid": "25428411",
+            "title": "Staphylococcus aureus skin infection recurrences among household members: an examination of host, behavioral, and pathogen-level predictors.",
+            "abstract": "Many patients suffer from recurrent Staphylococcus aureus infections, but there are few data examining recurrence predictors.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2015",
+            "authors": [
+              "Miller Loren G",
+              "Eells Samantha J",
+              "David Michael Z",
+              "Ortiz Nancy",
+              "Taylor Alexis R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Chicago",
+              "Child",
+              "Child, Preschool",
+              "Cross-Sectional Studies",
+              "Family Characteristics",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25428411/"
+          },
+          {
+            "pmid": "37158826",
+            "title": "Effectiveness of oral cephalexin in antibiotic-course completion for methicillin-susceptible Staphylococcus aureus-induced bacteremic vertebral osteomyelitis.",
+            "abstract": "Methicillin-susceptible Staphylococcus aureus (MSSA) is the most common causative microorganism of pyogenic vertebral osteomyelitis (PVO). Although oral antimicrobial therapy with first-generation cephalosporins can treat MSSA infection, data on PVO are scarce. This study evaluated the treatment efficacy of cephalexin as oral antibiotic therapy for MSSA-induced PVO.",
+            "journal": "BMC infectious diseases",
+            "year": "2023",
+            "authors": [
+              "Okumura Nobumasa",
+              "Hayakawa Kayoko",
+              "Yamamoto Kei",
+              "Yamada Gen",
+              "Mezaki Kazuhisa"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Humans",
+              "Aged",
+              "Male",
+              "Anti-Bacterial Agents",
+              "Cephalexin",
+              "Methicillin",
+              "Staphylococcus aureus",
+              "Abscess"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37158826/"
+          },
+          {
+            "pmid": "35984202",
+            "title": "Ecthyma gangrenosum caused by Staphylococcus aureus in hematological malignancies: Case reports and literature review.",
+            "abstract": "Ecthyma gangrenosum (EG) is a potentially life-threatening, systemic infection generally caused by Pseudomonas aeruginosa. Data on EG caused by Staphylococcus aureus in patients with hematological malignancies are scarce. The present case report aimed to describe the clinical features of EG caused by S. aureus in patients with hematological malignancies and to provide a comprehensive review of previous studies on the topic.",
+            "journal": "Medicine",
+            "year": "2022",
+            "authors": [
+              "Kudo Nagata Yuka",
+              "Sekiya Noritaka",
+              "Fukushima Kazuaki",
+              "Horiuchi Masao",
+              "Doki Noriko"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Ecthyma",
+              "Hematologic Neoplasms",
+              "Humans",
+              "Male",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Middle Aged",
+              "Staphylococcal Infections",
+              "Staphylococcus aureus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35984202/"
+          },
+          {
+            "pmid": "35730963",
+            "title": "Cefadroxil Comparable to Cephalexin: Minimum Inhibitory Concentrations among Methicillin-Susceptible Staphylococcus aureus Isolates from Pediatric Musculoskeletal Infections.",
+            "abstract": "Cephalexin and cefadroxil are oral first-generation cephalosporins used to treat methicillin-susceptible Staphylococcus aureus (MSSA) infections. Despite its shorter half-life, cephalexin is more frequently prescribed, although cefadroxil is an appealing alternative, given its slower clearance and possibility for less frequent dosing. We report comparative MIC distributions for cefadroxil and cephalexin, as well as for oxacillin, cephalothin, ceftaroline, and cefazolin, for 48 unique clinical MSSA isolates from pediatric patients with musculoskeletal infections. Both cefadroxil and cephalexin had MIC50 values of 2 μg/mL and MIC90 values of 4 μg/mL. MIC50s for oxacillin, cephalothin, and ceftaroline were ≤0.25 μg/mL, and cefazolin's MIC50 was 0.5 μg/mL. While cefadroxil and cephalexin MICs are higher than those for other active agents, the distributions of MICs for cefadroxil and cephalexin are statistically equivalent, suggesting similar in vitro MSSA activities. Cefadroxil should be f",
+            "journal": "Microbiology spectrum",
+            "year": "2022",
+            "authors": [
+              "Haynes Andrew S",
+              "Prinzi Andrea",
+              "Silveira Lori J",
+              "Parker Sarah K",
+              "Lampe Jed N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Cefadroxil",
+              "Cefazolin",
+              "Cephalexin",
+              "Cephalothin",
+              "Child",
+              "Humans",
+              "Methicillin",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35730963/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06081196AZ",
+        "product": "Cephanmycin Capsule 500mg",
+        "active_ingredient": "CEPHALEXIN[500;mg;;0]",
+        "generic_name": "Cephalexin Monohydrate 500 mg Capsule",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-08-27",
+        "date_end": "2026-08-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06081196AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014217AZ",
+        "product": "AXCEL CEPHALEXIN-500 CAPSULE",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[526mg]",
+        "generic_name": "Cephalexin Monohydrate 500 mg Capsule",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-10-08",
+        "date_end": "2026-10-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014217AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014216AZ",
+        "product": "AXCEL CEPHALEXIN-250 CAPSULE",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[263mg]",
+        "generic_name": "Cephalexin Monohydrate 250 mg Capsule",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-10-08",
+        "date_end": "2026-10-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014216AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020023AZ",
+        "product": "AXCEL CEPHALEXIN-125 SUSPENSION",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[131.48mg]",
+        "generic_name": "Cephalexin Monohydrate 125 mg /5 ml Syrup",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-30",
+        "date_end": "2026-12-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020023AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19970955AZ",
+        "product": "SOFILEX CAPSULE 250MG",
+        "active_ingredient": "CEPHALEXIN[250MG                         ]",
+        "generic_name": "Cephalexin Monohydrate 250 mg Capsule",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-28",
+        "date_end": "2027-05-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19970955AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07050015AZ",
+        "product": "Dyna Cephalexin Capsule 500mg",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[526.32;mg;;0]",
+        "generic_name": "Cephalexin Monohydrate 500 mg Capsule",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-06",
+        "date_end": "2027-06-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07050015AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07050014AZ",
+        "product": "Dyna Cephalexin Capsule 250mg",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[263.16;mg;;0]",
+        "generic_name": "Cephalexin Monohydrate 250 mg Capsule",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-06",
+        "date_end": "2027-06-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07050014AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20122235ACEZ",
+        "product": "HOVID CEPHALEXIN CAPSULE 500MG",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[500MG]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-02",
+        "date_end": "2027-09-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20122235ACEZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07031092AZ",
+        "product": "Dynalexin Dry Syrup 250MG/5ML",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[258.33;mg;5;ml]",
+        "generic_name": "Cephalexin Monohydrate 250 mg/5 ml Syrup",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07031092AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07031083AZ",
+        "product": "Dynalexin Dry Syrup 125MG/5ML",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[130;mg;5;ml]",
+        "generic_name": "Cephalexin Monohydrate 125 mg /5 ml Syrup",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07031083AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19973678AZ",
+        "product": "PHARMANIAGA CEPHALEXIN SUSPENSION 250MG",
+        "active_ingredient": "CEPHALEXIN[250MG/5ML                     ]",
+        "generic_name": "Cephalexin Monohydrate 250 mg/5 ml Syrup",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-05",
+        "date_end": "2028-01-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19973678AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984044AZ",
+        "product": "PHARMANIAGA CEPHALEXIN CAPSULE 500MG",
+        "active_ingredient": "CEPHALEXIN[500MG                         ]",
+        "generic_name": "Cephalexin Monohydrate 500 mg Capsule",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-28",
+        "date_end": "2028-01-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984044AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984043AZ",
+        "product": "PHARMANIAGA CEPHALEXIN CAPSULE 250MG",
+        "active_ingredient": "CEPHALEXIN[250MG                         ]",
+        "generic_name": "Cephalexin Monohydrate 250 mg Capsule",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-28",
+        "date_end": "2028-01-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984043AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984839AZ",
+        "product": "SOFILEX ORAL SUSPENSION",
+        "active_ingredient": "CEPHALEXIN[125MG                         ]",
+        "generic_name": "Cephalexin Monohydrate 125 mg /5 ml Syrup",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984839AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984399AZ",
+        "product": "CEPHALEXIN GRANULES FOR ORAL SUSPENSION MPI 250mg/5ml",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[250MG                         ]",
+        "generic_name": "Cephalexin Monohydrate 250 mg/5 ml Syrup",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-06",
+        "date_end": "2028-07-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984399AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19985184AZ",
+        "product": "CEPHALEXIN TABLETS `MPI` 500MG",
+        "active_ingredient": "CEPHALEXIN[500MG                         ]",
+        "generic_name": "Cephalexin Monohydrate 500 mg Tablet",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-02-08",
+        "date_end": "2029-02-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19985184AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL14030034HA",
+        "product": "Cephan Water Soluble Powder 500mg/g",
+        "active_ingredient": "CEFALEXIN/ CEPHALEXIN[500 mg]",
+        "generic_name": NaN,
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "VETERINARY ",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-29",
+        "date_end": "2029-03-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL14030034HA"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111788AZ",
+        "product": "Aurocef  Capsules 500mg",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[525.762;mg;;0]",
+        "generic_name": "Cephalexin Monohydrate 500 mg Capsule",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-04",
+        "date_end": "2029-07-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111788AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL08111786AZ",
+        "product": "Aurocef Capsules 250mg",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[262.88;mg;;mg]",
+        "generic_name": "Cephalexin Monohydrate 250 mg Capsule",
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-04",
+        "date_end": "2029-07-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL08111786AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940383AZ",
+        "product": "PHARMANIAGA CEPHALEXIN SUSPENSION 125 MG",
+        "active_ingredient": "CEPHALEXIN[125MG/5ML                     ]",
+        "generic_name": "Cephalexin Monohydrate 125 mg /5 ml Syrup",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-10-07",
+        "date_end": "2029-10-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940383AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19900375AZ",
+        "product": "CEPHALEXIN GRANULES FOR ORAL SUSPENSION MPI 125mg/5ml",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[=125MG/5ML                    ]",
+        "generic_name": "Cephalexin Monohydrate 125 mg /5 ml Syrup",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-07",
+        "date_end": "2029-11-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19900375AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076029ACZ",
+        "product": "Uphalexin Capsule 250mg",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[263 mg]",
+        "generic_name": NaN,
+        "holder": "Duopharma Marketing Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076029ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076028ACZ",
+        "product": "Uphalexin Granules 125mg/5ml",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[131.48 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "Duopharma Marketing Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076028ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20076030ACZ",
+        "product": "Uphalexin Capsule 500mg",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[526 mg]",
+        "generic_name": NaN,
+        "holder": "Duopharma Marketing Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-07-10",
+        "date_end": "2030-07-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20076030ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19910003AZ",
+        "product": "CEPHALEXIN CAPSULES 'MPI' 250 MG ",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[=250MG                        ]",
+        "generic_name": "Cephalexin Monohydrate 250 mg Capsule",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-03",
+        "date_end": "2030-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19910003AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL16035027AZ",
+        "product": "Axcel Cephalexin-250 Suspension",
+        "active_ingredient": "CEPHALEXIN MONOHYDRATE[262.95mg;5ml]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-03-13",
+        "date_end": "2031-03-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL16035027AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00567",
+    "name": "Cephalexin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Cephalexin"
+      },
+      "queried_at": "2026-03-04T16:57:08.314117",
+      "status": "success",
+      "result_count": 26,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Cephalexin"
+      },
+      "queried_at": "2026-03-04T16:57:21.865632",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:57:22.827077",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:57:27.059784",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:57:29.262615",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-04T16:57:29.944291",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-04T16:58:02.424709",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-04T16:58:05.470492",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "arthropathy"
+      },
+      "queried_at": "2026-03-04T16:58:08.496978",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "arthropathy"
+      },
+      "queried_at": "2026-03-04T16:58:12.408563",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "arthropathy"
+      },
+      "queried_at": "2026-03-04T16:58:16.162374",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "streptococcal infection"
+      },
+      "queried_at": "2026-03-04T16:58:17.204562",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "streptococcal infection"
+      },
+      "queried_at": "2026-03-04T16:58:22.050333",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "streptococcal infection"
+      },
+      "queried_at": "2026-03-04T16:58:25.427432",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-04T16:58:27.665202",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-04T16:58:31.298144",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-04T16:58:35.780699",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:58:35.787836",
+    "version": "1.0"
+  }
+}

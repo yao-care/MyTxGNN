@@ -1,0 +1,534 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clobetasol Propionate",
+    "disease": "dermatitis",
+    "query_string": "Clobetasol Propionate AND dermatitis"
+  },
+  "data": {
+    "query": "Clobetasol Propionate AND dermatitis",
+    "results": [
+      {
+        "pmid": "20672788",
+        "title": "Diagnosis and management of contact dermatitis.",
+        "abstract": "Contact dermatitis is a common inflammatory skin condition characterized by erythematous and pruritic skin lesions that occur after contact with a foreign substance. There are two forms of contact dermatitis: irritant and allergic. Irritant contact dermatitis is caused by the non-immune-modulated irritation of the skin by a substance, leading to skin changes. Allergic contact dermatitis is a delayed hypersensitivity reaction in which a foreign substance comes into contact with the skin; skin changes occur after reexposure to the substance. The most common substances that cause contact dermatitis include poison ivy, nickel, and fragrances. Contact dermatitis usually leads to erythema and scaling with visible borders. Itching and discomfort may also occur. Acute cases may involve a dramatic flare with erythema, vesicles, and bullae; chronic cases may involve lichen with cracks and fissures. When a possible causative substance is known, the first step in confirming the diagnosis is determ",
+        "journal": "American family physician",
+        "year": "2010",
+        "authors": [
+          "Usatine Richard P",
+          "Riojas Marcela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Dermatitis, Contact",
+          "Diagnosis, Differential",
+          "Glucocorticoids",
+          "Humans",
+          "Incidence",
+          "Patch Tests",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20672788/"
+      },
+      {
+        "pmid": "32462741",
+        "title": "Allergic contact dermatitis due to clobetasol propionate and lanoconazole.",
+        "abstract": "",
+        "journal": "Contact dermatitis",
+        "year": "2020",
+        "authors": [
+          "Kawai Misa",
+          "Sowa-Osako Junko",
+          "Omura Reina",
+          "Fukai Kazuyoshi",
+          "Tsuruta Daisuke"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Clobetasol",
+          "Dermatitis, Allergic Contact",
+          "Humans",
+          "Imidazoles",
+          "Male",
+          "Middle Aged",
+          "Patch Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32462741/"
+      },
+      {
+        "pmid": "18806904",
+        "title": "Clobetasol propionate--where, when, why?",
+        "abstract": "Clobetasol propionate is the most potent of all topical steroids. It is successfully applied in the treatment of various skin diseases such as atopic dermatitis, psoriasis and vulvar lichen sclerosus. The therapy is, however, mainly symptomatic. A preventive effect is only reported in the treatment of the latter. Clobetasol propionate exerts antiinflammatory, immunosuppressive and antimitotic effects influencing the growth, differentiation and function of various cells and inhibiting cytokine production. Seven different dosage forms are available to deliver the drug to the living cells of the skin. Their choice might additionally affect patient compliance. The potency of clobetasol propionate, however, is accompanied by local and systemic side effects, such as skin atrophy and hypothalamic-pituitary-adrenal axis suppression. Patients applying clobetasol propionate must be well instructed in how to use it. Physicians prescribing clobetasol propionate should consider a diversity of facto",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2008",
+        "authors": [
+          "Pels Ragna",
+          "Sterry Wolfram",
+          "Lademann Jürgen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Clobetasol",
+          "Dermatitis, Atopic",
+          "Female",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Psoriasis",
+          "Vulvar Lichen Sclerosus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18806904/"
+      },
+      {
+        "pmid": "30222987",
+        "title": "Clobetasol pretreatment to reduce and prevent injection site dermatitis from biologic agents.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2019",
+        "authors": [
+          "Liu Deede",
+          "Wu Dominic J",
+          "Rajpara Anand",
+          "Wang Ting",
+          "Aires Daniel J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Anti-Inflammatory Agents",
+          "Biological Factors",
+          "Clobetasol",
+          "Dermatitis",
+          "Humans",
+          "Injections, Subcutaneous",
+          "Medication Adherence",
+          "Ointments"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30222987/"
+      },
+      {
+        "pmid": "3528243",
+        "title": "Topical clobetasol-17-propionate: review of its clinical efficacy and safety.",
+        "abstract": "Clobetasol-17-propionate, the most potent of currently available topical steroids as predicted by the vasoconstrictor assay, has just been approved in the United States. In psoriasis, it has proved significantly more effective than class II steroids and as or more effective than the only marketed class I steroid. In the more steroid-responsive eczemas, the superior efficacy of clobetasol is also apparent, but less striking. Clobetasol prolongs remission rates, making intermittent treatment schedules feasible and minimizing inherent potential steroid side effects. Clobetasol may also be useful in the treatment of a myriad of other skin conditions. A review of the pharmacology, efficacy, and side effects of this addition to our dermatologic armamentarium is presented here.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "1986",
+        "authors": [
+          "Olsen E A",
+          "Cornell R C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Betamethasone",
+          "Clobetasol",
+          "Combined Modality Therapy",
+          "Drug Administration Schedule",
+          "Eczema",
+          "Hypothalamo-Hypophyseal System",
+          "Pituitary-Adrenal System",
+          "Psoriasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3528243/"
+      },
+      {
+        "pmid": "19454093",
+        "title": "Seborrhoeic dermatitis.",
+        "abstract": "Seborrhoeic dermatitis affects at least 1-3% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation involving T cells and complement. Seborrhoeic dermatitis tends to relapse after treatment.",
+        "journal": "BMJ clinical evidence",
+        "year": "2007",
+        "authors": [
+          "Manríquez Juan Jorge",
+          "Uribe Pablo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Dermatitis, Seborrheic",
+          "Face",
+          "Humans",
+          "Ketoconazole",
+          "Lithium",
+          "Malassezia",
+          "Remission Induction",
+          "Scalp Dermatoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454093/"
+      },
+      {
+        "pmid": "24672120",
+        "title": "Relative efficacy and interchangeability ofvarious clobetasol propionate vehicles in the management of steroid-responsive dermatoses.",
+        "abstract": "Topical corticosteroids have long been the cornerstone in thetreatment of steroid-responsive dermatoses. Despite the effectiveness of these formulations, there is a misperception that drugs delivered via ointments are more potent than those delivered via other vehicles. Potency, however, is a complex function of the physical and chemical properties of both the active ingredient and its vehicle. Studies have determined that newer vehicles (eg, lotions), particularly those in the super-high-potency class, not only heighten the ability of the active ingredient to penetrate skin but also are preferred by patients over ointments and creams.",
+        "journal": "Current therapeutic research, clinical and experimental",
+        "year": "2005",
+        "authors": [
+          "Feldman Steven R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24672120/"
+      },
+      {
+        "pmid": "32045171",
+        "title": "Unbearable wearables.",
+        "abstract": "As wearable devices play an increasing role in the management of health and disease, adverse skin reactions to wearables have become more common. However, the management of allergic contact dermatitis is challenging and new treatment options more compatible with wearable devices are needed. In a 40-year-old woman with contact dermatitis to a continuous glucose monitoring device, topical clobetasol propionate 0.05% spray proved to be an effective treatment that was compatible with the application of adhesive wearables. This case demonstrates that spray formulations of topical steroids are a good option for the treatment of dermatitis under wearable devices such as continuous glucose monitors or ostomy appliance.",
+        "journal": "Dermatology online journal",
+        "year": "2019",
+        "authors": [
+          "Wei Jenny J",
+          "Hayward Elizabeth May",
+          "Leung Thomas H",
+          "Rosenbach Misha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Blood Glucose Self-Monitoring",
+          "Clobetasol",
+          "Dermatitis, Allergic Contact",
+          "Female",
+          "Humans",
+          "Receptors, Glucocorticoid",
+          "Wearable Electronic Devices"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32045171/"
+      },
+      {
+        "pmid": "21418692",
+        "title": "Seborrhoeic dermatitis.",
+        "abstract": "Seborrhoeic dermatitis affects at least 10% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation by still poorly defined mechanisms. Seborrhoeic dermatitis tends to relapse after treatment.",
+        "journal": "BMJ clinical evidence",
+        "year": "2010",
+        "authors": [
+          "Naldi Luigi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Betamethasone Valerate",
+          "Dermatitis, Seborrheic",
+          "Emollients",
+          "Hair Preparations",
+          "Humans",
+          "Hydrocortisone",
+          "Severity of Illness Index",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21418692/"
+      },
+      {
+        "pmid": "30145645",
+        "title": "Contact Dermatitis to Medications and Skin Products.",
+        "abstract": "Consumer products and topical medications today contain many allergens that can cause a reaction on the skin known as allergic contact dermatitis. This review looks at various allergens in these products and reports current allergic contact dermatitis incidence and trends in North America, Europe, and Asia. First, medication contact allergy to corticosteroids will be discussed along with its five structural classes (A, B, C, D1, D2) and their steroid test compounds (tixocortol-21-pivalate, triamcinolone acetonide, budesonide, clobetasol-17-propionate, hydrocortisone-17-butyrate). Cross-reactivities between the steroid classes will also be examined. Next, estrogen and testosterone transdermal therapeutic systems, local anesthetic (benzocaine, lidocaine, pramoxine, dyclonine) antihistamines (piperazine, ethanolamine, propylamine, phenothiazine, piperidine, and pyrrolidine), topical antibiotics (neomycin, spectinomycin, bacitracin, mupirocin), and sunscreen are evaluated for their potenti",
+        "journal": "Clinical reviews in allergy & immunology",
+        "year": "2019",
+        "authors": [
+          "Nguyen Henry L",
+          "Yiannias James A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Allergens",
+          "Animals",
+          "Cosmetics",
+          "Dermatitis, Allergic Contact",
+          "Drug Hypersensitivity",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30145645/"
+      },
+      {
+        "pmid": "9542676",
+        "title": "Clobetasol propionate emollient 0.05% in the treatment of atopic dermatitis.",
+        "abstract": "A 4-week, double-blind, randomized clinical trial, comparing the efficacy and safety of clobetasol propionate emollient cream 0.05% and its vehicle, was conducted at four private dermatology clinics in 81 non-hospitalized patients (> or = 12 years old) with moderate-to-severe atopic dermatitis covering 2% or more of their body surface. All patients had at least one lesion 2 cm or more in diameter. Three signs/symptoms of target lesions (erythema, pruritus, and induration/papulation) were scored by investigators on a scale of 0-3 (in 0.5-point increments; 0 = absent, 1 = mild, 2 = moderate, and 3 = severe); the total of the three scores had to be > or = 6 for patients to qualify for study entry. Patients were excluded if they were immunocompromised, pregnant, or nursing; had skin atrophy, telangiectasia or striae in skin areas to be treated; or had received topical treatments for atopic dermatitis within 1 week prestudy, intramuscular triamcinolone within 6 weeks prestudy, or long-term ",
+        "journal": "International journal of dermatology",
+        "year": "1998",
+        "authors": [
+          "Maloney J M",
+          "Morman M R",
+          "Stewart D M",
+          "Tharp M D",
+          "Brown J J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Anti-Inflammatory Agents",
+          "Clobetasol",
+          "Dermatitis, Atopic",
+          "Double-Blind Method",
+          "Emollients",
+          "Glucocorticoids",
+          "Humans",
+          "Ointments"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9542676/"
+      },
+      {
+        "pmid": "40641358",
+        "title": "Characterizing local and systemic exposure to clobetasol propionate in healthy subjects and patients with atopic dermatitis.",
+        "abstract": "There is a potential risk of systemic side-effects with the use of potent corticosteroids, such as clobetasol propionate (CP). This concern is of particular interest in paediatric patients. The aim of this study was to develop and verify a physiologically based pharmacokinetic (PBPK) model to describe the local and systemic exposure to CP following topical application over a period of up to 4 weeks.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "2025",
+        "authors": [
+          "Duong Janna K",
+          "van Dijkman Sven",
+          "Ong Gary",
+          "Marta Alexandra",
+          "Ceci Adriana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Dermatitis, Atopic",
+          "Clobetasol",
+          "Adult",
+          "Female",
+          "Male",
+          "Models, Biological",
+          "Young Adult",
+          "Middle Aged",
+          "Skin Absorption"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40641358/"
+      },
+      {
+        "pmid": "35214115",
+        "title": "Novel Dermal Delivery Cargos of Clobetasol Propionate: An Update.",
+        "abstract": "Dermal disorders such as psoriasis and eczema are associated with modifications in the chemical and molecular composition of the skin. Clobetasol propionate (CP), a superpotent topical glucocorticoid, is widely used for the therapeutic management of various skin conditions, owing to its strong anti-inflammatory, antipruritic, vasoconstrictive, and antiproliferative activities. Safety studies demonstrated that CP is safer for a shorter period, however, with prolonged application, it shows secondary side effects such as photosensitivity, Cushing-like syndrome, allergic contact dermatitis, osteonecrosis, hypopigmentation, steroid acne, and skin atrophy. Therefore, the US FDA (United States Food and Drug Administration) has restricted the usage of CP to not more than 15 days. Research scientists addressed its several formulations and drug delivery issues, such as low water solubility, less stability, photodegradation, and poor absorption, by incorporating them into novel nanobased delivery",
+        "journal": "Pharmaceutics",
+        "year": "2022",
+        "authors": [
+          "Nair Anroop B",
+          "Kumar Sunil",
+          "Dalal Pooja",
+          "Nagpal Chahat",
+          "Dalal Sweta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35214115/"
+      },
+      {
+        "pmid": "28785355",
+        "title": "Impetiginized Dyshidrotic Eczema.",
+        "abstract": "A 16 years old female patient, affected by atopic dermatitis and rhinoconjunctivitis allergica since childhood, requested a dermatologic consultation for lesions which had appeared after 3 months of local treatment with clobethasole propionate. The histological analysis confirmed the diagnosis of dyshidrotic eczema and the microbiological smears demonstrated a significant infection with Staphylococcus aureus. The risk of developing corticosteroids' side-effects depends on the potency of the product, extended period of use and the volume of product applied. Clobetasol propionate is a group I- highly potent corticosteroid, which should be used for a maximum period of 2 weeks. Several authors have found that this agent has cumulative depot effect, persisting in the epidermis for 4 days after only one application. Taking together these observations, sustained by the clinical case presented above, we can conclude that the infectious risks associated with topical corticosteroid treatment mus",
+        "journal": "Open access Macedonian journal of medical sciences",
+        "year": "2017",
+        "authors": [
+          "Tchernev Georgi",
+          "Zanardelli Matteo",
+          "Voicu Cristiana",
+          "Bakardzhiev Ilko",
+          "Lotti Torello"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28785355/"
+      },
+      {
+        "pmid": "3902682",
+        "title": "Clobetasol propionate versus fluocinonide creams in psoriasis and eczema.",
+        "abstract": "A double-blind, parallel comparison was made of the short-term efficacy and safety of three times daily regimens of 0.05% clobetasol propionate cream and 0.05% fluocinonide cream in 114 adolescent and adult patients with psoriasis and 113 with eczema. After 2 weeks of topical applications, patients were assessed according to (1) investigators' overall judgment of clinical response, (2) degree of severity of specific signs and symptoms, and (3) patients' evaluation of improvement. In all three response categories in psoriasis, and in two of three in eczema, clobetasol was statistically significantly superior to fluocinonide (p less than 0.05-p less than 0.001). Healing commenced more rapidly with clobetasol and there was no indication of tachyphylaxis. In contrast, the healing rate with fluocinonide slowed noticeably after the first week, and there was a greater tendency to relapse following fluocinonide treatment. Both regimens were safe: drug-related side effects were generally mild a",
+        "journal": "International journal of dermatology",
+        "year": "1985",
+        "authors": [
+          "Jegasothy B",
+          "Jacobson C",
+          "Levine N",
+          "Millikan L",
+          "Olsen E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Betamethasone",
+          "Clinical Trials as Topic",
+          "Clobetasol",
+          "Double-Blind Method",
+          "Eczema",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3902682/"
+      },
+      {
+        "pmid": "27610146",
+        "title": "Enhancement of Anti-Dermatitis Potential of Clobetasol Propionate by DHA [Docosahexaenoic Acid] Rich Algal Oil Nanoemulsion Gel.",
+        "abstract": "The aim of the present study was to investigate the potential of nanoemulsion formulation for topical delivery of Clobetasol propionate (CP) using algal oil (containing omega-3 fatty acids) as the oil phase. CP has anti-inflammatory, immunomodulatory and antiproliferative activities. However, its clinical use is restricted to some extent due to its poor permeability across the skin. Algal oil was used as the oil phase and was also exploited for its anti-inﬂammatory effect along with CP in the treatment of inﬂammation associated with dermatitis. Nanoemulsion formulations were prepared by aqueous phase titration method, using algal oil, tween 20, PEG 200 and water as the oil phase, surfactant, co-surfactant and aqueous phase respectively. Furthermore, different formulations were subjected to evaluate for ex-vivo permeation and in-vivo anti-inflammatory, irritation and contact dermatitis studies. The optimized nanoemulsion was converted into hydrogel-thickened nanoemulsion system (HTN) us",
+        "journal": "Iranian journal of pharmaceutical research : IJPR",
+        "year": "2016",
+        "authors": [
+          "Sarfaraz Alam Mohammad",
+          "Ali Mohammad Sajid",
+          "Zakir Foziyah",
+          "Alam Nawazish",
+          "Intakhab Alam Mohammad"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27610146/"
+      },
+      {
+        "pmid": "41379754",
+        "title": "Evaluation of the Effect of Clobetasol Propionate on Circulating Cortisol and Growth Velocity in Children with Atopic Dermatitis: A Modelling and Simulation Study.",
+        "abstract": "Children with atopic dermatitis (AD) appear to have higher skin permeation, which may increase the risk of systemic adverse events following administration of potent topical corticosteroids, such as clobetasol propionate (CP). However, the assessment of dermal absorption in a controlled clinical trial in children is not feasible. Using model-based approaches, this study aimed to characterise stratum corneum (SC) and systemic exposure to CP following topical application of the cream formulation and to investigate its effects on circulating cortisol levels and growth velocity (GV) in children with AD.",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "2025",
+        "authors": [
+          "Duong Janna K",
+          "van Dijkman Sven C",
+          "Ong Gary P Y",
+          "Marta Alexandra",
+          "Ceci Adriana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41379754/"
+      },
+      {
+        "pmid": "17569404",
+        "title": "Clobetasol propionate shampoo 0.05% in the treatment of seborrheic dermatitis of the scalp: results of a pilot study.",
+        "abstract": "Seborrheic dermatitis (SD), a common dermatosis associating hyperseborrhea, erythema, itching, and dandruff, has frequent scalp involvement. Malassezia furfur infection seems to play an important role in the condition's etiopathology. Treatment of SD usually consists of corticosteroids or antifungals, such as ketoconazole. The aim of this multicenter, randomized, investigator-blinded, parallel-group pilot study was to evaluate the efficacy and safety of clobetasol propionate shampoo 0.05% after different short-contact application times compared with its vehicle and ketoconazole foaming gel 2% in the treatment of SD of the scalp. For 4 weeks, 55 subjects received one of the following treatments twice weekly: clobetasol propionate shampoo for 2.5, 5, or 10 minutes; clobetasol propionate vehicle for 10 minutes; or ketoconazole foaming gel for 5 minutes before rinsing off. Efficacy criteria included total severity score (TSS) and individual scores of signs such as itching and global improv",
+        "journal": "Cutis",
+        "year": "2007",
+        "authors": [
+          "Reygagne Pascal",
+          "Poncet Michel",
+          "Sidou Farzaneh",
+          "Soto Pascale"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Female",
+          "Hair Preparations",
+          "Humans",
+          "Male",
+          "Pilot Projects"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17569404/"
+      },
+      {
+        "pmid": "25053981",
+        "title": "Retapamulin 1% Ointment and Clobetasol Propionate 0.05% Foam is More Efficacious than Vehicle Ointment and Clobetasol 0.05% Propionate Foam in the Treatment of Hand/Foot Dermatitis: A Single Center, Randomized, Double-blind Study.",
+        "abstract": "Staphylococcus aureus has been implicated in the pathogenesis of adult hand/foot dermatitis.",
+        "journal": "The Journal of clinical and aesthetic dermatology",
+        "year": "2014",
+        "authors": [
+          "Haddican Madelaine",
+          "Linkner Rita V",
+          "Singer Giselle",
+          "Jim Shelbi C",
+          "Gagliotti Matthew"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25053981/"
+      },
+      {
+        "pmid": "9055356",
+        "title": "Effects of calcipotriol and clobetasol-17-propionate on UVB-irradiated human skin: an immunohistochemical study.",
+        "abstract": "Corticosteroids and vitamin D3 analogues inhibit proliferation, enhance normal keratinisation and interfere with cutaneous inflammation in in vitro systems. Both treatments are effective in psoriasis, although several reports suggest that vitamin D3 is less effective in reducing the inflammatory changes compared to its potent effect on keratinocyte growth and differentiation. The aim of the present study was to compare and contrast the effects of the vitamin D3 analogue calcipotriol, clobetasol-17-propionate and a placebo on immunohistochemical markers for epidermal growth, keratinisation and inflammation induced by a standardised single challenge with ultraviolet B (UVB) radiation in normal human skin. Clobetasol proved to inhibit UVB-induced proliferation of epidermal cells, tenascin induction, keratin 16 induction and the accumulation of T lymphocytes and CD1a-positive cells. Epidermal thinning due to clobetasol was also observed. No effect of clobetasol was shown on the enhanced te",
+        "journal": "Skin pharmacology : the official journal of the Skin Pharmacology Society",
+        "year": "1996",
+        "authors": [
+          "van der Vleuten C J",
+          "Snijders C G",
+          "de Jong E M",
+          "van de Kerkhof P C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Calcitriol",
+          "Cell Differentiation",
+          "Cell Division",
+          "Clobetasol",
+          "Dermatologic Agents",
+          "Erythema",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9055356/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:04:06.732271",
+  "success": true,
+  "error_message": null
+}

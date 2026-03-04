@@ -1,0 +1,635 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "bacterial pneumonia",
+    "query_string": "Clarithromycin AND bacterial pneumonia"
+  },
+  "data": {
+    "query": "Clarithromycin AND bacterial pneumonia",
+    "results": [
+      {
+        "pmid": "38184008",
+        "title": "Clarithromycin for early anti-inflammatory responses in community-acquired pneumonia in Greece (ACCESS): a randomised, double-blind, placebo-controlled trial.",
+        "abstract": "Addition of macrolide antibiotics to β-lactam antibiotics for the treatment of patients in hospital with community-acquired pneumonia is based on results from observational studies and meta-analyses rather than randomised clinical trials. We investigated if addition of the macrolide clarithromycin to treatment with a β-lactam antibiotic in this population could improve early clinical response-the new regulatory endpoint for community-acquired pneumonia-and explored the possible contribution of modulation of the inflammatory host response to that outcome.",
+        "journal": "The Lancet. Respiratory medicine",
+        "year": "2024",
+        "authors": [
+          "Giamarellos-Bourboulis Evangelos J",
+          "Siampanos Athanasios",
+          "Bolanou Amalia",
+          "Doulou Sarantia",
+          "Kakavoulis Nikolaos"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Clarithromycin",
+          "Greece",
+          "Prospective Studies",
+          "Procalcitonin",
+          "Pneumonia",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38184008/"
+      },
+      {
+        "pmid": "39383346",
+        "title": "Treatment of Macrolide-resistant Mycoplasma pneumoniae Pneumonia in Children: A Meta-analysis of Macrolides Versus Tetracyclines.",
+        "abstract": "The global prevalence of macrolide-resistant Mycoplasma pneumoniae (MRMP) pneumonia infections, particularly in children, is on the rise. It is imperative to assess the clinical efficacies of alternative antibiotics such as tetracyclines to ensure effective treatment, mitigate antibiotic resistance, enhance clinical outcomes, and minimize the spread of resistant strains among MRMP-infected children. The objective of this study was to compare the therapeutic efficacies of macrolides and tetracyclines in treating MRMP pneumonia in children.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2025",
+        "authors": [
+          "Bolormaa Erdenetuya",
+          "Park Ji Young",
+          "Choe Young June",
+          "Kang Cho Ryok",
+          "Choe Seung Ah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pneumonia, Mycoplasma",
+          "Macrolides",
+          "Mycoplasma pneumoniae",
+          "Anti-Bacterial Agents",
+          "Tetracyclines",
+          "Child",
+          "Drug Resistance, Bacterial",
+          "Treatment Outcome",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39383346/"
+      },
+      {
+        "pmid": "40481686",
+        "title": "Clarithromycin Versus Azithromycin for Community-Acquired Pneumonia and the Risk of Major Adverse Cardiovascular Events: A Multicentre Cohort Study Using Data From Canada and Denmark.",
+        "abstract": "Studies suggest that clarithromycin is associated with an increased risk of major adverse cardiovascular events (MACE) among adults with coronary artery disease. However, data comparing clarithromycin to other macrolides, such as azithromycin, in a broader population are lacking.",
+        "journal": "Pharmacoepidemiology and drug safety",
+        "year": "2025",
+        "authors": [
+          "Itenov Theis Skovsgaard",
+          "Bai Anthony D",
+          "Biering-Sørensen Tor",
+          "Verma Amol",
+          "Razak Fahad"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Canada"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40481686/"
+      },
+      {
+        "pmid": "31650904",
+        "title": "Systematic review and meta-analysis of the safety of erythromycin compared to clarithromycin in adults and adolescents with pneumonia.",
+        "abstract": "Macrolides are recommended for the treatment of community-acquired pneumonia (CAP). It is debatable whether erythromycin is associated with more adverse drug reactions (ADRs) compared to clarithromycin, and both are recommended in clinical practice guidelines. This meta-analysis aim is to compare ADRs in CAP patients treated with erythromycin versus clarithromycin. Two investigators independently searched PubMed, EMBASE and Cochrane Library databases through Feb 07, 2019. Randomized-controlled trials (RCTs) comparing ADRs of monotherapy with erythromycin versus with clarithromycin in adults or adolescents with CAP were included. We estimated risk ratios (RRs) with 95% confidence intervals (CIs) using random-effects models and evaluated heterogeneity (I2). Bias risk was assessed using the Cochrane risk of bias tool for RCTs. Five RCTs (total of 693 patients) were included. A significantly higher discontinuation rate due to ADRs was found with erythromycin compared with clarithromycin (R",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "2020",
+        "authors": [
+          "Eljaaly Khalid",
+          "Botaish Ahmed",
+          "Bahobail Fawaz",
+          "Almehmadi Mohamed",
+          "Assabban Ziyad"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Male",
+          "Pneumonia, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31650904/"
+      },
+      {
+        "pmid": "35523718",
+        "title": "Efficacy of erythromycin compared to clarithromycin and azithromycin in adults or adolescents with community-acquired pneumonia: A Systematic Review and meta-analysis of randomized controlled trials.",
+        "abstract": "It is debatable whether erythromycin has similar efficacy to other macrolides in treating community-acquired pneumonia (CAP). The aim of this meta-analysis is to compare the efficacy of erythromycin with clarithromycin and azithromycin.",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2022",
+        "authors": [
+          "Ashy Noha",
+          "Alharbi Layan",
+          "Alkhamisi Rawan",
+          "Alradadi Rima",
+          "Eljaaly Khalid"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Erythromycin",
+          "Humans",
+          "Pneumonia",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35523718/"
+      },
+      {
+        "pmid": "18444850",
+        "title": "Effect of clarithromycin in patients with sepsis and ventilator-associated pneumonia.",
+        "abstract": "Because clarithromycin provided beneficiary nonantibiotic effects in experimental studies, its efficacy was tested in patients with sepsis and ventilator-associated pneumonia (VAP).",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2008",
+        "authors": [
+          "Giamarellos-Bourboulis Evangelos J",
+          "Pechère Jean-Claude",
+          "Routsi Christina",
+          "Plachouras Diamantis",
+          "Kollias Spyridon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pneumonia, Ventilator-Associated"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18444850/"
+      },
+      {
+        "pmid": "39647798",
+        "title": "Clarithromycin for improved clinical outcomes in community-acquired pneumonia: A subgroup analysis of the ACCESS trial.",
+        "abstract": "In the ACCESS trial, the addition of clarithromycin to standard-of-care antibiotics (SoC) enhanced early clinical response and attenuated the inflammatory burden in adults with community-acquired pneumonia (CAP) requiring hospitalisation. A post-hoc analysis was performed to investigate the benefit in specific subgroups.",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2025",
+        "authors": [
+          "Akinosoglou Karolina",
+          "Leventogiannis Konstantinos",
+          "Tasouli Elisavet",
+          "Kakavoulis Nikolaos",
+          "Niotis Georgios"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Anti-Bacterial Agents",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Treatment Outcome",
+          "Procalcitonin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39647798/"
+      },
+      {
+        "pmid": "19003763",
+        "title": "[Organizing pneumonia--clarithromycin treatment].",
+        "abstract": "Organizing pneumonia (OP) is a rare syndrome that has been associated with a variety of underlying factors including infections, collagen vascular diseases, toxic fumes, cancer, drugs and radiotherapy. A cryptogenic form is also observed. OP is a curable disease in the most cases. Steroids are the standard therapy, but other treatment regimens have been used as well.",
+        "journal": "Pneumonologia i alergologia polska",
+        "year": "2008",
+        "authors": [
+          "Radzikowska Elzbieta",
+          "Wiatr Elzbieta",
+          "Gawryluk Dariusz",
+          "Langfort Renata",
+          "Bestry Iwona"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Biopsy",
+          "Biopsy, Needle",
+          "Bronchoscopy",
+          "Chest Pain",
+          "Clarithromycin",
+          "Cough",
+          "Cryptogenic Organizing Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19003763/"
+      },
+      {
+        "pmid": "2140330",
+        "title": "Efficacy and safety of clarithromycin versus josamycin in the treatment of hospitalized patients with bacterial pneumonia.",
+        "abstract": "The efficacy and safety of 500 mg clarithromycin and 1000 mg josamycin both given twice daily for a maximum of 14 days were compared in the treatment of 72 hospitalized patients with bacterial pneumonia. The predominant pathogens isolated were Streptococcus pneumoniae and Staphylococcus aureus. Clinical success was reported for 91.5% of patients treated with clarithromycin and for 87.0% of those treated with josamycin. Eradication of the causative pathogen was noted in 85.7% of patients receiving clarithromycin and in 90% of those receiving josamycin. Adverse events considered probably to relate to therapy were experienced by 2% of patients treated with clarithromycin and by 12.5% of those treated with josamycin; one patient treated with josamycin was withdrawn because of severe nausea and moderate vomiting. Treatment with clarithromycin at half the dosage of josamycin was found to have comparable efficacy and to be associated with a lower incidence of adverse events.",
+        "journal": "The Journal of international medical research",
+        "year": "1990",
+        "authors": [
+          "Straneo G",
+          "Scarpazza G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Bacterial Infections",
+          "Clarithromycin",
+          "Cough",
+          "Dyspnea",
+          "Erythromycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2140330/"
+      },
+      {
+        "pmid": "15098607",
+        "title": "Clarithromycin-induced eosinophilic pneumonia.",
+        "abstract": "Clarithromycin (CAM) has been widely used for the treatment of respiratory infection. Macrolides are generally well tolerated and their adverse reactions are rare. An 80-year-old woman with nontuberculous mycobacterium infection was treated with combined chemotherapy, including isoniazid, rifampicin, and ethambutol. She developed a fever and peripheral blood eosinophilia, and new subpleural consolidations were observed on chest radiography three days after add-on therapy with CAM. The symptoms and clinical findings improved with the withdrawal of CAM. Histopathologic examinations confirmed the diagnosis of eosinophilic pneumonia. This is the first report of CAM-induced eosinophilic pneumonia.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2004",
+        "authors": [
+          "Ohnishi Hiroshi",
+          "Abe Masahiro",
+          "Yokoyama Akihito",
+          "Hamada Hironobu",
+          "Ito Ryoji"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Eosinophils",
+          "Female",
+          "Humans",
+          "Lymphocyte Activation",
+          "Mycobacterium Infections",
+          "Pulmonary Eosinophilia",
+          "Radiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15098607/"
+      },
+      {
+        "pmid": "29621339",
+        "title": "Clarithromycin expands CD11b+Gr-1+ cells via the STAT3/Bv8 axis to ameliorate lethal endotoxic shock and post-influenza bacterial pneumonia.",
+        "abstract": "Macrolides are used to treat various inflammatory diseases owing to their immunomodulatory properties; however, little is known about their precise mechanism of action. In this study, we investigated the functional significance of the expansion of myeloid-derived suppressor cell (MDSC)-like CD11b+Gr-1+ cells in response to the macrolide antibiotic clarithromycin (CAM) in mouse models of shock and post-influenza pneumococcal pneumonia as well as in humans. Intraperitoneal administration of CAM markedly expanded splenic and lung CD11b+Gr-1+ cell populations in naïve mice. Notably, CAM pretreatment enhanced survival in a mouse model of lipopolysaccharide (LPS)-induced shock. In addition, adoptive transfer of CAM-treated CD11b+Gr-1+ cells protected mice against LPS-induced lethality via increased IL-10 expression. CAM also improved survival in post-influenza, CAM-resistant pneumococcal pneumonia, with improved lung pathology as well as decreased interferon (IFN)-γ and increased IL-10 level",
+        "journal": "PLoS pathogens",
+        "year": "2018",
+        "authors": [
+          "Namkoong Ho",
+          "Ishii Makoto",
+          "Fujii Hideki",
+          "Yagi Kazuma",
+          "Asami Takahiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "CD11b Antigen",
+          "Cell Differentiation",
+          "Cell Proliferation",
+          "Clarithromycin",
+          "Gastrointestinal Hormones",
+          "Lipopolysaccharides",
+          "Male",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29621339/"
+      },
+      {
+        "pmid": "9655546",
+        "title": "Clarithromycin and azithromycin.",
+        "abstract": "",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1998",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Clarithromycin",
+          "Humans",
+          "Otitis Media",
+          "Pneumonia, Bacterial",
+          "Soft Tissue Infections",
+          "Streptococcal Infections",
+          "Streptococcus pyogenes",
+          "Whooping Cough"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9655546/"
+      },
+      {
+        "pmid": "27489022",
+        "title": "Premedication with Clarithromycin Is Effective against Secondary Bacterial Pneumonia during Influenza Virus Infection in a Pulmonary Emphysema Mouse Model.",
+        "abstract": "Secondary bacterial pneumonia (SBP) during influenza increases the severity of chronic obstructive pulmonary disease (COPD) and its associated mortality. Macrolide antibiotics, including clarithromycin (CAM), are potential treatments for a variety of chronic respiratory diseases owing to their pharmacological activities, in addition to antimicrobial action. We examined the efficacy of CAM for the treatment of SBP after influenza infection in COPD. Specifically, we evaluated the effect of CAM in elastase-induced emphysema mice that were inoculated with influenza virus (strain A/PR8/34) and subsequently infected with macrolide-resistant Streptococcus pneumoniae CAM was administered to the emphysema mice 4 days prior to influenza virus inoculation. Premedication with CAM improved pathologic responses and bacterial load 2 days after S. pneumoniae inoculation. Survival rates were higher in emphysema mice than control mice. While CAM premedication did not affect viral titers or exert antibac",
+        "journal": "The Journal of pharmacology and experimental therapeutics",
+        "year": "2016",
+        "authors": [
+          "Harada Tatsuhiko",
+          "Ishimatsu Yuji",
+          "Hara Atsuko",
+          "Morita Towako",
+          "Nakashima Shota"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bacterial Load",
+          "Cell Count",
+          "Chemokines",
+          "Clarithromycin",
+          "Coinfection",
+          "Disease Models, Animal",
+          "Influenza A Virus, H1N1 Subtype",
+          "Lung",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27489022/"
+      },
+      {
+        "pmid": "7979292",
+        "title": "Susceptibilities to clarithromycin and erythromycin of isolates of Chlamydia pneumoniae from children with pneumonia.",
+        "abstract": "We tested in vitro 49 isolates of Chlamydia pneumoniae obtained from 35 children with community-acquired pneumonia against clarithromycin and erythromycin. The children were part of a treatment study comparing the two drugs. Clarithromycin was 2- to 10-fold more active than erythromycin, with a MIC for 90% of strains tested and minimal chlamydiacidal concentration for 90% of strains tested of 0.031 microgram/ml compared with 0.125 microgram/ml for erythromycin. Eight of these children, two of whom were treated with erythromycin and six of whom received clarithromycin, remained culture positive after treatment. We were able to test 21 isolates from these children. All were susceptible to both drugs, and the MICs did not change after therapy.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Roblin P M",
+          "Montalban G",
+          "Hammerschlag M R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Clarithromycin",
+          "Erythromycin",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Pneumonia, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7979292/"
+      },
+      {
+        "pmid": "10377939",
+        "title": "The macrolides: erythromycin, clarithromycin, and azithromycin.",
+        "abstract": "In addition to erythromycin, macrolides now available in the United States include azithromycin and clarithromycin. These two new macrolides are more chemically stable and better tolerated than erythromycin, and they have a broader antimicrobial spectrum than erythromycin against Mycobacterium avium complex (MAC), Haemophilus influenzae, nontuberculous mycobacteria, and Chlamydia trachomatis. All three macrolides have excellent activity against the atypical respiratory pathogens (C. pneumoniae and Mycoplasma species) and the Legionella species. Azithromycin and clarithromycin have pharmacokinetics that allow shorter dosing schedules because of prolonged tissue levels. Both azithromycin and clarithromycin are active agents for MAC prophylaxis in patients with late-stage acquired immunodeficiency syndrome (AIDS), although azithromycin may be the preferable agent because of fewer drug-drug interactions. Clarithromycin is the most active MAC antimicrobial agent and should be part of any dr",
+        "journal": "Mayo Clinic proceedings",
+        "year": "1999",
+        "authors": [
+          "Alvarez-Elcoro S",
+          "Enzler M J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Child",
+          "Clarithromycin",
+          "Drug Resistance, Microbial",
+          "Erythromycin",
+          "Humans",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10377939/"
+      },
+      {
+        "pmid": "16282309",
+        "title": "Q Fever pneumonia: are clarithromycin and moxifloxacin alternative treatments only?",
+        "abstract": "Medical records of 77 patients with Q fever pneumonia that was serologically confirmed by enzyme-linked immunosorbent assay were studied to compare the clinical efficacy of doxycycline, clarithromycin, and moxifloxacin. The mean times to defervescence were 2.4 days for those receiving doxycycline, 1.9 days for those receiving clarithromycin, and 2.2 days for those receiving moxifloxacin. There were no interruptions of the regimens in any groups because of side effects, and outcome was favorable in all patients with no complications or relapses during follow-up. This efficacy of clarithromycin and moxifloxacin, together with their safety profiles, suggest that these alternative agents in the treatment of Q fever pneumonia could also be used as the first-line therapy.",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2005",
+        "authors": [
+          "Morovic Miro"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Aza Compounds",
+          "Child",
+          "Clarithromycin",
+          "Coxiella burnetii",
+          "Doxycycline",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16282309/"
+      },
+      {
+        "pmid": "16569825",
+        "title": "Comparing gatifloxacin and clarithromycin in pneumonia symptom resolution and process of care.",
+        "abstract": "In looking for outcome differences beyond rates of cure, we prospectively compared the symptom resolution, side effects, and processes of care between the use of clarithromycin and gatifloxacin for the treatment of radiographically confirmed community-acquired pneumonia. We conducted a multicenter, randomized, open-label study comparing gatifloxacin monotherapy to clarithromycin alone or combined with ceftriaxone for patients with multiple risk factors. We measured the return to usual activities and symptoms over seven interviews ending 42 days after randomization. Admission and hospital discharge decision support were provided to treating physicians. We enrolled 266 patients over the age of 18 years between September 2000 and June 2003. The groups were similar in age and gender, with a mean age of 53.5+/-19.4 years, and were 54% female. Patient severity as determined by the number of risk factors and the Pneumonia Severity Index was similar between groups; 95% of the patients were low",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2006",
+        "authors": [
+          "Dean Nathan C",
+          "Sperry Paul",
+          "Wikler Matthew",
+          "Suchyta Mary S",
+          "Hadlock Carol"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Ceftriaxone",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Drug Therapy, Combination",
+          "Fluoroquinolones",
+          "Gatifloxacin",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16569825/"
+      },
+      {
+        "pmid": "1827096",
+        "title": "Comparative study of clarithromycin and roxithromycin in the treatment of community-acquired pneumonia.",
+        "abstract": "The efficacy and tolerance of clarithromycin (250 mg twice daily) were compared with those of roxithromycin (150 mg twice daily) in an open, multicentre trial of 77 inpatients with community-acquired pneumonia. Sixty-five patients were clinically evaluable (34, clarithromycin; 31 roxithromycin). Efficacy was comparable between treatment groups: 26 of 34 patients (76%) treated with clarithromycin were clinically cured, including four with atypical pneumonia. In the roxithromycin group 25 of 31 patients (81%) were clinically cured and one was improved. Cough, appearance of sputum, and fever improved in most patients in both treatment groups. Chest X-rays after treatment showed resolution or improvement in 76% of patients who received clarithromycin and 87% of those who received roxithromycin. The clinical evaluation of the response generally agreed with the bacteriological response. Among patients who were bacteriologically evaluable for four target organisms (Streptococcus pneumoniae, H",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Poirier R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Bacterial Infections",
+          "Clarithromycin",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1827096/"
+      },
+      {
+        "pmid": "16024590",
+        "title": "Efficacy of pulsatile amoxicillin and clarithromycin dosing alone and in combination in a murine pneumococcal pneumonia model.",
+        "abstract": "Amoxicillin and clarithromycin have been proven to be effective in the treatment of community-acquired pneumonia. This study investigated the in vivo bactericidal efficacy of a novel, pulsatile dosing strategy for amoxicillin and clarithromycin, when used as monotherapy and combination therapy.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2005",
+        "authors": [
+          "Sun Heather K",
+          "Lee Su Young",
+          "Banevicius Mary Anne",
+          "Du Xiaoli",
+          "Maglio Dana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Amoxicillin",
+          "Animals",
+          "Bacterial Proteins",
+          "Clarithromycin",
+          "Disease Models, Animal",
+          "Dose-Response Relationship, Drug",
+          "Drug Combinations",
+          "Drug Resistance, Multiple, Bacterial",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16024590/"
+      },
+      {
+        "pmid": "10531162",
+        "title": "A multicenter study of grepafloxacin and clarithromycin in the treatment of patients with community-acquired pneumonia.",
+        "abstract": "To compare the efficacies of 10-day regimens of grepafloxacin (GFX) (Raxar or Vaxar; Glaxo Wellcome; Greenford, UK), 600 qd, and clarithromycin (CLA) (Klacid, Biaxin, or Klaracid; Abbott Laboratories; Chicago, IL), 500 mg bid, in patients with community-acquired pneumonia (CAP), on the basis of clinical response, including radiographic evidence, and bacteriologic efficacy.",
+        "journal": "Chest",
+        "year": "1999",
+        "authors": [
+          "Moola S",
+          "Hagberg L",
+          "Churchyard G A",
+          "Dylewski J S",
+          "Sedani S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Fluoroquinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10531162/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:56:03.744360",
+  "success": true,
+  "error_message": null
+}

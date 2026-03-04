@@ -6,7 +6,7 @@ drug_name: "Bortezomib"
 kg_predictions: 64
 dl_predictions: 16
 evidence_level: "L1"
-indication_count: 64
+indication_count: 5
 brands: []
 permalink: /drugs/bortezomib/
 ---

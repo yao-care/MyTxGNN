@@ -1,0 +1,580 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "pneumonia caused by chlamydia",
+    "query_string": "Clarithromycin AND pneumonia caused by chlamydia"
+  },
+  "data": {
+    "query": "Clarithromycin AND pneumonia caused by chlamydia",
+    "results": [
+      {
+        "pmid": "15700690",
+        "title": "[Choice of antimicrobial drug for infections caused by Chlamydia trachomatis and Chlamydophila pneumoniae].",
+        "abstract": "Chlamydia (C.) trachomatis is the most common bacterial cause of sexually transmitted disease in the world. A well documented feature of chlamydial infection is its high rate of recurrence among sexually active populations. However, it is difficult to distinguish whether the high rate of recurrent disease is due to reinfection or to persistent infection with the same organism. Of particular concern in this era of increasing antibiotic resistance is whether persistent infection is the consequence of increasing resistance to standard antimicrobial therapy. Azithromycin and doxycycline are considered by the Centers for Disease Control and Prevention (CDC) as first line drugs for the treatment of chlamydial infections; erythromycin, ofloxacin and levofloxacin are recommended as alternative-regimen. Although C. trachomatis has been historically sensitive to these antibiotics, in vitro resistance is being increasingly reported. However, although in vitro antimicrobial resistance has been des",
+        "journal": "Acta medica Croatica : casopis Hravatske akademije medicinskih znanosti",
+        "year": "2004",
+        "authors": [
+          "Zele-Starcević Lidija",
+          "Plecko Vanda",
+          "Budimir Ana",
+          "Kalenić Smilja"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Humans",
+          "Sexually Transmitted Diseases, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15700690/"
+      },
+      {
+        "pmid": "7986006",
+        "title": "Protective effects of sparfloxacin in experimental pneumonia caused by Chlamydia pneumoniae in leukopenic mice.",
+        "abstract": "The in vivo antichlamydial activities of sparfloxacin and reference drugs were examined in a experimental model of pneumonia caused by Chlamydia pneumoniae in leukopenic mice; their in vitro activities were also examined. The most potent agents in vitro were sparfloxacin (MICs for C. pneumoniae Kajaani and IOL 207, (0.031 and 0.031 micrograms/ml, respectively), clarithromycin (0.031 and 0.031 micrograms/ml, respectively), and minocycline (0.031 and 0.031 micrograms/ml, respectively); these were followed by tosufloxacin (0.063 and 0.125 micrograms/ml, respectively) and ofloxacin (0.5 and 0.5 micrograms/ml, respectively). The MBCs of sparfloxacin, tosufloxacin, ofloxacin, clarithromycin, and minocycline for these two strains were 0.063 and 0.063 micrograms/ml, 0.125 and 0.25 micrograms/ml, 1.0 and 1.0 micrograms/ml, 0.125 and 0.125 micrograms/ml, and 0.25 and 0.25 micrograms/ml, respectively. Fatal pneumonia was induced by intranasal inoculation of cyclophosphamide-treated leukopenic mic",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Nakata K",
+          "Okazaki Y",
+          "Hattori H",
+          "Nakamura S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Female",
+          "Fluoroquinolones",
+          "Leukopenia",
+          "Lung",
+          "Mice",
+          "Mice, Inbred ICR"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7986006/"
+      },
+      {
+        "pmid": "9109159",
+        "title": "Future indications for macrolides.",
+        "abstract": "The antimicrobial spectrum of azithromycin and clarithromycin suggests a number of further uses for these newer macrolides. Favorable clinical and bacteriologic responses have been reported with both antibiotics in children with community-acquired pneumonia. Response rates were high for overall patient populations and for subgroups with infection caused by Mycoplasma pneumoniae and Chlamydia pneumoniae. Treatment with azithromycin or clarithromycin has resulted in a reduction in mycobacteremia and an improvement in clinical symptoms in adult AIDS patients with disseminated Mycobacterium avium-intracellulare complex. Prophylactic treatment with azithromycin may prevent M. avium-intracellulare complex, especially when combined with rifabutin. Preliminary evidence suggests that both azithromycin and clarithromycin in multidrug combinations may effectively eradicate Helicobacter pylori and that azithromycin may be useful in treating bacterial gastritis caused by Campylobacter species. Trac",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Tarlow M J",
+          "Block S L",
+          "Harris J",
+          "Kolokathis A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Helicobacter Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109159/"
+      },
+      {
+        "pmid": "9109154",
+        "title": "History of macrolide use in pediatrics.",
+        "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Drug Interactions",
+          "Erythromycin",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+      },
+      {
+        "pmid": "10724028",
+        "title": "Therapeutic effect of clarithromycin for respiratory-tract infections in children caused by Chlamydia pneumoniae. Research Group of Sapporo for Pediatric Chlamydial Infections.",
+        "abstract": "Children infected with Chlamydia pneumoniae sometimes experience lower respiratory tract infections such as pneumonia and bronchitis. Although numerous anti-microbial compounds have been reported to be active against the organism, most of them have not been in a clinical trial in infants and children with C. pneumoniae infection. Clarithromycin has been shown to express anti-chlamydial effects in vitro. In this study, we evaluated the clinical anti-C. pneumoniae properties of clarithromycin in children with mainly lower respiratory tract infection. We administered clarithromycin orally to 21 infants and children at a dose of 10-15 mg/kg/day divided into two or three doses for 4-21 days. Clinical symptoms, roentgenographic and laboratory abnormal findings improved. The overall clinical efficacy rate was 85.7% (18 of 21 cases). Administration of clarithromycin was considered to be a suitable treatment for improving lower respiratory infections in infants and children caused by C. pneumon",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2000",
+        "authors": [
+          "Numazaki K",
+          "Sakamoto Y",
+          "Umetsu M",
+          "Agatsuma Y",
+          "Yamanaka T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Clarithromycin",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10724028/"
+      },
+      {
+        "pmid": "17095177",
+        "title": "13--Antibiotic therapy of community-acquired pneumonia (CAP) caused by atypical agents.",
+        "abstract": "Macrolides, fluoroquinolones, doxycycline, and ketolides show a good intrinsic activity against intracellular pathogens which are responsible for a variable percentage of community-acquired pneumonia (CAP). These therapeutic agents all seem effective in treating most cases of CAP caused by Mycoplasma pneumoniae, Chlamydia pneumoniae, or Legionella spp. Among quinolones, the more recent fluoroquinolones, such as gemifloxacin or moxifloxacin, generally show a better intrinsic activity than the older ones. Among macrolides, azithromycin, and clarithromycin show a better pharmacokinetic profile. Both of them are available in intravenous form. It is quite common for M. pneumoniae and C. pneumoniae to continue to be shed in respiratory secretions, weeks after an effective therapy. The clinical relevance of this finding is not clear since most of these patients have a good outcome. Azithromycin, due to its advantageous pharmacokinetic profile, seems the best option when antibiotic prophylaxis",
+        "journal": "Medecine et maladies infectieuses",
+        "year": "2006",
+        "authors": [
+          "Roig J",
+          "Casal J",
+          "Gispert P",
+          "Gea E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Doxycycline",
+          "Fluoroquinolones",
+          "Humans",
+          "Ketolides",
+          "Macrolides",
+          "Pneumonia, Bacterial",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17095177/"
+      },
+      {
+        "pmid": "1469609",
+        "title": "[Research and development of clarithromycin].",
+        "abstract": "A series of O-alkylated derivatives of erythromycin (EM) has been prepared and their biological properties were evaluated. Among them, clarithromycin (CAM, 6-O-methylerythromycin) exhibits most potent in vitro and in vivo antibacterial activities, higher acid-stability than EM and favorable pharmacokinetic properties as an antibiotic. CAM was originally synthesized via methylation of 2'-O,3'-N-bis(benzyl-oxycarbonyl)-N-demethylerythromycin in low yield, because of the less selectivity of 6-O-methylation. The selective 6-O-methylation was achieved using the erythromycin 9-oxime derivative as a key intermediate. By the further investigation on the protective groups of 9-oxime and desosamine moiety, the production process of CAM on an industrial scale has been established via methylation of 2',4''-O-bis(trimethylsilyl)erythromycin 9-[O-(1-isopropoxycyclohexyl)oxime] in more than 45% overall yield. CAM has the same antibacterial spectra as EM and is active against aerobic Gram-positive bac",
+        "journal": "Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan",
+        "year": "1992",
+        "authors": [
+          "Omura S",
+          "Morimoto S",
+          "Nagate T",
+          "Adachi T",
+          "Kohno Y"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bacteria",
+          "Clarithromycin",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Structure-Activity Relationship"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1469609/"
+      },
+      {
+        "pmid": "14979735",
+        "title": "New developments in antibacterial choice for lower respiratory tract infections in elderly patients.",
+        "abstract": "Elderly patients are at increased risk of developing lower respiratory tract infections compared with younger patients. In this population, pneumonia is a serious illness with high rates of hospitalisation and mortality, especially in patients requiring admission to intensive care units (ICUs). A wide range of pathogens may be involved depending on different settings of acquisition and patient's health status. Streptococcus pneumoniae is the most common bacterial isolate in community-acquired pneumonia, followed by Haemophilus influenzae, Moraxella catarrhalis and atypical pathogens such as Chlamydia pneumoniae, Legionella pneumophila and Mycoplasma pneumoniae. However, elderly patients with comorbid illness, who have been recently hospitalised or are residing in a nursing home, may develop severe pneumonia caused by multidrug resistant staphylococci or pneumococci, and enteric Gram-negative bacilli, including Pseudomonas aeruginosa. Moreover, anaerobes may be involved in aspiration pn",
+        "journal": "Drugs & aging",
+        "year": "2004",
+        "authors": [
+          "Ferrara Anna Maria",
+          "Fietta Anna Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Anti-Bacterial Agents",
+          "Geriatrics",
+          "Humans",
+          "Intestinal Absorption",
+          "Respiratory Tract Infections",
+          "Tissue Distribution",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14979735/"
+      },
+      {
+        "pmid": "12023769",
+        "title": "Effect of macrolide antibiotics on human endothelial cells activated by Chlamydia pneumoniae infection and tumor necrosis factor-alpha.",
+        "abstract": "This study investigated the potential anti-inflammatory activity of 3 macrolide antibiotics, clarithromycin, roxithromycin, and azithromycin, in an in vitro model of transendothelial migration (TEM). Human umbilical vein endothelial cells (HUVECs) were seeded in Transwell inserts, treated with serial dilutions of the antibiotics, and infected with Chlamydia pneumoniae or stimulated with tumor necrosis factor (TNF)-alpha. In HUVECs infected with C. pneumoniae or stimulated with TNF-alpha, both azithromycin and roxithromycin caused significant decreases in neutrophil and monocyte TEM, compared with antibiotic-free controls. Clarithromycin had no detectable effect in either group. Azithromycin caused significant decreases in interleukin (IL)-8 and monocyte chemotactic protein (MCP)-1, whereas roxithromycin significantly decreased IL-8. This study indicates heterogeneity in the anti-inflammatory activity of these antibiotics. Mechanisms of monocyte and neutrophil TEM inhibition by azithrom",
+        "journal": "The Journal of infectious diseases",
+        "year": "2002",
+        "authors": [
+          "Uriarte Silvia M",
+          "Molestina Robert E",
+          "Miller Richard D",
+          "Bernabo Jorge",
+          "Farinati Alicia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cell Movement",
+          "Cells, Cultured",
+          "Chemokine CCL2",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Endothelium, Vascular",
+          "Humans",
+          "Interleukin-8",
+          "Macrolides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12023769/"
+      },
+      {
+        "pmid": "18611582",
+        "title": "Atypical pneumonias: therapeutic possibilities.",
+        "abstract": "The atypical pneumonia syndrome is characterized by systemic complaints rather than respiratory symptoms. The causative pathogens include Mycoplasma, Chlamydia, Legionella and respiratory viruses (influenza, adenovirus, respiratory syncytial virus). The reported incidence of disease caused by these pathogens in community-acquired pneumonias varies from study to study. As most of these pathogens are intracellular, the antibiotics used in the treatment of atypical pneumonia are those able to penetrate into cells. Empirical antimicrobial therapy consists of macrolides (erythromycin or some of the newer agents such as roxithromycin, azithromycin or clarithromycin) or tetracyclines (e.g. doxycycline). In cases of severe legionellosis and in immunocompromised and critically-ill patients, the macrolides are sometimes given in combination with rifampicin. Promising alternatives are some of the newer fluoroquinolones (e.g. ofloxacin, pefloxacin) in the treatment of legionellosis.",
+        "journal": "International journal of antimicrobial agents",
+        "year": "1993",
+        "authors": [
+          "Akalin H E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18611582/"
+      },
+      {
+        "pmid": "23428270",
+        "title": "[Late debut of neonatal pneumonia caused by Chlamydia trachomatis].",
+        "abstract": "A newborn colonized with Chlamydia trachomatis will often show symptoms of conjunctivitis and/or pneumonia. We report a case of interstitial pneumonia caused by C. trachomatis in a 2-month-old boy admitted with RSV. We point to the importance of C. trachomatis in the differential diagnostics of an infant with respiratory symptoms even in the presence of additional infectious agents.",
+        "journal": "Ugeskrift for laeger",
+        "year": "2013",
+        "authors": [
+          "Schmidt Birgitte Johanne",
+          "Hermansen Mette Nortman"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia trachomatis",
+          "Chlamydial Pneumonia",
+          "Clarithromycin",
+          "Humans",
+          "Infant",
+          "Lung Diseases, Interstitial",
+          "Male",
+          "Radiography",
+          "Respiratory Syncytial Virus, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23428270/"
+      },
+      {
+        "pmid": "20226329",
+        "title": "Chlamydia pneumoniae IgG and IgA antibody titers and prognosis in patients with coronary heart disease: results from the CLARICOR trial.",
+        "abstract": "The association observed between coronary heart disease (CHD) and Chlamydia (Chlamydophila) pneumoniae antibodies prompted, during the 1990s, several primary and secondary prevention trials with various antibiotics. In our CLARICOR trial, a randomized placebo-controlled trial in 4372 patients with stable CHD, a brief clarithromycin regimen was followed, unexpectedly, by increased long-term mortality. We now compare C. pneumoniae antibody levels at entry with population levels, with the patients' individual histories, and with their subsequent outcomes. IgG antibody levels were somewhat raised, but elevated IgA and IgG titers were unrelated to entry data (including prior acute myocardial infarction), except for an association with smoking and with not using statins. Hazards of mortality and of other outcomes tended to slightly increase with IgA and decrease with IgG titers, but the unfavorable clarithromycin effect was unrelated to antibody levels and remains unexplained. Smoking-relate",
+        "journal": "Diagnostic microbiology and infectious disease",
+        "year": "2010",
+        "authors": [
+          "Hilden Jørgen",
+          "Lind Inga",
+          "Kolmos Hans Jørn",
+          "Als-Nielsen Bodil",
+          "Damgaard Morten"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Antibodies, Bacterial",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Clarithromycin",
+          "Coronary Disease",
+          "Female",
+          "Humans",
+          "Immunoglobulin A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20226329/"
+      },
+      {
+        "pmid": "35054214",
+        "title": "Mycoplasma pneumoniae and Chlamydia pneumoniae Coinfection with Acute Respiratory Distress Syndrome: A Case Report.",
+        "abstract": "Community-acquired pneumonia caused by Mycoplasma pneumoniae or Chlamydia pneumoniae is usually mild. Mycoplasma pneumoniae-related and C. pneumoniae-related acute respiratory distress syndromes (ARDSs) are rare. Moreover, to our knowledge, there are no published reports on ARDS caused by M. pneumoniae and C. pneumoniae coinfection. Here, we report a case of an immunocompetent young woman who was co-infected with M. pneumoniae and C. pneumoniae and was started on treatment with piperacillin and clarithromycin. Two days later, she developed ARDS. She recovered rapidly following a change of antibiotic treatment to levofloxacin and was discharged on day 12. We conducted exome sequencing followed by alternative filtering to search for candidate ARDS-related genes. We identified an intronic variant of unknown significance within leucine-rich repeat-containing 16A (LRRC16A), a gene previously identified as a significant locus for platelet count with a possible role in ARDS. This is a rare ca",
+        "journal": "Diagnostics (Basel, Switzerland)",
+        "year": "2021",
+        "authors": [
+          "Tsai Meng-Ko",
+          "Lai Chao-Hung",
+          "Tsai Chris",
+          "Chen Guan-Liang"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35054214/"
+      },
+      {
+        "pmid": "11304944",
+        "title": "Antimicrobial activity of thiamphenicol-glycinate-acetylcysteinate and other drugs against Chlamydia pneumoniae.",
+        "abstract": "Chlamydia pneumoniae is responsible for respiratory tract infections of both upper and lower respiratory tract. Although this bacterium is one of the most wide-spread pathogens of man, there are limited data on the antibiotic treatment of C. pneumoniae infections. The aim of this study has been to evaluate the in vitro activity of thiamphenicol glycinate acetylcysteinate (TGA, CAS 20192-91-0) in comparison with molecules with established activity against C. pneumoniae, as well as macrolides and quinolones. The results have shown that TGA and clarithromycin (CAS 81103-11-9) are the most active drugs tested, but it is important to underline that the minimal inhibitory concentration (MIC) ranges of TGA are very much lower than the breakpoint of thlamphenicol for the respiratory pathogens. In conclusion, the good antimicrobial in vitro activity of TGA against C. pneumoniae together with its in vivo characteristics, in particular the high concentration reached in lung and the combination wi",
+        "journal": "Arzneimittel-Forschung",
+        "year": "2001",
+        "authors": [
+          "Lombardi A",
+          "Drago L",
+          "De Vecchi E",
+          "Mombelli B",
+          "Gismondo M R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Anti-Bacterial Agents",
+          "Cells, Cultured",
+          "Chlamydophila pneumoniae",
+          "Dietary Carbohydrates",
+          "Drug Combinations",
+          "Food",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Thiamphenicol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11304944/"
+      },
+      {
+        "pmid": "7840560",
+        "title": "In vitro and in vivo activities of azithromycin, a new azalide antibiotic, against chlamydia.",
+        "abstract": "The in vitro and in vivo activities of azithromycin against chlamydia were investigated. The MIC of azithromycin for five standard strains of different species of chlamydia and six wild-type strains of Chlamydia pneumoniae was 0.125 microgram/ml, which was superior to that of erythromycin but inferior to those of clarithromycin and minocycline. However, the therapeutic effect of a 7-day course of azithromycin at a dose of 10 mg/kg of body weight administered orally once daily to mice with experimental Chlamydia psittaci pneumonia was excellent, with a 100% survival rate at 14 days after infection, which was the same as that for treatment with minocycline administered at 10 mg/kg twice daily; all erythromycin treated animals died within 10 days. When treatment was discontinued 3 days after the infection, the survival rate for mice treated with azithromycin was 90% and that for mice administered minocycline was 30%. These results suggest that azithromycin may be useful in the treatment o",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Niki Y",
+          "Kimura M",
+          "Miyashita N",
+          "Soejima R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Azithromycin",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Chlamydophila psittaci",
+          "Male",
+          "Mice",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7840560/"
+      },
+      {
+        "pmid": "10096930",
+        "title": "Treatment of Helicobacter pylori and Chlamydia pneumoniae infections decreases fibrinogen plasma level in patients with ischemic heart disease.",
+        "abstract": "Chronic Chlamydia pneumoniae and Helicobacter pylori infections could be a risk factor for ischemic heart disease (IHD), possibly by increasing fibrinogen levels. The aim of our study was to evaluate changes in fibrinogen level in patients with IHD and H pylori and/or C pneumoniae positivity randomly assigned to antibiotic treatment.",
+        "journal": "Circulation",
+        "year": "1999",
+        "authors": [
+          "Torgano G",
+          "Cosentini R",
+          "Mandelli C",
+          "Perondi R",
+          "Blasi F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Ulcer Agents",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Chronic Disease",
+          "Clarithromycin",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fibrinogen",
+          "Helicobacter Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10096930/"
+      },
+      {
+        "pmid": "9646100",
+        "title": "[Arteriosclerosis as a sequela of chronic Chlamydia pneumoniae infection].",
+        "abstract": "In the last years several new data allow a controversial but convincing interpretation of the pathogenesis of atherosclerosis (arteriosclerosis). Atherosclerosis can be apparently the result of ultrachronic persistent infection by Chlamydia pneumoniae and not the result of different risk factors. The main arguments for the chlamydial genesis are: 1. Correlation of coronary heart disease and other atherosclerotic disease with antibodies against C. pneumoniae. 2. C. pneumoniae could be detected with different techniques (PCR, immunohistology, electromicroscopy, culture) in a high percentage in atheromas from different sites. 3. Three international studies with macrolides in coronary heart disease were successful. 4. The target cells of atherosclerosis (endothelia, macrophages, muscle cells) can be infected by C. pneumoniae in vitro. 5. Positive animal experiments. The Koch-Henle criteria for the proof of the etiology are largely fulfilled--even if there are doubts about the validity of t",
+        "journal": "Herz",
+        "year": "1998",
+        "authors": [
+          "Stille W",
+          "Dittmann R"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Animals",
+          "Arteriosclerosis",
+          "Child",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Chronic Disease",
+          "Coronary Artery Disease",
+          "Humans",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9646100/"
+      },
+      {
+        "pmid": "19014838",
+        "title": "Assessment of the bioequivalence of two formulations of clarithromycin extended-release 500-mg tablets under fasting and fed conditions: a single-dose, randomized, open-label, two-period, two-way crossover study in healthy Jordanian male volunteers.",
+        "abstract": "Clarithromycin extended-release tablets are indicated for the treatment of adults with acute maxillary sinusitis caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae; acute bacterial exacerbation of chronic bronchitis due to H influenzae, Haemophilus parainfluenzae, M catarrhalis, or S pneumoniae; or community acquired pneumonia due to H influenzae, H parainfluenzae, M catarrhalis, S pneumoniae, Chlamydia pneumoniae, or Mycoplasma pneumoniae.",
+        "journal": "Clinical therapeutics",
+        "year": "2008",
+        "authors": [
+          "Alkhalidi Bashar A",
+          "Tamimi Jaafar J",
+          "Salem Isam I",
+          "Ibrahim Husain",
+          "Sallam Alsayed Alarabi I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Area Under Curve",
+          "Chemistry, Pharmaceutical",
+          "Clarithromycin",
+          "Cross-Over Studies",
+          "Delayed-Action Preparations",
+          "Fasting",
+          "Food-Drug Interactions",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19014838/"
+      },
+      {
+        "pmid": "11533006",
+        "title": "In vitro activity of telithromycin, a new ketolide, against Chlamydia pneumoniae.",
+        "abstract": "The in vitro activity of telithromycin, a new ketolide, was compared with those of roxithromycin, azithromycin, clarithromycin and erythromycin A against 20 strains of Chlamydia pneumoniae. The MICs and minimal chlamydiacidal concentrations of telithromycin for the 20 C. pneumoniae strains both ranged between 0.031 and 0.25 mg/L. Telithromycin was twice as active as roxithromycin, azithromycin and erythromycin A, but less active than clarithromycin. These results appear to indicate that telithromycin is an effective antibiotic that should play some role in the treatment of respiratory tract infections caused by C. pneumoniae.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2001",
+        "authors": [
+          "Miyashita N",
+          "Fukano H",
+          "Niki Y",
+          "Matsushima T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydophila pneumoniae",
+          "Humans",
+          "Ketolides",
+          "Macrolides",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11533006/"
+      },
+      {
+        "pmid": "12917246",
+        "title": "In vitro activity of cethromycin, a novel antibacterial ketolide, against Chlamydia pneumoniae.",
+        "abstract": "To investigate the in vitro activity of cethromycin, a new ketolide, against Chlamydia pneumoniae.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2003",
+        "authors": [
+          "Miyashita Naoyuki",
+          "Fukano Hiroshi",
+          "Yoshida Koichiro",
+          "Niki Yoshihito",
+          "Matsushima Toshiharu"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Erythromycin",
+          "Humans",
+          "Japan",
+          "Ketolides",
+          "Macrolides",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12917246/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:55:28.038156",
+  "success": true,
+  "error_message": null
+}

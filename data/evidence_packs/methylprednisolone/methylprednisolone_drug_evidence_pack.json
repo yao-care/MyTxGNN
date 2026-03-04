@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Methylprednisolone",
+    "drugbank_id": "DB00959"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 7
+  },
+  "indications": [
+    {
+      "disease": "erythema multiforme",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 14,
+      "articles": 20,
+      "phase3": 3,
+      "phase2": 8,
+      "phase4": 0
+    },
+    {
+      "disease": "lymphosarcoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 17,
+      "phase2": 17,
+      "phase4": 3
+    },
+    {
+      "disease": "disease of orbital region",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 15,
+      "phase2": 9,
+      "phase4": 11
+    },
+    {
+      "disease": "leukemia, lymphocytic, susceptibility to",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 2,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "rheumatic heart disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 9,
+      "articles": 20,
+      "phase3": 4,
+      "phase2": 4,
+      "phase4": 2
+    }
+  ]
+}

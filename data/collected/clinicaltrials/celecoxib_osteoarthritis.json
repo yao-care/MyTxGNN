@@ -1,0 +1,935 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "osteoarthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00546507",
+      "title": "The Efficacy and Safety of TDS-943 in the Treatment of Osteoarthritis of the Knee: Pivotal Study I",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2008-10",
+      "country": "United States",
+      "enrollment": 650,
+      "brief_summary": "The objective of this study is to evaluate the efficacy and safety of TDS-943 (topical diclofenac spray) compared to oral celecoxib and placebo in subjects with osteoarthritis of the knee. The main hypotheses are that TDS-943 will be better than placebo and no worse than celecoxib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females in generally good health at least 40 years of age\n* Osteoarthritis (OA) of at least one knee, verified by a weight-bearing radiograph\n* Subject has taken an oral NSAID or analgesic at least 3 days during the past 30 days to treat knee OA pain\n\nExclusion Criter",
+      "endpoints": [
+        "Change from baseline in the WOMAC Composite Pain Score"
+      ],
+      "sponsor": "Mika Pharma GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT00546507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00664560",
+      "title": "Randomized, Double-Blind, Parallel Group, Placebo-Controlled Multi-Center Study Evaluating the Efficacy of PN400 (VIMOVO) Twice Daily (Bid) and Celecoxib Once Daily (qd) in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 614,
+      "brief_summary": "We will evaluate the efficacy of PN400 and an active comparator in patients that have Osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Male or non-pregnant female subjects50 years of age and older with a 6-month history of OA of the knee\n2. Female subjects were eligible for participation in the study if they were of non-childbearing potential (i.e., physiologically incapable of becoming pregnant); or of child",
+      "endpoints": [
+        "Change in Western Ontario and McMaster Universities (WOMAC) Pain Questionnaire Subscore From Baseline",
+        "Change in Western Ontario and McMaster Universities (WOMAC) Function Questionnaire Subscore From Baseline",
+        "Change in Patient Global Assessment (PGA) Subscore From Baseline"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00664560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03031938",
+      "title": "A PROTOCOL TO MONITOR FROM BIRTH TO AGE 15 MONTHS THE NEUROLOGICAL DEVELOPMENT OF INFANTS WITH EXPOSURE IN-UTERO IN TANEZUMAB CLINICAL STUDIES AT ALL INVESTIGATIONAL SITES",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-03",
+      "completion_date": "2020-06-04",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "A4091065 is a multicenter, prospective, cohort study with enhance physical an neurodevelopmental surveillance to characterize the outcomes related to the development of infants up to the age of 15 months who were potentially exposed to tanezumab, placebo or comparator via maternal exposure or in utero in any tanezumb study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is an infant born to a mother who was exposed to study drug on a tanezumab clinical study.\n* The infant's mother (who was the tanezumab clinical study participant) must review, agree and sign an informed consent document explaining the details of the perinatal and post",
+      "endpoints": [
+        "Occipital-frontal Head Circumference During 0 to Less Than or Equal to (<=) 2 Months of Participant's Age",
+        "Occipital-frontal Head Circumference at 8 Months of Participant's Age",
+        "Occipital-frontal Head Circumference at 15 Months of Participant's Age"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03031938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01554163",
+      "title": "A Phase III, 12-Week, Randomized, Active-Comparator-Controlled, Parallel-Group, Double Blind Study in Korea to Assess the Safety and Efficacy of Etoricoxib 30 mg Versus Celecoxib 200 mg in Patients With Osteoarthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-03",
+      "country": "N/A",
+      "enrollment": 239,
+      "brief_summary": "The main purpose of this study is to establish that etoricoxib 30 mg is safe and not inferior to celecoxib 200 mg in the treatment of the signs and symptoms of osteoarthritis in Korean patients. Given that the efficacy of etoricoxib vs. placebo in the treatment of osteoarthritis has been established, and that prescription drugs, such as celecoxib, are available for the treatment of pain associated with osteoarthritis in Korea, it would be inappropriate to subject patients with a flare of osteoar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is at least 40 years of age\n* Clinical diagnosis of osteoarthritis of the knee for greater than 6 months based on clinical and radiographic criteria\n* Female patients of childbearing potential must have a negative pregnancy test prior to study enrollment and must agree",
+      "endpoints": [
+        "Time-Weighted Mean Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01554163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02528188",
+      "title": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND, ACTIVE-CONTROLLED, MULTICENTER STUDY OF THE LONG-TERM SAFETY AND EFFICACY OF SUBCUTANEOUS ADMINISTRATION OF TANEZUMAB IN SUBJECTS WITH OSTEOARTHRITIS OF THE HIP OR KNEE",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-07-21",
+      "completion_date": "2019-02-27",
+      "country": "Bulgaria, Brazil, South Korea, Philippines, Croatia, Mexico, Taiwan, Russia, Ukraine, Serbia, Slovakia, Australia, Peru, Colombia, Lithuania, Japan, New Zealand, United States",
+      "enrollment": 3021,
+      "brief_summary": "The purpose of this study is to compare the long-term joint safety and efficacy (pain relief) of the investigational study drug, tanezumab compared to non-steroidal anti inflammatory drugs (NSAIDs) in subjects with osteoarthritis of the hips or knees.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of osteoarthritis of the index hip or knee based on American College of Rheumatology criteria with Kellgren Lawrence X ray Grade of 2 as diagnosed by the Central Reader\n* Currently receiving a stable dose regimen of oral NSAID (naproxen, celecoxib, diclofenac, acec",
+      "endpoints": [
+        "Percentage of Participants With Adjudicated Primary Composite Joint Safety Outcome",
+        "Observation Time-Adjusted Event Rate of Participants With Adjudicated Primary Composite Joint Safety Outcome",
+        "Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale at Week 16"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02528188"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00640627",
+      "title": "A Double-Blind, Placebo-Controlled Study of the Efficacy and Tolerability of Once Daily Celebrex® (Celecoxib) vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee Non-Responsive to Naproxen and Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 380,
+      "brief_summary": "To compare the safety and efficacy of celecoxib versus placebo in the treatment of patients with knee osteoarthritis who were unresponsive to treatment with prescription strength naproxen and ibuprofen or who could not tolerate prescription strength naproxen and ibuprofen",
+      "eligibility_criteria": "Inclusion criteria:\n\n* OA of the knee in flare state at baseline visit and functional capacity class of I-III\n* Failed adequate trials of both naproxen and ibuprofen (prescription strength) within the past 5 years due to lack of efficacy, tolerability or both; duration of prescription strength ibupr",
+      "endpoints": [
+        "Change from baseline in Patient's Assessment of Arthritis Pain, according to visual analog scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00640627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00581685",
+      "title": "Does Optimal Pain Control With Pregabalin and Celecoxib Predict Improved Function After Total Hip Arthroplasty?",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-06",
+      "country": "N/A",
+      "enrollment": 31,
+      "brief_summary": "Despite the development of new pain medications, the prevalence of persistent postoperative pain (for more than three to six months) remains alarmingly high. Chronic pain and reduced function after surgery are of great concern since they have a significant impact on a patient's quality of life and are costly to society in terms of longer hospital stays and lost work days. An important risk factor for chronic pain and reduced function after surgery is the amount of pain patients experience immedi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of informed consent\n* American Society of Anesthesiologists physical status I-III\n* Average daily VAS ≥ 4\n* Aged 18 - 75 years\n* Male or female\n* Scheduled for total hip arthroplasty (THA).\n\nExclusion Criteria:\n\n* Allergy to study medications or local anesthetics\n* H",
+      "endpoints": [
+        "Physical function"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT00581685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00565500",
+      "title": "A Placebo-Controlled, Double-Blind, Randomized Study of the Potential Interaction Between Aspirin and Ibuprofen or Celecoxib.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-04",
+      "country": "Italy",
+      "enrollment": 24,
+      "brief_summary": "Study design: Single center, placebo-controlled, double blind, parallel groups. To evaluate the potential interaction between aspirin and ibuprofen or celecoxib in patients with osteoarthritis (OA) and documented stable ischemic heart disease, a total of 24 patients chronically treated with aspirin will be randomly assigned to one of the 3 treatment groups: 1) celecoxib 200 mg bid; 2) ibuprofen 600 mg tid; 3) placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male or female, age 18-75;\n2. subjects with osteoarthritis and documented stable ischemic heart disease;\n3. the patient is on long-term aspirin prophylaxis for the ischemic condition;\n4. the patient requires or is eligible for chronic treatment with an antiinflammatory and/or",
+      "endpoints": [
+        "serum thromboxane (TX)B2"
+      ],
+      "sponsor": "G. d'Annunzio University",
+      "url": "https://clinicaltrials.gov/study/NCT00565500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06328153",
+      "title": "Biomechanically Based Fu's Subcutaneous Needling Treatment for Senile Keen Osteoarthritis: Protocol For a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-03-15",
+      "completion_date": "2026-03-01",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "The goal of this clinical trial is to compare FSN with oral Nonsteroidal Antiinflammatory Drugs (NSAIDs) in pain relief and improvement in knee function among elder people, the main questions it aims to answer are:\n\nQ1: Compared with the positive drug (celecoxib), whether FSN is more or at least as effective for pain relief and improvement in knee function in elder people with knee arthritis.\n\nQ2: From the biomechanical point of view, what is the mechanism by which FSN plays a therapeutic role i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 60-80 years old.\n* BMI\\<28.\n* Clinical diagnosis of knee osteoarthritis.\n* Kellgren-Lawrence grade 1-3.\n* Knee pain score \\> 3 on an 10-point numerical rating scale (VAS).\n* Having no obvious deformity.\n* Having not taken other medication and other modalities of t",
+      "endpoints": [
+        "Change from Baseline in the visual analogue scale (VAS) (0-100 mm) at the 14th day after receiving treatment."
+      ],
+      "sponsor": "Guangdong Provincial Hospital of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT06328153"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00476034",
+      "title": "A 39-week, Double-blind, Active-controlled Extension to CCOX189A2361, a 13-week, Multicenter, Randomized, Double-blind, Double-dummy, Placebo-controlled, Parallel Trial of 2 Different Dose Regimens of Lumiracoxib (100 mg od and 200 mg od Initial Dose for Two Weeks Followed by 100 mg od) in Patients With Primary Knee Osteoarthritis, Using Celecoxib (200 mg od) as a Comparator",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "",
+      "country": "Israel, Spain, Finland, Sweden, Czechia, South Africa, Turkey (Türkiye), Austria, Hungary, Slovakia, Germany, Australia, Netherlands, Poland, New Zealand",
+      "enrollment": 1312,
+      "brief_summary": "This 39-week, active controlled, study is designed to assess long-term efficacy, safety and tolerability of lumiracoxib 100mg od in patients with osteoarthritis (OA) of the knee who participated in the 13-week core CCOX189A2361 study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any patient who completed the core study 2361 may enter the extension trial upon signing informed consent. A patient is defined as completing if he/she completed the core study 2361 up to and including Visit 6 (week 13) without a major protocol violation.\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "To compare lumiracoxib 100mg od to celecoxib 200mg od in treating osteoarthritis (OS) of the target knee with respect to:",
+        "Overall OA pain intensity in the target knee on a 0-100 mm Visual Analog Scale (VAS) at 26 weeks.",
+        "Patient's global assessment of disease activity on a 0-100mm VAS at 26 weeks."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00476034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01279395",
+      "title": "Impact of Anti-inflammatory Agents on Cholesterol Metabolism and Atherogenic Potency of Patient Plasma",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2018-01-18",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "We hypothesize that administration of anti-inflammatory medications such as celecoxib, naprosyn and diclofenac will cause changes in the blood plasma and white blood cells of patients such that they will be less able to efficiently process cholesterol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 40-70, osteoarthritis, male or female\n\nExclusion Criteria:\n\n* other known autoimmune or inflammatory rheumatic conditions, renal disease, current or recent (\\>1 month) corticosteroid or statin treatment, contraindications to medication (i.e. those taking oral anticoagulant",
+      "endpoints": [
+        "Difference in expression of the cholesterol-metabolizing enzyme cytochrome P450 cholesterol 27-hydroxylase in peripheral blood mononuclear cells (PBMC) before and after treatment with naprosyn, celecoxib or diclofenac."
+      ],
+      "sponsor": "Winthrop University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01279395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03562429",
+      "title": "The Efficacy of TGF for Treating Osteoarthritis of the Knee: A Randomized Double-blind Controlled Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-01",
+      "completion_date": "2021-12-31",
+      "country": "N/A",
+      "enrollment": 180,
+      "brief_summary": "This study is to evaluate the efficacy of herbal formula TGF treating knee joint osteoarthritis(KOA) and its biochemical mechanism. The study design is a parallel randomized, placebo-controlled, double-blind clinical trial includes 180 patients with KOA. The patients are random allocated into study group(taking TGF) and control group(taking 1/20 TGF). After the 12 weeks treatment course, another 4 weeks is to follow-up the condition without medication. Assessments will be performed before and af",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age between 50\\~75 years old\n2. diagnosis of osteoarthritis: The Clinical/Radiographic classification criteria of American College of Rheumatology, ACR\n3. chronic knee pain over 3 months.\n\nExclusion Criteria:\n\n1. the past history with systemic joint disease, such as autoimmun",
+      "endpoints": [
+        "Western Ontario & McMaster Universities Osteoarthritis Index",
+        "Visual Analogue Scale for pain",
+        "the used dosage of Celebrex"
+      ],
+      "sponsor": "China Medical University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03562429"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01535417",
+      "title": "A 12 Weeks, Randomized, Double-blind, Multi-centers, Phase III Study to Evaluate the Efficacy and Safety of Shinbaro Capsule Compared With Celebrex Capsule in Patients With Osteoarthritis of Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 198,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of 'Shinbaro Capsule', a new herbal anti-arthritic agent, in patients with osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 35 and 80\n* diagnosed with Knee OA based on criteria of ACR and showed ont through I \\~ III of Kellgren Stage on radiography\n* wuffered constantly with Knee OA for more than 6 months prior to begining the study\n* scored more than 30 on total WOMAC scale\n\nExclusion ",
+      "endpoints": [
+        "WOMAC change"
+      ],
+      "sponsor": "GC Biopharma Corp",
+      "url": "https://clinicaltrials.gov/study/NCT01535417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092768",
+      "title": "A 26-Week, Randomized, Placebo- and Active-Comparator-Controlled, Parallel-Group, Double-Blind, 2-Part Study to Assess the Safety and Efficacy of Etoricoxib 30 mg Versus Celecoxib 200 mg in Patients With Osteoarthritis (Study 1)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-03-01",
+      "completion_date": "2005-02-01",
+      "country": "N/A",
+      "enrollment": 500,
+      "brief_summary": "The purpose of this study is to compare the safety and effectiveness of an investigational drug and an approved drug in the treatment of osteoarthritis of the knee and hip.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee or hip which requires treatment with a medication to obtain pain relief\n\nExclusion Criteria:\n\n* Any known allergy to the study drugs",
+      "endpoints": [
+        "Osteoarthritis of the knee & hip as assessed by WOMAC VA 3.0 pain and physical function subscales, Patient/Investigator assessments of disease and response to therapy over 12 weeks of treatment."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00809354",
+      "title": "A PHASE 3, MULTI-CENTER, RANDOMIZED, DOUBLE-BLIND, CONTROLLED STUDY OF THE LONG-TERM ANALGESIC EFFICACY AND SAFETY OF TANEZUMAB ALONE OR IN COMBINATION WITH NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS) VERSUS NSAIDS ALONE IN PATIENTS WITH OSTEOARTHRITIS OF THE KNEE OR HIP",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-02-12",
+      "completion_date": "2011-01-12",
+      "country": "South Korea, Spain, Philippines, Mexico, South Africa, India, Russia, Ukraine, Netherlands, Canada, Colombia, United States",
+      "enrollment": 2720,
+      "brief_summary": "The purpose of this study is to investigate the long-term analgesic efficacy and safety of tanezumab for patients with osteoarthritis (OA) of the knee or hip currently experiencing partial benefit from, and are tolerating, non-steroidal anti-inflammatory drug (NSAID) therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee or hip according to ACR criteria with Kellgren-Lawrence x-ray grade equal to, or greater than, 2.\n* Patients must be experiencing some benefit from their current stable dose regimen of oral NSAID therapy of either naproxen 500-1000 mg/day or celecoxi",
+      "endpoints": [
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Score at Week 16",
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Physical Function Subscale Score at Week 16",
+        "Change From Baseline in the Patient Global Assessment (PGA) of Osteoarthritis at Week 16"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00809354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03850587",
+      "title": "A Multi-center, Double-blinded, Randomized, Active-controlled, Parallel Design, phaseII Study to Investigate the Efficacy and Safety of YYC301 in Subject With Knee Osteoarthritis.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-08-30",
+      "completion_date": "2020-09-07",
+      "country": "South Korea",
+      "enrollment": 261,
+      "brief_summary": "A Multi-center, Double-blinded, Randomized, Active-controlled, Parallel Design, phaseII Study to Investigate the Efficacy and Safety of YYC301 in Subject With Knee Osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men/Women aged over 20\n* Subjects who are diagnosed with one- or both-sided knee osteoarthritis according to the standards of clinical diagnosis from American College of Rheumatology(ACR)have knee osteoarthritis pain and meet over three of the following conditions.\n\n  1. Older",
+      "endpoints": [
+        "100mm Pain VAS",
+        "KOOS(Knee Injury and Osteoarthritis Outcome Score)",
+        "Patient Global Assessment(PGA)"
+      ],
+      "sponsor": "Yooyoung Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03850587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04170218",
+      "title": "Quality of Care for Knee and Hip Osteoarthritis in Elderly Patients: a Multicentric Observational Study in France Using Quality Indicators Assessed by Questionnaire",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-01",
+      "completion_date": "2022-12-01",
+      "country": "France",
+      "enrollment": 405,
+      "brief_summary": "Introduction: Hip and knee osteoarthritis (OA) was ranked in 2010 as the eleventh highest contributor to global disability. In France in 2014, non-spinal OA was the leading self-reported cause of morbidity among adults over sixty-five years of age, with a prevalence of 49.5 per cent. OA is known to be the first cause of disability in activities of daily life and a risk factor of frailty among people over seventy-five years of age. Despite its major impact on the elderly population's quality of l",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged seventy-five years or over\n* with symptomatic hip or knee osteoarthritis according to the American College of Rheumatology criteria\n* with pain for more than three months\n* affiliated to French social security\n* having given their oral non-opposition to participa",
+      "endpoints": [
+        "number of participants referred to an orthopedic surgeon as assessed by ACOVE's quality indicator questionnaire"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04170218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05930080",
+      "title": "Multi-center, Randomized, Double Blinded, Active-controlled Phase III Clinical Trial to Assess the Efficacy and Safety of SKCPT in Patients With Knee Osteoarthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-01-28",
+      "completion_date": "2022-09-30",
+      "country": "South Korea",
+      "enrollment": 278,
+      "brief_summary": "Multi-center, Randomized, Double Blinded, Active-controlled Phase III Clinical Trial to Assess the Efficacy and Safety of SKCPT in Patients with knee Osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult males and females aged 20 to 75 years\n* Kellgren-Lawrence (KL) grade 1 to 3\n* Individuals who voluntarily decide to participate in the study and provide written informed consent form\n* Individuals who can understand and follow instructions and can participate in the stud",
+      "endpoints": [
+        "K-WOMAC Pain Subscale"
+      ],
+      "sponsor": "SK Chemicals Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05930080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05974501",
+      "title": "Pre vs. Postoperative Adductor Canal Block for Total Knee Arthroplasty: Prospective Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-09-29",
+      "completion_date": "2024-01-22",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "The purpose of this project is to determine if a change in patient reported pain, nausea and vomiting after total knee arthroplasty can be observed with the substitution of a post operative adductor canal block for a preoperative adductor canal block in the current established peri-operative pain protocol and if these changes lead to a decrease in opioid consumption (in morphine equivalents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1- Patients 18 or older 2 - Patients undergoing primary total knee replacement at the University of Miami Hospital 3 - Patients that have capacity to provide medical consent\n\nExclusion Criteria:\n\n1. All patients under the age of 18\n2. Prisoners, uncontrolled diabetics, increased",
+      "endpoints": [
+        "Pain Status as Measured by Numeric Pain Scale",
+        "Pain Status as Measured by Numeric Pain Scale"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT05974501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00630929",
+      "title": "A Study of the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Three Times Daily Ibuprofen vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-02",
+      "country": "Germany, United Kingdom, Spain",
+      "enrollment": 388,
+      "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria:\n\n* Aged \\>=40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\nExclusion criteria:\n\n* Inflammatory arthritis or gout ",
+      "endpoints": [
+        "Change from baseline in patient's assessment of arthritis pain according to visual analogue scale"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00630929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00145301",
+      "title": "A 52-week, International, Multi-center, Randomized, Double-blind, Double-dummy, Parallel-group Clinical Trial to Compare Retention on Treatment, Safety, Tolerability and Efficacy of Lumiracoxib 100 mg od, Lumiracoxib 100 mg Bid and Celecoxib 200 mg od in Patients With Primary Osteoarthritis of Hip, Knee, Hand or Spine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "",
+      "country": "Germany",
+      "enrollment": 3036,
+      "brief_summary": "This trial will compare the retention on treatment (based on the rate of patients staying on treatment for 1 year) of patients suffering from primary osteoarthritis using two different doses of lumiracoxib (100 mg od or 100 mg bid) or using celecoxib (200 mg od)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary osteoarthritis in the hip, knee, hand, or spine\n* Requiring NSAID therapy\n\nExclusion Criteria:\n\n* Secondary OA with history and/ or any evidence of the following diseases: rheumatoid arthritis, uncontrolled gout, inflammatory joint disease, ochronosis, acromegaly, hemo",
+      "endpoints": [
+        "To show that either regimen of lumiracoxib (100mg od or 100mg bid) is not inferior to celecoxib 200mg od with respect to retention rate at 1 year in pts suffering from primary OA in hip, knee, hand or spine."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00145301"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07351968",
+      "title": "A Multicenter, Randomized, Double-blind, Agent-positive and Placebo-controlled, Parallel-group Phase Ib Study to Evaluate the Efficacy and Safety of HRS-2129 in Patients With Knee Osteoarthritis",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03",
+      "completion_date": "2026-08",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "Primary Objective: To explore the effectiveness of different doses of HRS-2129 in the treatment of patients with moderate to severe pain in knee osteoarthritis. Secondary Objectives: To evaluate the safety of different doses of HRS-2129 for the treatment of patients with moderate to severe pain in knee osteoarthritis; To evaluate the population pharmacokinetic profile of HRS-2129 in patients with knee osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily sign the informed consent form before starting the activities related to the trial;\n2. The Numerical Evaluation Scale (NRS) pain score of the index knee joint at screening is ≥ 4;\n3. Subjects must be willing to discontinue all medical and non-medical treatments fo",
+      "endpoints": [
+        "Change from baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain subscale scores."
+      ],
+      "sponsor": "Shandong Suncadia Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07351968"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02198924",
+      "title": "A Study to Evaluate Efficacy and Safety of Postoperative Intravenous Parecoxib Sodium Followed by Oral Celecoxib Post Total Knee Arthroplasty in Osteoarthritis Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-12",
+      "completion_date": "2016-12",
+      "country": "China",
+      "enrollment": 246,
+      "brief_summary": "In mainland China, knee Osteoarthritis (OA) is the leading cause of disability in older persons. Total knee arthroplasty (TKA) is now generally regarded by orthopaedic surgeons and patients as an effective treatment for end-stage knee OA in order to relieve pain, correct joint deformity and improve the life quality of patients.However, TKA has been called as one of the most painful Orthopedics surgery due to the weight bearing characteristics of knee joint and the high demand of functional exerc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The subject is scheduled to undergo elective unilateral total knee arthroplasty because of OA, performed under a standardized regimen of general anesthesia, as specified in this protocol.\n2. Evidence of a personally signed and dated informed consent document indicating that t",
+      "endpoints": [
+        "Total narcotic use"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02198924"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07337772",
+      "title": "Prospective Randomized Controlled Trial Comparing Different Doses of Corticosteroids in Local Infiltration Analgesia (LIA) for Total Knee Arthroplasty",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2028-11-01",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "This study aims to compare the efficacy of different doses of glucocorticoids in local infiltration analgesia (LIA) during total knee arthroplasty (TKA) through a prospective single-center randomized controlled trial, and to explore the safety and feasibility of high-dose glucocorticoids. Through this research, the investigators hope to provide an optimized solution for post-TKA pain management, improve patients' postoperative recovery and quality of life, and offer scientific evidence for pain ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants aged 18 years or older;\n2. Undergoing primary unilateral total knee arthroplasty (TKA)for unilateral knee osteoarthritis(OA)at ourhospital;\n3. Preoperative American Society of Anesthesiologists(ASA)physical status classification of 1-3;\n4. Ability ",
+      "endpoints": [
+        "Visual Analog Scale (VAS) Pain Score"
+      ],
+      "sponsor": "First Affiliated Hospital of Fujian Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT07337772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03540030",
+      "title": "Opioid-Free Shoulder Arthroplasty",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2019-06",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "Purpose of Study:\n\nTo identify and provide a safe, opioid-free treatment pathway for shoulder arthroplasty with a focus on perioperative pain control and postoperative symptoms from treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient undergoing elective primary total shoulder or reverse total shoulder arthroplasty for osteoarthritis, avascular necrosis, cuff tear arthropathy, or inflammatory arthritis etiologies\n2. Age greater than or equal to 50.\n\nExclusion Criteria:\n\n1. Revision total shoulder a",
+      "endpoints": [
+        "Post Op Pain"
+      ],
+      "sponsor": "OrthoCarolina Research Institute, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03540030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01604239",
+      "title": "A 24 Weeks, Multi-centers, Single Arm Phase IV Study to Evaluate the Safety of 'Shinbaro Capsule' Compared With Historical Data of 'Celebrex Capsule' in Patients With Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2013-06",
+      "country": "South Korea",
+      "enrollment": 761,
+      "brief_summary": "This study investigates if Shinbaro capsule has a lower incident of gastrointestinal events than celecoxib in subjects with osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Minimum 19 years old\n* Kellgren stage I \\~ III by ACR criteria\n* Stable osteoarthritis during 3 months\n* Be able to perform WOMAC and KKS\n* Written consent form voluntarily\n\nExclusion Criteria:\n\n* Disease of orthopaedic surgical that could affect to evaluate the efficacy\n* Med",
+      "endpoints": [
+        "Percentage of subjects with gastrointestinal adverse events"
+      ],
+      "sponsor": "GC Biopharma Corp",
+      "url": "https://clinicaltrials.gov/study/NCT01604239"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02725411",
+      "title": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND, ACTIVE-CONTROLLED, MULTICENTER STUDY OF THE LONG-TERM SAFETY AND EFFICACY OF SUBCUTANEOUS ADMINISTRATION OF TANEZUMAB IN JAPANESE ADULT SUBJECTS WITH CHRONIC LOW BACK PAIN",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-05-26",
+      "completion_date": "2019-06-11",
+      "country": "Japan",
+      "enrollment": 277,
+      "brief_summary": "This study will investigate the long-term safety and efficacy of a fixed dose of tanezumab 5 mg and 10 mg administered subcutaneously (SC) seven times at 8 week intervals. The primary objective of this study is to evaluate the long term safety of tanezumab 5 mg and 10 mg administrated SC every 8 weeks (7 administrations). In addition, the study will evaluate the long term analgesic efficacy of tanezumab 5 mg and 10 mg SC administered every 8 weeks (7 administrations).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Duration of chronic low back pain for ≥3 months, and treatment with agents for low back pain for ≥3 months.\n* Primary location of low back pain must be between the 12th thoracic vertebra and the lower gluteal folds, with or without radiation into the posterior thigh, classifie",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Number of Participants With Treatment-Emergent Treatment Related Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Number of Participants With Clinically Significant Laboratory Test Abnormalities"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02725411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01425853",
+      "title": "Non-Inferiority Clinical Trial On The Efficacy And Safety Of Chondroitin Sulfate And Glucosamine Hydrochloride In Combination Versus Celecoxib In Patients With Knee Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2013-05",
+      "country": "Spain",
+      "enrollment": 606,
+      "brief_summary": "The purpose of this study is to determine whether the combination of Chondroitin sulfate (CS) and Glucosamine Hydrochloride (GH) has similar efficacy to Celecoxib (CE) in the treatment of patients with moderate to severe knee osteoarthritis (OA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 40 years of age\n* Primary OA of the knee according to the American College of Rheumatology (ACR) criteria\n* OA of radiological stages II or III according to Kellgren and Lawrence\n* Patients with moderate-severe knee pain\n\nExclusion Criteria:\n\n* Subjects with active ma",
+      "endpoints": [
+        "WOMAC Pain Subscale"
+      ],
+      "sponsor": "Bioiberica",
+      "url": "https://clinicaltrials.gov/study/NCT01425853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00904605",
+      "title": "A Randomized, Open-Label Study Comparing the Efficacy and Safety of Lidocaine Patch 5% With Celecoxib 200 mg in Patients With Pain From Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2004-06",
+      "completion_date": "2004-11",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "Patients with unilateral or bilateral osteoarthritis of the knee participated in a Phase IV clinical trial to assess the efficacy of Lidoderm compared with celecoxib 200mg in treating pain from osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Had unilateral or bilateral OA of the knee diagnosed according to the American College of Rheumatology (ACR) criteria based on clinical and radiographic evidence of OA (presence of osteophytes on x-ray and written evaluation)\n2. Had functional capacity class rating of I, II, ",
+      "endpoints": [
+        "Mean change from baseline to Week 12 in Western Ontario and McMaster Universities OA Index (WOMAC) pain subscale"
+      ],
+      "sponsor": "Endo Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00904605"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04718649",
+      "title": "Effectiveness and Safety of Celecoxib (Celebrex 200 mg) Combined With Joins in the Treatment of Degenerative Knee Osteoarthritis: a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-01",
+      "completion_date": "2022-12",
+      "country": "South Korea",
+      "enrollment": 216,
+      "brief_summary": "Osteoarthritis of the knee joint causes pain, stiffness, and restriction of joint movement in the knee joint due to degeneration of the knee cartilage. The purpose of osteoarthritis treatment is to improve the joint pain and prevent further damage to the joint. Selective Cox-2 inhibitors are the most commonly used nonsteroid anti-inflammatory drugs(NSAIDs) for the treatment of osteoarthritis of the knee joint. However, the safety of selective Cox-2 inhibitors is still controversial. Although the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults over 50\n* Patients undergoing outpatient treatment in orthopedic surgery for osteoarthritis of the knee joint\n* Patients diagnosed with Kellgren-Lawrence grade II or III osteoarthritis of the knee by imaging examination\n* Patients with a pain VAS scale of 4 or more out ",
+      "endpoints": [
+        "WOMAC(Western Ontario and McMaster University Arthritis Index ) pain scale"
+      ],
+      "sponsor": "The Catholic University of Korea",
+      "url": "https://clinicaltrials.gov/study/NCT04718649"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02739035",
+      "title": "Manipulation Under Anesthesia (MUA) to Treat Postoperative Stiffness After Total Knee Arthroplasty: A Multicenter Randomized Clinical Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-04",
+      "completion_date": "2022-12",
+      "country": "United States",
+      "enrollment": 130,
+      "brief_summary": "Compare the outcome following manipulation under anesthesia for stiffness in a randomized controlled fashion with one group receiving IV dexamethasone and oral celecoxib at the time of manipulation to a control group receiving manipulation alone.\n\nOutcomes will include pain, range of motion, as well as subjective outcome scores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects who have received a primary unilateral TKA for a diagnosis of osteoarthritis.\n2. MUA's scheduled between 6-10 weeks postoperatively\n\nExclusion Criteria:\n\n1. Intolerance to NSAIDs\n2. Renal dysfunction\n3. Age \\< 18 or \\> 90 years\n4. Primary diagnosis of rheumatoid arth",
+      "endpoints": [
+        "Knee Range of Motion After Manipulation Under Anesthesia",
+        "Knee Range of Motion After Manipulation Under Anesthesia"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT02739035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03541655",
+      "title": "A Phase 2, Randomized, Single-Blind, Active-Control, Parallel Group Study to Evaluate Safety and Activity of a Single Administration of F14 for Management of Postoperative Pain in Participants Undergoing Unilateral Total Knee Replacement",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-05-04",
+      "completion_date": "2020-03-30",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The safety and activity of a single, 3.5 mL dose of F14 (celecoxib) concurrent with standard of care analgesia administered following total knee replacement will be compared to standard of care analgesia alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and/or female indicated for primary, unilateral TKR\n* Between 45-80 years of age inclusive at the time of signing the informed consent\n* Capable of giving signed informed consent and complying with requirements and restrictions listed in the informed consent form (ICF) an",
+      "endpoints": [
+        "Peak pain intensity measured by visual analog scale (VAS)",
+        "Area under the curve (AUC) of visual analog scale (VAS) pain intensity scores",
+        "Summed pain intensity difference (SPID) of visual analog scale (VAS) pain intensity scores"
+      ],
+      "sponsor": "Arthritis Innovation Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT03541655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00317733",
+      "title": "A Double-Blind, Placebo-Controlled Evaluation of Safety and Efficacy of Epicutaneously Applied IDEA-033 (Ketoprofen in Transfersome) in Comparison to Oral Celecoxib for the Treatment of Pain Associated With Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-01",
+      "country": "N/A",
+      "enrollment": 360,
+      "brief_summary": "The purpose of this study is to determine the safety and effectiveness of 110 mg ketoprofen in Transfersome applied to the skin twice daily as compared to placebo and oral celecoxib 200 mg per day for the relief of signs and symptoms of osteoarthritis of the knee for a period of six weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee for a minimum of six months\n* Patient´s rating of pain in the index knee while not taking oral NSAIDs of at least 3 using a 5-point Likert scale\n* Presenting two out of the three following criteria - Morning stiffness of less than 30 minutes duration",
+      "endpoints": [
+        "Change from baseline at Week 6 on the VAS version of the WOMAC pain subscale; Change from baseline at Week 6 on the VAS version of the WOMAC function subscale; Subject global assessment of response to therapy measured on a 5-point Likert scale at Week 6"
+      ],
+      "sponsor": "IDEA AG",
+      "url": "https://clinicaltrials.gov/study/NCT00317733"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00620867",
+      "title": "A Study of the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Three Times Daily Ibuprofen vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-10",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 393,
+      "brief_summary": "To compare the efficacy and safety of celecoxib versus ibuprofen in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged \\>= 40 years old\n* Diagnosed with OA of the knee according to the American College of Rheumatology and OA in flare state at baseline visit\n* Functional capacity class of I-III\n\nExclusion Criteria:\n\n* Inflammatory arthritis or gout or pseudo-gout with acute flare within th",
+      "endpoints": [
+        "Change from baseline in patient's assessment of arthritis pain according to visual analogue scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00620867"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05638893",
+      "title": "Metformin as Adjuvant Therapy in Obese Knee Osteoarthritis Patients",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-04-15",
+      "country": "Egypt",
+      "enrollment": 50,
+      "brief_summary": "This study aims to evaluate the possible efficacy and safety of addition of metformin to celecoxib in patients with knee osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients have symptomatic and radiological evidence of OA in one or both knee joints.\n* Age ≥ 45 years.\n* Both obese male and female will be included (BMI ≥ 30 kg/m²).\n\nExclusion Criteria:\n\n* Patients with inflammatory rheumatic diseases, crystal deposition arthritis or infect",
+      "endpoints": [
+        "Western Ontario and McMaster Universities Arthritis Index (WOMAC)",
+        "Weight (Kg)"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT05638893"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07338266",
+      "title": "A Single Ascending Dose Study to Assess the Safety and Pharmacokinetics of Intra-articular AVD275 Injection in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01",
+      "completion_date": "2026-12",
+      "country": "Australia",
+      "enrollment": 15,
+      "brief_summary": "This study aims to understand the safety, drug concentration and distribution of an intra-articular injectable formulation of celecoxib, AVD275, in patients with knee osteoarthritis. One single injection at three different doses of the drug will be studied in a sequential order, and each participant will be monitored for 24 weeks over ten clinical visits.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written consent to participate in the study; Willingness and ability to comply with the study procedures, visit schedules and follow verbal and written instructions\n2. Male or female: 20 years to 75 years of age\n3. Symptoms associated with OA of the knee for ≥6 months prior t",
+      "endpoints": [
+        "Frequency of treatment emergent adverse events"
+      ],
+      "sponsor": "Avidence Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT07338266"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02355236",
+      "title": "A Prospective, Randomized, Double-blinded, Double-dummy, Active-controlled, Multi-center, Interventional Study to Compare Gastro-protective Effect and Pain Relief Effect of Naxozol Compared to Celecoxib in Patients With Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-02",
+      "completion_date": "2015-12",
+      "country": "South Korea",
+      "enrollment": 106,
+      "brief_summary": "Naxozol is a combination product of naproxen, a non-steroidal anti-inflammatory drug (NSAID) and esomeprazole, a proton pump inhibitor which is designed to improve symptoms and reduce risk of gastric ulcers in patients at risk of developing NSAID-associated gastric ulcers in the treatment of osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis. The purpose of this study is to investigate whether naxozol protects the gastrointestinal tract effectively compared to celecoxib, a COX-2 in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Koreans given informed consent\n* Patients who have ability of reading comprehension and completing questionnaires (EQ-5D and VAS)and have willingness to follow-up 12 weeks\n* Patients with osteoarthritis symptoms confirmed by his/her medical history and with pain-VAS of 40 and ",
+      "endpoints": [
+        "Leads Dyspepsia Questionnaire (LDQ) Change"
+      ],
+      "sponsor": "Severance Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02355236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03404479",
+      "title": "A Prospective, Randomized, Double-blinded, Multi-center, Trial to Evaluate Efficacy and Safety of Combination of Diacerein and Celecoxib Administered Orally in Patients With Knee Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-25",
+      "completion_date": "2019-01-02",
+      "country": "South Korea",
+      "enrollment": 90,
+      "brief_summary": "The purpose of this study is to evaluate the pain relief effect of Co-administration of Diacerein with Celecoxib in patients with knee osteoarthritis compared with single administration of each drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects who voluntarily consented, after listening enough explanation for this study and investigational product.\n2. Adult over 50 years of age.\n3. At least one of the knee pain VAS score is 40mm or more.\n4. Meets the ACR(American College of Rheumatology) criteria for diagno",
+      "endpoints": [
+        "pain VAS score"
+      ],
+      "sponsor": "Seoul St. Mary's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03404479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00424294",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study Of CP-195543 And Celecoxib Dual Therapy In The Treatment Of The Signs And Symptoms Of Rheumatoid Arthritis In Subjects Who Are Inadequately Controlled On Methotrexate",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-06",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "To evaluate the efficacy, safety and tolerability of CP-195543 and celecoxib dual therapy in subjects with rheumatoid arthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of RA based upon the American college of Rheumatology 1987 revised criteria\n* Active disease at Screening\n* Stable dose of methotrexate between 10-25 mg/week oral or parenteral\n\nExclusion Criteria:\n\n* A diagnosis of any other inflammatory or secondary, noninflammat",
+      "endpoints": [
+        "Percentage of Participants Achieving American College of Rheumatology 20% (ACR20) Response at Week 12"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00424294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03304379",
+      "title": "Phase 3 Randomized, Double-Blind, Multi-Dose, Placebo And NSAID Controlled Study To Evaluate The Efficacy And Safety Of Fasinumab In Patients With Pain Due To Osteoarthritis Of The Knee Or Hip",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-10-26",
+      "completion_date": "2020-11-09",
+      "country": "United States",
+      "enrollment": 1650,
+      "brief_summary": "The primary objective of the study is to evaluate the efficacy of fasinumab compared to placebo, when administered for up to 24 weeks in patients with pain due to osteoarthritis (OA) of the knee or hip.\n\nThe secondary objectives of the study are:\n\n* To evaluate the efficacy of fasinumab compared to non-steroidal anti-inflammatory drugs (NSAID)s, when administered for up to 24 weeks in patients with pain due to OA of the knee or hip\n* To assess the safety and tolerability of fasinumab compared to",
+      "eligibility_criteria": "Key Inclusion Criteria (additional criteria may apply at screening):\n\n1. A clinical diagnosis of osteoarthritis (OA) of the knee or hip based on the American College of Rheumatology criteria with radiologic evidence of OA (K-L score ≥2 for the index joint) at the screening visit.\n2. Willing to disco",
+      "endpoints": [
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Scores up to Week 24 in Participants Treated With Fasinumab Compared to Placebo",
+        "Change From Baseline in WOMAC Physical Function Subscale Scores up to Week 24 in Participants Treated With Fasinumab Compared to Placebo"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03304379"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00137410",
+      "title": "Protocol For A Multicentre, Double Blind, Parallel Group Pilot Study To Compare Celecoxib Long Term Vs Celecoxib Short Term Therapy In Treatment And Prevention Of New Flare In Patients With Osteoarthritis Of The Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-11",
+      "completion_date": "2006-03",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "This is a phase III, multicentre, randomized, double blind, parallel-group, pilot study designed to compare a long term (12 weeks) versus a short term (2 weeks) treatment with celecoxib 200 mg/die in treatment and prevention of new flare in patients with osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of OA of the knee according to the ACR Classification Criteria for osteoarthritis;\n* patients in flare\n\nExclusion Criteria:\n\n* any concomitant inflammatory rheumatic condition which may interfere with the assessment of OA\n* clinical or radiological evidence of chondr",
+      "endpoints": [
+        "Time elapsing between the last drug administration and a new flare, if any, occurring within a 12 months FU and proportion pts with a new flare"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00137410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00813241",
+      "title": "A Pilot, Open-Label, Randomized, Crossover, Pharmacokinetic Study Of Enhanced Bioavailability Formulations Of Celecoxib In Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2009-03",
+      "country": "Singapore",
+      "enrollment": 16,
+      "brief_summary": "A pharmacokinetic study in healthy volunteers to determine the relative bioavailability of three formulations of celecoxib to the approved formulation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male and/or female subjects between the ages of 21 and 55 years, inclusive (Healthy is defined as no clinically relevant abnormalities identified by a detailed medical history, full physical examination, including blood pressure (BP) and pulse rate measurement, 12-lead",
+      "endpoints": [
+        "PK endpoints will include Cmax, C12h, Tmax, AUCtlqc, AUCinf, and half-life (t1/2) for each formulation as data permit",
+        "Visual inspection of median plasma concentration versus time profiles resulting from each formulation"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00813241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00174317",
+      "title": "Clinical Protocol For A Multicentre, Double-Blind, Randomised, Parallel Group Study To Compare The Efficacy and Tolerability Of Celecoxib Vs. Diclofenac In The Treatment Of Subjects With Osteoarthritis Of The Hip Requiring Joint Replacement Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-08",
+      "completion_date": "2005-02",
+      "country": "United Kingdom",
+      "enrollment": 250,
+      "brief_summary": "To determine if celecoxib 200 mg once daily is as effective as diclofenac 50 mg three times daily in the treatment of pain symptoms associated with osteoarthritis of the hip",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with osteoarthritis of hip and requiring joint replacement\n* Eligible for chronic therapy with an NSAID\n\nExclusion Criteria:\n\n* Hip surgery anticipated within 8 calendar weeks after first visit\n* Active gastrointestinal disease or recent diagnosis of gastrointestinal",
+      "endpoints": [
+        "Change in patient assessment of arthritis pain on walking VAS (Visual Analog Scale) as measured on a 0-100 mm scale at week 6 compared to baseline"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00174317"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01768520",
+      "title": "For 12 Weeks, the Multi-center, Randomized, Double-blinded, Clinical Study to Evaluate the Efficacy and Safety of Entelon Tab. 150mg Compared With Celebrex Capsule in Patients With Osteoarthritis of Knee (Phase III)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-07-02",
+      "completion_date": "2015-05-13",
+      "country": "South Korea",
+      "enrollment": 338,
+      "brief_summary": "This clinical trial is planned to prove Entelon tab. arm is not inferior to Celebrex cap. arm in terms of the efficacy and safety through the change of K-WOMAC's total score sum in patients with osteoarthritis of knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. both gender,35 years ≤ age ≤ 75 years\n2. patients with a diagnosis of OA(osteoarthritis) of the knee within 3 months prior to study participation, as determined by the American College of Rheumatology clinical and radiographic criteria as follows.\n\n   1. knee arthralgia\n   2.",
+      "endpoints": [
+        "the Change of Total Sum of K-WOMAC(Korean The Western Ontario and McMaster Universities Arthritis Index)"
+      ],
+      "sponsor": "Hanlim Pharm. Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01768520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00373685",
+      "title": "Gastrointestinal (GI) Randomized Event And Safety Open-Label NSAID Study (GI-Reasons): A Randomized, Open-Label, Blinded-Endpoint, Parallel-Group Trial Of GI Safety Of Celecoxib Compared With Non-Selective Nonsteroidal Antiinflammatory Drugs (NSAIDS) In Osteoarthritis Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2010-11",
+      "country": "Puerto Rico, United States",
+      "enrollment": 8067,
+      "brief_summary": "This study investigates if Celebrex has a lower incident of Gastrointestinal Events than other NSAIDS in subjects with osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients of at least 55 years of age with a clinical diagnosis of OA who are expected to require daily prescription anti-inflammatory analgesic therapy for arthritis symptom management and for whom either celecoxib or a nsNSAID is an appropriate treatment option",
+      "endpoints": [
+        "Percentage of Participants With Clinically Significant Upper and/or Lower Gastrointestinal Events (CSULGIEs)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00373685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00032890",
+      "title": "Glucosamine/Chondroitin Arthritis Intervention Trial (GAIT)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-04",
+      "completion_date": "2004-02",
+      "country": "United States",
+      "enrollment": 1588,
+      "brief_summary": "This study will determine whether glucosamine, chondroitin sulfate and/or the combination of glucosamine and chondroitin sulfate are more effective than placebo and whether the combination is more effective than glucosamine or chondroitin sulfate alone in the treatment of knee pain associated with osteoarthritis (OA) of the knee after six months of follow-up. These substances, marketed in the United States as dietary supplements, have been widely touted by the lay press and by anecdotal personal",
+      "eligibility_criteria": "40 years and above, both genders, who have clinical and radiographic osteoarthritis symptomatic for at least six months.",
+      "endpoints": [],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00032890"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092352",
+      "title": "A Randomized, Placebo-Controlled, Parallel-Group, Double -Blind Study to Evaluate the Safety and Efficacy of Rofecoxib 12.5 mg and Celecoxib 200 mg in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-04-29",
+      "completion_date": "2003-12-01",
+      "country": "N/A",
+      "enrollment": 395,
+      "brief_summary": "The purpose of this study is to compare the safety and effectiveness of two approved drugs in the treatment of osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee which requires treatment with medication for pain relief\n\nExclusion Criteria:\n\n* Any known allergy to the study drug",
+      "endpoints": [
+        "Osteoarthritis (OA) of the knee as measured by Patient Global Assessment of Response to Therapy (PGART) and WOMAC VA 3.0 over 6 weeks of treatment."
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00092352"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05362851",
+      "title": "a Multicenter, Double-blind, Randomized, Active Drug Control, Parallel Design Phase 3 Clinical Trial to Evaluate the Efficacy and Safety of YYC301 in Patients With Osteoarthritis of the Knee Joint",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-11",
+      "completion_date": "2023-03-31",
+      "country": "South Korea",
+      "enrollment": 692,
+      "brief_summary": "A Multi-center, Double-blinded, Randomized, Active-controlled, Parallel Design, phase 3 Clinical Trial to Evaluate the Efficacy and Safety of YYC301 in Patients with Osteoarthritis of the Knee Joint",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men/Women aged over 20\n* Subjects who are diagnosed with one- or both-sided knee osteoarthritis according to the standards of clinical diagnosis from American College of Rheumatology(ACR)have knee osteoarthritis pain and meet over three of the following conditions.\n\n  1. Older",
+      "endpoints": [
+        "100mm Pain VAS"
+      ],
+      "sponsor": "Yooyoung Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05362851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00194090",
+      "title": "A Double-blind, Placebo-controlled, Crossover Pilot Study of the Efficacy of Celecoxib 200 mg qd in Relieving Pain and Walking Dysfunction in Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2005-09-01",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "A paced 20-minute walk is a reproducible model for acute pain in knee osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\nKnee osteoarthritis by ACR clinical criteria Pain of at least 40 mm by VAS at baseline\n\n\\-\n\nExclusion Criteria:\n\nNon-pregant, non-lactating Able to stop active arthritis medication for washout Cardiovascular risk factors Abnormal EKG -",
+      "endpoints": [
+        "time to onset of severe pain"
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00194090"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03949673",
+      "title": "Study to Evaluate Arthroplasty Specimens in the Phase 3 Fasinumab Program for Osteoarthritis of the Knee and Hip",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-04-08",
+      "completion_date": "2020-08-25",
+      "country": "United Kingdom, Poland, United States",
+      "enrollment": 23,
+      "brief_summary": "The objective of this exploratory study is to evaluate the cellular and connective tissue composition of joints from patients with Osteoarthritis (OA) who have been treated with fasinumab, compared with those treated with placebo or Non-steroidal anti-inflammatory drugs (NSAIDs).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Previously randomized to R475-PN-1523 (NCT02683239), R475-OA-1611 (NCT03161093), or R475-OA-1688 (NCT03304379) and received at least 1 dose of study drug\n* Notified the site that they are planning a knee or hip arthroplasty during the parent study between randomization and",
+      "endpoints": [
+        "Number of Participants by Degree of Synovial Lymphocytic Inflammation",
+        "Number of Participants by Degree of Cartilage Loss",
+        "Number of Participants by Degree of Bony Changes"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03949673"
+    }
+  ],
+  "timestamp": "2026-03-04T15:12:17.905761",
+  "success": true,
+  "error_message": null
+}

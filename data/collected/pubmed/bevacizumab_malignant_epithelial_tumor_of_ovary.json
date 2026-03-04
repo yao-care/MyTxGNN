@@ -1,0 +1,591 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": "malignant epithelial tumor of ovary",
+    "query_string": "Bevacizumab AND malignant epithelial tumor of ovary"
+  },
+  "data": {
+    "query": "Bevacizumab AND malignant epithelial tumor of ovary",
+    "results": [
+      {
+        "pmid": "32268951",
+        "title": "Gynecologic cancer in pregnancy.",
+        "abstract": "Cancer complicates 1 in 1000 pregnancies. Multidisciplinary consensus comprised of Gynecologic Oncology, Pathology, Neonatology, Radiology, Anesthesiology, Maternal Fetal Medicine, and Social Work should be convened. Pregnancy provides an opportunity for cervical cancer screening, with deliberate delays in treatment permissible for early stage carcinoma. Vaginal delivery is contraindicated in the presence of gross lesion(s) and radical hysterectomy with lymphadenectomy at cesarean delivery is recommended. Women with locally advanced and metastatic/recurrent disease should commence treatment at diagnosis with chemoradiation and systemic therapy, respectively; neoadjuvant chemotherapy to permit gestational advancement may be considered in select cases. Most adnexal masses are benign and resolve by the second trimester. Persistent, asymptomatic, benign-appearing masses can be managed conservatively; surgery, if indicated, is best deferred to 15-20 weeks, with laparoscopy preferable over l",
+        "journal": "Gynecologic oncology",
+        "year": "2020",
+        "authors": [
+          "Korenaga Travis-Riley K",
+          "Tewari Krishnansu S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Genital Neoplasms, Female",
+          "Pregnancy Complications, Neoplastic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32268951/"
+      },
+      {
+        "pmid": "27141073",
+        "title": "Mucinous epithelial ovarian carcinoma.",
+        "abstract": "Mucinous tumours involving the ovary may be benign, borderline, or malignant. Malignant tumours may be primary or metastatic. Differentiation between primary and metastatic involvement of the ovary is critical for optimal patient management. Even among skilled pathologists, this distinction can be problematic, as can the distinction between borderline ovarian tumour of intestinal type and well-differentiated invasive primary mucinous ovarian carcinoma. Primary invasive mucinous ovarian carcinoma and mucinous carcinoma metastatic to the ovary do have distinct patterns of macroscopic and microscopic involvement which will reveal the correct diagnosis in many cases. There are also well-recognized patterns of immunohistochemical staining that can further assist in this differentiation. As a result of the application of these histopathological techniques, the incidence of primary invasive mucinous epithelial carcinoma has fallen over recent years from ∼12% to ∼3%. However, even in recent mu",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2016",
+        "authors": [
+          "Perren T J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Mucinous",
+          "Antineoplastic Agents, Immunological",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Molecular Targeted Therapy",
+          "Mutation",
+          "Ovarian Neoplasms",
+          "Survival Analysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27141073/"
+      },
+      {
+        "pmid": "18025280",
+        "title": "Bevacizumab and rapamycin inhibit tumor growth in peritoneal model of human ovarian cancer.",
+        "abstract": "Ovarian cancer is the leading cause of death from gynecologic cancer. Often, the disease has spread beyond the ovary to involve the peritoneal cavity and causes ascites. Whereas mammalian target of rapamycin (mTOR) functions to regulate protein translation, cell cycle progression, and metastasis, vascular endothelial growth factor promotes tumor angiogenesis, ascites formation, and metastasis in ovarian cancer. In this study, an i.p. model of human ovarian cancer was used to determine the antitumor activity of rapamycin, bevacizumab, and rapamycin plus bevacizumab (BEV/RAPA). We report that administration of rapamycin, bevacizumab, and BEV/RAPA in mice bearing peritoneal OV-90 ovarian carcinoma resulted in 74.6%, 82.4%, and 93.3% reduction in i.p. tumor burden, respectively. BEV/RAPA-induced reduction in microvessel density and inhibition of cell proliferation were associated with significant reduction in hypoxia-inducible factor-1alpha and cyclin D1 and inactivation of downstream targ",
+        "journal": "Molecular cancer therapeutics",
+        "year": "2007",
+        "authors": [
+          "Huynh Hung",
+          "Teo Ching Ching Melissa",
+          "Soo Khee Chee"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Ascites",
+          "Bevacizumab",
+          "Body Weight",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Disease Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18025280/"
+      },
+      {
+        "pmid": "36446409",
+        "title": "Chemotherapy-free treatment of recurrent advanced ovarian cancer: myth or reality?",
+        "abstract": "Advanced ovarian cancer remains a leading cause of death from gynecologic malignancy. Surgery and, in most cases, platinum-based chemotherapy with or without maintenance with bevacizumab and/or poly-ADP ribose polymerase inhibitors (PARPi) represent the mainstay of treatment, but the disease typically recurs. The treatment of these patients represents a clinical challenge because sequential chemotherapy regimens are often used, with suboptimal outcomes and cumulative toxicity. Chemotherapy-free regimens, based on combinations of PARPi, vascular endothelial growth factor receptor inhibitors, anti-programmed cell death protein-1/programmed death-ligand 1, and anti-cytotoxic T-lymphocyte-associated protein-4 antibodies, among others, represent a valid option, with manageable toxicity profile and ease of administration. This review addresses this new strategy in the management of recurrent ovarian cancer and discusses its feasibility in the treatment landscape of the disease.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2023",
+        "authors": [
+          "Marques Cristiana",
+          "Ferreira da Silva Filipa",
+          "Sousa Isabel",
+          "Nave Mónica"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Ovarian Neoplasms",
+          "Vascular Endothelial Growth Factor A",
+          "Neoplasm Recurrence, Local",
+          "Carcinoma, Ovarian Epithelial",
+          "Bevacizumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36446409/"
+      },
+      {
+        "pmid": "27141071",
+        "title": "Low-grade serous carcinoma of the ovary or peritoneum.",
+        "abstract": "Over the past decade, the strategy for clinical trial design in making progress against epithelial cancers of the ovary/peritoneum/fallopian tube has changed dramatically. The NRG (GOG) Rare Tumor Committee has been a leader in this transformation. No longer does 'one size fit all'. Rather, separate clinical trials for rare subtypes have been developed and, in some cases, completed. An enhanced understanding of their pathologic diagnosis, molecular biology, and clinical behavior has galvanized this change. Low-grade serous carcinoma may occur de novo or following an initial diagnosis of serous tumor of low malignant potential. It is characterized by young age at diagnosis, relative chemoresistance, and prolonged survival compared with high-grade serous carcinoma. Historically, conventional chemotherapy has demonstrated very limited activity in this subtype. Hormonal therapy may provide benefit in this subtype. Preclinical studies have identified and elucidated genes and pathways-MAP ki",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2016",
+        "authors": [
+          "Gershenson D M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Hormonal",
+          "Female",
+          "Humans",
+          "Molecular Targeted Therapy",
+          "Ovarian Neoplasms",
+          "Ovary",
+          "Peritoneal Neoplasms",
+          "Peritoneum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27141071/"
+      },
+      {
+        "pmid": "30905627",
+        "title": "Management of epithelial cancer of the ovary, fallopian tube, and primary peritoneum. Short text of the French Clinical Practice Guidelines issued by FRANCOGYN, CNGOF, SFOG, and GINECO-ARCAGY, and endorsed by INCa.",
+        "abstract": "An MRI is recommended for an ovarian mass that is indeterminate on ultrasound. The ROMA score (combining CA125 and HE4) can also be calculated (Grade A). In presumed early-stage ovarian or tubal cancers, the following procedures should be performed: an omentectomy (at a minimum, infracolic), an appendectomy, multiple peritoneal biopsies, peritoneal cytology (grade C), and pelvic and para-aortic lymphadenectomies (Grade B) for all histologic types, except the expansile mucinous subtypes, for which lymphadenectomies can be omitted (grade C). Minimally invasive surgery is recommended for early-stage ovarian cancer, when there is no risk of tumor rupture (grade B). Adjuvant chemotherapy by carboplatin and paclitaxel is recommended for all high-grade ovarian and tubal cancers (FIGO stages I-IIA) (grade A). For FIGO stage III or IV ovarian, tubal, and primary peritoneal cancers, a contrast-enhanced computed tomography (CT) scan of the thorax/abdomen/pelvis is recommended (Grade B), as well a",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2019",
+        "authors": [
+          "Lavoue V",
+          "Huchon C",
+          "Akladios C",
+          "Alfonsi P",
+          "Bakrin N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "France",
+          "Humans",
+          "Minimally Invasive Surgical Procedures",
+          "Ovarian Neoplasms",
+          "Peritoneal Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30905627/"
+      },
+      {
+        "pmid": "40475766",
+        "title": "A case report of small cell neuroendocrine carcinoma of the ovary and review of the literature.",
+        "abstract": "Small cell neuroendocrine carcinoma of the ovary is rare pathological type with an undefined mechanism, low incidence, but high metastatic rate, high aggressiveness, and very poor prognosis, and there are no standardized treatment protocols or guidelines. In this article, we report a 48-year-old woman diagnosed with small cell neuroendocrine carcinoma of the ovary after puncture biopsy of a pelvic mass, who underwent 8 cycles of paclitaxel+carboplatin regimen chemotherapy (with the addition of the anti-angiogenesis targeted agent bevacizumab in the first 2 times, and the immunosuppressant tirilizumab in the last 2 times), followed by 12 times of tirilizumab monotherapy maintenance therapy, which was highly effective. It is believed that with newer technologies, the use of surgery, chemotherapy combined with immunotherapy, targeted therapy, genetic testing and construction of animal tumor models will play a key role in the treatment and monitoring of the prognosis of this rare disease.",
+        "journal": "Frontiers in immunology",
+        "year": "2025",
+        "authors": [
+          "Zhao Ying",
+          "Kang Fuli",
+          "Kong Xiangshu",
+          "Wang Ning"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Middle Aged",
+          "Ovarian Neoplasms",
+          "Carcinoma, Neuroendocrine",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Small Cell",
+          "Carboplatin",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40475766/"
+      },
+      {
+        "pmid": "38146364",
+        "title": "CAR-T cell immunotherapy for ovarian cancer: hushing the silent killer.",
+        "abstract": "As the most lethal gynecologic oncological indication, carcinoma of the ovary has been ranked as the 5th cause of cancer-related mortality in women, with a high percentage of the patients being diagnosed at late stages of the disease and a five-year survival of ~ 30%. Ovarian cancer patients conventionally undergo surgery for tumor removal followed by platinum- or taxane-based chemotherapy; however, a high percentage of patients experience tumor relapse. Cancer immunotherapy has been regarded as a silver lining in the treatment of patients with various immunological or oncological indications; however, mirvetuximab soravtansine (a folate receptor α-specific mAb) and bevacizumab (a VEGF-A-specific mAb) are the only immunotherapeutics approved for the treatment of ovarian cancer patients. Chimeric antigen receptor T-cell (CAR-T) therapy has achieved tremendous clinical success in the treatment of patients with certain B-cell lymphomas and leukemias, as well as multiple myeloma. In the co",
+        "journal": "Frontiers in immunology",
+        "year": "2023",
+        "authors": [
+          "Nasiri Fatemeh",
+          "Farrokhi Khadijeh",
+          "Safarzadeh Kozani Pouya",
+          "Mahboubi Kancha Maral",
+          "Dashti Shokoohi Setareh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Receptors, Chimeric Antigen",
+          "T-Lymphocytes",
+          "Immunotherapy, Adoptive",
+          "Ovarian Neoplasms",
+          "Genital Neoplasms, Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146364/"
+      },
+      {
+        "pmid": "40513287",
+        "title": "Predictive value of BRCA1/RAD51C methylation in HGSOC - An ancillary study of the PAOLA-1/ENGOT-ov25 phase 3 trial.",
+        "abstract": "In high-grade serous ovarian cancer (HGSOC) bevacizumab (bev)/olaparib (ola) maintenance was approved for patients with homologous recombination DNA repair deficiency (HRD+) tumors. Although different methods exist to score genomic instability, DNA quality, tumor cell content, and costs may impair our ability to identify patients that will benefit from treatment.",
+        "journal": "European journal of cancer (Oxford, England : 1990)",
+        "year": "2025",
+        "authors": [
+          "Blons H",
+          "Abdelli J",
+          "Landman S",
+          "Taly V",
+          "Mulot C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "DNA Methylation",
+          "Ovarian Neoplasms",
+          "BRCA1 Protein",
+          "Middle Aged",
+          "DNA-Binding Proteins",
+          "Bevacizumab",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40513287/"
+      },
+      {
+        "pmid": "35049696",
+        "title": "Neoadjuvant and Adjuvant Systemic Therapy for Newly Diagnosed Stage II-IV Epithelial Ovary, Fallopian Tube, or Primary Peritoneal Carcinoma: A Practice Guideline.",
+        "abstract": "This study aims to provide guidance for the use of neoadjuvant and adjuvant systemic therapy in women with newly diagnosed stage II-IV epithelial ovary, fallopian tube, or primary peritoneal carcinoma.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "year": "2022",
+        "authors": [
+          "Hirte Hal",
+          "Poon Raymond",
+          "Yao Xiaomei",
+          "May Taymaa",
+          "Ethier Josee-Lyne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Carcinoma",
+          "Fallopian Tube Neoplasms",
+          "Fallopian Tubes",
+          "Female",
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35049696/"
+      },
+      {
+        "pmid": "33862245",
+        "title": "Neoadjuvant and adjuvant systemic therapy for newly diagnosed stage II- IV epithelial ovary, fallopian tube, or primary peritoneal carcinoma: A systematic review.",
+        "abstract": "To systematically review neoadjuvant and adjuvant therapy options for women with newly diagnosed stage II-IV ovarian cancer.",
+        "journal": "Critical reviews in oncology/hematology",
+        "year": "2021",
+        "authors": [
+          "Hirte Hal",
+          "Poon Raymond",
+          "Yao Xiaomei",
+          "May Taymaa",
+          "Ethier Josee-Lyne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinoma",
+          "Chemotherapy, Adjuvant",
+          "Fallopian Tube Neoplasms",
+          "Fallopian Tubes",
+          "Female",
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33862245/"
+      },
+      {
+        "pmid": "24476788",
+        "title": "A phase II trial of oxaliplatin, docetaxel, and bevacizumab as first-line therapy of advanced cancer of the ovary, peritoneum, and fallopian tube.",
+        "abstract": "To determine the safety and efficacy of the novel combination of docetaxel, oxaliplatin, and bevacizumab as first-line treatment of advanced cancer of the ovary, peritoneum or fallopian tube after initial debulking surgery.",
+        "journal": "Gynecologic oncology",
+        "year": "2014",
+        "authors": [
+          "Herzog Thomas J",
+          "Monk Bradley J",
+          "Rose Peter G",
+          "Braly Patricia",
+          "Hines Jeffrey F"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carcinoma, Ovarian Epithelial",
+          "Disease-Free Survival",
+          "Docetaxel",
+          "Fallopian Tube Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24476788/"
+      },
+      {
+        "pmid": "31161471",
+        "title": "Cancer stem cells contribute to angiogenesis and lymphangiogenesis in serous adenocarcinoma of the ovary.",
+        "abstract": "The origin of blood and lymphatic vessels in high-grade serous adenocarcinoma of ovary (HGSOC) is uncertain. We evaluated the potential of cancer stem cells (CSCs) in HGSOC to contribute to their formation. Using spheroids as an in vitro model for CSCs, we have evaluated their role in primary malignant cells (PMCs) in ascites from previously untreated patients with HGSOC and cell lines. Spheroids from PMCs grown under specific conditions showed significantly higher expression of endothelial, pericyte and lymphatic endothelial markers. These endothelial and lymphatic cells formed tube-like structures, showed uptake of Dil-ac-LDL and expressed endothelial nitric oxide synthase confirming their endothelial phenotype. Electron microscopy demonstrated classical Weibel-Palade bodies in differentiated cells. Genetically, CSCs and the differentiated cells had a similar identity. Lineage tracking using green fluorescent protein transfected cancer cells in nude mice confirmed that spheroids grow",
+        "journal": "Angiogenesis",
+        "year": "2019",
+        "authors": [
+          "Krishnapriya Syama",
+          "Sidhanth Chirukandath",
+          "Manasa Pacharla",
+          "Sneha Smarakan",
+          "Bindhya Sadhanandhan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Ascites",
+          "Bevacizumab",
+          "Biomarkers, Tumor",
+          "Blood Vessels",
+          "Cell Differentiation",
+          "Cell Line, Tumor",
+          "Endothelial Cells",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31161471/"
+      },
+      {
+        "pmid": "39710508",
+        "title": "Phase II randomized study of dostarlimab alone or with bevacizumab versus non-platinum chemotherapy in recurrent gynecological clear cell carcinoma (DOVE/APGOT-OV7/ENGOT-ov80).",
+        "abstract": "Recurrent gynecological clear cell carcinoma (rGCCC) has a low objective response rate (ORR) to chemotherapy. Previous preclinical and clinical data suggest a potential synergy between immune checkpoint inhibitors and bevacizumab in rGCCC. Dostarlimab, a humanized monoclonal antibody targeting programmed cell death protein 1 (PD-1), combined with the anti-angiogenic bevacizumab, presents a novel therapeutic approach. This study will investigate the efficacy of dostarlimab +/- bevacizumab in rGCCC.",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2025",
+        "authors": [
+          "Lee Jung-Yun",
+          "Tan David",
+          "Ray-Coquard Isabelle",
+          "Lee Jung Bok",
+          "Kim Byoung Gie"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Adenocarcinoma, Clear Cell",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Clinical Trials, Phase II as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39710508/"
+      },
+      {
+        "pmid": "17617520",
+        "title": "Novel approaches in advancing the treatment of epithelial ovarian cancer: the role of angiogenesis inhibition.",
+        "abstract": "Despite an aggressive approach of surgical cytoreduction and adjuvant combination chemotherapy, ovarian cancer mortality remains a significant problem. We are entering a new era of cancer therapeutics in which targeted therapies offer the potential for improvement in long-term disease control with fewer toxicities. The greatest success of targeted therapy to date in the setting of epithelial ovarian carcinoma has come from angiogenesis inhibition. This review will focus on the role of angiogenesis in normal ovarian function as well as in ovarian carcinoma development and disease progression. Current knowledge about the molecular pathways involved in angiogenesis and various approaches to angiogenesis inhibition in the treatment of ovarian cancer are discussed. Current data regarding the role of bevacizumab and other novel agents in the treatment of ovarian carcinoma are summarized.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2007",
+        "authors": [
+          "Martin Lainie",
+          "Schilder Russell"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Bevacizumab",
+          "Carcinoma",
+          "Female",
+          "Humans",
+          "Medical Oncology",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17617520/"
+      },
+      {
+        "pmid": "26789111",
+        "title": "VEGF pathway targeting agents, vessel normalization and tumor drug uptake: from bench to bedside.",
+        "abstract": "Vascular endothelial growth factor (VEGF) pathway targeting agents have been combined with other anticancer drugs, leading to improved efficacy in carcinoma of the cervix, stomach, lung, colon and rectum, ovary, and breast. Vessel normalization induced by VEGF pathway targeting agents influences tumor drug uptake. Following bevacizumab treatment, preclinical and clinical studies have shown a decrease in tumor delivery of radiolabeled antibodies and two chemotherapeutic drugs. The decrease in vessel pore size during vessel normalization might explain the decrease in tumor drug uptake. Moreover, the addition of bevacizumab to cetuximab, or panitumumab in colorectal cancer patients or to trastuzumab in breast cancer patients, did not improve efficacy. However, combining bevacizumab with chemotherapy did increase efficacy in some cancer types. Novel biomarkers to select patients who may benefit from combination therapies, such as the effect of an angiogenesis inhibitor on tumor perfusion, ",
+        "journal": "Oncotarget",
+        "year": "2016",
+        "authors": [
+          "Arjaans Marlous",
+          "Schröder Carolina P",
+          "Oosting Sjoukje F",
+          "Dafni Urania",
+          "Kleibeuker Josée E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Humans",
+          "Neoplasms",
+          "Neovascularization, Pathologic",
+          "Vascular Endothelial Growth Factor A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26789111/"
+      },
+      {
+        "pmid": "36759001",
+        "title": "Clinical and molecular signature of survival and resistance to olaparib plus pegylated liposomal doxorubicin in platinum-resistant ovarian cancer: a stratified analysis from the phase II clinical trial ROLANDO, GEICO-1601.",
+        "abstract": "To determine the potential prognostic value of clinical and molecular biomarkers in the survival of patients with platinum-resistant ovarian cancer treated with olaparib and pegylated liposomal doxorubicin.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2023",
+        "authors": [
+          "Perez-Fidalgo José Alejandro",
+          "Guerra Eva",
+          "García Yolanda",
+          "Iglesias María",
+          "Hernández-Sosa María"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Adult",
+          "Middle Aged",
+          "Aged",
+          "Ovarian Neoplasms",
+          "Bevacizumab",
+          "Prospective Studies",
+          "Neoplasm Recurrence, Local",
+          "Doxorubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36759001/"
+      },
+      {
+        "pmid": "36603168",
+        "title": "Current Issues in the Management of Patients With Newly Diagnosed Advanced-Stage High-Grade Serous Carcinoma of the Ovary.",
+        "abstract": "Ovarian cancer is the most common cause of mortality in patients with gynecologic malignancies. Advanced-stage high-grade serous carcinoma accounts for most ovarian cancer cases. Current issues in the management of patients with newly diagnosed advanced-stage high-grade serous ovarian cancer include decisions on primary versus interval cytoreduction, hyperthermic intraperitoneal chemotherapy, maintenance therapy, incorporation of bevacizumab, and germline and somatic genetic testing. Evidence and guidelines regarding these topics are addressed in this review.",
+        "journal": "JCO oncology practice",
+        "year": "2023",
+        "authors": [
+          "Penn Courtney A",
+          "Alvarez Ronald D"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Chemotherapy, Adjuvant",
+          "Ovarian Neoplasms",
+          "Carcinoma, Ovarian Epithelial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36603168/"
+      },
+      {
+        "pmid": "32723679",
+        "title": "Bevacizumab plus fosbretabulin in recurrent ovarian cancer: Overall survival and exploratory analyses of a randomized phase II NRG oncology/gynecologic oncology group study.",
+        "abstract": "To explore the relationship between tumor size and response to combined anti-vascular targeted therapy using the anti-angiogenesis inhibitor, bevacizumab, and the tubulin-binding vascular disrupting agent, fosbretabulin.",
+        "journal": "Gynecologic oncology",
+        "year": "2020",
+        "authors": [
+          "Tewari Krishnansu S",
+          "Sill Michael W",
+          "Coleman Robert L",
+          "Aghajanian Carol",
+          "Mannel Robert"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Middle Aged",
+          "Neoplasm Recurrence, Local",
+          "Ovarian Neoplasms",
+          "Ovary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32723679/"
+      },
+      {
+        "pmid": "38835797",
+        "title": "Exploring novel approaches in the systemic therapy of low-grade serous carcinoma of the ovary: a literature review.",
+        "abstract": "By presenting a comprehensive analysis of low-grade serous carcinomas (LGSCs), a subset of epithelial ovarian cancers, this review delves into their distinct molecular characteristics, clinicopathological features and systemic therapy options, emphasizing their differences from high-grade serous carcinomas (HGSCs). Notably, LGSCs exhibit prevalent RAS/RAF/MEK/MAPK pathway activation, KRAS and BRAF mutations, and infrequent p53 mutations. While chemotherapy is commonly employed, LGSCs display lower responsiveness compared to HGSCs. Hormone therapy, particularly endocrine maintenance therapy, is explored due to the higher estrogen receptor expression. Novel therapeutic approaches involving CDK4/6 inhibitors, MEK inhibitors, and antiangiogenic agents like bevacizumab are also investigated. Ongoing clinical trials are striving to enhance LGSC treatment strategies, offering valuable insights for future therapeutic advancements in this challenging ovarian cancer subtype.",
+        "journal": "Frontiers in medicine",
+        "year": "2024",
+        "authors": [
+          "Giannecchini Giovanna Vieira",
+          "da Silva Jessé Lopes",
+          "de Oliveira Bretas Gustavo",
+          "Dos Santos Alexssandra Lima Siqueira",
+          "Baltar Lais Fernandes Rodrigues"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38835797/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:19:52.300245",
+  "success": true,
+  "error_message": null
+}

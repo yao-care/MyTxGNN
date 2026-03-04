@@ -1,0 +1,611 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "unipolar depression",
+    "query_string": "Olanzapine AND unipolar depression"
+  },
+  "data": {
+    "query": "Olanzapine AND unipolar depression",
+    "results": [
+      {
+        "pmid": "34986373",
+        "title": "Augmentation strategies for treatment resistant major depression: A systematic review and network meta-analysis.",
+        "abstract": "To compare the efficacy and discontinuation of augmentation agents in adult patients with treatment-resistant depression (TRD). We conducted a systematic review and network meta-analyses (NMA) to combine direct and indirect comparisons of augmentation agents.",
+        "journal": "Journal of affective disorders",
+        "year": "2022",
+        "authors": [
+          "Nuñez Nicolas A",
+          "Joseph Boney",
+          "Pahwa Mehak",
+          "Kumar Rakesh",
+          "Resendez Manuel Gardea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Research Support, N.I.H., Extramural",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Depression",
+          "Major Depressive Disorder",
+          "Depressive Disorder, Treatment-Resistant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34986373/"
+      },
+      {
+        "pmid": "37595997",
+        "title": "Comparative efficacy and tolerability of pharmacological interventions for acute bipolar depression in adults: a systematic review and network meta-analysis.",
+        "abstract": "Bipolar depression constitutes a major public health problem due to its substantial burden of disease. Although pharmacological interventions are available, guidelines required updated evidence synthesis to improve their current recommendations. In order to inform evidence-based prescribing, we investigated the comparative efficacy and tolerability of pharmacological interventions for acute bipolar depression.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2023",
+        "authors": [
+          "Yildiz Ayşegül",
+          "Siafis Spyridon",
+          "Mavridis Dimitris",
+          "Vieta Eduard",
+          "Leucht Stefan"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Adult",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Bipolar Disorder",
+          "Depression",
+          "Fluoxetine",
+          "Lamotrigine",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37595997/"
+      },
+      {
+        "pmid": "38360024",
+        "title": "Pharmacological treatments for psychotic depression: a systematic review and network meta-analysis.",
+        "abstract": "There are no recommendations based on the efficacy of specific drugs for the treatment of psychotic depression. To address this evidence gap, we did a network meta-analysis to assess and compare the efficacy and safety of pharmacological treatments for psychotic depression.",
+        "journal": "The lancet. Psychiatry",
+        "year": "2024",
+        "authors": [
+          "Oliva Vincenzo",
+          "Possidente Chiara",
+          "De Prisco Michele",
+          "Fico Giovanna",
+          "Anmella Gerard"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Major Depressive Disorder",
+          "Antipsychotic Agents",
+          "Antidepressive Agents",
+          "Randomized Controlled Trials as Topic",
+          "Bipolar Disorder",
+          "Psychotic Disorders",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38360024/"
+      },
+      {
+        "pmid": "37149344",
+        "title": "Pharmacotherapy for Treatment-Resistant Depression: Antidepressants and Atypical Antipsychotics.",
+        "abstract": "Treatment-resistant depression (TRD) affects one in three patients with major depressive disorder and is associated with increased risk of all-cause mortality. Studies of real-world practices suggest that antidepressant monotherapy continues to be the most widely used treatment after inadequate response to a first-line treatment. However, rates of remission with antidepressants in TRD are suboptimal. Atypical antipsychotics are the most widely studied augmentation agent and aripiprazole, brexpiprazole, cariprazine, quetiapine extended-release, and olanzapine-fluoxetine combination are approved for depression. Benefits of using atypical antipsychotics for TRD has to be weighted against their potential adverse events, such as weight gain, akathisia, and tardive dyskinesia.",
+        "journal": "The Psychiatric clinics of North America",
+        "year": "2023",
+        "authors": [
+          "Vas Collin",
+          "Jain Ayush",
+          "Trivedi Mili",
+          "Jha Manish Kumar",
+          "Mathew Sanjay J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Major Depressive Disorder",
+          "Depression",
+          "Antidepressive Agents",
+          "Quetiapine Fumarate",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37149344/"
+      },
+      {
+        "pmid": "34599629",
+        "title": "Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) recommendations for the management of patients with bipolar disorder with mixed presentations.",
+        "abstract": "The 2018 Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) guidelines provided clinicians with pragmatic treatment recommendations for bipolar disorder (BD). While these guidelines included commentary on how mixed features may direct treatment selection, specific recommendations were not provided-a critical gap which the current update aims to address.",
+        "journal": "Bipolar disorders",
+        "year": "2021",
+        "authors": [
+          "Yatham Lakshmi N",
+          "Chakrabarty Trisha",
+          "Bond David J",
+          "Schaffer Ayal",
+          "Beaulieu Serge"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Anxiety",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Canada",
+          "Humans",
+          "Olanzapine",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34599629/"
+      },
+      {
+        "pmid": "35861202",
+        "title": "Systematic review and meta-analysis of augmentation and combination treatments for early-stage treatment-resistant depression.",
+        "abstract": "Major depressive disorder (MDD) is a highly burdensome health condition, for which there are numerous accepted pharmacological and psychological interventions. Adjunctive treatment (augmentation/combination) is recommended for the ~50% of MDD patients who do not adequately respond to first-line treatment. We aimed to evaluate the current evidence for concomitant approaches for people with early-stage treatment-resistant depression (TRD; defined below).",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2023",
+        "authors": [
+          "Scott Fraser",
+          "Hampsey Elliot",
+          "Gnanapragasam Sam",
+          "Carter Ben",
+          "Marwood Lindsey"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aripiprazole",
+          "Risperidone",
+          "Depression",
+          "Major Depressive Disorder",
+          "Ketamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35861202/"
+      },
+      {
+        "pmid": "38487836",
+        "title": "Efficacy and tolerability of FDA-approved atypical antipsychotics for the treatment of bipolar depression: a systematic review and network meta-analysis.",
+        "abstract": "We employed a Bayesian network meta-analysis for comparison of the efficacy and tolerability of US Food and Drug Administration (FDA)-approved atypical antipsychotics (AAPs) for the treatment of bipolar patients with depressive episodes. Sixteen randomized controlled trials with 7234 patients treated by one of the five AAPs (cariprazine, lumateperone, lurasidone, olanzapine, and quetiapine) were included. For the response rate (defined as an improvement of ≥50% from baseline on the Montgomery-Åsberg Depression Rating Scale [MADRS]), all AAPs were more efficacious than placebo. For the remission rate (defined as the endpoint of MADRS ≤12 or ≤ 10), cariprazine, lurasidone, olanzapine, and quetiapine had higher remission rates than placebo. In terms of tolerability, olanzapine was unexpectedly associated with lower odds of all-cause discontinuation in comparison with placebo, whereas quetiapine was associated with higher odds of discontinuation due to adverse events than placebo. Compared",
+        "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+        "year": "2024",
+        "authors": [
+          "Li Shaoli",
+          "Xu Chenyue",
+          "Hu Shaohua",
+          "Lai Jianbo"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "United States",
+          "United States Food and Drug Administration",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Quetiapine Fumarate",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38487836/"
+      },
+      {
+        "pmid": "36472471",
+        "title": "Psychopharmacological Treatment Algorithms of Manic/Mixed and Depressed Episodes in Pediatric Bipolar Disorder.",
+        "abstract": "Introduction: Pediatric bipolar disorder (PBD) is a severe psychiatric illness diagnosed before the age of 18, which is associated with extreme shifts in mood characterized by manic and depressive episodes. In 2005, AACAP published algorithms to guide pharmacological treatment of manic/mixed episodes associated with PBD. At that time, lithium was the only Food and Drug Administration (FDA)-approved treatment for pediatric bipolar manic/mixed episodes. The goal of this article is to review evidence that has emerged since the AACAP algorithm in 2005. Methods: Literature searches were conducted through PubMed and limited to studies published between 2005 and 2021, using keywords that focused on randomized controlled trials (RCTs) for available psychopharmacological medications. In addition, the authors conducted in-depth searches for articles providing evidence for agents included in the 2005 AACAP algorithm. Results: Since the publication of the AACAP algorithm in 2005, multiple RCTs hav",
+        "journal": "Journal of child and adolescent psychopharmacology",
+        "year": "2022",
+        "authors": [
+          "Hobbs Elizabeth",
+          "Reed Rachel",
+          "Lorberg Boris",
+          "Robb Adelaide S",
+          "Dorfman Julia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "Mania",
+          "Olanzapine",
+          "Algorithms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36472471/"
+      },
+      {
+        "pmid": "36855876",
+        "title": "Pharmacotherapies for Treatment-Resistant Depression: How Antipsychotics Fit in the Rapidly Evolving Therapeutic Landscape.",
+        "abstract": "One in three adults with major depressive disorder (MDD) do not experience clinically significant improvement after multiple sequential courses of antidepressants and have treatment-resistant depression (TRD). The presence of TRD contributes to the morbidity and excess mortality associated with MDD and has been linked to significantly increased health care expenses. In the absence of a consensus definition of TRD, this report takes a broad approach by considering inadequate response to one or more courses of antidepressants and focuses on atypical antipsychotics that are approved by the U.S. Food and Drug Administration for treatment of depression (aripiprazole, brexpiprazole, cariprazine, extended-release quetiapine, and olanzapine-fluoxetine combination). While multiple acute-phase studies have demonstrated the efficacy of these medications in improving depressive symptoms, clinically meaningful improvement (i.e., remission) remains limited, with significant concerns about side effec",
+        "journal": "The American journal of psychiatry",
+        "year": "2023",
+        "authors": [
+          "Jha Manish K",
+          "Mathew Sanjay J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "United States",
+          "Adult",
+          "Humans",
+          "Antipsychotic Agents",
+          "Major Depressive Disorder",
+          "Depression",
+          "Depressive Disorder, Treatment-Resistant",
+          "Aripiprazole",
+          "Drug-Related Side Effects and Adverse Reactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36855876/"
+      },
+      {
+        "pmid": "35545157",
+        "title": "Evidence-based treatment strategies for rapid cycling bipolar disorder, a systematic review.",
+        "abstract": "Rapid cycling is a phase of bipolar disorder with increased episode frequencies. It is a severe and disabling condition that often poses a major challenge to the clinician. The aim of this paper is to give an overview of the evidence-based treatment options for rapid cycling.",
+        "journal": "Journal of affective disorders",
+        "year": "2022",
+        "authors": [
+          "Roosen L",
+          "Sienaert P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lamotrigine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35545157/"
+      },
+      {
+        "pmid": "35993319",
+        "title": "Efficacy and acceptability of second-generation antipsychotics with antidepressants in unipolar depression augmentation: a systematic review and network meta-analysis.",
+        "abstract": "Pharmacological treatment of major depressive disorder is often inefficient, and multiple strategies are used for inadequate response to antidepressants. Second-generation antipsychotics are used as augmentation measures in clinical practice; evidence of their efficacy and acceptability is insufficient, and it remains confusing as to which drug should be selected first. In this systematic review and network meta-analysis, we included randomised controlled trials of second-generation antipsychotics used as adjunctive treatment in patients with suboptimal responses. Outcome measures were efficacy (response and remission) and acceptability (dropout due to any reason and adverse events). Thirty-three trials comprising 10 602 participants were included. Regarding efficacy, response rates indicated that all antipsychotics except for ziprasidone were more efficacious than the placebo, with the odds ratios (ORs) ranging from 1.34 for olanzapine and cariprazine [95% credible interval (CrI) 1.04",
+        "journal": "Psychological medicine",
+        "year": "2022",
+        "authors": [
+          "Yan Yushun",
+          "Yang Xiao",
+          "Wang Min",
+          "Chen Boran",
+          "Yin Li"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Major Depressive Disorder",
+          "Humans",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35993319/"
+      },
+      {
+        "pmid": "37467794",
+        "title": "Effectiveness of atypical antipsychotics for unipolar and bipolar depression in adolescents and young adults: A systematic review and meta-analysis.",
+        "abstract": "Antipsychotic medications are increasingly used for difficult-to-treat depression in young people. However, the evidence-base for this is unclear. Our aim was to assess the evidence for the efficacy of atypical antipsychotics in treating unipolar and bipolar depression in adolescents and young adults.",
+        "journal": "Journal of affective disorders",
+        "year": "2023",
+        "authors": [
+          "Garcia-Rodriguez Louise",
+          "Burton Daniel J",
+          "Leonards Christine A",
+          "Davey Christopher G"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Adolescent",
+          "Young Adult",
+          "Humans",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Fluoxetine",
+          "Olanzapine",
+          "Lurasidone Hydrochloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37467794/"
+      },
+      {
+        "pmid": "36138129",
+        "title": "The impact of pharmacological and non-pharmacological interventions on physical health outcomes in people with mood disorders across the lifespan: An umbrella review of the evidence from randomised controlled trials.",
+        "abstract": "People with mood disorders have increased risk of comorbid medical diseases versus the general population. It is paramount to identify interventions to improve physical health in this population.",
+        "journal": "Molecular psychiatry",
+        "year": "2023",
+        "authors": [
+          "Croatto Giovanni",
+          "Vancampfort Davy",
+          "Miola Alessandro",
+          "Olivola Miriam",
+          "Fiedorowicz Jess G"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aged",
+          "Adolescent",
+          "Fluoxetine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Aripiprazole",
+          "Longevity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36138129/"
+      },
+      {
+        "pmid": "25963405",
+        "title": "Antipsychotics as antidepressants.",
+        "abstract": "Three second-generation antipsychotic (SGA) agents have received FDA approval for adjunctive treatment, to antidepressant, of major depressive disorder: quetiapine, aripiprazole, and olanzapine. Additionally, quetiapine and lurasidone have been approved for the treatment of bipolar depression. There are data suggesting that quetiapine is effective for major depressive disorder as monotherapy. These agents are effective for depression only at subantipsychotic doses. Receptor profiles predict that all SGA will have anxiolytic effects as subantipsychotic doses but that all will be dysphorogenic at full antipsychotic doses (i.e., produce a depression-like clinical picture). The antidepressant effect appears to be unique to some agents, with direct evidence of insignificant antidepressant action for ziprasidone. Three general principles can guide the use of antipsychotics as antidepressants: (i) All SGAs may have anxiolytic effects; (ii) full antipsychotic doses are dysphorogenic, and there",
+        "journal": "Asia-Pacific psychiatry : official journal of the Pacific Rim College of Psychiatrists",
+        "year": "2016",
+        "authors": [
+          "Roberts Rona Jeannie",
+          "Lohano Kavita K",
+          "El-Mallakh Rif S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Major Depressive Disorder",
+          "Humans",
+          "Off-Label Use",
+          "United States",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25963405/"
+      },
+      {
+        "pmid": "15548230",
+        "title": "Dopamine, depression and antidepressants.",
+        "abstract": "Abstract The relationship between depression and dopamine deficiency in the mesolimbic pathway has been hypothesized for many years. The experimental studies with animal models of depression and the human studies implicate the role of the dopamine system in depression. Not only do dopaminergic receptor agonists, but also antagonists such as olanzapine exhibit antidepressant effects associated with standard antidepressants in patients with treatment-resistant depression. This paradoxical result suggests that further investigations are necessary to understand the role played by dopamine in depression.",
+        "journal": "Fundamental & clinical pharmacology",
+        "year": "2004",
+        "authors": [
+          "Dailly Eric",
+          "Chenu Franck",
+          "Renard Caroline E",
+          "Bourin Michel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antidepressive Agents",
+          "Brain",
+          "Depressive Disorder",
+          "Disease Models, Animal",
+          "Dopamine",
+          "Dopamine Agents",
+          "Humans",
+          "Receptors, Dopamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15548230/"
+      },
+      {
+        "pmid": "16432528",
+        "title": "Treatment-resistant bipolar disorder.",
+        "abstract": "Despite the remarkable increase in medications validated as effective in bipolar disorder, treatment is still plagued by inadequate response in acute manic or depressive episodes or in long-term preventive maintenance treatment. Established first-line treatments include lithium, valproate and second-generation antipsychotics (SGAs) in acute mania, and lithium and valproate as maintenance treatments. Recently validated treatments include extended release carbamazapine for acute mania and lamotrigine, olanzapine and aripiprazole as maintenance treatments. For treatment-resistant mania and as maintenance treatments, a number of newer anticonvulsants, and one older one, phenytoin, have shown some promise as effective. However, not all anticonvulsants are effective and each agent needs to be evaluated individually. Combining multiple agents is the most commonly used clinical strategy for treatment resistant bipolar patients despite a relative lack of data supporting its use, except for acut",
+        "journal": "Molecular psychiatry",
+        "year": "2006",
+        "authors": [
+          "Gitlin M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Drug Resistance",
+          "Drug Therapy, Combination",
+          "Electroconvulsive Therapy",
+          "Humans",
+          "Lithium Chloride",
+          "Psychotherapy",
+          "Reproducibility of Results"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16432528/"
+      },
+      {
+        "pmid": "19640209",
+        "title": "Fluoxetine and olanzapine combination therapy in treatment-resistant major depression: review of efficacy and safety data.",
+        "abstract": "There has been growing evidence supporting the use of atypical antipsychotic drugs as adjunctive treatments in patients with major depression who fail to respond adequately to antidepressants.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2009",
+        "authors": [
+          "Bobo William Victor",
+          "Shelton Richard C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents, Second-Generation",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Major Depressive Disorder",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fluoxetine",
+          "Humans",
+          "Male",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19640209/"
+      },
+      {
+        "pmid": "14609883",
+        "title": "Efficacy of olanzapine and olanzapine-fluoxetine combination in the treatment of bipolar I depression.",
+        "abstract": "Despite the longer duration of the depressive phase in bipolar disorder and the frequent clinical use of antidepressants combined with antipsychotics or mood stabilizers, relatively few controlled studies have examined treatment strategies for bipolar depression.",
+        "journal": "Archives of general psychiatry",
+        "year": "2003",
+        "authors": [
+          "Tohen Mauricio",
+          "Vieta Eduard",
+          "Calabrese Joseph",
+          "Ketter Terence A",
+          "Sachs Gary"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antidepressive Agents, Second-Generation",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Depression",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fluoxetine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14609883/"
+      },
+      {
+        "pmid": "27686028",
+        "title": "Lamotrigine compared to placebo and other agents with antidepressant activity in patients with unipolar and bipolar depression: a comprehensive meta-analysis of efficacy and safety outcomes in short-term trials.",
+        "abstract": "To meta-analytically summarize lamotrigine's effectiveness and safety in unipolar and bipolar depression.",
+        "journal": "CNS spectrums",
+        "year": "2016",
+        "authors": [
+          "Solmi Marco",
+          "Veronese Nicola",
+          "Zaninotto Leonardo",
+          "van der Loos Marc L M",
+          "Gao Keming"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antidepressive Agents",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Citalopram",
+          "Depression",
+          "Major Depressive Disorder",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27686028/"
+      },
+      {
+        "pmid": "33460070",
+        "title": "How to treat mania.",
+        "abstract": "In this paper, we aimed at reviewing evidence-based treatment options for bipolar mania and proposed tentative evidence-based clinical suggestions regarding the management of a manic episode, especially regarding the choice of the proper mood stabilizer and antipsychotic medication.",
+        "journal": "Acta psychiatrica Scandinavica",
+        "year": "2020",
+        "authors": [
+          "Pacchiarotti I",
+          "Anmella G",
+          "Colomer L",
+          "Vieta E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Clozapine",
+          "Humans",
+          "Mania",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33460070/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:07:19.411969",
+  "success": true,
+  "error_message": null
+}

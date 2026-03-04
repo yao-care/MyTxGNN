@@ -1,0 +1,123 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Magnesium Hydroxide",
+    "disease": "constipation disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04437147",
+      "title": "The Effect of Probiotics on Functional Constipation in Adults: Double-blind, Randomized, Placebo-controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-03-11",
+      "completion_date": "2021-01-28",
+      "country": "Brazil",
+      "enrollment": 150,
+      "brief_summary": "Introduction:\n\nFunctional constipation is a symptom-based gastrointestinal disorder without an organic origin (eg, bowel obstruction). It has a prevalence of 14% in adults.\n\nObjective:\n\nThe objective of trial is to evaluate the efficacy and safety of two different probiotic blends in adults subjects with functional constipation.\n\nMethods:\n\nA double-blind, randomized, placebo-controlled study will be conducted for up to two years to evaluate the efficacy of two different probiotic mixtures: (Mixt",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Clinical diagnosis of functional constipation according to Rome IV. Granting of written informed consent.\n\nExclusion Criteria:\n\n* Presence of gastrointestinal diseases\n* Ingestion of antibiotics or dietary supplements containing probiotics or prebiotics in the last 15 days\n* Pr",
+      "endpoints": [
+        "Changed in the number of Bowel movements. Changed for more than 3 per week was considered a clinical response.",
+        "Change in the Bristol stool form scale at 4 weeks after Probiotics. Recovery to types 3-4 was considered a clinical response."
+      ],
+      "sponsor": "University of Sorocaba",
+      "url": "https://clinicaltrials.gov/study/NCT04437147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06503978",
+      "title": "Dosing Study of Microbiota Transplant Therapy for Children With Autism Spectrum Disorder (ASD) Who Have Gastrointestinal Disorders",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-08-20",
+      "completion_date": "2026-08-17",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Autism-spectrum disorder with Gastrointestinal disorders (constipation, diarrhea, and/or abdominal pain). MTT involves a combination of 14 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using Miralax, followed by 5 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Child aged 4 to \\< 18 years. This is 1 year younger than our previous study of MTT for children with ASD (IND 19048, protocol 2), because there were minimal adverse effects in that study, and earlier intervention may be more beneficial.\n2. Diagnosis of autism per the Childhoo",
+      "endpoints": [
+        "Childhood Autism Rating Scale (CARS-2)",
+        "Daily Stool Record (DSR)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06503978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03738904",
+      "title": "Prospective Randomized Controlled Trial of an Enhanced Recovery Protocol for Anorectal Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-10-26",
+      "completion_date": "2022-08-18",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "The purpose of the study is to evaluate whether being randomized to an aggressive postoperative non-narcotic pain regimen that treats pain from multiple different pathways may decrease postoperative pain levels, decrease constipation, and decrease the dependency on opioid medications after anorectal surgery versus the standard of care for managing pain. This use of a more aggressive pain regimen is considered an enhanced recovery after surgery (ERAS) protocol because it is theorized to improve o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able to freely give written informed consent to participate in the study and have signed the Informed Consent Form;\n* Males or females, age 18 to 70 years old at the time of study screening;\n* American Society of Anesthesiologists (ASA) Class I-III (Appendix III) undergoing el",
+      "endpoints": [
+        "Total Narcotic Use Postoperatively in Oral Morphine Equivalents"
+      ],
+      "sponsor": "Cedars-Sinai Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03738904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06321796",
+      "title": "Microbiota Transfer Therapy for Children and Adults With Both Pitt Hopkins Syndrome and Gastrointestinal Disorders: MTP-101 P",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-27",
+      "completion_date": "2025-05",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The investigators propose to investigate Microbiota Transfer Therapy (MTT) for treating patients with Pitt-Hopkins Syndrome (PTHS) and gastrointestinal problems (constipation, bloating, abdominal pain). MTT involves a combination of 10 days of oral vancomycin (an antibiotic to kill pathogenic bacteria), followed by 1 day of bowel cleanse using magnesium citrate, followed by 4 days of high dose MTP-101P with an antacid, followed by 12 weeks of a lower maintenance dose of MTP-101P with an antacid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children ages 5 to \\<18 years and adults ages 18 to \\< 55 years with Pitt Hopkins Syndrome (verified by genetic testing)\n2. GI disorder as defined below that has lasted for at least 2 years.\n3. No changes in medications, supplements, diet, or therapies in the 2 months prior t",
+      "endpoints": [
+        "Daily Stool Record (DSR)",
+        "Safety Measures (Adverse Events)"
+      ],
+      "sponsor": "Gut-Brain-Axis Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06321796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05216328",
+      "title": "OMAMA-study - Prevention of Opioid-induced Constipation in Patients With Advanced Cancer",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-12-02",
+      "completion_date": "2025-12",
+      "country": "Netherlands",
+      "enrollment": 330,
+      "brief_summary": "More than 70% of patients with cancer in the palliative phase have pain that often requires treatment with opioids (morphine-like agents). Constipation occurs in 59% of patients treated with opioids. Opioid-induced constipation (OIC) has consequences that range from daily discomfort with social insecurity and disability to intestinal obstruction. It leads to limitations in self-management, a reduced quality of life and a risk of the need for more care. In the guideline \"Diagnosis and treatment o",
+      "eligibility_criteria": "Inclusion criteria:\n\nIn order to be eligible to participate in this study, a subject must meet all of the following criteria:\n\n* Patients with metastatic cancer (≥18 years);\n* Starting with slow release or transdermal opioids for pain;\n* Able to complete a Dutch questionnaire. Previous treatment wit",
+      "endpoints": [
+        "The percentage of patients with a score of <30 of the Bowel Function Index"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT05216328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00083382",
+      "title": "UARK 98-036, A Phase II Trial of Combination Bisphosphonate and Anti-Angiogenesis Therapy With Pamidronate and Thalidomide in Patients With Smoldering/Indolent Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1998-12",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 83,
+      "brief_summary": "The purpose of this research is to study how helpful the combination of thalidomide and Pamidronate or thalidomide and Zometa is in controlling the myeloma disease and to study any side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a diagnosis of Smoldering or Indolent myeloma\n* All patients must be informed of the investigational nature of this study and must sign a written informed consent in accordance with UAMS Human Research Advisory Committee and federal guidelines.\n\nExclusion Cr",
+      "endpoints": [
+        "Best Response"
+      ],
+      "sponsor": "University of Arkansas",
+      "url": "https://clinicaltrials.gov/study/NCT00083382"
+    }
+  ],
+  "timestamp": "2026-03-04T15:24:01.212342",
+  "success": true,
+  "error_message": null
+}

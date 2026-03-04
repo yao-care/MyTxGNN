@@ -1,0 +1,578 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Iron",
+    "disease": "folic acid deficiency anemia",
+    "query_string": "Iron AND folic acid deficiency anemia"
+  },
+  "data": {
+    "query": "Iron AND folic acid deficiency anemia",
+    "results": [
+      {
+        "pmid": "10818399",
+        "title": "Anemia in pregnancy.",
+        "abstract": "Anemia is one of the most frequent complications related to pregnancy. Normal physiologic changes in pregnancy affect the hemoglobin (Hb), and there is a relative or absolute reduction in Hb concentration. The most common true anemias during pregnancy are iron deficiency anemia (approximately 75%) and folate deficiency megaloblastic anemia, which are more common in women who have inadequate diets and who are not receiving prenatal iron and folate supplements. Severe anemia may have adverse effects on the mother and the fetus. Anemia with hemoglobin levels less than 6 gr/dl is associated with poor pregnancy outcome. Prematurity, spontaneous abortions, low birth weight, and fetal deaths are complications of severe maternal anemia. Nevertheless, a mild to moderate iron deficiency does not appear to cause a significant effect on fetal hemoglobin concentration. An Hb level of 11 gr/dl in the late first trimester and also of 10 gr/dl in the second and third trimesters are suggested as lower ",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "2000",
+        "authors": [
+          "Sifakis S",
+          "Pharmakides G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Megaloblastic",
+          "Female",
+          "Folic Acid Deficiency",
+          "Hemoglobins",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10818399/"
+      },
+      {
+        "pmid": "28034892",
+        "title": "How I treat anemia in pregnancy: iron, cobalamin, and folate.",
+        "abstract": "Anemia of pregnancy, an important risk factor for fetal and maternal morbidity, is considered a global health problem, affecting almost 50% of pregnant women. In this article, diagnosis and management of iron, cobalamin, and folate deficiencies, the most frequent causes of anemia in pregnancy, are discussed. Three clinical cases are considered. Iron deficiency is the most common cause. Laboratory tests defining iron deficiency, the recognition of developmental delays and cognitive abnormalities in iron-deficient neonates, and literature addressing the efficacy and safety of IV iron in pregnancy are reviewed. An algorithm is proposed to help clinicians diagnose and treat iron deficiency, recommending oral iron in the first trimester and IV iron later. Association of folate deficiency with neural tube defects and impact of fortification programs are discussed. With increased obesity and bariatric surgery rates, prevalence of cobalamin deficiency in pregnancy is rising. Low maternal cobal",
+        "journal": "Blood",
+        "year": "2017",
+        "authors": [
+          "Achebe Maureen M",
+          "Gafter-Gvili Anat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Erythrocyte Transfusion",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hematinics",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28034892/"
+      },
+      {
+        "pmid": "36263494",
+        "title": "Diagnosis, Treatment and Prevention of Nutritional Anemia in Children: Recommendations of the Joint Committee of Pediatric Hematology-Oncology Chapter and Pediatric and Adolescent Nutrition Society of the Indian Academy of Pediatrics.",
+        "abstract": "Anemia in children is a significant public health problem in our country. Comprehensive National Nutrition Survey 2016-18 provides evidence that more than 50% of childhood anemia is due to an underlying nutritional deficiency. The National Family Health Survey-5 has reported an increase in the prevalence of anemia in the under-five age group from 59% to 67.1% over the last 5 years. Clearly, the existing public health programs to decrease the prevalence of anemia have not shown the desired results. Hence, there is a need to develop nationally acceptable guidelines for the diagnosis, treatment and prevention of nutritional anemia.",
+        "journal": "Indian pediatrics",
+        "year": "2022",
+        "authors": [
+          "Chandra Jagdish",
+          "Dewan Pooja",
+          "Kumar Praveen",
+          "Mahajan Amita",
+          "Singh Preeti"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Adolescent",
+          "Humans",
+          "Child",
+          "Child, Preschool",
+          "Folic Acid Deficiency",
+          "Vitamin B 12 Deficiency",
+          "Anemia",
+          "Vitamin B 12",
+          "Anemia, Iron-Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36263494/"
+      },
+      {
+        "pmid": "14245188",
+        "title": "IRON AND FOLIC-ACID DEFICIENCY IN PREGNANCY.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1965",
+        "authors": [
+          "VARADI S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Blood Chemical Analysis",
+          "Bone Marrow Examination",
+          "Diagnosis",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14245188/"
+      },
+      {
+        "pmid": "1596590",
+        "title": "Nutritional anaemias.",
+        "abstract": "Nutritional anaemia is recognized as a major public health problem throughout the world, especially in developing countries. Infants, young children, menstruating women and, in particular, pregnant women are most frequently affected. Sufficient evidence suggests that iron deficiency is the most common cause of nutritional anaemia in the world. Folate deficiency is considered as the second most common cause. In this chapter we discuss the factors determining nutritional inadequacy in iron and folate requirements versus iron and folate intake, particularly in different age/sex categories; the amounts of iron and folate involved in daily exchange and the role of the diet and physiological and pathological variations in losses and requirements are reviewed. The consequences in terms of health of iron and folate deficiencies and methods for assessing iron and folate status of populations are also presented.",
+        "journal": "Bailliere's clinical haematology",
+        "year": "1992",
+        "authors": [
+          "Hercberg S",
+          "Galan P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Hypochromic",
+          "Anemia, Megaloblastic",
+          "Child",
+          "Child, Preschool",
+          "Diet",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1596590/"
+      },
+      {
+        "pmid": "27212091",
+        "title": "Evaluation of Anemia.",
+        "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "Kujovich Jody L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Cell Count",
+          "Diagnosis, Differential",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "FIGLU Test",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+      },
+      {
+        "pmid": "14238675",
+        "title": "IRON DEFICIENCY AND ITS RELATION TO FOLIC-ACID STATUS IN PREGNANCY: RESULTS OF A CLINICAL TRIAL.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1965",
+        "authors": [
+          "CHANARIN I",
+          "ROTHMAN D",
+          "BERRY V"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Biological Assay",
+          "Biomedical Research",
+          "Blood Chemical Analysis",
+          "Bone Marrow Examination",
+          "FIGLU Test",
+          "Female",
+          "Fluids and Secretions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14238675/"
+      },
+      {
+        "pmid": "11509110",
+        "title": "Micronutrients in pregnancy.",
+        "abstract": "Vitamins and minerals, referred to collectively as micronutrients, have important influences on the health of pregnant women and the growing fetus. Iron deficiency results in anemia which may increase the risk of death from hemorrhage during delivery, but its effects on fetal development and birth outcomes is still unclear. Folic acid deficiency can lead to hematological consequences, pregnancy complications and congenital malformations, but again the association with other birth outcomes is equivocal. Zinc deficiency has been associated in some, but not all studies with complications of pregnancy and delivery, as well as with growth retardation, congenital abnormalities and retarded neurobehavioral and immunological development in the fetus. Iodine deficiency during pregnancy results in cretinism and possible fetal wastage and preterm delivery. Deficiency of other minerals such as magnesium, selenium, copper, and calcium have also been associated with complications of pregnancy, child",
+        "journal": "The British journal of nutrition",
+        "year": "2001",
+        "authors": [
+          "Black R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Avitaminosis",
+          "Embryonic and Fetal Development",
+          "Female",
+          "Folic Acid Deficiency",
+          "Food-Drug Interactions",
+          "Humans",
+          "Infant, Low Birth Weight",
+          "Infant, Newborn",
+          "Iodine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11509110/"
+      },
+      {
+        "pmid": "27101536",
+        "title": "Anemia and Iron Deficiency in Children With Potential Celiac Disease.",
+        "abstract": "Active screening for celiac disease frequently detects seropositive children with normal villous morphology (potential celiac disease). It remains unclear whether these subjects should be treated. We here investigated the prevalence of anemia and iron deficiency in children with potential and mucosal atrophy celiac disease.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "2017",
+        "authors": [
+          "Repo Marleena",
+          "Lindfors Katri",
+          "Mäki Markku",
+          "Huhtala Heini",
+          "Laurila Kaija"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Atrophy",
+          "Celiac Disease",
+          "Child",
+          "Child, Preschool",
+          "Diet, Gluten-Free",
+          "Disease Progression",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27101536/"
+      },
+      {
+        "pmid": "22138002",
+        "title": "Anaemia in pregnancy.",
+        "abstract": "Anaemia in pregnancy, defined as a haemoglobin concentration (Hb) < 110 g/L, affects more than 56 million women globally, two thirds of them being from Asia. Multiple factors lead to anaemia in pregnancy, nutritional iron deficiency anaemia (IDA) being the commonest. Underlying inflammatory conditions, physiological haemodilution and several factors affecting Hb and iron status in pregnancy lead to difficulties in establishing a definitive diagnosis. IDA is associated with increased maternal and perinatal morbidity and mortality, and long-term adverse effects in the new born. Strategies to prevent anaemia in pregnancy and its adverse effects include treatment of underlying conditions, iron and folate supplementation given weekly for all menstruating women including adolescents and daily for women during pregnancy and the post partum period, and delayed clamping of the umbilical cord at delivery. Oral iron is preferable to intravenous therapy for treatment of IDA. B12 and folate deficie",
+        "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+        "year": "2012",
+        "authors": [
+          "Goonewardene Malik",
+          "Shehata Mishkat",
+          "Hamad Asma"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Pernicious",
+          "Female",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22138002/"
+      },
+      {
+        "pmid": "11430182",
+        "title": "Anemia.",
+        "abstract": "Anemia is an enormous problem worldwide that is worse in the developing countries but by no means lacking in developed countries. Women and children are disproportionately affected. Nutritional anemias, mainly caused by a lack of iron and folate, are largely correctable by dietary improvement, but this socioeconomic change may not be readily achieved. The inherited disorders, the hemoglobinopathies and thalassemias, in their heterozygous forms are beneficial to the affected populations. Prevention of the homozygous forms and the serious diseases that result can only be addressed by education. These conditions are seen in all types of medical practice ranging from neonatology to geriatrics and public health and are an ongoing concern to all physicians.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2001",
+        "authors": [
+          "Dugdale M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Sickle Cell",
+          "Female",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Menstruation",
+          "Thalassemia",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11430182/"
+      },
+      {
+        "pmid": "7709894",
+        "title": "Anemia in pregnancy.",
+        "abstract": "Anemia is the most common hematologic complication of pregnancy and is associated with increased rates of premature birth, low birth weight and perinatal mortality. Iron deficiency is the most common cause of anemia, and most pregnant women benefit from daily supplementation of 30 to 60 mg of elemental iron. Folic acid deficiency, the most common cause of megaloblastic anemia in pregnancy, is associated with open neural tube defects and other complications. It is recommended that daily supplementation with 4 mg of folic acid be started at least one month before conception and continued through the first trimester. Other less common causes of anemia include glucose-6-phosphate dehydrogenase deficiency, sickle cell trait and disease, and the thalassemias. The primary care provider should emphasize risk evaluation, dietary and preconceptual counseling, testing and appropriate treatment.",
+        "journal": "American family physician",
+        "year": "1995",
+        "authors": [
+          "Lops V R",
+          "Hunter L P",
+          "Dixon L R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Sickle Cell",
+          "Female",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic",
+          "Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7709894/"
+      },
+      {
+        "pmid": "25616321",
+        "title": "The prevalence of anemia, iron, vitamin B12, and folic acid deficiencies in community dwelling elderly in Ankara, Turkey.",
+        "abstract": "Anemia is a common problem among older people. Deficiency of essential erythropoiesis elements (iron, vitamin B12, and folic acid) is one of the major causes of anemia in older people. Studies evaluated prevalence of anemia in our country generally consisted of older people admitted to hospital. Studies conducted on community dwelling older people were much more less. The aim of this study is to evaluate prevalence of anemia and nutritional deficiencies in community dwelling elderly in our country. Totally 827 elderly individuals living in community participated in this study.",
+        "journal": "Archives of gerontology and geriatrics",
+        "year": "2015",
+        "authors": [
+          "Yildirim Tekin",
+          "Yalcin Ahmet",
+          "Atmis Volkan",
+          "Cengiz Ozlem Karaarslan",
+          "Aras Sevgi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Cross-Sectional Studies",
+          "Female",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25616321/"
+      },
+      {
+        "pmid": "18947031",
+        "title": "Weekly iron and folic acid supplementation with counseling reduces anemia in adolescent girls: a large-scale effectiveness study in Uttar Pradesh, India.",
+        "abstract": "Weekly iron-folic acid supplementation in small-scale research trials and as administered in institutions has been demonstrated to be effective in reducing anemia in adolescent girls.",
+        "journal": "Food and nutrition bulletin",
+        "year": "2008",
+        "authors": [
+          "Vir Sheila C",
+          "Singh Neelam",
+          "Nigam Arun K",
+          "Jain Ritu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia, Iron-Deficiency",
+          "Counseling",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Health Surveys",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18947031/"
+      },
+      {
+        "pmid": "11509095",
+        "title": "Prevalence of micronutrient deficiency particularly of iron, zinc and folic acid in pregnant women in South East Asia.",
+        "abstract": "Micronutrient deficiency, whether clinical or subclinical, may affect growth, cognition and reproductive performance. In pregnant women moderate to severe deficiencies of iron, zinc and folic acid have been shown to increase risk of low birth weight, pregnancy complications and birth defects. Any attempt to introduce a micronutrient supplementation programme during pregnancy must be based on adequate data on the prevalence of micronutrient deficiencies, their adverse effects and the potential for reversing these through supplementation. This paper reviews parameters for assessment of iron, zinc and folic acid deficiencies in pregnancy and the available data on prevalence of these in pregnant women in South Asia. Iron deficiency and anemia affect 50 % or more of pregnant women, the prevalence of folic acid deficiency may be up to 30-50 % and there is evidence to suggest that zinc deficiency is likely to be widespread but supportive data are scarce.",
+        "journal": "The British journal of nutrition",
+        "year": "2001",
+        "authors": [
+          "Seshadri S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Asia, Southeastern",
+          "Bone Marrow",
+          "Developing Countries",
+          "Erythrocytes",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11509095/"
+      },
+      {
+        "pmid": "10595751",
+        "title": "Nutritional anemias.",
+        "abstract": "Folate, vitamin B12, and iron are the subjects of active biochemical and molecular research so that further understanding of their metabolism in health and in a wide variety of Inherited and acquired diseases can be achieved. The roles of folate and vitamin B12 in cardiovascular and neurologic diseases and in neural tube defects (NTDs) will be further explored in the next decade. The effects of prophylactic therapy and of food fortification with the vitamins on these diseases remain to be established. Iron deficiency is a public health problem in all countries and prevention or treatment, particularly in children in developing countries, are major goals. The increased recent understanding of iron metabolism and absorption may clarify the etiology of diseases of iron metabolism and of dietary iron overload. Improved iron chelation therapy for transfusion-dependent patients with refractory anemias will continue to be actively researched over the next decades.",
+        "journal": "Seminars in hematology",
+        "year": "1999",
+        "authors": [
+          "Hoffbrand A V",
+          "Herbert V"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Folic Acid Deficiency",
+          "History, 19th Century",
+          "History, 20th Century",
+          "Humans",
+          "Iron",
+          "Nutrition Disorders",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10595751/"
+      },
+      {
+        "pmid": "9450358",
+        "title": "Prevalence of anemia, iron, folic acid and vitamin B12 deficiency in two Bari Indian communities from western Venezuela.",
+        "abstract": "The hematological status of 406 Bari indians from two communities was studied. One hundred and seventy nine individuals were from Campo Rosario a village located in a low arid plain south to the Perijá mountain range and 287 were from Saimadoyi, a fertile valley in the heart of the mountain. Anemia was found in 54% and 31% of the people from Campo Rosario and Saimadoyi respectively. Low serum iron was present in 28% of the population in both communities while low serum ferritin levels were encountered in 20% of the population from Campo Rosario and 5% of the people from Saimadoyi. A high prevalence of serum folate and vitamin B12 deficiency (91% and 64% respectively) was found in Campo Rosario, in contrast only 5% of the population from Saimadoyi had low folate and none were vitamin B12 deficient. While there was a positive significant correlation between hemoglobin and serum iron concentrations (r = 0.517, p < 0.001), no significative correlation was found between the other parameters",
+        "journal": "Investigacion clinica",
+        "year": "1997",
+        "authors": [
+          "Diez-Ewald M",
+          "Torres-Guerra E",
+          "Layrisse M",
+          "Leets I",
+          "Vizcaíno G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Antibodies, Bacterial",
+          "Child",
+          "Child, Preschool",
+          "Diet",
+          "Ethnicity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9450358/"
+      },
+      {
+        "pmid": "395648",
+        "title": "Nutritional anemias.",
+        "abstract": "The role of the metals, iron and copper, and the vitamins E, folic acid, and B12 in the genesis of nutritional anemias in infancy have been reviewed. All are preventable. The precise requirements for each of these trace elements and vitamins in the small premature infant remain to be defined. The nonhematologic consequences of these nutritional deficiencies require further study. Anemia may prove to be the least important manifestation of the deficiency states.",
+        "journal": "Seminars in perinatology",
+        "year": "1979",
+        "authors": [
+          "Oski F A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Hypochromic",
+          "Child",
+          "Child, Preschool",
+          "Copper",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/395648/"
+      },
+      {
+        "pmid": "26187724",
+        "title": "Hematinic deficiencies and anemia statuses in oral mucosal disease patients with folic acid deficiency.",
+        "abstract": "Folic acid deficiency (FAD) may result in macrocytic anemia. This study assessed the hematinic deficiencies and anemia statuses in oral mucosal disease patients with FAD (defined as folic acid ≤ 6 ng/mL).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2015",
+        "authors": [
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Wu Yang-Che",
+          "Cheng Shih-Jung",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26187724/"
+      },
+      {
+        "pmid": "11037074",
+        "title": "Anemia in the elderly.",
+        "abstract": "Anemia should not be accepted as an inevitable consequence of aging. A cause is found in approximately 80 percent of elderly patients. The most common causes of anemia in the elderly are chronic disease and iron deficiency. Vitamin B12 deficiency, folate deficiency, gastrointestinal bleeding and myelodysplastic syndrome are among other causes of anemia in the elderly. Serum ferritin is the most useful test to differentiate iron deficiency anemia from anemia of chronic disease. Not all cases of vitamin B12 deficiency can be identified by low serum levels. The serum methylmalonic acid level may be useful for diagnosis of vitamin B12 deficiency. Vitamin B12 deficiency is effectively treated with oral vitamin B12 supplementation. Folate deficiency is treated with 1 mg of folic acid daily.",
+        "journal": "American family physician",
+        "year": "2000",
+        "authors": [
+          "Smith D L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Diagnosis, Differential",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11037074/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:20:08.482456",
+  "success": true,
+  "error_message": null
+}

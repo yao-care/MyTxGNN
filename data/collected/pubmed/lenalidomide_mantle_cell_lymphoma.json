@@ -1,0 +1,523 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lenalidomide",
+    "disease": "mantle cell lymphoma",
+    "query_string": "Lenalidomide AND mantle cell lymphoma"
+  },
+  "data": {
+    "query": "Lenalidomide AND mantle cell lymphoma",
+    "results": [
+      {
+        "pmid": "30733891",
+        "title": "Mantle cell lymphoma and its management: where are we now?",
+        "abstract": "Mantle cell lymphoma is a relatively new recognized hematological malignant disease, comprising of 2.5-6% non-Hodgkin's lymphomas. The complexity of its clinical presentations (nodular pattern, diffuse pattern, and blastoid variant), variety in disease progression, and treatment response, make this disease a research focus to both experimental oncology and clinical oncology. Overexpression of cyclin D1 and chromosome t(11,14) translocation are the known molecular biomarkers of this disease. Mantle cell international prognostic index (MIPI), ki-67 proliferation index, and TP53 mutation are emerging as the prognostic biomarkers. Epigenetic profile variance and SOX11 gene expression profile correlate with treatment response. Over the years, the treatment strategy has been gradually evolving from combination chemotherapy to combination of targeted therapy, epigenetic modulation therapy, and immunotherapy. In a surprisingly short period of time, FDA specifically approved 4 drugs for treatin",
+        "journal": "Experimental hematology & oncology",
+        "year": "2019",
+        "authors": [
+          "Ladha Abdullah",
+          "Zhao Jianzhi",
+          "Epner Elliot M",
+          "Pu Jeffrey J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30733891/"
+      },
+      {
+        "pmid": "26755518",
+        "title": "Mantle Cell Lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is an uncommon subtype of non-Hodgkin lymphoma previously considered to have a poor prognosis. Large gains were made in the first decade of the new century when clinical trials established the importance of high-dose therapy and autologous stem-cell rescue and high-dose cytarabine in younger patients and the benefits of maintenance rituximab and bendamustine in older patients. In particular, greater depth of understanding of the molecular pathophysiology of MCL has resulted in an explosion of specifically targeted new efficacious agents. In particular, agents recently approved by the Food and Drug Administration include the proteasome inhibitor bortezomib, immunomodulator lenalidomide, and Bruton's tyrosine kinase inhibitor ibrutinib. We review recent advances in the understanding of MCL biology and outline our recommended approach to therapy, including choice of chemoimmunotherapy, the role of stem-cell transplantation, and mechanism-based targeted therapies",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2016",
+        "authors": [
+          "Cheah Chan Yoon",
+          "Seymour John F",
+          "Wang Michael L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Bortezomib",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation, Neoplastic",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26755518/"
+      },
+      {
+        "pmid": "30608891",
+        "title": "Lenalidomide for the treatment of mantle cell lymphoma.",
+        "abstract": "Although a variety of therapeutic schemes for Mantle Cell Lymphoma (MCL) have been attempted, the clinical outcome of patients continues to be unsatisfactory especially among patients with a very high-risk profile and in the relapsed/refractory setting. For this reason, recent clinical trials have explored novel approaches, either by the use of biological agents in chemotherapy-free schedules or by integrating them with chemoimmunotherapy regimens. Areas covered: The efficacy of lenalidomide monotherapy and combination therapy established in clinical studies mainly involving relapsed/refractory MCL is reviewed. The mechanism of action of lenalidomide is also discussed. Furthermore, the current position of lenalidomide in the MCL treatment algorithm is debated. Expert opinion: Lenalidomide demonstrated high efficacy and tolerability in several clinical trials as well as in retrospective real-world reports, even in patients who relapsed or were resistant to bortezomib and ibrutinib. In 2",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2019",
+        "authors": [
+          "Morabito Fortunato",
+          "Skafi Mamdouh",
+          "Recchia Anna Grazia",
+          "Kashkeesh Aya",
+          "Hindiyeh Musa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Mantle-Cell",
+          "Piperidines",
+          "Pyrazoles",
+          "Pyrimidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30608891/"
+      },
+      {
+        "pmid": "26297281",
+        "title": "Practical Management of Lenalidomide-Related Rash.",
+        "abstract": "Lenalidomide (LEN) is an immunomodulatory drug with US Food and Drug Administration approval for use in myelodysplastic syndromes (MDS), multiple myeloma (MM), and mantle cell lymphoma (MCL). The toxicity profile for LEN is similar across indications, with the most common adverse events reported in registration trials being hematologic in nature, and Grade ≥ 3 hematologic toxicities the most common reasons for treatment interruption or permanent LEN discontinuation. However, an analysis of the Celgene Global Drug Safety database showed that nonserious rash was the leading cause of permanent early discontinuation of LEN in patients with MDS treated in the postmarketing setting (similar data not available for patients with MM or MCL). In registration trials, rash was reported in up to a third of patients, but Grade ≥ 3 rash was uncommon and rash rarely led to LEN treatment interruption or permanent discontinuation. This suggests differences in management of LEN-related rash in clinical t",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2015",
+        "authors": [
+          "Tinsley Sara M",
+          "Kurtin Sandra E",
+          "Ridgeway Jean A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Exanthema",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Mantle-Cell",
+          "Multiple Myeloma",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26297281/"
+      },
+      {
+        "pmid": "24883181",
+        "title": "Lenalidomide in relapsed or refractory mantle cell lymphoma: overview and perspective.",
+        "abstract": "Lenalidomide, a novel immunomodulatory agent, was approved by the US Food and Drug Administration for the treatment of myelodysplastic syndrome and relapsed multiple myeloma. Data from preclinical studies paved the way for clinical trials of lenalidomide in mantle cell lymphoma (MCL). Initial phase I and II clinical trials of lenalidomide alone and as part of combination regimens in patients with relapsed/refractory MCL have shown promising results. Its immunomodulatory, T cell costimulatory, anti-inflammatory and anti-angiogenic actions working together in the tumor cell microenvironment seem to be responsible for its enhanced antitumor efficacy. Lenalidomide's nature of action and safety profile favor it over other agents studied in relapsed/refractory MCL. This review summarizes the data from preclinical and clinical studies of lenalidomide in relapsed/refractory MCL and compares the results with those of other novel agents being used for relapsed/refractory MCL.",
+        "journal": "Therapeutic advances in hematology",
+        "year": "2014",
+        "authors": [
+          "Desai Madhav",
+          "Newberry Kate",
+          "Ou Zhishuo",
+          "Wang Michael",
+          "Zhang Liang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24883181/"
+      },
+      {
+        "pmid": "33799484",
+        "title": "Relapsed Mantle Cell Lymphoma: Current Management, Recent Progress, and Future Directions.",
+        "abstract": "The increasing number of approved therapies for relapsed mantle cell lymphoma (MCL) provides patients effective treatment options, with increasing complexity in prioritization and sequencing of these therapies. Chemo-immunotherapy remains widely used as frontline MCL treatment with multiple targeted therapies available for relapsed disease. The Bruton's tyrosine kinase inhibitors (BTKi) ibrutinib, acalabrutinib, and zanubrutinib achieve objective responses in the majority of patients as single agent therapy for relapsed MCL, but differ with regard to toxicity profile and dosing schedule. Lenalidomide and bortezomib are likewise approved for relapsed MCL and are active as monotherapy or in combination with other agents. Venetoclax has been used off-label for the treatment of relapsed and refractory MCL, however data are lacking regarding the efficacy of this approach particularly following BTKi treatment. Anti-CD19 chimeric antigen receptor T-cell (CAR-T) therapies have emerged as highl",
+        "journal": "Journal of clinical medicine",
+        "year": "2021",
+        "authors": [
+          "Bond David A",
+          "Martin Peter",
+          "Maddocks Kami J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33799484/"
+      },
+      {
+        "pmid": "35639332",
+        "title": "Mantle Cell Lymphoma: the Role of Risk-Adapted Therapy and Treatment of Relapsed Disease.",
+        "abstract": "In this review, the current treatment strategies are recapped, evolving agents are discussed, and we provide guidance in treating R/R MCL.",
+        "journal": "Current oncology reports",
+        "year": "2022",
+        "authors": [
+          "Tarockoff Meri",
+          "Gonzalez Teresita",
+          "Ivanov Stanislav",
+          "Sandoval-Sus Jose"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Bispecific",
+          "Antineoplastic Agents",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Immunoconjugates",
+          "Lymphoma, Mantle-Cell",
+          "Neoplasm Recurrence, Local",
+          "Receptors, Chimeric Antigen",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35639332/"
+      },
+      {
+        "pmid": "35237397",
+        "title": "Mantle cell lymphoma management trends and novel agents: where are we going?",
+        "abstract": "The heterogeneity in disease pathology, the unpredictability in disease prognosis, and the variability in response to therapy make mantle cell lymphoma (MCL) a focus of novel therapeutic development. MCL is characterized by dysregulated expression of cyclin D1 through a chromosome t(11;14) translocation. MCL international prognostic index (MIPI), ki-67 proliferation index, and TP53 mutation status are currently utilized for prognostication. With advances in pharmacokinetic analysis and drug discovery, treatment strategy has evolved from chemotherapy to combination of targeted, epigenetic, and immune therapies. In this review, we discuss investigational and newly approved treatment approaches. In a short time, the US Food and Drug Administration (FDA) has approved five agents for the treatment of MCL: lenalidomide, an immunomodulatory agent; bortezomib, a proteasome inhibitor; and ibrutinib, acalabrutinib, and zanubrutinib, all Bruton kinase inhibitors. Epigenetic agents (e.g. cladribin",
+        "journal": "Therapeutic advances in hematology",
+        "year": "2022",
+        "authors": [
+          "Pu Jeffrey J",
+          "Savani Malvi",
+          "Huang Nick",
+          "Epner Elliot M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35237397/"
+      },
+      {
+        "pmid": "33621109",
+        "title": "ROBUST: A Phase III Study of Lenalidomide Plus R-CHOP Versus Placebo Plus R-CHOP in Previously Untreated Patients With ABC-Type Diffuse Large B-Cell Lymphoma.",
+        "abstract": "Patients with the activated B-cell-like (ABC) subtype of diffuse large B-cell lymphoma (DLBCL) historically showed inferior survival with standard rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP). Phase II studies demonstrated that adding the immunomodulatory agent lenalidomide to R-CHOP improved outcomes in ABC-type DLBCL. The goal of the global, phase III ROBUST study was to compare lenalidomide plus R-CHOP (R2-CHOP) with placebo/R-CHOP in previously untreated, ABC-type DLBCL.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2021",
+        "authors": [
+          "Nowakowski Grzegorz S",
+          "Chiappella Annalisa",
+          "Gascoyne Randy D",
+          "Scott David W",
+          "Zhang Qingyuan"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33621109/"
+      },
+      {
+        "pmid": "36257914",
+        "title": "Real-world experience among patients with relapsed/refractory mantle cell lymphoma after Bruton tyrosine kinase inhibitor failure in Europe: The SCHOLAR-2 retrospective chart review study.",
+        "abstract": "Mantle cell lymphoma (MCL) after relapse is associated with poor prognosis. No standard of care exists and available evidence for treatments is limited, particularly in patients who fail Bruton tyrosine kinase inhibitor (BTKi) therapy. This multicentre retrospective chart review study, SCHOLAR-2, addresses this knowledge gap and reports on data collected from 240 patients with relapsed/refractory MCL in Europe who were treated with BTKi-based therapy between July 2012 and July 2018, and had experienced disease progression while on BTKi therapy or discontinued BTKi therapy due to intolerance. The median overall survival (OS) from initiation of first BTKi therapy was 14.6 months (95% confidence interval [CI] 11.6-20.0) in the overall cohort, 5.5 months (95% CI 3.9-8.2) in 91 patients without post-BTKi therapy, and 23.8 months (95% CI 18.9-30.1) in 149 patients who received post-BTKi therapy (excluding chimeric antigen receptor T-cell treatment). In the latter group, patients received a m",
+        "journal": "British journal of haematology",
+        "year": "2023",
+        "authors": [
+          "Hess Georg",
+          "Dreyling Martin",
+          "Oberic Lucie",
+          "Gine Eva",
+          "Zinzani Pier Luigi"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Lymphoma, Mantle-Cell",
+          "Tyrosine Kinase Inhibitors",
+          "Retrospective Studies",
+          "Neoplasm Recurrence, Local",
+          "Europe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36257914/"
+      },
+      {
+        "pmid": "24857076",
+        "title": "Mantle cell lymphoma: biology, clinical presentation, and therapeutic approaches.",
+        "abstract": "Mantle cell lymphoma is molecularly characterized by the chromosomal translocation t(11;14) (q13;q32) that results in a constitutional overexpression of the cell cycle regulator protein cyclin D1. Generally, the disease is characterized by rapid relapses and poor long-term outcome. However, a subset of patients with indolent disease has been identified. Randomized trials have demonstrated the superiority of dose intensified, cytarabine-containing induction with or without autologous stem cell transplantation in younger patients. In elderly patients, a rituximab-based maintenance has significantly prolonged progression-free and overall survival after treatment with rituximab, cyclophosphamide, doxorubicin hydrochloride, vincristine, and prednisone (R-CHOP). Unfortunately, the vast majority of patients will eventually relapse. Numerous molecular targeting strategies (bortezomib, lenalidomide, temsirolimus, and especially inhibitors of the B-cell receptor pathway) have achieved high respo",
+        "journal": "American Society of Clinical Oncology educational book. American Society of Clinical Oncology. Annual Meeting",
+        "year": "2014",
+        "authors": [
+          "Dreyling Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review",
+          "Video-Audio Media"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Chemotherapy, Adjuvant",
+          "Chromosomes, Human, Pair 11",
+          "Chromosomes, Human, Pair 14",
+          "Disease Progression",
+          "Disease-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24857076/"
+      },
+      {
+        "pmid": "38906740",
+        "title": "Dismantling relapsed/refractory mantle cell lymphoma.",
+        "abstract": "Despite recent therapeutic advancements in the general field of non-Hodgkin lymphoma, effective treatment of relapsed or refractory (R/R) mantle cell lymphoma (MCL) remains a challenge. The development of Bruton tyrosine kinase (BTK) inhibitors has revolutionized the field and these agents are now the mainstay of R/R MCL management. However, BTK inhibitors are not curative, and as they are increasingly being incorporated into frontline regimens, the shifting treatment landscape for R/R disease presents new challenges. Here we review data for commonly employed treatment strategies including BTK inhibitors, the BCL2-inhibitor venetoclax, lenalidomide-based regimens, and chimeric antigen receptor T-cell therapy. We additionally review data for promising novel agents including antibody-drug conjugates and bispecific antibodies before highlighting some emerging targeted agents that continue to bring promise for improved outcomes in R/R MCL.",
+        "journal": "Blood reviews",
+        "year": "2024",
+        "authors": [
+          "Ryan Christine E",
+          "Kumar Anita"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Agammaglobulinaemia Tyrosine Kinase",
+          "Protein Kinase Inhibitors",
+          "Drug Resistance, Neoplasm",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Disease Management",
+          "Antineoplastic Agents",
+          "Molecular Targeted Therapy",
+          "Immunotherapy, Adoptive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38906740/"
+      },
+      {
+        "pmid": "30385481",
+        "title": "Blastoid and pleomorphic mantle cell lymphoma: still a diagnostic and therapeutic challenge!",
+        "abstract": "Blastoid mantle cell lymphoma is characterized by highly aggressive features and a dismal clinical course. These blastoid and pleomorphic variants are defined by cytomorphological features, but the criteria are somewhat subjective. The diagnosis may be supported by a high cell proliferation based on the Ki-67 labeling index. Recent analyses have shown that the Ki-67 index overrules the prognostic information derived from the cytology subtypes. Nevertheless, genetic analysis suggests that blastoid and pleomorphic variants are distinct from classical mantle cell lymphoma. In clinical cohorts, the frequency of these subsets varies widely but probably represents ∼10% of all cases. Chemotherapy regimens commonly used in mantle cell lymphoma, such as bendamustine, rarely achieve prolonged remissions when given at the dosage developed for classical variants of the disease. Thus, high-dose cytarabine-containing regimens with high-dose consolidation may be generally recommended based on the mor",
+        "journal": "Blood",
+        "year": "2018",
+        "authors": [
+          "Dreyling Martin",
+          "Klapper Wolfram",
+          "Rule Simon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Cell Proliferation",
+          "Female",
+          "Humans",
+          "Ki-67 Antigen",
+          "Lymphoma, Mantle-Cell",
+          "Middle Aged",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30385481/"
+      },
+      {
+        "pmid": "27358886",
+        "title": "Current approaches and advance in mantle cell lymphoma treatment.",
+        "abstract": "Mantle cell lymphoma (MCL) is a set of heterogeneous non-Hodgkin lymphoma characterized by involvement of lymph nodes, spleen, bone marrow and blood. Under conventional treatment, survival time is 4 to 5 years with short remission period and there is still no standard treatment for MCL. In general, a close observation period called \"watchful waiting\" is used in elderly patients with low-risk slow clinical progress. And intensive chemotherapy including high-dose of cytarabine ± autologous hematopoietic stem cell transplantation (auto-HSCT) is recommended for younger and fit patients. Allogenic stem cell transplantation (allo-SCT) and drugs targeting the cell metabolic pathway, such as bortezomib (NF-κB inhibitor) and lenalidomide (anti-angiogenesis drug), are considerable treatments for relapsed/refractory patients. Clinical trials and less intensive chemotherapy such as R-CHOP (rituximab with cyclophosphamide, hydroxydaunomycin, oncovin and prednisone) and R-bendamustine should be cons",
+        "journal": "Stem cell investigation",
+        "year": "2015",
+        "authors": [
+          "Liu Yao",
+          "Zhang Xi",
+          "Zhong Jiang-Fan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27358886/"
+      },
+      {
+        "pmid": "25952533",
+        "title": "Lenalidomide for mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma accounts for 6% of all non-Hodgkin lymphomas. It is a biologically and clinically heterogeneous disease and treatment may be difficult, since most patients present at an older age, being unable to undergo intensive chemotherapy. Lenalidomide is an approved medication for relapsed mantle cell lymphoma in patients who received at least two lines of therapy, including bortezomib. New insights into the mechanisms of action of lenalidomide provided ground for novel combinations that may be more tolerable, while still efficient, for this patient population. In this review, we evaluate the current paradigm for lenalidomide in mantle cell lymphoma.",
+        "journal": "Expert review of hematology",
+        "year": "2015",
+        "authors": [
+          "Skarbnik Alan P",
+          "Goy Andre H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Humans",
+          "Immunologic Factors",
+          "Lenalidomide",
+          "Lymphoma, Mantle-Cell",
+          "Neoplasm Recurrence, Local",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25952533/"
+      },
+      {
+        "pmid": "38578513",
+        "title": "Efficacy and safety of lenalidomide in the treatment of B-cell non-Hodgkin lymphoma.",
+        "abstract": "The combination of rituximab and chemotherapy is a first-line treatment for patients with B-cell non-Hodgkin lymphoma. Lenalidomide is an immunomodulatory drug that has shown promising properties and activity in a variety of hematological malignancies. This study evaluated the efficacy and safety of lenalidomide-based regimens in the treatment of B-cell non-Hodgkin lymphoma.",
+        "journal": "Discover oncology",
+        "year": "2024",
+        "authors": [
+          "Liu Yang",
+          "Li Yanju",
+          "Zhang Chike",
+          "Yang Xu",
+          "Yang Bo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38578513/"
+      },
+      {
+        "pmid": "35561314",
+        "title": "Evaluating real-world treatment patterns and outcomes of mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is considered incurable with the available chemoimmunotherapy approaches, and therefore, newer effective targeted therapies such as Bruton tyrosine kinase (BTK) inhibitors are increasingly used in MCL as chronic suppressive therapy, especially in the elderly. We aimed to describe the treatment patterns in MCL at different lines of therapy with a focus on BTK inhibitor use and compare outcomes with known prognostic factors using a nationwide Flatiron Health electronic health record-derived de-identified database. We analyzed patient-level data from the period of 2011 to 2021. In this study of 4336 patients with MCL, we found that bendamustine plus rituximab chemotherapy was the most commonly used frontline regimen (42%). Maintenance rituximab or consolidative autologous stem cell transplant (ASCT) was administered to 31% of all patients. Also, for patients who received ASCT as consolidation therapy, only 34% subsequently received rituximab maintenance. BTK inh",
+        "journal": "Blood advances",
+        "year": "2022",
+        "authors": [
+          "Narkhede Mayur",
+          "Goyal Gaurav",
+          "Shea Lauren",
+          "Mehta Amit",
+          "Giri Smith"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Bortezomib",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Neoplasm Recurrence, Local",
+          "Rituximab",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35561314/"
+      },
+      {
+        "pmid": "24974852",
+        "title": "Current regimens and novel agents for mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma is a heterogeneous subtype of non-Hodgkin lymphoma. Conventional treatment with immunochemotherapy followed by autologous stem cell transplantation or intensive immunochemotherapy alone has improved outcomes, but the disease remains incurable. Recent advances in basic and translational research have significantly enhanced our understanding of disease pathogenesis and have sparked the development of novel therapies. Novel agents include the proteasome inhibitor bortezomib, the immunomodulatory agent lenalidomide, the phosphatidylinositol-4,5-bisphosphate 3-kinase pathway inhibitor idelalisib and the Bruton tyrosine kinase inhibitor ibrutinib. Preliminary results from clinical trials, especially from studies of ibrutinib, have proven these agents to be effective. In ongoing studies, these agents are being integrated into conventional immunochemotherapy regimens to hopefully improve patient outcomes.",
+        "journal": "British journal of haematology",
+        "year": "2014",
+        "authors": [
+          "Chen Yiming",
+          "Wang Michael",
+          "Romaguera Jorge"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Maintenance Chemotherapy",
+          "Prognosis",
+          "Radioimmunotherapy",
+          "Recurrence",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24974852/"
+      },
+      {
+        "pmid": "40104044",
+        "title": "Ibrutinib, lenalidomide, and rituximab in relapsed mantle cell lymphoma: Long-term follow-up of the Nordic Lymphoma Group MCL6 Philemon trial.",
+        "abstract": "Relapsed or refractory mantle cell lymphoma (R/R MCL) remains difficult to treat, with outcomes dependent on the treatment regimen and remission duration after first-line therapy. Several non-chemotherapeutic regimens are under evaluation in R/R, but few studies report long-term outcomes. In this study, we present the long-term outcomes of the 50 patients treated with ibrutinib, lenalidomide, and rituximab (IR2) in the Nordic Lymphoma Group MCL6 Philemon phase 2 trial. Survival outcomes were compared with a matched cohort from the Swedish MCLcomplete study. After 5 years, 14 patients (28%) remained relapse-free, including one with a TP53 mutation. The median progression-free survival (PFS) was 17.4 months, with the longest PFS of 8.1 years. Thirty-two patients had died, primarily from MCL (72%). Poorer survival was associated with intermediate or high-risk Mantle Cell Lymphoma International Prognostic Index and impaired health-related quality of life (HRQoL). While TP53 mutations (n = ",
+        "journal": "HemaSphere",
+        "year": "2025",
+        "authors": [
+          "Forsgren Elin",
+          "Jørgensen Rasmus R K",
+          "Bentzen Hans",
+          "Riise Jon",
+          "Haaber Jacob"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40104044/"
+      },
+      {
+        "pmid": "32552760",
+        "title": "Emerging therapies in mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is a rare, B cell non-Hodgkin's lymphoma with highly heterogeneous clinical presentation and aggressiveness. First-line treatment consists of intensive chemotherapy with autologous stem cell transplant for the fit, transplant eligible patients, or less intensive chemotherapy for the less fit (and transplant-ineligible) patients. Patients eventually relapse with a progressive clinical course. Numerous therapeutic approaches have emerged over the last few years which have significantly changed the treatment landscape of MCL. These therapies consist of targeted approaches such as BTK and BCL2 inhibitors that provide durable therapeutic responses. However, the optimum combination and sequencing of these therapies is unclear and is currently investigated in several ongoing studies. Furthermore, cellular therapies such as chimeric antigen receptor (CAR) T cells and bispecific T cell engager (BiTe) antibodies have shown impressive results and will likely shape treat",
+        "journal": "Journal of hematology & oncology",
+        "year": "2020",
+        "authors": [
+          "Hanel Walter",
+          "Epperla Narendranath"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Agammaglobulinaemia Tyrosine Kinase",
+          "Antibodies, Bispecific",
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Clinical Trials as Topic",
+          "Combined Modality Therapy",
+          "Cyclin-Dependent Kinase 4",
+          "Cyclin-Dependent Kinase 6",
+          "Drugs, Investigational",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32552760/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:05:38.748739",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,517 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "common cold",
+    "query_string": "Caffeine AND common cold"
+  },
+  "data": {
+    "query": "Caffeine AND common cold",
+    "results": [
+      {
+        "pmid": "40077786",
+        "title": "A Review of Carbohydrate Supplementation Approaches and Strategies for Optimizing Performance in Elite Long-Distance Endurance.",
+        "abstract": "Carbohydrate supplementation is a common practice among endurance athletes participating in long-distance competitions. However, glycogen storage regulation, in-competition blood glucose levels, and their relationship with athletic performance are influenced by multiple factors. This review summarizes the recent research progress on carbohydrate supplementation, addressing its applications in the pre-, during-, and post-competition phases. It explores variables that influence the effectiveness of carbohydrate supplementation and provides a summary of strategies, based on six key aspects: carbohydrate properties, multi-nutrient interactions, gastrointestinal function, individual differences (such as age and gender), environmental conditions, and psychological factors. The combination of different types, ratios, and concentrations of carbohydrates has been demonstrated to enhance the efficiency of carbohydrate digestion and absorption. The synergistic combination of protein, sodium, and ",
+        "journal": "Nutrients",
+        "year": "2025",
+        "authors": [
+          "Cao Wei",
+          "He Yong",
+          "Fu Ronghua",
+          "Chen Yiru",
+          "Yu Jiabei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Dietary Carbohydrates",
+          "Dietary Supplements",
+          "Athletic Performance",
+          "Physical Endurance",
+          "Athletes",
+          "Sports Nutritional Physiological Phenomena",
+          "Male",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40077786/"
+      },
+      {
+        "pmid": "26192072",
+        "title": "L-theanine, unique amino acid of tea, and its metabolism, health effects, and safety.",
+        "abstract": "Tea has been a very popular beverage around the world for centuries. The reason that it is delicious, enabling hydration, showing warming and relaxing effect can be mentioned why it is consumed so much in addition to its prominent health effects. Although the catechins and caffeine are the primary bioactive components that are related with the health effects of the tea, the health effects of theanine amino acid, which is a nonproteinic amino acid special to tea, has become prominent in recent years. It has been known that the theanine amino acid in tea has positive effects especially on relaxing, cognitive performance, emotional status, sleep quality, cancer, cardiovascular diseases, obesity, and common cold. The results of acute and chronic toxicity tests conducted on the safety of theanine express that L-theanine is reliable in general even if it is consumed too much with diet. However, it has not revealed a clear evidence-based result yet regarding theanine metabolism, health effect",
+        "journal": "Critical reviews in food science and nutrition",
+        "year": "2017",
+        "authors": [
+          "Türközü Duygu",
+          "Şanlier Nevin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cardiovascular Diseases",
+          "Cognition",
+          "Glutamates",
+          "Humans",
+          "Neoplasms",
+          "Obesity",
+          "Plant Leaves",
+          "Randomized Controlled Trials as Topic",
+          "Sleep",
+          "Stress, Physiological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26192072/"
+      },
+      {
+        "pmid": "9443519",
+        "title": "Caffeine and the common cold.",
+        "abstract": "An experiment was carried out to determine whether caffeinated and decaffeinated coffee removed the malaise (reduced alertness, slower psychomotor performance) associated with having a common cold. One hundred volunteers were tested when healthy and 46 returned to the laboratory when they developed colds. Those subjects who remained healthy were then recalled as a control group. On the second visit subjects carried out two sessions, one pre-drink and another an hour after the drink. Subjects were randomly assigned to one of the following three conditions, caffeinated coffee (1.5 mg/kg caffeine/body weight), decaffeinated coffee or fruit juice. Subjects with colds reported decreased alertness and were slower at performing psychomotor tasks. Caffeine increased the alertness and performance of the colds subjects to the same level as the healthy group and decaffeinated coffee also led to an improvement. These results suggest that drugs which increase alertness can remove the malaise associ",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "1997",
+        "authors": [
+          "Smith A",
+          "Thomas M",
+          "Perry K",
+          "Whitney H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Caffeine",
+          "Central Nervous System Stimulants",
+          "Common Cold",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Psychomotor Performance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9443519/"
+      },
+      {
+        "pmid": "23021498",
+        "title": "Twenty-five years of research on the behavioural malaise associated with influenza and the common cold.",
+        "abstract": "Minor illnesses such as the common cold and influenza are frequent and widespread. As well as specific symptoms such as nasal problems and fever, these illnesses are associated with a behavioural malaise. One feature of this malaise is reduced alertness and this has been confirmed using subjective reports and objective measures of performance. Such effects have been obtained with both experimentally induced infections and in studies of naturally occurring illnesses. The mechanisms underlying the effects are unclear but possibly reflect effects of cytokines on the CNS which result in changes in neurotransmitter functioning that lead to reduced alertness. The malaise induced by these illnesses has many real-life consequences and activities such as driving and safety at work may be at risk. These illnesses not only have direct effects on performance and mood but also make the person more sensitive to effects of other negative influences such as noise, alcohol and prolonged work. Counterme",
+        "journal": "Psychoneuroendocrinology",
+        "year": "2013",
+        "authors": [
+          "Smith Andrew P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Affect",
+          "Common Cold",
+          "Cytokines",
+          "Humans",
+          "Influenza, Human",
+          "Mental Fatigue"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23021498/"
+      },
+      {
+        "pmid": "22761287",
+        "title": "An investigation of the effects of the common cold on simulated driving performance and detection of collisions: a laboratory study.",
+        "abstract": "The aim of the present research was to investigate whether individuals with a common cold showed impaired ability on a simulated driving task and the ability to detect potential collisions between moving objects.",
+        "journal": "BMJ open",
+        "year": "2012",
+        "authors": [
+          "Smith Andrew Paul",
+          "Jamson Samantha"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22761287/"
+      },
+      {
+        "pmid": "10776186",
+        "title": "Use of cough and cold preparations during breastfeeding.",
+        "abstract": "Adverse reactions in infants from maternal drug ingestion depend largely on the amount of milk consumed by the infant, timing of breastfeeding in relation to dosing, dose of the medication, dosing interval, and duration of therapy. When taking medications, breastfeeding mothers should be instructed to take their medication after breastfeeding, at the lowest effective dose and for the shortest duration. Overall, there are few data from human studies on the use of antihistamines, decongestants, and cough products during breastfeeding. Studies of pseudoephedrine, triprolidine, and loratadine in humans conclude that low levels of each drug would reach a breastfed infant. Since triprolidine and pseudoephedrine are also considered compatible with breastfeeding by the AAP, these 2 drugs should be the first-line choices. Codeine is considered compatible with breastfeeding by the AAP, and would be an acceptable choice for short-term use as a cough suppressant. It is important to note that many ",
+        "journal": "Journal of human lactation : official journal of International Lactation Consultant Association",
+        "year": "1999",
+        "authors": [
+          "Mitchell J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antitussive Agents",
+          "Breast Feeding",
+          "Common Cold",
+          "Cough",
+          "Expectorants",
+          "Female",
+          "Histamine H1 Antagonists",
+          "Humans",
+          "Infant, Newborn",
+          "Lactation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10776186/"
+      },
+      {
+        "pmid": "30076382",
+        "title": "Phenylephrine, a common cold remedy active ingredient, suppresses uterine contractions through cAMP signalling.",
+        "abstract": "Regulation of uterine contractility is an important aspect of women's health. Phenylephrine, a selective agonist of the α1-adrenoceptor and a potent smooth muscle constrictor, is widely used in women even during pregnancy to relieve cold-related symptoms, to treat postpartum haemorrhoid, and during routine eye exams. We performed isometric tension recordings to investigate the effect of phenylephrine on mouse uterine contractility. Phenylephrine decreased spontaneous and oxytocin-induced contractions in non-pregnant mouse uterine rings and strips with an IC50 of ~1 μM. Prazosin, an inhibitor of α1-adrenoceptor, did not prevent phenylephrine-mediated relaxations. Conversely, ICI118551, an antagonist of β2-adrenoceptors, inhibited phenylephrine relaxation. In the presence of ICI118551, high concentrations (>30 μM) of phenylephrine caused mouse uterine contractions, suggesting that β-adrenoceptor-mediated inhibition interferes with the phenylephrine contractile potential. Phenylephrine-de",
+        "journal": "Scientific reports",
+        "year": "2018",
+        "authors": [
+          "Chen Xingjuan",
+          "Meroueh Marya",
+          "Mazur Gabriela",
+          "Rouse Evan",
+          "Hundal Karmjot Singh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Caffeine",
+          "Common Cold",
+          "Cyclic AMP",
+          "Estradiol",
+          "Female",
+          "Genitalia, Female",
+          "Humans",
+          "Intracellular Space",
+          "Mice, Inbred C57BL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30076382/"
+      },
+      {
+        "pmid": "31412606",
+        "title": "Cold Brew Coffee: Consumer Acceptability and Characterization Using the Check-All-That-Apply (CATA) Method.",
+        "abstract": "The aim of this study was to investigate consumers' acceptability and perceived sensory attributes of cold brew coffee, which is increasing in popularity. A total of 120 consumers evaluated liking of 13 cold brew coffee samples and checked sensory attributes they perceived using the check-all-that-apply (CATA) method. Correspondence analysis identified characteristics of each cold brew sample and brewing methods, namely cold brew, coffee machine brewed but served cold, ready-to-drink, and purchased from a coffee shop. In addition, a reduced number of terms were reviewed for common-to-all cold brew samples (17 terms) and specific to each sample (48 terms), which also discriminated among samples. Furthermore, data on consumers' liking were not influenced by caffeine contents and most of the volatile compounds, but chlorogenic acid and trigonelline contents were negatively related with sensory data. This study specifies the characteristics of cold brew coffee using the CATA method, shows ",
+        "journal": "Foods (Basel, Switzerland)",
+        "year": "2019",
+        "authors": [
+          "Heo JeongAe",
+          "Choi Kap Seong",
+          "Wang Shangci",
+          "Adhikari Koushik",
+          "Lee Jeehyun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31412606/"
+      },
+      {
+        "pmid": "12655962",
+        "title": "Overdose of cough and cold remedies.",
+        "abstract": "",
+        "journal": "Emergency nurse : the journal of the RCN Accident and Emergency Nursing Association",
+        "year": "2003",
+        "authors": [
+          "Hartley Victoria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Analgesics",
+          "Antitussive Agents",
+          "Caffeine",
+          "Common Cold",
+          "Cough",
+          "Drug Combinations",
+          "Drug Overdose",
+          "Histamine H1 Antagonists",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12655962/"
+      },
+      {
+        "pmid": "25651621",
+        "title": "Characteristics of caffeine intoxication-related death in Tokyo, Japan, between 2008 and 2013.",
+        "abstract": "Caffeine is widely available in beverages and over-the-counter products; however, in large doses, it can lead to lethal arrhythmia. This study aims to clarify the characteristics of caffeine intoxication-related deaths in Tokyo, Japan.",
+        "journal": "Nihon Arukoru Yakubutsu Igakkai zasshi = Japanese journal of alcohol studies & drug dependence",
+        "year": "2014",
+        "authors": [
+          "Suzuki Hideto",
+          "Tanifuji Takanobu",
+          "Abe Nobuyuki",
+          "Maeda Masako",
+          "Kato Yukihisa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Caffeine",
+          "Forensic Toxicology",
+          "Humans",
+          "Incidence",
+          "Mental Disorders",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25651621/"
+      },
+      {
+        "pmid": "27330891",
+        "title": "Validated RP-HPLC method for simultaneous determination and quantification of chlorpheniramine maleate, paracetamol and caffeine in tablet formulation.",
+        "abstract": "Chlorpheniramine maleate-paracetamol-caffeine tablet formulation is one of the common over-the-counter drugs used for the treatment of cold and cough. A reversed-phase high-performance liquid-chromatography method has been successfully developed for the simultaneous determination of chlorpheniramine maleate, paracetamol and caffeine in a drug formulation. The RP-HPLC method employed a Phenomenex C18 reversed phase column (Luna 5µ, 250 × 4.6 mm) with an isocratic mixture of methanol and 0.05 M dibasic phosphate buffer pH 4.0 in the ratio of (30:70; v/v) as the mobile phase. The column temperature was kept at 30 °C. The flow rate was 1.0 mL/min and detection was by means of a UV detector at wavelength of 215 nm. All the active components were successfully eluted with mean retention times of 2.4, 4.2, 7.2 min for chlorpheniramine maleate, paracetamol and caffeine respectively. The method was found to be linear (R(2) > 0.99), precise (RSD < 2.0 %), accurate (recoveries 97.9-102.8 %), speci",
+        "journal": "SpringerPlus",
+        "year": "2016",
+        "authors": [
+          "Acheampong Akwasi",
+          "Gyasi Wilfred Owusu",
+          "Darko Godfred",
+          "Apau Joseph",
+          "Addai-Arhin Sylvester"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27330891/"
+      },
+      {
+        "pmid": "11410911",
+        "title": "Teratogen update: evaluation of the reproductive and developmental risks of caffeine.",
+        "abstract": "Caffeine is a methylated xanthine that acts as a mild central nervous system stimulant. It is present in many beverages, including coffee, tea, and colas, as well as chocolate. Caffeine constitutes 1-2% of roasted coffee beans, 3.5% of fresh tea leaves, and approximately 2% of mate leaves (Spiller, '84; Graham, '84a,b). Many over-the-counter medications, such as cold and allergy tablets, headache medicines, diuretics, and stimulants also contain caffeine, although they lead to relatively minimal intake (FDA, '86). In epidemiological studies, it is assumed that one cup of coffee contains < or =100 mg of caffeine, and soft drinks, such as colas, contain 10-50 mg of caffeine per 12-ounce serving. The per-capita consumption of caffeine from all sources is estimated to be about 3-7 mg/kg per day, or approximately 200 mg/day (Barone and Roberts, '96). Consumption of caffeinated beverages during pregnancy is quite common (Hill et al., '77) and is estimated to be approximately 144 mg/day, or 2",
+        "journal": "Teratology",
+        "year": "2001",
+        "authors": [
+          "Christian M S",
+          "Brent R L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Animals",
+          "Animals, Newborn",
+          "Behavior",
+          "Caffeine",
+          "Central Nervous System",
+          "Coffee",
+          "Congenital Abnormalities",
+          "Dose-Response Relationship, Drug",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11410911/"
+      },
+      {
+        "pmid": "28392822",
+        "title": "Maternal food restrictions during breastfeeding.",
+        "abstract": "This study investigated self-food restriction during breastfeeding, reviewed the literature showing the effect of maternal diet on the health of breast-fed infants, and explored the validity of dietary restrictions.",
+        "journal": "Korean journal of pediatrics",
+        "year": "2017",
+        "authors": [
+          "Jeong Goun",
+          "Park Sung Won",
+          "Lee Yeon Kyung",
+          "Ko Sun Young",
+          "Shin Son Moon"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28392822/"
+      },
+      {
+        "pmid": "35631825",
+        "title": "New Potentiometric Screen-Printed Platforms Modified with Reduced Graphene Oxide and Based on Man-Made Imprinted Receptors for Caffeine Assessment.",
+        "abstract": "Caffeine is a psychoactive drug that is administered as a class II psychotropic substance. It is also considered a component of analgesics and cold medicines. Excessive intake of caffeine may lead to severe health damage or drug addiction problems. The assessment of normal caffeine consumption from abusive use is not conclusive, and the cut-off value for biological samples has not been established. Herein, new cost-effective and robust all-solid-state platforms based on potentiometric transduction were fabricated and successfully utilized for caffeine assessment. The platforms were modified with reduced graphene oxide (rGO). Tailored caffeine-imprinted polymeric beads (MIPs) based on methacrylic acid (MAA) and ethylene glycol dimethacrylate (EGDMA) were prepared, characterized, and used as recognition receptors in the presented potentiometric sensing devices. In 50 mM MES buffer, the sensors exhibited a slope response of 51.2 ± 0.9 mV/decade (n = 6, R2 = 0.997) over the linear range of",
+        "journal": "Polymers",
+        "year": "2022",
+        "authors": [
+          "Abd-Rabboh Hisham S M",
+          "E Amr Abdel El-Galil",
+          "Almehizia Abdulrahman A",
+          "Naglah Ahmed M",
+          "H Kamel Ayman"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35631825/"
+      },
+      {
+        "pmid": "39990138",
+        "title": "Mucocutaneous Adverse Events in Patients With Cancer Treated with the Highly Selective RET Kinase Inhibitor Selpercatinib (LOXO-292).",
+        "abstract": "Selective RET inhibitors are approved for the treatment of RET-dependent cancers. A comprehensive characterization of mucocutaneous adverse events (MAEs) has not been performed; therefore, we characterized MAEs associated with the selective RET inhibitor, selpercatinib.",
+        "journal": "JTO clinical and research reports",
+        "year": "2025",
+        "authors": [
+          "Reingold Rachel E",
+          "Parisi Rose",
+          "Harada Guilherme",
+          "Moy Andrea P",
+          "Dranitsaris George"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39990138/"
+      },
+      {
+        "pmid": "37118829",
+        "title": "Seizures provoked by over-the-counter cough and cold medications in an elderly patient: a case report.",
+        "abstract": "Seizures are common neurological emergencies in the elderly that are frequently provoked. Geriatrics have higher rates of neurological disorders and other comorbidities that could affect seizure threshold.",
+        "journal": "Journal of medical case reports",
+        "year": "2023",
+        "authors": [
+          "Alattiya Mohammed Kays",
+          "Joudeh Anwar I",
+          "Hammamy Riyadh Ali"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Aged, 80 and over",
+          "Cough",
+          "Pseudoephedrine",
+          "Caffeine",
+          "Seizures",
+          "Anticonvulsants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37118829/"
+      },
+      {
+        "pmid": "28656354",
+        "title": "Nonfatal and fatal intoxications with pure caffeine - report of three different cases.",
+        "abstract": "Caffeine is not usually perceived as a drug by most people because it is found in many foods and drinks, including caffeinated energy drinks, as well as in over the counter analgesics and cold preparations. Recently in Poland it has become increasingly common to take pure caffeine, bought through online stores, as a psychoanaleptic. This creates a much higher risk of severe and even fatal poisoning in comparison with the risk associated with the abuse of food products and non-prescription medicines containing low doses of caffeine. This paper presents three different cases of poisoning that occurred when pure caffeine was taken as psychostimulant; in cases 1 and 2 poisoning was the result of a single overdose, while in the case 3 poisoning resulted from a cumulative overdose. In the case 1 there was a severe intoxication (persistent vomiting, hypotension, tremor), and the concentration of caffeine in the blood was found to be 80.16 μg/mL. The patient was treated using hemodialysis, whi",
+        "journal": "Forensic science, medicine, and pathology",
+        "year": "2017",
+        "authors": [
+          "Magdalan Jan",
+          "Zawadzki Marcin",
+          "Skowronek Rafał",
+          "Czuba Magdalena",
+          "Porębska Barbara"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Caffeine",
+          "Central Nervous System Stimulants",
+          "Creatine Kinase",
+          "Drug Overdose",
+          "Fatal Outcome",
+          "Female",
+          "Humans",
+          "Male",
+          "Poisoning"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28656354/"
+      },
+      {
+        "pmid": "5899376",
+        "title": "[New combined therapy in influenza and common cold with Theraflu].",
+        "abstract": "",
+        "journal": "Praxis",
+        "year": "1965",
+        "authors": [
+          "Felber R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Adult",
+          "Caffeine",
+          "Child",
+          "Codeine",
+          "Common Cold",
+          "Female",
+          "Flavonoids",
+          "Humans",
+          "Influenza, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5899376/"
+      },
+      {
+        "pmid": "17652994",
+        "title": "[Pharmacological approach to desychronization of the sleep-wakefulness cycle in the military and sport environment].",
+        "abstract": "Sports and military environments have many common features - intense physical activity, rigorous physical environment (heat, cold, high or low pressure, hypoxia, acceleration...), specific psychosocial atmosphere, team spirit. If combined with jet lag syndrome, these specific conditions can favor altered physical and mental performance. There is always the temptation to use drugs as a simple way to reduce the penalizing effects. The available compounds known to affect sleep and wakefulness include hypnotics, benzodiazepines and non benzodiazepines such as temazepam, zolopidem, and zopiclone, stimulants such as amphetamine and amphetamine-like agents, adrafinil, modafinil, caffeine and chronobiotics substances such as melatonin and, more recently, slow release caffeine. In the sports area, all of these substances except caffeine are on the list of forbidden products, although special authorizations linked to known disease conditions are allowed. In the military setting, the environment ",
+        "journal": "Annales pharmaceutiques francaises",
+        "year": "2007",
+        "authors": [
+          "Lagarde D"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System Stimulants",
+          "Humans",
+          "Hypnotics and Sedatives",
+          "Jet Lag Syndrome",
+          "Military Personnel",
+          "Sleep",
+          "Sports",
+          "Wakefulness"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17652994/"
+      },
+      {
+        "pmid": "5896407",
+        "title": "[Studies on the determination of combined anti-common cold drugs. New colorimetric determination of caffeine].",
+        "abstract": "",
+        "journal": "Eisei Shikenjo hokoku. Bulletin of National Institute of Hygienic Sciences",
+        "year": "1965",
+        "authors": [
+          "Tatsuzawa M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Caffeine",
+          "Colorimetry",
+          "Common Cold"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5896407/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:55:33.927888",
+  "success": true,
+  "error_message": null
+}

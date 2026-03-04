@@ -1,0 +1,577 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Azacitidine",
+    "disease": "acute myeloblastic leukemia with maturation",
+    "query_string": "Azacitidine AND acute myeloblastic leukemia with maturation"
+  },
+  "data": {
+    "query": "Azacitidine AND acute myeloblastic leukemia with maturation",
+    "results": [
+      {
+        "pmid": "37944143",
+        "title": "How I treat refractory and relapsed acute myeloid leukemia.",
+        "abstract": "Most patients with acute myeloid leukemia (AML) develop refractory/relapsed (R/R) disease even in the presence of novel and targeted therapies. Given the biological complexity of the disease and differences in frontline treatments, there are therapies approved for only subgroups of R/R AML, and enrollment in clinical trials should be first priority. Allogeneic hematopoietic cell transplantation (HCT) is the only potentially curative strategy for most patients. Therapeutic approaches, including allogeneic HCT, triggered by the presence of measurable residual disease (MRD), have recently evolved to prevent overt hematologic relapse. Salvage therapy with chemotherapy or targeted therapy is frequently administered before HCT to reduce the leukemic burden. Gilteritinib is approved by the Food and Drug Administration and European Medicines Agency for patients with relapsed FLT3 mutated AML, whereas targeted therapy for relapsed IDH1/2 mutated AML has only FDA approval. Patients who are R/R a",
+        "journal": "Blood",
+        "year": "2024",
+        "authors": [
+          "Thol Felicitas",
+          "Döhner Hartmut",
+          "Ganser Arnold"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hematopoietic Stem Cell Transplantation",
+          "Azacitidine",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Leukemia, Myeloid, Acute",
+          "Salvage Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37944143/"
+      },
+      {
+        "pmid": "36066514",
+        "title": "Diagnosis and Treatment of Myelodysplastic Syndromes: A Review.",
+        "abstract": "Myelodysplastic neoplasms (MDS), formerly known as myelodysplastic syndromes, are clonal hematopoietic malignancies that cause morphologic bone marrow dysplasia along with anemia, neutropenia, or thrombocytopenia. MDS are associated with an increased risk of acute myeloid leukemia (AML). The yearly incidence of MDS is approximately 4 per 100 000 people in the United States and is higher among patients with advanced age.",
+        "journal": "JAMA",
+        "year": "2022",
+        "authors": [
+          "Sekeres Mikkael A",
+          "Taylor Justin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Azacitidine",
+          "Decitabine",
+          "Erythropoietin",
+          "Female",
+          "Hematinics",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Male",
+          "Myelodysplastic Syndromes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36066514/"
+      },
+      {
+        "pmid": "36722405",
+        "title": "Leukemic stem cells and therapy resistance in acute myeloid leukemia.",
+        "abstract": "A major obstacle in the treatment of acute myeloid leukemia (AML) is refractory disease or relapse after achieving remission. The latter arises from a few therapy-resistant cells within minimal residual disease (MRD). Resistant cells with long-term self-renewal capacity that drive clonal outgrowth are referred to as leukemic stem cells (LSC). The cancer stem cell concept considers LSC as relapse-initiating cells residing at the top of each genetically defined AML subclone forming epigenetically controlled downstream hierarchies. LSC display significant phenotypic and epigenetic plasticity, particularly in response to therapy stress, which results in various mechanisms mediating treatment resistance. Given the inherent chemotherapy resistance of LSC, targeted strategies must be incorporated into first-line regimens to prevent LSC-mediated AML relapse. The combination of venetoclax and azacitidine is a promising current strategy for the treatment of AML LSC. Nevertheless, the selection o",
+        "journal": "Haematologica",
+        "year": "2023",
+        "authors": [
+          "Stelmach Patrick",
+          "Trumpp Andreas"
+        ],
+        "pub_types": [
+          "Review",
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Sulfonamides",
+          "Azacitidine",
+          "Leukemia, Myeloid, Acute",
+          "Neoplastic Stem Cells",
+          "Bridged Bicyclo Compounds, Heterocyclic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36722405/"
+      },
+      {
+        "pmid": "36135060",
+        "title": "Management of Acute Myeloid Leukemia: A Review for General Practitioners in Oncology.",
+        "abstract": "Acute myeloid leukemia (AML) is a hematologic malignancy that most frequently develops in older adults. Overall, AML is associated with a high mortality although advancements in genetic risk stratification and new treatments are leading to improvements in outcomes for some subgroups. In this review, we discuss an individualized approach to intensive therapy with a focus on the role of recently approved novel therapies as well as the selection of post-remission therapies for patients in first remission. We discuss the management of patients with relapsed and refractory AML, including the role of targeted treatment and allogeneic stem cell transplant. Next, we review non-intensive treatment for older and unfit AML patients including the use of azacitidine and venetoclax. Finally, we discuss the integration of palliative care in the management of patients with AML.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "year": "2022",
+        "authors": [
+          "Stubbins Ryan J",
+          "Francis Annabel",
+          "Kuchenbauer Florian",
+          "Sanford David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Azacitidine",
+          "General Practitioners",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36135060/"
+      },
+      {
+        "pmid": "39180903",
+        "title": "Triplet therapy with gilteritinib, venetoclax, and azacitidine for relapsed/refractory FLT3mut acute myeloid leukemia.",
+        "abstract": "The FMS-related tyrosine kinase 3 (FLT3) inhibitor gilteritinib is standard therapy for relapsed/refractory (R/R) FLT3-mutated (FLT3mut) acute myeloid leukemia (AML) but the overall survival (OS) is only approximately 20 % and few patients achieve deep and/ or durable response. We retrospectively analyzed 29 R/R FLT3mut AML patients treated on triplet regimens (gilteritinib+ venetoclax［VEN] +azacitidine［AZA]). Nineteen patients (65.5 %) had received prior FLT3 inhibitor therapy. The modified composite complete remission (mCRc) rate was 62.1 % (n = 18; CR, 4/29,13.8 %; CRi, 6/29, 20.7 %; MLFS, 8/29, 27.6 %). Among 18 patients achieved mCRc, FLT3-PCR negativity was 94.4 % (n=17), and flow-cytometry negativity was 77.7 % (n=14). The mCRc rate was 70 % (n=7) in 10 patients without prior FLT3 TKI exposure and 57.8 % (n=11) in 19 patients with prior FLT3 TKI exposure (P=0.52). At the end of the first cycle, the median time to ANC > 0.5× 109/L was 38 days and platelet > 50× 109/L was 31 days ",
+        "journal": "Leukemia research",
+        "year": "2024",
+        "authors": [
+          "Fu Qiang",
+          "Wang Yunqi",
+          "Liu Hongtao",
+          "Gao Haitao",
+          "Sun Wei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "fms-Like Tyrosine Kinase 3",
+          "Male",
+          "Leukemia, Myeloid, Acute",
+          "Female",
+          "Middle Aged",
+          "Sulfonamides",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39180903/"
+      },
+      {
+        "pmid": "37036307",
+        "title": "The efficacy and safety of venetoclax and azacytidine combination treatment in patients with acute myeloid leukemia and myelodysplastic syndrome: systematic review and meta-analysis.",
+        "abstract": "The meta-analysis sought to evaluate the efficacy and safety of a combination of venetoclax (Ven) and azacitidine (AZA) in the treatment of acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS).",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2023",
+        "authors": [
+          "Du Yufeng",
+          "Li Chunhong",
+          "Yan Jinsong"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Azacitidine",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Neutropenia",
+          "Sulfonamides",
+          "Bridged Bicyclo Compounds, Heterocyclic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37036307/"
+      },
+      {
+        "pmid": "32997910",
+        "title": "Myelodysplastic Syndromes.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Cazzola Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Decitabine",
+          "Enzyme Inhibitors",
+          "Erythrocyte Transfusion",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Mutation",
+          "Myelodysplastic Syndromes",
+          "Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32997910/"
+      },
+      {
+        "pmid": "40491347",
+        "title": "Indirect treatment comparison of ivosidenib and other therapies in patients with newly diagnosed acute myeloid leukemia.",
+        "abstract": "To assess the relative efficacy of ivosidenib + azacitidine versus other therapies (venetoclax, glasdegib, azacitidine, decitabine and low-dose cytarabine [LDAC]) for the treatment of patients with newly diagnosed IDH1-mutated (mIDH1) acute myeloid leukemia (AML) ineligible for intensive induction chemotherapy.",
+        "journal": "Future oncology (London, England)",
+        "year": "2025",
+        "authors": [
+          "Gil-Sierra Manuel David",
+          "Mantopoulos Theo",
+          "Barouma Ifigeneia",
+          "Hauch Ole",
+          "Teng Zhaoyang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Comparative Study",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Glycine",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Isocitrate Dehydrogenase",
+          "Pyridines",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Sulfonamides",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40491347/"
+      },
+      {
+        "pmid": "38010220",
+        "title": "FDA Approval Summary: Ivosidenib in Combination with Azacitidine for Treatment of Patients with Newly Diagnosed Acute Myeloid Leukemia with an IDH1 Mutation.",
+        "abstract": "On May 25, 2022, FDA approved a supplemental application for ivosidenib (Tibsovo; Servier) extending the indication in patients with newly diagnosed IDH1-mutated acute myeloid leukemia (AML) in older adults or those with comorbidities to include the combination with azacitidine. The efficacy of ivosidenib in combination with azacitidine was evaluated in Study AG120-C-009, a phase 3, multicenter, double-blind, randomized (1:1), controlled study of ivosidenib or matched placebo in combination with azacitidine in adults with previously untreated AML with an IDH1 mutation who were 75 years or older or had comorbidities that precluded use of intensive induction chemotherapy. Efficacy was established on the basis of improved event-free survival and overall survival on the ivosidenib + azacitidine arm [HR, 0.35; 95% confidence interval (CI), 0.17-0.72; P = 0.0038, and HR, 0.44; 95% CI, 0.27-0.73; P = 0.0010], respectively. Furthermore, the rate and duration of complete remission (CR) were imp",
+        "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "year": "2024",
+        "authors": [
+          "Woods Ashley",
+          "Norsworthy Kelly J",
+          "Wang Xin",
+          "Vallejo Jonathon",
+          "Chiu Yuen Chow Edwin"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Azacitidine",
+          "Isocitrate Dehydrogenase",
+          "Leukemia, Myeloid, Acute",
+          "Mutation",
+          "Pathologic Complete Response",
+          "Glycine",
+          "Pyridines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38010220/"
+      },
+      {
+        "pmid": "35841458",
+        "title": "Relapse after allogeneic hematopoietic stem cell transplantation in acute myeloid leukemia: an overview of prevention and treatment.",
+        "abstract": "Despite therapeutic progress in acute myeloid leukemia (AML), relapse post-allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains a major challenge. Here, we aim to provide an overview of prevention and treatment of relapse in this population, including cell-based and pharmacologic options. Post-transplant maintenance therapy is used in patients who have undetectable measurable residual disease (MRD), while pre-emptive treatment is administered upon detection of MRD. Prompt transfusion of prophylactic donor lymphocyte infusion (DLI) was found to be effective in preventing relapse and overcoming the negative impact of detectable MRD. In addition, patients with persistent targetable mutations can benefit from targeted post-transplant pharmacological interventions. IDH inhibitors have shown promising results in relapsed/refractory AML. Hypomethylating agents, such as decitabine and azacitidine, have been studied in the post-allo-HSCT setting, both as pre-emptive and prophy",
+        "journal": "International journal of hematology",
+        "year": "2022",
+        "authors": [
+          "Kreidieh Firas",
+          "Abou Dalle Iman",
+          "Moukalled Nour",
+          "El-Cheikh Jean",
+          "Brissot Eolia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Recurrence",
+          "Transplantation, Homologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35841458/"
+      },
+      {
+        "pmid": "35133573",
+        "title": "Acute monocytic leukemia with histiocytic morphology in hematological remission after azacytidine and venetoclax therapy.",
+        "abstract": "",
+        "journal": "International journal of hematology",
+        "year": "2022",
+        "authors": [
+          "Sato Shuku",
+          "Tamai Yotaro"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Child",
+          "Humans",
+          "Leukemia, Monocytic, Acute",
+          "Leukemia, Myeloid, Acute",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35133573/"
+      },
+      {
+        "pmid": "30423294",
+        "title": "Inhibition of Amino Acid Metabolism Selectively Targets Human Leukemia Stem Cells.",
+        "abstract": "In this study we interrogated the metabolome of human acute myeloid leukemia (AML) stem cells to elucidate properties relevant to therapeutic intervention. We demonstrate that amino acid uptake, steady-state levels, and catabolism are all elevated in the leukemia stem cell (LSC) population. Furthermore, LSCs isolated from de novo AML patients are uniquely reliant on amino acid metabolism for oxidative phosphorylation and survival. Pharmacological inhibition of amino acid metabolism reduces oxidative phosphorylation and induces cell death. In contrast, LSCs obtained from relapsed AML patients are not reliant on amino acid metabolism due to their ability to compensate through increased fatty acid metabolism. These findings indicate that clinically relevant eradication of LSCs can be achieved with drugs that target LSC metabolic vulnerabilities.",
+        "journal": "Cancer cell",
+        "year": "2018",
+        "authors": [
+          "Jones Courtney L",
+          "Stevens Brett M",
+          "D'Alessandro Angelo",
+          "Reisz Julie A",
+          "Culp-Hill Rachel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acids",
+          "Animals",
+          "Antineoplastic Agents",
+          "Azacitidine",
+          "Biological Transport",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Cell Line, Tumor",
+          "Fatty Acids",
+          "Female",
+          "Glycolysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30423294/"
+      },
+      {
+        "pmid": "35695017",
+        "title": "Azacitidine and its role in the upfront treatment of acute myeloid leukemia.",
+        "abstract": "Acute myeloid leukemia (AML) predominantly affects elderly population. This poses challenges in management, as patients are frequently not candidates for intensive therapy given comorbidities or frailty. Currently, azacitidine (AZA), either as monotherapy or in combination regimens, is the backbone treatment in this group of patients.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Raslan Omar",
+          "Garcia-Horton Alejandro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "Combined Modality Therapy",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35695017/"
+      },
+      {
+        "pmid": "28693797",
+        "title": "Azacitidine in adult patients with acute myeloid leukemia.",
+        "abstract": "Azacitidine is recommended front-line treatment for older patients with acute myeloid leukemia (AML) who are not candidates for intensive treatment regimens, and was recently granted approval in the European Union for treatment of adult AML. Reviewed here is azacitidine experience in AML, including: mechanistic and pharmacokinetic data; safety and efficacy in controlled trials; treatment effects in AML subpopulations defined by disease characteristics; experience in unselected patients treated in the community setting; clinical outcomes relative to other approved AML therapies; and experience with azacitidine-based combination treatment regimens. Collectively, these data suggest that (a) azacitidine may prolong overall survival to a similar or greater extent than do other approved AML treatments, but with less toxicity, (b) azacitidine may be the preferred treatment option for older patients with unfavorable cytogenetics, and (c) experience and outcomes with azacitidine in the clinic a",
+        "journal": "Critical reviews in oncology/hematology",
+        "year": "2017",
+        "authors": [
+          "Schuh Andre C",
+          "Döhner Hartmut",
+          "Pleyer Lisa",
+          "Seymour John F",
+          "Fenaux Pierre"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28693797/"
+      },
+      {
+        "pmid": "39606906",
+        "title": "Azacitidine and venetoclax with or without pevonedistat in patients with newly diagnosed acute myeloid leukemia.",
+        "abstract": "This phase 2 study investigated pevonedistat + azacitidine + venetoclax (n = 83) versus azacitidine + venetoclax (n = 81) in patients with newly diagnosed acute myeloid leukemia (AML) ineligible for intensive chemotherapy. The study was stopped early following negative results from PANTHER, which evaluated pevonedistat in higher-risk myelodysplastic syndromes/chronic myelomonocytic leukemia or low-blast AML. Outcomes were analyzed up to the datacut. For pevonedistat + azacitidine + venetoclax versus azacitidine + venetoclax, the median follow-up was 8.44 versus 7.95 months; the complete remission (CR) rate was 45% versus 49%; composite CR (CCR; CR+CR with incomplete blood count recovery) was 77% versus 72%. There were no differences in event-free survival (primary endpoint; hazard ratio [HR]: 0.99; 95% confidence interval [CI]: 0.61-1.60; p = 0.477) or overall survival (HR: 1.42; 95% CI: 0.82-2.49; p = 0.896). In exploratory analyses in IDH-mutated AML, CCR rates were higher with pevon",
+        "journal": "Leukemia & lymphoma",
+        "year": "2025",
+        "authors": [
+          "Short Nicholas J",
+          "Wierzbowska Agnieszka",
+          "Cluzeau Thomas",
+          "Laribi Kamel",
+          "Recher Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Male",
+          "Leukemia, Myeloid, Acute",
+          "Aged",
+          "Azacitidine",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Sulfonamides",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39606906/"
+      },
+      {
+        "pmid": "36503457",
+        "title": "Is Induction of Hypomethylation with Ivosidenib and 5-Azacitidine Curative Regimen against IDH1-Mutated Acute Myeloid Leukemia?",
+        "abstract": "",
+        "journal": "Anti-cancer agents in medicinal chemistry",
+        "year": "2023",
+        "authors": [
+          "Takahashi Katsuhiko"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Azacitidine",
+          "Pyridines",
+          "Glycine",
+          "Leukemia, Myeloid, Acute",
+          "Mutation",
+          "Isocitrate Dehydrogenase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36503457/"
+      },
+      {
+        "pmid": "39129334",
+        "title": "Outcomes of adults with refractory or relapsed acute myeloid leukemia treated with azacitidine and venetoclax compared to other therapies: a multicenter retrospective study.",
+        "abstract": "This study reports characteristics and outcomes of adults who received Azacitidine-Venetoclax (AZA-VEN) compared to other salvage therapies (NO-AZA-VEN) as first salvage therapy for acute myeloid leukemia (AML). The clinical data of 81 patients with a diagnosis of relapsed or refractory AML were analyzed. The ORR was comparable for both groups (55% vs 57%, p = 0.852). Median OS (6.8 vs 11.2 months, p = 0.053) and median RFS (6.9 vs 11.2 months, p = 0.488) showed a trend in favor of the NO-AZA-VEN group. OS was significantly longer with NO-AZA-VEN for ELN 2022 risk category sub-group, patients under 60 years old, primary AML and for patients who underwent allo-hematopoietic stem cell transplant after salvage therapy. There was no statistical difference in complications of treatment such as febrile neutropenia, intensive care unit stay, septic shock and total parenteral nutrition. Those results do not support the preferential use of AZA-VEN over other regimens in R/R acute myeloid leukem",
+        "journal": "Leukemia & lymphoma",
+        "year": "2024",
+        "authors": [
+          "Pelland Andrée-Anne",
+          "Deschênes-Simard Xavier",
+          "Savard Xavier",
+          "Giguère Philippe",
+          "Spillane David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Azacitidine",
+          "Leukemia, Myeloid, Acute",
+          "Middle Aged",
+          "Male",
+          "Female",
+          "Retrospective Studies",
+          "Aged",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39129334/"
+      },
+      {
+        "pmid": "39414773",
+        "title": "Venetoclax triggers sublethal apoptotic signaling in venetoclax-resistant acute myeloid leukemia cells and induces vulnerability to PARP inhibition and azacitidine.",
+        "abstract": "Venetoclax plus azacitidine treatment is clinically beneficial for elderly and unfit acute myeloid leukemia (AML) patients. However, the treatment is rarely curative, and relapse due to resistant disease eventually emerges. Since no current clinically feasible treatments are known to be effective at the state of acquired venetoclax resistance, this is becoming a major challenge in AML treatment. Studying venetoclax-resistant AML cell lines, we observed that venetoclax induced sublethal apoptotic signaling and DNA damage even though cell survival and growth were unaffected. This effect could be due to venetoclax inducing a sublethal degree of mitochondrial outer membrane permeabilization. Based on these results, we hypothesized that the sublethal apoptotic signaling induced by venetoclax could constitute a vulnerability in venetoclax-resistant AML cells. This was supported by screens with a broad collection of drugs, where we observed a synergistic effect between venetoclax and PARP inh",
+        "journal": "Cell death & disease",
+        "year": "2024",
+        "authors": [
+          "Tambe Mahesh",
+          "Unterberger Sarah",
+          "Kriegbaum Mette C",
+          "Vänttinen Ida",
+          "Olgac Ezgi June"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Cell Line, Tumor",
+          "DNA Damage",
+          "Drug Resistance, Neoplasm",
+          "Leukemia, Myeloid, Acute",
+          "Poly(ADP-ribose) Polymerase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39414773/"
+      },
+      {
+        "pmid": "37599456",
+        "title": "Comparison of venetoclax and ivosidenib/enasidenib for unfit newly diagnosed patients with acute myeloid leukemia and IDH1/2 mutation: a network meta-analysis.",
+        "abstract": "Because of lacking of head-to-head comparison between venetoclax and IDH1/IDH2 inhibitors (ivosidenib/enasidenib) for newly diagnosed unfit patients with acute myeloid leukemia (AML), the optimal option for these patients still remains undefined. We searched relevant published reports. Three RCTs with 180 IDH1 mutant and 165 IDH2 mutant patients were identified. Indirect comparison of OS using fixed effects network meta-analysis (NMA) models indicated venetoclax plus azacitidine (Ven-Aza) significantly improved survival than enasidenib plus azacitidine (Ena-Aza) (HR:0.30, p = 0.005) for those newly diagnosed patients with AML and IDH2 Mutation. And, for those IDH2 mutation patients, Ven-Aza also had the highest probability of 98.3% (OS analysis) and 84.0% (CR/CRi analysis) to be the best intervention among these first-line treatment regimens (Ven-Aza, Ena-Aza and Aza). And, there was a favorable trend towards Ven-Aza in survival analysis (HR:0.69, p = 0.42), when compared to ivosidenib",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "2024",
+        "authors": [
+          "Wang Lida",
+          "Song Jiwu",
+          "Xiao Xiangming",
+          "Li Dianfang",
+          "Liu Tianmeng"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Azacitidine",
+          "Mutation",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Isocitrate Dehydrogenase",
+          "Aminopyridines",
+          "Glycine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Pyridines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37599456/"
+      },
+      {
+        "pmid": "34645927",
+        "title": "Exciting times ahead for older patients with acute myeloid leukemia: azacitidine and venetoclax followed by allogeneic hematopoietic cell transplantation.",
+        "abstract": "",
+        "journal": "Bone marrow transplantation",
+        "year": "2022",
+        "authors": [
+          "Bazarbachi Ali"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34645927/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:11:24.925079",
+  "success": true,
+  "error_message": null
+}

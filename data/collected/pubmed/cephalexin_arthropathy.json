@@ -1,0 +1,568 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "arthropathy",
+    "query_string": "Cephalexin AND arthropathy"
+  },
+  "data": {
+    "query": "Cephalexin AND arthropathy",
+    "results": [
+      {
+        "pmid": "37827185",
+        "title": "Antimicrobial susceptibility of Treponema pallidum subspecies pallidum: an in-vitro study.",
+        "abstract": "The increasing incidence of syphilis and the limitations of first-line treatment with penicillin, particularly in neurosyphilis, neonatal syphilis, and pregnancy, highlight the need to expand the therapeutic repertoire for effective management of this disease. We assessed the in-vitro efficacy of 18 antibiotics from several classes on Treponema pallidum subspecies pallidum (T pallidum), the syphilis bacteria.",
+        "journal": "The Lancet. Microbe",
+        "year": "2023",
+        "authors": [
+          "Tantalo Lauren C",
+          "Lieberman Nicole A P",
+          "Pérez-Mañá Clara",
+          "Suñer Clara",
+          "Vall Mayans Marti"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Infant, Newborn",
+          "Humans",
+          "Treponema pallidum",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Syphilis",
+          "Macrolides",
+          "Linezolid",
+          "Ceftriaxone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37827185/"
+      },
+      {
+        "pmid": "32412727",
+        "title": "Twice- and Thrice-daily Cephalexin Dosing for Staphylococcus aureus Infections in Children.",
+        "abstract": "Cephalexin is used for the treatment of methicillin-susceptible Staphylococcus aureus (MSSA) infections in children. Although 4 times daily dosing is recommended, less frequent dosing regimens are often prescribed to improve treatment acceptability and adherence. We developed a population pharmacokinetic model of cephalexin in children to determine a twice-daily (BID) and thrice-daily (TID) cephalexin dosing regimen for MSSA infections.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2020",
+        "authors": [
+          "Gwee Amanda",
+          "Autmizguine Julie",
+          "Curtis Nigel",
+          "Duffull Stephen B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans",
+          "Infant",
+          "Joints"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32412727/"
+      },
+      {
+        "pmid": "23811740",
+        "title": "Pharmacokinetics and pharmacodynamics of oral cephalexin in children with osteoarticular infections.",
+        "abstract": "Osteoarticular infections lead to significant morbidity in children. Cephalexin has in vitro activity against methicillin-susceptible Staphylococcus aureus, a predominant pathogen in osteoarticular infection. However, cephalexin pharmacokinetics (PK) and pharmacodynamics (PD) are poorly described in children. This study described cephalexin PK in children treated for osteoarticular infection and assessed the proportion of children achieving surrogate PK/PD target for efficacy in methicillin-susceptible S. aureus infection.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2013",
+        "authors": [
+          "Autmizguine Julie",
+          "Watt Kevin M",
+          "Théorêt Yves",
+          "Kassir Nastya",
+          "Laferrière C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Arthritis, Infectious",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23811740/"
+      },
+      {
+        "pmid": "37741341",
+        "title": "Antibiotic therapy for osteoarticular infections in 2023: Proposals from the Pediatric Infectious Pathology Group (GPIP).",
+        "abstract": "Most osteoarticular infections (OAI) occur via the hematogenous route, affect children under 5 years of age old, and include osteomyelitis, septic arthritis, osteoarthritis and spondylodiscitis. Early diagnosis and prompt treatment are needed to avoid complications. Children with suspected OAI should be hospitalized at the start of therapy. Surgical drainage is indicated in patients with septic arthritis or periosteal abscess. Staphylococcus aureus is implicated in OAI in children at all ages; Kingella kingae is a very common causative pathogen in children from 6 months to 4 years old. The French Pediatric Infectious Disease Group recommends empirical antibiotic therapy with appropriate coverage against methicillin-sensitive S. aureus (MSSA) with high doses (150 mg/kg/d) of intravenous cefazolin. In most children presenting uncomplicated OAI with favorable outcome (disappearance of fever and pain), short intravenous antibiotic therapy during 3 days can be followed by oral therapy. In t",
+        "journal": "Infectious diseases now",
+        "year": "2023",
+        "authors": [
+          "Lorrot Mathie",
+          "Gillet Yves",
+          "Basmaci Romain",
+          "Bréhin Camille",
+          "Dommergues Marie-Aliette"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Infant, Newborn",
+          "Child",
+          "Humans",
+          "Child, Preschool",
+          "Staphylococcus aureus",
+          "Discitis",
+          "Anti-Bacterial Agents",
+          "Communicable Diseases",
+          "Osteomyelitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37741341/"
+      },
+      {
+        "pmid": "34893452",
+        "title": "Inappropriate antibiotic administration in the setting of Charcot arthropathy: A case series and literature review.",
+        "abstract": "Differentiating Charcot neuropathic osteoarthropathy (CN) from infection is challenging. The diagnosis of CN is often missed or delayed, resulting in inappropriate and delayed treatment. We hypothesized that the misdiagnosis of CN results in inappropriate antibiotic prescriptions and explore the sequelae of unnecessary antibiotic use.",
+        "journal": "Primary care diabetes",
+        "year": "2022",
+        "authors": [
+          "Shazadeh Safavi Kiya",
+          "Janney Cory",
+          "Shazadeh Safavi Pejma",
+          "Kunzler Daniel",
+          "Jupiter Daniel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Arthropathy, Neurogenic",
+          "Diagnostic Errors",
+          "Humans",
+          "Inappropriate Prescribing",
+          "Peripheral Nervous System Diseases",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34893452/"
+      },
+      {
+        "pmid": "31528142",
+        "title": "Xanthogranulomatous Osteomyelitis of the Tibia.",
+        "abstract": "Background: Xanthogranulomatous osteomyelitis (XO) is a rare chronic inflammatory process that is histologically characterized by the presence of foamy macrophages, histiocytes, and plasma cells. Radiologic and gross examinations can mimic malignancy, so definitive diagnosis should be made by histopathologic evaluation. Case Report: A 15-year-old male presented with pain in the proximal right leg for 2 weeks prior to admission. The patient had a history of leg trauma 3 years prior that was responsive to as-needed analgesics. Laboratory data revealed increased erythrocyte sedimentation rate and C-reactive protein. X-ray of the right tibia showed a periosteal reaction and bulging of bone with a questionable destruction of the cortex. Magnetic resonance imaging demonstrated an expansile bony lesion in the proximal metaphysis of the tibia. Histopathologic examination showed the bone trabecula surrounded by chronic inflammatory cells and a fragment of dead bone surrounded by histiocytes, fo",
+        "journal": "Ochsner journal",
+        "year": "2019",
+        "authors": [
+          "Solooki Saeed",
+          "Hoveidaei Amir Human",
+          "Kardeh Bahareh",
+          "Azarpira Negar",
+          "Salehi Ehsan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31528142/"
+      },
+      {
+        "pmid": "38868304",
+        "title": "Variation in North American Infectious Disease Specialists' Practice Regarding Oral and Suppressive Antibiotics for Adult Osteoarticular Infections: Results of an Emerging Infections Network (EIN) Survey.",
+        "abstract": "Osteoarticular infections (OAIs) are commonly treated with prolonged intravenous (IV) antimicrobials. The Oral versus Intravenous Antibiotics for Bone and Joint Infection (OVIVA) trial demonstrated that oral (PO) antibiotics are noninferior to IV antibiotics in the treatment of OAIs. We surveyed infectious disease (ID) physicians about their use of PO antibiotics in the treatment of OAIs.",
+        "journal": "Open forum infectious diseases",
+        "year": "2024",
+        "authors": [
+          "Cortés-Penfield Nicolás",
+          "Beekmann Susan E",
+          "Polgreen Philip M",
+          "Ryan Keenan",
+          "Marschall Jonas"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38868304/"
+      },
+      {
+        "pmid": "35730963",
+        "title": "Cefadroxil Comparable to Cephalexin: Minimum Inhibitory Concentrations among Methicillin-Susceptible Staphylococcus aureus Isolates from Pediatric Musculoskeletal Infections.",
+        "abstract": "Cephalexin and cefadroxil are oral first-generation cephalosporins used to treat methicillin-susceptible Staphylococcus aureus (MSSA) infections. Despite its shorter half-life, cephalexin is more frequently prescribed, although cefadroxil is an appealing alternative, given its slower clearance and possibility for less frequent dosing. We report comparative MIC distributions for cefadroxil and cephalexin, as well as for oxacillin, cephalothin, ceftaroline, and cefazolin, for 48 unique clinical MSSA isolates from pediatric patients with musculoskeletal infections. Both cefadroxil and cephalexin had MIC50 values of 2 μg/mL and MIC90 values of 4 μg/mL. MIC50s for oxacillin, cephalothin, and ceftaroline were ≤0.25 μg/mL, and cefazolin's MIC50 was 0.5 μg/mL. While cefadroxil and cephalexin MICs are higher than those for other active agents, the distributions of MICs for cefadroxil and cephalexin are statistically equivalent, suggesting similar in vitro MSSA activities. Cefadroxil should be f",
+        "journal": "Microbiology spectrum",
+        "year": "2022",
+        "authors": [
+          "Haynes Andrew S",
+          "Prinzi Andrea",
+          "Silveira Lori J",
+          "Parker Sarah K",
+          "Lampe Jed N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Cefadroxil",
+          "Cefazolin",
+          "Cephalexin",
+          "Cephalothin",
+          "Child",
+          "Humans",
+          "Methicillin",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35730963/"
+      },
+      {
+        "pmid": "27520996",
+        "title": "Post-streptococcal reactive arthritis: where are we now.",
+        "abstract": "A 35-year-old man presented with polyarthritis and constitutional symptoms, and a recent history of multiple tick bites and skin rash on trekking holiday. He did not respond to oral doxycycline and cephalexine for presumed Lyme's disease. Further investigation confirmed strongly positive streptococcal serology. There was absence of clinical or echocardiography evidence of heart involvement and immunological screening for inflammatory arthritis was negative. In the absence of other major Jones criteria for acute rheumatic fever, besides polyarthritis and the serological evidence of a recent streptococcal infection, a diagnosis of post-streptococcal reactive arthritis (PSRA) was also made. He responded well to penicillin therapy and has been started on oral penicillin prophylaxis as per available guidance. As streptococcal infections in the adult population are increasingly reported, it is a timely opportunity to revisit PSRA, and develop comprehensive treatment and antibiotic prophylaxi",
+        "journal": "BMJ case reports",
+        "year": "2016",
+        "authors": [
+          "Pathak Himanshu",
+          "Marshall Tarnya"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Arthritis, Reactive",
+          "Diagnosis, Differential",
+          "Humans",
+          "Male",
+          "Penicillin V",
+          "Streptococcal Infections",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27520996/"
+      },
+      {
+        "pmid": "3931060",
+        "title": "Management of streptococcal pharyngitis reconsidered.",
+        "abstract": "Adequate treatment of GABHS pharyngitis with penicillin shortens the course of illness, reduces the spread of streptococci and prevents suppurative complications. It has also been a major factor in the markedly accelerated decline in the incidence of acute rheumatic fever in this country. Difficulties in the clinical diagnosis of GABHS pharyngitis make bacteriologic confirmation highly desirable. Currently a properly performed throat culture is the best way to obtain this bacteriologic confirmation. However, it is possible that rapid antigen detection tests will replace the throat culture in the future. These diagnostic tools should be used more selectively and only in conjunction with clinical and epidemiologic data. Greater selectivity will help control costs and will increase the chances of identifying patients who are truly infected and are not merely streptococcal carriers. Penicillin is still the drug of choice and an oral preparation given twice daily is as effective as more fre",
+        "journal": "Pediatric infectious disease",
+        "year": "1985",
+        "authors": [
+          "Gerber M A",
+          "Markowitz M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Cefadroxil",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Humans",
+          "Penicillin V",
+          "Penicillins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3931060/"
+      },
+      {
+        "pmid": "607395",
+        "title": "Cephalexin levels in serum, synovial fluid and joint tissues after oral administration.",
+        "abstract": "Cephalexin (1 g) was administered orally every 6 hours to 13 patients with rheumatoid arthritis and chronic knee effusions without bacterial arthritis. Samples were taken from blood, synovial fluid, synovium, cartilage and bone. The concentrations found in these samples after one oral dose were high enough to have a possible therapeutic effect in bacterial arthritis sensitive to cephalexin.",
+        "journal": "Scandinavian journal of rheumatology",
+        "year": "1977",
+        "authors": [
+          "Jalava S",
+          "Saarimaa H",
+          "Elfving R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Arthritis, Infectious",
+          "Bone and Bones",
+          "Cartilage",
+          "Cephalexin",
+          "Female",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/607395/"
+      },
+      {
+        "pmid": "4715912",
+        "title": "[Cephalexin in the treatment of bone and joint infections].",
+        "abstract": "",
+        "journal": "La Nouvelle presse medicale",
+        "year": "1973",
+        "authors": [
+          "Evrard J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Arthritis, Infectious",
+          "Bacteria",
+          "Cephalexin",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4715912/"
+      },
+      {
+        "pmid": "34525008",
+        "title": "One Affectionate Puppy: A Case of Septic Arthritis Due to Staphylococcus Pseudintermedius.",
+        "abstract": "We describe a case of septic arthritis caused by Staphylococcus pseudintermedius, a common colonizer of dogs that has emerged as a rare human pathogen. Our patient presented with ankle pain and swelling and was treated adequately with cefazolin/cephalexin and arthrotomy. S. pseudintermedius is often misidentified as other coagulase-positive staphylococcal species and has high rates of methicillin and nonpenicillin antibiotic resistance.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2021",
+        "authors": [
+          "Bowen Stephen",
+          "DeMarco Arielle",
+          "Villasis Lorillaine",
+          "Barsi James",
+          "Handel Andrew S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Arthritis, Infectious",
+          "Child",
+          "Dog Diseases",
+          "Dogs",
+          "Female",
+          "Humans",
+          "Methicillin Resistance",
+          "Staphylococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34525008/"
+      },
+      {
+        "pmid": "30287435",
+        "title": "An old disease re-emerging: acute rheumatic fever.",
+        "abstract": "We present the case of a 41-year-old Australian woman with a 3-day history of fevers and migratory polyarthritis. Three weeks prior she had been treated by her GP with phenoxymethylpenicillin for acute tonsillitis. Examination confirmed synovitis. Systemic assessment including cardiovascular, neurological and skin examination was unremarkable. Abnormal investigations included a leucocytosis with neutrophilia, C-reactive peptide of 116 mg/L, erythrocyte sedimentation rate of 103 mm/hour and acute transaminitis. The antistreptolysin O titre was 304 IU, which increased to 1,250 IU after 2 weeks. Troponin T, electrocardiogram and echocardiography were all normal. The patient was treated for acute rheumatic fever with corticosteroids and a 10-day course of cephalexin. After 8 weeks, she made a full recovery and had normalised inflammatory markers and liver biochemistry. She was then commenced on monthly prophylactic intramuscular benzathine penicillin. This case study aims to raise awarenes",
+        "journal": "Clinical medicine (London, England)",
+        "year": "2018",
+        "authors": [
+          "Khan Asim",
+          "Sutcliffe Nurhan",
+          "Jawad Ali Sm"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Arthritis",
+          "Female",
+          "Fever",
+          "Humans",
+          "Rheumatic Fever",
+          "Tonsillitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30287435/"
+      },
+      {
+        "pmid": "263883",
+        "title": "Treatment of osteomyelitis and septic arthritis with cefazolin.",
+        "abstract": "Sixteen cases of severe osteomyelitis and septic arthritis caused by staphylococci, streptococci, gonococci, and a variety of gram-negative bacilli were treated with 4 to 8 g of parenteral cefazolin per day; nine received subsequent therapy with oral cephalexin or ampicillin. Of 16 infections, 15 were apparently cured. Cefazolin concentrations in those patients were: serum (peak), 25 to 216 micrograms/ml; synovial fluid, 24 to 46 micrograms/ml; and bone, 3.2 to 10.6 micrograms/g. Bacterial pathogens had minimal inhibitory concentrations of cefazolin of 2 micrograms or less per ml and seemed to be eradicated from foci of infection during therapy. One infection in a diabetic patient did not respond; despite high concentrations of cefazolin in serum, no detectable antibiotic was present in her infected metatarsal, and the infecting Escherichia coli (minimal inhibitory concentration, 16 micrograms/ml) was not eradicated during therapy. Concentrations of cefazolin in bone in 10 uninfected p",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1978",
+        "authors": [
+          "Fass R J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Arthritis, Infectious",
+          "Bone and Bones",
+          "Cefazolin",
+          "Gonorrhea",
+          "Humans",
+          "Middle Aged",
+          "Osteomyelitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/263883/"
+      },
+      {
+        "pmid": "32360431",
+        "title": "Joint report of SBI (Brazilian Society of Infectious Diseases), FEBRASGO (Brazilian Federation of Gynecology and Obstetrics Associations), SBU (Brazilian Society of Urology) and SBPC/ML (Brazilian Society of Clinical Pathology/Laboratory Medicine): recommendations for the clinical management of lower urinary tract infections in pregnant and non-pregnant women.",
+        "abstract": "Urinary tract infection (UTI) is a common condition in women. There is an increased concern on reduction of bacterial susceptibility resulting from wrongly prescribing antimicrobials. This paper summarizes the recommendations of four Brazilian medical societies (SBI - Brazilian Society of Infectious Diseases, FEBRASGO - Brazilian Federation of Gynecology and Obstetrics Associations, SBU - Brazilian Society of Urology, and SBPC/ML - Brazilian Society of Clinical Pathology/Laboratory Medicine) on the management of urinary tract infection in women. Asymptomatic bacteriuria should be screened at least twice during pregnancy (early and in the 3rd trimester). All cases of significant bacteriuria (≥105CFU/mL in middle stream sample) should be treated with antimicrobials considering safety and susceptibility profile. In women with typical symptoms of cystitis, dipsticks are not necessary for diagnosis. Urine cultures should be collected in pregnant women, recurrent UTI, atypical cases, and if ",
+        "journal": "The Brazilian journal of infectious diseases : an official publication of the Brazilian Society of Infectious Diseases",
+        "year": "2020",
+        "authors": [
+          "de Rossi Patricia",
+          "Cimerman Sergio",
+          "Truzzi José Carlos",
+          "Cunha Clóvis Arns da",
+          "Mattar Rosiane"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Female",
+          "Humans",
+          "Practice Guidelines as Topic",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious",
+          "Societies, Medical",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32360431/"
+      },
+      {
+        "pmid": "7130382",
+        "title": "Benefits and risks of sequential parenteral--oral cephalosporin therapy for suppurative bone and joint infections.",
+        "abstract": "Seventy-five infants and children with suppurative skeletal infections were managed with a sequential parenteral-oral regimen of cephalosporin antibiotic therapy. Initially, parenteral antibiotics (cefamandole for 48 patients and cefuroxime for 27 patients) were given for a median of 5 days. Oral therapy was with large doses of cefaclor (150 mg/kg/day) or cephalexin (100 mg/kg/day). Eight patients (11%) had inadequate serum bactericidal activity with cefaclor. Six of them were successfully managed with alternative oral antibiotics, and parenteral therapy resumed in one patient. Chronic disease developed in a child who was continued on oral cloxacillin therapy in spite of absent serum bactericidal activity. It is concluded that oral therapy can be successful for the majority of patients but that it is hazardous and not indicated if careful laboratory monitoring of compliance and serum bactericidal activity cannot be performed.",
+        "journal": "Journal of pediatric orthopedics",
+        "year": "1982",
+        "authors": [
+          "Nelson J D",
+          "Bucholz R W",
+          "Kusmiesz H",
+          "Shelton S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Oral",
+          "Arthritis, Infectious",
+          "Bacterial Infections",
+          "Cefaclor",
+          "Cefamandole",
+          "Cefuroxime",
+          "Cephalexin",
+          "Cephalosporins",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7130382/"
+      },
+      {
+        "pmid": "36911022",
+        "title": "Impact of guidelines implementation on empiric antibiotic treatment for pediatric uncomplicated osteomyelitis and septic arthritis over a ten-year period: Results of the ELECTRIC study (ostEomyeLitis and sEptiC arThritis tReatment in children).",
+        "abstract": "Due to the growing evidence of the efficacy of intravenous (IV) cefazolin with an early switch to oral cefalexin in uncomplicated pediatric osteomyelitis (OM) and septic arthritis (SA) in children, we changed our guidelines for empiric antibiotic therapy in these conditions. This study aims at evaluating the impact of the guidelines' implementation in reducing broad-spectrum antibiotic prescriptions, duration of IV antibiotic treatment and hospital stay, treatment failure and recurrence.",
+        "journal": "Frontiers in pediatrics",
+        "year": "2023",
+        "authors": [
+          "Minotti Chiara",
+          "Tirelli Francesca",
+          "Guariento Chiara",
+          "Sturniolo Giulia",
+          "Giaquinto Carlo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36911022/"
+      },
+      {
+        "pmid": "32398570",
+        "title": "Frequency of Dosing of Cephalexin for Oral Step-Down Therapy of Pediatric Osteoarticular Infections Caused by Methicillin-Sensitive Staphylococcus Aureus.",
+        "abstract": "Osteoarticular infections are one of the more common invasive bacterial infections encountered in children. There exist significant practice variations in both the diagnosis and treatment of such infections. However, the practice of transitioning from parenteral therapy to oral antibiotics has been well validated by several studies. For methicillin-sensitive Staphylococcus aureus (MSSA), cephalexin is often recommended. Prospective, controlled data regarding optimal dosing of cephalexin in pediatric osteomyelitis are not available. We sought to review our retrospective, uncontrolled data on four times daily (QID) versus three times daily (TID) dosing of cephalexin for pediatric osteoarticular infections. Children ≥1 month to <18 years of age admitted to Rady Children's Hospital-San Diego with a diagnosis of osteomyelitis or septic arthritis between January 1, 2002, and November 30, 2007, were identified and previously reported. Only patients with culture-positive MSSA infections are in",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2020",
+        "authors": [
+          "Ramchandar Nanda",
+          "Arnold John",
+          "Cannavino Chris",
+          "Bradley John S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Arthritis, Infectious",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Drug Administration Schedule",
+          "Electronic Health Records",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32398570/"
+      },
+      {
+        "pmid": "16687984",
+        "title": "It's on the tip of my tongue.",
+        "abstract": "A 48-year-old white woman was admitted to the hospital with low-grade fever, night sweats, fatigue, nonproductive cough with dyspnea, bilateral knee pain, and swelling that progressed slowly over 6 weeks. She was a 30-pack-year smoker, and had received outpatient antibiotic therapy with clarithromycin and then cephalexin without improvement. The admission chest radiograph showed bilateral interstitial infiltrates, and an effusion was seen on knee radiographs. She was treated with levofloxacin, cefepime, and methylprednisolone with some improvement, but fevers persisted up to 104 degrees F/40 degrees C. She also developed multiple painful skin nodules (Figure 1) and an enlarging painful tongue ulcer (Figure 2). Her bilateral knee swelling and pain also worsened, and a bone scan showed increased activity. Skin biopsy showed acute and chronic inflammation with an abscess that contained \"yeast\" (Figure 3). Fungal culture from the skin lesion and joint fluid aspirate grew Blastomyces dermat",
+        "journal": "Skinmed",
+        "year": "2006",
+        "authors": [
+          "Bernstein Jack M",
+          "Bacheller Catherine D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Blastomyces",
+          "Blastomycosis",
+          "Diagnosis, Differential",
+          "Fatigue",
+          "Female",
+          "Fever",
+          "Humans",
+          "Joint Diseases",
+          "Middle Aged",
+          "Mouth Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16687984/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:58:16.162342",
+  "success": true,
+  "error_message": null
+}

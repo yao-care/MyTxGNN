@@ -1,0 +1,213 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "staphylococcus aureus infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00179959",
+      "title": "The Impact of Treating Staphylococcus Aureus Infection and Colonization on the Clinical Severity of Atopic Dermatitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Staphylococcus aureus (S. aureus) infection is perceived not only as a common secondary complication of atopic dermatitis (AD), but also as a culprit in the worsening of this condition. In addition, the recent development of community acquired methicillin-resistant S. aureus (CA-MRSA) has presented a new challenge to our management of AD, both in treatment of acute infections and maintenance therapy. The investigators would like to perform a randomized investigator-blinded placebo-controlled stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6 months to 17 years of age\n* Moderate to severe atopic dermatitis\n\nExclusion Criteria:\n\n* Use of cephalexin or other antibiotic in last 6 weeks\n* Allergy to cephalosporins",
+      "endpoints": [
+        "Change in Eczema Area and Severity Index (EASI)Scores According to Location"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00179959"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00729937",
+      "title": "Strategies Using Off-Patent Antibiotics for Methicillin-Resistant Staphylococcus Aureus (\"STOP MRSA\") - A Phase IIB, Multi-Center, Randomized, Double-Blind Clinical Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 2265,
+      "brief_summary": "The purpose of this study is to determine the optimal outpatient treatment strategy of uncomplicated skin and soft tissue infection (SSTI) in areas of the United States where the prevalence of Community-Acquired Methicillin-Resistant Staphylococcus (S.) aureus (CA-MRSA) is high. Infection with the S. aureus bacteria that is resistant to antibiotics is a cause of SSTIs. Three oral antibiotics will be tested for off patent treatment. Patients will receive Trimethoprim/Sulfamethoxazole (TMP/SMX), p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult or child 13 years of age and older (who weighs greater than or equal to 40 kg);\n* Have a skin and soft tissue infection (SSTI) with all three local findings of erythema (\\> 2 cm across the lesion or from a discrete wound edge), tenderness, and swelling/induration. Fever,",
+      "endpoints": [
+        "Number of Participants With Clinical Cure as of the Test-of-Cure (TOC) Visit in the Per Protocol Population"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00729937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00676130",
+      "title": "Randomized Trial of Trimethoprim-Sulfamethoxazole Versus Placebo Added to Standard Treatment of Uncomplicated Cellulitis in Emergency Department Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 153,
+      "brief_summary": "The primary aim of this study is to quantify the effectiveness of Bactrim as additional therapy for the treatment of uncomplicated cellulitis in adults, by comparing: standard therapy plus Bactrim, versus standard therapy plus placebo.\n\nThe primary hypothesis of this study is that, in light of increasing CA-MRSA prevalence, subjects treated with standard therapy plus Bactrim will have higher cure rates than those treated with standard therapy plus placebo.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Must have cellulitis as defined here:\n\n  1. Definition A (preferred definition):\n\n     Recent onset of soft tissue erythema, considered by the treating clinician to be bacterial in origin, and associated with signs of infection that include at least two of the following: pain, ",
+      "endpoints": [
+        "Relative Efficacy"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00676130"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00388310",
+      "title": "Effective Duration of Antibiotic Treatment of Community-Acquired Methicillin-Resistant Staphylococcus Aureus (MRSA)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "To evaluate the effective duration (in days) to clinical improvement of outpatient antibiotic regimens in the treatment of superficial abscesses caused by MRSA in patients that present to the emergency department.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients age 18 and older, presenting to the emergency department with an abscess with a diameter greater than three centimeters\n* Informed consent\n\nExclusion Criteria:\n\n* Patients who are presumed to have community-acquired pathogens\n* Under 18\n* Abscess less than three c",
+      "endpoints": [
+        "To determine the effective duration of treatment of different antibiotic regimens in the treatment of abscess with regards to resolution of patient symptoms and signs.",
+        "Treatment failure will be defined as an increase in patient symptoms, increase in abscess size, development of constitutional symptoms, or hospitalization secondary to abscess complications"
+      ],
+      "sponsor": "Christiana Care Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT00388310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02814916",
+      "title": "A Phase 3, Multicenter, Open-Label, Randomized, Comparator Controlled Trial of the Safety and Efficacy of Dalbavancin Versus Active Comparator in Pediatric Subjects With Acute Bacterial Skin and Skin Structure Infections",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-03-30",
+      "completion_date": "2024-01-01",
+      "country": "Bulgaria, Brazil, Spain, Mexico, Russia, Chile, Latvia, Romania, Lithuania, South Africa, Greece, Belarus, Georgia, Ukraine, Poland, Colombia, Guatemala, Argentina, United States, Panama",
+      "enrollment": 199,
+      "brief_summary": "To determine the safety and descriptive efficacy of dalbavancin for the treatment of acute bacterial skin and skin structure infections in children, aged birth to 17 years (inclusive), known or suspected to be caused by susceptible Gram-positive organisms, including methicillin-resistant strains of Staphylococcus aureus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients birth to 17 years (inclusive)\n* A clinical picture compatible with Acute Bacterial Skin and Skin Structure Infections (ABSSSI) suspected or confirmed to be caused by Gram-positive bacteria, including Methicillin-resistant Staphylococcus aureus (MRSA).\n*",
+      "endpoints": [
+        "Shift From Baseline in Distortion Product Otoacoustic Emission at TOC Visit",
+        "Shift From Baseline in Auditory Brainstem Response Test at TOC Visit",
+        "Shift From Baseline in Acoustic Immittance Test at TOC Visit"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02814916"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04553419",
+      "title": "Antibiotic Treatment Of Staphylococcus Aureus In Stable People With CF (ASAP-CF) Clinical Research Protocol",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-27",
+      "completion_date": "2025-06-30",
+      "country": "Canada",
+      "enrollment": 86,
+      "brief_summary": "This is a randomized, double-blinded study that aims to assess the effect of an oral antibiotic called Cephalexin (150 mg/kg/day) compared to placebo in clinically stable children with cystic fibrosis who have grown a bacteria called MSSA (methicillin-susceptible Staphylococcus aureus) over the course of 2 weeks.\n\nA sensitive technique called MBW (multiple breath washout) will be used to look at how well the participants lungs are functioning during the study and to see if the antibiotic improve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of CF as evidenced by one or more clinical feature consistent with the CF phenotype or positive CF newborn screen AND one or more of the following criteria:\n\n   1. A documented sweat chloride ≥ 60 mEq/L by quantitative pilocarpine iontophoresis (QPIT)\n   2. A docume",
+      "endpoints": [
+        "The relative change in LCI2.5 between day 0 and day 14 (relative change = [LCI2.5 at day 14-LCI2.5 at day 0]/LCI2.5 at day 0)."
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT04553419"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06207786",
+      "title": "Efficacy of Intranasal Povidone Iodine Swab Versus Oral Antibiotic Prophylaxis to Prevent Surgical Site Infections in Patients Undergoing Mohs Micrographic Surgery",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2024-09-01",
+      "completion_date": "2030-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to compare surgical site infection rates for patients treated with Mohs micrographic surgery after bilateral nasal swab with povidone iodine versus standard treatment including the use of a standardized oral antibiotic prophylaxis protocol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-pregnant, non-lactating/breastfeeding, non-incarcerated, English-speaking persons undergoing Mohs micrographic surgery (MMS) for malignant cutaneous neoplasms and receiving same-day defect repair by the MMS-performing surgeon\n* Able to provide written informed consent prio",
+      "endpoints": [
+        "Effectiveness of nasal decolonization with povidone-iodine versus a standardized oral antibiotic prophylaxis protocol to prevent surgical site infection (SSI)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT06207786"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06336824",
+      "title": "Early Intravenous to Oral Antibiotic Switch in Uncomplicated Staphylococcus Aureus Bacteraemia: The EVOS Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06-28",
+      "completion_date": "2025-06",
+      "country": "Malaysia",
+      "enrollment": 290,
+      "brief_summary": "The Early Intravenous to Oral Antibiotic Switch in Uncomplicated Staphylococcus aureus Bacteraemia (EVOS) study is a multicentre, randomized, open-label, parallel group, phase 3, non-inferiority trial of early intravenous to oral antibiotic switch in comparison with standard intravenous antibiotic regime among patients with uncomplicated Staphylococcus aureus bacteraemia (SAB). The study is based on the hypothesis that an early switch from IV to oral antimicrobial therapy is non-inferior and saf",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Blood culture positive for Staphylococcus aureus (S. aureus).\n2. Received 3 to 7 days of definitive IV antimicrobial therapy, defined as:\n\n   * Cloxacillin or cefazolin for methicillin-sensitive staphylococcus aureus (MSSA); Vancomycin or ceftaroline for methicillin-resistant",
+      "endpoints": [
+        "Rate of SAB-relapse"
+      ],
+      "sponsor": "Clinical Research Centre, Malaysia",
+      "url": "https://clinicaltrials.gov/study/NCT06336824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00187759",
+      "title": "A Placebo Controlled, Randomized, and Blinded Study of Antibiotic Treatment of Patients With Uncomplicated Soft Tissue Infection",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2005-03",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "This study is to determine whether antibiotic therapy is needed for patients with non-life threatening soft tissue infections. Most patients with these soft tissue infections are presently treated with antibiotics. Many of these infections resolve without proper antibiotic treatment. Treatment of patients with antibiotics after surgical drainage of an abscess may not be necessary and indiscriminate use of antibiotics may lead to colonization by drug-resistant organisms. Subsequent infection by d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients must have a complicated skin or skin-structure infection that meets disease diagnostic criteria (severity, definition of complicated, and disease).\n\nSEVERITY: Complicated soft tissue infections must be of sufficient severity to anticipate five or more days of anti",
+      "endpoints": [
+        "Cure of soft tissue infection."
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00187759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01229553",
+      "title": "Effect of Topical and Systemic Decolonization of Staphylococcus Aureus (SA) in Pediatric Cystic Fibrosis (CF) Patients at the CF Center at SUNY Upstate Medical University, Syracuse, NY.",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2011-01",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary objective of this study is to measure efficacy of our new protocol by monitoring the results of our routine respiratory cultures at the end of the new standard treatment, and during routine visits for 1 year from initiation of therapy for Staphylococcus aureus. The secondary objective will include determining the clinical course (pulmonary exacerbations, antibiotic use, hospitalizations, pulmonary function tests) of patients who underwent the protocol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEligible participants will include all patients with CF who test positive for SA from respiratory tract culture (throat, nares or expectorated sputum) and are 2-23 months of age at protocol presentation.\n\nExclusion Criteria:\n\nPatients co-infected with other bacteria (e.g. Pseudo",
+      "endpoints": [
+        "To measure the efficacy of a decolonization regimen to eliminate SA from nares, oropharynx and sputum of pediatric CF patients (2-23 months of age)."
+      ],
+      "sponsor": "State University of New York - Upstate Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT01229553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352612",
+      "title": "Comparison of Cephalexin Versus Clindamycin in the Empiric, Outpatient Treatment of Suspected Staphylococcal Cutaneous Infections in the Era of Community-associated Methicillin-resistant Staphylococcus Aureus (CA-MRSA)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to help define the role of antibiotics in the treatment of pediatric skin infections caused by community-associated methicillin-resistant Staphylococcus aureus (CA-MRSA). The investigators hypothesize that treatment with cephalexin, a penicillin-like antibiotic to which CA-MRSA would be expected to be resistant, does not result in poorer outcomes than treatment with clindamycin, an antibiotic to which CA-MRSA is most often susceptible.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children between the ages of 6 months and 18 years of age (inclusive)\n* Suspected purulent staphylococcal skin or soft tissue infection\n* No hospitalization within the previous 14 days\n* Must have reliable means of follow-up contact (e.g. working phone)\n* Outpatient management",
+      "endpoints": [
+        "Clinical Improvement at the 48-72 Hour Clinical Follow-up"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT00352612"
+    }
+  ],
+  "timestamp": "2026-03-04T16:58:27.661356",
+  "success": true,
+  "error_message": null
+}

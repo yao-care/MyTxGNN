@@ -1,0 +1,621 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fenofibrate",
+    "disease": "familial hyperlipidemia",
+    "query_string": "Fenofibrate AND familial hyperlipidemia"
+  },
+  "data": {
+    "query": "Fenofibrate AND familial hyperlipidemia",
+    "results": [
+      {
+        "pmid": "37762244",
+        "title": "Postprandial Hyperlipidemia: Its Pathophysiology, Diagnosis, Atherogenesis, and Treatments.",
+        "abstract": "Postprandial hyperlipidemia showing postprandial increases in serum triglyceride (TG) is associated with the development of atherosclerotic cardiovascular disease (ASCVD). To diagnose postprandial hyperlipidemia, the oral fat loading test (OFLT) should be performed; however, this test is very time-consuming and is difficult to perform. Elevated serum TG levels reflect an increase in TG-rich lipoproteins (TRLs), such as chylomicrons (CM), very low-density lipoproteins (VLDL), and their remnants (CM remnants [CMRs] and VLDL remnants [VLDLRs]). Understanding of elevation in CMR and/or VLDLR can lead us to understand the existence of postprandial hyperlipidemia. The measurement of apo B48, which is a constituent of CM and CMR; non-fasting TG, which includes TG content in all lipoproteins including CM and CMR; non-high-density lipoprotein cholesterol (non-HDL-C), which includes TRLs and low-density lipoprotein; and remnant cholesterol are useful to reveal the existence of postprandial hyper",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Yanai Hidekatsu",
+          "Adachi Hiroki",
+          "Hakoshima Mariko",
+          "Katsuyama Hisayuki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hyperlipidemias",
+          "Diabetes Mellitus, Type 2",
+          "Lipoproteins",
+          "Triglycerides",
+          "Lipoproteins, VLDL",
+          "Atherosclerosis",
+          "Postprandial Period"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37762244/"
+      },
+      {
+        "pmid": "38459255",
+        "title": "A novel mouse model of familial combined hyperlipidemia and atherosclerosis.",
+        "abstract": "Within the context of residual cardiovascular risk in post-statin era, emerging evidence from epidemiologic and human genetic studies have demonstrated that triglyceride (TG)-rich lipoproteins and their remnants are causally related to cardiovascular risk. While, carriers of loss-of-function mutations of ApoC3 have low TG levels and are protected from cardiovascular disease (CVD). Of translational significance, siRNAs/antisense oligonucleotide (ASO) targeting ApoC3 is beneficial for patients with atherosclerotic CVD. Therefore, animal models of atherosclerosis with both hypercholesterolemia and hypertriglyceridemia are important for the discovery of novel therapeutic strategies targeting TG-lowering on top of traditional cholesterol-lowering. In this study, we constructed a novel mouse model of familial combined hyperlipidemia through inserting a human ApoC3 transgene (hApoC3-Tg) into C57BL/6 J mice and injecting a gain-of-function variant of adeno-associated virus-proprotein convertas",
+        "journal": "Acta pharmacologica Sinica",
+        "year": "2024",
+        "authors": [
+          "Chen Mei-Jie",
+          "Xu Yi-Tong",
+          "Sun Lu",
+          "Wang Zhi-Hua",
+          "Little Peter J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Atherosclerosis",
+          "Disease Models, Animal",
+          "Mice, Inbred C57BL",
+          "Humans",
+          "Mice",
+          "Mice, Transgenic",
+          "Hyperlipidemia, Familial Combined",
+          "Apolipoprotein C-III",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38459255/"
+      },
+      {
+        "pmid": "9526816",
+        "title": "Long-term efficacy and safety of fenofibrate and a statin in the treatment of combined hyperlipidemia.",
+        "abstract": "To assess the long-term efficacy and use of fenofibrate together with a 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitor (\"statin\") in the treatment of elevated levels of triglycerides and low-density lipoprotein (LDL) cholesterol, we conducted a study that compared a before- and after-case series. The study involved 80 patients with a diagnosis of combined hyperlipidemia and existing coronary artery disease (81% of patients) or outpatients with > or = 3 risk factors for coronary artery disease who had been receiving treatment at a tertiary care center. Fasting biochemical measures were obtained at baseline during monotherapy with a statin consisting of pravastatin 20 mg once daily or simvastatin 10 mg once daily (39 patients) or fenofibrate 300 mg once daily (41 patients), and during a 2-year period of combination therapy. This combination therapy comprised fenofibrate 300 mg once daily or micronized fenofibrate 200 mg once daily taken together with pravastatin 20 m",
+        "journal": "The American journal of cardiology",
+        "year": "1998",
+        "authors": [
+          "Ellen R L",
+          "McPherson R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Coronary Disease",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemia, Familial Combined",
+          "Hypolipidemic Agents",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9526816/"
+      },
+      {
+        "pmid": "3709644",
+        "title": "Fenofibrate and colestipol: effects on serum and lipoprotein lipids and apolipoproteins in familial hypercholesterolaemia.",
+        "abstract": "Effects on serum lipoproteins were studied in ten patients with familial hypercholesterolaemia (FH) during consecutive eight-week treatment periods with fenofibrate 0.3 g/day, fenofibrate plus colestipol, 15 g/day, and fenofibrate 0.25 g/day plus colestipol. VLDL, LDL, HDL, HDL2, and HDL3 were isolated by ultracentrifugation and precipitation. Lipids and apolipoproteins A-I and B were determined by enzymatic and immunonephelometric techniques, respectively. Administration of fenofibrate alone resulted in decreases in VLDL and LDL cholesterol (-48% and -18%) and in serum apolipoprotein B (-10%), but in increases in HDL, HDL2, and HDL3 (+25%, +26%, and +24%), and in serum apolipoprotein A-I (+6%). Addition of colestipol produced a further reduction in LDL cholesterol (-31%) and in serum apolipoprotein B (-19%). The effects were maintained with less fenofibrate. In FH, an acceptable therapy combines the favourable effects of sufficient lowering of LDL and of a rise in HDL.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "1986",
+        "authors": [
+          "Weisweiler P",
+          "Merk W",
+          "Jacob B",
+          "Schwandt P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Apolipoproteins",
+          "Body Weight",
+          "Cholesterol",
+          "Cholesterol, HDL",
+          "Colestipol",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipoproteinemia Type II"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3709644/"
+      },
+      {
+        "pmid": "15695129",
+        "title": "Effectiveness and tolerability of simvastatin plus fenofibrate for combined hyperlipidemia (the SAFARI trial).",
+        "abstract": "Patients with combined hyperlipidemia (elevated triglyceride [TG] levels, elevated low-density lipoprotein [LDL] cholesterol, and multiple lipoprotein abnormalities) are at increased risk for coronary heart disease. We conducted a multicenter (in the United States), randomized, double-blind, active-controlled, 18-week study to determine if combination therapy with simvastatin plus fenofibrate is more effective in reducing elevated TG levels, thus improving the lipoprotein pattern in patients with combined hyperlipidemia compared with simvastatin monotherapy, and to evaluate safety and tolerability. Patients (aged 21 to 68 years) with a diagnosis of combined hyperlipidemia (fasting TG levels >/=150 and </=500 mg/dl, and LDL cholesterol >130 mg/dl) received simvastatin monotherapy (20 mg/day, n = 207) or simvastatin 20 mg plus fenofibrate (160 mg/day) combination therapy (n = 411) for 12 weeks following a 6-week diet and placebo run-in period. From baseline to week 12, median TG levels d",
+        "journal": "The American journal of cardiology",
+        "year": "2005",
+        "authors": [
+          "Grundy Scott M",
+          "Vega Gloria L",
+          "Yuan Zhong",
+          "Battisti Wendy P",
+          "Brady William E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alanine Transaminase",
+          "Apolipoproteins",
+          "Aspartate Aminotransferases",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fenofibrate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15695129/"
+      },
+      {
+        "pmid": "16630994",
+        "title": "Safety and efficacy of long-term co-administration of fenofibrate and ezetimibe in patients with mixed hyperlipidemia.",
+        "abstract": "This study sought to determine the long-term safety and efficacy of co-administered fenofibrate (FENO) and ezetimibe (EZE) in patients with mixed hyperlipidemia.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": "2006",
+        "authors": [
+          "McKenney James M",
+          "Farnier Michel",
+          "Lo Kwok-Wing",
+          "Bays Harold E",
+          "Perevozkaya Inna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Female",
+          "Fenofibrate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16630994/"
+      },
+      {
+        "pmid": "17950105",
+        "title": "Comparison of atorvastatin versus fenofibrate in reaching lipid targets and influencing biomarkers of endothelial damage in patients with familial combined hyperlipidemia.",
+        "abstract": "Statins and fibrates have different effects on lipid abnormalities of familial combined hyperlipidemia (FCHL); thus, the selection of the first-line drug is troublesome. We evaluated to what extent monotherapy with a potent statin is more effective than fibrate in reaching the recommended lipid targets in FCHL. Fifty-six patients were randomized to receive optimal dosage of atorvastatin (n = 27) or 200 mg/d micronized fenofibrate (n = 29) for 24 weeks. To reach the optimal dosage, atorvastatin was up-titrated at each follow-up visit if low-density lipoprotein (LDL) cholesterol >130 mg/dL (>100 mg/dL in patients with coronary or cerebrovascular disease). The effects of fenofibrate and atorvastatin on lipoprotein fractions as well as on plasma levels of endothelin-1 (ET-1) and adrenomedullin (AM) were also evaluated. At end of trial, a greater proportion of patients on atorvastatin (average dosage, 20.8 mg/d) reached lipid targets in comparison with those on fenofibrate (64% vs 32.1%, P ",
+        "journal": "Metabolism: clinical and experimental",
+        "year": "2007",
+        "authors": [
+          "Arca Marcello",
+          "Montali Anna",
+          "Pigna Giovanni",
+          "Antonini Roberto",
+          "Antonini Teresa Maria"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atorvastatin",
+          "Biomarkers",
+          "Endothelin-1",
+          "Endothelium, Vascular",
+          "Female",
+          "Fenofibrate",
+          "Heptanoic Acids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17950105/"
+      },
+      {
+        "pmid": "6529448",
+        "title": "Effect of fenofibrate on serum lipoproteins in subjects with familial hypercholesterolemia and combined hyperlipidemia.",
+        "abstract": "The effects on serum lipoproteins were studied in 8 patients with familial heterozygous hypercholesterolemia and 9 patients with familial combined hyperlipidemia during an 8-week treatment with fenofibrate. VLDL, IDL, LDL and HDL were isolated by ultracentrifugation and precipitation. Lipids and apolipoproteins A-I and B were determined by enzymatic and immunonephelometric techniques, respectively. In hypercholesterolemia, administration of fenofibrate resulted in decreases of VLDL, IDL, and LDL (cholesterol -58.3%, -28.6%, and -24.4%), while, in combined hyperlipidemia, treatment with the drug lowered VLDL and IDL (-33.3% and -42.9%). HDL cholesterol and apolipoprotein A-I increased only in hypercholesterolemia (+22.9% and +6.9%).",
+        "journal": "Atherosclerosis",
+        "year": "1984",
+        "authors": [
+          "Weisweiler P",
+          "Merk W",
+          "Janetschek P",
+          "Schwandt P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Apolipoproteins",
+          "Female",
+          "Humans",
+          "Hyperlipidemia, Familial Combined",
+          "Hyperlipoproteinemia Type II",
+          "Hypolipidemic Agents",
+          "Lipoproteins",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6529448/"
+      },
+      {
+        "pmid": "17291993",
+        "title": "Increased plasma levels of oxysterols, in vivo markers of oxidative stress, in patients with familial combined hyperlipidemia: reduction during atorvastatin and fenofibrate therapy.",
+        "abstract": "Familial combined hyperlipidemia (FCHL), the most common inherited disorder of lipid metabolism, is associated with an increased risk of atherosclerosis that is not fully explained by the metabolic disturbances of these patients. Oxidative damage to lipid components accumulating in the plasma of FCHL patients might contribute to explaining this lack of evidence. Cholesterol is one of the preferential targets of oxidation in LDL and this may contribute to setting a proatherogenetic phenotype in FCHL. We investigated plasma oxysterols (7-ketocholesterol and 7beta-hydroxycholesterol) and alpha-tocopherol as in vivo hallmarks of lipid-related oxidative stress. Oxidative stress hallmarks were measured in 45 FCHL patients and 54 sex- and age-matched healthy controls; in FCHL patients, oxidative stress and lipid profile parameters were also assessed in response to lipid-lowering drugs in a 24-week randomized, open-label trial with atorvastatin or fenofibrate. FCHL patients showed markedly inc",
+        "journal": "Free radical biology & medicine",
+        "year": "2007",
+        "authors": [
+          "Arca Marcello",
+          "Natoli Silvia",
+          "Micheletta Fausta",
+          "Riggi Sara",
+          "Di Angelantonio Emanuele"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Atorvastatin",
+          "Biomarkers",
+          "Drug Combinations",
+          "Female",
+          "Fenofibrate",
+          "Heptanoic Acids",
+          "Humans",
+          "Hydroxycholesterols",
+          "Hyperlipidemia, Familial Combined"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17291993/"
+      },
+      {
+        "pmid": "14612213",
+        "title": "Efficacy of fenofibrate and simvastatin on endothelial function and inflammatory markers in patients with combined hyperlipidemia: relations with baseline lipid profiles.",
+        "abstract": "Given that combination therapy with statin plus fibrate confers a risk of myopathy, it is worthwhile to determine whether statin or fibrate monotherapy is associated with greater clinical benefit in individuals with combined hyperlipidemia. In this randomized double-blind study, we compared the efficacy of simvastatin and fenofibrate on indexes of endothelial function (flow-mediated dilation (FMD) of the brachial artery) and inflammatory markers (plasma high-sensitivity C-reactive protein (CRP), interleukin-1 beta (IL-1 beta), soluble CD40, and soluble CD40 ligand (sCD40L) levels), as surrogate indicators of future coronary heart disease (CHD), in patients with combined hyperlipidemia. A total of 70 patients with plasma triglyceride levels between 200 and 500 mg/dl and total cholesterol levels of >200 mg/dl were randomly assigned to receive either simvastatin (20 mg/day) (n=35) or micronized fenofibrate (200 mg/day) (n=35) for 8 weeks. Treatment with simvastatin was associated with sig",
+        "journal": "Atherosclerosis",
+        "year": "2003",
+        "authors": [
+          "Wang Tzung-Dau",
+          "Chen Wen-Jone",
+          "Lin Jong-Wei",
+          "Cheng Ching-Chih",
+          "Chen Ming-Fong"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "C-Reactive Protein",
+          "CD40 Antigens",
+          "CD40 Ligand",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Endothelium, Vascular",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14612213/"
+      },
+      {
+        "pmid": "3760707",
+        "title": "Biliary lipid secretion in patients with heterozygous familial hypercholesterolemia and combined hyperlipidemia. Influence of bezafibrate and fenofibrate.",
+        "abstract": "Serum and biliary lipid metabolism were examined in 13 patients with different types of hyperlipoproteinemia before and after 4 weeks of treatment with either bezafibrate or fenofibrate. In patients with heterozygous familial hypercholesterolemia (FH), bezafibrate (n = 5) and fenofibrate (n = 7) produced a similar significant reduction of total cholesterol, LDL-cholesterol, and triglycerides by 21, 23, and 32%, respectively. In patients with familial combined hyperlipidemia (CHL), only triglycerides decreased markedly. Biliary lipid secretion rates in patients with heterozygous FH were not different from those of young male volunteers, indicating that a reduction of hepatic LDL receptors did not affect hepatic elimination of cholesterol or bile acids. Biliary cholesterol secretion increased significantly from 57 to 75 mg/hr during bezafibrate therapy (n = 8) and from 62 to 71 mg/hr during fenofibrate therapy (n = 9). No consistent change in bile acid or phospholipid secretion was obser",
+        "journal": "Journal of lipid research",
+        "year": "1986",
+        "authors": [
+          "Leiss O",
+          "Meyer-Krahmer K",
+          "von Bergmann K"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bezafibrate",
+          "Bile",
+          "Bile Acids and Salts",
+          "Cholesterol",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Female",
+          "Fenofibrate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3760707/"
+      },
+      {
+        "pmid": "16337207",
+        "title": "Effects of fenofibrate on apolipoprotein kinetics in patients with coexisting dysbetalipoproteinemia and heterozygous familial hypercholesterolemia.",
+        "abstract": "Dysbetalipoproteinemia (dysb) and familial hypercholesterolemia (FH) are two genetic disorders giving rise to severe disturbances of lipid homeostasis and premature atherosclerosis. The co-occurrence of both metabolic abnormalities is very rare and is estimated to affect 1 individual per 2,500,000 in the general population. However, the relative contribution of these two dyslipidemias to the combined lipoprotein phenotype is unknown. The two objectives of this study were (1) to compare the in vivo kinetics of triglyceride-rich lipoprotein (TRL) apolipoprotein (apo) B48, VLDL, IDL and LDL apo B100 as well as plasma apo A-l labelled with a stable isotope (l-(5,5,5-D3) leucine) in two subjects presenting both heterozygous FH and dysbetalipoproteinemia (FH+/dysb+), in six FH heterozygotes and in five normolipidemic controls, and (2) to examine the impact of a 6-week treatment with micronized fenofibrate 200 mg/d on apolipoprotein kinetics in FH+/dysb+. As compared with FH heterozygotes and",
+        "journal": "Atherosclerosis",
+        "year": "2006",
+        "authors": [
+          "Tremblay André J",
+          "Lamarche Benoît",
+          "Ruel Isabelle L",
+          "Hogue Jean-Charles",
+          "Deshaies Yves"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Apolipoprotein A-I",
+          "Apolipoprotein B-100",
+          "Apolipoprotein B-48",
+          "Apolipoproteins",
+          "Fenofibrate",
+          "Heterozygote",
+          "Humans",
+          "Hyperlipoproteinemia Type II",
+          "Hyperlipoproteinemia Type III"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16337207/"
+      },
+      {
+        "pmid": "22404421",
+        "title": "Fenofibric acid for hyperlipidemia.",
+        "abstract": "3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors (i.e., statins) are the mainstay of therapy for hyperlipidemia, as per the current National Cholesterol Education Program (NCEP) recommendation. However, the role of other agents, such as the fibrates, is continually being debated in the context of incremental risk reduction, especially in the setting of mixed dyslipidemia. Results from the ACCORD Trial have further added to the confusion. Fibrates also have a role to play in familial hyperlipidemias and in hypertriglyceridemia. Fenofibric acid is one of the newly approved forms of fenofibrate with enhanced bioavailability and was recently approved by the Food and Drug Administation (FDA) for the treatment of various types of hyperlipidemia, in conjunction with statins.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2012",
+        "authors": [
+          "Saurav Alok",
+          "Kaushik Manu",
+          "Mohiuddin Syed M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22404421/"
+      },
+      {
+        "pmid": "3829426",
+        "title": "The effect of combined fenofibrate and cholestyramine therapy on low-density lipoprotein kinetics in familial hypercholesterolemia patients.",
+        "abstract": "The effects of combined drug treatment (fenofibrate and cholestyramine) have been investigated in vivo by simultaneously determining total and receptor-independent LDL catabolism with 125I-labelled LDL and 131I-labelled LDL coupled with cyclohexanedione. Receptor-mediated catabolism of LDL determined as the difference between the turnover of 125I and 131I, was found to be reduced in heterozygotes with familial hypercholesterolemia. Treatment with combined fenofibrate and cholestyramine markedly stimulated both receptor-mediated (by more than 2-fold) and receptor-independent catabolism. LDL-Apo B and LDL-cholesterol levels were reduced by 38% and 36%, respectively. The combined treatment also reduced the absolute synthetic rate of LDL-Apo B (by 9%). The mechanisms responsible for these kinetic effects are discussed.",
+        "journal": "Clinica chimica acta; international journal of clinical chemistry",
+        "year": "1987",
+        "authors": [
+          "Malmendier C L",
+          "Delcroix C",
+          "Lontie J F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Apolipoproteins",
+          "Cholestyramine Resin",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipoproteinemia Type II",
+          "Kinetics",
+          "Lipids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3829426/"
+      },
+      {
+        "pmid": "23551669",
+        "title": "Severe hypertriglyceridemia-related acute pancreatitis.",
+        "abstract": "Acute pancreatitis is a potentially life-threatening complication of severe hypertriglyceridemia. In some cases, inborn errors of metabolism such as lipoprotein lipase deficiency, apoprotein C-II deficiency, and familial hypertriglyceridemia have been reported as causes of severe hypertriglyceridemia. More often, severe hypertriglyceridemia describes various clinical conditions characterized by high plasma levels of triglycerides (>1000 mg/dL), chylomicron remnants, or intermediate density lipoprotein like particles, and/or chylomicrons. International guidelines on the management of acute pancreatitis are currently available. Standard therapeutic measures are based on the use of lipid-lowering agents (fenofibrate, gemfibrozil, niacin, Ω-3 fatty acids), low molecular weight heparin, and insulin in diabetic patients. However, when standard medical therapies have failed, non-pharmacological approaches based upon the removal of triglycerides with therapeutic plasma exchange can also provid",
+        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+        "year": "2013",
+        "authors": [
+          "Stefanutti Claudia",
+          "Labbadia Giancarlo",
+          "Morozzi Claudia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Humans",
+          "Hypertriglyceridemia",
+          "Pancreatitis",
+          "Plasma Exchange",
+          "Practice Guidelines as Topic",
+          "Secondary Prevention",
+          "Severity of Illness Index",
+          "Triglycerides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23551669/"
+      },
+      {
+        "pmid": "16123850",
+        "title": "The effect of fenofibrate on serum paraoxonase activity and inflammatory markers in patients with combined hyperlipidemia.",
+        "abstract": "Lipid lowering therapy with statins is beneficial because of improvement in lipoprotein concentrations and additional pleiotropic effects. However, less is known about the pleotropic effect of fibrates.",
+        "journal": "Kardiologia polska",
+        "year": "2005",
+        "authors": [
+          "Yesilbursa Dilek",
+          "Serdar Akin",
+          "Saltan Yelda",
+          "Serdar Zehra",
+          "Heper Yasemin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aryldialkylphosphatase",
+          "C-Reactive Protein",
+          "Coronary Artery Disease",
+          "Female",
+          "Fenofibrate",
+          "Fibrinogen",
+          "Humans",
+          "Hyperlipidemia, Familial Combined",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16123850/"
+      },
+      {
+        "pmid": "8843189",
+        "title": "Effects of n-3 fatty acids and fenofibrate on lipid and hemorrheological parameters in familial dysbetalipoproteinemia and familial hypertriglyceridemia.",
+        "abstract": "There is increasing evidence that hemorrheological abnormalities are associated with an enhanced risk of atherosclerosis. The n-3 fatty acids (n-3-FA) have been shown to have beneficial effects on atherosclerosis in patients with dyslipoproteinemias. We studied 23 patients with elevated plasma triglycerides to evaluate the influence of fish oil and fenofibrate therapy on hemorrheological parameters (15 patients with familial hypertriglyceridemia [FHTG] and eight with familial dysbetalipoproteinemia [FDL]). The patients (one woman and 22 men aged 45.7 +/- 2.0 years) were treated with increasing doses of n-3-FA (1.8 to 3.6 g/d: 0.9 to 1.8 g eicosapentaenoic acid and 0.6 to 1.2 g docosahexaenoic acid) for 8 weeks. Lipid parameters, whole-blood viscosity at different shear rates, plasma viscosity, fibrinogen concentration, and red blood cell aggregation (RCA) were measured at baseline and at weeks 2, 4, 8 (end of n-3-FA therapy), and 12. Compliance was ensured by measuring plasma concentra",
+        "journal": "Metabolism: clinical and experimental",
+        "year": "1996",
+        "authors": [
+          "Otto C",
+          "Ritter M M",
+          "Soennichsen A C",
+          "Schwandt P",
+          "Richter W O"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Blood Physiological Phenomena",
+          "Blood Viscosity",
+          "Fatty Acids, Omega-3",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipoproteinemia Type III",
+          "Hypertriglyceridemia",
+          "Lipids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8843189/"
+      },
+      {
+        "pmid": "3924068",
+        "title": "Effects of fenofibrate on high and low density lipoprotein metabolism in heterozygous familial hypercholesterolemia.",
+        "abstract": "This study investigates the influence of pharmacological doses of fenofibrate on HDL and LDL metabolism in 5 familial hypercholesterolemia heterozygotes. Fenofibrate lowered plasma low density lipoprotein cholesterol (20%, P less than 0.025), triglycerides (37%: P less than 0.005) and apolipoprotein B (14%: P less than 0.05) but increased apo A-I (20%; P = 0.01). Kinetic studies showed that the drug markedly increased the fractional catabolic rate of LDL-apo B by 59% and its synthetic rate by 36%. Fractional catabolic rate of apo A-I was also increased by 26% but accompanied by a much greater increase of its synthetic rate (49%). Thus the change in balance between catabolism and synthesis of both apoproteins affected by fenofibrate accounts for the observed plasma concentration changes, which may be considered as favourable with regard to the management of atherosclerosis.",
+        "journal": "Atherosclerosis",
+        "year": "1985",
+        "authors": [
+          "Malmendier C L",
+          "Delcroix C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Apolipoprotein A-I",
+          "Apolipoproteins A",
+          "Apolipoproteins B",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipoproteinemia Type II",
+          "Hypolipidemic Agents",
+          "Kinetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3924068/"
+      },
+      {
+        "pmid": "8925538",
+        "title": "[The effect of micronized fenofibrate on lipid parameters and fibrinogen in heterozygous familial hypercholesterolemia and familial combined hyperlipidemia].",
+        "abstract": "The aim of the study was to approve the hypolipidemic potency of the new drug from the group of fibrate derivates Lipanthyl 200 M(R) (micronized fenofibrate, cps a 200 mg, Laboratoires Fournier, France) in patients with familial hyperlipoproteinemias. The drug has been administered in constant dose of 200 mg daily with the evening meal for three months. Clinical examinations and monitoring of safety laboratory have been performed in addition to complete analysis of lipids, lipoproteins and apolipoproteins during the study.",
+        "journal": "Casopis lekaru ceskych",
+        "year": "1996",
+        "authors": [
+          "Ceska R",
+          "Sobra J",
+          "Kvasnicka J",
+          "Procházková R",
+          "Kvasilová M"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Fenofibrate",
+          "Fibrinogen",
+          "Heterozygote",
+          "Humans",
+          "Hyperlipidemia, Familial Combined",
+          "Hyperlipoproteinemia Type II",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8925538/"
+      },
+      {
+        "pmid": "34460997",
+        "title": "Maternally inherited diabetes and deafness coexists with lipoprotein lipase gene mutation-associated severe hyperlipidemia that was resistant to fenofibrate and atorvastatin, but sensitive to bezafibrate: A case report.",
+        "abstract": "Maternally inherited diabetes and deafness is a rare genetic disease mainly caused by a point mutation in mitochondrial deoxyribonucleic acid. Lipoprotein lipase gene mutations are associated with familial dyslipidemias, which are difficult to manage. We reported for the first time a case that had both maternally inherited diabetes and severe hyperlipidemia caused by lipoprotein lipase gene mutation (C.347(exon3)G>C) that was resistant to fenofibrate and atorvastatin. We were able to manage the patient's hyperlipidemia with bezafibrate, and her diabetes was well controlled with insulin. In conclusion, genetic testing is helpful in identifying rare and interesting cases when clinicians suspect inheritable diseases. Additionally, when one fibrate drug is ineffective in treating hyperlipidemia, it might be worthwhile trying another fibrate.",
+        "journal": "Journal of diabetes investigation",
+        "year": "2022",
+        "authors": [
+          "Zhang Xiaojuan",
+          "Chen Yongyong",
+          "Tong Nanwei",
+          "Shao Qing",
+          "Zhou Yueyang"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Atorvastatin",
+          "Bezafibrate",
+          "Deafness",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Lipoprotein Lipase",
+          "Mitochondrial Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34460997/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:39:49.574741",
+  "success": true,
+  "error_message": null
+}

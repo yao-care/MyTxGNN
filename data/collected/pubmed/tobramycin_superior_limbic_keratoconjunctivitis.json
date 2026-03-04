@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tobramycin",
+    "disease": "superior limbic keratoconjunctivitis",
+    "query_string": "Tobramycin AND superior limbic keratoconjunctivitis"
+  },
+  "data": {
+    "query": "Tobramycin AND superior limbic keratoconjunctivitis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:40:51.594497",
+  "success": true,
+  "error_message": null
+}

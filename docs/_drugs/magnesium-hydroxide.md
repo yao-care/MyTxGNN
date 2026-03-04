@@ -6,7 +6,7 @@ drug_name: "Magnesium Hydroxide"
 kg_predictions: 162
 dl_predictions: 43
 evidence_level: "L1"
-indication_count: 162
+indication_count: 5
 brands: []
 permalink: /drugs/magnesium-hydroxide/
 ---

@@ -1,0 +1,586 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "bipolar disorder",
+    "query_string": "Risperidone AND bipolar disorder"
+  },
+  "data": {
+    "query": "Risperidone AND bipolar disorder",
+    "results": [
+      {
+        "pmid": "34642461",
+        "title": "Pharmacological treatment for bipolar mania: a systematic review and network meta-analysis of double-blind randomized controlled trials.",
+        "abstract": "A systematic review and random-effects model network meta-analysis was conducted to compare the efficacy, acceptability, tolerability, and safety of pharmacological interventions for adults with acute bipolar mania. We searched PubMed, the Cochrane Library, and Embase databases for eligible studies published before March 14, 2021. Randomized controlled trials (RCTs) of oral medication monotherapy lasting ≥10 days in adults with mania were included, and studies that allowed the use of antipsychotics as a rescue medication during a trial were excluded. The primary outcomes were response to treatment (efficacy) and all-cause discontinuation (acceptability). The secondary outcomes were the improvement of mania symptoms and discontinuation due to inefficacy. Of the 79 eligible RCTs, 72 double-blind RCTs of 23 drugs and a placebo were included in the meta-analysis (mean study duration = 3.96 ± 2.39 weeks, n = 16442, mean age = 39.55 years, with 50.93% males). Compared with the placebo, aripi",
+        "journal": "Molecular psychiatry",
+        "year": "2022",
+        "authors": [
+          "Kishi Taro",
+          "Ikuta Toshikazu",
+          "Matsuda Yuki",
+          "Sakuma Kenji",
+          "Okuya Makoto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Carbamazepine",
+          "Female",
+          "Haloperidol",
+          "Humans",
+          "Lithium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34642461/"
+      },
+      {
+        "pmid": "34489127",
+        "title": "Preventing new episodes of bipolar disorder in adults: Systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "Uncertainty remains regarding the relative efficacy of maintenance pharmacotherapy for bipolar disorder (BD), and available data require updating. The present systematic review and meta-analysis aims to consolidate the evidence from the highest quality randomized controlled trials (RCTs) published up to July 2021, overcoming the limitations of earlier reviews. The PubMed and the Cochrane Central Register of Controlled Trials were searched for double-blind RCTs involving lithium, mood stabilizing anticonvulsants (MSAs), antipsychotics, antidepressants, and other treatments. Rates of new mood episodes with test vs. reference treatments (placebo or alternative active agent) were compared by random-effects meta-analysis. Polarity index was calculated for each treatment type. Eligible trials involved ≥6 months of maintenance follow up. Of 2,158 identified reports, 22 met study eligibility criteria, and involved 7,773 subjects stabilized for 1-12 weeks and followed-up for 24-104 weeks. Psych",
+        "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+        "year": "2022",
+        "authors": [
+          "Nestsiarovich Anastasiya",
+          "Gaudiot Christopher E S",
+          "Baldessarini Ross J",
+          "Vieta Eduard",
+          "Zhu Yiliang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lithium",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34489127/"
+      },
+      {
+        "pmid": "39044342",
+        "title": "An overview of the currently available and emerging long-acting formulations of risperidone for schizophrenia and bipolar disorder.",
+        "abstract": "Long-acting injectable (LAI) antipsychotic medications can help improve treatment adherence in patients with schizophrenia and bipolar disorder. Despite this, they are underutilized. In 2003, intramuscular risperidone became the first available LAI atypical antipsychotic medication, and since then, a number of competing long-acting risperidone formulations have been brought to market, with additional options under active development. These include intramuscular, subcutaneous, long-acting oral, and implantable formulations.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2024",
+        "authors": [
+          "Faden Justin",
+          "Ramirez Camila",
+          "Martinez Vanessa",
+          "Citrome Leslie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Schizophrenia",
+          "Risperidone",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Delayed-Action Preparations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39044342/"
+      },
+      {
+        "pmid": "36789916",
+        "title": "Comparison of antipsychotic dose equivalents for acute bipolar mania and schizophrenia.",
+        "abstract": "Are antipsychotic dose equivalents between acute mania and schizophrenia the same?",
+        "journal": "BMJ mental health",
+        "year": "2023",
+        "authors": [
+          "Yu Chia-Ling",
+          "Carvalho Andre F",
+          "Thompson Trevor",
+          "Tsai Tzu-Cheng",
+          "Tseng Ping-Tao"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Olanzapine",
+          "Risperidone",
+          "Aripiprazole",
+          "Quetiapine Fumarate",
+          "Haloperidol",
+          "Bipolar Disorder",
+          "Mania",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36789916/"
+      },
+      {
+        "pmid": "19454110",
+        "title": "Bipolar disorder.",
+        "abstract": "Bipolar disorder, with mood swings between depression and mania, may affect up to 1.5% of adults, and increases the risk of suicide and disability. Most people improve over time, but two thirds may have residual dysfunction, and at least 40% may have recurrent episodes.",
+        "journal": "BMJ clinical evidence",
+        "year": "2007",
+        "authors": [
+          "Geddes John R",
+          "Briess David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Double-Blind Method",
+          "Humans",
+          "Risperidone",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454110/"
+      },
+      {
+        "pmid": "34429113",
+        "title": "Benefits and harms of Risperidone and Paliperidone for treatment of patients with schizophrenia or bipolar disorder: a meta-analysis involving individual participant data and clinical study reports.",
+        "abstract": "Schizophrenia and bipolar disorder are severe mental illnesses which are highly prevalent worldwide. Risperidone and Paliperidone are treatments for either illnesses, but their efficacy compared to other antipsychotics and growing reports of hormonal imbalances continue to raise concerns. As existing evidence on both antipsychotics are solely based on aggregate data, we aimed to assess the benefits and harms of Risperidone and Paliperidone in the treatment of patients with schizophrenia or bipolar disorder, using individual participant data (IPD), clinical study reports (CSRs) and publicly available sources (journal publications and trial registries).",
+        "journal": "BMC medicine",
+        "year": "2021",
+        "authors": [
+          "Hodkinson Alexander",
+          "Heneghan Carl",
+          "Mahtani Kamal R",
+          "Kontopantelis Evangelos",
+          "Panagioti Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Humans",
+          "Male",
+          "Paliperidone Palmitate",
+          "Risperidone",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34429113/"
+      },
+      {
+        "pmid": "35621334",
+        "title": "Pharmacologic treatment and management of bipolar disorder in adolescents.",
+        "abstract": "The importance of the appropriate therapeutic interventions in children and adolescents with bipolar disorder (BD) cannot be overstated since treatment choices and their consequences may have effects into adulthood.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Elsayed Omar H",
+          "Pahwa Mehak",
+          "El-Mallakh Rif S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Child",
+          "Humans",
+          "Lithium",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35621334/"
+      },
+      {
+        "pmid": "37345508",
+        "title": "Switching to long-acting injectable antipsychotics: pharmacological considerations and practical approaches.",
+        "abstract": "Long-acting injectable antipsychotics (LAIs) are an effective, but potentially underutilized treatment option in schizophrenia and other severe mental illnesses. Prescribing information typically focuses on how to initiate treatment from the corresponding oral formulations. However, in clinical practice other scenarios, such as switching from other oral antipsychotics or other LAIs, occur frequently, requiring guidance.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2023",
+        "authors": [
+          "Højlund Mikkel",
+          "Correll Christoph U"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Risperidone",
+          "Schizophrenia",
+          "Bipolar Disorder",
+          "Injections, Intramuscular",
+          "Delayed-Action Preparations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37345508/"
+      },
+      {
+        "pmid": "20486830",
+        "title": "Risperidone long-acting injection as monotherapy and adjunctive therapy in the maintenance treatment of bipolar I disorder.",
+        "abstract": "It is very rare for patients with bipolar disorder to have a single episode of mania or depression over a lifetime and the vast majority of these individuals need long-term prophylactic/maintenance treatment. However, treatment nonadherence is a major issue for close to half of subjects with bipolar disorder who are prescribed medications. Risperidone long-acting injection (LAI) has proven efficacious for the maintenance phase of bipolar disorder and may mitigate the problem of nonadherence in the substantial group of patients for whom this is a significant concern.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Fagiolini Andrea",
+          "Casamassima Francesco",
+          "Mostacciuolo Wilmer",
+          "Forgione Rocco",
+          "Goracci Arianna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Injections",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20486830/"
+      },
+      {
+        "pmid": "38194936",
+        "title": "Mortality and Lithium-Protective Effects after First-Episode Mania Diagnosis in Bipolar Disorder: A Nationwide Retrospective Cohort Study in Taiwan.",
+        "abstract": "This study aimed to estimate all-cause mortality in patients after a first-episode mania (FEM) and examine whether six guideline-recommended medications can reduce mortality.",
+        "journal": "Psychotherapy and psychosomatics",
+        "year": "2024",
+        "authors": [
+          "Carvalho Andre F",
+          "Hsu Chih-Wei",
+          "Vieta Eduard",
+          "Solmi Marco",
+          "Marx Wolfgang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bipolar Disorder",
+          "Lithium",
+          "Valproic Acid",
+          "Quetiapine Fumarate",
+          "Aripiprazole",
+          "Risperidone",
+          "Mania",
+          "Retrospective Studies",
+          "Paliperidone Palmitate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38194936/"
+      },
+      {
+        "pmid": "34839767",
+        "title": "Should long-acting injectable antipsychotics be used earlier and more frequent in bipolar disorder, type I?",
+        "abstract": "",
+        "journal": "Nordic journal of psychiatry",
+        "year": "2022",
+        "authors": [
+          "Kessing Lars Vedel"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34839767/"
+      },
+      {
+        "pmid": "20481656",
+        "title": "Risperidone long-acting injection: in bipolar I disorder.",
+        "abstract": "A long-acting intramuscular formulation of the atypical antipsychotic agent risperidone is now indicated for the maintenance treatment of patients with bipolar I disorder. The formulation utilizes a novel drug delivery system of biodegradable microspheres and is bioequivalent to the oral formulation of the drug. Moreover, fluctuations in plasma drug concentrations at steady state were 1.7-fold lower with long-acting than with oral risperidone. Maintenance treatment with risperidone long-acting injection, as monotherapy in adults with stabilized bipolar I disorder or as an adjunct to standard therapy in adults with stabilized, frequently relapsing bipolar I disorder, was effective in delaying relapse to symptoms in two well designed trials with maintenance phases of 1 or 2 years' duration. The time to relapse to any mood episode (primary endpoint) was significantly longer with risperidone long-acting injection than with placebo in both studies. Risperidone long-acting injection also sig",
+        "journal": "Drugs",
+        "year": "2010",
+        "authors": [
+          "Deeks Emma D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Chemotherapy, Adjuvant",
+          "Clinical Trials as Topic",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Injections, Intramuscular",
+          "Risperidone",
+          "Therapeutic Equivalency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20481656/"
+      },
+      {
+        "pmid": "20000279",
+        "title": "Pediatric bipolar disorder.",
+        "abstract": "Pediatric bipolar disorder differs from the adult form of the disorder, marked by longer episodes, rapid cycling, prominent irritability, and high rates of comorbid attention-deficit/hyperactivity disorder and anxiety disorders. A careful assessment by families of children's symptoms, including their duration and intensity, helps with accurate diagnosis. After the diagnosis is made and careful psychopharmacological intervention is initiated, psychiatric nursing treatment of children and adolescents with pediatric bipolar disorder should involve child-and family-focused cognitive-behavioral therapies, family support, and psychoeducation.",
+        "journal": "Journal of psychosocial nursing and mental health services",
+        "year": "2009",
+        "authors": [
+          "Carbray M Julie A",
+          "McGuinness Teena"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Bipolar Disorder",
+          "Child",
+          "Child Psychiatry",
+          "Cognitive Behavioral Therapy",
+          "Combined Modality Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20000279/"
+      },
+      {
+        "pmid": "38779809",
+        "title": "Mortality risk and mood stabilizers in bipolar disorder: a propensity-score-weighted population-based cohort study in 2002-2018.",
+        "abstract": "Accumulating studies have assessed mortality risk associated with mood-stabilizers, the mainstay treatment for bipolar disorder (BD). However, existing data were mostly restricted to suicide risk, focused on lithium and valproate and rarely adequately adjusted for potential confounders. This study aimed to assess comparative mortality risk with all, natural and unnatural causes between lithium, valproate and three frequently prescribed second-generation antipsychotics (SGA), with adjustment for important confounders.",
+        "journal": "Epidemiology and psychiatric sciences",
+        "year": "2024",
+        "authors": [
+          "Chan Joe Kwun Nam",
+          "Wong Corine Sau Man",
+          "Fang Catherine Zhiqian",
+          "Hung Samson Chun",
+          "Lo Heidi Ka Ying"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "Female",
+          "Male",
+          "Adult",
+          "Middle Aged",
+          "Valproic Acid",
+          "Propensity Score",
+          "Antimanic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38779809/"
+      },
+      {
+        "pmid": "16220995",
+        "title": "Management options for bipolar disorder in children and adolescents.",
+        "abstract": "During recent years there has been a dramatic increase in the use of psychotropic medication for the treatment of bipolar disorder (BPD) in children. There is an emerging set of data to support this use.Mood stabilizers, including lithium and valproic acid (valproate sodium), have generally formed the mainstay of treatment in children and adolescents with BPD. However, the atypical antipsychotics, such as risperidone, aripiprazole, and quetiapine may be more effective as first-line treatment options and in some ways easier to use than the traditional mood stabilizers. As in adults, mood stabilization is often difficult to achieve in pediatric patients with BPD, and combined treatment with mood stabilizers and atypical antipscyhotics is commonly used. Data from controlled trials of psychotropic medications in children and adolescents with BPD are very limited, and hence, in the majority of cases physicians base their treatment decisions on data from case reports, case series, or open tr",
+        "journal": "Paediatric drugs",
+        "year": "2005",
+        "authors": [
+          "Danielyan Arman",
+          "Kowatch Robert A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Carbamazepine",
+          "Child",
+          "Clozapine",
+          "Dibenzothiazepines",
+          "Humans",
+          "Lithium",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16220995/"
+      },
+      {
+        "pmid": "9448668",
+        "title": "Antipsychotic agents and bipolar disorder.",
+        "abstract": "Antipsychotic agents have been used commonly in the treatment of bipolar disorder. This article reviews the evolution of the use of antipsychotic agents and their role in the acute and maintenance treatment of bipolar disorder. The focus is on neuroleptic drugs, the atypical antipsychotic drugs (risperidone and clozapine), and two fo the new atypical antipsychotic drugs that were recently approved.",
+        "journal": "The Journal of clinical psychiatry",
+        "year": "1998",
+        "authors": [
+          "Tohen M",
+          "Zarate C A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Clinical Trials as Topic",
+          "Clozapine",
+          "Delayed-Action Preparations",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Lithium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9448668/"
+      },
+      {
+        "pmid": "35510655",
+        "title": "Can pediatric bipolar disorder be successfully treated when comorbid with conduct disorder? A secondary analysis of clinical trials of risperidone, olanzapine, quetiapine, ziprasidone, and aripiprazole.",
+        "abstract": "Pediatric bipolar disorder (BP) is frequently comorbid with conduct disorder (CD) and its presence adds to the morbidity of BP. While there are no known pharmacological treatments for CD, pediatric BP is responsive to treatment with medications initially indicated for the treatment of psychosis, several of which have Food and Drug Administration (FDA) approval for the treatment of pediatric mania.",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2022",
+        "authors": [
+          "Wozniak Janet",
+          "DiSalvo Maura",
+          "Farrell Abigail",
+          "Yule Amy",
+          "Joshi Gagan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Child",
+          "Clinical Trials as Topic",
+          "Conduct Disorder",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35510655/"
+      },
+      {
+        "pmid": "15520475",
+        "title": "The antidepressant effects of risperidone and olanzapine in bipolar disorder.",
+        "abstract": "To describe the antidepressant effectiveness of olanzapine and risperidone and compare their tolerability when employed adjunctively in bipolar I/II disorder.",
+        "journal": "The Canadian journal of clinical pharmacology = Journal canadien de pharmacologie clinique",
+        "year": "2004",
+        "authors": [
+          "McIntyre Roger S",
+          "Mancini Deborah A",
+          "Srinivasan Janaki",
+          "McCann Sonia",
+          "Konarski Jakub Z"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Body Weight",
+          "Chemotherapy, Adjuvant",
+          "Depression",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15520475/"
+      },
+      {
+        "pmid": "12780874",
+        "title": "Alternatives to lithium and divalproex in the maintenance treatment of bipolar disorder.",
+        "abstract": "The role of lithium carbonate in the maintenance treatment of bipolar disorder is well established. Unfortunately, many patients fail to respond adequately to this agent or are unable to tolerate its adverse effects. Divalproex has become a commonly used alternative to lithium, but it also is ineffective or poorly tolerated in many patients. This article attempts to review the available data on maintenance therapy in bipolar disorder with a variety of anticonvulsants and antipsychotics (both conventional and novel), with reference to relevant studies in acute mania and bipolar depression as well.",
+        "journal": "Bipolar disorders",
+        "year": "2003",
+        "authors": [
+          "Gnanadesikan Mukund",
+          "Freeman Marlene P",
+          "Gelenberg Alan J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Amines",
+          "Anticonvulsants",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Calcium Channel Blockers",
+          "Carbamazepine",
+          "Clozapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12780874/"
+      },
+      {
+        "pmid": "17054229",
+        "title": "Risperidone in long-term treatment for bipolar disorder.",
+        "abstract": "Risperidone, an atypical antipsychotic, is used to treat acute manic episodes, particularly when psychotic symptoms are present. Drugs used to treat mania are often continued as long-term treatment to prevent relapse. There is a need for evidence of the effectiveness and safety of risperidone as long-term treatment.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2006",
+        "authors": [
+          "Rendell J M",
+          "Geddes J R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Humans",
+          "Long-Term Care",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17054229/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:32:55.811527",
+  "success": true,
+  "error_message": null
+}

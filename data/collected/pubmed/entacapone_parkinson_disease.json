@@ -1,0 +1,589 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Entacapone",
+    "disease": "Parkinson disease",
+    "query_string": "Entacapone AND Parkinson disease"
+  },
+  "data": {
+    "query": "Entacapone AND Parkinson disease",
+    "results": [
+      {
+        "pmid": "29570866",
+        "title": "International Parkinson and movement disorder society evidence-based medicine review: Update on treatments for the motor symptoms of Parkinson's disease.",
+        "abstract": "The objective of this review was to update evidence-based medicine recommendations for treating motor symptoms of Parkinson's disease (PD).",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2018",
+        "authors": [
+          "Fox Susan H",
+          "Katzenschlager Regina",
+          "Lim Shen-Yang",
+          "Barton Brandon",
+          "de Bie Rob M A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Deep Brain Stimulation",
+          "Evidence-Based Medicine",
+          "Humans",
+          "International Cooperation",
+          "Parkinson Disease",
+          "Physical Therapy Modalities",
+          "Societies, Scientific"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29570866/"
+      },
+      {
+        "pmid": "40055961",
+        "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+        "abstract": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD).",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2025",
+        "authors": [
+          "de Bie Rob M A",
+          "Katzenschlager Regina",
+          "Swinnen Bart E K S",
+          "Peball Marina",
+          "Lim Shen-Yang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Antiparkinson Agents",
+          "Evidence-Based Medicine",
+          "Levodopa",
+          "Deep Brain Stimulation",
+          "Societies, Medical"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+      },
+      {
+        "pmid": "36964457",
+        "title": "Clinical benefit of MAO-B and COMT inhibition in Parkinson's disease: practical considerations.",
+        "abstract": "Inhibitors of monoamine oxidase B (MAO-B) and catechol-O-methyltransferase (COMT) are major strategies to reduce levodopa degradation and thus to increase and prolong its effect in striatal dopaminergic neurotransmission in Parkinson's disease patients. While selegiline/rasagiline and tolcapone/entacapone have been available on the market for more than one decade, safinamide and opicapone have been approved in 2015 and 2016, respectively. Meanwhile, comprehensive data from several post-authorization studies have described the use and specific characteristics of the individual substances in clinical practice under real-life conditions. Here, we summarize current knowledge on both medication classes, with a focus on the added clinical value in Parkinson's disease. Furthermore, we outline practical considerations in the treatment of motor fluctuations and provide an outlook on ongoing studies with MAO-B and COMT inhibitors.",
+        "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+        "year": "2023",
+        "authors": [
+          "Regensburger Martin",
+          "Ip Chi Wang",
+          "Kohl Zacharias",
+          "Schrader Christoph",
+          "Urban Peter P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Antiparkinson Agents",
+          "Monoamine Oxidase",
+          "Catechol O-Methyltransferase",
+          "Levodopa",
+          "Catechol O-Methyltransferase Inhibitors",
+          "Monoamine Oxidase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36964457/"
+      },
+      {
+        "pmid": "28273839",
+        "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics.",
+        "abstract": "Parkinson's disease (PD) is the second most important age-related neurodegenerative disorder in developed societies, after Alzheimer's disease, with a prevalence ranging from 41 per 100,000 in the fourth decade of life to over 1900 per 100,000 in people over 80 years of age. As a movement disorder, the PD phenotype is characterized by rigidity, resting tremor, and bradykinesia. Parkinson's disease -related neurodegeneration is likely to occur several decades before the onset of the motor symptoms. Potential risk factors include environmental toxins, drugs, pesticides, brain microtrauma, focal cerebrovascular damage, and genomic defects. Parkinson's disease neuropathology is characterized by a selective loss of dopaminergic neurons in the substantia nigra pars compacta, with widespread involvement of other central nervous system (CNS) structures and peripheral tissues. Pathogenic mechanisms associated with genomic, epigenetic and environmental factors lead to conformational changes and ",
+        "journal": "International journal of molecular sciences",
+        "year": "2017",
+        "authors": [
+          "Cacabelos Ramón"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Animals",
+          "Antiparkinson Agents",
+          "Disease Susceptibility",
+          "Dopaminergic Neurons",
+          "Humans",
+          "Middle Aged",
+          "Oxidative Stress"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
+      },
+      {
+        "pmid": "34782410",
+        "title": "Dopaminergic Therapy for Motor Symptoms in Early Parkinson Disease Practice Guideline Summary: A Report of the AAN Guideline Subcommittee.",
+        "abstract": "To review the current evidence on the options available for initiating dopaminergic treatment of motor symptoms in early-stage Parkinson disease and provide recommendations to clinicians.",
+        "journal": "Neurology",
+        "year": "2021",
+        "authors": [
+          "Pringsheim Tamara",
+          "Day Gregory S",
+          "Smith Don B",
+          "Rae-Grant Alex",
+          "Licking Nicole"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Dopamine Agents",
+          "Dopamine Agonists",
+          "Dyskinesia, Drug-Induced",
+          "Humans",
+          "Levodopa",
+          "Motor Activity",
+          "Parkinson Disease",
+          "Practice Guidelines as Topic",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34782410/"
+      },
+      {
+        "pmid": "38613674",
+        "title": "Advanced therapies in Parkinson's disease: an individualized approach to their indication.",
+        "abstract": "Device aided therapies (DAT) comprising the intrajejunal administration of levodopa/carbidopa intestinal gel (LCIG) and levodopa/carbidopa/entacapone intestinal gel (LECIG), the continuous subcutaneous application of foslevodopa/foscarbidopa or apomorphine infusion (CSAI) and deep brain stimulation (DBS) are used to treat Parkinson's disease with insufficient symptom alleviation under intensified pharmacotherapy. These DAT significantly differ in their efficacy profiles, indication, invasiveness, contraindications, and potential side effects. Usually, the evaluation of all these procedures is conducted simultaneously at the same point in time. However, as disease progression and symptom burden is extremely heterogeneous, clinical experience shows that patients reach the individual milestones for a certain therapy at different points in their disease course. Therefore, advocating for an individualized therapy evaluation for each DAT, requiring an ongoing evaluation. This necessitates th",
+        "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+        "year": "2024",
+        "authors": [
+          "Schröter Nils",
+          "Sajonz Bastian E A",
+          "Jost Wolfgang H",
+          "Rijntjes Michel",
+          "Coenen Volker A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Deep Brain Stimulation",
+          "Antiparkinson Agents",
+          "Precision Medicine",
+          "Carbidopa",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38613674/"
+      },
+      {
+        "pmid": "35785401",
+        "title": "Levodopa-entacapone-carbidopa intestinal gel infusion in advanced Parkinson's disease: real-world experience and practical guidance.",
+        "abstract": "As Parkinson's disease (PD) progresses, treatment needs to be adapted to maintain symptom control. Once patients develop advanced PD, an optimised regimen of oral and transdermal medications may no longer provide adequate relief of OFF periods and motor complications can emerge. At this point, patients may wish to consider a device-aided therapy (DAT) that provides continuous dopaminergic stimulation to help overcome these issues. Levodopa-entacapone-carbidopa intestinal gel (LECIG) infusion is a recently developed DAT option. The aim of this article is twofold: (1) to give an overview of the pharmacokinetics of LECIG infusion and clinical experience to date of its use in patients with advanced PD, including real-world data and patient-reported outcomes from a cohort of patients treated in Sweden, the first country where it was introduced, and (2) based on that information to provide practical guidance for healthcare teams starting patients on LECIG infusion, whether they are transitio",
+        "journal": "Therapeutic advances in neurological disorders",
+        "year": "2022",
+        "authors": [
+          "Nyholm Dag",
+          "Jost Wolfgang H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35785401/"
+      },
+      {
+        "pmid": "39572788",
+        "title": "The Parkinson's disease drug entacapone disrupts gut microbiome homoeostasis via iron sequestration.",
+        "abstract": "Many human-targeted drugs alter the gut microbiome, leading to implications for host health. However, the mechanisms underlying these effects are not well known. Here we combined quantitative microbiome profiling, long-read metagenomics, stable isotope probing and single-cell chemical imaging to investigate the impact of two widely prescribed drugs on the gut microbiome. Physiologically relevant concentrations of entacapone, a treatment for Parkinson's disease, or loxapine succinate, used to treat schizophrenia, were incubated ex vivo with human faecal samples. Both drugs significantly impact microbial activity, more so than microbial abundance. Mechanistically, entacapone can complex and deplete available iron resulting in gut microbiome composition and function changes. Microbial growth can be rescued by replenishing levels of microbiota-accessible iron. Further, entacapone-induced iron starvation selected for iron-scavenging gut microbiome members encoding antimicrobial resistance a",
+        "journal": "Nature microbiology",
+        "year": "2024",
+        "authors": [
+          "Pereira Fátima C",
+          "Ge Xiaowei",
+          "Kristensen Jannie M",
+          "Kirkegaard Rasmus H",
+          "Maritsch Klara"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Gastrointestinal Microbiome",
+          "Humans",
+          "Iron",
+          "Parkinson Disease",
+          "Feces",
+          "Catechols",
+          "Nitriles",
+          "Homeostasis",
+          "Bacteria",
+          "Metagenomics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39572788/"
+      },
+      {
+        "pmid": "26725544",
+        "title": "Opicapone as an adjunct to levodopa in patients with Parkinson's disease and end-of-dose motor fluctuations: a randomised, double-blind, controlled trial.",
+        "abstract": "Opicapone is a novel, once-daily, potent third-generation catechol-O-methyltransferase inhibitor. We aimed to assess the safety and efficacy of opicapone as an adjunct to levodopa compared with placebo or entacapone in patients with Parkinson's disease and motor fluctuations.",
+        "journal": "The Lancet. Neurology",
+        "year": "2016",
+        "authors": [
+          "Ferreira Joaquim J",
+          "Lees Andrew",
+          "Rocha José-Francisco",
+          "Poewe Werner",
+          "Rascol Olivier"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antiparkinson Agents",
+          "Catechol O-Methyltransferase Inhibitors",
+          "Catechols",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Dyskinesia, Drug-Induced",
+          "Europe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26725544/"
+      },
+      {
+        "pmid": "40331578",
+        "title": "The device-aided intrajejunal delivery of levodopa-entacapone-carbidopa intestinal gel the treatment of Parkinson's disease: overview of efficacy and safety.",
+        "abstract": "Device-aided therapies (DATs) have been developed to provide continuous drug delivery (CDD) to people with advanced Parkinson's disease (PD) whose symptoms can no longer be effectively managed with oral or transdermal therapy. Intrajejunal infusion of levodopa-carbidopa intestinal gel (LCIG), delivered via the CADD Legacy 1400 pump, is an established CDD option, while levodopa-entacapone-carbidopa intestinal gel (LECIG), delivered via the Crono LECIG pump, is a more recent addition to the range of DAT options in Europe.",
+        "journal": "Expert review of medical devices",
+        "year": "2025",
+        "authors": [
+          "Popławska-Domaszewicz Karolina",
+          "Metta Vinod",
+          "Odin Per",
+          "Chaudhuri K Ray"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Levodopa",
+          "Carbidopa",
+          "Humans",
+          "Parkinson Disease",
+          "Gels",
+          "Drug Combinations",
+          "Nitriles",
+          "Drug Delivery Systems",
+          "Catechols",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40331578/"
+      },
+      {
+        "pmid": "36541150",
+        "title": "[Triple combination of levodopa, carbidopa and entacapone by intrajejunal pump in advanced Parkinson's disease].",
+        "abstract": "In advanced Parkinson's disease, oral medication can often no longer achieve sufficient therapeutic success. As one of the device aided therapies, the intrajejunal levodopa administration has been established as valuable treatment option. A modern form of the well-known intestinal levodopa pump offers the opportunity to continue the oral triple combination of levodopa, carbidopa and entacapone that many patients already use. Since February 2021 this modern option is available in Austria and Germany which also contains entacapone, whereby levodopa can be saved. In many other countries, including Hungary, approval is expected in the near future. The pump and cartridge are significantly smaller and lighter than in the LCIG pump which should improve the acceptance of the therapy. The higher acceptance of the smaller pump and the improved user-friendliness has already been reported in an observational study from Sweden. The unwanted effects of entacapone have to be considered.",
+        "journal": "Ideggyogyaszati szemle",
+        "year": "2022",
+        "authors": [
+          "Györfi Bertalan",
+          "Baló Botond",
+          "Botz Krisztina",
+          "Jost Wolfgang H"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carbidopa",
+          "Levodopa",
+          "Parkinson Disease",
+          "Antiparkinson Agents",
+          "Drug Combinations",
+          "Gels",
+          "Observational Studies as Topic",
+          "Catechols",
+          "Nitriles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36541150/"
+      },
+      {
+        "pmid": "11873938",
+        "title": "Catechol-O-methyltransferase and Parkinson's disease.",
+        "abstract": "Parkinson's disease (PD) is one of the main causes of neurological disability in the elderly. Levodopa is the gold standard for treating this disease, but chronic levodopa therapy is complicated by motor fluctuation and dyskinesia. The catechol-O-methyltransferase (COMT) inhibitors represent a new class of antiparkinsonian drugs. When coadministered with levodopa/decarboxylase inhibitor, 2 COMT inhibitors, tolcapone and entacapone have been shown to improve the clinical benefit of levodopa. COMT activity is genetically polymorphic, and individuals with the low activity (COMT(L/L)) genotype have a thermolabile COMT protein; studies suggest that this genotype is less common in Asians than in Caucasians. Differences in COMT activity may determine the individual response to levodopa and result in ethnic differences in PD susceptibility. Our recent study suggests that the COMTL allele can interact with the MAOB gene to increase the occurrence of PD in Taiwanese. In order to understand this ",
+        "journal": "Acta medica Okayama",
+        "year": "2002",
+        "authors": [
+          "Tai Chun-Hwi",
+          "Wu Ruey-Meei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Catechol O-Methyltransferase",
+          "Catechol O-Methyltransferase Inhibitors",
+          "Enzyme Inhibitors",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11873938/"
+      },
+      {
+        "pmid": "18482101",
+        "title": "Evidence-based efficacy comparison of tolcapone and entacapone as adjunctive therapy in Parkinson's disease.",
+        "abstract": "The relative efficacy has not been adequately established for the two catechol-O-methyltransferase (COMT) inhibitors that are currently available for adjunctive therapy in Parkinson's disease; tolcapone and entacapone. A recent Cochrane meta-analysis of 14 studies in 2566 patients, conducted to assess the efficacy and safety of tolcapone and entacapone, found both to be statistically superior to placebo in increasing ON time and decreasing OFF time. The meta-analysis also showed that the weighted mean difference from baseline to endpoint in tolcapone-treated patients was twice that in entacapone-treated patients for both placebo-corrected ON time and OFF time. Withdrawal rates were generally lower for tolcapone. Two additional studies have examined the switch between tolcapone and entacapone. In 40 Parkinson's disease patients with fluctuations who were switched from tolcapone to entacapone, improvements in ON time and reductions in OFF time were approximately twice the magnitude for t",
+        "journal": "CNS neuroscience & therapeutics",
+        "year": "2008",
+        "authors": [
+          "Lees Andrew J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Benzophenones",
+          "Catechols",
+          "Dose-Response Relationship, Drug",
+          "Evidence-Based Medicine",
+          "Female",
+          "Humans",
+          "Male",
+          "Meta-Analysis as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18482101/"
+      },
+      {
+        "pmid": "32808807",
+        "title": "Fixed-dose combination therapy for Parkinson's disease with a spotlight on entacapone in the past 20 years: a reduced pill burden and a simplified dosing regime.",
+        "abstract": "Parkinson's disease (PD) is a progressive, chronic neurodegenerative disorder. The main neuropathological cause of the disease is the death of dopaminergic neurons in the substantia nigra. Unfortunately, there is no curative treatment yet. The gold-standard of the treatment is levodopa (LD). During the course of the disease, motor complications develop, which postulates the addition of entacapone (ENT) to the dopaminergic medication. Previous studies have suggested that patients have a better quality of life when entacapone is added in a combination with LD.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2020",
+        "authors": [
+          "Salamon András",
+          "Zádori Dénes",
+          "Szpisjak László",
+          "Klivényi Péter",
+          "Vécsei László"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Catechols",
+          "Drug Combinations",
+          "Humans",
+          "Levodopa",
+          "Motor Activity",
+          "Nitriles",
+          "Parkinson Disease",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32808807/"
+      },
+      {
+        "pmid": "28813703",
+        "title": "Efficacy and Safety of Adjuvant Treatment with Entacapone in Advanced Parkinson's Disease with Motor Fluctuation: A Systematic Meta-Analysis.",
+        "abstract": "To assess the efficacy and safety of adjuvant treatment with entacapone in the treatment of later Parkinson's disease (PD) patients with motor fluctuation.",
+        "journal": "European neurology",
+        "year": "2017",
+        "authors": [
+          "Li Jia",
+          "Lou Zhiwei",
+          "Liu Xiaoyang",
+          "Sun Yajuan",
+          "Chen Jiajun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Activities of Daily Living",
+          "Aged",
+          "Antiparkinson Agents",
+          "Catechols",
+          "Drug Therapy, Combination",
+          "Dyskinesias",
+          "Female",
+          "Humans",
+          "Levodopa",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28813703/"
+      },
+      {
+        "pmid": "38747986",
+        "title": "What was first and what is next in selecting device-aided therapy in Parkinson's disease? Balancing evidence and experience.",
+        "abstract": "Parkinson's disease (PD) progresses with motor fluctuations emerging several years after treatment initiation. Initially managed with oral medications, these fluctuations may later necessitate device-aided therapy (DATs). Globally, various DATs options are available, including continuous subcutaneous apomorphine infusion, deep brain stimulation, levodopa-carbidopa intestinal gel, levodopa-entacapone-carbidopa intestinal gel, and subcutaneous foslevodopa/foscarbidopa infusion, each with its complexities. Hence, matching complex patients with suitable therapy is critical. This review offers practical insights for physicians managing complex PD cases. Balancing evidence and experience is vital to select the most suitable DATs, considering factors like disease stage and patient preferences. Comparative analysis of DATs benefits and risks provides essential insights for clinicians and patients. Treatment sequences vary based on availability, patient needs, and disease progression. Less inva",
+        "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+        "year": "2024",
+        "authors": [
+          "Phokaewvarangkul Onanong",
+          "Auffret Manon",
+          "Groppa Sergiu",
+          "Markovic Vladana",
+          "Petrovic Igor"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Antiparkinson Agents",
+          "Deep Brain Stimulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38747986/"
+      },
+      {
+        "pmid": "32162166",
+        "title": "Levodopa/carbidopa/entacapone for the treatment of early Parkinson's disease: a meta-analysis.",
+        "abstract": "Treatment of Parkinson's disease with levodopa/carbidopa/entacapone (LCE) has been studied for a long time. However, the efficacy and safety of LCE in the treatment of early Parkinson's disease (PD) still need to be assessed. Our objective was to do a meta-analysis of relevant randomized controlled trials (RCTs) to evaluate the efficacy and safety of LCE for early PD. PubMed, Embase, the Cochrane Library, and the Web of Science were searched for RCTs with \"levodopa/carbidopa/entacapone\" and \"Parkinson's disease\" as keywords. The search period was from inception to October 2018. The quality of included studies was strictly evaluated. We evaluated the quality of included studies strictly and six studies met all inclusion criteria. The results showed that LCE could improve activities of daily living and motor function in PD patients. However, LCE therapy was associated with higher risks of total AEs and single AEs compared with traditional therapy.",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "year": "2020",
+        "authors": [
+          "Liao Xiaoli",
+          "Wu Nianyue",
+          "Liu Dongfeng",
+          "Shuai Bowei",
+          "Li Shilei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Catechols",
+          "Drug Combinations",
+          "Humans",
+          "Levodopa",
+          "Nitriles",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32162166/"
+      },
+      {
+        "pmid": "39466665",
+        "title": "Effectiveness and safety of levodopa-entacapone-carbidopa infusion in Parkinson disease: A real-world data study.",
+        "abstract": "Levodopa-entacapone-carbidopa intestinal gel (LECIG) infusion is a recently developed device-aided therapy for advanced Parkinson disease (PD) patients. The aim of this study was to report real-world evidence about the effectiveness, tolerability, and safety of LECIG in PD patients.",
+        "journal": "European journal of neurology",
+        "year": "2025",
+        "authors": [
+          "Santos-García Diego",
+          "López-Manzanares Lydia",
+          "Muro Inés",
+          "Lorenzo-Barreto Pablo",
+          "Casas Peña Elena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Male",
+          "Levodopa",
+          "Carbidopa",
+          "Female",
+          "Aged",
+          "Middle Aged",
+          "Antiparkinson Agents",
+          "Catechols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39466665/"
+      },
+      {
+        "pmid": "19589043",
+        "title": "Levodopa/carbidopa/entacapone in Parkinson's disease.",
+        "abstract": "Levodopa is the most efficacious agent for the treatment of motor features of Parkinson's disease but its chronic use is associated with the development of motor complications. Mounting evidence indicates the short half-life of levodopa and resultant pulsatile stimulation of striatal dopamine receptors leads to wearing off, motor fluctuations and dyskinesias. Longer acting dopaminergic agents, such as dopamine agonists, are less likely to cause motor fluctuations and dyskinesias but are not as efficacious for control of motor symptoms. Therefore, there is interest in exploring ways to deliver levodopa in a more continuous fashion, in an effort to maintain benefit through the day and reduce the development of motor fluctuations and dyskinesias. A dopa decarboxylase inhibitor (DDCI), such as carbidopa or benserazide, is administered with levodopa to attenuate its peripheral conversion to dopamine, reduce nausea and increase central bioavailability. When levodopa is administered with a DD",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2009",
+        "authors": [
+          "Seeberger Lauren C",
+          "Hauser Robert A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Biological Availability",
+          "Carbidopa",
+          "Catechols",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Levodopa",
+          "Nitriles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19589043/"
+      },
+      {
+        "pmid": "37672049",
+        "title": "Current and novel infusion therapies for patients with Parkinson's disease.",
+        "abstract": "Advanced Parkinson's disease is characterized by periods of poor mobility, dyskinesia and progressive decline in functional independence of the affected person despite the manipulation of levodopa doses and the introduction of supplemental therapies such as catechol-O-methyl transferase inhibitors, monoamine oxidase-B inhibitors and dopamine agonists. The implementation of drug delivery systems allows to bypass problems related to irregular and often unpredictable intestinal absorption of oral levodopa, which significantly affects its bioavailability and contributes to the development and persistence of motor complications. Subcutaneous apomorphine and levodopa/carbidopa jejunal infusion systems have been available for many years and their efficacy is confirmed by randomized studies and long-term experience in many centers worldwide. Recently, a new formulation of levodopa/carbidopa infusion gel that includes the catechol-O-methyl transferase inhibitor Entacapone has been introduced to",
+        "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+        "year": "2023",
+        "authors": [
+          "Antonini Angelo",
+          "D'Onofrio Valentina",
+          "Guerra Andrea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Parkinson Disease",
+          "Levodopa",
+          "Carbidopa",
+          "Antiparkinson Agents",
+          "Catechol O-Methyltransferase",
+          "Catechols",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Nitriles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37672049/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:28:12.246490",
+  "success": true,
+  "error_message": null
+}

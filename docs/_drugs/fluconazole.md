@@ -6,7 +6,7 @@ drug_name: "Fluconazole"
 kg_predictions: 182
 dl_predictions: 183
 evidence_level: "L1"
-indication_count: 182
+indication_count: 5
 brands: []
 permalink: /drugs/fluconazole/
 ---

@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Tolnaftate",
+    "disease": "tinea pedis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07245667",
+      "title": "Clinical Study to Assess Tolnaftate 1% With a Novel Vehicle for the Treatment of Tinea Pedis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-12-30",
+      "completion_date": "2026-02",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "This study is designed to evaluate the safety and effectiveness of multiple 1% tolnaftate formulations delivered through novel stick-based vehicles in individuals with tinea pedis (athlete's foot).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged 16 or above\n* Clinical diagnosis of tinea pedis (For Cohort 4, positive symptomology is acceptable)\n* Confirmation of diagnosis with positive potassium hydroxide (KOH) microscopy (For Cohort 4, a negative KOH test is acceptable)\n* Signed and dated informed",
+      "endpoints": [
+        "Percentage of Subjects with a Complete Cure at Week 4"
+      ],
+      "sponsor": "Propedix, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT07245667"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01105013",
+      "title": "Study Clinical, Multicenter, Phase III, to Evaluate the Efficacy and Safety of Tolnaftate Cream in the Treatment of Patients With Fungal Infections Like Tinea Foot, Tinea and Tinea Crural Body\"",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2012-04",
+      "completion_date": "2012-07",
+      "country": "Brazil",
+      "enrollment": 90,
+      "brief_summary": "This is a study clinical, multicenter, Phase III trial, to evaluate the efficacy and safety of tolnaftate cream in the treatment of patients with fungal infections such as Tinea foot, Tinea and Tinea crural body.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes, of any race, aged 12 years;\n* Ability to understand and sign the IC (for patients older than age) in the case of minors monitoring and consent of a guardian;\n* Clinical diagnosis of fungal infections for tinea pedis (ringworm of the feet) or tinea cruri",
+      "endpoints": [
+        "Evaluate the efficacy and safety of the tolnaftate cream 10 mg / g."
+      ],
+      "sponsor": "Laboratório Teuto Brasileiro S/A",
+      "url": "https://clinicaltrials.gov/study/NCT01105013"
+    }
+  ],
+  "timestamp": "2026-03-04T15:47:40.450242",
+  "success": true,
+  "error_message": null
+}

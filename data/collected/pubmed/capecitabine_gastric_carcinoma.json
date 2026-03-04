@@ -1,0 +1,687 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Capecitabine",
+    "disease": "gastric carcinoma",
+    "query_string": "Capecitabine AND gastric carcinoma"
+  },
+  "data": {
+    "query": "Capecitabine AND gastric carcinoma",
+    "results": [
+      {
+        "pmid": "34102137",
+        "title": "First-line nivolumab plus chemotherapy versus chemotherapy alone for advanced gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma (CheckMate 649): a randomised, open-label, phase 3 trial.",
+        "abstract": "First-line chemotherapy for advanced or metastatic human epidermal growth factor receptor 2 (HER2)-negative gastric or gastro-oesophageal junction adenocarcinoma has a median overall survival (OS) of less than 1 year. We aimed to evaluate first-line programmed cell death (PD)-1 inhibitor-based therapies in gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma. We report the first results for nivolumab plus chemotherapy versus chemotherapy alone.",
+        "journal": "Lancet (London, England)",
+        "year": "2021",
+        "authors": [
+          "Janjigian Yelena Y",
+          "Shitara Kohei",
+          "Moehler Markus",
+          "Garrido Marcelo",
+          "Salman Pamela"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Drug Therapy, Combination",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction",
+          "Female",
+          "Humans",
+          "Immune Checkpoint Inhibitors",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34102137/"
+      },
+      {
+        "pmid": "30982686",
+        "title": "Perioperative chemotherapy with fluorouracil plus leucovorin, oxaliplatin, and docetaxel versus fluorouracil or capecitabine plus cisplatin and epirubicin for locally advanced, resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4): a randomised, phase 2/3 trial.",
+        "abstract": "Docetaxel-based chemotherapy is effective in metastatic gastric and gastro-oesophageal junction adenocarcinoma. This study reports on the safety and efficacy of the docetaxel-based triplet FLOT (fluorouracil plus leucovorin, oxaliplatin and docetaxel) as a perioperative therapy for patients with locally advanced, resectable tumours.",
+        "journal": "Lancet (London, England)",
+        "year": "2019",
+        "authors": [
+          "Al-Batran Salah-Eddin",
+          "Homann Nils",
+          "Pauligk Claudia",
+          "Goetze Thorsten O",
+          "Meiler Johannes"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Cisplatin",
+          "Digestive System Surgical Procedures",
+          "Disease-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30982686/"
+      },
+      {
+        "pmid": "37524953",
+        "title": "Zolbetuximab plus CAPOX in CLDN18.2-positive gastric or gastroesophageal junction adenocarcinoma: the randomized, phase 3 GLOW trial.",
+        "abstract": "There is an urgent need for first-line treatment options for patients with human epidermal growth factor receptor 2 (HER2)-negative, locally advanced unresectable or metastatic gastric or gastroesophageal junction (mG/GEJ) adenocarcinoma. Claudin-18 isoform 2 (CLDN18.2) is expressed in normal gastric cells and maintained in malignant G/GEJ adenocarcinoma cells. GLOW (closed enrollment), a global, double-blind, phase 3 study, examined zolbetuximab, a monoclonal antibody that targets CLDN18.2, plus capecitabine and oxaliplatin (CAPOX) as first-line treatment for CLDN18.2-positive, HER2-negative, locally advanced unresectable or mG/GEJ adenocarcinoma. Patients (n = 507) were randomized 1:1 (block sizes of two) to zolbetuximab plus CAPOX or placebo plus CAPOX. GLOW met the primary endpoint of progression-free survival (median, 8.21 months versus 6.80 months with zolbetuximab versus placebo; hazard ratio (HR) = 0.687; 95% confidence interval (CI), 0.544-0.866; P = 0.0007) and key secondary ",
+        "journal": "Nature medicine",
+        "year": "2023",
+        "authors": [
+          "Shah Manish A",
+          "Shitara Kohei",
+          "Ajani Jaffer A",
+          "Bang Yung-Jue",
+          "Enzinger Peter"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Stomach Neoplasms",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Adenocarcinoma",
+          "Oxaliplatin",
+          "Claudins",
+          "Antibodies, Monoclonal, Humanized",
+          "Humans",
+          "Esophagogastric Junction",
+          "Antibodies, Monoclonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37524953/"
+      },
+      {
+        "pmid": "38806195",
+        "title": "Tislelizumab plus chemotherapy versus placebo plus chemotherapy as first line treatment for advanced gastric or gastro-oesophageal junction adenocarcinoma: RATIONALE-305 randomised, double blind, phase 3 trial.",
+        "abstract": "To evaluate the efficacy and safety of tislelizumab added to chemotherapy as first line (primary) treatment for advanced gastric or gastro-oesophageal junction adenocarcinoma compared with placebo plus chemotherapy.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2024",
+        "authors": [
+          "Qiu Miao-Zhen",
+          "Oh Do-Youn",
+          "Kato Ken",
+          "Arkenau Tobias",
+          "Tabernero Josep"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antibodies, Monoclonal, Humanized",
+          "Male",
+          "Stomach Neoplasms",
+          "Adenocarcinoma",
+          "Female",
+          "Middle Aged",
+          "Double-Blind Method",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38806195/"
+      },
+      {
+        "pmid": "22226517",
+        "title": "Adjuvant capecitabine and oxaliplatin for gastric cancer after D2 gastrectomy (CLASSIC): a phase 3 open-label, randomised controlled trial.",
+        "abstract": "D2 gastrectomy is recommended in US and European guidelines, and is preferred in east Asia, for patients with resectable gastric cancer. Adjuvant chemotherapy improves patient outcomes after surgery, but the benefits after a D2 resection have not been extensively investigated in large-scale trials. We investigated the effect on disease-free survival of adjuvant chemotherapy with capecitabine plus oxaliplatin after D2 gastrectomy compared with D2 gastrectomy only in patients with stage II-IIIB gastric cancer.",
+        "journal": "Lancet (London, England)",
+        "year": "2012",
+        "authors": [
+          "Bang Yung-Jue",
+          "Kim Young-Woo",
+          "Yang Han-Kwang",
+          "Chung Hyun Cheol",
+          "Park Young-Kyu"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Female",
+          "Fluorouracil",
+          "Gastrectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22226517/"
+      },
+      {
+        "pmid": "38051328",
+        "title": "Sintilimab Plus Chemotherapy for Unresectable Gastric or Gastroesophageal Junction Cancer: The ORIENT-16 Randomized Clinical Trial.",
+        "abstract": "Gastric and gastroesophageal junction cancers are diagnosed in more than 1 million people worldwide annually, and few effective treatments are available. Sintilimab, a recombinant human IgG4 monoclonal antibody that binds to programmed cell death 1 (PD-1), in combination with chemotherapy, has demonstrated promising efficacy.",
+        "journal": "JAMA",
+        "year": "2023",
+        "authors": [
+          "Xu Jianming",
+          "Jiang Haiping",
+          "Pan Yueyin",
+          "Gu Kangsheng",
+          "Cang Shundong"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Adenocarcinoma",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B7-H1 Antigen",
+          "Capecitabine",
+          "Esophagogastric Junction",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38051328/"
+      },
+      {
+        "pmid": "37875143",
+        "title": "Pembrolizumab plus chemotherapy versus placebo plus chemotherapy for HER2-negative advanced gastric cancer (KEYNOTE-859): a multicentre, randomised, double-blind, phase 3 trial.",
+        "abstract": "PD-1 inhibitors combined with chemotherapy have shown efficacy in gastric or gastro-esophageal junction cancer. We compared the efficacy and safety of pembrolizumab plus chemotherapy with placebo plus chemotherapy in participants with locally advanced or metastatic HER2-negative gastric or gastro-esophageal junction adenocarcinoma.",
+        "journal": "The Lancet. Oncology",
+        "year": "2023",
+        "authors": [
+          "Rha Sun Young",
+          "Oh Do-Youn",
+          "Yañez Patricio",
+          "Bai Yuxian",
+          "Ryu Min-Hee"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Stomach Neoplasms",
+          "Esophageal Neoplasms",
+          "Adenocarcinoma",
+          "Antibodies, Monoclonal, Humanized",
+          "Female",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Humans",
+          "B7-H1 Antigen",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37875143/"
+      },
+      {
+        "pmid": "34252374",
+        "title": "Perioperative or postoperative adjuvant oxaliplatin with S-1 versus adjuvant oxaliplatin with capecitabine in patients with locally advanced gastric or gastro-oesophageal junction adenocarcinoma undergoing D2 gastrectomy (RESOLVE): an open-label, superiority and non-inferiority, phase 3 randomised controlled trial.",
+        "abstract": "The optimal perioperative chemotherapeutic regimen for locally advanced gastric cancer remains undefined. We evaluated the efficacy and safety of perioperative and postoperative S-1 and oxaliplatin (SOX) compared with postoperative capecitabine and oxaliplatin (CapOx) in patients with locally advanced gastric cancer undergoing D2 gastrectomy.",
+        "journal": "The Lancet. Oncology",
+        "year": "2021",
+        "authors": [
+          "Zhang Xiaotian",
+          "Liang Han",
+          "Li Ziyu",
+          "Xue Yingwei",
+          "Wang Yanong"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Drug Combinations",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34252374/"
+      },
+      {
+        "pmid": "20728210",
+        "title": "Trastuzumab in combination with chemotherapy versus chemotherapy alone for treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer (ToGA): a phase 3, open-label, randomised controlled trial.",
+        "abstract": "Trastuzumab, a monoclonal antibody against human epidermal growth factor receptor 2 (HER2; also known as ERBB2), was investigated in combination with chemotherapy for first-line treatment of HER2-positive advanced gastric or gastro-oesophageal junction cancer.",
+        "journal": "Lancet (London, England)",
+        "year": "2010",
+        "authors": [
+          "Bang Yung-Jue",
+          "Van Cutsem Eric",
+          "Feyereislova Andrea",
+          "Chung Hyun C",
+          "Shen Lin"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20728210/"
+      },
+      {
+        "pmid": "27776843",
+        "title": "Histopathological regression after neoadjuvant docetaxel, oxaliplatin, fluorouracil, and leucovorin versus epirubicin, cisplatin, and fluorouracil or capecitabine in patients with resectable gastric or gastro-oesophageal junction adenocarcinoma (FLOT4-AIO): results from the phase 2 part of a multicentre, open-label, randomised phase 2/3 trial.",
+        "abstract": "Docetaxel-based chemotherapy is effective in metastatic gastric and gastro-oesophageal junction adenocarcinoma, but has not yet been evaluated in the context of resectable patients. Here we report findings from the phase 2 part of the phase 2/3 FLOT4 trial, which compared histopathological regression in patients treated with a docetaxel-based triplet chemotherapy versus an anthracycline-based triplet chemotherapy before surgical resection.",
+        "journal": "The Lancet. Oncology",
+        "year": "2016",
+        "authors": [
+          "Al-Batran Salah-Eddin",
+          "Hofheinz Ralf D",
+          "Pauligk Claudia",
+          "Kopp Hans-Georg",
+          "Haag Georg Martin"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Docetaxel",
+          "Epirubicin",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27776843/"
+      },
+      {
+        "pmid": "33610734",
+        "title": "FAST: a randomised phase II study of zolbetuximab (IMAB362) plus EOX versus EOX alone for first-line treatment of advanced CLDN18.2-positive gastric and gastro-oesophageal adenocarcinoma.",
+        "abstract": "Claudin 18.2 (CLDN18.2) is contained within normal gastric mucosa epithelial tight junctions; upon malignant transformation, CLDN18.2 epitopes become exposed. Zolbetuximab, a chimeric monoclonal antibody, mediates specific killing of CLDN18.2-positive cells through immune effector mechanisms.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2021",
+        "authors": [
+          "Sahin U",
+          "Türeci Ö",
+          "Manikhas G",
+          "Lordick F",
+          "Rusyn A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adolescent",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Claudins",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33610734/"
+      },
+      {
+        "pmid": "39992668",
+        "title": "First-Line Sugemalimab Plus Chemotherapy for Advanced Gastric Cancer: The GEMSTONE-303 Randomized Clinical Trial.",
+        "abstract": "Gastric cancer, including gastroesophageal junction cancer, is one of the most commonly diagnosed cancers worldwide, with high mortality. Sugemalimab is a fully human anti-programmed death-ligand 1 (PD-L1) antibody. The combination of sugemalimab and chemotherapy showed promising antitumor activity and safety in a phase 1b study among patients with treatment-naive, unresectable, locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma. This combination was further evaluated in the GEMSTONE-303 phase 3 trial.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Zhang Xiaotian",
+          "Wang Jufeng",
+          "Wang Gang",
+          "Zhang Yanqiao",
+          "Fan Qingxia"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Adenocarcinoma",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B7-H1 Antigen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39992668/"
+      },
+      {
+        "pmid": "38191613",
+        "title": "Neoadjuvant atezolizumab plus chemotherapy in gastric and gastroesophageal junction adenocarcinoma: the phase 2 PANDA trial.",
+        "abstract": "Gastric and gastroesophageal junction (G/GEJ) cancers carry a poor prognosis, and despite recent advancements, most patients die of their disease. Although immune checkpoint blockade became part of the standard-of-care for patients with metastatic G/GEJ cancers, its efficacy and impact on the tumor microenvironment (TME) in early disease remain largely unknown. We hypothesized higher efficacy of neoadjuvant immunotherapy plus chemotherapy in patients with nonmetastatic G/GEJ cancer. In the phase 2 PANDA trial, patients with previously untreated resectable G/GEJ tumors (n = 21) received neoadjuvant treatment with one cycle of atezolizumab monotherapy followed by four cycles of atezolizumab plus docetaxel, oxaliplatin and capecitabine. Treatment was well tolerated. There were grade 3 immune-related adverse events in two of 20 patients (10%) but no grade 4 or 5 immune-related adverse events, and all patients underwent resection without treatment-related delays, meeting the primary endpoin",
+        "journal": "Nature medicine",
+        "year": "2024",
+        "authors": [
+          "Verschoor Yara L",
+          "van de Haar Joris",
+          "van den Berg José G",
+          "van Sandick Johanna W",
+          "Kodach Liudmila L"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Programmed Cell Death 1 Receptor",
+          "Adenocarcinoma",
+          "Stomach Neoplasms",
+          "Esophagogastric Junction",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Tumor Microenvironment",
+          "Esophageal Neoplasms",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38191613/"
+      },
+      {
+        "pmid": "39952264",
+        "title": "Perioperative or postoperative adjuvant oxaliplatin with S-1 versus adjuvant oxaliplatin with capecitabine in patients with locally advanced gastric or gastro-oesophageal junction adenocarcinoma undergoing D2 gastrectomy (RESOLVE): final report of a randomised, open-label, phase 3 trial.",
+        "abstract": "The multicentre RESOLVE trial examined the efficacy of perioperative and postoperative S-1 and oxaliplatin (SOX) compared with postoperative capecitabine and oxaliplatin (CapOx) in gastric or gastro-oesophageal junction cancer. Initial analyses did not encompass overall survival owing to the immature data. This paper provides an updated analysis of the survival data from the RESOLVE trial.",
+        "journal": "The Lancet. Oncology",
+        "year": "2025",
+        "authors": [
+          "Zhang Xiaotian",
+          "Liang Han",
+          "Li Ziyu",
+          "Xue Yingwei",
+          "Wang Yanong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Oxaliplatin",
+          "Capecitabine",
+          "Male",
+          "Female",
+          "Stomach Neoplasms",
+          "Esophagogastric Junction",
+          "Middle Aged",
+          "Gastrectomy",
+          "Tegafur"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39952264/"
+      },
+      {
+        "pmid": "37856106",
+        "title": "Chemotherapy and Immune Checkpoint Blockade for Gastric and Gastroesophageal Junction Adenocarcinoma.",
+        "abstract": "Combining immune checkpoint blockade (ICB) with chemotherapy improves outcomes in patients with metastatic gastric and gastroesophageal junction (G/GEJ) adenocarcinoma; however, whether this combination has activity in the perioperative setting remains unknown.",
+        "journal": "JAMA oncology",
+        "year": "2023",
+        "authors": [
+          "Manji Gulam A",
+          "Lee Shing",
+          "Del Portillo Armando",
+          "May Michael",
+          "Ana Sarah Sta"
+        ],
+        "pub_types": [
+          "Controlled Clinical Trial",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Aged",
+          "Female",
+          "Stomach Neoplasms",
+          "Capecitabine",
+          "Immune Checkpoint Inhibitors",
+          "Oxaliplatin",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Neoplasm Recurrence, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37856106/"
+      },
+      {
+        "pmid": "40244574",
+        "title": "Atezolizumab and Trastuzumab Plus Chemotherapy for ERBB2-Positive Locally Advanced Resectable Gastric Cancer: A Randomized Clinical Trial.",
+        "abstract": "Effective treatment of locally advanced gastric cancer (GC) or gastroesophageal junction (GEJ) cancer remains a challenge.",
+        "journal": "JAMA oncology",
+        "year": "2025",
+        "authors": [
+          "Peng Zhi",
+          "Zhang Xiaotian",
+          "Liang Han",
+          "Zheng Zhichao",
+          "Wang Zhenning"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Stomach Neoplasms",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Antibodies, Monoclonal, Humanized",
+          "Erb-b2 Receptor Tyrosine Kinases",
+          "Trastuzumab",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40244574/"
+      },
+      {
+        "pmid": "25744576",
+        "title": "Efficacy and safety of trastuzumab in combination with oxaliplatin and fluorouracil-based chemotherapy for patients with HER2-positive metastatic gastric and gastro-oesophageal junction adenocarcinoma patients: a retrospective study.",
+        "abstract": "Trastuzumab with 5-fluorouracil (5-FU) and cisplatin offers prolonged survival in patients with HER2-overexpressing advanced gastric cancer (AGC) and advanced gastro-oesophageal junction cancer (AGOJ). Oxaliplatin in combination with intravenous 5-FU plus leucovorin (LV; modified [m]FOLFOX6) or capecitabine (XELOX) improves tolerability compared with 5-FU/cisplatin regimen. There are few data available on the efficacy and safety of trastuzumab-oxaliplatin-based chemotherapy in previously untreated HER2-positive AGC and AGOJ patients.",
+        "journal": "Bulletin du cancer",
+        "year": "2015",
+        "authors": [
+          "Soularue Émilie",
+          "Cohen Romain",
+          "Tournigand Christophe",
+          "Zaanan Aziz",
+          "Louvet Christophe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Deoxycytidine",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25744576/"
+      },
+      {
+        "pmid": "32437664",
+        "title": "First-line pembrolizumab and trastuzumab in HER2-positive oesophageal, gastric, or gastro-oesophageal junction cancer: an open-label, single-arm, phase 2 trial.",
+        "abstract": "Addition of trastuzumab to first-line chemotherapy improves overall survival in patients with HER2-positive metastatic gastric cancer. We assessed the safety and activity of pembrolizumab in combination with trastuzumab and chemotherapy in first-line HER2-positive metastatic oesophagogastric (gastric, oesophageal, or gastroesophageal junction) cancer.",
+        "journal": "The Lancet. Oncology",
+        "year": "2020",
+        "authors": [
+          "Janjigian Yelena Y",
+          "Maron Steven B",
+          "Chatila Walid K",
+          "Millang Brittanie",
+          "Chavan Shweta S"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Disease Progression",
+          "Esophageal Neoplasms",
+          "Esophagogastric Junction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32437664/"
+      },
+      {
+        "pmid": "38797537",
+        "title": "Effect of anti-claudin 18.2 monoclonal antibody zolbetuximab alone or combined with chemotherapy or programmed cell death-1 blockade in syngeneic and xenograft gastric cancer models.",
+        "abstract": "The development of targeted cancer therapies based on monoclonal antibodies against tumor-associated antigens has progressed markedly over recent decades. This approach is dependent on the identification of tumor-specific, normal tissue-sparing antigenic targets. The transmembrane protein claudin-18 splice variant 2 (CLDN18.2) is frequently and preferentially displayed on the surface of primary gastric adenocarcinomas, making it a promising monoclonal antibody target. Phase 3 studies of zolbetuximab, a chimeric immunoglobulin G1 monoclonal antibody targeting CLDN18.2, combined with 5-fluorouracil/leucovorin plus oxaliplatin (modified FOLFOX6) or capecitabine plus oxaliplatin (CAPOX) in advanced or metastatic first-line gastric or gastroesophageal junction (G/GEJ) adenocarcinoma have demonstrated favorable clinical results with zolbetuximab. In studies using xenograft or syngeneic models with gastric cancer cell lines, zolbetuximab mediated death of CLDN18.2-positive human cancer cell l",
+        "journal": "Journal of pharmacological sciences",
+        "year": "2024",
+        "authors": [
+          "Nishibata Toshihide",
+          "Weng Jane",
+          "Omori Keisuke",
+          "Sato Yuji",
+          "Nakazawa Taisuke"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Stomach Neoplasms",
+          "Animals",
+          "Humans",
+          "Antibodies, Monoclonal",
+          "Claudins",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cell Line, Tumor",
+          "Programmed Cell Death 1 Receptor",
+          "Mice",
+          "Adenocarcinoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38797537/"
+      },
+      {
+        "pmid": "36121651",
+        "title": "First-line nivolumab plus chemotherapy vs chemotherapy in patients with advanced gastric, gastroesophageal junction and esophageal adenocarcinoma: CheckMate 649 Chinese subgroup analysis.",
+        "abstract": "First-line chemotherapy for advanced/metastatic human epidermal growth factor receptor 2 (HER2)-negative gastric/gastroesophageal junction cancer (GC/GEJC) has poor median overall survival (OS; <1 year). We report efficacy and safety results from Chinese patients in the phase III global CheckMate 649 study of nivolumab plus chemotherapy vs chemotherapy for the first-line treatment of GC/GEJC/esophageal adenocarcinoma (EAC). Chinese patients with previously untreated advanced or metastatic GC/GEJC/EAC were randomized to receive nivolumab (360 mg Q3W or 240 mg Q2W) plus chemotherapy (XELOX [capecitabine and oxaliplatin] Q3W or FOLFOX [oxaliplatin, leucovorin and 5-fluorouracil] Q2W), nivolumab plus ipilimumab (not reported) or chemotherapy alone. OS, blinded independent central review-assessed progression-free survival (PFS), objective response rate (ORR), duration of response (DOR) and safety are reported. Of 1581 patients enrolled and randomized, 208 were Chinese. In these patients, ni",
+        "journal": "International journal of cancer",
+        "year": "2023",
+        "authors": [
+          "Liu Tianshu",
+          "Bai Yuxian",
+          "Lin Xiaoyan",
+          "Li Wei",
+          "Wang Jufeng"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Nivolumab",
+          "Oxaliplatin",
+          "East Asian People",
+          "Esophagogastric Junction",
+          "Adenocarcinoma",
+          "Stomach Neoplasms",
+          "Esophageal Neoplasms",
+          "Ipilimumab",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36121651/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:44:07.088850",
+  "success": true,
+  "error_message": null
+}

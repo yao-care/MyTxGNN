@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Famotidine",
+    "disease": "hyperinsulinism",
+    "query_string": "Famotidine AND hyperinsulinism"
+  },
+  "data": {
+    "query": "Famotidine AND hyperinsulinism",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:38:26.040446",
+  "success": true,
+  "error_message": null
+}

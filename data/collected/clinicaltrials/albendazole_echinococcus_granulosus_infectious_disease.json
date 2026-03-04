@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Albendazole",
+    "disease": "echinococcus granulosus infectious disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05824442",
+      "title": "Evaluation of a New Multiplex Quantitative PCR Technique for the Diagnosis of Echinococcosis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-10-24",
+      "completion_date": "2026-10",
+      "country": "France",
+      "enrollment": 43,
+      "brief_summary": "Echinococcosis is a severe parasitosis caused by the development of the tapeworm larva Echinococcus multilocularis, responsible for alveolar echinococcosis (AE) or Echinococcus granulosus, responsible for cystic echinococcosis (CE). The treatment is based on surgery (only possible in 30 to 40% of cases) and/or on a benzimidazole antiparasitic treatment, especially albendazole. Albendazole is only parasitostatic, it slows down the development of the parasite but does not kill it. It is often pres",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women aged \\>18 years with a diagnosis of echinococcosis (Alveolar Echinococcosis or Cystic Echinococcosis) established according to the reference criteria\n* Signature of the informed consent form indicating that the subject has understood the purpose and the procedure",
+      "endpoints": [
+        "Performance indicators of a new diagnosis technique based on multiplex quantitative PCR"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Besancon",
+      "url": "https://clinicaltrials.gov/study/NCT05824442"
+    }
+  ],
+  "timestamp": "2026-03-04T16:42:16.219344",
+  "success": true,
+  "error_message": null
+}

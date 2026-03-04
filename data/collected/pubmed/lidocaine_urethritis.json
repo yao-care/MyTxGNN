@@ -1,0 +1,578 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "urethritis",
+    "query_string": "Lidocaine AND urethritis"
+  },
+  "data": {
+    "query": "Lidocaine AND urethritis",
+    "results": [
+      {
+        "pmid": "31307254",
+        "title": "Comparing 2% lidocaine gel (Dispogel and Cathejell) in cystoscopy.",
+        "abstract": "Cystoscopy is a common urologic procedure. Analgesics are often used to reduce any pain associated with this procedure. The aim of this study was to investigate the efficacy in reducing pain and the cost-effectiveness of two forms of lidocaine gel in patients undergoing cystoscopy.",
+        "journal": "The Journal of international medical research",
+        "year": "2019",
+        "authors": [
+          "Ucar Muharrem",
+          "Oguz Fatih",
+          "Gecit Ilhan",
+          "Aydogan Mustafa Said"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Blood Pressure",
+          "Cystoscopy",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31307254/"
+      },
+      {
+        "pmid": "36570502",
+        "title": "Comparative evaluation of sedative and anti-nociceptive effects of epidural romifidine, romifidine-lidocaine, and lidocaine in donkeys (Equus asinus).",
+        "abstract": "Local and regional anesthetic procedures are valuable tools in veterinary practice. Caudal epidural administration of local anesthetic agents is widely reported for surgical interventions of the tail, anus, rectum, vulva, vagina, urethra, and bladder in the standing horse. Epidural analgesia is also obtained using various drugs such as alpha-2 adrenoceptor agonists, dissociative anesthetics, and opioids. The present study evaluates the anti-nociceptive and sedative effects of epidural administration of romifidine, a romifidine-lidocaine combination, and lidocaine alone in donkeys.",
+        "journal": "Frontiers in veterinary science",
+        "year": "2022",
+        "authors": [
+          "Marzok Mohamed",
+          "Almubarak Adel I",
+          "Babiker Hussein",
+          "Kandeel Mahmoud",
+          "El-Hawari Sayed Fathi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36570502/"
+      },
+      {
+        "pmid": "29944227",
+        "title": "Urethral instillations of clobetasol propionate and lidocaine: a promising treatment of urethral pain syndrome.",
+        "abstract": "To evaluate topical treatment with clobetasol propionate and lidocaine in women with urethral pain syndrome (UPS) in a retrospective pilot study.",
+        "journal": "Clinical and experimental obstetrics & gynecology",
+        "year": "2016",
+        "authors": [
+          "Lindström B E",
+          "Hellberg D",
+          "Lindström A K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anesthetics, Local",
+          "Clobetasol",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29944227/"
+      },
+      {
+        "pmid": "19701033",
+        "title": "Lidocaine jelly and plain aqueous gel for urethral straight catheterization and the Q-tip test: a randomized controlled trial.",
+        "abstract": "To compare the pain perception between lidocaine and plain aqueous gel during assessment of postvoid residual volume and the Q-tip test.",
+        "journal": "Obstetrics and gynecology",
+        "year": "2009",
+        "authors": [
+          "Harmanli Ozgur H",
+          "Okafor Obi",
+          "Ayaz Reyhan",
+          "Knee Alexander"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anesthetics, Local",
+          "Female",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Middle Aged",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19701033/"
+      },
+      {
+        "pmid": "2709497",
+        "title": "Cocaine and lidocaine as topical urethral anesthetics.",
+        "abstract": "To evaluate the efficacy of topical cocaine combined with lidocaine as a urethral anesthetic, a double-blind, randomized, prospective study was performed comparing lidocaine combined with cocaine or placebo in male outpatient cystoscopy. Evaluations were based on a scale of 1 to 10, with 1 representing no discomfort and 10 extreme discomfort as judged by the patient, and 1 representing the best tolerance and 10 extreme intolerance as judged by the physician. Patients who received lidocaine plus cocaine reported a mean score of 3.33 for over-all discomfort of cystoscopy. This was not significantly different than for lidocaine alone. This finding indicates a lack of a summation effect in combining topical anesthetics. Patients undergoing repeat examinations were no more comfortable than those undergoing initial cystoscopy but older patients tolerated the procedure significantly better than younger patients.",
+        "journal": "The Journal of urology",
+        "year": "1989",
+        "authors": [
+          "Pliskin M J",
+          "Kreder K J",
+          "Desmond P M",
+          "Dresner M L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anesthesia, Local",
+          "Anesthetics, Local",
+          "Cocaine",
+          "Cystoscopy",
+          "Double-Blind Method",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Pain Measurement",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2709497/"
+      },
+      {
+        "pmid": "33759297",
+        "title": "Lidocaine lubricant jelly does not reduce pain perception during female urethral catheterization: A systematic review with meta-analysis and trial sequential analysis.",
+        "abstract": "The use of lubrication before performing urethral catheterization has been recommended. However, the benefit of using lidocaine gel over plain lubricant gel in reducing pain perception during female urethral catheterization is unclear. With this review, we aimed to compare the pain perception during female urethral catheterization with or without lidocaine lubricant gel.",
+        "journal": "International journal of clinical practice",
+        "year": "2021",
+        "authors": [
+          "Sharma Sneha",
+          "Sharma Gopal",
+          "Tyagi Shantanu"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Female",
+          "Humans",
+          "Lidocaine",
+          "Lubricants",
+          "Pain Measurement",
+          "Pain Perception",
+          "Randomized Controlled Trials as Topic",
+          "Urinary Catheterization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33759297/"
+      },
+      {
+        "pmid": "28670677",
+        "title": "A Randomized Control Trial Comparing Combined Glandular Lidocaine Injection and Intraurethral Lidocaine Gel with Intraurethral Lidocaine Gel Alone in Cystoscopy and Urethral Dilatation.",
+        "abstract": "Cystoscopy is one of the most common urologic procedures. The aim of this study is to investigate the combined effect of intraurethral lidocaine gel and intraglandular injection of lidocaine 2% on pain during and after cystoscopy. Materials &amp; Methods: In this double-blind, parallel group randomized clinical trial, 156 patients referred for double J removal, urethral dilatation, or cystoscopy were enrolled. The patients were divided into two groups, A and B. All patients received 20 cc of intraurethral lidocaine gel 2%. In group A (N = 75), lidocaine 2% was also injected into the glans penis. The patients in group B (N = 81) only received the intraurethral lidocaine gel. Cystoscopy was performed 10 minutes later. The primary outcome of interest was measured in terms of pain score (visual analogue scale) during and 5 minutes after cystoscopy.",
+        "journal": "Urology journal",
+        "year": "2017",
+        "authors": [
+          "Gooran Shahram",
+          "Pourfakhr Pejman",
+          "Bahrami Shirin",
+          "Fakhr Yasseri Ali Mohammad",
+          "Javid Amir"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anesthesia, Local",
+          "Anesthetics, Local",
+          "Cystoscopy",
+          "Dilatation",
+          "Double-Blind Method",
+          "Gels",
+          "Humans",
+          "Injections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28670677/"
+      },
+      {
+        "pmid": "11371877",
+        "title": "Absorption of alkalized intravesical lidocaine in normal and inflamed bladders: a simple method for improving bladder anesthesia.",
+        "abstract": "Pharmacokinetic studies have shown that intravesical lidocaine is not sufficiently absorbed by human bladders to achieve significant serum levels and it only provides a superficial local anesthetic effect. We investigated the pharmacokinetics of alkalized intravesical lidocaine in healthy volunteers and patients with interstitial cystitis to determine a safe dose of buffered lidocaine, the effect of interstitial cystitis on lidocaine uptake and the acute local anesthetic effect on bladder pain in interstitial cystitis.",
+        "journal": "The Journal of urology",
+        "year": "2001",
+        "authors": [
+          "Henry R",
+          "Patterson L",
+          "Avery N",
+          "Tanzola R",
+          "Tod D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Adult",
+          "Anesthetics, Local",
+          "Buffers",
+          "Cystitis, Interstitial",
+          "Humans",
+          "Lidocaine",
+          "Pain Measurement"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11371877/"
+      },
+      {
+        "pmid": "22435459",
+        "title": "Intravesical application of lidocaine and sodium bicarbonate in the treatment of obstructive idiopathic lower urinary tract disease in cats.",
+        "abstract": "In human patients with interstitial cystitis, intravesical instillation of alkalinized lidocaine sometimes is associated with sustained amelioration of symptoms beyond the acute treatment phase. Interstitial cystitis shares many features in common with feline idiopathic cystitis.",
+        "journal": "Journal of veterinary internal medicine",
+        "year": "2012",
+        "authors": [
+          "Zezza L",
+          "Reusch C E",
+          "Gerber B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intravesical",
+          "Anesthetics, Local",
+          "Animals",
+          "Cat Diseases",
+          "Cats",
+          "Cystitis",
+          "Female",
+          "Lidocaine",
+          "Lower Urinary Tract Symptoms",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22435459/"
+      },
+      {
+        "pmid": "28917955",
+        "title": "Lidocaine Gel for Urethral Catheterization in Children: A Meta-Analysis.",
+        "abstract": "To compare the efficacy and safety of lidocaine gel vs nonanesthetic gel (NAG) in reducing transurethral bladder catheterization (TUBC) procedural pain in children.",
+        "journal": "The Journal of pediatrics",
+        "year": "2017",
+        "authors": [
+          "Chua Michael E",
+          "Firaza Paul Nimrod B",
+          "Ming Jessica M",
+          "Silangcruz Jan Michael A",
+          "Braga Luis H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anesthetics, Local",
+          "Child",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Models, Statistical",
+          "Outcome Assessment, Health Care",
+          "Urethra",
+          "Urinary Catheterization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28917955/"
+      },
+      {
+        "pmid": "18419328",
+        "title": "Patient tolerance during cystoscopy: a randomized study comparing lidocaine hydrochloride gel and dimethyl sulfoxide with lidocaine.",
+        "abstract": "Cystoscopy is one of the most common examinations in urologic outpatient clinics. Various anesthetic approaches have been used to make cystoscopy more tolerable for patients. The aim of the present prospective randomized study was to evaluate the efficacy of lidocaine hydrochloride gel compared to dimethyl sulfoxide (DMSO) with lidocaine in rigid cystoscopy.",
+        "journal": "Journal of endourology",
+        "year": "2008",
+        "authors": [
+          "Demir Erkan",
+          "Kilciler Mete",
+          "Bedir Selahattin",
+          "Erken Ugur"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Ambulatory Care",
+          "Anesthetics, Local",
+          "Cystoscopy",
+          "Dimethyl Sulfoxide",
+          "Drug Combinations",
+          "Gels",
+          "Humans",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18419328/"
+      },
+      {
+        "pmid": "28365169",
+        "title": "Clinic meatotomy under topical anesthesia.",
+        "abstract": "Almost 20 years after Cartwright et al. (1996) demonstrated the feasibility and effectiveness of clinic meatotomy (CM) under topical lidocaine and prilocaine (EMLA) anesthesia, 50% of meatotomies are still performed under general anesthesia (GA) (Godley et al., 2015). The cost of a meatotomy under GA is approximately 10 times the cost of CM in the present practice. This study presented the outcomes for CM under topical anesthesia, in consecutive patients who presented with meatal stenosis secondary to circumcision.",
+        "journal": "Journal of pediatric urology",
+        "year": "2017",
+        "authors": [
+          "Fronczak C M",
+          "Villanueva C A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ambulatory Surgical Procedures",
+          "Anesthesia, Local",
+          "Child",
+          "Child, Preschool",
+          "Circumcision, Male",
+          "Cohort Studies",
+          "Follow-Up Studies",
+          "Humans",
+          "Male",
+          "Postoperative Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28365169/"
+      },
+      {
+        "pmid": "8189560",
+        "title": "The effects of intraurethral lidocaine anesthetic and patient anxiety on pain perception during cystoscopy.",
+        "abstract": "Despite current practice there is no evidence to demonstrate the efficacy of intraurethral lidocaine gel as an anesthetic for rigid cystoscopy. To evaluate the usefulness of lidocaine in decreasing pain associated with cystoscopy, we performed a prospective, randomized, controlled, double-blind study comparing lidocaine gel with a water based lubricant. The effects of pre-procedure anxiety and prior experience with cystoscopy on pain perception were also evaluated. Physician perception of pain experienced by the patient was compared with the actual pain experienced. We found no decrease in pain perception in men or women following lidocaine gel instillation with a 5 or 10-minute dwell time compared to instillation of the plain lubricant. Increased preprocedure anxiety correlated with increased pain perception in women. Personal experience with prior cystoscopic procedures significantly decreased the current pain perception in men. Physicians underestimated the patient pain perception i",
+        "journal": "The Journal of urology",
+        "year": "1994",
+        "authors": [
+          "Stein M",
+          "Lubetkin D",
+          "Taub H C",
+          "Skinner W K",
+          "Haberman J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anesthesia, Local",
+          "Anxiety",
+          "Cystoscopy",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Instillation, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8189560/"
+      },
+      {
+        "pmid": "9026402",
+        "title": "[Use of a mix of lidocaine and butorphanol as a caudal epidural anesthesia in a mare].",
+        "abstract": "Loss of rear motor control is the main limiting factor in the use of caudal epidural anesthesia in the horse. In man and laboratory animals, a small dose of an opiate combined with a local anesthetic enhances analgesia without impairing motor function. Thus, the amount of local anesthetic administered may be reduced. Butorphanol is an opiate widely used in horses. It has a good margin of safety and few cardiorespiratory effects. The effects of lidocaine (0.25 mg/kg) and lidocaine-butorphanol (0.25 mg/kg, and 0.04 mg/kg, respectively) were compared in 2 groups of 5 healthy unsedated mares. Horses in each group received either lidocaine or lidocaine-butorphanol in saline solution for a total volume of 0.0165 mg/kg. Epidural injection was performed at the first coccygeal interspace. Each mare was used only once. Cutaneous analgesia was assessed by a response to a pin prick; and visceral analgesia was assessed by response to a noxious stimulus applied to the urethra. Heart rate, respirator",
+        "journal": "Canadian journal of veterinary research = Revue canadienne de recherche veterinaire",
+        "year": "1996",
+        "authors": [
+          "Csik-Salmon J",
+          "Blais D",
+          "Vaillancourt D",
+          "Garon O",
+          "Bisaillon A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Analgesics, Opioid",
+          "Anesthesia, Epidural",
+          "Anesthetics, Local",
+          "Animals",
+          "Blood Pressure",
+          "Butorphanol",
+          "Female",
+          "Heart Rate",
+          "Horses",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9026402/"
+      },
+      {
+        "pmid": "26478863",
+        "title": "Comparing the Duration of Spinal Anesthesia Induced With Bupivacaine and a Bupivacaince-Lidocaine Combination in Trans-Urethral Resection of the Prostate (TURP).",
+        "abstract": "Spinal anesthesia is a safe anesthetic mode for transurethral prostate resection (TUPR). There are several studies assessing the effect of bupivacaine, lonely or accompanied by other drugs, on short duration operations. However, there is controversy regarding the exact combination.",
+        "journal": "Anesthesiology and pain medicine",
+        "year": "2015",
+        "authors": [
+          "Chohedri Abdolhamid",
+          "Raeesi Estabragh Reza",
+          "Eghbal Mohammad Hossein",
+          "Sahmeddini Mohammad Ali",
+          "Eftekharian Hamidreza"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26478863/"
+      },
+      {
+        "pmid": "23752454",
+        "title": "Catheter lubrication and fixation: interventions.",
+        "abstract": "This article looks at the indications for catheterisation, the anatomy of the urethra, the importance of asepsis and the rationale for the use of urethral lubrication for catheter insertion. The variations of lubrication available are discussed, including the use of products containing lidocaine and chlorhexidine. It then considers the problems caused by traction to the catheter and discusses the securement devices available for preventing tissue damage at the bladder neck, within the urethra and also at the meatus. The variation of devices is examined along with the potential problems associated with their use. Finally, it discusses the importance of clinicians being knowledgeable about the problems looked at and how to resolve them.",
+        "journal": "British journal of nursing (Mark Allen Publishing)",
+        "year": "2013",
+        "authors": [
+          "Wilson Mary"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Catheters, Indwelling",
+          "Chlorhexidine",
+          "Disinfectants",
+          "Drug Combinations",
+          "Female",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Lubricants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23752454/"
+      },
+      {
+        "pmid": "15798411",
+        "title": "Randomized double-blind comparison of lidocaine gel and plain lubricating gel in relieving pain during flexible cystoscopy.",
+        "abstract": "To compare the pain induced by outpatient flexible cystoscopy in men having local lidocaine jelly application or plain lubricant.",
+        "journal": "Journal of endourology",
+        "year": "2005",
+        "authors": [
+          "Chen Yung Tai",
+          "Hsiao Po Jen",
+          "Wong Wai Yan",
+          "Wang Chung Cheng",
+          "Yang Stephen S D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Ambulatory Care",
+          "Anesthetics, Local",
+          "Anti-Infective Agents, Local",
+          "Chlorhexidine",
+          "Cystoscopy",
+          "Double-Blind Method",
+          "Gels",
+          "Humans",
+          "Lidocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15798411/"
+      },
+      {
+        "pmid": "552747",
+        "title": "Pelvic urethrotomies in bulls.",
+        "abstract": "Pelvic urethrotomies were attempted on 32 bulls (12 cattle and 20 buffaloes). Infra-anal urethrotomy was carried out under a tranquilliser, posterior epidural and supra-ischial blocks. Prebulbomuscular urethrotomy was performed under a tranquilliser, posterior epidural and pelvic plexus blocks. Cystoscopy and litholapaxy were attempted to make comparisons. The animals which had been operated on were maintained for one month during which postoperative signs were noted, and after they were killed post mortem, radiographic, macro- and microscopic findings were recorded. From the results it is concluded that infra-anal urethrotomy presents difficulties whereas prebulbomuscular urethrotomy, especially the closed technique, is suitable for cystoscopy, pelvic lithotomy and litholapaxy.",
+        "journal": "The Veterinary record",
+        "year": "1979",
+        "authors": [
+          "Singh K B",
+          "Rao S V"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anesthesia, Epidural",
+          "Animals",
+          "Buffaloes",
+          "Cattle",
+          "Cattle Diseases",
+          "Hemorrhage",
+          "Lidocaine",
+          "Male",
+          "Perineum",
+          "Postoperative Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/552747/"
+      },
+      {
+        "pmid": "29452745",
+        "title": "Does Lidocaine Gel Decrease Procedural Pain for Pediatric Urethral Catheterization?",
+        "abstract": "",
+        "journal": "Annals of emergency medicine",
+        "year": "2018",
+        "authors": [
+          "Long Brit",
+          "April Michael D"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29452745/"
+      },
+      {
+        "pmid": "18796424",
+        "title": "Intraurethral fluorouracil and lidocaine for intraurethral condyloma acuminata.",
+        "abstract": "A new and convenient means of administering fluorouracil and lidocaine for the treatment of intraurethral condyloma acuminata is discussed.",
+        "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+        "year": "2008",
+        "authors": [
+          "Gammon David C",
+          "Reed Keith A",
+          "Patel Mausaum",
+          "Balaji K C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anesthetics, Local",
+          "Condylomata Acuminata",
+          "Drug Therapy, Combination",
+          "Fluorouracil",
+          "Gels",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18796424/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:56:49.500695",
+  "success": true,
+  "error_message": null
+}

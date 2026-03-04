@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "AL amyloidosis",
+    "query_string": "Acetylcysteine AND AL amyloidosis"
+  },
+  "data": {
+    "query": "Acetylcysteine AND AL amyloidosis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:02:24.008504",
+  "success": true,
+  "error_message": null
+}

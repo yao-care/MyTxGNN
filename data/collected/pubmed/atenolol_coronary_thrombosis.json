@@ -1,0 +1,244 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Atenolol",
+    "disease": "coronary thrombosis",
+    "query_string": "Atenolol AND coronary thrombosis"
+  },
+  "data": {
+    "query": "Atenolol AND coronary thrombosis",
+    "results": [
+      {
+        "pmid": "1782934",
+        "title": "Coronary artery thrombosis and thrombolysis in baboons: the effect of atenolol treatment on myocardial infarct size.",
+        "abstract": "The effect of the beta-blocker atenolol on experimental infarct size was studied in a non-human primate model. In 12 baboons thrombosis of the left anterior descending coronary artery (LAD) was induced and atenolol (0.1 to 0.2 mg.kg-1 intravenously, sufficient to lower the heart rate by 20%) was administered 10 min after the onset of ischaemia in six animals, whereas the others received placebo. Thrombolysis was induced 60 min after the onset of ischaemia by intravenous injection of rtPA (12 micrograms.kg-1.min-1) in all animals. Heart rate dropped significantly after atenolol injection (128 +/- 9 beats.min-1 versus 163 +/- 15 beats.min-1, P less than 0.001) and was also lower than in the control group (128 +/- 9 beats.min-1 versus 158 +/- 22 beats.min-1, P less than 0.05). Blood pressure remained unchanged after atenolol treatment. As compared to the control group, atenolol limited infarct size, expressed as a percentage of left ventricular mass (4.6 +/- 1.9% versus 7.9 +/- 1.3%, P le",
+        "journal": "European heart journal",
+        "year": "1991",
+        "authors": [
+          "Herijgers P",
+          "Flameng W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Atenolol",
+          "Blood Pressure",
+          "Coronary Circulation",
+          "Coronary Thrombosis",
+          "Electrocardiography",
+          "Female",
+          "Heart Rate",
+          "Male",
+          "Myocardial Infarction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1782934/"
+      },
+      {
+        "pmid": "11811387",
+        "title": "Nebivolol: endothelium-mediated vasodilating effect.",
+        "abstract": "Nebivolol, a racemic mixture of (S,R,R,R) and (R,S,S,S) enantiomers, is the most beta1-selective adrenoceptor antagonist currently available for clinical use. However, its haemodynamic effects differ from those of classical beta-adrenoceptor antagonists as a result of a vasodilating action. Nebivolol is devoid of alpha-adrenergic antagonist actions, and the detailed mechanism of its vasodilator action is unknown. Nebivolol relaxes precontracted strips of canine coronary and carotid artery only if the endothelium is intact, and such relaxation is antagonized by inhibition of nitric oxide (NO) synthase, implicating the endothelial L-arginine/NO mechanism. Nebivolol and atenolol have been compared in phenylephrine preconstricted dorsal hand veins of 11 healthy men. Nebivolol caused venodilation, which was antagonized by N(G)-monomethyl-L-arginine (LNMMA), whereas atenolol did not, suggesting that such a mechanism could also operate in human veins. Venodilation could be functionally import",
+        "journal": "Journal of cardiovascular pharmacology",
+        "year": "2001",
+        "authors": [
+          "Ritter J M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-1 Receptor Antagonists",
+          "Adrenergic beta-Antagonists",
+          "Animals",
+          "Arginine",
+          "Benzopyrans",
+          "Endothelium, Vascular",
+          "Ethanolamines",
+          "Humans",
+          "Hypertension",
+          "Nebivolol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11811387/"
+      },
+      {
+        "pmid": "1718703",
+        "title": "An overview of therapeutic interventions in myocardial infarction. Emphasis on secondary prevention.",
+        "abstract": "The high risk of subsequent mortality and morbidity following the occurrence of a myocardial infarction (MI) underlies the importance of instituting effective preventive regimens as part of the overall management of these patients. The aim of such treatment is to prolong survival by preventing sudden and non-sudden death and further major cardiovascular events. Currently available data from randomised, controlled clinical trials in MI patients indicate that early treatment with thrombolytic agents [streptokinase, anisolyated plasminogen streptokinase activator complex (APSAC) or recombinant tissue-type plasminogen activator (rt-PA)] in the first few hours after onset of symptoms significantly reduces the short term mortality following MI, with follow-up studies at 1 year indicating that the early benefits persist long term. The optimum time for initiation of thrombolytic therapy is within 6 hours of onset, but treatment started between 7 and 24 hours after onset can also be beneficial.",
+        "journal": "Drugs",
+        "year": "1991",
+        "authors": [
+          "Hinstridge V",
+          "Speight T M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Angina Pectoris",
+          "Anti-Arrhythmia Agents",
+          "Anticoagulants",
+          "Arrhythmias, Cardiac",
+          "Coronary Thrombosis",
+          "Heart Failure",
+          "Humans",
+          "Myocardial Infarction",
+          "Platelet Aggregation Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1718703/"
+      },
+      {
+        "pmid": "26398401",
+        "title": "Anti-thrombotic effects of nebivolol and carvedilol: Involvement of β2 receptors and COX-2/PGI2 pathways.",
+        "abstract": "Third generation β-adrenolytics, such as selective β1 adrenoceptor antagonist nebivolol and non-selective β1/β2 and α1 adrenoceptor antagonist carvedilol, display beneficial nitric oxide (NO)-dependent vasodilator activities that contribute to their therapeutic efficacy. In the present work, we analyzed whether nebivolol and carvedilol, as well as other β-adrenolytics with similar pharmacological profiles (selective β1 adrenoceptor antagonist - atenolol and non-selective α/β adrenoceptor antagonist - labetalol), possess the ability to induce PGI2-dependent anti-thrombotic activity in vivo in normotensive rats.",
+        "journal": "Pharmacological reports : PR",
+        "year": "2015",
+        "authors": [
+          "Kozlovski Valery I",
+          "Lomnicka Magdalena",
+          "Bartus Magdalena",
+          "Sternak Magdalena",
+          "Chlopicki Stefan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-2 Receptor Antagonists",
+          "Adrenergic beta-Antagonists",
+          "Animals",
+          "Carbazoles",
+          "Carvedilol",
+          "Cyclooxygenase 2",
+          "Dose-Response Relationship, Drug",
+          "Epoprostenol",
+          "Fibrinolytic Agents",
+          "Guinea Pigs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26398401/"
+      },
+      {
+        "pmid": "10940116",
+        "title": "Infiltrating basal cell carcinoma in the setting of a venous ulcer.",
+        "abstract": "A 77-year-old man was referred with a 5-year history of an intermittently painful, nonhealing right medial ankle ulcer. The ulcer had not responded to multiple treatment modalities, including Unna boots, compression therapy, sclerotherapy, and split-thickness skin grafting. The past medical history was significant for a deep venous thrombosis in the right leg 30 years earlier (treated with warfarin for 3 months) and a history of greater saphenous vein harvesting for coronary bypass grafting 28 years previously. After the vein stripping, the patient had suffered from increasing right leg edema and stasis changes in the right leg. His history was also remarkable for coronary artery disease, dyslipidemia, and lymphoma treated with chemotherapy 8 years before presentation, with no evidence of recurrence. He had stopped smoking approximately 20 years earlier. Medications included atenolol, simvastatin, nicardipine, nitroglycerin, and aspirin. Skin examination revealed a 3.0 x 3.5-cm ulcer a",
+        "journal": "International journal of dermatology",
+        "year": "2000",
+        "authors": [
+          "Lutz M E",
+          "Davis M D",
+          "Otley C C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Ankle",
+          "Basal Cell Carcinoma",
+          "Diagnosis, Differential",
+          "Humans",
+          "Male",
+          "Skin Neoplasms",
+          "Varicose Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10940116/"
+      },
+      {
+        "pmid": "2241769",
+        "title": "Determinants of infarct size in non-human primates.",
+        "abstract": "To achieve a better understanding of the major factors that determine infarct size in non-human primates, a mathematical model was constructed using stepwise regression analysis. The model was developed on the basis of infarct size measurements, including the anatomical area at risk, regional myocardial blood flow measurements and hemodynamic determinants obtained in 23 control baboons undergoing up to 2 h of coronary artery thrombosis followed by thrombolysis. In this model, the size of the perfusion bed of the occluded coronary artery and the duration of coronary artery occlusion were found to be the only important predictors of infarct size (expressed as a percentage of left ventricular mass). R2 (square or the multiple correlation coefficient) was 70% in this model. Collateral blood flow and rate-pressure product were not identified as important predictors of infarct size. In a second group of eight baboons, atenolol (0.1 mg.kg-1) was administered intravenously 15 min after the ons",
+        "journal": "Basic research in cardiology",
+        "year": "1990",
+        "authors": [
+          "Flameng W",
+          "Lesaffre E",
+          "Vanhaecke J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Coronary Circulation",
+          "Forecasting",
+          "Hemodynamics",
+          "Myocardial Infarction",
+          "Papio",
+          "Regression Analysis",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2241769/"
+      },
+      {
+        "pmid": "27720763",
+        "title": "Hemodynamic responses to Lachesis muta (South American bushmaster) snake venom in anesthetized rats.",
+        "abstract": "In this work, we examined the hemodynamic responses to Lachesis muta (South American bushmaster) venom in anesthetized male Wistar rats. Venom (1.5 mg/kg, i.v.) caused immediate hypotension that was followed by a gradual return towards baseline over 60 min; there were no significant changes in heart rate, ECG parameters and respiratory rate. A higher dose (3 mg/kg, i.v.) caused sustained hypotension, variable bradycardia, respiratory depression and fluctuations in ECG; death occurred within 10-60 min. Venom injected intramuscularly (15 mg/kg) produced a smaller decrease in blood pressure that was more persistent than with 1.5 mg/kg (i.v.). Pre-treatment with atenolol (selective β1-adrenergic receptor antagonist) potentiated the response to venom (1.5 mg/kg, i.v.) and resulted in a hemodynamic profile similar to that seen with 3 mg/kg (i.v.). Macroscopically, systemic hemorrhage was seen only in the ileum, whereas histological analysis revealed extensive pulmonary hemorrhage; the heart,",
+        "journal": "Toxicon : official journal of the International Society on Toxinology",
+        "year": "2016",
+        "authors": [
+          "Dias Lourdes",
+          "Rodrigues Mariana A P",
+          "Rennó André L",
+          "Stroka Alessandra",
+          "Inoue Bruna R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bradycardia",
+          "Heart",
+          "Heart Rate",
+          "Hemodynamics",
+          "Hypotension",
+          "Male",
+          "Myocardium",
+          "Rats, Wistar",
+          "Respiratory Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27720763/"
+      },
+      {
+        "pmid": "19166153",
+        "title": "[Endo arterial investigation: suspicious for the cholesterol crystal embolism disease].",
+        "abstract": "Cholesterol crystal embolism (CCE) is a rare disorder which can complicate cardiac catheterization, angiographic studies and cardiovascular surgery. The CCE exposes to a great risk of renal failure and it can even threaten life by means of a multi visceral failing syndrome.",
+        "journal": "La Tunisie medicale",
+        "year": "2007",
+        "authors": [
+          "Fehri W",
+          "Lahidheb D",
+          "Bouladi W",
+          "Rahal N",
+          "Smiri Z"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aortic Aneurysm, Abdominal",
+          "Coronary Angiography",
+          "Coronary Disease",
+          "Diagnosis, Differential",
+          "Embolism, Cholesterol",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19166153/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:19:05.475707",
+  "success": true,
+  "error_message": null
+}

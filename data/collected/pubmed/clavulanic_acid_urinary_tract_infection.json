@@ -1,0 +1,604 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "urinary tract infection",
+    "query_string": "Clavulanic Acid AND urinary tract infection"
+  },
+  "data": {
+    "query": "Clavulanic Acid AND urinary tract infection",
+    "results": [
+      {
+        "pmid": "30592257",
+        "title": "Urinary Tract Infection in Children.",
+        "abstract": "Urinary Tract Infection (UTI) is a common infection in children. Prompt diagnosis and appropriate treatment are very important to reduce the morbidity associated with this condition.",
+        "journal": "Recent patents on inflammation & allergy drug discovery",
+        "year": "2019",
+        "authors": [
+          "Leung Alexander K C",
+          "Wong Alex H C",
+          "Leung Amy A M",
+          "Hon Kam L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Cystitis",
+          "Drug Resistance, Bacterial",
+          "Dysuria",
+          "Escherichia coli",
+          "Escherichia coli Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30592257/"
+      },
+      {
+        "pmid": "37273158",
+        "title": "Recurrent Urinary Tract Infection in Adult Patients, Risk Factors, and Efficacy of Low Dose Prophylactic Antibiotics Therapy.",
+        "abstract": "Recurrent urinary tract infection (UTI) occurs in sizable percentages of patients after a single episode and is a frequent cause of primary healthcare visits and hospital admissions, accounting for up to one quarter of emergency department visits. We aim to describe the pattern of continuous antibiotic prophylaxis prescription for recurrent urinary tract infections, in what group of adult patients they are prescribed and their efficacy.",
+        "journal": "Journal of epidemiology and global health",
+        "year": "2023",
+        "authors": [
+          "Alghoraibi Hala",
+          "Asidan Aisha",
+          "Aljawaied Raneem",
+          "Almukhayzim Raghad",
+          "Alsaydan Aljoharah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Female",
+          "Antibiotic Prophylaxis",
+          "Nitrofurantoin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Escherichia coli",
+          "Retrospective Studies",
+          "Urinary Bladder, Neurogenic",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37273158/"
+      },
+      {
+        "pmid": "38146260",
+        "title": "Short Oral Antibiotic Therapy for Pediatric Febrile Urinary Tract Infections: A Randomized Trial.",
+        "abstract": "Febrile urinary tract infection (fUTI) in well-appearing children is conventionally treated with a standard 10-day course of oral antibiotic. The objective of this study is to determine the noninferiority (5% threshold) of a 5-day amoxicillin-clavulanate course compared with a 10-day regimen to treat fUTIs.",
+        "journal": "Pediatrics",
+        "year": "2024",
+        "authors": [
+          "Montini Giovanni",
+          "Tessitore Antimo",
+          "Console Karen",
+          "Ronfani Luca",
+          "Barbi Egidio"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Neoplasm Recurrence, Local",
+          "Urinary Tract Infections",
+          "Infant",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146260/"
+      },
+      {
+        "pmid": "40552968",
+        "title": "Sulopenem versus Amoxicillin/Clavulanate for the Treatment of Uncomplicated Urinary Tract Infection.",
+        "abstract": "Existing antibiotics for uncomplicated urinary tract infections are becoming less reliably effective owing to increasing antimicrobial resistance. Our objective was to evaluate the safety and efficacy of sulopenem/probenecid for uncomplicated urinary tract infections.",
+        "journal": "NEJM evidence",
+        "year": "2025",
+        "authors": [
+          "Puttagunta Sailaja",
+          "Aronin Steven I",
+          "Gupta Jayanti",
+          "Das Anita F",
+          "Gupta Kalpana"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Double-Blind Method",
+          "Treatment Outcome",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40552968/"
+      },
+      {
+        "pmid": "27662890",
+        "title": "Urinary tract infections in adults.",
+        "abstract": "A urinary tract infection (UTI) is a collective term for infections that involve any part of the urinary tract. It is one of the most common infections in local primary care. The incidence of UTIs in adult males aged under 50 years is low, with adult women being 30 times more likely than men to develop a UTI. Appropriate classification of UTI into simple or complicated forms guides its management and the ORENUC classification can be used. Diagnosis of a UTI is based on a focused history, with appropriate investigations depending on individual risk factors. Simple uncomplicated cystitis responds very well to oral antibiotics, but complicated UTIs may require early imaging, and referral to the emergency department or hospitalisation to prevent urosepsis may be warranted. Escherichia coli remains the predominant uropathogen in acute community-acquired uncomplicated UTIs and amoxicillin-clavulanate is useful as a first-line antibiotic. Family physicians are capable of managing most UTIs if",
+        "journal": "Singapore medical journal",
+        "year": "2016",
+        "authors": [
+          "Tan Chee Wei",
+          "Chlebicki Maciej Piotr"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Clavulanic Acid",
+          "Cystitis",
+          "Drug Resistance, Microbial",
+          "Escherichia coli",
+          "Escherichia coli Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27662890/"
+      },
+      {
+        "pmid": "31880885",
+        "title": "Antibiotic Resistance Among Uropathogenic Escherichia coli.",
+        "abstract": "Urinary tract infections (UTIs) belong to the most common community-acquired and nosocomial infections. A main etiological factor of UTIs is uropathogenic Escherichia coli (UPEC). This review describes the current state of knowledge on the resistance of UPEC to antibiotics recommended for the treatment of UTIs based on the available literature data. Nitrofurantoin and fosfomycin are recommended as first-line therapy in the treatment of uncomplicated cystitis, and the resistance to these antimicrobial agents remains low between UPEC. Recently, in many countries, the increasing resistance is observed to trimethoprim-sulfamethoxazole, which is widely used as the first-line antimicrobial in the treatment of uncomplicated UTIs. In European countries, the resistance of UPEC to this antimicrobial agent ranges from 14.6% to 60%. The widespread use of fluoroquinolones (FQs), especially ciprofloxacin, in the outpatients is the cause of a continuous increase in resistance to these drugs. The resi",
+        "journal": "Polish journal of microbiology",
+        "year": "2019",
+        "authors": [
+          "Kot Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli Infections",
+          "Humans",
+          "Urinary Tract Infections",
+          "Uropathogenic Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31880885/"
+      },
+      {
+        "pmid": "32538597",
+        "title": "Management of Fever in Infants and Young Children.",
+        "abstract": "Despite dramatic reductions in the rates of bacteremia and meningitis since the 1980s, febrile illness in children younger than 36 months continues to be a concern with potentially serious consequences. Factors that suggest serious infection include age younger than one month, poor arousability, petechial rash, delayed capillary refill, increased respiratory effort, and overall physician assessment. Urinary tract infections are the most common serious bacterial infection in children younger than three years, so evaluation for such infections should be performed in those with unexplained fever. Abnormal white blood cell counts have poor sensitivity for invasive bacterial infections; procalcitonin and C-reactive protein levels, when available, are more informative. Chest radiography is rarely recommended for children older than 28 days in the absence of localizing signs. Lumbar puncture is not recommended for children older than three months without localizing signs; it may also be consi",
+        "journal": "American family physician",
+        "year": "2020",
+        "authors": [
+          "Hamilton Jennifer L",
+          "Evans Susanna G",
+          "Bakshi Munish"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Betacoronavirus",
+          "Blood Culture",
+          "C-Reactive Protein",
+          "COVID-19",
+          "COVID-19 Testing",
+          "Child, Preschool",
+          "Clinical Decision-Making"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32538597/"
+      },
+      {
+        "pmid": "36472062",
+        "title": "Urinary Tract Infection in Pediatrics: Study of Uropathogens and Their Resistance in a Madrid Hospital.",
+        "abstract": "Resistance to antibiotics is a growing problem with repercussions on the choice of first-line treatment in urinary tract infection (UTI) in childhood.",
+        "journal": "Archivos espanoles de urologia",
+        "year": "2022",
+        "authors": [
+          "Rosado María Romo",
+          "Molina Adoración Granados",
+          "Velasco Almudena Lagares",
+          "Chinchilla Gloria Caro",
+          "Lana Paula Vidal"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Escherichia coli",
+          "Cross-Sectional Studies",
+          "Retrospective Studies",
+          "Urinary Tract Infections",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Hospitals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36472062/"
+      },
+      {
+        "pmid": "6712275",
+        "title": "Amoxycillin and clavulanic acid in the treatment of urinary infection.",
+        "abstract": "The pharmacokinetics and clinical efficacy of amoxycillin combined with clavulanic acid in the treatment of 32 children with urinary tract infection were studied. Twenty one (80%) of 26 children with proved urinary tract infection showed a favourable clinical and bacteriological response. Fifteen of these children had amoxycillin resistant organisms and were treated successfully. In 20 children the serum and urine concentrations of amoxycillin and clavulanic acid were measured after the first oral dose.",
+        "journal": "Archives of disease in childhood",
+        "year": "1984",
+        "authors": [
+          "Al Roomi L G",
+          "Sutton A M",
+          "Cockburn F",
+          "McAllister T A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Child",
+          "Child, Preschool",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Infant",
+          "Kinetics",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6712275/"
+      },
+      {
+        "pmid": "39385487",
+        "title": "Comparison of Short-Term Therapeutic Effects between Amoxicillin-Clavulanic Acid and Ceftriaxone Sodium on Febrile Urinary Tract Infections in Children under Five Years Old.",
+        "abstract": "Febrile urinary tract infections in children are typically treated with a standard 10-day course of antibiotics. However, prolonged antibiotic use can lead to increased bacterial resistance, underscoring the need to explore shorter treatment regimens. This study aimed to compare the short-term therapeutic effects of amoxicillin-clavulanic acid and ceftriaxone sodium in children under five years old with febrile urinary tract infections.",
+        "journal": "Archivos espanoles de urologia",
+        "year": "2024",
+        "authors": [
+          "Yang Lei",
+          "Zhang Xin",
+          "Cai Bingbing",
+          "Li Xin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Urinary Tract Infections",
+          "Ceftriaxone",
+          "Child, Preschool",
+          "Male",
+          "Female",
+          "Retrospective Studies",
+          "Anti-Bacterial Agents",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39385487/"
+      },
+      {
+        "pmid": "33597484",
+        "title": "Urinary tract infection and non-ruptured acute appendicitis association: Uro-pathogens findings.",
+        "abstract": "Urinary Tract Infections (UTIs) consider as the most common infections worldwide, with higher risk in patients experienced Acute Appendicitis (AA). The purpose of this study was, to investigate the bacterial profile of UTIs in patients with non-ruptured AA postsurgically, and to assess age- and gender-related links of all AA cases in Karak region, Jordan. Urine samples obtained from 46 cases (32 male and 14 female) aged between 16-70 years were diagnosed as non-ruptured AA, following with isolation and characterization of isolated bacteria. Out of 46 AA cases, uropathogens isolated from 25 (54.3%) UTI cases. Out of these isolates; 42 (73.7%) were gram-negative isolates and 15 (26.3%) were gram-positive bacteria. The percentage of isolates were E. coli (26.3%), Enterobacter species (21%), Enterococcus faecalis and Klebsiella pneumoniea (10.5%) for each, Streptococcus saprophytics and Pseudomonas aeruginosa (7%) for each, Yersinia spp. and S. milleri (8.8%). Out of UTI cases, 20 cases (8",
+        "journal": "Tropical biomedicine",
+        "year": "2019",
+        "authors": [
+          "Al Fraijat B",
+          "Al-Tawarah N M",
+          "Khlaifat A M",
+          "Qaralleh H",
+          "Khleifat K M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Appendicitis",
+          "Bacteria",
+          "Female",
+          "Humans",
+          "Jordan",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33597484/"
+      },
+      {
+        "pmid": "15456336",
+        "title": "Prulifloxacin.",
+        "abstract": "Prulifloxacin, the prodrug of ulifloxacin, is a broad-spectrum oral fluoroquinolone antibacterial agent. After absorption, prulifloxacin is metabolised by esterases to ulifloxacin. The drug has a long elimination half-life, allowing once-daily administration. Ulifloxacin is generally more active in vitro than other fluoroquinolones against a variety of clinical isolates of Gram-negative bacteria, including community and nosocomial isolates of Escherichia coli, Klebsiella spp., Proteus, Providencia and Morganella spp., Moraxella catarrhalis and Haemophilus spp. The activity of ulifloxacin against Pseudomonas aeruginosa varies between countries. Gram-positive organisms, including meticillin- or oxacillin-susceptible Staphylococcus aureus, Enterococcus spp. and Italian community isolates of Streptococcus pneumoniae are susceptible to ulifloxacin. Activity against Spanish strains of S. pneumoniae is moderate. In well designed clinical trials, good clinical and bacteriological efficacy (sim",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Keam Susan J",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Amoxicillin",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bronchitis, Chronic",
+          "Ciprofloxacin",
+          "Clavulanic Acid",
+          "Dioxolanes",
+          "Drug Evaluation, Preclinical",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15456336/"
+      },
+      {
+        "pmid": "32286027",
+        "title": "Urinary Tract Infection in Outpatient Children and Adolescents: Risk Analysis of Antimicrobial Resistance.",
+        "abstract": "Urinary tract infection (UTI) is a common bacterial infection in children. ​​​​​​​Early treatment may prevent renal damage in pyelonephritis. The choice of empiric antibiotic treatment is based on knowledge of the local susceptibility of urinary bacteria to antibiotics. In Israel the recommended empiric oral antibiotic treatment are First or second generation cephalosporin, trimethoprim-sulfamethoxazole or amoxicillin-clavulanic acid.",
+        "journal": "The Israel Medical Association journal : IMAJ",
+        "year": "2020",
+        "authors": [
+          "Eremenko Ron",
+          "Barmatz Shira",
+          "Lumelsky Nadia",
+          "Colodner Raul",
+          "Strauss Merav"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Chi-Square Distribution",
+          "Child",
+          "Child, Preschool",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Bacterial",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32286027/"
+      },
+      {
+        "pmid": "7034642",
+        "title": "Amoxicillin-clavulanic acid in treatment of urinary tract infection due to gram-negative bacteria resistant to penicillin.",
+        "abstract": "Twenty-two adult patients with urinary tract infections caused by penicillin-resistant bacteria completed treatment with amoxicillin alone or amoxicillin plus clavulanic acid in a randomized double-blind clinical trial. Of the 13 patients treated with amoxicillin plus clavulanic acid, the absence of bacteriuria within 7 days of therapy was observed in 85%, as compared with only 25% of the 8 patients receiving amoxicillin only. There were no significant side effects nor any clinical, biochemical, or hematological abnormalities related to either treatment. It was concluded that the combination of clavulanic acid and amoxicillin could be useful in the treatment of uncomplicated urinary tract infection caused by penicillin-resistant bacteria.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1981",
+        "authors": [
+          "Martinelli R",
+          "Lopes A A",
+          "de Oliveira M M",
+          "Rocha H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Clavulanic Acid",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Lactams",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7034642/"
+      },
+      {
+        "pmid": "6984778",
+        "title": "Augmentin (amoxycillin and clavulanic acid) in the treatment of urinary tract infections.",
+        "abstract": "Augmentin (amoxycillin and clavulanic acid) is a new oral antibiotic combination which is particularly indicated in the treatment of urinary tract infections. Potentiation of amoxycillin by the clavulanic acid reduces the level of resistance in most Gram-negative urinary pathogens and these organisms are then sensitive to urinary levels of amoxycillin achieved on standard dosage. Clinical trials in urinary tract infections have shown a success rate of about 70 per cent for amoxycillin-resistant organisms. Augmentin in a dose of 375 mg tds is well tolerated and minimal gastrointestinal side effects occur. Augmentin is a novel antibiotic combination and will be particularly valuable in the oral treatment of urinary tract infections caused by multiply resistant bacteria.",
+        "journal": "Scottish medical journal",
+        "year": "1982",
+        "authors": [
+          "Leigh A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Drug Combinations",
+          "Enterobacteriaceae",
+          "Humans",
+          "Penicillin Resistance",
+          "Urinary Tract Infections",
+          "beta-Lactamases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6984778/"
+      },
+      {
+        "pmid": "38665033",
+        "title": "Prevalence and Resistance Patterns of Urinary Tract Infection in Al-Madinah Al-Munawarah, Saudi Arabia: A Retrospective Study.",
+        "abstract": "Urinary tract infections (UTIs) are among the most common infections and can cause numerous complications of the renal system. This study aimed to assess the prevalence of uropathogens and their antibiotic susceptibility patterns in Al-Madinah Al-Munawarah, Saudi Arabia.",
+        "journal": "Discovery medicine",
+        "year": "2024",
+        "authors": [
+          "Alhhazmi Areej A",
+          "Alhazmi Rawan A",
+          "Alahmadi Eilaf S",
+          "Almuallim Wafa M",
+          "Aljurfi Zainab I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Urinary Tract Infections",
+          "Humans",
+          "Saudi Arabia",
+          "Retrospective Studies",
+          "Male",
+          "Female",
+          "Prevalence",
+          "Middle Aged",
+          "Adult",
+          "Cross-Sectional Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38665033/"
+      },
+      {
+        "pmid": "39296834",
+        "title": "Urinary tract infection among people living with human immunodeficiency virus attending selected hospitals in Addis Ababa and Adama, central Ethiopia.",
+        "abstract": "Urinary tract infections (UTIs) and antibacterial resistance (ABR) are important public health problems, but they are not well-studied among people living with human immunodeficiency virus (PLHIV) globally, especially in low-income countries. Therefore, it is important to regularly measure the extent of UTIs and ABR in the most susceptible populations. This study aimed to investigate the prevalence of UTIs, associated factors, bacterial causal agents, and their antibiotic susceptibility profile among PLHIV in central Ethiopia.",
+        "journal": "Frontiers in public health",
+        "year": "2024",
+        "authors": [
+          "Gebremedhin Ketema Bizuwork",
+          "Yisma Engida",
+          "Alemayehu Haile",
+          "Medhin Girmay",
+          "Belay Girma"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ethiopia",
+          "HIV Infections",
+          "Urinary Tract Infections",
+          "Male",
+          "Cross-Sectional Studies",
+          "Female",
+          "Adult",
+          "Prevalence",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39296834/"
+      },
+      {
+        "pmid": "38565823",
+        "title": "Paediatric Escherichia coli urinary tract infection: susceptibility trends and clinical management-a retrospective analysis of a 10-year period.",
+        "abstract": "Escherichia coli is the predominant urinary pathogen in children. Irish and international studies have demonstrated increasing antimicrobial resistance (AMR) to antibiotics such as co-amoxiclav.",
+        "journal": "Irish journal of medical science",
+        "year": "2024",
+        "authors": [
+          "Whelan Seán Olann",
+          "Kyne Sarah",
+          "Dore Andrew",
+          "Glynn Mark",
+          "Higgins Frances"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Urinary Tract Infections",
+          "Retrospective Studies",
+          "Escherichia coli Infections",
+          "Child",
+          "Infant",
+          "Anti-Bacterial Agents",
+          "Escherichia coli",
+          "Child, Preschool",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38565823/"
+      },
+      {
+        "pmid": "37102524",
+        "title": "Microbiological Spectrum and Antibiogram of Urinary Tract Infection in a Tertiary Care Center from the Kingdom of Bahrain.",
+        "abstract": "Urinary tract infection is the second-most common after respiratory infections. This is a single-center retrospective study conducted in Bahrain Specialist Hospital, Bahrain. Urine culture data from November 2011 until December 2020 was obtained from the hospital database. Out of 28082, 4849 (17.3%) cultures were positive. One hundred and thirty-four (2.8%) showed the growth of multiple organisms. The male-to-female ratio was 3.7. Most of the patients [1872 (39.7%)] were 20-40 years. Men and women were 53.84 ± 25.85 and 43.41 ± 23.89 years, respectively; P <0.001. 4118/4715 (87.3%) were Gram-negative. Five hundred and sixty-four (11.9 %) and 33 (0.7%) were Gram-positive cocci and fungi, respectively. Escherichia coli (E. coli) was the most common and Klebsiella species were second-most common, accounting for 2916 (61.8%) and 586 (12.4%), respectively. 30.2% of all E. coli and 130 (22.2%) of all Klebsiella species were extended-spectrum beta-lactamase (ESBL) producers. ESBL Klebsiella p",
+        "journal": "Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia",
+        "year": "2022",
+        "authors": [
+          "Sheikh Rayees Yousuf",
+          "Murdeshwar Soni",
+          "Maheshwari Teerath Kumar",
+          "Chacko Saramma"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Escherichia coli",
+          "Tertiary Care Centers",
+          "Levofloxacin",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Retrospective Studies",
+          "Bahrain",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37102524/"
+      },
+      {
+        "pmid": "2721814",
+        "title": "Amoxycillin and clavulanic acid in the treatment of urinary tract infections in children.",
+        "abstract": "The efficacy of amoxycillin-clavulanic acid combination in the treatment of urinary tract infections resistant, in vitro, to amoxycillin was studied in 42 children. Of the 24 children with urinary tract infection for the first time, combination therapy, dosing twice daily for 5 days (40 mg/kg.day), cleared the infection in 23 (96%) cases. Relapse occurred in four (17%) cases within 30 days. Of the 18 children who presented with recurrent urinary tract infections therapy, as above, cleared the infection in 16 (89%) cases. In these cases, long-term therapy was performed at a dosage of 20 mg/kg once daily. Tolerance was good; gastro-intestinal disorders in five (12%) cases which regressed by dosing at 8 h rather than 12 h intervals. In conclusion, amoxycillin-clavulanic acid can be considered a first choice treatment of urinary tract infections in children.",
+        "journal": "The Journal of international medical research",
+        "year": "1989",
+        "authors": [
+          "Ruberto U",
+          "D'Eufemia P",
+          "Martino F",
+          "Giardini O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Male",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2721814/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:51:08.647491",
+  "success": true,
+  "error_message": null
+}

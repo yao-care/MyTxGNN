@@ -1,0 +1,47 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Everolimus",
+    "disease": "situs inversus",
+    "query_string": "Everolimus AND situs inversus"
+  },
+  "data": {
+    "query": "Everolimus AND situs inversus",
+    "results": [
+      {
+        "pmid": "41605552",
+        "title": "Dual renal pathologies in tuberous sclerosis complex: bilateral renal angiomyolipomas and concurrent left renal cell carcinoma.",
+        "abstract": "A female patient in the 70s presented with bilateral flank pain and haematuria. Evaluation confirmed tuberous sclerosis complex (TSC) with cutaneous findings, a giant renal angiomyolipoma (AML) in the patient's left kidney with a bleeding pseudoaneurysm, and a large mass in the right kidney containing distinct AML and high-grade renal cell carcinoma tumours. Situs inversus totalis was noted. Transarterial embolisation controlled the haemorrhage from the left kidney, followed by open partial nephrectomy on the right kidney to address the malignancy while preserving renal function. Everolimus was initiated post discharge to manage residual AMLs and lymphangioleiomyomatosis. Histopathology confirmed dual pathology in the right kidney. The patient recovered well, with stable renal function and resolved haematuria at 6 months. This case underscores the need for comprehensive imaging, histopathological confirmation and nephron-sparing strategies in managing complex renal pathologies in TSC, ",
+        "journal": "BMJ case reports",
+        "year": "2026",
+        "authors": [
+          "Soni Jaideep Singh",
+          "Navriya Shiv Charan",
+          "Choudhary Gautam Ram",
+          "Madhav Panugothu Leela",
+          "Rao Meenakshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tuberous Sclerosis",
+          "Angiomyolipoma",
+          "Female",
+          "Kidney Neoplasms",
+          "Carcinoma, Renal Cell",
+          "Nephrectomy",
+          "Aged",
+          "Embolization, Therapeutic",
+          "Everolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41605552/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:39:09.021053",
+  "success": true,
+  "error_message": null
+}

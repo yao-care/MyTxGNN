@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "microcytic anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06875947",
+      "title": "EFFECTS of MORINGA OLEIFERA LEAF MICRONIZED POWDERS on HEMATOLOGICAL PROFILES, PERIPHERAL BLOOD SMEAR, HEPCIDIN, AND CYTOKINES (IL-1 DAN IL-6) OF PREGNANT WOMEN WITH IRON DEFICIENCY ANAEMIA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-05-23",
+      "completion_date": "2026-05-31",
+      "country": "Indonesia",
+      "enrollment": 59,
+      "brief_summary": "Title: The Effect of Moringa Oleifera Leaf Micronized Powders on Hematological Profile, Hepcidin, and Cytokines (IL-1 and IL-6) in Pregnant Women with Iron Deficiency Anemia\n\nStudy Description:\n\nIron deficiency anemia is one of the most common health problems affecting pregnant women worldwide, especially in developing countries like Indonesia. This condition can cause serious complications for both mothers and babies, such as premature birth, low birth weight, and increased risk of maternal mor",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Demographic Characteristics:\n\n   * Women aged 18-44 years\n   * Married, have a husband and/or family\n   * Have an ID card\n2. Clinical Characteristics:\n\n   * Pregnant with a gestational age of 28 to \\<32 weeks\n   * Live single fetus\n   * Hemoglobin (Hb) 7 - \\< 11 g/dl\n   * No c",
+      "endpoints": [
+        "Hemoglobin Levels"
+      ],
+      "sponsor": "Fakultas Kedokteran Universitas Padjadjaran",
+      "url": "https://clinicaltrials.gov/study/NCT06875947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05022979",
+      "title": "Prevalence of Micro-nutritional Deficiencies in Pregnant Women Presenting to the Emergency Department for Threatened Delivery",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-28",
+      "completion_date": "2019-03-31",
+      "country": "French Guiana",
+      "enrollment": 341,
+      "brief_summary": "Micronutrient deficiencies are frequent in pregnant women in French Guiana, a French territory in South America. Micronutrient deficiencies are more frequent in precarious women. Obesity is a frequent problem but it is also associated with micronutrient deficiency. Micronutrient deficiencies have largely been overlooked in this outermost European region and should be corrected.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant at least 22 weeks of amenorrhea (WHO threshold for fetal viability)\n* Patient hospitalized for delivery in the Gynecological and Obstetrical Emergency Unit at Cayenne hospital\n* Patient's consent\n* Consent of the legal representative if the patient is a minor\n\nExclusi",
+      "endpoints": [
+        "Identification of a micronutrient deficiency defined as at least one micronutrient below the lower limit."
+      ],
+      "sponsor": "Centre Hospitalier de Cayenne",
+      "url": "https://clinicaltrials.gov/study/NCT05022979"
+    }
+  ],
+  "timestamp": "2026-03-04T15:39:30.621149",
+  "success": true,
+  "error_message": null
+}

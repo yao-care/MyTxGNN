@@ -1,0 +1,67 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "diarrheal disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741052",
+      "title": "Randomized, Double Blind, Controlled Clinical Trial to Evaluate the Efficacy of Multiple-dose Ciprofloxacin With Single Dose Azithromycin Therapy for Adults With Cholera Due to Multiply Resistant Strains of V. Cholerae O1 or O139",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2010-06",
+      "country": "Bangladesh",
+      "enrollment": 218,
+      "brief_summary": "Cholera is an important diarrhoeal disease and an important cause of death, particularly during epidemic outbreaks, in Bangladesh and many other developing countries. Used as an adjunct to management of dehydration, antimicrobial therapy using an appropriate agent reduces diarrhoea duration and stool volume in severe cholera by about half.\n\nThe usefulness of antimicrobials has, however, been greatly eroded by the increasing prevalence of resistant strains of V. cholerae O1. From October 2004 at ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 60 years.\n* Gender: Male\n* Duration of diarrhoea: Not exceeding 24 hours\n* Written informed consent for participation.\n* Dehydration status: Severe dehydration.\n* Positive stool dark-field microscopic examination for V. cholerae \\& culture positive for V cholerae\n* F",
+      "endpoints": [
+        "To determine whether clinical success of therapy in the two treatment regimens are comparable."
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT00741052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229944",
+      "title": "Randomized, Double-Blind, Controlled Clinical Trial to Compare Efficacy of a Single Dose of Azithromycin Versus a Single Dose of Ciprofloxacin in the Treatment of Adults With Clinically Severe Cholera Due to V. Cholerae O1 or O139",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2004-05",
+      "country": "Bangladesh",
+      "enrollment": 220,
+      "brief_summary": "Cholera remains an important cause of diarrhoeal illness and death in Asia, Africa and Latin America. Antimicrobial therapy is an important adjunct to fluid therapy in the management of patients with cholera, and should be given to all patients with clinically moderate-to-severe disease since they can reduce the diarrhoea duration and stool volume by half. Current therapy for cholera is limited by increasing prevalence of multiply-resistant strains of Vibrio cholerae O1 or O139. Tetracycline and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 60 years\n* Gender: Male (To facilitate accurate measurement of stool and urine, and also due to the difficulties in hospitalizing women for longer duration)\n* Duration of illness: 24 hours or less\n* Written informed consent for participation in the study\n* Dehydratio",
+      "endpoints": [
+        "Clinical success",
+        "Bacteriological Success"
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT00229944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00142272",
+      "title": "Randomised, Open, Parallel Group Clinical Trial to Compare the Efficacy and Safety of a Single Dose of Ciprofloxacin Oral Suspension 20 mg/kg With a 3-day Course of Erythromycin Oral Suspension Administered in a Dose of 12.5 mg/kg Every 6 Hours (12 Doses) in the Treatment of Children,With Clinically Severe Cholera Due to V. Cholerae O1 or O139.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "2002-07",
+      "country": "Bangladesh",
+      "enrollment": 180,
+      "brief_summary": "The study will be conducted to compare the efficacy and safety of a single dose of ciprofloxacin oral suspension 20 mg/kg with a 3-day course of erythromycin oral suspension administered in a dose of 12.5 mg/kg every 6 hours (12 doses) in the treatment of children, aged 2-15 years with clinically severe cholera due to V. cholerae O1 or O139.\n\nWe hypothesize that single dose ciprofloxacin would result in similar outcome in the clinicalcurewith that of erythromycin given in multiple doses.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge: 2-15 years. Gender: male. Duration of illness: \\<24 hours. Written informed consent for participation in the study from either of the parents, or guardian, and oral assent from children aged ³ 8 years.\n\nSevere dehydration according to World Health Organisation (WHO) guideli",
+      "endpoints": [
+        "Rates of clinical success"
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT00142272"
+    }
+  ],
+  "timestamp": "2026-03-04T14:50:53.670934",
+  "success": true,
+  "error_message": null
+}

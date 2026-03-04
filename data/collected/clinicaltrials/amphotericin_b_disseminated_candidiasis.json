@@ -1,0 +1,210 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Amphotericin B",
+    "disease": "disseminated candidiasis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00670657",
+      "title": "CRITIC: Phase II Pilot Multicenter Study on Efficacy and Safety of Liposomal Amphotericin B (AmBisome®) at 2 mg/kg/Day in the Treatment of Candidemia and Invasive Candidiasis in Non-Neutropenic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-01",
+      "country": "Italy",
+      "enrollment": 39,
+      "brief_summary": "Patients will receive 2mg/kg/day IV daily administration of AmBisome® over 30-60 minutes as a reaction to signs/symptoms and positive Candida culture",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients admitted to ICU for all medical reasons that meet the inclusion criteria\n* Males or non pregnant females (women of child-bearing potential must have a negative serum or urine pregnancy test at baseline).\n* Subjects who are 14 years old or older.\n* Subjects with at lea",
+      "endpoints": [
+        "Success at End of Trial (EOT) - Success is defined as: The definition of success is (criteria a, b, c and d must be satisfied): a. i) Absence of all clinical signs and symptoms present at baseline and absence of any new signs and symptoms that may be"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00670657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00388167",
+      "title": "PROCAS: Study Observational Prospective and Multicenter to Determine the Clinic Effectiveness and the Safety of Caspofungin Acetate (CANCIDAS®) in the Treatment of Invader Fungal Infection",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2008-02",
+      "country": "Spain",
+      "enrollment": 320,
+      "brief_summary": "We wanted to determine the efficacy and the safety of caspofungin acetate (CANCIDAS®) in the treatment of invader fungal infection (IFI) specifically, Invasive Candidiasis (CI) in adults patients without neutropenia and Invasive Aspergillosis (AI) in adults patients who are refractory to or intolerant of other therapies (i.e., amphotericin B, lipid formulations of amphotericin B, and/or itraconazole).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male with 18 years old at least.\n* Diagnosis of AI or CI. It will be based in Clinical History, signs and symptoms that the patient takes, discovery of studies of radiology and results of cultivation and/or studies of anatomopathology positives for Candida spp. or A",
+      "endpoints": [],
+      "sponsor": "PETHEMA Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00388167"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01945281",
+      "title": "A Multicenter, Double-Blind, Randomized, Comparator-Controlled Study to Evaluate the Safety, Tolerability, and Efficacy of Caspofungin Versus Amphotericin B Deoxycholate in the Treatment of Invasive Candidiasis in Neonates and Infants Less Than 3 Months of Age",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-01-15",
+      "completion_date": "2018-02-28",
+      "country": "N/A",
+      "enrollment": 51,
+      "brief_summary": "The study will evaluate the safety, tolerability, and efficacy of caspofungin as compared with amphotericin B deoxycholate in the treatment of invasive candidiasis in neonates and infants. The primary hypothesis to be tested in the study is that caspofungin will be superior to amphotericin B deoxycholate with regard to the proportion of participants with fungal-free survival at the 2-week post-therapy follow-up visit.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Culture-confirmed invasive Candida infection\n\nExclusion Criteria:\n\n* Candida disease limited to the oropharynx, esophagus, or other mucosal or superficial skin surfaces\n* Positive culture for Candida only from sputum, broncho-alveolar lavage, catheter tip, or previously placed",
+      "endpoints": [
+        "Percentage of Participants With Fungal-free Survival Through the 2-week Post-therapy Period"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01945281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01040156",
+      "title": "Safety, Feasibility and Efficacy of Caspofungin Versus Liposomal Amphotericin B as Antifungal Prophylaxis Following Allogeneic Hematopoietic Stem Cell Transplantation in Pediatric Patients - a Retrospective Phase I/II Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2009-12",
+      "country": "Germany",
+      "enrollment": "N/A",
+      "brief_summary": "Pediatric patients are at high risk to acquire mycotic infections following allogeneic bone marrow transplantation. In the present retrospective analysis we assess the safety and efficacy of different regimens in antimycotic prophylaxis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric patients under the age of 18 years\n* Pediatric patients after HSCT treated with caspofungin\n* Pediatric patients after HSCT treated with liposomal amphotericin\n\nExclusion Criteria:\n\n* Pediatric patients with uncontrolled hematological malignancies\n* Pediatric patient",
+      "endpoints": [],
+      "sponsor": "University Children's Hospital Tuebingen",
+      "url": "https://clinicaltrials.gov/study/NCT01040156"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00815516",
+      "title": "A Phase 3, Randomized, Double-Blind, Multi-Center Study to Compare the Efficacy and Safety of Micafungin Versus Amphotericin B Deoxycholate for the Treatment of Neonatal Candidiasis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2013-02",
+      "completion_date": "2014-12",
+      "country": "Israel, Bulgaria, Brazil, Philippines, Turkey (Türkiye), Greece, Ukraine, Hungary, Romania, Canada, Colombia, United States",
+      "enrollment": 30,
+      "brief_summary": "The study will evaluate how effective and how safe the drug micafungin is when compared to the drug amphotericin B deoxycholate in treating neonates and young infants with certain fungal infections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infant greater than 48 hours of life after birth up to day of life 120 at the time of culture acquisition\n* Diagnosis of proven invasive candidiasis within 4 days prior to study start\n* Subject's parent or legal guardian agrees not to allow subject to participate in another st",
+      "endpoints": [
+        "Fungal-free Survival"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00815516"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00106288",
+      "title": "A Multicenter, Double Blind, Comparative, Randomized Study to Evaluate the Efficacy and Safety of Micafungin (FK463) Versus Liposomal Amphotericin B (AmBisome) in the Treatment of Invasive Candidiasis and Candidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2005-12",
+      "country": "Canada, United States",
+      "enrollment": 637,
+      "brief_summary": "The purpose of this study is to determine the efficacy and safety of micafungin (FK463) versus liposomal amphotericin B (AmBisome) in treating neutropenic and non-neutropenic patients with confirmed invasive candidiasis or candidemia. Enrollment will include adult and pediatric patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients either non-neutropenic with absolute neutrophil counts \\>= 500 cells/mm3 or neutropenic with absolute neutrophil counts \\< 500 cells/mm3 must have:\n\n* Candidemia or invasive candidiasis,\n* Confirmation and typical clinical signs and symptoms by fungal culture and/or his",
+      "endpoints": [
+        "Investigator's assessment of overall treatment success. Success is defined as clinical (complete or partial) and mycological (eradication or presumed eradication) response at the End of Therapy."
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00106288"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06859671",
+      "title": "A Randomized Study of a Short Duration Therapy for Candidemia",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-07-01",
+      "completion_date": "2027-09-01",
+      "country": "N/A",
+      "enrollment": 362,
+      "brief_summary": "Scientific justification Candidemia is a major public health problem. In France, the 30-day mortality of candidemia varies from 30% to 50% depending on the need for intensive care and it has not decreased in 30 years.\n\nThe duration of treatment for candidemia was set at a minimum of 14 days after the last positive blood culture following the Rex trial (1) comparing the efficacy of fluconazole vs amphotericin B where the minimum duration of treatment was imposed. The risk of a too short treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (Age ≥ 18 years old)\n* With an uncomplicated candidemia defined by the absence of secondary sites requiring prolonged treatment: endocarditis, ophthalmologic involvement, thrombosed catheter, arthritis, meningitis, candida abscess that cannot be drained, pyelonephritis.",
+      "endpoints": [
+        "All-cause mortality (ACM)"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT06859671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04225195",
+      "title": "An Open, Multicenter Clinical Study to Evaluate the Safety, Efficacy, and Population Pharmacokinetics of ABCD for Invasive Candidiasis and Invasive Aspergillosis",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2020-01",
+      "completion_date": "2022-06",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "This is an open, multicenter clinical trial of ABCD for invasive candidiasis and invasive aspergillosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with confirmed invasive candidiasis or confirmed/probable/possible invasive aspergillosis;\n2. Agree to use contraceptive measures from the date of signing the informed consent to 6 weeks after the end of the last medication;\n3. Female subjects must meet one of the fo",
+      "endpoints": [
+        "Number of patients who discontinued treatment due to study drug-related adverse events or abnormal laboratory tests, Intent-to-Treat (ITT) analysis set",
+        "Overall response success rate at the end of ABCD treatment, modified ITT (mITT) analysis set",
+        "Proportion of patients who discontinued treatment due to study drug-related adverse events or abnormal laboratory tests, ITT analysis set"
+      ],
+      "sponsor": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04225195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05707832",
+      "title": "An Open Clinical Trial to Evaluate the Safety, Efficacy and Population Pharmacokinetics of Amphotericin B Cholesteryl Sulfate Complex for Injection in Subjects With Invasive Candidiasis and Invasive Aspergillus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-03-30",
+      "completion_date": "2025-03-31",
+      "country": "China",
+      "enrollment": 31,
+      "brief_summary": "This is a multi-center, open-label, non-controlled, single-arm clinical trial to evaluate the safety, efficacy and population pharmacokinetics of Amphotericin B cholesteryl Sulfate Complex for Injection domestic formulations (ABCD) in the treatment of confirmed invasive candidiasis (IC) and confirmed/clinically diagnosed invasive aspergillus (IA) disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years old, male or female;\n2. Subjects who meet the EORTC-MSG diagnostic criteria and are diagnosed with invasive candidiasis (confirmed) or invasive aspergillus disease (confirmed or clinical) according to the Revised Definition of Invasive Mycosis: IC confirmed subj",
+      "endpoints": [
+        "The number and percentage of subjects whose treatment is terminated due to study abnormal laboratory tests leads to drug related adverse events.",
+        "The number and percentage of subjects whose treatment is terminated due to study the infusion reaction leads to drug related adverse events.",
+        "The number and percentage of subjects with study the infusion reaction leads to drug related adverse events."
+      ],
+      "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05707832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03828773",
+      "title": "PTX3 Genetically Stratified Randomized Double-blinded Allocation Event-driven Clinical Trial for Antifungal Prophylaxis in Patients With Acute Myeloid Leukemia",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2019-02-11",
+      "completion_date": "2027-11-30",
+      "country": "Switzerland, Belgium, France",
+      "enrollment": 410,
+      "brief_summary": "This is a prospective genetically-stratified randomized double-blind event-driven multicentre clinical trial to assess the efficacy of posaconazole-based antifungal prophylaxis allocation strategies for patients with acute myeloid leukemia who receive induction chemotherapy. Allocation strategy based on an invasive mold infection genetic risk will be double-blinded.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed Informed Consent according to national/local regulations.\n2. Age ≥18 years.\n3. Diagnosis of Acute Myeloid Leukemia (AML) or Myelodysplastic Syndrome in transformation (MDSit) treated with an intensive chemotherapy regimen, including induction / consolidation / salvage ",
+      "endpoints": [
+        "Cumulative incidence of proven and probable invasive mold infection (IMI)"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire Vaudois",
+      "url": "https://clinicaltrials.gov/study/NCT03828773"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01869829",
+      "title": "International Pediatric Fungal Network: Multi-Center Studies to Improve Diagnosis and Treatment of Pediatric Candidiasis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2018-04",
+      "country": "Spain, Saudi Arabia, Greece, India, Italy, Canada, Colombia, United States",
+      "enrollment": 750,
+      "brief_summary": "The overarching objective is to develop new evidence-based treatment guidelines for invasive fungal diseases in children. To accomplish that, this protocol will focus on two specific aims: 1) Compare the effectiveness of echinocandin versus amphotericin B or triazole antifungal therapy for pediatric invasive candidiasis and for the subset of patients with invasive candidemia; 2) Characterize the incidence rate of inpatient pediatric invasive candidiasis per hospital admissions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females age \\> 120 days and \\<18 years\n2. Documented proven or probable case of invasive candidiasis\n3. Parental/guardian permission (informed consent, if required) and if appropriate, child assent (if required).\n\nExclusion Criteria:\n\n1\\) Any history of prior Candida",
+      "endpoints": [
+        "Global response to antifungal therapy"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT01869829"
+    }
+  ],
+  "timestamp": "2026-03-04T16:00:33.455555",
+  "success": true,
+  "error_message": null
+}

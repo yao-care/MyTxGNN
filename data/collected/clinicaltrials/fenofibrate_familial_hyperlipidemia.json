@@ -1,0 +1,172 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Fenofibrate",
+    "disease": "familial hyperlipidemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02890992",
+      "title": "An 8-Week Open-Label, Sequential, Repeated Dose-Finding Study to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Heterozygous Familial Hypercholesterolemia Followed by an Extension Phase",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09-15",
+      "completion_date": "2019-02-22",
+      "country": "France, Spain, Norway, Czechia, South Africa, Sweden, Russia, Netherlands, Canada, United States",
+      "enrollment": 42,
+      "brief_summary": "Primary Objective:\n\nTo evaluate the effect of alirocumab on low-density lipoprotein cholesterol (LDL-C) levels after 8 weeks of treatment in heterozygous familial hypercholesterolemia (heFH) participants aged of 8 to 17 years, with LDL-C \\>=130 milligrams per deciliter (mg/dL) (3.37 millimoles per litre \\[mmol/L\\]) on optimal stable daily dose of statin therapy +/- other lipid modifying therapies (LMTs) or a stable dose of non-statin LMTs in case of intolerance to statins for at least 4 weeks pr",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Children and adolescent male and female participants aged of 8 to 17 years at the time of signed informed consent. For Russia only: Male and female participants aged \\>=12 and \\<=17 years at the time of signed informed consent.\n* Participants with diagnosis of heterozygous fa",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated Low Density Lipoprotein Cholesterol (LDL-C) at Week 8"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02890992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02023879",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study Evaluating the Efficacy and Safety of Alirocumab in Patients With Primary Hypercholesterolemia Not Treated With a Statin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-12-16",
+      "completion_date": "2017-06-30",
+      "country": "Spain, Denmark, Australia, Netherlands, New Zealand, Canada, Belgium, United States",
+      "enrollment": 233,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate the reduction of low-density lipoprotein cholesterol (LDL-C) by a regimen of Alirocumab including a starting dose of 150 mg every 4 weeks (Q4W) as add-on to non-statin lipid modifying background therapy or as monotherapy in comparison with placebo in participants with primary hypercholesterolemia not treated with a statin.\n\nSecondary Objective:\n\n* To evaluate the effects on other lipid parameters of Alirocumab 150 mg Q4W versus placebo.\n* To evaluate the safety",
+      "eligibility_criteria": "Inclusion criteria:\n\nParticipants with primary hypercholesterolemia (heterozygous familial hypercholesterolemia \\[heFH\\] or non-FH) not adequately controlled with their non-statin LMT (either ezetimibe or fenofibrate) or diet alone.\n\nExclusion criteria:\n\n* LDL-C \\<70 mg/dL (1.81 mmol/L) at screening",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent-to-Treat (ITT Analysis)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02023879"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00934258",
+      "title": "Effect of Genes on Rosuvastatin Therapy for Hyperlipidemia",
+      "phase": "N/A",
+      "status": "AVAILABLE",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "Previous studies indicate that the variant status of detoxification proteins is different among Taiwanese and other ethnic groups. For example, in Taiwanese, the major SNPs of CYP2C9 are CYP2C9\\*2 (430C\\>T) and CYP2C9\\*3 (1075A\\>C) and their frequencies are different from that in Caucasians \\[11\\]. The second example is that the frequency of the A(TA)7TAA allele in the promoter area of the UGT1A1 gene is substantially lower, while for the rate of variation within the coding region is much higher",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women aged 20-79 years with definite DM or atherosclerotic vascular diseases with metabolic syndrome, defined as the presence of three or more of the following risk factors:\n\n  * abdominal obesity (waist circumference \\> 90 cm in men or \\> 80 cm in women),\n  * triglycer",
+      "endpoints": [],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00934258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03510715",
+      "title": "An Open-Label Study to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Homozygous Familial Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-31",
+      "completion_date": "2020-02-17",
+      "country": "Slovenia, Brazil, Spain, Mexico, Taiwan, Turkey (Türkiye), Russia, Denmark, Netherlands, Canada",
+      "enrollment": 18,
+      "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of alirocumab (75 or 150 milligrams \\[mg\\] depending on body weight \\[BW\\]), administered every 2 weeks (Q2W), on low-density lipoprotein cholesterol (LDL-C) levels at Week 12 of treatment in children and adolescents with homozygous familial hypercholesterolemia (hoFH) of 8 to 17 years of age on top of background treatments.\n\nSecondary Objectives:\n\n* To evaluate the efficacy of alirocumab after 24 and 48 weeks of treatment on LDL-C levels.\n* To evalua",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Participants genetically diagnosed with hoFH.\n* Participants treated with optimal dose of statin +/- other lipid modifying therapies (LMTs), or non-statin LMTs if statin-intolerant at stable dose(s) for at least 4 weeks.\n* A signed informed consent indicating parental permiss",
+      "endpoints": [
+        "Percent Change From Baseline in Low-Density Lipoprotein Cholesterol (LDL-C) at Week 12: Intent-to-Treat (ITT) Analysis"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03510715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02584504",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Parallel Group Study to Evaluate the Efficacy and Safety of Alirocumab in Patients With Hypercholesterolemia Not Adequately Controlled With Non-statin Lipid Modifying Therapy or the Lowest Strength of Statin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-11-30",
+      "completion_date": "2018-01-09",
+      "country": "Japan",
+      "enrollment": 163,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate the reduction of low-density lipoprotein cholesterol (LDL-C) by alirocumab administration as add-on therapy to non-statin lipid modifying therapy (LMT) including diet therapy alone or the lowest strength of statin in comparison with placebo after 12 weeks of treatment in participants with hypercholesterolemia.\n\nSecondary Objective:\n\n* To evaluate the effect of two treatment regimens of alirocumab on other lipid parameters: apolipoprotein B (Apo-B), non-high-den",
+      "eligibility_criteria": "Inclusion criteria :\n\nParticipants with hypercholesterolemia (heFH or non-FH) receiving non statin LMTs or the lowest strength of statin.\n\nExclusion criteria:\n\n* LDL-C \\<100 mg/dL (\\<2.59 mmol/L) at the screening visit (Week -3) in participants with heFH or in participants with non-FH who have a his",
+      "endpoints": [
+        "Percent Change From Baseline in Calculated LDL-C at Week 12- Intent to Treat (ITT) Analysis"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02584504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00754039",
+      "title": "The Effects of the Combination of Welchol and Tricor Compared to TriCor Alone in Patients With Mixed Hyperlipidemia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-03",
+      "country": "United States",
+      "enrollment": 129,
+      "brief_summary": "The primary objective of this study is to compare the effect of Welchol in combination with TriCor compared to TriCor alone on low-density lipoprotein cholesterol (LDL-C) in patients with high cholesterol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 30-70 years of age\n* History of mixed hyperlipidemia\n* Prescribed a Step 1 diet at least 30 days prior to screening\n* Women were not pregnant, breast-feeding, or plan to become pregnant during the study\n* Women had a hysterectomy or tubal ligation, were post-menopausal, or pra",
+      "endpoints": [
+        "% change in LDL-C from baseline"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00754039"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01594983",
+      "title": "A Multicenter, Randomized, Active Comparator, Placebo Controlled, Double-blind Pilot Study to Assess the Efficacy and Safety of LCQ908 Alone and in Combination With Fenofibrate or Lovaza® in Patients With Severe Hypertriglyceridemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2013-07",
+      "country": "Canada, Russia, United States",
+      "enrollment": 58,
+      "brief_summary": "This study is to determine a dose response signal for LCQ908 monotherapy and to assess the efficacy and safety of adding LCQ908 to Lovaza or fenofibrate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects ages \\>18 years of age, inclusive.\n* History of plasma TG concentration ≥890 mg/dl (10 mmol/L) or history of lactescent plasma in the fasting state.\n* Fasting TG ≥ 750 mg/dL (8.5 mmol/L) at day -7 or repeat of day -7 one week later for those failing to",
+      "endpoints": [
+        "Change from baseline in triglycerides (TG) relative to placebo at 6 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01594983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03510884",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study Followed by an Open Label Treatment Period to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Heterozygous Familial Hypercholesterolemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-05-31",
+      "completion_date": "2022-08-05",
+      "country": "Bulgaria, Brazil, Spain, Mexico, Russia, Canada, Sweden, Norway, Taiwan, Turkey (Türkiye), Hungary, Finland, South Africa, Austria, Poland, Argentina, United States, Lebanon, Slovenia, France, Czechia, Italy, Denmark, Netherlands",
+      "enrollment": 153,
+      "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of alirocumab administered every 2 weeks (Q2W) and every 4 weeks (Q4W) versus placebo after 24 weeks of double-blind (DB) treatment on low-density lipoprotein cholesterol (LDL-C) levels in participants with heterozygous familial hypercholesterolemia (heFH) 8 to 17 years of age on optimal stable daily dose of statin therapy ± other lipid modifying therapies (LMTs) or a stable dose of non-statin LMTs in case of intolerance to statins.\n\nSecondary Objecti",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Children and adolescent male and female participants 8 to 17 years of age at the time of signed informed consent.\n* Participants with diagnosis of heFH through genotyping or clinical criteria.\n* Participants treated with optimal dose of statin +/- other LMT(s) or non-statin LM",
+      "endpoints": [
+        "DB Period: Percent Change From Baseline in Low Density Lipoprotein Cholesterol (LDL-C) at Week 24: Intent-to-treat (ITT) Estimand"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03510884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00145431",
+      "title": "Phase 3, Multi-Center, Double-Blind, Randomized, Crossover Study Of The Efficacy, Safety, And Tolerability Of Fixed Combination Torcetrapib (Cp-529,414)/Atorvastatin, Compared With Atorvastatin Therapy Alone, And Fenofibrate Alone, In Subjects With Fredrickson Type III Hyperlipoproteinemia (Familial Dysbetalipoproteinemia).",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-03",
+      "completion_date": "2006-12",
+      "country": "Canada, United States",
+      "enrollment": 41,
+      "brief_summary": "The Torcetrapib project was terminated on December 2, 2006 due to safety findings.\n\nTo evaluate the efficacy and safety of the lipid drug torcetrapib/atorvastatin in subjects with a rare genetically known disorder of high cholesterol and triglyceride levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Familial Dysbetalipoproteinemia (Fredrickson Type III hyperlipoproteinemia)\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant.\n* Subjects with a clinically indicated need for statin (HMG-CoA reductase inhibitor) therapy ot",
+      "endpoints": [
+        "Change in LDL-C and non-HDL-C levels."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00145431"
+    }
+  ],
+  "timestamp": "2026-03-04T16:39:42.111899",
+  "success": true,
+  "error_message": null
+}

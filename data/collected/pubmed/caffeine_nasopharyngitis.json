@@ -1,0 +1,36 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "nasopharyngitis",
+    "query_string": "Caffeine AND nasopharyngitis"
+  },
+  "data": {
+    "query": "Caffeine AND nasopharyngitis",
+    "results": [
+      {
+        "pmid": "33525313",
+        "title": "Ubrogepant to Treat Acute Migraine in Adults.",
+        "abstract": "Migraine is a neurobiological headache disorder that affects around 16% of adults in the United States. Medical treatment of mild to moderate migraines include non-prescription non-steroidal anti-inflammatory drugs, acetaminophen, or aspirin and caffeine-containing combination analgesics. Additionally, moderate to severe migraines and those that are mild to moderate that have not responded to analgesics can be treated with triptans, which are drugs specific for migraine treatment. Non-pharmacological treatments include cognitive behavioral therapy and relaxation training. Medications for the prevention of migraines have also been developed since they are more affective in offsetting the symptoms. Ubrogepant's high specificity and selectivity for calcitonin gene-related peptide (CGRP) sets it apart from certain other drugs, which previously limited the treatment of migraines with or without aura due to their decreased selectivity. The most frequently reported side effects are oropharyng",
+        "journal": "Neurology international",
+        "year": "2021",
+        "authors": [
+          "Edinoff Amber N",
+          "Casey C Austin",
+          "Colon Marc A",
+          "Zaheri Alexa R",
+          "Gregoire Courtney M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33525313/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:55:46.530383",
+  "success": true,
+  "error_message": null
+}

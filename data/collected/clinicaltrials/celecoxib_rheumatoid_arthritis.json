@@ -1,0 +1,374 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "rheumatoid arthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04485325",
+      "title": "Capability of Tofacitinib or Etanercept to Accelerate Clinical Relevant Tapering of Non-steroidal Anti-inflammatory Drugs (NSAID) and Treat-to-target Guided De-escalation of Corticosteroids in Patients With Active Rheumatoid Arthritis (RA) and an Inadequate Response to Previous csDMARD Therapy (AcceleRAte)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-11-04",
+      "completion_date": "2024-03-31",
+      "country": "Germany",
+      "enrollment": 92,
+      "brief_summary": "Patients with active rheumatic arthritis (RA) and lack of efficacy of at least one csDMARD (Disease-modifying anti-rheumatic drug) treatment will be randomized to receive either Tofacitinib (TOFA) or etanercept (ETA). The study will be separated into two parts: The capability to decrease and discontinue pain-reducing treatment with a NSAID (non-steroidal anti-inflammatory drug) over the first 12 weeks of treatment will be measured for primary outcome measured using a visual analogue scale (VAS) ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with active RA and an inadequate response to up to two previous conventional synthetic Disease modifying anti-rheumatic drug (csDMARD) treatments (methotrexate (MTX), leflunomide (LEF),sulfasalazine (SSZ)) with or without ongoing csDMARD therapy\n* RA according to ACR ",
+      "endpoints": [
+        "Discontinuation of Celecoxib treatment and clinically relevant improvement in pain"
+      ],
+      "sponsor": "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP",
+      "url": "https://clinicaltrials.gov/study/NCT04485325"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02780323",
+      "title": "A Multi-center, Double-blind, Active-controlled, Randomized, Parallel-group Clinical Trial to Compare the Efficacy and Safety of CELBESTA® and CELEBREX® in Patients With Rheumatoid Arthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-11-02",
+      "completion_date": "2017-12-26",
+      "country": "South Korea",
+      "enrollment": 119,
+      "brief_summary": "This Phase IV clinical study is to Compare the Efficacy and Safety of CELBESTA® and CELEBREX® in Rheumatoid Arthritis Patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Anyone over the age of 19\n* Subjects who are diagnosed as established rheumatoid arthritis at screening visit and before\n* Pain greater than 40/100mm-VAS(Visual Analgue Scale) after wash-out period\n* Patients who are taking oral corticosteroids without dosage change (within a ",
+      "endpoints": [
+        "Change from baseline of 100mm VAS about pain in study at week 6"
+      ],
+      "sponsor": "Dong-A ST Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02780323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02355236",
+      "title": "A Prospective, Randomized, Double-blinded, Double-dummy, Active-controlled, Multi-center, Interventional Study to Compare Gastro-protective Effect and Pain Relief Effect of Naxozol Compared to Celecoxib in Patients With Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-02",
+      "completion_date": "2015-12",
+      "country": "South Korea",
+      "enrollment": 106,
+      "brief_summary": "Naxozol is a combination product of naproxen, a non-steroidal anti-inflammatory drug (NSAID) and esomeprazole, a proton pump inhibitor which is designed to improve symptoms and reduce risk of gastric ulcers in patients at risk of developing NSAID-associated gastric ulcers in the treatment of osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis. The purpose of this study is to investigate whether naxozol protects the gastrointestinal tract effectively compared to celecoxib, a COX-2 in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Koreans given informed consent\n* Patients who have ability of reading comprehension and completing questionnaires (EQ-5D and VAS)and have willingness to follow-up 12 weeks\n* Patients with osteoarthritis symptoms confirmed by his/her medical history and with pain-VAS of 40 and ",
+      "endpoints": [
+        "Leads Dyspepsia Questionnaire (LDQ) Change"
+      ],
+      "sponsor": "Severance Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02355236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00424294",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study Of CP-195543 And Celecoxib Dual Therapy In The Treatment Of The Signs And Symptoms Of Rheumatoid Arthritis In Subjects Who Are Inadequately Controlled On Methotrexate",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-06",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "To evaluate the efficacy, safety and tolerability of CP-195543 and celecoxib dual therapy in subjects with rheumatoid arthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of RA based upon the American college of Rheumatology 1987 revised criteria\n* Active disease at Screening\n* Stable dose of methotrexate between 10-25 mg/week oral or parenteral\n\nExclusion Criteria:\n\n* A diagnosis of any other inflammatory or secondary, noninflammat",
+      "endpoints": [
+        "Percentage of Participants Achieving American College of Rheumatology 20% (ACR20) Response at Week 12"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00424294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00813241",
+      "title": "A Pilot, Open-Label, Randomized, Crossover, Pharmacokinetic Study Of Enhanced Bioavailability Formulations Of Celecoxib In Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2009-03",
+      "country": "Singapore",
+      "enrollment": 16,
+      "brief_summary": "A pharmacokinetic study in healthy volunteers to determine the relative bioavailability of three formulations of celecoxib to the approved formulation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male and/or female subjects between the ages of 21 and 55 years, inclusive (Healthy is defined as no clinically relevant abnormalities identified by a detailed medical history, full physical examination, including blood pressure (BP) and pulse rate measurement, 12-lead",
+      "endpoints": [
+        "PK endpoints will include Cmax, C12h, Tmax, AUCtlqc, AUCinf, and half-life (t1/2) for each formulation as data permit",
+        "Visual inspection of median plasma concentration versus time profiles resulting from each formulation"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00813241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00652925",
+      "title": "Randomized, Double-Blind, Multicenter, Active Controlled Parallel Group Study to Evaluate the Efficacy and Safety of Celecoxib Suspension Compared to Naproxen Suspension in Patients With JRA",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-10",
+      "completion_date": "2005-04",
+      "country": "Slovenia, Brazil, France, Spain, Sweden, Mexico, Russia, Slovakia, Denmark, Germany, Peru, Portugal, Canada, Belgium, United States",
+      "enrollment": 225,
+      "brief_summary": "To study Celebrex versus naproxen to see if it decreases symptoms of juvenile arthritis such as pain and swelling.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n2-18 years old with active JRA\n\nExclusion Criteria:\n\nother experimental meds, recent changes in arthritis meds",
+      "endpoints": [
+        "ACR Pediatric 30"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00652925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00807846",
+      "title": "A Phase 4, 6-week, Randomized Double Blind, Multicenter, Active-controlled Trial To Evaluate The Effects Of Celecoxib (Celebrex) Or Naproxen On Blood Pressure In Pediatric Subjects With Juvenile Idiopathic Arthritis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2012-12",
+      "country": "Philippines, Chile, South Africa, Switzerland, Russia, Ukraine, Serbia, Peru, Costa Rica, United States",
+      "enrollment": 201,
+      "brief_summary": "This Is A Multicenter, Active-Controlled Trial To Evaluate The Effects Of Celecoxib (Celebrex®) Or Naproxen On Blood Pressure In Pediatric Subjects With Juvenile Idiopathic Arthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Polyarticular (both rheumatoid factor positive and rheumatoid factor negative),oligoarticular and extended oligoarticular JIA for ≥3 months meeting the International League of Associations for Rheumatology (ILAR) criteria for Juvenile Idiopathic Arthritis (JIA)\n* Subjects with",
+      "endpoints": [
+        "Change From Baseline in Systolic Blood Pressure (SBP) at Week 6/Final Visit"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00807846"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01781702",
+      "title": "A Randomized, Double-blind, Multicenter, Phase 3 Study of Pelubiprofen Tab. & Celebrex Cap. for Comparative Evaluation of Safety & Efficacy in Rheumatoid Arthritis Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2011-10",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "A Randomized, Double-blind, Multicenter, Phase 3 Study of Pelubiprofen Tab. \\& Celebrex Cap. for Comparative Evaluation of Safety \\& Efficacy in Rheumatoid Arthritis Patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult males/Females aged 18\\~80 years\n2. Patient who are taking NSAIDs for the treatment of rheumatoid arthritis\n3. Patients who belong to ACR functional class 1, 2, 3\n\nExclusion Criteria:\n\n1. Patients who belong to ACR functional class 4\n2. Patients who are hypersensitive to",
+      "endpoints": [
+        "Changes in '100 mm pain VAS' value from baseline"
+      ],
+      "sponsor": "Daewon Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01781702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00346216",
+      "title": "A Randomized, Double Blind, Parallel-group Study Of Cardiovascular Safety In Osteoarthritis Or Rheumatoid Arthritis Patients With Or At High Risk For Cardiovascular Disease Comparing Celecoxib With Naproxen And Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10-04",
+      "completion_date": "2016-04-12",
+      "country": "Brazil, Philippines, Hong Kong, Mexico, Taiwan, Panama, Ukraine, Australia, Costa Rica, Peru, Canada, Colombia, United States",
+      "enrollment": 24081,
+      "brief_summary": "To answer the question of overall benefit: risk of celecoxib when compared to two most commonly prescribe traditional (non-selective) nonsteroidal anti-inflammatory drugs (NSAIDs) in the treatment of arthritis pain. For this purpose, patients with osteoarthritis or rheumatoid arthritis with or at risk of developing cardiovascular disease will be recruited. The cardiovascular, gastrointestinal and renal safety and symptomatic benefit in each treatment group will be assessed accordingly.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with osteoarthritis or rheumatoid Arthritis with or at risk of developing cardiovascular disease and who require and eligible for chronic, daily therapy with an NSAID to control arthritis sign and symptoms.\n\nExclusion Criteria:\n\n* Subjects have had a recent cardiovasc",
+      "endpoints": [
+        "The First Occurrence of Antiplatelet Trialists Collaboration (APTC) Composite Endpoint, Confirmed by the Clinical Events Committee (CEC)."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00346216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01175772",
+      "title": "Maintenance Treatment for Ovarian Carcinoma in Remission by an Antiangiogenic Treatment Strategy With Metronomic/Oral Chemotherapy (Cytophosphan Combined With Low-dose Methotrexate)and COX-2 Inhibition (Celecoxib)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-08",
+      "completion_date": "2013-04",
+      "country": "Israel",
+      "enrollment": 6,
+      "brief_summary": "Preclinical studies showed that metronomic chemotherapy can induce tumor regression secondary to apoptosis of the tumor blood vessels. This effect was increased by combining metronomic chemotherapy with anti-angiogenic drugs. Metronomic chemotherapy has already proved clinical effects too, especially on patients with breast or prostate carcinoma. This study is aimed to test the efficacy of an experimental metronomic chemotherapy regimen in a cohort of patients with ovarian cancer. Patients will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologic proof of papillary-serous ovarian cancer or 1ary peritoneal carcinomatosis.\n2. Histological grade III.\n3. Original disease in stage III.\n4. ECOG performance status: 0-2.\n5. Age: 20-80 years.\n6. Previous chemotherapy with paclitaxel and carboplatin (only).\n7. Previo",
+      "endpoints": [
+        "Time to Progression"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT01175772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02993029",
+      "title": "99Tc-MDP Versus Celecoxib Treatment in Patients with Knee Osteoarthritis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2017-09-01",
+      "completion_date": "2025-12-30",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Osteoarthritis (OA) of knee is the most common form of arthritis in the world1e, and it has received growing attention in the society because of the increase of old age population, disabled people, and medical expenses from this disease. 99Tc-MDP is effective for rheumatoid arthritis. Therefore, the investigators try to investigate the effects of 99Tc-MDP treatment in patients with osteoarthritis of knee as compared with celecoxib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants with painful osteoarthritis;\n2. The standard uptake value (SUV) of OA related knee greater than 10 on 18F- sodium fluoride bone scan;\n3. Participants voluntarily participate in the trial, and signed the informed consent.\n\nExclusion Criteria:\n\n1. Knee joint replac",
+      "endpoints": [
+        "pain, stiffness and joint function of knee"
+      ],
+      "sponsor": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02993029"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00447759",
+      "title": "Phase 4 Study A Large Streamline Safety Study Designed to Compare the Cardiovascular Safety od Celecoxib Versus Traditional Non-selective NSAID's",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2015-08",
+      "country": "Denmark, United Kingdom, Netherlands",
+      "enrollment": 7297,
+      "brief_summary": "The Standard Care versus Celecoxib Outcome Trial (SCOT) is a large streamline safety study designed to compare the cardiovascular safety of celecoxib versus traditional non-selective Non Steroidal Anti-Inflammatory Drug (NSAID) therapy.Traditional NSAID's are associated with significant morbidity and mortality from gastrointestinal toxicity. Cyclooxygenase 2 (Cox-2)selective agents are associated with reduced upper gastrointestinal toxicity.Traditional NSAID's and Cox-2 inhibitors may also be as",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects 60 years or over Male \\& Female\n* Chronic NSAIDs use for 90 days or more in a 12 month period\n* Subjects who have a licensed indication for chronic non-selective NSAID or Celecoxib.\n* Eligible for treatment with either Celecoxib or alternative traditional non-selectiv",
+      "endpoints": [
+        "compare cardiovascular safety of celecoxib and traditional NSAIDs prescribed for the treatment of arthritis."
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00447759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01572675",
+      "title": "Pharmacoepidemiological Study on the Use of Arcoxia® Under Actual Conditions of Use in France",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2015-03",
+      "country": "N/A",
+      "enrollment": 547,
+      "brief_summary": "This postmarketing study will examine the use of etoricoxib (Arcoxia®) in routine clinical practice in France as well as the use of celecoxib (Celebrex®).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treatment-naive, discontinued the previous treatment course of etoricoxib or celecoxib at least 3 months previously or currently receiving continuous treatment with oral etoricoxib or celecoxib\n* Consent to take part in the study\n* Included in his/her physician's client base f",
+      "endpoints": [
+        "Number of Participants Demonstrating Proper Use of Arcoxia® and Celebrex®",
+        "Reasons for Misuse of Arcoxia® and Celebrex®",
+        "Indications for Which Arcoxia® and Celebrex® Were Prescribed"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01572675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00543465",
+      "title": "12-Week No-Rofecoxib Plus Aspirin Endoscopy Study (0782-003)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2004-08",
+      "completion_date": "2004-11",
+      "country": "N/A",
+      "enrollment": 49,
+      "brief_summary": "This study will look at the incidence of gastric and/or duodenal ulcers in patients with osteoarthritis or rheumatoid arthritis in four different treatment groups (a) MK0782 21 mg plus enteric-coated aspirin, (b) MK0782 42 mg plus enteric-coated aspirin, (c) celecoxib 200 mg plus enteric-coated aspirin, and enteric-coated aspiring alone.\n\nThis is an early phase trial and some specific protocol information is in progress and not publicly available at this time. (Full information is available to t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has osteoarthritis or rheumatoid arthritis for at least 6 months prior to start of study\n* Osteoarthritis (OA): must have diagnosis of OA in knee, hip, hand or spine\n\nPatient is not on chronic aspirin therapy (taking aspirin at any dose, on a daily basis, for a minimum of 4 we",
+      "endpoints": [],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00543465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06231758",
+      "title": "The AMPK Modulator Metformin as a Novel Adjunct to Conventional Therapy in Patients With Knee Osteoarthritis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-01-30",
+      "completion_date": "2027-09-20",
+      "country": "Egypt",
+      "enrollment": 70,
+      "brief_summary": "Knee osteoarthritis (OA) is a chronic, painful disease associated with considerable morbidity, costs and disability. It is estimated that over a third of people aged over 60 have radiographic knee OA2 and over 50% of these with knee OA will go on to have a total knee replacement in their lifetime. At present there are no licensed treatments that alter disease progress and management is primarily concerned with symptom control to retain or improve joint function, although a trial of strontium ran",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary osteoarthritis Patients recruited were between 30 to 60 years of age.\n* X-ray confirmed Kellgren-Lawrence grade II or III severity primary tibiofemoral OA according to the American College of Rheumatology criteria.\n\nExclusion Criteria:\n\nPatients with age less than 30 y",
+      "endpoints": [
+        "The primary efficacy end point will be the change of Visual Analogue Scale (VAS) pain score from baseline to post treatment."
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT06231758"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03912428",
+      "title": "Evaluation of a Novel PET Radioligand as an Inflammatory Biomarker in Musculoskeletal Conditions",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2019-06-14",
+      "completion_date": "2024-06-14",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Background:\n\nInflammation plays a significant role in various disorders that involve neurodegeneration or autoimmune reaction as one of their mechanisms. PET scans can help detect inflammation. Two new drugs may create better PET images.\n\nObjective:\n\n\\- To see if the drug \\[11C\\]MC1 can help image inflammation.\n\nEligibility:\n\n* People age 18 and older with rheumatoid arthritis or idiopathic inflammatory myopathy (IIM).\n* Healthy volunteers enrolled in protocol 01-M-0254 or 17-M-0181 are also nee",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nHealthy subjects\n\n* Aged 18 years or older.\n* Willing and able to complete all study procedures.\n* Able to provide informed consent.\n* Healthy based on medical history, physical examination, and laboratory testing.\n* Enrolled in protocol 01-M-0254 The Evaluation of Participant",
+      "endpoints": [
+        "Uptake of [11C]MC1 by Organs",
+        "Uptake of [11C]MC1 by Organs - Gender Specific Organs",
+        "Phase 2: [11C]MC1 Binding in Inflamed Body Parts - HANDS"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT03912428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00688545",
+      "title": "SINCERE™: Safety in Idiopathic Arthritis: NSAIDs and Celebrex Evaluation Registry A Prospective Observational Registry Of Patients With Juvenile Idiopathic Arthritis (JIA) Treated With NSAIDs",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2009-04",
+      "completion_date": "2012-01",
+      "country": "United States",
+      "enrollment": 275,
+      "brief_summary": "This multi-center observational Registry will collect long-term safety data on patients treated with celecoxib or non-selective nonsteroidal anti-inflammatory drugs (nsNSAIDs) as used in clinical practice for the treatment of Juvenile Idiopathic Arthritis (JIA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age at least 2 years but less than 18 years; JIA of any of the following subtypes: oligoarthritis, polyarthritis, or stable systemic disease;\n* new treatment (started not more than 6 months prior) with one NSAID (celecoxib or nsNSAID).\n\nExclusion Criteria:\n\n* Patients with the",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "JIA Concomitant Medications"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00688545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00141102",
+      "title": "Double-Blind, Triple Dummy, Parallel-Group, Randomized, Six-Month Study To Compare Celecoxib (200 Mg BID) With Diclofenac Sr (75 Mg BID) Plus Omeprazole (20 Mg QD) For Gastrointestinal Events In Subjects With Osteoarthritis And Rheumatoid Arthritis At High-Risk Of Gastrointestinal Adverse Events",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2009-05",
+      "country": "Brazil, Singapore, Spain, Russia, Peru, Canada, Sweden, Belgium, Ecuador, Croatia, Taiwan, India, Serbia, Germany, Latvia, Costa Rica, Portugal, Lithuania, South Korea, Hong Kong, South Africa, Greece, Ukraine, Colombia, Guatemala, Estonia, France, Czechia, Panama, China, Netherlands, United Kingdom",
+      "enrollment": 4484,
+      "brief_summary": "To determine whether celecoxib is superior to combined therapy with diclofenac and omeprazole in the incidence of clinically significant upper and/or lower gastrointestinal (GI) events in high GI risk subjects with osteoarthritis and/or rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with a clinical diagnosis of OA or RA and who are expected to require regular anti-inflammatory therapy for arthritis symptom management\n* Subjects must be aged 60 years or older with or without a history of gastroduodenal (GD) ulceration; or be of any age 18 years or",
+      "endpoints": [
+        "Number of Subjects With Clinically Significant Upper and/or Lower Gastrointestinal Events (CSULGIEs)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00141102"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03699293",
+      "title": "NSAIDs vs. Coxibs in the Presence of Aspirin: Effects on Platelet Function, Endothelial Function, and Biomarkers of Inflammation in Subjects With Rheumatoid Arthritis and Increased Cardiovascular Risk or Cardiovascular Disease",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2018-09-22",
+      "completion_date": "2019-11-24",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The objectives of this single site, randomized, crossover study is to evaluate the pharmacodynamic interactions between aspirin, NSAIDs and Coxibs with respect to platelet function, biomarkers of inflammation and endothelial function.",
+      "eligibility_criteria": "Inclusion Criteria:Qualified patients should have all 4 main criteria\n\n1. Age 18-75 years of age for patients who regularly use NSAIDs.\n2. Age 18-65 years of age for patients who do not regularly use NSAIDs\n3. Able to give informed consent\n4. Subjects with CVD or increased CV risk. Please see defini",
+      "endpoints": [
+        "Platelet aggregation"
+      ],
+      "sponsor": "Inova Health Care Services",
+      "url": "https://clinicaltrials.gov/study/NCT03699293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00065559",
+      "title": "Treatment of Diabetic Nephropathy",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2003-04",
+      "completion_date": "2004-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "COX-2 is an enzyme that is found in several different tissues in the body. COX-2 appears to produce a substance called prostaglandins, mainly at sites of inflammation. Several drugs have been approved by the FDA that inhibit COX-2 such as celecoxib, or brand name Celebrex®. These drugs are primarily used in patients with osteoarthritis and rheumatoid arthritis to decrease inflammation and pain. COX-2 inhibitors have been developed because they are more selective in treatment of inflammation and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or greater\n* Men or non-pregnant, non-lactating women with Type 1 or Type II diabetes and renal disease\n* 24-hour urinary protein excretion greater than or equal to 500 mg\n* Serum creatinine less than or equal to 3 mg/dl\n* Willingness and ability to give informed ",
+      "endpoints": [],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "url": "https://clinicaltrials.gov/study/NCT00065559"
+    }
+  ],
+  "timestamp": "2026-03-04T15:12:59.415431",
+  "success": true,
+  "error_message": null
+}

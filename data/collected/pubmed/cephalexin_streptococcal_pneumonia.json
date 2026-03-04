@@ -1,0 +1,600 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "streptococcal pneumonia",
+    "query_string": "Cephalexin AND streptococcal pneumonia"
+  },
+  "data": {
+    "query": "Cephalexin AND streptococcal pneumonia",
+    "results": [
+      {
+        "pmid": "4248663",
+        "title": "Cephalexin.",
+        "abstract": "",
+        "journal": "The Medical clinics of North America",
+        "year": "1970",
+        "authors": [
+          "Griffith R S",
+          "Black H R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Animals",
+          "Aqueous Humor",
+          "Bacteria",
+          "Biological Assay",
+          "Cats",
+          "Cephalosporins",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Diarrhea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+      },
+      {
+        "pmid": "3752972",
+        "title": "Therapeutic efficacy of cefadroxil and cephalexin for pneumonia in a rat test model.",
+        "abstract": "The therapeutic efficacies of cefadroxil and cephalexin were compared in a Streptococcus pyogenes-induced lung infection in rats. Although MICs, rates of in vitro killing in rat serum, and antibiotic serum levels after oral administration were similar for both drugs, cefadroxil was about eight times more effective than cephalexin in reducing the number of viable streptococci at the site of infection. This excellent in vivo bactericidal activity of cefadroxil in lung tissue and bronchial secretions was reflected in the 50% protective dose (PD50) after single or multiple oral treatments. A single treatment given 24 h after infection resulted in a PD50 of 2.8 mg of cefadroxil per kg, compared with 21 mg of cephalexin per kg. When treatment was administered three times, at 24, 27, and 30 h postinfection, the PD50s of cefadroxil and cephalexin were 0.7 and 8.0 mg/kg, respectively. In infected animals, treated 24 h postinfection, the area under the lung tissue concentration versus time curve",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1986",
+        "authors": [
+          "Chisholm D R",
+          "DeRegis R G",
+          "Behr D A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cefadroxil",
+          "Cephalexin",
+          "Lung",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Pneumonia",
+          "Rats",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3752972/"
+      },
+      {
+        "pmid": "4642154",
+        "title": "Pneumonia.",
+        "abstract": "",
+        "journal": "American family physician",
+        "year": "1972",
+        "authors": [
+          "Pagano J S",
+          "Sarubbi F A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Bronchopneumonia",
+          "Cephalexin",
+          "Cephalothin",
+          "Erythromycin",
+          "Gentamicins",
+          "Haemophilus Infections",
+          "Humans",
+          "Klebsiella Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4642154/"
+      },
+      {
+        "pmid": "799997",
+        "title": "Comparative efficacy and safety of cephradine and cephalexin in children.",
+        "abstract": "Cephradine was compared to cephalexin a randomized, double-blind study for the treatment of bacterial infections in 162 children between four months and eleven years of age. In addition to evaluations of clinical and bacteriologic responses to therapy, the relative safety of the two cephalosporins was assessed for all children, including eight who were not included in the evaluation of drug efficacy. The children in the efficacy evaluation had either lobar pneumonia or skin infections and received oral suspensions of cephradine (25-110 mg/kg per day) or cephalexin (25-150 mg/kg per day) for five to fifteen days. Overall clinical and bacteriologic responses were nearly identical in the two groups, and both antibiotics proved to equally safe and effective for use paediatric practice.",
+        "journal": "The Journal of international medical research",
+        "year": "1976",
+        "authors": [
+          "Mouallem R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Cephalexin",
+          "Cephalosporins",
+          "Cephradine",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/799997/"
+      },
+      {
+        "pmid": "15212560",
+        "title": "Cefdinir: a review of its use in the management of mild-to-moderate bacterial infections.",
+        "abstract": "Cefdinir (Omnicef) is an oral third-generation cephalosporin with good in vitro activity against many pathogens commonly causative in community-acquired infections. The drug provides good coverage against Haemophilus influenzae, Moraxella catarrhalis and penicillin-susceptible Streptococcus pneumoniae, the most common respiratory tract pathogens. Cefdinir is stable to hydrolysis by commonly occurring plasmid-mediated beta-lactamases and retains good activity against beta-lactamase-producing strains of H. influenzae and M. catarrhalis. The drug distributes into various tissues (e.g. sinus and tonsil) and fluids (e.g. middle ear), and has a pharmacokinetic profile that allows for once- or twice-daily administration.Cefdinir, administered for 5 or 10 days, has shown good clinical and bacteriological efficacy in the treatment of a wide range of mild-to-moderate infections of the respiratory tract and skin in adults, adolescents and paediatric patients in randomised, controlled trials. In a",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Perry Caroline M",
+          "Scott Lesley J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cefdinir",
+          "Cephalosporins",
+          "Child",
+          "Gram-Negative Bacteria",
+          "Gram-Negative Bacterial Infections",
+          "Gram-Positive Bacteria",
+          "Gram-Positive Bacterial Infections",
+          "Humans",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15212560/"
+      },
+      {
+        "pmid": "4284",
+        "title": "Comparison of cepharadine and cephalexin in the treatment of respiratory and urinary tract infections.",
+        "abstract": "",
+        "journal": "Current therapeutic research, clinical and experimental",
+        "year": "1976",
+        "authors": [
+          "Mogabgab W J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Bronchitis",
+          "Cephalexin",
+          "Cephalosporins",
+          "Cephradine",
+          "Child",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4284/"
+      },
+      {
+        "pmid": "3803252",
+        "title": "Cefadroxil compared with cefaclor in the treatment of streptococcal pneumonia in adults.",
+        "abstract": "103 young male Black African gold-miners with pneumococcal pneumonia confirmed by culture or serology were randomly assigned to receive the long acting oral cephalosporin cefadroxil 1 g every 12 hours or cefaclor 500 mg every 8 hours for 10 days. Clinical cures were obtained in 94% of the group who received cefadroxil and in 94% of the cefaclor group. Similarly, the causative organism S. pneumoniae was eradicated in 98% and 96% of patients who received cefadroxil and cefaclor, respectively. Minimal side effects occurred in both groups, although 1 patient withdrew from therapy with cefaclor because of severe diarrhoea. Thus, cefadroxil and cefaclor both displayed effective antimicrobial activity with low toxicity in the treatment of pneumococcal pneumonia.",
+        "journal": "Drugs",
+        "year": "1986",
+        "authors": [
+          "ZeLuff B",
+          "Catchpole M",
+          "Lowe P",
+          "Koornhof H",
+          "Gentry L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cefaclor",
+          "Cefadroxil",
+          "Cephalexin",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pneumonia",
+          "Streptococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3803252/"
+      },
+      {
+        "pmid": "44908",
+        "title": "Treatment of acute bacterial bronchitis and pneumonia with cefaclor.",
+        "abstract": "Sixty patients with pneumonia and/or bronchitis were treated with cefaclor, a new orally administered cephalosporin. Of those 60, 27 adults were treated with 500 mg every 8 hours, 26 adults with 250 mg every 6 hours, and 7 children with 50 mg/kg/day. In the adults, pneumonia was caused most frequently by Streptococcus pneumoniae and Haemophilus influenzae. The 7 children had pneumococcal pneumonia. All but 2 adults, both elderly patients with chronic obstructive pulmonary disease, were successfully treated. One instance of drug hypersensitivity occurred. All 7 children responded rapidly, with no side effects, to cefaclor therapy.",
+        "journal": "Postgraduate medical journal",
+        "year": "1979",
+        "authors": [
+          "Mogabgab W J",
+          "Pollock B",
+          "Beville R B",
+          "Gentry L O",
+          "Jemsek J G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Bronchitis",
+          "Cefaclor",
+          "Cephalexin",
+          "Child",
+          "Drug Administration Schedule",
+          "Haemophilus influenzae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/44908/"
+      },
+      {
+        "pmid": "4791486",
+        "title": "Clinical studies of cefazolin and comparison with other cephalosporins.",
+        "abstract": "Cefazolin, a new cephalosporin derivative, was studied in the treatment of 105 hospitalized patients with a variety of infections including endocarditis, pneumonia, and urinary and soft tissue infections, and was found to be effective in 104 patients. Cefazolin was also tested in vitro and shown to be effective against staphylococci, pneumococci, Escherichia coli, Klebsiella sp., and Proteus mirabilis by agar dilution method. It was shown to produce high serum levels when administered in a 250- to 1,000-mg intramuscular dose and was well tolerated and free from renal toxicity. Comparison of the results of this study with those from our prior studies on cephaloridine revealed equivalent antibiotic potency, good tolerance to both the agents when given intramuscularly, superior, average blood levels with cefazolin, equal clinical efficacy, and absence of renal toxicity with cefazolin (unlike cephaloridine). Similarly, the results of treatment of pneumococcal pneumonia with intramuscular c",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1973",
+        "authors": [
+          "Madhavan T",
+          "Quinn E L",
+          "Freimer E",
+          "Fisher E J",
+          "Cox F"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Cephalexin",
+          "Cephaloridine",
+          "Cephalosporins",
+          "Drug Evaluation",
+          "Humans",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4791486/"
+      },
+      {
+        "pmid": "1617044",
+        "title": "Review of the experience with cefprozil for the treatment of lower respiratory tract infections.",
+        "abstract": "A regimen of cefprozil (500 mg twice daily), a new oral cephalosporin with a broad in vitro spectrum of antimicrobial activity, was compared to standard regimens of cefaclor (500 mg three times daily), cefuroxime axetil (500 mg twice daily), or amoxicillin/clavulanate (500 mg/125 mg three times daily) for the treatment of lower respiratory tract infections (mainly bronchitis and acute exacerbations of chronic bronchitis) in adults in three open-label, randomized trials. In the first trial, in which bacterial pathogens were isolated in initial cultures for only one-third of the patients, 90% of the pathogens were susceptible to cefprozil. A satisfactory clinical response was noted for 84% of the evaluable patients who received cefprozil versus 79% of those who received cefaclor for treatment of lower respiratory tract infections; rates of bacteriologic efficacy were 82% and 78%, respectively. In the second study rates of satisfactory clinical response were 96% with cefprozil and 83% wit",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1992",
+        "authors": [
+          "Pelletier L L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Bronchitis",
+          "Bronchopneumonia",
+          "Cefaclor",
+          "Cefuroxime",
+          "Cephalosporins",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1617044/"
+      },
+      {
+        "pmid": "4404851",
+        "title": "Cephalexin therapy of lower respiratory tract, soft tissue and bone infections.",
+        "abstract": "",
+        "journal": "Scandinavian journal of infectious diseases",
+        "year": "1972",
+        "authors": [
+          "Solberg C O",
+          "Schreiner A",
+          "Digranes A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cephalexin",
+          "Child",
+          "Drug Eruptions",
+          "Erysipelas",
+          "Female",
+          "Haemophilus influenzae",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4404851/"
+      },
+      {
+        "pmid": "15631797",
+        "title": "[Comparative study on cefdinir and cefaclor in the treatment of patients with mild to moderate bacterial community acquired pneumonia].",
+        "abstract": "To evaluate the efficacy and safety of cefdinir in the treatment of patients with mild to moderate bacterial community acquired pneumonia (CAP).",
+        "journal": "Zhonghua yi xue za zhi",
+        "year": "2004",
+        "authors": [
+          "Jiang Xing-tang",
+          "Du Yan-ping",
+          "Deng Li-ping"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Cefaclor",
+          "Cefdinir",
+          "Cephalosporins",
+          "Community-Acquired Infections",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15631797/"
+      },
+      {
+        "pmid": "16778466",
+        "title": "Microbial pathogens of adult community-acquired pneumonia in Southern Estonia.",
+        "abstract": "Prospective analysis of the etiology of community-acquired pneumonia in 209 inpatients (mean age 56.2+/-11.2 years) was performed at the Lung Hospital of Tartu University, Estonia. Majority of the patients (87.6%) had at least one significant modifying or risk factor and 30.6% had severe community-acquired pneumonia. Streptococcus pneumoniae, beta-hemolytic streptococci, Klebsiella pneumoniae, and Moraxella catarrhalis were the most frequent pathogens (22.0, 12.2, 11.4, and 10.2%, respectively). Combined etiology was detected in 17.2%. Gram-negative pathogens prevailed over gram-positives and were significantly more frequent in patients aged > or =60 years (p=0.002) as in those with underlying diseases (p=0.01). An age of > or =60 years and previous antibacterial therapy were significant risk factors for Klebsiella pneumoniae as a pathogen (p=0.005 and p=0.002, respectively). Susceptibility of Streptococcus pneumoniae to penicillin, erythromycin, and doxycycline was 79.5, 90.2, and 100",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2006",
+        "authors": [
+          "Leesik Helle",
+          "Ani Ulle",
+          "Juhani Anneli",
+          "Altraja Alan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Community-Acquired Infections",
+          "Data Interpretation, Statistical",
+          "Drug Resistance, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16778466/"
+      },
+      {
+        "pmid": "933394",
+        "title": "Common childhood bacterial infections.",
+        "abstract": "Acute bacterial infections are a common cause of pediatric visits to the emergency department. The diagnosis and treatment of pharyngitis, otitis media, pneumonia, urinary tract infection, acute bacterial lymphadenitis and gastroenteritis are reviewed. The authors propose the use of a limited number of antibiotic agents including penicillin, ampicillin, erythromycin, lincomycin, cephalexin, a sulfonamide and tetracycline to improve efficiency and quality of care and to allow physicians to become familar with the drugs' characteristics, indications, dosage and side effects.",
+        "journal": "JACEP",
+        "year": "1976",
+        "authors": [
+          "Mohan K",
+          "Gordon R C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Child",
+          "Gastroenteritis",
+          "Haemophilus Infections",
+          "Humans",
+          "Lymphadenitis",
+          "Otitis Media",
+          "Pharyngitis",
+          "Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/933394/"
+      },
+      {
+        "pmid": "5556191",
+        "title": "Treatment of pneumonia in childhood with cephalexin.",
+        "abstract": "",
+        "journal": "Postgraduate medical journal",
+        "year": "1971",
+        "authors": [
+          "Rosenthal I M",
+          "Metzger W A",
+          "Laxminarayana M S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Klebsiella Infections",
+          "Male",
+          "Pneumococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5556191/"
+      },
+      {
+        "pmid": "4931110",
+        "title": "[Cephalexin monohydrate in pediatrics. Clinical, bacteriological experiences and the hematic, hepatic and renal tolerance in 120 children with respiratory infections].",
+        "abstract": "",
+        "journal": "La Prensa medica mexicana",
+        "year": "1970",
+        "authors": [
+          "Albores J M",
+          "Martinez Meyer C A",
+          "Ots T P",
+          "Guilhem A",
+          "Bures O M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Blood Cells",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Enterobacteriaceae Infections",
+          "Escherichia coli Infections",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4931110/"
+      },
+      {
+        "pmid": "1656740",
+        "title": "Multicenter evaluation of azithromycin and cefaclor in acute lower respiratory tract infections.",
+        "abstract": "This was a randomized, third-party-blinded, multicenter study that compared once-daily azithromycin (500 mg on day 1, followed by 250 mg on days 2-5) to cefaclor (500 mg three times daily for 10 days) in the treatment of patients with acute bronchitis or pneumonia. A total of 546 patients were entered into the study and 272 patients were evaluable for efficacy analysis. Of these, 249 (176 azithromycin, 73 cefaclor) had bronchitis and 23 (15 azithromycin, 8 cefaclor) had pneumonia. The combined clinical cure and improvement rate, as determined by the investigator, was 96% for azithromycin and 94% for cefaclor, with 88% bacteriologic eradication in both treatment groups. The elimination of Haemophilus influenzae was significantly better with azithromycin (94.5%) than with cefaclor (61.1%) (p less than 0.001; Fisher's exact two-tail test). The two antibiotics were well tolerated during this study; the incidence of side effects reported was similar for azithromycin and cefaclor. Approximat",
+        "journal": "The American journal of medicine",
+        "year": "1991",
+        "authors": [
+          "Dark D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Azithromycin",
+          "Bronchitis",
+          "Cefaclor",
+          "Erythromycin",
+          "Haemophilus Infections",
+          "Humans",
+          "Klebsiella Infections",
+          "Moraxella catarrhalis",
+          "Neisseriaceae Infections",
+          "Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1656740/"
+      },
+      {
+        "pmid": "1525791",
+        "title": "Cefaclor advanced formulation versus cefaclor in the treatment of pneumonia.",
+        "abstract": "The use of cefaclor advanced formulation (cefaclor AF) in the treatment of pneumonia caused by susceptible organisms was investigated in a multi-center trial conducted in the United Kingdom and the United States. A total of 266 patients were enrolled in this double-blind, double-dummy, randomized, parallel study; 132 patients were treated with cefaclor AF and 134 patients received the reference drug cefaclor. Inclusion criteria were a diagnosis of lobar pneumonia or bronchopneumonia, with a positive sputum culture and an infiltrate on chest roentgenogram. Patients received either cefaclor AF (750 mg twice daily) or cefaclor (500 mg three times daily) for 10 to 14 days. Forty patients in the cefaclor AF group and 45 in the cefaclor group were evaluable for efficacy, with 37 (92.5%) and 43 (95.6%), respectively, showing a favorable posttherapy clinical response. Proven or presumed pathogen elimination was achieved in 87.5% and 86.7% of cases, respectively. Both study drugs demonstrated h",
+        "journal": "Clinical therapeutics",
+        "year": "1992",
+        "authors": [
+          "Casali L",
+          "Voi M",
+          "Janssen C J",
+          "Olovich K G",
+          "Dere W H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Bronchopneumonia",
+          "Cefaclor",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pneumonia",
+          "Pneumonia, Pneumococcal",
+          "Pneumonia, Staphylococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1525791/"
+      },
+      {
+        "pmid": "357229",
+        "title": "Clinical experience with cefadroxil in upper and lower respiratory tract infections.",
+        "abstract": "Cefadroxil is a new semisynthetic oral cephalosporin with a broad spectrum of activity against both Gram-positive and Gram-negative organisms. Absorption of cefadroxil is unaffected by food, its serum levels are prolonged and it is excreted in the urine at a relatively slow rate compared to cephalexin. In the treatment of 108 patient with upper or lower respiratory tract infections, cefadroxil effected 93% complete cures. Fifty-five of the patients had upper respiratory tract infections and fifty-three had lower respiratory tract infections; among them cefadroxil acheived clinical success rates of 100% and 96%, respectively. Cefadroxil was clinically successful in eight (89%) out of nine patients whose infections were caused by mixed aetiologies. The principal causative agents were Staphylococcus aureus, beta-haemolytic streptococci, Streptococcus pneumoniae and Klebsiella pneumoniae. Overall bacterial eradication produced by cefadroxil was 112 (91%) of 123 organisms isolated from 108 ",
+        "journal": "The Journal of international medical research",
+        "year": "1978",
+        "authors": [
+          "Mercado F F",
+          "Santella P J",
+          "Fernandez C A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Bronchiectasis",
+          "Bronchitis",
+          "Cephalosporins",
+          "Female",
+          "Humans",
+          "Klebsiella Infections",
+          "Klebsiella pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/357229/"
+      },
+      {
+        "pmid": "1259399",
+        "title": "In vitro and clinical studies of cefatrizine, a new semisynthetic cephalosporin.",
+        "abstract": "Cefatrizine, a new oral semisynthetic cephalosporin, was evaluated in vitro and in the treatment of 18 patients with acute urinary tract infection, pneumonia, and soft tissue infection. In vitro, it was more active than cephalexin for gram-positive and gram-negative bacteria. It was also more active than cephalothin, cefazolin, and cephapirin against most of the gram-negative bacteria but less active against the gram-positive bacteria. Of the patients treated with cefatrizine, only one failed to respond. This patient had pneumococcal conjunctivitis and hypogammaglobulinemia and neutropenia. The mean peak serum level after multiple 6-hourly doses of 500 mg was 6.2 mug/ml. The serum levels of cefatrizine necessary for inhibition of most susceptible organisms were well within the achievable range. The drug was well tolerated, and no renal, hepatic, or hematological toxicity was detected.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1976",
+        "authors": [
+          "del Busto R",
+          "Haas E",
+          "Madhaven T",
+          "Burch K",
+          "Cox F"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Bacteria",
+          "Bacterial Infections",
+          "Cephalosporins",
+          "Drug Evaluation",
+          "Humans",
+          "Species Specificity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1259399/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:57:29.262591",
+  "success": true,
+  "error_message": null
+}

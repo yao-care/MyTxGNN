@@ -6,7 +6,7 @@ drug_name: "Budesonide"
 kg_predictions: 216
 dl_predictions: 208
 evidence_level: "L1"
-indication_count: 216
+indication_count: 5
 brands: []
 permalink: /drugs/budesonide/
 ---

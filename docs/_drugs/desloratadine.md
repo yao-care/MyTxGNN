@@ -6,7 +6,7 @@ drug_name: "Desloratadine"
 kg_predictions: 230
 dl_predictions: 65
 evidence_level: "L1"
-indication_count: 230
+indication_count: 5
 brands: []
 permalink: /drugs/desloratadine/
 ---

@@ -1,0 +1,1801 @@
+{
+  "drug": {
+    "name": "Loratadine",
+    "drugbank_id": "DB00455",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "pharyngitis",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06531707",
+            "title": "Efficacy and Safety of Ibuprofen/Loratadine Fixed-dose Combination Versus the Fixed-dose Administration of Monotherapy as Symptomatic Treatment for Patients With the Common Cold",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-05-20",
+            "completion_date": "2025-02-20",
+            "country": "Mexico",
+            "enrollment": 177,
+            "brief_summary": "Phase III longitudinal, multicenter, randomized, double-blind clinical trial. The aim of this study is to evaluate the efficacy and safety of the drug combination of Ibuprofen/Loratadine versus Ibuprofen versus Loratadine as monotherapy for the symptomatic treatment of the common cold.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study and give written informed consent\n* At least 6 points on the Jackson scale according to physical examination and questioning (sneezing, runny nose, nasal obstruction, sore throat, cough, headache, malaise, and chills).\n* Symptoms associated wi",
+            "endpoints": [
+              "Assess the improvement in symptoms, comparing the percentage change through the Jackson score",
+              "Number of participants with treatment-related adverse events through the patient's diary record, by treatment group"
+            ],
+            "sponsor": "Laboratorios Silanes S.A. de C.V.",
+            "url": "https://clinicaltrials.gov/study/NCT06531707"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05275933",
+            "title": "Assessing the Efficacy of TCM Capsules Lian Hua Qing Wen Jiao Nang as Adjuvant Treatment in Mild COVID-19 Patients on Home Recovery Program in Singapore: a Randomised, Double-blind, Placebo-controlled Study",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2022-04-05",
+            "completion_date": "2023-11-22",
+            "country": "Singapore",
+            "enrollment": 93,
+            "brief_summary": "This research aims to investigate the adjuvant effect of LH in reducing the symptomatic duration of fully vaccinated, mild COVID-19 patients on home recovery program in Singapore. It is aimed to assist policymakers in incorporating clinically proven TCM treatment for mild COVID-19 patients on home recovery program, and establishing a guideline on TCM pandemic treatment protocol which is suitable to be integrated into the healthcare system.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants of age 21 to 79 years, all gender and races.\n2. Participant provides informed consent prior to initiation of any study procedures.\n3. Fully vaccinated (according to latest MOH criteria. Refer to Appendix 1) and qualified for Protocol 2 Primary Care (P2PC) (Append",
+            "endpoints": [
+              "1.1 Time (Days) to become asymptomatic (the event) for all 8 major COVID-19 symptoms."
+            ],
+            "sponsor": "Singapore Chung Hwa Medical Institution",
+            "url": "https://clinicaltrials.gov/study/NCT05275933"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "28441993",
+            "title": "Randomized, placebo-controlled study of cetirizine and loratadine in children with seasonal allergic rhinitis.",
+            "abstract": "Pharmacologic treatment is a mainstay of allergy therapy and many caregivers use over-the-counter antihistamines for the treatment of seasonal allergic rhinitis (SAR) symptoms in children.",
+            "journal": "Allergy and asthma proceedings",
+            "year": "2017",
+            "authors": [
+              "Nayak Anjuli S",
+              "Berger William E",
+              "LaForce Craig F",
+              "Urdaneta Eduardo R",
+              "Patel Mitesh K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Anti-Allergic Agents",
+              "Cetirizine",
+              "Child",
+              "Female",
+              "Headache",
+              "Humans",
+              "Loratadine",
+              "Male",
+              "Pharyngitis",
+              "Rhinitis, Allergic, Seasonal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28441993/"
+          },
+          {
+            "pmid": "12962522",
+            "title": "Desloratadine: an update of its efficacy in the management of allergic disorders.",
+            "abstract": "Desloratadine (Clarinex, Neoclarityn, Aerius, Azomyr, Opulis, Allex), the principal metabolite of loratadine, is itself an orally active, nonsedating, peripheral histamine H(1)-receptor antagonist. It is indicated in the US and Europe for the treatment of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR) and chronic idiopathic urticaria (CIU). It has a rapid onset of effect, efficacy throughout a 24-hour dosage interval, and sustained efficacy in these allergic conditions, as demonstrated in placebo-controlled trials of up to 6 weeks' duration in adult and adolescent patients. At present, there are no published direct comparisons of desloratadine and other H(1)-antihistamines; however, the principal, potential clinical advantages of desloratadine over late-generation H(1)-antihistamines are the drug's decongestant activity, which has been corroborated in several studies of patients with allergic rhinitis, and its anti-inflammatory effects. Indeed, the decongestant act",
+            "journal": "Drugs",
+            "year": "2003",
+            "authors": [
+              "Murdoch David",
+              "Goa Karen L",
+              "Keam Susan J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Clinical Trials as Topic",
+              "Drug Interactions",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Hypersensitivity",
+              "Loratadine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12962522/"
+          },
+          {
+            "pmid": "9806113",
+            "title": "Mometasone furoate. A review of its intranasal use in allergic rhinitis.",
+            "abstract": "Mometasone furoate is a synthetic corticosteroid which has been evaluated for intranasal use in the treatment of adults and children with allergic rhinitis. In several large, well-controlled clinical trials, mometasone furoate 200 micrograms administered once daily as an aqueous intranasal spray was significantly more effective than placebo in controlling the symptoms associated with moderate to severe seasonal or perennial allergic rhinitis. Mometasone furoate was as effective as twice-daily beclomethasone dipropionate or once-daily fluticasone propionate in the treatment of perennial allergic rhinitis, and was as effective as twice-daily beclomethasone dipropionate and slightly more effective than once-daily oral loratadine in the treatment of seasonal allergic rhinitis. Mometasone furoate was also as effective as twice-daily beclomethasone dipropionate or once-daily budesonide, and significantly more effective than placebo in the prophylaxis of seasonal allergic rhinitis. The onset ",
+            "journal": "Drugs",
+            "year": "1998",
+            "authors": [
+              "Onrust S V",
+              "Lamb H M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Allergic Agents",
+              "Humans",
+              "Mometasone Furoate",
+              "Pregnadienediols",
+              "Rhinitis, Allergic, Perennial",
+              "Rhinitis, Allergic, Seasonal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9806113/"
+          },
+          {
+            "pmid": "12642846",
+            "title": "Efficacy and safety of desloratadine in the treatment of perennial allergic rhinitis.",
+            "abstract": "The evidence base for the use of H1-antihistamines in the treatment of perennial allergic rhinitis is considerably smaller than it is in the treatment of seasonal allergic rhinitis.",
+            "journal": "The Journal of allergy and clinical immunology",
+            "year": "2003",
+            "authors": [
+              "Simons F Estelle R",
+              "Prenner Bruce M",
+              "Finn Albert"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Double-Blind Method",
+              "Female",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Loratadine",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12642846/"
+          },
+          {
+            "pmid": "11277962",
+            "title": "Once-daily desloratadine improves the signs and symptoms of chronic idiopathic urticaria: a randomized, double-blind, placebo-controlled study.",
+            "abstract": "Chronic idiopathic urticaria (CIU) is the most common type of chronic urticaria, and pruritus is the most prominent symptom. Antihistamines are the first-line treatment for CIU. Sedation and anticholinergic adverse effects are often experienced with the first-generation antihistamines and there is a risk of cardiovascular adverse effects and drug interactions with some second-generation agents. Hence, new treatment options are needed. Desloratadine is a new, potent, nonsedating antihistamine that has an excellent cardiovascular safety profile.",
+            "journal": "International journal of dermatology",
+            "year": "2001",
+            "authors": [
+              "Ring J",
+              "Hein R",
+              "Gauger A",
+              "Bronsky E",
+              "Miller B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Cholinergic Antagonists",
+              "Chronic Disease",
+              "Dizziness",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Fatigue",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11277962/"
+          },
+          {
+            "pmid": "8621843",
+            "title": "Intranasal fluticasone propionate versus loratadine in the treatment of adolescent patients with seasonal allergic rhinitis.",
+            "abstract": "Fluticasone propionate (FP) is a topical corticosteroid with minimal systemic activity. We examined safety and compared the efficacy of FP aqueous nasal spray, 200 micrograms every day with loratadine tablets, 10 mg by mouth every day in 240 adolescents with ragweed pollen-induced seasonal allergic rhinitis for 4 weeks in a randomized, double-blind, parallel-group study. Nasal and eye symptoms were recorded daily on a 4-point (0 to 3) scale. A higher percentage of symptom-free days was observed for nasal blockage on waking during treatment with FP (p < 0.0001). Significant results were also obtained for all other nasal symptoms when analyzed for both symptom-free days and symptom scores. No differences were found for eye irritation symptoms (p = 0.14). Morning and evening nasal peak inspiratory flow (PIF) was recorded daily by 57 subjects. FP treatment was associated wit significantly higher PIF values than loratadine both morning (p = 0.0051) and evening (p = 0.0036). A greater improv",
+            "journal": "The Journal of allergy and clinical immunology",
+            "year": "1996",
+            "authors": [
+              "Jordana G",
+              "Dolovich J",
+              "Briscoe M P",
+              "Day J H",
+              "Drouin M A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Intranasal",
+              "Adolescent",
+              "Androstadienes",
+              "Anti-Allergic Agents",
+              "Child",
+              "Double-Blind Method",
+              "Female",
+              "Fluticasone",
+              "Headache",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8621843/"
+          },
+          {
+            "pmid": "19821542",
+            "title": "Best drugs for what ails you: the brands to buy--and those to skip.",
+            "abstract": "",
+            "journal": "Consumer reports",
+            "year": "2009",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetaminophen",
+              "Anesthetics, Local",
+              "Cetirizine",
+              "Chlorpheniramine",
+              "Common Cold",
+              "Cough",
+              "Dextromethorphan",
+              "Diphenhydramine",
+              "Drug Costs",
+              "Drug Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19821542/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "papillary conjunctivitis",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "vasomotor rhinitis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "17376024",
+            "title": "Review of azelastine nasal spray in the treatment of allergic and non-allergic rhinitis.",
+            "abstract": "Azelastine is a potent H(1)-antihistamine, which is available as a topical nasal spray and indicated for both seasonal allergic and non-allergic vasomotor rhinitis. In addition to its antihistaminic effects, it has also been shown to have a number of other potentially important attributes, including effects on cytokines, adhesion molecules and inflammatory cells. Azelastine nasal spray has been shown to benefit patients who have not responded adequately to loratadine and fexofenadine, and is significantly more efficacious than cetirizine and levocabastine in patients with seasonal allergic rhinitis. Given its unique pharmacologic properties and clinical profile, azelastine maintains an important role in the treatment of chronic rhinitis.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2007",
+            "authors": [
+              "Lee Christina",
+              "Corren Jonathan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Intranasal",
+              "Animals",
+              "Anti-Allergic Agents",
+              "Biological Availability",
+              "Humans",
+              "Phthalazines",
+              "Randomized Controlled Trials as Topic",
+              "Rhinitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17376024/"
+          },
+          {
+            "pmid": "28005035",
+            "title": "[Acute respiratory viral infections: Topical issues of diagnosis, prevention and treatment in therapeutic practice].",
+            "abstract": "to assess the efficacy and safety of the medication Grippferon with loratadine for the prevention of acute respiratory viral infections (ARVI) and influenza during the epidemics.",
+            "journal": "Terapevticheskii arkhiv",
+            "year": "2016",
+            "authors": [
+              "Trukhan D I",
+              "Mazurov A L",
+              "Rechapova L A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Antiviral Agents",
+              "Common Cold",
+              "Female",
+              "Humans",
+              "Influenza, Human",
+              "Male",
+              "Respiratory Tract Infections",
+              "Seasons"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28005035/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "common cold",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06217367",
+            "title": "Do Common Over-the-counter Antihistamine Medications Modify Thermoregulatory Responses During Passive Heat Stress?",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2023-12-05",
+            "completion_date": "2024-06",
+            "country": "Canada",
+            "enrollment": 16,
+            "brief_summary": "Allergic rhinitis (AR) currently affects \\~25% of Canadians, and due to factors of climate change, this number is expected to increase over the coming decade. AR symptoms can significantly impact individuals' quality of life by compromising sleep, productivity, and social interactions. To alleviate AR symptoms, North Americans tend to rely on H1 antihistamine medications available over-the-counter (OTC) at most pharmacies. However, public health authorities currently suggest restraining all anti",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female between ages 19 and 39 years\n* Fully vaccinated against COVID-19\n* Able to provide informed consent\n* Body-mass index under 30\n\nExclusion Criteria:\n\n* Body-mass index over 30\n* Currently taking sedative or autonomic nervous system depressant medication\n* Hyperse",
+            "endpoints": [
+              "Whole-Body Sweat Losses",
+              "Skin Blood Flow",
+              "Heart Rate"
+            ],
+            "sponsor": "Lakehead University",
+            "url": "https://clinicaltrials.gov/study/NCT06217367"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06531707",
+            "title": "Efficacy and Safety of Ibuprofen/Loratadine Fixed-dose Combination Versus the Fixed-dose Administration of Monotherapy as Symptomatic Treatment for Patients With the Common Cold",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-05-20",
+            "completion_date": "2025-02-20",
+            "country": "Mexico",
+            "enrollment": 177,
+            "brief_summary": "Phase III longitudinal, multicenter, randomized, double-blind clinical trial. The aim of this study is to evaluate the efficacy and safety of the drug combination of Ibuprofen/Loratadine versus Ibuprofen versus Loratadine as monotherapy for the symptomatic treatment of the common cold.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study and give written informed consent\n* At least 6 points on the Jackson scale according to physical examination and questioning (sneezing, runny nose, nasal obstruction, sore throat, cough, headache, malaise, and chills).\n* Symptoms associated wi",
+            "endpoints": [
+              "Assess the improvement in symptoms, comparing the percentage change through the Jackson score",
+              "Number of participants with treatment-related adverse events through the patient's diary record, by treatment group"
+            ],
+            "sponsor": "Laboratorios Silanes S.A. de C.V.",
+            "url": "https://clinicaltrials.gov/study/NCT06531707"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04645979",
+            "title": "The Perception of Celestamine Treatment in Mexico: a Retrospective Assessment of Consumer Perception of Prior Celestamine Use",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2020-11-11",
+            "completion_date": "2020-11-27",
+            "country": "Mexico",
+            "enrollment": 153,
+            "brief_summary": "Acute allergic rhinitis is a common allergic reaction to things like pollen or dust. It causes inflammation inside the nose, resulting in symptoms similar to the common cold. Allergic rhinitis is also known as hay fever.\n\nIn this study, the researchers want to learn what participants think of betamethasone plus loratadine as a treatment for their acute allergic rhinitis. These participants will have used betamethasone plus loratadine as a treatment for their acute allergic rhinitis within the pa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who used betamethasone plus loratadine within the previous 2 months for the treatment of acute episodes of allergic rhinitis\n* Participants allowing to use the data for research and marketing purposes as well as talking to authorities\n* Participants allowing us to",
+            "endpoints": [
+              "Experience with betamethasone plus loratadine via an online questionnaire"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT04645979"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "10776186",
+            "title": "Use of cough and cold preparations during breastfeeding.",
+            "abstract": "Adverse reactions in infants from maternal drug ingestion depend largely on the amount of milk consumed by the infant, timing of breastfeeding in relation to dosing, dose of the medication, dosing interval, and duration of therapy. When taking medications, breastfeeding mothers should be instructed to take their medication after breastfeeding, at the lowest effective dose and for the shortest duration. Overall, there are few data from human studies on the use of antihistamines, decongestants, and cough products during breastfeeding. Studies of pseudoephedrine, triprolidine, and loratadine in humans conclude that low levels of each drug would reach a breastfed infant. Since triprolidine and pseudoephedrine are also considered compatible with breastfeeding by the AAP, these 2 drugs should be the first-line choices. Codeine is considered compatible with breastfeeding by the AAP, and would be an acceptable choice for short-term use as a cough suppressant. It is important to note that many ",
+            "journal": "Journal of human lactation : official journal of International Lactation Consultant Association",
+            "year": "1999",
+            "authors": [
+              "Mitchell J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antitussive Agents",
+              "Breast Feeding",
+              "Common Cold",
+              "Cough",
+              "Expectorants",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Infant, Newborn",
+              "Lactation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10776186/"
+          },
+          {
+            "pmid": "2529799",
+            "title": "The effectiveness of the nonsedating antihistamine loratadine plus pseudoephedrine in the symptomatic management of the common cold.",
+            "abstract": "A multicentered trial compared the effects of the non-sedating antihistamine, loratadine, 5 mg plus pseudoephedrine 120 mg with a placebo on the signs and symptoms of the common cold. One hundred forty-two (142) subjects were treated with the loratadine/pseudoephedrine combination and 141 subjects were treated with placebo twice daily for five days. Evaluations by both subjects and physicians suggest that this antihistamine/decongestant combination is superior to placebo in relieving symptoms of the common cold. Specific differences were found in symptoms including nasal congestion, sneezing, postnasal drainage, and nasal discharge. Differences between groups for the following side effects were found: dry mouth (9% for the combination vs 2% for placebo), insomnia (6% vs 3%), and nervousness (4% vs 2%). There were no differences between groups for the frequency of drowsiness.",
+            "journal": "Annals of allergy",
+            "year": "1989",
+            "authors": [
+              "Berkowitz R B",
+              "Connell J T",
+              "Dietz A J",
+              "Greenstein S M",
+              "Tinkelman D G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Common Cold",
+              "Cyproheptadine",
+              "Double-Blind Method",
+              "Drug Combinations",
+              "Ephedrine",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2529799/"
+          },
+          {
+            "pmid": "11588693",
+            "title": "Variant effect of first- and second-generation antihistamines as clues to their mechanism of action on the sneeze reflex in the common cold.",
+            "abstract": "Treatment with first-generation antihistamines reduces sneezing, rhinorrhea, nasal mucus weight, and, in some instances, cough in subjects with experimental or natural colds; however, treatment with second-generation antihistamines has not been effective for these complaints in trials in subjects with natural colds. This article reports the negative results of a clinical trial with loratadine, a second-generation antihistamine, in adults in the rhinovirus challenge model. This finding in the highly controlled setting of the challenge model confirms the earlier negative studies with second-generation antihistamines in natural colds. First-generation antihistamines block both histaminic and muscarinic receptors as well as passing the blood-brain barrier. Second-generation antihistamines mainly block histaminic receptors and do not pass the blood-brain barrier. The effectiveness of first-generation antihistamines in blocking sneezing in colds may be due primarily to neuropharmacological m",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2001",
+            "authors": [
+              "Muether P S",
+              "Gwaltney J M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Common Cold",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Intercellular Adhesion Molecule-1",
+              "Loratadine",
+              "Mucus",
+              "Rhinovirus",
+              "Sneezing",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11588693/"
+          },
+          {
+            "pmid": "16291073",
+            "title": "Non-antibiotic treatments for upper-respiratory tract infections (common cold).",
+            "abstract": "To review the seven Cochrane reviews of non-antibiotic treatment for the common cold.",
+            "journal": "Respiratory medicine",
+            "year": "2005",
+            "authors": [
+              "Arroll B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Ascorbic Acid",
+              "Child",
+              "Common Cold",
+              "Echinacea",
+              "Evidence-Based Medicine",
+              "Histamine H1 Antagonists",
+              "Hot Temperature",
+              "Humans",
+              "Humidity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16291073/"
+          },
+          {
+            "pmid": "2523301",
+            "title": "Loratadine. A preliminary review of its pharmacodynamic properties and therapeutic efficacy.",
+            "abstract": "Loratadine is a long acting antihistamine which has a high selectivity for peripheral histamine H1-receptors and lacks the central nervous system depressant effects often associated with some of the older antihistamines. Results from controlled clinical trials have shown that loratadine (usually 10mg once daily) is a well-tolerated and effective antihistamine which will be beneficial in patients with allergic rhinitis and chronic urticaria. It was found to be significantly superior to placebo, faster acting than astemizole and as effective as usual dosages of terfenadine, clemastine, mequitazine and azatadine in eliciting relief of symptoms. Importantly, loratadine is associated with a lower incidence of sedation than azatadine, clemastine, chlorpheniramine and mequitazine. Thus, loratadine, with its convenience of once daily administration, will be a useful addition to those drugs currently available for the treatment of patients with allergic diseases in whom a histamine H1-receptor ",
+            "journal": "Drugs",
+            "year": "1989",
+            "authors": [
+              "Clissold S P",
+              "Sorkin E M",
+              "Goa K L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Common Cold",
+              "Cyproheptadine",
+              "Female",
+              "Humans",
+              "Loratadine",
+              "Male",
+              "Rhinitis, Allergic, Perennial",
+              "Rhinitis, Allergic, Seasonal",
+              "Urticaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2523301/"
+          },
+          {
+            "pmid": "19032340",
+            "title": "Ebastine in allergic rhinitis and chronic idiopathic urticaria.",
+            "abstract": "Histamine is a key mediator in the development of allergy symptoms, and oral H(1)-antihistamines are among the most widely used treatments for symptomatic relief in conditions such as allergic rhinitis and chronic urticaria. Ebastine is a second-generation antihistamine which has been shown to be an effective treatment for both seasonal and perennial allergic rhinitis. In controlled clinical trials in adult and adolescent patients with allergic rhinitis, ebastine 10 mg once-daily improved symptoms to a significantly greater extent than placebo and to a similar extent as loratadine 10 mg and cetirizine 10 mg (both once-daily), while ebastine 20 mg proved to be more effective than these two comparator antihistamines. In addition, ebastine was significantly more effective than placebo at relieving the symptoms of chronic idiopathic urticaria. Ebastine provides efficacy throughout the 24-h dosing interval with once-daily administration and clinical benefit is seen from the first day of tre",
+            "journal": "Allergy",
+            "year": "2008",
+            "authors": [
+              "Sastre J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Butyrophenones",
+              "Chronic Disease",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Piperidines",
+              "Rhinitis, Allergic, Perennial",
+              "Rhinitis, Allergic, Seasonal",
+              "Urticaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19032340/"
+          },
+          {
+            "pmid": "15992014",
+            "title": "Therapeutic advantages of third generation antihistamines.",
+            "abstract": "A third generation of antihistamines is emerging for the treatment of allergic rhinitis and chronic urticaria. First generation antihistamines are among the most widely used drugs in the world, and provide symptomatic relief from allergies and the common cold to millions of patients, mainly in OTC combination preparations. Their full potential is limited by the sedation caused by their effects on histamine receptors in the brain. Second generation antihistamines (terfenadine, astemizole, loratadine and cetirizine), which block peripheral H1 receptors without penetrating the blood-brain barrier, were developed and introduced from 1981 onwards to provide comparable therapeutic benefit without the CNS side-effects. Although largely successful in this goal, terfenadine and astemizole were found to cause potentially serious arrhythmias when plasma concentrations became elevated subsequent to impaired metabolism. It was established that the cardiac toxicity was mainly due to the parent drugs",
+            "journal": "Expert opinion on investigational drugs",
+            "year": "1998",
+            "authors": [
+              "Handley D A",
+              "Magnetti A",
+              "Higgins A J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15992014/"
+          },
+          {
+            "pmid": "27787269",
+            "title": "Management of Patient Experience With ATX-101 (Deoxycholic Acid Injection) for Reduction of Submental Fat.",
+            "abstract": "ATX-101 (deoxycholic acid injection; Kythera Biopharmaceuticals, Inc., Westlake Village, CA [an affiliate of Allergan plc, Dublin, Ireland]) was recently approved for submental fat (SMF) reduction in the United States (Kybella) and Canada (Belkyra). The pivotal trials supporting these approvals revealed that ATX-101 is associated with common injection-site treatment reactions consistent with its mechanism of action and administration procedure.",
+            "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+            "year": "2016",
+            "authors": [
+              "Dover Jeffrey S",
+              "Kenkel Jeffrey M",
+              "Carruthers Alastair",
+              "Lizzul Paul F",
+              "Gross Todd M"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase III",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chin",
+              "Contusions",
+              "Cosmetic Techniques",
+              "Deoxycholic Acid",
+              "Dermatologic Agents",
+              "Double-Blind Method",
+              "Edema",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27787269/"
+          },
+          {
+            "pmid": "26676189",
+            "title": "Do pediatric medicines induce topographic changes in dental enamel?",
+            "abstract": "The purpose of the present study was to evaluate the effect of common pediatric liquid medicines on surface roughness and tooth structure loss and to evaluate the pH values of these medicines at room and cold temperatures in vitro. Eighty-four bovine enamel blocks were divided into seven groups (n = 12): G1-Alivium®, G2-Novalgina®, G3-Betamox®, G4-Clavulin®, G5-Claritin®, G6-Polaramine® and G7-Milli-Q water (negative control). The pH was determined and the samples were immersed in each treatment 3x/day for 5 min. 3D non-contact profilometry was used to determine surface roughness (linear Ra, volumetric Sa) and the Gap formed between treated and control areas in each block. Scanning electron microscopy (SEM) and energy dispersive spectrometry (EDS) were also performed. The majority of liquid medicines had pH ≤ 5.50. G1, G4, and G5 showed alterations in Ra when compared with G7 (p < 0.05). According to Sa and Gap results, only G5 was different from G7 (p < 0.05). Alteration in surface wa",
+            "journal": "Brazilian oral research",
+            "year": "2016",
+            "authors": [
+              "Alexandria Adílis Kalina",
+              "Meckelburg Nicolli de Araujo",
+              "Puetter Ursula Tavares",
+              "Salles Jordan Trugilho",
+              "Souza Ivete Pomarico Ribeiro"
+            ],
+            "pub_types": [
+              "Evaluation Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amoxicillin-Potassium Clavulanate Combination",
+              "Analgesics",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Cattle",
+              "Chlorpheniramine",
+              "Cold Temperature",
+              "Dental Enamel",
+              "Dipyrone",
+              "Hardness Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26676189/"
+          },
+          {
+            "pmid": "31888713",
+            "title": "Efficacy of Bimin decoction for patients with perennial allergic rhinitis: an open-label non-inferiority randomized controlled trial.",
+            "abstract": "Allergic rhinitis (AR) is a common allergic disease. It affects people worldwide and traditional Chinese medicine is becoming popular among AR patients because it has a definite clinical effect and there are few adverse reactions. Lung qi deficiency and cold syndrome (LQDCS) is a frequent type of AR, and the Chinese herbal medicine bimin decoction (BMD) is prescribed for it. This study compared the clinical efficacy of BMD for AR patients with LQDCS to the conventional medicine loratadine and fluticasone nasal spray.",
+            "journal": "Trials",
+            "year": "2019",
+            "authors": [
+              "Zhao Jingyi",
+              "Yan Xinyu",
+              "Gai Jianqing",
+              "Han Jinshuai",
+              "Zhang Hong"
+            ],
+            "pub_types": [
+              "Equivalence Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Allergic Agents",
+              "Drugs, Chinese Herbal",
+              "Female",
+              "Fluticasone",
+              "Humans",
+              "Loratadine",
+              "Male",
+              "Middle Aged",
+              "Nasal Obstruction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31888713/"
+          },
+          {
+            "pmid": "12816681",
+            "title": "[Effects of H1 blocker and inhaled corticosteroids on asthmatic patients with allergic rhinitis].",
+            "abstract": "To evaluate the therapeutic effects of H(1) blocker in combination with low dose inhaled corticosteroid on allergic asthma.",
+            "journal": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+            "year": "2003",
+            "authors": [
+              "He Wei-qun",
+              "Zheng Jin-ping",
+              "Ran Pei-xin",
+              "Liu Han-zhang",
+              "Lin Hong"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "English Abstract",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adolescent",
+              "Adult",
+              "Anti-Asthmatic Agents",
+              "Asthma",
+              "Beclomethasone",
+              "Child",
+              "Double-Blind Method",
+              "Female",
+              "Histamine H1 Antagonists, Non-Sedating"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12816681/"
+          },
+          {
+            "pmid": "15724913",
+            "title": "The cold-pill crackdown.",
+            "abstract": "",
+            "journal": "Time",
+            "year": "2005",
+            "authors": [
+              "Margot Roosevelt"
+            ],
+            "pub_types": [
+              "News"
+            ],
+            "mesh_terms": [
+              "Common Cold",
+              "Ephedrine",
+              "Humans",
+              "Illicit Drugs",
+              "Loratadine",
+              "Methamphetamine",
+              "Pharmacies",
+              "United States"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15724913/"
+          },
+          {
+            "pmid": "24260733",
+            "title": "A case of levocetirizine-induced fixed drug eruption and cross-reaction with piperazine derivatives.",
+            "abstract": "Fixed drug eruption is an uncommon adverse drug reaction caused by delayed cell-mediated hypersensitivity. Levocetirizine is an active (R)-enatiomer of cetirizine and there have been a few reports of fixed drug eruption related to these antihistamines. We experienced a case of levocetirizine-induced fixed drug eruption and cross-reaction with other piperazine derivatives confirmed by patch test. A 73-year-old female patient presented with recurrent generalized itching, cutaneous bullae formation, rash and multiple pigmentation at fixed sites after taking drugs for common cold. She took bepotastine besilate (Talion®) and levocetirizine (Xyzal®) as antihistamine. She took acetaminophen, pseudoephedrine 60 mg / triprolidine 2.5 mg (Actifed®), dihydrocodeinebitartrate 5 mg / di-methylephedrine hydrochloride 17.5 mg / chlorpheniramine maleate 1.5 mg / guaifenesin 50 mg (Codening®) and aluminium hydroxide 200 mg / magnesium carbonate 120 mg (Antad®) at the same time. Patch test was done with",
+            "journal": "Asia Pacific allergy",
+            "year": "2013",
+            "authors": [
+              "Kim Mi-Yeong",
+              "Jo Eun-Jung",
+              "Chang Yoon-Seok",
+              "Cho Sang-Heon",
+              "Min Kyung-Up"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24260733/"
+          },
+          {
+            "pmid": "28005035",
+            "title": "[Acute respiratory viral infections: Topical issues of diagnosis, prevention and treatment in therapeutic practice].",
+            "abstract": "to assess the efficacy and safety of the medication Grippferon with loratadine for the prevention of acute respiratory viral infections (ARVI) and influenza during the epidemics.",
+            "journal": "Terapevticheskii arkhiv",
+            "year": "2016",
+            "authors": [
+              "Trukhan D I",
+              "Mazurov A L",
+              "Rechapova L A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Antiviral Agents",
+              "Common Cold",
+              "Female",
+              "Humans",
+              "Influenza, Human",
+              "Male",
+              "Respiratory Tract Infections",
+              "Seasons"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28005035/"
+          },
+          {
+            "pmid": "9053133",
+            "title": "[Airway hyperreactivity and respiratory allergy in children].",
+            "abstract": "",
+            "journal": "Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)",
+            "year": "1996",
+            "authors": [],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Allergens",
+              "Anti-Allergic Agents",
+              "Asthma",
+              "Bronchial Hyperreactivity",
+              "Chemotaxis, Leukocyte",
+              "Child",
+              "Child, Preschool",
+              "Common Cold",
+              "Eosinophils",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9053133/"
+          },
+          {
+            "pmid": "19821542",
+            "title": "Best drugs for what ails you: the brands to buy--and those to skip.",
+            "abstract": "",
+            "journal": "Consumer reports",
+            "year": "2009",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetaminophen",
+              "Anesthetics, Local",
+              "Cetirizine",
+              "Chlorpheniramine",
+              "Common Cold",
+              "Cough",
+              "Dextromethorphan",
+              "Diphenhydramine",
+              "Drug Costs",
+              "Drug Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19821542/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "nasopharyngitis",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21046021ACZ",
+        "product": "ALLOR (LORATADINE ORAL SOLUTION 5MG/5ML USP)",
+        "active_ingredient": "LORATADINE[5mg/5mL ]",
+        "generic_name": NaN,
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-04-02",
+        "date_end": "2026-04-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21046021ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014346AZ",
+        "product": "EZEDE` TABLETS 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-10-28",
+        "date_end": "2026-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014346AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06091440AZ",
+        "product": "Allerpid Tablet",
+        "active_ingredient": "Pseudoephedrine Sulfate[120;mg;;],LORATADINE[5;mg;;]",
+        "generic_name": "Loratadine 5 mg & Pseudoephedrine Sulphate 120 mg Tablet",
+        "holder": "KIREEN PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2021-11-17",
+        "date_end": "2026-11-17",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06091440AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014224AZ",
+        "product": "PHARMANIAGA LORATADINE TABLET 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-26",
+        "date_end": "2026-11-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014224AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014527AZ",
+        "product": "LORATYN-10",
+        "active_ingredient": "LORATADINE[10MG/TAB                      ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-01",
+        "date_end": "2026-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014527AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21126003AZ",
+        "product": "Actilor Syrup 2.5 mg/ 5 ml",
+        "active_ingredient": "DESLORATADINE[2.50 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-13",
+        "date_end": "2026-12-13",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21126003AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22036019AZ",
+        "product": "HP-DESLORATADINE 5MG FILM-COATED TABLETS",
+        "active_ingredient": "DESLORATADINE[5 mg]",
+        "generic_name": NaN,
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-03-03",
+        "date_end": "2027-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22036019AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020366AZ",
+        "product": "LORADYNE TABLET",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-02",
+        "date_end": "2027-04-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020366AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22046026AZ",
+        "product": "Xynoz Tablet 5mg",
+        "active_ingredient": "DESLORATADINE[5.00 mg]",
+        "generic_name": NaN,
+        "holder": "INSPIRAPHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-07",
+        "date_end": "2027-04-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22046026AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020536AZ",
+        "product": "RHINITIN TABLET",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-14",
+        "date_end": "2027-05-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020536AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020537AZ",
+        "product": "RHINITIN SYRUP",
+        "active_ingredient": "LORATADINE[5MG/5ML                       ]",
+        "generic_name": "Loratadine 1 mg/ml Syrup",
+        "holder": "Noripharma Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-14",
+        "date_end": "2027-05-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020537AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17085016AZ",
+        "product": "Desloratadine Sandoz 5mg Film Coated Tablet",
+        "active_ingredient": "DESLORATADINE[5mg;0]",
+        "generic_name": NaN,
+        "holder": "SANDOZ PRODUCTS MALAYSIA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-04",
+        "date_end": "2027-08-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17085016AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22086029AZ",
+        "product": "DESTAVELL 5mg Film-coated Tablet ",
+        "active_ingredient": "DESLORATADINE[5.000 mg]",
+        "generic_name": NaN,
+        "holder": "MEDHUB PHARMA BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-04",
+        "date_end": "2027-08-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22086029AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021012AZ",
+        "product": "LORADINE SYRUP 1MG/ML",
+        "active_ingredient": "LORATADINE[1MG/ML                        ]",
+        "generic_name": "Loratadine 1 mg/ml Syrup",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-25",
+        "date_end": "2027-08-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021012AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021013AZ",
+        "product": "LORADINE TABLET 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-25",
+        "date_end": "2027-08-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021013AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL22106007AZ",
+        "product": "Ezede` Oral Solution 1mg/ml",
+        "active_ingredient": "LORATADINE[1 mg/mL]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-06",
+        "date_end": "2027-10-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL22106007AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020883AZ",
+        "product": "LORATEN SYRUP 5MG/5ML",
+        "active_ingredient": "LORATADINE[5MG                           ]",
+        "generic_name": "Loratadine 1 mg/ml Syrup",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-31",
+        "date_end": "2027-10-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020883AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021421AZ",
+        "product": "AXCEL LORATADINE SYRUP",
+        "active_ingredient": "LORATADINE[5MG/5ML                       ]",
+        "generic_name": "Loratadine 1 mg/ml Syrup",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-23",
+        "date_end": "2027-11-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021421AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18016027AZ",
+        "product": "Dezal Oral Solution 0.5mg/ml",
+        "active_ingredient": "DESLORATADINE[0.5mg;1ml]",
+        "generic_name": NaN,
+        "holder": "DCH AURIGA (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-05",
+        "date_end": "2028-01-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18016027AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20031927AZ",
+        "product": "AXCEL LORATADINE TABLET",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-28",
+        "date_end": "2028-01-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20031927AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18026182AZ",
+        "product": "Sedno Syrup 0.5mg/ml",
+        "active_ingredient": "DESLORATADINE[0.5mg/ml;0]",
+        "generic_name": NaN,
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-01",
+        "date_end": "2028-02-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18026182AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18026173AZ",
+        "product": "Dezal Tablet 5mg",
+        "active_ingredient": "DESLORATADINE[5.00mg;0]",
+        "generic_name": NaN,
+        "holder": "DCH AURIGA (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-01",
+        "date_end": "2028-02-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18026173AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18056162AZ",
+        "product": "Dasselta 5 mg film-coated tablets",
+        "active_ingredient": "DESLORATADINE[5.00mg;0]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18056162AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18056072AZ",
+        "product": "Loratyn Dry Syrup 1% w/w",
+        "active_ingredient": "LORATADINE[1.0% w/w]",
+        "generic_name": NaN,
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-01",
+        "date_end": "2028-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18056072AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20033495AZ",
+        "product": "HALON",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "IMEKS PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-24",
+        "date_end": "2028-06-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20033495AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19930250ACZ",
+        "product": "CLARINASE REPETABS",
+        "active_ingredient": "PSEUDOEPHEDRINE SULPHATE[120MG                         ],LORATADINE[5mg]",
+        "generic_name": "Loratadine 5 mg & Pseudoephedrine Sulphate 120 mg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-08",
+        "date_end": "2028-07-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19930250ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18086161AZ",
+        "product": "Lorsedin Oral Solution 1mg/ml",
+        "active_ingredient": "LORATADINE[1 mg per mL null]",
+        "generic_name": NaN,
+        "holder": "SPG PHARMA (MALAYSIA) SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-14",
+        "date_end": "2028-09-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18086161AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23106019AZ",
+        "product": "Neolor 5- Desloratadine Tablets USP 5 mg ",
+        "active_ingredient": "DESLORATADINE[5.000 mg]",
+        "generic_name": NaN,
+        "holder": "UNIMED SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-05",
+        "date_end": "2028-10-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23106019AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034222ARZ",
+        "product": "APO-LORATADINE 10MG TABLET",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-07",
+        "date_end": "2028-10-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034222ARZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13115129ACZ",
+        "product": "Avotyne 10mg Tablet",
+        "active_ingredient": "LORATADINE[10mg;0]",
+        "generic_name": NaN,
+        "holder": "Abio Marketing Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-08",
+        "date_end": "2028-11-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13115129ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL18116128ACZ",
+        "product": "Avorius 5mg Tablet",
+        "active_ingredient": "DESLORATADINE[5.0mg;0]",
+        "generic_name": NaN,
+        "holder": "APEX PHARMACY MARKETING SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-16",
+        "date_end": "2028-11-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL18116128ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034601AZ",
+        "product": "SUNADINE TABLET 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-05",
+        "date_end": "2028-12-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034601AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20034603AZ",
+        "product": "SUNADINE SYRUP 5MG/5ML",
+        "active_ingredient": "LORATADINE[5MG/5ML                       ]",
+        "generic_name": "Loratadine 1 mg/ml Syrup",
+        "holder": "SUNWARD PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-12-05",
+        "date_end": "2028-12-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20034603AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19016044ACZ",
+        "product": "AJALORIN 5MG ORODISPERSIBLE TABLET",
+        "active_ingredient": "DESLORATADINE[5 mg]",
+        "generic_name": NaN,
+        "holder": "AJ RESEARCH & PHARMA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-01-04",
+        "date_end": "2029-01-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19016044ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19016047ACZ",
+        "product": "Ajalorin 2.5mg Orodispersible Tablet",
+        "active_ingredient": "DESLORATADINE[2.5 mg]",
+        "generic_name": NaN,
+        "holder": "AJ RESEARCH & PHARMA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-01-04",
+        "date_end": "2029-01-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19016047ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040219AZ",
+        "product": "LORIDIN RAPITAB 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Dispersible Tablet",
+        "holder": "THE ZYFAS MEDICAL CO.,",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-04",
+        "date_end": "2029-04-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040219AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040205AZ",
+        "product": "ANPRO-LORATADINE TABLET 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-05",
+        "date_end": "2029-04-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040205AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19056115AZ",
+        "product": "SYNERRV DESLORATADINE 5 (DESLORATADINE TABLETS 5MG)",
+        "active_ingredient": "DESLORATADINE[5.0 mg]",
+        "generic_name": NaN,
+        "holder": "SYNERRV SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-31",
+        "date_end": "2029-05-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19056115AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20040896ACZ",
+        "product": "CLARINASE 24HR EXTENDED RELEASE TABLETS",
+        "active_ingredient": "PSEUDOEPHEDRINE SULPHATE[240MG                         ],LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg & Pseudoephedrine Sulphate 240 mg Extended Release Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-06-01",
+        "date_end": "2029-06-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20040896ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24076024ACZ",
+        "product": "AVEXA Avenez Syrup 0.5mg/ml",
+        "active_ingredient": "DESLORATADINE[0.5 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Abio Marketing Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-04",
+        "date_end": "2029-07-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24076024ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19096028AZ",
+        "product": "DESTACURE (Desloratadine Syrup 2.5mg/5ml)",
+        "active_ingredient": "DESLORATADINE[2.500 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-09-06",
+        "date_end": "2029-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19096028AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020486AZ",
+        "product": "LORATEN TABLET 10MG",
+        "active_ingredient": "LORATADINE[10MG                          ]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-24",
+        "date_end": "2029-12-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020486AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20016145AZ",
+        "product": "EZEDE`-D ORAL SOLUTION",
+        "active_ingredient": "Pseudoephedrine Sulfate[60 mg,5 ml],LORATADINE[5 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-01-10",
+        "date_end": "2030-01-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20016145AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05012317AZ",
+        "product": "AERIUS Syrup 0.5 mg/ ml",
+        "active_ingredient": "DESLORATADINE (SCH 34117)[0.5;mg;;]",
+        "generic_name": "Desloratadine 0.5 mg/ml Syrup",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-02-04",
+        "date_end": "2030-02-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05012317AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05032538ACZ",
+        "product": "Carin Tablet 10mg",
+        "active_ingredient": "LORATADINE[10;mg;;]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-25",
+        "date_end": "2030-03-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05032538ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL05032545AZ",
+        "product": "Carinox Capsule",
+        "active_ingredient": "PSEUDOEPHEDRINE SULPHATE[120;mg;;0],LORATADINE[5;mg;;0]",
+        "generic_name": "Loratadine 5 mg & Pseudoephedrine Sulphate 120 mg Capsule",
+        "holder": "DUOPHARMA MANUFACTURING (BANGI) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-03-25",
+        "date_end": "2030-03-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL05032545AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20046107AZ",
+        "product": "Deslova (Desloratadine Syrup 2.5mg/ 5ml)",
+        "active_ingredient": "DESLORATADINE[2.5 mg,5 ml]",
+        "generic_name": NaN,
+        "holder": "Synergy Meditech (M) Sdn Bhd",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-01",
+        "date_end": "2030-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20046107AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10053655AZ",
+        "product": "Aerius Tablet 5mg",
+        "active_ingredient": "DESLORATADINE[5;mg;;0]",
+        "generic_name": "Desloratadine 5 mg Tablet",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-30",
+        "date_end": "2030-05-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10053655AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10070583ASZ",
+        "product": "Clarityne tablet 10mg",
+        "active_ingredient": "LORATADINE[10;mg;;0]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-08-01",
+        "date_end": "2030-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10070583ASZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10080045ACSZ",
+        "product": "Clarityne Syrup Grape 5mg/5ml",
+        "active_ingredient": "LORATADINE[1;mg;1;ml]",
+        "generic_name": "Loratadine 1 mg/ml Syrup",
+        "holder": "BAYER CO. (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2025-08-29",
+        "date_end": "2030-08-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10080045ACSZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15105036AZ",
+        "product": "Lorazin 10mg Orodispersible Tablet",
+        "active_ingredient": "LORATADINE[10.0mg;180.0mg]",
+        "generic_name": NaN,
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2025-10-28",
+        "date_end": "2030-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15105036AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL25116015AZ",
+        "product": "DELOHIST 5 (Desloratadine Film Coated Tablets 5mg)",
+        "active_ingredient": "DESLORATADINE[5 mg]",
+        "generic_name": NaN,
+        "holder": "SYNERRV SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-03",
+        "date_end": "2030-11-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL25116015AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20126015AZ",
+        "product": "CARIDINE SYRUP 0.5mg/ml",
+        "active_ingredient": "DESLORATADINE[0.5 mg/mL]",
+        "generic_name": NaN,
+        "holder": "Duopharma Marketing Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-04",
+        "date_end": "2030-12-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20126015AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21026022AZ",
+        "product": "GLENDES 5mg Tablets",
+        "active_ingredient": "DESLORATADINE[5 mg]",
+        "generic_name": NaN,
+        "holder": "Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-02-06",
+        "date_end": "2031-02-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21026022AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06041465AZ",
+        "product": "Lorastad 10 Tablets",
+        "active_ingredient": "LORATADINE[10.00;mg;;]",
+        "generic_name": "Loratadine 10 mg Tablet",
+        "holder": "STADPHARM SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-04-30",
+        "date_end": "2031-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06041465AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL11050002ACRZ",
+        "product": "Aerius D-12 Modified Release Tablet",
+        "active_ingredient": "PSEUDOEPHEDRINE SULPHATE[120;mg;;0],DESLORATADINE (SCH 34117)[2.5;mg;;0]",
+        "generic_name": "Desloratadine 2.5 mg & Pseudoephedrine 120 mg Modified Release  Tablet",
+        "holder": "ORGANON MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-05-29",
+        "date_end": "2031-05-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL11050002ACRZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00455",
+    "name": "Loratadine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Loratadine"
+      },
+      "queried_at": "2026-03-04T14:49:02.597556",
+      "status": "success",
+      "result_count": 56,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Loratadine"
+      },
+      "queried_at": "2026-03-04T14:49:06.259132",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T14:49:08.341861",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T14:49:14.209625",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "pharyngitis"
+      },
+      "queried_at": "2026-03-04T14:49:22.048260",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:49:25.585856",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:49:35.587939",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:49:37.661150",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "vasomotor rhinitis"
+      },
+      "queried_at": "2026-03-04T14:49:38.823440",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "vasomotor rhinitis"
+      },
+      "queried_at": "2026-03-04T14:49:44.363464",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "vasomotor rhinitis"
+      },
+      "queried_at": "2026-03-04T14:49:46.948841",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T14:49:47.996427",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T14:49:55.550768",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-04T14:50:01.264519",
+      "status": "success",
+      "result_count": 16,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-04T14:50:02.562320",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-04T14:50:08.143892",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loratadine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-04T14:50:09.288583",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T14:50:09.292505",
+    "version": "1.0"
+  }
+}

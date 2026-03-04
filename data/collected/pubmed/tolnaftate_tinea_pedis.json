@@ -1,0 +1,554 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tolnaftate",
+    "disease": "tinea pedis",
+    "query_string": "Tolnaftate AND tinea pedis"
+  },
+  "data": {
+    "query": "Tolnaftate AND tinea pedis",
+    "results": [
+      {
+        "pmid": "37415917",
+        "title": "Tinea pedis: an updated review.",
+        "abstract": "Tinea pedis is one of the most common superficial fungal infections of the skin, with various clinical manifestations. This review aims to familiarize physicians with the clinical features, diagnosis and management of tinea pedis.",
+        "journal": "Drugs in context",
+        "year": "2023",
+        "authors": [
+          "Leung Alexander Kc",
+          "Barankin Benjamin",
+          "Lam Joseph M",
+          "Leong Kin Fon",
+          "Hon Kam Lun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37415917/"
+      },
+      {
+        "pmid": "9530545",
+        "title": "Butenafine.",
+        "abstract": "Butenafine is a new antifungal agent with primary fungicidal activity against dermatophytes such as Trichophyton mentagrophytes, Microsporum canis and Trichophyton rubrum which cause tinea infections. 14C-labelled butenafine (approximately 30 micrograms/g tissue) was found within guinea-pig dorsal skin 24 hours after topical application. Most of the drug was distributed into the epidermis including the horny layer. Small amounts were found in the dermis, probably transported via sebaceous glands and hair follicles. In vitro, the minimum concentration that completely inhibited growth of dermatophytes (MIC) and the minimum fungicidal concentrations (MFC) for butenafine against T. mentagrophytes and M. canis were similar (0.012 to 0.05 mg/L) and were 4 to 130 times lower than those for naftifine, tolnaftate, clotrimazole and bifonazole. It also has greater activity against T. rubrum, M. gypseum and Epidermophyton floccosum when compared with naftifine, tolnaftate and clotrimazole; compari",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "McNeely W",
+          "Spencer C M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Benzylamines",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Naphthalenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9530545/"
+      },
+      {
+        "pmid": "778288",
+        "title": "Superficial mycoses.",
+        "abstract": "Twenty-five years ago many of the topical remedies for superficial mycoses were irritating, toxic, or allergenic. Total x-ray depilation of the scalp was the accepted mode of therapy for tinea capitis. The introduction of topical nystatin for candidiasis and tolnaftate for dermatophytosis were major advances, but tinea capitis, onychomycosis, and chronic tinea pedis still presented problems. Soon after its introduction in 1958, griseofulvin became the definitive form of therapy for all types of dermatophytosis and played a major role in abolishing large-scale epidemics of tinea capitis in some countries. Recently, haloprogin and the imidazole derivatives, miconazole and clotrimazole, which are topically active against dermatophytes and Candida albicans, have become available. Selective indicator media for isolating dermatophytes are useful diagnostic tools, but quicker methods of diagnosis which require little interpretation are still lacking. Epidemiologic studies in Vietnam again rev",
+        "journal": "The Journal of investigative dermatology",
+        "year": "1976",
+        "authors": [
+          "Taplin D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Animals",
+          "Antifungal Agents",
+          "Arthrodermataceae",
+          "Candidiasis",
+          "Dermatomycoses",
+          "Female",
+          "Griseofulvin",
+          "Hair Removal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/778288/"
+      },
+      {
+        "pmid": "4920842",
+        "title": "Prophylaxis of tinea pedis. Efficacy of tolnaftate powder and its talc-cornstarch base.",
+        "abstract": "",
+        "journal": "The Journal of the Medical Society of New Jersey",
+        "year": "1970",
+        "authors": [
+          "Burrill B B",
+          "Nemlick A S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Male",
+          "Naphthalenes",
+          "Pharmaceutical Vehicles",
+          "Powders",
+          "Starch",
+          "Talc",
+          "Thiocarbamates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4920842/"
+      },
+      {
+        "pmid": "6991217",
+        "title": "Comparison between undecylenic acid and tolnaftate in the treatment of tinea pedis.",
+        "abstract": "A double-blind parallel study comparing tolnaftate cream with undecylenic acid ointment and a placebo ointment in the treatment of symptomatic tinea pedis was conducted on the warm, humid Texas Gulf Coast. In one hundred and three patients studied, both the clinical and mycological effects of the two antifungal agents were indistinguishable. Both were significantly more effective than the placebo.",
+        "journal": "Cutis",
+        "year": "1980",
+        "authors": [
+          "Fuerst J F",
+          "Cox G F",
+          "Weaver S M",
+          "Duncan W C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Humans",
+          "Male",
+          "Ointments",
+          "Tinea Pedis",
+          "Tolnaftate",
+          "Undecylenic Acids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6991217/"
+      },
+      {
+        "pmid": "4600407",
+        "title": "Tolnaftate powder in prophylaxis of tinea pedis.",
+        "abstract": "",
+        "journal": "Southern medical journal",
+        "year": "1974",
+        "authors": [
+          "Smith E B",
+          "Dickson J E",
+          "Knox J M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthrodermataceae",
+          "Clinical Trials as Topic",
+          "Foot",
+          "Humans",
+          "Male",
+          "Talc",
+          "Tinea Pedis",
+          "Tolnaftate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4600407/"
+      },
+      {
+        "pmid": "4625803",
+        "title": "A controlled study of haloprogin and tolnaftate in tinea pedis.",
+        "abstract": "",
+        "journal": "Current therapeutic research, clinical and experimental",
+        "year": "1972",
+        "authors": [
+          "Carter V H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkynes",
+          "Antifungal Agents",
+          "Clinical Trials as Topic",
+          "Ethers",
+          "Humans",
+          "Iodine",
+          "Male",
+          "Ointments",
+          "Solutions",
+          "Thiocarbamates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4625803/"
+      },
+      {
+        "pmid": "27666873",
+        "title": "Enhancement of the topical tolnaftate delivery for the treatment of tinea pedis via provesicular gel systems.",
+        "abstract": "Tolnaftate is a thiocarbamate antifungal drug which is therapeutically active against dermatophytes that cause various forms of tinea. Due to the small amount of tolnaftate released from ordinary ointment bases and insufficient penetration through the infected skin layers the need to incorporate the drug in a more suitable pharmaceutical form has evolved. A provesicular system is one such form that can solve these problems. Once in contact with the skin, dilution with moisture occurs and the provesicular system rapidly transforms into a vesicular one. Provesicular systems were prepared according to full-factorial experimental design. Plain provesicular systems were compared with systems containing Phospholipon 80 H and Lipoid S45 as penetration enhancers. Design expert software was used to analyze the effect of formulation variables (type of Span used as well as the presence or the absence of the penetration enhancer and its type) on the dependent variables: percent encapsulation effic",
+        "journal": "Journal of liposome research",
+        "year": "2017",
+        "authors": [
+          "AbouSamra Mona Mahmoud",
+          "Salama Alaa Hamed"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Animals",
+          "Antifungal Agents",
+          "Chemistry, Pharmaceutical",
+          "Drug Liberation",
+          "Gels",
+          "Humans",
+          "Liposomes",
+          "Microscopy, Confocal",
+          "Optical Imaging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27666873/"
+      },
+      {
+        "pmid": "11521512",
+        "title": "[Therapeutic efficacy of a topical tolnaftate preparation in guinea pig model of tinea pedis].",
+        "abstract": "The therapeutic efficacy of a topical antifungal ointment containing 2% tolnaftate was studied in a guinea pig model of tinea pedis using the following four topical antifungal preparations commercially available as reference drugs: variotin (3,000 U/g ointment); phenyl-11-iodo-10-undecynoate (0.5% ointment); siccanin (1% ointment); and clotrimazole (1% cream). After the infection fully developed, the infected animals were treated twice daily with the testing drug or reference drug for consecutive four weeks. Therapeutic efficacy was mainly evaluated on the basis of the extent of the yield of fungal cultures from the infected skin tissues (infection intensity) at the end of the treatment period. In animal groups treated with tolnaftate as well as with three reference drugs, siccanin, phenyl-11-iodo-10-undecynoate and clotrimazole, the average infection intensity was significantly lower than that for untreated control group (P < 0.05-0.005) although no culture-negative animal was seen in",
+        "journal": "The Japanese journal of antibiotics",
+        "year": "2001",
+        "authors": [
+          "Yamaguchi H",
+          "Uchida K",
+          "Tanaka T",
+          "Yamaguchi T"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Animals",
+          "Antifungal Agents",
+          "Disease Models, Animal",
+          "Female",
+          "Guinea Pigs",
+          "Ointments",
+          "Tinea Pedis",
+          "Tolnaftate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11521512/"
+      },
+      {
+        "pmid": "4704166",
+        "title": "Tolnaftate as a prophylactic agent for tinea pedis.",
+        "abstract": "",
+        "journal": "International journal of dermatology",
+        "year": "1973",
+        "authors": [
+          "Charney P",
+          "Torres V M",
+          "Mayo A W",
+          "Smith E B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "California",
+          "Carrier State",
+          "Cross Infection",
+          "Humans",
+          "Mississippi",
+          "Texas",
+          "Tinea Pedis",
+          "Tolnaftate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4704166/"
+      },
+      {
+        "pmid": "39045025",
+        "title": "Psoriasis Vulgaris Masked by Tinea Pedis in Two Unhoused Patients.",
+        "abstract": "Psoriasis is a chronic inflammatory disease characterized by clearly marginated silvery plaques that affect men and women equally. Symptoms can vary among individuals; typically, it presents on the scalp, elbows, and knees. We present two cases of patients initially diagnosed with tinea pedis who showed no improvement with medical treatment. The first patient is an African American male in his 50s who arrived at a free clinic for unhoused persons with lesions to both feet initially diagnosed as tinea pedis. Although the patient was compliant with applying topical formulations of tolnaftate and clotrimazole, there was no discernible improvement in his symptoms and the skin lesions. After a thorough examination of the skin throughout the entire body, the diagnosis of psoriasis was considered. The patient started treatment with steroidal cream with improvement of the symptoms and lesions. The second patient is a Caucasian male in his 20s who also presented initially with complaints of a d",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Sookdar Shandelle",
+          "Pupaza David F",
+          "Alvarez Paul A",
+          "Washington-Brown Linda",
+          "Gutierrez Peter"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39045025/"
+      },
+      {
+        "pmid": "4833961",
+        "title": "Control of tinea pedis in a swimming bath.",
+        "abstract": "Random samples of the weekly entry of bathers to a swimming pool were examined for tinea pedis and verruca before and at intervals after the supply of individual sachets of foot powder to all bathers.Over three and a half years the overall incidence of tinea pedis decreased from 8.5% to 2.1%, and in adult males it decreased from 21.5% to 6.9%. The incidence of infection with Trichophyton mentagrophytes var. interdigitale decreased from 5.3% to 0.5%, and the incidence of infection with T. rubrum (1.2%-1.1%) and Epidermophyton floccosum (0.9%-0.5%) did not change significantly. The incidence of verruca decreased from 4.8% to 1.2%. Issuing foot powder clearly minimizes the spread of infection and is recommended for general use.",
+        "journal": "British medical journal",
+        "year": "1974",
+        "authors": [
+          "Gentles J C",
+          "Evans E G",
+          "Jones G R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Child",
+          "Communicable Disease Control",
+          "Female",
+          "Humans",
+          "Male",
+          "Powders",
+          "Scotland",
+          "Sex Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4833961/"
+      },
+      {
+        "pmid": "1303075",
+        "title": "Tea tree oil in the treatment of tinea pedis.",
+        "abstract": "Tea tree oil (an essential oil derived primarily from the Australian native Melaleuca alternifolia) has been used as a topical antiseptic agent since the early part of this century for a wide variety of skin infections; however, to date, the evidence for its efficacy in fungal infections is still largely anecdotal. One hundred and four patients completed a randomized, double-blind trial to evaluate the efficacy of 10% w/w tea tree oil cream compared with 1% tolnaftate and placebo creams in the treatment of tinea pedis. Significantly more tolnaftate-treated patients (85%) than tea tree oil (30%) and placebo-treated patients (21%) showed conversion to negative culture at the end of therapy (p < 0.001); there was no statistically significant difference between tea tree oil and placebo groups. All three groups demonstrated improvement in clinical condition based on the four clinical parameters of scaling, inflammation, itching and burning. The tea tree oil group (24/37) and the tolnaftate ",
+        "journal": "The Australasian journal of dermatology",
+        "year": "1992",
+        "authors": [
+          "Tong M M",
+          "Altman P M",
+          "Barnetson R S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents, Local",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Oils, Volatile"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1303075/"
+      },
+      {
+        "pmid": "1379146",
+        "title": "Superficial fungal infections of the skin. Diagnosis and current treatment recommendations.",
+        "abstract": "Superficial fungal infections are common. Most diagnoses of fungal infections of the skin can be made by physical examination, assisted by the use of a Wood's lamp, skin scrapings for microscopic examination, and fungal cultures. Dermatophyte infections are common at all ages, in both sexes, and they have a worldwide distribution. These infections include tinea capitis, tinea cruris, tinea pedis, tinea corporis, tinea manuum and tinea barbae. Tinea versicolor, caused by Malassezia furfur, and candidal infections are also common. Treatment modalities include oral and topical agents. Good personal hygiene is an important adjunct to antifungal therapy. Decisions regarding the appropriateness of therapy in a given patient must take into account the extent and location of the infection, the benefits and risks of each of the treatments, and cost. Oral therapies include griseofulvin, ketoconazole, and itraconazole. There are a large variety of topical treatments, including nystatin, selenium ",
+        "journal": "Drugs",
+        "year": "1992",
+        "authors": [
+          "Rezabek G H",
+          "Friedman A D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Animals",
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1379146/"
+      },
+      {
+        "pmid": "2029718",
+        "title": "Oxiconazole nitrate: pharmacology, efficacy, and safety of a new imidazole antifungal agent.",
+        "abstract": "Oxiconazole nitrate (1%) cream became available in the United States in 1989 for the once-daily treatment of tinea pedis, tinea cruris, and tinea corporis. It has also proved valuable in the once-daily treatment of tinea (pityriasis) versicolor. In vitro oxiconazole is highly effective against many dermatophytes, including Trichophyton rubrum, Trichophyton mentagrophytes, Trichophyton tonsurans, and Epidermophyton floccosum. After application to the skin, oxiconazole is rapidly absorbed into the stratum corneum, maximum concentrations often being attained within 100 minutes. Fungicidal concentrations are maintained in the epidermis, upper corium, and deeper corium for at least five hours, and levels exceeding the minimum inhibitory concentrations of susceptible fungi are present in the corneum, epidermis, upper corium, and the hair follicle for over 16 hours. Applied once daily for four weeks in the treatment of tinea pedis or for two weeks in the treatment of tinea corporis, tinea cru",
+        "journal": "Clinical therapeutics",
+        "year": "1991",
+        "authors": [
+          "Jegasothy B V",
+          "Pakes G E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Antifungal Agents",
+          "Arthrodermataceae",
+          "Fungi",
+          "Humans",
+          "Imidazoles",
+          "Tinea",
+          "Tinea Pedis",
+          "Tinea Versicolor",
+          "Yeasts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2029718/"
+      },
+      {
+        "pmid": "5338498",
+        "title": "Clinical trials of tolnaftate and variotin.",
+        "abstract": "",
+        "journal": "The British journal of dermatology",
+        "year": "1967",
+        "authors": [
+          "Wethered R R",
+          "Heeler W R",
+          "Warin R P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Male",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5338498/"
+      },
+      {
+        "pmid": "18834482",
+        "title": "Are placebo-controlled trials of creams for athlete's foot still justified?",
+        "abstract": "Placebo-controlled trials are useful in identifying effective treatments where none has existed, but their continued use once efficacy is established arguably contravenes ethical standards for medical research.",
+        "journal": "The British journal of dermatology",
+        "year": "2008",
+        "authors": [
+          "Crawford F",
+          "Harris R",
+          "Williams H C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antifungal Agents",
+          "Emollients",
+          "Humans",
+          "Placebos",
+          "Randomized Controlled Trials as Topic",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18834482/"
+      },
+      {
+        "pmid": "4264777",
+        "title": "Clinical evaluation of haloprogin.",
+        "abstract": "",
+        "journal": "Toxicology and applied pharmacology",
+        "year": "1972",
+        "authors": [
+          "Hermann H W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkynes",
+          "Antifungal Agents",
+          "Candida",
+          "Carbon Isotopes",
+          "Clinical Trials as Topic",
+          "Dermatomycoses",
+          "Drug Eruptions",
+          "Humans",
+          "Iodine",
+          "Phenols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4264777/"
+      },
+      {
+        "pmid": "511437",
+        "title": "Tinea pedis masking a Kaposi's sarcoma.",
+        "abstract": "A 67-year-old white man presented with bilateral blancing erythema and scale of the second through fifth toes extending on to the dorsa and moccasin areas of the feet for two years. The right great toe had subungual debris. No cultures or KOH studies were recorded. A course of tolnaftate cream therapy was initiated. Two years later, the patient returned and complained of no change in his condition. Previously recorded descriptions and diagrams in the medical record confirmed his report. At this time, KOH preparations from the skin and nail were positive for hyphae. He refused to accept medical recommendations for a fungal culture and griseofulvin therapy. He, therefore, was instructed to use miconazole cream twice daily as alternative treatment. One year later, physical examination was unchanged. KOH preparations and fungal cultures of the skin were twice negative. A 4-mm punch skin biopsy specimen of the erythematous patch on the dorsum of the foot was performed. Hematoxylin and eosin",
+        "journal": "International journal of dermatology",
+        "year": "1979",
+        "authors": [
+          "Walther R R",
+          "Zalar G L",
+          "Grossman M E"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antifungal Agents",
+          "Erythema",
+          "Fungi",
+          "Humans",
+          "Male",
+          "Sarcoma, Kaposi",
+          "Skin Neoplasms",
+          "Tinea Pedis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/511437/"
+      },
+      {
+        "pmid": "423138",
+        "title": "Comparison of in vitro activity of undecylenic acid and tolnaftate against athlete's foot fungi.",
+        "abstract": "Undecylenic acid and tolnaftate were tested in an in vitro test system to evaluate their relative \"killing time\" efficacy against Trichophyton mentagrophytes, Trichophyton rubrum, and Epidermophyton floccosum. Commercial products containing these active agents were tested similarly. The pure active agents were equivalent in activity. The commercial product containing undecylenic acid appeared to be more effective against the test organisms than did the product containing tolnaftate.",
+        "journal": "Journal of pharmaceutical sciences",
+        "year": "1979",
+        "authors": [
+          "Amsel L P",
+          "Cravitz L",
+          "VanderWyk R",
+          "Zahry S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Epidermophyton",
+          "Microbial Sensitivity Tests",
+          "Tinea Pedis",
+          "Tolnaftate",
+          "Trichophyton",
+          "Undecylenic Acids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/423138/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:47:48.369770",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Testosterone",
+    "drugbank_id": "DB00624"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 4
+  },
+  "indications": [
+    {
+      "disease": "congenital hypogonadotropic hypogonadism",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 15,
+      "articles": 19,
+      "phase3": 0,
+      "phase2": 1,
+      "phase4": 6
+    },
+    {
+      "disease": "eunuchism",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 9,
+      "phase2": 13,
+      "phase4": 10
+    },
+    {
+      "disease": "pituitary deficiency",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 39,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 5,
+      "phase4": 7
+    },
+    {
+      "disease": "trisomy 13",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 1,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "hypogonadotropic hypogonadism-frontoparietal alopecia syndrome",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 12,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

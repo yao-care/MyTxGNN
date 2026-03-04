@@ -1,0 +1,575 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "peptic ulcer disease",
+    "query_string": "Magnesium Trisilicate AND peptic ulcer disease"
+  },
+  "data": {
+    "query": "Magnesium Trisilicate AND peptic ulcer disease",
+    "results": [
+      {
+        "pmid": "20271751",
+        "title": "Aluminum hydroxide and magnesium trisilicate plus mucin in treatment of peptic ulcer; gastroscopic and clinical studies.",
+        "abstract": "",
+        "journal": "Archives of surgery (Chicago, Ill. : 1920)",
+        "year": "1947",
+        "authors": [
+          "HARDT L L",
+          "BRODT L P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Gastroscopy",
+          "Humans",
+          "Magnesium",
+          "Magnesium Silicates",
+          "Mucins",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20271751/"
+      },
+      {
+        "pmid": "15425465",
+        "title": "Aluminum hydroxide and magnesium trisilicate plus mucin in the treatment of 125 patients with peptic ulcer.",
+        "abstract": "",
+        "journal": "The American journal of digestive diseases",
+        "year": "1950",
+        "authors": [
+          "HARDT L L",
+          "STEIGMANN F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Aluminum Compounds",
+          "Aluminum Hydroxide",
+          "Magnesium",
+          "Magnesium Silicates",
+          "Mucins",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15425465/"
+      },
+      {
+        "pmid": "20321118",
+        "title": "MAGNESIUM TRISILICATE IN THE TREATMENT OF PEPTIC ULCER.",
+        "abstract": "",
+        "journal": "Canadian Medical Association journal",
+        "year": "1938",
+        "authors": [
+          "Tidmarsh C J",
+          "Baxter R G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20321118/"
+      },
+      {
+        "pmid": "6293043",
+        "title": "Antacid therapy--changes in mineral metabolism.",
+        "abstract": "Antacid ingestion may lead to side-effects related to their chemical composition. Aluminum hydroxide may cause the phosphate depletion syndrome even during short-term administration of high doses in patients at high risk, such as alcoholics. Long-term intake may lead to bone demineralization and to osteomalacia. Fluoride complexing in the gut and prevention of fluoride absorption may be an additional factor. The clinical relevance of aluminum absorption in patients with normal renal function is not clear. In contrast, in patients with renal failure, aluminum hydroxide ingestion may contribute to an increasing hyperaluminemia. Hyperaluminemia and tissue deposition of aluminum in these patients may contribute to the dialysis-associated encephalopathy. Magnesium hydroxide causes an alkalinization of the urine due to magnesium absorption and urinary excretion. Thus, in renal insufficiency, a life-threatening hypermagnesemia may develop if magnesium-aluminum-containing antacids are prescrib",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1982",
+        "authors": [
+          "Herzog P",
+          "Holtermüller K H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Calcium Carbonate",
+          "Drug Combinations",
+          "Humans",
+          "Magnesium",
+          "Magnesium Hydroxide",
+          "Magnesium Silicates",
+          "Minerals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6293043/"
+      },
+      {
+        "pmid": "14248445",
+        "title": "DOUBLE-BLIND TRIAL OF BISMUTH ALUMINATE AND MAGNESIUM TRISILICATE IN PEPTIC ULCERATION WITH SIMULTANEOUS GASTRIC ANALYSIS.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1965",
+        "authors": [
+          "MATTS S G",
+          "SWAN C H",
+          "KELLEHER J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Antacids",
+          "Biomedical Research",
+          "Bismuth",
+          "Double-Blind Method",
+          "Drug Therapy",
+          "Gastric Acidity Determination",
+          "Humans",
+          "Magnesium",
+          "Magnesium Silicates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14248445/"
+      },
+      {
+        "pmid": "6547921",
+        "title": "[Changes in the transmural electric potential difference in the region of stomach ulcer. Local effect of sucralfate, aluminum hydroxide and magnesium trisilicate].",
+        "abstract": "In three groups of six patients with gastric ulcer, sucralfate, aluminium hydroxide and magnesium trisilicate, respectively was applied to the ulcer under endoscopic vision. Prior to, two and four hours after application of these substances, the transmural electrical potential difference (p.d.) was measured in the region of the bed of the ulcer, the margin of the ulcer, the antrum on the lesser curvature side, and in the pool of juice; additionally, the degree of adherence of the substances to the floor of the ulcer was recorded. After sucralfate, the increase in p.d. in the bed of the ulcer was clearly greater two and four hours post-application than after the two antacids tested, and adherence to the ulcer was also more marked and longer lasting. These findings confirm the superior local protective effect of sucralfate in the bed of the ulcer on the basis of its physico-chemical properties, as compared with the antacids tested. These clinico-experimental findings correlate with the e",
+        "journal": "Fortschritte der Medizin",
+        "year": "1984",
+        "authors": [
+          "Möckel W",
+          "Hausding P"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Action Potentials",
+          "Administration, Topical",
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Gastric Juice",
+          "Gastric Mucosa",
+          "Gastroscopy",
+          "Humans",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6547921/"
+      },
+      {
+        "pmid": "32592251",
+        "title": "Editorial: simultaneous prolonged monitoring of the acid pocket and oesophageal reflux.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Katz Philip O",
+          "Castell Donald O"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592251/"
+      },
+      {
+        "pmid": "6328685",
+        "title": "A comparison of 4-week peptic ulcer healing rates following treatment with antacids and ranitidine.",
+        "abstract": "Eighty-eight patients with endoscopically proven gastric and duodenal ulceration were treated with ranitidine ( Zantac ; Glaxo) or an antacid preparation containing aluminium hydroxide and magnesium trisilicate ( Gelusil ; Warner) over a 4-week period to assess healing. Clinical, haematological and biochemical assessment and endoscopy were performed at the beginning and at the end of this period. Of the duodenal ulcers, 74% healed on ranitidine therapy and 63% on Gelusil . This difference was not statistically significant (chi 2(1) = 0,55). Of the gastric ulcers 58% healed on ranitidine therapy and 35% on Gelusil , but this difference did not reach statistical significance (chi 2(1) = 1,79). There was no significant difference between the two therapies with regard to symptomatic relief in the duodenal ulcer group, but ranitidine produced significantly better results in the gastric ulcer group. No side-effects were noted in either group.",
+        "journal": "South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde",
+        "year": "1984",
+        "authors": [
+          "Bezuidenhout D J",
+          "Perold J G",
+          "Adams G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Humans",
+          "Ranitidine",
+          "Sex Factors",
+          "Smoking",
+          "Stomach Ulcer",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6328685/"
+      },
+      {
+        "pmid": "32592257",
+        "title": "Editorial: simultaneous, prolonged monitoring of the acid pocket and oesophageal reflux. Authors' reply.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Ma Zheng Feei",
+          "Deraman Mohd Adli",
+          "Coyle Cathal",
+          "Lee Yeong Yeh"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592257/"
+      },
+      {
+        "pmid": "4909818",
+        "title": "Clinical study of Duogastrone in the treatment of duodenal ulcers.",
+        "abstract": "This study confirms the preliminary reports that Duogastrone effectively controls the symptoms of duodenal ulceration and appears to hasten healing. In a double-blind trial, 14 patients with active duodenal ulcers were treated with Duogastrone capsules, one four times daily, half-an-hour before meals, while a comparable control group of 14 patients was treated similarly with a placebo containing magnesium trisilicate. Treatment continued for 12 weeks with clinical assessments fortnightly and a radiological assessment at the start and at the end of treatment. Only one of the 14 patients receiving Duogastrone did not respond. The remaining 13 showed marked clinical improvement with complete relief of pain and ceased to require supplementary antacids. Radiological evidence of healing or marked improvement was seen in eight of the 14 patients. None of the patients in the control group showed any marked improvement either of pain or tenderness and no changes were detectable by radiology. Pa",
+        "journal": "Gut",
+        "year": "1970",
+        "authors": [
+          "Amure B O"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antacids",
+          "Clinical Trials as Topic",
+          "Delayed-Action Preparations",
+          "Duodenal Ulcer",
+          "Female",
+          "Glycyrrhiza",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4909818/"
+      },
+      {
+        "pmid": "4301560",
+        "title": "[Antacid effect of a magnesium trisilicate-1-hyoscyamine combination preparation (Neoplex B)--clinical and function analytical studies].",
+        "abstract": "",
+        "journal": "Wiener medizinische Wochenschrift (1946)",
+        "year": "1968",
+        "authors": [
+          "Piaty R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Atropa belladonna",
+          "Clinical Trials as Topic",
+          "Drug Synergism",
+          "Duodenal Ulcer",
+          "Gastric Acidity Determination",
+          "Gastritis",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4301560/"
+      },
+      {
+        "pmid": "6091079",
+        "title": "Comparative study of four antacids.",
+        "abstract": "Four antacid preparations have been studied in a stratified, randomized, double-blind trial to evaluate criteria which determine patients' acceptance of this type of therapy. There was a considerable range of judgements about palatability, but preference was determined not only by factors such as the smell, taste, texture and after-taste of the preparation, but also by the order in which the antacids were tested and by the age and sex of the patient. The preparations also differed considerably in acid-neutralizing capacity and ability to bind bile salts, as well as cost. We conclude that individuals requiring antacid therapy should be allowed to chose from among a range of preparations, in order to maximize compliance.",
+        "journal": "Postgraduate medical journal",
+        "year": "1984",
+        "authors": [
+          "Jacyna M R",
+          "Boyd E J",
+          "Wormsley K G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Compounds",
+          "Aluminum Hydroxide",
+          "Aluminum Silicates",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Dimethylpolysiloxanes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6091079/"
+      },
+      {
+        "pmid": "2986275",
+        "title": "Sucralfate and alginate/antacid in reflux esophagitis.",
+        "abstract": "The efficacy of sucralfate and of an alginate/antacid compound was compared in a randomized, double-blind 6-week trial in patients with symptomatic, endoscopically confirmed macroscopic reflux esophagitis. Of the 68 patients who completed the study, 36 received sucralfate and 32 alginate/antacid. Significant symptomatic improvement occurred in both treatment groups: almost 70% of the patients became symptom-free or improved. Esophagitis healed completely in 53% of the patients receiving sucralfate and in 34% of the alginate/antacid patients, as measured with endoscopic criteria (p greater than 0.05). Our results indicate that sucralfate seems to be at least as effective as alginate/antacid in relieving symptoms and in healing macroscopic lesions. As a safe, locally active mucosal protecting agent, sucralfate is a promising new drug for the treatment of reflux esophagitis and deserves further trials over longer periods.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1985",
+        "authors": [
+          "Laitinen S",
+          "Ståhlberg M",
+          "Kairaluoma M I",
+          "Kiviniemi H",
+          "Pääkkönen M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2986275/"
+      },
+      {
+        "pmid": "7336470",
+        "title": "Effect of antacids on phenytoin bioavailability.",
+        "abstract": "Eight subjects were studied in a randomized crossover design to determine the effect of aluminum-magnesium hydroxide (AMH), calcium carbonate (CC), and aluminum hydroxide-magnesium trisilicate (AHMT) on the bioavailability of a single, 600-mg dose of phenytoin administered orally. Each subject received phenytoin alone on two separate occasions and phenytoin plus each of the three antacids on three other occasions. Each antacid was administered as 160 mEq at 1 and 3 hr after each meal and at bedtime on the day phenytoin was given. The mean area under the curve (AUC) was significantly decreased by AMH (p less than 0.005) and CC (p less than 0.05). AHMT had a similar trend but did not reach statistical significance (p = 0.1). Large inter- and intrasubject variability in AUC was observed when phenytoin was administered alone. In two subjects, cumulative urinary 5-(4-hydroxyphenyl)-5-phenylhydantoin at 72 hr (HPPH72) was determined. The amount of HPPH recovered had similar trends as the AUC",
+        "journal": "Therapeutic drug monitoring",
+        "year": "1981",
+        "authors": [
+          "Carter B L",
+          "Garnett W R",
+          "Pellock J M",
+          "Stratton M A",
+          "Howell J R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antacids",
+          "Biological Availability",
+          "Drug Interactions",
+          "Humans",
+          "Male",
+          "Phenytoin",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7336470/"
+      },
+      {
+        "pmid": "23329718",
+        "title": "Gaviscon: not always entirely safe!",
+        "abstract": "",
+        "journal": "BMJ case reports",
+        "year": "2013",
+        "authors": [
+          "Shenvi Asha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bezoars",
+          "Diagnosis, Differential",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23329718/"
+      },
+      {
+        "pmid": "15508134",
+        "title": "Pattern of drug utilization among hypertensives in a Nigerian teaching hospital.",
+        "abstract": "To describe the drug utilization pattern among hypertensive patients in a tertiary care setting, assess the short-term outcome of anti-hypertensive drugs usage and identify points for future intervention to improve outcomes.",
+        "journal": "Pharmacoepidemiology and drug safety",
+        "year": "2005",
+        "authors": [
+          "Yusuff K B",
+          "Balogun O B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aspirin",
+          "Cross-Sectional Studies",
+          "Diabetes Complications",
+          "Diuretics",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Drug Utilization",
+          "Female",
+          "Hospitals, Teaching",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15508134/"
+      },
+      {
+        "pmid": "10024760",
+        "title": "[Esophageal reflux and peptic ulcer. An exclusive advanced education service of the Gastro-Liga for family physicians].",
+        "abstract": "",
+        "journal": "Fortschritte der Medizin",
+        "year": "1998",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Education, Medical, Continuing",
+          "Family Practice",
+          "Gastroenterology",
+          "Gastroesophageal Reflux",
+          "Germany",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10024760/"
+      },
+      {
+        "pmid": "15688172",
+        "title": "[Silica-containing urinary stones--clinical issues to keep in mind].",
+        "abstract": "Formation of calculi in efferent urinary passages is always due to supersaturation of urinary calculi substances and associated increased crystallization. Apart from the typical calculi, consisting of calcium oxalate, inorganic phosphates, uric acid or cystine, there are occasional signs of rare substance classes. Although more than 50 silicate stones have already been reported internationally, this stone entity remains relatively unknown. In particular, the occurrence of silicate stones in the absence of magnesium trisilicate abuse is extremely rare. A medium-sized left-sided ureterolith was removed from a 54-year-old male patient using a ureteroscope. X-ray diffraction showed it to be a compound stone consisting of 40% silicate. The patient, who in 1986 was living close to the nuclear reactor accident in Chernobyl, showed no signs of a constant uptake of magnesium trisilicate. However, he had undergone partial (2/3) gastrectomy 4 months before for a drug-refractory gastric ulcer, whi",
+        "journal": "Der Urologe. Ausg. A",
+        "year": "2005",
+        "authors": [
+          "May M",
+          "Helke C",
+          "Kubenz K",
+          "Seehafer M",
+          "Wolter M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Angina, Unstable",
+          "Crystallography, X-Ray",
+          "Gastrectomy",
+          "Humans",
+          "Long-Term Care",
+          "Magnesium Silicates",
+          "Male",
+          "Middle Aged",
+          "Pentaerythritol Tetranitrate",
+          "Silicon Dioxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15688172/"
+      },
+      {
+        "pmid": "2821808",
+        "title": "Sucralfate versus alginate/antacid in the treatment of peptic esophagitis.",
+        "abstract": "Fifty patients in whom endoscopy revealed peptic esophagitis were included in a double-blind study in which either sucralfate (1 g four times a day) or an alginate/antacid compound (5 g four times a day) were randomly assigned. After six weeks of treatment, efficacy and clinical safety were evaluated in 23 patients in the sucralfate group and 22 patients in the alginate/antacid group. No significant difference between the two treatments was detected with regard to efficacy, evaluated on the basis of clinical and endoscopic criteria. Clinical safety was also good in both groups. Sucralfate was, therefore, found to be as effective and as well tolerated as the alginate/antacid compound in the treatment of peptic esophagitis.",
+        "journal": "The American journal of medicine",
+        "year": "1987",
+        "authors": [
+          "Evreux M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Endoscopy",
+          "Esophagitis, Peptic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2821808/"
+      },
+      {
+        "pmid": "2877526",
+        "title": "[Therapeutic procedures in gastroesophageal reflux disease].",
+        "abstract": "The medical therapy of reflux esophagitis consists of modifications of the patients's lifestyle and antacids, alginic acid or both (phase I). Phase II medications include drugs that suppress acid/peptic activity (antacid/alginate, H2-receptor blockers, cimetidine, ranitidine, famotidine), drugs that enhance motility (metoclopramide, domperidone) and drugs that coat and increase mucosal protection (sucralfate). Combinations of H2-receptor blockers and motility stimulating drugs have not been very effective. Overall the results of medical therapy of reflux esophagitis are suboptimal.",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "1986",
+        "authors": [
+          "Tytgat G N"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Combined Modality Therapy",
+          "Dilatation",
+          "Domperidone",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2877526/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:55:37.754238",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,163 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "gastroesophageal reflux disease",
+    "query_string": "Sodium Citrate AND gastroesophageal reflux disease"
+  },
+  "data": {
+    "query": "Sodium Citrate AND gastroesophageal reflux disease",
+    "results": [
+      {
+        "pmid": "3013486",
+        "title": "Nuclear medicine and esophageal surgery.",
+        "abstract": "The principal radionuclide procedures involved in the evaluation of esophageal disorders that are amenable to surgery are illustrated and briefly described. The role of the radionuclide esophagogram (RE) in the diagnosis and management of achalasia, oculopharyngeal muscular dystrophy and its complications, tracheoesophageal fistulae, pharyngeal and esophageal diverticulae, gastric transposition, and fundoplication is discussed. Detection of columnar-lined esophagus by Tc-99m pertechnetate imaging and of esophageal carcinoma by Ga-67 citrate and Tc-99m glucoheptonate studies also is presented.",
+        "journal": "Clinical nuclear medicine",
+        "year": "1986",
+        "authors": [
+          "Taillefer R",
+          "Beauchamp G",
+          "Duranceau A C",
+          "Lafontaine E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Barrett Esophagus",
+          "Deglutition Disorders",
+          "Diverticulum, Esophageal",
+          "Esophageal Achalasia",
+          "Esophageal Diseases",
+          "Esophageal Neoplasms",
+          "Esophagus",
+          "Gallium Radioisotopes",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3013486/"
+      },
+      {
+        "pmid": "10499455",
+        "title": "Onset of action of antisecretory drugs: beneficial effects of a rapid increase in intragastric pH in acid reflux disease.",
+        "abstract": "The majority of patients who have symptomatic acid reflux disease will have a normal oesophageal mucosa or will have only a mild degree of oesophagitis. Treatment to relieve symptoms as they occur may be the best way to manage these patients, to whom the speed of symptom relief is of primary importance. The effervescent complex used to formulate effervescent ranitidine contains sodium bicarbonate and monosodium citrate, and has, therefore, an intrinsic acid-neutralizing capacity in addition to the well-documented antisecretory activity.",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1999",
+        "authors": [
+          "Pipkin G A",
+          "Mills J G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Gastric Acid",
+          "Gastric Mucosa",
+          "Gastroesophageal Reflux",
+          "Heartburn",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Ranitidine",
+          "Stomach",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10499455/"
+      },
+      {
+        "pmid": "7104805",
+        "title": "Sodium citrate premedication in elective caesarean section patients.",
+        "abstract": "The pH and volume of gastric contents from thirty-three patients undergoing elective caesarean section with thiopentone, nitrous oxide, succinylcholine anaesthesia were examined. Twenty patients received Gelusil 30 ml by mouth and thirteen patients received 30 ml of a 0.15 molar solution of sodium citrate. Following tracheal intubation, gastric fluid was sampled through an 18 French Salem sump tube place orally. Mean pH following Gelusil was 4.54 +/- 2.45 (SD) and 2.29 +/- 1.77 following sodium citrate. This difference was statistically different (P less than 0.05). There was no difference in gastric volume between the two groups. Thirty five per cent of patients receiving Gelusil had a pH less than 2.5. This low pH was more likely to occur with prolonged intervals between drug administration and sampling. Significantly more patients receiving sodium citrate had a low pH (85 per cent) and this low pH was not related to the duration of interval between administration and sampling. This ",
+        "journal": "Canadian Anaesthetists' Society journal",
+        "year": "1982",
+        "authors": [
+          "Dewan D M",
+          "Writer W D",
+          "Wheeler A S",
+          "James F M",
+          "Floyd H M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aging",
+          "Antacids",
+          "Cesarean Section",
+          "Citrates",
+          "Citric Acid",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Hydrogen-Ion Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7104805/"
+      },
+      {
+        "pmid": "18819388",
+        "title": "[Prevention of regurgitation and aspiration during emergency care of patients under general anesthesia].",
+        "abstract": "This study has provided new data on methods for preventing regurgitation and aspiration under general anesthesia, by using parenteral and enteral antacids as premedication in urgent surgery. There is evidence that with 60-minute delay in starting surgery, omeprazole, 40 mg, has the highest alkalizing effect. Second- and third-generation H2-blockers have a persistent and good antacid effect. In emergencies, 30 ml of 3% sodium citrate solution show a rapid and effective antacid effect, which eliminates or drastically reduces the likelihood of aspiration pulmonitis even in case of regurgitation and aspiration of the gastric contents. Based on the findings, the authors have developed a patient preparation protocol for general anesthesia in urgent surgery as the standard for the practical use in general anesthesiology.",
+        "journal": "Anesteziologiia i reanimatologiia",
+        "year": "2008",
+        "authors": [
+          "Levichev E A",
+          "Nedashkovskiĭ E V"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anesthesia, General",
+          "Antacids",
+          "Emergency Medical Services",
+          "Female",
+          "Gastric Acidity Determination",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18819388/"
+      },
+      {
+        "pmid": "1671456",
+        "title": "Intragastric pH rise with effervescent citrate-cimetidine.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1991",
+        "authors": [
+          "Ström M",
+          "Madsen S",
+          "Norlander B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Letter",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Bicarbonates",
+          "Cimetidine",
+          "Citrates",
+          "Citric Acid",
+          "Drug Therapy, Combination",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Sodium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1671456/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:25:52.626989",
+  "success": true,
+  "error_message": null
+}

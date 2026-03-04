@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Pregabalin"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00230",
+    "name": "Pregabalin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T14:57:14.997234",
+  "success": true,
+  "error_message": null
+}

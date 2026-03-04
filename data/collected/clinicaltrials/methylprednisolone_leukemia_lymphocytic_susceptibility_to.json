@@ -1,0 +1,32 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "leukemia, lymphocytic, susceptibility to"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05512169",
+      "title": "Molecular and Pharmacogenetic Marker Evaluation in Relation to the Toxicity and Clinical Response of Acute Lymphoblastic Leukemia Treatment in Indian Children (MPGx-INDALL)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-12-01",
+      "completion_date": "2027-03-30",
+      "country": "India",
+      "enrollment": 556,
+      "brief_summary": "A five-year prospective observational cohort study. The study is focused on observing the relation between static germline variants and therapeutic response in Indian children with acute lymphoblastic leukemia (ALL). The project is an International multicenter setup. This collaborative research project between Switzerland and India includes one main center in Geneva that has conceptualized, designed, received grants for the study and two investigating centers in India (Puducherry and New-Delhi) ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 1 year old and ≤18 years old at enrolment\n* Previously untreated\n* ALL diagnosis confirmed by morphology and flow-cytometry\n* Indian origins\n* Fulfilling IciCle treatment protocol inclusion criteria and receiving treatment as per the protocol\n* Written Informed consent ",
+      "endpoints": [
+        "Cumulative incidences of early treatment related adverse events as assessed by CTCAE v5.0",
+        "Disease response to the treatment during induction phase to steroids",
+        "Disease response to the treatment during induction phase"
+      ],
+      "sponsor": "University of Geneva, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT05512169"
+    }
+  ],
+  "timestamp": "2026-03-04T15:44:07.849611",
+  "success": true,
+  "error_message": null
+}

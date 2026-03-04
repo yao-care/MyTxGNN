@@ -6,7 +6,7 @@ drug_name: "Decitabine"
 kg_predictions: 96
 dl_predictions: 107
 evidence_level: "L1"
-indication_count: 96
+indication_count: 5
 brands: []
 permalink: /drugs/decitabine/
 ---

@@ -6,7 +6,7 @@ drug_name: "Hydrochlorothiazide"
 kg_predictions: 165
 dl_predictions: 14
 evidence_level: "L1"
-indication_count: 165
+indication_count: 5
 brands: []
 permalink: /drugs/hydrochlorothiazide/
 ---

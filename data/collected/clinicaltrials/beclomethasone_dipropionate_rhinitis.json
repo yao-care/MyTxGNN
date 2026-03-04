@@ -1,0 +1,431 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Beclomethasone Dipropionate",
+    "disease": "rhinitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01783548",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, 12-Week, Clinical Study Designed to Assess the Efficacy and Safety of BDP Nasal Aerosol (80 mcg, Once Daily) in Pediatric Subjects (4 to 11 Years of Age) With PAR",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2013-10",
+      "country": "United States",
+      "enrollment": 547,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Beclomethasone dipropionate (BDP) nasal aerosol in subjects with Perennial Allergic Rhinitis (PAR).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 4 to 11 years of age, inclusive, as of the Screening Visit (SV).\n* A documented history of PAR to a relevant perennial allergen for a minimum of 12 months (6 months for subjects 4 to 5 years of age) immediately preceding the study Screening Visit (SV).\n",
+      "endpoints": [
+        "Change From Baseline in the Average Morning (AM) and Evening (PM) Subject-Reported Reflective Total Nasal Symptom Score (rTNSS) Over The First 6 Weeks Of Treatment In Subjects 6 To 11 Years Of Age"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01783548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01133626",
+      "title": "A Randomized, Double-Blind, Placebo- and Active-Controlled, Parallel-Group, 6-Week Study Designed to Investigate the Effects of BDP HFA Nasal Aerosol on the Hypothalamic-Pituitary-Adrenal (HPA) Axis When Administered in Adolescent and Adult Subjects (12 to 45 Years of Age) With Perennial Allergic Rhinitis (PAR)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2010-09",
+      "country": "United States",
+      "enrollment": 107,
+      "brief_summary": "The purpose of the study is to evaluate the effects of BDP HFA Nasal Aerosol on HPA-axis function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed Consent\n* Male or female subjects 12-45 years of age\n* Documented history of perennial allergic rhinitis\n* General good health\n* Other criteria apply\n\nExclusion Criteria:\n\n* History of physical findings of nasal pathology (within 60 days prior to Screening Visit 1)\n* ",
+      "endpoints": [
+        "The 24-hour Serum Cortisol Weighted Mean After 42 Days of Treatment"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01133626"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01632540",
+      "title": "Investigation of the Real World Effectiveness of Beclomethasone Dipropionate (BDP) Nasal Aerosol in Perennial Allergic Rhinitis (PAR) Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2014-02",
+      "country": "United States",
+      "enrollment": 824,
+      "brief_summary": "This study will be a prospective observational study of \"real world\" BDP nasal aerosol users with PAR, with or without seasonal allergic rhinitis (SAR). Subjects will respond to monthly online surveys regarding rhinitis control, concomitant medical conditions, concomitant (non-AR) medications, current AR therapy, and adverse events.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female\n* Age 12 years or greater at time of enrollment\n* Diagnosis of PAR for at least one year; and 2)a positive skin prick (ie, epicutaneous) or serum-specific IgE test within the past 2 years to a perennial allergen as appropriate for the location; and 3)PAR symptom",
+      "endpoints": [
+        "Change in Rhinitis Control Assessment Test (RCAT) Score"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01632540"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01307319",
+      "title": "Study of Two Doses of an Investigational Nasal Aerosol Placebo Nasal Aerosol in Children (Ages 6-11) With Seasonal Allergies",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 715,
+      "brief_summary": "The purpose of this study is to assess the safety and efficacy of an investigational nasal aerosol at two doses compared with placebo nasal aerosol in the treatment of seasonal allergic rhinitis in children (6-11 years of age).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 6 to 11 years of age, as of the Screening Visit (SV)\n* A documented history of SAR to a relevant seasonal allergen (tree/grass pollen) for a minimum of two years immediately preceding the study Screening Visit (SV).\n* A demonstrated sensitivity to at le",
+      "endpoints": [
+        "Change From Baseline in the Average Morning (AM) and Evening (PM) Subject-Reported Reflective Total Nasal Symptom Score (rTNSS) During the Two Weeks of Treatment"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01307319"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00788463",
+      "title": "A Comparison of Beclomethasone Aqueous Spray and Aerosol Delivery Systems in Nasal Polyps",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-11-23",
+      "completion_date": "2011-11-30",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine if intranasal Beclomethasone delivered by aerosol or spray is more effective in treatment of nasal polyps.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years old\n* New diagnosis of nasal polyps confirmed by two physicians\n\nExclusion Criteria:\n\n* Intranasal corticosteroid use within 4 weeks\n* Oral corticosteroids use within 4 weeks\n* Oral corticosteroid inhalation (ie for treatment of asthma or COPD) of Budesonide \\>400ug d",
+      "endpoints": [
+        "Difference in overall quality of life as measured by the Rhinitis Quality of Life Questionnaire"
+      ],
+      "sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "url": "https://clinicaltrials.gov/study/NCT00788463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03855189",
+      "title": "Safety and Efficacy of SCH 32088 vs Beclomethasone Dipropionate (Vancenase AQ) and Placebo in Seasonal Allergic Rhinitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1993-08-23",
+      "completion_date": "1993-10-22",
+      "country": "N/A",
+      "enrollment": 345,
+      "brief_summary": "The objectives of this study are to determine the safety and efficacy in seasonal allergic rhinitis of a four-week course of mometasone furoate compared to beclomethasone dipropionate or placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Nonpregnant women of childbearing potential must be using a medically acceptable form of birth control for at least 3 months prior to Screening, and must continue its use for the duration of the study. Women not of childbearing potential must be surgically sterilized or at lea",
+      "endpoints": [
+        "Change From Baseline in the Total Nasal Symptom Score (TNSS) (Average of Morning [AM]/Evening [PM] Score) Averaged Over Days 1 to 15 (Participant-Evaluated)",
+        "Number of Participants Who Experienced ≥1 Adverse Event",
+        "Number of Participants Who Discontinued Treatment Due to An Adverse Event (AE)"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03855189"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01024608",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study to Assess the Efficacy and Safety of Beclomethasone Dipropionate Hydrofluoroalkane (BDP HFA) Nasal Aerosol in Subjects 12 Years of Age and Older With SAR",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-12-31",
+      "completion_date": "2010-02-28",
+      "country": "United States",
+      "enrollment": 340,
+      "brief_summary": "The purpose of the study is to assess the efficacy and safety of an investigational nasal aerosol compared with placebo nasal aerosol in the treatment of seasonal allergic rhinitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed Consent\n* Male or female subjects 12 years of age or older\n* Documented history of season allergic rhinitis to mountain cedar pollen\n* General good health\n* Other criteria apply\n\nExclusion Criteria:\n\n* History of physical findings of nasal pathology (within 60 days pr",
+      "endpoints": [
+        "Change From Baseline in Average Subject-Reported AM and PM Reflective Total Nasal Symptom Score (rTNSS) Over the Two-week Treatment Period"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01024608"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01537692",
+      "title": "A Randomized, Open-Label, 3-Period Crossover Study to Investigate the Pharmacokinetics, Safety and Tolerability of BDP HFA Nasal Aerosol in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2009-06",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to compare the systemic levels of beclomethasone 17 monopropionate (17 BMP - the active metabolite of BDP) after intranasal administration of BDP HFA with the systemic levels of 17 BMP after administration of orally inhaled BDP HFA in healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed Consent\n* Male or female subjects 18-45 years of age\n* General good health\n\nExclusion Criteria:\n\n* History of physical findings of nasal pathology (within 60 days prior to Screening Visit)\n* Participation in any investigational drug study 30 days preceding Screening V",
+      "endpoints": [
+        "Pharmacokinetics"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01537692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01697956",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, 6-Week Study Designed to Investigate the Effects of BDP Nasal Aerosol on the Hypothalamic-Pituitary-Adrenal (HPA)-Axis in Pediatric Subjects (6 to 11 Years of Age) With Perennial Allergic Rhinitis (PAR)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2013-02",
+      "country": "United States",
+      "enrollment": 99,
+      "brief_summary": "The purpose of this study is to compare the effect of 6 weeks of treatment with beclomethasone dipropionate (BDP) nasal aerosol versus placebo on HPA-axis function, as assessed by 24-hour serum cortisol weighted mean, and to evaluate the safety and tolerability of BDP nasal aerosol, in subjects 6 to 11 years of age with perennial allergic rhinitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent/(assent - if applicable)\n* Male or female subjects 6-11 years of age\n* General good health\n* A documented history of PAR to a relevant perennial allergen for a minimum of 12 months\n* Other criteria apply\n\nExclusion Criteria:\n\n* Pregnancy, nursing, or plans to ",
+      "endpoints": [
+        "Change From Baseline (Expressed As A Ratio) In 24-Hr Serum Cortisol Weighted Mean Following 6 Weeks Of Treatment"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01697956"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02646904",
+      "title": "Nebulized Beclometasone Dipropionate Improves Nasal Patency in Children With Allergic Rhinitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-05",
+      "completion_date": "2017-07",
+      "country": "Italy",
+      "enrollment": 68,
+      "brief_summary": "The purpose of this study is to examine in children with persistent AR the effect of the topically applied beclomethasone in comparison with cetirizine on nasal patency evaluated by acoustic rhinometry and subjective nasal symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* children 6-16 years of age with a history of AR in the previous year\n* T5SS: ≥5 in the last week before enrollment\n\nExclusion Criteria:\n\n* asthma symptoms\n* acute upper respiratory infections\n* anatomic nasal defects (ie, septum deviation), or nasal polyps\n* use in the past 4 ",
+      "endpoints": [
+        "Nasal patency evaluated by acoustic rhinometry."
+      ],
+      "sponsor": "Istituto per la Ricerca e l'Innovazione Biomedica",
+      "url": "https://clinicaltrials.gov/study/NCT02646904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00854360",
+      "title": "Double-Blind, Randomized, Placebo-Controlled, Parallel-Group, Multi-Center, Dose-Range-Finding Study to Assess the Efficacy and Safety of BDP HFA Nasal Aerosol in Adult and Adolescent Patients (12 Years and Older) With Seasonal Allergic Rhinitis (SAR)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2009-05",
+      "country": "United States",
+      "enrollment": 487,
+      "brief_summary": "This is a phase 2, randomized, double-blind, placebo-controlled, parallel-group, 2-week, multi-center, dose-range-finding study in male or female patients (12 years and older) with SAR.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Male or female patients 12 years of age and older, as of the Screening Visit (SV).\n* General good health, and free of any concomitant conditions or treatment that could interfere with study conduct, influence the interpretation of study observations/results, or put the pat",
+      "endpoints": [
+        "Change From Baseline in Average AM and PM Reflective Total Nasal Symptom Score (rTNSS) Over the Two-week Treatment Period"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00854360"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01550471",
+      "title": "A Study Evaluating the Effect of Omnaris Nasal Spray 200 mcg QD & Alvesco Inhalation Aerosol 80 BID vs Beconase AQ Nasal Spray 168 mcg BID & QVAR Inhalation Aerosol 40 mcg BID vs Placebo Nasal Spray QD & Placebo Inhalation Aerosol BID on Short Term Growth in Pediatric Subjects With Mild Asthma & Allergic Rhinitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This study will provide the clinicians guidance on the safest combination of inhaled and nasal corticosteroids for children with mild asthma and allergic rhinitis respectively; however, one safety concern is that these products are independently known to have dose-related effects on short term and intermediate term growth. Knemometry is a non invasive technique for measuring short-term lower leg growth in children and is currently the method of choice in growth studies of short duration. Subject",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will include females and males 6 to 15 years of age.\n2. All subjects must have a history of physician diagnosed mild asthma and allergic rhinitis as documented by PCP medical record or detailed history by study investigator.\n3. All subjects must have a height within ",
+      "endpoints": [
+        "The Effect of Omnaris Nasal Spray & Alvesco Inhalation Aerosol vs Beconase AQ Nasal Spray & QVAR Inhalation Aerosol on Short-term Lower Leg Growth Velocity as Measured by Knemometry in Pediatric Subjects w/ Mild Asthma & Allergic Rhinitis."
+      ],
+      "sponsor": "West Penn Allegheny Health System",
+      "url": "https://clinicaltrials.gov/study/NCT01550471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01134705",
+      "title": "Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Clinical Study to Assess the Efficacy and Safety of BDP HFA Nasal Aerosol (320 Mcg, Once Daily) in the Treatment of Perennial Allergic Rhinitis (PAR) in Adult and Adolescent Subjects (12 Years of Age and Older)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2010-10",
+      "country": "United States",
+      "enrollment": 474,
+      "brief_summary": "The purpose of the study is to assess the efficacy and safety of an investigational nasal aerosol compared with placebo nasal aerosol in the treatment of perennial allergic rhinitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed Consent\n* Documented history of perennial allergic rhinitis\n* A demonstrated sensitivity to at least one allergen known to induce PAR through a standard skin prick test.\n* Minimum subject-reported reflective total nasal symptom score (rTNSS) of at least 6 (out of a po",
+      "endpoints": [
+        "Change From Baseline in Average AM and PM Reflective Total Nasal Symptom Score (rTNSS) Over the Six-week Treatment Period"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01134705"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00115089",
+      "title": "A Phase II Multi-Center, Randomized, Double-Blind, Active and Placebo-Controlled 7 Day Study of Mast Cell Inhibitor, R926112, in Patients With Symptomatic Seasonal Allergic Rhinitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 375,
+      "brief_summary": "This is a study of the effectiveness and safety of a new nasal spray for the relief of the symptoms of seasonal allergies. The agents being compared are: R926112 (a novel anti-allergy medicine), Beconase (beclomethasone dipropionate, an established FDA approved steroid treatment), and an inactive placebo. The study hypothesis is that R926112 will be superior to placebo at the end of a week of testing and evaluation. The study does not have the power to determine how R926112 compares to Beconase.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must sign a written informed consent form and assent (if applicable) for study participation.\n* Males and females, 12 years of age or older\n* Subjects must have a history consistent with seasonal allergic rhinitis (SAR) during the fall pollen season for at least the p",
+      "endpoints": [
+        "Change in total nasal symptom score from baseline over time"
+      ],
+      "sponsor": "Rigel Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00115089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01691677",
+      "title": "Multicentre, Randomized, Double-blind, Parallel Group, Placebo-Controlled Study on the Therapeutic Efficacy and Safety of Beclomethasone Dipropionate Suspension for Inhalation 800 µg Twice Daily vs. Placebo Added to Antibiotic Therapy in Patients With Acute Rhinosinusitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2014-01",
+      "country": "Italy",
+      "enrollment": 166,
+      "brief_summary": "Intranasal corticosteroids are beneficial in the treatment of acute rhinosinusitis. As adjunctive therapy to oral antibiotic treatment, mometasone furoate at doses of 200 μg or 400 μg twice daily, was well tolerated and significantly more effective in reducing the symptoms of rhinosinusitis than antibiotic therapy alone. Furthermore,the addition of fluticasone propionate to xylometazoline and antimicrobial therapy with cefuroxime improved clinical success rates and accelerated recovery of patien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject's written informed consent obtained prior to any study-related procedures\n2. Male and female out-patients aged between 18 and 65 years (inclusive).\n3. History of previously diagnosed recurrent or chronic sinusitis that necessitate antibiotic therapy as judged by the i",
+      "endpoints": [
+        "proportion of patients who will experience clinical success"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01691677"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03879772",
+      "title": "Dose-Ranging Study of Mometasone Furoate Nasal Spray (SCH 32088) in the Treatment of Children (Ages 6-11) With Seasonal Allergic Rhinitis (Protocol C95-161)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1996-03-12",
+      "completion_date": "1996-07-01",
+      "country": "N/A",
+      "enrollment": 679,
+      "brief_summary": "The purpose of this study was to identify the lowest dosage of mometasone furoate nasal spray (MFNS) that provided adequate efficacy with an acceptable safety profile for children (ages 6-11) with seasonal allergic rhinitis (SAR). The MFNS dose levels of 25, 100, and 200 mcg QD were compared with beclomethasone dipropionate (BDP), as an active control, and placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have at least a one-year history of seasonal allergic rhinitis which previously required treatment for tree and/or grass pollen\n* Have a positive skin test response to an appropriate tree and/or grass seasonal allergen within the last year.\n* Must be free of any clinically sig",
+      "endpoints": [
+        "Change From Baseline in the Total Nasal Symptom Score (TNSS) at Day 8 as Assessed by Investigator"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT03879772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01839851",
+      "title": "Evaluation of Hair Cortisol in Patients With Asthma or Allergic Rhinitis Treated With Topical (Inhaled or Intranasal) Corticosteroids",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2013-05",
+      "completion_date": "2014-12",
+      "country": "Israel",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to prospectively examine the relation between topical corticosteroid use and hair cortisol concentration, among patients with moderate persistent asthma or allergic rhinitis. The investigators hypothesize that patients with asthma or allergic rhinitis treated with topical corticosteroids (i.e. inhaled corticosteroids (ICS) or intranasal glucocorticoids (INGC)) have higher levels of hair cortisol after 3 months of treatment than during the 3 months prior to initiation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 18 years or older\n* Diagnosis of asthma or allergic rhinitis, or both.\n* Planned initiation of treatment with ICS and/or INGC at study recruitment, according to routine clinical practice\n\nExclusion Criteria:\n\n* Use of inhaled, systemic or topical corticosteroids at stud",
+      "endpoints": [
+        "Change in concentration of hair cortisol under topical corticosteroid treatment"
+      ],
+      "sponsor": "Meir Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01839851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02133053",
+      "title": "Non Interventional Study of Ectoin Allergy Nasal Spray Compared to Beclomethasone Nasal Spray",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2011-07",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "This is a comparative, open label, parallel group, non interventional study to further demonstrate the effectiveness and tolerability of Ectoin® Allergy Nasal Spray. In addition the effectiveness and safety shall be compared to a Beclomethasone nasal spray. The patient applies Ectoin® Rhinitis Nasal Spray or Beclomethasone nasal spray according to the instructions for use. The observation takes place over a period of 14 days. Response to treatment is recorded at day 7 and day 14 by the physician",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed allergic rhinitis during the observational period\n\nExclusion Criteria:\n\n* Contra indications according to the label",
+      "endpoints": [
+        "Change in Total Nasal Symptom Score"
+      ],
+      "sponsor": "Bitop AG",
+      "url": "https://clinicaltrials.gov/study/NCT02133053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00988247",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Clinical Study to Assess the Long-term Efficacy and Safety of BDP HFA Nasal Aerosol (320 mcg, Once Daily) in Adult and Adolescent Subjects (12 Years of Age and Older) With Perennial Allergic Rhinitis (PAR)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10-31",
+      "completion_date": "2011-02-28",
+      "country": "United States",
+      "enrollment": 529,
+      "brief_summary": "Subjects with perennial allergic rhinitis will be randomized to 320 mcg of beclomethasone dipropionate (BDP) using a hydrofluoroalkane (HFA) propellant or placebo as a nasal aerosol. The subjects will be followed for safety and efficacy for a period of 30 or 52 weeks. BDP HFA is a steroid which is currently FDA approved for the treatment of asthma. BDP-HFA should be safe and effective as a \"dry\" nasal aerosol which may be preferred by some patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects, 12 years of age or older as of the Screening Visit (SV)\n* General good health, and free of any concomitant conditions or treatment that could interfere with study conduct, influence the interpretation of study observations/results, or put the subject a",
+      "endpoints": [
+        "Change From Baseline in Average Subject-Assessed 24-Hour Reflective Total Nasal Symptom Score (rTNSS) up to 30 Weeks"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00988247"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04817800",
+      "title": "An Open Label, Randomized, Three-treatment, Three-period, Crossover, Single Dose Study, to Investigate Drug-drug Interaction and Relative Bioavailability Between the Fixed Dose Combination Azelastine Hydrochloride / Beclomethasone Dipropionate (140/100 μg Azelastine Hydrochloride / Beclomethasone Dipropionate) Nasal Spray, and Beclomethasone Dipropionate Nasal Spray (100 μg Beclomethasone Dipropionate) in the Test Vehicle, and the Commercially Available Product, RinoClenil® Nasal Spray (100 μg Beclomethasone Dipropionate), in Healthy Subjects Under Fasting Conditions",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-03-25",
+      "completion_date": "2021-04-10",
+      "country": "Jordan",
+      "enrollment": 48,
+      "brief_summary": "An open label, randomized, three-treatment, three-period, crossover, single dose study, to investigate drug-drug interaction and relative bioavailability between the fixed dose combination Azelastine hydrochloride / Beclomethasone dipropionate (140/100 μg Azelastine hydrochloride / Beclomethasone dipropionate) Nasal Spray, and Beclomethasone Dipropionate Nasal Spray (100 μg Beclomethasone Dipropionate) in the test vehicle, and the commercially available product, RinoClenil® Nasal Spray (100 μg B",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The subject is Caucasian \\& aged between eighteen \\& fifty years (18 - 50), both inclusive.\n* The subject is within the limits for his height \\& weight as defined by the body mass index range\n* (18.5 - 30.0 Kg/m2).\n* The subject is willing to undergo the necessary pre- \\& post",
+      "endpoints": [
+        "Maximum observed plasma concentration (Cmax) of Beclomethasone dipropionate and its active metabolite Beclomethasone 17-monopropionate",
+        "area under the plasma concentration versus time curve (AUC) from pre-dose (time zero) to the last sampling time with quantifiable concentrations (AUC0-t) of Beclomethasone dipropionate and its active metabolite Beclomethasone 17-monopropionate",
+        "AUC from time zero to infinity (AUC0-∞) of Beclomethasone dipropionate and its active metabolite Beclomethasone 17-monopropionate"
+      ],
+      "sponsor": "Humanis Saglık Anonim Sirketi",
+      "url": "https://clinicaltrials.gov/study/NCT04817800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00346775",
+      "title": "A Randomized, Single-Blind, Cross-Over, Multicenter Study to Validate the Preference Module of the Experience With Allergic Rhinitis Nasal Sprays Questionnaire (EARNS-Q) Administered to Adult Subjects With Seasonal Allergic Rhinitis During a Three-week Cross-over Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05-01",
+      "completion_date": "2006-06-29",
+      "country": "United States",
+      "enrollment": 97,
+      "brief_summary": "The Protocol section needs to be updated using the following text \"The main goal of the study was to validate the Preference Module of the EARNS-Q and to test the reliability using Treatment Satisfaction Questionnaire for Medicines (TSQM), a validated questionnaire for determining satisfaction among different treatment. The EARNS-Q is divided into 2 modules, an Experience Module and a Preference Module. The Experience Module includes 28 items, fourteen attribute rating items followed by fourteen",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Seasonal allergic rhinitis.\n* Nasal allergy symptoms during the spring allergy season.\n\nExclusion Criteria:\n\n* Prior use of beclomethasone dipropionate or flunisolide.\n* Significant concomitant medical conditions.\n* Use of corticosteroids.\n* Use of allergy and other identified",
+      "endpoints": [
+        "Correlations of Experience With Allergic Rhinitis Nasal Sprays Questionnaire (EARNS-Q) Preference Module With Treatment Satisfaction Questionnaire for Medicines (TSQM) Change Scores and Change in Mean Daily Reflective Total Nasal Symptom (rTNSS) Scores",
+        "Correlation of EARNS-Q Preference Module With EARNS-Q Experience Module Change Scores"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00346775"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00659048",
+      "title": "Investigation of Potential Additive Inhibitory Effects on HPA-Axis of Ciclesonide Nasal Spray When Administered Concomitantly With Orally Inhaled Beclomethasone Dipropionate (HFA-BDP) in Patients (18-60 Years) With Perennial Allergic Rhinitis (PAR)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 106,
+      "brief_summary": "The primary objective of this study is to demonstrate that there are no clinically relevant additive inhibitory effects on the HPA-axis when ciclesonide nasal spray is concomitantly administered with orally inhaled HFA-BDP. The secondary objectives are to evaluate safety and tolerability of the combined dosing regimen of orally inhaled HFA-BDP and ciclesonide nasal spray.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, 18 - 60 years of age.\n2. General good health, and free of any concomitant conditions or treatment that could interfere with study conduct, influence the interpretation of study observations/results, or put the patient at increased risk during the trial.\n3. A h",
+      "endpoints": [
+        "24 h plasma cortisol profiles and urinary cortisol"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00659048"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01113489",
+      "title": "Assessment of Oxidative Stress Markers in the Upper and Lower Airways of Atopic Children Treated With Nebulized Beclomethasone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2010-07",
+      "country": "Italy",
+      "enrollment": 32,
+      "brief_summary": "Although it is well known that the presence of uncontrolled inflammation in upper airways may compromise the control of asthma and may favor the progression of asthma toward more severe grades of disease, few studies addressed whether therapies aimed to control both upper and lower airway inflammation may be more effective in controlling asthma. Markers of oxidative stress and of inflammation such as Nitrotyrosine and IL-5 are increased in the airways of children with atopic asthma and correlate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* children with intermittent asthma and allergic rhinitis\n\nExclusion Criteria:\n\n* children with acute respiratory symptoms in the last 4 weeks\n* children with nasal polyposis or bronchial or respiratory tract infections\n* children with a severe exacerbation of asthma resulting i",
+      "endpoints": [
+        "Change in level of oral and nasal fractional exhaled nitric oxide (FeNO)"
+      ],
+      "sponsor": "Fondazione C.N.R./Regione Toscana \"G. Monasterio\", Pisa, Italy",
+      "url": "https://clinicaltrials.gov/study/NCT01113489"
+    }
+  ],
+  "timestamp": "2026-03-04T15:33:48.453232",
+  "success": true,
+  "error_message": null
+}

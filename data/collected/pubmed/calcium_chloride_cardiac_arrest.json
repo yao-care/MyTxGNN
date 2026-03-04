@@ -1,0 +1,569 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "cardiac arrest",
+    "query_string": "Calcium Chloride AND cardiac arrest"
+  },
+  "data": {
+    "query": "Calcium Chloride AND cardiac arrest",
+    "results": [
+      {
+        "pmid": "29731287",
+        "title": "Controversies in Management of Hyperkalemia.",
+        "abstract": "Hyperkalemia is a common electrolyte disorder that can result in morbidity and mortality if not managed appropriately.",
+        "journal": "The Journal of emergency medicine",
+        "year": "2018",
+        "authors": [
+          "Long Brit",
+          "Warix Justin R",
+          "Koyfman Alex"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acidosis",
+          "Buffers",
+          "Cation Exchange Resins",
+          "Dialysis",
+          "Drug Combinations",
+          "Electrocardiography",
+          "Glucose",
+          "Humans",
+          "Hyperkalemia",
+          "Hypoglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29731287/"
+      },
+      {
+        "pmid": "3752763",
+        "title": "Calcium and cardiac arrest.",
+        "abstract": "Calcium has a central role in regulating both cardiac automaticity and myocardial contractility. The ability of calcium to increase tension in normal myocardium is well known. These properties of calcium have led to its use in the setting of cardiopulmonary resuscitation, especially in the presence of electromechanical dissociation or asystole, but evidence of benefit from this therapy is lacking. During cardiac arrest, disturbances in the control of calcium movement in myocardium would likely result in elevations in cytosolic calcium and the disturbances in myocardial function that occur with calcium overload. Administration of calcium and the subsequent elevation in serum calcium concentrations under these conditions may have further detrimental effects on the heart and vascular smooth muscle. The routine use of calcium in cardiac arrest is not recommended.",
+        "journal": "Annals of internal medicine",
+        "year": "1986",
+        "authors": [
+          "Stempien A",
+          "Katz A M",
+          "Messineo F C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Calcium Chloride",
+          "Heart Arrest",
+          "Homeostasis",
+          "Humans",
+          "Myocardial Contraction",
+          "Risk"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3752763/"
+      },
+      {
+        "pmid": "34847226",
+        "title": "Effect of Intravenous or Intraosseous Calcium vs Saline on Return of Spontaneous Circulation in Adults With Out-of-Hospital Cardiac Arrest: A Randomized Clinical Trial.",
+        "abstract": "It is unclear whether administration of calcium has a beneficial effect in patients with cardiac arrest.",
+        "journal": "JAMA",
+        "year": "2021",
+        "authors": [
+          "Vallentin Mikael Fink",
+          "Granfeldt Asger",
+          "Meilandt Carsten",
+          "Povlsen Amalie Ling",
+          "Sindberg Birthe"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Aged",
+          "Calcium Chloride",
+          "Double-Blind Method",
+          "Epinephrine",
+          "Female",
+          "Humans",
+          "Infusions, Intraosseous",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34847226/"
+      },
+      {
+        "pmid": "7446909",
+        "title": "Calcium and cardiac arrest.",
+        "abstract": "Various preparations of calcium are recommended for use in treatment of cardiac arrest and advantages are claimed for one preparation over another because of increased availability of the calcium to the heart. Ionised calcium levels in human blood have been assayed following the addition of calcium increments by use of the calcium electrode. The results showed no difference between calcium chloride and calcium gluconate.",
+        "journal": "Anaesthesia",
+        "year": "1980",
+        "authors": [
+          "Bull J",
+          "Band D M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Calcium Chloride",
+          "Calcium Gluconate",
+          "Electrodes",
+          "Gluconates",
+          "Heart Arrest",
+          "Humans",
+          "Osmolar Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7446909/"
+      },
+      {
+        "pmid": "37921685",
+        "title": "Sodium Bicarbonate and Calcium Chloride for the Treatment of Hyperkalemia-Induced Cardiac Arrest: A Randomized, Blinded, Placebo-Controlled Animal Study.",
+        "abstract": "Current international guidelines recommend administrating calcium chloride and sodium bicarbonate to patients with hyperkalemia-induced cardiac arrest, despite limited evidence. The aim of this study was to evaluate the efficacy of calcium chloride and sodium bicarbonate on return of spontaneous circulation (ROSC) in a pig model of hyperkalemia-induced cardiac arrest.",
+        "journal": "Critical care medicine",
+        "year": "2024",
+        "authors": [
+          "Eggertsen Mark Andreas",
+          "Munch Johannsen Cecilie",
+          "Kovacevic Alexander",
+          "Fink Vallentin Mikael",
+          "Mørk Vammen Lauge"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Female",
+          "Calcium Chloride",
+          "Cardiopulmonary Resuscitation",
+          "Disease Models, Animal",
+          "Double-Blind Method",
+          "Heart Arrest",
+          "Hyperkalemia",
+          "Sodium Bicarbonate",
+          "Swine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37921685/"
+      },
+      {
+        "pmid": "3382105",
+        "title": "Cardiac arrest and blood ionized calcium levels.",
+        "abstract": "Blood ionized and total calcium levels, and pH values were obtained in 12 patients who were being ventilated and given external cardiac massage after having had an out-of-hospital cardiac arrest. On admission they had marked ionized hypocalcemia, with mean ionized calcium levels of 0.67 +/- 0.22 mmol/L, (range, 0.26 to 0.89), but normal total calcium levels. There was a positive correlation between pH and ionized calcium levels (r = 0.71). Of the six patients who were successfully resuscitated, four were discharged and two died; the other six could not be resuscitated and died. By comparison, ionized and total calcium levels obtained within 3 minutes of cardiac arrest were normal in 9 patients who had cardiac arrests in the intensive care unit or during surgery. All were discharged. These data are the first to document the occurrence of severe ionized hypocalcemia after out-of-hospital cardiac arrest. Hypocalcemia appears to be time-dependent and due essentially to extracellular comple",
+        "journal": "Annals of internal medicine",
+        "year": "1988",
+        "authors": [
+          "Urban P",
+          "Scheidegger D",
+          "Buchmann B",
+          "Barth D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Calcium",
+          "Calcium Chloride",
+          "Cations, Divalent",
+          "Female",
+          "Heart Arrest",
+          "Humans",
+          "Hydrogen-Ion Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3382105/"
+      },
+      {
+        "pmid": "18667063",
+        "title": "Gitelman syndrome.",
+        "abstract": "Gitelman syndrome (GS), also referred to as familial hypokalemia-hypomagnesemia, is characterized by hypokalemic metabolic alkalosis in combination with significant hypomagnesemia and low urinary calcium excretion. The prevalence is estimated at approximately 1:40,000 and accordingly, the prevalence of heterozygotes is approximately 1% in Caucasian populations, making it one of the most frequent inherited renal tubular disorders. In the majority of cases, symptoms do not appear before the age of six years and the disease is usually diagnosed during adolescence or adulthood. Transient periods of muscle weakness and tetany, sometimes accompanied by abdominal pain, vomiting and fever are often seen in GS patients. Paresthesias, especially in the face, frequently occur. Remarkably, some patients are completely asymptomatic except for the appearance at adult age of chondrocalcinosis that causes swelling, local heat, and tenderness over the affected joints. Blood pressure is lower than that ",
+        "journal": "Orphanet journal of rare diseases",
+        "year": "2008",
+        "authors": [
+          "Knoers Nine V A M",
+          "Levtchenko Elena N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Genetic Counseling",
+          "Gitelman Syndrome",
+          "Humans",
+          "Models, Biological",
+          "Mutation",
+          "Receptors, Drug",
+          "Solute Carrier Family 12, Member 3",
+          "Symporters"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18667063/"
+      },
+      {
+        "pmid": "36403820",
+        "title": "Effect of calcium in patients with pulseless electrical activity and electrocardiographic characteristics potentially associated with hyperkalemia and ischemia-sub-study of the Calcium for Out-of-hospital Cardiac Arrest (COCA) trial.",
+        "abstract": "The Calcium for Out-of-hospital Cardiac Arrest (COCA) trial was recently conducted and published. This pre-planned sub-study evaluated the effect of calcium in patients with pulseless electrical activity (PEA) including subgroup analyses based on electrocardiographic characteristics potentially associated with hyperkalemia and ischemia.",
+        "journal": "Resuscitation",
+        "year": "2022",
+        "authors": [
+          "Vallentin Mikael Fink",
+          "Povlsen Amalie Ling",
+          "Granfeldt Asger",
+          "Terkelsen Christian Juhl",
+          "Andersen Lars W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Calcium",
+          "Cardiopulmonary Resuscitation",
+          "Coca",
+          "Epinephrine",
+          "Hyperkalemia",
+          "Ischemia",
+          "Out-of-Hospital Cardiac Arrest"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36403820/"
+      },
+      {
+        "pmid": "36864469",
+        "title": "Improving vasopressor use in cardiac arrest.",
+        "abstract": "The Chain of Survival highlights the effectiveness of early recognition of cardiac arrest and call for help, early cardiopulmonary resuscitation and early defibrillation. Most patients, however, remain in cardiac arrest despite these interventions. Drug treatments, particularly the use of vasopressors, have been included in resuscitation algorithms since their inception. This narrative review describes the current evidence base for vasopressors and reports that adrenaline (1 mg) is highly effective at achieving return of spontaneous circulation (number needed to treat 4) but is less effective on long-term outcomes (survival to 30 days, number needed to treat 111) with uncertain effects on survival with a favourable neurological outcome. Randomised trials evaluating vasopressin, either as an alternative to or in addition to adrenaline, and high-dose adrenaline have failed to find evidence of improved long-term outcomes. There is a need for future trials to evaluate the interaction betwe",
+        "journal": "Critical care (London, England)",
+        "year": "2023",
+        "authors": [
+          "Perkins Gavin D",
+          "Couper Keith"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Epinephrine",
+          "Heart",
+          "Norepinephrine",
+          "Out-of-Hospital Cardiac Arrest",
+          "Vasoconstrictor Agents",
+          "Heart Arrest"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36864469/"
+      },
+      {
+        "pmid": "24766936",
+        "title": "Derangements of potassium.",
+        "abstract": "Changes in potassium elimination, primarily due to the renal and GI systems, and shifting potassium between the intracellular and extracellular spaces cause potassium derangement. Symptoms are vague, but can be cardiac, musculoskeletal, or gastrointestinal. There are no absolute guidelines for when to treat, but it is generally recommended when the patient is symptomatic or has ECG changes. Treatment of hyperkalemia includes cardiac membrane stabilization with IV calcium, insulin and beta-antagonists to push potassium intracellularly, and dialysis. Neither sodium bicarbonate nor kayexelate are recommended. Treatment of symptomatic hypokalemia consists of PO or IV repletion with potassium chloride and magnesium sulfate.",
+        "journal": "Emergency medicine clinics of North America",
+        "year": "2014",
+        "authors": [
+          "Medford-Davis Laura",
+          "Rafique Zubaid"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Electrocardiography",
+          "Heart Arrest",
+          "Humans",
+          "Hyperkalemia",
+          "Hypokalemia",
+          "Myocardium",
+          "Potassium",
+          "Potassium Chloride",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24766936/"
+      },
+      {
+        "pmid": "3382117",
+        "title": "Is calcium beneficial or deleterious in patients with cardiac arrest?",
+        "abstract": "",
+        "journal": "Annals of internal medicine",
+        "year": "1988",
+        "authors": [
+          "Katz A M"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Calcium Chloride",
+          "Heart Arrest",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3382117/"
+      },
+      {
+        "pmid": "4589351",
+        "title": "Cardiopulmonary arrest.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1974",
+        "authors": [
+          "Goldberg A H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asphyxia",
+          "Calcium Chloride",
+          "Electric Countershock",
+          "Epinephrine",
+          "Heart Arrest",
+          "Heart Massage",
+          "Heart Ventricles",
+          "Humans",
+          "Hypoxia, Brain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4589351/"
+      },
+      {
+        "pmid": "35917866",
+        "title": "Effect of calcium vs. placebo on long-term outcomes in patients with out-of-hospital cardiac arrest.",
+        "abstract": "The Calcium for Out-of-hospital Cardiac Arrest (COCA) trial was a randomized, placebo-controlled, double-blind trial of calcium for out-of-hospital cardiac arrest. The primary and secondary outcomes have been reported previously. This article describes the long-term outcomes of the trial.",
+        "journal": "Resuscitation",
+        "year": "2022",
+        "authors": [
+          "Vallentin Mikael Fink",
+          "Granfeldt Asger",
+          "Meilandt Carsten",
+          "Povlsen Amalie Ling",
+          "Sindberg Birthe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Calcium",
+          "Calcium Chloride",
+          "Cardiopulmonary Resuscitation",
+          "Epinephrine",
+          "Humans",
+          "Out-of-Hospital Cardiac Arrest",
+          "Quality of Life",
+          "Survival Analysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35917866/"
+      },
+      {
+        "pmid": "6829988",
+        "title": "Use of calcium in prehospital cardiac arrest.",
+        "abstract": "All records of patients presenting to the Milwaukee County Paramedic System for the period of January 1 to December 31, 1980 were reviewed retrospectively. One hundred seventy-nine patients initially presented in asystole, and 116 patients initially presented in electromechanical dissociation (EMD). All patients with trauma and poisoning were excluded. The in-field successful resuscitation rates for asystole were 8/105 (8%) in the calcium group versus 8/24 (33%) in the no-calcium group (P less than .002); for EMD they were 10/63 (16%) in the calcium group versus 8/18 (44%) in the no-calcium group (P less than .02). A successful resuscitation is defined as the conveyance of a patient to the emergency department with a pulse and cardiac rhythm. There were no significant differences between the calcium and no-calcium groups in both the asystole and EMD patients. The use of calcium in the prehospital setting in the currently recommended dosage for cardiac arrest with initial arrest rhythms",
+        "journal": "Annals of emergency medicine",
+        "year": "1983",
+        "authors": [
+          "Stueven H",
+          "Thompson B M",
+          "Aprahamian C",
+          "Darin J C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Calcium Chloride",
+          "Electrocardiography",
+          "Emergency Medical Services",
+          "Female",
+          "Heart Arrest",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Resuscitation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6829988/"
+      },
+      {
+        "pmid": "26118926",
+        "title": "Anesthesia for liver transplantation.",
+        "abstract": "Patients with end stage liver disease (ESLD) have complex problems such as cirrhotic cardiomyopathy, coronary artery disease, hepatopulmonary syndrome (HPS), portopulmonary hypertension (POPH), hepatic encephalopathy, intracranial hypertension, (ICP), left ventricular outflow tract obstruction (LVOTO), high Model of end liver disease (MELD) scores, hyponatremia, and coagulopathies. The anesthesia management for liver transplantation can be very complex, dynamic and challenging. Anesthesia agents affect hepatic blood flow and anesthetic drug distribution, metabolism and elimination maybe altered in end stage liver disease. Other non-anesthetic agents such as nitric oxide, epoprosterenol, THAM, hypertonic saline, fibrinogen concentrates, fresh frozen plasma, platelets, packed red blood cells, recombinant plasminogen activator, calcium chloride, epinephrine etc. may play a vital role in the perioperative management of these patients. Intraoperative hemostasis and coagulation management ca",
+        "journal": "Transplantation reviews (Orlando, Fla.)",
+        "year": "2016",
+        "authors": [
+          "Dalal Aparna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anesthesia",
+          "Anesthetics",
+          "End Stage Liver Disease",
+          "Humans",
+          "Liver Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26118926/"
+      },
+      {
+        "pmid": "9057791",
+        "title": "Pharmacology of pediatric resuscitation.",
+        "abstract": "The resuscitation of children from cardiac arrest and shock remains a challenging goal. The pharmacologic principles underlying current recommendations for intervention in pediatric cardiac arrest have been reviewed. Current research efforts, points of controversy, and accepted practices that may not be most efficacious have been described. Epinephrine remains the most effective resuscitation adjunct. High-dose epinephrine is tolerated better in children than in adults, but its efficacy has not received full analysis. The preponderance of data continues to point toward the ineffectiveness and possible deleterious effects of overzealous sodium bicarbonate use. Calcium chloride is useful in the treatment of ionized hypocalcemia but may harm cells that have experienced asphyxial damage. Atropine is an effective agent for alleviating bradycardia induced by increased vagal tone, but because most bradycardia in children is caused by hypoxia, improved oxygenation is the intervention of choice",
+        "journal": "Pediatric clinics of North America",
+        "year": "1997",
+        "authors": [
+          "Ushay H M",
+          "Notterman D A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Arrhythmia Agents",
+          "Calcium Chloride",
+          "Child",
+          "Dopamine",
+          "Drug Monitoring",
+          "Drug Therapy",
+          "Heart Arrest",
+          "Humans",
+          "Pediatrics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9057791/"
+      },
+      {
+        "pmid": "3956220",
+        "title": "Hyperkalemia during cardiac arrest and resuscitation in the canine model.",
+        "abstract": "Although recent clinical reports have noted hypokalemia after resuscitation from cardiac arrest, extensive animal work indicates that potassium is released from cells during ischemia. This study was undertaken to define the changes that occur in serum potassium ion during cardiac arrest and resuscitation in a canine model. Fourteen dogs were subjected to 5 min of cardiac arrest followed by 30 min of closed-chest CPR (CCPR). Resuscitation was performed according to a standardized protocol. Serum potassium increased significantly (p less than .001) from baseline, remained elevated 5 min after return of spontaneous circulation (ROSC), but declined to baseline levels at 15 min post-ROSC. Increases in interstitial potassium would be expected to be even greater due to the poor exchange between interstitial and intravascular compartments during CCPR. Interstitial hyperkalemia may play a role in the genesis of wide-complex electromechanical dissociation and may explain the reported success of ",
+        "journal": "Critical care medicine",
+        "year": "1986",
+        "authors": [
+          "Martin G B",
+          "Carden D L",
+          "Nowak R M",
+          "Foreback C",
+          "Tomlanovich M C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blood Pressure",
+          "Dogs",
+          "Electrocardiography",
+          "Heart Arrest",
+          "Hydrogen-Ion Concentration",
+          "Hyperkalemia",
+          "Potassium",
+          "Respiration, Artificial",
+          "Resuscitation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3956220/"
+      },
+      {
+        "pmid": "14855254",
+        "title": "The use of calcium chloride in the treatment of cardiac arrest in patients.",
+        "abstract": "",
+        "journal": "Surgery, gynecology & obstetrics",
+        "year": "1951",
+        "authors": [
+          "KAY J H",
+          "BLALOCK A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Calcium Chloride",
+          "Heart",
+          "Heart Arrest",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14855254/"
+      },
+      {
+        "pmid": "3920984",
+        "title": "Cold ischemic arrest: comparison of calcium-free and calcium-containing solutions.",
+        "abstract": "Isolated pumping rat hearts, perfused with reconstituted blood, were studied to compare the effects of 30 minutes of ischemic arrest following calcium-free or normal, calcium-containing cold cardioplegia on recovery of mechanical function, lactate production, myocardial adenosine triphosphate concentration, and release of creatine kinase (CK). As in clinical situations, the volume of the infusate was only three to four times the intracavitary blood volume. Hearts arrested with calcium-free solution showed incomplete recovery of mechanical function, whereas hearts arrested with calcium-containing solution recovered completely. After calcium-free arrest, stroke volume recovered to 76 +/- 29% (standard deviation [SD]) of its prearrest value. Enzyme release (CK) was significantly higher after calcium-free cardioplegia (7.7 +/- 4.6 units [SD]) than after cardioplegia with normal calcium (2.1 +/- 1.6 units [SD]). Since the addition of only 0.025 mmol calcium ions to a liter of calcium-free s",
+        "journal": "The Annals of thoracic surgery",
+        "year": "1985",
+        "authors": [
+          "Hendriks F F",
+          "Jonas J",
+          "van der Laarse A",
+          "Huysmans H A",
+          "van Rijk-Zwikker G L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenosine Triphosphate",
+          "Animals",
+          "Bicarbonates",
+          "Calcium",
+          "Calcium Chloride",
+          "Cardiac Surgical Procedures",
+          "Creatine Kinase",
+          "Glucose",
+          "Heart",
+          "Heart Arrest, Induced"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3920984/"
+      },
+      {
+        "pmid": "3896650",
+        "title": "Endocardial and transcutaneous cardiac pacing, calcium chloride, and epinephrine in postcountershock asystole and bradycardias.",
+        "abstract": "Clinically, asystole or a bradyarrhythmia may follow countershock of ventricular fibrillation (VF) in up to 40% of attempts. This study evaluated the effects of artificial cardiac pacing, calcium chloride (CaCl2), and epinephrine in postcountershock asystole/bradycardia. Micromanometer catheters were positioned in the aorta (Ao) and right atrium (RA) of ten dogs and VF induced by right ventricular (RV) stimulation. After 2 min of VF, a 400-J countershock was given. In six animals, asystole or a pulseless bradyarrhythmia followed one countershock. In four animals, up to three countershocks were needed to terminate VF and resulted in asystole or a pulseless bradyarrhythmia. Thirty seconds after termination of VF, cardiac pacing was begun in all animals using conventional RV endocardial pacing (RVEP) or a transcutaneous transthoracic pacing (TTP) technique. RVEP and TTP produced ventricular depolarizations, but electrical capture was never associated with Ao pressure fluctuations. After 2",
+        "journal": "Critical care medicine",
+        "year": "1985",
+        "authors": [
+          "Niemann J T",
+          "Adomian G E",
+          "Garner D",
+          "Rosborough J P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arrhythmias, Cardiac",
+          "Blood Pressure",
+          "Bradycardia",
+          "Calcium Chloride",
+          "Dogs",
+          "Electric Countershock",
+          "Epinephrine",
+          "Female",
+          "Heart Arrest"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3896650/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:34:26.632143",
+  "success": true,
+  "error_message": null
+}

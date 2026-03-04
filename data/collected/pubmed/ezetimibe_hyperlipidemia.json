@@ -1,0 +1,613 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ezetimibe",
+    "disease": "hyperlipidemia",
+    "query_string": "Ezetimibe AND hyperlipidemia"
+  },
+  "data": {
+    "query": "Ezetimibe AND hyperlipidemia",
+    "results": [
+      {
+        "pmid": "39521985",
+        "title": "Efficacy and safety of inclisiran versus PCSK9 inhibitor versus statin plus ezetimibe therapy in hyperlipidemia: a systematic review and network meta-analysis.",
+        "abstract": "Hyperlipidemia plays a crucial role in increasing the risk of cardiovascular diseases such as atherosclerosis. Recent studies have established that inclisiran positively influences lipid regulation. Nevertheless, its effectiveness in comparison to conventional treatments is still questionable. Hence, a methodical assessment of its effectiveness and safety is required. This research evaluates the efficacy and safety of inclisiran, PCSK9 inhibitors, and the combination of statins with ezetimibe in the treatment of hyperlipidemia via a network meta-analysis of randomized controlled trials (RCTs).",
+        "journal": "BMC cardiovascular disorders",
+        "year": "2024",
+        "authors": [
+          "Zhang Shengxuan",
+          "Sun Lei",
+          "Xu Xinyu",
+          "Zhang Yanling",
+          "Chen Qilan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anticholesteremic Agents",
+          "Biomarkers",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias",
+          "Lipids",
+          "PCSK9 Inhibitors",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39521985/"
+      },
+      {
+        "pmid": "31357887",
+        "title": "Bempedoic acid plus ezetimibe fixed-dose combination in patients with hypercholesterolemia and high CVD risk treated with maximally tolerated statin therapy.",
+        "abstract": "The aim of this study was to evaluate the low-density lipoprotein cholesterol lowering efficacy and safety of a bempedoic acid 180 mg and ezetimibe 10 mg fixed-dose combination in patients with hypercholesterolemia and a high risk of cardiovascular disease receiving maximally tolerated statin therapy.",
+        "journal": "European journal of preventive cardiology",
+        "year": "2020",
+        "authors": [
+          "Ballantyne Christie M",
+          "Laufs Ulrich",
+          "Ray Kausik K",
+          "Leiter Lawrence A",
+          "Bays Harold E"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Biomarkers",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Dicarboxylic Acids",
+          "Double-Blind Method",
+          "Down-Regulation",
+          "Drug Combinations",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31357887/"
+      },
+      {
+        "pmid": "28444290",
+        "title": "Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel.",
+        "abstract": "To appraise the clinical and genetic evidence that low-density lipoproteins (LDLs) cause atherosclerotic cardiovascular disease (ASCVD).",
+        "journal": "European heart journal",
+        "year": "2017",
+        "authors": [
+          "Ference Brian A",
+          "Ginsberg Henry N",
+          "Graham Ian",
+          "Ray Kausik K",
+          "Packard Chris J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Consensus",
+          "Epidemiologic Methods",
+          "Ezetimibe",
+          "Genetic Predisposition to Disease",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28444290/"
+      },
+      {
+        "pmid": "29910030",
+        "title": "Efficacy and safety of bempedoic acid added to ezetimibe in statin-intolerant patients with hypercholesterolemia: A randomized, placebo-controlled study.",
+        "abstract": "Patients with hyperlipidemia who are unable to tolerate optimal statin therapy are at increased cardiovascular risk due to ongoing elevations in low-density lipoprotein cholesterol (LDL-C). The objective of CLEAR Tranquility (NCT03001076) was to evaluate the efficacy and safety of bempedoic acid when added to background lipid-modifying therapy in patients with a history of statin intolerance who require additional LDL-C lowering.",
+        "journal": "Atherosclerosis",
+        "year": "2018",
+        "authors": [
+          "Ballantyne Christie M",
+          "Banach Maciej",
+          "Mancini G B John",
+          "Lepor Norman E",
+          "Hanselman Jeffrey C"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Biomarkers",
+          "Canada",
+          "Cholesterol, LDL",
+          "Dicarboxylic Acids",
+          "Double-Blind Method",
+          "Down-Regulation",
+          "Drug Therapy, Combination",
+          "Europe",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29910030/"
+      },
+      {
+        "pmid": "35232351",
+        "title": "Ezetimibe and Insulin Resistance.",
+        "abstract": "",
+        "journal": "Current vascular pharmacology",
+        "year": "2022",
+        "authors": [
+          "Popovic Djordje S",
+          "Papachristou Stella",
+          "Stokic Edita",
+          "Papanas Nikolaos"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ezetimibe",
+          "Insulin Resistance",
+          "Anticholesteremic Agents",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35232351/"
+      },
+      {
+        "pmid": "32648167",
+        "title": "Rosuvastatin/Ezetimibe: A Review in Hypercholesterolemia.",
+        "abstract": "Rosuvastatin/ezetimibe combines two lipid-lowering agents: rosuvastatin, an HMG-CoA reductase inhibitor (i.e. statin) with particularly strong inhibitory effects on hepatic cholesterol synthesis, and ezetimibe, which inhibits the intestinal absorption of cholesterol. A fixed-dose combination (FDC) of rosuvastatin/ezetimibe is indicated as an adjunctive therapy to diet for the management of primary hypercholesterolemia in adults in numerous countries worldwide. In well-designed clinical trials evaluating the therapeutic efficacy of rosuvastatin/ezetimibe administered as either separate agents or as an FDC, rosuvastatin/ezetimibe was significantly more effective than rosuvastatin monotherapy (including at double the dose of rosuvastatin) or simvastatin/ezetimibe in reducing low-density lipoprotein cholesterol (LDL-C) and total cholesterol in adults with hypercholesterolemia. Furthermore, rosuvastatin/ezetimibe enabled significantly higher proportions of patients to achieve recommended LD",
+        "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+        "year": "2020",
+        "authors": [
+          "Lamb Yvette N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Humans",
+          "Hypercholesterolemia",
+          "Rosuvastatin Calcium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32648167/"
+      },
+      {
+        "pmid": "40347969",
+        "title": "Fixed-dose combination of obicetrapib and ezetimibe for LDL cholesterol reduction (TANDEM): a phase 3, randomised, double-blind, placebo-controlled trial.",
+        "abstract": "Reducing LDL cholesterol prevents atherosclerotic cardiovascular disease (ASCVD) events. The aim of this study was to evaluate the LDL cholesterol-lowering efficacy of a fixed-dose combination (FDC) of obicetrapib, a CETP inhibitor, and ezetimibe.",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "authors": [
+          "Sarraju Ashish",
+          "Brennan Danielle",
+          "Hayden Kierstyn",
+          "Stronczek Amanda",
+          "Goldberg Anne C"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anticholesteremic Agents",
+          "Cholesterol Ester Transfer Proteins",
+          "Cholesterol, LDL",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40347969/"
+      },
+      {
+        "pmid": "40551216",
+        "title": "Efficacy and safety of statins, ezetimibe, and fibrates monotherapy or combination therapy for hyperlipidemia: a systematic review and network meta-analysis.",
+        "abstract": "As commonly used lipid-lowering drugs, the efficacy and safety of statins, ezetimibe, and fibrates, either alone or in combination, have rarely been systematically evaluated. Therefore, we conducted a network meta-analysis to assess their efficacy and safety in patients with hyperlipidemia. In this study, we searched PubMed, the Cochrane Library, and Web of Science within our system. We included randomized controlled trials (RCTs) that compared the monotherapy or combination therapy of statins, ezetimibe, and fibrates for hyperlipidemia. Data analysis was performed using Stata 17.0 software. Each result is presented as the mean difference (MD) or odds ratio (OR) along with the 95% confidence interval (CI) and the surface under the cumulative ranking curve (SUCRA). A total of 30 studies, involving 10,219 patients, were included to analyze 12 different interventions. Combination therapy demonstrated superior therapeutic effects compared to monotherapy. Moderate-intensity statin + ezetimi",
+        "journal": "European journal of medical research",
+        "year": "2025",
+        "authors": [
+          "Zhang Shujie",
+          "Sun Tingting",
+          "Song Lina",
+          "Jin Xiaodong",
+          "Li Bo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Fibric Acids",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40551216/"
+      },
+      {
+        "pmid": "29402522",
+        "title": "A Phase III, Multicenter, Randomized, Double-blind, Active Comparator Clinical Trial to Compare the Efficacy and Safety of Combination Therapy With Ezetimibe and Rosuvastatin Versus Rosuvastatin Monotherapy in Patients With Hypercholesterolemia: I-ROSETTE (Ildong Rosuvastatin & Ezetimibe for Hypercholesterolemia) Randomized Controlled Trial.",
+        "abstract": "Combination therapy with ezetimibe and statins is recommended in cases of statin intolerance or insufficiency. The objective of this study was to compare the efficacy and safety of combination therapy with ezetimibe and rosuvastatin versus those of rosuvastatin monotherapy in patients with hypercholesterolemia.",
+        "journal": "Clinical therapeutics",
+        "year": "2018",
+        "authors": [
+          "Hong Soon Jun",
+          "Jeong Han Saem",
+          "Ahn Jeong Cheon",
+          "Cha Dong-Hun",
+          "Won Kyung Heon"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Female",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29402522/"
+      },
+      {
+        "pmid": "30714088",
+        "title": "Drug Treatment of Hyperlipidemia in Chinese Patients: Focus on the Use of Simvastatin and Ezetimibe Alone and in Combination.",
+        "abstract": "Elevated serum low-density lipoprotein cholesterol (LDL-C) is a major risk factor for coronary heart disease (CHD). Many guidelines recommend LDL-C as a primary treatment target, and statins represent the cornerstone of treatment for lipid management. Recently revised guidelines recommend even more intense management of LDL-C, especially in patients at moderate and high risk. However, LDL-C levels in the Chinese population differ from those in Western populations, and the benefits and safety of the maximum allowable dose of statins have yet to be determined. Furthermore, in practice, many patients do not achieve the increasingly stringent LDL-C goals. Consequently, alternative approaches to lipid management are required. Combination therapy with ezetimibe and a statin, which have complementary mechanisms of action, is more effective than statin monotherapies, even at high doses. Several clinical studies have consistently shown that combination therapy with ezetimibe and simvastatin low",
+        "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+        "year": "2019",
+        "authors": [
+          "Han Sheng-Na",
+          "Yang Wei-Hong",
+          "Yin Jian-Jian",
+          "Tao Hai-Long",
+          "Zhang Li-Rong"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asian People",
+          "Cholesterol, LDL",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Dyslipidemias",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias",
+          "Simvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30714088/"
+      },
+      {
+        "pmid": "17315051",
+        "title": "Ezetimibe and fenofibrate combination therapy for mixed hyperlipidemia.",
+        "abstract": "The ezetimibe and fenofibrate combination regimen was recently approved by the U.S. Food and Drug Administration for treatment of mixed hyperlipidemia. This powerful lipid-modifying therapy takes advantage of the different mechanisms of action of the two individual components. Ezetimibe selectively inhibits intestinal uptake of dietary and biliary cholesterol, and exerts its effect most notably on the low-density lipoprotein cholesterol (LDL-C). Fenofibrate activates the peroxisome proliferators-activated receptor alpha (PPAR-alpha), thereby increasing the tissue lipoprotein lipase activity and breakdown of triglycerides in very low-density lipoproteins (VLDL). The combination therapy of ezetimibe and fenofibrate has an excellent safety profile and exhibits potent synergistic actions on multiple lipid risk factors and represents another alternative in the clinical management of mixed hyperlipidemia. Further studies are needed to determine the effectiveness and safety of the ezetimibe a",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2007",
+        "authors": [
+          "Moon Yong S K",
+          "Chun Patricia",
+          "Chung Suna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azetidines",
+          "Drug Combinations",
+          "Drug Synergism",
+          "Ezetimibe",
+          "Fenofibrate",
+          "Humans",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17315051/"
+      },
+      {
+        "pmid": "39715179",
+        "title": "Protocol for a systematic review and meta-analysis of the combination of ezetimibe and statins for hyperlipidemia.",
+        "abstract": "Hyperlipidemia is increasingly recognized as a significant global health issue, often associated with conditions such as hypertension, diabetes, and obesity. While statins are frequently prescribed to manage lipid levels, recent studies indicate that reliance solely on statin therapy may present certain disadvantages, including prolonged treatment durations, the potential for drug resistance, and various adverse effects. Research indicates that the combination of ezetimibe and statins demonstrates a favorable therapeutic effect in the management of hyperlipidemia. However, existing studies have not consistently confirmed these benefits, and there is no current meta-analysis available. As a result, we will perform a meta-analysis to assess the effectiveness and safety of the combination of ezetimibe and statins in managing hyperlipidemia, aiming to offer evidence-based medical guidance for clinical practice.",
+        "journal": "PloS one",
+        "year": "2024",
+        "authors": [
+          "Yang Tianfu",
+          "Li Weijuan",
+          "Chen Weiwei",
+          "Zhu Donghong",
+          "Ren Yuxi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anticholesteremic Agents",
+          "Drug Therapy, Combination",
+          "Ezetimibe",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipidemias",
+          "Meta-Analysis as Topic",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39715179/"
+      },
+      {
+        "pmid": "35262430",
+        "title": "Comparative efficacy of non-statin lipid-lowering therapies in patients with hypercholesterolemia at increased cardiovascular risk: a network meta-analysis.",
+        "abstract": "Network meta-analysis was used to derive estimates of the relative efficacy of inclisiran, evolocumab, alirocumab, bempedoic acid, and ezetimibe in patients with hypercholesterolemia and/or at increased cardiovascular risk due to elevated low-density lipoprotein cholesterol taking maximum tolerated dose statins.",
+        "journal": "Current medical research and opinion",
+        "year": "2022",
+        "authors": [
+          "Burnett Heather",
+          "Fahrbach Kyle",
+          "Cichewicz Allie",
+          "Jindal Ramandeep",
+          "Tarpey Jialu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Bayes Theorem",
+          "Cardiovascular Diseases",
+          "Cholesterol",
+          "Cholesterol, LDL",
+          "Ezetimibe",
+          "Heart Disease Risk Factors",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35262430/"
+      },
+      {
+        "pmid": "24678979",
+        "title": "A 52-week placebo-controlled trial of evolocumab in hyperlipidemia.",
+        "abstract": "Evolocumab, a monoclonal antibody that inhibits proprotein convertase subtilisin/kexin type 9 (PCSK9), significantly reduced low-density lipoprotein (LDL) cholesterol levels in phase 2 studies. We conducted a phase 3 trial to evaluate the safety and efficacy of 52 weeks of treatment with evolocumab.",
+        "journal": "The New England journal of medicine",
+        "year": "2014",
+        "authors": [
+          "Blom Dirk J",
+          "Hala Tomas",
+          "Bolognese Michael",
+          "Lillestol Michael J",
+          "Toth Phillip D"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Atorvastatin",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Combined Modality Therapy",
+          "Double-Blind Method",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24678979/"
+      },
+      {
+        "pmid": "14727947",
+        "title": "Ezetimibe.",
+        "abstract": "Ezetimibe, a synthetic 2-azetidinone, is the first of a new class of compounds that selectively inhibits the absorption of cholesterol and related plant sterols in the intestine. The drug, and its glucuronyl metabolite, are thought to inhibit a putative cholesterol transporter of enterocytes, located within the brush-border membrane of the small intestine. In large, randomized, placebo-controlled, 12-week trials, ezetimibe reduced levels of low density lipoprotein-cholesterol (LDL-C) by approximately 18%; triglyceride levels were reduced by approximately 6% in one trial but not another. Ezetimibe produced a modest increase in levels of high density lipoprotein-cholesterol. Moreover, reductions in LDL-C and triglyceride levels were greater in patients treated with ezetimibe coadministered with a statin (lovastatin, pravastatin, atorvastatin or simvastatin), than with either of those agents given alone. The coadministration of the lowest statin dose and ezetimibe produced similar LDL-C r",
+        "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+        "year": "2003",
+        "authors": [
+          "Darkes Malcolm J M",
+          "Poole Raewyn M",
+          "Goa Karen L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Clinical Trials as Topic",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14727947/"
+      },
+      {
+        "pmid": "31311303",
+        "title": "Bempedoic acid and ezetimibe - better together.",
+        "abstract": "",
+        "journal": "European journal of preventive cardiology",
+        "year": "2020",
+        "authors": [
+          "Khan Safi U",
+          "Michos Erin D"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Cardiovascular Diseases",
+          "Dicarboxylic Acids",
+          "Ezetimibe",
+          "Fatty Acids",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31311303/"
+      },
+      {
+        "pmid": "39741475",
+        "title": "Ezetimibe/Atorvastatin, a Treatment for Hyperlipidemia, Inhibits Supraspinatus Fatty Infiltration and Improves Bone-Tendon Interface Healing in a Rotator Cuff Tear Rat Model.",
+        "abstract": "Multiple factors, such as muscle fatty infiltration (FI), tendon collagen content, and collagen arrangement, determine bone-tendon interface (BTI) healing after rotator cuff (RC) repair.",
+        "journal": "The American journal of sports medicine",
+        "year": "2025",
+        "authors": [
+          "Yoon Jong Pil",
+          "Park Sung-Jin",
+          "Kim Dong-Hyun",
+          "Choi Yoon Seong",
+          "Lee Hyun Joo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Rats, Sprague-Dawley",
+          "Male",
+          "Rotator Cuff Injuries",
+          "Atorvastatin",
+          "Wound Healing",
+          "Ezetimibe",
+          "Rats",
+          "Rotator Cuff",
+          "Disease Models, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39741475/"
+      },
+      {
+        "pmid": "34102931",
+        "title": "Rosuvastatin and ezetimibe for the treatment of dyslipidemia and hypercholesterolemia.",
+        "abstract": "Introduction: Statins are powerful lipid-lowering agents which reduce cardiovascular (CV)-related morbidity and mortality. However, a large proportion of patients cannot attain the target low-density lipoprotein cholesterol (LDL-C) levels, despite receiving maximally tolerated doses of high-intensity statins. Also, adherence to treatment may be reduced due to statin-induced myopathy or other side effects. For these reasons, guidelines recommend adding the cholesterol absorption inhibitor ezetimibe.Areas covered: Authors discuss the main pharmacological characteristics of rosuvastatin and ezetimibe, their lipid-lowering and pleiotropic effects, as well as the clinical effects of the fixed dose combination of these drugs when used to treat dyslipidemia.Expert opinion: The rosuvastatin/ezetimibe combination is safe and effective in patients with hypercholesterolemia or dyslipidemia with or without diabetes and with or without cardiovascular disease. This drug combination enabled higher pr",
+        "journal": "Expert review of cardiovascular therapy",
+        "year": "2021",
+        "authors": [
+          "Boutari Chrysoula",
+          "Karagiannis Asterios",
+          "Athyros Vasilios G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticholesteremic Agents",
+          "Drug Therapy, Combination",
+          "Dyslipidemias",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Rosuvastatin Calcium",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34102931/"
+      },
+      {
+        "pmid": "12437505",
+        "title": "Ezetimibe.",
+        "abstract": "Ezetimibe is a cholesterol absorption inhibitor that significantly lowers low- density lipoprotein cholesterol (LDL-C), and favourably affects triglyceride and high-density lipoprotein cholesterol blood levels in monotherapy and in combination with statins. Hepatic and extrahepatic (peripheral) cholesterol synthesis are well-known sources of cholesterol found in LDL-C. However, the emergence of ezetimibe has highlighted intestinal cholesterol absorption as an additional, important source of cholesterol in LDL-C, and has better illuminated how genetic factors, dietary content, pharmaceutical agents, and nuclear receptor activation (such as liver X receptors) all influence the relative contribution of these important cholesterol sources to LDL-C. In fact, investigations into ezetimibe have sometimes challenged existing scientific dogma, has prompted reconsideration of older data, and has helped create 'new' paradigms in cholesterol metabolism. Thus, ezetimibe's efficacy, excellent tolera",
+        "journal": "Expert opinion on investigational drugs",
+        "year": "2002",
+        "authors": [
+          "Bays Harold"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Ezetimibe",
+          "Humans",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12437505/"
+      },
+      {
+        "pmid": "28087743",
+        "title": "Updates on prevention: obesity, ezetimibe, PCSK9, and HIV infection.",
+        "abstract": "",
+        "journal": "European heart journal",
+        "year": "2016",
+        "authors": [
+          "Lüscher Thomas F"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Introductory Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Anticholesteremic Agents",
+          "Body Mass Index",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Ezetimibe",
+          "HIV Infections",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28087743/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:01:04.961830",
+  "success": true,
+  "error_message": null
+}

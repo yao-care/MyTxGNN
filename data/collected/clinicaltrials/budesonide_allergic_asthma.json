@@ -1,0 +1,473 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "allergic asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02352168",
+      "title": "To Evaluate Airway Inflammation in Children With Allergic Rhinitis and To Examine the Effects of Nasal Corticosteroids Therapy on Lower Airway Inflammation of Rhinitis.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-09",
+      "completion_date": "2015-10",
+      "country": "China",
+      "enrollment": 68,
+      "brief_summary": "The purpose of this study is to determine whether treating upper airway with intranasal corticosteroids in children with allergic rhinitis and no asthma may bring favors in reducing lower airway inflammation and improving small airway function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical diagnosis of allergic rhinitis without asthma\n* sensitized to more than 1 common aeroaller¬gens\n* FeNO \\>20ppb and/or induced sputum Eosinophil\\>2.5%\n\nExclusion Criteria:\n\n* Respiratory infection 2 weeks prior to initial visit\n* children with nasal polyposis\n* History",
+      "endpoints": [
+        "Change from baseline fractional exhaled nitric oxide (FeNO) at 3 months",
+        "Change from baseline eosinophils in sputum at 3 months"
+      ],
+      "sponsor": "Guangzhou Institute of Respiratory Disease",
+      "url": "https://clinicaltrials.gov/study/NCT02352168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04561687",
+      "title": "Comparison of Montelukast and Azelastine in Treatment of Moderate to Severe Allergic Rhinitis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-01-16",
+      "completion_date": "2021-12-15",
+      "country": "Iran",
+      "enrollment": 66,
+      "brief_summary": "Comparison of Montelukast and Azelastine In treatment of Allergic Rhinitis Allergic intent is one of the most common diseases of the respiratory system that has a devastating effect on the quality of life. The importance of studying this disease can be seen from the high prevalence of this diseas. In addition to the high prevalence, due to the reducing effect of this disease on the economy and academic performance of patients, a great burden is imposed by this disease on the country's health car",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 6-50years\n* Moderate to severe allergic rhinitis\n\nExclusion Criteria:\n\n* Under any treatment\n\n  * Drug sensitivity",
+      "endpoints": [
+        "Change in Sino-Nasal Outcome Test scores (SNOT-22)"
+      ],
+      "sponsor": "Shiraz University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04561687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03468790",
+      "title": "A Multi-centre, Randomized, Double-blind, Placebo-controlled Phase III Study to Evaluate the Efficacy and Safety of Anti-IgE Monoclonal Antibody to Treat Allergic Asthma Patients Not Adequately Controlled Despite Med/High ICS/LABA.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-05-09",
+      "completion_date": "2021-03-09",
+      "country": "China",
+      "enrollment": 393,
+      "brief_summary": "This is a multi-centre, randomized, double-blind，placebo parallel-controlled phase III study to evaluate the efficacy and safety of CMAB007 (recombinant humanized anti-immunoglobulin E(IgE) monoclonal antibody for injection) to treat asthma patients who remain not adequately controlled despite Med/high ICS plus LABA in China. Following a screening period of up to 2 weeks and run-in period of 4 weeks, randomized patients will enter a 24-week treatment period with CMAB007 or placebo. Efficacy and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed and dated informed consent prior to any study assessment;\n2. Age 15-75 years inclusive, female or male;\n3. Diagnosed as asthma according to the guideline for the prevention and treatment of bronchial asthma in China (version 2016), with duration for more than 1 years;\n",
+      "endpoints": [
+        "the mean number of asthma exacerbations per patient during the 24-week treatment period"
+      ],
+      "sponsor": "Shanghai Biomabs Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03468790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01821898",
+      "title": "Eosinophilic Esophagitis Clinical Therapy Comparison Trial",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-07-09",
+      "completion_date": "2018-09-24",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Eosinophilic Esophagitis (EoE) is a disorder in which a type of white blood cell (eosinophil) involved in allergic reactions, enter and cover the walls of the esophagus (food pipe). As a result, the esophagus becomes swollen and blocked making it difficult to swallow, and this leads to heartburn. In severe cases it can lead to food getting stuck in the esophagus and poor growth or weight loss in children\n\nThe main purpose of this research study is to compare the effectiveness of two different ty",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Signed written informed consent and assent if applicable prior to performing any study specific procedure.\n2. Male or female subjects aged 3-17 years old.\n3. Diagnosis of EoE within 2 months of enrollment (greater than or equal to 15 eosinophils per high powered field in both ",
+      "endpoints": [
+        "Peak Number of Eosinophils/High Powered Field"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01821898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01225549",
+      "title": "A Double-blind, Double-dummy, Randomised, Placebo-controlled, 4-way, Crossover, Multi-centre Phase II Study With Budesonide as an Active Control to Evaluate the Efficacy and Safety of 2 Doses of Inhaled AZD5423 Over 7 Days in Patients With Mild Allergic Asthma Challenged With an Inhaled Allergen",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2011-12",
+      "country": "Canada",
+      "enrollment": 27,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of AZD5423 in patients with mild asthma challenged with an inhaled allergen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-60 years of age\n* Pre-bronchodilatory FEV1 ≥70% of predicted normal allergic asthmatic with a history of episodic wheeze\n* Positive allergen induced early and late airway bronchoconstriction showing ≥ 20% fall in FEV1 for the early and ≥ 15% for the late response\n* Positive",
+      "endpoints": [
+        "Late Allergic Response (LAR) by Assessment of Minimum Percentage of FEV1 3-7 Hours Post Allergen Challenge Compared to Pre Allergen Challenge FEV1"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01225549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00288379",
+      "title": "A Comparative, Placebo-controlled, Double Blind, Double Dummy, Cross-over, Single Centre, Phase IIIb Study Between Formoterol Alone (Oxis® Turbuhaler® 4.5 µg) and the Fixed Combination of Formoterol and Budesonide (Symbicort® Turbuhaler®160/4.5 µg) on Airway Responsiveness and Airway Inflammation Induced by Repeated Low-dose Allergen Challenge in Allergic Patients With Mild Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2006-05",
+      "country": "Sweden",
+      "enrollment": 16,
+      "brief_summary": "To compare the effects of formoterol alone (Oxis® TurbuhalerÒ) and the fixed combination of formoterol and budesonide (Symbicort® TurbuhalerÒ) on airway responsiveness as a marker of inflammation, induced by repeated low-dose allergen challenge in allergic patients with mild asthma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosed history of asthma for at least 6 months\n* Mild and stable asthma, only using β2-agonists as needed for the last 4 weeks.\n* FEV1 \\>70% of predicted normal value (post-bronchodilator value).\n* Skin prick test positive to pollen, animal dander or house dust mite.\n\nExc",
+      "endpoints": [
+        "PD20 methacholine (measured as the change using the measurement before and after each treatment period)."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00288379"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00641979",
+      "title": "A Multi-center, Double-blind, Randomized, Placebo-controlled, Parallel-group Study to Assess the Efficacy, Safety, and Functionality of a New Nasal Device With Reformulated Rhinocort Aqua (Budesonide) Versus the Current Product and Versus Placebo in Subjects With Seasonal Allergic Rhinitis (SAR).",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2002-08",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to compare the efficacy of once daily dosing with Rhinocort Aqua (new formulation) against Rhinocort Aqua (current formulation) and placebo in reliving the symptoms of seasonal allergic rhinitis (SAR).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In the opinion of the investigator, is a candidate for treatment with nasal steroids based on a history of either a) inadequate control of symptoms with antihistamines, decongestants and/or immunotherapy, or b) prior successful treatment with nasal steroids.\n* A documented his",
+      "endpoints": [
+        "Assessment of Total Nasal Symptom scores (Rhinorrhea, Congestion, Itching & Sneezing)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00641979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04680117",
+      "title": "Defining the Severe Paediatric Asthma Endotype: an Integrated Approach Combining Phenotypic Analyses Related to Immune, Metabolomics and Microbial Features",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-06-15",
+      "completion_date": "2025-01",
+      "country": "France",
+      "enrollment": 150,
+      "brief_summary": "The primary objective of this project is to extensively characterize the endotypes of pre-schoolers (0 to 6 years) and school-age children (6 to 12 years) with SA using an integrated approach, combining a description of their phenotype (asthma symptoms, atopy, and lung function) associated with histological (airway inflammation and remodelling), immune (innate and adaptive immunity), metabolomics, and microbiota analyses. This goal shall be achieved by an unsupervised in-depth analysis of patien",
+      "eligibility_criteria": "Patient Inclusion Criteria:\n\n* Minors aged 0 to 6 years or 6 to 12 years, hospitalized for assessment of Severe Asthma\n* Minors need with his follow-up an bronchial endoscopy with realization of LBA and biopsies of bronchial mucosa\n* Social insurance affiliation, except AME\n* Parents or legal guardi",
+      "endpoints": [
+        "Description of the environment and smoke exposure",
+        "Description of family atopy status",
+        "Description of Demographics"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04680117"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00490243",
+      "title": "A Randomized, Double-Blind Trial of the Effect of Different Anti-Asthmatic Treatments on Lung Function and on Exercise-Induced Bronchoconstriction in Children With Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2006-10",
+      "country": "Poland",
+      "enrollment": 150,
+      "brief_summary": "The present study was conducted to determine the effects of four week treatment with budesonide, montelukast, budesonide with montelukast and budesonide with formoterol in children with atopic asthma on lung function: forced expiratory volume in one second, mid-expiratory flow, peak expiratory flow rate, resistance by the interrupter technique, plethysmographic specific airway resistance, exercise-induced bronchial hyperreactivity and clinical symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female outpatients\n* Aged 6 to 18 with a clinical diagnosis of bronchial asthma with a duration of at least 6 months before the first visit and with current history of moderate persistent asthma\n* Sensitive to house dust mites as shown by positive skin-prick tests to ",
+      "endpoints": [
+        "FEF25-75%, Rint, sRaw, FEV1, PEFR, maximum percentage fall in FEV1 after exercise test, the area under the curve (AUC) for the FEV1 values over the 20-min period from exercise"
+      ],
+      "sponsor": "Medical University of Lodz",
+      "url": "https://clinicaltrials.gov/study/NCT00490243"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06858423",
+      "title": "Budesonide Nasal Irrigation Versus Fluticasone Propionate Nasal Spray in the Treatment of Adult Patients With Allergic Rhinitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-08-15",
+      "completion_date": "2024-05-31",
+      "country": "Egypt",
+      "enrollment": 360,
+      "brief_summary": "Budesonide is a medication of the corticosteroid type. Available as an inhaler, nebulization solution, The inhaled form is used in the long-term management of asthma and chronic obstructive pulmonary disease is used for allergic rhinitis and nasal polyps fluticasone propionate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult age between 18 and 60 years old.\n* Patients with allergic rhinitis evidence by past skin prick testing. Patients were given a skin prick test with a panel of dog, cat, Dermatophagoides farinae, D pteronyssinus, Alternaria, Penicillium, Hormodendron, Aspergillus, grass po",
+      "endpoints": [
+        "Clinical improvement"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT06858423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00633919",
+      "title": "A Randomised, Double-blind, Placebo-controlled Trial Assessing the Efficacy of SLITone in House Dust Mite Allergic Patients",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2009-02",
+      "country": "Spain",
+      "enrollment": 124,
+      "brief_summary": "This trial has been designed to evaluate the efficacy of specific immunotherapy with SLITone Dermatophagoides mix compared with placebo in subjects with house dust mite allergic asthma, based on asthma medication use during a period of 2 months with a high environmental exposure to mites (autumn 2008).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A clinical history of house dust mite induced persistent mild to moderate. asthma, with or without concurrent rhinoconjunctivitis, of at least 1 year of evolution.\n* Demonstration of a positive specific serum IgE test to Dermatophagoides during the year prior to the screening ",
+      "endpoints": [
+        "Average Daily Asthma Medication Score During a 2-months Evaluation Period in Autumn 2008"
+      ],
+      "sponsor": "ALK-Abelló A/S",
+      "url": "https://clinicaltrials.gov/study/NCT00633919"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06573164",
+      "title": "The Clinical Indexes and Efficacy of Qi-pian in Patients With Allergic Rhinitis With or Without Asthma",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-01-01",
+      "completion_date": "2024-07-31",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "Allergic rhinitis and asthma are common respiratory diseases. Qipian® is a Chinese medicine made from three types of bacteria, used to treat these conditions. This study will retrospectively analyze the effects of adding Qipian® to the regular treatment for patients with allergic rhinitis, with or without asthma. Patients meeting the Allergic Rhinitis and its Impact on Asthma（ARIA） and Global Initiative for Asthma（GINA） diagnostic criteria were divided into two groups: one receiving standard dru",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with rhinitis who meet the ARIA (Allergic Rhinitis and Its Impact on Asthma) guidelines.\n* Patients with asthma who meet the GINA (Global Initiative for Asthma) guidelines.\n\nExclusion Criteria:\n\n* Patients undergoing combined dust mite-specific immunotherapy\n* Patient",
+      "endpoints": [
+        "Total Nasal Symptom Score (TNSS)",
+        "Asthma Control Test（ACT）",
+        "Concentration of immunoglobulin E (IgE)"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT06573164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04607629",
+      "title": "A Comparative Study of Efficacy and Safety of Genolar® and Xolar® in Treating Patients With Moderate to Severe Persistent Atopic Bronchial Asthma Inadequately Controlled With Stage 4 GINA (2017) Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-06-20",
+      "completion_date": "2019-12-13",
+      "country": "Russia",
+      "enrollment": 192,
+      "brief_summary": "This is a randomized, double-blind, comparative, parallel-group study of the efficacy and safety of Genolar® and Xolair® in the treatment of persistent atopic bronchial asthma of moderate and severe course, whose symptoms are insufficiently controlled by the 4-step treatment GINA (2017)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women of the ages between 18 and 75 at the time of the Informed Consent Form signature.\n2. A documented diagnosis of bronchial asthma for ≥1 year before the Screening;\n3. 4th stage of asthma treatment according to GINA (2017) ≥2 months before the Screening;\n4. The FEV",
+      "endpoints": [
+        "Patients proportion with an investigator rating \"excellent\" or \"good\" on the Global Evaluation of Treatment Effectiveness (GETE) scale after 26 weeks of comparative treatment"
+      ],
+      "sponsor": "AO GENERIUM",
+      "url": "https://clinicaltrials.gov/study/NCT04607629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06126692",
+      "title": "3TR Asthma Biologics Cohort (ABC) Study - A Part of the 3TR (Taxonomy, Treatment, Targets and Remission) Consortium for the Identification of the Molecular Mechanisms of Non-response to Treatment, Relapses, and Remission in Autoimmune, Inflammatory, and Allergic Conditions",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-01-10",
+      "completion_date": "2033-08",
+      "country": "Denmark, Netherlands",
+      "enrollment": 600,
+      "brief_summary": "The 3TR-ABC study is a multicentre observational prospective cohort study platform that follows patients with severe asthma from the start of biological therapy and three years onwards. In the 3TR-ABC platform, individual studies are conducted on specific biologics, using aligned study designs. The aim of the study is to assess response to treatment and examine clinical characteristics, biomarkers, and immunological mechanisms related to response, including remission and non-response, that might",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with severe asthma that requires High dose ICS (corresponding to minimum 1600 micrograms Budesonide per day) + either LABA, LTRA, or LAMA OR Fixed Prednisolone treatment (OCS) minimum 50% of the time. Minimum 2 exacerbations in the last year or fixed Prednisolone trea",
+      "endpoints": [
+        "Change in Asthma Control Questionnaire 5 (ACQ-5) score",
+        "Change in post- broncodilator Forced Expiratory Volume after 1 second (FEV1)",
+        "Absense of exacerbations"
+      ],
+      "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+      "url": "https://clinicaltrials.gov/study/NCT06126692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00716963",
+      "title": "Does a Lipophilic Steroid Inhaled After an Early Allergic Reaction Affect the Late Reaction?",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2008-12",
+      "country": "Canada",
+      "enrollment": 7,
+      "brief_summary": "The investigators propose a 3-treatment, placebo-controlled, double-dummy, double-blinded, randomized, crossover study in which single doses of placebo, will be compared to Fluticasone propionate (Flovent Diskus) 250 mcg and budesonide 400 mcg administered after allergen challenge, at cessation of the early allergic reaction (at 20% fall in FEV1 from post-allergen peak)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* mild asthma\n* nonsmokers\n* allergen-induced early and late asthmatic response\n\nExclusion Criteria:\n\n* no medication other than infrequent ( \\< twice weekly) inhaled beta2-agonists\n* not be exposed to sensitizing allergens\n* asthma exacerbation or respiratory tract infection in",
+      "endpoints": [
+        "The Magnitude of the Early Asthmatic Response, Expressed as a Percentage Change in FEV1.",
+        "The Magnitude of the Late Asthmatic Response, Expressed as a Percentage Change in FEV1."
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT00716963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01976208",
+      "title": "A Multicenter, Randomized, Double-blinded, Placebo-controlled Clinical Study to Evaluate the Safety and Efficacy of Recombinant Humanized Anti-IgE Monoclonal Antibody Injection(Omalizumab) in Patients With Allergic Asthma",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2015-12",
+      "country": "China",
+      "enrollment": 630,
+      "brief_summary": "The primary purpose is to evaluate the safety and efficacy of recombinant humanized anti-IgE monoclonal antibody injection in patients with allergic asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 15\\~65 years\n* Written informed consent provided\n* Total serum IgE \\>=60IU/ml\n* Duration of allergic asthma \\>= 1 year according to GINA(2008)\n* Poor response to moderate to high dose inhaled corticosteroid (400ug/day\\~800ug/day) \\>= 4 weeks\n* Agreed to be ",
+      "endpoints": [
+        "The proportion of patients with asthma exacerbation"
+      ],
+      "sponsor": "Shanghai Zhangjiang Biotechnology Limited Company",
+      "url": "https://clinicaltrials.gov/study/NCT01976208"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01839851",
+      "title": "Evaluation of Hair Cortisol in Patients With Asthma or Allergic Rhinitis Treated With Topical (Inhaled or Intranasal) Corticosteroids",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2013-05",
+      "completion_date": "2014-12",
+      "country": "Israel",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to prospectively examine the relation between topical corticosteroid use and hair cortisol concentration, among patients with moderate persistent asthma or allergic rhinitis. The investigators hypothesize that patients with asthma or allergic rhinitis treated with topical corticosteroids (i.e. inhaled corticosteroids (ICS) or intranasal glucocorticoids (INGC)) have higher levels of hair cortisol after 3 months of treatment than during the 3 months prior to initiation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 18 years or older\n* Diagnosis of asthma or allergic rhinitis, or both.\n* Planned initiation of treatment with ICS and/or INGC at study recruitment, according to routine clinical practice\n\nExclusion Criteria:\n\n* Use of inhaled, systemic or topical corticosteroids at stud",
+      "endpoints": [
+        "Change in concentration of hair cortisol under topical corticosteroid treatment"
+      ],
+      "sponsor": "Meir Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01839851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03755557",
+      "title": "Demonstration of Therapeutic Equivalence/Non-inferiority as Well as Early Onset of Action of the Novel Water-soluble Budesonide Nasal Spray (Budesolv 10) Compared With Marketed Rhinocort® Aqua 64 in Patients Suffering From Grass Pollen Induced Allergic Rhinitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-11-19",
+      "completion_date": "2019-04-05",
+      "country": "Austria",
+      "enrollment": 82,
+      "brief_summary": "Intranasal corticosteroids are accepted as safe and effective first-line therapy for allergic rhinitis, especially in treatment of persistent symptoms.\n\nBudesonide, a non-halogenic glucocorticoid, is widely used in the management of inflammatory mucosal diseases like chronic obstructive pulmonary disease, asthma and allergic rhinitis. It is a highly fat-soluble substance with low water solubility and is presented as dispersion in marketed nasal sprays, like Rhinocort aqua 64. The maximum therape",
+      "eligibility_criteria": "Inclusion criteria\n\nA subject will be eligible for inclusion in this study only if all of the following criteria apply:\n\n* Written informed consent obtained before any trial related procedures are performed\n* Healthy male or female subjects aged 18 years or older\n* Female subjects of child-bearing p",
+      "endpoints": [
+        "Total Nasal Symptom Score"
+      ],
+      "sponsor": "Marinomed Biotech AG",
+      "url": "https://clinicaltrials.gov/study/NCT03755557"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06535087",
+      "title": "The Impact of Airway Allergic Diseases on the Health-related Quality of Life of Children and Their Parents (Caregivers): A Prospective Controlled Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-07-20",
+      "completion_date": "2027-05-31",
+      "country": "China",
+      "enrollment": 600,
+      "brief_summary": "This prospective observational study aims to assess the health-related quality of life (HRQoL) of 200 children (ages 5-16) with bronchial asthma, allergic rhinitis, or both, and their 200 parents, comparing 100 children receiving specific immunotherapy with 100 receiving routine treatment. Using EQ-5D-Y(EuroQol five dimensions questionnaire, youth version), disease-specific scales, and newly developed Chinese versions of EQ-5D-Y and EQ-HWB-S (EuroQol health and well-being questionnaire, short ve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children:\n\n   1. Aged 5-16 years;\n   2. Diagnosed with bronchial asthma, allergic rhinitis, or both (persistent, duration ≥4 weeks) by a respiratory or allergy specialist;\n   3. Guardian has signed the informed consent form;\n   4. Able to understand and complete the questionn",
+      "endpoints": [
+        "Asthma control level for asthmatic children",
+        "Severity assessment of allergic rhinitis",
+        "EQ-5D-Y-3L for assessing health-related quality of life"
+      ],
+      "sponsor": "RenJi Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06535087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01857479",
+      "title": "A Randomized Controlled Trial of Inhaled Amphotericin B for Maintaining Remission in Allergic Bronchopulmonary Aspergillosis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2015-06",
+      "country": "India",
+      "enrollment": 21,
+      "brief_summary": "Inhaled amphotericin, a antifungal drug would decrease Aspergillus colonization and decrease the occurrence of exacerbations of Allergic Bronchopulmonary Aspergillosis (ABPA).",
+      "eligibility_criteria": "Inclusion Criteria: ABPA in remission defined as follows:\n\n1. Age 12-65 years\n2. Diagnosis of ABPA in the Chest Clinic\n3. Received glucocorticoids for management of ABPA according to the Chest clinic protocol (0.5 mg/kg/day for 4 weeks, 0.25 mg/kg/day for 4 weeks, 0.125 mg/kg/day for 4 weeks, subseq",
+      "endpoints": [
+        "Time to first relapse"
+      ],
+      "sponsor": "PIMERIndia",
+      "url": "https://clinicaltrials.gov/study/NCT01857479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01028560",
+      "title": "Efficacy of Allergy Immunotherapy in Preventing Asthma Morbidity in Atopic, Wheezing Children (Age 18 Months - 3 Years)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-10",
+      "completion_date": "2015-04",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "In this clinical study we aim to determine the effect of allergy immunotherapy in decreasing asthma and allergy related disease in children who had multiple episodes of wheezing and who are at high risk for developing persisting asthma. These risks include a history of asthma in the parents, allergies to environmental allergens (such as dust mite, cockroach or mouse) and other allergic diseases such as eczema or food allergies. Allergy Immunotherapy is not new and has been practiced for many yea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children between 18 months through 3 years who had at least 2 episodes of wheezing prior to enrolment.\n* Positive skin tests or specific Immunoglobulin E (IgE) antibody titers to at least one of common airborne allergens: Dust Mite, cat, cockroach, mouse, dog, pollen (all alle",
+      "endpoints": [
+        "Asthma Severity as Measured by the Asthma Severity Score (Averaged up to 36 Months)"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01028560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07352488",
+      "title": "Effect of Modified Shenling Baizhu Powder on Allergic Asthma With Spleen Deficiency and Dampness Accumulation Syndrome: A Multicenter, Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-15",
+      "completion_date": "2028-03-31",
+      "country": "China",
+      "enrollment": 400,
+      "brief_summary": "Allergic asthma is a common allergic disease characterized by a protracted disease course and recurrent episodes, which severely impairs patients' physical and mental health. There is a paucity of high-quality clinical evidence in the treatment of allergic asthma with traditional Chinese medicine (TCM). This study will enroll patients who are persistent allergic asthma with spleen deficiency and dampness accumulation syndrome. A multicenter, randomized, double-blind, placebo-controlled trial des",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are persistent allergic asthma.\n* Patients who meet the diagnostic criteria for the spleen deficiency and dampness accumulation syndrome.\n* Patients who are aged between 18 and 80 years.\n* Patients who voluntarily accept the treatment and sign the informed consent",
+      "endpoints": [
+        "Asthma Control Test scores"
+      ],
+      "sponsor": "Henan University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT07352488"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03141424",
+      "title": "Periostin-guided Withdrawal of Inhaled Corticosteroids in Patients With Non-eosinophilic Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-06-01",
+      "completion_date": "2024-10-25",
+      "country": "Denmark",
+      "enrollment": 20,
+      "brief_summary": "Background: Asthma is a common chronic condition characterized by respiratory symptoms and hyperresponsive airways. According to treatment guidelines, patients with persistent asthma require daily treatment with inhaled corticosteroids (ICS). However, certain subgroups of asthma patients such as non-eosinophilic asthma patients do not respond well to the ICS treatment. In the present study, asthma patients treated with ICS and exhibiting low levels of eosinophilic biomarkers such as S-periostin,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Astma patients followed in the Respiratory Outpatient Ward, Hvidovre Hospital, Amager Hospital or Glostrup Hospital.\n* At least one of the following test suggestive for asthma, performed at any time during the outpatient course: 1) FEV1-reversibility on at least 12% and 200 ml",
+      "endpoints": [
+        "Change in Control Questionnaire (ACQ) from baseline to post-tapered ICS",
+        "Time from baseline to drop-out"
+      ],
+      "sponsor": "Hvidovre University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03141424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03788395",
+      "title": "The Use of an Innovative Device for Therapeutic Adherence in Pediatric Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-10",
+      "completion_date": "2020-01-23",
+      "country": "Italy",
+      "enrollment": 18,
+      "brief_summary": "The management of chronic diseases requires a constant monitoring of treatment adherence, in order to obtain an optimal disease control. However, this is often difficult to achieve, especially in pediatric age.\n\nIn this sense, for asthmatic patients treated by Symbicort Turbohaler, \"AstraZeneca\" developed the \"Turbo+\", an electronic device attached to the Turbohaler, which allows to feel whether the patient does the inhalation, and to register it on a specific application.\n\nThe present randomize",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- uncontrolled mild or moderate persistent asthma;\n\nExclusion Criteria:\n\n* acute upper respiratory infections;\n* immunological or metabolic systemic disease;\n* major malformations of the upper airways;\n* active smokers.",
+      "endpoints": [
+        "Medication Adherence Rating Scale (MARS)"
+      ],
+      "sponsor": "Istituto per la Ricerca e l'Innovazione Biomedica",
+      "url": "https://clinicaltrials.gov/study/NCT03788395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07114107",
+      "title": "Evaluation of the Efficacy and Safety of Vibroacoustic Therapy With Oscillating Positive Expiratory Pressure in the Treatment of Nasal Congestion: A Randomized, Double-Blind, Placebo-Controlled Parallel-Group Clinical Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-08",
+      "completion_date": "2026-05",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "This is a prospective study. It enrolls subjects with allergic rhinitis, with or without asthma, who have nasal congestion as the main symptom and meet the inclusion criteria, aiming to evaluate the efficacy and safety of acoustic vibration combined with an oscillating positive expiratory pressure device in the treatment of patients with nasal congestion. On the premise that subjects agree to use basic medications (antihistamines, mometasone furoate nasal spray, ICS-LABA), they are instructed to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged 12-50 years at the time of signing the informed consent form, regardless of gender; Meeting the guideline diagnostic criteria for allergic rhinitis with or without asthma; Presenting with significant nasal congestion for at least 1 week, with or without asthma, a",
+      "endpoints": [
+        "Peak Nasal Inspiratory Flow (PNIF)"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT07114107"
+    }
+  ],
+  "timestamp": "2026-03-04T15:09:10.403387",
+  "success": true,
+  "error_message": null
+}

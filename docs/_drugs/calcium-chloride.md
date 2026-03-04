@@ -6,7 +6,7 @@ drug_name: "Calcium Chloride"
 kg_predictions: 80
 dl_predictions: 16
 evidence_level: "L1"
-indication_count: 80
+indication_count: 5
 brands: []
 permalink: /drugs/calcium-chloride/
 ---

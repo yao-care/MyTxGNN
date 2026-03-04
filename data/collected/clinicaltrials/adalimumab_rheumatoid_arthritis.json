@@ -1,0 +1,937 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "rheumatoid arthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03775824",
+      "title": "Faecal Analyses in Rheumatoid Arthritis Therapy: An Prospective Observational Study of the Intestinal Microbiome in Patients With Rheumatoid Arthritis Receiving Immunosuppressive Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-08-01",
+      "completion_date": "2019-06-01",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "This study evaluates the intestinal microbiome and disease activity in patients with rheumatoid arthritis receiving immunosuppressive therapy. Patients will be analysed at two time points in reference to two predefined primary endpoints:\n\n* Changes in intestinal microbiome\n* Response to therapy\n\nThe investigators want to evaluate if successful treatment of rheumatoid arthritis coincide with specific changes in the gut flora.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Rheumatoid arthritis according to the 2010 classification criteria\n* About to start methotrexate or TNF-inhibitor because of active disease\n\nExclusion Criteria:\n\n* Failure to understand protocol\n* A history of alcohol abuse\n* Concomitant inflammatory bowel disease\n* Any histor",
+      "endpoints": [
+        "Intestinal gut flora in rheumatoid arthritis",
+        "Change in gut flora",
+        "Change in disease activity/treatment response at follow up"
+      ],
+      "sponsor": "Region Skane",
+      "url": "https://clinicaltrials.gov/study/NCT03775824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00929864",
+      "title": "A Randomized, Head-to-Head, Single-Blind Study to Compare the Efficacy and Safety of Subcutaneous Abatacept Versus Subcutaneous Adalimumab, Both With Background Methotrexate, in Biologic-Naive Subjects With Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2012-11",
+      "country": "Chile, Peru, Canada, Argentina, United States",
+      "enrollment": 869,
+      "brief_summary": "The purpose of this study is demonstrate that subcutaneous abatacept is non-inferior (no worse than) to subcutaneous adalimumab in the treatment of subjects with rheumatoid arthritis who are biologic naive",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Moderate to severe Rheumatoid arthritis (RA) according to American College of Rheumatology (ACR) criteria\n* Methotrexate failure\n* Naive to RA biologics\n* ≤5 years duration of disease\n* Disease Activity Score-28 C-reactive protein (DAS28 CRP) ≥ 3.2\n* Willingness to self-inject",
+      "endpoints": [
+        "The Proportion of Participants Meeting the American College of Rheumatology (ACR) Criteria of 20% Improvement (ACR20) After 12 Months of Treatment - Intent to Treat Population"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00929864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03983876",
+      "title": "Multi-center, Randomized, Open-Label, 2-Arm Parallel Study to Compare the Pharmacokinetics, Safety and Tolerability of AVT02 Administered Subcutaneously Via Prefilled Syringe or Autoinjector in Healthy Adult Volunteers (ALVOPAD PEN)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-07-01",
+      "completion_date": "2019-12-03",
+      "country": "New Zealand",
+      "enrollment": 207,
+      "brief_summary": "This study has been designed as a multicentre, randomised, open label study of AVT02 in healthy adult subjects. The study will assess the PK, safety and tolerability of AVT02 in Pre-Filled Syringe compared to AVT02 in Autoinjector Pen. Both arms will use single dose of 40mg of AVT02 (Adalimumab)",
+      "eligibility_criteria": "Inclusion Criteria:To be eligible for study entry, subjects must satisfy all of the following criteria:\n\n* Male or female healthy adult subjects willing to sign a patient information and consent form (PICF) and able to undergo protocol related procedures;\n* Age: 18 to 55 years, inclusive;\n* Body Mas",
+      "endpoints": [
+        "Area under the plasma concentration-time curve AUC0-t",
+        "Area under the plasma concentration-time curve AUC0-inf",
+        "Maximum serum concentration"
+      ],
+      "sponsor": "Alvotech Swiss AG",
+      "url": "https://clinicaltrials.gov/study/NCT03983876"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03915964",
+      "title": "A Randomized, Active-Controlled, Parallel-Group, Phase 3b/4 Study of Baricitinib in Patients With Rheumatoid Arthritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-04-25",
+      "completion_date": "2025-05-28",
+      "country": "Spain, Puerto Rico, Switzerland, Russia, Belgium, Turkey (Türkiye), Hungary, Slovakia, Germany, Australia, Romania, Lithuania, Israel, South Africa, Greece, Austria, Poland, United States, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 2663,
+      "brief_summary": "This post-marketing study is designed to compare the safety of baricitinib versus tumor necrosis factor (TNF) inhibitors with respect to venous thromboembolic events (VTEs) when given to participants with rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have at least one of the following characteristics:\n\n  * Documented evidence of a VTE prior to this study\n  * At least 60 years of age\n  * A body mass index (BMI) greater than or equal to 30 kilograms per meter squared (kg/m²), or\n  * Age 50 to less than 60 y",
+      "endpoints": [
+        "Time from First Dose of Study Treatment to First Event of Venous Thromboembolism (VTE)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT03915964"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05598684",
+      "title": "Assessment of Predictive Factors for Persistence of Treatment After Initiation of Adalimumab With a Biosimilar (Adalimumab Fresenius KaBI or Substitution of Reference Adalimumab With the Fresenius Kabi Adalimumab Biosimilar in Patients With Chronic Inflammatory Diseases",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-11-24",
+      "completion_date": "2025-12-30",
+      "country": "Guadeloupe, France, Martinique",
+      "enrollment": 600,
+      "brief_summary": "A prospective, longitudinal, multicentre, observational cohort follow-up study conducted in France.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient aged 18 years or over\n* Patient who have been informed of the objectives and the conditions of the study and who did not object to its participation\n* Patient diagnosed with one chronic inflammatory rheumatological (rheumatoid arthritis, ankylosing spondylitis, psoriat",
+      "endpoints": [
+        "Persistence of the biosimilar",
+        "Discontinuation of the biosimilar"
+      ],
+      "sponsor": "Fresenius Kabi, France",
+      "url": "https://clinicaltrials.gov/study/NCT05598684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01640548",
+      "title": "A Retrospective Chart Review on the Use of Biologics in Monotherapy for the Treatment of Patients With Rheumatoid Arthritis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2013-06",
+      "country": "United Kingdom",
+      "enrollment": 320,
+      "brief_summary": "This non-interventional, retrospective, cross sectional chart review study will evaluate the management of rheumatoid arthritis patients with a biologic in monotherapy. Data from eligible patients will be collected from the patient's last visit on the prior rheumatoid arthritis treatment and from the most recent visit for the biological monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>/= 18 years of age\n* Diagnosis of rheumatoid arthritis by a Rheumatologist\n* Patient being prescribed with a biologic in monotherapy\n\nExclusion Criteria:\n\n* N/A",
+      "endpoints": [
+        "Percentage (%) of Participants Receiving Biologic Disease Modifying Anti-Rheumatic Drugs (bDMARDs) in Monotherapy as Current Treatment for RA According to National Institute for Health and Clinical Excellence (NICE) Guidelines by Type of bDMARD",
+        "Percentage of Participants Treated With Traditional DMARDs as Their Previous Treatment for RA by Type of DMARD",
+        "Percentage of Participants With bDMARD and Concomitant Traditional DMARD Regimen as Previous RA Treatment at Anytime Prior to Switch to bDMARD Monotherapy by Type of bDMARD"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01640548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02353780",
+      "title": "Mechanistic Studies of B- and T-Cell Function in Rheumatoid Arthritis Patients Treated With TNF Antagonists, Tocilizumab, or Abatacept",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2015-03",
+      "completion_date": "2018-11-30",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "An Agency for Healthcare Research and Quality executive summary indicated that better comparative effectiveness trial designs are needed to determine the relative merits of existing versus new and expensive biologic drug therapies for rheumatoid arthritis (RA). There are now 9 biologic therapies approved for treating RA. Four classes of biologics (TNF antagonists, B-cell inhibitors, T-cell co-stimulator blocker, and Interleukin-6 receptor blocker) are approved for use in RA patients with moderat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of RA by a physician as defined by the 1987 and/or 2010 ACR criteria.\n* 18 years of age or less than or equal to 64 at the time of diagnosis of RA.\n* RA Disease Activity CDAI \\> 10\n* If using oral corticosteroids, must have been on stable dose (≤ 10 mg/day) for at le",
+      "endpoints": [
+        "Mechanistic Comparisons (Changes in Frequencies of Peripheral Blood Immune Cell Subsets Following Institution of a Subcutaneously Administered TNF Antagonist, Tocilizumab or Abatacept.)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT02353780"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04115423",
+      "title": "A Retrospective Cohort Study to Examine the Risk of Serious Infections in Rheumatoid Arthritis Patients Receiving Tocilizumab Compared With Tumor Necrosis Factor Inhibitors Using the National Health Insurance Database",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-04-01",
+      "completion_date": "2021-10-01",
+      "country": "South Korea",
+      "enrollment": 9508,
+      "brief_summary": "The purpose of this study is to evaluate whether the risk of serious infections in rheumatoid arthritis patients with tocilizumab is higher than in those with tumor necrosis factor inhibitors using the nationwide real-world data.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals who had a diagnosis of rheumatoid arthritis (ICD-10 codes: M05-06) between 2013 and 2018\n\nExclusion Criteria:\n\n* Individuals less than 18 years of age\n* Having no records of prescription of tocilizumab or TNFi at least once between 2013 and 2018",
+      "endpoints": [
+        "Hazard ratio for serious infections"
+      ],
+      "sponsor": "Sungkyunkwan University",
+      "url": "https://clinicaltrials.gov/study/NCT04115423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04571697",
+      "title": "Comparing Rates of Dementia and Alzheimer's Disease in Patients Initiating Methotrexate Versus Those Initiating Anti-TNF-α Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-09-28",
+      "completion_date": "2020-10-27",
+      "country": "United States",
+      "enrollment": 34647,
+      "brief_summary": "The purpose of the study is to compare the risk of dementia in participants diagnosed with rheumatoid arthritis (RA) exposed to anti-tumor necrosis factor (TNF) therapy versus those exposed to methotrexate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least one claim for methotrexate or anti-TNF therapy during the study period. First medication received is the index medication, and date of first receipt is the index date\n* 365 days of continuous pre-index observation immediately prior to the index date\n* Participants hav",
+      "endpoints": [
+        "Newly Diagnosed Dementia Cases"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04571697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01101555",
+      "title": "A Randomised, Single-blind, Placebo-controlled, Study Toevaluate the Safety, Tolerability, Pharmacodynamics Andpharmacokinetics of Repeat Subcutaneous Administration Ofotelixizumab in Subjects With Rheumatoid Arthritis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-05-12",
+      "completion_date": "2012-11-29",
+      "country": "Russia",
+      "enrollment": 28,
+      "brief_summary": "This study is a randomised, single-blind, placebo-controlled, repeat dose study of otelixizumab administered subcutaneously in rheumatoid arthritis patients. One cohort will receive a single dose of adalimumab (HUMIRA, Abbott) as rescue medication to assess additional concomitant safety and tolerability issues.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA subject will be eligible for inclusion in this study only if all of the following criteria apply:\n\n1. Male or female subjects between 18 and 75 years of age inclusive.\n2. A female subject is eligible to participate if she is of:\n\n   1. Non-childbearing potential defined as pre",
+      "endpoints": [
+        "Adverse Events (AEs)",
+        "Change from baseline and number of subjects outside the normal range for blood pressure, heart rate, temperature, electrocardiography parameters (12-lead)",
+        "Change from baseline in clinical chemistry and haematology parameters"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01101555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01270035",
+      "title": "Efficacy and Safety of Adalimumab 80 mg Every Other Week With Methotrexate",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-01",
+      "completion_date": "",
+      "country": "Japan",
+      "enrollment": 40,
+      "brief_summary": "In Japan, as well as in other countries, the dose of adalimumab (ADA) is limited to 40 mg every other week when used in combination with methotrexate (MTX) for patients with rheumatoid arthritis (RA). However, ADA 80 mg with MTX may be required for some RA patients, especially for those with high disease activity. Therefore, we tried to increase the ADA dose to 80 mg every other week with concomitant MTX, only if the disease activity did not decrease below moderate activity defined by DAS28 \\< 3",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with rheumatoid arthritis receiving MTX ≧ 6 mg/week for at least 3 months disease activity : DAS28 \\> 5.1\n\nExclusion Criteria:\n\n* allergy to ADA present active infection including TB history of demyelinating disease, HBV infection and malignancy",
+      "endpoints": [
+        "The rate of achieving remission at week 30"
+      ],
+      "sponsor": "Keio University",
+      "url": "https://clinicaltrials.gov/study/NCT01270035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01077258",
+      "title": "Effectiveness and Safety of Adalimumab in Patients With Rheumatoid Arthritis in Routine Clinical Practice",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2013-02",
+      "country": "Germany",
+      "enrollment": 4208,
+      "brief_summary": "Observation of safety, tolerability and effectiveness of adalimumab (Humira) therapy in a large patient collective under everyday clinical conditions over 2 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Moderate to severe active rheumatoid arthritis in adults with insufficient response to disease-modifying antirheumatic drugs, including methotrexate\n* Moderate to severe active rheumatoid arthritis in adults who have not been treated with methotrexate before. In case of incomp",
+      "endpoints": [
+        "Change From Baseline in Disease Activity Score (DAS) 28",
+        "Percentage of Participants in DAS28 Remission"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01077258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05119452",
+      "title": "Screening for Flare After Discontinuation of Biological/Targeted Synthetic Disease Modifying Anti-rheumatic Drug (b/tsDMARD) in Rheumatoid Arthritis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-03",
+      "completion_date": "2024-09",
+      "country": "N/A",
+      "enrollment": 85,
+      "brief_summary": "To evaluate whether stringent follow-up consisting of combined laboratory and ultrasound surveillance is superior to clinical monitoring alone to maintain clinical remission in rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients with rheumatoid arthritis classified by the American College of Rheumatology/European League Against Rheumatism classification criteria\n\n* biological disease-modifying anti-rheumatic drug (bDMARD) or targeted synthetic disease-modifying anti-rheumatic drug (tsDMARD) tre",
+      "endpoints": [
+        "Proportion of subjects without a clinical flare until week 24"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT05119452"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01506661",
+      "title": "Immune Response to Varicella Zoster Vaccination (ZOSTAVAX) in Subjects With Rheumatoid Arthritis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2018-10",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Herpes Zoster (shingles) is caused by reactivation of latent varicella zoster virus (VZV) that usually occurs decades following initial exposure. The risk of developing shingles increases with age. Shingles presents as a painful, itchy blistering rash that usually involves a single portion of the skin and lasts about 7-10 days. The risk of developing shingles increases with age in healthy people, and has been shown in some studies to be increased in people with rheumatoid arthritis and other aut",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 50 years\n* Willing and able to provide written informed consent\n* History of primary varicella vaccination or positive VZV IgG antibodies\n* Diagnosis of RA according to ACR criteria for \\> 1 year, or healthy control subject\n* Stable, mild disease activity as defined by a",
+      "endpoints": [
+        "Safety and development of localized herpes zoster lesions"
+      ],
+      "sponsor": "Oklahoma Medical Research Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT01506661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01782469",
+      "title": "A Prospective, Multi-center Study in Rheumatoid Arthritis Patients on Adalimumab to Evaluate Its Effect on Synovitis Using Ultrasonography in an Egyptian Population",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2012-10",
+      "completion_date": "2014-07",
+      "country": "N/A",
+      "enrollment": 16,
+      "brief_summary": "This Post-Marketing Observational Study (PMOS) was conducted to assess the effectiveness of adalimumab on reducing synovitis (inflammation of the synovial membrane, which lines movable synovial joints, such as shoulders, elbows, wrists, knees, and hips) in adult participants with Rheumatoid Arthritis (RA) in Egypt. B-mode ultrasonography data was collected from participants receiving adalimumab treatment who had not been treated with any other anti-tumor necrosis factor (anti-TNF) therapy in the",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA patient will be enrolled in this study if he/she fulfills ALL of the following criteria:\n\n* Male or Female patients ≥ 18 years of age with diagnosis of RA\n* Patient is eligible to start adalimumab therapy according to the local product label and prescription guidelines\n* Patie",
+      "endpoints": [
+        "Mean Change in Synovitis Measured by B-modal Ultrasonography Assessment Score After 13 Weeks of Treatment With Adalimumab."
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01782469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02132234",
+      "title": "Effects of Biological Treatment on Blood Pressure and Endothelial Function in Patients With Rheumatoid Arthritis, Psoriatic Arthritis and Ankylosing Spondylitis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2013-06",
+      "completion_date": "",
+      "country": "Poland",
+      "enrollment": 100,
+      "brief_summary": "The aim of this study is to evaluate the influence of anti tumor necrosis factor-alpha (TNF-α) treatment on blood pressure, endothelial function and immune cell phenotype in patients with rheumatoid arthritis, psoriatic arthritis and ankylosing spondylitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor patients suffering from rheumatoid arthritis:\n\n* rheumatoid arthritis diagnosed based on The American Rheumatism Association Criteria from 1987\n* ineffective treatment with 2 disease-modifying antirheumatic drugs (DMARDs) for 6 months each, including treatment with maximal d",
+      "endpoints": [
+        "Change from baseline in blood pressure"
+      ],
+      "sponsor": "Jagiellonian University",
+      "url": "https://clinicaltrials.gov/study/NCT02132234"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01163292",
+      "title": "Humira 40 mg/0.8 mL Syringe for Subcutaneous Injection - Special Investigation (Follow-up Survey of the Study of Adalimumab (D2E7) for Prevention of Joint Destruction in Patients With Rheumatoid Arthritis in Japan (M06-859)]",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2012-10",
+      "country": "Japan",
+      "enrollment": 220,
+      "brief_summary": "The present survey was conducted to evaluate the effectiveness and safety of treatment with adalimumab during the 52-week period following completion of the treatment period in Study NCT00870467 (M06-859) in participants who continued treatment with adalimumab for 52 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participants were patients who continued treatment with adalimumab until the end of the treatment period in the NCT00870467(M06-859) study and provided informed consent to participate in the present follow-up survey.\n\nExclusion Criteria:\n\n* Participants who used biological",
+      "endpoints": [
+        "Disease Activity Score (DAS28)"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01163292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01692899",
+      "title": "Retention Rates of Adalimumab, Etanercept and Infliximab as First and Second-Line Biotherapy in Patients With Rheumatoid Arthritis in Daily Practice",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2011-09",
+      "country": "N/A",
+      "enrollment": 780,
+      "brief_summary": "To compare retention rates of adalimumab, etanercept and infliximab as first-line biotherapy in rheumatoid arthritis (RA), to determine causes of discontinuation, retention-associated factors, and retention rates of possible second-line tumor necrosis factor α inhibitors (TNFi).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* RA defined by the 1987 ACR criteria \\[18\\]\n* first TNFα inhibitor prescribed in the previously mentioned period\n* TNFα inhibitor prescribed as first-line biotherapy\n* undergone at least one evaluation in the center after treatment initiation\n\nExclusion Criteria:\n\n* previously ",
+      "endpoints": [
+        "Compare retention rates of adalimumab, etanercept and infliximab administered as first-line biologic therapy in RA"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01692899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00647491",
+      "title": "A Study of Adalimumab in Adult Japanese Subjects With Rheumatoid Arthritis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-08",
+      "country": "Japan",
+      "enrollment": 352,
+      "brief_summary": "The primary objective of this study is to evaluate the safety, efficacy and pharmacokinetics of three doses of adalimumab in adult Japanese subjects with RA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet ACR criteria for diagnosis of active RA and have at both screening and baseline visits \\>10 swollen joints, \\>12 tender joints.\n* Subjects must have failed prior treatment with one or more DMARDs.\n* A negative (serum) pregnancy test for all female subjects of child-bearin",
+      "endpoints": [
+        "ACR20"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00647491"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02528292",
+      "title": "Phase 4 Study of Clinical Disease Activity and Modulation of Synovial Lymphoid Structures and B Cell Function in Patients With Rheumatoid Arthritis Undergoing Treatment With Anti-TNF Therapy",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2018-04",
+      "country": "United Kingdom",
+      "enrollment": 24,
+      "brief_summary": "This study will be an open label observational prospective study assessing the clinical efficacy of antiTNFα therapy and the alteration/impact on the synovial tissue, with specific regard to lymphoid aggregation, over a period of 12 months in patients with rheumatoid arthritis.\n\nRheumatoid arthritis (RA) is one of the most important chronic inflammatory disorders in the UK. It affects approximately 1% of adults and causes considerable morbidity, substantially reduces quality of life and has a si",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 18 and ≤ 75 years of age, with RA as defined by the 1987 revised ACR classification criteria.\n* Patients must fulfill the National Institute for Clinical Excellence guidelines for TNF Blocking Therapy in RA.\n* Patients must be on MTX for at least 4 months, with",
+      "endpoints": [
+        "Correlation of change in synovial ectopic lymphoneogenesis with EULAR response criteria using DAS28"
+      ],
+      "sponsor": "Barts & The London NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT02528292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00235872",
+      "title": "Open-Label Continuous Administration Study With Adalimumab (D2E7) in Subjects With Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "",
+      "country": "Japan",
+      "enrollment": 309,
+      "brief_summary": "The purpose of the study is to assess the long-term safety and tolerability of repeated administration of adalimumab in Japanese subjects with rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participation and completion until Week 24 of the prior adalimumab dose-ranging study.\n* Females must be postmenopausal for at least 1 year, surgically sterile, or practicing birth control throughout the study and for 90 days after study completion.\n* Female subjects tested ne",
+      "endpoints": [
+        "Number of Subjects With American College of Rheumatology (ACR) Criteria Improvement Consisting of 20%, 50%, and 70% (ACR20/50/70 Responders, Respectively)"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00235872"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02451839",
+      "title": "An ObserVatIonal STudy of the Effectiveness of AdaLimumab on Health and Disability Outcomes in New Zealand Patients With Immune-Mediated InflammaTorY Diseases (VITALITY)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-07-06",
+      "completion_date": "2017-12-05",
+      "country": "N/A",
+      "enrollment": 168,
+      "brief_summary": "For public health purposes disability is becoming increasingly important as an outcome measure. Despite this, there are few data on the effectiveness of adalimumab on disability outcomes in patients with immune-mediated inflammatory diseases (IMIDs), particularly in the Phase IV setting. There are even less data available in New Zealand, which did not have the opportunity to participate to a major extent in large, multinational, Phase III pivotal studies of adalimumab in IMIDs.\n\nThe World Health",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a diagnosis of rheumatoid arthritis, Crohn's disease or psoriasis who have made a decision with their physician to commence treatment with adalimumab in accordance with routine medical practice and with the approved adalimumab New Zealand Datasheet.\n* Patients wh",
+      "endpoints": [
+        "Change From Baseline in WHODAS 2.0 Response Score at Month 6 Across All Indications"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02451839"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06527534",
+      "title": "Exploring the Effects of Filgotinib, an Oral JAK-1 Selective Inhibitor, Proteomic Profile and Micro-RNA Expression in Peripheral Blood Mononuclear Cell (PBMC) of Patients With Active Rheumatoid Arthritis (RA)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-07-15",
+      "completion_date": "2025-09-15",
+      "country": "Italy",
+      "enrollment": 30,
+      "brief_summary": "Purpose:\n\nThe study aims to investigate how Filgotinib affects proteins and micro-RNA in the blood of patients with rheumatoid arthritis. This could help understand its impact on inflammation and bone health in these patients.\n\nStudy Design:\n\nThis is a single-center, prospective randomized study.",
+      "eligibility_criteria": "Inclusion criteria\n\n* Rheumatoid arthritis (RA) according to ACR/EULAR 2010 criteria with active disease (Disease Activity Score 28-joints C-reactive protein \\[DAS28 CRP\\] \\>5.1 and/or Clinical Disease Activity Index \\[CDAI\\] \\>22)\n* Age \\> 18, \\<65 years\n* Patients for whom treatment with filgotini",
+      "endpoints": [
+        "micro RNA (miRNA)"
+      ],
+      "sponsor": "Universita di Verona",
+      "url": "https://clinicaltrials.gov/study/NCT06527534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00233558",
+      "title": "Multicentre, Randomised, Open Label Study Comparing a \"Scheduled Steroid Reduction Strategy\" Versus a Free Steroid Reduction Strategy (Physician's Usual Practice for Reducing Steroids) in Patients With Active RA Treated With Humira 40 mg Eow + MTX During 9 Months",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2005-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 160,
+      "brief_summary": "The purpose of the study is to evaluate the clinical efficacy of scheduled versus free reduction of steroid treatment in patients with active RA treated with adalimumab + MTX",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is age 18 or older and in good health (Investigator discretion) with a recent stable medical history\n* Subject has a diagnosis of rheumatoid arthritis as defined by the 1987-revised ACR criteria\n\nExclusion Criteria:\n\n* Subject considered by the investigator, for any re",
+      "endpoints": [
+        "Corticoid reduction and DAS 28"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00233558"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04772248",
+      "title": "Safety of TofAcitinib in Routine Care Patients With Rheumatoid Arthritis (STAR-RA)- Cardiovascular Endpoints",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-02-22",
+      "completion_date": "2021-12-30",
+      "country": "United States",
+      "enrollment": 105711,
+      "brief_summary": "There are two main aims of this study.\n\nFirst aim is to compare the risk of cardiovascular events (including myocardial infarction or stroke), between patients treated with tofacitinib and patients treated with TNF inhibitors (TNFi) for rheumatoid arthritis (RA) among, 1) \"real world evidence (RWE)\" cohorts including routine care patient population from the US and, 2) \"Randomized controlled trial (RCT) DUPLICATE\" cohorts including routine care patient population who meet inclusion and exclusion ",
+      "eligibility_criteria": "Criteria:\n\nPlease see https://www.bwhprime.org/resources.html for full code and algorithm definitions.\n\nEligible cohort entry dates:\n\n* For US MarketScan, 2012-2018\n* For Optum, 2012-2020\n* For Medicare Claims Database (Parts A, B and D), 2012-2017\n\nCohort entry date:\n\n* First TNFi or tofacitinib di",
+      "endpoints": [
+        "Time to first composite cardiovascular endpoint consisting of myocardial infarction or stroke"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04772248"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01710358",
+      "title": "A Randomized, Double-Blind, Placebo- and Active-Controlled, Phase 3 Study Evaluating the Efficacy and Safety of Baricitinib in Patients With Moderately to Severely Active Rheumatoid Arthritis Who Have Had an Inadequate Response to Methotrexate Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2015-09",
+      "country": "Spain, Mexico, Puerto Rico, Switzerland, Russia, Canada, Belgium, Croatia, Taiwan, Hungary, Slovakia, Germany, Latvia, Portugal, Romania, Lithuania, South Korea, South Africa, Greece, Poland, Argentina, Japan, United States, Slovenia, France, Czechia, China, United Kingdom",
+      "enrollment": 1307,
+      "brief_summary": "The purpose of this study is to determine whether baricitinib is superior to placebo in the treatment of participants with moderately to severely active Rheumatoid Arthritis (RA) who have had an inadequate response to methotrexate (MTX) treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a diagnosis of adult-onset Rheumatoid Arthritis (RA) as defined by the American College of Rheumatology/ European League Against Rheumatism (ACR/EULAR) 2010 Criteria for the Classification of RA\n* Have moderately to severely active RA defined as the presence of at least 6",
+      "endpoints": [
+        "Percentage of Participants Achieving American College of Rheumatology 20% Improvement (ACR20)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01710358"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01225393",
+      "title": "A Phase II, Randomized, Double-Blind, Parallel-Group Study to Evaluate the Efficacy and Safety of MLTA3698A in Combination With a Disease-Modifying Anti-Rheumatic Drug (DMARD) Compared With Adalimumab in Combination With a DMARD in Patient With Active Rheumatoid Arthritis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "",
+      "country": "Bulgaria, Spain, Chile, Mexico, Hungary, Germany, Peru, Romania, Poland, United States",
+      "enrollment": 211,
+      "brief_summary": "This is a Phase II, randomized, double-blind, placebo-controlled, parallel-group, multicenter study enrolling patients with active rheumatoid arthritis (RA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of RA according to the 1987 revised ACR Criteria for the Classification of RA for at least 6 months prior to screening\n* Positive for rheumatoid factor or anti-cyclic citrullinated peptide (CCP) antibody, or both\n* Active disease, defined as: CRP \\>= 1.0 mg/dL; swoll",
+      "endpoints": [
+        "Baseline change in disease activity, assessed as the Disease Activity Score (DAS28) and erythrocyte sedimentation rate, or DAS28-(4)-ESR",
+        "Incidence and severity of adverse events and clinical laboratory abnormalities as a measure of safety and tolerability of MLTA3698A"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01225393"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01083563",
+      "title": "The Morphologic and Functional Relationship Between the Draining PLN and Synovial Inflammation in the Knee Joints of RA Patients Before and After Anti-TNF or B Cell Depletion Therapy",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The purpose of this study is to examine the effect of anti-TNF therapy on rheumatoid arthritis using magnetic resonance imaging (MRI) and ultrasound imaging.\n\nAnti-TNF therapies include a group of medications such as Enbrel, Remicade and Humira that affect your body's inflammatory response. These medications are routinely prescribed for the treatment of rheumatoid arthritis.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Signed, IRB-approved, written informed consent\n* Subjects can be of either gender but must be more than 18 years old.\n* Subjects must fulfill the disease activity criteria for RA and a DAS28 will be assessed at baseline and at 2 months after rituximab therapy.\n* Aim A - Eligibl",
+      "endpoints": [
+        "Morphologic and functional relationship between the draining PLN and synovial inflammation in the knee joints of RA patients",
+        "TNF inhibition on volume and CE in the PLN in RA patients by MRI versus Doppler ultrasound.",
+        "Effect of anti-CD20 therapy on volume and CE in the PLN in RA patients who \"flare\""
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT01083563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01083160",
+      "title": "Clinical Outcomes,Compliance and Effectiveness of Switching From Infliximab or Etanercept to Adalimumab. A Multicenter Post-Marketing Observational Study in Routine Clinical Use",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2008-04",
+      "completion_date": "2010-11",
+      "country": "Mexico",
+      "enrollment": 82,
+      "brief_summary": "This is a prospective, single-arm, post marketing observational study in adult patients with active rheumatoid arthritis (RA) who are discontinuing treatment due to lack of efficacy, intolerance or to an incomplete response with either infliximab or etanercept.\n\nThe aim of this post-marketing observational study is to obtain data on clinical outcomes, compliance and tolerability to determine the effectiveness of switching from infliximab or etanercept to adalimumab. In this cohort, the different",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients ≥18 and \\<75 years of age that meet the American College of Rheumatology (ACR) criteria for RA.\n* Patients with active RA defined as:\n\n  1. ≥3 tender joints and ≥3 swollen joints, or\n  2. DAS 28 score \\>3.1\n* Patients who are discontinuing treatment with either inflix",
+      "endpoints": [
+        "DAS28 (Disease Activity Score in 28 Joints)",
+        "Tender Joint Count and Swollen Joint Count",
+        "Severity of Pain in a 100mm Visual Analogue Scale (VAS 100mm)"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT01083160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00963313",
+      "title": "A 24 Week Open Label Study of the Utility of Adalimumab in Active Axial Forms of Psoriatic Arthritis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2014-06",
+      "country": "Spain",
+      "enrollment": 29,
+      "brief_summary": "Based on published data and according to the approved product label for ankylosing spondylitis and psoriatic arthritis, it can be expected that adalimumab 40 mg every 14 days should be effective in psoriatic arthritic patients with axial involvement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females aged between 18 and 70 years.\n* A negative pregnancy test for women of childbearing potential during the screening period.\n* Subject must be evaluated for active or latent TB (tuberculosis) infection by using a PPD skin test (Mantoux test), Booster test, ches",
+      "endpoints": [
+        "BASDAI score (Bath Ankylosing Spondylitis Disease Activity Index).",
+        "Number of participants with new adverse events."
+      ],
+      "sponsor": "Instituto de Investigacion Biomedica de A Coruna",
+      "url": "https://clinicaltrials.gov/study/NCT00963313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05238896",
+      "title": "BARIcitinib Cognitive Emotional and Neural signaTuRE (BARICENTRE)",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2022-06-27",
+      "completion_date": "2023-03-31",
+      "country": "France",
+      "enrollment": 5,
+      "brief_summary": "Rheumatoid arthritis (RA) is a frequent and disabling disease, requiring early management to achieve clinical remission. Recently, baricitinib (jak1-jak2 inhibitor) has been shown to as an efficient treatment in placebo-controlled trials, and compared to the reference treatment with TNF inhibitor (adalimumab). Its efficacy has been reported on the inflammatory parameters, but more importantly on patient-reported outcomes. Baricitinib is thought to have anti-inflammatory effects, via its inhibiti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged between 18 and 75 years\n* Diagnosis of RA according to the ACR/EULAR 2010 classification criteria\n* Active rheumatoid arthritis at inclusion (defined by a Disease Activity Score (DAS28) \\> 3.2)\n* Patient eligible for baricitinib treatment in agreement with Europe",
+      "endpoints": [
+        "Percentage of accurate responses in facial emotion recognition task"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT05238896"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01657513",
+      "title": "Production of Antibodies Against Tnf-alfa Blockers in Patients With Psoriasis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "",
+      "country": "Denmark, Sweden",
+      "enrollment": 60,
+      "brief_summary": "TNF alfa blockers are widely used for treatment of severe psoriasis. These biologics are well-tolerated with few side effects.\n\nUnfortunately not all patients respond adequately to treatment with tnf alfa blockers. Some do not respond at all while others respond initially but gradually lose effect despite increased dose and more frequent administration.\n\nThe cause of treatment failure is largely unknown and it may be production of tnf-alfa neutralizing antibodies. This has been demonstrated in p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female\n* Age above 18\n* Psoriasis\n* Indication for treatment with tnf alfa blocking drug\n* Written informed consent obtained\n\nExclusion Criteria:\n\n* Severe psychiatric disorder\n* No indication for treatment with tnf-alfa blocking drug\n* Pregnancy\n* Breastfeeding\n* No w",
+      "endpoints": [
+        "change in concentration of tnf-alfa antibodies in serum"
+      ],
+      "sponsor": "University Hospital, Gentofte, Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT01657513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00124982",
+      "title": "A Phase III, Multi-Center, Open Label Study to Evaluate the Efficacy, Tolerability and Safety of Abatacept (BMS-188667) in Subjects With Active Rheumatoid Arthritis on Background Non-Biologic DMARDs Who Have an Inadequate Response to Anti-TNF Therapy and Have Limited Therapeutic Options",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2009-08",
+      "country": "France, Spain, Czechia, Mexico, Italy, Germany, Ireland, United Kingdom, Belgium, United States",
+      "enrollment": 1286,
+      "brief_summary": "The purpose of this study is to summarize the safety and tolerability of abatacept during 6 months of combined treatment with one or more of the background non-biologic disease modifying anti-rheumatic drugs (DMARDs) approved for rheumatoid arthritis (RA) in subjects with active RA. Secondary objectives assessed the clinical efficacy of combination treatment, including disease activity, physical function, and quality of life outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Completed double-blind portion of the IM101064 study.\n* Rheumatoid arthritis (RA) for greater than 1 year from the time of initial diagnosis\n* American College of Rheumatology (ACR) functional class I, II, III\n* Subjects currently or previously received an anti-TNF therapy at ",
+      "endpoints": [
+        "Short-term Period: Number of Participants With Death, Serious Adverse Events (SAEs), Related SAEs, SAEs Leading to Discontinuations, AEs, Related AEs, or AEs Leading to Discontinuations",
+        "Short-term Period: Number of Participants With AEs of Special Interest",
+        "Short-term Period: Number of Participants With Hematology Laboratories Meeting Marked Abnormality (MA) Criteria"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00124982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03180957",
+      "title": "A Multi-centre, Double Blind, Randomised, Placebo-controlled, Parallel Group, Phase II Trial to Determine the Efficacy of Intra-nodular Injection of Anti-TNF to Control Disease Progression in Early Dupuytren's Disease, With a Dose Response.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-03-02",
+      "completion_date": "2020-12",
+      "country": "United Kingdom, Netherlands",
+      "enrollment": 140,
+      "brief_summary": "Dupuytren's disease is a very common condition, affecting 4% of the general UK and US population. It causes the fingers to curl irreversibly into the palm and can be extremely disabling. The disease usually starts as a small firm lump (nodule) in the palm, and in about 40% of patients advances to form cords that pull the fingers into the palm. There is no approved treatment for the early stage of disease. Once patients have established deformities, the diseased tissue can removed by surgery or c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant is willing and able to give informed consent for participation in the study.\n* Male or Female, aged 18 years or above.\n* For Part 1: Diagnosed with DD affecting the fingers resulting in flexion deformities of ≥30° at the metacarpophalangeal joint and or the proxima",
+      "endpoints": [
+        "Early Disease: Nodule Hardness at 12 Months"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT03180957"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00814866",
+      "title": "Bone Resorption, Osteoclastogenesis and Adalimumab",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2011-03",
+      "country": "Canada",
+      "enrollment": 28,
+      "brief_summary": "Osteoclastic bone resorption depends on both the capacity to generate osteoclasts (osteoclastogenesis) and on individual osteoclast activity. The investigators objective is to study the effect of anti-TNF therapy on the number of osteoclast precursors in the peripheral blood of patients with Rheumatoid Arthritis, on in vitro osteoclastogenesis and on osteoclast activity before and during the treatment of patients with Rheumatoid Arthritis with Adalimumab.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients satisfying the ACR criteria for Rheumatoid arthritis and having received a prescription of Adalimumab at the Centre Hospitalier Universitaire de Sherbrooke.\n\nExclusion Criteria:\n\n* Patients under 18 years old\n* Patients unwilling or unable to sign an informed consent\n",
+      "endpoints": [
+        "The number of osteoclast precursor (CD14+) cells in the peripheral blood",
+        "The number of osteoclasts genereated in vitro",
+        "The amount of bone resorption in vitro"
+      ],
+      "sponsor": "Université de Sherbrooke",
+      "url": "https://clinicaltrials.gov/study/NCT00814866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01613963",
+      "title": "Observational Study of Visual Outcomes in Retinal Disease",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2012-12",
+      "country": "United Kingdom",
+      "enrollment": 2000,
+      "brief_summary": "This is a study of visual outcomes in retinal disease that seeks to identify the causes of visual loss. This data will be used to predict which patients are at risk of losing vision and how they can be better treated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with a diagnosis of ocular inflammation\n* patients with at least 6 months of follow-up\n\nExclusion Criteria:\n\n* patients without a diagnosis of ocular inflammation\n* patients with less than 6 months of follow-up",
+      "endpoints": [
+        "Visual acuity at 5 years"
+      ],
+      "sponsor": "Royal Surrey County Hospital NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01613963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04047121",
+      "title": "Evaluation of Xeljanz Access Barriers Via Patient OOP Costs and TNFi Cycling",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-05-20",
+      "completion_date": "2019-10-21",
+      "country": "United States",
+      "enrollment": 1349,
+      "brief_summary": "This is a retrospective cohort study to evaluate patient characteristics, treatment patterns including a 6-factor effectiveness proxy measure, health care resource use and associated costs among Rheumatoid Arthritis patients initiating treatment comparator groups of interest between January 2014 and September 2016 across three United States insurance claims databases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* first pharmacy claim for Tofacitinib and then Etanercept or Adalimumab between Jan 2014 and Sep 2016 represents the index claim\n* First, select patients receiving ≥1 Tofacitinib pharmacy claim (Jan 2014-Sep 2016) who did not have a Tofacitinib claim anytime prior to index\n* Pa",
+      "endpoints": [
+        "Percentage of Participants Who Were Persistent With Index Medication During 12 Months Post-index Date",
+        "Percentage of Participants Who Immediately Switched Index Medication During 12 Months Post-index Date",
+        "Percentage of Participants Who Discontinued Then Switched Index Medication During 12 Months Post-index Date"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT04047121"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07138898",
+      "title": "Immunosuppressant Management in Rheumatology Patients Undergoing Elective Total Shoulder Arthroplasty",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09",
+      "completion_date": "2027-09",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to assess the incidence of rheumatologic flares, changes in pain scores (VAS), changes in functional outcomes (PROMIS), wound complications, surgical site infections, and return trips to the operating room for rheumatology patients following shoulder replacements, comparing those who stop their immunosuppressants preoperatively for the same amount of time as suggested in the literature for hip and knee arthroplasty versus those who hold the medications for a shorter ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults aged 18 years and older at the time of informed consent;\n2. Diagnosis of rheumatic disease: rheumatoid arthritis (RA), psoriatic arthritis (PA) , ankylosing spondylitis (AS), systemic lupus erythematosus (SLE), juvenile idiopathic arthritis (JIA), spondyloarthritis, po",
+      "endpoints": [
+        "Incidence of wound complications",
+        "Incidence of superficial surgical site infections",
+        "Incidence of deep surgical site infections"
+      ],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT07138898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00714493",
+      "title": "A Phase 4, Multicenter, Open-Label, Assessor-Blinded Switch Study of the Efficacy and Safety of Infliximab (REMICADE) in Patients With Active Rheumatoid Arthritis Who Are Responding Inadequately to Etanercept (ENBREL) or Adalimumab (HUMIRA).",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-06",
+      "country": "Israel, France, Spain, Finland, Austria, Germany, United Kingdom, Netherlands, Canada, United States",
+      "enrollment": 203,
+      "brief_summary": "The purpose of this study is to assess the effectiveness of treatment in patients with active rheumatoid arthritis who are having an inadequate response to at least 3 months of treatment with etanercept or adalimumab in addition to methotrexate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have rheumatoid arthritis\n* Patients must have greater than or equal to 6 tender joints and greater than or equal to 6 swollen joints\n* Patients must have inadequate disease response to etanercept or adalimumab\n* Patients must have received etanercept or adalimum",
+      "endpoints": [
+        "Percent of Patients Who Achieved a EULAR (The European League Against Rheumatism) Response at Week 10"
+      ],
+      "sponsor": "Centocor Ortho Biotech Services, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00714493"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01162421",
+      "title": "Radiographic, Clinical and Patient Outcomes in a Multicenter, Open Label Phase IV Randomized Trial of Earlier Adalimumab Introduction Therapy Versus Later Introduction as Per Standard of Care After Initial Methotrexate Failure in Early Rheumatoid Arthritis Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2015-07",
+      "country": "N/A",
+      "enrollment": 77,
+      "brief_summary": "A Canadian study to evaluate early use of adalimumab after methotrexate failure in early rheumatoid arthritis. The study hypothesis will verify if adalimumab effectively reduces joint damage in more participants when introduced earlier than in current practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject has a diagnosis of Rheumatoid Arthritis as defined by the 1987-revised American College of Rheumatology-classification criteria and has disease duration of less than 2 years from diagnosis.\n2. Subject must have been on a dose of methotrexate therapy either subcutaneou",
+      "endpoints": [
+        "Percentage of Participants With No Radiographic Progression at Month 12"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01162421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05090124",
+      "title": "Experimental Medicine Studies of Brain and Peripheral Immune Mechanisms for Sickness Behaviours in Patients With Rheumatoid Arthritis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-11-04",
+      "completion_date": "2024-11-29",
+      "country": "United Kingdom",
+      "enrollment": 46,
+      "brief_summary": "The rationale for this study is to use immune molecule-specific drug treatment to leverage a mechanistic understanding of the brain changes that drive sickness behaviour. This will combine current therapy with innovative neuroimaging technologies to obtain data in humans that has hitherto only been available in animal studies. Data supporting the role of inflammatory molecules in sickness behaviours and other cognitive disorders are increasingly compelling. A putative mechanism linking inflammat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults ≥ 18 years \\< 75 years.\n* Physician diagnosed moderate to severe RA.\n* No previous biologic disease modifying antirheumatic drug therapy\n* Usual care physician has confirmed the patient is eligible for anti-TNF treatment for active RA in line with the license for adalim",
+      "endpoints": [
+        "Change in sickness score as measured using the sickness questionnaire",
+        "Change in brain connectivity as measured by 7T MRI"
+      ],
+      "sponsor": "NHS Greater Glasgow and Clyde",
+      "url": "https://clinicaltrials.gov/study/NCT05090124"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00808210",
+      "title": "A PHASE II RANDOMIZED, DOUBLE-BLIND, PARALLEL GROUP STUDY TO EVALUATE THE EFFICACY AND SAFETY OF OCRELIZUMAB IN COMBINATION WITH METHOTREXATE, COMPARED TO INFLIXIMAB PLUS METHOTREXATE IN PATIENTS WITH ACTIVE RHEUMATOID ARTHRITIS CURRENTLY RESPONDING INADEQUATELY TO ETANERCEPT OR ADALIMUMAB",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-03-05",
+      "completion_date": "2012-11-14",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "This is a Phase II, randomized, active-controlled, double-blind, double-dummy, parallel-group, multicenter study in the United States enrolling patients with active RA. The study will enroll approximately 290 patients at approximately 130 sites.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Current treatment for RA on an outpatient basis\n* Active disease\n* Currently receiving 50 mg etanercept subcutaneously (SC) every week or 40 mg adalimumab SC every other week.\n* Considered by Investigator to be a primary non-responder to their first anti-TNF",
+      "endpoints": [
+        "Change From Baseline in DAS28(ESR) at Week 20"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00808210"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02097264",
+      "title": "A Randomised, Active Comparator, Double-blind, Multi Centre, Parallel, Phase 2a Trial, Investigating the Mechanism of Action, of NNC0109-0012 (Anti-IL-20 mAb) Through Synovial Biopsies in Subjects With Rheumatoid Arthritis and an Inadequate Response to Methotrexate",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2014-09",
+      "completion_date": "2015-09",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This trial is conducted in Europe. The aim of the trial is to investigate the mechanism of action of NNC0109-0012 (anti-IL-20 mAb) through synovial biopsies in subjects with rheumatoid arthritis (RA) and an inadequate response to Methotrexate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female age at least 18 and below or equal to 75 years at the time of signing informed consent\n* A diagnosis of RA at least 6 months prior to screening visit, according to the American College of Rheumatology (EULAR/ACR 2010 criteria) or by standard criteria (ACR 1987) ",
+      "endpoints": [
+        "Change in the total histopathological synovitis score"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT02097264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00647920",
+      "title": "Study of the Human Anti-TNF-Antibody Adalimumab",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "",
+      "country": "Taiwan",
+      "enrollment": 47,
+      "brief_summary": "A Randomized, Double-Blind, Placebo-Controlled, Study of the Adalimumab Administered as Subcutaneous Injections in Adult Chinese Rheumatoid Arthritis Subjects Treated with Methotrexate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet ACR criteria for diagnosis of active RA and have at both screening and baseline visits 6 swollen joints and 9 tender joints.\n\nExclusion Criteria:\n\n* A history of, or current, acute inflammatory joint disease of different origin than RA (e.g., mixed connective tissue disea",
+      "endpoints": [
+        "ACR20"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00647920"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01029613",
+      "title": "Adalimumab in Rheumatoid Arthritis. An Investigation of Changes in Disease Activity and Course of Joint Destruction by Use of 3 Tesla Whole-Body MRI, Dedicated 3 Tesla MRI and CT of the Hand, and Soluble Biomarkers",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2013-07",
+      "country": "Denmark",
+      "enrollment": 40,
+      "brief_summary": "Adalimumab in rheumatoid arthritis. An investigation of changes in disease activity and course of joint destruction by use of 3 Tesla Whole-Body MRI, dedicated 3 Tesla MRI and CT of the hand, and soluble biomarkers. Furthermore to compare ultrasound examination with wholebody MRI etc.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years old and \\< 85 years old\n* RA in accordance with American College of Rheumatology 1987 criteria\n* Moderate or highly active RA defined as DAS28 \\> 3,2 (CRP based)\n* Clinical indication for TNF-α inhibitor treatment by the treating physician\n* No contraindication",
+      "endpoints": [
+        "EULAR response criteria"
+      ],
+      "sponsor": "Glostrup University Hospital, Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT01029613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02627924",
+      "title": "Real-World Outcome of Rheumatoid Arthritis Patients in Korea on Adalimumab (ROCKA Study)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-11-18",
+      "completion_date": "2017-12-28",
+      "country": "N/A",
+      "enrollment": 91,
+      "brief_summary": "The study is designed as a prospective, observational study to assess the effect of adalimumab on health-related quality of life (QoL) and work productivity in patients with rheumatoid arthritis (RA) in Korea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has a diagnosis of RA as defined by the 1987 revised American College of Rheumatology (ACR) classification criteria and/or the ACR/the European League against Rheumatism (EULAR) 2010 classification criteria (any duration since diagnosis).\n* Male or female subject ≥ 18 ",
+      "endpoints": [
+        "Change From Baseline in Health Assessment Questionnaire - Disability Index (HAQ-DI) Score at Week 24"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02627924"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01736189",
+      "title": "Assessment of Clinical Effectiveness and Safety of Adalimumab and High Dose Methotrexate in Routine Clinical Practice (Combo Study; Adalimumab With High Dose MTX)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-10-11",
+      "completion_date": "2018-04-16",
+      "country": "N/A",
+      "enrollment": 346,
+      "brief_summary": "This was a single-arm, multicenter, open label, prospective cohort study (post-marketing observational study) to determine the effectiveness and safety of adalimumab in combination with high-dose methotrexate (≥12 mg/week) in participants with rheumatoid arthritis in a routine clinical setting in Japan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThe participants of this study were rheumatoid arthritis (RA) patients for whom adalimumab was prescribed. They must have met the following conditions:\n\n* Disease duration of RA ≤2 years\n* Methotrexate (MTX) administration ≥3 months prior to starting adalimumab\n* Dose of MTX ≥12",
+      "endpoints": [
+        "Percentage of Participants With a Disease Activity Score 28 (DAS28) Score of <2.6 at Week 52"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01736189"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04089514",
+      "title": "Pan-EU Real-World Experience With Imraldi®",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-06-30",
+      "completion_date": "2021-11-30",
+      "country": "Spain, Italy, Germany, Ireland, United Kingdom, Belgium",
+      "enrollment": 1000,
+      "brief_summary": "The primary objective of this study is to evaluate candidate predictors of persistence on adalimumab (Imraldi®) participants diagnosed with immune-mediated inflammatory disease in Europe (EU).\n\nThe secondary objectives of this study are to describe participant clinical characteristics at baseline, utilization of Imraldi® over time, biologic drug effectiveness over time, participant satisfaction with biologic administration, routine laboratory values and clinical evaluation measurements over time",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Initiation on Imraldi® therapy after 18th October 2018, as part of routine treatment immediately after transitioning from at least 16 weeks' treatment with originator adalimumab (Humira®)\n* Availability of at least one Baseline disease score (i.e. within 16 weeks prior or up t",
+      "endpoints": [
+        "Candidate Predictors of Persistence on Adalimumab"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT04089514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04429776",
+      "title": "Tapering of Biologics in Inflammatory Arthritis Patients in Remission",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-05-13",
+      "completion_date": "2024-12-31",
+      "country": "United Kingdom",
+      "enrollment": 51,
+      "brief_summary": "Rheumatoid arthritis (RA) and Psoriatic Arthritis (PsA) are types of inflammatory arthritis. They are disabling conditions caused by inflammation in joints that can lead to pain, stiffness, fatigue and joint damage. There is currently no cure but treatment is aimed at reducing joint inflammation. Some of the most promising new therapies work by interfering with the binding of a molecule called tumour necrosis factor (TNF). In recent years, new anti-TNF drugs (such as adalimumab, etanercept and c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have RA according to the American College of Rheumatology (ACR) 1987 or 2010 criteria\n2. Patients must be willing and able to participate in the study (including follow up visits and providing blood samples) after providing informed consent.\n3. Patients must cur",
+      "endpoints": [
+        "Time to flare"
+      ],
+      "sponsor": "University of Manchester",
+      "url": "https://clinicaltrials.gov/study/NCT04429776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05626348",
+      "title": "The Clinical Study to Observe the Efficacy and Safety of Immunomodulators in Rheumatoid Arthritis Patients for 6 Months Treatment in China",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2021-12-22",
+      "completion_date": "2026-12-31",
+      "country": "China",
+      "enrollment": 400,
+      "brief_summary": "This study includes naive patients and csDMARDs-IR RA patients, treated with different regimens such as Iguratimod combination of different csDMARDs, or csDMARD with TNF inhibitors for 24 weeks. The disease activity and drug response will be observed. The immune disorder and synovial function will be evaluated at the same time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\-\n\n1.Patients with RA who meet ACR 1987 rheumatoid arthritis classification criteria or ACR/EULAR 2010 rheumatoid arthritis Classification Criteria and have knee dysfunction.\n\n1. ACR 1987 rheumatoid arthritis classification criteria\n\n   1. morning stiffness lasting at least 1 h",
+      "endpoints": [
+        "The percentage of patients who achieve clinical remission using European League Against Rheumatism (EULAR) response criteria DAS28."
+      ],
+      "sponsor": "Qilu Hospital of Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT05626348"
+    }
+  ],
+  "timestamp": "2026-03-04T15:17:18.909687",
+  "success": true,
+  "error_message": null
+}

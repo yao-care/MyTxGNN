@@ -1,0 +1,570 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Iron",
+    "disease": "iron deficiency anemia",
+    "query_string": "Iron AND iron deficiency anemia"
+  },
+  "data": {
+    "query": "Iron AND iron deficiency anemia",
+    "results": [
+      {
+        "pmid": "36075747",
+        "title": "Iron metabolism and iron deficiency anemia in women.",
+        "abstract": "Iron deficiency (ID) and iron deficiency anemia (IDA) are highly prevalent among women across their reproductive age. An iron-deficient state has been associated with and causes a number of adverse health consequences, affecting all aspects of the physical and emotional well-being of women. Heavy menstrual bleeding, pregnancy, and the postpartum period are the major causes of ID and IDA. However, despite the high prevalence and the impact on quality of life, ID and IDA among women in their reproductive age is still underdiagnosed and undertreated. In this chapter we summarized the iron metabolism and the diagnosis and treatment of ID and IDA in women.",
+        "journal": "Fertility and sterility",
+        "year": "2022",
+        "authors": [
+          "Cappellini Maria Domenica",
+          "Santini Valeria",
+          "Braxs Cecilia",
+          "Shander Aryeh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies",
+          "Pregnancy",
+          "Prevalence",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36075747/"
+      },
+      {
+        "pmid": "37497686",
+        "title": "Iron Deficiency Anemia: An Updated Review.",
+        "abstract": "Worldwide, iron deficiency anemia is the most prevalent nutritional deficiency disorder and the leading cause of anemia in children, especially in developing countries. When present in early childhood, especially if severe and prolonged, iron deficiency anemia can result in neurodevelopmental and cognitive deficits, which may not always be fully reversible even following the correction of iron deficiency anemia.",
+        "journal": "Current pediatric reviews",
+        "year": "2024",
+        "authors": [
+          "Leung Alexander K C",
+          "Lam Joseph M",
+          "Wong Alex H C",
+          "Hon Kam Lun",
+          "Li Xiuling"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Child, Preschool",
+          "Anemia, Iron-Deficiency",
+          "Iron",
+          "Anemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37497686/"
+      },
+      {
+        "pmid": "36706856",
+        "title": "The relationship between heavy menstrual bleeding, iron deficiency, and iron deficiency anemia.",
+        "abstract": "For reproductive-aged women, the symptom of heavy menstrual bleeding is highly prevalent and a major contributor to iron deficiency and its most severe manifestation, iron deficiency anemia. It is recognized that these 2 clinical entities are not only highly prevalent, but their interrelationship is poorly appreciated and frequently normalized by society, healthcare providers, and affected girls and women themselves. Both heavy menstrual bleeding and iron deficiency, with or without anemia, adversely impact quality of life-heavy menstrual bleeding during the episodes of bleeding and iron deficiency on a daily basis. These combined issues adversely affect the lives of reproductive-aged girls and women of all ages, from menarche to menopause, and their often-insidious nature frequently leads to normalization. The effects on cognitive function and the related work and school absenteeism and presenteeism can undermine the efforts and function of women in all walks of life, be they students",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2023",
+        "authors": [
+          "Munro Malcolm G",
+          "Mast Alan E",
+          "Powers Jacquelyn M",
+          "Kouides Peter A",
+          "O'Brien Sarah H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Child",
+          "Female",
+          "Humans",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Menorrhagia",
+          "Quality of Life",
+          "Iron Deficiencies",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36706856/"
+      },
+      {
+        "pmid": "38066889",
+        "title": "Identifying and treating iron deficiency anemia in pregnancy.",
+        "abstract": "Anemia is common during pregnancy, and while most anemia is physiologic, the most common pathologic cause is iron deficiency. The American College of Obstetricians and Gynecologists (ACOG) recommends confirmation of iron deficiency anemia with iron studies when anemia is diagnosed during pregnancy but acknowledges that presumptive treatment for suspected iron deficiency anemia is common in practice. Currently ACOG does not recommend treating iron deficiency without anemia during pregnancy. Though the benefits of treating iron deficiency anemia during pregnancy are clear, the optimal route of iron repletion remains uncertain. Results of ongoing large, randomized trials will help define the optimal route of iron treatment for pregnant patients diagnosed with iron deficiency anemia.",
+        "journal": "Hematology. American Society of Hematology. Education Program",
+        "year": "2023",
+        "authors": [
+          "Lewkowitz Adam K",
+          "Tuuli Methodius G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Female",
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Iron",
+          "Anemia",
+          "Iron Deficiencies",
+          "Pregnancy Complications, Hematologic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38066889/"
+      },
+      {
+        "pmid": "35889932",
+        "title": "Iron Deficiency Anemia: Efficacy and Limitations of Nutritional and Comprehensive Mitigation Strategies.",
+        "abstract": "Iron deficiency anemia (IDA) has reached epidemic proportions in developing countries and has become a major global public health problem, affecting mainly 0-5-year-old children and young women of childbearing age, especially during pregnancy. Iron deficiency can lead to life-threatening loss of red blood cells, muscle function, and energy production. Therefore, the pathogenic features associated with IDA are weakness and impaired growth, motor, and cognitive performance. IDA affects the well-being of the young generation and the economic advancement of developing countries, such as India. The imbalance between iron intake/absorption/storage and iron utilization/loss culminates into IDA. However, numerous strategic programs aimed to increase iron intake have shown that improvement of iron intake alone has not been sufficient to mitigate IDA. Emerging critical risk factors for IDA include a composition of cultural diets, infections, genetics, inflammatory conditions, metabolic diseases,",
+        "journal": "Nutrients",
+        "year": "2022",
+        "authors": [
+          "Kumar Shashi Bhushan",
+          "Arnipalli Shanvanth R",
+          "Mehta Priyanka",
+          "Carrau Silvia",
+          "Ziouzenkova Ouliana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Child, Preschool",
+          "Diet",
+          "Female",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies",
+          "Nutritional Status",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35889932/"
+      },
+      {
+        "pmid": "32053933",
+        "title": "Iron Deficiency and Iron Deficiency Anemia: Implications and Impact in Pregnancy, Fetal Development, and Early Childhood Parameters.",
+        "abstract": "A normal pregnancy consumes 500-800 mg of iron from the mother. Premenopausal women have a high incidence of marginal iron stores or iron deficiency (ID), with or without anemia, particularly in the less developed world. Although pregnancy is associated with a \"physiologic\" anemia largely related to maternal volume expansion; it is paradoxically associated with an increase in erythrocyte production and erythrocyte mass/kg. ID is a limiting factor for this erythrocyte mass expansion and can contribute to adverse pregnancy outcomes. This review summarizes erythrocyte and iron balance observed in pregnancy; its implications and impact on mother and child; and provides an overview of approaches to the recognition of ID in pregnancy and its management, including clinically relevant questions for further investigation.",
+        "journal": "Nutrients",
+        "year": "2020",
+        "authors": [
+          "Means Robert T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Pregnancy",
+          "Young Adult",
+          "Anemia, Iron-Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32053933/"
+      },
+      {
+        "pmid": "40159291",
+        "title": "Iron Deficiency in Adults: A Review.",
+        "abstract": "Absolute iron deficiency, defined as low iron stores with or without anemia, affects approximately 2 billion people worldwide and 14% of adults in the US. Iron-deficiency anemia, defined as low hemoglobin due to low iron stores, affects approximately 1.2 billion people worldwide, including 10 million in the US.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Auerbach Michael",
+          "DeLoughery Thomas G",
+          "Tirnauer Jennifer S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Pregnancy",
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Iron",
+          "Iron Deficiencies",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40159291/"
+      },
+      {
+        "pmid": "35642737",
+        "title": "Screening, Treatment, and Monitoring of Iron Deficiency Anemia in Pregnancy and Postpartum.",
+        "abstract": "Iron deficiency anemia is the most prevalent form of anemia worldwide. In the United States, clinicians routinely screen for iron deficiency anemia upon initiation of prenatal care, at the start of the third trimester, and prior to birth. Treatment of iron deficiency anemia generally begins with oral supplementation of elemental iron, which is associated with adverse gastrointestinal effects. These adverse effects can decrease adherence, leading to subtherapeutic treatment. Newer evidence highlights the benefits of early screening for iron deficiency before the onset of anemia, as well as the use of intravenous iron to expedite the treatment of iron deficiency anemia. More research is needed on the potential consequences of over-supplementation and iron deficiency without anemia to guide treatment. This article reviews the evidence for best practices for screening, treatment, and continued monitoring of iron deficiency anemia during pregnancy and postpartum. Maternal, fetal, and neonat",
+        "journal": "Journal of midwifery & women's health",
+        "year": "2022",
+        "authors": [
+          "Elmore Christina",
+          "Ellis Jessica"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Iron",
+          "Iron Deficiencies",
+          "Postpartum Period",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35642737/"
+      },
+      {
+        "pmid": "25946282",
+        "title": "Iron-deficiency anemia.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2015",
+        "authors": [
+          "Camaschella Clara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Hemostasis",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25946282/"
+      },
+      {
+        "pmid": "41252836",
+        "title": "Iron Deficiency Anemia: Evaluation and Management.",
+        "abstract": "Iron deficiency anemia is common worldwide. In adult patients without inflammation, a ferritin level of less than 45 ng/mL or ferritin level of 46 to 99 ng/mL plus a transferrin saturation of less than 20% is diagnostic of iron deficiency. In patients with inflammation, a ferritin level of less than 100 ng/mL is diagnostic. Risk factors for iron deficiency anemia include low socioeconomic status, female sex, age younger than 5 years, and chronic inflammation. Underlying causes should be investigated. Recurrent blood loss is responsible for 94% of cases. In younger patients with a plausible cause of iron deficiency anemia (eg, heavy menstrual bleeding), a reasonable approach is to treat the bleeding and provide iron supplementation. In men and postmenopausal women, bidirectional endoscopy should be performed. Noninvasive testing for Helicobacter pylori infection and celiac disease is recommended because both are common causes of iron deficiency anemia. Oral iron replacement is the first",
+        "journal": "American family physician",
+        "year": "2025",
+        "authors": [
+          "Latimer Kelly",
+          "Baci Genta",
+          "Layne Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Iron",
+          "Male",
+          "Risk Factors",
+          "Ferritins",
+          "Adult",
+          "Helicobacter Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41252836/"
+      },
+      {
+        "pmid": "33739032",
+        "title": "Revisiting Iron Metabolism, Iron Homeostasis and Iron Deficiency Anemia.",
+        "abstract": "Iron deficiency anemia (IDA) is one of the commonest clinical scenarios especially in children, women of childbearing age, and elders. The crux of this review was revisiting iron homeostasis, mechanism of iron absorption, causes, laboratory diagnosis, and management of IDA.",
+        "journal": "Clinical laboratory",
+        "year": "2021",
+        "authors": [
+          "Saboor Muhammad",
+          "Zehra Amtuz",
+          "Hamali Hassan A",
+          "Mobarki Abdullah A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Ferritins",
+          "Hepcidins",
+          "Homeostasis",
+          "Humans",
+          "Iron",
+          "Lactation",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33739032/"
+      },
+      {
+        "pmid": "34623079",
+        "title": "Iron Deficiency Anemia in Pregnancy.",
+        "abstract": "Anemia is defined as a low red blood cell count, a low hematocrit, or a low hemoglobin concentration. In pregnancy, a hemoglobin concentration of less than 11.0 g/dL in the first trimester and less than 10.5 or 11.0 g/dL in the second or third trimester (depending on the guideline used) is considered anemia. Anemia is the most common hematologic abnormality in pregnancy. Maternal anemia is associated with adverse fetal, neonatal and childhood outcomes, but causality is not established. Maternal anemia increases the likelihood of transfusion at delivery. Besides hemodilution, iron deficiency is the most common cause of anemia in pregnancy. The American College of Obstetricians and Gynecologists recommends screening for anemia with a complete blood count in the first trimester and again at 24 0/7 to 28 6/7 weeks of gestation. Mild anemia, with a hemoglobin of 10.0 g/dL or higher and a mildly low or normal mean corpuscular volume (MCV) is likely iron deficiency anemia. A trial of oral iro",
+        "journal": "Obstetrics and gynecology",
+        "year": "2021",
+        "authors": [
+          "James Andra H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Blood Transfusion",
+          "Child",
+          "Drug Administration Schedule",
+          "Erythropoietin",
+          "Female",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34623079/"
+      },
+      {
+        "pmid": "32077335",
+        "title": "Anemia and iron deficiency in Crohn's disease.",
+        "abstract": "Introduction: Anemia is a common extraintestinal complication of Crohn's disease (CD) mainly caused by iron deficiency, that affects the quality of life in CD patients. Elucidation of the etiology and pathology of iron-deficiency anemia (IDA) and anemia of chronic diseases (ACD) has developed in recent years. Common biochemical parameters of iron status are insufficient for assessment of patients with anemia and CD. Thus, novel iron indices are required for accurate assessment in IDA patients with CD. Oral iron supplementation for IDA treatment is common and is associated with minor gastrointestinal side effects. Intravenous substitution improves safety profiles but may be not tolerable in some patients. Fortunately, additional therapies for anemia of active CD have emerged in recent years.Area covered: Here, we propose the review article on the link among anemia, iron deficiency, and Crohn's disease. We discuss the current diagnosis and therapy of anemia and iron deficiency in CD and ",
+        "journal": "Expert review of gastroenterology & hepatology",
+        "year": "2020",
+        "authors": [
+          "Yueying Chen",
+          "Yu Fan Wang",
+          "Jun Shen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Crohn Disease",
+          "Hepcidins",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32077335/"
+      },
+      {
+        "pmid": "38864796",
+        "title": "AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review.",
+        "abstract": "In this Clinical Practice Update (CPU), we will Best Practice Advice (BPA) guidance on the appropriate management of iron deficiency anemia.",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "year": "2024",
+        "authors": [
+          "DeLoughery Thomas G",
+          "Jackson Christian S",
+          "Ko Cynthia W",
+          "Rockey Don C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Administration, Oral",
+          "Anemia, Iron-Deficiency",
+          "Disease Management",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38864796/"
+      },
+      {
+        "pmid": "37513543",
+        "title": "Prevention and Management of Iron Deficiency/Iron-Deficiency Anemia in Women: An Asian Expert Consensus.",
+        "abstract": "The lack of standardized clinical practice impeding the optimal management of iron deficiency (ID) and iron deficiency anemia (IDA) in women is a global concern, particularly in the Asia-Pacific region. The aim of this study was to determine best practices through a Delphi consensus process. In Round 1, panelists were asked to rate their level of agreement with 99 statements across four domains: identification, diagnosis and assessment, prevention, and treatment of ID/IDA in women. In Round 2, panelists reappraised their ratings in view of the collective feedback and responses to Round 1. After two rounds, consensus (≥85% agreement) was reached for 84% of the Delphi statements. Experts agreed on the role of presenting symptoms and risk factors in prompting assessments of anemia and iron status in women. Experts repeatedly called for prevention, recommending preventive iron supplementation for pregnant women irrespective of anemia prevalence levels, and for non-pregnant adult women, ado",
+        "journal": "Nutrients",
+        "year": "2023",
+        "authors": [
+          "Pai Rishma Dhillon",
+          "Chong Yap Seng",
+          "Clemente-Chua Lyra Ruth",
+          "Irwinda Rima",
+          "Huynh Trang Nguyen Khanh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Adolescent",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Anemia, Iron-Deficiency",
+          "Consensus",
+          "Iron",
+          "Iron Deficiencies",
+          "Anemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37513543/"
+      },
+      {
+        "pmid": "22942439",
+        "title": "Iron deficiency anemia.",
+        "abstract": "Iron is essential to virtually all living organisms and is integral to multiple metabolic functions. The most important function is oxygen transport in hemoglobin. Iron deficiency anemia in dogs and cats is usually caused by chronic blood loss and can be discovered incidentally as animals may have adapted to the anemia. Severe iron deficiency is characterized by a microcytic, hypochromic, potentially severe anemia with a variable regenerative response. Iron metabolism and homeostasis will be reviewed, followed by a discussion of diagnostic testing and therapeutic recommendations for dogs and cats with iron deficiency anemia.",
+        "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+        "year": "2012",
+        "authors": [
+          "Naigamwalla Dinaz Z",
+          "Webb Jinelle A",
+          "Giger Urs"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Animals",
+          "Blood Transfusion",
+          "Cat Diseases",
+          "Cats",
+          "Diagnosis, Differential",
+          "Dog Diseases",
+          "Dogs",
+          "Hemorrhage",
+          "Homeostasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22942439/"
+      },
+      {
+        "pmid": "20923825",
+        "title": "Diagnosis and prevention of iron deficiency and iron-deficiency anemia in infants and young children (0-3 years of age).",
+        "abstract": "This clinical report covers diagnosis and prevention of iron deficiency and iron-deficiency anemia in infants (both breastfed and formula fed) and toddlers from birth through 3 years of age. Results of recent basic research support the concerns that iron-deficiency anemia and iron deficiency without anemia during infancy and childhood can have long-lasting detrimental effects on neurodevelopment. Therefore, pediatricians and other health care providers should strive to eliminate iron deficiency and iron-deficiency anemia. Appropriate iron intakes for infants and toddlers as well as methods for screening for iron deficiency and iron-deficiency anemia are presented.",
+        "journal": "Pediatrics",
+        "year": "2010",
+        "authors": [
+          "Baker Robert D",
+          "Greer Frank R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Bottle Feeding",
+          "Breast Feeding",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant Formula",
+          "Infant, Newborn",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20923825/"
+      },
+      {
+        "pmid": "17375513",
+        "title": "Iron deficiency anemia.",
+        "abstract": "The prevalence of iron deficiency anemia is 2 percent in adult men, 9 to 12 percent in non-Hispanic white women, and nearly 20 percent in black and Mexican-American women. Nine percent of patients older than 65 years with iron deficiency anemia have a gastrointestinal cancer when evaluated. The U.S. Preventive Services Task Force currently recommends screening for iron deficiency anemia in pregnant women but not in other groups. Routine iron supplementation is recommended for high-risk infants six to 12 months of age. Iron deficiency anemia is classically described as a microcytic anemia. The differential diagnosis includes thalassemia, sideroblastic anemias, some types of anemia of chronic disease, and lead poisoning. Serum ferritin is the preferred initial diagnostic test. Total iron-binding capacity, transferrin saturation, serum iron, and serum transferrin receptor levels may be helpful if the ferritin level is between 46 and 99 ng per mL (46 and 99 mcg per L); bone marrow biopsy m",
+        "journal": "American family physician",
+        "year": "2007",
+        "authors": [
+          "Killip Shersten",
+          "Bennett John M",
+          "Chambers Mara D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Algorithms",
+          "Anemia, Iron-Deficiency",
+          "Diagnosis, Differential",
+          "Female",
+          "Ferric Compounds",
+          "Ferritins",
+          "Humans",
+          "Infusions, Parenteral",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17375513/"
+      },
+      {
+        "pmid": "34067622",
+        "title": "Iron Deficiency Anemia in Celiac Disease.",
+        "abstract": "The iron absorption process developsmainly in the proximal duodenum. This portion of the intestine is typically destroyed in celiac disease (CD), resulting in a reduction in absorption of iron and subsequent iron deficiency anemia (IDA). In fact, the most frequent extra-intestinal manifestation (EIM) of CD is IDA, with a prevalence between 12 and 82% (in relation with the various reports) in patients with new CD diagnosis. The primary treatment of CD is the gluten-free diet (GFD), which is associated with adequate management of IDA, if present. Iron replacement treatment historically has been based on oral products containing ferrous sulphate (FS). However, the absorption of FS is limited in patients with active CD and unpredictable in patients on a GFD. Furthermore, a poor tolerability of this kind of ferrous is particularly frequent in patients with CD or with other inflammatory bowel diseases. Normalization from anemic state typically occurs after at least 6 months of GFD, but the p",
+        "journal": "Nutrients",
+        "year": "2021",
+        "authors": [
+          "Talarico Valentina",
+          "Giancotti Laura",
+          "Mazza Giuseppe Antonio",
+          "Miniero Roberto",
+          "Bertini Marco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Celiac Disease",
+          "Diet, Gluten-Free",
+          "Duodenum",
+          "Humans",
+          "Intestinal Absorption",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34067622/"
+      },
+      {
+        "pmid": "40603791",
+        "title": "Iron Deficiency Anemia.",
+        "abstract": "Iron deficiency anemia (IDA) is estimated to affect over 1.2 billion people worldwide and is particularly common in children and reproductive-age women in low- and middle-income countries. Iron deficiency (ID) without anemia has an even higher prevalence. Absolute ID is caused by increased iron requirements, inadequate iron intake, impaired iron absorption, and chronic blood loss. ID triggers multiple adaptive physiological mechanisms, including modifications in cellular iron handling orchestrated by iron regulatory proteins, as well as alterations in systemic iron handling secondary to suppression of the iron regulatory hormone hepcidin. The laboratory diagnosis of ID is based on biochemical parameters and may be complicated during inflammatory conditions. ID is treated with oral or parenteral iron supplements, depending upon the severity of ID and its underlying cause(s). An improved understanding of systemic iron regulation has begun to inform oral iron dosing regimens and the selec",
+        "journal": "Advances in experimental medicine and biology",
+        "year": "2025",
+        "authors": [
+          "Li Xiuqi",
+          "Finberg Karin E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Iron",
+          "Female",
+          "Hepcidins",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40603791/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:20:39.530726",
+  "success": true,
+  "error_message": null
+}

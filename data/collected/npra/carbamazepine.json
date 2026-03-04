@@ -1,0 +1,116 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Carbamazepine",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL06071037AZ",
+      "product": "Carbatol CR-200 Tablet",
+      "active_ingredient": "CARBAMAZEPINE[200;mg;;0]",
+      "generic_name": "Carbamazepine 200 mg CR Tablet",
+      "holder": "LABORATORIES TORRENT (MALAYSIA) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-07-30",
+      "date_end": "2026-07-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL06071037AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL06071038AZ",
+      "product": "Carbatol CR-400 Tablet",
+      "active_ingredient": "CARBAMAZEPINE[400;mg;;0]",
+      "generic_name": "Carbamazepine 400 mg CR Tablet",
+      "holder": "LABORATORIES TORRENT (MALAYSIA) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-07-30",
+      "date_end": "2026-07-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL06071038AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19860947AZ",
+      "product": "TAVER TABLET 200MG",
+      "active_ingredient": "CARBAMAZEPINE[200MG                         ]",
+      "generic_name": "Carbamazepine 200 mg Tablet",
+      "holder": "KOMEDIC SDN BHD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-07-05",
+      "date_end": "2027-07-05",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19860947AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19860220AZ",
+      "product": "CARZEPIN TABLET 200MG",
+      "active_ingredient": "CARBAMAZEPINE[200MG                         ]",
+      "generic_name": "Carbamazepine 200 mg Tablet",
+      "holder": "HOVID BERHAD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-10-04",
+      "date_end": "2027-10-04",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19860220AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20000032ARZ",
+      "product": "TEGRETOL 200MG TABLET",
+      "active_ingredient": "CARBAMAZEPINE[200MG                         ]",
+      "generic_name": "Carbamazepine 200 mg Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-02-01",
+      "date_end": "2030-02-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20000032ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20000269ARZ",
+      "product": "TEGRETOL CR 400MG TABLETS",
+      "active_ingredient": "CARBAMAZEPINE[400MG                         ]",
+      "generic_name": "Carbamazepine 400 mg CR Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-04-10",
+      "date_end": "2030-04-10",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20000269ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20000749ARZ",
+      "product": "TEGRETOL CR 200MG TABLETS",
+      "active_ingredient": "CARBAMAZEPINE[200MG                         ]",
+      "generic_name": "Carbamazepine 200 mg CR Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-05-02",
+      "date_end": "2030-05-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20000749ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20001250ACRZ",
+      "product": "TEGRETOL 100MG/5ML SYRUP",
+      "active_ingredient": "CARBAMAZEPINE[2GM                           ]",
+      "generic_name": "Carbamazepine 100 mg/5 ml(2 % w/v) Syrup",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-08-01",
+      "date_end": "2030-08-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20001250ACRZ"
+    }
+  ],
+  "timestamp": "2026-03-04T16:12:22.817407",
+  "success": true,
+  "error_message": null
+}

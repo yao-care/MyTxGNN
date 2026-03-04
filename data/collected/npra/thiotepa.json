@@ -1,0 +1,51 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Thiotepa",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL23066003AZ",
+      "product": "TEPADINA 400 mg powder and solvent for solution for infusion",
+      "active_ingredient": "Thiotepa[400 mg]",
+      "generic_name": NaN,
+      "holder": "DKSH MALAYSIA SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-06-08",
+      "date_end": "2028-06-08",
+      "url": "https://npra.gov.my/index.php/search/product/MAL23066003AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL23066002ACRZ",
+      "product": "TEPADINA 100 mg powder for concentrate for solution for infusion",
+      "active_ingredient": "Thiotepa[100 mg]",
+      "generic_name": NaN,
+      "holder": "DKSH MALAYSIA SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-06-08",
+      "date_end": "2028-06-08",
+      "url": "https://npra.gov.my/index.php/search/product/MAL23066002ACRZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL23066001ACRZ",
+      "product": "TEPADINA 15 mg powder for concentrate for solution for infusion",
+      "active_ingredient": "Thiotepa[15 mg]",
+      "generic_name": NaN,
+      "holder": "DKSH MALAYSIA SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-06-08",
+      "date_end": "2028-06-08",
+      "url": "https://npra.gov.my/index.php/search/product/MAL23066001ACRZ"
+    }
+  ],
+  "timestamp": "2026-03-04T15:44:27.783107",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Chloramphenicol",
+    "drugbank_id": "DB00446"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 12
+  },
+  "indications": [
+    {
+      "disease": "paratyphoid fever",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "Rickettsiosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 1,
+      "articles": 20,
+      "phase3": 1,
+      "phase2": 1,
+      "phase4": 0
+    },
+    {
+      "disease": "typhus",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 2,
+      "articles": 20,
+      "phase3": 1,
+      "phase2": 1,
+      "phase4": 1
+    },
+    {
+      "disease": "Q fever",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "meningococcal infection",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 19,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

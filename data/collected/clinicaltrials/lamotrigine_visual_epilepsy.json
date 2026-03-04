@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lamotrigine",
+    "disease": "visual epilepsy"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855738",
+      "title": "Liceo Study: A Prospective, Observational Study On The Effectiveness Of New Antiepileptic Drugs As First Bitherapy In The Daily Clinical Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-06",
+      "country": "N/A",
+      "enrollment": 111,
+      "brief_summary": "Assessment of the efficacy under daily clinical conditions of the new antiepileptic drugs (AEDs) gabapentin, lamotrigine, levetiracetam, oxcarbazepine, pregabalin, tiagabine and topiramate, used as first-choice combination therapy (bitherapy) in patients with focal epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 years or older.\n* Diagnosis of focal epilepsy.\n* Previous failure of one or more AEDs used in monotherapy.\n* Background treatment with an antiepileptic drug.\n* The investigator has considered that the patient must start treatment with some of the seven new AEDs in comb",
+      "endpoints": [
+        "Percent of Participants Classified as Responders"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00855738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00021866",
+      "title": "Neurodevelopmental Effects of Antiepileptic Drugs II: the NEAD Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2000-09",
+      "completion_date": "2012-08",
+      "country": "United Kingdom, United States",
+      "enrollment": 331,
+      "brief_summary": "The purpose of this study is to determine if antiepileptic drugs (AEDs) differ in their neurodevelopmental effects. Specifically, do the children of the women with epilepsy differ in their behavioral and cognitive development depending on which AED their mother takes during pregnancy?",
+      "eligibility_criteria": "* Subject must be diagnosed with partial seizures and/or secondary generalization or primary generalized seizures (absence, atonic, myoclonic, and generalized tonic-clonic seizures)\n* Subjects must be on either carbamazepine, lamotrigine, phenytoin, or valproate monotherapy.\n* Mothers must not have ",
+      "endpoints": [
+        "Child IQ as measured by the Differential Abilities Scale at 6 Years of age"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00021866"
+    }
+  ],
+  "timestamp": "2026-03-04T16:04:15.117897",
+  "success": true,
+  "error_message": null
+}

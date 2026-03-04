@@ -1,0 +1,260 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "acne",
+    "query_string": "Ferrous Fumarate AND acne"
+  },
+  "data": {
+    "query": "Ferrous Fumarate AND acne",
+    "results": [
+      {
+        "pmid": "16371290",
+        "title": "Treating acne with oral contraceptives: use of lower doses.",
+        "abstract": "Oral contraceptives (OCs) have been shown to effectively treat acne. Clinical trials of various doses of ethinyl estradiol (EE) combined with progestins such as levonorgestrel, desogestrel, norgestimate, gestodene, cyproterone acetate and drospirenone in monophasic, triphasic and combiphasic formulations used to treat acne in women are reviewed here. Open-label and comparative studies beginning in the 1980s were the first to demonstrate objective and subjective reductions in the incidence of acne, severity of existing acne and seborrhea. Placebo-controlled trials have corroborated these findings with a trend toward effective acne treatment with declining doses of EE. Significant reductions in total, inflammatory and noninflammatory lesions compared with placebo have been demonstrated with an OC containing the low dose of 20 microg of EE. Collectively, these findings support the use of low-dose OCs for the treatment of acne.",
+        "journal": "Contraception",
+        "year": "2006",
+        "authors": [
+          "Huber Johannes",
+          "Walch Katharina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Contraceptives, Oral",
+          "Controlled Clinical Trials as Topic",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Norethindrone",
+          "Norgestrel",
+          "Placebos",
+          "Progestins",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16371290/"
+      },
+      {
+        "pmid": "9678128",
+        "title": "A triphasic oral contraceptive pill, CTR-05: clinical efficacy and safety.",
+        "abstract": "The primary objective of this study was to compare the safety, contraceptive efficacy, and menstrual cycle patterns in women using triphasic oral contraceptive pills, namely CTR-05, containing 50/100/150 micrograms desogestrel and 35/30/30 micrograms ethinylestradiol, and Orthonovum777 containing 500/750/1000 micrograms norethindrone and 35/35/35 micrograms ethinylestradiol.",
+        "journal": "The European journal of contraception & reproductive health care : the official journal of the European Society of Contraception",
+        "year": "1996",
+        "authors": [
+          "Singh M",
+          "Thomas D",
+          "Singh R",
+          "Saxena B B",
+          "Ledger W J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cholesterol, HDL",
+          "Contraceptives, Oral, Combined",
+          "Contraceptives, Oral, Sequential",
+          "Desogestrel",
+          "Drug Combinations",
+          "Estradiol Congeners",
+          "Ethinyl Estradiol",
+          "Female",
+          "Headache"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9678128/"
+      },
+      {
+        "pmid": "14596626",
+        "title": "Evaluating minimal clinically important differences for the acne-specific quality of life questionnaire.",
+        "abstract": "The Acne-Specific Quality of Life Questionnaire (Acne-QoL) is a responsive, reliable and valid instrument developed to measure the impact of facial acne across four dimensions of patient QOL. Score changes on this instrument have been used to report statistically significant treatment advantages for a low-dose oral contraceptive (Estrostep, containing norethisterone (norethindrone) acetate (NA) 1mg and ethinylestradiol (EE) [20, 30, 35 mg] as compared with placebo in women with moderate acne vulgaris. However, the question remained if these statistically significant results were also clinically meaningful.",
+        "journal": "PharmacoEconomics",
+        "year": "2003",
+        "authors": [
+          "McLeod Lori D",
+          "Fehnel Sheri E",
+          "Brandman Jane",
+          "Symonds Tara"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adolescent",
+          "Adult",
+          "Contraceptives, Oral, Combined",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Norethindrone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14596626/"
+      },
+      {
+        "pmid": "2289388",
+        "title": "Cycle control on low-dose oral contraceptives: a comparative trial.",
+        "abstract": "Cycle control was studied comparing the monophasic oral contraceptive Loestrin with three low-dose phasic preparations (Triphasil, Ortho 10/11 and Ortho 7/7/7) in 391 women of whom 300 completed 6 cycles. Loestrin subjects had a rate of occurrence (31% of cycles) for intermenstrual bleeding (IMB) comparable to the rates for subjects on the phasic preparations (36%, 37% and 37%, respectively). Triphasil subjects had lower rates than the Ortho 10/11 and Ortho 7/7/7 subjects (p less than 0.01) in cycle one when all subjects were analyzed and in pre-study users when continuing menstrual flow (CMF) episodes were not included as IMB. IMB was a cause for dropping out of the study in 7% of subjects who were evenly distributed between groups. There were no differences between groups for BTB when perceived by subjects as a side effect. Spotting was perceived as a side effect more often with Ortho 10/11 and Ortho 7/7/7 use than with Triphasil (p less than 0.01). Loestrin, Ortho 10/11 and Ortho 7/",
+        "journal": "Contraception",
+        "year": "1990",
+        "authors": [
+          "Percival-Smith R K",
+          "Yuzpe A A",
+          "Desrosiers J A",
+          "Rioux J E",
+          "Guilbert E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Amenorrhea",
+          "Analysis of Variance",
+          "Contraceptives, Oral, Combined",
+          "Contraceptives, Oral, Synthetic",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Ethinyl Estradiol-Norgestrel Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2289388/"
+      },
+      {
+        "pmid": "16904419",
+        "title": "Does St. John's wort interfere with the antiandrogenic effect of oral contraceptive pills?",
+        "abstract": "St. John's wort (SJW), a commonly used herbal remedy, has been shown to compromise the efficacy of drugs, including oral contraceptive pills (OCPs), by inducing cytochrome P-450. We investigated whether the simultaneous use of SJW with OCPs resulted in elevated serum androgen levels with implications of impaired OCP treatment of hirsutism and acne.",
+        "journal": "Contraception",
+        "year": "2006",
+        "authors": [
+          "Fogle Robin H",
+          "Murphy Patricia A",
+          "Westhoff Carolyn L",
+          "Stanczyk Frank Z"
+        ],
+        "pub_types": [
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adolescent",
+          "Adult",
+          "Androgen Antagonists",
+          "Androgens",
+          "Contraceptives, Oral",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Ethinyl Estradiol",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16904419/"
+      },
+      {
+        "pmid": "1974991",
+        "title": "Preliminary report: furunculosis and hypoferraemia.",
+        "abstract": "16 patients with recurrent staphylococcal furunculosis but without anaemia had significantly lower serum iron concentrations than normal laboratory reference values, 8 controls with single furuncles, or 10 controls with acne conglobata. There were no significant differences in serum glucose or iron binding capacity between the groups studied. Furunculosis resolved after 3-4 weeks' treatment with iron supplements in all but 1 patient. The relation between iron and susceptibility to infection is unclear, but merits further investigation.",
+        "journal": "Lancet (London, England)",
+        "year": "1990",
+        "authors": [
+          "Weijmer M C",
+          "Neering H",
+          "Welten C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Blood Glucose",
+          "Child",
+          "Disease Susceptibility",
+          "Female",
+          "Ferrous Compounds",
+          "Furunculosis",
+          "Humans",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1974991/"
+      },
+      {
+        "pmid": "14158432",
+        "title": "[PERORAL GESTAGEN/ESTROGEN TREATMENT--A SURVEY TOGETHER WITH PERSONAL CLINICAL TRIALS OF THE PREPARATION ANOVLAR].",
+        "abstract": "",
+        "journal": "Svenska lakartidningen",
+        "year": "1964",
+        "authors": [
+          "JACOBSON L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Biomedical Research",
+          "Contraceptives, Oral",
+          "Drug Combinations",
+          "Dysmenorrhea",
+          "Endocrinology",
+          "Endometriosis",
+          "Estrogens",
+          "Ethinyl Estradiol",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14158432/"
+      },
+      {
+        "pmid": "1863941",
+        "title": "Synphasic tablets in Canadian practice: a phase-IV multicenter study.",
+        "abstract": "The performance of a low-dose triphasic oral contraceptive (OC) in the first four cycles of use was evaluated by 1,326 primary-care physicians and specialists across Canada in a phase-IV postmarketing trial. Data were available from 5,460 women who completed 19,756 cycles of use with Synphasic. The incidence of intermenstrual bleeding characteristically decreased over the four cycles to 10% in women who were first-time users of OCs, to 14% in women who had previously used OCs but had discontinued use until this trial, and to 16% in women who had switched from another OC to Synphasic. The women reported a low incidence of headache, nausea, weight gain, breast complaints, and acne while receiving Synphasic. The results demonstrate good endometrial control with Synphasic and a high level of patient acceptance.",
+        "journal": "Clinical therapeutics",
+        "year": "1991",
+        "authors": [
+          "Powell M G",
+          "Talbot C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Contraceptives, Oral, Combined",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Menstrual Cycle",
+          "Norethindrone",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1863941/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:16:03.145157",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,579 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "disease of orbital region",
+    "query_string": "Methylprednisolone AND disease of orbital region"
+  },
+  "data": {
+    "query": "Methylprednisolone AND disease of orbital region",
+    "results": [
+      {
+        "pmid": "34297684",
+        "title": "The 2021 European Group on Graves' orbitopathy (EUGOGO) clinical practice guidelines for the medical management of Graves' orbitopathy.",
+        "abstract": "Graves' orbitopathy (GO) is the main extrathyroidal manifestation of Graves' disease (GD). Choice of treatment should be based on the assessment of clinical activity and severity of GO. Early referral to specialized centers is fundamental for most patients with GO. Risk factors include smoking, thyroid dysfunction, high serum level of thyrotropin receptor antibodies, radioactive iodine (RAI) treatment, and hypercholesterolemia. In mild and active GO, control of risk factors, local treatments, and selenium (selenium-deficient areas) are usually sufficient; if RAI treatment is selected to manage GD, low-dose oral prednisone prophylaxis is needed, especially if risk factors coexist. For both active moderate-to-severe and sight-threatening GO, antithyroid drugs are preferred when managing Graves' hyperthyroidism. In moderate-to-severe and active GO i.v. glucocorticoids are more effective and better tolerated than oral glucocorticoids. Based on current evidence and efficacy/safety profile, ",
+        "journal": "European journal of endocrinology",
+        "year": "2021",
+        "authors": [
+          "Bartalena L",
+          "Kahaly G J",
+          "Baldeschi L",
+          "Dayan C M",
+          "Eckstein A"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Antithyroid Agents",
+          "Diagnostic Techniques, Endocrine",
+          "Endocrine Surgical Procedures",
+          "Endocrinology",
+          "Europe",
+          "Graves Ophthalmopathy",
+          "History, 21st Century",
+          "Humans",
+          "Ophthalmologic Surgical Procedures",
+          "Practice Patterns, Physicians'"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34297684/"
+      },
+      {
+        "pmid": "33145132",
+        "title": "Rhino-Orbital Mucormycosis Associated With COVID-19.",
+        "abstract": "Coronavirus disease 2019 (COVID-19) infections may be associated with a wide range of bacterial and fungal co-infections. We report the case of a patient with COVID-19 infection, which, during the course of the treatment, developed rhino-orbital mucormycosis. A 60- year-old male patient, a longstanding diabetic, with a positive reverse-transcriptase polymerase chain reaction (RT-PCR) for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was admitted for treatment. He received parenteral meropenem and oral oseltamivir with parenteral methylprednisolone. Over the course of the admission, he developed signs of orbital cellulitis. Magnetic resonance imaging (MRI) of the brain, orbits, and paranasal sinuses, revealed soft tissue swelling in the right preseptal, malar, premaxillary and retrobulbar regions with paranasal sinusitis. A nasal biopsy revealed broad aseptate filamentous fungal hyphae suggestive of mucormycosis, which was confirmed on culture. Extensive use of steroids/",
+        "journal": "Cureus",
+        "year": "2020",
+        "authors": [
+          "Mehta Salil",
+          "Pandey Abha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33145132/"
+      },
+      {
+        "pmid": "40685234",
+        "title": "Application of protein A immunoadsorption in thyroid-associated ophthalmopathy (TAO): study protocol for a non-randomised controlled clinical trial.",
+        "abstract": "Thyroid-associated antibodies are crucial in the occurrence and development of thyroid-associated ophthalmopathy (TAO). Protein A immunoadsorption is a more specific and plasma-independent antibody removal technology, which has been used in a variety of autoimmune diseases, such as systemic lupus erythematosus and antineutrophil cytoplasmic antibodies associated vasculitis (ANCA-associated vasculitis). This study protocol aims to verify the efficacy and safety of the application of protein A immunoadsorption in TAO to provide a new method for the treatment of this pressing disease.",
+        "journal": "BMJ open",
+        "year": "2025",
+        "authors": [
+          "Lu Shiyao",
+          "Chen Haiyan",
+          "Liu Shenghua",
+          "Zhang Feng",
+          "Xiong Wei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial Protocol"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Graves Ophthalmopathy",
+          "Prospective Studies",
+          "Staphylococcal Protein A",
+          "Immunosorbent Techniques",
+          "Female",
+          "Antibodies, Monoclonal, Humanized",
+          "China",
+          "Adult",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40685234/"
+      },
+      {
+        "pmid": "33027244",
+        "title": "Internuclear Ophthalmoplegia as the First Manifestation of Pediatric-Onset Multiple Sclerosis and Concurrent Lyme Disease.",
+        "abstract": "BACKGROUND Internuclear ophthalmoplegia (INO) presents as a disruption of horizontal conjugate ocular movement and is an uncommon finding in the pediatric population. Its presence warrants a thorough evaluation to search for demyelinating, mass effect, inflammatory, or infectious etiologies. CASE REPORT A 15-year-old African American girl presented to the Emergency Department with acute horizontal binocular diplopia in left gaze. An ophthalmic examination revealed a right INO. She denied any fever, chills, or neck stiffness. Complete blood counts and a metabolic panel were unremarkable. Magnetic resonance imaging (MRI) of the brain and orbits revealed scattered pontine, periventricular, and subcortical white matter signal abnormalities within the left frontal lobe suggestive of active demyelination. MRI of the spinal column also demonstrated multiple areas of increased signal intensity from the C3 to C7-T1 region. Inflammatory and autoimmune studies were negative. However, her serum Ig",
+        "journal": "The American journal of case reports",
+        "year": "2020",
+        "authors": [
+          "Chao Jonathan",
+          "Saleem Sandal",
+          "Tausif Hassan N",
+          "Levasseur Kelly",
+          "Stec Lori A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Female",
+          "Humans",
+          "Lyme Disease",
+          "Magnetic Resonance Imaging",
+          "Methylprednisolone",
+          "Multiple Sclerosis",
+          "Ocular Motility Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33027244/"
+      },
+      {
+        "pmid": "35864917",
+        "title": "Seropositive Neuromyelitis Optica in a Case of Undiagnosed Ankylosing Spondylitis: A Neuro-Rheumatological Conundrum.",
+        "abstract": "Neuromyelitis optica spectrum disorder (NMOSD) is an autoimmune astrocytopathy against foot processes of aquaporin-4 (AQP4) water channels. Patients with NMOSD tend to have other coexisting autoimmune/connective tissue diseases. However, AQP-4-antibody-positive NMOSD coexisting with ankylosing spondylitis (AS) is rare. AS is an immune-mediated disorder, a subset of axial spondyloarthropathies, which commonly manifests as chronic inflammatory back pain in young people, and it has a strong association with HLA-B27. In this study, a 35-year-old Indian man with an undiagnosed progressive axial spondyloarthropathy (i.e., AS) is reported presenting with acute-onset longitudinally extensive transverse myelitis, a clinical subset of NMOSD. Neuromyelitis optica spectrum disorder (NMOSD), a primary demyelinating disorder of the central nervous system (CNS), is an autoimmune astrocytopathy against foot processes of aquaporin-4 (AQP4) water channels, which manifests with optic neuritis, longitudin",
+        "journal": "Qatar medical journal",
+        "year": "2022",
+        "authors": [
+          "Ghosh Md Ritwik",
+          "Roy Devlina",
+          "León-Ruiz Moisés",
+          "Das Shambaditya",
+          "Dubey Souvik"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35864917/"
+      },
+      {
+        "pmid": "39798945",
+        "title": "Low clinical activity score, 'progressive' thyroid eye disease: presentations of 1439 patients from a tertiary centre in Hong Kong.",
+        "abstract": "To report the presenting clinical, serological and treatment profiles of 1439 patients with thyroid eye disease (TED) from a tertiary centre in Hong Kong.",
+        "journal": "The British journal of ophthalmology",
+        "year": "2025",
+        "authors": [
+          "Lai Kenneth Ka Hei",
+          "Aljufairi Fatema Mohamed Ali Abdulla",
+          "Sebastian Jake Uy",
+          "Lai Kei Hei",
+          "Chan Karen Kar Wun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Hong Kong",
+          "Graves Ophthalmopathy",
+          "Adult",
+          "Tertiary Care Centers",
+          "Prospective Studies",
+          "Middle Aged",
+          "Disease Progression"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39798945/"
+      },
+      {
+        "pmid": "20393724",
+        "title": "[Driving competency after combined treatment with methylprednisolone and orbital radiotherapy for endocrine orbitopathy].",
+        "abstract": "Graves' orbitopathy (GO) in its moderate to severe expression is a disfiguring and disabling disease that profoundly influences activities of daily living. Intravenous steroids and orbital radiotherapy are effective treatments for moderate to severe active GO. We examined the ophthalmological outcomes regarding daily life activities, such as driving competency.",
+        "journal": "Der Ophthalmologe : Zeitschrift der Deutschen Ophthalmologischen Gesellschaft",
+        "year": "2010",
+        "authors": [
+          "Sterker I",
+          "Tegetmeyer H",
+          "Papsdorf K",
+          "Führer D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Automobile Driver Examination",
+          "Automobile Driving",
+          "Chemoradiotherapy",
+          "Eligibility Determination",
+          "Germany",
+          "Graves Ophthalmopathy",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20393724/"
+      },
+      {
+        "pmid": "11784839",
+        "title": "Evaluation of the management of optic neuritis: audit on the neurological and ophthalmological practice in the north west of England.",
+        "abstract": "The management of acute optic neuritis by neurologists and ophthalmologists in the north west of England was assessed in the light of the Optic Neuritis Treatment Trial (ONTT) recommendations. A questionnaire on a fictitious case of typical unilateral optic neuritis was mailed to all consultant ophthalmologists and neurologists working in the North West and Merseyside Health Authorities. They were then asked to comment on management of the case. Fifty two out of 86 ophthalmologists and 20 out of 28 neurologists replied. The overall response rate was 63%. Sixty five per cent of neurologists and 46% of ophthalmologists would investigate a typical case of acute optic neuritis further. Forty six per cent of neurologists and 36% of ophthalmologists were likely to arrange MRI of the brain or orbit. Significantly more neurologists (55%) than ophthalmologists (9%) chose to treat with intravenous methylprednisolone (p<0.005). Significantly more ophthalmologists (64%) than neurologists (32%) cho",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "2002",
+        "authors": [
+          "Ghosh A",
+          "Kelly S P",
+          "Mathews J",
+          "Cooper P N",
+          "Macdermott N"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Diagnosis, Differential",
+          "England",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Medical Audit",
+          "Methylprednisolone",
+          "Neurology",
+          "Ophthalmology",
+          "Optic Neuritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11784839/"
+      },
+      {
+        "pmid": "16714839",
+        "title": "A case of hypothyroid Graves' disease following external radiation therapy to the cervical region.",
+        "abstract": "A case of hypothyroid Graves' disease occurred following external radiation therapy to the cervical region is described. Severe hypothyroidism developed in a 56-year-old man 6 months after external radiation therapy for submandibular cancer. Serological evaluation of thyroid autoimmunity revealed the presence of antithyroid antibodies and thyrotropin-binding inhibitory immunogloblins (TBII). Diplopia, limitation of downward gaze, and palpebral edema developed 2 years after levothyroxine replacement therapy. Ocular magnetic resonance imaging revealed marked hypertrophy of the bilateral extraocular muscles with signal hyperintensity on T2-weighted images. This infiltrative ophthalmopathy showed marked improvement after additional treatment with high-dose methylprednisolone and orbital radiation, in parallel with a decrease in TBII. These results suggest that radiation-associated thyroidal injury might be associated with the etiology of hypothyroid Graves' disease.",
+        "journal": "Endocrine journal",
+        "year": "2006",
+        "authors": [
+          "Nishihara Eijun",
+          "Fukata Shuji",
+          "Kimura Nobuhiko",
+          "Hagihara Masahiro",
+          "Kudo Takumi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Carcinoma, Squamous Cell",
+          "Diplopia",
+          "Graves Disease",
+          "Graves Ophthalmopathy",
+          "Humans",
+          "Hypothyroidism",
+          "Male",
+          "Middle Aged",
+          "Radiation Injuries",
+          "Radiotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16714839/"
+      },
+      {
+        "pmid": "29685738",
+        "title": "[Idiopathic orbital inflammatory syndrome: Report of 24 cases].",
+        "abstract": "Idiopathic orbital inflammatory syndrome (IOIS) is an inflammatory condition of unknown etiology. The inflammation may affect all the structures within the orbit (anterior, diffuse, apical, myositic, dacryoadenitis) and corresponds to uniquely orbital inflammation without an identifiable local cause or systemic disease. The goal of this study is to describe the clinical and radiographic characteristics of IOIS and discuss the role of orbital biopsy in this condition.",
+        "journal": "Journal francais d'ophtalmologie",
+        "year": "2018",
+        "authors": [
+          "Khochtali S",
+          "Zayani M",
+          "Ksiaa I",
+          "Ben Meriem I",
+          "Zaouali S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Biopsy",
+          "Female",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Magnetic Resonance Imaging",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29685738/"
+      },
+      {
+        "pmid": "29693233",
+        "title": "Management of optic neuritis in Ireland: a survey comparing the management practices of acute demyelinating optic neuritis amongst ophthalmologists and neurologists in Ireland.",
+        "abstract": "Acute optic neuritis (ON) is often the first manifestation of multiple sclerosis which is particularly common in Ireland. Despite the specific clinical details regarding investigations and management of ON provided by the Optic Neuritis Treatment Trial (ONTT), international surveys have shown that there are still notable differences in the management of ON between neurologists and ophthalmologists.",
+        "journal": "Irish journal of medical science",
+        "year": "2019",
+        "authors": [
+          "Kobayter Lina",
+          "Chetty Shivona"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Clinical Laboratory Techniques",
+          "Demyelinating Diseases",
+          "Female",
+          "Glucocorticoids",
+          "Health Care Surveys",
+          "Humans",
+          "Ireland",
+          "Magnetic Resonance Imaging",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29693233/"
+      },
+      {
+        "pmid": "28185649",
+        "title": "Treatment by rituximab on six Grave's ophthalmopathies resistant to corticosteroids.",
+        "abstract": "Graves' ophthalmopathy occurs in 50% of Graves' disease cases. Treatment is based on smoking cessation, and control of the euthyroidism and ocular repercussions associated with the disease. The active orbital forms are treated with glucocorticoids. Non-validated therapies have also been recently tested. Rituximab has been effectively used several times to treat corticosteroid-resistant Graves' ophthalmopathy associated with an optic neuropathy, but its use could be proposed only in inflammatory ophthalmopathies after failure of the corticosteroids. We present six cases treated since early 2012 at the University Hospital Center of Tours, France.",
+        "journal": "Annales d'endocrinologie",
+        "year": "2017",
+        "authors": [
+          "Précausta Flavien",
+          "Arsène Sophie",
+          "Renoult-Pierre Peggy",
+          "Laure Boris",
+          "Crinière Lise"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Drug Resistance",
+          "Female",
+          "France",
+          "Glucocorticoids",
+          "Graves Ophthalmopathy",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28185649/"
+      },
+      {
+        "pmid": "15124526",
+        "title": "Clinical analysis of 106 cases with elevated intraocular pressure in thyroid-associated ophthalmopathy.",
+        "abstract": "To summarize the clinical manifestation of thyroid-associated ophthalmopathy (TAO) with elevated intraocular pressure (IOP), and to analyze the contributing factors.",
+        "journal": "Yan ke xue bao = Eye science",
+        "year": "2004",
+        "authors": [
+          "He Jianfeng",
+          "Wu Zhongyao",
+          "Yan Jianhua",
+          "Yang Huasheng",
+          "Mao Yuxiang"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "China",
+          "Diagnosis, Differential",
+          "Female",
+          "Glaucoma",
+          "Graves Disease",
+          "Humans",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15124526/"
+      },
+      {
+        "pmid": "26835424",
+        "title": "Methylprednisolone Pulse Treatment of Graves' Ophthalmopathy Is Not Associated with Secondary Adrenocortical Insufficiency.",
+        "abstract": "Graves' ophthalmopathy (GO) is an inflammatory disease in the orbital region. The first-line medical treatment is glucocorticoids. An important potential side effect of glucocorticoid treatment is suppression of the hypothalamic-pituitary-adrenal (HPA) axis with impairment of endogenous cortisol production, implicating symptoms of adrenocortical insufficiency, especially in the period after cessation of therapy with possible risks in cases of intercurrent illness. The aim of this study was to evaluate HPA axis function before and after methylprednisolone pulse treatment of GO.",
+        "journal": "European thyroid journal",
+        "year": "2015",
+        "authors": [
+          "Jespersen Sofie",
+          "Nygaard Birte",
+          "Kristensen Lars Østergaard"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26835424/"
+      },
+      {
+        "pmid": "11001189",
+        "title": "Orbital apex lesion as the presenting manifestation of sarcoidosis.",
+        "abstract": "A 32-year-old black woman presented with progressive proptosis, diplopia, and optic disc edema of the right eye. A computed tomography scan of the orbit showed a right retroorbital mass. A gallium scan showed increased radiotracer activity in the right retroorbital region. Biopsy of the mass showed non-caseating granulomas that were compatible with sarcoidosis. The patient was treated with systemic steroids, and the proptosis and diplopia resolved. Seven months later, the patient presented with contralateral optic neuropathy. Neuroimaging showed enlargement of the left optic nerve. The patient again responded to systemic steroid treatment and experienced complete restoration of vision. An orbital apex lesion may be the presenting manifestation of sarcoidosis.",
+        "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+        "year": "2000",
+        "authors": [
+          "Segal E I",
+          "Tang R A",
+          "Lee A G",
+          "Roberts D L",
+          "Campbell G A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Diplopia",
+          "Exophthalmos",
+          "Female",
+          "Gallium Radioisotopes",
+          "Glucocorticoids",
+          "Granuloma",
+          "Humans",
+          "Methylprednisolone",
+          "Optic Nerve Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11001189/"
+      },
+      {
+        "pmid": "35086223",
+        "title": "Clinico-epidemiologic characteristics of optic neuritis in a tertiary eye centre in Eastern India based on the status of serum aquaporin-4 antibody.",
+        "abstract": "To elucidate the clinico-epidemiologic characteristics of optic neuritis based on the status of serum aquaporin-4 antibody (AQP4-Ab) in patients with optic neuritis (ON).",
+        "journal": "Indian journal of ophthalmology",
+        "year": "2022",
+        "authors": [
+          "Ambasta Anita",
+          "Kusumesh Rakhi",
+          "Sharma Janardan",
+          "Sinha Bibhuti Prassan",
+          "Shree Srishti"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aquaporin 4",
+          "Autoantibodies",
+          "Humans",
+          "India",
+          "Neoplasm Recurrence, Local",
+          "Optic Neuritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35086223/"
+      },
+      {
+        "pmid": "666632",
+        "title": "Acquired Brown's syndrome of inflammatory origin. Response to locally injected steroids.",
+        "abstract": "In a recent large series of tendon sheath syndrome, Brown reported only five cases of the pure acquired type that were not intermittent and in which the patients did not undergo spontaneous recovery. The origin of acquired Brown's syndrome is varied and includes trauma of the orbit, direct trochlear trauma, orbital or muscle surgery, frontal sinusitis or sinus surgery, and inflammation of the superior oblique tendon and sheath, namely a stenosing tenosynovitis. The differential diagnosis and possible causes of the acquired Brown's syndrome were reviewed, and two cases of presumptive tenosynovitis of the superior oblique tendon and sheath are presented in detail. In both cases, the condition of each patient was notably improved by a series of direct injections of methylprednisolone acetate into the trochlear region. This form of treatment for acquired Brown's syndrome of inflammatory origin has never, to my knowledge, been reported in the literature.",
+        "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+        "year": "1978",
+        "authors": [
+          "Hermann J S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Diplopia",
+          "Female",
+          "Humans",
+          "Male",
+          "Methylprednisolone",
+          "Ophthalmoplegia",
+          "Syndrome",
+          "Tenosynovitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/666632/"
+      },
+      {
+        "pmid": "27715404",
+        "title": "Severe pediatric Graves orbitopathy in adolescents of African origin.",
+        "abstract": "This article reports on two cases of severe pediatric Graves orbitopathy (GO) in two adolescents of African origin. Two black male adolescents presented with highly active GO and signs of beginning compressive optic neuropathy. Neither of them were smokers nor had a family history of GO. Besides urgent referral to pediatric endocrinologists, intravenous methylprednisolon pulse therapy was initiated. In spite of the fluctuating thyroid hormone levels in the initial phase of antithyroid therapy, intravenous steroid administration stopped the progression of malignant GO rapidly in both of our patients without any considerable side effects. Although the course of GO during childhood is considered to be mild, severe, sight threatening GO-requiring immunosuppression-may occur at young age, as in the reported adolescent patients of African descent.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2016",
+        "authors": [
+          "Papp Andrea",
+          "Vasserot-Merle Clemence",
+          "Dorner Guido",
+          "Paridaens Dion"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Africa, Western",
+          "Black People",
+          "Exophthalmos",
+          "Glucocorticoids",
+          "Graves Ophthalmopathy",
+          "Humans",
+          "Intraocular Pressure",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27715404/"
+      },
+      {
+        "pmid": "9814448",
+        "title": "Orbital scintigraphy with [111In-diethylenetriamine pentaacetic acid-D-phe1]-octreotide predicts the clinical response to corticosteroid therapy in patients with Graves' ophthalmopathy.",
+        "abstract": "Corticosteroid treatment is successfully used in Graves' ophthalmopathy, and its effect varies according to the phase of the disease. The infiltration of the orbit by activated lymphocytes may explain the effectiveness of corticosteroid therapy. Scintigraphy with [111In-DTPA-D-Phe1]-octreotide was recently used to reveal the presence of activated lymphocytes in foci of autoimmune diseases, because elevated amounts of somatostatin receptors are expressed in the surface of these cells. The aim of the current study was to evaluate whether the degree of orbital [111In-DTPA-D-Phe1]-octreotide uptake is able to predict the response to corticosteroid therapy in patients with Graves' ophthalmopathy. Ten patients with Graves' ophthalmopathy entered the study. In all patients scintigraphy was performed, and subsequently, corticosteroid therapy (methylprednisolone, 1 g i.v. for 2 consecutive days a week for 6 weeks) was given. Clinical activity of Graves' ophthalmopathy was evaluated before and a",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "1998",
+        "authors": [
+          "Colao A",
+          "Lastoria S",
+          "Ferone D",
+          "Pivonello R",
+          "Macchia P E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Glucocorticoids",
+          "Graves Disease",
+          "Humans",
+          "Indium Radioisotopes",
+          "Male",
+          "Methylprednisolone",
+          "Middle Aged",
+          "Octreotide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9814448/"
+      },
+      {
+        "pmid": "19794953",
+        "title": "Kimura's disease involving the ipsilateral face and extraocular muscles.",
+        "abstract": "Kimura's disease (KD) is a rare, chronic inflammatory disorder, which is characterized by tumor-like masses mainly located in the head and neck region. Extraocular muscle involvement in KD is uncommon. We report a case of KD that involved both the extraocular muscles and buccal area. A 13-year-old male presented to our clinic with a two-year history of exophthalmos of the left eye and facial swelling. Facial CT and MRI showed a 1.5 x 1.5 cm(2) soft tissue mass located at the left masticator and buccal area, exophthalmos of the left eye, and diffuse thickening of the left extraocular muscles. We performed a lateral rectus muscle incisional biopsy of the left eye. Oral methylprednisolone therapy was initiated and tapered following the incisional biopsy. Histopathologic findings of the lateral rectus muscle incisional biopsy showed abnormal vascular proliferation with marked eosinophilic infiltration in hypertrophied collagenous tissue. Post-operative histopathologic findings of the facia",
+        "journal": "Korean journal of ophthalmology : KJO",
+        "year": "2009",
+        "authors": [
+          "Lee Sang Joon",
+          "Song Ju Hwan",
+          "Kim Shin Dong"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Angiolymphoid Hyperplasia with Eosinophilia",
+          "Cheek",
+          "Edema",
+          "Exophthalmos",
+          "Face",
+          "Glucocorticoids",
+          "Humans",
+          "Magnetic Resonance Imaging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19794953/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:44:06.751772",
+  "success": true,
+  "error_message": null
+}

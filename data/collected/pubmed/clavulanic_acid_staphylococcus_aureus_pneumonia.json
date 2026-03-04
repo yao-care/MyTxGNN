@@ -1,0 +1,560 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "staphylococcus aureus pneumonia",
+    "query_string": "Clavulanic Acid AND staphylococcus aureus pneumonia"
+  },
+  "data": {
+    "query": "Clavulanic Acid AND staphylococcus aureus pneumonia",
+    "results": [
+      {
+        "pmid": "7137980",
+        "title": "Distribution of amoxicillin and clavulanic acid in infected animals and efficacy against experimental infections.",
+        "abstract": "The therapeutic effects produced by formulations of amoxicillin plus clavulanic acid (BRL 25 000A and BRL 25 000G) were compared with those of amoxicillin and clavulanic acid separately against a variety of infections produced by amoxicillin-susceptible and beta-lactamase-producing (amoxicillin-resistant) bacteria. The infection models studied included intraperitoneal infections, a mouse pneumonia, experimental pyelonephritis, and local lesions caused by Staphylococcus aureus and Bacteroides fragilis. The distribution of amoxicillin and clavulanic acid in infected animals after the administration of amoxicillin-clavulanic acid was evaluated by measurement of the concentrations of the substances present in specimens collected at the sites of infection. The results showed that both amoxicillin and clavulanic acid were well distributed in the animal body after the administration of amoxicillin-clavulanic acid formulations, being present in significant concentrations at various sites of in",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1982",
+        "authors": [
+          "Boon R J",
+          "Beale A S",
+          "Comber K R",
+          "Pierce C V",
+          "Sutherland R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Bacteroides Infections",
+          "Clavulanic Acids",
+          "Drug Combinations",
+          "Mice",
+          "Pneumonia, Staphylococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7137980/"
+      },
+      {
+        "pmid": "1771308",
+        "title": "Antibiotic therapy of pleural empyema.",
+        "abstract": "Most empyemas occur as a complication of pneumonia or lung abscess, but 15% to 30% occur after thoracic surgery and 10% occur in association with an intraabdominal infection. The bacteriology of empyemas that occur in association with lung infections is often polymicrobial and mixed, containing multiple species of both aerobic and anaerobic bacteria, the latter found in up to 75% of cases. In contrast, empyema following thoracic surgery is more likely to be monomicrobial and caused by common nosocomial pathogens such as Staphylococcus aureus and aerobic gram-negative bacilli. Diffusion of antibiotics into both infected and uninfected pleural fluid is good, but certain agents (aminoglycosides and some beta-lactams) may be inactivated in the presence of pus, low pH, and beta-lactamase enzymes. Single antibiotic agents that are likely to be active against the wide spectrum of potential pathogens include imipenem-cilastatin and ticarcillin-clavulanic acid. Combinations of antibiotics shoul",
+        "journal": "Seminars in respiratory infections",
+        "year": "1991",
+        "authors": [
+          "Hughes C E",
+          "Van Scoy R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Empyema, Pleural",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1771308/"
+      },
+      {
+        "pmid": "31463610",
+        "title": "Antibiogram and molecular characterization of methicillin-resistant Staphylococcus aureus recovered from treated wastewater effluent and receiving surface water in Durban, South Africa.",
+        "abstract": "Municipal wastewater treatment plants (WWTPs) may serve as a reservoir for potentially pathogenic and antibiotic resistant bacteria. The discharge of improperly treated wastewater effluent may lead to the spread of these bacteria, including methicillin-resistant Staphylococcus aureus (MRSA) which is responsible for causing pneumonia, septicaemia and skin and soft tissue infections, into the receiving surface waters. This study aimed to determine the antibiogram and virulence gene profiles of MRSA isolates recovered from treated wastewater effluent and receiving surface waters. Genetic fingerprinting of the isolates was also carried out to determine the phylogenetic relationship between the isolates and selected antibiogram profiles. Eighty MRSA isolates were obtained from treated effluent and receiving rivers of two WWTPs in Durban, KwaZulu-Natal. Antibiotic resistance was observed towards lincomycin (100%), oxacillin (98.75%), cefoxitin and penicillin (97.50%), and ampicillin (96.25%)",
+        "journal": "World journal of microbiology & biotechnology",
+        "year": "2019",
+        "authors": [
+          "Ramessar Kerisha",
+          "Olaniran Ademola O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "DNA Fingerprinting",
+          "Drug Resistance, Bacterial",
+          "Electrophoresis, Gel, Pulsed-Field",
+          "Genes, Bacterial",
+          "Humans",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Microbial Sensitivity Tests",
+          "Phylogeny",
+          "South Africa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31463610/"
+      },
+      {
+        "pmid": "17116443",
+        "title": "Monotherapy versus combination therapy.",
+        "abstract": "The science of antibiotic therapy for infectious diseases continues to evolve. In many instances where empiric coverage is necessary, treatment with more than one agent is considered prudent. If an etiology is identified, antibiotics are modified based on culture and susceptibility data. Even when the organism is known, more than one antibiotic may be needed. Decisions about antibiotics should be made after assessments of pertinent clinical information, laboratory and microbiology information, ease of administration, patient compliance, potential adverse effects, cost, and available evidence supporting various treatment options. Clinicians also need to consider synergy and local resistance patterns in selecting therapeutic options. In this article, the authors outline monotherapy and combination therapy options for several common infectious diseases.",
+        "journal": "The Medical clinics of North America",
+        "year": "2006",
+        "authors": [
+          "Patel Shilpa M",
+          "Saravolatz Louis D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Cellulitis",
+          "Cephalosporins",
+          "Ciprofloxacin",
+          "Diverticulitis",
+          "Drug Therapy, Combination",
+          "Endocarditis, Bacterial",
+          "Enterococcus faecalis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17116443/"
+      },
+      {
+        "pmid": "25344175",
+        "title": "[Clinical features of inhaled and blood-borne Staphylococcus aureus pneumonia and analysis of antibiotic resistance of the pathogen in children].",
+        "abstract": "To compare the clinical manifestations between inhaled and blood-borne Staphylococcus aureus pneumonia (SAP) and the antibiotic resistance between the isolates of inhaled and blood-borne Staphylococcus aureus.",
+        "journal": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+        "year": "2014",
+        "authors": [
+          "Zhang Guang-Li",
+          "Liu Ru",
+          "Zhang Hui",
+          "Li Ying",
+          "Zhang Dong-Wei"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Blood-Borne Pathogens",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25344175/"
+      },
+      {
+        "pmid": "34446339",
+        "title": "RSV pneumonia with or without bacterial co-infection among healthy children.",
+        "abstract": "Respiratory syncytial virus (RSV) is a common cause of childhood pneumonia, but there is limited understanding of whether bacterial co-infections affect clinical severity.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2022",
+        "authors": [
+          "Lin Hsiao-Chi",
+          "Liu Yun-Chung",
+          "Hsing Tzu-Yun",
+          "Chen Li-Lun",
+          "Liu Yu-Cheng"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacteria",
+          "Child",
+          "Child, Preschool",
+          "Coinfection",
+          "Hospitalization",
+          "Humans",
+          "Infant",
+          "Male",
+          "Pneumonia, Viral",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34446339/"
+      },
+      {
+        "pmid": "16823991",
+        "title": "Nursing home-acquired pneumonia: update on treatment options.",
+        "abstract": "The management of nursing home-acquired pneumonia (NHAP) continues to be debatable because of the lack of clinical trials and controversy regarding its aetiology. The controversy regarding aetiology stems, in part, from studies that utilised sputum cultures for the diagnosis of NHAP without assessing the quality of the samples. These studies found a high proportion of Gram-negative aerobic bacilli in cultures as well as Staphylococcus aureus. However, in studies that have assessed the reliability of sputum samples, Gram-negative bacilli and S. aureus were isolated infrequently and Streptococcus pneumoniae and Haemophilus influenzae isolated most commonly. Since Gram-negative aerobic bacilli and S. aureus frequently cause hospital-acquired pneumonia, some authors have considered NHAP to be a variant of this group. Many other studies, however, have considered NHAP as part of the community-acquired pneumonia category. Depending on which categorisation is used for NHAP, the treatment recom",
+        "journal": "Drugs & aging",
+        "year": "2006",
+        "authors": [
+          "Mylotte Joseph M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Clinical Trials as Topic",
+          "Community-Acquired Infections",
+          "Dementia",
+          "Homes for the Aged",
+          "Humans",
+          "Infection Control",
+          "Nursing Homes",
+          "Oxygen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16823991/"
+      },
+      {
+        "pmid": "3888101",
+        "title": "Clinical trial of the efficacy and safety of ticarcillin and clavulanic acid.",
+        "abstract": "Forty-three hospitalized patients were treated with a new antibiotic combination containing ticarcillin plus the beta-lactamase inhibitor, clavulanic acid, in a fixed combination for intravenous use. A variety of infections were treated, including pneumonia, bacteremia, urinary tract infection, and osteomyelitis. Of 50 episodes of infection in 43 patients, 44 clinical cures were obtained, with 5 patients improving and 1 patient failing to respond to treatment. In vitro susceptibility testing of 101 clinical isolates was notable for the rarity of resistance to the combination antibiotic. Of specific interest, all 14 isolates of Staphylococcus aureus were susceptible to ticarcillin plus clavulanic acid, whereas only 2 of the 14 isolates were susceptible to ticarcillin alone. Adverse reactions to the study drug were minimal; eosinophilia, unaccompanied by other allergic phenomena, and oral candidiasis were most frequent. Overall, the combination of ticarcillin with the beta-lactamase inhi",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1985",
+        "authors": [
+          "Roselle G A",
+          "Bode R",
+          "Hamilton B",
+          "Bibler M",
+          "Sullivan R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Bacterial Infections",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3888101/"
+      },
+      {
+        "pmid": "9711451",
+        "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+        "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Langtry H D",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Drug Tolerance",
+          "Humans",
+          "Infant",
+          "Otitis Media",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+      },
+      {
+        "pmid": "4073097",
+        "title": "Lower respiratory tract infection.",
+        "abstract": "The most important lower respiratory infection is pneumonia, the fourth leading cause of death. Most cases of bronchitis are of viral etiology and are not major problems. Empyema can present an important problem in management. Although the diagnosis of pneumonia is usually relatively straightforward, the specific etiologic diagnosis remains a major problem. Availability of empyema fluid or a positive blood culture result can be helpful in making the etiologic diagnosis, but these are unavailable in most patients. Screening of sputum Gram stains under 100 X magnification is very important; there should be fewer than 10 squamous epithelial cells, more than 25 polymorphonuclear leukocytes, or both per field of this size. The major causes of pneumonia are Streptococcus pneumoniae, Mycoplasma pneumoniae, anaerobic bacteria, Staphylococcus aureus, various gram-negative aerobic or facultative bacilli and Legionella. However, many other organisms are capable of causing pneumonia, even in the i",
+        "journal": "The American journal of medicine",
+        "year": "1985",
+        "authors": [
+          "Finegold S M",
+          "Johnson C C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Drug Combinations",
+          "Humans",
+          "Pneumonia",
+          "Ticarcillin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4073097/"
+      },
+      {
+        "pmid": "2227080",
+        "title": "Treatment of respiratory tract infections in children: a study of a combination of amoxycillin and clavulanic acid.",
+        "abstract": "In an open study, 70 in-patients and 23 out-patients aged between 1 and 14 years with sinusitis (n = 1), perforated otitis media (n = 4), pharyngotonsillitis (n = 25), tracheobronchitis (n = 30) or broncho-pneumonia (n = 33) were treated daily with a combination of 40 mg/kg amoxycillin and 10 mg/kg clavulanic acid in three equal doses for between 6 and 15 days. Purulent specimens were cultured when obtainable and pathogenic organisms identified were Staphylococcus aureus, beta-haemolytic streptococcal group A, Pseudomonas aeruginosa, Pseudococcus species and Klebsiella pneumoniae infections, of which 45.7% were beta-lactamase-producing and 54.3% were ampicillin-susceptible. After treatment, only one beta-lactamase-producing Streptococcus and one Staphylococcus infection persisted. Side-effects (vomiting, nausea, diarrhoea, maculopapular exanthema, rash) occurred in 16 patients and treatment was withdrawn in eight. It is concluded that the amoxycillin--clavulanic acid combination is a s",
+        "journal": "The Journal of international medical research",
+        "year": "1990",
+        "authors": [
+          "Fiocchi A",
+          "Zuccotti G",
+          "Bellù R",
+          "Marangione P",
+          "Riva E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Blood Cell Count",
+          "Child",
+          "Child, Preschool",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2227080/"
+      },
+      {
+        "pmid": "11302286",
+        "title": "Antibacterial treatment of invasive mechanical ventilation-associated pneumonia.",
+        "abstract": "Patients admitted to intensive care units (ICU) are at higher risk of acquiring nosocomial infections than patients in other hospital areas. This is the consequence of both a greater severity of illness with its implications (manipulation, invasiveness) and crossed infection from reservoirs inside the ICU. The most frequent nosocomial infection is invasive ventilation-associated pneumonia (VAP) which leads to an important increase in morbidity and mortality. The most important aetiological agents in VAP are bacteria, with a marked predominance of Staphylococcus aureus and Pseudomonas aeruginosa. These aetiologies may be different depending upon the type of ICU (medical, surgical, coronary) or the presence of certain risk factors (duration of mechanical ventilation before onset of pneumonia, previous exposure to antibacterials). Susceptibilities of the aetiological agents to antibacterials may also vary according to the type of ICU and over time. Data from global studies show an increas",
+        "journal": "Drugs & aging",
+        "year": "2001",
+        "authors": [
+          "Barcenilla F",
+          "Gascó E",
+          "Rello J",
+          "Alvarez-Rocha L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Cross Infection",
+          "Disease Susceptibility",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Intensive Care Units",
+          "Lactams",
+          "Pneumonia, Bacterial",
+          "Respiration, Artificial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11302286/"
+      },
+      {
+        "pmid": "9793046",
+        "title": "[Would ampicillin alone again be enough for treating community-acquired pneumonias?].",
+        "abstract": "MORE THAN SEMANTICS: The complexity of the problem raised by this apparently simple question becomes apparent if one examines the meanings behind the words.",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "1998",
+        "authors": [
+          "Bédos J P"
+        ],
+        "pub_types": [
+          "Editorial",
+          "English Abstract"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Ampicillin",
+          "Community-Acquired Infections",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Penicillins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9793046/"
+      },
+      {
+        "pmid": "41358774",
+        "title": "Community-acquired pneumonia-causing bacteria and antibiotic resistance rate among Syrian patients.",
+        "abstract": "Antimicrobial resistance poses a critical global health concern, particularly in developing countries like Syria, and is responsible for the increased rates of infection and mortality associated with community-acquired pneumonia (CAP).",
+        "journal": "Journal of infection in developing countries",
+        "year": "2025",
+        "authors": [
+          "Habeeb Rana",
+          "Jawich Kenda",
+          "Charaf Lana",
+          "Hammamieh Alshaar Kamar",
+          "Hassoun Hajar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Community-Acquired Infections",
+          "Syria",
+          "Cross-Sectional Studies",
+          "Anti-Bacterial Agents",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Adult",
+          "Pneumonia, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41358774/"
+      },
+      {
+        "pmid": "37935333",
+        "title": "Effect of Antimicrobial Stewardship 2018 on severe pneumonia with bacterial infection in paediatric intensive care units.",
+        "abstract": "Antimicrobial Stewardship 2018 (ASP 18) in China emphasizes the hierarchical control of antimicrobial drugs and the management of physicians' prescribing authority, especially in children. The purpose of this study was to assess the effect of implementation of ASP 2018 on antibiotic consumption, resistance, and treatment outcomes in children with severe pneumonia from bacterial infections.",
+        "journal": "Journal of global antimicrobial resistance",
+        "year": "2024",
+        "authors": [
+          "Fan Chaonan",
+          "Yang Mei",
+          "Mao Yiyang",
+          "Fang Boliang",
+          "He Yushan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Linezolid",
+          "Antimicrobial Stewardship",
+          "Retrospective Studies",
+          "Antifungal Agents",
+          "Microbial Sensitivity Tests",
+          "Anti-Bacterial Agents",
+          "Staphylococcus aureus",
+          "Staphylococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37935333/"
+      },
+      {
+        "pmid": "16300223",
+        "title": "Importance of understanding pharmacokinetic/pharmacodynamic principles in the emergence of resistances, including community-associated Staphylococcus aureus.",
+        "abstract": "Pharmacologic parameters have been defined to predict efficacy in antimicrobial selection for the treatment of uncomplicated skin and skin structure infections (uSSSIs). Pharmacokinetics (PK) and pharmacodynamics (PD) are the bases for describing the in vivo behavior of antimicrobial agents. T>MIC is the duration of time that a pathogen is exposed to concentrations of antimicrobial agents that exceed the MIC of that particular organism. For antimicrobials with time-dependent activity (eg, penicillin and cephalosporins), the T>MIC needed to eradicate bacteria is generally 40% to 50% of the dosing interval. The most frequently prescribed oral antimicrobials for uSSSI are oral cephalosporins, amoxicillin/clavulanic acid, macrolides, anti-staphylococcal penicillins, and fluoroquinolones. The selected oral agent should display a broad spectrum of antimicrobial coverage, be able to be dosed once, or at most twice, a day, and show high levels of target attainment (> or = 90%) for eradicating ",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2005",
+        "authors": [
+          "Fritsche Thomas R",
+          "Jones Ronald N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Skin Diseases, Bacterial",
+          "Staphylococcal Skin Infections",
+          "Staphylococcus aureus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16300223/"
+      },
+      {
+        "pmid": "37224930",
+        "title": "Application of new indicators to assess the quality of antimicrobial use in intensive care units.",
+        "abstract": "This study explored the feasibility of a bundle of indicators aimed at assessing the quality of antimicrobial use in intensive care units (ICUs) through an observational prospective study spanning 12 quarters (January 2019-December 2021) in a 1290-bed teaching hospital in Spain. Members of the antimicrobial stewardship programme team selected the indicators to analyse the quality of antimicrobial use based on consumption data from a list proposed in a previous study. Antimicrobial use in the ICU was measured as defined daily dose (DDD) per 100 occupied bed-days. Trends and points of change were analysed with segmented regression. The intravenous macrolides/intravenous respiratory fluoroquinolones ratio in the ICU increased progressively, although not significantly, by 11.14% per quarter, likely related to prioritization of the use of macrolides in serious community-acquired pneumonia and the coronavirus disease 2019 pandemic. A remarkable upward trend of 2.5% per quarter was detected i",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2023",
+        "authors": [
+          "Rodríguez-Campos Eder",
+          "Guisado-Gil Ana Belén",
+          "Peñalva Germán",
+          "Fernández-Rubio Beatriz",
+          "Aldabó Teresa"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Cross Infection",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Prospective Studies",
+          "COVID-19",
+          "Anti-Infective Agents",
+          "Anti-Bacterial Agents",
+          "Hospitals, Teaching",
+          "Intensive Care Units",
+          "Macrolides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37224930/"
+      },
+      {
+        "pmid": "14521493",
+        "title": "Amoxicillin/clavulanate potassium extended release tablets: a new antimicrobial for the treatment of acute bacterial sinusitis and community-acquired pneumonia.",
+        "abstract": "Community-acquired bacterial respiratory tract infections are among the most common health disorders requiring medical care and are associated with substantial morbidity, mortality, and direct and indirect costs. Recent increases in the prevalence of antimicrobial resistance have resulted in reduced susceptibility of the most common respiratory tract bacterial pathogens to a number of antimicrobials. Amoxicillin/clavulanate potassium extended release (ER) tablets (Augmentin XR, GlaxoSmithKline) is a new formulation of amoxicillin/clavulanate that retains activity against betalactamase-producing organisms whilst increasing the activity against Streptococcus pneumoniae through elevated and sustained plasma amoxicillin concentrations. The bilayer tablet provides immediate release of clavulanate and both immediate and sustained release of amoxicillin to maintain therapeutic concentrations of amoxicillin over longer periods of the dosing interval. In clinical trials of acute bacterial sinus",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2003",
+        "authors": [
+          "Benninger Michael S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Clinical Trials as Topic",
+          "Community-Acquired Infections",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Pneumonia",
+          "Sinusitis",
+          "Tablets, Enteric-Coated"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14521493/"
+      },
+      {
+        "pmid": "39477882",
+        "title": "Peritonitis-related bacterial infections: a large-scale case-series retrospective study in 160 domestic animals (2009-2022).",
+        "abstract": "Bacterial peritonitis infections comprise a life-threatening clinical condition in domestic animals that commonly lead to sepsis and high mortality. A set of bacterial pathogens have been identified in septic peritonitis in livestock and companion animals. Nonetheless, most descriptions are restricted to case reports or limited to only one domestic species, and a restrict number of comprehensive studies involving this infection has focused on a great number of domestic animals. Here, we retrospectively investigated selected epidemiological data (with an emphasis in outcome), clinical signs, bacteriological culturing, and in vitro antimicrobial susceptibility patterns of microorganisms isolated of peritoneal fluid from 160 domestic animals (2009-2023) compatible with septic peritonitis. Bacteria were isolated from 71.9% (115/160) of the peritoneal fluid from 75 dogs (75/115 = 65.2%), 22 cats (22/115 = 19.1%), 14 horses (14/115 = 12.2%), and 4 cattle (4/115 = 3.5%). Among animals with ba",
+        "journal": "Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+        "year": "2024",
+        "authors": [
+          "Ribeiro Márcio Garcia",
+          "da Silva Ribeiro Ana Beatriz",
+          "da Silva Ana Beatriz Matias",
+          "Mariano Gabriel Henrique Gomes",
+          "de Sá Teles Bertunes Larissa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Peritonitis",
+          "Retrospective Studies",
+          "Cattle",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Bacteria",
+          "Dogs",
+          "Horses",
+          "Cats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39477882/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:50:51.831706",
+  "success": true,
+  "error_message": null
+}

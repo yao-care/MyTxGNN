@@ -1,0 +1,122 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "common cold"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01686646",
+      "title": "Effects of Two Doses of a Common Cold Treatment on Cognitive Function",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-11",
+      "country": "United Kingdom",
+      "enrollment": 240,
+      "brief_summary": "This study will investigate any improvement in alertness and performance based on cognitive function and mood assessment in subjects suffering the common cold, when taking a novel paracetamol and caffeine combination verses paracetamol alone.",
+      "eligibility_criteria": "* Participants with symptoms of cold \\< 96 hours, rating of at least '2' on malaise at least 4 other symptoms of cold.\n* No history of clinically significant perennial rhinitis, no recent antibiotic, antihistamine or cold treatment, no caffeine in the previous 12 hours, no psychoactive medication in",
+      "endpoints": [
+        "Change From Baseline in Number of Accurate Responses to Rapid Visual Information Processing (RVIP) Cognitive Test"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01686646"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441141",
+      "title": "Exploratory Studies of Psychophysical Pain Phenotyping and Genetic Variability in Sickle Cell Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-06-17",
+      "completion_date": "2020-12-09",
+      "country": "United States",
+      "enrollment": 67,
+      "brief_summary": "Background:\n\n\\- Pain is the most common symptom of sickle cell disease. Episodes of severe sickle cell pain are known as \"crises.\" High rates of pain crises are associated with a higher risk of early death. Some people with sickle cell disease have many severe pain crises while others experience fewer crises. This difference in pain crisis may be caused by sensitivity to pain. People with high sensitivity to pain may have more pain crises. Many factors, including a person's genetic makeup, deter",
+      "eligibility_criteria": "* ELIGIBILITY CRITERIA FOR ALL PARTICIPANTS:\n\nAll study participants must be of self-described African or African American ancestry. They will be at least 18 years old and must be able to provide informed, written consent for participation.\n\nINCLUSION CRITERIA:\n\nInclusion Criteria for Sickle Cell Pa",
+      "endpoints": [
+        "To determine if thresholds for pain perception are lower in SCD than in non-SCD controls."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01441141"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07238465",
+      "title": "Dysautonomia InVestigation in Individuals With Down SyndromE: DIVE Study",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-12",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "Down syndrome (DS), the most common genetic cause of intellectual disability, is associated with widespread organ dysfunction, including abnormalities in the autonomic nervous system (ANS). The ANS regulates critical functions such as heart rate (HR) and blood pressure (BP), both essential for maintaining homeostasis and supporting physical activity. Individuals with DS often exhibit blunted HR responses to exercise-typically \\~30 beats per minute below expected levels-suggesting reduced sympath",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-50 yrs old and apparently healthy individuals\n* Ability to understand the study and give assent to participate\n* Has a study partner who can attend all visits for the individuals with DS, and answer questionnaires, provide consent when necessary\n* Corrected or non-existent ",
+      "endpoints": [
+        "Seated Baseline Concentration of Plasma Catecholamines",
+        "Concentration of Plasma Catecholamines During Cold Pressor Test",
+        "Baseline Standing Concentration of Plasma Catecholamines"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT07238465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02735070",
+      "title": "Phase III Study Comparing Coristina® D to Resfenol® in the Symptomatic Treatment of Common Cold",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-09",
+      "completion_date": "2017-03",
+      "country": "N/A",
+      "enrollment": 366,
+      "brief_summary": "The primary objective of this study is to evaluate the non-inferiority of Coristina® d in the symptomatic treatment of the common cold compared to Resfenol® comparator.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sign and date the informed consent form;\n2. Age between 18 and 60 years old;\n3. Symptoms of common cold not exceeding 72 hours must be present;\n4. It will be considered symptoms of the common cold the presence of at least 2 of the 10 symptoms following: runny nose, sneezing, ",
+      "endpoints": [
+        "Global Evaluation from 1 to 3 days after last dose"
+      ],
+      "sponsor": "Brainfarma Industria Química e Farmacêutica S/A",
+      "url": "https://clinicaltrials.gov/study/NCT02735070"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01435486",
+      "title": "Caffeine Citrate for the Treatment of Apnea Associated With Bronchiolitis in Young Infants: A Randomized, Double Blind, Controlled Trial (RCT)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-11",
+      "country": "Qatar",
+      "enrollment": 90,
+      "brief_summary": "Viral bronchiolitis is the most common lower respiratory tract infection of infancy. Apnea is a complication of bronchiolitis, reported in 16 - 21% of cases. Caffeine, a trimethylxanthine, acts as an antagonist to endogenous adenosine and a potent central nervous system stimulant. In apnea of prematurity, caffeine is believed to work by increasing central respiratory drive.\n\nInfants ≤4 months of age, presenting to pediatric emergency center Al-Sadd, from September 2011 to May 2014, with a diagno",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants ≤4 months of age, presenting to pediatric emergency center Al-Sadd, from September 2011 to May 2014, with a diagnosis of viral bronchiolitis associated with apnea.\n\nExclusion Criteria:\n\n* Hypersensitivity to caffeine.\n* Patients on caffeine treatment.\n* Cardiovascular ",
+      "endpoints": [
+        "The primary efficacy outcome in this double-blinded study was the time until last apnea episode in both groups."
+      ],
+      "sponsor": "Hamad Medical Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01435486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01466348",
+      "title": "Effects of a Common Cold Treatment on Cognitive Function",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2011-04",
+      "country": "United Kingdom",
+      "enrollment": 72,
+      "brief_summary": "A reduction in alertness and lower levels of performance are commonly associated with the common cold. Paracetamol has been shown to be more effective than placebo in treating symptoms associated with upper respiratory tract infection; caffeine has been shown to increase levels of alertness and improve performance of people suffering from colds. This study will investigate any improvement in alertness and performance based on cognitive function and mood assessment in subjects suffering from the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Present with symptoms of the common cold of no more than 96 hours duration\n* Score of \"2\" or more on a self-rating for malaise and at least 4 other cold symptoms\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Hypersensitivity to drugs\n* Have taken caffeine in the last 12 hou",
+      "endpoints": [
+        "Adjusted Mean Change From Baseline in Number of Valid Responses to Rapid Visual Information Processing (RVIP) Cognitive Test"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01466348"
+    }
+  ],
+  "timestamp": "2026-03-04T15:55:23.883005",
+  "success": true,
+  "error_message": null
+}

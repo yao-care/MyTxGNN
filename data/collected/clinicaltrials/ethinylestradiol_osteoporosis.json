@@ -1,0 +1,85 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ethinylestradiol",
+    "disease": "osteoporosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00310791",
+      "title": "Effects of Adrenal and Gonadal Hormone Replacement in Young Women With Anorexia Nervosa",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study seeks to gain new information on why young women with anorexia nervosa are predisposed to early bone loss and osteoporosis. Through a randomized treatment trial in which participants will receive either combined therapy with the adrenal hormone, dehydroepiandrosterone (DHEA) and estrogen replacement therapy or placebo, we will determine the effects of an 18-month treatment course on bone mass, circulating markers of bone turnover, and serum levels of a factor, insulin-like growth fact",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 15 - 30 years\n* Anorexia nervosa by psychiatric criteria\n* Amenorrhea for at least 3 months\n\nExclusion Criteria:\n\n* Receiving no medications known to affects bone metabolism\n* No other chronic medical conditions",
+      "endpoints": [
+        "Areal Bone Density by DXA"
+      ],
+      "sponsor": "Boston Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00310791"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00946192",
+      "title": "Fat Mediated Modulation of Reproductive and Endocrine Function in Young Athletes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2021-04",
+      "country": "United States",
+      "enrollment": 121,
+      "brief_summary": "One aim of this study is to determine changes in body composition and hormones that differentiate athletes who stop getting their periods versus those who continue to get their periods and non-athletes. The second aim of this study is to determine whether transdermal or oral estrogen (versus no estrogen) is effective in increasing bone density and improving bone microarchitecture in adolescent athletes who are not getting their periods and are thus estrogen deficient. The investigators hypothesi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Females 14-21 years old Note: Our pilot data are reassuring in that young women 18-25 years old with hypothalamic amenorrhea are not adversely affected with estrogen use. In fact, in our prospective study, beneficial effects were observed both in young women 18-25 years old us",
+      "endpoints": [
+        "Change in Lumbar Bone Mineral Density"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00946192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06131424",
+      "title": "Multicentre NIS Retrospective Study to Know the Prevalence of HER2- Low,Clinical Characteristics,Treatment Patterns,Associated Outcome in Patient With HER2-negative in Metastatic Breast Cancer Who Progressed on Systemic Anticancer Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-04-23",
+      "completion_date": "2025-05-19",
+      "country": "Brazil, Indonesia, Philippines, Hong Kong, Dominican Republic, Mexico, Singapore, Panama, India, Malaysia, Thailand, Vietnam, Argentina",
+      "enrollment": 1151,
+      "brief_summary": "This noninterventional, multicenter,retrospective study has been proposed to estimate the prevalence, clinicopathological characteristics,treatment patterns and clinical outcomes of human epidermal growth factor receptor 2 -(HER2)low locally-advanced or metastatic breast cancer(mBC) by accurate rescoring of archived IHC-stained formalin-fixed paraffin-embedded (FFPE) slides for HER2 in patients previously identified as HER2-negative from emerging markets of international regions (non-US and non-",
+      "eligibility_criteria": "Inclusion Criteria:1. Men or women, ≥18 years of age 2. Provision of informed consent by the patient or next of kin/legal representative (for deceased patients at study entry, unless a waiver was granted) according to local regulations 3. Must have a histological or cytological confirmed previous di",
+      "endpoints": [
+        "Proportion of patients with IHC 1+ or IHC 2+/ISH- HER2 expression.",
+        "Proportion of patients with HER2 ultra-low (IHC 0 (pattern 0+) with membrane staining ie, incomplete and faint/barely perceptible in ≤10% tumor cells) HER2 expression and IHC null (IHC 0 ie, absent membrane staining),"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT06131424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00320567",
+      "title": "The Effect of Ortho Tri-Cyclen on Bone Mineral Density in Pediatric Subjects With Anorexia Nervosa: A Double-Blind, Placebo-Controlled Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-04",
+      "country": "N/A",
+      "enrollment": 123,
+      "brief_summary": "The purpose of this study is to evaluate the effect of norgestimate/ethinyl estradiol on lumbar spine (L1-L4) and total hip bone mineral density (BMD) in pediatric subjects with anorexia nervosa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a monthly period\n* health status consistent with anorexia nervosa\n* meet the modified DSM-IV (Diagnostic and Statistical Manual of Mental Disorders) guideline for anorexia nervosa\n* must discontinue the following prior to Baseline visit: hormonal contracepti",
+      "endpoints": [
+        "The change in total lumbar spine (L1-L4) bone mineral density from baseline to Cycle 6 (Visit 6)."
+      ],
+      "sponsor": "McNeil Consumer & Specialty Pharmaceuticals, a Division of McNeil-PPC, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00320567"
+    }
+  ],
+  "timestamp": "2026-03-04T16:02:22.635253",
+  "success": true,
+  "error_message": null
+}

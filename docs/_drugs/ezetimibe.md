@@ -6,7 +6,7 @@ drug_name: "Ezetimibe"
 kg_predictions: 234
 dl_predictions: 45
 evidence_level: "L1"
-indication_count: 234
+indication_count: 5
 brands: []
 permalink: /drugs/ezetimibe/
 ---

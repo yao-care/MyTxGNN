@@ -1,0 +1,753 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Aripiprazole",
+    "disease": "manic bipolar affective disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00194038",
+      "title": "Aripiprazole in Late Life Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2006-06",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this research study is to analyze the effectiveness and tolerability of a new medication, aripiprazole (Abilify), in individuals age 50 years and older who have bipolar disorder (manic-depressive illness).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have Bipolar disorder as confirmed by the Mini Neuropsychiatric Interview (MINI)\n* Must be age 50 or older\n* Must have sub-optimal response to current psychotropic management including at least one of the following:\n\n  * Behaviors and symptoms of irritability, agitation, ",
+      "endpoints": [
+        "Blood pressure and pulse",
+        "Weight",
+        "Abnormal Involuntary Movement Scale (AIMS)"
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00194038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00665366",
+      "title": "A 12-Week, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study To Evaluate the Efficacy and Safety of Adjunctive Aripiprazole Therapy in the Treatment of Mania in Bipolar I Disorder Patients Treated on Valproate or Lithium and in Need of Further Clinical Improvement",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2011-10",
+      "country": "France, Spain, Czechia, South Africa, Turkey (Türkiye), Greece, Russia, Austria, Hungary, Italy, Germany, Romania, Poland",
+      "enrollment": 493,
+      "brief_summary": "The purpose of the study is to determine whether aripiprazole provides additional clinical benefit to patients with Bipolar I disorder when combined with lithium or valproate over 12 weeks.",
+      "eligibility_criteria": "Key inclusion criteria:\n\n* Clinical diagnosis of bipolar I disorder mania, manic or mixed episode, with or without psychotic features\n* Current ongoing lithium or valproate treatment with the possibility of benefiting, based on the investigator's clinical judgment, from adjunctive treatment with ari",
+      "endpoints": [
+        "Change From Baseline in Total Score on the Young Mania Rating Scale (YMRS) (LOCF Data Set)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00665366"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00305370",
+      "title": "Aripiprazole Associated With Methylphenidate in Children and Adolescents With Bipolar Disorder and ADHD: A Randomized Cross-Over Placebo Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "2008-03",
+      "country": "Brazil",
+      "enrollment": 20,
+      "brief_summary": "There is a scarcity of clinical trials assessing the effects of medications in children with bipolar disorder. This study aims to assess the efficacy of Aripiprazole associated with Methylphenidate (MPH)for the treatment of children and adolescents with bipolar disorder comorbid with ADHD who improve in maniac symptoms while receiving aripiprazole but did not have an adequate response in ADHD symptoms. The study design is a 4-week randomized, double blind, cross-over group trial. Patients were r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 8 -17\n* BD type I or II comorbid with ADHD\n* Reduction of maniac symptoms (30% reduction in the YMRS scores and/or CGI scores ≤ 2)while using aripiprazole during a previous study (NCT00116259)without improvement of ADHD symptoms (reduction in ADHD symptoms \\< 30% in the S",
+      "endpoints": [
+        "Scores in the SNAP-IV (ADHD)",
+        "Scores in the Young Mania Rating Scale (BD)",
+        "Weight"
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT00305370"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00194012",
+      "title": "Aripiprazole in At-Risk Children With Symptoms of Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2012-06",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "The purpose of this study is to test the effectiveness and tolerability/safety of aripiprazole (Abilify) in children with subsyndromal symptoms of bipolar disorder who also have a parent with bipolar disorder and other family member with a mood disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients ages 5-17 years (inclusive)\n* Patients, who in the investigator's opinion have substantial symptoms of mania, depression, or both within the past 2 weeks such that treatment with a pharmacological agent is warranted\n* Currently meets Diagnostic Statistical Manual o",
+      "endpoints": [
+        "Young Mania Rating Scale (YMRS)",
+        "Young Mania Rating Scale (YMRS)",
+        "Young Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00194012"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00194077",
+      "title": "Aripiprazole in Children With Symptoms of Mania",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to look at the safety and effectiveness of aripiprazole (abilify) in children with bipolar disorder and to examine whether or not patients that respond to initial mood stabilization benefit from continued pharmacotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients ages 4-9 years (inclusive)\n* Patients who are anticipated to have a Young Mania Rating Scale (Young et al. 1978) of 15 or higher at baseline\n* Meet DSM-IV criteria for bipolar disorder type 1 or 2, cyclothymia, or bipolar disorder not otherwise specified (BP NOS) b",
+      "endpoints": [
+        "Time in Weeks to Discontinuation"
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00194077"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00102518",
+      "title": "A Multi-Center, Open-Label, Safety and Tolerability Study of Flexible-Dose Oral Aripiprazole (2 Mg-30 mg) in the Treatment of Adolescent Patients With Schizophrenia and Child and Adolescent Patients With Bipolar I Disorder, Manic or Mixed Episode With or Without Psychotic Features",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2007-02",
+      "country": "United States",
+      "enrollment": 325,
+      "brief_summary": "The purpose of this study is to test the long-term safety and tolerability of aripiprazole in adolescent patients with schizophrenia, and child and adolescent patients with bipolar I disorder, manic or mixed episode.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescent patients with schizophrenia, or child and adolescent patients with bipolar I disorder, manic or mixed episode\n\nExclusion Criteria:\n\n* Patients with a co-morbid serious, uncontrolled systemic illness\n* Patients with a significant risk of committing suicide",
+      "endpoints": [
+        "Percentage of Subjects Experiencing SAEs"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00102518"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04234776",
+      "title": "Intramuscular Ketamine Versus Escitalopram and Aripiprazole in Acute and Maintenance Treatment of Patients With Treatment-resistant Depression",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-04-03",
+      "completion_date": "2021-04-03",
+      "country": "Brazil",
+      "enrollment": 88,
+      "brief_summary": "The treatment of resistant depression should be optimized aiming at complete remission of symptoms, a complex condition due to several factors. Approximately 1/3 of patients with depressive disorders do not even respond to available antidepressants. Consequently, new molecules with robust action, fast effects and sustained improvement are currently being researched worldwide. Ketamine, an N-methyl-D-aspartate (NMDA) receptor antagonist, has emerged as a promising alternative due to its involveme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of TRD, according to clinical evaluation and confirmed by SCID-IV (Structured Clinical Interview for the DSM);\n2. Moderate to severe intensity of the disease;\n3. Female patients in fertile conditions should be using a clinically accepted contraceptive method (oral c",
+      "endpoints": [
+        "Change in depressive symptoms",
+        "Change in depressive symptoms",
+        "Change in depressive symptoms"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT04234776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01000402",
+      "title": "Assessment and Follow Up Study of Children and Adolescent With Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-02",
+      "completion_date": "2014-11",
+      "country": "Brazil",
+      "enrollment": 150,
+      "brief_summary": "This is an outpatient program for children and adolescents with bipolar disorders. The naturalistic approach of the program will allow a proper investigation of the disorder, assessment of environmental and biological factors, the conduction of treatment studies, and follow-up of the subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6-18 years-old;\n* Bipolar Disorder I, II or NOS\n* Severe Mood Dysregulation\n\nExclusion Criteria:\n\n* Schizophrenia\n* Pervasive Developmental Disorder\n* Drug use disorder\n* Severe suicidal or homicidal risk, counterindicating outpatient treatment",
+      "endpoints": [
+        "Changes in manic and depressive symptoms over time using YMRS, CMRS-P, CDRS, and CDI",
+        "Polymorphisms at candidate genes for Bipolar Disorder and Attention-Deficit/Hyperactivity Disorder"
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT01000402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00667745",
+      "title": "Lithium Use for Bipolar Disorder (LiTMUS): A Randomized Controlled Effectiveness Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 283,
+      "brief_summary": "This study evaluated whether lithium included as part of optimized medication treatment improved overall level of illness, symptoms of mania and depression, and quality of life in people with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV Criteria for bipolar disorder (type I or II)\n* Currently symptomatic, as defined as a Clinical Global Impressions Scale-Bipolar Version, Overall Severity Index (CGI-BP-S) of greater than or equal to 3\n* If taking or has taken lithium, must be off lithium for at le",
+      "endpoints": [
+        "Overall Change in Bipolar Illness Severity as Measured by Clinical Global Impression for Bipolar Disorder Severity (CGI-BP-S) Score",
+        "Number of Necessary Medication Adjustments"
+      ],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00667745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04030143",
+      "title": "A Phase 1b, Open-label, Multiple-dose, Randomized, Parallel-arm, Safety, Tolerability, and Pharmacokinetic Trial of Aripiprazole Intramuscular Depot Administered in the Gluteal Muscle in Adult Subjects With Schizophrenia or Bipolar I Disorder",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-08-01",
+      "completion_date": "2020-07-08",
+      "country": "United States",
+      "enrollment": 266,
+      "brief_summary": "The purpose of this trial is to determine the safety and tolerability of multiple-dose administrations of aripiprazole, to establish the similarity of aripiprazole concentrations on the last day of the dosing interval following the final administration of aripiprazole into the gluteal muscle site, and to establish the similarity of aripiprazole exposure over the dosing interval following the administration of aripiprazole into the gluteal muscle site in adult participants with schizophrenia or b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A current diagnosis of schizophrenia or bipolar I disorder, as defined by Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria.\n* Body mass index of 18 to 35 kilograms per meter square (kg/m\\^2).\n* On a stable dose of an atypical oral antipsych",
+      "endpoints": [
+        "Number of Participants With One or More Treatment-Emergent Adverse Events (TEAEs)",
+        "Number of Participants With Potentially Clinically Relevant Vital Signs Abnormalities",
+        "Number of Participants With Potentially Clinically Relevant Electrocardiogram (ECG) Abnormalities"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04030143"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00257972",
+      "title": "Efficacy of Aripiprazole in Combination With Valproate or Lithium in the Treatment of Mania in Patients With Bipolar I Disorder Partially Nonresponsive to Valproate or Lithium Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2007-12",
+      "country": "Bulgaria, France, Spain, Czechia, South Africa, Switzerland, Russia, Italy, Hungary, Germany, Australia, United Kingdom, Netherlands, Portugal, Poland, Estonia, United States",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this research study is to compare the efficacy of aripiprazole with placebo in combination with lithium or valproate monotherapy, in the treatment of bipolar I patients with manic or mixed episodes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of bipolar I disorder, manic or mixed episode\n\nExclusion Criteria:\n\n* First manic or mixed episode\n* Allergic, intolerant, or unresponsive to lithium and valproate or to aripiprazole\n* Participation in a previous clinical trial within the past month or ever ",
+      "endpoints": [
+        "Change from baseline to endpoint in a mania rating scale"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00257972"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00095511",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo Controlled Study of Aripiprazole Monotherapy in the Treatment of Acutely Manic Patients With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 615,
+      "brief_summary": "The purpose of this trial is to test the safety \\& efficacy of aripiprazole in patients with Bipolar Mania for a period of at least 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary diagnosis of Acute Bipolar I Mania\n\nExclusion Criteria:\n\n* Patients with a DSM-IV diagnosis other than Bipolar I Mania",
+      "endpoints": [
+        "Change from baseline to endpoint in a mania rating scale"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00095511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07047651",
+      "title": "The Effectiveness and Efficacy of the Combination of Pharmacotherapy With the Two New Recovery-oriented Programs, RECOVERYTRSGR (Treatment Resistant Schizophrenia) and RECOVERYTRSBDGR (Treatment Resistant Bipolar Disorder)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-06-04",
+      "completion_date": "2027-12-20",
+      "country": "Greece",
+      "enrollment": 40,
+      "brief_summary": "The effectiveness and efficacy of the combination of pharmacotherapy with the two new recovery-oriented programs, RECOVERYTRSGR for patients with treatment- resistant schizophrenia and RECOVERYTRSBDGR for patients with treatment- resistant bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria: For patients with treatment resistant schizophrenia:\n\n* age 18-65\n* IQ ≥ 80\n* Diagnosis TRS.\n\nInclusion criteria for patients with treatment resistant bipolar disorder:\n\n* age 18-65\n* IQ ≥ 80\n* Diagnosis TRSBD.\n\nExclusion Criteria: For patients with treatment resistant schizophre",
+      "endpoints": [
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)",
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)",
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)"
+      ],
+      "sponsor": "Rakitzi, Stavroula",
+      "url": "https://clinicaltrials.gov/study/NCT07047651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03643159",
+      "title": "A Multicenter, 180-day Pragmatic Clinical Trial to Measure the Difference in All-cause Hospitalizations for Patients Who Are Using Abilify MyCite Versus Virtual Matched Controls in Adults With Schizophrenia, Bipolar 1 Disorder, and Major Depressive Disorder",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-06-28",
+      "completion_date": "2018-10-17",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "The primary objective of this pragmatic clinical trial (Main Study) was to assess the difference between all-cause hospitalizations in participants using Abilify MyCite versus virtual matched controls. In addition, secondary and exploratory objectives were to assess medication adherence, healthcare utilization and costs, and patient-reported outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants are actively enrolled in an Anthem-affiliated commercial, Medicaid, or Medicare health plan with medical and pharmacy benefits.\n* Participants must have a smartphone with data plan.\n* Participants currently prescribed aripiprazole, or appropriate for aripiprazole ",
+      "endpoints": [
+        "Difference In The Number Of Participants With All-cause Hospitalizations For Participants Using Abilify MyCite Versus Virtual Matched Controls From Baseline To Day 180"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03643159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00221416",
+      "title": "An Open-Label Trial of Aripiprazole in Children and Adolescents With Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2008-12",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "This is an investigator-initiated study whose primary aim is to determine the effectiveness of aripiprazole (Abilify®) in helping persons with symptoms of mania whose current medications do not completely control those symptoms. Aripiprazole is a medication that has been approved by the United States Food and Drug Administration (FDA) for the treatment of Schizophrenia.\n\nA secondary aim of this research is to explore whether CYP 2D6 polymorphisms are related to side effects with aripiprazole. Th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or Females; between the ages of 7 years 0 months to 17 years 12 months\n2. Bipolar I Disorder, mixed or manic episode, psychotic or non-psychotic, according to DSM IV criteria.\n3. Score of \\> 20 on the Y-MRS at baseline.\n4. Ability and willingness to provide assent and in",
+      "endpoints": [
+        "YMRS & CGI"
+      ],
+      "sponsor": "University of Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00221416"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01122927",
+      "title": "A Long-term, Multicenter, Open-Label Study to Evaluate the Safety and Tolerability of Flexible-Dose Oral Aripiprazole (OPC-14597) as Maintenance Treatment in Adolescent Patients With Schizophrenia or Child and Adolescent Patients With Bipolar I Disorder, Manic or Mixed Episode With or Without Psychotic Features",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-07",
+      "completion_date": "2014-09",
+      "country": "Bulgaria, Philippines, Croatia, Taiwan, India, Russia, Ukraine, Hungary, Serbia, Malaysia, Romania, Poland, United States",
+      "enrollment": 524,
+      "brief_summary": "This is an open-label study consisting of a screening period, a conversion/titration phase (Phase 1), an open-label treatment phase (Phase 2), and a follow-up period.\n\nThe study will enroll new subjects (hereafter referred as \"de novo\" subjects) with schizophrenia, or bipolar I disorder, manic or mixed episode with or without psychotic features, and rollover subjects with schizophrenia from 31-09-266 (hereafter referred to as \"Study 266\"). All de novo subjects must enter the screening period of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects 13-17 years old (Schizophrenia); Subjects 10-17 years old (Bipolar manic or mixed episode)\\* \\[\\*Bulgaria will enroll Schizophrenia subjects only.\\]\n* Subjects with a current diagnosis of schizophrenia, and a history of the illness (diagnosis or symptoms) for at least",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01122927"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00097266",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo Controlled Study of Aripiprazole Monotherapy in the Treatment of Acutely Manic Patients With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2007-01",
+      "country": "Bulgaria, Croatia, Mexico, South Africa, Russia, Peru, United States",
+      "enrollment": 615,
+      "brief_summary": "The purpose of this research study is to confirm the safety and effectiveness of aripiprazole therapy over 12 weeks in subjects with bipolar disorder experiencing symptoms of mania.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with Bipolar I Disorder and a diagnosis of acute mania will be considered for this study.",
+      "endpoints": [
+        "Change in a mania rating scale at endpoint"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00097266"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00261443",
+      "title": "Efficacy of Aripiprazole in Combination With Lithium or Valproate in the Long-Term Maintenance Treatment of Bipolar I Disorder in Outpatients Partially Nonresponsive to Lithium or Valproate Monotherapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2009-10",
+      "country": "Bulgaria, Brazil, France, Croatia, Czechia, South Africa, India, Russia, United States",
+      "enrollment": 1270,
+      "brief_summary": "The purpose of this clinical research study is to learn if outpatients with bipolar mania who are partially nonresponsive to lithium or valproate monotherapy can achieve stable symptoms on a combination treatment of aripiprazole plus lithium or valproate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women \\> or = to 18 years of age meeting Diagnostic and Statistical Manual for Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) criteria for bipolar I disorder, currently experiencing a manic or mixed episode with a history of one or more manic or mixed epis",
+      "endpoints": [
+        "Proportion of Participants Not Experiencing Relapse to Any Mood Episode Through Week 52, Phase 3"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00261443"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00116259",
+      "title": "Aripiprazole in Children and Adolescents With Bipolar Disorder and ADHD: A Randomized Double Blind Placebo Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2008-02",
+      "country": "Brazil",
+      "enrollment": 50,
+      "brief_summary": "There is a scarcity of clinical trials assessing the effects of medications in children with bipolar disorder. This study aims to assess the efficacy of Aripiprazole (a novel anti-psychotic drug) for the treatment of children and adolescents with bipolar disorder comorbid with ADHD. The study design is a 8-week randomized, double blind, parallel group trial. Patients were randomized to either aripiprazole or placebo.\n\nThe main hypotheses are:\n\n1. Aripiprazole will significantly reduce maniac sco",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 8-17\n* BD type I or II comorbid with ADHD\n* Baseline score in the YMRS \\> or = 20\n\nExclusion Criteria:\n\n* IQ \\< 70\n* Pharmacologic treatment in the last month\n* Pregnancy or absence of a contraceptive method in fertile girls\n* Diagnoses: pervasive development disorder, sc",
+      "endpoints": [
+        "Scores in the Young Mania Rating Scale (BD)",
+        "Scores in the SNAP-IV (ADHD)",
+        "Weight"
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT00116259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00606320",
+      "title": "A Multicenter, Investigative Study of the Safety and Efficacy of Extended Administration of Aripiprazole in Combination With Mood Stabilizer for the Treatment of Patients With Bipolar Disorder Experiencing a Manic or Mixed Episode",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-11",
+      "country": "Japan, China, Taiwan, South Korea",
+      "enrollment": 59,
+      "brief_summary": "To assess the safety and efficacy of long-term administration of aripiprazole by performing extended administration of aripiprazole in combination with mood stabilizer (lithium or valproate) in an unblinded manner to those patients who completed the preceding multicenter, double-blind, placebo-controlled, parallel group-comparison trial of aripiprazole in patients with bipolar disorder experiencing a manic or mixed episode (Study 031-06-003, hereafter \"Study 003\") but whose condition worsened or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Trial subjects will be men and women of age 18 or above and below the age of 65 who will not be turning 65 during the trial.\n* Subjects have the ability to understand and to provide informed consent to the examination, observation, and evaluation processes specified in this pr",
+      "endpoints": [
+        "Young Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00606320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00606177",
+      "title": "A Multicenter, Placebo-controlled, Double-blind Investigative Extension Trial of the Safety and Efficacy of Aripiprazole in the Treatment of Patients With Bipolar Disorder Experiencing a Manic or Mixed Episode",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-11",
+      "country": "Japan, China, Taiwan, South Korea",
+      "enrollment": 99,
+      "brief_summary": "To investigate the safety and efficacy of long-term administration of aripiprazole by performing extended administration of the treatment administered in the preceding multicenter, double-blind, placebo-controlled, parallel group-comparison trial of aripiprazole in patients with bipolar disorder experiencing a manic or mixed episode (Study 031-06-003, hereafter \"Study 003\") in a double-blind manner to those patients who complete Study 003 and demonstrate drug efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Trial subjects will be men and women of age 18 or above and below the age of 65 who will not be turning 65 during the trial.\n* Subjects have the ability to understand and to provide informed consent to the examination, observation, and evaluation processes specified in this pr",
+      "endpoints": [
+        "Young Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00606177"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06433635",
+      "title": "Sequential Multiple Assignment Randomized Trial for Bipolar Depression",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-10-01",
+      "completion_date": "2030-02-28",
+      "country": "Canada, United States",
+      "enrollment": 2726,
+      "brief_summary": "This is a sequential multiple assignment randomized trial for adults (ages \\> 18) with a bipolar disorder type 1 and type 2 diagnosis currently experiencing a depressive episode. It is a randomized pragmatic trial that will compare four commonly prescribed treatments for bipolar depression, which includes three FDA-approved medications (Cariprazine, Quetiapine and Lurasidone) and one antipsychotic/antidepressant combination (Aripiprazole/Escitalopram).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged between 18 years to 75 years\n2. Meets criteria for DSM-V Bipolar I or II disorder with a history of manic or hypomanic episodes and current major depressive episode lasting at least 2 weeks\n3. Can be managed as an outpatient and participate in the study\n4. Willing to be ",
+      "endpoints": [
+        "The Remission from Depression Questionnaire"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06433635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03408873",
+      "title": "Enhancing Adherence and Outcomes in Bipolar Disorder With Abilify Maintena + a Targeted Behavioral Approach to Promote Sustained Adherence and Behavioral Change",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-04-01",
+      "completion_date": "2020-05-06",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "This is a prospective study using customized adherence enhancement (CAE) and long-acting injectable (LAI) antipsychotic in 30 individuals with bipolar disorder (BD) at risk for treatment non-adherence. The CAE approach is expected to improve treatment adherence, as well as improve BD symptoms, functioning and treatment attitudes among subjects with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Individuals age 18 and older with BD Type 1 or 2 as confirmed by the Mini International Psychiatric Inventory (MINI).\n2. Known to have medication treatment adherence problems as identified by the Treatment Routines Questionnaire (TRQ, 20% or more missed medications in past we",
+      "endpoints": [
+        "Change in Tablets Routine Questionnaire (TRQ, Past Week)",
+        "Change in Tablets Routine Questionnaire (TRQ, Past Month)",
+        "LAI Injection Adherence"
+      ],
+      "sponsor": "University Hospitals Cleveland Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03408873"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00545675",
+      "title": "Multi-center, Double-blind, Randomized, Comparative Phase 4 Clinical Trial to Evaluate the Efficacy and Safety of Co-administration of Abilify and Depakote in 24-week Treatment of Mania in Patients With Bipolar Disorder Remitted After 6-week Treatment With Abilify and Depakote",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2010-07",
+      "country": "South Korea",
+      "enrollment": 146,
+      "brief_summary": "To demonstrate the difference between Abilify with Depakote vs. Placebo with Depakote in 24-week treatment in patients with remission status after Abilify with Depakote in the 6-week study of acute mania in patients with bipolar disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Mania or mixed episode of bipolar disorder according to DSM-IV\n2. Male and female between the age of 18 and 65 (In case of child-bearing women, negative pregnancy test results should be confirmed before the administration of the investigational drug and appropriate contracept",
+      "endpoints": [
+        "Time to recurrence of bipolar disorder from randomization"
+      ],
+      "sponsor": "Korea Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00545675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00606281",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel Group-Comparison Trial of Aripiprazole in the Treatment of Patients With Bipolar Disorder Experiencing a Manic or Mixed Episode",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-11",
+      "country": "Japan, China, Taiwan, South Korea",
+      "enrollment": 258,
+      "brief_summary": "The primary objective of this trial is to evaluate the clinical efficacy and safety of aripiprazole in comparison to placebo in patients with Bipolar I Disorder experiencing a manic or mixed episode.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Trial subjects will be men and women of age 18 or above and below the age of 65 who will not be turning 65 during the trial.\n* Patients have the ability to understand and to provide informed consent to the examination, observation, and evaluation processes specified in this pr",
+      "endpoints": [
+        "Young Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00606281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00110461",
+      "title": "A Phase III Trial to Test the Safety and Efficacy of Two Doses of Aripiprazole in Child and Adolescent Patients With Bipolar I Disorder, Manic or Mixed Episode With or Without Psychotic Features",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2007-02",
+      "country": "United States",
+      "enrollment": 296,
+      "brief_summary": "The purpose of this trial is to test the safety and efficacy of two doses of aripiprazole in child and adolescent patients with bipolar I disorder, manic or mixed episode with or without psychotic features.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Child and adolescent patients with bipolar I disorder, manic or mixed episode with or without psychotic features\n\nExclusion Criteria:\n\n* Patients with certain other psychological disorders\n* Patients with a co-morbid serious, uncontrolled systemic illness\n* Patients with signi",
+      "endpoints": [
+        "Change in Young Mania Rating Scale (Y-MRS) Total Score at Week 4"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00110461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00545142",
+      "title": "Multi-center, Single Arm, Open Phase IV Clinical Trial to Evaluate the Efficacy and Safety of Co-administration of Abilify With Depakote in the 6-week Treatment of Acute Mania in Patients With Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2010-06",
+      "country": "South Korea",
+      "enrollment": 280,
+      "brief_summary": "To demonstrate the efficacy and safety of co-administration of Abilify(aripiprazole) with Depakote(divalproate) in the acute phase of 6-week treatment of acute mania in patients with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion Criteria:\n\n1. Mania or mixed episode of Bipolar disorder Bipolar disorder, mania or mixed episode according to DSM-IV\n2. The periods of mania or mixed episode should be within 3 months, and YMRS score at enrollment be more than 20.\n3. Male and female between the age of",
+      "endpoints": [
+        "Changes in the YMRS total score from baseline to the end of 6-week study"
+      ],
+      "sponsor": "Korea Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00545142"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00181779",
+      "title": "Open-Label Pilot Study of Aripiprazole for the Treatment of Mania in Children and Adolescents With Bipolar I, Bipolar II, and Bipolar Spectrum Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is an open-labeled study of Aripiprazole, testing its efficacy in the treatment of mania in children and adolescents with Bipolar I, Bipolar II and Bipolar Spectrum Disorder over 8 weeks. This is an exploratory, pilot study, seeking to determine whether Aripiprazole is efficacious and well tolerated in the treatment of youth with pediatric bipolar and bipolar spectrum disorder. The study results will be used to generate hypotheses for a larger randomized controlled clinical trial with expli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients, 6-17 years of age.\n2. Patient and parent must have a level of understanding sufficient to communicate intelligently with the investigator and study coordinator, and to cooperate with all tests and examinations required by the protocol.\n3. Patients and",
+      "endpoints": [
+        "Scores on the Young Mania Rating Scales"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00181779"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208169",
+      "title": "Aripiprazole (Abilify) Therapy for Reducing Comorbid Substance Abuse",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2007-06",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "It is hypothesized that the use of aripiprazole (Abilify) in patients with alcohol and/or drug dependence with comorbid psychiatric conditions will lead to:\n\n* Reduction in the amount of alcohol and/or drugs used as measured by the Time Line Follow Back (TLFB) and the Addiction Severity Index (ASI)\n* Reduction in cravings for alcohol and drugs as measured by the Penn Alcohol Craving Scale\n* Reduction in symptoms of co-morbid psychiatric disorders compared to before starting aripiprazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages 19 - 65\n2. Diagnosis of schizophrenia, schizoaffective disorder, bipolar disorder, major depressive disorder, or anxiety (panic disorder, generalized anxiety disorder, or post-traumatic stress disorder) as confirmed by Mini International Neuropsychiatric Interview (MINI)",
+      "endpoints": [
+        "The primary outcome measure will be days of abstinence during the 12-week follow-up, as measured by the Time Line Follow Back Scale (TLFBS) and the Addiction Severity Index (ASI)."
+      ],
+      "sponsor": "Creighton University",
+      "url": "https://clinicaltrials.gov/study/NCT00208169"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02918370",
+      "title": "Aripiprazole for Bipolar Disorder and Alcohol Use Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-11",
+      "completion_date": "2023-06-30",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "The investigators will conduct a 12-week, randomized, double-blind, parallel-group, placebo-controlled study of aripiprazole in 132 persons with Alcohol Use Disorder (AUD) and bipolar I or II disorder, currently depressed or mixed phase. Primary Aim will be to assess change in alcohol use by the Timeline Followback (TLFB) method. Secondary Aim will include change in alcohol craving using the Penn Alcohol Craving Scale (PACS). Changes in psychiatric symptoms (mania/hypomania and depression) and p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient men and women age 18-65 years old with bipolar I, II, Not Otherwise Specified (NOS) disorder, or Schizoaffective Bipolar Type\n* If diagnosed with Bipolar I, Bipolar NOS w/history of mania or Schizoaffective Disorder Bipolar Type, current mood stabilizer therapy (lit",
+      "endpoints": [
+        "Timeline Follow Back (TLFB)"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02918370"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00277212",
+      "title": "A Multicenter, Double-blind, Study of the Efficacy and Safety of Aripiprazole in Combination With Lamotrigine in the Long-term Maintenance Treatment of Patients With Bipolar I Disorder With a Recent Manic or Mixed Episode",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2009-07",
+      "country": "Puerto Rico, United States",
+      "enrollment": 1169,
+      "brief_summary": "Efficacy of Aripiprazole in Combination with Lamotrigine in the Long-Term Maintenance Treatment of Bipolar I Disorder in Outpatients with Recent Manic or Mixed Episode",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 18 years of age meeting Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (Text Revision) (DSM-IV-TR) criteria for bipolar I disorder, recently experiencing a manic or mixed episode with a history of one or more manic or mixed episodes of su",
+      "endpoints": [
+        "Proportion of Participants Not Experiencing Relapse Through Week 52 in the Double-Blind Relapse Assessment Phase (Phase 2)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00277212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06049953",
+      "title": "Developmental Effects of Antenatal Exposure to Antipsychotics",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-09-29",
+      "completion_date": "2027-12-01",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The goal of this observational study is to learn about maternal psychiatric course and infant development in pregnant individuals with severe mental illness, comparing those treated with antipsychotics to those treated with other medications or without medication. The main questions it aims to answer are:\n\n1. Is risk of psychiatric relapse different among individuals who take antipsychotic medication, other medication, or no medication?\n2. Are pregnancy and neonatal health outcomes different amo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant\n* Severe mental illness, including:\n\n  * Psychotic disorder (affective and nonaffective)\n  * Bipolar disorder\n  * History of psychiatric hospitalization, regardless of diagnosis\n* Able to complete study interviews and measures in English, Dutch, or Spanish\n\nExclusion ",
+      "endpoints": [
+        "Mini-International Neuropsychiatric Interview",
+        "Finnegan Neonatal Abstinence Scoring System",
+        "Ratio of auditory evoked potentials as measured by EEG"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT06049953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00484471",
+      "title": "A Double Blind, Randomized, Placebo Controlled Trial of Aripiprazole Plus Valproate in the Short-Term and Long-Term Treatment of Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2012-11",
+      "country": "Taiwan, Thailand, Philippines, Hong Kong",
+      "enrollment": 127,
+      "brief_summary": "To compare combination treatment of aripiprazole plus valproate versus valproate alone in the prevention of relapse in bipolar I disorder patients with symptomatic remission after 5-6 weeks open-label acute treatment with aripiprazole plus valproate for manic or mixed episode, with or without psychotic features.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects able to give informed consent, and/or consent obtained from a legally acceptable representative (as required by IRB/IEC) prior to the initiation of any protocol required procedures;\n2. Subjects with Bipolar I Disorder, manic or mixed episode, with or without psychoti",
+      "endpoints": [
+        "Time to relapse in double-blind treatment phase"
+      ],
+      "sponsor": "Korea Otsuka International Asia Arab",
+      "url": "https://clinicaltrials.gov/study/NCT00484471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06167577",
+      "title": "Dysbindin-antipsychotics Psychophamarcogenetics: a Mouse-human Translational Study Towards Personalized Healthcare in Bipolar Disorders GR-2016-02362413",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-11-08",
+      "completion_date": "2023-11-08",
+      "country": "Italy",
+      "enrollment": 150,
+      "brief_summary": "We will conduct an observational study involving a preliminary long-term follow-up designed to test how dysbindin-1 gene expression can modulate the efficacy of treatments with antipsychotics on clinical and neuropsychological outcomes. We will recruit 150 patients diagnosed with DB who required therapy with an atypical antipsychotic (aripiprazole or quetiapine or olanzapine) in combination with a medication mood stabilizer (lithium or other mood stabilizer), according to the standards of DB tre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DB diagnoses, made by the use of the structured clinical interview based on the DSM-5 criteria (SCID-CV);\n* Therapy with an atypical antipsychotic (aripiprazole or quetiapine or olanzapine) in combination with a mood stabilizer (lithium or another mood stabilizer mood), accord",
+      "endpoints": [
+        "analyze the impact of genetic variants of the Disbindin-1 gene on patient's response to antipsychotic drugs"
+      ],
+      "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "url": "https://clinicaltrials.gov/study/NCT06167577"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00592683",
+      "title": "A Randomized Placebo Controlled Clinical Trial of Omega-3 Fatty Acid Adjunctive to Open-Label Aripiprazole for the Treatment of Bipolar Disorder in Children and Adolescents Ages 6-17 With Bipolar Spectrum Disorder",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2007-12",
+      "completion_date": "2010-04",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This will be a 12 week, double blind study of omega-3 fatty acids vs. placebo adjunctive to open-label aripiprazole treatment in children and adolescents (ages 6-17) who meet DSM-IV criteria for bipolar disorder (BPD) (currently manic or mixed). Specific hypotheses are as follows:\n\nHypothesis 1: Omega-3 fatty acids will be well-tolerated and efficacious in the treatment of children and adolescents with BPD\n\nHypothesis 2: The total dose of aripiprazole will be lower in those subjects receiving ac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subject, 6-17 years of age\n2. Subject has a DSM-IV diagnosis of bipolar I, bipolar II, or bipolar spectrum disorder and currently displaying manic, hypomanic, or mixed symptoms (with or without psychotic features)\n3. Subject and their legal representative have ",
+      "endpoints": [
+        "Change in Bipolar Symptoms as Assessed by Young-Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00592683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00107939",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy, Safety and Tolerability of Licarbazepine 750 ¿ 2000 mg/d as Adjunctive Therapy to an Atypical Antipsychotic in the Treatment of Manic Episodes of Bipolar I Disorder Over 6 Weeks",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2007-04",
+      "country": "United States",
+      "enrollment": 453,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness and tolerability of an investigational drug for the treatment of manic episodes of bipolar disorder. The investigational drug will be given as additional therapy to one of the five following medications: risperidone, olanzapine, quetiapine, ziprasidone, or aripiprazole. These medications are already FDA (Food and Drug Administration)-approved treatments for mania.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar disorder (type I) with manic or mixed episodes (including patients with/without psychotic features or with/without a history of rapid cycling)\n* In need of psychiatric treatment\n* Cooperation and willingness to complete all aspects of the study\n\nExclusion ",
+      "endpoints": [
+        "Mean reduction in manic episodes and major depressive episodes from baseline to endpoint (week 6)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00107939"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00665444",
+      "title": "Reducing Medical Risks in Individuals With Bipolar Disorder: Enhancing Outcomes With Aripiprazole",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2008-04",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "The proposed study is a non-randomized, open label trial that will examine the potential to reduce metabolic risk factors in patients with bipolar I disorder and improve psychiatric and functional outcomes. To accomplish our objective, we plan to conduct a 5-month intervention of 50 obese or overweight adults diagnosed with bipolar disorder. The study will be divided in three steps: Screening, Baseline Period (cross taper to aripiprazole, up to 2 months in duration), Months 1-3 (continued aripip",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 to 65 years\n2. Body mass index (BMI) \\>=25;\n3. Currently taking a regimen of medications for bipolar disorder likely to cause, sedation, weight gain or undesirable metabolic effects;\n4. Able to give basic informed consent\n5. Meets DSM-IV criteria for lifetime bipolar I",
+      "endpoints": [
+        "BodyMedia Armband (Sleep/Wake and Activity/Inactivity Patterns),",
+        "Epworth Sleepiness Scale (General Level of Daytime Sleepiness)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00665444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01567527",
+      "title": "52-week, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of an Intramuscular Depot Formulation of Aripiprazole (OPC-14597) as Maintenance Treatment in Patients With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2016-04",
+      "country": "South Korea, Taiwan, Romania, Poland, Canada, Japan, United States",
+      "enrollment": 731,
+      "brief_summary": "This will be a randomized, double-blind, placebo-controlled trial to assess the time to recurrence of any mood episode in subjects with bipolar I disorder who have maintained stability on aripiprazole IM depot for at least 8 weeks. This trial will include male and female subjects 18 to 65 years of age, inclusive, with a diagnosis of bipolar I disorder, according to DSM-IV-TR criteria and confirmed by the Mini International Neuropsychiatric Interview (MINI), who have experienced at least one prev",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Male and female subjects 18 to 65 years of age, inclusive, at time of informed consent.\n2. Subjects with a current diagnosis of bipolar I disorder, as defined by DSM-IV-TR criteria and confirmed by the MINI and a history of at least one previous manic or mixed episode wit",
+      "endpoints": [
+        "Time From Randomization to Recurrence of Any Mood Episode During Double-bind Placebo-controlled Phase."
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01567527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00606229",
+      "title": "A Multicenter Investigative Study of the Safety and Efficacy of Long-term Administration of Aripiprazole in Combination With Mood Stabilizer for the Treatment of Patients With Bipolar Disorder Experiencing a Manic or Mixed Episode",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-11",
+      "country": "Japan",
+      "enrollment": 41,
+      "brief_summary": "To assess the safety and efficacy of long-term administration of aripiprazole in combination with mood stabilizer (lithium or valproate) in an unblinded manner in patients with Bipolar I Disorder experiencing a manic or mixed episode",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Trial subjects will be men and women of age 18 or above and below the age of 65 who will not be turning 65 during the trial.\n* Patients have the ability to understand and to provide informed consent to the examination, observation, and evaluation processes specified in this pr",
+      "endpoints": [
+        "Young Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00606229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02630888",
+      "title": "Efficacy of the Combination of Memantine in the Treatment of Bipolar Disorder (Type I) Nonresponders or Partial Responders Young Patients to Previous Combination Therapy of Quetiapine Plus Lithium or Quetiapine Plus Aripiprazole",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-08",
+      "completion_date": "2020-09",
+      "country": "Brazil",
+      "enrollment": 44,
+      "brief_summary": "The main goal of this study is evaluate the efficacy of memantine association on the treatment with a previous combination of two drugs, including quetiapine with lithium or quetiapine with aripiprazole in young patients with bipolar disorder type 1 non-responders or partial responders to that combination of drugs and evaluate the impact of this association at the cognitive functioning of the patients.",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1\\) Partial responders or non-responders (HAM-D score \\> 7 points and/or YMRS \\> 9 points) in the ARIQUELI Study (after quetiapine + lithium or quetiapine + aripiprazole combination).\n* EXCLUSION CRITERIA:\n\n  1. Patients with Schizophrenia, Schizoaffective Disorder or Mental",
+      "endpoints": [
+        "Memantine efficacy in stabilizing mood"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT02630888"
+    }
+  ],
+  "timestamp": "2026-03-04T15:26:41.179635",
+  "success": true,
+  "error_message": null
+}

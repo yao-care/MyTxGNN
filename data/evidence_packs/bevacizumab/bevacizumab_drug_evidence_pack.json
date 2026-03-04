@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Bevacizumab",
+    "drugbank_id": "DB00112"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 9
+  },
+  "indications": [
+    {
+      "disease": "peritoneum cancer",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 15,
+      "phase2": 25,
+      "phase4": 0
+    },
+    {
+      "disease": "hereditary breast ovarian cancer syndrome",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 6,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "malignant epithelial tumor of ovary",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 28,
+      "articles": 20,
+      "phase3": 6,
+      "phase2": 12,
+      "phase4": 0
+    },
+    {
+      "disease": "primary peritoneal carcinoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 19,
+      "phase3": 15,
+      "phase2": 24,
+      "phase4": 0
+    },
+    {
+      "disease": "breast neoplasm",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 10,
+      "phase2": 30,
+      "phase4": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tobramycin",
+    "disease": "iridocyclitis",
+    "query_string": "Tobramycin AND iridocyclitis"
+  },
+  "data": {
+    "query": "Tobramycin AND iridocyclitis",
+    "results": [
+      {
+        "pmid": "12095819",
+        "title": "Intraocular caterpillar setae without subsequent vitritis or iridocyclitis.",
+        "abstract": "To report a case of caterpillar setae embedded in the corneal stroma and inferotemporal retina with minimal inflammation.",
+        "journal": "American journal of ophthalmology",
+        "year": "2002",
+        "authors": [
+          "Ibarra Michael S",
+          "Orlin Stephen E",
+          "Saran Bruce R",
+          "Liss Robert P",
+          "Maguire Albert M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Corneal Stroma",
+          "Dexamethasone",
+          "Drug Therapy, Combination",
+          "Eye Diseases",
+          "Eye Foreign Bodies",
+          "Eye Injuries, Penetrating",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12095819/"
+      },
+      {
+        "pmid": "15209466",
+        "title": "A case of infected scleral buckle with Mycobacterium chelonae associated with chronic intraocular inflammation.",
+        "abstract": "To describe a unique case of chronic intraocular inflammation secondary to scleral buckle infection with Mycobacterium chelonae that was successfully treated with buckle explantation.",
+        "journal": "Ocular immunology and inflammation",
+        "year": "2004",
+        "authors": [
+          "Oz Ozay",
+          "Lee David H",
+          "Smetana Scott M",
+          "Akduman Levent"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chronic Disease",
+          "Device Removal",
+          "Dexamethasone",
+          "Drug Therapy, Combination",
+          "Eye Infections, Bacterial",
+          "Glucocorticoids",
+          "Humans",
+          "Iridocyclitis",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15209466/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:41:09.935001",
+  "success": true,
+  "error_message": null
+}

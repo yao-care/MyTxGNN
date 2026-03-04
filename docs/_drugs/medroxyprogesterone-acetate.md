@@ -6,7 +6,7 @@ drug_name: "Medroxyprogesterone Acetate"
 kg_predictions: 63
 dl_predictions: 84
 evidence_level: "L1"
-indication_count: 63
+indication_count: 5
 brands: []
 permalink: /drugs/medroxyprogesterone-acetate/
 ---

@@ -1,0 +1,604 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Gliclazide",
+    "disease": "type 2 diabetes mellitus",
+    "query_string": "Gliclazide AND type 2 diabetes mellitus"
+  },
+  "data": {
+    "query": "Gliclazide AND type 2 diabetes mellitus",
+    "results": [
+      {
+        "pmid": "18539916",
+        "title": "Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes.",
+        "abstract": "In patients with type 2 diabetes, the effects of intensive glucose control on vascular outcomes remain uncertain.",
+        "journal": "The New England journal of medicine",
+        "year": "2008",
+        "authors": [
+          "Patel Anushka",
+          "MacMahon Stephen",
+          "Chalmers John",
+          "Neal Bruce"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Blood Glucose",
+          "Cardiovascular Diseases",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Angiopathies",
+          "Diabetic Nephropathies",
+          "Drug Therapy, Combination",
+          "Female",
+          "Follow-Up Studies",
+          "Gliclazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18539916/"
+      },
+      {
+        "pmid": "36300277",
+        "title": "Evaluating gliclazide for the treatment of type 2 diabetes mellitus.",
+        "abstract": "Sulfonylureas have been the standard second-line treatment after failure of metformin monotherapy in patients with type 2 diabetes (T2D) but they are becoming less popular as the newer glucose-lowering agents have a relatively lower risk of hypoglycemia and some of them have been shown to reduce cardiovascular and renal events. Gliclazide differs from other sulfonylureas in several respects and may provide a suitable option for some patients with T2D.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Tomlinson Brian",
+          "Li Yan-Hong",
+          "Chan Paul"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gliclazide",
+          "Diabetes Mellitus, Type 2",
+          "Sulfonylurea Compounds",
+          "Hypoglycemic Agents",
+          "Blood Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36300277/"
+      },
+      {
+        "pmid": "40326063",
+        "title": "Fasting and postprandial kidney haemodynamic effects of empagliflozin and linagliptin in mono- and combination therapy compared to gliclazide in overweight people with type 2 diabetes (RACELINES): A randomised, double-blind trial.",
+        "abstract": "Sodium-glucose cotransporter (SGLT) 2 inhibitors attenuate fasting glomerular hyperfiltration in people with type 2 diabetes (T2D). However, SGLT2-inhibition increases glucagon levels, which facilitate postprandial hyperfiltration. The impact of SGLT2 inhibition on protein-related hyperfiltration and postprandial (intra) kidney haemodynamic function is unclear. Moreover, the interaction with dipeptidyl-peptidase (DPP)-4 inhibitors, known to reduce glucagon levels and to affect meal-related factors modulating GFR, is unknown.",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2025",
+        "authors": [
+          "van Baar Michaël J B",
+          "Muskiet Marcel H A",
+          "Scholtes Rosalie A",
+          "Touw Daan J",
+          "Nieuwdorp Max"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Benzhydryl Compounds",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Dipeptidyl-Peptidase IV Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40326063/"
+      },
+      {
+        "pmid": "39792745",
+        "title": "Comparative efficacy and safety of sitagliptin or gliclazide combined with metformin in treatment-naive patients with type 2 diabetes: A single-center, prospective, randomized, controlled, noninferiority study with genetic polymorphism analysis.",
+        "abstract": "This study evaluates the efficacy and safety of sitagliptin versus gliclazide, combined with metformin, in treatment-naive patients with type 2 diabetes mellitus (T2DM) and glucotoxicity.",
+        "journal": "Medicine",
+        "year": "2025",
+        "authors": [
+          "Qin Min",
+          "Chao Lingxi",
+          "Liu Shiqun"
+        ],
+        "pub_types": [
+          "Equivalence Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination",
+          "Gliclazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39792745/"
+      },
+      {
+        "pmid": "30119196",
+        "title": "Determination of gliclazide minimum concentration in type 2 diabetes mellitus patients.",
+        "abstract": "Type 2 diabetes mellitus is a worldwide health problem. Many drugs can be used in its treatment. One of them is gliclazide - the sulfonylurea derivative. It is dosed in modified release tablets. The study aimed to determine the minimum steady-state concentration of gliclazide at patients taking modified release tablets. Fasting plasma glucose, insulin level, and glycated hemoglobin were also assayed in this study. Ten patients of the primary care physician clinic took 30-90 mg of gliclazide daily. The statistical analysis proved that there is a statistically significant correlation between insulin level and body weight (p = 0.044) as well as between the dose and gliclazide concentrations (p = 0.015) and also between insulin level and minimum concentration of the drug (p = 0.0074). The linear correlation between dose and gliclazide's minimum steady state concentration proved its linear pharmacokinetics. The correlation between the minimum concentration of gliclazide and insulin level mi",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2018",
+        "authors": [
+          "Czyrski Andrzej",
+          "Resztak Matylda",
+          "Hermann Tadeusz"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Biomarkers",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 2",
+          "Drug Dosage Calculations",
+          "Drug Monitoring",
+          "Fasting",
+          "Female",
+          "Gliclazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30119196/"
+      },
+      {
+        "pmid": "29039071",
+        "title": "Potential Applications of Gliclazide in Treating Type 1 Diabetes Mellitus: Formulation with Bile Acids and Probiotics.",
+        "abstract": "A major advancement in therapy of type 1 diabetes mellitus (T1DM) is the discovery of new treatment which avoids and even replaces the absolute requirement for injected insulin. The need for multiple drug therapy of comorbidities associated with T1DM increases demand for developing novel therapeutic alternatives with new mechanisms of actions. Compared to other sulphonylurea drugs used in the treatment of type 2 diabetes mellitus, gliclazide exhibits a pleiotropic action outside pancreatic β cells, the so-called extrapancreatic effects, such as antiinflammatory and cellular protective effects, which might be beneficial in the treatment of T1DM. Results from in vivo experiments confirmed the positive effects of gliclazide in T1DM that are even more pronounced when combined with other hypoglycaemic agents such as probiotics and bile acids. Even though the exact mechanism of interaction at the molecular level is still unknown, there is a clear synergistic effect between gliclazide, bile a",
+        "journal": "European journal of drug metabolism and pharmacokinetics",
+        "year": "2018",
+        "authors": [
+          "Mikov Momir",
+          "Đanić Maja",
+          "Pavlović Nebojša",
+          "Stanimirov Bojan",
+          "Goločorbin-Kon Svetlana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bile Acids and Salts",
+          "Diabetes Mellitus, Type 1",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Probiotics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29039071/"
+      },
+      {
+        "pmid": "32516291",
+        "title": "Effects of dapagliflozin and gliclazide on the cardiorenal axis in people with type 2 diabetes.",
+        "abstract": "There is a bidirectional relationship between cardiovascular and renal disease. The drug-class of SGLT2 inhibitors improves outcomes at both ends of this so called cardiorenal axis. We assessed the effects of SGLT2 inhibition and sulfonylurea treatment on systemic hemodynamic function and investigated whether SGLT2 inhibitor-induced changes in systemic hemodynamics correlate with changes in renal hemodynamics.",
+        "journal": "Journal of hypertension",
+        "year": "2020",
+        "authors": [
+          "van Bommel Erik J M",
+          "Smits Mark M",
+          "Ruiter Danique",
+          "Muskiet Marcel H A",
+          "Kramer Mark H H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Benzhydryl Compounds",
+          "Diabetes Mellitus, Type 2",
+          "Gliclazide",
+          "Glomerular Filtration Rate",
+          "Glucosides",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Vascular Stiffness"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32516291/"
+      },
+      {
+        "pmid": "29558784",
+        "title": "Alogliptin and Gliclazide Similarly Increase Circulating Endothelial Progenitor Cells in Type 2 Diabetes Patients.",
+        "abstract": "We investigated the effect of alogliptin and gliclazide on endothelial progenitor cells (EPCs) in type 2 diabetes.",
+        "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+        "year": "2019",
+        "authors": [
+          "Negro Roberto",
+          "Greco Eupremio Luigi",
+          "Greco Giacomo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Diabetes Mellitus, Type 2",
+          "Endothelial Progenitor Cells",
+          "Female",
+          "Gliclazide",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29558784/"
+      },
+      {
+        "pmid": "29802958",
+        "title": "The place of gliclazide MR in the evolving type 2 diabetes landscape: A comparison with other sulfonylureas and newer oral antihyperglycemic agents.",
+        "abstract": "The sulfonylureas are effective oral glucose-lowering agents with a long history of clinical use. While all have the same general mechanism of action, their pharmacokinetic properties are influenced by factors such as dosage, rate of absorption, duration of action, route of elimination, tissue specificity, and binding affinity for pancreatic β-cell receptor. The result is a class of agents with similar HbA1c-lowering efficacy, but well-documented differences in terms of effects on hypoglycemia, and cardiovascular and renal safety. This review examines the differences between currently available sulfonylureas with a focus on how gliclazide modified release (MR) differs from other members of this class and from newer oral antihyperglycemic agents in the form of dipeptidyl peptidase-4 (DPP4) and sodium- glucose cotransporter 2 (SGLT2) inhibitors. The first part focuses on major outcome trials that have been conducted with the sulfonylureas and new oral agents. Consideration is then given ",
+        "journal": "Diabetes research and clinical practice",
+        "year": "2018",
+        "authors": [
+          "Colagiuri Stephen",
+          "Matthews David",
+          "Leiter Lawrence A",
+          "Chan Siew Pheng",
+          "Sesti Giorgio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diabetes Mellitus, Type 2",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Sulfonylurea Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29802958/"
+      },
+      {
+        "pmid": "35398820",
+        "title": "Indonesia DIA-RAMADAN Study: A Real-life, Prospective and Observational of Gliclazide MR in Type-2 Diabetes Patients During Ramadan Fasting.",
+        "abstract": "Sulfonylureas (SUs) have been widely used in many countries for T2DM treatment. Gliclazide is one of the SUs with the lowest risk of hypoglycemia; however, the safety and effectiveness of gliclazide MR during Ramadan has not yet been reported in Indonesia. This study aimed to assess safety, efficacy, and tolerability of gliclazide modified release (MR) during Ramadan fasting.",
+        "journal": "Acta medica Indonesiana",
+        "year": "2022",
+        "authors": [
+          "Soelistijo Soebagijo Adi",
+          "Aman Andi Makbul",
+          "Zufry Hendra",
+          "Pranoto Agung",
+          "Rudijanto Achmad"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 2",
+          "Fasting",
+          "Gliclazide",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Indonesia",
+          "Islam",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35398820/"
+      },
+      {
+        "pmid": "24533045",
+        "title": "Safety and efficacy of gliclazide as treatment for type 2 diabetes: a systematic review and meta-analysis of randomized trials.",
+        "abstract": "Gliclazide has been associated with a low risk of hypoglycemic episodes and beneficial long-term cardiovascular safety in observational cohorts. The aim of this study was to assess in a systematic review and meta-analysis of randomized controlled trials the safety and efficacy of gliclazide compared to other oral glucose-lowering agents (PROSPERO2013:CRD42013004156).",
+        "journal": "PloS one",
+        "year": "2014",
+        "authors": [
+          "Landman Gijs W D",
+          "de Bock Geertruide H",
+          "van Hateren Kornelis J J",
+          "van Dijk Peter R",
+          "Groenier Klaas H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Blood Glucose",
+          "Body Weight",
+          "Cardiovascular Diseases",
+          "Diabetes Mellitus, Type 2",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24533045/"
+      },
+      {
+        "pmid": "15529516",
+        "title": "Cardiovascular effects of treatment of type 2 diabetes with pioglitazone, metformin and gliclazide.",
+        "abstract": "Cardiovascular mortality and morbidity are increased in patients with type 2 diabetes. However, there are few data from clinical trials comparing cardiovascular effects of alternative oral anti-diabetic agents. Major cardiovascular outcomes during four one-year, double-blind trials in over 3700 patients with type 2 diabetes randomised to either a thiazolidinedione, pioglitazone, metformin or a sulphonylurea, gliclazide treatment have been combined. Mean blood pressure was slightly reduced by all treatments, with pioglitazone treatment resulting in the largest falls (approximately 1.5 mmHg). Hospitalisations for cardiac or cerebrovascular events were similar with the different treatments. Overall mortality was seven of 1857 for pioglitazone and 10 of 1856 for non-pioglitazone treatments, of which three and six were cardiac deaths, respectively. The incidence of congestive cardiac failure was similar with pioglitazone (12/1857) and non-pioglitazone (10/1856) treatments. The results show ",
+        "journal": "International journal of clinical practice",
+        "year": "2004",
+        "authors": [
+          "Belcher G",
+          "Lambert C",
+          "Goh K L",
+          "Edwards G",
+          "Valbuena M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Blood Pressure",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Angiopathies",
+          "Double-Blind Method",
+          "Female",
+          "Gliclazide",
+          "Heart Failure",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15529516/"
+      },
+      {
+        "pmid": "37233878",
+        "title": "Roadmap for the Management of Type 2 Diabetes and Hypertension in the Middle East: Review of the 2022 EVIDENT Summit.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) and hypertension are leading risk factors for death and disability in the Middle East. Both conditions are highly prevalent, underdiagnosed and poorly controlled, highlighting an urgent need for a roadmap to overcome the barriers to optimal glycaemic and blood pressure management in this region. This review provides a summary of the Evidence in Diabetes and Hypertension Summit (EVIDENT) held in September 2022, which discussed current treatment guidelines, unmet clinical needs and strategies to improve treatment outcomes for patients with T2DM and hypertension in the Middle East. Current clinical guidelines recommend strict glycaemic and blood pressure targets, presenting several treatment options to achieve and maintain these targets and prevent complications. However, treatment targets are infrequently met in the Middle East, largely due to high clinical inertia among physicians and low medication adherence among patients. To address these challenges, c",
+        "journal": "Advances in therapy",
+        "year": "2023",
+        "authors": [
+          "Al Saleh Yousef",
+          "Al Busaidi Noor",
+          "Al Dahi Waleed",
+          "Almajnoni Munawar",
+          "Mohammed Al Saeed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Risk Factors",
+          "Hypertension",
+          "Sulfonylurea Compounds",
+          "Blood Pressure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37233878/"
+      },
+      {
+        "pmid": "27528060",
+        "title": "Updates on Managing Type 2 Diabetes Mellitus with Natural Products: Towards Antidiabetic Drug Development.",
+        "abstract": "Over the years, natural products have shown success as antidiabetics in in vitro, in vivo studies and clinical trials. Because natural product-derived drugs are more affordable and effective with fewer side-effects compared to conventional therapies, pharmaceutical research is increasingly leaning towards the discovery of new antidiabetic drugs from natural products targeting pathways or components associated with type 2 diabetes mellitus (T2DM) pathophysiology. However, the drug discovery process is very lengthy and costly with significant challenges. Therefore, various techniques are currently being developed for the preclinical research phase of drug discovery with the aim of drug development with less time and efforts from natural products. In this review, we have provided an update on natural products including fruits, vegetables, spices, nuts, beverages and mushrooms with potential antidiabetic activities from in vivo, in vitro and clinical studies. Synergistic interactions betwe",
+        "journal": "Current medicinal chemistry",
+        "year": "2018",
+        "authors": [
+          "Alam Fahmida",
+          "Islam Md Asiful",
+          "Kamal Mohammad Amjad",
+          "Gan Siew Hua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biological Products",
+          "Diabetes Mellitus, Type 2",
+          "Drug Discovery",
+          "Gliclazide",
+          "Glucose Transporter Type 4",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Metformin",
+          "Oxidative Stress",
+          "Sulfonylurea Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27528060/"
+      },
+      {
+        "pmid": "24030920",
+        "title": "The incidence of mild and severe hypoglycaemia in patients with type 2 diabetes mellitus treated with sulfonylureas: a systematic review and meta-analysis.",
+        "abstract": "Patients with type 2 diabetes mellitus using sulfonylurea derivatives or insulin may experience hypoglycaemia. However, recent data regarding the incidence of hypoglycaemia are scarce. We conducted a systematic review and meta-analysis to determine the proportion of patients with type 2 diabetes mellitus that experience hypoglycaemia when treated with sulfonylurea or insulin. We searched MEDLINE and EMBASE for randomized controlled trials that compared incretin-based drugs to sulfonylureas or insulin and assessed hypoglycaemia incidence in the latter therapies. Subgroup and meta-regression analyses were performed to study possible associations with potential risk factors for hypoglycaemia. Data of 25 studies were extracted, 22 for sulfonylurea and 3 for insulin. Hypoglycaemia with glucose ≤3.1 mmol/L or ≤2.8 mmol/L was experienced by 10.1% [95% confidence interval (CI) 7.3-13.8%] and 5.9% (95% CI 2.5-13.4%) of patients with any sulfonylurea treatment. Severe hypoglycaemia was experienc",
+        "journal": "Diabetes/metabolism research and reviews",
+        "year": "2014",
+        "authors": [
+          "Schopman J E",
+          "Simon A C R",
+          "Hoefnagel S J M",
+          "Hoekstra J B L",
+          "Scholten R J P M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Causality",
+          "Comorbidity",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Incidence",
+          "Sulfonylurea Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24030920/"
+      },
+      {
+        "pmid": "12076188",
+        "title": "Gliclazide modified release.",
+        "abstract": "Gliclazide modified release (MR) is a new formulation of the drug gliclazide and is given once daily. The hydrophilic matrix of hypromellose-based polymer in the new formulation effects a progressive release of the drug which parallels the 24-hour glycaemic profile in untreated patients with type 2 diabetes mellitus. The formulation shows high bioavailability and its absorption profile is unaffected by coadministration with food. Mean plasma glucose levels are significantly reduced over a 24-hour period in patients with type 2 diabetes mellitus treated with gliclazide MR once daily, in both fasting and postprandial states. No cardiovascular ATP-sensitive potassium channel interaction has been observed at therapeutic concentrations of gliclazide MR. Gliclazide MR has also demonstrated antioxidant properties that are independent of glycaemic control. In a randomised, double-blind, multicentre study, gliclazide MR 30 to 120 mg once daily showed similar efficacy to gliclazide immediate rel",
+        "journal": "Drugs",
+        "year": "2002",
+        "authors": [
+          "McGavin Jane K",
+          "Perry Caroline M",
+          "Goa Karen L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biological Availability",
+          "Delayed-Action Preparations",
+          "Diabetes Mellitus, Type 2",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12076188/"
+      },
+      {
+        "pmid": "27623996",
+        "title": "Review of Pharmacokinetic Data of Different Drug Classes in Goto-Kakizaki Rats, a Non-obese Model for Type 2 Diabetes Mellitus: Case Studies and Perspectives.",
+        "abstract": "Goto-Kakizaki (GK) rats represent a unique non-obese and lean model with manifestation of type 2 diabetes (T2DM) broadly mimicking the human T2DM development. Therefore, in addition to the use of GK rats to test the efficacy of drugs, it may represent a great tool to study the influence of altered physiological process and/or organ specific pathophysiological changes (i.e., liver, kidney, etc.) on the disposition of drugs. The objectives of the review were: (a) to compile the published pharmacokinetic data of several drugs, such as cephalexin, cyclosporine, exendin-4, gliclazide, grepafloxacin, rosuvastatin, salsalate, salicylic acid, and theophylline, in GK rats relative to normal rats; and (b) critically evaluate the possible role of physiologically altered processes on the pharmacokinetics of reviewed drugs. The drugs chosen for this review provided a spread of various physiological processes and represented reasonable pool of published data set to fulfil the objectives of the revie",
+        "journal": "European journal of drug metabolism and pharmacokinetics",
+        "year": "2017",
+        "authors": [
+          "Patel Harilal",
+          "Giri Poonam",
+          "Srinivas Nuggehally R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Diabetes Mellitus, Experimental",
+          "Diabetes Mellitus, Type 2",
+          "Drug Design",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Pharmacokinetics",
+          "Rats",
+          "Species Specificity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27623996/"
+      },
+      {
+        "pmid": "33932596",
+        "title": "Differential metabolic network construction for personalized medicine: Study of type 2 diabetes mellitus patients' response to gliclazide-modified-release-treated.",
+        "abstract": "Individual variation in genetic and environmental factors can cause the differences in metabolic phenotypes, which may have an effect on drug responses of patients. Deep exploration of patients' responses to therapeutic agents is a crucial and urgent event in the personalized treatment study. Using machine learning methods for the discovery of suitability evaluation biomarkers can provide deep insight into the mechanism of disease therapy and facilitate the development of personalized medicine. To find important metabolic network signals for the prediction of patients' drug responses, a novel method referred to as differential metabolic network construction (DMNC) was proposed. In DMNC, concentration changes in metabolite ratios between different pathological states are measured to construct differential metabolic networks, which can be used to advance clinical decision-making. In this study, DMNC was applied to characterize type 2 diabetes mellitus (T2DM) patients' responses against g",
+        "journal": "Journal of biomedical informatics",
+        "year": "2021",
+        "authors": [
+          "Huang Xin",
+          "Zhou Yang",
+          "Tang Haoze",
+          "Liu Bing",
+          "Su Benzhe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Diabetes Mellitus, Type 2",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Metabolic Networks and Pathways",
+          "Precision Medicine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33932596/"
+      },
+      {
+        "pmid": "10718777",
+        "title": "Pharmacokinetics and pharmacodynamics of gliclazide in Caucasians and Australian Aborigines with type 2 diabetes.",
+        "abstract": "Gliclazide pharmacokinetics and pharmacodynamics were assessed in 9 Caucasians and 10 Australian Aborigines with uncomplicated type 2 diabetes.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "2000",
+        "authors": [
+          "Davis T M",
+          "Daly F",
+          "Walsh J P",
+          "Ilett K F",
+          "Beilby J P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Australia",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10718777/"
+      },
+      {
+        "pmid": "32330510",
+        "title": "A real-world study in patients with type 2 diabetes mellitus treated with gliclazide modified-release during fasting: DIA-RAMADAN.",
+        "abstract": "To explore the real-world safety and effectiveness of gliclazide modified release (MR) in patients with type 2 diabetes mellitus (T2DM) fasting during Ramadan.",
+        "journal": "Diabetes research and clinical practice",
+        "year": "2020",
+        "authors": [
+          "Hassanein Mohamed",
+          "Al Sifri Saud",
+          "Shaikh Shehla",
+          "Abbas Raza Syed",
+          "Akram Javed"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Diabetes Mellitus, Type 2",
+          "Fasting",
+          "Female",
+          "Gliclazide",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Islam",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32330510/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:50:24.265297",
+  "success": true,
+  "error_message": null
+}

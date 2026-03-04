@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Clobetasol Propionate",
+    "drugbank_id": "DB01013"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 28
+  },
+  "indications": [
+    {
+      "disease": "dermatitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 19,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 6,
+      "phase4": 3
+    },
+    {
+      "disease": "seborrheic keratosis",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 1,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "scalp dermatosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 5,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 2,
+      "phase4": 2
+    },
+    {
+      "disease": "dermatitis, atopic",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 8,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 4,
+      "phase4": 0
+    },
+    {
+      "disease": "seborrheic dermatitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 1,
+      "articles": 15,
+      "phase3": 1,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

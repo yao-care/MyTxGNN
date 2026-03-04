@@ -1,0 +1,567 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Erythromycin",
+    "disease": "infectious otitis media",
+    "query_string": "Erythromycin AND infectious otitis media"
+  },
+  "data": {
+    "query": "Erythromycin AND infectious otitis media",
+    "results": [
+      {
+        "pmid": "35944719",
+        "title": "Amoxicillin Versus Other Antibiotic Agents for the Treatment of Acute Otitis Media in Children.",
+        "abstract": "The objective of the study was to compare the antibiotic treatment failure and recurrence rates between antibiotic agents (amoxicillin, amoxicillin-clavulanate, cefdinir, and azithromycin) for children with uncomplicated acute otitis media (AOM).",
+        "journal": "The Journal of pediatrics",
+        "year": "2022",
+        "authors": [
+          "Frost Holly M",
+          "Bizune Destani",
+          "Gerber Jeffrey S",
+          "Hersh Adam L",
+          "Hicks Lauri A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Infant",
+          "Amoxicillin",
+          "Azithromycin",
+          "Cefdinir",
+          "Retrospective Studies",
+          "Acute Disease",
+          "Treatment Outcome",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35944719/"
+      },
+      {
+        "pmid": "8919162",
+        "title": "Upper respiratory tract infections - otitis media, sinusitis and pharyngitis.",
+        "abstract": "Management of the patient with otitis media, sinusitis or pharyngotonsillitis is based on information about the host, the organism and the antimicrobial agent. Otitis media (OM) is a common infection in children but selected children have recurrent and chronic OM. The predominant organisms responsible for OM are Streptococcus pneumonia, Haemophilus influenzae and Moraxella catarrhalis. Changes in the antimicrobial susceptibility govern the choice of antimicrobial agents. Surgical treatment should be considered if the child has persistent hearing loss in both ears. Sinusitis shares with OM similar pathogenesis, microbiology and choices of antimicrobial therapy. Endoscopic surgery is the treatment of choice for chronic sinusitis. Pharyngitis may be either viral or bacterial in origin. Penicillin remains the treatment of choice for bacterial pharyngotonsillitis. In patients with recurrent infection, the emergence of B-lactamase producing strains has to be considered and erythromycin or or",
+        "journal": "Singapore medical journal",
+        "year": "1995",
+        "authors": [
+          "Oh H M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Combined Modality Therapy",
+          "Female",
+          "Humans",
+          "Male",
+          "Otitis Media",
+          "Pharyngitis",
+          "Recurrence",
+          "Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8919162/"
+      },
+      {
+        "pmid": "15228846",
+        "title": "Sensitivity and spectrum of bacterial isolates in infectious otitis externa.",
+        "abstract": "To determine the spectrum and antibiotic sensitivity pattern of organisms from aural swabs taken from cases of infectious otitis externa.",
+        "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+        "year": "2004",
+        "authors": [
+          "Arshad Muhammad",
+          "Khan Nasir Ullah",
+          "Ali Nadir",
+          "Afridi Nazar Muhammad"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Child",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15228846/"
+      },
+      {
+        "pmid": "14770078",
+        "title": "[Use of azithromycin in the treatment of acute otitis media and tonsillopharyngitis: summary and conclusions.",
+        "abstract": "",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2004",
+        "authors": [
+          "Klein Jerome O",
+          "Schaad Urs B"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Azithromycin",
+          "Child",
+          "Child, Preschool",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14770078/"
+      },
+      {
+        "pmid": "34321442",
+        "title": "Haemophilus influenzae Prevalence, Proportion of Capsulated Strains and Antibiotic Susceptibility During Colonization and Acute Otitis Media in Children, 2019-2020.",
+        "abstract": "The objective of this study was to determine the prevalence, proportion of encapsulated strains and antibiotic susceptibility of Haemophilus influenzae isolated from young children.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2021",
+        "authors": [
+          "Fuji Naoko",
+          "Pichichero Michael",
+          "Kaur Ravinder"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Capsules",
+          "Child, Preschool",
+          "Female",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Infant",
+          "Male",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34321442/"
+      },
+      {
+        "pmid": "8021763",
+        "title": "Comparative study of the safety and efficacy of clarithromycin and amoxicillin-clavulanate in the treatment of acute otitis media in children.",
+        "abstract": "The safety and efficacy of clarithromycin was compared with those of amoxicillin-potassium calvulanate for the treatment of acute otitis media in children. In a multicenter, randomized, investigator-blinded trial, 180 patients (6 months to 12 years of age) with acute otitis media were allocated to receive either clarithromycin, 15 mg/kg in two divided doses (n = 90), or amoxicillin-clavulanate, 40 mg/kg in three divided doses (n = 90), for 10 days. Middle ear samples were obtained by tympanocentesis from 175 of 180 patients. Pathogens were isolated from 137 samples (76%). Eighty-six patients in each treatment group were considered for efficacy analysis. Clinical cure or improvement was achieved within 4 days after treatment in 80 (93%) of 86 patients receiving clarithromycin and in 82 (95%) of 86 patients receiving amoxicillin-clavulanate. Recurrence of infection was observed between 5 and 35 days after treatment in 9 (11%) of 80 patients in the clarithromycin group and in 8 (10%) of 8",
+        "journal": "The Journal of pediatrics",
+        "year": "1994",
+        "authors": [
+          "Aspin M M",
+          "Hoberman A",
+          "McCarty J",
+          "McLinn S E",
+          "Aronoff S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Amoxicillin",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Ear, Middle",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8021763/"
+      },
+      {
+        "pmid": "12069974",
+        "title": "Experimental acute otitis media due to nontypeable Haemophilus influenzae: comparison of high and low azithromycin doses with placebo.",
+        "abstract": "Treatment of acute otitis media (AOM) with azithromycin results in apparent clinical success, but tympanocentesis performed 4 to 6 days after initiation of therapy in children with nontypeable Haemophilus influenzae (NTHI) recovered from initial middle ear cultures demonstrates persistence of infection in more than 50% of episodes. We sought to determine the effect of azithromycin at different doses on the density of middle ear infection due to NTHI to provide additional understanding of this dichotomy between clinical and microbiologic outcome measures in AOM. In a chinchilla model of experimental otitis media (EOM), animals treated with placebo were compared to animals receiving a single daily dose 30 or 120 mg of azithromycin per kg of body weight per day for 5 days. Microbiologic outcome was assessed by obtaining quantitative cultures from the middle ear during a 5-day course and for 1 week following therapy. Azithromycin concentrations were measured to ascertain whether a concentr",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2002",
+        "authors": [
+          "Babl Franz E",
+          "Pelton Stephen I",
+          "Li Zhong"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Azithromycin",
+          "Chinchilla",
+          "Dose-Response Relationship, Drug",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Otitis Media"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12069974/"
+      },
+      {
+        "pmid": "8783722",
+        "title": "Otitis media and mastoiditis due to Mycobacterium fortuitum: case report, review of four cases, and a cautionary note.",
+        "abstract": "Mycobacterium fortuitum is a rarely reported cause of otitis media and mastoiditis. We report such a case recently seen at our institution and review the four previously published cases of this disease entity. Amikacin is recommended in the current medical literature as empirical treatment of disease due to M. fortuitum, but the isolate from our patient showed high-level resistance to amikacin, which is rare in clinical isolates of this species; this resistance was probably related to prior treatment with topical aminoglycosides. Our patient's infection responded to a 12-month course of therapy with clarithromycin and trimethoprim-sulfamethoxazole.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1996",
+        "authors": [
+          "Plemmons R M",
+          "McAllister C K",
+          "Liening D A",
+          "Garces M C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Amikacin",
+          "Anti-Bacterial Agents",
+          "Cefoxitin",
+          "Clarithromycin",
+          "Drug Resistance, Microbial",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Mastoiditis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8783722/"
+      },
+      {
+        "pmid": "21497634",
+        "title": "Distribution, dynamics and antibiotic resistance patterns of Streptococcus pneumoniae serotypes causing acute otitis media in children in southern Israel during the 10 year-period before the introduction of the 7-valent pneumococcal conjugate vaccine.",
+        "abstract": "To determine the dynamics of serotype prevalence, potential coverage by pneumococcal conjugate vaccines (PCV) and antibiotic resistance patterns of Streptococcus pneumoniae causing acute otitis media (AOM) in children in southern Israel before PCV7 introduction in the routine immunization program in Israel.",
+        "journal": "Vaccine",
+        "year": "2011",
+        "authors": [
+          "Somech Ido",
+          "Dagan Ron",
+          "Givon-Lavi Noga",
+          "Porat Nurith",
+          "Raiz Simon"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Drug Resistance, Bacterial",
+          "Ear, Middle",
+          "Ethnicity",
+          "Heptavalent Pneumococcal Conjugate Vaccine",
+          "Humans",
+          "Israel",
+          "Macrolides",
+          "Otitis Media"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21497634/"
+      },
+      {
+        "pmid": "9109154",
+        "title": "History of macrolide use in pediatrics.",
+        "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Drug Interactions",
+          "Erythromycin",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+      },
+      {
+        "pmid": "30410854",
+        "title": "Streptococcus pneumoniae outbreaks and implications for transmission and control: a systematic review.",
+        "abstract": "Streptococcus pneumoniae is capable of causing multiple infectious syndromes and occasionally causes outbreaks. The objective of this review is to update prior outbreak reviews, identify control measures, and comment on transmission.",
+        "journal": "Pneumonia (Nathan Qld.)",
+        "year": "2018",
+        "authors": [
+          "Zivich Paul N",
+          "Grabenstein John D",
+          "Becker-Dreps Sylvia I",
+          "Weber David J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30410854/"
+      },
+      {
+        "pmid": "40430815",
+        "title": "Bacterial Acute Otitis Media Complicated with Otorrhea in a Children's Hospital in the Era of Pneumococcal Conjugate Vaccines.",
+        "abstract": "Acute otitis media (AOM) is a common disease among children and can be complicated by otorrhea (AOMO). In 2010, the 13-valent Pneumococcal Conjugate Vaccine (PCV13) replaced the 7-valent vaccine (PCV7) in Greece. We aimed to describe the microbiological profile of bacterial ΑOMO among children younger than 16 years across the two PCV periods in a tertiary children's hospital. Middle ear fluid cultures from 2418 children with AOMO were collected from 2007 to 2022. Otopathogens were isolated and tested for antimicrobial susceptibility. Data were compared between the PCV7- (2007-2011) and PCV13-period (2012-2019). The most common otopathogen over the 16-year period was S. pyogenes (35.4%), followed by H. influenzae (33.8%), S. pneumoniae (26.6%), and M. catarrhalis (4.1%). Pneumococcal resistance to cefotaxime and clindamycin significantly increased from 2% to 4.5% (p = 0.019) and 16.1% to 22.8% (p = 0.039), respectively. Resistance of H. influenzae to ampicillin increased from 6.3% to 13",
+        "journal": "Pathogens (Basel, Switzerland)",
+        "year": "2025",
+        "authors": [
+          "Tzovara Irene",
+          "Doudoulakakis Anastasios",
+          "Kalogeras Georgios",
+          "Koutouzis Emmanouil",
+          "Dellis Charilaos"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pneumococcal Vaccines",
+          "Child, Preschool",
+          "Infant",
+          "Female",
+          "Male",
+          "Child",
+          "Otitis Media",
+          "Hospitals, Pediatric",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40430815/"
+      },
+      {
+        "pmid": "323837",
+        "title": "A new look at erythromycin.",
+        "abstract": "This article reviews the current place of erythromycin in antibiotic therapy. Overall, erythromycin is thought to be underused because: (1) the fear of resistance has been exaggerated; (2) significant toxicity has been associated with only one derivative (the estolate); (3) newer antibiotics have very rarely been demonstrated to be superior to erythromycin. Erythromycin has an important place in treating acute upper and lower respiratory tract infections, acute otitis media, sinusitis, skin and soft tissue, osteomyelitis, prostatitis, infections due to Mycoplasma spp. and Chlamydia organisms, and infections due to anaerobes.",
+        "journal": "Postgraduate medical journal",
+        "year": "1977",
+        "authors": [
+          "Lacey R W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Drug Resistance, Microbial",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Male",
+          "Osteomyelitis",
+          "Respiratory Tract Infections",
+          "Skin Diseases, Infectious",
+          "Urologic Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/323837/"
+      },
+      {
+        "pmid": "16082067",
+        "title": "Chlamydia infections in the neonatal period.",
+        "abstract": "The paper presents current knowledge about the clinical course, diagnostic and treatment of chlamydial infections in the neonatal period. In the neonatal period, infections caused by Chlamydia trachomatis are in the majority of maternal origin. Chlamydia mother to child transmission occurs during vaginal birth. It can also occur but rarely, during caesarean section after premature rupture of membranes. Chlamydia trachomatis infection of the genitourinary system in pregnancy increases the danger of intrauterine growth restriction and foetal death. It rises the perinatal morbidity of foetuses and newborns and increases the risk of premature deliveries. Chlamydia trachomatis infection in newborns manifests as conjunctivitis and ophthalmia and less commonly as pharyngitis and otitis media. Erythromycin is applied in prophylaxis and treatment of Chlamydia infections.",
+        "journal": "Medycyna wieku rozwojowego",
+        "year": "2005",
+        "authors": [
+          "Pokrzywnicka Małgorzata",
+          "Krajewski Paweł",
+          "Kwiatkowska Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Endophthalmitis",
+          "Erythromycin",
+          "Female",
+          "Fetal Growth Retardation",
+          "Premature Rupture of Fetal Membranes",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Newborn, Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16082067/"
+      },
+      {
+        "pmid": "25590837",
+        "title": "Etiology and antimicrobial susceptibility of middle ear fluid pathogens in Costa Rican children with otitis media before and after the introduction of the 7-valent pneumococcal conjugate vaccine in the National Immunization Program: acute otitis media microbiology in Costa Rican children.",
+        "abstract": "Acute otitis media (AOM) microbiology was evaluated in children after 7-valent pneumococcal conjugate vaccine (PCV7) introduction in Costa Rica (private sector, 2004; National Immunization Program, 2009). This was a combined prospective and retrospective study conducted in a routine clinical setting in San José, Costa Rica. In the prospective part of the study, which was conducted post-PCV7 introduction (2010-2012), standard bacteriological procedures were used to evaluate the etiology and serotype distribution of middle ear fluid samples collected by tympanocentesis or otorrhea from children aged 3-59 months diagnosed with AOM. E-tests were used to evaluate antimicrobial susceptibility in culture-positive samples. Retrospective data recorded between 1999 and 2004 were used for comparison of bacterial etiology and serotype distribution before and after PCV7 introduction. Statistical significance was evaluated in bivariate analyses at the P-value < 0.05 level (without multiplicity corre",
+        "journal": "Medicine",
+        "year": "2015",
+        "authors": [
+          "Abdelnour Arturo",
+          "Arguedas Adriano",
+          "Dagan Ron",
+          "Soley Carolina",
+          "Porat Nurith"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Costa Rica",
+          "Female",
+          "Haemophilus influenzae",
+          "Humans",
+          "Immunization Programs",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25590837/"
+      },
+      {
+        "pmid": "19434927",
+        "title": "Introduction and proliferation of multidrug-resistant Streptococcus pneumoniae serotype 19A clones that cause acute otitis media in an unvaccinated population.",
+        "abstract": "Introduction of the 7-valent pneumococcal conjugate vaccine (PCV7) in the United States in 2000 was temporally associated with an increase in the incidence of disease caused by Streptococcus pneumoniae serotype 19A (Sp19A) and with increasing drug resistance within this serotype. A causative role of PCV7 was speculated. We prospectively studied the dynamics of acute otitis media (AOM) caused by Sp19A in southern Israel before the introduction of PCV7.",
+        "journal": "The Journal of infectious diseases",
+        "year": "2009",
+        "authors": [
+          "Dagan Ron",
+          "Givon-Lavi Noga",
+          "Leibovitz Eugene",
+          "Greenberg David",
+          "Porat Nurith"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Drug Resistance, Multiple",
+          "Ear, Middle",
+          "Humans",
+          "Israel",
+          "Life Style",
+          "Otitis Media",
+          "Penicillin Resistance",
+          "Pneumococcal Vaccines",
+          "Pneumonia, Pneumococcal",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19434927/"
+      },
+      {
+        "pmid": "11981724",
+        "title": "Effects of large dosages of amoxicillin/clavulanate or azithromycin on nasopharyngeal carriage of Streptococcus pneumoniae, Haemophilus influenzae, nonpneumococcal alpha-hemolytic streptococci, and Staphylococcus aureus in children with acute otitis media.",
+        "abstract": "Prior use of antibiotics is associated with carriage of resistant bacteria. Colonization by Streptococcus pneumoniae, Haemophilus influenzae, nonpneumococcal alpha-hemolytic streptococci (NPAHS), and Staphylococcus aureus was evaluated in children receiving antibiotic therapy for acute otitis media and in untreated, healthy control subjects. Children were randomly assigned to receive either amoxicillin/clavulanate (90 mg/kg per day) or azithromycin. Swabs were obtained before initiating therapy and again 2 weeks and 2 months after initiating therapy. We also obtained swabs from control subjects at the time of enrollment and 2 weeks and 2 months after enrollment. The decrease in the rate of carriage of S. pneumoniae and H. influenzae at 2 weeks was significant only in the amoxicillin/clavulanate group (P<.001 and P=.005, respectively). The rate of nasopharyngeal colonization with NPAHS among treated patients increased from 23% to 39% at 2 months (P=.01). This increase was similar for bo",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2002",
+        "authors": [
+          "Ghaffar Faryal",
+          "Muniz Luz Stella",
+          "Katz Kathy",
+          "Smith Jeanette L",
+          "Shouse Theresa"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Amoxicillin",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child, Preschool",
+          "Clavulanic Acid",
+          "Drug Therapy, Combination",
+          "Female",
+          "Haemophilus influenzae",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11981724/"
+      },
+      {
+        "pmid": "27401563",
+        "title": "Efficacy of Solithromycin (CEM-101) for Experimental Otitis Media Caused by Nontypeable Haemophilus influenzae and Streptococcus pneumoniae.",
+        "abstract": "Solithromycin (CEM-101) is a \"fourth-generation\" macrolide, as it has three binding site and is acid stable. The three binding sites confer activity against bacteria resistant to the older macrolides and ketolides, including multidrug-resistant Streptococcus pneumoniae and nontypeable Haemophilus influenzae (NTHi). The objective of this study was to evaluate solithromycin pharmacokinetics (PK), middle ear fluid (MEF) concentrations, and microbiologic efficacy in a chinchilla model of experimental otitis media (EOM) due to strains of S. pneumoniae or NTHi. Plasma PK (maximum concentration of drug in serum [Cmax] and area under the concentration-time curve from 0 to 24 h [AUC0-24]) and middle ear fluid (MEF) concentrations were determined. Isolates with specified antimicrobial susceptibility patterns were inoculated directly into the middle ear (ME). Plasma and MEF were collected for PK and MEF cultures performed to determine efficacy. Solithromycin administered at 150 mg/kg of body weig",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2016",
+        "authors": [
+          "Figueira M",
+          "Fernandes P",
+          "Pelton S I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Child, Preschool",
+          "Chinchilla",
+          "Ear, Middle",
+          "Female",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27401563/"
+      },
+      {
+        "pmid": "9711451",
+        "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+        "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Langtry H D",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Drug Tolerance",
+          "Humans",
+          "Infant",
+          "Otitis Media",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:30:35.792005",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,489 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Insulin Glargine",
+    "disease": "diabetic ketoacidosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06007508",
+      "title": "Early Administration of Insulin Glargine in Patients With Diabetic Ketoacidosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-05-31",
+      "completion_date": "2023-02-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a medical emergency that is associated with significant morbidity and mortality for both patients with type I and type II diabetes. By correcting hyperglycemia and inhibiting the release of free fatty acids, insulin administration leads to decreased ketone formation and resolution of acidosis. Short-acting intravenous insulin is often preferred to subcutaneous administration for initial management due to its short half-life and ease of titration, but patients will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presented to Regions Hospital ED for chief complaint of DKA, nausea, vomiting, abdominal pain, hyperglycemia, or similar\n2. Meets all below diagnostic criteria for DKA per the American Diabetes Association:\n\n   * Arterial or venous pH \\</= 7.3\n   * Serum Bicarbonate \\</= 18 m",
+      "endpoints": [
+        "Does early administration of insulin glargine result in a change in ICU length of stay when compared to usual care for the treatment of diabetic ketoacidosis?"
+      ],
+      "sponsor": "HealthPartners Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06007508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04974528",
+      "title": "INHALE-1: A 26-week Primary Treatment Phase, With 26-week Extension, Open-label, Randomized Clinical Trial Evaluating the Efficacy and Safety of Afrezza® Versus Rapid-acting Insulin Analog Injections, Both in Combination With a Basal Insulin, in Pediatric Subjects With Type 1 or Type 2 Diabetes Mellitus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-09-29",
+      "completion_date": "2025-04-29",
+      "country": "United States",
+      "enrollment": 319,
+      "brief_summary": "INHALE-1 is a Phase 3, open-label, randomized clinical study evaluating the efficacy and safety of Afrezza in combination with a basal insulin (i.e., the Afrezza group) versus insulin aspart, insulin lispro or insulin glulisine in combination with a basal insulin (i.e., the Rapid-acting Insulin Analog \\[RAA\\] injection group) in pediatric subjects with type 1 or type 2 diabetes mellitus. Following 26 weeks of randomized treatment (i.e., Afrezza or RAA injection combined with a basal insulin), al",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Assent from the pediatric subject, as appropriate, and fully informed consent from the parent(s) or legal guardian, as required by both state and federal laws and the local Institutional Review Board (IRB)\n* Subjects ≥4 and \\<18 years of age\n* Clinical diagnosis of type 1 diab",
+      "endpoints": [
+        "Change in HbA1c"
+      ],
+      "sponsor": "Mannkind Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04974528"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05767255",
+      "title": "Risk of Hypoglycemia in the Transition From Inpatient to Outpatient Setting. Comparative Study of Basal-bolus Insulin Versus Basal Insulin Plus GLP-1 Analogue",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-12-01",
+      "completion_date": "2023-08-30",
+      "country": "Colombia",
+      "enrollment": 66,
+      "brief_summary": "The association of insulin degludec with liraglutide in the same device (IDegLira) is a potent but at the same time safe drug that reduces the risk of hypoglycemia when compared to a basal or basal-bolus insulin schedule.\n\nThe DUAL (Dual Action of Liraglutide and Insulin Degludec) studies are the pivotal studies of this combination. Specifically, the DUAL VII study has demonstrated that ideglira is a non-inferior drug in terms of glycemic control versus a basal-bolus schedule in patients in the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over 18 years of age with a diagnosis of type 2 diabetes mellitus who have received basal-bolus insulin during hospitalization and who, at the time of hospital discharge, are considered necessary to continue this scheme (basal-bolus).\n\nExclusion Criteria:\n\n* Patient w",
+      "endpoints": [
+        "To compare the percentage of hypoglycemia"
+      ],
+      "sponsor": "Hospital Universitario San Ignacio",
+      "url": "https://clinicaltrials.gov/study/NCT05767255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02930044",
+      "title": "Prospective Comparison of Early Subcutaneous Insulin Glargine Plus Standard of Care Versus Standard of Care for Treatment of Diabetic Ketoacidosis in the Emergency Department",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-10",
+      "completion_date": "2021-11-01",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "The purpose of this study is to determine whether adult DKA patients who present to the emergency department treated with early subcutaneous long acting insulin versus standard care receive a shorter total duration of intravenous (IV) insulin infusion.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Bicarbonate \\<18 mg/dL\n* Anion gap \\>16\n* Blood glucose \\>250 mg/dL\n* Ketonemia or ketonuria\n\nExclusion Criteria:\n\n* Pregnant women\n* Refused consent\n* Patient left ED against medical advice",
+      "endpoints": [
+        "Duration of intravenous insulin infusion"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT02930044"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06624943",
+      "title": "Evaluating the Impact of Introducing Basaglar, a Long-acting Analog Insulin, on Clinical and Quality of Life Outcomes in Youth with Diabetes in Mali",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-03-14",
+      "completion_date": "2023-05-05",
+      "country": "Mali",
+      "enrollment": 260,
+      "brief_summary": "This study aimed to evaluate the impact on blood glucose control and quality of life in children and youth with type 1 diabetes in Mali by switching the insulin regimen from human insulin via needle and syringe, to long-acting biosimilar insulin glargine delivered by reusable pens combined with short-acting insulin via needle and syringe.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n(i) diagnosed with T1D in accordance with World Health Organization criteria\n\n(ii) duration of T1D ≥12 months at time of enrolment\n\n(iii) aged \\<25 years at time of enrolment\n\n(iv) current insulin regimen consisting of Humulin NPH® and R, or pre-mixed insulin (30/70 R/NPH), with",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Life for a Child Program, Diabetes Australia",
+      "url": "https://clinicaltrials.gov/study/NCT06624943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05220917",
+      "title": "Comparative Effectiveness and Safety of Four Second Line Pharmacological Strategies in Type 2 Diabetes Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-08-01",
+      "completion_date": "2026-07-01",
+      "country": "United States",
+      "enrollment": 781430,
+      "brief_summary": "To perform an observational analysis to emulate a target trial (i.e., a hypothetical pragmatic trial that would have answered the causal question of interest) comparing the effectiveness and safety of sodium-glucose cotransporter-2 inhibitors (SGLT2i), glucagon-like peptide 1 receptor agonists (GLP-1RA), dipeptidyl peptidase-4 inhibitors (DPP-4i), and sulfonylureas (SU), at the class and individual agent level, in head-to-head comparisons in patients with type 2 diabetes (T2D).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years for Optum Cliniformatics, IBM Marketscan, CPRD, and VHA, and ≥ 65 years for Medicare FFS at cohort entry\n* At least 12 months of continuous health plan enrollment (only claims) or registration with a general practitioner (CPRD) before and including cohort entry\n",
+      "endpoints": [
+        "MACE",
+        "Modified MACE",
+        "Hospitalization for Heart Failure (HHF) Hospitalization for Heart Failure (HHF)"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05220917"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04237493",
+      "title": "Effect of Dosage Reduction of Glucose-Lowering Multidrug Regimens on the Incidence of Acute Glycemic Complications in People With Type 2 Diabetes Who Fast During Ramadan: An Open-Label, Parallel-Group, Randomized, Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-02-14",
+      "completion_date": "2017-07-24",
+      "country": "Jordan",
+      "enrollment": 687,
+      "brief_summary": "Every lunar year, during the month of Ramadan, Muslims abstain from food and drink between dawn and nightfall. People with type 2 diabetes who fast during Ramadan are at an increased risk of acute glycemic complications. Our aim is to investigate the effect of dosage reduction of four glucose-lowering multidrug regimens on the incidence of acute glycemic complications in people with type 2 diabetes who fast during Ramadan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prospective participant is a returning patient with type 2 diabetes;\n* Prospective participant expressed an intention to fast during Ramadan;\n* Prospective participant has been compliant with one of four glucose-lowering multidrug regimens for at least the past three months.\n\n",
+      "endpoints": [
+        "Hypoglycemia",
+        "Hyperglycemia"
+      ],
+      "sponsor": "University of Jordan",
+      "url": "https://clinicaltrials.gov/study/NCT04237493"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03112538",
+      "title": "Improving Glycaemic Control in Malaysian Patients With Type 2 Diabetes Mellitus With Insulin Pump Therapy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-01",
+      "completion_date": "2018-12",
+      "country": "Malaysia",
+      "enrollment": 118,
+      "brief_summary": "The purpose of this study is to evaluate the comparative efficacy of insulin pump therapy versus multiple daily injections in insulin-taking type 2 diabetes mellitus who are sub-optimally controlled with premixed insulin regimen. This research is necessary because many patients with type 2 diabetes mellitus do not meet their glucose targets.\n\nIn advanced Type 2 diabetes mellitus, many patients develop worsening diabetes control and unable to reach the glucose targets despite intensive insulin re",
+      "eligibility_criteria": "Inclusion Criteria:\n\nCRITERIA FOR INCLUSION AT SCREENING\n\n1. Diagnosed with type 2 Diabetes Mellitus, as per Investigator diagnosis\n2. HbA1c (DCCT-standard) must be ≥ 9.0% and ≤12%\n3. Insulin resistance defined as required daily dose up to 1.5u/kg or a maximum of 200 units insulin per day\n4. Aged 20",
+      "endpoints": [
+        "between group difference of HbA1c changes from baseline to 6 months"
+      ],
+      "sponsor": "Clinical Research Centre, Malaysia",
+      "url": "https://clinicaltrials.gov/study/NCT03112538"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05457933",
+      "title": "Efficacy and Safety of Dapagliflozin for the Hospital Management of Patients With Type 2 Diabetes: a Prospective, Open-label, Non-inferiority Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-07-29",
+      "completion_date": "2023-01-14",
+      "country": "India",
+      "enrollment": 250,
+      "brief_summary": "The purpose of the trial is to examine whether treatment with dapagliflozin plus insulin as compared with insulin alone (basal-bolus insulin) will result in similar blood glucose control and similar rate of complications in patients with diabetes, who are admitted to a hospital in a noncritical setting",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females 30 years or above admitted to the hospital for elective CABG surgery\n2. A known history of type 2 diabetes treated with any combination of oral antidiabetic agents, short-acting GLP1-RA (exenatide, liraglutide) or insulin therapy.\n3. Study participants must h",
+      "endpoints": [
+        "Noninferiority in mean differences between groups in their daily blood glucose concentrations"
+      ],
+      "sponsor": "Medanta, The Medicity, India",
+      "url": "https://clinicaltrials.gov/study/NCT05457933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05219942",
+      "title": "Outcome of Using Long Acting Glargine Insulin With Low Dose Regular Insulin Infusion in Diabetic Ketoacidosis Patients :A Comparative Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-12-01",
+      "completion_date": "2022-07",
+      "country": "Egypt",
+      "enrollment": 52,
+      "brief_summary": "The study aims to compare between the use of continuous low dose insulin infusion versus co-administration of low dose continuous insulin infusion and early subcutaneous insulin glargine in diabetic ketoacidosis patients with chronic renal impairment. aim to investigate the effect of using the long acting insulin analogue glargine on the resolution time of diabetic ketoacidosis in renal impairment patients who have altered insulin pharmacokinetics and pharmacodynamics and the rate of adverse eff",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients.\n* Type I and type II diabetes mellitus.\n* Patients on insulin and/or oral hypoglycemic therapy.\n* Duration of diabetes more than 5 years.\n* Medical and surgical patients.\n\nExclusion Criteria:\n\n* Severe persistent hypotension (SBP \\<80 inspite of recei",
+      "endpoints": [
+        "Mean time to reversal of diabetic ketoacidosis",
+        "Total crystalline insulin consumption"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT05219942"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01854723",
+      "title": "Basal Insulin Therapy in Patients With Insulin Resistance: A 6 Month Comparison of Insulin Glargine and NPH Insulin",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2013-04",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This study will compare the safety, effectiveness, and cost of two different types of long-acting insulin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients at 22 Providence Medical Group primary care clinics\n* Diagnosis of type 2 diabetes mellitus\n* Currently using greater than 80 units/day of insulin glargine or greater than 1 unit/kg/day of insulin glargine\n* Current A1C \\> 8.5% (within 3 months of randomization)",
+      "endpoints": [
+        "Difference in A1C between groups at 6 months"
+      ],
+      "sponsor": "Providence Health & Services",
+      "url": "https://clinicaltrials.gov/study/NCT01854723"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00590044",
+      "title": "Basal Insulin in the Management of Patients With Diabetic Ketoacidosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2008-08",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "The study is a multicenter, randomized controlled trial to compare the safety and efficacy of insulin analogs and human insulins both during acute intravenous treatment and during the transition to subcutaneous insulin in patients with diabetic ketoacidosis (DKA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients admitted to Grady Memorial Hospital who meet diagnosis criteria of DKA and who are willing to participate in the study protocol will be considered candidates for inclusion into the study.\n* Diagnostic Criteria for DKA: Blood glucose \\> 250 mg/dL, arterial or venou",
+      "endpoints": [
+        "Number of Hypoglycemia Episodes After the Transition Period From Intravenous Insulin to Subcutaneous Insulin Between 2 Treatment Groups"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00590044"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06674135",
+      "title": "Evaluating the Impact of Introducing Basaglar, a Long-acting Analog Insulin, on Clinical and Quality of Life Outcomes in Youth with Diabetes in Bangladesh",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-06-01",
+      "completion_date": "2023-08-31",
+      "country": "Bangladesh",
+      "enrollment": 202,
+      "brief_summary": "This study aimed to determine the effect of introducing Basaglar and insulin pen injection devices on clinical and quality of life (QOL) parameters in children and young adults with type 1 diabetes in Bangladesh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with type 1 diabetes (T1D). Diabetes was diagnosed in accordance with World Health Organization (WHO) criteria. Determination of diabetes type was made by the local investigators according to available clinical features and history: T1D was diagnosed upon abrupt onse",
+      "endpoints": [
+        "Mean and median HbA1c (% and mmol/mol)"
+      ],
+      "sponsor": "Life for a Child Program, Diabetes Australia",
+      "url": "https://clinicaltrials.gov/study/NCT06674135"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06717191",
+      "title": "Evaluating the Impact of Introducing Basaglar, a Long-acting Analog Insulin, on Clinical and Quality of Life Outcomes in Youth With Diabetes in Pakistan",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-06-09",
+      "completion_date": "2024-08-02",
+      "country": "Pakistan",
+      "enrollment": 296,
+      "brief_summary": "This study aimed to determine the effect of introducing Basaglar and insulin pen injection devices on clinical and quality of life (QOL) parameters in children and young adults with type 1 diabetes in Pakistan",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n* Diagnosed with type 1 diabetes according to a combination of clinical (polyuria, polydipsia, and weight loss) and biochemical characteristics (High blood glucose levels (fasting glucose ≥ 126 mg/dL or random glucose ≥ 200 mg/dL) and/or C-peptide levels indicating low insulin p",
+      "endpoints": [
+        "Mean and median HbA1c (% and mmol/mol)",
+        "Proportion of participants experiencing episodes of severe hypoglycaemia",
+        "Proportion of participants experiencing episodes of diabetic ketoacidosis"
+      ],
+      "sponsor": "Life for a Child Program, Diabetes Australia",
+      "url": "https://clinicaltrials.gov/study/NCT06717191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05614089",
+      "title": "Human Versus Analogue Insulin for Youth With Type 1 Diabetes in Low-Resource Settings: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-03-15",
+      "completion_date": "2025-03-19",
+      "country": "Tanzania, Bangladesh",
+      "enrollment": 400,
+      "brief_summary": "The primary objective of this trial is to determine whether insulin glargine reduces the risk of serious hypoglycemia or improves Time in Range at 6 months when compared against standard of care human insulin (e.g. NPH or premixed 70/30) among youth living with type 1 diabetes (T1D) in low resource settings.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children and young adults (age 7-25)\n2. Have a clinical diagnosis of type 1 diabetes (T1D)\n\nExclusion Criteria:\n\n1. Prior use of any insulin analogue\n2. Patients (or parents for children \\<18 years old) who refuse to or cannot provide informed consent\n3. Who are currently pre",
+      "endpoints": [
+        "Time-in-serious Hypoglycemia",
+        "Time-in-range (TIR)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT05614089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02006342",
+      "title": "Effectiveness of Subcutaneous Glargine On The Time To Closure of The Anion Gap in Patients Presenting to the Emergency Department With Diabetic Keto-acidosis: A Pilot Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2013-04",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "To determine if co-administration of subcutaneous (SQ)Insulin glargine in combination with intravenous (IV) insulin decreases the time to resolution of ketoacidosis and requirement for ICU admission compared to IV insulin with delayed administration of SQ glargine for the treatment of diabetic ketoacidosis (DKA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Blood Glucose \\>200\n* potential of hydrogen (pH) \\< 7.3\n* Bicarbonate \\< 18\n* Ketonemia or Ketonuria\n* Anion Gap \\> or = 16\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* Pregnant\n* End state renal disease (ESRD)\n* Prisoners\n* Patients in shock or requiring emergen",
+      "endpoints": [
+        "Time to Anion Gap Closure"
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "url": "https://clinicaltrials.gov/study/NCT02006342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04383990",
+      "title": "Comparison of Early Versus Late Administration of Insulin Glargine in Patients With type1 Diabetes During Fasting Ramadan",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-02-28",
+      "completion_date": "2020-11-30",
+      "country": "Saudi Arabia",
+      "enrollment": 185,
+      "brief_summary": "To compare different timing of insulin Glargine administration (early-6 pm versus standard bedtime-10 pm) as part of standard of care in patients with type1 diabetes who wish to fast the month of Ramadan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. DM type 1\n2. Age \\> 14 years\n3. Diagnosis of type 1 DM of more than 6 months.\n4. Committed to do SMBG\n\nExclusion Criteria:\n\n1. Renal and hepatic impairment\n2. Adrenal insufficiency\n3. Pregnancy\n4. Alcohol consumption\n5. Any diagnosed psychiatric disease",
+      "endpoints": [
+        "Hypoglycemia incidence"
+      ],
+      "sponsor": "King Abdullah International Medical Research Center",
+      "url": "https://clinicaltrials.gov/study/NCT04383990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04567225",
+      "title": "Early Basal Insulin Administration in Adult Diabetic Ketoacidosis Management",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2020-10-01",
+      "completion_date": "2021-08-27",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "Early Basal Insulin Administration in Adult Diabetic Ketoacidosis Management",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Meet DKA definition (BG ≥ 250 mg/dl, Anion Gap \\> 12 mEq/L, and positive Ketones in serum or urine)\n* Having the capacity to sign Informed consent\n\nExclusion Criteria:\n\n* IV insulin infusion was initiated for more than 4 hours.\n* Persistent hypotension (SB",
+      "endpoints": [
+        "Time to Anion Gap Closure"
+      ],
+      "sponsor": "The Cleveland Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT04567225"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00179127",
+      "title": "Early Use of Insulin Glargine in Diabetic Ketoacidosis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2012-09",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "The purpose of this study is to determine the effects of the addition of insulin glargine during the early phase of moderate to severe Diabetic Ketoacidosis (DKA) in children.\n\nThe investigators hypothesize that the addition of insulin glargine during the early phase of management of DKA will accelerate acidosis correction, decrease the length of insulin infusion, and decrease the total intensive care unit time in children admitted to the ICU.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 6-18 y.o. presenting to Vanderbilt Children's Hospital (VCH) Emergency Room with:\n* Established history of insulin dependent diabetes\n\nAND:\n\n* Chief c/o hyperglycemia or vomiting\n* Venous pH \\< 7.24\n* Serum Bicarbonate \\< 18\n* Blood glucose \\> 150\n* Urinary Ketones\n\nExclu",
+      "endpoints": [
+        "Time of Acidosis Correction"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00179127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02548494",
+      "title": "Early Administration of Long-acting Insulin Glargine for the Treatment of Diabetic Ketoacidosis in Pediatric Type 1 Diabetes: A Randomized Double Blind Trial",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2015-11",
+      "completion_date": "2019-02-01",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "The management goals of diabetic ketoacidosis (DKA) in the pediatric type 1 diabetes (T1DM) population are fluid and electrolyte repletion, insulin administration, and correction of acidosis in order to stabilize the patient. Traditionally, a rapid-acting insulin IV infusion is begun immediately and continued until the acidosis is corrected and hyperglycemia normalized. Once the acidosis is corrected, patients are able to be transitioned to a subcutaneous insulin regimen.\n\nThe role that a subcut",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T1DM\n* Hyperglycemia \\>200 mg/dl\n* Bicarbonate ≤ 15 mmol/L\n* pH \\< 7.3\n* Ketonemia\n* Ketonuria\n* Glucosuria\n* Admission to PICU (Pediatric Intensive Care Unit)\n* Ages 1-21 years\n\nExclusion Criteria:\n\n* Patients who received glargine within the last 24 hours\n* Patients with sep",
+      "endpoints": [
+        "Blood glucose"
+      ],
+      "sponsor": "Chattanooga-Hamilton County Hospital Authority",
+      "url": "https://clinicaltrials.gov/study/NCT02548494"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05161429",
+      "title": "BESTMED: Observational Evaluation of Second Line Therapy Medications in Diabetes",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-07-01",
+      "completion_date": "2024-06-30",
+      "country": "United States",
+      "enrollment": 550000,
+      "brief_summary": "An observational study of electronic patient data to compare diabetes medications and to determine which ones offer the best balance of risks and benefits.",
+      "eligibility_criteria": "Individuals meeting the following criteria between January 1, 2015 and December 31, 2021:\n\n* Diabetes mellitus (DM) type II\n* HbA1c of 7-11% within the past year\n* Monotherapy with metformin for at least 3 months\n* No prior non-metformin outpatient diabetes therapy\n* Aged ≥30y\n* At \"moderate\" risk o",
+      "endpoints": [
+        "4-point major adverse cardiac events (MACE)",
+        "3-point major adverse cardiac events (MACE)"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05161429"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03107208",
+      "title": "Management of Diabetic Ketoacidosis in Children: Does Early Glargine Prevent Rebound Hyperglycemia?",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-07-21",
+      "completion_date": "2021-03-13",
+      "country": "United States",
+      "enrollment": 61,
+      "brief_summary": "A frequent complication in the management of diabetic ketoacidosis (DKA) in children with type 1 diabetes is rebound hyperglycemia (blood glucose over 180 mg/dL) which increases the risk of re-developing DKA and can lengthen the hospital stay. The investigators want to study whether giving the long-acting insulin glargine (Lantus®) early in DKA management (versus after complete resolution of the DKA) helps prevent rebound hyperglycemia and makes the transition to insulin injections easier. Parti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 6-17.9 years at time of enrollment.\n2. Known history of type 1 diabetes or presumed new-onset type 1 diabetes.\n3. Diagnosis of DKA (serum glucose or fingerstick glucose concentration ≥ 200 mg/dL.\n4. Venous pH ≤7.3 and/or serum bicarbonate concentration ≤15 mmol/L.\n5. Evid",
+      "endpoints": [
+        "Rate of Rebound Hyperglycemia"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT03107208"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00732524",
+      "title": "Combination of Sulfonylureas and Insulin Glargine as Safety Net Outpatient Therapy for Unstable Diabetes and Impending Diabetic Ketoacidosis (DKA)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2006-04",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to compare two simple and safe emergency department discharge therapy for Type 2 Diabetes patients with severe hyperglycemia and with no indications for inpatient admission.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals more than 18 years of age with DM2, either with new onset DM2 or known diabetics who did not take oral hypoglycemic agents for more than 2 weeks, presenting with fasting blood glucose (FBG) 300-500 mg/dl or random blood glucose (RBG) 400-700 mg/dl and who did not h",
+      "endpoints": [
+        "The primary outcome was the patients' ability to avoid repeat ED visits or hospitalization in either of the discharge regimens."
+      ],
+      "sponsor": "Cook County Health",
+      "url": "https://clinicaltrials.gov/study/NCT00732524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02871089",
+      "title": "An Open-label, Multicentre, Randomised, Single-period, Parallel Design Study to Assess the Effect of Closed Loop Insulin Delivery From Onset of Type 1 Diabetes in Youth on Residual Beta Cell Function Compared to Standard Insulin Therapy",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-01",
+      "completion_date": "2024-07-31",
+      "country": "United Kingdom",
+      "enrollment": 96,
+      "brief_summary": "The purpose of the study is to use a novel treatment approach, the artificial pancreas, after diagnosis of type 1 diabetes (T1D) to improve glucose control with the anticipated improvements of residual C-peptide secretion.\n\nThis is an open-label, multicentre, single-period, randomised, parallel group design study. It is expected that a total of up to 190 subjects (aiming for 96 randomised subjects) will be recruited within ten working days of diagnosis of type 1 diabetes through paediatric diabe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of type 1 diabetes within previous 21 days. Day 1 will be defined as the day insulin was first administered. Type 1 diabetes will be defined according to WHO criteria using standard diagnostic practice.\n\n   \\[WHO definition: 'The aetiological type named type 1 encom",
+      "endpoints": [
+        "Area under the meal stimulated C-peptide curve (AUC) during a mixed meal tolerance test (MMTT)"
+      ],
+      "sponsor": "University of Cambridge",
+      "url": "https://clinicaltrials.gov/study/NCT02871089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05155917",
+      "title": "Concurrent Subcutaneous Basal Insulin and Intravenous Insulin Pump in Hyperglycemic Crisis Patients Under Critical Care",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-01",
+      "completion_date": "2024-01",
+      "country": "Taiwan",
+      "enrollment": 70,
+      "brief_summary": "The safety and efficacy of basal insulin during intravenous insulin infusion for hyperglycemic crisis patients under critical care is still unknown.\n\nWe assumed that concurrent basal insulin subcutaneous injection and intravenous insulin infusion for critically ill DKA and HHS patients would shorten the time of hyperglycemic crisis correction and achieved better glycemic control(decrease hypoglycemia and rebound hyperglycemia).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with hyperglycemic crisis(DKA, HHS or mixing type) receiving iv insulin infusion\n* Patients admitted to the Changhua Christian Hospital Medical Intensive Care Unit(MICU)\n\nExclusion Criteria:\n\n* pregnancy\n* age under 18 years old",
+      "endpoints": [
+        "the rates of rebound hyperglycemia",
+        "the rates of hypoglycemia"
+      ],
+      "sponsor": "Changhua Christian Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05155917"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03001323",
+      "title": "Insulin Degludec for the Management of Patient With Recurrent Diabetic Ketoacidosis",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2017-01",
+      "completion_date": "2020-09-25",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "Given the longer half life of insulin degludec compared to glargine /levemir ,investigators believe that insulin degludec will reduce the rate of recurrent DKA. The investigator will randomize participants to control and intervention group. Control group will receive Lantus/Levemir and intervention group will receive degludec. The investigators will call participants monthly and see them in the clinic every three months.The investigators will follow them for 1 year and evaluate if there will be ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients age \\>18 year with previous diagnosis of Diabetes Mellitus and previous admission for DKA in any facility within the prior 2 years who meet the criteria for DKA at the time of admission and are willing to participate in the study protocol will be enrolled in the study.\n",
+      "endpoints": [
+        "Reduction in frequency of diabetic ketoacidosis"
+      ],
+      "sponsor": "Hennepin Healthcare Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03001323"
+    }
+  ],
+  "timestamp": "2026-03-04T16:53:03.820887",
+  "success": true,
+  "error_message": null
+}

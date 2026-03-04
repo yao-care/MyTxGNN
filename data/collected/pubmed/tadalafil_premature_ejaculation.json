@@ -1,0 +1,524 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "premature ejaculation",
+    "query_string": "Tadalafil AND premature ejaculation"
+  },
+  "data": {
+    "query": "Tadalafil AND premature ejaculation",
+    "results": [
+      {
+        "pmid": "37664322",
+        "title": "Topical Anesthetics and Premature Ejaculation: A Systematic Review and Meta-Analysis.",
+        "abstract": "This meta-analysis was conducted to assess the effectiveness of topical anesthetics in preventing premature ejaculation. We conducted an online database search for original studies comparing topical anesthetic agents with placebo in patients with premature ejaculation. After selecting relevant articles, we extracted data on baseline characteristics and predetermined endpoints. Intravaginal ejaculatory latency time (IELT) was the primary outcome for efficacy. Mean differences and corresponding 95% confidence intervals were used to present continuous data. A random-effects model was used to pool the data, and subgroup analysis was performed based on the type of anesthetic agent used. Eleven randomized controlled trials were examined, involving a total of 2008 participants. After analyzing the combined results, it was found that Severance Secret (SS) cream (CJ CheilJedang Corporation, Seoul, South Korea) demonstrated significantly higher effectiveness than a placebo in increasing IELT (P ",
+        "journal": "Cureus",
+        "year": "2023",
+        "authors": [
+          "Shah M Danial Ali",
+          "Shah Safdar",
+          "Nusrat Nadeem Bin",
+          "Zafar Nauman",
+          "Rehman Assad Ur"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37664322/"
+      },
+      {
+        "pmid": "39935900",
+        "title": "Evaluation of the Efficacy and Safety of On-Demand Tadalafil Alone or Combined With Lidocaine Spray for Treating Patients With Comorbid Erectile Dysfunction and Premature Ejaculation: A Randomized Controlled Trial.",
+        "abstract": "To evaluate the efficacy and safety of on-demand 20 mg tadalafil alone or combined with lidocaine spray for treating patients with comorbid erectile dysfunction (ED) and premature ejaculation (PE).",
+        "journal": "International journal of sexual health : official journal of the World Association for Sexual Health",
+        "year": "2025",
+        "authors": [
+          "Liu Min",
+          "Deng Zi Xiang",
+          "Zhu Xianxiang",
+          "Hu ShiAn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39935900/"
+      },
+      {
+        "pmid": "30606186",
+        "title": "Paroxetine in the treatment of premature ejaculation: a systematic review and meta-analysis.",
+        "abstract": "Paroxetine is one of the selective serotonin reuptake inhibitors (SSRIs) used in the treatment of premature ejaculation (PE). However, this use is not approved in many countries. The purpose of this systematic review and meta-analysis is to review the efficacy and safety of paroxetine for PE patients.",
+        "journal": "BMC urology",
+        "year": "2019",
+        "authors": [
+          "Zhang Dong",
+          "Cheng Yue",
+          "Wu Kerong",
+          "Ma Qi",
+          "Jiang Junhui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Paroxetine",
+          "Premature Ejaculation",
+          "Randomized Controlled Trials as Topic",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30606186/"
+      },
+      {
+        "pmid": "38481411",
+        "title": "Prospective comparison of tadalafil 5 mg, dapoxetine 30 mg, and the combination of both in the treatment of premature ejaculation.",
+        "abstract": "To compare the efficacy of tadalafil alone, dapoxetine alone, and tadalafil with dapoxetine as a combination therapy for the treatment of premature ejaculation.",
+        "journal": "Arab journal of urology",
+        "year": "2024",
+        "authors": [
+          "Hasan Ahmed Mahmoud",
+          "Abdelkader Mohammed Sayed",
+          "AbdelRazek Ahmed Mostafa",
+          "Mohsen Mohammed Mahmoud",
+          "Alsaghier Gamal Abdelhamid"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38481411/"
+      },
+      {
+        "pmid": "37203851",
+        "title": "Retrospective evaluation of the efficacy of daily paroxetine/tadalafil combination in patients with premature ejaculation and erectile dysfunction.",
+        "abstract": "Premature ejaculation (PE) and erectile dysfunction (ED) are sexual dysfunction diseases affecting males. The phosphodiesterase type 5 (PDE5) inhibitors such as tadalafil are used to treat ED whereas selective serotonin reuptake inhibitors (SSRIs) are preferred for PE. Most of the patients with ED also suffer from PE simultaneously. The combined drug therapies are commonly preferred as they favor elevated intra-vaginal ejaculation latency time (IELT) scores and improved sexual function. The study aimed to evaluate the efficacy and safety of daily paroxetine and tadalafil combination therapy in patients with PE and ED.",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2023",
+        "authors": [
+          "Onal B",
+          "Can O",
+          "Ermec B",
+          "Culha M G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Female",
+          "Humans",
+          "Erectile Dysfunction",
+          "Premature Ejaculation",
+          "Paroxetine",
+          "Tadalafil",
+          "Retrospective Studies",
+          "Ejaculation",
+          "Phosphodiesterase 5 Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37203851/"
+      },
+      {
+        "pmid": "35223110",
+        "title": "Short- and long-term follow-up results of daily 5-mg tadalafil as a treatment for erectile dysfunction and premature ejaculation.",
+        "abstract": "To evaluate the safety and effectiveness of daily 5-mg tadalafil treatment for men who have erectile dysfunction (ED) and premature ejaculation (PE), and to assess the long-term follow-up for ED and PE improvement persistence years after the cessation of medication.",
+        "journal": "Arab journal of urology",
+        "year": "2022",
+        "authors": [
+          "Mohamed Gharib Tarek",
+          "Abdel-Al Ibrahim",
+          "Elatreisy Adel",
+          "Kandeel Wael",
+          "El-Shaer Waleed"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35223110/"
+      },
+      {
+        "pmid": "18362486",
+        "title": "Tadalafil and fluoxetine in premature ejaculation: prospective, randomized, double-blind, placebo-controlled study.",
+        "abstract": "Premature ejaculation (PE) is a common male sexual disorder. An ideal, reliable and effective treatment is desired by many men and couples affected by this condition.",
+        "journal": "Urologia internationalis",
+        "year": "2008",
+        "authors": [
+          "Mattos Rogerio M",
+          "Marmo Lucon Antonio",
+          "Srougi Miguel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbolines",
+          "Double-Blind Method",
+          "Ejaculation",
+          "Fluoxetine",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Phosphodiesterase Inhibitors",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18362486/"
+      },
+      {
+        "pmid": "26981497",
+        "title": "Comparison Between Tadalafil Plus Paroxetine and Paroxetine Alone in the Treatment of Premature Ejaculation.",
+        "abstract": "Several recent studies have investigated the therapeutic role of phosphodiesterase type 5 (PDE5) inhibitors in premature ejaculation (PE) used in the treatment of erectile dysfunction.",
+        "journal": "Nephro-urology monthly",
+        "year": "2016",
+        "authors": [
+          "Moudi Emadouddin",
+          "Kasaeeyan Ali Akbar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26981497/"
+      },
+      {
+        "pmid": "34773634",
+        "title": "Comparison of Dapoxetine /Tadalafil and Paroxetine/Tadalafil Combination Therapies for the Treatment of the Premature Ejaculation: A Randomized Clinical Trial.",
+        "abstract": "The purpose of this study was to compare the effectiveness of Dapoxetine, and Paroxetine as well as Dapoxetine/Tadalafil and Paroxetine/Tadalafil combinational therapies, for the treatment of patients with premature ejaculation.",
+        "journal": "Urology journal",
+        "year": "2021",
+        "authors": [
+          "Mohseni Rad Hamed",
+          "Zahirian Moghadam Telma",
+          "Hosseinkhani Ali",
+          "Nima Soluki Nima",
+          "Amani Firouz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Benzylamines",
+          "Ejaculation",
+          "Humans",
+          "Male",
+          "Naphthalenes",
+          "Paroxetine",
+          "Premature Ejaculation",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Tadalafil",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34773634/"
+      },
+      {
+        "pmid": "20189712",
+        "title": "Guidelines on male sexual dysfunction: erectile dysfunction and premature ejaculation.",
+        "abstract": "Erectile dysfunction (ED) and premature ejaculation (PE) are the two most prevalent male sexual dysfunctions.",
+        "journal": "European urology",
+        "year": "2010",
+        "authors": [
+          "Hatzimouratidis Konstantinos",
+          "Amar Edouard",
+          "Eardley Ian",
+          "Giuliano Francois",
+          "Hatzichristou Dimitrios"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Decision Trees",
+          "Ejaculation",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Sexual Dysfunction, Physiological",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20189712/"
+      },
+      {
+        "pmid": "35530567",
+        "title": "Effect of a tadalafil 5-mg single daily dose on lifelong premature ejaculation: A single-blinded placebo-controlled study.",
+        "abstract": "To investigate the effectiveness and safety of a tadalafil 5-mg single daily dose in the treatment of lifelong premature ejaculation (PE).",
+        "journal": "Arab journal of urology",
+        "year": "2022",
+        "authors": [
+          "Abou Faddan Amr Hassan",
+          "Gaber Hisham Diab",
+          "Oamonov Daniar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35530567/"
+      },
+      {
+        "pmid": "29527702",
+        "title": "Efficacy and safety of daily use of tadalafil in treatment of patients with premature ejaculation: A randomised placebo-controlled clinical trial.",
+        "abstract": "The study aimed to evaluate the efficacy and safety of the once-daily use of 5 mg tadalafil in the treatment of patients with premature ejaculation (PE). In a single-blind placebo-controlled clinical study, it was carried out on 100 patients with PE. All patients were randomised equally divided into two groups (50 patients each). Group 1 was given placebo in the form of oral multivitamin tablet once a day for 6 weeks. Group 2 was given 5 mg tadalafil once a day for 6 weeks. All patients were asked to complete Arabic Index of Premature Ejaculation (AIPE) before and after the treatment. This study showed that there were no statistically significant differences between patients in the placebo and tadalafil groups regarding the mean values of the seven questions and total scores of the AIPE questionnaire before treatment (p value >.05). The mean values of the seven questions and total scores of AIPE questionnaire in the tadalafil group were significantly higher than the placebo group after",
+        "journal": "Andrologia",
+        "year": "2018",
+        "authors": [
+          "Abu El-Hamd M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Drug Administration Schedule",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Premature Ejaculation",
+          "Single-Blind Method",
+          "Tadalafil",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29527702/"
+      },
+      {
+        "pmid": "30544399",
+        "title": "Comparative efficacy and safety of phosphodiesterase-5 inhibitors with selective serotonin reuptake inhibitors in men with premature ejaculation: A systematic review and Bayesian network meta-analysis.",
+        "abstract": "We performed the network meta-analysis (NMA) and systematic review involved all evidence from relevant trials to compare the efficiency and safety of various types of selective serotonin reuptake inhibitors (SSRI) and phosphodiesterase-5 inhibitors (PDE5i) in patients with premature ejaculation (PE).",
+        "journal": "Medicine",
+        "year": "2018",
+        "authors": [
+          "Jin Kun",
+          "Deng Linghui",
+          "Qiu Shi",
+          "Tu Xiang",
+          "Li Jiakun"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Bayes Theorem",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Premature Ejaculation",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30544399/"
+      },
+      {
+        "pmid": "28338191",
+        "title": "A randomized single-center study to compare the efficacy and tolerability of tadalafil once daily plus lidocaine anesthetic spray on premature ejaculation.",
+        "abstract": "The use of topical local anesthetics in the form of creams, gel or spray is the oldest method of retarding ejaculation. However, several studies have suggested that phosphodiesterase type 5 inhibitors (5-PDEiS) show a potential therapeutic use in the treatment of premature ejaculation (PE). The aim of this study was to compare the efficacy and tolerability of tadalafil-only, tadalafil plus local anesthetic spray (lidocaine), and topical lidocaine spray-only before intercourse on the intravaginal ejaculatory latency time (IELT) of patients with lifelong PE.",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2017",
+        "authors": [
+          "Dell'Atti L",
+          "Galosi A B",
+          "Ippolito C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Ejaculation",
+          "Humans",
+          "Lidocaine",
+          "Male",
+          "Premature Ejaculation",
+          "Tadalafil",
+          "Vasodilator Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28338191/"
+      },
+      {
+        "pmid": "27160247",
+        "title": "Effects of Tadalafil 5 mg Dosed Once Daily in Men with Premature Ejaculation.",
+        "abstract": "In this study, we evaluated the effect of 5 mg tadalafil once daily in men with premature ejaculation (PE).",
+        "journal": "Urologia internationalis",
+        "year": "2017",
+        "authors": [
+          "Ozcan Levent",
+          "Polat Emre Can",
+          "Onen Efe",
+          "Kocaaslan Ramazan",
+          "Otunctemur Alper"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbolines",
+          "Case-Control Studies",
+          "Drug Administration Schedule",
+          "Ejaculation",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Nitric Oxide",
+          "Premature Ejaculation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27160247/"
+      },
+      {
+        "pmid": "15693439",
+        "title": "Premature ejaculation. 3. Therapy.",
+        "abstract": "Serotonergic drugs (SSRIs) are the most commonly used, but they are characterized by relapse some time after medication interruption as well as by sexual side effects. The efficacy of phosphodiesterase-5 inhibitors seems excellent, but the risk of tachyphylaxis has been reported. The former (fluoxetine, paroxetine, sertraline, clomipramine) should be used in young patients with hyper-orgasmic forms, while the latter (sildenafil, tadalafil, vardenafil) should be used in hypo-orgasmic forms, in old age or when PE is associated with erectile dysfunction. Topical anesthetics provide satisfactory results in premature ejaculation due to hypersensitivity of the glans, and physiotherapy of the pelvic floor muscles proves successful in cases associated with pelvic floor dysfunction. Therapeutic associations and psycho-sexual therapy techniques may improve results, particularly in the long term.",
+        "journal": "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica",
+        "year": "2004",
+        "authors": [
+          "Piediferro Guido",
+          "Colpi Elisabetta M",
+          "Castiglioni Fabrizio",
+          "Scroppo Fabrizio I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Ejaculation",
+          "Humans",
+          "Male",
+          "Sexual Dysfunction, Physiological",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15693439/"
+      },
+      {
+        "pmid": "25768099",
+        "title": "Interventions to treat premature ejaculation: a systematic review short report.",
+        "abstract": "Premature ejaculation (PE) is commonly defined as ejaculation with minimal sexual stimulation before, on or shortly after penetration and before the person wishes it. PE can be either lifelong and present since first sexual experiences (primary), or acquired (secondary), beginning later (Godpodinoff ML. Premature ejaculation: clinical subgroups and etiology. J Sex Marital Ther 1989;15:130-4). Treatments include behavioural and pharmacological interventions.",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2015",
+        "authors": [
+          "Cooper Katy",
+          "Martyn-St James Marrissa",
+          "Kaltenthaler Eva",
+          "Dickinson Kath",
+          "Cantrell Anna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anesthetics, Local",
+          "Behavior Therapy",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Premature Ejaculation",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25768099/"
+      },
+      {
+        "pmid": "24811578",
+        "title": "Combination therapy with selective serotonin reuptake inhibitors and phosphodiesterase-5 inhibitors in the treatment of premature ejaculation.",
+        "abstract": "We aimed to evaluate the effectiveness of paroxetine and tadalafil combination in the treatment of premature ejaculation (PE). A total of 150 primary (lifelong)PE patients were randomly distributed into three groups of 50 patients each. Group 1 received 20 mg paroxetine every day for 1 month, Group 2 received 20 mg tadalafil on demand 2 h before intercourse, and Group 3 received paroxetine and tadalafil on demand 2 h before intercourse. Intravaginal ejaculatory latency times (IELT) scores were evaluated at baseline, at the end of the first month of therapy and 1 month after discontinuation of the treatment, while International Index of Erectile Function (IIEF) questionnaire scores were evaluated both prior to and after the treatment. At the end of the first month of therapy, IELT scores were compared with the basal values and statistically significant changes were detected (60.6 ± 30.2-117.3 ± 67.3, 68.5 ± 21.4-110.2 ± 37.3, 71.56 ± 40.23-175.2 ± 60.2)(P < 0.01). IELT scores after disc",
+        "journal": "Andrologia",
+        "year": "2015",
+        "authors": [
+          "Polat E C",
+          "Ozbek E",
+          "Otunctemur A",
+          "Ozcan L",
+          "Simsek A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Male",
+          "Paroxetine",
+          "Phosphodiesterase 5 Inhibitors",
+          "Premature Ejaculation",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Tadalafil",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24811578/"
+      },
+      {
+        "pmid": "39034106",
+        "title": "Possible pathophysiologic roles of neurotransmitter systems in men with lifelong premature ejaculation: a scoping review.",
+        "abstract": "Lifelong premature ejaculation (LPE) is a subtype of premature ejaculation. Genetic research on LPE has primarily focused on neurotransmitters such as serotonin, dopamine, and norepinephrine, whereas LPE treatment studies have focused on drugs such as selective serotonin reuptake inhibitors. However, findings from genetic association and pharmacotherapeutic studies have been inconsistent.",
+        "journal": "Sexual medicine reviews",
+        "year": "2024",
+        "authors": [
+          "van Raaij Joost J",
+          "Serefoglu Ege Can",
+          "van Amelsvoort Thérèse A M J",
+          "Janssen Paddy K C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Scoping Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Premature Ejaculation",
+          "Male",
+          "Neurotransmitter Agents",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39034106/"
+      },
+      {
+        "pmid": "28248021",
+        "title": "[New data on the effectiveness of Tadalafil alone and in combination with NeyroDoz in treating erectile dysfunction associated with secondary premature ejaculation].",
+        "abstract": "To compare the effectiveness of the phosphodiesterase type 5 inhibitor (PDE-5i) tadalafil alone and in combination with a biologically active dietary supplement (BADS) NeyroDoz, containing the precursors of serotonin in patients with erectile dysfunction (ED) associated with secondary premature ejaculation (SPE).",
+        "journal": "Urologiia (Moscow, Russia : 1999)",
+        "year": "2016",
+        "authors": [
+          "Akhvlediani N D",
+          "Matyukhov I P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Biological Products",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Glutamine",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Phosphodiesterase 5 Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28248021/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:46:13.272475",
+  "success": true,
+  "error_message": null
+}

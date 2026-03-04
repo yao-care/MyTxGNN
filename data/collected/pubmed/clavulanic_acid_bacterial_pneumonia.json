@@ -1,0 +1,554 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "bacterial pneumonia",
+    "query_string": "Clavulanic Acid AND bacterial pneumonia"
+  },
+  "data": {
+    "query": "Clavulanic Acid AND bacterial pneumonia",
+    "results": [
+      {
+        "pmid": "15257629",
+        "title": "Telithromycin.",
+        "abstract": "Telithromycin, the first member of the ketolide antibacterials, has good activity against community-acquired respiratory pathogens, including multiple-drug-resistant strains of Streptococcus pneumoniae. Telithromycin 800 mg once daily has been US FDA approved for the treatment of acute bacterial sinusitis (ABS; treatment duration 5 days), acute bacterial exacerbations of chronic bronchitis (AECB; 5 days) and mild-to-moderate community-acquired pneumonia (CAP; 7-10 days). In patients with CAP, telithromycin was as effective as amoxicillin 1000 mg three times daily for 10 days, clarithromycin 500 mg twice daily for 10 days or trovafloxacin 200 mg once daily for 7-10 days. In patients with AECB, telithromycin was as effective as a 10-day regimen of amoxicillin/clavulanic acid 500/125 mg three times daily, cefuroxime axetil 500 mg twice daily or clarithromycin 500 mg twice daily. In patients with ABS, telithromycin was as effective as a 10-day course of amoxicillin/clavulanic acid 500/125 ",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Wellington Keri",
+          "Noble Stuart"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Biological Availability",
+          "Bronchitis, Chronic",
+          "Clinical Trials as Topic",
+          "Community-Acquired Infections",
+          "Humans",
+          "Ketolides",
+          "Macrolides",
+          "Metabolic Clearance Rate",
+          "Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15257629/"
+      },
+      {
+        "pmid": "32538597",
+        "title": "Management of Fever in Infants and Young Children.",
+        "abstract": "Despite dramatic reductions in the rates of bacteremia and meningitis since the 1980s, febrile illness in children younger than 36 months continues to be a concern with potentially serious consequences. Factors that suggest serious infection include age younger than one month, poor arousability, petechial rash, delayed capillary refill, increased respiratory effort, and overall physician assessment. Urinary tract infections are the most common serious bacterial infection in children younger than three years, so evaluation for such infections should be performed in those with unexplained fever. Abnormal white blood cell counts have poor sensitivity for invasive bacterial infections; procalcitonin and C-reactive protein levels, when available, are more informative. Chest radiography is rarely recommended for children older than 28 days in the absence of localizing signs. Lumbar puncture is not recommended for children older than three months without localizing signs; it may also be consi",
+        "journal": "American family physician",
+        "year": "2020",
+        "authors": [
+          "Hamilton Jennifer L",
+          "Evans Susanna G",
+          "Bakshi Munish"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Betacoronavirus",
+          "Blood Culture",
+          "C-Reactive Protein",
+          "COVID-19",
+          "COVID-19 Testing",
+          "Child, Preschool",
+          "Clinical Decision-Making"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32538597/"
+      },
+      {
+        "pmid": "10353303",
+        "title": "Piperacillin/tazobactam: an updated review of its use in the treatment of bacterial infections.",
+        "abstract": "Piperacillin/tazobactam is a beta-lactam/beta-lactamase inhibitor combination with a broad spectrum of antibacterial activity encompassing most Gram-positive and Gram-negative aerobic bacteria and anaerobic bacteria, including many pathogens producing beta-lactamases. Evidence from clinical trials in adults has shown that piperacillin/tazobactam, administered in an 8:1 ratio, is an effective treatment for patients with lower respiratory tract, intra-abdominal, urinary tract, gynaecological and skin/soft tissue infections, and for fever in patients with neutropenia. Combination regimens of piperacillin/tazobactam plus an aminoglycoside are used to treat patients with severe nosocomial (hospital-acquired) infections. In clinical trials, piperacillin/tazobactam was significantly more effective than ticarcillin/clavulanic acid in terms of clinical and microbiological outcome in patients with community-acquired pneumonia. In patients with intra-abdominal infections, clinical and bacteriolog",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Perry C M",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Enzyme Inhibitors",
+          "Humans",
+          "Penicillanic Acid",
+          "Penicillins",
+          "Piperacillin",
+          "Tazobactam"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10353303/"
+      },
+      {
+        "pmid": "38801099",
+        "title": "Molecular mechanisms responsible KPC-135-mediated resistance to ceftazidime-avibactam in ST11-K47 hypervirulent Klebsiella pneumoniae.",
+        "abstract": "Ceftazidime-avibactam resistance attributable to the blaKPC-2 gene mutation is increasingly documented in clinical settings. In this study, we characterized the mechanisms leading to the development of ceftazidime-avibactam resistance in ST11-K47 hypervirulent Klebsiella pneumoniae that harboured the blaKPC-135 gene. This strain possessed fimbriae and biofilm, demonstrating pathogenicity. Compared with the wild-type KPC-2 carbapenemase, the novel KPC-135 enzyme exhibited a deletion of Glu168 and Leu169 and a 15-amino acid tandem repeat between Val262 and Ala276. The blaKPC-135 gene was located within the Tn6296 transposon truncated by IS26 and carried on an IncFII/IncR-type plasmid. Compared to the blaKPC-2-positive cloned strain, only the MIC of ceftazidime increased against blaKPC-135-positive K. pneumoniae and wasn't inhibited by avibactam (MIC 32 μg/mL), while clavulanic acid and vaborbactam demonstrated some inhibition. Kinetic parameters revealed that KPC-135 exhibited a lower Km",
+        "journal": "Emerging microbes & infections",
+        "year": "2024",
+        "authors": [
+          "Shi Qingyu",
+          "Shen Siquan",
+          "Tang Chengkang",
+          "Ding Li",
+          "Guo Yan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ceftazidime",
+          "Klebsiella pneumoniae",
+          "Azabicyclo Compounds",
+          "Drug Combinations",
+          "Anti-Bacterial Agents",
+          "Klebsiella Infections",
+          "Microbial Sensitivity Tests",
+          "beta-Lactamases",
+          "Bacterial Proteins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38801099/"
+      },
+      {
+        "pmid": "35509063",
+        "title": "Multi-drug resistant gram-negative bacterial pneumonia: etiology, risk factors, and drug resistance patterns.",
+        "abstract": "Bacterial pneumonia is one of the most serious public health issues owing to its medical and economic costs, which result in increased morbidity and mortality in people of all ages around the world. Furthermore, antimicrobial resistance has risen over time, and the advent of multi-drug resistance in GNB complicates therapy and has a detrimental impact on patient outcomes. The current review aimed to summarize bacterial pneumonia with an emphasis on gram-negative etiology, pathogenesis, risk factors, resistance mechanisms, treatment updates, and vaccine concerns to tackle the problem before it causes a serious consequence. In conclusion, the global prevalence of GNB in CAP was reported 49.7% to 83.1%, whereas in VAP patients ranged between 76.13% to 95.3%. The most commonly reported MDR-GNB causes of pneumonia were A. baumannii, K. pneumoniae, and P. aeruginosa, with A. baumannii isolated particularly in VAP patients and the elderly. In most studies, ampicillin, tetracyclines, amoxicill",
+        "journal": "Pneumonia (Nathan Qld.)",
+        "year": "2022",
+        "authors": [
+          "Assefa Muluneh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35509063/"
+      },
+      {
+        "pmid": "10100350",
+        "title": "[Pulmonary melioidosis].",
+        "abstract": "Melioidosis is most frequently encountered in pulmonary localization. Melioidosis is an infectious disease caused by Burkholderia pseudomallei first described by Whitmore in 1912 in Burma. B. pseudomallei is a Gram negative rod belonging to the Pseudomonadaceae family. Soil and water are the natural reservoirs for the germ which is a specific pathogen for several mammal species. Long endemic in Southeast Asia and several tropical zones, B. pseudomallei has recently been found in temperate zones, including France. Human contamination occurs via the transcutaneous route and often leads to dormant inapparent infection. Many conditions, such as diabetes, renal lithiasis, various circumstances of immunodepression or stress, facilitate clinical manifestations which vary greatly. Pulmonary manifestations may be acute and extensive, producing a torpid pseudo-tuberculous condition or a variety of clinical and radiological features mimicking other diseases. Bacteriological and serological tests ",
+        "journal": "Revue de pneumologie clinique",
+        "year": "1998",
+        "authors": [
+          "Perret J L",
+          "Vidal D",
+          "Thibault F"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Chloramphenicol",
+          "Clavulanic Acid",
+          "Diagnosis, Differential",
+          "Doxycycline",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10100350/"
+      },
+      {
+        "pmid": "39718980",
+        "title": "Addition of Macrolide Antibiotics for Hospital Treatment of Community-Acquired Pneumonia.",
+        "abstract": "Guidelines recommend combining macrolides with β-lactam antibiotics for moderate-to-high severity community-acquired pneumonia (CAP); however, macrolides pose risks of adverse events and anti-microbial resistance.",
+        "journal": "The Journal of infectious diseases",
+        "year": "2025",
+        "authors": [
+          "Wei Jia",
+          "Walker A Sarah",
+          "Eyre David W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Community-Acquired Infections",
+          "Macrolides",
+          "Anti-Bacterial Agents",
+          "Male",
+          "Female",
+          "Aged",
+          "Middle Aged",
+          "Amoxicillin",
+          "Hospitalization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39718980/"
+      },
+      {
+        "pmid": "38734138",
+        "title": "Exclusive oral antibiotic treatment for hospitalized community-acquired pneumonia: a post-hoc analysis of a randomized clinical trial.",
+        "abstract": "In this study, we aimed to assess the efficacy of different ways of administration and types of beta-lactams for hospitalized community-acquired pneumonia (CAP).",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2024",
+        "authors": [
+          "Dinh Aurélien",
+          "Duran Clara",
+          "Ropers Jacques",
+          "Bouchand Frédérique",
+          "Deconinck Laurène"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Community-Acquired Infections",
+          "Anti-Bacterial Agents",
+          "Administration, Oral",
+          "Female",
+          "Male",
+          "Aged",
+          "Middle Aged",
+          "Hospitalization",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38734138/"
+      },
+      {
+        "pmid": "11398913",
+        "title": "Telithromycin.",
+        "abstract": "Telithromycin is the first member of a new family of the macrolide-lincosamide-streptogramin-B (MLS(B)) class of antimicrobials, the ketolides. It has a good spectrum of activity against respiratory pathogens, including penicillin- and erythromycin-resistant pneumococci, as well as intracellular and atypical bacteria. Furthermore, it has a low potential to select for resistance or induce cross-resistance among other MLS(B) antimicrobials. At the recommended dosage of 800 mg orally once daily, telithromycin reaches maximal plasma concentrations of about 2 mg/L. It penetrates rapidly into bronchopulmonary, tonsillar, sinus and middle ear tissues and/or fluids and achieves high concentrations at sites of infection. It also concentrates within polymorphonuclear neutrophils. In clinical trials in patients with community-acquired pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or pharyngitis/tonsillitis caused by group A beta-haemolytic streptococci, telithromycin 800 mg on",
+        "journal": "Drugs",
+        "year": "2001",
+        "authors": [
+          "Balfour J A",
+          "Figgitt D P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bronchitis",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Humans",
+          "Ketolides",
+          "Macrolides",
+          "Maxillary Sinusitis",
+          "Pharyngitis",
+          "Pneumonia, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11398913/"
+      },
+      {
+        "pmid": "35104293",
+        "title": "Bacterial profile, antimicrobial susceptibility patterns, and associated factors of community-acquired pneumonia among adult patients in Gondar, Northwest Ethiopia: A cross-sectional study.",
+        "abstract": "Community-acquired pneumonia is associated with higher morbidity, hospitalization, and mortality in adults. Likewise, antimicrobial resistance has increased in recent decades in Ethiopia. Therefore, this study was aimed to determine the bacterial isolates, their antimicrobial susceptibility patterns, and factors associated with community-acquired pneumonia among adult patients in Gondar, Northwest Ethiopia.",
+        "journal": "PloS one",
+        "year": "2022",
+        "authors": [
+          "Assefa Muluneh",
+          "Tigabu Abiye",
+          "Belachew Teshome",
+          "Tessema Belay"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Chloramphenicol",
+          "Ciprofloxacin",
+          "Community-Acquired Infections",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Multiple, Bacterial",
+          "Ethiopia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35104293/"
+      },
+      {
+        "pmid": "22418755",
+        "title": "Crystalluria.",
+        "abstract": "",
+        "journal": "The Netherlands journal of medicine",
+        "year": "2012",
+        "authors": [
+          "van Noord C",
+          "Wulkan R W",
+          "van den Dorpel M A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Humans",
+          "Male",
+          "Pneumonia, Bacterial",
+          "Urinary Calculi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22418755/"
+      },
+      {
+        "pmid": "4073099",
+        "title": "Ticarcillin plus clavulanic acid in the treatment of pneumonia and other serious infections.",
+        "abstract": "Clavulanic acid is a potent inhibitor of bacterial beta-lactamases, and ticarcillin is a potent antipseudomonal penicillin. The combination of ticarcillin disodium and clavulanate potassium provides an excellent spectrum of activity against the majority of bacterial pathogens responsible for serious infections in both normal and abnormal hosts. Eighteen courses of therapy were administered to 16 patients; 35 percent of the patients were in poor or critical condition, and all but one had severe underlying disease. Thirteen separate episodes of pneumonia were treated, of which nine were in patients with cystic fibrosis, and 11 involved Pseudomonas aeruginosa. Of the 13 cases of pneumonia, 11 showed clinical cure or improvement, whereas only three showed bacteriologic cure. Of the four nonpulmonary cases, three showed clinical improvement or cure, and one showed a bacteriologic cure. In two patients, phlebitis developed at the site of intravenous infusion. The combination of ticarcillin a",
+        "journal": "The American journal of medicine",
+        "year": "1985",
+        "authors": [
+          "Brittain D C",
+          "Scully B E",
+          "Neu H C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Bacterial Infections",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4073099/"
+      },
+      {
+        "pmid": "8666093",
+        "title": "Treatment of community-acquired pneumonia: a randomized comparison of sparfloxacin, amoxycillin-clavulanic acid and erythromycin.",
+        "abstract": "The treatment of community-acquired pneumonia is empirical in most cases and must cover a wide range of potential pathogens, such as Streptococcus pneumoniae, including penicillin-resistant strains, Haemophilus influenzae and intracellular microorganisms. The objective of this double-blind, randomized, parallel group study was to compare the efficacy and safety of sparfloxacin (400 mg loading dose, followed by 200 mg o.d.) with that of oral amoxycillin-clavulanic acid (500/125 mg t.i.d.) or oral erythromycin (1 g b.i.d.), during 7-14 days in 808 patients with confirmed community-acquired pneumonia. The overall success rates for sparfloxacin (87%), amoxycillin-clavulanic acid (80%) and erythromycin (85%) were similar in evaluable patients, and the equivalence hypothesis used for the statistical analysis showed at least an equivalent efficacy for the three antibiotics tested. The analysis of microbiologically documented infections (40% of the patients) showed that overall success rates w",
+        "journal": "The European respiratory journal",
+        "year": "1995",
+        "authors": [
+          "Lode H",
+          "Garau J",
+          "Grassi C",
+          "Hosie J",
+          "Huchon G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Amoxicillin",
+          "Clavulanic Acids",
+          "Community-Acquired Infections",
+          "Double-Blind Method",
+          "Drug Evaluation",
+          "Drug Therapy, Combination",
+          "Erythromycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8666093/"
+      },
+      {
+        "pmid": "21888181",
+        "title": "The efficacy and safety of amoxicillin-clavulanic acid 1000/125mg twice daily extended release (XR) tablet for the treatment of bacterial community-acquired pneumonia in adults.",
+        "abstract": "This study was designed to demonstrate the efficacy and safety of pharmacokinetically enhanced amoxicillin/clavulanic acid 2000 mg/125 mg extended release formulation (ER), than conventional formulations against community-acquired respiratory tract pathogens, particularly Streptococcus pneumoniae, with reduced susceptibility to amoxicillin. This is an open labelled, multicentric, prospective, interventional study carried out across India from June 2008 to March 2009. The study included adult patients (>18 years), weighing between 40 to 60 kg with radiologically confirmed community-acquired pneumonia (CAP). Primary efficacy parameters were clinical response (fever, cough severity, sputum characteristics and improvement in dyspnoea grades) and laboratory parameters. Secondary efficacy parameters were radiological and bacteriological findings at the end of therapy. A total, 727 clinically and radiologically confirmed community-acquired pneumonia patients were enrolled in this study. Eight",
+        "journal": "Journal of the Indian Medical Association",
+        "year": "2011",
+        "authors": [
+          "Prabhudesai P P",
+          "Jain Sanjay",
+          "Keshvani Aziz",
+          "Kulkarni K P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Female",
+          "Humans",
+          "Male",
+          "Pneumonia",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21888181/"
+      },
+      {
+        "pmid": "9082404",
+        "title": "[Infections in pediatrics].",
+        "abstract": "PROBABILITY-BASED ANTIBIOTIC THERAPY: In children, the risk of an unfavorable course of bacterial infections requires careful selection of the initial antibiotic prescription based on the disease state, bacterial epidemiology and the child's age. ACUTE COMMUNITY ACQUIRED PNEUMONIA: Before the age of 5 years, antibiotics active against Haemophilus influenzae such as amoxicillin or clavulanic acid can be given orally. In children over 5, amoxicillin or a macrolide are effective. SEVERE EAR, NOSE AND THROAT INFECTIONS: For sore throats, clinical and bacterial results of a 4-day antibiotic regimen using a second generation cephalosporin are equivalent (with better compliance) to a 10-day regimen of penicillin V. For acute middle ear infections, a combination of amoxicillin-clavulanic acid is usually prescribed as initial treatment. COMMUNITY ACQUIRED BACTERIAL MENINGITIS: The most recent consensus established the indication for cefotaxime or ceftriaxone. The increasing number of peni-R pne",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "1997",
+        "authors": [
+          "Aujard Y",
+          "Bingen E"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Age Factors",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9082404/"
+      },
+      {
+        "pmid": "23708793",
+        "title": "Round pneumonia.",
+        "abstract": "",
+        "journal": "QJM : monthly journal of the Association of Physicians",
+        "year": "2014",
+        "authors": [
+          "Harvey E",
+          "Varatharaj A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Diagnosis, Differential",
+          "Female",
+          "Humans",
+          "Pneumonia, Bacterial",
+          "Tomography, X-Ray Computed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23708793/"
+      },
+      {
+        "pmid": "41016468",
+        "title": "Amoxicillin-clavulanic acid resistance in the first postoperative pneumonia after cardiac surgery: Risk factors and outcomes from a 10-year cohort analysis.",
+        "abstract": "Postoperative pneumonia (POP) is a severe complication after cardiac surgery (CS). A high prevalence of resistant pathogens has been reported. We aimed to identify risk factors and assess the impact on clinical outcomes of POP caused by amoxicillin-clavulanic acid-resistant bacteria (AMC-R POP).",
+        "journal": "Anaesthesia, critical care & pain medicine",
+        "year": "2026",
+        "authors": [
+          "Kovacs David",
+          "Rekik Mohamed",
+          "Lavollay Marie",
+          "Compain Fabrice",
+          "Boumezrag Chahrazad Bey"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Male",
+          "Risk Factors",
+          "Retrospective Studies",
+          "Cardiac Surgical Procedures",
+          "Aged",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Postoperative Complications",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41016468/"
+      },
+      {
+        "pmid": "7137980",
+        "title": "Distribution of amoxicillin and clavulanic acid in infected animals and efficacy against experimental infections.",
+        "abstract": "The therapeutic effects produced by formulations of amoxicillin plus clavulanic acid (BRL 25 000A and BRL 25 000G) were compared with those of amoxicillin and clavulanic acid separately against a variety of infections produced by amoxicillin-susceptible and beta-lactamase-producing (amoxicillin-resistant) bacteria. The infection models studied included intraperitoneal infections, a mouse pneumonia, experimental pyelonephritis, and local lesions caused by Staphylococcus aureus and Bacteroides fragilis. The distribution of amoxicillin and clavulanic acid in infected animals after the administration of amoxicillin-clavulanic acid was evaluated by measurement of the concentrations of the substances present in specimens collected at the sites of infection. The results showed that both amoxicillin and clavulanic acid were well distributed in the animal body after the administration of amoxicillin-clavulanic acid formulations, being present in significant concentrations at various sites of in",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1982",
+        "authors": [
+          "Boon R J",
+          "Beale A S",
+          "Comber K R",
+          "Pierce C V",
+          "Sutherland R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Bacteroides Infections",
+          "Clavulanic Acids",
+          "Drug Combinations",
+          "Mice",
+          "Pneumonia, Staphylococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7137980/"
+      },
+      {
+        "pmid": "15177852",
+        "title": "Evolution of amoxicillin/clavulanate in the treatment of adults with acute bacterial rhinosinusitis and community-acquired pneumonia in response to antimicrobial-resistance patterns.",
+        "abstract": "Current treatment guidelines for community-acquired respiratory tract infections no longer depend solely on the characteristics of the patient and the clinical syndrome, but on those of the offending pathogen, including presence and level of antimicrobial resistance. The most common respiratory tract pathogens known to cause acute bacterial rhinosinusitis (ABRS) and community-acquired pneumonia (CAP) include Streptococcus pneumoniae and Haemophilus influenzae. The prevalence of antimicrobial resistance, especially b-lactum and macrolide resistance, among S pneumoniae and H influenzae has increased dramatically during the past 2 decades, diminishing the activity of many older antimicrobials against resistant organisms. A pharmacokinetically enhanced formulation of amoxicillin/clavulanate has been developed to fulfill the need for an oral b-lactam antimicrobial that achieves a greater time that the serum drug concentration exceeds the minimum inhibitory concentration (T > MIC) of antimic",
+        "journal": "Clinics in laboratory medicine",
+        "year": "2004",
+        "authors": [
+          "File Thomas M",
+          "Benninger Michael S",
+          "Jacobs Michael R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Community-Acquired Infections",
+          "Drug Resistance, Bacterial",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Pneumonia",
+          "Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15177852/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:51:26.172062",
+  "success": true,
+  "error_message": null
+}

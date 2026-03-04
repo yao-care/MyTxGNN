@@ -6,7 +6,7 @@ drug_name: "Valsartan"
 kg_predictions: 82
 dl_predictions: 27
 evidence_level: "L1"
-indication_count: 82
+indication_count: 5
 brands: []
 permalink: /drugs/valsartan/
 ---

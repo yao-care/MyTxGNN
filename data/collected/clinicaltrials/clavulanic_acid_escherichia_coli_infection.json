@@ -1,0 +1,158 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "escherichia coli infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03612297",
+      "title": "Impact of Selective Reporting of Antibiotic Susceptibility Test Results in Urinary Tract Infections in the Outpatient Setting: a Protocol for a Pragmatic, Prospective Quasi-experimental Trial",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-01",
+      "completion_date": "2020-04-30",
+      "country": "N/A",
+      "enrollment": 64000,
+      "brief_summary": "Antibiotic resistance is a serious and increasing worldwide threat to global public health. One of antibiotic stewardship programmes' objectives is to reduce inappropriate broad-spectrum antibiotics' prescription. Selective reporting of antibiotic susceptibility test (AST) results, which consists of reporting to prescribers only few (n=5-6) antibiotics, preferring first-line and narrow-spectrum agents, is one possible strategy advised in recommendations. However, selective reporting of AST has n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adults with an E. coli positive urine culture on which an AST is realised in the year 2017 and 2019 in ATOUTBIO or EVOLAB laboratories\n* adults who go to ambulatory care practitioners located in the geographic areas served by all the 41 laboratories studied (in the interventio",
+      "endpoints": [
+        "Impact of selective reporting of AST for E. coli positive urine cultures in outpatient setting on the prescription of broad-spectrum antibiotics frequently used on UTIs (amoxicillin-clavulanate, third generation cephalosporins and fluoroquinolones)"
+      ],
+      "sponsor": "Central Hospital, Nancy, France",
+      "url": "https://clinicaltrials.gov/study/NCT03612297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02443285",
+      "title": "Is Spontaneous Bacterial Peritonitis Still Responding to 3rd Generation Cephalosporins?",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Current European and most other international guidelines recommend the use of a third-generation cephalosporin as the first choice, or amoxicillin-clavulanate acid or fluoroquinolones as an alternative choice .\n\nThese recommendations are based mainly on clinical trials that were very often conducted a decade or more ago, and on the assumption that E. coli would be involved in nearly half of the cases.\n\nThe microbial etiology of SBP remains relatively constant; however, the antibiotic resistance ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and SBP\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections",
+      "endpoints": [
+        "number of patients with clearence of infection"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02443285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236944",
+      "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-03",
+      "country": "Norway, Sweden",
+      "enrollment": 560,
+      "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+      "endpoints": [
+        "Clinical response (primary endpoint)."
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT07236944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04146922",
+      "title": "Switch to Oral Antibiotics in Gram-negative Bacteremia (SOAB); a Randomized, Open-label, Clinical Trial.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-10-13",
+      "completion_date": "2023-07-30",
+      "country": "Bahrain, Turkey (Türkiye), Qatar, Kuwait",
+      "enrollment": 176,
+      "brief_summary": "Eligible subjects will be those age 18 years or more with mono-microbial blood stream infection caused by E. coli, Klebsiella species, Enterobacter species, Serratia species, Citrobacter species, or Proteus species, who have achieved adequate source control, are afebrile and hemodynamically stable for 48 hours or more and have received microbiologically active intravenous therapy for 3-5 days. The bloodstream isolate must be susceptible to amoxicillin, amoxicillin-clavulanate, fluoroquinolones, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years.\n* Mono-microbial blood stream infection.\n* Isolation of E. coli, Klebsiella species, Enterobacter species, Serratia species, Citrobacter species, or Proteus species from ≥1 blood culture(s).\n* Adequate source control within ≤5 days of staring in-vitro active int",
+      "endpoints": [
+        "Treatment failure."
+      ],
+      "sponsor": "Hamad Medical Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04146922"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06252428",
+      "title": "Detection of Biofilm Among Uropathogenic Escherichia Coli Clinical Isolates in Suez Canal University Hospitals",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-12-20",
+      "completion_date": "2024-02-20",
+      "country": "Egypt",
+      "enrollment": 47,
+      "brief_summary": "This descriptive cross-sectional study will beconducted in Suez Canal University Hospitals (SCUHs) in Ismailia, Egypt. The study aims to detect Escherichia coli biofilm producers to improve prognosis and treatment and reduce morbidity and mortality rates due to this infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients showing criteria for Symptomatic Urinary Tract Infection (SUTI) according to Center of Diseases and Control criteria (CDC) (CDC, 2022).\n\nPatient has at least one of the following signs or symptoms:\n\n* fever (\\>38.0°C)\n* suprapubic tenderness\n* costovertebral angle pai",
+      "endpoints": [
+        "antibiotic resistance",
+        "Congo red Agar method (CRA)",
+        "Modified tissue culture plate method (MTCP)"
+      ],
+      "sponsor": "Suez Canal University",
+      "url": "https://clinicaltrials.gov/study/NCT06252428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06929702",
+      "title": "Early Model-Informed Precision Dosing of Beta-lactam Antibiotics in Critically Ill Children: Big Solution for Small People?",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-22",
+      "completion_date": "2027-10-01",
+      "country": "Belgium",
+      "enrollment": 58,
+      "brief_summary": "The overall objective of this study is to investigate the impact of early model-informed precision dosing (MIPD) on target attainment of three beta-lactam antibiotics (amoxicillin-clavulanic acid, piperacillin-tazobactam and meropenem) in critically ill children. This evaluation includes a comparison with the more standard approach on clinical and patient-oriented measures.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject aged between 0 - 17 years 10 months.\n* Subject admitted to a participating ward unit (Neonatal Intensive Care Unit, Pediatric Intensive Care Unit, Pediatric Hematology-Oncology unit).\n* Strongly suspected or confirmed systemic infection.\n* Subject planned to start on i",
+      "endpoints": [
+        "Proportion of subjects reaching the therapeutic target 100% fT>MIC"
+      ],
+      "sponsor": "University Hospital, Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT06929702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02463721",
+      "title": "Identification of Ascitic Fluid Bacterial Pathogens in Spontaneous Bacterial Peritonitis in Nile Delta and Its Impact on Clinical Outcome of These Patients",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-01",
+      "completion_date": "2019-12",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Several studies have pointed out changes in the epidemiology of the causative bacteria in SBP and bacterascites and in their susceptibility to antibiotics. In particular, the development of beta-lactamase enzymes, which confer resistance to clavulanate, or extended spectrum beta-lactamases in Escherichia coli. The potential emergence of enterococci, methicillin-resistant S. aureus, or fluoroquinolone-resistant bacteria, following norfloxacin prophylaxis, is also a cause of concern since they may",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and suspected to have SBP.\n* ascitic fluid PMNL ≥ 250 cells/mm3\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections\n* patients started empirical antibiotics without prior culture.",
+      "endpoints": [
+        "identification of SBP bacterial pathogens through gram stain or other specific stains"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02463721"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03969758",
+      "title": "Efficacy of Empirical Ciprofloxacin Plus Metronidazole and Cefixime Plus Metronidazole Therapy for the Treatment of Liver Abscess: A Randomised Controlled Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-07",
+      "completion_date": "2020-05",
+      "country": "India",
+      "enrollment": 140,
+      "brief_summary": "Liver abscess is purulent collections in the liver parenchyma that result from microbial infection spread to the liver through the biliary tree, hepatic or portal vein and by extension of adjacent infection or as a result of trauma. Liver abscesses are most commonly pyogenic followed by amoebic and rarely tuberculous or fungal in immunocompromised patients. In the developing country amoebic liver abscess is more frequent than the developed country but secondary bacterial infection of amoebic liv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Irrespective of gender\n* Age ≥ 18 years\n* Symptomatic patients of liver abscess confirmed with radiology imaging, either by ultrasonography (USG) or computed tomographgy (CT) scan\n\nExclusion Criteria:\n\n* Past history of liver abscess\n* Chronic kidney disease (CKD)\n* History of",
+      "endpoints": [
+        "Clinical cure"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT03969758"
+    }
+  ],
+  "timestamp": "2026-03-04T15:51:28.915448",
+  "success": true,
+  "error_message": null
+}

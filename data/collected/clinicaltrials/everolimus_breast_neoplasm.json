@@ -1,0 +1,919 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Everolimus",
+    "disease": "breast neoplasm"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07024173",
+      "title": "A Multicenter, Open-label, Randomized Controlled Phase 3 Study of HRS-8080 Versus Treatment Chosen by Physicians in Locally Advanced and Metastatic Breast Cancer With Disease Progression After Previous Endocrine Therapy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-07-23",
+      "completion_date": "2027-12",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "This study is a multicenter, open-label, randomized controlled Phase 3 clinical trial. It is planned to enroll 240 female patients with locally advanced or metastatic breast cancer followed by disease progression after previous endocrine therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Women aged 18 to 75 years old (including both values).\n2. ECOG Physical Strength Status (PS) : 0 to 1 point.\n3. Patients with locally advanced or metastatic breast cancer confirmed by histology.\n4. Patients previously received 1-2 lines of endocrine therapy.\n5. Expected survi",
+      "endpoints": [
+        "Progression free survival (PFS) evaluated by the blinded independent central review (BICR)."
+      ],
+      "sponsor": "Shandong Suncadia Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07024173"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00466102",
+      "title": "RADAR: A Randomized Discontinuation Phase II Study to Determine the Efficacy of RAD001 in Breast Cancer Patients With Bone Metastases",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2006-12",
+      "completion_date": "2012-12",
+      "country": "Germany",
+      "enrollment": 130,
+      "brief_summary": "The purpose of this study is to determine wether RAD001 can inhibit growth of tumour cells and/or stop the formation and activity of bone degrading osteoclasts.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent prior to beginning specific protocol procedures, including expected cooperation of the patients for the treatment and follow-up, must be obtained and documented according to the local regulatory requirements.\n* Histologically confirmed invasive adenoca",
+      "endpoints": [
+        "To determine the time to progression (TTP) in patients with no change in bone metastases after an 8 week run in treatment with RAD001 compared to placebo"
+      ],
+      "sponsor": "GBG Forschungs GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT00466102"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02069093",
+      "title": "A Phase II, Single Arm Study of the Use of Steroid-based Mouthwash to Prevent Stomatitis in Postmenopausal Women With Advanced or Metastatic Hormone Receptor Positive Breast Cancer Being Treated With Everolimus Plus Exemestane",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2016-03",
+      "country": "United States",
+      "enrollment": 92,
+      "brief_summary": "Open-label, Phase II study of Stomatitis prevention with a steroid-based mouthwash in Post-menopausal women with ER+, HER2- Metastatic or Locally Advanced Breast Cancer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult women \\> 18 years of age with metastatic or locally advanced breast cancer not amenable to curative treatment by surgery or radiotherapy\n2. Histological or cytological confirmation of hormone-receptor positive (HR+) human epidermal growth factor receptor 2 negative (HER",
+      "endpoints": [
+        "Number of Participants With Stomatitis Grade ≥ 2"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT02069093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426556",
+      "title": "A Phase Ib/II Study Investigating the Combination of Everolimus With Trastuzumab and Paclitaxel in Patients With HER2-overexpressing Metastatic Breast Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2014-03",
+      "country": "Spain, France, Netherlands, Belgium, United States",
+      "enrollment": 88,
+      "brief_summary": "Phase I: will look at different dose levels and regimens of everolimus combined with weekly trastuzumab and paclitaxel therapy in patients with HER-2 overexpressing metastatic breast cancer.\n\nPhase II: will assess the efficacy and safety of the 10mg daily dose of everolimus combined with weekly trastuzumab and paclitaxel therapy in patients with HER-2 overexpressing metastatic breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female or male patients ≥ 18 years old with WHO performance status ≤ 1\n* HER-2 over-expressing metastatic breast cancer cells confirmed by histology\n* Progressive disease on prior trastuzumab alone/or in combination with other anticancer agents, or relapsed any time after comp",
+      "endpoints": [
+        "Phase II: Overall Response Rate"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00426556"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02258451",
+      "title": "A Phase II Randomized, Double-blind, Placebo-controlled Trial of Radium-223 Dichloride in Combination With Exemestane and Everolimus Versus Placebo in Combination With Exemestane and Everolimus When Administered to Metastatic HER2 Negative Hormone Receptor Positive Breast Cancer Subjects With Bone Metastases",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-06-04",
+      "completion_date": "2022-10-28",
+      "country": "Israel, South Korea, France, Singapore, Spain, Hong Kong, Norway, Taiwan, Switzerland, Austria, Italy, Germany, United Kingdom, Poland, Japan, Belgium, United States",
+      "enrollment": 283,
+      "brief_summary": "The objective of this study is to assess efficacy and safety of radium 223 dichloride in subjects with human epidermal growth factor receptor 2 (HER2) negative hormone receptor positive breast cancer with bone metastases treated with exemestane and everolimus\n\nAfter implementation of CSP Amendment 10, only a limited number of subjects will remain in this study, in order to reduce the burden to study subjects, collection of data will be reduced and will focus mainly on acute safety, SSE, and OS. ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women (≥18 years of age) with metastatic breast cancer not amenable to curative treatment by surgery or radiotherapy.\n* Documentation of histological or cytological confirmation of estrogen receptor positive (ER+) and HER2 negative adenocarcinoma of the breast must be availabl",
+      "endpoints": [
+        "Symptomatic Skeletal Event-free Survival (SSE-FS)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02258451"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02875951",
+      "title": "Prospective, Non-interventional, Non-controlled Multicenter Observational Study to Evaluate Aspects of Pharmaceutical Care and the Treatment of Postmenopausal Patients With Hormone-receptor Positive, HER2-receptor Negative, Advanced Breast Cancer Treated With Everolimus and Exemestane.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2015-09",
+      "completion_date": "2017-12",
+      "country": "Belgium",
+      "enrollment": 100,
+      "brief_summary": "A prospective, non-interventional, non-controlled multicenter observational study to evaluate aspects of pharmaceutical care and the treatment of postmenopausal patients with hormone-receptor positive, HER2-receptor negative, advanced breast cancer treated with everolimus and exemestane.\n\nThe main objective of the study is to evaluate medication adherence in postmenopausal, hormone-receptor positive, HER2-receptor negative, advanced breast cancer treated with a combination of everolimus and exem",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Postmenopausal women, 18 years or older\n* Signed written informed consent\n* Patient can be contacted by phone and/or e-mail\n* HR+, HER2- advanced or metastatic breast cancer\n* Recurrence or progression following a non-steroidal aromatase inhibitor\n* Able to swallow and retain ",
+      "endpoints": [
+        "Medication adherence"
+      ],
+      "sponsor": "KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT02875951"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02025712",
+      "title": "A Phase II Open-label Pilot Study Evaluating the Maintenance Therapy With Exemestane Plus Everolimus After Induction Chemotherapy in Patients With Hormone-receptor Positive Metastatic Breast Cancer",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 35,
+      "brief_summary": "The purpose of this study is to determine whether exemestane plus everolimus are effective in the treatment of patients who have achieved disease stabilization after induction chemotherapy for hormone-receptor positive metastatic breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Postmenopausal women as defined in the protocol page 9;\n* Histologically and/or cytologically confirmed invasive breast cancer with stage IV disease according to AJCC;\n* Confirmed ER/PR-positive, and HER-2 negative tumor;\n* Disease progression on or following prior endocrine t",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Organisation for Oncology and Translational Research",
+      "url": "https://clinicaltrials.gov/study/NCT02025712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05508906",
+      "title": "A Phase 1b Open-Label Multicenter Study of OP-1250 (Palazestrant) in Combination With the CDK4/6 Inhibitor Ribociclib, With the PI3K Inhibitor Alpelisib, With the mTOR Inhibitor Everolimus, or With CDK4 Inhibitor Atirmociclib in Adult Subjects With Advanced and/or Metastatic ER Positive, HER2 Negative Breast Cancer",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2022-08-31",
+      "completion_date": "2028-01-31",
+      "country": "Australia, United States",
+      "enrollment": 190,
+      "brief_summary": "This is a Phase 1b open-label, 2-part study in 3 treatment groups. The 3 treatment groups are as follows:\n\nTreatment Group 1: Palazestrant (OP-1250) in combination with ribociclib (KISQALI®, Novartis Pharmaceuticals Corporation).\n\nTreatment Group 2: Palazestrant (OP-1250) in combination with alpelisib (PIQRAY®, Novartis Pharmaceuticals Corporation).\n\nTreatment Group 3: Palazestrant (OP-1250) in combination with everolimus.\n\nTreatment Group 4: Palazestrant (OP-1250) in combination with atirmocicl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female or male aged \\>18 years.\n* Willing and able to participate and comply with all study requirements.\n* Histologically- or cytologically-confirmed advanced or metastatic Breast Cancer (mBC).\n* ER+/HER2- disease, as determined in the most recently obtained archival tumor ti",
+      "endpoints": [
+        "Dose Limiting Toxicities (DLTs)",
+        "Characterize the incidence, nature and severity of treatment emergent adverse events (TEAEs) and serious adverse events (SAEs) of palazestrant when administered with ribociclib, alpelisib, everolimus, or atirmociclib.",
+        "Pharmacokinetics (PK) of palazestrant when administered with ribociclib (Treatment Group 1) or alpelisib (Treatment Group 2), everolimus (Treatment Group 3), or atirmociclib (Treatment Group 4) ."
+      ],
+      "sponsor": "Olema Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05508906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01283789",
+      "title": "Phase II Trial of Lapatinib and RAD-001 for HER2 Positive Metastatic Breast Cancer",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2011-02",
+      "completion_date": "2017-04",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "By doing this study, researchers hope to learn the effectiveness of the combination of Lapatinib and RAD-001 for treating patients who have progressed on previous therapies.",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\n* Females \\> 18 years of age\n* Histologically proven adenocarcinoma of breast in primary or metastatic setting. Stage: Locally advanced (inoperable) or metastatic\n* HER2 positive breast cancer (IHC 3+ or FISH ratio of \\> 2.0)\n* ECOG Performance status 0-2\n* Up to four prior chemo",
+      "endpoints": [
+        "Assess the effectiveness of the combination of RAD-001 and lapatinib"
+      ],
+      "sponsor": "University of Kansas Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01283789"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05429684",
+      "title": "Precise Targeted Therapy for Refractory HER2 Positive Advanced Breast Cancer Based on Genome Signature and Drug Sensitivity of PDO Model",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2024-02-28",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "This is an open, prospective and interventional clinical study. Patients with advanced Human Epidermal Growth Factor Receptor 2 (HER2) positive breast cancer resistant to trastuzumab will be enrolled in the study. Histological specimens obtained from different metastatic foci of patients, are used to conduct genome-wide sequencing together with Circulating tumor DNA (ctDNA) of blood samples. Meanwhile, investigator will construct PDO model based on biopsy tissue. Patients as well as their paired",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18-70 years old;\n2. Women;\n3. ECOG score 0-2;\n4. Locally advanced or metastatic breast cancer confirmed by histopathology;\n5. Positive HER2 expression in cancer tissues (IHC 3 +, or IHC 2 + but FISH amplification);\n6. Resistant to trastuzumab (including disease progression du",
+      "endpoints": [
+        "ORR",
+        "PDO model inhibition rate"
+      ],
+      "sponsor": "First Affiliated Hospital Xi'an Jiaotong University",
+      "url": "https://clinicaltrials.gov/study/NCT05429684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06849947",
+      "title": "Randomized Phase II Trial of Fulvestrant With Ribociclib Versus Physician's Choice Treatments for the Patients Who Recurred After Completion of Adjuvant Cyclin-Dependent Kinase 4/6 Inhibitors in HR+, HER2- Metastatic Breast Cancer as First Line Treatment (CLEE011AKR06R)",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2031-12-31",
+      "country": "N/A",
+      "enrollment": 272,
+      "brief_summary": "▪ Fulvestrant With Ribociclib versus Physician's choice treatments for the patients who recurred after completion of Adjuvant Cyclin-Dependent Kinase 4/6 Inhibitors in HR+, HER2- Metastatic Breast Cancer as first line treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants must be at least 19 years of age at the time of signing the informed consent.\n2. Patient has advanced (locoregionally recurrent or metastatic) breast cancer not amenable to curative therapy.\n3. Patient has HR-positive/HER2-negative invasive breast cancer (based o",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06849947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00107016",
+      "title": "A Phase 2, Double-blind, Randomized, Placebo-controlled, Multi-center Study Assessing the Value of Adding Everolimus to Letrozole as Preoperative Therapy of Primary Breast Cancer in Postmenopausal Women",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2007-04",
+      "country": "France, Spain, Russia, Austria, Italy, Germany, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 267,
+      "brief_summary": "The purpose of this study is to examine the effect of the combination of everolimus and letrozole compared to placebo and letrozole as pre-surgical therapy in patients with newly diagnosed estrogen receptor positive breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically-confirmed diagnosis of invasive breast cancer, previously untreated\n* Patients must be postmenopausal\n* Candidates for mastectomy or breast-conserving surgery\n* Primary tumor of above 2 cm diameter, measured by imaging\n* Clinical Stage M0\n* WHO performance statu",
+      "endpoints": [
+        "To assess the added efficacy obtained by combining RAD001 and letrozole as preoperative therapy for four months in hormone-receptor positive breast cancer in postmenopausal women"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00107016"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02291913",
+      "title": "Phase II Open Label Study of Everolimus in Combination With Anti-estrogen Therapy in Hormone Receptor-Positive HER2-Negative Advanced Breast Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-12-18",
+      "completion_date": "2019-01-31",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "Many patients with ER-positive or PR-positive breast cancer are treated with endocrine therapy. Although most ER/PR-positive tumors initially respond to hormonal therapy, patients often experience disease progression. Everolimus, in combination with exemestane, has shown activity in endocrine-resistant disease. This study will evaluate the efficacy of Everolimus+ anti-estrogen therapy in patients with ER-positive metastatic breast cancer who have progressed after receiving anti-estrogen therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologic diagnosis of unresectable, locally recurrent or MBC.\n2. ER and/or PR-positive tumors with staining by immunohistochemistry (IHC) based on the most recent biopsy.\n3. Only 1 previous chemotherapy regimen for MBC. Patients progressing while receiving adjuvant endocrin",
+      "endpoints": [
+        "Median Progression Free Survival (PFS)"
+      ],
+      "sponsor": "SCRI Development Innovations, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02291913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01773460",
+      "title": "A Multicenter Randomized, Double Blind, Placebo- Controlled, Phase II Study to Compare Endocrine Treatment Alone Versus Endocrine Treatment With Everolimus in Patients With HR+/HER2- Metastatic Breast Cancer and Progression After Previous Treatment With Exemestane and Everolimus",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2013-07",
+      "completion_date": "2014-07",
+      "country": "Germany",
+      "enrollment": 3,
+      "brief_summary": "Everolimus will be given to patients with metastatic breast cancer who already has a progress taking Everolimus but with a change in the endocrine treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Written informed consent prior to beginning specific protocol procedures, including expected cooperation of the patients for the treatment and follow-up, must be obtained and documented according to the local regulatory requirements.\n\n  2\\. Complete baseline documentation ",
+      "endpoints": [
+        "progression free survival"
+      ],
+      "sponsor": "GBG Forschungs GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01773460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02344550",
+      "title": "Ovarian Suppression Plus Letrozole Plus Everolimus for Hormone Receptor-Positive, Tamoxifen and Ovarian Suppression Pretreated, Premenopausal Women With Recurrent or Metastatic Breast Cancer[LEO]",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2018-10",
+      "country": "South Korea",
+      "enrollment": 137,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of addition of everolimus to letrozole with LHRH agonist in premenopausal metastatic breast cancer patients who failed to tamoxifen treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 20 years\n* Histologically or cytologically confirmed, HER-2 negative breast cancer with recurrent or metastatic disease\n* No HER2 overexpressing breast cancer\n* Premenopausal status, defined as either\n* ER and/or PR positive\n* Progressive disease on tamoxifen treatment o",
+      "endpoints": [
+        "Progression free survival (PFS)"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02344550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04355858",
+      "title": "Precision Treatment of Luminal Advanced Breast Cancer Based on Molecular Subtyping",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-01",
+      "completion_date": "2025-04-01",
+      "country": "China",
+      "enrollment": 319,
+      "brief_summary": "This study is a prospective, single-center, open-label, umbrella-shaped phase II clinical study for patients with HR+/HER2- endocrine-resistant advanced breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Females ≥18 years old;\n* Histologically confirmed HR + / HER2- invasive breast cancer (specific definition: immunohistochemical detection of ER\\> 10% tumor cell positive is defined as ER positive, PR\\> 10% tumor cell positive is defined as PR positive, ER and / or PR Positive ",
+      "endpoints": [
+        "ORR"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT04355858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02520063",
+      "title": "A Phase I/II Study of Preoperative (Neoadjuvant) Combination of Letrozole (Femara), Everolimus (Afinitor), and TRC105 in Postmenopausal Women With Newly Diagnosed Local or Locally Advanced Potentially Resectable Hormone-Receptor Positive and Her2 Negative Breast Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-02-01",
+      "completion_date": "2022-12-01",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "This study will test how well a new combination of three drugs (Letrozole, Everolimus, and TRC105) is tolerated and how well it works in Stage 2 and 3 breast cancer when given prior to definitive surgery. Letrozole blocks the estrogen receptor expressed by many breast cancers while everolimus blocks signals that drive cancer cells to grow. TRC105 is an investigational drug that blocks the formation and growth of blood vessels that feed the cancer and promote its growth. The goal of this study is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Recent diagnosis of hormone receptor positive and HER2 negative breast cancer.\n* Stage 2 and 3 hormone receptor positive and HER2 negative breast cancer (stage T2-4 but not inflammatory, N0-2, M0).\n* Histological grade I, II or III according to the modified Bloom Richardson sc",
+      "endpoints": [
+        "Number of Participants Who Experienced Dose-limiting Toxicities"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT02520063"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02536625",
+      "title": "RAPANK: Study of the Impact of Everolimus Treatment on the Development and Functions of Lymphocytes NK (Natural Killer), for Patients With a Metastatic Breast Cancer (HR+ / HER2/Neu Negative)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2019-12",
+      "country": "France",
+      "enrollment": 62,
+      "brief_summary": "NK (Natural Killer) cells are important in the fight against tumor, especially for the control of cancer metastasis. The purpose of this prospective study is to evaluate the impact on lymphocytes NK functions and development of an everolimus treatment in women treated for a metastatic breast cancer. In particular, the study of lymphocytes NK functions and development under everolimus treatment could permit to validate an early biomarker of the impact of everolimus on these NK cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women \\> 18 years old\n* Metastatic breast cancer HR+ (Hormone Receptor positive), HER2/neu negative (Human Epidermal Growth Factor Receptor-2)\n* ECOG PS (Eastern Cooperative Oncology Group Performance Status) ≤2\n* Eligible to an hormonotherapy treatment combined to an mTOR (ma",
+      "endpoints": [
+        "Measure of the level of Granzyme B (GzmB)"
+      ],
+      "sponsor": "Centre Leon Berard",
+      "url": "https://clinicaltrials.gov/study/NCT02536625"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00674414",
+      "title": "A Phase II, Randomized, Multi-center Study, Assessing Value of Adding Everolimus (RAD001) to Trastuzumab as Preoperative Therapy of HER-2 Positive Primary Breast Cancer Amenable to Surgery.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-04",
+      "completion_date": "",
+      "country": "France",
+      "enrollment": 82,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as trastuzumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. It is not yet known whether giving everolimus together with trastuzumab is more effective than giving trastuzumab alo",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of invasive breast cancer\n\n  * Previously untreated disease\n* Candidate for breast-conserving surgery, as defined by both of the following:\n\n  * Clinical stage cT1-3, cN0-2 disease\n  * Clinical stage M0 disease (bone scan, chest X-ray, a",
+      "endpoints": [
+        "Efficacy as measured by clinical and echographic tumor evaluation"
+      ],
+      "sponsor": "UNICANCER",
+      "url": "https://clinicaltrials.gov/study/NCT00674414"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02753686",
+      "title": "Treatment of Canadian Men and Pre/Postmenopausal Women With ER+ Advanced Breast Cancer in the Real-World Setting With Hormone Therapy ± Targeted Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-03-15",
+      "completion_date": "2022-12-01",
+      "country": "Canada",
+      "enrollment": 440,
+      "brief_summary": "Although randomized controlled trials (RCTs) provide evidence of efficacy, generalization of these results to patients in the real-world setting is challenging, given RCTs are conducted in highly selected patient populations.\n\nAn understanding of the effectiveness of approved cancer therapies in routine clinical practice is essential in order to optimize the management of these patients and to identify treatment and monitoring gaps.\n\nThis is the first Canadian study to describe real-world treatm",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. Patient is an adult, male or female ≥ 18 years old at the time of informed consent.\n2. Patient has histologically and/or cytologically confirmed diagnosis of breast cancer.\n3. Patient has inoperable locally advanced or metastatic breast cancer.\n4. Patient has ER positive and/",
+      "endpoints": [
+        "Duration on Treatment"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT02753686"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07062965",
+      "title": "An Interventional, Open-Label, Randomized, Multicenter, Phase 3 Study of PF-07248144 Plus Fulvestrant Compared to Investigator's Choice of Therapy in Adult Participants With Hormone Receptor-Positive, HER2-Negative Advanced/Metastatic Breast Cancer Whose Disease Progressed After Prior CDK4/6 Inhibitor-based Therapy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-08-05",
+      "completion_date": "2030-11-04",
+      "country": "Bulgaria, Spain, Puerto Rico, Canada, Sweden, Belgium, Taiwan, India, Slovakia, Australia, Israel, South Korea, Finland, Greece, Poland, Japan, United States, Czechia, Italy, China, Netherlands",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this study is to learn about the safety and effects of the study medicine PF-07248144 when given along with fulvestrant for the possible treatment of HR-positive, HER2-negative advanced or metastatic breast cancer.\n\nHR-positive breast cancer cells have proteins on their surface called receptors that bind to hormones like estrogen and progesterone (female sex hormones). These hormones can promote the growth of cancer cells.\n\nHER2-negative describes cells that have a small amount or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of HR-positive HER2-negative breast cancer with evidence of locally advanced or metastatic disease, which is not amenable to surgical resection or radiation therapy with curative intent.\n* Prior CDK4/6 inhibitor therapy in combination with endocrine therapy",
+      "endpoints": [
+        "Progression Free Survival (PFS) as determined by blinded independent central review (BICR) per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT07062965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07239271",
+      "title": "A Multicenter Phase III Clinical Study and Translational Research on Adaptive Neoadjuvant Therapy of De-escalation and Escalation for HER2-Positive Breast Cancer Based on Multi-Omics Response Evaluation Model",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-11-16",
+      "completion_date": "2027-12",
+      "country": "N/A",
+      "enrollment": 2000,
+      "brief_summary": "This study is a phase III clinical trial to explore the efficacy and safety of HER2-positive breast cancer neoadjuvant adaptive therapy compared with standard therapy based on multi-omics data, and to explore a new prediction model for pCR. The trial protocol in this study design has sufficient preliminary basis.\n\nHER2-targeted therapies can significantly improve pCR rates and enhance clinical outcomes in HER2-positive breast cancer patients undergoing neoadjuvant treatment. However, standard ne",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female patients aged 18-70 years;\n2. ECOG Performance Status (PS) score of 0-1;\n3. Histologically confirmed operable early or locally advanced invasive breast cancer, with a primary tumor diameter \\>2 cm;\n4. Patients with pathologically or cytologically confirmed primary brea",
+      "endpoints": [
+        "Pathological complete response rate"
+      ],
+      "sponsor": "Cancer Institute and Hospital, Chinese Academy of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT07239271"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00930930",
+      "title": "A Phase II Neo-Adjuvant Study of Cisplatin, Paclitaxel With or Without RAD001 in Patients With Triple-negative Locally Advanced Breast Cancer.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2014-10",
+      "country": "United States",
+      "enrollment": 145,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cisplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. Giving chemotherapy together with everolimus before surgery may make the tumor smaller and reduce the amount of normal tissue that needs to be removed. It is not ye",
+      "eligibility_criteria": "Eligibility criteria\n\n-Maximum number of patients will include two-thirds of the patients in Arm 1 and one-third of the patients for Arm 2 (total of 145 patients). Estimated time for accrual with \\~ 3 patients/month would be \\~ 3.5 years.\n\nInclusion criteria:\n\n* Patients must provide informed writte",
+      "endpoints": [
+        "Number of Patients With Pathological Complete Response"
+      ],
+      "sponsor": "Vanderbilt-Ingram Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00930930"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426530",
+      "title": "A Phase Ib Study Investigating the Combination of Everolimus With Trastuzumab and Vinorelbine in Patients With HER2-overexpressing Metastatic Breast Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "2010-06",
+      "country": "France, Italy, Poland, Sweden, Belgium",
+      "enrollment": 50,
+      "brief_summary": "This study will look at different dose levels and regimens of everolimus combined with weekly trastuzumab and vinorelbine therapy in patients with HER-2 overexpressing metastatic breast cancer.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Female or male patients ≥18 years with WHO performance status ≤ 1\n* HER-2 overexpressing metastatic breast cancer cells confirmed by histology\n* Progressive disease on prior trastuzumab alone/or in combination with other anticancer agents, or relapsed any time after completion",
+      "endpoints": [
+        "To establish the feasible dose levels/regimens based on End-of-cycle-1 dose limiting toxicity (DLT)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00426530"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01805271",
+      "title": "Randomized, Double Blind, Multicentric Phase III Trial Evaluating the Safety and Benefit of Adding Everolimus to Adjuvant Hormone Therapy in Women With High Risk of Relapse, ER+ and HER2- Primary Breast Cancer Who Remain Free of Disease After Receiving at Least 1 Year of Adjuvant Hormone Therapy",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2013-03",
+      "completion_date": "2030-06",
+      "country": "France",
+      "enrollment": 1278,
+      "brief_summary": "A significant number of patients relapse and eventually die, particularly if they were initially diagnosed with large nodes involvement and/or T3/4 diseases. When analyses focus on patients with ER+/Her2-negative breast cancer, with ≥4N+, 30% had relapsed at 5 years, emphasizing the need for new drugs in this setting (PACS01 data, UNICANCER internal data).\n\nStrong evidence suggests that cross-talk between the phosphatidylinositol 3-kinase (PI3K)/AKT/mammalian target of rapamycin (mTOR) pathway a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female ≥18 years of age,\n2. Histologically proven invasive unilateral or bilateral breast cancer (regardless of the morphological subtype),\n3. Any T, M0\n4. Patient with high risk of relapse according to one of the conditions below:\n\n   * at least 4 positive lymph nodes if the",
+      "endpoints": [
+        "To evaluate the benefit from adding everolimus to standard endocrine treatments after two years of treatment on the disease-free survival (DFS)"
+      ],
+      "sponsor": "UNICANCER",
+      "url": "https://clinicaltrials.gov/study/NCT01805271"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00570921",
+      "title": "A Phase II Study of Combined Fulvestrant (Faslodex) and Everolimus in Advanced/Metastatic Breast Cancer After Aromatase Inhibitor Failure",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2015-01",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "The primary objective of this study is to determine if estrogen receptor-targeted therapy with fulvestrant used in combination with Everolimus is an effective and safe therapy for women with hormone receptor positive metastatic breast cancer after failure of aromatase inhibitor therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Postmenopausal status, defined as any one of the following criteria: Documented history of bilateral oophorectomy, Age 60 years or more, OR Age 45 to 59 and satisfying one or more of the following criteria: Amenorrhea for at least 12 months and intact uterus OR Amenorrhea for ",
+      "endpoints": [
+        "Time to Progression"
+      ],
+      "sponsor": "University of Kentucky",
+      "url": "https://clinicaltrials.gov/study/NCT00570921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05826964",
+      "title": "Levels of Circulating Tumor DNA as a Predictive Marker for Early Switch in Treatment for Patients With Metastatic (Stage IV) Breast Cancer: A Phase 2 Randomized, Open-Label Study",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-06-12",
+      "completion_date": "2029-07-31",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The majority of patients (pts) with breast cancer have hormone receptor positive (HR+) disease, and this holds true for pts with advanced breast cancer (ABC). Currently frontline therapy for pts with HR+ ABC is antihormonal therapy with an aromatase inhibitor or selective estrogen receptor degrader plus a CDK4/6i. The proposed trial is a randomized study to further evaluate the potential benefit of switching a frontline regimen at the time that a molecular signal, ctDNA, suggests progression pri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men or women age ≥ 18 years.\n2. Patients with a diagnosis of ER+, human epidermal growth factor receptor 2 negative (HER2-) metastatic (Stage IV) breast cancer. Positivity status is defined as \\>10% staining for ER and immunohistochemistry (IHC) 0+ or IHC 1 or 2+ staining for",
+      "endpoints": [
+        "Progression-Free Survival 1 (PFS1) Among Participants in Step 2"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT05826964"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03616587",
+      "title": "A Phase 1 Dose Escalation and Expansion Study of AZD9833 Alone or in Combination in Women With ER-positive, HER2-negative Advanced Breast Cancer (SERENA-1)",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-10-11",
+      "completion_date": "2027-06-24",
+      "country": "United Kingdom, Spain, United States",
+      "enrollment": 396,
+      "brief_summary": "A Phase 1 Dose Escalation and Expansion Study of AZD9833 Alone or in Combination in Women with ER Positive, HER2 Negative Advanced Breast Cancer (SERENA-1)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed written informed consent.\n2. \\>= 18 years\n3. Any menopausal status:\n\n   1. Pre-menopausal women must have commenced treatment with an LHRH agonist at least 4 weeks prior to starting AZD9833 (± combination IMP(s)) and must be willing to continue to receive LHRH agonist ",
+      "endpoints": [
+        "The number of subjects with dose-limiting toxicity, as defined in the protocol.",
+        "The number of subjects with treatment-related adverse events as assessed by CTCAE v4.03."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT03616587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088893",
+      "title": "A Randomized Study of mTOR Inhibition by RAD001 (Everolimus) in Invasive Breast Cancer Patients After Pre-operative Use of Anthracycline and/or Taxane-based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-11",
+      "completion_date": "2013-03",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "This is a randomized controlled pilot study investigating signals involved in drug resistance to chemotherapy.\n\nPatient will be randomized to undergo observation or to receive Everolimus after completion of neoadjvuant treatment (anthracycline and/or taxane-based) and before surgery. The patients will be monitored for efficacy and safety.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged ≥ 18 years;\n* Histologically and/or cytologically confirmed invasive ductal or lobular breast cancer;\n* Tumor of 3 cm or greater at time of diagnosis\n* Measurable primary tumor after neoadjuvant treatment before randomization\n* No prior chemotherapy for breast cance",
+      "endpoints": [
+        "measure change of biomarkers in pre- and post- surgery samples"
+      ],
+      "sponsor": "Organisation for Oncology and Translational Research",
+      "url": "https://clinicaltrials.gov/study/NCT01088893"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05108740",
+      "title": "Managed Access Program (MAP) Cohort Treatment Plan CRAD001Y2002M to Provide Access to Afinitor for Patients With Advanced Hormone Receptor Positive (HR+) Breast Cancer",
+      "phase": "N/A",
+      "status": "NO_LONGER_AVAILABLE",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this Managed Access Program (MAP) Cohort Treatment Plan is to provide guidance to the Physician for the treatment and monitoring of patients in the Cohort MAP.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients eligible for inclusion in this Treatment Plan have to meet all of the following criteria:\n\n1. Patient has histological or cytological confirmation of hormone-receptor positive (HR+) breast cancer.\n2. Patient is a postmenopausal woman: Women are considered post-menopausa",
+      "endpoints": [],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT05108740"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02742051",
+      "title": "A Randomised Pilot Study of Neoadjuvant Everolimus Plus Letrozole Compared With FEC in Postmenopausal Patients With ER-positive, HER2-negative Breast Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2020-03-14",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "This open, randomized pilot feasibility trial is to evaluate the feasibility and effect of neoadjuvant everolimus plus letrozole versus neoadjuvant fluorouracil, epirubicin plus cyclophosphamide (FEC) in treating postmenopausal women with ER-positive, HER2-negative breast cancer. Forty postmenopausal stage M0, ER-positive, HER2-negative invasive breast cancer women who had a primary tumor \\> 2cm by imaging or an axillary lymph node \\> 2cm by imaging were randomly (1:1) enrolled to receive neoadj",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patients signed the written informed consent\n* The patients present with non-metastatic unilateral invasive ER-positive, HER2-negative breast cancer with a primary breast tumor \\> 2cm by imaging or an axillary lymph node \\> 2cm by imaging.\n* Postmenopausal women with age l",
+      "endpoints": [
+        "Feasibility of the trial"
+      ],
+      "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02742051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03730428",
+      "title": "Drug-related Pneumonitis During mTOR Inhibitor Therapy in Patients With Metastatic Breast Cancer: A Radiographic Patternbased Approach",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-07-15",
+      "completion_date": "2020-06-15",
+      "country": "China",
+      "enrollment": 86,
+      "brief_summary": "To study the drug-related pneumonitis during mTOR inhibitor therapy in patients with metastatic breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Postmenopausal woman (or premenopausal women treated with LHRHa) diagnosed with HR+，HER2- metastatic breast cancer\n2. Treated with everolimus for at least one month in metastatic setting\n3. With baseline and at least one follow-up chest CT during everolimus therapy.\n4. Comple",
+      "endpoints": [
+        "radiographic pattern",
+        "PFS"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT03730428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06828588",
+      "title": "Pilot Study of [68Ga]Ga-ABY-025 Imaging in Patients Undergoing Treatment With HER2-targeted Therapy",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02",
+      "completion_date": "2029-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine if the radiotracer, \\[68Ga\\]Ga-ABY-025, used for PET imaging can help us better identify and visualize lesions or tumors, in patients who are receiving standard of care therapy HER2+ cancers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years.\n2. Patients with unresectable locally advanced or metastatic cancer who are eligible for standard of care treatment with HER2-targeted therapy per the discretion of their treating physician for an FDA-approved indication. Patients who are planning to start HER",
+      "endpoints": [
+        "Determine safety of [68Ga]Ga-ABY-025 PET by assessing for adverse events following the injection and PET imaging."
+      ],
+      "sponsor": "Vanderbilt-Ingram Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT06828588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01783756",
+      "title": "Phase 1b/2 Single-arm Trial Evaluating the Combination of Lapatinib, Everolimus and Capecitabine for the Treatment of Patients With HER2-positive Metastatic Breast Cancer With CNS Progression After Trastuzumab",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-06-26",
+      "completion_date": "2019-05-10",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This is a phase 1b/2 study to evaluate the safety and clinical activity of the combination of lapatinib, everolimus and capecitabine for the treatment of participants with HER2+ breast cancer with metastases in the brain who have progressed on trastuzumab.\n\nThe combination of 2 drugs able to reach the brain (lapatinib and everolimus) that target different parts of the HER2 signaling pathway plus chemotherapy (capecitabine) that has proven benefits in metastatic breast cancer may lead to improved",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with HER2+ (immunohistochemistry \\[IHC\\] 3+ or fluorescence in situ hybridization \\[FISH\\]+ R/G \\> 2.0 or silver-enhanced in situ hybridization \\[SISH\\]+ HER2/chromosome 17 centromere \\[CEP17\\] \\> 2.0) breast cancer with documented central nervous system (CNS) recurre",
+      "endpoints": [
+        "CNS objective response rate defined as either a complete response or partial response provided there is no progression of extra-CNS disease, increasing steroid requirements, or worsening of NSS measured using RECIST v1.1"
+      ],
+      "sponsor": "Jonsson Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01783756"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01783444",
+      "title": "A Three-arm, Randomized, Open Label, Phase II Study of Everolimus in Combination With Exemestane Versus Everolimus Alone Versus Capecitabine in the Treatment of Postmenopausal Women With Estrogen Receptor Positive, Locally Advanced, Recurrent, or Metastatic Breast Cancer After Recurrence or Progression on Prior Letrozole or Anastrozole.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-02-26",
+      "completion_date": "2018-07-30",
+      "country": "Lebanon, Brazil, Spain, Turkey (Türkiye), India, Russia, Hungary, Denmark, Australia, Ireland, United Kingdom, Malaysia, Peru, Sweden, Thailand, Argentina, Belgium, United States",
+      "enrollment": 309,
+      "brief_summary": "This was a three-arm, randomized, open label, multi-center phase II study investigating the combination of everolimus (10mg daily) with exemestane (25mg daily) versus everolimus (10mg daily) versus capecitabine (1250mg/m2 twice daily for 14 days, 3-week cycle) in patients with estrogen-receptor positive, HER2 negative, advanced breast cancer after recurrence or progression on letrozole or anastrozole.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n\\- Women with locally advanced, recurrent, or metastatic breast cancer along with confirmation of estrogen-receptor positive (ER+). Measurable disease defined as at least one lesion ≥ 10 mm by CT or MRI that can be accurately measured in at least one dimension (CT scan slice",
+      "endpoints": [
+        "Progression Free Survival (PFS) - Everolimus Plus Exemestane Versus Everolimus Alone"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01783444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04671615",
+      "title": "DEMOGRAPHICS, PATIENT CHARACTERISTICS, TREATMENT PATTERNS AND CLINICAL OUTCOMES OF PATIENTS TREATED WITH PALBOCICLIB IN A REAL LIFE SETTING IN ISRAEL",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-12-06",
+      "completion_date": "2022-11-30",
+      "country": "Israel",
+      "enrollment": 559,
+      "brief_summary": "The purpose of this study is to understand the treatment patterns, patients and their clinical outcomes in a real life setting in Israel. This study was done in adult breast cancer patients who have started palbociclib combination treatment as per the national basket of health services in January 2018 until August 2020 for all lines of therapy.\n\nThis study had included adult patients who were prescribed with palbociclib for their breast cancer which had spread to other parts of the body.\n\nPatien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of metastatic breast cancer, based on the National/MHS cancer registry.\n* Newly diagnosed metastatic breast cancer patients and newly treated with palbociclib within 6 months of diagnosis, in any line of treatment in the metastatic setting.\n* Available data on palb",
+      "endpoints": [
+        "Number of Participants Categorized According to Type of Index Combination Treatment Regimen",
+        "Duration of Index Treatment Per Type of Combination Treatment",
+        "Number of Participants Categorized According to Number of Cycles of Index Treatment Per Type of Combination Treatment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT04671615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05065411",
+      "title": "P3 Efficacy Evaluation of Enobosarm in Combo With Abemaciclib Compared to Estrogen Blocking Agent for 2nd Line Treatment of ER+HER2- MBC in Patients Who Have Shown Previous Disease Progression on an Estrogen Blocking Agent Plus Palbociclib",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2022-04-11",
+      "completion_date": "2024-01-09",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "STAGE 1: To determine the safety of enobosarm 9 milligram (mg) once daily (QD) used in combination with a CDK 4/6 inhibitor \\[Verzenio® (abemaciclib) tablets, for oral use, 150 mg twice daily (BID)\\].\n\nSTAGE 2: To demonstrate the efficacy and safety of enobosarm 9 mg QD in combination with abemaciclib 150 mg BID (Enobosarm Combination Group) versus Estrogen Blocking Agent (Control Treatment Group) in the treatment of estrogen receptor positive (ER+), human epidermal growth factor receptor 2 nega",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects accepted for this study must:\n\n* Provide informed consent\n* Be able to communicate effectively with the study personnel\n* Aged ≥18 years\n* For Female Subjects\n\n  * Menopausal status\n  * Be postmenopausal as defined by the National Comprehensive Cancer Network as either:",
+      "endpoints": [
+        "Primary endpoint for the study is the median progression free survival (PFS) in the Enobosarm Combination Group compared to the Control Treatment Group in patients with AR% nuclei staining ≥40%. Progression will be defined based on RECIST 1.1 criteria"
+      ],
+      "sponsor": "Veru Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05065411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04212702",
+      "title": "The Landscape of ESR1 Mutations in Asian Estrogen Receptor-positive Metastatic Breast Cancer Patients Detected by Liquid Biopsy and Impact on Hormonal Therapy-based Treatments",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2017-05-22",
+      "completion_date": "2021-12-31",
+      "country": "Taiwan",
+      "enrollment": 123,
+      "brief_summary": "The investigator propose a prospective study using blood samples (liquid biopsy) of estrogen receptor (ER)-positive metastatic breast cancer (MBC) patients to understand the prevalence of estrogen receptor 1 (ESR1) mutation variants and the correlation with hormonal therapy (HT)-based treatment resistance in Asian ER-positive/human epidermal growth receptor-2 (HER2)-negative MBC population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* (1) Female patients who are ≥ 20 years old at the time of informed consent.\n* (2) Have histologically confirmed ER positive (defined as ≥1%) and/ or progesterone receptor (PR) positive (defined as ≥1%) breast cancer.\n* (3) Have histologically confirmed HER2-negative breast can",
+      "endpoints": [
+        "The percentage of ESR1 LBD mutation variant"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04212702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499160",
+      "title": "GCC 0901- A Phase II Study of Letrozole in Combination With Lapatinib Followed by an Addition of Everolimus in Postmenopausal Women With Advanced Endocrine Resistant Breast Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-05",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "About a third of patients with breast cancer are usually treated by hormone pills called tamoxifen and aromatase inhibitors. Aromatase inhibitors are drugs that stop female hormone production. Female hormone or estrogen is an important hormone for the growth of breast cancer cells. Letrozole is one of the aromatase inhibitors that is approved by the FDA and has been used to treat breast cancer since 1997. However, hormone pills usually work for about 6-10 months in most patients. Later on, breas",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female greater than or equal to 18 years.\n* Histologically confirmed breast adenocarcinoma with incurable progressing local-regional or metastatic.\n* ER and/or PR positivity of primary and/or secondary tumor.\n* Patients must have measurable or evaluable disease.\n* Evidence of ",
+      "endpoints": [
+        "Clinical Benefit Rate of Patients Treated With the Combination of Letrozole and Lapatinib and Then After Progression, Treated With Everolimus, Letrozole and Lapatinib."
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT01499160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855114",
+      "title": "A Phase II Trial of Short-Term Everolimus (RAD001) to Predict Response in Women With Operable Breast Cancer",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2008-07",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor.\n\nPURPOSE: This phase II trial is studying how well everolimus works in treating women with breast cancer that can be removed by surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of invasive breast cancer\n\n  * Resectable disease\n* Measurable disease, defined as a primary breast mass \\> 2.0 cm by breast imaging or clinical exam\n* Planning to undergo surgical resection after neoadjuvant therapy\n* Menopausal status not specified\n* Eastern Clinic",
+      "endpoints": [
+        "Decrease of total choline in at least 30% of patients"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00855114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02273752",
+      "title": "Phase II Evaluation of Real-Time, Pharmacokinetically Guided Everolimus in Patients With Hormone Receptor Positive Breast Cancer, Pancreatic Neuroendocrine Tumors (PNET), and Renal Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-11",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This phase II trial studies how well real-time pharmacokinetic therapeutic drug monitoring works in preventing stomatitis from developing in patients with hormone receptor positive breast cancer, pancreatic neuroendocrine tumors, or kidney cancer that are receiving a type of cancer drug called everolimus. Stomatitis is a common side effect of everolimus that causes inflammation of the mouth, with or without oral ulcers, and frequently leads to patients discontinuing the medication. Monitoring th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Confirmed diagnosis of:\n\n  * Postmenopausal advanced hormone receptor-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer after failure of treatment with letrozole or anastrozole\n  ",
+      "endpoints": [
+        "Incidence of Stomatitis"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT02273752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02077933",
+      "title": "A Phase Ib Dose-finding Study of BYL719 Plus Everolimus and BYL719 Plus Everolimus Plus Exemestane in Patients With Advanced Solid Tumors, With Dose-expansion Cohorts in Renal Cell Cancer (RCC), Pancreatic Neuroendocrine Tumors (pNETs), and Advanced Breast Cancer (BC) Patients.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-05-14",
+      "completion_date": "2019-04-12",
+      "country": "France, Spain, Hong Kong, Italy, Hungary, Germany, United Kingdom, Netherlands, United States",
+      "enrollment": 79,
+      "brief_summary": "Dose escalation part: to determine the highest dose of alpelisib administered on a daily basis when given in combination with daily everolimus or in combination with daily everolimus and exemestane.\n\nDose expansion part: To describe safety and tolerability of the alpelisib and everolimus or alpelisib, everolimus and exemestane combinations.",
+      "eligibility_criteria": "Inclusion Criteria For entire trial:\n\n* Adult \\> or = 18 years old\n* has signed the Informed Consent Form\n* has tumor tissue available for the analysis as described in the protocol\n* has an Eastern Cooperative Oncology Group performance status ≤2\n* has adequate bone marrow and organ function as defi",
+      "endpoints": [
+        "Dose escalation : Incidence of dose Limiting Toxicity (DLTs)",
+        "Dose expansion: Number of patients with adverse events as a measure of safety and tolerability"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT02077933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04802759",
+      "title": "A Phase Ib/II, Open-Label, Multicenter, Randomized Umbrella Study Evaluating the Efficacy and Safety of Multiple Treatment Combinations in Patients With Breast Cancer (MORPHEUS-BREAST CANCER)",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-06-22",
+      "completion_date": "2029-05-30",
+      "country": "Israel, South Korea, Spain, Australia, United States",
+      "enrollment": 316,
+      "brief_summary": "This is a Phase Ib/II, open-label, multicenter, randomized umbrella study in participants with breast cancer. The study is designed with the flexibility to open new treatment arms as new treatments become available, close existing treatment arms that demonstrate minimal clinical activity or unacceptable toxicity, or modify the patient population.\n\nCohort 1 will focus on participants with inoperable, locally advanced or metastatic, estrogen receptor-positive (ER+), HER2-negative breast cancer who",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion Criteria for Cohort 1 (Stage 1 \\[and Stage 2, only where indicated\\]):\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1\n* Documented estrogen receptor-positive (ER+) tumor\n* Patients for whom endocrine therapy is recommended and treatment with ",
+      "endpoints": [
+        "Percentage of Participants with Objective Response, Defined as a Complete or Partial Response, as Determined by the Investigator According to Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST v1.1)",
+        "Number of Participants with Adverse Events, Severity Determined According to National Cancer Institute Common Terminology Criteria for Adverse Events, version 5.0 (NCI CTCAE v5.0)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT04802759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05079360",
+      "title": "P2 Efficacy Evaluation of Sabizabulin Monotherapy Versus Active Control for Treatment of ER+HER2- MBC in Patients Who Have Shown Previous Disease Progression on a Nonsteroidal Aromatase Inhibitor, Fulvestrant and CDK 4/6 Inhibitor",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-03-15",
+      "completion_date": "2024-05-26",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "To demonstrate the efficacy of sabizabulin in the treatment of ER+HER2- metastatic breast cancer (MBC) as measured by progression free survival (PFS) by RECIST v1.1.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provide informed consent\n* Be able to communicate effectively with the study personnel\n* Aged ≥18 years\n* For Female Subjects Menopausal status\n\n  * Be postmenopausal as defined by the National Comprehensive Cancer Network as either:\n\n    * Age ≥55 years and one year or more o",
+      "endpoints": [
+        "Efficacy of sabizabulin in the treatment of estrogen receptor positive (ER+HER2) metastatic breast cancer (MBC)"
+      ],
+      "sponsor": "Veru Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05079360"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04869943",
+      "title": "Randomized Crossover Ph3 to Evaluate Efficacy/Safety of Enobosarm Monotherapy vs Active Control for Treatment of AR+/ER+/HER2- MBC With AR Staining Previously Treated w/Nonsteroidal Aromatase Inhibitor, SERD & CDK 4/6 Inhibitor",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2021-10-12",
+      "completion_date": "2024-01-09",
+      "country": "Ukraine, Spain, Poland, United States",
+      "enrollment": 52,
+      "brief_summary": "To demonstrate the efficacy of enobosarmin the treatment of androgen receptor positive (AR+) and estrogen receptor positive (ER+) metastatic breast cancer (MBC) as measured by radiographic progression free survival (rPFS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provide informed consent\n* Be able to communicate effectively with the study personnel\n* Aged ≥18 years\n* For Female Subjects\n\n  * Menopausal status\n* Be postmenopausal as defined by the National Comprehensive Cancer Network as either:\n\n  * Age ≥55 years and one year or more o",
+      "endpoints": [
+        "To demonstrate the efficacy of Enobosarm in the treatment of androgen receptor positive (AR+) and estrogen receptor positive (ER+) metastatic breast cancer (MBC) as measured by radiographic progression free survival (rPFS)."
+      ],
+      "sponsor": "Veru Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04869943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02188550",
+      "title": "Phase II Single Arm Trial With Combination of Everolimus and Letrozole in Treatment of Platinum Resistant Relapse or Refractory or Persistent Ovarian Cancer/Endometrial Cancer (CRAD001CUS242T)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of the study is to determine if the combination of Everolimus and Letrozole is effective in the treatment of women with either recurrent or persistent epithelial ovarian, fallopian tube, primary peritoneal or endometrial cancer.\n\nExperiments have shown that everolimus (Afinitor®) can prevent cells such as cancer from growing in number. Therefore, everolimus (Afinitor®) is being tested in specific diseases to stop cells from growing too fast (as in cancer).\n\nEverolimus (Afinitor®) has",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Post-menopausal or post-oophorectomy.\n* Performance status Less than or equal to ECOG 2\n* Patients must have relapse or refractory or persistent epithelial ovarian, fallopian tube, primary peritoneal carcinoma or endometrial cancer. Histologic documentation of the original pri",
+      "endpoints": [
+        "Tumor Response to treatment with Everolimus and Letrozole using RECIST Criteria"
+      ],
+      "sponsor": "Sinai Hospital of Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT02188550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02871791",
+      "title": "A Phase 1b/2a Study Of Palbociclib In Combination With Everolimus And Exemestane In Postmenopausal Women With Estrogen Receptor Positive and HER2 Negative Metastatic Breast Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-08-24",
+      "completion_date": "2021-09",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "This research study is studying a combination of targeted therapy and hormonal therapy as a possible treatment for breast cancer that has spread to other places in the body and is hormone receptor positive (HR+) and HER2-negative.\n\nThe names of the study interventions involved in this study are:\n\n* Palbociclib\n* Everolimus\n* Exemestane",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must meet the following criteria on screening examination to be eligible to participate in the study. Laboratory tests required for eligibility must be completed within 14 days prior to the date of registration. Diagnostic tests, such as MRIs and CT scans, must be",
+      "endpoints": [
+        "Clinical Benefit Rate (CBR) [Phase 2a]"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02871791"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04395989",
+      "title": "An Umbrella Trial Based on Molecular Pathway for Patients With Unresectable Locally Advanced or Metastatic Triple Negative Breast Cancer (FUTURE SUPER)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-28",
+      "completion_date": "2024-12-31",
+      "country": "China",
+      "enrollment": 139,
+      "brief_summary": "This is a Phase II, open-label, randomized controlled umbrella trial evaluating the efficacy and safety of multiple targeted treatment in patients with metastaticTNBC.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ECOG Performance Status of 0-1\n* Expected lifetime of not less than three months\n* Metastatic or locally advanced, histologically documented TNBC (absence of HER2, ER, and PR expression)\n* Cancer stage: recurrent or metastatic breast cancer; Local recurrence be confirmed by th",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT04395989"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02010021",
+      "title": "Presurgical Treatment With Letrozole in Patients With Early-stage Breast Cancer.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2017-12-08",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "Some tumors use estrogen in the body to assist with growth. Letrozole is a drug that is prevents cells from producing estrogens. This should assist with the slowing of growth of tumor cells. Letrozole also promotes cell destruction by inhibiting a cellular destruction pathway.\n\nThe objectives of this study will look at the differences between the cellular destruction pathway before and after letrozole use, and the differences in the cellular destruction pathway in participants that have received",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologic Documentation of invasive breast cancer by core needle or incisional biopsy. Excess baseline biopsy tumor tissue sufficient to make three 5-micron sections must be available for molecular analyses as part of this study.\n* The invasive cancer must be estrogen recepto",
+      "endpoints": [
+        "Change in Insulin Receptor Substrate 1 (IRS-1) / Phosphoinositide 3-kinase (PI3K) / Serine-threonine Protein Kinase (AKT) Pathway Activation"
+      ],
+      "sponsor": "Dartmouth-Hitchcock Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02010021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06382948",
+      "title": "A Randomized Phase 3, Double-Blind, Placebo-Controlled Study of Elacestrant Plus Everolimus Versus Elacestrant in Patients With ER+/HER2-, ESR1mut Advanced Breast Cancer Progressing to Endocrine Therapy and CDK4/6 Inhibitors",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-12-05",
+      "completion_date": "2028-04",
+      "country": "France, Spain, Czechia, Greece, Austria, Italy, Germany, United Kingdom",
+      "enrollment": 240,
+      "brief_summary": "This trial will study a type of advanced breast cancer (ABC) defined as endocrine receptor (ER)-positive/human epidermal growth factor receptor 2(HER2)-negative and estrogen receptor 1 (ESR1)-mutated. Patients will be treated with elacestrant, a compound that acts as a selective estrogen receptor degrader, and everolimus (or placebo), a kinase inhibitor indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer.\n\nThe main purpose of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients will be included in the study only if they meet ALL of the following criteria:\n\n1. Patient must be capable to understand the purpose of the study and have signed written informed consent form (ICF) prior to beginning specific protocol procedures.\n2. Female or male patie",
+      "endpoints": [
+        "To demonstrate superiority of elacestrant+everolimus vs. elacestrant+placebo in prolonging PFS based on a BIRC in patients with ER[+]/HER2[-], ESR1-mutated, ABC that have previously received ET+CDK4/6i (all patients)."
+      ],
+      "sponsor": "MedSIR",
+      "url": "https://clinicaltrials.gov/study/NCT06382948"
+    }
+  ],
+  "timestamp": "2026-03-04T16:37:12.697762",
+  "success": true,
+  "error_message": null
+}

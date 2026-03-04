@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Loratadine",
+    "disease": "papillary conjunctivitis",
+    "query_string": "Loratadine AND papillary conjunctivitis"
+  },
+  "data": {
+    "query": "Loratadine AND papillary conjunctivitis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T14:49:37.661099",
+  "success": true,
+  "error_message": null
+}

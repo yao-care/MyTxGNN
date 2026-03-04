@@ -1,0 +1,610 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Valsartan",
+    "disease": "hypertension",
+    "query_string": "Valsartan AND hypertension"
+  },
+  "data": {
+    "query": "Valsartan AND hypertension",
+    "results": [
+      {
+        "pmid": "25747524",
+        "title": "Nebivolol and valsartan as a fixed-dose combination for the treatment of hypertension.",
+        "abstract": "The fixed-dose combination of nebivolol and valsartan drug has been clinically evaluated and demonstrated to represent a unique combination of nebivolol, a selective β1-adrenoceptor antagonist and a β3-adrenoceptor agonist; β3 receptor activation increases endothelial nitric oxide and produces vasodilation. Valsartan is highly selective angiotensin AT1 receptor blocker and exerts its major pharmacological effect by decreasing angiotensin II-induced vasoconstriction and production of aldosterone. The addition of nebivolol counteracts the effects of increased angiotensin II concentrations resulting from potent AT1 blockade. This review describes a recently completed trial establishing the efficacy of the nebivolol/valsartan combination.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2015",
+        "authors": [
+          "Sander Gary E",
+          "Giles Thomas D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-1 Receptor Antagonists",
+          "Adrenergic beta-3 Receptor Agonists",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Benzopyrans",
+          "Blood Pressure",
+          "Drug Combinations",
+          "Ethanolamines",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25747524/"
+      },
+      {
+        "pmid": "26280447",
+        "title": "LCZ696 (Valsartan/Sacubitril)--A Possible New Treatment for Hypertension and Heart Failure.",
+        "abstract": "The aim of this MiniReview was to introduce the newly invented dual-acting drug valsartan/sacubitril (LCZ696), which combines an angiotensin receptor blocker (valsartan) with sacubitril, a specific inhibitor of the neutral endopeptidase (NEP) that degrades vasoactive peptides, including natriuretic peptides ANP and BNP, but also glucagon, enkephalins and bradykinin, among others. The MiniReview presents the data of four available trials NCT01193101, NCT00549770, NCT00887588 and NCT01035255 and provides the current knowledge about LCZ696 effects in patients with hypertension and heart failure. Presently, patients suffering from hypertension and heart failure are treated with ACE inhibitors or angiotensin receptor antagonists often in combination with other drugs. These current medications lead to a reduction in blood pressure in hypertensive patients and a decreased mortality and morbidity in patients with heart failure with reduced ejection fraction, but not in patients with heart fail",
+        "journal": "Basic & clinical pharmacology & toxicology",
+        "year": "2016",
+        "authors": [
+          "Andersen Mathilde Borring",
+          "Simonsen Ulf",
+          "Wehland Markus",
+          "Pietsch Jessica",
+          "Grimm Daniela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminobutyrates",
+          "Angiotensin Receptor Antagonists",
+          "Animals",
+          "Biphenyl Compounds",
+          "Drug Combinations",
+          "Heart Failure",
+          "Humans",
+          "Hypertension",
+          "Molecular Structure",
+          "Natriuretic Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26280447/"
+      },
+      {
+        "pmid": "28509722",
+        "title": "Rationale for nebivolol/valsartan combination for hypertension: review of preclinical and clinical data.",
+        "abstract": ": To treat hypertension, combining two or more antihypertensive drugs from different classes is often necessary. β-Blockers and renin-angiotensin-aldosterone system inhibitors, when combined, have been deemed 'less effective' based on partially overlapping mechanisms of action and limited evidence. Recently, the single-pill combination (SPC) of nebivolol (Neb) 5 mg - a vasodilatory β1-selective antagonist/β3 agonist - and valsartan 80 mg, an angiotensin II receptor blocker, was US Food and Drug Administration-approved for hypertension. Pharmacological profiles of Neb and valsartan, alone and combined, are well characterized. In addition, a large 8-week randomized trial in stages I-II hypertensive patients (N = 4161) demonstrated greater blood pressure-reducing efficacy for Neb/valsartan SPCs than component monotherapies with comparable tolerability. In a biomarkers substudy (N = 805), Neb/valsartan SPCs prevented valsartan-induced increases in plasma renin, and a greater reduction in p",
+        "journal": "Journal of hypertension",
+        "year": "2017",
+        "authors": [
+          "Giles Thomas D",
+          "Cockcroft John R",
+          "Pitt Bertram",
+          "Jakate Abhijeet",
+          "Wright Harold M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hypertension",
+          "Nebivolol",
+          "Randomized Controlled Trials as Topic",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28509722/"
+      },
+      {
+        "pmid": "37071432",
+        "title": "Effect of sacubitril/valsartan or valsartan on ventricular remodeling and myocardial fibrosis in perimenopausal women with hypertension.",
+        "abstract": "To evaluate the impact of sacubitril/valsartan on blood pressure (BP), ventricular structure, and myocardial fibrosis compared with valsartan in perimenopausal hypertensive women.",
+        "journal": "Journal of hypertension",
+        "year": "2023",
+        "authors": [
+          "Chen Jianshu",
+          "Pei Ying",
+          "Wang Qiongying",
+          "Li Caie",
+          "Liang Wei"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Aminobutyrates",
+          "Biphenyl Compounds",
+          "Drug Combinations",
+          "Heart Failure",
+          "Hypertension",
+          "Perimenopause",
+          "Prospective Studies",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37071432/"
+      },
+      {
+        "pmid": "35672897",
+        "title": "Efficacy and safety of sacubitril/valsartan in the treatment of middle-aged and elderly patients with hypertension: a systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "With the increase of hypertensive patients worldwide, the need for better antihypertensive drugs to achieve blood pressure standards and reduce complications is of great clinical significance. As an angiotensin receptor-neprilysin inhibitor, sacubitril/valsartan has been widely used in the treatment of heart failure, but its efficacy and safety in the treatment of middle-aged and elderly hypertensive patients are still controversial. Therefore, we performed a meta-analysis to compare the efficacy and safety of sacubitril/valsartan and other antihypertensive drugs in the treatment of middle-aged and elderly patients with hypertension.",
+        "journal": "Annals of palliative medicine",
+        "year": "2022",
+        "authors": [
+          "Wu Hong-Xing",
+          "Liu Ke-Ke",
+          "Li Bo-Ning",
+          "Liu Sha",
+          "Jin Jing-Chun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aminobutyrates",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Humans",
+          "Hypertension",
+          "Middle Aged",
+          "Randomized Controlled Trials as Topic",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35672897/"
+      },
+      {
+        "pmid": "26986445",
+        "title": "Fixed-dose combination therapy of nebivolol and valsartan for the treatment of hypertension.",
+        "abstract": "Recent large clinical trials have refuted earlier suggestions from the Joint National Committee 8 committee that less aggressive targets for blood pressure control were all that could be justified in most hypertensive patients. It now does appear that in fact \"lower is better,\" with blood pressure targets < 120/80 mm Hg appropriate for many hypertensive patients. Two drug combinations are often indicated as initial therapy if a 20/10 mm Hg or greater blood pressure reduction is necessary to reach target. Combinations consisting of β-blockers and renin-angiotensin-aldosterone system inhibitors have previously been deemed \"less effective,\" based on partially overlapping mechanisms of action and limited clinical trial evidence. Nebivolol is a vasodilating β1-selective blocker and β3- adrenoceptor agonist; β3-adrenoceptor activation increases nitric oxide concentrations and thus explains the vasodilatory effect. A recent 8-week randomized trial (N=4,161) in individuals with stage 1-2 hyper",
+        "journal": "Expert review of cardiovascular therapy",
+        "year": "2016",
+        "authors": [
+          "Sander Gary E",
+          "Fernandez Camilo",
+          "Giles Thomas D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Drug Combinations",
+          "Humans",
+          "Hypertension",
+          "Nebivolol",
+          "Renin-Angiotensin System",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26986445/"
+      },
+      {
+        "pmid": "37017901",
+        "title": "Different Doses of Sacubitril/Valsartan Compared with Olmesartan in Patients with Essential Hypertension: A Systematic Review and Meta-Analysis.",
+        "abstract": "Since sacubitril/valsartan (LCZ696) has neprilysin inhibition and angiotensin receptor-blocking properties, it is anticipated to have strong antihypertensive effects. However, there is not enough evidence to compare the safety and efficacy of sacubitril/valsartan to those of olmesartan in patients with hypertension.",
+        "journal": "High blood pressure & cardiovascular prevention : the official journal of the Italian Society of Hypertension",
+        "year": "2023",
+        "authors": [
+          "Almarjan Amjaad Ibrahim",
+          "Almarjan Sara Abdulaziz",
+          "Masoud Ahmed Taher"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Valsartan",
+          "Tetrazoles",
+          "Aminobutyrates",
+          "Essential Hypertension",
+          "Hypertension",
+          "Drug Combinations",
+          "Blood Pressure",
+          "Angiotensin Receptor Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37017901/"
+      },
+      {
+        "pmid": "29374807",
+        "title": "The Sacubitril/Valsartan, a First-in-Class, Angiotensin Receptor Neprilysin Inhibitor (ARNI): Potential Uses in Hypertension, Heart Failure, and Beyond.",
+        "abstract": "Sacubitril/valsartan (LCZ696) is a first-in-class, novel-acting, angiotensin receptor neprilysin inhibitor (ARNI) that provides inhibition of neprilysin and the angiotensin (AT1) receptor. A recent clinical trial PRARDIGM-HF demonstrated that this drug is superior to angiotensin-converting enzyme (ACE) inhibitors for improving the prognosis in the patients with heart failure, and this has resulted in the drug being included in clinical practice guidelines for the management of heart failure with reduced ejection fraction (EF). In addition, sacubitril/valsartan has been developed for the management of hypertension, because it has unique anti-aging properties. However, the clinical evidence of mechanism has not been well validated.",
+        "journal": "Current cardiology reports",
+        "year": "2018",
+        "authors": [
+          "Kario Kazuomi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aging",
+          "Aminobutyrates",
+          "Angiotensin Receptor Antagonists",
+          "Biphenyl Compounds",
+          "Drug Combinations",
+          "Heart Failure",
+          "Humans",
+          "Hypertension",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29374807/"
+      },
+      {
+        "pmid": "36997815",
+        "title": "Sacubitril/valsartan reverses cardiac structure and function in experimental model of hypertension-induced hypertrophic cardiomyopathy.",
+        "abstract": "This study evaluated the effect of sacubtril/valsartan on cardiac remodeling, molecular and cellular adaptations in experimental (rat) model of hypertension-induced hypertrophic cardiomyopathy. Thirty Wistar Kyoto rats, 10 healthy (control) and 20 rats with confirmed hypertension-induced hypertrophic cardiomyopathy (HpCM), were used for this study. The HpCM group was further subdivided into untreated and sacubitril/valsartan-treated groups. Myocardial structure and function were assessed using echocardiography, Langendorff's isolated heart experiment, blood sampling and qualitative polymerase chain reaction. Echocardiographic examinations revealed protective effects of sacubitril/valsartan by improving left ventricular internal diameter in systole and diastole and fractional shortening. Additionally, sacubitril/valsartan treatment decreased systolic and diastolic blood pressures in comparison with untreated hypertensive rats. Moreover, sacubitril/valsartan treatment reduced oxidative s",
+        "journal": "Molecular and cellular biochemistry",
+        "year": "2023",
+        "authors": [
+          "Jeremic Jovana",
+          "Govoruskina Natalia",
+          "Bradic Jovana",
+          "Milosavljevic Isidora",
+          "Srejovic Ivan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Tetrazoles",
+          "Valsartan",
+          "Hypertension",
+          "Myocytes, Cardiac",
+          "Cardiomyopathy, Hypertrophic",
+          "Rats, Inbred WKY",
+          "Models, Theoretical",
+          "Aminobutyrates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36997815/"
+      },
+      {
+        "pmid": "20591086",
+        "title": "A systematic review and meta-analysis of telmisartan versus valsartan in the management of essential hypertension.",
+        "abstract": "This was a systematic assessment of the efficacy and safety of telmisartan and valsartan for the management of blood pressure (BP) in patients with essential hypertension. The authors reviewed randomized controlled trials (RCTs) and quasi-RCTs comparing telmisartan and valsartan for the management of essential hypertension in which the participants were followed for at least 6 weeks. When a metaanalysis was possible, included studies were analyzed by Review Manager 5.0 provided by Cochrane Collaboration Group. Statistics were calculated as weight mean differences (WMDs) and relative risk with a random-effect model. A total of 6 RCTs with 3762 patients were included in this metaanalysis. When the authors combined data from all treatment categories as a group, no difference was found between telmisartan and valsartan in reduction of systolic BP and diastolic BP. In subgroup analysis, telmisartan showed a significant benefit on lowering systolic BP and diastolic BP (WMD, -2.88; 95% confid",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2010",
+        "authors": [
+          "Zheng Zhenfeng",
+          "Lin Shan",
+          "Shi Huilan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Benzimidazoles",
+          "Benzoates",
+          "Blood Pressure",
+          "Confidence Intervals",
+          "Diastole",
+          "Diuretics",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20591086/"
+      },
+      {
+        "pmid": "30664018",
+        "title": "Efficacy of Sacubitril/Valsartan in Hypertension.",
+        "abstract": "Sacubitril/valsartan (LCZ696) has progressed to be one of the most promising medication since its approval for chronic heart failure with reduced ejection fraction. Recent data have suggested a superior blood pressure control with LCZ696.",
+        "journal": "American journal of therapeutics",
+        "year": "2022",
+        "authors": [
+          "Malik Aaqib H",
+          "Aronow Wilbert S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Aminobutyrates",
+          "Angiotensin Receptor Antagonists",
+          "Biphenyl Compounds",
+          "Drug Combinations",
+          "Heart Failure",
+          "Humans",
+          "Hypertension",
+          "Tetrazoles",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30664018/"
+      },
+      {
+        "pmid": "29029087",
+        "title": "The effect of sacubitril/valsartan compared to olmesartan on cardiovascular remodelling in subjects with essential hypertension: the results of a randomized, double-blind, active-controlled study.",
+        "abstract": "Progressive aortic stiffening eventually leads to left ventricular (LV) hypertrophy and heart failure if left untreated. Anti-hypertensive agents have been shown to reverse this to some extent. The effects of sacubitril/valsartan (LCZ696), a dual-action angiotensin receptor blocker (ARB), and neprilysin inhibitor, on arterial stiffness and LV remodelling have not been investigated.",
+        "journal": "European heart journal",
+        "year": "2017",
+        "authors": [
+          "Schmieder Roland E",
+          "Wagner Frank",
+          "Mayr Michael",
+          "Delles Christian",
+          "Ott Christian"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aminobutyrates",
+          "Angiotensin Receptor Antagonists",
+          "Antihypertensive Agents",
+          "Aorta",
+          "Aorta, Thoracic",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Essential Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29029087/"
+      },
+      {
+        "pmid": "24752430",
+        "title": "Valsartan regulates myocardial autophagy and mitochondrial turnover in experimental hypertension.",
+        "abstract": "Renovascular hypertension alters cardiac structure and function. Autophagy is activated during left ventricular hypertrophy and linked to adverse cardiac function. The angiotensin II receptor blocker, valsartan, lowers blood pressure and is cardioprotective, but whether it modulates autophagy in the myocardium is unclear. We hypothesized that valsartan would alleviate autophagy and improve left ventricular myocardial mitochondrial turnover in swine renovascular hypertension. Domestic pigs were randomized to control, unilateral renovascular hypertension, and renovascular hypertension treated with valsartan (320 mg/d) or conventional triple therapy (reserpine+hydralazine+hydrochlorothiazide) for 4 weeks after 6 weeks of renovascular hypertension (n=7 each group). Left ventricular remodeling, function, and myocardial oxygenation and microcirculation were assessed by multidetector computer tomography, blood oxygen level-dependent MRI, and microcomputer tomography. Myocardial autophagy, mar",
+        "journal": "Hypertension (Dallas, Tex. : 1979)",
+        "year": "2014",
+        "authors": [
+          "Zhang Xin",
+          "Li Zi-Lun",
+          "Crane John A",
+          "Jordan Kyra L",
+          "Pawar Aditya S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antihypertensive Agents",
+          "Autophagy",
+          "Blood Pressure",
+          "Heart",
+          "Hypertension, Renovascular",
+          "Mitochondria",
+          "Mitochondrial Turnover",
+          "Myocardium",
+          "Swine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24752430/"
+      },
+      {
+        "pmid": "40410560",
+        "title": "Sacubitril/valsartan affects pulmonary arterial pressure in heart failure with preserved ejection fraction and pulmonary hypertension among PD patients.",
+        "abstract": "Pulmonary hypertension is an independent risk factor for all-cause mortality and cardiovascular events in peritoneal dialysis (PD) patients with heart failure with preserved ejection fraction (HFpEF). However, there is still no effective treatment. The aim of this study is to evaluate the efficacy and safety of sacubitril/valsartan in PD patients with HFpEF and pulmonary hypertension.",
+        "journal": "International urology and nephrology",
+        "year": "2025",
+        "authors": [
+          "Guo Yanhong",
+          "Zhao Silu",
+          "Zhang Xuewen",
+          "Gou Rong",
+          "Wang Liuwei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Male",
+          "Biphenyl Compounds",
+          "Aminobutyrates",
+          "Heart Failure",
+          "Drug Combinations",
+          "Stroke Volume",
+          "Valsartan",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40410560/"
+      },
+      {
+        "pmid": "37979031",
+        "title": "Sacubitril/Valsartan in Heart Failure with Hypertension Patients: Real-World Experiences on Different Ages, Drug Doses, and Renal Functions.",
+        "abstract": "Hypertension is a significant risk factor in heart failure for worldwide patients. More than half of hypertensive patients suffer from heart failure. Recently, sacubitril/valsartan (sac/val) has been approved as an antihypertensive agent in China and Japan. Additionally, it is not approved for treating hypertension in Europe or the USA.",
+        "journal": "High blood pressure & cardiovascular prevention : the official journal of the Italian Society of Hypertension",
+        "year": "2023",
+        "authors": [
+          "Guan Yingyun",
+          "Li Xiaoye",
+          "Li Hui",
+          "Ren Jinmei",
+          "Tang Kouming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Retrospective Studies",
+          "Tetrazoles",
+          "Valsartan",
+          "Heart Failure",
+          "Hypertension",
+          "Aminobutyrates",
+          "Drug Combinations",
+          "Kidney Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37979031/"
+      },
+      {
+        "pmid": "38181857",
+        "title": "Efficacy and safety of Qingda granule versus valsartan capsule in Chinese grade 1 hypertensive patients with low-moderate risk: A randomized, double-blind, double dummy, non-inferiority, multi-center trial.",
+        "abstract": "The efficacy and safety of Qingda granule (QDG) in managing blood pressure (BP) among grade 1 hypertensive patients with low-moderate risk remain uncertain.",
+        "journal": "Pharmacological research",
+        "year": "2024",
+        "authors": [
+          "Qu Hua",
+          "Shen A-Ling",
+          "Yang Kuo",
+          "Huang Ming-Yan",
+          "Li Hong-Zheng"
+        ],
+        "pub_types": [
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "China",
+          "Double-Blind Method",
+          "Drugs, Chinese Herbal",
+          "Hypertension",
+          "Tetrazoles",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38181857/"
+      },
+      {
+        "pmid": "33064027",
+        "title": "Nebivolol/valsartan combination for the treatment of hypertension: a review.",
+        "abstract": "Nebivolol (N) is a β1-adrenoreceptor antagonist that is approved for treatment of hypertension in the USA. Effective treatment of hypertension is becoming an increasingly difficult process that often requires multiple drug combinations to meet target guidelines. This has resulted in the increasing introduction of multidrug single-pill combinations (SPCs) to facilitate cost and compliance issues. Some of the SPCs have added valsartan (V), an angiotensin receptor blocker, which is an increasingly advocated antihypertensive class. Pharmacological profiles of N and V, alone and combined, are well characterized. In 2007, the SPC of N and V, 5 and 80 mg, respectively, was approved by the US FDA for treatment of hypertension. This paper will summarize and update key issues in pharmacology, clinical use and benefit.",
+        "journal": "Future cardiology",
+        "year": "2021",
+        "authors": [
+          "Wang Sarah J",
+          "Sander Gary E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Drug Combinations",
+          "Humans",
+          "Hypertension",
+          "Nebivolol",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33064027/"
+      },
+      {
+        "pmid": "22448661",
+        "title": "Valsartan: in children and adolescents with hypertension.",
+        "abstract": "Valsartan is an oral angiotensin II subtype 1 receptor antagonist with well established antihypertensive efficacy in adults. It is now approved in the EU and the US for the treatment of hypertension in children and adolescents. In two, randomized, double-blind trials, a once-daily regimen of valsartan reduced the blood pressure (BP) of children and adolescents with hypertension. In one trial in hypertensive children and adolescents aged 6-16 years, significant dose-dependent reductions from baseline in mean sitting systolic BP (msSBP) were observed for recipients of valsartan following 2 weeks' treatment (primary endpoint). There were corresponding dose-dependent and significant reductions in mean sitting diastolic BP. Following 2 further weeks of treatment, the reduction in msSBP was maintained in patients who were re-randomized to continue receiving the same dosage of valsartan but not in those re-randomized to placebo. In the other trial in hypertensive children and adolescents aged",
+        "journal": "Paediatric drugs",
+        "year": "2012",
+        "authors": [
+          "Croxtall Jamie D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Child",
+          "Enalapril",
+          "Humans",
+          "Hypertension",
+          "Randomized Controlled Trials as Topic",
+          "Tetrazoles",
+          "Valine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22448661/"
+      },
+      {
+        "pmid": "30397789",
+        "title": "Long-term safety and tolerability of valsartan in children aged 6 to 17 years with hypertension.",
+        "abstract": "The present study aimed to assess the long-term safety and tolerability of valsartan in hypertensive children aged 6-17 years, with or without chronic kidney disease (CKD).",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "year": "2019",
+        "authors": [
+          "Lou-Meda Randall",
+          "Stiller Brigitte",
+          "Antonio Zenaida L",
+          "Zielinska Ewa",
+          "Yap Hui-Kim"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Blood Pressure",
+          "Child",
+          "Cough",
+          "Creatinine",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fever",
+          "Glomerular Filtration Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30397789/"
+      },
+      {
+        "pmid": "35222898",
+        "title": "The Difference between Sacubitril Valsartan and Valsartan on Vascular Endothelial Function, APN, MMP-9, and BNP Levels in Patients with Hypertension and Chronic Heart Failure.",
+        "abstract": "Sacubitril valsartan and valsartan are the first new drugs approved for angiotensin receptor neprilysin lysine inhibitors (ARNIs) in outpatients with chronic heart failure (CHF) and hypertension. Compared with enalapril, sacubitril valsartan and valsartan have been shown to reduce the mortality and morbidity of cardiovascular diseases. However, there is little actual evidence regarding the efficacy of ARNIs in hypertensive patients with CHF.",
+        "journal": "Journal of healthcare engineering",
+        "year": "2022",
+        "authors": [
+          "Du Haiping",
+          "Li Xiao",
+          "Zhao Weifang",
+          "Jiang Ning"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adiponectin",
+          "Aminobutyrates",
+          "Angiotensin Receptor Antagonists",
+          "Biphenyl Compounds",
+          "Carotid Intima-Media Thickness",
+          "Drug Combinations",
+          "Endothelium",
+          "Heart Failure",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35222898/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:31:47.029665",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,389 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Levodopa",
+    "disease": "early-onset parkinsonism-intellectual disability syndrome",
+    "query_string": "Levodopa AND early-onset parkinsonism-intellectual disability syndrome"
+  },
+  "data": {
+    "query": "Levodopa AND early-onset parkinsonism-intellectual disability syndrome",
+    "results": [
+      {
+        "pmid": "33841314",
+        "title": "Clinical Variability of SYNJ1-Associated Early-Onset Parkinsonism.",
+        "abstract": "Autosomal recessive early-onset parkinsonism is clinically and genetically heterogeneous. Mutations of three genes, PRKN, PINK1, and DJ-1 cause pure phenotypes usually characterized by levodopa-responsive Parkinson's disease. By contrast, mutations of other genes, including ATP13A2, PLA2G6, FBXO7, DNAJC6, SYNJ1, VPS13C, and PTRHD1, cause rarer, more severe diseases with a poor response to levodopa, generally with additional atypical features. We performed data mining on a gene panel or whole-exome sequencing in 460 index cases with early-onset (≤ 40 years) Parkinson's disease, including 57 with autosomal recessive disease and 403 isolated cases. We identified two isolated cases carrying biallelic mutations of SYNJ1 (double-heterozygous p.D791fs/p.Y232H and homozygous p. Y832C mutations) and two siblings with the recurrent homozygous p.R258Q mutation. All four variants were absent or rare in the Genome Aggregation Database, were predicted to be deleterious on in silico analysis and were",
+        "journal": "Frontiers in neurology",
+        "year": "2021",
+        "authors": [
+          "Lesage Suzanne",
+          "Mangone Graziella",
+          "Tesson Christelle",
+          "Bertrand Hélène",
+          "Benmahdjoub Mustapha"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33841314/"
+      },
+      {
+        "pmid": "20669327",
+        "title": "Early-onset L-dopa-responsive parkinsonism with pyramidal signs due to ATP13A2, PLA2G6, FBXO7 and spatacsin mutations.",
+        "abstract": "Seven autosomal recessive genes associated with juvenile and young-onset Levodopa-responsive parkinsonism have been identified. Mutations in PRKN, DJ-1, and PINK1 are associated with a rather pure parkinsonian phenotype, and have a more benign course with sustained treatment response and absence of dementia. On the other hand, Kufor-Rakeb syndrome has additional signs, which distinguish it clearly from Parkinson's disease including supranuclear vertical gaze palsy, myoclonic jerks, pyramidal signs, and cognitive impairment. Neurodegeneration with brain iron accumulation type I (Hallervorden-Spatz syndrome) due to mutations in PANK2 gene may share similar features with Kufor-Rakeb syndrome. Mutations in three other genes, PLA2G6 (PARK14), FBXO7 (PARK15), and Spatacsin (SPG11) also produce clinical similar phenotypes in that they presented with rapidly progressive parkinsonism, initially responsive to Levodopa treatment but later, developed additional features including cognitive decline",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2010",
+        "authors": [
+          "Paisán-Ruiz Coro",
+          "Guevara Rocio",
+          "Federoff Monica",
+          "Hanagasi Hasmet",
+          "Sina Fardaz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Brain",
+          "F-Box Proteins",
+          "Female",
+          "Genetic Association Studies",
+          "Genotype",
+          "Group VI Phospholipases A2",
+          "Humans",
+          "Levodopa",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20669327/"
+      },
+      {
+        "pmid": "30919519",
+        "title": "Current therapies and therapeutic decision making for childhood-onset movement disorders.",
+        "abstract": "Movement disorders differ in children to adults. First, neurodevelopmental movement disorders such as tics and stereotypies are more prevalent than parkinsonism, and second, there is a genomic revolution which is now explaining many early-onset dystonic syndromes. We outline an approach to children with movement disorders starting with defining the movement phenomenology, determining the level of functional impairment due to abnormal movements, and screening for comorbid psychiatric conditions and cognitive impairments which often contribute more to disability than the movements themselves. The rapid improvement in our understanding of the etiology of movement disorders has resulted in an increasing focus on precision medicine, targeting treatable conditions and defining modifiable disease processes. We profile some of the key disease-modifying therapies in metabolic, neurotransmitter, inflammatory, and autoimmune conditions and the increasing focus on gene or cellular therapies. When ",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2019",
+        "authors": [
+          "Mohammad Shekeeb S",
+          "Paget Simon P",
+          "Dale Russell C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic alpha-Agonists",
+          "Anticonvulsants",
+          "Autoimmune Diseases of the Nervous System",
+          "Botulinum Toxins, Type A",
+          "Cannabinoids",
+          "Cell- and Tissue-Based Therapy",
+          "Chelating Agents",
+          "Chenodeoxycholic Acid",
+          "Child",
+          "Clinical Decision-Making"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30919519/"
+      },
+      {
+        "pmid": "27230899",
+        "title": "PSP-CBS with Dopamine Deficiency in a Female with a FMR1 Premutation.",
+        "abstract": "Premutations in the fragile X mental retardation 1 (FMR1) gene cause fragile X-associated tremor/ataxia syndrome (FXTAS) and FMR1-related primary ovarian insufficiency (POI). Female FMR1 premutation carriers rarely develop motor features. Dual pathology is an emerging phenomenon among FMR1 premutation carriers. Here, we describe a family affected by FMR1-related disorders in which the female index case has developed a rapidly progressive and disabling syndrome of atypical parkinsonism. This syndrome consists of early onset postural instability, echolalia, dystonia, and varying types of apraxia like early onset orobuccal apraxia and oculomotor apraxia. She has also developed supranuclear gaze palsy, increased latency of saccade initiation, and slow saccades. These features are compatible with progressive supranuclear palsy (PSP) of a corticobasal syndrome (CBS) variant. Imaging displays a marked reduction of presynaptic dopaminergic uptake and cerebrospinal fluid analysis showed reduced",
+        "journal": "Cerebellum (London, England)",
+        "year": "2016",
+        "authors": [
+          "Paucar Martin",
+          "Beniaminov Stanislav",
+          "Paslawski Wojciech",
+          "Svenningsson Per"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Brain",
+          "Dopamine",
+          "Family",
+          "Female",
+          "Fragile X Messenger Ribonucleoprotein 1",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pedigree"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27230899/"
+      },
+      {
+        "pmid": "29752303",
+        "title": "Typical features of Parkinson disease and diagnostic challenges with microdeletion 22q11.2.",
+        "abstract": "To delineate the natural history, diagnosis, and treatment response of Parkinson disease (PD) in individuals with 22q11.2 deletion syndrome (22q11.2DS), and to determine if these patients differ from those with idiopathic PD.",
+        "journal": "Neurology",
+        "year": "2018",
+        "authors": [
+          "Boot Erik",
+          "Butcher Nancy J",
+          "Udow Sean",
+          "Marras Connie",
+          "Mok Kin Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antiparkinson Agents",
+          "Databases, Bibliographic",
+          "Deep Brain Stimulation",
+          "DiGeorge Syndrome",
+          "Female",
+          "Humans",
+          "International Cooperation",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29752303/"
+      },
+      {
+        "pmid": "20482602",
+        "title": "EFNS guidelines on diagnosis and treatment of primary dystonias.",
+        "abstract": "to provide a revised version of earlier guidelines published in 2006.",
+        "journal": "European journal of neurology",
+        "year": "2011",
+        "authors": [
+          "Albanese A",
+          "Asmus F",
+          "Bhatia K P",
+          "Elia A E",
+          "Elibol B"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Botulinum Toxins",
+          "Deep Brain Stimulation",
+          "Dystonia",
+          "Dystonic Disorders",
+          "Globus Pallidus",
+          "Humans",
+          "Molecular Chaperones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20482602/"
+      },
+      {
+        "pmid": "15096013",
+        "title": "Contemporaneous bilateral pallidotomy.",
+        "abstract": "To investigate the effects of bilateral posteroventral pallidotomy (PVP) for Parkinson's disease (PD), the authors reviewed the technique and neurological outcome in a number of patients who had undergone bilateral pallidotomy. The authors have previously reported the outcome of PVP in 25 bilateral and 25 unilateral surgeries, rating the patient's postural stability, speech, and total Unified Parkinson's Disease Rating Scale scores. A second, separate group of 23 patients who underwent contemporaneous bilateral PVP were evaluated for early onset idiopathic PD, levodopa failure syndrome, and severe bilateral dyskinesia as well as akinetic \"off\" states. Cognitive and psychological studies were reviewed in 10 patients who demonstrated preoperative impairments in spatial recognition and memory. Following surgery there were significant improvements in these cognitive deficits and no deficits were incurred by surgery. Published reports regarding bilateral operations for PD have emphasized th",
+        "journal": "Neurosurgical focus",
+        "year": "1997",
+        "authors": [
+          "Iacono R P",
+          "Carlson J D",
+          "Kuniyoshi S",
+          "Mohamed A",
+          "Meltzer C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15096013/"
+      },
+      {
+        "pmid": "16722965",
+        "title": "A systematic review on the diagnosis and treatment of primary (idiopathic) dystonia and dystonia plus syndromes: report of an EFNS/MDS-ES Task Force.",
+        "abstract": "To review the literature on primary dystonia and dystonia plus and to provide evidence-based recommendations. Primary dystonia and dystonia plus are chronic and often disabling conditions with a widespread spectrum mainly in young people. Computerized MEDLINE and EMBASE literature reviews (1966-1967 February 2005) were conducted. The Cochrane Library was searched for relevant citations. Diagnosis and classification of dystonia are highly relevant for providing appropriate management and prognostic information, and genetic counselling. Expert observation is suggested. DYT-1 gene testing in conjunction with genetic counselling is recommended for patients with primary dystonia with onset before age 30 years and in those with an affected relative with early onset. Positive genetic testing for dystonia (e.g. DYT-1) is not sufficient to make diagnosis of dystonia. Individuals with myoclonus should be tested for the epsilon-sarcoglycan gene (DYT-11). A levodopa trial is warranted in every pat",
+        "journal": "European journal of neurology",
+        "year": "2006",
+        "authors": [
+          "Albanese A",
+          "Barnes M P",
+          "Bhatia K P",
+          "Fernandez-Alvarez E",
+          "Filippini G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Botulinum Toxins",
+          "Brain",
+          "Counseling",
+          "Denervation",
+          "Dopamine Antagonists",
+          "Dystonia",
+          "Genetic Techniques",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16722965/"
+      },
+      {
+        "pmid": "7922469",
+        "title": "Clinical features and natural history of multiple system atrophy. An analysis of 100 cases.",
+        "abstract": "The clinical features and natural history of 100 patients diagnosed as probable multiple system atrophy (MSA) are described. In all 14 (of 41 deceased) cases who underwent post-mortem examination of the brain, the diagnosis was confirmed pathologically, providing some validation of the clinical diagnostic criteria used. There were 67 men and 33 women. Median age at onset (at time of first reported symptom) was 53 (range 33-76) years. Autonomic symptoms were the initial feature in 41% of the patients, but had subsequently developed in 97% at latest follow-up. The most frequent autonomic symptom in men was impotence, and in women was urinary incontinence. Symptomatic orthostatic hypotension, although present in 68%, was severe in only 15% of patients. Parkinsonism was the initial feature in 46%, but had subsequently developed in 91% of subjects at latest follow-up. It was the predominant motor disorder [striatonigral degeneration (SND) type] in 82% of the patients, and was usually asymme",
+        "journal": "Brain : a journal of neurology",
+        "year": "1994",
+        "authors": [
+          "Wenning G K",
+          "Ben Shlomo Y",
+          "Magalhães M",
+          "Daniel S E",
+          "Quinn N P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Brain Diseases",
+          "Cerebellar Diseases",
+          "Corpus Striatum",
+          "Female",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7922469/"
+      },
+      {
+        "pmid": "29572372",
+        "title": "Parkinson's disease with hypocalcaemia: adult presentation of 22q11.2 deletion syndrome.",
+        "abstract": "A growing amount of evidence indicates that 22q11.2 deletion syndrome (22q11.2DS) increases the risk of early-onset Parkinson's disease (EOPD). Here, we describe a 36-year-old patient with EOPD. The patient presented with 22q11.2DS features, including associated cognitive disabilities, hypocalcaemia and facial dysmorphia that led us to screen for and confirm this deletion. In addition, hypocalcaemia and vitamin D deficiency were the main factors responsible for severe, painful muscle spasms that were non-levodopa (L-Dopa) responsive and remitted after calcium and vitamin D replacement therapy. Many patients with this deletion remain undiagnosed until adulthood due to the absence of 'major' phenotypic hallmarks, which usually present during early childhood. Later onset problems involving various medical subspecialties are increasingly recognised as important components of 22q11.2DS. Therefore, the multisystem nature and associated burden of morbidities demand a high degree of suspicion ",
+        "journal": "BMJ case reports",
+        "year": "2018",
+        "authors": [
+          "Moreira Fradique",
+          "Brás Ana",
+          "Lopes Joana Ramos",
+          "Januário Cristina"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Calcitriol",
+          "Calcium Carbonate",
+          "DiGeorge Syndrome",
+          "Diagnosis, Differential",
+          "Humans",
+          "Hypocalcemia",
+          "Male",
+          "Parkinson Disease",
+          "Tomography, Emission-Computed, Single-Photon"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29572372/"
+      },
+      {
+        "pmid": "41074240",
+        "title": "RAB39B Related Parkinsonism in an Italian Family: A Unique Use of Advanced Therapies.",
+        "abstract": "Parkinson's disease (PD) is a neurodegenerative disorder that may sometimes be caused by deleterious genetic variants. Among them, RAB39B polymorphisms are known as rare causes of early-onset PD associated with intellectual disability (Waisman's syndrome). Here we describe a 45-year-old white male affected by developmental delay, childhood onset intellectual disability, epilepsy, and PD who was treated with subthalamic deep brain stimulation and subcutaneous L-DOPA infusion. Next Generation Sequencing analysis revealed a currently unknown pathogenic hemizygous sequence variant c.463C>T (NM_171998.4) in the RAB39B gene, confirmed also in the proband's mother, affected by late-onset PD. This report expands the number of described RAB39B mutations in individuals with early- and late-onset, X-linked PD.",
+        "journal": "Annals of clinical and translational neurology",
+        "year": "2026",
+        "authors": [
+          "Del Regno Caterina",
+          "Ermanis Giovanni",
+          "Lettieri Christian",
+          "Bernardini Andrea",
+          "Pellitteri Gaia"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Parkinsonian Disorders",
+          "rab GTP-Binding Proteins",
+          "Italy",
+          "Deep Brain Stimulation",
+          "Pedigree",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41074240/"
+      },
+      {
+        "pmid": "34920839",
+        "title": "A case of treatable encephalopathy, developmental regression, and proximal tremor.",
+        "abstract": "Tyrosine hydroxylase (TH) deficiency is an autosomal recessive condition first described as a progressive, early-onset hypokinetic-rigid and dystonic syndrome that was responsive to levodopa. Here we present a child with developmental regression, proximal tremor, and encephalopathy found to have tyrosine hydroxylase deficiency in whom treatment resulted in acquisition of developmental milestones.",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2021",
+        "authors": [
+          "Hull Mariam",
+          "Emrick Lisa",
+          "Sadat Roa",
+          "Parnes Mered"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Video-Audio Media"
+        ],
+        "mesh_terms": [
+          "Brain Diseases",
+          "Developmental Disabilities",
+          "Dystonic Disorders",
+          "Humans",
+          "Infant",
+          "Levodopa",
+          "Male",
+          "Treatment Outcome",
+          "Tremor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34920839/"
+      },
+      {
+        "pmid": "16100983",
+        "title": "Factitious disorder mimicking addiction to levodopa in a patient with advanced Parkinson's disease.",
+        "abstract": "We report a 43-year-old woman with early-onset Parkinson's disease in whom neurological control was impaired by psychiatric co-morbidity including major depression and panic disorder. The patient also met criteria for factitious disorder that mimicked dopamine dysregulation syndrome resulting in severe clinical and social disability.",
+        "journal": "Arquivos de neuro-psiquiatria",
+        "year": "2005",
+        "authors": [
+          "Teixeira-Júnior Antônio L",
+          "Cardoso Francisco"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antiparkinson Agents",
+          "Diagnosis, Dual (Psychiatry)",
+          "Factitious Disorders",
+          "Female",
+          "Humans",
+          "Levodopa",
+          "Panic Disorder",
+          "Parkinson Disease",
+          "Self Medication"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16100983/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:27:38.685544",
+  "success": true,
+  "error_message": null
+}

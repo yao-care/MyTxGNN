@@ -6,7 +6,7 @@ drug_name: "Atenolol"
 kg_predictions: 180
 dl_predictions: 52
 evidence_level: "L1"
-indication_count: 180
+indication_count: 5
 brands: []
 permalink: /drugs/atenolol/
 ---

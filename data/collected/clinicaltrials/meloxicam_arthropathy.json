@@ -1,0 +1,924 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Meloxicam",
+    "disease": "arthropathy"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00612885",
+      "title": "Post Marketing Surveillance to Assess the Safety and Efficacy of Mobic® (Meloxicam) Intramuscular Injection (7.5mg ~ 15mg, q.d.) up to 3 Days (in Case of Need for Prolonged Treatment, Switch to Mobic® Capsule Therapy Was Possible) in Korean Patients With Osteoarthritis and Rheumatoid Arthritis (KFDA Regulatory Requirement PMS)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2005-08",
+      "country": "South Korea",
+      "enrollment": 425,
+      "brief_summary": "The main objective of this PMS study was to monitor and assess the safety of Mobic® intramuscular injection (7.5mg \\~ 15mg, q.d.) up to 3 days (in case of need for prolonged treatment, switch to Mobic® capsule therapy was possible) in Korean patients with osteoarthritis and rheumatoid arthritis.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\ndiagnosed as osteoarthritis and rheumatoid arthritis\n\nEXCLUSION CRITERIA:\n\n1. Known hypersensitivity to meloxicam\n2. Cross hypersensitivity to aspirin and other non-steroidal anti-inflammatory drugs\n3. Symptoms of asthma, rhinitis, angioneurotic edema, or urticaria following the",
+      "endpoints": [
+        "Efficacy assessment by the treating physician",
+        "Combined efficacy, safety and tolerability assessment by the treating physician",
+        "Incidence of adverse events"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00612885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03586934",
+      "title": "Multimodal Anesthesia and Analgesia for Total Shoulder and Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2018-06-01",
+      "completion_date": "2019-06-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Opioid medications are associated with many side effects and the risk of abuse or overdose. Orthopaedic surgeons are currently investigating ways to control pain after surgery while limiting the amount of opioid medications prescribed. One way to reduce the amount of opioid medications prescribed, and potentially avoid opioid-associated adverse events, is to use multiple non-opioid medications and anesthetic drugs before surgery, during surgery, and after surgery. This study aims to evaluate a p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Greater than 18 years of Age, undergoing primary anatomic or reverse total shoulder arthroplasty\n\nExclusion Criteria:\n\n* Opioid consumption within 4 weeks prior to surgery, allergy to oxycodone or study drugs, refusal to take oxycodone or study drugs, history of opioid depende",
+      "endpoints": [
+        "Number of Oxycodone tablets"
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03586934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02184039",
+      "title": "Clinical Therapeutic Evaluation Program in Patients With Rheumatic Diseases",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 12687,
+      "brief_summary": "Study to evaluate the efficacy and safety of meloxicam (Mobicox®) in Mexican population with rheumatic diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* none\n\nExclusion Criteria:\n\n* Hypersensitivity to meloxicam or to other NSAIDS\n* History of asthma, angioedema or urticaria secondary to NSAIDS\n* Pregnancy or lactation\n* Recent or current history of peptic ulcer disease, severe renal failure, severe hepatic failure\n* Age below",
+      "endpoints": [
+        "Change in intensity of the symptoms measured with a four-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02184039"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07430085",
+      "title": "Postoperative Pain Outcomes After Use of Bupivacaine-Meloxicam Extended-Release Solution in Robot Assisted Total Knee Arthroplasty: A Prospective Study",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-31",
+      "completion_date": "2028-02-28",
+      "country": "N/A",
+      "enrollment": 150,
+      "brief_summary": "Prospective Cohort of patients who are scheduled for a Robot Assisted Total Knee Arthroplasty (RATKA). A prospective survey of patient reported outcome measures (Numeric Rating Scale) will be obtained postoperatively of 72 hours, as well as at the postoperative opioid consumption after 72 hours.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMales or females aged 18-89 years\n\nDiagnosed with knee osteoarthritis requiring surgical intervention\n\nIndicated for unilateral RATKA\n\nExclusion Criteria:\n\nPediatric, pregnant, or incarcerated patients\n\nBMI of more than 45 kg/m2\n\nProlonged opioid use history of \\>5 mg/day for \\>",
+      "endpoints": [
+        "Amount of opioid medications used (measured in morphine milligrams equivalents)",
+        "Patient reported outcome measure (Numeric Rating Scale)"
+      ],
+      "sponsor": "Allegheny Singer Research Institute (also known as Allegheny Health Network Research Institute)",
+      "url": "https://clinicaltrials.gov/study/NCT07430085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05164198",
+      "title": "Multicenter, Prospective Clinical Trial for Optimizing TNF Inhibitor Dose Adjustment in Ankylosing Spondylitis Patients With Stable Disease Activity",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-15",
+      "completion_date": "2024-10-31",
+      "country": "N/A",
+      "enrollment": 448,
+      "brief_summary": "Participants maintaining stable disease activity of Ankylosing Spondylitis (AS) with standard-dose tumor necrosis factor inhibitor (TNFi) treatment will randomly split into two groups: maintaining standard-dose TNFi, versus reduced-dose TNFi. The proportion of participants not underwent flare between the two groups will be analyzed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented diagnosis of Ankylosing spondylitis (AS) and meet the modified New York classification criteria for AS.\n* Subjects maintaining stable disease (Bath Ankylosing Spondylitis Disease Activity Index \\[BASDAI\\] \\< 4) with standard-dose subcutaneous tumor-necrosis factor i",
+      "endpoints": [
+        "Percentage of Participants who did not experience a flare"
+      ],
+      "sponsor": "Hanyang University Seoul Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05164198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02184052",
+      "title": "Meloxicam (MOBIC®) Ampoule Post Marketing Surveillance Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 121,
+      "brief_summary": "Study to determine the safety and efficacy of Mobic® ampoules in the initiation of treatment of painful exacerbations of osteoarthritis, rheumatoid arthritis and other similar painful inflammatory conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Painful acute exacerbations of inflammatory rheumatism (rheumatoid arthritis and ankylosing spondylitis), painful acute exacerbations of osteoarthritis and other similar conditions requiring acute treatment with an anti-inflammatory drug\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "Overall assessment of degree of pain on a 3-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02184052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05974501",
+      "title": "Pre vs. Postoperative Adductor Canal Block for Total Knee Arthroplasty: Prospective Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-09-29",
+      "completion_date": "2024-01-22",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "The purpose of this project is to determine if a change in patient reported pain, nausea and vomiting after total knee arthroplasty can be observed with the substitution of a post operative adductor canal block for a preoperative adductor canal block in the current established peri-operative pain protocol and if these changes lead to a decrease in opioid consumption (in morphine equivalents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1- Patients 18 or older 2 - Patients undergoing primary total knee replacement at the University of Miami Hospital 3 - Patients that have capacity to provide medical consent\n\nExclusion Criteria:\n\n1. All patients under the age of 18\n2. Prisoners, uncontrolled diabetics, increased",
+      "endpoints": [
+        "Pain Status as Measured by Numeric Pain Scale",
+        "Pain Status as Measured by Numeric Pain Scale"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT05974501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03717714",
+      "title": "A Randomized, Double-blind, Active Controlled, 12-week Follow-up, Pilot Study to Evaluate the Safety and Efficacy of Polycan in Combination With Glucosamine for Treatment of Knee Osteoarthritis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-04-01",
+      "completion_date": "2018-05-30",
+      "country": "Vietnam",
+      "enrollment": 90,
+      "brief_summary": "The objectives of this study is to examine the Safety and Eﬃcacy of black yeast beta-glucan produced from Aureobusidium pulluluns SM-2001 (Polycan), in combination with glucosamine in reducing knee osteoarthritis (OA) associated symptoms. This study is a double-blind, randomized, active-controlled trial conducted with 100 OA patients, aged 35-80 years using a formulated product",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of knee osteoarthritis (OA)\n* OA ranging from grade 1 to grade 3 by Kellgren and Lawrence system\n* Agree to participate into the study\n\nExclusion Criteria:\n\n* OA ranging from grade 4 by Kellgren and Lawrence system\n* Allergic or contradicted with oral NSAID",
+      "endpoints": [
+        "Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) changes at 12 weeks in the three groups"
+      ],
+      "sponsor": "Vietstar Biomedical Research",
+      "url": "https://clinicaltrials.gov/study/NCT03717714"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183168",
+      "title": "A Randomized, Open Label, 3-arm Evaluation of Efficacy and Safety of Meloxicam Suppository (15mg Daily) and Tablet (15 mg Daily) Compared to Indomethacin Suppository (50 mg Daily) in Patients With Ankylosing Spondylitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-07-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 192,
+      "brief_summary": "Study to assess the efficacy and safety of meloxicam suppository 15 mg once daily, meloxicam tablet 15 mg once daily compared with Indomethacin suppository (50 mg daily) in patients with ankylosing spondylitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Active ankylosing spondylitis (pain rated \\>= 40 mm on a VAS and increased of at least 30% after nonsteroidal anti-inflammatory drugs (NSAIDs) wash-out)), without peripheral arthritis and inflammatory bowel disease\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "Overall pain during the previous 48 hours assessed on a Visual Analogue Scale (VAS)",
+        "Functional Index of ankylosing spondylitis of Dougados",
+        "Overall assessment of disease activity by the patient on VAS"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05449613",
+      "title": "Efficacy and Safety Evaluation of Acupoint Application in the Treatment of Knee Osteoarthritis Joint Pain: a Randomized, Double-blind, Controlled Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-10-01",
+      "completion_date": "2024-10-01",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "To evaluate the efficacy and safety of acupoint application of Traditional Chinese medicine in the treatment of KOA joint pain through a prospective, randomized, double-blind, placebo-controlled clinical study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Western medicine diagnosed as knee osteoarthritis, clinical classification is primary, and conforms to the TCM syndrome of cold and wet obstruction;\n2. Guidelines for the diagnosis and treatment of osteoarthritis 2018 criteria and Kellgren -Lawrence\\<Ⅲ;\n3. VAS pain score ≥40m",
+      "endpoints": [
+        "Changes in VAS pain score from baseline 4 weeks"
+      ],
+      "sponsor": "Guang'anmen Hospital of China Academy of Chinese Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT05449613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01799213",
+      "title": "Discontinuing NSAIDs in Veterans With Knee Osteoarthritis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-09-02",
+      "completion_date": "2018-10-05",
+      "country": "United States",
+      "enrollment": 490,
+      "brief_summary": "Knee osteoarthritis (OA) is now recognized as a major health problem. It is the number one cause of lower extremity disability and has significant deleterious effects on quality of life. While there are numerous therapies available for knee OA, most have limited efficacy. Of particular concern, is the widespread use of nonsteroidal anti-inflammatory drugs (NSAIDs) for this disorder. Veterans, as a group, are at high risk for both gastrointestinal and cardiovascular NSAID-induced complications. I",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects will include those for whom a discontinuation trial of NSAIDs is most appropriate: 1) Veterans with knee pain despite NSAID use and/or 2) Veterans at relatively higher risk of NSAID toxicity 55-59 as ascertained by meeting 1 or more of the following 4 criteria:\n\n* Answe",
+      "endpoints": [
+        "Primary Endpoint: WOMAC Pain Score (Likert Scale Version) at 4 Weeks"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT01799213"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03540030",
+      "title": "Opioid-Free Shoulder Arthroplasty",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2019-06",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "Purpose of Study:\n\nTo identify and provide a safe, opioid-free treatment pathway for shoulder arthroplasty with a focus on perioperative pain control and postoperative symptoms from treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient undergoing elective primary total shoulder or reverse total shoulder arthroplasty for osteoarthritis, avascular necrosis, cuff tear arthropathy, or inflammatory arthritis etiologies\n2. Age greater than or equal to 50.\n\nExclusion Criteria:\n\n1. Revision total shoulder a",
+      "endpoints": [
+        "Post Op Pain"
+      ],
+      "sponsor": "OrthoCarolina Research Institute, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03540030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00239395",
+      "title": "A Randomised, Open-labelled Study to Compare the Efficacy and Safety of Meloxicam 7.5 mg IM Ampoules Once Daily and Meloxicam 7.5 mg Tablets Administered Orally Once Daily Over a Period of 7 Days in Patients With Osteoarthritis (OA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-07",
+      "completion_date": "2004-12",
+      "country": "China",
+      "enrollment": 168,
+      "brief_summary": "The objective of this trial was to assess the efficacy and safety of 7.5 mg meloxicam i.m. once daily compared with 7.5 mg meloxicam tablets once daily p.o. in patients with osteoarthritis over a time period of 7 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 18 years or above\n* Patients suffering from acute and painful exacerbation of osteoarthritis of the hip or knee.\n\nThe diagnosis must be based on\n\n* clinical signs and symptoms or\n* x-ray diagnosis plus clinical signs and symptoms\n\n  * Assessment of pain on ",
+      "endpoints": [
+        "Pain on active movement by VAS."
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00239395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03964649",
+      "title": "Comparative Analysis of Outcomes Among Rheumatoid Arthritis Patients Treated With Xeljanz Versus Biologic DMARDs Using a United States Healthcare Claims Database",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-01-01",
+      "completion_date": "2020-04-06",
+      "country": "United States",
+      "enrollment": 7308,
+      "brief_summary": "To compare rheumatoid arthritis (RA) patient characteristics, adherence, and costs between patients treated with tofacitinib (IR, XR and combined groups) to patients treated with each of the bDMARDs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least one claim for methotrexate during the variable-length pre-index period.\n* At least one claim for tofacitinib or bDMARDs between 01 February 2016 and 31 July 2019 (the identification period).\n\nExclusion Criteria:\n\n* Patients with claims for other conditions for which b",
+      "endpoints": [
+        "Number of Participants Who Were on Combination Therapy and Monotherapy During 90 Days After Index Date",
+        "Number of Participants for Each of the Most Commonly Used Medications During the 12 Months Post-index Date",
+        "Number of Participants Who Used Opioids and Non-steroidal Anti-inflammatory Drug (NSAIDs) During 12 Months Post Index Period"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03964649"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02456363",
+      "title": "Anti-Tumor Necrosis Factor Therapy In Patients With Ankylosing Spondylitis-A Registry Project",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-11",
+      "completion_date": "2019-12",
+      "country": "Taiwan",
+      "enrollment": 300,
+      "brief_summary": "Assessed using (1) Adalimumab(Humira) and NSAIDs (2) Use only Adalimumab(Humira) treatment of ankylosing spondylitis patient safety and efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years old\n* HLA B27 positive\n* X ray examination\n* Clinical symptoms and physical examination, the following three conditions are subject to at least two:\n\n  i.lower back pain and morning stiffness symptoms persist more than 3 months ii. lumbar activity is restricted i",
+      "endpoints": [
+        "mSASSS (Modified Stoke Ankylosing Spondylitis Spinal Score)"
+      ],
+      "sponsor": "Chung Shan Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02456363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183064",
+      "title": "A Multi-Center, Randomized, Parallel-Group, Open-Label Study to Compare Prescription Non-Steroidal Anti-Inflammatory Drug (NSAID) Changes, Health Care Utilization, Efficacy and Safety of Meloxicam 7.5 mg Versus Usual Care Administration of Prescription NSAIDs in a Managed Healthcare Setting in Patients With Osteoarthritis of the Hip, Knee, Hand or Spine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 1309,
+      "brief_summary": "Study to compare the percentage of treatment successes or failures in patients randomized to meloxicam 7.5 mg vs. usual care prescription NSAIDs. Additionally, health care utilization, efficacy and safety of patients in a managed healthcare setting with osteoarthritis (OA) of the hip, knee, hand or spine will be assessed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females over the age of 18\n* The patient, if female and of reproductive potential (i.e. neither surgically sterilized nor post-menopausal), must be practicing adequate contraception (e.g. intrauterine device, contraceptive pills, Depo-Provera, or implant or double ba",
+      "endpoints": [
+        "Percentage of treatment successes and failures in patients randomized to meloxicam 7.5 mg vs.usual care prescription NSAIDs"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183064"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03473665",
+      "title": "Non-Steroidal Anti-inflammatory Drugs in Axial Spondyloarthritis: a Pilot Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-03-01",
+      "completion_date": "2019-08-02",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This is a 6-week randomized, double-blind trial of 4 different non-steroidal anti-inflammatory drugs in patients with axial spondyloarthritis to compare the change of pain score from baseline at 4 weeks to the change of pain score from baseline at 6 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A clinical diagnosis of ankylosing spondylitis (AS) by treating rheumatologists, or a diagnosis of axial spondyloarthritis (axSpA) with a pelvis MRI with significant bone marrow edema on STIR sequences;\n* Minimum of 18 years old;\n* Are taking NSAIDs on a regular basis for AS o",
+      "endpoints": [
+        "Change of Pain Score"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT03473665"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02182726",
+      "title": "COX-2 Postmarketing Surveillance Study With MOBEC® 15 mg Tablets",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 4760,
+      "brief_summary": "The aim of the study is to investigate\n\n* the indication for MOBEC in a dose of 15 mg per day\n* the treatments patients were receiving before switching to 15 mg MOBEC\n* how treatment with 15 mg is assessed compared with previous treatment\n* how effective and safe treatment with 15 mg MOBEC is considered",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* An indication for a treatment with 15 mg MOBEC of at least four weeks\n\n  * the symptomatic short-term treatment of osteoarthritis\n  * the symptomatic long-term treatment of rheumatoid arthritis (chronic polyarthritis); restriction: the recommended dose for long-term treatment ",
+      "endpoints": [
+        "Nature and incidence of adverse drug reactions (ADR)",
+        "Assessment of efficacy by physician on a 5-point scale",
+        "Assessment of tolerability by physician on a 5-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02182726"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02182739",
+      "title": "Programa de Experiencia Therapéutica Personalizada (Personalized Therapeutic Experience Program)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 13039,
+      "brief_summary": "Evaluation on the amelioration of symptom intensity of the indication and to evaluate drug tolerability.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients according to the physicians medical criteria on the labeled indications for Meloxicam\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "Change in assessment of intensity of pain on a 4-point verbal rating scale",
+        "Assessment of tolerability on a 4-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02182739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02180516",
+      "title": "Safety and Efficacy of Meloxicam (MOBIC) Compared to Other NSAIDs in Approved Therapeutic Dosages and Routes of Administration in an Observational Cohort Study of Patients With Rheumatoid Arthritis, Osteoarthritis, Lumbago, Scapulohumeral Periarthritis, Neck, Shoulder and Arm Syndrome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 9984,
+      "brief_summary": "Study to assess the safety profile of meloxicam by comparing incidence of gastrointestinal adverse events of meloxicam with that of NSAID in the routine daily therapeutic situation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Indications according to the package insert of the prescribed NSAID\n\nExclusion Criteria:\n\n* There is no exclusion criterion, because this Post Marketing Study is an observational study",
+      "endpoints": [
+        "Incidence for adverse event of gastrointestinal disorder"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02180516"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183129",
+      "title": "Open Label Study to Assess the Efficacy and Safety of Meloxicam 7.5mg vs. Diclofenac 100mg SR in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1999-04-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 91,
+      "brief_summary": "To assess the efficacy and safety of meloxicam 7.5mg once daily compared with diclofenac 100mg SR once daily over a treatment period of 8 weeks",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Osteoarthritis of the knee requiring the therapy with non-steroidal anti-inflammatory drugs (NSAIDs)\n\nExclusion Criteria:\n\n\\- none",
+      "endpoints": [
+        "Change from baseline in pain on active movement assessed by a 100 mm visual analogue Scale (VAS)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05644496",
+      "title": "A Randomized Controlled Trial of ZYNRELEF Versus Standard of Care for Pain Management Following Unilateral Total Knee Arthroplasty",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-03-09",
+      "completion_date": "2027-12",
+      "country": "United States",
+      "enrollment": 242,
+      "brief_summary": "The goal of this randomized controlled trial is to compare opioid medication consumption after surgery for patients who have a total knee replacement.\n\nThe main questions it aims to answer are:\n\n* How well does the study drug control pain in the days after surgery?\n* Does the study drug reduce the amount of opioid analgesic consumed after surgery?\n\nParticipants in the study group will undergo a total knee replacement as planned with their surgeon. In addition, be given the study drug, Zynrelef (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients undergoing primary unilateral total knee arthroplasty \\[Current Procedural Terminology Code: 27447\\]\n2. Patients with a diagnosis of primary osteoarthritis \\[ICD-10 codes: M17.0, M17.10, M17.11, M17.12\\]\n3. Varus deformity less than 10 degrees\n4. Flexion contra",
+      "endpoints": [
+        "Total opioid analgesic consumption",
+        "Change in pain assessment scores"
+      ],
+      "sponsor": "Baptist Health South Florida",
+      "url": "https://clinicaltrials.gov/study/NCT05644496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00279747",
+      "title": "A One Year Double-blind Trial to Investigate the Efficacy and Safety of Meloxicam Oral Suspension 0.25mg/kg and 0.125 mg/kg Administered Once Daily in Comparison to Naproxen Oral Suspension 5mg/kg Administered Twice Daily in Children With Juvenile Rheumatoid Arthritis.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-09",
+      "completion_date": "2003-01",
+      "country": "France, Russia, Italy, Austria, Germany, United Kingdom, Belgium",
+      "enrollment": 226,
+      "brief_summary": "A one year double-blind trial to investigate the efficacy and safety of meloxicam oral suspension 0.25 mg/kg and 0.125 mg/kg administered once daily in comparison to naproxen oral suspension 5 mg/kg administered twice daily in children with Juvenile Rheumatoid Arthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female outpatients and inpatients aged 2 to 16 years\n* Diagnosis of idiopathic arthritis of childhood by ILAR criteria:\n\n  * Age of onset less than 16 years\n  * Arthritis in one or more joints defined as swelling, or - if no swelling is present - limitation in range of",
+      "endpoints": [
+        "Response rates according to ACR Ped 30"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00279747"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02405793",
+      "title": "A Phase 2b, Multicenter, Randomized, Single Blind, Fixed Dose, Parallel Group Study to Evaluate the Efficacy and Safety of Meloxicam SoluMatrix® [Test] Capsules and Meloxicam Tablets in Patients With Pain Due to Osteoarthritis of the Knee or Hip",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2015-05",
+      "completion_date": "2015-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of a low dose and a high dose of Meloxicam SoluMatrix® Capsules versus Meloxicam Tablets for the treatment of pain due to osteoarthritis of the knee or hip.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary diagnosis of Functional Class I-III osteoarthritis (OA) of the hip or knee\n* Chronic user of nonsteroidal anti-inflammatory drugs (NSAIDs) and/or acetaminophen for OA pain\n* Discontinued all analgesic therapy at Screening\n* For women of childbearing potential: a woman ",
+      "endpoints": [
+        "Change From Baseline to Week 6 After Trial Entry in Osteoarthritis Pain Measured Using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Score."
+      ],
+      "sponsor": "Iroko Pharmaceuticals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02405793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02403687",
+      "title": "Prospective Analgesic Compound Efficacy (PACE) Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2017-02",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "A 24-week observational prospective study on the efficacy of topical non-steroidal anti-inflammatory drugs for the relief of pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 4.1.1 Primary complaint or clinical findings of arthritis, tendonitis, gout, synovitis, radiculopathy, muscle spasms, migraines, and/or idiopathic pain.\n\n4.1.2 No new pain medications of any kind in the last 4 weeks. 4.1.3 Between the ages of 18-85yrs.\n\nExclusion Criteria:\n\n* ",
+      "endpoints": [
+        "subjective pain control as measured by a 10-point visual analog scale (VAS)."
+      ],
+      "sponsor": "Express Specialty Pharmacy",
+      "url": "https://clinicaltrials.gov/study/NCT02403687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00619177",
+      "title": "Assessing the Impact of MOVALIS on Health Related Quality of Life",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "",
+      "country": "Croatia, Czechia, Russia, Slovakia, Estonia",
+      "enrollment": 3569,
+      "brief_summary": "The objective of the observational study is to examine the effect of MOVALIS (Meloxicam) therapy on Health Related Quality of Life (HRQoL) in the diverse region of Central and Eastern Europe. The Medical Outcomes Study 12 Item Short Form Health Survey version 2 (SF-12v2) will be used as the instrument to measure any change in physical wellbeing (Physical Component Summary, PCS) and mental wellbeing (Mental Component Summary, MCS) of patients following MOVALIS (Meloxicam) therapy.",
+      "eligibility_criteria": "Inclusion Criteria (according to Summary of Product Characteristics (SPC) ):\n\n1\\. Male or female patients aged 18 years or above 2 Females of child bearing age must be using adequate contraception (hormonal or barrier method of birth control) 3. Patients with symptoms of acute, painful osteoarthriti",
+      "endpoints": [
+        "Mean Change in Medical Outcomes Study 12-item Short-Form Health Survey, Version 2 Score From Baseline to Final Visit.",
+        "Mean Change in SF 12 MCS Score From Baseline to Final Final Visit.Medical Outcomes Study 12-Item Short-Form Health Survey, Version 2"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00619177"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00635349",
+      "title": "A Comparison of Tramadol/Acetaminophen Tablets Maintenance Versus NSAID Maintenance After Tramadol/Acetaminophen and NSAID Combination Therapy in Knee Osteoarthritis Patients: Multicenter, Randomized, Open Comparative Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-04",
+      "country": "N/A",
+      "enrollment": 143,
+      "brief_summary": "The purpose of this study is to compare the effectiveness of tramadol hydrochloride 37.5 milligram (mg) plus acetaminophen 325 mg maintenance with that of non-steroidal anti-inflammatory drugs (NSAIDs) maintenance in participants with knee osteoarthritis (a progressive and degenerative joint disease, in which the joints become painful and stiff) whose pain was relieved after the add-on treatment of tramadol hydrochloride to NSAIDs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who have suffered from knee osteoarthritis at least for one year and meet the criteria of American College of Rheumatology\n* Participants who are taking stable dose of meloxicam 7.5 milligram (mg) or 15 mg daily or aceclofenac 100 mg twice a day at least for four ",
+      "endpoints": [
+        "Change From Day 29 in Western Ontario and McMaster Universities Arthritis Index (WOMAC) Total Score at Day 85"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT00635349"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02448199",
+      "title": "Phase III Study Comparing Association of Anti-inflammatory and Anti-rheumatic",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-07",
+      "completion_date": "2016-07",
+      "country": "N/A",
+      "enrollment": 375,
+      "brief_summary": "Phase III Study, double-blind, comparing association of anti-inflammatory and anti-rheumatic in 375 subjects with knee osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signs the Informed Consent Form\n* Age between 40 and 85 years\n* osteoarthritis of the knee according to clinical and radiological criteria of the American College of Rheumatology\n\nExclusion Criteria:\n\n* Cardiovascular disease\n* Serious chronic comorbidity\n* Hypersensitivity to",
+      "endpoints": [
+        "Efficacy measured by decrease in score algofunctional Lequesne index after 12 weeks from the start of treatment"
+      ],
+      "sponsor": "Zodiac Produtos Farmaceuticos S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02448199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03975790",
+      "title": "Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX Using a United States Healthcare Claims Database",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-29",
+      "completion_date": "2018-10-02",
+      "country": "United States",
+      "enrollment": 479,
+      "brief_summary": "To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least one claim for tofacitinib between 01 January 2014 and 31 January 2017 (the identification period).\n* Presence of The International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9 CM) code for RA (in any position) during the one-year pre-index pe",
+      "endpoints": [
+        "Number of Participants as Per Type of Insurance Plan",
+        "Number of Participants in Each Geographic Region",
+        "Number of Participants With Biologic Disease Modifying Antirheumatic Drug (bDMARD) Use During Pre-Index Period"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03975790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00034853",
+      "title": "A 12 Week Double-blind Randomized Trial, With a 12 Week Open-label Extension, to Investigate the Efficacy and Safety of Meloxicam Oral Suspension Administered Once Daily and Naproxen Oral Suspension Administered Twice Daily in Children With Juvenile Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-12",
+      "completion_date": "",
+      "country": "Mexico, Brazil, Ukraine, United States",
+      "enrollment": 180,
+      "brief_summary": "To obtain safety, efficacy, pharmacokinetic and dosing information for meloxicam oral suspension in children with Juvenile Rheumatoid Arthritis (JRA)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of juvenile idiopathic arthritis (JIA) by International League of Associations for Rheumatology (ILAR) criteria; pauciarthritic, extended pauciarthritic, or polyarthritic current course of disease;\n* active arthritis of at least 2 joints\n* at least 2 other abnormal v",
+      "endpoints": [
+        "Responder rate by core set of outcome criteria (Juvenile Rheumatoid Arthritis Pediatric 30): global assessment disease activity; functional disability, number joints arthritis, limited motion; erythrocyte sedimentation rate;"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00034853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04115098",
+      "title": "Individualizing Anti-Inflammatory Medications for Adults With Axial Spondyloarthritis: A Series of N-of 1 Trials",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2020-06-25",
+      "completion_date": "2023-08-11",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to compare selective cyclooxygenase-2 (COX-2) and non selective COX inhibitors with respect to the extent to which disease activity is improved without self reported, unacceptable side effects among individual patients with axial spondyloarthritis (AxSpA),to compare selective COX-2 and nonselective COX inhibitors impact on Health related Quality of Life (HrQOL) and how this relates to changes in disease activity and to conduct proteomic assessment of predictive bioma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet modified New York Classification and/or Assessment of Spondyloarthritis International Society (ASAS) criteria for Classification Criteria for AxSpA\n* Ankylosing Spondylitis Disease Activity Score greater than or equal to 2.1.\n\nExclusion Criteria:\n\n* Changing",
+      "endpoints": [
+        "Change in Disease Activity as Measured by the Ankylosing Spondylitis Disease Activity Score (ASDAS)"
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "url": "https://clinicaltrials.gov/study/NCT04115098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03173027",
+      "title": "The Efficacy of the Traditional Chinese Medicine Fangji Huangqi Pill Combined With Mobic on Active Knee Osteoarthritis: a Study Protocol for a Randomized, Controlled Clinical Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2018-07",
+      "completion_date": "2018-12-31",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "Knee osteoarthritis (KOA) is known as degenerative joint disease, which is the most common form of arthritis and the leading cause of disability, loss of function and pain worldwide. Effective therapy to manage RA is still lack at present. Fangji Huangqi pill (FHP) is a Chinese medicine which has been widely used in treating KOA in China for hundreds of years to relieve pain, reduce swelling and protect the affected joints from further degeneration. However, no certain evidence to show the effec",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the diagnostic criteria for knee osteoarthritis (American College of Rheumatology criteria)\n* Grade 0-3 on the Kellgren-Lawrence grading system\n* No serious medical history\n* No known drug allergies\n* No steroids, glucosamine, chondroitin sulfate, sodium hyaluronate befor",
+      "endpoints": [
+        "change of the visual analogue scale (VAS)",
+        "change of the Western Ontario and McMaster university of orthopedic index",
+        "change of the Lequesne index"
+      ],
+      "sponsor": "Shanghai University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03173027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04421196",
+      "title": "Opioid-free Total Hip Arthroplasty: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2022-09-15",
+      "completion_date": "2023-12-01",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The primary objective of investigators' proposed study is to demonstrate that the following two cohorts undergoing total hip arthroplasty will have equivalent visual analog scale (VAS) scores up to 3 months post-operatively: one that is administered a modified multimodal analgesic pathway without opioids and the other administered the current standard multimodal analgesic pathway used at Johns Hopkins Bayview Hospital (which includes opioids). The secondary objective is to demonstrate that these",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of all ages with end-stage primary hip osteoarthritis.\n\nExclusion Criteria:\n\n* Patients with creatinine clearance between 30 and 60 mL/min\n* Use of any opioid analgesics in the 6 months preceding surgery\n* Revision total hip arthroplasty\n* Patients with liver insuffic",
+      "endpoints": [
+        "Change in post-operative pain assessed by the Visual analog scale (VAS) pain scores"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT04421196"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183116",
+      "title": "Open Study to Access the Efficacy and Safety of Meloxicam 7.5mg in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1998-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "To Access the Efficacy and Safety of Meloxicam 7.5mg once daily over a treatment period of 56 days",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Osteoarthritis of the knee requiring the therapy with non-steroidal anti-inflammatory drugs (NSAIDs)\n\nExclusion Criteria:\n\nnone",
+      "endpoints": [
+        "Change from baseline in pain on active movement assessed by a 100 mm visual analogue scale (100 mm, VAS)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183116"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01750931",
+      "title": "AN OPEN LABEL, BALANCED, RANDOMIZED, TWO-TREATMENT, TWO-PERIOD, TWO-SEQUENCE, CROSSOVER, SINGLE ORAL DOSE, BIOEQUIVALENCE STUDY OF MELOXICAM GSK 15 MG TABLETS MANUFACTURED BY SAVIPHARM J.S.C, VIETNAM AND MOBIC® 15 MG TABLETS OF BOEHRINGER INGELHEIM PHARMA GMBH & CO. KG BINGER STR.173, 5521 INGELHEIM AM RHEIN, GERMANY, IN HEALTHY, ADULT, HUMAN MALE SUBJECTS UNDER FED CONDITION.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-09-12",
+      "completion_date": "2013-10-01",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "It is a randomized, balanced, open label, crossover, two period, two treatment, two sequence, single dose, oral bioequivalence study of Meloxicam GSK 15 mg tablets manufactured by Savipharm J.S.Cc, Vietnam and Mobic® 15 mg tablets of Boehringer Ingelheim Pharma GmbH \\& Co. KG Binger Str.173, 5521 Ingelheim am Rhein, Germany, in healthy, adult, human male subjects under fed condition. It is a pivotal study to demonstrate the bioequivalence of Meloxicam GSK 15 mg tablets manufactured by Savipharm ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male human subjects within the age range of 18 to 45 years inclusive.\n* Heght not less than 50 kg.\n* Normal BMI \\[18.5 to 24.99 kg/m2 inclusive\\].\n* Willingness and capability to provide written informed consent to participate in the study.\n* Free of significant diseas",
+      "endpoints": [
+        "Maximum Drug Concentration During the Selected Dosing Interval (Cmax) After a Single Dose",
+        "Time to Maximum Concentration (T-max)",
+        "The Area Under the Plasma Concentration Versus Time Curve (AUC) After a Single Dose"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01750931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01801735",
+      "title": "A Multicenter, Open-Label, Safety Study of Meloxicam SoluMatrix™ Capsules in Subjects With Osteoarthritis of the Knee or Hip",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-03",
+      "completion_date": "2014-08",
+      "country": "United States",
+      "enrollment": 600,
+      "brief_summary": "The purpose of this study is to evaluate the safety of Meloxicam SoluMatrix Capsules for up to 52 weeks in subjects with pain due to osteoarthritis (OA) of the knee or hip",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is male or female ≥ 40 years of age\n* If a participant in the previous MEL3-12-02 study, completed the study and did not discontinue for lack of efficacy or safety\n* Has a diagnosis of OA of the hip or knee with ongoing knee and/or articular hip pain\n* Chronic user of nonstero",
+      "endpoints": [
+        "Safety of Meloxicam 10 mg as Assessed by the Incidence of Adverse Events From Baseline to Week 52 or Early Termination"
+      ],
+      "sponsor": "Iroko Pharmaceuticals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01801735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04480359",
+      "title": "The Clinical Research of the Traditional Chinese Medicine Bawei Shenqi Pill in the Treatment of the Kidney Yang Deficiency Type of Ankylosing Spondylitis",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2017-10-01",
+      "completion_date": "2020-09-30",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to determine whether Bawei Shenqi Pill is effective in the treatment of active ankylosing spondylitis (AS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Compliance with New York standards revised in 1984\n* Syndrome differentiation of traditional Chinese medicine for deficiency of kidney-yang\n* 18 to 70 years of age, male and female\n* Being able to understand or sign an informed consent form\n\nExclusion Criteria:\n\n* Other spondy",
+      "endpoints": [
+        "BASDAI",
+        "BASFI",
+        "CRP"
+      ],
+      "sponsor": "Shanghai University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04480359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00447759",
+      "title": "Phase 4 Study A Large Streamline Safety Study Designed to Compare the Cardiovascular Safety od Celecoxib Versus Traditional Non-selective NSAID's",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2015-08",
+      "country": "Denmark, United Kingdom, Netherlands",
+      "enrollment": 7297,
+      "brief_summary": "The Standard Care versus Celecoxib Outcome Trial (SCOT) is a large streamline safety study designed to compare the cardiovascular safety of celecoxib versus traditional non-selective Non Steroidal Anti-Inflammatory Drug (NSAID) therapy.Traditional NSAID's are associated with significant morbidity and mortality from gastrointestinal toxicity. Cyclooxygenase 2 (Cox-2)selective agents are associated with reduced upper gastrointestinal toxicity.Traditional NSAID's and Cox-2 inhibitors may also be as",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects 60 years or over Male \\& Female\n* Chronic NSAIDs use for 90 days or more in a 12 month period\n* Subjects who have a licensed indication for chronic non-selective NSAID or Celecoxib.\n* Eligible for treatment with either Celecoxib or alternative traditional non-selectiv",
+      "endpoints": [
+        "compare cardiovascular safety of celecoxib and traditional NSAIDs prescribed for the treatment of arthritis."
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00447759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06657495",
+      "title": "Thử Nghiệm Lâm Sàng Giai Đoạn 2, Ngẫu Nhiên, Mù Đôi, Có Đối Chứng Giả Dược Để Đánh Giá Tính an Toàn Và Hiệu Quả Của Viên Hoàn Cứng TD0015 Trên Bệnh Nhân Thoái Hóa Khớp Gối",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-07-01",
+      "completion_date": "2024-11",
+      "country": "Vietnam",
+      "enrollment": 90,
+      "brief_summary": "Preclinical trials in animal models have suggested that the estimated dose of TD0015 in clinical presents no safety concerns.The investigational product is TD0015 pilulae, which is based on the traditional prescription named \"Độc hoạt tang ký sinh thang\" (Thien Kim Phuong).\n\nThe traditional prescription has the effect of circulating blood in the tendons and bones to bring out evil spirits, blood tonic, kidney tonic to prevent recurrence of diseases and against joint degeneration, joint deformati",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMale or female patients ≥ 18 years old must meet ALL or the following criteria clusters 1,2,6 or 1,3,5,6 or 1,4,5,6 to be enrolled:\n\n1. Knee pain\n2. Bone spurs forming along the edges of the joint, narrowing of joint space in X-ray film (grade I-III) according to Kellgren and La",
+      "endpoints": [
+        "Change from baseline on the Western Ontario and McMaster Universities Osteoarthrities Index) WOMAC to evaluate the level of symptoms",
+        "Change from baseline in Pain Scores on the Visual Analog Scale",
+        "Change in symptoms severity was reported by patient on the Lequesne Index"
+      ],
+      "sponsor": "Sao Thai Duong Joint Stock Company",
+      "url": "https://clinicaltrials.gov/study/NCT06657495"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04725357",
+      "title": "A Randomized Comparison of Meloxicam to Opioids Following Arthroscopic Labrum Repairs of the Shoulder",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-25",
+      "completion_date": "2022-01-25",
+      "country": "United States",
+      "enrollment": 96,
+      "brief_summary": "The opioid epidemic continues to be a major concern, with orthopedic surgeons being among the top prescribers of opioids. Studies evaluating these practices found that opioids are overprescribed, even for common procedures. Patients undergoing arthroscopic labrum repair of the shoulder were found to have an average of 20 pills left over after surgery. Many strategies have been developed to tackle overprescribing and have found success, including no opioid protocols for carpal tunnel release. The",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18\n* Scheduled for arthroscopic labrum repair of the shoulder\n\nExclusion Criteria:\n\n* History of opioid, acetaminophen, NSAID or local anesthetic allergy or intolerance, or contraindications to these medications.\n* Currently on long-term preoperative narcotics\n* Schedule",
+      "endpoints": [
+        "Total Analgesic use",
+        "Postoperative Pain Control"
+      ],
+      "sponsor": "Rothman Institute Orthopaedics",
+      "url": "https://clinicaltrials.gov/study/NCT04725357"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02184065",
+      "title": "Clinical and Therapeutic Evaluation of Meloxicam in Mexican Patients With Rheumatic Diseases",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 22639,
+      "brief_summary": "Observational study to evaluate the efficacy and safety of meloxicam (Mobicox®) in Mexican population with rheumatic diseases",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 12 or older and rheumatologic disease\n\nExclusion Criteria:\n\n* Hypersensitivity to meloxicam\n* Hypersensitivity to other Non-steroidal anti-inflammatory drugs (NSAIDS)\n* History of asthma, angioedema or urticaria secondary to NSAIDS\n* Pregnancy or lactation\n* Recent or c",
+      "endpoints": [
+        "Intensity of symptoms at rest evaluated with a 4-point scale",
+        "Intensity of symptoms during movement evaluated with a 4-point scale",
+        "Medical global evaluation on a 4-point scale"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02184065"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00239382",
+      "title": "A Randomized, Open-labelled Study to Compare the Efficacy and Safety of Meloxicam 15 mg IM Ampoules Once Daily and Meloxicam 15 mg Tablets Administered Orally Once Daily Over a Period of 7 Days in Patients With RA.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-07-01",
+      "completion_date": "2004-12-31",
+      "country": "China",
+      "enrollment": 150,
+      "brief_summary": "The objective of this trial was to assess the efficacy and safety of 15 mg meloxicam i.m. once daily compared with 15 mg meloxicam tablets once daily p.o. in patients with Rheumatoid arthritis over a time period of 7 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 18 years or above\n* The patient has rheumatoid arthritis, as defined by the American Rheumatism Association.\n* Assessment of overall pain (by the patient), after a washout for NSAID of at least 2 days (3 days for oxicams), must exceed 40 mm on a 100 mm visu",
+      "endpoints": [
+        "Patient's assessment of overall pain",
+        "Patient's global assessment of disease activity"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00239382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01430559",
+      "title": "A DOUBLE-BLIND, PLACEBO-CONTROLLED, MULTICENTER, PARALLEL GROUP STUDY OF THE EFFECT OF MELOXICAM IN MAINLAND CHINESE SUBJECTS WITH OSTEOARTHRITIS (OA) OF THE KNEE",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-10-24",
+      "completion_date": "2013-03-27",
+      "country": "China",
+      "enrollment": 408,
+      "brief_summary": "This study is to validate the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) tool in mainland Chinese patients with osteoarthritis of the knee . This study will also evaluate the effects of Mobic versus placebo on reducing the symptoms of osteoarthritis in this population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects are required to meet the following criteria to be eligible for Randomization into this study:\n\n* Male or female Chinese subjects, 18-75 years of age;\n* Subjects must have a diagnosis of OA of the index knee based on American College of Rheumatology criteria with X ray c",
+      "endpoints": [
+        "The Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Total and the 3 Subscales Scores (Pain, Stiffness and Physical Function) at Screening 1 by Using a Paper Worksheet and a Personalized Electronic LogPad System (E-diary)",
+        "WOMAC Total and the 3 Subscales Scores (Pain, Stiffness and Physical Function) at Screening 2 by Using E-diary",
+        "WOMAC Total and the 3 Subscales Scores (Pain, Stiffness and Physical Function) at Baseline by Using E-diary"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01430559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00688545",
+      "title": "SINCERE™: Safety in Idiopathic Arthritis: NSAIDs and Celebrex Evaluation Registry A Prospective Observational Registry Of Patients With Juvenile Idiopathic Arthritis (JIA) Treated With NSAIDs",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2009-04",
+      "completion_date": "2012-01",
+      "country": "United States",
+      "enrollment": 275,
+      "brief_summary": "This multi-center observational Registry will collect long-term safety data on patients treated with celecoxib or non-selective nonsteroidal anti-inflammatory drugs (nsNSAIDs) as used in clinical practice for the treatment of Juvenile Idiopathic Arthritis (JIA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age at least 2 years but less than 18 years; JIA of any of the following subtypes: oligoarthritis, polyarthritis, or stable systemic disease;\n* new treatment (started not more than 6 months prior) with one NSAID (celecoxib or nsNSAID).\n\nExclusion Criteria:\n\n* Patients with the",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "JIA Concomitant Medications"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00688545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03936192",
+      "title": "Parallel-group Active Comparator, Double-blind, Randomized, Phase III Study to Assess Safety, Efficacy of Glucosamine Sulfate Plus Meloxicam vs Glucosamine Sulfate Plus Chondroitin Sulfate Primary Symptomatic Knee Osteoarthritis Treatment",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2019-01",
+      "completion_date": "2021-02",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "A multicenter, randomized, double-blind, parallel-group, placebo-controlled, and active-drug, 12-week, multicenter clinical study. Participants will be randomized 2: 2: 1 to receive the combination of glucosamine sulfate + meloxicam (experimental group), combination of glucosamine sulfate + chondroitin sulfate (active control group) or placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age of 40 to 75 years (both inclusive).\n2. Clinical and radiological diagnosis of primary (idiopathic) knee osteoarthritis according to the American College of Rheumatology (ACR) criteria.\n3. Radiological classification of Kellgren and Lawrence of grades 2 or 3 on X-ray of th",
+      "endpoints": [
+        "To assess whether the efficacy of glucosamine + meloxicam sulfate treatment is superior to the efficacy of treatment with glucosamine sulfate + chondroitin sulfate in improving pain in subjects with symptomatic primary knee OA treated for 4 weeks."
+      ],
+      "sponsor": "Eurofarma Laboratorios S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03936192"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07216586",
+      "title": "Comparing Opioid Consumption Following Total Knee Arthroplasty With The Perioperative Administration of Zynrelef Versus Adductor Canal Block",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-06",
+      "completion_date": "2028-01",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "To compare postoperative MME consumption 72 hours after TKA in patients receiving intraoperative periarticular HTX-011 (Zynrelef) instillation versus adductor canal block.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients \\> 18 years of age\n* Patients undergoing primary, unilateral total knee arthroplasty\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* Individuals under the age of 18\n* Pregnant women\n* Prisoners\n* Adults unable to consent\n* American Society of Anesthesiol",
+      "endpoints": [
+        "Mean Milligram Morphine Equivalents (MME)"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT07216586"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01638962",
+      "title": "The Effect on Knee Joint Loads of Instruction in Analgesic Use Compared With NEUROMUSCULAR Exercise in Patients With Knee Osteoarthritis - A Single Blind RCT",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2016-07",
+      "country": "Denmark",
+      "enrollment": 93,
+      "brief_summary": "The purpose of this study is to compare the effects of neuromuscular exercise and analgesic use on knee joint load, in patients with mild to moderate knee osteoarthritis (OA).\n\nIt is expected that the two groups will receive equipotent pain relieving effect, despite this, the investigators expect a between group difference in knee joint load, and the exercise group will have a reduction in knee joint load.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Compliance with the ACR criteria\n* Medial knee OA defined as \"No osteoarthritis\", \"Doubtful narrowing of joint space and/or possible osteophytes\", \"Definite osteophytes and possible narrowing of joint space\", \"Multiple osteophytes, definite narrowing of joint space and some sc",
+      "endpoints": [
+        "Change from baseline in 1st peak RMS (root mean square) Knee Index."
+      ],
+      "sponsor": "University of Southern Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT01638962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00042068",
+      "title": "A Multi-center, Double-Blind, Randomized, Parallel-Group Trial to Compare the Efficacy and Safety of Three Doses of Meloxicam (7.5, 15, and 22.5 mg) and Placebo in Patients With Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2003-07",
+      "country": "South Korea, Brazil, France, Taiwan, Russia, Italy, Hungary, Ukraine, Germany, Australia, Canada, Argentina, Belgium, United States",
+      "enrollment": 1000,
+      "brief_summary": "A 12-week trial consisting of 5 visits (6 if follow up is needed) to find out how effective and safe three different doses of meloxicam are compared with placebo in Rheumatoid Arthritis. Patient will take one dose of study medication daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than or equal to 18 and less than or equal to 80\n* Diagnosis of Rheumatoid Arthritis for at least six weeks\n* Taking an NSAID\n* If female: using adequate contraception\n* Willingness to stop current NSAID until criteria reached to begin study drug\n* Able to provide ",
+      "endpoints": [
+        "Response according to American College of Rheumatology 20% (ACR20) classification"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00042068"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01787188",
+      "title": "A Phase 3, Multicenter, Randomized, Double-Blind, Double-Dummy, Placebo-Controlled, Fixed-Dose, Parallel-Group, Efficacy, and Safety Study of Meloxicam SoluMatrix™ Capsules in Patients With Pain Due to Osteoarthritis of the Knee or Hip",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2013-10",
+      "country": "United States",
+      "enrollment": 403,
+      "brief_summary": "The purpose of this study is to determine whether Meloxicam \\[Test\\] Capsules are safe and effective for the treatment of osteoarthritis pain of the knee or hip.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary diagnosis of Functional Class I-III OA of the hip or knee\n* Chronic user of nonsteroidal anti-inflammatory drugs (NDAIDs) and/or acetaminophen for OA pain\n* Discontinued all analgesic therapy at Screening\n* For women of child-bearing potential: a woman who is not pregn",
+      "endpoints": [
+        "Change From Baseline to Week 12 After Trial Entry in Osteoarthritis Pain Measured on the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Score."
+      ],
+      "sponsor": "Iroko Pharmaceuticals, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01787188"
+    }
+  ],
+  "timestamp": "2026-03-04T15:42:53.498251",
+  "success": true,
+  "error_message": null
+}

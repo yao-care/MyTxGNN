@@ -1,0 +1,573 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes simplex infectious disease",
+    "query_string": "Acyclovir AND herpes simplex infectious disease"
+  },
+  "data": {
+    "query": "Acyclovir AND herpes simplex infectious disease",
+    "results": [
+      {
+        "pmid": "34030813",
+        "title": "Neonatal Herpes Simplex Virus Disease: Updates and Continued Challenges.",
+        "abstract": "This article defines neonatal herpes simplex virus (HSV) disease and describes the progress over the past 40 years that has revolutionized the management of HSV disease in neonates to improve their outcomes. These advancements include the introduction of acyclovir in the 1980s, polymerase chain reaction (PCR) for the detection of HSV DNA in the 1990s, and recommendations on managing infants born to mothers with active genital lesions. Despite these advancements, however, there remain high morbidity and mortality in affected neonates, with need for continued improvement. Areas of high interest include vaccine development and rapid PCR detection at time of delivery.",
+        "journal": "Clinics in perinatology",
+        "year": "2021",
+        "authors": [
+          "Samies Nicole L",
+          "James Scott H",
+          "Kimberlin David W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34030813/"
+      },
+      {
+        "pmid": "29544668",
+        "title": "Neonatal herpes simplex virus infections.",
+        "abstract": "Neonatal herpes simplex virus (HSV) is an uncommon but devastating infection in the newborn, associated with significant morbidity and mortality. The use of PCR for identification of infected infants and acyclovir for treatment has significantly improved the prognosis for affected infants. The subsequent use of suppressive therapy with oral acyclovir following completion of parenteral treatment of acute disease has further enhanced the long-term prognosis for these infants. This review article will discuss the epidemiology, risk factors and routes of acquisition, clinical presentation, and evaluation of an infant suspected to have the infection, and treatment of proven neonatal HSV disease.",
+        "journal": "Seminars in perinatology",
+        "year": "2018",
+        "authors": [
+          "Pinninti Swetha G",
+          "Kimberlin David W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Cesarean Section",
+          "Delivery, Obstetric",
+          "Disseminated Intravascular Coagulation",
+          "Encephalitis, Herpes Simplex",
+          "Extraction, Obstetrical",
+          "Extraembryonic Membranes",
+          "Female",
+          "Herpes Genitalis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29544668/"
+      },
+      {
+        "pmid": "6359082",
+        "title": "Acyclovir: mechanism of action, pharmacokinetics, safety and clinical applications.",
+        "abstract": "Acyclovir is a new antiviral drug that acts as a specific inhibitor of herpesvirus DNA polymerase. It shows good in vitro activity against herpes simplex and varicella-zoster viruses. The drug may be administered topically to the skin, intravenously, orally, or topically to the eye (only topical and intravenous preparations are currently available). Acyclovir kinetics are described by a two-compartment open model. The drug and its metabolites are excreted by the kidney via glomerular filtration and tubular secretion. Dosage adjustment is required in patients with renal failure. Safety and tolerance studies in animals and humans have shown acyclovir to be very well tolerated. The most important adverse effect is crystalluria and elevated serum creatinine related to bolus intravenous administration. Other reported adverse effects include infusion site inflammation and rash. Topical acyclovir is effective for treating initial genital herpes and mucocutaneous herpes in the compromised host",
+        "journal": "Pharmacotherapy",
+        "year": "1983",
+        "authors": [
+          "Gnann J W",
+          "Barton N H",
+          "Whitley R J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Topical",
+          "Animals",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Clinical Trials as Topic",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6359082/"
+      },
+      {
+        "pmid": "34994811",
+        "title": "Management of herpesvirus reactivations in patients with solid tumours and hematologic malignancies: update of the Guidelines of the Infectious Diseases Working Party (AGIHO) of the German Society for Hematology and Medical Oncology (DGHO) on herpes simplex virus type 1, herpes simplex virus type 2, and varicella zoster virus.",
+        "abstract": "Clinical reactivations of herpes simplex virus or varicella zoster virus occur frequently among patients with malignancies and manifest particularly as herpes simplex stomatitis in patients with acute leukaemia treated with intensive chemotherapy and as herpes zoster in patients with lymphoma or multiple myeloma. In recent years, knowledge on reactivation rates and clinical manifestations has increased for conventional chemotherapeutics as well as for many new antineoplastic agents. This guideline summarizes current evidence on herpesvirus reactivation in patients with solid tumours and hematological malignancies not undergoing allogeneic or autologous hematopoietic stem cell transplantation or other cellular therapy including diagnostic, prophylactic, and therapeutic aspects. Particularly, strategies of risk adapted pharmacological prophylaxis and vaccination are outlined for different patient groups. This guideline updates the guidelines of the Infectious Diseases Working Party (AGIH",
+        "journal": "Annals of hematology",
+        "year": "2022",
+        "authors": [
+          "Henze Larissa",
+          "Buhl Christoph",
+          "Sandherr Michael",
+          "Cornely Oliver A",
+          "Heinz Werner J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Disease Management",
+          "Germany",
+          "Hematologic Neoplasms",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Herpesvirus 3, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34994811/"
+      },
+      {
+        "pmid": "27281837",
+        "title": "Genital Herpes: A Review.",
+        "abstract": "Genital herpes is a common sexually transmitted disease, affecting more than 400 million persons worldwide. It is caused by herpes simplex virus (HSV) and characterized by lifelong infection and periodic reactivation. A visible outbreak consists of single or clustered vesicles on the genitalia, perineum, buttocks, upper thighs, or perianal areas that ulcerate before resolving. Symptoms of primary infection may include malaise, fever, or localized adenopathy. Subsequent outbreaks, caused by reactivation of latent virus, are usually milder. Asymptomatic shedding of transmissible virus is common. Although HSV-1 and HSV-2 are indistinguishable visually, they exhibit differences in behavior that may affect management. Patients with HSV-2 have a higher risk of acquiring human immunodeficiency virus (HIV) infection. Polymerase chain reaction assay is the preferred method of confirming HSV infection in patients with active lesions. Treatment of primary and subsequent outbreaks with nucleoside ",
+        "journal": "American family physician",
+        "year": "2016",
+        "authors": [
+          "Groves Mary Jo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Disease Transmission, Infectious",
+          "Education, Medical, Continuing",
+          "Female",
+          "Herpes Genitalis",
+          "Herpesvirus 2, Human",
+          "Humans",
+          "Pregnancy",
+          "Pregnant People"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27281837/"
+      },
+      {
+        "pmid": "29798750",
+        "title": "[Genital herpes].",
+        "abstract": "Genital herpes is a common sexually transmissible infection (STI) caused by herpes simplex virus (HSV). Clinically, the infection presents with genital ulcers but may also be asymptomatic. The risk of genital HSV infection is associated with increasing number of sex partners, previous infection with another STI and female sex. The cornerstone of treatment is systemic antivirals such as acyclovir. Counselling on transmission and recurrence risks is essential, and psychological distress is often a consequence of the disease.",
+        "journal": "Ugeskrift for laeger",
+        "year": "2018",
+        "authors": [
+          "Vestergaard Tine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Genitalis",
+          "Humans",
+          "Recurrence",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29798750/"
+      },
+      {
+        "pmid": "21496359",
+        "title": "Genital herpes.",
+        "abstract": "Genital herpes is an infection with herpes simplex virus type 1 (HSV-1) or type 2 (HSV-2), and is among the most common sexually transmitted diseases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "Hollier Lisa M",
+          "Straub Heather"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Condoms",
+          "Herpes Genitalis",
+          "Herpesvirus 2, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21496359/"
+      },
+      {
+        "pmid": "35271913",
+        "title": "Phenotypic and genotypic acyclovir resistance surveillance of genital herpes simplex virus 2 in South Africa.",
+        "abstract": "Acyclovir (ACV) is currently included in the syndromic management algorithm for genital ulcer disease in South Africa, and is the recommended first-line treatment for herpes simplex virus 2 (HSV-2). In the majority of cases, HSV-2 resistance to ACV is due to amino acid changes within the viral thymidine kinase (TK). Phenotypic and genotypic ACV resistance surveillance of HSV-2 derived from genital ulcer disease swab specimens was conducted at a primary healthcare facility in Johannesburg between 2018 and 2020. The objectives of this surveillance were to identify ACV resistance-associated mutations and polymorphisms in HSV-2 TK, and to determine the phenotypic ACV resistance profiles of the corresponding clinical HSV-2 isolates. Genotypic analysis of TK from 67 HSV-2 positive genital ulcer swabs revealed 48 specimens with TK mutations, conferring 113 nucleotide changes. No resistance-associated mutations were found, however, we identified nine known natural polymorphisms (R26H, A27T, S2",
+        "journal": "Antiviral research",
+        "year": "2022",
+        "authors": [
+          "Muller Etienne E",
+          "Maseko Dumisile V",
+          "Kularatne Ranmini S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Amino Acids",
+          "Antiviral Agents",
+          "Drug Resistance, Viral",
+          "Female",
+          "Genitalia",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35271913/"
+      },
+      {
+        "pmid": "6194388",
+        "title": "Antiviral drugs 1983.",
+        "abstract": "A number of antiviral compounds are currently available, and several others are of great interest. Trifluridine, idoxuridine, and vidarabine are effective topically in herpes simplex virus keratoconjunctivitis infection. Vidarabine (and presumably acyclovir) is effective in herpes simplex virus encephalitis and in herpes zoster infections in the immunocompromised host. Acyclovir is effective topically, orally, and intravenously in primary herpes genitalis, and the oral and intravenous forms are effective in recurrent herpes genitalis as well. Amantadine and rimantadine are effective prophylactically and therapeutically in influenza A infections. Ribavirin and interferon, although not licensed, are of great interest. Ribavirin may be useful in respiratory syncytial virus infections, and interferon may be of benefit in common colds and related disorders.",
+        "journal": "The Medical clinics of North America",
+        "year": "1983",
+        "authors": [
+          "Douglas R G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Amantadine",
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans",
+          "Idoxuridine",
+          "Influenza, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6194388/"
+      },
+      {
+        "pmid": "32044154",
+        "title": "Prevention and treatment of neonatal herpes simplex virus infection.",
+        "abstract": "Herpes simplex virus (HSV), a member of the Herpesviridae family, is a well-known cause of infections including genital herpes and herpes labialis in the adolescent and adult population. Transmission of HSV infection to an infant during the first 4-6 weeks of life can lead to devastating disease with the potential for poor outcomes. Early diagnosis is imperative when evaluating neonatal HSV infection in order to prevent further disease progression, neurological complications, and even death. In the past 4 decades, significant advancements have been made in the diagnosis, treatment, and prevention of neonatal HSV infection, but there remains room for improvement as efforts continue to reduce the burden of disease caused by this infection.",
+        "journal": "Antiviral research",
+        "year": "2020",
+        "authors": [
+          "Samies Nicole L",
+          "James Scott H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans",
+          "Infectious Disease Transmission, Vertical",
+          "Pregnancy",
+          "Pregnancy Complications, Infectious"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32044154/"
+      },
+      {
+        "pmid": "14993516",
+        "title": "Herpes simplex virus.",
+        "abstract": "",
+        "journal": "Pediatrics in review",
+        "year": "2004",
+        "authors": [
+          "Waggoner-Fountain Linda A",
+          "Grossman Leigh B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adolescent",
+          "Antiviral Agents",
+          "Child",
+          "Herpes Genitalis",
+          "Herpes Labialis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14993516/"
+      },
+      {
+        "pmid": "25677996",
+        "title": "Neonatal herpes simplex virus infection: epidemiology and treatment.",
+        "abstract": "Herpes simplex virus types 1 (HSV-1) and 2 (HSV-2) are highly prevalent viruses capable of establishing lifelong infection. Genital herpes in women of childbearing age represents a major risk for mother-to-child transmission (MTCT) of HSV infection, with primary and first-episode genital HSV infections posing the highest risk. The advent of antiviral therapy with parenteral acyclovir has led to significant improvement in neonatal HSV disease mortality. Further studies are needed to improve the clinician's ability to identify infants at increased risk for HSV infection and prevent MTCT, and to develop novel antiviral agents with increased efficacy in infants with HSV infection.",
+        "journal": "Clinics in perinatology",
+        "year": "2015",
+        "authors": [
+          "James Scott H",
+          "Kimberlin David W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Encephalitis, Herpes Simplex",
+          "Female",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans",
+          "Infant, Newborn",
+          "Infectious Disease Transmission, Vertical",
+          "Keratitis, Herpetic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25677996/"
+      },
+      {
+        "pmid": "15450382",
+        "title": "HSV shedding.",
+        "abstract": "Viral shedding of HSV occurs frequently in infected individuals. HSV is shed asymptomatically from multiple anatomical sites and shedding, like exposure, is a significant risk for transmission. However, the relationship between shedding frequency, viral titer and transmission is unknown. HSV-2 shedding is affected by the site and time since acquisition of infection. The advent of sensitive PCR techniques has shown that the magnitude and frequency of viral shedding is higher than shown previously with viral culture techniques. It has also clearly demonstrated that suppressive (daily) antiviral therapy reduces clinical and subclinical reactivation rates, and has been successfully used in the prevention of recurrent oral and genital HSV infections. A recent study has demonstrated that daily antiviral therapy with valaciclovir can significantly reduce transmission of HSV-2 between discordant heterosexual couples in monogamous relationships.",
+        "journal": "Antiviral research",
+        "year": "2004",
+        "authors": [
+          "Sacks S L",
+          "Griffiths P D",
+          "Corey L",
+          "Cohen C",
+          "Cunningham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "DNA, Viral",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans",
+          "Polymerase Chain Reaction",
+          "Simplexvirus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15450382/"
+      },
+      {
+        "pmid": "19454063",
+        "title": "Genital herpes.",
+        "abstract": "Genital herpes is an infection with herpes simplex virus type 1 (HSV-1) or type 2 (HSV-2), and is among the most common sexually transmitted diseases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2007",
+        "authors": [
+          "Jungmann Eva Maria Agnes"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Herpes Genitalis",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454063/"
+      },
+      {
+        "pmid": "8548189",
+        "title": "Herpes simplex virus resistance to acyclovir: clinical relevance.",
+        "abstract": "Herpes simplex virus (HSV) infections are very common in the general population and can be treated with the nucleoside analogue acyclovir. Acyclovir is initially phosphorylated intracellularly in HSV-infected cells by a viral-specific thymidine kinase to acyclovir-monophosphate. The monophosphate is subsequently di- and triphosphorylated by host cellular kinases to the active form of the drug, which inhibits HSV DNA polymerase and incorporates into the elongating viral DNA and causes chain termination. Acyclovir resistance has been increasingly described and is caused by mutations in either the thymidine kinase or the DNA polymerase genes. These mutations result in decreased or absent HSV thymidine kinase production, altered affinity of the thymidine kinase for acyclovir-triphosphate, or altered affinity of the HSV DNA polymerase for acyclovir-triphosphate. Thymidine kinase deficiency accounts for approximately 95% of acyclovir-resistant isolates. Clinical disease due to acyclovir-resi",
+        "journal": "Infectious agents and disease",
+        "year": "1995",
+        "authors": [
+          "Pottage J C",
+          "Kessler H A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Drug Resistance, Microbial",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans",
+          "Immunocompromised Host",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8548189/"
+      },
+      {
+        "pmid": "28197698",
+        "title": "The alpha-herpesviridae in dermatology : Herpes simplex virus types I and II.",
+        "abstract": "This review on herpes simplex virus type I and type II (HSV‑I, HSV‑II) summarizes recent developments in clinical manifestations and treatment interventions for primary and recurrent orolabial and genital herpes, as well as those regarding vaccination issues. Among the clinical presentations, the relationship between pyogenic granuloma and chronic HSV‑I infection; HSV-related folliculitis; verrucous HSV‑I and HSV‑II lesions; the role of recurrent HSV‑I infection in burning mouth syndrome; HSV‑I and HSV‑II infection of the periareolar area; zosteriform HSV; the \"knife-cut sign\"; and the preferential colonization and infection of preexisting dermatoses by HSV‑I or HSV‑II are discussed. The usual antiviral treatment regimens for primary and recurrent orolabial and genital herpes are compared to short-term and one-day treatment options. New anti-HSV‑I and anti-HSV‑II agents include amenavir, pritelivir, brincidofovir, valomaciclovir, and FV-100. Therapeutic or preventive vaccination agains",
+        "journal": "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete",
+        "year": "2017",
+        "authors": [
+          "El Hayderi L",
+          "Rübben A",
+          "Nikkels A F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Burning Mouth Syndrome",
+          "Herpes Genitalis",
+          "Herpes Labialis",
+          "Herpes Simplex",
+          "Herpesvirus 1, Human",
+          "Herpesvirus 2, Human",
+          "Humans",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28197698/"
+      },
+      {
+        "pmid": "12118847",
+        "title": "Herpes simplex virus infection.",
+        "abstract": "Herpes simplex virus (HSV) infections are among the infections most frequently encountered by humans. Two types of HSV infections have been identified-HSV-1, which usually causes orolabial disease, and HSV-2, which is associated more frequently with genital and newborn infections. Usually, HSV causes mild and self-limited disease of the mouth and lips or at genital sites. However, on occasion, the disease can be life-threatening. Such is the case with neonatal HSV infection and HSV infections of the central nervous system. Furthermore, in the immunocompromised host, severe infection has been encountered and is a source of morbidity. Even in the immunocompetent host, frequent recurrences, particularly those of the genital tract, can be debilitating. Because HSV does cause genital ulcerative disease, it is associated with an increased risk of acquiring a human immunodeficiency virus infection. During the past 2 decades, selective and specific inhibitors of HSV replication have been devel",
+        "journal": "Seminars in pediatric infectious diseases",
+        "year": "2002",
+        "authors": [
+          "Whitley Richard J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Aminopurine",
+          "Acquired Immunodeficiency Syndrome",
+          "Acyclovir",
+          "Administration, Oral",
+          "Adult",
+          "Antiviral Agents",
+          "Central Nervous System Viral Diseases",
+          "Child, Preschool",
+          "Drug Resistance, Viral",
+          "Famciclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12118847/"
+      },
+      {
+        "pmid": "9475829",
+        "title": "Acyclovir- and ganciclovir-induced neurotoxicity.",
+        "abstract": "With increasing use of acyclovir and ganciclovir, primarily due to the increased number of AIDS and transplant patients, further cases of neurologic toxicity will undoubtedly be encountered. Discontinuation or dosage reduction of acyclovir and ganciclovir is necessary to manage neurologic toxicity that is directly attributed to either agent. Renal dysfunction is a known risk factor for acyclovir neurotoxicity, and case reports indicate that renal dysfunction may also be a risk factor for ganciclovir neurotoxicity. Since ganciclovir is structurally related to acyclovir, clinicians should monitor for signs and symptoms of neurotoxicity as they would with acyclovir until the risk factors are more clearly defined. Dosage reduction for both agents and increased monitoring should occur when renal dysfunction is present, to minimize the risk of neurotoxicity and other serious adverse effects. Tables 1 and 2 summarize the recommended dosages of acyclovir and ganciclovir, respectively, in the p",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1998",
+        "authors": [
+          "Ernst M E",
+          "Franey R J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Central Nervous System Diseases",
+          "Cytomegalovirus Infections",
+          "Ganciclovir",
+          "Herpes Simplex",
+          "Herpes Zoster",
+          "Humans",
+          "Renal Insufficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9475829/"
+      },
+      {
+        "pmid": "1327252",
+        "title": "Herpes simplex virus infections.",
+        "abstract": "This review discusses current reports on herpes simplex virus infections as they relate to the use of laboratory testing, infections in the neonate, herpes simplex virus association with human immunodeficiency virus infection, and updating the current therapy and management of genital herpes. Findings over the past year are important in the clinical management of patients with genital herpes. All health care workers who manage patients with genital herpes need to know the limitations of serologic testing. Current information suggests that serologic commercial testing that is most commonly available cannot discriminate between infections caused by herpes simplex virus type 1 and type 2. Laboratory methods still rely on culturing herpes simplex virus in living cells in vitro. However, the availability of monoclonal antibodies allows for rapid assays for the confirmation of cultured herpes simplex virus. In addition, assays have been developed and tested, suggesting that perhaps antigen-d",
+        "journal": "Current opinion in obstetrics & gynecology",
+        "year": "1992",
+        "authors": [
+          "Baker D A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Diagnosis, Differential",
+          "Enzyme-Linked Immunosorbent Assay",
+          "Female",
+          "Fluorescent Antibody Technique",
+          "HIV Infections",
+          "HIV-1",
+          "Herpes Genitalis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1327252/"
+      },
+      {
+        "pmid": "8015861",
+        "title": "Herpes simplex virus infection of the fetus and newborn.",
+        "abstract": "Although infrequent, untreated neonatal herpes results in death in half the cases and neurologic sequelae in three quarters of the survivors. Neonatal infection is usually acquired from maternal genital herpes, which is asymptomatic or unrecognized in 60% to 80% of women. The greatest risk of neonatal infection occurs when the mother has primary genital herpes involving the cervix at delivery, and the infant is premature and delivered with instrumentation (eg, scalp electrodes). More than 80% of neonates with herpes will have typical herpetic lesions of the skin, eye, or mouth, and most of the remainder will have either encephalitis or a sepsis syndrome with pneumonitis and hepatitis and negative bacterial cultures. Because herpes can mimic other neonatal infections, laboratory diagnosis is important, using cultures of the virus from lesions, peripheral blood white cells, or CSF. Treatment with intravenous acyclovir does reduce mortality and neurologic sequelae, but outcome is still gu",
+        "journal": "Pediatric annals",
+        "year": "1994",
+        "authors": [
+          "Overall J C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antibodies, Viral",
+          "Cesarean Section",
+          "Female",
+          "Fetal Diseases",
+          "Herpes Genitalis",
+          "Herpes Simplex",
+          "Humans",
+          "Infant, Newborn",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8015861/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:53:10.915347",
+  "success": true,
+  "error_message": null
+}

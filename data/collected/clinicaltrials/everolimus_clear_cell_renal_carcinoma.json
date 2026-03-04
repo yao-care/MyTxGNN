@@ -1,0 +1,782 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Everolimus",
+    "disease": "clear cell renal carcinoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01510119",
+      "title": "Autophagy Inhibition to Augment Mammilian Target of Rapamycin (mTOR) Inhibition: A Phase I/II Trial of RAD001 and Hydroxychloroquine (HCQ) in Patients With Previously Treated Renal Cell Carcinoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2017-01-05",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This is an open labeled phase I dose escalation study of hydroxychloroquine (HCQ) and RAD001 in patients with advanced renal cell carcinoma followed by a Phase II trial of RAD001 with HCQ. The target population are patients with one to three prior treatments for advanced renal cell carcinoma. In the phase I portion a traditional 3+3 design will be used to determine the maximal tolerated dose and/or recommended phase II dose for HCQ in combination with RAD001 po 10 mg/day.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1 Histological evidence of metastatic renal cell carcinoma that has been previously treated with 1-3 prior regimens\n* 2 Phase I only, any number of prior regimens with evidence of progressive disease\n* 3 Patients must have at least one measurable site of disease according to R",
+      "endpoints": [
+        "PFS"
+      ],
+      "sponsor": "Abramson Cancer Center at Penn Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01510119"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05012371",
+      "title": "A Phase II Study of Lenvatinib Plus Everolimus Versus Cabozantinib in Patients With Metastatic Renal Cell Carcinoma That Progressed on A PD-1/PD-L1 Checkpoint Inhibitor",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-02-16",
+      "completion_date": "2027-10-25",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "This phase II trial compares the effects of lenvatinib given in combination with everolimus to the effects of cabozantinib given alone in treating patients with renal cell cancer (RCC) that has spread to other parts of the body (metastatic) and that got worse on a previous PD-1/PD-L1 checkpoint inhibitor. Lenvatinib, everolimus, and cabozantinib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Patients with histologically or cytologically confirmed metastatic/advanced clear cell RCC, or RCC with a clear cell component, who have received 1 or 2 prior lines of systemic treatment in the advanced or metastatic setting, including a PD-1/PD-L1 checkpoint inhibitor.\n2. Pa",
+      "endpoints": [
+        "Progression-Free Survival (PFS)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05012371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00830895",
+      "title": "A Phase II Study to Evaluate the Efficacy of RAD001 in Metastatic Non-clear Cell Renal Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2012-12",
+      "country": "South Korea",
+      "enrollment": 49,
+      "brief_summary": "To assess the efficacy and safety of RAD001 (everolimus) in non-clear cell renal cell carcinoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed non-clear cell renal cell carcinoma (papillary, chromophobe, collecting duct, oncocytic subtype, sarcomatoid mainly)\n2. Subjects with metastatic legion\n3. Subjects aged 18 years or older\n4. Subjects whose ECOG performance status is 0 ",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00830895"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02208128",
+      "title": "Molecular Determinants for Therapy Response on Renal Cell Carcinoma",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-05",
+      "completion_date": "2018-02",
+      "country": "Germany",
+      "enrollment": 4,
+      "brief_summary": "Aim of the scientific analysis is to find biological factors (biomarkers) allowing a prediction of disease progression and a better choice of therapy. After diagnosis the kidney and the tumor will be removed by standard surgery followed by drug therapy. Within surgery remaining tumor tissue will be used for the scientific analysis. In case of disease progression during the drug treatment the drug therapy will be changed. Before therapy change a small tissue sample will be collected for molecular",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMinimum Age: 18 Years Maximum Age: no maximum age\n\n* metastatic lesions easy of access for puncture for specimen storage\n* histological subtype: clear-cell renal cancer\n* no contraindications against systemic therapy\n* indication for systemic therapy given\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "Time to disease progression in third line therapy"
+      ],
+      "sponsor": "Heidelberg University",
+      "url": "https://clinicaltrials.gov/study/NCT02208128"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02915783",
+      "title": "A Single-arm, Multicenter, Phase 2 Trial to Evaluate Efficacy and Safety of Lenvatinib in Combination With Everolimus in Subjects With Unresectable Advanced or Metastatic Non Clear Cell Renal Cell Carcinoma (nccRCC) Who Have Not Received Any Chemotherapy for Advanced Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-02-20",
+      "completion_date": "2021-11-02",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "This is a single-arm, multicenter, Phase 2 study of lenvatinib in combination with everolimus in participants with unresectable advanced or metastatic non clear cell renal cell carcinoma (nccRCC) who have not received any chemotherapy for advanced disease. The primary objective of the study is to evaluate the objective response rate (ORR). This study consists of three phases: a Pretreatment Phase (Screening and Baseline Periods), a Treatment Phase (starting Cycle 1, Day 1), and a Posttreatment P",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females age ≥18 years at the time of informed consent form (ICF)\n* Participants with histologically confirmed non clear cell renal cell carcinoma (nccRCC) who have not received any chemotherapy for advanced disease. Participants must have one of the following subtypes",
+      "endpoints": [
+        "Objective Response Rate (ORR)"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02915783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01793636",
+      "title": "An Open Label, Randomised Phase II Study, Comparing AZD2014 Versus Everolimus With Advanced Metastatic Renal Cancer and Progression on VEGF Targeted Therapy",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-02",
+      "completion_date": "2015-11",
+      "country": "United Kingdom",
+      "enrollment": 49,
+      "brief_summary": "When kidney cancer spreads beyond the kidney, it is known as metastatic kidney cancer. This is very difficult to treat and almost all patients will die of their disease within 2 years of the diagnosis.\n\nSunitinib and other related drugs (e.g. pazopanib) have become standard therapy for untreated patients with metastatic kidney cancer. They target a growth factor known as VEGF which is important in treating kidney cancer. Although the results with this drug are impressive, patients develop resist",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histopathologically confirmed renal cell carcinoma with measurable metastases on CT/MRI imaging. Only a component of clear cell is required.\n2. Radiological progressive disease on VEGF targeted therapy (RECIST v1.1). Exposure to more than one line of VEGF targeted therapy is ",
+      "endpoints": [
+        "To investigate if single agent AZD2014 delays progression free survival compared to everolimus using RESIST v1.1"
+      ],
+      "sponsor": "Queen Mary University of London",
+      "url": "https://clinicaltrials.gov/study/NCT01793636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01582009",
+      "title": "A Phase I/II Study of the HDAC Inhibitor LBH-589 in Combination With the mTOR Inhibitor Everolimus (RAD001) in Metastatic Renal Cell Carcinoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-03",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "RATIONALE: Panobinostat and everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth or by blocking blood flow to the tumor.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of giving panobinostat together with everolimus and to see how well they work in treating patients with metastatic or unresectable renal cell cancer that does not respond to treatment with sunitinib malate or sorafenib tosylate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed metastatic or unresectable renal cell carcinoma\n* Predominant clear cell component is required\n* Patients must have metastatic disease which has progressed on or within 6 months of stopping treatment with VEGFR receptor tyrosine kina",
+      "endpoints": [
+        "Progression-free Survival (PFS)",
+        "Number of Participants With Clinical Response"
+      ],
+      "sponsor": "Roswell Park Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01582009"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01668784",
+      "title": "A Randomized, Open-Label, Phase 3 Study of Nivolumab (BMS-936558) vs. Everolimus in Subjects With Advanced or Metastatic Clear-Cell Renal Cell Carcinoma Who Have Received Prior Anti-Angiogenic Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-10-09",
+      "completion_date": "2021-07-19",
+      "country": "Brazil, Spain, Russia, Canada, Sweden, Belgium, Norway, Germany, Australia, Romania, Israel, Finland, Greece, Austria, Ireland, Poland, Argentina, Japan, United States, France, Czechia, Italy, Denmark, United Kingdom",
+      "enrollment": 821,
+      "brief_summary": "The purpose of the study is to compare the clinical benefit, as measured by duration of overall survival, of Nivolumab vs. Everolimus in subjects with advanced or metastatic clear-cell renal cell carcinoma who have received prior anti-angiogenic therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men \\& women ≥18 years of age\n* Histologic confirmation of renal cell carcinoma (RCC) with clear-cell component\n* Advanced/metastatic RCC\n* Measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 criteria\n* Received 1 or 2 prior anti-angiogenic therapy",
+      "endpoints": [
+        "Overall Survival (OS) at Primary Endpoint"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT01668784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01185366",
+      "title": "Everolimus Versus Sunitinib Therapy in Patients With Advanced Non-clear Cell Renal Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-08",
+      "completion_date": "2019-09-09",
+      "country": "United States",
+      "enrollment": 73,
+      "brief_summary": "The goal of this clinical research study is to compare the effectiveness of Afinitor (everolimus) and Sutent (sunitinib) for the treatment of advanced renal cell carcinoma (kidney cancer). The safety of each treatment will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have advanced non-clear cell RCC, which may include but is not limited to the following subtypes: papillary I or II, chromophobe, collecting duct carcinoma (CDC), translocation or unclassified. Patients with conventional-type renal cell carcinoma who have \\>/= 2",
+      "endpoints": [
+        "Progression Free Survival (PFS) for First Line Medication",
+        "Progression Free Survival (PFS) for Crossover Medication"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01185366"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01784978",
+      "title": "Randomized ph. II Study to Explore Efficacy and Feasibility of Upfront Rotations Between SUNitinib and Everolimus vs Sequential Treatment of 1st lIne Sunitinib & 2nd Line EverolimuS Until Progression in Pats Met. Clear Cell Renal Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-02-12",
+      "completion_date": "2017-05-08",
+      "country": "Spain, France, Greece",
+      "enrollment": 41,
+      "brief_summary": "The objective of this study is to assess the progression-free survival, of patients who receive rotations of sunitinib and everolimus versus patients who receive sunitinib as a first line treatment followed by everolimus when progression occurs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Renal cell carcinoma with a predominant clear cell component confirmed by histology.\n* Advanced disease: metastatic AND, not suitable for resection\n* Male or female, aged 18 years or older\n* ECOG (Eastern Cooperative Oncology Group) Performance Status of 0 or 1\n* Low or interm",
+      "endpoints": [
+        "Progression-free survival (PFS) rate 1 year"
+      ],
+      "sponsor": "Associació per a la Recerca Oncologica, Spain",
+      "url": "https://clinicaltrials.gov/study/NCT01784978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00323739",
+      "title": "Phase II Trial of Bevacizumab(Avastin) and RAD001(Everolimus)in the Treatment of Patients With Advanced Clear Cell Renal Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This phase II trial will evaluate the combination of bevacizumab + RAD001 in patients with metastatic renal cell carcinoma. In this trial the investigators will evaluate this combination in patients previously untreated with any anti-angiogenesis agent and patients who have previously received one prior regimen containing an anti-angiogenesis agent.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically documented metastatic or unresectable locally recurrent clear cell renal carcinoma.\n* In patients with mixed histologies, the clear cell component must comprise ≥ 75% of the cancer\n* Previous nephrectomy is required with the following exceptions:\n* Primary tumor",
+      "endpoints": [
+        "Progression Free Survival (PFS), the Length of Time, in Months, That Patients Were Alive From Their First Date of Protocol Treatment Until Worsening of Their Disease"
+      ],
+      "sponsor": "SCRI Development Innovations, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00323739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02811861",
+      "title": "A Multicenter, Open-label, Randomized, Phase 3 Trial to Compare the Efficacy and Safety of Lenvatinib in Combination With Everolimus or Pembrolizumab Versus Sunitinib Alone in First-Line Treatment of Subjects With Advanced Renal Cell Carcinoma (CLEAR)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-10-13",
+      "completion_date": "2027-03-31",
+      "country": "Spain, Switzerland, Russia, Canada, Belgium, Germany, Australia, Israel, South Korea, Greece, Austria, Ireland, Poland, Japan, United States, France, Czechia, Italy, United Kingdom, Netherlands",
+      "enrollment": 1069,
+      "brief_summary": "The primary purpose of the study is to demonstrate that lenvatinib in combination with everolimus (Arm A) or pembrolizumab (Arm B) is superior compared to sunitinib alone (Arm C) in improving progression-free survival (PFS) (by independent imaging review \\[IIR\\] using Response Evaluation Criteria in Solid Tumors \\[RECIST 1.1\\]) as first-line treatment in participants with advanced renal cell carcinoma (RCC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histological or cytological confirmation of RCC with a clear-cell component (original tissue diagnosis of RCC is acceptable).\n2. Documented evidence of advanced RCC.\n3. At least 1 measurable target lesion according to RECIST 1.1 meeting the following criteria:\n\n   * Lymph nod",
+      "endpoints": [
+        "Progression-free Survival (PFS) by Independent Imaging Review (IIR)"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02811861"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06730672",
+      "title": "Efficacy and Safety of Voronib Combined With Everolimus After Immunotherapy Failure in Advanced Renal Carcinoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-12-30",
+      "completion_date": "2028-12-27",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "This single-arm exploratory study included patients with renal clear cell carcinoma who had previously received one type of immunotherapy and failed. The specific regimen was Voronib 200mg PO.QD combined with everolimus 5mg QD. 80 patients were planned to continue treatment until PD, toxicity became intolerable, patient withdrawal was informed, or medication had to be discontinued. Collect patient medication information and disease efficacy evaluation, adverse reactions. In this study, blood sam",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clear cell carcinoma of the kidney is confirmed by pathology (histology or cytology);\n2. Have received systemic anti-tumor therapy with no more than 2 targeted drugs (excluding mTOR inhibitors) and 1 immune checkpoint inhibitor and failed treatment;\n3. Not less than 3 weeks a",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06730672"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01108445",
+      "title": "A Randomized Phase II Study of Afinitor (RAD001) vs. Sutent (Sunitinib) in Patients With Metastatic Non-Clear Cell Renal Cell Carcinoma (ASPEN)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2015-04",
+      "country": "United Kingdom, Canada, United States",
+      "enrollment": 131,
+      "brief_summary": "To compare the anti-tumor activity of everolimus and sunitinib in subjects with metastatic renal cell carcinoma (mRCC) with non-clear cell pathology.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed advanced Renal Cell Carcinoma (RCC), with non-clear cell pathology.\n2. RCC tumor tissue available for correlative sciences, from either primary or metastatic site or both.\n3. At the time of screening, at least 4 weeks since prior palliative radiation ",
+      "endpoints": [
+        "Anti-tumor Activity as Measured by Median Progression Free Survival Time"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT01108445"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00719264",
+      "title": "A Randomized, Open-label, Multi-center Phase II Study to Compare Bevacizumab Plus RAD001 Versus Interferon Alfa-2a Plus Bevacizumab for the First-line Treatment of Patients With Metastatic Clear Cell Carcinoma of the Kidney",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11-12",
+      "completion_date": "2013-04-15",
+      "country": "Brazil, Singapore, Spain, Switzerland, Russia, Belgium, Taiwan, Turkey (Türkiye), Hungary, Germany, Thailand, South Korea, Hong Kong, South Africa, Egypt, United States, France, Czechia, Italy, United Kingdom, Netherlands",
+      "enrollment": 365,
+      "brief_summary": "To estimate the difference in efficacy and safety of bevacizumab and RAD001 compared to bevacizumab and interferon alfa-2a for first-line treatment of patients with metastatic carcinoma of the kidney.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with metastatic renal cell carcinoma\n2. Patients with at least one measurable lesion\n3. Patients with progressive metastatic renal cell carcinoma\n4. Patients who had a prior partial or complete nephrectomy\n5. Patients with a Karnofsky Performance Status ≥70%.\n6. Adeq",
+      "endpoints": [
+        "Progression-free Survival (PFS) of Participants Who Received RAD001 Plus Bevacizumab Versus Participants Who Received IFN Plus Bevacizumab"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00719264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01408004",
+      "title": "A Randomized Phase II Study to Explore the Efficacy and Feasibility of Upfront Bi-monthly Rotations Between Everolimus and Pazopanib in Patients With Advanced or Metastatic Clear Cell Renal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-04",
+      "country": "Netherlands",
+      "enrollment": 101,
+      "brief_summary": "In this study will be examined whether alternating treatment between two classes of drugs (TKI's and m-TOR inhibitors) postpones or prevents drug resistance in patients with renal cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must provide written informed consent prior to performance of study-specific procedures or assessments, and must be willing to comply with treatment and follow-up.\n* Age ≥ 18 years.\n* Histologically confirmed diagnosis of progressive metastatic clear cell renal cell c",
+      "endpoints": [
+        "Progression free survival"
+      ],
+      "sponsor": "Netherlands Working Group on Immunotherapy of Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT01408004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00688753",
+      "title": "A Single Arm, Multicenter Phase II Trial of RAD001 as Monotherapy in the Treatment of Advanced Papillary Renal Cell Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2014-10",
+      "country": "France, Spain, Italy, Germany, Poland, Belgium",
+      "enrollment": 92,
+      "brief_summary": "To evaluate the preliminary efficacy and safety of RAD001 as monotherapy for first-line treatment of patients with metastatic papillary carcinoma of the kidney.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. ≥ 18 years old.\n2. Patients with metastatic papillary renal cell carcinoma, type I or II.\n3. Patients with at least one measurable lesion.\n4. Patients with an ECOG Performance Status ≤1.\n5. Adequate bone marrow function.\n6. Adequate liver function.\n7. Adequate renal function.",
+      "endpoints": [
+        "To Evaluate Efficacy of RAD001 as Monotherapy for the Treatment of Papillary Renal Cancer. Efficacy is Defined as the Percentage of Patients Progression-free at 6 Months."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00688753"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01399918",
+      "title": "A Phase II Trial of Everolimus and Bevacizumab in Advanced Non-Clear Cell Renal Cell Carcinoma (RCC)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2020-12-28",
+      "country": "United States",
+      "enrollment": 57,
+      "brief_summary": "The purpose of this study is to find out what effects, good and/or bad the combination of two medications, everolimus and bevacizumab, has on kidney cancer. In this clinical trial we are now testing these medications in combination. We think that both together might work better that either drug alone. Importantly, both of these drugs together have been tested in patients with a different type of kidney cancer and patients tolerated the combination well.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced renal cell carcinoma of non-clear cell histology, histologically with papillary features confirmed by MSKCC pathology. Availability of additional tissue for correlative studies is NOT in inclusion requirement.\n* Evidence of unidimensionally measurable disease per RECI",
+      "endpoints": [
+        "To Evaluate the Efficacy of Combining Everolimus and Bevacizumab in Patients With Advanced RCC of Non-clear Cell Histology"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01399918"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03091465",
+      "title": "Validation of the International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) Prognostic Classification for Targeted Therapies (TKI/mTOR Inhibitors) in Second Line After First Line Treatment With Pazopanib",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-12-20",
+      "completion_date": "2017-04-17",
+      "country": "Spain",
+      "enrollment": 530,
+      "brief_summary": "This is a nation-wide retrospective observational study which will be performed in 50 centres in Spain, geographically representative of all regions, with at least 5 patients treated with first-line pazopanib for mRCC in daily clinical practice since April 2011 (date of approval of pazopanib in Spain), January 2016.\n\nPazopanib is one of the standard tyrosine-kinase inhibitors (TKI) for the first-line treatment of metastatic renal cell carcinoma. In our previous SPAZO study, the Spanish Oncologic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients with confirmed mRCC. All histologies are allowed.\n* 2\\. Patients who have received pazopanib in their centre as first TKI for metastatic renal carcinoma in daily clinical practice since its approval in Spain until January 2016 (previous non-TKI therapies such as s",
+      "endpoints": [
+        "IMDC prognostic"
+      ],
+      "sponsor": "Spanish Oncology Genito-Urinary Group",
+      "url": "https://clinicaltrials.gov/study/NCT03091465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03163667",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Study Comparing CB-839 in Combination With Everolimus (CBE) vs. Placebo With Everolimus (PboE) in Patients With Advanced or Metastatic Renal Cell Carcinoma (RCC)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-09-06",
+      "completion_date": "2020-06-01",
+      "country": "United States",
+      "enrollment": 69,
+      "brief_summary": "The primary objective of this study is to compare the progression-free survival (PFS) of participants treated with telaglenastat and everolimus versus placebo and everolimus for advanced or metastatic clear cell renal cell carcinoma (ccRCC) previously treated with the following:\n\n* At least 2 lines of therapy, including at least 1 vascular endothelial growth factor tyrosine kinase inhibitor (VEGF TKI)\n* Radiographic progression of metastatic RCC must have occurred (per investigator assessment) o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Karnofsky Performance Score (KPS) ≥ 70%\n* Estimated Life Expectancy of at least 3 months\n* Documented histological or cytological diagnosis of renal cell carcinoma with a clear-cell component.\n* Measurable Disease per Response Evaluation Criteria in Solid Tumors (RECIST) 1.1 a",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Calithera Biosciences, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT03163667"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01715935",
+      "title": "A Comparison of Blood and Tissue Biomarkers Before and After Nephrectomy in the First-line Setting With Everolimus in Patients With Locally Advanced or Metastatic Renal Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2016-04",
+      "country": "France",
+      "enrollment": 25,
+      "brief_summary": "Disease and Stage: Metastatic and locally advanced clear cell renal carcinoma\n\nAn open-label, exploratory, single-arm, multicenter trial.\n\nEverolimus will be administered orally, once daily, for 6 weeks followed by a 1-week rest period prior to nephrectomy.\n\nTwo to four weeks after surgery, everolimus will be reintroduced only for metastatic patients until disease progression, unacceptable toxicity, withdrawal of patient consent, or other stopping rules are met.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced RCC or a resectable renal tumor and at least one measurable inoperable metastasis (at least 1 cm), in whom anti-angiogenic therapy is indicated\n* Patients without target lesions, with bone metastasis\n* Histologically confirmed clear cells RCC and possibility of adequa",
+      "endpoints": [
+        "Objective clinical benefit"
+      ],
+      "sponsor": "Association Pour La Recherche des Thérapeutiques Innovantes en Cancérologie",
+      "url": "https://clinicaltrials.gov/study/NCT01715935"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01198158",
+      "title": "Randomized Phase III Trial Comparing Everolimus Versus Everolimus Plus Bevacizumab for Advanced Renal Cell Carcinoma Progressing After Treatment With Tyrosine Kinase Inhibitors",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-09-15",
+      "completion_date": "2017-12-16",
+      "country": "United States",
+      "enrollment": 77,
+      "brief_summary": "This randomized phase III trial studies giving everolimus together with bevacizumab to see how well it works compared to everolimus alone in treating patients with advanced kidney cancer that progressed after first-line therapy. Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as bevacizumab, can interfere with tumor growth by blocking the ability of tumor cells to grow and spread. Everolimus and bevacizumab may als",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Renal cell carcinoma with some component of clear cell histology\n* Metastatic or unresectable disease\n* Must have been treated with at least 1 prior VEGFR tyrosine kinase inhibitor treatment and have progressed or have been intolerant to treatment\n* No prior systemic therapy w",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01198158"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04895748",
+      "title": "A Phase I/Ib, Open-label, Multi-center Study of DFF332 as a Single Agent and in Combination With Everolimus or IO Agents in Patients With Advanced/Relapsed ccRCC and Other Malignancies With HIF2α Stabilizing Mutations",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2021-11-30",
+      "completion_date": "2026-02-13",
+      "country": "France, Singapore, Spain, Czechia, Italy, Japan, United States",
+      "enrollment": 40,
+      "brief_summary": "This was a first in human study of DFF332, a small molecule that targets a protein called HIF2α. By acting on HIF2α, DFF332 may be able to stop the growth of certain types of cancer. DFF332 was planned to be tested at different doses as single agent and in combination with Everolimus (RAD001, an mTOR inhibitor), and also in combination with Spartalizumab (PDR001, an anti-PD1) plus Taminadenant (NIR178, an adenosine A2A receptor antagonist), in patients with advanced clear cell renal cell carcino",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female ≥ 18 years of age For Arm 1B: Male and female of age ≥ 12 years of age\n2. Histologically confirmed and documented clear cell renal cell carcinoma (ccRCC). Disease must be measurable as determined by RECIST v1.1.\n\n   For Arm 1B: histologically confirmed and doc",
+      "endpoints": [
+        "Incidence and severity of adverse events (AEs) and serious adverse events (SAEs)",
+        "Number of participants with dose interruptions and dose reductions",
+        "Dose intensity for DFF332 for dose escalation and expansion"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT04895748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02724020",
+      "title": "A Phase 2, Open-label Study to Evaluate the Efficacy and Safety of Single-Agent MLN0128 and the Combination of MLN0128+MLN1117 Compared With Everolimus in the Treatment of Adult Patients With Advanced or Metastatic Clear-Cell Renal Cell Carcinoma That Has Progressed on Vascular Endothelial Growth Factor-Targeted Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-06-30",
+      "completion_date": "2020-10-13",
+      "country": "France, Spain, Czechia, Italy, United Kingdom, Poland, Canada, United States",
+      "enrollment": 96,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of single-agent MLN0128 and the combination of MLN0128 + MLN1117 compared with everolimus in the treatment of participants with metastatic clear-cell renal cell carcinoma (mccRCC) that have progressed on vascular endothelial growth factor (VEGF)-targeted therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants aged 18 years or older.\n2. Histologically confirmed renal cell carcinoma (RCC) with a clear-cell component.\n3. Evidence that the RCC is advanced or metastatic.\n4. Radiologic evidence of PD (according to RECIST Version 1.1) either during or within 6",
+      "endpoints": [
+        "Progression-Free Survival (PFS)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT02724020"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01107509",
+      "title": "A Pilot Study of Neo-Adjuvant Everolimus in Patients With Advanced Renal Cell Carcinoma Undergoing Definitive Therapy With Radical Nephrectomy, or Cytoreductive Nephrectomy - Analysis of Serum and Tissue Biomarkers",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-10-01",
+      "completion_date": "2017-10-01",
+      "country": "Canada",
+      "enrollment": 20,
+      "brief_summary": "This study will gather data on potential biomarkers in the treatment of advanced renal cell carcinoma (kidney cancer) and investigate their use as indicators of disease response. The results could eventually enable doctors to match levels of therapy to levels of biomarker on an individual basis and to increase the chance of disease response in patients. This study will also test a new paradigm in the treatment approach of advanced kidney cancer by using the drug everolimus in a neo-adjuvant sett",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years of age and capable of giving informed consent\n* Radiological evidence of RCC consisting of: CT scan with stage T2, T3, T3a, T3b, T4, or any stage T with N1/ 2 and/ or metastatic disease\n* Having a nephrectomy and willing to have a kidney biopsy\n* ECOG score 0",
+      "endpoints": [
+        "Response of primary tumor and metastases (if applicable) to everolimus in terms of tumor size and appearance (RECIST imaging response criteria) as determined by CT or MRI"
+      ],
+      "sponsor": "St. Joseph's Healthcare Hamilton",
+      "url": "https://clinicaltrials.gov/study/NCT01107509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05124431",
+      "title": "Single Arm, Single Center, Prospective, Phase II Clinical Study of Anlotinib Hydrochloride Capsule Combined With Everolimus in the First-line Treatment of Advanced Non Clear Cell Renal Cell Carcinoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-12",
+      "completion_date": "2024-12",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "This is a single-centre, single-arm, phase 2 study to evaluate the efficacy and safety of anlotinib hydrochloride plus everolimus in patients with advanced non clear renal cell carcinoma as first-line treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients volunteered to participate in this study and signed informed consent, with good compliance\n2. Over 18 years\n3. ECOG PS:0-1,Life expectancy of more than 6 months\n4. Patients with histologically confirmed advanced non-clear renal cell carcinoma. advanced disease is def",
+      "endpoints": [
+        "Objective Response Rate(ORR)"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT05124431"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00331409",
+      "title": "A Phase II Study of the Mammalian Target of Rapamycin (mTOR) Inhibitor RAD001 in Combination With Imatinib Mesylate in Patients With Previously Treated Advanced Renal Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "RATIONALE: Everolimus and imatinib mesylate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Everolimus may also block blood flow to the tumor. Giving everolimus together with imatinib mesylate may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well giving everolimus together with imatinib mesylate works in treating patients with metastatic or unresectable kidney cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed clear cell kidney cancer, meeting 1 of the following criteria:\n\n  * Measurable metastatic disease\n  * Locally unresectable disease\n* No history of known brain metastases that have not been adequately treated with radiotherapy and/or surgery\n* Must",
+      "endpoints": [
+        "Progression-free Survival at 3 Months",
+        "Overall Number of Participants Who Achieve a Response Rate (Complete Response, Partial Response, and Stable Disease) at 3 Months"
+      ],
+      "sponsor": "OHSU Knight Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00331409"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05188118",
+      "title": "A Pilot, Rapid Sequencing of First Line Cabozantinib, Ipilimumab and Nivolumab, and Lenvatinib and Everolimus in Patients with Metastatic or Unresectable Clear Cell Renal Cell Carcinoma",
+      "phase": "EARLY_PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2023-02-15",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is a pilot, single-center, single-arm study where 20 patients with metastatic or unresectable clear cell renal cell carcinoma will receive same sequential treatment strategy (Cabozantinib for 12 weeks, then proceed with Ipilimumab plus Nivolumab immunotherapy x4 over 12 weeks, then subsequent therapies depending on treatment response for another 12 weeks \\[Nivolumab for CR/PR/SD, Cabozantinib or Lenvatinib/Everolimus for PROG\\]).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years at the time of study entry\n* Capable of understanding and complying with the protocol requirements and must have signed the informed consent document\n* ECOG performance status of 0 or 1 or KPS of at least 80%\n* Life expectancy ≥ 12 weeks\n* Histologically confirm",
+      "endpoints": [
+        "Best Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT05188118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04510688",
+      "title": "Study of the Effectiveness and Safety of Cabozantinib Treatment in Patients With Advanced Renal Cell Carcinoma (RCC) Under a Spanish Managed Access Program and Real-world Practice",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-10-23",
+      "completion_date": "2022-06-30",
+      "country": "Spain",
+      "enrollment": 275,
+      "brief_summary": "RCC (Renal Cell Carcinoma) is the most common form of kidney cancer, accounting for 2-3% of all adult malignancies and for 90% of all kidney cancers. The incidence of RCC has steadily increased over the past two decades, showing a plateau in recent years. Many patients with RCC remain asymptomatic until late disease stages and other patients have disease at diagnosis (metastatic RCC or mRCC).\n\nRecently, the tyrosine kinase inhibitor (TKI) cabozantinib was approved as a first-line therapy for pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or females, aged 18 years or older.\n2. Diagnosis of advanced Renal Cell Carcinoma (RCC)\n3. Alive or dead patients at study initiation who received at least one dose of cabozantinib for the treatment of RCC between October 2016 and 1 st June 2019.\n4. Alive patients who ag",
+      "endpoints": [
+        "Effectiveness: Progression-Free Survival",
+        "Incidence of Adverse Reactions",
+        "Incidence of dose reductions"
+      ],
+      "sponsor": "Spanish Oncology Genito-Urinary Group",
+      "url": "https://clinicaltrials.gov/study/NCT04510688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06317298",
+      "title": "Efficacy and Safety of Fruquintinib in Combination With Everolimus as Second Line Therapy of ccRCC Patients Progressed Post Immunotherapy and Tyrosine Kinase Inhibitors Therapy: a Prospective, Single Arm, Phase II Clinical Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-02-21",
+      "completion_date": "2025-12-01",
+      "country": "China",
+      "enrollment": 36,
+      "brief_summary": "This study will assess the efficacy and safety profile of fruquintinib in combination with everolimus as second line therapy of clear cell renal cell carcinoma patients who progressed after immunotherapy and tyrosine kinase inhibitor.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 and ≤75 years of age\n2. Able to Sign informed consent form independently.\n3. Stage IV clear cell renal cell carcinoma.\n4. Subjects must have progressed after IO-TKI therapy.\n5. Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1.\n6. Subjects must ",
+      "endpoints": [
+        "MTD (Maximum Tolerated Dose)",
+        "ORR (Objective Response Rate)"
+      ],
+      "sponsor": "Peking University First Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06317298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02071862",
+      "title": "Ph1 Study of the Safety, PK, and PDn of Escalating Oral Doses of the Glutaminase Inhibitor CB-839, as a Single Agent and in Combination With Standard Chemotherapy in Patients With Advanced and/or Treatment-Refractory Solid Tumors",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-02",
+      "completion_date": "2019-03",
+      "country": "United States",
+      "enrollment": 210,
+      "brief_summary": "Many tumor cells, in contrast to normal cells, have been shown to require the amino acid glutamine to produce energy for growth and survival. To exploit the dependence of tumors on glutamine, CB-839, a potent and selective inhibitor of the first enzyme in glutamine utilization, glutaminase, will be tested in this Phase 1 study in patients with solid tumors.\n\nThis study is an open-label Phase 1 evaluation of CB-839 in patients with advanced solid tumors. The study will be conducted in 2 parts. Pa",
+      "eligibility_criteria": "Inclusion criteria\n\n* Advanced malignancy that is relapsed and/or refractory to all available therapies that will confer clinical benefit. Newly diagnosed patients who refuse standard treatment regimens are also eligible\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1\n* Life Ex",
+      "endpoints": [
+        "Safety and tolerability of CB-839: Incidence of adverse events"
+      ],
+      "sponsor": "Calithera Biosciences, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT02071862"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02089334",
+      "title": "A Multicenter, Open-label, Phase 1b/2 Study to Evaluate the Safety and Efficacy of RX-0201 in Combination With Everolimus to Treat Subjects With Advanced Renal Cell Carcinoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-08",
+      "completion_date": "2018-05-17",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to determine the maximum tolerated dose of RX-0201, up to a target dose of 250 mg/m\\^2/day, when given in combination with everolimus (Stage 1), and to assess the safety and efficacy of RX-0201 plus everolimus, in subjects with metastatic renal cell cancer (Stage 2).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females ≥ 18 years of age at screening\n* Histological or cytological diagnosis of renal cell cancer with a clear-cell component\n* Measurable or evaluable disease defined by Response Evaluation Criteria for Solid Tumors (RECIST) ver. 1.1\n* Must have received at least ",
+      "endpoints": [
+        "Incidence of Dose-limiting Toxicities (DLTs) (Stage 1)",
+        "Progression Free Survival (Stage 2)"
+      ],
+      "sponsor": "Rexahn Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02089334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06211790",
+      "title": "Proteomic Guided First-line Precision Treatment of Renal Clear Cell Carcinoma: a Single-center, Prospective, Phase II Umbrella Clinical Study",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-01-16",
+      "completion_date": "2026-12-30",
+      "country": "China",
+      "enrollment": 66,
+      "brief_summary": "Based on different subtypes, subjects will be placed in one of three treatment groups to explore individual efficacy and safety of various treatment regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients who meet the following criteria are eligible to participate in the trial:\n\n* Male or female aged 18 and ≤ 75;\n* Histologically or cytologically confirmed unresectable or metastatic clear cell carcinoma of the kidney, which may contain sarcomatoid lesions;\n* At least one",
+      "endpoints": [
+        "Objective Response Rate"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT06211790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02187302",
+      "title": "A Randomized, Phase 2 Study to Assess the Safety and Efficacy of CRLX101 in Combination With Bevacizumab in Patients With Metastatic Renal Cell Carcinoma (RCC) Versus Standard of Care (SOC) (Investigator's Choice)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2017-01",
+      "country": "South Korea, United States",
+      "enrollment": 115,
+      "brief_summary": "This study to evaluate treatment in patients with metastatic renal cell carcinoma (RCC) which has progressed through 2 to 3 prior lines of therapy, with the investigational drug CRLX101 in combination with bevacizumab compared to treatment with a standard of care therapy. The study will compare which treatment resulted in longer time before progression of the RCC. Patients will be treated and followed for progression of their disease on average for up to 6 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have histologically confirmed renal cell carcinoma of any pathologic subtype.\n* Must have unresectable metastatic disease, and have tumor(s) present that is (are) evaluable by the RECIST, v1.1; may have spinal-associated metastases but must have concluded dexamethasone th",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Lumos Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02187302"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05363072",
+      "title": "Registry-based Non-interventional Analysis of Advanced/Metastatic Renal Carcinoma Treatment Patterns and Outcomes in the Hospital District of Southwest Finland.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-05-02",
+      "completion_date": "2022-06-08",
+      "country": "Finland",
+      "enrollment": 1112,
+      "brief_summary": "The purpose of the study is to find out how patients with advanced kidney cancer have been treated in the hospital district of Southwest Finland over time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor the characteristic group:\n\n* Diagnosis of renal cell carcinoma (International Classification of Diseases 10th revision \\[ICD\\]-10:64) during 01 January 2010 and 31 December 2021\n\nFor the mRCC group:\n\n* ICD-10 diagnosis code for metastasis (C77\\*-C79\\*), or\n* American Joint C",
+      "endpoints": [
+        "Number of Participants According to Co-Diagnoses Before Index",
+        "Number of Participants According to Co-Diagnoses After Index",
+        "Body Mass Index (BMI)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT05363072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01453595",
+      "title": "A Phase 1b/2 Study of BEZ235 in Patients With Advanced Renal Cell Carcinoma (RCC)",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-10",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This study tests a new medication for treatment of kidney cancer, called BEZ235. This medication works by blocking several mechanisms that the cancer needs to grow and survive. By blocking these mechanisms, the medication can thus suppress further growth of the cancer, possibly kill cancer cells. Older kidney cancer medications (such as temsirolimus \\[Torisel®\\] or everolimus \\[Afinitor®\\]) typically only block one mechanism in cancer cells, so the investigators think that BEZ235 may work even b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced renal cell carcinoma. Advanced disease is defined as unresectable, locally recurrent disease or metastatic disease. This must by confirmed by MSKCC pathology review with the following requirements:\n* Phase 1b: Any histologic subtype of RCC.\n* Phase 2: clear cell type ",
+      "endpoints": [
+        "Objective Response Rate (ORR)"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01453595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392821",
+      "title": "Phase I/II Trial of Sorafenib (Nexavar) and RAD001 (Everolimus)in the Treatment of Patients With Advanced Clear Cell Renal Cell Carcinoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2013-10",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "This study is being done in 2 parts. The first part is to determine the dose of RAD001 that should be used in combination with sorafenib. The second part is using the above determined dose of RAD001 in combination with sorafenib to see how effective these 2 drugs are against advanced kidney cancer.\n\nParticipants will be asked to keep a pill diary.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically documented metastatic or unresectable locally recurrent clear cell renal carcinoma\n* Previous removal of kidney except if the size of the tumor was less than 5 cm or there was extensive liver or bone metastasis\n* May have had no prior chemotherapy or up to 1 prior t",
+      "endpoints": [
+        "Overall Response Rate (ORR) of Patients Treated at MTD/Phase II Dose Level"
+      ],
+      "sponsor": "SCRI Development Innovations, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00392821"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01120249",
+      "title": "EVEREST: EVErolimus for Renal Cancer Ensuing Surgical Therapy, A Phase III Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-04-01",
+      "completion_date": "2025-09-01",
+      "country": "Puerto Rico, United States",
+      "enrollment": 1545,
+      "brief_summary": "RATIONALE: Everolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth or by blocking blood flow to the tumor.\n\nPURPOSE: This phase III trial is studying everolimus to see how well it works in treating patients with kidney cancer who have undergone surgery.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed renal cell carcinoma\n\n  * Clear cell or non-clear cell allowed\n\n    * No disease of the collecting duct or medullary carcinoma\n  * Considered pathologically either intermediate high-risk or very high-risk disease\n  * No history of",
+      "endpoints": [
+        "5-year Recurrence-free Survival (RFS)"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT01120249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01217931",
+      "title": "Sequential Two-agent Assessment in Renal Cell Carcinoma Therapy: The START Trial",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2011-01-19",
+      "completion_date": "2028-01-31",
+      "country": "United States",
+      "enrollment": 180,
+      "brief_summary": "The goal of this clinical research study is to compare 6 different 2-drug \"sequences\" of everolimus, bevacizumab, or pazopanib to learn how they may affect metastatic kidney cancer. For the 2-drug sequence, participants will receive 1 of these drugs and may start taking another of these drugs after that. Researchers will also study the safety of these 2-drug sequences.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed metastatic RCC with a clear cell component.\n2. Prior radical or partial nephrectomy required. Patients whose primary tumor was treated with cryoablation or radiofrequency ablation would also be eligible.\n3. Measurable disease\n4. Age \\>/= 18 years. Because no dosing ",
+      "endpoints": [
+        "Time to Overall Treatment Failure"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01217931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01034631",
+      "title": "Phase I/II Study of BNC105P in Combination With Everolimus or Following Everolimus For Progressive Metastatic Clear Cell Renal Cell Carcinoma Following Prior Tyrosine Kinase Inhibitors",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2016-12",
+      "country": "Australia, Singapore, United States",
+      "enrollment": 154,
+      "brief_summary": "The purpose of this study is to determine whether BNC105P in combination with/following everolimus is effective in the treatment of progressive metastatic clear cell renal cell carcinoma following prior tyrosine kinase inhibitors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological or cytological proof of component (any percent) of clear cell RCC (renal cell carcinoma).\n* Metastatic or locally advanced unresectable RCC. NOTE: Prior nephrectomy is not mandatory.\n* Progressive disease after 1-2 prior VEGF-directed tyrosine kinase inhibitors (T",
+      "endpoints": [
+        "Phase I: Maximum Tolerated Dose of BNC105P in Combination With Everolimus.",
+        "Phase I: Toxicities of BNC105P in Combination With Everolimus.",
+        "Phase II: 6-month Progression Free Survival (PFS) With the Addition of BNC105P to Everolimus."
+      ],
+      "sponsor": "Hoosier Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT01034631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02133742",
+      "title": "A PHASE 1B, OPEN LABEL, DOSE FINDING STUDY TO EVALUATE SAFETY, PHARMACOKINETICS AND PHARMACODYNAMICS OF AXITINIB (AG-013736) IN COMBINATION WITH PEMBROLIZUMAB (MK-3475) IN PATIENTS WITH ADVANCED RENAL CELL CANCER",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-09-16",
+      "completion_date": "2019-07-03",
+      "country": "United States",
+      "enrollment": 52,
+      "brief_summary": "Despite substantial improvements of patients outcome in advanced RCC, durable and complete response is uncommon. The majority of patients eventually develop resistance and exhibit disease progression. Combining a PD-1 inhibitor, which has shown single-agent efficacy with axitinib may provide additional clinical benefit compared to axitinib alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed advanced RCC with predominantly clear-cell subtype with primary tumor resected\n* At least one measureable lesion as defined by Response Evaluation Criteria In Solid Tumors (RECIST) version 1.1.\n* Eastern Cooperative Oncology Group perf",
+      "endpoints": [
+        "Number of Participants With Dose-Limiting Toxicities (DLT): Dose Finding Phase"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02133742"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01714765",
+      "title": "A Phase I Study Investigating Everolimus and Dovitinib in Metastatic Clear Cell Renal Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2012-10",
+      "country": "United Kingdom",
+      "enrollment": 17,
+      "brief_summary": "When kidney cancer spreads beyond the kidney, it is known as metastatic kidney cancer. This is very difficult to treat and almost all patients will die of their disease within 3 years.\n\nSunitinib has become standard therapy for untreated patients with metastatic clear cell renal (kidney) cancer. It targets a growth factor known as VEGF which is important in treating renal cancer. Although the results with this drug are impressive, patients develop resistance to the drug, relapse and die of renal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histopathologically confirmed clear cell renal carcinoma with measurable metastases on CT/MRI imaging (only a component of clear cell histology is required).\n2. Patients must have progression on or after stopping treatment with a VEGF receptor tyrosine kinase inhibitor (sunit",
+      "endpoints": [
+        "To determine and establish the safety profile of everolimus and dovitinib and define the dose limiting toxicity (DLT)",
+        "To determine the maximum tolerated dose (MTD) of everolimus and dovitinib given orally in patients with VEGF resistant renal cancer"
+      ],
+      "sponsor": "Queen Mary University of London",
+      "url": "https://clinicaltrials.gov/study/NCT01714765"
+    }
+  ],
+  "timestamp": "2026-03-04T16:37:54.069057",
+  "success": true,
+  "error_message": null
+}

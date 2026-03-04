@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Thiotepa",
+    "drugbank_id": "DB04572"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 3
+  },
+  "indications": [
+    {
+      "disease": "non-papillary transitional cell carcinoma of the bladder",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "ovarian clear cell adenocarcinoma",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 2,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "Hodgkins lymphoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 39,
+      "phase4": 1
+    },
+    {
+      "disease": "non-Hodgkin lymphoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 40,
+      "phase4": 0
+    },
+    {
+      "disease": "lymphosarcoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 7,
+      "phase2": 36,
+      "phase4": 0
+    }
+  ]
+}

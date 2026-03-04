@@ -1,0 +1,609 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "asthma",
+    "query_string": "Budesonide AND asthma"
+  },
+  "data": {
+    "query": "Budesonide AND asthma",
+    "results": [
+      {
+        "pmid": "29768149",
+        "title": "Inhaled Combined Budesonide-Formoterol as Needed in Mild Asthma.",
+        "abstract": "In patients with mild asthma, as-needed use of an inhaled glucocorticoid plus a fast-acting β2-agonist may be an alternative to conventional treatment strategies.",
+        "journal": "The New England journal of medicine",
+        "year": "2018",
+        "authors": [
+          "O'Byrne Paul M",
+          "FitzGerald J Mark",
+          "Bateman Eric D",
+          "Barnes Peter J",
+          "Zhong Nanshan"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Child",
+          "Double-Blind Method",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29768149/"
+      },
+      {
+        "pmid": "37422796",
+        "title": "Effects of omalizumab combined with budesonide formoterol on clinical efficacy, pulmonary function, immune function, and adverse reactions in children with moderate and severe allergic asthma.",
+        "abstract": "To evaluate the clinical efficacy and safety of combining omalizumab with budesonide formoterol to treat children with moderate and severe allergic asthma, and investigate the effect of this combination therapy on pulmonary and immune functions.",
+        "journal": "Allergologia et immunopathologia",
+        "year": "2023",
+        "authors": [
+          "Chen Fuzhe",
+          "Liang Lei",
+          "Chu Fang Fang",
+          "Lu Changlong",
+          "Xu Chongyu"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Budesonide",
+          "Omalizumab",
+          "Bronchodilator Agents",
+          "Formoterol Fumarate",
+          "Ethanolamines",
+          "Asthma",
+          "Budesonide, Formoterol Fumarate Drug Combination",
+          "Administration, Inhalation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37422796/"
+      },
+      {
+        "pmid": "32237004",
+        "title": "What have we learnt about asthma control from trials of budesonide/formoterol as maintenance and reliever?",
+        "abstract": "Despite improvements in medications, devices and understanding of the disease, about half of all asthma patients worldwide remain inadequately controlled, suggesting the need for a new approach to asthma management. Poor adherence to prescribed maintenance therapy and over-reliance on SABA reliever medication is a common cause of inadequate control. This article reviews published data from 6- to 12-month, double-blind, RCT and open-label real-world studies involving budesonide/formoterol maintenance and reliever therapy (MART) and relevant comparator approaches to asthma management, and considers how these compare in achieving the treatment goals described in guidelines. The data confirm that patients with asthma treated with budesonide/formoterol MART achieved the same or better asthma symptom control compared with ICS/LABA plus SABA regimens at similar or higher ICS doses, with consistently lower rates of exacerbations and considerably lower annual requirement for oral corticosteroid",
+        "journal": "Respirology (Carlton, Vic.)",
+        "year": "2020",
+        "authors": [
+          "Jenkins Christine R",
+          "Bateman Eric D",
+          "Sears Malcolm R",
+          "O'Byrne Paul M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Clinical Trials as Topic",
+          "Female",
+          "Formoterol Fumarate",
+          "Humans",
+          "Maintenance Chemotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32237004/"
+      },
+      {
+        "pmid": "37003355",
+        "title": "Albuterol-Budesonide Pressurized Metered Dose Inhaler in Patients With Mild-to-Moderate Asthma: Results of the DENALI Double-Blind Randomized Controlled Trial.",
+        "abstract": "In the phase 3 MANDALA trial, as-needed albuterol-budesonide pressurized metered-dose inhaler significantly reduced severe exacerbation risk vs as-needed albuterol in patients with moderate-to-severe asthma receiving inhaled corticosteroid-containing maintenance therapy. This study (DENALI) was conducted to address the US Food and Drug Administration combination rule, which requires a combination product to demonstrate that each component contributes to its efficacy.",
+        "journal": "Chest",
+        "year": "2023",
+        "authors": [
+          "Chipps Bradley E",
+          "Israel Elliot",
+          "Beasley Richard",
+          "Panettieri Reynold A",
+          "Albers Frank C"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Budesonide",
+          "Formoterol Fumarate",
+          "Metered Dose Inhalers",
+          "Administration, Inhalation",
+          "Asthma",
+          "Albuterol",
+          "Double-Blind Method",
+          "Bronchodilator Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37003355/"
+      },
+      {
+        "pmid": "11687183",
+        "title": "Budesonide for chronic asthma in children and adults.",
+        "abstract": "Inhaled budesonide is a widely used inhaled corticosteroid for asthma.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2001",
+        "authors": [
+          "Adams N",
+          "Bestall J",
+          "Jones P W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Child",
+          "Chronic Disease",
+          "Humans",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11687183/"
+      },
+      {
+        "pmid": "32843176",
+        "title": "Comparing the efficacy and safety of formoterol/budesonide pMDI versus its mono-components and other LABA/ICS in patients with asthma.",
+        "abstract": "Pressurised metered dose inhalers (pMDIs) are effective drug delivery devices prescribed in obstructive airway diseases due to their convenience, portability, ease of enabling multiple doses in a single formulation, and storage in any orientation. For the management of asthma, the fixed-dose combination of a long-acting β2-agonist (LABA) and an inhaled corticosteroid (ICS) has been recommended by Global Initiative for Asthma guideline as a preferred treatment option for patients who are uncontrolled with only ICS doses. One of the available LABA/ICS combinations is the formoterol/budesonide (FB).",
+        "journal": "Respiratory medicine",
+        "year": "2020",
+        "authors": [
+          "Mukhopadhyay Aniruddha",
+          "Waked Mirna",
+          "Gogtay Jaideep",
+          "Gaur Vaibhav"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-2 Receptor Agonists",
+          "Age Factors",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Budesonide",
+          "Budesonide, Formoterol Fumarate Drug Combination",
+          "Child",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32843176/"
+      },
+      {
+        "pmid": "16162021",
+        "title": "Budesonide inhalation suspension for the treatment of asthma in infants and children.",
+        "abstract": "On the basis of the well recognised role of inflammation in the pathogenesis of asthma, anti-inflammatory therapy, in the form of inhaled corticosteroids, has become the mainstay of treatment in patients with persistent asthma. Budesonide inhalation suspension (BIS) is a nonhalogenated corticosteroid with a high ratio of local anti-inflammatory activity to systemic activity. Furthermore, BIS is approved in >70 countries for the maintenance treatment of bronchial asthma in both paediatric and adult patients (approval is limited to paediatric patients in the US and France).Randomised, double-blind, placebo-controlled trials conducted in >1000 children have demonstrated the efficacy of BIS in children with persistent asthma of varying degrees of severity. In children frequently hospitalised with uncontrolled asthma, initiation of BIS therapy can reduce the need for emergency intervention. Moreover, limited data suggest that BIS is effective for the treatment of acute exacerbations of asth",
+        "journal": "Drugs",
+        "year": "2005",
+        "authors": [
+          "Berger William E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Infant",
+          "Nebulizers and Vaporizers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16162021/"
+      },
+      {
+        "pmid": "10172461",
+        "title": "Budesonide. An appraisal of the basis of its pharmacoeconomic and quality-of-life benefits in asthma.",
+        "abstract": "Budesonide is an inhaled corticosteroid that is used prophylactically to reduce the underlying inflammation and consequent airways narrowing associated with asthma. Widespread clinical experience has shown that inhaled budesonide is effective and well tolerated, and its use is well established in the management of adult and childhood asthma. In developed countries, asthma is a major health problem and consumes a large proportion of healthcare resources. Both the prevalence and severity of asthma appear to be increasing. Additionally, asthma-related mortality has been reported to have gradually increased since the mid- to late-1970s in many countries, possibly due to undertreatment and/or suboptimal management of the disease. Current guidelines recommend a shift away from initial treatment with oral bronchodilators, such as theophylline, or regular use of beta 2-agonist inhalers, toward the earlier use of more expensive inhalers containing corticosteroids. Inhaled bronchodilators are st",
+        "journal": "PharmacoEconomics",
+        "year": "1995",
+        "authors": [
+          "Davis R",
+          "McTavish D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Cost-Benefit Analysis",
+          "Economics, Pharmaceutical",
+          "Humans",
+          "Pregnenediones",
+          "Prospective Studies",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10172461/"
+      },
+      {
+        "pmid": "40593770",
+        "title": "Budesonide-incorporated inhalable lipid nanoparticles for antiTSLP nanobody mRNA delivery to treat steroid-resistant asthma.",
+        "abstract": "Asthma exacerbations and steroid resistance occur due to disruption of the airway epithelium, limiting the effectiveness of corticosteroids. Although monoclonal antibodies have progressively emerged as adjunctive therapy for steroid-resistant asthma, there remains a clinical need for targeted anti-inflammatory therapies with better efficacy and fewer off-target effects. Here, we propose the ASCEND (Alternative Steroids Co-delivering with mRNA Encoding Nanobodies) approach, which utilizes inhalable lipid nanoparticles formulated with budesonide (iLNPBUD5) to deliver mRNA encoding a thymic stromal lymphopoietin nanobody (mnbTSLP) for the treatment of steroid-resistant asthma. Upon nebulization, mnbTSLP-iLNPBUD5 targets the lungs, enhancing antiTSLP nanobody production while delivering budesonide. This combined therapy reduces airway inflammation, remodeling, and hyperresponsiveness in murine models. Additionally, mnbTSLP restores the sensitivity of steroid-resistant asthmatic mice to bud",
+        "journal": "Nature communications",
+        "year": "2025",
+        "authors": [
+          "Huang Jia",
+          "Bai Xin",
+          "Stewart William",
+          "Xu Xiaoyang",
+          "Zhang Xue-Qing"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Animals",
+          "Budesonide",
+          "Mice",
+          "Nanoparticles",
+          "RNA, Messenger",
+          "Cytokines",
+          "Drug Resistance",
+          "Thymic Stromal Lymphopoietin",
+          "Single-Domain Antibodies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40593770/"
+      },
+      {
+        "pmid": "38527278",
+        "title": "Expert panel consensus recommendations on the utilization of nebulized budesonide for managing asthma and COPD in both stable and exacerbation stages in Thailand.",
+        "abstract": "This study investigated the utilization of nebulized budesonide for acute asthma and COPD exacerbations as well as for maintenance therapy in adults.",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2024",
+        "authors": [
+          "Wongsurakiat Phunsup",
+          "Rattanawongpaibul Akrawat",
+          "Limsukon Atikun",
+          "Chiewchalermsri Chirawat",
+          "Wiwatcharagoses Kittiyaporn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Budesonide",
+          "Humans",
+          "Asthma",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Thailand",
+          "Nebulizers and Vaporizers",
+          "Administration, Inhalation",
+          "Bronchodilator Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38527278/"
+      },
+      {
+        "pmid": "15046373",
+        "title": "The role of budesonide in adults and children with mild-to-moderate persistent asthma.",
+        "abstract": "Asthma, a chronic and potentially life-threatening disease of the airways, affects patients of all ages. Inhaled corticosteroids (ICS) are the recommended first-line therapy for patients with persistent asthma. To review the clinical efficacy and tolerability data available on budesonide in the treatment of mild-to-moderate persistent asthma, a MEDLINE database search was performed for 1996-2003 using the following key words: budesonide, inhaled corticosteroid, efficacy, safety, systemic. When administered once or twice daily, budesonide effectively controls asthma in children, adolescents, and adults with mild-to-moderate asthma. Budesonide can be delivered effectively via a dry powder inhaler (Pulmicort Turbuhaler) in patients aged > or = 6 years or as an inhalation suspension (Pulmicort Respules) in children as young as 12 months. With over 20 years' clinical exposure, budesonide has been demonstrated to be well tolerated in the treatment of chronic asthma in patients as young as 12",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2004",
+        "authors": [
+          "Banov Charles H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Bone Density",
+          "Budesonide",
+          "Cataract",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15046373/"
+      },
+      {
+        "pmid": "27381656",
+        "title": "Molecular and cellular mechanisms underlying the therapeutic effects of budesonide in asthma.",
+        "abstract": "Inhaled glucocorticoids are the mainstay of asthma treatment. Indeed, such therapeutic agents effectively interfere with many pathogenic circuits underpinning asthma. Among these drugs, during the last decades budesonide has been probably the most used molecule in both experimental studies and clinical practice. Therefore, a large body of evidence clearly shows that budesonide, either alone or in combination with long-acting bronchodilators, provides a successful control of asthma in many patients ranging throughout the overall spectrum of disease severity. These excellent therapeutic properties of budesonide basically depend on its molecular mechanisms of action, capable of inhibiting within the airways the activity of multiple immune-inflammatory and structural cells involved in asthma pathobiology.",
+        "journal": "Pulmonary pharmacology & therapeutics",
+        "year": "2016",
+        "authors": [
+          "Pelaia Girolamo",
+          "Vatrella Alessandro",
+          "Busceti Maria Teresa",
+          "Fabiano Francesco",
+          "Terracciano Rosa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Glucocorticoids",
+          "Humans",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27381656/"
+      },
+      {
+        "pmid": "38889078",
+        "title": "Effect of aerosol inhalation of budesonide on respiratory symptoms and inflammatory factors in patients with asthma: a meta-analysis.",
+        "abstract": "To review the efficacy, symptoms, inflammatory factors and pulmonary function of different doses of budesonide aerosol inhalation in the treatment of patients with asthma.",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2024",
+        "authors": [
+          "Xu Jinquan",
+          "Kou Luxin",
+          "Bai Dongchao",
+          "Lian Peng",
+          "Na Song"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Budesonide",
+          "Asthma",
+          "Administration, Inhalation",
+          "Bronchodilator Agents",
+          "Aerosols",
+          "Tumor Necrosis Factor-alpha",
+          "Respiratory Function Tests",
+          "Interleukin-4",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38889078/"
+      },
+      {
+        "pmid": "17983258",
+        "title": "Budesonide/formoterol: a review of its use as maintenance and reliever inhalation therapy in asthma.",
+        "abstract": "The use of combination budesonide/formoterol dry powder inhaler (Symbicort Turbuhaler) for both daily maintenance therapy and as-needed relief of breakthrough symptoms using a single inhaler is a new approach to asthma management that is indicated in patients with persistent asthma not adequately controlled by conventional regimens using reliever therapy with a short-acting beta(2)-adrenoceptor agonist alone. The administration of additional corticosteroid with each reliever inhalation in response to symptoms is expected to provide improved control of airway inflammation.Budesonide/formoterol maintenance and reliever therapy reduced the risk of severe asthma exacerbations compared with conventional regimens using a short-acting beta(2)-adrenoceptor agonist alone as reliever therapy in the majority of trials, while providing similar or better daily asthma control than higher fixed maintenance doses of budesonide or inhaled corticosteroid/long-acting beta(2)-adrenoceptor agonist combinat",
+        "journal": "Drugs",
+        "year": "2007",
+        "authors": [
+          "McCormack Paul L",
+          "Lyseng-Williamson Katherine A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Budesonide",
+          "Budesonide, Formoterol Fumarate Drug Combination",
+          "Drug Combinations",
+          "Ethanolamines",
+          "Formoterol Fumarate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17983258/"
+      },
+      {
+        "pmid": "1382936",
+        "title": "Budesonide. An updated review of its pharmacological properties, and therapeutic efficacy in asthma and rhinitis.",
+        "abstract": "Inhaled budesonide is now well established in the management of adult and childhood asthma, and when nebulised, shows considerable promise in recurrent wheezing and in severe asthma in infants. Studies conducted since the drug was previously reviewed in the Journal in 1984 have confirmed the comparable efficacy of equal doses of budesonide and beclomethasone dipropionate, the ability of budesonide to reduce oral maintenance corticosteroid requirements, and demonstrated its potential as first-line treatment of mild to moderate asthma. Recent studies have established the usefulness and good tolerability of intranasal budesonide in the treatment of seasonal allergic and perennial rhinitis where the drug is more effective than disodium cromoglycate and at least as effective as beclomethasone dipropionate. After up to 10 years of treatment with inhaled budesonide there is no evidence that the drug damages the tracheobronchial lining or the nasal mucosa. Inhaled corticosteroids continue to p",
+        "journal": "Drugs",
+        "year": "1992",
+        "authors": [
+          "Brogden R N",
+          "McTavish D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Glucocorticoids",
+          "Humans",
+          "Pregnenediones",
+          "Rhinitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1382936/"
+      },
+      {
+        "pmid": "19878732",
+        "title": "The role of budesonide/formoterol for maintenance and relief in the management of asthma.",
+        "abstract": "The aim of asthma management is to gain and maintain asthma control and reduce the risk of future exacerbations. However, despite the availability of effective therapies and national and international guidelines for their use, many patients remain inadequately controlled and continue to endure and accept a reduced quality of life. This review discusses current challenges in asthma management facing primary care physicians and provides insight into new treatment strategies developed to improve asthma control. A web-based literature review was undertaken with a focus on studies and reviews discussing asthma control and management with traditional therapies and new therapies, including a novel treatment approach using budesonide/formoterol maintenance and reliever therapy. One of the most common problems in long-term asthma control is poor adherence to inhaled corticosteroid (ICS) maintenance therapy, resulting in under-treatment of inflammation. Many patients tend to over-rely on short-a",
+        "journal": "Pulmonary pharmacology & therapeutics",
+        "year": "2010",
+        "authors": [
+          "Kaplan Alan",
+          "Ryan Dermot"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Drug Combinations",
+          "Ethanolamines",
+          "Formoterol Fumarate",
+          "Glucocorticoids",
+          "Humans",
+          "Medication Adherence",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19878732/"
+      },
+      {
+        "pmid": "6394263",
+        "title": "Budesonide. A preliminary review of its pharmacodynamic properties and therapeutic efficacy in asthma and rhinitis.",
+        "abstract": "Budesonide is a non-halogenated glucocorticosteroid which has been shown to possess a high ratio of topical to systemic activity compared with a number of reference corticosteroids such as beclomethasone dipropionate, flunisolide, and triamcinolone acetonide. It appears to undergo extensive first-pass metabolism to metabolites of minimal activity which accounts for the low level of systemic activity. The majority of therapeutic trials in asthma have been of short term duration and have demonstrated that conventional doses of inhaled budesonide (200 to 800 micrograms/day) and beclomethasone dipropionate (400 to 800 micrograms/day) are of similar efficacy in both adults and children with moderate to severe asthma. Other studies have compared high doses of inhaled budesonide (400 to 3200 micrograms/day in 4 divided doses) with both alternate day (7.5 to 60 mg) and daily (7.5 to 40 mg) oral prednisone in patients with severe or unstable asthma. In the small number of such trials to date, i",
+        "journal": "Drugs",
+        "year": "1984",
+        "authors": [
+          "Clissold S P",
+          "Heel R C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adrenal Glands",
+          "Adult",
+          "Anaphylaxis",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Budesonide",
+          "Child",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6394263/"
+      },
+      {
+        "pmid": "19032229",
+        "title": "Budesonide/formoterol for maintenance and reliever therapy in the management of moderate to severe asthma.",
+        "abstract": "The Global Initiative for Asthma (GINA) guidelines aim at improving asthma control and preventing future risk. For patients with moderate to severe asthma an inhaled corticosteroid (ICS) or an ICS/long-acting beta2-agonist (LABA) combination with a short-acting beta2-agonist (SABA) as reliever is recommended. Despite the availability of effective maintenance therapies, a large proportion of patients still fail to achieve guideline-defined asthma control, and overuse of SABA reliever medication at the expense of ICS is commonly observed. New simplified treatment approaches may offer a solution and assist physicians to achieve overall asthma control. One such treatment approach, which is recommended in the GINA guidelines, is budesonide/formoterol for both maintenance and reliever therapy. This treatment strategy significantly reduces the rate of severe asthma exacerbations compared with ICS/LABA plus SABA and achieves equivalent daily symptom control compared with higher doses of ICS/LA",
+        "journal": "Allergy",
+        "year": "2008",
+        "authors": [
+          "Humbert M",
+          "Andersson T L G",
+          "Buhl R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Animals",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Budesonide",
+          "Drug Therapy, Combination",
+          "Ethanolamines",
+          "Formoterol Fumarate",
+          "Humans",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19032229/"
+      },
+      {
+        "pmid": "15266989",
+        "title": "Budesonide and formoterol in a single inhaler controls asthma in adolescents.",
+        "abstract": "Despite the availability of effective treatments and national guidelines, morbidity from asthma remains high among adolescents. Adolescents need to be considered as a distinct group of individuals with different requirements to those of children and adults. In particular, their non-adherence to prescribed treatment regimens is of concern and is a significant factor contributing to the high rate of morbidity in adolescents. Studies in children aged 4 to 17 years suggest that the combination of an inhaled corticosteroid (ICS) and a long-acting beta2-agonist effectively controls asthma symptoms in patients who remain symptomatic on ICS alone. In order to improve adherence to therapy, the use of combined therapy with an ICS and a long-acting beta2-agonist in a single inhaler should be considered and the dosing frequency should be adjusted according to the severity of asthma symptoms. This should empower patients with a greater degree of self-management and may be important in helping adole",
+        "journal": "International journal of adolescent medicine and health",
+        "year": "2004",
+        "authors": [
+          "Pohunek Petr",
+          "Tal Asher"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Asthma",
+          "Budesonide",
+          "Budesonide, Formoterol Fumarate Drug Combination",
+          "Drug Combinations",
+          "Ethanolamines",
+          "Humans",
+          "Nebulizers and Vaporizers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15266989/"
+      },
+      {
+        "pmid": "15641626",
+        "title": "Once-daily inhaled budesonide for the treatment of asthma: clinical evidence and pharmacokinetic explanation.",
+        "abstract": "Budesonide, a widely used inhaled corticosteroid (ICS) with a favorable therapeutic ratio, is available via a dry powder inhaler (Pulmicort Turbuhaler) and as a suspension for nebulization (Pulmicort Respules).",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2004",
+        "authors": [
+          "Selroos Olof",
+          "Edsbäcker Staffan",
+          "Hultquist Christer"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Budesonide",
+          "Child",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15641626/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:08:12.787576",
+  "success": true,
+  "error_message": null
+}

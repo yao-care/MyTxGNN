@@ -1,0 +1,118 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "pharyngitis",
+    "query_string": "Caffeine AND pharyngitis"
+  },
+  "data": {
+    "query": "Caffeine AND pharyngitis",
+    "results": [
+      {
+        "pmid": "2012456",
+        "title": "Caffeine as an analgesic adjuvant. A double-blind study comparing aspirin with caffeine to aspirin and placebo in patients with sore throat.",
+        "abstract": "Despite its frequent clinical use in analgesic agents, caffeine has not been accepted unequivocally as an analgesic adjuvant. To evaluate this activity of caffeine, we used new study methods in a randomized controlled trial on patients with acute sore throat due to tonsillopharyngitis. Patients were randomly assigned to receive a single dose of one of three treatments: 800 mg of aspirin with 64 mg of caffeine (n = 70), 800 mg of aspirin (n = 68), or placebo (n = 69). Under double-blind conditions, during a 2-hour evaluation period, patients used different rating scales to assess pain intensity, change in pain, relief, and two qualities of throat pain, how swollen the throat felt, and difficulty swallowing. Aspirin with caffeine and aspirin alone were significantly more effective than placebo for all efficacy measurements from 30 minutes through 2 hours and overall. The aspirin-caffeine combination also showed evidence of activity at 15 minutes on the relief scale. Aspirin with caffeine",
+        "journal": "Archives of internal medicine",
+        "year": "1991",
+        "authors": [
+          "Schachtel B P",
+          "Fillingim J M",
+          "Lane A C",
+          "Thoden W R",
+          "Baybutt R I"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Analgesics",
+          "Aspirin",
+          "Caffeine",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Fever",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2012456/"
+      },
+      {
+        "pmid": "40626097",
+        "title": "Development and refinement of the sore throat pain model as an assay for measuring therapeutic effects on acute pain.",
+        "abstract": "The physical and subjective status of patients with acute throat pain has been developed and refined over the past 40 years as an acute pain model to measure changes in patient-reported symptoms attributed to active pharmacologic intervention when patients with painful pharyngitis are evaluated under randomized, double-blind, placebo-controlled conditions. Acute, painful pharyngitis is a familiar experience for the majority of adults and children (\"a sore throat\" is the most common example of the aches and pains of the common cold). As such, the condition has served as a general acute pain model to demonstrate the acute effects of non-prescription-strength analgesic agents (for mild-to-moderate pain) and prescription-strength analgesics (for moderate-to-severe pain). Here we discuss the methodologic features of this clinical pharmacology assay as it was refined from its original examinations of classic, orally administered, acute analgesics (aspirin, acetaminophen, aspirin with caffein",
+        "journal": "Frontiers in pain research (Lausanne, Switzerland)",
+        "year": "2025",
+        "authors": [
+          "Schachtel Bernard P",
+          "Shephard Adrian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40626097/"
+      },
+      {
+        "pmid": "14255548",
+        "title": "[CHRONIC INFLAMMATIONS IN THE EPIPHARYNX].",
+        "abstract": "",
+        "journal": "Zeitschrift fur Laryngologie, Rhinologie, Otologie und ihre Grenzgebiete",
+        "year": "1964",
+        "authors": [
+          "BECK C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Caffeine",
+          "Drug Therapy",
+          "Humans",
+          "Inflammation",
+          "Pharyngitis",
+          "Procaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14255548/"
+      },
+      {
+        "pmid": "10424023",
+        "title": "[The clinical efficacy of the combined drug agent Valcophen in children].",
+        "abstract": "Children affected by acute virus respiratory infection running its course with characteristic symptoms of rhinitis, pharyngitis, tonsillitis, and acute bronchitis were administered combination therapy with a new pharmaceutical valcophen in a tablet form. In a clinical trial of the above drug, gratifying therapeutic results were found to be obtainable with a 2-to-3 day course of treatment at minimum dosage.",
+        "journal": "Likars'ka sprava",
+        "year": "1999",
+        "authors": [
+          "Shapovalova V A",
+          "Shapovalov V V"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Aspirin",
+          "Caffeine",
+          "Child",
+          "Child, Preschool",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10424023/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:55:04.506152",
+  "success": true,
+  "error_message": null
+}

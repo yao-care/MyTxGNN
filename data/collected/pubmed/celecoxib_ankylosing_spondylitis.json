@@ -1,0 +1,569 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "ankylosing spondylitis",
+    "query_string": "Celecoxib AND ankylosing spondylitis"
+  },
+  "data": {
+    "query": "Celecoxib AND ankylosing spondylitis",
+    "results": [
+      {
+        "pmid": "22141388",
+        "title": "Celecoxib: a review of its use for symptomatic relief in the treatment of osteoarthritis, rheumatoid arthritis and ankylosing spondylitis.",
+        "abstract": "Celecoxib (Celebrex®) was the first cyclo-oxygenase (COX)-2 selective inhibitor (coxib) to be introduced into clinical practice. Coxibs were developed to provide anti-inflammatory/analgesic activity similar to that of nonselective NSAIDs, but without their upper gastrointestinal (GI) toxicity, which is thought to result largely from COX-1 inhibition. Celecoxib is indicated in the EU for the symptomatic treatment of osteoarthritis, rheumatoid arthritis and ankylosing spondylitis in adults. This article reviews the clinical efficacy and tolerability of celecoxib in these EU-approved indications, as well as overviewing its pharmacological properties. In randomized controlled trials, celecoxib, at the recommended dosages of 200 or 400 mg/day, was significantly more effective than placebo, at least as effective as or more effective than paracetamol (acetaminophen) and as effective as nonselective NSAIDs and the coxibs etoricoxib and lumiracoxib for the symptomatic treatment of patients with",
+        "journal": "Drugs",
+        "year": "2011",
+        "authors": [
+          "McCormack Paul L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic",
+          "Spondylitis, Ankylosing",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22141388/"
+      },
+      {
+        "pmid": "20476924",
+        "title": "Celecoxib and ankylosing spondylitis.",
+        "abstract": "It is now over 100 years since the arrival of aspirin and, from the mid-20th Century onwards, we have seen numerous attempts at providing society with safer and more efficacious nonsteroidal drugs. Ironically, while aspirin went from strength to strength with an ever-increasing pharmaceutical profile, new nonsteroidal anti-inflammatory drugs arrived and disappeared with rapid succession. Finally, there appears to have been a breakthrough with the development of the coxibs but concern has recently developed because of potential toxic cardiovascular reactions. Although originally studied in rheumatoid arthritis and degenerative arthropathy, the coxibs have now been investigated in ankylosing spondylitis and efficacy appears to be favorable and, to date, there is little evidence of toxicity, although problems in the nonspondylarthropathic arena may spill over into the seronegative spondylarthritides.",
+        "journal": "Expert review of clinical immunology",
+        "year": "2008",
+        "authors": [
+          "Calin Andrei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20476924/"
+      },
+      {
+        "pmid": "39315555",
+        "title": "Assessment of liver and kidney function in patients with ankylosing spondylitis on long-term non-steroidal anti-inflammatory drug therapy.",
+        "abstract": "This study aimed to analyze the status of liver [aspartate aminotransferase (AST) and alanine aminotransferase (ALT)] and kidney (serum creatinine) function in ankylosing spondylitis (AS) patients assuming continuously non-steroidal anti-inflammatory drugs (NSAIDs) alone over a long period.",
+        "journal": "Reumatismo",
+        "year": "2024",
+        "authors": [
+          "Sülükcü S",
+          "Uslu S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Spondylitis, Ankylosing",
+          "Male",
+          "Female",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Adult",
+          "Creatinine",
+          "Alanine Transaminase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39315555/"
+      },
+      {
+        "pmid": "16777581",
+        "title": "Ankylosing spondylitis and symptom-modifying vs disease-modifying therapy.",
+        "abstract": "The main objectives of medical therapy in ankylosing spondylitis (AS) are to relieve pain, stiffness and fatigue and to prevent structural damage. The Assessment in Ankylosing Spondylitis Working Group has proposed different domains with specific instruments to assess the efficacy of therapeutic agents classified as symptom-modifying and disease-controlling antirheumatic drugs. Non-steroidal antiinflammatory drugs (NSAIDs) are still the first-line treatment in the management of AS, and they are effective in controlling symptoms such as pain and stiffness and maintaining mobility in many patients. A recent randomized trial suggested that the progression of radiological damage occurs less on continuous use of celecoxib compared with on-demand use. If such findings were confirmed by other studies, the therapeutic value of NSAIDs in AS may extend beyond symptom control. However, for each individual patient, the expected advantages of treatment with NSAIDs should be weighted against any pos",
+        "journal": "Best practice & research. Clinical rheumatology",
+        "year": "2006",
+        "authors": [
+          "Akkoc Nurullah",
+          "van der Linden Sjef",
+          "Khan Muhammad Asim"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Disease Progression",
+          "Humans",
+          "Immunologic Factors",
+          "Immunosuppressive Agents",
+          "Spondylitis, Ankylosing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16777581/"
+      },
+      {
+        "pmid": "40028763",
+        "title": "Risk of cardiovascular diseases and gastrointestinal bleeding is comparable between celecoxib and non-selective non-steroidal anti-inflammatory drugs in patients with ankylosing spondylitis: a nationwide retrospective cohort study.",
+        "abstract": "To compare the risk of cardiovascular disease (CVD) and gastrointestinal bleeding (GIB) between celecoxib and non-selective non-steroidal anti-inflammatory drugs (nsNSAIDs) in patients with ankylosing spondylitis (AS).",
+        "journal": "Scandinavian journal of rheumatology",
+        "year": "2025",
+        "authors": [
+          "Kim A",
+          "Kim S C",
+          "Kim J",
+          "So M W",
+          "Lee S-G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Celecoxib",
+          "Male",
+          "Female",
+          "Retrospective Studies",
+          "Spondylitis, Ankylosing",
+          "Cardiovascular Diseases",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Adult",
+          "Gastrointestinal Hemorrhage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40028763/"
+      },
+      {
+        "pmid": "18613804",
+        "title": "The safety of celecoxib in ankylosing spondylitis treatment.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) play a crucial role in the treatment of ankylosing spondylitis (AS). Most of the AS patients require a continuous and long-term NSAIDs therapy; therefore the question of NSAIDs safety in this population becomes very important.",
+        "journal": "Expert opinion on drug safety",
+        "year": "2008",
+        "authors": [
+          "Poddubnyy Denis A",
+          "Song In-Ho",
+          "Sieper Joachim"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase Inhibitors",
+          "Humans",
+          "Pyrazoles",
+          "Risk Factors",
+          "Spondylitis, Ankylosing",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18613804/"
+      },
+      {
+        "pmid": "36091030",
+        "title": "Etanercept/celecoxib on improving MRI inflammation of active ankylosing spondylitis: A multicenter, open-label, randomized clinical trial.",
+        "abstract": "To investigate the efficacy and safety of clinical, magnetic resonance imaging (MRI) changes in active ankylosing spondylitis (AS) patients with etanercept and celecoxib alone/combined treatment.",
+        "journal": "Frontiers in immunology",
+        "year": "2022",
+        "authors": [
+          "Tu Liudan",
+          "Zhao Minjing",
+          "Wang Xiaohong",
+          "Kong Qingcong",
+          "Chen Zena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Celecoxib",
+          "Etanercept",
+          "Humans",
+          "Inflammation",
+          "Magnetic Resonance Imaging",
+          "Spondylitis, Ankylosing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36091030/"
+      },
+      {
+        "pmid": "32955700",
+        "title": "Interleukin-1β, interleukin-6, and interleukin-17A as indicators reflecting clinical response to celecoxib in ankylosing spondylitis patients.",
+        "abstract": "This study was to investigate the value of 10 serum inflammatory cytokines for predicting clinical response to celecoxib in ankylosing spondylitis (AS) patients.",
+        "journal": "Irish journal of medical science",
+        "year": "2021",
+        "authors": [
+          "Zhang Yang",
+          "Ning Chao",
+          "Zhou Huijie",
+          "Yan Yingjie",
+          "Liu Fulai"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Female",
+          "Humans",
+          "Interleukin-17",
+          "Interleukin-1beta",
+          "Interleukin-6",
+          "Male",
+          "Spondylitis, Ankylosing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32955700/"
+      },
+      {
+        "pmid": "26980340",
+        "title": "Celecoxib versus diclofenac for the treatment of ankylosing spondylitis: 12-week randomized study in Norwegian patients.",
+        "abstract": "To compare the efficacy and safety of two different doses of celecoxib and diclofenac in the treatment of Norwegian patients with ankylosing spondylitis.",
+        "journal": "The Journal of international medical research",
+        "year": "2016",
+        "authors": [
+          "Walker Chris",
+          "Essex Margaret N",
+          "Li Chunming",
+          "Park Peter W"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Celecoxib",
+          "Diclofenac",
+          "Endpoint Determination",
+          "Humans",
+          "Norway",
+          "Spondylitis, Ankylosing",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26980340/"
+      },
+      {
+        "pmid": "25516774",
+        "title": "Efficacy and safety of celecoxib in chinese patients with ankylosing spondylitis: a 6-week randomized, double-blinded study with 6-week open-label extension treatment.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs are the first-line option for treating ankylosing spondylitis (AS) in China. However, no large-scale controlled trials have been conducted in this ethnic population.",
+        "journal": "Current therapeutic research, clinical and experimental",
+        "year": "2014",
+        "authors": [
+          "Huang Feng",
+          "Gu Jieruo",
+          "Liu Yi",
+          "Zhu Ping",
+          "Zheng Yi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25516774/"
+      },
+      {
+        "pmid": "27603385",
+        "title": "Celecoxib and sulfasalazine had negative association with coronary artery diseases in patients with ankylosing spondylitis: A nation-wide, population-based case-control study.",
+        "abstract": "The aim of the study is to assess the effects of celecoxib and sulfasalazine on the risk of coronary artery disease (CAD) in patients with ankylosing spondylitis (AS).Using the claims data of Taiwan National Health Insurance (NHI) database, a nationally representative data that contain the medical records of 23 million Taiwan residents, we randomly selected 1 million cohort from the database, and then we enrolled only patients who were newly diagnosed with AS (n = 4829) between year 2001 and 2010, excluding patients who had CAD (ICD-9- CM codes: 410-414) before the diagnosis of AS (n = 4112). According to propensity score matched 1:2 on age, gender, AS duration, Charlson comorbidity index, hypertension, and hyperlipidemia, 236 and 472 patients were included in the case (AS with CAD) and control (AS without CAD) groups, respectively. We used the WHO defined daily dose (DDD) as a tool to assess the dosage of sulfasalazine and celecoxib exposure. Conditional logistic regression was used t",
+        "journal": "Medicine",
+        "year": "2016",
+        "authors": [
+          "Wu Li-Chih",
+          "Leong Pui-Ying",
+          "Yeo Kai-Jieh",
+          "Li Ting-Yu",
+          "Wang Yu-Hsun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Antirheumatic Agents",
+          "Case-Control Studies",
+          "Celecoxib",
+          "Coronary Artery Disease",
+          "Cyclooxygenase 2 Inhibitors",
+          "Humans",
+          "Hyperlipidemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27603385/"
+      },
+      {
+        "pmid": "40911151",
+        "title": "Current Evidence on Celecoxib Safety in the Management of Chronic Musculoskeletal Conditions: An Umbrella Review.",
+        "abstract": "Our objective was to systematically synthesize and evaluate the existing evidence from meta-syntheses (systematic reviews and meta-analyses) reporting on the safety of celecoxib in adults with chronic musculoskeletal disorders.",
+        "journal": "Drugs",
+        "year": "2025",
+        "authors": [
+          "Beaudart Charlotte",
+          "Brabant Christian",
+          "Alokail Majed",
+          "Reginster Jean-Yves",
+          "Bruyère Olivier"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Celecoxib",
+          "Musculoskeletal Diseases",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Randomized Controlled Trials as Topic",
+          "Chronic Disease",
+          "Cyclooxygenase 2 Inhibitors",
+          "Osteoarthritis",
+          "Meta-Analysis as Topic",
+          "Arthritis, Rheumatoid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40911151/"
+      },
+      {
+        "pmid": "24518967",
+        "title": "Tomography-guided palisade sacroiliac joint radiofrequency neurotomy versus celecoxib for ankylosing spondylitis: a open-label, randomized, and controlled trial.",
+        "abstract": "Sacroiliac joint (SIJ) pain is a common symptom in ankylosing spondylitis (AS). Palisade sacroiliac joint radiofrequency neurotomy (PSRN) is a novel treatment for the SIJ pain. In the current clinical trial, we treated AS patients with significant SIJ pain using PSRN under computed tomography guidance and compared the results with the celecoxib treatment. The current study included 155 AS patients. Patients were randomly assigned to receive PSRN or celecoxib treatment (400 mg/day for 24 weeks). The primary endpoint was global pain intensity in visual analog scale, at week 12. Secondary endpoints included pain intensity at week 24, disease activity, functional and mobility capacities, and adverse events at week 24. In comparison with the baseline collected immediately prior to the interventions, global pain intensity was significantly lower at both 12 and 24 weeks after the treatment in both arms. Pain reduction was more robust in the PSRN arm (by more than 1.9 and 2.2 cm at 12 and 24 w",
+        "journal": "Rheumatology international",
+        "year": "2014",
+        "authors": [
+          "Zheng Yongjun",
+          "Gu Minghong",
+          "Shi Dongping",
+          "Li Mingli",
+          "Ye Le"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Back Pain",
+          "Catheter Ablation",
+          "Celecoxib",
+          "China",
+          "Cyclooxygenase 2 Inhibitors",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24518967/"
+      },
+      {
+        "pmid": "25623277",
+        "title": "Safety of Etoricoxib, Celecoxib, and Nonselective Nonsteroidal Antiinflammatory Drugs in Ankylosing Spondylitis and Other Spondyloarthritis Patients: A Swedish National Population-Based Cohort Study.",
+        "abstract": "Safety data regarding the use of etoricoxib and other nonsteroidal antiinflammatory drugs (NSAIDs) in ankylosing spondylitis (AS) and other spondyloarthritis (SpA) patients are rather limited. Our objective was to estimate and compare rates of gastrointestinal, renovascular, and cardiovascular adverse events in patients exposed to etoricoxib, celecoxib, or nonselective NSAIDs or totally unexposed to NSAIDs.",
+        "journal": "Arthritis care & research",
+        "year": "2015",
+        "authors": [
+          "Kristensen L E",
+          "Jakobsen A K",
+          "Askling J",
+          "Nilsson F",
+          "Jacobsson L T H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cohort Studies",
+          "Cyclooxygenase 2 Inhibitors",
+          "Etoricoxib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25623277/"
+      },
+      {
+        "pmid": "20222755",
+        "title": "Cost effectiveness of etoricoxib versus celecoxib and non-selective NSAIDS in the treatment of ankylosing spondylitis.",
+        "abstract": "To evaluate the cost effectiveness of etoricoxib (90 mg/day) relative to celecoxib (200 or 400 mg/day), and the non-selective NSAIDs naproxen (1000 mg/day) and diclofenac (150 mg/day) in the initial treatment of ankylosing spondylitis (AS) from the UK NHS perspective. A Bayesian cost-effectiveness model was developed to estimate the costs and benefits associated with initiating AS treatment with etoricoxib, celecoxib, diclofenac or naproxen. Efficacy, safety and medical resource and cost data were obtained from the literature. The obtained efficacy estimates were synthesized with a mixed treatment comparison meta-analysis. Treatment benefit and degree of disease activity, as reflected with Bath Ankylosing Spondylitis Functional Index (BASFI) and Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores, were related to QALYs and AS-specific costs (related to BASDAI). Other cost outcomes related to drug acquisition, and gastrointestinal and cardiovascular safety. Uncertainty in",
+        "journal": "PharmacoEconomics",
+        "year": "2010",
+        "authors": [
+          "Jansen Jeroen P",
+          "Gaugris Sabine",
+          "Choy Ernest H",
+          "Ostor Andrew",
+          "Nash Julian T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Bayes Theorem",
+          "Celecoxib",
+          "Cost-Benefit Analysis",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Drug Costs",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Etoricoxib",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20222755/"
+      },
+      {
+        "pmid": "21772851",
+        "title": "Cost-Effectiveness Evaluation of Etoricoxib versus Celecoxib and Nonselective NSAIDs in the Treatment of Ankylosing Spondylitis in Norway.",
+        "abstract": "Objectives. To evaluate the cost-effectiveness of etoricoxib (90 mg) relative to celecoxib (200/400 mg), and the nonselective NSAIDs naproxen (1000 mg) and diclofenac (150 mg) in the initial treatment of ankylosing spondylitis in Norway. Methods. A previously developed Markov state-transition model was used to estimate costs and benefits associated with initiating treatment with the different competing NSAIDs. Efficacy, gastrointestinal and cardiovascular safety, and resource use data were obtained from the literature. Data from different studies were synthesized and translated into direct costs and quality adjusted life years by means of a Bayesian comprehensive decision modeling approach. Results. Over a 30-year time horizon, etoricoxib is associated with about 0.4 more quality adjusted life years than the other interventions. At 1 year, naproxen is the most cost-saving strategy. However, etoricoxib is cost and quality adjusted life year saving relative to celecoxib, as well as diclo",
+        "journal": "International journal of rheumatology",
+        "year": "2011",
+        "authors": [
+          "Jansen Jeroen P",
+          "Taylor Stephanie D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21772851/"
+      },
+      {
+        "pmid": "16960941",
+        "title": "Celecoxib is efficacious and well tolerated in treating signs and symptoms of ankylosing spondylitis.",
+        "abstract": "To evaluate the efficacy and safety of celecoxib in patients with ankylosing spondylitis (AS).",
+        "journal": "The Journal of rheumatology",
+        "year": "2006",
+        "authors": [
+          "Barkhuizen André",
+          "Steinfeld Serge",
+          "Robbins Jeffery",
+          "West Christine",
+          "Coombs John"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Placebo Effect",
+          "Pyrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16960941/"
+      },
+      {
+        "pmid": "11212158",
+        "title": "Efficacy of celecoxib, a cyclooxygenase 2-specific inhibitor, in the treatment of ankylosing spondylitis: a six-week controlled study with comparison against placebo and against a conventional nonsteroidal antiinflammatory drug.",
+        "abstract": "To evaluate the short-term efficacy of celecoxib, a cyclooxygenase 2-specific inhibitor, in the treatment of ankylosing spondylitis (AS).",
+        "journal": "Arthritis and rheumatism",
+        "year": "2001",
+        "authors": [
+          "Dougados M",
+          "Béhier J M",
+          "Jolchine I",
+          "Calin A",
+          "van der Heijde D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Hemoglobins",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11212158/"
+      },
+      {
+        "pmid": "17983259",
+        "title": "Celecoxib: a review of its use in the management of arthritis and acute pain.",
+        "abstract": "Celecoxib (Celebrex), the first cyclo-oxygenase (COX) 2-selective inhibitor (coxib) to be introduced into clinical practice, has been available for almost a decade. It is approved in one or more countries worldwide for the relief of the signs and symptoms of osteoarthritis (OA), rheumatoid arthritis (RA), juvenile rheumatoid arthritis (in patients aged > or =2 years) and ankylosing spondylitis (AS), the management of acute pain in adults, the treatment of primary dysmenorrhoea and the reduction in the number of adenomatous colorectal polyps in familial adenomatous polyposis. Celecoxib remains an effective and useful altenative to nonselective NSAIDs in the treatment of acute or chronic musculoskeletal pain. In the latter setting, it offers the prospect of improved gastrointestinal (GI) tolerability and, in patients not taking aspirin for cardioprophylaxis, a GI safety advantage. Currently available evidence of an increase in cardiovascular (CV) risk with celecoxib is inconsistent; any ",
+        "journal": "Drugs",
+        "year": "2007",
+        "authors": [
+          "Frampton James E",
+          "Keating Gillian M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Arthritis",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Humans",
+          "Pain",
+          "Pyrazoles",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17983259/"
+      },
+      {
+        "pmid": "19634927",
+        "title": "Etoricoxib: a review of its use in the symptomatic treatment of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis and acute gouty arthritis.",
+        "abstract": "Etoricoxib is a selective cyclo-oxygenase (COX)-2 inhibitor, approved in Europe for the symptomatic treatment of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis and acute gouty arthritis. Etoricoxib provided similar symptomatic relief to nonselective NSAIDs in patients with these conditions, and to celecoxib in patients with osteoarthritis. The drug was associated with fewer uncomplicated upper gastrointestinal (GI) adverse events than nonselective NSAIDs, and was noninferior to diclofenac in terms of the rate of thrombotic cardiovascular (CV) events. Etoricoxib may be considered as a treatment option for patients requiring NSAID therapy, particularly those at risk of upper GI events, after careful consideration of significant risk factors for CV events (including uncontrolled hypertension). As with all NSAIDs, the potential GI and CV risks of treatment with etoricoxib should be weighed against the potential benefits in individual patients, and it should be administered at",
+        "journal": "Drugs",
+        "year": "2009",
+        "authors": [
+          "Croom Katherine F",
+          "Siddiqui M Asif A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Gouty",
+          "Arthritis, Rheumatoid",
+          "Cyclooxygenase 2 Inhibitors",
+          "Etoricoxib",
+          "Humans",
+          "Osteoarthritis",
+          "Pyridines",
+          "Spondylitis, Ankylosing",
+          "Sulfones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19634927/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:13:47.054714",
+  "success": true,
+  "error_message": null
+}

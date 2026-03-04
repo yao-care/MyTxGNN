@@ -1,0 +1,310 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ceftazidime",
+    "disease": "endometritis",
+    "query_string": "Ceftazidime AND endometritis"
+  },
+  "data": {
+    "query": "Ceftazidime AND endometritis",
+    "results": [
+      {
+        "pmid": "35622767",
+        "title": "Genetic Diversity, Biofilm Formation, and Antibiotic Resistance of Pseudomonas aeruginosa Isolated from Cow, Camel, and Mare with Clinical Endometritis.",
+        "abstract": "Pseudomonas aeruginosa is a ubiquitous opportunistic bacterium that causes diseases in animals and humans. This study aimed to investigate the genetic diversity, antimicrobial resistance, biofilm formation, and virulence and antibiotic resistance genes of P. aeruginosa isolated from the uterus of cow, camel, and mare with clinical endometritis and their drinking water. Among the 180 uterine swabs and 90 drinking water samples analysed, 54 (20%) P. aeruginosa isolates were recovered. Isolates were identified biochemically to the genus level by the automated Vitek 2 system and genetically by the amplification of the gyrB gene and the sequencing of the 16S rRNA gene. Multilocus sequence typing identified ten different sequence types for the P. aeruginosa isolates. The identification of ST2012 was significantly (p ≤ 0.05) higher than that of ST296, ST308, ST111, and ST241. The isolates exhibited significantly (p ≤ 0.05) increased resistance to piperacillin (77.8%), ciprofloxacin (59.3%), g",
+        "journal": "Veterinary sciences",
+        "year": "2022",
+        "authors": [
+          "Mahmoud Samy F",
+          "Fayez Mahmoud",
+          "Swelum Ayman A",
+          "Alswat Amal S",
+          "Alkafafy Mohamed"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35622767/"
+      },
+      {
+        "pmid": "6374199",
+        "title": "[Fundamental and clinical studies on ceftazidime in the field of obstetrics and gynecology].",
+        "abstract": "Ceftazidime ( CAZ ) was studied for the transfer into intrapelvic tissues and for the clinical efficacy in the treatment of 20 cases of obstetrical and gynecological infections. Transfer into the tissues--Following intravenous 1 hour-drip infusion of 1 g, favourable transfer of CAZ into intrapelvic tissues was observed. The peak drug level of 50 approximately 66 micrograms/g was obtained at 5 approximately 36 minutes after completion of the administration. Clinical evaluation-- CAZ was administered at a daily dose of 2 approximately 4 g in 1 approximately 4 divided doses by intravenous drip infusion for 90 minutes. The subjects were patients with the following infections; pyometra (1), puerperal endometritis (3), parametritis (5), pelvioperitonitis (3), purulent lymphocytes (2), retroperitoneal abscess (1) and acute adnexitis (5). Clinical efficacy was; excellent in 15 cases, good in 3 cases and poor in 2 cases, with the overall efficacy rate of 90.0%. No notable side effects or abnorm",
+        "journal": "The Japanese journal of antibiotics",
+        "year": "1984",
+        "authors": [
+          "Hirabayashi K",
+          "Okada E"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Bacterial Infections",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Drug Evaluation",
+          "Female",
+          "Genital Diseases, Female",
+          "Genitalia, Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6374199/"
+      },
+      {
+        "pmid": "6374196",
+        "title": "[Fundamental and clinical studies of ceftazidime in the field of obstetrics and gynecology].",
+        "abstract": "Ceftazidime ( CAZ ), a new cephalosporin antibiotic, was fundamentally and clinically studied. The following results were obtained. Serum and internal genital tissue levels of CAZ were measured following intravenous drip infusion of 1 g for 30 minutes. Serum levels of more than 10 micrograms/ml and tissue levels of more than about 7 micrograms/ml were maintained after 2 hours to 2 hours and 30 minutes, respectively. Favourable transfer of CAZ into the pelvic dead space exudate was observed. The exudate level attained its peak of 31.54 micrograms/ml on average at 2 hours and was 16.8 micrograms/ml on average even at 8 hours after intravenous drip infusion. A total of 6 cases comprising 1 of adnexitis, 2 of pyometra, 1 of endometritis and 2 of parametritis was treated with CAZ at a dose of 0.5 approximately 2.0 g twice daily by intravenous injection or intravenous drip infusion. The clinical response was excellent in 1 case, good in 4 cases and poor in 1 case. Abnormal laboratory finding",
+        "journal": "The Japanese journal of antibiotics",
+        "year": "1984",
+        "authors": [
+          "Shintani M",
+          "Takashima K",
+          "Kosakai H",
+          "Takayama T",
+          "Nakanishi A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bacterial Infections",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Drug Evaluation",
+          "Female",
+          "Genital Diseases, Female",
+          "Genitalia, Female",
+          "Humans",
+          "Infusions, Parenteral"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6374196/"
+      },
+      {
+        "pmid": "6360038",
+        "title": "Randomized comparison of ceftazidime versus clindamycin-tobramycin in the treatment of obstetrical and gynecological infections.",
+        "abstract": "A randomized comparison of ceftazidime versus clindamycin-tobramycin was performed for the treatment of obstetrical and gynecological infections. Entry criteria were an oral temperature of greater than or equal to 38 degrees C and a clinical diagnosis of endometritis, salpingitis, or pelvic cellulitis after hysterectomy. All patients with endometritis had cultures of intrauterine material obtained via a transcervical single-lumen catheter. The patients with pelvic cellulitis had material from the vaginal apex aspirated for culture, and all patients with salpingitis had a culdocentesis for culture of intraperitoneal material. Of 38 patients who received ceftazidime, 34 had endometritis after cesarean section, 3 had endometritis after abortion, and 1 had pelvic cellulitis. Of 39 patients who received clindamycin-tobramycin, 35 had endometritis after cesarean section, 3 had salpingitis, and 1 had pelvic cellulitis. The most common bacterial isolates were Lactobacillus sp., Bacteroides biv",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Blanco J D",
+          "Gibbs R S",
+          "Duff P",
+          "Castaneda Y S",
+          "St Clair P J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Clindamycin",
+          "Drug Therapy, Combination",
+          "Female",
+          "Genital Diseases, Female",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6360038/"
+      },
+      {
+        "pmid": "38787195",
+        "title": "Isolation and Identification of Morganella morganii from Rhesus Monkey (Macaca mulatta) in China.",
+        "abstract": "A bacterium was isolated and identified from the secretion of a rhesus monkey with endometritis. The morphological results showed that the strain exhibited round, convex, gray-white colonies with smooth surfaces and diameters ranging from 1 to 2 mm when cultured on Columbia blood agar at 37 °C for 24 h; on salmonella-shigella agar (S.S.) at 37 °C for 24 h, the colonies appeared round, flat, and translucent. Gram staining showed negative results with blunt ends and non-spore-forming characteristics. Molecular biology results showed that the 16S rRNA sequence of the strain revealed over 96.9% similarity with published sequences of M. morganii from different sources in the NCBI GenBank database. Morphological and molecular biology analysis confirmed that the strain (RM2023) isolated from cervical secretions of rhesus monkey was M. morganii. Drug sensitivity testing demonstrated that the isolated strain (RM2023) was sensitive to ceftriaxone, amikacin, gentamicin, cefazolin, cefuroxime, cef",
+        "journal": "Veterinary sciences",
+        "year": "2024",
+        "authors": [
+          "Li Heling",
+          "Chen Zhigang",
+          "Ning Qing",
+          "Zong Faliang",
+          "Wang Hong"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38787195/"
+      },
+      {
+        "pmid": "9551239",
+        "title": "Therapeutic effects of an injectable new quinolone, pazufloxacin, against polymicrobial infections in the uterine endometritis model.",
+        "abstract": "Polymicrobial infections with aerobes and anaerobes are common in female genital tract infections. We evaluated the efficacy of an injectable new quinolon, pazufloxacin, using a uterine endometritis model. Rats were infected with a mixed inoculation of Escherichia coli plus Bacteriodes fragilis (MIC of pazufloxacin and ceftazidime: E. coli: 0.05 and 1.56 micrograms/ml, respectively, B. fragilis: 3.13 and 3.13 micrograms/ml, respectively). After inoculating 10(7) cfu/rat of each organism, pazufloxacin or ceftazidime (10 or 20 mg/kg, respectively, i.v., b.i.d., 3 days) was administered and compared with the nontreated group. The viable cell counts of the uterine corpus and uterine cervix in pazufloxacin-treated and ceftazidime-treated groups were decreased, compared with the nontreated group. The viable cell counts of the adnexa in the pazufloxacin-treated group were significantly decreased, compared with the ceftazidimetreated group. These results suggest that pazufloxacin would be usef",
+        "journal": "Chemotherapy",
+        "year": "1998",
+        "authors": [
+          "Mikamo H",
+          "Kawazoe K",
+          "Sato Y",
+          "Tamaya T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents",
+          "Bacteroides Infections",
+          "Bacteroides fragilis",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Colony Count, Microbial",
+          "Disease Models, Animal",
+          "Dose-Response Relationship, Drug",
+          "Endometritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9551239/"
+      },
+      {
+        "pmid": "33642805",
+        "title": "Molecular characterization of extended-spectrum β-lactamase-producing Escherichia coli isolated from postpartum uterine infection in dairy cattle in India.",
+        "abstract": "Selection and dissemination of plasmid-encoded extended-spectrum β-lactamase (ESBL) among Enterobacteriaceae confers resistance to beta-lactam antibiotics. The purpose of this study was to determine the prevalence and molecular characteristics of ESBL-producing organisms isolated from dairy cattle with a uterine infection.",
+        "journal": "Veterinary world",
+        "year": "2021",
+        "authors": [
+          "Agrawal Samiksha",
+          "Singh Ajay Pratap",
+          "Singh Rashmi",
+          "Saikia Raktim",
+          "Choudhury Soumen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33642805/"
+      },
+      {
+        "pmid": "10079863",
+        "title": "[Antibiotic sensitivity of pneumonia pathogens in newborns and problems of antibacterial therapy of the pathologic process].",
+        "abstract": "The results of the bacteriological investigation of the secretion from the trachea, large bronchi and fauces of 36 newborns (including 27 preterms) with severe pneumonia were analyzed. 20 of them were born of women with complicating somatic, obstetric and gynecologic histories: candidiasis, herpes genitalis, chronic endometritis, adnexitis or chronic pyelonephritis that could be the risk of the fetus intranatal infection. During the acute period of pneumonia in the newborns within the first 4-8 days of life mainly Pseudomonas aeruginosa was isolated (51.3 per cent), Staphylococcus epidermidis, S. haemolyticus and Enterococcus faecalis were less frequent (18.9, 8.1 and 5.4 per cent, respectively). Klebsiella pneumoniae, Streptococcus anhaemolyticus and other organisms were extremely rare. On the whole the gramnegative microflora predominated. The study of the antibiotic susceptibility showed that the majority of the P. aeruginosa isolates were susceptible to amikacin and polymyxin B, th",
+        "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+        "year": "1998",
+        "authors": [
+          "Kozlova I A",
+          "Frolova M I",
+          "Kuznetsova L K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Microbial Sensitivity Tests",
+          "Pneumonia, Bacterial",
+          "Respiratory System",
+          "Species Specificity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10079863/"
+      },
+      {
+        "pmid": "10473922",
+        "title": "In vitro bactericidal activities of antimicrobial agents and morphologic changes on Prevotella bivia.",
+        "abstract": "Prevotella bivia is common in pelvic inflammatory diseases. Parenteral antimicrobial agents have been widely used against those infections. We investigated the bactericidal activities of three cephalosporins, i.e. cefluprenam (CFLP), ceftazidime (CAZ) and cefotaxime (CTX) and of two other antimicrobial agents, i.e. clindamycin (CLDM) and imipenem (IPM) against P. bivia. We also investigated the in vitro morphological changes induced by these agents in P. bivia. Cephalosporins exhibited bactericidal activities against P. bivia and induced time- and concentration-dependent morphological changes in P. bivia (filamentation). CLDM and IPM also had bactericidal activities, but induced different morphologic alterations: formation of spheroblasts and lysis. These results confirm the fact that each antimicrobial agent has characteristic aspects.",
+        "journal": "Chemotherapy",
+        "year": "1999",
+        "authors": [
+          "Mikamo H",
+          "Sato Y",
+          "Hayasaki Y",
+          "Kawazoe K",
+          "Izumi K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cefotaxime",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Clindamycin",
+          "Dose-Response Relationship, Drug",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Imipenem"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10473922/"
+      },
+      {
+        "pmid": "3895912",
+        "title": "Can the third-generation cephalosporins eliminate the need for antimicrobial combinations?",
+        "abstract": "Antimicrobial combinations have been widely utilized since the beginning of the chemotherapeutic era. This is true despite the fact that the use of such combinations has a number of potential disadvantages, including (1) antibiotic antagonism; (2) an increased incidence of toxicity; (3) the emergence of multi-resistant organisms; (4) promotion of a false sense of security; and (5) increased expense. The reasons generally given for the use of such combinations include (1) antimicrobial synergism, (2) suppression of antimicrobial resistance, (3) decreased toxicity, and (4) broader coverage. Although there are clearly some situations in which synergistic combinations have been shown to be useful (such as in the treatment of enterococcal endocarditis and severe Pseudomonas infections), the use of combination therapy to reduce the emergence of resistance (excluding the treatment of mycobacterial infections and of infections in which rifampin is used) or to reduce toxicity has not met with w",
+        "journal": "The American journal of medicine",
+        "year": "1985",
+        "authors": [
+          "Moellering R C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abdomen",
+          "Bacterial Infections",
+          "Cephalosporins",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Endometritis",
+          "Female",
+          "Humans",
+          "Leukemia",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3895912/"
+      },
+      {
+        "pmid": "6374190",
+        "title": "[Clinical efficacy of ceftazidime in inflammatory diseases in the field of gynecology].",
+        "abstract": "Ceftazidime ( CAZ ) was evaluated for its clinical efficacy in a total of 12 cases, namely 3 cases of endometritis, 3 cases of intrapelvic infections, 4 cases of adnexitis and 2 cases of external genital infections. In all the cases, CAZ was administered by intravenous drip infusion, and the duration of the treatment ranged from 3 to 22 days. Daily dose was 2 g in 10 cases, and in the remaining 2 cases, daily doses were changed during the course of treatment in the range from 2 to 4 g. The clinical results of CAZ by disease were as follows; excellent in 1 case and good in 2 cases of endometritis, good in all the 3 cases of intrapelvic infections and the 4 cases of adnexitis, and excellent in 1 case and good in 1 case of external genital infections. The overall efficacy rate was 100%, namely, excellent in 2 cases and good in 10 cases of the total of 12 cases. Neither side effects nor abnormal laboratory findings attributable to CAZ were observed in any of the case. From these results, w",
+        "journal": "The Japanese journal of antibiotics",
+        "year": "1984",
+        "authors": [
+          "Okamura K",
+          "Nakakuki M",
+          "Yamada K",
+          "Furukawa K",
+          "Sato A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Bacterial Infections",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Drug Evaluation",
+          "Female",
+          "Genital Diseases, Female",
+          "Humans",
+          "Infusions, Parenteral"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6374190/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:01:17.652477",
+  "success": true,
+  "error_message": null
+}

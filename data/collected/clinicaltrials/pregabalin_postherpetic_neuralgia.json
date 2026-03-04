@@ -1,0 +1,922 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Pregabalin",
+    "disease": "postherpetic neuralgia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07275762",
+      "title": "A Multicenter, Randomized, Double-blind, Double-dummy, Parallel-controlled Phase II Clinical Study Evaluating the Efficacy and Safety of Y-4 Tablets in Chinese Patients With Postherpetic Neuralgia, Compared With Pregabalin Capsules",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-01",
+      "completion_date": "2026-11-30",
+      "country": "N/A",
+      "enrollment": 160,
+      "brief_summary": "The goal of this clinical trial is to assess the efficacy and safety of Y-4 in patients with postherpetic neuralgia(PHN).\n\nThe main questions it aims to answer are:\n\nThe efficacy of Y-4 to treat PHN. If drug RK-4 is safe and tolerate in the patients with LHI?\n\nResearchers will analyze data from different groups, includes Y-4 group and pregabalin group , to see efficacy of Y-4 and If drug Y-4 is safe and tolerate in the patients with PHN.\n\nParticipants will :\n\n* Take Y-4 (1w titration period:75 m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- 1. Able to understand and voluntarily sign the informed consent form. 2. Age ≥ 18 years, any gender. 3. Diagnosed with PHN, meaning pain persists for more than one month after the acute shingles rash has healed.\n\n4\\. VAS score in SF-MPQ ≥ 40 mm of the last 24 hours during scr",
+      "endpoints": [
+        "Evaluate the efficacy of Y-4 in patients with PHN by Change from baseline in Average Daily Pain Score (ADPS) for each group at week 13."
+      ],
+      "sponsor": "Neurodawn Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07275762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01555073",
+      "title": "A Prospective Randomized Blinded Placebo Controlled Comparison of Multimodal Pre-emptive Analgesia on Long Term Outcome Following Uterine Artery Embolization",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2011-10",
+      "completion_date": "2013-10",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "Uterine leiomyomata, also known as fibroids, are an extremely common benign lesion being present in 30-50% of all women. Traditional surgical treatment of symptomatic fibroids has been hysterectomy in post child bearing woman. However, over the last decade, the use of a minimal invasive technique called uterine artery embolization has become increasingly popular due to high patient satisfaction, cost effectiveness, and shorter recovery period. The purpose of this randomized blinded placebo contr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult female patients (\\>18 years of age) who are undergoing elective uterine artery embolization will be included in the study.\n\nExclusion Criteria:\n\n* Exclusion criteria for the study are patient refusal to be included in the study, the presence of language barrier that inhi",
+      "endpoints": [
+        "Post Operative Pain Control"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT01555073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00407511",
+      "title": "A Prospective, Open Label, Multi-Center, Study Of Pregabalin In The Treatment Of Neuropathic Pain Associated With Diabetic Peripheral Neuropathy, Postherpetic Neuralgia, HIV-Related Peripheral Neuropathic Pain And Chemotherapy Induced Peripheral Neuropathic Pain",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2008-07",
+      "country": "Ecuador, Mexico, Peru, Venezuela, Colombia",
+      "enrollment": 121,
+      "brief_summary": "Management of neuropathic pain associated with diabetic peripheral neuropathy, post-herpetic neuralgia, human immunodeficiency virus-related peripheral neuropathy, and chemotherapy induced peripheral neuropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are diagnosed with neuropathic pain associated with diabetic peripheral neuropathy, post-herpetic neuralgia, human immunodeficiency virus related peripheral neuropathy, and chemotherapy induced peripheral neuropathy.\n\nExclusion Criteria:\n\n* Severe Pain associated ",
+      "endpoints": [
+        "Change From Baseline to End of Treatment (EOT) in Weekly Mean Pain Score on the Daily Pain Rating Scale (DPRS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00407511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01688947",
+      "title": "A Phase 2, Randomized, Double-blind, Placebo- and Active-controlled, Parallel-group, Multicenter Study Evaluating the Analgesic Efficacy and Safety of V116517 in Subjects With Moderate to Severe Chronic Pain Due to Postherpetic Neuralgia (PHN)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 105,
+      "brief_summary": "The primary objective of this study is to evaluate the analgesic efficacy of 2 dose levels of V116517 versus placebo.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Subjects with chronic pain due to PHN as their primary pain condition and some degree of pain every day from this condition.\n2. Clinical diagnosis of PHN based on history of painful dermatomal blistering rash resolving in a few weeks followed by persistent pain in the sam",
+      "endpoints": [
+        "\"Pain on the average in the last 24 hours\" score from the Modified Brief Pain Inventory - Short Form (mBPI-SF)"
+      ],
+      "sponsor": "Purdue Pharma LP",
+      "url": "https://clinicaltrials.gov/study/NCT01688947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00570310",
+      "title": "A Double-Blind, Placebo-Controlled, Enriched-Enrollment, Randomized Withdrawal Study to Evaluate an Optimal Methodology for Conducting Proof of Concept Trials in Patients With Chronic Neuropathic Pain Syndromes Using Pregabalin as a Test Drug",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2008-09",
+      "country": "N/A",
+      "enrollment": 104,
+      "brief_summary": "The purpose of this study is to determine the best way to conduct clinical trials in patients with neuropathic pain (nerve pain). This study will see if generic pregabalin has any effect on neuropathic pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has moderate to severe nerve pain due to one of the following conditions: Postherpetic neuralgia, Painful diabetic neuropathy, Small fiber neuropathy or idiopathic distal sensory polyneuropathy\n* Patient is able to complete questionnaires in either English or Spanish\n*",
+      "endpoints": [
+        "Daily Evening Patient Reported Pain Intensity Scores"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00570310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01058642",
+      "title": "A Phase 2A, Randomized, Blinded, Placebo- and Active-controlled, 2-Period Crossover Study to Assess the Analgesic Efficacy, Safety, and Tolerability of ADL5747 in Subjects With Postherpetic Neuralgia",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-01",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "The primary purpose of this study is to evaluate the analgesic efficacy of ADL5747 in participants with postherpetic neuralgia (PHN). The secondary objective of this study is to evaluate the safety, tolerability, and pharmacokinetics of ADL5747.",
+      "eligibility_criteria": "Key inclusion Criteria:\n\n* have a diagnosis of PHN (defined as pain present for at least 3 months after the healing of herpes zoster rash; there is no upper limit on the duration of PHN)\n* have an average daily pain score of at least 4 on the numeric pain rating scale (0-10) at the start of baseline",
+      "endpoints": [
+        "Change in Weekly Average Numeric Pain Rating Scale (NPRS) Score From Baseline to End of Treatment (Week 2 of Each Treatment Period)"
+      ],
+      "sponsor": "Cubist Pharmaceuticals LLC, a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+      "url": "https://clinicaltrials.gov/study/NCT01058642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00599638",
+      "title": "A TWO WEEK DOUBLE-BLIND PLACEBO-CONTROLLED CROSSOVER STUDY TO COMPARE THE EFFICACY AND SAFETY OF A PREGABALIN/PF-00489791 COMBINATION VERSUS PREGABALIN ALONE IN PATIENTS WITH POST-HERPETIC NEURALGIA",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-04-09",
+      "completion_date": "2008-12-23",
+      "country": "United States",
+      "enrollment": 72,
+      "brief_summary": "Pregabalin is an alpha-2 delta ligand approved for the treatment of neuropathic pain, however, not all patients will respond to this drug. This study will compare the efficacy of pregabalin when administered with an experimental drug PF-00489791, in patients with post-herpetic neuralgia. The efficacy of this combination will be compared to pregabalin alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female of non-childbearing potential\n* Pain present for more than 3 months after healing of herpes zoster skin rash\n* VAS score of \\>=40mm at screening and baseline visits\n\nExclusion Criteria:\n\n* Patients with pain conditions which might impair the assessment of posthe",
+      "endpoints": [
+        "Mean Pain Score on Daily Pain Rating Scale (DPRS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00599638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02924675",
+      "title": "Interest of Pregabalin (Lyrica) on the Treatment of Reflex Earache in Head and Neck Cancer.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-06-05",
+      "completion_date": "2018-12-12",
+      "country": "France",
+      "enrollment": 42,
+      "brief_summary": "Referred otalgia is one of the symptoms of oropharynx and hypopharynx cancer. It can be primary (otodynia) or secondary (referred otalgia and projected pain). The mechanism of referred otalgia involves several non adjacent nerve territories as those of head, neck or ear. Referred otalgia is a projected pain due to injury (most of the time cancer) localized far from the ear but sharing the same innervation. In this contest, the otoscopy is normal.\n\nFour cranial nerves participate in the sensory i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* referred otalgia\n* ENT cancer\n* ASA score 1,2 or 3\n* understanding protocol\n* information and free and informed consent\n\nExclusion Criteria:\n\n* ASA score 4 et 5\n* allergy or intolerance of pregabalin\n* creatinin clearance inferior of 50ml/min (Cockcroft formula)\n* liver failur",
+      "endpoints": [
+        "decreased intensity of pain in referred otalgia"
+      ],
+      "sponsor": "University Hospital, Lille",
+      "url": "https://clinicaltrials.gov/study/NCT02924675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06383702",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Controlled, Phase 3 Trial to Evaluate the Efficacy and Safety of Pregabalin Sustained-Release Tablets for the Treatment of Neuropathic Pain Associated With Diabetic Peripheral Neuropathy",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-05-15",
+      "completion_date": "2025-04-15",
+      "country": "N/A",
+      "enrollment": 358,
+      "brief_summary": "This study is designed to evaluate the efficacy and safety of pregabalin extended-release tablets in the treatment of neuropathic pain associated with diabetic peripheral neuropathy. Pregabalin has been approved in more than 130 countries for neuropathic pain associated with diabetic peripheral neuropathy, postherpetic neuralgia, and neuralgia associated with spinal cord injury. Pregabalin extended-release tablets were administered once daily, as a single dose after dinner. Compared with pregaba",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged ≥ 18 years and ≤ 75 years at screening;\n* diagnosed with type 1 or type 2 diabetes for ≥ 1 year;\n* diagnosed with distal symmetrical polyneuropathy caused by diabetes (type 1 or type 2), with duration of neuropathic pain associated with diabetic peripheral neuropathy ≥ 6 ",
+      "endpoints": [
+        "Numeric Rating Scale (NRS) mean change at week 13."
+      ],
+      "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06383702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06914180",
+      "title": "Intravenous Infusion of Esketamine in Combination With Pulsed Radiofrequency for Trigeminal Postherpetic Neuralgia",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-07-01",
+      "country": "China",
+      "enrollment": 174,
+      "brief_summary": "This trial's primary objective is to compare the analgesic efficacy of esketamine in combination with pulsed radiofrequency (PRF) against that of PRF monotherapy in patients with trigeminal postherpetic neuralgia (TPHN).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages more than 18 years;\n2. Pain persisting for over three months following the onset of the herpes zoster skin rash;\n3. Lesions located in the trigeminal nerve or its branches innervated regions；\n4. Having an average pain score of at least 4 on a Numeric Rating Scale (NRS, 0",
+      "endpoints": [
+        "1.the difference between the means of the daily mean pain scores over the first 7 days, measured on an 11-point Numeric Rating Scale（NRS）"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06914180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07352553",
+      "title": "Non-invasive Brain Stimulation for Postherpetic Neuralgia: A Prospective, Randomized, Sham-Controlled Study",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-20",
+      "completion_date": "2026-07-30",
+      "country": "China",
+      "enrollment": 94,
+      "brief_summary": "Pharmacotherapy is the cornerstone of Postherpetic Neuralgia (PHN) management. First-line treatments for PHN include antiviral agents (e.g., acyclovir, valacyclovir, famciclovir, and brivudine), centrally acting antiepileptic drugs (pregabalin and gabapentin), antidepressants (duloxetine and venlafaxine), and peripherally acting sodium-channel blockers (lidocaine patches).\n\nIn recent years, substantial progress has been made in the prevention and treatment of PHN, including early and active anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Diagnosis of postherpetic neuralgia (PHN) with disease duration ≥ 3 months.\n* NRS pain score ≥ 4.\n* Willing to receive the intervention and able to provide written informed consent.\n\nExclusion Criteria:\n\n* Contraindications to electrical stimulation (e.g., in",
+      "endpoints": [
+        "Change in Pain Intensity (NRS)"
+      ],
+      "sponsor": "Huazhong University of Science and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT07352553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06420778",
+      "title": "A Randomized Controlled Study on the Treatment of Postherpetic Neuralgia in the Head and Face With Superficial Needling Combined With Electroacupuncture",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-07-12",
+      "completion_date": "2025-12-31",
+      "country": "China",
+      "enrollment": 124,
+      "brief_summary": "Based on the inclusion and exclusion criteria, patients with head and face PHN who met the requirements were selected as trial subjects, and the efficacy was clarified in a randomized controlled design trial. The visual analog score VAS was used as the primary evaluation index, and the depression self-assessment scale score , Hamilton depression scale, Pittsburgh sleep quality index scale, and quality of life evaluation scale (SF-36) were used as the secondary evaluation indexes, and oral pregab",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMeet the diagnostic criteria in the 2016 Chinese Expert Consensus on the Diagnosis and Treatment of Postherpetic Neuralgia; Age 50-80 years (including telangiectasia), gender is not limited; Have a history of herpes zoster on the head and face, and the lesions on the head and fa",
+      "endpoints": [
+        "Visual Analogue Scale/Score"
+      ],
+      "sponsor": "Zhejiang Chinese Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06420778"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01713426",
+      "title": "Qutenza Versus Pregabalin in Subjects With Peripheral Neuropathic Pain: an Open-label, Randomized, Multicenter, Non-inferiority Efficacy and Tolerability Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-07-11",
+      "completion_date": "2013-09-26",
+      "country": "Bulgaria, Spain, Armenia, Russia, Sweden, Belgium, Turkey (Türkiye), Hungary, Slovakia, Germany, Portugal, Romania, Finland, Greece, Belarus, Austria, Poland, Slovenia, France, Czechia, Italy, United Kingdom",
+      "enrollment": 568,
+      "brief_summary": "This study is comparing the efficacy and tolerability of Qutenza with that of pregabalin in patients suffering from peripheral neuropathic pain. Treatment allocation will be to one of these treatments and the duration of the study will be about 10 weeks (assuming that from screening to treatment allocation takes 2 weeks). Participants will be asked to complete questionnaires about various aspects relating to their condition throughout the study.\n\nThis study will include subjects suffering from P",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Documented diagnosis of probable or definite PNP\n* 2\\. Localized and well-defined area of PNP, suitable for treatment with QUTENZA\n* 3\\. Documented diagnosis at the Baseline Visit of either:\n\n  * Postherpetic neuralgia (PHN) with pain persisting at least 6 months since shi",
+      "endpoints": [
+        "Proportion of subjects in each arm who achieve at least 30% decrease in the \"average pain for the past 24 hours\" Numeric Pain Rating Scale (NPRS) score from baseline to week 8"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT01713426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03421613",
+      "title": "A Double-Blind, Placebo-Controlled, Crossover Study to Evaluate the Efficacy and Tolerability of 3VM1001 Cream for the Treatment of Pain Associated With Post-Herpetic Neuralgia: A Proof of Concept Study",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-03-06",
+      "completion_date": "2018-05-04",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "Post-herpetic neuralgia (PHN) is pain following acute herpes zoster; defined as pain lasting longer than 3 months. Current first line management consists of tricyclic anti-depressants and anti-convulsants such as gabapentin and pregabalin. There is an unmet medical need for treatments got topical therapies that demonstrate efficacy without serious side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of PHN for \\>3 months;\n* Persistent pain for more than 6 months from appearance of herpes zoster rash that is not located above the scalp hairline, or in immediate proximity to mucous membranes (given the low toxicity of copper, PHN affecting the face and neck will b",
+      "endpoints": [
+        "The time averaged mean in a standard 100 mm visual analog scale (VAS)."
+      ],
+      "sponsor": "CDA Research Group, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03421613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00150436",
+      "title": "An Open-Label Extension Safety and Efficacy Study of Pregabalin in Patients With Postherpetic Neuralgia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2005-07",
+      "country": "N/A",
+      "enrollment": 276,
+      "brief_summary": "To evaluate long-term safety and efficacy of pregabalin in patients with postherpetic neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have met the inclusion criteria for preceding double-blind BID study in postherpetic neuralgia\n* Must have received pregabalin/placebo under double-blind conditions for a minimum of 3 weeks.\n\nExclusion Criteria:\n\n* Patients cannot participate if they experienced a serious",
+      "endpoints": [
+        "Safety Efficacy"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00150436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07307976",
+      "title": "The Analgesic Efficacy and Safety of Oral Medications (Crisugabalin) in Patients With Herpes Zoster",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-12-15",
+      "completion_date": "2027-12-31",
+      "country": "China",
+      "enrollment": 750,
+      "brief_summary": "Herpes zoster (HZ) is characterized by a painful dermatomal rash and significantly affects quality of life, with acute pain increasing the risk of postherpetic neuralgia. Although early antiviral therapy limits viral replication, its analgesic effect is insufficient, and many patients experience inadequate relief despite stepwise use of non-opioids and opioids. Gabapentinoids such as gabapentin and pregabalin are recommended adjuncts, but their efficacy in acute HZ is inconsistent and often acco",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Ages more than 18 years;\n* 2\\. Patients with onset of HZ rash less than 90 days;\n* 3\\. Experiencing moderate to severe HZ pain with an average pain score of at least 4 on a Numeric Rating Scale (NRS, 0 = no pain, 10 = worst possible pain);\n* 4\\. Aspartate aminotransferase ",
+      "endpoints": [
+        "the average numeric rating scale score over the past 24 hours, rated each morning upon awakening and average over 7 days at maximum tolerated dose."
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07307976"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01391858",
+      "title": "Effects of Oral Pregabalin Versus Placebo on Postoperative Pain and Morphine Consumption After Mastectomy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2013-06",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study will compare the effects of oral pregabalin with placebo on postoperative pain and morphine usage after mastectomy.\n\nPregabalin is an anticonvulsant agent approved by the United States Food and Drug Administration (FDA) for the treatment of neuropathic pain associated with post-herpetic neuralgia and diabetic neuropathy.\n\nWomen 18-70 years of age, undergoing unilateral modified mastectomy or lumpectomy with axillary node dissection will be recruited to participate in the study. Patien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Women, 18-70 years of age\n2. ASA physical status I to III\n3. Undergoing unilateral modified radical mastectomy or lumpectomy with axillary node dissection\n\nExclusion Criteria:\n\n1. Patients unable to cooperate\n2. Have known allergy to pregabalin or morphine\n3. A history of dru",
+      "endpoints": [
+        "The Postoperative Opioid Requirement After Mastectomy",
+        "Oral Opioids Consumption"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01391858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03809702",
+      "title": "Efficacy of Pregabalin for the Treatment of Acute Herpetic Neuralgia and for the Prevention of Post Herpetic Neuralgia- a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-07-15",
+      "completion_date": "2019-12-30",
+      "country": "Nepal",
+      "enrollment": 82,
+      "brief_summary": "All eligible Herpes Zoster patients will be randomized into two groups. Group 1 will be the treatment group receiving Pregabalin 75 mg twice daily for 4 weeks in addition to other routine treatment. Whereas, group 2 will be the control group receiving all routine treatment similar to group 1 except Pregabalin. Instead control group will receive Placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of HZ presenting within 72 hours of onset of rash,\n* With pain score 40 or above on 100 mm pain Visual Analogue Scale at the screening visit,\n* Giving written consent for the study.\n* Age between 18-70 years\n\nExclusion Criteria:\n\n* HZ presenting after 72 hours of onse",
+      "endpoints": [
+        "Percentage reduction of visual analogue scale (VAS) of pain in each visit in intervention and placebo group"
+      ],
+      "sponsor": "B.P. Koirala Institute of Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03809702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07307170",
+      "title": "The Analgesic Efficacy and Safety of Oral Medications (Mirogabalin) in Patients With Herpes Zoster",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-12-15",
+      "completion_date": "2027-12-31",
+      "country": "China",
+      "enrollment": 750,
+      "brief_summary": "Herpes zoster (HZ) is characterized by a painful dermatomal rash and significantly affects quality of life, with acute pain increasing the risk of postherpetic neuralgia. Although early antiviral therapy limits viral replication, its analgesic effect is insufficient, and many patients experience inadequate relief despite stepwise use of non-opioids and opioids. Gabapentinoids such as gabapentin and pregabalin are recommended adjuncts, but their efficacy in acute HZ is inconsistent and often acco",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Ages more than 18 years;\n* 2\\. Patients with onset of HZ rash less than 90 days;\n* 3\\. Experiencing moderate to severe HZ pain with an average pain score of at least 4 on a Numeric Rating Scale (NRS, 0 = no pain, 10 = worst possible pain);\n* 4\\. Aspartate aminotransferase ",
+      "endpoints": [
+        "the average numeric rating scale score over the past 24 hours, rated each morning upon awakening and average over 7 days at week 4"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07307170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06344403",
+      "title": "Clinical Efficacy and Safety of Tender Point Infiltration (TPI) for Management of Acute and Subacute Zoster Associated Pain",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-06-01",
+      "completion_date": "2027-12-01",
+      "country": "China",
+      "enrollment": 136,
+      "brief_summary": "Herpes zoster (HZ) is a skin infection disease which cause severe zoster-associated pain (ZAP) along sensory nerve in the corresponding segment. Evidence for the efficacy of existing local therapies for acute/subacute ZAP is limited. The hypothesis is that patients with acute/subacute ZAP treated with TPIs with local anesthetic and steroids under the basis of standard treatment will show better clinical outcomes compared with subjects treated with standard antiviral medicine treatment only.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with onset of HZ rash less than 90 days.\n2. HZ affected the spinal nerves (cervical/thoracic/lumbar nerve).\n3. Aged 18 to 75 years (inclusive).\n4. Pain intensity \\> 7 cm on a visual analogue scale (VAS 0-10 cm).\n5. Agreed to sign the informed consent form.\n\nExclusion",
+      "endpoints": [
+        "The presence of postherpetic neuralgia using VAS score"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06344403"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06893172",
+      "title": "Effectiveness of Warm Acupuncture for Postherpetic Neuralgia in the Context of the Qi Stagnation and Blood Stasis Syndrome: a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2025-08-29",
+      "country": "N/A",
+      "enrollment": 36,
+      "brief_summary": "Postherpetic neuralgia (PHN) is the most common clinical complication of herpes zoster. PHN can persist for months to years, and in some cases, the pain may last for more than five years. Patients suffering from severe, prolonged pain endure significant distress, which seriously affects their quality of life and daily activities. Moreover, PHN can lead to insomnia, anxiety, depression, or even suicide. Currently, the treatment of PHN primarily focuses on pain management. First-line treatment opt",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals with a history of herpes zoster in the trunk area.\n* Individuals diagnosed with Postherpetic neuralgia (PHN) by a dermatologist, based on PHN diagnostic criteria, with pain persisting for 3 months or more after the skin lesions have healed.\n* Individuals with a pai",
+      "endpoints": [
+        "The change of the Visual Analog Scale (VAS)"
+      ],
+      "sponsor": "University of Medicine and Pharmacy at Ho Chi Minh City",
+      "url": "https://clinicaltrials.gov/study/NCT06893172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04342065",
+      "title": "Efficacy of Pre-emptive Different Doses of Oral Pregabalin Versus Celecoxib on Sevoflurane and Analgesic Consumption in Patients Subjected for Elective Lumbar Spine Fixation Surgery: a Randomized Controlled Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-01-01",
+      "completion_date": "2020-02-01",
+      "country": "Egypt",
+      "enrollment": 200,
+      "brief_summary": "The anti-epileptic drugs such as gabapentin and other non-steroidal anti-inflammatory drugs (NSAID) such as celecoxib were used as a part of multimodal analgesia to control such pain. Gabapentin is an anticonvulsant drug that has analgesic effect in post-herpetic neuralgia, diabetic neuropathy, and neuropathic pain. Celecoxib is one of the NSAIDs, that its analgesic effect is reported in various studies by cyclooxygenase-2 (COX-2) inhibitor.\n\nThe aim of this randomized double-blinded study was t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* American society of anesthesiologists (ASA) I and II, aged between 21-60 years old scheduled to undergo elective posterior approach lumbar spine disc surgery\n\nExclusion Criteria:\n\n* Patients with a known sensitivity to celecoxib or pregabalin, psychotic disorder or cognitive i",
+      "endpoints": [
+        "pain control"
+      ],
+      "sponsor": "South Egypt Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT04342065"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00335933",
+      "title": "A Phase 3 Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of the Safety and Efficacy of Gabapentin Extended Release (G-ER) Tablets in the Treatment of Patients With Postherpetic Neuralgia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2007-07",
+      "country": "United States",
+      "enrollment": 378,
+      "brief_summary": "Gabapentin and pregabalin are treatments for some types of neuropathic pain, including postherpetic neuralgia (PHN). However, these treatments usually need to be taken 3 times a day for effective pain control. The purpose of this study is to determine whether a new gabapentin tablet, which only needs to be taken once or twice a day, is safe and effective for the treatment of postherpetic neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men or women 18 years or older who have experienced pain for at least 3 months after the healing of a herpes zoster skin rash (typically about 4 months after the rash first appears).\n2. Patient has pain intensity score of at least 4 on the 11-point Likert numerical rating sca",
+      "endpoints": [
+        "The primary study objective is to assess the relative efficacy of G-ER versus placebo in reducing the average daily pain score from the baseline week to the final week of the efficacy treatment period (Treatment Week 10) in patients with PHN",
+        "Daily pain scores will be measured using an electronic diary."
+      ],
+      "sponsor": "Depomed",
+      "url": "https://clinicaltrials.gov/study/NCT00335933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00159666",
+      "title": "A Double-Blind Randomized Placebo-Controlled Trial of the Time to Onset of Pain Relief in Subjects With Post Therapeutic Neuralgia (PHN) Treated With Pregabalin (150 - 600 Mg/Day Flexible Optimized Dose or 300 Mg/Day Fixed Dose) or Placebo",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2006-06",
+      "country": "Spain, Italy, Germany, United Kingdom, United States",
+      "enrollment": 255,
+      "brief_summary": "The purpose of this study is to measure how rapidly pregabalin treatment can relieve pain in patients with post-herpetic neuralgia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of PHN with pain present for at least three months after the healing of a Herpes Zoster skin lesion.\n* Subjects must have completed the Daily Pain Rating Scale in the electronic diary at least 4 times during screening and have an average daily pain rating score of gr",
+      "endpoints": [
+        "Onset meaningful pain reduction"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00159666"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01116531",
+      "title": "Efficacy, Safety, Tolerability and Pharmacokinetics of Concomitant Administration of Tramadol With Duloxetine or Pregabalin: a Randomized Controlled Flexible-dose Study in Patients With Neuropathic Pain",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2010-04",
+      "completion_date": "2012-12",
+      "country": "Finland",
+      "enrollment": 0,
+      "brief_summary": "Tramadol is an opioid analgesic, which is widely used in the treatment of acute and neuropathic pain. Treatment of neuropathic pain often requires a combination of pain medications due to the complex nature of neuropathic pain and frequent inadequate response to drug treatment. Common drugs used concomitantly with tramadol are SNRI antidepressant duloxetine and anticonvulsants such as pregabalin. Both tramadol and duloxetine have serotonergic effects and duloxetine has also a potential to inhibi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic (≥ 6 months) neuropathic pain due to postherpetic neuralgia or diabetic polyneuropathy\n* Pain intensity ≥ 4 on a numerical scale of 0-10\n* Informed consent\n\nExclusion Criteria:\n\n* Clinically significant abnormalities in laboratory screening\n* Pregnancy\n* Depression\n* U",
+      "endpoints": [
+        "Concentration of O-desmethyltramadol"
+      ],
+      "sponsor": "Turku University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01116531"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06969417",
+      "title": "Comparative Efficacy of Pregabalin and Lacosamide in Patients With Herpes Zoster and Post Herpetic Neuralgia",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-10",
+      "completion_date": "2025-09-30",
+      "country": "Pakistan",
+      "enrollment": 50,
+      "brief_summary": "Post-herpetic neuralgia (PHN) is the most significant complication of herpes zoster caused by reactivation of latent Varicella-Zoster virus (VZV). PHN is characterized by neuropathic pain lasting beyond the resolution of the rashes. Post herpetic neuralgia (PHN) represents a potentially debilitating and often undertreated form of neuropathic pain that disproportionately affects vulnerable populations, including the elderly and the immunocompromised. PHN pain is typically localized, unilateral an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed cases of herpes zoster suffering from postherpetic neuralgia\n* Ages: 18 to 50\n* Both male and female\n\nExclusion Criteria:\n\n* Lack of consent\n* Patient already taking pain killers for post herpetic neuralgia\n* Patients suffering from other systemic illness",
+      "endpoints": [
+        "Visual Analog Scale"
+      ],
+      "sponsor": "CMH Kharian Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT06969417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01485094",
+      "title": "Evaluation of the Efficacy, Tolerability, and Safety of 7 Days of Treatment With GRT6010 or Pregabalin in Comparison to Placebo in Subjects With Peripheral Neuropathic Pain.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-02",
+      "completion_date": "2013-01",
+      "country": "Germany, United Kingdom, Poland, Hungary",
+      "enrollment": 114,
+      "brief_summary": "The purpose of this trial is to determine whether a novel analgesic is effective in treating of neuropathic pain caused by herpetic infection, surgery, or trauma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years to 75 years\n* Presence of persistent neuropathic pain for at least 6 months at the time of the Enrollment Visit. Allowed reasons for neuropathic pain are: modified radical mastectomy, breast conserving surgery, or cosmetic breast surgery. \\[Germany: subjects after",
+      "endpoints": [
+        "Difference Between Baseline and End-of-double-blind Treatment Ongoing Pain Intensity Scores",
+        "The Difference Between Baseline and End-of-double-blind Treatment Brush-evoked Pain Intensity Scores"
+      ],
+      "sponsor": "Grünenthal GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01485094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01332149",
+      "title": "An 11-week Randomized, Double-blind, Multi Center, Placebo-controlled Study To Evaluate The Efficacy, Safety And Tolerability Of Pregabalin (300 Mg/Day) Using A Fixed Dosing Schedule In The Treatment Of Subjects S With Pain Associated With Diabetic Peripheral Neuropathy.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2014-06",
+      "country": "China",
+      "enrollment": 626,
+      "brief_summary": "Pregabalin has proven effective in previous clinical trails in other countries in relieving neuropathic pain associated with postherpetic neuralgia and painful diabetic neuropathy.\n\nThis study is being conducted according to China registration requirement to submit a reapplication with new local diabetic peripheral neuropathy study as a commitment plus the existing data to apply for Lyrica \"pain associated with postherpetic neuralgia\" indication after Lyrica \"pain associated with postherpetic ne",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects aged 18 years or older\n* Diagnosis of painful, distal, symmetrical, sensorimotor polyneuropathy which is due to diabetes mellitus (Type 1 or 2), and symptoms of painful diabetic neuropathy for 6 months to 5 years (inclusive).\n* At the baseline and rand",
+      "endpoints": [
+        "Baseline Mean Pain Score",
+        "Change From Baseline in Mean Pain Score at Endpoint"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01332149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07271784",
+      "title": "Establishment of a Prediction Model for Postherpetic Neuralgia Based on Immune Cell Typing",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2024-06-24",
+      "country": "China",
+      "enrollment": 151,
+      "brief_summary": "This prospective cohort study enrolled 300 herpes zoster (HZ) patients at varying disease stages (1 week to 3 months post-onset) to investigate predictors of postherpetic neuralgia (PHN). Comprehensive baseline data were collected, including demographic characteristics (age, sex, body mass index \\[BMI\\]), clinical comorbidities (hypertension, diabetes mellitus), disease-specific parameters (duration of zoster-associated pain \\[ZAP\\], dermatomal distribution, pregabalin dosage equivalents), and p",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge ≥18 years Location of pain consistent with the HZ region and pain originating from herpes zoster (HZ)\n\nExclusion Criteria:\n\nMental disorders, cognitive deficits, or coexisting painful diseases Severe cardio-cerebrovascular disease, hepatorenal insufficiency, infectious disea",
+      "endpoints": [
+        "Occurrence of Postherpetic Neuralgia (PHN) as Assessed by the Numerical Rating Scale (NRS) at 3 months after herpes zoster onset."
+      ],
+      "sponsor": "First Affiliated Hospital of Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT07271784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02868801",
+      "title": "Efficacy and Safety of Pregabalin Sustained Release Tablet for Postherpetic Neuralgia -A Multicenter,Randomized, Double-blind, Placebo-controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-03",
+      "completion_date": "2017-06",
+      "country": "China",
+      "enrollment": 280,
+      "brief_summary": "The purpose of this study is to evaluate the Efficacy and safety of pregabalin sustained release tablet versus placebo for postherpetic neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatient ，Patients can not stay in the hospital overnight；\n2. Patients must have pain present for more than 3 months after the healing of the herpes zoster skin rash；\n3. At least 4 days and at least 8 pain diaries(Pain Numeric Rating Scale) must be completed satisfactorily ",
+      "endpoints": [
+        "Number of Responders"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02868801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04664530",
+      "title": "The Study on the Esketamine in the Treatment of Postherpetic Neuralgia",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-11-25",
+      "completion_date": "2023-12-01",
+      "country": "China",
+      "enrollment": 48,
+      "brief_summary": "Herpes zoster (HZ) is an acute herpetic skin disease caused by the reactivation of the varicella-zoster virus (VZV) latent in the sensory ganglia. Postherpetic neuralgia (PHN) often occurs after herpes zoster heals and persists for a long time. At present, clinically anticonvulsants (such as gabapentin, pregabalin) and antidepressants (such as amitriptyline) are clinically first-line drugs for the treatment of PHN, which are not usually effective to treat PHN well, as well as to alleviate patien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-80 years old; Patients with post-herpetic neuralgia with anxiety and depression; NRS ≧4 points; A and (or) D ≧8 points in the Hospital Anxiety and Depression Scale (HADS) ; The course of disease ≧3 months; Patients with invalid conventional treatment (pregabalin or gabapent",
+      "endpoints": [
+        "Numeric rating scales"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT04664530"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02952937",
+      "title": "A Randomized, Open-label, Single Dose, Crossover Phase 1 Study to Compare the Pharmacokinetic Characteristics of GLA5PR GLARS-NF1 Tablet 300 mg and GLA5PR GLARS-NF3 Tablet 300 mg in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11",
+      "completion_date": "2017-04",
+      "country": "South Korea",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this clinical trial is to (1) evaluate the bioequivalence(BE) of GLA5PR GLARS-NF3 tablet 300mg administered regular diet relative to GLA5PR GLARS-NF1 tablet 300mg administered regular diet and (2) determine the safety and tolerability of a single dose of GLA5PR GLARS-NF3 tablet 300mg administered regular diet and GLA5PR GLARS-NF1 tablet 300mg administered regular diet.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male subjects who, at the time of screening, are the age of older than 19 years.\n* Subjects who have BMI more than 17.5kg/m2 and less than 30.5kg/m2 and body weight more than 55kg.\n* There is no congenital disease or within 3 years of chronic diseases.\n* Healthy is def",
+      "endpoints": [
+        "AUClast of Pregabalin",
+        "Cmax of Pregabalin"
+      ],
+      "sponsor": "GL Pharm Tech Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT02952937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04862845",
+      "title": "Effect of Combination of Duloxetine and Pregabalin to Improve Pain After Liposuction Surgery",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2021-07-30",
+      "completion_date": "2026-01-01",
+      "country": "Egypt",
+      "enrollment": 90,
+      "brief_summary": "Postoperative pain is mediated by different mechanisms at multiple neural sites. Thus, multimodal analgesics can reduce the postoperative pain. Although Opioids are considered the analgesics of choice to treat moderate to severe pain, their use carries the risk of side effects and hyperalgesia. Multimodal analgesia can be achieved by combining different analgesics and different methods of administration, to provide better analgesia synergistically compared with conventional analgesia. Therefore,",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Patients aged from 18 to40 years.\n* ASA I-II.\n* undergoing elective mega -liposuction surgery\n* BMI from 18 to 50 kg/m2\n\n  2\\. Exclusion criteria:\n* Patient refusal\n* Contraindication or chronic use (consistent use for longer than 3 months) to any of the study drugs ASA III-IV",
+      "endpoints": [
+        "total morphine consumption by ( mg )"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT04862845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352651",
+      "title": "Placebo-Controlled Study of Pregabalin for the Pain of Acute Herpes Zoster",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-06",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of this study is to see if therapy with the drug pregabalin relieves pain during shingles compared with placebo. A placebo is an inactive substance. Pregabalin is a drug marketed as Lyrica™ in the United States for the treatment of seizures, diabetic neuropathy, and post-herpetic neuralgia. The use of pregabalin and drugs like it for the treatment of pain during the acute phase of shingles is experimental. Thirty four subjects will complete the study at the University of California, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female 21 years of age or older\n2. Subjects must have an acute outbreak of herpes zoster (HZ) with unilateral skin rash and pain; the diagnosis will be based on physical examination and review of available medical records confirming the outbreak.\n3. Subjects must have",
+      "endpoints": [
+        "Subjects' pain ratings using the visual analog scale (VAS) (0-100 mm) from pre-drug through 6 hours post-drug"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00352651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06990854",
+      "title": "Electroacupuncture for PHN: Efficacy and Biomarker Evaluation in a Multicenter, Randomized, Sham-Controlled Trial Protocol",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-07-01",
+      "completion_date": "2026-12",
+      "country": "China",
+      "enrollment": 207,
+      "brief_summary": "The investigators are conducting a clinical study with the following objectives: to evaluate the clinical efficacy of electroacupuncture combined with pregabalin in treating Postherpetic Neuralgia(PHN); to investigate the correlation between serum biomarker levels and pain symptoms;and to determine whether serum biomarkers can serve as prognostic indicators for PHN.\n\nThis study utilizes a randomized controlled trial design with assessor blinding. A total of 207 eligible PHN patients were randoml",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the diagnostic criteria for PHN;\n* Age between 20 and 80 years old;\n* Voluntarily participate in the trial and sign the informed consent form.\n\nExclusion Criteria:\n\n* Pregnant or lactating women;\n* Presence of severe liver or kidney dysfunction, malignant tumors, or other",
+      "endpoints": [
+        "Assessing the participants' pain intensity by the Numerical Rating Scale"
+      ],
+      "sponsor": "Zhejiang Chinese Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06990854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00636636",
+      "title": "A Phase 3 Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of the Safety and Efficacy of Gabapentin Extended Release (G-ER) Tablets in the Treatment of Patients With Postherpetic Neuralgia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2009-09",
+      "country": "Argentina, Russia, United States",
+      "enrollment": 452,
+      "brief_summary": "Gabapentin and pregabalin are treatments for some types of neuropathic pain, including postherpetic neuralgia (PHN). However, these treatments usually need to be taken 3 times a day for effective pain control. The purpose of this study is to determine whether a new gabapentin tablet, which only needs to be taken once a day, is safe and effective for the treatment of postherpetic neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men or women 18 years or older who have experienced pain for at least 6 months, but not more than 5 years after the healing of a herpes zoster skin rash(typically about 4 months after the rash first appears).\n2. Patient has a pain intensity score of at least 4 on the 11-point",
+      "endpoints": [
+        "Mean Change in Baseline Observation Carried Forward (BOCF) Average Daily Pain Score"
+      ],
+      "sponsor": "Depomed",
+      "url": "https://clinicaltrials.gov/study/NCT00636636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07344246",
+      "title": "Efficacy and Safety of Systemic Dexamethasone Palmitate Treatments in Acute and Subacute Herpes Zoster Pain：a Randomized, Prospective, Multicenter, Blinded Endpoint, Open-label Controlled Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2028-12-01",
+      "country": "China",
+      "enrollment": 954,
+      "brief_summary": "This is a randomized, prospective, multicenter, open-label, blinded-endpoint study investigating the efficacy and safety of dexamethasone palmitate (DXP) for treating acute and subacute herpes zoster (shingles) pain.\n\nThe study consists of four parallel sub-studies, each designed to answer a specific question:\n\nStudy 1: Compares intramuscular (IM) vs. intravenous (IV) administration of DXP (8mg) against standard therapy alone.\n\nStudy 2: Compares two different IV doses of DXP (4mg vs. 8mg) agains",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- 1. Patients with onset of HZ rash less than 90 days. 2. HZ affected the trigeminal nerves (ophthalmic/ maxillary/ mandibular nerve). 3. Aged 18 to 75 years (inclusive). 4. Pain intensity ≥ 7 cm on a visual analogue scale (VAS) with 0= 'no pain' to 10='unbearable pain'.\n\n5\\. T",
+      "endpoints": [
+        "VAS scores at different follow-up time points."
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07344246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00394901",
+      "title": "A 13-Week, Randomized, Double-Blind, Multicenter, Placebo-Controlled Study To Evaluate Efficacy And Safety Of Pregabalin In The Treatment Of Postherpetic Neuralgia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2007-11",
+      "country": "Japan",
+      "enrollment": 372,
+      "brief_summary": "The purpose of this study is to evaluate efficacy and safety of pregabalin in the treatment of postherpetic neuralgia in a dose-ranging manner.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Visual Analogue Scale (VAS) of pain is higher than 40 mm.\n* Pain is sustained for more than 3 months after healing of herpes zoster skin rash.\n\nExclusion Criteria:\n\n* Malignancy within the past 2 years.\n* Patients who have undergone neurolytic or neurosurgical therapy for post",
+      "endpoints": [
+        "Mean Pain Scores at Endpoint",
+        "Mean Pain Score at Endpoint by Groups of Subjects With Expected Similar Plasma Concentrations",
+        "Number of Responders"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00394901"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00219544",
+      "title": "A Randomized, Placebo-Controlled Trial of the Efficacy and Safety of Pregabalin in the Treatment of Subjects With Peripheral Neuropathic Pain",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2008-02",
+      "country": "Canada",
+      "enrollment": 158,
+      "brief_summary": "This study will measure the impact of treatment with pregabalin in adult men and women who have a diagnosis of peripheral neuropathic pain (pain caused by a primary lesion of the peripheral nervous system such as Diabetic peripheral Neuropathy and Postherpetic Neuralgia).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects presenting a diagnosis of peripheral neuropathic pain, defined as pain caused by a lesion of the peripheral nervous system manifesting with sensory symptoms and signs, for at least 6 months at screening.\n* At baseline, subjects must have completed at least 4 daily pai",
+      "endpoints": [
+        "Neuropathic Pain in Subjects With Peripheral Neuropathic Pain Conditions During the Double-blind Phase"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00219544"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01603394",
+      "title": "A Phase 4 Multicenter, Open-Label, Pilot Study Of Pregabalin And Prediction Of Treatment Response In Patients With Postherpetic Neuralgia",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2012-10",
+      "completion_date": "2013-06",
+      "country": "Germany, South Africa, Austria, United States",
+      "enrollment": 9,
+      "brief_summary": "The primary objective is to explore whether sensory symptom cluster analysis is useful for predicting treatment response in Postherpetic Neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have pain present for more than 3 months after the healing of the herpes zoster skin rash.\n* At screening (V1) and baseline (V2), subjects must have a score of \\>=4 on the Numeric Rating Scale for Pain (1 week recall period).\n* At baseline (V2), at least 4 pain d",
+      "endpoints": [
+        "Change From Baseline in the Daily Pain Diary (Numerical Rating Scale, NRS) Mean Pain Score at the End of the Study (Week 6)."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01603394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06959147",
+      "title": "High-Voltage Long-Duration Pulsed Radiofrequency Combined With Liposomal Bupivacaine Subcutaneous Block for Herpes Zoster-Associated Neuralgia",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-12-17",
+      "completion_date": "2026-05-31",
+      "country": "China",
+      "enrollment": 46,
+      "brief_summary": "Research Objectives Background and Significance: Zoster-associated neuralgia (ZAN) refers to neuropathic pain experienced by herpes zoster (HZ) patients before, during, and after rash resolution, characterized by paroxysmal, lightning-like, or knife-like sensations. Postherpetic neuralgia (PHN), a common type of chronic pain, is often accompanied by physical-psychological impairments, social dysfunction, and anxiety-depression. While high-voltage long-term pulsed radiofrequency (HL-PRF) has beco",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients diagnosed with zoster-associated neuralgia (ZAN) who meet ALL of the following conditions:\n\n* Voluntarily provided written informed consent.\n* Inadequate response to pharmacological or other non-surgical therapies OR intolerable drug-related adverse effects.\n* Herpes zo",
+      "endpoints": [
+        "NRS"
+      ],
+      "sponsor": "Zunyi Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT06959147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06896994",
+      "title": "Intravenous Infusion of Esketamine in Combination With Pregabalin and Duloxetine for Postherpetic Neuralgia",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-05-01",
+      "country": "China",
+      "enrollment": 150,
+      "brief_summary": "To assess the 1-week effects and safety of esketamine in combination with pregabalin and duloxetine to relieve pain in patients with postherpetic Neuralgia(PHN).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages more than 18 years;\n2. Pain present for more than 3 months after healing of a herpes zoster skin rash;\n3. Has an average pain score of at least 4 on a Numeric Rating Scale (NRS, 0= no pain, 10= worst possible pain)；\n4. Failed to respond to or tolerate the effective dose ",
+      "endpoints": [
+        "the mean of daily pain scores"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06896994"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00424372",
+      "title": "A LONG-TERM STUDY TO EVALUATE SAFETY AND EFFICACY STUDY OF PREGABALIN IN THE TREATMENT OF POSTHERPETIC NEURALGIA.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-01-12",
+      "completion_date": "2008-08-19",
+      "country": "Japan",
+      "enrollment": 126,
+      "brief_summary": "To evaluate the safety of the long-term use of pregabalin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who completed the 13-week treatment of postherpetic neuralgia in Study A0081120.\n* Patients must be able to understand and cooperate with study procedures and have signed a written informed consent prior to entering the study.\n\nExclusion Criteria:\n\n* Patients who expe",
+      "endpoints": [
+        "Summary of Adverse Events"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00424372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02955472",
+      "title": "A Randomized, Open-label, Single Dose, Crossover Phase 1 Study to Compare the Pharmacokinetic Characteristics of GLA5PR GLARS-NF1 Tablet 150 mg and GLA5PR GLARS-NF3 Tablet 150 mg in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11",
+      "completion_date": "2017-04",
+      "country": "South Korea",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this clinical trial is to (1) evaluate the bioequivalence(BE) of GLA5PR GLARS-NF3 tablet 150mg administered regular diet relative to GLA5PR GLARS-NF1 tablet 150mg administered regular diet and (2) determine the safety and tolerability of a single dose of GLA5PR GLARS-NF3 tablet 150mg administered regular diet and GLA5PR GLARS-NF1 tablet 150mg administered regular diet.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male subjects who, at the time of screening, are the age of older than 19 years.\n* Subjects who have BMI more than 17.5kg/m2 and less than 30.5kg/m2 and body weight more than 55kg.\n* There is no congenital disease or within 3 years of chronic diseases.\n* Healthy is def",
+      "endpoints": [
+        "AUClast of Pregabalin",
+        "Cmax of Pregabalin"
+      ],
+      "sponsor": "GL Pharm Tech Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT02955472"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01270828",
+      "title": "A Phase 3 Double-blind, Randomized, Placebo-controlled, Safety And Efficacy Study Of Once Daily Controlled Release Pregabalin In The Treatment Of Patients With Postherpetic Neuralgia (Protocol A0081224)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2014-11",
+      "country": "Bulgaria, Hong Kong, Sweden, Croatia, Czechia, South Africa, India, Russia, Taiwan, Serbia, Slovakia, Denmark, Germany, Ukraine, Poland, Colombia, United States",
+      "enrollment": 806,
+      "brief_summary": "The purpose of the study is to explore the safety and efficacy of a new once a day pregabalin formulation versus placebo for patients with post herpetic neuralgia (Shingles)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have pain present for more than 3 months after the healing of the herpes zoster skin rash.\n* At screening (V1) and enrollment (V2), patients must have a score of greater than or equal to 4 on the Pain Numeric Rating Scale (1 week recall period).\n* At enrollment (",
+      "endpoints": [
+        "Number of Participants With Loss of Therapeutic Response."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01270828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06613802",
+      "title": "Prevalence of Gabapentinoids in Geriatric Falls Outpatients in Aalborg in 2013-2014, 2018-2019, and 2023",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2024-10-01",
+      "completion_date": "2024-12-01",
+      "country": "Denmark",
+      "enrollment": 800,
+      "brief_summary": "This study investigates the prescription patterns of gabapentinoids (gabapentin and pregabalin) in a geriatric fall clinic in Aalborg, Denmark, between 2013 and 2023. Gabapentinoids, often prescribed for neuropathic pain, have seen increased off-label usage, particularly as alternatives to opioids. Despite the lack of robust evidence supporting their efficacy in many neuropathic and non-neuropathic pain conditions, their use has grown, especially in elderly populations. This raises concerns abou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patient in the geriatric fall clinic at Aalborg University Hospital in either 2013-2014, 2018-2019, or 2023\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Prevalence of gabapentionoids",
+        "Prevalence of opioids"
+      ],
+      "sponsor": "Aalborg University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06613802"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00729690",
+      "title": "Effects of Oral Pregabalin on Spinal Neurotransmitters in Patients Undergoing Total Knee Replacement (TKA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "This study involves research. Pregabalin is a Food and Drug Administration (FDA) medication approved in the United States for the treatment of nerve pain related to diabetes and post-herpetic neuralgia \"shingles\", and for seizures in adults. The purpose of this research is to study the effect of oral Pregabalin on spinal neurotransmitters in subjects undergoing Total Knee Replacement Surgery (TKA). TKA is associated with considerable postoperative pain which if unrelieved may result in prolonged",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of osteoarthritis\n* Subjects who can understand and communicate in English\n\nExclusion Criteria:\n\n* Younger than 55 years or older than 75 years.\n* American Society of Anesthesiologists physical status IV\n* Prior use of pregabalin or gabapentin will not be an exclusiona",
+      "endpoints": [
+        "NRS Pain Score AUC (NRS*hr) - 1st 24 Hours",
+        "NRS Pain Score AUC (NRS*hr) - 1st 12 Hours"
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00729690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04546334",
+      "title": "The Effect of Erector Spinae Plane Block on the Relief of Pain of Post-herpetic Neuralgia: Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-09-26",
+      "completion_date": "2021-06-19",
+      "country": "Egypt",
+      "enrollment": 90,
+      "brief_summary": "This randomized clinical study will be carried out on 72 patients admitted to the pain clinic in Tanta University Hospitals with post-herpetic neuralgia.\n\nCases presenting to the Pain Clinic with acute pain due to postherpetic neuralgia in thoracic and/or lumbar dermatomes with numerical rating scale (NRS) of 6 or more and they will be randomly divided, using the closed envelop method, into three equal groups.\n\nGroup A (24 patients): Patients will be subjected to the routine medical treatment of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cases presenting to the Pain Clinic with acute pain due to postherpetic neuralgia in thoracic and/or lumbar dermatomes with a numerical rating scale (NRS) of 6 or more.\n\nExclusion Criteria:\n\n* Patients commenced on opioids for any other reason rather than postherpetic neuralgi",
+      "endpoints": [
+        "The efficacy of pain relief"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04546334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00334685",
+      "title": "[S,S]-Reboxetine Add-On Trial: A Randomized, Double-Blind, Placebo-Controlled, Multi-Center Trial Of [S,S]-Reboxetine In Patients With Postherpetic Neuralgia (PHN) Concomitantly Treated With Pregabalin.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-08-22",
+      "completion_date": "2007-10-11",
+      "country": "Spain, Norway, Czechia, Sweden, Switzerland, Russia, Austria, Italy, Ukraine, Germany, Latvia, United Kingdom, Netherlands, Poland, Canada, United States",
+      "enrollment": 136,
+      "brief_summary": "The purpose of this study is to determine the effectiveness of adjunctive treatment of pregabalin with \\[S,S\\]-Reboxetine against pregabalin monotherapy in patients with PHN",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have pain present for more than 3 months after the healing of shingles skin rash\n* Patients at screening must have a score \\>/=40 mm on the pain visual analogue scale\n\nExclusion Criteria:\n\n* Patients with significant renal and hepatic impairment\n* Patients with o",
+      "endpoints": [
+        "The numerical pain intensity rating scale is used to assess pain and a change from baseline in pain score for week 10 will be calculated"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00334685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05444413",
+      "title": "Effect of Ultrasound-guided Platelet-Rich Plasma Nerve Block Combined With Drugs in the Treatment of Intractable Postherpetic Neuralgia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-03-03",
+      "completion_date": "2022-07-01",
+      "country": "China",
+      "enrollment": 32,
+      "brief_summary": "used ultrasound-guided platelet rich plasma nerve block to treat Intractable Postherpetic Neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the diagnostic criteria of PHN: have a history of acute herpes zoster, the pain lasts for more than half a year, and there is paroxysmal pain in the affected nerve distribution area;\n* Preoperative visual analog scale (VAS) score ≥ 5;\n* Those who can cooperate with the tr",
+      "endpoints": [
+        "The changes from degree of pain that patients feel after the treatment are assessed by the numerical rating scale (NRS)."
+      ],
+      "sponsor": "Affiliated Hospital of Nantong University",
+      "url": "https://clinicaltrials.gov/study/NCT05444413"
+    }
+  ],
+  "timestamp": "2026-03-04T14:59:01.323762",
+  "success": true,
+  "error_message": null
+}

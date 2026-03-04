@@ -1,0 +1,142 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL12055019AZ",
+      "product": "Taxotere 20mg/1ml concentrate for solution for infusion",
+      "active_ingredient": "DOCETAXEL TRIHYDRATE[21.34mg;0]",
+      "generic_name": "Docetaxel 20mg/ml Injection concentrate",
+      "holder": "SANOFI-AVENTIS (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-06-06",
+      "date_end": "2027-06-06",
+      "url": "https://npra.gov.my/index.php/search/product/MAL12055019AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL12050005AZ",
+      "product": "Docetax Injection Concentrate 20 mg",
+      "active_ingredient": "DOCETAXEL TRIHYDRATE[21.336;mg;0;0]",
+      "generic_name": NaN,
+      "holder": "CIPLA MALAYSIA SDN BHD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-09-01",
+      "date_end": "2027-09-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL12050005AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL12050006AZ",
+      "product": "Docetax Injection Concentrate 80 mg",
+      "active_ingredient": "DOCETAXEL TRIHYDRATE[85.347;mg;;0]",
+      "generic_name": NaN,
+      "holder": "CIPLA MALAYSIA SDN BHD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-09-01",
+      "date_end": "2027-09-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL12050006AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL18026176ACZ",
+      "product": "Seacross Docetaxel 20mg/ml Concentrate for Solution for Infusion",
+      "active_ingredient": "DOCETAXEL[20mg/ml;0]",
+      "generic_name": NaN,
+      "holder": "MEDISPEC (M) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-03-01",
+      "date_end": "2028-02-29",
+      "url": "https://npra.gov.my/index.php/search/product/MAL18026176ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL18016059AZ",
+      "product": "DOXOL Docetaxel 20mg/0.5ml Concentrate for Solution for Infusion",
+      "active_ingredient": "DOCETAXEL[20.00mg;0.5ml]",
+      "generic_name": NaN,
+      "holder": "UNIMED SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-03-02",
+      "date_end": "2028-03-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL18016059AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL18016058AZ",
+      "product": "DOXOL Docetaxel 80mg/2.0ml Concentrate for Solution for Infusion",
+      "active_ingredient": "DOCETAXEL[80.00mg;2.0ml]",
+      "generic_name": NaN,
+      "holder": "UNIMED SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-03-02",
+      "date_end": "2028-03-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL18016058AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL18031003AZ",
+      "product": "TAXTAS (Docetaxel concentrate solution for infusion 20mg/mL)",
+      "active_ingredient": "DOCETAXEL[20.0mg/ml;0]",
+      "generic_name": NaN,
+      "holder": "ACCORD HEALTHCARE SDN.BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-04-06",
+      "date_end": "2028-04-06",
+      "url": "https://npra.gov.my/index.php/search/product/MAL18031003AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24036036AZ",
+      "product": "Docel Docetaxel Injection 10mg/mL",
+      "active_ingredient": "DOCETAXEL TRIHYDRATE[10 mg]",
+      "generic_name": NaN,
+      "holder": "UNIMED SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-03-07",
+      "date_end": "2029-03-07",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24036036AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25036150AZ",
+      "product": "TAXELDO (Docetaxel Concentrate for Solution for Infusion 20mg/ml)",
+      "active_ingredient": "DOCETAXEL TRIHYDRATE[21.338 mg]",
+      "generic_name": NaN,
+      "holder": "CAMBER LABORATORIES SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-03-25",
+      "date_end": "2030-03-25",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25036150AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL16045055AZ",
+      "product": "Docetaxel Injection Concentrate 20mg/ml Daxotel",
+      "active_ingredient": "DOCETAXEL[20mg/ml;0]",
+      "generic_name": NaN,
+      "holder": "FRESENIUS KABI MALAYSIA SDN. BHD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2026-04-30",
+      "date_end": "2031-04-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL16045055AZ"
+    }
+  ],
+  "timestamp": "2026-03-04T16:50:25.918257",
+  "success": true,
+  "error_message": null
+}

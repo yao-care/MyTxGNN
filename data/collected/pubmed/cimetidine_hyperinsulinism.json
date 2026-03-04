@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cimetidine",
+    "disease": "hyperinsulinism",
+    "query_string": "Cimetidine AND hyperinsulinism"
+  },
+  "data": {
+    "query": "Cimetidine AND hyperinsulinism",
+    "results": []
+  },
+  "timestamp": "2026-03-04T14:53:47.432256",
+  "success": true,
+  "error_message": null
+}

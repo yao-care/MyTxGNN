@@ -1,0 +1,592 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Insulin Human",
+    "disease": "diabetes mellitus",
+    "query_string": "Insulin Human AND diabetes mellitus"
+  },
+  "data": {
+    "query": "Insulin Human AND diabetes mellitus",
+    "results": [
+      {
+        "pmid": "38597269",
+        "title": "Association Between Type 1 Diabetes Mellitus and Eating Disorders: A Systematic Review and Meta-Analysis.",
+        "abstract": "Previous meta-analyses have shown mixed results regarding the association between eating disorders (EDs) and type 1 diabetes mellitus (T1DM). Our paper aimed to analyse different EDs and disordered eating behaviours that may be practiced by patients with T1DM.",
+        "journal": "Endocrinology, diabetes & metabolism",
+        "year": "2024",
+        "authors": [
+          "Dean Yomna E",
+          "Motawea Karam R",
+          "Aslam Muaaz",
+          "Pintado Jose J Loayza",
+          "Popoola-Samuel Helen A O"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "Diabetes Mellitus, Type 1",
+          "Bulimia",
+          "Feeding and Eating Disorders",
+          "Insulin",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38597269/"
+      },
+      {
+        "pmid": "38138975",
+        "title": "Drug Therapies for Diabetes.",
+        "abstract": "The treatment of type 2 diabetes (T2D) necessitates a multifaceted approach that combines behavioral and pharmacological interventions to mitigate complications and sustain a high quality of life. Treatment encompasses the management of glucose levels, weight, cardiovascular risk factors, comorbidities, and associated complications through medication and lifestyle adjustments. Metformin, a standard in diabetes management, continues to serve as the primary, first-line oral treatment across all age groups due to its efficacy, versatility in combination therapy, and cost-effectiveness. Glucagon-like peptide-1 receptor agonists (GLP-1 RA) offer notable benefits for HbA1c and weight reduction, with significant cardiovascular benefits. Sodium-glucose cotransporter inhibitors (SGLT-2i) lower glucose levels independently of insulin while conferring notable benefits for cardiovascular, renal, and heart-failure outcomes. Combined therapies emphasizing early and sustained glycemic control are pro",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Weinberg Sibony Roni",
+          "Segev Omri",
+          "Dor Saar",
+          "Raz Itamar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Hypoglycemic Agents",
+          "Quality of Life",
+          "Blood Glucose",
+          "Metformin",
+          "Insulin",
+          "Insulin, Regular, Human",
+          "Glucagon-Like Peptide 1",
+          "Glucagon-Like Peptide-1 Receptor Agonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38138975/"
+      },
+      {
+        "pmid": "36800530",
+        "title": "Gastrointestinal Consequences of Type 2 Diabetes Mellitus and Impaired Glycemic Homeostasis: A Mendelian Randomization Study.",
+        "abstract": "We conducted a Mendelian randomization (MR) study to examine the associations of type 2 diabetes and glycemic traits with gastrointestinal diseases (GDs).",
+        "journal": "Diabetes care",
+        "year": "2023",
+        "authors": [
+          "Chen Jie",
+          "Yuan Shuai",
+          "Fu Tian",
+          "Ruan Xixian",
+          "Qiao Jie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Blood Glucose",
+          "Mendelian Randomization Analysis",
+          "Acute Disease",
+          "Pancreatitis",
+          "Insulin",
+          "Glucose",
+          "Insulin, Regular, Human",
+          "Cholelithiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36800530/"
+      },
+      {
+        "pmid": "34610718",
+        "title": "A Century of Progress in Diabetes Care with Insulin: A History of Innovations and Foundation for the Future.",
+        "abstract": "The year 2021 marks the 100th anniversary of the discovery of insulin, which has greatly changed the lives of people with diabetes and become a cornerstone of advances in medical science. A rapid bench-to-bedside application of the lifesaving pancreatic extract and its immediate commercialization was the result of a promising idea, positive drive, perseverance, and collaboration of Banting and colleagues. As one of the very few proteins isolated in a pure form at that time, insulin also played a key role in the development of important methodologies and in the beginning of various fields of modern science. Since its discovery, insulin has evolved continuously to optimize the care of people with diabetes. Since the 1980s, recombinant DNA technology has been employed to engineer insulin analogs by modifying their amino acid sequence, which has resulted in the production of insulins with various profiles that are currently used. However, unmet needs in insulin treatment still exist, and s",
+        "journal": "Diabetes & metabolism journal",
+        "year": "2021",
+        "authors": [
+          "Lee Seung-Hwan",
+          "Yoon Kun-Ho"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Diabetes Mellitus",
+          "Humans",
+          "Insulin",
+          "Insulin, Regular, Human",
+          "Insulins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34610718/"
+      },
+      {
+        "pmid": "37373160",
+        "title": "Anti-Islet Autoantibodies in Type 1 Diabetes.",
+        "abstract": "Anti-islet autoantibodies serve as key markers in immune-mediated type 1 diabetes (T1D) and slowly progressive T1D (SPIDDM), also known as latent autoimmune diabetes in adults (LADA). Autoantibodies to insulin (IAA), glutamic acid decarboxylase (GADA), tyrosine phosphatase-like protein IA-2 (IA-2A), and zinc transporter 8 (ZnT8A) are currently employed in the diagnosis, pathological analysis, and prediction of T1D. GADA can also be detected in non-diabetic patients with autoimmune diseases other than T1D and may not necessarily reflect insulitis. Conversely, IA-2A and ZnT8A serve as surrogate markers of pancreatic β-cell destruction. A combinatorial analysis of these four anti-islet autoantibodies demonstrated that 93-96% of acute-onset T1D and SPIDDM cases were diagnosed as immune-mediated T1D, while the majority of fulminant T1D cases were autoantibody-negative. Evaluating the epitopes and immunoglobulin subclasses of anti-islet autoantibodies help distinguish between diabetes-associ",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Kawasaki Eiji"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Autoantibodies",
+          "Autoimmune Diseases",
+          "Insulin",
+          "Insulin, Regular, Human",
+          "Glutamate Decarboxylase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37373160/"
+      },
+      {
+        "pmid": "36479786",
+        "title": "Effectiveness and safety of early insulin glargine administration in combination with continuous intravenous insulin infusion in the management of diabetic ketoacidosis: A randomized controlled trial.",
+        "abstract": "To determine the effectiveness and safety of early combination of insulin glargine with intravenous (IV) insulin infusion compared with IV insulin infusion alone in the management of diabetic ketoacidosis (DKA).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2023",
+        "authors": [
+          "Thammakosol Kitti",
+          "Sriphrapradang Chutintorn"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Insulin",
+          "Insulin Glargine",
+          "Diabetic Ketoacidosis",
+          "Diabetes Mellitus, Type 2",
+          "Hypokalemia",
+          "Insulin, Regular, Human",
+          "Hypoglycemia",
+          "Hyperglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36479786/"
+      },
+      {
+        "pmid": "34413118",
+        "title": "Molecular and pharmacological characterization of insulin icodec: a new basal insulin analog designed for once-weekly dosing.",
+        "abstract": "Insulin icodec is a novel, long-acting insulin analog designed to cover basal insulin requirements with once-weekly subcutaneous administration. Here we describe the molecular engineering and the biological and pharmacological properties of insulin icodec.",
+        "journal": "BMJ open diabetes research & care",
+        "year": "2021",
+        "authors": [
+          "Nishimura Erica",
+          "Pridal Lone",
+          "Glendorf Tine",
+          "Hansen Bo Falk",
+          "Hubálek František"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin, Long-Acting",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34413118/"
+      },
+      {
+        "pmid": "38444317",
+        "title": "Efficacy of Semaglutide in Overweight and Obese Patients with Type 1 Diabetes.",
+        "abstract": "Introduction: More than two-thirds of patients with type 1 diabetes (T1D) are overweight (OW) and/or obese (OB) in the USA and Western Europe, resulting in insulin resistance as in type 2 diabetes. None of the currently available glucagon like polypeptide 1 (GLP-1) analogs are approved for patients with T1D. A higher dose of semaglutide has been approved by the Food and Drug Administration (FDA) for subjects with body mass index (BMI) >27 kg/m2. We evaluated the real-world use of semaglutide in patients with T1D. Methods: This was a retrospective chart review study of 50 OW or OB patients with T1D who were initiated on semaglutide and followed for 1 year. The control group comprised of 50 computer-matched patients (for sex, race, weight, BMI, and diabetes duration) during a similar time period and were not on any weight loss medications. Results: Most patients (92%) were non-Hispanic white in both arms. Mean ± standard deviation (SD) age and duration of diabetes were 42 ± 11 and 27 ± 1",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2024",
+        "authors": [
+          "Garg Satish K",
+          "Kaur Gurleen",
+          "Haider Zehra",
+          "Rodriquez Erika",
+          "Beatson Christie"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "United States",
+          "Humans",
+          "Overweight",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Prospective Studies",
+          "Retrospective Studies",
+          "Obesity",
+          "Glucagon-Like Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38444317/"
+      },
+      {
+        "pmid": "38380954",
+        "title": "Continuous Glucose Monitoring-Based Metrics and Hypoglycemia Duration in Insulin-Experienced Individuals With Long-standing Type 2 Diabetes Switched From a Daily Basal Insulin to Once-Weekly Insulin Icodec: Post Hoc Analysis of ONWARDS 2 and ONWARDS 4.",
+        "abstract": "This post hoc analysis assessed continuous glucose monitoring (CGM)-based metrics and hypoglycemia duration with once-weekly insulin icodec versus once-daily basal insulin analogs in insulin-experienced individuals with long-standing type 2 diabetes from two 26-week phase 3a trials (ONWARDS 2 and ONWARDS 4).",
+        "journal": "Diabetes care",
+        "year": "2024",
+        "authors": [
+          "Bajaj Harpreet S",
+          "Ásbjörnsdóttir Björg",
+          "Carstensen Lisbeth",
+          "Laugesen Christian",
+          "Mathieu Chantal"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Insulin",
+          "Hypoglycemic Agents",
+          "Blood Glucose",
+          "Blood Glucose Self-Monitoring",
+          "Continuous Glucose Monitoring",
+          "Hypoglycemia",
+          "Insulin Glargine",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38380954/"
+      },
+      {
+        "pmid": "37126832",
+        "title": "Distinct Insulin Physiology Trajectories in Euglycemic Pregnancy and Gestational Diabetes Mellitus.",
+        "abstract": "To evaluate changes in insulin physiology in euglycemic pregnancy and gestational diabetes mellitus (GDM).",
+        "journal": "Diabetes care",
+        "year": "2023",
+        "authors": [
+          "Thaweethai Tanayott",
+          "Soetan Zainab",
+          "James Kaitlyn",
+          "Florez Jose C",
+          "Powe Camille E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Pregnancy",
+          "Humans",
+          "Diabetes, Gestational",
+          "Insulin",
+          "Insulin Resistance",
+          "Glucose Intolerance",
+          "Glucose Tolerance Test",
+          "Postpartum Period",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37126832/"
+      },
+      {
+        "pmid": "37607392",
+        "title": "Teplizumab: A Disease-Modifying Therapy for Type 1 Diabetes That Preserves β-Cell Function.",
+        "abstract": "In November 2022, teplizumab-mzwv became the first drug approved to delay the onset of stage 3 type 1 diabetes in adults and children age ≥8 years with stage 2 type 1 diabetes on the basis of data from the pivotal study TN-10.",
+        "journal": "Diabetes care",
+        "year": "2023",
+        "authors": [
+          "Herold Kevan C",
+          "Gitelman Stephen E",
+          "Gottlieb Peter A",
+          "Knecht Laura A",
+          "Raymond Ralph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "C-Peptide",
+          "Insulin, Regular, Human",
+          "Antibodies, Monoclonal, Humanized",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37607392/"
+      },
+      {
+        "pmid": "38045671",
+        "title": "Effect of Yoga and Walking on Glycemic Control for the Management of Type 2 Diabetes: A Systematic Review and Meta-analysis.",
+        "abstract": "A daily habit of yogic practice or walking, along with an oral hypoglycemic agent (OHA) could be beneficial for better control of type 2 diabetes mellitus (T2DM). We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) to find out the efficiency of yoga or walking on glycemic control in T2DM.",
+        "journal": "Journal of the ASEAN Federation of Endocrine Societies",
+        "year": "2023",
+        "authors": [
+          "Dhali Biswajit",
+          "Chatterjee Sridip",
+          "Sundar Das Sudip",
+          "Cruz Mary D"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Blood Glucose",
+          "Glycated Hemoglobin",
+          "Yoga",
+          "Glycemic Control",
+          "Diabetes Mellitus, Type 2",
+          "Insulin",
+          "Insulin Resistance",
+          "Walking",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38045671/"
+      },
+      {
+        "pmid": "37555266",
+        "title": "Lipohypertrophy and Insulin: An Update From the Diabetes Technology Society.",
+        "abstract": "Lipohypertrophy is a common skin complication associated with insulin-treated diabetes. The impact of lipohypertrophy as a contributing factor to suboptimal glycemic control, glucose variability, and hypoglycemia is often under-recognized by health care professionals. In a recent Webinar on April 26, 2023, Diabetes Technology Society asked international experts to provide updates on the latest knowledge related to lipohypertrophy for practicing clinicians and educators, researchers, and industries involved in insulin delivery. A recording of the Webinar is freely available on the Diabetes Technology Society Web site (https://www.diabetestechnology.org/).",
+        "journal": "Journal of diabetes science and technology",
+        "year": "2023",
+        "authors": [
+          "Tian Tiffany",
+          "Aaron Rachel E",
+          "Huang Jingtong",
+          "Yeung Andrea M",
+          "Svensson Jannet"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin",
+          "Hypoglycemic Agents",
+          "Diabetes Mellitus, Type 1",
+          "Insulin, Regular, Human",
+          "Hypoglycemia",
+          "Lipodystrophy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37555266/"
+      },
+      {
+        "pmid": "38450851",
+        "title": "Type 1 diabetes: A new vision of the disease based on endotypes.",
+        "abstract": "Diagnosis and management of type 1 diabetes (T1D) have remained largely unchanged for the last several years. The management of the disease remains primarily focused on its phenotypical presentation and less on endotypes, namely the specific biological mechanisms behind the development of the disease. Furthermore, the treatment of T1D is essentially universal and indiscriminate-with patients administering insulin at varying dosages and frequencies to maintain adequate glycaemic control. However, it is now well understood that T1D is a heterogeneous disease with many different biological mechanisms (i.e. endotypes) behind its complex pathophysiology. A range of factors, including age of onset, immune system regulation, rate of β-cell destruction, autoantibodies, body weight, genetics and the exposome are recognised to play a role in the development of the condition. Patients can be classified into distinct diabetic subtypes based on these factors, which can be used to categorise patient",
+        "journal": "Diabetes/metabolism research and reviews",
+        "year": "2024",
+        "authors": [
+          "Weston Craig Sinclair",
+          "Boehm Bernhard O",
+          "Pozzilli Paolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Autoimmune Diseases",
+          "Insulin, Regular, Human",
+          "Autoantibodies",
+          "Body Weight"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38450851/"
+      },
+      {
+        "pmid": "38019818",
+        "title": "Hepatic insulin synthesis increases in rat models of diabetes mellitus type 1 and 2 differently.",
+        "abstract": "Insulin-positive (+) cells (IPCs), detected in multiple organs, are of great interest as a probable alternative to ameliorate pancreatic beta-cells dysfunction and insulin deficiency in diabetes. Liver is a potential source of IPCs due to it common embryological origin with pancreas. We previously demonstrated the presence of IPCs in the liver of healthy and diabetic rats, but detailed description and analysis of the factors, which potentially can induced ectopic hepatic expression of insulin in type 1 (T1D) and type 2 diabetes (T2D), were not performed. In present study we evaluate mass of hepatic IPCs in the rat models of T1D and T2D and discuss factors, which may stimulate it generation: glycaemia, organ injury, involving of hepatic stem/progenitor cell compartment, expression of transcription factors and inflammation. Quantity of IPCs in the liver was up by 1.7-fold in rats with T1D and 10-fold in T2D compared to non-diabetic (ND) rats. We concluded that ectopic hepatic expression ",
+        "journal": "PloS one",
+        "year": "2023",
+        "authors": [
+          "Abidov Musa",
+          "Sokolova Ksenia",
+          "Danilova Irina",
+          "Baykenova Madina",
+          "Gette Irina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Insulin",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Diabetes Mellitus, Experimental",
+          "Cell Differentiation",
+          "Insulin-Secreting Cells",
+          "Insulin, Regular, Human",
+          "Liver"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38019818/"
+      },
+      {
+        "pmid": "36834685",
+        "title": "Hot Spots for the Use of Intranasal Insulin: Cerebral Ischemia, Brain Injury, Diabetes Mellitus, Endocrine Disorders and Postoperative Delirium.",
+        "abstract": "A decrease in the activity of the insulin signaling system of the brain, due to both central insulin resistance and insulin deficiency, leads to neurodegeneration and impaired regulation of appetite, metabolism, endocrine functions. This is due to the neuroprotective properties of brain insulin and its leading role in maintaining glucose homeostasis in the brain, as well as in the regulation of the brain signaling network responsible for the functioning of the nervous, endocrine, and other systems. One of the approaches to restore the activity of the insulin system of the brain is the use of intranasally administered insulin (INI). Currently, INI is being considered as a promising drug to treat Alzheimer's disease and mild cognitive impairment. The clinical application of INI is being developed for the treatment of other neurodegenerative diseases and improve cognitive abilities in stress, overwork, and depression. At the same time, much attention has recently been paid to the prospect",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Shpakov Alexander O",
+          "Zorina Inna I",
+          "Derkach Kira V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin",
+          "Emergence Delirium",
+          "Diabetes Mellitus",
+          "Insulin, Regular, Human",
+          "Brain",
+          "Alzheimer Disease",
+          "Cerebral Infarction",
+          "Brain Injuries",
+          "Administration, Intranasal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36834685/"
+      },
+      {
+        "pmid": "33435647",
+        "title": "A retrospective comparison between intensive and nonintensive insulin regimens in type 2 diabetes mellitus.",
+        "abstract": "This study compared the outcomes between intensive and nonintensive insulin regimens and assessed the predictive factors for failing to achieve the glycated hemoglobin (A1C) goals in type-2-diabetes-mellitus (T2DM) patients requiring insulin therapy.",
+        "journal": "Minerva endocrinology",
+        "year": "2023",
+        "authors": [
+          "Diri Halit",
+          "Aycicek Bercem"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Retrospective Studies",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33435647/"
+      },
+      {
+        "pmid": "38444315",
+        "title": "Is It Time to Move Beyond TIR to TITR? Real-World Data from Over 20,000 Users of Continuous Glucose Monitoring in Patients with Type 1 and Type 2 Diabetes.",
+        "abstract": "The growing use of continuous glucose monitoring (CGM) has been supported by expert consensus and clinical guidelines on glycemic management in diabetes with time in range (TIR 70-180 mg/dL) representing a key CGM-derived glucose metric. Time in tight range (TITR) has also been proposed for clinical use, spanning largely normal glucose levels of 70-140 mg/dL. However, keeping such narrow glucose ranges can be challenging, and understanding the factors modulating TITR can help achieve these tight glycemic targets. Our real-life study aimed to evaluate the relationship between average glucose (AG) and TIR/TITR in a large cohort (n = 22,006) of CGM users, divided into four groups: self-identified as having type 1 diabetes (T1D) treated with insulin using multiple daily injections (MDI) or pumps; type 2 diabetes (T2D) on MDI or insulin pumps; T2D on basal insulin only; and T2D not on insulin treatment. The T2D groups, regardless of treatment type, displayed the highest TIR and TITR values,",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2024",
+        "authors": [
+          "Dunn Timothy C",
+          "Ajjan Ramzi A",
+          "Bergenstal Richard M",
+          "Xu Yongjin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Diabetes Mellitus, Type 1",
+          "Blood Glucose Self-Monitoring",
+          "Continuous Glucose Monitoring",
+          "Blood Glucose",
+          "Insulin, Regular, Human",
+          "Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38444315/"
+      },
+      {
+        "pmid": "35984478",
+        "title": "Continuous Glucose Monitoring-Guided Insulin Administration in Hospitalized Patients With Diabetes: A Randomized Clinical Trial.",
+        "abstract": "The efficacy and safety of continuous glucose monitoring (CGM) in adjusting inpatient insulin therapy have not been evaluated.",
+        "journal": "Diabetes care",
+        "year": "2022",
+        "authors": [
+          "Spanakis Elias K",
+          "Urrutia Agustina",
+          "Galindo Rodolfo J",
+          "Vellanki Priyathama",
+          "Migdal Alexandra L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Blood Glucose Self-Monitoring",
+          "Diabetes Mellitus, Type 2",
+          "Glucose",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35984478/"
+      },
+      {
+        "pmid": "37667676",
+        "title": "Efficacy and safety of once-weekly versus once-daily basal insulin analogues in the treatment of type 2 diabetes mellitus: A systematic review and meta-analysis.",
+        "abstract": "To summarize the evidence of recently published randomized controlled trials (RCTs) studying efficacy, in terms of glycaemic control, and safety of the newly developed once-weekly basal insulin analogues.",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2023",
+        "authors": [
+          "Karakasis Paschalis",
+          "Patoulias Dimitrios",
+          "Pamporis Konstantinos",
+          "Popovic Djordje S",
+          "Stachteas Panagiotis"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin",
+          "Glycated Hemoglobin",
+          "Diabetes Mellitus, Type 2",
+          "Hypoglycemic Agents",
+          "Hypoglycemia",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37667676/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:53:18.669380",
+  "success": true,
+  "error_message": null
+}

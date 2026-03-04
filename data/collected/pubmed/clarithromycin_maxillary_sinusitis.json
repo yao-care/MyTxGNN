@@ -1,0 +1,622 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "maxillary sinusitis",
+    "query_string": "Clarithromycin AND maxillary sinusitis"
+  },
+  "data": {
+    "query": "Clarithromycin AND maxillary sinusitis",
+    "results": [
+      {
+        "pmid": "16771618",
+        "title": "Macrolide immunomodulatory effects and symptom resolution in acute exacerbation of chronic bronchitis and acute maxillary sinusitis: a focus on clarithromycin.",
+        "abstract": "Bacterial respiratory tract infections are common in the primary care setting and patients often seek the assistance of a healthcare professional in order to achieve resolution of their symptoms. Antibiotic agents that offer rapid symptom relief, in addition to excellent bacteriological and clinical cure, are highly desired. Macrolides have proven to be highly effective in treating acute bacterial exacerbations of chronic bronchitis and acute maxillary sinusitis. In addition, immunomodulatory effects that may contribute to symptom resolution have been reported. This article reviews current literature on symptom resolution in acute bacterial exacerbations of chronic bronchitis and acute maxillary sinusitis, with a focus on clarithromycin, and explores the potential mechanisms that may contribute to this action.",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2006",
+        "authors": [
+          "Bishai William R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Bacterial Agents",
+          "Bronchitis, Chronic",
+          "Clarithromycin",
+          "Humans",
+          "Immunologic Factors",
+          "Maxillary Sinusitis",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16771618/"
+      },
+      {
+        "pmid": "14726904",
+        "title": "Antimicrobial treatment guidelines for acute bacterial rhinosinusitis.",
+        "abstract": "Treatment guidelines developed by the Sinus and Allergy Health Partnership for acute bacterial rhinosinusitis (ABRS) were originally published in 2000. These guidelines were designed to: (1) educate clinicians and patients (or patients’ families) about the differences between viral and bacterial rhinosinusitis; (2) reduce the use of antibiotics for nonbacterial nasal/sinus disease; (3) provide recommendations for the diagnosis and optimal treatment of ABRS; (4) promote the use of appropriate antibiotic therapy when bacterial infection is likely; and (5) describe the current understanding of pharmacokinetic and pharmacodynamics and how they relate to the effectiveness of antimicrobial therapy. The original guidelines are updated here to include the most recent information on management principles, antimicrobial susceptibility patterns, and therapeutic options.",
+        "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+        "year": "2004",
+        "authors": [
+          "Anon Jack B",
+          "Jacobs Michael R",
+          "Poole Michael D",
+          "Ambrose Paul G",
+          "Benninger Mark S"
+        ],
+        "pub_types": [
+          "Guideline",
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Drug Resistance, Bacterial",
+          "Drug Therapy, Combination",
+          "Fluoroquinolones",
+          "Haemophilus influenzae",
+          "Humans",
+          "Lactams",
+          "Macrolides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14726904/"
+      },
+      {
+        "pmid": "8111512",
+        "title": "Multicenter comparison of clarithromycin and amoxicillin in the treatment of acute maxillary sinusitis.",
+        "abstract": "To compare the safety and efficacy of orally administered clarithromycin, a new macrolide antimicrobial, and amoxicillin in the treatment of patients with acute maxillary sinusitis.",
+        "journal": "Archives of family medicine",
+        "year": "1993",
+        "authors": [
+          "Calhoun K H",
+          "Hokanson J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Amoxicillin",
+          "Clarithromycin",
+          "Female",
+          "Humans",
+          "Male",
+          "Maxillary Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8111512/"
+      },
+      {
+        "pmid": "1827106",
+        "title": "The comparative efficacy and safety of clarithromycin and amoxycillin in the treatment of outpatients with acute maxillary sinusitis.",
+        "abstract": "The efficacy and safety of clarithromycin and amoxycillin in the treatment of acute maxillary sinusitis were compared in a single-blind, multicentre outpatient study. Fifty patients were randomly assigned to receive either clarithromycin 500 mg 12-hourly or amoxycillin 500 mg 8-hourly orally. Clinical signs and symptoms, sinus culture and blood and urine laboratory profiles were assessed prior to treatment, at four to six days during treatment, and within 48 h of the end of therapy (usually 9-11 days). Patients from whom beta-lactamase producing strains were isolated were excluded from the study. Both antibiotics achieved a clinical success rate of 91% within 48 h post-treatment; radiological resolution or improvement was observed in 91% of patients treated with clarithromycin and 89% of patients who received amoxycillin. Bacteriological cure was achieved in 88% and 91% of evaluable patients for clarithromycin and amoxycillin, respectively. Adverse events were reported for 16% of patie",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Karma P",
+          "Pukander J",
+          "Penttilä M",
+          "Ylikoski J",
+          "Savolainen S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Ambulatory Care",
+          "Amoxicillin",
+          "Clarithromycin",
+          "Erythromycin",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1827106/"
+      },
+      {
+        "pmid": "2140546",
+        "title": "Comparative efficacy and tolerability of clarithromycin and amoxycillin in the treatment of out-patients with acute maxillary sinusitis.",
+        "abstract": "The efficacy and tolerability of clarithromycin and amoxycillin in the treatment of acute maxillary sinusitis were compared in an open, Phase III multi-centre study. Sixty-one out-patients (40 males, 21 females) received clarithromycin (two 250 mg tablets twice daily) and 59 (34 males, 25 females) out-patients received amoxycillin (two 500 mg capsules twice daily). Fifty-seven and 47 patients in the clarithromycin group were evaluable for clinical efficacy and bacteriological effectiveness, respectively. In the amoxycillin group, 57 and 40 patients were evaluated for clinical efficacy and bacteriological effectiveness, respectively. Body temperature, bacteriological culture results, blood and urine chemistries, and clinical signs and symptoms were evaluated prior to drug administration, between Days 4 to 6 and between Days 9 to 11 of treatment, and within 48 hours and, if required, 6 weeks after the end of treatment. Clinical signs and symptoms improved significantly (p less than 0.001",
+        "journal": "Current medical research and opinion",
+        "year": "1990",
+        "authors": [
+          "Marchi E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Male",
+          "Maxillary Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2140546/"
+      },
+      {
+        "pmid": "10211537",
+        "title": "Comparison of sparfloxacin and clarithromycin in the treatment of acute bacterial maxillary sinusitis. Sparfloxacin Multicenter AMS Study Group.",
+        "abstract": "Five hundred four patients were enrolled in a randomized, double-masked, multicenter study comparing the efficacy and tolerability of a 10-day regimen of sparfloxacin with a 14-day regimen of clarithromycin in the treatment of acute maxillary sinusitis. Two hundred fifty-two patients received sparfloxacin as a single 400-mg dose on day 1 and 200 mg once daily for 9 additional days, and 252 patients received clarithromycin 500 mg twice daily for 14 days. In the all-treated population, clinical success was observed at 6 to 10 days after therapy in approximately 82% of the patients in each treatment group. A total of 430 patients met the inclusion criteria for clinical assessment. The success rates in these patients were also comparable, at 83.1% and 83.4% for the sparfloxacin and clarithromycin groups, respectively. Sustained clinical success rates in the all-treated population 3 to 4 weeks after therapy were 71.6% for the sparfloxacin group and 68.6% for the clarithromycin group. All tr",
+        "journal": "Clinical therapeutics",
+        "year": "1999",
+        "authors": [
+          "Henry D C",
+          "Moller D J",
+          "Adelglass J",
+          "Scheld W M",
+          "Jablonski C K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Bacterial Infections",
+          "Clarithromycin",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Fluoroquinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10211537/"
+      },
+      {
+        "pmid": "11398913",
+        "title": "Telithromycin.",
+        "abstract": "Telithromycin is the first member of a new family of the macrolide-lincosamide-streptogramin-B (MLS(B)) class of antimicrobials, the ketolides. It has a good spectrum of activity against respiratory pathogens, including penicillin- and erythromycin-resistant pneumococci, as well as intracellular and atypical bacteria. Furthermore, it has a low potential to select for resistance or induce cross-resistance among other MLS(B) antimicrobials. At the recommended dosage of 800 mg orally once daily, telithromycin reaches maximal plasma concentrations of about 2 mg/L. It penetrates rapidly into bronchopulmonary, tonsillar, sinus and middle ear tissues and/or fluids and achieves high concentrations at sites of infection. It also concentrates within polymorphonuclear neutrophils. In clinical trials in patients with community-acquired pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or pharyngitis/tonsillitis caused by group A beta-haemolytic streptococci, telithromycin 800 mg on",
+        "journal": "Drugs",
+        "year": "2001",
+        "authors": [
+          "Balfour J A",
+          "Figgitt D P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bronchitis",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Humans",
+          "Ketolides",
+          "Macrolides",
+          "Maxillary Sinusitis",
+          "Pharyngitis",
+          "Pneumonia, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11398913/"
+      },
+      {
+        "pmid": "9923060",
+        "title": "Cefuroxime axetil versus clarithromycin in the treatment of acute maxillary sinusitis.",
+        "abstract": "Acute maxillary sinusitis is a common condition requiring broad-spectrum therapy to prevent development of chronic disease. A randomised, double-blind, multicentre study was performed to compare the efficacy and safety of cefuroxime axetil 250 mg twice daily (n = 185) and clarithromycin 250 mg twice daily (n = 185), both administered for 10 days, in the treatment of patients with acute sinusitis. Efficacy was determined by assessment of clinical response at post-treatment and follow-up, and by radiological assessment at pre-treatment and follow-up. Assessment of days absent from work due to illness was also made. In the cefuroxime axetil group, 169/185 (91%) patients were cured/improved at post-treatment, as were 172/185 (93%) patients receiving clarithromycin and, of these, 137/169 (81%) and 143/172 (83%) maintained their response at follow-up. Follow-up radiography showed a reduction in incidence of air fluid level and/or opacification from 96% to 15% (cefuroxime axetil) and from 96%",
+        "journal": "Rhinology",
+        "year": "1998",
+        "authors": [
+          "Stefansson P",
+          "Jacovides A",
+          "Jablonicky P",
+          "Sedani S",
+          "Staley H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase IV",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Absenteeism",
+          "Acute Disease",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Cefuroxime",
+          "Cephalosporins",
+          "Chi-Square Distribution",
+          "Clarithromycin",
+          "Confidence Intervals",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9923060/"
+      },
+      {
+        "pmid": "11192134",
+        "title": "Phase III, randomized, double-blind study of clarithromycin extended-release and immediate-release formulations in the treatment of adult patients with acute maxillary sinusitis.",
+        "abstract": "Clarithromycin has an established bacteriologic efficacy and safety profile in the treatment of respiratory tract infections.",
+        "journal": "Clinical therapeutics",
+        "year": "2000",
+        "authors": [
+          "Murray J J",
+          "Solomon E",
+          "McCluskey D",
+          "Zhang J",
+          "Palmer R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Male",
+          "Maxillary Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11192134/"
+      },
+      {
+        "pmid": "8313865",
+        "title": "Efficacy of clarithromycin vs. amoxicillin/clavulanate in the treatment of acute maxillary sinusitis.",
+        "abstract": "A new macrolide drug, clarithromycin (Biaxin) was compared with amoxicillin/clavulanate (Augmentin) in a single-blind (investigator-blind), randomized, multicenter study of 497 outpatients with acute maxillary sinusitis; treatment was 500 mg clarithromycin bid (n = 246) or 500 mg amoxicillin/clavulanate tid (n = 251). Pathogens included Streptococcus pneumoniae in 22% of patients, Staphylococcus aureus in 16%, Haemophilus influenzae in 10%, and Moraxella catarrhalis in 7%. For evaluable patients, clinical success (cure or improvement) was noted for 97% (128/132) of clarithromycin recipients and 93% (119/128) amoxicillin/clavulanate recipients. Clinically significant improvement in signs and symptoms was comparable between groups. Bacteriologic cure rates were 87% (115/132) and 90% (115/128), respectively. Respective pathogen eradication rates were 87% (125/143) and 90% (125/139). Adverse events not due to concurrent conditions occurred in 41% of the former and 46% of the latter group; ",
+        "journal": "Ear, nose, & throat journal",
+        "year": "1993",
+        "authors": [
+          "Dubois J",
+          "Saint-Pierre C",
+          "Tremblay C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Amoxicillin",
+          "Amoxicillin-Potassium Clavulanate Combination",
+          "Analysis of Variance",
+          "Bacterial Infections",
+          "Clarithromycin",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8313865/"
+      },
+      {
+        "pmid": "11354390",
+        "title": "Pharmacokinetics and tolerability of extended-release clarithromycin.",
+        "abstract": "Clarithromycin is a semisynthetic macrolide that exhibits broad-spectrum activity against gram-positive, gram-negative, and atypical respiratory tract and skin/skin structure pathogens, Mycobacterium species, and Helicobacter pylori. It is indicated for the treatment of a wide variety of respiratory and dermatologic infections in children and adults as well as prophylaxis and treatment of Mycobacterium avium complex infection and peptic ulcers due to H. pylori.",
+        "journal": "Clinical therapeutics",
+        "year": "2001",
+        "authors": [
+          "Guay D R",
+          "Gustavson L E",
+          "Devcich K J",
+          "Zhang J",
+          "Cao G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Body Weight",
+          "Bronchitis",
+          "Clarithromycin",
+          "Delayed-Action Preparations",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11354390/"
+      },
+      {
+        "pmid": "8763594",
+        "title": "[Clarithromycin versus amoxicillin-clavulanic acid in the treatment of acute maxillary sinusitis in adults].",
+        "abstract": "The efficacy and safety of clarithromycin and amoxicillin-clavulanate in the treatment of acute maxillary sinusitis was compared in an open multicenter outpatient study. Two hundred and eighty patients were randomly assigned to receive either clarithromycin 500 mg 12-hourly or amoxicillin-clavulanate 500 mg 8-hourly orally for 8 days. Clinical and radiologic signs and symptoms, and sinus culture were not significantly different in the two treatment groups. A clinical and radiological success or improvement was achieved after the end of treatment in 115/134 (85.8%) patients treated with clarithromycin and in 110/129 (85.3%) patients treated with amoxicillin-clavulanate. Adverse events were reported for 14.8% and 12.2% of patients for clarithromycin and amoxicillin-clavulanate, respectively. In this study clarithromycin was as effective and well tolerated as amoxicillin-clavulanate acid in the treatment of acute maxillary sinusitis.",
+        "journal": "Pathologie-biologie",
+        "year": "1996",
+        "authors": [
+          "Géhanno P",
+          "Barry B",
+          "Chauvin J P",
+          "Hazebroucq J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Clarithromycin",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8763594/"
+      },
+      {
+        "pmid": "9109154",
+        "title": "History of macrolide use in pediatrics.",
+        "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Drug Interactions",
+          "Erythromycin",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+      },
+      {
+        "pmid": "15482099",
+        "title": "Clarithromycin (Biaxin) extended-release tablet: a therapeutic review.",
+        "abstract": "Clarithromycin (Biaxin) extended-release tablets, an advanced generation macrolide, were recently introduced into the USA for the treatment of acute exacerbations of chronic bronchitis, community-acquired pneumonia and acute maxillary sinusitis. The reformulation is intended to improve both patient compliance and tolerability. The extended-release tablets allow convenient once-daily dosing (1000 mg). The extended-release formulation has been shown to be equivalent to the immediate-release formulation concerning area under the plasma concentration time curve. In comparative clinical trials for acute exacerbations of chronic bronchitis, community-acquired pneumonia and acute maxillary sinusitis, clarithromycin extended-release tablets were equivalent to the immediate-release formulation concerning clinical efficacy and bacterial eradication, with improved gastrointestinal tolerability. Similar efficacy and gastrointestinal tolerability results were demonstrated in a recent comparative st",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2003",
+        "authors": [
+          "Gotfried Mark H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Bronchitis",
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Tablets"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15482099/"
+      },
+      {
+        "pmid": "14664657",
+        "title": "Levofloxacin: a review of its use in the treatment of bacterial infections in the United States.",
+        "abstract": "Levofloxacin (Levaquin) is a fluoroquinolone antibacterial agent with a broad spectrum of activity against Gram-positive and Gram-negative bacteria and atypical respiratory pathogens. It is active against both penicillin-susceptible and penicillin-resistant Streptococcus pneumoniae. The prevalence of S. pneumoniae resistance to levofloxacin is <1% overall in the US.A number of randomised comparative trials in the US have demonstrated the efficacy of levofloxacin in the treatment of infections of the respiratory tract, genitourinary tract, skin and skin structures. Sequential intravenous to oral levofloxacin 750mg once daily for 7-14 days was as effective in the treatment of nosocomial pneumonia as intravenous imipenem/cilastatin 500-1000mg every 6-8 hours followed by oral ciprofloxacin 750mg twice daily in one study. In patients with mild to severe community-acquired pneumonia (CAP), intravenous and/or oral levofloxacin 500mg once daily for 7-14 days achieved clinical and bacteriologic",
+        "journal": "Drugs",
+        "year": "2003",
+        "authors": [
+          "Croom Katherine F",
+          "Goa Karen L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Area Under Curve",
+          "Bacterial Infections",
+          "Biological Availability",
+          "Gram-Negative Bacteria",
+          "Gram-Positive Bacteria",
+          "Half-Life",
+          "Humans",
+          "Intestinal Absorption",
+          "Levofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14664657/"
+      },
+      {
+        "pmid": "14498754",
+        "title": "Short-course antimicrobial therapy of respiratory tract infections.",
+        "abstract": "Accumulating evidence suggests that short-course (</=5 days, </=3 days for azithromycin) antimicrobial therapy may be at least as effective as and, in some cases, may be more effective than traditional longer (10- to 14-day) therapies. In group A beta-haemolytic streptococcal tonsillopharyngitis, short-course therapy with 6 days of amoxicillin, 4-5 days of a variety of cephalosporins and 5 days of clarithromycin modified-release and telithromycin are all reasonable alternatives to traditional 10-day penicillin therapy. Short-course (i.e. 3-day) azithromycin therapy is not recommended because of suboptimal clinical and bacteriological results compared with penicillin therapy, unless the dosage is doubled from 10 to 20 mg/kg/day for all 3 days. In uncomplicated acute suppurative otitis media, single-dose intramuscular ceftriaxone or 3- to 5-day short-course oral antimicrobial therapy should be effective in the majority (>/=80%) of patients. However, more research is clearly needed in the",
+        "journal": "Drugs",
+        "year": "2003",
+        "authors": [
+          "Guay David"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Drug Administration Schedule",
+          "Humans",
+          "Respiratory Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14498754/"
+      },
+      {
+        "pmid": "10214783",
+        "title": "Double-blind comparative trial of ciprofloxacin versus clarithromycin in the treatment of acute bacterial sinusitis. Sinusitis Infection Study Group.",
+        "abstract": "This multicenter, randomized, double-blind trial compared the efficacy and safety of ciprofloxacin (CIP; 500 mg twice daily for 10 days, placebo for 4 days) to those of clarithromycin (CLARI; 500 mg twice daily for 14 days) in 560 adults with clinically documented and radiologically confirmed acute sinusitis. Of 457 efficacy-valid adults (236 CIP, 221 CLARI), clinical resolution plus improvement at the end of therapy was 84% for CIP-treated patients compared to 91% of CLARI recipients (CI95 = -0.131, -0.013). At the 1-month follow-up, more than twice as many CLARI-treated patients, 18 (10%), experienced a relapse, compared to 7 (4%) CIP-treated patients. The combined clinical response analyses (end of therapy and 1 -month follow-up) demonstrated that CIP and CLARI were statistically equivalent (CI95 = -0.106, 0.044). Diarrhea, nausea, headache, and dizziness were the most frequently reported drug-related adverse events in both treatment groups; diarrhea and taste perversion were report",
+        "journal": "The Annals of otology, rhinology, and laryngology",
+        "year": "1999",
+        "authors": [
+          "Clifford K",
+          "Huck W",
+          "Shan M",
+          "Tosiello R",
+          "Echols R M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Bacterial Infections",
+          "Ciprofloxacin",
+          "Clarithromycin",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10214783/"
+      },
+      {
+        "pmid": "16199242",
+        "title": "Telithromycin: the first ketolide antimicrobial.",
+        "abstract": "Telithromycin is the first of the ketolide antibacterials to receive US Food and Drug Administration (FDA) approval for clinical use. It is approved for the treatment of community-acquired pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB), and acute maxillary sinusitis (AMS) in adults.",
+        "journal": "Clinical therapeutics",
+        "year": "2005",
+        "authors": [
+          "Nguyen Megan",
+          "Chung Eunice P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Area Under Curve",
+          "Bacterial Infections",
+          "Drug Interactions",
+          "Female",
+          "Half-Life",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16199242/"
+      },
+      {
+        "pmid": "14720016",
+        "title": "Clarithromycin extended-release tablet: a review of its use in the management of respiratory tract infections.",
+        "abstract": "Clarithromycin is an orally active, advanced-generation macrolide that has been reformulated as an extended-release tablet (Biaxin) XL Filmtab allowing convenient once-daily administration. The reformulation is intended to improve patient compliance and the tolerability of the drug. Although maximum plasma clarithromycin concentrations are lower and reached later with the extended-release tablets than with the immediate-release tablets, the two formulations are bioequivalent with respect to the area under the plasma concentration-time curve. Bioequivalence is also achieved between the formulations for the microbiologically active metabolite, 14-hydroxy-clarithromycin. Two randomized trials in patients with acute exacerbations of chronic bronchitis (AECB) showed that a 7-day course of clarithromycin extended-release 1000 mg once daily produced clinical cure rates of 83% and 85% and bacteriologic cure rates of 86% and 92% at the test-of-cure study visit. Similar rates of cure were achiev",
+        "journal": "American journal of respiratory medicine : drugs, devices, and other interventions",
+        "year": "2003",
+        "authors": [
+          "Darkes Malcolm J M",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Biological Availability",
+          "Clarithromycin",
+          "Delayed-Action Preparations",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14720016/"
+      },
+      {
+        "pmid": "16318437",
+        "title": "Clarithromycin extended-release in community-acquired respiratory tract infections.",
+        "abstract": "Clarithromycin extended-release (ER) is a second-generation macrolide with bactericidal activity against a broad group of pathogens. It allows for convenient once-daily dosing (2 x 500 mg/day), and has less severe adverse effects than the immediate-release (IR) formulation of the drug, which may result in improved patient compliance. Clarithromycin ER has been approved for the treatment of community-acquired pneumonia, acute maxillary sinusitis and acute bacterial exacerbation of chronic bronchitis. In comparison to the IR formulation, clarithromycin ER demonstrates prolonged absorption from the gastrointestinal tract, allowing for once-daily dosing with improved gastrointestinal tolerability. Various double-blind, randomised clinical trials and group studies have found clarithromycin ER to be an efficacious treatment option, comparable with clarithromycin IR, or its other competitors.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2005",
+        "authors": [
+          "Williams Kathy N",
+          "Bishai William R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clarithromycin",
+          "Community-Acquired Infections",
+          "Delayed-Action Preparations",
+          "Drug Administration Schedule",
+          "Humans",
+          "Respiratory Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16318437/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:55:06.706602",
+  "success": true,
+  "error_message": null
+}

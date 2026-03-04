@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Trimethoprim",
+    "drugbank_id": "DB00440"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 70
+  },
+  "indications": [
+    {
+      "disease": "pneumocystosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 18,
+      "phase2": 10,
+      "phase4": 7
+    },
+    {
+      "disease": "acute contagious conjunctivitis",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "urinary tract infection",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 4,
+      "phase2": 7,
+      "phase4": 18
+    },
+    {
+      "disease": "infectious otitis media",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 8,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 1,
+      "phase4": 1
+    },
+    {
+      "disease": "conjunctivitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 3,
+      "articles": 20,
+      "phase3": 1,
+      "phase2": 0,
+      "phase4": 2
+    }
+  ]
+}

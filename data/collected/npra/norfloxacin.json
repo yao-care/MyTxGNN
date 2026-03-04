@@ -1,0 +1,77 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Norfloxacin",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20162622HAE",
+      "product": "N-20% w/v Oral Solution",
+      "active_ingredient": "NORFLOXACIN BASE[100G/L],NORFLOXACIN HCL[111.5G/L]",
+      "generic_name": NaN,
+      "holder": "Nam Pharma Sdn. Bhd.",
+      "description": "VETERINARY ",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-08-24",
+      "date_end": "2026-08-24",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20162622HAE"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL17107101HAE",
+      "product": "PBAC NORFLOXACIN 200mg/ml ORAL SOLUTION",
+      "active_ingredient": "NORFLOXACIN[200mg/g]",
+      "generic_name": NaN,
+      "holder": "Life Biopharma Sdn. Bhd.",
+      "description": "VETERINARY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-10-31",
+      "date_end": "2027-10-31",
+      "url": "https://npra.gov.my/index.php/search/product/MAL17107101HAE"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19921583AZ",
+      "product": "JANACIN TABLET",
+      "active_ingredient": "NORFLOXACIN[400MG                         ]",
+      "generic_name": "Norfloxacin 400 mg Tablet",
+      "holder": "MEDISPEC (M) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-04-24",
+      "date_end": "2028-04-24",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19921583AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19985187AZ",
+      "product": "NORGAN TABLET 400MG",
+      "active_ingredient": "NORFLOXACIN[400MG/TAB                     ]",
+      "generic_name": "Norfloxacin 400 mg Tablet",
+      "holder": "MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-07-06",
+      "date_end": "2028-07-06",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19985187AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19930497AZ",
+      "product": "NORFOX TABLET",
+      "active_ingredient": "NORFLOXACIN[400MG                         ]",
+      "generic_name": "Norfloxacin 400 mg Tablet",
+      "holder": "MILRIN PHARMACEUTICAL COMPANY (M) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-04-08",
+      "date_end": "2029-04-08",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19930497AZ"
+    }
+  ],
+  "timestamp": "2026-03-04T15:30:20.830410",
+  "success": true,
+  "error_message": null
+}

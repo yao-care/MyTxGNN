@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Benzoic Acid",
+    "disease": "dermatomyositis",
+    "query_string": "Benzoic Acid AND dermatomyositis"
+  },
+  "data": {
+    "query": "Benzoic Acid AND dermatomyositis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:32:20.178197",
+  "success": true,
+  "error_message": null
+}

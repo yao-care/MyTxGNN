@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Bortezomib"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00188",
+    "name": "Bortezomib",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:55:56.810441",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,141 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Pregabalin",
+    "disease": "myofascial pain syndrome",
+    "query_string": "Pregabalin AND myofascial pain syndrome"
+  },
+  "data": {
+    "query": "Pregabalin AND myofascial pain syndrome",
+    "results": [
+      {
+        "pmid": "34544324",
+        "title": "Effectiveness of pregabalin treatment for trigger points in patients with comorbid myofascial pain syndrome and fibromyalgia syndrome: a randomized controlled trial.",
+        "abstract": "Myofascial pain syndrome (MPS) is a common problem in the general population. MPS should not be a local/peripheral painful syndrome and considered to be a syndrome of central sensitivity. We aimed to investigate the effect of pregabalin in patients with MPS in this study.",
+        "journal": "Somatosensory & motor research",
+        "year": "2021",
+        "authors": [
+          "Karamanlioglu Duygu Silte",
+          "Geler Kulcu Duygu",
+          "Ozturk Gulcan",
+          "Akpinar Pinar",
+          "Unlu Ozkan Feyza"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Fibromyalgia",
+          "Humans",
+          "Myofascial Pain Syndromes",
+          "Pregabalin",
+          "Quality of Life",
+          "Treatment Outcome",
+          "Trigger Points"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34544324/"
+      },
+      {
+        "pmid": "26937205",
+        "title": "Clinical utility, safety, and efficacy of pregabalin in the treatment of fibromyalgia.",
+        "abstract": "Fibromyalgia is a chronic debilitating medical syndrome with limited therapeutic options. Pregabalin, an anticonvulsant and α-2-Δ subunit receptor ligand, is one of the anchor drugs approved by the US Food and Drug Administration for the treatment of fibromyalgia. The drug has shown clinically meaningful benefits across multiple symptom domains of fibromyalgia. Efficacy of pregabalin in fibromyalgia pain has been evaluated in at least five high-quality randomized trials, two long-term extension studies, a meta-analysis, a Cochrane database systematic review, and several post hoc analyses. These studies also hint towards a meaningful benefit on sleep, functioning, quality of life, and work productivity. Side effects of pregabalin, although common, are mild to moderate in intensity. They are noted early during therapy, improve or disappear with dose reduction, and are not usually life- or organ threatening. In most patients, tolerance develops to the most common side effects, dizziness, ",
+        "journal": "Drug, healthcare and patient safety",
+        "year": "2016",
+        "authors": [
+          "Bhusal Santosh",
+          "Diomampo Sherilyn",
+          "Magrey Marina N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26937205/"
+      },
+      {
+        "pmid": "18363616",
+        "title": "Fibromyalgia: harmonizing science with clinical practice considerations.",
+        "abstract": "This review summarizes the present and emerging knowledge base on the pathophysiology, diagnosis, and management of fibromyalgia.",
+        "journal": "Pain practice : the official journal of World Institute of Pain",
+        "year": "2008",
+        "authors": [
+          "Perrot Serge",
+          "Dickenson Anthony H",
+          "Bennett Robert M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Analgesics",
+          "Central Nervous System",
+          "Clinical Trials as Topic",
+          "Combined Modality Therapy",
+          "Cyclohexanecarboxylic Acids",
+          "Diagnosis, Differential",
+          "Disease Management",
+          "Exercise Therapy",
+          "Fatigue"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18363616/"
+      },
+      {
+        "pmid": "41069897",
+        "title": "Delayed-Onset Postsurgical Myofascial Pain Following Axillary Artery Cannulation: A Case Report.",
+        "abstract": "Chronic postsurgical pain (CPSP) is often attributed to neuropathic, genetic, or psychosocial factors, whereas musculoskeletal causes, such as myofascial pain syndrome (MPS), are frequently overlooked. We report a case of delayed-onset MPS as a musculoskeletal manifestation of CPSP following axillary artery cannulation, aiming to raise awareness of this potential etiology. A 48-year-old man developed persistent right anterior chest pain one year after total arch replacement surgery. Physical examination revealed postural asymmetry, atrophy of the right pectoralis major muscle, mechanical allodynia, and myofascial trigger points (MTrPs) near the cannulation site and scapula. Ultrasonography demonstrated the disrupted architecture of the pectoralis major and adjacent connective tissue. Based on clinical and sonographic findings, MPS was diagnosed. Treatment included pregabalin, ultrasound-guided trigger point injections (TPIs) with levobupivacaine and triamcinolone, and type II pectoral ",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Watanabe Ikuyo",
+          "Moriwaki Katsuyuki",
+          "Hachisuka Rumiko",
+          "Nakamura Ryuji",
+          "Tsutsumi Yasuo M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41069897/"
+      },
+      {
+        "pmid": "24849638",
+        "title": "Successful use of stellate ganglion block and a new centrally acting analgesic with dual mode of action in a resistant temporomandibular joint pain.",
+        "abstract": "Stellate ganglion blocks have been shown to provide effective pain relief in a number of different conditions involving the upper body. This was demonstrated in a 65-year-old woman who had experienced severe debilitating pain in her left temporomandibular joint (TMJ) and the surrounding area of her face for over 10 years. The pain was unresponsive to indomethacin, carbamazepine, sodium valproate, gabapentin, lithium, melatonin and amitriptyline. She had also had four surgical procedures to the TMJ without success. The pain was partially responsive to Syndol tablets and pregabalin, although the use of pregabalin was limited by its adverse effects. The patient underwent 13 ultrasound guided stellate ganglion blocks over a 24-month period which demonstrated 90% pain relief for up to 10 weeks. Pulsed radio frequency lesioning showed no benefit over stellate ganglion block. More recently, tapentadol was found to be effective and this replaced the stellate ganglion blocks.",
+        "journal": "BMJ case reports",
+        "year": "2014",
+        "authors": [
+          "Jones Gareth Peter",
+          "Tripathi Shiva Shankar"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Analgesics, Opioid",
+          "Female",
+          "Humans",
+          "Nerve Block",
+          "Pain Management",
+          "Phenols",
+          "Stellate Ganglion",
+          "Tapentadol",
+          "Temporomandibular Joint Dysfunction Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24849638/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:57:58.221928",
+  "success": true,
+  "error_message": null
+}

@@ -6,7 +6,7 @@ drug_name: "Amphotericin B"
 kg_predictions: 106
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 106
+indication_count: 5
 brands: []
 permalink: /drugs/amphotericin-b/
 ---

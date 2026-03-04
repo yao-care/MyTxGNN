@@ -1,0 +1,84 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "allergic asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02733016",
+      "title": "Seinäjoki Adult Asthma Study: A 12-year Real-life Follow-up Study of New-onset Asthma Diagnosed at Adult Age and Treated in Primary and Specialized Care. Finnish Title: Diagnoosista Hoitotasapainoon: Voidaanko Aikuisen Astman Hoitotasapainoa Ennustaa Diagnoosivaiheen löydösten ja Astman Ilmiasun Perusteella?",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1999-10",
+      "completion_date": "",
+      "country": "Finland",
+      "enrollment": 259,
+      "brief_summary": "Seinäjoki Adult Asthma Study is a single-centre 12-year follow-up study of a total cohort of 259 patients having new-onset asthma that was diagnosed at adult age. The study was divided in two parts: the collection of the original cohort (phase I;n=259) and follow-up visit (phase II; n=203). The aim of this study is to increase the understanding on the diagnostics and diagnostic process, organisation of the long-term asthma care, therapeutic outcomes, prognosis and the factors affecting the progn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of new-onset asthma made by a respiratory specialist\n* Diagnosis confirmed by at least one of the following objective lung function measurements\n\n  * FEV1 (forced expiratory volume in one second) reversibility in spirometry of at least 15% and 200 ml\n  * Diurnal va",
+      "endpoints": [
+        "Asthma control at follow-up visit"
+      ],
+      "sponsor": "Seinajoki Central Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02733016"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01125748",
+      "title": "A Phase IV, Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Persistency of Response With or Without Xolair After Long-term Therapy (XPORT)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 176,
+      "brief_summary": "This was a randomized, double-blind, placebo-controlled, 2-arm, 1-year study of participants who completed the EXCELS study (NCT00252135) and had received long-term treatment with Xolair. In addition, participants who did not participate in the EXCELS study but received long-term (\\~5 years) treatment with Xolair were allowed to enter the study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form (ICF). In the case of a minor, consent must be given by the child's parent or legally authorized representative.\n* Participants who have completed the EXCELS study prior to this study must have met all inclusion criteria for enrollment in the EXCEL",
+      "endpoints": [
+        "Percentage of Participants Not Experiencing a Protocol-defined Severe Exacerbation During the Study"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01125748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132781",
+      "title": "The Effect of Theophylline in Patients With Allergic Rhinitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2012-06",
+      "country": "United Kingdom",
+      "enrollment": 28,
+      "brief_summary": "Allergic rhinitis and asthma are common respiratory diseases, which often coexist. The prevalence of allergic rhinitis in subjects with asthma is up to 80%, and the prevalence of asthma is 3-5 times greater in subjects with rhinitis than healthy controls. The mechanisms of the allergen response in both diseases are parallel to each other, with similar mediator and cellular responses to similar allergens. These observations have led to the suggestion that both diseases are different expressions o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, aged between 16 and 65 years.\n* Weight between 50 and 150 Kg.\n* Smokers, non-smokers or ex-smoker.\n* Chronic rhinosinusitis as defined as 2 or more symptoms of nasal blockage/congestion, discharge, facial pain or reduction in smell for more than 12 weeks.\n* A",
+      "endpoints": [
+        "Difference in total nasal symptom score"
+      ],
+      "sponsor": "University of East Anglia",
+      "url": "https://clinicaltrials.gov/study/NCT01132781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00157937",
+      "title": "A Randomized, Open Label, Cross-Over Study Comparing Effectiveness for the Montelukast Sodium With Comparator in Mild to Moderate Persistent Asthmatics",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2005-06",
+      "country": "N/A",
+      "enrollment": 31,
+      "brief_summary": "Subjects have 8-week with montelukast sodium or comparator drug administration period, 2-week wash-out period and 8-week comparator drug or the drug administration period (with cross-over design) for assessment of the drug efficacy, safety and tolerability.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between the ages of 18 and 60 with mild to moderate asthma",
+      "endpoints": [
+        "FEV1"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00157937"
+    }
+  ],
+  "timestamp": "2026-03-04T16:59:06.793067",
+  "success": true,
+  "error_message": null
+}

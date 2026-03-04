@@ -1,0 +1,933 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lenalidomide",
+    "disease": "mantle cell lymphoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00031941",
+      "title": "A Multidose Phase I Study of Oral CC5013, a Thalidomide Derivative, in Patients With Refractory Metastatic Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2009-04",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: CC-5013 may stop the growth of cancer by stopping blood flow to the tumor.\n\nPURPOSE: Phase I trial to study the effectiveness of CC-5013 in treating patients who have solid tumors and/or lymphoma that did not respond to previous therapy.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed refractory solid tumor and/or lymphoma\n* No brain metastases or primary CNS malignancies\n\nPATIENT CHARACTERISTICS:\n\nAge:\n\n* 18 and over\n\nPerformance status:\n\n* ECOG 0-2\n\nLife expectancy:\n\n* More than 3 months\n\nHematopoietic:\n\n* Granulocyte count a",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00031941"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04635683",
+      "title": "A Phase I Trial of Lenalidomide, Umbralisib and Ublituximab in Patients With Relapsed or Refractory Indolent Non-Hodgkin Lymphoma or Mantle Cell Lymphoma",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2022-09-30",
+      "completion_date": "2024-12-31",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This phase I trial studies the safety and how effective the combination of ublituximab, umbralisib, and lenalidomide is in certain types of indolent (slow-growing) non-Hodgkin's lymphoma or mantle cell lymphoma. Lenalidomide may stimulate the immune system in different ways and stop cancer cells from growing. Lenalidomide may also stop the growth of non-Hodgkin's lymphoma by blocking blood flow to the cancer. Umbralisib is designed to block a protein called PI3 kinase in order to stop cancer gro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documentation of disease at diagnosis and/or relapse (local pathology review is allowed):\n\n  * Patients in the dose-escalation portion of the study must have histologically confirmed, low-grade B-cell NHL by the World Health Organization (WHO) classification:\n\n    * Follicular",
+      "endpoints": [
+        "Recommended phase 2 dose (RP2D)"
+      ],
+      "sponsor": "Ohio State University Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT04635683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04903197",
+      "title": "A Phase Ib, Multi-center, Open-label Dose Escalation and Expansion Platform Study of VAY736 as Single Agent and in Combination With Select Antineoplastic Agents in Patients With Non-Hodgkin Lymphoma (NHL)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2022-01-24",
+      "completion_date": "2025-02-24",
+      "country": "South Korea, Singapore, Italy, Germany, Australia, China, Japan",
+      "enrollment": 18,
+      "brief_summary": "The purpose of this study is to assess the safety, tolerability, pharmacokinetics (PK), immunogenicity and preliminary efficacy of VAY736 alone or in combination with other therapies in patients with NHL in a platform trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with confirmed diagnosis of relapsed/refractory B-cell NHL with all subtypes of DLBCL, follicular lymphoma (FL), marginal zone lymphoma (MZL) and mantle cell lymphoma (MCL) per WHO 2016 criteria. Patients in subtype arm e.g. DLBCL must have confirmed diagnosis o",
+      "endpoints": [
+        "Incidence and nature of dose limiting toxicities (DLTs)",
+        "Incidence of Adverse events (AEs) and serious adverse events (SAEs)",
+        "Number of patients with dose interruptions and dose reductions"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT04903197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07261163",
+      "title": "Obinutuzumab, Zanubrutinib, and Lenalidomide as First-Line Therapy for Mantle Cell Lymphoma: A Prospective, Single-Arm, Open-Label, Multicenter Study",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-20",
+      "completion_date": "2029-07-31",
+      "country": "China",
+      "enrollment": 37,
+      "brief_summary": "This is a prospective, open-label, single-arm clinical trial evaluating a treatment strategy for previously untreated Mantle Cell Lymphoma (MCL). The study will enroll patients who have not received prior systemic therapy for MCL. All patients will receive the ZGR induction regimen. Risk-adapted maintenance therapy will be applied: non-high-risk patients will receive lenalidomide and zanubrutinib maintenance for 1 and 2 years, respectively; high-risk patients will undergo CAR-T cell therapy foll",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 80 years inclusive, both genders are eligible.\n2. Histologically or cytologically confirmed diagnosis of Mantle Cell Lymphoma (MCL), with at least one measurable lesion according to Lugano criteria.\n3. No prior systemic therapy for MCL.\n4. Eastern Cooperati",
+      "endpoints": [
+        "complete response rate (CR)"
+      ],
+      "sponsor": "Institute of Hematology & Blood Diseases Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT07261163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01838434",
+      "title": "A Phase I/Randomized Phase II Trial of Idelalisib and Lenalidomide in Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2017-05",
+      "country": "United States",
+      "enrollment": 106,
+      "brief_summary": "This Phase I/II trial studies the safety and effectiveness of lenalidomide with or without idelalisib. Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Idelalisib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. It is not yet known whether lenalidomide is more effective with or without idelalisib in treating mantle cell lymphoma.",
+      "eligibility_criteria": "1. Documentation of Disease:\n\n   1. Histologically documented mantle cell lymphoma, with the following immunophenotypic characteristics: cluster of differentiation (CD)5+, (CD)23-, cyclin D1+; this may be from an initial diagnostic biopsy, or one obtained at time of relapse\n   2. Institutional flow ",
+      "endpoints": [
+        "Maximum tolerated dose (MTD) of idelalisib and lenalidomide, determined according to incidence of dose-limiting toxicity (DLT) graded using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 (Phase I)",
+        "Progression Free Survival (PFS) of the combination of lenalidomide, with or without idelalisib (Phase II)"
+      ],
+      "sponsor": "Alliance for Clinical Trials in Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT01838434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01116154",
+      "title": "A Phase I Study of the Combination of Lenalidomide With the Histone Deacetylase Inhibitor, Vorinostat in Hodgkin and Non Hodgkin's Lymphoma",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-05",
+      "completion_date": "2010-08",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "RATIONALE: Vorinostat may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Giving vorinostat together with lenalidomide may kill more cancer cells.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of vorinostat when given together with lenalidomide in treating patients with relapsed or refractory Hodgkin ly",
+      "eligibility_criteria": "Inclusion\n\n* Understand and voluntarily sign an informed consent form\n* Able to adhere to the study visit schedule and other protocol requirements\n* Patients must have a history of biopsy-documented Hodgkin or non-Hodgkin lymphoma (either B or T cell) and with relapsed or refractory disease after at",
+      "endpoints": [
+        "Assessment of the Maximum Tolerated Dose and Dose-Limiting Toxicities of the combination of vorinostat and lenalidomide in this patient population"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01116154"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06084936",
+      "title": "A Phase III, Open-Label, Multicenter Randomized Study Evaluating Glofitamab as a Single Agent Versus Investigator's Choice in Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-10-22",
+      "completion_date": "2028-03-31",
+      "country": "South Korea, Brazil, France, Spain, Sweden, Taiwan, Puerto Rico, Italy, Australia, China, United Kingdom, Canada, United States",
+      "enrollment": 182,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of glofitamab monotherapy compared with an investigator's choice of either rituximab plus bendamustine (BR), or lenalidomide with rituximab (R-Len) in patients with relapsed or refractory (R/R) mantle cell lymphoma (MCL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Life expectancy at least 12 weeks\n* Histologically-confirmed MCL, with documentation of either overexpression of cyclin D1 or the presence of t(11:14) within 12 months of study entry\n* Relapsed (disease progression after the last treatment regimen) or refractory (failure to ac",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT06084936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02460276",
+      "title": "A Phase II Trial of Ibrutinib, Lenalidomide and Rituximab for Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2019-12-31",
+      "country": "Norway, Denmark, Sweden, Finland",
+      "enrollment": 50,
+      "brief_summary": "In this trial, patients with mantle cell lymphoma will be included, treatment with lenalidomide, rituximab and ibrutinib will be administered in an induction phase for up to 12 cycles, cycle length 28 days. Patients with complete remission, partial response or stable disease will enter a maintenance phase with treatment with ibrutinib and rituximab until progression of disease.\n\nThe primary objective is to evaluate overall response rate, based on PET and CT.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age over 18 years\n* Histologically confirmed (according to the WHO 2008, and upcoming 2015 classification) mantle cell lymphoma stage II-IV\n* Received at least 1 prior rituximab-containing chemotherapy regimen\n* Documented relapse or disease progression following the last anti",
+      "endpoints": [
+        "Overall response rate."
+      ],
+      "sponsor": "Lund University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02460276"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01021423",
+      "title": "A Phase 3 Multicenter, Randomized, Double-blind, Placebo-Controlled, First Line Maintenance Study Of Lenalidomide (Revlimid®) In Patients With Mantle-Cell Lymphoma",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-04-01",
+      "completion_date": "2011-03-01",
+      "country": "Israel, France, Spain, Czechia, Puerto Rico, Russia, Italy, Germany, United Kingdom, Portugal, Poland, United States",
+      "enrollment": 9,
+      "brief_summary": "A study to evaluate the efficacy of lenalidomide as maintenance therapy after completion of first-line combination chemotherapy in patients with mantle cell lymphoma (MCL) who are not candidates for transplantation and have achieved partial response (PR) or complete response (CR).\n\nThis study was prematurely terminated by the sponsor in light of new unpublished data that rendered the current design of the study no longer clinically relevant. A study design with the control arm of no active treat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically-proven mantle cell non-Hodgkin's lymphoma,\n* One of the following first-line induction chemotherapy regimens with rituximab: (1) combination regimen containing all of the following components: cyclophosphamide, vincristine, adriamycin and a glucocorticoid; (2) F",
+      "endpoints": [
+        "Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT01021423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01472562",
+      "title": "Phase II Study of Lenalidomide Plus Rituximab in Patients With Previously Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-07-29",
+      "completion_date": "2023-07-30",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "This is a phase II, multicenter study to determine the efficacy and safety of first-line lenalidomide plus rituximab therapy in patients with mantle cell lymphoma who have received no prior systemic therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and voluntarily sign an informed consent form.\n* Age \\> = 18 years at the time of signing the informed consent form.\n* Able to adhere to the study visit schedule and other protocol requirements.\n* Histologically confirmed diagnosis of mantle cell Non-Hodgkin's Lymph",
+      "endpoints": [
+        "Overall Response Rate"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT01472562"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05861050",
+      "title": "Phase 1/2 Study of the Combination of Glofitamab, Venetoclax and Lenalidomide in Patients With Newly Diagnosed High Risk Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-08-10",
+      "completion_date": "2027-02-01",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This phase I/II trial tests the safety and effectiveness of glofitamab (with obinutuzumab pretreatment), venetoclax, and lenalidomide in treating patients with newly diagnosed, high risk mantle cell lymphoma. Glofitamab and obinutuzumab are monoclonal antibodies that may interfere with the ability of cancer cells to grow and spread. Venetoclax is in a class of medications called B-cell lymphoma-2 (BCL-2) inhibitors. It may stop the growth of cancer cells by blocking Bcl-2, a protein needed for c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented informed consent of the participant and/or legally authorized representative\n\n  * Assent, when appropriate, will be obtained per institutional guidelines\n* Agreement to allow the use of archival tissue from diagnostic tumor biopsies\n\n  * If unavailable, exceptions m",
+      "endpoints": [
+        "Progression free survival (PFS)",
+        "Incidence of dose limiting toxicity"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05861050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02281279",
+      "title": "A Phase I/II Trial of Romidepsin, Rituximab and Lenalidomide (R3) in Relapsed/Refractory B Cell Lymphomas Including Transformed Follicular Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2016-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of romidepsin and lenalidomide when combined with rituximab and to see how well this combination works in treating patients with B-cell non-Hodgkin lymphoma that has returned (recurrent) or did not respond to treatment (refractory). Monoclonal antibodies, such as rituximab, may block cancer growth in different ways by targeting certain cells. Romidepsin and lenalidomide may stop the growth of cancer cells by blocking enzymes needed for",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PHASE I: Histological confirmation of relapsed (recurrent after previous therapy\\[ies\\]) or refractory (no response to previous therapy\\[ies\\]) B-cell NHL; note: patients with small lymphocytic lymphoma (SLL) are eligible however patients with chronic lymphocytic leukemia (CLL",
+      "endpoints": [
+        "MTD, defined as the dose level below the lowest dose that induces dose-limiting toxicity in at least one-third of patients (at least 2 of a maximum of 6 new patients) (Phase I)",
+        "Overall response rate (Phase II)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT02281279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088048",
+      "title": "A Phase I Study to Investigate the Safety and Clinical Activity of Idelalisib in Combination With Chemotherapeutic Agents, Immunomodulatory Agents and Anti-CD20 mAb in Subjects With Relapsed or Refractory Indolent B-cell Non-Hodgkin Lymphoma, Mantle Cell Lymphoma or Chronic Lymphocytic Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-03-25",
+      "completion_date": "2015-04-28",
+      "country": "United States",
+      "enrollment": 241,
+      "brief_summary": "The primary objective of the study is to evaluate the safety of idelalisib in combination with an anti-CD20 monoclonal antibody (mAb), a chemotherapeutic agent, a mammalian target of rapamycin (mTOR) inhibitor, a protease inhibitor, an antiangiogenic agent, and/or an immunomodulatory agent in participants with relapsed or refractory indolent B-cell non-Hodgkin lymphoma (NHL), mantle cell lymphoma (MCL), or chronic lymphocytic leukemia (CLL).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Age ≥ 18\n* Previously treated with relapsed or refractory disease (refractory defined as not responding to a standard regimen or progressing within 6 months of the last course of a standard regimen)\n* Disease status requirement:\n\n  * For CLL patients, symptomatic disease t",
+      "endpoints": [
+        "Duration of Exposure to IDELA",
+        "Toxicity of Administration of IDELA"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01088048"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00294632",
+      "title": "Lenalidomide and Rituximab Treatment of Relapsed Mantle Cell Lymphoma and Diffuse Large B-Cell Non-Hodgkin's Lymphoma, Transformed Large Cell Lymphoma, and/or Grade 3 Follicular Lymphoma (Follicular Cleaved Large Cell Lymphoma or Follicular Non-Cleaved Large Cell Lymphoma (RV-LYM-PI-0056)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2016-02",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "The goal of this clinical research study is to find the highest tolerable dose of the drug lenalidomide (Revlimid, lenalidomide) that can be given with Rituxan® (rituximab) in the treatment of relapsed mantle cell lymphoma. The safety and effectiveness of this combination treatment will also be studied in both mantle cell lymphoma and diffuse large B-cell non-Hodgkin's lymphoma, transformed large cell lymphoma, and/or Grade 3 follicular lymphoma (follicular cleaved large cell lymphoma or follicu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Phase I and Phase II: Confirmed diagnosis of mantle cell lymphoma with CD20 positivity in tissue biopsy. Patients must have previously treated relapsed and/or refractory MCL. Or for Phase II: Confirmed diagnosis of previously treated relapsed and/or refractory diffuse large B",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Lenalidomide in Combination With Rituximab"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00294632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05025800",
+      "title": "A Phase I/II Open Label, Single Center, Study of the Combination of ALX148, Rituximab and Lenalidomide in Patients With Indolent and Aggressive B-Cell Non-Hodgkin Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-10-13",
+      "completion_date": "2026-03-10",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "This phase I/II trial finds out the best dose, possible benefits and/or side effects of ALX148 in combination with rituximab and lenalidomide in treating patients with indolent and aggressive B-cell non-Hodgkin lymphoma. Immunotherapy with ALX148, may induce changes in body's immune system and may interfere with the ability of cancer cells to grow and spread. Chemotherapy drugs, such as lenalidomide, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Phase I: histologically confirmed B-cell NHL, including marginal zone lymphoma, follicular lymphoma, mantle cell lymphoma, large B-cell lymphoma (including transformed MZL, transformed FL, Richter Syndrome with ALC \\< 5,000 109/L, FL grade 3B, high grade B-cell lymphoma and pr",
+      "endpoints": [
+        "Recommended phase II dose (RP2D) and schedule of ALX148 (Phase I)",
+        "Complete remission (CR) rate (Phase II)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05025800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01415752",
+      "title": "Intergroup Randomized Phase 2 Four Arm Study In Patients ≥ 60 With Previously Untreated Mantle Cell Lymphoma Of Therapy With: Arm A = Rituximab+ Bendamustine Followed By Rituximab Consolidation (RB → R); Arm B = Rituximab + Bendamustine + Bortezomib Followed By Rituximab Consolidation (RBV→ R), Arm C = Rituximab + Bendamustine Followed By Lenalidomide + Rituximab Consolidation (RB → LR) or Arm D = Rituximab + Bendamustine + Bortezomib Followed By Lenalidomide + Rituximab Consolidation (RBV → LR)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2012-08-09",
+      "completion_date": "2031-09",
+      "country": "Canada, United States",
+      "enrollment": 373,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some find cancer cells and help kill them or carry cancer-killing substances to them. Others interfere with the ability of cancer cells to grow and spread. Drugs used in chemotherapy, such as bendamustine hydrochloride, also work in different ways to kill cancer cells or stop them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Lena",
+      "eligibility_criteria": "Step 1 (Induction) Inclusion Criteria:\n\n* Mantle Cell Lymphoma International Prognostic Index (MIPI) score must be calculated and entered in OPEN\n* Histologically confirmed untreated mantle cell lymphoma (MCL), with documented cyclin D1 by immunohistochemical stains and/or t(11;14) by cytogenetics o",
+      "endpoints": [
+        "Progression-free Survival (PFS) for Induction Phase",
+        "Progression-free Survival (PFS) for Maintenance Phase (Step 2)"
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT01415752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02983097",
+      "title": "Open-label, Multicenter Phase I/II Study: Salvage Therapy of Progressive and Relapsed Aggressive Non-Hodgkin-Lymphoma by Combination of Lenalidomide (Revlimid®) With Rituximab, Dexamethason, High-dose ARA-C and Cisplatinum (R²-DHAP)",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2015-04-28",
+      "country": "Germany",
+      "enrollment": 34,
+      "brief_summary": "The goal of this study is to evaluate efficacy and safety of the combination of lenalidomide, an immunomodulatory drug (IMiD) with a standard immunochemotherapy treatment, called R-DHAP. R-DHAP consists of a monoclonal antibody called Rituximab and chemotherapy consisting of Dexamethasone, high dose Cytarabine, often called Ara-C, and platinum based chemotherapy, either cisplatinum, or, if treatment with cisplatinum is contraindicated, carboplatinum.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge: 18-70\n\nRisk groups: All risk groups\n\nhistology: diagnosis or a recurrent or primary progressive aggressive b-cell non-hodgkin lymphoma, in particular\n\n* follicular lymphoma grade III\n* diffuse large b-cell lymphoma\n* burkitt lymphoma\n* mantle cell lymphoma, blastoid variant",
+      "endpoints": [
+        "Overall Response Rate (ORR)",
+        "Maximum tolerated dose (MTD)"
+      ],
+      "sponsor": "Gesellschaft fur Medizinische Innovation - Hamatologie und Onkologie mbH",
+      "url": "https://clinicaltrials.gov/study/NCT02983097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00889798",
+      "title": "Epidemiological Registry Describing Treatment Reality and Therapy Modalities of Patients With Malignant Lymphatic Systemic Diseases (Non-Hodgkin's Lymphoma, Chronic Lymphocytic Leukemia and Multiple Myeloma) Requiring Therapy.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2019-08-31",
+      "country": "N/A",
+      "enrollment": 3795,
+      "brief_summary": "The purpose of this registry is to record information on therapy reality of malignant lymphatic systemic diseases by office-based haematologists in Germany.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of Non-Hodgkin's lymphoma, chronic lymphocytic leukaemia or multiple myeloma\n* Must receive a first- or second-line therapy\n* 18 years or older\n* Signed, written informed consent\n\nExclusion Criteria:\n\n\\- no systemic therapy",
+      "endpoints": [
+        "Course of treatment (treatment reality)"
+      ],
+      "sponsor": "iOMEDICO AG",
+      "url": "https://clinicaltrials.gov/study/NCT00889798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02633137",
+      "title": "Sequential Chemotherapy and Lenalidomide Followed by Rituximab and Lenalidomide Maintenance for Untreated Mantle Cell Lymphoma: A Phase II Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-12-14",
+      "completion_date": "2023-11-07",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "The purpose of this study is to find out what effects, good and/or bad, the treatment including 1) Lenalidomide-RCHOP, 2) R-HIDAC, and 3) Lenalidomide-Rituximab maintenance has on the participant and their lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Previously untreated mantle cell lymphoma patients (at least clinical stage 2)\n* Histologic diagnosis confirmed by MSKCC pathologist as mantle cell lymphoma\n* Presence of evaluable disease\n* Age ≥18 years KPS ≥ 70%\n* Adequate organ function: ANC ≥1500 and platelet count ≥100,0",
+      "endpoints": [
+        "3-year Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02633137"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03863184",
+      "title": "A Multiple-center Phase 2 Study of Acalabrutinib-Lenalidomide-Rituximab (ALR) With an Expansion Cohort of Acalabrutinib-Lenalidomide-Obinutuzumab (ALO) in Patients With Previous Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-10-11",
+      "completion_date": "2027-09",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "This is a multi-arm phase 2 study to evaluate the preliminary evidence of efficacy and safety of the combination of acalabrutinib, lenalidomide and rituximab (ALR) and acalabrutinib, lenalidomide and obinutuzumab (ALO) in previously untreated mantle cell lymphoma. The study includes an induction phase consisting of 12 cycles of ALR or ALO. Responding subjects will be eligible to enter a maintenance phase. Subjects will continue maintenance ALR or ALO until disease progression, development of una",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of mantle cell lymphoma\n* Age ≥ 18 years\n* No prior systemic therapy for lymphoma\n* Measurable disease defined by a tumor mass ≥ 1.5 cm in one dimension and measurable in two dimensions; measurable spleen disease is allowed\n* Treatment should",
+      "endpoints": [
+        "Peripheral Blood Minimum Residual Disease (MRD)-Negative Complete Response (CR) Rate of the Combination of Acalabrutinib + Lenalidomide + Rituximab at the Conclusion of 12 Cycles of Induction Therapy"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT03863184"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01737177",
+      "title": "Bendamustine, Lenalidomide and Rituximab (R2-B) Combination as a Second-Line Therapy for First Relapsed-Refractory Mantle Cell Lymphomas: A Phase II Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07-31",
+      "completion_date": "2017-02-02",
+      "country": "Italy",
+      "enrollment": 42,
+      "brief_summary": "This is a prospective, multicenter phase II trial designed to evaluate the safety and activity of the combination of Bendamustine, Lenalidomide and Rituximab (R2-B) in patients with first relapsed/refractory mantle cell lymphoma (MCL) and the efficacy and safety of a maintenance treatment with Lenalidomide for 18 months from the end of R2-B (from month 7 to 24) for those responding to the induction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has a diagnosis of MCL according to the WHO classification;\n* Patient age is ≥ 18 years;\n* Patient has an Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2;\n* Understands and voluntarily signs an informed consent form;\n* Able to adhere to the study vi",
+      "endpoints": [
+        "Complete Response (CR) rate",
+        "Maintenance Progression Free Survival (maPFS)"
+      ],
+      "sponsor": "Fondazione Italiana Linfomi - ETS",
+      "url": "https://clinicaltrials.gov/study/NCT01737177"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01744912",
+      "title": "A Phase I/II Study of Ublituximab in Combination With Lenalidomide (Revlimid®) in Patients With B-Cell Lymphoid Malignancies Who Have Relapsed or Are Refractory After CD20 Directed Antibody Therapy",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2012-11-21",
+      "completion_date": "2014-02-07",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to determine whether ublituximab in combination with lenalidomide (Revlimid®) is safe and effective in patients with B-Cell Lymphoid Malignancies who have relapsed or are refractory after CD20 directed antibody therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Relapsed or refractory B-cell non-Hodgkins Lymphoma (NHL), Chronic Lymphocytic Leukemia (CLL) or Small Lymphocytic Lymphoma (SLL)\n* Participants must have received at least one prior line of therapy with an anti-CD20 antibody (i.e. rituximab, ofatumumab, etc.) or an anti-CD20 ",
+      "endpoints": [
+        "Maximum Tolerated Dose acceptable for participants"
+      ],
+      "sponsor": "TG Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01744912"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02446236",
+      "title": "Phase Ib Dose Finding Study of Bruton's Tyrosine Kinase (BTK) Inhibitor, Ibrutinib (PCI-32765) Plus Lenalidomide / Rituximab in Relapsed or Refractory Mantle Cell Lymphoma (MCL)",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2015-06-18",
+      "completion_date": "2026-07",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "This is a dose-escalation to determine the MTD and/or RPII for combinations of ibrutinib (PCI-32765) plus lenalidomide/rituximab in patients with relapsed/refractory mantle cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than or equal to 18 years.\n* Histologically or cytologically confirmed diagnosis of MCL.\n* Relapsed or refractory MCL patients who have received at least one prior therapy are eligible. Patients who have previously received high-dose chemotherapy with peripheral st",
+      "endpoints": [
+        "Determine the MTD (Measured in mg) Based on the Number of Patients With Adverse Events"
+      ],
+      "sponsor": "Hackensack Meridian Health",
+      "url": "https://clinicaltrials.gov/study/NCT02446236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05564052",
+      "title": "A Randomized, Controlled, Open-label, Multicenter, Inferentially Seamless Phase 2/3 Study of Ibrutinib in Combination With Rituximab Versus Physician's Choice of Lenalidomide Plus Rituximab or Bortezomib Plus Rituximab in Participants With Relapsed or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-12-06",
+      "completion_date": "2024-09-26",
+      "country": "Brazil, Spain, Sweden, Czechia, Taiwan, Puerto Rico, India, Greece, Turkey (Türkiye), Malaysia, Romania, Poland, Thailand",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to provide continued access to treatment for participants who continue to benefit from treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 1 prior treatment regimen for mantle cell lymphoma (MCL) excluding inhibitor of Bruton's tyrosine kinase (BTKi)\n* Documented disease progression or relapse following the last anti-MCL treatment\n* At least 1 measurable site of disease on cross-sectional imaging that is",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs) Leading to Discontinuation of Treatment: Arms A1, A2, A3 and B",
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs) Leading to Discontinuation of Treatment: Monotherapy Arm",
+        "Number of Participants With Grade 3 or Higher TEAEs Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) Version (v) 5.0: Arms A1, A2, A3 and B"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT05564052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05788289",
+      "title": "Phase 2 Study of Tafasitamab and Lenalidomide in Relapsed or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2023-03-14",
+      "completion_date": "2024-08-01",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "The purpose of this study is to determine if the combination of tafasitamab and lenalidomide is an effective treatment for relapsed or refractory Mantle Cell Lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years at the time of signing Informed Consent\n* Karnofsky performance status (KPS) ≥ 70% (see Appendix A)\n* Pathologically confirmed diagnosis of R/R MCL\n* Previously treated with at least one prior line of systemic therapy for MCL, at least one of which must have bee",
+      "endpoints": [
+        "Overall Response Rate/ORR"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05788289"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03505944",
+      "title": "Venetoclax, Lenalidomide and Rituximab in Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-07-01",
+      "completion_date": "2022-12-01",
+      "country": "Norway, Denmark, Sweden, Finland",
+      "enrollment": 59,
+      "brief_summary": "Phase I/II trial, with the aim of evaluating the efficacy of venetoclax to the backbone of rituximab-lenalidomide in patients with relapsed/refractory MCL.",
+      "eligibility_criteria": "Inclusion criteria\n\n* Age \\>18 years\n* Histologically confirmed (according to the WHO 2016 classification) mantle cell lymphoma stage I-IV\n\n  * Who have received at least 1 prior rituximab-containing chemotherapy regimen, with documented relapse or disease progression following the last anti-MCL tre",
+      "endpoints": [
+        "Overall response rate"
+      ],
+      "sponsor": "Nordic Lymphoma Group",
+      "url": "https://clinicaltrials.gov/study/NCT03505944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03647124",
+      "title": "A Non-interventional, Post-authorization Safety Study of Patients With Relapsed or Refractory Mantle Cell Lymphoma to Further Investigate and Characterize the Association of Lenalidomide With Tumor Flare Reaction and High Tumor Burden",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-03-13",
+      "completion_date": "2024-01-10",
+      "country": "France, Spain, Greece, Italy, Austria, Germany, Netherlands",
+      "enrollment": 105,
+      "brief_summary": "The purpose of this study is to investigate and characterize the association of lenalidomide with tumor flare reaction and high tumor burden in participants with relapsed or refractory mantle cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nReceived at least one dose of lenalidomide commencing after 08 July 2016 for the treatment of relapsed refractory mantle cell lymphoma.\n\nInformed consent of the patient or an authorized third person or authority, if required by law, given prior to data collection.\n\nPatient must ",
+      "endpoints": [
+        "To quantify and characterize the event of TFR by tumor burden in R/R MCL patients treated with lenalidomide in a real-world setting."
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT03647124"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02733042",
+      "title": "A Phase 1/2, Open-label, Multi-center Study to Assess the Safety and Tolerability of Durvalumab (Anti-PDL1 Antibody) as Monotherapy and in Combination Therapy in Subjects With Lymphoma or Chronic Lymphocitic Leukemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-05-11",
+      "completion_date": "2022-08-21",
+      "country": "France, Italy, Germany, United Kingdom, Netherlands, Japan, United States",
+      "enrollment": 106,
+      "brief_summary": "This study is designed to determine the recommended phase 2 dose (RP2D), and the safety, and efficacy of durvalumab as monotherapy and when given in combination with lenalidomide and rituximab; ibrutinib; or bendamustine and rituximab at the RP2D in adults with lymphoma or chronic lymphocytic leukemia (CLL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject who has histologically confirmed and documented B-cell lymphoma (eg, follicular, diffuse large B-cell, mantle cell, small lymphocytic, or Hodgkin lymphoma) and chronic lymphocytic leukemia.\n2. Subject who has high-risk chronic lymphocytic leukemia (CLL)/small lymphocy",
+      "endpoints": [
+        "Part 1: Number of Participants With Dose Limiting Toxicities (DLTs)",
+        "Number of Participants With Treatment-emergent Adverse Events"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT02733042"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04435743",
+      "title": "The Efficacy and Safety of Lenalidomide With or Without Rituximab and Other Drugs in B-cell Non-Hodgkin Lymphomas: a Real-world Study.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-11-01",
+      "completion_date": "2022-12",
+      "country": "China",
+      "enrollment": 1000,
+      "brief_summary": "Describe the treatment of B-cell non-Hodgkin lymphoma patients who receive lenalidomide single drug or lenalidomide combined with rituximab (with or without other drugs), and evaluate the efficacy and safety of lenalidomide single drug or lenalidomide combined with rituximab (with or without other drugs) in the real-world setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed as B-cell non-Hodgkin's lymphoma\n* Voluntary participation in this study and the signing of an informed consent form\n* The researchers assessed that the patient will benefit from the treatment of lenalidomide single drug or lenalidomide combined with rituximab (with ",
+      "endpoints": [
+        "Objective response rate"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04435743"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02341781",
+      "title": "A Multicenter, Observational Study to Evaluate the Effectiveness of Lenalidomide (Revlimid®) in Subjects With Mantle Cell Lymphoma Who Have Relapsed or Progressed After Treatment With Ibrutinib or Are Refractory or Intolerant to Ibrutinib.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2016-09",
+      "country": "Germany, United Kingdom, Italy, United States",
+      "enrollment": 30,
+      "brief_summary": "The objective of this study is to determine the effectiveness of lenalidomide in subjects with relapsed or refractory Mantle Cell Lymphoma (MCL) following ibrutinib treatment. MCL subjects who require treatment after receiving ibrutinib therapy are considered a population with high unmet medical need. It is therefore of benefit to have data on the outcomes of treatment options available in this patient population.\n\nAn observational study design was chosen to collect the clinical data already exi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent document (ICD), if applicable, prior to any collection of study-related data.\n2. Males or females ≥ 18 years of age at the time of signing the ICD (if informed consent is applicable)\n3. Diagnosis of Mantle Cell Lymphoma (MCL",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT02341781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00609869",
+      "title": "A Phase II Study of Lenalidomide (REVLIMID®) in Combination With Rituximab for Patients With CD5+/CD20+ Hematologic Malignancies Who Relapse or Progress After Rituximab",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this research is to evaluate the use of Rituximab in combination with Revlimid in the treatment of refractory Mantle Cell Lymphoma (MCL) and Chronic Lymphocytic Leukemia (CLL). Revlimid® is a drug that changes the immune system and it may also get in the way with the growth of tiny blood vessels that help support tumor growth. Therefore, in theory, it may reduce or prevent the growth of cancer cells. Revlimid® is approved by the Food and Drug Administration (FDA) for the treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed CD5+/CD20+ B-Cell Chronic Lymphocytic Leukemia or Mantle Cell Lymphoma\n* Meet the following CLL criteria to participate in this study:\n\n  * Absolute lymphocyte count \\> 5000/μL\n  * CD20+ and CD5+\n  * Atypical cells representing \\<",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "H. Lee Moffitt Cancer Center and Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00609869"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05214183",
+      "title": "Acalabrutinib and Rituximab in Elderly Patients With Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-12-15",
+      "completion_date": "2027-01",
+      "country": "South Korea, Finland, Norway, Denmark, Sweden",
+      "enrollment": 81,
+      "brief_summary": "This is a phase II trial, with the aim of developing a chemotherapy-free regimen for untreated patients with mantle cell lymphoma (MCL).\n\nAcalabrutinib (ACP-196) is a next generation bruton tyrosine kinase (BTK) inhibitor, more selective than ibrutinib, and without in vitro antagonism of anti-CD20 directed immunotherapies, indicating that its combination with rituximab may be more active than the combination of ibrutinib and rituximab.\n\nIn this trial proposal, we will also assess the activity of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥60 years\n2. Pathologically confirmed MCL (according to the 2016 WHO classification), with documentation of monoclonal B cells that have a chromosome translocation t(11;14)(q13;q32) and/or overexpress cyclin D1\n3. Stage II-IV, measurable by imaging and requiring treatment",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "Nordic Lymphoma Group",
+      "url": "https://clinicaltrials.gov/study/NCT05214183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00737529",
+      "title": "A Phase 2, Multicenter, Single-Arm, Open-Label Study To Determine The Efficacy And Safety Of Single-Agent Lenalidomide (Revlimid®) In Patients With Mantel Cell NHL Who Have Relapsed Or Progressed After Treatment With Bortezomib Or Are Refractory To Bortezomib",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-12-22",
+      "completion_date": "2017-11-08",
+      "country": "Israel, France, Singapore, Spain, Puerto Rico, Turkey (Türkiye), Austria, Hungary, Italy, Germany, United Kingdom, Colombia, Belgium, United States",
+      "enrollment": 134,
+      "brief_summary": "To evaluate the safety and efficacy of Lenalidomide (Revlimid (R)) in subjects with mantle cell lymphoma who have relapsed, progressed or are refractory to bortezomib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Biopsy proven mantle cell lymphoma\n* Patients must have documents relapsed, refractory or PD after treatment with bortezomib\n* Must have measureable disease on cross sectional imaging by CT\n* Eastern Cooperative Oncology Group (ECOG) performance score 0,1 or 2\n* Willing to fol",
+      "endpoints": [
+        "Percentage of Participants Who Achieved an Overall Response According to the Independent Review Committee (IRC)",
+        "Kaplan Meier Estimate of Duration of Response (DoR) According to the Independent Review Committee"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00737529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01865110",
+      "title": "Efficacy of Alternating Immunochemotherapy Consisting of R-CHOP + R-HAD vs R-CHOP Alone, Followed by Maintenance Therapy Consisting of Additional Lenalidomide + Rituximab vs Rituximab Alone for Older Patients With Mantle Cell Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-11",
+      "completion_date": "2025-01-31",
+      "country": "France, Spain, Germany, Netherlands, Portugal, Poland, Belgium",
+      "enrollment": 623,
+      "brief_summary": "This study aims to evaluate whether the addition of lenalidomide to rituximab-maintenance improves progression free survival (PFS) compared to standard rituximab maintenance after induction treatment consisting of R-CHOP + R-HAD vs R-CHOP alone in older patients (≥ 60 year old) with mantle cell lymphoma.\n\nThe treatments consist of two phases: induction treatment (3 R-CHOP21 + 3 cycles of R-HAD28 alternating) vs 8 cycles of R-CHOP21) followed by maintenance treatment (13 cycles of rituximab + 26 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSigned informed consent form Biopsy-proven MCL according to WHO classification\n\n≥ 60 years of age and ineligible for autologous transplant Ann Arbor stage II-IV Previously untreated ECOG PS ≤ 2\n\nMale subjects must:\n\n* agree to use a condom during sexual contact with a woman of c",
+      "endpoints": [
+        "Progression free survival"
+      ],
+      "sponsor": "The Lymphoma Academic Research Organisation",
+      "url": "https://clinicaltrials.gov/study/NCT01865110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01035463",
+      "title": "Phase I/II Study of Lenalidomide Maintenance Following BEAM (+/- Rituximab) for Chemo-Resistant or High Risk Non-Hodgkin?s Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-11-12",
+      "completion_date": "2018-07-27",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of lenalidomide when given after combination chemotherapy with or without rituximab and stem cell transplant and to see how well it works in treating patients with non-Hodgkin lymphoma that has not responded to treatment or has returned after a period of improvement and is resistant to chemotherapy. Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing. Drugs us",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Persistent, or relapsed non-Hodgkin's lymphoma (NHL) (any histology) that is chemo-resistant (\\< a partial response \\[PR\\]), subjects who have received \\>= 3 prior chemotherapy regimens, or subjects with lymphomas that have a high relapse rate following autologous or syngeneic",
+      "endpoints": [
+        "Maximum Tolerated Dose of Lenalidomide (Phase I)"
+      ],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT01035463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05205252",
+      "title": "ARIA: A Phase 1b/2, Open-label, Multi Cohort Trial of Tazemetostat in Combination With Various Treatments in Subjects With Relapsed or Refractory Hematologic Malignancies",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2021-12-22",
+      "completion_date": "2023-07-05",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This trial will study how safely the tazemetostat works with other therapies in various hematological malignancies. Hematologic malignancies are cancers that most often begin in the bone marrow or lymph nodes where blood precursors are produced.\n\nThey are often called blood cancers and fall into three categories: leukemia, lymphoma and myeloma.\n\nTazemetostat has been found to be a safe and effective drug that works in patients with follicular lymphoma where the disease has come back after treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1 for Phase 1b and status 0 to 2 for Phase 2\n2. Must have documented relapsed, refractory, or progressive disease after 2 lines of treatment with systemic therapy\n3. Measurable disease\n4. Demonstrate adequate o",
+      "endpoints": [
+        "Phase 1b: Recommended Phase 2 Dose (RP2D) of tazemetostat in combination with each partner drug",
+        "Phase 2: Objective Response Rate (ORR)"
+      ],
+      "sponsor": "Ipsen",
+      "url": "https://clinicaltrials.gov/study/NCT05205252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01254578",
+      "title": "A Phase 1 Study of Lenalidomide Maintenance Following Allogeneic Hematopoietic Cell Transplantation in Patients With Select High Risk Hematological Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-11-24",
+      "completion_date": "2012-11-09",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "This phase I clinical trial is studying the side effects and the best dose of lenalidomide after donor bone marrow transplant in treating patients with high-risk hematologic cancer. Biological therapies, such as lenalidomide, may stimulate the immune system in different ways and stop cancer cells from growing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed hematologic malignancy meeting 1 of the following criteria:\n\n  * High-risk acute myeloid leukemia meeting 1 the following criteria:\n\n    * First complete response (CR) and ≥ 60 years of age OR \\< 60 years of age with high-risk cytogenetics as defined b",
+      "endpoints": [
+        "MTD of lenalidomide after allogeneic hematopoietic stem cell transplantation graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.0"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01254578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00901615",
+      "title": "A Phase IB Study of Escalating Doses of REVLIMID in Association With R-CHOP (R2-CHOP) in the Treatment of B-cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-01-06",
+      "completion_date": "2015-11-23",
+      "country": "France",
+      "enrollment": 108,
+      "brief_summary": "The purpose of the study is to determine the recommended dose (RD) of lenalidomide (Revlimid) when administered in association with R-CHOP (rituximab (R), cyclophosphamide, doxorubicin, vincristine and prednisone).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with one of the following B-cell Lymphoma, CD 20 positive:\n\n  * Mantle cell, Marginal zone, follicular\n  * Histological transformation from low grade to high grade\n  * Diffuse large B cell\n* Aged from 18 to 70 years\n* WHO performance status 0, 1 or 2\n* Signed inform c",
+      "endpoints": [
+        "Incidence of Dose Limiting Toxicities"
+      ],
+      "sponsor": "Lymphoma Study Association",
+      "url": "https://clinicaltrials.gov/study/NCT00901615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01953692",
+      "title": "A Phase Ib Multi-Cohort Trial of MK-3475 (Pembrolizumab) in Subjects With Hematologic Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-11-22",
+      "completion_date": "2020-06-26",
+      "country": "N/A",
+      "enrollment": 197,
+      "brief_summary": "The purpose of this trial is to evaluate the safety, tolerability, and efficacy of pembrolizumab (MK-3475, KEYTRUDA®) and pembrolizumab in combination with lenalidomide (Cohort 5 only) in hematologic malignancies. The primary study hypotheses are that treatment with pembrolizumab will result in a clinically meaningful improvement in Objective Response Rate (ORR) or Complete Remission Rate (CRR).\n\nThe study includes an initial dose determination to establish the recommended phase 2 dose (RP2D) of",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Has confirmed diagnosis of relapse or refractory Multiple Myeloma (enrollment completed), Primary mediastinal Large B cell Lymphoma, non-Hodgkin lymphoma (NHL), Follicular Lymphoma, Diffuse Large B cell lymphoma (enrollment discontinued), Hodgkin lymphoma or Myelodysplastic sy",
+      "endpoints": [
+        "Number of Participants Who Experienced One or More Adverse Events (AEs):",
+        "Number of Participants Who Discontinued Study Treatment Due to an Adverse Event (AE)",
+        "Objective Response Rate (ORR) in Cohort 1: Myelodysplastic Syndrome (MDS)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01953692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02568553",
+      "title": "A Phase I Trial of the Combination of Lenalidomide and Blinatumomab in Patients With Relapsed or Refractory Non-Hodgkins Lymphoma (NHL)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11-15",
+      "completion_date": "2025-11-24",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "This phase I trial studies the side effects and best dose of lenalidomide and blinatumomab when given together in treating patients with non-Hodgkin lymphoma that has returned after a period of improvement (relapsed). Biological therapies, such as lenalidomide, use substances made from living organisms that may stimulate or suppress the immune system in different ways and stop cancer cells from growing. Blinatumomab is a monoclonal antibody that may interfere with the ability of cancer cells to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed relapsed cluster of differentiation (CD)19+ non-Hodgkin lymphoma (NHL) (included in this category are follicular grade I, II, III, marginal zone, mantle cell, gray zone, primary mediastinal, Burkitt's, diffuse large B cell, small lymph",
+      "endpoints": [
+        "Incidence of toxicity"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT02568553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04036448",
+      "title": "Post Marketing Surveillance on Safety Evaluation of REVLIMID® (Lenalidomide) Treatment of Myelodysplastic Syndromes Associated With a Deletion 5q or Mantle Cell Lymphoma in Korea",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-11-28",
+      "completion_date": "2023-08-15",
+      "country": "South Korea",
+      "enrollment": 28,
+      "brief_summary": "The Drug Use Examination (DUE) is planned and designed for the safety evaluation of new indications after the approval of a new drug in Korea.\n\nThis DUE is a non-interventional, observational and post-marketing surveillance, which will be conducted by collecting the safety information of REVLIMID® for new indications in routine clinical practice in Korea.\n\nSix-Hundred (600) adult patients, who start with REVLIMID® treatment based on the approved local package insert (PI) of REVLIMID® during rout",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treatment of patients with transfusion-dependent anemia due to IPSS low- or intermediate-1-risk Myelodysplastic Syndromes associated with a deletion 5q cytogenetic abnormality according to International scoring system for evaluating prognosis in myelodysplastic syndromes accor",
+      "endpoints": [
+        "Adverse events (AEs)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT04036448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05992597",
+      "title": "Prospective, Single-arm, Single-center, Phase II Clinical Study of Rituximab, Lenalidomide, Zebutinib Combined Regimen Followed by Sequential Immunochemotherapy in the Treatment of Initially Treated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-08-01",
+      "completion_date": "2026-12-01",
+      "country": "China",
+      "enrollment": 48,
+      "brief_summary": "Patients with newly diagnosed MCL were treated with ZR2 regimen for 3 cycles, followed by 3 cycles of immunochemotherapy, and zebrutinib maintenance therapy for 2 years after the end of induction therapy, in order to improve the remission rate and prognosis of patients with induction therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participate in the clinical study voluntarily: fully understand and be informed of the study and sign the informed consent in person; Willing to follow and be able to complete all test procedures.\n* 18\\~75 years old (inclusive), male and female.\n* Histopathologically confirmed",
+      "endpoints": [
+        "ORR"
+      ],
+      "sponsor": "Zhejiang Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05992597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03891355",
+      "title": "Carfilzomib (K) Plus Lenalidomide (R) and Dexamethasone (D) for BTK Inhibitors Relapsed-refractory or Intolerant Mantle Cell Lymphomas: a Phase II Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-09-30",
+      "completion_date": "2022-12-08",
+      "country": "Italy",
+      "enrollment": 16,
+      "brief_summary": "This is a prospective, multicenter, single arm, phase II trial designed to evaluate activity and the safety of the combination of Carfilzomib (K), Lenalidomide (R) and Dexamethasone (D) in patients with mantle cell lymphoma (MCL) relapsed/refractory (R/R) or intolerant to BTK inhibitor (BTKi) monotherapy or BTKi containing regimens with active disease necessitating treatment.",
+      "eligibility_criteria": "Inclusion criteria Patient has a confirmed diagnosis of MCL according to the WHO 2017 classification;\n\n* Previous treatment with BTKi monotherapy or BTKi containing regimens with R/R disease; and/or patients who discontinued BTKi monotherapy or BTKi containing regimens for adverse events and have ac",
+      "endpoints": [
+        "Primary Efficacy Endpoint - 12-months overall survival"
+      ],
+      "sponsor": "Fondazione Italiana Linfomi - ETS",
+      "url": "https://clinicaltrials.gov/study/NCT03891355"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01955499",
+      "title": "A Phase I Study of Ibrutinib (PCI-32765) in Combination With Lenalidomide in Relapsed and Refractory B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2013-09-24",
+      "completion_date": "2026-05-06",
+      "country": "Canada, United States",
+      "enrollment": 39,
+      "brief_summary": "This phase I trial studies the side effects and best dose of lenalidomide and ibrutinib in treating patients with B-cell non-Hodgkin lymphoma that has returned (relapsed) or not responded to treatment (refractory). Lenalidomide helps shrink or slow the growth of non-Hodgkin lymphoma. Ibrutinib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving lenalidomide with ibrutinib may work better in treating non-Hodgkin lymphoma than giving either drug alone",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed B-cell non-Hodgkin's lymphoma (NHL) of any of the following subtypes recognized by the World Health Organization (WHO) classification: diffuse large B-cell lymphoma, mantle cell lymphoma, marginal zone lymphoma, lymphoplasmacytic lymphoma, or follicula",
+      "endpoints": [
+        "Maximum tolerated dose (MTD)",
+        "Incidence of toxicity according to the National Cancer Institute Common Terminology Criteria for Adverse Events version 5.0 criteria"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01955499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02213913",
+      "title": "Prospective, Multi-center Phase I/II Trial of Lenalidomide and Dose-Adjusted EPOCH-R in MYC-Associated B-Cell Lymphomas",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-07-29",
+      "completion_date": "2023-07-29",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of lenalidomide when given together with combination chemotherapy and to see how well they work in treating patients with v-myc myelocytomatosis viral oncogene homolog (avian) (MYC)-associated B-cell lymphomas. Lenalidomide may stop the growth of B-cell lymphomas by blocking the growth of new blood vessels necessary for cancer growth and by blocking some of the enzymes needed for cell growth. Biological therapies, such as lenalidomide,",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. B-cell lymphoma with comprehensive immunohistochemistry (IHC) panel establishing lineage (CD20, CD3) and cell of origin (CD10, BCL6 and MUM1) in addition to proliferative/prognostic markers (Ki-67, C-myc and BCL2). DHL will be identified using cytogenetics and/or immunohistoch",
+      "endpoints": [
+        "PFS",
+        "MTD of adding lenalidomide to the DA-EPOCH-R regimen as a front-line therapy in patients with DHL lymphomas (using CTCAE v 4.0) (Phase I)",
+        "PFS (Phase II)"
+      ],
+      "sponsor": "University of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT02213913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07081022",
+      "title": "JS203 Combination Regimens in B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-08-17",
+      "completion_date": "2027-04-06",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "To evaluate the preliminary efficacy of JS203 combined with standard regimens in patients with B-cell Non-Hodgkin's lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients must meet all of the following inclusion criteria to be enrolled：\n\n* Age range: 18 to 80 years old (inclusive), both male and female are acceptable；\n* ECOG: 0-2；\n* B-cell non-Hodgkin's lymphoma expressing CD20 antigen that has been pathologically diagnosed；\n* At least o",
+      "endpoints": [
+        "Objective response rate (ORR)"
+      ],
+      "sponsor": "Shanghai Junshi Bioscience Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07081022"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03015896",
+      "title": "A Phase I/II Study of the PD-1 Antibody Nivolumab in Combination With Lenalidomide in Relapsed/Refractory Non-Hodgkin's Lymphoma (NHL) and Hodgkin's Disease (HD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-02-14",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This I/II trial studies the side effects and best dose of lenalidomide when given together with nivolumab and to see how well they work in treating patients with non-Hodgkin or Hodgkin lymphoma that has come back and does not respond to treatment. Monoclonal antibodies, such as nivolumab, may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as lenalidomide, work in different ways to stop the growth of tumor cells, either by killing the cells, by stop",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PHASE I: Histologically confirmed B-cell NHL with any of the following subtypes: DLBCL, mantle cell lymphoma (MCL), FL, marginal zone lymphoma (MZL) and lymphoplasmacytic lymphoma/Waldenstrom's macroglobulinemia (LL/WM), Burkitt's lymphoma (BL); patients with histological tran",
+      "endpoints": [
+        "Incidence of adverse events summarized by NCI CTCAE version 4",
+        "Maximum tolerated dose (MTD) defined as the dose level at which no more than one of 6 patients experiences a dose-limiting toxicity summarized by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4"
+      ],
+      "sponsor": "Ohio State University Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03015896"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01075321",
+      "title": "A Phase I/II Clinical Trial of the mTor Inhibitor RAD001 (Everolimus) in Combination With Lenalidomide (Revlimid) for Patients With Relapsed or Refractory Lymphoid Malignancy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-01-10",
+      "completion_date": "2020-02-13",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "RATIONALE: Everolimus may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Lenalidomide may stop the growth of cancer cells by blocking blood flow to the cancer. Giving everolimus together with lenalidomide may be an effective treatment for lymphoma.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of giving everolimus and lenalidomide together and to see how well they work in treating patients with relapsed or refractory non-Hodgk",
+      "eligibility_criteria": "Inclusion\n\n* Histological or cytological confirmation of relapsed or refractory non-Hodgkin lymphoma or Hodgkin lymphoma =\\< 6 months prior to registration\n* The following disease types are eligible: Study 1 - Aggressive lymphomas- Transformed lymphomas; Diffuse large B cell lymphoma; Mantle cell ly",
+      "endpoints": [
+        "Number of Patients Reporting Dose-Limiting Toxicity (DLT) (Phase I)",
+        "Best Response to Dose Level 0"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT01075321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05076097",
+      "title": "A Prospective Phase II Clinical Study of Orelabrutinib in Combination With Lenalidomide and Rituximab (OLR) in First-line Treatment of Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-30",
+      "completion_date": "2023-10-15",
+      "country": "China",
+      "enrollment": 29,
+      "brief_summary": "This is a single-arm, multicenter, open label phase II clinical study to evaluate the efficacy and safety of OLR in the treatment of initially treated mantle cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histopathologically confirmed mantle cell lymphoma with chromosomal translocation. All subjects must provide adequate archived or fresh tumor tissue samples for immunohistochemistry (IHC) testing.\n2. Age 18-70, both male and female.\n3. No previous systemic treatment for lymph",
+      "endpoints": [
+        "Complete Response Rate"
+      ],
+      "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05076097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00633594",
+      "title": "Phase I/II Study Evaluating Rituximab, Lenalidomide, and Bortezomib in the First-Line or Second-Line Treatment of Patients With Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2016-11",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "This is a Phase I/II multicenter, open-label, dose-escalation study of rituximab, bortezomib, and lenalidomide in the first-line or second-line treatment of patients with Mantle Cell Lymphoma (MCL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. All study participants must be registered into the Mandatory Revlimid Risk Evaluation and Mitigation Strategies (REMS) Program, and be willing and able to comply with the requirements of the REMS program.\n2. Histology: biopsy-proven mantle cell lymphoma (MCL).\n3. Prior therap",
+      "endpoints": [
+        "Maximum Tolerated Dose of Lenalidomide Combined With Bortezomib and Rituximab in Phase I Participants",
+        "Incidence of Non-Serious Adverse Events as a Measure of Safety and Tolerability, Phase II"
+      ],
+      "sponsor": "SCRI Development Innovations, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00633594"
+    }
+  ],
+  "timestamp": "2026-03-04T16:05:27.718981",
+  "success": true,
+  "error_message": null
+}

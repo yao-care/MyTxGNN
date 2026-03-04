@@ -1,0 +1,590 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Beclomethasone Dipropionate",
+    "disease": "rhinitis",
+    "query_string": "Beclomethasone Dipropionate AND rhinitis"
+  },
+  "data": {
+    "query": "Beclomethasone Dipropionate AND rhinitis",
+    "results": [
+      {
+        "pmid": "34871605",
+        "title": "Practical and scalable synthesis of beclomethasone dipropionate.",
+        "abstract": "Beclomethasone dipropionate (1) is a synthetic corticosteroid with anti-inflammatory, antipruritic, and anti-allergy properties. It is widely used to treat asthma, allergic rhinitis, and dermatoses. However, existing synthetic routes to this active pharmaceutical ingredient (API) contain steps resulting in low and/or inconsistent yields, and use obsolete reagents. Such inconsistencies coupled with a lack of reliable experimental data makes laboratory-scale and large-scale synthesis of this API difficult and time-consuming. In this paper, we report a practical and scalable approach to synthesize 1 from the readily available steroidal intermediate, 16β-methyl epoxide (3, DB-11). A gram-scale to kilogram-scale synthesis of 1 was achieved with 82% yield, using a cost-effective and scalable methodology. Selective propionylation of the hydroxyl groups at C17 and C21 demonstrate the fact that this approach can be conveniently implemented in fine chemical industries.",
+        "journal": "Steroids",
+        "year": "2022",
+        "authors": [
+          "Welideniya Dhanushi T",
+          "Jayathilaka Adeesha S",
+          "Acharige Anjana Delpe",
+          "Samanthi K A U",
+          "Wanninayake Umayangani K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Beclomethasone",
+          "Molecular Conformation",
+          "Stereoisomerism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34871605/"
+      },
+      {
+        "pmid": "40152721",
+        "title": "Treatment of allergic rhinitis and allergic conjunctivitis.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2025",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40152721/"
+      },
+      {
+        "pmid": "811455",
+        "title": "Beclomethasone dipropionate: II: Allergic rhinitis and other conditions.",
+        "abstract": "At doses similar to those used in the treatment of chronic bronchial asthma, intranasal beclomethasone dipropionate is effective in alleviating nasal symptoms of seasonal allergic and perennial rhinitis in about three-quarters of patients. Eye symptoms are not relieved. The carry-over effect of the evening dose is useful in preventing early morning attacks of sneezing. Intranasal beclomethasone dipropionate is useful in controlling symptoms persisting after polypectomy and may possibly delay or eliminate the need for the surgical removal of nasal polyps, which may shrink after several weeks or months of treatment.",
+        "journal": "Drugs",
+        "year": "1975",
+        "authors": [
+          "Brogden R N",
+          "Pinder R M",
+          "Sawyer P R",
+          "Speight T M",
+          "Avery G S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adrenal Glands",
+          "Adult",
+          "Beclomethasone",
+          "Child",
+          "Chronic Disease",
+          "Clinical Trials as Topic",
+          "Cromolyn Sodium",
+          "Drug Evaluation",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/811455/"
+      },
+      {
+        "pmid": "8750396",
+        "title": "Effectiveness and safety of beclomethasone dipropionate, an intranasal corticosteroid, in the treatment of patients with allergic rhinitis.",
+        "abstract": "There is an increasing trend toward topical intranasal corticosteroids as the preferred treatment for seasonal or perennial allergic rhinitis. This trend is based on the fact that the chronic, mucosal inflammation that accompanies allergic rhinitis responds to anti-inflammatory drugs such as topical corticosteroids. Intranasal corticosteroids, given before the natural antigen challenge, reverse preexisting inflammation and prevent nasal priming by antigens. One intranasal corticosteroid, beclomethasone dipropionate, has been available by prescription in the United States for more than a decade and has an established efficacy and safety profile in patients with allergic rhinitis. Beclomethasone dipropionate has become the standard to which other intranasal corticosteroid preparations are compared. In comparison with earlier corticosteroids (eg, hydrocortisone, prednisolone, dexamethasone, betamethasone) that caused adrenal suppression and other systemic adverse reactions, the actions of",
+        "journal": "Clinical therapeutics",
+        "year": "1995",
+        "authors": [
+          "Edwards T B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Asthmatic Agents",
+          "Beclomethasone",
+          "Humans",
+          "Rhinitis, Allergic, Perennial",
+          "Rhinitis, Allergic, Seasonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8750396/"
+      },
+      {
+        "pmid": "26558604",
+        "title": "Beclomethasone dipropionate hydrofluoroalkane for the treatment of allergic rhinitis.",
+        "abstract": "Allergic rhinitis (AR) is a common respiratory disease, and its prevalence is increasing all over the world, both in adults and in children. Patients experience symptoms that may negatively impact on physical, social and psychological well-being. Hence, if left untreated, allergic rhinitis may significantly affect quality of life. Under current guidelines, intranasal corticosteroids are considered the most effective drugs and they are recommended as first-line therapy. Among the several corticosteroid intranasal sprays available, beclomethasone dipropionate is one of the most prescribed. Recently, new intranasal hydrofluoroalkane-propelled formulations with little or no impact on the ozone layer have been developed for the treatment of AR. The use of these devices might improve patients' adherence to treatment, avoiding some of the most common side effects associated with aqueous formulations. This review provides the most recent evidence for the efficacy and safety of beclomethasone d",
+        "journal": "Expert review of clinical immunology",
+        "year": "2016",
+        "authors": [
+          "Ferrante Giuliana",
+          "Montalbano Laura",
+          "Cilluffo Giovanna",
+          "Malizia Velia",
+          "Marchese Donatella"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aerosol Propellants",
+          "Animals",
+          "Anti-Asthmatic Agents",
+          "Beclomethasone",
+          "Child",
+          "Humans",
+          "Hydrocarbons, Fluorinated",
+          "Medication Adherence",
+          "Nasal Sprays"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26558604/"
+      },
+      {
+        "pmid": "25424236",
+        "title": "[The topical treatment of allergic and vasomotor rhinitis: the role of beclomethasone dipropionate].",
+        "abstract": "Allergic rhinitis is the most frequent allergic disorder, as its prevalence is more than 20% in the general population. Non-allergic rhinitis has similar symptoms, but pathogenic mechanisms are non-IgE-mediated. Anyway, both diseases share a common inflammatory pathway, thus anti-inflammatory drugs represent the optimal therapeutical option. Beclomethasone dipropionate (BDP) is a corticosteroid that is long time available both as intranasal spray and aerosol solution. The present review aims at analysing the most relevant and recent studies concerning the BDP use in allergic and non-allergic rhinitis. The research was performed using Medline and Scopus database, key words were: allergic and non-allergic rhinitis, beclomethasone (last access 31st July 2014). BDP is a corticosteroid with proved efficacy in the treatment of rhinitis, both as spray and aerosol. Safety issue has been satisfactory explored, thus BDP is usually safe and well tolerated.",
+        "journal": "Recenti progressi in medicina",
+        "year": "2014",
+        "authors": [
+          "Ciprandi Giorgio",
+          "Rossi Giovanni A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Administration, Topical",
+          "Aerosols",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Humans",
+          "Rhinitis, Allergic",
+          "Rhinitis, Vasomotor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25424236/"
+      },
+      {
+        "pmid": "6381025",
+        "title": "Beclomethasone dipropionate. A reappraisal of its pharmacodynamic properties and therapeutic efficacy after a decade of use in asthma and rhinitis.",
+        "abstract": "Inhaled beclomethasone dipropionate is now well established in the management of asthma. Studies conducted over the last decade, and since the drug was previously reviewed in the Journal, have confirmed that inhaled beclomethasone dipropionate 400 to 800 micrograms daily can reduce the need for oral maintenance corticosteroids in the majority of asthmatic patients requiring such therapy, and that increasing the dosage to 2000 micrograms daily may provide additional clinical benefit in some patients unresponsive to usual therapeutic dosages. Follow-up over a period of several years has confirmed that the initial response to inhaled beclomethasone can be maintained in most patients. Recent studies indicate that beclomethasone dipropionate 400 micrograms daily is equally effective when administered in 2 or 4 divided doses in patients with stable asthma, but it is likely that the lower frequency of administration will be less effective when the asthma is unstable. Recent studies have estab",
+        "journal": "Drugs",
+        "year": "1984",
+        "authors": [
+          "Brogden R N",
+          "Heel R C",
+          "Speight T M",
+          "Avery G S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Glands",
+          "Aerosols",
+          "Asthma",
+          "Beclomethasone",
+          "Bronchi",
+          "Drug Therapy, Combination",
+          "Glucocorticoids",
+          "Humans",
+          "Immunity",
+          "Kinetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6381025/"
+      },
+      {
+        "pmid": "26115578",
+        "title": "Efficacy and safety of beclomethasone dipropionate nasal aerosol in children with perennial allergic rhinitis.",
+        "abstract": "Beclomethasone dipropionate (BDP) nasal aerosol (non-aqueous) is approved for management of seasonal and perennial allergic rhinitis (PAR) in adolescents and adults.",
+        "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+        "year": "2015",
+        "authors": [
+          "Berger William E",
+          "Jacobs Robert L",
+          "Amar Niran J",
+          "Tantry Sudeesh K",
+          "Li Jiang"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Anti-Allergic Agents",
+          "Beclomethasone",
+          "Child",
+          "Child, Preschool",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26115578/"
+      },
+      {
+        "pmid": "838992",
+        "title": "Beclomethasone dipropionate aerosol in perennial rhinitis.",
+        "abstract": "Beclomethasone dipropionate aerosol (BDA), 50 mug four times daily sprayed into each nostril, was compared with placebo in a double-blind crossover trial in 26 patients with perennial rhinitis. Patients received BDA for 3 weeks and placebo for 3 weeks; the order of administration was randomized. Response was assessed with daily symptom score cards and twice weekly measurements of nasal airway inspiratory resistance at a standard flow rate of 0.4 L/sec. Symptom score and nasal resistance during BDA treatment were significantly lower than those duirng placebo treatment (p less than 0.02 and p less than 0.05, respectively) in the third week. Eighteen of the patients expressed a preference for BDA, 6 for placebo, and 2 for neither (p less than 0.05). Acceptable symptomatic improvement (moderate or marked) was achieved by 54%. Mild side effects were noted by 5 patients; these included nasal irritation and bleeding in 2, aerosol-induced sneezing in 2, and headache in 1. These side effects oc",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "1977",
+        "authors": [
+          "Tarlo S M",
+          "Cockcroft D W",
+          "Dolovich J",
+          "Hargreave F E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Aerosols",
+          "Airway Resistance",
+          "Asthma",
+          "Beclomethasone",
+          "Dust",
+          "Female",
+          "Humans",
+          "Immunoglobulin E",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/838992/"
+      },
+      {
+        "pmid": "782136",
+        "title": "Intra-nasal beclomethasone dipropionate in vasomotor rhinitis.",
+        "abstract": "Twenty-one patients with vasomotor rhinitis, with no relevant allergens known, completed a special double-blind trial of beclomethasone dipropionate aerosol (BDA) and placebo intra-nasally. Each patient took 200, 400 and 800 mug BDA and placebo during four consecutive 2-week periods and in different sequences. The symptom scores of the last week of each period of nasal blockage, watery secretion and sneezing were significantly reduced by all doses of BDA as compared with placebo. There were no differences between the effects of the different doses of BDA except for secretion, which was reduced more by using 800 than 200 mug. Cortisol in serum and 17-hydroxycorticosteroids in 24-hour urine were not significantly changed by BDA treatment and no increased frequency of pathogenic bacteria or fungi could be demonstrated in the nasal secretion. For treatment of patients with vasomotor rhinitis, intra-nasal BDA in a daily dose of 200 mug can be recommended when antihistamines, sympathomimetic",
+        "journal": "Acta allergologica",
+        "year": "1976",
+        "authors": [
+          "Malm L",
+          "Wihl J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "17-Hydroxycorticosteroids",
+          "Adolescent",
+          "Adult",
+          "Beclomethasone",
+          "Clinical Trials as Topic",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/782136/"
+      },
+      {
+        "pmid": "39313999",
+        "title": "Efficacy and safety of various corticosteroids in the treatment of children with allergic rhinitis: A systematic review and network meta-analysis.",
+        "abstract": "Intranasal corticosteroids were recommended as first-line drugs for the treatment of allergic rhinitis (AR) children. A variety of corticosteroids were available for clinical choice; however, which could relieve the clinical symptoms of patients to the greatest extent was currently unknown. Thus, we performed a network meta-analysis (NMA) to systematically evaluate the effectiveness and safety of different corticosteroids in treating children with AR, which might provide a basis for more rational clinical treatment decisions.",
+        "journal": "Journal of evidence-based medicine",
+        "year": "2024",
+        "authors": [
+          "Li Yuxin",
+          "Xiong Jun",
+          "Zhang Zheng",
+          "Liao Kai",
+          "Zho Xiaohong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Administration, Intranasal",
+          "Adrenal Cortex Hormones",
+          "Mometasone Furoate",
+          "Nasal Sprays",
+          "Rhinitis, Allergic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39313999/"
+      },
+      {
+        "pmid": "26846773",
+        "title": "Beclomethasone Dipropionate Nasal Aerosol in Patients with Perennial Allergic Rhinitis (BALANCE) study: 6-month results.",
+        "abstract": "Perennial allergic rhinitis (PAR) exerts significant quality-of-life and economic burdens on society. Beclomethasone dipropionate (BDP) nasal aerosol is the first nonaqueous, hydrofluoroalkane-propelled intranasal corticosteroid approved for patients in the United States to treat PAR and seasonal allergic rhinitis.",
+        "journal": "Allergy and asthma proceedings",
+        "year": "2016",
+        "authors": [
+          "Bukstein Donald",
+          "Parikh Ruchir",
+          "Eid Sherrine",
+          "Ferro Thomas",
+          "Morello Jean-Pierre"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Comorbidity",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Nasal Sprays",
+          "Patient Satisfaction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26846773/"
+      },
+      {
+        "pmid": "8930423",
+        "title": "Clinical review of once-daily beclomethasone dipropionate for seasonal allergic rhinitis.",
+        "abstract": "A new double-strength (84 micrograms/spray) formulation of beclomethasone dipropionate (BDP-ds) as an aqueous suspension has been introduced to control symptoms of allergic rhinitis with once-daily intranasal dosing. This paper reviews the results of three clinical reports which show that BDP-ds given once a day is more effective than placebo and as effective as regular-strength beclomethasone dipropionate given twice daily in reducing the nasal symptoms of seasonal allergic rhinitis. Symptom improvement was seen within 2 days of treatment initiation and was maintained for the subsequent 4 weeks. BDP-ds was found to be as safe and well tolerated as placebo. Adverse effects, which were generally mild, included headache, nasal burning/irritation, epistaxis, coughing, and pharyngitis. BDP-ds is safe for children as young as 6 years of age, and its once-daily dosing schedule may improve patient compliance.",
+        "journal": "Clinical therapeutics",
+        "year": "1996",
+        "authors": [
+          "Chervinsky P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adult",
+          "Beclomethasone",
+          "Child",
+          "Drug Tolerance",
+          "Glucocorticoids",
+          "Humans",
+          "Rhinitis, Allergic, Seasonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8930423/"
+      },
+      {
+        "pmid": "6397331",
+        "title": "Comparison of flunisolide and beclomethasone dipropionate in seasonal allergic rhinitis.",
+        "abstract": "Sixty-nine patients were entered into a randomized, single-blind, parallel group study. Patients had a history of moderate to severe seasonal allergic rhinitis and all patients commenced treatment before the start of the pollen season. Treatment was with either flunisolide or beclomethasone dipropionate, both being administered as 2 sprays to each nostril twice daily for 7 weeks. Assessments of signs and symptoms of hay fever were made at admission and after 3 and 7-weeks' treatment. Patients were asked to keep a daily record of the severity of their symptoms. The overall effect of treatment was evaluated by both the patient and physician. Side-effects were elicited by indirect questioning. Sixty patients completed the study. Four patients from the flunisolide group and 2 from the beclomethasone group were lost to follow-up. Two further patients withdrew from the flunisolide group and 1 from the beclomethasone group. Analysis of results did not reveal any statistically significant diff",
+        "journal": "Current medical research and opinion",
+        "year": "1984",
+        "authors": [
+          "Langrick A F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adult",
+          "Beclomethasone",
+          "Clinical Trials as Topic",
+          "Female",
+          "Fluocinolone Acetonide",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6397331/"
+      },
+      {
+        "pmid": "24125150",
+        "title": "Efficacy and safety of beclomethasone dipropionate nasal aerosol in pediatric patients with seasonal allergic rhinitis.",
+        "abstract": "Aerosolized intranasal corticosteroid formulations are desirable for many patients with allergic rhinitis (AR), especially children, who wish to avoid the \"wet feeling\" and \"drip down the throat\" associated with aqueous formulations. Beclomethasone dipropionate (BDP) hydrofluoroalkane nasal aerosol has been shown to be safe and effective in adolescents and adults with AR.",
+        "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+        "year": "2013",
+        "authors": [
+          "Storms William W",
+          "Segall Nathan",
+          "Mansfield Lyndon E",
+          "Amar Niran J",
+          "Kelley Leith"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Aerosols",
+          "Anti-Asthmatic Agents",
+          "Beclomethasone",
+          "Child",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Nasal Sprays"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24125150/"
+      },
+      {
+        "pmid": "8394165",
+        "title": "Nedocromil sodium.",
+        "abstract": "To summarize the available pharmacokinetic and pharmacologic data on nedocromil sodium and to present representative clinical trials of this new agent in both mild-to-moderate and severe chronic asthma and allergic rhinitis. Adverse effects are reviewed.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1993",
+        "authors": [
+          "Parish R C",
+          "Miller L J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Asthma",
+          "Asthma, Exercise-Induced",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Humans",
+          "Nedocromil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8394165/"
+      },
+      {
+        "pmid": "29688172",
+        "title": "Comparative Effect of Beclomethasone Dipropionate and Cetirizine on Acoustic Rhinometry Parameters in Children With Perennial Allergic Rhinitis: A Randomized Controlled Trial.",
+        "abstract": "The effect of intranasal corticosteroids and oral antihistamines on acoustic rhinometry parameters has not been directly compared. The primary objective was to compare the effect of a 21-day course of treatment with nasal beclomethasone dipropionate (nBDP) with that of cetirizine (CTZ) on nasal patency measured using acoustic rhinometry in children with perennial allergic rhinitis (PAR). The secondary objective was to compare the effect of both drugs on nasal cytology, symptom severity, sleep quality, and quality of life.",
+        "journal": "Journal of investigational allergology & clinical immunology",
+        "year": "2018",
+        "authors": [
+          "Malizia V",
+          "Fasola S",
+          "Ferrante G",
+          "Cilluffo G",
+          "Gagliardo R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adolescent",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Cetirizine",
+          "Child",
+          "Female",
+          "Humans",
+          "Male",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29688172/"
+      },
+      {
+        "pmid": "17943573",
+        "title": "Ciclesonide and beclomethasone dipropionate coadministration: effect on cortisol in perennial allergic rhinitis.",
+        "abstract": "Coexisting asthma and allergic rhinitis (AR) are often treated with both intranasal and inhaled corticosteroids. This study investigated whether intranasal ciclesonide 200 microg once daily has an additional effect on cortisol suppression when coadministered with inhaled hydrofluoroalkane-beclomethasone dipropionate (HFA-BDP). Adult patients (n = 150) with perennial AR received HFA-BDP 320 microg twice daily and placebo once daily during a run-in period. Patients were then randomized to ciclesonide or placebo and HFA-BDP (43 days). A single 2-mg dose of dexamethasone was administered on the last treatment day. Plasma cortisol decreased by 67.8 microg x h/dL (p < 0.001) during the run-in period. When ciclesonide was added, the change in mean plasma cortisol was similar for ciclesonide and placebo (8.5 microg x h/dL and 1.0 microg x h/dL, respectively). Dexamethasone decreased mean plasma cortisol (p < 0.001), demonstrating that further cortisol suppression was possible. This study sugge",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2007",
+        "authors": [
+          "Ratner Paul",
+          "Darken Patrick",
+          "Wingertzahn Mark",
+          "Shah Tushar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Administration, Intranasal",
+          "Adolescent",
+          "Adult",
+          "Anti-Allergic Agents",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Beclomethasone",
+          "Double-Blind Method",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17943573/"
+      },
+      {
+        "pmid": "27979016",
+        "title": "Safety of intranasal corticosteroids.",
+        "abstract": "Concurrent use of intranasal corticosteroids (INCSs) and inhaled corticosteroids (ICSs) is indicated for patients who are comorbid for asthma and allergic rhinitis. Clinicians need to know the data regarding INCS safety for their patients with asthma.",
+        "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+        "year": "2016",
+        "authors": [
+          "Bensch Greg W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Anti-Allergic Agents",
+          "Asthma",
+          "Atrophy",
+          "Child",
+          "Child Development",
+          "Child, Preschool",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27979016/"
+      },
+      {
+        "pmid": "24169062",
+        "title": "Beclomethasone dipropionate nasal aerosol with an integrated dose counter: functionality and performance.",
+        "abstract": "Consistent medication delivery is critical for disease control including symptom management of allergic rhinitis (AR). Available aqueous intranasal corticosteroid devices lack an accurate dose (actuation) counter, which may lead patients to prematurely discard a unit or use a unit beyond its labeled number of actuations, therefore impacting patient adherence. Beclomethasone dipropionate (BDP) nasal aerosol, a nonaqueous hydrofluoroalkane formulation in a device with a novel integrated dose counter and an established efficacy/safety profile, was approved to treat AR-associated nasal symptoms in adolescent and adult patients. This study was designed to evaluate performance of the BDP nasal aerosol device with an integrated dose counter in perennial AR (PAR) patients. In a 6-week, double-blind, placebo-controlled study in PAR patients (≥12 years), patients were randomized to receive once-daily BDP nasal aerosol at 320 micrograms or placebo. In addition to assessing the primary efficacy en",
+        "journal": "Allergy and asthma proceedings",
+        "year": "2013",
+        "authors": [
+          "Meltzer Eli O",
+          "Korenblat Phillip E",
+          "Lanier Bobby Q",
+          "Kelley Leith",
+          "Tantry Sudeesh K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adolescent",
+          "Adult",
+          "Aerosols",
+          "Aged",
+          "Aged, 80 and over",
+          "Beclomethasone",
+          "Child",
+          "Delivery of Health Care, Integrated",
+          "Drug Dosage Calculations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24169062/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:33:56.046802",
+  "success": true,
+  "error_message": null
+}

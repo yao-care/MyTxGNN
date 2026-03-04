@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Naproxen"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00788",
+    "name": "Naproxen",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:07:58.182366",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "postmenopausal atrophic vaginitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02460302",
+      "title": "Vaginal Progesterone Versus Placebo for the Treatment of Vaginal Atrophy - a Double Blind Randomized Control Trial",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2016-12",
+      "completion_date": "",
+      "country": "Canada",
+      "enrollment": 0,
+      "brief_summary": "Atrophic vaginitis affects the majority of post-menopausal women. It is characterized by dryness and inflammation of the vagina, with thinning of the vaginal tissues. Atrophic vaginitis is caused by the decreased effect of estrogens post menopause. Traditionally, local estrogens have been used to treat atrophic vaginitis\n\nStudies have shown that there are progesterone receptors in vaginal tissues. The use of progesterone to treat atrophic vaginitis has not yet been studied. However, its use has ",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Age greater than or equal to 45, unless the patient has had a bilateral oophorectomy\n2. Amenorrheic for greater than one year and/or FSH \\> 40IU/mL\n3. Women who have had a bilateral oophorectomy will be eligible at any age\n4. Patients must have greater than or equal to two ur",
+      "endpoints": [
+        "Perceived Improvement in most bothersome vulvovaginal symptom"
+      ],
+      "sponsor": "Mount Sinai Hospital, Canada",
+      "url": "https://clinicaltrials.gov/study/NCT02460302"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06472765",
+      "title": "Comprehensive Registry and PCR Analysis of the Vaginal Microbiome in Women: Data Collection in Healthy and Diseased States",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-05-16",
+      "completion_date": "2028-05-15",
+      "country": "Canada, United States",
+      "enrollment": 3250,
+      "brief_summary": "The central premise of this study is that the intricate balance and diversity of the vaginal microbiome plays a pivotal role in the onset, progression, and severity of various gynecological conditions. Specifically, the research aims to investigate how imbalances in microbial communities, such as the overgrowth of pathogenic bacteria or the depletion of beneficial ones, are linked to conditions like Bacterial Vaginosis, Candidiasis, Urinary Tract Infections, Vaginal Atrophy, and others. By emplo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy cis-gender women between ages 18 and 89\n\nExclusion Criteria:\n\n* Pregnant or trying to conceive (i.e. IVF, IUI)",
+      "endpoints": [
+        "Microbiome Analysis"
+      ],
+      "sponsor": "Vaginal Biome Science",
+      "url": "https://clinicaltrials.gov/study/NCT06472765"
+    }
+  ],
+  "timestamp": "2026-03-04T17:02:43.376843",
+  "success": true,
+  "error_message": null
+}

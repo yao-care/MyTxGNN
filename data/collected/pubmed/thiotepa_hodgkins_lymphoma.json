@@ -1,0 +1,629 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Thiotepa",
+    "disease": "Hodgkins lymphoma",
+    "query_string": "Thiotepa AND Hodgkins lymphoma"
+  },
+  "data": {
+    "query": "Thiotepa AND Hodgkins lymphoma",
+    "results": [
+      {
+        "pmid": "25568347",
+        "title": "R-MPV followed by high-dose chemotherapy with TBC and autologous stem-cell transplant for newly diagnosed primary CNS lymphoma.",
+        "abstract": "High-dose methotrexate-based chemotherapy is the mainstay of treatment of primary central nervous system lymphoma (PCNSL), but relapses remain frequent. High-dose chemotherapy (HDC) with autologous stem-cell transplant (ASCT) may provide an alternative to address chemoresistance and overcome the blood-brain barrier. In this single-center phase-2 study, newly diagnosed PCNSL patients received 5 to 7 cycles of chemotherapy with rituximab, methotrexate (3.5 g/m(2)), procarbazine, and vincristine (R-MPV). Those with a complete or partial response proceeded with consolidation HDC with thiotepa, cyclophosphamide, and busulfan, followed by ASCT and no radiotherapy. Primary end point was 1-year progression-free survival (PFS), N = 32. Median age was 57, and median Karnofsky performance status 80. Following R-MPV, objective response rate was 97%, and 26 (81%) patients proceeded with HDC-ASCT. Among all patients, median PFS and overall survival (OS) were not reached (median follow-up: 45 months)",
+        "journal": "Blood",
+        "year": "2015",
+        "authors": [
+          "Omuro Antonio",
+          "Correa Denise D",
+          "DeAngelis Lisa M",
+          "Moskowitz Craig H",
+          "Matasar Matthew J"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Cytarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25568347/"
+      },
+      {
+        "pmid": "33956047",
+        "title": "Outcomes Associated With Thiotepa-Based Conditioning in Patients With Primary Central Nervous System Lymphoma After Autologous Hematopoietic Cell Transplant.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) requires induction and consolidation to achieve potential cure. High-dose therapy and autologous hematopoietic cell transplant (AHCT) is an accepted and effective consolidation strategy for PCNSL, but no consensus exists on the optimal conditioning regimens.",
+        "journal": "JAMA oncology",
+        "year": "2021",
+        "authors": [
+          "Scordo Michael",
+          "Wang Trent P",
+          "Ahn Kwang W",
+          "Chen Yue",
+          "Ahmed Sairah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System",
+          "Cohort Studies",
+          "Cyclophosphamide",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33956047/"
+      },
+      {
+        "pmid": "24491026",
+        "title": "Effectiveness and safety of thiotepa as conditioning treatment prior to stem cell transplant in patients with central nervous system lymphoma.",
+        "abstract": "Thiothepa is a cytostatic agent used in managing solid malignancies, and also as conditioning treatment before hematopoietic stem cell transplantation [HSCT]. This systematic review summarizes evidence on its effectiveness and safety, in patients with central nervous system [CNS] lymphoma.",
+        "journal": "Leukemia & lymphoma",
+        "year": "2014",
+        "authors": [
+          "Kokolo Madzouka B",
+          "Fergusson Dean",
+          "O'Neill Joseph",
+          "Tay Jason",
+          "Tinmouth Alan T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System Neoplasms",
+          "Hematopoietic Stem Cell Mobilization",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma",
+          "Myeloablative Agonists",
+          "Neoplasm Recurrence, Local",
+          "Publication Bias",
+          "Thiotepa",
+          "Transplantation Conditioning"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24491026/"
+      },
+      {
+        "pmid": "29500148",
+        "title": "Thiotepa, Etoposide, Cyclophosphamide, Cytarabine, and Melphalan (TECAM) Conditioning Regimen for Autologous Stem Cell Transplantation in Lymphoma.",
+        "abstract": "High-dose chemotherapy and autologous stem cell transplantation (ASCT) is the current standard of care for relapsed non-Hodgkin lymphoma (NHL) and Hodgkin lymphoma (HL). Conditioning regimens with high-dose carmustine have been associated with idiopathic pneumonitis syndrome. We, therefore, created a modified alternative TECAM conditioning regimen, consisting of etoposide, thiotepa, cytarabine, cyclophosphamide, and melphalan.",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2018",
+        "authors": [
+          "Grisariu Sigal",
+          "Shapira Michael Y",
+          "Or Reuven",
+          "Avni Batia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Etoposide",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hodgkin Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29500148/"
+      },
+      {
+        "pmid": "32229199",
+        "title": "Durable Survival Outcomes in Primary and Secondary Central Nervous System Lymphoma After High-dose Chemotherapy and Autologous Stem Cell Transplantation Using a Thiotepa, Busulfan, and Cyclophosphamide Conditioning Regimen.",
+        "abstract": "High-dose chemotherapy (HDC) with autologous stem cell transplantation (ASCT) has been investigated in patients with primary central nervous system lymphoma (PCNSL) and non-Hodgkin lymphoma (NHL) with CNS involvement and has shown promising results.",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2020",
+        "authors": [
+          "Young Patricia A",
+          "Gaut Daria",
+          "Kimaiyo Davis K",
+          "Grotts Jonathan",
+          "Romero Tahmineh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Central Nervous System Neoplasms",
+          "Cyclophosphamide",
+          "Disease-Free Survival",
+          "Female",
+          "Humans",
+          "Lymphoma",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32229199/"
+      },
+      {
+        "pmid": "29035395",
+        "title": "Replacing carmustine by thiotepa and cyclophosphamide for autologous stem cell transplantation in Hodgkin's and non-Hodgkin's B-cell lymphoma.",
+        "abstract": "This study aimed to compare the real-life results of TECAM, a thiotepa-based conditioning regimen consisting of thiotepa (40 mg/m2 days -5 to -2), etoposide (200 mg/m2 days -6 to -3), cytarabine (200 mg/m2 days -4 to -1), cyclophosphamide (60 mg/kg day -3), and melphalan (60 mg/m2 days -2 to -1) with that of the conventional carmustine-based regimen BEAM. We reviewed 125 consecutive patients who underwent a first autologous transplantation (ASCT) for B-cell lymphomas at a large tertiary transplantation center between 1999 and 2014. TECAM (n=65) and BEAM (n=60) had comparable results (3yPFS 49 vs 62%, P=0.16; 3yOS 64 vs 71%, P=0.44; TRM 1.6 vs 5%, P=0.35) without a difference in toxicity or time to engraftment. Notably, comparable outcomes were observed even though patients treated with TECAM were older (55 vs 44) and had a trend towards more prior lines of therapy (>2 prior lines: 43 vs 27%, P=0.08). In this regard, 23% of TECAM patients were over the age of 65 yet could withstand ther",
+        "journal": "Bone marrow transplantation",
+        "year": "2018",
+        "authors": [
+          "Joffe E",
+          "Rosenberg D",
+          "Rozovski U",
+          "Perry C",
+          "Kirgner I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Agents, Alkylating",
+          "Carmustine",
+          "Cyclophosphamide",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hodgkin Disease",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29035395/"
+      },
+      {
+        "pmid": "24471910",
+        "title": "Great expectations? Conditioning with busulfan, melphalan and thiotepa in recurrent Hodgkin lymphoma.",
+        "abstract": "",
+        "journal": "Leukemia & lymphoma",
+        "year": "2014",
+        "authors": [
+          "Kosuri Satyajit",
+          "van Besien Koen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hodgkin Disease",
+          "Humans",
+          "Male",
+          "Transplantation Conditioning"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24471910/"
+      },
+      {
+        "pmid": "28870642",
+        "title": "High-dose Thiotepa, Busulfan, Cyclophosphamide, and Autologous Stem Cell Transplantation as Upfront Consolidation for Systemic Non-Hodgkin Lymphoma With Synchronous Central Nervous System Involvement.",
+        "abstract": "Synchronous involvement of the central nervous system (CNS) at the diagnosis of systemic non-Hodgkin lymphoma (NHL) is associated with an increased risk for relapse despite complete remission to initial therapy. High-dose chemotherapy with a CNS-directed conditioning regimen followed by autologous stem cell transplantation (ASCT) holds promise as a consolidative approach.",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2017",
+        "authors": [
+          "Qualls David",
+          "Sullivan Andrew",
+          "Li Shuli",
+          "Brunner Andrew M",
+          "Collier Kerry"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Central Nervous System",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28870642/"
+      },
+      {
+        "pmid": "21928053",
+        "title": "High-dose thiotepa, etoposide and carboplatin as conditioning regimen for autologous stem cell transplantation in patients with high-risk non-Hodgkin lymphoma.",
+        "abstract": "High-dose chemotherapy conditioning regimens followed by autologous stem cell transplantation generally provide good results in non-Hodgkin lymphoma. We have evaluated the effects of a high-dose regimen comprising thiotepa, etoposide and carboplatin. After debulking and mobilization with high-dose cyclophosphamide or other schedules, forty-five patients at various disease stages were conditioned with thiotepa, etoposide and carboplatin prior to autologous stem cell transplantation. The overall response rate was 77.8% (30 CR, 66.7%; 5 PR, 11.1%). Ten patients (22.2%) did not respond. Two patients (4.4%) died from transplant-related complications. The mean 5-year overall survival was 71.1%: 12 patients relapsed within the first 5 years of follow-up. The overall response rate and 5-year overall survival were better for patients with an International Prognostic Index (IPI) 1 at diagnosis than for those with IPI 2 and IPI 3 (P<0.005 for all). The thiotepa, etoposide and carboplatin conditio",
+        "journal": "Clinical and experimental medicine",
+        "year": "2012",
+        "authors": [
+          "Falzetti Franca",
+          "Di Ianni Mauro",
+          "Ballanti Stelvio",
+          "Iodice Giuseppe",
+          "Reale Antonia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Agents",
+          "Carboplatin",
+          "Disease-Free Survival",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Kaplan-Meier Estimate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21928053/"
+      },
+      {
+        "pmid": "30989325",
+        "title": "Thiotepa, busulfan, and cyclophosphamide or busulfan, cyclophosphamide, and etoposide high-dose chemotherapy followed by autologous stem cell transplantation for consolidation of primary central nervous system lymphoma.",
+        "abstract": "Primary central nervous system lymphoma (PCNSL) is a rare extranodal non-Hodgkin lymphoma for which standard treatment has yet to be established. High-dose chemotherapy followed by autologous stem cell transplantation (ASCT) is a suitable consolidation strategy for patients who respond to induction chemotherapy. The purpose of this study was to compare the outcome and toxicity profile of the combination of busulfan, cyclophosphamide, and etoposide (BuCyE) with that of the combination of thiotepa, busulfan, and cyclophosphamide (TBC) as conditioning regimens of upfront ASCT for consolidation therapy in PCNSL. The PCNSL registry data set, prospectively collected from March 1993 to May 2017 at Asan Medical Center, was reviewed retrospectively. Patients with objective response to induction chemotherapy who received BuCyE or TBC as conditioning regimen for ASCT were included in the analysis. Primary endpoints were overall survival (OS) and progression-free survival (PFS). Among 241 patients",
+        "journal": "Annals of hematology",
+        "year": "2019",
+        "authors": [
+          "Hyung Jaewon",
+          "Hong Jung Yong",
+          "Yoon Dok Hyun",
+          "Kim Shin",
+          "Park Jung Sun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Autografts",
+          "Busulfan",
+          "Central Nervous System Neoplasms",
+          "Consolidation Chemotherapy",
+          "Cyclophosphamide",
+          "Disease-Free Survival",
+          "Etoposide",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30989325/"
+      },
+      {
+        "pmid": "28427529",
+        "title": "Primary central nervous system lymphoma.",
+        "abstract": "Primary CNS lymphomas (PCNSL) represent a subgroup of malignancies with specific characteristics, aggressive course, and unsatisfactory outcome in contrast with other lymphomas comparable for tumour burden and/or histological type. Despite a high chemo- and radiosensitivity, remissions are frequently shortlasting, mainly because the blood brain-barrier limits the access of many drugs to the CNS. Moreover, survivor patients are at high risk of developing severe treatment-related toxicity, mainly disabling neurotoxicity, raising the question of how to balance therapy intensification with side-effects control. Although the prognosis remains poor, it has significantly improved over the past two decades as a result of better treatment strategies with a curative aim. Surgery has no impact on survival, and is reserved to diagnosis by stereotactic biopsy. Actual front-line therapy consists of high-dose methotrexate-based poly-chemotherapy. The optimal drugs combination has not yet been identif",
+        "journal": "Critical reviews in oncology/hematology",
+        "year": "2017",
+        "authors": [
+          "Citterio Giovanni",
+          "Reni Michele",
+          "Gatta Gemma",
+          "Ferreri Andrés José Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28427529/"
+      },
+      {
+        "pmid": "29679773",
+        "title": "Distinctive Infectious Complications in Patients with Central Nervous System Lymphoma Undergoing Thiotepa, Busulfan, and Cyclophosphamide-conditioned Autologous Stem Cell Transplantation.",
+        "abstract": "We investigated the incidence of viral, fungal, bacterial, and parasitic infections observed in 57 patients with central nervous system lymphoma after thiotepa, busulfan, and cyclophosphamide-conditioned autologous stem cell transplantation (TBC-ASCT) and 79 patients with systemic non-Hodgkin lymphoma after traditional carmustine, etoposide, cytarabine, and melphalan-conditioned ASCT (BEAM-ASCT). Twenty of 57 (35%) TBC-ASCT patients had detectable viremia with human herpesvirus 6, cytomegalovirus, adenovirus, or BK virus, versus 9 of 79 (11%) BEAM-ASCT patients. Eight TBC-ASCT patients had clinically relevant viral infections (4 human herpesvirus 6, 2 cytomegalovirus, 1 adenovirus, 2 BK virus), versus 0 in the BEAM-ASCT group. Four TBC-ASCT patients suffered infections from either a fungal or parasitic pathogen versus 1 BEAM-ASCT patient. TBC was associated with greater risk of viral reactivation compared with BEAM, independent of other factors (hazard ratio, 4.42; 95% confidence inter",
+        "journal": "Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation",
+        "year": "2018",
+        "authors": [
+          "Scordo Michael",
+          "Morjaria Sejal M",
+          "Littmann Eric R",
+          "Bhatia Ankush",
+          "Chung Helen H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Busulfan",
+          "Central Nervous System Neoplasms",
+          "Cyclophosphamide",
+          "Female",
+          "Humans",
+          "Lymphoma",
+          "Male",
+          "Middle Aged",
+          "Stem Cell Transplantation",
+          "Thiotepa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29679773/"
+      },
+      {
+        "pmid": "23697844",
+        "title": "Improved outcome with busulfan, melphalan and thiotepa conditioning in autologous hematopoietic stem cell transplant for relapsed/refractory Hodgkin lymphoma.",
+        "abstract": "High-dose therapy with autologous stem cell transplant (autoSCT) is standard therapy for relapsed/refractory Hodgkin lymphoma, although the optimal conditioning regimen remains uncertain. We conducted a retrospective analysis of 100 consecutive patients with relapsed/refractory Hodgkin lymphoma who underwent autoSCT between 1998 and 2009. There were 60 patients who received busulfan, melphalan and thiotepa (BuMelTt) conditioning and 40 who received other common regimens. There were no significant differences in patient characteristics between the two groups. With a median follow-up of 4.3 years, the 5-year overall survival (OS) was superior for patients who received BuMelTt versus other conditioning (73% vs. 44%, p = 0.05). BuMelTt was also associated with an improved 5-year progression-free survival (66% vs. 37%, p = 0.03). There were no differences in length of hospitalization, febrile neutropenia, hepatic veno-occlusive disease or 100-day non-relapse mortality (NRM). There were more",
+        "journal": "Leukemia & lymphoma",
+        "year": "2014",
+        "authors": [
+          "Bains Tarunpreet",
+          "Chen Andy I",
+          "Lemieux Andrew",
+          "Hayes-Lattin Brandon M",
+          "Leis Jose F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hodgkin Disease",
+          "Humans",
+          "Male",
+          "Melphalan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23697844/"
+      },
+      {
+        "pmid": "15354206",
+        "title": "High-dose thiotepa, melphalan and carboplatin (TMCb) followed by autologous peripheral blood stem cell transplantation in patients with lymphoma -- a retrospective evaluation.",
+        "abstract": "The purpose of this evaluation was to investigate the efficacy of high-dose chemotherapy with thiotepa, melphalan, and carboplatin (TMCb), and of autologous peripheral blood stem cell (PBSC) infusion in patients with aggressive non-Hodgkin's lymphoma (NHL) or Hodgkin's disease (HD). A total of 42 patients, 23 with intermediate-grade NHL and 19 with HD, received thiotepa (500 mg/m2), melphalan (100 mg/m2), and carboplatin (1050-1350 mg/m2) followed by autologous PBSC infusion. Of 21 patients with more advanced disease, four had primary refractory disease, one was in complete remission (CR)-2, 11 were in first refractory relapse, and five were beyond first relapse. Of 21 patients with less advanced disease, two were in CR-1, four were in CR-2, and 15 were in first responding relapse. In all, 14 patients (33%) had received prior radiotherapy prohibiting a total-body irradiation (TBI)-based conditioning regimen. The projected 2-year probabilities of survival, event-free survival (EFS), and",
+        "journal": "Bone marrow transplantation",
+        "year": "2004",
+        "authors": [
+          "Demirer T",
+          "Ayli M",
+          "Fen T",
+          "Ozcan M",
+          "Arat M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Combined Modality Therapy",
+          "Female",
+          "Humans",
+          "Lymphoma",
+          "Lymphoma, Non-Hodgkin",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15354206/"
+      },
+      {
+        "pmid": "25204639",
+        "title": "Phase 2 trial of high-dose rituximab with high-dose cytarabine mobilization therapy and high-dose thiotepa, busulfan, and cyclophosphamide autologous stem cell transplantation in patients with central nervous system involvement by non-Hodgkin lymphoma.",
+        "abstract": "High-dose thiotepa, busulfan, and cyclophosphamide (TBC) with autologous stem cell transplantation (ASCT) has been used in patients with central nervous system (CNS) involvement by non-Hodgkin lymphoma (NHL). Despite limited penetration into the CNS, rituximab is active in primary CNS NHL. Therefore, high-dose rituximab was combined with TBC for ASCT in patients with CNS NHL.",
+        "journal": "Cancer",
+        "year": "2015",
+        "authors": [
+          "Chen Yi-Bin",
+          "Batchelor Tracy",
+          "Li Shuli",
+          "Hochberg Ephraim",
+          "Brezina Mark"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Central Nervous System Neoplasms",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Disease-Free Survival",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25204639/"
+      },
+      {
+        "pmid": "22549444",
+        "title": "High-dose thiotepa, etoposide and carboplatin as conditioning regimen for autologous stem cell transplantation in patients with high-risk Hodgkin's lymphoma.",
+        "abstract": "Autologous stem cell transplantation (ASCT) generally provides good results in Hodgkin's lymphoma (HL). We studied a high-dose chemotherapy regimen based on thiotepa, etoposide and carboplatin (TECA).",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2012",
+        "authors": [
+          "Di Ianni Mauro",
+          "Ballanti Stelvio",
+          "Iodice Giuseppe",
+          "Reale Antonia",
+          "Falzetti Franca"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Carboplatin",
+          "Dacarbazine",
+          "Disease-Free Survival",
+          "Doxorubicin",
+          "Etoposide",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hodgkin Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22549444/"
+      },
+      {
+        "pmid": "21749848",
+        "title": "Autologous stem cell transplantation with thiotepa, busulfan, and cyclophosphamide (TBC) conditioning in patients with CNS involvement by non-Hodgkin lymphoma.",
+        "abstract": "Primary central nervous system non-Hodgkin lymphoma (PCNSL) carries a poor prognosis and, although it responds to chemotherapy, fewer than 20% of patients are long-term disease-free survivors. Secondary CNS non-Hodgkin lymphoma (SCNSL) has an even worse prognosis with a median survival of only months and very few reported long-term survivors. For both of these groups of patients, there has been interest in using high-dose chemotherapy with autologous stem cell transplantation (ASCT) following conditioning with thiotepa, busulfan, and cyclophosphamide (TBC). We performed a retrospective review (from 2006-2010) of 32 patients from the Dana-Farber Cancer Institute and Massachusetts General Hospital with PCNSL or SCNSL who underwent ASCT with TBC conditioning. Of the 32 patients, 56% received TBC/ASCT after achieving brain magnetic resonance imaging (MRI) and/or cerebrospinal fluid complete response in brain, and 44% of patients were treated with TBC/ASCT in the setting of measurable CNS d",
+        "journal": "Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation",
+        "year": "2012",
+        "authors": [
+          "Cote Gregory M",
+          "Hochberg Ephraim P",
+          "Muzikansky Alona",
+          "Hochberg Fred H",
+          "Drappatz Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Disease-Free Survival",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21749848/"
+      },
+      {
+        "pmid": "16194889",
+        "title": "Excessive toxicity of the high dose thiotepa and etoposide regimen when combined with radiation: Long-term autologous transplantation experience in follicular and mantle cell lymphoma.",
+        "abstract": "We recently described a novel thiotepa plus etoposide high-dose therapy (HDT) conditioning regimen for aggressive histology non-Hodgkin's lymphoma (NHL) that had low regimen-related toxicity (RRT) and an efficacy rate comparable to other NHL HDT regimens. In this report, we describe the UW experience with the addition of total body irradiation (TBI) and pre-transplant involved-field radiation (IFRT) to the thiotepa + etoposide HDT regimen. Between 1992 and 1999, 28 patients with indolent or mantle cell lymphoma were treated on this protocol. With a median follow-up of 64 mo, the median event-free survival (EFS) was 24 months, and the median overall survival (OS) had not been reached. The median number of grade 3 - 4 non-hematologic toxicities was five. There were five deaths (18%) in the first three months after HDT due to RRT. In contrast, the thiotepa + etoposide conditioning regimen (without TBI or IFRT) given to 65 intermediate grade NHL patients resulted in only one treatment-rela",
+        "journal": "Leukemia & lymphoma",
+        "year": "2005",
+        "authors": [
+          "Fenske Timothy S",
+          "Kahl Brad S",
+          "Eickhoff Jens",
+          "Mitchell Teri L",
+          "Smith Eileen P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Combined Modality Therapy",
+          "Etoposide",
+          "Female",
+          "Follow-Up Studies",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Follicular",
+          "Lymphoma, Mantle-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16194889/"
+      },
+      {
+        "pmid": "9450921",
+        "title": "High-dose busulfan, melphalan, and thiotepa followed by autologous peripheral blood stem cell transplantation in patients with aggressive lymphoma or relapsed Hodgkin's disease.",
+        "abstract": "The purpose of this study was to evaluate the efficacy of high-dose chemotherapy with busulfan (Bu), melphalan (Mel), and thiotepa (TT), and of autologous peripheral blood stem cell (PBSC) infusion in patients with aggressive non-Hodgkin's lymphoma (NHL) or relapsed Hodgkin's disease (HD). Forty patients, 23 with intermediate (n= 18) or high-grade (n=5) NHL and 17 with HD received Bu (12 mg/kg), Mel (100 mg/kg), TT (450-500 mg/m2) [corrected], and autologous PBSC infusion. Of 27 patients with more advanced disease, 16 had primary refractory disease, 8 were in refractory relapse, and 3 were in third remission. Of 13 patients with less advanced disease, 7 were in untreated or responding first relapse and 3 were in second remission, whereas 3 with high-grade NHL were in first remission. Twenty-nine patients (73%) had received prior radiotherapy (RT) prohibiting a total-body irradiation (TBI)-based conditioning regimen. The projected 2-year probabilities of survival, event-free survival, a",
+        "journal": "Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation",
+        "year": "1997",
+        "authors": [
+          "Schiffman K",
+          "Buckner C D",
+          "Maziarz R",
+          "Maloney D G",
+          "Appelbaum F R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Busulfan",
+          "Combined Modality Therapy",
+          "Disease-Free Survival",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hodgkin Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9450921/"
+      },
+      {
+        "pmid": "14704653",
+        "title": "A novel preparative regimen for autologous transplant in non-Hodgkin's lymphoma: long-term experience with etoposide and thiotepa.",
+        "abstract": "The purpose of this study was to evaluate the efficacy and toxicity of the preparative regimen of thiotepa and etoposide in patients undergoing autologous transplantation for relapsed non-Hodgkin's lymphoma. The study involved 65 consecutive patients who underwent autologous transplantation using the thiotepa/etoposide regimen for relapsed intermediate-grade NHL at the University of Wisconsin Hospital and Clinics (UWHC) between 1987 and 2001. The regimen consisted of thiotepa 300 mg/m(2)/day and etoposide 700 mg/m(2)/day on days -6, -5, and -4. The median age at the time of transplant was 49 years. A total of 50 patients (76%) had diffuse large-cell lymphoma. A total of 50 (77%) patients had chemosensitive disease, and 15 (23%) were chemoresistant. With a median follow-up of 34 months (range, 3-163), 28 patients (43%) remain in CR and 33 (51%) have developed recurrent or progressive disease. The overall survival and event-free survival at 3 years are 40% (95% CI 26-53%) and 32% (95% CI",
+        "journal": "Bone marrow transplantation",
+        "year": "2004",
+        "authors": [
+          "McCoy A G",
+          "Smith E P",
+          "Atkinson M E",
+          "Baranski B",
+          "Kahl B S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Drug Resistance, Neoplasm",
+          "Etoposide",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14704653/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:45:18.629544",
+  "success": true,
+  "error_message": null
+}

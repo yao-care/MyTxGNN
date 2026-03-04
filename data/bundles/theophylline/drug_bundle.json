@@ -1,0 +1,3037 @@
+{
+  "drug": {
+    "name": "Theophylline",
+    "drugbank_id": "DB00277",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "asthma",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00252863",
+            "title": "A Comparison of Symbicort Single Inhaler Therapy (Symbicort Turbuhaler 160/4.5 µg, 1 Inhalation b.i.d. Plus as Needed) and Conventional Best Practice for the Treatment of Persistent Asthma in Adults - a 26-Week, Randomised, Open-Label, Parallel-Group, Multicentre Study",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-12",
+            "completion_date": "2006-05",
+            "country": "Germany",
+            "enrollment": 1600,
+            "brief_summary": "The purpose of this study is to determine whether Symbicort dosed according to the Symbicort Maintenance and Reliever Therapy (SMART) concept is superior to standard asthma treatment according to the local German treatment guidelines.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with asthma, either well-controlled on a regular therapy with a combination of long-acting beta-agonists and inhaled corticosteroids or symptomatic on therapy with inhaled corticosteroids alone.\n\nExclusion Criteria:\n\n* Any other significant lung disease other than ast",
+            "endpoints": [
+              "Time to first severe asthma exacerbation"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT00252863"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02733016",
+            "title": "Seinäjoki Adult Asthma Study: A 12-year Real-life Follow-up Study of New-onset Asthma Diagnosed at Adult Age and Treated in Primary and Specialized Care. Finnish Title: Diagnoosista Hoitotasapainoon: Voidaanko Aikuisen Astman Hoitotasapainoa Ennustaa Diagnoosivaiheen löydösten ja Astman Ilmiasun Perusteella?",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "1999-10",
+            "completion_date": "",
+            "country": "Finland",
+            "enrollment": 259,
+            "brief_summary": "Seinäjoki Adult Asthma Study is a single-centre 12-year follow-up study of a total cohort of 259 patients having new-onset asthma that was diagnosed at adult age. The study was divided in two parts: the collection of the original cohort (phase I;n=259) and follow-up visit (phase II; n=203). The aim of this study is to increase the understanding on the diagnostics and diagnostic process, organisation of the long-term asthma care, therapeutic outcomes, prognosis and the factors affecting the progn",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of new-onset asthma made by a respiratory specialist\n* Diagnosis confirmed by at least one of the following objective lung function measurements\n\n  * FEV1 (forced expiratory volume in one second) reversibility in spirometry of at least 15% and 200 ml\n  * Diurnal va",
+            "endpoints": [
+              "Asthma control at follow-up visit"
+            ],
+            "sponsor": "Seinajoki Central Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02733016"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00000578",
+            "title": "NHLBI/NICHD Collaborative Studies of Asthma in Pregnancy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "1994-04",
+            "completion_date": "2000-10",
+            "country": "N/A",
+            "enrollment": "N/A",
+            "brief_summary": "To conduct a collaborative program of research on asthma and pregnancy consisting of two studies: the Asthma in Pregnancy Study (APS) was an observational study to evaluate relationships between asthma severity and treatment programs and perinatal outcome, and the Asthma Therapy in Pregnancy Trial (ATPT) was a randomized clinical trial of inhaled beclomethasone versus theophylline in the treatment of moderate asthma during pregnancy. Both studies were conducted in the Maternal-Fetal Medicine Uni",
+            "eligibility_criteria": "Asthmatic pregnant women.",
+            "endpoints": [],
+            "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+            "url": "https://clinicaltrials.gov/study/NCT00000578"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01875003",
+            "title": "A Study of Lebrikizumab in Adolescent Participants With Uncontrolled Asthma Who Are on Inhaled Corticosteroids and a Second Controller Medication",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-08-31",
+            "completion_date": "2016-12-28",
+            "country": "Brazil, Spain, Mexico, Peru, Canada, Taiwan, Hungary, Slovakia, Germany, Portugal, Israel, South Korea, South Africa, Ukraine, Poland, Colombia, Argentina, Japan, United States, France, Czechia, Italy, United Kingdom",
+            "enrollment": 348,
+            "brief_summary": "This randomized, multicenter, double-blind, placebo-controlled, parallel-group study will evaluate the efficacy, safety, and tolerability of lebrikizumab in adolescent participants with asthma whose disease remains uncontrolled despite daily treatment with inhaled corticosteroids (ICS) therapy and at least one second controller medication. Participants will be randomized in a 1:1:1 ratio to receive double-blind treatment with either lebrikizumab ('High' or 'Low') or placebo, administered as subc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Asthma diagnosis for greater than or equal to (\\>/=) 12 months prior to Visit 1\n* Bronchodilator response during screening\n* Pre-bronchodilator FEV1 of 40 percent (%) - 90% predicted at both Visits 2 and 3\n* On high dose ICS therapy for \\>/= 6 months prior to Visit 1\n* On an e",
+            "endpoints": [
+              "Rate of Asthma Exacerbations During the 52-Week Placebo-Controlled Period",
+              "Percentage of Participants With Adverse Events (AEs) or Serious AEs",
+              "Percentage of Participants With Anti-Therapeutic Antibodies to Lebrikizumab"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT01875003"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02537691",
+            "title": "A Prospective, Single Arm, Longitudinal Cohort Study To Assess Biomarkers In Real World Patients With Severe Asthma",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2015-08-28",
+            "completion_date": "2017-07-10",
+            "country": "Bulgaria, France, Spain, Russia, Italy, Hungary, Denmark, Germany, Latvia, Netherlands, Portugal, United Kingdom, Canada, Belgium, United States",
+            "enrollment": 483,
+            "brief_summary": "Prospective, single-arm, longitudinal, international, multicenter study in a real-world cohort of adult severe asthma participants being conducted to assess the relationships between asthma biomarkers and asthma-related health-outcomes for a period of 52 weeks.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Asthma diagnosed by a respiratory physician greater than or equal to (\\>/=) 12 months prior to study enrolment\n* Pre-bronchodilator FEV1 of 30 percent (%) to 85% at baseline/Visit 1\n* Documented bronchodilator response defined as \\>/=12% relative improvement in FEV1 after bron",
+            "endpoints": [
+              "Mean Number of Asthma Exacerbations in Participants With High Baseline Periostin Compared to participants With Low Baseline Periostin"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT02537691"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01729351",
+            "title": "Comparative Effectiveness of Extrafine Hydrofluoroalkane Beclometasone Versus Fluticasone and Chlorofluorocarbon Beclometasone in Smoking Asthma - a Retrospective, Real-life Observational Study in a UK Primary Care Asthma Population",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-11",
+            "completion_date": "2012-06",
+            "country": "N/A",
+            "enrollment": 7195,
+            "brief_summary": "To evaluate the comparative effectiveness of extrafine hydrofluoroalkane beclometasone (EF HFA-BDP) and other inhaled corticosteroid (ICS) therapy commonly used in the UK, specifically fluticasone (FP) and non-extrafine (NEF) BDP (CFC-BDP and NEF HFA-BDP) in a UK primary care asthma population of current smokers.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 16-70 years\n* Current smokers - explicitly coded in patient records or captured in patient questionnaires\n* Evidence of asthma diagnosis and current therapy: ≥2 prescriptions for asthma at different points in time during the baseline year ± a diagnostic code for asthma\n* ",
+            "endpoints": [
+              "Asthma Control proxy incorporating SABA use",
+              "Asthma Exacerbations (ATS Definition)"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01729351"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01242098",
+            "title": "Retrospective, Real-life Observational, Matched Cohort Evaluation of the Effectiveness of BDP/FOR (Fostair® 100/6) and FP/SAL (Seretide® 125) in Patients Switching From Seretide to Fostair in UK Primary Care Asthma Management",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2008-01",
+            "completion_date": "2011-12",
+            "country": "United Kingdom",
+            "enrollment": 137,
+            "brief_summary": "The purpose of this study is to evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged:\n\n  * 18-60 years:\n  * 61-80 years who are never-smokers\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, or\n  * ≥2 prescriptions for asthma at different points in time during the prior year\n* Baseline FP/SAL therapy:\n\n  * ≥2 prescription for ICS/LABA therapy as F",
+            "endpoints": [
+              "Exacerbation rate"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01242098"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06472310",
+            "title": "An Observational Multicenter Cross-sectional Study of Patients With Uncontrolled Severe Asthma in the Population of the Russian Federation",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2024-06-06",
+            "completion_date": "2027-06-30",
+            "country": "Russia",
+            "enrollment": 5000,
+            "brief_summary": "This study is an observational multicenter cross-sectional study. Planned study population consists of 5 000 adult patients with uncontrolled SA receiving treatment according to standard of care (except biologics). Planned number of study site is 50 outpatient centers with experience of uncontrolled SA treatment in about 50 regions of Russia (in order to describe characteristics of patients with uncontrolled SA in different regions in the most comprehensive way). This non-interventional study do",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of inclusion;\n2. Signed and dated written informed consent in accordance with ICH GCP and local law prior to inclusion in the study;\n3. Patients with diagnosis of uncontrolled SA (Asthma Control Questionnaire-5 (ACQ-5) score \\> 1,5) established no l",
+            "endpoints": [
+              "To characterise the profile of routine therapy used for patients with uncontrolled SA not receiving biological therapy in proportion of patients receiving different classes of drugs will be calculated",
+              "To determine the pattern and trends of OCS prescription",
+              "To describe clinical and demographic characteristics of patients with uncontrolled SA not receiving biological therapy in Russian Federation mean age at the inclusion into the study will be collected"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT06472310"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03387722",
+            "title": "Assessment of Treatment Patterns of Severe Asthmatic Patients Across the Gulf Region - SevEos Study SevEos is a Cross-sectional, Multi-center, Non-interventional Study Aimed to Describe the Treatment Patterns in 250 Severe Asthma Patients Across the Gulf Region.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2017-12-31",
+            "completion_date": "2019-01-03",
+            "country": "United Arab Emirates, Oman",
+            "enrollment": 253,
+            "brief_summary": "SevEos is a cross-sectional, multi-center, non-interventional study aimed to describe the treatment patterns in 250 severe asthma patients across the Gulf region. In addition, the study will determine the current level of asthma control and quality of life in these patients; describe the exacerbation patterns; and determine the current levels of blood eosinophils for the enrolled patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nTo be included in this study, patients (both male and female) must fulfill all of the following criteria:\n\n1. Age above 12 years.\n2. Body weight of ≥40 kg.\n3. Diagnosed by a physician with severe asthma, who requires regular treatment with medium or high dosage Inhaled Corticost",
+            "endpoints": [
+              "Asthma treatment and its patterns through generic names.",
+              "Asthma treatment and its patterns through dosage"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT03387722"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02346292",
+            "title": "Observational Multicenter Non-interventional Study on COPD Patients Treatment Strategies at the Time of Hospital Discharge and Within 12 Months of Follow-up on an Outpatient Primary Care Basement",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-03-31",
+            "completion_date": "2016-12-30",
+            "country": "Russia",
+            "enrollment": 1250,
+            "brief_summary": "The study is an observational multicenter descriptive study. It is planned to enroll approximately 1250 subjects with severe and very severe COPD hospitalized for the reason of COPD exacerbation into departments of pulmonology or therapy. The study will be conducted in approximately 20-25 institutions of treatment and prevention in Russian Federation and will include about 50 to 60 subject at each clinical site.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent . Men and women at least 40 years old, with smoking history more than 10 pack-years.\n* Hospitalization for the reason of COPD exacerbation (exacerbation defined as acute condition, different from typical fluctuations of general condition and requiring c",
+            "endpoints": [
+              "Percentage of subjects with severe and very severe COPD who received prescription of therapy, including different schemes of inhaled glucocorticoids use, according to main principles of COPD therapy (GOLD 2014 recommendations)"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT02346292"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02048930",
+            "title": "Effectiveness and Cost-effectiveness Evaluation of Easyhaler Versus Other Devices in a Real World Primary Care Population",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2012-09",
+            "completion_date": "2013-03",
+            "country": "N/A",
+            "enrollment": 24003,
+            "brief_summary": "The aim of this study is to compare the clinical effectiveness and cost-effectiveness of the Easyhaler® (EH) device and other DPI devices commonly used in the UK in a UK primary care asthma population of patients aged 6 to 80 years.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must also meet the following inclusion criteria:\n* (1) Aged: 6-80 years - stratified 6-11 years; 12-60 years; ≥61 years to allow paediatrics and adolescent / adult sub analyses; and to allow for the exclusion of elderly (aged 61+) smokers and ex-smokers if required.\n*",
+            "endpoints": [
+              "asthma control (excluding SABA usage)",
+              "exacerbations (ATS definition)",
+              "exacerbations (Clinical definition)"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT02048930"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01908075",
+            "title": "REACH Fostair vs Seretide - Real-world Effectiveness of Combination Therapies in Primary Care Asthma Management",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-01",
+            "completion_date": "2013-03",
+            "country": "N/A",
+            "enrollment": 194723,
+            "brief_summary": "To evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 18-80 years 61-80 years to be non-smokers only\n* Evidence of asthma: a diagnostic code for asthma or two scripts for asthma..\n* Baseline FP/SAL therapy: ≥2 prescription for ICS/LABA therapy as FP/SAL\n* Evidence of Continuing Therapy: Include only patients who receive ≥2 ",
+            "endpoints": [
+              "Exacerbations : rate ratio"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01908075"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04946318",
+            "title": "A 24-week, Multicenter, Randomized, Double-blind, Parallel-arm, Placebo-controlled Extension Study to Assess the Safety of CSJ117, When Added to Existing Standard of Care Asthma Therapy in Patients ≥18 Years of Age",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2021-09-08",
+            "completion_date": "2022-09-08",
+            "country": "Bulgaria, Philippines, Czechia, Russia, Hungary, Slovakia, Germany, Latvia, Poland, Canada, Argentina, Japan, Belgium, United States",
+            "enrollment": 136,
+            "brief_summary": "The purpose of this study is to provide safety and tolerability, pharmacokinetics and immunogenicity data for multiple CSJ117 doses inhaled once daily compared with placebo, in adult asthma participants treated with medium or high dose ICS plus LABA alone or with additional asthma controllers (additional controllers allowed: LTRA, LAMA, Theophylline and its derivatives), who have completed the prior phase llb study CCSJ117A12201C (NCT04410523).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All participants must have been treated with a fixed dose combination of fluticasone propionate/salmeterol in one of two doses in stable dose alone or with additional controllers at label approved dosage (allowed only: LTRA, LAMA, Theophylline or its derivatives).\n* Participan",
+            "endpoints": [
+              "Number of treatment emergent adverse events (AEs) and serious adverse events (SAEs)",
+              "Number of treatment emergent participant deaths and participant hospitalizations"
+            ],
+            "sponsor": "Novartis",
+            "url": "https://clinicaltrials.gov/study/NCT04946318"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01696214",
+            "title": "SAPS:Smoking Asthmatics Pilot Study:",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-10",
+            "completion_date": "2016-11",
+            "country": "United States",
+            "enrollment": 20,
+            "brief_summary": "The primary aim of the pilot (SAPS) protocol is to determine the feasibility and utility of implementing the provisional design of the full scale TOM trial (e.g., the six month treatment period, the impact of the smoking cessation intervention).\n\nThere is no active hypothesis for the Vanguard Protocol.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Gender and Age:\n* Males and females, ages 18- 50\n\nCurrent Smoker:\n\n* Smoke at least 5 cigarettes per day for at least 5 years\n* Positive urine cotinine test\n\nAsthma:\n\n* Physician diagnosed asthma\n* Symptomatic, as evidenced by\n\n  * Use of SABA two or more times per week for re",
+            "endpoints": [
+              "Asthma Control Test"
+            ],
+            "sponsor": "University of California, San Diego",
+            "url": "https://clinicaltrials.gov/study/NCT01696214"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04789499",
+            "title": "Smell in Covid-19 and Efficacy of Nasal Theophylline",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-03-15",
+            "completion_date": "2021-12-30",
+            "country": "United States",
+            "enrollment": 51,
+            "brief_summary": "Evidence of COVID-19 related anosmia and dysgeusia continues to accumulate daily.\n\nCurrently, up to 80% of patients report subjective olfactory dysfunction (OD), and prevalence using objective olfactory testing could be even higher.\n\nWe propose a phase II single-site, double-blinded, placebo-controlled randomized clinical trial to determine the efficacy and safety of intranasal theophylline, a known phosphodiesterase inhibitor in the treatment of asthma, as a possible treatment for COVID-19 rela",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Olfactory dysfunction that has persisted for \\>3 months following suspected COVID-19 infection\n* Residing within the states of Missouri or Illinois.\n* Can read, write, and understand English.\n\nExclusion Criteria:\n\n* History of olfactory dysfunction prior to COVID-19 infection\n",
+            "endpoints": [
+              "UPSIT"
+            ],
+            "sponsor": "Washington University School of Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT04789499"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02918019",
+            "title": "A Phase IIb, Randomized, Double-Blind, Placebo-Controlled, Multicenter, Dose-Ranging Study to Assess the Efficacy and Safety of MSTT1041A in Patients With Uncontrolled Severe Asthma",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-09-20",
+            "completion_date": "2019-07-26",
+            "country": "Bulgaria, South Korea, Czechia, South Africa, Russia, Ukraine, Germany, New Zealand, Peru, Poland, Canada, Romania, Argentina, Belgium, United States",
+            "enrollment": 517,
+            "brief_summary": "This is a Phase IIb, randomized, placebo-controlled, double-blind, multicenter, multi-arm study which will evaluate efficacy, safety, and pharmacokinetic of MSTT1041A compared with placebo as add-on therapy in participants with severe, uncontrolled asthma who are receiving medium- or high-dose inhaled corticosteroid (ICS) therapy and at least one of the following additional controller medications: long-acting beta-agonists (LABA), leukotriene modifier (LTM), long-acting muscarinic antagonist (LA",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI) of 18 to 38 kilogram/square meter (kg/m\\^2) and weight \\>= 40 kg at screening\n* Documented physician-diagnosed asthma\n* On high dose inhaled corticosteroid (ICS) therapy plus at least one additional allowed controller medication\n* Forced expiratory volume",
+            "endpoints": [
+              "Reduction in Rate of Asthma Exacerbations"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT02918019"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04092582",
+            "title": "A Phase IIa, Multicenter, Randomized, Placebo-Controlled, Double-Blind Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MTPS9579A in Patients With Asthma Requiring Inhaled Corticosteroids and a Second Controller",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2019-10-31",
+            "completion_date": "2022-05-19",
+            "country": "Germany, Peru, Poland, Argentina, United States",
+            "enrollment": 135,
+            "brief_summary": "This is a Phase IIa, randomized, placebo-controlled, double-blind, multicenter, two-arm study to evaluate the efficacy, safety, and pharmacokinetics of MTPS9579A as an add-on therapy in patients with uncontrolled moderate to severe asthma who are receiving daily ICS therapy and at least one of the following additional controller medications: long-acting beta-agonist (LABA), leukotriene modulator (leukotriene modifier \\[LTM\\] or leukotriene receptor antagonist \\[LTRA\\]), long-acting muscarinic an",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Documented physician-diagnosed asthma for at least 12 months prior to screening\n* Treatment with asthma controller therapy (daily ICS \\[fluticasone propionate or equivalent\\] and at least one additional controller therapy \\[LABA, LAMA, LTM/LTRA\\]) for \\>= 3 months prior to scr",
+            "endpoints": [
+              "Time to First Composite Asthma Exacerbations (CompEX) Event"
+            ],
+            "sponsor": "Genentech, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT04092582"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02023554",
+            "title": "A Pharmacokinetic Drug Interaction Study to Evaluate the Effect of Azithromycin on the Steady-State Plasma Levels of Theophylline in a Chinese Population",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2013-12",
+            "completion_date": "2014-07",
+            "country": "China",
+            "enrollment": 40,
+            "brief_summary": "Macrolides are potent inhibitors of cytochrome P450 isoenzyme 3A4（CYP3A4）and thus interfere with the pharmacokinetics of many other drugs that are metabolised by this enzyme like theophylline.The aim of this study is to determine whether azithromycin can effect theophylline metabolism in patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients with COPD or asthma，aged 18-75 years;\n* regularly visiting our hospital;\n* meeting the indications for azithromycin and theophylline simultaneously;\n\nExclusion Criteria:\n\n* patients with renal or hepatic dysfunction;\n* patients with congestive heart failure;\n* patient",
+            "endpoints": [
+              "steady-state plasma concentration of theophylline"
+            ],
+            "sponsor": "Zhujiang Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02023554"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04309877",
+            "title": "Pilot Randomized Controlled Trial of Theophylline for Attenuation of Lipopolysaccharide-Induced Depressive Symptoms",
+            "phase": "EARLY_PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2023-03",
+            "completion_date": "2025-06",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Depression is very common and poses a huge disease burden. About 20% of the US population suffers from depression at least once in their lifetime. Inflammations that are hidden inside our body as a result of aging, obesity, chronic diseases, or certain treatments (e.g., interferon for hepatitis C) appear to cause depressive symptoms and even clinical depression. Individuals with such inflammations are more likely to suffer from depression and are less likely to respond to currently available ant",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* in good general health (as evaluated during the phone and in-person screening sessions)\n* aged 18-65 years\n* if female, using adequate birth control\n\nExclusion Criteria:\n\n* history of hypersensitivity to xanthine derivatives (a contraindication to theophylline treatment)\n* pre",
+            "endpoints": [
+              "Change in depressed mood from baseline"
+            ],
+            "sponsor": "University of California, Los Angeles",
+            "url": "https://clinicaltrials.gov/study/NCT04309877"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01735240",
+            "title": "An Open-label, Fixed-sequence, Single-centre Phase I Study to Assess the Effect of Ketoconazole on the Pharmacokinetics of AZD5069 After Oral Administration of a Single Dose AZD5069 to Healthy Male Volunteers",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2013-02",
+            "country": "United Kingdom",
+            "enrollment": 15,
+            "brief_summary": "The main purpose of the study is to compare the change of the AZD5069 Pharmacokinetic profile when administered with ketoconazole. Subjects will be treated first with AZD5069 only followed by a washout period before starting with the combined treatment (both ketoconazole and AZD5069).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male volunteers aged 18 to 50 years (inclusive).\n* Veins suitable for cannulation or repeated venipuncture.\n* Healthy volunteers with neutrophil counts within the laboratory normal reference range at Screening\n* Body mass index (BMI) ≥18.0 and ≤30.0 kg/m2 calculated fr",
+            "endpoints": [
+              "Pharmacokinetics of AZD5069 (15 mg) and a metabolite (AZ13587715) measured by AUC, AUC(0-t), Cmax, λz, t½λz, tmax, CL/F (AZD5069 only), Vz/F (alone and in combination with Ketoconazole)",
+              "Pharmacokinetics of Ketoconazole measured by AUC(0-t) and Cmax (in combination with AZD5069)"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT01735240"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07363642",
+            "title": "TAPER: A Prospective, Interventional, Multicentre, Single-Arm, Phase 3b Study to Evaluate the Step-Down of Maintenance Therapy in Patients With Severe Asthma Treated With Tezepelumab",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2026-01-28",
+            "completion_date": "2029-03-31",
+            "country": "China",
+            "enrollment": 400,
+            "brief_summary": "This study aims to explore the potential for Tezepelumab-treated severe asthmatic patients to effectively and safely reduce their background maintenance medication while maintaining asthma symptom control.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1．Provision of informed consent prior to any study-specific procedures. Written informed consent, and assent when applicable for study participation must be obtained prior to any study related procedures being performed (local regulations are to be followed in determining the as",
+            "endpoints": [
+              "To assess the potential for Tezepelumab treated patients to reduce their standard of care asthma controller regimen in the overall patient population while maintaining asthma control",
+              "To assess the potential for Tezepelumab treated patients to reduce their standard of care asthma controller regimen in the overall patient population while maintaining asthma control"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT07363642"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00252785",
+            "title": "An 8-week, Randomised, Double Blind, Parallel-group, Multi-centre, Phase III Study Comparing the Efficacy and Safety of Symbicort® Turbuhaler® 160/4.5 µg Twice Daily and Pulmicort® Turbuhaler® 200 µg Twice Daily + Theolong® Tablet 200 mg Twice Daily in Japanese Patients With Asthma",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-10",
+            "completion_date": "2006-11",
+            "country": "Japan",
+            "enrollment": 340,
+            "brief_summary": "The primary objective of this study is to confirm the efficacy (superiority) of Symbicort® Turbuhaler® 160/4.5 µg twice daily for 8 weeks in comparison to Pulmicort® Turbuhaler® 200 µg twice daily + Theolong® tablet 200 mg twice daily.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma with a documented history of at least 6 months duration prior to Visit 1\n* Prescribed daily use of an IGCS for \\>=12 weeks prior to Visit 1. The dose of IGCS must be 400 to 800 µg/day of Pulmicort® Turbuhaler® or corresponding dose of IGCS. The prescribed d",
+            "endpoints": [
+              "Morning peak expiratory flow (mPEF)"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT00252785"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03296579",
+            "title": "A Prospective Open Randomized Clinical Trial of Non-invasive Ventilation Versus Standard Therapy for Children Hospitalized With an Acute Exacerbation of Asthma.",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2018-06",
+            "completion_date": "2018-12",
+            "country": "N/A",
+            "enrollment": 100,
+            "brief_summary": "Acute asthma produces greatly increased work of breathing and increased oxygen requirement secondary to bronchial narrowing and airway obstruction by inflammatory secretions. There is growing evidence that non-invasive ventilation can reverse these processes more efficiently than conventional asthma therapy. Surprisingly, there have not yet been any large scale prospective controlled studies to investigate this hypothesis, (either in adults or children). Consequently, the aim of this study is to",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 2-18 years old\n* Clinical diagnosis of acute asthma exacerbation (respiratory rate greater than WHO's age-dependent criteria, a history of similar previous episodes and wheezing heard on auscultation by an experienced physician)\n* PRAM score of 8 or more after 2 hours post-ste",
+            "endpoints": [
+              "Time to reach a PRAM score of ≤3"
+            ],
+            "sponsor": "University of British Columbia",
+            "url": "https://clinicaltrials.gov/study/NCT03296579"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00119496",
+            "title": "A Clinical Study to Investigate the Effect of Rosiglitazone, Theophylline and Inhaled Corticosteroid, Inflammation and Pulmonary Function in Asthmatic Smokers",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-07",
+            "completion_date": "2007-06",
+            "country": "United Kingdom",
+            "enrollment": 79,
+            "brief_summary": "Asthmatic smokers display a blunted response to both inhaled and oral corticosteroid treatments and are at increased risk for exacerbations and near fatal asthma. The prevalence of smoking in asthmatics runs between 20-30%. Therefore, new, more efficacious treatments are required.\n\nRecent work has demonstrated a mechanism which may explain steroid resistance. A commonly used drug called theophylline can reverse this steroid resistance in laboratory studies. Another commonly used drug, rosiglitaz",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between 18 and 60 years of age (inclusive).\n* Clinical diagnosis of mild or moderate persistent asthma in accordance with the Global Initiative for Asthma (GINA) criteria\n* Have had a history of asthma for a minimum of 6 months prior to entry into the study\n* ",
+            "endpoints": [
+              "Comparison of pre-bronchodilator (FEV1) at 28 days between rosiglitazone and LD ICS treatment groups."
+            ],
+            "sponsor": "University of Glasgow",
+            "url": "https://clinicaltrials.gov/study/NCT00119496"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01684683",
+            "title": "Clinical Efficacy and Safety of Theophylline in the Treatment of Non-Cystic Fibrosis(NCF) Bronchiectasis",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-11",
+            "completion_date": "2014-09",
+            "country": "China",
+            "enrollment": 100,
+            "brief_summary": "Theophylline was well recommended in the treatment of chronic obstructive pulmonary disease (COPD) and asthma. However, there is no supporting evidence for their efficacy in the treatment of bronchiectasis. Our hypothesis is that theophylline will play a role in bronchiectasis. Our purpose is to examine the efficacy and safety of 24 weeks treatment with theophylline in subjects with non-cystic fibrosis bronchiectasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between 18-70 years old with non-CF bronchiectasis ,free from acute exacerbations for at least 3 months.Stable phase of the disease.\n\nExclusion Criteria:\n\n* Patients with a cigarette smoking history of more than 10 packs-year. Patients with COPD. Patients with tractio",
+            "endpoints": [
+              "Scores of the St.George's Respiratory Questionnaire"
+            ],
+            "sponsor": "The First Affiliated Hospital of Guangzhou Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT01684683"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03453021",
+            "title": "Effet du Mepolizumab Sur la décroissance de la corticothérapie systémique Chez Des Patients Avec un Asthme éosinophilique sévère Etude Observationnelle, Suivi de Cohorte Via Une ATU Nominative",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2016-01-25",
+            "completion_date": "2017-10-31",
+            "country": "France",
+            "enrollment": 27,
+            "brief_summary": "The primary objective of the study is to measure the effect of mepolizumab on declines in oral corticosteroid therapy (prednisolone or prednisone) in patients with severe eosinophilic asthma.\n\nAsthma is a chronic inflammatory disease of the airways that affects 5 to 10% of adults and children. Despite current treatments that are often effective, 10% of patients are not controlled by inhaled therapies. These severe asthma require regular use of systemic corticosteroids in 30 to 40% of cases. In t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Severe eosinophilic asthma\n* Patient on inhaled therapy with inhaled corticosteroid and long-acting bronchodilator for at least 6 months\n* Patient under oral corticosteroid therapy (prednisolone or prednisone) for at least 6 months and unmodified in the last 4 weeks before the",
+            "endpoints": [
+              "Effect of mepolizumab on declines in oral corticosteroid therapy (prednisolone or prednisone) in patients with severe eosinophilic asthma."
+            ],
+            "sponsor": "University Hospital, Grenoble",
+            "url": "https://clinicaltrials.gov/study/NCT03453021"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06134037",
+            "title": "Effects of Aminophylline Bolus on Eleveld and Schnider TCI (Target Controlled Infusion) Concentrations at Start and End of Burst Suppression Occurence and on BIS (Bispectral Index) During the Induction Phase of Total Intravenous Anaesthesia With TCI",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2023-11-12",
+            "completion_date": "2024-03-15",
+            "country": "Italy",
+            "enrollment": 32,
+            "brief_summary": "Aminophylline is an intravenous drug commonly utilized for asthma. However, some preclinical studies and few case reports and case series have described its effects in lightining the anesthestic plan during Propofol anaesthesia with an intravenous bolus of 4 mg/kg.\n\nAuthors aimed to compare its effect during accidental episodes of Burst Suppression during the induction phase of total Intravenous Anaesthesia with Target Controlled Infusion (TIVA-TCI) routinely utilized for general anaesthesia in ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Undergo general anaesthesia with Targeted Controlled Infusion of Propofol (Eleveld model) and Remifentanil (Minto model)\n* Burst Suppression accidental occurence during the induction phase of anesthesia.\n\nExclusion Criteria:\n\n* Neurological disease\n* Psychiatric disease\n* Obes",
+            "endpoints": [
+              "Correlation between Concentration at the effector site of Propofol after Aminophylline bolus during Burst Suppression occurence"
+            ],
+            "sponsor": "University of Padova",
+            "url": "https://clinicaltrials.gov/study/NCT06134037"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01623544",
+            "title": "A U.S. Retrospective Database Analysis Evaluating the Comparative Effectiveness of Budesonide/Formoterol Combination (BFC) and Fluticasone Propionate/Salmeterol Combination (FSC) Among Asthma Patients",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2012-06",
+            "completion_date": "2012-09",
+            "country": "N/A",
+            "enrollment": 6086,
+            "brief_summary": "The objective of this study is to compare the real-world effectiveness of BFC and FSC in asthma patients new to ICS/LABA combination therapy in a population of U.S. health plan enrollees.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Continuous health plan enrollment for 12 months before and after index Rx\n* At least two prescription fills for BFC or FSC within 12 months\n* Asthma claims diagnosis, and 12 to 64 years of age at the time of first prescription\n\nExclusion Criteria:\n\n* Evidence of COPD\n* Claims ",
+            "endpoints": [
+              "Rate of asthma exacerbations",
+              "Asthma Related Inpatient Hospitalizations",
+              "Asthma Related Emergency Department visits"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT01623544"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01141439",
+            "title": "A Retrospective Evaluation of the Effectiveness and Cost-effectiveness of HFA-BDP MDI (Qvar®) Compared With CFC-BDP MDI and FP MDI Used in the Management of Asthma in a Representative UK UK Primary Care Population",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2001-01",
+            "completion_date": "2010-07",
+            "country": "United Kingdom",
+            "enrollment": 815377,
+            "brief_summary": "The objective of the study was to compare the effectiveness, cost-effectiveness and direct healthcare costs of managing asthma in patients with evidence of persistent asthma, following the initiation and increased dose of inhaled corticosteroid (ICS) therapy using HFA-BDP (Qvar®) (either as initial therapy or as a step-up therapy) compared with the most commonly prescribed alternative ICS in the UK, CFC-beclometasone (BDP) and fluticasone (FP) as metered dose inhalers (MDIs). Qvar vs FP analyses",
+            "eligibility_criteria": "Inclusion Criteria:\n\nIncluded patients must:\n\n* aged 5-60 years\n* evidence of asthma: a diagnostic code of asthma or ≥2 prescriptions for asthma in baseline year at different points in time including one of ICS\n* on current therapy at the IPD, defined as ≥1 ICS script and ≥1 other asthma prescriptio",
+            "endpoints": [
+              "Proxy asthma control"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01141439"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06521229",
+            "title": "An Ambispective Observational Multicenter Registry of Patients With Uncontrolled Asthma in the Population of the Russian Federation",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2024-06-27",
+            "completion_date": "2027-03-30",
+            "country": "Russia",
+            "enrollment": 9000,
+            "brief_summary": "This study is a multi-centre, non-interventional, observational, ambispective registry. Planned study population consists of 9 000 adult patients with uncontrolled asthma receiving treatment according to standard of care (except biologics). Planned number of study site is 70 outpatient centers with experience of uncontrolled asthma treatment in about 50 regions of Russia (in order to describe characteristics of patients with uncontrolled asthma in different regions in the most comprehensive way)",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of inclusion;\n2. Signed and dated written informed consent in accordance with ICH GCP and local law prior to inclusion in the study;\n3. Patients with diagnosis of uncontrolled mild and moderate asthma (according to Global Initiative for Asthma (GINA",
+            "endpoints": [
+              "To describe the baseline demographic characteristics of outpatients with uncontrolled asthma in the Russian Federation in all patients and in the cohort of patients receiving fixed-dose combination (FDC) budesonide/salbutamol on Visit 2",
+              "To describe the baseline clinical characteristics of outpatients with uncontrolled asthma in the Russian Federation in all patients and in the cohort of patients receiving FDC budesonide/salbutamol on Visit 2",
+              "To characterise the profile of routine therapy used for outpatients with uncontrolled asthma in the Russian Federation in all patients and in the cohort of patients receiving FDC budesonide/salbutamol on Visit 2"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT06521229"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01238861",
+            "title": "A Phase 2b, Dose-ranging Study to Evaluate the Efficacy and Safety of MEDI-563 in Adults With Uncontrolled Asthma",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-12",
+            "completion_date": "2013-08",
+            "country": "Bulgaria, Brazil, Mexico, Russia, Peru, Poland, Canada, Colombia, Argentina, United States",
+            "enrollment": 964,
+            "brief_summary": "The primary objective of the study is to evaluate the effect of multiple-dose subcutaneous administrations of MEDI-563 on adults with uncontrolled asthma.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 through 75 years at the time of screening\n* Adequate contraception from screening through end of trial\n* Weight of more than (\\>) 45 kilogram (kg) but less than or equal to (\\<=) 150 kg (\\>100 pound \\[lb\\] but \\<=330 lb)\n* History of physician-diagnosed asthma for at le",
+            "endpoints": [
+              "Annual Asthma Exacerbation Rate (AER) for Eosinophilic Phenotype (EOS+) Participants"
+            ],
+            "sponsor": "MedImmune LLC",
+            "url": "https://clinicaltrials.gov/study/NCT01238861"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01141465",
+            "title": "A Retrospective Evaluation of the Effectiveness of Fixed-dose Combination Inhaled Corticosteroid /. Long-acting Beta Agonist (ICS/LABA) Therapy in the Management of Asthma in a Representative UK Primary Care Population",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2001-01",
+            "completion_date": "2010-02",
+            "country": "United Kingdom",
+            "enrollment": 815377,
+            "brief_summary": "This study will evaluate and compare the effectiveness of asthma management in patients with evidence of persistent asthma following a switch in asthma therapy to combination inhaled glucocorticosteroid (ICS) / long-acting bronchodilator (LABA) therapy as either: fixed-combination fluticasone propionate / salmeterol (FP/SAL; Seretide®) via pressurised metered-dose inhaler (pMDI) or dry-powder inhaler (DPI) plus as-needed (prn) reliever therapy (salbutamol as DPI, BAI or pMDI), or fixed-combinati",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years: Paediatric cohort (aged 4-11 years); Adult cohort (aged 12-69 years); Elderly cohort (aged 70-80 years.\n* Evidence of asthma: i.e. a diagnostic code of asthma or ≥2 prescriptions for asthma at different points in time during the prior year, including one ICS ",
+            "endpoints": [
+              "Composite proxy for asthma control",
+              "Exacerbations (total and rate ratio)",
+              "GOAL Total Control (proxy measure to replicate total control as measured in the GOAL RCT in a real world patient population"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01141465"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02270827",
+            "title": "A Pilot Study Into Health Pre and Post Treatment With Intravenous Aminophylline and Hydrocortisone in Severe Asthmatics",
+            "phase": "N/A",
+            "status": "TERMINATED",
+            "start_date": "2014-06",
+            "completion_date": "2015-02",
+            "country": "United Kingdom",
+            "enrollment": 5,
+            "brief_summary": "This study focuses on severe asthmatics and their asthma symptoms. 40% of asthma patients continue to experience symptoms and up to 5% of these have difficult-to-control asthma despite continually improving treatments. Severe asthmatics experience clinically-significant worse health-related quality of life than those than those with less severe asthma. Poorer health-related quality of life can be as a consequence of frequent, severe symptoms, which prevent the patient from continuing a normal, a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-65 years\n2. Diagnosis of severe asthma\n3. Confirmed therapy adherence via serum Prednisolone and cortisol levels\n\nExclusion Criteria:\n\n1. Mild and moderate asthma\n2. Community acquired pneumonia\n3. Acute porphyria\n4. Pregnant and breast feeding women\n5. Patients hypers",
+            "endpoints": [
+              "To measure a significant improvement in lung function in severe asthmatic patients after receiving a course of IV Aminophylline and IV Hydrocortisone"
+            ],
+            "sponsor": "Royal Brompton & Harefield NHS Foundation Trust",
+            "url": "https://clinicaltrials.gov/study/NCT02270827"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01293734",
+            "title": "Research on Traditional Chinese Medicine (TCM) Clinical Treatment of the Acute Episode of Bronchial Asthma.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2008-12",
+            "completion_date": "2011-02",
+            "country": "N/A",
+            "enrollment": 360,
+            "brief_summary": "Bronchial asthma is a common disease and frequently encountered disease of respiratory apparatus. It has very complex mechanism and multiple inducing factors. This study will focus on a new Chinese therapy on Bronchial asthma, analyzing the treatment mechanism of internal and external use, based on Traditional Chinese Medicine (TCM) theory and clinical practice. The study will also investigate the efficacy of the Chinese drugs and treatments on Bronchial asthma, and provide an effective therapy ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 to 65 years old;\n* Patients with mild-to-moderate bronchial asthma on attacking stage;\n* Without cardiopulmonary or other complications;\n* To comply with the diagnostic standard of bronchial asthma in western medicine and TCM syndrome differentiation;\n* Informed",
+            "endpoints": [
+              "primary Symptom",
+              "physical sign",
+              "assistant examination"
+            ],
+            "sponsor": "Liaoning University of Traditional Chinese Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT01293734"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03917914",
+            "title": "Preventing Adverse Cardiac Events in Chronic Obstructive Pulmonary Disease",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-06-30",
+            "completion_date": "2025-03-31",
+            "country": "Australia, India, New Zealand, Sri Lanka",
+            "enrollment": 280,
+            "brief_summary": "A double-blind, randomised controlled trial in participants with COPD to assess the efficacy of proactive treatment of cardiac risk in people with COPD. We hypothesise that treating known and undiagnosed CVD in COPD participants will improve both cardiac and respiratory outcomes.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nParticipants will be eligible for this study if they qualify on all of the following:\n\n1. Have provided written informed consent\n2. Have COPD defined by the 2019 Global Initiative for Chronic Obstructive Lung Disease (GOLD) diagnostic criteria\n3. Aged 40-85 years\n4. FEV1 ≥30% an",
+            "endpoints": [
+              "All-cause mortality",
+              "Hospitalisation for COPD exacerbation",
+              "Hospitalisation for primary cardiac cause (ischaemia, arrhythmia, heart failure or ischaemic stroke)"
+            ],
+            "sponsor": "The George Institute",
+            "url": "https://clinicaltrials.gov/study/NCT03917914"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06098196",
+            "title": "Effects of Aminophylline Bolus on Eleveld and Schnider TCI (Target Controlled Infusion) Concentrations at Return of Responsiveness and on BIS (Bispectral Index) After Total Intravenous Anaesthesia With TCI",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2023-10-25",
+            "completion_date": "2024-03-15",
+            "country": "Italy",
+            "enrollment": 48,
+            "brief_summary": "Aminophylline is an intravenous drug commonly utilized for asthma. However, some preclinical studies and few case reports and case series have described its utility in decrease the timing of return of consciousness after Propofol anaesthesia with an intravenous bolus of 4 mg/kg.\n\nWe aimed to compare its effect during a total Intravenous Anaesthesia with Target Controlled Infusion (TIVA-TCI) routinely utilized for general anaesthesia in our hospital.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Undergo general anaesthesia with Targeted Controlled Infusion of Propofol (Eleveld or Schnider model) and Remifentanil (Minto model)\n\nExclusion Criteria:\n\n* Neurological disease\n* Psychiatric disease\n* Obesity",
+            "endpoints": [
+              "Correlation between Concentration at the effector site of Propofol after Aminophylline"
+            ],
+            "sponsor": "University of Padova",
+            "url": "https://clinicaltrials.gov/study/NCT06098196"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01400217",
+            "title": "HFA Beclomethasone in Asthma, a General Practice Research Database Study: Real-life Observational Evaluation of Extra-fine With Standard Particle Size Beclometasone Dipropionate Using the Propellant Hydrofluoroalkane 134a for the Management of Asthma in a Representative UK Primary Care Population",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "1991-01",
+            "completion_date": "2010-10",
+            "country": "United Kingdom",
+            "enrollment": 56985,
+            "brief_summary": "This study will compare the absolute and relative effectiveness of asthma management in patients on inhaled corticosteroid (ICS) maintenance therapy as either extra-fine-particle or larger-particle formulation beclomethasone dipropionate (BDP) via metered-dose inhalers (MDIs) using the propellant hydrofluoroalkane propellant (HFA-BDP), namely Qvar® MDI compared with Clenil® MDI.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years\n* Paediatric cohort (aged 4-11 years), and\n* Adult cohort (aged 12-80 years )\n* Evidence of asthma and current asthma therapy:\n* All cohorts (IPDI, IPDS, IPDA):\n\n  * a diagnostic code for asthma, and / or \\*≥2 prescriptions for asthma at different points in ti",
+            "endpoints": [
+              "Severe asthma exacerbation (ATS/ERS based defn)",
+              "Primary composite asthma control"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01400217"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03269318",
+            "title": "Feasibility of a Personalised Medicine Clinic for Children With Asthma Aged 5-11 Years",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2017-07-01",
+            "completion_date": "2019-08-30",
+            "country": "United Kingdom",
+            "enrollment": 2,
+            "brief_summary": "Asthma is one of the most common chronic diseases affecting children in the UK. Poorly controlled asthma manifests with chronic cough, wheeze and shortness of breath which in-turn has a significant negative impact on a child's quality of life, interfering with sleep, impairing exercise ability and resulting in frequent school absences and hospital admissions.\n\nManagement of paediatric asthma in the UK is directed by the British Thoracic Society (BTS) Guidelines, which recommend a stepwise (one t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Parent/Guardian/Participant is willing and able to give informed consent/assent\n* Physician-diagnosed asthma that is inadequately controlled as per view of doctor (for example, history of at least two emergency visits to GP or hospital over the previous year, frequent use of b",
+            "endpoints": [
+              "Are children with asthma and their parents willing to be recruited and randomised to a trial of genotyping and personalised management for asthma? Qualitative interview",
+              "Are there retention issues? If yes, at what stages did these occur? What were the reasons? Qualitative interview",
+              "Are follow-up data complete?"
+            ],
+            "sponsor": "Brighton and Sussex University Hospitals NHS Trust",
+            "url": "https://clinicaltrials.gov/study/NCT03269318"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01125748",
+            "title": "A Phase IV, Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Persistency of Response With or Without Xolair After Long-term Therapy (XPORT)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-05",
+            "completion_date": "2013-08",
+            "country": "United States",
+            "enrollment": 176,
+            "brief_summary": "This was a randomized, double-blind, placebo-controlled, 2-arm, 1-year study of participants who completed the EXCELS study (NCT00252135) and had received long-term treatment with Xolair. In addition, participants who did not participate in the EXCELS study but received long-term (\\~5 years) treatment with Xolair were allowed to enter the study.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form (ICF). In the case of a minor, consent must be given by the child's parent or legally authorized representative.\n* Participants who have completed the EXCELS study prior to this study must have met all inclusion criteria for enrollment in the EXCEL",
+            "endpoints": [
+              "Percentage of Participants Not Experiencing a Protocol-defined Severe Exacerbation During the Study"
+            ],
+            "sponsor": "Genentech, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01125748"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00442338",
+            "title": "MK-476 IV Formulation Phase III Open Label Exploratory Comparative Study - Acute Exacerbations of Asthma -",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2007-03",
+            "completion_date": "2007-08",
+            "country": "N/A",
+            "enrollment": 91,
+            "brief_summary": "The study estimates the efficacy and safety of MK0476 and aminophylline intravenous administration in adult participants with acute asthma.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants with acute asthma attacks\n\nExclusion Criteria:\n\n* Participant has any known or suspected, acute or chronic cause for their pulmonary symptoms other than asthma (e.g., COPD, chronic heart failure, etc.).\n* Participant has a smoking habit (15 cigarettes per da",
+            "endpoints": [
+              "Change From Baseline in Forced Expiratory Volume in One Second (FEV1) Within the First 60 Minutes After Administration"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT00442338"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01132781",
+            "title": "The Effect of Theophylline in Patients With Allergic Rhinitis",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-05",
+            "completion_date": "2012-06",
+            "country": "United Kingdom",
+            "enrollment": 28,
+            "brief_summary": "Allergic rhinitis and asthma are common respiratory diseases, which often coexist. The prevalence of allergic rhinitis in subjects with asthma is up to 80%, and the prevalence of asthma is 3-5 times greater in subjects with rhinitis than healthy controls. The mechanisms of the allergen response in both diseases are parallel to each other, with similar mediator and cellular responses to similar allergens. These observations have led to the suggestion that both diseases are different expressions o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, aged between 16 and 65 years.\n* Weight between 50 and 150 Kg.\n* Smokers, non-smokers or ex-smoker.\n* Chronic rhinosinusitis as defined as 2 or more symptoms of nasal blockage/congestion, discharge, facial pain or reduction in smell for more than 12 weeks.\n* A",
+            "endpoints": [
+              "Difference in total nasal symptom score"
+            ],
+            "sponsor": "University of East Anglia",
+            "url": "https://clinicaltrials.gov/study/NCT01132781"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00157937",
+            "title": "A Randomized, Open Label, Cross-Over Study Comparing Effectiveness for the Montelukast Sodium With Comparator in Mild to Moderate Persistent Asthmatics",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2003-02",
+            "completion_date": "2005-06",
+            "country": "N/A",
+            "enrollment": 31,
+            "brief_summary": "Subjects have 8-week with montelukast sodium or comparator drug administration period, 2-week wash-out period and 8-week comparator drug or the drug administration period (with cross-over design) for assessment of the drug efficacy, safety and tolerability.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between the ages of 18 and 60 with mild to moderate asthma",
+            "endpoints": [
+              "FEV1"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT00157937"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01287351",
+            "title": "Retrospective, Real-life Observational Evaluation of the Effectiveness and Cost-effectiveness of Extra-fine Hydrofluoroalkane (HFA) Beclometasone (BDP) Compared With Fluticasone Propionate (FP) in the Management of Asthma in a Representative Population in the United States (US)",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2004-01",
+            "completion_date": "2010-10",
+            "country": "United Kingdom",
+            "enrollment": 82903,
+            "brief_summary": "This study will compare the absolute and relative effectiveness and cost-effectiveness of asthma management in patients in the USA on inhaled corticosteroid (ICS) maintenance therapy as HFA-BDP (Qvar®) pressurised metered dose inhaler (pMDI) compared with fluticasone propionate (FP) pMDI. .",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 5-80 years:\n\n  * Paediatric cohort (aged 5-11 years), and\n  * Adult cohort (aged 12-60 years)\n  * Non-smokers aged 61-80 years\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, (ICD 9 codes: 493xx) or\n  * ≥2 prescriptions for asthma at different points at any time",
+            "endpoints": [
+              "Proxy Asthma Control",
+              "Total number of asthma exacerbations and exacerbation rate ratio",
+              "Revised proxy asthma control"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01287351"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06034145",
+            "title": "Methacholine Challenge Testing: Comparison of FEV1 and IOS Parameters in Adult Asthma Patients",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-11-01",
+            "completion_date": "2024-11-01",
+            "country": "N/A",
+            "enrollment": 500,
+            "brief_summary": "A classic methacholine challenge test is considered positive when forced expiratory volumen after one second (FEV1) decrease 20%. Impulse oscillometry (IOS) measures airway resistance and reactance, and seems more sensitive to changes in small airways. In adult asthma patients, we compare methacholine challenge test using both FEV1 and IOS.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Doctor diagnosed asthma (based on symptoms and at least one positive asthma test within the last 5 years (AHR; reversibility to beta2-agonist, ICS, prednisolone; peak flow variation).\n* Written informed consent.\n\nExclusion Criteria:\n\n* patients aged less than 18 years old.\n* p",
+            "endpoints": [
+              "ACQ-6",
+              "Impulse Oscillometry",
+              "Demographic data"
+            ],
+            "sponsor": "Allergi- og Lungeklinikken, Elsinore",
+            "url": "https://clinicaltrials.gov/study/NCT06034145"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01697722",
+            "title": "A Retrospective Evaluation of Effectiveness and Cost-effectiveness of Extrafine HFA-BDP Compared With Combination ICS/LABA Therapy in the Management of Asthma in a Representative Population of UK Primary Care Patients",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "1991-01",
+            "completion_date": "2010-02",
+            "country": "United Kingdom",
+            "enrollment": 815377,
+            "brief_summary": "This study will compare the effectiveness, cost-effectiveness and direct healthcare costs of asthma management in patients with evidence of persistent asthma following an increase in asthma therapy in the form of either an increased dose of inhaled glucocorticosteroids (ICS) using extrafine hydrofluoroalkane-beclometasone dipropionate (HFA-BDP) via pressurised metered-dose inhaler (pMDI) or breath-actuated inhaler (BAI), or a change to combination ICS plus long-acting bronchodilator (LABA) thera",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-60 years:\n\n  * Paediatric cohort (aged 4-11 years), and\n  * Adult cohort (aged 12-60 years)\n  * Aged 61-80 years and never smoked for an additional elderly cohort;\n* Evidence of asthma: i.e. a diagnostic code of asthma or at least 2 asthma prescriptions, including one ",
+            "endpoints": [
+              "Proxy asthma control"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01697722"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01313585",
+            "title": "Retrospective, Real-life Observational Evaluation of the Effectiveness of Mixed Maintenance and Reliever Inhaler Types in Patients in the Management of Asthma in a Representative UK Primary Care Population",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "1991-01",
+            "completion_date": "2010-03",
+            "country": "United Kingdom",
+            "enrollment": 815377,
+            "brief_summary": "This study will compare the absolute and relative effectiveness of asthma management in patients on inhaled corticosteroid (ICS) maintenance therapy as Easi-breathe® (EB) - beclometasone dipropionate (BDP) breath-actuated inhaler (BAI) - and as-needed (prn) reliever medication (short-acting beta2-agonist \\[SABA\\] therapy) via either a BAI (i.e. Easi-breathe® \\[EB\\] salbutamol) or via a pressurised metered dose inhaler (MDI) (e.g. MDI salbutamol).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years:\n\n  * Paediatric cohort (aged 4-11 years), and\n  * Adult cohort (aged 12-80 years )\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, and / or\n  * ≥2 prescriptions for asthma at different points in time during the prior year and/ or\n  * ≥2 prescriptions",
+            "endpoints": [
+              "Proxy asthma control",
+              "Total number of asthma exacerbations and exacerbation rate ratio"
+            ],
+            "sponsor": "Research in Real-Life Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01313585"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04077528",
+            "title": "Research on Severe Asthma",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2019-09-10",
+            "completion_date": "2025-09",
+            "country": "France",
+            "enrollment": 2000,
+            "brief_summary": "The French Society for Respiratory diseases (SPLF), through its Asthma and Allergy working group (G2A), wishes to set up a national cohort of severe asthma patients to describe this population and the use of step 4 and 5 treatment. This study also meets the demand for post - registration studies required by the Health Authorities for biotherapies and bronchial thermoplasty.\n\nOther European or international cohorts of asthmatic patients exist and RAMSES could contribute to data sharing initiative",
+            "eligibility_criteria": "Inclusion Criteria:\n\n\\- Patient with severe asthma : Meeting the definition of ATS-ERS: which requires a combination of high dose CSI and B2LDA.\n\nOr receiving level 5 support (initiating treatment or already treated) :\n\n* Long-term oral corticosteroids (\\> 6 months in the year prior to inclusion)\n* ",
+            "endpoints": [
+              "Number of patients receiving asthma treatment",
+              "Dose of severe asthma treatments",
+              "Duration of asthma treatments"
+            ],
+            "sponsor": "Assistance Publique - Hôpitaux de Paris",
+            "url": "https://clinicaltrials.gov/study/NCT04077528"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00756418",
+            "title": "A Randomized Open-Label Comparative Study of Montelukast Versus Theophylline Added to Inhaled Corticosteroid in Pediatric Patients With Bronchial Asthma",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2003-06-01",
+            "completion_date": "2004-08-28",
+            "country": "N/A",
+            "enrollment": 84,
+            "brief_summary": "A clinical study explores the safety and efficacy of montelukast and to compare the safety and efficacy of montelukast with those of theophylline in pediatric bronchial asthma patients when they are used in conjunction with inhaled steroids.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric Bronchial Asthma Patients Aged 6 To 14 Years (At The Beginning Of The Treatment Period)\n* The Severity Must Be Mild, Moderate Or Severe, Persistent Bronchial Asthma\n* The Patient Must Have Symptoms That Can Be Used As Efficacy Variables (Such As Repeated Coughing And",
+            "endpoints": [
+              "Improvement of AM PEF over first 2 Weeks"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT00756418"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "8471184",
+            "title": "Theophylline. Current thoughts on the risks and benefits of its use in asthma.",
+            "abstract": "Theophylline and its derivatives have been used in the treatment of asthma for over 50 years, but since the advent of more potent bronchodilators their use has become cloaked in controversy. Their continued existence results from their undoubted usefulness in severe acute asthma, nocturnal asthma, childhood asthma and moderate to severe chronic airflow limitation, and because of habitual use by physicians in other situations. The precise mechanism of action of theophylline remains uncertain. The role of phosphodiesterase inhibition and adenosine antagonism has been reviewed and the clinical significance of the anti-inflammatory action of theophylline discussed. Theophylline has unpredictable metabolism when first administered, and continued monitoring of drug concentrations is essential. Commonly encountered adverse effects may occur at therapeutic serum concentrations, frequently necessitating drug withdrawal. The overlapping therapeutic and toxic theophylline serum ranges can lead to",
+            "journal": "Drug safety",
+            "year": "1993",
+            "authors": [
+              "Nasser S S",
+              "Rees P J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Humans",
+              "Risk Factors",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8471184/"
+          },
+          {
+            "pmid": "7589387",
+            "title": "Theophylline and selective phosphodiesterase inhibitors as anti-inflammatory drugs in the treatment of bronchial asthma.",
+            "abstract": "Theophylline has been in clinical use for the treatment of bronchial asthma and other respiratory diseases for well over 50 yrs. Over this time, a considerable body of evidence has accumulated to show that this drug has a wide range of pharmacological actions, in addition to the well-recognized action on airway smooth muscle function. Current evidence suggests that part of the therapeutic value of theophylline in the treatment of asthma is by virtue of an anti-inflammatory or immunomodulatory effect, although the actual mechanism of action remains unclear. It has been proposed that the observed anti-inflammatory effects of theophylline could be attributed to phosphodiesterase (PDE) inhibition, and recently the type III and IV isoenzymes have been characterized in a number of inflammatory cells. This article reviews the evidence that theophylline and the newer more selective type IV PDE isoenzyme inhibitors can inhibit the activation of inflammatory cell types, such as T-lymphocytes, eo",
+            "journal": "The European respiratory journal",
+            "year": "1995",
+            "authors": [
+              "Banner K H",
+              "Page C P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Inflammatory Agents",
+              "Asthma",
+              "Guinea Pigs",
+              "Humans",
+              "Phosphodiesterase Inhibitors",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7589387/"
+          },
+          {
+            "pmid": "8614425",
+            "title": "Theophylline in asthma.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1996",
+            "authors": [
+              "Weinberger M",
+              "Hendeles L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Humans",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8614425/"
+          },
+          {
+            "pmid": "6147224",
+            "title": "Controversies in asthma therapy with theophylline and the beta 2-adrenergic agonists.",
+            "abstract": "The pharmacology and clinical use of the beta 2-adrenergic agonists and theophylline, singly and in combination, are reviewed. The beta 2-adrenergic agents produce bronchodilation by stimulating production of intracellular cyclic adenosine monophosphate, while theophylline's mechanism of action is unknown. The primary differences between various beta 2-adrenergic agents are in specificity and duration of action. In acute asthma attacks, greater reversal of bronchospasm results from beta 2-adrenergic agents than from theophylline. Inhalation of beta 2-adrenergic agents is as effective as injection of these drugs and produces fewer side effects. Inhaled beta 2-adrenergic agents also produce the greatest degree of prevention of exercise-induced bronchospasm. In hospitalized patients with severe acute bronchospasm, the combination of intravenous aminophylline and inhaled beta 2-adrenergic agents appears to provide optimal therapy with the greatest margin of safety. For long-term bronchodil",
+            "journal": "Clinical pharmacy",
+            "year": "1984",
+            "authors": [
+              "Kelly H W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adrenergic beta-Agonists",
+              "Asthma",
+              "Bronchodilator Agents",
+              "Drug Therapy, Combination",
+              "Drug Tolerance",
+              "Heart Diseases",
+              "Humans",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6147224/"
+          },
+          {
+            "pmid": "2010095",
+            "title": "Theophylline in asthma and COPD: changing perspectives and controversies.",
+            "abstract": "Theophylline's role in the treatment of airway obstruction has been challenged, yet it remains a useful agent in the management of obstructive lung disease. It has a narrow therapeutic range and frequent side effects. Drug interactions are common, and variations in theophylline clearance among patients arise from individual differences in its absorption, metabolism, and elimination. Acute bronchospasm is best treated with inhaled sympathomimetic agents, but the nonbronchodilator effects of theophylline offer therapeutic benefits for the patient with non-reversible disease. When properly monitored by serum level determinations, theophylline may be used as an adjunct to aerosol therapy and corticosteroids in asthma. However, the patient with COPD may benefit the most from an empiric trial of the drug, using lower doses than were commonly employed in the past.",
+            "journal": "Geriatrics",
+            "year": "1991",
+            "authors": [
+              "Poe R H",
+              "Utell M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Humans",
+              "Lung Diseases, Obstructive",
+              "Mucociliary Clearance",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2010095/"
+          },
+          {
+            "pmid": "2192613",
+            "title": "The relationship between vitamin B6 metabolism, asthma, and theophylline therapy.",
+            "abstract": "",
+            "journal": "Annals of the New York Academy of Sciences",
+            "year": "1990",
+            "authors": [
+              "Ubbink J B",
+              "Vermaak W J",
+              "Delport R",
+              "Serfontein W J",
+              "Bartel P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Humans",
+              "Pyridoxal Kinase",
+              "Pyridoxal Phosphate",
+              "Pyridoxine",
+              "Theophylline",
+              "Vitamin B 6 Deficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2192613/"
+          },
+          {
+            "pmid": "32094104",
+            "title": "The effect of doxofylline in asthma and COPD.",
+            "abstract": "Theophylline is still one of the most widely prescribed drugs for the treatment of asthma and COPD in developing countries because the majority of asthma and COPD medicines are largely unavailable and also because it is a cheap option. In any case, its anti-inflammatory effects and capacity to reverse corticosteroid resistance deserve consideration, but it can induce numerous side effects and drug-drug interactions and frequently requires measurement of drug levels in plasma. In order to overcome the problems posed by theophylline, other xanthines have been developed. Doxofylline is a newer generation xanthine with both bronchodilating and anti-inflammatory activities and for this reason it has been called \"novofylline\". It differs substantially from theophylline at the pharmacological level. Clinical studies have shown substantial differences between doxofylline and theophylline. In particular, efficacy/safety profile of doxofylline is better than that of theophylline.",
+            "journal": "Respiratory medicine",
+            "year": "2020",
+            "authors": [
+              "Cazzola Mario",
+              "Matera Maria Gabriella"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents",
+              "Asthma",
+              "Bronchodilator Agents",
+              "Drug Costs",
+              "Economics, Pharmaceutical",
+              "Female",
+              "Humans",
+              "Male",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32094104/"
+          },
+          {
+            "pmid": "1747676",
+            "title": "Unstable asthma and theophylline.",
+            "abstract": "",
+            "journal": "BMJ (Clinical research ed.)",
+            "year": "1991",
+            "authors": [
+              "Stern M",
+              "Geddes D M",
+              "Collins J V",
+              "Evans T"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Clinical Conference",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Asthma",
+              "Circadian Rhythm",
+              "Female",
+              "Humans",
+              "Peak Expiratory Flow Rate",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1747676/"
+          },
+          {
+            "pmid": "9756184",
+            "title": "Theophylline and airway inflammation.",
+            "abstract": "The view of theophylline as a second-line bronchodilator in asthma therapy has begun to be reconsidered in recent years as the details of its additional actions on airway inflammation have emerged. Increasing understanding of the mechanisms of action of theophylline has led to an appreciation of the ways in which this, and other related drugs, may influence the development and maintenance of the airway inflammation that underlies asthma through alteration of inflammatory cell function. In addition, recent demonstrations that theophylline can suppress late-phase asthmatic reactions at serum concentrations below those traditionally regarded as therapeutically useful have provided evidence that theophylline's beneficial actions in asthma extend beyond mild bronchodilation. The apparent suppression of airway inflammation by theophylline in asthmatic patients reinforces data from ill vitro experiments, showing inhibitory actions of theophylline on the pro-inflammatory functions of many immu",
+            "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+            "year": "1998",
+            "authors": [
+              "Rabe K F",
+              "Dent G"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "3',5'-Cyclic-AMP Phosphodiesterases",
+              "Adenosine",
+              "Administration, Oral",
+              "Anti-Inflammatory Agents",
+              "Asthma",
+              "Biopsy",
+              "Bronchi",
+              "CD4 Lymphocyte Count",
+              "CD8-Positive T-Lymphocytes",
+              "Eosinophils"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9756184/"
+          },
+          {
+            "pmid": "1735811",
+            "title": "Safety and efficacy of theophylline in children with asthma.",
+            "abstract": "",
+            "journal": "The Journal of pediatrics",
+            "year": "1992",
+            "authors": [
+              "Hendeles L",
+              "Weinberger M",
+              "Szefler S",
+              "Ellis E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Child",
+              "Drug Interactions",
+              "Humans",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1735811/"
+          },
+          {
+            "pmid": "3315274",
+            "title": "Sustained-release theophylline and nocturnal asthma, once-daily and unequal dosing schedules.",
+            "abstract": "Many asthmatic patients experience aggravation of symptoms overnight resulting in disruption of their sleep. Sustained-release theophylline represents at this time a major bronchodilator medication which possesses a sufficient duration of activity to avert the nocturnal breathing distress of asthma. Circadian rhythm-adapted theophylline schedules consisting of unequal dosing--more or all the drug taken in the evening--have proven efficacious in clinical investigations for certain patients. Although the kinetic behavior of some formulations is affected by food, the circadian rhythm-adapted schedules represent a significant step forward toward the goal of optimizating sustained-release theophyllines for patients who experience nighttime symptoms.",
+            "journal": "Chronobiology international",
+            "year": "1987",
+            "authors": [
+              "Smolensky M H",
+              "D'Alonzo G E",
+              "Kunkel G",
+              "Barnes P J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Circadian Rhythm",
+              "Delayed-Action Preparations",
+              "Drug Administration Schedule",
+              "Food",
+              "Humans",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3315274/"
+          },
+          {
+            "pmid": "11775391",
+            "title": "Theophylline revisited.",
+            "abstract": "Theophylline was first isolated in 1888 and remains the most commonly used medication worldwide for the treatment of asthma. It decreases the need for asthma rescue medications by people who have asthma and is an effective steroid-sparing agent for patients who tolerate it. Recently, investigators have shown that theophylline decreases airway inflammation, accelerates eosinophil apoptosis, and decreases recruitment of lymphocytes and neutrophils to the lungs at low doses. It is classified as a phosphodiesterase (PDE) inhibitor, but its therapeutic mechanism of action remains undetermined. Theophylline should be reevaluated as a long-term medication for the treatment of asthma because of its ease of use, low cost, and recent evidence of its anti-inflammatory actions.",
+            "journal": "Allergy and asthma proceedings",
+            "year": "2001",
+            "authors": [
+              "Somerville L L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Bronchodilator Agents",
+              "Dose-Response Relationship, Drug",
+              "Humans",
+              "Phosphodiesterase Inhibitors",
+              "Practice Guidelines as Topic",
+              "Theophylline",
+              "Treatment Outcome",
+              "United States",
+              "United States Food and Drug Administration"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11775391/"
+          },
+          {
+            "pmid": "2656270",
+            "title": "Chronopharmacology and its application to the development of theophylline treatment schedules for asthma.",
+            "abstract": "",
+            "journal": "European journal of clinical pharmacology",
+            "year": "1989",
+            "authors": [
+              "Godfrey K R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Circadian Rhythm",
+              "Humans",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2656270/"
+          },
+          {
+            "pmid": "6367926",
+            "title": "Theophylline.",
+            "abstract": "",
+            "journal": "Clinical reviews in allergy",
+            "year": "1983",
+            "authors": [
+              "Ellis E F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Asthma",
+              "Biological Availability",
+              "Child",
+              "Child, Preschool",
+              "Chromatography, High Pressure Liquid",
+              "Delayed-Action Preparations",
+              "Drug Administration Schedule",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6367926/"
+          },
+          {
+            "pmid": "19479396",
+            "title": "[Asthma therapy: combination of topical glucocorticosteroids and theophylline].",
+            "abstract": "In addition to its bronchodilatory effects, theophylline has anti-inflammatory and immunomodulatory effects. Since theophylline and corticosteroids act via different molecular mechanisms, they may be used in combination. Two recently completed trials have demonstrated that with respect to asthma control the combination of inhaled steroid (400 - 800 microg/d) plus theophylline is at least as effective as doubling the dose of inhaled steroid in patients who remain symptomatic on a dosage of 400 - 800 microg daily.",
+            "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+            "year": "1997",
+            "authors": [
+              "Ukena D"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adrenergic beta-Agonists",
+              "Albuterol",
+              "Anti-Inflammatory Agents",
+              "Asthma",
+              "Beclomethasone",
+              "Bronchodilator Agents",
+              "Budesonide",
+              "Dose-Response Relationship, Drug",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19479396/"
+          },
+          {
+            "pmid": "32393652",
+            "title": "Investigating the Role of Altered Systemic Albumin Concentration on the Disposition of Theophylline in Adult and Pediatric Patients with Asthma by Using the Physiologically Based Pharmacokinetic Approach.",
+            "abstract": "Theophylline is commonly used for the treatment of asthma and has a low hepatic clearance. The changes in plasma albumin concentration occurring in asthma may affect the exposure of theophylline. The aim of the presented work was to predict theophylline pharmacokinetics (PK) after incorporating the changes in plasma albumin concentration occurring in patients with asthma into a physiologically based pharmacokinetic (PBPK) model to see whether these changes can affect the systemic theophylline concentrations in asthma. The PBPK model was developed following a systematic model building approach using Simcyp. The predictions were performed initially in healthy adults after intravenous and oral drug administration. Only when the developed adult PBPK model had adequately predicted theophylline PK in healthy adults, the changes in plasma albumin concentrations were incorporated into the model for predicting drug exposure in patients with asthma. After evaluation of the developed model in the",
+            "journal": "Drug metabolism and disposition: the biological fate of chemicals",
+            "year": "2020",
+            "authors": [
+              "Rasool Muhammad Fawad",
+              "Khalid Ramsha",
+              "Imran Imran",
+              "Majeed Abdul",
+              "Saeed Hamid"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Administration, Oral",
+              "Adult",
+              "Age Factors",
+              "Area Under Curve",
+              "Asthma",
+              "Child",
+              "Child, Preschool",
+              "Computer Simulation",
+              "Datasets as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32393652/"
+          },
+          {
+            "pmid": "2697988",
+            "title": "[Theophylline in the treatment of asthma: indications, use and side effects].",
+            "abstract": "",
+            "journal": "Zeitschrift fur arztliche Fortbildung",
+            "year": "1989",
+            "authors": [
+              "Slapke J",
+              "Hummel S",
+              "Wilke A",
+              "Wenz W",
+              "Meister W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Delayed-Action Preparations",
+              "Dose-Response Relationship, Drug",
+              "Humans",
+              "Lung Diseases, Obstructive",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2697988/"
+          },
+          {
+            "pmid": "3523664",
+            "title": "Enprofylline and theophylline slow-eroding tablets in the treatment of asthma: a comparison.",
+            "abstract": "Fifteen asthmatic outpatients were randomly treated during two periods of 14 days each with sustained-release preparations of either enprofylline (3-propyl-xanthine) or theophylline (Theo-Dur) in a double-blind crossover study. After 4 days of treatment the mean daily doses of enprofylline and theophylline, which were 14.1 and 16.2 mg/kg/day, produced mean plasma concentrations of 4.9 and 12.7 micrograms/ml, respectively. Taking into account all the parameters used to evaluate the antiasthmatic effects, the peak expiratory flow, the number of puffs used from a beta-agonist aerosol, the asthma symptom score and the patients' preferred period, enprofylline was found to be better than theophylline. Enprofylline produced more headaches during the 1st week than theophylline did. However, during the 2nd week the score for headaches decreased to the same level as in the theophylline treatment group. Thus, enprofylline and theophylline seem to have comparable bronchodilator properties and side",
+            "journal": "Respiration; international review of thoracic diseases",
+            "year": "1986",
+            "authors": [
+              "Laursen L C",
+              "Eriksson G",
+              "Weeke B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Asthma",
+              "Clinical Trials as Topic",
+              "Delayed-Action Preparations",
+              "Double-Blind Method",
+              "Headache",
+              "Humans",
+              "Middle Aged",
+              "Peak Expiratory Flow Rate",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3523664/"
+          },
+          {
+            "pmid": "6117754",
+            "title": "Theophylline, beta-agonists, and fatal asthma.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1981",
+            "authors": [
+              "Sutherland D C",
+              "Wilson J D"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenergic beta-Agonists",
+              "Adult",
+              "Asthma",
+              "Drug Interactions",
+              "Humans",
+              "Middle Aged",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6117754/"
+          },
+          {
+            "pmid": "6595559",
+            "title": "Oral theophylline and asthma.",
+            "abstract": "",
+            "journal": "The New Zealand medical journal",
+            "year": "1984",
+            "authors": [
+              "Taylor A J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Administration, Oral",
+              "Adult",
+              "Asthma",
+              "Child",
+              "Delayed-Action Preparations",
+              "Humans",
+              "New Zealand",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6595559/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "allergic asthma",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02733016",
+            "title": "Seinäjoki Adult Asthma Study: A 12-year Real-life Follow-up Study of New-onset Asthma Diagnosed at Adult Age and Treated in Primary and Specialized Care. Finnish Title: Diagnoosista Hoitotasapainoon: Voidaanko Aikuisen Astman Hoitotasapainoa Ennustaa Diagnoosivaiheen löydösten ja Astman Ilmiasun Perusteella?",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "1999-10",
+            "completion_date": "",
+            "country": "Finland",
+            "enrollment": 259,
+            "brief_summary": "Seinäjoki Adult Asthma Study is a single-centre 12-year follow-up study of a total cohort of 259 patients having new-onset asthma that was diagnosed at adult age. The study was divided in two parts: the collection of the original cohort (phase I;n=259) and follow-up visit (phase II; n=203). The aim of this study is to increase the understanding on the diagnostics and diagnostic process, organisation of the long-term asthma care, therapeutic outcomes, prognosis and the factors affecting the progn",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of new-onset asthma made by a respiratory specialist\n* Diagnosis confirmed by at least one of the following objective lung function measurements\n\n  * FEV1 (forced expiratory volume in one second) reversibility in spirometry of at least 15% and 200 ml\n  * Diurnal va",
+            "endpoints": [
+              "Asthma control at follow-up visit"
+            ],
+            "sponsor": "Seinajoki Central Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02733016"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01125748",
+            "title": "A Phase IV, Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Persistency of Response With or Without Xolair After Long-term Therapy (XPORT)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-05",
+            "completion_date": "2013-08",
+            "country": "United States",
+            "enrollment": 176,
+            "brief_summary": "This was a randomized, double-blind, placebo-controlled, 2-arm, 1-year study of participants who completed the EXCELS study (NCT00252135) and had received long-term treatment with Xolair. In addition, participants who did not participate in the EXCELS study but received long-term (\\~5 years) treatment with Xolair were allowed to enter the study.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form (ICF). In the case of a minor, consent must be given by the child's parent or legally authorized representative.\n* Participants who have completed the EXCELS study prior to this study must have met all inclusion criteria for enrollment in the EXCEL",
+            "endpoints": [
+              "Percentage of Participants Not Experiencing a Protocol-defined Severe Exacerbation During the Study"
+            ],
+            "sponsor": "Genentech, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01125748"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01132781",
+            "title": "The Effect of Theophylline in Patients With Allergic Rhinitis",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-05",
+            "completion_date": "2012-06",
+            "country": "United Kingdom",
+            "enrollment": 28,
+            "brief_summary": "Allergic rhinitis and asthma are common respiratory diseases, which often coexist. The prevalence of allergic rhinitis in subjects with asthma is up to 80%, and the prevalence of asthma is 3-5 times greater in subjects with rhinitis than healthy controls. The mechanisms of the allergen response in both diseases are parallel to each other, with similar mediator and cellular responses to similar allergens. These observations have led to the suggestion that both diseases are different expressions o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, aged between 16 and 65 years.\n* Weight between 50 and 150 Kg.\n* Smokers, non-smokers or ex-smoker.\n* Chronic rhinosinusitis as defined as 2 or more symptoms of nasal blockage/congestion, discharge, facial pain or reduction in smell for more than 12 weeks.\n* A",
+            "endpoints": [
+              "Difference in total nasal symptom score"
+            ],
+            "sponsor": "University of East Anglia",
+            "url": "https://clinicaltrials.gov/study/NCT01132781"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00157937",
+            "title": "A Randomized, Open Label, Cross-Over Study Comparing Effectiveness for the Montelukast Sodium With Comparator in Mild to Moderate Persistent Asthmatics",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2003-02",
+            "completion_date": "2005-06",
+            "country": "N/A",
+            "enrollment": 31,
+            "brief_summary": "Subjects have 8-week with montelukast sodium or comparator drug administration period, 2-week wash-out period and 8-week comparator drug or the drug administration period (with cross-over design) for assessment of the drug efficacy, safety and tolerability.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between the ages of 18 and 60 with mild to moderate asthma",
+            "endpoints": [
+              "FEV1"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT00157937"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "bronchitis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "21639960",
+            "title": "Copd.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+            "journal": "BMJ clinical evidence",
+            "year": "2011",
+            "authors": [
+              "McIvor Robert Andrew",
+              "Tunks Marcel",
+              "Todd David Charles"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adrenal Cortex Hormones",
+              "Adrenergic beta-Agonists",
+              "Humans",
+              "Muscle Strength",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Theophylline",
+              "alpha 1-Antitrypsin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21639960/"
+          },
+          {
+            "pmid": "19445783",
+            "title": "Copd.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+            "journal": "BMJ clinical evidence",
+            "year": "2008",
+            "authors": [
+              "Kerstjens Huib Am",
+              "Postma Dirkje S",
+              "Ten Hacken Nick"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adrenal Cortex Hormones",
+              "Adrenergic beta-Agonists",
+              "Cholinergic Antagonists",
+              "Humans",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Smoking",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19445783/"
+          },
+          {
+            "pmid": "10193688",
+            "title": "Moxifloxacin.",
+            "abstract": "Moxilloxacin is a new fluoroquinolone antibacterial agent with a broad spectrum of activity, encompassing gram-negative and gram-positive bacteria. It has improved activity against gram-positive species (including staphylococci, streptococci, enterococci) and anaerobes compared with ciprofloxacin. This is offset by slightly lower activity against pseudomonal species and Enterobacteriaceae. In common with other fluoroquinolones, moxifloxacin attains good penetration into respiratory tissues and fluids and its bioavailability is substantially reduced by coadministration with an antacid or iron preparation. However, moxifloxacin does not interact with theophylline or warfarin. In clinical trials in patients with community-acquired pneumococcal pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or acute sinusitis, moxifloxacin 400 mg once daily achieved bacteriological and/or clinical success rates of approximately 90% or higher. Moxifloxacin was as effective as amoxicillin ",
+            "journal": "Drugs",
+            "year": "1999",
+            "authors": [
+              "Balfour J A",
+              "Wiseman L R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Area Under Curve",
+              "Aza Compounds",
+              "Bacterial Infections",
+              "Ciprofloxacin",
+              "Drug Interactions",
+              "Fluoroquinolones",
+              "Half-Life",
+              "Humans",
+              "Metabolic Clearance Rate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10193688/"
+          },
+          {
+            "pmid": "3297526",
+            "title": "Theophylline and mucociliary clearance.",
+            "abstract": "Abnormal mucociliary transport is improvement by the action of theophylline, and this effect can be attributed to several mechanisms. The drug may directly and indirectly mediate the increase in the secretory output of bronchial glands, and this effect is enhanced by the vagal gastropulmonary reflex which is stimulated by the irritant action of theophylline on the stomach. Theophylline can increase the transepithelial secretion of fluid into the respiratory tract lumen by stimulating the chloride pump which is controlled by cyclic AMP. Ciliary motility is stimulated by theophylline; most of this effect is confined to the proximal part of the respiratory tree. However, much of the improvement in mucociliary clearance may be a consequence of the bronchodilation induced by theophylline, since the improved airway patency is generally a prerequisite for enhanced mucokinesis. Nevertheless, the multiple sites of action of theophylline in the respiratory tract suggests that this drug should be",
+            "journal": "Chest",
+            "year": "1987",
+            "authors": [
+              "Ziment I"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminophylline",
+              "Animals",
+              "Asthma",
+              "Bronchitis",
+              "Cilia",
+              "Clinical Trials as Topic",
+              "Dogs",
+              "Humans",
+              "Lung Diseases, Obstructive",
+              "Movement"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3297526/"
+          },
+          {
+            "pmid": "6136751",
+            "title": "Theophylline benefits and difficulties.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1983",
+            "authors": [],
+            "pub_types": [
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Asthma",
+              "Bronchitis",
+              "Child",
+              "Humans",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6136751/"
+          },
+          {
+            "pmid": "6435664",
+            "title": "The effects of theophylline and salbutamol on right and left ventricular function in chronic bronchitis and emphysema.",
+            "abstract": "We have compared the effects of oral theophylline and salbutamol on right and left ventricular function in twelve patients with chronic bronchitis and emphysema. Right and left ventricular ejection fraction (RVEF and LVEF) were measured using multiple gated radionuclide ventriculography. Theophylline 600 mg and salbutamol 4 mg both produced increases in RVEF and LVEF. There were no significant changes in blood gases after either drug. The clinical significance of the effects of oral bronchodilators on cardiac function in patients with chronic bronchitis and emphysema has yet to be determined.",
+            "journal": "British journal of diseases of the chest",
+            "year": "1984",
+            "authors": [
+              "Winter R J",
+              "Langford J A",
+              "George R J",
+              "Deacock S J",
+              "Rudd R M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Albuterol",
+              "Bronchitis",
+              "Carbon Dioxide",
+              "Cardiac Output",
+              "Chronic Disease",
+              "Heart",
+              "Heart Rate",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6435664/"
+          },
+          {
+            "pmid": "3907108",
+            "title": "Canine chronic bronchitis.",
+            "abstract": "The diagnosis and management of the chronic bronchitis patient can be a challenging, but rewarding, task for the veterinarian. The normal respiratory defense mechanisms and the pathophysiologic responses to the pathologic changes are of dramatic importance in understanding the choices of therapy. The keys to successful management of the patient lie in correct assessment of the clinical features and diagnostic procedures and periodic reevaluation of the patient's response to therapy and age/environment-related progression of pathology. Lastly, the clinician must create a realistic attitude for the owner regarding chronically diseased patients.",
+            "journal": "The Veterinary clinics of North America. Small animal practice",
+            "year": "1985",
+            "authors": [
+              "Prueter J C",
+              "Sherding R G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Antitussive Agents",
+              "Bronchitis",
+              "Bronchodilator Agents",
+              "Chronic Disease",
+              "Dog Diseases",
+              "Dogs",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3907108/"
+          },
+          {
+            "pmid": "6439357",
+            "title": "Slow release theophyllines and chronic bronchitis.",
+            "abstract": "",
+            "journal": "British medical journal (Clinical research ed.)",
+            "year": "1984",
+            "authors": [
+              "Cochrane G M"
+            ],
+            "pub_types": [
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Albuterol",
+              "Bronchitis",
+              "Delayed-Action Preparations",
+              "Humans",
+              "Respiratory Function Tests",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6439357/"
+          },
+          {
+            "pmid": "3907486",
+            "title": "Breathing during sleep.",
+            "abstract": "Hypoxaemia during the rapid eye movement phase of sleep is common in older healthy normal subjects over 55 years of age; the sleep apnoea syndromes--such as obstructive sleep apnoea, where oro-nasal airflow ceases for more than 10 seconds on many separate occasions throughout the night, due to failure of contraction of the genio-glossus muscle; \"blue and bloated\" patients with chronic bronchitis and emphysema, where profound nocturnal hypoxaemia is common in REM sleep, and is associated with further elevation of pulmonary arterial pressure; the overlap syndrome--where \"blue and bloated\" chronic bronchitis is associated with an obstructive sleep apnoea syndrome; and bronchial asthma, where hypoxaemia is associated with irregular breathing and possibly nocturnal bronchoconstriction. Although absolute recognition depends upon all night sleep studies, monitoring of ear oxygen saturation, breathing patterns, and EEG, the clinical features when awake can lead to suspicion of sleep hypoxaemia",
+            "journal": "Annals of the Academy of Medicine, Singapore",
+            "year": "1985",
+            "authors": [
+              "Flenley D C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Airway Obstruction",
+              "Asthma",
+              "Bronchitis",
+              "Chronic Disease",
+              "Female",
+              "Humans",
+              "Hypoxia",
+              "Male",
+              "Obesity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3907486/"
+          },
+          {
+            "pmid": "2885156",
+            "title": "Theophylline as a bronchodilator in COPD and its combination with inhaled beta-adrenergic drugs.",
+            "abstract": "The bronchodilating action of theophylline in COPD has been examined, with emphasis on its combined use with inhaled beta 2 agonists. The suggestion is made that failure to recognize the nonlinearity of the dose-response curves for bronchodilators has resulted in underestimating their combined action. Recent studies suggest that systemic theophylline has somewhat different actions on the airways in COPD than inhaled beta agonists, and that more bronchodilation may be possible when the two are used together than large doses of either one. By analogy, with asthma the suggestion is also made that the addition of theophylline is also likely to provide a more constant bronchodilation, reducing peak-trough variations in flow. The most complete clinical comparison to date suggests that, in currently sanctioned doses, a regimen containing both theophylline and an inhaled beta 2 agonist provides significantly greater bronchodilation than either drug alone, with fewer patient withdrawals. Furthe",
+            "journal": "Chest",
+            "year": "1987",
+            "authors": [
+              "Jenne J W"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Agonists",
+              "Albuterol",
+              "Animals",
+              "Asthma",
+              "Bronchi",
+              "Bronchitis",
+              "Clinical Trials as Topic",
+              "Culture Techniques",
+              "Dogs",
+              "Dose-Response Relationship, Drug"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2885156/"
+          },
+          {
+            "pmid": "34173985",
+            "title": "Multidose pharmacokinetics and safety of a modified, compounded theophylline product in dogs.",
+            "abstract": "Theophylline is used in canine medicine for the management of chronic bronchitis and bradyarrhythmias, yet no species-validated commercial products are available. This study reports the single-dose and multidose pharmacokinetics and safety of a modified, compounded theophylline (MCT) product readily available from a well-established, USP-compliant compounding pharmacy, which may be a suitable and reliable source for theophylline for dogs. Eleven dogs underwent serial plasma theophylline measurement following 10 mg/kg MCT PO. After a 7 days washout, dogs received 10 mg/kg MCT PO q12h and serial plasma theophylline quantification was repeated after the ninth dose. Dogs were monitored for potential adverse effects. For the nine dogs that completed the study, plasma theophylline concentrations were between 5 and 30 μg/ml for 91 +/- 15% of the dosing interval. There was no significant difference in half-life between single-dose and multidose administration. The most common adverse effects r",
+            "journal": "Journal of veterinary pharmacology and therapeutics",
+            "year": "2021",
+            "authors": [
+              "Reinhart Jennifer M",
+              "Perkowski Claudia",
+              "Lester Courtney",
+              "Campos Valeria",
+              "Kadotani Saki"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bronchitis, Chronic",
+              "Dog Diseases",
+              "Dogs",
+              "Half-Life",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34173985/"
+          },
+          {
+            "pmid": "19669108",
+            "title": "Cough due to asthma and nonasthmatic eosinophilic bronchitis.",
+            "abstract": "Asthma and nonasthmatic eosinophilic bronchitis are among the most common causes of chronic cough, accounting for about 25 and 10% of cases, respectively. Chronic cough due to asthma may present in isolation in which case it is known as cough-variant asthma. Nonasthmatic eosinophilic bronchitis is characterized by the presence of eosinophilic airway inflammation in the absence of variable airflow obstruction or airway hyperresponsiveness. Both conditions share many immunopathological features with the exceptions to date of mast cell infiltration into the airway smooth muscle, increased IL-13 expression, and narrowing and thickening of the airway wall, which are features reserved to asthma. In most cases the trigger that causes the cough is uncertain. However, removal of potential triggers is important to consider, in particular with respect to occupational exposure to known sensitisers. In both conditions there is subjective and objective improvement following treatment with inhaled co",
+            "journal": "Lung",
+            "year": "2010",
+            "authors": [
+              "Brightling Christopher E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Asthma",
+              "Bronchitis",
+              "Cough",
+              "Humans",
+              "Mast Cells",
+              "Pulmonary Eosinophilia",
+              "Sputum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19669108/"
+          },
+          {
+            "pmid": "25878387",
+            "title": "Acebrophylline-induced angioedema.",
+            "abstract": "A 53-year-old woman visited her physician complaining of acute breathlessness and productive cough. Her medications included budesonide and formoterol for asthma, fixed-dose combination aspirin 150 mg + clopidogrel 75 mg + atorvastatin 20 mg for ischemic heart disease. History revealed that she had allergic rhinitis and was hypersensitive to penicillins. The patient was prescribed acebrophylline (ABP). Six hours after ABP therapy she presented with generalized urticarial lesions, swelling of hands, feet, lips and face, suggestive of angioedema. ABP was stopped immediately, and the patient was treated symptomatically. This case was categorized as probable as per standard causality assessment scale.",
+            "journal": "Indian journal of pharmacology",
+            "year": "2015",
+            "authors": [
+              "Kuriachan Sanitha",
+              "Amberkar Mohan Babu V",
+              "Mohan Manu K",
+              "Shahul Hameed Aboobackar",
+              "Kishore Meenakumari Kamal"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ambroxol",
+              "Angioedema",
+              "Asthma",
+              "Bronchitis",
+              "Bronchodilator Agents",
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Theophylline",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25878387/"
+          },
+          {
+            "pmid": "3891201",
+            "title": "Management of bronchiolitis.",
+            "abstract": "The incidence, etiology, epidemiology, clinical presentation, treatment, prognosis, and prevention of bronchiolitis are discussed with a critical evaluation of the available studies on various therapeutic approaches. Bronchiolitis is a lower respiratory-tract viral infection that affects 6-10% of all children below two years of age. Respiratory syncytial virus (RSV) is the usual pathogen. The symptoms range from mild wheezing to severe respiratory distress. An infected child usually has a fever, a rapid pulse, an increased breathing rate, and difficulty in breathing. Because most of the infants hospitalized with bronchiolitis have hypoxemia, the administration of oxygen is the mainstay of therapy. Correct fluid therapy is essential to avoid dehydration and overhydration. Limited data are available on the use of drugs in the management of bronchiolitis. Although a variety of adrenergic drugs, theophylline, and corticosteroids are used, sound efficacy data are lacking, and most studies h",
+            "journal": "Clinical pharmacy",
+            "year": "1985",
+            "authors": [
+              "Nahata M C",
+              "Johnson J A",
+              "Powell D A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Anti-Infective Agents",
+              "Bronchiolitis, Viral",
+              "Bronchodilator Agents",
+              "Child, Preschool",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Oxygen Inhalation Therapy",
+              "Prognosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3891201/"
+          },
+          {
+            "pmid": "19555716",
+            "title": "Inflammatory mechanisms and treatment of obstructive airway diseases with neutrophilic bronchitis.",
+            "abstract": "Obstructive airway diseases such as asthma and chronic obstructive pulmonary disease (COPD) are major global health issues. Although considered as distinct diseases, airway inflammation is a key underlying pathophysiological process in asthma, COPD and bronchiectasis. Persistent neutrophilic airway inflammation (neutrophilic bronchitis) occurs with innate immune activation and is a feature of each of these airway diseases. Little is known about the mechanisms leading to neutrophilic bronchitis and few treatments are effective in reducing neutrophil accumulation in the airways. There is a similar pattern of inflammatory mediator release and toll like receptor 2 expression in asthma, COPD and bronchiectasis. We propose the existence of an active amplification mechanism, an effector arm of the innate immune system, involving toll like receptor 2, operating in persistent neutrophilic bronchitis. Neutrophil persistence in the airways can occur through a number of mechanisms such as impaired",
+            "journal": "Pharmacology & therapeutics",
+            "year": "2009",
+            "authors": [
+              "Simpson Jodie L",
+              "Phipps Simon",
+              "Gibson Peter G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Apoptosis",
+              "Bronchitis",
+              "Cost of Illness",
+              "Humans",
+              "Immunity, Innate",
+              "Mucus",
+              "Neutrophil Activation",
+              "Neutrophils",
+              "Phagocytosis",
+              "Pulmonary Disease, Chronic Obstructive"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19555716/"
+          },
+          {
+            "pmid": "2750638",
+            "title": "Theophylline in serum and in bronchoalveolar lavage (BAL) in atopic bronchial asthma and chronic bronchitis.",
+            "abstract": "To evaluate the penetration of theophylline into the airways its concentration (Theo-Dur, Astra, Sweden) was determined in BAL and in serum in 20 patients with atopic bronchial asthma, 24 patients with chronic bronchitis and 5 smokers as controls. The results were statistically analyzed. Slow-release theophylline in Theo-Dur was well tolerated. The mean concentrations of theophylline in BAL and serum in all analyzed groups were similar, but theophylline concentration in BAL was 1/3 of serum value. Moreover, the low correlation between concentrations of theophylline in BAL and serum was detected. The calculation of theophylline values in relation to total protein or albumin is not recommended.",
+            "journal": "Allergologia et immunopathologia",
+            "year": "1989",
+            "authors": [
+              "Plusa T",
+              "Józefczak E",
+              "Raczka A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Asthma",
+              "Bronchitis",
+              "Bronchoalveolar Lavage Fluid",
+              "Chronic Disease",
+              "Delayed-Action Preparations",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2750638/"
+          },
+          {
+            "pmid": "14159587",
+            "title": "CHRONIC BRONCHITIS AND EMPHYSEMA.",
+            "abstract": "",
+            "journal": "Modern treatment",
+            "year": "1964",
+            "authors": [
+              "DESPREZ R M",
+              "MUSCHENHEIM C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aerosols",
+              "Air Pollution",
+              "Aminophylline",
+              "Anti-Bacterial Agents",
+              "Body Weight",
+              "Bronchitis",
+              "Bronchitis, Chronic",
+              "Bronchodilator Agents",
+              "Central Nervous System Stimulants",
+              "Chymotrypsin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14159587/"
+          },
+          {
+            "pmid": "4003919",
+            "title": "The efficacy of orally administered theophylline, inhaled salbutamol, and a combination of the two as chronic therapy in the management of chronic bronchitis with reversible air-flow obstruction.",
+            "abstract": "The efficacy of bronchodilator therapy was assessed in the long-term management of patients with chronic bronchitis and varying degrees of reversible air-flow obstruction. Twenty-five patients with a mean forced expiratory volume in one second (FEV1) 38.7% predicted received: optimized doses of orally administered, sustained-release theophylline, inhaled salbutamol (200 micrograms 4 times a day), a combination of the 2 drugs, and identical placebo therapy for periods of 3 wk in a randomized, double-blind, crossover trial. Patients who deteriorated during treatment were assessed immediately and designated \"treatment failures\" if additional therapy proved necessary. Such \"failures\" occurred in 9 patients with placebo, in 8 with salbutamol, in 6 with theophylline, and in only 1 with combined therapy. Using a ranking system based on \"treatment failures\" and mean daily peak flow rates, first preference was given to combined therapy in 13 patients, theophylline in 6, salbutamol in 4, and pla",
+            "journal": "The American review of respiratory disease",
+            "year": "1985",
+            "authors": [
+              "Taylor D R",
+              "Buick B",
+              "Kinney C",
+              "Lowry R C",
+              "McDevitt D G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Aerosols",
+              "Aged",
+              "Albuterol",
+              "Bronchitis",
+              "Delayed-Action Preparations",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Lung Diseases, Obstructive"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4003919/"
+          },
+          {
+            "pmid": "23563369",
+            "title": "Chronic obstructive pulmonary disease.",
+            "abstract": "The global prevalence of physiologically defined chronic obstructive pulmonary disease (COPD) in adults aged >40 yr is approximately 9-10 per cent. Recently, the Indian Study on Epidemiology of Asthma, Respiratory Symptoms and Chronic Bronchitis in Adults had shown that the overall prevalence of chronic bronchitis in adults >35 yr is 3.49 per cent. The development of COPD is multifactorial and the risk factors of COPD include genetic and environmental factors. Pathological changes in COPD are observed in central airways, small airways and alveolar space. The proposed pathogenesis of COPD includes proteinase-antiproteinase hypothesis, immunological mechanisms, oxidant-antioxidant balance, systemic inflammation, apoptosis and ineffective repair. Airflow limitation in COPD is defined as a postbronchodilator FEV1 (forced expiratory volume in 1 sec) to FVC (forced vital capacity) ratio <0.70. COPD is characterized by an accelerated decline in FEV1. Co morbidities associated with COPD are ca",
+            "journal": "The Indian journal of medical research",
+            "year": "2013",
+            "authors": [
+              "Vijayan V K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Air Pollution",
+              "Asthma",
+              "Bronchodilator Agents",
+              "Comorbidity",
+              "Humans",
+              "India",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23563369/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "pulmonary emphysema",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01794780",
+            "title": "A 1-year Multi-center, Prospective, Cohort Study in Patients With Chronic Obstructive Pulmonary Disease Treated With Long-acting Bronchodilator",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-02-05",
+            "completion_date": "2015-05-25",
+            "country": "China",
+            "enrollment": 2229,
+            "brief_summary": "This multi-center study is designed to describe natural history of disease, treatment and health care products in physician-diagnosed COPD patients who require adding daily maintenance therapy in real world.\n\nThe study planned to enroll 550 patients in Indacaterol group and 9450 patients in non- Indacaterol group, a total of 10,000 patients. Enrollment was stopped at 2253 patients due to low recruitment in indacaterol group. Finally a total of 2229 patients were analyzed in full analysis set.\n\nA",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Willing and able to provide informed consent\n* Physician-diagnosis of COPD\n* COPD patients requiring long-acting bronchodilator treatment\n* Patients with spirometry available at baseline\n\nExclusion Criteria:\n\n* Patients who have a diagnosis of asthma.\n* Patients who had been h",
+            "endpoints": [
+              "Change From Baseline in Forced Expiratory Volume in 1 Second (FEV1)"
+            ],
+            "sponsor": "Novartis",
+            "url": "https://clinicaltrials.gov/study/NCT01794780"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04234360",
+            "title": "Eosinophil-driven Corticotherapy for Patients Hospitalized for COPD Exacerbation: a Double-blind, Randomized, Controlled Trial",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2021-10-12",
+            "completion_date": "2025-01-12",
+            "country": "France",
+            "enrollment": 600,
+            "brief_summary": "The primary objective of this study is to compare treatment failure rates between a group of eosinophilic (eosinophilia \\> 2% on day 1 of hospitalization) patients hospitalised for a COPD exacerbation treated via corticotherapy versus a similar group treated via placebo.\n\nSecondarily, treatment failure rates will also be compared between a group of non-eosinophilic patients hospitalised for a COPD exacerbation treated via corticotherapy versus a similar group treated via placebo. Study arms will",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients admitted to a participating hospital (ward, ICU or emergency services) for an acute COPD exacerbation\n* For patients with known COPD: COPD defined according to GOLD 2018 criteria: (1) Post-bronchodilator FEV1/FVC \\< 70% of predicted values; (2) \\> 10 pack years ",
+            "endpoints": [
+              "Treatment failure"
+            ],
+            "sponsor": "University Hospital, Montpellier",
+            "url": "https://clinicaltrials.gov/study/NCT04234360"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "21639960",
+            "title": "Copd.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+            "journal": "BMJ clinical evidence",
+            "year": "2011",
+            "authors": [
+              "McIvor Robert Andrew",
+              "Tunks Marcel",
+              "Todd David Charles"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adrenal Cortex Hormones",
+              "Adrenergic beta-Agonists",
+              "Humans",
+              "Muscle Strength",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Theophylline",
+              "alpha 1-Antitrypsin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21639960/"
+          },
+          {
+            "pmid": "19445783",
+            "title": "Copd.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+            "journal": "BMJ clinical evidence",
+            "year": "2008",
+            "authors": [
+              "Kerstjens Huib Am",
+              "Postma Dirkje S",
+              "Ten Hacken Nick"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adrenal Cortex Hormones",
+              "Adrenergic beta-Agonists",
+              "Cholinergic Antagonists",
+              "Humans",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Smoking",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19445783/"
+          },
+          {
+            "pmid": "22044554",
+            "title": "Can β2-adrenoceptor agonists, anticholinergic drugs, and theophylline contribute to the control of pulmonary inflammation and emphysema in COPD?",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) has become a global epidemic disease with an increased morbidity and mortality in the world. Inflammatory process progresses and contributes to irreversible airflow limitation. However, there is no available therapy to better control the inflammatory progression and therefore to reduce the exacerbations and mortality. Thus, the development of efficient anti-inflammatory therapies is a priority for patients with COPD. β(2) -Adrenoceptor agonists and anticholinergic agents are widely used as first line drugs in management of COPD because of their efficient bronchodilator properties. At present, many studies in vitro and some data obtained in laboratory animals reveal the potential anti-inflammatory effects of these bronchodilators but their protective role against chronic inflammation and the development of emphysema in patients with COPD remains to be investigated. The anti-inflammatory effects of theophylline at low doses have also been iden",
+            "journal": "Fundamental & clinical pharmacology",
+            "year": "2012",
+            "authors": [
+              "Zhang Wen-Hui",
+              "Zhang Yong",
+              "Cui Yong-Yao",
+              "Rong Wei-Fang",
+              "Cambier Carole"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-2 Receptor Agonists",
+              "Animals",
+              "Bronchodilator Agents",
+              "Cholinergic Antagonists",
+              "Disease Progression",
+              "Drug Synergism",
+              "Emphysema",
+              "Humans",
+              "Inflammation",
+              "Pulmonary Disease, Chronic Obstructive"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22044554/"
+          },
+          {
+            "pmid": "14202663",
+            "title": "[PULMONARY EMPHYSEMA].",
+            "abstract": "",
+            "journal": "Gazeta medica portuguesa",
+            "year": "1964",
+            "authors": [
+              "RIGATTO M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Aminophylline",
+              "Anti-Bacterial Agents",
+              "Central Nervous System Stimulants",
+              "Detergents",
+              "Diagnosis",
+              "Drug Therapy",
+              "Ephedrine",
+              "Epinephrine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14202663/"
+          },
+          {
+            "pmid": "26612542",
+            "title": "Chronic Use of Theophylline and Mortality in Chronic Obstructive Pulmonary Disease: A Meta-analysis.",
+            "abstract": "Theophylline has been shown to improve respiratory function and oxygenation in patients with chronic obstruction pulmonary disease (COPD). However, the impact of theophylline on mortality in COPD patients has not been not sufficiently evaluated.",
+            "journal": "Archivos de bronconeumologia",
+            "year": "2016",
+            "authors": [
+              "Horita Nobuyuki",
+              "Miyazawa Naoki",
+              "Kojima Ryota",
+              "Inoue Miyo",
+              "Ishigatsubo Yoshiaki"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-2 Receptor Agonists",
+              "Aged",
+              "Bronchodilator Agents",
+              "Cause of Death",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Muscarinic Antagonists",
+              "Observational Studies as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26612542/"
+          },
+          {
+            "pmid": "19721232",
+            "title": "Pulmonary emphysema induced by cigarette smoke solution and lipopolysaccharide in guinea pigs.",
+            "abstract": "Exposure of animals to cigarette smoke for longer than 3 months leads to the development of chronic obstructive pulmonary disease (COPD) showing pulmonary emphysema. We attempted to create a COPD model with emphysema that could be established in a shorter period of time. Guinea pigs were intratracheally treated once a day on days 0-3, 5-8, 10-13 and 15-18 with a cigarette smoke solution (CSS), which was prepared by bubbling a stream of smoke into saline. Additionally, lipopolysaccharide (LPS) was administered intratracheally as an exacerbation factor on days 4, 9 and 14. By day 19, there was a gradual elevation of specific airway resistance (sRaw). In addition, both residual volume and functional residual capacity were found to be significantly higher on day 19. In the lungs, there was a marked increase in leukocytes, especially neutrophils. Histologically, we observed epithelial hyperplasia and emphysema. On the other hand, daily oral administration of theophylline during the administ",
+            "journal": "Biological & pharmaceutical bulletin",
+            "year": "2009",
+            "authors": [
+              "Mizutani Nobuaki",
+              "Fuchikami Jun-ichi",
+              "Takahashi Maki",
+              "Nabe Takeshi",
+              "Yoshino Shin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Guinea Pigs",
+              "Lipopolysaccharides",
+              "Male",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Pulmonary Emphysema",
+              "Smoke",
+              "Solutions",
+              "Nicotiana"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19721232/"
+          },
+          {
+            "pmid": "6972851",
+            "title": "Chronic bronchitis and pulmonary emphysema.",
+            "abstract": "",
+            "journal": "Comprehensive therapy",
+            "year": "1981",
+            "authors": [
+              "Johnston R F",
+              "Mondschein F J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bronchitis",
+              "Bronchodilator Agents",
+              "Chronic Disease",
+              "Diagnosis, Differential",
+              "Humans",
+              "Metaproterenol",
+              "Phenotype",
+              "Prednisone",
+              "Pulmonary Emphysema",
+              "Respiratory Function Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6972851/"
+          },
+          {
+            "pmid": "20367966",
+            "title": "[Meta-analysis of efficacy and safety of oral theophylline in chronic obstructive pulmonary disease].",
+            "abstract": "To evaluate the efficacy and safety of oral theophylline versus placebo in patients with stable chronic obstructive pulmonary disease (COPD).",
+            "journal": "Zhonghua yi xue za zhi",
+            "year": "2010",
+            "authors": [
+              "Wang Chang-Hui",
+              "Zhang Qian",
+              "Li Ming",
+              "Fu Pei-Fang",
+              "Yan Zheng-Mao"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Humans",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Randomized Controlled Trials as Topic",
+              "Respiratory Function Tests",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20367966/"
+          },
+          {
+            "pmid": "3907486",
+            "title": "Breathing during sleep.",
+            "abstract": "Hypoxaemia during the rapid eye movement phase of sleep is common in older healthy normal subjects over 55 years of age; the sleep apnoea syndromes--such as obstructive sleep apnoea, where oro-nasal airflow ceases for more than 10 seconds on many separate occasions throughout the night, due to failure of contraction of the genio-glossus muscle; \"blue and bloated\" patients with chronic bronchitis and emphysema, where profound nocturnal hypoxaemia is common in REM sleep, and is associated with further elevation of pulmonary arterial pressure; the overlap syndrome--where \"blue and bloated\" chronic bronchitis is associated with an obstructive sleep apnoea syndrome; and bronchial asthma, where hypoxaemia is associated with irregular breathing and possibly nocturnal bronchoconstriction. Although absolute recognition depends upon all night sleep studies, monitoring of ear oxygen saturation, breathing patterns, and EEG, the clinical features when awake can lead to suspicion of sleep hypoxaemia",
+            "journal": "Annals of the Academy of Medicine, Singapore",
+            "year": "1985",
+            "authors": [
+              "Flenley D C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Airway Obstruction",
+              "Asthma",
+              "Bronchitis",
+              "Chronic Disease",
+              "Female",
+              "Humans",
+              "Hypoxia",
+              "Male",
+              "Obesity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3907486/"
+          },
+          {
+            "pmid": "3048940",
+            "title": "Chronic obstructive pulmonary disease.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is equated with chronic bronchitis and emphysema as one disease entity. In COPD airflow limitation is relatively persistent--unlike asthma. Tests for \"small-airways disease\" form no part of routine practice, for their accuracy in detecting pathological change is debatable. The proteolytic theory of the pathogenesis of emphysema highlights the role of neutrophil elastase, antielastases, oxidants, antioxidants, and thus of potential new treatments. Clinical features of COPD include breathlessness, cough, and sputum, with airflow obstruction and lung hyperinflation. The differential diagnosis includes bronchiectasis, cystic fibrosis, and pulmonary hypertension, but pulmonary fibrosis, etc., is distinguished by radiological infiltrates. Plain chest radiography cannot reliably diagnose emphysema in life, but a new method measuring lung density from the computed tomographic (CT) scan allows location, quantitation, and diagnosis of emphysema (defin",
+            "journal": "Disease-a-month : DM",
+            "year": "1988",
+            "authors": [
+              "Flenley D C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Lung Diseases, Obstructive",
+              "Respiratory Muscles",
+              "Sleep"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3048940/"
+          },
+          {
+            "pmid": "6435664",
+            "title": "The effects of theophylline and salbutamol on right and left ventricular function in chronic bronchitis and emphysema.",
+            "abstract": "We have compared the effects of oral theophylline and salbutamol on right and left ventricular function in twelve patients with chronic bronchitis and emphysema. Right and left ventricular ejection fraction (RVEF and LVEF) were measured using multiple gated radionuclide ventriculography. Theophylline 600 mg and salbutamol 4 mg both produced increases in RVEF and LVEF. There were no significant changes in blood gases after either drug. The clinical significance of the effects of oral bronchodilators on cardiac function in patients with chronic bronchitis and emphysema has yet to be determined.",
+            "journal": "British journal of diseases of the chest",
+            "year": "1984",
+            "authors": [
+              "Winter R J",
+              "Langford J A",
+              "George R J",
+              "Deacock S J",
+              "Rudd R M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Albuterol",
+              "Bronchitis",
+              "Carbon Dioxide",
+              "Cardiac Output",
+              "Chronic Disease",
+              "Heart",
+              "Heart Rate",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6435664/"
+          },
+          {
+            "pmid": "10497412",
+            "title": "[Pathophysiology and management of pulmonary emphysema].",
+            "abstract": "The predominant physiological abnormalities of pulmonary emphysema are chronic airway obstruction, hyperinflation of the lung, decrease of lung elastic recoil, and impaired gas exchange. Patient who still smokes must be advised and supported in an effort to stop smoking before medical treatment. The treatment goals are to induced bronchodilation, decreased the inflammatory change and promote expectoration to prevent the progressive deterioration in lung function and improves quality of life. Inhaled beta 2-agonists, anticholinergics, and oral theophylines, as bronchodilators improved exertional dyspnea and exercise tolerance. Inhaled and oral corticosteroids have an anti inflammatory effect for chronic airway inflammation. Comprehensive respiratory treatments including home oxygen therapy and rehabilitation are also successfully applied for these patients.",
+            "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+            "year": "1999",
+            "authors": [
+              "Yoshida M",
+              "Ishibasi M",
+              "Nishida T"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Agonists",
+              "Anti-Inflammatory Agents",
+              "Bronchodilator Agents",
+              "Cholinergic Antagonists",
+              "Humans",
+              "Lung Compliance",
+              "Oxygen Inhalation Therapy",
+              "Pulmonary Emphysema",
+              "Pulmonary Gas Exchange",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10497412/"
+          },
+          {
+            "pmid": "4926060",
+            "title": "Airway obstruction.",
+            "abstract": "",
+            "journal": "The Medical clinics of North America",
+            "year": "1971",
+            "authors": [
+              "Bocles J S",
+              "Llamas R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Ambulatory Care",
+              "Aminophylline",
+              "Anti-Bacterial Agents",
+              "Asthma",
+              "Bronchial Spasm",
+              "Bronchitis",
+              "Carbon Dioxide",
+              "Epinephrine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4926060/"
+          },
+          {
+            "pmid": "8583711",
+            "title": "[Effect of theophylline on disturbances of ventilation and of gas exchange during exercise in patients with pulmonary emphysema].",
+            "abstract": "Factors limiting exercise were studied in 23 patients with pulmonary emphysema, and the effects of theophylline on exercise tolerance and on hypercapnic ventilatory response were studied in 16 patients with pulmonary emphysema. Exercise in these patients was limited by inability to increase tidal volume and by disturbances of gas exchange, as indicated by low PaO2, high AaDO2, and high PaCO2 during exercise, and by low diffusing capacity. Theophylline increased tidal volume during exercise, but it did not improve oxygenation during exercise. Theophylline improved exercise tolerance and hypercapnic ventilatory response. The percent increases in VEmax and in VO2max after theophylline administration correlated significantly with the percent increase in the ratio of mouth occlusion pressure to PACO2 during rebreathing. These results indicate that exercise tolerance in patients with pulmonary emphysema can be improved by theophylline, probably because of an increase in ventilatory drive.",
+            "journal": "Nihon Kyobu Shikkan Gakkai zasshi",
+            "year": "1995",
+            "authors": [
+              "Senju S",
+              "Toyoshima H",
+              "Ikeda A",
+              "Aritomi T",
+              "Watanabe K"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bronchodilator Agents",
+              "Exercise Tolerance",
+              "Female",
+              "Humans",
+              "Male",
+              "Pulmonary Emphysema",
+              "Pulmonary Gas Exchange",
+              "Respiration",
+              "Theophylline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8583711/"
+          },
+          {
+            "pmid": "13797050",
+            "title": "The effect of xanthin derivatives: Ro 1-8239, aminophylline and dihydroxy theophylline on chronic pulmonary diseases.",
+            "abstract": "",
+            "journal": "Diseases of the chest",
+            "year": "1960",
+            "authors": [
+              "BARRERA F",
+              "REGALADO G G",
+              "BEZOS L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aminophylline",
+              "Chronic Disease",
+              "Diuretics",
+              "Pulmonary Emphysema",
+              "Theophylline",
+              "Xanthines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13797050/"
+          },
+          {
+            "pmid": "14159587",
+            "title": "CHRONIC BRONCHITIS AND EMPHYSEMA.",
+            "abstract": "",
+            "journal": "Modern treatment",
+            "year": "1964",
+            "authors": [
+              "DESPREZ R M",
+              "MUSCHENHEIM C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aerosols",
+              "Air Pollution",
+              "Aminophylline",
+              "Anti-Bacterial Agents",
+              "Body Weight",
+              "Bronchitis",
+              "Bronchitis, Chronic",
+              "Bronchodilator Agents",
+              "Central Nervous System Stimulants",
+              "Chymotrypsin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14159587/"
+          },
+          {
+            "pmid": "25834280",
+            "title": "Biological effects and mechanisms of action of mesenchymal stem cell therapy in chronic obstructive pulmonary disease.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is the most frequent chronic respiratory disease and a leading cause of morbidity and mortality, worldwide. Given that the foremost risk factor leading to the development of COPD is cigarette smoke, the initial treatment for COPD is smoking cessation. Even after smoking cessation, inflammation, apoptosis and oxidative stress can persist and continue to contribute to COPD. Although current therapies for COPD (which are primarily based on anti-inflammatory drugs such as corticosteroids, theophylline and bronchodilators) reduce airway obstruction, limit COPD exacerbation and improve the patient's health-related quality-of-life, none can prevent disease progression or reduce mortality. Recent advances in stem cell research have provided novel insight into the potential of bone marrow mesenchymal stem cells (MSCs) in the treatment of several pulmonary diseases. This review article discusses the biological effects and mechanisms of action of MSC t",
+            "journal": "The Journal of international medical research",
+            "year": "2015",
+            "authors": [
+              "Jin Zhixian",
+              "Pan Xinghua",
+              "Zhou Kaihua",
+              "Bi Hong",
+              "Wang Liyan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Apoptosis",
+              "Bronchodilator Agents",
+              "Cell- and Tissue-Based Therapy",
+              "Chronic Disease",
+              "Disease Progression",
+              "Humans",
+              "Inflammation",
+              "Mesenchymal Stem Cell Transplantation",
+              "Mesenchymal Stem Cells"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25834280/"
+          },
+          {
+            "pmid": "8537766",
+            "title": "[Basic and clinical study of pulmonary emphysema].",
+            "abstract": "",
+            "journal": "Nihon Naika Gakkai zasshi. The Journal of the Japanese Society of Internal Medicine",
+            "year": "1995",
+            "authors": [
+              "Yoshida M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bronchodilator Agents",
+              "Cholinergic Antagonists",
+              "Female",
+              "Humans",
+              "Male",
+              "Pulmonary Emphysema",
+              "Respiratory Function Tests",
+              "Respiratory Tract Infections",
+              "Smoking"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8537766/"
+          },
+          {
+            "pmid": "36227333",
+            "title": "Clinical pharmacokinetics of terbutaline in humans: a systematic review.",
+            "abstract": "Terbutaline is used for the management of bronchospasm associated with asthma, bronchitis, emphysema, and chronic obstructive pulmonary disease. A systematic review would be beneficial to assess the impact of routes of administration, stereoisomerism, disease states, smoking, age, exercise, and chronobiology on pharmacokinetics (PK) of terbutaline in humans. PubMed and Google Scholar databases were searched to screen all the relevant articles consisting of at least one of the PK parameters after administration of oral, inhaled, and intravenous (IV) terbutaline in humans. Oral studies of terbutaline depicted a linear relationship between plasma concentration (Cp) and the administered dose. The IV studies demonstrated multi-exponential behavior for disposition and renal clearance. Higher systemic availability was observed with inhaled as compared to oral route, and chrono-pharmacokinetic behavior was notable. Time to reach maximum plasma concentration (Tmax) was prolonged, and maximum pl",
+            "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+            "year": "2023",
+            "authors": [
+              "Sultan Khadeeja",
+              "Zamir Ammara",
+              "Ashraf Waseem",
+              "Imran Imran",
+              "Saeed Hamid"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Pregnancy",
+              "Humans",
+              "Female",
+              "Terbutaline",
+              "Asthma",
+              "Theophylline",
+              "Kinetics",
+              "Administration, Intravenous"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36227333/"
+          },
+          {
+            "pmid": "30358442",
+            "title": "Theophylline inhibits cigarette smoke-induced inflammation in skeletal muscle by upregulating HDAC2 expression and decreasing NF-κB activation.",
+            "abstract": "Inflammation is associated with skeletal muscle dysfunction and atrophy in patients with chronic obstructive pulmonary disease (COPD). Theophylline has an anti-inflammatory role in COPD. However, the effects of theophylline on inflammation in skeletal muscle in COPD have rarely been reported. The aims of this study were to explore whether theophylline has an anti-inflammatory effect on skeletal muscle in a mouse model of emphysema and to investigate the molecular mechanism underlying this effect. In mice, cigarette smoke (CS) exposure for 28 wk resulted in atrophy of the gastrocnemius muscle. Histone deacetylase 2 (HDAC2) and nuclear factor-κBp65 (NF-κBp65) mRNA and protein levels were significantly decreased and increased, respectively, in gastrocnemius muscle. This effect was revered by aminophylline. The exposure of murine skeletal muscle C2C12 cells to CS extract (CSE) significantly increased IL-8 and TNF-α levels as well as NF-κBp65 mRNA and protein levels and NF-κBp65 activity. T",
+            "journal": "American journal of physiology. Lung cellular and molecular physiology",
+            "year": "2019",
+            "authors": [
+              "Bin Yanfei",
+              "Xiao Ying",
+              "Huang Dongmei",
+              "Ma Zhiying",
+              "Liang Yi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Line",
+              "Gene Expression Regulation, Enzymologic",
+              "Histone Deacetylase 2",
+              "Inflammation",
+              "Male",
+              "Mice",
+              "Muscle, Skeletal",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Smoking"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30358442/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "intrinsic asthma",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04309877",
+            "title": "Pilot Randomized Controlled Trial of Theophylline for Attenuation of Lipopolysaccharide-Induced Depressive Symptoms",
+            "phase": "EARLY_PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2023-03",
+            "completion_date": "2025-06",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Depression is very common and poses a huge disease burden. About 20% of the US population suffers from depression at least once in their lifetime. Inflammations that are hidden inside our body as a result of aging, obesity, chronic diseases, or certain treatments (e.g., interferon for hepatitis C) appear to cause depressive symptoms and even clinical depression. Individuals with such inflammations are more likely to suffer from depression and are less likely to respond to currently available ant",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* in good general health (as evaluated during the phone and in-person screening sessions)\n* aged 18-65 years\n* if female, using adequate birth control\n\nExclusion Criteria:\n\n* history of hypersensitivity to xanthine derivatives (a contraindication to theophylline treatment)\n* pre",
+            "endpoints": [
+              "Change in depressed mood from baseline"
+            ],
+            "sponsor": "University of California, Los Angeles",
+            "url": "https://clinicaltrials.gov/study/NCT04309877"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01293734",
+            "title": "Research on Traditional Chinese Medicine (TCM) Clinical Treatment of the Acute Episode of Bronchial Asthma.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2008-12",
+            "completion_date": "2011-02",
+            "country": "N/A",
+            "enrollment": 360,
+            "brief_summary": "Bronchial asthma is a common disease and frequently encountered disease of respiratory apparatus. It has very complex mechanism and multiple inducing factors. This study will focus on a new Chinese therapy on Bronchial asthma, analyzing the treatment mechanism of internal and external use, based on Traditional Chinese Medicine (TCM) theory and clinical practice. The study will also investigate the efficacy of the Chinese drugs and treatments on Bronchial asthma, and provide an effective therapy ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 to 65 years old;\n* Patients with mild-to-moderate bronchial asthma on attacking stage;\n* Without cardiopulmonary or other complications;\n* To comply with the diagnostic standard of bronchial asthma in western medicine and TCM syndrome differentiation;\n* Informed",
+            "endpoints": [
+              "primary Symptom",
+              "physical sign",
+              "assistant examination"
+            ],
+            "sponsor": "Liaoning University of Traditional Chinese Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT01293734"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13025048ACZ",
+        "product": "Nuelin syrup 80mg/15ml",
+        "active_ingredient": "THEOPHYLLINE[80mg;15ml]",
+        "generic_name": "Theophylline 80 mg/15 ml Syrup",
+        "holder": "iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore) Malaysia Branch",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-02",
+        "date_end": "2028-03-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13025048ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13075064ACZ",
+        "product": "Nuelin SR 250 tablet",
+        "active_ingredient": "THEOPHYLLINE[250mg;0]",
+        "generic_name": NaN,
+        "holder": "iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore) Malaysia Branch",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-07-27",
+        "date_end": "2028-07-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13075064ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL13085050ACZ",
+        "product": "Nuelin SR 125 tablet",
+        "active_ingredient": "THEOPHYLLINE[125mg;0]",
+        "generic_name": NaN,
+        "holder": "iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore) Malaysia Branch",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-08-31",
+        "date_end": "2028-08-31",
+        "url": "https://npra.gov.my/index.php/search/product/MAL13085050ACZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19872133AZ",
+        "product": "PHARMANIAGA THEOPHYLLINE 125MG TABLET",
+        "active_ingredient": "THEOPHYLLINE[125MG                         ]",
+        "generic_name": "Theophylline 125 mg Tablet",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19872133AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20132342AZ",
+        "product": "Unicontin 400 controlled release tablets",
+        "active_ingredient": "THEOPHYLLINE[400;mg;;0]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-26",
+        "date_end": "2028-10-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20132342AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20132343AZ",
+        "product": "Unicontin 600 controlled release tablets",
+        "active_ingredient": "THEOPHYLLINE[600;mg;;0]",
+        "generic_name": NaN,
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-09",
+        "date_end": "2028-11-09",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20132343AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19992359ACRZ",
+        "product": "AA-Theo LA Tablet 200mg",
+        "active_ingredient": "THEOPHYLLINE[200MG                         ]",
+        "generic_name": "Theophylline 200 mg Tablet",
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-14",
+        "date_end": "2029-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19992359ACRZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19992360ACRZ",
+        "product": "AA-Theo LA Tablet 300mg",
+        "active_ingredient": "THEOPHYLLINE[300MG                         ]",
+        "generic_name": "Theophylline 300 mg Tablet",
+        "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-14",
+        "date_end": "2029-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19992360ACRZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00277",
+    "name": "Theophylline",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Theophylline"
+      },
+      "queried_at": "2026-03-04T16:58:37.249688",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Theophylline"
+      },
+      "queried_at": "2026-03-04T16:58:40.747171",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "asthma"
+      },
+      "queried_at": "2026-03-04T16:58:43.691558",
+      "status": "success",
+      "result_count": 48,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "asthma"
+      },
+      "queried_at": "2026-03-04T16:58:48.805560",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "asthma"
+      },
+      "queried_at": "2026-03-04T16:59:01.713406",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "allergic asthma"
+      },
+      "queried_at": "2026-03-04T16:59:06.802761",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "allergic asthma"
+      },
+      "queried_at": "2026-03-04T16:59:11.387311",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "allergic asthma"
+      },
+      "queried_at": "2026-03-04T16:59:20.859178",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "bronchitis"
+      },
+      "queried_at": "2026-03-04T16:59:21.710902",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "bronchitis"
+      },
+      "queried_at": "2026-03-04T16:59:38.511131",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "bronchitis"
+      },
+      "queried_at": "2026-03-04T16:59:41.404194",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "pulmonary emphysema"
+      },
+      "queried_at": "2026-03-04T16:59:41.970142",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "pulmonary emphysema"
+      },
+      "queried_at": "2026-03-04T16:59:45.846869",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "pulmonary emphysema"
+      },
+      "queried_at": "2026-03-04T16:59:48.907803",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "intrinsic asthma"
+      },
+      "queried_at": "2026-03-04T16:59:49.403606",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "intrinsic asthma"
+      },
+      "queried_at": "2026-03-04T16:59:52.551432",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Theophylline",
+        "disease": "intrinsic asthma"
+      },
+      "queried_at": "2026-03-04T16:59:55.662377",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:59:55.663201",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "upper aerodigestive tract neoplasm"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02216617",
+      "title": "A Phase I Study Evaluating the Combination Afatinib With Docetaxel and Cisplatin (TPA) in Induction Chemotherapy in Locally Advanced Squamous Cell Carcinoma of the Upper Aerodigestive Tract",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-08-06",
+      "completion_date": "2015-09-15",
+      "country": "France",
+      "enrollment": 8,
+      "brief_summary": "The purpose of the study is to determine the maximum tolerated dose (MTD) of afatinib administrated in combination with docetaxel (Taxotere®) and cisplatin in induction chemotherapy of locally advanced head and neck carcinoma in order to move to a phase II, allowing the comparison with standard induction chemotherapy TPF.\n\nIt is a multicentric, national, opened, not-randomized phase Ib. Three doses of afatinib (20, 30 and 40 Mg per day) will be studied in combination with the fixed standard dose",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years and ≤70 years\n* Patient in first line treatment of Locally Advanced HNSCC, histologically proven non-metastatic\n* At least one measurable lesion (RECIST)\n* Eligible patient for standard induction chemotherapy in the opinion of the investigator; PS ECOG \\< 2\n\nAdeq",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD)"
+      ],
+      "sponsor": "Groupe Oncologie Radiotherapie Tete et Cou",
+      "url": "https://clinicaltrials.gov/study/NCT02216617"
+    }
+  ],
+  "timestamp": "2026-03-04T16:52:50.078155",
+  "success": true,
+  "error_message": null
+}

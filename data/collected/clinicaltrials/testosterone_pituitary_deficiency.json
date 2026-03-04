@@ -1,0 +1,732 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "pituitary deficiency"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06014398",
+      "title": "Improving Survivorship and Health-related Quality of Life in Patients With Primary Brain Tumours",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-09-01",
+      "completion_date": "2025-09-01",
+      "country": "Ireland",
+      "enrollment": 50,
+      "brief_summary": "Background:\n\nApproximately 480 primary, non-pituitary, brain tumours were diagnosed in Ireland each year between 1994 and 2013. Recent developments in treatment have greatly improved survival for younger patients in the 15-54 age range. The Irish National Neurosurgical Centre and the St Luke's Radiation Oncology Centre at Beaumont Hospital and treat approximately 200 patients with brain tumours per year with a combination of surgery, radiotherapy (RT) and chemotherapy with RT being the most comm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (at least 18 years old) with a history of a primary, non-pituitary brain tumour which was previously treated with radiotherapy.\n* Participants must have been at least 16 years old at the time of undergoing radiotherapy.\n* A minimum of one year has elapsed since radiothe",
+      "endpoints": [
+        "Prevalence of radiotherapy-induced hypopituitarism"
+      ],
+      "sponsor": "Royal College of Surgeons, Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT06014398"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06826170",
+      "title": "HYPOFRACTIONATED STEREOTACTIC RADIOTHERAPY/MULTISESSION RADIOSURGERY (HSFRT/MSRS) in RESIDUAL/ RECURRENT NON SECRETING PITUITARY ADENOMAS an EXPLORATORY STUDY",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-09-14",
+      "completion_date": "2028-02",
+      "country": "Italy",
+      "enrollment": 25,
+      "brief_summary": "Single session stereotactic radiosurgery (SRS) is commonly used for patients with non-functioning adenomas. However the SRS can be limited by the proximity of the tumor with the surrounding critical structures (i.e., the optic chiasm).\n\nThe goal of the present prospective phase II trial is to investigate early and early delayed toxicity for cranial nerves and pituitary function after hypofractionated stereotactic radiotherapy/multisession radiosurgery (hSFRT/mSRS) in residual/ recurrent non secr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Residual or progressive non secreting pituitary adenoma;\n* Exclusion of other treatment approach (second surgery, wait and scan; suppressive therapy) by a multidisciplinary team\n* Age ≥ 18 years; KPS ≥ 70\n* Written privacy consent;\n* Ability to give informed consent;\n\nExclusio",
+      "endpoints": [
+        "Early and late treatment related toxicity",
+        "Impact of the treatment on visual acuity",
+        "Impact of the treatment on the visual field"
+      ],
+      "sponsor": "Fondazione I.R.C.C.S. Istituto Neurologico Carlo Besta",
+      "url": "https://clinicaltrials.gov/study/NCT06826170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02959853",
+      "title": "Aromatase Inhibitors and Weight Loss in Severely Obese Hypogonadal Male Veterans (Pilot)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2018-12-20",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "After the age of 40, there is a gradual decline in the production of testosterone. Among obese men, the decline in testosterone levels is exacerbated by the suppression of the hypothalamic-pituitary-gonadal axis by hyperestrogenemia. The high expression of aromatase enzyme in the adipose tissue enhances the conversion of androgens into estrogens which in turn exert a negative feedback on the hypothalamus and pituitary, leading to the inhibition of production of gonadotropin-releasing hormone (Gn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* severely obese (BMI \\>= 35) male veterans with hypogonadotropic hypogonadism defined as low total testosterone (lower than 300 ng/dl) between 35-65 years of age\n* Luteinizing hormone (LH) lower than 9 U/L\n* estradiol above 40 pmol/l\n* normal Free T4 (FT4), Thyroid Stimulating ",
+      "endpoints": [
+        "Percent Change in Muscle Strength as Assessed by Knee Extension and Knee Flexion",
+        "Change in Symptoms Score of Hypogonadism"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02959853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07325903",
+      "title": "Research of Integrated Traditional Chinese and Western Medicine on Precocious Puberty",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-01",
+      "completion_date": "2028-12-31",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "Precocious puberty is characterized by the premature appearance of secondary sexual characteristics. Globally, the timing of puberty onset in children has shown a certain tendency to advance. In China, the incidence of precocious puberty has been increasing year by year. Precocious puberty exerts long-term and systemic impacts on children's health: advanced bone age leads to short stature; earlier sexual development than peers may induce emotional problems such as anxiety and inferiority; it may",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* pediatric patients clinically diagnosed with precocious puberty: girls who exhibit secondary sexual characteristics or gonadal development before the age of 8, accompanied by obesity (BMI ≥ P85), and classified as having a syndrome of yin deficiency with hyperactivity of fire ",
+      "endpoints": [
+        "Breast Tanner Stages"
+      ],
+      "sponsor": "Children's Hospital of Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT07325903"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00182091",
+      "title": "Effects of Physiologic Growth Hormone Administration on Cardiovascular Risk in Subjects With Growth Hormone Deficiency Following Cure of Acromegaly",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "The purpose of the study is to evaluate the effects of growth hormone (GH) replacement in men and women with a history of acromegaly and who are now growth hormone deficient. We will compare them to persons with a history of acromegaly who have normal GH levels.\n\nAcromegaly results when an area in the brain, called the pituitary, produces too much growth hormone. When an individual is cured of acromegaly, the growth hormone levels may be normal or low (that is GH deficiency). Growth hormone defi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-75\n* History of acromegaly with biochemical cure documented with a normal oral glucose tolerance test (OGTT) and/or a non-elevated IGF-I without concurrent use of somatostatin analogs, dopamine agonists or GH receptor antagonists. Subjects will have been treated with me",
+      "endpoints": [
+        "Change in High-sensitivity C-reactive Protein"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00182091"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00080483",
+      "title": "Will Testosterone and Growth Hormone Improve Bone Structure?",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2010-09",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "Deficiency of testosterone, growth hormone, or both hormones can result in osteoporosis. If either hormone is replaced, the condition of the bones improves. The purpose of this study is to determine if dual hormone treatment for men deficient in testosterone and growth hormone improves bone structure more than testosterone treatment alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented hypothalamic or pituitary hormone deficiency\n* Testosterone deficiency, defined as total serum testosterone less than 250 ng/dL at two 8 AM readings\n* Growth hormone deficiency, defined by either of the following:\n* For subjects who have thyroxine and cortisol defic",
+      "endpoints": [
+        "MicroMRI-derived Structural (Bone Volume Fraction-BVF) of the Distal Tibia at Baseline and After One and Two Years of Treatment."
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT00080483"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05293366",
+      "title": "LOng COvid COmorbidities: Evaluation of Endocrine, Metabolic, Neuropsychiatric, Muscle, Cardiovascular, Pulmonary and Dermatologic Functions",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-01-27",
+      "completion_date": "2027-01-27",
+      "country": "Italy",
+      "enrollment": 100,
+      "brief_summary": "Considering the compelling amount of studies focused on patients in the active phase of COVID-19 disease and the scarcity of studies focused on patient cured from disease aimed at evaluating the sequelae of SARS-CoV-2 infection, the purpose of the study is to investigate whether in patients recovered from COVID-19 disease, SARS-CoV-2 infection has induced: 1) endocrine-metabolic function damage; 2) neuro-psychiatric damage; 3) muscle damage; 4) pulmonary damage; 5) cardiological damage; 6) venou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes recovered from SARS-CoV-2 infection (two negative nasopharyngeal swabs, negative IgM and positive anti SARS-CoV-2 IgG);\n* Aged over 18 years of age;\n* Ability to understand protocol procedures\n\nExclusion Criteria:\n\n* Any psychological/psychiatric/other m",
+      "endpoints": [
+        "Identification of the most frequent phenotypes of Long-COVID syndrome among for COVID-19 patients recently hospitalized and dismissed"
+      ],
+      "sponsor": "Federico II University",
+      "url": "https://clinicaltrials.gov/study/NCT05293366"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01160328",
+      "title": "Influence of Male Hormones on Regional Fat Metabolism",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2013-01",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "The male sex hormone, testosterone, plays an important role in determining body fat distribution in men. This is especially evident in the dramatic shift in body composition as boys and girls reach sexual maturity. Normal weight women have twice the body fat of a normal weight man (30% vs. 15% on average) and men will have twice the stomach fat as women (10% vs. 5% of fat as intra-abdominal, men vs. women). These are likely sex-steroid linked events. Short and long term changes in regional fat d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy, weight stable individuals\n* BMI 20-29 kg/m2\n\nExclusion Criteria:\n\n* Smoking and tobacco use\n* Diabetes and other disease\n* Anti-depressants",
+      "endpoints": [
+        "Regional Fat Metabolism"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT01160328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03167749",
+      "title": "Effect of Type and Severity of Liver Cirrhosis on Semen Parameters and Reproductive Hormones",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-01",
+      "completion_date": "2019-03",
+      "country": "N/A",
+      "enrollment": 90,
+      "brief_summary": "Normal testicular hormonal and spermatogenic function depends not only on the testis itself, but also on the integrity of the hypothalamus and anterior pituitary. Systemic diseases has been shown to influence male gonadal function in variety of ways, leading to reduced libido, erectile impotence, infertility, osteoporosis, and decreased physical stamina and muscle mass. The effect of systemic diseases may occur directly at the testicular level: reduced Leydig cell function will lead to androgen ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male patient with liver cirrhosis of any etiology and severity.\n\nExclusion Criteria:\n\n1. Systemic conditions like:chronic renal failure, diabetes mellitus, thyrotoxicosis, hypothyroidism, Cushing's disease and cancer.\n2. Local conditions like :Varicocele, urogenital infections",
+      "endpoints": [
+        "Semen parameters (volume, total sperm count and sperm concentration, motility and morphology)",
+        "Serum level of reproductive hormones (free and total testosterone, luteinizing hormone , follicle-stimulating hormone, estradiol and prolactin hormone)"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03167749"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06694506",
+      "title": "BELux Children OutcoME During A(@)Dulthood With Growth Hormone Deficiency",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-12-15",
+      "completion_date": "2029-08-01",
+      "country": "Belgium",
+      "enrollment": 200,
+      "brief_summary": "Our objective is to evaluate the outcome in adulthood of Belgian and Luxembourgish patients treated with rhGH during childhood for CO-GHD. The primary goal is to determine the proportion of adult CO-GHD patients who continue to receive regular medical follow-up and those still undergoing rhGH therapy using a questionnaire. Secondary objectives include assessing the regularity of follow-up and compliance with treatment in adulthood, evaluating possible comorbidities, health issues, lifestyle, liv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> or = 18 years\n* Diagnosed with child-hood onset growth hormone deficiency (CO-GHD) (no exclusion criteria: isolated or multiple GHD, idiopathic or organic, severe or partial)\n* Registered in the BELGROW registry (informed consent at the time of inclusion in registry)\n* ",
+      "endpoints": [
+        "Determine the proportion of adult CO-GHD patients who continue to receive regular. medical follow-up"
+      ],
+      "sponsor": "Cliniques universitaires Saint-Luc- Université Catholique de Louvain",
+      "url": "https://clinicaltrials.gov/study/NCT06694506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02338609",
+      "title": "Long-term Follow-up Study to Monitor the Growth and Development of Pediatric Patients Previously Treated With Everolimus in Study CRAD001M2301 (EXIST-LT)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-12-17",
+      "completion_date": "2023-12-18",
+      "country": "Belgium, Russia, United States",
+      "enrollment": 15,
+      "brief_summary": "The primary objective of CRAD001M2305 was to report the long-term effects of everolimus treatment on height, weight and sexual development (using Tanner Stages) in children and adolescents with Tuberous Sclerosis Complex (TSC)-associated with Subependymal Giant Cell Astrocytoma (SEGA). The study monitored the growth and development of pediatric patients with TSC-associated SEGA, previously enrolled in CRAD001M2301 (NCT00789828) until they reach Tanner Stage V, or until age 16 for females or 17 f",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric female patients who were on study treatment in study \\[CRAD001M2301\\] within the past 6 months and have not reached Tanner Stage V or age 16 at the time of completion of \\[CRAD001M2301\\] or\n* Pediatric male patients who were on study treatment in study \\[CRAD001M2301",
+      "endpoints": [
+        "Number of Participants Who Achieved Tanner Stage V at or Before Age 16 (Females) or 17 (Males)",
+        "Number of Participants With Notably Low and Notably High Height and Body Mass Index (BMI) Standard Deviation Score (SDS)",
+        "Endocrine Laboratory Values LH and FSH in Male Participants"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT02338609"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05773183",
+      "title": "Exploring the Relationship Between Androgen Metabolism, Metabolic Disease and Skeletal Muscle Energy Balance in Men",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-03-12",
+      "completion_date": "2024-08",
+      "country": "Ireland",
+      "enrollment": 60,
+      "brief_summary": "This study relates to men with hypogonadism, a condition describing a deficiency of androgens such as testosterone. Deficiency of these hormones occurs in men due to testicular (primary) or hypothalamic-pituitary (secondary) problems or may be observed in men undergoing androgen deprivation therapy for prostate cancer.\n\nTestosterone plays an important role in male sexual development and health, but also plays a key role in metabolism and energy balance. Men with testosterone deficiency have high",
+      "eligibility_criteria": "Inclusion Criteria \\[OBS1 \\& IC1\\]:\n\n* Able to provide consent\n* Ages 18 - 60 years\n* BMI 20 - 35 kg / m2\n\nInclusion Criteria \\[IC2\\]:\n\n* Able to provide consent\n* Ages 40-85 years\n* BMI 20 - 35 kg / m2\n\nExclusion Criteria \\[OBS1 \\& IC1\\]:\n\n* Contraindication to testosterone replacement for patients",
+      "endpoints": [
+        "To compare differences in non-targeted serum and skeletal muscle metabolomics in men with hypogonadism compared to controls",
+        "To compare differences in non-targeted serum and skeletal muscle metabolomics in men with hypogonadism pre and post testosterone replacement",
+        "To compare differences in steroid metabolomics in men with prostate cancer pre- and post-androgen deprivation therapy (ADT)"
+      ],
+      "sponsor": "Royal College of Surgeons, Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT05773183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04090333",
+      "title": "Endocrinological Profile in Patients With Medication-overuse Headache Before",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-08-01",
+      "completion_date": "2020-10-01",
+      "country": "Denmark",
+      "enrollment": 50,
+      "brief_summary": "The project will be conducted to investigate the hormonal homeostasis in men and women, with a special emphasis on sex hormones in men and AMH level in women, before and after withdrawal of the overused analgesics among MOH patients. Additionally, a more broad endocrine profile will be explored before and after withdrawal.\n\nIt is hypothesized that patients with MOH have disturbed hormone levels, which is normalized after withdrawal of the medication-overuse.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed MOH diagnosis according to the ICHD-III (1).\n* Capable of completing headache diary and headache calendar\n* Age 18-60 years old for men and 18-50 years old for women\n* Signed informed consent\n* BMI 19-30\n\nExclusion Criteria:\n\n* Severe physical illness\n* Severe psychi",
+      "endpoints": [
+        "Comparison of levels of following circulating and excreted hormones in the pituitary-gonadal axis at baseline and after 2 months of withdrawal"
+      ],
+      "sponsor": "Danish Headache Center",
+      "url": "https://clinicaltrials.gov/study/NCT04090333"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04700020",
+      "title": "(Partial) Empty Sella - Incidental Finding or the Cause of Hormonal Dysregulation?",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-10-14",
+      "completion_date": "2021-05",
+      "country": "Belgium",
+      "enrollment": 60,
+      "brief_summary": "The goal of this prospective study is to analyse the hormonal components in the blood of patients that were diagnosed with empty sella. Hereby we only take the hormones into consideration that are produced by the pituitary gland and/or are influenced by it due to positive/negative feedback. These are GH, ACTH, TSH, FSH, LH, PRL, oxytocine, ADH but also IGF-1, estradiol, testosteron, F4 and cortisol. The purpose is to see if abnormalities of the blook levels can be explained by the absence/shrink",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients that were diagnosed with an (partial) empty sella detected by MRI or CT of the brain have been included in this study. Whenever the MRI or CT scan was performed more than two years ago, a new MRI scan was required.\n\nExclusion Criteria:\n\n* Children (patients less than ",
+      "endpoints": [
+        "The proportion of patients that have hormone deficiency"
+      ],
+      "sponsor": "Universitair Ziekenhuis Brussel",
+      "url": "https://clinicaltrials.gov/study/NCT04700020"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03490513",
+      "title": "Aromatase Inhibitors and Weight Loss in Severely Obese Men With Hypogonadism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-04-15",
+      "completion_date": "2025-05-31",
+      "country": "United States",
+      "enrollment": 121,
+      "brief_summary": "The investigators have preliminary data suggesting that obese patients with hypogonadotropic hypogonadism (HHG) have minimal benefit from testosterone therapy likely because of its conversion to estradiol by the abundant aromatase enzyme in the adipocytes. The increased conversion of androgens into estrogens in obese men results in a negative feedback of high estradiol levels on hypothalamus and pituitary, inhibiting the production of gonadotropin-releasing hormone (GnRH), luteinizing hormone (L",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* obese men with body mass index (BMI) of ≥35 kg/m2\n* age between 40 to 65 years old\n* average fasting testosterone level from 2 measurements taken between 8 to 10 AM on 2 separate days of \\<300 ng/dl\n* Luteinizing Hormone (LH) of \\<9.0 mIU/L\n* Estradiol of ≥17 pg/ml\n* Symptoms ",
+      "endpoints": [
+        "Hormonal Profile Changes",
+        "Changes in muscle strength",
+        "Changes in Lean mass"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03490513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06618703",
+      "title": "Endocrine Follow-up After Cerebral Radiotherapy Performed Before Age 16 (Direct Cerebral Field or Following Facial, Cervical or High Ear, Nose, and Throat Radiotherapy)",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-03",
+      "completion_date": "2030-10",
+      "country": "N/A",
+      "enrollment": 230,
+      "brief_summary": "BICHE- 1: Brain Irradiation for Childhood cancer - Endocrine monitoring during the first five years is a study of endocrine monitoring after cerebral radiotherapy.\n\nThe study concerns patients in remission at the end of oncological treatment aged between 4 and 18 years at the time of inclusion and who have had radiotherapy before the age of 16, irradiating all or part of the brain, with a delay between the end of radiotherapy and inclusion of less than 5 years. Patients will be included during a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient aged 4 years or more (≥4) and less than 18 years (\\<18) at inclusion\n* Treated with radiotherapy to part or all of the brain for cancer or hematological malignancy before age 16 (≤15)\n* Post-radiotherapy time less than or equal to 5 years (≤5)\n* In remission of this pa",
+      "endpoints": [
+        "Endocrine toxicities assessment after radiotherapy involving all or part of the brain in children, adolescents and young adults treated for cancer before the age of 16 (≤15 years)"
+      ],
+      "sponsor": "University Hospital, Angers",
+      "url": "https://clinicaltrials.gov/study/NCT06618703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00144404",
+      "title": "Baseline Sexual Function, Cognitive Function, Body Composition and Muscle Parameters and Pharmacokinetics of Transdermal Testosterone Gel in Women With Hypopituitarism",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2002-08",
+      "completion_date": "2002-08",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to determine the blood levels of testosterone gel administered for a week to women with hypopituitarism and determine if this leads to testosterone replacement in a normal range for women. An additional objective is to determine the baseline laboratory abnormalities and physical, brain function, emotional and sexual symptomatology of these women with hypopituitarism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women age 18-55\n* Hypopituitarism with documented central adrenal and gonadal deficiencies. Serum testosterone level of \\< 20 ng/dl or free testosterone \\<1.5 pg/ml on conjugated equine estrogen replacement\n* No other significant medical condition\n* Weight between 80 and 150% ",
+      "endpoints": [
+        "The purpose of this study is to determine the pharmacokinetics of testosterone gel 2 mg/d administered for a week to women with hypopituitarism and determine if this leads to testosterone replacement in a physiologic range."
+      ],
+      "sponsor": "Charles Drew University of Medicine and Science",
+      "url": "https://clinicaltrials.gov/study/NCT00144404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00638053",
+      "title": "Head Trauma With Traumatic Brain Injury (TBI): A Multicenter, Phase IV Study to Evaluate the Effects of Genotropin in Adult Patients With Growth Hormone Deficiency (GHD) Caused by Trauma and/or Head Injury",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2002-11",
+      "completion_date": "2003-11",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to assess the prevalence of GHD in patients who sustain a head injury or suffer a major traumatic event and to evaluate the efficacy of growth hormone (GH) therapy in the treatment of GHD caused by trauma or head injury",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented GHD\n* Documented mild, moderate, and severe head injury (e.g.,Glasgow COMA Scale score less than or equal to 15 or equivalent measure)\n\nExclusion Criteria:\n\n* Active systemic malignancy or active intracranial tumor\n* Growth hormone replacement therapy in the last 12",
+      "endpoints": [
+        "Change in the serum Insulin-like growth factor-I (IGF-I)concentration from baseline",
+        "Number of patients with abnormal GH stimulation tests"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00638053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392756",
+      "title": "Role of Gonadotropin Pulsations in the Reversal of Hypogonadotropic Hypogonadism",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-04",
+      "completion_date": "2019-05-16",
+      "country": "United States",
+      "enrollment": 624,
+      "brief_summary": "The purpose of the study is to examine how Kallmann syndrome (KS) and idiopathic hypogonadotropic hypogonadism (IHH) affect reproductive hormones. These disorders are caused by a defect in Gonadotropin Releasing Hormone (GnRH) secretion. GnRH is a hormone released by a small gland in the brain called the hypothalamus. When GnRH is released, it signals another gland in the brain, the pituitary, to secrete the reproductive hormones that influence sex hormone (testosterone, estrogen) levels and gam",
+      "eligibility_criteria": "Eligibility\n\nAges Eligible for Study:\n\n* Adolescents (16-17yrs)\n* Adults (18 years and older)\n\n  * Genders Eligible for Study:\n* Male and Female\n\n  * Accepts Healthy Volunteers:\n* No\n\nCriteria\n\nInclusion Criteria:\n\n* adolescent boys (age 16-17 years) and adult male individuals (age 18 years and olde",
+      "endpoints": [
+        "endogenous LH secretion pattern"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00392756"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07109622",
+      "title": "A Randomized, Double-blind, Placebo-controlled Pilot Study to Evaluate the Efficacy of LN18178 on Improving Sperm Virility (Sperm Motility, Sperm Concentration, and Sperm Morphology)",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-08-08",
+      "completion_date": "2026-02-10",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of LN18178 on improving sperm virility.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males aged between 25-45 years with a Body Mass Index (BMI) of 20-29 kg/m2.\n2. Subjects with a history of infertility of at least 12 months despite regular unprotected intercourse.\n3. Subjects with semen analysis showing abnormal sperm concentration (\\< 16 million/ml), progre",
+      "endpoints": [
+        "Change in motility (% Motile Sperms) using manual microscopic examination."
+      ],
+      "sponsor": "GENCOR Lifestage Solutions",
+      "url": "https://clinicaltrials.gov/study/NCT07109622"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04760691",
+      "title": "A Phase I Trial for the Evaluation of the Two-way Pharmacokinetic-pharmacodynamic (PD) Interaction of Gender Affirming Exogenous Estrogen (With Testosterone Suppression) on TDF/FTC PrEP in Transgender Women (TGW)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2021-03-01",
+      "completion_date": "2025-03-24",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "This is a research study to determine the best way to dose Truvada®, an oral medication licensed to be taken as Pre-Exposure Prophylaxis (PrEP) to prevent HIV infection, in transgender women who are also taking feminizing hormones. The duration of the study is about 4 months, and involves a screening visit, a baseline visit with colon biopsies and kidney function testing, and several outpatient visits, including 5 intensive sampling visits that last about 9 hours and involve colon biopsies, kidn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18 years of age or older\n2. Self-identifying as a transgender woman\n3. Not currently taking any gender affirming hormonal therapy (GAHT) with a total testosterone concentration of ≥ 200 ng/dL, or willing to abstain from feminizing therapies (including estradiol, spironolacton",
+      "endpoints": [
+        "Change in Tenofovir plasma concentration",
+        "Change in Tenofovir-Diphosphate PBMC concentration",
+        "Change in TFV-DP colon tissue concentration"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT04760691"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05289986",
+      "title": "Switch from Stable CART Containing ABA/3TC or TAF/FTC Plus Dolutegravir or Bictegravir to TDF/3TC/doravirine in People Living with HIV: Impact on Lipids, Body Composition, Insulin Sensitivity, Neuroendocrine Function and Inflammation Markers",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2023-11-21",
+      "completion_date": "2024-11-21",
+      "country": "United Kingdom",
+      "enrollment": 18,
+      "brief_summary": "This is an open label, randomised, two-arm switch study over 48 weeks in which virally suppressed participants on a stable combined ART regimen will be randomised (1:1) to an immediate switch to 3TC/TDF/DOR (immediate switch arm, N=30) for the duration of the 48-week study, or to maintaining their current cART followed by a switch to 3TC/TDF/DOR from week 24-48 (delayed switch arm, N=30). Participants will be monitored for the length of the study (48 weeks) plus a 30-day follow-up period.\n\nIf pa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected, 18 years or older\n* On stable \\& suppressive triple cART containing ABA/3TC or TAF/FTC plus dolutegravir or bictegravir for at least 6 months\n* No evidence of resistance to TDF, 3TC, or DOR\n* No laboratory abnormalities, medical/psychiatric conditions or alcoho",
+      "endpoints": [
+        "To quantify the effect on lipid profile"
+      ],
+      "sponsor": "Chelsea and Westminster NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT05289986"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02357498",
+      "title": "Prospective Multicenter Cohort Study Comparing Extent of Tumor Resection Between Microscopic Transsphenoidal Surgery and Fully Endoscopic Transsphenoidal Surgery for Nonfunctioning Pituitary Adenomas",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-02-01",
+      "completion_date": "2019-04-08",
+      "country": "United States",
+      "enrollment": 260,
+      "brief_summary": "The purpose of this research study is to compare the extent of resection (EOR) in patients with nonfunctioning pituitary adenomas undergoing transsphenoidal surgery using a microsurgical technique to those patients who have undergone surgery with a fully endoscopic technique. Another goal is to compare surgical complications, endocrine outcomes, visual outcomes, length of surgery, length of hospital stay, and readmission rates between the two transsphenoidal surgery techniques. This is an observ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with suspected nonfunctioning pituitary macroadenomas (≥ 1 cm) with planned transsphenoidal surgery\n* Adults (age 18-80 years)\n* Medically stable for surgery\n* Reasonable expectation that patient will complete study and be available for follow-up assessments\n\nExclusio",
+      "endpoints": [
+        "percentage of patients who have complete tumor removal (gross total resection) based on MRI ."
+      ],
+      "sponsor": "St. Joseph's Hospital and Medical Center, Phoenix",
+      "url": "https://clinicaltrials.gov/study/NCT02357498"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05835089",
+      "title": "Evaluation of Some-puberty Related Hormones Among Children and Adolescents With Chronic Kidney Diseases",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-05",
+      "completion_date": "2024-05",
+      "country": "Egypt",
+      "enrollment": 50,
+      "brief_summary": "Puberty is the process of transition from childhood into adolescence, signaling the readiness of the human body for reproduction. The Hypothalamic-Pituitary Gonadotropin axis plays the primary role in initiating the puberty, where the hypothalamus secrets gonadotropin releasing hormone (GnRH) in a pulsatile manner, which in turn stimulates the release of luteinizing hormone (LH), and follicle stimulating hormone (FSH) from the anterior lobe of the pituitary gland, and in a final step these hormo",
+      "eligibility_criteria": "Inclusion Criteria:Children and Adolescents aged 8 to 18 years, diagnosed with CKD and attending the pediatric nephrology clinic and the pediatric dialysis unit at Sohag University Hospital will be included.\n\nIn addition, Age- and sex-matched controls will be included from children and adolescents a",
+      "endpoints": [
+        "The serum level of Kisspeptin levels"
+      ],
+      "sponsor": "Sohag University",
+      "url": "https://clinicaltrials.gov/study/NCT05835089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00144391",
+      "title": "Physiologic Testosterone Replacement in Women With Hypopituitarism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The principal aim of this study is to evaluate if application of testosterone gel leads to improvement in measures of sexual function, thinking ability and quality of life in women with dysfunction of the pituitary gland. A secondary purpose is to determine the effects of testosterone replacement on body composition and muscle function and strength.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women age 18-55\n* Hypopituitarism with central adrenal and/or gonadal deficiencies. To qualify patients will need to have either 1 or 2 and they need to have 3:\n\n  1. To diagnose central adrenal deficiency, patients not on glucocorticoid replacement will have an insulin tolera",
+      "endpoints": [
+        "Fatigue Impact Scale"
+      ],
+      "sponsor": "Charles Drew University of Medicine and Science",
+      "url": "https://clinicaltrials.gov/study/NCT00144391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00286676",
+      "title": "The Use of Nutropin Depot in HIV-infected Adult Males",
+      "phase": "PHASE2, PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2006-02-01",
+      "completion_date": "2006-02-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This is a pilot study. We will treat 10 HIV-infected adults (1/2 with lipoatrophy) with GH depot for one year. Results will be compared to data from 10 HIV patients (1/2 with lipoatrophy), treated with Nutropin AQ subcutaneously. The primary endpoint of the study is to determine the effect of GH depot on body weight and lean tissue mass (LTM).\n\nThe secondary endpoints are to document changes in: 1) whole body protein turnover (WBPT), 2) gluconeogenesis, 3) bone mineral density and markers of bon",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult males ≥ 18 years of age\n* mild to moderate lipoatrophy\n* stable protease inhibitor therapy for at least six months.\n\nExclusion Criteria:\n\n* Con-current supra-infection with acute illness defined by fever or bacterial culture\n* malignancy\n* females\n* diabetes mellitus\n* C",
+      "endpoints": [
+        "1) body weight",
+        "2) lean tissue mass (LTM).",
+        "Testosterone levels"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00286676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01666964",
+      "title": "Prevalence of Hypopituitarism Following Combat-related Traumatic Brain Injury in a Military Population",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2012-10",
+      "completion_date": "2015-05",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "We would like to ascertain the prevalence of hypopituitarism after combat-related TBI. This will lead to enhanced awareness, recognition, and treatment of hypopituitarism, which can have life-saving ramifications and enhance quality of life and rehabilitation efforts in our combat veterans.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Combat veterans who are 3 or 6 months post combat-related TBI and age 18yrs or older\n* Must demonstrate capacity for informed consent\n* Must be DEERS eligible (Military healthcare beneficiary)\n\nExclusion Criteria:\n\n* Pregnancy (to be assessed by urine HCG)\n* Use of hormonal co",
+      "endpoints": [
+        "Prevalence of anterior pituitary dysfunction"
+      ],
+      "sponsor": "Walter Reed National Military Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01666964"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00493961",
+      "title": "The Effects of 7 Days of Exogenous Pulsatile GnRH Treatment on the Pituitary-Gonadal Axis in Hypogonadotropic Hypogonadal Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1999-01",
+      "completion_date": "2009-11-17",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "Men with Idiopathic Hypogonadotropic Hypogonadism (IHH) lack a hormone called gonadotropin releasing hormone (GnRH). This hormone is important for starting puberty, maintaining testosterone levels, and fertility. The purpose of this study is to research the effects of treating IHH men with GnRH for 7 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of idiopathic hypogonadotropic hypogonadism (IHH) or Kallmann syndrome (KS)Adult male 18-65 years of age\n* Serum testosterone \\<100 ng/dL\n\nExclusion Criteria:\n\n* No specific exclusion criteria",
+      "endpoints": [
+        "testosterone",
+        "LH",
+        "FSH"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00493961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04465565",
+      "title": "Fluids Administration During Combined Clonidine-Arginine Growth Hormone Stimulation Test- Randomized, 2 Arms, Controlled Study",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2020-12",
+      "completion_date": "2022-08",
+      "country": "Israel",
+      "enrollment": 0,
+      "brief_summary": "The diagnosis of Growth Hormone deficiency in childhood requires the performance of an artificial pharmacological stimulation tests. There are number of substances that increase the secretion of growth hormone, among them Clonidine and Arginine. One of the possible side effects of both Clonidine and Arginine is a reduction in the blood pressure due to a decreased heart output and declined contraction of peripheral blood vessels. In cases where values of blood pressure at the end of the test are ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children referred to combined Arginine- Conidine Growth Hormone stimulation test\n* Girls: 7-14 years old and Boys: 7-16 years old\n* Weight\\>20 kg\n* Normal thyroid function\n\nExclusion Criteria:\n\n* BMI over percentile 85\n* Genetic syndromes or chromosomal disorders\n* Steroid tre",
+      "endpoints": [
+        "Average blood pressure"
+      ],
+      "sponsor": "Rabin Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04465565"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02204826",
+      "title": "Effects of Korean Red Ginseng on Semen Parameters in Male Infertility Patients: a Randomized, Placebo-controlled, Double-blind Clinical Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2013-12",
+      "country": "South Korea",
+      "enrollment": 80,
+      "brief_summary": "Korean Red ginseng (KRG) has long been applied to various diseases as a health-promoting herbal medicine in Korea. Many clinical studies of ginseng have been performed to elucidate its therapeutic characteristics. KRG has been shown to be effective in many diseases, such as cancers, hypertension, Alzheimer's disease, diabetes, acquired immune deficiency syndrome, and sexual dysfunction. Several studies have indicated effects of ginseng on improving spermatogenesis in animals. The major mechanism",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients should be males, 25 - 45 years of age, who had complained of infertility for at least 12 months, and had no history of surgical or medical treatments for infertility.\n* Increased retrograde flow in the internal spermatic vein with venous diameter \\> 3 mm during the Va",
+      "endpoints": [
+        "Semen parmaters change from baseline to post-treatment"
+      ],
+      "sponsor": "Pusan National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02204826"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02976350",
+      "title": "Multiple Hormone Deficiency Syndrome in Heart Failure With Preserved Ejection Fraction",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2015-09",
+      "country": "Italy",
+      "enrollment": 35,
+      "brief_summary": "The objective of this study is to describe the prevalence of Multiple Hormone Deficiencies in Heart Failure with preserved Ejection Fraction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male patients of affected by CHF, secondary to ischemic or idiopathic dilated cardiomyopathy\n* left ventricle ejection fraction \\> 50% or more\n\nExclusion Criteria:\n\n* severe liver disease\n* serum creatinine levels \\>2.5 mg/dl\n* history of active cancer with life expectancy bel",
+      "endpoints": [
+        "Prevalence of Hormone deficiency"
+      ],
+      "sponsor": "Federico II University",
+      "url": "https://clinicaltrials.gov/study/NCT02976350"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01397500",
+      "title": "Growth Hormone and Gonadotropin Deficiency After Brain Injury (Traumatic Brain Injury, Subarachnoidal Hemorrhage, Ischemic Stroke): the Effects of Hormone Replacement on Cognition, Quality of Life and Body Composition",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-11",
+      "completion_date": "2015-03",
+      "country": "Germany",
+      "enrollment": 54,
+      "brief_summary": "Growth hormone and gonadotropin deficiency after brain injury (traumatic brain injury, ischemic stroke, subarachnoidal hemorrhage): the effects of hormone replacement on cognition, quality of life and body composition Randomized, controlled, 3 arm (group 2: double-blind; groups 1 and 3: open), multi-center, pilot study (Phase II)",
+      "eligibility_criteria": "Inclusion Criteria:\n\nGroup 1:\n\n1. Age\n2. F/M\n3. Stable phase after TBI, SAH or IS\n4. Stable substitution of other hormonal axes\n5. GH below 6 ng/ml after stimulation with ITT or GH below cut-off in GHRH/arginine test using BMI-adjusted cut-off limits, GHRH/arginine test should be done only in patien",
+      "endpoints": [
+        "Quality of Life"
+      ],
+      "sponsor": "Max-Planck-Institute of Psychiatry",
+      "url": "https://clinicaltrials.gov/study/NCT01397500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02946606",
+      "title": "A Randomized, Active-controlled, Multiple-dose, Open-label Study to Evaluate the Safety, Tolerability, and Efficacy of the Long-acting Antibody-fused Recombinant Human Growth Hormone (GX-H9) in Adult Growth Hormone Deficiency (AGHD)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2016-12-30",
+      "country": "South Korea",
+      "enrollment": 45,
+      "brief_summary": "This is a randomized, active-controlled, open-label, sequential dose group, Phase 1b/2 study designed to assess the safety, tolerability, efficacy, pharmacokinetics, and pharmacodynamics of weekly and every other week doses of GX-H9 in the treatment of AGHD.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nEach subject must meet all of the following criteria to be enrolled in this study:\n\n1. Is a male or female aged ≥20 and 65 years with AGHD, either adult onset GHD due to hypothalamic pituitary disease or childhood onset GHD that is either idiopathic or due to hypothalamic pituit",
+      "endpoints": [
+        "The change in insulin-like growth factor-1 (IGF-1) levels in relation to time and dose strength"
+      ],
+      "sponsor": "Genexine, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02946606"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01880086",
+      "title": "Clomiphene Citrate for the Treatment of Opioid-Induced Androgen Deficiency: Randomized Controlled Clinical Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-08",
+      "completion_date": "2017-11",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "The purpose of this randomized controlled clinical trial is to evaluate the effects of clomiphene citrate compared to placebo (substance without active medication) in men who are taking pain medication (opioids) for chronic pain conditions and who have low blood testosterone levels.\n\nThe condition of men having low testosterone with long-term pain medication (opioid) usage is called opioid-induced androgen deficiency (OPIAD). Low testosterone can be caused by pain medication effects on part of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male\n* 18 years to 65 years\n* Low testosterone as defined by criteria (serum total testosterone \\<350 ng/dl in men \\<55 years, \\<300 ng/dl in men 55-65 years)\n* EITHER taking opioid pain medication (see A below) OR planning to start new pain medication regimen (see B below)\n* ",
+      "endpoints": [
+        "Serum Total Testosterone (Change From Baseline)"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT01880086"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511588",
+      "title": "The Role of Gonadotropin Pulsations in the Regulation of Puberty and Fertility",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04-25",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "Background:\n\n\\- The body produces gonadotropin-releasing hormone (GnRH) about every 2 hours. GnRH travels through the bloodstream to the pituitary gland, where it stimulates the gland to produce hormones called gonadotropins. These hormones stimulate the testicles or ovaries. The testicles produce testosterone and develop sperm. The ovaries produce estrogen and prepare for ovulation. Normal estrogen and testosterone levels are required for puberty. Some people, however, have either low levels or",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nSince hypogonadotropic hypogonadism is a rare condition, with an incidence of 1/10,000 to 1/86,000 for isolated GnRH deficiency (43, 44), this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating. Males o",
+      "endpoints": [
+        "The main outcome is the identification of novel GnRH secretory patterns or non-reproductive phenotypic characteristics in individuals representing the complete spectrum of idiopathic hypogonadotropic hypogonadism."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01511588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03652987",
+      "title": "Evaluation of Endocrine and Menstrual Disturbances in Women With Polycystic Ovary Syndrome (PCOS): Impact of Weight, Metabolic Status, Age and Ethnicity.",
+      "phase": "N/A",
+      "status": "SUSPENDED",
+      "start_date": "2018-09-05",
+      "completion_date": "2023-09",
+      "country": "United Kingdom",
+      "enrollment": 300,
+      "brief_summary": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder in reproductive age women, which causes disordered follicle growth and ovulation resulting in infertility. In addition women with PCOS have hyperandrogenemia and a dysregulated hormonal profile, resulting in altered feedback on the hypothalamic-pituitary-gonadal (HPG) axis. Obesity, insulin resistance, vitamin D (VD) deficiency and ageing worsen the symptoms. The gonadotrophins - follicle stimulating hormone (FSH) \\& luteinising hor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal women with PCOS (Rotterdam criteria) attending the endocrine clinic, aged between 18-45 years\n\nExclusion Criteria:\n\n* There is a clear exclusion criteria under the Rotterdam criteria; age \\<18 years or \\>45 years; oral contraceptive use within 3 months prior to r",
+      "endpoints": [
+        "Assay measurements of hormones in blood and urine samples i.e. testosterone, SHBG, FSH, LH, VD, AMH, fasting insulin & glucose."
+      ],
+      "sponsor": "St George's, University of London",
+      "url": "https://clinicaltrials.gov/study/NCT03652987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07361263",
+      "title": "Plasma Oxytocin in Response to Oral Estradiol Valerate and Ethinylestradiol in Healthy Controls and Patients With AVP-Deficiency",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2026-01-09",
+      "completion_date": "2027-02",
+      "country": "Switzerland",
+      "enrollment": 28,
+      "brief_summary": "The PHOENIX study aims to investigate whether oral estradiol valerate (EV) and ethinylestradiol (EE) can stimulate oxytocin (OXT) and neurophysin-1 (NP-1) release in humans. The goal is to assess their potential as a safe diagnostic stimulation test for oxytocin deficiency, particularly in patients with arginine vasopressin (AVP) deficiency.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPart 1\n\n1. Adult healthy controls\n2. No medication (including hormonal contraception)\n3. Female patients (except post-menopausal): regular cycle (21-35 days of duration) in the last 6 months\n\nPart 2\n\n1. Confirmed diagnosis of AVP-Deficiency\n2. Age ≥ 18 years\n3. Female patients (",
+      "endpoints": [
+        "Relative Change in Plasma Oxytocin",
+        "Relative Change in Neurophysin-1"
+      ],
+      "sponsor": "University Hospital, Basel, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT07361263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01280292",
+      "title": "Central Hypothyroidism,a New Laboratory Approach for Hormone Measurement",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-02",
+      "completion_date": "2013-07",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "Medical management of central hypothyroidism is controversial due to lack of reference for evaluation of pituitary negative feedback. Therefore, titration of medical treatment is based on T4 levels, measured with variable laboratory methods. Patients who have central hypothyroidism usually have concomitant deficiencies in other pituitary hormones for which they need replacement therapy such as steroids, testosterone and growth hormone. This combined hormone deficiency makes clinical and laborato",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical evidence of central hypothyroidism: status post pituitary surgery and/or radiotherapy plus laboratory documentation of central hypothyroidism, with or without concurrent hormonal deficiencies in other axes, such as ACTH, LH, FSH\n\nExclusion Criteria:\n\n* Primary hypothy",
+      "endpoints": [
+        "free T4 levels"
+      ],
+      "sponsor": "Sheba Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01280292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02672592",
+      "title": "Effects of IL-1 Beta on the Hypothalamic-pituitary-gonadal (HPG) Axis in Men With Obesity and Metabolic Syndrome - The TestIL Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2017-06",
+      "country": "Switzerland",
+      "enrollment": 70,
+      "brief_summary": "Obesity and the metabolic syndrome in men are associated with a high prevalence of hypogonadism of up to 50%. Increased fat mass leads to augmented release of adipocytokines and pro-inflammatory cytokines such as IL-1-beta, IL-6 and tumor necrosis factor-alpha which in turn suppress the hypothalamic-pituitary-gonadal (HPG) axis, leading to hypogonadism. This pathophysiological interplay is termed hypogonadal-obesity-adipocytokine hypothesis. TestIL is a prospective, multicenter, randomized, doub",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Informed consent as documented by signature,\n2. Men at the age between 18 and 75 years,\n3. BMI \\>30 kg/m2 and at least 1 manifestation of the metabolic syndrome (i.e. prediabetes, diabetes, hypertension, dyslipidemia),\n4. Total testosterone level \\<12 nmol/l.\n\nExclusion Crite",
+      "endpoints": [
+        "Total morning testosterone (nmol/l)"
+      ],
+      "sponsor": "University Hospital, Basel, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT02672592"
+    }
+  ],
+  "timestamp": "2026-03-04T16:26:42.303571",
+  "success": true,
+  "error_message": null
+}

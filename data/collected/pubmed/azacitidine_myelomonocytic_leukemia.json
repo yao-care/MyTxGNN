@@ -1,0 +1,555 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Azacitidine",
+    "disease": "myelomonocytic leukemia",
+    "query_string": "Azacitidine AND myelomonocytic leukemia"
+  },
+  "data": {
+    "query": "Azacitidine AND myelomonocytic leukemia",
+    "results": [
+      {
+        "pmid": "33796386",
+        "title": "Juvenile myelomonocytic leukemia-A comprehensive review and recent advances in management.",
+        "abstract": "Juvenile myelomonocytic leukemia (JMML) is a rare pediatric myelodysplastic/myeloproliferative neoplasm overlap disease. JMML is associated with mutations in the RAS pathway genes resulting in the myeloid progenitors being sensitive to granulocyte monocyte colony-stimulating factor (GM-CSF). Karyotype abnormalities and additional epigenetic alterations can also be found in JMML. Neurofibromatosis and Noonan's syndrome have a predisposition for JMML. In a few patients, the RAS genes (NRAS, KRAS, and PTPN11) are mutated at the germline and this usually results in a transient myeloproliferative disorder with a good prognosis. JMML with somatic RAS mutation behaves aggressively. JMML presents with cytopenias and leukemic infiltration into organs. The laboratory findings include hyperleukocytosis, monocytosis, increased hemoglobin-F levels, and circulating myeloid precursors. The blast cells in the peripheral blood/bone-marrow aspirate are less than 20% and the absence of the BCR-ABL transl",
+        "journal": "American journal of blood research",
+        "year": "2021",
+        "authors": [
+          "Gupta Aditya Kumar",
+          "Meena Jagdish Prasad",
+          "Chopra Anita",
+          "Tanwar Pranay",
+          "Seth Rachna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33796386/"
+      },
+      {
+        "pmid": "34985762",
+        "title": "Chronic myelomonocytic leukemia: 2022 update on diagnosis, risk stratification, and management.",
+        "abstract": "Chronic myelomonocytic leukemia (CMML) is a clonal hematopoietic stem cell disorder with overlapping features of myelodysplastic syndromes and myeloproliferative neoplasms, with an inherent risk for leukemic transformation (~15% over 3-5 years).",
+        "journal": "American journal of hematology",
+        "year": "2022",
+        "authors": [
+          "Patnaik Mrinal M",
+          "Tefferi Ayalew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chromosome Aberrations",
+          "Disease-Free Survival",
+          "Humans",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Neoplasm Proteins",
+          "Risk Assessment",
+          "Risk Factors",
+          "Survivors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34985762/"
+      },
+      {
+        "pmid": "39300079",
+        "title": "Current status and research directions in acute myeloid leukemia.",
+        "abstract": "The understanding of the molecular pathobiology of acute myeloid leukemia (AML) has spurred the identification of therapeutic targets and the development of corresponding novel targeted therapies. Since 2017, twelve agents have been approved for the treatment of AML subsets: the BCL2 inhibitor venetoclax; the CD33 antibody drug conjugate gemtuzumab ozogamicin; three FLT3 inhibitors (midostaurin, gilteritinib, quizartinib); three IDH inhibitors (ivosidenib and olutasidenib targeting IDH1 mutations; enasidenib targeting IDH2 mutations); two oral hypomethylating agents (oral poorly absorbable azacitidine; fully absorbable decitabine-cedazuridine [latter approved as an alternative to parenteral hypomethylating agents in myelodysplastic syndrome and chronic myelomonocytic leukemia but commonly used in AML]); and CPX-351 (encapsulated liposomal 5:1 molar ratio of cytarabine and daunorubicin), and glasdegib (hedgehog inhibitor). Other targeted therapies (menin inhibitors, CD123 antibody-drug ",
+        "journal": "Blood cancer journal",
+        "year": "2024",
+        "authors": [
+          "Kantarjian Hagop",
+          "Borthakur Gautam",
+          "Daver Naval",
+          "DiNardo Courtney D",
+          "Issa Ghayas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Molecular Targeted Therapy",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39300079/"
+      },
+      {
+        "pmid": "33275673",
+        "title": "Myelodysplastic syndrome/myeloproliferative neoplasm overlap syndromes: a focused review.",
+        "abstract": "Myelodysplastic syndrome (MDS)/myeloproliferative neoplasm (MPN) overlap syndromes are unique myeloid neoplasms, with overlapping features of MDS and MPN. They consist of four adult onset entities including chronic myelomonocytic leukemia (CMML), MDS/MPN-ring sideroblasts-thrombocytosis (MDS/MPN-RS-T), BCR-ABL1 negative atypical chronic myeloid leukemia (aCML) and MDS/MPN-unclassifiable (MDS/MPN-U); with juvenile myelomonocytic leukemia (JMML) being the only pediatric onset entity. Among these overlap neoplasms, CMML is the most frequent and is hallmarked by the presence of sustained peripheral blood monocytosis with recurrent mutations involving TET2 (60%), SRSF2 (50%) and ASXL1 (40%); with RAS pathway mutations and JAK2V617F being relatively enriched in proliferative CMML subtypes (WBC ≥13 × 109/L). CMML usually presents in the 7th decade of life, with a male preponderance and is associated with a median overall survival of <36 months. Adverse prognosticators in CMML include increasi",
+        "journal": "Hematology. American Society of Hematology. Education Program",
+        "year": "2020",
+        "authors": [
+          "Patnaik Mrinal M",
+          "Lasho Terra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Antineoplastic Agents",
+          "Humans",
+          "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+          "Leukemia, Myelomonocytic, Juvenile",
+          "Mutation",
+          "Myelodysplastic Syndromes",
+          "Neoplasm Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33275673/"
+      },
+      {
+        "pmid": "38135371",
+        "title": "Oral decitabine-cedazuridine versus intravenous decitabine for myelodysplastic syndromes and chronic myelomonocytic leukaemia (ASCERTAIN): a registrational, randomised, crossover, pharmacokinetics, phase 3 study.",
+        "abstract": "The DNA methyltransferase inhibitors azacitidine and decitabine for individuals with myelodysplastic syndromes or chronic myelomonocytic leukaemia are available in parenteral form. Oral therapy with similar exposure for these diseases would offer potential treatment benefits. We aimed to compare the safety and pharmacokinetics of oral decitabine plus the cytidine deaminase inhibitor cedazuridine versus intravenous decitabine.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Garcia-Manero Guillermo",
+          "McCloskey James",
+          "Griffiths Elizabeth A",
+          "Yee Karen W L",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Myelodysplastic Syndromes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Pneumonia",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38135371/"
+      },
+      {
+        "pmid": "39123476",
+        "title": "Observation and Management of Juvenile Myelomonocytic Leukemia and Noonan Syndrome-Associated Myeloproliferative Disorder: A Real-World Experience.",
+        "abstract": "Juvenile Myelomonocytic Leukemia (JMML) is a rare and clonal hematopoietic disorder of infancy and early childhood with myeloproliferative/myelodysplastic features resulting from germline or somatic mutations in the RAS pathway. Treatment is not uniform, with management varying from observation to stem cell transplant. The aim of our retrospective review is to describe the treatment and outcomes of a cohort of patients with JMML or Noonan Syndrome-associated Myeloproliferative Disorder (NS-MPD) to provide management guidance for this rare and heterogeneous disease. We report on 22 patients with JMML or NS-MPD managed at three institutions in the Texas Medical Center. Of patients with known genetic mutations and cytogenetics, 6 harbored germline mutations, 12 had somatic mutations, and 9 showed cytogenetic abnormalities. Overall, 14/22 patients are alive. Spontaneous clinical remission occurred in one patient with somatic NRAS mutation, as well as two with germline PTPN11 mutations with",
+        "journal": "Cancers",
+        "year": "2024",
+        "authors": [
+          "Lucas Bryony J",
+          "Connors Jeremy S",
+          "Wang Heping",
+          "Conneely Shannon",
+          "Cuglievan Branko"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39123476/"
+      },
+      {
+        "pmid": "37945692",
+        "title": "BH3 mimetics and azacitidine show synergistic effects on juvenile myelomonocytic leukemia.",
+        "abstract": "Juvenile myelomonocytic leukemia (JMML) is an aggressive hematopoietic disorder of infancy and early childhood driven by constitutively active RAS signaling and characterized by abnormal proliferation of the granulocytic-monocytic blood cell lineage. Most JMML patients require hematopoietic stem cell transplantation for cure, but the risk of relapse is high for some JMML subtypes. Azacitidine was shown to effectively reduce leukemic burden in a subset of JMML patients. However, variable response rates to azacitidine and the risk of drug resistance highlight the need for novel therapeutic approaches. Since RAS signaling is known to interfere with the intrinsic apoptosis pathway, we combined various BH3 mimetic drugs with azacitidine in our previously established patient-derived xenograft model. We demonstrate that JMML cells require both MCL-1 and BCL-XL for survival, and that these proteins can be effectively targeted by azacitidine and BH3 mimetic combination treatment. In vivo azacit",
+        "journal": "Leukemia",
+        "year": "2024",
+        "authors": [
+          "Wu Ying",
+          "Zehnle Patricia M A",
+          "Rajak Jovana",
+          "Koleci Naile",
+          "Andrieux Geoffroy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child, Preschool",
+          "Azacitidine",
+          "Leukemia, Myelomonocytic, Juvenile",
+          "Myeloid Cell Leukemia Sequence 1 Protein",
+          "bcl-X Protein",
+          "Apoptosis",
+          "Cell Line, Tumor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37945692/"
+      },
+      {
+        "pmid": "31221030",
+        "title": "A systematic review and meta-analysis of the efficacy and adverse events of azacitidine-plus-lenalidomide treatment for patients with acute myeloid leukemia, myelodysplastic syndromes and chronic myelomonocytic leukemia 1.",
+        "abstract": "The addition of lenalidomide (LEN) to azacitidine (AZA) may further improve the outcomes of acute myeloid leukemia (AML) patients as well as patients with high-risk myelodysplastic syndrome (MDS) and chronic myelomonocytic leukemia (CMML) patients although the evidence for this combination treatment is still relatively limited. This meta-analysis aimed to evaluate efficacy and adverse effects of AZA plus LEN for the treatment of patients with high-risk MDS, AML or CMML.",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2019",
+        "authors": [
+          "Kunacheewa Chutima",
+          "Thongthang Pakaporn",
+          "Ungprasert Patompong",
+          "Utchariyaprasit Eakkapol",
+          "Owattanapanich Weerapat"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "Cohort Studies",
+          "Female",
+          "Hematologic Diseases",
+          "Humans",
+          "Lenalidomide",
+          "Leukemia, Myeloid, Acute",
+          "Leukemia, Myelomonocytic, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31221030/"
+      },
+      {
+        "pmid": "35119175",
+        "title": "Azacitidine as a bridge to transplantation in juvenile myelomonocytic leukemia.",
+        "abstract": "",
+        "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+        "year": "2022",
+        "authors": [
+          "Takebayashi Akira",
+          "Yamamoto Masaki",
+          "Igarashi Keita",
+          "Muramatsu Hideki",
+          "Kawasaki Yukihiko"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Leukemia, Myelomonocytic, Juvenile"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35119175/"
+      },
+      {
+        "pmid": "37806448",
+        "title": "Allogeneic Hematopoietic Cell Transplantation for Juvenile Myelomonocytic Leukemia with a Busulfan, Fludarabine, and Melphalan Regimen: JPLSG JMML-11.",
+        "abstract": "Juvenile myelomonocytic leukemia (JMML), which is classified as a myelodysplastic/myeloproliferative neoplasm, is a rare hematologic malignancy of childhood. Most patients with JMML require allogeneic hematopoietic cell transplantation (HCT) as a curative therapy. A Japanese retrospective analysis demonstrated favorable outcomes for a busulfan (BU) + fludarabine (FLU) + melphalan (MEL) regimen, with an overall survival (OS) of 72% and an event-free survival (EFS) of 53%. To further validate the efficacy and safety of this regimen, the Japan Pediatric Leukemia/Lymphoma Study Group (JPLSG) conducted a nationwide prospective study, JMML-11. Between July 2011 and June 2017, 28 patients with newly diagnosed JMML were enrolled in JMML11. Low-dose chemotherapy for tumor control before HCT was recommended, and patients treated with AML-type chemotherapy and azacitidine were excluded. The conditioning regimen comprised i.v. BU, 16 doses administered every 6 h, with dose adjustment based on phar",
+        "journal": "Transplantation and cellular therapy",
+        "year": "2024",
+        "authors": [
+          "Sakashita Kazuo",
+          "Yoshida Nao",
+          "Muramatsu Hideki",
+          "Ohtsuka Yoshitoshi",
+          "Watanabe Kenichiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Busulfan",
+          "Hematopoietic Stem Cell Transplantation",
+          "Japan",
+          "Leukemia, Myelomonocytic, Juvenile",
+          "Lymphoma",
+          "Melphalan",
+          "Prospective Studies",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37806448/"
+      },
+      {
+        "pmid": "29878489",
+        "title": "Chronic myelomonocytic leukemia: 2018 update on diagnosis, risk stratification and management.",
+        "abstract": "Chronic myelomonocytic leukemia (CMML) is a clonal hematopoietic stem cell disorder with overlapping features of myelodysplastic syndromes and myeloproliferative neoplasms, with an inherent risk for leukemic transformation (∼15%-20% over 3-5 years).",
+        "journal": "American journal of hematology",
+        "year": "2018",
+        "authors": [
+          "Patnaik Mrinal M",
+          "Tefferi Ayalew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Disease Management",
+          "Humans",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Prognosis",
+          "Risk Assessment",
+          "Stem Cell Transplantation",
+          "Transplantation, Homologous",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29878489/"
+      },
+      {
+        "pmid": "29279013",
+        "title": "Novel approaches to diagnosis and treatment of Juvenile Myelomonocytic Leukemia.",
+        "abstract": "Juvenile myelomonocytic leukemia (JMML) is a clonal hematopoietic disorder of infancy/early childhood, resulting from oncogenic mutations in genes involved in the Ras pathway. As JMML often exhibits an aggressive course, the timing of diagnosis and treatment is critical to outcome. Areas covered: This review summarizes current approaches to diagnosis and treatment of JMML, highlighting most recent insights into genetic and epigenetic mechanisms underlying the disease, and providing an overview of novel potential therapeutic strategies. Expert commentary: At present, allogeneic HSCT remains the only potentially effective therapy, being able to cure more than 50% of patients, relapse representing the main cause of treatment failure. Prompt HSCT is recommended for all children with NF1, somatic PTPN11 and KRAS mutations, and for most children with somatic NRAS mutations. Conversely, a 'watch and wait' strategy should be adopted in children with germline CBL mutations, specific somatic NRA",
+        "journal": "Expert review of hematology",
+        "year": "2018",
+        "authors": [
+          "Locatelli Franco",
+          "Algeri Mattia",
+          "Merli Pietro",
+          "Strocchio Luisa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Child, Preschool",
+          "Female",
+          "GTP Phosphohydrolases",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Leukemia, Myelomonocytic, Juvenile",
+          "Male",
+          "Membrane Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29279013/"
+      },
+      {
+        "pmid": "39606906",
+        "title": "Azacitidine and venetoclax with or without pevonedistat in patients with newly diagnosed acute myeloid leukemia.",
+        "abstract": "This phase 2 study investigated pevonedistat + azacitidine + venetoclax (n = 83) versus azacitidine + venetoclax (n = 81) in patients with newly diagnosed acute myeloid leukemia (AML) ineligible for intensive chemotherapy. The study was stopped early following negative results from PANTHER, which evaluated pevonedistat in higher-risk myelodysplastic syndromes/chronic myelomonocytic leukemia or low-blast AML. Outcomes were analyzed up to the datacut. For pevonedistat + azacitidine + venetoclax versus azacitidine + venetoclax, the median follow-up was 8.44 versus 7.95 months; the complete remission (CR) rate was 45% versus 49%; composite CR (CCR; CR+CR with incomplete blood count recovery) was 77% versus 72%. There were no differences in event-free survival (primary endpoint; hazard ratio [HR]: 0.99; 95% confidence interval [CI]: 0.61-1.60; p = 0.477) or overall survival (HR: 1.42; 95% CI: 0.82-2.49; p = 0.896). In exploratory analyses in IDH-mutated AML, CCR rates were higher with pevon",
+        "journal": "Leukemia & lymphoma",
+        "year": "2025",
+        "authors": [
+          "Short Nicholas J",
+          "Wierzbowska Agnieszka",
+          "Cluzeau Thomas",
+          "Laribi Kamel",
+          "Recher Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Male",
+          "Leukemia, Myeloid, Acute",
+          "Aged",
+          "Azacitidine",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Sulfonamides",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39606906/"
+      },
+      {
+        "pmid": "31736132",
+        "title": "Chronic Myelomonocytic leukemia: 2020 update on diagnosis, risk stratification and management.",
+        "abstract": "Chronic myelomonocytic leukemia (CMML) is a clonal hematopoietic stem cell disorder with overlapping features of myelodysplastic syndromes and myeloproliferative neoplasms, with an inherent risk for leukemic transformation (~15% over 3-5 years).",
+        "journal": "American journal of hematology",
+        "year": "2020",
+        "authors": [
+          "Patnaik Mrinal M",
+          "Tefferi Ayalew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Disease Management",
+          "Female",
+          "Humans",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Male",
+          "Middle Aged",
+          "Remission Induction",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31736132/"
+      },
+      {
+        "pmid": "27185207",
+        "title": "Chronic myelomonocytic leukemia: 2016 update on diagnosis, risk stratification, and management.",
+        "abstract": "Chronic myelomonocytic leukemia (CMML) is a clonal hematopoietic stem cell disorder characterized by overlapping features of myelodysplastic syndromes and myeloproliferative neoplasms. Diagnosis is based on the presence of persistent (>3 months) peripheral blood monocytosis (>1 × 10(9) /L), along with bone marrow dysplasia. Clonal cytogenetic abnormalities occur in ∼20-30% of patients, while >90% have gene mutations. Mutations involving TET2 (∼60%), SRSF2 (∼50%), ASXL1 (∼40%), and RAS (∼30%) are frequent; with only ASXL1 mutations negatively impacting overall survival. Two molecularly integrated, CMML-specific prognostic models include; the Groupe Français des Myélodysplasies (GFM) and the Molecular Mayo Model (MMM). The GFM model segregates patients into 3 groups based on: age >65 years, WBC >15 × 10(9) /L, anemia, platelets <100 × 10(9) /L, and ASXL1 mutation status, with respective median survivals of 56 (low), 27.4 (intermediate), and 9.2 (high) months. The MMM is based on ASXL1 mu",
+        "journal": "American journal of hematology",
+        "year": "2016",
+        "authors": [
+          "Patnaik Mrinal M",
+          "Tefferi Ayalew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Disease Management",
+          "Female",
+          "Humans",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Male",
+          "Prognosis",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27185207/"
+      },
+      {
+        "pmid": "36059252",
+        "title": "MDM2 antagonist improves therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia.",
+        "abstract": "Failure of hypomethylation agent (HMA) treatments is an important issue in myelodysplastic syndromes (MDS) and chronic myelomonocytic leukemia (CMML). Recent studies indicated that function of wildtype TP53 positively impacts outcome of HMA treatments. We investigated the combination of the HMA azacitidine (AZA) with DS-3032b and DS-5272, novel antagonists of the TP53 negative regulator MDM2, in cellular and animal models of MDS and CMML. In TP53 wildtype myeloid cell line, combinational effects of DS-3032b or DS-5272 with AZA were observed. In Tet2-knockout mouse model of MDS and CMML, DS-5272 and AZA combination ameliorated disease-like phenotype. RNA-Seq analysis in mouse bone marrow hematopoietic stem and progenitors indicated that DS-5272 and AZA combination caused down-regulation of leukemia stem cell marker genes and activation of pathways of TP53 function and stability. These findings demonstrate that combining an MDM2 antagonist with AZA has potential to improve AZA treatment ",
+        "journal": "Leukemia & lymphoma",
+        "year": "2022",
+        "authors": [
+          "Wei Yue",
+          "Zheng Hong",
+          "Lockyer Pamela Pennington",
+          "Darbaniyan Faezeh",
+          "Li Ziyi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Azacitidine",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Myelodysplastic Syndromes",
+          "Imidazoles",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36059252/"
+      },
+      {
+        "pmid": "41044045",
+        "title": "Optimizing outcomes in chronic myelomonocytic leukemia: sequencing approved therapies and new prospects.",
+        "abstract": "",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2025",
+        "authors": [
+          "Samperio Victor M",
+          "Alchaikh Hassan Ruba",
+          "Dasanu Constantin A"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41044045/"
+      },
+      {
+        "pmid": "36739480",
+        "title": "Potential clinical use of azacitidine and MEK inhibitor combination therapy in PTPN11-mutated juvenile myelomonocytic leukemia.",
+        "abstract": "Juvenile myelomonocytic leukemia (JMML) is a rare myeloproliferative neoplasm of childhood. The molecular hallmark of JMML is hyperactivation of the Ras/MAPK pathway with the most common cause being mutations in the gene PTPN11, encoding the protein tyrosine phosphatase SHP2. Current strategies for treating JMML include using the hypomethylating agent, 5-azacitidine (5-Aza) or MEK inhibitors trametinib and PD0325901 (PD-901), but none of these are curative as monotherapy. Utilizing an Shp2E76K/+ murine model of JMML, we show that the combination of 5-Aza and PD-901 modulates several hematologic abnormalities often seen in JMML patients, in part by reducing the burden of leukemic hematopoietic stem and progenitor cells (HSC/Ps). The reduced JMML features in drug-treated mice were associated with a decrease in p-MEK and p-ERK levels in Shp2E76K/+ mice treated with the combination of 5-Aza and PD-901. RNA-sequencing analysis revealed a reduction in several RAS and MAPK signaling-related g",
+        "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+        "year": "2023",
+        "authors": [
+          "Pasupuleti Santhosh Kumar",
+          "Chao Karen",
+          "Ramdas Baskar",
+          "Kanumuri Rahul",
+          "Palam Lakshmi Reddy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Azacitidine",
+          "Leukemia, Myelomonocytic, Juvenile",
+          "Mitogen-Activated Protein Kinase Kinases",
+          "Mutation",
+          "Protein Kinase Inhibitors",
+          "Protein Tyrosine Phosphatase, Non-Receptor Type 11",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36739480/"
+      },
+      {
+        "pmid": "40155601",
+        "title": "Venetoclax and azacitidine in untreated patients with therapy-related acute myeloid leukemia, antecedent myelodysplastic syndromes or chronic myelomonocytic leukemia.",
+        "abstract": "",
+        "journal": "Blood cancer journal",
+        "year": "2025",
+        "authors": [
+          "Pullarkat Vinod",
+          "Pratz Keith W",
+          "Döhner Hartmut",
+          "Recher Christian",
+          "Thirman Michael J"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40155601/"
+      },
+      {
+        "pmid": "34714526",
+        "title": "A retrospective analysis of azacitidine treatment for juvenile myelomonocytic leukemia.",
+        "abstract": "Juvenile myelomonocytic leukemia (JMML) is a pediatric hematological malignancy with a poor prognosis. Although several case series have been published describing hematological and molecular responses to azacitidine (AZA) treatment in patients with JMML, the efficacy and safety profile of AZA is not well investigated, especially in Asian children and children undergoing hematopoietic stem cell transplantation (HSCT). We retrospectively analyzed 5 patients who received a total of 12 cycles (median 2 cycles) of AZA treatment in Japan. All five patients were boys and their ages at the time of treatment were 21, 23, 24, 26, and 46 months, respectively. All five patients tolerated AZA treatment, including four patients who received AZA after HSCT. Therapeutic toxicity with AZA was mostly limited to hematological toxicity. The only serious non-hematological adverse event was hyperbilirubinemia (grades III-IV) observed in a patient who received AZA after a second HSCT. Two out of five patient",
+        "journal": "International journal of hematology",
+        "year": "2022",
+        "authors": [
+          "Honda Yuko",
+          "Muramatsu Hideki",
+          "Nanjo Yuka",
+          "Hirabayashi Shinsuke",
+          "Meguro Toru"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Child, Preschool",
+          "Humans",
+          "Infant",
+          "Leukemia, Myelomonocytic, Juvenile",
+          "Male",
+          "Retrospective Studies",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34714526/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:11:55.764137",
+  "success": true,
+  "error_message": null
+}

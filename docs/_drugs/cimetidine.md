@@ -6,7 +6,7 @@ drug_name: "Cimetidine"
 kg_predictions: 252
 dl_predictions: 28
 evidence_level: "L1"
-indication_count: 252
+indication_count: 5
 brands: []
 permalink: /drugs/cimetidine/
 ---

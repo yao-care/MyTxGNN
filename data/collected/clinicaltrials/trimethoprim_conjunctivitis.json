@@ -1,0 +1,67 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "conjunctivitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00168532",
+      "title": "Prophylactic Antibiotics in Measles Infection. A Community-Based Randomised Double-Blind Placebo-Controlled Trial in Guinea-Bissau",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2001-10",
+      "country": "Guinea-Bissau",
+      "enrollment": 218,
+      "brief_summary": "Objective It is the objective to test whether the use of prophylactic antibiotics in measles infection will reduce the incidence of post-measles pneumonia and/or admissions to hospital with 50%. The possible impact on other complications of severe measles will also be measured.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A clinical diagnosis of probable measles in the prodromal phase or within the first seven days of the onset of the rash\n\nExclusion Criteria:\n\n* Pregnant and nursing women\n* Children less than 2 months old\n* Children who need urgent referral to the hospital, children with bacte",
+      "endpoints": [
+        "Post-measles pneumonia",
+        "Admission to hospital"
+      ],
+      "sponsor": "Bandim Health Project",
+      "url": "https://clinicaltrials.gov/study/NCT00168532"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00581542",
+      "title": "A Single Blinded Clinical Trial Comparing Polytrim Ophthalmic Solution and Moxifloxacin Ophthalmic Solution for Treatment of Conjunctivitis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 124,
+      "brief_summary": "The purpose of the study is to compare the effect of Polytrim Ophthalmic Solution and Moxifloxacin Ophthalmic Solution in treating your child's pink eye. Both these medications are approved by the Food and Drug Administration, for treatment of conjunctivitis. This study will investigate if both of the medications are equally good.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1 - 18 years of age with presumed bacterial conjunctivitis.\n\nExclusion Criteria:\n\n* Previous antibiotics or to receive systemic antibiotic.",
+      "endpoints": [
+        "Number of Participants With Normal Physical Examination of the Eye"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT00581542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03187834",
+      "title": "Antibiotic Resistance and Microbiome in Children Aged 6-59 Months in Nouna, Burkina Faso",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-07-04",
+      "completion_date": "2019-09-01",
+      "country": "Burkina Faso, United States",
+      "enrollment": 252,
+      "brief_summary": "The use of antibiotics has saved millions of human lives, however consumption of antibiotics can select for antibiotic resistant organisms and may lead to changes in commensal microbiome. This study is designed to estimate the effect of antibiotic consumption on microbiome in a rural region of rural Burkina Faso. Changes in the intestinal and nasopharyngeal microbiome and resistome following a short course of antibiotics will be measured.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Households will be eligible for inclusion in the study if they have 2 or more children aged 6 months to 59 months currently residing in the household. Children from the household will be eligible if they are 6-59 months of age and are not currently receiving antibiotic treatme",
+      "endpoints": [
+        "Simpson's Index of Diversity (Alpha Diversity) in Intestinal Microbiome"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT03187834"
+    }
+  ],
+  "timestamp": "2026-03-04T15:50:01.909206",
+  "success": true,
+  "error_message": null
+}

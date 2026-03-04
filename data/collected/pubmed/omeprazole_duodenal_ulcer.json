@@ -1,0 +1,630 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "duodenal ulcer",
+    "query_string": "Omeprazole AND duodenal ulcer"
+  },
+  "data": {
+    "query": "Omeprazole AND duodenal ulcer",
+    "results": [
+      {
+        "pmid": "10146883",
+        "title": "Omeprazole: a pharmacoeconomic evaluation of its use in duodenal ulcer and reflux oesophagitis.",
+        "abstract": "Omeprazole regulates gastric acid secretion and is an effective treatment of acute duodenal ulcer and reflux oesophagitis, achieving more rapid healing and symptomatic relief than histamine H 2-receptor antagonists. When administered as maintenance therapy, omeprazole reduces the incidence of relapse. The drug is also highly effective in patients poorly responsive to histamine H 2-receptor antagonists. The daily acquisition cost of omeprazole is higher than that of histamine H 2-receptor antagonists in many countries, and thus it is important to evaluate the pharmacoeconomic impact of omeprazole in the short and long term treatment of duodenal ulcer and reflux oesophagitis. Pharmacoeconomic analyses have been performed in several clinical settings using pooled data from clinical trials or simulated models of clinical practice. In a single analysis using Finnish cost data, omeprazole was more cost effective than ranitidine in the treatment of duodenal ulcer disease over a 6-month period",
+        "journal": "PharmacoEconomics",
+        "year": "1993",
+        "authors": [
+          "Barradell L B",
+          "McTavish D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cost-Benefit Analysis",
+          "Duodenal Ulcer",
+          "Economics, Pharmaceutical",
+          "Esophagitis, Peptic",
+          "Health Care Costs",
+          "Humans",
+          "Models, Econometric",
+          "Omeprazole",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10146883/"
+      },
+      {
+        "pmid": "2148984",
+        "title": "Omeprazole and ranitidine in duodenal ulcer healing. Analysis of comparative clinical trials.",
+        "abstract": "Ten double-blind randomized studies with omeprazole versus ranitidine in duodenal ulcer healing have been published. The total number of patients in the trials amounted to 2225. To detect treatment differences, a meta-analysis was performed. After 2 and 4 weeks of treatment results have been evaluated. After 2 weeks of treatment omeprazole produced higher healing rates than ranitidine in nine studies. However, at 4 weeks numerical differences in favour of omeprazole were found in nine studies. Relief of ulcer symptoms occurred more rapidly with omeprazole than ranitidine. No major clinical or biochemical side effects were recorded. However, no data are available about maintenance therapy in double-blind randomized studies comparing both drugs or about rebleeding rates in bleeding duodenal ulcer treatment.",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1990",
+        "authors": [
+          "Mulder C J",
+          "Schipper D L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Duodenal Ulcer",
+          "Humans",
+          "Meta-Analysis as Topic",
+          "Omeprazole",
+          "Ranitidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2148984/"
+      },
+      {
+        "pmid": "7614110",
+        "title": "Omeprazole and H2-receptor antagonists in the acute treatment of duodenal ulcer, gastric ulcer and reflux oesophagitis: a meta-analysis.",
+        "abstract": "This paper is a meta-analysis of 30 published, double-blind clinical trials comparing omeprazole with ranitidine or cimetidine for the treatment of duodenal ulcer, gastric ulcer and reflux oesophagitis. These studies compare the recommended doses of omeprazole with those for ranitidine and cimetidine, and the confidence intervals for the therapeutic gain show that the findings are highly reliable. The difference in healing rates favoured omeprazole over ranitidine in patients with duodenal ulcer after 2 weeks of treatment (15.2 percentage units; P < 0.001), and after 4 weeks of treatment in patients with gastric ulcer (9.9 percentage units; P = 0.005), or reflux oesophagitis (23 percentage units; P < 0.001). Similarly, omeprazole gave a 20.6 percentage units higher average healing rate than cimetidine in patients with duodenal ulcer after 2 weeks of treatment (P < 0.0001). Significantly more patients treated with omeprazole were free of symptoms at their first follow-up visit than pati",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "1995",
+        "authors": [
+          "Eriksson S",
+          "Långström G",
+          "Rikner L",
+          "Carlsson R",
+          "Naesdal J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cimetidine",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7614110/"
+      },
+      {
+        "pmid": "10983736",
+        "title": "Esomeprazole.",
+        "abstract": "Esomeprazole, a new proton pump inhibitor, is the S-isomer of omeprazole and is the first such inhibitor to be developed as a single isomer. Esomeprazole provided better control of intragastric pH than omeprazole, lansoprazole and pantoprazole in trials conducted in patients with gastro-oesophageal reflux disease (GORD) or healthy volunteers (n = 20 to 115). In 2 large randomised, double-blind multicentre trials esomeprazole 20 and/or 40mg for 8 weeks produced higher healing rates of erosive oesophagitis and better symptom control than omeprazole 20 mg in patients with GORD. Esomeprazole 10, 20 or 40mg once daily for 6 months maintained healing versus placebo (p < 0.001) in patients with endoscopically confirmed healed erosive oesophagitis in 2 large randomised, double-blind multicentre trials. Similarly, symptom-driven on-demand use of esomeprazole effectively controlled symptoms of GORD (heartburn) for 6 months in 2 large placebo-controlled trials. Esomeprazole-based triple therapy f",
+        "journal": "Drugs",
+        "year": "2000",
+        "authors": [
+          "Spencer C M",
+          "Faulds D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Enzyme Inhibitors",
+          "Esomeprazole",
+          "Gastroesophageal Reflux",
+          "Helicobacter pylori",
+          "Humans",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10983736/"
+      },
+      {
+        "pmid": "2557670",
+        "title": "Omeprazole in the treatment of duodenal ulcer.",
+        "abstract": "Omeprazole is the most effective antisecretory agent available today. Open and dose-comparative studies have documented that at dosages of 20 mg/day or more, the drug produces duodenal ulcer healing rates of 90-100% after 4 weeks. Controlled trials show that omeprazole, 20-40 mg/day, is superior to cimetidine and ranitidine in healing duodenal ulcer, with a median therapeutic gain of 21% at 2 weeks and 15% at 4 weeks. Ulcer symptom relief is also more pronounced and faster with omeprazole than with H2-receptor antagonists. No significant side-effects attributable to treatment with omeprazole have appeared in any of these studies or in the accumulated experience from several thousand patients treated with omeprazole. No tendency to an increase in recurrence rate after discontinuation of treatment with omeprazole has been shown. In summary, omeprazole constitutes a major advance in the short-term treatment of duodenal ulcer, giving fast and pronounced healing and symptom relief.",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1989",
+        "authors": [
+          "Bianchi Porro G",
+          "Parente F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenosine Triphosphatases",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "H(+)-K(+)-Exchanging ATPase",
+          "Humans",
+          "Omeprazole",
+          "Parietal Cells, Gastric",
+          "Ranitidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2557670/"
+      },
+      {
+        "pmid": "11257735",
+        "title": "Omeprazole therapy and salivary flow rate in duodenal ulcer patients.",
+        "abstract": "Previous reports have shown that in some reflux-oesophagitis patients omeprazole therapy alters salivary secretion. The aim of the study was to examine this effect in duodenal ulcer patients.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "year": "2001",
+        "authors": [
+          "Namiot Z",
+          "Stasiewicz J",
+          "Kralisz M",
+          "Kozuszyńska-Topór M",
+          "Markowski A R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Drug Therapy, Combination",
+          "Duodenal Ulcer",
+          "Female",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11257735/"
+      },
+      {
+        "pmid": "2403952",
+        "title": "Omeprazole provides quicker symptom relief and duodenal ulcer healing than ranitidine.",
+        "abstract": "In a double-blind, parallel-group clinical trial in 248 patients with symptomatic duodenal ulcers [97% greater than 5 mm diameter], 126 were randomized to receive omeprazole 20 mg once daily in the morning and 122 were randomized to receive ranitidine 300 mg once daily at night for 2 wk and if the ulcers were unhealed for a total of 4 wk. When ulcer healing was assessed on an intention-to-treat basis, 79% of those receiving omeprazole had healed ulcers after 2 wk compared with 62% of those receiving ranitidine (p less than 0.005; therapeutic gain for omeprazole, 18%; 95% confidence intervals, +6% to +29%). At 4 wk the figures were 91% (omeprazole) and 80% (ranitidine) (p less than 0.05). After 2 wk, 77% of omeprazole-treated and 59% of ranitidine-treated patients were free of ulcer pain (p = 0.005). Assessed by diary cards (successfully completed by 92% of patients), daytime pain resolved more quickly in omeprazole-treated patients than in those receiving ranitidine (p less than 0.01).",
+        "journal": "Gastroenterology",
+        "year": "1990",
+        "authors": [
+          "McFarland R J",
+          "Bateson M C",
+          "Green J R",
+          "O'Donoghue D P",
+          "Dronfield M W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Multicenter Studies as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2403952/"
+      },
+      {
+        "pmid": "9690725",
+        "title": "Omeprazole and sucralfate in the treatment of NSAID-induced gastric and duodenal ulcer.",
+        "abstract": "To establish the healing efficacy of two drugs, omeprazole and sucralfate, when given to patients who had developed gastric or duodenal ulcer while undergoing chronic treatment with non-steroidal anti-inflammatory drugs (NSAIDs).",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1998",
+        "authors": [
+          "Bianchi Porro G",
+          "Lazzaroni M",
+          "Manzionna G",
+          "Petrillo M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Duodenal Ulcer",
+          "Endoscopy, Digestive System",
+          "Female",
+          "Helicobacter Infections",
+          "Helicobacter pylori"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9690725/"
+      },
+      {
+        "pmid": "3883182",
+        "title": "Effect of omeprazole and cimetidine on duodenal ulcer. A double-blind comparative trial.",
+        "abstract": "We conducted a double-blind randomized study of 132 patients to determine whether the new, investigational proton-pump inhibitor, omeprazole (30 mg per day), would accelerate healing and pain relief, as compared with cimetidine (1 g per day), in patients with duodenal ulcer. After two weeks of treatment, which was completed by all patients, the healing rates were 73 per cent in the omeprazole group and 46 per cent in the cimetidine group (P less than 0.01). After four weeks of treatment, which was completed by 118 patients, the corresponding figures were 92 and 74 per cent (P less than 0.05). In the omeprazole group 55 per cent of the patients were free of pain after the first week, as compared with 40 per cent of those treated with cimetidine (P greater than 0.05). No major clinical or biochemical side effects of omeprazole or cimetidine were noted. A six-month follow-up study revealed no significant difference between the recurrence rates after omeprazole and after cimetidine treatme",
+        "journal": "The New England journal of medicine",
+        "year": "1985",
+        "authors": [
+          "Lauritsen K",
+          "Rune S J",
+          "Bytzer P",
+          "Kelbaek H",
+          "Jensen K G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Benzimidazoles",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3883182/"
+      },
+      {
+        "pmid": "2688070",
+        "title": "Duodenal ulcer treated with omeprazole: healing and relapse rates. Does treatment duration influence subsequent remission?",
+        "abstract": "One hundred and twenty-nine patients were studied with regard to healing of duodenal ulcers with 30 mg omeprazole once daily, recurrence rates after 2 and 4 weeks' treatment in patients with ulcers healed after 2 weeks, and recurrences in rapid and slow healers. Cumulative healing rates were 77% and 98% after 2 and 4 weeks, respectively. Eighty-one patients (65%) were without ulcer symptoms after 2 weeks, and 43 (34%) were improved. Seven of 45 patients (16%; 95% confidence limits, 6-30%) with ulcers healed after 2 weeks had relapsed after another 2 weeks of placebo; 3 were asymptomatic. The overall relapse rate after 6 months was 62%. There were no statistically significant differences in relapse rates between 2 and 4 weeks' treatment of patients with ulcers healed after 2 weeks or between rapid and slow healers. Ulcer size, smoking habits, and alcohol consumption were not significantly related to healing or relapse.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1989",
+        "authors": [
+          "Farup P G",
+          "Rosseland A R",
+          "Halvorsen L",
+          "Andersen O K",
+          "Bernklev T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2688070/"
+      },
+      {
+        "pmid": "8218758",
+        "title": "Omeprazole versus famotidine in the healing and relapse of duodenal ulcer.",
+        "abstract": "Sixty patients with symptomatic duodenal ulcer were randomized to receive either omeprazole (20 mg each morning) or famotidine (40 mg at night time) for 2-4 weeks in a double-blind parallel group clinical trial. Healing rates were higher with omeprazole in comparison with famotidine after 2 weeks (77% vs. 40%, P < 0.001) and 4 weeks (93% vs. 80%, P = 0.2) of treatment. Assessment of daily diary cards completed by all patients revealed that omeprazole rapidly relieved ulcer-related day pain and nocturnal pain in comparison to famotidine. Treatment with omeprazole for 2 weeks was also associated with lower cumulative antacid intake (P < 0.05) and reduced absenteeism from work. Helicobacter pylori infection was present in all patients and remained unaffected by treatment with either of the drugs. None of the drugs produced any significant adverse effects. During 6 months follow-up of all the patients after ulcer healing (without maintenance therapy), ulcer relapse was seen in 40% of omepr",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1993",
+        "authors": [
+          "Misra S C",
+          "Dasarathy S",
+          "Sharma M P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absenteeism",
+          "Adult",
+          "Analgesics",
+          "Antacids",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Helicobacter Infections",
+          "Helicobacter pylori"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8218758/"
+      },
+      {
+        "pmid": "2574910",
+        "title": "Omeprazole in the management of refractory duodenal ulcer.",
+        "abstract": "In about 5-10% of duodenal ulcer patients, ulcer healing is difficult or impossible to achieve with H2-receptor antagonists. Such patients are considered to have a refractory ulcer. The cause of refractoriness remains unknown. Some patients have high acid secretion or inadequate acid suppression on treatment, but this has not been confirmed by all investigators or in all patients. Abnormalities in mucosal defence presumably exist, but none have as yet been identified. The principal medical therapeutic approach has been to continue suppressing acid or to use mucosal protective agents. Increasing the duration of H2-receptor antagonist treatment at the same dose had little effect, but doubling or trebling the dose improved healing rates in open studies. Markedly higher healing rates occurred when treatment was changed from cimetidine to ranitidine (which is more potent) in open studies, but this was not always confirmed in controlled studies. Adding the anti-muscarinic, pirenzepine, to ci",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1989",
+        "authors": [
+          "Bardhan K D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Gastric Acid",
+          "Gastric Mucosa",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Omeprazole",
+          "Wound Healing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2574910/"
+      },
+      {
+        "pmid": "8804873",
+        "title": "Refractory duodenal ulcer healing and relapse: comparison of omeprazole with Helicobacter pylori eradication.",
+        "abstract": "To investigate differences between omeprazole and Helicobacter pylori eradication in patients with duodenal ulcers refractory to H2-receptor antagonists and to compare the recurrence rates after the two treatments.",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "1996",
+        "authors": [
+          "Avsar E",
+          "Kalayci C",
+          "Tözün N",
+          "Lawrence R",
+          "Kiziltas S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Anti-Ulcer Agents",
+          "Antitrichomonal Agents",
+          "Duodenal Ulcer",
+          "Female",
+          "Humans",
+          "Male",
+          "Metronidazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8804873/"
+      },
+      {
+        "pmid": "2574352",
+        "title": "Omeprazole, Helicobacter pylori, gastritis, and duodenal ulcer.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1989",
+        "authors": [
+          "Biasco G",
+          "Miglioli M",
+          "Barbara L",
+          "Corinaldesi R",
+          "di Febo G"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Campylobacter",
+          "Campylobacter Infections",
+          "Duodenal Ulcer",
+          "Gastritis",
+          "Humans",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2574352/"
+      },
+      {
+        "pmid": "3523740",
+        "title": "Effects of omeprazole in duodenal ulcer patients.",
+        "abstract": "The efficacy of and tolerance to omeprazole, 40 mg/day, was studied in an open-label study in 18 patients with endoscopically verified duodenal ulcers. The effects of the drug on the oxyntic mucosa and pentagastrin-stimulated acid secretion during and after treatment were also studied. Fifteen patients completed the final endoscopy. The ulcers were healed in all after 4 weeks' treatment. Both basal and peak acid output were significantly reduced during omeprazole treatment, whereas 4 weeks after the cessation of treatment neither basal nor peak acid output differed from the pretreatment levels. Fasting serum gastrin levels rose by 56% during treatment but had returned to pretreatment values when tested again 4 weeks after the end of the treatment period. Histological examination of the biopsy specimens taken before and after treatment showed that omeprazole had no significant effect on the volume densities of either parietal or endocrine cells. We conclude that omeprazole is of value i",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1986",
+        "authors": [
+          "Karvonen A L",
+          "Keyriläinen O",
+          "Uusitalo A",
+          "Salaspuro M",
+          "Tarpila S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Ulcer Agents",
+          "Benzimidazoles",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Female",
+          "Gastric Acid",
+          "Gastrins",
+          "Humans",
+          "Intestinal Mucosa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3523740/"
+      },
+      {
+        "pmid": "10485504",
+        "title": "Lansoprazole versus omeprazole for duodenal ulcer healing and prevention of relapse: a randomized, multicenter, double-masked trial.",
+        "abstract": "The aim of this randomized, multicenter, double-masked, parallel-group study was to compare the efficacy of lansoprazole with that of omeprazole monotherapy in duodenal ulcer healing and prevention of relapse. A total of 251 patients with duodenal ulcer were treated with either lansoprazole 30 mg/d (n = 167) or omeprazole 40 mg/d (n = 84). Patients with healed ulcers were then randomly allocated to 12 months of maintenance therapy with lansoprazole 15 mg/d (n = 74), lansoprazole 30 mg/d (n = 71), or omeprazole 20 mg/d (n = 73). Healing rates at 4 weeks (intent-to-treat analysis) were 93.9% (95% confidence interval [CI], 90.2% to 97.6%) with lansoprazole and 97.5% (95% CI, 93.7% to 100%) with omeprazole; there were no significant differences between groups. Endoscopic relapse rates after 6 months were 4.5% (95% CI, 0% to 10.6%) with lansoprazole 15 mg, 0% with lansoprazole 30 mg, and 6.3% (95% CI, 1.5% to 12.5%) with omeprazole 20 mg, compared with 3.3% (95% CI, 0% to 8.2%), 0%, and 3.5",
+        "journal": "Clinical therapeutics",
+        "year": "1999",
+        "authors": [
+          "Dobrilla G",
+          "Piazzi L",
+          "Fiocca R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Endoscopy",
+          "Female",
+          "Gastrins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10485504/"
+      },
+      {
+        "pmid": "9753259",
+        "title": "Omeprazole and ranitidine in long-term treatment of duodenal ulcer: a double-blind comparison of length of time in remission.",
+        "abstract": "In most patients duodenal ulcer is a chronic relapsing disease. If no active maintenance treatment or eradication therapy is given after healing, around 70-100% of patients have a relapse during the first year. We conducted a double-blind multicenter study in 472 patients with duodenal ulcer. They were treated with omeprazole 20 mg every morning for four or eight weeks and when healed were randomly allocated to maintenance treatment with either omeprazole 20 mg every morning or ranitidine 150 mg at bedtime for up to six months. The patients were assessed by endoscopy at monthly intervals until healing occurred. Thereafter scheduled endoscopy was carried out after 1, 3, and 6 months of maintenance treatment or immediately in the event of a suspected relapse. Healing status (intention to treat approach) was 87% at four weeks and 93% at eight weeks. At six months the estimated remission rate was 90% for omeprazole and 82% for ranitidine (P = 0.03, 95% CI 1-15%). The incidence of adverse e",
+        "journal": "Digestive diseases and sciences",
+        "year": "1998",
+        "authors": [
+          "Diaz de Rojas F",
+          "Berenguer J",
+          "Rodrigo L",
+          "Aran-Suau R",
+          "Da Silveira J C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Duodenoscopy",
+          "Female",
+          "Histamine H2 Antagonists",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9753259/"
+      },
+      {
+        "pmid": "1914761",
+        "title": "A comparison of omeprazole and ranitidine for duodenal ulcer in South African patients. A multiracial study.",
+        "abstract": "The study was a multicenter double-blind parallel-group comparison of omeprazole, a proton-pump inhibitor, with the H2-receptor antagonist, ranitidine, in 206 patients with duodenal ulcer. There were 145 men and 62 women of mixed racial origin with an average age of 40 years (range 19-76); 63 of them were white, 7 black, 135 coloured and 1 Asian. Each drug was given for four weeks and ulcer healing rate, symptom relief, and adverse events were recorded and compared between treatment groups. Patients received either 20 mg omeprazole once daily in the morning (N = 104) or ranitidine 300 mg once daily at night (N = 106). Healing rates were significantly higher in the omeprazole group than in the ranitidine group at both two weeks (80% vs 52%, P less than 0.001) and four weeks (95% vs 85%, P less than 0.05), using the \"per protocol\" approach, and these results were confirmed using the \"intention to treat\" approach. Omeprazole-treated patients reported significantly less daytime epigastric ",
+        "journal": "Digestive diseases and sciences",
+        "year": "1991",
+        "authors": [
+          "Marks I N",
+          "Danilewitz M D",
+          "Garisch J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Black People",
+          "Discriminant Analysis",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1914761/"
+      },
+      {
+        "pmid": "7881026",
+        "title": "Histological maturity of healed duodenal ulcer and ulcer recurrence after treatment with omeprazole or cimetidine.",
+        "abstract": "We investigated the relationship between histological maturity of healed duodenal ulcer and ulcer recurrence after treatment with omeprazole or cimetidine for 4 weeks. The healing rates, 92.5 and 72.4% in omeprazole-treated and cimetidine-treated groups, respectively, showed no significant difference between groups (P > 0.05). Histologically, the regenerating mucosa of healed ulcer was divided into three categories: good, fair and poor patterns. Of the healed cases, 22 (59.5%) of 37 omeprazole-treated and 12 omeprazole-treated and 12 (28.6%) of 42 cimetidine-treated ulcers achieved a good pattern, showing significant difference between groups (P = 0.01). The recurrence rate at 3 months showed statistically significant difference (P < 0.05) between two groups: 5.4% in omeprazole-treated and 23.8% in cimetidine-treated patients. During the period between 3 and 6 months after healing, the difference in recurrence rate between omeprazole-treated and cimetidine-treated groups was statistica",
+        "journal": "Journal of gastroenterology and hepatology",
+        "year": "1994",
+        "authors": [
+          "Pan S",
+          "Liao C H",
+          "Lien G S",
+          "Chen S H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Duodenal Ulcer",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7881026/"
+      },
+      {
+        "pmid": "2491466",
+        "title": "Effect of omeprazole on intragastric and duodenal bulb acidity in duodenal ulcer patients.",
+        "abstract": "Intraluminal pH was measured simultaneously in the stomach and duodenal bulb with six small, glass electrodes tied together at 1.5-cm intervals. Ten patients with duodenal ulcer disease were studied under fasting conditions and for 3 h after a standard liquid meal on three occasions: day 1, before treatment; day 8, when the proton pump blocker omeprazole had been taken in a daily dose of 30 mg for 7 days consecutively, including the day of the pH study; day 9, 24 h after the last dose of omeprazole. Mean hydrogen ion activity and the percentage of time with pH below 3 was calculated from the digital pH data sampled at a frequency of 1 per second from each electrode. On day 8, five of the patients were permanently anacidic (pH greater than 4) in the stomach and duodenum, while the food-stimulation broke off anacidity for shorter periods in the other five patients. The pH pattern in the duodenal bulb was markedly altered in all patients with disappearance of the typical pH fluctuations, ",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1989",
+        "authors": [
+          "Bendtsen F",
+          "Ovesen L",
+          "Rosenkilde-Gram B",
+          "Rune S J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Duodenal Ulcer",
+          "Duodenum",
+          "Electrodes",
+          "Female",
+          "Gastric Acid",
+          "Gastric Acidity Determination",
+          "Humans",
+          "Hydrogen-Ion Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2491466/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:42:03.257905",
+  "success": true,
+  "error_message": null
+}

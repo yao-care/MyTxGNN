@@ -1,0 +1,931 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Gliclazide",
+    "disease": "diabetes mellitus"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01195259",
+      "title": "A Meta Analysis of Malignancy Serious Adverse Events in the ADOPT, 49653/048, and RECORD, 49653/231, Studies, Comparing Metformin With Rosiglitazone.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2010-01",
+      "country": "N/A",
+      "enrollment": 1,
+      "brief_summary": "Observational analyses of data from population registeries have suggested that metformin may be associated with a decreased prevalence of malignancy. The ADOPT and RECORD studies both contain groups of subjects randomly allocated to metformin and rosiglitazone. This meta-analysis combines malignancy serious adverse events from ADOPT and RECORD in order to compare their incidence on metformin with that on rosiglitazone.",
+      "eligibility_criteria": "Subjects from ADOPT that are included in this meta-analysis (those in the metformin or rosiglitazone groups) had the dose of their study medication increased to a maximum of 2g (metformin) or 8mg (rosiglitazone) if their fasting plasma glucose was greater than 140mg/dl.\n\nSubjects from RECORD that ar",
+      "endpoints": [
+        "Time to first occurrence of a serious adverse event of malignancy (excluding non-melanomatous skin cancers)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01195259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01420692",
+      "title": "The Effects of Insulin Detemir and Gliclazide-MR Treatments in Addition to Life-style Modification and Metformin Therapy on Endothelial Functions in Patients With Type 2 Diabetes : An Open-labelled Randomized Prospective Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2012-06",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 64,
+      "brief_summary": "The main purpose of this study is to analyze the effects of the addition of sulfonylurea (gliclazide MR) or ,alternatively, basal insulin (insulin detemir) to life-style modification and metformin treatment as a second step treatment in type 2 diabetes mellitus on endothelial cell functions. The second goal is to identify the effects of these treatment alternatives on body-mass index, the changes in body fat mass, insulin resistance and on the insulin secretion capacity of beta cells. The third ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Type 2 diabetic patients using at least 1000 mg/day metformin at least for 3 months\n2. 7\\<A1C ≤ 11\n3. Patients without any previous use of oral antidiabetics other than metformin or insulin\n4. Between 20 to 65 years old male or female patients\n\nExclusion Criteria:\n\n1. Active ",
+      "endpoints": [
+        "The evaluation of the changes in Flow-Mediated Dilatation (FMD) at 12th and 24th weeks compared to the baseline level, as a Measure of Endothelial Function",
+        "The Changes in the Peripheral Blood Levels of TNF-α, IL-6, MCP-1, sICAM-1, sVCAM-1, vWF, E-selectin, P-selectin, Endothelin-1, PAI-1, tPA and HMW Adiponectin at 12th and 24th weeks compared to the baseline level, as Measures of Inflam. and Coagulation"
+      ],
+      "sponsor": "Ankara University",
+      "url": "https://clinicaltrials.gov/study/NCT01420692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01709305",
+      "title": "A Multicenter, Randomized, Active-Controlled, Open-label Clinical Trial to Evaluate the Safety and Efficacy of Glimepiride, Gliclazide, Repaglinide or Acarbose as a Third OAHA on Top of Sitagliptin+Metformin Combination Therapy in Chinese Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-11-08",
+      "completion_date": "2015-04-17",
+      "country": "N/A",
+      "enrollment": 5570,
+      "brief_summary": "To assess the effect of adding acarbose or repaglinide or gliclazide to sitagliptin plus metformin, compared to adding glimepiride, on glycemic improvements in Type 2 Diabetes Mellitus (T2DM) participants who require the addition of a third oral anti-hyperglycemic agent (OAHA) according to China Guideline for Type 2 Diabetes. The three co-primary hypotheses are that after 24 weeks of treatment in phase 2, the mean change from baseline in hemoglobin A1c (A1c) in participants receiving either (1)a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has Type 2 Diabetes Mellitus;\n* Agrees to use an effective method of contraception or must not otherwise be at risk of becoming pregnant (female participants).\n\nExclusion Criteria:\n\n* Has a history of type 1 diabetes mellitus or a history of ketoacidosis;\n* Has been treated wi",
+      "endpoints": [
+        "Change From Phase 2 Baseline to Week 44 in Hemoglobin A1c (HbA1c) Levels (Phase 2)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01709305"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06704802",
+      "title": "Observational Cohort Study Evaluating the Effectiveness of an Education Program (NGAYDAUTIEN) in Combination With Gliclazide MR in the Management of Uncontrolled Type 2 Diabetic Patients.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-11-04",
+      "completion_date": "2024-06-28",
+      "country": "France",
+      "enrollment": 678,
+      "brief_summary": "The primary objective is to assess the change of HbA1c level from baseline after a 6-month follow up among uncontrolled patients with T2D who will be initiated to Diamicron® MR 60 (originator product) plus an educational program (NGAYDAUTIEN) as monotherapy or in add on to metformin in comparison to an initiation of an Oral Antidiabetic Drug (OAD) (except Diamicron®) as monotherapy or in add on to metformin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged at least 18 years (without upper limit of age)\n2. HbA1c value is required at the baseline visit\n3. Patients with diagnosis of uncontrolled T2D\n4. Initiation of a new OAD as monotherapy or on top of metformin\n5. Patient follow-up within the scope of the current medical pr",
+      "endpoints": [
+        "change of HbA1c level (measured in %) from baseline after a 6-month follow-up among the 2 arms"
+      ],
+      "sponsor": "Servier",
+      "url": "https://clinicaltrials.gov/study/NCT06704802"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02475499",
+      "title": "The Use of Incretin-based Drugs and the Risk of Pancreatic Cancer in Patients With Type 2 Diabetes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2015-04",
+      "country": "Canada",
+      "enrollment": 886172,
+      "brief_summary": "The purpose of this study is to determine whether incretin-based drugs (used to treat type 2 diabetes) taken either alone in or combination with other anti-diabetic drugs are associated with an increased risk of pancreatic cancer (PC) compared to sulfonylureas.\n\nThe investigators will carry out separate population based cohort studies using administrative health databases in five jurisdictions in Canada, the US, and the UK. Cohorts will be defined by the initiation of a new anti-diabetic drug wh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a first-ever prescription for a non-insulin anti-diabetic drug, including biguanides, sulfonylureas, thiazolidinediones, DPP-4 inhibitors, GLP-1 analogs, alpha-glucosidase inhibitors, meglitinides or combinations of these drugs from the earliest availability of d",
+      "endpoints": [
+        "Incident pancreatic cancer"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02475499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00102388",
+      "title": "Efficacy and Safety of Vildagliptin Compared to Gliclazide in Drug Naive Patients With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "",
+      "country": "Germany, Switzerland",
+      "enrollment": 1092,
+      "brief_summary": "This study is not being conducted in the United States. The purpose of this study is to assess the safety and effectiveness of vildagliptin, an unapproved drug, compared to gliclazide in lowering overall blood glucose levels in people with type 2 diabetes who have not been previously treated with drug therapy to lower their blood sugar.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Not currently on drug therapy for type 2 diabetes\n* Body mass index (BMI) in the range 22-45\n* Blood glucose criteria must be met\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Type 1 diabetes\n* Evidence of significant diabetic complications\n* Evidence of serious cardiovascu",
+      "endpoints": [
+        "Change from baseline in HbA1c at 104 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00102388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03246828",
+      "title": "Investigating Glucagon Secretion in HNF1-alpha and HNF4-alpha MODY",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-03",
+      "completion_date": "2022-08-01",
+      "country": "United Kingdom",
+      "enrollment": 10,
+      "brief_summary": "The aim of this study is to determine whether fasting and post-prandial glucagon secretion is suppressed by gliclazide in patients with HNF1-/4-alpha MODY. Participants will undergo an oral glucose tolerance test (OGTT) before and after omitting their gliclazide medication for 3 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of HNF1-alpha or HNF4-alpha MODY.\n* Currently on gliclazide treatment\n\nExclusion Criteria:\n\n* Currently taking any anti-diabetic medication other than gliclazide and metformin\n* Oral steroid treatment 30 days prior to the start or at any time during the study period.",
+      "endpoints": [
+        "Change in plasma glucagon from baseline (0min)"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT03246828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01758380",
+      "title": "A Double Blind, Double Dummy, Randomised, Multi-centre Study to Assess the Tolerability and Efficacy Profile of Vildagliptin Compared to Gliclazide as Dual Therapy With Metformin in Muslim Patients With Type 2 Diabetes Fasting During Ramadan",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2013-09",
+      "country": "Lebanon, United Arab Emirates, Singapore, Indonesia, Spain, Saudi Arabia, Turkey (Türkiye), Russia, Kuwait, Denmark, Germany, United Kingdom, Malaysia, Tunisia, Egypt, Jordan",
+      "enrollment": 557,
+      "brief_summary": "To evaluate vildagliptin as compared to gliclazide, given in combination with metformin in Muslim patients with type 2 diabetes fasting during Ramadan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed Type 2 Diabetes diagnosis\n* Plan to fast during Ramadan\n* Treated with a combination of metformin and an Sulfonylurea (SU) for at least 12 weeks and HbA1c ≤8.5% at Visit 1\n* Taking a sulfonylurea treatment for less than 3 years prior to Visit 1\n* Body mass index (BMI",
+      "endpoints": [
+        "Percentage of patients experiencing at least one Hypoglycaemic Event (HE) during the Ramadan fasting period to test superiority"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01758380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00738088",
+      "title": "The Use of Glycaemic Response to Sulphonylureas as a Tool to Investigate Type 2 Diabetes Pathophysiology",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2007-06",
+      "completion_date": "2011-03-03",
+      "country": "United Kingdom",
+      "enrollment": 14,
+      "brief_summary": "The study hypothesis is that people who respond well to sulphonylureas have a different underlying cause for their diabetes than people who respond poorly to this medication. We are using two approaches to study this. In one approach we look at people who have previously responded well or poorly, confirm this by rechallenging them with a sulphonylurea drug, and then looking at how well they produce insulin in response to glucose and an intravenous sulphonylurea called tolbutamide. The second app",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes\n* Age \\>35 and \\< 70\n* Age of diabetes diagnosis \\>35 and \\<70\n* White European\n* Pre-SU HbA1c \\<=10%\n* HbA1c (on treatment) \\<= 9%\n* No myocardial infarction or Acute coronary syndrome in previous year\n* No stroke or transient ischaemic attack in previous year",
+      "endpoints": [
+        "HbA1c reduction"
+      ],
+      "sponsor": "NHS Tayside",
+      "url": "https://clinicaltrials.gov/study/NCT00738088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00830297",
+      "title": "Treat-to-target Trial of Basal Insulin in Post-transplant Hyperglycemia (TIP): Efficacy and Safety of a Novel Protocol in Renal Transplant Recipients Receiving a Tacrolimus-based Immunosuppression",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2011-05",
+      "country": "Austria",
+      "enrollment": 50,
+      "brief_summary": "Treat-to-target trial of basal Insulin in Post-transplant hyperglycemia (TIP): efficacy and safety of a novel protocol in renal transplant recipients receiving a tacrolimus-based immunosuppression\n\nDESCRIPTION:\n\nA prospective, randomized safety and efficacy study of long-acting insulin (Insulatard®) as therapy against post-transplant hyperglycemia in renal transplant recipients\n\nOBJECTIVES:\n\nPrimary Objective:\n\nTo demonstrate superiority of long-acting insulin (Insulatard®) against post-transpla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* renal transplantation (deceased or living donor)\n* eligibility for the standard immunosuppression of our center, consisting of tacrolimus, mycophenolate mofetil or mycophenolic acid, dexamethasone/prednisone triple therapy\n* informed consent of the patient\n\nExclusion Criteria:",
+      "endpoints": [
+        "The primary endpoint is the difference in HbA1c between the two study arms."
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT00830297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02092597",
+      "title": "Safety Evaluation of Adverse Reactions in Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-10",
+      "completion_date": "2016-09",
+      "country": "Czechia",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to assess the effects of incretin-based antidiabetic therapies (DPP-4 inhibitors and GLP-1 agonists) on cardiovascular, gastrointestinal and renal system and to detail the mechanisms underlying their action in these systems.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes mellitus\n* Metformin monotherapy - stable dose during last 3 months\n* HbA1C 48-75 mmol/mol (IFCC)\n* BMI 25-40 kg/m2\n* Age 35-70 years (women postmenopausal)\n* Use of ACE inhibitors or ATII receptor blockers for at least 3 months before enrollment\n\nExclusion Cri",
+      "endpoints": [
+        "Heart rate",
+        "Gastric evacuation velocity",
+        "Blood pressure"
+      ],
+      "sponsor": "Charles University, Czech Republic",
+      "url": "https://clinicaltrials.gov/study/NCT02092597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01195532",
+      "title": "An Open-randomized, Balanced, Crossover Bioequivalence Study to Compare One MR Tablet of 60 mg Gliclazide and Two MR Tablets of 30 mg Gliclazide in Healthy Subjects",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2010-01",
+      "completion_date": "2011-01",
+      "country": "Taiwan",
+      "enrollment": 40,
+      "brief_summary": "The 2 × 2 crossover designed study is to evaluate the bioequivalence of two different MR tablets of gliclazide after single oral administration at the same doses to healthy subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects will be enrolled into the study according to the following criteria:\n\n1. Subjects must be male at the age of 20-40 years old in good health on the basis of medical history, physical examination, electrocardiogram, chest X-ray, and routine laboratory evaluations.\n2. Vita",
+      "endpoints": [
+        "AUC0-t, AUC0-∞, Cmax, Tmax, T1/2, and MRT in plasma will be determined with gliclazide concentrations by non-compartment methods."
+      ],
+      "sponsor": "Taipei Medical University WanFang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01195532"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01697592",
+      "title": "A Phase III, Multicenter, Randomized, Placebo-controlled, Parallel-group, Double-blinded Study and Subsequent Open-label, Extension Study to Assess the Safety and Efficacy of Addition of MK-3102 in Japanese Patients With Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Diet/Exercise Therapy and Oral Antihyperglycemic Agent Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-10-24",
+      "completion_date": "2014-05-08",
+      "country": "N/A",
+      "enrollment": 585,
+      "brief_summary": "This study will examine the safety and efficacy of the addition of omarigliptin in Japanese participants with type 2 diabetes mellitus who have inadequate glycemic control on diet/exercise therapy and oral antihyperglycemic agent monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has type 2 diabetes mellitus\n* Has inadequate glycemic control on diet/exercise therapy and oral antihyperglycemic agent monotherapy\n\nExclusion Criteria:\n\n* History of type 1 diabetes mellitus or a history of ketoacidosis\n* History of any of the following medications: Thiazoli",
+      "endpoints": [
+        "Percentage of Participants Who Experienced at Least One Adverse Event Excluding Data After Glycemic Rescue During Phase A",
+        "Percentage of Participants Who Experienced at Least One Adverse Event Excluding Data After Glycemic Rescue During the Overall Study",
+        "Percentage of Participants Who Discontinued From the Study Due to an Adverse Event During Phase A"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01697592"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02610088",
+      "title": "Effect of Dapagliflozin, a Sodium Glucose Co-transporter 2 Inhibitor, on Vascular Functions in Patients With Type 2 Diabetes Compared to Gliclazide",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2018-09",
+      "country": "South Korea",
+      "enrollment": 32,
+      "brief_summary": "The investigators set up a clinical trial to compare effect of dapagliflozin, a sodium glucose co-transporter 2 inhibitor, with gliclazide on vascular function in patients with type 2 diabetes",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes with HbA1c ≥ 7.5% at screening visit\n* Male or female between 40 and 70 years of age\n* Patients taking metformin (≥ 1000 mg or maximum tolerated dose) for more than 3 months\n* BMI ≥23 kg/m²\n* Estimated GFR ≥ 60 ml/min/1.73m²\n\nExclusion Criteria:\n\n* Patients wit",
+      "endpoints": [
+        "Vascular function assessed by Flow-mediated vasodilation (FMD)"
+      ],
+      "sponsor": "Seoul National University Bundang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02610088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00808860",
+      "title": "Anti-Diabetic Effect of Gynostemma Pentaphyllum Tea as add-on Therapy With Sulfonylureas in Type 2 Diabetic Patients",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2008-12",
+      "country": "Vietnam",
+      "enrollment": 25,
+      "brief_summary": "The present study aimed at investigating effect of Gynostemma pentapyllum (GP) extract, administered as a \"tea\", as add-on therapy with Sulfonylurea (SU) in drug-naive patients with newly diagnosed type 2 diabetes. After screening, all patients received gliclazide MR 30mg and instruction regarding diet and physical exercise for 12 weeks. After 4 weeks treated with gliclazide MR 30mg, the patients was randomized to additional GP tea or placebo tea, 3 g twice daily during 8 weeks. Oral glucose tol",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, drug-naive patients with type 2 diabetes\n* Fasting plasma glucose (FPG)9.0-14.0 mmol/L\n* HbA1C 9-13%\n\nExclusion Criteria:\n\n* Type 1 diabetes\n* Liver failure\n* Kidney failure",
+      "endpoints": [
+        "fasting plasma glucose",
+        "HbA1C (glycosylated hemoglobin)"
+      ],
+      "sponsor": "Hanoi Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT00808860"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06222476",
+      "title": "A Multicentric, Prospective, Randomized Study Evaluating the Improvement of Renal Function Outcomes With Dorzagliatin in Patients With Type 2 Diabetes Mellitus With Early Kidney Injury.",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-02-20",
+      "completion_date": "2026-06-30",
+      "country": "China",
+      "enrollment": 106,
+      "brief_summary": "The main purpose of this study is to explore the improvement of renal function before and after the intervention of dorzagliatin in patients with type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age:18-75 years old, male and female.\n2. Patients with type 2 diabetes mellitus, type 2 diabetes mellitus diagnosis criteria: according to the \"Chinese Type 2 Diabetes Mellitus Prevention and Treatment Guide (2020 Edition).\n3. UACR 30-299mg/g.\n4. eGFR ≥60mL/min/1.73m².\n5. HbA",
+      "endpoints": [
+        "Participants' personal information",
+        "Physical assessments",
+        "renal function"
+      ],
+      "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT06222476"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03433248",
+      "title": "RACELINES: Renal Actions of Combined Empagliflozin and LINagliptin in Type 2 diabetES",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2017-11-09",
+      "completion_date": "2022-09-01",
+      "country": "Netherlands",
+      "enrollment": 66,
+      "brief_summary": "The current study aims to explore the clinical effects and mechanistics of mono- and combination therapy with SGLT-2 inhibitor empagliflozin and DPP-4 inhibitor linagliptin on renal physiology and biomarkers in metformin-treated T2DM patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Caucasian\\*\n* Both genders (females must be post-menopausal; no menses \\>1 year; in case of doubt, Follicle-Stimulating Hormone (FSH) will be determined with cut-off defined as \\>31 U/L)\n* Age: 35 - 75 years\n* BMI: \\>25 kg/m2\n* HbA1c: 7.0 - 9.5% Diabetes Control and Complicati",
+      "endpoints": [
+        "GFR",
+        "GFR"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT03433248"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03125694",
+      "title": "Efficacy, Durability, Safety, and Tolerability of Sitagliptin vs. Pioglitazone as add-on Treatments in Patients With Type 2 Diabetes Uncontrolled on the Full-dose Metformin Plus Sulfonylurea: a 52-week, Randomized, Open-label, Parallel-group, Phase 3 Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-02-01",
+      "completion_date": "2017-04-01",
+      "country": "Iran",
+      "enrollment": 250,
+      "brief_summary": "This study has been designed to investigate the comparative effects of sitagliptin vs. pioglitazone as add-on treatments in patients with type 2 diabetes who were uncontrolled on the full-dose of metformin and sulfonylurea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of type 2 diabetes according to the American Diabetes Association\n* Baseline level of 7% ≤ A1C \\< 11% despite a minimum 6 months period of active treatment with metformin 2000 mg/day plus gliclazide 240 mg/day (uncontrolled type 2 diabetes)\n\nExclusion Criter",
+      "endpoints": [
+        "Change from baseline in mean glycated hemoglobin (A1C) levels by sitagliptin vs. pioglitazone"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03125694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03705195",
+      "title": "Study of Sulphonylurea Synergy With Incretins",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-08-03",
+      "completion_date": "2019-06-26",
+      "country": "United Kingdom",
+      "enrollment": 20,
+      "brief_summary": "The Study of Sulphonylurea Synergy with Incretins (LOGIC) is a Proof-of-Concept Physiological study in the form of two matched isoglycaemic clamps. A matched clamp consists of an of oral glucose tolerance test followed by an isoglycaemic intravenous glucose infusion (IGII). The study will investigate whether there is synergy between a physiological sulphonylurea (SU) stimulus and the incretin effect, causing augmentation of insulin secretion in patients with type 2 diabetes mellitus (T2DM). The ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 40 - 80,\n* Age of Diabetes Diagnoses ≥ 35\n* T2DM on no treatment or metformin monotherapy\n* White British\n* HbA1c ≤ 8% (64mmol/mol)\n* eGFR ≥ 50ml/min-1\n* ALT ≤ 2.5 x ULN\n* Able to consent\n\nExclusion Criteria:\n\n* Type 1 Diabetes Mellitus\n* HbA1c \\> 8.0% (\\> 64mmol/mol)\n* eG",
+      "endpoints": [
+        "Difference in insulin secretion and incretin effect between two matched clamps (presence and absence of low dose gliclazide)"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT03705195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04446026",
+      "title": "A Randomized, Placebo-controlled Clinical Trial of Teneligliptin as Quadruple Oral Combination Therapy for Type 2 DM After Failure of an Oral Triple Anti-diabetic Regimen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-07-08",
+      "completion_date": "2021-05-17",
+      "country": "South Korea",
+      "enrollment": 100,
+      "brief_summary": "This is a randomized, placebo-controlled clinical trial of Teneligliptin as quadruple oral combination therapy for type 2 diabetes after failure of an oral triple anti-diabetic regimen. Patients with uncontrolled type 2 diabetes (7.1% ≤ HbA1c ≤ 9%) prescribed with triple combination of oral antidiabetic drugs more than 12 weeks with sufficient doses (metformin \\>= 1000mg/d, Glimepiride \\>=4 mg/day, Gliclazide \\>= 60 mg/day, SGLT-2 inhibitor with approved dose by Korea FDA) will be included. Usin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age over 18 years and less than 81 years\n2. Patients with type 2 diabetes prescribed with triple combination of oral antidiabetic drugs more than 12 weeks with sufficient doses (metformin \\>= 1000mg/d, Glimepiride \\>=4 mg/day, Gliclazide \\>= 60 mg/day, SGLT-2 inhibitor with a",
+      "endpoints": [
+        "Hb1Ac"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT04446026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01269996",
+      "title": "JanUmet Before Insulin Lantus In Eastern Population Evaluation Program (JUBILEE) In Type 2 Diabetic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2015-02",
+      "country": "Hong Kong",
+      "enrollment": 71,
+      "brief_summary": "To evaluate the efficacy and safety of a new treatment regimen of metformin plus sitagliptin (Janumet) followed by a long-acting basal insulin (Lantus) treatment compared to the usual treatment regimen of metformin followed by sulfonylurea and intermediate-acting basal insulin in Type 2 Diabetes Mellitus patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients aged 18 to 80 years old at Visit 1.\n2. Male or female of Chinese ethnicity.\n3. Type 2 diabetic patients who are drug naïve with HbA1c ranged between 7.0% to 11.0%.\n4. Type 2 diabetic patients who are on single oral hypoglycaemic drug treatment or insulin treatm",
+      "endpoints": [
+        "To evaluate the treatment efficacy"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01269996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01022762",
+      "title": "A 16-week, Multicentre, Randomised, Open-label, Parallel Group Study to Investigate the Efficacy and Safety Profiles of Repaglinide Monotherapy Compared to Gliclazide Monotherapy in Chinese Antidiabetic-naïve Subjects With Type 2 Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2010-11",
+      "country": "China",
+      "enrollment": 440,
+      "brief_summary": "This trial is conducted in Asia. The aim of this clinical trial is to investigate the blood glucose lowering effect and the safety profile of repaglinide given alone compared to gliclazide given alone in Chinese subjects with type 2 diabetes who never have been treated with oral anti-diabetic drugs (OADs). This study also investigates the augment effect of repaglinide on the phases of insulin secretion as a subgroup study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes\n* Oral anti-diabetic drug (OAD) naïve (unsystematic OAD treatment 6 months prior to this trial is allowed)\n* Insulin naïve (less than 1 week of daily use of insulin therapy before trial start is allowed)\n* Lipid-lowing agent naïve\n* HbA1c: 6.5-8.5%\n* Fasting gl",
+      "endpoints": [
+        "Change in Glycosylated Haemoglobin (HbA1c)"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01022762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01771185",
+      "title": "Metabolic Effects of Duodenal-jejunal Bypass Surgery in Non Morbidly Obese Subjects With Type 2 Diabetes",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-10",
+      "completion_date": "2013-12",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "Gastric bypass surgery resolves type 2 diabetes mellitus (T2DM) without the need for diabetes therapy in \\~80% of patients. Moreover, improvement in insulin sensitivity and glucose homeostasis occurs within days after surgery before significant weight loss is achieved. This observation has led to the notion that bypassing the upper gastrointestinal (GI) tract has specific therapeutic effects on insulin action and glucose metabolism. In fact, both surgical and endoscopic procedures that bypass th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Uncontrolled diabetes ( A1c\\>8%)\n* Less than 10 years of history\n* Not taking insulin\n* Ages between 20 and 65 years old\n* BMI between 26-34\n\nExclusion Criteria:\n\n* previous abdominal surgery\n* LADA\n* Using insulin",
+      "endpoints": [
+        "Hb A1a"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT01771185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03313661",
+      "title": "Co-administration of Cabergoline and Gliclazide Improve Glycemic Parameters and Lipid Profile in T2DM Patients",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2017-10-14",
+      "completion_date": "2020-12",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Evaluation of the glycemic efficacy of cabergoline on diabetic patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients.\n\nExclusion Criteria:\n\n* Other drugs administration",
+      "endpoints": [
+        "The level of fasting and post prandial BG level"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT03313661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00102466",
+      "title": "Vildagliptin Compared to Gliclazide in Combination With Metformin in Patients With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2009-01",
+      "country": "Germany, Switzerland",
+      "enrollment": 1007,
+      "brief_summary": "This study is not being conducted in the United States. Many people with type 2 diabetes cannot maintain target blood glucose levels when taking a single oral drug. The purpose of this study is to assess the safety and effectiveness of vildagliptin, an unapproved drug, compared to that of gliclazide in lowering overall blood glucose levels when added to metformin in people with type 2 diabetes not at target blood glucose levels on metformin alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* On a stable dose of metformin as defined by the protocol\n* Blood glucose criteria must be met\n* Body mass index (BMI) in the range 22-45\n\nExclusion Criteria:\n\n* Pregnancy or lactation\n* Type 1 diabetes\n* Evidence of significant diabetic complications\n* Evidence of serious card",
+      "endpoints": [
+        "Change from baseline in HbA1c at 52 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00102466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00225342",
+      "title": "Effects of Rosiglitazone and Sulphonylureas on Ischaemic Burden, Blood Pressure and Novel Risk Markers Inclusive of Vascular Function in Patients With Chronic Stable Angina and Type 2 Diabetes Mellitus: A Randomised, Double-Blinded Study.",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United Kingdom",
+      "enrollment": 60,
+      "brief_summary": "The principle objective of the trial is to compare rosiglitazone to gliclazide in patients with type 2 diabetes mellitus and chronic stable angina to see how the subjects' angina status changes.\n\nAngina status will be measured via exercise tolerance testing, 24-hour ECG testing and angina quality of life questionnaire.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic stable angina with ongoing symptoms. (The treatment goal being an improvement in symptoms)\n* Participants will have uncontrolled diabetes (Hba1c\\>7.5) on metformin monotherapy (so the diabetes is not over treated)\n* Participants will be diabetic for less than 8 years.\n",
+      "endpoints": [
+        "Angina status at 3 months"
+      ],
+      "sponsor": "University of Glasgow",
+      "url": "https://clinicaltrials.gov/study/NCT00225342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03068065",
+      "title": "Comparison of Efficacy of Liraglutide, Metformin and Gliclazide MR on Hepatic Lipid Content in Patients With Type 2 Diabetes (T2DM) and Non-alcoholic Fatty Liver (NAFLD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2015-10",
+      "country": "China",
+      "enrollment": 87,
+      "brief_summary": "This was a 24-week single-center, open-label, parallel controlled group comparing gliclazide, liraglutide, and metformin effects on diabetes with nonalcoholic fatty liver disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age: 18-70 years;\n2. Type 2 diabetes mellitus;\n3. Not used antidiabetic drugs within 3 months;\n4. HbA1c(7-10%);\n5. Presence of fatty liver disease (hepatic fat content ≥ 20% by quantitative ultrasonography);\n6. Female subjects：post-menopausal women, take contraceptive measure",
+      "endpoints": [
+        "Intrahepatic fat"
+      ],
+      "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT03068065"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00379769",
+      "title": "A Long Term, Open Label, Randomised Study in Patients With Type 2 Diabetes, Comparing the Combination of Rosiglitazone and Either Metformin or Sulfonylurea With Metformin Plus Sulfonylurea on Cardiovascular Endpoints and Glycaemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-04",
+      "completion_date": "2008-12",
+      "country": "Bulgaria, Spain, Russia, Sweden, Belgium, Croatia, Hungary, Slovakia, Germany, Australia, Latvia, Romania, Lithuania, Finland, Greece, Ukraine, Poland, Estonia, France, Czechia, Italy, Denmark, United Kingdom, Netherlands, New Zealand",
+      "enrollment": 4447,
+      "brief_summary": "This study is a phase 3b, multicentre, randomised, open label, parallel group study. A 4-week run-in period will be followed by a median of 6 years of treatment with study medication in addition to continuation of background glucose lowering therapy. Patients inadequately controlled on background metformin will be randomised to receive, in addition to metformin, either rosiglitazone or a sulfonylurea(glibenclamide, gliclazide or glimepiride) in a ratio of 1:1. Patients inadequately controlled on",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with type II diabetes mellitus as defined by 1999 World Health Organisation criteria.\n* Glycated haemoglobin (HbA1c) \\>7.0 % to = 9.0 % at visit 1.\n* Use of an oral glucose lowering agent for a minimum of 6 months prior to screening and unchanged for 2 months prior to",
+      "endpoints": [
+        "Number of Participants With Cardiovascular Death/Cardiovascular Hospitalisation Events",
+        "Independent Re-adjudication Outcome: Number of Participants Who Died Due to Any Cause",
+        "Independent Re-adjudication (IR) Outcome: Number of Participants With a First Occurrence of a Major Adverse Cardiovascular Event (MACE) Defined as CV (or Unknown) Death, Non-fatal MI, and Non-fatal Stroke Based on Original RECORD Endpoint Definitions"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00379769"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02526810",
+      "title": "Comparison of Glycaemic Fluctuation and Oxidative Stress Between Two Short-term Therapies for Type 2 Diabetes",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-07",
+      "completion_date": "2016-09",
+      "country": "China",
+      "enrollment": 70,
+      "brief_summary": "The purpose of this study is to compare the blood glucose control, glycaemic fluctuation and oxidative stress for Type 2 Diabetes between two therapies, one is glargine combined with oral drugs and the other is continuous subcutaneous insulin injection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. investigator diagnosed type 2 diabetes( 1999 WHO diagnosis criteria).\n2. diagnosed as type 2 diabetes in the first time without drug therapy, or type 2 diabetes does not accept insulin in the near 3 month and duration is shorter than 10 years\n3. Fasting plasma glucose ( FPG )",
+      "endpoints": [
+        "mean amplitude of glycemic excursions( MAGE)"
+      ],
+      "sponsor": "Third Affiliated Hospital, Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02526810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01963130",
+      "title": "Does Vildagliptin Affect Portal Vein Pressure In Patients With Type 2 Diabetes Mellitus? A Cross Sectional Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-07",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 97,
+      "brief_summary": "This study investigated how vildagliptin (a di-peptidyl peptidase 4 inhibitor) affects portal vein pressure and hepatosteatosis in patients with type 2 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-type 2 DM cases and at least 3 months used the same drugs (metformin and gliclazide or metformin and gliclazide and vildagliptin)\n\nExclusion Criteria:\n\n* used alcohol and cigarettes\n* chronic liver disease,\n* chronic renal failure,\n* active infection\n* patients using certain dr",
+      "endpoints": [
+        "This study investigated the effect of the used type 2 DM drug, vildagliptin, a DPP-4 inhibitor, on portal hemodynamics."
+      ],
+      "sponsor": "Bezmialem Vakif University",
+      "url": "https://clinicaltrials.gov/study/NCT01963130"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00949286",
+      "title": "Action in Diabetes and Vascular Disease Preterax and Diamicron MR Controlled Evaluation Post Trial Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2014-02",
+      "country": "Russia, Canada, India, Hungary, Slovakia, Germany, Australia, Lithuania, Ireland, Poland, Estonia, France, Philippines, Czechia, Italy, China, Netherlands, Malaysia, United Kingdom, New Zealand",
+      "enrollment": 8494,
+      "brief_summary": "The study is designed to determine the long term, post trial effects of the two interventions studied in ADVANCE (routine blood pressure lowering with perindopril-indapamide as compared with placebo and intensive gliclazide-MR based glucose control as compared to standard guideline based glucose control) in individuals with type 2 diabetes at high risk of cardiovascular events. The long term, post randomization effects of the two study interventions will be investigated separately as they were f",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participated in ADVANCE\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Major macrovascular events -a composite of non-fatal myocardial infarction, non-fatal stroke and death from any cardiovascular cause (based on investigator diagnosis)",
+        "Death from any cause"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00949286"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01131182",
+      "title": "An Open-Label, Randomized Naturalistic Study to Evaluate the Incidence of Hypoglycemia Comparing Sitagliptin With Sulfonylurea Treatment in Patients With Type 2 Diabetes During Ramadan Fasting",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-06-13",
+      "completion_date": "2010-11-04",
+      "country": "N/A",
+      "enrollment": 1147,
+      "brief_summary": "This study will examine whether the incidence of hypoglycemia in patients fasting for Ramadan is lower when treated with sitagliptin as compared to sulfonylurea treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Muslim men and women with type 2 diabetes\n* Participants who intend to fast during the month of Ramadan\n* Participants who have been on a stable dose of sulfonylurea for at least three months\n\nExclusion Criteria:\n\n* Participants with type 1 diabetes mellitus\n* Pregnant or brea",
+      "endpoints": [
+        "Proportion of Participants With at Least One Symptomatic Hypoglycemic Event"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01131182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01242215",
+      "title": "A Phase III Study to Assess the Efficacy, Safety and Tolerability of ASP1941 in Combination With Sulfonylurea in Patients With Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Sulfonylurea Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-09-17",
+      "completion_date": "2012-04-25",
+      "country": "Japan",
+      "enrollment": 243,
+      "brief_summary": "This study is to evaluate the efficacy and safety after concomitant administration of ASP1941 and sulfonylurea in patients with diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetic patients receiving with sulfonylurea mono-therapy for at least 4 weeks\n* HbA1c value between 7.0 and 9.5%\n* Body Mass Index (BMI) 20.0 - 45.0 kg/m2\n\nExclusion Criteria:\n\n* Type 1 diabetes mellitus patients\n* Serum creatinine \\> upper limit of normal\n* Proteinur",
+      "endpoints": [
+        "Change from baseline in HbA1c"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT01242215"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02587741",
+      "title": "Comparison of Diabetes Retinopathy Among Type 2 Diabetic Patients Treated With Different Regimens: a Multicentre Randomized Parallel-group Clinical Trial",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2015-07",
+      "completion_date": "2025-07",
+      "country": "China",
+      "enrollment": 600,
+      "brief_summary": "Diabetic retinopathy (DR) is an important cause of blindness.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. aged 30-65;\n2. diagnosed to be type 2 diabetes in accordance with the WHO diagnostic criteria in 1999 .\n3. diabetes duration for 5 years or less;\n4. the glycosylated hemoglobin (HbA1c) is higher than or equal to7.0% ;\n5. body mass index (BMI) 20-35 kg/m2;\n6. fluorescein fundu",
+      "endpoints": [
+        "The incidence of diabetic retinopathy"
+      ],
+      "sponsor": "Third Affiliated Hospital, Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02587741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01679899",
+      "title": "Effect of Anti-diabetic Drugs on Bone Metabolism and Glycemic Variability.A Comparison Between Vildagliptin and Gliclazide MR",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2015-10",
+      "country": "Brazil",
+      "enrollment": 56,
+      "brief_summary": "This is a Monocentric, Prospective, Randomized, Open-label, Comparative, Phase IV Study, to compare the effects of Vildagliptin and Gliclazide MR on Markers of Bone Remodeling, Bone Mineral Density and Glycemic Variability in Postmenopausal Women with Type 2 Diabetes.\n\nA total of 38 women with documented Type 2 Diabetes and menopause will be enrolled. The active treatment will include a 50 mg dose of vildagliptin OD twice a day. As comparator, gliclazide MR will be administered at a dose of 60 t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent form obtained before any study-related activity. Study-related activities are any procedure that would not be performed during the normal treatment of the patient.\n* All study subjects must be women diagnosed with type 2 diabetes based on current guidelines of",
+      "endpoints": [
+        "Markers of bone remodeling"
+      ],
+      "sponsor": "Centro de Diabetes Curitiba Ltda",
+      "url": "https://clinicaltrials.gov/study/NCT01679899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03804411",
+      "title": "Search for Highly Specific Predictors of Response to Different Hypoglycemic Therapy for Cardiovascular Prognosis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2017-08-01",
+      "completion_date": "2020-05",
+      "country": "Russia",
+      "enrollment": 800,
+      "brief_summary": "This is a randomized controlled trial aimed to determine highly specific personified predictors of response to the therapy by different groups of hypoglycemic drugs (SGLT-2 inhibitors, DPP-4 inhibitors, GLP-1 receptor agonists, sulfonylureas) in patients with type 2 diabetes mellitus, develop an algorithm of personalized therapy based on them, design an organizational and methodological model for prevention of the cardiovascular complications, and create an automated decision-making system for t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female aged 17-70 years\n2. Type 2 diabetes mellitus with non-target HbA1c exciding less than 1% (\\<1%)\n3. Initiation of the treatment by SGLT- 2 inhibitors, dipeptidyl peptidase-4 inhibitors, GLP-1 analogues\n4. Stable hypoglycemic therapy for 12 weeks before enrollme",
+      "endpoints": [
+        "HbA1c",
+        "Body mass index"
+      ],
+      "sponsor": "Federal State Budgetary Institution, V. A. Almazov Federal North-West Medical Research Centre, of the Ministry of Health",
+      "url": "https://clinicaltrials.gov/study/NCT03804411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01991197",
+      "title": "Dipeptidyl Peptidase-4 Inhibition in Psoriasis Patients With Diabetes (DIP): A Randomized Clinical Trial.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2016-01",
+      "country": "Ireland",
+      "enrollment": 20,
+      "brief_summary": "The primary purpose of this study is to determine if sitagliptin (Januvia®) improves psoriasis severity after 16 weeks of treatment in 20 participants with both psoriasis and type 2 diabetes mellitus. We will compare the change in psoriasis severity in 20 participants treated with Januvia® to 20 participants treated with 16 weeks of a comparator drug (gliclazide, Diamicron®). Participants will be recruited from two centres and after a 4 week washout period will be followed prospectively for 36 w",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPeople who satisfy all of the following may be included in the study:\n\n1. Have a diagnosis of generalized chronic plaque and/or guttate psoriasis;\n2. Are male or female aged between 18 and 75 years inclusive;\n3. Have a psoriasis area and severity index (PASI) greater than 7;\n4. ",
+      "endpoints": [
+        "The Change in the Psoriasis Area and Severity Index (PASI) From Baseline to 16 Weeks in Psoriasis Patients With Type 2 Diabetes Treated With Sitagliptin Compared to Patients Treated With Gliclazide."
+      ],
+      "sponsor": "University College Dublin",
+      "url": "https://clinicaltrials.gov/study/NCT01991197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01426737",
+      "title": "The Swiss Glucose Variability Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-04",
+      "completion_date": "2013-01",
+      "country": "Switzerland",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to explore long term glucose variability of a combination therapy of metformin and vildagliptin compared to a metformin - gliclazide combination.\n\nMulticenter, randomized, open, parallel group, Phase IV study, of 18 months duration.\n\n* Trial with medicinal product",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Male or female patients aged =30 -= 75 years.\n2. History of type 2 diabetes for at least 6 months.\n3. Patients inadequately controlled (i.e. not reaching target) with maximum tolerated doses of metformin with HbA1c of 6.5-9.0%.\n4. Patients inadequately controlled (i.e. not re",
+      "endpoints": [
+        "Mean amplitude of glycemic excursion as described by Service et al. (1970) calculated from the glucose excursions of the CGMS profiles using MiniMedSolution Software (MedtronicMiniMed)."
+      ],
+      "sponsor": "University of Zurich",
+      "url": "https://clinicaltrials.gov/study/NCT01426737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01798706",
+      "title": "A Randomized, Double-blind, Placebo-controlled, 2-arm Parallel-group, Multicenter, 24 Week Study Assessing the Safety and Efficacy of Lixisenatide in Older Patients With Type 2 Diabetes Inadequately Controlled on Their Current Diabetes Treatment Regimen",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2015-02",
+      "country": "Bulgaria, Spain, Norway, Sweden, South Africa, Denmark, Australia, Germany, United Kingdom, Peru, Poland, Canada, United States",
+      "enrollment": 350,
+      "brief_summary": "Primary objective:\n\n\\- To evaluate the effect of lixisenatide versus placebo over a period of 24 weeks on glycemic control, as evaluated by glycosylated hemoglobin (HbA1c) reduction, in older type 2 diabetes participants (T2DM) who are inadequately controlled with their current anti-diabetic treatment regimen.\n\nMain secondary objective:\n\n\\- To assess the safety and tolerability of lixisenatide compared to placebo in older T2DM participants (including occurrence of documented (Plasma Glucose PG \\",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Older participants, aged 70 years and above, with T2DM inadequately controlled on their current anti-diabetic pharmaceutical treatment regimen.\n* Signed written informed consent.\n\nExclusion criteria:\n\n* At screening HbA1c ≤7.0% or \\>10% (Acknowledging that the threshold of 7%",
+      "endpoints": [
+        "Absolute Change in HbA1c From Baseline to Week 24"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01798706"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01590771",
+      "title": "A Phase III, Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Trial in China to Study the Safety and Efficacy of the Addition of Sitagliptin in Patients With Type 2 Diabetes Mellitus Who Have Inadequate Glycemic Control on Sulfonylurea Therapy, Alone or in Combination With Metformin",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-07-09",
+      "completion_date": "2014-06-24",
+      "country": "N/A",
+      "enrollment": 498,
+      "brief_summary": "A study to compare safety and efficacy of sitagliptin and placebo therapy when added to stable sulfonylurea alone or in combination with metformin in participants with type 2 diabetes mellitus (T2DM). The primary hypothesis of this study is that after 24 weeks, the addition of sitagliptin compared with placebo provides greater reduction in hemoglobin A1C (HbA1C) in T2DM participants on sulfonylurea alone or in combination with metformin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* has T2DM\n* is currently on a stable regimen of gliclazide or glimepiride, either alone or in combination with metformin for ≥ 10 weeks\n* has a Visit 1/Screening HbA1C between 7.5% and 11.0%\n* is a male, or a female who is highly unlikely to conceive during the study and for 14",
+      "endpoints": [
+        "Change From Baseline in A1C Levels at Week 24 in Participants Receiving Sitagliptin and Sulfonylurea Alone or in Combination With Metformin",
+        "Number of Participants Who Experienced an Adverse Event",
+        "Number of Participants Who Discontinued Study Drug Due to an Adverse Event"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01590771"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00978263",
+      "title": "An Efficacy and Safety Comparison of Basal Insulin and OADs in Newly Diagnosed Type 2 Diabetes After Short-term Intensive Insulin Therapy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2012-06",
+      "country": "China",
+      "enrollment": 47,
+      "brief_summary": "The investigators designed this prospective, randomized control study to compare the efficacy and safety between the basal insulin glargine therapy and metformin-based OADs after correction of the glucose toxicity with a short period of intensive insulin therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Newly diagnosed type 2 diabetic patients.\n2. Drug naïve, with severe hyperglycemia (fasting plasma glucose\\>11.1mmol/L or random plasma glucose \\>16.7mmol/L)\n3. Those who age between 30 and 70 years old and can inject insulin by themselves.\n\nExclusion Criteria:\n\n1. Establishe",
+      "endpoints": [
+        "Glycosylated Hemoglobin (HbA1c) at month 6",
+        "Change From Baseline in Glycosylated Hemoglobin at month 6"
+      ],
+      "sponsor": "Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT00978263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02694263",
+      "title": "A Randomised Controlled Trial for People With Established Type 2 Diabetes During Ramadan: Canagliflozin (Invokana™) vs. Standard Dual Therapy Regimen: The 'Can Do Ramadan' Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-07",
+      "completion_date": "2018-09-13",
+      "country": "United Kingdom",
+      "enrollment": 25,
+      "brief_summary": "This study aims to determine if the addition of Canagliflozin (Invokana™) therapy to monotherapy of metformin is more effective at achieving the double composite endpoint of a reduction in HbA1c (≥ 0.3%) and weight loss (≥1kg) 3-4 weeks post-Ramadan. The study will also include patients currently on dual therapy, specifically metformin plus a sulphonylurea, pioglitazone or repaglinide to determine whether switching to metformin plus Canagliflozin (Invokana™) is more effective at achieving the co",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Able, in the opinion of the Investigator, and willing to give informed consent\n2. Age ≥ 25 years old\n3. Established T2DM (≥ 3 months) on stable dose monotherapy (metformin only for ≥ 8 weeks prior to enrolment) OR stable dose dual therapy (metformin plus either repaglinide, a ",
+      "endpoints": [
+        "HbA1c + weight loss"
+      ],
+      "sponsor": "University of Leicester",
+      "url": "https://clinicaltrials.gov/study/NCT02694263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02682563",
+      "title": "A Randomized, Double-blind, Comparator-controlled Trial to Assess the Effect of 12-week Treatment With Dapagliflozin Versus Gliclazide on Renal Physiology and Biomarkers in Metformin-treated Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-02",
+      "completion_date": "2018-09",
+      "country": "Netherlands",
+      "enrollment": 44,
+      "brief_summary": "Background:\n\nWorldwide, diabetic nephropathy or Diabetic Kidney Disease (DKD), is the most common cause of chronic and end-stage kidney disease. With the increasing rates of obesity and type 2 diabetes (T2DM), many more patients with DKD may be expected in the coming years. Large-sized prospective randomized clinical trials suggest that intensified glucose and blood pressure control, may halt the progression of DKD, both in type 1 diabetes and T2DM. However, despite the wide use of angiotensin-c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Caucasian\\*\n* Both genders (females must be post-menopausal; no menses \\>1 year; in case of doubt, Follicle-Stimulating Hormone (FSH) will be determined with cut-off defined as \\>31 U/L)\n* Age: 35 - 75 years\n* BMI: \\>25 kg/m2\n* HbA1c: 6.5 - 9.0% Diabetes Control and Complicati",
+      "endpoints": [
+        "Glomerular Filtration Rate (GFR) in ml/Min",
+        "Effective Renal Plasma Flow (ERPF) in ml/Min"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT02682563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06217887",
+      "title": "Efficacy Comparison of Polyethylene Glycol Loxenatide and Gliclazide on the Brain Function in T2DM Patients: a Randomized, Parallel Controlled Clinical Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-10",
+      "completion_date": "2024-06",
+      "country": "China",
+      "enrollment": 58,
+      "brief_summary": "This is a prospective, randomized, open label, parallel,4-month study to explore and evaluate the therapeutic effects of polyethylene glycol loxenatide on the cognitive function, olfactory function, and odor-induced brain activation in T2DM patients with normal cognitive status or MCI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with type 2 diabetes mellitus ;\n* Aged:40 -75 years ;\n* Cognitive function assessment suggests normal status or mild cognitive impairment;\n* a stable dose of metformin monotherapy (≥1,500 mg daily) for at least 90 days,\n* HbA1c 7 - 10%;\n* ≥6 years of education;\n* Righ",
+      "endpoints": [
+        "Change of olfactory brain activation by fMRI"
+      ],
+      "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT06217887"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00780715",
+      "title": "Response To Oral Agents in Diabetes (ROAD)- Pilot Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2009-10",
+      "country": "United Kingdom",
+      "enrollment": 29,
+      "brief_summary": "This proposal is to fund a pilot study to assess feasibility and refine methodology for an intended large Scotland wide study on Response to Oral Agents in Diabetes (ROAD). The study will collect cohorts of patients who have carefully controlled standardised dose titration and monitoring with an assessment of drug response and side effects over a 6 month period. The primary aim will be to use these cohorts to investigate phenotypic and genotypic (pharmacogenetic) determinants of response.\n\nDrug ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cohort 1 - metformin treatment\n\n  * Type 2 diabetes diagnosed more than 6 weeks prior to visit 1\n  * GP considers adequate diet and lifestyle advice given\n  * Age \\>35 and \\< 80\n  * Age of diabetes diagnosis \\>35\n  * White European\n  * HbA1c \\>7% \\& \\<=9%\n  * eGFR\\>=50 ml/min\n",
+      "endpoints": [
+        "HbA1c Change"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00780715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01357135",
+      "title": "Observational Study of the Treatment and Follow-up of Patients With Type II Diabetes Receiving Bitherapy With or Without Sitagliptin (Januvia®/Xelevia®).",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-07-15",
+      "completion_date": "2013-08-31",
+      "country": "N/A",
+      "enrollment": 3453,
+      "brief_summary": "This is an observational study to compare the effectiveness of dual therapy of Type II diabetes mellitus with metformin + sitagliptin versus metformin + a sulfonylurea in routine clinical practice in France.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes participants\n* De novo treatment (first prescription or dated within the past 8 weeks) with:\n* Metformin + sitagliptin dual therapy,\n* Metformin + sulfonylurea dual therapy,\n* Sitagliptin as part of another treatment regimen\n* Participants also eligible for tre",
+      "endpoints": [
+        "Median Duration (in Months) of Initial Dual Therapy",
+        "Percentage of Participants With Strict Changes in Initial Dual Therapy"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01357135"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06449235",
+      "title": "Efficacy and Safety of Omarigliptin, A Weekly Dipeptidyl Peptidase-4 Inhibitor for Type 2 Diabetes Management: Real-World Evaluation in Bangladesh",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-09",
+      "completion_date": "2025-06",
+      "country": "Bangladesh",
+      "enrollment": 938,
+      "brief_summary": "The study titled \"Efficacy and Safety of Omarigliptin, A Weekly Dipeptidyl Peptidase-4 Inhibitor for Type 2 Diabetes Management: Real-World Evaluation in Bangladesh\" aims to assess the real-world effectiveness and safety of omarigliptin in managing newly diagnosed type 2 diabetes mellitus (T2DM) patients. Conducted at BIRDEM General Hospital, this 12-month observational study involves 938 patients aged 18 years or older, newly diagnosed with T2DM, with no prior use of antidiabetic medications.\n\n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed T2DM (according to American Diabetic Association, ADA guideline) aged (≥ 18 years) treated with stable doses of antidiabetic medications (with or without omarigliptin) along with standard diet and exercise\n* HbA1C ranged ≥7.0% and ≤10.0%\n* Stables doses of drug",
+      "endpoints": [
+        "Glycemic Control as Measured by HbA1c Levels"
+      ],
+      "sponsor": "Bangladesh Institute of Research and Rehabilitation in Diabetes, Endocrine and Metabolic Disorders",
+      "url": "https://clinicaltrials.gov/study/NCT06449235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02133118",
+      "title": "A Prospective Observational Cohort Study; The Weight Trajectory in New Users of Sulfonylureas as Add on Therapy Next to Metformin.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2014-12",
+      "country": "Netherlands",
+      "enrollment": 16293,
+      "brief_summary": "Next to HbA1c, body weight is regarded as an important surrogate end-point in trials investigating glucose-lowering agents. An increase in weight could contribute to worsening insulin resistance. Differences in weight after starting glucose lowering agents have been described in many randomized controlled trials (RCTs).\n\nWith this prospective observational study, weight trajectories after receiving add-on therapy next to metformin are evaluated in primary care patients with good glycaemic contro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T2DM\n* Treated in primary care in period 1998 to 2012\n* used metformin monotherapy\n* subsequently received add-on therapy with a SU or pioglitazone during their entire follow-up period",
+      "endpoints": [
+        "The course of weight (Kg) after starting individual SU's, pioglitazone or insulin as add-on therapy."
+      ],
+      "sponsor": "Medical Research Foundation, The Netherlands",
+      "url": "https://clinicaltrials.gov/study/NCT02133118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05284344",
+      "title": "The Impact of Glucotoxicity on Gastric Emptying in Chinese Patients With Newly Diagnosed Type 2 Diabetes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-01-24",
+      "completion_date": "2023-12-31",
+      "country": "China",
+      "enrollment": 78,
+      "brief_summary": "Gastric emptying is now recognized as a major determinant of the blood glucose response to carbohydrate in both health and type 2 diabetes (T2D). While patients with longstanding diabetes exhibit a high prevalence of delayed gastric emptying, i.e. gastroparesis, patients with fewer complications are often associated with accelerated gastric emptying, which exacerbates postprandial glycaemic excursions. Moreover, gastric emptying appears to be more rapid in Han Chinese patients with T2D, as compa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients newly diagnosed of type 2 diabetes as defined by published Criteria of World Health Organization in 1999; with HbA1c ≥ 7%, age ≥ 18 years of age and ≤ 80 years old, and willing to receive anti-diabetic treatments,\n2. Non-diabetic controls, with BMI and age matched to",
+      "endpoints": [
+        "Change in Gastric-half emptying time of the 75 g glucose drink",
+        "Gastric-half emptying time of the 75 g glucose drink"
+      ],
+      "sponsor": "University of Adelaide",
+      "url": "https://clinicaltrials.gov/study/NCT05284344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02456428",
+      "title": "Incretin-based Drugs and the Risk of Heart Failure: A Multi-center Network Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2015-05",
+      "country": "Canada",
+      "enrollment": 1499650,
+      "brief_summary": "The purpose of this study is to determine whether incretin-based drugs (used to treat type 2 diabetes) taken either alone or in combination with other anti-diabetic drugs are associated with an increased risk of heart failure (HF) compared to other combinations of oral hypoglycemic agents (OHA).\n\nThe investigators will carry out separate population based cohort studies using administrative health databases in six jurisdictions in Canada, the US and the UK. Cohorts will be defined by the initiati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a first-ever prescription for a non-insulin anti-diabetic drug, including biguanides, sulfonylureas, thiazolidinediones, DPP-4 inhibitors, GLP-1 analogs, alpha-glucosidase inhibitors, meglitinides, or combinations of these drugs from the earliest availability of ",
+      "endpoints": [
+        "Hospitalization for incident heart failure"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02456428"
+    }
+  ],
+  "timestamp": "2026-03-04T16:46:07.529351",
+  "success": true,
+  "error_message": null
+}

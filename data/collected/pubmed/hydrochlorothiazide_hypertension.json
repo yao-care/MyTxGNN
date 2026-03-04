@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrochlorothiazide",
+    "disease": "hypertension",
+    "query_string": "Hydrochlorothiazide AND hypertension"
+  },
+  "data": {
+    "query": "Hydrochlorothiazide AND hypertension",
+    "results": [
+      {
+        "pmid": "35404993",
+        "title": "Thiazide and the Thiazide-Like Diuretics: Review of Hydrochlorothiazide, Chlorthalidone, and Indapamide.",
+        "abstract": "The term thiazide is universally understood to refer to diuretics that exert their principal action in the distal tubule. The thiazide class is heterogenous and can be further subdivided into compounds containing the benzothiadiazine ring structure-the thiazide-type (e.g., hydrochlorothiazide)-and those lacking the benzothiadiazine ring-the thiazide-like (e.g., chlorthalidone and indapamide) drugs. Thiazide-like agents are longer acting and constitute the diuretics used in most of the cardiovascular outcome trials that established benefits of treatment with diuretics, but pragmatic aspects, such as lack of availability in convenient formulations, limit their use. Regardless of class heterogeneity, thiazides have retained importance in the management of hypertension for over 60 years. They are reliably effective as monotherapy in a majority of hypertensive patients, and augment the efficacy of other classes of antihypertensives when used in combination. Importantly, a thiazide-based tre",
+        "journal": "American journal of hypertension",
+        "year": "2022",
+        "authors": [
+          "Ernst Michael E",
+          "Fravel Michelle A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Chlorthalidone",
+          "Diuretics",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Indapamide",
+          "Thiazides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35404993/"
+      },
+      {
+        "pmid": "19355995",
+        "title": "Irbesartan and hydrochlorothiazide association in the treatment of hypertension.",
+        "abstract": "Blood pressure (BP) is one of the most important and common vascular risk factors but it is often poorly controlled. Inhibition of the renin-angiotensin-aldosterone system (RAAS) provides beneficial effects in hypertensives. The association of low-dosed diuretics in combination with RAAS blocking agents allows maximum benefit from potassium depletion and control of compensatory increase in renin secretion, so increasing the efficacy and safety of RAAS blockers. Irbesartan is a potent and selective angiotensin II subtype 1 receptor antagonist indicated for use in patients with hypertension, including those with type 2 diabetes mellitus and nephropathy. Once-daily irbesartan administration provides 24h control of BP. In patients with mild-to-moderate hypertension, irbesartan was as effective as enalapril, atenolol and amlodipine, and more effective than losartan and valsartan in terms of absolute reduction in BP and response rate. Irbesartan also induced regression of left ventricular hy",
+        "journal": "Current vascular pharmacology",
+        "year": "2009",
+        "authors": [
+          "Derosa Giuseppe",
+          "Ferrari Ilaria",
+          "Cicero Arrigo F G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19355995/"
+      },
+      {
+        "pmid": "19534037",
+        "title": "The risks and benefits of initial irbesartan/hydrochlorothiazide combination therapy in patients with severe hypertension.",
+        "abstract": "The impact of delays in blood pressure (BP) reduction is particularly relevant for patients with severe hypertension who are at risk for hypertensive emergencies. Combination therapies may hold promise as initial treatment for these patients. The safety and efficacy of initial irbesartan / hydrochlorothiazide (angiotensin receptor blocker / thiazide) treatment was compared with that of irbesartan as monotherapy in a multicenter, double-blind, parallel-group study in patients with severe hypertension. After 5 weeks, 47% of patients receiving combination therapy achieved a target diastolic BP <90 mm Hg compared with 33% with monotherapy (P=.0005). Similarly, systolic BP/ diastolic BP <140 / 90 mm Hg targets were reached by more subjects treated with combination therapy than subjects receiving monotherapy (34.6% vs 19.2%, P<.0001). Initial use of combination therapy instead of monotherapy is estimated to prevent between 250 and 4500 cardiovascular events in every 100,000 severely hyperten",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2009",
+        "authors": [
+          "Lapuerta Pablo",
+          "Franklin Stanley"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Irbesartan",
+          "Risk Assessment",
+          "Severity of Illness Index",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19534037/"
+      },
+      {
+        "pmid": "9431858",
+        "title": "Lacidipine, hydrochlorothiazide and their combination in systolic hypertension in the elderly.",
+        "abstract": "To compare with placebo the efficacies of once-daily administrations of lacidipine and hydrochlorothiazide separately and in combination to elderly patients with systolic hypertension.",
+        "journal": "Journal of hypertension",
+        "year": "1997",
+        "authors": [
+          "Wing L M",
+          "Arnolda L F",
+          "Harvey P J",
+          "Upton J",
+          "Molloy D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antihypertensive Agents",
+          "Aorta",
+          "Blood Pressure",
+          "Cross-Over Studies",
+          "Dihydropyridines",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9431858/"
+      },
+      {
+        "pmid": "2859781",
+        "title": "Comparison of acebutolol and hydrochlorothiazide in essential hypertension.",
+        "abstract": "In a multicenter, double-blind comparison of acebutolol and hydrochlorothiazide in patients with mild to moderate essential hypertension (diastolic blood pressure, 95 to 114 mm Hg) in 182 and 178 patients, respectively, each agent reduced systolic and diastolic pressures to a similar significant degree: acebutolol, 15.9 and 14.9 mm Hg; hydrochlorothiazide, 15.2 and 13.3 mm Hg (p less than 0.001 vs baseline). Acebutolol significantly reduced heart rate by 8.9 bpm at the end of dose titration (p = 0.001), with no further decrease seen during maintenance. Fourteen patients on each treatment regimen were discontinued from the study because of side effects. However, significantly more hydrochlorothiazide patients experienced side effects of arrhythmia, anorexia, and flatulence; in addition, more hydrochlorothiazide patients developed abnormal levels of serum glucose, uric acid, blood urea nitrogen, serum potassium, and chloride. In a single-center study of patients who remained hypertensive",
+        "journal": "American heart journal",
+        "year": "1985",
+        "authors": [
+          "Lewis J E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acebutolol",
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2859781/"
+      },
+      {
+        "pmid": "3341391",
+        "title": "Hypertension in elderly patients. A comparative study between indapamide and hydrochlorothiazide.",
+        "abstract": "Diuretic therapy is still regarded as the first-step approach in elderly patients with benign or moderate arterial hypertension. Traditional preparations such as thiazides, or potassium-sparing agents, are not devoid of significant side effects, however. Indapamide, a nonthiazide diuretic, has been shown to reduce blood pressure at low doses, in several clinical reports. In the present study, the effect of indapamide (2.5 mg per day) was compared with that of hydrochlorothiazide (50 mg per day) on blood pressure and serum chemistry of 47 elderly hypertensive patients (ages 65 to 91). After a six-week placebo-treatment period, patients were randomly assigned to receive either indapamide or hydrochlorothiazide. At that moment, blood pressure of patients in the supine position averaged 185 +/- 2/107 +/- 2, and 181 +/- 3/102 +/- 2 mm Hg, in the indapamide and hydrochlorothiazide groups, respectively. After 48 weeks of therapy, blood pressure was 162 +/- 3/89 +/- 2 and 170 +/- 2/94 +/- 2 mm",
+        "journal": "The American journal of medicine",
+        "year": "1988",
+        "authors": [
+          "Plante G E",
+          "Dessurault D L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Blood Pressure",
+          "Diuretics",
+          "Drug Evaluation",
+          "Drug Tolerance",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Indapamide",
+          "Potassium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3341391/"
+      },
+      {
+        "pmid": "318952",
+        "title": "Spironolactone and hydrochlorothiazide in normal-renin and low-renin essential hypertension.",
+        "abstract": "The relative blood pressure response and side effects of spironolactone (S), 400 mg/day, and hydrochlorothiazide (H), 100 mg/day, were evaluated in a double-masked crossed comparison. Subjects were 24 essential hypertensives, 13 normal and 11 with low renin activity. Upright renin levels were determined in the AM after 3 days of moderately low sodium diet (less than 100 mEq/day) and at the end of each drug treatment period. The values were not revealed to one investigator until completion of the study. After 4-week placebo control periods, either S or H was given in divided doses for 6 weeks. Blood pressure measurements and side effects were evaluated at biweekly intervals. The fall in blood pressure from control was the same for each drug and was independent of renin activity. Side effects occurred more often in patients treated with S, and H was judged superior by risk/benefit analysis. We conclude that S is no more beneficial than H in hypertensive patients with either low or normal",
+        "journal": "Clinical pharmacology and therapeutics",
+        "year": "1977",
+        "authors": [
+          "Ferguson R K",
+          "Turek D M",
+          "Rovner D R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aldosterone",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/318952/"
+      },
+      {
+        "pmid": "39957722",
+        "title": "Comparison of Cardiovascular Outcomes Between Chlorthalidone and Hydrochlorothiazide in Hypertensive Patients.",
+        "abstract": "Chlorthalidone (CLTD) and hydrochlorothiazide (HCTZ) are widely used thiazide diuretics for hypertension management. This study aimed to evaluate and compare the cardiovascular outcomes of patients treated with CLTD versus HCTZ. This multicenter, retrospective cohort study utilized data from the Korea University Medical Center, derived from electronic health records. A total of 14 257 hypertensive patients treated with either CLTD (n = 1920) or HCTZ (n = 12 337) were identified. Patients were matched 1:1 using propensity scores, resulting in 1606 patients in each treatment group. Demographic and clinical characteristics, incidence of major adverse cardiovascular events (MACE), and safety profiles were analyzed. Baseline characteristics after propensity score matching were well balanced between the two groups. The average age was 61.8 ± 14.6 years for CLTD users, with 59.3% being male. The 3-year MACE occurred in 1.2% of the CLTD group compared with 1.4% of the HCTZ group (hazard ratio ",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2025",
+        "authors": [
+          "Lim Subin",
+          "Kim Ju Hyeon",
+          "Oh Seungmi",
+          "Hong Soon Jun",
+          "Yu Cheol Woong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Chlorthalidone",
+          "Male",
+          "Female",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Aged",
+          "Republic of Korea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39957722/"
+      },
+      {
+        "pmid": "19689218",
+        "title": "Valsartan/hydrochlorothiazide: pharmacology and clinical efficacy.",
+        "abstract": "Valsartan/hydrochlorothiazide is a combination of an angiotensin II receptor antagonist and diuretic indicated for hypertensive patients as initial therapy and those not controlled on monotherapy.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2009",
+        "authors": [
+          "Kondrack Robyn",
+          "Mohiuddin Syed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Tetrazoles",
+          "Valine",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19689218/"
+      },
+      {
+        "pmid": "1920817",
+        "title": "Ketanserin and hydrochlorothiazide in the treatment of arterial hypertension.",
+        "abstract": "The chronic antihypertensive effect of the combination of ketanserin (KET) 40 mg + hydrochlorothiazide (HCTZ) 12.5 mg was evaluated in 20 patients with arterial hypertension of mild to moderate degree. After a 2-week wash-out period, patients were prescribed a single oral dose of KET 40 mg or HCTZ 25 mg in a randomized order at 2-day intervals and blood pressure and heart rate were measured during the following 24 hrs by an automatic recorder. Thereafter patients were given the combination of KET 40 mg + HCTZ 12.5 mg for 6 weeks and 24 hrs blood pressure was recorded after the first dose of the combination and at the end of treatment. Ketanserin induced a significant fall in systolic and diastolic pressures for up to 8 hrs; thiazide did not induce any change in these parameters. The combination of KET + HCTZ in the acute study reduced significantly systolic (SBP) and diastolic (DBP) blood pressures for up to 10 hrs. After 6 weeks of treatment with KET + HCTZ, blood pressure showed a fu",
+        "journal": "Japanese heart journal",
+        "year": "1991",
+        "authors": [
+          "Soro S",
+          "Grassi A",
+          "Pasanisi F",
+          "Ferrara L A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Blood Pressure",
+          "Drug Therapy, Combination",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Ketanserin",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1920817/"
+      },
+      {
+        "pmid": "18076344",
+        "title": "Olmesartan medoxomil plus hydrochlorothiazide for treating hypertension.",
+        "abstract": "Although achieving blood pressure (BP) control is critical to improve cardiovascular prognosis in hypertensive patients, many of them fail to attain the targets. Most patients with hypertension need more than one antihypertensive agent to achieve the goals. Combination therapy is required when monotherapy fails to attain BP objectives (< 140/90 mmHg in general hypertensive population; < 130/80 mmHg in high-risk groups) and as a first-line treatment in certain situations, such as markedly elevated BP values, high or very high cardiovascular risk patients or when lower targets are warranted. The advantages of combination therapy are well documented with the potential for increased antihypertensive efficacy as a result of different mechanisms of action, and a lower incidence of adverse effects because of the lower doses used and the possible compensatory responses. The inhibition of the renin-angiotensin system appears to be very beneficial in the treatment of patients with hypertension. ",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2008",
+        "authors": [
+          "Barrios Vivencio",
+          "Escobar Carlos"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Imidazoles",
+          "Olmesartan Medoxomil",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18076344/"
+      },
+      {
+        "pmid": "323298",
+        "title": "Double-blind comparison of triamterene plus hydrochlorothiazide and spironolactone plus hydrochlorothiazide in the treatment of hypertension.",
+        "abstract": "The results from this double-blind, multi-investigator study showed that a combination of 50 mg triamterene plus 25 mg hydrochlorothiazide and a combination of 25 mg spironolactone plus 25 mg hydrochlorothiazide were equally efficacious in lowering blood pressure in hypertensive outpatients, and that they produced the same type and incidence of adverse effects. Likewise, the two drug combinations produced similar effects on blood chemistry and hematology. There were no significant differences between the two combination drugs in efficacy laboratory studies, or adverse effects.",
+        "journal": "Journal of clinical pharmacology",
+        "year": "1977",
+        "authors": [
+          "Cocke T B",
+          "Fisch S",
+          "Gilmore H R",
+          "Okun R",
+          "Tamagna I G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/323298/"
+      },
+      {
+        "pmid": "3518773",
+        "title": "The effects of sulindac and indomethacin on the anti-hypertensive and diuretic action of hydrochlorothiazide in patients with mild to moderate essential hypertension.",
+        "abstract": "In this double-blind two period crossover study, we investigated the effect of indomethacin and sulindac on blood pressure in 25 hypertensive patients being treated with hydrochlorothiazide. The study consisted of seven 4 week periods. In the first and the last period the patients took placebos, in period two, four and six they were treated with hydrochlorothiazide 50 mg once daily alone, and in the third and fifth period hydrochlorothiazide 50 mg once daily was given in combination with either indomethacin 50 mg twice daily or sulindac 200 mg twice daily in double-blind random order. Blood pressure, measured by sphygmomanometer and arteriosonde, and body weight were determined every 2 weeks. Compared with placebo hydrochlorothiazide decreased the mean arterial pressure by 8%. Addition of both indomethacin and sulindac resulted in only slight and generally similar changes of this blood pressure lowering effect. This was found both for the whole group and when both treatment sequence gr",
+        "journal": "British journal of clinical pharmacology",
+        "year": "1986",
+        "authors": [
+          "Koopmans P P",
+          "Thien T",
+          "Thomas C M",
+          "Van den Berg R J",
+          "Gribnau F W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Diuresis",
+          "Double-Blind Method",
+          "Drug Interactions",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3518773/"
+      },
+      {
+        "pmid": "2223528",
+        "title": "Hypertension in the elderly: a study of a combination of atenolol, hydrochlorothiazide and amiloride hydrochloride.",
+        "abstract": "The anti-hypertensive effects of atenolol (Tenormin) 50 mg, a potassium-sparing diuretic (half-strength Moduretic) comprising hydrochlorothiazide 25 mg plus 2.5 mg amiloride hydrochloride, and the 'free' combination of atenolol and diuretic were compared in elderly hypertensive patients aged 60-79 years. After a four-week run-in period on placebo, patients were randomly assigned, in a double-blind manner, to atenolol or diuretic treatment, each for four weeks. Thereafter patients were given the 'free' combination for a further four weeks and this treatment was continued for six months. Blood pressure and heart rate were measured after the patient had rested for five minutes supine and after two minutes standing. These blood pressure measurements were made at least 24 hours after the preceding dose using a Random Zero sphygmomanometer. Results from 26 of the 27 patients entered into the study showed an advantage for combination therapy combined with either atenolol or diuretic treatment",
+        "journal": "The British journal of clinical practice",
+        "year": "1990",
+        "authors": [
+          "Duckett G K",
+          "Cheadle B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amiloride",
+          "Atenolol",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2223528/"
+      },
+      {
+        "pmid": "15223728",
+        "title": "Effects of losartan versus hydrochlorothiazide on indices of endothelial damage/dysfunction, angiogenesis and tissue factor in essential hypertension.",
+        "abstract": "Abnormalities in endothelial function, angiogenesis and thrombogenesis are found in essential hypertension. Angiotensin II has been postulated as an agent involved in these processes. We hypothesized that the treatment of essential hypertension with the angiotensin II receptor antagonist, losartan, would affect endothelial damage/dysfunction, angiogenesis and coagulation, when compared to treatment with a diuretic.",
+        "journal": "Blood pressure",
+        "year": "2004",
+        "authors": [
+          "Chung Natali Ay",
+          "Beevers D Gareth",
+          "Lip Gregory"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Diuretics",
+          "Endothelium, Vascular",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15223728/"
+      },
+      {
+        "pmid": "2331182",
+        "title": "Effects of reduction in dose and discontinuation of hydrochlorothiazide in patients with controlled essential hypertension.",
+        "abstract": "We studied the effects of a reduction in dose of hydrochlorothiazide from 50 to 25 mg/d, and its discontinuation for up to 22 months in 36 well-controlled hypertensive patients. Hydrochlorothiazide was discontinued if the diastolic blood pressure remained less than or equal to 94 mm Hg after a 6-month period on the lower dose of hydrochlorothiazide. No other changes were made in medications or diet. Sitting systolic blood pressure rose from 135 +/- 15 mm Hg to 140 +/- 14 mm Hg on reduction of the hydrochlorothiazide dose and rose still further to 145 +/- 20 mm Hg on discontinuation. Even greater increases in standing blood pressure were observed. There were no significant effects on the diastolic blood pressure with reduction of dose or discontinuation of hydrochlorothiazide. A significant decrease in the serum uric acid and a rise in serum potassium occurred. There were no changes in serum glucose or lipids on reduction in the dose of hydrochlorothiazide; whereas, with discontinuation",
+        "journal": "Archives of internal medicine",
+        "year": "1990",
+        "authors": [
+          "Kochar M S",
+          "Landry K M",
+          "Ristow S M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Blood Glucose",
+          "Blood Pressure",
+          "Heart Rate",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Lipids",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2331182/"
+      },
+      {
+        "pmid": "913294",
+        "title": "[Triamterene in the treatment of hypertension with hydrochlorothiazide and propranolol (author's transl)].",
+        "abstract": "In 36 patients with essential hypertension the action and side effects of hydrochlorothiazide (25 mg/d), hydrochlorothiazide-triamterene (25 and 50 mg/d) and propranolol (160 mg/d) were investigated. Hydrochlorothiazide and hydrochlorothiazide-triamterene led to an average decrease of the systolic blood pressure by 21 and 30 mm Hg and of the diastolic pressure by 11 and 18 mm Hg. Propranolol alone decreased the systolic pressure by 35 mm Hg on average in 8 out of 16 patients. The diastolic pressure was lowered by 20 mm Hg. In the remaining 8 patients the systolic pressure, when propranolol was used alone, decreased by 21.3 mm Hg, the diastolic pressure by 11.3 mm Hg. Addition of hydrochlorothiazide-triamterene lowered pressures by a further 22.5 (systolic) and 10.6 (diastolic) mm Hg. No disturbances of the potassium or acid-base balance were observed using hydrochlorothiazide-triamterene.",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "1977",
+        "authors": [
+          "Düsing R",
+          "Kramer H J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acid-Base Equilibrium",
+          "Adult",
+          "Aged",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/913294/"
+      },
+      {
+        "pmid": "37513599",
+        "title": "Oat Beta-Glucan Alone and in Combination with Hydrochlorothiazide Lowers High Blood Pressure in Male but Not Female Spontaneously Hypertensive Rats.",
+        "abstract": "Oats are considered a functional food due to the beneficial health effects associated with their consumption and are suitable to be explored for their ability to prevent or manage chronic disease, such as hypertension. Here, we examined the cardiovascular benefits of an oat beta-glucan extract in male and female spontaneously hypertensive rats (SHRs) to unravel its sex-specific roles when used with an anti-hypertensive medication, hydrochlorothiazide. Five-week-old male and female SHRs and Wistar-Kyoto (WKY) rats were treated with oat beta-glucan and hydrochlorothiazide for 15 weeks. Twenty-week-old male and female SHRs showed high blood pressure (BP), cardiac remodeling, and cardiac dysfunction. These animals also had significantly increased levels of malondialdehyde (MDA), angiotensin II, and norepinephrine. Treatments with beta-glucan and hydrochlorothiazide were able to differentially prevent high BP, cardiac dysfunction, and alterations in malondialdehyde (MDA), angiotensin II, an",
+        "journal": "Nutrients",
+        "year": "2023",
+        "authors": [
+          "Raj Pema",
+          "Sayfee Karen",
+          "Yu Liping",
+          "Sabra Ali",
+          "Wijekoon Champa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Male",
+          "Animals",
+          "Female",
+          "Rats, Inbred SHR",
+          "Hydrochlorothiazide",
+          "Rats, Inbred WKY",
+          "Blood Pressure",
+          "Angiotensin II",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37513599/"
+      },
+      {
+        "pmid": "351464",
+        "title": "[Importance of the continuity of anti-hypertension treatment in prevention of ischemic cardiovascular diseases: preliminary note. Controlled study of hypertensive patients treated with amiloride associated with hydrochlorothiazide and chlorthalidone].",
+        "abstract": "",
+        "journal": "Minerva medica",
+        "year": "1978",
+        "authors": [
+          "de Pasquale C",
+          "Currò F",
+          "Amadeo A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amiloride",
+          "Chlorthalidone",
+          "Coronary Disease",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/351464/"
+      },
+      {
+        "pmid": "1396619",
+        "title": "The efficacy of hydrochlorothiazide, timolol and enalapril in Ethiopians with essential hypertension.",
+        "abstract": "A double-blind trial of hydrochlorothiazide, timolol and enalapril was carried out in Ethiopians with essential hypertension at the Tikur Anbessa Hospital, Addis Abeba, between 1987 and 1990. Patients with a supine diastolic blood pleasure of 95-120 mmHg after a washout period of 2 weeks were randomized to receive hydrochlorothiazide 25 mg daily, timolol 10 mg daily or enalapril 10 mg daily. Doses were doubled at 4 weeks if the diastolic blood pressure remained above 95 mmHg. At the end of 8 weeks of treatment, there were 9 patients taking hydrochlorothiazide, 10 patients taking timolol and 7 patients taking enalapril. Hydrochlorothiazide significantly lowered both systolic and diastolic blood pressure at 4 and 8 weeks compared with pre-treatment levels. Timolol and enalapril did not significantly lower the systolic blood pressure, but each lowered the diastolic blood pressure at 4 weeks and 8 weeks respectively. More patients on hydrochlorothiazide attained a diastolic blood pressure ",
+        "journal": "Ethiopian medical journal",
+        "year": "1992",
+        "authors": [
+          "Habte B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Enalapril",
+          "Ethiopia",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1396619/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:23:44.404479",
+  "success": true,
+  "error_message": null
+}

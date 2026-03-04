@@ -1,0 +1,126 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "pharyngitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04518410",
+      "title": "Adaptive Platform Treatment Trial for Outpatients With COVID-19 (Adapt Out COVID)",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-08-19",
+      "completion_date": "2023-06-20",
+      "country": "Brazil, Philippines, Mexico, South Africa, Puerto Rico, Argentina, Canada, Guatemala, United States",
+      "enrollment": 4044,
+      "brief_summary": "Drug studies often look at the effect one or two drugs have on a medical condition, and involve one company. There is currently an urgent need for one study to efficiently test multiple drugs from more than one company, in people who have tested positive for COVID-19 but who do not currently need hospitalization. This could help prevent disease progression to more serious symptoms and complications, and spread of COVID-19 in the community.\n\nThis study looks at the safety and effectiveness of dif",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* Documentation of laboratory-confirmed SARS-CoV-2 infection, as determined by a molecular (nucleic acid) or antigen test from any respiratory tract specimen (e.g. oropharyngeal, nasopharyngeal (NP), or nasal swab, or saliva) collected ≤240 hours (10 d",
+      "endpoints": [
+        "COVID-19 Symptom Duration (Phase 2)",
+        "Quantification of SARS-CoV-2 RNA (Phase 2)",
+        "Quantification of SARS-CoV-2 RNA (Phase 2)"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT04518410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05165992",
+      "title": "Nebulized Fentanyl for Respiratory Symptoms in Patients With COVID-19 (Ventanyl Trial)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-02",
+      "completion_date": "2022-12",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "Patients with Coronavirus Disease (COVID-19) experience distressing and challenging to manage respiratory symptoms. Interventions such as Oxygen (O2) therapy, oral opiates, and traditional nebulizers like ipratropium bromide and salbutamol, are variably effective, and therapeutic responses in individual patients are difficult to predict. The purpose of this study is to investigate the efficacy of nebulized fentanyl citrate on dyspnea, cough, and throat pain in patients with COVID-19, as well as ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 - 65 years\n* Confirmed diagnosis (COVID-19) - positive PCR\n* Tachypnoea (Respiratory rate\\> 30/min)\n* Ability to provide informed consent and perform all study procedures\n\nExclusion Criteria:\n\n* History of allergy or adverse reaction to fentanyl or other opioids\n* Preg",
+      "endpoints": [
+        "Breathlessness",
+        "Throat Pain",
+        "Cough"
+      ],
+      "sponsor": "Hamad Medical Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05165992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03812718",
+      "title": "Anaesthesia Requirements for Ventilation With Endotracheal Tube Versus ProSeal Laryngeal Mask Airway During Automated Feedback-Loop Controlled Total Intravenous Anaesthesia in Patients Undergoing Laparoscopic Cholecystectomy: A Randomised Controlled Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2019-03-04",
+      "completion_date": "2025-12",
+      "country": "India",
+      "enrollment": 160,
+      "brief_summary": "Endotracheal tube (ETT) is the gold standard conduit for providing controlled ventilation during general anaesthesia (GA). however, the supra-glottic airway (SGA) devices in particular the laryngeal mask airway (LMA) and its variants have become a reliable alternative to ETT for carrying out controlled ventilation. Of the several variants of LMA available today, the proseal LMA (PLMA) is preferred for controlled ventilation. The various advantages of LMA includes, a lower incidence of postoperat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ASA physical status I/II\n2. Undergoing elective laparoscopic cholecystectomy\n\nExclusion Criteria:\n\n1. Anticipated difficult airway\n2. Body mass index \\> 30-kg/m2\n3. Uncompensated cardiovascular disease (e.g. uncontrolled hypertension, atrio-ventricular block, sinus bradycardi",
+      "endpoints": [
+        "Change in Propofol usage in milligrams"
+      ],
+      "sponsor": "Sir Ganga Ram Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03812718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06251050",
+      "title": "A Lithium-containing Mouthwash Prevention and Treatment of Oral Mucositis and Dysgeusia in Patients Undergoing Radiotherapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-03-01",
+      "completion_date": "2025-05-01",
+      "country": "China",
+      "enrollment": 175,
+      "brief_summary": "To evaluate the efficacy and safety of lithium-containing mouthwash for prevention and treatment of oral mucositis and dysgeusia in patients undergoing radiotherapy for malignant head and neck tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients pathologically diagnosed with non-metastatic head and neck malignant tumors; Aged 18-80 years; Eastern Cooperative Oncology Group performance status of ≤2; Planning to receive definitive RT or postoperative adjuvant RT; Normal liver, kidney and bone marrow function; Sig",
+      "endpoints": [
+        "The incidence of Severe Oral mucositis (WHO grade ≥3)"
+      ],
+      "sponsor": "West China Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06251050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03107832",
+      "title": "Comparison of Bi-spectral Index-Controlled Sedation During a Thoracic Epidural Anesthesia With General Anesthesia in Laparoscopic Cholecystectomy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-12-30",
+      "completion_date": "2013-12-29",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 40,
+      "brief_summary": "CONTEXT AND AIMS: The aim of the study is to compare patients satisfaction of thoracic epidural and general anesthesia procedures in patients undergoing elective laparoscopic cholecystectomy. SETTINGS AND DESIGN: This comparative randomized study was conducted Abant Izzet Baysal University hospital between October 2012 and 2014.Forty-five patients who were under American Society of Anesthesiologists I-II classification and were scheduled for elective laparoscopic cholecystectomy were included in",
+      "eligibility_criteria": "* Inclusion Criteria:\n\n  * American Society of Anesthesiologists I-II classification ,\n  * Elective laparoscopic cholecystectomy ,\n  * Ages of 18 and 75\n* Exclusion Criteria:\n\n  * allergies against any of the drugs to be used in the study,\n  * current pregnancy,\n  * severe cardiac, renal, and liver ",
+      "endpoints": [
+        "patient satisfaction"
+      ],
+      "sponsor": "Abant Izzet Baysal University",
+      "url": "https://clinicaltrials.gov/study/NCT03107832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04642638",
+      "title": "Phase 2/3 Randomized, Blinded, Placebo-Controlled Trial to Evaluate the Safety, Immunogenicity, and Efficacy of INO-4800, a Prophylactic Vaccine Against COVID-19 Disease, Administered Intradermally Followed by Electroporation in Adults at High Risk of SARS-CoV-2 Exposure",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2020-11-30",
+      "completion_date": "2022-09-13",
+      "country": "Colombia, Mexico, United States",
+      "enrollment": 1307,
+      "brief_summary": "This is a Phase 2/3, randomized, placebo-controlled, multi-center trial to evaluate the safety, immunogenicity and efficacy of INO-4800 administered by intradermal (ID) injection followed by electroporation (EP) using CELLECTRA® 2000 device to prevent coronavirus disease 2019 (COVID-19) in participants at high risk of exposure to severe acute respiratory syndrome coronavirus - 2 (SARS-CoV-2).\n\nThe Phase 2 segment will evaluate immunogenicity and safety in approximately 400 participants at two do",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Working or residing in an environment with high risk of exposure to SARS-CoV-2 for whom exposure may be relatively prolonged or for whom personal protective equipment (PPE) may be inconsistently used, especially in confined settings.\n* Phase 2 only: Screening laboratory re",
+      "endpoints": [
+        "Phase 2: Change From Baseline in Antigen-specific Cellular Immune Response Measured by Interferon-gamma (IFN-γ) Enzyme-linked Immunospot (ELISpot) Assay",
+        "Phase 2: Change From Baseline in Neutralizing Antibody Response Measured by a Pseudovirus-based Neutralization Assay",
+        "Phase 3: Percentage of Participants (SARS-CoV-2 Seronegative at Baseline) With Virologically-confirmed COVID-19 Disease"
+      ],
+      "sponsor": "Inovio Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04642638"
+    }
+  ],
+  "timestamp": "2026-03-04T16:25:11.103798",
+  "success": true,
+  "error_message": null
+}

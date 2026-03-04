@@ -1,0 +1,552 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Chloramphenicol",
+    "disease": "meningococcal infection",
+    "query_string": "Chloramphenicol AND meningococcal infection"
+  },
+  "data": {
+    "query": "Chloramphenicol AND meningococcal infection",
+    "results": [
+      {
+        "pmid": "3917987",
+        "title": "Neisseria meningitidis.",
+        "abstract": "N. meningitidis continues to be a worldwide cause of human disease, usually in otherwise healthy individuals. The natural habitat and reservoir for meningococci are the mucosal surfaces of the human nasopharynx and to a lesser extent, the urogenital tract and anal canal. In most instances meningococcal colonization of mucosal surfaces is asymptomatic but may produce local infection. In those individuals who lack serum bactericidal activity against the meningococcus, colonization of mucosal surfaces and bloodstream invasion by N. meningitidis can lead to devastating meningitis and septicemia. Recent studies on the ultrastructure of the meningococcus and on the mechanisms of pathogenesis have given us new insight into meningococcal infections and suggest ways for improved immunoprophylaxis. Currently, penicillin is the drug of choice for the treatment of meningococcal meningitis and septicemia. However, the report of meningococci with antibiotic resistant plasmids is alarming and in the ",
+        "journal": "Infection control : IC",
+        "year": "1985",
+        "authors": [
+          "Stephens D S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cephalosporins",
+          "Chloramphenicol",
+          "Humans",
+          "Meningitis, Meningococcal",
+          "Neisseria meningitidis",
+          "Penicillins",
+          "Rifampin",
+          "Serotyping"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3917987/"
+      },
+      {
+        "pmid": "807105",
+        "title": "Meningococcal pneumonia.",
+        "abstract": "A patient with meningococcal pneumonia which developed following therapy for an earlier episode of pneumococcal pneumonia is presented. This entity is most frequently associated with an antecedent viral respiratory illness and/or a concurrent infection with Hemophilus influenzae or diplococcus pneumoniae. The characteristics of this disease are discussed and the possible pathogenetic mechanisms reviewed.",
+        "journal": "The American journal of the medical sciences",
+        "year": "1975",
+        "authors": [
+          "Galpin J E",
+          "Chow A W",
+          "Yoshikawa T T",
+          "Guze L B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Chloramphenicol",
+          "Clindamycin",
+          "Humans",
+          "Male",
+          "Meningococcal Infections",
+          "Neisseria meningitidis",
+          "Pneumococcal Infections",
+          "Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/807105/"
+      },
+      {
+        "pmid": "164144",
+        "title": "Primary meningococcal pneumonia.",
+        "abstract": "Three cases of pneumonia caused by Neisseria meningitidis group Y are reported. From the results of these cases, the following conclusions were made. N. meningitidis probably can cause serious infection without preceding blood stream invasion. Primary meningococcal pneumonia is not rare; it has no distinctive clinical presentation; and it may not be recognized by routine expectorated sputum cultures. In addition, it may be associated with recent influenzal and adenoviral infections. Lastly, meningococci of the serogroup Y are capable of causing serious disease. Antimicrobial susceptibility studies showed that all three group Y isolates were sensitive to sulfadiazine and rifampin as well as to penicillin, ampicillin, erythromycin, and chloramphenicol.",
+        "journal": "Annals of internal medicine",
+        "year": "1975",
+        "authors": [
+          "Irwin R S",
+          "Woelk W K",
+          "Coudon W L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenoviridae Infections",
+          "Adolescent",
+          "Adult",
+          "Female",
+          "Humans",
+          "Influenza, Human",
+          "Male",
+          "Meningococcal Infections",
+          "Microbial Sensitivity Tests",
+          "Neisseria meningitidis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/164144/"
+      },
+      {
+        "pmid": "26984070",
+        "title": "Meningococcemia in Adults: A Review of the Literature.",
+        "abstract": "We mainly refer to the acute setting of meningococcemia. Meningococcemia is an infection caused by Neisseria meningitidis, which has 13 clinically significant serogroups that are distinguishable by the structure of their capsular polysaccharides. N. meningitidis, also called meningococcus, is a Gram-negative, aerobic, diplococcus bacterium. The various consequences of severe meningococcal sepsis include hypotension, disseminated intravascular coagulation (DIC), multiple organ failure, and osteonecrosis due to DIC. The gold standard for the identification of meningococcal infection is the bacteriologic isolation of N. meningitidis from body fluids such as blood, cerebrospinal fluid (CSF), synovial fluid, and pleural fluid. Blood, CSF, and skin biopsy cultures are used for diagnosis. Meningococcal infection is a medical emergency that requires antibiotic therapy and intensive supportive care. Management of the systemic circulation, respiration, and intracranial pressure is vital for impr",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2016",
+        "authors": [
+          "Takada Shimon",
+          "Fujiwara Sho",
+          "Inoue Toshiya",
+          "Kataoka Yuki",
+          "Hadano Yoshiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Africa",
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Child",
+          "Chloramphenicol",
+          "Disease Outbreaks",
+          "Disseminated Intravascular Coagulation",
+          "Drug Resistance, Bacterial",
+          "Host-Pathogen Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26984070/"
+      },
+      {
+        "pmid": "9819486",
+        "title": "Changing patterns of antibiotic sensitivity and resistance during an outbreak of meningococcal infection in Jos, Nigeria.",
+        "abstract": "Isolates of Neisseria meningitidis from blood and cerebrospinal fluid (CSF) of 87 children admitted to the emergency paediatric unit (EPU) at the Jos University Teaching Hospital (JUTH) during an outbreak of meningococcal infection (between February and April 1996) were tested against the commonly used antibiotics in an attempt to determine the sensitivity and resistance pattern. There were 11 (15.1 per cent) positive for N. meningitidis out of 73 blood cultures and 61 (70 per cent) positive out of 87 CSF cultures. Seventy-seven and thirty-eight per cent respectively of the CSF isolates were resistant to benzylpenicillin and ampicillin. Sensitivity to chloramphenicol and erythromycin was 97 and 95 per cent, respectively. Out of the 11 positive blood cultures, 82 and 27 per cent were resistant to benzylpenicillin and ampicillin, respectively, while all the isolates (100 per cent) were sensitive to chloramphenicol and erythromycin. It is concluded that in view of the high level of resist",
+        "journal": "Journal of tropical pediatrics",
+        "year": "1998",
+        "authors": [
+          "Angyo I A",
+          "Okpeh E S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Disease Outbreaks",
+          "Drug Resistance, Microbial",
+          "Drug Resistance, Multiple",
+          "Female",
+          "Humans",
+          "Male",
+          "Meningococcal Infections",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9819486/"
+      },
+      {
+        "pmid": "4617205",
+        "title": "Chemotherapy.",
+        "abstract": "",
+        "journal": "The Practitioner",
+        "year": "1974",
+        "authors": [
+          "Geddes A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminoglycosides",
+          "Ampicillin",
+          "Anti-Infective Agents",
+          "Antifungal Agents",
+          "Antitubercular Agents",
+          "Antiviral Agents",
+          "Bronchitis",
+          "Cephalosporins",
+          "Chloramphenicol",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4617205/"
+      },
+      {
+        "pmid": "1902182",
+        "title": "Effect of penicillin and chloramphenicol on the growth and endotoxin release by N. meningitidis.",
+        "abstract": "The action of two antibiotics, penicillin and chloramphenicol, on bacterial growth and endotoxin liberation was studied in 18 strains of Neissevia meningitidis isolated from blood and CSF of patients with meningococcal infections. The antibiotics were administered both separately and in combined form in doses equivalent to 1 MIC and 100 MIC. Penicillin was found to produce a faster and more intense bactericidal effect than chloramphenicol during the first hour, whereas at 12 h these differences were not significant. This could explain the initial worsening observed in some infected patients when large doses of penicillin are administered. An increased liberation of endotoxin after adding penicillin was observed in six of the strains studied, whereas the remaining 12 did not show significant increases. The six strains (belonging to serogroup B) were known to have an enhanced capacity for spontaneous endotoxin liberation.",
+        "journal": "Epidemiology and infection",
+        "year": "1991",
+        "authors": [
+          "Mellado M C",
+          "Rodríguez-Contreras R",
+          "Mariscal A",
+          "Luna J D",
+          "Delgado Rodríguez M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Colony Count, Microbial",
+          "Endotoxins",
+          "Humans",
+          "Meningitis, Meningococcal",
+          "Meningococcal Infections",
+          "Neisseria meningitidis",
+          "Penicillins",
+          "Sepsis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1902182/"
+      },
+      {
+        "pmid": "28613408",
+        "title": "Pre-admission antibiotics for suspected cases of meningococcal disease.",
+        "abstract": "Meningococcal disease can lead to death or disability within hours after onset. Pre-admission antibiotics aim to reduce the risk of serious disease and death by preventing delays in starting therapy before confirmation of the diagnosis.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Sudarsanam Thambu D",
+          "Rupali Priscilla",
+          "Tharyan Prathap",
+          "Abraham Ooriapadickal Cherian",
+          "Thomas Kurien"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Antibiotic Prophylaxis",
+          "Ceftriaxone",
+          "Chloramphenicol",
+          "Humans",
+          "Injections, Intramuscular",
+          "Meningitis, Meningococcal",
+          "Meningococcal Infections",
+          "Patient Admission"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28613408/"
+      },
+      {
+        "pmid": "7177917",
+        "title": "Chloramphenicol: properties and clinical use.",
+        "abstract": "Chloramphenicol was introduced into medical practice in 1949. At therapeutic concentrations of 10 to 20 micrograms drug per ml, the drug inhibits bacterial ribosomal and, to a lesser extent, mammalian mitochondrial protein synthesis but concentrations above 60 micrograms drug per ml induce progressive reduction of oxygen-dependent cellular metabolism. Some adverse reactions (e.g. bone marrow suppression and the \"gray baby syndrome\") reflect these effects. The pathogenesis of chloramphenicol-induced aplastic anemia remains unclear. Chloramphenicol is most bioavailable after oral administration and has a remarkable ability to diffuse into body fluids and tissues. However, there are wide interindividual variations in its metabolism and elimination, particularly in newborns. Chloramphenicol is indicated for invasive ampicillin-resistant H. influenzae infections; for patients allergic to penicillin with pneumococcal, meningococcal or H. influenzae meningitis; in patients under 8 years of ag",
+        "journal": "Pediatric infectious disease",
+        "year": "1982",
+        "authors": [
+          "Laferriere C I",
+          "Marks M I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacteroides Infections",
+          "Brain Abscess",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Chloramphenicol",
+          "Cystic Fibrosis",
+          "Drug Hypersensitivity",
+          "Eye Diseases",
+          "Hematopoietic Stem Cells",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7177917/"
+      },
+      {
+        "pmid": "9625934",
+        "title": "Meningococcal disease in Africa.",
+        "abstract": "Neisseria meningitidis (the meningococcus) is responsible for endemic and meningococcal disease in Africa. Meningococci are placed into 12 serogroups based on their capsular polysaccharide antigens. Group-B meningococci are responsible for sporadic endemic disease. In the meningitis belt of sub-Saharan Africa, the large spreading epidemics which occur every 5-10 years are usually caused by group-A meningococci, with attack rates of 400-500/100,000 population. In the last epidemic, infection spread from the original meningitis belt to Kenya, Uganda, Rwanda, Zambia and Tanzania. Most cases of meningococcal disease are of meningitis and meningococcal septicaemia is a rare presentation except in South Africa. It is important to exclude meningococcal septicaemia since this carries the highest mortality (up to 75%). Treatment involves intravenous chloramphenicol (or intramuscular, oily chloramphenicol), a drug which is preferable to penicillin because penicillin-resistant meningococci have a",
+        "journal": "Annals of tropical medicine and parasitology",
+        "year": "1997",
+        "authors": [
+          "Hart C A",
+          "Cuevas L E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Africa",
+          "Bacteremia",
+          "Child",
+          "Child, Preschool",
+          "Disease Outbreaks",
+          "Female",
+          "Global Health",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9625934/"
+      },
+      {
+        "pmid": "15521528",
+        "title": "[Meningococcal disease caused by Neisseria meningitidis: epidemiological, clinical, and preventive perspectives].",
+        "abstract": "Bacterial meningitis constitutes a significant global public health problem. In particular, Neisseria meningitidis continues to be a public health problem among human populations in both developed and developing countries. Meningococcal infection is present as an endemic and an epidemic disease. Meningococcal disease is manifested not only as meningitis, but also as meningococcemia. The latter is usually fulminant. The global persistence of N. meningitidis is due to the significant number of carriers and the dynamics of transmission and disease. Approximately 500 million people worldwide are carriers of the bacterium in their nasopharynx. Multiple factors have been identified that predispose to the transmissibility of N. meningitidis, including active or passive inhalation tobacco smoking, upper viral respiratory tract infections, drought seasons, and overcrowding. These factors explain the frequent occurrence of outbreaks in military barracks, schools, prisons, and dormitories. Some o",
+        "journal": "Salud publica de Mexico",
+        "year": "2004",
+        "authors": [
+          "Almeida-González Lourdes",
+          "Franco-Paredes Carlos",
+          "Pérez Luis Fernando",
+          "Santos-Preciado José Ignacio"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Meningitis, Meningococcal",
+          "Meningococcal Vaccines",
+          "Mexico"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15521528/"
+      },
+      {
+        "pmid": "14158895",
+        "title": "ACUTE BACTERIAL MENINGITIS.",
+        "abstract": "",
+        "journal": "Advances in pediatrics",
+        "year": "1964",
+        "authors": [
+          "HAGGERTY R J",
+          "ZIAI M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Anti-Bacterial Agents",
+          "Antibody Formation",
+          "Child",
+          "Chloramphenicol",
+          "Erythromycin",
+          "Haemophilus",
+          "Humans",
+          "Infant",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14158895/"
+      },
+      {
+        "pmid": "14123642",
+        "title": "MANAGEMENT OF MENINGITIS.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1964",
+        "authors": [
+          "ANDERSON J P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Chloramphenicol",
+          "Haemophilus",
+          "Humans",
+          "Infant",
+          "Injections, Intramuscular",
+          "Injections, Spinal",
+          "Meningitis",
+          "Meningitis, Haemophilus",
+          "Meningitis, Meningococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14123642/"
+      },
+      {
+        "pmid": "715382",
+        "title": "Disseminated intravascular coagulation in patients with meningococcal infection: laboratory diagnosis and prognostic factors.",
+        "abstract": "In 36 patients with meningococcal infection a close association between the laboratory evidence of disseminated intravascular coagulation (DIC) and unfavourable prognostic factors was established. Patients with platelet count lessthan 100000/microliter, Normotest lessthan 50% and plasma fibrinogen concentration less than 100 mg/dl had a serious prognosis. No significant differences could be extablished between patients with infection from serogroup A and B meningococci for either laboratory evidence of DIC or prognostic factors.",
+        "journal": "Scandinavian journal of infectious diseases",
+        "year": "1978",
+        "authors": [
+          "Vik-Mo H",
+          "Lote K",
+          "Nordøy A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Blood Cell Count",
+          "Blood Coagulation Tests",
+          "Blood Platelets",
+          "Blood Pressure",
+          "Chloramphenicol",
+          "Disseminated Intravascular Coagulation",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/715382/"
+      },
+      {
+        "pmid": "6323376",
+        "title": "Comparison of the efficacy and safety of ceftriaxone to ampicillin/chloramphenicol in the treatment of childhood meningitis.",
+        "abstract": "Ceftriaxone is a new cephalosporin with a broad spectrum of antibacterial activity and unique serum and CSF pharmacokinetics. The drug was compared in a randomized fashion with ampicillin and chloramphenicol in the treatment of 19 children with Haemophilus influenzae type b meningitis. Ceftriaxone was also administered non-randomly to six other patients including three children with Gram-negative meningitis. Among the children with H. influenzae meningitis, no deaths were noted and the outcomes of the study and the control groups were similar. Ninety per cent of the isolates of H. influenzae were inhibited by 0.0625, 1 and 1 mg/l of ceftriaxone, ampicillin and chloramphenicol respectively. One child with pneumococcal meningitis and two children with meningococcal meningitis recovered rapidly and without incident during ceftriaxone therapy. Three children with Gram-negative meningitis caused by multiply-drug resistant organisms were bacteriologically cured within five days of the onset ",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1984",
+        "authors": [
+          "Aronoff S C",
+          "Reed M D",
+          "O'Brien C A",
+          "Blumer J L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ampicillin",
+          "Cefotaxime",
+          "Ceftriaxone",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6323376/"
+      },
+      {
+        "pmid": "7886841",
+        "title": "Bacterial meningitis in developing countries.",
+        "abstract": "",
+        "journal": "Tropical doctor",
+        "year": "1995",
+        "authors": [
+          "Wright J P",
+          "Ford H L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Developing Countries",
+          "HIV Infections",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Meningitis, Bacterial",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7886841/"
+      },
+      {
+        "pmid": "31355666",
+        "title": "Serogroup diversity and antibiotic susceptibility of Neisseria meningitidis: Meningococcus infection monitoring in Belarus.",
+        "abstract": "This study performed an epidemiological survey of Neisseria meningitidis strains isolated from patients and from asymptomatic carriers. Altogether, 74 N. meningitidis strains (46 invasive and 28 non-invasive) were isolated between February 2011 and May 2018 in different regions of the Republic of Belarus. Serogenotyping was carried out by real-time PCR. Minimum inhibitory concentrations (MICs) of antibiotics were determined by broth microdilution and results were interpreted in accordance with EUCAST. The serogroups of N. meningitidis were determined as follows: serogroup B - 65%, C - 11%, W - 9%, A - 5%, Y - 4%, and Z and NG - 3% each. The MIC50 and MIC90 for benzylpenicillin (0.032/0.064-0.125 mg/L), ampicillin (0.032/0.125 mg/L), amoxicillin (0.125/0.25 mg/L), cefotaxime (0.016/0.016 mg/L), ceftriaxone (0.002/0.016 mg/L), ciprofloxacin (0.004/0.008 mg/L), chloramphenicol (1/1 mg/L), meropenem (0.008/0.008-0.016 mg/L), tetracycline (0.25/0.5 mg/L), and rifampicin (0.016/0.25 mg/L) we",
+        "journal": "Acta microbiologica et immunologica Hungarica",
+        "year": "2019",
+        "authors": [
+          "Kharkhal Hanna N",
+          "Titov Leonid P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Epidemiological Monitoring",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31355666/"
+      },
+      {
+        "pmid": "531911",
+        "title": "An epidemic of meningococcal infection at Zaria, Northern Nigeria. 3. Meningococcal carriage.",
+        "abstract": "Meningococcal carriage was studied in household contacts of patients with group A meningococcal disease and in controls. The carriage rate of group A meningococci among 1,098 household contacts was low (3.8%) and only slightly higher than the carriage rate found among 416 controls (2.6%). However, higher carrier rates were found among those in close contact with a patient. Carriage was found most frequently among children and young adults and was commoner in adult females than in adult males. Sulphonamides had no effect on carriage and all 60 strains tested in vitro were resistant to sodium sulphadiazine at a concentration of 10 micrograms/ml.",
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "year": "1979",
+        "authors": [
+          "Hassan-King M",
+          "Greenwood B M",
+          "Whittle H C",
+          "Abbott J D",
+          "Sutcliffe E M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Carrier State",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Disease Outbreaks",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/531911/"
+      },
+      {
+        "pmid": "35467371",
+        "title": "Penicillin- and Ciprofloxacin-Resistant Invasive Neisseria meningitidis Isolates from Japan.",
+        "abstract": "Neisseria meningitidis causes a life-threatening invasive meningococcal disease (IMD). Isolates resistant to antibiotics, such as penicillin, ceftriaxone, and ciprofloxacin that are recommended for the treatment of IMD patients and their close contacts have been serious public health concerns globally. However, susceptibility profiles to critically important antibiotics and the genetic characteristics of isolates possessing antibiotic resistance are extremely limited as IMD incidence is low in Japan. We assessed the susceptibility profiles of 87 randomly selected, sterile site-derived N. meningitidis strains isolated from hospitals nationwide, recovered between April 1998 and March 2018 in Japan, to seven antibiotics. As a result, we demonstrated, for the first time, that the isolates remained highly susceptible to ceftriaxone, meropenem, azithromycin, ciprofloxacin, chloramphenicol, and rifampin, but not to penicillin. We then characterized the genetic relatedness of six penicillin- a",
+        "journal": "Microbiology spectrum",
+        "year": "2022",
+        "authors": [
+          "Saito Ryoichi",
+          "Nakajima Jun",
+          "Prah Isaac",
+          "Morita Masatomo",
+          "Mahazu Samiratu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ceftriaxone",
+          "Ciprofloxacin",
+          "Humans",
+          "Japan",
+          "Meningococcal Infections",
+          "Microbial Sensitivity Tests",
+          "Neisseria meningitidis",
+          "Penicillins",
+          "Phylogeny"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35467371/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:37:49.760396",
+  "success": true,
+  "error_message": null
+}

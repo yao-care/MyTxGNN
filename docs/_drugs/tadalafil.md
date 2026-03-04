@@ -6,7 +6,7 @@ drug_name: "Tadalafil"
 kg_predictions: 115
 dl_predictions: 87
 evidence_level: "L1"
-indication_count: 115
+indication_count: 5
 brands: []
 permalink: /drugs/tadalafil/
 ---

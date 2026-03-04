@@ -1,0 +1,943 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Iron",
+    "disease": "anemia of prematurity"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05108675",
+      "title": "Elucidating the Dynamics and Impact of the Gut Microbiome on Maternal Nutritional Status During Pregnancy",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-24",
+      "completion_date": "2024-12-31",
+      "country": "Pakistan",
+      "enrollment": 400,
+      "brief_summary": "Nutritional status during pregnancy plays an important role in maternal health and birth outcomes. While few factors impacting nutritional status during pregnancy have been identified, studies of undernutrition in children have revealed a key role for the gut microbiome. Remarkably, studies examining the dynamics of the maternal gut microbiome before and during pregnancy and its impact on birth outcomes are limited.\n\nThis study is being conducted to investigate how a mother's nutritional status ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consent provided\n* Married female aged 17-24 years\n* In good general health, with no comorbidities\n* Absence of COVID19 symptoms\n* Intend to comply with study procedures and follow up\n\nExclusion Criteria:\n\n* Women who do not meet the enrollment age criteria\n* Women participati",
+      "endpoints": [
+        "To assess if alterations of the microbiota in the maternal gut (dysbiosis) are corelated with changes in maternal gestational weight gain",
+        "To determine the correlation between maternal microbiome dysbiosis during pregnancy and birth weight.",
+        "To determine the correlation between maternal microbiome dysbiosis during pregnancy and infant growth"
+      ],
+      "sponsor": "Aga Khan University",
+      "url": "https://clinicaltrials.gov/study/NCT05108675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01587924",
+      "title": "A Four-week, Phase IIa, Randomized, Active-controlled, Parallel-group, Multi-center Study to Evaluate the Safety, Efficacy and Pharmacokinetics of Switching Subjects From a Stable Dose of Recombinant Human Erythropoietin to GSK1278863 in Hemodialysis-dependent Subjects With Anemia Associated With Chronic Kidney Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-05-23",
+      "completion_date": "2013-05-27",
+      "country": "Norway, Sweden, Denmark, Germany, Canada, United States",
+      "enrollment": 80,
+      "brief_summary": "This is a four-week, Phase IIa, randomized, active-controlled, parallel-group, multi-center study to evaluate the safety, efficacy and pharmacokinetics of switching subjects from stable rhEPO to GSK1278863 in approximately 68 hemodialysis-dependent subjects with anemia associated with chronic kidney disease. The study consists of a screening phase of 2 weeks, a 4-week treatment phase and a 2-week follow-up phase. The range of Hgb values for study eligibility is 9.5-12.0 g/dL and the subjects mus",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age and weight: \\>/=18 years of age and \\>/=45 kg (weight post-dialysis).\n2. On three times weekly hemodialysis for at least 8 weeks, irrespective of eGFR values and stage of chronic kidney disease (CKD).\n3. A single-pool Kt/Vurea of \\>/=1.2 based on a historical value obtain",
+      "endpoints": [
+        "Modeled Hemoglobin (Hgb) Change From Baseline (Pre-dose on Day 1) at 4 Weeks of Treatment"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01587924"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02060851",
+      "title": "Effects of Early Parenteral Iron Combined Erythropoietin in Preterm Infants",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-02",
+      "completion_date": "2014-06",
+      "country": "China",
+      "enrollment": 96,
+      "brief_summary": "There are wide variations in iron supplementation practices in NICU.Guidelines on pediatric Parenteral nutrition suggested the dose of 200μg/kg.d iron by parenteral nutrition.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants with birth weight less than 2.5kg Have parenteral nutrition indication With written informed consent of parents or guardian\n\nExclusion Criteria:\n\n* Kidney and liver function abnormal have hemolytic disease have hemorrhagic disease have Serious congenital malfor",
+      "endpoints": [
+        "Number of participants with Hematological evaluation"
+      ],
+      "sponsor": "Kunshan First People's Hospital Affiliated to Jiangsu University",
+      "url": "https://clinicaltrials.gov/study/NCT02060851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01203514",
+      "title": "The Effects of Erythropoietin (EPO) on the Transfusion Requirements of Preterm Infants 401-1250 Grams: Two Multi-Center, Randomized, Double-Masked, Placebo Controlled Studies",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-08",
+      "completion_date": "2000-08",
+      "country": "United States",
+      "enrollment": 318,
+      "brief_summary": "This study tested the safety and efficacy of transfusing erythropoietin (Epo) and iron in infants of \\<1,250g birth weight. For infants 401-1,000g birth weight, we tested whether early erythropoietin (Epo) and iron therapy would decrease the number of transfusions received. For infants 1,001-1,250g birth weight, we tested whether early erythropoietin (Epo) and iron therapy would decrease the percentage of infants who received any transfusions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants with a birth weight of 4010-1250g, \\<32 weeks' gestation, and 24-96 hours old at the time of study entry\n* Likely to survive \\>72 hours\n* Informed consent from a parent or guardian.\n\nExclusion Criteria:\n\n* Major congenital anomaly\n* A positive direct antiglobulin test\n",
+      "endpoints": [
+        "Erythrocyte transfusions in infants 401-1,000g birthweight",
+        "Blood transfusions"
+      ],
+      "sponsor": "NICHD Neonatal Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT01203514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06555315",
+      "title": "Pilot Non-inferiority Study Investigating Daily Versus Every Other Day Dosing of Oral Iron in Premature Infants.",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-08-01",
+      "completion_date": "2026-03-28",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "Study focuses on determining if daily versus every-other-day (EOD) oral iron at the same dose per kilogram per day will achieve similar incidence of iron replete status at 36 weeks post-menstrual age in premature neonates",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children (Minor \\< 18 years of age)\n* Neonates\n* Hospitalized\n* Premature infants who are on full enteral feeds and are started on oral iron\n* Premature infants who completed 26 0/7 to 32 6/7 weeks' gestation at birth\n\nExclusion Criteria:\n\n• Infants with known congenital anoma",
+      "endpoints": [
+        "Determine if daily versus EOD oral iron at the same dose per kilogram per day will achieve similar incidence of iron replete status at 36 weeks PMA."
+      ],
+      "sponsor": "CHRISTUS Health",
+      "url": "https://clinicaltrials.gov/study/NCT06555315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03353051",
+      "title": "Iron and Infection: Neonatal Nutritional Immunity (NeoInnate Study)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-07-25",
+      "completion_date": "2019-04-03",
+      "country": "The Gambia",
+      "enrollment": 430,
+      "brief_summary": "The motivation for this study was produced from our preliminary data, which showed that during the first 96 hours of life a full-term neonate will actively reduce the overall serum iron concentration of their blood and the transferrin saturation decreases rapidly from 45% in cord blood to \\~20% by six hours post-delivery.\n\nThe Investigators hypothesise that this active sequestration of iron, which results in hypoferremia, is done in an effort to limit susceptibility to infection, a process refer",
+      "eligibility_criteria": "Inclusion Criteria:\n\nLow Birth Weight (LBW) neonates:\n\n* Medical stable neonates\n* Neonatal weight ≥2000g and \\<2500g\n* Born at Serrekunda Hospital\n* Gestational age will be \\>37 weeks.\n* Born to mothers at least 18 years of age\n\nPreterm neonates with Low Birth Weight (PTB+LBW):\n\n* Medical stable ne",
+      "endpoints": [
+        "serum iron"
+      ],
+      "sponsor": "London School of Hygiene and Tropical Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03353051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03533712",
+      "title": "Effect of a Fortified Balanced Energy-Protein Supplement on Birth Outcome and Child Growth in Houndé District, Burkina Faso.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-10-30",
+      "completion_date": "2022-03-15",
+      "country": "Burkina Faso",
+      "enrollment": 1788,
+      "brief_summary": "The 2016 WHO antenatal care guidelines stated that pregnant women in undernourished populations should receive fortified balanced energy-protein (BEP) supplements to reduce the risk of stillbirth and small-for-gestational-age birth. However, acceptable supplements and delivery channels must be determined for different contexts.\n\nThe present proposal therefore will 1) perform a formative study to identify the most suitable (acceptability and utilization) BEP supplement for pregnant women in rural",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant age (15-40 years).\n* Pregnant as determined by a pregnancy test and confirmed by ultrasound.\n* Women who signed the informed consent form (in case of minors the parents or husband signs)\n\nExclusion Criteria:\n\n* Women planning to leave the area before delivery.\n* Wo",
+      "endpoints": [
+        "Small-for-Gestational-age (SGA)",
+        "Length-for-age Z-scores (LAZ)"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT03533712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642408",
+      "title": "Prevention of Intrauterine Growth Retardation in Hounde District, Burkina Faso",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2006-10",
+      "country": "Burkina Faso",
+      "enrollment": 1370,
+      "brief_summary": "Intrauterine Growth Retardation is the most important determinant of mortality and morbidity in the neonatal period. It is also a very important factor in predicting nutritional status, health and development in childhood. It even influences health in adult life, contributing to the vicious cycle of disease and poverty. The high rate IUGR in DCs represents therefore a major public health problem. Maternal malnutrition is usually assumed to be a major determinant of the problem in these countries",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll the women of child-bearing age (15-44 years) living in the study area (4 100) will be visited monthly to assess early pregnancy and will be invited to participate in the trial.\n\nExclusion Criteria:\n\nWill be excluded from the study women :\n\n* planning to move outside the dist",
+      "endpoints": [
+        "Weight, length and Rohrer index at birth, and gestational duration in single pregnancies.",
+        "Mortality, morbidity and growth during the first year of life"
+      ],
+      "sponsor": "Institute of Tropical Medicine, Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00642408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06568315",
+      "title": "Co-administration of Calcium and Multiple Micronutrient Supplements for Maternal and Newborn Hemoglobin and Iron Status: A Randomized Non-inferiority Trial in Burkina Faso and Pakistan",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-08-25",
+      "completion_date": "2026-08",
+      "country": "Burkina Faso, Pakistan",
+      "enrollment": 3200,
+      "brief_summary": "The World Health Organization (WHO) currently recommends the pregnant women receive iron-containing supplements and, in settings where calcium intake is low, calcium supplements. Supplements are to be taken at two separate times of the day as calcium may interfere with iron absorption. The goal of this clinical trial is to learn whether taking daily calcium supplements and iron-containing multiple micronutrient supplements together, at the same time, has any negative impact on the hemoglobin or ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Burkina Faso: married or unmarried pregnant women aged ≥15 years\n* Pakistan: married pregnant women ≥18 years\n* Willing to receive all antenatal care at a study clinic\n* Willing to stop iron folic acid supplementation to receive the study intervention\n* Hb ≥70 g/L\n* 6\\<20 week",
+      "endpoints": [
+        "Hemoglobin concentration of pregnant women"
+      ],
+      "sponsor": "Johns Hopkins Bloomberg School of Public Health",
+      "url": "https://clinicaltrials.gov/study/NCT06568315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05462704",
+      "title": "Double-blind Placebo-controlled Multicenter Randomized Trial of Intravenous Versus Oral Iron for Treating Iron-Deficiency Anemia in Pregnancy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-01-17",
+      "completion_date": "2027-03-31",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "Double blind, placebo controlled, multicenter randomized trial in pregnant women in the U.S. (N=300) to test the central hypothesis that IV iron in pregnant women with IDA (Hb\\<11 g/dL and ferritin\\<30 ng/mL) at 13 - 30 weeks will be effective, safe and cost-effective in reducing severe maternal morbidity-as measured by maternal anemia at delivery-and will also improve offspring neurodevelopment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women between the ages of 18-45\n* Singleton gestation\n* Iron-deficiency anemia (serum ferritin \\<30ng/mL and Hb\\<11 g/dL)\n* At 13-30 weeks gestation\n* Plan to deliver at participating hospital\n\nExclusion Criteria:\n\n* Non-iron-deficiency anemia e.g thalassemia, sickle ",
+      "endpoints": [
+        "Rate of maternal anemia (hgb<11mg/dL) at delivery"
+      ],
+      "sponsor": "Women and Infants Hospital of Rhode Island",
+      "url": "https://clinicaltrials.gov/study/NCT05462704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04497012",
+      "title": "Enteral Iron Supplementation and Intestinal Health in Preterm Infants",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-11-17",
+      "completion_date": "2025-07-31",
+      "country": "United States",
+      "enrollment": 183,
+      "brief_summary": "This is a randomized double-blinded study of enteral iron supplementation in Very Low Birth Weight infants. The subjects will be randomized into low dose (2 mg/kg/day) and high dose (6 mg/kg/day) of daily iron supplementation. The primary outcomes are intestinal health including microbiome, inflammation, and barrier function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\<1500 g at birth, expected to live beyond 2 weeks, not yet started on oral iron supplementation (OIS), with mother at least 18 years of age, and parental consent.\n\nExclusion Criteria:\n\n* congenital intestinal defects, history of intestinal infection or perforation before OIS.",
+      "endpoints": [
+        "Change in stool bacterial percentages from before to after iron supplementation",
+        "Change in fecal calprotectin from before to after iron supplementation",
+        "Change in urine Claudin-3 and I-FABP from before to after iron supplementation"
+      ],
+      "sponsor": "University of South Florida",
+      "url": "https://clinicaltrials.gov/study/NCT04497012"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03537365",
+      "title": "Bovine Colostrum to Fortify Human Milk for Preterm Infants A Randomized, Controlled Pilot Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-12-04",
+      "completion_date": "2022-02-28",
+      "country": "Denmark",
+      "enrollment": 252,
+      "brief_summary": "Very preterm infants (\\<32 weeks gestation) with very low birth weight (VLBW, \\<1500 g) show immaturity of organs and have high nutrient requirements forgrowth and development. In the first weeks, they have difficulties tolerating enteral nutrition (EN) and are often given supplemental parenteral nutrition (PN). A fast transition to full EN is important to improve gut maturation and reduce the high risk of late-onset sepsis (LOS), related to their immature immunity in gut and blood. Conversely, ",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Very preterm infants born between GA 26+0 and 30+6 weeks (from the first day of the mother's last menstrual period and/or based on fetal ultrasound)\n2. DM is given at the unit when MM is absent (or insufficient in amount)\n3. Infants judged by the attending physician to be in ",
+      "endpoints": [
+        "Body weight",
+        "Incidence of necrotizing entercolitis (NEC)",
+        "Incidence of late-onset sepsis (LOS)"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT03537365"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01539356",
+      "title": "Hepcidin Levels in Preterm Infants Receiving Blood Transfusion and During Sepsis.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-08",
+      "country": "Israel",
+      "enrollment": 62,
+      "brief_summary": "A recently isolated peptide hormone, hepcidin, is thought to be the principal regulator of iron homeostasis. Hepcidin acts by limiting intestinal iron absorption and promoting iron retention in reticuloendothelial cells. The aims of this study were to determine serum hepcidin levels in preterm infants who receive blood transfusion and preterm infants having sepsis, in order to assess possible relationships between hepcidin and serum iron, serum ferritin,in iron load situations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm \\< 38 weeks gestation\n* Need of blood test for anemia or suspected sepsis\n\nExclusion Criteria:\n\n* Major congenital anomalies\n* Birth Asphyxia",
+      "endpoints": [
+        "Increase in Hepcidin levels by 30%"
+      ],
+      "sponsor": "Meir Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01539356"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06477120",
+      "title": "A Pilot Study of Time-restricted Eating Among Pregnant Females With Severe Obesity",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-09-09",
+      "completion_date": "2026-11-29",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "In the United States, a body mass index (BMI) of at least 35.0 kg/m2 affects about 15% of women of reproductive age. Severe obesity is a significant predictor of adverse perinatal outcomes including gestational diabetes mellitus, pre-eclampsia, premature birth, and at its most severe, fetal death, birth defects and a three-fold greater risk of maternal mortality. Observational studies suggest weight maintenance and even modest body fat loss and altering the maternal metabolic milieu (availabilit",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Female based on sex assigned at birth\n* Preconception body mass index (BMI) 35.0 - 60 kg/m2\n* Singleton pregnancy\n* Age 18-44 years old\n* 14 - \\< = 20 weeks gestational age\n* Fluency in English to provide consent and complete study procedures\n* Ability to provide informed cons",
+      "endpoints": [
+        "Recruitment Feasibility",
+        "Trial safety - Maternal Complete Blood Count",
+        "Trial safety - Non-stress Test for Fetal Safety"
+      ],
+      "sponsor": "University of Illinois at Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT06477120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05568225",
+      "title": "A Phase 2 Open-Label Study to Evaluate Etavopivat for the Treatment of Anemia in Patients With Myelodysplastic Syndromes (MDS)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-11-15",
+      "completion_date": "2024-07-15",
+      "country": "Germany, Canada, France, United States",
+      "enrollment": 17,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of etavopivat (FT-4202) for the treatment of anemia in adult patients with very low risk, low risk, or intermediate risk MDS.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. Patient has provided documented informed consent; the informed consent form (ICF) must be reviewed and signed by each patient prior to any study-related assessments/procedures being conducted.\n2. Age ≥ 18 years at time of first dose.\n3. Patients, if female and of childbearing",
+      "endpoints": [
+        "Percentage of Participants With Hematologic Improvement- Erythroid (HI-E) Response for >=8 Weeks Within 24 Weeks of Etavopivat Treatment"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT05568225"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05612919",
+      "title": "Safety, Feasibility and Efficacy of Red Blood Cells From Umbilical Cord Blood for Transfusion of Extremely Preterm Infants: Clinical Phase",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-13",
+      "completion_date": "2025-07-12",
+      "country": "Spain",
+      "enrollment": 41,
+      "brief_summary": "This study has been designed to demonstrate that red blood cell from umbilical cord blood (UCB-RBC) is a safe and available product for extremely preterm infants (EPI) transfusion and that transfusion of UCB-RBC is non-less effective than RBC from adult donor for the treatment of anemia of prematurity in this group of patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent from parents or legal guardians\n* Preterm infants born earlier than 28 weeks of gestational age.\n* Admission to the neonatal intensive care unit of the participating hospital (Hospital Clínic of Barcelona)\n\nExclusion Criteria:\n\n* Previous transfusion\n* ",
+      "endpoints": [
+        "Number of participants with abnormal physical examination after red blood cells from umbilical cord blood (UCB-RBC) transfusion",
+        "Number of participants with abnormal vital signs after UCB-RBC transfusion",
+        "Number of participants with altered value of continous monitoring of regional cerebral and somatic oxygen saturation by near-infrared spectroscopy after UCB-RBC transfusion"
+      ],
+      "sponsor": "Hospital Clinic of Barcelona",
+      "url": "https://clinicaltrials.gov/study/NCT05612919"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03921177",
+      "title": "Micronutrient Supplementation Before and During 1st Pregnancy to Improve Birth Outcomes (JiVitA-5)",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2019-01-17",
+      "completion_date": "2021-05-29",
+      "country": "Bangladesh",
+      "enrollment": 9859,
+      "brief_summary": "The purpose of this cluster-randomized trial is to evaluate the efficacy of daily, multiple micronutrient (MM) supplement versus identical placebo use among nulligravid, recently married women, starting preconceptionally through the 1st trimester of pregnancy, in reducing low birth weight and other adverse pregnancy outcomes in rural Bangladesh.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Resident of 566 rural sectors (clusters) in Gaibandha district\n* Recently-married woman\n* Nulligravid\n\nExclusion Criteria:\n\n* Women with a history of previous pregnancy\n* Women who refuse consent for participation",
+      "endpoints": [
+        "Preterm Birth - number of live-births occurring earlier than 37 weeks gestation among all live-births (with known gestational age)",
+        "Miscarriage - number of spontaneous abortions occurring earlier than 24 weeks gestation among all pregnancies (with known gestational age)",
+        "Small for Gestational Age - number of live-born neonates weighing less than the 10th centile of birth weight for gestational age and sex among all live-births (with known gestational age and birth weight)"
+      ],
+      "sponsor": "Johns Hopkins Bloomberg School of Public Health",
+      "url": "https://clinicaltrials.gov/study/NCT03921177"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00827463",
+      "title": "The Early Detection of Anaemia During the Maternity Decreases the Anaemia at the End of the Maternity.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2009-12",
+      "country": "France",
+      "enrollment": 80,
+      "brief_summary": "Estimate the efficiency of a strategy of premature screening of the maternal anaemia during the first quarter of pregnancy versus the usual strategy of screening of the anaemia during the sixth month.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Every patient followed at the HME at the beginnig of the pregnancy\n\nExclusion Criteria:\n\n* pregnency women who don't speak french\n* pregnancy women affected by béta thalassemia\n* pregnancy woman having had a périconceptionnel treatment against the anaemia",
+      "endpoints": [
+        "primary outcomes: is the rate of heamophilia at the end of the pregnancy."
+      ],
+      "sponsor": "University Hospital, Limoges",
+      "url": "https://clinicaltrials.gov/study/NCT00827463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07076849",
+      "title": "Mechanistic Pathways of Probiotic Supplementation in Optimizing Iron and Hematological Status Among Pregnant Females at Risk of Iron Deficiency Anemia",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-31",
+      "completion_date": "2030-11-30",
+      "country": "N/A",
+      "enrollment": 250,
+      "brief_summary": "Maternal iron deficiency (ID) and iron deficiency anemia (IDA) is associated with maternal and infant mortality, spontaneous preterm birth, maternal postpartum hemorrhage, and neurocognitive defects in the neonate. Therefore, preventing maternal IDA in at-risk women is critical. The standard approach to improving iron status in pregnancy (i.e., oral iron supplements) is suboptimal and gastrointestinal discomforts associated with this approach (i.e., constipation) impairs adherence. The incidence",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* singleton naturally conceived pregnancy;\n* at risk of IDA \\[Hb 11.0 - 11.9 g/dL (first trimester) and Hb 10.5 - 11.5 g/dL (second trimester) based on new OB clinical complete blood count (CBC) results obtained from the EHR;\n* 18 - 45 years old;\n* 10-16 weeks GA;\n* fluency in E",
+      "endpoints": [
+        "Maternal hemoglobin from complete blood count (CBC) with differential"
+      ],
+      "sponsor": "University of Illinois at Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT07076849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03562143",
+      "title": "Daily vs Alternate Day Iron Supplementation for Pregnant Women With Iron Deficiency Anemia: A Randomized Controlled",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-08-31",
+      "completion_date": "2020-02-20",
+      "country": "United States",
+      "enrollment": 88,
+      "brief_summary": "Iron deficiency is thought to be the most common nutrient deficiency among pregnant women and the most common cause of anemia in pregnancy. The consequences of iron deficiency anemia are serious and can include diminished intellectual and productive capacity and possibly increased susceptibility to infection in mothers and infants, low birthweight, and premature births, hence the importance of appropriate treatment during pregnancy.\n\nMost guidelines recommend an increase in iron consumption by a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant patients with iron deficiency anemia, defined as Hb less than 11.0 or hematocrit less than 33% with ferritin 25 ug/L\n* Age 18-64 years old.\n* Gestational age between 12 0/7 weeks and 34 0/7 weeks.\n* No other known causes of anemia (Folate or vit b12 deficiency anemia,",
+      "endpoints": [
+        "Change in Hemoglobin Level"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT03562143"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04691843",
+      "title": "Role of Iron Supplementation in Neurodevelopmental Outcome of Extremely Preterm Infants - A Pilot Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2024-08-31",
+      "country": "United States",
+      "enrollment": 51,
+      "brief_summary": "This study explores the relationship between iron deficiency and neurological outcome of extremely premature infants. Premature birth occurs during a critical period of brain development and maturation, and before adequate transfer of iron across the placenta. Nutrition has a significant impact on ultimate outcome of survivors of prematurity. One of the biomarkers of nutrition in the premature infant is iron, and iron supplementation is essential for growth and brain development at low gestation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* NICU inpatients between 24-0/7 and 30-6/7 weeks of gestation\n* Infants older than one week of age and tolerating at least 60ml/kg/day of enteral feeds.\n* Parental permission obtained prior to start of study\n\nExclusion Criteria:\n\n* In extremis during consent window (as judged b",
+      "endpoints": [
+        "Neurodevelopmental outcome in participants"
+      ],
+      "sponsor": "Ann & Robert H Lurie Children's Hospital of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT04691843"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06875947",
+      "title": "EFFECTS of MORINGA OLEIFERA LEAF MICRONIZED POWDERS on HEMATOLOGICAL PROFILES, PERIPHERAL BLOOD SMEAR, HEPCIDIN, AND CYTOKINES (IL-1 DAN IL-6) OF PREGNANT WOMEN WITH IRON DEFICIENCY ANAEMIA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-05-23",
+      "completion_date": "2026-05-31",
+      "country": "Indonesia",
+      "enrollment": 59,
+      "brief_summary": "Title: The Effect of Moringa Oleifera Leaf Micronized Powders on Hematological Profile, Hepcidin, and Cytokines (IL-1 and IL-6) in Pregnant Women with Iron Deficiency Anemia\n\nStudy Description:\n\nIron deficiency anemia is one of the most common health problems affecting pregnant women worldwide, especially in developing countries like Indonesia. This condition can cause serious complications for both mothers and babies, such as premature birth, low birth weight, and increased risk of maternal mor",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Demographic Characteristics:\n\n   * Women aged 18-44 years\n   * Married, have a husband and/or family\n   * Have an ID card\n2. Clinical Characteristics:\n\n   * Pregnant with a gestational age of 28 to \\<32 weeks\n   * Live single fetus\n   * Hemoglobin (Hb) 7 - \\< 11 g/dl\n   * No c",
+      "endpoints": [
+        "Hemoglobin Levels"
+      ],
+      "sponsor": "Fakultas Kedokteran Universitas Padjadjaran",
+      "url": "https://clinicaltrials.gov/study/NCT06875947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01239693",
+      "title": "A Research Plan for a Randomised, Single-blind, Parallel Group Controlled Trial in Rural Malawi, Testing the Health Effects of Supplementing Maternal Diet During Pregnancy and Lactation and Infant Diet From 6 to 18 Months of Age With High-energy, Micronutrient Fortified Lipid-based Nutrient Supplements (LNS)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2011-02",
+      "completion_date": "2027-03-31",
+      "country": "Malawi",
+      "enrollment": 1391,
+      "brief_summary": "The use of lipid-based nutrients (LNS), such as Nutributter or fortified spread (FS), have been associated with improved growth and development outcomes among infants in Ghana and Malawi. Modified versions of such supplements have been developed to improve their nutrient density and quality and to lower their costs. Such modified products have proven acceptable to pregnant women in Malawi and Ghana. In the present trial, the investigators aim to test the effect of LNS on pregnancy and child outc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ultrasound confirmed pregnancy of no more than 20 completed gestation weeks\n* Permanent resident of Mangochi District Hospital, Malindi Hospital or Lungwena Health Centre catchment areas\n* Availability during the period of the study\n* Signed informed consent\n\nExclusion Criteri",
+      "endpoints": [
+        "Birth weight",
+        "Newborn length",
+        "Length for age Z-score (LAZ) at 18 months of age"
+      ],
+      "sponsor": "Tampere University",
+      "url": "https://clinicaltrials.gov/study/NCT01239693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01813682",
+      "title": "Effect of Iron-fortified TPN on Preterm Infants Anemia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-09",
+      "completion_date": "2014-06",
+      "country": "China",
+      "enrollment": 118,
+      "brief_summary": "The purpose of this study is to determine whether iron-fortified TPN is effective in the preventative and treatment of preterm infants. Preterm infants are at risk for anemia especially in preterm infants. Generally the smaller Birth weight and gestational age the higher anemia rate in infants. About 25% to 85% of preterm infants develop evidence of anemia during infancy，77% VLBW（very low birth weight） infants developed anemia during the hospital stay. The effects of iron deficiency are pervasiv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Preterm infants with birth weight less than 2kg Have parenteral nutrition indication With written informed consent of parents or guardian\n\nExclusion Criteria:\n\n* have already used TPN before randomization Kidney and liver function abnormal have hemolytic disease have hemorrhag",
+      "endpoints": [
+        "anemia rate"
+      ],
+      "sponsor": "Xinhua Hospital, Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01813682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02558725",
+      "title": "Iron Supplementation During Pregnancy - One Versus Two Ferrous Sulfate Capsules for Iron Deficient Pregnant Women",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-04",
+      "completion_date": "2016-02",
+      "country": "Israel",
+      "enrollment": 100,
+      "brief_summary": "Since normal pregnancies are associated with dilutional anemia, due to a greater increase in plasma volume with a smaller increase in RBC mass, it is important to properly diagnose IDA according to the levels of serum ferritin. Previous studies examining the optimal iron dose have shown that adjustment of iron supplementation according to serum ferritin levels in early pregnancy could be beneficial. Nonetheless, there is no consensus regarding the appropriate dose of iron during pregnancy, its d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy pregnant women ages 18-42\n2. A diagnosis of iron deficiency anemia (defined as a hemoglobin concentration \\<10.5 g/dL and ferritin levels \\< 15 ng/ml) between 16-19 weeks\n3. Full access to medical computerized files.\n\nExclusion Criteria:\n\n1. Hyperemesis gravidarum con",
+      "endpoints": [
+        "mean hemoglobin level"
+      ],
+      "sponsor": "Assuta Hospital Systems",
+      "url": "https://clinicaltrials.gov/study/NCT02558725"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00457990",
+      "title": "Early Versus Late Enteral Iron Supplementation in Infants With a Birth Weight of Less Than 1301g - Neurocognitive Development at 5.3 Years Corrected Age",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2005-12",
+      "country": "Germany",
+      "enrollment": 204,
+      "brief_summary": "Background: Iron deficiency in early childhood may impair neurodevelopment.\n\nAim: To examine whether early iron supplementation improved neurodevelopment in preterm infants.\n\nMethod: Children who participated in a clinical trial of iron supplementation were invited for a neurodevelopmental follow-up examination at the time of school entry.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* inborn infants with a birth weight of \\<1301g admitted between June 1996 and June 1999\n\nExclusion Criteria:\n\n* major anomalies, hemolytic disease, twin-to-twin transfusion syndrome, missing parental consent",
+      "endpoints": [
+        "ferritin at 61 days of life",
+        "the number of infants who fulfilled the criteria of ID at any time throughout the study."
+      ],
+      "sponsor": "University of Ulm",
+      "url": "https://clinicaltrials.gov/study/NCT00457990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02858505",
+      "title": "Impact of One Versus Two Amino Acid Chelated Iron Capsules on Prevention of Iron Deficiency Anemia in Non-anemic Women With Twin Gestations",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2016-07",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "Anaemia is the most worldwide health problem affecting pregnant women in both developed and developing countries. During pregnancy there is an inconsistent increase in plasma volume and haemoglobin mass.\n\nIron deficiency anemia is the commonest type of anemia during pregnancy. The pregnant woman needs about 1000 mg of iron during pregnancy.\n\nDiet alone cannot give pregnant woman the daily required amount of the iron (about 27 mg/day) so the Centers for Disease Control and Prevention recommend th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* twin gestations\n* ±12 weeks)\n* normal hemoglobin level (Hb ≥ 120 g/L).\n* women were living in nearby area to make up follow up quit possible\n* willing to participate in our study\n\nExclusion Criteria:\n\n* a recent blood transfusion\n* threatened miscarriage\n* pathological blood l",
+      "endpoints": [
+        "Hemoglobin level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02858505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03961074",
+      "title": "Iron Deficiency Anemia Among Chinese Pregnant Women (IRON WOMEN): a Multi-center Prospective Cohort Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-05-10",
+      "completion_date": "2021-11-30",
+      "country": "China",
+      "enrollment": 5551,
+      "brief_summary": "Iron deficiency anemia during pregnancy, which may lead to adverse pregnancy outcomes, was a serious health problem in China. Various iron supplements used in different regions of China, however, the effects have not been well investigated. The objective of this study is to investigate the diagnosis, treatment and prognosis of iron deficiency and iron deficiency anemia in Chinese pregnant women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women who registered an antenatal care file at the survey hospital ;\n* Signed informed consent.\n\nExclusion Criteria:\n\n* Participated in any drug or nutritional clinical trial from 3 months before pregnancy to recruitment.",
+      "endpoints": [
+        "adverse maternal outcomes",
+        "adverse neonatal outcomes"
+      ],
+      "sponsor": "West China Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03961074"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03522428",
+      "title": "Vitamin B12 Supplementation in Addition to Folic Acid and Iron Improves Hematological and Biochemical Markers in Pregnancy: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-09-15",
+      "completion_date": "2012-12-23",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "Pregnancy is associated with increased requirements for iron and increased blood volume of up to 40%. Because expansion in plasma volume is higher than the increase in the mass of red blood cells, there is a fall in hemoglobin concentration, which leads to physiological anemia, characterized with lower hemoglobin (Hb), hematocrit and red blood cells, but without changes in mean corpuscular volume (MCV). Anemia in pregnancy is defined with Hb values under 110 g/L in the first trimester and under ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* healthy women from 8th week of pregnancy\n\nExclusion Criteria:\n\n* existence of hypertension\n* existence of diabetes\n* existence of genetic abnormalities\n* smoking\n* previous miscarriage",
+      "endpoints": [
+        "Change of Red blood cells (RBC) count in first and second trimester",
+        "Change of Hemoglobin (Hgb) concentration in first and second trimester",
+        "Change of Hematocrit in first and second trimester"
+      ],
+      "sponsor": "University of Split, School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03522428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06125860",
+      "title": "Targeting Strategies of Antenatal Balanced Energy and Protein Supplementation in Addis Ababa, Ethiopia",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-08-07",
+      "completion_date": "2026-07-31",
+      "country": "Ethiopia",
+      "enrollment": 6750,
+      "brief_summary": "The goal of this randomized effectiveness study is to evaluate the different targeting strategies for the delivery of balanced energy and protein (BEP) supplements among pregnant women in Addis Ababa, Ethiopia. The main goals of the study are to: 1) determine the effectiveness of two individual-based antenatal BEP targeting strategies for preventing adverse pregnancy outcomes; 2) compare the cost-effectiveness of the universal BEP provision with two individual-based targeting strategies for prev",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. pregnant women aged 18 to 49;\n2. attending antenatal visits in one of the study health facilities;\n3. with a gestational age of 24 weeks or less;\n4. no known allergies to peanuts or soybeans;\n5. having resided in the current location for at least 6 months;\n6. intending to con",
+      "endpoints": [
+        "Small-for-gestational-age births"
+      ],
+      "sponsor": "Harvard School of Public Health (HSPH)",
+      "url": "https://clinicaltrials.gov/study/NCT06125860"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03181451",
+      "title": "A Phase 1, Open-Label, Randomised, Repeat Dose, Parallel Group Study to Evaluate the PK, Safety, Tolerability of Ferric Maltol at 3 Dosage Levels in Paediatric Subjects Aged 10-17 Years of Age With Iron Deficiency",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-03-14",
+      "completion_date": "2018-03-28",
+      "country": "United Kingdom",
+      "enrollment": 37,
+      "brief_summary": "The study has been designed to establish the pharmacokinetics (PK) and iron uptake of Ferric Maltol in children and adolescents aged 10-17 years using two (2) lower dose strengths in comparison to the EU-approved 30mg BID dose in adults with IDA in IBD.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ability to understand the information given in the Independent Ethics Committee (IEC) approved Information Sheet and Consent form. The parent or guardian of the study subject must sign and date the informed consent and authorisation to use protected health information (PHI) i",
+      "endpoints": [
+        "Maximum Plasma Concentration [Cmax] of Maltol Glucuronide on Day 1",
+        "Maximum Plasma Concentration [Cmax] of Maltol Glucuronide on Day 10",
+        "Area Under The Curve [AUC] of Maltol Glucuronide on Day 1"
+      ],
+      "sponsor": "Shield Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03181451"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02590224",
+      "title": "Ferrous Bis-glycinate Versus Ferrous Glycine Sulfate for the Treatment of Iron Deficiency Anemia During Pregnancy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-01-01",
+      "completion_date": "2017-12",
+      "country": "Egypt",
+      "enrollment": 200,
+      "brief_summary": "Iron deficiency anemia during pregnancy is a significant worldwide health problem, affecting 22% of pregnant women in industrialized countries and 52% in non-industrialized countries. Iron deficiency anemia during pregnancy is associated with increased maternal as well as fetal morbidity, including prematurity, low birth-weight and perinatal and infant loss. Therefore, routine iron supplementation during the second half of pregnancy has been recommended once daily. Others, however, support a sel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Singleton pregnancy.\n2. Gestational age 14-18 weeks.\n3. Mild to moderate anemia\n4. No associated medical or obstetric complications.\n5. Women not already receiving iron therapy.\n6. Women accepted to participate in the study.\n\nExclusion Criteria:\n\n1. Multiple pregnancy\n2. Seve",
+      "endpoints": [
+        "the rate of increase of Hemoglobin level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02590224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01715038",
+      "title": "Home-fortification Approaches for the Prevention of Malnutrition in Pregnant and Lactating Women and Their Children in Bangladesh: Program Effectiveness Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2015-10",
+      "country": "Bangladesh",
+      "enrollment": 4011,
+      "brief_summary": "The program effectiveness study aims to assess the effect of a lipid-based nutrition supplement (LNS) and micronutrient powder (MNP) provided in a programmatic context for improving maternal nutritional status during pregnancy and lactation (LNS only), and preventing malnutrition in infants and young children (LNS and MNP) in Bangladesh.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age ≤ 20 weeks\n* Planning to remain in the study area during pregnancy and the following three years (i.e., a permanent resident of the study area)\n\nExclusion Criteria:\n\n* Pregnancy identified and registered in the CHDP program before the beginning of the enrollmen",
+      "endpoints": [
+        "Birth weight",
+        "Birth length",
+        "Child linear growth status at 24 months"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT01715038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00133744",
+      "title": "Impact of Iron/Folic Acid Versus Multimicronutrient Versus Folic Acid Supplements During Pregnancy on Mortality, Morbidity, and Complications During Pregnancy, Labor, and Delivery: A Randomized Controlled Trial in China",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2010-12",
+      "country": "China",
+      "enrollment": 18962,
+      "brief_summary": "The purpose of this study is to determine whether a daily prenatal supplement of iron plus folic acid or a daily prenatal supplement with multiple vitamins and minerals given to women from their first prenatal visit through delivery reduces perinatal mortality compared with a daily prenatal supplement of folic acid alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Live in one of the study counties (Laoting, Mancheng, Fengrun, Xianghe, Yuanshi)\n* Can follow instructions\n* Can swallow pills\n\nExclusion Criteria:\n\n* \\>= 20 weeks gestation at enrollment\n* Previous live birth\n* Anemic (hemoglobin \\[Hb\\] \\<10 g/dl in 1st trimester and \\< 9.5 g",
+      "endpoints": [
+        "Perinatal mortality, i.e., the number of stillbirths (fetal deaths of 28 weeks or more of gestation) and the number of deaths within the first 0-6 days of life per 1000 births (live births and stillbirths)"
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT00133744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02043249",
+      "title": "Cord Milking and Activity Of The Immune System In Preterm Infants",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2014-01",
+      "completion_date": "2016-01",
+      "country": "Israel",
+      "enrollment": 200,
+      "brief_summary": "In the embry life there is a passage of IgG type, from the mother to tha embryoyo and only in the age of 3-5 month after birth the infant start to develop them by himself.\n\nIn preterm infants the starting point of the level of the IgG's is lower from the level of term infants.\n\nDelayed cord clamping /milking it was prooved in many researches as benificial in terms of : levels of hemoglobin; hematocrit and feritin in the neonats. Also benefits were proved by means of less need for blood tranfusio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PRETERM INFANS BETWEEN 24+0/7 TO 36\n\n  * 6/7 WEEKS.\n  * NEWBORN FOR MOTHER WHO AGREE TO PARTICIPATE IN THE RESEARCH WHO DELIVER IN NORMAL DELIVERY / PLANED OR URGENT CESARIAN DELIVERY\n\nExclusion Criteria:\n\n* INTRA UTERINE GROWTH RESTRICTION, INFANT UNDER 10% TO AGE OF PREGNANC",
+      "endpoints": [
+        "levels of IgG in preterm infats"
+      ],
+      "sponsor": "Hillel Yaffe Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02043249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01125163",
+      "title": "Randomized Trial Comparing Iron Supplementation Versus Routine Iron Intake in Very Low Birth Weight Infants",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "In preterm infants with birth weights less than 1500 grams, does iron supplementation with 2mg/kg/day in addition to routine feeding with routine iron-fortified milk (formula or fortified mother's milk), as compared to routine iron fortified milk, increase hematocrit at 36 weeks adjusted postmenstrual age (or at discharge if sooner)?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Birth weight \\<1500 grams\n* Tolerating iron fortified preterm formula or fortified human milk at 120cc/kg/day by 8 weeks of age\n* \\</= 32 weeks adjusted post-menstrual age at the time of enrollment\n\nExclusion Criteria:\n\n* Cyanotic heart disease\n* Bowel resection prior to enrol",
+      "endpoints": [
+        "Hematocrit (Hct) at 36 Wks Post Menstrual Age (PMA)"
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "url": "https://clinicaltrials.gov/study/NCT01125163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02222805",
+      "title": "Effect of Timing of Umbilical Cord Clamping on Anaemia at 8 and 12 Months and Later Neurodevelopment in Late Pre-term and Term Infants; a Facility-based Randomized-controlled Trial in Nepal",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-10",
+      "completion_date": "2015-12-11",
+      "country": "Nepal",
+      "enrollment": 540,
+      "brief_summary": "The investigators plan a study to randomize 540 children in Nepal to early (≤30 seconds) or late (≥180 seconds) clamping of the umbilical cord at birth. The children will be followed with blood tests (hemoglobin and ferritin) at 8 and 12 months of age, and their development is evaluated by questionnaire (Ages \\& Stages Questionnaire ) at 12 months of age, and by testing (Bayley -III) at 18-24 months of age. By implementing the project in a country with a high proportion of anemia at one year of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Late preterm or term pregnancy (gestational age 34 to 41 weeks)\n* Vaginal delivery\n\nExclusion Criteria:\n\n* Serious congenital malformation, syndrome or other congenital disease that can affect the outcome measures",
+      "endpoints": [
+        "Hemoglobin"
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT02222805"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05921968",
+      "title": "Evaluation of the Effect of Lactoferrin Versus Intravenous Iron Sucrose in Treatment of Iron Deficiency Anemia During Pregnancy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-07-30",
+      "completion_date": "2024-04-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Iron deficiency is the most common nutritional deficiency and the most common cause of anemia. Anemia has a significant impact on the health of the fetus as well as that of the mother. It impairs the oxygen delivery through the placenta to the fetus and interferes with the normal intrauterine growth, leading to fetal loss and perinatal deaths. Anemia is associated with increased preterm labor (28.2%), preeclampsia (31.2%), and maternal sepsis.\n\nThe study aims to compare the effect of Lactoferrin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women with iron deficiency anemia.\n* Microcytic hypochromic anemia, moderate anemia (Hb 8 to 9.9 g/dl) and S. Ferritin levels \\<12 ng/dl as per WHO guidelines\n* Gestational age: - 13-26 weeks.\n* Singleton viable pregnancy\n* Lastly, agreement to participate and sign th",
+      "endpoints": [
+        "evaluate the effect of oral lactoferrin as compared to intravenous iron sucrose on the serum level of ferritin",
+        "evaluate the effect of oral lactoferrin as compared to intravenous iron sucrose on the serum level of hemoglobin"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT05921968"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03725150",
+      "title": "Iron Deficiency Anaemia in Pregnancy: an Observational Study of Tolerability, Compliance With Oral Iron Therapy and Effects on Haematological/Biochemical Markers",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-06-19",
+      "completion_date": "2019-12-17",
+      "country": "United Kingdom",
+      "enrollment": 400,
+      "brief_summary": "The burden of anaemia remains unacceptably high during pregnancy. Over a third of women are anaemic by their third trimester of pregnancy. The most common cause is iron deficiency. One key factor is rising iron requirements throughout pregnancy. There are risks associated with anaemia for the mother and infant. Anaemia in the first and second trimester has been significantly correlated with low birth weight and pre-term birth, and is associated with impaired neurological development of the baby.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women (any stage during pregnancy up to 36 weeks) and women in the puerperium (within 6 weeks postdelivery) with anaemia as defined by World Health Organization (WHO) criteria and described in British Society Haematology (BSH)/ British Committee for standards in Haema",
+      "endpoints": [
+        "An increase in haemoglobin of at least 10g/L"
+      ],
+      "sponsor": "The Royal Wolverhampton Hospitals NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03725150"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01735578",
+      "title": "Splanchnic Tissue Oxygenation During Enteral Feedings in Anemic Premature Infants at Risk for Necrotizing Enterocolitis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2015-04",
+      "country": "United States",
+      "enrollment": 52,
+      "brief_summary": "Necrotizing enterocolitis (NEC) is the most common gastrointestinal emergency encountered in the newborn intensive care unit and represents a significant cause of morbidity and mortality in infants born prematurely. Among possible risk factors, a strong association between elective RBC transfusions in premature infants with anemia and the subsequent development of NEC has been consistently observed (6-11). However, a significant (and increasing) number of VLBW infants with anemia are managed wit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Premature infants of ≤ 32 weeks gestational age\n2. anemia (hematocrit of ≤ 28 %)\n3. full enteral feedings\n4. stable clinical condition (no mechanical ventilation, no vasopressors, no sepsis)\n5. Age ≤ 12 weeks of life\n\nExclusion Criteria:\n\n1. Lack of parental consent\n2. Multip",
+      "endpoints": [
+        "cerebro-splanchnic oxygenation ratio (CSOR) measurements"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT01735578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06366698",
+      "title": "Randomized Control Trial: Intravenous Iron Versus Oral Iron for the Treatment of Iron Deficiency Anemia in Pregnancy",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-11-21",
+      "completion_date": "2025-12-30",
+      "country": "United States",
+      "enrollment": 900,
+      "brief_summary": "This study aims to assess whether administering intravenous iron early in pregnancy, compared to standard oral iron treatment, can enhance hemoglobin levels before delivery and reduce the need for blood transfusions in patients with iron deficiency anemia. Patients diagnosed with iron deficiency anemia were randomly assigned to receive either oral or intravenous iron. Before treatment initiation, patients completed a symptom questionnaire baseline hemoglobin, and ferritin levels were measured. F",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years of age\n* Ferritin level \\< 30 ng/mL\n* Singe gestation\n* Gestational age up to 36 weeks as iron therapy after this has shown to be not beneficial at time of delivery. We will still plan to treat patients \\> 36 weeks but not include them in the final analysis\n* P",
+      "endpoints": [
+        "Hemoglobin difference",
+        "Ferritin difference",
+        "Delivery Hemoglobin"
+      ],
+      "sponsor": "Arrowhead Regional Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06366698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03657433",
+      "title": "Intravenous Infusions of Ferumoxytol Compared to Oral Ferrous Sulfate for the Treatment of Anemia in Pregnancy: A Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-12-17",
+      "completion_date": "2022-04-01",
+      "country": "United States",
+      "enrollment": 124,
+      "brief_summary": "This randomized controlled trial includes pregnant women with anemia. They are randomized to IV iron infusions or to oral iron supplementation. Pregnancy outcomes are assessed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Maternal age \\>/= 18\n* Singleton gestation\n* \\>/=20 weeks gestation, \\<37 weeks gestation\n* Hemoglobin \\<11g/dL and/or hematocrit \\<33%\n* Able to read/speak English or Spanish\n\nExclusion Criteria:\n\n* Maternal age \\<18\n* Multiple gestation\n* \\<20 weeks gestation, \\</= 37 weeks ",
+      "endpoints": [
+        "Change in hemoglobin"
+      ],
+      "sponsor": "University of Arizona",
+      "url": "https://clinicaltrials.gov/study/NCT03657433"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06624709",
+      "title": "The Benefit in Terms of Improvement in Haemoglobin Level at 6 Months in Premature Babies Receiving Alternate Iron Substitution 4 Times a Week Compared to a Daily Substitution",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-11-02",
+      "completion_date": "2027-05",
+      "country": "Switzerland",
+      "enrollment": 160,
+      "brief_summary": "BienFer is a double-blinded randomized controlled trial about iron substitution and abdominal pain. Premature babies and low birth weight babies have lower iron stores than term newborns and are therefore at greater risk of iron deficiency and anemia. Iron deficiency could have consequences for cerebral development. Ferric substitution reduces the risk of iron deficiency and anemia. It is common to replace premature babies with iron substitution between 2 weeks and 6 months of life. In practice,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premature babies between 28 0/7WA and 34 6/7 WA\n* Parental consent, postnatal\n* Age of 2 weeks\n\nExclusion Criteria:\n\n* anemia \\< 80g/l at 2 weeks of age\n* Intraventricular Hemorrhage stage III and IV\n* Necrotizing Enterocolitis\n* Enteral feeding less than 100ml/kg/j after 2 we",
+      "endpoints": [
+        "Anemia at 6 months"
+      ],
+      "sponsor": "University Hospital, Geneva",
+      "url": "https://clinicaltrials.gov/study/NCT06624709"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03792464",
+      "title": "Serum Hepcidin and Iron Status Parameters in Pregnant Women and the Association With Adverse Maternal and Fetal Outcome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-04-30",
+      "completion_date": "2021-10-31",
+      "country": "Switzerland",
+      "enrollment": 188,
+      "brief_summary": "Hepcidin production is normally upregulated by iron stores, and in obesity has been shown to be overexpressed and correlated with low iron status. The increased hepcidin may restrain the iron release from the cells by affecting the expression of ferroportin, which probably associates with the development of diabetes complication. Firstly, investigator examines the difference of serum hepcidin and iron parameters between obese and non-obese pregnant women; secondly, the correlation between serum ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with a BMI ≥ 18.5 kg/m2,\n* maternal age ≥ 18 years,\n* singleton pregnancy,\n* gestational age at recruitment: 11-14 of gestational weeks,\n* written informed consent.\n\nExclusion Criteria:\n\n* pregnant women with a BMI\\< 18.5 kg/m2,\n* congenital anomaly of fetus,\n* severe ma",
+      "endpoints": [
+        "Serum hepcidin at 11-14 weeks of gestation"
+      ],
+      "sponsor": "University Hospital, Basel, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT03792464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02515214",
+      "title": "Bariatric Surgery Registration in Women of Reproductive Age",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2012-07",
+      "completion_date": "2025-01",
+      "country": "Belgium",
+      "enrollment": 500,
+      "brief_summary": "The use of bariatric surgery has risen subsequently over the last decade, especially in women of reproductive age. (Unplanned) pregnancies in this subgroup are not rare because of e.g. an increased fertility (because of the weight loss) and a possible ineffectiveness of contraceptives (because of a malabsorption in the intestine). Although a pregnancy after bariatric surgery is generally known as safe, there are a few studies that indicate that a pregnancy after a bariatric surgery is not always",
+      "eligibility_criteria": "Women will be included in one of the following four inclusion moments (IM):\n\n* Before surgery (women of reproductive age with morbid obesity) (IM1)\n* After surgery and not being pregnant (IM2)\n* Before 15 weeks of gestation (IM3)\n* Day 3 of 4 of the postpartum for breast milk analyses (IM4)\n\nInclusi",
+      "endpoints": [
+        "Gestational weight gain",
+        "Gestational length",
+        "Surgical complications during pregnancy"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT02515214"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02341300",
+      "title": "Use of Cast Iron Pots to Improve Maternal Anemia",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2020-07-15",
+      "completion_date": "2020-07-15",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "Anemia of pregnancy is defined as a hemoglobin concentration of less than 11 g/dL in the first and third trimesters, and less than 10.5 g/dL in the second trimester. The rates of anemia are variable and depend largely on preexisting iron stores and supplementation. Estimates from the World Health Organization report that 35% to 75% of pregnant women in developing countries and 18% of women from industrialized countries are anemic. Maternal anemia is associated with an increased risk of preterm b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women of any age in their first trimester of pregnancy with anemia defined as a Hemoglobin less than 11 and/or a hematocrit less than 33\n* Willingness and ability to cook in provided cast iron pot at least 3x/week\n* Singleton gestations\n\nExclusion Criteria:\n\n* Any sec",
+      "endpoints": [
+        "Increased hematocrit in second and third trimesters of pregnancy"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT02341300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03174652",
+      "title": "Causes and Impact of Anemia on Pregnancy Outcome on the Thai-Myanmar Border: Retrospective Analysis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-07-20",
+      "completion_date": "2018-07-20",
+      "country": "Thailand",
+      "enrollment": 13520,
+      "brief_summary": "The global burden of maternal morbidity and mortality attributable to anemia is staggering, and this is especially true in low-resource settings. A recent review suggests 42% of pregnant women have anemia worldwide (1993-2005) with the vast majority of anemic women (90%) residing in Africa or Asia1; and in Asia, anemia was the second highest cause of maternal mortality2. Anemia was diagnosed in almost one third to one half of women presenting to the Shoklo Malaria Research Unit (SMRU) clinics on",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant woman voluntarily presented at SMRU antenatal clinics and at the first antenatal visit they were counselled about the types of tests that would be made available and that if they did not want to do them they could opt out and SMRU would still provide antenatal care, a",
+      "endpoints": [
+        "Hematology"
+      ],
+      "sponsor": "University of Oxford",
+      "url": "https://clinicaltrials.gov/study/NCT03174652"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04171388",
+      "title": "Enhancing Nutrition and Antenatal Infection Treatment for Maternal and Child Health in Amhara Region, Ethiopia",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2020-03-01",
+      "completion_date": "2021-11-30",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The ENAT study will test the impact of packages of antenatal interventions to enhance maternal nutrition and manage pregnancy infections on the outcomes of infant birth size, gestational length, and infant growth in the first 6 months of life. Approximately 5,280 pregnant women will be enrolled into the study from 12 health centers in the Amhara region of Ethiopia. Routine antenatal care will be strengthened in all health centers, and six health centers will be randomized to additionally provide",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women \\<=24 weeks gestation with a viable pregnancy based on a best clinical algorithm (LMP and/or symphysis fundal height)\n\nExclusion Criteria:\n\n* Pregnant women presenting at enrollment \\>24 weeks\n* Pregnant women presenting with non-viable fetus\n* Women who do not ",
+      "endpoints": [
+        "Birth weight",
+        "Birth length"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04171388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02038023",
+      "title": "Intravaneous Iron(1000 mg Low Molecular Weight Iron Dextran Over 60 Minutes) for Moderate to Severe Iron Deficient Anemia of Pregnancy in Women Intolerant of or Responsive to Oral Iron.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "To determine the percentage of women who achieve anemia correction after a single dose of 1000mg of low molecular weight iron dextran(infed).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* pregnant women intolerable to oral iron. hbg \\<10.9 g/dl during second or third trimester.\n\nExclusion Criteria:\n\n* known sensitivity to IV iron. hemoglobinopathies. hemolytic anemia. women who have received or will receive blood transfusions. women with significant vaginal ble",
+      "endpoints": [
+        "Percentage of Women Who Achieve Anemia Correction After a Single Dose of 1000mg of Low Molecular Weight Iron Dextran(INfeD)."
+      ],
+      "sponsor": "Auerbach Hematology Oncology Associates P C",
+      "url": "https://clinicaltrials.gov/study/NCT02038023"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07083492",
+      "title": "Point-of-care Transcutaneous Longitudinal Non-invasive Detection of Iron Deficiency in Obstetrics (PICCOLINO-Trial)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-11-15",
+      "completion_date": "2026-12-31",
+      "country": "Germany",
+      "enrollment": 500,
+      "brief_summary": "Validation of non-invasive measurement of zinc protoporphyrin for detection of iron deficiency in pregnancy.\n\nIn addition, the impact of iron deficiency on the incidence of postpartum depression, restless legs syndrome, obstetric complications and quality of life will be examined.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* any timepoint during or up to 3 months after pregnancy\n* age ≥ 18 years\n* written informed consent\n\nExclusion Criteria:\n\n* previous participation in this study\n* refusal of blood sampling\n* incapacity to give informed consent",
+      "endpoints": [
+        "Accuracy of non-invasive zinc protoporphyrin for the detection of iron deficiency in pregnancy"
+      ],
+      "sponsor": "Wuerzburg University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07083492"
+    }
+  ],
+  "timestamp": "2026-03-04T16:20:16.899810",
+  "success": true,
+  "error_message": null
+}

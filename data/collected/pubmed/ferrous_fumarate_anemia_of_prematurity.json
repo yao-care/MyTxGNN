@@ -1,0 +1,127 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "anemia of prematurity",
+    "query_string": "Ferrous Fumarate AND anemia of prematurity"
+  },
+  "data": {
+    "query": "Ferrous Fumarate AND anemia of prematurity",
+    "results": [
+      {
+        "pmid": "11811040",
+        "title": "[Anemia of prematurity and treatment with recombinant human erythropoietin (rHuEPO): is there a benefit?].",
+        "abstract": "",
+        "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+        "year": "2001",
+        "authors": [
+          "Klosowski S",
+          "Djebara A",
+          "Bachiri A",
+          "Haouari N",
+          "Thelliez P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Anemia, Neonatal",
+          "Erythropoietin",
+          "Ferrous Compounds",
+          "Gestational Age",
+          "Humans",
+          "Infant, Newborn",
+          "Recombinant Proteins",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11811040/"
+      },
+      {
+        "pmid": "5621839",
+        "title": "[Nutritional anemia of newborns should not exist: its aspects, its prevention, importance and place of ferrous fumarate].",
+        "abstract": "",
+        "journal": "Annales de pediatrie",
+        "year": "1967",
+        "authors": [
+          "Martin C",
+          "Beauvieux J",
+          "Bildstein G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Hypochromic",
+          "Deficiency Diseases",
+          "Diet Therapy",
+          "Erythropoiesis",
+          "Fumarates",
+          "Humans",
+          "Infant Nutrition Disorders",
+          "Infant, Newborn",
+          "Infant, Premature, Diseases",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5621839/"
+      },
+      {
+        "pmid": "8740312",
+        "title": "Erythropoietin (Epo), protein and iron supplementation and the prevention of anaemia of prematurity: effects on serum immunoreactive Epo, growth and protein and iron metabolism.",
+        "abstract": "The effect of recombinant human (r-Hu) erythropoietin (Epo) (300 IU/Kg per week for 4 weeks) was studied in healthy preterm infants (n = 14) fed human milk with additional milk protein and high doses of iron. The controls (n = 15) were in themselves a study group and were used to follow the natural course of anaemia of prematurity on such nutrition. Serum immunoreactive Epo (SiEpo) increased significantly 24 h after r-HuEpo injections (range 36 to > 128 mU/ml) and remained at these levels throughout the treatment period. r-HuEpo in such moderate doses kept haemoglobin above 11 g/dl. Bodyweight gain, protein and iron parameters indicated adequacy of dietary protein and iron. In controls, siEpo increased during the first weeks after nutritional supplementation, with a concommitant rise in reticulocyte count. At age 3 weeks, despite low siEpo levels, reticulocyte counts indicated active erythropoiesis. Following further moderate increases in siEpo, the reticulocyte count increased to high",
+        "journal": "Acta paediatrica (Oslo, Norway : 1992)",
+        "year": "1996",
+        "authors": [
+          "Bechensteen A G",
+          "Halvorsen S",
+          "Hågå P",
+          "Cotes P M",
+          "Liestøl K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anemia, Neonatal",
+          "Combined Modality Therapy",
+          "Dietary Proteins",
+          "Erythropoietin",
+          "Ferrous Compounds",
+          "Growth",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Infant, Premature, Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8740312/"
+      },
+      {
+        "pmid": "41660502",
+        "title": "Oral iron preparations: gastrointestinal adverse events and medication adherence in female patients with iron deficiency anemia.",
+        "abstract": "The relationship between oral iron preparation-related gastrointestinal adverse events (AEs) and medication adherence in female patients with iron deficiency anemia (IDA) remains unclear.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2026",
+        "authors": [
+          "Tan Xing",
+          "Tian Yu",
+          "Zhang Tongtong",
+          "Yao Qi",
+          "Zhu Tingting"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41660502/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:17:40.699791",
+  "success": true,
+  "error_message": null
+}

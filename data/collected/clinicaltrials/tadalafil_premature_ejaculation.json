@@ -1,0 +1,123 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "premature ejaculation"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03177746",
+      "title": "The Safety of Dapoxetine/Tadalafil Combination Therapy in Treatment of Men With Premature Ejaculation and Erectile Dysfunction",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-12-31",
+      "completion_date": "2023-10-14",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of Dapoxetine/Tadalafil 30/20 mg film-coated tablet in the treatment of men with premature ejaculation and erectile dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-64 years old men,\n* Participants must be heterosexual males and in a stable monogamous sexual relationship with a female partner for at least 6 months and will continue throughout the study,\n* Clinical diagnosis of erectile dysfunction, IIEF score ≤21,\n* Premature Ejaculati",
+      "endpoints": [
+        "Evaluation of safety of study drug"
+      ],
+      "sponsor": "Neutec Ar-Ge San ve Tic A.Ş",
+      "url": "https://clinicaltrials.gov/study/NCT03177746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05749354",
+      "title": "Clinical Study of Liver Meridian in the Treatment of Male Impotence and Female Premature Ovarian Failure",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-01-11",
+      "completion_date": "2023-12-31",
+      "country": "China",
+      "enrollment": 159,
+      "brief_summary": "Erectile dysfunction (ED) is a kind of worldwide and common sexual dysfunction disease, which mainly affects men over forty years old. The clinical characteristics of ED is the inability to maintain sufficient erection to obtain satisfactory sexual intercourse. Age, education, diabetes, stroke, obesity, and hypertension are factors inducing ED. Recent years, the prevalence of ED is rising, and more men aged below forty years old are suffering ED. Published review indicated that the prevalence of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 22 and 50 years\n* Having a sexual partner and having regular sex life at least twice a week\n* Meeting the diagnostic criteria of ED\n* The scores of IIEF-5 between 8 points to 21 points\n* PDE5i or similar medication weren't taken one month before treatment\n* Patient",
+      "endpoints": [
+        "5-item version of the International Index of Erectile Function (IIEF-5)"
+      ],
+      "sponsor": "The First Affiliated Hospital of Hunan University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT05749354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04361305",
+      "title": "Multicenter Study of the Efficacy and Safety of Dapoxetine Combined With Tadalafil in Men With Premature Ejaculation and Concomitant Erectile Dysfunction",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-06-03",
+      "completion_date": "2021-04-01",
+      "country": "N/A",
+      "enrollment": 150,
+      "brief_summary": "Premature ejaculation (PE) is a common disease in the andrology clinic. Currently, the effectiveness and outcome differences of drug treatment still need to be studied and demonstrated. Premature ejaculation concurrent with erectile dysfunction (ED) is common in outpatient clinics. The preferred treatment plan for these patients still needs to be further studied and explored, and the difference in the efficacy of different treatment regiments remain to be evaluated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. PE concurrent with ED: the IELT is less than 3 minutes, the PEDT score is ≥11 points, and 5≤IIEF-5≤21 points.\n2. 18-60 years old, outpatient or physical examination population, with regular sex partners and regular sex life;\n3. Having the data below,and willing to participate",
+      "endpoints": [
+        "The change of Premature Ejaculation Profile (PEP) at week 8",
+        "The change of International Index of Erectile Function -5(IIEF-5) at week 8"
+      ],
+      "sponsor": "Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04361305"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01063855",
+      "title": "A Prospective, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multicenter Study of the Efficacy and Safety of Dapoxetine in Men With Premature Ejaculation and Concomitant Erectile Dysfunction Treated With a Phosphodiesterase-5 Inhibitor",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2011-09",
+      "country": "South Korea, France, Mexico, Taiwan, Russia, Australia, United Kingdom, Malaysia, Poland, Canada, Argentina, Belgium, United States",
+      "enrollment": 495,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of dapoxetine compared to placebo in men with premature ejaculation and erectile dysfunction who are currently being treated with a phosphodiesterase-5 inhibitor (ie, sildenafil, vardenafil, or tadalafil) for erectile dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of erectile dysfunction (ED), International Index of Erectile Function (IIEF) score \\>=21 at screening and baseline, and receiving treatment with a stable regimen of a phosphodiesterase 5 (PDE 5) inhibitor (ie, sildenafil, vardenafil, or tadalafil) for the t",
+      "endpoints": [
+        "The Average Intravaginal Ejaculatory Latency Time (IELT) at Week 12"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01063855"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04703127",
+      "title": "Effectiveness and Tolerability of the On-demand Use of Combined Dapoxetine With Tadalafil and Combined Dapoxetine With Lidocaine 5% Spray in Treatment of Patients With Lifelong Premature Ejaculation and Non-responding to Dapoxetine Alone.",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-03-30",
+      "completion_date": "2021-01-30",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Therefore, this study will aim to assess the effectiveness and tolerability of the on-demand use of combined dapoxetine with tadalafil and combined dapoxetine with lidocaine 5% spray in treatment of patients with lifelong premature ejaculation and non-responding to dapoxetine alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* lifelong premature ejaculation and non-responding to dapoxetine alone.\n\nExclusion Criteria:\n\n* diabetes mellitus,\n* chronic prostatitis,\n* Advanced renal or hepatic diseases\n* neurological diseases\n* C.N.S. medications",
+      "endpoints": [
+        "Intravaginal ejaculatory latency time (IELT)",
+        "Arabic Index of Premature Ejaculation (AIPE)"
+      ],
+      "sponsor": "Sohag University",
+      "url": "https://clinicaltrials.gov/study/NCT04703127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05052879",
+      "title": "National, Multicenter, Randomized, Double-blind, Double-dummy, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Toronto Association in the Treatment of Erectile Dysfunction and Premature Ejaculation",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-07",
+      "completion_date": "2026-08",
+      "country": "N/A",
+      "enrollment": 232,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Toronto association in the treatment of both sexual dysfunction: erectile dysfunction and premature ejaculation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to confirm voluntary participation and agree to all trial purposes by signing and dating the informed consent forms;\n* Male participants, with age greater than or equal to 18 years;\n* Heterosexual, sexually active participants in a stable and monogamous relationship fo",
+      "endpoints": [
+        "Percentage of participants with treatment response after 4 weeks of treatment.",
+        "Percentage of participants with treatment response after 8 weeks of treatment."
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT05052879"
+    }
+  ],
+  "timestamp": "2026-03-04T15:46:03.421270",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,84 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Tobramycin",
+    "disease": "escherichia coli infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01349738",
+      "title": "Asymptomatic Bacteriuria & Risk of Urinary Tract Infection in Renal Transplants",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2011-05",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The goal of this research program is to understand the natural history of asymptomatic bacteriuria in the renal transplant patients, to determine if screening for asymptomatic bacteriuria and identification of key host characteristics and virulence factors present on uropathogenic bacteria identifies a sub-population of patients with asymptomatic bacteriuria that are at risk to develop symptomatic urinary tract infection. Ultimately, the knowledge obtained from this study will prevent inappropri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* must be 18 years old or older,\n* had a kidney transplant,\n* be at least 30 days post operation.\n\nExclusion Criteria:\n\n* Pregnant women, those planning to become pregnant or nursing mothers;\n* Renal transplant patients less than 30 days post transplant; Use of an indwelling Fol",
+      "endpoints": [
+        "Prevalence of Asymptomatic Bacteriuria and Risk of Developing Symptomatic Urinary Tract Infections or Renal Allograft Injury in Renal Transplant Patients"
+      ],
+      "sponsor": "Rice, James C., M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT01349738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06093191",
+      "title": "Efficacy and Safety of tobRamycin Inhalation Solution for Pseudomonas AeruginoSa Eradication in Bronchiectasis (ERASE): a Multi-center, 2×2 Factorial Randomized, Double-blind, Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-09-25",
+      "completion_date": "2025-12-30",
+      "country": "China",
+      "enrollment": 364,
+      "brief_summary": "People with bronchiectasis are prone to Pseudomonas aeruginosa (PA) infections, which can become chronic and lead to increased death rates and disease severity. Studies from cystic fibrosis suggest that eradication therapy aimed at PA can successfully transition patients to a culture-negative status, providing long-term benefits. Current guidelines for managing bronchiectasis in adults recommend eradicating PA when it is first or newly isolated; however, there is a lack of randomized controlled ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, aged 18 years and 80 years at screening\n2. Signed and dated written informed consent prior to admission to the study in accordance with local legislation.\n3. Clinical history consistent with bronchiectasis (cough, chronic sputum production and/or recurrent res",
+      "endpoints": [
+        "The proportion of patients successfully eradicating PA in each group by the end of the study, defined as a negative sputum culture of PA at both 24 weeks and 36 weeks."
+      ],
+      "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+      "url": "https://clinicaltrials.gov/study/NCT06093191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04872400",
+      "title": "Acute Application Of Intrawound Antibiotic Powder In Open Extremity Fracture Wounds",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-06-14",
+      "completion_date": "2023-09-30",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to help determine the best treatment for severe injures like open fracture wounds.\n\nSome broken bone injuries can be more likely to get an infection. It is mostly due to the way they were injured. Surgical site infection in the orthopedic surgery population is a big public health issue. Wound infections result in both longer length of hospital stay and total cost of care. This study will be using an antibiotic called Vancomycin or Tobramycin in a powder form.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject or proxy willing and able to provide written informed consent.\n* Age between 18 years and 80 years (inclusive), with an upper or lower extremity Gustilo Type II, IIIA, or IIIB open fractures requiring debridement and internal fixation.\n* Open extremity fractures\n* Time",
+      "endpoints": [
+        "Incidence of surgical site infection during the post-operative follow-up period"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT04872400"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236944",
+      "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-03",
+      "country": "Norway, Sweden",
+      "enrollment": 560,
+      "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+      "endpoints": [
+        "Clinical response (primary endpoint)."
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT07236944"
+    }
+  ],
+  "timestamp": "2026-03-04T16:41:11.184986",
+  "success": true,
+  "error_message": null
+}

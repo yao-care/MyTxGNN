@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Cephalexin",
+    "drugbank_id": "DB00567"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 26
+  },
+  "indications": [
+    {
+      "disease": "streptococcal pneumonia",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "infectious otitis media",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "arthropathy",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "streptococcal infection",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 2,
+      "articles": 19,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "staphylococcus aureus infection",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 11,
+      "articles": 19,
+      "phase3": 4,
+      "phase2": 1,
+      "phase4": 2
+    }
+  ]
+}

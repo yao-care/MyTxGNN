@@ -1,0 +1,545 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "Crohn disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01950507",
+      "title": "Evaluation of Serum Concentrations of Budesonide in Patients Treated for Gastrointestinal Graft-Versus-Host Disease and the Potential Interaction With Fluconazole or Voriconazole",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2014-02-20",
+      "completion_date": "2020-02-26",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "Background:\n\nThe gastrointestinal (GI) tract is commonly affected by acute graft-versus-host disease (aGVHD) and chronic GVHD (cGVHD) in patients who have undergone blood or marrow stem cell transplantation (BMT). Initially, patients are treated with systemic corticosteroids, which produce complete response rates in 35 percent. Although short courses of steroids are preferred to minimize adverse effects, many patients require systemic treatment chronically since GI GVHD can negatively impact qua",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Adult and pediatric subjects (greater than or equal to 13 years of age and greater than or equal to 49 kg)\n* Be registered to an NIH protocol that includes bone marrow, cord, haplo-cord or peripheral blood stem cell transplantation\n* Have GI GVHD as determined by the medical ",
+      "endpoints": [
+        "Cmin and Cmax of budesonide"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01950507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03917303",
+      "title": "Control Crohn Safe With Episodic Adalimumab Monotherapy as First Line Treatment Study.",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2019-12-23",
+      "completion_date": "2026-09",
+      "country": "Netherlands",
+      "enrollment": 158,
+      "brief_summary": "Crohn's disease (CD) is a chronic disease with a heterogeneous clinical presentation, relapse rate and treatment response. Insufficient control of mucosal inflammation results in irreversible bowel damage and complications and at present no markers are available to predict such a complicated disease course at diagnosis. Therefore, to prevent overtreatment of low risk patients, step-up treatment with subsequent introduction of corticosteroids, thiopurines maintenance and TNF-blockers if a previou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed CD patients or CD patients with a flare, visiting the outpatient clinic or endoscopy ward of the participating centres\n* CD diagnosis according to ECCO-guidelines + complete ileo-colonoscopy + complete small bowel imaging at diagnosis (MRI or CT-enterography )\n",
+      "endpoints": [
+        "Number of yearly-quarters of corticosteroid free remission as a measure of treatment efficacy"
+      ],
+      "sponsor": "Maastricht University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03917303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00406653",
+      "title": "A Phase 3, Multi-Center, Randomized, Placebo-Controlled Study to Evaluate the Clinical Efficacy and Safety of Induction and Maintenance Therapy With Abatacept in Subjects With Active Crohn's Disease (CD) Who Have Had an Inadequate Clinical Response and/or Intolerance to Medical Therapy",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2006-12",
+      "completion_date": "2009-11",
+      "country": "Brazil, France, Czechia, Mexico, Puerto Rico, India, South Africa, Italy, Switzerland, Denmark, Australia, Germany, Netherlands, Poland, Canada, Belgium, United States",
+      "enrollment": 451,
+      "brief_summary": "The purpose of this clinical research study is to learn if abatacept can improve signs and symptoms of active Crohn's Disease in patients who have not had an adequate response to other therapies. The safety of this treatment will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older\n* have had Crohn's Disease for at least 3 months\n* moderate to severely active Crohn's Disease\n* have had an inadequate response or intolerance to other Crohn's Disease treatments",
+      "endpoints": [
+        "Induction Period (IP); Number of Participants With Crohn's Disease Activity Index (CDAI)-Defined Clinical Response at Both Day IP-57 and Day IP-85",
+        "Maintenance Period (MP); Number of Participants In CDAI-Defined Clinical Remission (CDAI <150) at Day MP-365 (12 Months)",
+        "Open-Label Extension Period (OL); Number of Participants With Adverse Events (AEs), Related AEs, Deaths, Serious AEs (SAEs), Related SAEs, and Discontinuation Due to AEs"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00406653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03992469",
+      "title": "Study to Evaluate Safety, Tolerability, and Early Efficacy of Oral E-B-FAHF-2 in Subjects With Mild-To-Moderate Crohn's Disease",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-02-15",
+      "completion_date": "2026-02-02",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "Crohn's disease (CD) is the major form of inflammatory bowel disease (IBD) affecting adults. It is a life-long disease characterized by chronic and relapsing inflammation of the gastrointestinal tract. CD has multiple clinical phenotypes and disease severities that determine which therapy the study team utilizes. Currently, there are numerous treatment options for subjects with moderate-severe CD, but few that are approved to treat and maintain remission for the one-third of patients who present",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants must fulfill all of the following criteria to be eligible for inclusion in the study:\n\n* Male and female subjects with Crohn's disease (CD), 18-60 years of age and otherwise in good health as determined by medical history and physical examination\n* Subjects weighing",
+      "endpoints": [
+        "Number of grades of adverse events"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT03992469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02772965",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Multi-Center Pragmatic Clinical Trial To Evaluate The Effectiveness Of Low Dose Oral Methotrexate In Patients With Pediatric Crohn's Disease Initiating Anti-TNF Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-10",
+      "completion_date": "2022-04-07",
+      "country": "United States",
+      "enrollment": 306,
+      "brief_summary": "The purpose of this study is to determine whether adding low dose methotrexate to anti -TNF therapy is more effective than treatment with anti-TNF therapy alone in inducing and maintaining steroid-free remission for children with Crohn's Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric Crohn's Disease (PCD) patients, \\< 21 years of age, ≥20 kg, initiating anti-TNF therapy with infliximab or adalimumab (including biosimilars).\n* Diagnosis of Crohn's Disease (CD) established confirmed by the treating clinician, and established by standard clinical cr",
+      "endpoints": [
+        "Percent of Participants Experiencing Treatment Failure"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT02772965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05542355",
+      "title": "A Phase 1, Multicentre, 2-Part, Randomised, Parallel-arm, Placebo-controlled, Partially Double-blind Study to Evaluate the Safety and Target Engagement of EXL01 in the Maintenance of Steroid-induced Clinical Response or Remission in Participants With Mild to Moderate Crohn's Disease",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2023-03-20",
+      "completion_date": "2024-10-02",
+      "country": "Belgium, Poland",
+      "enrollment": 8,
+      "brief_summary": "A Phase 1, 2-part, multicentre study to evaluate the safety and preliminary efficacy of the oral administration of EXL01 in the maintenance of corticosteroid-induced clinical response/remission in participants with mild to moderate Crohn's Disease (CD).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\nMust meet all of the following criteria at the start of the Induction Period:\n\n* Male or female aged ≥18 years and \\<75 years at the time of providing informed consent.\n* A diagnosis of CD with ileal involvement for at least 3 months prior to Screening.\n* A CDAI score \\>180 ",
+      "endpoints": [
+        "The systemic and intestinal safety and tolerability of orally administered EXL01"
+      ],
+      "sponsor": "Exeliom Biosciences",
+      "url": "https://clinicaltrials.gov/study/NCT05542355"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06719622",
+      "title": "Evaluation of the Efficacy of Local Budesonide Treatment in Children with Crohn's Disease Located in the Esophagus And/or Stomach And/or Duodenum",
+      "phase": "PHASE2, PHASE3",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-07-30",
+      "completion_date": "2027-12-31",
+      "country": "Poland",
+      "enrollment": 114,
+      "brief_summary": "Crohn's disease (CD) is an inflammatory bowel disease characterized by chronic symptoms that include periods of exacerbation and remission. The exact cause of CD is not fully understood, but it is believed to result from a combination of genetic predispositions, immunological disorders, and environmental factors. The incidence of CD is on the rise, particularly among children, with estimates suggesting that it affects 1 in 500 people in Western Europe and North America. Notably, one in four pati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CD diagnosed according to the commonly accepted Porto criteria, which take into account clinical, endoscopic and histopathological criteria;\n* inflammatory changes in the esophagus and/or stomach and/or duodenum found in the endoscopic examination (assessed by 2 independent en",
+      "endpoints": [
+        "Effectiveness"
+      ],
+      "sponsor": "Medical University of Warsaw",
+      "url": "https://clinicaltrials.gov/study/NCT06719622"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06750731",
+      "title": "Real World Study of Efficacy and Adherence to Subcutaneous vs. Intravenous Vedolizumab in Patients With Inflammatory Bowel Disease Using a Novel Remote MONITORing Intervention (MONITOR Study)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-05-05",
+      "completion_date": "2026-09-30",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The goal of this observational study is to assess the feasibility and effectiveness of a remote monitoring digital health system on adherence, clinical outcomes, and healthcare utilization in patients with inflammatory bowel disease (Crohn's disease, ulcerative colitis, and inflammatory bowel disease type undetermined) initiating therapy with vedolizumab (Entvyio). The main questions it aims to answer are:\n\n1. Assess and compare adherence to intravenous (IV) and subcutaneous vedolizumab maintena",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. At least 18 years of age or older\n2. Have documented IBD based on usual diagnostic criteria including clinical symptoms and findings from endoscopy, radiology studies, and histology\n3. Initiating treatment with vedolizumab\n4. Have access to a mobile smartphone (iPhone 7 or la",
+      "endpoints": [
+        "Medication Adherence",
+        "Self Reported Medication Adherence"
+      ],
+      "sponsor": "Mercy Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06750731"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00672763",
+      "title": "The Immunomodulatory Role of Vitamin D in Inflammatory Bowel Disease (The IBDVit Study): Double-Blind, Placebo-Controlled Trial of Adjuvant Vitamin D (Colecalciferol) With Corticosteroids in Active Crohn's Disease",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2008-05",
+      "completion_date": "2010-05",
+      "country": "United Kingdom",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to determine whether the addition of vitamin D to standard corticosteroids improves onset of remission in active Crohn's Disease, a form of Inflammatory Bowel Disease (IBD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Active Crohn's Disease Activity (CDAI) Score \\>200 to 450;\n2. Diagnosis of IBD and distribution of disease previously confirmed\n3. The participant able to give informed consent form;\n4. Stable doses of the following concurrent IBD medications prior to inclusion:\n\n   * 5-amino",
+      "endpoints": [
+        "Clinical Remission (CDAI score <150)"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT00672763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02619552",
+      "title": "Impact of Medical Treatment on Sexual Function in Patients With Crohn's Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2019-07-01",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "Crohn's disease is a chronic inflammatory condition of the intestines that causes abdominal pain, diarrhea, tunnels around the anus (fistulas), and extraintestinal symptoms. Effective medical treatments exist to treat the disease; however they can have significant side effects.\n\nPrevious studies have shown that sexual function is impaired in patients with Crohn's disease. It is likely that both the symptoms related to the disease, medications used to treat the disease, and surgery all impair sex",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Crohn's disease confirmed by standard criteria\n* Active luminal Crohn's disease defined by an HBI score of \\>4 or with draining perianal Crohn's disease a) Active perianal Crohn's disease defined a presence of draining perianal fistula on physical exam19\n* Patient",
+      "endpoints": [
+        "Assessment of Sexual Function",
+        "Assessment of Disease Activity",
+        "Assessment of Quality of Life"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT02619552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01783106",
+      "title": "A Pilot Randomised Study to Compare Combination Antibiotic Therapy (Ciprofloxacin, Doxycycline and Hydroxychloroquine) With Standard Therapy (Budesonide) in the Treatment of Active Crohn's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-02-01",
+      "completion_date": "2019-09-30",
+      "country": "United Kingdom",
+      "enrollment": 59,
+      "brief_summary": "There is growing evidence that Crohn's disease may be caused by replication of bacteria, perhaps particularly E. coli, within macrophages (a specialized sort of white blood cell). Laboratory studies show that a combination of antibiotics that can penetrate macrophages (such as ciprofloxacin and doxycycline) together with the anti-malarial drug hydroxychloroquine (which makes the contents of macrophage vesicles more alkaline and helps them to kill intracellular bacteria) is particularly effective",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is willing to participate in the study and has signed the informed consent\n* Patients aged 18 or over with Crohn's disease diagnosed by conventional clinical, radiological and histological criteria.\n* Crohn's disease involving small bowel, colon or both.\n* Active Crohn",
+      "endpoints": [
+        "• Remission, defined as Crohn's Disease activity index (CDAI) <150 at 10 weeks without addition of any other medication or treatment for the Crohn's Disease.",
+        "• Remission, defined as CDAI ≤150 maintained through to 24 weeks",
+        "• Remission, defined as CDAI ≤150 maintained through to 52 weeks"
+      ],
+      "sponsor": "Royal Liverpool University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01783106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05705856",
+      "title": "Effectiveness and Safety of Ustekinumab Intensification in Crohn's Disease: a Retrospective Observational Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-02-15",
+      "completion_date": "2024-06-01",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "The primary purpose of this study is to evaluate the efficacy and safety of intravenous administration at regular intervals of Ustekinumab in participants with loss of response to standard regimen or have evidence of high activity clinically, biochemically or endoscopically.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study\n* With active Crohn's disease\n* Undergoing Ustekinumab dose intensification with at least two or more intravenous infusions at the discretion of the treating physician\n* HBI ≥ 5 before Ustekinumab therapy\n* Over 18 years of age\n\nExclusion Crit",
+      "endpoints": [
+        "Percentage of participants with steroid-free clinical remission at Week 24"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT05705856"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05813860",
+      "title": "Preemptive HLADQA1*05 Genotyping for the Use of Infliximab in Chinese Crohn's Disease：A Multicenter, Prospective, Controlled, Randomized Study",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2023-04-30",
+      "completion_date": "2026-10-31",
+      "country": "N/A",
+      "enrollment": 976,
+      "brief_summary": "Crohn's disease (CD) is a chronic non-specific inflammatory disease of the intestine. Infliximab (IFX) is a kind of one of the anti-tumor necrosis factor agents (anti-TNF) and is the main clinical treatment drug for Crohn's disease, but approximately 30-50% of patients develop a secondary non-response to respond within one year. The main cause of secondary non-response failure is the formation of anti-IFX anti-drug antibodies (ADA). The human leukocyte antigen (HLA) gene is a complex allele that",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with Crohn's disease who meet the diagnostic criteria of the Consensus Opinion on the Diagnosis and Treatment of Inflammatory Bowel Disease (Beijing, 2018)\n* Meet the indications for IFX use\n* CDAI score of 220-450; age≥18 years, regardless of gender\n* Participant",
+      "endpoints": [
+        "Clinical remission without corticosteroid use at 102 weeks"
+      ],
+      "sponsor": "Sixth Affiliated Hospital, Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05813860"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00554710",
+      "title": "The Ideal Management of Crohn's Disease: Top Down Versus Step Up Strategies. A Prospective Controlled Trial in the Benelux",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "2004-01",
+      "country": "Belgium",
+      "enrollment": 129,
+      "brief_summary": "The study prospectively compares two treatment algorithms for newly diagnosed Crohn's disease: one 'aggressive' treatment with early introduction of immunomodulators and biologicals and one 'standard treatment' with corticosteroids and only later introduction of immunosuppressives and biologicals if disease activity requires that.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 16 - 75 years\n* diagnosis of Crohn's disease within the past 4 years\n* no previous treatment with corticosteroids, antimetabolites, or biologic agents.\n* Active Crohn's disease, defined by a Crohn's Disease Activity Index (CDAI)20 score of greater than 200 points for a min",
+      "endpoints": [
+        "remission without corticosteroids and without surgical resection"
+      ],
+      "sponsor": "Belgian Inflammatory Bowel Disease Research and Development (BIRD) VZW",
+      "url": "https://clinicaltrials.gov/study/NCT00554710"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00300118",
+      "title": "Double-blind, Double-dummy, Randomized, Multicentre Study to Compare the Efficacy and Safety of Oral Budesonide (9 mg) and Oral Mesalazine (4.5 g) in Moderately Active Crohn's Disease Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2008-05",
+      "country": "Germany",
+      "enrollment": 311,
+      "brief_summary": "The purpose of this study is to determine whether mesalazine or budesonide is more active in the treatment of active Crohn's disease.",
+      "eligibility_criteria": "Inclusion Criteria (main):\n\n* Symptoms of Crohn's disease since at least 3 months; diagnosis confirmed by endoscopic and histological, or endoscopic and radiological criteria \\[endoscopy not older than 12 months or if older, then clinical signs (e.g. pain localization, pain intensity, blood in stool",
+      "endpoints": [
+        "Rate of remission"
+      ],
+      "sponsor": "Dr. Falk Pharma GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT00300118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02367326",
+      "title": "Identification of Composite Clinical and Lab Scores Associated With a Favorable Clinical Response With Thiopurines in Patients With IBD (Inflammatory Bowel Disease): an International Clinical Trial",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2017-08",
+      "country": "France",
+      "enrollment": 400,
+      "brief_summary": "Inflammatory bowel disease (IBD) groups together Crohn's Disease (CD) and ulcerative colitis (UC). Its prevalence is high representing approximately 0.4% of the population. The peak incidence for these diseases ranges between 2 and 30 years of age with a second peak for CD recently reported at 60. These diseases develop over time into complications requiring in 2/3 of cases surgical resection procedures in CD and colectomy in over 20% of cases. Cohort data has recently shown that the early use o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients affiliated with or beneficiaries of a national health insurance scheme\n* Male our female over 18 years of age and under 70 having given his/her informed consent to participate in this trial.\n* Any patients with Crohn's Disease or Ulcerative Colitis meeting clini",
+      "endpoints": [
+        "number of patient with therapeutic failure on thiopurines"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Saint Etienne",
+      "url": "https://clinicaltrials.gov/study/NCT02367326"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04233463",
+      "title": "The Effect of Oral Polymeric Diet Enriched With TGF-beta 2 (Modulen) on Clinical Response and Mucosal Healing in Adult Patients With Newly Diagnosed Crohn's Disease: a Prospective, Randomized Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-01",
+      "completion_date": "2021-06",
+      "country": "Israel",
+      "enrollment": 50,
+      "brief_summary": "The aim of this study is to evaluate prospectively a possible effect of an oral polymeric diet enriched with TGF-beta 2 (Modulen) as compared to Budesonide (one of the commonly accepted treatments for Crohn's disease) on clinical response, mucosal healing and intestinal microbiota in adult patients with newly diagnosed Crohn's disease using a capsule endoscopy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed Crohn's Disease\n* Mild to moderate severity\n\nExclusion Criteria:\n\n* Patients who received systemic steroid or Budesonide or biological treatment\n* Recent bowel surgery\n* Colostomy, ileostomy\n* Short bowel syndrome\n* Obstructive symptoms\n* Pregnancy, lactation\n*",
+      "endpoints": [
+        "Efficacy of Modulen Diet"
+      ],
+      "sponsor": "Hillel Yaffe Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04233463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00094458",
+      "title": "Multicenter, Randomized, Double-Blind, Active Controlled Trial Comparing REMICADE� (Infliximab) and REMICADE Plus Azathioprine to Azathioprine in the Treatment of Patients With Crohn's Disease Naive to Both Immunomodulators and Biologic Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2009-12",
+      "country": "Israel, France, Spain, Norway, Sweden, Greece, Austria, Denmark, Germany, United Kingdom, Netherlands, Portugal, Canada, Belgium, United States",
+      "enrollment": 508,
+      "brief_summary": "The purpose of this study is to assess the safety and effectiveness of three different treatments for patients with Crohns disease who have not responded to previous treatment with a group of drugs commonly used to treat Crohn's Disease (5-ASA) and corticosteroids. Patients will receive either infliximab (a drug used to treat autoimmune diseases) or azathioprine (an immunosuppressant or drug used to suppress the immune system) or a combination of both for up to 34 weeks. This research study will",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Crohns Disease for at least 6 weeks\n* Moderate to severe disease activity (CDAI \\>= 220 and \\<=450)\n* No history of azathioprine, 6-MP (6 Mercaptopurine), or biologic treatments\n* Are either: Corticosteriod-dependent, OR considered for a 2nd (or greater) course of",
+      "endpoints": [
+        "Percentage of Participants With Corticosteriod-free Clinical Remission"
+      ],
+      "sponsor": "Centocor Ortho Biotech Services, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00094458"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00109473",
+      "title": "A Phase II Randomized Trial of Growth Hormone Therapy in Pediatric Crohn's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "The purpose of this study is to determine whether taking a growth hormone (GH) drug called somatropin causes the intestine of a person with Crohn's Disease (CD) to heal faster when compared to a person with Crohn's Disease that does not receive growth hormone drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to provide written informed consent\n* Age ≥ 5 years.\n* Diagnosis of Crohn's disease (CD) with ileo-colonic involvement as determined by standard clinical, radiological, and pathological criteria.\n* Moderate to severely active CD as defined by a PCDAI (Pediatric Crohn's",
+      "endpoints": [
+        "Crohn's Disease Histologic Index of Severity (CDHIS)"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00109473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05660746",
+      "title": "Precise Infliximab Exposure and Pharmacodynamic Control to Achieve Deep Remission in Pediatric Crohn's Disease",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-07-01",
+      "completion_date": "2027-03-31",
+      "country": "United States",
+      "enrollment": 180,
+      "brief_summary": "Approximately 3 million people in the United States are living with inflammatory bowel disease, which includes Crohn's Disease (CD). There are limited treatment options approved for use in children and adults with Crohn's disease. Physicians need better ways to inform decisions on treatment.\n\nThe main reason for this research study is to determine if a computer program that calculates an individualized dose based on a patient's blood testing results (precision dosing) can better achieve the best",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent from the patient (≥18 years old) or from parent/legal guardian if patient is \\<18 years old\n2. Written informed assent from patient when age appropriate\n3. Diagnosis of Crohn's disease within the last 90 days (luminal-only or luminal with a perianal f",
+      "endpoints": [
+        "Rate of Deep Remission"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT05660746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00367705",
+      "title": "Double-blind Placebo Controlled Trial of VSL#3 in Children With Crohn's Disease",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-08",
+      "completion_date": "2010-12",
+      "country": "Israel",
+      "enrollment": 300,
+      "brief_summary": "Crohn's disease (CD) in childhood is a chronic relapsing and remitting condition that has a significant impact on growth and development. The disease is characterized by an increased and unregulated immune response. The main therapy over the last 30 years has been corticosteroids leading to remission in 50-80% of patients within 2-4 weeks. However, the use of steroids in children is limited by side-effects including acne, moon-face, hirsutism, hypertension, metabolic disturbances and above all r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children aged 6 - 18 years\n2. Previous diagnosis of Crohn's disease or newly diagnosed with symptoms for at least three months before recruitment to the study.The diagnosis of CD is established by:\n\n   1. history and symptoms of the disease\n   2. endoscopy/histology or radiol",
+      "endpoints": [
+        "remission"
+      ],
+      "sponsor": "Hadassah Medical Organization",
+      "url": "https://clinicaltrials.gov/study/NCT00367705"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01444092",
+      "title": "A Multicenter, Open Label, Non-comparative Study to Evaluate the Safety of Entocort EC for the Treatment of Crohn's Disease in Paediatric Subjects Aged 5 to 17 Years, Inclusive",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-09",
+      "country": "Italy, Germany, Canada, Poland, United States",
+      "enrollment": 123,
+      "brief_summary": "A Safety Study using Entocort EC for children with mild to moderate Crohn's Disease",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All male and female subjects must be aged 5 to 17, inclusive, and must not have reached their 18th birthday by the estimated final office visit.\n* Subject must be diagnosed with active Crohn's disease of the ileum and/or ascending colon confirmed by endoscopic and/or radiograp",
+      "endpoints": [
+        "Adverse Event"
+      ],
+      "sponsor": "Padagis LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01444092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04397263",
+      "title": "A Phase 3, Open-label, Multicenter Study to Evaluate the Safety and Efficacy of Guselkumab in Participants With Moderately to Severely Active Crohn's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-06-10",
+      "completion_date": "2025-09-12",
+      "country": "Japan",
+      "enrollment": 38,
+      "brief_summary": "The purpose of this study is to evaluate the safety of Guselkumab in participants with Crohn's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have Crohn's Disease (CD) or fistulizing CD of at least 3 months duration (defined as a minimum of 12 weeks), with colitis, ileitis, or ileocolitis, confirmed at any time in the past by radiography, histology, and/or endoscopy\n* Have moderate to severe CD as assessed by CDAI c",
+      "endpoints": [
+        "Number of Participants With Treatment-emergent Adverse Events (TEAEs)",
+        "Number of Participants With Treatment-emergent Serious Adverse Events (TESAEs)",
+        "Number of Participants With Treatment-emergent Adverse Events of Special Interest (TEAESI)"
+      ],
+      "sponsor": "Janssen Pharmaceutical K.K.",
+      "url": "https://clinicaltrials.gov/study/NCT04397263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06841406",
+      "title": "Budesonide as a Treatment for Low-grade Duodenal Inflammation in Functional Dyspepsia",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-05-01",
+      "completion_date": "2026-12-31",
+      "country": "Belgium",
+      "enrollment": 56,
+      "brief_summary": "This clinical study is being conducted to evaluate the investigational drug, Budesonide, for the treatment of functional dyspepsia. The goal of this study is to learn more about the effect of Budesonide on patients with functional dyspepsia. Budesonide is a well-known and commonly used drug, and is part of the recommended therapy for patients with inflammatory bowel diseases (Crohn's disease or ulcerative colitis). It is also used as inhalation therapy for respiratory conditions such as asthma a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with Functional dyspepsia (subtype postprandial distress syndrome) as per Rome IV diagnostic criteria\n\n   * Symptom characteristics of dyspepsia (upper gastrointestinal symptoms occurring in the last 3 months and meal related)\n   * Negative endoscopy (maximum 12 mont",
+      "endpoints": [
+        "Effect of Budesonide on the reduction of the number of eosinophils on duodenal biopsies in patients with functional dyspepsia"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT06841406"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04921033",
+      "title": "Exclusive Enteral Nutrition in Patients With Ileocaecal Crohn's Disease (XENIC): an Open-label, Multicenter, Prospective, Randomized Clinical Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-03-01",
+      "completion_date": "2026-01-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 256,
+      "brief_summary": "Inflammatory bowel diseases are chronic and progressive entities, triggered by exposure to environmental factors in individuals with a genetic background.\n\nOne of the most common environmental factors is the type of diet which is a key influencer on pathogenesis. Nutrients alter the intestinal microbiota, thus changing the intestinal permeability. The Western-type diet encompasses sugar, fat, and protein-rich products that have some deleterious effects on the intestinal microbiome compared to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects, aged between 18-75 years with a diagnosis of ileocolonic Crohn's disease (CD) confirmed using endoscopy and/or imaging technology at most 3 months prior.\n* Participant or his/her legal representative have voluntarily signed and dated an informed conse",
+      "endpoints": [
+        "Percentage of participants with mucosal healing",
+        "Percentage of patients that tolerate the EEN by week 12"
+      ],
+      "sponsor": "Duzce University",
+      "url": "https://clinicaltrials.gov/study/NCT04921033"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01086553",
+      "title": "Double-blind, Double-dummy, Randomised, Comparative, Multi-centre Phase III Study on the Efficacy and Tolerability of an 8-week Oral Treatment With 9 mg Budesonide Once Daily vs. 3 mg Budesonide Three-times Daily in Patients With Active Crohn's Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2012-12",
+      "country": "Germany",
+      "enrollment": 471,
+      "brief_summary": "This study aims to evaluate the efficacy of 9 mg budesonide once daily (OD) versus 3 mg budesonide three-times daily (TID) for the induction of remission in Crohn's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent,\n* Age 18 to 75 years,\n* Symptoms of Crohn's disease since at least 3 months; diagnosis confirmed by endoscopic and histological, or endoscopic and radiological criteria \\[endoscopy not older than 12 months or if older, then clinical signs (e.g., pain l",
+      "endpoints": [
+        "Rate of clinical remission, defined as a CDAI < 150, at week 8 (LOCF)"
+      ],
+      "sponsor": "Dr. Falk Pharma GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01086553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05414578",
+      "title": "The Nordic IBD Study Within Personalized Medicine - Diagnosing and Prediction Using Molecular Characterization of Inflammatory Bowel Disease: the NORDTREAT Prospective Cohort Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-02-07",
+      "completion_date": "2031-01",
+      "country": "Norway, Denmark, Iceland, Sweden",
+      "enrollment": 800,
+      "brief_summary": "Inflammatory bowel disease (IBD), primarily ulcerative colitis (UC) and Crohn's disease (CD), is a chronic disease entity affecting individuals of all ages, and which may severely impact the lives of the patients and their families as well as society. Individuals with IBD may have to live with relapsing symptoms, such as diarrhea, abdominal pain, and fatigue. Further, a substantial proportion of patients develop serious complications such as bowel obstruction and fistula, and some develop compli",
+      "eligibility_criteria": "To be included in the study, the participants must meet the following criteria:\n\nInclusion Criteria:\n\n* Referred on the suspicion of inflammatory bowel disease\n* Adult (+18 years of age)\n* Written informed consent to participate in the study\n\nExclusion Criteria:\n\n* A previous known diagnosis of Croh",
+      "endpoints": [
+        "Improving the accuracy to diagnose IBD",
+        "Improving the accuracy to define prognosis of IBD"
+      ],
+      "sponsor": "University of Southern Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT05414578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01453946",
+      "title": "A Multicenter, Open Label, Non-comparative Study to Evaluate the Safety of Entocort EC as a Maintenance Treatment for Crohn's Disease in Paediatric Subjects Aged 5 to 17 Years, Inclusive",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2014-02",
+      "country": "Italy, Germany, Canada, Poland, United States",
+      "enrollment": 55,
+      "brief_summary": "A Safety for Maintenance of Entocort EC for children with mild to moderate Crohn's Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All male and female subjects must be aged 5 to 17, inclusive, and must not have reached their 18th birthday by the estimated final office visit.\n* All subjects must weight \\>= 15 kg at the time of enrollment.\n* Subjects must have been diagnosed and treated for active Crohn's d",
+      "endpoints": [
+        "Adverse Event"
+      ],
+      "sponsor": "Padagis LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01453946"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00113503",
+      "title": "A Multi-site Trial of Azathioprine Dosing in Crohn's Disease",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2005-07",
+      "completion_date": "2007-12",
+      "country": "Canada, United States",
+      "enrollment": 50,
+      "brief_summary": "This study will compare two different dosing methods of azathioprine (IMURAN) in participants with Crohn's disease who are currently taking steroids (e.g. prednisone or budesonide)or who have just started steroids. The study can be up to 54 weeks long. All participants enrolled will receive active drug. Participants will take doses either based upon weight or based on the patient's ability to breakdown the drug (monitored by 6-thioguanine nucleotides (6-TGN) metabolite levels in the blood). All ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 10-70 years-old., Weigh 20-100 kg (44-220 lbs).\n* CD of the ileum, colon or ileocolon, verified by colonoscopy, barium enema, or small bowel series performed within 36 months\n* Perianal fistulae will be eligible provided that the perianal disease does not account for the prepo",
+      "endpoints": [
+        "Proportion of subjects achieving clinical remission at week #16."
+      ],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "url": "https://clinicaltrials.gov/study/NCT00113503"
+    }
+  ],
+  "timestamp": "2026-03-04T15:09:52.731377",
+  "success": true,
+  "error_message": null
+}

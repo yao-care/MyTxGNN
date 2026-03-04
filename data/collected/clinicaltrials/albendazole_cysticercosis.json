@@ -1,0 +1,208 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Albendazole",
+    "disease": "cysticercosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03950037",
+      "title": "An Open-label Non-randomized Phase IIa Trial to Evaluate Safety of Early Intervention in Asymptomatic Subarachnoid Neurocysticercosis",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2022-01-01",
+      "completion_date": "2023-04",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Subarachnoid neurocysticercosis (SANCC) is a severe infection of the brain by the tapeworm Taenia solium. People who have this infection are usually diagnosed late in the disease process leading to very poor prognosis. This trial studies the safety of early medical intervention in people who have SANCC but do not have symptoms. The trial will enroll 18 participants in Peru.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female individuals older than two years with a diagnosis of asymptomatic SANCC confirmed by MRI.\n* SANCC limited to the basal cisterns, the interhemispheric brain space, brain fissures or spine.\n* Baseline laboratory results within acceptable ranges (specifically defin",
+      "endpoints": [
+        "Safety; severe adverse events"
+      ],
+      "sponsor": "Oregon Health and Science University",
+      "url": "https://clinicaltrials.gov/study/NCT03950037"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02947581",
+      "title": "A Randomized Trial of Combined Albendazole Plus Praziquantel for Subarachnoid Cysticercosis of the Sylvian Fissure or the Basal Cisterns",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2016-11-14",
+      "completion_date": "2021-02-27",
+      "country": "Peru",
+      "enrollment": 107,
+      "brief_summary": "Taenia solium neurocysticercosis (NCC) is a parasitic infection causing much neurological disease in most of the world. When parasites locate in the cavities around the brain (subarachnoid NCC, SANCC), it becomes an aggressive, progressive and frequently lethal presentation. Current treatment regimens for SANCC have quite limited efficacy. The investigators propose to compare the current standard of care (a single antiparasitic drug, albendazole) with a combined regimen using two antiparasitic d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Male or female adult individuals (18 to 65 y.o.) with a diagnosis of basal subarachnoid cysticercosis (including locations in the Sylvian fissure or lower interhemispheric spaces) by neuroimaging and confirmed by serology.\n* Baseline laboratory results along acceptable rang",
+      "endpoints": [
+        "Radiological efficacy at three months (3-month improvement)."
+      ],
+      "sponsor": "Universidad Peruana Cayetano Heredia",
+      "url": "https://clinicaltrials.gov/study/NCT02947581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06376396",
+      "title": "Assessment of Combined Antiparasitic Drugs Praziquantel and Albendazole Versus Albendazole Alone in the Treatment of Active Parenchymal Neurocysticercosis in Tanzania and Zambia",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-06",
+      "completion_date": "2026-12",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "The goal of this clinical trial is to compare the combination albendazole and praziquantel versus albendazole alone in patients affected by neurocysticercosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Living in the study area for a continuous period of 3 years\n* Adult aged 18 years and above\n* Are willing and able to consent to this study\n* Meet the definitions of active symptomatic NCC\n* Have late onset of epilepsy or history of seizures, epileptic seizures\n* Subjects will",
+      "endpoints": [
+        "Cyst resolution or reduction in both study arms"
+      ],
+      "sponsor": "R-Evolution Worldwide S.r.l. Impresa Sociale",
+      "url": "https://clinicaltrials.gov/study/NCT06376396"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00133458",
+      "title": "Randomized, Double Blind Comparison of Two Lenghts of Albendazole Therapy for Subarachnoid Cysticercosis",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2007-06",
+      "country": "Colombia, Ecuador, Brazil, Peru",
+      "enrollment": 0,
+      "brief_summary": "This study will enroll 120 individuals diagnosed with subarachnoid cysticercosis, a disease caused by the invasion of the basal part of your brain by a parasite named Taenia solium. Subarachnoid cysticercosis is usually treated with albendazole for one month to kill the parasite. This study will determine if two months of albendazole (ABZ) therapy is better than one-month. The study will last 3 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female individuals between 18-65 year of age with a diagnosis of basal subarachnoid cysticercosis, based on MRI and confirmed by serological test.\n* Willingness to accomplish the two weeks minimal hospitalization required.\n* Female of child-bearing potential willing to",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00133458"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00441285",
+      "title": "Antiparasitic Therapy for Neurocysticercosis: Phase II/III Study on Safety and Efficacy of Combined Treatment With Praziquantel and Albendazole",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2013-09",
+      "country": "Peru",
+      "enrollment": 156,
+      "brief_summary": "The purpose of this study is to determine if combination drug therapy of praziquantel and albendazole is safe and effective to cure neurocysticercosis.",
+      "eligibility_criteria": "For parent study:\n\nInclusion Criteria:\n\n* Male or female individuals between 16 to 65 years of age, with a diagnosis of Neurocysticercosis and 20 or less viable cysts.\n* Patients with a diagnosis of epilepsy secondary to Neurocysticercosis and a history of one or more spontaneous seizures within the",
+      "endpoints": [
+        "PK Substudy - Area Under the Curve of Albendazole in Treatment in Day 1",
+        "PK Substudy - Area Under the Curve of Albendazole in Treatment Days 10 and 11",
+        "PK Substudy - Maximum Concentration of Albendazole"
+      ],
+      "sponsor": "Universidad Peruana Cayetano Heredia",
+      "url": "https://clinicaltrials.gov/study/NCT00441285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00290823",
+      "title": "Treatment of Intraparenchymal Neurocysticercosis: Effect of Increased Dosing of Corticosteroids on Seizure Frequency",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2011-03",
+      "country": "Peru",
+      "enrollment": 110,
+      "brief_summary": "The purpose of this study is to determine whether a short course of increased corticosteroid dosing with tapered dosing decreases seizure frequency as compared to standard corticosteroid dosing in patients with neurocysticercosis (NCC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with intraparenchymal NCC with 20 or fewer active cysts, as confirmed by enzyme-linked immunoelectrotransfer blot (EITB)\n* Diagnosed with epilepsy secondary to NCC, with history of one or more spontaneous seizures within the 6 months prior to study entry\n* Willingnes",
+      "endpoints": [
+        "Cumulative frequency of partial, generalized, and total seizures"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00290823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001205",
+      "title": "Natural History of Treated Neurocysticercosis and Long-Term Outcomes",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "1985-10-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "Neurocysticercosis is a brain disease due to the larval stage of the pork tapeworm (Taenia solium). The most common symptoms patient experience from infection inside the substance of the brain (parenchymal disease) are seizures and headaches. When the infection is either inside the fluid pockets inside the brain (ventricular disease) or in the space around the brain (subarachnoid disease) patients can have chronic headaches, relapsing aseptic meningitis, hydrocephalus, stroke, and may require ne",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nArms 1-5 (NCC):\n\n1. Aged 3 years and older.\n2. Ability of participant (or legally authorized representative, LAR) to understand and the willingness to sign a written informed consent document.\n3. Patients with proven or likely NCC\n\nArm 6 (Endemic Exposures):\n\n1. Patient with e",
+      "endpoints": [
+        "The primary objective is to characterize the biochemical and clinical course of neurocysticercosis (NCC) during and after treatment with long-term follow-up."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001205"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00283699",
+      "title": "A Pilot Study of Neurocysticercosis Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02",
+      "completion_date": "2005-02",
+      "country": "Ecuador",
+      "enrollment": 178,
+      "brief_summary": "The purpose of this study is to determine if treatment with albendazole improves the clinical outcome of neurocysticercosis infection and/or leads to the disappearance of cysts sooner when compared with symptomatic treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients presenting with new onset of symptoms associated with neurocysticercosis within two months of identification and have active and/or transitional neurocysticercosis cysts on computed tomography (CT) or magnetic resonance imaging (MRI)\n\nExclusion Criteria:\n\n* Patients w",
+      "endpoints": [
+        "Cyst freedom"
+      ],
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "url": "https://clinicaltrials.gov/study/NCT00283699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06565507",
+      "title": "A Double-blind Multicenter, Randomized Controlled Trial of Single and Multiple Dose Regimens of Oxfendazole for Mild (One or Two Lesions) Parenchymal Brain Cysticercosis, With an Open Comparison Group",
+      "phase": "PHASE2, PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-12-15",
+      "completion_date": "2028-12-30",
+      "country": "N/A",
+      "enrollment": 544,
+      "brief_summary": "The goal of this clinical trial is to compare a single and multiple dose regimens of oxfendazole with the standard treatment in patients with mild (one or two lesions) parenchymal brain cisticercosis. The main question it aims to answer is if OXF will enhance clearance of brain parasites and therefore provide greater cysticidal efficacy, with the potential to provide a single-dose therapy for this type of NCC.\n\nThe study cohort will also allow us to identify early imaging markers that predict le",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female individuals between 12 and 75 years of age, with suspected viable or degenerating intraparenchymal brain cysticercosis on neuroimaging (CT or MRI) and fulfill the diagnostic criteria for solitary cysticercus granuloma (Rajshekhar and Chandy, 1997)\n2. If female ",
+      "endpoints": [
+        "Efficacy: completely resolution or persistance only as small lesion remnants."
+      ],
+      "sponsor": "Universidad Peruana Cayetano Heredia",
+      "url": "https://clinicaltrials.gov/study/NCT06565507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02243644",
+      "title": "A Clinical Trial to Study the Effects of Two Different Duration of Same Drug Albendazole in Patients With Neurocysticercosis in Brain ≤ 5 Lesions on CT Scan Head at the End of 6 Months",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2015-10",
+      "country": "India",
+      "enrollment": 97,
+      "brief_summary": "Comparing the effect of two different duration of same drug albendazole in patients with Neurocysticercosis less than or equal to 5 lesions on CT head at the end of 6 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 2-18 years.\n* Number of parenchymal lesions: upto 5\\*\n* Stages of cysticerci at which albendazole treatment is effective\n* Vesicular stage\n* Colloid vesicular stage\n* Granular nodular stage\n\nExclusion Criteria:\n\n* Cysticercotic encephalitis\n* Calcified cyst\n* Hydrocephalus",
+      "endpoints": [
+        "Number of cyst resolved/ calcified completely after therapy. Resolution or calcification of cyst assessed on CT head at the end of 6 months after starting albendazole"
+      ],
+      "sponsor": "All India Institute of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02243644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004403",
+      "title": "Randomized Study of Albendazole in Patients With Epilepsy Due to Neurocysticercosis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-05",
+      "completion_date": "2002-03",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "OBJECTIVES: I. Determine the effect of antiparasitic treatment with albendazole on the severity and duration of epilepsy due to neurocysticercosis.\n\nII. Determine the effect of a short course of albendazole on Taenia solium cysts present in the brain.\n\nIII. Determine the natural regression of cerebral T. solium cysts in patients given placebo and their response to treatment at the end of the study.",
+      "eligibility_criteria": "PROTOCOL ENTRY CRITERIA:\n\n--Disease Characteristics--\n\n* Presence of Taenia solium infection as demonstrated by serology and head CT Head CT showing no more than 20 cysts\n* At least 2 spontaneous seizures within the last 6 months excluding: Absence seizures Rolandic seizures Bilateral spike wave pat",
+      "endpoints": [],
+      "sponsor": "FDA Office of Orphan Products Development",
+      "url": "https://clinicaltrials.gov/study/NCT00004403"
+    }
+  ],
+  "timestamp": "2026-03-04T16:42:05.898373",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,899 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lamivudine",
+    "disease": "HIV infectious disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00033163",
+      "title": "A Randomized, Phase II, Controlled Trial Comparing the Efficacy of Adefovir Dipivoxil and Tenofovir Disoproxil Fumarate for the Treatment of Lamivudine-Resistant Hepatitis B Virus in Subjects Who Are Co-Infected With HIV",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2005-05",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "Control of hepatitis B virus (HBV) infection can be difficult in HIV infected people who have taken the antiviral lamivudine (3TC). These people may have HBV that has become resistant to 3TC. Adefovir dipivoxil (ADV) has shown promising anti-HBV activity in clinical trials; tenofovir disoproxil fumarate (TDF) is used to treat HIV and may also be effective against HBV. The purpose of this study is to find out if adding ADV or TDF to a highly active antiretroviral therapy (HAART) regimen that incl",
+      "eligibility_criteria": "Inclusion Criteria for All Participants:\n\n* HIV infected\n* HBV infected\n* Serum HBV DNA of 100,000 copies/ml or greater\n* Positive for serum hepatitis B surface antigen (HBsAg) within 12 weeks prior to study entry\n* Agree to use acceptable methods of contraception\n* Serum alpha-fetoprotein (AFP) of ",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00033163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000865",
+      "title": "A Phase I Safety and Pharmacokinetic Study of 1592U89 Alone and In Combination With Other Antiretroviral Agents in Infants and Children With HIV Infection",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1998-04",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "To assess the steady state pharmacokinetic features, tolerance, and safety of orally administered 1592U89, given alone or in combination with other antiretroviral medications, in HIV infected infants and children. To establish doses of 1592U89 appropriate for future pediatric Phase II/III clinical trials.\n\nOn the basis of the preclinical and clinical studies, 1592U89 appears to be a promising agent for treatment of HIV infection in children, either as an alternative to currently employed agents,",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* IVIG.\n* Erythropoietin, granulocyte colony stimulating factor and granulocyte macrophage colony stimulating factor (for management of hematologic toxicity).\n\nPatients must have:\n\n* Documented HIV-1 infection.\n* Laboratory evidence of immunosupp",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04867798",
+      "title": "Transgender Men and HIV in Uganda: PrEP Uptake and Persistence",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-09-16",
+      "completion_date": "2023-04-30",
+      "country": "Uganda",
+      "enrollment": 75,
+      "brief_summary": "Transgender men (trans men; assigned female sex at birth but identify as male) are generally thought to be at low risk of HIV acquisition, perhaps because of the assumption that they have sex with cis-gender women. Emerging data from resource-rich settings show that trans men often face many of the same high risks as transgender women (trans women; assigned male sex at birth but identify as female). Trans men report similar rates to trans women of engagement in sex work and engage in unprotected",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Report female sex assigned at birth but currently identify as male\n* Age ≥18, or if 14-17 years, qualification as a mature or emancipated minor due to having a sexually transmitted infection or cater for own livelihood\n* Report condom-less sex in the past 6 months\n* Able and w",
+      "endpoints": [
+        "PrEP effectiveness as measured by intracellular tenofovir diphosphate levels in dried blood spots"
+      ],
+      "sponsor": "Makerere University",
+      "url": "https://clinicaltrials.gov/study/NCT04867798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000887",
+      "title": "A Phase I Trial of the Safety, Tolerance, and Pharmacokinetics of Oral Nelfinavir (Viracept) Co-Administered With Zidovudine (ZDV) and Lamivudine (3TC) in HIV Infected Pregnant Women and Their Infants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to see if giving nelfinavir (NFV) plus zidovudine (ZDV) plus lamivudine (3TC) to HIV-positive pregnant women and their babies is safe. This study will also look at how long these drugs stay in the blood.\n\nZDV has been given to mothers in the past to reduce the chances of passing HIV on to their babies. However, better treatments are needed to further reduce these chances and to better suit the treatment needs of mothers and their children. Taking a combination of ant",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients may be eligible for this study if they:\n\n* Are at least 13 years old (need consent of parent or guardian if under 18).\n* Are HIV-positive.\n* Are in the 2nd or 3rd trimester (14 to 34 weeks pregnant) and are pregnant with one or two children.\n* Have a normal ultrasound ex",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000887"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06005610",
+      "title": "Giving Standardized Estradiol Therapy In Transgender Women to Research Interactions With HIV Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-01-04",
+      "completion_date": "2025-08-21",
+      "country": "Mexico, Thailand, Peru, United States",
+      "enrollment": 93,
+      "brief_summary": "Transgender women (TW) are a key population and priority for HIV treatment. More research is needed to develop evidence-based clinical guidance when it comes to choosing antiretroviral treatment (ART) regimens for TW on feminizing hormonal therapy (FHT). Concerns about ART interacting with FHT and decreasing its effectiveness can lead to decreased ART adherence and increased viral loads.\n\nThe GET IT RiGHT trial aims to address concerns about drug-drug interactions (DDIs) between ART and FHT whil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age greater than or equal to 18 years.\n2. Documentation of HIV-1 status.\n3. Assigned male sex at birth and identifies as a TW, female or transfeminine person.\n4. On ART for at least 24 weeks prior to study entry. Regimen changes within the 24 weeks prior to study entry are ac",
+      "endpoints": [
+        "Geometric Mean Ratio of ART Analytes BIC, DTG, and DRV trough concentrations (Ctrough) in plasma at each received dose of oral 17-β estradiol",
+        "Percentage of Participants with ART Analyte trough concentration (Ctrough) above drug-specific threshold",
+        "Trough serum total estradiol assessed at each received dose of oral 17-β estradiol as quantified via batch testing at central lab."
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT06005610"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00038506",
+      "title": "A Phase IV, Open-label, Multicenter Study of Treatment With TRIZIVIR (Abacavir 300mg/Lamivudine 150mg/Zidovudine 300mg) Twice Daily and Tenofovir 300mg Once-daily for 48 Weeks in HIV-infected Subjects Experiencing Early Virologic Failure (ZIAGEN Intensification Protocol)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2004-08",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This study is a 48-week study to evaluate the efficacy and safety of an investigational regimen combining FDA approved HIV drugs in antiretroviral-experienced subjects failing on their first highly active antiretroviral therapy regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Currently on an initial HAART (highly active antiretroviral therapy) regimen of 3TC/ZDV or 3TC/d4T and a PI (protease inhibitor) -boosted or unboosted- or NNRTI (non-nucleoside reverse transcriptase inhibitor).\n* Plasma HIV - 1 RNA was \\<400 copies/ml on at least 2 documented ",
+      "endpoints": [
+        "HIV viral load response at 48 weeks as measured by proportion of subjects with undetectable viral load."
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00038506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002411",
+      "title": "A Randomized Study of the Long-Term Suppression of Plasma HIV RNA Levels by Triple Combination Regimens in Treatment Naive Subjects",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1998-03",
+      "completion_date": "1999-09",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the safety of didanosine plus stavudine plus nelfinavir (NLF) with that of zidovudine plus lamivudine plus NLF. This study also examines how long these drug combinations are effective in lowering viral load (level of HIV in the blood).",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\nWithin 15 business days prior to randomization:\n\n* CD4 cell count greater than or equal to 100 cells/mm3.\n* HIV RNA greater than or equal to 2,000 copies/ml by Roche Amplicor Assay.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with any of the followi",
+      "endpoints": [],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00002411"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00053638",
+      "title": "A Phase III, Randomized, Open-label, Multicenter Study of the Safety and Efficacy of Efavirenz Versus Tenofovir When Administered in Combination With the Abacavir/Lamivudine Fixed-dose Combination Tablet as a Once-daily Regimen in Antiretroviral-naive HIV-1 Infected Subjects.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2004-10",
+      "country": "United States",
+      "enrollment": 345,
+      "brief_summary": "This is a 48-week study to evaluate the safety and efficacy of a new tablet formulation containing two FDA-approved drugs in HIV-infected patients who have not received prior therapy. This tablet will be taken with one of two FDA-approved drugs as a once-daily regimen. Study physicians will evaluate subjects to determine if they have certain medical conditions, laboratory test values, medication use, or drug allergies that would exclude them from the study.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants must be able to provide informed consent.\n* Have documented HIV-1 infection.\n* Have not received more than 14 days of prior treatment with antiretroviral drugs.\n* Meet laboratory test criteria.\n* Women of childbearing potential must abstain from sexual intercourse",
+      "endpoints": [
+        "Viral load response at 48 weeks"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00053638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001083",
+      "title": "A Phase II Rolling Arm Master Protocol (PRAM) of Novel Antiretroviral Therapy in Stable Experienced HIV- Infected Children; PRAM-1: ZDV+3TC vs. d4T+Ritonavir vs. ZDV+3TC+Ritonavir; PRAM-1, Step 2: d4T+Nevirapine+Ritonavir; PRAM-1, Step 3: d4T+Indinavir vs. ZDV+3TC+Indinavir",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2001-06",
+      "country": "Puerto Rico, United States",
+      "enrollment": 240,
+      "brief_summary": "For PRAM-1: To evaluate zidovudine (ZDV) + lamivudine (3TC) vs. stavudine (d4T) + ritonavir vs. ZDV + 3TC + ritonavir with respect to the change in plasma HIV-1 RNA copy number from baseline to 48 weeks \\[AS PER AMENDMENT 1/5/98: 72 weeks; AS PER AMENDMENT 7/17/98: 48 weeks\\] in stable HIV-infected children with \\>= 16 weeks of prior continuous antiretroviral therapy. To evaluate the safety and tolerance of ZDV + 3TC vs. d4T + ritonavir vs. ZDV + 3TC + ritonavir based upon laboratory and clinica",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* IVIG and opportunistic infection prophylaxis will be allowed.\n* Erythropoietin (EPO), granulocyte colony-stimulating factor (G-CSF) and granulocyte-macrophage colony- stimulating factor (GM-CSF) will be allowed for the management of hematologic",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001083"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03205566",
+      "title": "The Time to Protection and Adherence Requirements of Raltegravir With or Without Lamivudine in Protection From HIV Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-09-19",
+      "completion_date": "2018-09-24",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "This study evaluates whether a 7-day course of Raltegravir 400mg bd or Raltegravir 400mg/lamivudine 150mg bd can prevent HIV from infecting genital tissue and will relate the level of drug in the blood to the level of drug in genital tissue and to the ability to of HIV to infect genital tissue. As well as determining whether these regimes can provide ex vivo protection against HIV, this study will also determine speed to provision of protection and a 48 hour PK/PD decay profile of Raltegravir fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form prior to participation in any screening procedures and must be willing to comply with all trial requirements.\n2. Male or non-pregnant, non-lactating females\n3. Age between 18 to 60 years, inclusive.\n4. Body Ma",
+      "endpoints": [
+        "The Level of Raltegravir Alone or Raltegravir /Lamivudine Required in the Plasma, Vagina and Rectum for 100% ex Vivo Protection From HIV"
+      ],
+      "sponsor": "Guy's and St Thomas' NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03205566"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02491242",
+      "title": "The Efficacy and Safety of Dolutegravir-based Dual Therapies in HIV-infected Patients With Intolerance or Toxicity to Nucleoside Analogues",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2018-06",
+      "country": "Spain",
+      "enrollment": 155,
+      "brief_summary": "The objective of this study was to evaluate the efficacy and safety, and evolution of causes leading to change, of dual therapies based in Dolutegravir in patients requiring a change of virologically effective antiretroviral therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Older than 18 years\n* Receiving a virologically effective antiretroviral regimen\n* Switching to a dual therapy based in dolutegravir because of intolerance or toxicity to nucleoside analogues\n\nExclusion Criteria:\n\n* Pregnant women\n* Receiving other investigational drugs\n* Rece",
+      "endpoints": [
+        "Efficacy, measured as maintenance of virological suppression, after switching to a dolutegravir-based dual therapy"
+      ],
+      "sponsor": "Asociacion para el Estudio de las Enfermedades Infecciosas",
+      "url": "https://clinicaltrials.gov/study/NCT02491242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05549180",
+      "title": "Phase IV, Randomized, Multicenter and Double Clinical Trial Blind Designed to Assess Safety and Convenience of the Change From DTG/3TC to BIC/FTC/TAF in People With HIV, Good Virological Control and Neuropsychiatric Vulnerabilities: MIND Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-10-06",
+      "completion_date": "2024-08-07",
+      "country": "Spain",
+      "enrollment": 84,
+      "brief_summary": "In people infected with HIV, with suppressed HIV viral load and receiving treatment with DTG/3TC:\n\nThe change to BIC/FTC/TAF will decrease the development of adverse events of neuropsychiatric etiology.\n\nThe change to BIC/FTC/TAF may improve the patient´s tolerability and degree of acceptance and use of TAR.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult \\>18 years diagnosed with HIV by standard microbiological techniques\n* Active antiretroviral treatment with DTG/3TC\n* Last HIV viral load performed on the participant in the 6 months prior to the visit screening \\< 50 copies/mL. If the participant does not have an HIV vi",
+      "endpoints": [
+        "The safety of switching to BIC/FTC/TAF versus continuing treatment with DTG/3TC."
+      ],
+      "sponsor": "Fundacion SEIMC-GESIDA",
+      "url": "https://clinicaltrials.gov/study/NCT05549180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000891",
+      "title": "Immunologic and Virologic Consequences of Long-Term Highly Active Antiretroviral Therapy (HAART) in Subjects With Moderately Advanced HIV-1 Disease: A Follow-Up Study to ACTG 315",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2004-05",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "To evaluate the relationship between viral suppression and changes in immune function, as measured by the restoration of delayed-type hypersensitivity (DTH) and lymphoproliferative (LP) responses, observed after 48 weeks of treatment with highly active antiretroviral therapy (HAART) in ACTG 315. To evaluate the durability of the antiviral and immunologic effects of long-term treatment with HAART.\n\nGiven the extensive immunologic and virologic data available from ACTG 315, follow-up studies of th",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Protocol Chair-approved antiretroviral medications or research study treatment for an HIV complication.\n* Treatment, maintenance, or chemoprophylaxis with approved medications for opportunistic infections.\n* Antibiotics.\n* Recombinant erythropo",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000891"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00476606",
+      "title": "Treatment Outcome of Children With HIV Infection",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2024-09-12",
+      "country": "Thailand",
+      "enrollment": 500,
+      "brief_summary": "To evaluate clinical and immunological outcome of children treated with HAART.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children who are part of the ATC program at Chulalongkorn hospital and at HIV-NAT, The Thai Red Cross AIDS research center\n* Children who fulfil criteria to start HAART according to the ATC program\n* Children who are switched to second regimen or salvage therapy\n* Children who",
+      "endpoints": [
+        "1. To collect clinical and immunologic data of children treated with HAART 2. To collect clinical outcome data on children with HIV infection 3. To provide the best possible care to children with HIV infection"
+      ],
+      "sponsor": "The HIV Netherlands Australia Thailand Research Collaboration",
+      "url": "https://clinicaltrials.gov/study/NCT00476606"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00765271",
+      "title": "A Study Investigating Plasma Abacavir and Its Intracellular Anabolite Carbovir-triphosphate Pharmacokinetics in the Absence and in the Presence of Darunavir/Ritonavir or Raltegravir in HIV-infected Subjects.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2008-10",
+      "country": "United Kingdom",
+      "enrollment": 29,
+      "brief_summary": "The study is being conducted as we have found that many patients with Human Immunodeficiency Disease (HIV) require a combination of different drugs to treat the HIV infection. Before using different combination of drugs, it is important to do studies to see if the drugs will affect the activity of one another.\n\nThe study aims to help us understand if darunavir/ritonavir or raltegravir have any effects on levels of abacavir in the blood.\n\nThe purpose of the study is to assess the pharmacokinetics",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form, prior to participation in any screening procedure and must be willing to comply with all study requirements.\n2. Male or non-pregnant, non-lactating females.\n3. Between 18 to 65 years, inclusive.\n4. Documented",
+      "endpoints": [
+        "Steady state plasma concentrations of abacavir and intracellular concentrations of its active anabolite carbovir-TP following the administration of abacavir 600 mg once daily, in the absence and in the presence of darunavir/ritonavir or raltegravir"
+      ],
+      "sponsor": "St Stephens Aids Trust",
+      "url": "https://clinicaltrials.gov/study/NCT00765271"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00424814",
+      "title": "Prevention of HIV1 Mother to Child Transmission Without Nucleoside Analogue Reverse Transcriptase Inhibitors in the Pre-partum Phase. A Multicenter Randomised Phase II/III Open Label Study With a Group of 100 Pregnant Women Receiving Lopinavir/Ritonavir and a Group of 50 Receiving Lopinavir/Ritonavir Plus Zidovudine and Lamivudine. ANRS 135 Primeva",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2012-11",
+      "country": "France",
+      "enrollment": 105,
+      "brief_summary": "In the pre-partum phase the use of antiretroviral therapy for the mother during the last trimester of pregnancy is mandatory. The use of HAART during pregnancy, usually two nucleosides analogues and a protease inhibitor exposes the mother and the child to cumulate toxicities related to both families. The aim of this study is to assess the use of a boosted protease inhibitor without nucleoside analogue during the pre-partum phase for women with no indication of antiretroviral therapy for their ow",
+      "eligibility_criteria": "Inclusion Criteria: Assessed between 20 and 24 months of pregnancy\n\n* Pregnancy known before 24 weeks of gestation\n* Documented HIV-1 infection without indication for ARV therapy\n* CD4 count above or equal to 350 per mm3\n* VL under 30 000 copies per ml\n* Naïve for PI (except treatment during previou",
+      "endpoints": [
+        "Proportion of mother with plasma HIV1 below 200 copies per ml after 8 weeks of treatment"
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT00424814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01475240",
+      "title": "A Cross-sectional Controlled Study to Evaluate the Impact of Hyperbilirubinemia on Markers of Cardiovascular Disease, Neurocognitive Function and Renal Markers in HIV-1 Infected Subjects on Protease Inhibitors",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2013-11",
+      "country": "United Kingdom",
+      "enrollment": 101,
+      "brief_summary": "Use of some protease inhibitors is associated with elevations of a blood pigment called bilirubin. This may occasionally lead to yellowing of the eyes (scleral icterus) or jaundice, but in the general population bilirubin elevations have been shown to have antioxidant and anti-inflammatory properties that could be associated with reduced risk of cardiovascular or other disease events.\n\nInflammation may also be relevant to neurocognitive impairment in HIV (Human Immunodeficiency Virus) infection ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form, prior to participation in any screening procedure and must be willing to comply with all study requirements.\n2. Documented HIV-1 infection.\n3. \\>18 years of age\n4. Stable on PI based therapy with TDF/FTC or A",
+      "endpoints": [
+        "To evaluate the impact of hyperbilirubinemia on markers of cardiovascular disease"
+      ],
+      "sponsor": "St Stephens Aids Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01475240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00255840",
+      "title": "\"Safeguard the Household\" - A Study of HIV Antiretroviral Therapy Treatment Strategies Appropriate for a Resource Poor Country",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2009-01",
+      "country": "N/A",
+      "enrollment": 812,
+      "brief_summary": "The purpose of this study is to determine the effectiveness of several anti-HIV treatment strategies in resource-poor South African communities. The strategies being studied are using specially trained doctors or nurses to administer HIV care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected\n* Current severe CDC Category B AIDS-defining illness (with the exception of a single episode of bacterial sepsis or a single episode of zoster), OR history of a severe CDC Category B or C AIDS-defining illness, OR one CD4 count less than 350 cells/mm3 within 6 ",
+      "endpoints": [
+        "Cumulative Treatment Failure Rate of Participants on First Line Antiretroviral Therapy Monitored by Primary Health Care Nurses (Investigative Arm)is Not Inferior to the Cumulative Treatment Failure Rate of Participants Monitored by Doctors (Control Arm)."
+      ],
+      "sponsor": "CIPRA SA",
+      "url": "https://clinicaltrials.gov/study/NCT00255840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00820118",
+      "title": "ARNS 141 TIPI : A Pilot Trial to Assess the Ability of an Intermittent Antiretroviral Therapy in Maintaining an Immunological Stability in Antiretroviral naïve HIV Infected Adults, With CD4 Count Above 500/mm3",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2012-05",
+      "country": "France",
+      "enrollment": 45,
+      "brief_summary": "The primary objective of the trial is to assess the ability of an early and intermittent antiretroviral therapy in maintaining an immunological stability in antiretroviral naive HIV infected adults, to offer a potential alternative strategy to differed and continuous antiretroviral treatment.This is a 2-year phase II, open-label, multicentric \"proof of concept\" trial. The patients included are treated following a pulse-therapy scheme, i.e. 6-month periods with once daily boosted-PI based therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult confirmed HIV-1 infection\n* no previous treatment with antiretroviral drugs or interleukin-2\n* CD4 count ≥ 500/mm3\n* no active opportunistic infection\n* written informed consent\n\nExclusion Criteria:\n\n* non barrier contraception in women of child bearing potential, pregna",
+      "endpoints": [
+        "proportion of patients with mean CD4 count at M21 and M24 above or equal to the mean CD4 count at screening and inclusion, without experiencing a decrease below 400/mm3 throughout the study."
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT00820118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389194",
+      "title": "A Randomized, Controlled, Open-Label, 48-Week Study of Continuing Successfully Suppressive Treatment in HIV-1 Infected Adults With First-Line Twice-Daily Zidovudine and Lamivudine-Based Regimens Versus Pro-actively Replacing of Zidovudine and Lamivudine by Once-Daily Emtricitabine and Tenofovir Disoproxil Fumarate to Prevent Progression of or Reverse Peripheral Lipoatrophy.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2008-10",
+      "country": "Netherlands",
+      "enrollment": 120,
+      "brief_summary": "The main objective of the study is to assess changes in fat distribution over 48 weeks of treatment in patients who currently successfully use zidovudine (AZT) and lamivudine (3TC) as part of their regimen and who will either continue these antiretrovirals or who will switch these antiretrovirals to tenofovir disoproxil fumarate (TDF) and emtricitabine (FTC). Each of these medications is commonly used for the treatment of HIV-1 infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Providing written informed consent\n* HIV-1 infected patients.\n* At least 18 years of age.\n* Males or non-pregnant, non-lactating females. Women of childbearing age must have a negative urine pregnancy test at screening. All female participants must be encouraged to utilise ade",
+      "endpoints": [],
+      "sponsor": "International Antiviral Therapy Evaluation Center",
+      "url": "https://clinicaltrials.gov/study/NCT00389194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00091936",
+      "title": "Implementing Anti-Retroviral Therapy in Resource-Constrained Settings: A Randomized Controlled Trial to Assess the Effect of Integrated Tuberculosis and HIV Care on the Incidence of AIDS-Defining Conditions or Mortality in Subjects Co-Infected With Tuberculosis and HIV",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "",
+      "country": "South Africa",
+      "enrollment": 592,
+      "brief_summary": "Tuberculosis (TB), a bacterial infection common in HIV infected people, is a major problem in developing countries. The purpose of this study is to test the effectiveness of a combined treatment strategy using directly observed therapy (DOT) for HIV infected patients with TB. Participants will be recruited from resource-poor communities in Durban, South Africa.",
+      "eligibility_criteria": "Inclusion Criteria for First Part of Study:\n\n* HIV infected\n* TB infected\n* Currently receiving standard anti-TB therapy (isoniazid, rifampicin, ethambutol, and pyrazinamide)\n* Currently participating in the Prince Cyril Zulu CDC Directly Observed Therapy (DOT) program and receiving treatment daily ",
+      "endpoints": [
+        "Diagnosis of an AIDS-defining illness",
+        "18-month mortality"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00091936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02945163",
+      "title": "The Optimization of HAART for Chinese--a RCT Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-03-05",
+      "completion_date": "2019-08-31",
+      "country": "China",
+      "enrollment": 184,
+      "brief_summary": "Tenofovir+lamivudine+efavirenz is still the first line regimen of combination antiretroviral therapy in developing countries. Based on our previous data, we aim to evaluate whether reduce the dose of tenofovir and efavirenz could decreasing the incidence of the side effects while not scarifying their virological efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV antibody positive\n* Chinese nationality\n* Naïve to antiretroviral therapy\n* Willing to start antiretroviral therapy\n* Provision of written informed consent\n\nExclusion Criteria:\n\n* Pregnant, breastfeeding, or lactating\n* Females try to get pregnant during the research perio",
+      "endpoints": [
+        "Percentage of patients with HIV RNA<50 Copies/ml"
+      ],
+      "sponsor": "Shanghai Public Health Clinical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02945163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00495326",
+      "title": "Randomized Non-inferiority Trial Comparing the Nevirapine-based Antiretroviral Therapy Versus the Standard Efavirenz-based ART for the Treatment of HIV-TB Co-infected Patients on Rifampicin-based Therapy (ANRS 12146 CARINEMO)",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2011-04",
+      "country": "Mozambique",
+      "enrollment": 570,
+      "brief_summary": "The purpose of this study is to determine whether the use of Nevirapine in HIV patients already treated against tuberculosis by Rifampicin is as efficient and as well tolerated as Efavirenz.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Person HIV infected\n* Aged of 18 years or more\n* Signed informed consent\n* New case of tuberculosis: patient who never received TB treatment or for less than 1 month\n* Patients receiving rifampicin based TB regimen since 4 to 6 weeks\n* CD4 cell count \\< 250 cell/mm3 in the 4 w",
+      "endpoints": [
+        "Viral load measure (Virological failure will be defined after 2 consecutive measures as : More than 1 log10 increase in plasma HIV-1 RNA concentration for patients with detectable viral load (> 50 copies/mL) at the previous dosage.)"
+      ],
+      "sponsor": "French National Agency for Research on AIDS and Viral Hepatitis",
+      "url": "https://clinicaltrials.gov/study/NCT00495326"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00197145",
+      "title": "A Phase III, Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel Group Study to Compare the Efficacy and Safety of GW873140 400mg BID in Combination With a Ritonavir-containing Optimized Background Therapy (OBT) Regimen Versus Placebo Plus OBT Over 48 Weeks.",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-07-21",
+      "completion_date": "2007-09-11",
+      "country": "Puerto Rico, Canada, United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of the CCR5 antagonist GW873140 or placebo in combination with an optimized background regimen in treatment-experienced HIV-infected subjects with R5-tropic virus",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-infected.\n* Screening viral load at least 5000copies/mL.\n* R5-tropic only virus at screening.\n* Total prior antiretroviral experience of at least 3 months and documented resistance to at least one drug in each of the following classes: nucleoside reverse transcriptase inhi",
+      "endpoints": [
+        "Number of Participants With Plasma HIV-1 RNA <400 Copies Per Milliliter (Copies /mL) at Week 24 and 48",
+        "Average Area Under the Curve Minus Baseline (AAUCMB) of Plasma HIV-1 RNA Through the Entire Study Period",
+        "Number of Participants With >= 1.0 log10 Copies/mL Decrease in Plasma HIV-1 RNA From Baseline Over Time"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00197145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002400",
+      "title": "An Open-Label Randomized Study of Delavirdine Mesylate (Rescriptor) in Combination With Zidovudine (Retrovir) and Two Doses of Indinavir (Crixivan) Versus Zidovudine, Lamivudine (Epivir), and Indinavir in HIV-1-Infected Individuals",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "The purpose of this study is to compare the safety and effectiveness of giving HIV-infected patients delavirdine (DLV) plus zidovudine (ZDV) plus 2 doses of indinavir (IDV) or ZDV plus IDV plus lamivudine (3TC). This study also examines how the body processes DLV when it is given in combination with other drugs.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* HIV-1 positive.\n* CD4 count above 50.\n* HIV-1 RNA greater than 20,000.\n\nPrior Medication:\n\nAllowed:\n\nLess than 1 month prior treatment with zidovudine.\n\nExclusion Criteria\n\nPrior Medication:\n\nExcluded:\n\n* Prior 3TC, protease inhibitors, or non-nucleoside re",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002400"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02935075",
+      "title": "Optimization of Antiretroviral Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-03-05",
+      "completion_date": "2019-08-31",
+      "country": "China",
+      "enrollment": 184,
+      "brief_summary": "The combination antiretroviral therapy (cART) inhibit HIV replication effectively. However, synergy among these drugs has not been well considered. The dose of drugs used as monotherapy is the same as that used in combination therapy. Tenofovir+lamivudine+efavirenz is still the first line regimen of cART in developing countries. The side effects of these drugs are related to the concentration of drugs. Based on our previous data, we aim to evaluate whether reduce the dose of tenofovir and efavir",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV antibody positive\n* Chinese nationality\n* Naïve to antiretroviral therapy\n* Willing to start antiretroviral therapy\n* Provision of written informed consent\n\nExclusion Criteria:\n\n* Pregnant, breastfeeding, or lactating\n* Females try to get pregnant during the research perio",
+      "endpoints": [
+        "Percentage of patients with HIV viral road < 50 copies/ml"
+      ],
+      "sponsor": "Shanghai Public Health Clinical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02935075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01966822",
+      "title": "MULTICENTRE STUDY TO ASSESS CHANGES IN BONE MINERAL DENSITY OF THE SWITCH FROM PROTEASE INHIBITORS TO DOLUTEGRAVIR IN HIV-1-INFECTED SUBJECTS WITH LOW BONE MINERAL DENSITY",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2015-10",
+      "country": "Spain",
+      "enrollment": 75,
+      "brief_summary": "Protease inhibitors (PI) have been associated with an acceleration of bone mineral density loss in HIV-infected individuals because of an enhanced osteoclast activity, although some controversial data have been also published. A first study suggest an increase of bone mineral density after switching from PI to raltegravir, the first generation integrase inhibitor, but there are no more data about this subject.\n\nBased on data that PI decrease bone mineral density by accelerating osteoclast cells ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. HIV-infected patients over 18 years.\n2. In current antiretroviral therapy with abacavir and lamivudine (Kivexa) plus ritonavir-boosted PI, at least 6 months.\n3. Viral suppression (HIV RNA \\<50 copies / ml) for at least 12 months.\n4. T-score ≤ -1 evaluated by DEXA (done in the",
+      "endpoints": [
+        "Compare changes in Bone Mineral Density (BMO) measured by Dual-energy X-ray absorptiometry",
+        "Compare changes in femur T-score measured by DEXA",
+        "Compare changes in lumbar spine (L1-L4) T-score measured by DEXA"
+      ],
+      "sponsor": "Fundación FLS de Lucha Contra el Sida, las Enfermedades Infecciosas y la Promoción de la Salud y la Ciencia",
+      "url": "https://clinicaltrials.gov/study/NCT01966822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01982396",
+      "title": "Pharmacokinetic Study of Twice Daily vs Once Daily Lamivudine and Abacavir as Part of Combination Antiretroviral Therapy in Children With HIV Infection",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-03",
+      "country": "United Kingdom",
+      "enrollment": 19,
+      "brief_summary": "Cross-over 28 week study of the plasma pharmacokinetic profiles of twice daily 3TC (4mg/kg/dose BD) with once daily 3TC (8mg/kg/dose OD) and twice daily ABC (8mg/kg/dose BD) with daily ABC (16mg/kg/dose OD) where one or both drugs are being taken as part of combination antiretroviral therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children with definitive HIV infection\n* Age \\> 2 and \\< 13 years\n* Currently on combination ART including 3TC and / or ABC, for at least 6 months, with stable CD4 cell count and HIV RNA viral load and expected to stay on this regimen for at least a further 3 months.\n\nExclusio",
+      "endpoints": [
+        "Area Under Curve (AUC) of lamivudine after qd and bid dosing",
+        "Cmin of lamivudine after qd and bid dosing",
+        "Cmax of lamivudine after qd and bid dosing"
+      ],
+      "sponsor": "PENTA Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT01982396"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07075146",
+      "title": "Doravirine/Lamivudine/Tenofovir Disoproxil Fumarate COmpared With Bictegravir/Emtricitabine/Tenofovir Alafenamide in ART-Naïve People Living With HIV and Overweight or Obesity",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-05-05",
+      "completion_date": "2028-08-01",
+      "country": "Mexico",
+      "enrollment": 306,
+      "brief_summary": "Background:Historically, HIV infection was associated with significant weight loss. However, weight gain is now commonly observed after initiating antiretroviral therapy (ART), particularly in individuals underweight at baseline. It remains unclear whether this weight gain reflects a \"return to health\" or results from drug-related or metabolic effects, and whether it persists beyond immune restoration. Recent evidence indicates that ART regimens containing second-generation integrase strand tran",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults (≥18 years) with confirmed HIV diagnosis, ART-naïve\n2. Signed informed consent\n3. HIV-1 RNA ≥1000 copies/mL\n4. No history of PrEP or PEP failure\n5. BMI ≥25 kg/m² and body fat \\>20%\n6. Stable treatment for dyslipidemia (if applicable)\n7. No planned medication changes af",
+      "endpoints": [
+        "To determine the safety and tolerability of Doravirine/Lamivudine/Tenofovir compared with Bictegravir/Tenofovir Alafenamide/Emtricitabine in ART-naive people living with HIV at 144 weeks of treatment.",
+        "Evaluate the effectiveness and safety of Doravirine/Lamivudine/Tenofovir Disoproxil Fumarate (DOR/3TC/TDF) compared with Bictegravir/Emtricitabine/Tenofovir Alafenamide (BIC/FTC/TAF)"
+      ],
+      "sponsor": "Instituto Mexicano del Seguro Social",
+      "url": "https://clinicaltrials.gov/study/NCT07075146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04493216",
+      "title": "A Phase IIb, Randomized, Partially Blind, Active Controlled, Dose-range Finding Study of GSK3640254 Compared to a Reference Arm of Dolutegravir, Each in Combination With Nucleoside Reverse Transcriptase Inhibitors, in HIV-1 Infected Antiretroviral Treatment-naive Adults",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2020-11-18",
+      "completion_date": "2023-05-29",
+      "country": "France, Spain, South Africa, Switzerland, Russia, Italy, Germany, Portugal, Canada, Argentina, United States",
+      "enrollment": 161,
+      "brief_summary": "This is a phase 2b, randomized, multicenter, parallel group, partially blind (to GSK3640254 doses \\[100, 150 and 200 milligrams {mg}\\]), active controlled clinical trial. It aims to investigate the safety, efficacy and dose-response of GSK3640254 compared to dolutegravir (DTG), each given in combination with 2 Nucleoside Reverse Transcriptase Inhibitors (NRTIs) (abacavir/lamivudine \\[ABC/3TC\\] or emtricitabine/tenofovir alafenamide \\[FTC/TAF\\]).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must be 18 years of age inclusive, at the time of signing the informed consent.\n* Treatment-naive, defined as no anti-retrovirals (ARVs) (in combination or monotherapy) received after the diagnosis of HIV-1 infection (for example \\[e.g.\\], use of Pre-exposure prop",
+      "endpoints": [
+        "Percentage of Participants With Plasma HIV-1 Ribonucleic Acid (RNA) Less Than (<)50 Copies Per Milliliter (c/mL) at Week 24"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04493216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001087",
+      "title": "Comparison of the Virologic Efficacy of Nelfinavir and/or DMP 266 (Efavirenz, EFV) in Combination With One or Two New Nucleoside Analogs in Nucleoside Experienced Subjects: A Roll-Over Study to ACTG 302/303",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2000-07",
+      "country": "Puerto Rico, United States",
+      "enrollment": 300,
+      "brief_summary": "Steps I and II: The purpose of this study is the following: To look at how many patients achieve undetectable HIV blood levels at Week 16. To look at the absolute change in HIV blood levels from the beginning of the study to Week 16. To look at the safety and tolerability of nelfinavir (NFV) and efavirenz (EFV) when used in combination or separately in regimens containing reverse transcriptase inhibitors (RTIs). For the 2 extension studies (Weeks 49 to 144): To look at the proportion of patients",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nRequired:\n\n* Chemoprophylaxis for Pneumocystis carinii pneumonia for all patients who have a CD4 count of 200 cells/mm3 or less.\n\nAllowed:\n\n* Topical and oral antifungal except for oral ketoconazole.\n* Treatment, maintenance, or chemoprophylaxis with appro",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01048671",
+      "title": "Collection of Data on the Management of HIV-1 Patients Treated With Antiretroviral Combination Therapy Including the HIV Integrase Inhibitor Raltegravir",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2012-12",
+      "country": "N/A",
+      "enrollment": 482,
+      "brief_summary": "To evaluate the management of HIV-1 participants treated with antiretroviral combination therapy including the integrase inhibitor raltegravir, all across the country of France.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant Infected With HIV-1.\n* Participant for whom raltegravir therapy has been decided and started less than 30 days prior to inclusion in the study.\n* Participant who has received oral and written information about the study and who has agreed to the computer processing",
+      "endpoints": [
+        "Percentage of Participants Receiving Antiretroviral Treatments Administered With Raltegravir",
+        "Percentage of Participants Responding to Treatment: All Treated Participants",
+        "Percentage of Participants Responding to Treatment: Participants Still Receiving Raltegravir Treatment at Month 24"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01048671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02652793",
+      "title": "Simplification From Tenofovir Plus Lamivudine or Emtricitabine Plus Ritonavir-Boosted-Protease Inhibitor to Ritonavir-Boosted-Atazanavir Plus Lamivudine in Virologically-Suppressed-HIVInfected Adults With Osteopenia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2018-11",
+      "country": "Spain",
+      "enrollment": 31,
+      "brief_summary": "A 48-week, open label, non comparative prospective trial in stable chronic human immunodeficiency virus-infected patients having achieved complete virological suppression for more than 24 weeks (human immunodeficiency virus-1 RNA \\<50 c/ml) switching from an antiretroviral regimen containing tenofovir and lamivudine or emtricitabine and boosted protease inhibitor to boosted atazanavir and lamivudine Study visits will take place at screening, baseline, weeks 4, 12, 24, and 48.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Human immunodeficiency virus-1-infected subjects with age ≥18 years old\n* Hip or spine T-scores between \\< -1.0 and \\>-2.5 by dual-energy X-ray absorptiometry (in the previous 24 weeks)\n* Stable antiretroviral treatment based on tenofovir and lamivudine or emtricitabine and bo",
+      "endpoints": [
+        "Change in Bone Mineral Density (BMD) at Lumbar Spine and Left Hip From Baseline to Week 48"
+      ],
+      "sponsor": "Hospital Clinic of Barcelona",
+      "url": "https://clinicaltrials.gov/study/NCT02652793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01844297",
+      "title": "Efficacy and Safety of Tenofovir Disoproxil Fumarate Plus Lamivudine Plus Efavirenz Regimen as First-line Antiretroviral Therapy for ART-naive Chinese Patients With HIV-1 Infection",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2013-05",
+      "completion_date": "2015-12",
+      "country": "China",
+      "enrollment": 500,
+      "brief_summary": "This study aims to evaluate the safety and effectiveness of the tenofovir disoproxil fumarate (TDF) + lamivudine (3TC) + efavirenz (EFV) regimen in antiretroviral therapy (ART)-naive Chinese HIV/AIDS patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 18-65 years of either gender\n* HIV-1 antibody seropositive detected by ELISA and confirmed by western blot\n* CD4 cell count \\< 500/ul\n* Signed informed consent, with no condition that precludes follow-up for 2 years\n* No plan to move out of the area during the tria",
+      "endpoints": [
+        "Percentage of Participants With HIV-1 RNA < 400 Copies/mL at Week 48"
+      ],
+      "sponsor": "Peking Union Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT01844297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001080",
+      "title": "Effect of Vaccination on Turnover of Lamivudine (3TC) Sensitive and Resistant Virus Populations in HIV-1-Infected Individuals",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "To ascertain whether the origin of plasma HIV-1-RNA following T cell activation represents the activation of latently infected cells or an increase in cells permissive for replacing viral mutants.\n\nThe mechanism by which immune stimulation increases circulating levels of HIV-1 is not known. In particular, it is uncertain whether the transient increase in plasma HIV-1 RNA is due to enhanced replication of an actively replicating pool of HIV-1, or is due instead to activation of proviral sequences",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Antiretroviral therapy, provided the patient has been on the same dose and drugs for 60 days prior to study entry.\n\nPatients must have:\n\n* Documented HIV infection.\n* CD4 lymphocyte count of \\> 300 cells/mm3.\n* One plasma HIV-1 RNA level betwee",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06637813",
+      "title": "Establishment of a Database of HIV Subjects Initiating or Simplifying Dual Therapy With Dolutegravir/Lamivudine",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10-30",
+      "completion_date": "2034-10-30",
+      "country": "N/A",
+      "enrollment": 1220,
+      "brief_summary": "The introduction of combination antiretroviral therapy (cART) has completely revolutionized the management of HIV-positive patients, drastically reducing HIV-associated mortality and morbidity. In fact, the course of HIV infection has transformed into a chronic disease. The availability of different classes of antiretroviral drugs, such as nucleoside and non-nucleoside reverse transcriptase inhibitors (NRTIs, NNRTIs), protease inhibitors (PIs), integrase inhibitors (INSTIs) and viral entry inhib",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* signed informed consent\n* patients treated with triple therapy who simplify to 3TC+DTG\n* patients treatment-naive who start a dual therapy with 3TC+DTG from clinical practice\n\nExclusion Criteria:\n\n* lack of willingness to provide informed consent",
+      "endpoints": [
+        "Establishment of a database"
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT06637813"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02116660",
+      "title": "Switching From Regimens Consisting of a RTV-Boosted Protease Inhibitor Plus TDF/FTC to a Combination of Raltegravir Plus Nevirapine and Lamivudine in HIV Patients With Suppressed Viremia and Impaired Renal Function (RANIA Study) (Pilot Study) Protocol MK-0518-284-03",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-09-03",
+      "completion_date": "2017-07-10",
+      "country": "N/A",
+      "enrollment": 11,
+      "brief_summary": "To evaluate changes in renal function, efficacy, and safety when switching from a combination of tenofovir/emtricitabine (TDF/FTC) plus a protease inhibitor/ritonavir (PI/r) to a combination of raltegravir (MK-0518) plus nevirapine plus lamivudine in human immunodeficiency virus (HIV)-1 infected participants with suppressed viremia and impaired renal function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male, or non-pregnant, non-breastfeeding female\n* No previous history of virological failure\n* No previous exposure to non-nucleoside reverse transcriptase inhibitors or integrase inhibitors\n* No previous history of intolerance to lamivudine\n* At least 2 documented plasma HIV-",
+      "endpoints": [
+        "Change From Baseline in Estimated Glomerular Filtration Rate (eGFR)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02116660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00028327",
+      "title": "Randomized Study to Evaluate Immediate Potent Antiretroviral Therapy for HIV-Infected Subjects With CD4 Cell Counts Less Than 350 Cells/mm3 Admitted to Intensive Care Areas With an AIDS-Defining Illness, Pneumonia, or Sepsis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 250,
+      "brief_summary": "Many HIV infected patients admitted to the intensive care area (ICA) have never taken anti-HIV drugs. The purpose of this study is to learn whether starting anti-HIV drugs while patients are in an ICA will help them to survive and get better faster. This study will also evaluate patients who, though not in an ICA, have been admitted to the hospital for serious illnesses or infections.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* HIV-1 infection\n* CD4 cell count less than 350 cells/mm3 within 120 hours prior to study entry\n* Admission to an ICA (or to any part of the hospital with an arterial blood gas PaO2/FiO2 ratio of \\< 200 or SAPS I score \\> 13) within 120 hours prior to study entry\n* Admitted to t",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00028327"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002203",
+      "title": "A Randomized, Multicenter Study of Epivir 150 Mg Bid, Retrovir 200 Mg Tid and a Protease Inhibitor Vs 3TC 150 Mg/ZDV 300 Mg Fixed Dose Tablet Given Bid With a Protease Inhibitor in HIV-Infected Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Puerto Rico, United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the safety and effectiveness of taking lamivudine (3TC) plus zidovudine (ZDV) plus a protease inhibitor (PI) with taking the 3TC/ZDV combination tablet (Combivir) plus a PI. This study also examines how well patients follow the dosing schedules for these drugs.\n\nDoctors believe that taking Combivir plus a PI may be as effective as taking 3TC plus ZDV plus a PI.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* HIV infection documented by a licensed antibody ELISA assay and confirmed by Western blot, positive HIV blood culture, positive HIV serum antigen, or plasma viremia.\n* CD4+ cell count of at least 300 cells/mm3.\n* HIV-1 RNA less than 10,000 copies/ml by Roch",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002203"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000882",
+      "title": "Virologic and Immunologic Activity of Continued Lamivudine (3TC) vs Delavirdine (DLV) in Combination With Indinavir (IDV) and Zidovudine (ZDV) or Stavudine (d4T) in 3TC-Experienced Subjects",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Puerto Rico, United States",
+      "enrollment": 300,
+      "brief_summary": "To compare the proportion of patients in the 2 zidovudine (ZDV)-containing arms who have a plasma HIV RNA concentration below the limit of detection (defined as 500 copies/ml or less) at Weeks 20 and 24 \\[AS PER AMENDMENT 8/24/98: HIV RNA concentration below the limit of detection is now defined as 200 copies/ml or less\\]. To compare the safety and tolerability of the different treatment regimens. To compare the decrease in plasma HIV-1 RNA and the change in CD4 count from baseline to the averag",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nRequired:\n\n* Patients completing ACTG 306 who remain on blinded therapy through the extension period or\n* Patients on stable (6 months or greater) ddI/3TC or d4T/3TC combination therapy who have plasma HIV-1 levels higher than 500 copies/ml by the Amplicor",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000882"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01469520",
+      "title": "Phase I Three-way Crossover Bioequivalence Study of Pediatric Formulations of Lamivudine/Zidovudine/Nevirapine Using Healthy Adult Volunteers",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2011-12",
+      "country": "Nigeria",
+      "enrollment": 24,
+      "brief_summary": "The purpose of the study is to determine the bioavailability/bioequivalence of two pediatric formulations (tablet and reconstitutable suspension) of lamivudine/zidovudine/ nevirapine in comparison to an innovator product. Establishing the bioequivalence of a newly developed age-appropriate fixed dose combination of lamivudine/zidovudine/ nevirapine as an oral dispersible tablet or a reconstitutable suspension for children is invaluable for future product registration and availability of the prod",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The eligibility criteria included adults between 22 and 55 years;\n* Healthy as determined on the basis of a pre-trial physical examination, medical history, electrocardiogram and the results of blood biochemistry and hematology tests;\n* Subject was competent and willing to sig",
+      "endpoints": [
+        "Bioequivalence between the tests and reference drugs"
+      ],
+      "sponsor": "Elim Pediatric Pharmaceuticals Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01469520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01449929",
+      "title": "A Phase IIIb, Randomized, Open-label Study of the Safety and Efficacy of GSK1349572 (Dolutegravir, DTG) 50 mg Once Daily Compared to Darunavir/Ritonavir (DRV/r) 800 mg/100 mg Once Daily Each Administered With Fixed-dose Dual Nucleoside Reverse Transcriptase Inhibitor Therapy Over 96 Weeks in HIV-1 Infected Antiretroviral naïve Adult Subjects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10-31",
+      "completion_date": "2016-12-26",
+      "country": "France, Spain, Puerto Rico, Switzerland, Russia, Italy, Germany, Romania, United States",
+      "enrollment": 488,
+      "brief_summary": "This study will be conducted in approximately 468 HIV-1 infected antiretroviral therapy (ART)-naïve subjects. Subjects will be randomized 1:1 to receive dolutegravir (DTG) 50 mg once daily (approximately 234 subjects) or darunavir/ritonavir (DRV/r) 800 mg/100 mg once daily (approximately 234 subjects), each in combination with fixed-dose dual nucleoside reverse transriptase inhibitor (NRTI) therapy (either abacavir/lamivudine (ABC/3TC) or tenofovir/emtricitabine (TDF/FTC). Subjects will be strat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected adults greater than or equal to 18 years of age. Females are eligible to enter and participate in the study if she is (1) non-childbearing potential, (2) child bearing potential with negative pregnancy test at screening and Day 1 and agrees to use protocol-speci",
+      "endpoints": [
+        "Percentage of Participants With Plasma Human Immunodeficiency Virus-1 (HIV-1) Ribonucleic Acid (RNA) <50 Copies/Milliliter (c/mL) at Week 48"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT01449929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00043953",
+      "title": "A Phase II Study of Lopinavir/Ritonavir in Combination With Saquinavir Mesylate or Lamivudine/Zidovudine to Explore Metabolic Toxicities in Antiretroviral HIV-Infected Subjects",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-08",
+      "completion_date": "",
+      "country": "Canada, United States",
+      "enrollment": 30,
+      "brief_summary": "The objectives of this study are to explore the metabolic toxicities associated with lopinavir/ritonavir (LPV/r) plus saquinavir mesylate (INV) versus LPV/r plus Combivir in antiretroviral naïve subjects and to assess the overall safety, tolerability and efficacy of LPV/r plus INV versus LPV/r plus Combivir in antiretroviral naïve subjects and to assess the pharmacokinetics of 400 mg INV taken twice a day (BID), 600 mg INV BID and 800 mg INV BID in combination with 400 mg lopinavir/100 mg ritona",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is naïve to antiretroviral treatment (subjects may not have more than 7 days of any antiretroviral treatment).\n* Subject is at least 18 years of age, inclusive.\n* If female, subject is either not of childbearing potential, defined as postmenopausal for at least 1 year ",
+      "endpoints": [
+        "Proportion of subjects with plasma HIV RNA level below 50 copies/mL"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00043953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04326504",
+      "title": "Dolutegravir and Clinical Outcomes Among ART-recipients in Brazil: A Population-based Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-02-01",
+      "completion_date": "2025-02-28",
+      "country": "Brazil",
+      "enrollment": 5000,
+      "brief_summary": "Access to antiretroviral therapy (ART) in low-income and middle-income countries has been scaled-up effectively over recent years. Recently, the World Health Organization (WHO) guidelines changed to recommend the use of Dolutegravir (DTG) combined with two nucleoside reverse transcriptase inhibitors (NRTIs), tenofovir and lamivudine, for first-line ART; however, there is still a need for further data on the outcomes of DTG-based regimens for people with HIV-1.\n\nThis study aims to describe the ou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Signed informed consent.\n\n  * HIV infection documented by plasma HIV RNA viral load, a rapid HIV test or any licensed ELISA test; and confirmed by another test using a different method, including but not limited to a rapid HIV test, Western Blot, HIV culture, HIV antigen, or",
+      "endpoints": [
+        "frequency of therapy discontinuation due to any event for patients starting ART",
+        "therapy discontinuation due to any event for ART-eprerienced patients starting DTG-based regimens"
+      ],
+      "sponsor": "Fundação Bahiana de Infectologia",
+      "url": "https://clinicaltrials.gov/study/NCT04326504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00978237",
+      "title": "CT to Assess the Effect on the Subcutaneous Fat of Change of EFV for LPV/r in HIV-infected Patients Who Developed Lipoatrophy and Remains Despite Treatment With Efavirenz and Fixed-dose Combination of no Thymidine Nucleoside Analogues.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2013-11",
+      "country": "Spain",
+      "enrollment": 20,
+      "brief_summary": "Eligible HIV-infected patients with clinically evident lipoatrophy despite treatment with efavirenz and fixed-dose combination of thymidine nucleoside analogues will be informed and asked to enroll in the study; will be randomized (1:1) into two branches, A: EFV + Fixed combinations of analogue tenofovir + emtricitabine.B (experimental): LPV/r + combination of correspondent analogues. The main variable is the evaluation of the absolute change in limb fat mass at 24 months from baseline in both g",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients HIV positive \\> 18 years.\n* Patients in treatment with Sustiva(r)+Truvada(r); or Sustiva (r)+Kivexa(r).\n* HIV-ARN \\< 50 copies/mL in the las six months.\n* Clinically evident lipoatrophy (moderate or severe).\n* Negative pregnancy test.\n* Signed informed consent.\n\nExclu",
+      "endpoints": [
+        "Absolute change in limb fat mass measured by DEXA."
+      ],
+      "sponsor": "Hospital Clinic of Barcelona",
+      "url": "https://clinicaltrials.gov/study/NCT00978237"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01601899",
+      "title": "Molecular, Biochemical and Clinical Differences Between Stavudine and Tenofovir, Each Combined With Lamivudine and Efavirenz in South African HIV-infected Patients",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2008-10",
+      "completion_date": "2010-12",
+      "country": "South Africa",
+      "enrollment": 60,
+      "brief_summary": "Even with the benefits of HIV therapy, there is a possibility that HIV-infected individuals develop metabolic complications once they initiate treatment, which may also ultimately put them at a risk for impending heart disease in the next decades.\n\nThe main mechanism through which the main HIV drugs are thought to cause these metabolic changes and organ toxicities is mitochondrial toxicity. Most of studies that have been done, have taken place in the West, but few, if any, have been done in Sout",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. HIV-1 infection, documented by a rapid HIV test or any licensed ELISA test kit, and confirmed by either a second rapid HIV test or an ELISA consistent with the Themba Lethu Clinic guidelines.\n2. Age \\>/= 18 years,\n3. CD4+ cell count \\< 200 cells/mm3.\n4. The following laborato",
+      "endpoints": [
+        "changes in mitochondrial DNA copy number in adipocyte tissue",
+        "changes in gene expression in adipocyte tissue",
+        "changes in lipid levels"
+      ],
+      "sponsor": "University of Witwatersrand, South Africa",
+      "url": "https://clinicaltrials.gov/study/NCT01601899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01500616",
+      "title": "Multicenter, Open-Label, Study of Telaprevir in Combination With Peginterferon Alfa and Ribavirin in Human Immunodeficiency Virus/Genotype 1 Chronic Hepatitis C Coinfected Subjects With Severe Fibrosis or Compensated Cirrhosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2014-08",
+      "country": "Russia, Hungary, Germany, Ireland, United Kingdom, Portugal, Luxembourg, Belgium",
+      "enrollment": 122,
+      "brief_summary": "The purpose of this study is to collect safety and tolerability data on telaprevir treatment in combination with Peg-IFN-alfa and RBV in patients with HIV/genotype 1 chronic HCV coinfection with severe fibrosis or compensated cirrhosis who are not eligible for enrollment into an ongoing clinical study of telaprevir.",
+      "eligibility_criteria": "Inclusion Criteria: - Have diagnosis of HIV-1 or HIV-2 infection, or HIV-1 and HIV-2 coinfection for more than 6 months before the screening visit. - Should have been on a stable permissible HAART regimen for more than 8 weeks before Day 1 without switches. OR Not on a HAART regimen and not expected",
+      "endpoints": [
+        "Treatment-emergent Adverse Events"
+      ],
+      "sponsor": "Janssen-Cilag International NV",
+      "url": "https://clinicaltrials.gov/study/NCT01500616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05911360",
+      "title": "A Phase 3b, Multicenter, Single-arm, Open-label Study Evaluating the Efficacy, Safety, and Tolerability of Switching to DTG/3TC Single Tablet Regimen Administered Once Daily From a Bictegravir/Emtricitabine/Tenofovir Alafenamide Single Tablet Regimen in People Living With HIV of at Least 50 Years of Age Who Are Virologically Suppressed",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-01-31",
+      "completion_date": "2026-01-13",
+      "country": "France, Spain, Mexico, Austria, Italy, Germany, United Kingdom, Netherlands, Portugal, Canada, Belgium, United States",
+      "enrollment": 205,
+      "brief_summary": "The study aims at evaluating the maintenance of virologic suppression of dolutegravir/lamivudine (DTG/3TC) fixed dose combination (FDC) at Week 48 post-switch from bictegravir/emtricitabine/tenofovir alafenamide (BIC/FTC/TAF) in participants living with Human Immunodeficiency Virus Type 1 (HIV-1) who are of at least 50 years of age and above.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants living with HIV-1 with documented plasma HIV-1 RNA \\<50 c/mL within 3 months prior to Screening.\n* Participants must have been on uninterrupted antiretroviral therapy (ART) for ≥1 year (except for brief periods \\[less than 30 days\\] where all ART was stopped due t",
+      "endpoints": [
+        "Number of Participants With Plasma HIV-1 Ribonucleic Acid (RNA) Greater Than or Equal to (≥)50 Copies/Millilitre (c/mL) per Snapshot Algorithm at Week 48"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT05911360"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002168",
+      "title": "An Open Label, Randomized, Comparative Study of Zerit (d4T) + Videx (ddI) + Crixivan Versus Retrovir (AZT) + Epivir (3TC) + Crixivan in HIV-Infected, Antiretroviral Naive Subjects With CD4 Cell Counts of 200 - 700/mm3 and HIV RNA Baseline Copy Number of >= 10,000 Copies/ml",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Puerto Rico, United States",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to compare the safety and effectiveness of two anti-HIV drug combinations when given to HIV-infected patients who have never been treated with anti-HIV drugs. One drug combination is stavudine (d4T) plus didanosine (ddI) plus Crixivan. The other combination is Retrovir (AZT) plus Epivir (3TC) plus Crixivan.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* Documented HIV infection.\n* CD4 cell count of 200 - 700 cells/mm3.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with the following symptoms or conditions are excluded:\n\nAIDS defining condition within 1 month of study entry.\n\nPrior Medication:\n\nExcl",
+      "endpoints": [],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00002168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00197613",
+      "title": "The Adult Antiretroviral Treatment and Resistance Study (Tshepo)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2007-12",
+      "country": "Botswana",
+      "enrollment": 650,
+      "brief_summary": "The \"Adult Antiretroviral Treatment and Resistance Study,\" hereafter referred to as \"The Tshepo Study,\" is the first large-scale research study of antiretroviral therapy to treat AIDS and HIV infection in Botswana. The Tshepo Study is an open-label, randomized study comparing: (1) the rate of development and specific types of drug resistance mutations with various antiretroviral combination therapies to HIV-1C, the subtype of HIV found in southern Africa, and (2) the short and long-term effectiv",
+      "eligibility_criteria": "Inclusion Criteria:(1) HIV infection indicated by (a) positive ELISA in two separate blood samples, the second no more than eight weeks prior to randomization), (b) CD4 cell count of less than 200 cells/ml OR CD4 cell count between 201-350 with plasma HIV-1 RNA level of greater than 55,000 copies/ml",
+      "endpoints": [
+        "Time to Virological failure, time to grade 3 or higher toxicity."
+      ],
+      "sponsor": "Harvard School of Public Health (HSPH)",
+      "url": "https://clinicaltrials.gov/study/NCT00197613"
+    }
+  ],
+  "timestamp": "2026-03-04T16:22:02.392073",
+  "success": true,
+  "error_message": null
+}

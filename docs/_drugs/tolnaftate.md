@@ -6,7 +6,7 @@ drug_name: "Tolnaftate"
 kg_predictions: 112
 dl_predictions: 51
 evidence_level: "L1"
-indication_count: 112
+indication_count: 5
 brands: []
 permalink: /drugs/tolnaftate/
 ---

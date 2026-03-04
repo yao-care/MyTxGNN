@@ -1,0 +1,606 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ceftazidime",
+    "disease": "streptococcal pneumonia",
+    "query_string": "Ceftazidime AND streptococcal pneumonia"
+  },
+  "data": {
+    "query": "Ceftazidime AND streptococcal pneumonia",
+    "results": [
+      {
+        "pmid": "33762510",
+        "title": "Long-term deep sedation using Zoletil and haloperidol for the treatment of streptococcal pneumonia in an orangutan (Pongo pygmaeus).",
+        "abstract": "A 13-year-old Bornean orangutan diagnosed with life threatening Streptococcus pyogenes broncho-pneumonia was kept in a state of deep sedation for 20 days via continuous intra-venous (IV) infusion of zolazepam -tiletamine and IV haloperidol to allow consistent IV administration of ceftazidime and gatifloxacine. The use of long-term deep sedation allowed carrying out a particularly demanding treatment not generally associated with zoological patients. The treatment was ultimately successful.",
+        "journal": "The Journal of veterinary medical science",
+        "year": "2021",
+        "authors": [
+          "Martelli Paolo",
+          "Oh Serena"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Deep Sedation",
+          "Drug Combinations",
+          "Haloperidol",
+          "Pneumonia",
+          "Pongo",
+          "Pongo pygmaeus",
+          "Tiletamine",
+          "Zolazepam"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33762510/"
+      },
+      {
+        "pmid": "9570172",
+        "title": "Bacteremic pneumonia in neutropenic patients with cancer: causes, empirical antibiotic therapy, and outcome.",
+        "abstract": "Bacteremic pneumonia is a major cause of death among neutropenic patients with cancer.",
+        "journal": "Archives of internal medicine",
+        "year": "1998",
+        "authors": [
+          "Carratalà J",
+          "Rosón B",
+          "Fernández-Sevilla A",
+          "Alcaide F",
+          "Gudiol F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bacteremia",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Female",
+          "Humans",
+          "Imipenem",
+          "Male",
+          "Middle Aged",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9570172/"
+      },
+      {
+        "pmid": "12168746",
+        "title": "Bacteriological evidence of antibiotic failure in pneumococcal lower respiratory tract infections.",
+        "abstract": "The global pandemic of antimicrobial resistance, particularly in the pneumococcus, has had a major impact on the management of community-acquired pneumonia. A number of prospective and retrospective studies have analysed the impact of penicillin resistance on clinical outcome in pneumonia. Pharmacodynamic principles predicting success when the antibiotic dose exceeds the minimum inhibitory concentration (MIC) for 40-50% of the dosing interval have proved remarkably accurate. There is no evidence of bacteriological failure of penicillins active against resistant strains. There is a single report of the failure of the less active agent, ticarcillin. High dose oral and intravenous amoxicillin should treat strains with MICs < or = 4 microg x mL(-1), as should high doses of intravenous penicillin, ceftriaxone and cefotaxime. Strains of pneumococci resistant to these agents at an MIC > or = 8 microg x mL(-1) are rare at the present time. Most other cephalosporins are less active and should n",
+        "journal": "The European respiratory journal. Supplement",
+        "year": "2002",
+        "authors": [
+          "Klugman K P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Dose-Response Relationship, Drug",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Pneumococcal Infections",
+          "Respiratory Tract Infections",
+          "Streptococcus pneumoniae",
+          "Treatment Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12168746/"
+      },
+      {
+        "pmid": "3523458",
+        "title": "Treatment of bacterial meningitis with ceftazidime.",
+        "abstract": "Ceftazidime was prospectively evaluated in the treatment of bacterial meningitis in 19 pediatric patients. Haemophilus influenzae type b (HIB) was the etiologic agent in 17 patients, and Streptococcus pneumonia and Neisseria meningitidis were the etiologic agents in one patient each. Ceftazidime was administered intravenously in a dosage of 150 mg/kg/day divided into eight hourly doses for a mean of 15 days (range, 14 to 22 days) for H. influenzae type b meningitis. The clinical and microbiologic response was appropriate in all cases. The mean ceftazidime CSF concentration was 6.7 micrograms/ml at approximately 2 hours following iv infusions. This concentration was 16- to greater than 100-fold the minimal bactericidal concentration determined for the isolated pathogens. These preliminary observations support ceftazidime as a candidate cephalosporin for the treatment of bacterial meningitis caused by H. influenzae. Additional study is required to further define its role in meningitis ca",
+        "journal": "Pediatric infectious disease",
+        "year": "1986",
+        "authors": [
+          "Hatch D",
+          "Overturf G D",
+          "Kovacs A",
+          "Forthal D",
+          "Leong C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ceftazidime",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Meningitis",
+          "Meningitis, Haemophilus",
+          "Meningitis, Meningococcal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3523458/"
+      },
+      {
+        "pmid": "17673974",
+        "title": "Direct examination and cultures of bronchoalveolar lavage in pneumonia diagnosis: a comparative experimental study.",
+        "abstract": "To assess the accuracy of direct examination and quantitative cultures of BAL to diagnose pneumonia with or without antibiotic treatment.",
+        "journal": "Intensive care medicine",
+        "year": "2007",
+        "authors": [
+          "Brandão da Silva Nilton",
+          "Martins Lucas",
+          "Martins Frederico",
+          "Anflor José",
+          "Tonietto Tiago"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacteriological Techniques",
+          "Bronchoalveolar Lavage Fluid",
+          "Colony Count, Microbial",
+          "Lung",
+          "Pneumonia, Bacterial",
+          "Pneumonia, Pneumococcal",
+          "Pseudomonas Infections",
+          "Pseudomonas aeruginosa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17673974/"
+      },
+      {
+        "pmid": "28325626",
+        "title": "Group B streptococcal necrotizing pneumonia in a diabetic adult patient.",
+        "abstract": "The aim of this report is to describe a rare case of necrotizing pneumonia due to group B Streptococcus serotype III in a relatively young male adult (48 years old) suffering from diabetes. The organism was isolated from his pleural fluid and was only resistant to tetracycline. The patient first received ceftazidime (2g/8h i.v.)+clindamycin (300mg/8h) for 18 days and then he was discharged home and orally treated with amoxicillin clavulanic acid (1g/12h) for 23 days with an uneventful evolution. As in the cases of invasive infection by Streptococcus pyogenes, clindamycin could prevent streptococcal toxic shock syndrome.",
+        "journal": "Revista Argentina de microbiologia",
+        "year": "2017",
+        "authors": [
+          "Pacha Andrea",
+          "Luna Cian Ramiro",
+          "Bonofiglio Laura",
+          "Solari Melisa",
+          "Strada Virginia"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Clindamycin",
+          "Diabetes Complications",
+          "Diabetes Mellitus",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pneumonia, Necrotizing",
+          "Streptococcal Infections",
+          "Streptococcus pyogenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28325626/"
+      },
+      {
+        "pmid": "30997479",
+        "title": "Empiric Meropenem-based versus Ceftazidime-based Therapy for Severe Community-Acquired Pneumonia in a Retrospective Cohort Study.",
+        "abstract": "",
+        "journal": "Annals of the Academy of Medicine, Singapore",
+        "year": "2019",
+        "authors": [
+          "Chua Nathalie Grace",
+          "Liew Yi Xin",
+          "Lee Winnie",
+          "Tang Sarah S",
+          "Zhou Yvonne P"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Ceftazidime",
+          "Cohort Studies",
+          "Community-Acquired Infections",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Klebsiella Infections",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30997479/"
+      },
+      {
+        "pmid": "25030241",
+        "title": "Risk factors, microbial profiles and prognosis of microbial keratitis-associated endophthalmitis in high-risk eyes.",
+        "abstract": "Microbial keratitis (MK) is a sight-threatening emergency. Delayed diagnosis and treatment may exacerbate the condition and infection may spread to the posterior segment with resultant endophthalmitis. We describe the presentation, management, visual outcomes and microbial profiles of MK-associated endophthalmitis presenting to a tertiary referral centre.",
+        "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+        "year": "2014",
+        "authors": [
+          "O'Neill Evelyn C",
+          "Yeoh Jonathan",
+          "Fabinyi David C A",
+          "Cassidy Dermot",
+          "Vajpayee Rasik B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Australia",
+          "Bacteria",
+          "Ceftazidime",
+          "Corneal Ulcer",
+          "Endophthalmitis",
+          "Eye Enucleation",
+          "Eye Evisceration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25030241/"
+      },
+      {
+        "pmid": "8604171",
+        "title": "Bacteremia with Streptococcus pneumoniae. Implications for therapy and prevention. Franklin County Pneumonia Study Group.",
+        "abstract": "To determine the incidence and mortality rates of patients with bacteremic infections with Streptococcus pneumoniae, and to determine the serotypes and antimicrobial susceptibilities of the pneumococcal isolates.",
+        "journal": "JAMA",
+        "year": "1996",
+        "authors": [
+          "Plouffe J F",
+          "Breiman R F",
+          "Facklam R R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Distribution",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Bacterial Vaccines",
+          "Drug Resistance, Microbial",
+          "Drug Utilization",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8604171/"
+      },
+      {
+        "pmid": "24693373",
+        "title": "Serotype distribution and antibiotics susceptibility pattern of Streptococcus pneumonia in Iran.",
+        "abstract": "The development of antibiotic resistance among Streptococcus pneumoniae strains has caused significant health problems worldwide.",
+        "journal": "Iranian Red Crescent medical journal",
+        "year": "2013",
+        "authors": [
+          "Habibian Samira",
+          "Mehrabi-Tavana Ali",
+          "Ahmadi Zyanab",
+          "Izadi Morteza",
+          "Jonaidi Nematolah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24693373/"
+      },
+      {
+        "pmid": "2686416",
+        "title": "Randomized, double-blind comparative study of intravenous ciprofloxacin versus ceftazidime in the treatment of serious infections.",
+        "abstract": "We compared intravenously administered ciprofloxacin with ceftazidime in a randomized, double-blind study. Patients received ciprofloxacin 200 mg intravenously every 12 hours or ceftazidime 2 g intravenously every eight hours, with placebo infusions to maintain blinding. Therapy with metronidazole was added for suspected or documented intra-abdominal infection. Thirty-two of the 57 ciprofloxacin-treated patients were evaluable for determination of efficacy and had 41 bacterial isolates from 34 sites. Thirty-six of the 56 ceftazidime patients were evaluable for determination of efficacy and had 41 bacterial isolates from 38 sites. Seven of 35 bacteremic patients had no identifiable primary focus. The most commonly isolated pathogens were Escherichia coli, Streptococcus pneumoniae, Staphylococcus aureus, and Klebsiella pneumoniae. Cure rates and bacteriologic eradication rates were comparable. Nine patients did not improve. Patients with treatment failures in the ciprofloxacin group incl",
+        "journal": "The American journal of medicine",
+        "year": "1989",
+        "authors": [
+          "Levine D P",
+          "McNeil P",
+          "Lerner S A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Ceftazidime",
+          "Ciprofloxacin",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Infusions, Intravenous",
+          "Male",
+          "Middle Aged",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2686416/"
+      },
+      {
+        "pmid": "22954752",
+        "title": "Clinical and microbiological epidemiology of Streptococcus pneumoniae bacteremia in cancer patients.",
+        "abstract": "In the current era of changing epidemiology of invasive pneumococcal disease, we aimed to assess the clinical features, antimicrobial susceptibility, vaccination status, serotypes, genotypes and outcomes of pneumococcal bacteremia in cancer patients.",
+        "journal": "The Journal of infection",
+        "year": "2012",
+        "authors": [
+          "Garcia-Vidal Carolina",
+          "Ardanuy Carmen",
+          "Gudiol Carlota",
+          "Cuervo Guillermo",
+          "Calatayud Laura"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Female",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22954752/"
+      },
+      {
+        "pmid": "12718810",
+        "title": "Bacteremic pneumococcal infections in immunocompromised patients without AIDS: the impact of beta-lactam resistance on mortality.",
+        "abstract": "Streptococcus pneumoniae is the leading cause of community-acquired pneumonia in the elderly, and in recent years it has arisen as an important pathogen in HIV-infected patients. However, there is a scarcity of information on clinical and therapeutic problems associated with pneumococcal infections in other immuno-compromised patients. The objective of this study was to assess the most relevant epidemiologic aspects, clinical features and prognostic factors of pneumococcal bacteremia in immunocompromised hosts without AIDS.",
+        "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "year": "2003",
+        "authors": [
+          "Fernández Guerrero Manuel L",
+          "Ramos Jose M",
+          "Marrero Jorge",
+          "Cuenca Manuel",
+          "Fernández Roblas Ricardo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Drug Resistance, Multiple, Bacterial",
+          "Female",
+          "Humans",
+          "Immunocompromised Host",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12718810/"
+      },
+      {
+        "pmid": "6352661",
+        "title": "A multicentre prospective randomized trial comparing ceftazidime with cefazolin/tobramycin in the treatment of hospitalized patients with non-pneumococcal pneumonia.",
+        "abstract": "A multicentre prospective randomized control trial was done to compare the efficacy and toxicity of ceftazidime with that of cefazolin/tobramycin in the treatment of hospitalized patients with non-pneumococcal pneumonia. The results for 50 patients are reported in this paper; 24 in the ceftazidime group and 26 in the cefazolin/tobramycin group. Measurements of clinical response show no differences between the two groups: the same is true for bacteriological response. Minimal toxicity was seen with both treatment groups. The results support the use of ceftazidime as single-drug treatment of hospitalized patients with pneumonia.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Mandell L A",
+          "Nicolle L E",
+          "Ronald A R",
+          "Duperval R",
+          "Robson H G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Bacterial Infections",
+          "Cefazolin",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Hospitalization",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6352661/"
+      },
+      {
+        "pmid": "7494576",
+        "title": "Drug-resistant Streptococcus pneumoniae.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1996",
+        "authors": [
+          "Clynes N E"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Ceftazidime",
+          "Cephalosporins",
+          "Community-Acquired Infections",
+          "Pneumococcal Infections",
+          "Pneumonia, Bacterial",
+          "Streptococcus pneumoniae",
+          "beta-Lactam Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7494576/"
+      },
+      {
+        "pmid": "16778466",
+        "title": "Microbial pathogens of adult community-acquired pneumonia in Southern Estonia.",
+        "abstract": "Prospective analysis of the etiology of community-acquired pneumonia in 209 inpatients (mean age 56.2+/-11.2 years) was performed at the Lung Hospital of Tartu University, Estonia. Majority of the patients (87.6%) had at least one significant modifying or risk factor and 30.6% had severe community-acquired pneumonia. Streptococcus pneumoniae, beta-hemolytic streptococci, Klebsiella pneumoniae, and Moraxella catarrhalis were the most frequent pathogens (22.0, 12.2, 11.4, and 10.2%, respectively). Combined etiology was detected in 17.2%. Gram-negative pathogens prevailed over gram-positives and were significantly more frequent in patients aged > or =60 years (p=0.002) as in those with underlying diseases (p=0.01). An age of > or =60 years and previous antibacterial therapy were significant risk factors for Klebsiella pneumoniae as a pathogen (p=0.005 and p=0.002, respectively). Susceptibility of Streptococcus pneumoniae to penicillin, erythromycin, and doxycycline was 79.5, 90.2, and 100",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2006",
+        "authors": [
+          "Leesik Helle",
+          "Ani Ulle",
+          "Juhani Anneli",
+          "Altraja Alan"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Community-Acquired Infections",
+          "Data Interpretation, Statistical",
+          "Drug Resistance, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16778466/"
+      },
+      {
+        "pmid": "8452361",
+        "title": "In vitro and in vivo antibacterial activities of FK037, a novel parenteral broad-spectrum cephalosporin.",
+        "abstract": "FK037, a new parenteral cephalosporin, is an oxime-type cephem antibiotic with a 1-hydroxyethyl-5-amino-pyrazole moiety at the 3 position. FK037 was evaluated for antimicrobial activity in vitro and in vivo. In vitro, FK037 was twofold or more active than ceftazidime, cefoperazone, cefotaxime, and ceftriaxone against Pseudomonas aeruginosa (MIC for 90% of the strains [MIC90] = 32 micrograms/ml), members of the family Enterobacteriaceae (MIC90 < or = 2 micrograms/ml), group A streptococci (MIC90 = 0.015 microgram/ml), and methicillin-sensitive or -resistant coagulase-negative staphylococci (MIC90 = 2 and 16 micrograms/ml, respectively). In addition, the activity of FK037 was equal to or greater than that of ceftazidime, cefotaxime, or ceftriaxone against Streptococcus pneumoniae (MIC90 = 0.12 microgram/ml) and methicillin-sensitive or -resistant Staphylococcus aureus (MIC90 = 2 and 16 micrograms/ml, respectively). FK037 was more active in vitro than cefepime (two- to fourfold) and cefpi",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1993",
+        "authors": [
+          "Fu K P",
+          "Foleno B D",
+          "Lafredo S C",
+          "LoCoco J M",
+          "Isaacson D M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bacteria",
+          "Bacterial Infections",
+          "Ceftizoxime",
+          "Enterobacteriaceae Infections",
+          "Female",
+          "Male",
+          "Methicillin Resistance",
+          "Mice",
+          "Mice, Inbred Strains"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8452361/"
+      },
+      {
+        "pmid": "14616683",
+        "title": "Rhabdomyolysis as a result of Streptococcus pneumoniae: report of a case and review.",
+        "abstract": "We report the case of a patient who presented with RM associated with bacteremic pneumococcal pneumonia and review the literature on this condition.",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2003",
+        "authors": [
+          "Blanco J R",
+          "Zabalza M",
+          "Salcedo J",
+          "San Román J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Cefotaxime",
+          "Ceftazidime",
+          "Female",
+          "Humans",
+          "Pneumonia, Pneumococcal",
+          "Rhabdomyolysis",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14616683/"
+      },
+      {
+        "pmid": "19803006",
+        "title": "Ceftazidime in Gram-negative infections: three case reports.",
+        "abstract": "Three patients with serious infections due to Gram-negative bacilli were treated with ceftazidime: a 52-year-old woman with Enterobacter cloacae meningitis, a 33-year-old woman with post-traumatic Pseudomonas aeruginosa mediastinitis and a 68-year-old man with myelomatosis and Ps. aeruginosa pneumonia. In all three cases the use of ceftazidime, in combination with gentamicin, resulted in clinical improvement associated with rapid clearing of the organism from infected sites. No haematological or biochemical abnormality attributable to ceftazidime was detected.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1981",
+        "authors": [
+          "Wardle J K",
+          "Selkon J B",
+          "Ingham H R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Ceftazidime",
+          "Chloramphenicol",
+          "Fatal Outcome",
+          "Female",
+          "Gentamicins",
+          "Gram-Negative Bacterial Infections",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19803006/"
+      },
+      {
+        "pmid": "9114139",
+        "title": "Treatment of penicillin-resistant pneumococcal bacteremia in neutropenic patients with cancer.",
+        "abstract": "We identified 17 cases of pneumococcal bacteremia among 340 neutropenic cancer patients with bacteremia. Pneumonia was more frequent in patients with pneumococcal bacteremia than in those with bacteremia due to other organisms: 12 (71%) of 17 patients with pneumococcal bacteremia had pneumonia, whereas only 23 (7%) of 323 patients with nonpneumococcal bacteremia had pneumonia (P < .001). Eight (47%) of the 17 episodes of pneumococcal bacteremia were caused by penicillin-resistant strains (MICs ranged from 0.12 microg/mL to 4 microg/mL); these penicillin-resistant pneumococci showed varying degrees of diminished susceptibility to all beta-lactams studied, especially ceftazidime (MICs of this drug ranged from 1 microg/mL to 64 microg/mL). Imipenem was the beta-lactam agent most active against these organisms (MICs ranged from 0.03 microg/mL to 0.25 microg/mL). Patients with penicillin-resistant pneumococcal bacteremia received inappropriate empirical antibiotic therapy more often than di",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1997",
+        "authors": [
+          "Carratalà J",
+          "Marron A",
+          "Fernández-Sevilla A",
+          "Liñares J",
+          "Gudiol F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Female",
+          "Humans",
+          "Lactams",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9114139/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:01:09.331537",
+  "success": true,
+  "error_message": null
+}

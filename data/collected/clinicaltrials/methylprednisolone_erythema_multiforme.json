@@ -1,0 +1,269 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "erythema multiforme"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02950025",
+      "title": "A Randomized Controlled Phase II Study of Daily Online Adaptation Versus Localization for MRI-Guided SBRT for Unresectable Primary or Oligometastatic Abdominal Malignancies",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2017-01-19",
+      "completion_date": "2018-03-19",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "In light of this new technology and preliminary findings of low toxicity of online, adaptive, magnetic resonance (M)-guided stereotactic radiation on a single arm prospective study, the investigators propose to compare this technique to online MR-guided stereotactic body radiation therapy (SBRT) without adaptation. Online plan adaptation increases treatment times for patients and comprises an increased burden on technical and clinical staff. Although preliminary trial results are encouraging, it",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Oligometastatic disease or unresectable primary abdominal malignancy with biopsy-proven primary disease histology of solid tumor categorization. Patients with a diagnosis of hepatocellular carcinoma do not require a biopsy.\n* No more than three progressive sites of disease, wi",
+      "endpoints": [
+        "Number of Grade 3 or Greater Toxicity Occurring in Patients Receiving Online, Adaptive, MRI-guided SBRT to the Abdomen and in Patients Receiving Non-adaptive SBRT"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02950025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00675545",
+      "title": "A Phase II Study of Docetaxel Plus Carboplatin in Chemonaive Hormone-Refractory Prostate Cancer (HRPC) Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-05",
+      "country": "Singapore",
+      "enrollment": 2,
+      "brief_summary": "The primary objective is to determine the efficacy of docetaxel plus carboplatin as first line treatment in patients with hormone refractory prostate cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed adenocarcinoma of the prostate.\n2. At the time of enrollment, patients must have evidence of metastatic disease, with either measurable disease per RECIST criteria or non- measurable disease (i.e. positive bones scan) and PSA \\> 5 ng/mm3.\n3. Disease p",
+      "endpoints": [
+        "efficacy of docetaxel plus carboplatin"
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT00675545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00485303",
+      "title": "A Phase II Open Label Study of CB7630 (Abiraterone Acetate) and Prednisone in Patients With Advanced Prostate Cancer Who Have Failed Androgen Deprivation and Docetaxel-Based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2011-10",
+      "country": "United Kingdom, United States",
+      "enrollment": 58,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of abiraterone acetate in participants with advanced prostate cancer (a disease in which cells in the prostate gland become abnormal and start to grow uncontrollably, forming tumors).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma (malignant epithelial tumor with a glandular organization)of the prostate (a gland in the male reproductive system found below the bladder and in front of the rectum), but not with neuroendocrine (specialized neurons tha",
+      "endpoints": [
+        "Percentage of Participants With Prostate Specific Antigen (PSA) Response"
+      ],
+      "sponsor": "Cougar Biotechnology, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00485303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05927272",
+      "title": "Deciphering the Vitiligo Transcriptomic Signature Between Repigmented and Non Repigmented Lesions",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-04-10",
+      "completion_date": "2025-10-09",
+      "country": "France",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to perform an in-depth analysis of the molecular pathways involved in lesions responding to current treatment and lesions not responding to current treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject: male or female aged ≥ 18 years and ≤ 65 years\n* Diagnosis of non-segmental (symmetrical) vitiligo with a body surface area involved \\>5% excluding hands and feet, with lesions located on arms\n* Active non-segmental vitiligo is defined by:\n\n  * Non-segmental vitiligo w",
+      "endpoints": [
+        "Evaluate the evolution of skin biological pathways, assessed by single cell RNAseq in the peri-lesional and lesional skin of a target lesion"
+      ],
+      "sponsor": "University Hospital, Bordeaux",
+      "url": "https://clinicaltrials.gov/study/NCT05927272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01795703",
+      "title": "A Phase II Study of JNJ-212082 (Abiraterone Acetate) in Metastatic Castration-Resistant Prostate Cancer Patients Who Have Received Docetaxel-based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2014-10",
+      "country": "Japan",
+      "enrollment": 47,
+      "brief_summary": "The purpose of this study is to investigate the safety and efficacy of abiraterone in participants with metastatic castration-resistant prostate cancer (mCRPC) who have received docetaxel-based chemotherapy (treatment of disease, usually cancer, by chemical agents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In-patients or out-patients with histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell histology\n* Have surgically or medically castrated, with testosterone levels of less than 50 nanogram per deciliter\n* ",
+      "endpoints": [
+        "Percentage of Participants Achieving Prostate Specific Antigen (PSA) Response at Week 12"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01795703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01756638",
+      "title": "A Phase II Study of JNJ-212082 (Abiraterone Acetate) in Metastatic Castration Resistant Prostate Cancer Patients Who Are Chemotherapy-Naïve",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06-06",
+      "completion_date": "2014-10-17",
+      "country": "Japan",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study is to investigate safety and efficacy of abiraterone in participants with metastatic castration-resistant prostate cancer (mCRPC) and who have not received prior chemotherapy (treatment of disease, usually cancer, by chemical agents).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In-patients or out-patients with histologically or cytologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell histology\n* Have surgically or medically castrated, with testosterone levels of less than 50 nanogram per deciliter\n* ",
+      "endpoints": [
+        "Percentage of participants achieving Prostate-Specific Antigen (PSA) response up to 12 weeks"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01756638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01685983",
+      "title": "A Phase 2 Open Label Study of Abiraterone Acetate (JNJ-212082) and Prednisolone in Patients With Advanced Prostate Cancer Who Have Failed Androgen Deprivation and Docetaxel-Based Chemotherapy.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-08-30",
+      "completion_date": "2018-03-06",
+      "country": "Taiwan, South Korea",
+      "enrollment": 82,
+      "brief_summary": "The purpose of this study is to assess the safety and efficacy in Korea or Taiwan of oral abiraterone acetate and oral prednisolone in men with metastatic-castration resistant prostate cancer (mCRPC) and with disease progression following treatment with a docetaxel-containing chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate (stage IV)\n* Has documented Prostate Specific Antigen (PSA) progression according to protocol-specific prostate specific antigen working group (PSAWG) eligibility criteria\n* Has undergone prior chemothera",
+      "endpoints": [
+        "Percentage of Participants With Prostate-specific Antigen (PSA) Response"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01685983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00577993",
+      "title": "Fludarabine, Mitoxantrone, and Dexamethasone (FND) Plus Chimeric Anti-CD20 Monoclonal Antibody (Rituximab) for Stage IV Indolent Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-03-16",
+      "completion_date": "2017-08-24",
+      "country": "United States",
+      "enrollment": 210,
+      "brief_summary": "The goal of this clinical research study is to compare chemotherapy given with rituximab to chemotherapy followed by rituximab. The safety of both treatment schedules will be studied. Laboratory tests of genetic changes in blood and bone marrow before and during the study will also be monitored.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Previously untreated stage IV indolent B-cell lymphoma \\[Amendment May 2001: eligibility restricted to follicular lymphoma\\]\n2. Age \\<76\n\nExclusion Criteria:\n\nN/A",
+      "endpoints": [
+        "Number of Participants With Overall Survival (10 Years) by Treatment"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00577993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04843059",
+      "title": "ERASE VITILIGO Early Repigmentation Approach for Stopping the Evolution of VITILIGO Prospective Multicentric Interventional Study With Blinded Evaluation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-06-01",
+      "completion_date": "2025-08-18",
+      "country": "France",
+      "enrollment": 51,
+      "brief_summary": "Vitiligo affects 1 to 2% of worldwide population and has a demonstrated impact on the quality of life.\n\nOptimal treatment of vitiligo requires to target the auto-immune inflammatory response (to halt the depigmentation process), in particular T cells, but also to induce the differentiation of melanocyte stem cells (to induce repigmentation). Ultimately, the treatment should also prevent the recurrences of depigmentation. Indeed, when repigmentation is achieved, 40 to 50% of lesions reoccur withi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients with non-segmental vitiligo. 3 groups of patients will be selected:\n* Patients with a long-lasting disease (more than 2 years) and no new or growing lesion since at least 2 years\n* Patients with a long-lasting disease (more than 2 years) and with at least one new ",
+      "endpoints": [
+        "The percentage of resident memory T-cells (ratio memory T cells (CD4+CD69++ and CD8+CD69+)/Total CD4+ and CD8+ *100), assessed by cytometric analysis, in the perilesional skin of the target lesion."
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT04843059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00638690",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Abiraterone Acetate (CB7630) Plus Prednisone in Patients With Metastatic Castration-Resistant Prostate Cancer Who Have Failed Docetaxel-Based Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2012-10",
+      "country": "France, Spain, Austria, Hungary, Germany, Australia, Ireland, Netherlands, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 1195,
+      "brief_summary": "This is a phase 3 study to compare the clinical benefit of abiraterone acetate plus prednisone with placebo plus prednisone in patients with metastatic castration-resistant prostate cancer (CRPC) who have failed one or two chemotherapy regimens. At least one of the previous chemotherapies must have contained docetaxel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Metastatic Castration-Resistant Prostate Cancer Progression after one or two prior cytotoxic chemotherapies\n* At least one chemotherapy must have contained docetaxel\n* Eastern Cooperative Oncology Group (ECOG) Performance Status \\<= 2\n* Medical or surgical castration with test",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Cougar Biotechnology, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00638690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06266221",
+      "title": "Severe Erythema Multiforme: A Randomized Controlled Trial Comparing a Short Systemic Corticosteroids Regimen to Placebo in the Acute Established Phase",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-05-01",
+      "completion_date": "2027-11-01",
+      "country": "N/A",
+      "enrollment": 96,
+      "brief_summary": "Erythema multiforme (EM) is an acute and often recurrent mucocutaneous disease. EM is considered a hypersensitivity immune-mediated reaction. The two main known triggering factors are Herpes simplex virus (HSV) and Mycoplasma pneumoniae (MP) infections. Typical target skin lesions characterize EM, especially oral MMs. EM is in fact mainly linked to the oral MM involvement, including intense mucosal pain, impaired food intake, weight loss, hospitalization and potential risk of fibrotic sequelae (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 15 years old and 30 kg ≤ Weight ≤ 150 kg\n* Clinical diagnosis of severe EM defined as:\n\n  * Typical skin lesions if first flare of EM: raised target lesions with 2 or 3 concentric rings located on the extremities or disseminated. In case of recurrent EM, with proven ante",
+      "endpoints": [
+        "Time to success",
+        "Evaluation of Pain",
+        "Food intake"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT06266221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01381874",
+      "title": "Randomized, Open-Label Study of Abiraterone Acetate (JNJ-212082) Plus Prednisone With or Without Exemestane in Postmenopausal Women With ER+ Metastatic Breast Cancer Progressing After Letrozole or Anastrozole Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-08-24",
+      "completion_date": "2018-08-08",
+      "country": "South Korea, France, Spain, Russia, Ukraine, Ireland, United Kingdom, Netherlands, Poland, Luxembourg, Belgium, United States",
+      "enrollment": 297,
+      "brief_summary": "The purpose of this study is to assess the safety and efficacy of oral abiraterone acetate plus oral prednisone and oral abiraterone acetate plus oral prednisone plus oral exemestane, each compared with oral exemestane alone, in postmenopausal women with estrogen receptor-positive (ER+) metastatic (spreading) breast cancer that has relapsed after treatment with letrozole or anastrozole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients must be postmenopausal\n* ER+, Human epidermal growth factor receptor 2 (Her2) negative metastatic breast cancer\n* Disease must have been sensitive to anastrozole or letrozole therapy prior to disease progression\n* No more than two prior lines of therapy in the ",
+      "endpoints": [
+        "Progression-Free Survival (PFS)",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01381874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06119490",
+      "title": "Evaluation of the Efficacy and Safety of Methylprednisolone Combined With the JAK Inhibitors in the Treatment of Toxic Epidermal Necrolysis: Two-arm, Open, Single-center Study",
+      "phase": "EARLY_PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2023-07-05",
+      "completion_date": "2026-09",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "To evaluate the efficacy and safety of methylprednisolone combined with the JAK inhibitor abxitinib and tofacitinib in the treatment of toxic epidermal necrolysis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 and above.\n2. Diagnosed with SJS/TEN according to the Registry of Severe Cutaneous Adverse Reactions (RegiSCAR) criteria.\n3. Liver and kidney function is within acceptable ranges.\n4. Blood parameters, including complete blood count, coagulation function, and platelet c",
+      "endpoints": [
+        "Time to Reepithelization"
+      ],
+      "sponsor": "Fujian Provincial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06119490"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01485861",
+      "title": "A Phase Ib/II Study of Ipatasertib (GDC-0068) or Apitolisib (GDC-0980) With Abiraterone Acetate Versus Abiraterone Acetate in Patients With Castration-Resistant Prostate Cancer Previously Treated With Docetaxel-Based Chemotherapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-01-11",
+      "completion_date": "2022-08-31",
+      "country": "France, Spain, Czechia, Greece, Italy, United Kingdom, Netherlands, Romania, United States",
+      "enrollment": 298,
+      "brief_summary": "This multicenter, international, Phase Ib/II trial consists of three stages: a Phase Ib, open-label stage in which the recommended Phase II dose was determined for ipataseritib administrated in combination with abiraterone and of apitolisib administrated in combination with abiraterone (this phase is no longer active), a Phase II, 3-arm, double-blind, randomized comparison of ipatasertib with abiraterone and prednisone/prednisolone versus placebo with abiraterone and prednisone/prednisolone and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed metastatic or advanced prostate adenocarcinoma that has been previously treated with docetaxel-based therapy and has progressed during treatment of at least one hormonal therapy(prior docetaxel is not required for the safety cohort)\n* Two rising PSA le",
+      "endpoints": [
+        "Phase Ib: Percentage of Participants With Dose-Limiting Toxicities (DLTs)",
+        "Phase Ib: Percentage of Participants With Adverse Events (AEs)",
+        "Phase Ib: Recommended Phase II Dose (RP2D) of Ipatasertib and Apitolisib"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01485861"
+    }
+  ],
+  "timestamp": "2026-03-04T15:43:20.011117",
+  "success": true,
+  "error_message": null
+}

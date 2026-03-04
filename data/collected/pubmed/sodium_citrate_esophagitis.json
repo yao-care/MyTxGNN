@@ -1,0 +1,477 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "esophagitis",
+    "query_string": "Sodium Citrate AND esophagitis"
+  },
+  "data": {
+    "query": "Sodium Citrate AND esophagitis",
+    "results": [
+      {
+        "pmid": "21712716",
+        "title": "Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology.",
+        "abstract": "This guideline aims to provide an overview of the present knowledge on aspects of perioperative fasting with assessment of the quality of the evidence. A systematic search was conducted in electronic databases to identify trials published between 1950 and late 2009 concerned with preoperative fasting, early resumption of oral intake and the effects of oral carbohydrate mixtures on gastric emptying and postoperative recovery. One study on preoperative fasting which had not been included in previous reviews and a further 13 studies published since the most recent review were identified. The searches also identified 20 potentially relevant studies of oral carbohydrates and 53 on early resumption of oral intake. Publications were classified in terms of their evidence level, scientific validity and clinical relevance. The Scottish Intercollegiate Guidelines Network scoring system for assessing level of evidence and grade of recommendations was used. The key recommendations are that adults a",
+        "journal": "European journal of anaesthesiology",
+        "year": "2011",
+        "authors": [
+          "Smith Ian",
+          "Kranke Peter",
+          "Murat Isabelle",
+          "Smith Andrew",
+          "O'Sullivan Geraldine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbohydrates",
+          "Child",
+          "Fasting",
+          "Humans",
+          "Infant",
+          "Intraoperative Complications",
+          "Preoperative Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21712716/"
+      },
+      {
+        "pmid": "3398901",
+        "title": "Gulper's gullet.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1988",
+        "authors": [
+          "Oriscello R G",
+          "Mahal P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aspirin",
+          "Beverages",
+          "Bicarbonates",
+          "Carbonated Beverages",
+          "Citrates",
+          "Drug Combinations",
+          "Esophageal Diseases",
+          "Esophageal Perforation",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3398901/"
+      },
+      {
+        "pmid": "3013486",
+        "title": "Nuclear medicine and esophageal surgery.",
+        "abstract": "The principal radionuclide procedures involved in the evaluation of esophageal disorders that are amenable to surgery are illustrated and briefly described. The role of the radionuclide esophagogram (RE) in the diagnosis and management of achalasia, oculopharyngeal muscular dystrophy and its complications, tracheoesophageal fistulae, pharyngeal and esophageal diverticulae, gastric transposition, and fundoplication is discussed. Detection of columnar-lined esophagus by Tc-99m pertechnetate imaging and of esophageal carcinoma by Ga-67 citrate and Tc-99m glucoheptonate studies also is presented.",
+        "journal": "Clinical nuclear medicine",
+        "year": "1986",
+        "authors": [
+          "Taillefer R",
+          "Beauchamp G",
+          "Duranceau A C",
+          "Lafontaine E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Barrett Esophagus",
+          "Deglutition Disorders",
+          "Diverticulum, Esophageal",
+          "Esophageal Achalasia",
+          "Esophageal Diseases",
+          "Esophageal Neoplasms",
+          "Esophagus",
+          "Gallium Radioisotopes",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3013486/"
+      },
+      {
+        "pmid": "27732774",
+        "title": "Acute Gastric Injury Caused by Undissolved Sodium Picosulfate/Magnesium Citrate Powder.",
+        "abstract": "Sodium picosulfate/magnesium citrate (SPMC) is a widely used oral bowel cleansing agent considered to be relatively safe. However, partially dissolved or undissolved SPMC powder may cause severe injuries of the esophagus and stomach. We report a very rare case of acute gastric injury without esophageal damage caused by the ingestion of undissolved SPMC powder. A 69-year-old man experienced epigastric pain after swallowing SPMC powder without dissolving it in water in preparation for a screening colonoscopy. He realized his mistake immediately and subsequently drank 2 L of water. The esophagogastroduodenoscopy conducted after 12 hours indicated an acute gastric ulceration without injury of the esophagus or duodenum. The endoscopy conducted after 6 weeks of oral proton pump inhibitor treatment showed healing of the gastric injury. This suggested that drinking large amounts of water after ingesting partially dissolved or undissolved SPMC powder can prevent serious esophageal injury, but o",
+        "journal": "Clinical endoscopy",
+        "year": "2017",
+        "authors": [
+          "Ze Eun Young",
+          "Choi Chang Hwan",
+          "Kim Jeong Wook"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27732774/"
+      },
+      {
+        "pmid": "3322095",
+        "title": "[Prophylaxis and therapy of the acid aspiration syndrome].",
+        "abstract": "The best prevention of the aspiration syndrome begins with early identification of any patient at risk. Reduction of gastric volume and elevation of gastric pH can be achieved by premedication with glycopyrrolate (0.3 mg i.m.) and preoperative administration of H2-receptor antagonists (150 mg ranitidine p.o. 6-8 h and 80 mg i.m./i.v. 60 min before induction). Transportation of stomach contents into the duodenum can further be accelerated by 10 mg metoclopramide i.v. 20-40 min before induction. Metoclopramide will also elevate lower esophageal sphincter tone. Rapid elevation of gastric pH can be achieved by oral administration of 15-30 ml 0.3 mol sodium citrate. Induction of anesthesia should be performed as a \"rapid sequence induction\". Manual compression of the esophagus (Sellick manoever) may prevent gastric regurgitation. In cases of pulmonary aspiration, consequent therapy has to be initiated as soon as possible to limit broncho-alveolar damage. After endotracheal intubation the up",
+        "journal": "Der Anaesthesist",
+        "year": "1987",
+        "authors": [
+          "Ellmauer S"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anesthesia",
+          "Humans",
+          "Pneumonia, Aspiration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3322095/"
+      },
+      {
+        "pmid": "30561588",
+        "title": "Effervescent agents in acute esophageal food impaction.",
+        "abstract": "Acute esophageal food impaction (AEFI) occurs frequently. Few data are published describing the use of effervescent agents (EAs) for treatment of AEFI. We aimed to evaluate the effectiveness, cost, and safety of EAs in the treatment of AEFI. We retrospectively identified patients aged 18 years and older who were seen in the emergency department of 2 hospitals in 1 metropolitan area from January 1, 2011, through April 4, 2016, who had a clinical diagnosis of AEFI. We collected and analyzed data on outcomes and cost associated with the use of EAs, glucagon, and no pharmacologic therapy. During the study period, 239 patients with AEFI met the inclusion criteria. Of the 45 patients who received EA monotherapy, 25 (55.6%) responded successfully, compared with 11 of 62 (17.7%) who received glucagon monotherapy (P < .001) and 16 of 93 (17.2%) who had no therapy (P < .001). Ten of 39 patients (25.6%) who were given both glucagon and EA responded successfully. The other 177 patients had endosco",
+        "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+        "year": "2019",
+        "authors": [
+          "David J",
+          "Backstedt D",
+          "O'Keefe K J",
+          "Salehpour K",
+          "Gerkin R D"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Citrates",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Emergency Service, Hospital",
+          "Esophageal Diseases",
+          "Female",
+          "Food",
+          "Gastrointestinal Agents",
+          "Glucagon"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30561588/"
+      },
+      {
+        "pmid": "24995633",
+        "title": "Design of pH-responsive alginate raft formulation of risedronate for reduced esophageal irritation.",
+        "abstract": "Risedronate sodium (RA), a pyridinyl bisphosphonate, is widely used in the treatment of osteoporosis. However, the free acid form of the bisphosphonate below pH 3.5 has the potential to produce severe impatience of the upper gastrointestinal tract, particularly esophagitis. A pH-responsive raft-forming tablet (PRR-T) was designed to prevent the esophageal irritation, mainly consisting of low-molecular-weight alginate (LFR 5/60, 300 mg) as raft-forming polymer, sodium bicarbonate (1000 mg) as gas-generating agent and citrate and sodium citrate (600 and 200 mg, respectively) as buffer system. A PRR-T was rapidly liquefied in water within 80 s with a low viscosity 8.0 mPa s, offering ease of swallowing in patients. A formulation profoundly neutralized simulated gastric fluid over pH 5.5, leading to an ionization of the bisphosphonate, without raft formation. On the other hand, the raft was rapidly formed on the top layer preventing the reflux of RA, if the contact with acidic medium is mu",
+        "journal": "International journal of biological macromolecules",
+        "year": "2014",
+        "authors": [
+          "Jang Sun Woo",
+          "Lee Jung Woo",
+          "Ryu Dong Sung",
+          "Son Miwon",
+          "Kang Myung Joo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Chemistry, Pharmaceutical",
+          "Drug Design",
+          "Esophagus",
+          "Etidronic Acid",
+          "Glucuronic Acid",
+          "Hexuronic Acids",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Irritants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24995633/"
+      },
+      {
+        "pmid": "10499455",
+        "title": "Onset of action of antisecretory drugs: beneficial effects of a rapid increase in intragastric pH in acid reflux disease.",
+        "abstract": "The majority of patients who have symptomatic acid reflux disease will have a normal oesophageal mucosa or will have only a mild degree of oesophagitis. Treatment to relieve symptoms as they occur may be the best way to manage these patients, to whom the speed of symptom relief is of primary importance. The effervescent complex used to formulate effervescent ranitidine contains sodium bicarbonate and monosodium citrate, and has, therefore, an intrinsic acid-neutralizing capacity in addition to the well-documented antisecretory activity.",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1999",
+        "authors": [
+          "Pipkin G A",
+          "Mills J G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Gastric Acid",
+          "Gastric Mucosa",
+          "Gastroesophageal Reflux",
+          "Heartburn",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Ranitidine",
+          "Stomach",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10499455/"
+      },
+      {
+        "pmid": "33422399",
+        "title": "Alkaline substances gastroesophageal injury in young children: emphasis on Asian food preparation habits.",
+        "abstract": "Ingestion of alkaline substances should not be disregarded because a small amount can cause chemical burns in the esophagus, with esophageal stricture being the most common late complication.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2021",
+        "authors": [
+          "Chen Chin-Chiang",
+          "Chen An-Chyi",
+          "Wu Shu-Fen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Burns, Chemical",
+          "Caustics",
+          "Child",
+          "Child, Preschool",
+          "Esophageal Stenosis",
+          "Female",
+          "Habits",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33422399/"
+      },
+      {
+        "pmid": "20587165",
+        "title": "A spoonful of sugar helps the medicine go down: a novel technique to improve oral gavage in mice.",
+        "abstract": "Oral gavage is a common route of precise oral dosing for studies in rodents. Complications including tracheal administration, esophageal trauma, and aspiration are common and usually related to animal resistance to the procedure, and the stress induced by oral gavage can be a confounding variable in many studies. The taste of sucrose conveys a pacifying and analgesic effect in newborns, whereas sour solutions can induce the swallow reflex in humans that are dysphagic. We hypothesized that precoating a gavage needle with sucrose or citrate (or both) would pacify mice and induce them to swallow, reducing the stress and complications associated with the technique. To validate this hypothesis, we quantitated time to passage, stress-related behavioral reactions to the procedure, and plasma corticosterone levels in mice after precoating gavage needles with water, sucrose, citrate, sucrose and citrate, or sodium chloride prior to oral gavage. Precoating needles with sucrose reduced the time t",
+        "journal": "Journal of the American Association for Laboratory Animal Science : JAALAS",
+        "year": "2010",
+        "authors": [
+          "Hoggatt Amber F",
+          "Hoggatt Jonathan",
+          "Honerlaw Meghan",
+          "Pelus Louis M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Validation Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Analgesics",
+          "Animals",
+          "Citric Acid",
+          "Corticosterone",
+          "Female",
+          "Mice",
+          "Mice, Inbred C57BL",
+          "Stress, Physiological",
+          "Sucrose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20587165/"
+      },
+      {
+        "pmid": "33189262",
+        "title": "Short communication: Effects of different blood buffers administered in electrolyte solution to grain-fed veal calves experiencing diarrhea.",
+        "abstract": "Calf diarrhea can commonly lead to dehydration and metabolic acidosis due to the loss of fluid and electrolytes. The objective of this randomized clinical trial was to examine differences between treating male dairy calves experiencing diarrhea with either a basic bicarbonate electrolyte powder (BBP) composed of sodium bicarbonate (50.7 mmol/L); a mixed buffer powder (MBP) including sodium bicarbonate (33.8 mmol/L), sodium citrate (8.4 mmol/L), sodium acetate (6.3 mmol/L), and potassium citrate (1.9 mmol/L); or a liquid electrolyte (HAL) composed of sodium acetate (50.1 mmol/L). All 3 electrolyte solutions were standardized to provide 50 mmol/L blood buffers and a similarly strong ion difference (74.4, 74.9, and 82.6 mEq/L for BBP, MBP, and HAL, respectively). Holstein male calves (n = 80) were sourced from auction barns or local farms and delivered in 1 batch to the research facility. Calves were housed in individual pens and fed a 24% crude protein and 17% fat calf milk replacer (CMR",
+        "journal": "Journal of dairy science",
+        "year": "2021",
+        "authors": [
+          "Wood D R",
+          "Blome R M",
+          "Ribeiro L C",
+          "Keunen A J",
+          "Keunen B W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animal Feed",
+          "Animals",
+          "Body Weight",
+          "Cattle",
+          "Cattle Diseases",
+          "Diarrhea",
+          "Diet",
+          "Electrolytes",
+          "Feces",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33189262/"
+      },
+      {
+        "pmid": "28660084",
+        "title": "A Case of Thermal Esophageal Injury Induced by Sodium Picosulfate with Magnesium Citrate.",
+        "abstract": "Although thermal esophageal injuries caused by hot food or tea have been reported, thermal esophageal injury due to sodium picosulfate with magnesium citrate (PSMC) used for bowel preparation is rarely reported. We report the case of a 56-year-old man who presented with esophageal injury after ingestion of PSMC. Instead of dissolving the PSMC in water before ingestion, he drank water immediately after swallowing PSMC powder. As soon as he drank water, he developed severe chest pain and hematemesis. Upper endoscopy revealed severe hemorrhagic, ulcerative mucosal change from upper to mid-esophagus. He was hospitalized for nine days, received conservative treatment (fasting and parenteral nutrition), and recovered without complications. When PSMC is used as a colonic cleansing agent, patients should be educated to take it after dissolving it sufficiently in 150 mL of water to avoid esophageal thermal injury.",
+        "journal": "Case reports in gastrointestinal medicine",
+        "year": "2017",
+        "authors": [
+          "Yang Dong-Hyuk",
+          "Bang Byoung Wook",
+          "Kwon Kye Sook",
+          "Kim Hyung Kil",
+          "Shin Yong Woon"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28660084/"
+      },
+      {
+        "pmid": "7086102",
+        "title": "Most patients with active symptomatic duodenal ulcers fail to develop ulcer-type pain in response to gastroduodenal acidification.",
+        "abstract": "The most frequent symptom of duodenal ulcer is epigastric pain. However, the pathogenesis of duodenal ulcer pain is not established, although it is often attributed to duodenal acidification. The purpose of this study was to determine whether or not gastroduodenal acidification with either 400 ml of pH 1 citric acid or pH 0.85 hydrochloric acid resulted in ulcer-type pain in patients with endoscopically documented active symptomatic duodenal ulcer under doubled-blind randomized conditions. Thirteen consecutive male duodenal ulcer patients with daytime and nocturnal epigastric pain were studied before beginning medical therapy; five with citric acid or sodium citrate at pH's 1, 3, and 7, and eight with hydrochloric acid at pH 0.85 and pH 7 sodium citrate. Ten normal subjects served as controls. Four of the five symptomatic duodenal ulcer patients failed to have pain with the pH 1 citric acid, while one developed pain. Five of the eight patients tested with 0.15 mM hydrochloric acid had ",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "1982",
+        "authors": [
+          "Harrison A",
+          "Isenberg J I",
+          "Schapira M",
+          "Hagie L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Citrates",
+          "Citric Acid",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Humans",
+          "Hydrochloric Acid",
+          "Hydrogen-Ion Concentration",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7086102/"
+      },
+      {
+        "pmid": "1907817",
+        "title": "Reliability of capnography in identifying esophageal intubation with carbonated beverage or antacid in the stomach.",
+        "abstract": "To evaluate the reliability of capnography in identifying esophageal intubation in the presence of a carbonated beverage in the stomach, we first investigated the amount of CO2 released from different carbonated beverages and antacids in a simulated stomach; next we measured the end-expired CO2 level during esophageal ventilation with a carbonated beverage in the stomachs of six swine. CO2 levels of approximately 20% were consistently observed in all carbonated beverages. The CO2 levels obtained with sodium bicarbonate, Maalox, and sodium citrate were 19.3%, 2.0%, and 0%, respectively. CO2 waveforms were observed during esophageal ventilation in five of six animals after intragastric administration of a carbonated beverage. An end-expired CO2 level of 2.5% or more was observed in two swine. The highest end-expired CO2 level measured was 5.3%. We conclude that although capnography is convenient and effective, it lacks all the attributes of an ideal monitor for detecting esophageal intub",
+        "journal": "Anesthesia and analgesia",
+        "year": "1991",
+        "authors": [
+          "Sum Ping S T",
+          "Mehta M P",
+          "Symreng T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antacids",
+          "Carbon Dioxide",
+          "Carbonated Beverages",
+          "Esophagus",
+          "Gastrointestinal Contents",
+          "Intubation",
+          "Respiration, Artificial",
+          "Swine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1907817/"
+      },
+      {
+        "pmid": "32042352",
+        "title": "Successful transcatheter aortic valve implantation in a Jehovah's Witness patient with a small aortic root and severe leaflet calcification.",
+        "abstract": "A 69-year-old female Jehovah's Witness was diagnosed with symptomatic severe aortic stenosis (AS). Because the patient, who refused blood transfusion for religious reasons, had multiple comorbidities, such as thrombocytopenia due to liver cirrhosis, esophageal varices, and an old cerebral infarction, a decision to perform transcatheter aortic valve implantation (TAVI) was made. Preprocedural computed tomography showed a small aortic root and severe leaflet calcification, especially at the non-coronary cusp; therefore, the risk of annulus and Valsalva rupture was considered to be high. A 20-mm transcatheter heart valve (Edwards SAPIEN3; Edwards Lifesciences Corporation, Irvine, CA, USA) was successfully implanted using the transfemoral approach. To prevent blood transfusion, erythropoietin and sodium ferrous citrate were prescribed during the periprocedural period. The postprocedural course was uneventful, and the patient was discharged on postoperative day 10. TAVI, which is associated",
+        "journal": "Journal of cardiology cases",
+        "year": "2020",
+        "authors": [
+          "Yoshizaki Toru",
+          "Naganuma Toru",
+          "Nakamura Sunao"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32042352/"
+      },
+      {
+        "pmid": "8626911",
+        "title": "Ferric ammonium citrate-cellulose paste for opacification of the esophageal lumen on MRI.",
+        "abstract": "A new ferric ammonium citrate-cellulose mixture for use in MRI of the esophagus was evaluated for its ability to opacify the esophageal lumen.",
+        "journal": "Journal of computer assisted tomography",
+        "year": "1996",
+        "authors": [
+          "Ogawa Y",
+          "Noda Y",
+          "Morio K",
+          "Nishioka A",
+          "Inomata T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Artifacts",
+          "Carboxymethylcellulose Sodium",
+          "Contrast Media",
+          "Esophageal Neoplasms",
+          "Esophagus",
+          "Ferric Compounds",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Quaternary Ammonium Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8626911/"
+      },
+      {
+        "pmid": "19106513",
+        "title": "[A case of esophageal cancer patient who developed tumor lysis syndrome after chemotherapy].",
+        "abstract": "We report here a case of esophageal cancer patient who developed tumor lysis syndrome after chemotherapy. A 57- year-old man received esophagectomy for advanced esophageal cancer. CT study revealed multiple lymphnode metastases, multiple bone metastases and multiple lung metastases after 15 months from the operation. So, chemotherapy was performed for the patient. Eleven days following the administration of docetaxel: 30 mg/m2 and nedaplatin: 30 mg/m2, the patient developed TLS (serum creatinine: 8.57 mg/dL, uric acid: 11.0 mg/dL, serum potassium: 6.3 mEq/L, serum phosphorus: 7.18 mg/dL). The patient responded well to an appropriate treatment with a combination of vigorous intravenous hydration, carperitide, allpurinol and potassium citrate sodium citrate. This case report describes the first patient to develop TLS following chemotherapy for esophageal cancer.",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2008",
+        "authors": [
+          "Tokunou Kazuhisa",
+          "Takeda Shigeru",
+          "Yoshino Shigefumi",
+          "Nishimura Taku",
+          "Oka Masaaki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Docetaxel",
+          "Esophageal Neoplasms",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Organoplatinum Compounds",
+          "Taxoids",
+          "Tomography, X-Ray Computed",
+          "Tumor Lysis Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19106513/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:25:36.510451",
+  "success": true,
+  "error_message": null
+}

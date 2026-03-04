@@ -1,0 +1,651 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lamivudine",
+    "disease": "HIV infectious disease",
+    "query_string": "Lamivudine AND HIV infectious disease"
+  },
+  "data": {
+    "query": "Lamivudine AND HIV infectious disease",
+    "results": [
+      {
+        "pmid": "37832567",
+        "title": "HIV-1 drug resistance in people on dolutegravir-based antiretroviral therapy: a collaborative cohort analysis.",
+        "abstract": "The widespread use of the integrase strand transfer inhibitor (INSTI) dolutegravir in first-line and second-line antiretroviral therapy (ART) might facilitate emerging resistance. The DTG RESIST study combined data from HIV cohorts to examine patterns of drug resistance mutations (DRMs) and identify risk factors for dolutegravir resistance.",
+        "journal": "The lancet. HIV",
+        "year": "2023",
+        "authors": [
+          "Loosli Tom",
+          "Hossmann Stefanie",
+          "Ingle Suzanne M",
+          "Okhai Hajra",
+          "Kusejko Katharina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "HIV Infections",
+          "HIV-1",
+          "HIV Integrase Inhibitors",
+          "Reverse Transcriptase Inhibitors",
+          "Heterocyclic Compounds, 3-Ring",
+          "Lamivudine",
+          "Cohort Studies",
+          "HIV Seropositivity",
+          "Drug Resistance, Viral"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37832567/"
+      },
+      {
+        "pmid": "24754315",
+        "title": "Dolutegravir, abacavir and lamivudine as HIV therapy.",
+        "abstract": "Antiretroviral therapy has evolved dramatically and more potent, safer and convenient drugs have replaced former compounds. Dolutegravir (DTG) is the most recently approved integrase inhibitor. It displays attractive properties such as one pill once daily (QD) dosing, high barrier to resistance and clean safety profile. Moreover, it is planned to be marketed, co-formulated with abacavir (ABC) and lamivudine (3TC) as a single-tablet regimen (STR). The availability of this QD single pill represents a significant step further for a large number of HIV-infected persons.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2014",
+        "authors": [
+          "Fernandez-Montero Jose Vicente",
+          "Barreiro Pablo",
+          "Labarga Pablo",
+          "De Mendoza Carmen",
+          "Soriano Vicente"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-HIV Agents",
+          "Clinical Trials as Topic",
+          "Dideoxynucleosides",
+          "Drug Resistance, Viral",
+          "HIV Infections",
+          "HIV-1",
+          "Heterocyclic Compounds, 3-Ring",
+          "Humans",
+          "Lamivudine",
+          "Oxazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24754315/"
+      },
+      {
+        "pmid": "32504574",
+        "title": "Fixed-dose combination bictegravir, emtricitabine, and tenofovir alafenamide versus dolutegravir-containing regimens for initial treatment of HIV-1 infection: week 144 results from two randomised, double-blind, multicentre, phase 3, non-inferiority trials.",
+        "abstract": "In the primary week-48 analyses of two phase 3 studies, coformulated bictegravir, emtricitabine, and tenofovir alafenamide was non-inferior to a dolutegravir-containing regimen in treatment-naive people with HIV. We report week-144 efficacy and safety results from these studies.",
+        "journal": "The lancet. HIV",
+        "year": "2020",
+        "authors": [
+          "Orkin Chloe",
+          "DeJesus Edwin",
+          "Sax Paul E",
+          "Arribas Jose R",
+          "Gupta Samir K"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Adult",
+          "Aged",
+          "Alanine",
+          "Dideoxynucleosides",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Combinations",
+          "Emtricitabine",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32504574/"
+      },
+      {
+        "pmid": "11996639",
+        "title": "Trizivir.",
+        "abstract": "Treatment of HIV infection has typically been carried out using two nucleoside analogues and a protease inhibitor (PI). Such regimens can be complex and have high pill burdens. Use of alternative regimens, such as triple nucleoside based regimens, can improve adherence and decrease toxicities associated with PI therapy. Trizivir is a combination tablet of zidovudine, lamivudine and abacavir. This formulation allows a dosing schedule of one pill twice-daily. The components of have performed favourably compared to PI-based regimens, such as indinavir. However, in one study the individual components of Trizivir did not suppress HIV-1 viral replication as well as the PI-based regimen in a subset of patients with very high HIV-1 plasma RNA. Trizivir also avoids side effects of antiretroviral therapy, such as hyperlipidaemia, but its use is associated with a hypersensitivity reaction in a small number of patients. Trizivir is an important part of the HIV armamentarium. The potency and ease o",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2002",
+        "authors": [
+          "Keiser Philip",
+          "Nassar Naiel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiretroviral Therapy, Highly Active",
+          "Biological Availability",
+          "Clinical Trials as Topic",
+          "Dideoxynucleosides",
+          "Drug Combinations",
+          "Drug Evaluation",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Intestinal Absorption"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11996639/"
+      },
+      {
+        "pmid": "29474268",
+        "title": "Twenty-Five Years of Lamivudine: Current and Future Use for the Treatment of HIV-1 Infection.",
+        "abstract": "Innovation in medicine is a dynamic, complex, and continuous process that cannot be isolated to a single moment in time. Anniversaries offer opportunities to commemorate crucial discoveries of modern medicine, such as penicillin (1928), polio vaccination (inactivated, 1955; oral, 1961), the surface antigen of the hepatitis B virus (1967), monoclonal antibodies (1975), and the first HIV antiretroviral drugs (zidovudine, 1987). The advent of antiretroviral drugs has had a profound effect on the progress of the epidemiology of HIV infection, transforming a terminal, irreversible disease that caused a global health crisis into a treatable but chronic disease. This result has been driven by the success of antiretroviral drug combinations that include nucleoside reverse transcriptase inhibitors such as lamivudine. Lamivudine, an L-enantiomeric analog of cytosine, potently affects HIV replication by inhibiting viral reverse transcriptase enzymes at concentrations without toxicity against huma",
+        "journal": "Journal of acquired immune deficiency syndromes (1999)",
+        "year": "2018",
+        "authors": [
+          "Quercia Romina",
+          "Perno Carlo-Federico",
+          "Koteff Justin",
+          "Moore Katy",
+          "McCoig Cynthia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-HIV Agents",
+          "Drug Development",
+          "Drug Resistance, Viral",
+          "Drug Therapy, Combination",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine",
+          "Reverse Transcriptase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29474268/"
+      },
+      {
+        "pmid": "39826566",
+        "title": "Efficacy of dolutegravir plus lamivudine in treatment-naive people living with HIV without baseline drug-resistance testing available (D2ARLING): 48-week results of a phase 4, randomised, open-label, non-inferiority trial.",
+        "abstract": "Dolutegravir plus lamivudine has emerged as a preferred treatment for HIV; however, initiating this regimen without baseline resistance testing raises concerns about the potential presence of pretreatment lamivudine resistance. We aimed to evaluate the efficacy of dolutegravir plus lamivudine in the absence of information on baseline resistance testing in treatment-naive people with HIV.",
+        "journal": "The lancet. HIV",
+        "year": "2025",
+        "authors": [
+          "Cordova Ezequiel",
+          "Hernandez Rendon Jeniffer",
+          "Mingrone Veronica",
+          "Martin Patricio",
+          "Arevalo Calderon Gisela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase IV",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pyridones",
+          "Heterocyclic Compounds, 3-Ring",
+          "Oxazines",
+          "Piperazines",
+          "Lamivudine",
+          "HIV Infections",
+          "Female",
+          "Male",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39826566/"
+      },
+      {
+        "pmid": "31503008",
+        "title": "Prevalence of pretreatment and acquired HIV-1 mutations associated with resistance to lamivudine or rilpivirine: a systematic review.",
+        "abstract": "Pretreatment and acquired drug resistance mutations (DRMs) can limit antiretroviral therapy effectiveness.",
+        "journal": "Antiviral therapy",
+        "year": "2019",
+        "authors": [
+          "Vannappagari Vani",
+          "Ragone Leigh",
+          "Henegar Cassidy",
+          "van Wyk Jean",
+          "Brown Dannae"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-HIV Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "Drug Resistance, Viral",
+          "Genome, Viral",
+          "Global Health",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine",
+          "Mutation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31503008/"
+      },
+      {
+        "pmid": "26517111",
+        "title": "Dutrebis (lamivudine and raltegravir) for use in combination with other antiretroviral products for the treatment of HIV-1 infection.",
+        "abstract": "Raltegravir and lamivudine have been part of highly active therapy regimens throughout the past years of antiretroviral therapy. A fixed-dose, single-tablet regimen comprising a non-poloxamer formulation of the integrase inhibitor raltegravir and the transcriptase inhibitor lamivudine (raltegravir/lamivudine; Dutrebis(®)) has been recently licensed for the treatment of HIV-1 infection. In several Phase I pharmacokinetic studies, one Dutrebis (150 mg lamivudine/300 mg raltegravir) fixed-dose combination tablet showed a higher bioavailability but comparable lamivudine and 400 mg raltegravir poloxamer exposures. Thus, the co-administration of raltegravir together with lamivudine created a potent, effective, well-tolerated antiretroviral combination, which could be more convenient for the patient. However, the disadvantage of twice a day administration, and the existence of other fixed-dose combinations limit its widespread clinical use. This article reviews pharmacokinetics data and appra",
+        "journal": "Expert review of clinical pharmacology",
+        "year": "2015",
+        "authors": [
+          "Casado José Luis",
+          "Bañón Sara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-HIV Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "Biological Availability",
+          "Drug Combinations",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine",
+          "Raltegravir Potassium",
+          "Tablets"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26517111/"
+      },
+      {
+        "pmid": "40874763",
+        "title": "Efficacy and Safety of Dual Therapy With Dolutegravir/Lamivudine in Treatment-naive Persons With CD4 Counts <200/mm3: 48-Week Results of the DOLCE Study.",
+        "abstract": "Dolutegravir (DTG)/lamivudine dual therapy (DT) has demonstrated noninferiority to triple therapy (TT) in the GEMINI trials. Although the population with ≤200 CD4 cells/mm3 had a lower response rate, this was unrelated to virological failure. This trial evaluated the antiviral activity of dolutegravir/lamivudine among antiretroviral therapy (ART)-naive patients with human immunodeficiency virus (HIV) with a CD4 count ≤200 cells/mm3.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2026",
+        "authors": [
+          "Figueroa Maria Ines",
+          "Brites Carlos",
+          "Cecchini Diego",
+          "Ramalho Aline",
+          "Francos Jose Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pyridones",
+          "Heterocyclic Compounds, 3-Ring",
+          "Oxazines",
+          "Lamivudine",
+          "Piperazines",
+          "HIV Infections",
+          "Male",
+          "CD4 Lymphocyte Count",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40874763/"
+      },
+      {
+        "pmid": "36094514",
+        "title": "Efficacy and Safety of a Simplified Lamivudine Plus Dolutegravir Dual Therapy in HIV-1-Infected Patients: A Multicenter Cohort Study in China.",
+        "abstract": "Results from both clinical trials and real-world observational studies suggest that lamivudine plus dolutegravir (3TC + DTG) dual therapy has excellent virological efficacy and safety in HIV-1-infected patients. However, there is still no relevant study related to this dual therapy reported in China.",
+        "journal": "Journal of acquired immune deficiency syndromes (1999)",
+        "year": "2022",
+        "authors": [
+          "Zhong Mingli",
+          "Chen Chen",
+          "Hu Yue",
+          "Zou Meiyin",
+          "Yan Liting"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-HIV Agents",
+          "Cohort Studies",
+          "HIV Infections",
+          "HIV Seropositivity",
+          "HIV-1",
+          "Heterocyclic Compounds, 3-Ring",
+          "Homosexuality, Male",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36094514/"
+      },
+      {
+        "pmid": "11741217",
+        "title": "Pharmacokinetics of nevirapine and lamivudine in patients with HIV-1 infection.",
+        "abstract": "The purpose of this parallel treatment group, double-blind, multicenter study was to characterize the pharmacokinetics of nevirapine and lamivudine when coadministered to patients with the HIV-1 infection. This pharmacokinetic interaction study was nested within a larger Phase III clinical trial conducted to characterize the safety and efficacy of coadministered nevirapine and lamivudine. One hundred HIV-1 infected patients with CD4+ lymphocyte counts < 200 cells/mm3and who were on a background of nucleoside (zidovudine [ZDV], didanosine [ddI], zalcitabine [ddC], stavudine [d4T]) therapy were randomly assigned to be treated with either nucleoside + lamivudine + nevirapine or nucleoside + lamivudine + placebo. Each patient underwent blood sampling at defined times for the purpose of determining the concentration of nevirapine in plasma and lamivudine in serum under steady-state conditions. Each patient was also monitored closely for concomitant administration of other drugs, including Z",
+        "journal": "AAPS pharmSci",
+        "year": "2000",
+        "authors": [
+          "Sabo J P",
+          "Lamson M J",
+          "Leitz G",
+          "Yong C L",
+          "MacGregor T R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Anti-HIV Agents",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11741217/"
+      },
+      {
+        "pmid": "39945629",
+        "title": "'With age comes wisdom': effectiveness and tolerability of dolutegravir + lamivudine in virologically-suppressed people with HIV.",
+        "abstract": "Results from clinical trials and observational studies suggest that dolutegravir plus lamivudine is a well tolerated option for simplification in people with HIV (PWH). We aimed to assess long-time effectiveness and safety in our cohort.",
+        "journal": "AIDS (London, England)",
+        "year": "2025",
+        "authors": [
+          "Baldin Gianmaria",
+          "Salvo Pierluigi Francesco",
+          "Passerotto Rosa Anna",
+          "Iannone Valentina",
+          "Lamanna Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Piperazines",
+          "Heterocyclic Compounds, 3-Ring",
+          "Pyridones",
+          "Oxazines",
+          "HIV Infections",
+          "Lamivudine",
+          "Male",
+          "Female",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39945629/"
+      },
+      {
+        "pmid": "40440679",
+        "title": "Efficacy, Safety and Tolerability of Dispersible and Immediate Release Abacavir/Dolutegravir/Lamivudine Tablets in Children With HIV: IMPAACT 2019 Week 48 Results.",
+        "abstract": "Dispersible and immediate-release fixed-dose combinations (FDC) of abacavir, dolutegravir, and lamivudine are priority first-line antiretroviral therapy (ART) in children with HIV-1 (CWHIV). We report safety, efficacy and tolerability of these regimens through 48 weeks of treatment.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2025",
+        "authors": [
+          "Rabie Helena",
+          "Yin Dwight E",
+          "Ward Shawn",
+          "Rani Yasha",
+          "Ziemba Lauren"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lamivudine",
+          "Pyridones",
+          "HIV Infections",
+          "Dideoxynucleosides",
+          "Male",
+          "Female",
+          "Oxazines",
+          "Heterocyclic Compounds, 3-Ring",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40440679/"
+      },
+      {
+        "pmid": "11061655",
+        "title": "Zidovudine triphosphate and lamivudine triphosphate concentration-response relationships in HIV-infected persons.",
+        "abstract": "To quantitate intracellular concentrations of zidovudine and lamivudine triphosphate and explore relationships with virologic and immunologic responses to antiretroviral therapy.",
+        "journal": "AIDS (London, England)",
+        "year": "2000",
+        "authors": [
+          "Fletcher C V",
+          "Kawle S P",
+          "Kakuda T N",
+          "Anderson P L",
+          "Weller D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-HIV Agents",
+          "CD4 Lymphocyte Count",
+          "Cytidine Triphosphate",
+          "Dideoxynucleotides",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "HIV"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11061655/"
+      },
+      {
+        "pmid": "36215957",
+        "title": "Pharmacokinetics, Tolerability, and Safety of Doravirine and Doravirine/Lamivudine/Tenofovir Disoproxil Fumarate Fixed-Dose Combination Tablets in Adolescents Living With HIV: Week 24 Results From IMPAACT 2014.",
+        "abstract": "We studied the pharmacokinetics (PK) and safety of 100-mg doravirine and doravirine/lamivudine/tenofovir disoproxil fumarate fixed-dose combination (100/300/300 mg DOR FDC) treatment in adolescents with HIV-1.",
+        "journal": "Journal of acquired immune deficiency syndromes (1999)",
+        "year": "2023",
+        "authors": [
+          "Melvin Ann J",
+          "Yee Ka Lai",
+          "Gray Kathryn P",
+          "Yedla Mounika",
+          "Wan Hong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Adolescent",
+          "Child",
+          "Lamivudine",
+          "Anti-HIV Agents",
+          "HIV Infections",
+          "Tenofovir",
+          "Anti-Retroviral Agents",
+          "Pyridones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36215957/"
+      },
+      {
+        "pmid": "39988749",
+        "title": "Efficacy and Safety of the Two-Drug Regimen Dolutegravir-Lamivudine in Adolescents Living With HIV-1 Naive to Antiretroviral Therapy at 48 Weeks (DANCE): A Single-Arm, Open-Label, Phase 3b Trial.",
+        "abstract": "Dolutegravir-lamivudine is recommended for initial antiretroviral therapy (ART) in adults living with HIV-1; however, no clinical trials have assessed this regimen in adolescents, a potentially more challenging population to treat. We evaluated efficacy, safety, and pharmacokinetics of dolutegravir-lamivudine as initial ART in adolescents living with HIV-1.",
+        "journal": "Journal of acquired immune deficiency syndromes (1999)",
+        "year": "2025",
+        "authors": [
+          "Puthanakit Thanyawee",
+          "Aurpibul Linda",
+          "Lopez Monica",
+          "Wang Marcia",
+          "Ciuffa Marika"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Heterocyclic Compounds, 3-Ring",
+          "Pyridones",
+          "Adolescent",
+          "Oxazines",
+          "HIV Infections",
+          "Lamivudine",
+          "Piperazines",
+          "Male",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39988749/"
+      },
+      {
+        "pmid": "41314742",
+        "title": "Virological and drug-resistance outcomes for people living with HIV initiating or switching to tenofovir, lamivudine, and dolutegravir in six PEPFAR-supported countries: a prospective cohort study.",
+        "abstract": "A combined regimen of tenofovir disoproxil fumarate, lamivudine, and dolutegravir is widely prescribed for people living with HIV in programmes supported by the US President's Emergency Plan for AIDS Relief (PEPFAR). This study aimed to assess long-term virological and drug-resistance outcomes in response to initiation of or switching to the tenofovir-lamivudine-dolutegravir combination among individuals receiving care through such programmes.",
+        "journal": "The lancet. HIV",
+        "year": "2025",
+        "authors": [
+          "Marc Jean Bernard",
+          "McCarthy Caitlyn",
+          "Wallis Carole L",
+          "Kityo Cissy",
+          "Hughes Michael D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pyridones",
+          "Piperazines",
+          "Heterocyclic Compounds, 3-Ring",
+          "Oxazines",
+          "HIV Infections",
+          "Tenofovir",
+          "Female",
+          "Male",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41314742/"
+      },
+      {
+        "pmid": "37335031",
+        "title": "Efficacy and Safety of Switching to Dolutegravir/Lamivudine in Virologically Suppressed People Living with HIV-1 Aged Over 65 Years.",
+        "abstract": "Clinical trials of dual regimen dolutegravir/lamivudine (DOL/3TC) demonstrated potent efficacy and favorable safety in both antiretroviral therapy-naïve and -experienced patients, but data on older people are lacking. We aimed to evaluate virological efficacy and safety of DOL/3TC in suppressed older patients over a 12-month period. We performed a retrospective cohort study evaluating people living with HIV (PLWHIV) aged ≥65 years at our HIV Clinic who were switched to DOL/3TC. Eligible patients had baseline HIV-1 RNA <20 copies/mL, and no previous virological failures or known resistance mutations for lamivudine or dolutegravir. Inclusion criteria were met by 72 patients: 59 were men, median age was 69.2 years, and one or more comorbidities were present in 89% of patients. The most common reason for switch was simplification, followed by drug-drug interactions (DDIs) and toxicities. After 12 months, 64 (88.9%, by the intention-to-treat analysis) patients maintained HIV-1 RNA <20 copie",
+        "journal": "AIDS research and human retroviruses",
+        "year": "2024",
+        "authors": [
+          "Calza Leonardo",
+          "Colangeli Vincenzo",
+          "Legnani Giorgio",
+          "Cretella Silvia",
+          "Bon Isabella"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Female",
+          "Lamivudine",
+          "HIV Infections",
+          "HIV-1",
+          "Anti-HIV Agents",
+          "Retrospective Studies",
+          "Heterocyclic Compounds, 3-Ring"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37335031/"
+      },
+      {
+        "pmid": "10326538",
+        "title": "Cerebrospinal-fluid HIV-1 RNA and drug concentrations after treatment with lamivudine plus zidovudine or stavudine.",
+        "abstract": "Treatment and prevention of HIV-1-related central-nervous-system disease may be dependent on penetration of antiretroviral drugs into the central nervous system. Few data are available about cerebrospinal-fluid penetration and concomitant changes of HIV-1-RNA concentrations during treatment with antiretroviral agents. We investigated these effects in HIV-1-infected people.",
+        "journal": "Lancet (London, England)",
+        "year": "1998",
+        "authors": [
+          "Foudraine N A",
+          "Hoetelmans R M",
+          "Lange J M",
+          "de Wolf F",
+          "van Benthem B H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "AIDS Dementia Complex",
+          "Adult",
+          "Analysis of Variance",
+          "Anti-HIV Agents",
+          "CD4 Lymphocyte Count",
+          "Chromatography, High Pressure Liquid",
+          "Drug Combinations",
+          "Follow-Up Studies",
+          "HIV Core Protein p24",
+          "HIV Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10326538/"
+      },
+      {
+        "pmid": "9643757",
+        "title": "Lamivudine-induced paronychia.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1998",
+        "authors": [
+          "Zerboni R",
+          "Angius A G",
+          "Cusini M",
+          "Tarantini G",
+          "Carminati G"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-HIV Agents",
+          "Female",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine",
+          "Male",
+          "Middle Aged",
+          "Paronychia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9643757/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:22:14.550527",
+  "success": true,
+  "error_message": null
+}

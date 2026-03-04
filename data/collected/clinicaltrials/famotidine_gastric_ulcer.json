@@ -1,0 +1,266 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Famotidine",
+    "disease": "gastric ulcer"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03667703",
+      "title": "Stress Ulcer Prophylaxis Versus Placebo - a Blinded Randomized Control Trial to Evaluate the Safety of Two Strategies in Critically Ill Infants With Congenital Heart Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-03-10",
+      "completion_date": "2022-06-30",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "Infants with congenital heart disease often require an intervention during their first year of life. Infants are generally admitted to a cardiac intensive care unit and are routinely prescribed stress ulcer prophylaxis to decrease acid release from the stomach to prevent stress ulcer formation. However, these medicines may not be safe and could put infants at increased risk for hospital-acquired infections, necrotizing enterocolitis and alteration to the infant's microbiome. The investigators pl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\< 12 months of age (including premature newborns),\n2. diagnosed with congenital heart disease (including anatomic, myopathic and arrhythmic conditions),\n3. received ≤ 1 dose of SUP (including histamine-2 receptor antagonists, proton pump inhibitors, and sucralfate) during cu",
+      "endpoints": [
+        "Predefined Feasibility Outcomes to Assess Trial Success",
+        "Rate of upper gastrointestinal bleeds"
+      ],
+      "sponsor": "Boston Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03667703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450216",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 906,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of an NSAID for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did not use a NSAID within the 30 days pr",
+      "endpoints": [
+        "Number of Participants Who Develop Endoscopically-diagnosed Gastric Ulcers"
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02418312",
+      "title": "Efficacy of H2 Receptor Antagonist in Prevention of Thienopyridine-related Peptic Ulcer",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2017-10",
+      "country": "Taiwan",
+      "enrollment": 228,
+      "brief_summary": "Whether H2 receptor antagonist can prevent thienopyridine-related peptic ulcer remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The past history of gastroduodenal ulcer and underwent endoscopy for dyspeptic symptoms.\n2. thienopyridine users without baseline gastroduodenal ulcer at initial endoscopy.\n3. They are adult patients aged least 20 years of age.\n\nExclusion Criteria:\n\n1. They have a history of ",
+      "endpoints": [
+        "Number of Participants With Healed Peptic Ulcer"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT02418312"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00450658",
+      "title": "A Randomized, Double-Blind, Phase 3 Study of the Efficacy and Safety of HZT-501 in Subjects Requiring NSAID Treatment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": 627,
+      "brief_summary": "The purpose of this study is to evaluate whether HZT-501 is effective in reducing the rate of development of ibuprofen-associated ulcers in patients who require long-term daily use of ibuprofen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Expected to require daily administration of a nonsteroidal anti-inflammatory drug (NSAID) for at least the coming six months for conditions such as osteoarthritis, rheumatoid arthritis, chronic low back pain, chronic regional pain syndrome, and chronic soft tissue pain.\n* Did ",
+      "endpoints": [
+        "Number of Subjects Who Develop Endoscopically-diagnosed Upper Gastrointestinal Ulcers Confirmed by Endoscopy."
+      ],
+      "sponsor": "Amgen",
+      "url": "https://clinicaltrials.gov/study/NCT00450658"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04123899",
+      "title": "An Open-Label, Randomized, Two-sequence, Two-period, Fasting Condition, Single Oral Dose, Cross-over Study of Bioequivalence of \"Gaster®D Tab20mg (Famotidine) (Changed Manufacturer)\" and \"Gaster®D Tab 20mg (Famotidine) (Unchanged Manufacturer, Announced Reference Drug)\" in Healthy, Adult, Human Subjects",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-10-11",
+      "completion_date": "2020-01-03",
+      "country": "N/A",
+      "enrollment": 32,
+      "brief_summary": "An Open-Label, Randomized, Two-sequence, Two-period, Fasting Condition, Single Oral Dose, Cross-over Study of Bioequivalence of \"Gaster®D Tab20mg (Famotidine) (Changed Manufacturer)\" and \"Gaster®D Tab 20mg (Famotidine) (Unchanged Manufacturer, Announced Reference Drug)\" in Healthy, Adult, Human Subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A person who aged 19 or older at the time of screening\n2. No congenital or chronic diseases or pathological symptoms on screening\n3. A person who is judged to be suitable for the study by the investigator based on the clinical laboratory examination\n4. BMI of 18 to 30 (BMI ca",
+      "endpoints": [
+        "AUClast",
+        "Cmax"
+      ],
+      "sponsor": "Dong-A ST Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04123899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02551744",
+      "title": "Pantoprazole Versus Famotidine for the Prevention of Recurrent Peptic Ulcers in Thienopyridine Users - a Double-blind Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2018-07",
+      "country": "Taiwan",
+      "enrollment": 101,
+      "brief_summary": "Whether pantoprazole versus famotidine for the prevention of recurrent peptic ulcers in thienopyridine users remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Recent endoscopic examination (within 2 months) reveals normal appearance or erythematous patches only (without subepithelial hemorrhages, erosions or ulcers).\n* Peptic ulcers (a mucosal break ³ 5 mm in diameter) have been documented by a previous endoscopic examination.\n* Sub",
+      "endpoints": [
+        "Number of Participants With Ulcer Recurrence"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT02551744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00843063",
+      "title": "Famotidine vs. Pantoprazole to Prevent Recurrent Aspirin-Induced Peptic Ulcer/Erosion - a Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2008-12",
+      "country": "China",
+      "enrollment": 161,
+      "brief_summary": "Low-dose aspirin can prevent cerebral and cardiovascular accidents in individuals with symptomatic atherothrombotic disease, but its use is frequently limited by gastrointestinal side effects.\n\nThe position of H2-receptor antagonists as a step-down therapy after healing of peptic ulcer or erosions by proton pump inhibitor is unclear.\n\nThe objective of this randomized, double blinded control study was to compare the efficacy of high-dose famotidine with pantoprazole in the prevention of recurrent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* upper GIB or dyspepsia due to peptic ulcers / erosions while receiving low-dose aspirin with a daily dose ranging from 80 mg to 320 mg\n* endoscopy revealed a gastric or duodenal ulcers of 3 mm or more in diameter with unequivocal depth, or more than 5 erosions in the stomach o",
+      "endpoints": [
+        "The primary end-point was the recurrence of dyspeptic or complicated ulcer / erosions."
+      ],
+      "sponsor": "Ruttonjee Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00843063"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00978159",
+      "title": "Esomeprazole or Famotidine in the Management of Aspirin Related Non-ulcer Dyspepsia - a Double Blind Randomized Control Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-09",
+      "completion_date": "2013-12",
+      "country": "China",
+      "enrollment": 128,
+      "brief_summary": "Aspirin can prevent ischemic vascular disease but is commonly complicated by dyspepsia in 30% of patients. Patients, who have aspirin related dyspepsia, commonly underwent upper endoscopy to exclude peptic ulcer disease or gastric cancers. For those without significant lesions in the stomach and duodenum (non-ulcer dyspepsia), the best approach in the management is unclear. The objective of this study is to compare the efficacy of esomeprazole and famotidine in the control of dyspeptic symptom. ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least moderate pain or discomfort (or both) centered in the upper abdomen as their predominant symptoms for 7 days before randomization; taking low dose aspirin (80-300 mg daily),and insignificant upper endoscopic finding. At least moderate pain or discomfort is defined if ",
+      "endpoints": [
+        "Treatment success : The HKDI is less than 16. Treatment was considered to have failed if a patient had taken medication for dyspepsia (other than antacids) during the study period"
+      ],
+      "sponsor": "Ruttonjee Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00978159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00839488",
+      "title": "Comparison of Intravenous Pantoprazole and Famotidine for Stress Ulcer Prophylaxis in Patients After Major Abdominal Surgery",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2008-04",
+      "completion_date": "2009-04",
+      "country": "Taiwan",
+      "enrollment": 6,
+      "brief_summary": "Although stress ulcer is a complication that can cause significant mortality and morbidity in critical patients with risk factors, there is still lack of consensus about its prophylaxis. There are also few data available from Taiwan. H2 blockers are commonly used due to convenience. Some prefer sucralfate (a mucosal protective agent) for the sake of less association with nosocomial pneumonia. Recently, proton pump inhibitors were shown to have good prophylactic effects for stress ulcer. Pantopra",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* those recieved major abdominal surgery (estimated admission to sirgical ICU more than 7 days); give written consent and was randomized within 24 hours of admission\n\nExclusion Criteria:\n\n* age less than 18 y/o; pregnant; allergy to famotidine or pantoprazole; have had GI bleedi",
+      "endpoints": [
+        "apparant upper gastrointestinal bleeding"
+      ],
+      "sponsor": "Far Eastern Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00839488"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00633035",
+      "title": "Comparison of Esomeprazole and Famotidine for Stress Ulcer Prophylaxis in Neurosurgical Intensive Care Unit",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2010-04",
+      "country": "Taiwan",
+      "enrollment": 60,
+      "brief_summary": "Although stress ulcer is a complication that can cause mortality and morbidity in critical patients, there is still lack of consensus about its prophylaxis. There is also few data available from Taiwan. H2 blockers are commonly used due to convenience. Some prefer sucralfate (a mucosal protective agent) for the sake of less associated nosocomial pneumonia. Recently, proton pump inhibitors were shown to have good prophylactic effects for stress ulcer. Esomeprazole, an isoform of omeprazole, has g",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Within 24 hours of admission to Neurosurgical ICU after neurosurgery with ventilator support\n\nExclusion Criteria:\n\n* Less than 18 y/o;\n* Pregnancy;\n* Not suitable for medication from NG route,\n* Had GI bleeding at admission to ICU",
+      "endpoints": [
+        "UGI bleeding: hematemesis or much coffee ground substance (> 60 ml) from NG, tarry stool, decrease of Hb more than 2g/dl and endoscopic proof of bleeder"
+      ],
+      "sponsor": "Far Eastern Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00633035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153673",
+      "title": "Phase III Study of a Double-Blind Randomized Comparison of Famotidine Plus Celecoxib Versus Dologesics for Gastric Ulcer Healing in Arthritis Patients (NSAID#5A Study)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02",
+      "completion_date": "2017-04-12",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to compare the effect of Famotidine plus a COX-2 inhibitor (celecoxib) with Famotidine plus dologesics in ulcer healing in arthritis patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gastric ulcers confirmed by endoscopy\n* Stop taking NSAIDs for 1 week prior to endoscopy\n* Age 18\n* H. pylori negative\n* Informed written consent\n\nExclusion Criteria:\n\n* Actively bleeding ulcers\n* Ulcers showing dysplasia or malignancy\n* Renal failure (serum creatinine \\>200um",
+      "endpoints": [
+        "ulcer healing"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT00153673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00557349",
+      "title": "A Randomized, Double-blind Clinical Trial Comparing Zegerid Capsule to Famotidine in Preventing Anastomotic (Marginal) Ulcers in Post Gastric Bypass Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2008-03",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This research is to determine which medication, Zegerid (Omeprazole/Sodium Bicarbonate) or Pepcid AC (Famotidine), works best at reducing the chance that a patient will get an ulcer after gastric bypass surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is age ≥ 18 years\n* Patient meets the criteria for laparoscopic gastric bypass surgery\n* Females only: Patient is willing to take a urine pregnancy test\n\nExclusion Criteria:\n\n* Subject allergic to omeprazole or famotidine\n* Patient receiving antifungal (i.e. ketoconazo",
+      "endpoints": [
+        "Number of Participants With Complaints, Specifically About Pain, Vomiting, Dyspepsia, and/or Dysphagia."
+      ],
+      "sponsor": "University of Missouri-Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00557349"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229424",
+      "title": "Verification Study on Lafutidine in Mild Reflux Oesophagitis - Double Blind Controlled Study With Famotidine -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2007-01",
+      "country": "Japan",
+      "enrollment": 325,
+      "brief_summary": "The purpose of the study is to verify superiority of the lafutidine group over the placebo group and non-inferiority to the famotidine group in terms of endoscopic healing rate of the patients with mild reflux oesophagitis.\n\nFurthermore, the followings are compared:\n\nThe improvement effect in heartburn and other subjective symptoms, and dosing frequency of MALFA ® suspension (neutralizer) as well as incidence of adverse events among the lafutidine 20 mg/day treatment group, the famotidine 40 mg/",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 20 and over (at the time of consent given)\n* Gender and inpatient or outpatient: Irrelevant\n* Patients diagnosed with Grade A or Grade B mild reflux oesophagitis (according to the Los Angels classification) through endoscopic test\n* Patients who complained about \"heartburn",
+      "endpoints": [
+        "Endoscopic healing rate"
+      ],
+      "sponsor": "Taiho Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00229424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01180179",
+      "title": "Prevention of Recurrent Idiopathic Gastroduodenal Ulcer Bleeding: a Double-blind Randomized Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2019-05",
+      "country": "China",
+      "enrollment": 228,
+      "brief_summary": "The aim of this study is to compare the efficacy of a proton pump inhibitor (lansoprazole) and a histamine-2 receptor antagonist (famotidine) in preventing recurrent ulcer bleeding in patients with a history of H. pylori-negative idiopathic peptic ulcers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A history of H. pylori-negative idiopathic peptic ulcers, defined as\n\n   1. No exposure to aspirin, NSAIDs or drugs of unknown nature including traditional Chinese medicine within the 4 weeks before hospitalization;\n   2. Biopsies taken during endoscopy must be negative for b",
+      "endpoints": [
+        "Recurrent ulcer bleeding"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01180179"
+    }
+  ],
+  "timestamp": "2026-03-04T15:38:44.681579",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,626 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Valsartan",
+    "disease": "hypertensive disorder",
+    "query_string": "Valsartan AND hypertensive disorder"
+  },
+  "data": {
+    "query": "Valsartan AND hypertensive disorder",
+    "results": [
+      {
+        "pmid": "39632589",
+        "title": "Efficacy and Safety of Sacubitril/Valsartan Versus Amlodipine in Japanese Patients With Essential Hypertension: A Randomized, Multicenter, Open-Label, Noninferiority Study (PARASOL Study).",
+        "abstract": "Sacubitril/valsartan, an angiotensin receptor-neprilysin inhibitor, has demonstrated a superior blood pressure-lowering effect compared with renin-angiotensin system inhibitors in several clinical trials. However, there has been no available evidence on the comparison between sacubitril/valsartan and calcium channel blockers (CCBs), a well-established class of antihypertensive drugs. In this open-label, multicenter study, we aimed to demonstrate the efficacy and safety of sacubitril/valsartan versus amlodipine, one of the most widely used CCBs, after 8 weeks of treatment. A total of 359 Japanese patients with essential hypertension (office systolic blood pressure [SBP] ≥ 150 to < 180 mmHg), aged 18-79, were randomly assigned to receive either once-daily sacubitril/valsartan 200 mg or once-daily amlodipine 5 mg in a 1:1 allocation ratio. The primary endpoint was the noninferiority of sacubitril/valsartan compared with amlodipine in mean change in 24-h SBP from baseline to Week 8, follow",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2025",
+        "authors": [
+          "Yamamoto Koichi",
+          "Yarimizu Daisuke",
+          "Shimanishi Ayano",
+          "Eguchi Shunsuke",
+          "Iekushi Kazuma"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Aminobutyrates",
+          "Amlodipine",
+          "Amlodipine, Valsartan Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39632589/"
+      },
+      {
+        "pmid": "34392331",
+        "title": "Sacubitril-valsartan as a treatment for apparent resistant hypertension in patients with heart failure and preserved ejection fraction.",
+        "abstract": "Patients with heart failure and preserved ejection fraction (HFpEF) frequently have difficult-to-control hypertension. We examined the effect of neprilysin inhibition on 'apparent resistant hypertension' in patients with HFpEF in the PARAGON-HF trial, which compared the effect of sacubitril-valsartan with valsartan.",
+        "journal": "European heart journal",
+        "year": "2021",
+        "authors": [
+          "Jackson Alice M",
+          "Jhund Pardeep S",
+          "Anand Inder S",
+          "Düngen Hans-Dirk",
+          "Lam Carolyn S P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aminobutyrates",
+          "Angiotensin Receptor Antagonists",
+          "Biphenyl Compounds",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Heart Failure",
+          "Humans",
+          "Hypertension",
+          "Neprilysin",
+          "Stroke Volume"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34392331/"
+      },
+      {
+        "pmid": "39927814",
+        "title": "Efficacy and safety of sacubitril-valsartan in hypertension patients with end-stage kidney disease on maintenance dialysis: a meta-analysis.",
+        "abstract": "The aim of this meta-analysis was to assess the efficacy and safety of sacubitril-valsartan in hypertension patients with end-stage kidney disease (ESKD) undergoing dialysis. We searched the Medline, Cochrane, Embase, Web of Science, and ClinicalTrials.gov databases for studies reporting outcomes after SV treatment. All analyses were performed utilizing the random effects models. Nineteen studies comprising 1597 patients with concomitant hypertension and ESKD undergoing dialysis were included. After sacubitril-valsartan treatment, significant reductions in both SBP and DBP were observed (mean change in SBP: -11.09 mmHg [95% confidence interval, 95% CI: -14.51,-7.66] and DBP: -4.37 mmHg [-6.36,-2.38]). Compared to conventional treatment, patients treated with sacubitril-valsartan had a lower risk of cardiovascular hospitalization (risk ratio: 0.63 [0.44,0.90]). Sacubitril-valsartan treatment showed a trend toward reducing the risk of all-cause mortality, although this was not statistica",
+        "journal": "Journal of hypertension",
+        "year": "2025",
+        "authors": [
+          "Nguyen Dung Viet",
+          "Pham Giang Thai",
+          "Pham Son Nguyen",
+          "Nguyen Hoai Thi Thu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aminobutyrates",
+          "Biphenyl Compounds",
+          "Drug Combinations",
+          "Hypertension",
+          "Kidney Failure, Chronic",
+          "Valsartan",
+          "Renal Dialysis",
+          "Tetrazoles",
+          "Angiotensin Receptor Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39927814/"
+      },
+      {
+        "pmid": "25604204",
+        "title": "Hypertension and valsartan.",
+        "abstract": "Hypertension, which is pointed to be the most frequent cause of death in the World and in Turkey and defined by the World Health Organization as global health crisis and the prominent risk factor for cardiovascular diseases, is a problem threatening public health. Renin-angiotensin system (RAS) plays an important role in pathophysiology and in turn treatment of the disease. The drugs suppressing RAS are recommended both for monotherapy and combinations. Together with the blood pressure lowering effects and positive contributions of this group of drugs to the cardiovascular and renal process have been proved by clinical studies. In this review, the recent developments about the hypertension treatment were summarized and the place of valsartan molecule, being an angiotensin receptor blocker in hypertension treatment, was examined in the light of the studies in which the effectiveness, tolerability and safety of valsartan were evaluated.",
+        "journal": "Anadolu kardiyoloji dergisi : AKD = the Anatolian journal of cardiology",
+        "year": "2014",
+        "authors": [
+          "Kızılırmak Pınar",
+          "Üresin Ali Yağız"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Drug Combinations",
+          "Humans",
+          "Hypertension",
+          "Renin-Angiotensin System",
+          "Tetrazoles",
+          "Valine",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25604204/"
+      },
+      {
+        "pmid": "37071432",
+        "title": "Effect of sacubitril/valsartan or valsartan on ventricular remodeling and myocardial fibrosis in perimenopausal women with hypertension.",
+        "abstract": "To evaluate the impact of sacubitril/valsartan on blood pressure (BP), ventricular structure, and myocardial fibrosis compared with valsartan in perimenopausal hypertensive women.",
+        "journal": "Journal of hypertension",
+        "year": "2023",
+        "authors": [
+          "Chen Jianshu",
+          "Pei Ying",
+          "Wang Qiongying",
+          "Li Caie",
+          "Liang Wei"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Aminobutyrates",
+          "Biphenyl Compounds",
+          "Drug Combinations",
+          "Heart Failure",
+          "Hypertension",
+          "Perimenopause",
+          "Prospective Studies",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37071432/"
+      },
+      {
+        "pmid": "10353300",
+        "title": "Valsartan/hydrochlorothiazide.",
+        "abstract": "Valsartan/hydrochlorothiazide (HCTZ) combines an angiotensin II AT1 receptor blocker with a thiazide diuretic to produce additive blood pressure reductions without major effects on heart rate. HCTZ did not significantly alter valsartan pharmacokinetics; during combination therapy, HCTZ pharmacokinetics differed from those seen with HCTZ monotherapy. In clinical trials in patients with essential hypertension, adding HCTZ 12.5 or 25 mg/day to valsartan 80 mg/day resulted in a greater blood pressure reduction than increasing the valsartan dosage from 80 to 160 mg/day. The valsartan/HCTZ combination was generally more effective than either drug given alone. Efficacy of the combination was maintained during up to 3 years of treatment. Valsartan/HCTZ was well tolerated in both short and long term trials. The most common adverse events were dizziness, headache and fatigue. The overall incidence of adverse events with the combination was similar to that with placebo. HCTZ-induced hypokalaemia ",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Langtry H D",
+          "McClellan K J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Heart Rate",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Tetrazoles",
+          "Valine",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10353300/"
+      },
+      {
+        "pmid": "40685715",
+        "title": "Effects of Sacubitril/Valsartan on Blood Pressure and Proteinuria in Hypertensive Patients With Chronic Kidney Disease.",
+        "abstract": "The effects of the angiotensin receptor-neprilysin inhibitor sacubitril/valsartan (Sac/Val) on blood pressure (BP) and proteinuria in patients with advanced chronic kidney disease and hypertension remain unclear. This retrospective study evaluated the effect of Sac/Val on BP, the urinary protein-to-creatinine ratio (UPCR), and the estimated glomerular filtration rate (eGFR) in 66 patients with hypertension and proteinuria (UPCR ≥ 0.15 g/g) who received renin-angiotensin system inhibitors at 1, 3, and 6 months. At baseline, the median eGFR and UPCR were 28.4 mL/min/1.73 m2 and 1.18 g/g, respectively. Significant reductions in systolic and diastolic BP, the eGFR, and the UPCR were observed over time (p values ranged from 0.03 to < 0.0001). At 1 month, 59% of patients showed a transient increase in the UPCR, and 21% had a ≥10% decline in the eGFR, with both metrics returning closer to baseline by 6 months. The percent change in the UPCR at 1 month was positively correlated with the percen",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2025",
+        "authors": [
+          "Murakoshi Maki",
+          "Kobayashi Takashi",
+          "Kihara Masao",
+          "Ueda Seiji",
+          "Suzuki Yusuke"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Biphenyl Compounds",
+          "Male",
+          "Aminobutyrates",
+          "Female",
+          "Proteinuria",
+          "Drug Combinations",
+          "Valsartan",
+          "Hypertension",
+          "Renal Insufficiency, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40685715/"
+      },
+      {
+        "pmid": "35058583",
+        "title": "Efficacy of sacubitril/valsartan versus olmesartan in Japanese patients with essential hypertension: a randomized, double-blind, multicenter study.",
+        "abstract": "This phase III study assessed the efficacy and safety of sacubitril/valsartan compared with those of olmesartan in Japanese patients with essential hypertension. Patients (n = 1161, aged ≥20 years) with mild to moderate hypertension (mean sitting systolic blood pressure [msSBP] ≥150 to <180 mmHg) were randomized to receive sacubitril/valsartan 200 mg (n = 387), sacubitril/valsartan 400 mg (n = 385), or olmesartan 20 mg (n = 389) once daily for 8 weeks. The primary assessment was a reduction in msSBP from baseline with sacubitril/valsartan 200 mg vs. olmesartan 20 mg at Week 8. Secondary assessments included msSBP reduction with sacubitril/valsartan 400 mg vs. olmesartan at Week 8 and reductions in mean sitting diastolic blood pressure (msDBP), mean sitting pulse pressure (msPP), and overall blood pressure (BP) control rate for all treatment groups at Week 8. Sacubitril/valsartan 200 mg provided a significantly greater reduction in msSBP from baseline than olmesartan at Week 8 (between-",
+        "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+        "year": "2022",
+        "authors": [
+          "Rakugi Hiromi",
+          "Kario Kazuomi",
+          "Yamaguchi Masako",
+          "Sasajima Takayoshi",
+          "Gotou Hiromi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aminobutyrates",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Double-Blind Method",
+          "Essential Hypertension",
+          "Humans",
+          "Hypertension",
+          "Imidazoles",
+          "Japan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35058583/"
+      },
+      {
+        "pmid": "29172824",
+        "title": "Aliskiren and valsartan in combination is a promising therapy for hypertensive renal injury in rats.",
+        "abstract": "Neither ACEI nor ARBs completely repress the RAAS. Aliskiren is a newer agent that inhibits renin. However, it increases the biosynthesis and secretion of renin and prorenin, that might induce renal tissue damage. This study was conducted to investigate the renoprotective effects of aliskiren and valsartan the ARB, either alone or in combination, on hypertensive nephropathy induced by L-NAME. Aliskiren (50 mg/kg/daily i.p.), valsartan (10 mg/kg daily i.p.) alone or in half dose combination were administered with L-NAME (30-40 mg daily in drinking water) for 8 weeks. Aliskiren and valsartan significantly reduced systolic blood pressure, proteinuria, serum creatinine, blood urea nitrogen, oxidative stress, and structural renal injury although not to the same extent. Valsartan reduced systolic blood pressure and proteinuria in L-NAME treated rats more significantly than aliskiren. However, glomerular collapse index and the expansion of interstitial tissue were significantly attenuated by ",
+        "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+        "year": "2018",
+        "authors": [
+          "Abdel Kawy Hala Salah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amides",
+          "Animals",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Blood Urea Nitrogen",
+          "Creatinine",
+          "Drug Therapy, Combination",
+          "Enzyme Inhibitors",
+          "Fumarates",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29172824/"
+      },
+      {
+        "pmid": "40739095",
+        "title": "Effects of sacubitril/valsartan on hypertensive heart disease: the REVERSE-LVH randomized phase 2 trial.",
+        "abstract": "Diffuse interstitial fibrosis is associated with adverse outcomes in hypertensive heart disease and may be reversible. Sacubitril/valsartan could offer greater anti-fibrotic effects than valsartan alone. In the REVERSE-LVH phase 2 open-labelled trial (clinicaltrials.gov NCT: 03553810; funded by the National Medical Research Council of Singapore), 78 patients with essential hypertension and left ventricular hypertrophy (LVH) were randomized 1:1 to sacubitril/valsartan or valsartan for 52 weeks. Primary endpoint was a change in interstitial volume, assessed using cardiovascular magnetic resonance. Despite similar 24-hour systolic blood pressure at 52 weeks (125 ± 11 vs. 126 ± 11 mmHg; P = 0.762), sacubitril/valsartan resulted in a greater absolute reduction in interstitial volume compared to valsartan (-5.2 ± 5.4 vs. -2.5 ± 3.1 mL; P = 0.006). Secondary endpoints showed significant differences favoring sacubitril/valsartan in LV mass, left atrial volume, estimated LV filling pressure, an",
+        "journal": "Nature communications",
+        "year": "2025",
+        "authors": [
+          "Lee Vivian",
+          "Dalakoti Mayank",
+          "Zheng Qishi",
+          "Toh Desiree-Faye",
+          "Boubertakh Redha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Biphenyl Compounds",
+          "Valsartan",
+          "Aminobutyrates",
+          "Male",
+          "Drug Combinations",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Hypertrophy, Left Ventricular"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40739095/"
+      },
+      {
+        "pmid": "38564196",
+        "title": "Efficacy and Safety of Sacubitril/Valsartan in Chronic Type B Aortic Dissection Combined With Mild Hypertension.",
+        "abstract": "Optimal antihypertensive medication for chronic type B aortic dissection (AD) remains undecided. This study compared the efficacy and safety of sacubitril/valsartan with valsartan to determine suitable antihypertensive drug combinations.",
+        "journal": "American journal of hypertension",
+        "year": "2024",
+        "authors": [
+          "Wang Xuelin",
+          "Song Feier",
+          "Jiang Lujing",
+          "Huang Ziling",
+          "Luo Songyuan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Valsartan",
+          "Aminobutyrates",
+          "Male",
+          "Middle Aged",
+          "Drug Combinations",
+          "Female",
+          "Biphenyl Compounds",
+          "Hypertension",
+          "Aortic Dissection"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38564196/"
+      },
+      {
+        "pmid": "30390409",
+        "title": "Upstream therapeutic strategies of valsartan and fluvastatin on hypertensive patients with non-permanent atrial fibrillation.",
+        "abstract": "To investigate the upstream therapeutic effects of fluvastatin and valsartan on hypertensive patients with non-permanent atrial fibrillation (AF).",
+        "journal": "Cardiovascular therapeutics",
+        "year": "2018",
+        "authors": [
+          "Zhao Zhiqiang",
+          "Niu Xiaowei",
+          "Dong Zhaojie",
+          "Qi Wenwei",
+          "Liu Enzhao"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Anti-Arrhythmia Agents",
+          "Antihypertensive Agents",
+          "Atrial Fibrillation",
+          "Blood Pressure",
+          "China",
+          "Disease Progression",
+          "Female",
+          "Fluvastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30390409/"
+      },
+      {
+        "pmid": "37182595",
+        "title": "Sacubitril/valsartan reduces susceptibility to atrial fibrillation by improving atrial remodeling in spontaneously hypertensive rats.",
+        "abstract": "Sacubitril/valsartan (Sac/Val, LCZ696), the world's first angiotensin receptor-neprilysin inhibitor (ARNi), has been widely used in the treatment of heart failure. However, the use of Sac/Val in the treatment of atrial fibrillation (AF), especially AF with hypertension, has been less reported. We investigated the effect of Sac/Val on atrial remodeling and hypertension-related AF.",
+        "journal": "European journal of pharmacology",
+        "year": "2023",
+        "authors": [
+          "Li Qian",
+          "Fang Yuan",
+          "Peng De-Wei",
+          "Li Lu-An",
+          "Deng Chun-Yu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Atrial Fibrillation",
+          "Rats, Inbred SHR",
+          "Atrial Remodeling",
+          "Neprilysin",
+          "Valsartan",
+          "Biphenyl Compounds",
+          "Aminobutyrates",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37182595/"
+      },
+      {
+        "pmid": "37026551",
+        "title": "Twenty-Four-Hour Blood Pressure-Lowering Efficacy of Sacubitril/Valsartan Versus Olmesartan in Japanese Patients With Essential Hypertension Based on Nocturnal Blood Pressure Dipping Status: A Post Hoc Analysis of Data From a Randomized, Double-Blind Multicenter Study.",
+        "abstract": "Background Nighttime blood pressure (BP) and an abnormal nocturnal BP dipping profile are important cardiovascular risk factors in patients with hypertension. This post hoc analysis investigated the effects of sacubitril/valsartan on 24-hour BP in patients with mild-to-moderate hypertension and in patient subgroups based on nocturnal BP dipping status. Methods and Results Data from a randomized clinical trial comparing the BP-lowering effects of 8 weeks of treatment with sacubitril/valsartan (200 or 400 mg/d) and olmesartan (20 mg/d) in Japanese patients with mild-to-moderate hypertension were analyzed. The primary end point was change in 24-hour, daytime, and nighttime BP in patient subgroups based on nocturnal BP dipping status (dipper, nondipper). Six hundred thirty-two patients with baseline and follow-up ambulatory BP data were included. Both sacubitril/valsartan dosages reduced 24-hour, daytime, and nighttime systolic BP, and 24-hour and daytime diastolic BP, to a significantly g",
+        "journal": "Journal of the American Heart Association",
+        "year": "2023",
+        "authors": [
+          "Kario Kazuomi",
+          "Rakugi Hiromi",
+          "Yarimizu Daisuke",
+          "Morita Yohei",
+          "Eguchi Shunsuke"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Blood Pressure Monitoring, Ambulatory",
+          "East Asian People",
+          "Essential Hypertension",
+          "Hypertension",
+          "Tetrazoles",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37026551/"
+      },
+      {
+        "pmid": "28093466",
+        "title": "Effects of Sacubitril/Valsartan Versus Olmesartan on Central Hemodynamics in the Elderly With Systolic Hypertension: The PARAMETER Study.",
+        "abstract": "Effective treatment of systolic hypertension in elderly patients remains a major therapeutic challenge. A multicenter, double-blind, randomized controlled trial with sacubitril/valsartan (LCZ696), a first-in-class angiotensin receptor neprilysin inhibitor, was conducted to determine its effects versus olmesartan (angiotensin receptor blocker) on central aortic pressures, in elderly patients (aged ≥60 years) with systolic hypertension and pulse pressure >60 mm Hg, indicative of arterial stiffness. Patients (n=454; mean age, 67.7 years; mean seated systolic blood pressure, 158.6 mm Hg; mean seated pulse pressure, 69.7 mm Hg) were randomized to receive once-daily sacubitril/valsartan 200 mg or olmesartan 20 mg, force titrated to double the initial doses after 4 weeks, before primary assessment at 12 weeks. The study extended double-blind treatment for 12 to 52 weeks, during which amlodipine (2.5-5 mg) and subsequently hydrochlorothiazide (6.25-25 mg) were added-on for patients not achievi",
+        "journal": "Hypertension (Dallas, Tex. : 1979)",
+        "year": "2017",
+        "authors": [
+          "Williams Bryan",
+          "Cockcroft John R",
+          "Kario Kazuomi",
+          "Zappe Dion H",
+          "Brunel Patrick C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aminobutyrates",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Angiotensin Receptor Antagonists",
+          "Biphenyl Compounds",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28093466/"
+      },
+      {
+        "pmid": "39548990",
+        "title": "Association between plasma angiotensinogen level and response to valsartan among sample of Iraqi hypertensive patients.",
+        "abstract": "Aim: The main aim of the present paper is to investigate allele frequencies of rs1799983 polymorphism eNOS genes and to determine association between rs1799983 polymorphism of eNOS gene and essential hypertension in Iraqi hypertensive patients.",
+        "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+        "year": "2024",
+        "authors": [
+          "Mahmoud Haneen Sajid",
+          "Saheb Hussein A",
+          "Mohammad Bassim",
+          "Sultan Ahmed M",
+          "Kadhim Sinaa Abdul Amir"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Valsartan",
+          "Female",
+          "Iraq",
+          "Angiotensinogen",
+          "Middle Aged",
+          "Adult",
+          "Hypertension",
+          "Cross-Sectional Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39548990/"
+      },
+      {
+        "pmid": "38461685",
+        "title": "Effect of sacubitril/valsartan on the hypertensive heart in continuous light-induced and lactacystin-induced pre-hypertension: Interactions with the renin-angiotensin-aldosterone system.",
+        "abstract": "This study investigated whether sacubitril/valsartan or valsartan are able to prevent left ventricular (LV) fibrotic remodelling and dysfunction in two experimental models of pre-hypertension induced by continuous light (24 hours/day) exposure or by chronic lactacystin treatment, and how this potential protection interferes with the renin-angiotensin-aldosterone system (RAAS). Nine groups of three-month-old male Wistar rats were treated for six weeks as follows: untreated controls (C), sacubitril/valsartan (ARNI), valsartan (Val), continuous light (24), continuous light plus sacubitril/valsartan (24+ARNI) or valsartan (24+Val), lactacystin (Lact), lactacystin plus sacubitil/valsartan (Lact+ARNI) or plus valsartan (Lact+Val). Both the 24 and Lact groups developed a mild but significant systolic blood pressure (SBP) increase, LV hypertrophy and fibrosis, as well as LV systolic and diastolic dysfunction. Yet, no changes in serum renin-angiotensin were observed either in the 24 or Lact gro",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2024",
+        "authors": [
+          "Simko Fedor",
+          "Stanko Peter",
+          "Repova Kristina",
+          "Baka Tomas",
+          "Krajcirovicova Kristina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Male",
+          "Renin-Angiotensin System",
+          "Renin",
+          "Aldosterone",
+          "Prehypertension",
+          "Tetrazoles",
+          "Rats, Wistar",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38461685/"
+      },
+      {
+        "pmid": "22352121",
+        "title": "Efficacy and safety of valsartan in hypertensive Taiwanese patients: post-marketing surveillance study.",
+        "abstract": "To evaluate the efficacy and safety of valsartan in Taiwanese patients with essential hypertension.",
+        "journal": "Blood pressure. Supplement",
+        "year": "2011",
+        "authors": [
+          "Liou Chia-Wei",
+          "Yeh Tung-Chen",
+          "Chen I-Chung",
+          "Huang Chi-Hung",
+          "Hung Yi-Jen"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antihypertensive Agents",
+          "Asian People",
+          "Blood Pressure",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22352121/"
+      },
+      {
+        "pmid": "39661905",
+        "title": "Novel pharmacologic approaches in resistant hypertension.",
+        "abstract": "Resistant hypertension (RH) affects 10% to 18% of all patients with hypertension. It is diagnosed when blood pressure cannot be normalized despite the use of 3 classes of antihypertensive drugs (ACE inhibitors or sartans), calcium antagonists and diuretics in maximum doses. If the above-mentioned drugs are ineffective, spironolactone is most often administered. Recently, valsartan/sacubitrol and flozins have been increasingly used in resistant hypertension, which have been introduced for the treatment of diseases other than hypertension but can be a supplement to previously used drugs in resistant hypertension. Pharmaceutical companies are currently working on a dozen or so antihypertensive drugs. The most advanced studies concern aldosterone synthesis inhibitors, an endothelin receptor antagonist, and a drug that inhibits angiotensinogen synthesis. The results to date allow for the consideration of aprocitentan (a drug that inhibits endothelin receptors) or baxdrostat or another new a",
+        "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+        "year": "2024",
+        "authors": [
+          "Głuszek Jerzy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hypertension",
+          "Antihypertensive Agents",
+          "Valsartan",
+          "Tetrazoles",
+          "Spironolactone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39661905/"
+      },
+      {
+        "pmid": "23132848",
+        "title": "Efficacy of aliskiren and valsartan in hypertensive patients with albuminuria: a randomized parallel-group study.",
+        "abstract": "Blockade of the renin-angiotensin system (RAS) is a critical approach to the management of hypertension, especially in proteinuric patients. It is well proven that the direct renin inhibitor aliskiren shows comparable clinical efficacy to the angiotensin II receptor blocker valsartan on blood pressure control and albuminuria. However, there is only limited data on the hand-to-hand effectiveness of these two RAS blockers in improving arterial stiffness. We tested whether aliskiren or valsartan would improve arterial stiffness in hypertensive patients with albuminuria who are already on antihypertensive therapy.",
+        "journal": "Journal of the renin-angiotensin-aldosterone system : JRAAS",
+        "year": "2013",
+        "authors": [
+          "Spanos Georgios",
+          "Kalaitzidis Rigas",
+          "Karasavvidou Despina",
+          "Pappas Kosmas",
+          "Siamopoulos Kostas C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Albuminuria",
+          "Amides",
+          "Antihypertensive Agents",
+          "Demography",
+          "Female",
+          "Fumarates",
+          "Hemodynamics",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23132848/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:31:59.213913",
+  "success": true,
+  "error_message": null
+}

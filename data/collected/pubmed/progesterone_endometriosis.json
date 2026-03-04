@@ -1,0 +1,604 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "endometriosis",
+    "query_string": "Progesterone AND endometriosis"
+  },
+  "data": {
+    "query": "Progesterone AND endometriosis",
+    "results": [
+      {
+        "pmid": "37108154",
+        "title": "Progesterone Resistance in Endometriosis: Current Evidence and Putative Mechanisms.",
+        "abstract": "Endometriosis is an estrogen-dependent disease characterized by the growth of endometrial-like tissue outside the uterus. Progestins are currently the most commonly used treatment for endometriosis because of their excellent therapeutic effects and limited side effects. However, progestins have been unsuccessful in some symptomatic patients. The inability of the endometrium to respond properly to progesterone is known as progesterone resistance. An increasing body of evidence suggests the loss of progesterone signaling and the existence of progesterone resistance in endometriosis. The mechanisms of progesterone resistance have received considerable scholarly attention in recent years. Abnormal PGR signaling, chronic inflammation, aberrant gene expression, epigenetic alterations, and environmental toxins are considered potential molecular causes of progesterone resistance in endometriosis. The general objective of this review was to summarize the evidence and mechanisms of progesterone ",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Zhang Ping",
+          "Wang Guoyun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "Progestins",
+          "Progesterone",
+          "Receptors, Progesterone",
+          "Female",
+          "Humans",
+          "Endometrium",
+          "Uterine Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37108154/"
+      },
+      {
+        "pmid": "31387263",
+        "title": "Progesterone and Estrogen Signaling in the Endometrium: What Goes Wrong in Endometriosis?",
+        "abstract": "In the healthy endometrium, progesterone and estrogen signaling coordinate in a tightly regulated, dynamic interplay to drive a normal menstrual cycle and promote an embryo-receptive state to allow implantation during the window of receptivity. It is well-established that progesterone and estrogen act primarily through their cognate receptors to set off cascades of signaling pathways and enact large-scale gene expression programs. In endometriosis, when endometrial tissue grows outside the uterine cavity, progesterone and estrogen signaling are disrupted, commonly resulting in progesterone resistance and estrogen dominance. This hormone imbalance leads to heightened inflammation and may also increase the pelvic pain of the disease and decrease endometrial receptivity to embryo implantation. This review focuses on the molecular mechanisms governing progesterone and estrogen signaling supporting endometrial function and how they become dysregulated in endometriosis. Understanding how the",
+        "journal": "International journal of molecular sciences",
+        "year": "2019",
+        "authors": [
+          "Marquardt Ryan M",
+          "Kim Tae Hoon",
+          "Shin Jung-Ho",
+          "Jeong Jae-Wook"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Endometriosis",
+          "Endometrium",
+          "Estrogens",
+          "Female",
+          "Hormones",
+          "Humans",
+          "Infertility, Female",
+          "Progesterone",
+          "Receptors, Estrogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31387263/"
+      },
+      {
+        "pmid": "35406659",
+        "title": "MicroRNAs and Progesterone Receptor Signaling in Endometriosis Pathophysiology.",
+        "abstract": "Endometriosis is a significant disease characterized by infertility and pelvic pain in which endometrial stromal and glandular tissue grow in ectopic locations. Altered responsiveness to progesterone is a contributing factor to endometriosis pathophysiology, but the precise mechanisms are poorly understood. Progesterone resistance influences both the eutopic and ectopic (endometriotic lesion) endometrium. An inability of the eutopic endometrium to properly respond to progesterone is believed to contribute to the infertility associated with the disease, while an altered responsiveness of endometriotic lesion tissue may contribute to the survival of the ectopic tissue and associated symptoms. Women with endometriosis express altered levels of several endometrial progesterone target genes which may be due to the abnormal expression and/or function of progesterone receptors and/or chaperone proteins, as well as inflammation, genetics, and epigenetics. MiRNAs are a class of epigenetic modul",
+        "journal": "Cells",
+        "year": "2022",
+        "authors": [
+          "Nothnick Warren B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "Female",
+          "Humans",
+          "Infertility",
+          "MicroRNAs",
+          "Progesterone",
+          "Receptors, Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35406659/"
+      },
+      {
+        "pmid": "37834449",
+        "title": "MicroRNAs in Endometriosis: Insights into Inflammation and Progesterone Resistance.",
+        "abstract": "Endometriosis, a non-malignant gynecological disorder influenced by estrogen, involves the growth of endometrial tissue outside the uterus. Its development includes processes such as inflammation, progesterone resistance, angiogenesis, and cell proliferation. Epigenetic factors, particularly the dysregulation of microRNAs (miRNAs), have emerged as key factors in these mechanisms in endometriosis. This review aims to unveil the intricate molecular processes that control inflammation, progesterone resistance, and miRNA functions in endometriosis. In addition, it provides a comprehensive overview of the current understanding regarding the involvement of miRNAs in the inflammatory aspects of this condition. This synthesis encompasses research investigating the molecular underpinnings of inflammation, along with the biogenesis and roles of miRNAs in endometriosis. Furthermore, it examines human studies and functional analyses to establish the intricate connection between miRNAs, inflammatio",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Hon Jing-Xian",
+          "Wahab Norhazlina Abdul",
+          "Karim Abdul Kadir Abdul",
+          "Mokhtar Norfilza Mohd",
+          "Mokhtar Mohd Helmy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "MicroRNAs",
+          "Progesterone",
+          "Receptors, Progesterone",
+          "Female",
+          "Uterine Diseases",
+          "Humans",
+          "Endometrium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37834449/"
+      },
+      {
+        "pmid": "33537101",
+        "title": "Ovarian hormones-autophagy-immunity axis in menstruation and endometriosis.",
+        "abstract": "Menstruation occurs in few species and involves a cyclic process of proliferation, breakdown and regeneration under the control of ovarian hormones. Knowledge of normal endometrial physiology, as it pertains to the regulation of menstruation, is essential to understand disorders of menstruation. Accumulating evidence indicates that autophagy in the endometrium, under the regulation of ovarian hormones, can result in the infiltration of immune cells, which plays an indispensable role in the endometrium shedding, tissue repair and prevention of infections during menstruation. In addition, abnormal autophagy levels, together with resulting dysregulated immune system function, are associated with the pathogenesis and progression of endometriosis. Considering its potential value of autophagy as a target for the treatment of menstrual-related and endometrium-related disorders, we review the activity and function of autophagy during menstrual cycles. The role of the estrogen/progesterone-auto",
+        "journal": "Theranostics",
+        "year": "2021",
+        "authors": [
+          "Shen Hui-Hui",
+          "Zhang Tao",
+          "Yang Hui-Li",
+          "Lai Zhen-Zhen",
+          "Zhou Wen-Jie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Autophagosomes",
+          "Autophagy",
+          "Endometriosis",
+          "Endometrium",
+          "Epithelial Cells",
+          "Estrogens",
+          "Female",
+          "Gene Expression Regulation",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33537101/"
+      },
+      {
+        "pmid": "39994247",
+        "title": "Construction organoid model of ovarian endometriosis and the function of estrogen and progesterone in the model.",
+        "abstract": "Endometriosis is a refractory estrogen-dependent gynecological disease in which ovarian endometriosis(OE) is the most common, and the main cell components are endometrial epithelial cells and stromal cells. However, constructing ectopic endometrial epithelial cell models in basic studies is still challenging. In this study, we explored the feasibility and influencing factors of constructing and validating eutopic and ectopic endometrial organoid models of OE as in-vitro models. Eutopic and ectopic endometrial tissues of OE patients were selected to establish organoids. Morphologically, the organoids showed a three-dimensional glandular structure with vacuoles or cystic irregularities, and the histological features of the epithelial organoids in endometriosis were well preserved. Immunofluorescence showed positive expression of epithelial markers and estrogen/progesterone receptors. Genetic identification revealed a 100% match between endometriosis epithelial organoids and endometrial t",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Zhang Ruiqi",
+          "Yang Yu'e",
+          "Li Ruyue",
+          "Ma Yuan",
+          "Ma Shaohan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Organoids",
+          "Progesterone",
+          "Estrogens",
+          "Endometrium",
+          "Models, Biological",
+          "Adult",
+          "Cell Proliferation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39994247/"
+      },
+      {
+        "pmid": "28423456",
+        "title": "Progesterone resistance in endometriosis: origins, consequences and interventions.",
+        "abstract": "Endometriosis is a common cause of pelvic pain and affects up to 10% of women of reproductive age. Aberrant progesterone signaling in the endometrium plays a significant role in impaired decidualization and establishment of ectopic endometrial implants. Eutopic endometrial cells from women with endometriosis fail to downregulate genes needed for decidualization, such as those involved in cell cycle regulation, leading to unbridled proliferation. Several causes of progesterone resistance in the endometrium have been postulated, including congenital \"preconditioning\", whereby the in utero environment renders infants susceptible to neonatal uterine bleeding and endometriosis. Progesterone action is crucial to decreasing inflammation in the endometrium, and deviant progesterone signaling results in a proinflammatory phenotype. Conversely, chronic inflammation can induce a progesterone-resistant state. Repetitive retrograde endometrial shedding begets chronic peritoneal inflammation, which ",
+        "journal": "Acta obstetricia et gynecologica Scandinavica",
+        "year": "2017",
+        "authors": [
+          "Patel Bansari G",
+          "Rudnicki Martin",
+          "Yu Jie",
+          "Shu Yimin",
+          "Taylor Robert N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "Endometrium",
+          "Environmental Pollution",
+          "Female",
+          "Humans",
+          "Progesterone",
+          "Receptors, Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28423456/"
+      },
+      {
+        "pmid": "29514724",
+        "title": "Oestrogen, progesterone and stem cells: the discordant trio in endometriosis?",
+        "abstract": "Oestrogen-progesterone signalling is highly versatile and critical for the maintenance of healthy endometrium in humans. The genomic and nongenomic signalling cascades initiated by these hormones in differentiated cells of endometrium have been the primary focus of research since 1920s. However, last decade of research has shown a significant role of stem cells in the maintenance of a healthy endometrium and the modulatory effects of hormones on these cells. Endometriosis, the growth of endometrium outside the uterus, is very common in infertile patients and the elusiveness in understanding of disease pathology causes hindrance in selection of treatment approaches to enhance fertility. In endometriosis, the stem cells are dysfunctional as it can confer progesterone resistance to their progenies resulting in disharmony of hormonal orchestration of endometrial homeostasis. The bidirectional communication between stem cell signalling pathways and oestrogen-progesterone signalling is found",
+        "journal": "Expert reviews in molecular medicine",
+        "year": "2018",
+        "authors": [
+          "Susheelamma Chithra Janardhanan",
+          "Pillai Sathy M",
+          "Asha Nair Sivakumari"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "Female",
+          "Humans",
+          "Osteogenesis",
+          "Progesterone",
+          "Stem Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29514724/"
+      },
+      {
+        "pmid": "34849906",
+        "title": "Peritoneal fluid progesterone and progesterone resistance in superficial endometriosis lesions.",
+        "abstract": "Peritoneal fluid in ovulatory women is an ovarian exudate with higher estrogen and progesterone concentrations than in plasma. In the follicular phase, progesterone concentrations are as high as plasma concentrations in the luteal phase. After ovulation, estrogen and progesterone concentrations in the peritoneal fluid are 5-10 times higher than in plasma, both in women with and without endometriosis. The histologically proliferative aspect without secretory changes of most superficial subtle lesions is not compatible with the progesterone concentrations in the peritoneal fluid. Therefore, we have to postulate a strong progesterone resistance in these lesions. The mechanism is unclear and might be a peritoneal fluid effect in women with predisposing defects in the endometrium, or isolated endometrial glands with progesterone resistance, or subtle lesions originating from the basal endometrium: the latter hypothesis is attractive since in basal endometrium progesterone does not induce se",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2022",
+        "authors": [
+          "Koninckx Philippe R",
+          "Ussia Anastasia",
+          "Adamyan Leila",
+          "Gomel Victor",
+          "Martin Dan C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ascitic Fluid",
+          "Endometriosis",
+          "Endometrium",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Progesterone",
+          "Uterine Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34849906/"
+      },
+      {
+        "pmid": "32412587",
+        "title": "Progesterone receptor ligands for the treatment of endometriosis: the mechanisms behind therapeutic success and failure.",
+        "abstract": "Despite intense research, it remains intriguing why hormonal therapies in general and progestins in particular sometimes fail in endometriosis.",
+        "journal": "Human reproduction update",
+        "year": "2020",
+        "authors": [
+          "Reis Fernando M",
+          "Coutinho Larissa M",
+          "Vannuccini Silvia",
+          "Batteux Frédéric",
+          "Chapron Charles"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "Endometrium",
+          "Female",
+          "Fertility Agents, Female",
+          "Humans",
+          "Ligands",
+          "Peritoneal Diseases",
+          "Progesterone",
+          "Progestins",
+          "Receptors, Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32412587/"
+      },
+      {
+        "pmid": "36863794",
+        "title": "Aberrant epigenetic regulation of estrogen and progesterone signaling at the level of endometrial/endometriotic tissue in the pathomechanism of endometriosis.",
+        "abstract": "Endometriosis is a term referring to a condition whereby the endometrial tissue is found outside the uterine cavity. This progressive and debilitating condition affects up to 15% of women of reproductive age. Due to the fact that endometriosis cells may express estrogen receptors (ERα, Erβ, GPER) and progesterone (P4) receptors (PR-A, PR-B), their growth, cyclic proliferation, and breakdown are similar to the processes occurring in the endometrium. The underlying etiology and pathogenesis of endometriosis are still not fully explained. The retrograde transport of viable menstrual endometrial cells with the retained ability to attach within the pelvic cavity, proliferate, differentiate and invade into the surrounding tissue explains the most widely accepted implantation theory. Endometrial stromal cells (EnSCs) with clonogenic potential constitute the most abundant population of cells within endometrium that resemble the properties of mesenchymal stem cells (MSCs). Accordingly, formatio",
+        "journal": "Vitamins and hormones",
+        "year": "2023",
+        "authors": [
+          "Szukiewicz Dariusz"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Progesterone",
+          "Endometriosis",
+          "Epigenesis, Genetic",
+          "Signal Transduction",
+          "Estrogens",
+          "Receptors, Estrogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36863794/"
+      },
+      {
+        "pmid": "36191723",
+        "title": "Regulation of progesterone receptor expression in endometriosis, endometrial cancer, and breast cancer by estrogen, polymorphisms, transcription factors, epigenetic alterations, and ubiquitin-proteasome system.",
+        "abstract": "The uterus and breasts are hormone-responsive tissues. Progesterone and estradiol regulate gonadotropin secretion, prepare the endometrium for implantation, maintain pregnancy, and regulate the differentiation of breast tissue. Dysregulation of these hormones causes endometriosis, endometrial cancer, and breast cancer, damaging the physical and mental health of women. Emerging evidence has shown that progesterone resistance or elevated progesterone activity is the primary hormonal substrate of these diseases. Since progesterone acts through its specific nuclear receptor, the abnormal expression of the progesterone receptor (PR) dysregulates progesterone function. This review discusses the regulatory mechanisms of PR expression in patients with endometriosis, and endometrial or breast cancer, including estrogen, polymorphisms, transcription factors, epigenetics, and the ubiquitin-proteasome system. (1) Estrogen promotes the expression of PRA (a PR isoform) mRNA and protein through the i",
+        "journal": "The Journal of steroid biochemistry and molecular biology",
+        "year": "2023",
+        "authors": [
+          "Pu Huijie",
+          "Wen Xiaosha",
+          "Luo DiXian",
+          "Guo Zifen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Humans",
+          "Female",
+          "Progesterone",
+          "Receptors, Progesterone",
+          "Breast Neoplasms",
+          "Proteasome Endopeptidase Complex",
+          "Endometriosis",
+          "Transcription Factors",
+          "Ubiquitin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36191723/"
+      },
+      {
+        "pmid": "38850031",
+        "title": "Progesterone levels do not differ between patients with or without endometriosis/adenomyosis both in those who conceive after hormone replacement therapy-frozen embryo transfer cycles and those who do not.",
+        "abstract": "Do women with endometriosis who achieve a live birth (LB) after HRT-frozen embryo transfer (HRT-FET) have different progesterone levels on the day of transfer compared to unaffected women?",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2024",
+        "authors": [
+          "Bourdon M",
+          "Sorel M",
+          "Maignien C",
+          "Guibourdenche J",
+          "Patrat C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Progesterone",
+          "Embryo Transfer",
+          "Adult",
+          "Pregnancy",
+          "Live Birth",
+          "Hormone Replacement Therapy",
+          "Adenomyosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38850031/"
+      },
+      {
+        "pmid": "23303565",
+        "title": "Progesterone action in endometrial cancer, endometriosis, uterine fibroids, and breast cancer.",
+        "abstract": "Progesterone receptor (PR) mediates the actions of the ovarian steroid progesterone, which together with estradiol regulates gonadotropin secretion, prepares the endometrium for implantation, maintains pregnancy, and differentiates breast tissue. Separation of estrogen and progesterone actions in hormone-responsive tissues remains a challenge. Pathologies of the uterus and breast, including endometrial cancer, endometriosis, uterine fibroids, and breast cancer, are highly associated with estrogen, considered to be the mitogenic factor. Emerging evidence supports distinct roles of progesterone and its influence on the pathogenesis of these diseases. Progesterone antagonizes estrogen-driven growth in the endometrium, and insufficient progesterone action strikingly increases the risk of endometrial cancer. In endometriosis, eutopic and ectopic tissues do not respond sufficiently to progesterone and are considered to be progesterone-resistant, which contributes to proliferation and surviva",
+        "journal": "Endocrine reviews",
+        "year": "2013",
+        "authors": [
+          "Kim J Julie",
+          "Kurita Takeshi",
+          "Bulun Serdar E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Breast Neoplasms",
+          "Cell Differentiation",
+          "Cell Proliferation",
+          "Endometrial Neoplasms",
+          "Endometriosis",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Leiomyoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23303565/"
+      },
+      {
+        "pmid": "37270588",
+        "title": "CFP1 governs uterine epigenetic landscapes to intervene in progesterone responses for uterine physiology and suppression of endometriosis.",
+        "abstract": "Progesterone (P4) is required for the preparation of the endometrium for a successful pregnancy. P4 resistance is a leading cause of the pathogenesis of endometrial disorders like endometriosis, often leading to infertility; however, the underlying epigenetic cause remains unclear. Here we demonstrate that CFP1, a regulator of H3K4me3, is required for maintaining epigenetic landscapes of P4-progesterone receptor (PGR) signaling networks in the mouse uterus. Cfp1f/f;Pgr-Cre (Cfp1d/d) mice showed impaired P4 responses, leading to complete failure of embryo implantation. mRNA and chromatin immunoprecipitation sequencing analyses showed that CFP1 regulates uterine mRNA profiles not only in H3K4me3-dependent but also in H3K4me3-independent manners. CFP1 directly regulates important P4 response genes, including Gata2, Sox17, and Ihh, which activate smoothened signaling pathway in the uterus. In a mouse model of endometriosis, Cfp1d/d ectopic lesions showed P4 resistance, which was rescued by",
+        "journal": "Nature communications",
+        "year": "2023",
+        "authors": [
+          "Yang Seung Chel",
+          "Park Mira",
+          "Hong Kwon-Ho",
+          "La Hyeonwoo",
+          "Park Chanhyeok"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Female",
+          "Humans",
+          "Mice",
+          "Pregnancy",
+          "Embryo Implantation",
+          "Endometriosis",
+          "Endometrium",
+          "Epigenesis, Genetic",
+          "Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37270588/"
+      },
+      {
+        "pmid": "41108829",
+        "title": "Serum progesterone concentrations and subcutaneous progesterone supplementation in endometriosis: artificial-cycle frozen embryo transfer.",
+        "abstract": "Are there differences between patients with and without endometriosis in progesterone concentrations the day before artificial-cycle frozen embryo transfer (AC-FET) and in live birth rate (LBR) following subcutaneous progesterone when indicated?",
+        "journal": "Reproductive biomedicine online",
+        "year": "2025",
+        "authors": [
+          "Sachs-Guedj Noemie",
+          "Coroleu Buenaventura",
+          "Álvarez Manuel",
+          "García Martínez Sandra",
+          "Polyzos Nikolaos P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Progesterone",
+          "Embryo Transfer",
+          "Adult",
+          "Retrospective Studies",
+          "Pregnancy",
+          "Pregnancy Rate",
+          "Cryopreservation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41108829/"
+      },
+      {
+        "pmid": "30809650",
+        "title": "Endometriosis and nuclear receptors.",
+        "abstract": "Endometriosis is recognized as a steroid-dependent disorder; however, the precise roles of nuclear receptors (NRs) in steroid responsiveness and other signaling pathways are not well understood.",
+        "journal": "Human reproduction update",
+        "year": "2019",
+        "authors": [
+          "Yilmaz Bahar D",
+          "Bulun Serdar E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Endometriosis",
+          "Estrogens",
+          "Female",
+          "Hormone Antagonists",
+          "Hormones",
+          "Humans",
+          "Ligands",
+          "Progesterone",
+          "Receptors, Cytoplasmic and Nuclear"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30809650/"
+      },
+      {
+        "pmid": "20108182",
+        "title": "17Beta-hydroxysteroid dehydrogenase-2 deficiency and progesterone resistance in endometriosis.",
+        "abstract": "Estradiol (E2) stimulates the growth and inflammation in the ectopic endometriotic tissue that commonly resides on the pelvic organs. Several clinical and laboratory-based observations are indicative of resistance to progesterone action in endometriosis. The molecular basis of progesterone resistance in endometriosis may be related to an overall reduction in the levels of progesterone receptor (PR). In normal endometrium, progesterone acts via PR on stromal cells to induce secretion of paracrine factor(s) that in turn stimulate neighboring epithelial cells to express the enzyme 17beta-hydroxysteroid dehydrogenase type 2 (HSD17B2). HSD17B2 is an extremely efficient enzyme and rapidly metabolizes the biologically potent estrogen E2 to weakly estrogenic estrone. In endometriotic tissue, progesterone is incapable of inducing epithelial HSD17B2 expression due to a defect in stromal cells. The inability of endometriotic stromal cells to produce progesterone-induced paracrine factors that sti",
+        "journal": "Seminars in reproductive medicine",
+        "year": "2010",
+        "authors": [
+          "Bulun Serdar E",
+          "Cheng You-Hong",
+          "Pavone Mary Ellen",
+          "Yin Ping",
+          "Imir Gonca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "17-Hydroxysteroid Dehydrogenases",
+          "Animals",
+          "Cell Differentiation",
+          "Endometriosis",
+          "Female",
+          "Gene Expression Regulation",
+          "Humans",
+          "Mice",
+          "Paracrine Communication",
+          "Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20108182/"
+      },
+      {
+        "pmid": "38388924",
+        "title": "Predictive Role of Progesterone Levels for IVF Outcome in Different Phases of Controlled Ovarian Stimulation for Patients With and Without Endometriosis: Expert View.",
+        "abstract": "The study aimed to review the role of basal, trigger, and aspiration day progesterone levels (PLs) as predictors of in vitro fertilization (IVF) success for patients with and without endometriosis. A non-systematic review was conducted by searching papers published in English during the period of 1990-2023 in MEDLINE and PubMed, Embase, The Cochrane Library (Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials, Cochrane Methodology Register), and Web of Science. The most widely used IVF predictor success was the trigger day progesterone serum level. Many studies utilize the threshold level of 1.5-2.0 ng/ml. However, the predictive power of only progesterone level failed to show high sensitivity and specificity. Contrary, progesterone level on the trigger day combined with the number of mature retrieved oocytes had the highest predictive power. High baseline progesterone level was associated with poor IVF outcomes. Research on progesterone and IVF succ",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "year": "2024",
+        "authors": [
+          "Bila Jovan",
+          "Makhadiyeva Dinara",
+          "Dotlic Jelena",
+          "Andjic Mladen",
+          "Aimagambetova Gulzhanat"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Endometriosis",
+          "Female",
+          "Progesterone",
+          "Fertilization in Vitro",
+          "Ovulation Induction",
+          "Pregnancy",
+          "Infertility, Female",
+          "Treatment Outcome",
+          "Predictive Value of Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38388924/"
+      },
+      {
+        "pmid": "37071897",
+        "title": "Targeting YAP1 ameliorates progesterone resistance in endometriosis.",
+        "abstract": "Does YAP1 inhibition alleviate progesterone resistance in endometriosis?",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2023",
+        "authors": [
+          "Lin Shih-Chieh",
+          "Li Wan-Ning",
+          "Lin Shin-Chih",
+          "Hou Haun-Tzu",
+          "Tsai Ya-Chuan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Progestins",
+          "MicroRNAs",
+          "Stromal Cells",
+          "Progesterone",
+          "Female",
+          "Pregnancy",
+          "Humans",
+          "Mice",
+          "Animals",
+          "Endometrium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37071897/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:01:59.978369",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,929 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "mantle cell lymphoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04566887",
+      "title": "A Phase II Study of Acalabrutinib in Combination With R-CHOP Chemotherapy in Previously Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-03-01",
+      "completion_date": "2032-04-30",
+      "country": "Canada",
+      "enrollment": 105,
+      "brief_summary": "This is a multicenter, open-label, non-randomized, phase II clinical trial conducted in Canada. The purpose of the study is to determine the remission rate of acalabrutinib in combination with R-CHOP in patients with previously untreated mantle cell lymphoma prior to autologous stem cell transplantation. This study is composed of 2 cohorts, A and B. In Cohort A all patients will receive six cycles of R-CHOP chemotherapy together with continuous acalabrutinib at the standard dose twice per day or",
+      "eligibility_criteria": "Cohort A:\n\nInclusion Criteria Eligible subjects will be considered for inclusion in Cohort A of this study if they meet all of the following criteria:\n\n1. Men and women greater than or equal to 18 years of age deemed eligible for treatment with Full dose RCHOP and ASCT by the qualified investigator.",
+      "endpoints": [
+        "Complete response (CR) rate by PET/CT scan using Lugano Classification for Malignant Lymphoma - Cohort A",
+        "To evaluate FFS in patients receiving acalabrutinib + R-CHOP followed by 2 years of maintenance acalabrutinib + rituximab - Cohort B"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT04566887"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00521261",
+      "title": "Immune Consolidation With Allogeneic Activated T Cells Armed With OKT3 x Rituxan (Anti-CD3 x Anti-CD20) Bispecific Antibody (CD20Bi) After Allogeneic Peripheral Blood Stem Cell Transplant for High Risk CD20+ Non-Hodgkin's Lymphoma (Phase I)",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2007-10",
+      "completion_date": "2008-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Giving high doses of chemotherapy before a donor stem cell transplant helps stop the growth of cancer cells. It also stops the patient's immune system from rejecting the donor's stem cells. Colony stimulating factors, such as aldesleukin and GM-CSF, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. The donated stem cells may replace the patient's immune cells and help destroy a",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed CD20-positive non-Hodgkin lymphoma\n\n  * Relapsed, resistant, or chemorefractory disease\n* Must have an available HLA-identical sibling donor\n* No significant skin breakdown from tumor or other disease\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance ",
+      "endpoints": [
+        "Maximum tolerated dose",
+        "Time to relapse",
+        "Disease-free survival"
+      ],
+      "sponsor": "Barbara Ann Karmanos Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00521261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02657447",
+      "title": "A Phase 1, Open Label, Randomized Study to Assess Pharmacokinetics, Biodistribution and Radiation Dosimetry of Lutetium (177Lu) Lilotomab Satetraxetan (Betalutin®) Radioimmunotherapy in Patients With Relapsed Non-Hodgkin Lymphoma",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2017-12-19",
+      "completion_date": "2020-09",
+      "country": "Germany",
+      "enrollment": 0,
+      "brief_summary": "This study is a phase I, open label, randomized study to assess pharmacokinetics, biodistribution and radiation dosimetry of lutetium (177Lu) lilotomab satetraxetan (Betalutin®) radioimmunotherapy in patients with relapsed non-Hodgkin lymphoma. The study will also investigate the safety, toxicity and efficacy of Betalutin and pre-dosing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed (by WHO classification) relapsed indolent non-Hodgkin B-cell lymphoma of following subtypes: Follicular lymphoma (follicular grade I-IIIA), Marginal zone lymphoma (exclusion of MZL if large lymphocytes \\> 50%), Small lymphocytic lymphoma, Lymphoplasma",
+      "endpoints": [
+        "Dosimetry"
+      ],
+      "sponsor": "Nordic Nanovector",
+      "url": "https://clinicaltrials.gov/study/NCT02657447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00070447",
+      "title": "Phase II Study of Rituximab (NSC 687451) + CHOP Followed by 90Y-Ibritumomab Tiuxetan (NSC 710085) in Patients With Previously Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2006-06",
+      "country": "South Africa, Puerto Rico, Australia, Peru, United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab and yttrium Y 90 ibritumomab tiuxetan, can locate cancer cells and either kill them or deliver radioactive cancer-killing substances to them without harming normal cells. Drugs used in chemotherapy, such as prednisone, cyclophosphamide, doxorubicin, and vincristine, use different ways to stop cancer cells from dividing so they stop growing or die. Combining monoclonal antibody therapy with chemotherapy may kill more cancer cells.\n\nPURPOSE: This",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed mantle cell lymphoma with expression of bcl-1 and CD20\n\n  * Stage II-IV disease\n* Measurable or evaluable disease\n\n  * Measurable disease defined as at least 1 bidimensionally measurable lesion at least 2 cm by imaging scan\n  * A spleen at least 1",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00070447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02933320",
+      "title": "A Cancer Research UK Phase I/IIa Clinical Trial of BI-1206; an Antibody to FcƔRIIB (CD32b), as a Single Agent and in Combination With an Anti-CD20 Antibody in Patients With CD32b Positive B-cell Malignancy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-10-27",
+      "completion_date": "2020-03-19",
+      "country": "United Kingdom",
+      "enrollment": 14,
+      "brief_summary": "The purpose of this trial is to identify the tolerable dose of BI-1206 (both alone and in combination) for patients with B-cell lymphoma and leukaemia and further evaluate BI-1206 alone and in combination with an anti-CD20 antibody.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written (signed and dated) informed consent and be capable of co-operating with treatment and follow-up.\n2. B-cell lymphoma or CLL proven by histology or flow cytometry, relapsed or refractory to conventional treatment, or for which no conventional therapy exists or is declin",
+      "endpoints": [
+        "Documenting Adverse Events (AEs), Serious Adverse Events (SAEs), Dose Limiting Toxicities (DLTs) (Graded According to NCI-CTCAE Version 4.02) and Laboratory Parameters and Determining Their Causality in Relation to BI-1206.",
+        "Documenting AEs, SAEs (Graded According to NCI-CTCAE Version 4.02) and Laboratory Parameters and Determining Their Causality in Relation to BI-1206 and, Where Appropriate, Anti-CD20 Antibody."
+      ],
+      "sponsor": "Cancer Research UK",
+      "url": "https://clinicaltrials.gov/study/NCT02933320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00376961",
+      "title": "A Phase II Study of Combination Rituximab-CHOP and Bortezomib (Velcade®) (R-CHOP-V) Induction Therapy Followed by Bortezomib Maintenance (VM) Therapy for Patients With Newly Diagnosed Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2017-09",
+      "country": "United States",
+      "enrollment": 68,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Givin",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed mantle cell lymphoma (MCL) meeting the following criteria:\n\n  * Stage III-IV or bulky stage II disease\n  * Confirmation of positivity for the following phenotypes by immunohistochemistry or flow cytometry:\n\n    * Cluster of differentiation antigen",
+      "endpoints": [
+        "2-year Progression-free Survival in Patients Treated With Rituximab-CHOP-bortezomib Induction Therapy (RCHOP-V) Followed by Bortezomib Maintenance Therapy (VM)"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00376961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00031642",
+      "title": "Phase I/II Study of IDEC-Y2B8 (Zevalin) for Post Transplant Relapses of B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-01-01",
+      "completion_date": "2008-03-01",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "RATIONALE: Monoclonal antibodies such as rituximab can locate cancer cells and deliver cancer-killing substances to them without harming normal cells. Radiolabeled monoclonal antibodies can locate and deliver radioactive cancer-killing substances.\n\nPURPOSE: Phase I/II trial to study the effectiveness of combining radiolabeled monoclonal antibodies with rituximab in treating patients who have non-Hodgkin's lymphoma that has not responded to high-dose chemotherapy and autologous stem cell transpla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of relapsed B-cell non-Hodgkin's lymphoma (NHL) after high-dose chemotherapy and autologous stem cell transplantation\n* Less than 25% bone marrow involvement with NHL as evidenced by unilateral or bilateral biopsy within the past 6 weeks\n\n  o Bone marrow biopsy shoul",
+      "endpoints": [
+        "Maximum tolerated dose",
+        "Safety and efficacy"
+      ],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT00031642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00863369",
+      "title": "A Phase I/II Study of VELCADE in Combination With Gemcitabine in Relapsed B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-29",
+      "completion_date": "2023-06-20",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as gemcitabine hydrochloride, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry canc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed intermediate or high grade B-cell Non-Hodgkin lymphoma with primary progressive or relapsed disease\n* Patients may have had up to 4 prior chemo-and-or radiation therapy regiments, including one autologous transplant ",
+      "endpoints": [
+        "Number of Participants With at Least One Dose Limiting Toxicity (DLT)",
+        "Recommended Phase II Dose"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00863369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00109967",
+      "title": "A Phase II Study of CCI-779 in Combination With Rituximab in Patients With Relapsed or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 71,
+      "brief_summary": "This phase II trial is studying how well giving CCI-779 together with rituximab works in treating patients with relapsed or refractory mantle cell lymphoma. Drugs used in chemotherapy, such as CCI-779, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and hel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed\\* mantle cell lymphoma (MCL)\n\n  * Relapsed, refractory, or stable disease after prior treatment\n  * Tumor must be cyclin D-1 by immunohistochemistry OR 11;14 translocation by fluorescent in situ hybridization or cytogenetics\n* Measurable disease, defin",
+      "endpoints": [
+        "Overall Response Rate (Complete and Partial Responses) as Defined by the International Workshop Criteria"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00109967"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05245656",
+      "title": "A Randomized Phase II Trial Comparing Rituximab/Bendamustine(RB) Alternating With Rituximab/Bendamustine/Cytarabine(RBAC) With RB as Induction Therapy in Elderly Patients With Newly Diagnosed and Transplant-ineligible Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-10-18",
+      "completion_date": "2029-12-31",
+      "country": "South Korea",
+      "enrollment": 90,
+      "brief_summary": "This is a phase 2, multicenter, open-label, active-controlled randomized trial to determine efficacy and safety of rituximab/bendamustine (RB) alternating with rituximab/bendamustine/cytarabine (RBAC) compared with standard RB alone in the first-line treatment of elderly patients with mantle cell lymphoma, who are not eligible for high-dose therapy followed by autologous stem cell transplantation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. newly diagnosed, previously untreated, histologically confirmed CD20+ mantle cell lymphoma, confirmed by WHO classification criteria\n2. age ≥70 years or 60-69 years if the patients are ineligible for high-dose therapy with autologous stem cell transplantation.\n3. ECOG perform",
+      "endpoints": [
+        "Progression-freesurvival"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05245656"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00617929",
+      "title": "Conditioning for Graft Failure After Hematopoietic Stem Cell Transplantation",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-01",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "RATIONALE: Antithymocyte globulin, clofarabine, and rituximab may stop the patient's immune system from rejecting the donor's stem cells when they do not exactly match the patient's blood. The donated stem cells may replace the patient's immune cells and help destroy any remaining cancer cells (graft-versus-tumor effect). Sometimes the transplanted cells from a donor can also make an immune response against the body's normal cells. Giving antithymocyte globulin before transplant and cyclosporine",
+      "eligibility_criteria": "Patient Inclusion Criteria:\n\n* Timing of relevant evaluations: Taking in account the need for rapid intervention, if white blood count is less than 200 on day +20, bone marrow aspirate should be performed on day +21. Unless there is an increase in absolute neutrophil count (ANC) to \\> 500 in the fol",
+      "endpoints": [
+        "Rate of Sustained Donor Engraftment",
+        "Survival at 100 Days Post Transplant"
+      ],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00617929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06084936",
+      "title": "A Phase III, Open-Label, Multicenter Randomized Study Evaluating Glofitamab as a Single Agent Versus Investigator's Choice in Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-10-22",
+      "completion_date": "2028-03-31",
+      "country": "South Korea, Brazil, France, Spain, Sweden, Taiwan, Puerto Rico, Italy, Australia, China, United Kingdom, Canada, United States",
+      "enrollment": 182,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of glofitamab monotherapy compared with an investigator's choice of either rituximab plus bendamustine (BR), or lenalidomide with rituximab (R-Len) in patients with relapsed or refractory (R/R) mantle cell lymphoma (MCL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Life expectancy at least 12 weeks\n* Histologically-confirmed MCL, with documentation of either overexpression of cyclin D1 or the presence of t(11:14) within 12 months of study entry\n* Relapsed (disease progression after the last treatment regimen) or refractory (failure to ac",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT06084936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01318317",
+      "title": "Phase I/II Study of Cellular Immunotherapy Using Central Memory-Enriched CD8+ T Cells Lentivirally Transduced to Express A CD19-Specific Chimeric Immunoreceptor Following Peripheral Blood Stem Cell Transplantation for Patients With High-Risk Intermediate Grade B-Lineage Non-Hodgkin Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2011-09-19",
+      "completion_date": "2026-02-26",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of genetically engineered lymphocyte therapy and to see how well it works after peripheral blood stem cell transplant (PBSCT) in treating patients with high-risk, intermediate-grade, B-cell non-Hodgkin lymphoma (NHL). Genetically engineered lymphocyte therapy may stimulate the immune system in different ways and stop cancer cells from growing. Giving rituximab together with chemotherapy before a PBSCT stops the growth of cancer cells b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* City of Hope (COH) pathology review confirms that research participant's diagnostic material is consistent with history of intermediate grade B-cell NHL (e.g., diffuse B-cell lymphoma, mantle cell lymphoma, transformed follicular lymphoma)\n* History of relapse after achieving ",
+      "endpoints": [
+        "Number of Participants With Dose Limiting Toxicities (DLTs)",
+        "Woodchuck Hepatitis Virus Post-transcriptional Regulatory Element (WPRE) Detection Above Background",
+        "Number of Days of Quantifiable CD19 CAR Post T-cell Infusion"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01318317"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02460276",
+      "title": "A Phase II Trial of Ibrutinib, Lenalidomide and Rituximab for Patients With Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2019-12-31",
+      "country": "Norway, Denmark, Sweden, Finland",
+      "enrollment": 50,
+      "brief_summary": "In this trial, patients with mantle cell lymphoma will be included, treatment with lenalidomide, rituximab and ibrutinib will be administered in an induction phase for up to 12 cycles, cycle length 28 days. Patients with complete remission, partial response or stable disease will enter a maintenance phase with treatment with ibrutinib and rituximab until progression of disease.\n\nThe primary objective is to evaluate overall response rate, based on PET and CT.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age over 18 years\n* Histologically confirmed (according to the WHO 2008, and upcoming 2015 classification) mantle cell lymphoma stage II-IV\n* Received at least 1 prior rituximab-containing chemotherapy regimen\n* Documented relapse or disease progression following the last anti",
+      "endpoints": [
+        "Overall response rate."
+      ],
+      "sponsor": "Lund University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02460276"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005780",
+      "title": "Pilot Study of Idiotype Vaccine and EPOCH-Rituximab Chemotherapy in Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-06-01",
+      "completion_date": "2021-06-16",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This study will evaluate the safety and effectiveness of an experimental cancer vaccine for mantle cell lymphoma a form of cancer of the white blood cells called lymphocytes. Although standard treatments for lymphoma may achieve disease remission, none provides a cure.\n\nPatients with mantle cell lymphoma 18 years and older who have not been treated previously with chemotherapy may participate in this study. Candidates will be screened for eligibility with a medical history and physical examinati",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nTissue diagnosis of mantle cell lymphoma (confirmed in Laboratory of Pathology). Blastic cell variant will be eligible.\n\nAge greater than or equal to 18.\n\nPreviously untreated with cytotoxic chemotherapy. Patients may have received local radiation or a short course of steroids",
+      "endpoints": [
+        "Median Progression-free Survival (PFS) in Participants Treated With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)",
+        "Percentage of Participants With an Antibody Response to Idiotype Vaccine"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00005780"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00026182",
+      "title": "Randomized Phase II Study Of Interleukin-12 In Combination With Rituximab In Patients With Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-10",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 99,
+      "brief_summary": "Monoclonal antibodies, such as rituximab, can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. Interleukin-12 may kill cancer cells by stopping blood flow to the tumor and by stimulating a person's white blood cells to kill cancer cells. Combining rituximab with interleukin-12 may kill more cancer cells. This randomized phase II trial is comparing how well giving rituximab together with two different schedules of interleukin-12 w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed CD20-positive B-cell non-Hodgkin's lymphoma\n* Previously treated low-grade lymphoma considered incurable with standard therapy\n\n  * Grade I or II follicular lymphoma\\*\n  * Lymphoplasmacytic lymphoma\\*\n  * Small lymphocytic lymphoma\\*\n  * Nodal marginal",
+      "endpoints": [
+        "Objective response",
+        "Objective response"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00026182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01326702",
+      "title": "A Phase 1b/2a Study of ABT-888 in Combination With Bendamustine +/- Rituximab in Lymphoma, Multiple Myeloma and Solid Tumors",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2015-04",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "This phase I/II trial studies the side effects and the best dose of veliparib when given together with bendamustine hydrochloride and rituximab and to see how well they work in treating patients with lymphoma, multiple myeloma, or solid tumors that have come back or have not responded to treatment. Veliparib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as bendamustine hydrochloride, work in different ways to stop the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Phase 1b: Patients must have a histologically confirmed solid malignancy, lymphoma or multiple myeloma for which standard curative or palliative measures do not exist, are no longer effective, or for which the patient is not eligible or refuses; phase 1b cohort expansion: pati",
+      "endpoints": [
+        "Maximum Tolerated Dose of Veliparib When Combined With Bendamustine Hydrochloride",
+        "Response Rate",
+        "Number of Participants With Adverse Events"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01326702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00299494",
+      "title": "A Phase 1/2 Study Of Cmc-544 Administered In Combination With Rituximab In Subjects With Follicular Or Diffuse Large B-cell Non-hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-05-04",
+      "completion_date": "2014-06-02",
+      "country": "South Korea, France, Spain, Hong Kong, Switzerland, Italy, Germany, Australia, United Kingdom, Netherlands, Poland, Belgium, United States",
+      "enrollment": 119,
+      "brief_summary": "The purpose of the study is to determine the tolerability, the initial safety profile and maximum tolerated dose, and to obtain preliminary information on the antitumor activity of inotuzumab ozogamicin \\[CMC-544\\] in combination with rituximab in subjects with follicular, diffuse large B-Cell, or mantle cell NHL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with CD20 and CD22-positive, follicular or diffuse large B-cell NHL who have not responded or progressed after 1 or 2 prior therapies; or subjects with CD20 and CD22-positive intermediate/aggressive NHL (diffuse large B-cell, mantle cell, transformed follicular or fol",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Inotuzumab Ozogamicin in Combination With Rituximab (375 mg/m^2 )",
+        "Percentage of Participants With a Treatment Emergent Adverse Event (TEAE) (Safety Population)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00299494"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04624958",
+      "title": "Zanubrutinib and Rituximab Followed by R-DHAOx (Rituximab, Dexamethasone, Cytarabine and Oxaliplatin) Regimen Then Maintenance with Zanubrutinib for Newly-Diagnosed Mantle Cell Lymphoma (MCL): a Single Arm, Open Label, Multi-center Phase II Study",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-12-01",
+      "completion_date": "2026-12",
+      "country": "China",
+      "enrollment": 42,
+      "brief_summary": "This phase 2 trial studies the efficacy and safety of zanubrutinib plus rituximab followed by R-DHAOx (rituximab, dexamethasone, cytarabine and oxaliplatin) regimen then maintenance with zanubrutinib for newly-diagnosed Mantle Cell Lymphoma (MCL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed CD20 positive mantle cell lymphoma;\n* Patients with MCL-related symptomatic and need immediate therapy; Include any of the following: (1) Blastoid variant (2) Pleomorphic variant (3) Ki-67 ≥30% (4) Bulky mass \\> 7 cm or ≥2 tumors, each ≥5 cm in diamete",
+      "endpoints": [
+        "Complete remission rate after PART A"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT04624958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02747732",
+      "title": "A Phase II Study of the Bruton's Tyrosine Kinase Inhibitor, PCI-32765 (Ibrutinib), in Combination With Bendamustine and Rituximab (BR) for Patients With Relapsed/Refractory Aggressive B Cell Lymphomas",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-12",
+      "completion_date": "2021-10",
+      "country": "Israel",
+      "enrollment": 72,
+      "brief_summary": "This is a phase 2 study of the Bruton's Tyrosine Kinase Inhibitor, PCI-32765 (ibrutinib), in combination with bendamustine and rituximab (BR) in subjects with previously treated aggressive B cell non Hodgkin lymphoma (aB-NHL) including any subtype of diffuse large B cell lymphoma (DLBCL) primary mediastinal B cell lymphoma (PMBCL), double and triple hit DLBCL, transformed indolent lymphoma, unclassifiable aggressive B cell lymphoma between DLBCL and Burkitt lymphoma. Patients with CNS involvemen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients over the age of 18.\n2. Histologically confirmed DLBCL, Transformed low grade lymphoma to DLBCL, primary mediastinal B cell lymphoma or unclassifiable lymphoma between DLBCL and Burkitt Lymphoma, either in first or second relapse/progression in patients who are ",
+      "endpoints": [
+        "overall response rate (ORR) of the combination of ibrutinib, bendamustine and rituximab (IBR)"
+      ],
+      "sponsor": "Sheba Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02747732"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004112",
+      "title": "A Phase III Randomized Trial of CHOP Chemotherapy Plus Rituxan (IDEC-C2B8) Versus CHOP Chemotherapy Alone for Newly Diagnosed, Previously Untreated, Aggressive Non-Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-09-01",
+      "completion_date": "2003-03-01",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Monoclonal antibodies, such as rituximab, can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. It is not yet known whether combination chemotherapy plus rituximab is more effective than combination chemotherapy alone for non-Hodgkin's lymphoma.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed, newly diagnosed, aggressive (stage II-IV) B-cell non-Hodgkin's lymphoma, including but not limited to:\n\n  * Mantle cell\n  * Diffuse large cell\n  * Diffuse mixed cell\n  * Anaplastic large cell (B-cell type)\n  * Diffuse small cleaved cell\n  * Marginal z",
+      "endpoints": [],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT00004112"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00114738",
+      "title": "Randomized Phase II Study of Dose-Adjusted EPOCH-Rituximab-Bortezomib (EPOCH-R-B) Induction Followed by Bortezomib Maintenance Versus Observation in Untreated Mantle Cell Lymphoma With Microarray Profiling and Proteomics",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-15",
+      "completion_date": "2022-08-11",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "This study will evaluate the effectiveness of etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin-rituximab (EPOCH-R) chemotherapy plus bortezomib for treating mantle cell lymphoma, a cancer of white blood cells called lymphocytes. EPOCH-R consists of the drugs prednisone, etoposide, doxorubicin and vincristine, with the addition of a new drug called rituximab. In a recent study of patients with newly diagnosed mantle cell lymphoma, 92 percent had a complete remission of their dise",
+      "eligibility_criteria": "* ELIGIBILITY CRITERIA:\n\nDiagnosis of mantle cell lymphoma (confirmed at National Cancer Institute (NCI)). All variants are eligible.\n\nAge greater than or equal to 18 years.\n\nNo prior treatment except for local radiation or a short course of steroids for control of symptoms.\n\nAll stages of disease.\n",
+      "endpoints": [
+        "Progression Free Survival (PFS)",
+        "Median Overall Survival (OS)",
+        "Overall Progression Free Survival"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00114738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01472562",
+      "title": "Phase II Study of Lenalidomide Plus Rituximab in Patients With Previously Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-07-29",
+      "completion_date": "2023-07-30",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "This is a phase II, multicenter study to determine the efficacy and safety of first-line lenalidomide plus rituximab therapy in patients with mantle cell lymphoma who have received no prior systemic therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and voluntarily sign an informed consent form.\n* Age \\> = 18 years at the time of signing the informed consent form.\n* Able to adhere to the study visit schedule and other protocol requirements.\n* Histologically confirmed diagnosis of mantle cell Non-Hodgkin's Lymph",
+      "endpoints": [
+        "Overall Response Rate"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT01472562"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01389427",
+      "title": "A Multicenter Phase IB Dose Escalation Study to Evaluate the Safety, Feasibility and Efficacy of the Torisel-Rituximab-Cyclophosphamide-Doxorubicin-Vincristine-Prednisone (T-R-CHOP), Torisel-Rituximab-Fludarabine-Cyclophosphamide (T-R-FC) and Torisel-Rituximab-Aracytine High Dose-Dexamethasone (T-R-DHA) for the Treatment of Patients in Relapsed/Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2015-09",
+      "country": "France",
+      "enrollment": 41,
+      "brief_summary": "This is a multicenter, open label, three arms, Phase IB study.\n\nA dose escalation phase of Temsirolimus (Torisel™) administered in intravenous (IV) at day 2, day 8 and day 15 in combination with three chemotherapies regimens for patients in relapsed/refractory Mantle Cell Lymphoma (MCL):\n\n* Rituximab-Cyclophosphamide-Doxorubicin-Vincristine-Prednisone (R-CHOP) administered every 3 weeks for 6 cycles,\n* Rituximab-Fludarabine-Cyclophosphamide (R-FC) administered every 4 weeks for 6 cycles,\n* Ritux",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with histologically or cytologically confirmed refractory or relapsed Mantle Cell Lymphoma (at initial diagnosis or relapse),\n2. Ann Arbor Stage I-IV with at least one tumor site measurable,\n3. Patients who received prior therapy (at least one but no more than three ",
+      "endpoints": [
+        "Incidence of Dose Limiting Toxicities (DLT)"
+      ],
+      "sponsor": "The Lymphoma Academic Research Organisation",
+      "url": "https://clinicaltrials.gov/study/NCT01389427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03571568",
+      "title": "Phase 1/2a Trial of BI-1206, a Monoclonal Antibody to CD32b (FcyRIIB), in Combination With Rituximab With or Without Acalabrutinib in Subjects With Indolent B-Cell Non-Hodgkin Lymphoma That Has Relapsed or is Refractory to Rituximab",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2018-05-16",
+      "completion_date": "2026-09-30",
+      "country": "Brazil, Spain, Sweden, Germany, Poland, United States",
+      "enrollment": 140,
+      "brief_summary": "Phase 1/2a Clinical Trial of BI-1206, a Monoclonal Antibody to CD32b (FcyRIIB), in Combination with Rituximab with or without Acalabrutinib in Subjects with Indolent B-Cell Non-Hodgkin Lymphoma That has Relapsed or is Refractory to Rituximab",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Are ≥ 18 years of age by initiation of study treatment.\n2. Have B-cell NHL proven by histology, with histological subtypes limited to follicular lymphoma (FL) (except FL grade 3B), MCL and marginal zone lymphoma (MZL)\n3. Have measurable nodal disease\n4. Are willing to undergo",
+      "endpoints": [
+        "Documenting AEs and SAEs and determining causality in relation to BI-1206 and/or rituximab and/or acalabrutinib",
+        "Determining the MTD of BI-1206 at the same dose level experiencing a BI-1206 or Rituximab-related or possibly related dose-limiting toxicity (DLT)",
+        "Determine the recommended dose of BI-1206 in combination with rituximab and acalabrutinib"
+      ],
+      "sponsor": "BioInvent International AB",
+      "url": "https://clinicaltrials.gov/study/NCT03571568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00176475",
+      "title": "A Pilot Study of Irradiated HLA-Partially Matched Allogeneic Related Donor Lymphocytes in Conjunction With Rituximab for Selected Patients With CD20 + Malignancies",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2005-01",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "RATIONALE: When irradiated lymphocytes from a donor are infused into the patient they may help the patient's immune system kill cancer cells. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving irradiated donor lymphocytes together with rituximab may kill more cancer cells.\n\nPURPOSE: This clinical trial is study",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed lymphoproliferative disease\n\n  * CD20-positive disease\n* Bidimensionally measurable disease OR abnormal cells detected in blood\n* Resistant or refractory to standard therapies and/or unlikely to benefit from additional standard therapies\\* AND mee",
+      "endpoints": [
+        "Toxicity as assessed by NCI CTCAE v3.0"
+      ],
+      "sponsor": "Rutgers, The State University of New Jersey",
+      "url": "https://clinicaltrials.gov/study/NCT00176475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03567876",
+      "title": "Rituximab, Bendamustine and Cytarabine Followed by Venetoclax (V-RBAC) in High-risk Elderly Patients With Mantle Cell Lymphoma (MCL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-03",
+      "completion_date": "2025-10-15",
+      "country": "Italy",
+      "enrollment": 141,
+      "brief_summary": "Prospective, multicenter, phase II trial designed to evaluate whether the addition of Venetoclax after rituximab, bendamustine and cytarabine (R-BAC) to high risk patients with mantle cell lymphoma improves the results of the standard R-BAC, in terms of Progression Free Survival.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Previously untreated patients with MCL aged ≥65 years if they are FIT according to the geriatric CGA assessment.\n2. age ≤64 years not eliglible to high-dose chemotherapy plus transplantation at physician's judgement (details for non eligibility to be recorded by means of the ",
+      "endpoints": [
+        "Progression-free survival of the High Risk patients"
+      ],
+      "sponsor": "Fondazione Italiana Linfomi - ETS",
+      "url": "https://clinicaltrials.gov/study/NCT03567876"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00070018",
+      "title": "Evaluation of CHOP Plus Involved Field Radiotherapy Followed by Yttrium-90 Ibritumomab Tiuxetan for Stages I, IE, and Non-Bulky Stages II and IIE, CD20 Positive, High-Risk Localized, Aggressive Histologies of Non-Hodgkin Lymphoma, Phase II",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2015-01-08",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cyclophosphamide, doxorubicin, vincristine, and prednisone, use different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Monoclonal antibodies, such as rituximab and yttrium Y 90 ibritumomab tiuxetan, can locate cancer cells and either kill them or deliver radioactive cancer-killing substances to them without harming normal cells. Combining chemotherapy with radi",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed aggressive non-Hodgkin's lymphoma of 1 of the following subtypes:\n\n  * Diffuse large B-cell\n  * Mantle cell\n  * High-grade B-cell, Burkitt's, or Burkitt-like\n  * Anaplastic large cell (B-cell phenotype only)\n* Stage I, IE, or non-bulky\\* stage II ",
+      "endpoints": [
+        "Progression-free Survival"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00070018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00547534",
+      "title": "Pilot Study of Bortezomib, Bendamustine and Rituximab for Patients With Relapsed or Refractory, Indolent or Mantle Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2009-10",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study is to evaluate how non-Hodgkin's lymphoma that has not responded to, or that has returned after standard treatment, responds to bortezomib, rituximab and bendamustine, and also to see what effects this drug combination have on this cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary written informed consent before performance of any study-specific procedure not part of routine medical care, with the understanding that consent may be withdrawn by the subject at any time without prejudice to future medical care.\n* Female subject is either post-men",
+      "endpoints": [
+        "Number of Participants With Progression Free Survival at 2 Years"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT00547534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002663",
+      "title": "An Evaluation of the Toxicity and Therapeutic Effects of Epstein-Barr Virus-Immune T-Lymphocytes Derived From a Normal HLA-Compatible or Haplotype-Matched Donor in the Treatment of EBV-Associated Lymphoproliferative Diseases or Malignancies and Patients With Detectable Circulating Levels of EBV DNA Who Are at High Risk for EBV-Associated Lymphoproliferative Diseases",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1995-03",
+      "completion_date": "2019-07",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "The purpose of this phase I/II trial is to study the side effects and best dose of biological therapy to treat patients at high-risk or with Epstein-Barr virus-associated lymphoma or lymphoproliferative disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pathologically documented EBV antigen positive lymphoproliferative disease, lymphoma, or other EBV-associated malignancy OR\n* Severely immunocompromised patients who develop blood levels of EBV DNA exceeding 500 copies/ml DNA, and are therefore at high risk for developing an E",
+      "endpoints": [
+        "Objective Response Rate (ORR)"
+      ],
+      "sponsor": "Atara Biotherapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT00002663"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004039",
+      "title": "Phase II Trials of CHOP Chemotherapy and Interferon Alpha or Rituximab Anti-CD20 Monoclonal Antibody as Initial Treatment of Patients With Stage III and IV High-Risk Indolent B-Cell Lymphoma and Intermediate Grade B-Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "1998-06",
+      "completion_date": "2000-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining interferon alfa or the monoclonal antibody rituximab with chemotherapy may kill more cancer cells.\n\nPURPOSE: Phase II trial to compare the effectiveness of combination chemotherapy plus interferon alfa or rituximab in treating patients who have high risk stage III or stage IV lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed high risk (stage III or IV) indolent or intermediate (stage II to IV) B-cell lymphoma Small cleaved cell lymphoma Waldenstrom's macroglobulinemia Follicular small cleaved cell or mixed cell Follicular large cell Diffuse Immunoblastic High risk is def",
+      "endpoints": [],
+      "sponsor": "Hoag Memorial Hospital Presbyterian",
+      "url": "https://clinicaltrials.gov/study/NCT00004039"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01267812",
+      "title": "A Phase II Study of Weekly Maintenance Bortezomib and Rituximab in Mantle Cell Lymphoma Post Autologous Hematopoietic Cell Transplantation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-10-03",
+      "completion_date": "2020-11-02",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving bortezomib together with rituximab may kill more cancer cells.\n\nPURPOSE: This phase II trial is studying how well giving bortezomib and rituximab t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histological documented or cytological confirmed mantle cell lymphoma; cyclin D1 must be present as evidenced by either fluorescence in situ hybridization (FISH) or immunohistochemical staining\n* Patients must have undergone autologous hematopoietic stem cel",
+      "endpoints": [
+        "Two-year Disease-free Survival"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01267812"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482684",
+      "title": "Early Treatment Intensification in Patients With High Risk Mantle Cell Lymphoma Using CAR-T-cell Treatment After an Abbreviated Induction Therapy With Rituximab and Ibrutinib and 6 Months Ibrutinib Maintenance (Arm A) as Compared to Standard of Care Induction and Maintenance (Arm B)",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-02-15",
+      "completion_date": "2031-12-31",
+      "country": "Germany",
+      "enrollment": 150,
+      "brief_summary": "First-line CAR-T-cell consolidation after an abbreviated induction with 2 cycles of Rituximab and Ibrutinib prior to CAR-T-cell treatment and followed by 6 months of maintenance with Ibrutinib in patients with high risk MCL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of MCL according to WHO classification, with documentation of either overexpression of cyclin D1 or presence of t(11;14)\n2. At least one High Risk MCL - feature as defined as I. MIPI-c high intermediate (HI) or high (H) risk (i.e. high risk ",
+      "endpoints": [
+        "Failure Free Survival"
+      ],
+      "sponsor": "Ludwig-Maximilians - University of Munich",
+      "url": "https://clinicaltrials.gov/study/NCT06482684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04002297",
+      "title": "A Phase 3 Randomized, Open-Label, Multicenter Study Comparing Zanubrutinib (BGB-3111) Plus Rituximab Versus Bendamustine Plus Rituximab in Patients With Previously Untreated Mantle Cell Lymphoma Who Are Ineligible for Stem Cell Transplantation",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-08-20",
+      "completion_date": "2027-12",
+      "country": "Spain, Russia, Canada, Belgium, Taiwan, Turkey (Türkiye), Germany, Australia, Portugal, Romania, Austria, Ukraine, Ireland, Poland, Japan, United States, France, Italy, China, Netherlands, United Kingdom, New Zealand",
+      "enrollment": 510,
+      "brief_summary": "This is a randomized study to compare the efficacy and safety of zanubrutinib plus rituximab versus bendamustine plus rituximab in previously untreated participants with mantle cell lymphoma (MCL) who are not eligible for stem cell transplantation.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. ≥70 years of age at the time of informed consent, OR ≥60 and \\<70 years of age with comorbidities precluding autologous stem cell transplantation\n2. Histologically confirmed diagnosis of MCL\n3. No prior systemic treatments for MCL\n4. Measurable disease by CT/MRI\n5. Easter",
+      "endpoints": [
+        "Progression-free survival (PFS) determined by independent central review"
+      ],
+      "sponsor": "BeiGene",
+      "url": "https://clinicaltrials.gov/study/NCT04002297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00007865",
+      "title": "A Phase II Trial of Ifosfamide, Carboplatin, and Etoposide (ICE) Chemotherapy in Combination With Rituximab as Salvage Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-09-01",
+      "completion_date": "2008-04-22",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Monoclonal antibodies such as rituximab can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy combined with rituximab in treating patients who have recurrent or refractory non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed recurrent or refractory B-cell non-Hodgkin's lymphoma\n\n  o CD20 positive\n* Bidimensionally measurable or evaluable disease\n* 19 years old and over\n* ECOG 0-2 or Karnofsky 70-100%\n* Life expectancy at least 3 months\n* WBC at least 3,000/mm3\n* Granulocyt",
+      "endpoints": [],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT00007865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03671018",
+      "title": "An Open-Label, Randomized, Multicenter, Phase Ib/II Trial Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of Mosunetuzumab (BTCT4465A) in Combination With Polatuzumab Vedotin in Patients With B-Cell Non-Hodgkin Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-09-25",
+      "completion_date": "2025-07-20",
+      "country": "Spain, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 422,
+      "brief_summary": "This study will evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and efficacy of intravenous (IV) or subcutaneous (SC) mosunetuzumab in combination with polatuzumab vedotin in participants with diffuse large B-cell lymphoma (DLBCL), follicular lymphoma (FL), and mantle cell lymphoma (MCL). It will consist of a dose finding portion followed by an expansion phase for second line or later (2L+) participants with relapsed or refractory (R/R) DLBCL and 2L+ R/R FL. In addition, s",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* ECOG PS of 0, 1, or 2\n* Histologically confirmed FL, DLBCL, or MCL\n* Must have received at least one prior systemic treatment regimen containing an anti-CD20-directed therapy for DLBCL or FL\n* For MCL, participants must have received at least two prior systemic treatment r",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Mosunetuzumab in Combination with Polatuzumab Vedotin",
+        "Recommended Phase II Dose of Mosunetuzumab in Combination with Polatuzumab Vedotin",
+        "Percentage of Participants with Adverse Events (AE)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT03671018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004260",
+      "title": "Phase I Study of Interleukin-12 in Combination With Rituximab in Patients With Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1999-10",
+      "completion_date": "2003-06",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Interleukin-12 may stimulate a person's white blood cells to kill lymphoma cells. Monoclonal antibodies, such as rituximab, can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells.\n\nPURPOSE: Phase I trial to study the effectiveness of interleukin-12 plus rituximab in treating patients who have non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed CD20+ B-cell non-Hodgkin's lymphoma No relapsed intermediate or high grade disease eligible for bone marrow or stem cell transplant Intermediate or high grade disease must have received a prior anthracycline containing regimen Low grade disease (with",
+      "endpoints": [],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00004260"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02187133",
+      "title": "A Phase Ib Dose Escalation Trial of Carfilzomib in Combination With Bendamustine and Rituximab In Patients With Relapsed or Refractory Non-Hodgkin Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-05-05",
+      "completion_date": "2021-03-31",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This study will be conducted as a Phase Ib, open-label, non-randomized, single-institution study to evaluate the safety and tolerability of carfilzomib in combination with bendamustine and rituximab in patients with relapsed or refractory NHL and to determine the recommended phase II dose and preliminary efficacy of this combination. The study will have two phases: a dose-escalation phase to determine the maximal tolerated dose of carfilzomib in this combination where participants will be monito",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically-confirmed B-cell non-Hodgkin's lymphoma (Mantle Cell Lymphoma, Follicular Lymphoma, Small Lymphocytic Lymphoma/Chronic Lymphocytic Leukemia, Marginal Zone Lymphoma, Diffuse Large B-cell Lymphoma, and Lymphoplasmacytic Lymphoma)\n* Must have relapsed or refractory",
+      "endpoints": [
+        "Maximally tolerated dose (MTD)",
+        "Number of participants with Dose Limiting Toxicities (DLT)"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT02187133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00880815",
+      "title": "Fludarabine, Bendamustine, and Rituximab (FBR) Non-Myeloablative Allogeneic Conditioning for Patients With Lymphoid Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-02-17",
+      "completion_date": "2019-05-28",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "This phase I trial studies the best dose and how well bendamustine works with standard chemotherapy (fludarabine, rituximab) in treating participants with lymphoid cancers undergoing stem cell transplant. Drugs used in chemotherapy, such as fludarabine, bendamustine, and rituximab, work in different ways to stop the growth of cancer cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving chemotherapy before a stem cell transplant helps stop ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with CD20 + chronic lymphocytic leukemia (CLL), marginal zone, mantle cell and follicular lymphoma or T-cell lymphoid malignancies who are eligible for allogeneic transplantation.\n* Patients with relapsed diffuse large B-cell lymphoma may be included if they were not ",
+      "endpoints": [
+        "Maximum tolerated dose of bendamustine"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00880815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05097443",
+      "title": "A Multi-center and Prospective Clinical Study of Orelabrutinib, Rituximab and Combination Chemotherapy in Patients With Newly-diagnosed Aggressive B-cell Non-Hodgkin Lymphoma",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-15",
+      "completion_date": "2024-12-31",
+      "country": "China",
+      "enrollment": 130,
+      "brief_summary": "B-cell non-Hodgkin's lymphoma (B-NHL) is the most common type of NHL. Although novel immunotherapies represented by anti-CD20 monoclonal antibodies and CAR-T cell therapies have significantly improved the prognosis of B-NHL patients, there are still nearly one-third of patients who are resistant to initial treatment or relapse after remission. R-CHOP combined with novel drugs was expected to improve the prognosis. Therefore, this study aimed to investigate the potential of Orelabrutinib combined",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years, gender not limited\n2. Newly and histologically diagnosed aggressive B-NHL\n3. Patients who have not received systematic chemotherapy or immunotherapy;\n4. Patients with at least ≥1 tumor foci with a measurable maximum axis exceeding 1.5 cm;\n5. Eastern cancer coll",
+      "endpoints": [
+        "ORR"
+      ],
+      "sponsor": "Shandong Provincial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05097443"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04849715",
+      "title": "A Phase 3, Randomized, Double-Blind Study Comparing Parsaclisib, a PI3Kδ Inhibitor, in Combination With Bendamustine and Rituximab (BR), With Placebo and BR for the Treatment of Newly Diagnosed Mantle Cell Lymphoma",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2022-03-11",
+      "completion_date": "2034-07-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This is a Phase 3, double-blind, randomized, placebo-controlled, multicenter study of parsaclisib plus BR versus placebo plus BR as first-line treatment of participants with newly diagnosed MCL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female participants aged 18 years or older. (Japan aged 20 years or older.)\n* Have received no previous systemic anti-lymphoma therapies.\n* Pathologically confirmed MCL by local laboratory.\n* Histologically confirmed CD20 expression (by flow cytometry or immunohistoch",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04849715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00401817",
+      "title": "Phase II Study of Bevacizumab Plus CHOP-Rituximab in Patients With Untreated Mantle Cell Lymphoma (NHL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2013-11",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "Primary Objective\n\n1\\. To evaluate the safety profile of Bevacizumab (Bevacizumab™)- Rituximab (Rituxan®)-CHOP (RA-CHOP) in patients with newly diagnosed mantle cell lymphoma (MCL).\n\nSecondary Objectives\n\n1. To evaluate the response rate and time to disease progression of the RA-CHOP regimen in patients with newly diagnosed MCL.\n2. To prospectively characterize the angiogenic profiles of MCL patients during RA-CHOP treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of mantle cell Non-Hodgkin's Lymphoma with characteristic immunophenotypic profile: CD5(+), CD19(+) or CD20(+), cyclin D1(+), CD23(-) and CD10(-)\n* Patient has not received any prior anti-cancer therapy for lymphoma\n* Laboratory parameters (u",
+      "endpoints": [
+        "Number of Participants With Toxicity"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT00401817"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02281279",
+      "title": "A Phase I/II Trial of Romidepsin, Rituximab and Lenalidomide (R3) in Relapsed/Refractory B Cell Lymphomas Including Transformed Follicular Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2016-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of romidepsin and lenalidomide when combined with rituximab and to see how well this combination works in treating patients with B-cell non-Hodgkin lymphoma that has returned (recurrent) or did not respond to treatment (refractory). Monoclonal antibodies, such as rituximab, may block cancer growth in different ways by targeting certain cells. Romidepsin and lenalidomide may stop the growth of cancer cells by blocking enzymes needed for",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PHASE I: Histological confirmation of relapsed (recurrent after previous therapy\\[ies\\]) or refractory (no response to previous therapy\\[ies\\]) B-cell NHL; note: patients with small lymphocytic lymphoma (SLL) are eligible however patients with chronic lymphocytic leukemia (CLL",
+      "endpoints": [
+        "MTD, defined as the dose level below the lowest dose that induces dose-limiting toxicity in at least one-third of patients (at least 2 of a maximum of 6 new patients) (Phase I)",
+        "Overall response rate (Phase II)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT02281279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01238146",
+      "title": "A Phase I/II Trial of Rituximab, Bendamustine, and Obatoclax in Patients With Relapsed or Refractory Indolent Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2010-10",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This phase I/II trial is studying the side effects and the best dose of obatoclax mesylate when given together with rituximab and bendamustine hydrochloride to see how well it works compared with rituximab and bendamustine hydrochloride alone in treating patients with relapsed or refractory non-Hodgkin lymphoma. Obatoclax mesylate may stop the growth of cancer cells by blocking some of the proteins needed for cell growth. Monoclonal antibodies, such as rituximab, can block cancer growth in diffe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed indolent B-cell non-Hodgkin lymphoma (NHL), including any of the following subtypes recognized by WHO classification:\n\n  * Marginal zone lymphoma\n  * Lymphoplasmacytic lymphoma\n  * Follicular lymphoma\n  * Mantle cell lymphoma\n* Transformed lymphoma fro",
+      "endpoints": [
+        "Maximum tolerable dose, defined as the dose level beneath which 2 or more of 6 patients experience DLT (phase I)",
+        "Change in median progression-free survival (PFS) (phase II)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01238146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00581776",
+      "title": "Phase II Study of VcR-CVAD With Rituximab Consolidation and Maintenance for Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2015-05",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Patients will receive Rituximab, Bortezomib, cyclophosphamide, Doxorubicin, Vincristine, Dexamethasone in three week intervals for 6 cycles; then rituximab consolidation (weekly x 4) , then one dose of rituximab every 12 weeks until 5 years or disease progression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed CD20+ mantle cell lymphoma, with measurable or evaluable disease, no prior chemotherapy, immunotherapy or radiotherapy except for 1 cycle of CHOP-like chemotherapy.\n\nExclusion Criteria:\n\n* Patients with known CNS disease, known HIV infection, grade 2 o",
+      "endpoints": [
+        "Overall Response Rate (ORR) at the Completion of Induction Chemotherapy, Which is the Percent of Complete Responses (CR) Plus Percent of Partial Responses (PR).",
+        "Complete Response Rate (CR) at the End of Induction Chemotherapy"
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "url": "https://clinicaltrials.gov/study/NCT00581776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05506410",
+      "title": "A Prospective Clinical Study of Hanlikang and BTK Inhibitors in the Treatment of Newly Diagnosed Mantle Cell Lymphoma",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-08-12",
+      "completion_date": "2026-12-30",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "An open-label, single-arm, multicenter, prospective clinical study of Hanlikang and BTK inhibitors in the treatment of newly diagnosed mantle cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-70, ECOG score 0-2;\n2. Estimated survival time \\>6 months;\n3. Mantle cell lymphoma was confirmed by pathology.\n4. Acceptable hematological indexes without chemotherapy contraindications; Neutrophil absolute value ≥1.0×10\\^9 /L, PLT≥75×10\\^9 /L, hemoglobin ≥80g/L (excep",
+      "endpoints": [
+        "progression free survival（PFS）"
+      ],
+      "sponsor": "Zhengzhou University",
+      "url": "https://clinicaltrials.gov/study/NCT05506410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00601718",
+      "title": "A Phase I/II Study of Vorinostat Plus Rituximab, Ifosphamide, Carboplatin, and Etoposide for Patients With Relapsed or Refractory Lymphoid Malignancies or Untreated T- or Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "This phase I/II trial is studying the side effects and best dose of vorinostat when given together with rituximab, ifosfamide, carboplatin, and etoposide and to see how well they work in treating patients with relapsed or refractory lymphoma or previously untreated T-cell non-Hodgkin lymphoma or mantle cell lymphoma. Vorinostat may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as rituximab, can block cancer growth in different",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have relapsed or primary refractory lymphoid malignancy (including B-cell, T-cell, or Hodgkins disease), or untreated T-NHL or MCL\n* Patients with other lymphomas that have not received any prior therapy and are not candidates for anthracycline-based therapies, a",
+      "endpoints": [
+        "Maximum Tolerated Dose of Vorinostat",
+        "Safety and Toxicity According to CTCAE v3.0",
+        "Efficacy (Response Rate) of Vorinostat Combined With RICE Chemotherapy"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00601718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05025423",
+      "title": "Phase II Trial of Venetoclax and Rituximab as Initial Therapy in Older Patients With Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-06-21",
+      "completion_date": "2025-05-14",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The proposed study is an open-label, single arm phase II study of venetoclax in combination with rituximab in patients over the age of 60 with previously untreated mantle cell lymphoma. The primary objective of the trial is to determine whether the combination of venetoclax with rituximab in this patient population yields a clinically acceptable proportion of overall responses (ORR, assessed by PET/CT with Lugano criteria) without chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have a histologically confirmed diagnosis of mantle cell lymphoma as defined by the World Health Organization (WHO) classification scheme.\n* Age ≥ 60\n* Subjects must be previously untreated for mantle cell lymphoma and deemed to require treatment by the treating ",
+      "endpoints": [
+        "Overall response rate (ORR) after four cycles of venetoclax and rituximab."
+      ],
+      "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "url": "https://clinicaltrials.gov/study/NCT05025423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06255704",
+      "title": "A Single-arm, Single-center, Open-label Phase II Study of Zanubrutnib Combined With R-CHOP/R-DHAP Alternating Regimen for First-line MCL and Followed by Zanubrutinib Rituximab Maintenance Therapy",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-03-15",
+      "completion_date": "2027-12-01",
+      "country": "China",
+      "enrollment": 23,
+      "brief_summary": "Evaluation the efficacy and safety of Zanubrutinib + R-CHOP/R-DHAP for the treatment mantle cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of MCL according to WHO classification;\n* Previously untreated MCL.\n* Age ≥ 18 and ≤ 70 years old.\n* ECOG, 0\\~2.\n* Suitable for high-dose treatment including high-dose Ara-C.\n* Stage II-IV (Ann Arbor).\n* Measurable disease by computed tomogra",
+      "endpoints": [
+        "CR rate after 6 cycles of induction therapy"
+      ],
+      "sponsor": "Shanxi Province Cancer Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06255704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00586755",
+      "title": "Intensive Induction Therapy Followed by Early High Dose Chemotherapy and Bone Marrow Transplantation for Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1998-02",
+      "completion_date": "2008-11",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "Patients with mantle cell lymphoma have a grave prognosis. They usually have an initial response to therapy, however progress early in the course of the disease and have very poor survival. We hypothesize that the emergence of drug resistance is responsible for this early failure of therapy and therefore intensive therapy at induction followed by high dose therapy immediately may produce a better outcome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have biopsy proven mantle cell lymphoma confirming mantle cell lymphoma. (Flow cytometry, and cyclin D1 or t (11;14) tests of disease site should be done if available at some time in the patient's course before this therapy)\n* Radiologic staging studies may be performed u",
+      "endpoints": [
+        "Disease Free Survival (DFS)",
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00586755"
+    }
+  ],
+  "timestamp": "2026-03-04T16:23:54.153378",
+  "success": true,
+  "error_message": null
+}

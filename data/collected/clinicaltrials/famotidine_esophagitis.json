@@ -1,0 +1,67 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Famotidine",
+    "disease": "esophagitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499368",
+      "title": "A Multi-center, Randomized, Double-blind Phase III Clinical Trial to Assess and Compare to the Efficacy and Safety of Lafutidine, Famotidine and Omeprazole-referenced in Koran Erosive Esophagitis Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-11",
+      "country": "N/A",
+      "enrollment": 495,
+      "brief_summary": "To evaluate the healing rate and safety of Lafutidine in erosive esophagitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who had symptoms of heartburn with a diagnosis of grade A to D reflux esophagitis according to the Los Angeles classification\n\nExclusion Criteria:\n\n* Gastric or duodenal ulcers (excluding ulcer scars)\n* Concurrent presence of Barrett's esophagus\n* A history of a poor ",
+      "endpoints": [
+        "Recovery Rates of Reflux Esophagitis"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01499368"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04248712",
+      "title": "A Phase II, Randomized, Placebo-controlled Study Evaluating the Efficacy of Antihistamines in the Treatment of Eosinophilic Esophagitis (the ATEE Study)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2020-07-10",
+      "completion_date": "2021-12-31",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "Researchers are assessing the safety and effectiveness of antihistamines in the treatment of eosinophilic esophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over the age of 18, male and female.\n* Patients who carry the diagnosis of Eosinophilic Esophagitis (EoE) based on esophageal biopsies obtained within 6 months prior to enrollment (\\>15 eosinophils per hpf on at least 2 esophageal levels)\n* Subjects must be able to gi",
+      "endpoints": [
+        "Adverse Events",
+        "Change in Maximum Eosinophil Count"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT04248712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00229424",
+      "title": "Verification Study on Lafutidine in Mild Reflux Oesophagitis - Double Blind Controlled Study With Famotidine -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2007-01",
+      "country": "Japan",
+      "enrollment": 325,
+      "brief_summary": "The purpose of the study is to verify superiority of the lafutidine group over the placebo group and non-inferiority to the famotidine group in terms of endoscopic healing rate of the patients with mild reflux oesophagitis.\n\nFurthermore, the followings are compared:\n\nThe improvement effect in heartburn and other subjective symptoms, and dosing frequency of MALFA ® suspension (neutralizer) as well as incidence of adverse events among the lafutidine 20 mg/day treatment group, the famotidine 40 mg/",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 20 and over (at the time of consent given)\n* Gender and inpatient or outpatient: Irrelevant\n* Patients diagnosed with Grade A or Grade B mild reflux oesophagitis (according to the Los Angels classification) through endoscopic test\n* Patients who complained about \"heartburn",
+      "endpoints": [
+        "Endoscopic healing rate"
+      ],
+      "sponsor": "Taiho Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00229424"
+    }
+  ],
+  "timestamp": "2026-03-04T15:38:27.968166",
+  "success": true,
+  "error_message": null
+}

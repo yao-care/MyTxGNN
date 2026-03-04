@@ -1,0 +1,142 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Caffeine",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL16095032X",
+      "product": "Panadol Extra Tablet Optizorb Formulation",
+      "active_ingredient": "Paracetamol[500mg;761.58mg],CAFFEINE[65mg;761.58mg]",
+      "generic_name": NaN,
+      "holder": "Haleon Malaysia Sdn. Bhd.",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-09-28",
+      "date_end": "2026-09-28",
+      "url": "https://npra.gov.my/index.php/search/product/MAL16095032X"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL16095032X",
+      "product": "Panadol Extra Tablet Optizorb Formulation",
+      "active_ingredient": "Paracetamol[500mg;761.58mg],CAFFEINE[65mg;761.58mg]",
+      "generic_name": NaN,
+      "holder": "Haleon Malaysia Sdn. Bhd.",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-09-28",
+      "date_end": "2026-09-28",
+      "url": "https://npra.gov.my/index.php/search/product/MAL16095032X"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL12035013X",
+      "product": "Panadol Extra Caplet",
+      "active_ingredient": "Paracetamol[500.0mg;0],CAFFEINE[65.0mg;0]",
+      "generic_name": NaN,
+      "holder": "Haleon Malaysia Sdn. Bhd.",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-03-30",
+      "date_end": "2027-03-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL12035013X"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL22066017XC",
+      "product": "Watsons Pain & Fever Relief EXTRA Tablet",
+      "active_ingredient": "Paracetamol[500mg ],CAFFEINE[65mg ]",
+      "generic_name": NaN,
+      "holder": "UNAM PHARMACEUTICAL (M) SDN. BHD.",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-06-02",
+      "date_end": "2027-06-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL22066017XC"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL13035053ACZ",
+      "product": "Cafergot Tablet",
+      "active_ingredient": "ERGOTAMINE TARTRATE[1.00mg;0],CAFFEINE[100.00mg;0]",
+      "generic_name": NaN,
+      "holder": "A. MENARINI SINGAPORE PTE. LTD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-03-30",
+      "date_end": "2028-03-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL13035053ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20033465AEZ",
+      "product": "PANADOL COLD EXTRA CAPLETS",
+      "active_ingredient": "PHENYLEPHRINE HYDROCHLORIDE[10MG],NOSCAPINE[15MG],TERPIN HYDRATE[33.33MG],CAFFEINE[25MG],Ascorbic Acid[63.33MG],Paracetamol[500MG]",
+      "generic_name": "Paracetamol 500 mg, Caffeine 25 mg, Terpin hydrate 33.33 mg, Phenylephrine HCl 10 mg, Noscapine 15 mg & Ascorbic Acid 63.33 mg Tablet",
+      "holder": "STERLING DRUG (MALAYA) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-08-29",
+      "date_end": "2028-08-29",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20033465AEZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24126034X",
+      "product": "PARTAMOL - CAFEIN EFFERVESCENT TABLETS",
+      "active_ingredient": "Paracetamol[500 mg],CAFFEINE[65 mg]",
+      "generic_name": NaN,
+      "holder": "STADPHARM SDN. BHD.",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-12-02",
+      "date_end": "2029-12-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24126034X"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25036031XC",
+      "product": "CAFFEMOL EFFERVESCENT TABLET",
+      "active_ingredient": "Paracetamol[500 mg],CAFFEINE[65 mg]",
+      "generic_name": NaN,
+      "holder": "Auxi Therapeutics Sdn Bhd",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-03-04",
+      "date_end": "2030-03-04",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25036031XC"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20000292AZ",
+      "product": "CAFFOX TABLET",
+      "active_ingredient": "CAFFEINE[100MG                         ],ERGOTAMINE TARTRATE[1MG                           ]",
+      "generic_name": "Ergotamine Tartrate 1 mg Tablet",
+      "holder": "IMEKS PHARMA SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-05-01",
+      "date_end": "2030-05-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20000292AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25106026X",
+      "product": "Ace Plus Tablets",
+      "active_ingredient": "Paracetamol[500.000 mg],CAFFEINE[65.000 mg]",
+      "generic_name": NaN,
+      "holder": "MEDISPEC (M) SDN. BHD.",
+      "description": "NON PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-10-02",
+      "date_end": "2030-10-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25106026X"
+    }
+  ],
+  "timestamp": "2026-03-04T15:54:20.364737",
+  "success": true,
+  "error_message": null
+}

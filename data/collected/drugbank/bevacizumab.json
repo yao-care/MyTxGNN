@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Bevacizumab"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00112",
+    "name": "Bevacizumab",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:19:09.786438",
+  "success": true,
+  "error_message": null
+}

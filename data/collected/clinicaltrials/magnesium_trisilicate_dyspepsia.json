@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "dyspepsia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04202692",
+      "title": "Evaluation of the Performance and Safety of an Oral Formulation of Hyaluronic Acid With Chondroitin Sulphate and Magnesium Trisilicate (GERDOff® Plus) in Patients With Gastro-Esophageal Reflux Disease: A Double-blind, Placebo-controlled, Randomized, Cross-over Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-11-05",
+      "completion_date": "2022-11-23",
+      "country": "Germany",
+      "enrollment": 40,
+      "brief_summary": "This is a post-market, multi-center, double-blind, placebo-controlled, randomized, cross-over study with GERDOff Plus added on top of the current PPI treatment in patients with GERD. The aim of the study is to evaluate the performance of GERDOff Plus, a class III medical device, consisting in a hyaluronic acid, chondroitin sulphate and magnesium trisilicate, in addition to the PPIs, in patients with GERD not fully satisfied with their current treatment with PPIs.\n\nPatients will receive either GE",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent (ICF): a written informed consent must be obtained prior to any study related procedure being performed\n* Male and female out-patients aged 18 to 80 years\n* GERD diagnosis confirmed through a validated questionnaire (GERDQ score ≥ 8).\n* EGD en",
+      "endpoints": [
+        "Overall patient satisfaction"
+      ],
+      "sponsor": "SOFAR S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT04202692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07310927",
+      "title": "Alginate vs Sucralfate for GERD Symptomatic Relief in Combination With PPIS",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-02-28",
+      "country": "Pakistan",
+      "enrollment": 140,
+      "brief_summary": "Gastroesophageal reflux disease (GERD) is a chronic gastrointestinal disorder characterized by the regurgitation of gastric contents into the esophagus.It can also present in an atypical manner such as chest pain, dental erosions, chronic cough, laryngitis, or asthma i.e. extra gastroesophageal symptoms. Sucralfate is a unique anti-ulcer drug and is a basic aluminum salt of sucrose octa-sulfate. It forms a protective layer, enhancing bicarbonate production, demonstrating anti-peptic properties, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients having symptoms of severe GERD for more than 3 times /week\n\nExclusion Criteria:\n\n1. Patients with preexisting cardiovascular disorders\n2. Patients with chronic kidney or liver diseases\n3. Patients with gross abnormalities on upper GI endoscopies e.g.; ulcers, tumo",
+      "endpoints": [
+        "Quality of Life in Reflux and Dyspepsia"
+      ],
+      "sponsor": "CMH Lahore Medical College and Institute of Dentistry",
+      "url": "https://clinicaltrials.gov/study/NCT07310927"
+    }
+  ],
+  "timestamp": "2026-03-04T16:55:38.844049",
+  "success": true,
+  "error_message": null
+}

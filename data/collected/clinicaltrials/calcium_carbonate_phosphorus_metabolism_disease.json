@@ -1,0 +1,942 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "phosphorus metabolism disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03001011",
+      "title": "A Randomized, Double Blind, Parallel Group Study For Assessing The Efficacy And Safety Of Renvela® Tablets For The Treatment Of Hyperphosphatemia In Patients With Chronic Kidney Disease Not On Dialysis Versus Placebo",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-07",
+      "completion_date": "2019-08-16",
+      "country": "China",
+      "enrollment": 202,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate efficacy of Renvela tablets in the reduction of serum phosphorus in hyperphosphatemia in participants with chronic kidney disease not on dialysis.\n\nSecondary Objectives:\n\nTo document the efficacy of Renvela tablets in the reduction of serum lipids (total cholesterol and low-density lipoprotein cholesterol \\[LDL-C\\]).\n\nTo document the efficacy of Renvela tablets in the reduction of calcium-phosphorus product.\n\nTo document the efficacy of Renvela tablets in the r",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants with chronic kidney disease who had not been on dialysis, and were not expected to begin dialysis, or renal transplantation in the next 4 months from the screening visit.\n* Had serum phosphorus measurement greater than or equal to (\\>=) 5.5 mg/dL (1.78 mmol/L) at ",
+      "endpoints": [
+        "Change From Baseline in Serum Phosphorus at Week 8"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03001011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02684643",
+      "title": "Study of Individualized Therapy on Hyperphosphatemia in Maintenance Hemodialysis Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2017-04",
+      "country": "China",
+      "enrollment": 72,
+      "brief_summary": "This study is designed to study and compare the efficacy and cost-effectiveness of individualized phosphate-lowering therapy in comparison with regular guideline-recommended therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* aged 18-70 years' old\n* dialysis vintage more than 3 months on maintenance hemodialysis patients\n* using internal arteriovenous fistula\n* S\\[P\\] \\> 1.45 mmol/l, PTH (parathyroid hormone, PTH) \\< 900 ng/ml\n* no residual renal function (RRF)\n* stable dietary habit\n* clear consci",
+      "endpoints": [
+        "Serum phosphate level at the end of the trial"
+      ],
+      "sponsor": "Huashan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02684643"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01412398",
+      "title": "Special Drug Use Investigation of Fosrenol (Investigation for Patients With Continuous Ambulatory Peritoneal Dialysis)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-04-07",
+      "completion_date": "2016-09-01",
+      "country": "Japan",
+      "enrollment": 446,
+      "brief_summary": "This study is a regulatory post marketing surveillance in Japan, and it is a local prospective and observational study of patients in continuous ambulatory peritoneal dialysis (CAPD) who have received Fosrenol for hyperphosphatemia. The objective of this study is to assess safety and efficacy of using Fosrenol in clinical practice. This study is also all case investigation of which the enrollment period is one year, and all patients in CAPD who received Fosrenol for hyperphosphatemia will be rec",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing continuous ambulatory peritoneal dialysis who received Fosrenol for hyperphosphatemia\n\nExclusion Criteria:\n\n* Patients who are contraindicated based on the product label",
+      "endpoints": [
+        "Incidence of adverse drug reactions in subjects who received Fosrenol",
+        "Incidence of serious adverse events in subjects who received Fosrenol"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01412398"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02965053",
+      "title": "A Single-center, Randomized, 2-Period, Crossover, Study to Explore The Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of EOS789 in Patients With Chronic Kidney Disease and Hyperphosphatemia on Hemodialysis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-12",
+      "completion_date": "2018-08",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This study is a randomized study designed as a 2x2 cross-over in two periods (Period 1 and Period 2) to assess the safety, pharmacokinetics (PK), pharmacodynamics (PD), and efficacy of EOS789 in patients with chronic kidney disease (CKD) and hyperphosphatemia receiving hemodialysis. Period 1 is double-blind and Period 2 is open-label. Period 1 and Period 2 are identical with regard to the design, inclusion/exclusion criteria, and assessments. EOS789 and its combination with sevelamer carbonate a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Patients with CKD and hyperphosphatemia must meet the following criteria for study entry:\n\n* Age ≥18 years\n* On thrice-weekly hemodialysis for at least 3 months prior to screening\n* Not having changed dialysis prescription within 4 weeks prior to screening for dialyzer, calci",
+      "endpoints": [
+        "Safety: Incidences of adverse events",
+        "Safety: Change from baseline in vital signs",
+        "Safety: Change from baseline in clinical laboratory tests"
+      ],
+      "sponsor": "Chugai Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02965053"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04606017",
+      "title": "Influence of Vitamin D3 Supplementation on Infliximab Efficacy in Chinese Patients With Crohn's Disease: A Retrospective Cohort Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01-01",
+      "completion_date": "2020-06-01",
+      "country": "China",
+      "enrollment": 70,
+      "brief_summary": "Background: It remains uncertain whether vitD3 supplementation is beneficial for remission of Crohn's disease (CD). The influence of vitD3 supplementation on Infliximab (IFX) efficacy was retrospectively analyzed in Chinese CD patients. Methods: Patients with moderate-to-severe CD, who were bio-naïve and prescribed with IFX treatment for at least 54 weeks were recorded. VitD3 supplementation was defined as patients additionally took oral vitD3 (125 IU/d) within 3 days after the first infusion an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* moderate-to-severe CD\n* Treated with Infliximab\n* bio-naïve at the time of diagnosis\n\nExclusion Criteria:\n\n* had recent supplementation of vitD3\n* had prior or concomitant use of other biologic agent, glucocorticoid and/or immunomodulators at the time of enrollment\n* pregnant\n",
+      "endpoints": [
+        "Serum 25 (OH) D level",
+        "disease activity"
+      ],
+      "sponsor": "Second Affiliated Hospital of Wenzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT04606017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05381168",
+      "title": "Efficacy and Safety of Calcium From Fish Bone in Volunteers With Osteopenia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-05-20",
+      "completion_date": "2022-12-31",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "The aims of this study are to explore efficacy and safety of calcium from fish bone in volunteers with osteopenia. The volunteers are divided into 2 groups which are calcium from fish bone treatment group and calcium carbonate treatment group. Both groups received the calciums everyday for 6 months. Bone mineral density, blood examination, physical examination, adverse events, and satisfaction are evaluated before and after treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male age more than 70 years or female age more than 65 years or all age volunteers that have at least 1 risk factors which are menopause before 45 years, menopause with the height reduction (more than 4 cm), body mass index less than 20 kg/mm2, bone fracture history, taking so",
+      "endpoints": [
+        "Bone mineral density score"
+      ],
+      "sponsor": "Chulalongkorn University",
+      "url": "https://clinicaltrials.gov/study/NCT05381168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00833768",
+      "title": "A Randomised, Double-Blind, Placebo-Controlled Study to Investigate the Efficacy and Safety of Sevelamer Carbonate Tablets Dosed Three Times a Day in Hyperphosphataemic Chronic Kidney Disease (CKD) Patients Not on Dialysis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-01",
+      "completion_date": "2009-09",
+      "country": "France, Spain, Greece, Austria, Hungary, Italy, Germany, Portugal, Sweden",
+      "enrollment": 5,
+      "brief_summary": "Approximately 207 hyperphosphatemic CKD patients not on dialysis will be entered into this study at approximately 50 sites within approximately 9 European countries. The purpose of this study is to determine if sevelamer carbonate tablets dosed three times a day (TID) is a safe and effective treatment for the control of serum phosphorous levels in hyperphosphatemic CKD patients not on dialysis. Total length of participation is approximately 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum phosphorus measurement ≥4.6 mg/dL (≥1.49 mmol/L) and ≤5.5 mg/dL (≤1.76 mmol/L after discontinuation of current phosphate binder therapy if applicable.\n\nExclusion Criteria:\n\n* Active dysphagia or swallowing disorder or a predisposition to or current bowel obstruction, ile",
+      "endpoints": [
+        "To compare the efficacy and safety of sevelamer carbonate and placebo dosed three times per day (TID) on serum phosphorus levels"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00833768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04551300",
+      "title": "A Phase 2 Study to Evaluate the Safety and Efficacy of Escalated and Fixed Doses of VS-505(AP301) in Comparison With Sevelamer Carbonate to Treat Hyperphosphatemia in Chronic Kidney Disease Patients Receiving Hemodialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-10-13",
+      "completion_date": "2022-10-15",
+      "country": "China",
+      "enrollment": 158,
+      "brief_summary": "A multi-center, open-label, parallel-design, active-controlled phase 2 study to evaluate the tolerability, safety and efficacy of various dosages of VS-505 compared with Sevelamer Carbonate when given orally with meal for 6 weeks to treat hyperphosphatemia in chronic kidney disease subjects receiving maintenance hemodialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults with end stage renal disease who are receiving a stable hemodialysis regimen (3 times per week) with sufficient dialysis adequacy;\n* Serum phosphorus level range from \\>1.94 mmol/L (6.0 mg/dL) to ≤3.23 mmol/L (10.0 mg/dL) at the end of washout phase.\n\nExclusion Criteria",
+      "endpoints": [
+        "Serum phosphorus change from baseline to end of treatment"
+      ],
+      "sponsor": "Shanghai Alebund Pharmaceuticals Limited",
+      "url": "https://clinicaltrials.gov/study/NCT04551300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00785629",
+      "title": "A Double Blind Randomized Placebo Controlled Trial of Maintenance of Normal Serum Phosphorus in Chronic Kidney Disease (CKD)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 148,
+      "brief_summary": "The purpose of this study is to determine the ability of 3 commercially available phosphorus binders (calcium acetate, sevelamer carbonate, and lanthanum carbonate) to achieve and maintain a phosphorus level in the normal range in patients with chronic kidney disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women \\> 18 years of age;\n* Has signed and dated the most recent informed consent form approved by an IRB;\n* Will, in the opinion of the PI, be compliant with prescribed phosphate binder therapy;\n* Must be able to communicate with the investigator, and be able to unders",
+      "endpoints": [
+        "Serum Phosphorus"
+      ],
+      "sponsor": "Denver Nephrologists, P.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00785629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00268957",
+      "title": "A Randomized, Parallel, Open-Label Study to Compare Once Per Day Sevelamer Carbonate Powder Dosing With Three Times Per Day Sevelamer Hydrochloride Tablet Dosing in Chronic Kidney Disease Patients on Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 217,
+      "brief_summary": "Approximately 207 patients with chronic kidney disease (CKD) on hemodialysis will be entered into this study at approximately 26 centers in the United States. This study aims to evaluate the safety and efficacy of sevelamer carbonate powder dosed once-a-day (QD) with the largest meal compared to sevelamer hydrochloride tablets dosed three-times-per-day (TID) with meals. The total length of participation is approximately 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* On three times per week hemodialysis for three months or longer\n* Currently on a phosphate binder(s)\n* Considered compliant with phosphate binders and hemodialysis therapy\n* Willing to avoid any intentional changes in diet such as fasting or dieting\n* Have the following docume",
+      "endpoints": [
+        "Demonstrate the efficacy of sevelamer carbonate powder dosed QD with the largest meal to sevelamer hydrochloride tablets dosed TID with meals on the control of serum phosphorus",
+        "Evaluate the safety and tolerability of sevelamer carbonate powder dosed QD with the largest meal compared to sevelamer hydrochloride tablets dosed TID with meals"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00268957"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01630629",
+      "title": "\"Bone Density and Calcitropic Hormones During Lactation in African-American and Caucasian Women\"",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2015-09",
+      "country": "United States",
+      "enrollment": 77,
+      "brief_summary": "Changes in maternal calcium metabolism are necessary during lactation to provide adequate calcium in breast milk for development of the newborn skeleton. The calcium in milk is derived from the maternal skeleton, resulting in significant bone loss, a process thought to be mediated by the actions of parathyroid hormone-related protein (PTHrP) in combination with a decreased estrogen levels. After weaning, bone lost during lactation is rapidly regained.\n\nDifferences between African-American and Ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 21-45 years old\n* Post-partum after a singleton pregnancy\n* Exclusively breast-feeding (not more than one supplemental bottle of formula per day)\n* African-American or Caucasian by self-identification\n\nExclusion Criteria:\n\n* Subjects with cardiac, hypertensive, vascular, renal",
+      "endpoints": [
+        "Change from baseline in bone density measurements (BMD)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01630629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06660524",
+      "title": "Clinical Study on the Influence of Calcium and Phosphorus Regulation Therapy on Valvular Heart Disease.",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-03-01",
+      "completion_date": "2025-12",
+      "country": "China",
+      "enrollment": 196,
+      "brief_summary": "The goal of this clinical trial is to learn if calcium-phosphorus regulation therapy can slow the progression of heart valve calcification in patients with degenerative heart valve disease and chronic kidney disease (CKD). The main questions it aims to answer are:\n\n* Does Sevelamer lower the progression of heart valve calcification compared to calcium carbonate over 12 months?\n* What are the impacts of calcium-phosphorus regulation therapy on major cardiovascular events such as heart failure, ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 50 years old.\n\n  * Degenerative valvular heart disease clearly diagnosed by ultrasound or clinical history with calcification manifestation (including no stenosis or insufficiency due to calcification, mild, moderate and severe stenosis and insufficiency caused by calcif",
+      "endpoints": [
+        "The change of valve calcification score on CT scan from baseline to 1 year of treatment."
+      ],
+      "sponsor": "China National Center for Cardiovascular Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT06660524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01696279",
+      "title": "A 3-part Open-label Study to Assess the Pharmacokinetics of Lanthanum Carbonate, Compare the Efficacy, Safety and Tolerability of 8 Weeks of Treatment With Lanthanum Carbonate and Calcium Carbonate Using a Crossover Design and Investigate the Efficacy and Safety of 8 Months of Treatment With Lanthanum Carbonate in Hyperphosphataemic Children and Adolescents Aged 10 Years to <18 Years With Chronic Kidney Disease on Dialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-02-15",
+      "completion_date": "2018-11-16",
+      "country": "Chile, Czechia, Turkey (Türkiye), Russia, Hungary, Germany, Romania, Poland, Argentina",
+      "enrollment": 63,
+      "brief_summary": "The purpose of this study is to summarize the percentage of participants achieving age-specific Kidney Disease Outcomes Quality Initiative (KDOQI) targets for serum phosphorus in hyperphosphatemic children and adolescents with chronic kidney disease (CKD) who are on dialysis, following 8 weeks of treatment with lanthanum carbonate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 10 years to less than (\\<) 18 years of age at the time of consent.\n2. Participant or parent/legally authorized representative (LAR) understand and are able, willing, and likely to fully comply with the study procedures and restrictions defined in this protocol.\n3. Male, ",
+      "endpoints": [
+        "Percentage of Participants Achieving Age-Specific Kidney Disease Outcomes Quality Initiative (KDOQI) Targets for Serum Phosphate Level Following 8 Weeks of Lanthanum Carbonate Administration (Part 2 + Part 3)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01696279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01289626",
+      "title": "Evaluation of Efficacy of Lanthanum Carbonate (Fosrenol) in Patients With Calciphylaxis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The research question and primary aim is to determine if lanthanum carbonate is effective in treating calciphylaxis by measurement of complete or partial remission of skin lesions. Secondary endpoints will be measured to determine if lanthanum carbonate can lower calcium-phosphorus product levels, intact PTH and mortality. Albumin levels will be measured as a marker of nutritional status and inflammation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* i Participants will have signed a witnessed informed consent. ii Participants will be greater than or equal to 18 years of age iii Chronic renal failure receiving hemodialysis or peritoneal dialysis iv A diagnosis of calciphylaxis proven by skin biopsy or initial dermatology v",
+      "endpoints": [
+        "Remission of calciphylaxis skin lesions"
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "url": "https://clinicaltrials.gov/study/NCT01289626"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02836184",
+      "title": "The Efficacy and Safety of Nicotinic Acid in the Hemodialysis Patients With Hyperphosphatemia",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-07",
+      "completion_date": "2016-09",
+      "country": "China",
+      "enrollment": 45,
+      "brief_summary": "With calcium carbonate as the positive control drug, to observe the effectiveness and safety of nicotinic acid in hemodialysis patients with hyperphosphatemia",
+      "eligibility_criteria": "Inclusion Criteria:\n\nethnic Han live in China, End-stage renal disease（ESRD）patients treated with hemodialysis ≥ 3 months, between 18 and 80 years of age, serum phosphorus \\> 1.78 mmol/L, capable of giving informed consent\n\nExclusion Criteria:\n\nBe allergic to nicotinic acids, dysphagia, pregnant, cu",
+      "endpoints": [
+        "change in serum phosphorus"
+      ],
+      "sponsor": "Jiujiang No.1 People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02836184"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05102279",
+      "title": "Analysis of Urine Composition Saturation and Dietary Intervention in Subjects Without Urinary Calculi",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-23",
+      "completion_date": "2024-12-30",
+      "country": "China",
+      "enrollment": 10,
+      "brief_summary": "Urinary calculi have become a global public health problem, which brings a huge economic burden to society and individuals. The pathogenesis of urinary calculi is not completely clear. Supersaturation of urinary components is a necessary condition for the formation of urinary calculi. The causes of stone formation are closely related to diet, drugs, metabolic disorders, basic diseases, genetic factors, environment and so on. Diet essentially determines the composition of urine, which affects the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 20-45 years old\n* 18\\. 5≤Body Mass Index≤ 23. 9\n* Normal oral diet\n\nExclusion Criteria:\n\n* People who have had or are suffering from urinary tract stones , or have the following diseases leading to the formation of stones: renal tubular acidosis, gout, hyperuricemia, chro",
+      "endpoints": [
+        "Subjects complete the trial within 10 days"
+      ],
+      "sponsor": "Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University",
+      "url": "https://clinicaltrials.gov/study/NCT05102279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01419327",
+      "title": "Special Drug Use Investigation of Fosrenol (Long-term Investigation for Patients With Hemodialysis)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-03-23",
+      "completion_date": "2019-05-28",
+      "country": "Japan",
+      "enrollment": 3267,
+      "brief_summary": "This study is a regulatory post marketing surveillance in Japan, and it is a local prospective and observational study of patients in hemodialysis who received Fosrenol for hyperphosphatemia. The objective of this study is to assess safety and efficacy of using Fosrenol in clinical practice. A total 3,000 patients will be recruited and followed 5 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing hemodialysis who received Fosrenol for hyperphosphatemia\n\nExclusion Criteria:\n\n* Patients who are contraindicated based on the product label",
+      "endpoints": [
+        "Incidence of adverse drug reactions in subjects who received Fosrenol"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01419327"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03792984",
+      "title": "The Effect of Calcium and Vitamin D Supplements as an Adjuvant Therapy to Metformin on Metabolic and Hormonal Disturbances in Polycystic Ovary Syndrome Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-12-01",
+      "completion_date": "2017-12-30",
+      "country": "Syria",
+      "enrollment": 40,
+      "brief_summary": "The aim of this study is to investigate the safety and metabolic-hormonal efficiency of supplementation vitamin D deficient/insufficient PCOS women with (calcium +vitamin D + metformin) for 8 weeks compared to (placebo+ metformin).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* PCOS women aged 18-30 years diagnosed according to the Rotterdam criteria.\n* Vitamin D deficiency or insufficiency according to the Endocrine Society Clinical Practice Guideline.\n* Normal liver function.\n* Normal kidney function.\n\nExclusion Criteria:\n\n* Pregnant, postpartum or",
+      "endpoints": [
+        "Change in quantitative insulin sensitivity check index (QUICKI).",
+        "Change in Raynaud's index.",
+        "Change in McAuley Index."
+      ],
+      "sponsor": "Damascus University",
+      "url": "https://clinicaltrials.gov/study/NCT03792984"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01514851",
+      "title": "Phase III Double-blind Comparative Study of BAY 77 1931 (Lanthanum Carbonate) With a Calcium Carbonate in Patients With Hyperphosphatemia Undergoing Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2006-05",
+      "country": "Japan",
+      "enrollment": 259,
+      "brief_summary": "To assess the effect on reduction of serum phosphate and the safety of BAY77-1931 (Lanthanum Carbonate) in patients with hyperphosphatemia undergoing hemodialysis in a randomized, double-blind, parallel group study in comparison with Calcium carbonate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pre-dialysis serum phosphate levels: ≧5.6 mg/dL and \\<11.0 mg/dL at 1 week after the initiation of the washout period.\n* Out-patient\n* Undergoing hemodialysis three times per week for at least previous 3 consecutive months\n\nExclusion Criteria:\n\n* Pre-dialysis serum phosphate l",
+      "endpoints": [
+        "Change from baseline in pre-dialysis serum phosphate levels (PSPL) at the end of the double-blind period",
+        "Presence/absence of incidence of hypercalcemia up to 8 weeks"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01514851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03984760",
+      "title": "A Multicenter, Randomized, Open-Label, Active-Controlled, Parallel Study to Assess the Efficacy and Safety of Ferric Citrate Capsules for the Treatment of Hyperphosphatemia in Patients With Chronic Kidney Disease Undergoing Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-06-19",
+      "completion_date": "2021-02-20",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "To evaluate the efficacy and safety of ferric citrate capsules for the treatment of hyperphosphatemia in patients with chronic kidney disease undergoing hemodialysis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willing to give written informed consent.;\n2. Between the age of 18 and 75 years (including the boundary value);\n3. Patients who maintain the hemodialysis schedule as 3 times a week and the dialysis schedule should remain unchanged during the study period;\n4. At Screening, pa",
+      "endpoints": [
+        "The change in serum phosphorus levels"
+      ],
+      "sponsor": "Panion & BF Biotech Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03984760"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00074711",
+      "title": "Bone Sparing by Calcium Salts With and Without Extra Phosphorus",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2008-06",
+      "country": "United States",
+      "enrollment": 241,
+      "brief_summary": "Osteoporosis causes bones to weaken and break more easily. Calcium and phosphorus are two minerals that are essential for normal bone formation. Unfortunately, calcium salts commonly prescribed in anti-osteoporosis treatment bind phosphorus from food and restrict phosphorus available for bone building. Teriparatide is a drug that reduces the risk of fractures by increasing bone thickness and strength. Vitamin D is also necessary for strong bones and teeth. The purpose of this study is to evaluat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Bone mineral density (BMD) T-score less than -1.0\n* One or more vertebral fractures\n* Serum creatinine less than 1.3 mg/dL\n* Serum phosphorus less than 3.6 mg/dL\n* Daily phosphorus intake below NHANES-III median\n* Body mass index (BMI) less than 30 kg/m2\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "Lumbar Spine and Hip BMD, Measured as Grams Per Square Centimeter.",
+        "Bone Mineral Density (BMD) Under Treatment With an Anabolic Agent (Teriparatide)."
+      ],
+      "sponsor": "Creighton University",
+      "url": "https://clinicaltrials.gov/study/NCT00074711"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01578200",
+      "title": "Outcome Study of Lanthanum Carbonate Compared With Calcium Carbonate on Cardiovascular Mortality and Morbidity in Patients With Chronic Kidney Disease on Hemodialysis (CKD5D)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-12-24",
+      "completion_date": "2019-03-25",
+      "country": "Japan",
+      "enrollment": 2309,
+      "brief_summary": "The purpose of this study is to demonstrate decrease in cardiovascular mortality and morbidity in Japanese hemodialysis patients treated with Lanthanum carbonate compared with those with Calcium carbonate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* hemodialysis patients with hyperphosphatemia who require phosphate binders\n* hemodialysis for more than 3 months\n* patients who have at least one calcification risk factor (elderly \\> 65 years, postmenopausal woman, type 2 diabetes mellitus)\n* intact-PTH \\< or = 240pg/mL\n* lif",
+      "endpoints": [
+        "Cardiovascular event free survival time."
+      ],
+      "sponsor": "Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",
+      "url": "https://clinicaltrials.gov/study/NCT01578200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00841126",
+      "title": "An Open, Randomized, Controlled, Parallel Group, Phase III Study to Investigate the Safety and Efficacy of Fermagate and Lanthanum Carbonate Together With a Randomized Placebo Controlled Double Blind Fermagate Comparison in Hemodialysis Patients With Hyperphosphatemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2011-07",
+      "country": "France, Brazil, Spain, South Africa, Germany, Australia, Poland, Canada, New Zealand, Malta, United States",
+      "enrollment": 657,
+      "brief_summary": "Magnesium iron hydroxycarbonate is a phosphate binder that absorbs phosphate from food, reducing the amount that the body can absorb.\n\nThe purpose of this study is to assess the efficacy of magnesium iron hydroxycarbonate in subjects requiring hemodialysis, compared with a marketed phosphate binder, lanthanum carbonate and placebo.",
+      "eligibility_criteria": "Inclusion:\n\nSubjects will be considered eligible for entry in the study if they meet all of the following criteria.\n\n1. Male or female, aged ≥18 years.\n2. Able to comply with the study procedures and medication.\n3. Written informed consent given.\n4. On a stable hemodialysis regimen (at least 3x per ",
+      "endpoints": [
+        "Stage 1: Control or not the level of serum phosphate",
+        "Stage 2: Change from treated baseline in mean serum phosphate"
+      ],
+      "sponsor": "Ineos Healthcare Limited",
+      "url": "https://clinicaltrials.gov/study/NCT00841126"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01191255",
+      "title": "A Three-Period, 58-Week Safety and Efficacy Trial of KRX-0502 (Ferric Citrate) in Patients With End-Stage Renal Disease (ESRD) on Dialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2013-02",
+      "country": "Israel, Puerto Rico, United States",
+      "enrollment": 441,
+      "brief_summary": "This is up to a 58 week study comparing ferric citrate to active control for 52 weeks in ESRD dialysis patients, and subsequently comparing ferric citrate to placebo for 4 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or non-pregnant, non-breast-feeding females\n2. Age ≥18 years\n3. On thrice-weekly hemodialysis or on peritoneal dialysis for at least the previous three months prior to Screening\n4. Serum phosphorus ≥6.0 mg/dL for study entry\n5. Taking less than 3-18 pills/day of current",
+      "endpoints": [
+        "Change in Mean Serum Phosphorus From Baseline (Week 52) to the End of the Efficacy Assessment Period (EAP; Week 56)"
+      ],
+      "sponsor": "Keryx Biopharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01191255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00853242",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Dose-Ranging Study Using Genz-644470 and Sevelamer Carbonate in Hyperphosphatemic Chronic Kidney Disease Patients on Hemodialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2009-08",
+      "country": "Puerto Rico, United States",
+      "enrollment": 349,
+      "brief_summary": "The purpose of this clinical study is to compare the effects of Genz-644470 with the effects of placebo and sevelamer carbonate (Renvela®) on the reduction of serum phosphorus in hyperphosphatemic chronic kidney disease participants on hemodialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum phosphate level greater than (\\>) 5.5 milligram per deciliter (mg/dL) (1.78 millimole per liter \\[mmol/L\\]) after discontinuation of current phosphate binder therapy\n* Men or women 18 years or older\n\nExclusion Criteria:\n\n* Have active dysphagia or swallowing disorder or ",
+      "endpoints": [
+        "Change From Baseline in Serum Phosphorus at Day 22 (Genz-644470 vs Placebo)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00853242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00560300",
+      "title": "Regulation of Bone Formation in Renal Osteodystrophy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2000-11",
+      "completion_date": "2006-11",
+      "country": "N/A",
+      "enrollment": 61,
+      "brief_summary": "To examine the effects of two types of active vitamin D (calcitriol and doxercalciferol) and two phosphate binders (sevelamer and calcium carbonate) on the bone disease and blood tests of children with kidney failure",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable end-stage kidney disease treated with continuous cycling peritoneal dialysis,\n* Biochemical evidence of secondary hyperparathyroidism (PTH\\>400 pg/ml) with bone biopsy evidence of high turnover bone disease\n\nExclusion Criteria:\n\n* History of parathyroidectomy\n* Growth h",
+      "endpoints": [
+        "Bone Formation Rate"
+      ],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "url": "https://clinicaltrials.gov/study/NCT00560300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01518387",
+      "title": "Phase III Open Study of BAY 77 1931 (Lanthanum Carbonate) in Patients With Hyperphosphatemia Undergoing Continuous Ambulatory Peritoneal Dialysis (CAPD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2006-07",
+      "country": "Japan",
+      "enrollment": 43,
+      "brief_summary": "The purpose of this study is to assess the effect on reduction of serum phosphate and the safety of BAY77-1931 (lanthanum carbonate) in patients with hyperphosphatemia undergoing continuous ambulatory peritoneal dialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum phosphate levels: \\>5.0 mg/dL and \\<11.0 mg/dL 2 weeks after the initiation of the washout period\n* Out-patient\n* Undergoing CAPD for at least previous 3 consecutive months\n\nExclusion Criteria:\n\n* Who may not enable to continue CAPD\n* Serum phosphate levels of \\>=10.0 mg",
+      "endpoints": [
+        "Change from baseline in serum phosphate levels at the end of the treatment period"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01518387"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00837655",
+      "title": "Study of the Effect of Treatment With Sevelamer on Glucose Tolerance and Insulin Sensitivity in Patients With Chronic Renal Failure",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2009-01",
+      "completion_date": "2011-06",
+      "country": "Sweden",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to perform a randomized, controlled clinical trial to investigate if the phosphate binder sevelamer can improve insulin resistance and glucose handling in patients receiving maintenance hemodialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients 18-80 years of age with chronic renal failure treated with maintenance HD for \\>3 months.\n\nExclusion Criteria:\n\n* Diabetes mellitus\n* Treatment with sevelamer within 3 months prior to enrollment\n* Acute, clinically significant inflammation within 1 mont",
+      "endpoints": [
+        "Change in insulin sensitivity and/or glucose tolerance from baseline to the end of the study, as obtained by ISIOGTT."
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT00837655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01965990",
+      "title": "A 2-week Course of Enteral Treatment With a Very Low-calorie Protein-based Formula for the Management of Severe Obesity",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2013-02",
+      "country": "Italy",
+      "enrollment": 364,
+      "brief_summary": "Body weight excess, from overweight to overt obesity, is associated with adverse health outcomes. In view of the time-trends of the obesity epidemic and the related cost burden, the search for effective strategies for weight reduction and long-term maintenance of weight loss (WL) is at the top of the agenda of public health systems.\n\nThe current first-line strategy includes several treatment options and dietary interventions to be implemented together with an exercise program. Unfortunately, com",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>=18 years\n* severe obesity (body mass index \\[BMI\\] \\>=40 kg/m2)\n* history of multiple failures in weight loss programs\n\nExclusion Criteria:\n\n* age \\>=70 years\n* insulin-dependent diabetes mellitus\n* a psychiatric disorder\n* previous (\\<1 year since last chemo- or radiot",
+      "endpoints": [
+        "Weight loss",
+        "Feasibility",
+        "Safety"
+      ],
+      "sponsor": "San Giuseppe Moscati Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01965990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01755078",
+      "title": "Long Term Evaluation of Sevelamer HCl vs. Calcium-based Phosphate Binder in the Treatment of Hyperphosphatemia in Hemodialysis Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2009-06",
+      "country": "N/A",
+      "enrollment": 166,
+      "brief_summary": "The study is designed to compare sevelamer vs. calcium-based phosphate binder in hemodialysis patients to achieve full-scale of medical care, including reduction of atherosclerotic risk factors, reduction of vascular access reconstruction rate, and pharmacoeconomic analysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females aged between 18-70 years old\n* Subject with hyperphosphatemia (5.5 - 8.5 mg/dL) at both WK(-2) and WK0\n* On stable TIW hemodialysis for 3 months or longer\n\nExclusion Criteria:\n\n* Patients with hypercalcemia (corrected serum calcium \\> 10.5 mg/dL)\n* Any of the ",
+      "endpoints": [
+        "Composite end-point of Ca, P, Ca*P within K/DOQI recommendation"
+      ],
+      "sponsor": "Chugai Pharma Taiwan",
+      "url": "https://clinicaltrials.gov/study/NCT01755078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01277497",
+      "title": "A Randomized Study on the Effects of Sevelamer Carbonate Versus Calcium Acetate on Biomarkers of Vascular Calcification, Inflammation, and Endothelial Dysfunction in Chronic Kidney Disease Stages 3 and 4",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2011-01",
+      "completion_date": "2016-03",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Chronic kidney disease (CKD) patients often have high levels of a substance called fibroblast growth factor-23 (FGF-23), a phosphorus excreting hormone, which has been related to heart disease. As kidney function declines, less phosphorus is removed by the kidneys and as a result phosphorus accumulates in the blood. In response to elevated phosphorus levels, more FGF-23 is released to help facilitate the excretion of extra phosphorus into the urine. In addition to effects on FGF-23, increased ph",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females ≥ 18 years of age at start of screening\n* CKD stage 3 or 4 defined by an eGFR 15 - 60 mL/min/1.73m2\n* Not expected to start dialysis for 8 months\n* Serum intact PTH \\< 500 pg/mL during screening period\n* On a stable ACE inhibitor/ARB regimen for 30 days prior ",
+      "endpoints": [
+        "The primary outcome measure will be the change in FGF-23 concentrations"
+      ],
+      "sponsor": "Albany College of Pharmacy and Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01277497"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00767637",
+      "title": "Open Label, Non-controlled Long-term Treatment on BAY77-1931 (Lanthanum Carbonate) to Measure Lanthanum Concentrations in Bone in Patients With Hyperphosphatemia Receiving Dialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2008-10",
+      "country": "Japan",
+      "enrollment": 14,
+      "brief_summary": "To measure lanthanum concentrations in bone in patients with hyperphosphatemia receiving dialysis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing dialysis or plan to start dialysis before the initial administration of the study medication\n\nExclusion Criteria:\n\n* Patients with severe hypocalcemia (adjusted serum calcium level of \\<7.5 mg/dL)",
+      "endpoints": [
+        "Changes in pre-dialysis serum phosphate levels"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00767637"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07030595",
+      "title": "A Randomized, Open-Label, Multi-Center, Phase 3 Study to Evaluate the Efficacy and Safety of AP301 on Serum Phosphorus Control in Chronic Kidney Disease Patients Receiving Maintenance Dialysis With Hyperphosphatemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-06-12",
+      "completion_date": "2025-05-30",
+      "country": "China",
+      "enrollment": 474,
+      "brief_summary": "This Phase 3 clinical trial is the pivotal study of AP301 aiming to evaluate the efficacy and safety of AP301 for controlling serum phosphorus in chronic kidney disease receiving hemodialysis and peritoneal dialysis in Chinese patients with hyperphosphatemia.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Provision of signed and dated ICF\n* Adult when signing the ICF\n* Patients on dialysis for ≥ 3 months before signing the ICF and throughout the study\n* For HD patients, spKt/V ≥ 1.2; for PD patients, total Kt/V ≥ 1.7/week\n* For patients who receive phosphate binders and the",
+      "endpoints": [
+        "Change in serum phosphorus levels between AP301 and AP301 low dose groups in hyperphosphatemic patients",
+        "Change in serum phosphorus levels between AP301 and sevelamer carbonate groups in hyperphosphatemic patients"
+      ],
+      "sponsor": "Alebund Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT07030595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06866561",
+      "title": "The Effect of Aerobic Exercise on Bone Formation and Resorption Markers And The Quality of Life Tests in Postmenopausal Osteopenic Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-11-15",
+      "completion_date": "2023-11-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 45,
+      "brief_summary": "The aim of the study was to evaluate the effect of light-moderate aerobic exercise on BMD in postmenopausal osteopenic women using bone formation-resorption markers. Participants were randomized into two groups as aerobic exercise and control groups and followed for 12 weeks. At the beginning and at the 12th week, bone formation-resorption markers including procollagen type 1 N-terminal propeptide (P1NP), cross-linked C-telopeptide of type 1 collagen (CTX), osteocalcin, malondialdehyde, non-bone",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Postmenopausal women from Türkiye aged 45-65 years,\n* Bone mineral density (BMD) T-scores between -1 and -2.5 ( measured by dual-energy X-ray absorptiometry)\n\nExclusion Criteria:\n\n* Vertebral compression fracture,\n* A history of traumatic or nontraumatic fractures in the past ",
+      "endpoints": [
+        "The serum levef of Procollagen type 1 N-terminal propeptide (P1NP) (ng/ml)",
+        "The serum levef of Cross-linked C-telopeptide of type I collagen (CTX) (ng/ml)",
+        "The serum levef of Osteocalcin(OCN) (ng/ml)"
+      ],
+      "sponsor": "Bursa Yuksek Ihtisas Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06866561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824587",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy of Tenapanor as Adjunctive Therapy to Phosphate Binder Therapy in End-Stage Renal Disease (ESRD) Subjects With Hyperphosphatemia",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-02-28",
+      "completion_date": "2019-07-17",
+      "country": "United States",
+      "enrollment": 236,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled study to evaluate the effect of tenapanor on change in s-P levels when tenapanor is administered orally, twice daily for 28 days as adjunctive therapy to ESRD subjects with hyperphosphatemia on stable phosphate binder therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent prior to any study specific procedures.\n* Males or females aged 18 to 80 years, inclusive, at Screening\n* Females must be non-pregnant, non-lactating and either be post-menopausal for at least -2 months, have documentation of irreversible surg",
+      "endpoints": [
+        "Change in Serum Phosphorus (s-P) Level From Baseline to Week 4."
+      ],
+      "sponsor": "Ardelyx",
+      "url": "https://clinicaltrials.gov/study/NCT03824587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05113641",
+      "title": "Reducing Dietary Acid With Fruit and Vegetables Versus Oral Alkali in People With Chronic Kidney Disease (ReDACKD) Feasibility Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-08-04",
+      "completion_date": "2026-09",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "Metabolic acidosis is a common problem that occurs with worsening chronic kidney disease. Dietary acid can build up when the kidneys are not working well. This can be associated with a higher risk of worsening kidney function and death. The usual treatment is a medication called sodium bicarbonate which works to balance the acids in the body. The medication however often does not work and causes side effects. Consumption of alkalizing fruit and vegetables may work as a treatment for metabolic ac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant is willing and able to give informed consent for participation in the trial\n* Male or Female, aged 18 years or above\n* Participants who have an eGFR between 15 and 40 ml/min/1.73m2\n* Two consecutive measurements of serum bicarbonate of 14 to 22 mEq/L\n* Systolic and",
+      "endpoints": [
+        "Randomization to preliminary eligible ratio",
+        "Weekly recruitment rate",
+        "Study outcome follow up"
+      ],
+      "sponsor": "University of Manitoba",
+      "url": "https://clinicaltrials.gov/study/NCT05113641"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01161407",
+      "title": "Calcium and Phosphorus Balance and Calcium Kinetics in Patients With Stage 3/4 Chronic Kidney Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The purpose of this study is to gain a better understanding of calcium absorption and metabolism in patients with Chronic Kidney Disease (CKD) using calcium balance and kinetic methods.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with a GFR of \\< 45 ml/min;\n2. Intact serum PTH \\> 37 pg/ml;\n3. Age \\> 35 years (both genders and all races);\n4. Able to perform two three-week balance studies;\n5. Not on oral calcium or vitamin D other than multi vitamin, or willing to stop calcium or vitamin D for ",
+      "endpoints": [
+        "Calcium Balance"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT01161407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00885170",
+      "title": "A Phase IIa Randomized, Double-Blind, Placebo Controlled Study to Evaluate the Effects of Odanacatib (MK-0822) on Bone Mineral Density (BMD) and Overall Safety in the Treatment of Osteoporosis in Postmenopausal Women Previously Treated With Alendronate",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-04-13",
+      "completion_date": "2011-09-15",
+      "country": "N/A",
+      "enrollment": 246,
+      "brief_summary": "The study will evaluate the both the efficacy of odanacatib on Bone Mineral Density (BMD) and the safety of odanacatib for postmenopausal osteoporosis in patients previously treated with alendronate. The primary hypothesis of the trial is that treatment with odanacatib 50 mg once weekly will increase bone mineral density at the femoral neck compared to placebo at the end of 24 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has been postmenopausal for at least 5 years\n* Has taken or is taking alendronate\n* Agrees not to use medications for osteoporosis other than what is provided by the study\n\nExclusion Criteria:\n\n* Has a history or evidence of hip fracture\n* Has a history of cancer within 5 year",
+      "endpoints": [
+        "Percent Change From Baseline in Femoral Neck Bone Mineral Density (BMD) at Month 24",
+        "Percentage of Participants Experiencing One or More Adverse Events (AEs)",
+        "Percentage of Participants Discontinuing Study Drug Due to an AE"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00885170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01357317",
+      "title": "Changes in Biochemical and Vascular Parameters w/Lanthanum Carbonate & Calcium Acetate Therapy Compared to Dietary Intervention in Pts w/Stage 3 & 4 Chronic Kidney Disease & Abnormal Phosphorus Homeostasis: a Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2011-06",
+      "completion_date": "2014-03",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "Objective: To examine the effects of three commonly applied treatments of disordered phosphorus homeostasis on biochemical markers and vascular characteristics in patients with moderate and advanced non-dialysis dependent chronic kidney disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female CKD patients \\> 18 years old\n* Patients should be willing and able to provide written informed consent and HIPAA authorization to participate in study\n* Chronic kidney disease Stage 3 or 4 per K-DOQI Guidelines: estimated glomerular filtration rate (eGFR) of 15-",
+      "endpoints": [
+        "Designated safety measure; serum calcium",
+        "Designated safety measure: phosphorus"
+      ],
+      "sponsor": "Salem Veterans Affairs Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01357317"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00681941",
+      "title": "An Open Label, Dose Titration of Sevelamer Carbonate Tablets Dosed Three Times a Day in Hyperphosphatemic Chronic Kidney Disease Patients Not On Dialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2007-03",
+      "country": "France, Denmark, Australia, United Kingdom, Germany",
+      "enrollment": 49,
+      "brief_summary": "Approximately 45 hyperphosphatemic CKD patients not on dialysis will be entered into this study at approximately 20 sites within Europe and 5-10 in Australia. The purpose of this study is to determine if sevelamer carbonate tablets dosed three times a day (TID) is an effective treatment for the control of serum phosphorous levels in hyperphosphatemic CKD patients not on dialysis. Total length of participation is approximately 14 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A minimum of 120 male and female patients with chronic kidney disease not requiring dialysis will be screened for participation in the study.\n* Men or woman 18 years of age or older\n* If currently taking phosphate binder(s), willing to stop this and enter a 2 week washout peri",
+      "endpoints": [
+        "Evaluate the efficacy of sevelamer carbonate tablets dosed three times per day (TID) with meals on control of serum phosphorus levels",
+        "Evaluate the safety and tolerability of sevelamer carbonate tablets dosed TID with meals."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00681941"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01581996",
+      "title": "Effect of Lanthanum Carbonate (Fosrenol) on Fecal Phosphorus Excretion and Phosphorus Balance",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2017-05",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "Positive phosphorus balance and hyperphosphatemia (increased serum phosphorus levels) are very common complications of people with advanced chronic kidney disease (i.e., stage 5 CKD), including chronic dialysis patients, and are associated with severe morbidity and increased mortality. Despite attempts to control serum phosphorus with dietary phosphorus restriction and the use of medicines that bind phosphorus in the gastrointestinal tract so that the phosphorus cannot be absorbed into the body(",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic peritoneal dialysis treatment(CPD) for at least the previous six months, Clinically stable,\n* Ages 30 to 65 years old,\n* Both genders,\n* Any racial or ethnic background,\n* Evidence that the subject is capable of giving informed consent and of adhering to the study prot",
+      "endpoints": [
+        "Fecal Phosphorus and Body Phosphorus Balance"
+      ],
+      "sponsor": "Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01581996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110629",
+      "title": "Randomized, Double-blind, Parallel-group, Placebo-controlled Study of Lanthanum Carbonate 750 to 2250 mg in Patients With Chronic Kidney Disease Not on Dialysis Who Develop Hyperphosphatemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2011-11",
+      "country": "Japan",
+      "enrollment": 143,
+      "brief_summary": "The objective of this study is to investigate the efficacy and safety of lanthanum carbonate 750 to 2,250 mg in Japanese Chronic Kidney Disease Stage 3, 4 and 5 subjects not on dialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 20 years or above at the time of informed consent\n* Chronic Kidney Disease patients with Epidermal growth factor receptor (eGFR) under 60 ml/min/1.73m2 (stage 3, 4 and 5) who have not been on dialysis\n* Patients who had been in the care of a physi",
+      "endpoints": [
+        "The change from baseline in serum phosphate concentrations"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01110629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04456803",
+      "title": "A Study to Evaluate the Efficacy and Safety of Ferric Citrate Tablet for the Treatment of Hyperphosphatemia in Patients With Chronic Kidney Disease Undergoing Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-05-24",
+      "completion_date": "2022-09-13",
+      "country": "China",
+      "enrollment": 239,
+      "brief_summary": "To evaluate the efficacy and safety of ferric citrate tablet in the control of serum phosphorus levels in patients with chronic kidney disease undergoing hemodialysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Between the age of 18 and 75 years (including the boundary value) and no gender limitation;\n2. Patients who maintain the hemodialysis schedule (including hemofiltration (HF) hemodialysis (HDF) hemoperfusion (HP)) as not less than 3 times a week in the 3 months before random e",
+      "endpoints": [
+        "The change in serum phosphorus levels"
+      ],
+      "sponsor": "Sinomune Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT04456803"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05577507",
+      "title": "Efficacy and Safety of Cholestyramine in the Management of Hyperphosphatemia in Adult Hemodialysis Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-03-30",
+      "completion_date": "2023-06-30",
+      "country": "Egypt",
+      "enrollment": 80,
+      "brief_summary": "After the end of trial, we will examine if cholestyramine has a significant efficacy on reducing serum phosphate level in adult hemodialysis patients.\n\nTime of the trial will be two months (8 weeks trial period)\n\nBaseline characteristics: The following data will be collected from all patients at baseline\n\n1. Age, sex, weight, duration of ESRD and hemodialysis comorbidities.\n2. Dialysis duration, serum phosphate level, serum calcium level, iPTH, BUN, Cr (mg/d L), Albumin (mg/d L), Hb (g m%), rena",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Patients aged ≥18 years with CKD stage (4\\&5)\n\n  * Serum phosphate level ≥ 5.5 mg/dL\n  * Serum LDL-C level ≥1.82 mmol/L (70 mg/dL)\n  * Hemodialysis frequency 3 times per week or more.\n  * Hemodialysis in the last 3 months or longer.\n\nExclusion Criteria:\n\n* Patients are exclu",
+      "endpoints": [
+        "serum phosphate level",
+        "serum calcium level",
+        "iPTH"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT05577507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02209636",
+      "title": "Phosphate Lowering to Treat Vascular Dysfunction in Chronic Kidney Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-09-15",
+      "completion_date": "2019-12-20",
+      "country": "United States",
+      "enrollment": 66,
+      "brief_summary": "The proposed research is a randomized-controlled trial to determine the effectiveness of reducing serum phosphorus using a phosphate binder, lanthanum carbonate, for improving the function of arteries in adults with moderate to severe chronic kidney disease (CKD). \\[COMIRB 13-0328\\] Additionally, it will determine phosphorus balance among adults with CKD and whether there is a difference in phosphorus balance after three months of treatment with lanthanum carbonate. \\[COMIRB 15-0384\\]",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 40-79, women must be post-menopausal\n* CKD stage IIIb or IV (estimated glomerular filtration rate by MDRD 15-45 mL/min/1.73m2), stable for 3 months\n* Serum phosphorus 2.8-5.5 mg/dL, stable for 3 months\n* Not using phosphate binders\n* Albumin \\> 3.0 g/dL\n* Free from alcohol",
+      "endpoints": [
+        "Brachial Artery Flow-mediated Dilation",
+        "Aortic Pulse-wave Velocity",
+        "Phosphorus Balance Sub-study (COMIRB 15-0384)"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT02209636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01850641",
+      "title": "A Phase III Study of PA21 With Calcium Carbonate in Hemodialysis Patients With Hyperphosphatemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-04-29",
+      "completion_date": "2013-12-03",
+      "country": "Japan",
+      "enrollment": 35,
+      "brief_summary": "The purpose of this study is to investigate the safety and efficacy when administering PA21 with calcium carbonate in hemodialysis patients with hyperphosphatemia for 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Receiving stable maintenance hemodialysis 3 times a week\n* Dialysis patients with hyperphosphatemia\n\nExclusion Criteria:\n\n* Patients having history of a pronounced brain / cardiovascular disorder\n* Patients having severe gastrointestinal disorders\n* Patients having severe hepa",
+      "endpoints": [
+        "Incidence of Adverse Events"
+      ],
+      "sponsor": "Kissei Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01850641"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03644264",
+      "title": "An Open-label, Randomised, Active-controlled, Parallel Group, Multicentre, Phase 3 Study to Investigate the Safety and Efficacy of PA21 and Sevelamer Carbonate (Renvela®) in Chinese CKD Patients With Hyperphosphataemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-31",
+      "completion_date": "2020-08-21",
+      "country": "China",
+      "enrollment": 286,
+      "brief_summary": "This study evaluates the efficacy of PA21 in comparison with sevelamer carbonate (Renvela®) in lowering and maintaining serum phosphorus in adult Chinese subjects with CKD on dialysis after 12 weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Chinese subjects receiving either maintenance haemodialysis (HD) or peritoneal dialysis (PD) for at least 12 weeks prior to screening. No home HD or nocturnal HD (overnight stay at site) will be allowed\n2. Subjects with a history of hyperphosphataemia (HP).\n3. Subjects with s",
+      "endpoints": [
+        "Serum phosphorus (mmol/l )"
+      ],
+      "sponsor": "Vifor Fresenius Medical Care Renal Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03644264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06275347",
+      "title": "Comparative Study of the Response to Weight Loss and Metabolic Conditions Using Two Non-pharmacological Nutritional Programs",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-01-15",
+      "completion_date": "2023-05-25",
+      "country": "Mexico",
+      "enrollment": 88,
+      "brief_summary": "This study aimed to assess the efficacy and safety of the Zélé program, a controlled ketogenic diet, for weight loss and maintenance. It involved a randomized clinical trial with participants aged 18-60, BMI between 30-34.9 kg/m², and no severe health issues",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of either sex, between 18 and 60 years old, with a body mass index (BMI) between 30 and 34.9 kg/m2 were eligible to participate in the study. We recruited participants from Mexico City through different media including social networks (Facebook and Instagram). The sel",
+      "endpoints": [
+        "Evaluate the efficacy of this nutritional intervention",
+        "Volume of total body tissue corresponding to muscle",
+        "Percentage of body weight made up of adipose tissue"
+      ],
+      "sponsor": "Universidad Veracruzana",
+      "url": "https://clinicaltrials.gov/study/NCT06275347"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04651088",
+      "title": "Evaluation of Multiple Alkalinizing Agents on Urinary Stone Risk Parameters in Stone and Non-stone Formers on a Metabolically Controlled Diet",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-07-01",
+      "completion_date": "2027-07",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "The purpose of this study is to compare over the counter and alternative prescription urinary alkalinizing agents to slow release potassium citrate in their ability to modify urinary parameters associated with stone formation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged 18 and older.\n* with or without a history of stone disease.\n\nExclusion Criteria:\n\n* They are unable to take any of the medications due to health reasons.\n* Participants are pregnant or nursing.\n* Participants are unable to adhere to the metabolic diet.\n* Participan",
+      "endpoints": [
+        "24 hour urine volume",
+        "24 hour urine volume",
+        "24 hour urine creatinine"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04651088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001304",
+      "title": "Treatment of Hypoparathyroidism With Synthetic Human Parathyroid Hormone 1-34",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1991-10",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "This study has been important in establishing synthetic human parathyroid hormone 1-34 (PTH) as a beneficial treatment for hypoparathyroidism, superior to conventional therapy with calcium and calcitriol. Providing synthetic human parathyroid hormone 1-34 (PTH) to patients who are unresponsive to conventional therapy has enabled severe cases of hypoparathyroidism to be managed effectively with the investigational drug, PTH. The primary goals of this study are to (1) provide long-term PTH therapy",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nThis study will include patients (ages 17-69) with biochemically confirmed hypoparathyroidism.\n\nEXCLUSION CRITERIA\n\nWomen who are pregnant will be excluded.",
+      "endpoints": [
+        "Serum Calcium Level",
+        "Urine Calcium Excretion Level"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001304"
+    }
+  ],
+  "timestamp": "2026-03-04T16:11:27.372361",
+  "success": true,
+  "error_message": null
+}

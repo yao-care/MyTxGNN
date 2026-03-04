@@ -1,0 +1,70 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "infectious otitis media"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07396428",
+      "title": "Effectiveness and Implementation of a National Guideline for Acute Respiratory Tract Infections to Reduce Antibiotic Prescribing in Swiss Primary Care: the ImpProGUIDE Hybrid Type II Effectiveness-implementation Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-05-19",
+      "completion_date": "2026-11",
+      "country": "Switzerland",
+      "enrollment": 200,
+      "brief_summary": "The ImpProGUIDE study aims to find out whether implementing new Swiss national guidelines for acute respiratory infections (ARI) can help to reduce antibiotic prescribing in primary care. In Switzerland, most antibiotics are prescribed in outpatient care, and many of these prescriptions may not be needed - especially when infections are caused by viruses, which antibiotics do not treat. Reducing overuse of antibiotics is important to slow the spread of antibiotic resistance.\n\nThe new guidelines ",
+      "eligibility_criteria": "Inclusion criteria for quality circles (QCs)\n\n* Willing to participate in a study mainly conducted in French\n* Agreeing to participate in evaluation surveys\n\nExclusion criteria for QCs\\*\n\n\\- Not having any physician included in the study\n\nInclusion criteria for walk-in clinics\n\n* The clinic offers g",
+      "endpoints": [
+        "Defined daily doses of antibiotics commonly used for acute respiratory infections per 1000 consultations",
+        "Penetration of acute respiratory infection guidelines"
+      ],
+      "sponsor": "Center for Primary Care and Public Health (Unisante), University of Lausanne, Switzerland",
+      "url": "https://clinicaltrials.gov/study/NCT07396428"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04016051",
+      "title": "Comparison of Treatment Satisfaction and Treatment Adherence of a Novel Application Form \"Dose Sipping Technology\" (DST) of Oral Clarithromycin vs. Clarithromycin Syrup in Children Suffering From Acute Otitis Media, Tonsillitis, Pharyngitis, or Acute Bacterial Bronchitis (DoSe iT)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09-22",
+      "completion_date": "2004-12-23",
+      "country": "Germany, Poland",
+      "enrollment": 265,
+      "brief_summary": "This study was performed in children with upper respiratory tract infections (acute ear infection, infection of the tonsils or throat, or bacterial inflammation of the bronchi) who needed treatment with an antibiotic (clarithromycin). The study investigated a new technology which delivers the antibiotic in a straw (dose sipping technology, DST) in comparison to a marketed syrup.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female children weighing 12-40 kg.\n* Age 2 -12 years.\n* Written informed consent (parents).\n* Diagnosis of acute otitis media, tonsillitis, pharyngitis, or acute bacterial bronchitis requiring antibiotic treatment.\n\nExclusion Criteria:\n\n* Participation in another stud",
+      "endpoints": [
+        "Preparation of the medication (during treatment)",
+        "Preparation of the medication (after treatment)",
+        "Dosing accuracy (during treatment)"
+      ],
+      "sponsor": "Grünenthal GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04016051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824847",
+      "title": "Immunomodulatory Effect of Macrolides in Naturally Occurring Influenza Virus Infections in the Community",
+      "phase": "PHASE4",
+      "status": "SUSPENDED",
+      "start_date": "2023-06-01",
+      "completion_date": "2024-09-01",
+      "country": "Hong Kong",
+      "enrollment": 100,
+      "brief_summary": "The investigators propose a double-blind randomised placebo-controlled study in naturally occurring influenza virus infections in the community setting to compare the impact of a short course of clarithromycin versus placebo, on the clinical course, viral shedding, immunomodulation, and the antimicrobial resistance pattern of respiratory bacterial carriage of the patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged between 18-60\n* Presenting with symptoms of acute URTI (at least two among the following symptoms: body temperature ≥37.8°C, cough, rhinorrhea, sore throat, headache, myalgia/arthralgia) to university health clinics within 48 hours of illness onset.\n\nExclusion Crit",
+      "endpoints": [
+        "Time from recruitment to cessation of clinical illness",
+        "Time from recruitment to cessation of viral shedding"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT03824847"
+    }
+  ],
+  "timestamp": "2026-03-04T14:55:29.877251",
+  "success": true,
+  "error_message": null
+}

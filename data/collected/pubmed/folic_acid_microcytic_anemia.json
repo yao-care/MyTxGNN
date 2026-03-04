@@ -1,0 +1,532 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "microcytic anemia",
+    "query_string": "Folic Acid AND microcytic anemia"
+  },
+  "data": {
+    "query": "Folic Acid AND microcytic anemia",
+    "results": [
+      {
+        "pmid": "26045325",
+        "title": "The epidemiology of global micronutrient deficiencies.",
+        "abstract": "Micronutrients are essential to sustain life and for optimal physiological function. Widespread global micronutrient deficiencies (MNDs) exist, with pregnant women and their children under 5 years at the highest risk. Iron, iodine, folate, vitamin A, and zinc deficiencies are the most widespread MNDs, and all these MNDs are common contributors to poor growth, intellectual impairments, perinatal complications, and increased risk of morbidity and mortality. Iron deficiency is the most common MND worldwide and leads to microcytic anemia, decreased capacity for work, as well as impaired immune and endocrine function. Iodine deficiency disorder is also widespread and results in goiter, mental retardation, or reduced cognitive function. Adequate zinc is necessary for optimal immune function, and deficiency is associated with an increased incidence of diarrhea and acute respiratory infections, major causes of death in those <5 years of age. Folic acid taken in early pregnancy can prevent neur",
+        "journal": "Annals of nutrition & metabolism",
+        "year": "2015",
+        "authors": [
+          "Bailey Regan L",
+          "West Keith P",
+          "Black Robert E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Food, Fortified",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Iodine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26045325/"
+      },
+      {
+        "pmid": "27212091",
+        "title": "Evaluation of Anemia.",
+        "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "Kujovich Jody L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Cell Count",
+          "Diagnosis, Differential",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "FIGLU Test",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+      },
+      {
+        "pmid": "11681780",
+        "title": "Anemia in children.",
+        "abstract": "Anemia in children is commonly encountered by the family physician. Multiple causes exist, but with a thorough history, a physical examination and limited laboratory evaluation a specific diagnosis can usually be established. The use of the mean corpuscular volume to classify the anemia as microcytic, normocytic or macrocytic is a standard diagnostic approach. The most common form of microcytic anemia is iron deficiency caused by reduced dietary intake. It is easily treatable with supplemental iron and early intervention may prevent later loss of cognitive function. Less common causes of microcytosis are thalassemia and lead poisoning. Normocytic anemia has many causes, making the diagnosis more difficult. The reticulocyte count will help narrow the differential diagnosis; however, additional testing may be necessary to rule out hemolysis, hemoglobinopathies, membrane defects and enzymopathies. Macrocytic anemia may be caused by a deficiency of folic acid and/or vitamin B12, hypothyroi",
+        "journal": "American family physician",
+        "year": "2001",
+        "authors": [
+          "Irwin J J",
+          "Kirchner J T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aging",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Child, Preschool",
+          "Erythrocyte Indices",
+          "Female",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11681780/"
+      },
+      {
+        "pmid": "10518398",
+        "title": "[Anemia in hypothyroidism].",
+        "abstract": "Anemias are diagnosed in 20-60% patients with hypothyroidism. Real values of the degree of anemia are estimated by radioisotopic analysis due to the lower volume of plasma in hypothyroidism causing false high levels of hemoglobin in blood. Anemia is often the first sign of hypothyroidism. Diagnosis of hypothyroidism should be considered in every case of anemia with uncertain etiology because sometimes signs of overt hypothyroidism needn't necessarily be evident. Microcytic, macrocytic and normocytic are regularly described anemias.",
+        "journal": "Medicinski pregled",
+        "year": "1999",
+        "authors": [
+          "Antonijević N",
+          "Nesović M",
+          "Trbojević B",
+          "Milosević R"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Macrocytic",
+          "Humans",
+          "Hypothyroidism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10518398/"
+      },
+      {
+        "pmid": "26187724",
+        "title": "Hematinic deficiencies and anemia statuses in oral mucosal disease patients with folic acid deficiency.",
+        "abstract": "Folic acid deficiency (FAD) may result in macrocytic anemia. This study assessed the hematinic deficiencies and anemia statuses in oral mucosal disease patients with FAD (defined as folic acid ≤ 6 ng/mL).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2015",
+        "authors": [
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Wu Yang-Che",
+          "Cheng Shih-Jung",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26187724/"
+      },
+      {
+        "pmid": "7001890",
+        "title": "Nutritional anemia in alcoholism.",
+        "abstract": "Megaloblastic anemia due to folate deficiency, the result of dietary lack and a weak antifolate action of ethanol, is the most common cause of a low hematocrit in hospitalized alcoholics. Alcoholism in the absence of significant folate depletion is more commonly responsible for macrocytosis, however. Neutrophil hypersegmentation, which typically persists or worsens during the first 1 to 2 weeks of folic acid therapy, is a useful sign of folate depletion. Serum folate concentrations, however, are often misleading. During conversion of the megaloblastic marrow following hospitalization, giant bands and metamyelocytes often persist after erythroid cells become normal. Reversible ineffective erythropoiesis due to sideroblastic anemia, often but not invariably in association with folate deficiency, is also common. In about half the patients, siderocytes in the peripheral blood smear, which may transiently increase in number during recovery, provide a useful diagnostic clue. Despite the pres",
+        "journal": "The American journal of clinical nutrition",
+        "year": "1980",
+        "authors": [
+          "Lindenbaum J",
+          "Roman M J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcoholism",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Anemia, Megaloblastic",
+          "Anemia, Sideroblastic",
+          "Erythrocyte Count",
+          "Erythropoiesis",
+          "Ethanol",
+          "Folic Acid",
+          "Folic Acid Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7001890/"
+      },
+      {
+        "pmid": "18103537",
+        "title": "[Folic acid effect in two cases of microcytic, hypochromic, agastric anemia with deficiency syndrome].",
+        "abstract": "",
+        "journal": "Minerva medica",
+        "year": "1948",
+        "authors": [
+          "PAOLINO W",
+          "GAVOSTO F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Sickle Cell",
+          "Folic Acid",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18103537/"
+      },
+      {
+        "pmid": "39954228",
+        "title": "Anemia in inflammatory bowel disease-A comprehensive review.",
+        "abstract": "Anemia is a frequent complication in inflammatory bowel disease (IBD) patients. The etiology is multifactorial, with iron deficiency and anemia of chronic disease being the main reasons. Other causes include vitamin B12 and folate deficiency, hemolytic anemia and medications such as azathioprine and sulfasalazine. Apart from physical symptoms, it is associated with several negative outcomes, including poor quality of life, increased risk of hospital admission, increased risk of surgery and higher treatment costs. Diagnostic evaluation aims to identify the underlying cause and severity to determine the appropriate therapeutic strategy. Investigations include a complete blood count, iron indices, inflammatory markers and vitamin B12 and folate levels. Patients with iron deficiency need adequate replacement therapy to improve hemoglobin and replenish iron stores. Those with moderate to severe anemia and/or active disease need intravenous iron, while mild anemia can be treated with oral ir",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "year": "2025",
+        "authors": [
+          "Dutta Amit Kumar",
+          "Chinthala Hemanth",
+          "George John Titus",
+          "Thomas David Mathew",
+          "Joseph Joseph Anjilivelil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39954228/"
+      },
+      {
+        "pmid": "40178543",
+        "title": "[Practice-oriented rational assessment of anemia].",
+        "abstract": "Anemia is frequently diagnosed in the daily clinical routine and is an indicator of a more or less severe underlying disorder. An understanding of the diverse and complex etiology is crucial for a practice-oriented diagnostic approach. In principle, there are many differential diagnoses. The diagnosis is further complicated by the fact that anemia is often multifactorial, especially in old age. A rational clarification of anemia takes epidemiological data and the individual medical history into account. Classification according to erythrocyte indices plays a central role. The most important cause of hypochromic microcytic anemia is iron deficiency, with thalassemia and anemia of chronic disorders (ACD) as differential diagnoses. Hyperchromic macrocytic anemia is mainly caused by disturbances of vitamin B12 and folic acid metabolism or the DNA synthesis. The group of normochromic normocytic anemias includes most of the subtypes of anemia. In unclear cases, a referral to a hematologist f",
+        "journal": "Innere Medizin (Heidelberg, Germany)",
+        "year": "2025",
+        "authors": [
+          "Metzgeroth Georgia",
+          "Hastka Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "English Abstract",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia",
+          "Diagnosis, Differential",
+          "Erythrocyte Indices",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40178543/"
+      },
+      {
+        "pmid": "28291568",
+        "title": "Anemia and hematinic deficiencies in oral mucosal disease patients with microcytosis.",
+        "abstract": "Patients with microcytosis (defined as mean corpuscular volume < 80 fL) are not uncommonly found in oral mucosal disease clinics. This study assessed the anemia statuses and hematinic deficiencies in 240 oral mucosal disease patients with microcytosis.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2017",
+        "authors": [
+          "Wu Yu-Hsueh",
+          "Wang Yi-Ping",
+          "Chang Julia Yu-Fong",
+          "Wu Yang-Che",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Erythrocyte Count",
+          "Erythrocyte Indices",
+          "Humans",
+          "Mouth Diseases",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28291568/"
+      },
+      {
+        "pmid": "19787825",
+        "title": "Classification of anemia for gastroenterologists.",
+        "abstract": "Most anemia is related to the digestive system by dietary deficiency, malabsorption, or chronic bleeding. We review the World Health Organization definition of anemia, its morphological classification (microcytic, macrocytic and normocytic) and pathogenic classification (regenerative and hypo regenerative), and integration of these classifications. Interpretation of laboratory tests is included, from the simplest (blood count, routine biochemistry) to the more specific (iron metabolism, vitamin B12, folic acid, reticulocytes, erythropoietin, bone marrow examination and Schilling test). In the text and various algorithms, we propose a hierarchical and logical way to reach a diagnosis as quickly as possible, by properly managing the medical interview, physical examination, appropriate laboratory tests, bone marrow examination, and other complementary tests. The prevalence is emphasized in all sections so that the gastroenterologist can direct the diagnosis to the most common diseases, al",
+        "journal": "World journal of gastroenterology",
+        "year": "2009",
+        "authors": [
+          "Moreno Chulilla Jose Antonio",
+          "Romero Colás Maria Soledad",
+          "Gutiérrez Martín Martín"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Macrocytic",
+          "Erythrocyte Indices",
+          "Gastroenterology",
+          "Hemoglobins",
+          "Humans",
+          "Reticulocyte Count",
+          "Reticulocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19787825/"
+      },
+      {
+        "pmid": "776720",
+        "title": "Interactions of nutrition and infection.",
+        "abstract": "Interactions between malnutrition and infection contribute directly to the health of individuals and communities. The relevance of this concept to the practice of clinical medicine, dentistry, and public health is supported by an imposing collection of evidence from the clinic, laboratory, and field. Malnutrition can interfere with any body mechanism that acts as a barrier to the multiplication or progress of infectious agents. This includes formation of specific antibodies, number and activity of phagocytes, integrity of skin, mucous membranes, and other tissues. Some of the less definite, nonspecific protective substances in body fluids are also affected by malnutrition. Infectious disease adversely influences the nutritional state in several indirect ways. Loss of appetite and intolerance for food result in metabolic changes. Cultural factors lead to substitution of less nutritious diets as a presumed therapeutic measure and to administration of purgatives, antibiotics, and other me",
+        "journal": "Dental clinics of North America",
+        "year": "1976",
+        "authors": [
+          "Scrimshaw N S",
+          "Suskind R M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibody Formation",
+          "Complement System Proteins",
+          "Humans",
+          "Immunity, Cellular",
+          "Infections",
+          "Nutrition Disorders",
+          "Nutritional Physiological Phenomena",
+          "Phagocytosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/776720/"
+      },
+      {
+        "pmid": "15529613",
+        "title": "Treatment of iron deficiency anemia with Ferro-Folgamma.",
+        "abstract": "Iron deficiency anemia is a hypochromic anemia in which hemoglobin poor synthesis is due to a decrease in the amount of iron in the body. The decrease of iron quantity has many causes: insufficient intake of aliments rich in iron (meat, viscera, green vegetables), increased necessities during growth period, pregnancy, erythrocytes hyperregeneration, high-performance sportsmen, increased loss by digestive way, genito-urinary way, respiratory, hemorrhagic syndromes. Clinically, symptoms and signs specific to all types of anemia and those specific to lack of iron occur besides the symptoms and signs of the underlying disease: atrophic glositis, angular stomatitis, sideropenic dysphagia, pica, skin and nails changes. Laboratory investigations useful for diagnosis are: microcytic, hypochromic anemia, decreased serum iron level, total capacity of iron binding increased, medullar iron store absent, good response to iron therapy. Ferro-Folgamma is one of the most indicated medicines in iron de",
+        "journal": "Romanian journal of internal medicine = Revue roumaine de medecine interne",
+        "year": "2004",
+        "authors": [
+          "Ghinea Mihaela Maria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Ascorbic Acid",
+          "Drug Combinations",
+          "Ferrous Compounds",
+          "Folic Acid",
+          "Humans",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15529613/"
+      },
+      {
+        "pmid": "32543069",
+        "title": "Laboratory approach to investigation of anemia with a focus on pyruvate kinase deficiency.",
+        "abstract": "Anemia is a major health burden worldwide and affects approximately one-third of world's population. It is not a diagnosis; it is a manifestation of an underlying pathophysiology leading to either decreased hemoglobin (Hb), hematocrit (Hct), or red blood cells (RBCs). Iron deficiency anemia is still the most common cause of anemia worldwide. The symptoms are usually due to the underlying compensatory responses to decrease in oxygen delivery to the tissues. Laboratory investigation should start with complete blood count (CBC), reticulocyte count (RC), and peripheral smear evaluation. Further testing depends on these indices, that is, iron parameters and hemoglobinopathies/thalassemia evaluation in microcytic hypochromic anemia, vitamin B12, and folic acid level in macrocytic anemia. Increased RC denotes adequate bone marrow response and points toward hemolytic process and vice versa. Anemia diagnosis can be complex and confusing for the practicing physician. This review tries to give a ",
+        "journal": "International journal of laboratory hematology",
+        "year": "2020",
+        "authors": [
+          "Agarwal Archana M",
+          "Rets Anton"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Hemolytic, Congenital Nonspherocytic",
+          "Folic Acid",
+          "Hematocrit",
+          "Hemoglobins",
+          "Humans",
+          "Iron",
+          "Pyruvate Kinase",
+          "Pyruvate Metabolism, Inborn Errors",
+          "Reticulocyte Count",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32543069/"
+      },
+      {
+        "pmid": "33906782",
+        "title": "Vitamin B12 deficiency and anemia in 140 Taiwanese female lacto-vegetarians.",
+        "abstract": "Lacto-vegetarians (LVs) tend to have vitamin B12 deficiency (B12D). This study assessed whether 140 female LVs, including 16 B12D/LVs and 124 non-B12D/LVs, had significantly higher frequencies of microcytosis, macrocytosis, and of blood hemoglobin (Hb), red blood cell (RBC), and serum vitamin B12 deficiencies than 140 healthy control subjects (HCSs).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2021",
+        "authors": [
+          "Lee Yi-Pang",
+          "Loh Ching-Hui",
+          "Hwang Ming-Jay",
+          "Lin Chun-Pin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Autoantibodies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33906782/"
+      },
+      {
+        "pmid": "28314600",
+        "title": "Anemia and hematinic deficiencies in gastric parietal cell antibody-positive and -negative oral mucosal disease patients with microcytosis.",
+        "abstract": "Microcytosis is defined as mean corpuscular volume (MCV) < 80 fL. This study assessed the anemia statuses and hematinic deficiencies in 30 patients with gastric parietal cell antibody-positive microcytosis (GPCA+/microcytosis) and 210 patients with GPCA-negative microcytosis (GPCA-/microcytosis).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2017",
+        "authors": [
+          "Lin Hung-Pin",
+          "Wu Yu-Hsueh",
+          "Wang Yi-Ping",
+          "Wu Yang-Che",
+          "Yu-Fong Chang Julia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Autoantibodies",
+          "Erythrocyte Count",
+          "Erythrocyte Indices",
+          "Female",
+          "Homocysteine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28314600/"
+      },
+      {
+        "pmid": "24332525",
+        "title": "Anemia in severe acute malnutrition.",
+        "abstract": "India has the highest prevalence of severe acute malnutrition (SAM). Severe anemia is one of the comorbidities responsible for increased mortality in severely malnourished children, yet it has not received the attention it should. The aim of the present study was to determine the prevalence and type of anemia and to evaluate the possible etiologies for severe anemia, in these children.",
+        "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+        "year": "2014",
+        "authors": [
+          "Thakur Neha",
+          "Chandra Jagdish",
+          "Pemde Harish",
+          "Singh Varinder"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Megaloblastic",
+          "Blood Transfusion",
+          "Child Nutrition Disorders",
+          "Child, Preschool",
+          "Cross-Sectional Studies",
+          "Hemoglobins",
+          "Humans",
+          "Incidence",
+          "India"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24332525/"
+      },
+      {
+        "pmid": "35510934",
+        "title": "Predictors of Anaemia Prevalence Among Ghanaian Pregnant Women: A Cross-Sectional Study.",
+        "abstract": "Anaemia during pregnancy is a major public health concern. Despite its wide scope and adverse effects including increased maternal and perinatal morbidity and mortality, and long-term adverse effects on the newborn, appropriate interventions using upstream approaches to public health have largely not been implemented. This study investigated the prevalence and associated factors of anaemia among pregnant women in four health facilities in the Kwabre East Municipality. A cross-sectional survey with a two-stage sampling technique was conducted on 220 pregnant women who attended antenatal care at the selected health facilities. Interview-based structured questionnaires were used. Bivariate and multivariate logistic regression were used to identify predictors. The prevalence of anaemia was 11.4%. Few women (25) were anaemic and morphologically, 14 (56%) had normocytic normochromic anaemia and 9 (36%) had microcytic hypochromic anaemia. Iron deficiency was reported in 19 (8.6%) pregnant wom",
+        "journal": "Inquiry : a journal of medical care organization, provision and financing",
+        "year": "2022",
+        "authors": [
+          "Akowuah Jones Asafo",
+          "Owusu-Addo Ebenezer",
+          "Opuni Ama Antwiwaa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Cross-Sectional Studies",
+          "Female",
+          "Folic Acid",
+          "Ghana",
+          "Humans",
+          "Infant, Newborn",
+          "Iron",
+          "Pregnancy",
+          "Pregnant People"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35510934/"
+      },
+      {
+        "pmid": "18593679",
+        "title": "Paclitaxel-induced sickle cell crisis.",
+        "abstract": "A case of paclitaxel-induced painful crisis in a patient with breast cancer and hemoglobin sickle cell disease (SCD) is reported.",
+        "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+        "year": "2008",
+        "authors": [
+          "Wilson Nicole M",
+          "Espirito Janet L",
+          "Valero Vicente",
+          "Pusztai Lajos"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Black or African American",
+          "Anemia, Sickle Cell",
+          "Antineoplastic Agents, Phytogenic",
+          "Breast Neoplasms",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Paclitaxel",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18593679/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:39:39.167248",
+  "success": true,
+  "error_message": null
+}

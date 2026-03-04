@@ -1,0 +1,565 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Naproxen",
+    "disease": "migraine with or without aura, susceptibility to",
+    "query_string": "Naproxen AND migraine with or without aura, susceptibility to"
+  },
+  "data": {
+    "query": "Naproxen AND migraine with or without aura, susceptibility to",
+    "results": [
+      {
+        "pmid": "27910087",
+        "title": "Menstrual Migraine and Treatment Options: Review.",
+        "abstract": "A review of treatment options for menstrual migraine.",
+        "journal": "Headache",
+        "year": "2017",
+        "authors": [
+          "Maasumi Kasra",
+          "Tepper Stewart J",
+          "Kriegler Jennifer S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Menstruation",
+          "Migraine Disorders",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27910087/"
+      },
+      {
+        "pmid": "39318200",
+        "title": "Sumatriptan-naproxen sodium in migraine: A review.",
+        "abstract": "Varied responses to acute migraine medications have been observed, with over one-third (34.5%) of patients reporting insufficient headache relief. Sumatriptan-naproxen sodium, a single, fixed-dose combination tablet comprising sumatriptan 85 mg and naproxen sodium 500 mg, was developed with the rationale of targeting multiple putative mechanisms involved in the pathogenesis of migraine to optimise acute migraine care.",
+        "journal": "European journal of neurology",
+        "year": "2024",
+        "authors": [
+          "Wilcha Robyn-Jenia",
+          "Afridi Shazia K",
+          "Barbanti Piero",
+          "Diener Hans Christoph",
+          "Jürgens Tim Patrick"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Female",
+          "Male",
+          "Young Adult",
+          "Acute Disease",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Migraine Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39318200/"
+      },
+      {
+        "pmid": "31413171",
+        "title": "Practice guideline update summary: Acute treatment of migraine in children and adolescents: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Headache Society.",
+        "abstract": "To provide evidence-based recommendations for the acute symptomatic treatment of children and adolescents with migraine.",
+        "journal": "Neurology",
+        "year": "2019",
+        "authors": [
+          "Oskoui Maryam",
+          "Pringsheim Tamara",
+          "Holler-Managan Yolanda",
+          "Potrebic Sonja",
+          "Billinghurst Lori"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Academies and Institutes",
+          "Drug Combinations",
+          "Headache",
+          "Migraine Disorders",
+          "Naproxen",
+          "Neurology",
+          "Research Report"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31413171/"
+      },
+      {
+        "pmid": "24142263",
+        "title": "Naproxen with or without an antiemetic for acute migraine headaches in adults.",
+        "abstract": "Migraine is a common, disabling condition and a burden for the individual, health services, and society. Many sufferers choose not to, or are unable to, seek professional help and rely on over-the-counter analgesics. Naproxen is a non-steroidal anti-inflammatory drug (NSAID); its efficacy in acute migraine has not been established by systematic reviews. Co-therapy with an antiemetic should help to reduce the nausea and vomiting commonly associated with migraine headaches.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2013",
+        "authors": [
+          "Law Simon",
+          "Derry Sheena",
+          "Moore R Andrew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antiemetics",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Migraine Disorders",
+          "Naproxen",
+          "Nausea",
+          "Piperidines",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24142263/"
+      },
+      {
+        "pmid": "10487510",
+        "title": "Migraine in pregnancy.",
+        "abstract": "Migraine does not increase the risk for complications of pregnancy for the mother or for the fetus: the incidences of toxemia, miscarriages, abnormal labour, congenital anomalies, and stillbirths are comparable to those of the general population. Several retrospective studies have shown a tendency for migraine to improve with pregnancy. Between 60 and 70% of women either go into remission or improve significantly, mainly during the second and third trimesters. Women with migraine onset at menarche and those with perimenstrual migraine are more likely to go into remission during pregnancy. The migraine type does not seem to be a significant prognostic factor for improvement. However, in the small number of women (4-8%) whose migraines worsen with pregnancy, migraine with aura appears to be overrepresented. In a small number of cases (1.3-16.5%), migraine appears to start with pregnancy, often in the first trimester; these headaches involve a higher proportion of migraine with aura. Mana",
+        "journal": "Neurology",
+        "year": "1999",
+        "authors": [
+          "Aubé M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Migraine Disorders",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10487510/"
+      },
+      {
+        "pmid": "37266987",
+        "title": "Drugs for migraine.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2023",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Migraine Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37266987/"
+      },
+      {
+        "pmid": "26628293",
+        "title": "Sumatriptan/Naproxen Sodium: A Review in Migraine.",
+        "abstract": "Sumatriptan/naproxen sodium (Treximet®) is a fixed-dose combination of a serotonin 5-HT1B/1D receptor agonist (sumatriptan) and an NSAID (naproxen sodium), approved in the USA for the acute treatment of migraine with or without aura in adolescents and adults. In a randomized, phase 3 trial in adolescents, significantly more sumatriptan/naproxen sodium than placebo recipients were pain-free at 2 h. Similarly, in a pair of randomized phase 3 trials in adults, significantly more sumatriptan/naproxen sodium than placebo recipients had relief from migraine symptoms at 2 h, and the combination was more effective than individual components in terms of sustained (2-24 h) pain-free response rate. Sumatriptan/naproxen sodium was generally well tolerated, with ≤11 % of adolescents and ≤22 % of adults reporting treatment-related adverse events in the key clinical trials. The most common adverse reactions were nasopharyngitis, hot flushes and muscle tightness in adolescents, and dizziness, pain or ",
+        "journal": "Drugs",
+        "year": "2016",
+        "authors": [
+          "Syed Yahiya Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Drug Combinations",
+          "Humans",
+          "Migraine Disorders",
+          "Naproxen",
+          "Sumatriptan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26628293/"
+      },
+      {
+        "pmid": "16201993",
+        "title": "Rearranging receptors.",
+        "abstract": "The immature brain is highly susceptible to seizures. The heightened susceptibility to seizures appears to be due, at least in part, to developmental changes that skew the balance between excitatory and inhibitory neurotransmitter systems in the brain in favor of a state of excitation. Multiple factors, including changes in GABAergic and glutaminergic receptor composition, number, and distribution, all contribute to produce the characteristic limbic hyperexcitability seen during the early postnatal period. Infants and young children who experience prolonged or repetitive seizures have an increased risk of subsequently developing epilepsy. Evidence to date suggests that status epilepticus produces permanent changes in the molecular and cellular structure of limbic circuitry that, in turn, result in a long-lasting increase in hippocampal excitability and lower seizure thresholds in later life.",
+        "journal": "Epilepsia",
+        "year": "2005",
+        "authors": [
+          "Brooks-Kayal Amy R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brain",
+          "Cerebellum",
+          "Child, Preschool",
+          "Disease Models, Animal",
+          "Disease Susceptibility",
+          "Epilepsy",
+          "Excitatory Amino Acids",
+          "Glutamates",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16201993/"
+      },
+      {
+        "pmid": "28129702",
+        "title": "Triptans and migraine: advances in use, administration, formulation, and development.",
+        "abstract": "Recent triptan development has focused on new administration methods and formulations, triptan combination therapies, treatment in menstrually related migraines, and novel serotonin receptor subtype agonists (5HTf). Areas covered: Clinical triptan research related to migraine was reviewed, analyzing EMBASE and PUBMED data bases from 01/01/2011 to 06/29/2016, with a focus on clinical trials of class 1 or 2 level of evidence. There have been advances in drug combination therapies, as well as administration devices that aid in ease of use, increase efficacy, and decrease adverse reactions. Some new agents and devices have similar or less efficacy compared to previous generic triptan formulations. New agents have action at the 5HTf receptor subtype, and avoid vascular side effects of classic 5Ht1b/d agonists, however adverse reactions may limit their clinic use. Long half-life triptans, frovatriptan and naratriptan, do appear to have good benefit in menstral related migraine. Expert opinio",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2017",
+        "authors": [
+          "Macone Amanda E",
+          "Perloff Michael D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbazoles",
+          "Humans",
+          "Migraine Disorders",
+          "Piperidines",
+          "Serotonin 5-HT1 Receptor Agonists",
+          "Serotonin Receptor Agonists",
+          "Tryptamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28129702/"
+      },
+      {
+        "pmid": "34209535",
+        "title": "Neuroinflammation: A Signature or a Cause of Epilepsy?",
+        "abstract": "Epilepsy can be both a primary pathology and a secondary effect of many neurological conditions. Many papers show that neuroinflammation is a product of epilepsy, and that in pathological conditions characterized by neuroinflammation, there is a higher probability to develop epilepsy. However, the bidirectional mechanism of the reciprocal interaction between epilepsy and neuroinflammation remains to be fully understood. Here, we attempt to explore and discuss the relationship between epilepsy and inflammation in some paradigmatic neurological and systemic disorders associated with epilepsy. In particular, we have chosen one representative form of epilepsy for each one of its actual known etiologies. A better understanding of the mechanistic link between neuroinflammation and epilepsy would be important to improve subject-based therapies, both for prophylaxis and for the treatment of epilepsy.",
+        "journal": "International journal of molecular sciences",
+        "year": "2021",
+        "authors": [
+          "Pracucci Enrico",
+          "Pillai Vinoshene",
+          "Lamers Didi",
+          "Parra Riccardo",
+          "Landi Silvia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biomarkers",
+          "Brain Neoplasms",
+          "Combined Modality Therapy",
+          "Disease Management",
+          "Disease Susceptibility",
+          "Epilepsy",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34209535/"
+      },
+      {
+        "pmid": "19935934",
+        "title": "[Psychogenic non-epileptic seizures].",
+        "abstract": "Psychogenic non-epileptic seizure is the term used for epilepsy-like seizures assumed to have psychological causes. Many patients with such seizures are misdiagnosed with epilepsy, and are consequently treated with antiepileptic drugs for many years. Assessment of a thorough medical history and ictal EEG-recordings will lead to the right diagnosis in most cases. The article provides an overview of this condition, which often represents large diagnostic and therapeutic challenges and is the most frequent differential diagnosis in epilepsy.",
+        "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+        "year": "2009",
+        "authors": [
+          "Lund Caroline",
+          "Haraldsen Ira",
+          "Lossius Morten I",
+          "Bjørnaes Helge",
+          "Lossius Rasmus"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adaptation, Psychological",
+          "Anticonvulsants",
+          "Diagnosis, Differential",
+          "Disease Susceptibility",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Male",
+          "Mental Disorders",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19935934/"
+      },
+      {
+        "pmid": "37209053",
+        "title": "The Efficacy of Different Triptans for the Treatment of Acute Headache in Pediatric Migraine: A Systematic Review.",
+        "abstract": "Serotonin receptors 5-HT1B and 5-HT1D in the cerebral arteries are activated by the 5-hydroxytryptophan agonists (triptans) to relieve the discomfort associated with migraines. Even though triptans are often used to treat acute migraines, there is some debate over their effectiveness.",
+        "journal": "Indian pediatrics",
+        "year": "2023",
+        "authors": [
+          "Chanchlani Roshan",
+          "Agrawal Amit",
+          "Janjua Dalwinder",
+          "Hafsa Shaik Nida"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Humans",
+          "Child",
+          "Sumatriptan",
+          "Naproxen",
+          "Tryptamines",
+          "Migraine Disorders",
+          "Headache",
+          "Oxazolidinones",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37209053/"
+      },
+      {
+        "pmid": "28086980",
+        "title": "Inflammation in epileptogenesis after traumatic brain injury.",
+        "abstract": "Epilepsy is a common and debilitating consequence of traumatic brain injury (TBI). Seizures contribute to progressive neurodegeneration and poor functional and psychosocial outcomes for TBI survivors, and epilepsy after TBI is often resistant to existing anti-epileptic drugs. The development of post-traumatic epilepsy (PTE) occurs in a complex neurobiological environment characterized by ongoing TBI-induced secondary injury processes. Neuroinflammation is an important secondary injury process, though how it contributes to epileptogenesis, and the development of chronic, spontaneous seizure activity, remains poorly understood. A mechanistic understanding of how inflammation contributes to the development of epilepsy (epileptogenesis) after TBI is important to facilitate the identification of novel therapeutic strategies to reduce or prevent seizures. BODY: We reviewed previous clinical and pre-clinical data to evaluate the hypothesis that inflammation contributes to seizures and epileps",
+        "journal": "Journal of neuroinflammation",
+        "year": "2017",
+        "authors": [
+          "Webster Kyria M",
+          "Sun Mujun",
+          "Crack Peter",
+          "O'Brien Terence J",
+          "Shultz Sandy R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brain Injuries, Traumatic",
+          "Disease Susceptibility",
+          "Epilepsy",
+          "Humans",
+          "Inflammation",
+          "Seizures",
+          "Signal Transduction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28086980/"
+      },
+      {
+        "pmid": "28837072",
+        "title": "Understanding the Epilepsy in POLG Related Disease.",
+        "abstract": "Epilepsy is common in polymerase gamma (POLG) related disease and is associated with high morbidity and mortality. Epileptiform discharges typically affect the occipital regions initially and focal seizures, commonly evolving to bilateral convulsive seizures which are the most common seizure types in both adults and children. Our work has shown that mtDNA depletion-i.e., the quantitative loss of mtDNA-in neurones is the earliest and most important factor of the subsequent development of cellular dysfunction. Loss of mtDNA leads to loss of mitochondrial respiratory chain (MRC) components that, in turn, progressively disables energy metabolism. This critically balanced neuronal energy metabolism leads to both a chronic and continuous attrition (i.e., neurodegeneration) and it leaves the neurone unable to cope with increased demand that can trigger a potentially catastrophic cycle that results in acute focal necrosis. We believe that it is the onset of epilepsy that triggers the cascade o",
+        "journal": "International journal of molecular sciences",
+        "year": "2017",
+        "authors": [
+          "Hikmat Omar",
+          "Eichele Tom",
+          "Tzoulis Charalampos",
+          "Bindoff Laurence A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cerebral Cortex",
+          "DNA Polymerase gamma",
+          "Disease Susceptibility",
+          "Electroencephalography",
+          "Epilepsy",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Neurons"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28837072/"
+      },
+      {
+        "pmid": "23294289",
+        "title": "Evidence for a shared genetic susceptibility to migraine and epilepsy.",
+        "abstract": "Although epilepsy and migraine are known to co-occur within individuals, the contribution of a shared genetic susceptibility to this comorbidity remains unclear. We investigated the hypothesis of shared genetic effects on migraine and epilepsy in the Epilepsy Phenome/Genome Project (EPGP) cohort.",
+        "journal": "Epilepsia",
+        "year": "2013",
+        "authors": [
+          "Winawer Melodie R",
+          "Connors Robert"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "DNA",
+          "Data Collection",
+          "Electroencephalography",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23294289/"
+      },
+      {
+        "pmid": "24643875",
+        "title": "Does abnormal glycogen structure contribute to increased susceptibility to seizures in epilepsy?",
+        "abstract": "Epilepsy is a family of brain disorders with a largely unknown etiology and high percentage of pharmacoresistance. The clinical manifestations of epilepsy are seizures, which originate from aberrant neuronal synchronization and hyperexcitability. Reactive astrocytosis, a hallmark of the epileptic tissue, develops into loss-of-function of glutamine synthetase, impairment of glutamate-glutamine cycle and increase in extracellular and astrocytic glutamate concentration. Here, we argue that chronically elevated intracellular glutamate level in astrocytes is instrumental to alterations in the metabolism of glycogen and leads to the synthesis of polyglucosans. Unaccessibility of glycogen-degrading enzymes to these insoluble molecules compromises the glycogenolysis-dependent reuptake of extracellular K(+) by astrocytes, thereby leading to increased extracellular K(+) and associated membrane depolarization. Based on current knowledge, we propose that the deterioration in structural homogeneity",
+        "journal": "Metabolic brain disease",
+        "year": "2015",
+        "authors": [
+          "DiNuzzo Mauro",
+          "Mangia Silvia",
+          "Maraviglia Bruno",
+          "Giove Federico"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Astrocytes",
+          "Convulsants",
+          "Disease Susceptibility",
+          "Epilepsy",
+          "Gliosis",
+          "Glucans",
+          "Glutamate-Ammonia Ligase",
+          "Glutamates",
+          "Glutamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24643875/"
+      },
+      {
+        "pmid": "24874544",
+        "title": "Does gender influence susceptibility and consequences of acquired epilepsies?",
+        "abstract": "Gender differences in the incidence and clinical course of acquired and \"cryptogenic\" epilepsy are reviewed based on a literature search. We emphasized incidence and population-based studies because they are best suited to assess the effect of gender on susceptibility and clinical evolution of these epilepsies and may control for potential confounding factors. However, such studies were only available for a few acquired etiologies. These included tumor, prenatal and perinatal brain insults, cerebrovascular disease, infection, trauma, neurodegenerative disease, and autoimmune disorders. None of these acquired causes has been consistently shown to affect women or men to a greater or lesser degree, although some of the literature is contradictory or inadequate. There is almost no literature that addresses the effect of gender on the clinical course of epilepsy associated with these acquired causes. In addition, most studies of acquired causes do not take into account the incidence of the ",
+        "journal": "Neurobiology of disease",
+        "year": "2014",
+        "authors": [
+          "Perucca Piero",
+          "Camfield Peter",
+          "Camfield Carol"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Brain Injuries",
+          "Brain Neoplasms",
+          "Disease Susceptibility",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Male",
+          "Sex Characteristics",
+          "Stroke"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24874544/"
+      },
+      {
+        "pmid": "23759429",
+        "title": "Managing migraine and other headache syndromes in those over 50.",
+        "abstract": "Migraine in an older person may appear with sensory or motor phenomena (\"late-life migraine accompaniments\"), so that it may be confused with transient ischemic attack or stroke. An older patient may have cervicogenic headache in addition to migraine. Medication overuse headache is just as much of a problem in older patients as it is in younger ones. Abdominal migraine without headache can be seen in older adults as a migraine equivalent, just as it can occur in children. The most effective drugs for migraine prophylaxis in young people (divalproex, topiramate, metoprolol and propranolol) are similarly effective for those who are over the age of 50. Oral rescue drugs, including naproxen and hydroxyzine, are also useful in older adults. We need to remind older adults about the dangers of excessive use of caffeine in coffee, tea and energy drinks, since these substances can lead to daily HA and migraine equivalents.",
+        "journal": "Maturitas",
+        "year": "2013",
+        "authors": [
+          "Dees Brett",
+          "Coleman-Jackson Rhonda",
+          "Hershey Linda A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Headache Disorders",
+          "Humans",
+          "Hydroxyzine",
+          "Middle Aged",
+          "Migraine Disorders",
+          "Naproxen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23759429/"
+      },
+      {
+        "pmid": "15555160",
+        "title": "Migraine headache.",
+        "abstract": "",
+        "journal": "Clinical evidence",
+        "year": "2003",
+        "authors": [
+          "Morillo Luis E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Analgesics, Non-Narcotic",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Child",
+          "Diclofenac",
+          "Drug Therapy, Combination",
+          "Ergotamine",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15555160/"
+      },
+      {
+        "pmid": "36442376",
+        "title": "Epileptic diathesis: An EEG-LORETA study.",
+        "abstract": "Epileptic diathesis is an inherited neurophysiological trait that contributes to the development of all types of epilepsy. The amount of resting-state electroencephalography (EEG) theta activity is proportional to the degree of cortical excitability and epileptic diathesis. Our aim was to explore the amount and topographic distribution of theta activity in epilepsy groups. We hypothesized that the anatomical distribution of increased theta activity is independent of the epilepsy type.",
+        "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+        "year": "2023",
+        "authors": [
+          "Clemens Béla",
+          "Emri Miklós",
+          "Fekete István",
+          "Fekete Klára"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Cerebral Cortex",
+          "Disease Susceptibility",
+          "Epilepsy, Generalized",
+          "Electroencephalography",
+          "Immunoglobulin E"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36442376/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:08:35.002574",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Decitabine",
+    "disease": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+    "query_string": "Decitabine AND acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor"
+  },
+  "data": {
+    "query": "Decitabine AND acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:14:24.970930",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,924 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "duodenal ulcer"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00557921",
+      "title": "A Randomized, Double-Blind, Double-Dummy, Parallel Group, Phase 3 Efficacy and Safety Study of CGT-2168 Compared With Clopidogrel to Reduce Upper Gastrointestinal Events Including Bleeding and Symptomatic Ulcer Disease",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-12",
+      "completion_date": "2009-11",
+      "country": "Bulgaria, France, Chile, Czechia, Mexico, Puerto Rico, Italy, Hungary, Slovakia, Germany, Australia, Ukraine, Romania, Poland, Canada, United States",
+      "enrollment": 5000,
+      "brief_summary": "The purpose of the COGENT-1 clinical trial is to determine whether CGT-2168 (clopidogrel and omeprazole) compared to clopidogrel is safe and effective in reducing the incidence of gastrointestinal bleeding and symptomatic ulcer disease, in the setting of concomitant aspirin therapy.\n\nAntiplatelet therapy is an essential element of care for patients with atherothrombotic disease. Bleeding is a fundamental adverse effect of all antiplatelet drugs including aspirin, clopidogrel and dual antiplatele",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients in whom a requirement for clopidogrel therapy with concomitant aspirin is anticipated for at least the next 12 months. Specific conditions that may confer a need for long-term clopidogrel + aspirin therapy may include non-ST segment elevation acute coronary syndrome (",
+      "endpoints": [
+        "Composite of upper gastrointestinal clinical events, including gastroduodenal bleeding, symptomatic gastroduodenal ulcer, persistent pain with multiple gastric erosions, obstruction or perforation"
+      ],
+      "sponsor": "Cogentus Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00557921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01822600",
+      "title": "The Therapeutic Role of Albumin Supply on Peptic Ulcer Bleeding and the Correlation Between Clinical Course and Expression of Serum Response Factor on Ulcer Tissue and Superoxide Free Radical in Blood",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2011-08",
+      "country": "Taiwan",
+      "enrollment": 91,
+      "brief_summary": "To test whether intravenous albumin can decrease the rebleeding rate or shorten the duration of hospitalization in patients with peptic ulcer bleeding and hypoalbuminemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical presentations of melena, hematochezia, or hematemesis\n* Gastroscopy confirmed peptic ulcers and major stigmata of recent hemorrhage\n* A Rockal score ≥ 6\n\nExclusion Criteria:\n\n* Gastric or esophageal, or duodenal tumor bleeding\n* Ulcer due to mechanical factors\n* Warfa",
+      "endpoints": [
+        "peptic ulcer rebleeding"
+      ],
+      "sponsor": "National Cheng-Kung University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01822600"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03562026",
+      "title": "Specific Clinical Experience Investigation of Nexium in Paediatric Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-06-28",
+      "completion_date": "2020-11-05",
+      "country": "Japan",
+      "enrollment": 240,
+      "brief_summary": "To capture safety and efficacy when Nexium are administered to pediatric patients in clinical practice after launch",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 1(inclusive) to 15 (exclusive) years\n* Patients who have been prescribed Nexium for the first time for \"gastric ulcer\", \"duodenal ulcer\", \"anastomotic ulcer\", \"reflux oesophagitis\", \"non-erosive reflux disease\", or \"Zollinger-Ellison syndrome\", .\n\nExclusion Crite",
+      "endpoints": [
+        "frequency of adverse drug reactions (ADRs)",
+        "rate of improvement/worsening of symptoms"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT03562026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01015729",
+      "title": "An Open-Label, Randomized, Single-Center, 3-Way Crossover Study Comparing The Therapeutic Efficacy of a Fixed Dose Combination Capsule of Esomeprazole 20 mg And Acetylsalicylic Acid (ASA) 81 mg With Free Combinations of ASA Tablet 81 mg And Esomeprazole 20 mg as a Capsule or Tablet in Patients At Risk of Gastrointestinal Events Using Low Dose ASA for Cardiovascular Protection",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2009-11",
+      "completion_date": "2010-03",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to investigate whether a fixed dose combination (FDC) capsule of esomeprazole 20 mg and acetylsalicylic acid (ASA) 81 mg has equivalent therapeutic efficacy compared to each of 2 free combinations of ASA tablet 81 mg plus esomeprazole 20 mg in patients at risk of gastrointestinal events using low dose ASA for cardiovascular protection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-smoking male and female subjects, aged 18 years or older with a documented history of uncomplicated peptic ulcer(s), or aged 65 years or older\n* Body Mass Index (BMI = weight/height2) greater than or equal to 18.5 kg/m2 and less than or equal to 35.0 kg/m2\n\nExclusion Crite",
+      "endpoints": [
+        "Percentage of time that intragastric pH is maintained > 4.0 during the 24-hour recording period"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01015729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04028466",
+      "title": "Effectiveness of Vonoprazan vs Omeprazole as Empiric Therapy for Gastroesophageal Reflux Disease (GERD) Patients Without Alarm Features in a Primary Care Setting: A Pragmatic, Randomized, Single Blind Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2019-05-26",
+      "completion_date": "2020-03-30",
+      "country": "Philippines",
+      "enrollment": 82,
+      "brief_summary": "Gastroesophageal reflux disease is a commonly encountered disorder in daily practice. Proton pump inhibitor therapy has been the cornerstone of treatment for decades. Although it has been proven to be highly effective, there is still room for improvement. A local study showed that only 57.3% of subjects are asymptomatic after 4 weeks treatment with rabeprazole. Recently a new drug was developed with better absorption, higher bioavailability, more sustained increased pH in the stomach and more ta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All Adult patients with clinically diagnosed with Gastroesophageal Reflux Disease (GERD) without alarm features (heartburn and acid regurgitation)\n* Age more than 18 years at the time of written consent\n* Those who provide written consent with their own free will\n* Both treatm",
+      "endpoints": [
+        "Proportion of asymptomatic patients at Day 3",
+        "Proportion of asymptomatic patients at Day 7",
+        "Proportion of asymptomatic patients at Day 14"
+      ],
+      "sponsor": "St. Luke's Medical Center, Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT04028466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02689583",
+      "title": "A Multi-center Study for Individual Treatment of Helicobacter Pylori Infection",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2016-03",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 3000,
+      "brief_summary": "Since the discovery of Helicobacter pylori (H. pylori), many studies have been carried out with the goal of improving H. pylori eradication and therapies have changed from single-antibiotic treatments to the current multi-antibiotic treatments. However, the eradication rate of H. pylori is still less than 80%. The reasons for this low eradication rate are likely to be multi-factorial, including the reduced activity of antimicrobial drugs, poor patient compliance or micro-environment in stomach. ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18\\~70 years old, male or female, untreated patients.\n2. Symptoms of abdominal pain, bloating, acid reflux, belching, nausea, vomiting, heartburn, chest pain, vomiting, melena, etc.\n3. Unused antibiotics, bismuth, H2 receptor antagonists or PPI by nearly 4 weeks 4. 13C-la",
+      "endpoints": [
+        "Eradication rates",
+        "Mutation site of drug resistance gene",
+        "The distribution and proportion of microflora in stomach"
+      ],
+      "sponsor": "First Affiliated Hospital of Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT02689583"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01130935",
+      "title": "A National, Multicentre, Open-label, Non-comparative, Non-interventional Survey Examining the Frequency and Severity of Acid Related Symptoms While Taking Nexium",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2010-11",
+      "country": "Albania",
+      "enrollment": 491,
+      "brief_summary": "This study will assess the effectiveness of Nexium at alleviating upper GI symptoms in subjects and evaluate with which treatment regimen and on which indications acid suppression with isomeric proton pump inhibitor is used in routine clinical practice in Albania.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must have had upper GI symptoms requiring acid suppression treatment\n* Treatment with Nexium is in accordance with indications and dosing approved in Albania.\n* Start of treatment at least 2 weeks prior to enrollment to this study 5. Written informed consent is signed.",
+      "endpoints": [
+        "Frequency and severity of upper GI symptoms and the overall patient's discomfort during the last week.",
+        "Frequency and severity of upper GI symptoms and the overall patient's discomfort during the last week.",
+        "Frequency and severity of upper GI symptoms and the overall patient's discomfort during the last week."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01130935"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01397084",
+      "title": "An 8-week, Open Label, Multicentre Study to Assess the Efficacy of Esomeprazole 20 mg Once Daily in Subjects With Continuing Symptoms of Heartburn Following Treatment With a Previous Rabeprazole",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2012-01",
+      "country": "N/A",
+      "enrollment": 107,
+      "brief_summary": "Administration of esomeprazole 20 mg to subjects who still had heartburn after receiving rabeprazole 10 mg once daily for at least 4 weeks will result in statistically significant improvement of heartburn after 8-week treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male of female aged 20 years or more\n* History of reflux esophagitis\n* Ongoing (until date of Visit 1) treatment with rabeprazole 10 mg, given once daily, for at least 4 weeks.The subject must take rabeprazole at least 4 days a week in the past 7 days prior to Visit 1.\n* Persi",
+      "endpoints": [
+        "Change in the Frequency of Heartburn During the 7-day Period Prior to the 8 Week Visit (Visit 3) Compared to the Frequency of Heartburn During the 7-day Period Prior to Baseline (Visit 1)."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01397084"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05813561",
+      "title": "A Multicenter, Randomized, Double-Blind, Active-Parallel-Controlled, Phase 3 Clinical Study to Investigate the Efficacy and Safety of DWP14012 in the Treatment of Reflux Esophagitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-12-30",
+      "completion_date": "2023-02-17",
+      "country": "China",
+      "enrollment": 332,
+      "brief_summary": "To evaluate the efficacy, safety, and cost-effectiveness of DWP14012 40 mg compared to esomeprazole magnesium enteric-coated tablets for the treatment of reflux esophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must meet all of the following inclusion criteria to be eligible for this study:\n\n  1. Male or female subjects aged 18-75 years (inclusive);\n  2. Subjects with a confirmed diagnosis of reflux esophagitis (Grade A-D according to LA classification) by esophagogastroduod",
+      "endpoints": [
+        "mucosal healing within 8 weeks"
+      ],
+      "sponsor": "Daewoong Pharmaceutical Co. LTD.",
+      "url": "https://clinicaltrials.gov/study/NCT05813561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04678492",
+      "title": "Rescue Therapy for Helicobacter Pylori Eradication: A Randomized and Non-inferiority Trail of High-dose Esomeprazole and Amoxicillin Dual Therapy Versus Bismuth-containing Quadruple Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-12-20",
+      "completion_date": "2021-12-20",
+      "country": "China",
+      "enrollment": 658,
+      "brief_summary": "This study aims at evaluating efficacy and safety of high-dose esomeprazole and amoxicillin dual therapy(esomeprazole and amoxicillin) versus bismuth-containing quadruple Therapy(bismuth，esomeprazole，tetracycline and furazolidone) in H. pylori rescue therapy. It is hypothesized that high-dose esomeprazole and amoxicillin dual therapy is non-inferior to bismuth-containing quadruple Therapy. Patients with confirmed failure of H. pylori eradication will be randomized to one of the treatments descri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who had failed H.pylori eradication therapies before.\n2. Age between 18\\~70, both gender.\n3. Patients who had failed H.pylori eradication therapies during last 2 years and stop the eradication therapies for at least 3 months.\n4. Women are eligible if they are not pre",
+      "endpoints": [
+        "Helicobacter pylori eradication"
+      ],
+      "sponsor": "Xijing Hospital of Digestive Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT04678492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00325715",
+      "title": "AGN 201904 Versus Esomeprazole in the Prevention of Aspirin-induced Stomach or Upper Intestinal Damage in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2006-08",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "AGN 201904, a proton pump inhibitor, versus esomeprazole in the prevention of stomach or upper intestinal damage following administration of high-dose aspirin in healthy volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy Adult Volunteers who have provided written informed consent\n\nExclusion Criteria:\n\n* Volunteers with a history of upper gastrointestinal disease or who have a current diagnosis of upper gastrointestinal disease.\n* Female volunteers who pregnant, nursing, or planning a p",
+      "endpoints": [
+        "Stomach or upper intestinal erosions"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00325715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01142245",
+      "title": "Phase 3 Study of Effect of Intravenous and Oral Esomeprazole in Prevention of Recurrent Bleeding From Peptic Ulcers After Endoscopic Therapy (IOE Study)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2014-07",
+      "country": "China",
+      "enrollment": 263,
+      "brief_summary": "The investigators previously showed that the use of a high-dose intravenous PPI regimen after endoscopic control of bleeding from peptic ulcers reduced rate of recurrent bleeding, decreased the need for endoscopic and surgical interventions and in general improved patients' outcomes. A trend towards reduced mortality associated with the use of high-dose intravenous PPI was also observed. Recent clinical trials from Asia have provided evidence that high-dose oral PPIs are associated with a reduct",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18\n* Confirmed ulcer bleeding with Forrest Ia, Ib, IIa, IIb\n* Endoscopic hemostasis achieved\n* Informed consent obtained\n\nExclusion Criteria:\n\n* No consent\n* Forrest II c, III (clear ulcer base/flat spot and no active bleeding, i.e., minimal risk for rebleeding)\n* Unsucc",
+      "endpoints": [
+        "Rate of clinical rebleeding within 30 day of endoscopic therapy"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01142245"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00633672",
+      "title": "A Comparative Efficacy and Safety Study of Nexium Delayed-Release Capsules (40mg qd and 20mg qd) Versus Ranitidine 150mg Bid for the Healing of NSAID-Associated Gastric Ulcers When Daily NSAID Use is Continued",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-02",
+      "completion_date": "2003-10",
+      "country": "N/A",
+      "enrollment": 400,
+      "brief_summary": "Nonsteroidal anti-inflammatory drugs (NSAIDS) are often associated with gastric ulcers. This study looks at the treatment of these gastric ulcers with one of the three following treatment groups: esomeprazole 40 mg once daily; esomeprazole 20 mg once daily; or ranitidine 150 mg twice daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A clinical diagnosis of a chronic condition (eg osteoarthritis or rheumatoid arthritis) that requires daily NSAID treatment for at least 2 months.\n2. Other key inclusion criteria, as specified in the protocol.\n\nExclusion Criteria:\n\n1. History of esophageal, gastric or duodena",
+      "endpoints": [
+        "To assess the safety and efficacy of esomeprazole 40 mg qd versus ranitidine 150 mg bid through 8 weeks of treatment for the healing of gastric ulcers in patients receiving daily NSAID therapy. Healing is defined as the absence of gastric ulcers."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00633672"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00953381",
+      "title": "Efficacy and Safety of Ilaprazole for Acute Duodenal Ulcer: A Randomized,Double-Blind,Omeprazole-Controlled,Multicenter,and Phase2 Trial in China",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-05",
+      "country": "China",
+      "enrollment": 235,
+      "brief_summary": "Patients with endoscopically diagnosed active duodenal ulcer disease were enrolled in a randomized, double-blind, parallel and dose-ranging trial. They were randomly assigned into four groups to be treated for up to four weeks and be seen at week 1, 2 and 4: three of ilaprazole, 5, 10, and 20 mg/day, and one of omeprazole 20 mg/day as positive control. The primary endpoint was the ulcer healing rate at week 4. Healing of ulcer was determined by its resolution from active to scarring stage. Sympt",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consenting patients were eligible for enrollment if they:\n\n  1. were 18-65 years of age,\n  2. had endoscopically diagnosed active duodenal ulcers within the previous 72 hours,\n  3. the number of ulcers was at least one, but no more than two with the larger diameter 0.3-2.0cm.\n",
+      "endpoints": [
+        "The primary endpoint was the healing rate of ulcers, which based on post-treatment (week 4) endoscopic changes in stage of the ulcer relative to baseline (week 0) levels."
+      ],
+      "sponsor": "Livzon Pharmaceutical Group Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00953381"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00961350",
+      "title": "A 6-Month, Phase 3, Randomized, Double-Blind, Parallel-Group, Controlled, Multi-Center Study to Evaluate the Incidence of Gastric Ulcers Following Administration of Either PA32540 or Enteric Coated Aspirin 325 mg in Subjects Who Are at Risk for Developing Aspirin-Associated Ulcers",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 530,
+      "brief_summary": "Primary: To demonstrate that PA32540 causes fewer gastric ulcers in subjects at risk for developing aspirin-associated gastric ulcers compared to enteric coated (EC) aspirin 325 mg.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. A. Male or non-pregnant, non-breastfeeding females who have been on daily aspirin 325 mg for at least three months and who are expected to use daily aspirin 325 mg for at least six months (Daily is defined as \"at least 5 days per week\"):\n\n   AND, who are\n   * 55 years of age ",
+      "endpoints": [
+        "Number of Participants With Gastric Ulcer Confirmed by Endoscopy(EC) Aspirin 325 mg"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00961350"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01199328",
+      "title": "A Phase I, Open, Two-way Crossover, Drug-drug Interaction Study Evaluating the Effect of Esomeprazole on the Pharmacodynamics of Acetylsalicylic Acid After 5 Days of Treatment",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of this study is to assess the interaction between aspirin and Nexium in healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision informed consent prior to any study specific procedures.\n* Healthy male and female subjects aged 18 to 75 years with suitable veins for cannulation or repeated vein puncture.\n* Healthy female subjects must be of non-childbearing potential (post-menopausal, had a hyst",
+      "endpoints": [
+        "Evaluate the effect of esomeprazole on low-dose aspirin pharmacodynamics by assessing the relative change in the VerifyNow Aspirin test after 5 days of treatment, relative to baseline (Day 1) in healthy human volunteers"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01199328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00998075",
+      "title": "A Phase I, Open-Label, Randomized, Single-Centre, 3-Way Crossover Bioequivalence Study Comparing a Fixed Dose Combination Capsule of Esomeprazole 40 mg and Acetylsalicylic Acid 325 mg With Free Combinations of Esomeprazole Capsule 40 mg and Acetylsalicylic Acid Tablet 325 mg and Esomeprazole Tablet",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2009-12",
+      "country": "Canada",
+      "enrollment": 138,
+      "brief_summary": "The purpose of this study is to investigate whether treatment with a combination capsule of Esomeprazole 40 mg and Aspirin (ASA) 325 mg is bioequivalent (i.e.has the same effect within the body) as these medications taken separately. Two different forms of esomeprazole (tablets and capsules) will be investigated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-smoking male or female within the age range of 20 to 50 years\n* Body Mass Index (BMI = weight/height2) greater than or equal to 18.5 kg/m2 and less than or equal to 29.9 kg/m2\n\nExclusion Criteria:\n\n* Documented upper gastrointestinal surgery\n* Use of any proton pump inhibi",
+      "endpoints": [
+        "Plasma concentration-time curve from time 0 to the last quantifiable concentration for esomeprazole administered as fixed dose combination (FDC) to esomeprazole administered as free combinations"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00998075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00971581",
+      "title": "Safety, Tolerability and Efficacy of FDC Ketoprofen + Omeprazole in Patients With Rheumatological Conditions With History or Who Are at Risk of Developing NSAID Associated Benign Gastric Ulcers, Duodenal Ulcers and Gastroduodenal Erosions",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2010-05",
+      "country": "Mexico",
+      "enrollment": 52,
+      "brief_summary": "Primary Objective:\n\nTo confirm the safety and tolerability of the fixed dose combination of a Non-Steroidal Anti-Inflammatory Drug (NSAID), ketoprofen, associated to a Proton Pump Inhibitor (PPI), omeprazole, in Mexican patients.\n\nSecondary Objective:\n\nTo confirm the efficacy of the combination:\n\n* Relief of pain (Visual Analyzed Score (VAS))\n* Patients global assessment of disease activity, scored as a scale of 1 (no limitation of normal activities) to 5 (inability to carried out all normal act",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Adults suffering from chronic inflammatory conditions, in particular, rheumatoid polyarthritis, ankylosing spondylitis (or related syndromes, such as, Reiters syndrome, psoriatic arthritis,) with a previous history or who are at risk of developing NSAID associated benign gastr",
+      "endpoints": [
+        "To confirm the efficacy of the combination",
+        "Incidence of dyspeptic symptoms: epigastric pain, dyspepsia, nausea"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00971581"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01150162",
+      "title": "A Prospective Randomized, Multi-center Study to Assess the Safety and Efficacy of Mucosta (Rebamipide), in Combination With Omeprazole as Adjuvant Therapy in Gastric Ulcer Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2012-08",
+      "country": "Pakistan",
+      "enrollment": 129,
+      "brief_summary": "A Prospective Randomized, Multi-center study to assess the Safety and Efficacy of Mucosta (Rebamipide), in combination with Omeprazole as adjuvant therapy in Gastric Ulcer Patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with dyspepsia or epigastric pain and endoscopically proven gastric and duodenal ulcers\n* Required laboratory parameters and time limits (screening blood tests will be taken including hemoglobin, white blood cell count, random glucose, potassium, sodium, chlorine, cre",
+      "endpoints": [
+        "Healing rates for gastric ulcer patients via endoscopic examination",
+        "Improvement or absence of gastric ulcer associated symptoms"
+      ],
+      "sponsor": "Otsuka Pakistan Limited",
+      "url": "https://clinicaltrials.gov/study/NCT01150162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00595517",
+      "title": "A Long Term Study to Investigate the Efficacy and Safety Study of D961H (Esomeprazole) (20 mg Once Daily) for the Prevention of Gastric and/or Duodenal Ulcers Associated With Daily Nonsteroidal Anti-inflammatory Drug (NSAID) Use",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2009-09",
+      "country": "Japan",
+      "enrollment": 395,
+      "brief_summary": "The purpose of this study is to assess the Safety and tolerability of D961H (Esomeprazole) 20 mg once daily for up to 52 weeks of treatment involving patients with a history of gastric and/or duodenal ulcers receiving daily nonsteroidal anti-inflammatory drug (NSAID) therapy by evaluating AE, clinical laboratory value and vital signs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Medical history of gastric and/or duodenal ulcer\n* A diagnosis of a chronic condition (rheumatoid arthritis, osteoarthritis, lumbago,etc) that requires daily NSAID use,at least 20 years of age\n\nExclusion Criteria:\n\n* Having gastric or duodenal ulcer in active or healing stage ",
+      "endpoints": [
+        "Number of Participants Without Gastric and/or Duodenal Ulcer Throughout the Treatment Period"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00595517"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01138969",
+      "title": "Efficacy of Proton Pump Inhibitor in Prevention of Clopidogrel-related Peptic Ulcer and Gastrointestinal Bleeding",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2012-12",
+      "country": "Taiwan",
+      "enrollment": 165,
+      "brief_summary": "Proton Pump Inhibitors (PPI) can prevent the recurrence of peptic ulcer in clopidogrel users.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* We plan to enroll 300 clopidogrel users without baseline gastroduodenal ulcer at initial endoscopy. The patients will be randomly assigned to receive either (1) esomeprazole (20 mg qd) plus clopidogrel or (2) clopidogrel treatment alone for 6 months.\n\nExclusion Criteria:\n\n* 1.",
+      "endpoints": [
+        "Recurrent Peptic Ulcer"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT01138969"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00471029",
+      "title": "Compare Gastric Acid Suppression of Esomeprazole by Oral or Intravenous Administration - A Randomized Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2005-09",
+      "completion_date": "2007-09",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to compare the gastric acid suppression profile among different regimen (Oral Vs Intravenous)of administration of proton pump inhibitor - Esomeprazole by 24hours intragastric pH monitoring.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with non-bleeding peptic ulcer which do not require endoscopic therapy.\n2. Chinese, Age ³18 and \\<90\n3. Provision of an informed written consent signed by the patient.\n\nExclusion Criteria:\n\n1. Treatment of antisecretory drugs during the preceding 4 weeks\n2. The prese",
+      "endpoints": [
+        "percentage of time intragstric pH > 6 and > 4"
+      ],
+      "sponsor": "Pamela Youde Nethersole Eastern Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00471029"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07312721",
+      "title": "Comparative Effectiveness of Triple Versus Quadruple Therapy in the Treatment of Helicobacter Pylori Induced Gastritis: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2024-01-05",
+      "completion_date": "2024-12-30",
+      "country": "Pakistan",
+      "enrollment": 752,
+      "brief_summary": "This randomized controlled trial is designed to compare the efficacy of standard triple therapy versus bismuth-based quadruple therapy for the eradication of Helicobacter pylori-induced gastritis. The study is being conducted at Shahida Islam Medical College, Lodhran, Pakistan. Adult patients with confirmed H. pylori infection are randomly allocated to receive either a 14-day triple therapy regimen or a 14-day bismuth-based quadruple therapy regimen. Eradication of H. pylori is assessed six week",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged 18-65 years.\n\nConfirmed Helicobacter pylori infection based on a positive stool antigen test.\n\nWilling and able to provide written informed consent.\n\nExclusion Criteria:\n\nHistory of allergy or hypersensitivity to any of the study drugs (omeprazole, amoxicillin, cla",
+      "endpoints": [
+        "Eradication of Helicobacter pylori infection six weeks post-treatment"
+      ],
+      "sponsor": "Shahida Islam Medical Complex",
+      "url": "https://clinicaltrials.gov/study/NCT07312721"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01130363",
+      "title": "Determination of a Possible Association of Fundic Gland Polyps With the Use of Proton Pump Inhibitor Drugs",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2006-10",
+      "completion_date": "2012-04",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "The class of proton pump inhibitor (PPI) medications such as omeprazole has proven extremely effective in the treatment and prevention of gastric and duodenal ulcers. Although the FDA approval for PPI therapy is limited to 6-8 weeks, many individuals remain on these agents for years, and human studies have suggested that long-term use of a PPI can result in enterochromaffin-like (ECL) cell hyperplasia, as well as being associated with the development of fundic-gland polyps of the stomach. These ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 and above.\n* Able and willing to sign informed consent.\n* The patient had a gastric fundic gland polyp detected on EGD that was removed and sent to pathology or patient had no fundic gland polyps on EGD but are on PPIs and will serve as controls.\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "Number of patients with fundic gland polyps and PPI use that have a higher gastric pH"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT01130363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00838682",
+      "title": "Effect of High-dose Oral Rabeprazole on Recurrent Bleeding After the Endoscopic Treatment of Bleeding Peptic Ulcers",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2006-04",
+      "completion_date": "2009-03",
+      "country": "South Korea",
+      "enrollment": 106,
+      "brief_summary": "This study is conducted to compare and evaluate the effect of administering a high-dose intravenous proton pump inhibitors or high-dose oral Rabeprazole in preventing recurrent bleeding after the endoscopic treatment of bleeding peptic ulcers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Bleeding peptic ulcer: Among patients suspected to have upper GI bleeding based on hematemesis or melena, those with peptic ulcers(Forrest I, IIa and IIb) in whom active bleeding, non-bleeding visible vessels and fresh blood clots are observed on upper GI endoscopy performed w",
+      "endpoints": [
+        "Rebleeding Within 3 Days"
+      ],
+      "sponsor": "The Catholic University of Korea",
+      "url": "https://clinicaltrials.gov/study/NCT00838682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00374101",
+      "title": "Proton Pump Inhibitors in Conjunction to Endoscopic Therapy for Bleeding Peptic Ulcers: a Randomized Clinical Trial of High vs Standard Doses",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2007-03",
+      "country": "Italy",
+      "enrollment": 450,
+      "brief_summary": "High intravenous dosage of Proton Pump Inhibitors is not better than standard dosage in bleeding peptic ulcers successfully treated by endoscopic therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consecutive patients admitted for upper gastrointestinal bleeding secondary to peptic ulcers that have been successfully treated with endoscopic therapy\n\nExclusion Criteria:\n\n* Variceal esophageal bleeding\n* Concurrent PPI use\n* Moribund patients",
+      "endpoints": [
+        "Rebleeding rates and surgical needs"
+      ],
+      "sponsor": "Casa Sollievo della Sofferenza IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT00374101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01599858",
+      "title": "YF476: Effects of Repeated Dosing at 2 Dose Levels on 24-hour Ambulatory Gastric pH Compared With Placebo and Omeprazole in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1996-08",
+      "completion_date": "1996-10",
+      "country": "United Kingdom",
+      "enrollment": 49,
+      "brief_summary": "The objectives of this study were:\n\nTo compare repeated doses of YF476 at 2 dose levels, placebo and omeprazole with respect to their effect on basal- and food- stimulated gastric pH in healthy volunteers.\n\nTo compare repeated doses of YF476 at 2 dose levels, placebo and omeprazole with respect to their effect on basal and meal stimulated pH.\n\nTo assess the safety, tolerability and pharmacokinetics of repeated doses of YF476 in healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 18-45 years.\n* No clinically relevant abnormal findings in the clinical history or physical examination at the screening assessment which could interfere with the objectives of the study or make the subject's participation hazardous.\n* No clinically relevan",
+      "endpoints": [
+        "Pharmacodynamic measurements: continuous 24h ambulatory gastric pH and 24 h plasma gastrin",
+        "Assessment of safety and tolerability",
+        "Pharmacokinetic analysis of plasma YF476 concentrations"
+      ],
+      "sponsor": "Trio Medicines Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01599858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06526455",
+      "title": "Efficacy and Safety of Vonorasan Versus Esomeprazole in the Treatment of Ulcers After Endoscopic Submucosal Dissection (ESD): a Multicentre, Parallel-design, Double-blind, Randomised Controlled Study",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-08-01",
+      "completion_date": "2029-06-30",
+      "country": "China",
+      "enrollment": 196,
+      "brief_summary": "The purpose of this clinical trial is to find out the effectiveness of voronasan in combination with aluminum phosphate gel in the treatment of post-operative ESD ulcers. It will also find out about the safety of vunorasan in combination with aluminum phosphate gel. The main questions it aims to answer are:\n\n1. Do vonorasan in combination with aluminum phosphate gel clinically effective in the treatment of post-operative ESD ulcers?\n2. What medical problems do participants have when taking drug ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets surgical indications for ESD\n* Age 18-70 years, regardless of gender\n* Normal coagulation\n* ESD Postoperative ulcers ≤3cm\n* Voluntary participation in the study\n\nExclusion Criteria:\n\n* Patients with severe complications or failure to achieve curative resection after gast",
+      "endpoints": [
+        "Rate of ulcer reduction"
+      ],
+      "sponsor": "Affiliated Hospital of Guangdong Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06526455"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02710994",
+      "title": "A Randomized, Open Label, Two-way Crossover Designed Clinical Trial to Investigate the Pharmacodynamics and the Safety Between Repeated Doses of CDFR0209 in Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2015-03",
+      "country": "South Korea",
+      "enrollment": 30,
+      "brief_summary": "This is a randomized, open-label, two-way crossover study to investigate the pharmacodynamics(24 hour gastric pH) and the safety between repeated doses of CDFR0209 and Losec in Healthy Male Volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male subjects aged 20 - 45 years\n* With in 20% of ideal body weight, {Ideal body weight=\\[height(cm)-100\\]\\*0.9}\n* Agreement with written informed consent\n\nExclusion Criteria:\n\n* Clinically significant cardiovascular, pulmonary, hepatic, renal, hematologic, gastrointes",
+      "endpoints": [
+        "Mean percent decrease from baseline in integrated gastric acidity after 7th dose"
+      ],
+      "sponsor": "Ajou University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02710994"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07399054",
+      "title": "Efficacy and Safety of Esomeprazole 40 mg IV in Post-Surgical Patients Admitted to the ICU (EPIC-ICU)",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-15",
+      "completion_date": "2027-02-28",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "Critically ill patients admitted to intensive care units (ICUs) are predisposed to upper gastrointestinal (GI) bleeding secondary to stress-related mucosal damage. The two most significant independent risk factors for stress ulceration and subsequent GI bleeding in this setting are mechanical ventilation and coagulopathy.1,2 Observational data indicate that proton pump inhibitors (PPIs) remain the most frequently employed prophylactic agents in the ICU.3\n\nComparative studies evaluating the effic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients aged 18-75 years admitted to an ICU post-surgery.\n* Non-esophagogastric post-surgical patients.\n* An anticipated ICU stay for at least 72 hours.\n* Willing to provide consent.\n\nExclusion Criteria:\n\n* Allergy to the study medications or excipients\n* Need for enter",
+      "endpoints": [
+        "Proportion of time intragastric pH ≥4 during the 72 hours post dosing"
+      ],
+      "sponsor": "Asian Institute of Gastroenterology, India",
+      "url": "https://clinicaltrials.gov/study/NCT07399054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05799105",
+      "title": "OPEN Versus InTact Capsule Proton Pump Inhibitors for the Treatment of Marginal Ulcers After Bariatric Surgery",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-03-14",
+      "completion_date": "2025-12-23",
+      "country": "United States",
+      "enrollment": 122,
+      "brief_summary": "The goal of this clinical trial is to identify the most effective way to take acid-blocking medications to treat stomach ulcers in patients who have undergone gastric bypass surgery. The main questions it aims to answer are:\n\n* is taking an acid-blocking medication by opening the capsule and only taking the contents of the capsule (open-capsule) more or less effective than taking the capsule as a whole (intact-capsule) for treating ulcers in patients who have a history of gastric bypass surgery?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects diagnosed with marginal ulceration post-gastric bypass on upper endoscopy\n\nExclusion Criteria:\n\n* Refusal to start PPI medication OR current open-capsule PPI use at the time of diagnosis of the marginal ulcer",
+      "endpoints": [
+        "Ulcer healing"
+      ],
+      "sponsor": "The Cleveland Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT05799105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00527904",
+      "title": "A 12-month, Phase 3, Open-label, Multi-center Study to Evaluate the Long-term Safety of PN400 in Subjects Who Are at Risk for Developing NSAID-associated Ulcers",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2009-03",
+      "country": "United States",
+      "enrollment": 239,
+      "brief_summary": "This study uses an open-label design and will be conducted in approximately 60 sites aiming to enroll a total number of 200 subjects to ensure that at least 100 subjects will have 12 months exposure to PN400 (VIMOVO).",
+      "eligibility_criteria": "Inclusion Criteria\n\nA subject was eligible for inclusion in this study if all of the following criteria applied:\n\n1. Male or non-pregnant female subjects with a history of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis or other medical conditions expected to require daily NSAID therapy",
+      "endpoints": [
+        "Number of Subjects Monitored for Long-term Safety of PN 400"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00527904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00952978",
+      "title": "Efficacy and Safety of Ilaprazole for Acute Duodenal Ulcer: A Randomized,Double-Blind,Omeprazole-Controlled,Multicenter,and Phase3 Trial in China",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2006-05",
+      "country": "China",
+      "enrollment": 496,
+      "brief_summary": "Patients with endoscopically diagnosed active duodenal ulcer disease were enrolled in a randomized, double-blind, parallel and positive-controlled trial. They were randomly assigned into two groups, 10 mg/day ilaprazole and 20 mg/day omeprazole, to be treated for up to four weeks and be seen at week 1, 2 and 4. The primary endpoint was the ulcer healing rate at week 4. Healing of ulcer was determined by its resolution from active to scarring stage. Symptoms relief was evaluated as secondary end ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consenting patients were eligible for enrollment if they:\n\n  1. were 18-65 years of age,\n  2. had endoscopically diagnosed active duodenal ulcers within the previous 72 hours and\n  3. the number of ulcers was at least one, but no more than two with the larger diameter 0.3-2.0c",
+      "endpoints": [
+        "The primary endpoint was the healing rate of ulcers, which based on post-treatment (week 4) endoscopic changes in stage of the ulcer relative to baseline (week 0) levels."
+      ],
+      "sponsor": "Livzon Pharmaceutical Group Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00952978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00634114",
+      "title": "A Multicentre, Randomised, Double-blind, Parallel-group, Comparative Study to Compare the Efficacy and Safety of Esomeprazole 20 mg Once Daily Oral Administration With Omeprazole 10 mg and Esomeprazole 10 mg Once Daily Oral Administration in Maintenance Treatment in Patients With Healed Reflux Esophagitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-05",
+      "country": "Japan",
+      "enrollment": 540,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of esomeprazole 20 mg once daily for 24 weeks on maintenance of Reflux Esophagitis in patients with healed reflux esophagitis in comparison with omeprazole 10 mg once daily and esomeprazole 10 mg once daily by assessment of presence/absence of recurrence of Reflux Esophagitis throughout the treatment period (from the randomisation to the treatment completion) according to the Los Angeles classification.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with healed Reflux Esophagitis verified by EGD in the preceding study (D961HC00002)\n* Patients with endoscopically verified healed Reflux Esophagitis by EGD receiving general treatment with PPI\n\nExclusion Criteria:\n\n* Gastric or duodenal ulcer verified by EGD within 1",
+      "endpoints": [
+        "Absence of Recurrence of Reflux Esophagitis According to Los Angeles Classification Throughout the Treatment Period."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00634114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00960869",
+      "title": "A 6-Month, Phase 3, Randomized, Double-Blind, Parallel-Group, Controlled, Multi-Center Study to Evaluate the Incidence of Gastric Ulcers Following Administration of Either PA32540 or Enteric Coated Aspirin 325 mg in Subjects Who Are at Risk for Developing Aspirin-Associated Ulcers",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 519,
+      "brief_summary": "Primary: To demonstrate that PA32540 causes fewer gastric ulcers in subjects at risk for developing aspirin-associated gastric ulcers compared to enteric coated (EC) aspirin 325 mg.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. A. Male or non-pregnant, non-breastfeeding females who have been on daily aspirin 325 mg for at least three months and who are expected to use daily aspirin 325 mg for at least six months (Daily is defined as \"at least 5 days per week\"):\n\n   AND, who are\n   * 55 years of age ",
+      "endpoints": [
+        "Number of Participants With Gastric Ulcer Confirmed by Endoscopy"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00960869"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00978159",
+      "title": "Esomeprazole or Famotidine in the Management of Aspirin Related Non-ulcer Dyspepsia - a Double Blind Randomized Control Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-09",
+      "completion_date": "2013-12",
+      "country": "China",
+      "enrollment": 128,
+      "brief_summary": "Aspirin can prevent ischemic vascular disease but is commonly complicated by dyspepsia in 30% of patients. Patients, who have aspirin related dyspepsia, commonly underwent upper endoscopy to exclude peptic ulcer disease or gastric cancers. For those without significant lesions in the stomach and duodenum (non-ulcer dyspepsia), the best approach in the management is unclear. The objective of this study is to compare the efficacy of esomeprazole and famotidine in the control of dyspeptic symptom. ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least moderate pain or discomfort (or both) centered in the upper abdomen as their predominant symptoms for 7 days before randomization; taking low dose aspirin (80-300 mg daily),and insignificant upper endoscopic finding. At least moderate pain or discomfort is defined if ",
+      "endpoints": [
+        "Treatment success : The HKDI is less than 16. Treatment was considered to have failed if a patient had taken medication for dyspepsia (other than antacids) during the study period"
+      ],
+      "sponsor": "Ruttonjee Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00978159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00995410",
+      "title": "A 12-Month, Phase 3, Open-Label, Multi-Center Study to Evaluate the Long-Term Safety of PA32540 in Subjects Who Are at Risk for Developing Aspirin-Associated Gastric Ulcers",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-05",
+      "country": "United States",
+      "enrollment": 380,
+      "brief_summary": "This study uses an open-label design and will be conducted in approximately 40 sites in the United States. Approximately 400 subjects will be enrolled in the study to ensure that approximately 300 subjects will have 6 months exposure to PA32540 and at least 100 subjects will have 12 months exposure to PA32540.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. A. Male or non-pregnant, non-breastfeeding females who have been on daily aspirin 325 mg for at least three months and who are expected to use daily aspirin 325 mg for at least six months (Daily is defined as \"at least 5 days per week\"):\n\n   AND, who are\n   * 55 years of age ",
+      "endpoints": [
+        "Number of Subjects Monitored for Long-term Safety of PA32540"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00995410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00401752",
+      "title": "A Multicenter, Randomized, Double-blind, Double-dummy, Parallel-group, 8 Week Comparative Efficacy and Safety Study of Esomeprazole 20 mg Every Day (qd) Versus Ranitidine 150 mg Twice a Day (Bid) in Patients With an NSAID-associated Gastric Ulcer When Daily NSAID is Continued",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-11",
+      "country": "China, Hong Kong",
+      "enrollment": 397,
+      "brief_summary": "The purpose of this study is to assess the efficacy of esomeprazole 20 mg dosed once daily and ranitidine 150 mg dosed twice daily through 4 weeks of treatment for the healing of gastric ulcers in patients receiving daily non-steroidal anti-inflammatory drug (NSAID)therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* A clinical diagnosis of a chronic condition that requires daily NSAID treatment for at least 2 months.\n* Daily NSAID dose and type must have been stable for at least 2 weeks prior to the baseline endoscopy;orally;\n\nExclusion Criteria:\n\n* History of e",
+      "endpoints": [
+        "The Percentage of Subjects Whose Gastric Ulcer(s) (GUs) Was (Were) Healed at Week 4 After Treatment With Esomeprazole 20 mg qd and Ranitidine 150 mg Bid in Patients Receiving Daily Non-steroidal Anti-inflammatory Drug (NSAID)Therapy."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00401752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07312370",
+      "title": "Intravenous Esomeprazole Combined With Sucralfate Suspension for Ulcer Healing and Complication Prevention After Gastric Endoscopic Submucosal Dissection: A Prospective, Randomized, Controlled Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-20",
+      "completion_date": "2026-12-30",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "Endoscopic submucosal dissection (ESD) is an established treatment for early gastric cancer and precancerous lesions. Post-ESD artificial ulcers may lead to complications including delayed bleeding (3-15%) and prolonged healing. Current guidelines recommend high-dose proton pump inhibitors (PPIs), but evidence for additional mucosal protective agents remains limited.\n\nThis study aims to evaluate whether combining sucralfate suspension with standard intravenous esomeprazole therapy improves ulcer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-80 years, male or female\n2. Diagnosed with early gastric cancer or high-grade intraepithelial neoplasia planned for gastric ESD\n3. Lesion location: Gastric corpus, antrum, or angle (cardiac lesions may be included but will require subgroup analysis)\n4. Successful en bl",
+      "endpoints": [
+        "Ulcer Reduction Rate at 4 Weeks Post-ESD"
+      ],
+      "sponsor": "LanZhou University",
+      "url": "https://clinicaltrials.gov/study/NCT07312370"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02299687",
+      "title": "A Clinical Trial to Investigate the Influence of CYP2C19 Polymorphism on Pharmacokinetic/Pharmacodynamic Characteristics of Omeprazole in Healthy Korean Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-09",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 24,
+      "brief_summary": "A clinical trial to investigate the influence of CYP2C19 polymorphism on pharmacokinetic/pharmacodynamic characteristics of omeprazole in healthy Korean volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Are able to provide written informed consent.\n2. The subject is a healthy Korean aged 20 to 45 years, inclusive.\n3. The subject weighs at least 55 (for female, 55) to 90 kg and has a body mass index (BMI) range of 18 to 25 kg/m2\n\nExclusion Criteria:\n\n1. Subjects with evidence",
+      "endpoints": [
+        "mean and median Intragastric PH"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02299687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00272467",
+      "title": "A Comparative Study on the Healing Effects of Rebamipide and Omeprazole in Helicobacter Pylori-positive Gastric Ulcer After Eradication Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2008-04",
+      "country": "China, South Korea",
+      "enrollment": 132,
+      "brief_summary": "The purpose of this study is to evaluate the ulcer healing efficacy of rebamipide in comparison with omeprazole in Helicobacter pylori-positive gastric ulcer after eradication therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 20 or older at the time of writing the informed consent\n* H. pylori-positive patient.\n* Patients who are diagnosed with gastric ulcer by endoscopy and have the following ulcer characteristics; Non-scarring ulcer (stage A1, A2, H1, H2 according to the Sakita-Miwa ",
+      "endpoints": [
+        "Gastric ulcer healing rate"
+      ],
+      "sponsor": "Korea Otsuka International Asia Arab",
+      "url": "https://clinicaltrials.gov/study/NCT00272467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03609892",
+      "title": "Rescue Therapy for Helicobacter Pylori Eradication: A Randomized and Non-inferiority Trail of Berberine Plus Amoxicillin Quadruple Therapy Versus Tetracycline Plus Furazolidone Quadruple Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-08-01",
+      "completion_date": "2019-08-20",
+      "country": "China",
+      "enrollment": 658,
+      "brief_summary": "This study aims at evaluating efficacy and safety of berberine- amoxicillin containing quadruple therapy(berberine, amoxicillin, esomeprazole and bismuth) versus tetracycline-furazolidone quadruple therapy (tetracycline, furazolidone, esomeprazole and bismuth) in H. pylori rescue therapy. It is hypothesized that berberine-amoxicillin containing quadruple therapy is non-inferior to tetracycline-furazolidone quadruple therapy. Patients with confirmed failure of H. pylori eradication will be random",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who had failed H.pylori eradication therapies before.\n2. Age between 18\\~70, both gender.\n3. Patients who had failed H.pylori eradication therapies during last 2 years and stop the eradication therapies for at least 2 months.\n4. Women are eligible if they are not pre",
+      "endpoints": [
+        "Helicobacter pylori eradication"
+      ],
+      "sponsor": "Xijing Hospital of Digestive Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT03609892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01435525",
+      "title": "Nexium Capsules Specific Clinical Experience Investigation Concerning Helicobacter Pylori Eradication",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2014-03",
+      "country": "Japan",
+      "enrollment": 369,
+      "brief_summary": "The purpose of this study is to confirm the safety profile / factors which impact safety and efficacy in patients given triple therapy for Helicobacter pylori eradication with Nexium + amoxicillin (AMPC) + clarithromycin (CAM), or Nexium + AMPC + metronidazole (MNZ) in usual post-marketing use.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Triple therapy for H.pylori eradication to stomach started after endoscopic treatment for gastric ulcer\n* Triple therapy for H.pylori eradication to stomach started after endoscopic treatment for duodenal ulcer\n* Triple therapy for H.pylori eradication to stomach started after",
+      "endpoints": [
+        "Number of Adverse Drug Reactions"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01435525"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06861478",
+      "title": "In-Hospital Morbidity Associated With Proton Pump Inhibitors in Acute Variceal Bleeding and Chronic Liver Disease Treatment",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-10-20",
+      "completion_date": "2026-09-20",
+      "country": "Mexico",
+      "enrollment": 182,
+      "brief_summary": "With this study, the investigators pretend to describe intrahospital morbidity in patients living with cirrhosis (PLC) who present to the emergency department with variceal bleeding (VB).\n\nThis study is a longitudinal, prospective, experimental, analytical single-center clinical trial. The study will be performed in the Hospital Universitario \"Jose E. González\" de la Factultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.\n\nThe studied population consists of adul",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Adult\n* Cirrhosis\n* Variceal Bleeding with only endoscopic findings consistent with portal hypertension complications\n* Hypovolemic shock and Variceal bleeding\n\nExclusion Criteria:\n\n* Shock of any type other than hypovolemic.\n* No cirrhotic patients\n* Patients that have Hepatic",
+      "endpoints": [
+        "Morbidity"
+      ],
+      "sponsor": "Universidad Autonoma de Nuevo Leon",
+      "url": "https://clinicaltrials.gov/study/NCT06861478"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01538849",
+      "title": "Randomized, Double-blind, Active-controlled, Multi-center Clinical Trial to Investigate the Safety, Tolerability and Efficacy of YH4808 in Patients With Reflux Esophagitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2014-05",
+      "country": "South Korea",
+      "enrollment": 154,
+      "brief_summary": "This study is to investigate the optimal clinical dose and administration methods of YH4808 in patients with reflux esophagitis by evaluating the safety and efficacy after YH4808 oral administration.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject who has signed on the written consent\n2. Male and female aged 20 and over\n3. Endoscopically verified Reflux Esophagitis classified into Los Angeles classification Grade A, B, C or D within 2 weeks before randomisation\n\nExclusion Criteria:\n\n1. History or presence of up",
+      "endpoints": [
+        "Number of Participants With Healing of Reflux Esophagitis (RE) Who Were \"Normal(including minimal change)\" at Week 4 Out of Patients Who Were Graded \"A, B, C or D\" at Baseline According to Los Angeles Classification"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01538849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00656968",
+      "title": "Sequential Versus Concomitant Therapy for Helicobacter Pylori Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-06",
+      "country": "Taiwan",
+      "enrollment": 232,
+      "brief_summary": "Helicobacter pylori is a bacteria that infects the lining of the stomach and is associated with ulcers. Helicobacter pylori may also increase the long-term risk of developing certain forms of gastric cancer. Curing this infection generally requires that patients take 2 or more antibiotic medications and a stomach acid suppressing medication for about two weeks. Current treatments do not always cure the infection and a new treatment is being tested in this study. The drugs involved in the new 4 d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or non-pregnant female aged 18 to 75 years inclusively.\n* Mental and legal ability to give a written informed consent.\n* Active H. pylori infection.\n\nExclusion Criteria:\n\n* Previous surgery of the stomach such as partial gastrectomy.\n* Use of antibiotics within the preced",
+      "endpoints": [
+        "Number of Participants in Which H. Pylori Was Eradicated",
+        "Number of Participants Who Had Good Drug Compliance"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT00656968"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01667575",
+      "title": "Efficiency Study of Clarithromycin and Bismuth-containing Quadruple Therapy to Treat H.Pylori",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2013-05",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to observe the efficacy of ten day triple therapy-based, bismuth-containing quadruple therapy for H.pylori treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who presented with upper gastrointestinal symptoms and endoscopically proven H.pylori-positive functional dyspepsia and scarred peptic ulcers\n\nExclusion Criteria:\n\n* patients less than 18 years old, with history of H. pylori infection treatment, with previous gastric ",
+      "endpoints": [
+        "Eradication rate of Helicobacter pylori"
+      ],
+      "sponsor": "Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01667575"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00164866",
+      "title": "Administration of Intravenous Proton Pump Inhibitor Prior to Endoscopy [APPE] in Patients With Upper Gastrointestinal Bleeding; a Double-Blind Placebo-Controlled Randomised Study.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-09",
+      "country": "China",
+      "enrollment": 638,
+      "brief_summary": "To evaluate if intravenous PPI infusion, when administered prior to endoscopy, hastens resolution of bleeding stigmata and thereby facilitates endoscopic examinations and reduces the need for endoscopic treatment. Clot stabilization may itself sustain control of bleeding before endoscopy. These may translate into improved patients'outcome and survival.\n\nTo determine the therapeutic effect of high-dose PPI infusion in upper gastrointestinal bleeding from causes other than peptic ulcers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with overt signs of upper GIB; fresh hematemesis and/or melena with or with circulatory compromise\n\nExclusion Criteria:\n\n* Chronic aspirin user,\n* Pregnancy,\n* Age\\<16,\n* Allergy to PPI,\n* No consent",
+      "endpoints": [
+        "early intranvenous infusion of a high-dose poton-pump inhibitor before endoscopy would have a therapeutic effect on bleeding ulcers, reduce the need for endoscopic therapy, and result in improved clinical outcomes."
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT00164866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02840929",
+      "title": "Effect of Second-look Endoscopy on Peptic Ulcer Rebleeding in Patients With Early Resumption of Antiplatelet Agents",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2016-07",
+      "completion_date": "2017-09",
+      "country": "China, Hong Kong",
+      "enrollment": 2,
+      "brief_summary": "OBJECTIVES: Up to 15% of patients with peptic ulcer bleeding will develop rebleeding, mainly in those with ulcers of higher-risk stigmata (i.e. Forrest class Ia to IIb). Randomized trials show that second-look endoscopy is effective in reducing rebleeding rate. However, whether to withhold aspirin or other anti-platelet agents (for the treatment of established cardiovascular or cerebrovascular diseases) remains controversial. Studies have shown that although continuation of anti-platelet agents ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Antiplatelet for both primary and secondary prophylaxis\n* Peptic ulcers of Forrest class Ia (spurting of blood), Ib (oozing of blood), IIa (visible vessel) \\& IIb (adherent clot)\n\nExclusion Criteria:\n\n* Peptic ulcers of class IIc (pigmented ulcer base) \\& III (clean ulcer base",
+      "endpoints": [
+        "Rebleeding"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT02840929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00629512",
+      "title": "A Comparative Efficacy and Safety Study of Nexium (Esomeprazole Magnesium) Delayed-Release Capsules (40mg qd and 20mg qd) Versus Placebo for the Prevention of Gastric Ulcers Associated With Daily NSAID Use in Patients at Risk",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2002-12",
+      "country": "N/A",
+      "enrollment": 504,
+      "brief_summary": "Nonsteroidal anti-inflammatory drugs (NSAIDS) are often associated with gastric ulcers. This study looks at the prevention of these gastric ulcers with one of the three following treatment groups for up to 8 weeks: esomeprazole 40 mg once daily; esomeprazole 20 mg once daily; versus placebo; in patients at risk.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. No gastric or duodenal ulcer on baseline endoscopy.\n2. A clinical diagnosis of a chronic condition that requires daily NSAID treatment for at least 6 months.\n3. Other inclusion criteria, as defined in the protocol.\n\nExclusion Criteria:\n\n1. History of esophageal, gastric or du",
+      "endpoints": [
+        "To assess the efficacy of esomeprazole 40 mg qd versus placebo and esomeprazole 20 mg qd versus placebo for up to 6 months of the treatment for the prevention of gastric (and/or duodenal) ulcers in patients receiving daily NSAID therapy and being at risk"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00629512"
+    }
+  ],
+  "timestamp": "2026-03-04T15:41:54.662304",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Everolimus",
+    "drugbank_id": "DB01590"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 8
+  },
+  "indications": [
+    {
+      "disease": "breast neoplasm",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 9,
+      "phase2": 27,
+      "phase4": 0
+    },
+    {
+      "disease": "renal cell adenocarcinoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 8,
+      "phase2": 24,
+      "phase4": 1
+    },
+    {
+      "disease": "clear cell renal carcinoma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 42,
+      "articles": 20,
+      "phase3": 4,
+      "phase2": 27,
+      "phase4": 0
+    },
+    {
+      "disease": "tuberous sclerosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "situs inversus",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 1,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

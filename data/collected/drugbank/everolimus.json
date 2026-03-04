@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Everolimus"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB01590",
+    "name": "Everolimus",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:37:00.186032",
+  "success": true,
+  "error_message": null
+}

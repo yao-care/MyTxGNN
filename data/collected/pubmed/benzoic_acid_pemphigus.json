@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Benzoic Acid",
+    "disease": "pemphigus",
+    "query_string": "Benzoic Acid AND pemphigus"
+  },
+  "data": {
+    "query": "Benzoic Acid AND pemphigus",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:32:12.537240",
+  "success": true,
+  "error_message": null
+}

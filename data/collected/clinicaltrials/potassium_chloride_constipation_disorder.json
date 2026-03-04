@@ -1,0 +1,951 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Potassium Chloride",
+    "disease": "constipation disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03747107",
+      "title": "Pharmacist and Data Driven Quality Improvement in Primary Care",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-09-16",
+      "completion_date": "2021-06-30",
+      "country": "United Kingdom",
+      "enrollment": 19,
+      "brief_summary": "P-DQIP is an intervention to improve prescribing safety in primary care. The 'intervention' is a health board quality improvement programme that will be implemented across all practices in one National Health Service (NHS) board in Scotland (Tayside), and comprises the following components:\n\ni. Case finding of patients with drug therapy risks via the P-DQIP informatics tool ii. Decision support for clinicians when conducting medication reviews via the P-DQIP informatics tool iii. Support from pr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* General practices in NHS Tayside, who use the Vision electronic medical record software and agree to the extraction of data from medical records for monitoring and evaluation purposes\n\nExclusion Criteria:\n\n* General practices using electronic medical record software other than",
+      "endpoints": [
+        "Initially targeted drug therapy risks in patients aged 75 years or older"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT03747107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06193421",
+      "title": "An Open-Label Pilot Study for Assessing the Safety and Efficacy of High-Dose Ambroxol (HDA) in Newly Diagnosed GBA1 Parkinson Disease (PD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2023-10-24",
+      "completion_date": "2025-04-30",
+      "country": "Israel",
+      "enrollment": 40,
+      "brief_summary": "Parkinson's disease (PD), affecting 10 million people globally, lacks a cure, and current therapies only manage symptoms. A link between Gaucher disease (GD) and PD, particularly in carriers of glucocerebrosidase (GBA1) mutations, has sparked interest in developing new drugs. Despite pharmaceutical companies focusing on formulations, progress is slow. Agyany, with decades of experience in GD research, plans clinical trials using existing generic drugs for GBA-related PD and idiopathic PD. Their ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor inclusion into the trial, subjects are required to fulfill all of the following criteria:\n\nNewly diagnosed PD patients:\n\n1. Individuals who exclusively carry at least one single GBA1 variant without any additional genetic variants.\n2. Confirmed diagnosis of PD, by a movement",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (TEAEs), and Treatment-Emergent Serious Adverse Events (TESAEs)",
+        "Number of Participants With Potentially Clinically Significant Laboratory Abnormalities: Hematology",
+        "Number of Participants With Potentially Clinically Significant Laboratory Abnormalities: Biochemistry (Metabolic, Electrolytes, Renal and Liver Function)"
+      ],
+      "sponsor": "Agyany Pharma LTD",
+      "url": "https://clinicaltrials.gov/study/NCT06193421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02499120",
+      "title": "A RANDOMIZED, MULTICENTER, DOUBLE-BLIND PHASE 2 STUDY OF PALBOCICLIB PLUS CETUXIMAB VERSUS CETUXIMAB FOR THE TREATMENT OF HUMAN PAPILLOMAVIRUS-NEGATIVE, CETUXIMAB-NAÏVE PATIENTS WITH RECURRENT/METASTATIC SQUAMOUS CELL CARCINOMA OF THE HEAD AND NECK AFTER FAILURE OF ONE PRIOR PLATINUM-CONTAINING CHEMOTHERAPY REGIMEN",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-09-10",
+      "completion_date": "2022-09-07",
+      "country": "South Korea, Spain, Czechia, Mexico, Taiwan, Russia, Italy, Hungary, Serbia, Slovakia, Ukraine, Romania, Poland, Japan, United States",
+      "enrollment": 125,
+      "brief_summary": "The purpose of this study is to determine whether the combination of palbociclib with cetuximab is superior to cetuximab in prolonging overall survival in HPV-negative, cetuximab-naive patients with recurrent/metastatic squamous cell carcinoma of the head and neck.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Histologically or cytologically confirmed squamous cell carcinoma of the oral cavity, oropharynx, hypopharynx or larynx, not amenable for salvage surgery or radiotherapy.\n* Measurable disease as defined per RECIST v. 1.1. Tumor lesions previously irradiated or subjected to",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02499120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00706004",
+      "title": "Short Term Safety and Efficacy of Lubiprostone in Adults With Cystic Fibrosis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "The purpose of this study is to determine the short term safety and effectiveness of lubiprostone when used for constipation in adults with cystic fibrosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women of all races\n* 18 years of age or older at time of enrollment\n* Diagnosis of cystic fibrosis\n* History of constipation, as defined by the Rome III criteria, OR the requirement of chronic scheduled doses of a laxative, OR a score ≥1.5 on the Patient assessment of ",
+      "endpoints": [
+        "Number of Spontaneous Bowel Movements Per Week"
+      ],
+      "sponsor": "University of Arkansas",
+      "url": "https://clinicaltrials.gov/study/NCT00706004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04585542",
+      "title": "Comparison of Potassium Binders in the ER",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2020-10-20",
+      "completion_date": "2025-01-31",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "Compare efficacy of 3 oral potassium binders (cation exchange resins) on lowering blood potassium, in hospital patients with acute hyperkalemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Plasma potassium \\> 5.5 mEq/L\n* Age ≥18 years\n* Patient able to provide written informed consent\n\nExclusion Criteria:\n\n* Recent bowel surgery\n* Ileus or bowel obstruction\n* Pseudohyperkalemia signs and symptoms, such as excessive fist clenching, hemolyzed blood specimen, sever",
+      "endpoints": [
+        "Change in blood potassium level"
+      ],
+      "sponsor": "University of California, Irvine",
+      "url": "https://clinicaltrials.gov/study/NCT04585542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04028466",
+      "title": "Effectiveness of Vonoprazan vs Omeprazole as Empiric Therapy for Gastroesophageal Reflux Disease (GERD) Patients Without Alarm Features in a Primary Care Setting: A Pragmatic, Randomized, Single Blind Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2019-05-26",
+      "completion_date": "2020-03-30",
+      "country": "Philippines",
+      "enrollment": 82,
+      "brief_summary": "Gastroesophageal reflux disease is a commonly encountered disorder in daily practice. Proton pump inhibitor therapy has been the cornerstone of treatment for decades. Although it has been proven to be highly effective, there is still room for improvement. A local study showed that only 57.3% of subjects are asymptomatic after 4 weeks treatment with rabeprazole. Recently a new drug was developed with better absorption, higher bioavailability, more sustained increased pH in the stomach and more ta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All Adult patients with clinically diagnosed with Gastroesophageal Reflux Disease (GERD) without alarm features (heartburn and acid regurgitation)\n* Age more than 18 years at the time of written consent\n* Those who provide written consent with their own free will\n* Both treatm",
+      "endpoints": [
+        "Proportion of asymptomatic patients at Day 3",
+        "Proportion of asymptomatic patients at Day 7",
+        "Proportion of asymptomatic patients at Day 14"
+      ],
+      "sponsor": "St. Luke's Medical Center, Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT04028466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04996004",
+      "title": "A Phase I/II Study of TTI-621 in Combination With Doxorubicin in Patients With Unresectable or Metastatic High-Grade Leiomyosarcoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-06-22",
+      "completion_date": "2023-12-07",
+      "country": "United States",
+      "enrollment": 76,
+      "brief_summary": "The purpose of this study is to learn about the safety and effects of the study medicine (called Ontorpacept or TTI-621) when given alone and when given in combination with doxorubicin for people with leiomyosarcoma. Leiomyosarcoma is a tumor of the smooth muscles.\n\nThis study is seeking participants who have:\n\n* leiomyosarcoma that is advanced or has spread to other parts of the body (metastatic)\n* not received prior treatment with anthracyclines (a drug commonly used in patients with some kind",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Eastern Co-operative Oncology Group Performance Status Performance Status (ECOG-PS) 0 or 1.\n2. Histologically-confirmed high-grade soft tissue sarcoma that is metastatic or locally advanced and not amenable to curative treatment with surgery or radiation.\n\n   1. In the Do",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Serious TEAEs: Phase I",
+        "Mean Change From Baseline in Blood Pressure at 30 Minutes Post Dose on Cycle 1 Day 1 (C1D1): Phase I",
+        "Mean Change From Baseline in Blood Pressure at 60 Minutes Post Dose on C1D1: Phase I"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT04996004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02314936",
+      "title": "Dose-ranging Efficacy of Supplementation With Polydextrose, a Dietary Fibre, on Colonic Transit Time and Gastrointestinal Symptoms in Adults With Functional Constipation: A Double-blind, Randomized, Placebo-controlled Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2016-05",
+      "country": "Canada",
+      "enrollment": 192,
+      "brief_summary": "This study will investigate the effectiveness of Polydextrose, a dietary fiber, at decreasing Colonic Transit Time and the gastrointestinal symptoms of Functional Constipation. One quarter of the subjects will receive 12 g of Polydextrose daily, one quarter will receive 8 g of Polydextrose daily, one quarter will receive 4 g of Polydextrose daily and one quarter will receive a placebo daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 70 years.\n2. Body mass index between 18.5 and 29.9 kg/m2 (encompasses normal weight and overweight).\n3. If female, subject is not of child bearing potential. Defined as females who have had a hysterectomy or oophorectomy, bilateral tubal ligation or are pos",
+      "endpoints": [
+        "Change in Colonic Transit Time From Baseline to Day 15"
+      ],
+      "sponsor": "KGK Science Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02314936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00555906",
+      "title": "Phase 1/2 Open-label Study Of The Safety And Efficacy Of Pd 0332991 In Combination With Bortezomib And Dexamethasone In Patients With Refractory Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2013-03",
+      "country": "Czechia, Germany, United States",
+      "enrollment": 53,
+      "brief_summary": "This is a Phase 1/2 study evaluating the safety and anti-tumor activity of PD 0332991 in combination with Velcade® \\[bortezomib\\] and dexamethasone in patients who have received at least one previous treatment for multiple myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of symptomatic multiple myeloma as defined by International Myeloma Working Group (IMWGURC).\n* Phase 1: Relapsed or relapsed/refractory myeloma after at least 1 previous treatments and with a life expectancy of more than 3 months.\n* Phase 2: Measurable (as defined by",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of PD-0332991: Phase 1",
+        "Recommended Phase II Dose (RP2D) of PD-0332991: Phase 1",
+        "Percentage of Participants With Objective Response (OR): Phase 2"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00555906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06980922",
+      "title": "The Efficacy and Safety of Guilu Erxian Jiao in the Treatment of Intradialytic Hypotension",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-06-01",
+      "completion_date": "2028-05-31",
+      "country": "Taiwan",
+      "enrollment": 34,
+      "brief_summary": "The goal of this clinical trial is to learn if Guilu Erxian Jiao, a traditional Chinese herbal medicine, can help manage intradialytic hypotension (IDH), a drop in blood pressure that occurs during hemodialysis in adults. The main questions it aims to answer are:\n\n1. Does Guilu Erxian Jiao reduce the frequency and severity of low blood pressure during dialysis?\n2. Is Guilu Erxian Jiao safe to use in patients receiving hemodialysis?\n\nResearchers will compare standard care plus Guilu ErXian Jiao t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Undergoing maintenance hemodialysis three times per week, 4 hours per session\n* History of intradialytic hypotension (IDH)\n* Willing and able to provide written informed consent\n\nExclusion Criteria:\n\n* Pregnant or lactating women\n* Severe comorbid illness, suc",
+      "endpoints": [
+        "Frequency of Intradialytic Hypotension Episodes"
+      ],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06980922"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05472753",
+      "title": "Effect of a Dietary Supplement with Antioxidant and Anti-inflammatory Properties on the Intestinal Microbiota in Patients with Colon Cancer. Randomized, Placebo-controlled Clinical Trial. TERATROPHO Study.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-11-16",
+      "completion_date": "2024-05-31",
+      "country": "Spain",
+      "enrollment": 75,
+      "brief_summary": "Effect of a dietary supplement with antioxidant and anti-inflamatory properties on the intestinal microbiota in patients with colon cancer. Ramdonized placebo controlled clinical trial. Teratrophic study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of stage II or III colo neoplasia\n* Indication of adjuvant chemotherapy according to the Protocols for the diagnosis and treatment of cancer of the Intercenter Clinical Management Unit\n* Sign the informed consent\n\nExclusion Criteria:\n\n* Systemic autoimmune diseases (",
+      "endpoints": [
+        "Change in the alpha diversity index (Shannon)"
+      ],
+      "sponsor": "Fundación Pública Andaluza para la Investigación de Málaga en Biomedicina y Salud",
+      "url": "https://clinicaltrials.gov/study/NCT05472753"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06123195",
+      "title": "Clinical, Biochemical, and Microbiological Effects of Constipation Treatment in Patients With Chronic Kidney Disease: A Pilot Feasibility Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-02-01",
+      "completion_date": "2025-11-17",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "Constipation is one of the most prevalent gastrointestinal disorders in patients with chronic kidney disease (CKD) and has been associated with their adverse kidney and cardiovascular outcomes; however, little is known about the effects of constipation treatment on clinical outcomes nor on outcome-related biochemical and microbiological parameters in patients with CKD. The investigators aim to test the feasibility of delivering an intervention with constipation treatment and determine its effect",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients \\>18 years old.\n2. Patients able and willing to provide written informed consent and HIPAA authorization.\n3. CKD stages G3-G5 without kidney replacement therapy with estimated glomerular filtration rate (eGFR) \\<60 mL/min/1.73m2 calculated using the Ch",
+      "endpoints": [
+        "The feasibility of delivering the proposed interventions and performing the proposed examinations, assessed based on the adherence to prescribed protocol"
+      ],
+      "sponsor": "University of Tennessee",
+      "url": "https://clinicaltrials.gov/study/NCT06123195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04021381",
+      "title": "Citrate Salts for Stone-free Result After Flexible Ureterorenoscopy for Inferior Calyx Calculi: a Randomized Placebo Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-25",
+      "completion_date": "2022-06",
+      "country": "France",
+      "enrollment": 262,
+      "brief_summary": "The prevalence of urolithiasis is around 10 % in the French population. It is thus a major public health issue. When the stone is not spontaneously removed, interventions such as extracorporeal lithotripsy or flexible ureteroscopy (F-URS) are performed. F-URS is usually preferred in renal stones \\> 7 mm in comparison with lithotripsy, with better results. Efficacy of ureteroscopy is based on the \"stone-free rate\" (SFR) at 3 months. A SFR index is assessed according to the existence of residual f",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years old\n* Efficient contraceptive method in women of childbearing age\n* At least one renal urolithiasis 10 ≤ size ≤ 20 mm\n* No recent ureterorenoscopy (\\< 6 months)\n* Planned flexible ureterorenoscopy procedure with holmium-laser dusting\n* CT-scan performed within 3",
+      "endpoints": [
+        "Stone-free result"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04021381"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01525550",
+      "title": "A SINGLE-ARM OPEN-LABEL INTERNATIONAL MULTI-CENTER STUDY OF THE EFFICACY AND SAFETY OF SUNITINIB MALATE (SU011248, SUTENT (REGISTERED)) IN PATIENTS WITH PROGRESSIVE ADVANCED METASTATIC WELL-DIFFERENTIATED UNRESECTABLE PANCREATIC NEUROENDOCRINE TUMORS",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-06-06",
+      "completion_date": "2018-07-26",
+      "country": "France, Spain, Norway, Czechia, South Africa, India, Italy, Hungary, Slovakia, Australia, China, Romania, Japan, Belgium, United States",
+      "enrollment": 106,
+      "brief_summary": "The purpose of this study is to confirm the safety and efficacy of sunitinib in subjects with unresectable pancreatic neuroendocrine tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically proven diagnosis of well-differentiated pancreatic neuroendocrine tumor (according to World Health Organization \\[WHO 2000\\] classification).\n* Disease progression within 12 months prior to study enrollment.\n* Disease that is not amenable to sur",
+      "endpoints": [
+        "Progression-Free Survival (PFS): Investigator Assessment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01525550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03100409",
+      "title": "Effect of a Low Residue Diet in Comparison to the Dietary Recommendations From the INCan: A Randomized Clinical Trial to Assess Malnutrition, Gastrointestinal Toxicity and Quality of Life of Advanced Cervical Cancer Patients (IB2-IVA)",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2017-02-01",
+      "completion_date": "2021-09-01",
+      "country": "Mexico",
+      "enrollment": 137,
+      "brief_summary": "In Mexico, cervical cancer (CC) ranks second in incidence and mortality among women. The National Institute of Cancer in Mexico (lNCan) receives annually about 500 patients with CC, 80% of which are diagnosed with locally advanced disease. The standard treatment for locally advanced disease consists in concomitant chemo-radiotherapy based on cisplatin (QT-RT), followed by brachytherapy, with an absolute benefit of 10%. Adverse effects include gastrointestinal toxicity, which is the most importan",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women 18 years of age and older.\n* Ability to understand the study and be able to sign the informed consent.\n* Functional stage ECOG 0 - 2.\n* Negative pregnancy test, null reproductive potential, or currently using an contraceptive method.\n* Willing and able to attend the prog",
+      "endpoints": [
+        "Change in Gastrointestinal toxicity symptoms grading scale using the Common Toxicity Criteria for Adverse Events (CTCAE v4)",
+        "Changes in nutritional status",
+        "Changes in food intake"
+      ],
+      "sponsor": "National Institute of Cancerología",
+      "url": "https://clinicaltrials.gov/study/NCT03100409"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01929863",
+      "title": "A Randomized, Double-blind (Sponsor Unblinded), Placebo Controlled, Repeat Dose Study Investigating Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of GSK2330672 in Type 2 Diabetes Patients Taking Metformin",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-08-01",
+      "completion_date": "2013-11-21",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "Metformin may have complex interactions in the gut and is generally first line therapy for type 2 diabetes mellitus (T2DM). It is important to understand whether there are significant pharmacokinetic or pharmacodynamic interactions when GSK2330672 is co-administered with metformin in subjects with T2DM. The purpose of this study is to investigate the safety and tolerability of GSK2330672 administered for 7 days to subjects with T2DM taking metformin. This will be a two-period crossover study; su",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females aged between 30 and 64 years of age inclusive, at the time of signing the informed consent.\n* Subjects with documented T2DM diagnosis (diagnosed not less than 3 months prior to screening); AND one of the following: taking stable metformin 850 milligrams (mg) ",
+      "endpoints": [
+        "Number of Participants With at Least One Adverse Event (AE), Serious Adverse Event (SAE) or Death",
+        "Number of Participants With the Indicated Clinical Chemistry Values of Potential Clinical Importance (PCI) at Any Time Post Baseline",
+        "Number of Participants With the Indicated Haematology Values of PCI at Any Time Post Baseline"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01929863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07293624",
+      "title": "Effects of the Dietary Inflammatory Index on Systemic Inflammation Markers and Gastrointestinal Symptoms in Individuals With Bariatric Surgery",
+      "phase": "N/A",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-12-01",
+      "completion_date": "2026-07-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 70,
+      "brief_summary": "The goal of this observational cross-sectional study is to evaluate the relationships between the Dietary Inflammatory Index (DII), systemic inflammatory markers, and gastrointestinal symptoms in adults aged 18-65 who have undergone bariatric surgery.\n\nThe main questions it aims to answer are:\n\nDoes the inflammatory potential of the diet affect systemic inflammation levels (such as SII, CRP, and WBC) in the post-operative period?\n\nIs there an association between the DII score and gastrointestina",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult individuals between the ages of 18 and 65,\n* Having undergone bariatric surgery at least 3 months prior,\n* Individuals who agreed to participate voluntarily in the study and signed the informed consent form,\n* Having the cognitive ability/literacy to completely complete ",
+      "endpoints": [
+        "Biochemical Measurements - Fasting blood glucose",
+        "Biochemical Measurement - Lipid Profile",
+        "Biochemical Measurements - Liver Enzymes"
+      ],
+      "sponsor": "Istanbul Bilgi University",
+      "url": "https://clinicaltrials.gov/study/NCT07293624"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01970865",
+      "title": "PHASE 1/2 STUDY OF PF-06463922 (AN ALK/ROS1 TYROSINE KINASE INHIBITOR) IN PATIENTS WITH ADVANCED NON-SMALL CELL LUNG CANCER HARBORING SPECIFIC MOLECULAR ALTERATIONS",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-01-08",
+      "completion_date": "2023-05-24",
+      "country": "South Korea, France, Singapore, Spain, Hong Kong, Taiwan, Switzerland, Italy, Germany, Australia, Canada, Japan, Belgium, United States",
+      "enrollment": 364,
+      "brief_summary": "Phase 1 and 2 trial to study the safety, pharmacokinetics, pharmacodynamics, patient reported outcomes and efficacy of PF-06463922 in ALK + advanced non-small cell lung cancer patients and ROS1+ advanced non small cell lung cancer patients .",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Evidence of histologically or cytologically confirmed diagnosis of metastatic NSCLC (Stage IV, AJCC v7.0) that carries an ALK rearrangement, as determined by the Food and Drug Administration (FDA) approved FISH assay (Abbott Molecular Inc) or by Immunohistochemistry (IHC) (Vent",
+      "endpoints": [
+        "Number of Participants With Cycle 1 Dose-Limiting Toxicities (DLTs) in Phase 1",
+        "Percentage of Participants With Overall and Intracranial Objective Response (Phase 2)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01970865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00796354",
+      "title": "A Phase IIIb/IV, Multi-centre, Double-blind, Randomised, Placebo-controlled Parallel Group Study to Compare the Efficacy and Safety of Movicol® With Placebo in Patients With Constipation Associated With Irritable Bowel Syndrome (IBS)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2010-02",
+      "country": "France, Sweden, Czechia, Italy, Germany, United Kingdom, Poland",
+      "enrollment": 210,
+      "brief_summary": "Multi-centre, double-blind, randomised, placebo-controlled, parallel group study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and females aged 18 to 80 years inclusive.\n* Written informed consent obtained.\n* Females of child-bearing potential must employ an adequate method of contraception and must undergo a pregnancy test at Randomisation Visit.\n* Willing, able and competent to complete the ent",
+      "endpoints": [
+        "To evaluate the efficacy and safety of Movicol® versus placebo in the relief of constipation associated with IBS."
+      ],
+      "sponsor": "Norgine",
+      "url": "https://clinicaltrials.gov/study/NCT00796354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04223856",
+      "title": "An Open-label, Randomized, Controlled Phase 3 Study of Enfortumab Vedotin in Combination With Pembrolizumab Versus Chemotherapy Alone in Previously Untreated Locally Advanced or Metastatic Urothelial Cancer",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-03-30",
+      "completion_date": "2028-03-01",
+      "country": "Singapore, Spain, Switzerland, Russia, Canada, Belgium, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Thailand, Israel, South Korea, Poland, Argentina, Japan, United States, France, Czechia, Italy, Denmark, China, Netherlands, United Kingdom",
+      "enrollment": 886,
+      "brief_summary": "This study is being done to see how well two drugs (enfortumab vedotin and pembrolizumab) work together to treat patients with urothelial cancer. The study will compare these drugs to other drugs that are usually used to treat this cancer (standard of care). The patients in this study will have cancer that has spread from their urinary system to other parts of their body.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically documented, unresectable locally advanced or metastatic urothelial carcinoma\n* Measurable disease by investigator assessment according to RECIST v1.1\n\n  * Participants with prior definitive radiation therapy must have measurable disease per RECIST v1.1 that is o",
+      "endpoints": [
+        "Progression-Free Survival (PFS) Per Response Evaluation Criteria in Solid Tumors (RECIST) Version (v) 1.1 by Blinded Independent Central Review (BICR)",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT04223856"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05288101",
+      "title": "Effect of Oral Nutritional Supplementation Combined With Impedance Vectors for Dry Weight Adjustment on the Nutritional Status, Hydration Status and Quality of Life in Patients on Chronic Hemodialysis: a Pilot Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-01-01",
+      "completion_date": "2017-06-30",
+      "country": "Mexico",
+      "enrollment": 39,
+      "brief_summary": "The objective of this study was to assess the effect of oral nutritional supplementation (ONS) combined with bioelectrical vector analysis (BIVA) on the nutritional and hydration status and the quality of life (QoL) in hemodialysis (HD) patients. Design and Methods: Thirty-two chronic HD patients were included in a 6-month randomized pilot study. Patients in SUPL group received a simultaneous intervention consisting of a personalized diet, 245 mL/d ONS and dry weight adjustment through BIVA. Pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients on chronic HD undergoing thrice weekly hemodialysis (at least three hours per treatment) for more than three months were included.\n\nExclusion Criteria:\n\n* Patients with amputations of any limb, metal implants, diagnosis of dementia, or current consumption of nutrition",
+      "endpoints": [
+        "Change in nutritional status from baseline to 6 months",
+        "Change in hydration status from baseline to 6 months"
+      ],
+      "sponsor": "Universidad Autonoma de Queretaro",
+      "url": "https://clinicaltrials.gov/study/NCT05288101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03525678",
+      "title": "A Phase II, Open Label, Randomized, Two-Arm Study to Investigate the Efficacy and Safety of Two Doses of the Antibody Drug Conjugate GSK2857916 in Participants With Multiple Myeloma Who Had 3 or More Prior Lines of Treatment, Are Refractory to a Proteasome Inhibitor and an Immunomodulatory Agent and Have Failed an Anti-CD38 Antibody (DREAMM 2)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-06-18",
+      "completion_date": "2024-09-12",
+      "country": "France, Spain, Italy, Germany, Australia, United Kingdom, Canada, United States",
+      "enrollment": 221,
+      "brief_summary": "Multiple myeloma (MM) is an incurable malignancy and accounts for 1 percentage (%) of all cancers and for 10% of all hematologic malignancies. Participants with relapsed/refractory multiple myeloma (RRMM) will be included in this study, to evaluate the efficacy and safety of belantamab mafodotin (GSK2857916) monotherapy. Participants will be treated with belantamab mafodotin monotherapy until disease progression (PD) or unacceptable toxicity and will be followed for Progression Free Survival and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who provided signed written informed consent, which includes compliance with the requirements and restrictions listed in the consent form.\n* Male or female, 18 years or older.\n* Participants with Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.",
+      "endpoints": [
+        "Overall Response Rate (ORR) by Independent Review Committee (IRC) (Full Analysis Population)",
+        "Overall Response Rate by Independent Review Committee (Efficacy Population)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03525678"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06428942",
+      "title": "Increased Low-potassium Content Vegetables Consumption in Patients With Moderate-to-severe Chronic Kidney Disease: a Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-05-27",
+      "completion_date": "2024-12-31",
+      "country": "Taiwan",
+      "enrollment": 75,
+      "brief_summary": "Prior observational studies have shown that higher levels of vegetables and fruits consumption are associated with lower risk of all-cause mortality in patients with chronic kidney disease (CKD). However, compared with the normal population, patients with CKD are more likely to consume less vegetables and fruits. Thus, the investigators aim to evaluate whether proving low-potassium content vegetables to this population are able to reach the recommended target of daily vegetables intake and not i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CKD stage 3b\\~5, not yet on dialysis\n* Age ≥20 years\n* Stable doses of medications for 4 weeks\n* Serum potassium level: ≥3.5 and \\< 5.5 mmol/L\n\nExclusion Criteria:\n\n* Anticipated to receive dialysis within 3 month\n* Major gastrointestinal diseases (inflammatory bowel disease, ",
+      "endpoints": [
+        "Percentage of participants who reach the targets of daily vegetable recommended target"
+      ],
+      "sponsor": "Taipei Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT06428942"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02966834",
+      "title": "A Randomized, Double-blind, Multi-dose, Placebo-controlled Study to Evaluate the Efficacy, Safety and Tolerability of GSK2330672 Administration for the Treatment of Pruritus in Patients With Primary Biliary Cholangitis (GLIMMER: GSK2330672 triaL of IBAT Inhibition With Multidose Measurement for Evaluation of Response)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-01-11",
+      "completion_date": "2020-04-15",
+      "country": "France, Spain, Italy, Germany, Australia, United Kingdom, Poland, Canada, Japan, United States",
+      "enrollment": 147,
+      "brief_summary": "This study is being conducted to evaluate the efficacy, safety and tolerability of GSK2330672 administration for the treatment of pruritus (itch) in participants with primary biliary cholangitis (PBC). Participants will receive either placebo or one of the 4 dose regimens of GSK2330672 (20 milligram \\[mg\\], 90 mg or 180 mg taken once daily or 90 mg twice daily). Participants on GSK2330672 will also receive placebo tablets to maintain blinding. The study has a prospectively defined adaptive desig",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Participant must be 18 to 80 years of age inclusive, at the time of signing the informed consent.\n* Participants who have proven PBC, as demonstrated by having at least 2 of the following: History of sustained increased ALP levels \\>ULN first recognized at least 6 months prior ",
+      "endpoints": [
+        "Mean Change From Baseline at Week 16 in the Mean Worst Daily Itch Score"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02966834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07397754",
+      "title": "Sodium-rich COndiments Unifying Health and Taste",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-22",
+      "completion_date": "2026-09-22",
+      "country": "Singapore",
+      "enrollment": 32,
+      "brief_summary": "This research aims to develop an evidence-based classification for sodium-rich condiments (natremic index) based on their CVD-related risks. It is hypothesised that the acute cardiovascular and physiological response (effectively extrapolated to long-term CVD risks) to meals prepared with various sodium-rich condiments can be leveraged upon for the development of such an index that will systematically classify sodium-rich condiments based on the risk they present to cardiovascular health.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥ 50, \\< 75 years old\n2. Male or postmenopausal female (self-reported)\n3. ≥ 50 kg body weight\n4. Systolic blood pressure (≥ 130, \\< 160 mmHg) or diastolic blood pressure (≥ 85, \\< 100 mmHg)\n5. Willing and able to follow intervention protocol\n6. Ability to identify basic taste",
+      "endpoints": [
+        "Endopat assessment"
+      ],
+      "sponsor": "Singapore Institute of Food and Biotechnology Innovation",
+      "url": "https://clinicaltrials.gov/study/NCT07397754"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04223388",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Parallel, Research Study to Investigate the Safety and Efficacy of a Probiotic Lactobacillus Plantarum 276 (Lp276) on Gastrointestinal Health in Healthy Adults",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-18",
+      "completion_date": "2020-04",
+      "country": "Canada",
+      "enrollment": 50,
+      "brief_summary": "Eligible participants will be randomized and receive either the probioic or placebo supplement to consume daily for 28-days. Three check-in visits will occur every 7 days of study participation. Participants will be expected to complete a daily study diary documenting their investigational product use/adverse events and a daily bowel habits diary documenting each bowel movement. Blood samples, stool samples, and questionnaires will be completed for study outcome analysis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Females and males between 18 to 55 years of age, inclusive\n2. BMI between 18.5 to 32 kg/m2, inclusive\n3. Self-reported history of diarrhea over the last 3 months, defined as \\> 5 BMs with the majority (≥ 50%) of the BMs per week being Bristol stool form types ≥5, 6 or 7\n4. Fe",
+      "endpoints": [
+        "The difference between probiotic and placebo groups in the change in gastrointestinal health from baseline to day 28 as determined by stool frequency as per daily bowel habit diary",
+        "The difference between probiotic and placebo groups in the change in gastrointestinal health from baseline to day 28 as determined by stool consistency as per the Bristol Stool Scale",
+        "The difference between probiotic and placebo groups in the change in gastrointestinal health from baseline to day 28 as determined by gastrointestinal (GI) symptoms as per the gastrointestinal symptom rating scale"
+      ],
+      "sponsor": "Church & Dwight Company, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04223388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03483103",
+      "title": "A Phase 2 Study of Lisocabtagene Maraleucel (JCAR017) as Second-Line Therapy in Adult Patients With Aggressive B-cell NHL (017006)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-07-27",
+      "completion_date": "2022-12-01",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "This is a Phase 2, open-label, multicenter study to determine the efficacy and safety of lisocabtagene maraleucel (JCAR017) in adult subjects who have relapsed from, or are refractory to, a single line of immunochemotherapy for aggressive B-cell non-Hodgkin lymphoma (NHL) and are ineligible for hematopoietic stem cell transplant (based on age, performance status, and/or comorbidities). Subjects will receive treatment with lisocabtagene maraleucel and will be followed for 2 years for safety, phar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmation of relapsed or refractory aggressive B-cell non-Hodgkin lymphoma of the following histology at relapse: diffuse large B-cell lymphoma (DLBCL), not otherwise specified (NOS; de novo or transformed follicular lymphoma \\[tFL\\]), high-grade B-cell lymphoma with MYC an",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Juno Therapeutics, a Subsidiary of Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT03483103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05367427",
+      "title": "Clinical Trial to Evaluate the Effect of Regular Consumption of a Heath-treated Postbiotic on the Improvement of Symptoms in People With Mild to Moderate Gastrointestinal Disorders Not Associated With Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-02-01",
+      "completion_date": "2022-10-31",
+      "country": "Spain",
+      "enrollment": 60,
+      "brief_summary": "The use of probiotics is a widespread clinical practice to improve the composition of the microbiota in healthy and pathological patients. However, in recent years, postbiotics have begun to be used that can exert a certain anti-inflammatory effect at the intestinal level. Among them, Bifidobacterium longum (CECT 7347) has been used in various clinical trials with promising results. It has immunoregulatory properties and an excellent ability to attenuate the activity of epithelial cells at the i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who obtain a score between 13 and 39 points with diarrhea predominance in the Gastrointestinal Symptoms Rating Scale (GSRS-IBS) corresponding to the last week.\n* Men and women between 18 and 65 years old.\n* Absence of a family or social environment that prevents compl",
+      "endpoints": [
+        "Occurrence of gastrointestinal symptoms"
+      ],
+      "sponsor": "Instituto de Investigación Hospital Universitario La Paz",
+      "url": "https://clinicaltrials.gov/study/NCT05367427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03499353",
+      "title": "A PHASE 2, NON RANDOMIZED, OPEN LABEL, SINGLE ARM, MULTI CENTER STUDY OF TALAZOPARIB FOR NEOADJUVANT TREATMENT OF GERMLINE BRCA1/2 MUTATION PATIENTS WITH EARLY HUMAN EPIDERMAL GROWTH FACTOR RECEPTOR 2 NEGATIVE BREAST CANCER",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2018-08-27",
+      "completion_date": "2020-09-23",
+      "country": "United States",
+      "enrollment": 61,
+      "brief_summary": "A PHASE 2, NON RANDOMIZED, OPEN LABEL, SINGLE ARM, MULTI CENTER STUDY OF TALAZOPARIB FOR NEOADJUVANT TREATMENT OF GERMLINE BRCA1/2 MUTATION PATIENTS WITH EARLY HUMAN EPIDERMAL GROWTH FACTOR RECEPTOR 2 NEGATIVE BREAST CANCER",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Germline BRCA 1/2 Mutation Positive\n* Women and men at least 18 years of age or older.\n* Histologically confirmed invasive adenocarcinoma of the breast\n* HER2 negative breast cancer as defined by ASCO-CAP criteria\n* Tumor greater than or equal toT1, N0-3\n* No evidence of dista",
+      "endpoints": [
+        "Percentage of Participants Achieving Pathological Complete Response (pCR) as Per Independent Central Review (ICR) in Evaluable Analysis Set as Per ICR With 80% Confidence Interval (CI)",
+        "Percentage of Participants Achieving pCR as Per ICR in Evaluable Analysis Set as Per ICR With 95% CI"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03499353"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01850524",
+      "title": "A Phase 3, Randomized, Double-Blind, Multicenter Study Comparing Oral MLN9708 Plus Lenalidomide and Dexamethasone Versus Placebo Plus Lenalidomide and Dexamethasone in Adult Patients With Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-04-29",
+      "completion_date": "2022-06-24",
+      "country": "South Korea, France, Russia, New Zealand, Canada, Belgium, United States",
+      "enrollment": 705,
+      "brief_summary": "The purpose of this study is to provide continued access to ixazomib and/or lenalidomide to participants who are continuing to have clinical benefit and to continue collecting relevant safety data to monitor safety in participants with Newly Diagnosed Multiple Myeloma (NDMM) who are not eligible for stem cell transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants 18 years or older diagnosed with Multiple Myeloma according to standard criteria who have not received prior treatment for multiple myeloma.\n2. Participants for whom lenalidomide and dexamethasone treatment is appropriate and who are not eligible f",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01850524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04165317",
+      "title": "A Phase 3, Multinational, Randomized, Open-Label, Three Parallel-Arm Study of PF-06801591, an Anti-PD-1 Antibody, in Combination With Bacillus Calmette-Guerin (BCG Induction With or Without BCG Maintenance) Versus BCG (Induction and Maintenance) in Participants With High-Risk, BCG-Naïve Non-Muscle Invasive Bladder Cancer or PF-06801591 as a Single Agent in Participants With BCG-Unresponsive NMIBC",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-12-30",
+      "completion_date": "2026-12-02",
+      "country": "South Korea, France, Spain, Russia, Italy, Germany, Australia, China, United Kingdom, Poland, Canada, Japan, Belgium, United States",
+      "enrollment": 1068,
+      "brief_summary": "The purpose of this study is to learn about the safety and effects of the study medicine (sasanlimab) in people with non-muscle invasive bladder cancer. This study is seeking participants whose bladder cancer is still in early stages, has not spread outside of the bladder, has been removed with surgery, and is high risk (Part A) or was previously treated with BCG (Bacillus Calmette Guerin), a standard treatment for bladder cancer (Part B).\n\nIn Part A (enrollment closed), each participant was ass",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological confirmed diagnosis of high risk non-muscle invasive transitional cell carcinoma (TCC) of the urothelium of the urinary bladder (tumors of mixed transitional/non-transitional cell histology are allowed, but TCC must be the predominant histology)\n* Complete resecti",
+      "endpoints": [
+        "Cohort A: Event Free Survival (EFS) as Assessed by the Investigator: Arm A Versus Arm C"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT04165317"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01012167",
+      "title": "Oxytocin or Galantamine vs. Placebo for the Treatment of Negative Symptoms and Cognitive Impairments in Schizophrenia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2014-07",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "The project is designed to address the following two primary aims:\n\n1. To determine whether adjunctive oxytocin is superior to placebo for the treatment of persistent negative symptoms, as measured by the SANS total score, in people with schizophrenia.\n2. To determine whether adjunctive Galantamine is superior to placebo for the treatment of cognitive impairments, as measured by improvement on a composite neurocognitive score in people with schizophrenia.\n\nThe investigators will also address the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any race\n* Subjects will meet DSM-IV criteria for schizophrenia or schizoaffective disorder\n* Judged clinically stable and will not exceed threshold levels of positive, depressive, and/or extrapyramidal symptoms\n* The minimum level of negative symptoms will be defined as follo",
+      "endpoints": [
+        "Scale for the Assessment of Negative Symptoms (SANS) Total Score",
+        "Mean Z-Scores for Composite Cognitive Primary Outcome* by Treatment Group and Week"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT01012167"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02227238",
+      "title": "A Phase 3b, Randomized, Open-label Study of the Antiviral Activity and Safety of Dolutegravir Compared to Lopinavir/Ritonavir Both Administered With Dual Nucleoside Reverse Transcriptase Inhibitor Therapy in HIV-1 Infected Adult Subjects With Treatment Failure on First Line Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-12-11",
+      "completion_date": "2022-02-14",
+      "country": "Brazil, Chile, Mexico, South Africa, Russia, Ukraine, China, Peru, Romania, Thailand, Colombia, Argentina, Kenya",
+      "enrollment": 627,
+      "brief_summary": "For treatment of human immunodeficiency virus type 1(HIV-1), publicly funded programmes tend to follow World Health Organization (WHO) guidelines to use a non-nucleoside reverse transcriptase inhibitor (NNRTI) combined with two nucleoside reverse transcriptase inhibitors (NRTIs) for first-line antiretroviral therapy (ART); however, there is a need for further data on the best treatment options for people with HIV-1 who have virological failure with this first-line regimen. The number of patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected subjects \\>=18 years of age.\n* A female subject may be eligible to enter and participate in the study if she:\n\nis of non-childbearing potential defined as either post-menopausal (12 months of spontaneous amenorrhea and \\>=45 years of age) or physically incapable",
+      "endpoints": [
+        "Percentage of Participants With Plasma HIV-1 Ribonucleic Acid (RNA) <50 Copies Per Milliliter (c/mL) at Week 48"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT02227238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04138004",
+      "title": "Comparison of Colon Preparation With 2-Litre Polyethylene Glycol (PEG) Split-dose in Combination With Lubiprostone Versus 4-Litre Polyethylene Glycol (PEG) Split-dose: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-12-01",
+      "completion_date": "2021-07-30",
+      "country": "Thailand",
+      "enrollment": 140,
+      "brief_summary": "Colonoscopy is the current standard method for examination of the colon. Bowel cleansing prior to colonoscopy is the essential prerequisite to ensure complete mucosal visualization and lesion identification.(1,2) Suboptimal preparations are associated with missed diagnoses, longer procedure times and increased costs related to the repeat procedures and shortened intervals between procedures.(3-5) Inadequate preparations have been noted in around 25 % cases in the US.(4,6) This has been attribute",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients between the age of 18 and 75 years with an appropriate indication for elective colonoscopy were considered eligible.\n\nExclusion Criteria:\n\n* We excluded patients who (i) suspected gastroparesis, gastric outlet or bowel obstruction; (ii) had a previous history of a",
+      "endpoints": [
+        "the degree of colon cleansing"
+      ],
+      "sponsor": "Department of Medical Services Ministry of Public Health of Thailand",
+      "url": "https://clinicaltrials.gov/study/NCT04138004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05339139",
+      "title": "An Open-label, Prospective, Multicenter Study to Assess the SAfety of Regional Citrate Anticoagulation Delivered by the multiFiltratePRO System in Adult Patients Requiring Continuous Renal Replacement Therapy (SARCA Study)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-10-17",
+      "completion_date": "2025-07-31",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This is an Open-label, Prospective, Multicenter Study to Assess the SAfety of Regional Citrate Anticoagulation Delivered by the multiFiltratePRO system in Adult Patients Requiring Continuous Renal Replacement Therapy (SARCA Study).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed informed consent form by\n\n   * The subject or\n   * A legally authorized representative (LAR), if the subject is unable to consent\n2. Adult patients ≥ 18 years old\n3. Diagnosis of AKI or End-Stage Kidney Disease (ESKD) requiring CRRT\n4. Vascular access - Dialysis Cathet",
+      "endpoints": [
+        "Symptoms and systemic ionized calcium level",
+        "Arterial pH measure and bicarbonate level",
+        "Serum sodium (Na) level"
+      ],
+      "sponsor": "Fresenius Medical Care North America",
+      "url": "https://clinicaltrials.gov/study/NCT05339139"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02489344",
+      "title": "An Open-label, Multicenter, Multinational Extension Study of the Long-term Safety, Pharmacodynamics, and Exploratory Efficacy of GZ/SAR402671 in Adult Male Patients Diagnosed With Fabry Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-07-07",
+      "completion_date": "2018-11-20",
+      "country": "France, Russia, United Kingdom, Poland, United States",
+      "enrollment": 8,
+      "brief_summary": "Primary Objective:\n\nTo assess the long-term safety of GZ/SAR402671 in adult male participants with Fabry disease who previously completed study ACT13739 (NCT02489344).\n\nSecondary Objective:\n\nTo assess the long-term effect of GZ/SAR402671 on pharmacodynamic and exploratory efficacy endpoints in adult male participants with Fabry disease who previously completed study ACT13739.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Male participant with Fabry disease who previously completed study ACT13739.\n* Participants, willing and able to provide signed informed consent.\n* Sexually active participants, willing to practice true abstinence in line with their preferred and usual lifestyle or using two ",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs)",
+        "Number of Participants With Potentially Clinically Significant Laboratory Abnormalities: Hematological Parameters",
+        "Number of Participants With Potentially Clinically Significant Laboratory Abnormalities: Electrolytes"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02489344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05648318",
+      "title": "1L Oral Lactulose is an Effective Regimen for Bowel Preparation in Low-risk Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-08",
+      "completion_date": "2022-09-12",
+      "country": "China",
+      "enrollment": 255,
+      "brief_summary": "Adequate quality of bowel preparation(BP) is essential for colonoscopy. In recently, Kang suggested that for low-risk patients, single dose of 2L PEG is an effective regimen for bowel preparation.However, due to the poor palatability, there still more than 30% patients with 2L regimen experienced nausea or vomiting in our center.\n\nOral lactulose is a treatment for constipation. Several studies have compared the effectiveness between use PEG and lactulose for colonoscopy preparation in average-ri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over 18 years old and with low-risk were eligible. Patients were considered as low risk if they did not meet any of the following risk factors: age\\>70 years old, body mass index (BMI)\\>25Kg/m2, constipation, Parkinson's disease, diabetes, history of stroke or spinal ",
+      "endpoints": [
+        "Bowel preparation"
+      ],
+      "sponsor": "First People's Hospital of Hangzhou",
+      "url": "https://clinicaltrials.gov/study/NCT05648318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01997749",
+      "title": "The Effect of a Ketogenic Diet on Blood Glucose, Function and Disease Progress in Acute Stroke Patients",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2014-02",
+      "country": "Denmark",
+      "enrollment": 64,
+      "brief_summary": "The purpose of this controlled, randomized intervention is to investigate whether a fat-based (ketogenic) diet given for a week has a positive effect on blood sugar, mortality and function in patients hospitalized with acute stroke compared to the effect of a usual diet.\n\nThe study hypothesis is that a ketogenic diet and reduced availability of glucose to the brain cells will reduce the volume of neuronal damage in the brain and improve function.\n\nThe intervention will take place at the neurolog",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with ischemic or hemorrhagic stroke.\n* NIHSS score of at least 5.\n* Both primary and recurrent cases.\n* Inclusion as early as possible, but no later than 72 hours from symptom onset.\n* Patients with expected hospitalization for a minimum of seven days.\n* Adult patient",
+      "endpoints": [
+        "Change from baseline NIHSS (national institute of health stroke scale) at 90 days",
+        "Change from baseline fasting blood sugar at 7 days",
+        "Change from baseline p-C-peptide at 7 days"
+      ],
+      "sponsor": "University of Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT01997749"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04773392",
+      "title": "SIMPLE Study: A Prospective and Randomized Trial of a Simplified Immunosuppressive Protocol Utilizing Low Dose EnvarsusXR",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2021-11-23",
+      "completion_date": "2024-02-23",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to determine if the combination of once-daily tacrolimus extended-release (EnvarsusXR) and Azathioprine is non inferior with respect to the composite outcome of acute rejection, graft and patient survival as compared to a combination of twice-daily immediate release tacrolimus and mycophenolate mofetil/mycophenolic acid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* De- Novo Kidney transplant patients between 18 and 85 years old\n* Cold ischemia time (CIT) \\< 24 hours for 3-6 HLA mismatches between donor and recipient and CIT \\>24 hours for HLA mismatch of less than 3 between donor and recipient\n* Most recent pre-transplant cPRA (calculate",
+      "endpoints": [
+        "To compare the composite incidence of biopsy proven acute rejection, graft survival and patient survival",
+        "To compare the composite incidence of biopsy proven acute rejection, graft survival and patient survival",
+        "To compare the composite incidence of biopsy proven acute rejection, graft survival and patient survival"
+      ],
+      "sponsor": "University of Southern California",
+      "url": "https://clinicaltrials.gov/study/NCT04773392"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00545129",
+      "title": "PHASE II RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED MULTICENTER EFFICACY AND SAFETY STUDY OF TANEZUMAB AS ADD-ON THERAPY TO OPIOID MEDICATION IN PATIENTS WITH PAIN DUE TO BONE METASTASES",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-04-29",
+      "completion_date": "2012-02-07",
+      "country": "South Korea, France, Bosnia and Herzegovina, Croatia, Mexico, India, Austria, Hungary, Slovakia, Latvia, Peru, Poland, United States",
+      "enrollment": 59,
+      "brief_summary": "The purpose of this study is to investigate the safety and efficacy of tanezumab in combination with opioids in treating pain due to cancer that has spread to bone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prostate cancer, breast cancer, renal cell carcinoma or multiple myeloma that has spread to bone, causing moderate to severe bone pain.\n* Requires daily opioid medication\n\nExclusion Criteria:\n\n* Patients who do not have bone pain caused by cancer are not eligible for the study",
+      "endpoints": [
+        "Change From Baseline in Daily Average Pain Intensity Numeric Rating Scale (NRS) Score at Week 6"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00545129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01965990",
+      "title": "A 2-week Course of Enteral Treatment With a Very Low-calorie Protein-based Formula for the Management of Severe Obesity",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2013-02",
+      "country": "Italy",
+      "enrollment": 364,
+      "brief_summary": "Body weight excess, from overweight to overt obesity, is associated with adverse health outcomes. In view of the time-trends of the obesity epidemic and the related cost burden, the search for effective strategies for weight reduction and long-term maintenance of weight loss (WL) is at the top of the agenda of public health systems.\n\nThe current first-line strategy includes several treatment options and dietary interventions to be implemented together with an exercise program. Unfortunately, com",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>=18 years\n* severe obesity (body mass index \\[BMI\\] \\>=40 kg/m2)\n* history of multiple failures in weight loss programs\n\nExclusion Criteria:\n\n* age \\>=70 years\n* insulin-dependent diabetes mellitus\n* a psychiatric disorder\n* previous (\\<1 year since last chemo- or radiot",
+      "endpoints": [
+        "Weight loss",
+        "Feasibility",
+        "Safety"
+      ],
+      "sponsor": "San Giuseppe Moscati Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01965990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02916745",
+      "title": "Multicenter, Prospective, OL, Single-arm Clinical Study of Safety & Feasibility of Using Navigational Bronchoscopy to Perform Interstitial PD Therapy Using Photofrin® as Treatment in Subjects With Unresectable Solid Tumor in Peripheral Lung",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-01-26",
+      "completion_date": "2019-04-12",
+      "country": "Canada, United States",
+      "enrollment": 5,
+      "brief_summary": "This research study is being conducted to assess the safety and feasibility of using a new developed bronchoscopic technology called electronavigational bronchoscopy to treat subjects with solid tumor in peripheral lung, who are inoperable or refused surgery. It will involve 10 sites in USA and Canada. Participation will last 6 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 18 or older\n* Diagnosed with histologically confirmed solid tumor located in the peripheral lung\n* Not candidate for curative surgery, is unfit for surgery, or does not wish to undergo curative surgery\n* May be candidate for, have failed, or does not wish t",
+      "endpoints": [
+        "Feasibility to Perform Interstitial-Photodynamic Therapy (i-PDT) Into Tumor",
+        "Adverse Events Incidence Indicating Safety of Navigational Bronchoscopy-interstitial-Photodynamic Therapy (i-PDT)"
+      ],
+      "sponsor": "Concordia Laboratories Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02916745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05340712",
+      "title": "Evaluation of the Efficacy of a New Specific Infant Formula With a Prebiotic and Probiotics in Case of Functional Constipation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-07-20",
+      "completion_date": "2024-09",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "This study aims to assess the clinical efficacy, safety and tolerance of a new formula containing a prebiotic and a mix of probiotics in the specific population of infants suffering from functional constipation through a superiority, double-blind, randomized, placebo-controlled trial.",
+      "eligibility_criteria": "Selection Criteria:\n\nInfants presenting with constipation according to modified Rome IV criteria, i.e. they must present with 1 month the following:\n\n* Infants without spontaneous stools or with at least one painful or hard spontaneous bowel movement per week AND\n* At least one of the following:\n\n  ",
+      "endpoints": [
+        "Hard stool consistency or painful defecation"
+      ],
+      "sponsor": "United Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT05340712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00817934",
+      "title": "Phase III of the AB Prep Safety and Efficacy in Colon Cleansing",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2009-01",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this study is determine if the AB Prep (a 16 tablets colon cleansing prep), is an effective, and safe colon cleansing prep in preparation for colonoscopy, and severe constipation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any eligible patient for colonoscopy\n\nExclusion Criteria:\n\n* Patients with renal failure",
+      "endpoints": [
+        "TOTAL COLON CLEANSING, TO BE ABLE TO PERFORM COLONOSCOPY"
+      ],
+      "sponsor": "Long Neck Medical Enterprises",
+      "url": "https://clinicaltrials.gov/study/NCT00817934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01725126",
+      "title": "A Double-blind [Sponsor Unblinded], Randomized, Placebo-controlled, Staggered-parallel Study to Investigate the Safety, Tolerability, and Pharmacodynamics of GSK2890457 in Healthy Volunteers and Subjects With Type 2 Diabetes",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-02-10",
+      "completion_date": "2013-09-12",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "This study is the first administration of GSK2890457 in humans. The study will be conducted in 3 parts: - Part A (conducted at a single investigative site) will determine the safety and tolerability of GSK2890457 alone in healthy subjects during six weeks of dosing, as well as evaluating the potential for a pharmacokinetic interaction with metformin. Part A consists of Screening, Treatment (6 weeks) and Follow-up periods. - Part B (conducted at multiple sites) will determine safety, tolerability",
+      "eligibility_criteria": "Inclusion Criteria:Part A (Healthy Subjects)\n\n* Subject able to understand and voluntarily provide the consent to participate in the study\n* 18 - 70 years of age, inclusive, at the time of signing the informed consent and Body Mass Index (BMI) between 18.0 and 35.0 Kilogram (kg) per m\\^2, inclusive\n",
+      "endpoints": [
+        "Number of Participants With Any Adverse Event (AE), Serious Adverse Event (SAE) or Death During Part A",
+        "Number of Participants With Any AE, SAE or Death During Part B and Part C",
+        "Number of Participants With Any Hypoglycemic Events During Part A"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01725126"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05050110",
+      "title": "Evaluation of Increased Fruits and Vegetables Consumption in Chronic Kidney Disease Patients Maintaining Normokalemia With Patiromer",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-11-24",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "This study aims to investigate the feasibility of increasing dietary consumption of a rich variety of fruits and vegetables (including those that are potassim-rich) in patients with chronic kidney disease through use of nutritional counselling and hyperkalemia management with patiromer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients ≥ 18 years of age with chronic kidney disease and hyperkalemia\n2. Chronic kidney disease is defined as eGFR 15-44ml/min/1.73m2\n3. Documented hyperkalemia which is defined as serum potassium ≥ 5.0 mmol/L during the last 90 days\n4. Diet evaluation for hyperkalemi",
+      "endpoints": [
+        "By increasing the consumption of Fruits and Vegetable in their daily diet using the Nutritional Fruits and Vegetable Diary based off of the USDA Nutritive Value of foods and completing the Quality of Life Nutritional Questionnaire."
+      ],
+      "sponsor": "NY Health d/b/a New York Cancer and Blood Specialists",
+      "url": "https://clinicaltrials.gov/study/NCT05050110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05726344",
+      "title": "Lactulose vs. Polyethylene Glycol as Bowel Preparation for Colonoscopy in Adults",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-02-10",
+      "completion_date": "2023-12-13",
+      "country": "Uruguay",
+      "enrollment": 150,
+      "brief_summary": "Colonoscopy is the gold standard in bowel assessment when there is suspicion of colon and rectum pathology. Bowel cleansing is necessary to ensure an optimal visualization of colonic mucosa, allowing this form of detection and removal of polyps. Nowadays international recommendations have multiple bowel preparations. There are differences among them regarding adherence, tolerance and adverse effects. Lactulose (LAC) is widely used in treating constipation. However, there are some randomized clin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Patients over 18 years with no bowel surgical procedures\n\nExclusion Criteria:\n\n* Patients willingly deciding not to enter into the study\n* Pregnant women\n* Patient with colonic resections and/or ileostomies\n* Inflammatory bowel disease\n* Colonic optimization by prior colonosc",
+      "endpoints": [
+        "Compare lactulose vs. Polyethylene Glycol as bowel cleansing preparation for colonoscopy",
+        "Establish Boston Bowel Preparation Scale inter and intra-observer variability"
+      ],
+      "sponsor": "Hospital de Clínicas Dr. Manuel Quintela",
+      "url": "https://clinicaltrials.gov/study/NCT05726344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06932042",
+      "title": "Plant Dominant Low-protein Diet for Conservative Management of Chronic Kidney Disease: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-05-28",
+      "completion_date": "2026-06-30",
+      "country": "Lebanon",
+      "enrollment": 48,
+      "brief_summary": "The goal of this clinical trial is to learn if a plant-dominant low protein diet, referred to as PLADO diet, works to decrease metabolic acidosis, a major risk factor for chronic kidney disease (CKD) progression, in adults with CKD. It will also learn about the safety, viability, and economic attractiveness of this diet.\n\nThe main questions it aims to answer are:\n\n* Is the PLADO diet more effective in managing metabolic acidosis in comparison with the standard-of-care CKD diet in adults with CKD",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18 years and above, having controlled glycemic and blood pressure parameters on treatment, with an established diagnosis of stages 3-5 CKD and an estimated GFR ≤59 ml/min/1.73 m2 stable for at least three months, and with a normal nutritional status as defined by",
+      "endpoints": [
+        "Metabolic acidosis assessed by PTCO2"
+      ],
+      "sponsor": "Lebanese American University",
+      "url": "https://clinicaltrials.gov/study/NCT06932042"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04751669",
+      "title": "Efficacy of Micronutrient Dietary Supplementation in Reducing Hospital Admissions for COVID-19: A Double-blind, Placebo-controlled, Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-08-09",
+      "completion_date": "2023-10-26",
+      "country": "Spain",
+      "enrollment": 252,
+      "brief_summary": "A double-blind, placebo-controlled, randomized clinical trial to assess efficacy of micronutrient dietary supplementation in reducing hospital admissions for COVID-19 and incidence of Long Covid.\n\nWe want to assess the need for hospital admission for severe acute respiratory syndrome Corona Virus-2 (SARS-CoV-2) infection in outpatients diagnosed of COVID-19 disease, taking a micronutrient supplementation for 14 days. The outcome Will be measured within 1 month after beginning the study treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Informed Consent Form signed.\n2. Patients with symptoms compatible with COVID-19: cough and fever who not fulfil criteria of hospitalization and will be in outpatient care.\n3. Positive polymerase chain reaction (PCR) or transcription-mediated amplification (TMA) test or rapid",
+      "endpoints": [
+        "Need for hospital admission",
+        "Incidence of Long Covid."
+      ],
+      "sponsor": "Fundació Institut Germans Trias i Pujol",
+      "url": "https://clinicaltrials.gov/study/NCT04751669"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02202161",
+      "title": "A Randomized, Placebo Controlled, Repeat Dose, Double Blind (Sponsor Unblind) Study Investigating Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of GSK2330672 Administered With Metformin to Type 2 Diabetes Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-08-27",
+      "completion_date": "2015-01-30",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "This study is being conducted to evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamics of GSK2330672 compared to sitagliptin when administered with metformin for 14 days to subjects with type 2 diabetes mellitus (T2DM). Approximately 72 male and female subjects aged 30-64 years with T2DM and currently taking metformin will be recruited for this study. Eligible subjects will begin a run-in period of 13-15 days to stabilize on metformin 850 milligram (mg) twice a day (BID). Sub",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between 30 and 64 years of age inclusive, at the time of signing the informed consent\n* Subjects with a diagnosis of T2DM for at least 3 months prior to screening, taking metformin for at least 4 weeks prior to screening, taking a metformin daily dose of\\>= 1000",
+      "endpoints": [
+        "Change From Baseline in Derived Plasma Glucose Parameter Over a 24-hour Period-fasting and Weighted Mean Glucose Area Under Curve (AUC[0-24 Hour])",
+        "Number of Participants With Incidence and Nature of Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Number of Participants With Abnormal Hematology With Potential Clinical Concern (PCI)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02202161"
+    }
+  ],
+  "timestamp": "2026-03-04T15:59:10.415518",
+  "success": true,
+  "error_message": null
+}

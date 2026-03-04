@@ -1,0 +1,548 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "dermatitis",
+    "query_string": "Lidocaine AND dermatitis"
+  },
+  "data": {
+    "query": "Lidocaine AND dermatitis",
+    "results": [
+      {
+        "pmid": "36521846",
+        "title": "Lidocaine alleviates inflammation and pruritus in atopic dermatitis by blocking different population of sensory neurons.",
+        "abstract": "Atopic dermatitis is a common chronic pruritic inflammatory disease of the skin involving neuro-immune communication. Neuronal mechanism-based therapeutic treatments remain lacking. We investigated the efficacy of intravenous lidocaine therapy on atopic dermatitis and the underlying neuro-immune mechanism.",
+        "journal": "British journal of pharmacology",
+        "year": "2023",
+        "authors": [
+          "Sun Pei-Yi",
+          "Li Hua-Guo",
+          "Xu Qian-Yue",
+          "Zhang Zhen",
+          "Chen Jia-Wen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Mice",
+          "Animals",
+          "Dermatitis, Atopic",
+          "Pruritus",
+          "Skin",
+          "Inflammation",
+          "Sensory Receptor Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36521846/"
+      },
+      {
+        "pmid": "38809527",
+        "title": "Chronic Pruritus: A Review.",
+        "abstract": "Chronic pruritus, defined as itch experienced for 6 weeks or longer, affects approximately 22% of people in their lifetime. Approximately 1% of physician visits are for the chief concern of chronic pruritus. Chronic pruritus is associated with adverse outcomes, including impaired sleep and reduced quality of life.",
+        "journal": "JAMA",
+        "year": "2024",
+        "authors": [
+          "Butler Daniel C",
+          "Berger Timothy",
+          "Elmariah Sarina",
+          "Kim Brian",
+          "Chisolm Sarah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Chronic Disease",
+          "Pruritus",
+          "Antipruritics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38809527/"
+      },
+      {
+        "pmid": "33470011",
+        "title": "Treatment of the feline atopic syndrome - a systematic review.",
+        "abstract": "Feline allergic skin disease and asthma occur regularly in small animal practice.",
+        "journal": "Veterinary dermatology",
+        "year": "2021",
+        "authors": [
+          "Mueller Ralf S",
+          "Nuttall Tim",
+          "Prost Christine",
+          "Schulz Bianka",
+          "Bizikova Petra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Allergens",
+          "Animals",
+          "Cat Diseases",
+          "Cats",
+          "Cyclosporine",
+          "Dermatitis, Atopic",
+          "Desensitization, Immunologic",
+          "Glucocorticoids",
+          "Immunotherapy",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33470011/"
+      },
+      {
+        "pmid": "38934159",
+        "title": "Allergic Contact Dermatitis to Lidocaine and Sodium Metabisulfite.",
+        "abstract": "",
+        "journal": "Dermatitis : contact, atopic, occupational, drug",
+        "year": "2025",
+        "authors": [
+          "Hoyos Camila N Fontane",
+          "Jessup Chad J",
+          "Goldminz Ari M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38934159/"
+      },
+      {
+        "pmid": "30145645",
+        "title": "Contact Dermatitis to Medications and Skin Products.",
+        "abstract": "Consumer products and topical medications today contain many allergens that can cause a reaction on the skin known as allergic contact dermatitis. This review looks at various allergens in these products and reports current allergic contact dermatitis incidence and trends in North America, Europe, and Asia. First, medication contact allergy to corticosteroids will be discussed along with its five structural classes (A, B, C, D1, D2) and their steroid test compounds (tixocortol-21-pivalate, triamcinolone acetonide, budesonide, clobetasol-17-propionate, hydrocortisone-17-butyrate). Cross-reactivities between the steroid classes will also be examined. Next, estrogen and testosterone transdermal therapeutic systems, local anesthetic (benzocaine, lidocaine, pramoxine, dyclonine) antihistamines (piperazine, ethanolamine, propylamine, phenothiazine, piperidine, and pyrrolidine), topical antibiotics (neomycin, spectinomycin, bacitracin, mupirocin), and sunscreen are evaluated for their potenti",
+        "journal": "Clinical reviews in allergy & immunology",
+        "year": "2019",
+        "authors": [
+          "Nguyen Henry L",
+          "Yiannias James A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Allergens",
+          "Animals",
+          "Cosmetics",
+          "Dermatitis, Allergic Contact",
+          "Drug Hypersensitivity",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30145645/"
+      },
+      {
+        "pmid": "34710629",
+        "title": "Predictors of Acute Radiation Dermatitis and Esophagitis in African American Patients Receiving Whole-Breast Radiation Therapy.",
+        "abstract": "Adjuvant whole breast radiation therapy after breast-conserving surgery is the standard of care in the management of early-stage breast cancer. Two of the most common acute toxicities of breast radiation therapy are radiation esophagitis (RE) and radiation dermatitis (RD). African American individuals are at higher risk for experiencing treatment-related toxic effects and are often underrepresented in clinical trials.",
+        "journal": "Practical radiation oncology",
+        "year": "2022",
+        "authors": [
+          "Dzul Stephen",
+          "Ninia James",
+          "Jang Hyejeong",
+          "Kim Seongho",
+          "Dominello Michael"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Black or African American",
+          "Breast",
+          "Breast Neoplasms",
+          "Esophagitis",
+          "Female",
+          "Humans",
+          "Mastectomy, Segmental",
+          "Radiodermatitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34710629/"
+      },
+      {
+        "pmid": "23278914",
+        "title": "Serum lidocaine levels and cutaneous side effects after application of 23% lidocaine 7% tetracaine ointment to the face.",
+        "abstract": "Few published studies have analyzed serum lidocaine levels and individual patient characteristics affecting metabolism after application of compounded topical anesthetics.",
+        "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+        "year": "2013",
+        "authors": [
+          "McCleskey Patrick E",
+          "Patel Seema M",
+          "Mansalis Katherine A",
+          "Elam Amanda L",
+          "Kinsley Tina R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anesthetics, Local",
+          "Body Surface Area",
+          "Dermatitis, Contact",
+          "Drug Combinations",
+          "Drug Eruptions",
+          "Face",
+          "Female",
+          "Humans",
+          "Hyperpigmentation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23278914/"
+      },
+      {
+        "pmid": "41046125",
+        "title": "Basic mechanisms of itch and advances in clinical management.",
+        "abstract": "Chronic pruritus requires comprehensive assessment and management due to its profound impact on quality of life. The etiologies of pruritus are diverse, encompassing dermatologic, neuropathic, systemic, psychogenic, and mixed causes. Pruritogens activate C and Aδ fibers through histaminergic and non-histaminergic pathways. Increasing evidence highlights the role of TH2 cytokines, particularly interleukin (IL)-4, IL-13, and IL-31, which directly stimulate sensory neurons and perpetuate the itch-scratch cycle. Itch perception arises from dynamic interactions between the immune system and the peripheral and central nervous systems. Signals transmitted by sensory fibers are processed in the dorsal horn and relayed to thalamic and cortical centers, reinforcing chronicity. Diagnostic evaluation begins with detailed history and examination, complemented by laboratory testing such as complete blood cell count, kidney, liver, glucose, and thyroid function tests to uncover systemic or neurologic",
+        "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+        "year": "2026",
+        "authors": [
+          "Coscarella Giulia",
+          "Edwards Elise",
+          "Yosipovitch Gil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pruritus",
+          "Animals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41046125/"
+      },
+      {
+        "pmid": "17244876",
+        "title": "Lamotrigine-induced Stevens-Johnson syndrome.",
+        "abstract": "A case of lamotrigine-induced Stevens-Johnson syndrome (SJS) is reported.",
+        "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+        "year": "2007",
+        "authors": [
+          "Hilas Olga",
+          "Charneski Lisa"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "New York City",
+          "Stevens-Johnson Syndrome",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17244876/"
+      },
+      {
+        "pmid": "21226720",
+        "title": "Prevalence of benzocaine and lidocaine patch test sensitivity in Denmark: temporal trends and relevance.",
+        "abstract": "BACKGROUND. Allergens included in the European baseline series should result in positive patch test reactions in at least 1% of a patch test population. Inclusion of local anaesthetics other than benzocaine in the baseline series has previously been debated.",
+        "journal": "Contact dermatitis",
+        "year": "2011",
+        "authors": [
+          "Thyssen Jacob P",
+          "Engkilde Kåre",
+          "Menné Torkil",
+          "Johansen Jeanne D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anesthetics, Local",
+          "Benzocaine",
+          "Causality",
+          "Denmark",
+          "Dermatitis, Allergic Contact",
+          "Forecasting",
+          "Humans",
+          "Lidocaine",
+          "Patch Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21226720/"
+      },
+      {
+        "pmid": "2563603",
+        "title": "Absorption of lidocaine and prilocaine after application of a eutectic mixture of local anesthetics (EMLA) on normal and diseased skin.",
+        "abstract": "A eutectic mixture of 5% lidocaine and prilocaine was applied under occlusion for 1 or 2 hours on 25-100 cm2 areas of normal and diseased skin, and the absorption was followed by measuring the concentrations of the drugs in the draining vein and the general circulation at different time intervals after the application. The analgesic and vascular effects in the skin were also recorded. When the mixture was applied on normal skin the absorption was more rapid from the face than from the forearm. The absorption from diseased skin was faster than that from normal skin, with higher plasma concentrations, and a more rapid but shorter anesthetic effect was noted. With the doses used the plasma levels in the general circulation were 100 times lower than those associated with toxicity. The drug concentrations in the draining vein were highest after treatment of diseased skin and were 2-90 times higher than in the general circulation. The plasma concentrations of lidocaine and prilocaine ran par",
+        "journal": "Acta dermato-venereologica",
+        "year": "1989",
+        "authors": [
+          "Juhlin L",
+          "Hägglund G",
+          "Evers H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anesthetics, Local",
+          "Dermatitis, Atopic",
+          "Dermatitis, Contact",
+          "Drug Combinations",
+          "Face",
+          "Female",
+          "Forearm",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2563603/"
+      },
+      {
+        "pmid": "16487290",
+        "title": "Contact urticaria and allergic contact dermatitis to lidocaine in a patient sensitive to benzocaine and propolis.",
+        "abstract": "",
+        "journal": "Contact dermatitis",
+        "year": "2006",
+        "authors": [
+          "Jovanović Marina",
+          "Karadaglić Doroije",
+          "Brkić Silvija"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Allergens",
+          "Benzocaine",
+          "Dermatitis, Allergic Contact",
+          "Diagnosis, Differential",
+          "Female",
+          "Hemorrhoids",
+          "Humans",
+          "Lidocaine",
+          "Middle Aged",
+          "Patch Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16487290/"
+      },
+      {
+        "pmid": "29551371",
+        "title": "A novel technique using lidocaine 2% topical gel for peristomal dermatitis.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2023",
+        "authors": [
+          "Neill Brett C",
+          "Favata Mary E",
+          "Neill John A",
+          "Rajpara Anand",
+          "Aires Daniel J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Dermatitis",
+          "Surgical Stomas",
+          "Lidocaine",
+          "Anesthetics, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29551371/"
+      },
+      {
+        "pmid": "27397059",
+        "title": "Seizures and Methemoglobinemia After Topical Application of Eutectic Mixture of Lidocaine and Prilocaine on a 3.5-Year-Old Child with Molluscum Contagiosum and Atopic Dermatitis.",
+        "abstract": "A eutectic mixture of lidocaine and prilocaine (EMLA) is used topically to provide local anesthesia for a variety of painful superficial procedures. Although the side effects of EMLA are usually mild and transient local reactions, potentially life-threatening complications can occur. We report a case of generalized seizures and methemoglobinemia after topical application of EMLA for curettage of molluscum contagiosum lesions in a 3.5-year-old girl with atopic dermatitis.",
+        "journal": "Pediatric dermatology",
+        "year": "2016",
+        "authors": [
+          "Cho Yong Se",
+          "Chung Bo Young",
+          "Park Chun Wook",
+          "Kim Hye One"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anesthetics, Local",
+          "Child, Preschool",
+          "Dermatitis, Atopic",
+          "Female",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination",
+          "Methemoglobinemia",
+          "Molluscum Contagiosum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27397059/"
+      },
+      {
+        "pmid": "19054423",
+        "title": "Allergic contact dermatitis from EMLA cream: concomitant sensitization to both local anesthetics lidocaine and prilocaine.",
+        "abstract": "Local anesthetics are widely used drugs. In contrast to the local anesthetics of the ester group, the ones of the amide group (for example prilocaine and lidocaine) are considered to be rare sensitizers. Positive patch test results to both prilocaine and lidocaine in EMLA cream might indicate potential cross-reactivity.",
+        "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+        "year": "2009",
+        "authors": [
+          "Timmermans Martine W H",
+          "Bruynzeel Derk P",
+          "Rustemeyer Thomas"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged, 80 and over",
+          "Anesthetics, Local",
+          "Dermatitis, Allergic Contact",
+          "Drug Eruptions",
+          "Female",
+          "Humans",
+          "Lidocaine",
+          "Lidocaine, Prilocaine Drug Combination",
+          "Ointments",
+          "Prilocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19054423/"
+      },
+      {
+        "pmid": "26371835",
+        "title": "Effects of lidocaine on regulatory T cells in atopic dermatitis.",
+        "abstract": "",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "2016",
+        "authors": [
+          "Li Huaguo",
+          "Li Chunxiao",
+          "Zhang Hui",
+          "Zhang Lingyun",
+          "Cheng Ruhong"
+        ],
+        "pub_types": [
+          "Letter",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Dermatitis, Atopic",
+          "Humans",
+          "Immunomodulation",
+          "Lidocaine",
+          "T-Lymphocytes, Regulatory"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26371835/"
+      },
+      {
+        "pmid": "21847539",
+        "title": "Topical amitriptyline, ketamine, and lidocaine in neuropathic pain caused by radiation skin reaction: a pilot study.",
+        "abstract": "The purpose of this study is to assess the effect of topical amitriptyline, ketamine, and lidocaine (AKL) on alleviation of neuropathic pain from radiation dermatitis and the feasibility of a randomized trial.",
+        "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+        "year": "2012",
+        "authors": [
+          "Uzaraga Isabella",
+          "Gerbis Bev",
+          "Holwerda Eleanor",
+          "Gillis Dan",
+          "Wai Elaine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Amitriptyline",
+          "Analgesics",
+          "Anesthetics, Local",
+          "Cohort Studies",
+          "Drug Combinations",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21847539/"
+      },
+      {
+        "pmid": "27649348",
+        "title": "Compounded Topical Analgesics for Chronic Pain.",
+        "abstract": "Analgesic medications compounded for topical use are gaining popularity for the management of chronic pain. The advantages of topical pain medications include reduction of systemic adverse effects, improved patient acceptance, few drug interactions, ease of dose determination, avoidance of first-pass metabolism, and direct access to the target site. Compounded topical medications typically use a mixture of 3 or more single medications to achieve multiple complementary effects at lower doses of each individual medication. Herein, we review the mechanisms, adverse effects, and evidence for some of the most commonly used medications in topical compounds for pain management. Because more topical medications are used for chronic pain, dermatologists can expect an increase in irritant and allergic contact dermatitis related to these medications.",
+        "journal": "Dermatitis : contact, atopic, occupational, drug",
+        "year": "2016",
+        "authors": [
+          "Cline Abigail E",
+          "Turrentine Jake E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Amines",
+          "Amitriptyline",
+          "Analgesics",
+          "Anesthetics, Local",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Baclofen",
+          "Capsaicin",
+          "Chronic Pain",
+          "Clonidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27649348/"
+      },
+      {
+        "pmid": "39652940",
+        "title": "A Case of Acute Contact Dermatitis Caused by Lidocaine/Prilocaine Cream on a Zoon Balanitis.",
+        "abstract": "",
+        "journal": "Dermatology practical & conceptual",
+        "year": "2024",
+        "authors": [
+          "Robuffo Silvia",
+          "Misciali Cosimo",
+          "Lanzoni Anna",
+          "Mingozzi Anna",
+          "Piraccini Bianca Maria"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39652940/"
+      },
+      {
+        "pmid": "31487978",
+        "title": "Allergic contact dermatitis to intradermal mepivacaine without cross-reaction to lidocaine.",
+        "abstract": "",
+        "journal": "Italian journal of dermatology and venereology",
+        "year": "2021",
+        "authors": [
+          "Romita Paolo",
+          "Bonamonte Domenico",
+          "Calogiuri Gianfranco",
+          "DE Prezzo Serena",
+          "Ambrogio Francesca"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Dermatitis, Allergic Contact",
+          "Humans",
+          "Lidocaine",
+          "Mepivacaine",
+          "Prilocaine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31487978/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:56:25.372043",
+  "success": true,
+  "error_message": null
+}

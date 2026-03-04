@@ -1,0 +1,421 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "infectious otitis media",
+    "query_string": "Clarithromycin AND infectious otitis media"
+  },
+  "data": {
+    "query": "Clarithromycin AND infectious otitis media",
+    "results": [
+      {
+        "pmid": "8021763",
+        "title": "Comparative study of the safety and efficacy of clarithromycin and amoxicillin-clavulanate in the treatment of acute otitis media in children.",
+        "abstract": "The safety and efficacy of clarithromycin was compared with those of amoxicillin-potassium calvulanate for the treatment of acute otitis media in children. In a multicenter, randomized, investigator-blinded trial, 180 patients (6 months to 12 years of age) with acute otitis media were allocated to receive either clarithromycin, 15 mg/kg in two divided doses (n = 90), or amoxicillin-clavulanate, 40 mg/kg in three divided doses (n = 90), for 10 days. Middle ear samples were obtained by tympanocentesis from 175 of 180 patients. Pathogens were isolated from 137 samples (76%). Eighty-six patients in each treatment group were considered for efficacy analysis. Clinical cure or improvement was achieved within 4 days after treatment in 80 (93%) of 86 patients receiving clarithromycin and in 82 (95%) of 86 patients receiving amoxicillin-clavulanate. Recurrence of infection was observed between 5 and 35 days after treatment in 9 (11%) of 80 patients in the clarithromycin group and in 8 (10%) of 8",
+        "journal": "The Journal of pediatrics",
+        "year": "1994",
+        "authors": [
+          "Aspin M M",
+          "Hoberman A",
+          "McCarty J",
+          "McLinn S E",
+          "Aronoff S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Amoxicillin",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Clavulanic Acid",
+          "Clavulanic Acids",
+          "Drug Therapy, Combination",
+          "Ear, Middle",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8021763/"
+      },
+      {
+        "pmid": "39958872",
+        "title": "Characteristics and antimicrobial susceptibility of bacteria causing acute otitis media in children at Vietnam National Children's Hospital: a cross-sectional study.",
+        "abstract": "Acute otitis media (AOM) is a leading cause of healthcare visits, antibiotic prescription and complications in children aged under 5 years. Following the introduction of pneumococcal conjugate vaccines (PCVs), non-typeable Haemophilus influenzae (NTHi) has become the most common causative agent for AOM, followed by Streptococcus pneumoniae and Moraxella catarrhalis. PCVs are not yet included in the National Immunization Program in Vietnam.",
+        "journal": "JAC-antimicrobial resistance",
+        "year": "2025",
+        "authors": [
+          "Đỗ Hồng Điệp",
+          "Trần Minh Điển",
+          "Nguyễn Tuyết Xương",
+          "Thủy Phùng Thị Bích",
+          "Ngọc Hoàng Thị Bích"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39958872/"
+      },
+      {
+        "pmid": "8783722",
+        "title": "Otitis media and mastoiditis due to Mycobacterium fortuitum: case report, review of four cases, and a cautionary note.",
+        "abstract": "Mycobacterium fortuitum is a rarely reported cause of otitis media and mastoiditis. We report such a case recently seen at our institution and review the four previously published cases of this disease entity. Amikacin is recommended in the current medical literature as empirical treatment of disease due to M. fortuitum, but the isolate from our patient showed high-level resistance to amikacin, which is rare in clinical isolates of this species; this resistance was probably related to prior treatment with topical aminoglycosides. Our patient's infection responded to a 12-month course of therapy with clarithromycin and trimethoprim-sulfamethoxazole.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1996",
+        "authors": [
+          "Plemmons R M",
+          "McAllister C K",
+          "Liening D A",
+          "Garces M C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Amikacin",
+          "Anti-Bacterial Agents",
+          "Cefoxitin",
+          "Clarithromycin",
+          "Drug Resistance, Microbial",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Mastoiditis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8783722/"
+      },
+      {
+        "pmid": "15386697",
+        "title": "Effectiveness of amoxicillin, azithromycin, cefprozil and clarithromycin in the treatment of acute otitis media in children: a population-based study.",
+        "abstract": "Population-based studies may give results different from randomized clinical trials assessing the efficacy of antibiotics.",
+        "journal": "Pharmacoepidemiology and drug safety",
+        "year": "2005",
+        "authors": [
+          "Quach Caroline",
+          "Collet Jean-Paul",
+          "LeLorier Jacques"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Oral",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Cohort Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15386697/"
+      },
+      {
+        "pmid": "34321442",
+        "title": "Haemophilus influenzae Prevalence, Proportion of Capsulated Strains and Antibiotic Susceptibility During Colonization and Acute Otitis Media in Children, 2019-2020.",
+        "abstract": "The objective of this study was to determine the prevalence, proportion of encapsulated strains and antibiotic susceptibility of Haemophilus influenzae isolated from young children.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2021",
+        "authors": [
+          "Fuji Naoko",
+          "Pichichero Michael",
+          "Kaur Ravinder"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Capsules",
+          "Child, Preschool",
+          "Female",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Infant",
+          "Male",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34321442/"
+      },
+      {
+        "pmid": "9109154",
+        "title": "History of macrolide use in pediatrics.",
+        "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Drug Interactions",
+          "Erythromycin",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+      },
+      {
+        "pmid": "9711451",
+        "title": "Azithromycin. A review of its use in paediatric infectious diseases.",
+        "abstract": "Azithromycin is an azalide antimicrobial agent active in vitro against major pathogens responsible for infections of the respiratory tract, skin and soft tissues in children. Pathogens that are generally susceptible to azithromycin include Haemophilus influenzae (including ampicillin-resistant strains), Moraxella catarrhalis, Chlamydia pneumoniae, Chlamydia trachomatis, Mycoplasma pneumoniae, Legionella spp., Streptococcus pyogenes and Streptococcus agalactiae. Azithromycin is also generally active against erythromycin- and penicillin-susceptible Streptococcus pneumoniae and methicillin-susceptible Staphylococcus aureus. Azithromycin is administered once daily, achieves clinically relevant concentrations at sites of infection, is slowly eliminated from the body and has few drug interactions. In children, azithromycin is usually given as either a 3-day course of 10 mg/kg/day or a 5-day course with 10 mg/kg on the first day, followed by 5 mg/kg/day for a further 4 days. These standard re",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Langtry H D",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Drug Tolerance",
+          "Humans",
+          "Infant",
+          "Otitis Media",
+          "Pharyngitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9711451/"
+      },
+      {
+        "pmid": "29966711",
+        "title": "Chronic otitis media caused by Mycobacterium abscessus spp. massiliense treated with tigecycline in a 10-year-old child.",
+        "abstract": "Mycobacterium abscessus is one of the most pathogenic and chemotherapy-resistant rapidly growing mycobacteria. This Mycobacterium should always be considered as a possible cause of chronic otitis media in children, and treatment might be challenging because of its resistance to multiple antibiotics. There are no reports describing the therapeutic use of tigecycline for the treatment of chronic otitis media caused by M. abscessus. A 10-year-old boy was referred to Tokyo Metropolitan Children's Medical Center with a 7-year history of recurrent otitis media despite treatment with antibiotics and ventilation tubes. Cultures of the otorrhea yielded Mycobacterium abscessus spp. massiliense, and it showed multiple and high-level resistance. The boy required surgery and underwent initial treatment with clarithromycin, amikacin, and tigecycline for 4 weeks. He experienced emesis as a side-effect of tigecycline, which was well controlled with ondansetron. He was treated successfully with 3 month",
+        "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+        "year": "2018",
+        "authors": [
+          "Myojin Shota",
+          "Fukuoka Kahoru",
+          "Kanemaru Asako",
+          "Baba Shintaro",
+          "Okamoto Yuki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amikacin",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Chronic Disease",
+          "Clarithromycin",
+          "Humans",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Mycobacterium Infections, Nontuberculous",
+          "Mycobacterium abscessus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29966711/"
+      },
+      {
+        "pmid": "15211085",
+        "title": "Comparative activities of beta-lactam antibiotics and quinolones for invasive Streptococcus pneumoniae isolates.",
+        "abstract": "Streptococcus pneumoniae is a leading pathogen causing pneumonia, meningitis, otitis media, bacteremia and sinusitis resulting in significant morbidity and mortality. We examined in vitro activities of five quinolones in comparison with other antibiotics against 85 invasive pneumococcal isolates.",
+        "journal": "Chemotherapy",
+        "year": "2004",
+        "authors": [
+          "Oncü Serkan",
+          "Punar Metin",
+          "Eraksoy Haluk"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Multiple, Bacterial",
+          "Fluoroquinolones",
+          "Microbial Sensitivity Tests",
+          "Penicillin Resistance",
+          "Streptococcus pneumoniae",
+          "beta-Lactams"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15211085/"
+      },
+      {
+        "pmid": "10608630",
+        "title": "Compliance of German pediatric patients with oral antibiotic therapy: results of a nationwide survey.",
+        "abstract": "Noncompliance with a prescribed therapy is a common problem in ambulatory pediatrics.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1999",
+        "authors": [
+          "Hoppe J E",
+          "Blumenstock G",
+          "Grotz W",
+          "Selbmann H K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Germany",
+          "Humans",
+          "Patient Compliance",
+          "Population Surveillance",
+          "Socioeconomic Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10608630/"
+      },
+      {
+        "pmid": "12390209",
+        "title": "Emergence of clarithromycin-resistant Helicobacter pylori (CRHP) with a high prevalence in children compared with their parents.",
+        "abstract": "Clarithromycin-resistant Helicobacter pylori (CRHP) is increasing worldwide. Clarithromycin resistance in H. pylori from familial members has not been investigated.",
+        "journal": "Helicobacter",
+        "year": "2002",
+        "authors": [
+          "Taneike Ikue",
+          "Goshi Satoshi",
+          "Tamura Yukiko",
+          "Wakisaka-Saito Noriko",
+          "Matsumori Noriko"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "DNA, Ribosomal",
+          "Drug Resistance, Bacterial",
+          "Family",
+          "Female",
+          "Helicobacter Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12390209/"
+      },
+      {
+        "pmid": "7877420",
+        "title": "Streptococcus pneumoniae resistant to penicillin: incidence and potential therapeutic options.",
+        "abstract": "Streptococcus pneumoniae was recovered from 12 (50%) samples of middle ear fluid of 24 consecutive patients with AOME and in mixed culture of middle ear pathogens from one (4%) additional specimen. Two (15.3%) isolates had intermediate resistance to penicillin (minimal inhibitory concentration (MIC) 0.125 and 1.0 micrograms/mL). The antimicrobial susceptibility to various antimicrobials of 30 S pneumoniae strains recovered from patients seen in the last 12 months was also determined. One of the patients with AOME developed bacteremia that resolved uneventfully, whereas the other developed meningitis. MIC90 was determined from penicillin (2 micrograms/mL), erythromycin (> 32 micrograms/mL), cefaclor (32 micrograms/mL), loracarbef (> or = 64 micrograms/mL), cefixime (16 micrograms/mL), ceftibuten (> 64 micrograms/mL), chloramphenicol (16 micrograms/mL), cefpodoxime (4 micrograms/mL), ciprofloxacin (2 micrograms/mL), cephalexin (> or = micrograms/mL), augmentin (2 micrograms/mL), cefprozi",
+        "journal": "The Laryngoscope",
+        "year": "1995",
+        "authors": [
+          "Rodriguez W J",
+          "Schwartz R H",
+          "Akram S",
+          "Khan W N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Humans",
+          "Incidence",
+          "Microbial Sensitivity Tests",
+          "Otitis Media with Effusion",
+          "Oxacillin",
+          "Penicillin Resistance",
+          "Pneumococcal Infections",
+          "Serotyping",
+          "Streptococcus pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7877420/"
+      },
+      {
+        "pmid": "11059548",
+        "title": "Nasopharyngeal colonization with penicillin-resistant Streptococcus pneumoniae in Turkish children.",
+        "abstract": "Streptococcus pneumoniae is one of the major infectious agents observed in children. In spite of the fact that penicillin is preferred in the treatment of infections caused by S. pneumoniae, there has been a world-wide increase in the frequency of penicillin-resistant S. pneumoniae.",
+        "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+        "year": "2000",
+        "authors": [
+          "Ciftçi E",
+          "Dogru U",
+          "Aysev D",
+          "Ince E",
+          "Güriz H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Microbial Sensitivity Tests",
+          "Nasal Mucosa",
+          "Nasopharynx",
+          "Penicillin Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11059548/"
+      },
+      {
+        "pmid": "23605250",
+        "title": "Comparison study of single and concurrent administrations of carbapenem, new quinolone, and macrolide against in vitro nontypeable Haemophilus influenzae mature biofilms.",
+        "abstract": "Nontypeable Haemophilus influenzae (NTHi) is an opportunistic pathogen and a common cause of otitis media in children, chronic bronchitis, and pneumonia in patients with chronic obstructive pulmonary disease. Many studies have reported that NTHi is capable of producing biofilms, which may be one of the important factors involved in chronic diseases and accelerating antimicrobial resistance. Unfortunately, there is still no consensus about the elimination of biofilms. In this study, concurrent administrations of levofloxacin (LVFX)-imipenem (IPM) and clarithromycin (CAM)-IPM, as well as the single administration of IPM, LVFX, and CAM, were performed to treat the mature biofilms produced by NTHi, respectively. Biofilm inhibition was quantified using microtiter biofilm assay (MBA), and relative biomass was calculated as the ratio compared to that of untreated control biofilms. The relative biomasses of biofilms treated with IPM, LVFX-IPM, and CAM-IPM against a β-lactamase-negative ampicil",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2013",
+        "authors": [
+          "Uemura Yusaku",
+          "Qin Liang",
+          "Gotoh Kenji",
+          "Ohta Keisuke",
+          "Nakamura Kei-ichiro"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Biofilms",
+          "Carbapenems",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Macrolides",
+          "Quinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23605250/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:55:41.161142",
+  "success": true,
+  "error_message": null
+}

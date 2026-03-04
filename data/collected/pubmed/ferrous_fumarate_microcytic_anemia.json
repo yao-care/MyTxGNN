@@ -1,0 +1,47 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "microcytic anemia",
+    "query_string": "Ferrous Fumarate AND microcytic anemia"
+  },
+  "data": {
+    "query": "Ferrous Fumarate AND microcytic anemia",
+    "results": [
+      {
+        "pmid": "1612493",
+        "title": "Gastric antral vascular ectasia: maintenance treatment with oestrogen-progesterone.",
+        "abstract": "Gastric antral vascular ectasia ('watermelon stomach') is a rare cause of chronic gastrointestinal bleeding and various medical and surgical treatments have been described. We report a patient in whom an oestrogen-progesterone preparation successfully controlled recurrent blood loss.",
+        "journal": "Gut",
+        "year": "1992",
+        "authors": [
+          "Moss S F",
+          "Ghosh P",
+          "Thomas D M",
+          "Jackson J E",
+          "Calam J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Contraceptives, Oral, Combined",
+          "Dilatation, Pathologic",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Female",
+          "Gastrointestinal Hemorrhage",
+          "Humans",
+          "Norethindrone",
+          "Pyloric Antrum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1612493/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:16:20.001088",
+  "success": true,
+  "error_message": null
+}

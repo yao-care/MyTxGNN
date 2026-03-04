@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Amphotericin B",
+    "disease": "ornithosis",
+    "query_string": "Amphotericin B AND ornithosis"
+  },
+  "data": {
+    "query": "Amphotericin B AND ornithosis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:00:32.069914",
+  "success": true,
+  "error_message": null
+}

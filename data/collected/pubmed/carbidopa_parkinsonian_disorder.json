@@ -1,0 +1,533 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbidopa",
+    "disease": "parkinsonian disorder",
+    "query_string": "Carbidopa AND parkinsonian disorder"
+  },
+  "data": {
+    "query": "Carbidopa AND parkinsonian disorder",
+    "results": [
+      {
+        "pmid": "25449210",
+        "title": "Levodopa therapy for Parkinson's disease: Pharmacokinetics and pharmacodynamics.",
+        "abstract": "For all its imperfections at treating Parkinson's disease (PD), orally-administered levodopa (l-dopa) can be regarded as the \"platinum\" standard of PD therapeutics for its impact on disability and discomfort and its cost-effectiveness. The past half-century has confirmed that the typical l-dopa-treated patient gains improvement for most Parkinsonian features, presumably by conversion of this amino acid into dopamine in the striatum. However, fundamental questions remain as to its full mechanism of action and how adverse reactions evolve. Various aspects of clinical phenomenology associated with chronic l-dopa use (such as dyskinesias and the long-duration anti-Parkinsonian response) present a continuing challenge for better understanding of its pharmacology. The pharmacokinetics of l-dopa tend to predict some of problems that can emerge during chronic therapy, which can be linked with its irregular uptake and marked dose-by-dose variability in plasma concentrations. Several new pharmac",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2015",
+        "authors": [
+          "LeWitt Peter A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Brain",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25449210/"
+      },
+      {
+        "pmid": "8787797",
+        "title": "Pharmacokinetic model of oral levodopa and role of carbidopa in parkinsonian patients.",
+        "abstract": "A pharmacokinetic model of oral levodopa is proposed to elucidate the effects of carbidopa on the pharmacokinetics of levodopa. The propriety of the model was evaluated by simultaneous computer Multi-Line fitting for the plasma concentration-time data of levodopa and dopamine-3-O-sulfate (DA-S), a major metabolite of levodopa, after oral administration of three different levodopa doses to parkinsonian patients. Plasma profiles of levodopa and DA-S were also determined in 12 parkinsonian patients during daily oral administration of Neodopaston, a levodopa preparation containing carbidopa in tablet form. We investigated the role of carbidopa by comparing the populational mean parameters calculated in the levodopa alone model with those obtained in patients coadministered levodopa and carbidopa. The results indicated that the pharmacokinetics of levodopa coadministered with carbidopa were dose-independent and that carbidopa reduces the first-pass metabolism of levodopa in the gut wall to ",
+        "journal": "Biological & pharmaceutical bulletin",
+        "year": "1995",
+        "authors": [
+          "Mizutani Y",
+          "Okada Y",
+          "Ogawa M",
+          "Hasegawa T",
+          "Nabeshima T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Antiparkinson Agents",
+          "Biological Availability",
+          "Carbidopa",
+          "Dopamine",
+          "Drug Combinations",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8787797/"
+      },
+      {
+        "pmid": "30361296",
+        "title": "Behavioural and trait changes in parkinsonian patients with impulse control disorder after switching from dopamine agonist to levodopa therapy: results of REIN-PD trial.",
+        "abstract": "In this multicentre open-label trial, we compared behavioural and neuropsychiatric symptoms in Parkinson's disease (PD) patients with impulse control disorders (ICD) treated with dopamine agonists before and 12 weeks after substituting dopamine agonists with an equivalent dose of levodopa/carbidopa slow-release formulation.",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "2019",
+        "authors": [
+          "Lee Jee-Young",
+          "Jeon Beomseok",
+          "Koh Seong-Beom",
+          "Yoon Won Tae",
+          "Lee Ho-Won"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Disruptive, Impulse Control, and Conduct Disorders",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Drug Substitution",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30361296/"
+      },
+      {
+        "pmid": "30566307",
+        "title": "Anti-parkinsonian drugs today.",
+        "abstract": "The current pharmacotherapeutic options for Parkinson's disease is described in this article. Newly formulations of levodopa developed to date. Levodopa / carbidopa intestinal gel (Duodopa) was approved recently in Japan. Duodopa permits to maintain plasma concentrations of levodopa at steady levels and prolongs ON time without dyskinesia. IPX066 is a newly developed oral formulation of levodopa, and launched in US. It contains both an immediate-release and a sustained-release levodopa component. Safinamide has an inhibitory activity of glutamate release and antagonism of sodium channel activity in addition to MAO-B inhibitor. Opicapone is a novel third generation COMT inhibitor. Rasagiline is a widely used MAO-B inhibitor in many countries. Clinical trials of the both agents are performed in Japan. Pimavanserin, a 5-HT2A inverse agonist, is the first and only medication approved by FDA for the treatment of psychosis associated with Parkinson's disease.",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2017",
+        "authors": [
+          "Nagai Masahiro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Humans",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30566307/"
+      },
+      {
+        "pmid": "477187",
+        "title": "Niacin depletion in Parkinsonian patients treated with L-dopa, benserazide and carbidopa.",
+        "abstract": "1. Benserazide and carbidopa, decarboxylase inhibitors used in the treatment of Parkinson's disease, have been shown to inhibit the enzyme kynurenine hydrolase in rat and mouse liver. This results in reduced synthesis of nicotinamide coenzymes from tryptophan, and hence an increased reliance on dietary niacin. 2. Pellagra might be expected as a result of this inhibition of endogenous synthesis of nicotinamide nucleotides, but has not been reported in patients treated with either drug. 3. The urinary excretion of N1-methyl-nicotinamide, a product of nicotinamide nucleotide metabolism, is considerably reduced in patients treated with dopa alone or in combination with an inhibitor of peripheral dopa decarboxylase, to as low as 40% of the control value. This means that many of these patients could be classified as 'at risk' of niacin deficiency, even if not frankly deficient. 4. Patients treated with dopa plus a decarboxylase inhibitor, but not those treated with dopa alone, also show a re",
+        "journal": "Clinical science (London, England : 1979)",
+        "year": "1979",
+        "authors": [
+          "Bender D A",
+          "Earl C J",
+          "Lees A J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Benserazide",
+          "Bromocriptine",
+          "Carbidopa",
+          "Female",
+          "Humans",
+          "Hydrazines",
+          "Levodopa",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/477187/"
+      },
+      {
+        "pmid": "19367357",
+        "title": "Cyclosporine-induced parkinsonism.",
+        "abstract": "",
+        "journal": "Journal of neurology",
+        "year": "2009",
+        "authors": [
+          "Lima Marco A",
+          "Maradei Simone",
+          "Maranhao Filho Pericles"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Brain",
+          "Carbidopa",
+          "Cyclosporine",
+          "Fatal Outcome",
+          "Hematoma, Subdural",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Leukemia, Lymphoid",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19367357/"
+      },
+      {
+        "pmid": "40270087",
+        "title": "Dopamine-responsive post-anoxic parkinsonism.",
+        "abstract": "BackgroundParkinsonism following hypoxic ischemic damage of the basal ganglia is an uncommon phenomenon that has been infrequently reported. However, only a few cases have noted improvement of symptoms with dopaminergic therapy. We report the clinical and imaging features of five patients with post-anoxic parkinsonism responsive to dopamine supplementation.ObjectiveTo describe a retrospective case series of five cases of dopamine-responsive post-anoxic parkinsonism.MethodsWe identified all the cases using the Mayo Clinic Data Management System utilizing advanced data explorer search engine for any patients evaluated for post anoxic parkinsonism and its associated acronyms from 2000-2024. Clinical features, neuroimaging, medication trials, and responses were obtained from chart review of identified patients.ResultsFive patients met the inclusion criteria. All patients underwent anoxic events followed by development of parkinsonism. Patients exhibited parkinsonism described as combinatio",
+        "journal": "Journal of Parkinson's disease",
+        "year": "2025",
+        "authors": [
+          "Liu Tina",
+          "Ahlskog J Eric",
+          "Bower James",
+          "Kantarci Orhun",
+          "Savica Rodolfo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Case Reports"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Hypoxia-Ischemia, Brain",
+          "Levodopa",
+          "Parkinson Disease, Secondary",
+          "Parkinsonian Disorders",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40270087/"
+      },
+      {
+        "pmid": "3341962",
+        "title": "Drug-induced alzheimerism.",
+        "abstract": "A 74-year-old man with parkinsonism developed progressive cognitive and behavioral dysfunction suggesting coexistent Alzheimer's disease. The intellectual and behavioral disturbances were reversed following withdrawal of his anticholinergic antiparkinsonian medication. This case demonstrates that anticholinergic drugs used to treat parkinsonism may mimic or exacerbate the clinical signs of Alzheimer's disease and suggests that these medications should be withdrawn for all parkinsonian patients who develop significant impairments of cognition or behavior.",
+        "journal": "Archives of neurology",
+        "year": "1988",
+        "authors": [
+          "Kurlan R",
+          "Como P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Alzheimer Disease",
+          "Biperiden",
+          "Carbidopa",
+          "Drug Combinations",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Parkinson Disease",
+          "Piperidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3341962/"
+      },
+      {
+        "pmid": "31032135",
+        "title": "Attempted Suicide in a Parkinsonian Patient Treated with DBS of the VIM and High Dose Carbidopa-Levodopa.",
+        "abstract": "Parkinson's disease (PD) is a complex disease that is often treated with dopaminergic medications such as carbidopa-levodopa and now with innovative interventions such as deep brain stimulation (DBS). While PD frequently presents with depression and apathy, research must elucidate whether its treatment modalities have an additive or synergistic effect that can lead to an increased suicide risk. DBS has been associated with depression, behavioral changes, and suicidality while dopaminergic treatment has also been shown to cause behavioral changes such as hypersexuality and impulsivity. Considering the now frequent practice of utilizing both DBS and carbidopa-levodopa to treat PD, it is crucial to understand how to properly manage PD patients who are displaying this overlap in symptomology.",
+        "journal": "Case reports in psychiatry",
+        "year": "2019",
+        "authors": [
+          "Ayobello Ayotunde",
+          "Saway Brian",
+          "Greenage Michael"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31032135/"
+      },
+      {
+        "pmid": "40088079",
+        "title": "Patients with Allan-Herndon-Dudley Syndrome (MCT8 Deficiency) Display Symptoms of Parkinsonism in Childhood and Respond to Levodopa/Carbidopa Treatment.",
+        "abstract": "Patients with mutations in the monocarboxylate transporter 8 (MCT8, SLC16A2) suffer from X-linked recessive Allan-Herndon-Dudley syndrome (AHDS), which is characterized by developmental delay and a severe movement disorder. Current trials using thyroid hormone derivatives to overcome the transporter defect have failed to achieve patient-oriented therapeutic goals.",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2025",
+        "authors": [
+          "Wilpert Nina-Maria",
+          "Hewitt Angela L",
+          "Pons Roser",
+          "Henke Marie-Thérèse",
+          "Dell'Orco Andrea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Carbidopa",
+          "Male",
+          "Female",
+          "Child",
+          "Drug Combinations",
+          "X-Linked Intellectual Disability",
+          "Parkinsonian Disorders",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40088079/"
+      },
+      {
+        "pmid": "29649511",
+        "title": "Interference of carbidopa and other catechols with reactions catalyzed by peroxidases.",
+        "abstract": "A number of compounds, including ascorbic acid, catecholamines, flavonoids, p-diphenols and hydrazine derivatives have been reported to interfere with peroxidase-based medical diagnostic tests (Trinder reaction) but the mechanisms of these effects have not been fully elucidated.",
+        "journal": "Biochimica et biophysica acta. General subjects",
+        "year": "2018",
+        "authors": [
+          "Gąsowska-Bajger Beata",
+          "Nishigaya Yuki",
+          "Hirsz-Wiktorzak Krystyna",
+          "Rybczyńska Anna",
+          "Yamazaki Toshimasa"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Carbidopa",
+          "Catalysis",
+          "Catechols",
+          "Cattle",
+          "Chromogenic Compounds",
+          "Horseradish Peroxidase",
+          "Humans",
+          "Hydrogen Peroxide",
+          "Lactoperoxidase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29649511/"
+      },
+      {
+        "pmid": "40579361",
+        "title": "Combined neuroprotective potential of vitamin E and levodopa/carbidopa in a rat model of rotenone-induced Parkinson's disease: role of AMPK/SIRT1/PGC-1α and HMGB1/RAGE axes.",
+        "abstract": "This study investigated the molecular mechanisms underlying the neuroprotective effects of vitamin E in a rotenone-induced Parkinson's disease (PD) rat model, in comparison to levodopa/carbidopa (LD/CD), and evaluated the benefit of their combined use. PD was induced by rotenone (2.5 mg/kg/day, i.p) for 42 days. On day 14, disease onset was confirmed via behavioral deficits and reduced striatal tyrosine hydroxylase (TH) levels. From day 15 to day 42, Parkinsonian rats received vitamin E (100 IU/kg/day, i.p), LD/CD (20/5 mg/kg/day, i.p), or both. ROT-intoxicated rats exhibited progressive motor dysfunction, striatal neurodegeneration, neuronal loss, reduced TH/dopamine levels, and α-synuclein aggregation. These changes were associated with suppressed AMPK/SIRT1/PGC-1α signaling, impaired mitochondrial biogenesis and function, defective mitophagy, heightened oxidative stress, and upregulation of the pro-inflammatory HMGB1/RAGE pathway. Treatment with either vitamin E or LD/CD significant",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "2025",
+        "authors": [
+          "Wahba Alaa S",
+          "Wahba Nehal S",
+          "Sayed Ghadir A",
+          "Hamed Sara K",
+          "Abo-Elmatty Dina M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Carbidopa",
+          "Sirtuin 1",
+          "Vitamin E",
+          "Levodopa",
+          "Rotenone",
+          "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha",
+          "Male",
+          "Neuroprotective Agents",
+          "Rats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40579361/"
+      },
+      {
+        "pmid": "3403218",
+        "title": "Peripheral pharmacokinetic parameters of levodopa/carbidopa and the on-off phenomenon in parkinsonian patients.",
+        "abstract": "The principal peripheral pharmacokinetic parameters of the levodopa/carbidopa association were investigated in 11 healthy volunteers and in 16 patients at various stages of Parkinson disease, with and without the on-off phenomenon. After oral administration of a standard dose of drug (levodopa 250 mg + carbidopa 25 mg) the peak plasma concentrations, peak onset time and area under the curve/time proved to be similar across the groups. There was no difference in peripheral pharmacokinetics of the association between parkinsonian patients with swings in response and those without.",
+        "journal": "Italian journal of neurological sciences",
+        "year": "1988",
+        "authors": [
+          "Rainero I",
+          "Gilli M",
+          "De Gennaro T",
+          "Chiadò I",
+          "Delsedime M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Carbidopa",
+          "Female",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Middle Aged",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3403218/"
+      },
+      {
+        "pmid": "9316692",
+        "title": "Controlled release levodopa/carbidopa 25/100 (Sinemet CR 25/100): pharmacokinetics and clinical efficacy in untreated parkinsonian patients.",
+        "abstract": "The pharmacokinetics of the clinically determined optimal dose of controlled release levodopa/carbidopa 25/100 (Sinemet CR 25/100) after 12 weeks of therapy was studied in nine parkinsonian patients without prior exposure to levodopa. The pharmacokinetics of single oral doses of controlled release levodopa/carbidopa 25/100 and 50/200 were also compared. As predicted from the plasma half-life (1.7 +/- 0.3 h) and confirmed by morning trough levels, levodopa did not accumulate when controlled released levodopa/carbidopa 25/100 was administered twice daily. The absorption and bioavailability of CR 25/100 are minimally greater than CR 50/200. Controlled released levodopa/carbidopa 25/100 levodopa plasma levels peak slightly faster than controlled release levodopa/carbidopa 50/200.",
+        "journal": "Clinical neuropharmacology",
+        "year": "1994",
+        "authors": [
+          "Hammerstad J P",
+          "Woodward W R",
+          "Nutt J G",
+          "Gancher S T",
+          "Block G A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Antiparkinson Agents",
+          "Biological Availability",
+          "Carbidopa",
+          "Delayed-Action Preparations",
+          "Drug Combinations",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9316692/"
+      },
+      {
+        "pmid": "28981227",
+        "title": "[Treatment of Parkinson's disease].",
+        "abstract": "Parkinson's disease in a neurodegenerative disorder that affects as many as 1-2 % of persons aged 60 years and older. Parkinson's disease occurs infrequently under 40 years of age, with major genetic implication. Alpha-synuclein plays significant pathogenic role in Parkinson's disease. Therapeutic advances based on a synucleinrelated mechanism are now developed : immunotherapy against alpha-synuclein for example. The diagnosis of Parkinson's disease remains mostly clinical. DatScan® may be helpful to distinguish parkinsonian syndrome and essential tremor. Current therapy is mainly based on a dopamine replacement strategy using the precursor levodopa (L-Dopa) and dopamine receptor agonists. Parkinson's is also associated with non-motor symptoms like sleep disorders, autonomic symptoms, neuropsychiatric symptoms. Advanced disease is associated with emergence of feature such as freezing, falling and neuropsychological dysfunction. Nonpharmacologic treatments like exercise are fundamental ",
+        "journal": "Revue medicale de Bruxelles",
+        "year": "2017",
+        "authors": [
+          "Dethy S"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28981227/"
+      },
+      {
+        "pmid": "3243910",
+        "title": "Improved high-performance liquid chromatographic analysis with double detection system for L-dopa, its metabolites and carbidopa in plasma of parkinsonian patients under L-dopa therapy.",
+        "abstract": "An analytical method is described for measuring L-3,4-dihydroxyphenylalanine (L-DOPA), 3-O-methyl-DOPA, dihydroxyphenylacetic acid, free catecholamines and the peripheral DOPA decarboxylase inhibitor, carbidopa, in plasma samples of Parkinsonian patients by using high-performance liquid chromatography. A sample preparation method is presented for the isolation of the catecholamines and L-DOPA with its metabolites. Catecholamines are extracted by weak cation exchange on small columns and subsequent adsorption on alumina. L-DOPA, 3-O-methyl-DOPA, dihydroxyphenylacetic acid and carbidopa contained in the column effluents are directly injected in the chromatographic system. The eluates are separated on a reversed-phase column, monitored by both a coulometric electrochemical detector and a fluorescence detector, connected in series. Chromatographic peaks were identified on the basis of their retentions and response ratios of the two detectors. Two examples are presented of therapeutic drug ",
+        "journal": "Journal of chromatography",
+        "year": "1988",
+        "authors": [
+          "Betto P",
+          "Ricciarello G",
+          "Giambenedetti M",
+          "Lucarelli C",
+          "Ruggeri S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Carbidopa",
+          "Catecholamines",
+          "Chromatography, High Pressure Liquid",
+          "Electrochemistry",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease",
+          "Spectrometry, Fluorescence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3243910/"
+      },
+      {
+        "pmid": "25238733",
+        "title": "Treatment of frontotemporal dementia.",
+        "abstract": "Frontotemporal dementia (FTD) encompasses a spectrum of neurodegenerative diseases with heterogeneous clinical presentations and two predominant types of underlying neuropathology. FTD typically comprises three distinct clinical syndromes: behavioral variant frontotemporal dementia (bvFTD), semantic variant primary progressive aphasia (svPPA), and nonfluent variant primary progressive aphasia (nfvPPA). FTD also frequently overlaps both clinically and neuropathologically with three other neurodegenerative syndromes: corticobasal syndrome (CBS), progressive supranuclear palsy (PSP), and amyotrophic lateral sclerosis (ALS). Each syndrome can be associated with one or more underlying neuropathological diagnoses and are referred to as frontotemporal lobar degeneration (FTLD). Although the various FTD syndromes can substantially differ in terms of clinical symptoms and underlying pathology, the symptoms can be broadly categorized into behavioral, cognitive and motor domains. Currently there ",
+        "journal": "Current treatment options in neurology",
+        "year": "2014",
+        "authors": [
+          "Tsai Richard M",
+          "Boxer Adam L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25238733/"
+      },
+      {
+        "pmid": "20220040",
+        "title": "Effects of carbidopa and entacapone on the metabolic fate of the norepinephrine prodrug L-DOPS.",
+        "abstract": "L-threo-3,4-dihydroxyphenylserine (L-DOPS), a norepinephrine (NE) prodrug, is investigational for orthostatic hypotension, which occurs commonly in Parkinson's disease. Adjunctive anti-parkinsonian drugs might interact with L-DOPS. We tested whether L-aromatic amino-acid decarboxylase inhibition by carbidopa (CAR) attenuates L-DOPS conversion to NE and blocks the pressor effect of L-DOPS, whereas catechol-O-methyltransferase inhibition by entacapone (ENT) interferes with L-DOPS metabolism and augments the pressor effect.",
+        "journal": "Journal of clinical pharmacology",
+        "year": "2011",
+        "authors": [
+          "Goldstein David S",
+          "Holmes Courtney",
+          "Sewell LaToya",
+          "Pechnik Sandra",
+          "Kopin Irwin J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Intramural"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Blood Pressure",
+          "Carbidopa",
+          "Catechols",
+          "Double-Blind Method",
+          "Droxidopa",
+          "Drug Interactions",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20220040/"
+      },
+      {
+        "pmid": "9235023",
+        "title": "[The effect of controlled release of DOPA and carbidopa on clinical response and plasma pharmacokinetics of DOPA in parkinsonian patients].",
+        "abstract": "This is a multicentric double blind comparison of the effects of standard and slow release levodopa + carbidopa formulations in patients with Parkinson's disease. Sixty four patients with simple fluctuations were included and 43 finished the study. The study had three phases: a) optimal dose findings phase with standard levodopa + carbidopa; b) open label, cross over study with the two formulations, and c) double blind, parallel investigation. The following results were obtained. There was not a difference in the severity of disability according to UPDRS, part 3, scores though the subjective impressions of patients were in favor of standard formulations. The Sustained release levodopa + carbidopa produced significant improvement of dystonia in off period, pain due to akinesia in off and the number of hours in off and the quality and latency of sleep. In addition there was a tendency in favor of slow release compounds for early morning akinesia, global effect and impression of the exami",
+        "journal": "Neurologia (Barcelona, Spain)",
+        "year": "1997",
+        "authors": [
+          "García de Yébenes J",
+          "Mateo D",
+          "Pino M A",
+          "Cordero M",
+          "Pastor M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Age of Onset",
+          "Aged",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Cross-Over Studies",
+          "Delayed-Action Preparations",
+          "Diet Therapy",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9235023/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:18:29.826667",
+  "success": true,
+  "error_message": null
+}

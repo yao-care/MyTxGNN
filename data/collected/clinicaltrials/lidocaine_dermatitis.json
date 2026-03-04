@@ -1,0 +1,160 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "dermatitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06387212",
+      "title": "35 kDa Hyaluronan Fragment (HA35) Reduces Chronic Skin Inflammation",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-04-15",
+      "completion_date": "2024-05",
+      "country": "Mongolia",
+      "enrollment": 20,
+      "brief_summary": "To explore the clinical effect and safety of 35 kDa hyaluronic acid fragment ( HA35 ) combined with negative pressure microneedle technology in improving skin problems.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Skin problems include but are not limited to dry skin, dark skin, and coarse pores.\n* Chronic skin inflammation, pigmentation, erythema, etc.\n* Cooperate with the experimental requirements and be able to complete the score independently。\n\nExclusion Criteria:\n\n* Pregnant or lac",
+      "endpoints": [
+        "A skin dryness scale",
+        "A fair or smooth skin scale",
+        "A skin pore size scale"
+      ],
+      "sponsor": "Nakhia Impex LLC",
+      "url": "https://clinicaltrials.gov/study/NCT06387212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06458179",
+      "title": "Retrospective Cohort Study for One Year Follow-up: Ultrasound Guided Radiofrequency Ablation of Proximal Greater Occipital Nerve is Effective",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-01-01",
+      "completion_date": "2023-04-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 18,
+      "brief_summary": "The International Headache Society (IHS) defines occipital neuralgia, as a unilateral or bilateral paroxysmal, shooting, or stabbing pain in the posterior region of the scalp, in the distribution of the greater occipital nerve (GON), lesser occipital nerve (LON), or third occipital nerve (TON). The condition is occasionally accompanied by diminished sensation or dysesthesia in the affected area and is frequently associated with tenderness over the involved nerves. The majority of cases with occi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unilateral primary occipital neuralgia\n\nExclusion Criteria:\n\n* Patients lacking documentation or inadequate follow-up\n* Patients whom taking analgesic medication during the follow-up period\n* Bilateral occipital neuralgia\n* Secondary occipital neuralgia (e.g., ce",
+      "endpoints": [
+        "NRS"
+      ],
+      "sponsor": "Mersin Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06458179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07360639",
+      "title": "Effectiveness of a Combination Cream of Gayo Arabica Coffee Bean Extract and Aceh Patchouli (Pogostemon Cablin Benth) Compared to Urea Cream for Dry Skin",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2025-06-01",
+      "completion_date": "2025-12-20",
+      "country": "Indonesia",
+      "enrollment": 64,
+      "brief_summary": "The goal of this Clinical trial is to Determine the effectiveness of a cream combining Gayo Arabica coffee bean extract and Aceh patchouli compared to urea cream for dry skin in Patients with dry skin, aged 18-65 years old who meet the inclusion criteria. The main question it aims to answer is:\n\nCan cream combination of Gayo Arabica coffee husk extract and Aceh patchouli be used on humans? is cream combination of Gayo Arabica coffee husk extract and Aceh patchouli clinically effective in improvi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18-65 years old\n* Diagnosed with xerosis cutis\n* not using any moisturizer for more than 2 weeks\n* dry skin at extremity\n\nExclusion Criteria:\n\n* no history of coffee, patchouli, urea, or cream composition allergy\n* secondary infection lession appeared\n* pregnant or",
+      "endpoints": [
+        "herbal cream effectiveness in treating dry skin",
+        "the safety assessment of herbal cream application on human skin"
+      ],
+      "sponsor": "Universitas Syiah Kuala",
+      "url": "https://clinicaltrials.gov/study/NCT07360639"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05145959",
+      "title": "Meibomian Gland Probing in the Sub-Acute Phase of Patients With Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-01",
+      "completion_date": "2024-03-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The investigators' aim is to study the effects of mechanical expression of meibomian glands on eyelid disease, ocular surface health in the subacute phase of SJS/TEN.\n\nThe primary outcome is to use meibomian gland imaging to assess the health and caliber of the meibomian glands of both lower eyelids, between the treated and non-treated eyes before and after the intervention. Monitoring of outcomes will be measured by comparing the results of meibography at the initial visit and at the 6-month fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with SJS/TEN presenting to the Massachusetts Eye and Ear Infirmary (MEEI) ophthalmology clinic or who were seen by the ophthalmology team acutely at the Massachusetts General Hospital (MGH).\n* Patients must be in the Sub-acute phase of ocular SJS (within 6 months)\n* P",
+      "endpoints": [
+        "Meibomian gland imaging (Meibography) - Qualitative description"
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "url": "https://clinicaltrials.gov/study/NCT05145959"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03630198",
+      "title": "The Use of Local Anesthetic in Intralesional Corticosteroid Injections; A Randomized, Double Blind Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-10-01",
+      "completion_date": "2019-09-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Corticosteroid therapy, including intralesional and topical applications, has many indications within the fields of Dermatology, Plastic Surgery, and Orthopedics. However, these injections can be quite painful, which leads many patients to discontinue treatment.\n\nOften, the injection involves a mixture of local anesthetic and corticosteroids despite a lack of evidence that the use of lidocaine improves pain. Due to the acidic pH, the lidocaine component of the injection can actually cause a sign",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>12 years old presenting with an indication for intralesional steroid injection\n\nExclusion Criteria:\n\n* Unconsentable\n* Not a candidate for corticosteroid injection\n* Contraindication to lidocaine",
+      "endpoints": [
+        "Pain Outcome: Visual Analog Scale"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03630198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03720119",
+      "title": "Multicentre Observational Study on the Wound Pain Relief Properties of ORTODERMINA®",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01-27",
+      "completion_date": "2018-03-05",
+      "country": "Italy",
+      "enrollment": 78,
+      "brief_summary": "Acute pain may occur due to trauma, surgery, infection, disruption of blood circulation or when there is tissue injury. It can be managed using analgesics and conduction anaesthesia, which may be preferable because of superior pain control and fewer side effects. Lidocaine hydrochloride is used topically to relieve itching, burning and pain from skin inflammation. This multicentric observational study is aimed to evaluate the relief gained with lidocaine hydrochloride (ORTODERMINA®) on wound pai",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Patients with painful exuding wounds \\>1 cm2 that includes painful exuding ulcers and pressure ulcers grade II \\[according to National Pressure Ulcer Advisory Panel (NPUAP) classification\\]\n* Patients available and able to return to the study site for the sche",
+      "endpoints": [
+        "Change of Pain Relief From Baseline to the End of Treatment Using the 5-point Visual Rating Scale (VRS)",
+        "Change of Pain Intensity From Baseline to the End of Treatment Using the 11-point Numerical Pain Rating Scale (NPRS)"
+      ],
+      "sponsor": "SOFAR S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03720119"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07067541",
+      "title": "Clinical Observation of Topical Lidocaine Cream Combined With Moisturizing Cream in the Treatment of Atopic Dermatitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-10-01",
+      "completion_date": "2024-01-31",
+      "country": "China",
+      "enrollment": 25,
+      "brief_summary": "Twenty-five patients with atopic dermatitis applied lidocaine cream plus a moisturizer to the right limb and lidocaine cream alone to the left limb, twice daily for four weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients aged 18-65 years.\n2. Clinical diagnosis of atopic dermatitis according to the 2020 Guidelines for the Diagnosis and Treatment of Atopic Dermatitis in China (symmetrical eczematous lesions for ≥6 months plus personal/family atopy history or elevated IgE",
+      "endpoints": [
+        "change in SCORAD (SCORing Atopic Dermatitis) from baseline"
+      ],
+      "sponsor": "First Affiliated Hospital of Kunming Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT07067541"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05508945",
+      "title": "Silk Scaffold Surgical Incision Dressing Interventional Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-08-23",
+      "completion_date": "2023-08-19",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "Interventional Study of the novel clinical application of SERI surgical silk scaffold affixed with dermaFLEX medical adhesive as a wound dressing, compared to two separate current standard of care for surgical incision closure devices: Prineo Dermabond and 3M Steri-Strip. Both components of the silk wound dressing prototype are FDA approved materials for other indications. This study seeks to gain insight of functionality of silk as a wound coverage material and determine variations of clinical ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Exhibit fluency and literacy in English\n* Exhibit adequate cognitive ability to consent to experimental research\n* Ability to obtain pre-operative clearance from an unaffiliated primary care physician prior to surgery as deemed necessary under M. Mark Mofid's predetermined sta",
+      "endpoints": [
+        "Presence of Contact Dermatitis"
+      ],
+      "sponsor": "San Diego Skin, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05508945"
+    }
+  ],
+  "timestamp": "2026-03-04T15:56:17.607787",
+  "success": true,
+  "error_message": null
+}

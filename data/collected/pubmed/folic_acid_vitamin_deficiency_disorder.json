@@ -1,0 +1,571 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "vitamin deficiency disorder",
+    "query_string": "Folic Acid AND vitamin deficiency disorder"
+  },
+  "data": {
+    "query": "Folic Acid AND vitamin deficiency disorder",
+    "results": [
+      {
+        "pmid": "32127439",
+        "title": "Severe megaloblastic anemia: Vitamin deficiency and other causes.",
+        "abstract": "Megaloblastic anemia causes macrocytic anemia from ineffective red blood cell production and intramedullary hemolysis. The most common causes are folate (vitamin B9) deficiency and cobalamin (vitamin B12) deficiency. Megaloblastic anemia can be diagnosed based on characteristic morphologic and laboratory findings. However, other benign and neoplastic diseases need to be considered, particularly in severe cases. Therapy involves treating the underlying cause-eg, with vitamin supplementation in cases of deficiency, or with discontinuation of a suspected medication.",
+        "journal": "Cleveland Clinic journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Socha Daniel S",
+          "DeSouza Sherwin I",
+          "Flagg Aron",
+          "Sekeres Mikkael",
+          "Rogers Heesun J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aged",
+          "Anemia, Megaloblastic",
+          "Avitaminosis",
+          "Diagnosis, Differential",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32127439/"
+      },
+      {
+        "pmid": "38968136",
+        "title": "Folic acid and autism: updated evidences.",
+        "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that impairs communication, socialization, and behavior. The association of ASD with folic acid has been investigated due to the importance of this vitamin for neurological health. This study is an update of the publication 'Folic acid and autism: What do we know?' and aims to systematically review studies examining the relationship between folic acid and ASD. The search resulted in 2,389 studies on folic acid and ASD, which were selected by two reviewers based on their titles and abstracts. Studies meeting the inclusion criteria were fully read. The 52 included studies involved 10,429 individuals diagnosed with ASD and assessed the intake of vitamin B6, folic acid, and vitamin B12; serum levels of these vitamins, homocysteine, and methionine; therapeutic interventions using folic acid; and the association between maternal exposure to this vitamin and the risk of ASD. The evidence of insufficient folic acid intake",
+        "journal": "Nutritional neuroscience",
+        "year": "2025",
+        "authors": [
+          "Vasconcelos Cristiane",
+          "Perry Ingrid Schweigert",
+          "Gottfried Carmem",
+          "Riesgo Rudimar",
+          "Castro Kamila"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Folic Acid",
+          "Autism Spectrum Disorder",
+          "Female",
+          "Vitamin B 12",
+          "Child",
+          "Homocysteine",
+          "Folic Acid Deficiency",
+          "Autistic Disorder",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38968136/"
+      },
+      {
+        "pmid": "26045325",
+        "title": "The epidemiology of global micronutrient deficiencies.",
+        "abstract": "Micronutrients are essential to sustain life and for optimal physiological function. Widespread global micronutrient deficiencies (MNDs) exist, with pregnant women and their children under 5 years at the highest risk. Iron, iodine, folate, vitamin A, and zinc deficiencies are the most widespread MNDs, and all these MNDs are common contributors to poor growth, intellectual impairments, perinatal complications, and increased risk of morbidity and mortality. Iron deficiency is the most common MND worldwide and leads to microcytic anemia, decreased capacity for work, as well as impaired immune and endocrine function. Iodine deficiency disorder is also widespread and results in goiter, mental retardation, or reduced cognitive function. Adequate zinc is necessary for optimal immune function, and deficiency is associated with an increased incidence of diarrhea and acute respiratory infections, major causes of death in those <5 years of age. Folic acid taken in early pregnancy can prevent neur",
+        "journal": "Annals of nutrition & metabolism",
+        "year": "2015",
+        "authors": [
+          "Bailey Regan L",
+          "West Keith P",
+          "Black Robert E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Food, Fortified",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Iodine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26045325/"
+      },
+      {
+        "pmid": "29532755",
+        "title": "Homocysteine and Hyperhomocysteinaemia.",
+        "abstract": "Homocysteine (Hcy) is a thiol group containing the amino acid, which naturally occurs in all humans. Hcy is degraded in the body through two metabolic pathways, while a minor part is excreted through kidneys. The chemical reactions that are necessary for degradation of Hcy require the presence of folic acid, vitamins B6 and B12. Consequently, the level of the total Hcy in the serum is influenced by the presence or absence of these vitamins. An elevated level of the Hcy, hyperhomocysteinemia (HHcy) and homocystinuria is connected with occlusive artery disease, especially in the brain, the heart, and the kidney, in addition to venous thrombosis, chronic renal failure, megaloblastic anemia, osteoporosis, depression, Alzheimer's disease, pregnancy problems, and others. Elevated Hcy levels are connected with various pathologies both in adult and child population. Causes of HHcy include genetic mutations and enzyme deficiencies in 5, 10-methylenetetrahydrofolate reductase (MTHFR) methionine ",
+        "journal": "Current medicinal chemistry",
+        "year": "2019",
+        "authors": [
+          "Zaric Bozidarka L",
+          "Obradovic Milan",
+          "Bajic Vladan",
+          "Haidara Mohamed A",
+          "Jovanovic Milos"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase",
+          "Animals",
+          "Avitaminosis",
+          "Cystathionine beta-Synthase",
+          "Folic Acid",
+          "Homocysteine",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Methylenetetrahydrofolate Reductase (NADPH2)",
+          "Vitamin B 12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29532755/"
+      },
+      {
+        "pmid": "32892962",
+        "title": "Treatment of Folate Metabolism Abnormalities in Autism Spectrum Disorder.",
+        "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental disorder that currently has no approved medical therapy to address core symptoms or underling pathophysiological processes. Several compounds are under development that address both underlying pathophysiological abnormalities and core ASD symptoms. This article reviews one of these treatments, d,l-leucovorin calcium (also known as folinic acid) for treatment of folate pathway abnormalities in children with ASD. Folate is a water-soluble B vitamin that is essential for normal neurodevelopment and abnormalities in the folate and related pathways have been identified in children with ASD. One of these abnormalities involves a partial blockage in the ability of folate to be transported into the brain utilizing the primary transport mechanism, the folate receptor alpha. Autoantibodies which interfere with the function of the folate receptor alpha called folate receptor alpha autoantibodies have been identified in 58%-76% o",
+        "journal": "Seminars in pediatric neurology",
+        "year": "2020",
+        "authors": [
+          "Frye Richard E",
+          "Rossignol Daniel A",
+          "Scahill Lawrence",
+          "McDougle Christopher J",
+          "Huberman Harris"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Autism Spectrum Disorder",
+          "Autoantibodies",
+          "Child",
+          "Folate Receptor 1",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Leucovorin",
+          "Vitamin B Complex"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32892962/"
+      },
+      {
+        "pmid": "590107",
+        "title": "[Folic-acid deficiency].",
+        "abstract": "",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "1977",
+        "authors": [
+          "Heilmann E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Renal Dialysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/590107/"
+      },
+      {
+        "pmid": "14276573",
+        "title": "FOLIC ACID.",
+        "abstract": "",
+        "journal": "Annual review of medicine",
+        "year": "1965",
+        "authors": [
+          "HERBERT V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Macrocytic",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Metabolism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14276573/"
+      },
+      {
+        "pmid": "27002274",
+        "title": "Unpeeling the Evidence for the Banana Bag: Evidence-Based Recommendations for the Management of Alcohol-Associated Vitamin and Electrolyte Deficiencies in the ICU.",
+        "abstract": "Patients with a chronic alcohol use disorder presenting to the ICU may be deficient in important vitamins and electrolytes and are often prescribed a \"banana bag\" as a reflexive standard of therapy. The difficulty of diagnosing Wernicke's encephalopathy in the critical care setting is reviewed. Furthermore, whether the contents and doses of micronutrients and electrolytes in standard banana bags meet the needs of critically ill patients with an alcohol use disorder is assessed based on available evidence.",
+        "journal": "Critical care medicine",
+        "year": "2016",
+        "authors": [
+          "Flannery Alexander H",
+          "Adkins David A",
+          "Cook Aaron M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol-Induced Disorders",
+          "Dietary Supplements",
+          "Electrolytes",
+          "Folic Acid",
+          "Humans",
+          "Intensive Care Units",
+          "Ketosis",
+          "Magnesium",
+          "Patient Care Bundles",
+          "Thiamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27002274/"
+      },
+      {
+        "pmid": "3280358",
+        "title": "Folic acid.",
+        "abstract": "",
+        "journal": "The International journal of biochemistry",
+        "year": "1988",
+        "authors": [
+          "Davis R E",
+          "Nicol D J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Carrier Proteins",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Folate Receptors, GPI-Anchored",
+          "Folic Acid",
+          "Folic Acid Antagonists",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Nutritional Requirements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3280358/"
+      },
+      {
+        "pmid": "1463588",
+        "title": "Vitamin neurotoxicity.",
+        "abstract": "Vitamins contain reactive functional groups necessary to their established roles as coenzymes and reducing agents. Their reactive potential may produce injury if vitamin concentration, distribution, or metabolism is altered. However, identification of vitamin toxicity has been difficult. The only well-established human vitamin neurotoxic effects are those due to hypervitaminosis A (pseudotumor cerebri) and pyridoxine (sensory neuropathy). In each case, the neurological effects of vitamin deficiency and vitamin excess are similar. Closely related to the neurological symptoms of hypervitaminosis A are symptoms including headache, pseudotumor cerebri, and embryotoxic effects reported in patients given vitamin A analogs or retinoids. Most tissues contain retinoic acid (RA) and vitamin D receptors, members of a steroid receptor superfamily known to regulate development and gene expression. Vitamin D3 effects on central nervous system (CNS) gene expression are predictable, in addition to the",
+        "journal": "Molecular neurobiology",
+        "year": "1992",
+        "authors": [
+          "Snodgrass S R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abnormalities, Drug-Induced",
+          "Animals",
+          "Ascorbic Acid",
+          "Avitaminosis",
+          "Blood-Brain Barrier",
+          "Carrier Proteins",
+          "Coenzymes",
+          "Drug Interactions",
+          "Folic Acid",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1463588/"
+      },
+      {
+        "pmid": "2041378",
+        "title": "Vitamin B12 and folic acid deficiency in chronic pancreatitis: a relevant disorder?",
+        "abstract": "Vitamin B12 malabsorption was reported earlier to occur in patients with exocrine pancreatic insufficiency, and pancreatic extracts were shown to improve the absorption of vitamin B12. We investigated serum levels of vitamin B12 and serum folate in patients with chronic pancreatitis and different degrees of pancreatic insufficiency. 137 patients (84 males, 53 females, age 34-72 years) with chronic pancreatitis (C.P.) were included in the study. 123 of 137 (89.8%) patients had a pathologic pancreatic function test result, classified into mild (n = 24), moderate (n = 61) or severe (n = 38) insufficiency. The normal range of serum vitamin B12 and folic acid was established in 58 healthy controls and was found to be 190-1020 pg/ml for serum vitamin B12 and 2.4-16.1 ng/ml for folic acid. 7 patients (5.7%) with C.P. had vitamin B12 serum levels below 190 pg/ml; 4 of these had severe and 3 had mild or moderate exocrine pancreatic insufficiency. However there was no overall correlation between",
+        "journal": "Klinische Wochenschrift",
+        "year": "1991",
+        "authors": [
+          "Glasbrenner B",
+          "Malfertheiner P",
+          "Büchler M",
+          "Kuhn K",
+          "Ditschuneit H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chronic Disease",
+          "Exocrine Pancreatic Insufficiency",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Intestinal Absorption",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2041378/"
+      },
+      {
+        "pmid": "13696122",
+        "title": "Folic acid deficiency.",
+        "abstract": "",
+        "journal": "Postgraduate medical journal",
+        "year": "1961",
+        "authors": [
+          "COX E V",
+          "MEYNELL M J",
+          "COOKE W T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13696122/"
+      },
+      {
+        "pmid": "3176999",
+        "title": "Vitamin B12 and folic acid serum levels in obsessive compulsive disorder.",
+        "abstract": "Vitamin B12 and folate serum levels were studied in 30 patients with obsessive compulsive disorder (OCD), and in two control groups comprised of 30 chronic schizophrenics and 30 normal healthy subjects. Six patients (20%) of the OCD group had abnormal low levels of vitamin B12. This prevalence was significantly higher than that of the control groups. No clinical neurological or haematological abnormalities accompanied the reduced vitamin B12 levels. Possible implication of this finding for the pathophysiology of OCD in a subgroup of patients and the possibility that the B12 deficiency could be the consequence rather than the cause of OCD are suggested.",
+        "journal": "Acta psychiatrica Scandinavica",
+        "year": "1988",
+        "authors": [
+          "Hermesh H",
+          "Weizman A",
+          "Shahar A",
+          "Munitz H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Folic Acid",
+          "Humans",
+          "Obsessive-Compulsive Disorder",
+          "Schizophrenia",
+          "Vitamin B 12",
+          "Vitamin B 12 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3176999/"
+      },
+      {
+        "pmid": "15011387",
+        "title": "[Folic acid deficiency].",
+        "abstract": "",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2004",
+        "authors": [
+          "Miyachi Takafumi",
+          "Mimori Yasuyo",
+          "Matsumoto Masayasu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Dementia",
+          "Diagnosis, Differential",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Injections, Intramuscular"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15011387/"
+      },
+      {
+        "pmid": "28477545",
+        "title": "Vitamin B12, folic acid, homocysteine and vitamin D levels in children and adolescents with obsessive compulsive disorder.",
+        "abstract": "Obsessive compulsive disorder (OCD) is a complex disorder with a poorly understood aetiopathogenesis. One carbon metabolism that includes vitamin B12, folic acid and homocysteine has been investigated in many psychiatric disorders like OCD. In recent years, vitamin D has also been considered to contribute to many of these psychiatric disorders. In this study we investigated whether vitamin B12, homocysteine and vitamin D play a role in the aetiology of paediatric OCD. With this aim we compared 52 children and adolescent OCD patients with 30 healthy controls. The participants were tested for vitamin B12, folic acid, homocysteine and vitamin D levels and were evaluated with a sociodemographic form, state-trait anxiety inventory 1 and 2, Kovacs Depression Inventory and Yale-Brown Obsessive Compulsive Scale (Y-BOCS). As a result we found significantly lower levels of vitamin B12 and vitamin D and higher levels of homocysteine in the patient group compared to control group (p values for all",
+        "journal": "Psychiatry research",
+        "year": "2017",
+        "authors": [
+          "Esnafoğlu Erman",
+          "Yaman Elif"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Biomarkers",
+          "Child",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Homocysteine",
+          "Humans",
+          "Obsessive-Compulsive Disorder",
+          "Psychiatric Status Rating Scales"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28477545/"
+      },
+      {
+        "pmid": "27008500",
+        "title": "Folic acid and diseases - supplement it or not?",
+        "abstract": "folic acid is a water soluble vitamin, which is synthetically-produced and found in fortified foods and supplements. Folate is found naturally in plants, such as the dark green leafy vegetables. Folate is not synthesized de novo by humans, therefore the daily requirements are met from the dietary intake of folic acid supplements or food rich in this vitamin. Folate deficiency could lead to numerous common health problems. Hyperhomocysteinemia and the possibility of malignancy developments are the long term consequences of this deficit albeit contradictory findings on these claims.",
+        "journal": "Revista da Associacao Medica Brasileira (1992)",
+        "year": "2016",
+        "authors": [
+          "Liew Siaw-Cheok"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Coronary Artery Disease",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Homocysteine",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Hypertension",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27008500/"
+      },
+      {
+        "pmid": "25418386",
+        "title": "Water-soluble vitamins.",
+        "abstract": "",
+        "journal": "World review of nutrition and dietetics",
+        "year": "2015",
+        "authors": [
+          "Said Hamid M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Ascorbic Acid",
+          "Avitaminosis",
+          "Biotin",
+          "Diet",
+          "Folic Acid",
+          "Gastrointestinal Microbiome",
+          "Humans",
+          "Intestines",
+          "Niacinamide",
+          "Pantothenic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25418386/"
+      },
+      {
+        "pmid": "26745150",
+        "title": "Association between vitamin deficiency and metabolic disorders related to obesity.",
+        "abstract": "Inappropriate food behavior contributes to obesity and leads to vitamin deficiency. This review discusses the nutritional status of water- and fat-soluble vitamins in obese subjects. We verified that most vitamins are deficient in obese individuals, especially the fat-soluble vitamins, folic acid, vitamin B12 and vitamin C. However, some vitamins have been less evaluated in cases of obesity. The adipose tissue is considered a metabolic and endocrine organ, which in excess leads to changes in body homeostasis, as well as vitamin deficiency which can aggravate the pathological state. Therefore, the evaluation of vitamin status is of fundamental importance in obese individuals.",
+        "journal": "Critical reviews in food science and nutrition",
+        "year": "2017",
+        "authors": [
+          "Thomas-Valdés Samanta",
+          "Tostes Maria das Graças V",
+          "Anunciação Pamella C",
+          "da Silva Bárbara P",
+          "Sant'Ana Helena M Pinheiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Avitaminosis",
+          "Comorbidity",
+          "Folic Acid",
+          "Humans",
+          "Metabolic Diseases",
+          "Nutritional Status",
+          "Obesity",
+          "Vitamin A",
+          "Vitamin B 12",
+          "Vitamins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26745150/"
+      },
+      {
+        "pmid": "37075986",
+        "title": "Gestational folic acid supplement prevents vitamin D deficiency-induced depression-like behavior by reversing cortical DNA hypomethylation in adult offspring.",
+        "abstract": "Depression is a common mental disorder with an increasing incidence. Several studies have demonstrated that cortical DNA hypomethylation is associated with depression-like behaviors. This study aims to investigate whether maternal vitamin D deficiency (VDD) induces depression-like behaviors and to explore the effects of folic acid supplement on VDD-induced cortical DNA hypomethylation in adult offspring. Female mice were fed with a VDD diet, beginning at 5 weeks of age and throughout pregnancy. Depression-like behaviors were evaluated, and cortical 5-methylcytosine (5mC) content was detected in adult offspring. Results showed that depression-like behaviors were observed in adult offspring of the VDD group. Cortical Ache and Oxtr mRNAs were upregulated in female offspring of the VDD group. Cortical Cpt1a and Htr1b mRNAs were increased in male offspring of the VDD group. Moreover, cortical 5mC content was reduced in offspring of VDD-fed dams. The additional experiment showed that serum f",
+        "journal": "The Journal of steroid biochemistry and molecular biology",
+        "year": "2023",
+        "authors": [
+          "Tuo Ling-Jin",
+          "Song Xiao-Yue",
+          "Zhu Yan-Yan",
+          "He Hong-Ning",
+          "Song Ya-Ping"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Animals",
+          "Male",
+          "Female",
+          "Mice",
+          "Folic Acid",
+          "DNA Methylation",
+          "Depression",
+          "Vitamin D Deficiency",
+          "DNA"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37075986/"
+      },
+      {
+        "pmid": "7796091",
+        "title": "Does folic acid harm people with vitamin B12 deficiency?",
+        "abstract": "Oral folic acid given before and during pregnancy can prevent about 75% of fetal neural tube defects. Even in large dose (20 mg daily) folic acid has never been shown to harm normal people, but it has acquired a bad reputation in pernicious anaemia. Before 1930, if untreated patients survived the anaemia, they succumbed to peripheral neuritis, subacute combined degeneration of the spinal cord, and death. The speed of this progression was extremely variable. From 1947 onwards, there were many reports of rapid neurological deterioration during administration of folic acid as sole therapy to people with pernicious anaemia. However, a review of clinical studies published before the introduction of liver and vitamin B12 therapy shows that neurological deterioration was often quite as rapid and severe in untreated patients. Oral folic acid can usually correct or prevent the anaemia of pernicious anaemia. Thus it could mask the underlying disease, and allow the development or progression of n",
+        "journal": "QJM : monthly journal of the Association of Physicians",
+        "year": "1995",
+        "authors": [
+          "Dickinson C J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anemia, Pernicious",
+          "Clinical Trials as Topic",
+          "Diagnostic Errors",
+          "Female",
+          "Folic Acid",
+          "Food, Fortified",
+          "Humans",
+          "Male",
+          "Nervous System Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7796091/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:39:55.891564",
+  "success": true,
+  "error_message": null
+}

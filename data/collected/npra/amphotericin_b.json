@@ -1,0 +1,38 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Amphotericin B",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL09072763AZ",
+      "product": "AMPHOTRET FOR INJECTION USP 50MG",
+      "active_ingredient": "AMPHOTERICIN B[50;mg;;0]",
+      "generic_name": "Amphotericin B 50 mg Injection",
+      "holder": "PAHANG PHARMACY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-08-02",
+      "date_end": "2029-08-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL09072763AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL10053649AZ",
+      "product": "AMPHOLIP Injection 50mg/10ml",
+      "active_ingredient": "AMPHOTERICIN B[5.0;mg;1;ml]",
+      "generic_name": "Amphotericin B 50 mg Injection",
+      "holder": "PAHANG PHARMACY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-05-30",
+      "date_end": "2030-05-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL10053649AZ"
+    }
+  ],
+  "timestamp": "2026-03-04T15:59:38.429870",
+  "success": true,
+  "error_message": null
+}

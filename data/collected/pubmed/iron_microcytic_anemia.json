@@ -1,0 +1,550 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Iron",
+    "disease": "microcytic anemia",
+    "query_string": "Iron AND microcytic anemia"
+  },
+  "data": {
+    "query": "Iron AND microcytic anemia",
+    "results": [
+      {
+        "pmid": "1578956",
+        "title": "Microcytic anemia. Differential diagnosis and management of iron deficiency anemia.",
+        "abstract": "Microcytic anemia is defined as the presence of small, often hypochromic, red blood cells in a peripheral blood smear and is usually characterized by a low MCV (less than 83 micron 3). Iron deficiency is the most common cause of microcytic anemia. The absence of iron stores in the bone marrow remains the most definitive test for differentiating iron deficiency from the other microcytic states, ie, anemia of chronic disease, thalassemia, and sideroblastic anemia. However, measurement of serum ferritin, iron concentration, transferrin saturation and iron-binding capacity, and, more recently, serum transferrin receptors may obviate proceeding to bone marrow evaluation. The human body maintains iron homeostasis by recycling the majority of its stores. Disruptions in this balance are commonly seen during menstruation, pregnancy, and gastrointestinal bleeding. Although the iron-absorptive capacity is able to increase upon feedback regarding total body iron stores or erythropoietic activity, ",
+        "journal": "The Medical clinics of North America",
+        "year": "1992",
+        "authors": [
+          "Massey A C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Hypochromic",
+          "Diagnosis, Differential",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1578956/"
+      },
+      {
+        "pmid": "26926814",
+        "title": "Iron Deficiency and Other Types of Anemia in Infants and Children.",
+        "abstract": "Anemia, defined as a hemoglobin level two standard deviations below the mean for age, is prevalent in infants and children worldwide. The evaluation of a child with anemia should begin with a thorough history and risk assessment. Characterizing the anemia as microcytic, normocytic, or macrocytic based on the mean corpuscular volume will aid in the workup and management. Microcytic anemia due to iron deficiency is the most common type of anemia in children. The American Academy of Pediatrics and the World Health Organization recommend routine screening for anemia at 12 months of age; the U.S. Preventive Services Task Force found insufficient evidence to assess the benefits vs. harms of screening. Iron deficiency anemia, which can be associated with cognitive issues, is prevented and treated with iron supplements or increased intake of dietary iron. The U.S. Preventive Services Task Force found insufficient evidence to recommend screening or treating pregnant women for iron deficiency an",
+        "journal": "American family physician",
+        "year": "2016",
+        "authors": [
+          "Wang Mary"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Iron",
+          "Mass Screening",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26926814/"
+      },
+      {
+        "pmid": "22942439",
+        "title": "Iron deficiency anemia.",
+        "abstract": "Iron is essential to virtually all living organisms and is integral to multiple metabolic functions. The most important function is oxygen transport in hemoglobin. Iron deficiency anemia in dogs and cats is usually caused by chronic blood loss and can be discovered incidentally as animals may have adapted to the anemia. Severe iron deficiency is characterized by a microcytic, hypochromic, potentially severe anemia with a variable regenerative response. Iron metabolism and homeostasis will be reviewed, followed by a discussion of diagnostic testing and therapeutic recommendations for dogs and cats with iron deficiency anemia.",
+        "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+        "year": "2012",
+        "authors": [
+          "Naigamwalla Dinaz Z",
+          "Webb Jinelle A",
+          "Giger Urs"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Animals",
+          "Blood Transfusion",
+          "Cat Diseases",
+          "Cats",
+          "Diagnosis, Differential",
+          "Dog Diseases",
+          "Dogs",
+          "Hemorrhage",
+          "Homeostasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22942439/"
+      },
+      {
+        "pmid": "17375513",
+        "title": "Iron deficiency anemia.",
+        "abstract": "The prevalence of iron deficiency anemia is 2 percent in adult men, 9 to 12 percent in non-Hispanic white women, and nearly 20 percent in black and Mexican-American women. Nine percent of patients older than 65 years with iron deficiency anemia have a gastrointestinal cancer when evaluated. The U.S. Preventive Services Task Force currently recommends screening for iron deficiency anemia in pregnant women but not in other groups. Routine iron supplementation is recommended for high-risk infants six to 12 months of age. Iron deficiency anemia is classically described as a microcytic anemia. The differential diagnosis includes thalassemia, sideroblastic anemias, some types of anemia of chronic disease, and lead poisoning. Serum ferritin is the preferred initial diagnostic test. Total iron-binding capacity, transferrin saturation, serum iron, and serum transferrin receptor levels may be helpful if the ferritin level is between 46 and 99 ng per mL (46 and 99 mcg per L); bone marrow biopsy m",
+        "journal": "American family physician",
+        "year": "2007",
+        "authors": [
+          "Killip Shersten",
+          "Bennett John M",
+          "Chambers Mara D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Algorithms",
+          "Anemia, Iron-Deficiency",
+          "Diagnosis, Differential",
+          "Female",
+          "Ferric Compounds",
+          "Ferritins",
+          "Humans",
+          "Infusions, Parenteral",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17375513/"
+      },
+      {
+        "pmid": "32332184",
+        "title": "Anaemia: A disease or symptom.",
+        "abstract": "Anaemia is a common diagnosis for clinicians. This mini-review summarises criteria for diagnosing the cause of anaemia. Within the microcytic anaemias, iron-deficient anaemia is most common. In addition, we would like to raise awareness of thalassaemia as a differential diagnosis. A normocytic anaemia, such as anaemia of chronic disease, is a diagnosis of exclusion. A macrocytic anaemia scheme is provided and differentiates based on reticulocyte count. We aim to provide the readers a clear overview of anaemia and when to refer to haematologists.",
+        "journal": "The Netherlands journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Newhall D A",
+          "Oliver R",
+          "Lugthart S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia",
+          "Child",
+          "Diagnosis, Differential",
+          "Female",
+          "Hemoglobins",
+          "Humans",
+          "Male",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32332184/"
+      },
+      {
+        "pmid": "35289581",
+        "title": "Alpha- and Beta-thalassemia: Rapid Evidence Review.",
+        "abstract": "Thalassemia is a group of autosomal recessive hemoglobinopathies affecting the production of normal alpha- or beta-globin chains that comprise hemoglobin. Ineffective production of alpha- or beta-globin chains may result in ineffective erythropoiesis, premature red blood cell destruction, and anemia. Chronic, severe anemia in patients with thalassemia may result in bone marrow expansion and extramedullary hematopoiesis. Thalassemia should be suspected in patients with microcytic anemia and normal or elevated ferritin levels. Hemoglobin electrophoresis may reveal common characteristics of different thalassemia subtypes, but genetic testing is required to confirm the diagnosis. Thalassemia is generally asymptomatic in trait and carrier states. Alpha-thalassemia major results in hydrops fetalis and is often fatal at birth. Beta-thalassemia major requires lifelong transfusions starting in early childhood (often before two years of age). Alpha- and beta-thalassemia intermedia have variable ",
+        "journal": "American family physician",
+        "year": "2022",
+        "authors": [
+          "Baird Drew C",
+          "Batten Stuart H",
+          "Sparks Steven K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Hematologic Diseases",
+          "Humans",
+          "Infant, Newborn",
+          "Iron",
+          "Iron Overload",
+          "Thalassemia",
+          "beta-Globins",
+          "beta-Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35289581/"
+      },
+      {
+        "pmid": "39519457",
+        "title": "Diagnosis and Treatment of Iron Deficiency and Iron Deficiency Anemia in Children and Adolescents: Recommendations of the Polish Pediatric Society, the Polish Society of Pediatric Oncology and Hematology, the Polish Society of Neonatology, and the Polish Society of Family Medicine.",
+        "abstract": "Background/Objectives. Iron deficiency is one of the most common nutritional deficiencies worldwide and is the leading cause of anemia in the pediatric population (microcytic, hypochromic anemia due to iron deficiency). Moreover, untreated iron deficiency can lead to various systemic consequences and can disrupt the child's development. Methods/Results. Therefore, a team of experts from the Polish Pediatric Society, the Polish Society of Pediatric Oncology and Hematology, the Polish Neonatology Society, and the Polish Society of Family Medicine, based on a review of the current literature, their own clinical experience, and critical discussion, has developed updated guidelines for the diagnosis, prevention, and treatment of iron deficiency in children from birth to 18 years of age. These recommendations apply to the general population and do not take into account the specifics of individual conditions and diseases.",
+        "journal": "Nutrients",
+        "year": "2024",
+        "authors": [
+          "Chaber Radosław",
+          "Helwich Ewa",
+          "Lauterbach Ryszard",
+          "Mastalerz-Migas Agnieszka",
+          "Matysiak Michał"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Poland",
+          "Adolescent",
+          "Iron Deficiencies",
+          "Societies, Medical",
+          "Infant",
+          "Child, Preschool",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39519457/"
+      },
+      {
+        "pmid": "25271605",
+        "title": "Microcytic anemia.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2014",
+        "authors": [
+          "DeLoughery Thomas G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Blood Transfusion",
+          "Erythrocytes",
+          "Ferritins",
+          "Ferrous Compounds",
+          "Humans",
+          "Inflammation",
+          "Iron",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25271605/"
+      },
+      {
+        "pmid": "20540485",
+        "title": "Evaluation of anemia in children.",
+        "abstract": "Anemia is defined as a hemoglobin level of less than the 5th percentile for age. Causes vary by age. Most children with anemia are asymptomatic, and the condition is detected on screening laboratory evaluation. Screening is recommended only for high-risk children. Anemia is classified as microcytic, normocytic, or macrocytic, based on the mean corpuscular volume. Mild microcytic anemia may be treated presumptively with oral iron therapy in children six to 36 months of age who have risk factors for iron deficiency anemia. If the anemia is severe or is unresponsive to iron therapy, the patient should be evaluated for gastrointestinal blood loss. Other tests used in the evaluation of microcytic anemia include serum iron studies, lead levels, and hemoglobin electrophoresis. Normocytic anemia may be caused by chronic disease, hemolysis, or bone marrow disorders. Workup of normocytic anemia is based on bone marrow function as determined by the reticulocyte count. If the reticulocyte count is",
+        "journal": "American family physician",
+        "year": "2010",
+        "authors": [
+          "Janus Jennifer",
+          "Moerschel Sarah K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Transfusion",
+          "Child",
+          "Child, Preschool",
+          "Erythrocyte Count",
+          "Erythrocyte Indices"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20540485/"
+      },
+      {
+        "pmid": "36725875",
+        "title": "Alternate day versus daily oral iron for treatment of iron deficiency anemia: a randomized controlled trial.",
+        "abstract": "Oral iron is the mainstay of treating iron deficiency anemia. Recent studies indicate better fractional iron absorption with alternate day supplementation. However, the optimal supplementation strategy is unclear. We compared effectiveness of daily versus alternate day supplementation of oral iron for treatment of iron deficiency anemia. This double blind, active control, randomized controlled trial was conducted on two hundred adults having hemoglobin 10 g/dL or less with microcytic hypochromic anemia and/or serum ferritin below 50 ng/mL. They were randomized to receive either two Ferrous sulfate tablets containing 60 mg elemental iron (120 mg total) on alternate days or single tablet of 60 mg elemental iron daily for 8 weeks. Primary outcome was mean change in hemoglobin at week 8 from baseline. Mean hemoglobin was 6.53 (± 1.89) and 6.68 (± 1.89) g/dL in the alternate day and daily arms respectively. Mean change in hemoglobin was + 1.05 ± 1.34 g/dL in alternate day arm and + 1.36 ± 1",
+        "journal": "Scientific reports",
+        "year": "2023",
+        "authors": [
+          "Pasupathy Elamparithi",
+          "Kandasamy Ravichandran",
+          "Thomas Kurien",
+          "Basheer Aneesh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Iron",
+          "Anemia, Iron-Deficiency",
+          "Hemoglobins",
+          "Iron Radioisotopes",
+          "Hemoglobins, Abnormal",
+          "Administration, Oral",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36725875/"
+      },
+      {
+        "pmid": "38960649",
+        "title": "[Diagnosis and treatment of iron deficiency anemia].",
+        "abstract": "The causes of iron deficiency anemia include blood loss, increased demand, insufficient dietary intake, and disorders affecting iron absorption. In certain circumstances, atrophic gastritis, either autoimmune or due to Helicobacter pylori infection, may contribute. On very rare occasions, iron-refractory iron deficiency anemia can develop as a consequence of TMPRSS6 mutations. Iron deficiency anemia is diagnosed by identification of microcytic hypochromic anemia with low serum ferritin levels. In cases of chronic disorders such as chronic kidney disease, chronic heart failure, and chronic inflammatory disorders, the diagnosis may also incorporate transferrin saturation. Treatment of underlying diseases is recommended along with iron supplementation. While oral iron supplements are the first choice, intravenous iron may be considered when oral administration is impractical, iron absorption is impaired, or rapid iron replenishment is necessary. Recently, high-dose intravenous iron formul",
+        "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+        "year": "2024",
+        "authors": [
+          "Kawabata Hiroshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "English Abstract"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38960649/"
+      },
+      {
+        "pmid": "25539123",
+        "title": "Microcytic anemia.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2014",
+        "authors": [
+          "Fonseca Eduardo K U N",
+          "de Góis Aécio F T"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Blood Transfusion",
+          "Erythrocytes",
+          "Humans",
+          "Iron",
+          "Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25539123/"
+      },
+      {
+        "pmid": "25539120",
+        "title": "Microcytic anemia.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2014",
+        "authors": [
+          "DeLoughery Thomas G"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Blood Transfusion",
+          "Erythrocytes",
+          "Humans",
+          "Iron",
+          "Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25539120/"
+      },
+      {
+        "pmid": "9166144",
+        "title": "Microcytic anemia.",
+        "abstract": "Because anemia is a condition rather than a disease, an underlying cause must be determined when anemia is identified. Microcytic anemia is a common category of anemia. Iron deficiency anemia is the most common type of microcytic anemia and is also the most common anemia. The clinical presentation of anemia varies according to its severity. Anemias resulting from chronic disease and thalassemia are also relatively common types of microcytic anemia and should be differentiated from iron deficiency to avoid repeated unnecessary trials of iron therapy. Low serum ferritin is the best single laboratory parameter for the diagnosis of iron deficiency. Serum iron, total iron binding capacity and hemoglobin electrophoresis, if necessary, can help differentiate the type of microcytic anemia in patients with normal or elevated levels of serum ferritin. If the evaluation identifies iron deficiency as the type of anemia, the underlying cause must be investigated.",
+        "journal": "American family physician",
+        "year": "1997",
+        "authors": [
+          "Shine J W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Algorithms",
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Sideroblastic",
+          "Child",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Diagnosis, Differential",
+          "Erythrocyte Indices"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9166144/"
+      },
+      {
+        "pmid": "39985323",
+        "title": "How I treat iron-refractory iron deficiency anaemia-An expert opinion-based treatment guidance for children and adults.",
+        "abstract": "Iron-refractory iron deficiency anaemia (IRIDA) is a rare hereditary microcytic anaemia characterized by partial or complete resistance to oral iron supplementation, caused by elevated plasma hepcidin levels resulting from pathogenic variants in the TMPRSS6 gene. Although intravenous iron supplementation is often effective, patient responses can vary significantly due to various factors, and potential side effects of this treatment remain unclear. Additionally, evidence-based international guidelines for diagnosing and managing IRIDA are lacking. This review aims to provide patient-tailored treatment strategies, informed by case studies and expert opinion, to address the specific therapeutic needs of both children and adults with IRIDA.",
+        "journal": "British journal of haematology",
+        "year": "2025",
+        "authors": [
+          "Hoving V",
+          "Donker A E",
+          "Schols S E M",
+          "Swinkels D W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Adult",
+          "Child",
+          "Iron",
+          "Hepcidins",
+          "Male",
+          "Female",
+          "Serine Endopeptidases",
+          "Membrane Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39985323/"
+      },
+      {
+        "pmid": "28211569",
+        "title": "Microcytic anaemias in childhood and iron-refractory iron deficiency anaemia.",
+        "abstract": "",
+        "journal": "British journal of haematology",
+        "year": "2017",
+        "authors": [
+          "Pippard Martin J"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Hepcidins",
+          "Humans",
+          "Serine Endopeptidases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28211569/"
+      },
+      {
+        "pmid": "26309349",
+        "title": "Iron deficiency anemia in celiac disease.",
+        "abstract": "Iron is an important micronutrient that may be depleted in celiac disease. Iron deficiency and anemia may complicate well-established celiac disease, but may also be the presenting clinical feature in the absence of diarrhea or weight loss. If iron deficiency anemia occurs, it should be thoroughly evaluated, even if celiac disease has been defined since other superimposed causes of iron deficiency anemia may be present. Most often, impaired duodenal mucosal uptake of iron is evident since surface absorptive area in the duodenum is reduced, in large part, because celiac disease is an immune-mediated disorder largely focused in the proximal small intestinal mucosa. Some studies have also suggested that blood loss may occur in celiac disease, sometimes from superimposed small intestinal disorders, including ulceration or neoplastic diseases, particularly lymphoma. In addition, other associated gastric or colonic disorders may be responsible for blood loss. Rarely, an immune-mediated hemol",
+        "journal": "World journal of gastroenterology",
+        "year": "2015",
+        "authors": [
+          "Freeman Hugh James"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Cation Transport Proteins",
+          "Celiac Disease",
+          "Diet, Gluten-Free",
+          "Duodenum",
+          "Gastrointestinal Hemorrhage",
+          "Hemolysis",
+          "Humans",
+          "Intestinal Absorption",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26309349/"
+      },
+      {
+        "pmid": "35381889",
+        "title": "Gestational and Lactational Iron Deficiency Anemia Impairs Myelination and the Neurovascular Unit in Infant Rats.",
+        "abstract": "Iron deficiency anemia is a prevalent health problem among pregnant women and infants, particularly in the developing countries that causes brain development deficits and poor cognitive outcomes. Since tissue iron depletion may impair myelination and trigger cellular hypoxic signaling affecting blood vessels, we studied myelination and the neurovascular unit (NVU) in infant rats born to mothers fed with an iron deficient (ID) or control diet from embryonic day 5 till weaning. Blood samples and brains of rat pups at postnatal day (PND) 14 and 30 were analyzed. PND 14 ID rats had severe microcytic hypochromic anemia that was almost reversed at PND 30 although hypomyelination and astrocyte immature phenotype in the corpus callosum were significant at that age. In CA1 hippocampal region, PND 14 and PND 30 ID rats showed significant reduced expression of the receptor β of the platelet-derived growth factor localized in pericytes and associated to aquaporin 4 (AQP4) immunopositive capillarie",
+        "journal": "Molecular neurobiology",
+        "year": "2022",
+        "authors": [
+          "Isasi Eugenia",
+          "Figares Martin",
+          "Abudara Verónica",
+          "Olivera-Bravo Silvia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Animals",
+          "Animals, Newborn",
+          "Female",
+          "Hippocampus",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies",
+          "Lactation",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35381889/"
+      },
+      {
+        "pmid": "26935626",
+        "title": "[Iron-refractory iron deficiency anemia].",
+        "abstract": "The major causes of iron deficiency anemia (IDA) include iron loss due to bleeding, increased iron requirements, and decreased iron absorption by the intestine. The most common cause of IDA in Japanese women is iron loss during menstruation. Autoimmune atrophic gastritis and Helicobacter pylori infection can also cause IDA by reducing intestinal iron absorption. In addition to these common etiologies, germline mutations of TMPRSS6 can cause iron-refractory IDA (IRIDA). TMPRSS6 encodes matriptase-2, a membrane-bound serine protease primarily expressed in the liver. Functional loss of matriptase-2 due to homozygous mutations results in an increase in the expression of hepcidin, which is the key regulator of systemic iron homeostasis. The serum hepcidin increase in turn leads to a decrease in iron supply from the intestine and macrophages to erythropoietic cells. IRIDA is microcytic and hypochromic, but decreased serum ferritin is not observed as in IDA. IRIDA is refractory to oral iron s",
+        "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+        "year": "2016",
+        "authors": [
+          "Kawabata Hiroshi"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Animals",
+          "Hepcidins",
+          "Homeostasis",
+          "Humans",
+          "Iron",
+          "Mutation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26935626/"
+      },
+      {
+        "pmid": "38904793",
+        "title": "Anemia and iron metabolism disorders after single anastomosis sleeve ileal (SASI) bypass. Is it a real problem?",
+        "abstract": "SASI (single anastomosis sleeve ileal) bypass can lead to nutritional deficiencies, including disorders of iron metabolism and anemia. This study aims to evaluate the effect of SASI bypass on weight loss, anemia, and iron deficiency in patients with obesity during the follow-up period.",
+        "journal": "Langenbeck's archives of surgery",
+        "year": "2024",
+        "authors": [
+          "Parkitna Joanna",
+          "Binda Artur",
+          "Gonciarska Agnieszka",
+          "Jaworski Paweł",
+          "Kudlicka Emilia"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Ileum",
+          "Weight Loss",
+          "Postoperative Complications",
+          "Obesity, Morbid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38904793/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:19:37.653895",
+  "success": true,
+  "error_message": null
+}

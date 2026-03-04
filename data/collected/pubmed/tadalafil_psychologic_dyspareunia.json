@@ -1,0 +1,78 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "psychologic dyspareunia",
+    "query_string": "Tadalafil AND psychologic dyspareunia"
+  },
+  "data": {
+    "query": "Tadalafil AND psychologic dyspareunia",
+    "results": [
+      {
+        "pmid": "37952223",
+        "title": "Unconsummated marriage: a systematic review of etiological factors and clinical management.",
+        "abstract": "Unconsummated marriage (UCM) is the inability of the heterosexual married couple to have penovaginal sexual intercourse.",
+        "journal": "The journal of sexual medicine",
+        "year": "2023",
+        "authors": [
+          "Krishnappa Pramod",
+          "Manfredi Celeste",
+          "Jayaramaiah Sneha",
+          "Ditonno Francesco",
+          "Matippa Prasanna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Young Adult",
+          "Coitus",
+          "Dyspareunia",
+          "Erectile Dysfunction",
+          "Marriage",
+          "Sex Education"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37952223/"
+      },
+      {
+        "pmid": "22612985",
+        "title": "Tadalafil 5 mg daily treatment for type 1 diabetic premenopausal women affected by sexual genital arousal disorder.",
+        "abstract": "Type 1 diabetic women may be affected by sexual dysfunction, mainly due to peripheral vascular disease.",
+        "journal": "The journal of sexual medicine",
+        "year": "2012",
+        "authors": [
+          "Caruso Salvatore",
+          "Cicero Carla",
+          "Romano Mattea",
+          "Lo Presti Lucia",
+          "Ventura Betty"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Arousal",
+          "Carbolines",
+          "Clitoris",
+          "Diabetes Mellitus, Type 1",
+          "Diabetic Angiopathies",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Orgasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22612985/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:46:22.311162",
+  "success": true,
+  "error_message": null
+}

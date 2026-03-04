@@ -1,0 +1,568 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "phosphorus metabolism disease",
+    "query_string": "Calcium Carbonate AND phosphorus metabolism disease"
+  },
+  "data": {
+    "query": "Calcium Carbonate AND phosphorus metabolism disease",
+    "results": [
+      {
+        "pmid": "30132304",
+        "title": "Phosphate binders for preventing and treating chronic kidney disease-mineral and bone disorder (CKD-MBD).",
+        "abstract": "Phosphate binders are used to reduce positive phosphate balance and to lower serum phosphate levels for people with chronic kidney disease (CKD) with the aim to prevent progression of chronic kidney disease-mineral and bone disorder (CKD-MBD). This is an update of a review first published in 2011.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2018",
+        "authors": [
+          "Ruospo Marinella",
+          "Palmer Suetonia C",
+          "Natale Patrizia",
+          "Craig Jonathan C",
+          "Vecchio Mariacristina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Calcium",
+          "Calcium Compounds",
+          "Cause of Death",
+          "Chelating Agents",
+          "Chronic Disease",
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Disease Progression",
+          "Fibroblast Growth Factor-23"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30132304/"
+      },
+      {
+        "pmid": "16449551",
+        "title": "Lanthanum carbonate.",
+        "abstract": "To review the pharmacology, pharmacokinetics, clinical efficacy, and safety profile of lanthanum carbonate, a phosphate binder for chronic kidney disease (CKD).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2006",
+        "authors": [
+          "Joy Melanie S",
+          "Kshirsagar Abhijit",
+          "Candiani Corina",
+          "Brooks Tyson",
+          "Hudson Joanna Q"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Chronic Disease",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Kidney Diseases",
+          "Lanthanum",
+          "Phosphorus",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16449551/"
+      },
+      {
+        "pmid": "36407374",
+        "title": "Effect of low-dose lanthanum carbonate on calcium and phosphorus metabolism in Asian Patients with end-stage renal disease, maintenance hemodialysis and hyperphosphatemia.",
+        "abstract": "This study aimed to examine whether a 12-week small-dose lanthanum carbonate (LaCO3; 500 mg/d) treatment could improve calcium and phosphorus metabolism and parathyroid function in Asian patients with end-stage renal disease (ESRD) under hemodialysis.",
+        "journal": "African health sciences",
+        "year": "2022",
+        "authors": [
+          "Cui Xiaofei",
+          "Jiang Shuning",
+          "Liu Liang",
+          "Tang Xuejie",
+          "Chen Yan"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hyperphosphatemia",
+          "Calcium",
+          "Renal Dialysis",
+          "Kidney Failure, Chronic",
+          "Phosphorus",
+          "Lanthanum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36407374/"
+      },
+      {
+        "pmid": "18336094",
+        "title": "[K-DOQI guidelines for calcium and phosphorus metabolism in chronic kidney disease: outcomes, compliance and new drugs for treatment].",
+        "abstract": "",
+        "journal": "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia",
+        "year": "2007",
+        "authors": [
+          "Negri A L"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Cinacalcet",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Lanthanum",
+          "Naphthalenes",
+          "Phosphorus",
+          "Polyamines",
+          "Practice Guidelines as Topic",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18336094/"
+      },
+      {
+        "pmid": "23625273",
+        "title": "Hyperphosphataemia: treatment options.",
+        "abstract": "Hyperphosphataemia can be induced by three main conditions: a massive acute phosphate load, a primary increase in renal phosphate reabsorption, and an impaired renal phosphate excretion due to acute or chronic renal insufficiency. Renal excretion is so efficient in normal subjects that balance can be maintained with only a minimal rise in serum phosphorus concentration even for a large phosphorus load. Therefore, acute hyperphosphataemia usually resolves within few hours if renal function is intact. The most frequent cause of chronic hyperphosphataemia is chronic renal failure. Hyperphosphataemia in chronic kidney disease (CKD) is associated with increased cardiovascular morbidity and mortality. Lowering the phosphate load and maintaining serum phosphorus levels within the normal range are considered important therapeutic goals to improve clinical outcomes in CKD patients. Treatment consists of diminishing intestinal phosphate absorption by a low phosphate diet and phosphate binders. I",
+        "journal": "Drugs",
+        "year": "2013",
+        "authors": [
+          "Malberti Fabio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chelating Agents",
+          "Humans",
+          "Hyperphosphatemia",
+          "Kidney Failure, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23625273/"
+      },
+      {
+        "pmid": "15101790",
+        "title": "Lanthanum carbonate.",
+        "abstract": "Lanthanum carbonate is a novel, non-aluminium, non-calcium phosphate binding agent that forms a water-insoluble compound, lanthanum phosphate, in the gut. Lanthanum carbonate (elemental lanthanum 375-3000 mg/day) reduced serum phosphorus levels compared with placebo in two randomised, double-blind, multicentre 4-week trials in patients with chronic renal failure receiving regular haemodialysis. In two large, randomised trials in patients with chronic renal failure requiring haemodialysis, lanthanum carbonate (elemental lanthanum 375-3000 mg/day) was as effective as calcium carbonate and/or other conventional phosphate binders in reducing and maintaining serum phosphorus levels (< or =5.6 mg/dL over 6 months and < or =5.9 mg/dL over 2 years). Lanthanum carbonate was generally well tolerated. Most adverse events were mild-to-moderate in severity, with gastrointestinal events being the most common. The tolerability profile of lanthanum carbonate was similar to those of conventional phosph",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Swainston Harrison Tracy",
+          "Scott Lesley J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Lanthanum",
+          "Phosphates",
+          "Randomized Controlled Trials as Topic",
+          "Renal Dialysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15101790/"
+      },
+      {
+        "pmid": "19955298",
+        "title": "Sevelamer carbonate.",
+        "abstract": "To review the pharmacology, pharmacokinetics, clinical efficacy, safety data, and place in therapy of sevelamer carbonate for the treatment of hyperphosphatemia in patients with chronic kidney disease (CKD).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Barna Mary M",
+          "Kapoian Toros",
+          "O'Mara Neeta Bahal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chelating Agents",
+          "Humans",
+          "Hyperphosphatemia",
+          "Kidney Failure, Chronic",
+          "Polyamines",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19955298/"
+      },
+      {
+        "pmid": "35845743",
+        "title": "Meta-Analysis of Effects of Nutritional Intervention Combined with Calcium Carbonate D3 Tablets on Bone Mineral Density, Bone Metabolism, and Curative Effect in Patients with Osteoporosis.",
+        "abstract": "To investigate the changes in bone mineral density, bone metabolism, and efficacy of nutritional intervention combined with calcium carbonate D3 tablets in patients with osteoporosis, a RevMan 5.2 software meta-analysis was conducted in this study. According to the therapeutic direction of nutritional intervention combined with calcium carbonate D3 tablets for osteoporosis patients, relevant literature were searched in Wanfang Medical, CNKI, VIP, and PubMed literature databases at home and abroad. Keywords included bone mineral density, bone metabolism, blood calcium (Ca), blood phosphorus (P), osteocalcin (OC), bone mineral density (BMD), serum alkaline phosphatase (ALP), efficacy, osteoporosis, and nutritional intervention. Literature that met the criteria were deleted, and meta-analysis was performed using RevMan 5.2 software. The results indicate that a total of 10 Chinese literature were included. Compared with the monotherapy group, the clinical efficacy, osteocalcin, BMD, alkali",
+        "journal": "Contrast media & molecular imaging",
+        "year": "2022",
+        "authors": [
+          "Ni Hua",
+          "Zhang Shuchen",
+          "Niu Xiaowen",
+          "Dai Sha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Alkaline Phosphatase",
+          "Bone Density",
+          "Calcium",
+          "Calcium Carbonate",
+          "Humans",
+          "Osteocalcin",
+          "Osteoporosis",
+          "Phosphorus",
+          "Tablets"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35845743/"
+      },
+      {
+        "pmid": "34602015",
+        "title": "Safety and effectiveness of lanthanum carbonate for hyperphosphatemia in chronic kidney disease (CKD) patients: a meta-analysis.",
+        "abstract": "The aim of this study was to determine the efficacy and safety of lanthanum carbonate (LC) versus calcium salts, non-LC phosphate binders (PBs), sevelamer, or placebo in patients with chronic kidney disease (CKD).",
+        "journal": "Renal failure",
+        "year": "2021",
+        "authors": [
+          "Zhao Lijuan",
+          "Liu An",
+          "Xu Guoshuang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Humans",
+          "Hyperphosphatemia",
+          "Lanthanum",
+          "Observational Studies as Topic",
+          "Parathyroid Hormone",
+          "Phosphates",
+          "Randomized Controlled Trials as Topic",
+          "Renal Insufficiency, Chronic",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34602015/"
+      },
+      {
+        "pmid": "34861126",
+        "title": "Iron-based phosphorus chelator: Risk of iron deposition and action on bone metabolism in uremic rats.",
+        "abstract": "Phosphate chelators are frequently used in patients with chronic kidney disease (CKD). New iron-based chelators remain understudied and offer a promising therapeutic option for the control of bone and mineral disorders of chronic kidney disease (BMD-CKD). We assessed the effect of the phosphorus chelator, chitosan-iron III (CH-FeCl), compared to calcium carbonate (CaCO3) in BMD-CKD and the potential iron overload in uremic rats. Thirty-two animals were divided into four groups, namely the control, CKD, CKD/CH-FeCl, and CKD/CaCO3 groups. CKD was induced by adding 0.75% (4 weeks) and 0.1% (3 weeks) adenine to the diet. The chelators were administered from week 3 through week 7. The renal function, BMD-CKD markers, and histomorphometry of the femur were assessed at week 7. The CKD group showed a significant increase in creatinine (83.9 ± 18.6 vs. 41.5 ± 22.1 µmol/L; P = 0.001), phosphate (3.5 ± 0.8 vs. 2.2 ± 0.2 mmol/L; P = 0.001), fractional excretion of phosphorus (FEP) (0.71 ± 0.2 vs. ",
+        "journal": "Experimental biology and medicine (Maywood, N.J.)",
+        "year": "2022",
+        "authors": [
+          "Carmo Wander Barros do",
+          "Castro Bárbara Bruna Abreu",
+          "Manso Luísa Cardoso",
+          "Carmo Priscylla Aparecida Vieira do",
+          "Rodrigues Clóvis Antônio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bone and Bones",
+          "Chelating Agents",
+          "Fibroblast Growth Factors",
+          "Iron",
+          "Parathyroid Hormone",
+          "Phosphates",
+          "Phosphorus",
+          "Rats",
+          "Renal Insufficiency, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34861126/"
+      },
+      {
+        "pmid": "29340330",
+        "title": "Efficacy and Safety of Sucroferric Oxyhydroxide and Calcium Carbonate in Hemodialysis Patients.",
+        "abstract": "In this phase III, open-label, single-arm, multi-center 12-week study, we evaluated the efficacy and safety of combination therapy with sucroferric oxyhydroxide (PA21) and calcium carbonate for hemodialysis patients with hyperphosphatemia.",
+        "journal": "Kidney international reports",
+        "year": "2018",
+        "authors": [
+          "Koiwa Fumihiko",
+          "Yokoyama Keitaro",
+          "Fukagawa Masafumi",
+          "Akizawa Tadao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29340330/"
+      },
+      {
+        "pmid": "16278327",
+        "title": "Hyperphosphatemia and phosphate binders.",
+        "abstract": "The pathophysiology of hyperphosphatemia associated with end-stage renal disease and treatment with phosphate binders are discussed.",
+        "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+        "year": "2005",
+        "authors": [
+          "Schucker Jason J",
+          "Ward Kristina E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Calcium",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Phosphorus",
+          "Phosphorus Metabolism Disorders",
+          "Polyamines",
+          "Randomized Controlled Trials as Topic",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16278327/"
+      },
+      {
+        "pmid": "15356967",
+        "title": "Long-term comparison of a calcium-free phosphate binder and calcium carbonate--phosphorus metabolism and cardiovascular calcification.",
+        "abstract": "Calcium carbonate used as a phosphate binder may contribute to cardiovascular calcification. Long-term comparisons of sevelamer, a non-calcium polymeric phosphate binder, and calcium carbonate (CC) are lacking.",
+        "journal": "Clinical nephrology",
+        "year": "2004",
+        "authors": [
+          "Braun J",
+          "Asmus H G",
+          "Holzer H",
+          "Brunkhorst R",
+          "Krause R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Calcinosis",
+          "Calcium Carbonate",
+          "Cardiovascular Diseases",
+          "Epoxy Compounds",
+          "Female",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15356967/"
+      },
+      {
+        "pmid": "23254903",
+        "title": "Oral calcium carbonate affects calcium but not phosphorus balance in stage 3-4 chronic kidney disease.",
+        "abstract": "Patients with chronic kidney disease (CKD) are given calcium carbonate to bind dietary phosphorus, reduce phosphorus retention, and prevent negative calcium balance; however, data are limited on calcium and phosphorus balance during CKD to support this. Here, we studied eight patients with stage 3 or 4 CKD (mean estimated glomerular filtration rate 36 ml/min) who received a controlled diet with or without a calcium carbonate supplement (1500 mg/day calcium) during two 3-week balance periods in a randomized placebo-controlled cross-over design. All feces and urine were collected during weeks 2 and 3 of each balance period and fasting blood, and urine was collected at baseline and at the end of each week. Calcium kinetics were determined using oral and intravenous (45)calcium. Patients were found to be in neutral calcium and phosphorus balance while on the placebo. Calcium carbonate supplementation produced positive calcium balance, did not affect phosphorus balance, and produced only a ",
+        "journal": "Kidney international",
+        "year": "2013",
+        "authors": [
+          "Hill Kathleen M",
+          "Martin Berdine R",
+          "Wastney Meryl E",
+          "McCabe George P",
+          "Moe Sharon M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Analysis of Variance",
+          "Biomarkers",
+          "Calcium",
+          "Calcium Carbonate",
+          "Chelating Agents",
+          "Cross-Over Studies",
+          "Feces",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23254903/"
+      },
+      {
+        "pmid": "33623678",
+        "title": "Efficacy and safety of calcium carbonate in normophosphataemic patients with chronic kidney disease Stages 3 and 4.",
+        "abstract": "Disordered bone and mineral metabolism are a common complication of chronic kidney disease (CKD). Phosphate binders are often prescribed in advanced CKD, when hyperphosphataemia develops. Little is known about the role of these drugs in earlier stages, when serum phosphorus levels are kept in the normal range by increased urinary excretion.",
+        "journal": "Clinical kidney journal",
+        "year": "2021",
+        "authors": [
+          "Neto Ricardo",
+          "Frazão João"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33623678/"
+      },
+      {
+        "pmid": "25399356",
+        "title": "Efficacy and safety of lanthanum carbonate versus calcium-based phosphate binders in patients with chronic kidney disease: a systematic review and meta-analysis.",
+        "abstract": "We conducted this review to assess the relative efficacy and safety of lanthanum carbonate versus calcium-based phosphate binders in chronic kidney disease.",
+        "journal": "International urology and nephrology",
+        "year": "2015",
+        "authors": [
+          "Zhai Chun-Juan",
+          "Yang Xiao-Wei",
+          "Sun Jing",
+          "Wang Rong"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Bone Density",
+          "Calcium",
+          "Calcium Carbonate",
+          "Chelating Agents",
+          "Humans",
+          "Hypercalcemia",
+          "Lanthanum",
+          "Parathyroid Hormone",
+          "Phosphorus",
+          "Radiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25399356/"
+      },
+      {
+        "pmid": "24134531",
+        "title": "Efficacy and safety of lanthanum carbonate on chronic kidney disease-mineral and bone disorder in dialysis patients: a systematic review.",
+        "abstract": "Chronic kidney disease-mineral and bone disorder (CKD-MBD) is a common complication in CKD patients, particularly in those with end-stage renal disease that requires dialysis. Lanthanum carbonate (LC) is a potent, non-aluminum, non-calcium phosphate binder. This systematic review evaluates the efficacy and safety of LC in CKD-MBD treatment for maintenance-dialysis patients.",
+        "journal": "BMC nephrology",
+        "year": "2013",
+        "authors": [
+          "Zhang Chenglong",
+          "Wen Ji",
+          "Li Zi",
+          "Fan Junming"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "China",
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Comorbidity",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Incidence",
+          "Lanthanum",
+          "Male",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24134531/"
+      },
+      {
+        "pmid": "32982259",
+        "title": "Clinical Evaluation of the Safety, Efficacy and Tolerability of Lanthanum Carbonate in the Management of Hyperphosphatemia in Patients with End-Stage Renal Disease.",
+        "abstract": "Patients with progressive chronic kidney disease (CKD) commonly develop mineral and bone abnormalities and extraskeletal calcifications with following increased cardiovascular risk. A key pathophysiological role is played by hyperphosphatemia. Since diet and dialysis are often insufficient to control serum phosphorus levels, many patients require treatment with phosphate binders. Among them is lanthanum carbonate, an aluminum-free non-calcium-based compound. The present review summarizes the most recent literature data concerning the safety, efficacy and tolerability of lanthanum carbonate in patients with end-stage renal disease and hyperphosphatemia. The drug is taken orally as chewable tablets or powder with only minimal gastrointestinal absorption and resulting reduced risk of tissue deposition and systemic drug interactions. The dissociation of the drug in the acid environment of the upper gastrointestinal tract induces the release of lanthanum ions, which bind to dietary phosphat",
+        "journal": "Therapeutics and clinical risk management",
+        "year": "2020",
+        "authors": [
+          "Cernaro Valeria",
+          "Calimeri Sebastiano",
+          "Laudani Alfredo",
+          "Santoro Domenico"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32982259/"
+      },
+      {
+        "pmid": "3784305",
+        "title": "The absorption of dietary phosphorus and calcium in hemodialysis patients.",
+        "abstract": "Absorption of dietary phosphorus plays a critical role in the development of metabolic bone diseases in patients with chronic renal failure. However, phosphorus absorption is difficult to quantitate in dialysis patients because the dialysis treatments complicate metabolic balance studies. Utilizing a recently developed technique which permits measurement of net absorption of dietary constituents after a single meal, we measured phosphorus absorption in dialysis patients. The following observations were made: A.) Following a meal containing approximately 300 mg phosphorus, mean phosphorus absorption in five hemodialysis patients (with severe vitamin D deficiency) was only slightly less than in matched controls (186 +/- 35 vs. 242 +/- 30). B.) After dialysis patients were treated with 1,25(OH)2-D3, phosphorus absorption increased from 186 +/- 35 to 272 +/- 16 mg (P less than 0.025). C.) The effect of three aluminum containing antacids on phosphorus absorption was studied; each slightly r",
+        "journal": "Kidney international",
+        "year": "1986",
+        "authors": [
+          "Ramirez J A",
+          "Emmett M",
+          "White M G",
+          "Fathi N",
+          "Santa Ana C A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Calcitriol",
+          "Calcium Carbonate",
+          "Calcium, Dietary",
+          "Female",
+          "Humans",
+          "Intestinal Absorption"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3784305/"
+      },
+      {
+        "pmid": "26023014",
+        "title": "Safety and efficacy evaluation of lanthanum carbonate for hyperphosphatemia in end-stage renal disease patients.",
+        "abstract": "In end-stage renal disease patients, various abnormalities of bone mineral metabolism adversely affect mortality. Hyperphosphatemia is known to adversely affect mortality and quality of life in chronic kidney disease patients and has been shown to be involved not only in the onset and progression of secondary hyperparathyroidism but also in vascular calcification. Thus, hyperphosphatemia is the main treatment target indicated in several guidelines for chronic kidney disease-mineral and bone disorder treatment. Phosphate binders are typically required for the management of hyperphosphatemia because dietary phosphorus restriction and phosphorus removal by hemodialysis alone are insufficient. We are able to prescribe five phosphate binders (calcium carbonate, sevelamer HCl, lanthanum carbonate (LaC), bixalomer, and ferric citrate) to Japanese hemodialysis patients. LaC is the most powerful noncalcium-containing phosphate binder for the treatment of hyperphosphatemia. In this chapter, we d",
+        "journal": "Contributions to nephrology",
+        "year": "2015",
+        "authors": [
+          "Shigematsu Takashi",
+          "Ohya Masaki",
+          "Negi Shigeo",
+          "Masumoto Asuka R",
+          "Nakashima Yuri M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Bone and Bones",
+          "Fibroblast Growth Factor-23",
+          "Fibroblast Growth Factors",
+          "Humans",
+          "Hyperphosphatemia",
+          "Kidney Failure, Chronic",
+          "Lanthanum",
+          "Phosphates",
+          "Renal Dialysis",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26023014/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:11:45.646203",
+  "success": true,
+  "error_message": null
+}

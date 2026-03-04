@@ -1,0 +1,923 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Insulin Human",
+    "disease": "IDDM 1"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00371800",
+      "title": "The Effect of Cinnamon on HbA1c Among Adolescents With Type I Diabetes",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2006-05",
+      "country": "United States",
+      "enrollment": 72,
+      "brief_summary": "the purpose of this study is to determine if cinnamon improves glucose control among adolescents with type 1 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of Type 1 diabetes for \\> 18 months prior to enrollment,\n2. Age 13-18 years at the time of enrollment\n3. Presenting to the clinic for routine care,\n4. No hospital admissions for medical or psychiatric reasons in the 12 months prior to enrollment,\n5. Accessible by ph",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Dartmouth-Hitchcock Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00371800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03084471",
+      "title": "An Open-Label, Multi-Centre, Safety Study of Fixed-Dose Durvalumab + Tremelimumab Combination Therapy or Durvalumab Monotherapy in Advanced Solid Malignancies.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-05",
+      "completion_date": "2022-12-16",
+      "country": "South Korea, France, Italy, Germany, United Kingdom, Netherlands, Canada, United States",
+      "enrollment": 867,
+      "brief_summary": "To evaluate the safety, tolerability, and anti-tumor activity of the combination of durvalumab + tremelimumab or durvalumab alone in different solid tumors.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Must have a life expectancy of at least 12 weeks.\n2. Age ≥18 years at the time of screening. For patients aged \\<20 years and enrolled in Japan, a written informed consent should be obtained from the patient and his or her legally acceptable representative\n3. Capable of givin",
+      "endpoints": [
+        "Number of Participants With Adverse Events of Special Interest (AESIs)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT03084471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00934336",
+      "title": "Importance in Type 1 Diabetes Patients of an Optimized Control of Post-Prandial Glycaemia on Oxidant Stress Prevention",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-04",
+      "country": "France",
+      "enrollment": 50,
+      "brief_summary": "The aim of this study is to determine whether postprandial hyperglycaemia plays an important role in oxidative stress phenomena and influences their harmful effects on the arterial wall.\n\n25 type 1 diabetic patients practicing FIT and with an HbA1c value of 8 percent or less at the beginning of the study will be recruited. The 25 control subjects will be recruited after the patients, so that they can be paired by age and sex.\n\nPatients will be randomized via an alternative cross over study desig",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 Diabetes\n* treaties by basal / bolus with a ultra rapid analogue or a pump with a ultra rapid analogue\n* Adults between 18 and 50 years old\n* Patients practicing FIT\n* Written informed consent obtained prior to enrollment in the study\n* HbA1c ≤ 8%\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "Assay of isoprostane-F2, an indicator of lipid peroxidase derivative production, in the 24 hour urine"
+      ],
+      "sponsor": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diabète",
+      "url": "https://clinicaltrials.gov/study/NCT00934336"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02094534",
+      "title": "A Prospective, Randomized, Double-blind, Placebo Controlled Study to Assess the Impact of ORMD-0801 (Insulin Capsules) on the Exogenous Insulin Requirements of Type 1 Diabetics",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2014-10",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "This will be a prospective, randomized, double-blind, placebo controlled study. Patients with established Type 1 diabetes will be eligible for entry into the study. Eligible patients will be screened and those who fulfill all inclusion/exclusion criteria will be admitted to the inpatient unit no fewer than 2 days and no more than 7 days after Screening. Patients will report to the inpatient unit at 6 a.m. and outfitted with a continuous glucose monitoring (CGM) device. Patients will be given sta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and Females age 18 to 55 years old, inclusive.\n* Patients must be willing and able to sign informed consent.\n* Documented history of Type 1 Diabetes for at least 6 months\n* Females of childbearing potential must have a negative serum pregnancy test at screening and a neg",
+      "endpoints": [
+        "Change From Baseline in Total, Basal, and Bolus Exogenous Insulin Requirements"
+      ],
+      "sponsor": "Oramed, Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02094534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05973734",
+      "title": "Clinical Islet Transplantation With Apheresis, Isolation and Reintroduction of Recipient Regulatory T Cells or Administration of Deceased Donor Vertebral Bone Marrow in Type 1 Diabetes",
+      "phase": "PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2023-10-01",
+      "completion_date": "2028-05",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The goal of this clinical trial is to learn if patients who have brittle type 1 diabetes receiving an islet transplantation will have better control of their sugars if they also receive one of 2 types of immune cells along with the islet transplant. The participants will receive either their own immune cells, called regulatory T cells, or immune cells from the bone marrow of the islet donor.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients age 18 to 70 years of age.\n* Ability to provide written informed consent.\n* Mentally stable and able to comply with the procedures of the study protocol.\n* Clinical history compatible with T1D with onset of disease at \\< 45 years of age, insulin- depen",
+      "endpoints": [
+        "Occurrence of Grade 3 to 5 cytokine release syndrome / acute infusion reaction after Treg administration infusion reaction after Treg administration",
+        "Occurrence of grade 4 or greater adverse events of islet transplantation",
+        "Number of patients who receive Treg infusions (Arm1) or Donor Derived Vertebral Bone Marrow (Arm2) and islet transplantation (feasibility)"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT05973734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02097316",
+      "title": "Feasibility Study of the JewelPump Version 3",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2014-09",
+      "country": "France",
+      "enrollment": 21,
+      "brief_summary": "The study will be conducted, in cross-over with a time interval of at least 2 days between 2 treatment periods. Patients will be randomized into 2 groups According to the order of the randomization, patients will bear the JewelPump for 5 days, followed by a period of 5 days of treatment with their usual pumps.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients type 1 diabetics treated by external insulin pump;\n* Patients with HbA1c \\< 8.5%\n* Patients who signed consent\n\nExclusion Criteria:\n\n* Patients type 2 diabetics\n* Patients who have all serious diseases that could interfere with the study",
+      "endpoints": [
+        "Time spent in glycemic area 70-180 mg / dl, measured continuously for 5 days with a continuous glucose monitoring (CGM) DEXCOM G4"
+      ],
+      "sponsor": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diabète",
+      "url": "https://clinicaltrials.gov/study/NCT02097316"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02611232",
+      "title": "Incretin-based Therapy in Preclinical Type 1 Diabetes in Adults",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2015-12",
+      "completion_date": "2024-06",
+      "country": "Finland",
+      "enrollment": 42,
+      "brief_summary": "The main objectives of the trial are to study whether daily treatment with liraglutide improves insulin secretion and glucose metabolism, and whether liraglutide treatment is tolerable and safe in subjects with preclinical type 1 diabetes aged 18-30 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-30 years of age\n* positive for at least 2 biochemical islet autoantibodies\n* have normal glucose tolerance in OGTT\n* are not pregnant\n\nExclusion Criteria:\n\n* allergic to liraglutide or other ingredients of Victoza®\n* Type 1 diabetes\n* diabetic ketoacidosis\n* previous treatm",
+      "endpoints": [
+        "FPIR (first phase insulin response)"
+      ],
+      "sponsor": "University of Oulu",
+      "url": "https://clinicaltrials.gov/study/NCT02611232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03815006",
+      "title": "An Open-label, Multi-centre, Randomised, Parallel Design Study to Assess the Efficacy of Flash Glucose Monitoring in Adults With Sub-optimally Controlled Type 1 Diabetes.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-09",
+      "completion_date": "2021-10-10",
+      "country": "United Kingdom",
+      "enrollment": 156,
+      "brief_summary": "FreeStyle Libre (FSL2) is a novel glucose monitoring device (Flash glucose monitoring) in the form of a disc worn on the arm for 14 days, and a hand-held reader which is designed to largely replace the recommended 4-10 painful finger-stick blood glucose tests required each day for the self-management of type 1 diabetes. The purpose of this study is to determine whether flash glucose monitoring with FSL2 device will improve HbA1c over 24 weeks compared to self-monitoring of blood glucose in adult",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participant is ≥16 years old\n* The participant has type 1 diabetes, as defined by WHO for at least 1 year or is confirmed C-peptide negative if duration of diabetes is \\< 1 years\n* Participant is treated with insulin pump or multiple daily injection for at least 12 weeks a",
+      "endpoints": [
+        "HbA1c Level at 24 Weeks"
+      ],
+      "sponsor": "Manchester University NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03815006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03469492",
+      "title": "Investigating the Role of the Polyol Pathway in the Central Nervous System Production of Fructose: an Intervention Study",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-01-18",
+      "completion_date": "2020-03-20",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "To investigate whether longer-term improvement of glycemic control in poorly controlled diabetes patients with a 12-week intensified insulin treatment regimen will lead to decreased polyol pathway activity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 15 Type 2 DM subjects with HbA1C \\> 7.5%\n* 15 Type 1 DM subjects with HbA1C \\> 7.5%\n* Age 18-60\n* BMI ≥18 kg/m2\n* Weight ≤ 285 pounds\n\nExclusion Criteria:\n\n* Creatinine \\> 1.5 mg/dL, Hgb \\< 10 mg/dL, ALT \\> 2.5 X ULN,\n* untreated thyroid disease,\n* uncontrolled hypertension,\n*",
+      "endpoints": [
+        "Change in HbA1c Levels"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT03469492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00659165",
+      "title": "Exploration of the Weight Neutral Effects of Insulin Detemir Compared to Insulin Glargine: A Measure of Satiety and Calories Consumed in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Patients with diabetes treated with insulin often gain weight, which may deter patients from adhering to insulin treatment. Detemir is one type of long acting insulin approved by the Food and Drug Administration for use in people with diabetes. It is similar to other long acting insulins (Neutral Protein Hagedorn \\[NPH\\], glargine) except that it has been associated with less weight gain compared to other types of insulin. The reasons for this are still unclear. One possibility is that detemir i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes\n* Treated with long-acting and meal time insulin therapy for at least 2 years\n* Ages 18 to 60 years of age\n* Glycosylated hemoglobin value between 7 - 9 mg/dL\n* C-peptide value less than 1.0 pmol/ml 90 minutes after oral Boost Plus administration.\n\nExclusion Cr",
+      "endpoints": [
+        "Calories Consumed After Fast."
+      ],
+      "sponsor": "University of New Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT00659165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04233034",
+      "title": "Hybrid Closed Loop Therapy and Verapamil for Beta Cell Preservation in New Onset Type 1 Diabetes (CLVer)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-07-09",
+      "completion_date": "2022-09-30",
+      "country": "United States",
+      "enrollment": 113,
+      "brief_summary": "Randomized trial of youth aged 7-\\<18 years with newly diagnosed stage 3 type 1 diabetes (T1D) to assess the effect of both (1) near-normalization of glucose concentrations achieved through use of a hybrid closed loop (HCL) system and (2) verapamil on preservation of β-cell function 12 months after diagnosis. Participants with body weight ≥30 kg (Cohort A) will be randomly assigned in a factorial design to (1) HCL plus intensive diabetes management or usual care with no HCL and (2) verapamil or ",
+      "eligibility_criteria": "* Participant Inclusion Criteria:\n\n  1. New-onset stage 3 T1D within 21 days of diagnosis (timed from start of insulin therapy), with ability to be randomized within 31 days of diagnosis (time from diagnosis to screening can be longer provided all screening testing can be completed within 31 days of",
+      "endpoints": [
+        "C-peptide Area Under the Curve (AUC)"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT04233034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07167693",
+      "title": "Phase 1 Randomized Clinical Trial of Arginine Hydrochloride Administration to Reduce Duration of Diabetic Ketoacidosis in Patients With Type 2 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-12-19",
+      "completion_date": "2027-12-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is increasingly recognized in adults with \"ketone-prone\" type 2 diabetes. In many of these patients, the pancreas can still make insulin but becomes temporarily \"stunned\" during severe, prolonged high blood sugar. Arginine is a naturally occurring amino acid that can trigger the pancreas to release its own insulin when glucose is high. It is FDA-approved for other uses and has been given intravenously for decades with a strong safety record. Whether a single arginine ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>17 years.\n* Unscheduled presentation to a participating emergency department with hyperglycemia (serum glucose \\>250 mg/dL) and significant ketonemia consistent with DKA, defined as laboratory serum/plasma β-hydroxybutyrate (BHB) \\>20 mg/dL (≈≥1.9 mmol/L).\n\nNote: point-o",
+      "endpoints": [
+        "Change in endogenous insulin secretion (C-peptide/glucose ratio)"
+      ],
+      "sponsor": "Wayne State University",
+      "url": "https://clinicaltrials.gov/study/NCT07167693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05000021",
+      "title": "Reducing Diabetes Distress Using Cognitive Behavioral Therapy in Young Adults With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-06-27",
+      "completion_date": "2026-06",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "This project proposes to use telemedicine-delivered cognitive-behavioral therapy (CBT) enhanced with continuous glucose monitor (CGM) review to target diabetes distress in adults with type 1 diabetes. The efficacy of CBT for diabetes distress (CBT-DD) will be tested in comparison to commercial FDA-approved CGM only in a randomized controlled clinical trial. The investigators' central hypothesis is that the addition of a CBT intervention that targets diabetes distress and self-management directly",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 Diabetes (T1D) duration ≥6 months\n* English or Spanish speaking\n* At least moderate Diabetes Distress (DD) (score of ≥2 on T1D-Diabetes Distress Scale)\n* Stable insulin treatment regimen (insulin prescription, use of pump, etc.) for at least 3 months prior to study enro",
+      "endpoints": [
+        "Diabetes Distress Levels"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT05000021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07109128",
+      "title": "The T1D Talks Pilot Study: An Online Teen / Tween Group About Life With T1D and Managing the Emotions That Come With it",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-02-15",
+      "completion_date": "2025-11-14",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "Despite recent technological advances in type 1 diabetes (T1D) treatment, adolescents are the only age group for which glycemic levels have not improved. Technology and education help adolescents execute the mechanics of managing blood glucose levels, but do not help adolescents manage the emotional distress that arises when T1D management goals conflict with social/emotional goals (e.g., taking insulin for a meal in front of new friends vs. trying to \"fit-in\"). The emotional distress caused by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T1D for at least 1 year\n* the ability to read/write and converse in English\n* reliable internet connection and a virtual meeting capable device (tablet or laptop)\n\nExclusion Criteria:\n\n* a chronic medical condition that requires intensive daily management\n* a significant menta",
+      "endpoints": [
+        "Percent of participants who attended the intervention",
+        "Percent of participants who rated each session as acceptable",
+        "Percent of participants who rated the overall intervention as acceptable"
+      ],
+      "sponsor": "Western Michigan University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT07109128"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00703599",
+      "title": "Phase I/II Study of Intravenous Administration of Activated Autologous Adipose-Derived Stromal Vascular Fraction in Patients With Type 1 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-11",
+      "completion_date": "2009-12",
+      "country": "Philippines",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to determine whether intravenous administration of autologous adipose stem cells is safe and beneficial in patients with type 1 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of Type I diabetes for at least 2 years\n* Insulin-dependent\n\nExclusion Criteria:\n\n* Presence of acute diabetic complications in the acute stage as recent myocardial infarction, recent CVA or acute renal failure.",
+      "endpoints": [
+        "Lowering of insulin-dependence and anti-hyperglycemic medication dosages"
+      ],
+      "sponsor": "Adistem Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT00703599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01590836",
+      "title": "A Trial Investigating the Pharmacodynamic Properties of NN5401 in Subjects With Type 1 Diabetes",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2012-06",
+      "country": "Germany",
+      "enrollment": 22,
+      "brief_summary": "This trial is conducted in Europe. The aim of this trial is to investigate the pharmacodynamic response (the effect of the investigated drug on the body) of insulin degludec/insulin aspart (IDegAsp) at steady state in subjects with type 1 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes mellitus (as diagnosed clinically) for at least 12 months\n* Treated with multiple daily insulin injections or continuous subcutaneous insulin infusion (CSII) for at least 12 months\n* Body mass index (BMI) 18.0-28.0 kg/m\\^2 (both inclusive)\n* Glycosylated haemog",
+      "endpoints": [
+        "Area under the glucose infusion rate curve during one dosing interval"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01590836"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05626712",
+      "title": "Clinical Trial to Evaluate the Safety and Efficacy of CELZ-201 in Patients With Recent Onset Type 1 Diabetes (CREATE-1)",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-04-07",
+      "completion_date": "2028-01-31",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "The brief purpose of this research study is to learn about the safety and efficacy of intra-arterial administration of CELZ-201 in patients with newly diagnosed Type 1 Diabetes Mellitus (T1D).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject must be able to understand and provide signed informed consent.\n2. Males and females, 18-35 years of age.\n3. Diagnosis of T1D within 1 year, with stimulated C-peptide peak level \\>0.6 ng/mL as assessed by 4-hour MMTT at the time of Visit 0 (screening).\n4. Diagnosed wi",
+      "endpoints": [
+        "Number of Participants with Adverse Events"
+      ],
+      "sponsor": "Creative Medical Technology Holdings Inc",
+      "url": "https://clinicaltrials.gov/study/NCT05626712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04061746",
+      "title": "Cellular Therapy for Type 1 Diabetes Using Mesenchymal Stem Cells",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2020-02-27",
+      "completion_date": "2027-03-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The goal of this study is to determine the safety and efficacy of fresh metabolically active allogeneic umbilical cord-derived mesenchymal stromal cells (UC-MSCs) for the treatment of new-onset type 1 diabetes (T1D) and to understand the mechanisms of protection. If proven effective, such a strategy can be used as a therapeutic option for T1D patients and potentially other autoimmune disorders.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* A new diagnosis of T1D based on the ADA criteria within 6 months of randomization.\n* Male and female between the ages of 18 and 40\n* Mentally stable and able to comply with the procedures of the study protocol\n* Positivity for at least one T1D-associated autoantibody, such as ",
+      "endpoints": [
+        "12 month Change in C-peptide area under the curve after a 2-hour MMTT"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT04061746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00521742",
+      "title": "A Randomized, Double-Blind, Comparator-Controlled Study of Pioglitazone HCl vs Glyburide in the Treatment of Patients With Type 2 (Non-Insulin-Dependent) Diabetes Mellitus and Mild Cardiac Disease (NYHA I)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2003-01",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "The purpose of this study is to evaluate the cardiovascular effects of pioglitazone, once daily (QD), versus glyburide when administered to patients with type 2 diabetes mellitus and mild cardiac disease.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Females of childbearing potential who are sexually active must agree to use adequate contraception, and can neither be pregnant nor lactating from Screening throughout the duration of the study.\n* Diagnosed with type 2 diabetes mellitus.\n* Naive to oral antidiabetic pharmacolog",
+      "endpoints": [
+        "Change in the walking distance during a standardized 6-minute walk test."
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT00521742"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04196140",
+      "title": "Evaluating the Safety and Effectiveness of the Omnipod Horizon™ Automated Glucose Control System in Patients With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-12-30",
+      "completion_date": "2022-04-20",
+      "country": "United States",
+      "enrollment": 240,
+      "brief_summary": "Subjects will undergo a 14-day outpatient, standard therapy phase during which sensor and insulin data will be collected. This will be followed by a 94-day (13-week) hybrid closed-loop phase conducted in an outpatient setting and an optional 12-month extension phase.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age at time of consent/assent 6-70 years\n2. Subjects aged \\< 18 years must be living with parent/legal guardian\n3. Diagnosed with type 1 diabetes for at least 6 months. Diagnosis is based on investigator's clinical judgment\n4. Deemed appropriate for pump therapy per investiga",
+      "endpoints": [
+        "Incidence Rate of Severe Hypoglycemia (Events Per Person Months)",
+        "Incidence Rate of Diabetic Ketoacidosis (DKA) (Events Per Person Months)",
+        "Glycated Hemoglobin (A1C)"
+      ],
+      "sponsor": "Insulet Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04196140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00678886",
+      "title": "Durable-Response Therapy Evaluation For Early or New-Onset Type 1 Diabetes - DEFEND",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07-29",
+      "completion_date": "2012-01-31",
+      "country": "Spain, Finland, Sweden, Italy, Denmark, Germany, United Kingdom, Canada, United States",
+      "enrollment": 272,
+      "brief_summary": "The purpose of this study is to find out if an 8-day series of otelixizumab infusions leads to greater improvement in insulin secretion as compared with placebo infusion. Insulin secretion will be assessed using mixed meal-stimulated C-peptide.\n\nSubjects will be assigned to receive either otelixizumab or placebo at a ratio of 2:1 (2/3 otelixizumab, 1/3 placebo). These study agents will be administered as an addition to insulin, diet, and other physician determined standard of care treatments.\n\nD",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 12-45\n* Diagnosis of diabetes mellitus, consistent with ADA criteria\n* No more than 90 days between diagnosis and administration of study compounds\n* Requires insulin for type 1 diabetes mellitus, or has required insulin at some time between diagnosis and administration o",
+      "endpoints": [
+        "Change From Baseline in 2-hour Mixed Meal Stimulated C-peptide Area Under Curve [AUC] (Normalized for 120-minute Time Interval) at Month 12"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00678886"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07355660",
+      "title": "The Effect of a Web-Based Education Program on Eating Habits, Metabolic Control, and Self-Management in Adolescents With Type 1 Diabetes Mellitus and Their Mothers With Irregular Eating Behavior",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-16",
+      "completion_date": "2026-12-16",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "The study was planned as a randomized controlled experimental study to investigate the effects of a web-based educational program given to adolescents with diabetes mellitus and their mothers on eating habits, metabolic control, and self-management.\n\nThe prevalence of Type 1 diabetes is increasing worldwide and is reported to be the third most common chronic disease in childhood (Lowes et al., 2015). It is generally accepted that effective management of diabetes requires education for both the p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* T1DM adolescents and their mothers who have internet access at home,\n* have a DEPS-R score of 20 or higher,\n* are between the ages of 12 and 18,\n* have been diagnosed with T1DM at least one year ago,\n* have no other chronic illness other than T1DM, and\n* agree to participate i",
+      "endpoints": [
+        "Adolescents with Type 1 DM who participated in the web-based training program experienced a decrease in their disordered eating behavior symptom scores."
+      ],
+      "sponsor": "TC Erciyes University",
+      "url": "https://clinicaltrials.gov/study/NCT07355660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00566813",
+      "title": "Islet Transplantation in Type 1 Diabetic Patients Using the Edmonton Protocol of Steroid Free Immunosuppression",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2020-07-15",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The primary purpose of this study is to demonstrate the safety of allogeneic islet transplantation in type 1 diabetic patients performed at the University of Illinois at Chicago (UIC). The purpose is to reproduce the Edmonton protocol to demonstrate that pancreatic islets isolated at UIC are safe and of sufficient quality to provide reproducible graft function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes \\> 5 years complicated by at least one of the following situations despite intensive insulin management:\n\n  * Reduced awareness of hypoglycemia at plasma glucose levels \\< 54 mg/dL\n  * Metabolic lability/instability characterized by two or more episodes of seve",
+      "endpoints": [
+        "Number of Participants With Adverse Events Including Laboratory Abnormalities at the End of Study Participation",
+        "Number of Participants With Insulin Independence at End of Study Participation",
+        "Number of Participants With HbA1c Less Than or Equal to 6.5 & Free of Severe Hypoglycemic Events"
+      ],
+      "sponsor": "University of Illinois at Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT00566813"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00945659",
+      "title": "Use of Continuous Glucose Sensors by Adolescents With Inadequate Diabetic Control",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2017-06-30",
+      "country": "United States",
+      "enrollment": 116,
+      "brief_summary": "The incorporation of continuous glucose sensors (CGS) into management of type 1 diabetes in adolescence could improve treatment outcomes. But, behavioral barriers may prevent adolescents from enjoying optimal benefits from this new technology. This study will randomize adolescents (11 to not yet 17 years old) with type 1 diabetes for at least 2 years who are not achieving targeted HbA1c levels (\\> 7.5%) to continue in standard care (SC), to add continuous glucose monitoring (CGM) to their care w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age of adolescent \\> 11 years and \\< 17 years. This age range was chosen because families of adolescents often struggle with diabetes management. Youths \\> 18 years old may be likely to leave home during the study.\n2. Diagnosis of type 1 diabetes based on the clinician's best",
+      "endpoints": [
+        "Glycated Hemoglobin (HbA1c)"
+      ],
+      "sponsor": "Nemours Children's Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00945659"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03529188",
+      "title": "Validation of the French Version of the Three Scales for Assessing the Fear of Type 1 Hypoglycemia (HFS-C, HFS-PYC and HFS-P) in Children, Adolescents and Their Parents by a Monocentric Transverse Psychometric Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-03",
+      "completion_date": "2020-12-03",
+      "country": "France",
+      "enrollment": 210,
+      "brief_summary": "Type 1 diabetes usually appears brutally in children or young adults. While many factors of poor glycemic balance have been identified in the literature (age, socio-cultural and socio-economic level, family structure, adherence etc.), it turns out that hypoglycemia is the most common acute complications. It would be an important physiological and psychological barrier for the patient and his parents to manage this diabetes, the latter seeking to keep the blood glucose levels above the objectives",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 2 and 18 years\n* Type 1 diabetes defined by an hyperglycemia higher than 2g/l, polyuria, polydipsia and positive antibody\n* insulin-treated type 2 diabetes by daily injections or insulin pump\n\nExclusion Criteria:\n\n* Trouble to read\n* Trouble to understand\n* Trouble",
+      "endpoints": [
+        "HFS-Child score,",
+        "HFS-PYC score",
+        "HFS-Parent score"
+      ],
+      "sponsor": "University Hospital, Brest",
+      "url": "https://clinicaltrials.gov/study/NCT03529188"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03709108",
+      "title": "Safety and Feasibility of an Insulin Sensitivity-Informed Bolus Calculator in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-11-19",
+      "completion_date": "2019-03-31",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "This is a single-center randomized crossover trial. The investigators will target completion of 15 adults (age 18-65 years) with Type 1 Diabetes who use an insulin pump. After completion of the Screening Visit, each subject will participate in a 28-day at home Data Collection Period while using their personal insulin pump, a personal glucometer, a study CGM, and a study activity tracker (i.e., Fitbit). This data collection period may be extended to obtain to gather more days of quality data, if ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Type 1 diabetes for at least 12 months\n2. Current use of an insulin pump for at least 12 months\n3. Current or historical use of a CGM system for at least 6 months\n4. Age ≥18 to ≤65 years old\n5. HbA1c \\<8.5% at screening; if HbA1c \\<6.0% then total daily insulin must be ≥0.5 U",
+      "endpoints": [
+        "Safety and feasibility of the SI-informed bolus calculator: Low Blood Glucose Index"
+      ],
+      "sponsor": "University of Virginia",
+      "url": "https://clinicaltrials.gov/study/NCT03709108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07212179",
+      "title": "Safety and Feasibility of a Self-Learning Bolus Calculator With Simplified Meal Announcement in Adolescents With Type 1 Diabetes Using Automated Insulin Delivery",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-01",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 6,
+      "brief_summary": "To evaluate the safety and feasibility of a novel self-learning bolus calculator along with simplified meal announcement (AID+InsuLearn-SMA) in adolescents and young adults with T1D using Automated Insulin Delivery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥14.0 and ≤21 years old at time of consent\n2. HbA1c ≤ 10%.\n3. Clinical diagnosis, based on investigator assessment, of type 1 diabetes for at least one year\n4. Having used an insulin pump within the last three months.\n5. Currently using insulin for at least six months\n6. ",
+      "endpoints": [
+        "TIR (70-180 mg/dL)"
+      ],
+      "sponsor": "University of Virginia",
+      "url": "https://clinicaltrials.gov/study/NCT07212179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00265473",
+      "title": "hOKT3γ1 (Ala-Ala), Sirolimus and Low Dose Tacrolimus Therapy in Type 1 Diabetic Islet Allograft Recipients",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2010-06",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "This clinical trial is designed to extend the observations made in our pilot clinical trial (IND 8971, Study #1) on the safety and efficacy of immunotherapy with the anti-CD3 monoclonal antibody hOKT3γ1 (Ala-Ala), (currently called MGA031) combined with sirolimus and tacrolimus in preventing rejection and autoimmune destruction of deceased donor pancreatic islet transplants in type 1 diabetic recipients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 to 65 years of age.\n2. Ability to provide written informed consent.\n3. Mentally stable and able to comply with the procedures of the study.\n4. Clinical history compatible with type 1 diabetes with onset of disease at \\<40 years of age and insulin-dependence for \\> 5 ye",
+      "endpoints": [
+        "Subjects With Full Islet Function.",
+        "Serious Adverse Events Related to Immunosuppressive Therapy."
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00265473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01787318",
+      "title": "Effect of the Insupatch on Automated Closed-loop Glucose Control in Type 1 Diabetes",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "This research study designed to look at how well adolescents' and young adults' blood sugars can be controlled with a \"closed loop artificial pancreas\" using a continuous glucose sensor, an insulin pump, and a computer program that automatically determines how much insulin to give based on the glucose level. The investigators will also study the effect of wearing a small heating patch, the InsuPatch, at the site of insulin infusion, on the ability of the closed loop system to control the blood s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age 12-40 years\n2. clinical diagnosis of type 1 diabetes\n3. duration of type 1 diabetes ≥ 1 year\n4. HbA1c ≤ 9 %\n5. Treated with pump therapy for at least 3 months\n6. Body weight \\> 40 kg\n\nExclusion Criteria:\n\n1. Insulin resistant (defined as requiring \\> 1.5 units/kg/day at t",
+      "endpoints": [
+        "Peak Post-Prandial Glucose Excursions"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT01787318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00837759",
+      "title": "Novel Therapy Combining Regenerative Stimuli Immunomodulation to Preserve Beta Cell Function in New Onset Type 1 Diabetes",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-02",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "Background:\n\n* Type 1 diabetes (T1D) occurs when the immune system attacks insulin-producing cells (beta cells) in the pancreas, resulting in their death.\n* Insulin injections currently are the best method for controlling blood sugar in individuals with T1D. However, animal studies have shown that the drugs sitagliptin and lansoprazole can help reverse beta cell damage or develop new beta cells. In addition, Diamyd has been shown to weaken the immune process that attacks pancreatic beta cells.\n\n",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Recently diagnosed (within the preceding 4 months of screening) diabetes clinically consistent with T1D:\n\n     A. Positive for anti-GAD antibody.\n\n     B. BMI between 19 and 28 kg/m2; for those between the ages of 16 to 18, the BMI must be within 10th to 90th percentile f",
+      "endpoints": [
+        "Change in C-peptide"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00837759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06787859",
+      "title": "Investigation of the Effect of \"Curtain\" Use on Self-Injection, Testing Fear and Pain in Patients With Type 2 Diabetes",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-01-01",
+      "completion_date": "2025-06-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 100,
+      "brief_summary": "Diabetes is a global problem for the world and negatively affects life (1). The most important reasons for ineffective diabetes and insulin treatment include fear of insulin side effects, fear of insulin injection, social embarrassment from administering insulin, fear of hypoglycemia and/or hyperglycemia (2). A large portion of diabetic individuals experience these fears, and some of these patients cope with these fears and integrate them into their daily lifestyles. However, some diabetic patie",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes for at least one year\n* self-administering insulin injections\n* self-administering a glucometer, insulin pen or insulin pump,\n\nExclusion Criteria:\n\n* poor mental health\n* Having gestational diabetes mellitus or Type 1 Diabetes",
+      "endpoints": [
+        "Visual Analogue Scale -VAS"
+      ],
+      "sponsor": "Dicle University",
+      "url": "https://clinicaltrials.gov/study/NCT06787859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03767790",
+      "title": "A Randomized Crossover Comparison of Model Predictive Control (MPC) Artificial Pancreas vs. Sensor Augmented Pump (SAP)/Predictive Low Glucose Suspend (PLGS) With Different Food Choices in the Outpatient Setting",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-01-03",
+      "completion_date": "2019-06-27",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The objective of this randomized crossover clinical trial is to 1) assess the efficacy and safety of an automated insulin delivery (AID) system using a Model Predictive Control (MPC) algorithm versus sensor augmented pump therapy (SAP)/Predictive Low Glucose Suspend (PLGS) in people with type 1 diabetes, and 2) assess the impact of different meal macronutrient content on glucose control when using AID and SAP.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis, based on investigator assessment, of type 1 diabetes for at least one year and using insulin for at least 1 year.\n* Using an insulin pump for at least 3 months at the time of screening. Insulin pump use includes use of automated features, to include predict",
+      "endpoints": [
+        "Time in target glucose range"
+      ],
+      "sponsor": "Sansum Diabetes Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03767790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07373236",
+      "title": "Examining the Effect of Endogenous Glucagon-like Peptide-1 on Glucagon Secretion in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2026-01-23",
+      "completion_date": "2026-03-31",
+      "country": "Denmark",
+      "enrollment": 12,
+      "brief_summary": "Type 1 diabetes is a serious and burdensome disease that carries the risk of severe complications and premature death, partly due to low blood sugar, also called hypoglycaemia. This is a constant threat, as individuals with type 1 diabetes lack the body's natural safeguard against low blood sugar: the hormone glucagon, which is normally released from the pancreas.\n\nRecent research in mice suggests that this missing safeguard may be due to an imbalance in the hormones released from different cell",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Caucasian ethnicity\n* Age between 18 and 70 years\n* T1D (diagnosed according to the criteria of the World Health Organization) with HbA1c \\<69 mmol/mol (\\<8.5%)\n* Body mass index between 19 and 30 kg/m2\n* T1D duration of 2-30 years\n* C-peptide negative (5 gram arginine-stimula",
+      "endpoints": [
+        "bsAUC Glucagon"
+      ],
+      "sponsor": "University Hospital, Gentofte, Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT07373236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03034226",
+      "title": "A Comparison Between Counter Regulatory Responses in Type 1 Diabetic Patients Versus Healthy Control Subjects With and Without Antecedent Hypoglycemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-02-23",
+      "completion_date": "2019-01-01",
+      "country": "Denmark",
+      "enrollment": 18,
+      "brief_summary": "This study compares the hypoglycemic counter regulatory response in type 1 diabetics and in healthy control subjects with and without antecedent hypoglycemia",
+      "eligibility_criteria": "Type 1 diabetics\n\nInclusion Criteria:\n\n* More than 5 years of disease duration\n* HbA1c 42-86 mmol/L\n* No known HAAF\n* BMI 22-28\n* Written consent\n\nExclusion Criteria:\n\n* Other disease than diabetes f.x epilepsy, ischemic heart disease or heart rhythm disturbance\n* Medication f.x beta-blockade, stero",
+      "endpoints": [
+        "Insulin sensitivity"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT03034226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05904743",
+      "title": "INHALE-3: A 17-Week Randomized Trial and a 13-Week Extension, Evaluating the Efficacy and Safety of Inhaled Insulin (Afrezza) Combined With Insulin Degludec Versus Usual Care in Adults With Type 1 Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-07-07",
+      "completion_date": "2024-06-24",
+      "country": "United States",
+      "enrollment": 141,
+      "brief_summary": "INHALE-3 is a Phase 4, randomized controlled trial (RCT) that will randomly assign participants ≥18 years of age with type 1 diabetes (T1D) using multiple daily injections (MDI), an automated insulin delivery (AID) system, or a pump without automation, and continuous glucose monitoring (CGM) 1:1 to an insulin regimen of insulin degludec plus inhaled insulin (Afrezza) and CGM or continuation of usual care. The primary outcome of the RCT is at 17 weeks. The RCT will be followed by a 13-week extens",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to provide informed consent for study participation\n* Clinical diagnosis of T1D (per the Investigator)\n* Treatment with insulin for at least 6 months prior to the collection of the baseline continuous glucose monitoring (CGM) data\n* Same treatment regimen (MDI, an AID ",
+      "endpoints": [
+        "Change in glycated hemoglobin (HbA1c)"
+      ],
+      "sponsor": "Mannkind Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05904743"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01322321",
+      "title": "A Randomized, Double-blind, Multiple-dose, Placebo-controlled, Parallel Group Study to Evaluate the Safety, Tolerability, Immunogenicity, Pharmacokinetics, and Pharmacodynamics of ACZ885 in Patients With Newly Diagnosed Type-1 Diabetes Mellitus (T1DM)",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2011-03",
+      "completion_date": "",
+      "country": "Germany, United Kingdom, Canada, United States",
+      "enrollment": 0,
+      "brief_summary": "This study will assess the safety and efficacy of ACZ885 on stimulated C-peptide during a mixed meal test in patients with newly-diagnosed type 1 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of type 1 diabetes within 3 months of visit 1 and on a stable insulin regimen\n* presence of at least one diabetes-related autoantibody\n* qualifying C-peptide value in a mixed meal test at visit 1\n* willing to not have vaccination with a live vaccine for 18 months, fr",
+      "endpoints": [
+        "Measure: Change from baseline of stimulated C-peptide after a mixed meal tolerance test at 13 months"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01322321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05537233",
+      "title": "Efficacy and Safety of Once Weekly Semaglutide in Adults With Obesity and Inadequately Controlled Type 1 Diabetes Using Hybrid Closed-Loop System.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2023-04-11",
+      "completion_date": "2024-08-06",
+      "country": "United States",
+      "enrollment": 115,
+      "brief_summary": "The purpose of this study is to assess the use of once weekly semaglutide injection in inadequately controlled obese adults with type 1 diabetes (T1D) using FDA-approved hybrid closed-loop therapies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor an eligible subject, all inclusion criteria must be answered \"yes\"\n\n1. Age ≥18 and ≤ 65 years\n2. Patients with clinical diagnosis of T1D diagnosed for at least 12 months\n3. Patient is on FDA- approved hybrid closed-loop system for ≥ 3 months\n4. Willing to use once weekly sem",
+      "endpoints": [
+        "Proportion of Adults With T1D Achieving Composite Outcome (CGM-measured Time in Range (TIR)>70% With Time Below Range (TBR) of <4% and Reduction in Body Weight by 5%) at 26 Weeks in the Semaglutide Group Compared to Placebo Group"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT05537233"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04022993",
+      "title": "An Open-label, Randomized, Multi-center, Parallel-group Clinical Trial Comparing the Efficacy and Safety of Insulin RinGlar® (\"Geropharm\", Russia) Compared to Lantus® SoloStar® (\"Sanofi-Aventis Deutschland GmbH\", Germany) in Type 1 Diabetes Mellitus Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-07-04",
+      "completion_date": "2019-05-15",
+      "country": "Russia",
+      "enrollment": 180,
+      "brief_summary": "The study is designed to approve non-inferior efficacy and safety of Insulin RinGlar® compared to Lantus® SoloStar® in Type 1 Diabetes Mellitus Patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed written consent\n* Diabetes mellitus type 1 for at least 12 months prior to screening\n* History of basis-bolus (multiple dose injection (MDI)) therapy in stable doses at least 30 days\n* Glycated hemoglobin (HbA1c) level of 6.5 to 12.0 % at screening (both values inclusiv",
+      "endpoints": [
+        "Antibody Response"
+      ],
+      "sponsor": "Geropharm",
+      "url": "https://clinicaltrials.gov/study/NCT04022993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01755416",
+      "title": "Phase 1 Study of Medtronic Closed Loop Device With ePID Algorithm and Enlite Sensors on Adjuvant Therapy With Insulin and Liraglutide to Minimize Post-prandial Hyperglycemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2015-01",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "Hypothesis: In type 1 diabetes mellitus, in the setting of a closed loop glucose control system: adjunctive therapy with Liraglutide will afford better post-prandial glycemic excursions than insulin mono-therapy.\n\nSpecific Aim: To determine if post-prandial glucose excursions are lowered with the addition of Liraglutide compared to insulin mono-therapy.\n\nStudy Design: This is a randomized open labeled crossover design trial comparing adjuvant Liraglutide and insulin Vs. insulin mono-therapy usin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than 18 years and less than 40 years\n* Have had diabetes for at least 1 year, and in good control (HbA1C \\< 8.5 %)\n* Be on continuous subcutaneous insulin infusion using an insulin pump\n* Menstruating women must have negative pregnancy test.\n* Hemoglobin (Hb) \\> 12",
+      "endpoints": [
+        "Blood Glucose Measures in Subjects on Closed Loop With Insulin and Liraglutide, Compared to the Closed Loop With Insulin Alone"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01755416"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06469593",
+      "title": "AID-BEYOND: Automated Insulin Delivery for Type 1 Diabetes - Beyond Glucose Metrics",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-06-15",
+      "completion_date": "2027-12-31",
+      "country": "Denmark",
+      "enrollment": 200,
+      "brief_summary": "The goal of this clinical trial is to determine if transitioning to automated insulin delivery (AID) systems, can improve objectively measured sleep quality and quantity and alleviate cardiovascular risk factors in both children and adults diagnosed with type 1 diabetes. The main questions it aims to answer are:\n\n* Does the intervention improve sleep efficiency as measured by the HomeSleepTest, EEG based device, 4 months after initiation?\n* Can the use of AID treatment alleviate cardiovascular r",
+      "eligibility_criteria": "Inclusion Criteria (Adults):\n\n* Age ≥18 years\n* Type 1 diabetes ≥3 years\n* CGM or intermittently scanned CGM (isCGM) use ≥6 months\n* Approval from the responsible health care provider (HCP) to start AID\n* Specific AID system chosen ahead of screening after participant has been thoroughly informed\n\nI",
+      "endpoints": [
+        "Difference in change from baseline to study end in sleep efficiency between the two groups."
+      ],
+      "sponsor": "Steno Diabetes Center Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT06469593"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02455414",
+      "title": "Tracking Neurodegeneration in Early Wolfram Syndrome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2017-07-12",
+      "country": "United States",
+      "enrollment": 101,
+      "brief_summary": "The goal of this study is to determine the pattern of early neurodegenerative changes in WFS (Wolfram Syndrome). The investigator will perform cross-sectional and longitudinal assessments of youth with WFS, targeting sensitive neural systems with quantified neuroimaging and behavioral measures. In addition, the investigator will establish the utility of a WFS severity rating scale (WFS Unified Rating Scale or WURS). Preliminary data support the feasibility of this approach and its potential to g",
+      "eligibility_criteria": "Wolfram Syndrome Group (WFS):\n\nInclusion Criteria:\n\n* Participant has confirmation of a WFS1 mutation OR\n* Both of the following conditions: diabetes mellitus requiring insulin and optic nerve atrophy diagnosed by a physician. Both conditions diabetes mellitus and optic nerve atrophy had to be diagn",
+      "endpoints": [
+        "Change in regional brain volume"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02455414"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01769404",
+      "title": "Evaluation of the Counter-Regulatory Response to Hypoglycaemia Following LY2605541 Administration Compared to Insulin Glargine in Patients With Type 1 Diabetes Mellitus",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2013-12",
+      "country": "Germany",
+      "enrollment": 25,
+      "brief_summary": "This study has 2 parts. Each participant will receive a daily injection of LY2605541 during one treatment period and a daily injection of insulin glargine during one treatment period. Each treatment period is 2 to 3 weeks and is followed by a procedure to lower blood sugar levels to see how the body recovers after each treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetic for more than 1 year with glycated hemoglobin (HbA1c) less than 9%\n* Otherwise fit and healthy\n* Nonsmoker\n\nExclusion Criteria:\n\n* Taking medication or supplements other than insulin to control diabetes\n* Suffered a hypoglycemic event in the last 12 months that",
+      "endpoints": [
+        "Concentration of Epinephrine"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01769404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00042458",
+      "title": "A Randomized, Triple-Blind, Placebo-Controlled, Multicenter Study to Investigate the Safety of Pramlintide Treatment Employing Pramlintide Dose-Titration Followed by Insulin Dose Optimization in Subjects With Type 1 Diabetes Mellitus Who Have Not Achieved Glycemic Targets With Intensive Insulin Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2003-03",
+      "country": "United States",
+      "enrollment": 296,
+      "brief_summary": "This is a randomized, triple-blind, placebo-controlled, multicenter study to investigate the safety of pramlintide treatment using pramlintide dose-titration coupled with insulin adjustments in subjects with type 1 diabetes who are actively trying to improve their glycemic control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HbA1c value between 7.5-9%\n* Using multiple daily insulin injections",
+      "endpoints": [
+        "- To investigate the safety of pramlintide treatment employing dose titration upon initiation of pramlintide followed by insulin dose optimization in subjects with type 1 diabetes."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00042458"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07052292",
+      "title": "DuraTouch® - Post-Market Clinical Follow-up (PMCF) Study in a Real-world Setting",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-07-01",
+      "completion_date": "2026-01-02",
+      "country": "Poland",
+      "enrollment": 125,
+      "brief_summary": "This study looks at overall impact of the use of DuraTouch® in terms of ease, convenience to use and satisfaction in participants with either type 1 or type 2 diabetes.The study will last for about 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The decision to initiate treatment with DuraTouch® has been made by the participant/legally acceptable representative (LAR) and the treating physician before and independently from the decision to include the participant in this study.\n* All needed signed consent(s) are obtain",
+      "endpoints": [
+        "Participant rating the ease of use, convenience and satisfaction with the device"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT07052292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06007508",
+      "title": "Early Administration of Insulin Glargine in Patients With Diabetic Ketoacidosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-05-31",
+      "completion_date": "2023-02-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a medical emergency that is associated with significant morbidity and mortality for both patients with type I and type II diabetes. By correcting hyperglycemia and inhibiting the release of free fatty acids, insulin administration leads to decreased ketone formation and resolution of acidosis. Short-acting intravenous insulin is often preferred to subcutaneous administration for initial management due to its short half-life and ease of titration, but patients will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presented to Regions Hospital ED for chief complaint of DKA, nausea, vomiting, abdominal pain, hyperglycemia, or similar\n2. Meets all below diagnostic criteria for DKA per the American Diabetes Association:\n\n   * Arterial or venous pH \\</= 7.3\n   * Serum Bicarbonate \\</= 18 m",
+      "endpoints": [
+        "Does early administration of insulin glargine result in a change in ICU length of stay when compared to usual care for the treatment of diabetic ketoacidosis?"
+      ],
+      "sponsor": "HealthPartners Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06007508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426413",
+      "title": "Ketosis Prone Diabetes Mellitus in African-Americans: Insulin Signaling, Proteomics, and Outcomes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-08",
+      "country": "United States",
+      "enrollment": 44,
+      "brief_summary": "Over 50% of obese African-Americans (AA) presenting with newly diagnosed, severe hyperglycemia and/or unprovoked diabetic ketoacidosis (DKA) display clinical, metabolic, and immunogenetic features of type 2 diabetes. Prior studies indicate that these patients a) have markedly decreased insulin secretion and impaired insulin action at presentation, b) absent or low prevalence of beta-cell autoantibodies and c) are able to discontinue aggressive insulin therapy in \\~70% of cases within 3 months of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 36 Obese AA subjects with DKA or severe hyperglycemia and 8 obese nondiabetic subjects, age 19-65. All studies will be performed in the GCRC at Grady Memorial Hospital.\n* Subjects with a BMI ≥ 28 kg/m2 will be included.\n* Diagnostic criteria for DKA will include:\n\n  * a plasma",
+      "endpoints": [],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00426413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04305054",
+      "title": "A Phase 1/2 Open-Label Rolling-Arm Umbrella Platform Design of Investigational Agents With or Without Pembrolizumab or Pembrolizumab Alone in Participants With Melanoma (KEYMAKER-U02): Substudy 02B",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-07-01",
+      "completion_date": "2026-04-20",
+      "country": "Israel, France, Spain, Chile, South Africa, Switzerland, Greece, Italy, Hungary, Australia, Poland, Colombia, Argentina, United States",
+      "enrollment": 315,
+      "brief_summary": "Substudy 02B is part of a larger research study where researchers are looking for new ways to treat advanced melanoma that has not been treated before. The larger study is the umbrella study. Researchers want to know if adding other treatments to pembrolizumab can treat advanced melanoma. The goals of this study are to learn:\n\n* About the safety and how well people tolerate pembrolizumab given with other treatments\n* How many people have melanoma that responds (gets smaller or goes away) to trea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has histologically or cytologically confirmed melanoma\n* Has unresectable Stage III or Stage IV melanoma, not amenable to local therapy\n* Has been untreated for advanced disease.\n* Has provided a tumor biopsy\n* If capable of producing sperm, male participants agree to the foll",
+      "endpoints": [
+        "Percentage of participants who experience a dose-limiting toxicity (DLT): Safety lead-in phase",
+        "Percentage of participants who experience an adverse event (AE): Safety lead-in",
+        "Percentage of participants who discontinue study treatment due to an AE: Safety lead-in"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04305054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04863872",
+      "title": "Comparing the Effectiveness of Two Approaches to Preventing Severe Hypoglycemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-26",
+      "completion_date": "2024-06-21",
+      "country": "United States",
+      "enrollment": 259,
+      "brief_summary": "Severe hypoglycemia is the most feared complication of medications used to lower blood glucose levels in patients with diabetes. Severe hypoglycemia, defined as plasma glucose low enough to require assistance, has been linked to poor health-related quality of life, emotional and interpersonal challenges, car accidents, serious falls, cardiovascular events, dementia, and death. Older adults with type 2 diabetes are particularly vulnerable to the complications of severe hypoglycemia. Each year, ap",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Diagnosed with type 2 diabetes\n* Receiving primary care at Kaiser Permanente Washington (KPWA)\n* Enrollment in KPWA at baseline and planning to stay with a KPWA health plan for the next 6 months\n* Current prescription for insulin or at intermediate to h",
+      "endpoints": [
+        "Self-reported Severe Hypoglycemia"
+      ],
+      "sponsor": "Kaiser Permanente",
+      "url": "https://clinicaltrials.gov/study/NCT04863872"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01996228",
+      "title": "Reversal of Type 1 Diabetes in Children by Stem Cell Educator Therapy",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2013-11",
+      "completion_date": "2019-10",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "Type 1 diabetes (T1D) is an autoimmune disease that usually occurs in children and reduces their pancreatic islet beta cells and thereby limits insulin production. Millions of individuals worldwide have T1D, and the number of children with diagnosed or undiagnosed T1D is increasing annually. Insulin supplementation is not a cure. It does not halt the persistent autoimmune response, nor can it reliably prevent devastating complications such as neuronal and cardiovascular diseases, blindness, and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. T1D patients are screened for enrollment in the study if both clinical signs and laboratory tests meet the diagnosis standards of American Diabetes Association.\n\n  2\\. Children from 3 through 18 years old and body weight \\> 15 kg.\n\n  3\\. Presence of at least one autoantibo",
+      "endpoints": [
+        "Autoimmune control"
+      ],
+      "sponsor": "Throne Biotechnologies Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01996228"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01536665",
+      "title": "The Effect of Liraglutide Adjunct to Insulin on Glucagon Response to Hypoglycaemia in Subjects With Type 1 Diabetes",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2012-08",
+      "country": "Austria",
+      "enrollment": 45,
+      "brief_summary": "This trial is conducted in Europe. The aim of this trial is to investigate if liraglutide adjunct to insulin treatment changes the glucagon response during hypoglycaemia in subjects with type 1 diabetes compared with conventional insulin treatment after 4 weeks' treatment with liraglutide or placebo.\n\nSubjects will initially be randomised to one of the three dose groups, and subsequently randomly allocated to one of two treatment sequences (liraglutide/placebo or placebo/liraglutide).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes mellitus (as diagnosed clinically) for at least 12 months prior to randomisation\n* Body mass index (BMI) between 20.0 and 28.0 kg/m\\^2 (both inclusive)\n\nExclusion Criteria:\n\n* Use of liraglutide or exenatide within 3 months of randomisation\n* Recurrent severe h",
+      "endpoints": [
+        "Geometric mean glucagon concentration during hypoglycaemia (nadir glucose (target 2.5 mmol/L) )"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01536665"
+    }
+  ],
+  "timestamp": "2026-03-04T15:53:50.153702",
+  "success": true,
+  "error_message": null
+}

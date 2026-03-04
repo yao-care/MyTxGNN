@@ -1,0 +1,486 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clavulanic Acid",
+    "disease": "urinary tract infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03357614",
+      "title": "Prospective, Phase 3, Randomized, Multi-center, Double-blind, Double-dummy Study of Efficacy, Tolerability & Safety of Sulopenem Followed by Sulopenem-etzadroxil/Probenecid vs Ertapenem Followed by Cipro for Treatment of cUTI in Adults",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-09-18",
+      "completion_date": "2019-12-14",
+      "country": "Georgia, Hungary, Latvia, Estonia, United States",
+      "enrollment": 1395,
+      "brief_summary": "This is a prospective, phase 3, randomized, multicenter, double-blind, double-dummy study to compare the efficacy and safety of sulopenem followed by sulopenem-etzadroxil/probenecid versus ertapenem followed by ciprofloxacin for the treatment of complicated urinary tract infections (cUTI) in adults.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults ≥18 years of age with more than 24 hours of urinary symptoms attributable to a UTI\n2. Able to provide informed consent\n3. Clinically documented pyelonephritis or complicated urinary tract infection:\n\n   1. Pyelonephritis with normal anatomy\n   2. Complicated UTI as def",
+      "endpoints": [
+        "Percentage of Participants With Overall Success"
+      ],
+      "sponsor": "Iterum Therapeutics, International Limited",
+      "url": "https://clinicaltrials.gov/study/NCT03357614"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06067386",
+      "title": "Selective Reporting for Antibiotic Susceptibility Testing and GPs' Prescribing of Broad-spectrum Antibiotics in Women With E. Coli UTIs",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-11-21",
+      "completion_date": "2024-11-21",
+      "country": "France",
+      "enrollment": 3000,
+      "brief_summary": "The control of antibiotic resistance requires a reduction in inappropriate prescriptions of broad-spectrum antibiotics (amoxillin-clavulanate (AMC), fluoroquinolones (FQ), third-generation cephalosporins (C3G)), particularly for urinary tract infections treated in primary care. Several studies have reported the positive impact of antibiotic susceptibility testing performed on urine cultures on the appropriate use of antibiotics.\n\nThe \"selective reporting for antibiotic susceptibility testing \", ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients :\n\n* women ≥18 years of age,\n* affiliated with the CPAM of Loire Atlantique (44) or Maine et Loire (49),\n* with a urine culture: i) analyzed by LabOuest, ii) positive for E. coli, and iii) associated with a prescription for antibiotics by a general practitioner in the p",
+      "endpoints": [
+        "Rate of broad-spectrum antibiotic dispensing"
+      ],
+      "sponsor": "Nantes University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06067386"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07189429",
+      "title": "PA-100 Workflow Assessment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-07-01",
+      "completion_date": "2025-08-30",
+      "country": "Spain",
+      "enrollment": 199,
+      "brief_summary": "Assessment of workflow implications of the PA-100 AST System.\n\nUsing well-defined data collection protocols, the study comprises the following:\n\n* Collection of clean-catch midstream urine samples\n* Measurement of specimens on the PA-100 AST System\n\n  o Antibiotics tested: Amoxicillin/clavulanic acid (AMC), Ciprofloxacin (CIP), Trimethoprim (TRI), Fosfomycin (FOS) and Nitrofurantoin (NIT)\n* Treatment of patients according to the results of the tests on the PA-100 AST System\n* Collection of data ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients were recruited according to the following criteria: non-pregnant female, \\>18 years old, presenting with acute UTI symptoms that had been present for \\< 7 days (symptoms according to the current guidelines \\[EAU\\]), with no antibiotic treatment within the previous 7 day",
+      "endpoints": [
+        "Frequency of antibiotic prescription"
+      ],
+      "sponsor": "Sysmex Europe GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT07189429"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04724044",
+      "title": "A Randomized Clinical Trial of Oral Clarithromycin in Community-acquired Pneumonia to Attenuate Inflammatory Responses and Improve Outcomes: the ACCESS Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-01-25",
+      "completion_date": "2023-04-11",
+      "country": "Greece",
+      "enrollment": 278,
+      "brief_summary": "Traditional management of community-acquired pneumonia (CAP) relies on the prompt administration of antimicrobials that target the most common causative pathogens. Retrospective analysis of observational clinical studies in CAP showed that the addition of macrolides to standard antibiotic therapy conferred a significant survival benefit. The proposed benefit of macrolides is coming from their anti-inflammatory mode of action. An RCT that proves the attenuation of the high inflammatory burden of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients (≥18 years)\n* Male of female gender\n* In case of non-menopausal women, unwillingness to become pregnant during the study period. Women of child-bearing potential will be screened by a urine pregnancy test before inclusion in the study.\n* Written informed consent",
+      "endpoints": [
+        "Change of baseline respiratory symptoms score",
+        "Change of baseline total sequential organ failure assessment (SOFA) score and/or change of baseline serum PCT"
+      ],
+      "sponsor": "Hellenic Institute for the Study of Sepsis",
+      "url": "https://clinicaltrials.gov/study/NCT04724044"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03508921",
+      "title": "Comparison of Methods for Prevention of Urinary Tract Infection Following Botox Injection: a Non-Inferiority Trial",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-07-01",
+      "completion_date": "2022-06-01",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "Injection of OnabotulinumtoxinA (BTX-A) into the bladder is a widely used treatment option for patients with overactive bladder who have failed medical therapy. Urinary tract infection is the most common side effect of this procedure and therefore antibiotics are given around the time of injection in order to prevent these events. While antibiotics are commonly given at the time of injection, the duration of these antibiotic regimens are variable. The investigators propose a study to investigate",
+      "eligibility_criteria": "Inclusion criteria:\n\n* ≥ 18 years of age\n* Medication refractory OAB, identified per American Urological Association guidelines\n\nExclusion criteria:\n\n* Post void residual urine \\>150ml on two occasions\n* Untreated, symptomatic UTI\n* Comorbid neurological conditions, including spinal cord injury, sys",
+      "endpoints": [
+        "Post Procedural- Urinary Tract Infection"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03508921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02650518",
+      "title": "Controlling Antimicrobial Use Through Reducing Unnecessary Treatment of Catheter Associated Urinary Tract Infections (CARCUTI)",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-12",
+      "completion_date": "2018-10",
+      "country": "Singapore",
+      "enrollment": 500,
+      "brief_summary": "Hypothesis: A short course (3-5 days) of antibiotic therapy (experimental arm) is as safe and effective as a long course of antibiotic therapy for the treatment of catheter-associated urinary tract infections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Inpatients ≥ 21 years old.\n2. Presence of indwelling urinary catheter at the time of urine culture for ≥2days.\n3. Fever \\>38°C.\n4. A urine specimen sent to the hospital microbiological laboratory for culture.\n5. An antibiotic order for presumed symptomatic catheter associated",
+      "endpoints": [
+        "Resolution"
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT02650518"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04400110",
+      "title": "Shortened Antibiotic Therapy for Febrile Urinary Tract Infection (UTI) in Childhood: a Multicenter Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-06-08",
+      "completion_date": "2022-12-31",
+      "country": "Italy",
+      "enrollment": 154,
+      "brief_summary": "Febrile urinary tract infections (UTIs) are common in children, but there is no consensus concerning the duration of the antibiotic treatment. Current recommendations include the use of an oral antibiotic, chosen between amoxicillin and clavulanic acid or a third-generation cephalosporin (ceftibuten), for a minimum of seven to a maximum of 14 days. In an antibiotic overuse-sparing model, proper evaluation of a shorter therapy in the treatment of febrile UTI in childhood is lacking.\n\nThe objectiv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age from 3 months to 5 years;\n2. Clinical diagnosis of febrile UTI, defined by fever ≥38°C and positive result of urinalysis (nitrite and/or leukocyte esterase positivity) in two consecutive urine samples collected by bladder catheterization or clean catch (19). The diagnosis",
+      "endpoints": [
+        "Rate of infection recurrence"
+      ],
+      "sponsor": "IRCCS Burlo Garofolo",
+      "url": "https://clinicaltrials.gov/study/NCT04400110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05519072",
+      "title": "Use of Prophylactic Antibiotics Prior to OnabotulinumtoxinA Treatment of Overactive Bladder: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-08-16",
+      "completion_date": "2024-08-16",
+      "country": "United States",
+      "enrollment": 140,
+      "brief_summary": "This study aims to show that lack of antibiotic prophylaxis to those undergoing bladder Botox injections is not significantly inferior to administering prophylaxis. By proving this, the investigators aim to decrease antibiotic use in this setting to combat the growing issue of antibiotic resistance.\n\nParticipants will be randomized to antibiotic or no treatment arm. Those randomized to the treatment arm will receive oral antibiotics for 2 days pre-treatment, on the treatment day, and 2 days post",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female\n* Age ≥ 18\n* Patient undergoing bladder Botox treatment\n\nExclusion Criteria:\n\n* Pregnant and/or breastfeeding\n* Contraindication to injection of Botox - hypersensitivity to any botulinum toxin preparation or to any of the components in the formulation, symptomatic urina",
+      "endpoints": [
+        "Urinary tract infections"
+      ],
+      "sponsor": "Atlantic Health System",
+      "url": "https://clinicaltrials.gov/study/NCT05519072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03612297",
+      "title": "Impact of Selective Reporting of Antibiotic Susceptibility Test Results in Urinary Tract Infections in the Outpatient Setting: a Protocol for a Pragmatic, Prospective Quasi-experimental Trial",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-01",
+      "completion_date": "2020-04-30",
+      "country": "N/A",
+      "enrollment": 64000,
+      "brief_summary": "Antibiotic resistance is a serious and increasing worldwide threat to global public health. One of antibiotic stewardship programmes' objectives is to reduce inappropriate broad-spectrum antibiotics' prescription. Selective reporting of antibiotic susceptibility test (AST) results, which consists of reporting to prescribers only few (n=5-6) antibiotics, preferring first-line and narrow-spectrum agents, is one possible strategy advised in recommendations. However, selective reporting of AST has n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adults with an E. coli positive urine culture on which an AST is realised in the year 2017 and 2019 in ATOUTBIO or EVOLAB laboratories\n* adults who go to ambulatory care practitioners located in the geographic areas served by all the 41 laboratories studied (in the interventio",
+      "endpoints": [
+        "Impact of selective reporting of AST for E. coli positive urine cultures in outpatient setting on the prescription of broad-spectrum antibiotics frequently used on UTIs (amoxicillin-clavulanate, third generation cephalosporins and fluoroquinolones)"
+      ],
+      "sponsor": "Central Hospital, Nancy, France",
+      "url": "https://clinicaltrials.gov/study/NCT03612297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236944",
+      "title": "Pivmecillinam as Oral Step-Down Treatment for Escherichia Coli Febrile Urinary Tract Infection Versus Standard of Care: A Randomized Controlled Non-Inferiority Multicenter Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12",
+      "completion_date": "2029-03",
+      "country": "Norway, Sweden",
+      "enrollment": 560,
+      "brief_summary": "The goal of this clinical trial is to learn if oral treatment with pivmecillinam is effective to treat febrile urinary tract infections in adult patients. Hospitalized patients who have received 2-4 days of intravenous antibiotic therapy for febrile urinary tract infections, and have responded to treatment, will be randomized to either pivmecillinam or standard treatment (other oral or intravenous antibiotics).\n\nThe main question the study aims to answer is if oral follow-up with pivmecillinam i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age.\n2. Diagnosis of fUTI, defined as i) fever ≥ 38°C and ii) at least one of the following: flank pain or pelvic pain, nausea or vomiting, dysuria, urinary frequency or urgency, and costovertebral angle tenderness on physical examination.\n3. Growth of E. coli in",
+      "endpoints": [
+        "Clinical response (primary endpoint)."
+      ],
+      "sponsor": "Uppsala University",
+      "url": "https://clinicaltrials.gov/study/NCT07236944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06953271",
+      "title": "Methenamine Hippurate Compared to Typical Antibiotic Prophylaxis in the Prevention of Urinary Tract Infection Following Intradetrusor OnabotulinumtoxinA Injection for Treatment of Overactive Bladder: a Randomized Controlled Non-Inferiority Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-05-15",
+      "completion_date": "2027-01-01",
+      "country": "United States",
+      "enrollment": 164,
+      "brief_summary": "The goal of this clinical trial is to compare methenamine hippurate prophylaxis to routine antibiotic prophylaxis following onabotulinumtoxinA (BOTOX-A) injections in women with overactive bladder (OAB). Participants will be randomly selected to receive one of the two post-procedural prophylaxis medications. The primary outcome measure will be urinary tract infection (UTI) rates within 30 days from the BOTOX-A procedure. Secondary outcomes will assess patient satisfaction with the two post-proce",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* undergoing intradetrusor BOTOX-A injections in the office setting for overactive bladder\n\nExclusion Criteria:\n\n* cisgender male individuals\n* neurogenic reasons for bladder symptoms (i.e. spinal cord injury, multiple sclerosis, etc.)\n* known allergy ",
+      "endpoints": [
+        "Acute Urinary Tract Infection"
+      ],
+      "sponsor": "Women and Infants Hospital of Rhode Island",
+      "url": "https://clinicaltrials.gov/study/NCT06953271"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00161330",
+      "title": "A Multicenter Randomized Controlled Trial of Antibiotic Treatment in Children With Urinary Tract Infections: Oral Amoxicillin/Clavulanic Acid vs Initial iv Ceftriaxone.",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2000-06",
+      "completion_date": "2005-07",
+      "country": "N/A",
+      "enrollment": 440,
+      "brief_summary": "The main objectives of the study are\n\n1. to compare the efficacy of oral vs initial iv antibiotic treatment in children with a first episode of UTI\n2. to assess the diagnostic power of the various imaging technique (renal ultrasonogram, voiding cystourethrogram, and renal scanning with technetium-99m-labeled dimercaptosuccinic acid)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 2 months and 6 years,\n* normal renal function\n* first episode of upper UTI (fever, 2 consecutive positive urinalysis, later confirmed by 2 cultures and high blood inflammation indices)\n\nExclusion Criteria:\n\n* documented previous urinary tract malformation (prenatal",
+      "endpoints": [
+        "1. Duration of fever (>38°),",
+        "2. Sterilization of the urine,",
+        "3. Reduction of the blood inflammatory indices,"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT00161330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01111253",
+      "title": "DIABOLO Trial: A Multicenter Randomized Clinical Trial Investigating the Cost-effectiveness of Treatment Strategies With or Without Antibiotics for Uncomplicated Acute Diverticulitis.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-05",
+      "completion_date": "2014-10",
+      "country": "Netherlands",
+      "enrollment": 533,
+      "brief_summary": "Rationale\n\nThe prevalence of colonic diverticular disease is increasing in Western countries. Approximately 10 to 25% of patients with diverticular disease will eventually develop an episode of acute diverticulitis. Currently conservative treatment often includes antibiotic therapy. This advice lacks sound evidence and is merely based on experts' opinion. An old clinical dogma is being clarified with this randomized trial.\n\nObjective\n\nPrimary objective is to evaluate whether or not using antibio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Only left-sided uncomplicated (mild) acute diverticulitis;\n* Clinical suspicion of acute diverticulitis. For acute diagnostic work-up: ultrasound or CT proven diverticulitis. In the case of diverticulitis-negative ultrasound in clinically suspected patients an intravenous cont",
+      "endpoints": [
+        "Time-to-full-recovery"
+      ],
+      "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+      "url": "https://clinicaltrials.gov/study/NCT01111253"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01820026",
+      "title": "Bacterial Infections Associated With Healthcare (Healthcare-Associated) in Hospitalized Cirrhotic Patients: Randomized Study of Use of Traditional Empirical Antibiotic Therapy and Second-line Targeted at Multi-resistant Bacteria",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-12",
+      "completion_date": "2015-06",
+      "country": "Italy",
+      "enrollment": 96,
+      "brief_summary": "Bacterial infections are a frequent complication in liver cirrhosis with a bad prognosis. However, the clinical outcome of cirrhotic patients with serious infections is significantly improved over the last 30 years due to early diagnosis and to the use of a more appropriate antibiotic therapy.\n\nAs in the general population, empirical treatment should be initiated soon after diagnosis, after making the necessary sampling and should be based on the use of an antibiotic with low toxicity and broad ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* cirrhosis\n* healthcare infection\n* older than 18 years\n* agreement to participate\n\nExclusion Criteria:\n\n* HIV\n* patients underwent to liver transplantation",
+      "endpoints": [
+        "Efficacy of anti-multiresistant empirical antibiotic therapy in healthcare associated infections in cirrhosis"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT01820026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01507974",
+      "title": "The Efficacy of Preventive Antibiotic Treatment During the Puerperium Among Pregnant Women With Recurrent Urinary Tract Infections",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-01-16",
+      "completion_date": "2015-01-01",
+      "country": "Israel",
+      "enrollment": 220,
+      "brief_summary": "Urinary tract infection is the most common bacterial infection during pregnancy. Asymptomatic bacteriuria is the most common infection, in up to 8% of the population. Symptomatic infection may cause cystitis or cause pyelonephritis.\n\nAmong pregnant women with recurrent bacteriuria, preventive antibiotic treatment has been found to be efficacious in reducing the bacteriuria rate and the complications.\n\nthe changes of the urinary tract which appear during pregnancy usually resolve up to 3 months p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women with two or more episodes of bacteriuria or one episode of pyelonephritis during pregnancy.\n\nExclusion Criteria:\n\n* Women with malformations of the urinary tract\n* women with risk factors to urinary tract infections, for example DIABETES MELLITUS, REFLUX.\n* Wome",
+      "endpoints": [
+        "Urinary tract complications"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT01507974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110408",
+      "title": "A Prospective, Randomized, Double-Blind, Multicenter Study to Establish the Safety and Tolerability of Doripenem Compared With Cefepime in Hospitalized Children With Complicated Urinary Tract Infections",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2013-06",
+      "country": "Brazil, Chile, Czechia, Mexico, Panama, Ukraine, Lithuania, Latvia, Poland, Colombia, Argentina, United States",
+      "enrollment": 41,
+      "brief_summary": "The purpose of this study is to evaluate the safety and tolerability of doripenem compared to cefepime in children hospitalized with complicated urinary tract infections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are eligible for the study must have a current episode of cUTI or pyelonephritis\n* Have evidence of pyuria that meets criteria specified in the study protocol\n* Have a study-qualifying pretreatment \"baseline\" urine culture specimen obtained by an acceptable method",
+      "endpoints": [
+        "The Number of Participants With Clinical Cure Rate at Test Of Cure (TOC) Visit"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01110408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06154720",
+      "title": "Surgical Site Infection Following Episiotomy Repair in Relation to Routine Use of Postpartum Antibiotic Prophylaxis in Low Risk Population: A Randomized Controlled Trial",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-09-10",
+      "completion_date": "2023-06-29",
+      "country": "Egypt",
+      "enrollment": 200,
+      "brief_summary": "Bacterial infections occurring during labor, childbirth, and the puerperium may be associated with considerable maternal and perinatal morbidity and mortality. Antibiotic prophylaxis might reduce wound infection incidence after an episiotomy, particularly in situations associated with a higher risk of postpartum perineal infection, such as midline episiotomy, extension of the incision, or in settings where the baseline risk of infection after vaginal birth is high. However, available evidence is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who underwent elective episiotomy.\n* Gestational age 37 weeks or more\n\nExclusion Criteria:\n\n* Patients with pro-longed rupture of membranes (PROM \\>24hrs).\n* pro- longed prelabour rupture of membranes (PPROM).\n* Chorioamnionitis.\n* Prolonged second stage of labour (\\>",
+      "endpoints": [
+        "wound infection at site of episiotomy"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT06154720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05224401",
+      "title": "Pivmecillinam With Amoxicillin/Clavulanic Acid for Step Down Oral Therapy in Febrile UTIs Caused by ESBL-producing Enterobacterales (PACUTI)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-05-29",
+      "completion_date": "2027-09-01",
+      "country": "Sweden",
+      "enrollment": 330,
+      "brief_summary": "To evaluate if the combination of pivmecillinam and clavulanic acid (PAC) is non-inferior to ciprofloxacin, trimethoprim-sulfamethoxazole or ertapenem as step down oral therapy in patients with febrile UTI caused by extended spectrum beta-lactamase (ESBL) producing Enterobacterales (EPE).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Fever (≥ 38.3 C) or shaking chills at least once at home or in hospital\n3. Clinical suspicion of UTI including at least one of the following symptoms:\n\n   1. Dysuria, urinary urgency, difficulty urinating, new or worsened urinary incontinence, macroscopic ha",
+      "endpoints": [
+        "Clinical cure"
+      ],
+      "sponsor": "Lund University",
+      "url": "https://clinicaltrials.gov/study/NCT05224401"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00156546",
+      "title": "Evaluation of the Effectiveness of Antibiotic Prophylaxis in Children With a History of Upper Urinary Tract Infections:a Multicentre Randomised Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2000-05",
+      "completion_date": "2006-07",
+      "country": "Italy",
+      "enrollment": 660,
+      "brief_summary": "Our hypothesis is that long-term antimicrobial prophylaxis does not reduce the recurrence of infection and the risk of appearance of kidney scars in children with a documented previous upper UTI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 2 months and 6 years\n* Creatinine clearance (calculated according to Schwartz)  70 ml/min/1.73 m2 (for children in their first year of life, serum creatinine levels within normal range for age and sex)\n* First documented upper UTI (diagnostic criteria in Table 1)\n",
+      "endpoints": [
+        "The primary end-point is UTI Recurrence Rate during the 12-month observation period and the Development of renal damage (parenchymal scar) after 12 months."
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT00156546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05584657",
+      "title": "A Prospective, Phase 3, Randomized, Multi-center, Double-blind Study of the Efficacy, Tolerability, and Safety of Oral Sulopenem Etzadroxil/Probenecid Versus Oral Amoxicillin/Clavulanate for Treatment of Uncomplicated Urinary Tract Infections (uUTI) in Adult Women",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-10-18",
+      "completion_date": "2023-11-21",
+      "country": "United States",
+      "enrollment": 2229,
+      "brief_summary": "Study 310 is a clinical study which compares the effectiveness of oral sulopenem versus oral amoxicillin/clavulanate for the treatment of adult women with uncomplicated urinary tract infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients ≥18 years of age with ≥24 hours and ≤96 hours of urinary symptoms attributable to a UTI\n* Two of the following signs and symptoms of uUTI: urinary frequency, urinary urgency, pain or burning on micturition, suprapubic pain.\n* A mid-stream urine specimen with ev",
+      "endpoints": [
+        "Overall Success",
+        "Overall Success Susceptible Population"
+      ],
+      "sponsor": "Iterum Therapeutics, International Limited",
+      "url": "https://clinicaltrials.gov/study/NCT05584657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02021006",
+      "title": "Antibiotic Prophylaxis and Renal Damage In Congenital Abnormalities of the Kidney and Urinary Tract",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2013-12",
+      "completion_date": "2025-01",
+      "country": "Italy",
+      "enrollment": 292,
+      "brief_summary": "The exact role of urinary tract infection in the appearance of chronic kidney disease is unclear. Children with congenital malformations of kidney and urinary tract have the higher risk of impairment of renal function. To understand if the use of antibiotic prophylaxis can reduce the risk of urinary tract infection in children with these malformations, this study will randomize children in two groups. Group A will not take antibiotic prophylaxis, Group B will take antibiotic prophylaxis for 2 ye",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 1 and 4 months (\\> 4 weeks and \\<20 weeks of post-natal age)\n* Gestational age \\> 35 weeks\n* Glomerular filtration rate (calculated according to Schwartz) \\> 15 ml/min/1.73 m2\n* No previous symptomatic UTI\n* Imaging Diagnostic work-up completed and presence of grad",
+      "endpoints": [
+        "urinary tract infections rate"
+      ],
+      "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "url": "https://clinicaltrials.gov/study/NCT02021006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04196608",
+      "title": "In Vitro Activity of Ceftolozane/Tazobactam and Imipenem/Relebactam in Clinical Isolates of Pseudomonas Aeruginosa and Enterobacterales Collected From Hematology and Oncology Patients",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-11-01",
+      "completion_date": "2020-09-30",
+      "country": "Spain",
+      "enrollment": 1005,
+      "brief_summary": "The purpose of the ACTHEON Study is to evaluate the in vitro activity of ceftolozane-tazobactam, imipenem-relebactam and comparator agents (amoxicillin- clavulanate, piperacillin-tazobactam, ceftazidime, cefotaxime, cefepime, imipenem, meropenem, levofloxacin and amikacin; see list more details on page 7) against clinical isolates of P. aeruginosa and Enterobacterales prospectively collected from hematology and oncology patients with complicated intra-abdominal infections (cIAIs), complicated ur",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* P. aeruginosa isolates\n* Enterobacterales isolates\n\nExclusion Criteria:\n\n* Non P. aeruginosa isolates\n* Non Enterobacterales isolates",
+      "endpoints": [
+        "Summary MIC and its distributions as susceptible, intermediate and resistant",
+        "Summary of percentages of isolates"
+      ],
+      "sponsor": "Hospital General Universitario Gregorio Marañon",
+      "url": "https://clinicaltrials.gov/study/NCT04196608"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05819229",
+      "title": "Oral Antibiotics Alone in Children Aged 4 Weeks to 2 Months With a Suspected or Confirmed Uncomplicated Urinary Tract Infection. A Single-arm Multicenter Prospective Observational Study.",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-02-27",
+      "completion_date": "2025-05-01",
+      "country": "Denmark",
+      "enrollment": 125,
+      "brief_summary": "The goal of this prospective study is to investigate whether oral antibiotic therapy alone is feasible and safe in clinically stable children aged 4 weeks to 2 months without any past high-risk medical history with a suspected or confirmed urinary tract infection.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. Clinical suspicion of urinary tract infection irrespective of the presence of fever.\n2. Clinically stable (i.e., not respiratory or circulatory affected, septic, or meningeal).\n3. 4 weeks to 2 months of age (corrected age, if premature).\n\nAll children who do not receive any e",
+      "endpoints": [
+        "Proportion of participants with recurrent urinary tract infection regardless of the pathogen or death of any cause",
+        "Number of days admitted related to urinary tract symptoms"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT05819229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01388413",
+      "title": "A Randomized, Multicenter, Parallel Group Study to Evaluate Safety and Efficacy of a Weekly Oral Cyclic Antibiotic Programme in the Prevention of Urinary Tract Infection on Neurological Bladder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2017-02",
+      "country": "France",
+      "enrollment": 45,
+      "brief_summary": "Symptomatic urinary tract infections (UTIs) are one of the main causes of morbidity and the main cause of re-hospitalization in subjects with neurogenic bladder. Long-term antibiotic therapy increases the risk of multi-resistant bacterial infections, without reducing the rate of symptomatic UTIs. Our non-comparative preliminary study has shown that Weekly Oral Cyclic Antibiotic Programme (single, weekly dose of antibiotic X on even weeks, and antibiotic Y on odd weeks) seem to drastically reduce",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subject over 18 years of age\n* having a neurogenic bladder with automatic catheter and pharmacologic disconnection of the detrusor muscle\n* having at least 4 symptomatic UTIs per year with bacterial sensitivity to the chosen antibiotics\n* having given full consent to participa",
+      "endpoints": [
+        "Number of symptomatic UTIs"
+      ],
+      "sponsor": "University Hospital, Tours",
+      "url": "https://clinicaltrials.gov/study/NCT01388413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03362697",
+      "title": "Randomized Clinical Trial on the Safety and Efficacy of Lactobacillus Reuteri DSM 16666/ATCC 55845 & Lactobacillus Reuteri DSM 17938 for Treatment of Pregnant Women With Asymptomatic Bacteriuria or Uncomplicated Acute Cystitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-12-15",
+      "completion_date": "2019-06-18",
+      "country": "Mexico",
+      "enrollment": 150,
+      "brief_summary": "Prevalence of uro-genital infections during pregnancy move between 7% to 12% in developed countries, meanwhile in developing countries this figure moved between 14% and until 55%, such is the case of Mexico. Meanwhile use of antibiotics for 3 to 7 days had established as a standard of care, the use of non-antibiotic therapy, such as cranberry powder or probiotics for prevention/treatment of this conditions is scarce. Randomized controlled trial aimed to evaluate the safety and efficacy of probio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy women on the second or third trimester of pregnancy with positive urine culture according to the operational definition with or without symptoms\n* Age 18 to 40 years\n* Verbal and Written Informed Consent for participation in the study\n\nExclusion Criteria:\n\n* Pathologic",
+      "endpoints": [
+        "Clinical and/or Bacteriological cure"
+      ],
+      "sponsor": "Innovacion y Desarrollo de Estrategias en Salud",
+      "url": "https://clinicaltrials.gov/study/NCT03362697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03228108",
+      "title": "The Effect of Rectal Swab Culture-guided Antimicrobial Prophylaxis in Men Undergoing Prostate Biopsy on Infectious Complications and Cost of Care: A Randomized Controlled Trial in the Netherlands.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-04-03",
+      "completion_date": "2021-09-26",
+      "country": "Netherlands",
+      "enrollment": 1538,
+      "brief_summary": "This study aims to assess the effectiveness and cost-effectiveness of rectal swab culture-guided antimicrobial prophylaxis to reduce infectious complications after transrectal prostate biopsy. Half of participants will receive routine empirical prophylaxis with oral ciprofloxacin (control group), while the other half will receive rectal culture-guided oral antibiotic prophylaxis (intervention group). In the intervention group, men whose rectal swabs do not show ciprofloxacin-resistant bacteria w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is able and willing to sign the Informed Consent Form.\n* Subject undergoes a transrectal prostate biopsy as part of the standard care in the Radboudumc (Nijmegen), Canisius Wilhelmina hospital (Nijmegen) or Catharina hospital (Nijmegen) (because of suspicion of prostat",
+      "endpoints": [
+        "Any registered clinical infectious complication after prostate biopsy"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03228108"
+    }
+  ],
+  "timestamp": "2026-03-04T15:50:58.362485",
+  "success": true,
+  "error_message": null
+}

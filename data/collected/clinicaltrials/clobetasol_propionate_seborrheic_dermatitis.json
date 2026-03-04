@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clobetasol Propionate",
+    "disease": "seborrheic dermatitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00862654",
+      "title": "Efficacy and Safety of Clobetasol Propionate Shampoo 0.05% Used in Association With an Antifungal Shampoo in the Treatment of Moderate to Severe Scalp Seborrheic Dermatitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-02",
+      "country": "South Korea, France, Mexico, Germany, Belgium",
+      "enrollment": 326,
+      "brief_summary": "The objective is to assess different treatment regimens with Clobetasol propionate shampoo 0.05% in the treatment of scalp Seborrheic Dermatitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with moderate to severe scalp Seborrheic Dermatitis\n\nExclusion Criteria:\n\n* Subjects suffering from psoriasis,\n* Subjects with a known allergy to one of the components of the test products,\n* Female subjects who are pregnant, nursing or planning a pregnancy during the",
+      "endpoints": [
+        "Total Severity Score (TSS): Percent Change From Baseline at Week 4"
+      ],
+      "sponsor": "Galderma R&D",
+      "url": "https://clinicaltrials.gov/study/NCT00862654"
+    }
+  ],
+  "timestamp": "2026-03-04T15:04:34.625637",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,608 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "spondyloarthropathy, susceptibility to",
+    "query_string": "Adalimumab AND spondyloarthropathy, susceptibility to"
+  },
+  "data": {
+    "query": "Adalimumab AND spondyloarthropathy, susceptibility to",
+    "results": [
+      {
+        "pmid": "30509444",
+        "title": "Uveitis and spondyloarthropathies.",
+        "abstract": "Uveitis is a frequently occurring extra-articular manifestation of spondyloarthropathies (SpAs), ankylosing spondylitis (AS), reactive arthritis (ReA), psoriatic arthritis (PsA) and inflammatory bowel disease (IBD), occurring in both adults and children with SpA. Uveitis occurs with varying frequency according to the SpA subtype (33% in AS, 6-9% in PsA, 25% in ReA, 13% in undifferentiated SpA and 2-5% in IBD), the presence of HLA-B27 and with increasing duration of disease. The majority of cases of uveitis in SpA are attributed to acute anterior uveitis but a minority of uveitis cases occur in the posterior segment of the eye. The latter are more frequently complicated by cystoid macular oedema (CMO) and sight loss. The nature of the tissue specificity exhibited by the SpAs is poorly understood. Three current investigational approaches are discussed: high-throughput genomics to identify and confirm uveitis-specific susceptibility alleles; investigation of the role of the intestinal mic",
+        "journal": "Best practice & research. Clinical rheumatology",
+        "year": "2017",
+        "authors": [
+          "Sharma Srilakshmi M",
+          "Jackson Daniel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Prohibitins",
+          "Spondylarthropathies",
+          "Uveitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30509444/"
+      },
+      {
+        "pmid": "24594669",
+        "title": "TNF-α gene polymorphisms: association with disease susceptibility and response to anti-TNF-α treatment in psoriatic arthritis.",
+        "abstract": "The tumor necrosis factor-α (TNF-α) gene has been proposed as a major candidate gene in psoriatic arthritis (PsA). TNF-α is a therapeutic target for patients responding poorly to conventional treatments. We investigated the role of single-nucleotide polymorphisms (SNPs) at positions -238, -308, and +489 of the TNF-α gene in the genetic susceptibility to PsA, in the severity of the disease, and, finally, in the response to TNF-α inhibitors (adalimumab, etanercept, or infliximab). Fifty-seven Caucasian PsA patients and 155 healthy matched controls were studied. The SNP +489 variant allele A was significantly associated with PsA susceptibility (P=0.0136) and severity of clinical (Psoriasis Area and Severity Index score, American College of Rheumatology criteria, Disease Activity Score 28, and Disability Index Health Assessment Questionnaire) and laboratory (C-reactive protein and erythrocyte sedimentation rate) parameters (P-values ranging from 0.016 to 2.908 × 10(-12)). The difference in",
+        "journal": "The Journal of investigative dermatology",
+        "year": "2014",
+        "authors": [
+          "Murdaca Giuseppe",
+          "Gulli Rossella",
+          "Spanò Francesca",
+          "Lantieri Francesca",
+          "Burlando Martina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Alleles",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Arthritis, Psoriatic",
+          "Case-Control Studies",
+          "Etanercept",
+          "Female",
+          "Genetic Predisposition to Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24594669/"
+      },
+      {
+        "pmid": "24774503",
+        "title": "The role of tumour necrosis factor in the pathogenesis of immune-mediated diseases.",
+        "abstract": "Immune-mediated inflammatory diseases (IMIDs), such as rheumatoid arthritis, psoriatic arthritis, psoriasis, axial spondyloarthropathies, Crohn's disease, ulcerative colitis and juvenile idiopathic arthritis, comprise a group of chronic disorders characterized by an immune-mediated pathogenesis. Although at clinical presentation these diseases appear unrelated, they have been recognized to share similar pathogenic mechanisms. Data from epidemiological and genetic studies further support the concept that IMIDs are interrelated, as they can co-occur in the same patient and share a similar genetic susceptibility. The specific aetiologies of IMIDs remain unknown, but all are known to involve dysregulation of the immune system, including an over-expression of the pro-inflammatory cytokine tumour necrosis factor (TNF). The pivotal role played by TNF in the pathogenesis and pathophysiology of IMIDs has been documented by extensive preclinical and clinical investigations, and confirmed by the ",
+        "journal": "International journal of immunopathology and pharmacology",
+        "year": "2014",
+        "authors": [
+          "Blandizzi C",
+          "Gionchetti P",
+          "Armuzzi A",
+          "Caporali R",
+          "Chimenti S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antibodies, Monoclonal",
+          "Autoimmune Diseases",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Inflammation",
+          "Tumor Necrosis Factor-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24774503/"
+      },
+      {
+        "pmid": "24074224",
+        "title": "Adalimumab for the treatment of ankylosing spondylitis and nonradiographic axial spondyloarthritis - a five-year update.",
+        "abstract": "Following its marketing authorization for the treatment of ankylosing spondylitis (AS) in 2006 in the United States und in the European Union, adalimumab became one of the most frequently prescribed tumor necrosis factor (TNF) α blockers available for this indication. Recently, the label for adalimumab was extended to nonradiographic axial spondyloarthritis (nr-axSpA), which might be considered as an early stage of AS. The increasing number of patients with AS being treated with adalimumab raises issues concerning long-term safety, efficacy in the prevention of structural damage in the spine and high treatment costs.",
+        "journal": "Expert opinion on biological therapy",
+        "year": "2013",
+        "authors": [
+          "Poddubnyy Denis",
+          "Rudwaleit Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Biological Products",
+          "Clinical Trials as Topic",
+          "Disease Progression",
+          "Disease Susceptibility",
+          "Double-Blind Method",
+          "Drug Approval",
+          "European Union"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24074224/"
+      },
+      {
+        "pmid": "15228620",
+        "title": "Expanding the armamentarium for the spondyloarthropathies.",
+        "abstract": "Ankylosing spondylitis (AS) is a member of the family of spondyloarthropathies, which are inflammatory arthritides largely involving the axial skeleton and commonly accompanied by peripheral arthritis. Genetic factors, particularly the presence of HLA-B27, are major contributors to the susceptibility for AS. Despite some therapeutic advances, the treatment options for patients with AS and related disorders have been limited. Several lines of evidence have led to the hypothesis that patients with AS might benefit from treatment with tumor necrosis factor (TNF). Specifically, TNF concentrations are known to be significantly elevated in the synovium of patients with rheumatoid arthritis (RA), in the inflamed gut of patients with inflammatory bowel disease, and in the inflamed sacroiliac joints of patients with AS. The anti-TNF agents have been shown to be of benefit in, and currently have indications for, RA (etanercept, infliximab, adalimumab), Crohn's disease (infliximab), and psoriatic",
+        "journal": "Arthritis research & therapy",
+        "year": "2004",
+        "authors": [
+          "Peloso Paul M",
+          "Braun Jürgen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antirheumatic Agents",
+          "Diagnostic Imaging",
+          "Humans",
+          "Spondylarthropathies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15228620/"
+      },
+      {
+        "pmid": "18166219",
+        "title": "Insights into the pathology and treatment of spondyloarthritis: from the bench to the clinic.",
+        "abstract": "The spondyloarthritides are a set of chronic inflammatory diseases that consists of 5 interrelated subsets (ankylosing spondylitis [AS], psoriatic arthritis [PsA], reactive arthritis, arthritis associated with inflammatory bowel disease, and undifferentiated spondyloarthropathy). The aim of this review was to evaluate the classification, genetic susceptibility, pathology, and response to treatment of spondyloarthritis (SpA).",
+        "journal": "Seminars in arthritis and rheumatism",
+        "year": "2008",
+        "authors": [
+          "Davis John C",
+          "Mease Philip J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Etanercept",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "HLA-B27 Antigen",
+          "Humans",
+          "Immunoglobulin G"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18166219/"
+      },
+      {
+        "pmid": "24192118",
+        "title": "Association of TNF-α polymorphism with prediction of response to TNF blockers in spondyloarthritis and inflammatory bowel disease: a meta-analysis.",
+        "abstract": "To explore whether TNF-α promoter -308 A/G and -857 C/T polymorphisms have an association with responsiveness to TNF blockers in spondyloarthritis and inflammatory bowel disease.",
+        "journal": "Pharmacogenomics",
+        "year": "2013",
+        "authors": [
+          "Tong Qiang",
+          "Zhao Liang",
+          "Qian Xiao-Di",
+          "Zhang Lan-Ling",
+          "Xu Xia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Alleles",
+          "Antibodies, Monoclonal, Humanized",
+          "Etanercept",
+          "Genetic Association Studies",
+          "Genetic Predisposition to Disease",
+          "Genotype",
+          "Humans",
+          "Immunoglobulin G",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24192118/"
+      },
+      {
+        "pmid": "19896259",
+        "title": "[Pulmonary tuberculosis associated to adalimumab: a study of 3 cases].",
+        "abstract": "Tumour necrosis factor-alpha antagonist drugs represent a significant advance in the treatment of inflammatory diseases, such as rheumatoid arthritis, spondyloarthropathies, and intestinal inflammatory disease. The increase in tuberculosis with infliximab is known, but there is less data available that specifically associates tuberculosis with adalimumab. We present the cases of 2 patients with rheumatoid arthritis and one patient with ankylopoietic spondylitis on treatment with adalimumab, who developed pulmonary and disseminated tuberculosis despite following the screening and prophylaxis measures recommended in guidelines. We also review the association between treatment with tumour necrosis factor-alpha antagonists and tuberculosis.",
+        "journal": "Archivos de bronconeumologia",
+        "year": "2010",
+        "authors": [
+          "Blanco Pérez José J",
+          "Aranda Torres Angel",
+          "Pego Reigosa José M",
+          "Núñez Delgado Manuel",
+          "Temes Montes Enrique"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antitubercular Agents",
+          "Arthritis, Rheumatoid",
+          "Disease Susceptibility",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19896259/"
+      },
+      {
+        "pmid": "33635236",
+        "title": "T cell functions of psoriatic arthritis patients are regulated differently by TNF, IL-17A and IL-6 receptor blockades in vitro.",
+        "abstract": "The impact of biologics used in PsA management on T cells is unknown. This study evaluated the effect of tumour necrosis factor-alpha (TNFα), interleukin-17A (IL-17A), and IL-6 receptor (IL-6R) blockers on T cell function in PsA patients and healthy controls peripheral blood mononuclear cells (PBMCs).",
+        "journal": "Clinical and experimental rheumatology",
+        "year": "2022",
+        "authors": [
+          "Gertel Smadar",
+          "Polachek Ari",
+          "Furer Victoria",
+          "Levartovsky David",
+          "Sidis Haya"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthritis, Psoriatic",
+          "Humans",
+          "Interleukin-17",
+          "Leukocytes, Mononuclear",
+          "Receptors, Interleukin-6",
+          "T-Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33635236/"
+      },
+      {
+        "pmid": "30648521",
+        "title": "Double Infection in a Patient with Psoriatic Arthritis Under TNF-alpha Blockers Therapy: A Case Report.",
+        "abstract": "Either direct or indirect tumor necrosis factor (TNF)-alpha blockers are usually used to treat psoriatic arthritis (PA), but their use can increase susceptibility to infectious diseases.",
+        "journal": "Current drug safety",
+        "year": "2019",
+        "authors": [
+          "Caroleo Benedetto",
+          "Migliore Alberto",
+          "Cione Erika",
+          "Zampogna Stefania",
+          "Perticone Francesco"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Psoriatic",
+          "Humans",
+          "Infections",
+          "Leishmaniasis",
+          "Lung Diseases",
+          "Male",
+          "Middle Aged",
+          "Mycobacterium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30648521/"
+      },
+      {
+        "pmid": "20008091",
+        "title": "Human leukocyte antigen-G in ankylosing spondylitis and the response after tumour necrosis factor-alpha blocker therapy.",
+        "abstract": "To investigate the role of HLA-G in AS.",
+        "journal": "Rheumatology (Oxford, England)",
+        "year": "2010",
+        "authors": [
+          "Chen Chun-Hsiung",
+          "Liao Hsien-Tzung",
+          "Chen Hung-An",
+          "Liu Chin-Hsiu",
+          "Liang Toong-Hua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Biomarkers",
+          "C-Reactive Protein",
+          "Female",
+          "Follow-Up Studies",
+          "HLA Antigens"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20008091/"
+      },
+      {
+        "pmid": "24337767",
+        "title": "Candidate's single-nucleotide polymorphism predictors of treatment nonresponse to the first anti-TNF inhibitor in ankylosing spondylitis.",
+        "abstract": "The objective of this study is to identify single-nucleotide polymorphisms (SNPs) predictors of treatment nonresponse to the first anti-TNF-alpha agent in ankylosing spondylitis (AS). Patients were classified as \"nonresponders\" if they failed to achieve improvement ≥50 % of the initial BASDAI. We selected candidate SNPs previously reported, associated with susceptibility or pathogenesis of AS and with other spondylarthropaties (SpAs). The predictors of nonresponse were modeled with multiple logistic regression. The predictive power of the genetic model of nonresponse to treatment was tested with AUC-ROC. One hundred and twenty-one (121) AS patients fulfilled the inclusion criteria. Of the candidate SNPs tested for association with treatment effectiveness, five independent predictors were identified: rs917997, rs755622, rs1800896, rs3740691, and rs1061622. The genetic model of nonresponse to treatment had a predictive power of 0.77 (95 % CI 0.68-0.86). Our study identified several polym",
+        "journal": "Rheumatology international",
+        "year": "2014",
+        "authors": [
+          "Schiotis Ruxandra",
+          "Sánchez Alejandra",
+          "Escudero Alejandro",
+          "Bartolomé Nerea",
+          "Szczypiorska Magdalena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Area Under Curve",
+          "Cohort Studies",
+          "Etanercept",
+          "Female",
+          "Genotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24337767/"
+      },
+      {
+        "pmid": "38377462",
+        "title": "Disseminated Mycobacterial Infection With Reactive Polyarthritis (Poncet's Disease) During Immune-suppressive Treatment Including Ustekinumab for Pediatric Crohn's Disease.",
+        "abstract": "The incidence of pediatric inflammatory bowel disease is increasing. tumor necrosis factor alpha inhibitors medicines improved the prognosis of affected subjects. Nonetheless, a proportion of patients do not respond or lose response to treatment. Newer biologics, like ustekinumab, have been approved for adults. The pediatric off-label use of these drugs is increasing, despite limited safety evidence. We report a case of disseminated mycobacterial infection (MI) presenting with reactive polyarthritis (Poncet's disease, PD) in a girl with Crohn's disease receiving various immunosuppressants, including ustekinumab.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2024",
+        "authors": [
+          "Minotti Chiara",
+          "Costenaro Paola",
+          "Donà Daniele",
+          "Zuliani Monica",
+          "Bosa Luca"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Crohn Disease",
+          "Child",
+          "Ustekinumab",
+          "Immunosuppressive Agents",
+          "Arthritis, Reactive",
+          "Mycobacterium Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38377462/"
+      },
+      {
+        "pmid": "17898886",
+        "title": "[Biological therapy with TNF-inhibitors in pediatric rheumatology. Review of the literature and personal experience].",
+        "abstract": "The therapeutic approach to JIA is sometimes very troublesome and progression to erosive polyarthritis may occur in all JIA categories. Only Methotrexate has shown efficacy and safety in a large controlled trial. Nevertheless, in many cases, drug resistance or intolerance has led to try other therapeutic options, with still debatable results. Therefore, there has been space, in the last few years, for new therapies as the TNF-inhibitors. This therapeutic approach has shown a dramatic clinical benefit in active polyarticular refractory JIA: the rate and rapidity of response have exceeded those of all other studied DMARDs. Preliminary data show that they are efficacious also for other pediatric rheumatic disease (spondyloarthropathies, autoimmune uveitis, dermatomyositis, Kawasaki syndrome and some autoinflammatory diseases). TNF-inhibitors in JIA have demonstrated a favourable benefit-to-risk profile. However, as their use has increased worldwide, some unusual, usually not serious, adve",
+        "journal": "Reumatismo",
+        "year": "2007",
+        "authors": [
+          "Gerloni V",
+          "Pontikaki I",
+          "Gattinara M",
+          "Fantini F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adolescent",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Juvenile",
+          "Autoimmune Diseases",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17898886/"
+      },
+      {
+        "pmid": "23606869",
+        "title": "Long-term safety of anti-TNF adalimumab in HBc antibody-positive psoriatic arthritis patients: a retrospective case series of 8 patients.",
+        "abstract": "Immunosuppressive drugs commonly used in the treatment of psoriatic arthritis make patients more susceptible to viral, bacterial, and fungal infections because of their mechanism of action. They not only increase the risk of new infections but also act altering the natural course of preexisting infections. While numerous data regarding the reactivation of tuberculosis infection are available in the literature, poor information about the risk of reactivation or exacerbation of hepatitis viruses B and C infections during treatment with biologics has been reported. Furthermore, reported series with biological therapy included short periods of followup, and therefore, they are not adequate to verify the risk of reactivation in the long-term treatment. Our study evaluated patients with a history of hepatitis B and psoriatic arthritis treated with adalimumab and monitored up to six years. During the observation period, treatment was effective and well tolerated in all patients, and liver fun",
+        "journal": "Clinical & developmental immunology",
+        "year": "2013",
+        "authors": [
+          "Laurenti R",
+          "Giovannangeli F",
+          "Gubinelli E",
+          "Viviano M T",
+          "Errico A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Arthritis, Psoriatic",
+          "Female",
+          "Hepatitis B Antibodies",
+          "Hepatitis C Antibodies",
+          "Humans",
+          "Immunosuppressive Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23606869/"
+      },
+      {
+        "pmid": "23256105",
+        "title": "Incidence of influenza-like illness into a cohort of patients affected by chronic inflammatory rheumatism and treated with biological agents.",
+        "abstract": "This study aimed to evaluate the incidence of influenza-like illness (ILI), from October 2009 to May 2010, in a group of patients suffering from chronic inflammatory rheumatism and treated with biological therapies. At the end of 2009-2010 influenza season, 159 patients under biological therapies answered to a questionnaire distributed 8 months before and were deeply interviewed. The group included 69 men and 90 women (mean age 47.6); forty-nine suffering from rheumatoid arthritis, 61 with psoriatic arthritis, 32 with ankylosing spondylitis and 17 with other spondyloarthritis; 146 patients were treated with anti-TNF-α, 7 with rituximab and 6 with abatacept; 128 patients assumed DMARDs and 72 patients assumed low dose of steroids. A case of ILI was identified by anamnestic findings and according to the case definitions commonly used in Europe. Seventeen percent of the considered population reported at least one episode of ILI during the monitoring period; none of the patients during the",
+        "journal": "Reumatismo",
+        "year": "2012",
+        "authors": [
+          "Bello S L",
+          "Serafino L",
+          "Bonali C",
+          "Terlizzi N",
+          "Fanizza C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abatacept",
+          "Adalimumab",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antirheumatic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23256105/"
+      },
+      {
+        "pmid": "22472782",
+        "title": "Clinical manifestation of selective IgA deficiency evidence after anti-TNF-α treatment in a psoriatic arthritis patient: case report.",
+        "abstract": "It is known that the use of anti-TNF-α drugs is related to an increased incidence of infective diseases. This therapy can not be administered to patients having active infections and it has to be considered with caution in case of acquired or congenital immunodeficiency diseases. We report the case of a 28-years-old man affected by psoriatic arthritis; he developed some infections during treatment with TNF-α blockers. The infections were caused by a selective IgA deficiency, that was not evident before the anti-TNF-α blockers administration and disappeared after withdrawing the biological therapy. This case-report draws our attention to the possibility of cases of subclinical immunodeficiency, unknown by the patients, but important in the prognosis and in the therapeutic approach to these diseases. Therefore, it is important to evaluate carefully the immunologic status of patients during the pre-therapeutic screening for TNF-α blocking therapy.",
+        "journal": "Reumatismo",
+        "year": "2012",
+        "authors": [
+          "Iervolino S",
+          "Lofrano M",
+          "Di Minno M N D",
+          "Foglia F",
+          "Scarpa R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Psoriatic",
+          "Cyclosporine",
+          "Disease Susceptibility",
+          "Folliculitis",
+          "Herpes Labialis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22472782/"
+      },
+      {
+        "pmid": "21738251",
+        "title": "Acute renal failure in patient treated with anti-tumour necrosis factor alpha.",
+        "abstract": "",
+        "journal": "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia",
+        "year": "2011",
+        "authors": [
+          "Justo Ávila P",
+          "Gracia Iguacel C",
+          "Ortiz Arduán A",
+          "Martín-Cleary C",
+          "Acuña Ramos M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Clinical Conference",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Adalimumab",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Antitubercular Agents",
+          "Asymptomatic Diseases",
+          "Depression",
+          "Diagnosis, Differential",
+          "Disease Susceptibility"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21738251/"
+      },
+      {
+        "pmid": "20471891",
+        "title": "Whipple's disease diagnosed during biological treatment for joint disease.",
+        "abstract": "Increased susceptibility to infections is among the main safety concerns raised by biological agents. We describe five cases of Whipple's disease diagnosed during treatment with biological agents.",
+        "journal": "Joint bone spine",
+        "year": "2010",
+        "authors": [
+          "Hoppé Emmanuel",
+          "Masson Charles",
+          "Audran Maurice",
+          "Drillon Marie",
+          "Andreu Marita"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Arthritis, Rheumatoid",
+          "Doxycycline",
+          "Etanercept",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20471891/"
+      },
+      {
+        "pmid": "24315228",
+        "title": "[Occurrence of vitiligo in a patient with ankylosing spondylitis receiving adalimumab].",
+        "abstract": "",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2013",
+        "authors": [
+          "Toussirot E",
+          "Salard D",
+          "Algros M-P",
+          "Aubin F"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Apoptosis",
+          "Causality",
+          "Disease Susceptibility",
+          "Humans",
+          "Male",
+          "Melanocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24315228/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:17:35.064761",
+  "success": true,
+  "error_message": null
+}

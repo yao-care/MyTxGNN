@@ -1,0 +1,558 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Pregabalin",
+    "disease": "postherpetic neuralgia",
+    "query_string": "Pregabalin AND postherpetic neuralgia"
+  },
+  "data": {
+    "query": "Pregabalin AND postherpetic neuralgia",
+    "results": [
+      {
+        "pmid": "29431387",
+        "title": "Herpes Zoster and Postherpetic Neuralgia: Prevention and Management.",
+        "abstract": "Herpes zoster, or shingles, is caused by reactivation of varicella zoster virus, which causes chickenpox. There are an estimated 1 million cases in the Unites States annually, with an individual lifetime risk of 30%. Patients with conditions that decrease cell-mediated immunity are 20 to 100 times more likely to develop herpes zoster. Patients may present with malaise, headache, low-grade fever, and abnormal skin sensations for two to three days before the classic maculopapular rash appears. The rash is usually unilateral, confined to a single dermatome, and typically progresses to clear vesicles that become cloudy and crust over in seven to 10 days. Herpes zoster can be treated with acyclovir, valacyclovir, or famciclovir, ideally within 72 hours of the development of the rash. Postherpetic neuralgia is the most common complication, occurring in about one in five patients. It is defined as pain in a dermatomal distribution sustained for at least 90 days after acute herpes zoster. Trea",
+        "journal": "American family physician",
+        "year": "2017",
+        "authors": [
+          "Saguil Aaron",
+          "Kane Shawn",
+          "Mercado Michael",
+          "Lauters Rebecca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Female",
+          "Herpes Zoster",
+          "Herpes Zoster Vaccine",
+          "Humans",
+          "Male",
+          "Neuralgia, Postherpetic",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29431387/"
+      },
+      {
+        "pmid": "37493871",
+        "title": "Therapeutic Strategies for Postherpetic Neuralgia: Mechanisms, Treatments, and Perspectives.",
+        "abstract": "Postherpetic neuralgia is an annoying pain that mainly affects older people. In order to give patients more options, this review summarizes the pharmacological and interventional treatments for postherpetic neuralgia and updates the research on the efficacy, thereby providing doctors with more treatment options. The adverse effects and effective doses of its various treatments are also presented so that the therapy can be prescribed according to their concrete physical conditions. In a word, this review is dedicated to providing a comprehensive overview of the treatment options for postherpetic neuralgia and offering patients more choices.",
+        "journal": "Current pain and headache reports",
+        "year": "2023",
+        "authors": [
+          "Tang Jiayu",
+          "Zhang Yunchao",
+          "Liu Chenxin",
+          "Zeng Anqi",
+          "Song Linjiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Neuralgia, Postherpetic",
+          "Gabapentin",
+          "Pregabalin",
+          "Antidepressive Agents, Tricyclic",
+          "Lidocaine",
+          "Analgesics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37493871/"
+      },
+      {
+        "pmid": "31151330",
+        "title": "Interventional Treatments for Postherpetic Neuralgia: A Systematic Review.",
+        "abstract": "Postherpetic neuralgia, a persistent pain condition often characterized by allodynia and hyperalgesia, is a deleterious consequence experienced by patients after an acute herpes zoster vesicular eruption has healed. The pain associated with postherpetic neuralgia can severely affect a patient's quality of life, quality of sleep, and ability to participate in activities of daily living. Currently, first-line treatments for this condition include the administration of medication therapies such as tricyclic antidepressants, pregabalin, gabapentin, and lidocaine patches, followed by the application of tramadol and capsaicin creams and patches as second- or third-line therapies. As not all patients respond to such conservative options, however, interventional therapies are valuable for those who continue to experience pain.",
+        "journal": "Pain physician",
+        "year": "2019",
+        "authors": [
+          "Lin Chia-Shiang",
+          "Lin Ying-Chun",
+          "Lao Hsuan-Chih",
+          "Chen Chien-Chuan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Neuralgia, Postherpetic",
+          "Pain Management",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31151330/"
+      },
+      {
+        "pmid": "20818832",
+        "title": "A comparison of the pharmacokinetics and pharmacodynamics of pregabalin and gabapentin.",
+        "abstract": "Pregabalin and gabapentin share a similar mechanism of action, inhibiting calcium influx and subsequent release of excitatory neurotransmitters; however, the compounds differ in their pharmacokinetic and pharmacodynamic characteristics. Gabapentin is absorbed slowly after oral administration, with maximum plasma concentrations attained within 3-4 hours. Orally administered gabapentin exhibits saturable absorption--a nonlinear (zero-order) process--making its pharmacokinetics less predictable. Plasma concentrations of gabapentin do not increase proportionally with increasing dose. In contrast, orally administered pregabalin is absorbed more rapidly, with maximum plasma concentrations attained within 1 hour. Absorption is linear (first order), with plasma concentrations increasing proportionately with increasing dose. The absolute bioavailability of gabapentin drops from 60% to 33% as the dosage increases from 900 to 3600 mg/day, while the absolute bioavailability of pregabalin remains a",
+        "journal": "Clinical pharmacokinetics",
+        "year": "2010",
+        "authors": [
+          "Bockbrader Howard N",
+          "Wesche David",
+          "Miller Raymond",
+          "Chapel Sunny",
+          "Janiczek Nancy"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Analgesics",
+          "Anticonvulsants",
+          "Cyclohexanecarboxylic Acids",
+          "Dose-Response Relationship, Drug",
+          "Drug Interactions",
+          "Gabapentin",
+          "Pregabalin",
+          "gamma-Aminobutyric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20818832/"
+      },
+      {
+        "pmid": "32345589",
+        "title": "Pregabalin and gabapentin for pain.",
+        "abstract": "",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2020",
+        "authors": [
+          "Mathieson Stephanie",
+          "Lin Chung-Wei Christine",
+          "Underwood Martin",
+          "Eldabe Sam"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Diabetic Neuropathies",
+          "Evidence-Based Medicine",
+          "Fibromyalgia",
+          "Gabapentin",
+          "Humans",
+          "Neuralgia",
+          "Neuralgia, Postherpetic",
+          "Pregabalin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32345589/"
+      },
+      {
+        "pmid": "25317872",
+        "title": "Clinical practice. Postherpetic neuralgia.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2014",
+        "authors": [
+          "Johnson Robert W",
+          "Rice Andrew S C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Aged",
+          "Amines",
+          "Analgesics, Opioid",
+          "Anesthetics, Local",
+          "Antipyretics",
+          "Capsaicin",
+          "Cyclohexanecarboxylic Acids",
+          "Female",
+          "Gabapentin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25317872/"
+      },
+      {
+        "pmid": "39320907",
+        "title": "Efficacy and Safety of Crisugabalin (HSK16149) in Adults with Postherpetic Neuralgia: A Phase 3 Randomized Clinical Trial.",
+        "abstract": "China carries a heavy burden of postherpetic neuralgia, with an unmet need for novel drugs with greater efficacy and less prominent neurotoxic effects than existing calcium channel ligands.",
+        "journal": "JAMA dermatology",
+        "year": "2024",
+        "authors": [
+          "Zhang Daying",
+          "Lei Tiechi",
+          "Qin Lanying",
+          "Li Chenyu",
+          "Lin Xuewu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Neuralgia, Postherpetic",
+          "Male",
+          "Double-Blind Method",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Treatment Outcome",
+          "Pain Measurement",
+          "China"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39320907/"
+      },
+      {
+        "pmid": "26879875",
+        "title": "Post-herpetic Neuralgia: a Review.",
+        "abstract": "Post-herpetic neuralgia (PHN) is a chronic neuropathic pain condition that persists 3 months or more following an outbreak of shingles. Shingles, also known as acute herpes zoster, is associated with the reactivation of the dormant varicella zoster virus in an individual who has experienced chicken pox. PHN is associated with persistent and often refractory neuropathic pain. Patients may experience multiple types of pain including a constant deep, aching, or burning pain; a paroxysmal, lancinating pain; hyperalgesia (painful stimuli are more painful than expected); and allodynia (pain associated with typically non-painful stimuli). The pharmacological treatment of PHN may include a variety of medications including alpha-2 delta ligands (gabapentin and pregabalin), other anticonvulsants (carbamazepine), tricyclic antidepressants (amitriptyline, nortriptyline, doxepin), topical analgesics (5 % lidocaine patch, capsaicin) tramadol, or other opioids. The considerable side effect profiles o",
+        "journal": "Current pain and headache reports",
+        "year": "2016",
+        "authors": [
+          "Hadley Graham R",
+          "Gayle Julie A",
+          "Ripoll Juan",
+          "Jones Mark R",
+          "Argoff Charles E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Anticonvulsants",
+          "Antidepressive Agents, Tricyclic",
+          "Cyclohexanecarboxylic Acids",
+          "Evidence-Based Medicine",
+          "Gabapentin",
+          "Humans",
+          "Neuralgia, Postherpetic",
+          "Practice Guidelines as Topic",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26879875/"
+      },
+      {
+        "pmid": "37629168",
+        "title": "Investigational Drugs for the Treatment of Postherpetic Neuralgia: Systematic Review of Randomized Controlled Trials.",
+        "abstract": "The pharmacological treatment of postherpetic neuralgia (PHN) is unsatisfactory, and there is a clinical need for new approaches. Several drugs under advanced clinical development are addressed in this review. A systematic literature search was conducted in three electronic databases (Medline, Web of Science, Scopus) and in the ClinicalTrials.gov register from 1 January 2016 to 1 June 2023 to identify Phase II, III and IV clinical trials evaluating drugs for the treatment of PHN. A total of 18 clinical trials were selected evaluating 15 molecules with pharmacological actions on nine different molecular targets: Angiotensin Type 2 Receptor (AT2R) antagonism (olodanrigan), Voltage-Gated Calcium Channel (VGCC) α2δ subunit inhibition (crisugabalin, mirogabalin and pregabalin), Voltage-Gated Sodium Channel (VGSC) blockade (funapide and lidocaine), Cyclooxygenase-1 (COX-1) inhibition (TRK-700), Adaptor-Associated Kinase 1 (AAK1) inhibition (LX9211), Lanthionine Synthetase C-Like Protein (LAN",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Huerta Miguel Á",
+          "Garcia Miguel M",
+          "García-Parra Beliu",
+          "Serrano-Afonso Ancor",
+          "Paniagua Nancy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Drugs, Investigational",
+          "Nerve Growth Factor",
+          "Neuralgia, Postherpetic",
+          "Pregabalin",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37629168/"
+      },
+      {
+        "pmid": "36334235",
+        "title": "A Meta-analysis of Randomized Controlled Trials Comparing the Efficacy and Safety of Pregabalin and Gabapentin in the Treatment of Postherpetic Neuralgia.",
+        "abstract": "To systematically evaluate the clinical efficacy of pregabalin and gabapentin in the treatment of postherpetic neuralgia (PHN), including the difference in pain control and occurrence of adverse reactions.",
+        "journal": "Pain and therapy",
+        "year": "2023",
+        "authors": [
+          "Cao Xing",
+          "Shen Ziyi",
+          "Wang Xiaoming",
+          "Zhao Jin",
+          "Liu Wei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36334235/"
+      },
+      {
+        "pmid": "30670513",
+        "title": "Benefits and harms of pregabalin in the management of neuropathic pain: a rapid review and meta-analysis of randomised clinical trials.",
+        "abstract": "To assess the benefits and harms of pregabalin in the management of neuropathic pain.",
+        "journal": "BMJ open",
+        "year": "2019",
+        "authors": [
+          "Onakpoya Igho J",
+          "Thomas Elizabeth T",
+          "Lee Joseph J",
+          "Goldacre Ben",
+          "Heneghan Carl J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Analgesics",
+          "Clinical Trials, Phase III as Topic",
+          "Double-Blind Method",
+          "Humans",
+          "Neuralgia",
+          "Pregabalin",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30670513/"
+      },
+      {
+        "pmid": "39831496",
+        "title": "Effectiveness and Safety of Gabapentin versus Pregabalin in the Treatment of Postherpetic Neuralgia: A Retrospective Cohort Study.",
+        "abstract": "Aims/Background Postherpetic neuralgia (PHN) is a common chronic pain disease that persists after the rash (clusters of clear blisters on the surface of the skin) has healed, adversely affecting the quality of life of affected patients. Gabapentin (GPT) and pregabalin (PGB) are two commonly used drugs for the treatment of PHN, but there have been broad concerns regarding their efficacy and safety. Thus, this retrospective cohort study was conducted to investigate the effectiveness and safety of GPT versus PGB in the treatment of PHN. Methods A total of 150 patients with PHN receiving routine antiviral and neurotrophic therapies, admitted between January 2022 and November 2023, were selected. 71 patients who were treated with GPT were included in the control group, while the remaining 79 patients who were given PGB were categorized in the observation group. Information on clinical effectiveness, safety (xerostomia, drowsiness, blurred vision, ataxia, and dizziness), analgesic effect (Vi",
+        "journal": "British journal of hospital medicine (London, England : 2005)",
+        "year": "2024",
+        "authors": [
+          "Shi Yi",
+          "Song Chunhong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Neuralgia, Postherpetic",
+          "Retrospective Studies",
+          "Pregabalin",
+          "Male",
+          "Female",
+          "Gabapentin",
+          "Aged",
+          "Middle Aged",
+          "Analgesics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39831496/"
+      },
+      {
+        "pmid": "30673120",
+        "title": "Pregabalin for neuropathic pain in adults.",
+        "abstract": "This review updates part of an earlier Cochrane Review titled \"Pregabalin for acute and chronic pain in adults\", and considers only neuropathic pain (pain from damage to nervous tissue). Antiepileptic drugs have long been used in pain management. Pregabalin is an antiepileptic drug used in management of chronic pain conditions.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2019",
+        "authors": [
+          "Derry Sheena",
+          "Bell Rae Frances",
+          "Straube Sebastian",
+          "Wiffen Philip J",
+          "Aldington Dominic"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Analgesics",
+          "Chronic Disease",
+          "Diabetic Neuropathies",
+          "Dizziness",
+          "Humans",
+          "Neuralgia",
+          "Neuralgia, Postherpetic",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30673120/"
+      },
+      {
+        "pmid": "17126531",
+        "title": "Pharmacology and mechanism of action of pregabalin: the calcium channel alpha2-delta (alpha2-delta) subunit as a target for antiepileptic drug discovery.",
+        "abstract": "Pregabalin (Lyrica) is a new antiepileptic drug that is active in animal seizure models. Pregabalin is approved in US and Europe for adjunctive therapy of partial seizures in adults, and also has been approved for the treatment of pain from diabetic neuropathy or post-herpetic neuralgia in adults. Recently, it has been approved for treatment of anxiety disorders in Europe. Pregabalin is structurally related to the antiepileptic drug gabapentin and the site of action of both drugs is similar, the alpha2-delta (alpha2-delta) protein, an auxiliary subunit of voltage-gated calcium channels. Pregabalin subtly reduces the synaptic release of several neurotransmitters, apparently by binding to alpha2-delta subunits, and possibly accounting for its actions in vivo to reduce neuronal excitability and seizures. Several studies indicate that the pharmacology of pregabalin requires binding to alpha2-delta subunits, including structure-activity analyses of compounds binding to alpha2-delta subunits",
+        "journal": "Epilepsy research",
+        "year": "2007",
+        "authors": [
+          "Taylor Charles P",
+          "Angelotti Timothy",
+          "Fauman Eric"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Amino Acid Sequence",
+          "Animals",
+          "Anticonvulsants",
+          "Calcium Channels",
+          "Cyclohexanecarboxylic Acids",
+          "Disease Models, Animal",
+          "Epilepsies, Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Gabapentin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17126531/"
+      },
+      {
+        "pmid": "11690728",
+        "title": "Clinical importance of changes in chronic pain intensity measured on an 11-point numerical pain rating scale.",
+        "abstract": "Pain intensity is frequently measured on an 11-point pain intensity numerical rating scale (PI-NRS), where 0=no pain and 10=worst possible pain. However, it is difficult to interpret the clinical importance of changes from baseline on this scale (such as a 1- or 2-point change). To date, there are no data driven estimates for clinically important differences in pain intensity scales used for chronic pain studies. We have estimated a clinically important difference on this scale by relating it to global assessments of change in multiple studies of chronic pain. Data on 2724 subjects from 10 recently completed placebo-controlled clinical trials of pregabalin in diabetic neuropathy, postherpetic neuralgia, chronic low back pain, fibromyalgia, and osteoarthritis were used. The studies had similar designs and measurement instruments, including the PI-NRS, collected in a daily diary, and the standard seven-point patient global impression of change (PGIC), collected at the endpoint. The chang",
+        "journal": "Pain",
+        "year": "2001",
+        "authors": [
+          "Farrar John T",
+          "Young James P",
+          "LaMoreaux Linda",
+          "Werth John L",
+          "Poole Michael R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anticonvulsants",
+          "Chronic Disease",
+          "Controlled Clinical Trials as Topic",
+          "Female",
+          "Fibromyalgia",
+          "Humans",
+          "Low Back Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11690728/"
+      },
+      {
+        "pmid": "17661955",
+        "title": "A cost-effectiveness comparison of desipramine, gabapentin, and pregabalin for treating postherpetic neuralgia.",
+        "abstract": "To compare the net health effects and costs resulting from treatment with different first-line postherpetic neuralgia (PHN) medications.",
+        "journal": "Journal of the American Geriatrics Society",
+        "year": "2007",
+        "authors": [
+          "O'Connor Alec B",
+          "Noyes Katia",
+          "Holloway Robert G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amines",
+          "Analgesics",
+          "Antidepressive Agents, Tricyclic",
+          "Cost-Benefit Analysis",
+          "Cyclohexanecarboxylic Acids",
+          "Desipramine",
+          "Gabapentin",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17661955/"
+      },
+      {
+        "pmid": "21077300",
+        "title": "[Postherpetic neuralgia].",
+        "abstract": "Varicella-zoster virus (VZV) causes two clinically distinct diseases: varicella and herpes zoster. Herpes zoster, recurrent infection of VZV occurs when the cell-mediated immunity to VZV declines. Since the cell-medicated immunity to VZV declines with aging, herpes zoster occurs more frequently in the elderly. Most frequent and dreaded complication of herpes zoster is postherpetic neuralgia (PHN). The first line of treatment of PHN is medication with tricyclic antidipressants and anticonvulsants. Double-blind studies showed that effective tricyclic antidepressants for the treatment of PHN are amitriptyline and nortriptyline, and effective anticonvulsants gabapentin and pregabalin. When tricyclic antidepressant and/or anticonvulsant cannot relieve PHN, opioids should be considered in some selected patients. Although neuroablative procedures have been performed for the treatment of PHN, their effectiveness was not confirmed by double-blind studies. They rather aggravate PHN with time. Re",
+        "journal": "Masui. The Japanese journal of anesthesiology",
+        "year": "2010",
+        "authors": [
+          "Higa Kazuo",
+          "Shono Shinjiro",
+          "Nitahara Keiichi"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antidepressive Agents, Tricyclic",
+          "Female",
+          "Herpesvirus 3, Human",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Neuralgia, Postherpetic",
+          "Viral Vaccines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21077300/"
+      },
+      {
+        "pmid": "27703368",
+        "title": "Postherpetic neuralgia: epidemiology, pathophysiology, and pain management pharmacology.",
+        "abstract": "Herpes zoster, also known as shingles, is a distinctive clinical condition caused by the reactivation of latent varicella zoster (chickenpox) virus following an initial infection. Approximately 1 million cases of herpes zoster occur annually in the US, and one in every three people develops herpes zoster during their lifetime. Postherpetic neuralgia is a neuropathic pain syndrome characterized by pain that persists for months to years after resolution of the herpes zoster rash. It stems from damage to peripheral and central neurons that may be a byproduct of the immune/inflammatory response accompanying varicella zoster virus reactivation. Patients with postherpetic neuralgia report decreased quality of life and interference with activities of daily living. Approaches to management of postherpetic neuralgia include preventing herpes zoster through vaccination and/or antiviral treatment, and administering specific medications to treat pain. Current guidelines recommend treatment of post",
+        "journal": "Journal of multidisciplinary healthcare",
+        "year": "2016",
+        "authors": [
+          "Mallick-Searle Theresa",
+          "Snodgrass Brett",
+          "Brant Jeannine M"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27703368/"
+      },
+      {
+        "pmid": "23038608",
+        "title": "Diagnosing and managing postherpetic neuralgia.",
+        "abstract": "Postherpetic neuralgia (PHN) represents a potentially debilitating and often undertreated form of neuropathic pain that disproportionately affects vulnerable populations, including the elderly and the immunocompromised. Varicella zoster infection is almost universally prevalent, making prevention of acute herpes zoster (AHZ) infection and prompt diagnosis and aggressive management of PHN of critical importance. Despite the recent development of a herpes zoster vaccine, prevention of AHZ is not yet widespread or discussed in PHN treatment guidelines. Diagnosis of PHN requires consideration of recognized PHN signs and known risk factors, including advanced age, severe prodromal pain, severe rash, and AHZ location on the trigeminal dermatomes or brachial plexus. PHN pain is typically localized, unilateral and chronic, but may be constant, intermittent, spontaneous and/or evoked. PHN is likely to interfere with sleep and daily activities. First-line therapies for PHN include tricyclic anti",
+        "journal": "Drugs & aging",
+        "year": "2012",
+        "authors": [
+          "Nalamachu Srinivas",
+          "Morley-Forster Patricia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Anticonvulsants",
+          "Antidepressive Agents",
+          "Herpes Zoster",
+          "Herpes Zoster Vaccine",
+          "Humans",
+          "Neuralgia, Postherpetic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23038608/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:59:10.107388",
+  "success": true,
+  "error_message": null
+}

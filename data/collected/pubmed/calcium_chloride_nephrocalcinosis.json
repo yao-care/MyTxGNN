@@ -1,0 +1,544 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "nephrocalcinosis",
+    "query_string": "Calcium Chloride AND nephrocalcinosis"
+  },
+  "data": {
+    "query": "Calcium Chloride AND nephrocalcinosis",
+    "results": [
+      {
+        "pmid": "11195313",
+        "title": "Hypercalciuria.",
+        "abstract": "Hypercalciuria is a biological syndrome defined as excretion in the urine of more than 0.1 mmol/kg/24 hours of calcium in the absence of dietary manipulation. A number of endocrine, renal, and bone diseases can cause hypercalciuria. Urinary calcium excretion is substantially influenced by dietary intakes of calcium, sodium, protein, carbohydrates, alcohol, and potassium: a poorly balanced diet can result in hypercalciuria. Recently, there has been a burst of interest in the molecular underpinnings of rare nephrolithiasis syndromes, which have been shown to result from mutations in the CLCN5 chloride channel gene. Mutations affecting the calcium-sensing receptor (CaSR) have been identified in other forms of hypercalciuria. Idiopathic hypercalciuria is defined as hypercalciuria that persists after correction of dietary imbalances and has no detectable cause. The classification suggested by Pak (\"absorptive\" hypercalciuria [with three types] and \"renal\" hypercalciuria) is controversial an",
+        "journal": "Joint bone spine",
+        "year": "2000",
+        "authors": [
+          "Audran M",
+          "Legrand E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Diet",
+          "Humans",
+          "Intestinal Diseases",
+          "Kidney Diseases",
+          "Nephrocalcinosis",
+          "Osteoporosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11195313/"
+      },
+      {
+        "pmid": "10653441",
+        "title": "Diuretic complications.",
+        "abstract": "Diuretics are widely used and generally safe, but like any therapeutic agents, they may cause side effects.",
+        "journal": "The American journal of the medical sciences",
+        "year": "2000",
+        "authors": [
+          "Greenberg A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acid-Base Equilibrium",
+          "Antihypertensive Agents",
+          "Bendroflumethiazide",
+          "Cardiovascular Diseases",
+          "Diuretics",
+          "Female",
+          "Humans",
+          "Hyperkalemia",
+          "Hypertension",
+          "Hypokalemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10653441/"
+      },
+      {
+        "pmid": "24948743",
+        "title": "Claudins and the kidney.",
+        "abstract": "Claudins are tight-junction membrane proteins that function as both pores and barriers in the paracellular pathway in epithelial cells. In the kidney, claudins determine the permeability and selectivity of different nephron segments along the renal tubule. In the proximal tubule, claudins have a role in the bulk reabsorption of salt and water. In the thick ascending limb, claudins are important for the reabsorption of calcium and magnesium and are tightly regulated by the calcium-sensing receptor. In the distal nephron, claudins need to form cation barriers and chloride pores to facilitate electrogenic sodium reabsorption and potassium and acid secretion. Aldosterone and the with-no-lysine (WNK) proteins likely regulate claudins to fine-tune distal nephron salt transport. Genetic mutations in claudin-16 and -19 cause familial hypomagnesemic hypercalciuria with nephrocalcinosis, whereas polymorphisms in claudin-14 are associated with kidney stone risk. It is likely that additional roles",
+        "journal": "Journal of the American Society of Nephrology : JASN",
+        "year": "2015",
+        "authors": [
+          "Yu Alan S L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aldosterone",
+          "Cations",
+          "Claudins",
+          "Epithelial Cells",
+          "Epithelium",
+          "Humans",
+          "Kidney",
+          "Kidney Diseases",
+          "Kidney Tubules, Proximal",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24948743/"
+      },
+      {
+        "pmid": "39225583",
+        "title": "Osteogenic-Like Microenvironment of Renal Interstitium Induced by Osteomodulin Contributes to Randall's Plaque Formation.",
+        "abstract": "Calcium oxalate (CaOx) kidney stones are common and recurrent, lacking pharmacological prevention. Randall's plaques (RPs), calcium deposits in renal papillae, serve as niduses for some CaOx stones. This study explores the role of osteogenic-like cells in RP formation resembling ossification. CaP crystals deposit around renal tubules, interstitium, and blood vessels in RP tissues. Human renal interstitial fibroblasts (hRIFs) exhibit the highest osteogenic-like differentiation potential compared to chloride voltage-gated channel Ka positive tubular epithelial cells, aquaporin 2 positive collecting duct cells, and vascular endothelial cells, echoing the upregulated osteogenic markers primarily in hRIFs within RP tissues. Utilizing RNA-seq, osteomodulin (OMD) is found to be upregulated in hRIFs within RP tissues and hRIFs following osteogenic induction. Furthermore, OMD colocalizes with CaP crystals and calcium vesicles within RP tissues. OMD can enhance osteogenic-like differentiation of",
+        "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "year": "2024",
+        "authors": [
+          "Zhu Zewu",
+          "Huang Fang",
+          "Gao Meng",
+          "Liu Minghui",
+          "Zhang Youjie"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Osteogenesis",
+          "Humans",
+          "Kidney Calculi",
+          "Calcium Oxalate",
+          "Disease Models, Animal",
+          "Cell Differentiation",
+          "Fibroblasts",
+          "Kidney"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39225583/"
+      },
+      {
+        "pmid": "4429137",
+        "title": "Chloride depletion and nephrocalcinosis.",
+        "abstract": "",
+        "journal": "The American journal of physiology",
+        "year": "1974",
+        "authors": [
+          "Levine D Z",
+          "Roy D",
+          "Tolnai G",
+          "Nash L",
+          "Shah B G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkalosis",
+          "Animals",
+          "Calcium",
+          "Chlorides",
+          "Diet",
+          "Drinking",
+          "Eating",
+          "Female",
+          "Furosemide",
+          "Kidney"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4429137/"
+      },
+      {
+        "pmid": "22099510",
+        "title": "Diuretics and disorders of calcium homeostasis.",
+        "abstract": "Diuretics commonly are administered in disorders of sodium balance. Loop diuretics inhibit the Na-K-2Cl transporter and also increase calcium excretion. They are often used in the treatment of hypercalcemia. Thiazide diuretics block the thiazide-sensitive NaCl transporter in the distal convoluted tubule, and can decrease calcium excretion. They are often used in the treatment of nephrolithiasis. Carbonic anhydrase inhibitors decrease bicarbonate absorption and the resultant metabolic acidosis can increase calcium excretion. Their use can promote nephrocalcinosis and nephrolithiasis. This review will address the use of diuretics on disorders of calcium homeostasis.",
+        "journal": "Seminars in nephrology",
+        "year": "2011",
+        "authors": [
+          "Grieff Marvin",
+          "Bushinsky David A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bone Density",
+          "Calcium",
+          "Carbonic Anhydrase Inhibitors",
+          "Diuretics",
+          "Homeostasis",
+          "Humans",
+          "Hypercalcemia",
+          "Nephrocalcinosis",
+          "Nephrolithiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22099510/"
+      },
+      {
+        "pmid": "11262581",
+        "title": "ClC-5 chloride channel and kidney stones: what is the link?",
+        "abstract": "Nephrolithiasis is one of the most common diseases in the Western world. The disease manifests itself with intensive pain, sporadic infections, and, sometimes, renal failure. The symptoms are due to the appearance of urinary stones (calculi) which are formed mainly by calcium salts. These calcium salts precipitate in the renal papillae and/or within the collecting ducts. Inherited forms of nephrolithiasis related to chromosome X (X-linked hypercalciuric nephrolithiasis or XLN) have been recently described. Hypercalciuria, nephrocalcinosis, and male predominance are the major characteristics of these diseases. The gene responsible for the XLN forms of kidney stones was cloned and characterized as a chloride channel called ClC-5. The ClC-5 chloride channel belongs to a superfamily of voltage-gated chloride channels, whose physiological roles are not completely understood. The objective of the present review is to identify recent advances in the molecular pathology of nephrolithiasis, wit",
+        "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+        "year": "2001",
+        "authors": [
+          "Silva I V",
+          "Morales M M",
+          "Lopes A G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Calcium",
+          "Chloride Channels",
+          "Endocytosis",
+          "Female",
+          "Genetic Linkage",
+          "Humans",
+          "Kidney Calculi",
+          "Male",
+          "Minerals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11262581/"
+      },
+      {
+        "pmid": "23140368",
+        "title": "Claudins and the kidney.",
+        "abstract": "Claudins are tight junction membrane proteins that regulate paracellular permeability of renal epithelia to small ions, solutes, and water. Claudins interact within the cell membrane and between neighboring cells to form tight junction strands and constitute both the paracellular barrier and the pore. The first extracellular domain of claudins is thought to be the pore-lining domain and contains the determinants of charge selectivity. Multiple claudins are expressed in different nephron segments; such differential expression likely determines the permeability properties of each segment. Recent evidence has identified claudin-2 as constituting the cation-reabsorptive pathway in the proximal tubule; claudin-14, -16, and -19 as forming a complex that regulates calcium transport in the thick ascending limb of the loop of Henle; and claudin-4, -7, and -8 as determinants of collecting duct chloride permeability. Mutations in claudin-16 and -19 cause familial hypercalciuric hypomagnesemia wit",
+        "journal": "Annual review of physiology",
+        "year": "2013",
+        "authors": [
+          "Hou Jianghui",
+          "Rajagopal Madhumitha",
+          "Yu Alan S L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Biological Transport",
+          "Calcium",
+          "Cell Membrane Permeability",
+          "Claudins",
+          "Humans",
+          "Kidney",
+          "Kidney Diseases",
+          "Tight Junctions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23140368/"
+      },
+      {
+        "pmid": "23174703",
+        "title": "Development of an animal model of nephrocalcinosis via selective dietary sodium and chloride depletion.",
+        "abstract": "Nephrocalcinosis (NC) is an important clinical problem seen in critically ill preterm neonates treated with loop diuretics. No reliable animal models are available to study the pathogenesis of NC in preterm infants. The purpose of this study was to develop a reproducible and clinically relevant animal model of NC for these patients and to explore the impact of extracellular fluid (ECF) volume contraction induced by sodium and chloride depletion in this process.",
+        "journal": "Pediatric research",
+        "year": "2013",
+        "authors": [
+          "Tuchman Shamir",
+          "Asico Laureano D",
+          "Escano Crisanto",
+          "Bobb Daniel A",
+          "Ray Patricio E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blood Pressure",
+          "Calcium",
+          "Chlorides",
+          "Disease Models, Animal",
+          "Furosemide",
+          "Kidney",
+          "Male",
+          "Nephrocalcinosis",
+          "Phosphorus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23174703/"
+      },
+      {
+        "pmid": "29806749",
+        "title": "The Effects of Diuretics on Mineral and Bone Metabolism.",
+        "abstract": "The effects of diuretics on water and electrolyte metabolism are well-established, but less known to the clinician are their effects on bone and mineral metabolism, and in particular on that of calcium homeostasis. In general, and clinically most relevant, diuretics acting at the thick ascending limb of the loop of Henle cause loss of calcium into the urine, thus making them a useful tool in treating hypercalcemia. However the hypercalciuria caused by loop diuretics may lead to the development of urolithiasis and nephrocalcinosis, as well as secondary hyperparathyroidism and bone disease. On the other hand, thiazide diuretics that act more distally, increase tubular calcium reabsorption, thus providing protection against hypercalciuria, and with that may raise serum calcium, suppress PTH secretion and improve bone metabolism. Additional hypocalciuric effect may be observed with the use of potassium-sparing diuretics. This review will address the effects of diuretics on mineral metaboli",
+        "journal": "Pediatric endocrinology reviews : PER",
+        "year": "2018",
+        "authors": [
+          "Alon Uri S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bone Density",
+          "Calcium",
+          "Diuretics",
+          "Humans",
+          "Kidney",
+          "Sodium Chloride Symporter Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29806749/"
+      },
+      {
+        "pmid": "7965206",
+        "title": "Dietary calcium chloride vs. calcium carbonate reduces urinary pH and phosphorus concentration, improves bone mineralization and depresses kidney calcium level in cats.",
+        "abstract": "The effect of dietary calcium chloride vs. calcium carbonate on mineral metabolism was studied in cats. Ovariectomized cats and female kittens were fed purified diets with a normal calcium level (9.5 mmol Ca/MJ) but containing either calcium carbonate or calcium chloride, or were fed diets with a high calcium level (17.7 mmol Ca/MJ) containing either calcium carbonate alone or equimolar amounts of both calcium carbonate and calcium chloride. A 4 x 4-wk cross-over study using adult cats and a 31-wk parallel study using kittens were conducted. Calcium, phosphorus and magnesium balances were established regularly. In the course of the experiment with the kittens, blood samples were taken and X-ray photographs of the tibiae made. At the age of 39 wk, the kittens were killed, and organs and bones were collected. In both adult cats and kittens fed the high calcium diets, urinary concentrations of magnesium and phosphorus and apparent absorption of these minerals were lower than after feeding",
+        "journal": "The Journal of nutrition",
+        "year": "1994",
+        "authors": [
+          "Pastoor F J",
+          "Opitz R",
+          "Van 't Klooster A T",
+          "Beynen A C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Animals",
+          "Animals, Newborn",
+          "Body Weight",
+          "Calcification, Physiologic",
+          "Calcium Carbonate",
+          "Calcium Chloride",
+          "Calcium, Dietary",
+          "Cats",
+          "Feces"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7965206/"
+      },
+      {
+        "pmid": "12512864",
+        "title": "Diet and kidney diseases in rats.",
+        "abstract": "Diet-associated kidney diseases of rats includes nephropathy in both sexes and nephrocalcinosis in females. High protein content of diets appears to be the major cause for severe nephropathy and changing the source of protein to one such as soy protein, restricting caloric intake, or modifying the diet to decrease protein consumption could decrease the severity of nephropathy. The NTP-2000 diet with lower protein content than most diets decreases the severity of nephropathy and increases the survival of Fischer 344 rats without substantial changes in growth patterns and body weights. Nephrocalcinosis, characterized by mineralization of renal tubules at the corticomedullary junction, has been reported in young and adult female rats of most strains and stocks suggesting a major contribution of female sex hormones to the development of this lesion. Calcium (Ca), phosphorous (P), magnesium (Mg), and chloride (Cl) imbalances, especially a Ca:P ratio of less than 1.0 in diet, are considered ",
+        "journal": "Toxicologic pathology",
+        "year": "2002",
+        "authors": [
+          "Rao Ghanta N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Calcium",
+          "Diet",
+          "Diet, Protein-Restricted",
+          "Drinking",
+          "Female",
+          "Food, Formulated",
+          "Kidney",
+          "Kidney Diseases",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12512864/"
+      },
+      {
+        "pmid": "15074370",
+        "title": "Hypercalciuria and nephrocalcinosis in cystic fibrosis patients.",
+        "abstract": "The objective of this study was to determine the frequency of nephrocalcinosis and hypercalciuria in cystic fibrosis (CF) patients, and to search possible causes of this phenomenon. Forty-three CF children (24 boys, 19 girls; mean age 64.9 months, range 5 months-18 years) were included in this study. Plasma sodium, potassium, chloride, BUN, creatinine, calcium, phosphorus, magnesium, alkaline phosphatase; spot urine sodium, potassium, chloride, creatinine, calcium, magnesium; and serum 25-hydroxyvitamin-D levels were measured in all patients. Urine samples were examined for microscopic hematuria. Fractional sodium, potassium, chloride excretion and estimated glomerular filtration rate (GFR) were calculated. All patients underwent renal ultrasonography. Hypercalciuria, nephrocalcinosis and microscopic hematuria were detected in 15 patients (34.2%), 10 patients (23.2%) and two patients (5%), respectively. There was no significant but borderline correlation between 25-hydroxyvitamin-D lev",
+        "journal": "The Turkish journal of pediatrics",
+        "year": "2004",
+        "authors": [
+          "Ozçelik Uğur",
+          "Beşbaş Nesrin",
+          "Göçmen Ayhan",
+          "Akata Deniz",
+          "Akhan Okan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Calcium",
+          "Child",
+          "Cystic Fibrosis",
+          "Female",
+          "Humans",
+          "Infant",
+          "Kidney",
+          "Kidney Function Tests",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15074370/"
+      },
+      {
+        "pmid": "36622354",
+        "title": "Mechanisms of paracellular transport of magnesium in intestinal and renal epithelia.",
+        "abstract": "Magnesium is the fourth most abundant cation in the body. It plays a critical role in many biological processes, including the process of energy release. Paracellular transport of magnesium is mandatory for magnesium homeostasis. In addition to intestinal absorption that occurs in part across the paracellular pathway, magnesium is reabsorbed by the kidney tubule. The bulk of magnesium is reabsorbed through the paracellular pathway in the proximal tubule and the thick ascending limb of the loop of Henle. The finding that rare genetic diseases due to pathogenic variants in genes encoding specific claudins (CLDNs), proteins located at the tight junction that determine the selectivity and the permeability of the paracellular pathway, led to an awareness of their importance in magnesium homeostasis. Familial hypomagnesemia with hypercalciuria and nephrocalcinosis is caused by a loss of function of CLDN16 or CLDN19. Pathogenic CLDN10 variants cause HELIX syndrome, which is associated with a ",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "2023",
+        "authors": [
+          "Houillier Pascal",
+          "Lievre Loïc",
+          "Hureaux Marguerite",
+          "Prot-Bertoye Caroline"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Magnesium",
+          "Nephrocalcinosis",
+          "Hypercalciuria",
+          "Homeostasis",
+          "Membrane Proteins",
+          "Claudins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36622354/"
+      },
+      {
+        "pmid": "18446382",
+        "title": "Genetic causes of hypercalciuric nephrolithiasis.",
+        "abstract": "Renal stone disease (nephrolithiasis) affects 3-5% of the population and is often associated with hypercalciuria. Hypercalciuric nephrolithiasis is a familial disorder in over 35% of patients and may occur as a monogenic disorder that is more likely to manifest itself in childhood. Studies of these monogenic forms of hypercalciuric nephrolithiasis in humans, e.g. Bartter syndrome, Dent's disease, autosomal dominant hypocalcemic hypercalciuria (ADHH), hypercalciuric nephrolithiasis with hypophosphatemia, and familial hypomagnesemia with hypercalciuria have helped to identify a number of transporters, channels and receptors that are involved in regulating the renal tubular reabsorption of calcium. Thus, Bartter syndrome, an autosomal disease, is caused by mutations of the bumetanide-sensitive Na-K-Cl (NKCC2) co-transporter, the renal outer-medullary potassium (ROMK) channel, the voltage-gated chloride channel, CLC-Kb, the CLC-Kb beta subunit, barttin, or the calcium-sensing receptor (CaS",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "year": "2009",
+        "authors": [
+          "Stechman Michael J",
+          "Loh Nellie Y",
+          "Thakker Rajesh V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "Chloride Channels",
+          "Humans",
+          "Hypercalciuria",
+          "Hypophosphatemia",
+          "Kidney Calculi",
+          "Magnesium Deficiency",
+          "Mutation",
+          "Nephrocalcinosis",
+          "Nephrolithiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18446382/"
+      },
+      {
+        "pmid": "15158917",
+        "title": "Calcium phosphate and calcium oxalate crystal handling is dependent upon CLC-5 expression in mouse collecting duct cells.",
+        "abstract": "Defects in an intracellular chloride channel CLC-5 cause Dent's disease, an inherited kidney stone disorder. Using a collecting duct model, mIMCD-3 cells, we show expression of dimeric mCLC-5. Transient transfection of antisense CLC-5 reduces CLC-5 protein expression. Binding of both calcium phosphate (hydroxyapatite) and calcium oxalate monohydrate (COM) crystals overlaid onto mIMCD-3 cultures was affected by altered CLC-5 expression. Calcium phosphate crystal agglomerations (>10 microm) were minimal in control (9%) and sense (13%) CLC-5-transfected cells, compared to 66% of antisense CLC-5-transfected cells (P<0.001). Small calcium phosphate crystals (<10 microm) were found associated with 45% of sense CLC-5-treated cells, of which the majority (11/14 cells) appeared to be internalised within the cell. Calcium oxalate agglomerations (>10 microm) were also largely absent for controls or sense mCLC-5 transfectants (11% and 9% of cells, respectively) with COM crystal agglomerates predom",
+        "journal": "Biochimica et biophysica acta",
+        "year": "2004",
+        "authors": [
+          "Sayer J A",
+          "Carr G",
+          "Simmons N L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blotting, Western",
+          "Calcium Oxalate",
+          "Calcium Phosphates",
+          "Cell Line",
+          "Chloride Channels",
+          "Crystallization",
+          "Gene Expression Regulation",
+          "Kidney Tubules, Collecting",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15158917/"
+      },
+      {
+        "pmid": "32488762",
+        "title": "Bartter's syndrome: clinical findings, genetic causes and therapeutic approach.",
+        "abstract": "Bartter's syndrome (BS) is a rare group of salt losing tubulopathies due to the impairment of transport mechanisms at the thick ascending limb of the Henle's loop.",
+        "journal": "World journal of pediatrics : WJP",
+        "year": "2021",
+        "authors": [
+          "Mrad Flavia Cristina Carvalho",
+          "Soares Sílvia Bouissou Morais",
+          "de Menezes Silva Luiz Alberto Wanderley",
+          "Dos Anjos Menezes Pedro Versiani",
+          "Simões-E-Silva Ana Cristina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bartter Syndrome",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32488762/"
+      },
+      {
+        "pmid": "3153319",
+        "title": "Hypomagnesaemia of hereditary renal origin.",
+        "abstract": "Cases of hypomagnesaemia of hereditary renal origin represent at least three different congenital disorders of tubular reabsorption of magnesium (Mg). Isolated familial hypomagnesaemia has been reported in a heterogeneous group of patients and an autosomal dominant pattern of inheritance has often been found to be present. Familial hypokalaemia-hypomagnesaemia, inherited as an autosomal recessive trait, has been reported in 17 patients and we now describe 3 additional cases. Hypomagnesaemia is accompanied by hypokalaemia, metabolic alkalosis, hypocalciuria and moderate sodium chloride wasting. Titration of renal Mg reabsorption indicates the presence of a low threshold but a normal Tm. The inherited defect is probably situated at the level of the distal convoluted tubule and mimics the therapeutic effect of thiazides. This condition is frequently confused with Bartter's syndrome. Familial hypomagnesaemia-hypercalciuria, also inherited as an autosomal recessive trait, has been reported ",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "year": "1987",
+        "authors": [
+          "Rodríguez-Soriano J",
+          "Vallo A",
+          "García-Fuentes M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Kidney Diseases",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3153319/"
+      },
+      {
+        "pmid": "22089066",
+        "title": "Hyperparathyroidism: primary or secondary disease?",
+        "abstract": "Primary hyperparathyroidism (PHPT) is characterized by the autonomous production of parathyroid hormone (PTH), in which there is hypercalcemia or normal-high serum calcium levels in the presence of elevated or inappropriately normal serum PTH concentrations. Exceptionally in symptomatic patients, a diagnostic can be established on the basis of clinical data. PHPT must always be evaluated in patients with clinical histories of nephrolithiasis, nephrocalcinosis, osseous pain, subperiosteal resorption, and pathologic fractures, as well as in those with osteoporosis-osteopenia, a personal history of neck irradiation, or a family history of multiple endocrine neoplasia syndrome (types 1 or 2). Diagnosis of PHPT is biochemical. Asymptomatic hypercalcemia without guiding signs or symptoms is the most frequent manifestation of the disease. For differential diagnosis, PTH must be measured, as well as phosphate, chloride, 25-hydroxyvitamin D, 1,25 dyhidroxyvitamin D and calcium-to-creatinine cle",
+        "journal": "Reumatologia clinica",
+        "year": "2012",
+        "authors": [
+          "Cordellat Isabel Martínez"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Bone Diseases, Metabolic",
+          "Cardiovascular Diseases",
+          "Chlorides",
+          "Creatinine",
+          "Diagnosis, Differential",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism, Primary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22089066/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:36:47.087525",
+  "success": true,
+  "error_message": null
+}

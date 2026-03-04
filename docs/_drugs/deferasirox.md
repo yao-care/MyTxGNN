@@ -6,7 +6,7 @@ drug_name: "Deferasirox"
 kg_predictions: 98
 dl_predictions: 190
 evidence_level: "L1"
-indication_count: 98
+indication_count: 5
 brands: []
 permalink: /drugs/deferasirox/
 ---

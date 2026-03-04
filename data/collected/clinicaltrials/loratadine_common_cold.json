@@ -1,0 +1,69 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Loratadine",
+    "disease": "common cold"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06217367",
+      "title": "Do Common Over-the-counter Antihistamine Medications Modify Thermoregulatory Responses During Passive Heat Stress?",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-05",
+      "completion_date": "2024-06",
+      "country": "Canada",
+      "enrollment": 16,
+      "brief_summary": "Allergic rhinitis (AR) currently affects \\~25% of Canadians, and due to factors of climate change, this number is expected to increase over the coming decade. AR symptoms can significantly impact individuals' quality of life by compromising sleep, productivity, and social interactions. To alleviate AR symptoms, North Americans tend to rely on H1 antihistamine medications available over-the-counter (OTC) at most pharmacies. However, public health authorities currently suggest restraining all anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female between ages 19 and 39 years\n* Fully vaccinated against COVID-19\n* Able to provide informed consent\n* Body-mass index under 30\n\nExclusion Criteria:\n\n* Body-mass index over 30\n* Currently taking sedative or autonomic nervous system depressant medication\n* Hyperse",
+      "endpoints": [
+        "Whole-Body Sweat Losses",
+        "Skin Blood Flow",
+        "Heart Rate"
+      ],
+      "sponsor": "Lakehead University",
+      "url": "https://clinicaltrials.gov/study/NCT06217367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06531707",
+      "title": "Efficacy and Safety of Ibuprofen/Loratadine Fixed-dose Combination Versus the Fixed-dose Administration of Monotherapy as Symptomatic Treatment for Patients With the Common Cold",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2025-02-20",
+      "country": "Mexico",
+      "enrollment": 177,
+      "brief_summary": "Phase III longitudinal, multicenter, randomized, double-blind clinical trial. The aim of this study is to evaluate the efficacy and safety of the drug combination of Ibuprofen/Loratadine versus Ibuprofen versus Loratadine as monotherapy for the symptomatic treatment of the common cold.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study and give written informed consent\n* At least 6 points on the Jackson scale according to physical examination and questioning (sneezing, runny nose, nasal obstruction, sore throat, cough, headache, malaise, and chills).\n* Symptoms associated wi",
+      "endpoints": [
+        "Assess the improvement in symptoms, comparing the percentage change through the Jackson score",
+        "Number of participants with treatment-related adverse events through the patient's diary record, by treatment group"
+      ],
+      "sponsor": "Laboratorios Silanes S.A. de C.V.",
+      "url": "https://clinicaltrials.gov/study/NCT06531707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04645979",
+      "title": "The Perception of Celestamine Treatment in Mexico: a Retrospective Assessment of Consumer Perception of Prior Celestamine Use",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-11-11",
+      "completion_date": "2020-11-27",
+      "country": "Mexico",
+      "enrollment": 153,
+      "brief_summary": "Acute allergic rhinitis is a common allergic reaction to things like pollen or dust. It causes inflammation inside the nose, resulting in symptoms similar to the common cold. Allergic rhinitis is also known as hay fever.\n\nIn this study, the researchers want to learn what participants think of betamethasone plus loratadine as a treatment for their acute allergic rhinitis. These participants will have used betamethasone plus loratadine as a treatment for their acute allergic rhinitis within the pa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who used betamethasone plus loratadine within the previous 2 months for the treatment of acute episodes of allergic rhinitis\n* Participants allowing to use the data for research and marketing purposes as well as talking to authorities\n* Participants allowing us to",
+      "endpoints": [
+        "Experience with betamethasone plus loratadine via an online questionnaire"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT04645979"
+    }
+  ],
+  "timestamp": "2026-03-04T14:49:47.994434",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,603 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ethinylestradiol",
+    "disease": "postmenopausal osteoporosis",
+    "query_string": "Ethinylestradiol AND postmenopausal osteoporosis"
+  },
+  "data": {
+    "query": "Ethinylestradiol AND postmenopausal osteoporosis",
+    "results": [
+      {
+        "pmid": "6362926",
+        "title": "Calcitonin and postmenopausal osteoporosis.",
+        "abstract": "Fasting serum calcitonin levels were measured in 54 postmenopausal women who had for 10 years been taking part in a double blind trial to assess the effect of the synthetic oestrogen, mestranol, on postmenopausal bone loss. There were no differences in calcitonin levels between mestranol treated and placebo groups. Fifteen of the women were challenged with a calcium infusion to measure the secretory reserve of calcitonin. Oestrogen treatment did not increase the calcitonin response to calcium infusion. The three patients who exhibited the greatest responses were placebo treated. Bone density was measured by gamma-ray absorptiometry over the ten year period and the annual rate of change of bone density calculated. No correlation could be found between basal calcitonin level or calcitonin reserve and change in bone density. Our results indicate that postmenopausal osteoporosis is not caused by a deficiency of calcitonin and that the action of oestrogen therapy to prevent bone loss does n",
+        "journal": "Clinical endocrinology",
+        "year": "1984",
+        "authors": [
+          "Leggate J",
+          "Farish E",
+          "Fletcher C D",
+          "McIntosh W",
+          "Hart D M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Calcitonin",
+          "Calcium",
+          "Clinical Trials as Topic",
+          "Densitometry",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Menopause",
+          "Mestranol",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6362926/"
+      },
+      {
+        "pmid": "40742784",
+        "title": "Comparison of estrogens and selective estrogen receptor modulators (SERMs) used for menopausal hormone therapy.",
+        "abstract": "A variety of natural and synthetic steroidal estrogens, as well as selective estrogen receptor modulators (SERMs), are used for menopausal hormone therapy (MHT) by oral and/or parenteral routes of administration. Two of the most widely used estrogens for MHT are conjugated equine estrogens (CEE) and estradiol (E2); other estrogens include esterified estrogens, piperazine estrone sulfate, estriol, estetrol (E4), E2 valerate, and ethinyl estradiol. Commonly used SERMs include tamoxifen, raloxifene, ospemifene, lasofoxifene, and bazedoxifene. These agents vary widely in their affinities for the estrogen receptors and in their pharmacokinetics, leading to differences in clinical utility. The estrogens are highly effective in treating vasomotor symptoms (VMS) and genitourinary syndrome of menopause (GSM), and they have a beneficial effect on bone density. While some SERMs are approved for osteoporosis prevention and treatment, they have variable effects on VMS and GSM. Studies show that CEE",
+        "journal": "Menopause (New York, N.Y.)",
+        "year": "2025",
+        "authors": [
+          "Stanczyk Frank Z",
+          "Yang Jane L",
+          "Coelingh Bennink Herjan J T",
+          "Sriprasert Intira",
+          "Winer Sharon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Selective Estrogen Receptor Modulators",
+          "Female",
+          "Estrogens",
+          "Menopause",
+          "Estrogens, Conjugated (USP)",
+          "Breast Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Tamoxifen",
+          "Estradiol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40742784/"
+      },
+      {
+        "pmid": "1822826",
+        "title": "Effects of oestrogens and progestogens on coronary atherosclerosis and osteoporosis of monkeys.",
+        "abstract": "We have used the cynomolgus macaque as a model for the study of the effects of endogenous and exogenous sex steroid hormones on atherosclerosis and osteoporosis. As in human beings, premenopausal female cynomolgus macaques develop much less extensive coronary artery atherosclerosis than their male counterparts. Furthermore, surgical menopause results in a more atherogenic plasma lipoprotein pattern and an approximate doubling of atherosclerosis extent. Frequent pregnancy, a hyperoestrogenic state, results in an approximate 50% reduction in atherosclerosis extent. Physiological replacement with 17 beta-oestradiol alone or in combination with progesterone prevents the increase in coronary artery atherosclerosis extent associated with ovariectomy. This effect is independent of plasma lipoprotein concentrations and appears to be accounted for, at least in part, by an inhibitory effect of oestrogen replacement therapy on the uptake and degradation of LDL by the artery wall. Also, as in huma",
+        "journal": "Bailliere's clinical obstetrics and gynaecology",
+        "year": "1991",
+        "authors": [
+          "Adams M R",
+          "Williams J K",
+          "Clarkson T B",
+          "Jayo M J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bone Density",
+          "Coronary Artery Disease",
+          "Coronary Vessels",
+          "Disease Models, Animal",
+          "Estradiol Congeners",
+          "Estrogen Replacement Therapy",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1822826/"
+      },
+      {
+        "pmid": "269626",
+        "title": "The prevention and management of post-menopausal osteoporosis.",
+        "abstract": "In 6 groups of peri- and post-menopausal women, there was an inverse relation between the urinary sediment smear maturation value and the fasting urinary hydroxyproline/creatinine ratio. Administration of ethinyloestradiol and Progynova both reduced urinary hydroxyproline into the pre-menopausal range, the fall being proportional to the starting value. Oestrogen therapy also produced a significant fall in plasma ionised calcium. In a prospective trial, oestrogen therapy prevented post-menopausal bone loss but calcium therapy was less effective. It is suggested that a high fasting urinary hydroxyproline/creatinine ratio might be taken as an indication for oestrogen therapy in post-menopausal women. In established post-menopausal osteoporosis, pre-disposing risk factors appear to be low calcium intake, malabsorption of calcium and low oestrogen status. These patients appear to represent the fast bone-losers in the post-menopausal population. The accelerated bone loss can be wholly or par",
+        "journal": "Acta obstetricia et gynecologica Scandinavica. Supplement",
+        "year": "1977",
+        "authors": [
+          "Marshall D H",
+          "Horsman A",
+          "Nordin B E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bone and Bones",
+          "Calcium",
+          "Creatinine",
+          "Estradiol",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Hydroxyproline",
+          "Menopause"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/269626/"
+      },
+      {
+        "pmid": "6320148",
+        "title": "Post-menopausal osteoporosis and estrogens. Who should be treated and why.",
+        "abstract": "Estrogen deficiency after menopause results in loss of skeletal calcium and increased risk of bone fractures. Administration to postmenopausal women of a daily dose of 0.625 mg of conjugated equine estrogen, 1 mg estradiol-17 beta, or 0.15 mg ethinyl estradiol prevents these changes. The safety of long-term estrogen administration has not been established by large-scale controlled studies. Therefore, hormone treatment should be reserved for patients with symptoms of estrogen deficiency or for subsets of persons at increased risk of osteoporotic bone fractures. These include fair-skinned or lightweight persons, smokers, heavy drinkers, persons on prolonged corticosteroid therapy, and those with early menopause or rheumatoid arthritis.",
+        "journal": "Postgraduate medicine",
+        "year": "1984",
+        "authors": [
+          "Saville P D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Calcium",
+          "Drug Therapy, Combination",
+          "Estradiol",
+          "Estrogens",
+          "Estrogens, Conjugated (USP)",
+          "Ethinyl Estradiol",
+          "Female",
+          "Fractures, Bone",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6320148/"
+      },
+      {
+        "pmid": "8571999",
+        "title": "Bone-sparing properties of oral contraceptives.",
+        "abstract": "Postmenopausal osteoporosis is a major health care problem that affects 20 million women in the United States and accounts for > 1 million fractures per year. Hormone replacement therapy is effective for reducing bone loss in the postmenopausal women. However, intervention before menopause may delay or prevent the decline in bone mass that begins between ages 30 and 40 years. The effects of oral contraceptives on bone mass have been investigated, and a positive association between oral contraceptive use and bone mass that is directly related to the duration of oral contraceptive use was observed. The effects of oral contraceptives on bone mass may be related to the specific formation. The effect of estrogens is dose related, and the optimal dose appears to be 25 to 35 micrograms of ethinyl estradiol or its equivalent. Results from several studies show that norethindrone has a positive effect on bone mass. An oral contraceptive may offer optimal birth control for the older premenopausal",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "1996",
+        "authors": [
+          "DeCherney A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Contraceptives, Oral",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Menopause",
+          "Norethindrone",
+          "Osteoporosis, Postmenopausal",
+          "Premenopause"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8571999/"
+      },
+      {
+        "pmid": "8120857",
+        "title": "Physiologic and pharmacologic effects of estrogen and progestins on bone.",
+        "abstract": "Estrogen deficiency has a primary role in the pathogenesis of osteoporosis, a major cause of morbidity and mortality in postmenopausal women. Estrogen therapy is associated with increased peak bone mass premenopausally and prevention of bone loss postmenopausally. The mechanisms by which estrogen exerts its effects on bone are not completely understood. Nonetheless, estrogen does affect calcium balance, and evidence suggests a direct mechanism via estrogen receptors on bone. The role of progestins in preventing bone loss is less well understood than that of estrogen. Studies in postmenopausal women and studies of add-back therapy in younger women have shown that norethindrone, but not medroxyprogesterone, treatment has a bone-sparing effect on cortical bone but not on trabecular bone. In addition, norethindrone, 5 or 10 mg daily, has effects on biochemical markers of bone turnover similar to those of estrogen, providing further evidence of a bone-sparing effect. The mechanisms for the ",
+        "journal": "The Journal of reproductive medicine",
+        "year": "1993",
+        "authors": [
+          "DeCherney A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Bone Density",
+          "Contraceptives, Oral",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Osteoporosis",
+          "Progestins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8120857/"
+      },
+      {
+        "pmid": "6110915",
+        "title": "Calcitonin and the calcium-regulating hormones in postmenopausal women: effect of oestrogens.",
+        "abstract": "In man, the major function of calcitonin appears to be prevention of excessive or unwanted bone resorption. There is a striking sex difference in circulating levels, with a relative deficiency in women. Calcitonin secretion in young adults is increased by oestrogens and therefore long periods of oestrogen lack, such as after the menopause, may be associated with a more pronounced calcitonin deficiency. This exaggerated deficiency could be an important factor in the pathogenesis of postmenopausal bone loss, especially since the latter may be due to excessive bone resorption. In a study of the effects of oestrogen treatment on circulating levels of calcitonin, parathyroid hormone, and vitamin-D metabolites in postmenopausal women, the most striking change was a sharp rise in plasma-calcitonin. Oestrogens prevent postmenopausal bone loss, and it is suggested that this effect could be mediated, at least in part, through control of calcitonin secretion. Calcitonin may prove effective in the",
+        "journal": "Lancet (London, England)",
+        "year": "1981",
+        "authors": [
+          "Stevenson J C",
+          "Abeyasekera G",
+          "Hillyard C J",
+          "Phang K G",
+          "MacIntyre I"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bone Resorption",
+          "Bone and Bones",
+          "Calcitonin",
+          "Calcium",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Menopause",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6110915/"
+      },
+      {
+        "pmid": "25815520",
+        "title": "Effects of OsteoKing on osteoporotic rabbits.",
+        "abstract": "Heng-Gu-Gu-Shang-Yu-He-Ji, also known as OsteoKing, is used as a herbal Traditional Chinese Medicine for the treatment of bone disease, including femoral head necrosis and osteoarthritis. However, whether OsteoKing has anti-osteoporotic properties has remained to be elucidated. The purpose of the present study was therefore to investigate the effects of OsteoKing on ovariectomy-induced osteoporosis in rabbits. Female New Zealand white rabbits were randomly divided into an ovariectomized (OVX) group and a sham-surgery group. The rabbits in the OVX group were subjected to an ovariectomy, while the rabbits in the sham group were subjected to the removal of an area of fat near the two ovaries. Bone mineral density, mechanical properties, serum biochemical parameters and micro-architecture were examined at 150 days post-OVX to characterize the experimental animal model. Once the osteoporotic rabbit model had been established, the rabbits in the OVX group were divided into the following grou",
+        "journal": "Molecular medicine reports",
+        "year": "2015",
+        "authors": [
+          "Dai Lifen",
+          "Wu Haiying",
+          "Yu Shan",
+          "Zhao Hongbin",
+          "Xue Lanjie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absorptiometry, Photon",
+          "Acid Phosphatase",
+          "Administration, Oral",
+          "Animals",
+          "Bone Density",
+          "Bone Density Conservation Agents",
+          "Drugs, Chinese Herbal",
+          "Estriol",
+          "Estrogens",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25815520/"
+      },
+      {
+        "pmid": "2309827",
+        "title": "A study of combined continuous ethinyl estradiol and norethindrone acetate for postmenopausal hormone replacement.",
+        "abstract": "In a blinded, prospective, dose-response pilot study of continuous estrogen-progestin replacement therapy, 77 thin, nonsmoking, white women, who were 12 to 60 months postmenopausal and had normal medical histories, were randomly assigned to receive one of five dose combinations of daily ethinyl estradiol and norethindrone acetate (20 micrograms and 1.0 mg, 10 micrograms and 1.0 mg, 10 micrograms and 0.5 mg, 5 micrograms and 1.0 mg, and 5 micrograms and 0.5 mg) or conjugated estrogens 0.625 mg on days 1 to 25 and medroxyprogesterone acetate 10 mg on days 16 to 25. An additional 10 women meeting the same criteria served as a comparison group by taking calcium only. During 12 months of therapy, continuous users had significantly less vaginal bleeding and spotting than did sequential users. As compared with baseline values, bone metabolism and computerized tomographic measurements of vertebral trabecular bone density at month 12 indicated reduced bone turnover and increased density in horm",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "1990",
+        "authors": [
+          "Williams S R",
+          "Frenchek B",
+          "Speroff T",
+          "Speroff L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Biopsy",
+          "Bone Density",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Endometrium",
+          "Estrogen Replacement Therapy",
+          "Ethinyl Estradiol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2309827/"
+      },
+      {
+        "pmid": "18464016",
+        "title": "Oral bioavailability and bone-sparing effects of estetrol in an osteoporosis model.",
+        "abstract": "To measure the oral bioavailability of estetrol (E(4)) in rats relative to its subcutaneous administration and to test the bone-sparing effect of oral E(4) compared to that of ethinylestradiol (EE).",
+        "journal": "Climacteric : the journal of the International Menopause Society",
+        "year": "2008",
+        "authors": [
+          "Coelingh Bennink H J T",
+          "Heegaard A-M",
+          "Visser M",
+          "Holinka C F",
+          "Christiansen C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Animals",
+          "Area Under Curve",
+          "Biological Availability",
+          "Bone Density",
+          "Bone Density Conservation Agents",
+          "Bone and Bones",
+          "Dose-Response Relationship, Drug",
+          "Estetrol",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18464016/"
+      },
+      {
+        "pmid": "16203654",
+        "title": "Effects of drospirenone/estrogen combinations on bone metabolism.",
+        "abstract": "Bone mass is maintained when low-dose ethinylestradiol is used in combination with the new progestogen drospirenone as an oral contraceptive, making a regimen of drospirenone combined with 17beta-estradiol an attractive option for hormone replacement therapy (HRT) in postmenopausal women. Drospirenone is a novel progestogen, more closely related to endogenous progesterone in its pharmacological properties than other progestogens available; in combination with estrogen, drospirenone can closely mimic the premenopausal hormonal balance. In a phase II/III double-blind, placebo-controlled, randomized trial, three different doses of drospirenone plus low-dose 17beta-estradiol were compared with placebo, in order to determine their effects on bone density. Of 240 healthy postmenopausal women aged 45-65 years who enrolled, 180 completed the 2-year prospective study. Treatment groups received 1 mg 17beta-estradiol combined with 1, 2 or 3 mg drospirenone daily or placebo. Bone mineral densities",
+        "journal": "Climacteric : the journal of the International Menopause Society",
+        "year": "2005",
+        "authors": [
+          "Christiansen C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androstenes",
+          "Bone Density",
+          "Estrogen Replacement Therapy",
+          "Female",
+          "Humans",
+          "Mineralocorticoid Receptor Antagonists",
+          "Osteoporosis",
+          "Progesterone Congeners",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16203654/"
+      },
+      {
+        "pmid": "28033335",
+        "title": "Chlorogenic Acid Prevents Osteoporosis by Shp2/PI3K/Akt Pathway in Ovariectomized Rats.",
+        "abstract": "Cortex Eucommiae is used worldwide in traditional medicine, various constituents of Cortex Eucommiae, such as chlorogenic acid (CGA), has been reported to exert anti-osteoporosis activity in China, but the mechanism about their contribution to the overall activity is limited. The aims of this study were to determine whether chlorogenic acid can prevent estrogen deficiency-induced osteoporosis and to analyze the mechanism of CGA bioactivity. The effect of CGA on estrogen deficiency-induced osteoporosis was performed in vivo. Sixty female Sprague-Dawley rats were divided randomly among a sham-operated group and five ovariectomy (OVX) plus treatment subgroups: saline vehicle, 17α-ethinylestradiol (E2), or CGA at 9, 27, or 45 mg/kg/d. The rats' femoral metaphyses were evaluated by micro-computed tomography (μCT). The mechanism of CGA bioactivity was investigated in vitro. Bone mesenchymal stem cells (BMSCs) were treated with CGA, with or without phosphoinositide 3-kinase (PI3K) inhibitor L",
+        "journal": "PloS one",
+        "year": "2016",
+        "authors": [
+          "Zhou Rong Ping",
+          "Lin Si Jian",
+          "Wan Wen Bing",
+          "Zuo Hui Ling",
+          "Yao Fen Fen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bone Density",
+          "Cell Differentiation",
+          "Cell Proliferation",
+          "Cells, Cultured",
+          "Chlorogenic Acid",
+          "Chromones",
+          "Cyclin D1",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28033335/"
+      },
+      {
+        "pmid": "11379383",
+        "title": "The role of antiandrogens in hormone replacement therapy.",
+        "abstract": "The most widely used antiandrogens in clinical practice are cyproterone acetate, a derivative of 17-hydroxyprogesterone, and dienogest, a 19-norprogestin. An established sequential preparation for hormone replacement therapy (HRT) consists of 11 days of 2 mg estradiol valerate, 10 days of 2 mg estradiol valerate with 1 mg cyproterone acetate, followed by a 7-day drug-free interval (Climen, Schering AG, Berlin, Germany). Cyproterone acetate is highly progestogenic, has no androgenic properties, and is antiandrogenic above a certain dose. Cyproterone acetate does not counteract the estrogenic effects of estradiol valerate in Climen. This therapy, therefore, has optimal effects on lipid metabolism and coronary heart disease risk, protects the endometrium and reduces menopausal symptoms, preserves bone and reduces osteoporotic fracture risk, and has antiandrogenic effects on the skin and other androgen-sensitive epidermal structures. Dienogest, on the other hand, will soon be introduced in",
+        "journal": "Climacteric : the journal of the International Menopause Society",
+        "year": "2000",
+        "authors": [
+          "Schneider H P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androgen Antagonists",
+          "Biological Availability",
+          "Body Weight",
+          "Chemistry, Pharmaceutical",
+          "Cognition",
+          "Coronary Disease",
+          "Cyproterone Acetate",
+          "Drug Combinations",
+          "Estradiol",
+          "Estrogen Replacement Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11379383/"
+      },
+      {
+        "pmid": "12428992",
+        "title": "Hormone replacement therapy: optimising the dose and route of administration.",
+        "abstract": "Several new products and regimens for estrogen replacement in the postmenopausal woman have recently been introduced, giving physicians and patients greater choice not only in dose but also in route of administration. Estrogen treatment in the postmenopausal woman has several proven benefits for those who have vasomotor symptoms or problems related to urogenital atrophy. However, the most controversial area is in the long-term preventive benefits of estrogen against the development of osteoporosis and cardiovascular disease, particularly in women older than 60 years. It is in these areas that decisions on the dose and optimal route of administration of estrogen replacement therapy (ERT) must be made. Although adding a progestogen to an ERT regimen is mandatory, particularly in a woman with an intact uterus, discussion now focuses on which progestogen least attenuates the beneficial effects of estrogen. Emerging trends suggest that lower doses of estrogen (i.e. ethinylestradiol 5 microg",
+        "journal": "Drugs & aging",
+        "year": "2002",
+        "authors": [
+          "Montgomery Rice Valerie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Aged",
+          "Cardiovascular Diseases",
+          "Drug Combinations",
+          "Estradiol",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Ethinyl Estradiol",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12428992/"
+      },
+      {
+        "pmid": "1304463",
+        "title": "Prospective double-blind study of CEE3 in peri- and postmenopausal women: effects on bone loss and lipoprotein lipids.",
+        "abstract": "A prospective double-blind study was carried out in 136 women 0.5 to 21 years since menopause (YSM) in order to demonstrate the effects of a long-acting estriol derivative-Nylestriol (CEE3) on bone loss and lipoprotein lipids. They were orally administered at 2 mg of CEE3 or placebo every 2 weeks. Among 90 subjects who finished 1 year of medication, 49 received CEE3 and 41 placebo. The results were: 1. Serum ALP, Ca/Cr and Hop/Cr in fasting urine decreased in 3 months (P < 0.05); 2. Menopause-related reduction of forearm bone density was restrained; 3. LDL-C decreased in 3 months and HDL-C increased in 6 months (P < 0.05), with no significant changes in TC and TG; 4. Side effects were mild. 1/3 of those with intact uterus had spotting and another 1/3 had moderate withdrawal bleeding after the addition of medroxyprogesterone acetate at the end of 12 months of CEE3 therapy. This study demonstrates that CEE3 is effective and acceptable for preventing osteoporosis and lipoprotein lipids di",
+        "journal": "Chinese medical journal",
+        "year": "1992",
+        "authors": [
+          "Cheng G J",
+          "Liu J L",
+          "Zhang Q",
+          "Ye H F",
+          "Wang Z Q"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Bone Density",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL",
+          "Double-Blind Method",
+          "Estradiol Congeners",
+          "Estrogen Replacement Therapy",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1304463/"
+      },
+      {
+        "pmid": "11594153",
+        "title": "[Low-dose oral contraception and bone density].",
+        "abstract": "Oral contraceptives (OC) with 20 or 30 mcg Ethinyl-Estradiol (EE) inhibit bone remodeling in all age groups investigated until today as far as the biochemical parameters are considered. In perimenopausal women, OC with 20 or 30 mcg EE reduce the decrease in bone density and may, depending on the starting point, induce an increase in bone density. OC with 20 mcg EE might impede the formation of a physiological peak bone mass in very young women (probably women less than 20 years of age) by a reduction of bone metabolism. This possibility provoked a certain insecurity. However, it should not lead to the consequence that a safe contraceptive method is refused to young women. Unfortunately, there is still a lack of reliable studies allowing a final statement on the effect of low-dose OC on bone density in teenagers. Such studies are urgently needed so that we are able to guarantee in very young women that a reasonable contraception has not to be payed by a long-term risk for the skeletal h",
+        "journal": "Therapeutische Umschau. Revue therapeutique",
+        "year": "2001",
+        "authors": [
+          "Karck U",
+          "Breckwoldt M"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Bone Density",
+          "Contraceptives, Oral",
+          "Contraceptives, Oral, Combined",
+          "Dose-Response Relationship, Drug",
+          "Estrogen Replacement Therapy",
+          "Europe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11594153/"
+      },
+      {
+        "pmid": "12856809",
+        "title": "The effect of low dose nylestriol-levonorgestrel replacement therapy on bone mineral density in women with postmenopausal osteoporosis.",
+        "abstract": "Recently our studies have shown that nylestriol in combination with levonorgestrel prevented bone loss, decreased bone turnover rate and increased the maximal loading of bone without obvious side effects in retinoic acid (RA) induced osteoporotic rats. In addition to the animal experiments, we evaluate the effect of Compound Nylestriol Tablet (CNT) on bone mineral density (BMD) in women with postmenopausal osteoporosis. Compound Nylestriol Tablet, which contains 0.5 mg of nylestriol (cyclopentylethinyl estriol) and 0.15 mg of levonorgestrel per tablet, was authorized as a new anti-osteoporotic agent for clinical trial in postmenopausal osteoporosis.",
+        "journal": "Endocrine research",
+        "year": "2003",
+        "authors": [
+          "Liao Er-yuan",
+          "Luo Xiang-hang",
+          "Deng Xiao-ge",
+          "Wu Xian-ping",
+          "Liao Hui-juan"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bone Density",
+          "Bone and Bones",
+          "Breast",
+          "Contraceptives, Oral, Synthetic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Endometrium",
+          "Estrogen Replacement Therapy",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12856809/"
+      },
+      {
+        "pmid": "22312238",
+        "title": "The bone-protective effect of genistein in the animal model of bilateral ovariectomy: roles of phytoestrogens and PTH/PTHR1 against post-menopausal osteoporosis.",
+        "abstract": "Genistein, a major phytoestrogen of soy, is considered a potential drug for the prevention and treatment of post-menopausal osteoporosis. Mounting evidence suggested a positive correlation between genistein consumption and bone health both in vivo and in vitro. Earlier studies have revealed that genistein acted as a natural estrogen analogue which activated estrogen receptor and exerted anti-osteoporotic effect. However, it remains unclear whether PTH, the most crucial hormone that regulates mineral homeostasis, participates in the process of genistein-mediated bone protection. In the present study, we compared the therapeutic effects between genistein and nilestriol and investigated whether PTH and its specific receptor PTHR1 altered in response to genistein-containing diet in the animal model of ovariectomy. Our results showed that genistein administration significantly improved femoral mechanical properties and alleviates femoral turnover. Genistein at all doses (4.5 mg/kg, 9.0 mg/k",
+        "journal": "International journal of molecular sciences",
+        "year": "2012",
+        "authors": [
+          "Miao Qing",
+          "Li Jing-Ge",
+          "Miao Shan",
+          "Hu Nan",
+          "Zhang Jin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkaline Phosphatase",
+          "Animals",
+          "Bone Density",
+          "Creatinine",
+          "Disease Models, Animal",
+          "Estriol",
+          "Female",
+          "Femur",
+          "Genistein",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22312238/"
+      },
+      {
+        "pmid": "8344086",
+        "title": "[Bone metabolism in postmenopausal women and after estrogen treatment].",
+        "abstract": "Changes of bone metabolism in 11 premenopausal women and 109 postmenopausal women were studied. 50 postmenopausal women were randomly divided into 4 groups: 20, 10 and 6 cases were given nylestriol, diethyl stilbestrol and chlorotrianisen respectively, and 14 cases served as control. It was shown that bone mineral content (BMC), and, blood estrogen level in postmenopausal women were significantly lower than those of premenopausal women. Close correlation existed between E1, E2, and BMC. Serum alkaline phosphatase (ALP), bone GLA protein (BGP), urine Ca/Cr and Hpr/Cr were markedly increased in postmenopausal women and declined after 3 months of treatment with nylestriol, diethylstilbestrol or chlorotrianisen. The radial BMC increased by 0.8% with (P > 0.05) nylestriol treatment for one year and decreased by 1.1% (P < 0.05) in the control cases. The present study indicated that postmenopausal estrogen deficiency accelerated bone loss, which was prevented by small substitution doses of es",
+        "journal": "Zhonghua fu chan ke za zhi",
+        "year": "1993",
+        "authors": [
+          "Song S J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bone Density",
+          "Bone and Bones",
+          "Chlorotrianisene",
+          "Diethylstilbestrol",
+          "Estrogen Replacement Therapy",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Menopause",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8344086/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:02:20.472649",
+  "success": true,
+  "error_message": null
+}

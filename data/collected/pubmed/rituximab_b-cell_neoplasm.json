@@ -1,0 +1,608 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "B-cell neoplasm",
+    "query_string": "Rituximab AND B-cell neoplasm"
+  },
+  "data": {
+    "query": "Rituximab AND B-cell neoplasm",
+    "results": [
+      {
+        "pmid": "37434388",
+        "title": "Cutaneous B-cell lymphomas: 2023 update on diagnosis, risk-stratification, and management.",
+        "abstract": "Approximately one-fourth of primary cutaneous lymphomas are B-cell derived and are generally classified into three distinct subgroups: primary cutaneous follicle center lymphoma (PCFCL), primary cutaneous marginal zone lymphoma (PCMZL), and primary cutaneous diffuse large B-cell lymphoma, leg type (PCDLBCL, LT).",
+        "journal": "American journal of hematology",
+        "year": "2023",
+        "authors": [
+          "Hristov Alexandra C",
+          "Tejasvi Trilokraj",
+          "Wilcox Ryan A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "B-Lymphocytes",
+          "Biopsy",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37434388/"
+      },
+      {
+        "pmid": "28983798",
+        "title": "Rituximab in B-Cell Hematologic Malignancies: A Review of 20 Years of Clinical Experience.",
+        "abstract": "Rituximab is a human/murine, chimeric anti-CD20 monoclonal antibody with established efficacy, and a favorable and well-defined safety profile in patients with various CD20-expressing lymphoid malignancies, including indolent and aggressive forms of B-cell non-Hodgkin lymphoma. Since its first approval 20 years ago, intravenously administered rituximab has revolutionized the treatment of B-cell malignancies and has become a standard component of care for follicular lymphoma, diffuse large B-cell lymphoma, chronic lymphocytic leukemia, and mantle cell lymphoma. For all of these diseases, clinical trials have demonstrated that rituximab not only prolongs the time to disease progression but also extends overall survival. Efficacy benefits have also been shown in patients with marginal zone lymphoma and in more aggressive diseases such as Burkitt lymphoma. Although the proven clinical efficacy and success of rituximab has led to the development of other anti-CD20 monoclonal antibodies in r",
+        "journal": "Advances in therapy",
+        "year": "2017",
+        "authors": [
+          "Salles Gilles",
+          "Barrett Martin",
+          "Foà Robin",
+          "Maurer Joerg",
+          "O'Brien Susan"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Immunological",
+          "B-Lymphocytes",
+          "Hematologic Neoplasms",
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Lymphoma, B-Cell",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28983798/"
+      },
+      {
+        "pmid": "32482755",
+        "title": "The regulation and function of CD20: an \"enigma\" of B-cell biology and targeted therapy.",
+        "abstract": "The introduction of anti-CD20 monoclonal antibodies such as rituximab, ofatumumab, or obinutuzumab improved the therapy of B-cell malignancies even though the precise physiological role and regulation of CD20 remains unclear. Furthermore, CD20 expression is highly variable between different B-cell malignancies, patients with the same malignancy, and even between intraclonal subpopulations in an individual patient. Several epigenetic (EZH2, HDAC1/2, HDAC1/4, HDAC6, complex Sin3A-HDAC1) and transcription factors (USF, OCT1/2, PU.1, PiP, ELK1, ETS1, SP1, NFκB, FOXO1, CREM, SMAD2/3) regulating CD20 expression (encoded by MS4A1) have been characterized. CD20 is induced in the context of microenvironmental interactions by CXCR4/SDF1 (CXCL12) chemokine signaling and the molecular function of CD20 has been linked to the signaling propensity of B-cell receptor (BCR). CD20 has also been shown to interact with multiple other surface proteins on B cells (such as CD40, MHCII, CD53, CD81, CD82, and ",
+        "journal": "Haematologica",
+        "year": "2020",
+        "authors": [
+          "Pavlasova Gabriela",
+          "Mraz Marek"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antigens, CD20",
+          "B-Lymphocytes",
+          "Humans",
+          "Leukemia, Lymphocytic, Chronic, B-Cell",
+          "Pyrimidines",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32482755/"
+      },
+      {
+        "pmid": "39899878",
+        "title": "IL-10 from tumoral B cells modulates the diffuse large B-cell lymphoma microenvironment and response to immunotherapy.",
+        "abstract": "The contribution of interleukin-10 (IL-10), secreted by tumoral B cells, to the progression and shaping of the microenvironment in diffuse large B-cell lymphoma (DLBCL) with activated B-cell-like (ABC) phenotype is not yet completely understood. To shed light on this issue, we generated an immunocompetent mouse model of ABC-DLBCL with conditional knockout of IL-10 specifically in malignant B cells. Paradoxically, these mice had significantly worse overall survival when left untreated but experienced increased sensitivity to conventional anti-CD20 immunotherapy or regulatory T-cell depletion. We identified various immunomodulatory mechanisms involved in this behavior. In particular, we show that IL-10-deficient lymphomas acquire a highly immunosuppressed and T-cell-exhausted microenvironment with increased angiogenesis that results in a more aggressive phenotype, which is refractory to PD-1 immune checkpoint blockade. However, the response of IL-10-deficient mice to anti-CD20 immunother",
+        "journal": "Blood",
+        "year": "2025",
+        "authors": [
+          "Garcia-Lacarte Marcos",
+          "Grijalba Sara C",
+          "Melchor Javier",
+          "Pascual Marién",
+          "Goñi Enrique"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Interleukin-10",
+          "Tumor Microenvironment",
+          "Mice",
+          "Immunotherapy",
+          "B-Lymphocytes",
+          "Mice, Knockout",
+          "Humans",
+          "Mice, Inbred C57BL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39899878/"
+      },
+      {
+        "pmid": "20647199",
+        "title": "Rituximab versus cyclophosphamide for ANCA-associated vasculitis.",
+        "abstract": "Cyclophosphamide and glucocorticoids have been the cornerstone of remission-induction therapy for severe antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis for 40 years. Uncontrolled studies suggest that rituximab is effective and may be safer than a cyclophosphamide-based regimen.",
+        "journal": "The New England journal of medicine",
+        "year": "2010",
+        "authors": [
+          "Stone John H",
+          "Merkel Peter A",
+          "Spiera Robert",
+          "Seo Philip",
+          "Langford Carol A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Antibodies, Antineutrophil Cytoplasmic",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "B-Lymphocytes",
+          "Cyclophosphamide",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20647199/"
+      },
+      {
+        "pmid": "33661537",
+        "title": "2021 Update on Diffuse large B cell lymphoma: A review of current data and potential applications on risk stratification and management.",
+        "abstract": "Diffuse large B cell lymphoma (DLBCL), the most common type of Non-Hodgkin lymphoma (NHL), comprises a heterogeneous group of diseases with different biology, clinical presentations, and response to treatment. R-CHOP remains the mainstay of therapy and can achieve long-term disease control in nearly 90% of patients presenting with limited-stage and in up to 60% of those presenting with advanced stages. Advances on the understanding of the genetic landscape and molecular features of DLBCL have identified high-risk subsets with poor outcomes to chemo-immunotherapy that are actively being studied in clinical trials. Novel therapies could potentially improve outcomes for patients with high-risk disease. Studies evaluating risk-adapted therapy based on classification by cell of origin (COO) and molecular features are ongoing. Developments in the fields of immunotherapy, mostly with adoptive T-cell therapy, have significantly improved the outcomes of patients with relapsed refractory disease",
+        "journal": "American journal of hematology",
+        "year": "2021",
+        "authors": [
+          "Susanibar-Adaniya Sandra",
+          "Barta Stefan K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B-Lymphocyte Subsets",
+          "Cell Lineage",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "DNA, Neoplasm",
+          "Disease Management",
+          "Doxorubicin",
+          "Genes, bcl-2",
+          "Genes, myc"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33661537/"
+      },
+      {
+        "pmid": "20194898",
+        "title": "Increasing the efficacy of CD20 antibody therapy through the engineering of a new type II anti-CD20 antibody with enhanced direct and immune effector cell-mediated B-cell cytotoxicity.",
+        "abstract": "CD20 is an important target for the treatment of B-cell malignancies, including non-Hodgkin lymphoma as well as autoimmune disorders. B-cell depletion therapy using monoclonal antibodies against CD20, such as rituximab, has revolutionized the treatment of these disorders, greatly improving overall survival in patients. Here, we report the development of GA101 as the first Fc-engineered, type II humanized IgG1 antibody against CD20. Relative to rituximab, GA101 has increased direct and immune effector cell-mediated cytotoxicity and exhibits superior activity in cellular assays and whole blood B-cell depletion assays. In human lymphoma xenograft models, GA101 exhibits superior antitumor activity, resulting in the induction of complete tumor remission and increased overall survival. In nonhuman primates, GA101 demonstrates superior B cell-depleting activity in lymphoid tissue, including in lymph nodes and spleen. Taken together, these results provide compelling evidence for the developmen",
+        "journal": "Blood",
+        "year": "2010",
+        "authors": [
+          "Mössner Ekkehard",
+          "Brünker Peter",
+          "Moser Samuel",
+          "Püntener Ursula",
+          "Schmidt Carla"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antibody-Dependent Cell Cytotoxicity",
+          "Antigens, CD20",
+          "B-Lymphocytes",
+          "Cell Line, Tumor",
+          "Cytotoxicity, Immunologic",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20194898/"
+      },
+      {
+        "pmid": "33171490",
+        "title": "The treatment of Burkitt lymphoma in adults.",
+        "abstract": "Burkitt lymphoma (BL) is a highly aggressive, B-cell, non-Hodgkin lymphoma categorized into endemic, sporadic, and immunodeficiency-associated subtypes. BL has distinct pathologic and clinical features, characterized by rapidly progressive tumors with high rates of extranodal involvement. Next-generation-sequencing analyses have further characterized the genomic landscape of BL and our understanding of disease pathogenesis, although these findings have yet to influence treatment. Although most patients are cured with intensive combination chemotherapy, given the paucity of randomized trials, optimal therapy has not been defined. Furthermore, treatment of elderly patients, patients with central nervous system involvement, or those with relapsed disease remains an unmet need. In this review, we highlight the clinical, pathologic, and genomic features, as well as standard and emerging treatment options for adult patients with BL.",
+        "journal": "Blood",
+        "year": "2021",
+        "authors": [
+          "Crombie Jennifer",
+          "LaCasce Ann"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Africa South of the Sahara",
+          "Allografts",
+          "Antigens, CD",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B-Lymphocytes",
+          "Biomarkers, Tumor",
+          "Burkitt Lymphoma",
+          "Central Nervous System",
+          "Disease Management"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33171490/"
+      },
+      {
+        "pmid": "39348664",
+        "title": "Immune reconstitution and evolution of B-cell-stimulating cytokines after R-CHOP therapy for HIV-associated DLBCL.",
+        "abstract": "HIV infection is associated with an increased risk of diffuse large B-cell lymphoma (DLBCL). In this prospective study, we analyzed the evolution of B-cell activating cytokines (interleukin-6 [IL-6], IL-10, and B-cell activating factor [BAFF]) and main functional subsets of circulating B and T cells in 51 patients with HIV-associated DLBCL treated with R-CHOP (rituximab, cyclophosphamide, doxorubicin, Oncovin [vincristine], and prednisone). R-CHOP therapy was associated with a decrease of IL-10, whereas IL-6 levels fluctuated, and BAFF levels increased during the first 3 months and decreased thereafter. We observed a rapid rise in CD19+ B cells composed mostly of naïve B cells whereas marginal zone-like B cells and memory B cells recovered gradually. With a median follow-up of 41 months, progression-free survival and overall survival at 5 years were 61.8% (95% confidence interval [CI], 47.6-80.4) and 67.4% (95% CI, 53.4-85.0), respectively. Progression (17.5%) and sepsis (12.5%) were t",
+        "journal": "Blood advances",
+        "year": "2024",
+        "authors": [
+          "Liévin Raphaël",
+          "Maillard Alexis",
+          "Hendel-Chavez Houria",
+          "Krzysiek Roman",
+          "Lancar Remi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B-Cell Activating Factor",
+          "B-Lymphocytes",
+          "Cyclophosphamide",
+          "Cytokines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39348664/"
+      },
+      {
+        "pmid": "34755980",
+        "title": "Cutaneous B cell pseudolymphoma treated with rituximab and methotrexate.",
+        "abstract": "Cutaneous B cell pseudolymphoma (CBPL), or cutaneous lymphoid hyperplasia, is the most common pseudolymphoma. It typically responds well to local treatment and follows a benign course. Herein, we describe the unique case of a patient with CBPL that was refractory to a variety of treatments, with subsequent response to rituximab followed by methotrexate. This case explores the complex interplay of T and B lymphocytes, and the potential role of perifollicular T cells in treatment resistant CBPL. Further, it describes the additive therapeutic effect of rituximab and methotrexate to target both B cell and T cell populations in CBPL, a strategy already employed in a number of other conditions.",
+        "journal": "Dermatology online journal",
+        "year": "2021",
+        "authors": [
+          "Besch-Stokes Jake G",
+          "Patel Meera H",
+          "Brumfiel Caitlin M",
+          "Costello Collin M",
+          "Rule William"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B-Lymphocytes",
+          "Drug Resistance",
+          "Humans",
+          "Male",
+          "Methotrexate",
+          "Pseudolymphoma",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34755980/"
+      },
+      {
+        "pmid": "32959046",
+        "title": "CANOMAD: a neurological monoclonal gammopathy of clinical significance that benefits from B-cell-targeted therapies.",
+        "abstract": "CANOMAD (chronic ataxic neuropathy, ophthalmoplegia, immunoglobulin M [IgM] paraprotein, cold agglutinins, and disialosyl antibodies) is a rare syndrome characterized by chronic neuropathy with sensory ataxia, ocular, and/or bulbar motor weakness in the presence of a monoclonal IgM reacting against gangliosides containing disialosyl epitopes. Data regarding associated hematologic malignancies and effective therapies in CANOMAD are scarce. We conducted a French multicenter retrospective study that included 45 patients with serum IgM antibodies reacting against disialosyl epitopes in the context of evocating neurologic symptoms. The main clinical features were sensitive symptoms (ataxia, paresthesia, hypoesthesia; n = 45, 100%), motor weakness (n = 18, 40%), ophthalmoplegia (n = 20, 45%), and bulbar symptoms (n = 6, 13%). Forty-five percent of the cohort had moderate to severe disability (modified Rankin score, 3-5). Cold agglutinins were identified in 15 (34%) patients. Electrophysiolog",
+        "journal": "Blood",
+        "year": "2020",
+        "authors": [
+          "Le Cann Marie",
+          "Bouhour Françoise",
+          "Viala Karine",
+          "Simon Laurence",
+          "Tard Céline"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Ataxia",
+          "Autoantibodies",
+          "B-Lymphocytes",
+          "Cryoglobulins",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32959046/"
+      },
+      {
+        "pmid": "32933335",
+        "title": "Anti-CD20 treatment for B-cell malignancies: current status and future directions.",
+        "abstract": "The introduction of anti-CD20 monoclonal antibody therapy with rituximab in the 1990s greatly improved outcomes for patients with B-cell malignancies. Disease resistance or relapse after successful initial therapy and declining efficacy of subsequent rounds of treatment were the basis for the development of alternative anti-CD20-based antibody therapies.",
+        "journal": "Expert opinion on biological therapy",
+        "year": "2021",
+        "authors": [
+          "Klein Christian",
+          "Jamois Candice",
+          "Nielsen Tina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antigens, CD20",
+          "B-Lymphocytes",
+          "Humans",
+          "Leukemia, Lymphocytic, Chronic, B-Cell",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32933335/"
+      },
+      {
+        "pmid": "30989405",
+        "title": "Concentration and Glycoform of Rituximab in Plasma of Patients with B Cell Non-Hodgkin's Lymphoma.",
+        "abstract": "Therapeutic antibodies have heterogeneities in their structures, although its structural alteration in the body is unclear. Here, we analyzed the change of amino acid modifications and carbohydrate chains of rituximab after administration to patients.",
+        "journal": "Pharmaceutical research",
+        "year": "2019",
+        "authors": [
+          "Yonezawa Atushi",
+          "Otani Yuki",
+          "Kitano Toshiyuki",
+          "Mori Mayuko",
+          "Masui Sho"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Agents",
+          "B-Lymphocytes",
+          "Female",
+          "Glycoproteins",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30989405/"
+      },
+      {
+        "pmid": "18240027",
+        "title": "Rituximab: beyond simple B cell depletion.",
+        "abstract": "Rituximab, a chimeric anti-CD20 monoclonal antibody, has a proven track record for over a decade in the treatment of lymphomas, where it has been used to eradicate malignant lymphocytes. In appreciation of the putative role of B cells, especially with respect to autoantibody production, in the pathogenesis of autoimmune diseases, successful trials of B-cell depletion therapy in RA, SLE, and other autoimmune diseases have been carried out. In these trials, clinical benefit has generally correlated with the extent and duration of B-cell depletion, but at times imperfectly, and autoantibody reduction only selectively. Additional mechanisms whereby rituximab may assert its clinical benefit in autoimmune diseases have been examined including a look at B-cell functions as T-cell modulator and antigen-presenting cell, T-regulatory cell behavior, NK cell activity, and macrophage activities in immune inflammation. The available data on rituximab's action in autoimmune diseases is reviewed.",
+        "journal": "Clinical reviews in allergy & immunology",
+        "year": "2008",
+        "authors": [
+          "Kessel A",
+          "Rosner I",
+          "Toubi E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "B-Lymphocytes",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Immunologic Factors",
+          "Killer Cells, Natural",
+          "Lymphocyte Depletion",
+          "Lymphoma",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18240027/"
+      },
+      {
+        "pmid": "28983819",
+        "title": "Subcutaneous Rituximab for the Treatment of B-Cell Hematologic Malignancies: A Review of the Scientific Rationale and Clinical Development.",
+        "abstract": "Rituximab (MabThera®/Rituxan®), a chimeric murine/human monoclonal antibody that binds specifically to the transmembrane antigen CD20, was the first therapeutic antibody to enter clinical practice for the treatment of cancer. As monotherapy and in combination with chemotherapy, rituximab has been shown to prolong progression-free survival and, in some indications overall survival, in patients with various B-cell malignancies, while having a well-established and manageable safety profile and a wide therapeutic window. As a result, rituximab is considered to have revolutionized treatment practices for patients with B-cell malignancies. A subcutaneous (SC) formulation of rituximab has been developed, comprising the same monoclonal antibody as the originally marketed formulation [rituximab concentrate for solution for intravenous (IV) infusion], and has undergone a detailed, sequential clinical development program. This program demonstrated that, at fixed doses, rituximab SC achieves non-i",
+        "journal": "Advances in therapy",
+        "year": "2017",
+        "authors": [
+          "Davies Andrew",
+          "Berge Claude",
+          "Boehnke Axel",
+          "Dadabhoy Anjum",
+          "Lugtenburg Pieternella"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Animals",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents, Immunological",
+          "B-Lymphocytes",
+          "Disease-Free Survival",
+          "Hematologic Neoplasms",
+          "Humans",
+          "Infusions, Intravenous",
+          "Injections, Subcutaneous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28983819/"
+      },
+      {
+        "pmid": "23006954",
+        "title": "Lymphomatoid granulomatosis.",
+        "abstract": "Lymphomatoid granulomatosis (LYG) is a very rare Epstein-Barr virus (EBV)-driven lymphoproliferative disease. The atypical lymphoid cells directly accumulate within affected tissues and clinically present in the form of infiltrative lesions. It is usually a progressive disorder that virtually always involves the lung and characteristically presents as bilateral pulmonary nodules. Other commonly affected organ systems include the skin, central nervous system, and kidneys. The rareness of LYG in conjunction with its nonspecific presentation contributes to delays in diagnosis in many situations. Pathologically, it is characterized by the presence of an angiocentric and angiodestructive accumulation of varying numbers of T cells with varying numbers of atypical clonal EBV-positive B cells in a polymorphous inflammatory background. It can be subclassified using a grading system based on the number of EBV-positive large B-cell malignant cells, which is critical in selecting appropriate manag",
+        "journal": "Cancer journal (Sudbury, Mass.)",
+        "year": "2012",
+        "authors": [
+          "Roschewski Mark",
+          "Wilson Wyndham H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "B-Lymphocytes",
+          "Central Nervous System",
+          "Herpesvirus 4, Human",
+          "Humans",
+          "Lung",
+          "Lymphoma, Non-Hodgkin",
+          "Lymphomatoid Granulomatosis",
+          "Rituximab",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23006954/"
+      },
+      {
+        "pmid": "31100692",
+        "title": "Effect of low-dose rituximab treatment on T- and B-cell lymphocyte imbalance in refractory myasthenia gravis.",
+        "abstract": "We aimed to explore the effects of low-dose rituximab (RTX) on circulating T- and B-cell lymphocytes and the improvement of clinical symptoms in refractory myasthenia gravis (MG) patients. Fifteen patients with refractory MG were treated with a low dose of 600 mg RTX and were evaluated by serial-clinical scales, flow cytometry of peripheral blood T and B cells, and antibody titer before and after six months of RTX treatment. The quantitative MG score (QMGS), manual muscle testing (MMT), MG-related activities of daily living (MG-ADL) and MG-specific quality-of-life (QOL) were significantly improved and the average steroid-dosage reduction was 40% (p = .001) in refractory MG patients at six months after RTX infusion. Compared to eighteen non-refractory MG patients and eighteen Healthy controls, our study showed that the frequencies of circulating regulatory B cells (Bregs) and regulatory T cells (Tregs) were significantly lower and the expression of B-cell activating factor receptors (BA",
+        "journal": "Journal of neuroimmunology",
+        "year": "2019",
+        "authors": [
+          "Jing Sisi",
+          "Lu Jun",
+          "Song Jie",
+          "Luo Sushan",
+          "Zhou Lei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "B-Lymphocyte Subsets",
+          "Disability Evaluation",
+          "Drug Resistance",
+          "Female",
+          "Humans",
+          "Lymphocyte Count",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31100692/"
+      },
+      {
+        "pmid": "25499448",
+        "title": "Diffuse large B-cell lymphoma: optimizing outcome in the context of clinical and biologic heterogeneity.",
+        "abstract": "Although the majority of patients with diffuse large B-cell lymphoma (DLBCL) can be cured with standard rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP), patients who fail R-CHOP have a dismal outcome. Thus, optimization of front-line therapy, as well as the development of more effective salvage strategies, remains an important objective. Advances in molecular genetics have vastly improved our understanding of the biological diversity of DLBCL and have led to the discovery of key oncogenic pathways. In addition to the major molecular designations of germinal center B-cell and activated B-cell subtypes, next-generation sequencing technologies have unveiled the remarkable complexity of DLBCL and identified unique molecular targets that may be differentially exploited for therapeutic benefit. These findings have translated into a growing list of promising novel agents. Moving forward, it is of paramount importance to recognize the heterogeneity of DLBCL and t",
+        "journal": "Blood",
+        "year": "2015",
+        "authors": [
+          "Sehn Laurie H",
+          "Gascoyne Randy D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B-Lymphocytes",
+          "Biomarkers, Tumor",
+          "Clinical Trials as Topic",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Gene Expression Profiling",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25499448/"
+      },
+      {
+        "pmid": "12794814",
+        "title": "Rituximab therapy and autoimmune disorders: prospects for anti-B cell therapy.",
+        "abstract": "",
+        "journal": "Arthritis and rheumatism",
+        "year": "2003",
+        "authors": [
+          "Silverman Gregg J",
+          "Weisman Stuart"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Arthritis, Rheumatoid",
+          "Autoimmune Diseases",
+          "B-Lymphocytes",
+          "Humans",
+          "Lupus Erythematosus, Systemic",
+          "Lymphoma, B-Cell",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12794814/"
+      },
+      {
+        "pmid": "12710588",
+        "title": "Rituximab in B-cell disorders other than non-Hodgkin's lymphoma.",
+        "abstract": "Rituximab is a human/mouse chimeric monoclonal antibody that binds to the CD20 antigen and is expressed at all stages of B-cell development. Rituximab has demonstrated efficacy as monotherapy and in combination with chemotherapy in the treatment of both indolent and aggressive non-Hodgkin's lymphoma (NHL). Rituximab treatment results in rapid depletion of B-cells and this has led to the consideration of other B-cell disorders as candidates for rituximab therapy. Recent studies have demonstrated the efficacy of rituximab in a variety of such disorders, including chronic lymphocytic leukemia (CLL), post-transplant lymphoproliferative disorder (PTLD), Waldenström's macroglobulinemia (WM), multiple myeloma (MM), idiopathic thrombocytopenic purpura (ITP), hairy-cell leukemia (HCL) and cold agglutinin disease (CAD). In patients with CLL, increasing the dose and/or frequency of rituximab treatment has given improved response rates compared with the standard dose schedule used in NHL, and comb",
+        "journal": "Anti-cancer drugs",
+        "year": "2002",
+        "authors": [
+          "Bosly Andre",
+          "Keating Michael J",
+          "Stasi Roberto",
+          "Bradstock Ken"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Hemolytic, Autoimmune",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents",
+          "B-Lymphocytes",
+          "Clinical Trials as Topic",
+          "Hematologic Diseases",
+          "Humans",
+          "Leukemia, Lymphocytic, Chronic, B-Cell",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12710588/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:24:34.480049",
+  "success": true,
+  "error_message": null
+}

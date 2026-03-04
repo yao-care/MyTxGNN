@@ -6,7 +6,7 @@ drug_name: "Glycine"
 kg_predictions: 192
 dl_predictions: 35
 evidence_level: "L2"
-indication_count: 192
+indication_count: 5
 brands: []
 permalink: /drugs/glycine/
 ---

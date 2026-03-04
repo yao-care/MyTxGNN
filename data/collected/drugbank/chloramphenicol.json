@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Chloramphenicol"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00446",
+    "name": "Chloramphenicol",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:36:29.501098",
+  "success": true,
+  "error_message": null
+}

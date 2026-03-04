@@ -1,0 +1,614 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "endometriosis of uterus",
+    "query_string": "Medroxyprogesterone Acetate AND endometriosis of uterus"
+  },
+  "data": {
+    "query": "Medroxyprogesterone Acetate AND endometriosis of uterus",
+    "results": [
+      {
+        "pmid": "2934522",
+        "title": "Endometriosis.",
+        "abstract": "Endometriosis is a common disease associated with pelvic pain and infertility. The etiology and physiology are poorly understood, often frustrating clinicians and patient. Treatment may be medical or surgical, or a combination of these. Nursing care involves education of couples about endometriosis and its physical and psychological implications.",
+        "journal": "Journal of obstetric, gynecologic, and neonatal nursing : JOGNN",
+        "year": "1985",
+        "authors": [
+          "Garner C H",
+          "Webster B W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Adult",
+          "Danazol",
+          "Diagnosis, Differential",
+          "Diethylstilbestrol",
+          "Dinoprost",
+          "Endometriosis",
+          "Endometrium",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2934522/"
+      },
+      {
+        "pmid": "17948750",
+        "title": "[Endometriosis].",
+        "abstract": "The major symptom is dysmenorrhea. Chronic, sometimes non-cyclic pain due to pelvic adhesions is often seen in the long course of the disease. Infiltration into the blader or bowel is a rare but serious complication. A group of patients presents with sterility. Endometriosis histologically resembles endometrium. There can be ovarian cysts and foci either on the peritoneum or in the muscularis of the uterus. The etiology is unknown. There are a number of existing theories. A rare condition is an endometriosis caused iatrogen during a caesarean section. It can develop between uterus and bladder or within the suture or scar tissue. Since we know so little, the treatment options are unsatisfying. Operative resection followed by endocrine medication is the standard therapy. Alternative medicine can be an useful additional factor in the treatment concept.",
+        "journal": "Therapeutische Umschau. Revue therapeutique",
+        "year": "2007",
+        "authors": [
+          "Carstensen A",
+          "Mundhenke C",
+          "Schollmeyer T"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Buserelin",
+          "Complementary Therapies",
+          "Contraceptive Agents, Female",
+          "Cyclooxygenase 2 Inhibitors",
+          "Dysmenorrhea",
+          "Endometriosis",
+          "Female",
+          "Fertility Agents, Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17948750/"
+      },
+      {
+        "pmid": "30078406",
+        "title": "Differential expressions of estrogen and progesterone receptors in endometria and cyst walls of ovarian endometrioma from women with endometriosis and their responses to depo-medroxyprogesterone acetate treatment.",
+        "abstract": "Depo-medroxyprogesterone acetate (DMPA) is an injectable progestin contraceptive that provides a highly effective reduction of pelvic pain in women with endometriosis. Despite its wide use to treat pain associated with endometriosis, its precise mechanisms of action remain unclear. The aims of this study were to investigate the differential expressions of estrogen receptors (ERs), and progesterone receptors (PRs) in endometria and ovarian endometrioma cyst walls of women with endometriosis with and without DMPA treatment.",
+        "journal": "Molecular and cellular probes",
+        "year": "2018",
+        "authors": [
+          "Sroyraya Morakot",
+          "Songkoomkrong Sineenart",
+          "Changklungmoa Narin",
+          "Poljaroen Jaruwan",
+          "Weerakiet Sawaek"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cell Count",
+          "Cysts",
+          "Endometriosis",
+          "Endometrium",
+          "Estrogen Receptor alpha",
+          "Estrogen Receptor beta",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30078406/"
+      },
+      {
+        "pmid": "23827690",
+        "title": "Theranekron for treatment of endometriosis in a rat model compared with medroxyprogesterone acetate and leuprolide acetate.",
+        "abstract": "The aim of this study was to compare the effects of theranekron, medroxyprogesterone acetate (MPA), and leuprolide acetate (LA) on surgically induced endometriosis in a rat model.",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2013",
+        "authors": [
+          "Dolapcioglu Kenan",
+          "Dogruer Gokhan",
+          "Ozsoy Sule",
+          "Ergun Yasar",
+          "Ciftci Sinasi"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Hormonal",
+          "Disease Models, Animal",
+          "Endometriosis",
+          "Endometrium",
+          "Female",
+          "Leuprolide",
+          "Medroxyprogesterone Acetate",
+          "Random Allocation",
+          "Rats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23827690/"
+      },
+      {
+        "pmid": "37046153",
+        "title": "Forskolin versus cAMP-Induced Decidualization and Survival of Endometrial Stromal Cells of Endometriosis Patients.",
+        "abstract": "Impairment of decidualization of eutopic human endometrial stromal cells (hESCs) may cause an increase in cell survival of endometrial tissue in the peritoneal cavity constituting a precondition for endometriosis development. Decidualization is a physiological process involving progesterone action and cAMP signaling. We here evaluated the effect of 8-Br-cAMP, the adenylate cyclase activator forskolin and of the progestin progesterone and medroxyprogesterone acetate (MPA) alone and in combination on decidualization induction using prolactin ELISA, and on cell size, cell granularity, and cell survival via flow cytometry in hESCs of patients with and without endometriosis. While progestins alone did not induce functional decidualization in hESCs, 8-Br-cAMP and forskolin induced decidualization in hESCs from both cohorts, whereas the induction of FOXO1 transcription and prolactin secretion by forskolin was significantly lower than by 8-Br-cAMP. 8-Br-cAMP- and forskolin-induced prolactin se",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "year": "2023",
+        "authors": [
+          "Platt Farina",
+          "Moyer Janine",
+          "Singer Bernhard B",
+          "Baston-Büst Dunja",
+          "Wennemuth Gunther"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Progesterone",
+          "Endometrium",
+          "Decidua",
+          "Prolactin",
+          "Endometriosis",
+          "Colforsin",
+          "Progestins",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37046153/"
+      },
+      {
+        "pmid": "40144425",
+        "title": "Primary Low-Grade Endometrial Stromal Sarcoma of the Ovary Arising From Endometriosis: A Case Report.",
+        "abstract": "Low-grade endometrial stromal sarcoma (LGESS) is a rare mesenchymal tumor of female genital tract malignancies. While it primarily arises in the uterus, extrauterine cases, including those originating in the ovary, are exceedingly rare. While there is a hypothesis that endometriosis plays a role in the development of extrauterine cases, the diagnosis of primary ovarian LGESS is challenging due to its rarity and similarity to metastatic uterine LGESS. A 52-year-old premenopausal woman with a history of adenomyosis was referred for an enlarging left ovarian endometriotic cyst, raising suspicion of malignancy. Transvaginal ultrasound revealed a 100×50 mm left ovarian mass with a 30 mm thick cystic component. MRI indicated a solid-cystic tumor with features suggestive of an endometriotic cyst. Positron emission tomography-computed tomography (PET-CT) revealed mild fluorodeoxyglucose (FDG) uptake with a maximum standardized uptake value (SUVmax) of 3.05, with no evidence of distant metastas",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Tenjimbayashi Yuri",
+          "Kobayashi Yusuke",
+          "Suzuki Yurina",
+          "Satoh Toyomi",
+          "Horie Koji"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40144425/"
+      },
+      {
+        "pmid": "31066787",
+        "title": "Effects of omega-6/3 and omega-9/6 nutraceuticals on pain and fertility in peritoneal endometriosis in rats.",
+        "abstract": "To evaluate the effects of the nutraceuticals omega-6/3 and omega-9/6 on endometriosis-associated infertility and pain.",
+        "journal": "Acta cirurgica brasileira",
+        "year": "2019",
+        "authors": [
+          "Pereira Francisco Edson Ximenes Gomes",
+          "Medeiros Francisco das Chagas",
+          "Rocha Hermano Alexandre Lima",
+          "Silva Karine Saraiva da"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Disease Models, Animal",
+          "Endometriosis",
+          "Fatty Acids, Omega-3",
+          "Female",
+          "Fertility",
+          "Medroxyprogesterone Acetate",
+          "Meloxicam",
+          "Pain",
+          "Peritoneum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31066787/"
+      },
+      {
+        "pmid": "32430714",
+        "title": "Establishment and Characterization of a Stromal Cell Line Derived From a Patient With Thoracic Endometriosis.",
+        "abstract": "Thoracic endometriosis (TE) syndrome is a clinical condition known as an extrapelvic form of endometriosis with the presence of functioning endometrial tissue involving lung parenchyma, pleura, chest wall, or diaphragm. In an effort to obtain an endometriosis ex vivo model, we established the spontaneously growing TH-EM1 cell line from endometriotic implants in lung parenchyma from a woman with TE. Maintained in long-term culture, the cells grew as large mesenchymal-like cells with a doubling time between 5 and 6 days. Treatment with medroxyprogesterone acetate (10-7 mol/L) inhibited the TH-EM1 cells growth and induced morphological changes to an epithelial-like cells. Strong expression of the nuclear estrogen receptors, progesterone receptors, and erytropoietin receptors were found in both the pulmonary implant and the TH-EM1 cells by immunohistochemical analysis. Consistent immunoreactivity of TH-EM1 cells for CD9, CD13, CD73, CD90, CD105, and CD157 was revealed by flow cytometry. Li",
+        "journal": "Reproductive sciences (Thousand Oaks, Calif.)",
+        "year": "2020",
+        "authors": [
+          "Gogusev J",
+          "Lepelletier Y",
+          "El Khattabi L",
+          "Grigoroiu M",
+          "Validire P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cell Culture Techniques",
+          "Cell Proliferation",
+          "Diaphragm",
+          "Endometriosis",
+          "Endometrium",
+          "Female",
+          "Humans",
+          "Stromal Cells",
+          "Thoracic Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32430714/"
+      },
+      {
+        "pmid": "1386030",
+        "title": "Direct effects of medroxyprogesterone acetate, danazol, and leuprolide acetate on endometrial stromal cell proliferation in vitro.",
+        "abstract": "To assess the direct effects of three endometriosis chemotherapeutic agents (medroxyprogesterone acetate [MPA], danazol, and leuprolide acetate [LA]) on endometrial cell proliferation.",
+        "journal": "Fertility and sterility",
+        "year": "1992",
+        "authors": [
+          "Surrey E S",
+          "Halme J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cell Division",
+          "Cells, Cultured",
+          "DNA",
+          "Danazol",
+          "Endometrium",
+          "Female",
+          "Humans",
+          "Leuprolide",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1386030/"
+      },
+      {
+        "pmid": "10902814",
+        "title": "Localization in tissues and secretion of eotaxin by cells from normal endometrium and endometriosis.",
+        "abstract": "Our laboratories have focused recently on the production and localization of eotaxin, a C-C-chemokine of 8.4 kDa, whose major biological activity is the chemoattraction of eosinophils. Given evidence of autoimmune activity in the endometriosis syndrome, we hypothesized that eosinophil chemoattractants might be expressed in endometriosis. In histological sections, we observed eotaxin protein localized mainly in epithelial cells, with only very faint immunostaining in the surrounding stromal cells. Prominent eotaxin accumulation was noted in the luminal epithelium of secretory endometrium. Eotaxin distribution in endometriosis was similar to that seen in eutopic endometrium but with higher levels of eotaxin staining in the glandular epithelium. Peritoneal fluid concentrations of eotaxin were significantly higher in women with moderate or severe endometriosis than in women with minimal or mild endometriosis or no disease. The treatment of isolated human endometriosis epithelial cells with",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2000",
+        "authors": [
+          "Hornung D",
+          "Dohrn K",
+          "Sotlar K",
+          "Greb R R",
+          "Wallwiener D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Ascitic Fluid",
+          "Case-Control Studies",
+          "Cells, Cultured",
+          "Chemokine CCL11",
+          "Chemokines, CC",
+          "Chemotactic Factors, Eosinophil",
+          "Cytokines",
+          "Endometriosis",
+          "Endometrium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10902814/"
+      },
+      {
+        "pmid": "17766684",
+        "title": "The expression profile of micro-RNA in endometrium and endometriosis and the influence of ovarian steroids on their expression.",
+        "abstract": "MicroRNAs (miRNAs), through mRNA degradation or repression, act as key regulator of gene expression. Our aim was to identify specific miRNAs that are expressed in endometrium of women with and without endometriosis. We profiled the expression of 287 miRNAs in paired eutopic and ectopic endometrium and isolated endometrial cells using microarray and validated the expression of selected miRNAs using real-time PCR. On the basis of global normalization, 65 of these miRNAs were identified to be expressed above the threshold levels set during the analysis in the endometrium of women without endometriosis with a progressive decline in expression in paired eutopic and ectopic endometrium. Statistical analysis (ANOVA) identified 48 of these miRNAs as differentially expressed among these tissues and 32 miRNAs between isolated endometrial stromal cell (ESC) and glandular epithelial cell (GEC) (P < 0.05). The expression of hsa-miR20a, hsa-miR21, hsa-miR26a, hsa-miR18a, hsa-miR206, hsa-miR181a and ",
+        "journal": "Molecular human reproduction",
+        "year": "2007",
+        "authors": [
+          "Pan Qun",
+          "Luo Xiaoping",
+          "Toloubeydokhti Tannaz",
+          "Chegini Nasser"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Retracted Publication"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Endometriosis",
+          "Endometrium",
+          "Estradiol",
+          "Female",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "MicroRNAs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17766684/"
+      },
+      {
+        "pmid": "16989825",
+        "title": "Decreased suppression of interleukin-6 after treatment with medroxyprogesterone acetate and danazol in endometrial stromal cells of women with adenomyosis.",
+        "abstract": "To examine changes in local cytokine production in the eutopic endometrium of adenomyosis after treatment with medroxyprogesterone acetate (MPA) and danazol.",
+        "journal": "Fertility and sterility",
+        "year": "2006",
+        "authors": [
+          "Yang Jehn-Hsiahn",
+          "Chen Mei-Jou",
+          "Wu Ming-Yih",
+          "Chen Yi-Chun",
+          "Yang Yu-Shih"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Cells, Cultured",
+          "Cohort Studies",
+          "Contraceptive Agents, Female",
+          "Danazol",
+          "Drug Combinations",
+          "Endometriosis",
+          "Endometrium",
+          "Estrogen Antagonists",
+          "Female",
+          "Gene Expression"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16989825/"
+      },
+      {
+        "pmid": "2981748",
+        "title": "Steroidal regulation of endometriosis tissue: lack of induction of 17 beta-hydroxysteroid dehydrogenase activity by progesterone, medroxyprogesterone acetate, or danazol.",
+        "abstract": "Cytosol and nuclear estrogen receptors were detected in 73% and 89% of untreated endometriosis specimens, respectively. The corresponding figures for cytosol and nuclear progestin receptors were 94% and 100%, respectively. Compared with the endometrium, the concentrations in endometriosis tissue were low. The anatomic site, the severity of the disease, and the phase of the menstrual cycle had no significant influence on receptor concentrations in endometriosis tissue. The activities of 17 beta-hydroxysteroid dehydrogenase (17 beta-HSD) did not increase during the luteal phase. Danazol for 1, 3, 7 to 11, and 18 to 30 days, or medroxyprogesterone acetate for 5 days, had no effect on receptor concentrations or 17 beta-HSD activity in endometriosis tissue. The frequent presence of the receptors suggests that endometriosis lesions are under the control of steroid hormones. The lack of effect by progesterone and progestins on 17 beta-HSD shows that this regulation is different in endometrios",
+        "journal": "Fertility and sterility",
+        "year": "1985",
+        "authors": [
+          "Vierikko P",
+          "Kauppila A",
+          "Rönnberg L",
+          "Vihko R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "17-Hydroxysteroid Dehydrogenases",
+          "Adult",
+          "Cell Nucleus",
+          "Cytosol",
+          "Danazol",
+          "Endometriosis",
+          "Endometrium",
+          "Enzyme Induction",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2981748/"
+      },
+      {
+        "pmid": "18096563",
+        "title": "Endometriosis and human infertility: a new investigation into the role of eutopic endometrium.",
+        "abstract": "Endometriosis is related to infertility even in the absence of mechanical alterations of the reproductive tract. Even though the pathogenesis of this phenomenon is still unclear, an impaired endometrial receptivity has been recently suggested. The aim of the present study was to investigate if endometriotic peritoneal fluids (EPF) could interfere with endometrial stromal cell (ESC) decidualization and if tumor necrosis factor (TNF)-alpha could be involved in the EPF effect.",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2008",
+        "authors": [
+          "Minici Francesca",
+          "Tiberi Federica",
+          "Tropea Anna",
+          "Orlando Mariateresa",
+          "Gangale Maria Francesca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Ascitic Fluid",
+          "Decidua",
+          "Endometriosis",
+          "Endometrium",
+          "Estradiol",
+          "Female",
+          "Humans",
+          "Infertility, Female",
+          "Insulin-Like Growth Factor Binding Protein 1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18096563/"
+      },
+      {
+        "pmid": "31546014",
+        "title": "Aldo-keto reductase 1C3-Assessment as a new target for the treatment of endometriosis.",
+        "abstract": "Endometriosis is a common gynecological disorder, which is treated surgically and/ or pharmacologically with an unmet clinical need for new therapeutics. A completed phase I trial and a recent phase II trial that investigated the steroidal aldo-keto reductase 1C3 (AKR1C3) inhibitor BAY1128688 in endometriosis patients prompted this critical assessment on the role of AKR1C3 in endometriosis. This review includes an introduction to endometriosis with emphasis on the roles of prostaglandins and progesterone in its pathophysiology. This is followed by an overview of the major enzymatic activities and physiological functions of AKR1C3 and of the data published to date on the expression of AKR1C3 in endometriosis at the mRNA and protein levels. The review concludes with the rationale for using AKR1C3 inhibitors, a discussion of the effects of AKR1C3 inhibition on the pathophysiology of endometriosis and a brief overview of other drugs under clinical investigation for this indication.",
+        "journal": "Pharmacological research",
+        "year": "2020",
+        "authors": [
+          "Rižner Tea Lanišnik",
+          "Penning Trevor M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aldo-Keto Reductase Family 1 Member C3",
+          "Animals",
+          "Endometriosis",
+          "Endometrium",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31546014/"
+      },
+      {
+        "pmid": "10515676",
+        "title": "Comparison of transdermal estradiol and tibolone for the treatment of oophorectomized women with deep residual endometriosis.",
+        "abstract": "To compare the effect of HRT with transdermal estradiol and that of treatment with tibolone in post-menopausal women with residual endometriosis.",
+        "journal": "Maturitas",
+        "year": "1999",
+        "authors": [
+          "Fedele L",
+          "Bianchi S",
+          "Raffaelli R",
+          "Zanconato G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Adult",
+          "Anabolic Agents",
+          "Endometriosis",
+          "Estradiol",
+          "Female",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10515676/"
+      },
+      {
+        "pmid": "11925144",
+        "title": "Use of medroxyprogesterone acetate in the treatment of Müllerian adenosarcoma: a case report.",
+        "abstract": "Müllerianadenosarcoma is a rare pelvic malignancy that most commonly arises from the endometrium. These tumors are relatively insensitive to chemotherapy and radiation and are primarily treated by surgical resection. We report a case of müllerian adenosarcoma arising outside of the uterus from a background of endometriosis treated with a combination of surgical resection and medroxyprogesterone acetate.",
+        "journal": "Gynecologic oncology",
+        "year": "2002",
+        "authors": [
+          "Hines Brian J",
+          "Porges Robert F",
+          "Mittal Kush",
+          "Muggia Franco M",
+          "Curtin John P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenosarcoma",
+          "Adult",
+          "Antineoplastic Agents, Hormonal",
+          "Combined Modality Therapy",
+          "Endometriosis",
+          "Female",
+          "Genital Neoplasms, Female",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Mixed Tumor, Mullerian"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11925144/"
+      },
+      {
+        "pmid": "19160262",
+        "title": "Hormone therapy for endometriosis and surgical menopause.",
+        "abstract": "Endometriosis is characterized by the presence of ectopic endometrial tissue that might lead to many distressing and debilitating symptoms. Despite available studies supporting standard hormone therapy for women with endometriosis and post-surgical menopause, there is still a concern that estrogens may induce a recurrence of the disease and its symptoms.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2009",
+        "authors": [
+          "Al Kadri Hanan",
+          "Hassan Samar",
+          "Al-Fozan Haya M",
+          "Hajeer Ali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Endometriosis",
+          "Estradiol",
+          "Female",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Menopause, Premature",
+          "Norpregnenes",
+          "Pain",
+          "Postoperative Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19160262/"
+      },
+      {
+        "pmid": "8765259",
+        "title": "Depot medroxyprogesterone acetate versus an oral contraceptive combined with very-low-dose danazol for long-term treatment of pelvic pain associated with endometriosis.",
+        "abstract": "Our purpose was to evaluate the efficacy and safety of depot medroxyprogesterone acetate versus an oral contraceptive combined with very-low-dose danazol in the long-term treatment of pelvic pain in women with endometriosis.",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "1996",
+        "authors": [
+          "Vercellini P",
+          "De Giorgi O",
+          "Oldani S",
+          "Cortesi I",
+          "Panazza S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Contraceptives, Oral",
+          "Danazol",
+          "Delayed-Action Preparations",
+          "Drug Therapy, Combination",
+          "Endometriosis",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8765259/"
+      },
+      {
+        "pmid": "19168872",
+        "title": "Down-regulation of p21-activated kinase 1 by progestin and its increased expression in the eutopic endometrium of women with endometriosis.",
+        "abstract": "P21-activated kinase 1 (Pak1) integrates various signaling pathways that are vital to cell survival and function. This study was performed to evaluate whether sex steroids may regulate the expression of Pak1 in endometrial cells as well as whether its expression is increased in the eutopic endometrium of women with endometriosis.",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2009",
+        "authors": [
+          "Kim Sung Hoon",
+          "Lee Hoi Woul",
+          "Kim Young Hoon",
+          "Koo Yun Hee",
+          "Chae Hee Dong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cell Line",
+          "Down-Regulation",
+          "Endometriosis",
+          "Endometrium",
+          "Estradiol",
+          "Female",
+          "Humans",
+          "Immunohistochemistry",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19168872/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:00:55.834727",
+  "success": true,
+  "error_message": null
+}

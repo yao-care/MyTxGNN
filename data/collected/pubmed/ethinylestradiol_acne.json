@@ -1,0 +1,574 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ethinylestradiol",
+    "disease": "acne",
+    "query_string": "Ethinylestradiol AND acne"
+  },
+  "data": {
+    "query": "Ethinylestradiol AND acne",
+    "results": [
+      {
+        "pmid": "34919250",
+        "title": "Treatment of lean PCOS teenagers: a follow-up comparison between Myo-Inositol and oral contraceptives.",
+        "abstract": "Polycystic ovary syndrome (PCOS) is an endocrinological and metabolic disorder widely diffused and diagnosed in women of reproductive age. The pathology exhibits alteration of the reproductive functions, including conditions as hyperandrogenism, menstrual cycle irregularity, type 2 diabetes. These conditions are visible in the patients through phenotypical manifestations as hirsutism, acne, and obesity. Even if the syndrome is characterized by common features among both adult and adolescent women, the diagnostic criteria are different for the two age categories and to date still controversial. We investigated different treatments in PCOS adolescents with non-severe metabolic conditions, to evaluate which could be the appropriate therapeutical approach for these patients.",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2021",
+        "authors": [
+          "Pkhaladze L",
+          "Russo M",
+          "Unfer V",
+          "Nordio M",
+          "Basciani S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Retracted Publication"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Androstenes",
+          "Body Mass Index",
+          "Contraceptives, Oral",
+          "Ethinyl Estradiol",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Inositol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34919250/"
+      },
+      {
+        "pmid": "9829156",
+        "title": "Dienogest.",
+        "abstract": "The progestogen dienogest exhibits highly selective binding to the progesterone receptor. It has high progestational and significant antiandrogenic activity, but only moderate antigonadotrophic activity. Dienogest inhibits ovulation, produces secretory transformation of the endometrium and has antiproliferative effects. Oral dienogest 2 mg/day plus ethinylestradiol 30 micrograms/day provides effective contraception (Pearl Index approximately 0.2). Cycle stability is good during long term use of this combination; irregular vaginal bleeding was evident in 6% of women after 12 months' use. Androgenic symptoms (including hirsutism, seborrhoea, alopecia, acne vulgaris and hair and skin greasiness) improved in women treated with dienogest plus ethinylestradiol. The adverse events associated with dienogest are typical of those expected of a progestogen. The drug does not produce androgenic adverse effects and has little clinically significant effect on metabolic, lipid and haemostatic paramet",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Foster R H",
+          "Wilde M I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androgen Antagonists",
+          "Animals",
+          "Clinical Trials as Topic",
+          "Contraceptives, Oral",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Nandrolone",
+          "Progestins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9829156/"
+      },
+      {
+        "pmid": "17683173",
+        "title": "Drospirenone/ethinylestradiol 3mg/20microg (24/4 day regimen): a review of its use in contraception, premenstrual dysphoric disorder and moderate acne vulgaris.",
+        "abstract": "Drospirenone 3mg with ethinylestradiol 20microg (Yaz) is a low-dose combined oral contraceptive (COC) administered in a regimen of 24 days of active tablets followed by a short hormone-free interval (4 days; 24/4 regimen). Drospirenone, unlike other synthetic progestogens used in COCs, is a 17alpha-spirolactone derivative and a 17alpha-spironolactone analogue with antimineralocorticoid and antiandrogenic properties. Drospirenone/ethinylestradiol 3mg/20microg (24/4) is approved in the US for the prevention of pregnancy in women, for the treatment of the symptoms of premenstrual dysphoric disorder (PMDD) and for the treatment of moderate acne vulgaris in women who wish to use an oral contraceptive for contraception.Drospirenone/ethinylestradiol 3mg/20microg (24/4) provided 99% contraceptive protection over 1 year of treatment in two large studies. The same treatment regimen over three treatment cycles also significantly improved the emotional and physical symptoms associated with PMDD, a",
+        "journal": "Drugs",
+        "year": "2007",
+        "authors": [
+          "Fenton Caroline",
+          "Wellington Keri",
+          "Moen Marit D",
+          "Robinson Dean M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Androstenes",
+          "Contraception",
+          "Contraceptives, Oral, Combined",
+          "Contraceptives, Oral, Synthetic",
+          "Estrogens",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Mineralocorticoid Receptor Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17683173/"
+      },
+      {
+        "pmid": "19445767",
+        "title": "PCOS.",
+        "abstract": "Polycystic ovary syndrome (PCOS) is diagnosed in up to 10% of women attending gynaecology clinics, but the prevalence in the population as a whole is unclear. PCOS has been associated with hirsutism, infertility, acne, weight gain, type 2 diabetes, cardiovascular disease (CVD), and endometrial hyperplasia.",
+        "journal": "BMJ clinical evidence",
+        "year": "2009",
+        "authors": [
+          "Cahill David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Diabetes Mellitus, Type 2",
+          "Flutamide",
+          "Hair Removal",
+          "Hirsutism",
+          "Humans",
+          "Metformin",
+          "Polycystic Ovary Syndrome",
+          "Weight Loss"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445767/"
+      },
+      {
+        "pmid": "18389090",
+        "title": "Drospirenone/ethinyl estradiol.",
+        "abstract": "Drospirenone 3 mg/ethinyl estradiol 20 microg (24/4) is a new unique oral contraceptive formulation that combines in a novel dosing regimen the lowest dosage of ethinyl estradiol commonly used today with drospirenone, an innovative progestin. Drospirenone is a compound closely resembling progesterone, but with the antimineralocorticoid and antiandrogenic properties of a related therapeutic agent, the diuretic, antihypertensive and androgen receptor antagonist, 17alpha-spironolactone. The prolongation of hormonally active pills in the monthly drospirenone/ethinyl estradiol cycle from 21 days to 24 days, followed by 4 days of inactive pills, is an interesting variant of the recently developed extended pill regimens (1). Recent contraceptive research has focused on improving side effect profiles and providing noncontraceptive health and lifestyle advantages. Many of these benefits are now supported with evidence-based medicine (2). Most available oral contraceptives improve cycle regulari",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2008",
+        "authors": [
+          "Rapkin Andrea J",
+          "Sorger Shelley N",
+          "Winer Sharon A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Androstenes",
+          "Contraceptives, Oral, Combined",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Premenstrual Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18389090/"
+      },
+      {
+        "pmid": "36986218",
+        "title": "Metabolic and Dietary Factors in Acne Vulgaris and Evaluation of the Acne Vulgaris Treatment with Oral Contraceptive-Based Therapies in Young Adult Women.",
+        "abstract": "The etiopathogenesis of acne is complex, as several endo- and exogenous factors that affect the sebaceous-hair unit are involved in the development of acne lesions. The main aim of the study was to evaluate selected metabolic parameters before treatment. Another goal of the study was to determine the correlation between selected metabolic and dietary parameters and the severity of acne before treatment. The third objective was to assess the severity of acne before and after treatment, considering the type of treatment used. The final objective was to assess the relationship between the difference in acne severity before and after treatment, considering the type of treatment used and factors of dairy or sweets intake. 168 women participated in the study. The patients belonged to two groups: the study group (99 patients with acne vulgaris) and the control group (69 patients without skin lesions). The study group was divided into subgroups according to the treatment used: contraceptive pr",
+        "journal": "Nutrients",
+        "year": "2023",
+        "authors": [
+          "Kozłowski Mateusz",
+          "Niedzielska Mirela",
+          "Lorenz Anna",
+          "Brodowska Agnieszka",
+          "Malanowska Ewelina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Young Adult",
+          "Contraceptives, Oral",
+          "Acne Vulgaris",
+          "Ethinyl Estradiol",
+          "Cyproterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36986218/"
+      },
+      {
+        "pmid": "21212911",
+        "title": "Desogestrel+ethinylestradiol versus levonorgestrel+ethinylestradiol. Which one has better affect on acne, hirsutism, and weight change.",
+        "abstract": "To compare complications of third and second generation oral contraceptive pills (OCPs).",
+        "journal": "Saudi medical journal",
+        "year": "2011",
+        "authors": [
+          "Sanam Moradan",
+          "Ziba Omidvar"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Contraceptives, Oral",
+          "Contraceptives, Oral, Combined",
+          "Contraceptives, Oral, Hormonal",
+          "Contraceptives, Oral, Synthetic",
+          "Desogestrel",
+          "Ethinyl Estradiol",
+          "Female",
+          "Hirsutism",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21212911/"
+      },
+      {
+        "pmid": "12566804",
+        "title": "Update and future of systemic acne treatment.",
+        "abstract": "Systemic treatment is required in patients with moderate-to-severe acne, especially when acne scars start to occur. Antibiotics with anti-inflammatory properties, such as tetracyclines (oxytetracycline, tetracycline chloride, doxycycline, minocycline and limecycline) and macrolide antibiotics (erythromycin and azithromycin) are the agents of choice for papulopustular acne, even though the emerging resistant bacterial strains are minimizing their effect, especially regarding erythromycin. Systemic antibiotics should be administered during a period of 8-12 weeks. In severe papulopustular and in nodulocystic/conglobate acne, oral isotretinoin is the treatment of choice. Hormonal treatment represents an alternative regimen in female acne, whereas it is mandatory in resistant, severe pubertal or post-adolescent forms of the disease. Compounds with anti-androgenic properties include estrogens combined with progestins, such as ethinyl estradiol with cyproterone acetate, chlormadinone acetate,",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "2003",
+        "authors": [
+          "Zouboulis Christos C",
+          "Piquero-Martin Jaime"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Administration, Oral",
+          "Androgen Antagonists",
+          "Anti-Bacterial Agents",
+          "Cheilitis",
+          "Clindamycin",
+          "Cyproterone",
+          "Forecasting",
+          "Humans",
+          "Isotretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12566804/"
+      },
+      {
+        "pmid": "32404240",
+        "title": "Oral Contraceptives in Dermatology.",
+        "abstract": "Oral contraceptives combine estrogen and progesterone to suppress ovulation. Synthetic forms are usually used. In dermatology, oral contraceptives are prescribed for 2 main reasons: to prevent pregnancy when teratogenic drugs must be taken and to treat skin manifestations of hyperandrogenism. Most oral contraceptives improve both acne and hirsutism, but the androgenic effect of progestogens - particularly if the contraceptive contains first- or second-generation progestogens- can trigger or exacerbate acne. One of the most serious side effects of oral contraceptives, thrombosis, is mainly caused by the estrogen component and its dose. If we mainly consider a contraceptive's thrombotic profile when prescribing, the choice would be to have 30μg or less of ethinyl estradiol combined with levonorgestrel. On the other hand, if our main objective is to treat signs of androgenization, we would prefer contraceptives containing progestogens with antiandrogenic effects.",
+        "journal": "Actas dermo-sifiliograficas",
+        "year": "2020",
+        "authors": [
+          "Requena C",
+          "Llombart B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Contraceptives, Oral",
+          "Dermatology",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Levonorgestrel",
+          "Pregnancy",
+          "Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32404240/"
+      },
+      {
+        "pmid": "40949888",
+        "title": "Contribution of the combined oral contraceptive ethinylestradiol 20 µg/dienogest 2 mg, in the treatment of mild to moderate acne vulgaris and its perceived psychological effects in young university women.",
+        "abstract": "In adult females, acne is usually a chronic condition, and its management remains challenging due to therapeutic failures or limited healthcare seeking, with repercussions on mental health. Oral contraceptives may provide an alternative to reduce acne and enhance psychological well-being.",
+        "journal": "International journal of women's dermatology",
+        "year": "2025",
+        "authors": [
+          "Palacio-Cardona John J",
+          "Caicedo-Borrero Diana M",
+          "Cuartas Daniel Elías",
+          "Calle-Madrid Carlos",
+          "Aristizabal-Aristizabal Diana M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40949888/"
+      },
+      {
+        "pmid": "140576",
+        "title": "Treatment of hirsutism and acne in women with two combinations of cyproterone acetate and ethinylestradiol.",
+        "abstract": "175 women of reproductive age, with hirsutism of differing degrees and different pathogenetic causes (ovarian, adrenal, iatrogenic) or idiopathic, and acne were treated with two different combinations of Cyprotrone acetate and ethinyl estradiol (SH 8.1041 and SH B209AB). 90 patients were given SH 8.1041 and 10 were given SH B209AB. 75 received both preparations. The total number of treatment cycles was 1534. Clinical, hormonal and biochemical assessments were made before, during and after treatment. The degrees of hirsutism and acne, and of seborrhea and hair loss when present, were scored by means of a modified version of the Ferriman and Gallway criteria. SH 8.1041 brought about a significant improvement in the majority of the patients. SH B209AB was generally used as maintenance therapy for hirsutism and severe acne. It was the initial treatment of choice in patients with milder acne. Reduction of hirsutism was usually apparent after the fourth cycle of therapy and acne regressed af",
+        "journal": "Acta Europaea fertilitatis",
+        "year": "1976",
+        "authors": [
+          "Cremoncini C",
+          "Vignati E",
+          "Libroia A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adult",
+          "Cyproterone",
+          "Dermatitis, Seborrheic",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Female",
+          "Hirsutism",
+          "Humans",
+          "Sex Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/140576/"
+      },
+      {
+        "pmid": "41051345",
+        "title": "Polycystic ovary syndrome and estroprogestins.",
+        "abstract": "Clinical characteristics of polycystic ovary syndrome (PCOS) (menstrual irregularities, obesity, anovulation, etc.), occur together with a series of conditions at skin level like seborrhea, acne, hirsutism, and androgenetic alopecia. Estroprogestins (EPs) are recognized as the most powerful therapy to treat hyperandrogenism and/or hyperandrogenemia and regularize menstrual cycle.",
+        "journal": "Minerva obstetrics and gynecology",
+        "year": "2025",
+        "authors": [
+          "Lello Stefano",
+          "Fagotti Anna",
+          "Vignali Michele",
+          "Colonna Laura",
+          "Capozzi Anna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Polycystic Ovary Syndrome",
+          "Female",
+          "Hyperandrogenism",
+          "Androgen Antagonists",
+          "Androstenes",
+          "Drug Combinations",
+          "Ethinyl Estradiol",
+          "Norpregnenes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41051345/"
+      },
+      {
+        "pmid": "18840013",
+        "title": "Effects of an oral contraceptive containing chlormadinone and ethinylestradiol on acne-prone skin of women of different age groups: an open-label, single-centre, phase IV study.",
+        "abstract": "Acne-prone skin, a common skin condition not only in adolescents but also in adults, can significantly influence the affected individual's quality of life. The aim of this open-label, prospective, single-centre, phase IV study was to investigate the effects of an oral contraceptive containing chlormadinone 2 mg and ethinylestradiol 0.03 mg (Belara) on the physiology of acne-prone facial skin in healthy women aged 18-37 years.",
+        "journal": "Clinical drug investigation",
+        "year": "2008",
+        "authors": [
+          "Kerscher Martina",
+          "Reuther Tilmann",
+          "Bayrhammer Julia",
+          "Schramm Georg"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Androgen Antagonists",
+          "Body Water",
+          "Chlormadinone Acetate",
+          "Contraceptives, Oral, Combined",
+          "Contraceptives, Oral, Synthetic",
+          "Ethinyl Estradiol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18840013/"
+      },
+      {
+        "pmid": "15157791",
+        "title": "Cycle control, quality of life and acne with two low-dose oral contraceptives containing 20 microg ethinylestradiol.",
+        "abstract": "Poor cycle control and tolerability can be reasons for irregular pill intake. This study compared the tolerability of two low-dose oral contraceptives and their effect on cycle control.",
+        "journal": "Contraception",
+        "year": "2004",
+        "authors": [
+          "Winkler U H",
+          "Ferguson H",
+          "Mulders J A P A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Adolescent",
+          "Adult",
+          "Contraceptives, Oral, Combined",
+          "Desogestrel",
+          "Ethinyl Estradiol",
+          "Female",
+          "Germany",
+          "Humans",
+          "Levonorgestrel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15157791/"
+      },
+      {
+        "pmid": "12566806",
+        "title": "Update and future of hormonal therapy in acne.",
+        "abstract": "Hormonal therapy is an important component in the treatment of women with acne who may or may not have elevated serum androgens. The mainstays of hormonal therapy include oral contraceptives and antiandrogens such as cyproterone acetate, flutamide or spironolactone. Recent research over the past several years has unraveled some of the details regarding the way that the skin and sebaceous glands synthesize and metabolize hormones. The knowledge gained from this work may provide an impetus for future drug discovery in the hormonal treatment of acne and lead to improvements in the care of our patients with acne.",
+        "journal": "Dermatology (Basel, Switzerland)",
+        "year": "2003",
+        "authors": [
+          "Thiboutot Diane",
+          "Chen WenChieh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Androgen Antagonists",
+          "Androgens",
+          "Contraceptives, Oral, Hormonal",
+          "Dehydroepiandrosterone",
+          "Estradiol Congeners",
+          "Ethinyl Estradiol",
+          "Glucocorticoids",
+          "Humans",
+          "Hyperandrogenism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12566806/"
+      },
+      {
+        "pmid": "21175386",
+        "title": "Drospirenone/ethinylestradiol: a review on efficacy and noncontraceptive benefits.",
+        "abstract": "Considerable advances have been made in the field of combined oral contraceptives since their introduction 50 years ago. This ongoing evolution has been focused on reducing the estrogen dose and synthesizing new progestogens. A recently launched combination of ethinylestradiol 20 µg and drospirenone 3 mg demonstrates the advantages of a lower estrogen dose with the antimineralocorticoid activity of drospirenone that is responsible for the drug's significant antiandrogenic and antimineralocorticoid effects, reflected clinically in lower rates of adverse events including less fluid retention. In addition to the drug's contraceptive efficacy, its effects on the skin and other classic noncontraceptive benefits, the ethinylestradiol 20 µg and drospirenone 3 mg combination has demonstrated highly satisfactory results in women with premenstrual dysphoric syndrome.",
+        "journal": "Women's health (London, England)",
+        "year": "2011",
+        "authors": [
+          "Machado Rogério Bonassi",
+          "Pompei Luciano de Melo",
+          "Giribela Arícia Galvão",
+          "Giribela Cassiana Galvão"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Androstenes",
+          "Contraceptives, Oral, Combined",
+          "Dysmenorrhea",
+          "Endometrium",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Mineralocorticoid Receptor Antagonists",
+          "Premenstrual Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21175386/"
+      },
+      {
+        "pmid": "10796856",
+        "title": "Minocycline for acne vulgaris: efficacy and safety.",
+        "abstract": "Minocycline is a tetracycline antibiotic that is commonly used in the treatment of moderate to severe acne vulgaris. Although it is more convenient for patients to take than first-generation tetracyclines, as it only needs to be taken once or twice a day and can be taken with food, it is more expensive. Concerns have also been expressed over its safety following the deaths of two patients taking the drug. There is a lack of consensus among dermatologists over the relative risks and benefits of minocycline. As most acne prescribing is undertaken by general practitioners, it is important that guidelines issued to them are based on the best available evidence rather than personal judgements.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2000",
+        "authors": [
+          "Garner S E",
+          "Eady E A",
+          "Popescu C",
+          "Newton J",
+          "Li Wan Po A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Anti-Bacterial Agents",
+          "Humans",
+          "Minocycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10796856/"
+      },
+      {
+        "pmid": "29729107",
+        "title": "Which acne treatment has the best influence on health-related quality of life? Literature review by the European Academy of Dermatology and Venereology Task Force on Quality of Life and Patient Oriented Outcomes.",
+        "abstract": "According to results of a recent literature search performed by the European Academy of Dermatology and Venereology (EADV) Task Forces (TF) on Quality of Life and Patient Oriented Outcomes (QoL and PO) and Acne, Rosacea and Hidradenitis Suppurativa (ARHS), most of the publications where health-related (HR) QoL of acne patients was studied were clinical trials. Members of the EADV TF on QoL and PO decided to detect which acne treatment has the best influence on HRQoL of acne patients. A new literature search was organized to find publications on acne treatment where the HRQoL of patients was assessed as an outcome measure. From 186 papers with HRQoL assessment, 37 papers were included for further analysis. Our results revealed that oral isotretinoin had the best influence on HRQoL of acne patients. Several other treatment methods also showed good effects on the HRQoL of acne patients. Oral isotretinoin and norethindrone acetate/ethinyl estradiol, topical clindamycin phosphate/benzoyl pe",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2018",
+        "authors": [
+          "Chernyshov P V",
+          "Tomas-Aragones L",
+          "Manolache L",
+          "Svensson A",
+          "Marron S E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Advisory Committees",
+          "Dermatologic Agents",
+          "Humans",
+          "Practice Guidelines as Topic",
+          "Quality of Life",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29729107/"
+      },
+      {
+        "pmid": "6562744",
+        "title": "[Stediril].",
+        "abstract": "",
+        "journal": "Soins. Gynecologie, obstetrique, puericulture, pediatrie",
+        "year": "1984",
+        "authors": [
+          "Csech J",
+          "Gervais C"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Contraceptives, Oral",
+          "Contraceptives, Oral, Hormonal",
+          "Contraceptives, Oral, Synthetic",
+          "Ethinyl Estradiol",
+          "Ethinyl Estradiol-Norgestrel Combination",
+          "Humans",
+          "Norgestrel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6562744/"
+      },
+      {
+        "pmid": "36257374",
+        "title": "Tolerability and safety of the estetrol/drospirenone combined oral contraceptive: Pooled analysis of two multicenter, open-label phase 3 trials.",
+        "abstract": "To evaluate tolerability and safety of estetrol (E4) 15 mg/drospirenone (DRSP) 3 mg oral contraceptive using pooled data from two, multicenter, phase 3 trials.",
+        "journal": "Contraception",
+        "year": "2022",
+        "authors": [
+          "Chen Melissa J",
+          "Jensen Jeffrey T",
+          "Kaunitz Andrew M",
+          "Achilles Sharon L",
+          "Zatik János"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pregnancy",
+          "Female",
+          "Estetrol",
+          "Contraceptives, Oral, Combined",
+          "Venous Thromboembolism",
+          "Androstenes",
+          "Estrogens",
+          "Ethinyl Estradiol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36257374/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:01:50.740715",
+  "success": true,
+  "error_message": null
+}

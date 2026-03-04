@@ -1,0 +1,661 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "uterine corpus cancer"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01464697",
+      "title": "Oral Micronized Progesterone for Perimenopausal Vasomotor Symptoms",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2018-06-01",
+      "country": "Canada",
+      "enrollment": 249,
+      "brief_summary": "The purpose of this study is to test whether a oral micronized progesterone reduces the Vasomotor Symptom Score comprised of the number and severity of hot flushes and night sweats in perimenopausal women. Oral micronized progesterone is molecularly identical to human progesterone, a steroid hormone. It is sold by prescription for use to prevent endometrial cancer in women taking estrogen in menopause. This research study will test whether progesterone reduces perimenopausal hot flushes and nigh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Between 35-58 years of age\n2. At least 4 vasomotor symptoms (VMS) per day, on average, for at least 2/4 weeks or at least 56 over a four-week period. In addition, women should report having VMS of moderate or severe rather than mild intensity. Women reporting fewer VMS than t",
+      "endpoints": [
+        "Vasomotor Symptoms (VMS)/ VMS Score - at 12 Weeks",
+        "Frequency of VMS",
+        "Severity of VMS"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01464697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01698164",
+      "title": "Multi-centre Clinical Trial on Hormone Replacement Treatment in China",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-12",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 1200,
+      "brief_summary": "This study is to evaluate the benefit/risk of hormone replacement treatment among early menopausal women in China. This is a multi-centre, random, prospective study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* going through amenorrhea above 6 months and within 5 years,\n* aged 40 to 60 years,\n* going though postmenopausal symptoms,\n* serum E2 concentration \\<30pg/ml,\n* serum FSH concentration \\>40IU/L.\n\nExclusion Criteria:\n\n* uterine fibroid diameter≥5cm,\n* history of diabetes or hyp",
+      "endpoints": [
+        "Change from Baseline in risk factors of cardiovascular disease at 12 months and 24 months",
+        "Change from Baseline in risk factors of breast cancer at 12 months and 24 months"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01698164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03433768",
+      "title": "Androgen Receptor (AR) mRNA Expression is Positively Associated With Live Birth in Women Undergoing In-vitro Fertilization Independently of the Type of Ovarian Response",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-09-14",
+      "completion_date": "2018-01-10",
+      "country": "N/A",
+      "enrollment": 67,
+      "brief_summary": "AR is a steroid hormone receptor that regulates various genes' expression and affects cellular proliferation and differentiation. Androgens interact with AR, exert their paracrine action on granulosa cells and regulate gonadotropin synthesis, follicle development, oocyte maturation and corpus luteum function. Estrogens increase AR mRNA and testosterone binding site in uterine endometrium and leiomyoma. In human cancer cells, low estradiol increases AR levels, suggesting the estrogen/androgen rat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with poor ovarian response according to bologna criteria\n\n  1. Advanced maternal age (≥40 years) or any other risk factor for poor ovarian response\n  2. A previous poor ovarian response (≤3 oocytes with a conventional stimulation protocol)\n  3. Abnormal ovarian reserve t",
+      "endpoints": [
+        "Androgen Receptor mRNA expression"
+      ],
+      "sponsor": "Aristotle University Of Thessaloniki",
+      "url": "https://clinicaltrials.gov/study/NCT03433768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00919919",
+      "title": "Efficacy & Tolerability of Progesterone Vaginal Tablets (Endometrin®) in Menopausal Women Treated by Estrogen Replacement Therapy - Phase II Comparative Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-06",
+      "completion_date": "2010-11",
+      "country": "Israel",
+      "enrollment": 60,
+      "brief_summary": "The objective of the study is to confirm that the efficacy of vaginal progesterone is at least as good as oral progesterone in order to protect the endometrium of uncontrolled proliferation and prevent endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women who are candidates for Hormone Replacement Therapy due to menopausal symptoms.\n* Women with an intact uterus.\n* No menses within the 12 months preceding screening visit and /or FSH \\>30 IU/L.\n* Endometrial thickness ≤ 5 mm.\n\nExclusion Criteria:\n\n* Submucosal fibroid/s th",
+      "endpoints": [
+        "Comparing the proportion of women with endometrial thickness not exceeding 8mm and change not exceeding 3mm between the two groups."
+      ],
+      "sponsor": "Rabin Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00919919"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01811225",
+      "title": "Smoking, Sex Hormones, and Pregnancy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2017-06",
+      "country": "United States",
+      "enrollment": 95,
+      "brief_summary": "The investigators aim to (1) examine the association between levels of progesterone (Prog), allopregnanolone (Allo), and the estradiol/progesterone (E2/P) ratios with smoking-related symptomatology during ad libitum smoking and (2) determine the association between Prog, Allo, and E2/P with the changes in smoking-related symptomatology and response to nicotine following overnight abstinence",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* currently taking oral contraceptives\n* English fluency\n* Ability to provide informed consent\n\nExclusion Criteria:\n\n* use of progestin only contraceptive\n* pregnancy",
+      "endpoints": [
+        "Change in Smoking Urges"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01811225"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02208375",
+      "title": "A Phase Ib Study of the Oral PARP Inhibitor Olaparib With the Oral mTORC1/2 Inhibitor AZD2014 or the Oral AKT Inhibitor AZD5363 for Recurrent Endometrial, Triple Negative Breast, and Ovarian, Primary Peritoneal, or Fallopian Tube Cancer",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-11-11",
+      "completion_date": "2026-06-30",
+      "country": "United States",
+      "enrollment": 159,
+      "brief_summary": "This phase Ib/II trial studies the side effects and best dose of olaparib and vistusertib (AZD2014) or olaparib and capivasertib (AZD5363) when given together in treating patients with endometrial, triple negative breast cancer, ovarian, primary peritoneal, or fallopian tube cancer that has come back (recurrent). Olaparib, vistusertib, and capivasertib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any histologically confirmed locally advanced recurrent endometrial adenocarcinoma (except for carcinosarcoma), recurrent high-grade serous ovarian/primary peritoneal/fallopian tube carcinoma, or deleterious BRCA mutant recurrent ovarian/primary peritoneal/fallopian tube cance",
+      "endpoints": [
+        "Maximum tolerated dose"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02208375"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00732693",
+      "title": "Comparison of Standard and Physiologic Sex Steroid Replacement Regimens in Women With Premature Ovarian Failure and the Assessment of Skeletal, Cardiovascular and Reproductive Parameters",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2006-11",
+      "country": "United Kingdom",
+      "enrollment": 42,
+      "brief_summary": "The aim of the study is to determine whether physiological sex steroid replacement improves parameters of skeletal, cardiovascular and reproductive health of women treated with current sex steroid replacement regimens.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premature Ovarian Failure\n\nExclusion Criteria:\n\n* Intercurrent illness",
+      "endpoints": [
+        "Change in 24 hour ambulatory blood pressure",
+        "Bone mineral density measurements (DEXA)",
+        "Uterine ultrasound scan to assess uterine volume, endometrial thickness, and uterine artery blood flow"
+      ],
+      "sponsor": "University of Edinburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00732693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02685072",
+      "title": "Progesterone Augmentation of Nicotine Replacement Therapy Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-04-07",
+      "completion_date": "2018-03-12",
+      "country": "United States",
+      "enrollment": 64,
+      "brief_summary": "This will be a double-blind, placebo-controlled, pilot, randomized clinical trial. A total of 50 women who smoke and have regular menstrual cycles will be randomized to either progesterone (200 mgs BID) + Transdermal Nicotine Patch (TNP) or placebo + TNP for 8 weeks. TNP will be tapered after 4-6 weeks. Progesterone or matching placebo will be discontinued at the end of Week 8. All participants will also be provided behavioral treatment for smoking cessation. Participants will be inducted onto p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 - 45\n* Smoking at least 5 cigarettes/ day for at least one year\n* Regular menstrual cycles every 24-36 days for the previous 6 months\n* Motivated to quit smoking (i.e., a rating of at least \"7 \"on a 10-point scale where 1 is not at all motivated and 10 is extremely mot",
+      "endpoints": [
+        "7-day Point Prevalence of Smoking Abstinence"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT02685072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00247169",
+      "title": "Vaginal Progesterone in the Treatment of Cervical Dysplasia Grade I and II: A Phase II Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2010-04",
+      "country": "Austria",
+      "enrollment": 40,
+      "brief_summary": "The investigators want to test whether treatment with a natural progesterone intravaginally increases the cure rate of cervical intraepithelial neoplasia grade I and II.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histological evidence of CIN I and II\n2. Transformation zone and lesion margins fully visible\n3. Compliant subject\n4. Safe contraception\n5. Negative pregnancy test\n\nExclusion Criteria:\n\nLesion related\n\n1. CIN III, (micro)-Invasive Cancer\n2. Endocervical lesion, upper margin o",
+      "endpoints": [
+        "To evaluate whether or not a treatment with vaginal progesterone 400mg 1x daily for 10 days/month from menstrual cycle day 16-25 for 6 months increases regression rates of CIN I and II."
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT00247169"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03621904",
+      "title": "PROMOTE Study: Prediction of Response Of HorMOnal Treatment in Advanced and Recurrent Endometrial Cancer",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-10-15",
+      "completion_date": "2027-09-01",
+      "country": "Netherlands",
+      "enrollment": 150,
+      "brief_summary": "The PROMOTE study aims at optimising use of hormonal therapy in advanced stage and recurrent endometrial cancer analysing tumor tissue taken before start of hormonal therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Advanced stage (FIGO stage III and IV) and recurrent endometrial cancer\n* All histologic types of endometrial carcinoma\n* Planned treatment with any type of hormonal therapy\n* Biopsy taken within 120 days prior to start of hormonal therapy with no intercurrent therapy between ",
+      "endpoints": [
+        "Response rate",
+        "Progression free survival",
+        "Clinical benefit rate"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03621904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441635",
+      "title": "Phase 2a Proof Of Concept Study to Evaluate the Safety and Efficacy of Elagolix in Pre-Menopausal Women With Heavy Uterine Bleeding and Uterine Fibroids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09-08",
+      "completion_date": "2014-05-17",
+      "country": "N/A",
+      "enrollment": 271,
+      "brief_summary": "The purpose of this proof-of-concept study is to assess the safety and effectiveness of elagolix versus placebo to reduce uterine bleeding associated with uterine fibroids, and to reduce fibroid volume and uterine volume in premenopausal women 20 to 49 years of age with heavy uterine bleeding.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is a pre-menopausal female 20 to 49 years of age.\n* Subject has a diagnosis of uterine fibroids documented by a pelvic ultrasound assessed by a central reader and verification that a fibroid present met the following criteria:\n\n  * At least 1 fibroid with diameter ≥ 2 ",
+      "endpoints": [
+        "Mean Change From Baseline to the Last 28 Days of Treatment in Menstrual Blood Loss (MBL)"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01441635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04558268",
+      "title": "Low Dose Prednisone Therapy in Women With Recurrent Pregnancy Loss",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-12",
+      "completion_date": "2021-10",
+      "country": "Israel",
+      "enrollment": 242,
+      "brief_summary": "For many years there is a lack of large randomized controlled trials that study the effect of low dose prednisone in women with RPL and thus the evidence of a probable efficacy of prednisone in RPL women remains limited and unclear. As the ESHRE recommended in 2018 (2) we aim to assess the effect of such treatment in a large trial that includes unexplained and abnormal autoimmune profile RPL patients. we also aim to assess the side effects of the treatment in RPL pregnant women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with unexplained RPL.\n* Patients with abnormal immunological profile, including ANA, RF, anti-DNA, antilymphocyte, anticardiolipin, antithyroid and lupus anticoagulant antibodies that have no other clinical manifestation.\n* Women with three or more pregnancy losses (b",
+      "endpoints": [
+        "Live birth",
+        "Pregnancy loss"
+      ],
+      "sponsor": "Soroka University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04558268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01744574",
+      "title": "Sex Differences & Progesterone: Association With Impulsivity and Smoking Cessation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2017-07-27",
+      "country": "United States",
+      "enrollment": 216,
+      "brief_summary": "Data suggest that progesterone may improve smoking cessation outcomes perhaps by reducing impulsive behavior. However, the clinical literature on this topic is lacking. Therefore, in Project I we are proposing a double-blind randomized controlled trial to assess the role of exogenous progesterone on impulsivity and smoking cessation in a sample of males and females who are motivated to quit smoking.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male 18 to 60 years old\n* Female 18 to 50 years old\n* Self-report regular smoking\n* Motivated to quit smoking\n* In stable physical/mental health\n* Self report of regular menstrual cycles (female only)\n* English fluency\n* Understand the study procedures and able to provide info",
+      "endpoints": [
+        "Number of Participants With 7-day Point Prevalence Abstinence From Smoking at Week 4"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01744574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01041027",
+      "title": "A Pilot Phase II Trial of Radiation Therapy \"Sandwiched\" Between Paclitaxel and Carboplatin in Patients With High-Risk Endometrial Cancer After Standard Surgical Staging",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-01-16",
+      "completion_date": "2019-10-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "This phase II trial studies how well radiation therapy, paclitaxel, and carboplatin work in treating patients with high-risk endometrial cancer. Radiation therapy uses high energy x rays to kill tumor cells. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing or by stopping them from spreading. Giving radiation therapy with chemotherapy may kill more tumor cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically-documented high-risk endometrioid adenocarcinoma with no visible residual disease, defined by the following criteria:\n\n  * Surgical stage I disease with \\< 50 myometrial invasion and grade 3 tumor (IAG3) with lymphovascular space involvement;\n  * Surgical stage ",
+      "endpoints": [
+        "Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01041027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03463252",
+      "title": "Value of Levonorgestrel-Releasing Intrauterine System (LNG-IUS) in the Fertility-preserving Treatment of Atypical Endometrial Hyperplasia and Early Endometrial Carcinoma",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2018-04-01",
+      "completion_date": "2030-12-30",
+      "country": "China",
+      "enrollment": 224,
+      "brief_summary": "Primary end points:\n\nThis clinical trial is aimed to analyze the effectiveness of Levonorgestrel-Releasing Intrauterine System (LNG-IUS, Mirena®) in the fertility-sparing treatment of atypical endometrial hyperplasia and early endometrial carcinoma, including pathology response and pregnancy outcome.\n\nSecond end points:\n\nTo analyze the appearances of side-effects.",
+      "eligibility_criteria": "For Patients With Endometrial Cancer：\n\nInclusion Criteria:\n\n* ≤40 years of age:\n* Having a strong desire for fertility preservation;\n* Histological diagnosis is confirmed as well-differentiated (grade 1) endometrioid adenocarcinoma by the designated gynecological pathologists, and the progesterone r",
+      "endpoints": [
+        "Pathologic Response",
+        "Pregnancy Rate",
+        "Live Birth Rate"
+      ],
+      "sponsor": "West China Second University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03463252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02112552",
+      "title": "A Pilot Phase II Trial of Intravenous Paclitaxel and Intraperitoneal Carboplatin Followed by Radiation in Patients With Advanced Stage Uterine Serous Carcinoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-04-10",
+      "completion_date": "2017-12-01",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "This pilot, phase II trial studies the side effects and how well paclitaxel given into the vein and carboplatin given directly into the abdominal cavity (intraperitoneally) followed by radiation therapy work in treating patients with stage IIIC-IV serous uterine cancer. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, stopping them from dividing, or stopping them from spreading. Giving the drugs",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological/cytologically documented primary International Federation of Gynecology and Obstetrics (FIGO) stage 3C1, 3C2, stage 4A, and 4B uterine serous carcinoma; in addition, certain stage 3A and B disease are also allowed\n\n  * Residual disease after primary surgery:\n\n    ",
+      "endpoints": [
+        "Degree of Tolerability, Estimated by the Proportion of Participants Who Complete 6 Treatment Cycles of IP Carboplatin"
+      ],
+      "sponsor": "Albert Einstein College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02112552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05586724",
+      "title": "Safety of Oral Micronized Progesterone Versus Norethisterone Acetate in Continuous Combination With Oral Estrogen as Menopausal Hormone Therapy - a Double-blind Randomized Study- PROBES Study (Progesterone Breast Endometrial Safety Study)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-03-15",
+      "completion_date": "2027-12",
+      "country": "Sweden",
+      "enrollment": 520,
+      "brief_summary": "About one third of all women during menopausal transition have significant climacteric symptoms with considerable impact on quality of life. Meta-analysis has shown a beneficial risk profile with menopausal hormone therapy (MHT) for women 50 to 60 years. Still, there is a great need to find safe MHT able to control excessive endometrial stimulation by estrogen without stimulatory effects on the breast by the combination of estrogen/progestogen. Recent observational studies indicate a lower risk ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy and naturally postmenopausal women (more than one year since last menstruation or FSH \\> 40 IE/L) with climacteric symptoms (sweating, hot flush and/or sleep problems) that adversely affect the quality of life\n* Age 45-60 years\n* BMI \\> 19 kg/m2 and ≤ 32 kg/m2\n* Intact",
+      "endpoints": [
+        "Mammographic breast density",
+        "Endometrial pathology"
+      ],
+      "sponsor": "Karolinska University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05586724"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00788671",
+      "title": "A Phase II Study of the Levonorgestrel Intrauterine Device (Mirena) to Treat Complex Atypical Hyperplasia and Grade 1 Endometrioid Endometrial Carcinoma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2008-11-03",
+      "completion_date": "2027-11-30",
+      "country": "United States",
+      "enrollment": 69,
+      "brief_summary": "This phase II trial studies how well levonorgestrel-releasing intrauterine system works in treating patients with complex atypical hyperplasia or grade I endometrial cancer. High levels of estrogen can cause the growth of endometrial cancer cells. Progesterone can help balance the amount of estrogen present. Hormone therapy using levonorgestrel, a type of progesterone, may fight endometrial cancer by helping regulate hormone levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with a diagnosis of complex atypical hyperplasia or endometrial biopsy within three months of study enrollment OR patients with a diagnosis of grade 1 endometrioid endometrial carcinoma on endometrial biopsy within three months of study enrollment in the presence ",
+      "endpoints": [
+        "Response Rate at 12 Month",
+        "Efficacy of the Levonorgestrel Intrauterine Device (IUD)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00788671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064025",
+      "title": "A Phase II Pilot Investigation Of The Relationship Of Short Term Depo-Provera (Medroxyprogesterone Acetate) Exposure To The Morphologic , Biochemical, And Molecular Changes In Primary Endometroid Adenocarcinoma of the Uterine Corpus",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "This phase II trial is studying how well medroxyprogesterone works in treating patients with endometrioid adenocarcinoma (cancer) of the uterine corpus (the body of the uterus, not including the cervix). Hormone therapy using medroxyprogesterone may be effective in treating endometrioid cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed primary endometrioid adenocarcinoma of the uterine corpus\n\n  * All histologic grades and stages eligible\n  * Diagnosis by endometrial curettage or biopsy within the past 8 weeks\n\n    * Must have the initial tissue block or 16 unstained sections of 5 mi",
+      "endpoints": [
+        "Histologic Response in Endometrial Adenocarcinomas of the Uterine Corpus That Are Progesterone Receptor Positive Compared With Those That Are Progesterone Receptor Negative"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00064025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04046185",
+      "title": "PD-1 Inhibitor Combined With Progesterone Treatment in Early Stage Endometrial Cancer Patients Who Want to Preserve Fertility",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2019-10-01",
+      "completion_date": "2022-10-01",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "We want to make a comparison of PD-1 inhibitor combined with progesterone versus progesterone alone in the treatment of early stage endometrial cancer patients who want to preserve fertility.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Early endometrial cancer patients (cancer confined in the endometrium, endometrioid histology, G1-2)\n2. Patients want to preserve fertility\n3. Informed consent acquired\n4. Age \\<18, \\>= 45\n5. Eastern Cooperative Oncology Group (ECOG) performance status score \\<=1\n6. Normal bl",
+      "endpoints": [
+        "Pathologic complete remission rate of endometrial curettage tissues",
+        "Pathologic partial remission rate of endometrial curettage tissues"
+      ],
+      "sponsor": "Shanghai First Maternity and Infant Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04046185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00729586",
+      "title": "A Randomized Phase II Trial of Temsirolimus (NCI-Supplied Agent, NSC # 683864) or the Combination of Hormonal Therapy Plus Temsirolimus in Women With Advanced, Persistent, or Recurrent Endometrial Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2017-02",
+      "country": "United States",
+      "enrollment": 73,
+      "brief_summary": "This randomized phase II trial studies how well temsirolimus with or without megestrol acetate and tamoxifen citrate works in treating patients with endometrial cancer that has spread to other places in the body and usually cannot be cured or controlled with treatment, has returned after a period of improvement, or is persistent. Temsirolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Estrogen can cause the growth of endometrial cancer cells. Hormo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically confirmed advanced (International Federation of Gynecologists and Obstetricians \\[FIGO\\] stage III or IV), persistent, or recurrent endometrial carcinoma, which is not likely to be curable by surgery or radiotherapy; histologic documentation o",
+      "endpoints": [
+        "Percentage of Participants With a Confirmed Objective Tumor Response Using RECIST Version 1.0"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00729586"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00079248",
+      "title": "UK Trial Of Hormone Replacement Therapy (HRT) In Women With A History Of Early Stage Breast Cancer",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2002-03",
+      "completion_date": "",
+      "country": "United Kingdom",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Hormone replacement therapy may be effective in relieving symptoms of menopause, such as hot flashes, night sweats, and vaginal dryness, without causing a recurrence of breast cancer.\n\nPURPOSE: This randomized clinical trial is studying hormone replacement therapy to see how well it works in relieving symptoms of menopause in postmenopausal women with previous stage I or stage II breast cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Prior diagnosis of stage I or II breast cancer\n\n  * No clinical evidence of recurrence\n* Meets criteria for 1 of the following:\n\n  * Amenorrheic for at least the past 6 months\n\n    * Radiotherapy- or chemically-induced ovarian suppression allowed\n  * Prior surgical bilate",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00079248"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02874430",
+      "title": "A Phase II Study of Metformin in Combination With Doxycycline in Patients With Localized Breast, and Uterine, and Cervical Cancer",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-06-08",
+      "completion_date": "2023-06",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "This phase II trial studies how well metformin hydrochloride works together with doxycycline in treating patients with localized breast or uterine cancer. Metformin hydrochloride may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Doxycycline may stop the growth of bacteria by keeping them from making proteins and minimized the toxic side effects of anti-cancer therapy. It is not yet known whether giving metformin hydrochloride together with doxycycline ma",
+      "eligibility_criteria": "Inclusion Criteria:\n\nIn order to be eligible for participation in this trial, the subject must:\n\n1. Diagnosis of localized breast or uterine cancer that is either biopsy proven or suspected based on history, physical, and or radiographic findings, and who are planned for definitive resection of the ",
+      "endpoints": [
+        "Change in the percent of stromal cells expressing Caveolin-1 (CAV1) at an intensity of 1+ or greater assessed by immunohistochemistry"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT02874430"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03906669",
+      "title": "A Window of Opportunity Study of Endocrine Therapy With and Without Prometrium in Postmenopausal Women With Early Stage Hormone Receptor-positive Breast Cancer.",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-03-20",
+      "completion_date": "2024-04",
+      "country": "Australia",
+      "enrollment": 200,
+      "brief_summary": "A phase II randomised, open label study of pre-operative endocrine therapy with \\& without prometrium in postmenopausal women with early stage breast hormone receptor positive (HR+) human epidermal receptor 2 negative (HER2-) breast cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed ER+ and PR+ breast cancer (defined as ≥10% positive staining cells)\n2. Histologically confirmed HER2-negative breast cancer (defined as IHC 0-1 and/or FISH/CISH \\<2.2)\n3. Tumour size ≥1 cm as measured by ultrasound and/or mammogram\n4. Ability to under",
+      "endpoints": [
+        "Geometric mean suppression of proliferation marker Ki67"
+      ],
+      "sponsor": "St Vincent's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03906669"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00282087",
+      "title": "Adjuvant Treatment of High Risk Uterine Leiomyosarcoma With Gemcitabine/Docetaxel Followed by Doxorubicin: A Phase II Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2012-01",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "The purpose of this trial is to study the benefits of giving chemotherapy to women after they have had surgical resection of their primary disease and have no evidence of disease remaining(known as adjuvant therapy). The major objective of this study is to determine the progression free survival. The goal is to prevent relapse or recurrence of their uterine leiomyosarcoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ≥ 18 years of age\n* high risk uterine LMS, FIGO stage I or II\n* pathology review of LMS high grade and /or mitotic rate greater than or equal to 5 mitoses/10 hpf\n* no longer than 12 weeks from surgical resection of cancer\n* no evidence of residual disease\n* ECOG 0 or 1\n* ANC ≥",
+      "endpoints": [
+        "Two-year Progression-free Survival Among Women Treated With This Adjuvant Regimen for High Risk Uterine LMS"
+      ],
+      "sponsor": "Sarcoma Alliance for Research through Collaboration",
+      "url": "https://clinicaltrials.gov/study/NCT00282087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01798394",
+      "title": "Progesterone & Postpartum Relapse to Smoking",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2016-06",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "The primary goal of this project is to investigate the potential efficacy of exogenous progesterone (with supplemental relapse prevention counseling) on postpartum relapse in new mothers. Also to determine the feasibility of enhanced compliance monitoring and identification of collateral factors effecting outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Woman\n* 18-35 years old\n* Zero CPD for past 4 weeks\n* 5 or more CPD for at least 6 out of past 12 months\n* Motivated to remain abstinent (7 or higher out of 10)\n* Stable physical/mental health\n* Established prenatal care\n* Stable physical/mental health\n* Willing to take Proges",
+      "endpoints": [
+        "Number of Participants Who Relapsed by Week 4 Postpartum"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01798394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01070160",
+      "title": "Endometrial Effects of Metformin Action in Women With Polycystic Ovarian Syndrome (PCOS)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2013-07",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "The investigators aim is to conduct a prospective un-blinded pilot study of premenopausal women diagnosed with Polycystic Ovarian Syndrome (PCOS), defined using criteria developed at the 1990 NICHD conference on PCOS, undergoing treatment for ovulation induction with Metformin. We propose that improving insulin sensitivity with use of Metformin in women diagnosed with PCOS has facilitatory influences on the uterine endometrium.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Premenopausal between 18-42 years of age\n* Diagnosed with PCOS as defined by chronic oligo- or amenorrhea (8 menstrual periods annually); biochemical hyperandrogenemia (elevated total or free testosterone) and /or clinical hyperandrogenism (excessive facial hair \\&/or acne); e",
+      "endpoints": [
+        "It is anticipated that endometrial expression of implantation markers will be upregulated by metformin treatment compared to baseline and improved parameters will be identified with longer duration of metformin exposure. endometrium biopsy",
+        "It is anticipated that endometrial expression of implantation markers will be upregulated by metformin treatment compared to baseline and improved parameters will be identified with longer duration of metformin exposure. endometrium biopsy",
+        "It is anticipated that endometrial expression of implantation markers will be upregulated by metformin treatment compared to baseline and improved parameters will be identified with longer duration of metformin exposure. endometrium biopsy"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT01070160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01344837",
+      "title": "The Role of Synuclein-gamma (SNCG) in the Carcinogenesis of Uterine Papillary Serous Carcinoma",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2018-01",
+      "country": "United States",
+      "enrollment": 360,
+      "brief_summary": "This research study is studying biomarkers in blood and tissue samples from patients with uterine cancer. Studying samples of blood and tissue from patients with cancer in the laboratory may help doctors learn more about changes the occur in DNA and identify biomarkers related to cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women with uterine papillary serous carcinoma (UPSC) who were eligible for GOG-0210 protocol, a molecular staging study in endometrial cancer, or GOG-0136, a general specimen banking study for gynecologic cancer, have consented to future research, have histologically-confirmed",
+      "endpoints": [
+        "Overall survival"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT01344837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03018249",
+      "title": "A Randomized Surgical Window Pilot Investigation of the Relationship of Short Term Medroxyprogesterone Acetate (NSC #26386) Compared to Medroxyprogesterone Acetate Plus Entinostat (NSC #706995) on the Morphologic, Biochemical, and Molecular Changes in Primary Endometrioid Adenocarcinoma of the Uterine Corpus",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-10-11",
+      "completion_date": "2021-03-12",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This randomized surgical window trial evaluates the effect of adding entinostat to medroxyprogesterone acetate before surgery works on progesterone receptors on endometrioid endometrial tumors. Medroxyprogesterone acetate is a progesterone, a hormone produced by body normally. Entinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving medroxyprogesterone acetate with or without entinostat may effect tumors from endometrioid endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a histologically proven diagnosis of endometrioid endometrial adenocarcinoma by endometrial curettage or biopsy within 8 weeks prior to registration; central pathology review will be required as part of the study but not for registration purposes\n* History/p",
+      "endpoints": [
+        "Mean Post-treatment Tumor Progesterone Receptor H-score (Histology Score)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03018249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00063999",
+      "title": "Randomized Phase III Trial of Doxorubicin/Cisplatin/Paclitaxel and G-CSF Versus Carboplatin/Paclitaxel in Patients With Stage III &Amp; IV or Recurrent Endometrial Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-08-25",
+      "completion_date": "2021-01-05",
+      "country": "Japan, Canada, United States",
+      "enrollment": 1381,
+      "brief_summary": "This randomized phase III trial compares how well two different combination chemotherapy regimens (doxorubicin hydrochloride, cisplatin, and paclitaxel versus carboplatin and paclitaxel) work in treating patients with endometrial cancer that is stage III-IV or has come back (recurrent). Drugs used in chemotherapy such as doxorubicin hydrochloride, cisplatin, paclitaxel, and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have primary stage III or stage IV or recurrent endometrial carcinoma whose potential for cure by radiation therapy or surgery alone or in combination is very poor; pathological confirmation and estrogen receptor (ER)/progesterone receptor (PR) status of the prim",
+      "endpoints": [
+        "Number of Participants Alive at Time of Last Follow-up."
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00063999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03709849",
+      "title": "Effectiveness and Safety of Bushen Culuan Decoction for Anovulatory Infertility：A Clinical Research of \"Same Treatment for Different Diseases\"",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-02-01",
+      "completion_date": "2020-08-31",
+      "country": "N/A",
+      "enrollment": 528,
+      "brief_summary": "This study is to evaluate the effectiveness and safety of Bushen Culuan Decoction in the treatment of anovulatory infertility, including anovulatory abnormal uterine bleeding, polycystic ovarian syndrome, hyperprolactinemia, luteinized unruptured follicle syndrome, corpus luteum insufficiency and ovarian insufficiency, through a randomised, double-blinded, double-dummy, parallel positive controlled, adaptive multicenter clinical trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 21\\~40 years old;\n2. Diagnosed with infertility;\n3. Diagnosed with one of below diseases: anovulatory abnormal uterine bleeding, polycystic ovarian syndrome, hyperprolactinemia, luteinized unruptured follicle syndrome, corpus luteum insufficiency and ovarian insufficienc",
+      "endpoints": [
+        "Pregnancy Rate"
+      ],
+      "sponsor": "Xiyuan Hospital of China Academy of Chinese Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03709849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05091866",
+      "title": "Pilot Study of Subcutaneously Administered Natural Progesterone for the Treatment of Recurrent GBM",
+      "phase": "EARLY_PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-04-11",
+      "completion_date": "2027-04-01",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "This early phase I trial identifies the best dose, possible benefits and/or side effects of natural progesterone in treating patients with glioblastoma that has come back (recurrent). Progesterone is a type of hormone made by the body that plays a role in the menstrual cycle and pregnancy. Progesterone may help control tumor growth and spread in patients with glioblastoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have pathologic confirmation of a glioblastoma or gliosarcoma diagnosis at initial surgery or second or later surgery\n* Patients may have had up to two previous salvage agents administered for treatment of recurrent GBM (may be at 1st, 2nd or 3rd recurrence)\n* Pa",
+      "endpoints": [
+        "Natural progesterone blood levels",
+        "Incidence of adverse events",
+        "Overall response rate"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT05091866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01942668",
+      "title": "A Phase 3 Study Safety and Efficacy Study of the Combination Estradiol and Progesterone to Treat Vasomotor Symptoms in Postmenopausal Women With an Intact Uterus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-08-05",
+      "completion_date": "2016-10-28",
+      "country": "United States",
+      "enrollment": 1845,
+      "brief_summary": "This study will be a prospective, randomized, double-blind, placebo-controlled, parallel group, multicenter trial of postmenopausal subjects with an intact uterus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Be a female between the ages of 40 and 65 years (at the time of randomization) who is willing to participate in the study, as documented by signing the informed consent form.\n2. Be a postmenopausal woman with an intact uterus and a Screening serum estradiol level of ≤50 pg/mL",
+      "endpoints": [
+        "Co-Primary Efficacy Endpoint: Frequency of Moderate to Severe Vasomotor Symptoms (MITT-VMS)",
+        "Co-Primary Efficacy Endpoint: Frequency of Moderate to Severe Vasomotor Symptoms (MITT-VMS)",
+        "Co-Primary Efficacy Endpoint: Severity of Moderate to Severe Vasomotor Symptoms (MITT-VMS)"
+      ],
+      "sponsor": "TherapeuticsMD",
+      "url": "https://clinicaltrials.gov/study/NCT01942668"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03042897",
+      "title": "Endometrial Cancer and Obesity: An Exercise and Diet Intervention for Weight Loss",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2017-09-08",
+      "completion_date": "2019-07-31",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This pilot clinical trial studies exercise and diet intervention in promoting weight loss in obese patients with stage I endometrial cancer. Exercise and diet may cause weight loss and minimize the risk of gynecologic surgery related to being overweight in patients with endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical stage I EC\n* Low grade disease positive for estrogen and progesterone receptors\n* Body mass index (BMI) \\>= 30 kg/m\\^2\n* No history of any musculoskeletal, cardiorespiratory or neurological diseases that preclude the participation in exercise\n* Self ambulatory and wit",
+      "endpoints": [
+        "Cardiorespiratory Fitness (CRF)",
+        "Cardiovascular (CV) health outcomes",
+        "Depression measured by Center for Epidemiologic Studies Depression scale"
+      ],
+      "sponsor": "University of Southern California",
+      "url": "https://clinicaltrials.gov/study/NCT03042897"
+    }
+  ],
+  "timestamp": "2026-03-04T17:01:07.693912",
+  "success": true,
+  "error_message": null
+}

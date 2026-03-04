@@ -1,0 +1,573 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Famotidine",
+    "disease": "esophagitis",
+    "query_string": "Famotidine AND esophagitis"
+  },
+  "data": {
+    "query": "Famotidine AND esophagitis",
+    "results": [
+      {
+        "pmid": "9506245",
+        "title": "Rabeprazole.",
+        "abstract": "Rabeprazole is a proton pump inhibitor with antisecretory properties. In vitro animal experiments have indicated that the inhibition of the proton pump by rabeprazole is partially reversible. Rabeprazole has 2- to 10-fold greater antisecretory activity than omeprazole in vitro. However, it dissociates more readily from H+,K(+)-ATPase than omeprazole, resulting in a shorter duration of action. In comparative clinical trials rabeprazole was significantly more effective than placebo, famotidine or ranitidine and as effective as omeprazole in the treatment of patients with erosive or ulcerative gastro-oesophageal reflux disease or gastric or duodenal ulcers. Healing rates with rabeprazole were independent of Helicobacter pylori status. Rabeprazole in combination with either clarithromycin and metronidazole or clarithromycin and amoxicillin or amoxicillin and metronidazole or clarithromycin for 7 days produced eradication of H. pylori in 100, 95, 90 and 63% of patients. The tolerability pro",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Prakash A",
+          "Faulds D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Anti-Ulcer Agents",
+          "Benzimidazoles",
+          "Clinical Trials as Topic",
+          "Enzyme Inhibitors",
+          "Helicobacter Infections",
+          "Humans",
+          "Omeprazole",
+          "Peptic Ulcer",
+          "Proton Pump Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9506245/"
+      },
+      {
+        "pmid": "38610738",
+        "title": "Proton Pump Inhibitors and Cancer Risk: A Comprehensive Review of Epidemiological and Mechanistic Evidence.",
+        "abstract": "Background: Proton pump inhibitors (PPIs) are commonly prescribed long-acting drugs used to treat acid reflux, gastroesophageal reflux disease (GERD), and peptic ulcers. Recently, concerns have been raised about their safety, particularly due to the association between long-term PPI use and cancer development. Multiple comprehensive studies have consistently suggested a noteworthy link between prolonged PPI usage and an increased risk of developing gastric, esophageal, colorectal, and pancreatic cancers, yet the precise underlying mechanism remains elusive. Methods: First, we review the extensive body of research that investigates the intricate relationship between cancer and PPIs. Then, we predict PPI toxicity using the prodrug structures with the ProTox-II webserver. Finally, we predict the relative risk of cancer for each PPI, using PubMed citation counts of each drug and keywords related to cancer. Results: Our review indicates that prolonged PPI use (exceeding three months) is sig",
+        "journal": "Journal of clinical medicine",
+        "year": "2024",
+        "authors": [
+          "Sawaid Ibrahim O",
+          "Samson Abraham O"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38610738/"
+      },
+      {
+        "pmid": "12167115",
+        "title": "Randomized comparative study of omeprazole and famotidine in reflux esophagitis.",
+        "abstract": "Although proton pump inhibitors (PPI) and H2-receptor antagonists (H2-RA) are routinely used in the treatment of reflux esophagitis (RE), no consensus has been reached yet as to whether the first-choice drug should be PPI or H2-RA. In this study, the effects of omeprazole (OMP) and famotidine (FAM) on RE have been examined in a randomized comparative study.",
+        "journal": "Journal of gastroenterology and hepatology",
+        "year": "2002",
+        "authors": [
+          "Kawano Sunao",
+          "Murata Hiroaki",
+          "Tsuji Shingo",
+          "Kubo Mitsuhiko",
+          "Tatsuta Masaharu"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Evaluation Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Drug Evaluation",
+          "Enzyme Inhibitors",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Famotidine",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Histamine H2 Antagonists",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12167115/"
+      },
+      {
+        "pmid": "15683433",
+        "title": "Comparative study of nizatidine and famotidine for maintenance therapy of erosive esophagitis.",
+        "abstract": "The therapeutic effect of combined administration of prokinetics and histamine H2 receptor antagonists (H2RA) in gastroesophageal reflux disease is reported to be superior to that of monotherapy with H2RA alone. In addition to its acid-suppressing effect, the H2RA nizatidine also has a prokinetic action by suppressing acetylcholine esterase. The present multicenter, randomized controlled study was performed to investigate whether nizatidine is superior to famotidine, which does not suppress acetylcholine esterase activity, in maintenance therapy for erosive esophagitis. In addition, the question as to whether the grade of erosive esophagitis affects the non-recurrence rate during the maintenance therapy with H2RA was also investigated.",
+        "journal": "Journal of gastroenterology and hepatology",
+        "year": "2005",
+        "authors": [
+          "Hamamoto Naoharu",
+          "Hashimoto Tomoyuki",
+          "Adachi Kyoichi",
+          "Hirakawa Kazuya",
+          "Ishihara Shunji"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Famotidine",
+          "Female",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15683433/"
+      },
+      {
+        "pmid": "8853932",
+        "title": "Pharmacokinetics and pharmacodynamics of famotidine in paediatric patients.",
+        "abstract": "Famotidine, an H2 receptor antagonist, has several potential advantages over cimetidine and ranitidine. These advantages include its potency, relatively longer elimination half-life, and lack of interaction with the cytochrome P450 isoforms. Eight studies addressing the use of famotidine in paediatric patients have been published. Data from these studies demonstrate that the pharmacokinetics and pharmacodynamics of intravenous famotidine appear to be similar in both children over the age of 1 year and adults. These data support a starting paediatric dosage for intravenous famotidine of 0.5 mg/kg every 8 to 12 hours. In addition, the safety and efficacy of famotidine in the treatment of peptic ulcer disease and esophagitis in paediatric patients is supported by these studies involving over 150 children. Future studies with famotidine in paediatrics should address its disposition in children under the age of 1 year and in children with compromised renal function, as well as the bioavaila",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1996",
+        "authors": [
+          "James L P",
+          "Kearns G L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Ulcer Agents",
+          "Child",
+          "Child, Preschool",
+          "Famotidine",
+          "Gastric Acid",
+          "Gastric Mucosa",
+          "Half-Life",
+          "Histamine H2 Antagonists"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8853932/"
+      },
+      {
+        "pmid": "20632193",
+        "title": "A double-blind, controlled study comparing lafutidine with placebo and famotidine in Japanese patients with mild reflux esophagitis.",
+        "abstract": "This randomized, double-blind, controlled study examined whether lafutidine is superior to placebo and non-inferior to famotidine in terms of healing rates as assessed by endoscopy in Japanese patients with mild reflux esophagitis. Safety and improvement in symptoms of heartburn were also assessed.",
+        "journal": "Journal of gastroenterology",
+        "year": "2010",
+        "authors": [
+          "Ohara Shuichi",
+          "Haruma Ken",
+          "Kinoshita Yoshikazu",
+          "Kusano Motoyasu"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetamides",
+          "Double-Blind Method",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Famotidine",
+          "Female",
+          "Heartburn",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Japan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20632193/"
+      },
+      {
+        "pmid": "2573505",
+        "title": "Famotidine. An updated review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in peptic ulcer disease and other allied diseases.",
+        "abstract": "Famotidine is a highly selective histamine H2-receptor antagonist. In healthy volunteers and patients with acid hypersecretory disease it is approximately 20 to 50 times more potent at inhibiting gastric acid secretion than cimetidine and 8 times more potent than ranitidine on a weight basis. As shown in placebo-controlled trials, famotidine is effective in healing both duodenal and gastric ulcers. Famotidine 20mg twice daily or 40mg at bedtime achieves healing rates and symptom relief similar or superior to those achieved by cimetidine 800mg daily or ranitidine 300mg daily in patients with peptic ulcer disease. Results of 1 placebo-controlled study suggest that famotidine prevents recurrence of duodenal ulcer, but comparative trials are needed to establish its relative efficacy in maintenance therapy. The few non-comparative trials conducted to date also suggest that famotidine 10 to 20mg twice daily may be effective in the treatment of gastritis and reflux gastro-oesophagitis. In com",
+        "journal": "Drugs",
+        "year": "1989",
+        "authors": [
+          "Langtry H D",
+          "Grant S M",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2573505/"
+      },
+      {
+        "pmid": "8172144",
+        "title": "Comparison of omeprazole and famotidine on esophageal pH in patients with moderate to severe esophagitis: a cross-over study.",
+        "abstract": "This open cross-over study compared the effects on esophageal pH of omeprazole (O) (20 mg once a day) and famotidine (F) (40 mg b.i.d.) in 19 patients with proven acid gastroesophageal reflux (GER) complicated by erosive or ulcerated esophagitis.",
+        "journal": "The American journal of gastroenterology",
+        "year": "1994",
+        "authors": [
+          "Ducrotté P",
+          "Guillemot F",
+          "Elouaer-Blanc L",
+          "Hirschauer C",
+          "Thorel J M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Esophagitis",
+          "Esophagus",
+          "Famotidine",
+          "Female",
+          "Gastric Acid",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Hydrogen-Ion Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8172144/"
+      },
+      {
+        "pmid": "26176290",
+        "title": "Histamine-2 Receptor Antagonists and Semen Quality.",
+        "abstract": "Histamine-2 receptor antagonists are a class of drugs used to treat the acid-related gastrointestinal diseases such as ulcer and gastro-oesophageal reflux disease. Although such drugs, especially ranitidine and famotidine, are still widely used, their effects on semen quality, and hence on male infertility, is still unclear. This MiniReview systematically addresses and summarizes the effect of histamine-2 receptor antagonists (cimetidine, ranitidine, nizatidine and famotidine) on semen quality, particularly, on sperm function. Cimetidine appears to have adverse effects on semen quality. While the effects of ranitidine and nizatidine on semen quality are still controversial, famotidine does not appear to change semen quality. Therefore, additional studies will be required to clarify whether histamine-2 receptor-independent effects of these drugs play a role in semen quality as well as further clinical studies including direct comparison of the histamine-2 receptor antagonists.",
+        "journal": "Basic & clinical pharmacology & toxicology",
+        "year": "2016",
+        "authors": [
+          "Banihani Saleem A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Infertility, Male",
+          "Male",
+          "Receptors, Histamine H2",
+          "Sperm Count",
+          "Sperm Motility",
+          "Spermatozoa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26176290/"
+      },
+      {
+        "pmid": "19280112",
+        "title": "Comparison of the effects of omeprazole and famotidine in treatment of upper abdominal symptoms in patients with reflux esophagitis.",
+        "abstract": "The purpose of this study was to compare the efficacy of proton pump inhibitor (PPI) with H(2) receptor antagonist (H(2)RA) in treatment of upper abdominal symptoms.",
+        "journal": "Journal of gastroenterology",
+        "year": "2009",
+        "authors": [
+          "Kusunoki Hiroaki",
+          "Kusaka Masayasu",
+          "Kido Soichiro",
+          "Yamauchi Ryo",
+          "Fujimura Yoshinori"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Esophagitis, Peptic",
+          "Famotidine",
+          "Female",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19280112/"
+      },
+      {
+        "pmid": "8513846",
+        "title": "Pharmacokinetics and pharmacodynamics of famotidine in patients with reflux oesophagitis.",
+        "abstract": "The pharmacokinetics, pharmacodynamic effect and clinical efficacy of famotidine were studied in 10 patients with reflux oesophagitis Grades I and II. For the pharmacokinetic studies the patients received 20 mg famotidine i.v. The half-life of famotidine was 3.8 h, the total plasma clearance was 297 ml.min-1, and a steady state volume of distribution of 1.2 l.kg-1 was found. For pharmacodynamic assessment, intraoesophageal pH-metry was performed without and after acute treatment with famotidine 20 mg i.v. and following 3 weeks of oral famotidine 80 mg b.d. The resultant percentage total acid exposure time (pH < 4 within 24 h) were 23.9%, 19.0% and 19.2% (median), respectively (NS). At the end of 6 weeks of oral therapy, symptomatic and endoscopic improvement had occurred in 9 and 5 patients, respectively. Our study shows that the pharmacokinetics of famotidine in patients with reflux oesophagitis is comparable to that in healthy volunteers and peptic ulcer patients. The clinical respon",
+        "journal": "European journal of clinical pharmacology",
+        "year": "1993",
+        "authors": [
+          "Gladziwa U",
+          "Wagner S",
+          "Dakshinamurty K V",
+          "el Desoky E",
+          "Dreuw B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Esophagitis, Peptic",
+          "Famotidine",
+          "Female",
+          "Half-Life",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8513846/"
+      },
+      {
+        "pmid": "18457463",
+        "title": "Mosapride in gastrointestinal disorders.",
+        "abstract": "Mosapride was effective in improving overall symptoms in patients with gastrointestinal disorders, including chronic gastritis, gastro-oesophageal reflux disease and functional dyspepsia. Mosapride was more effective than teprenone in improving gastric stasis symptoms and gastric pain after 2 weeks of therapy (p < 0.001) in an open-label trial in 1042 patients with functional dyspepsia. Mosapride was as effective as famotidine and itopride, but more effective than tandospirone, in improving overall or individual symptoms of functional dyspepsia in randomized trials. However, in one randomized, double-blind trial in patients with mild to severe disease, the improvement in overall symptoms of functional dyspepsia did not differ significantly between mosapride or placebo treatment. Mosapride was well tolerated, with diarrhoea/loose stools, dry mouth, malaise and headache being reported in <5% of patients.",
+        "journal": "Drugs",
+        "year": "2008",
+        "authors": [
+          "Curran Monique P",
+          "Robinson Dean M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Benzamides",
+          "Dyspepsia",
+          "Gastritis",
+          "Gastroesophageal Reflux",
+          "Gastrointestinal Agents",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Morpholines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18457463/"
+      },
+      {
+        "pmid": "25532503",
+        "title": "Efficacy of Lafutidine Versus Famotidine in Patients with Reflux Esophagitis: A Multi-Center, Randomized, Double-Blind, Non-inferiority Phase III Trial.",
+        "abstract": "There has been no study on the efficacy of lafutidine for patients with reflux esophagitis in Korea.",
+        "journal": "Digestive diseases and sciences",
+        "year": "2015",
+        "authors": [
+          "Kim Eun Hye",
+          "Lee Yong Chan",
+          "Chang Young Woon",
+          "Park Jong-Jae",
+          "Chun Hoon Jai"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetamides",
+          "Adult",
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Double-Blind Method",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Famotidine",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25532503/"
+      },
+      {
+        "pmid": "1746996",
+        "title": "Famotidine relieves symptoms of gastroesophageal reflux disease and heals erosions and ulcerations. Results of a multicenter, placebo-controlled, dose-ranging study. USA Merck Gastroesophageal Reflux Disease Study Group.",
+        "abstract": "We conducted a double-blind, placebo-controlled, multicenter trial comparing the efficacy of famotidine 40 mg administered at bedtime (HS), 20 mg given twice daily (BID), and placebo to relieve heartburn and to heal endoscopically documented esophageal erosions or ulcerations. A total of 338 patients were randomized: 135 to receive famotidine 40 mg HS, 137 to receive famotidine 20 mg BID, and 66 to receive placebo. In the group given famotidine 20 mg BID, there was a significantly greater proportion of patients with complete relief of daytime heartburn, and both famotidine groups demonstrated statistically significant advantages over placebo in global scores or by successful outcome. Antacid consumption was significantly reduced in the group given famotidine 20 mg BID as compared with placebo. Both famotidine regimens resulted in a significantly greater proportion of patients with complete endoscopic healing than placebo, with the BID dosing being numerically superior to the 40-mg HS d",
+        "journal": "Archives of internal medicine",
+        "year": "1991",
+        "authors": [
+          "Sabesin S M",
+          "Berlin R G",
+          "Humphries T J",
+          "Bradstreet D C",
+          "Walton-Bowen K L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Esophagoscopy",
+          "Famotidine",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Heartburn",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1746996/"
+      },
+      {
+        "pmid": "1977703",
+        "title": "The medical management of reflux esophagitis. Role of antacids and acid inhibition.",
+        "abstract": "Of the more than 60 million adult Americans who have heartburn at least once a month, 60% choose over-the-counter medication rather than consulting their physician. Those individuals who do seek medical advice for reflux symptoms will probably receive a prescription for an H2-receptor antagonist, although in many instances simple life-style changes and occasional use of antacids may provide effective therapy. Patients who have severe esophagitis or reflux symptoms unresponsive to H2-receptor antagonists may be treated with a more potent antisecretory agent (proton pump inhibitor). The author discusses the role of antacids and acid inhibition in the treatment of gastroesophageal reflux disease. The results of the clinical trials with the H2-receptor antagonists, cimetidine, ranitidine, famotidine, and nizatidine, and the proton pump inhibitor omeprazole, are compared and contrasted.",
+        "journal": "Gastroenterology clinics of North America",
+        "year": "1990",
+        "authors": [
+          "Sontag S J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Omeprazole",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1977703/"
+      },
+      {
+        "pmid": "1577391",
+        "title": "Famotidine in gastroesophageal reflux disease (GERD).",
+        "abstract": "Famotidine, a potent and long-acting H2-receptor antagonist, has been evaluated in patients with gastroesophageal reflux disease (GERD). From intraesophageal pH monitoring and clinical studies, b.i.d. dosing of this selective compound is necessary for achieving adequate results. The results of large double-blind trials performed in patients with erosive reflux esophagitis compare favorably with those reported using cimetidine and ranitidine. Famotidine appeared to be effective in ranitidine-resistant patients with severe GERD, and achieved healing rates superior to ranitidine in a comparative trial. Recent data also show that long-term treatment with famotidine seems to be effective in preventing recurrence in most patients with healed reflux esophagitis. Famotidine is a very useful H2-receptor antagonist for the treatment of most patients with GERD.",
+        "journal": "Hepato-gastroenterology",
+        "year": "1992",
+        "authors": [
+          "Wesdorp I C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Esophagitis, Peptic",
+          "Famotidine",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Ranitidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1577391/"
+      },
+      {
+        "pmid": "12532466",
+        "title": "The effect of famotidine on gastroesophageal and duodeno-gastro-esophageal refluxes in critically ill patients.",
+        "abstract": "To investigate the effect of famotidine on gastroesophageal reflux (GER) and duodeno-gastro-esophageal reflux (DGER) and to explore it's possible mechanisms. To identify the relevant factors of the reflux.",
+        "journal": "World journal of gastroenterology",
+        "year": "2003",
+        "authors": [
+          "Xin Ying",
+          "Dai Ning",
+          "Zhao Lan",
+          "Wang Jian-Guo",
+          "Si Jian-Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Bile Reflux",
+          "Critical Illness",
+          "Famotidine",
+          "Female",
+          "Gastric Acid",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12532466/"
+      },
+      {
+        "pmid": "9085323",
+        "title": "Lansoprazole: a comprehensive review.",
+        "abstract": "Lansoprazole is the second member of the substituted benzimidazole class of antisecretory agents approved for use in the United States. These drugs decrease parietal cell acid secretion by inhibiting H+, K(+)-adenosine triphosphatase, the final step in the secretion of acid. Lansoprazole has been studied extensively for the short-term treatment of duodenal and gastric ulcers, reflux esophagitis, and Helicobacter pylori-positive peptic ulcer disease; long-term treatment of Zollinger-Ellison syndrome; and maintenance treatment of erosive esophagitis. A dosage of 30 mg/day produced higher healing rates and equivalent or faster relief of ulcer symptoms than ranitidine or famotidine in patients with duodenal or gastric ulcers and reflux esophagitis. Compared with omeprazole 20 mg/day, that dosage provided faster epigastric pain relief in these patients after 1 week, although healing rates for the two agents were equivalent at 4 and 8 weeks. In patients with peptic ulcer refractory to 8-week",
+        "journal": "Pharmacotherapy",
+        "year": "1997",
+        "authors": [
+          "Zimmermann A E",
+          "Katona B G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Anti-Ulcer Agents",
+          "Drug Interactions",
+          "Enzyme Inhibitors",
+          "Gastric Acid",
+          "Helicobacter Infections",
+          "Humans",
+          "Lansoprazole",
+          "Omeprazole",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9085323/"
+      },
+      {
+        "pmid": "9200279",
+        "title": "Ranitidine effervescent and famotidine wafer in the relief of episodic symptoms of gastro-oesophageal reflux disease.",
+        "abstract": "The aim of this study was to measure the efficacy of 150-mg ranitidine effervescent tablets compared with 20-mg famotidine wafers in the management of patients presenting to primary care physicians with episodic symptoms of gastro-oesophageal reflux disease (GORD).",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1997",
+        "authors": [
+          "Engzelius J M",
+          "Solhaug J H",
+          "Knapstad L J",
+          "Kjaersgaard P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Famotidine",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Patient Satisfaction",
+          "Ranitidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9200279/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:38:39.250978",
+  "success": true,
+  "error_message": null
+}

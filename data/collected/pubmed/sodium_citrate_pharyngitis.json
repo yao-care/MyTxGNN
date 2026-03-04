@@ -1,0 +1,47 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "pharyngitis",
+    "query_string": "Sodium Citrate AND pharyngitis"
+  },
+  "data": {
+    "query": "Sodium Citrate AND pharyngitis",
+    "results": [
+      {
+        "pmid": "11181329",
+        "title": "[67 Ga-citrate scintigraphy as a determiner in the diagnosis of a subacute thyroiditis].",
+        "abstract": "We present the case of a 41-year-old man admitted to the hospital with fever and toxic syndrome possibly having an oncological or infectious origin. A whole body scan with 67Ga-citrate showed an intense and diffuse radiotracer accumulation in the thyroid gland. The patient was re-evaluated and studied with other diagnostic tests including a thyroid 99mTc-pertechnetate scintigraphy and a thyroidal radioiodine uptake. A correct final diagnosis of painless subacute thyroiditis was made.",
+        "journal": "Revista espanola de medicina nuclear",
+        "year": "2001",
+        "authors": [
+          "Tembl A",
+          "Bernà L",
+          "Camacho V",
+          "Martín J C",
+          "Marí C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anorexia",
+          "Citrates",
+          "Deglutition Disorders",
+          "Diagnosis, Differential",
+          "Diagnostic Errors",
+          "Fever",
+          "Gallium",
+          "Gallium Radioisotopes",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11181329/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:25:17.966297",
+  "success": true,
+  "error_message": null
+}

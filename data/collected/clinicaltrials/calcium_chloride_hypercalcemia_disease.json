@@ -1,0 +1,500 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "hypercalcemia disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005834",
+      "title": "A Phase III Trial of Dexamethasone, Cyclophosphamide, Etoposide, Cisplatin (DCEP) and G-CSF With or Without Thalidomide (NSC #66847) as Salvage Therapy for Patients With Refractory Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2000-04",
+      "completion_date": "2007-11",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Thalidomide may stop the growth of tumor cells by stopping blood flow to the tumor. It is not yet known if combination chemotherapy is more effective with or without thalidomide for multiple myeloma.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of combination chemotherapy with or without thalidomide in treating patients who have refractory multiple myeloma",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically or cytologically confirmed stage I, II, or III multiple myeloma with protein criteria present Quantifiable M-components of IgG, IgA, IgD, IgE AND/OR Urinary kappa or lambda light chain excretion No IgM peaks Quantifiable monoclonal proteins Received at least 1",
+      "endpoints": [
+        "PFS"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00005834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00555906",
+      "title": "Phase 1/2 Open-label Study Of The Safety And Efficacy Of Pd 0332991 In Combination With Bortezomib And Dexamethasone In Patients With Refractory Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2013-03",
+      "country": "Czechia, Germany, United States",
+      "enrollment": 53,
+      "brief_summary": "This is a Phase 1/2 study evaluating the safety and anti-tumor activity of PD 0332991 in combination with Velcade® \\[bortezomib\\] and dexamethasone in patients who have received at least one previous treatment for multiple myeloma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of symptomatic multiple myeloma as defined by International Myeloma Working Group (IMWGURC).\n* Phase 1: Relapsed or relapsed/refractory myeloma after at least 1 previous treatments and with a life expectancy of more than 3 months.\n* Phase 2: Measurable (as defined by",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of PD-0332991: Phase 1",
+        "Recommended Phase II Dose (RP2D) of PD-0332991: Phase 1",
+        "Percentage of Participants With Objective Response (OR): Phase 2"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00555906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03772990",
+      "title": "Calcium Administration in Patients Undergoing Cardiac Surgery Under Cardiopulmonary Bypass (ICARUS Trial): Prospective Randomized, Double-blind Placebo-controlled Superiority Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-14",
+      "completion_date": "2025-08-13",
+      "country": "Bahrain, Saudi Arabia, Russia",
+      "enrollment": 818,
+      "brief_summary": "Termination of cardiopulmonary bypass is a critical step in any cardiac surgical procedure and requires a thorough planning. Debate about rationale of calcium administration during weaning of cardiopulmonary bypass has been conducted for several decades; however, a consensus has not been yet reached.\n\nPerioperative hypocalcemia can develop because of haemodilution or calcium binding from heparin, albumin and citrate. Perioperative hypocalcemia is often complicated by development of arrhythmias, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* surgery under cardiopulmonary bypass\n* valve or valve surgery + CABG\n* age \\> 18 years\n* signed informed consent\n\nExclusion Criteria:\n\n* emergency surgery\n* isolated aortic valve repair/replacement\n* planned (before surgery) blood transfusion\n* redo surgery\n* known allergy to ",
+      "endpoints": [
+        "Inotropic support"
+      ],
+      "sponsor": "Meshalkin Research Institute of Pathology of Circulation",
+      "url": "https://clinicaltrials.gov/study/NCT03772990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02852837",
+      "title": "A Phase 1, Open-label, Dose Escalation Study of JNJ-54767414 (Daratumumab) in Chinese Subjects With Relapsed or Refractory Multiple Myeloma Who Failed at Least 2 Prior Lines of Systemic Therapy",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-09-26",
+      "completion_date": "2019-12-13",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to evaluate the tolerability, safety and the pharmacokinetic (PK) profile of daratumumab in Chinese participants with relapsed or refractory multiple myeloma (RRMM) who failed at least 2 prior lines of systemic therapy (Part 1 and Part 2); and to evaluate the tolerability and safety of daratumumab in Chinese participants whose prior therapy included a proteasome inhibitor (PI) and an immunomodulatory drug (IMiD) and who have demonstrated disease progression on the la",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPart 1 and 2:\n\n* Chinese participant who must be at least 20 years of age\n* Documented multiple myeloma (MM) with measurable disease according to protocol-defined criteria\n* Relapsed or refractory multiple myeloma after receiving at least 2 prior lines of therapy\n* Eastern Coope",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs) as a Measure of Safety and Tolerability (Part 1,2 and 3)",
+        "Maximum Observed Plasma Concentration (Cmax) (Part 1 and 2)",
+        "Trough Analyte Concentration (Ctrough) (Part 1 and 2)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02852837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01134315",
+      "title": "A Prospective, Multicenter Study to Evaluate the Safety of Paricalcitol Capsules as Determined by Hypercalcemia in Pediatric Patients Ages 0 to 16 With Chronic Kidney Disease (CKD) Stage 5 Receiving Peritoneal Dialysis (PD) Within Current Clinical Practice",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2010-06",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 61,
+      "brief_summary": "The objective of this study was to observe the safety of paricalcitol utilization in pediatric participants (ages 0 to 16 years old) being treated for secondary hyperparathyroidism (SHPT). Participants were to be followed for a minimum of 3 months and up to approximately 36 months to monitor the incidence of hypercalcemia (high calcium levels in blood).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female between 0 to 16 years of age (inclusive), on peritoneal dialysis for at least 30 days.\n2. The patient has a history of secondary hyperparathyroidism as defined by having initiated a vitamin D receptor activator to treat an elevated parathyroid hormone level.\n3.",
+      "endpoints": [
+        "Percentage of Participants With at Least One Incidence of Hypercalcemia"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01134315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05781243",
+      "title": "Normal Saline Versus Lactated Ringer's Solution for Acute Pancreatitis Resuscitation, an Open-label Multicenter Randomized Controlled Trial: the WATERLAND Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-06-19",
+      "completion_date": "2024-09-30",
+      "country": "Spain",
+      "enrollment": 792,
+      "brief_summary": "Background: Some evidence suggests that fluid resuscitation with lactated Ringer's solution (LR) may have an anti-inflammatory effect on acute pancreatitis (AP) when compared to normal saline (NS), and may be associated with a decrease in severity, but existing single center randomized controlled trials showed conflicting results. The WATERLAND trial aims to investigate the efficacy and safety of fluid resuscitation using LR compared to NS in patients with AP.\n\nMethods: The WATERLAND trial is an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is 18 years or older\n* Diagnosis of acute pancreatitis according to the revision of the Atlanta classification (Banks et al, Gut 2013), which requires at least two of the following three criteria: A) typical abdominal pain, B) increase in serum amylase or lipase levels",
+      "endpoints": [
+        "Number of Participants with moderately severe or severe acute pancreatitis"
+      ],
+      "sponsor": "Hospital General Universitario de Alicante",
+      "url": "https://clinicaltrials.gov/study/NCT05781243"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06859580",
+      "title": "Bisphosphonate vs. Placebo Prior to Parathyroidectomy in Primary Hyperparathyroidisme: A Randomized, Double-blinded Placebo-controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-03-01",
+      "completion_date": "2028-02-01",
+      "country": "Denmark",
+      "enrollment": 140,
+      "brief_summary": "This study is a randomized, double-blinded, placebo-controlled trial investigating the effects of zoledronic acid (ZOL) versus placebo in patients with primary hyperparathyroidism (PHPT) undergoing parathyroidectomy (PTX). PHPT is a common endocrine disorder associated with hypercalcemia, reduced bone mineral density (BMD), increased fracture risk, renal calcifications, and cardiovascular complications. While PTX remains the definitive treatment, the potential role of bisphosphonates in optimizi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Postmenopausal females or males \\> 50 years\n2. A diagnosis of hyperparathyroid hypercalcemia due to sporadic PHPT referred to PTX\n3. aBMD T-score ≤ -1 at total hip, femoral neck, or lumbar spine\n4. 25-hydroxyvitamin D ≥ 50 nmol/l prior to randomization\n5. Willingness to under",
+      "endpoints": [
+        "Effects of ZOL vs. placebo at time of parathyroidectomy based on change in aBMD at lumbar spine meased at baseline compared to one year after PTX."
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT06859580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03068351",
+      "title": "Open-label, Multicenter, Dose-escalation/Expansion Phase Ib Study to Evaluate Safety, Pharmacokinetics, and Activity of BET Inhibitor RO6870810, Given as Mono- and Combination Therapy to Patients With Advanced Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-06-26",
+      "completion_date": "2019-08-01",
+      "country": "Australia, United Kingdom, United States",
+      "enrollment": 24,
+      "brief_summary": "This is a Phase Ib, open-label, multicenter, global study designed to assess the safety and tolerability of RO6870810 as monotherapy and in combination with daratumumab in participants with relapsed/refractory multiple myeloma. Each treatment cycle will be 21 days in length. There are two parts to this study. A dose-escalation phase (Part I) will be used to evaluate the safety and tolerability and dose limiting toxicities, and to establish the maximum tolerated dose (MTR)/optimum biological dose",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Performance status \\</=2 on the Eastern Cooperative Oncology Group (ECOG) scale\n* Life expectancy \\> 3 months\n* Relapsed or refractory multiple myeloma. Participants with primary refractory myeloma only allowed in dose-escalation phase of the study.\n* Prior treatment: Treated ",
+      "endpoints": [
+        "Number of Dose-Limiting Toxicities (DLTs)",
+        "Objective Response Rate (ORR)",
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT03068351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02226172",
+      "title": "A Phase 2, Double-blind, Randomized Safety And Efficacy Study Of Glasdegib (Pf-04449913) Versus Placebo In Patients With Myelofibrosis Previously Treated With Ruxolitinib",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-10-06",
+      "completion_date": "2018-01-31",
+      "country": "Japan, United States",
+      "enrollment": 21,
+      "brief_summary": "A lead-in cohort of \\~20 patients with primary or secondary myelofibrosis previously treated with 1 or more Janus kinase inhibitors enrolled to single-agent glasdegib to evaluate safety and tolerability. Following the lead-in, a phase 2, double blind, 2-arm study, randomized 2:1 to oral single-agent glasdegib versus placebo in 201 patients resistant or intolerant to ruxolitinib.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Diagnosis of primary MF (PMF) or secondary MF (PET-MF and PPV-MF) as per WHO 2008 criteria.\n* Lead-in cohort: resistant or intolerant to 1 or more Janus kinase inhibitors (licensed or experimental).\n* Randomized cohort: resistant or intolerant to prior ruxolitinib therapy. Doc",
+      "endpoints": [
+        "Percentage of Participants Achieving Spleen Volume Reduction (SVR) ≥35% as Measured by Magnetic Resonance Imaging (MRI)/Computed Tomography (CT) Scan at Week 24 in the Randomized Cohort",
+        "Number of Participants With Treatment -Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs): Lead-in Cohort",
+        "Number of Participants With Treatment Emergent Treatment -Related Adverse Events (AEs) and Serious Adverse Events (SAEs): Lead-in Cohort"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02226172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03422172",
+      "title": "An Open Label, Phase 1 Study to Evaluate the PK, Safety, Tolerability and Acceptability of Long Acting Injections of the HIV Integrase Inhibitor, Cabotegravir (CAB; GSK1265744) in HIV Uninfected Chinese Men",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-04-10",
+      "completion_date": "2020-04-20",
+      "country": "China",
+      "enrollment": 48,
+      "brief_summary": "The pre-exposure prophylaxis (PrEP) is an important component in the overall strategy for prevention of HIV infection. Cabotegravir (CAB) is an integrase strand transfer inhibitor currently in development for treatment and prevention of HIV infection. CAB possesses attributes that allow formulation and delivery as a LA parenteral product. CAB is being developed as both oral and long acting (LA) injectable formulations. This study is designed to evaluate the PK, safety, tolerability, and acceptab",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be 18 to 65 years of age inclusive, at the time of signing the informed consent.\n* Subjects are male at birth.\n* Subjects who have non-reactive point of care (POC) HIV test and undetectable HIV-1 ribose nucleic acid (RNA) at screening.\n* At risk of acquiring HIV,",
+      "endpoints": [
+        "Number of Participants With Non-serious Adverse Events (AEs) and Serious AEs (SAEs): Injection Phase",
+        "Number of Participants With Maximum Toxicity Post-Baseline in Hematology Parameters-Injection Phase",
+        "Number of Participants With Maximum Toxicity Post-Baseline in Chemistry Parameters: Injection Phase"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03422172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02954653",
+      "title": "A PHASE 1 DOSE ESCALATION STUDY TO EVALUATE THE SAFETY, PHARMACOKINETICS AND PHARMACODYNAMICS OF INTRAVENOUS PF-06747143, ADMINISTERED AS SINGLE AGENT OR IN COMBINATION WITH STANDARD CHEMOTHERAPY IN ADULT PATIENTS WITH ACUTE MYELOID LEUKEMIA",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2016-11-28",
+      "completion_date": "2017-12-05",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Two part, dose escalation and dose expansion study. Open label, multi center, non randomized, multiple dose, safety, pharmacokinetic and pharmacodynamic study of single agent PF-06747143 in sequential dose levels of adult patients with refractory or relapsed AML in order to establish maximum tolerated dose (MTD), recommended Phase 2 dose (RP2D) or maximally permitted dose (MPD) following by a 3 arm dose expansion with PF-06747143 in combination with standard of care chemotherapy in adult patient",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPart 1 and Part 2 cohort 3: Patients diagnosed with AML ( bone marrow (BM) or peripheral blood (PB) blast counts \\>/= 20%) and have received prior chemotherapy and/or standard of care and have relapsed, refractory or Minimal Residual Disease (defined as patients showing residual",
+      "endpoints": [
+        "Number of Participants With Dose-Limiting Toxicities (DLTs) [Part 1]",
+        "Number of Participants With Treatment-Emergent Adverse Events (AEs) [Part 2]",
+        "Number of Participants With Laboratory Abnormalities [Part 2]"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02954653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01850524",
+      "title": "A Phase 3, Randomized, Double-Blind, Multicenter Study Comparing Oral MLN9708 Plus Lenalidomide and Dexamethasone Versus Placebo Plus Lenalidomide and Dexamethasone in Adult Patients With Newly Diagnosed Multiple Myeloma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-04-29",
+      "completion_date": "2022-06-24",
+      "country": "South Korea, France, Russia, New Zealand, Canada, Belgium, United States",
+      "enrollment": 705,
+      "brief_summary": "The purpose of this study is to provide continued access to ixazomib and/or lenalidomide to participants who are continuing to have clinical benefit and to continue collecting relevant safety data to monitor safety in participants with Newly Diagnosed Multiple Myeloma (NDMM) who are not eligible for stem cell transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants 18 years or older diagnosed with Multiple Myeloma according to standard criteria who have not received prior treatment for multiple myeloma.\n2. Participants for whom lenalidomide and dexamethasone treatment is appropriate and who are not eligible f",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01850524"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00912938",
+      "title": "A Phase IV, Multi-center, Open Label, Single Arm Clinical Trial to Evaluate the Relationship of Bone Remodeling Markers for Skeletal Complications in Metastatic Breast Cancer Patients",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-12",
+      "completion_date": "2010-12",
+      "country": "South Korea",
+      "enrollment": 237,
+      "brief_summary": "to evaluate whether bone marker can provide the valuable predictor of skeletal complications and whether regular assessing of NTX(N-telopeptide of type I collagen) and osteocalcin can be useful in advanced breast cancer patients with bone metastasis receiving zoledronic acid.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with advanced breast cancer with radiographic confirmation of bone metastases (minimum of one bone scan lesion must be confirmed as metastatic on plain radiographs or CT/MR imaging)\n2. Men or women aged ≥ 18 years\n3. WHO (ECOG) performance status 0-2\n4. Women of chil",
+      "endpoints": [
+        "Urinary NTX and serum osteocalcin will be assessed at baseline, 3, 6, 9, and 12 months and when unexpected skeletal related events is detected."
+      ],
+      "sponsor": "Korean Breast Cancer Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT00912938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02652884",
+      "title": "Evaluation of Potential Benefits of Using Steroids in the Postoperative Transient Hypoparathyroidism Total Thyroidectomy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-01",
+      "completion_date": "2017-12",
+      "country": "Argentina",
+      "enrollment": 110,
+      "brief_summary": "The incidence of thyroid cancer (TC) has increased exponentially worldwide. The increase in diagnosed cases brings about an increase in the number of surgeries performed on the thyroid gland, especially total thyroidectomy (TT), given that at present is still the gold standard of treatment.\n\nTransient postoperative hypoparathyroidism (HPT) is one of the most frequent complications, with an incidence of between 10 and 46% according to different sources. HPT involves longer hospital stay, serial m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult\n* thyroidectomy postoperative\n* prepaid affiliate patients\n\nExclusion Criteria:\n\n* allergy\n* CKD\n* idiophatic thrombocytopenic purpura\n* hyperthyroidism\n* chronic use of corticoids\n* no follicular cancer, nonpapillary\n* refusal to participate",
+      "endpoints": [
+        "Postoperative Hypocalcemia"
+      ],
+      "sponsor": "Hospital Italiano de Buenos Aires",
+      "url": "https://clinicaltrials.gov/study/NCT02652884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03544281",
+      "title": "A Phase I/II, Open-label, Dose Escalation and Expansion Study to Evaluate Safety, Tolerability, and Clinical Activity of the Antibody-Drug Conjugate GSK2857916 Administered in Combination With Lenalidomide Plus Dexamethasone (Arm A), or Bortezomib Plus Dexamethasone (Arm B) in Participants With Relapsed / Refractory Multiple Myeloma - DREAMM-6",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-20",
+      "completion_date": "2024-02-28",
+      "country": "Spain, Australia, United Kingdom, Canada, United States",
+      "enrollment": 153,
+      "brief_summary": "This study will evaluate the safety and tolerability profile of belantamab mafodotin when administered in combination with approved regimens of either Lenalidomide Plus Dexamethasone \\[Len/Dex (Treatment A)\\] or Bortezomib Plus Dexamethasone \\[Bor/Dex (Treatment B)\\] in participants with RRMM, i.e., those who have relapsed or who are refractory to at least 1 line of approved therapy.\n\nParticipants receiving treatment A, may continue combination treatment until the occurrence of progressive disea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of giving signed informed consent.\n* Male or female, 18 years or older (at the time consent is obtained).\n* Have confirmed diagnosis of Multiple Myeloma (MM) as defined by the IMWG.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 for Arm A and ",
+      "endpoints": [
+        "Number of Participants With Dose Limiting Toxicities (DLTs), Treatment A",
+        "Number of Participants With DLTs, Treatment B",
+        "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03544281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00622505",
+      "title": "Bone Marker-directed Dosing of ZOMETA® (Zoledronic Acid) for the Prevention of Skeletal Complications in Patients With Advanced Multiple Myeloma.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-11-07",
+      "completion_date": "2012-04-03",
+      "country": "United States",
+      "enrollment": 121,
+      "brief_summary": "This study evaluated the effectiveness and safety of a dosing method for zoledronic acid in preventing skeletal complications in multiple myeloma participants who have been on an intravenous (IV) bisphosphonate for about one to two years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of multiple myeloma\n* Have been on zoledronic acid or pamidronate for 1-2 years and therapy must have been initiated for osteolytic lesion, bone fracture, spinal compression, or osteopenia due to multiple myeloma\n* Stable renal function\n\nExclusion Criteria:",
+      "endpoints": [
+        "Percentage of Participants With ≥1 SRE at the End of 1 Year on Study"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00622505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00950859",
+      "title": "A Pilot Study to Assess the Antiviral Activity of GSK1349572 Containing Regimen in Antiretroviral Therapy (ART)-Experienced, HIV-1-infected Adult Subjects With Raltegravir Resistance",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2015-01",
+      "country": "Spain, France, Italy, Canada, United States",
+      "enrollment": 51,
+      "brief_summary": "Integrase is an enzyme produced by HIV so that the virus can multiply in the human body. GSK1349572 is a new drug in the integrase inhibitor class that prevents the enzyme from working properly and therefore prevents the virus from multiplying.\n\nGSK1349572 has shown to be effective against viruses in a short-term monotherapy study in adults with no previous exposure to integrase inhibitors. The purpose of this study is to determine whether GSK1349572 is effective in the treatment of HIV-infected",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected male or female adults at least 18 years of age with a plasma HIV-1 RNA \\> 1,000 copies/mL at study entry. Women capable of becoming pregnant must use appropriate contraception during the study (as defined by the protocol)\n* ART-experienced (defined as on stable ",
+      "endpoints": [
+        "Number of Participants Who Achieved HIV-1 RNA <400 Copies (c)/Milliliter (mL) or at Least 0.7 log10 c/mL Below Their Baseline Value at Day 11"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00950859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06930391",
+      "title": "Effect of Extracellular Calcium on Carbetocin Mediated Contractility in Human Myometrium: An Ex-Vivo Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-15",
+      "completion_date": "2026-06",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "Postpartum hemorrhage (PPH) continues to be an increasing problem globally. Uterotonics play an essential role in the pharmacological management of uterine atony. Carbetocin, a long acting analog of oxytocin has been recommended as a first line uterotonic for PPH prophylaxis at cesarean delivery. Considering many woman have associated comorbidities and are at high risk of PPH, finding alternative pharmacological agents is essential. Calcium is a key factor for myometrial contractions and calcium",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* non-laboring women with gestational age between 37 to 41 weeks\n* not exposed to exogenous oxytocin, scheduled for a primary or first repeat cesarean delivery under neuraxial anesthesia.\n\nExclusion criteria:\n\n* patients requiring general anesthesia\n* more than 1 previous cesare",
+      "endpoints": [
+        "Motility index"
+      ],
+      "sponsor": "Samuel Lunenfeld Research Institute, Mount Sinai Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06930391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02688764",
+      "title": "An Open-label, Randomised, Active-controlled, Parallel Group, Multicentre, Phase 3 Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent CKD Patients With Hyperphosphataemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2016-05-26",
+      "completion_date": "2019-02-21",
+      "country": "France, Russia, Germany, Romania, Poland, Lithuania, United States",
+      "enrollment": 85,
+      "brief_summary": "This is a Phase 3, Open-label, Randomised, Active-controlled, Parallel Group, Multicentre Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent CKD Patients with Hyperphosphataemia. The aim of this Phase 3 clinical study is to demonstrate similar efficacy of PA21 (Velphoro) in paediatric and adolescent patients with CKD, and to provide safety and dosing information for this patient population. The Phoslyra (comparator) group",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects 0 to \\<18 years at time of consent.\n2. Subjects with hyperphosphataemia\n3. Subjects ≥1 year with CKD Stages 4-5 defined by a glomerular filtration rate \\<30 mL/min/1.73 m2 or with CKD Stage 5D receiving adequate maintenance haemodialysis (HD) or peritoneal dialysis (",
+      "endpoints": [
+        "Change in Serum Phosphorus Level From Baseline to the End of Stage 1 in the PA21 Group",
+        "Number and Percentage of Participants Who Withdrew Due to Treatment Emergent Adverse Events",
+        "Number and Percentage of Participants With Any Treatment Emergent Adverse Event"
+      ],
+      "sponsor": "Vifor Fresenius Medical Care Renal Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02688764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04209179",
+      "title": "A Randomized, Double-Blind, Multiple Ascending Oral Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of PCO371 in Patients With Hypoparathyroidism",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2020-07-23",
+      "completion_date": "2021-05-25",
+      "country": "Canada, Hungary, United States",
+      "enrollment": 5,
+      "brief_summary": "This is a multi-center, placebo-controlled, randomized, double-blind, multiple-ascending dose study in patients with hypoparathyroidism.\n\nThe total duration of study medication treatment will be 13 weeks and includes a Fixed-Dose Treatment period and a Dose Titration Treatment period. The Fixed-Dose Treatment period consists of multiple daily dosing at a fixed dose level. Once patients have completed the Fixed-Dose Treatment period, patients will enter the Dose Titration Treatment period where P",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able and willing to provide written informed consent, to use the device for PRO and electronic diary and to comply with the requirements of the protocol.\n2. Adult males or females ≥18 years of age\n3. History of hypoparathyroidism for more than 1-year post initial diagnosis\n4.",
+      "endpoints": [
+        "Treatment-emergent adverse events",
+        "Selected adverse events",
+        "Clinically significant change in the safety parameters; vital signs"
+      ],
+      "sponsor": "Chugai Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT04209179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03080831",
+      "title": "TOnicity of Perioperative Maintenance SoluTions - Part 1: Thoracic Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-03-09",
+      "completion_date": "2018-07-15",
+      "country": "Belgium",
+      "enrollment": 70,
+      "brief_summary": "Prospective randomized double blind phase IV trial studying the efficacy and safety of the tonicity of two different perioperative maintenance solutions: an isotonic solution containing NaCl 0.9 in glucose 5% with an added 40 mmol/L of potassium or a commercially available premixed solution (Glucion 5%) containing a.o. 54 mmol/L of sodium and 26 mmol/L of potassium. Both solutions are administered at 27 mL/kg of ideal body weight, as recommended by current guidelines (NICE 174) and both solution",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult (at least 18 y.o.)\n* Undergoing elective lung resection (wedge resection, segmental resection, (bi)lobectomy, but not pneumonectomy) via thoracotomy or video- or robot assisted (VATS, RATS)\n* Normal renal function (eGFR \\>60 ml/min/1.73m² (CKD-EPI))\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Fluid balance"
+      ],
+      "sponsor": "University Hospital, Antwerp",
+      "url": "https://clinicaltrials.gov/study/NCT03080831"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01382212",
+      "title": "A Phase 3, Open-Label, Multicenter Study to Evaluate the Safety of Paricalcitol Capsules in Pediatric Subjects Ages 10 to 16 With Stage 5 Chronic Kidney Disease Receiving Peritoneal Dialysis or Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2015-04",
+      "country": "N/A",
+      "enrollment": 13,
+      "brief_summary": "The objective is to evaluate the safety of paricalcitol capsules in pediatric subjects, ages 10 to 16 years old, with Stage 5 chronic kidney disease (kidney failure) receiving peritoneal dialysis or hemodialysis and being treated for secondary hyperparathyroidism. Subjects will be in the dosing period of the study for 12 weeks in order to evaluate the incidence of hypercalcemia (high calcium levels in blood). Approximately 12 subjects will be enrolled and all 12 will receive paricalcitol capsule",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be receiving peritoneal dialysis or hemodialysis for at least 3 months prior to Screening\n* Subject is currently being diagnosed and/or treated for secondary hyperparathyroidism\n* For entry into the Dosing Period (for subjects that are naïve to Vitamin D Receptor ",
+      "endpoints": [
+        "Percentage of Subjects With Hypercalcemia"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01382212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04102371",
+      "title": "Pragmatic Pediatric Trial of Balanced Versus Normal Saline Fluid in Sepsis",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-08-25",
+      "completion_date": "2026-08-31",
+      "country": "United States",
+      "enrollment": 8800,
+      "brief_summary": "The objectives of this multicenter pragmatic clinical trial are to compare the effectiveness and relative safety of balanced fluid resuscitation versus 0.9% \"normal\" saline in children with septic shock, including whether balanced fluid resuscitation can reduce progression of kidney injury.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females age \\>2 months to \\<18 years\n2. Clinician concern for septic shock, operationalized as:\n\n   1. a \"positive\" ED sepsis alert confirmed by a physician OR\n   2. physician decision to treat for septic shock OR\n   3. a physician diagnosis of septic shock requiring",
+      "endpoints": [
+        "Proportion of participants with Major Adverse Kidney Events within 30 days (MAKE30)"
+      ],
+      "sponsor": "Children's Hospital of Philadelphia",
+      "url": "https://clinicaltrials.gov/study/NCT04102371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04776018",
+      "title": "A Phase 1b/2 Open-Label, Multicenter Study to Evaluate the Safety and Efficacy of TAK-981 in Combination With Monoclonal Antibodies in Adult Patients With Relapsed and/or Refractory Multiple Myeloma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-04-20",
+      "completion_date": "2023-11-09",
+      "country": "Canada, United States",
+      "enrollment": 27,
+      "brief_summary": "TAK-981 is being tested in combination with anti-CD38 monoclonal antibodies (mAbs) to treat participants who have relapsed or refractory multiple myeloma (RRMM).\n\nThe main aims of the study are to evaluate the safety and efficacy of TAK-981 in combination with anti-CD38 (mAbs) and to determine the recommended Phase 2 dose (RP2D).\n\nParticipants will be on this combination treatment for 28-day cycles. They will continue with this treatment until disease progression or unacceptable toxicity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants must have RRMM with measurable disease:\n\n   a) Has measurable disease defined as one of the following:\n   * Serum M-protein ≥0.5 g/dL (≥5 g/L).\n   * Urine M-protein ≥200 mg/24 hours.\n   * In participants without measurable M-protein in serum protein electrophores",
+      "endpoints": [
+        "Phase 1b, Part 1: Number of Participants With One or More Treatment Emergent Adverse Events (TEAEs)",
+        "Phase 1b, Part 1: Number of Participants With Grade 3 or Higher TEAEs",
+        "Phase 1b, Part 1: Number of Participants With Dose Limiting Toxicities (DLTs) Based on NCI CTCAE Version 5.0"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT04776018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06494007",
+      "title": "Reducing Diltiazem-Related Hypotension in Atrial Fibrillation: The Role of IV Calcium Pretreatment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-01-01",
+      "completion_date": "2024-07-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 217,
+      "brief_summary": "The objective of this study is to examine the efficacy and safety of IV calcium pretreatment at varying doses prior to weight-adjusted IV Diltiazem on the incidence of Diltiazem-related hypotension in adult patients presenting to the Emergency Department due to Atrial Fibrillation with Rapid Ventricular Response. Specifically, we tested the hypothesis that patients with Atrial Fibrillation who receive IV calcium pretreatment prior to IV Diltiazem suffer less hypotension than those receiving Dilt",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged ≥ 18 years\n* Patients with documented AFib/AFL (confirmed by ECG)\n* Patients with a Heart Rate of ≥ 120 bpm, and a Systolic Blood Pressure of ≥ 90 mmHg\n\nExclusion Criteria:\n\n* Patients under 18 years of age\n* pregnant individuals\n* Patients with hemodynamic insta",
+      "endpoints": [
+        "Change in Systolic blood pressure before and after treatment"
+      ],
+      "sponsor": "Haseki Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06494007"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02622607",
+      "title": "Preventive Effects of Zoledronic Acid on Bone Metastasis in Patients With Stage IIIB and IV Lung Cancer",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2013-01",
+      "completion_date": "2018-03",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "Bone metastases are common in patients with advanced lung cancer and can have devastating consequences. Preventing or delaying bone metastases may improve outcomes. Bisphosphonates are inhibitors of osteoclast-mediated bone resorption. The current indications for bisphosphonates include the treatment of metabolic disorders of bone metabolism (e.g., osteoporosis and Paget's disease), the treatment of hypercalcaemia of malignancy (HCM), and the prevention of skeletal-related events(SREs）from malig",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 70 years of age, male or female\n2. histologically or cytologically confirmed stage IIIB or IV lung cancer at diagnosis\n3. no evidence of bone metastatic lesions was radiographically confirmed by bone scintigraphy\n4. life expectancy of ≥6 months\n5. adequate ",
+      "endpoints": [
+        "Percentage of Participants With Bone Metastases at 12 Months"
+      ],
+      "sponsor": "Tang-Du Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02622607"
+    }
+  ],
+  "timestamp": "2026-03-04T16:34:05.855452",
+  "success": true,
+  "error_message": null
+}

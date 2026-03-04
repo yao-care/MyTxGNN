@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Beclomethasone Dipropionate",
+    "drugbank_id": "DB00394"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 27
+  },
+  "indications": [
+    {
+      "disease": "asthma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 17,
+      "phase2": 8,
+      "phase4": 10
+    },
+    {
+      "disease": "allergic asthma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 8,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 1,
+      "phase4": 4
+    },
+    {
+      "disease": "rhinitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 23,
+      "articles": 20,
+      "phase3": 13,
+      "phase2": 4,
+      "phase4": 2
+    },
+    {
+      "disease": "intrinsic asthma",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 15,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "vasomotor rhinitis",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 15,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

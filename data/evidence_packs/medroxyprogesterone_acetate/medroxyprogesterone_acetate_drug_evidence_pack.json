@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Medroxyprogesterone Acetate",
+    "drugbank_id": "DB00603"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 7
+  },
+  "indications": [
+    {
+      "disease": "uterine corpus cancer",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 5,
+      "articles": 20,
+      "phase3": 1,
+      "phase2": 2,
+      "phase4": 1
+    },
+    {
+      "disease": "endometrial cancer",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 43,
+      "articles": 20,
+      "phase3": 9,
+      "phase2": 22,
+      "phase4": 5
+    },
+    {
+      "disease": "endometriosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 10,
+      "articles": 19,
+      "phase3": 1,
+      "phase2": 4,
+      "phase4": 2
+    },
+    {
+      "disease": "endometriosis of uterus",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 4,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "postmenopausal atrophic vaginitis",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 3,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

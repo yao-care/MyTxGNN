@@ -6,7 +6,7 @@ drug_name: "Magnesium Trisilicate"
 kg_predictions: 65
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 65
+indication_count: 5
 brands: []
 permalink: /drugs/magnesium-trisilicate/
 ---

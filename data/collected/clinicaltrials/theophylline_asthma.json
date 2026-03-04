@@ -1,0 +1,905 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00252863",
+      "title": "A Comparison of Symbicort Single Inhaler Therapy (Symbicort Turbuhaler 160/4.5 µg, 1 Inhalation b.i.d. Plus as Needed) and Conventional Best Practice for the Treatment of Persistent Asthma in Adults - a 26-Week, Randomised, Open-Label, Parallel-Group, Multicentre Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2006-05",
+      "country": "Germany",
+      "enrollment": 1600,
+      "brief_summary": "The purpose of this study is to determine whether Symbicort dosed according to the Symbicort Maintenance and Reliever Therapy (SMART) concept is superior to standard asthma treatment according to the local German treatment guidelines.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with asthma, either well-controlled on a regular therapy with a combination of long-acting beta-agonists and inhaled corticosteroids or symptomatic on therapy with inhaled corticosteroids alone.\n\nExclusion Criteria:\n\n* Any other significant lung disease other than ast",
+      "endpoints": [
+        "Time to first severe asthma exacerbation"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00252863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02733016",
+      "title": "Seinäjoki Adult Asthma Study: A 12-year Real-life Follow-up Study of New-onset Asthma Diagnosed at Adult Age and Treated in Primary and Specialized Care. Finnish Title: Diagnoosista Hoitotasapainoon: Voidaanko Aikuisen Astman Hoitotasapainoa Ennustaa Diagnoosivaiheen löydösten ja Astman Ilmiasun Perusteella?",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1999-10",
+      "completion_date": "",
+      "country": "Finland",
+      "enrollment": 259,
+      "brief_summary": "Seinäjoki Adult Asthma Study is a single-centre 12-year follow-up study of a total cohort of 259 patients having new-onset asthma that was diagnosed at adult age. The study was divided in two parts: the collection of the original cohort (phase I;n=259) and follow-up visit (phase II; n=203). The aim of this study is to increase the understanding on the diagnostics and diagnostic process, organisation of the long-term asthma care, therapeutic outcomes, prognosis and the factors affecting the progn",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of new-onset asthma made by a respiratory specialist\n* Diagnosis confirmed by at least one of the following objective lung function measurements\n\n  * FEV1 (forced expiratory volume in one second) reversibility in spirometry of at least 15% and 200 ml\n  * Diurnal va",
+      "endpoints": [
+        "Asthma control at follow-up visit"
+      ],
+      "sponsor": "Seinajoki Central Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02733016"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000578",
+      "title": "NHLBI/NICHD Collaborative Studies of Asthma in Pregnancy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1994-04",
+      "completion_date": "2000-10",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "To conduct a collaborative program of research on asthma and pregnancy consisting of two studies: the Asthma in Pregnancy Study (APS) was an observational study to evaluate relationships between asthma severity and treatment programs and perinatal outcome, and the Asthma Therapy in Pregnancy Trial (ATPT) was a randomized clinical trial of inhaled beclomethasone versus theophylline in the treatment of moderate asthma during pregnancy. Both studies were conducted in the Maternal-Fetal Medicine Uni",
+      "eligibility_criteria": "Asthmatic pregnant women.",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01875003",
+      "title": "A Study of Lebrikizumab in Adolescent Participants With Uncontrolled Asthma Who Are on Inhaled Corticosteroids and a Second Controller Medication",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-08-31",
+      "completion_date": "2016-12-28",
+      "country": "Brazil, Spain, Mexico, Peru, Canada, Taiwan, Hungary, Slovakia, Germany, Portugal, Israel, South Korea, South Africa, Ukraine, Poland, Colombia, Argentina, Japan, United States, France, Czechia, Italy, United Kingdom",
+      "enrollment": 348,
+      "brief_summary": "This randomized, multicenter, double-blind, placebo-controlled, parallel-group study will evaluate the efficacy, safety, and tolerability of lebrikizumab in adolescent participants with asthma whose disease remains uncontrolled despite daily treatment with inhaled corticosteroids (ICS) therapy and at least one second controller medication. Participants will be randomized in a 1:1:1 ratio to receive double-blind treatment with either lebrikizumab ('High' or 'Low') or placebo, administered as subc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Asthma diagnosis for greater than or equal to (\\>/=) 12 months prior to Visit 1\n* Bronchodilator response during screening\n* Pre-bronchodilator FEV1 of 40 percent (%) - 90% predicted at both Visits 2 and 3\n* On high dose ICS therapy for \\>/= 6 months prior to Visit 1\n* On an e",
+      "endpoints": [
+        "Rate of Asthma Exacerbations During the 52-Week Placebo-Controlled Period",
+        "Percentage of Participants With Adverse Events (AEs) or Serious AEs",
+        "Percentage of Participants With Anti-Therapeutic Antibodies to Lebrikizumab"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01875003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02537691",
+      "title": "A Prospective, Single Arm, Longitudinal Cohort Study To Assess Biomarkers In Real World Patients With Severe Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-08-28",
+      "completion_date": "2017-07-10",
+      "country": "Bulgaria, France, Spain, Russia, Italy, Hungary, Denmark, Germany, Latvia, Netherlands, Portugal, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 483,
+      "brief_summary": "Prospective, single-arm, longitudinal, international, multicenter study in a real-world cohort of adult severe asthma participants being conducted to assess the relationships between asthma biomarkers and asthma-related health-outcomes for a period of 52 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Asthma diagnosed by a respiratory physician greater than or equal to (\\>/=) 12 months prior to study enrolment\n* Pre-bronchodilator FEV1 of 30 percent (%) to 85% at baseline/Visit 1\n* Documented bronchodilator response defined as \\>/=12% relative improvement in FEV1 after bron",
+      "endpoints": [
+        "Mean Number of Asthma Exacerbations in Participants With High Baseline Periostin Compared to participants With Low Baseline Periostin"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02537691"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729351",
+      "title": "Comparative Effectiveness of Extrafine Hydrofluoroalkane Beclometasone Versus Fluticasone and Chlorofluorocarbon Beclometasone in Smoking Asthma - a Retrospective, Real-life Observational Study in a UK Primary Care Asthma Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-06",
+      "country": "N/A",
+      "enrollment": 7195,
+      "brief_summary": "To evaluate the comparative effectiveness of extrafine hydrofluoroalkane beclometasone (EF HFA-BDP) and other inhaled corticosteroid (ICS) therapy commonly used in the UK, specifically fluticasone (FP) and non-extrafine (NEF) BDP (CFC-BDP and NEF HFA-BDP) in a UK primary care asthma population of current smokers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 16-70 years\n* Current smokers - explicitly coded in patient records or captured in patient questionnaires\n* Evidence of asthma diagnosis and current therapy: ≥2 prescriptions for asthma at different points in time during the baseline year ± a diagnostic code for asthma\n* ",
+      "endpoints": [
+        "Asthma Control proxy incorporating SABA use",
+        "Asthma Exacerbations (ATS Definition)"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01729351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01242098",
+      "title": "Retrospective, Real-life Observational, Matched Cohort Evaluation of the Effectiveness of BDP/FOR (Fostair® 100/6) and FP/SAL (Seretide® 125) in Patients Switching From Seretide to Fostair in UK Primary Care Asthma Management",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2011-12",
+      "country": "United Kingdom",
+      "enrollment": 137,
+      "brief_summary": "The purpose of this study is to evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged:\n\n  * 18-60 years:\n  * 61-80 years who are never-smokers\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, or\n  * ≥2 prescriptions for asthma at different points in time during the prior year\n* Baseline FP/SAL therapy:\n\n  * ≥2 prescription for ICS/LABA therapy as F",
+      "endpoints": [
+        "Exacerbation rate"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01242098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06472310",
+      "title": "An Observational Multicenter Cross-sectional Study of Patients With Uncontrolled Severe Asthma in the Population of the Russian Federation",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-06-06",
+      "completion_date": "2027-06-30",
+      "country": "Russia",
+      "enrollment": 5000,
+      "brief_summary": "This study is an observational multicenter cross-sectional study. Planned study population consists of 5 000 adult patients with uncontrolled SA receiving treatment according to standard of care (except biologics). Planned number of study site is 50 outpatient centers with experience of uncontrolled SA treatment in about 50 regions of Russia (in order to describe characteristics of patients with uncontrolled SA in different regions in the most comprehensive way). This non-interventional study do",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of inclusion;\n2. Signed and dated written informed consent in accordance with ICH GCP and local law prior to inclusion in the study;\n3. Patients with diagnosis of uncontrolled SA (Asthma Control Questionnaire-5 (ACQ-5) score \\> 1,5) established no l",
+      "endpoints": [
+        "To characterise the profile of routine therapy used for patients with uncontrolled SA not receiving biological therapy in proportion of patients receiving different classes of drugs will be calculated",
+        "To determine the pattern and trends of OCS prescription",
+        "To describe clinical and demographic characteristics of patients with uncontrolled SA not receiving biological therapy in Russian Federation mean age at the inclusion into the study will be collected"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT06472310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03387722",
+      "title": "Assessment of Treatment Patterns of Severe Asthmatic Patients Across the Gulf Region - SevEos Study SevEos is a Cross-sectional, Multi-center, Non-interventional Study Aimed to Describe the Treatment Patterns in 250 Severe Asthma Patients Across the Gulf Region.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-12-31",
+      "completion_date": "2019-01-03",
+      "country": "United Arab Emirates, Oman",
+      "enrollment": 253,
+      "brief_summary": "SevEos is a cross-sectional, multi-center, non-interventional study aimed to describe the treatment patterns in 250 severe asthma patients across the Gulf region. In addition, the study will determine the current level of asthma control and quality of life in these patients; describe the exacerbation patterns; and determine the current levels of blood eosinophils for the enrolled patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be included in this study, patients (both male and female) must fulfill all of the following criteria:\n\n1. Age above 12 years.\n2. Body weight of ≥40 kg.\n3. Diagnosed by a physician with severe asthma, who requires regular treatment with medium or high dosage Inhaled Corticost",
+      "endpoints": [
+        "Asthma treatment and its patterns through generic names.",
+        "Asthma treatment and its patterns through dosage"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT03387722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02346292",
+      "title": "Observational Multicenter Non-interventional Study on COPD Patients Treatment Strategies at the Time of Hospital Discharge and Within 12 Months of Follow-up on an Outpatient Primary Care Basement",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-03-31",
+      "completion_date": "2016-12-30",
+      "country": "Russia",
+      "enrollment": 1250,
+      "brief_summary": "The study is an observational multicenter descriptive study. It is planned to enroll approximately 1250 subjects with severe and very severe COPD hospitalized for the reason of COPD exacerbation into departments of pulmonology or therapy. The study will be conducted in approximately 20-25 institutions of treatment and prevention in Russian Federation and will include about 50 to 60 subject at each clinical site.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent . Men and women at least 40 years old, with smoking history more than 10 pack-years.\n* Hospitalization for the reason of COPD exacerbation (exacerbation defined as acute condition, different from typical fluctuations of general condition and requiring c",
+      "endpoints": [
+        "Percentage of subjects with severe and very severe COPD who received prescription of therapy, including different schemes of inhaled glucocorticoids use, according to main principles of COPD therapy (GOLD 2014 recommendations)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02346292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02048930",
+      "title": "Effectiveness and Cost-effectiveness Evaluation of Easyhaler Versus Other Devices in a Real World Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2013-03",
+      "country": "N/A",
+      "enrollment": 24003,
+      "brief_summary": "The aim of this study is to compare the clinical effectiveness and cost-effectiveness of the Easyhaler® (EH) device and other DPI devices commonly used in the UK in a UK primary care asthma population of patients aged 6 to 80 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must also meet the following inclusion criteria:\n* (1) Aged: 6-80 years - stratified 6-11 years; 12-60 years; ≥61 years to allow paediatrics and adolescent / adult sub analyses; and to allow for the exclusion of elderly (aged 61+) smokers and ex-smokers if required.\n*",
+      "endpoints": [
+        "asthma control (excluding SABA usage)",
+        "exacerbations (ATS definition)",
+        "exacerbations (Clinical definition)"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT02048930"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01908075",
+      "title": "REACH Fostair vs Seretide - Real-world Effectiveness of Combination Therapies in Primary Care Asthma Management",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-01",
+      "completion_date": "2013-03",
+      "country": "N/A",
+      "enrollment": 194723,
+      "brief_summary": "To evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 18-80 years 61-80 years to be non-smokers only\n* Evidence of asthma: a diagnostic code for asthma or two scripts for asthma..\n* Baseline FP/SAL therapy: ≥2 prescription for ICS/LABA therapy as FP/SAL\n* Evidence of Continuing Therapy: Include only patients who receive ≥2 ",
+      "endpoints": [
+        "Exacerbations : rate ratio"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01908075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04946318",
+      "title": "A 24-week, Multicenter, Randomized, Double-blind, Parallel-arm, Placebo-controlled Extension Study to Assess the Safety of CSJ117, When Added to Existing Standard of Care Asthma Therapy in Patients ≥18 Years of Age",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-09-08",
+      "completion_date": "2022-09-08",
+      "country": "Bulgaria, Philippines, Czechia, Russia, Hungary, Slovakia, Germany, Latvia, Poland, Canada, Argentina, Japan, Belgium, United States",
+      "enrollment": 136,
+      "brief_summary": "The purpose of this study is to provide safety and tolerability, pharmacokinetics and immunogenicity data for multiple CSJ117 doses inhaled once daily compared with placebo, in adult asthma participants treated with medium or high dose ICS plus LABA alone or with additional asthma controllers (additional controllers allowed: LTRA, LAMA, Theophylline and its derivatives), who have completed the prior phase llb study CCSJ117A12201C (NCT04410523).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All participants must have been treated with a fixed dose combination of fluticasone propionate/salmeterol in one of two doses in stable dose alone or with additional controllers at label approved dosage (allowed only: LTRA, LAMA, Theophylline or its derivatives).\n* Participan",
+      "endpoints": [
+        "Number of treatment emergent adverse events (AEs) and serious adverse events (SAEs)",
+        "Number of treatment emergent participant deaths and participant hospitalizations"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT04946318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01696214",
+      "title": "SAPS:Smoking Asthmatics Pilot Study:",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2016-11",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The primary aim of the pilot (SAPS) protocol is to determine the feasibility and utility of implementing the provisional design of the full scale TOM trial (e.g., the six month treatment period, the impact of the smoking cessation intervention).\n\nThere is no active hypothesis for the Vanguard Protocol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Gender and Age:\n* Males and females, ages 18- 50\n\nCurrent Smoker:\n\n* Smoke at least 5 cigarettes per day for at least 5 years\n* Positive urine cotinine test\n\nAsthma:\n\n* Physician diagnosed asthma\n* Symptomatic, as evidenced by\n\n  * Use of SABA two or more times per week for re",
+      "endpoints": [
+        "Asthma Control Test"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT01696214"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04789499",
+      "title": "Smell in Covid-19 and Efficacy of Nasal Theophylline",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-03-15",
+      "completion_date": "2021-12-30",
+      "country": "United States",
+      "enrollment": 51,
+      "brief_summary": "Evidence of COVID-19 related anosmia and dysgeusia continues to accumulate daily.\n\nCurrently, up to 80% of patients report subjective olfactory dysfunction (OD), and prevalence using objective olfactory testing could be even higher.\n\nWe propose a phase II single-site, double-blinded, placebo-controlled randomized clinical trial to determine the efficacy and safety of intranasal theophylline, a known phosphodiesterase inhibitor in the treatment of asthma, as a possible treatment for COVID-19 rela",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Olfactory dysfunction that has persisted for \\>3 months following suspected COVID-19 infection\n* Residing within the states of Missouri or Illinois.\n* Can read, write, and understand English.\n\nExclusion Criteria:\n\n* History of olfactory dysfunction prior to COVID-19 infection\n",
+      "endpoints": [
+        "UPSIT"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04789499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02918019",
+      "title": "A Phase IIb, Randomized, Double-Blind, Placebo-Controlled, Multicenter, Dose-Ranging Study to Assess the Efficacy and Safety of MSTT1041A in Patients With Uncontrolled Severe Asthma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09-20",
+      "completion_date": "2019-07-26",
+      "country": "Bulgaria, South Korea, Czechia, South Africa, Russia, Ukraine, Germany, New Zealand, Peru, Poland, Canada, Romania, Argentina, Belgium, United States",
+      "enrollment": 517,
+      "brief_summary": "This is a Phase IIb, randomized, placebo-controlled, double-blind, multicenter, multi-arm study which will evaluate efficacy, safety, and pharmacokinetic of MSTT1041A compared with placebo as add-on therapy in participants with severe, uncontrolled asthma who are receiving medium- or high-dose inhaled corticosteroid (ICS) therapy and at least one of the following additional controller medications: long-acting beta-agonists (LABA), leukotriene modifier (LTM), long-acting muscarinic antagonist (LA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI) of 18 to 38 kilogram/square meter (kg/m\\^2) and weight \\>= 40 kg at screening\n* Documented physician-diagnosed asthma\n* On high dose inhaled corticosteroid (ICS) therapy plus at least one additional allowed controller medication\n* Forced expiratory volume",
+      "endpoints": [
+        "Reduction in Rate of Asthma Exacerbations"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02918019"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04092582",
+      "title": "A Phase IIa, Multicenter, Randomized, Placebo-Controlled, Double-Blind Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MTPS9579A in Patients With Asthma Requiring Inhaled Corticosteroids and a Second Controller",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-10-31",
+      "completion_date": "2022-05-19",
+      "country": "Germany, Peru, Poland, Argentina, United States",
+      "enrollment": 135,
+      "brief_summary": "This is a Phase IIa, randomized, placebo-controlled, double-blind, multicenter, two-arm study to evaluate the efficacy, safety, and pharmacokinetics of MTPS9579A as an add-on therapy in patients with uncontrolled moderate to severe asthma who are receiving daily ICS therapy and at least one of the following additional controller medications: long-acting beta-agonist (LABA), leukotriene modulator (leukotriene modifier \\[LTM\\] or leukotriene receptor antagonist \\[LTRA\\]), long-acting muscarinic an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented physician-diagnosed asthma for at least 12 months prior to screening\n* Treatment with asthma controller therapy (daily ICS \\[fluticasone propionate or equivalent\\] and at least one additional controller therapy \\[LABA, LAMA, LTM/LTRA\\]) for \\>= 3 months prior to scr",
+      "endpoints": [
+        "Time to First Composite Asthma Exacerbations (CompEX) Event"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04092582"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02023554",
+      "title": "A Pharmacokinetic Drug Interaction Study to Evaluate the Effect of Azithromycin on the Steady-State Plasma Levels of Theophylline in a Chinese Population",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2014-07",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Macrolides are potent inhibitors of cytochrome P450 isoenzyme 3A4（CYP3A4）and thus interfere with the pharmacokinetics of many other drugs that are metabolised by this enzyme like theophylline.The aim of this study is to determine whether azithromycin can effect theophylline metabolism in patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with COPD or asthma，aged 18-75 years;\n* regularly visiting our hospital;\n* meeting the indications for azithromycin and theophylline simultaneously;\n\nExclusion Criteria:\n\n* patients with renal or hepatic dysfunction;\n* patients with congestive heart failure;\n* patient",
+      "endpoints": [
+        "steady-state plasma concentration of theophylline"
+      ],
+      "sponsor": "Zhujiang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02023554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04309877",
+      "title": "Pilot Randomized Controlled Trial of Theophylline for Attenuation of Lipopolysaccharide-Induced Depressive Symptoms",
+      "phase": "EARLY_PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2023-03",
+      "completion_date": "2025-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Depression is very common and poses a huge disease burden. About 20% of the US population suffers from depression at least once in their lifetime. Inflammations that are hidden inside our body as a result of aging, obesity, chronic diseases, or certain treatments (e.g., interferon for hepatitis C) appear to cause depressive symptoms and even clinical depression. Individuals with such inflammations are more likely to suffer from depression and are less likely to respond to currently available ant",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* in good general health (as evaluated during the phone and in-person screening sessions)\n* aged 18-65 years\n* if female, using adequate birth control\n\nExclusion Criteria:\n\n* history of hypersensitivity to xanthine derivatives (a contraindication to theophylline treatment)\n* pre",
+      "endpoints": [
+        "Change in depressed mood from baseline"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT04309877"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01735240",
+      "title": "An Open-label, Fixed-sequence, Single-centre Phase I Study to Assess the Effect of Ketoconazole on the Pharmacokinetics of AZD5069 After Oral Administration of a Single Dose AZD5069 to Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2013-02",
+      "country": "United Kingdom",
+      "enrollment": 15,
+      "brief_summary": "The main purpose of the study is to compare the change of the AZD5069 Pharmacokinetic profile when administered with ketoconazole. Subjects will be treated first with AZD5069 only followed by a washout period before starting with the combined treatment (both ketoconazole and AZD5069).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male volunteers aged 18 to 50 years (inclusive).\n* Veins suitable for cannulation or repeated venipuncture.\n* Healthy volunteers with neutrophil counts within the laboratory normal reference range at Screening\n* Body mass index (BMI) ≥18.0 and ≤30.0 kg/m2 calculated fr",
+      "endpoints": [
+        "Pharmacokinetics of AZD5069 (15 mg) and a metabolite (AZ13587715) measured by AUC, AUC(0-t), Cmax, λz, t½λz, tmax, CL/F (AZD5069 only), Vz/F (alone and in combination with Ketoconazole)",
+        "Pharmacokinetics of Ketoconazole measured by AUC(0-t) and Cmax (in combination with AZD5069)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01735240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07363642",
+      "title": "TAPER: A Prospective, Interventional, Multicentre, Single-Arm, Phase 3b Study to Evaluate the Step-Down of Maintenance Therapy in Patients With Severe Asthma Treated With Tezepelumab",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2026-01-28",
+      "completion_date": "2029-03-31",
+      "country": "China",
+      "enrollment": 400,
+      "brief_summary": "This study aims to explore the potential for Tezepelumab-treated severe asthmatic patients to effectively and safely reduce their background maintenance medication while maintaining asthma symptom control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1．Provision of informed consent prior to any study-specific procedures. Written informed consent, and assent when applicable for study participation must be obtained prior to any study related procedures being performed (local regulations are to be followed in determining the as",
+      "endpoints": [
+        "To assess the potential for Tezepelumab treated patients to reduce their standard of care asthma controller regimen in the overall patient population while maintaining asthma control",
+        "To assess the potential for Tezepelumab treated patients to reduce their standard of care asthma controller regimen in the overall patient population while maintaining asthma control"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT07363642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00252785",
+      "title": "An 8-week, Randomised, Double Blind, Parallel-group, Multi-centre, Phase III Study Comparing the Efficacy and Safety of Symbicort® Turbuhaler® 160/4.5 µg Twice Daily and Pulmicort® Turbuhaler® 200 µg Twice Daily + Theolong® Tablet 200 mg Twice Daily in Japanese Patients With Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2006-11",
+      "country": "Japan",
+      "enrollment": 340,
+      "brief_summary": "The primary objective of this study is to confirm the efficacy (superiority) of Symbicort® Turbuhaler® 160/4.5 µg twice daily for 8 weeks in comparison to Pulmicort® Turbuhaler® 200 µg twice daily + Theolong® tablet 200 mg twice daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma with a documented history of at least 6 months duration prior to Visit 1\n* Prescribed daily use of an IGCS for \\>=12 weeks prior to Visit 1. The dose of IGCS must be 400 to 800 µg/day of Pulmicort® Turbuhaler® or corresponding dose of IGCS. The prescribed d",
+      "endpoints": [
+        "Morning peak expiratory flow (mPEF)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00252785"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03296579",
+      "title": "A Prospective Open Randomized Clinical Trial of Non-invasive Ventilation Versus Standard Therapy for Children Hospitalized With an Acute Exacerbation of Asthma.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-06",
+      "completion_date": "2018-12",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Acute asthma produces greatly increased work of breathing and increased oxygen requirement secondary to bronchial narrowing and airway obstruction by inflammatory secretions. There is growing evidence that non-invasive ventilation can reverse these processes more efficiently than conventional asthma therapy. Surprisingly, there have not yet been any large scale prospective controlled studies to investigate this hypothesis, (either in adults or children). Consequently, the aim of this study is to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 2-18 years old\n* Clinical diagnosis of acute asthma exacerbation (respiratory rate greater than WHO's age-dependent criteria, a history of similar previous episodes and wheezing heard on auscultation by an experienced physician)\n* PRAM score of 8 or more after 2 hours post-ste",
+      "endpoints": [
+        "Time to reach a PRAM score of ≤3"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT03296579"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00119496",
+      "title": "A Clinical Study to Investigate the Effect of Rosiglitazone, Theophylline and Inhaled Corticosteroid, Inflammation and Pulmonary Function in Asthmatic Smokers",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2007-06",
+      "country": "United Kingdom",
+      "enrollment": 79,
+      "brief_summary": "Asthmatic smokers display a blunted response to both inhaled and oral corticosteroid treatments and are at increased risk for exacerbations and near fatal asthma. The prevalence of smoking in asthmatics runs between 20-30%. Therefore, new, more efficacious treatments are required.\n\nRecent work has demonstrated a mechanism which may explain steroid resistance. A commonly used drug called theophylline can reverse this steroid resistance in laboratory studies. Another commonly used drug, rosiglitaz",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between 18 and 60 years of age (inclusive).\n* Clinical diagnosis of mild or moderate persistent asthma in accordance with the Global Initiative for Asthma (GINA) criteria\n* Have had a history of asthma for a minimum of 6 months prior to entry into the study\n* ",
+      "endpoints": [
+        "Comparison of pre-bronchodilator (FEV1) at 28 days between rosiglitazone and LD ICS treatment groups."
+      ],
+      "sponsor": "University of Glasgow",
+      "url": "https://clinicaltrials.gov/study/NCT00119496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01684683",
+      "title": "Clinical Efficacy and Safety of Theophylline in the Treatment of Non-Cystic Fibrosis(NCF) Bronchiectasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2014-09",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "Theophylline was well recommended in the treatment of chronic obstructive pulmonary disease (COPD) and asthma. However, there is no supporting evidence for their efficacy in the treatment of bronchiectasis. Our hypothesis is that theophylline will play a role in bronchiectasis. Our purpose is to examine the efficacy and safety of 24 weeks treatment with theophylline in subjects with non-cystic fibrosis bronchiectasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between 18-70 years old with non-CF bronchiectasis ,free from acute exacerbations for at least 3 months.Stable phase of the disease.\n\nExclusion Criteria:\n\n* Patients with a cigarette smoking history of more than 10 packs-year. Patients with COPD. Patients with tractio",
+      "endpoints": [
+        "Scores of the St.George's Respiratory Questionnaire"
+      ],
+      "sponsor": "The First Affiliated Hospital of Guangzhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT01684683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03453021",
+      "title": "Effet du Mepolizumab Sur la décroissance de la corticothérapie systémique Chez Des Patients Avec un Asthme éosinophilique sévère Etude Observationnelle, Suivi de Cohorte Via Une ATU Nominative",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-01-25",
+      "completion_date": "2017-10-31",
+      "country": "France",
+      "enrollment": 27,
+      "brief_summary": "The primary objective of the study is to measure the effect of mepolizumab on declines in oral corticosteroid therapy (prednisolone or prednisone) in patients with severe eosinophilic asthma.\n\nAsthma is a chronic inflammatory disease of the airways that affects 5 to 10% of adults and children. Despite current treatments that are often effective, 10% of patients are not controlled by inhaled therapies. These severe asthma require regular use of systemic corticosteroids in 30 to 40% of cases. In t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Severe eosinophilic asthma\n* Patient on inhaled therapy with inhaled corticosteroid and long-acting bronchodilator for at least 6 months\n* Patient under oral corticosteroid therapy (prednisolone or prednisone) for at least 6 months and unmodified in the last 4 weeks before the",
+      "endpoints": [
+        "Effect of mepolizumab on declines in oral corticosteroid therapy (prednisolone or prednisone) in patients with severe eosinophilic asthma."
+      ],
+      "sponsor": "University Hospital, Grenoble",
+      "url": "https://clinicaltrials.gov/study/NCT03453021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06134037",
+      "title": "Effects of Aminophylline Bolus on Eleveld and Schnider TCI (Target Controlled Infusion) Concentrations at Start and End of Burst Suppression Occurence and on BIS (Bispectral Index) During the Induction Phase of Total Intravenous Anaesthesia With TCI",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-11-12",
+      "completion_date": "2024-03-15",
+      "country": "Italy",
+      "enrollment": 32,
+      "brief_summary": "Aminophylline is an intravenous drug commonly utilized for asthma. However, some preclinical studies and few case reports and case series have described its effects in lightining the anesthestic plan during Propofol anaesthesia with an intravenous bolus of 4 mg/kg.\n\nAuthors aimed to compare its effect during accidental episodes of Burst Suppression during the induction phase of total Intravenous Anaesthesia with Target Controlled Infusion (TIVA-TCI) routinely utilized for general anaesthesia in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Undergo general anaesthesia with Targeted Controlled Infusion of Propofol (Eleveld model) and Remifentanil (Minto model)\n* Burst Suppression accidental occurence during the induction phase of anesthesia.\n\nExclusion Criteria:\n\n* Neurological disease\n* Psychiatric disease\n* Obes",
+      "endpoints": [
+        "Correlation between Concentration at the effector site of Propofol after Aminophylline bolus during Burst Suppression occurence"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT06134037"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01623544",
+      "title": "A U.S. Retrospective Database Analysis Evaluating the Comparative Effectiveness of Budesonide/Formoterol Combination (BFC) and Fluticasone Propionate/Salmeterol Combination (FSC) Among Asthma Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2012-09",
+      "country": "N/A",
+      "enrollment": 6086,
+      "brief_summary": "The objective of this study is to compare the real-world effectiveness of BFC and FSC in asthma patients new to ICS/LABA combination therapy in a population of U.S. health plan enrollees.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Continuous health plan enrollment for 12 months before and after index Rx\n* At least two prescription fills for BFC or FSC within 12 months\n* Asthma claims diagnosis, and 12 to 64 years of age at the time of first prescription\n\nExclusion Criteria:\n\n* Evidence of COPD\n* Claims ",
+      "endpoints": [
+        "Rate of asthma exacerbations",
+        "Asthma Related Inpatient Hospitalizations",
+        "Asthma Related Emergency Department visits"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01623544"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01141439",
+      "title": "A Retrospective Evaluation of the Effectiveness and Cost-effectiveness of HFA-BDP MDI (Qvar®) Compared With CFC-BDP MDI and FP MDI Used in the Management of Asthma in a Representative UK UK Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "2010-07",
+      "country": "United Kingdom",
+      "enrollment": 815377,
+      "brief_summary": "The objective of the study was to compare the effectiveness, cost-effectiveness and direct healthcare costs of managing asthma in patients with evidence of persistent asthma, following the initiation and increased dose of inhaled corticosteroid (ICS) therapy using HFA-BDP (Qvar®) (either as initial therapy or as a step-up therapy) compared with the most commonly prescribed alternative ICS in the UK, CFC-beclometasone (BDP) and fluticasone (FP) as metered dose inhalers (MDIs). Qvar vs FP analyses",
+      "eligibility_criteria": "Inclusion Criteria:\n\nIncluded patients must:\n\n* aged 5-60 years\n* evidence of asthma: a diagnostic code of asthma or ≥2 prescriptions for asthma in baseline year at different points in time including one of ICS\n* on current therapy at the IPD, defined as ≥1 ICS script and ≥1 other asthma prescriptio",
+      "endpoints": [
+        "Proxy asthma control"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01141439"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06521229",
+      "title": "An Ambispective Observational Multicenter Registry of Patients With Uncontrolled Asthma in the Population of the Russian Federation",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-06-27",
+      "completion_date": "2027-03-30",
+      "country": "Russia",
+      "enrollment": 9000,
+      "brief_summary": "This study is a multi-centre, non-interventional, observational, ambispective registry. Planned study population consists of 9 000 adult patients with uncontrolled asthma receiving treatment according to standard of care (except biologics). Planned number of study site is 70 outpatient centers with experience of uncontrolled asthma treatment in about 50 regions of Russia (in order to describe characteristics of patients with uncontrolled asthma in different regions in the most comprehensive way)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of inclusion;\n2. Signed and dated written informed consent in accordance with ICH GCP and local law prior to inclusion in the study;\n3. Patients with diagnosis of uncontrolled mild and moderate asthma (according to Global Initiative for Asthma (GINA",
+      "endpoints": [
+        "To describe the baseline demographic characteristics of outpatients with uncontrolled asthma in the Russian Federation in all patients and in the cohort of patients receiving fixed-dose combination (FDC) budesonide/salbutamol on Visit 2",
+        "To describe the baseline clinical characteristics of outpatients with uncontrolled asthma in the Russian Federation in all patients and in the cohort of patients receiving FDC budesonide/salbutamol on Visit 2",
+        "To characterise the profile of routine therapy used for outpatients with uncontrolled asthma in the Russian Federation in all patients and in the cohort of patients receiving FDC budesonide/salbutamol on Visit 2"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT06521229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01238861",
+      "title": "A Phase 2b, Dose-ranging Study to Evaluate the Efficacy and Safety of MEDI-563 in Adults With Uncontrolled Asthma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2013-08",
+      "country": "Bulgaria, Brazil, Mexico, Russia, Peru, Poland, Canada, Colombia, Argentina, United States",
+      "enrollment": 964,
+      "brief_summary": "The primary objective of the study is to evaluate the effect of multiple-dose subcutaneous administrations of MEDI-563 on adults with uncontrolled asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 through 75 years at the time of screening\n* Adequate contraception from screening through end of trial\n* Weight of more than (\\>) 45 kilogram (kg) but less than or equal to (\\<=) 150 kg (\\>100 pound \\[lb\\] but \\<=330 lb)\n* History of physician-diagnosed asthma for at le",
+      "endpoints": [
+        "Annual Asthma Exacerbation Rate (AER) for Eosinophilic Phenotype (EOS+) Participants"
+      ],
+      "sponsor": "MedImmune LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01238861"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01141465",
+      "title": "A Retrospective Evaluation of the Effectiveness of Fixed-dose Combination Inhaled Corticosteroid /. Long-acting Beta Agonist (ICS/LABA) Therapy in the Management of Asthma in a Representative UK Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "2010-02",
+      "country": "United Kingdom",
+      "enrollment": 815377,
+      "brief_summary": "This study will evaluate and compare the effectiveness of asthma management in patients with evidence of persistent asthma following a switch in asthma therapy to combination inhaled glucocorticosteroid (ICS) / long-acting bronchodilator (LABA) therapy as either: fixed-combination fluticasone propionate / salmeterol (FP/SAL; Seretide®) via pressurised metered-dose inhaler (pMDI) or dry-powder inhaler (DPI) plus as-needed (prn) reliever therapy (salbutamol as DPI, BAI or pMDI), or fixed-combinati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years: Paediatric cohort (aged 4-11 years); Adult cohort (aged 12-69 years); Elderly cohort (aged 70-80 years.\n* Evidence of asthma: i.e. a diagnostic code of asthma or ≥2 prescriptions for asthma at different points in time during the prior year, including one ICS ",
+      "endpoints": [
+        "Composite proxy for asthma control",
+        "Exacerbations (total and rate ratio)",
+        "GOAL Total Control (proxy measure to replicate total control as measured in the GOAL RCT in a real world patient population"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01141465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02270827",
+      "title": "A Pilot Study Into Health Pre and Post Treatment With Intravenous Aminophylline and Hydrocortisone in Severe Asthmatics",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2014-06",
+      "completion_date": "2015-02",
+      "country": "United Kingdom",
+      "enrollment": 5,
+      "brief_summary": "This study focuses on severe asthmatics and their asthma symptoms. 40% of asthma patients continue to experience symptoms and up to 5% of these have difficult-to-control asthma despite continually improving treatments. Severe asthmatics experience clinically-significant worse health-related quality of life than those than those with less severe asthma. Poorer health-related quality of life can be as a consequence of frequent, severe symptoms, which prevent the patient from continuing a normal, a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-65 years\n2. Diagnosis of severe asthma\n3. Confirmed therapy adherence via serum Prednisolone and cortisol levels\n\nExclusion Criteria:\n\n1. Mild and moderate asthma\n2. Community acquired pneumonia\n3. Acute porphyria\n4. Pregnant and breast feeding women\n5. Patients hypers",
+      "endpoints": [
+        "To measure a significant improvement in lung function in severe asthmatic patients after receiving a course of IV Aminophylline and IV Hydrocortisone"
+      ],
+      "sponsor": "Royal Brompton & Harefield NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT02270827"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01293734",
+      "title": "Research on Traditional Chinese Medicine (TCM) Clinical Treatment of the Acute Episode of Bronchial Asthma.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2011-02",
+      "country": "N/A",
+      "enrollment": 360,
+      "brief_summary": "Bronchial asthma is a common disease and frequently encountered disease of respiratory apparatus. It has very complex mechanism and multiple inducing factors. This study will focus on a new Chinese therapy on Bronchial asthma, analyzing the treatment mechanism of internal and external use, based on Traditional Chinese Medicine (TCM) theory and clinical practice. The study will also investigate the efficacy of the Chinese drugs and treatments on Bronchial asthma, and provide an effective therapy ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 to 65 years old;\n* Patients with mild-to-moderate bronchial asthma on attacking stage;\n* Without cardiopulmonary or other complications;\n* To comply with the diagnostic standard of bronchial asthma in western medicine and TCM syndrome differentiation;\n* Informed",
+      "endpoints": [
+        "primary Symptom",
+        "physical sign",
+        "assistant examination"
+      ],
+      "sponsor": "Liaoning University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01293734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03917914",
+      "title": "Preventing Adverse Cardiac Events in Chronic Obstructive Pulmonary Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-06-30",
+      "completion_date": "2025-03-31",
+      "country": "Australia, India, New Zealand, Sri Lanka",
+      "enrollment": 280,
+      "brief_summary": "A double-blind, randomised controlled trial in participants with COPD to assess the efficacy of proactive treatment of cardiac risk in people with COPD. We hypothesise that treating known and undiagnosed CVD in COPD participants will improve both cardiac and respiratory outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants will be eligible for this study if they qualify on all of the following:\n\n1. Have provided written informed consent\n2. Have COPD defined by the 2019 Global Initiative for Chronic Obstructive Lung Disease (GOLD) diagnostic criteria\n3. Aged 40-85 years\n4. FEV1 ≥30% an",
+      "endpoints": [
+        "All-cause mortality",
+        "Hospitalisation for COPD exacerbation",
+        "Hospitalisation for primary cardiac cause (ischaemia, arrhythmia, heart failure or ischaemic stroke)"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT03917914"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06098196",
+      "title": "Effects of Aminophylline Bolus on Eleveld and Schnider TCI (Target Controlled Infusion) Concentrations at Return of Responsiveness and on BIS (Bispectral Index) After Total Intravenous Anaesthesia With TCI",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-10-25",
+      "completion_date": "2024-03-15",
+      "country": "Italy",
+      "enrollment": 48,
+      "brief_summary": "Aminophylline is an intravenous drug commonly utilized for asthma. However, some preclinical studies and few case reports and case series have described its utility in decrease the timing of return of consciousness after Propofol anaesthesia with an intravenous bolus of 4 mg/kg.\n\nWe aimed to compare its effect during a total Intravenous Anaesthesia with Target Controlled Infusion (TIVA-TCI) routinely utilized for general anaesthesia in our hospital.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Undergo general anaesthesia with Targeted Controlled Infusion of Propofol (Eleveld or Schnider model) and Remifentanil (Minto model)\n\nExclusion Criteria:\n\n* Neurological disease\n* Psychiatric disease\n* Obesity",
+      "endpoints": [
+        "Correlation between Concentration at the effector site of Propofol after Aminophylline"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT06098196"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01400217",
+      "title": "HFA Beclomethasone in Asthma, a General Practice Research Database Study: Real-life Observational Evaluation of Extra-fine With Standard Particle Size Beclometasone Dipropionate Using the Propellant Hydrofluoroalkane 134a for the Management of Asthma in a Representative UK Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1991-01",
+      "completion_date": "2010-10",
+      "country": "United Kingdom",
+      "enrollment": 56985,
+      "brief_summary": "This study will compare the absolute and relative effectiveness of asthma management in patients on inhaled corticosteroid (ICS) maintenance therapy as either extra-fine-particle or larger-particle formulation beclomethasone dipropionate (BDP) via metered-dose inhalers (MDIs) using the propellant hydrofluoroalkane propellant (HFA-BDP), namely Qvar® MDI compared with Clenil® MDI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years\n* Paediatric cohort (aged 4-11 years), and\n* Adult cohort (aged 12-80 years )\n* Evidence of asthma and current asthma therapy:\n* All cohorts (IPDI, IPDS, IPDA):\n\n  * a diagnostic code for asthma, and / or \\*≥2 prescriptions for asthma at different points in ti",
+      "endpoints": [
+        "Severe asthma exacerbation (ATS/ERS based defn)",
+        "Primary composite asthma control"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01400217"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03269318",
+      "title": "Feasibility of a Personalised Medicine Clinic for Children With Asthma Aged 5-11 Years",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2017-07-01",
+      "completion_date": "2019-08-30",
+      "country": "United Kingdom",
+      "enrollment": 2,
+      "brief_summary": "Asthma is one of the most common chronic diseases affecting children in the UK. Poorly controlled asthma manifests with chronic cough, wheeze and shortness of breath which in-turn has a significant negative impact on a child's quality of life, interfering with sleep, impairing exercise ability and resulting in frequent school absences and hospital admissions.\n\nManagement of paediatric asthma in the UK is directed by the British Thoracic Society (BTS) Guidelines, which recommend a stepwise (one t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Parent/Guardian/Participant is willing and able to give informed consent/assent\n* Physician-diagnosed asthma that is inadequately controlled as per view of doctor (for example, history of at least two emergency visits to GP or hospital over the previous year, frequent use of b",
+      "endpoints": [
+        "Are children with asthma and their parents willing to be recruited and randomised to a trial of genotyping and personalised management for asthma? Qualitative interview",
+        "Are there retention issues? If yes, at what stages did these occur? What were the reasons? Qualitative interview",
+        "Are follow-up data complete?"
+      ],
+      "sponsor": "Brighton and Sussex University Hospitals NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03269318"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01125748",
+      "title": "A Phase IV, Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Persistency of Response With or Without Xolair After Long-term Therapy (XPORT)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 176,
+      "brief_summary": "This was a randomized, double-blind, placebo-controlled, 2-arm, 1-year study of participants who completed the EXCELS study (NCT00252135) and had received long-term treatment with Xolair. In addition, participants who did not participate in the EXCELS study but received long-term (\\~5 years) treatment with Xolair were allowed to enter the study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form (ICF). In the case of a minor, consent must be given by the child's parent or legally authorized representative.\n* Participants who have completed the EXCELS study prior to this study must have met all inclusion criteria for enrollment in the EXCEL",
+      "endpoints": [
+        "Percentage of Participants Not Experiencing a Protocol-defined Severe Exacerbation During the Study"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01125748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00442338",
+      "title": "MK-476 IV Formulation Phase III Open Label Exploratory Comparative Study - Acute Exacerbations of Asthma -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2007-08",
+      "country": "N/A",
+      "enrollment": 91,
+      "brief_summary": "The study estimates the efficacy and safety of MK0476 and aminophylline intravenous administration in adult participants with acute asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants with acute asthma attacks\n\nExclusion Criteria:\n\n* Participant has any known or suspected, acute or chronic cause for their pulmonary symptoms other than asthma (e.g., COPD, chronic heart failure, etc.).\n* Participant has a smoking habit (15 cigarettes per da",
+      "endpoints": [
+        "Change From Baseline in Forced Expiratory Volume in One Second (FEV1) Within the First 60 Minutes After Administration"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00442338"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132781",
+      "title": "The Effect of Theophylline in Patients With Allergic Rhinitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2012-06",
+      "country": "United Kingdom",
+      "enrollment": 28,
+      "brief_summary": "Allergic rhinitis and asthma are common respiratory diseases, which often coexist. The prevalence of allergic rhinitis in subjects with asthma is up to 80%, and the prevalence of asthma is 3-5 times greater in subjects with rhinitis than healthy controls. The mechanisms of the allergen response in both diseases are parallel to each other, with similar mediator and cellular responses to similar allergens. These observations have led to the suggestion that both diseases are different expressions o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, aged between 16 and 65 years.\n* Weight between 50 and 150 Kg.\n* Smokers, non-smokers or ex-smoker.\n* Chronic rhinosinusitis as defined as 2 or more symptoms of nasal blockage/congestion, discharge, facial pain or reduction in smell for more than 12 weeks.\n* A",
+      "endpoints": [
+        "Difference in total nasal symptom score"
+      ],
+      "sponsor": "University of East Anglia",
+      "url": "https://clinicaltrials.gov/study/NCT01132781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00157937",
+      "title": "A Randomized, Open Label, Cross-Over Study Comparing Effectiveness for the Montelukast Sodium With Comparator in Mild to Moderate Persistent Asthmatics",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2005-06",
+      "country": "N/A",
+      "enrollment": 31,
+      "brief_summary": "Subjects have 8-week with montelukast sodium or comparator drug administration period, 2-week wash-out period and 8-week comparator drug or the drug administration period (with cross-over design) for assessment of the drug efficacy, safety and tolerability.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between the ages of 18 and 60 with mild to moderate asthma",
+      "endpoints": [
+        "FEV1"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00157937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01287351",
+      "title": "Retrospective, Real-life Observational Evaluation of the Effectiveness and Cost-effectiveness of Extra-fine Hydrofluoroalkane (HFA) Beclometasone (BDP) Compared With Fluticasone Propionate (FP) in the Management of Asthma in a Representative Population in the United States (US)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2010-10",
+      "country": "United Kingdom",
+      "enrollment": 82903,
+      "brief_summary": "This study will compare the absolute and relative effectiveness and cost-effectiveness of asthma management in patients in the USA on inhaled corticosteroid (ICS) maintenance therapy as HFA-BDP (Qvar®) pressurised metered dose inhaler (pMDI) compared with fluticasone propionate (FP) pMDI. .",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 5-80 years:\n\n  * Paediatric cohort (aged 5-11 years), and\n  * Adult cohort (aged 12-60 years)\n  * Non-smokers aged 61-80 years\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, (ICD 9 codes: 493xx) or\n  * ≥2 prescriptions for asthma at different points at any time",
+      "endpoints": [
+        "Proxy Asthma Control",
+        "Total number of asthma exacerbations and exacerbation rate ratio",
+        "Revised proxy asthma control"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01287351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06034145",
+      "title": "Methacholine Challenge Testing: Comparison of FEV1 and IOS Parameters in Adult Asthma Patients",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-11-01",
+      "completion_date": "2024-11-01",
+      "country": "N/A",
+      "enrollment": 500,
+      "brief_summary": "A classic methacholine challenge test is considered positive when forced expiratory volumen after one second (FEV1) decrease 20%. Impulse oscillometry (IOS) measures airway resistance and reactance, and seems more sensitive to changes in small airways. In adult asthma patients, we compare methacholine challenge test using both FEV1 and IOS.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Doctor diagnosed asthma (based on symptoms and at least one positive asthma test within the last 5 years (AHR; reversibility to beta2-agonist, ICS, prednisolone; peak flow variation).\n* Written informed consent.\n\nExclusion Criteria:\n\n* patients aged less than 18 years old.\n* p",
+      "endpoints": [
+        "ACQ-6",
+        "Impulse Oscillometry",
+        "Demographic data"
+      ],
+      "sponsor": "Allergi- og Lungeklinikken, Elsinore",
+      "url": "https://clinicaltrials.gov/study/NCT06034145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01697722",
+      "title": "A Retrospective Evaluation of Effectiveness and Cost-effectiveness of Extrafine HFA-BDP Compared With Combination ICS/LABA Therapy in the Management of Asthma in a Representative Population of UK Primary Care Patients",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1991-01",
+      "completion_date": "2010-02",
+      "country": "United Kingdom",
+      "enrollment": 815377,
+      "brief_summary": "This study will compare the effectiveness, cost-effectiveness and direct healthcare costs of asthma management in patients with evidence of persistent asthma following an increase in asthma therapy in the form of either an increased dose of inhaled glucocorticosteroids (ICS) using extrafine hydrofluoroalkane-beclometasone dipropionate (HFA-BDP) via pressurised metered-dose inhaler (pMDI) or breath-actuated inhaler (BAI), or a change to combination ICS plus long-acting bronchodilator (LABA) thera",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-60 years:\n\n  * Paediatric cohort (aged 4-11 years), and\n  * Adult cohort (aged 12-60 years)\n  * Aged 61-80 years and never smoked for an additional elderly cohort;\n* Evidence of asthma: i.e. a diagnostic code of asthma or at least 2 asthma prescriptions, including one ",
+      "endpoints": [
+        "Proxy asthma control"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01697722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01313585",
+      "title": "Retrospective, Real-life Observational Evaluation of the Effectiveness of Mixed Maintenance and Reliever Inhaler Types in Patients in the Management of Asthma in a Representative UK Primary Care Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1991-01",
+      "completion_date": "2010-03",
+      "country": "United Kingdom",
+      "enrollment": 815377,
+      "brief_summary": "This study will compare the absolute and relative effectiveness of asthma management in patients on inhaled corticosteroid (ICS) maintenance therapy as Easi-breathe® (EB) - beclometasone dipropionate (BDP) breath-actuated inhaler (BAI) - and as-needed (prn) reliever medication (short-acting beta2-agonist \\[SABA\\] therapy) via either a BAI (i.e. Easi-breathe® \\[EB\\] salbutamol) or via a pressurised metered dose inhaler (MDI) (e.g. MDI salbutamol).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 4-80 years:\n\n  * Paediatric cohort (aged 4-11 years), and\n  * Adult cohort (aged 12-80 years )\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, and / or\n  * ≥2 prescriptions for asthma at different points in time during the prior year and/ or\n  * ≥2 prescriptions",
+      "endpoints": [
+        "Proxy asthma control",
+        "Total number of asthma exacerbations and exacerbation rate ratio"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01313585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04077528",
+      "title": "Research on Severe Asthma",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-09-10",
+      "completion_date": "2025-09",
+      "country": "France",
+      "enrollment": 2000,
+      "brief_summary": "The French Society for Respiratory diseases (SPLF), through its Asthma and Allergy working group (G2A), wishes to set up a national cohort of severe asthma patients to describe this population and the use of step 4 and 5 treatment. This study also meets the demand for post - registration studies required by the Health Authorities for biotherapies and bronchial thermoplasty.\n\nOther European or international cohorts of asthmatic patients exist and RAMSES could contribute to data sharing initiative",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Patient with severe asthma : Meeting the definition of ATS-ERS: which requires a combination of high dose CSI and B2LDA.\n\nOr receiving level 5 support (initiating treatment or already treated) :\n\n* Long-term oral corticosteroids (\\> 6 months in the year prior to inclusion)\n* ",
+      "endpoints": [
+        "Number of patients receiving asthma treatment",
+        "Dose of severe asthma treatments",
+        "Duration of asthma treatments"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT04077528"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00756418",
+      "title": "A Randomized Open-Label Comparative Study of Montelukast Versus Theophylline Added to Inhaled Corticosteroid in Pediatric Patients With Bronchial Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06-01",
+      "completion_date": "2004-08-28",
+      "country": "N/A",
+      "enrollment": 84,
+      "brief_summary": "A clinical study explores the safety and efficacy of montelukast and to compare the safety and efficacy of montelukast with those of theophylline in pediatric bronchial asthma patients when they are used in conjunction with inhaled steroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric Bronchial Asthma Patients Aged 6 To 14 Years (At The Beginning Of The Treatment Period)\n* The Severity Must Be Mild, Moderate Or Severe, Persistent Bronchial Asthma\n* The Patient Must Have Symptoms That Can Be Used As Efficacy Variables (Such As Repeated Coughing And",
+      "endpoints": [
+        "Improvement of AM PEF over first 2 Weeks"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00756418"
+    }
+  ],
+  "timestamp": "2026-03-04T16:58:43.688402",
+  "success": true,
+  "error_message": null
+}

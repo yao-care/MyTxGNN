@@ -1,0 +1,931 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00995904",
+      "title": "A Randomized, Open-Label, 3-Dose, 3-Period, Crossover Phase 2 Study Investigating the Tolerability and Pharmacokinetics of MAP0010 in Children 4 Through 11 Years Old With a History of Mild-To-Moderate Stable Asthma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "This Phase 2 study was to investigate the tolerability of unit dose budesonide (MAP0020) at three doses in pediatric volunteers with a diagnosis and history of mild-to-moderate stable asthma and evaluate the pharmacokinetic profile of budesonide resulting from inhalation aerosol delivery.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Male or female children with a documented diagnosis of mild-to-moderate persistent asthma (according to the 2007 NIH \\[EPR\\] criteria) for at least 1 year prior to screening and medically stable for a minimum of 6 months prior to screening.\n2. Children 4 through 11 years ",
+      "endpoints": [
+        "Cmax of Budesonide After Administration of MAP0020",
+        "AUC(0-inf) of Budesonide After Administration of MAP0020",
+        "Half-life (t1/2) of Budesonide After Administration of MAP0020"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00995904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01668121",
+      "title": "Pharmacokinetic Study on Budesonide/Formoterol Device-metered Dry Powder Inhalers, Two Batches of Symbicort Turbuhaler and Budesonide/Formoterol Easyhaler: Randomised, Double-blind, Double-dummy, Single Centre, Single Dose, Crossover Study in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2012-11",
+      "country": "Germany",
+      "enrollment": 48,
+      "brief_summary": "The primary objective of this study is to evaluate the acceptance range with which two Symbicort Turbohaler batches could be declared bioequivalent in a bioequivalence setting. The secondary objective is to compare pharmacokinetic parameters of the reference product batches and Budesonide/formoterol Easyhaler.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent (IC) obtained.\n2. Males and females, 18-55 (inclusive) years of age.\n3. Normal weight defined as body mass index (BMI) \\> 19 and \\< 30 kg/m2 (BMI= weight/height2).\n4. Weight at least 50 kg.\n5. Forced expiratory volume in one second (FEV1) at least 80%",
+      "endpoints": [
+        "Pharmacokinetic parameter Cmax of plasma Budesonide concentration",
+        "Pharmacokinetic parameter AUCt of plasma Budesonide concentration",
+        "Pharmacokinetic parameter Cmax of plasma Formoterol concentration"
+      ],
+      "sponsor": "Orion Corporation, Orion Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT01668121"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00509028",
+      "title": "An Open-label, Multi-center, Long Term Study to Investigate the Safety and Efficacy of Budesonide Turbuhaler® Treatment for 48 Weeks (Following 6 Weeks Phase III Study) in Japanese Children With Bronchial Asthma Aged 5 Years to 15 Years Old",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-10",
+      "country": "Japan",
+      "enrollment": 241,
+      "brief_summary": "This study will include the patients who are Japanese children with bronchial asthma aged 5 years to 15 years old and have completed the Phase III study (Study code: D5254C00769) at about 29 centres. To investigate the safety of budesonide Turbuhaler® with a daily dose of 100 µg to 800 µg for 54 weeks treatment including the prior 6 weeks Phase III study (Study D5254C00769, NCT00504062) as compared with conventional therapy in Japanese children with bronchial asthma in need of inhaled glucocorti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient who complete preceding the Phase III study and provide a signed written informed consent by patient's legal representative at Visit 1 or 4 weeks prior to Visit 1 of the study. A signed written informed assent should also be obtained from the patients themselves as much",
+      "endpoints": [
+        "Number of Patients With Adverse Events (AEs)."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00509028"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00252863",
+      "title": "A Comparison of Symbicort Single Inhaler Therapy (Symbicort Turbuhaler 160/4.5 µg, 1 Inhalation b.i.d. Plus as Needed) and Conventional Best Practice for the Treatment of Persistent Asthma in Adults - a 26-Week, Randomised, Open-Label, Parallel-Group, Multicentre Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2006-05",
+      "country": "Germany",
+      "enrollment": 1600,
+      "brief_summary": "The purpose of this study is to determine whether Symbicort dosed according to the Symbicort Maintenance and Reliever Therapy (SMART) concept is superior to standard asthma treatment according to the local German treatment guidelines.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with asthma, either well-controlled on a regular therapy with a combination of long-acting beta-agonists and inhaled corticosteroids or symptomatic on therapy with inhaled corticosteroids alone.\n\nExclusion Criteria:\n\n* Any other significant lung disease other than ast",
+      "endpoints": [
+        "Time to first severe asthma exacerbation"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00252863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04179461",
+      "title": "Personalized Treatment Algorithms for Difficult-to-treat Asthma: Bench to Community",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-03-16",
+      "completion_date": "2019-10-03",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Asthma is a common, complex and costly chronic condition. Moreover, asthma is heterogeneous in terms of treatment response. This heterogeneity contributes to the difficulty in both studying and treating asthma. This is a pilot study to improve health outcomes in youths with difficult to treat asthma with ongoing symptoms and healthcare utilization despite medium to high doses of inhaled corticosteroids. Asthma heterogeneity in both disease pathophysiology and treatment response contributes to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of provider-diagnosed asthma\n* Meets one of the following definition for NAEPP guidelines uncontrolled moderate persistent asthma or severe persistent asthma in the past 12 months:\n\n  * NAEPP step 3-4 with one of the following criteria in the past 12 months:\n\n    * Two",
+      "endpoints": [
+        "Change in Composite Asthma Severity Index (CASI)"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04179461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00667992",
+      "title": "A Phase 3, Randomised, Open-label, Crossover Study to Compare HFA vs CFC pMDI Formulations of Budesonide on Methacholine Hyper-reactivity in Patients With Stable, Persistent, Mild to Moderate Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2009-05",
+      "country": "United Kingdom, United States",
+      "enrollment": 99,
+      "brief_summary": "This study is being carried out to see if budesonide with HFA is effective, safe and well tolerated compared with budesonide CFC. Budesonide HFA has been already given in other research studies, in both healthy volunteers and subjects with asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients suffering from stable, persistent, mild to moderate asthma as defined by Global Initiative for Asthma (GINA) Guidelines and for whom FEV1 \\> 60 %\n* ICS taking ≤ 1000 μg BDP per day, or equivalent\n* Methacholine PC20 \\< 4 mg/mL\n\nExclusion Criteria:\n\n* Known or suspecte",
+      "endpoints": [
+        "PC 20 Methacholine (Provocative Concentration of Methacholine Causing 20 % Fall in FEV1(Forced Expiratory Volume)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00667992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01035190",
+      "title": "Efficacy and Safety of Inhaled Budesonide in Very Preterm Infants at Risk for Bronchopulmonary Dysplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2016-07",
+      "country": "Israel, France, Finland, Czechia, Italy, Germany, Netherlands, Belgium",
+      "enrollment": 863,
+      "brief_summary": "HYPOTHESIS:\n\nEarly prophylactic inhalation of Budesonide reduces the absolute risk of developing bronchopulmonary dysplasia (BPD) or death in preterm infants born \\<28 weeks gestational age (GA) by 10%.\n\nPRIMARY OBJECTIVE:\n\nTo determine whether inhalation of Budesonide within 12 hours of life improves survival without BPD at 36 weeks GA in infants born between 23 and 27 weeks GA.\n\nSECONDARY OBJECTIVES:\n\nTo determine whether prophylactic inhalation of Budesonide affects neurodevelopment at a corr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* a gestational age of 23 0/7-27 6/7 weeks,\n* a postnatal age \\< 12 hours\n* the necessity for any form of positive pressure support (mechanical or nasal ventilation or CPAP\n\nExclusion Criteria:\n\n* involve a clinical decision not to administer therapies (infant not considered via",
+      "endpoints": [
+        "Survival without BPD at 36 weeks GA"
+      ],
+      "sponsor": "University Children's Hospital Tuebingen",
+      "url": "https://clinicaltrials.gov/study/NCT01035190"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05202262",
+      "title": "A Randomized, Double-Blind, Parallel Group, Multicenter 24 Week Study to Assess the Efficacy and Safety of Budesonide and Formoterol Fumarate Metered Dose Inhaler Relative to Budesonide Metered Dose Inhaler and Open-Label Symbicort® Turbuhaler® in Participants With Inadequately Controlled Asthma (VATHOS).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-01-12",
+      "completion_date": "2025-02-26",
+      "country": "Spain, Italy, Germany, Vietnam, Canada, Japan, United States",
+      "enrollment": 645,
+      "brief_summary": "This is a 24 week study to evaluate the efficacy and safety of budesonide and formoterol fumarate metered dose inhaler in adults and adolescents with inadequately controlled asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 12 to 80 years of age, male and female, BMI \\<40 kg/m2; females must be not of childbearing potential or using a form of highly effective birth control.\n2. Participants who have a documented history of physician-diagnosed asthma ≥ 6 months prior to Visit 1, according to GINA ",
+      "endpoints": [
+        "Change From Baseline in Forced Expiratory Volume in 1 Second (FEV1) Area Under the Curve 0 to 3 Hours (AUC0-3) at Week 24"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT05202262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00646529",
+      "title": "A Six Month, Randomized, Open-Label, Safety Study of Symbicort (160/4.5mcg) Compared to Pulmicort Turbuhaler in Asthmatic Children Aged Six to Eleven Years - SAPLING",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2003-10",
+      "country": "N/A",
+      "enrollment": 175,
+      "brief_summary": "The purpose of this study is to assess the safety of Symbicort compared to Pulmicort in asthmatic children aged 6 to 11 years",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 6 and maximally 11 years of age\n* Diagnosis of asthma\n* Baseline lung function tests as determined by protocol and required and received daily treatment with inhaled corticosteroids for at least 4 weeks prior to study start\n\nExclusion Criteria:\n\n* Has required treatme",
+      "endpoints": [
+        "Long term safety profile of Symbicort compared to Pulmicort as determined by safety assessments detailed in the protocol"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00646529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04480242",
+      "title": "Assessment of Children and Adolescents With Asthma: An Observational Prospective Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-07-26",
+      "completion_date": "2030-12-31",
+      "country": "Spain",
+      "enrollment": 525,
+      "brief_summary": "The purpose of this study is to assess the evolution of disease control, health-related quality of life, and the risk of severe asthma exacerbations in children and adolescents with persistent asthma in Spain at short, mid and long-term follow-up. Patient-reported information in this project is collected by computer assisted telephone interviews (CATI) and a mobile application (ARCA App).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children or adolescents aged 6-14.\n* Clinical diagnosis of asthma.\n* Undergoing treatment with inhaled corticosteroids (alone or combined with long-acting beta-agonists) for more than 6 months in the previous year.\n* With access to a smart phone (their own, or their parents').",
+      "endpoints": [
+        "Change from baseline in symptoms control, measured with the Asthma Control Questionnaire (ACQ)",
+        "Change from baseline in Health-Related Quality of Life, measured with the EuroQol",
+        "Number of severe asthmatic exacerbations"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT04480242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01803555",
+      "title": "A 12-Week Efficacy and Safety Evaluation of Budesonide/Formoterol SPIROMAX(R) 160/4.5 mcg Inhalation Powder Versus SYMBICORT(R) TURBOHALER(R) 200/6 mcg in Adult and Adolescent Patients With Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-07-04",
+      "completion_date": "2014-03-20",
+      "country": "Israel, France, Spain, Finland, Sweden, Czechia, Russia, Austria, Hungary, Italy, Denmark, Germany, United Kingdom, Netherlands, Poland, Belgium",
+      "enrollment": 605,
+      "brief_summary": "The primary objective of the study is to establish whether budesonide/formoterol fumarate dihydrate (BF) Spiromax 160/4.5 micrograms (mcg) is as effective as Symbicort Turbohaler 200/6 mcg administered twice daily in participants with persistent asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female participants 12 years and older as of the screening visit. Male or female participants 18 years and older, as of the screening visit, in countries where local regulations or the regulatory status of study medication permit enrollment of adult participants only.\n",
+      "endpoints": [
+        "Change From Baseline in Weekly Average of Daily Trough (Predose and Pre-rescue Bronchodilator) Morning (AM) Peak Expiratory Flow (PEF) Over the 12-Week Treatment Period"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01803555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00839800",
+      "title": "A Comparison of Symbicort® SMART (160/4.5μg) and Symbicort® Turbuhaler 160/4.5 μg, Plus Terbutaline Turbuhaler 0.4 mg as Needed, for Treatment of Asthma - a 12-month, Randomized, Double-blind, Parallel Group, Active-controlled, Multinational Phase III Study in Asthmatic Patients From 16 Years",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2011-02",
+      "country": "South Korea, Brazil, Philippines, India, Hungary, China, Costa Rica, Malaysia, Peru, Thailand, Argentina, Japan",
+      "enrollment": 2091,
+      "brief_summary": "The primary objective of this study is to compare the efficacy of Symbicort SMART (Symbicort Turbuhaler 160/4.5μg, one inhalation twice daily plus as needed) with Symbicort Turbuhaler 160/4.5μg, one inhalation twice daily plus terbutaline Turbuhaler 0.4 mg as needed, as asthma therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma according to the Global Initiative for Asthma guidelines (GINA) 2007 with a documented history of at least 6 months duration.\n* Reversible airway obstruction, defined as an increase in FEV1 ≥12% relative to baseline for all patients 15-30 minutes after inha",
+      "endpoints": [
+        "The Percentage of Participants Who Had Experienced Asthma Exacerbation(s) at the End of the Study"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00839800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482294",
+      "title": "CIVETTA: Correlating Inflammatory Values of FEno, SympToms, SpuTum and Lung Function in Asthma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-06-18",
+      "completion_date": "2025-07-01",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Single-center, interventional, open-label, randomized phase II study aimed at describing the changes in airway inflammation at the onset of asthma symptoms that lead to the use of rapid acting bronchodilator (RABD) as a rescue medication in a mild to moderate asthma population. The study will assess whether there are differences in the airway inflammation profile in patients using a reliever medication containing ICS (anti-inflammatory rescue strategy) compared to a reliever medication containin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients already followed for asthma according to ERS/ATS criteria\n* Mild and moderate asthma (GINA steps 1-3), with the exclusion of patients with severe asthma (GINA steps 4-5).\n\nExclusion Criteria:\n\nSevere asthma (Gina steps 4 and 5)\n\n* Inability to give informed consent\n* ",
+      "endpoints": [
+        "To evaluate airway inflammation characteristics and changes at the onset of asthma symptoms requiring as-needed therapy (RABD) and the impact of inhaled steroid therapy in addition to RABD on airway inflammation"
+      ],
+      "sponsor": "Università degli Studi di Ferrara",
+      "url": "https://clinicaltrials.gov/study/NCT06482294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04191434",
+      "title": "Multicenter, Randomized, Double-blind, Double-dummy, National, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Flamboyant 125/12 Association in the Treatment of Adults With Moderate Asthma .",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-07-22",
+      "completion_date": "2023-10",
+      "country": "Brazil",
+      "enrollment": 134,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Flamboyant 125/12 association in adults with asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to confirm voluntary participation and agree to all trial purposes by signing and dating the informed consent forms;\n* Participants aged 18 years or more;\n* Diagnosis of uncontrolled moderate asthma;\n* Participants with Forced expiratory volume in 1 second (FEV1) \\> 60",
+      "endpoints": [
+        "Change from baseline in Forced expiratory volume in 1 second (FEV1), obtained through espirometry."
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT04191434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092092",
+      "title": "A Double-Blind, Double-Dummy, Randomized, Placebo-Controlled, 2-Arm, 2X2 Crossover Study Comparing the Effects of Montelukast, Inhaled Budesonide, and Placebo on Lower Leg Growth in Children (Prepubertal, Tanner Stage I) With Mild Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-10",
+      "completion_date": "2004-06",
+      "country": "N/A",
+      "enrollment": 71,
+      "brief_summary": "The purpose of this study is to determine the effect of montelukast, an approved medication, on the lower leg growth rate in children with mild asthma. The primary hypothesis is that the lower leg length (LLL) growth rate for children treated with montelukast compared to placebo will be established.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A 6-month history of asthma with periodic episodes requiring treatment.\n\nExclusion Criteria:\n\n* Medical history of a lung disorder (other than asthma) or a recent upper respiratory tract infection.",
+      "endpoints": [
+        "Short-term lower-leg growth rate (LLGR)"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02934607",
+      "title": "A Randomised, Open-Label, Single-Dose, Single-Centre, Crossover Study in Healthy Subjects to Assess the Relative Bioavailability of Symbicort pMDI 160/4.5µg Administered With a Spacer (With and Without Charcoal) and Symbicort pMDI 160/4.5µg Administered Without a Spacer (With and Without Charcoal)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11-04",
+      "completion_date": "2017-03-27",
+      "country": "United Kingdom",
+      "enrollment": 50,
+      "brief_summary": "This study will be conducted to establish the relative bioavailability of budesonide and formoterol delivered via Symbicort pressurized metered-dose inhaler (pMDI) with and without a spacer device.\n\nAdministration under each condition will occur with the concomitant administration of activated charcoal to estimate exposure through the lung and without activated charcoal to estimate total systemic exposure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of signed and dated, written informed consent prior to any study specific procedures.\n2. Healthy male and/or female subjects aged 18 years (inclusive) and older, with suitable veins for cannulation or repeated venipuncture.\n3. Females must have a negative pregnancy ",
+      "endpoints": [
+        "Maximum observed plasma concentration (Cmax) of Symbicort pMDI administered with spacer device without charcoal",
+        "Area under the plasma concentration-time curve from time zero to time of last quantifiable concentration (AUC0-t) of Symbicort pMDI administered with spacer device without charcoal",
+        "Cmax of Symbicort pMDI administered with spacer device with charcoal"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02934607"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01526707",
+      "title": "The Use of FKBP51 in the Identification of Non-adherence to Inhaled Corticosteroids in Difficult Asthma",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2014-08",
+      "country": "United Kingdom",
+      "enrollment": 40,
+      "brief_summary": "Approximately 5-10% of people with asthma do not respond to to standard therapy and are referred to as having difficult asthma. Evidence shows that this poor response is not always related to asthma severity and non-adherence to treatment is recognized as a common underlying problem, in 35% of these patients. Recognising non-adherence in the clinic is problematic as there is no straightforward objective test to identify it.\n\nPrevious studies have demonstrated up-regulation of FKBP51 gene express",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThis pilot study will investigate the following groups (n=10 per group):\n\n1. Healthy volunteers.\n2. Steroid naïve asthmatics.\n3. Refractory asthmatics adherent to high dose inhaled steroids.\n4. Non-adherent asthmatics.\n\nInclusion Criteria\n\nFor inclusion into this study all parti",
+      "endpoints": [
+        "Change in FKBP51 gene expression"
+      ],
+      "sponsor": "Belfast Health and Social Care Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01526707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03034005",
+      "title": "The RECONSTRUCT Study - Reconstructing Disease Mechanisms in Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-03-27",
+      "completion_date": "2019-02-28",
+      "country": "Denmark",
+      "enrollment": 60,
+      "brief_summary": "This study aims to assess the effect of inhaled corticosteroids (ICS) on airway smooth muscle (ASM) Na+, K+ pumps in patients with asthma.We wish to investigate differences in Na+, K+ pump content in healthy versus asthmatic patients, whether a reduction in airway hyper-responsiveness observed in asthmatic patients treated with ICS is attributable to an increase in Na+, K+ pump content in ASM cells and compare this in patients with non-eosinophilic asthma versus eosinophilic asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Asthma as defined by GINA (www.ginasthma.org) Eosinophilic asthma: Fractional exhaled nitric oxide (FeNO) \\> 25 ppb (marker of eosinophilic airway inflammation) Non-eosinophilic asthma: Fractional exhaled nitric oxide (FeNO) \\< 25 ppb\n* An FEV1 value of ≥70% of expected\n* Airw",
+      "endpoints": [
+        "Change in airway hyperresponsiveness (mannitol challenge) per change in Na+, K+ pumps content in airway smooth muscle."
+      ],
+      "sponsor": "Bispebjerg Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03034005"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01232322",
+      "title": "Pulmicort Respules 0.25/0.5 Specific Clinical Experience Investigation for Long-term Use in Pediatrics",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2011-07",
+      "country": "N/A",
+      "enrollment": 633,
+      "brief_summary": "The purpose of this study is to investigate the safety and efficacy for long term treatment of the drug in children aged 6 months and \\< 5 years on bronchial asthma in daily clinical usage.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients treated with Pulmicort Respules for the first time due to bronchial asthma\n* Children of \\>= 6 months and \\< 5 years old age at the start of study treatment",
+      "endpoints": [
+        "Incidence of Adverse Events",
+        "Effects on growth rate",
+        "Effects on the adrenal cortical function."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01232322"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00697801",
+      "title": "A Randomized, Double Blind, Placebo Controlled, 3 Arm, Parallel Group, Phase 2 Study Investigating the Efficacy, Tolerability and Pharmacokinetics of MAP0010 in Asthmatic Children and Adolescents Over 6 Weeks",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 208,
+      "brief_summary": "The objectives of this study are to evaluate the efficacy, tolerability and pharmacokinetics of 2 doses of MAP0010 (Unit Dose Budesonide) in asthmatic children/adolescents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female asthmatic children/adolescents\n* 1 to 18 years of age\n* FEV1 greater than or equal to 50% predicted normal (where obtainable)\n* Stable but symptomatic\n* Diagnosis of asthma (per NIH criteria) at least 3 months before screening OR documented exacerbation or worse",
+      "endpoints": [
+        "Change From Baseline in Daytime Composite Symptom Score",
+        "Change From Baseline in Nighttime Composite Symptom Score"
+      ],
+      "sponsor": "Allergan",
+      "url": "https://clinicaltrials.gov/study/NCT00697801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03055793",
+      "title": "A Real Life, on International, Multicenter Study to Assess the Efficacy and Quality of Life in Greek Asthmatic Patients Who Will be on Fixed Dose Bodesonide Formoterol Combination Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-03-01",
+      "completion_date": "2017-07-31",
+      "country": "Greece",
+      "enrollment": 1400,
+      "brief_summary": "The greater efficacy of combination therapy led to the development of fixed combination devices which simultaneously carry both glucocorticosteroid and a LABA (eg stable combinations of fluticasone-salmeterol, budesonide-formoterol).\n\nFixed combinations are easier to use for patients, potentially increasing compliance, and ensure that the LABA always accompanied by glycocorticosteroeides1. From the available combinations of the combination of budesonide-formoterol can be used both in maintenance",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women patients with asthma over 18 years\n* Compliant to treatment\n* Compliant to the study procedures\n* Signed consent form after written study information\n* Patients with Asthma to start treatment with the inhaled combination of budesonide / formoterol at doses 100 / 6",
+      "endpoints": [
+        "Efficacy (ACQ score)"
+      ],
+      "sponsor": "Elpen Pharmaceutical Co. Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03055793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04589663",
+      "title": "An Open-label, Two-period, Single-sequence, Crossover Study to Compare the Systemic Exposure of a Single Inhaled Dose of Mometasone Furoate (MF) When Administered Alone Via the MF Twisthaler® (TH) to a Single Inhaled Dose of QMF149 Indacaterol Acetate/MF Fixed Dose Combination When Administered Via the Concept 1 (C1) Breezhaler® Device in ≥ 6 to < 12 Year Old Asthma Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-06-07",
+      "completion_date": "2022-04-11",
+      "country": "South Africa, Hungary",
+      "enrollment": 24,
+      "brief_summary": "This clinical study was designed to assess the pharmacokinetics, safety and tolerability of single inhaled doses of mometasone furoate (MF) when administered alone via MF Twisthaler® (TH) or as an indacaterol acetate/MF fixed dose combination (QMF149) via the Concept 1 (C1) device in pediatric asthma patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female children ≥ 6 years and \\< 12 years at the time of study entry.\n2. Written informed consent by parent(s)/legal guardian(s) for the pediatric patient and assent by the pediatric patient (depending on local requirements) must be obtained before any study-specific",
+      "endpoints": [
+        "Maximum Observed Mometasone Furoate Plasma Concentration (Cmax)",
+        "Area Under the Plasma Concentration-time Curve From Time Zero to the Last Sampling Time Point 6h (AUC0-6h) of Mometasone Furoate"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT04589663"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02574975",
+      "title": "Comparison of Different Methodologies Assessing Airway Responsiveness and Investigation of Treatment Efficacy of Budesonide /Formoterol in Asthmatics",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-04",
+      "completion_date": "2016-05",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "Bronchial asthma is a common chronic respiratory disease. Patients usually manifest variable symptoms (such as short of breath, chest tightness, cough, etc.) and variable airflow limitation and often associated with airway hyper-responsiveness and airway inflammation. About 1-18% of the global population suffered from the disease, causing huge economic burden for patients and countries. Airway reactivity measurement is an important way of diagnosis of asthma. Methacholine (Mch) bronchial provoca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinically diagnosed Asthmatic patients aged from14 to 65 years；\n* Had a had a normal chest radiographic result；\n* Had a baseline spirometry with the forced expiratory volume in one second (FEV1) of not less than 60% predicted；\n* Without acute upper respiratory tract infection",
+      "endpoints": [
+        "positive rate of BPT in each group"
+      ],
+      "sponsor": "Zhujiang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02574975"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00646594",
+      "title": "A Two Stage Randomized, Open-Label, Parallel Group, Phase III, Multicenter, 7 Month Study to Assess the Efficacy & Safety of SYMBICORT pMDI Adminstered Either as Fixed or as an Adjustable Regimen Versus a Fixed Regimen of Advair in Subjects 12 Yrs of Age and Older With Asthma.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2005-01",
+      "country": "N/A",
+      "enrollment": 1200,
+      "brief_summary": "The purpose of this study is to determine whether Symbicort compared with Advair, will be more effective in controlling asthma in adults and adolescents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma\n* Baseline lung function tests as determined by protocol\n* Required and received treatment with inhaled corticosteroids within timeframe and doses specified in protocol\n\nExclusion Criteria:\n\n* Has required treatment with any non-inhaled corticosteroid withi",
+      "endpoints": [
+        "Asthma control assessed by asthma exacerbations"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00646594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01001364",
+      "title": "A Phase III, Randomized, Open-Label, Non-Inferiority Comparative Study Between Foraseq Inhalation Capsules 12/200 Μg and Formoterol/ Budesonide Inhalation Capsules 12/200 Μg Eurofarma in Patients with Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2011-04",
+      "country": "Brazil",
+      "enrollment": 88,
+      "brief_summary": "This study primary objective is to compare the impact of two products containing budesonide and formoterol as individual capsules with inhalation powder for the pulmonary function of subjects with persistent asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sign ICF (see Attachment A);\n* Age ≥12 years old\n* Diagnosis of mild to moderate persistent asthma, as per the ARIA classification, 35 with symptoms for at least 6 months, clinically stable for at least 1 month with ACQ-7 test34 (see Attachment D) \\< 3.0;\n* Current use of inha",
+      "endpoints": [
+        "The study primary endpoint will be the forced expiratory volume in 1 second (FEV1) at the final visit (FV) at each study arm."
+      ],
+      "sponsor": "Eurofarma Laboratorios S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01001364"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02352168",
+      "title": "To Evaluate Airway Inflammation in Children With Allergic Rhinitis and To Examine the Effects of Nasal Corticosteroids Therapy on Lower Airway Inflammation of Rhinitis.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-09",
+      "completion_date": "2015-10",
+      "country": "China",
+      "enrollment": 68,
+      "brief_summary": "The purpose of this study is to determine whether treating upper airway with intranasal corticosteroids in children with allergic rhinitis and no asthma may bring favors in reducing lower airway inflammation and improving small airway function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical diagnosis of allergic rhinitis without asthma\n* sensitized to more than 1 common aeroaller¬gens\n* FeNO \\>20ppb and/or induced sputum Eosinophil\\>2.5%\n\nExclusion Criteria:\n\n* Respiratory infection 2 weeks prior to initial visit\n* children with nasal polyposis\n* History",
+      "endpoints": [
+        "Change from baseline fractional exhaled nitric oxide (FeNO) at 3 months",
+        "Change from baseline eosinophils in sputum at 3 months"
+      ],
+      "sponsor": "Guangzhou Institute of Respiratory Disease",
+      "url": "https://clinicaltrials.gov/study/NCT02352168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04233190",
+      "title": "A Randomized, Parallel-group, Open, Two-period, Comparative Non-inferiority Study of Eurofarma's Formoterol/budesonide Vs Alenia in the Treatment of Moderate to Severe Persistent Asthma with and Without Chronic Obstructive Pulmonary COPD",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-04-19",
+      "completion_date": "2024-10-30",
+      "country": "Brazil",
+      "enrollment": 472,
+      "brief_summary": "A phase III study, multicenter, randomized, parallel, open, two-period, comparative non-inferiority of Eurofarma versus Alenia® in the treatment of moderate to severe persistent asthma with and without obstructive pulmonary disease (COPD).\n\n⚠️study will only be conducted in research centers in Brazil (please do not send e-mail if your center is outside brazil).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 12 years\n* Presence of moderate to severe persistent asthma according to Global Initiative for Asthma (GINA) 1 criteria for at least 1 year, clinically stable (controlled) for at least 30 days.\n\nExclusion Criteria:\n\n* Occurrence of asthma exacerbation within 30 days prio",
+      "endpoints": [
+        "FEV1"
+      ],
+      "sponsor": "Eurofarma Laboratorios S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT04233190"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06372496",
+      "title": "A Phase 4, 52-week (Primary Analysis at 24-weeks), Randomized, Stratified, Open-label, Active-controlled, Parallel-group, Effectiveness Study, Comparing FF/UMEC/VI With Non-ellipta Usual Care (ICS/LABA) in Adult Participants With Uncontrolled Asthma",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-04-16",
+      "completion_date": "2026-01-22",
+      "country": "South Korea, Taiwan, Australia, Canada, Argentina, Japan, United States",
+      "enrollment": 1357,
+      "brief_summary": "The goal of this study is to assess and compare the effectiveness of fluticasone furoate/umeclidinium bromide/vilanterol trifenatate (FF/UMEC/VI) with inhaled corticosteroids/long-acting beta-2 agonists (ICS/LABA) in adult participants with uncontrolled asthma",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants are eligible to be included in the study only if all of the following criteria apply:\n\n1. Has a diagnosis of asthma as defined by Global Initiative for Asthma (GINA) 2023 guidelines for at least 3 months prior to randomization.\n2. Participants who are either:\n\n   * ",
+      "endpoints": [
+        "Change from baseline in trough forced expiratory volume in 1 second (FEV1)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT06372496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04848662",
+      "title": "A Phase I, Randomized, Open-label, Single-dose, 2-way Crossover Study to Compare the Pharmacokinetics of Budesonide Delivered by PT027 to Pulmicort Respules® in Children With Asthma Aged 4 to 8 Years (BLANC)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2021-05-06",
+      "completion_date": "2021-07-08",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "To compare the pharmacokinetics of budesonide delivered by BDA MDI to budesonide delivered by Pulmicort Respules in children with Asthma aged 4 to 8 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of informed consent prior to any study specific procedures. Children should provide assent to join the study, as applicable. The child's parent(s) or legally authorized representative (LAR) must sign the informed consent form (ICF). The LAR must be aged ≥18 years ol",
+      "endpoints": [
+        "AUC0-t",
+        "Cmax"
+      ],
+      "sponsor": "Bond Avillion 2 Development LP",
+      "url": "https://clinicaltrials.gov/study/NCT04848662"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00646620",
+      "title": "A Randomized, Multicenter, Placebo and Active-Controlled, Single-Dose, 4-Period, Crossover Study to Evaluate the Bronchodilating Effect of SYMBICORT pMDI Versus Advair Diskus and Ventolin HFA.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2003-09",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study is to compare the early onset of effect of Symbicort compared to Advair Diskus and Ventolin in adults with asthma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma and baseline lung function test results as determined by protocol\n* Required and received asthma maintenance therapy within previous 4 weeks at doses determined by protocol\n\nExclusion Criteria:\n\n* Severe asthma or asthma markedly affected by seasonal factor",
+      "endpoints": [
+        "FEV1 3 minutes post dose"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00646620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855959",
+      "title": "An Evaluation of Efficacy and Safety of Corresponding Doses of Pulmicort Turbuhaler® and Pulmicort Respules® in Japanese Asthmatic Adult Patients (Open, Multicenter, Phase III Study)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2009-08",
+      "country": "Japan",
+      "enrollment": 108,
+      "brief_summary": "The primary objective of the study is to show similarity of efficacy on Pulmicort Respules 1.0 mg/day or 2.0 mg/day for 6 weeks in the treatment period and the corresponding doses of Pulmicort Turbuhaler 400 μg/day or 800 μg/day for 4 weeks in the observation period in Japanese adult asthmatic patients with age of 16 years or older.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of informed consent prior to any study specific procedures.\n* A minimum of 6 months documented history of asthma according to the JGL 2006 definition\n* Asthma patients under prescribed treatment with ICS at least 3 months before Visit 2.\n\nExclusion Criteria:\n\n* Curre",
+      "endpoints": [
+        "Morning Peak Expiratory Flow (mPEF)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00855959"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01340118",
+      "title": "Concurrent Improvement of Exhaled Nitric Oxide and FEF25-75 After Treatment With Inhaled Corticosteroid in Children With Controlled Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2010-07",
+      "country": "South Korea",
+      "enrollment": 93,
+      "brief_summary": "Abnormal lung function and high exhaled nitric oxide (FeNO) have been reported in asymptomatic patients with asthma. The investigators aimed to assess whether FeNO and FEF25-75 improve concurrently after treatment with inhaled corticosteroid (ICS) in patients with controlled asthma. Geometric mean (GM) FeNO and spirometric values in patients 8 to 16 years of age who maintained asthma control without controller medication were compared with healthy controls and patients with uncontrolled asthma w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* sensitized to aeroallergens and previously diagnosed to have asthma based on the documentation of airway hyperresponsiveness (methacholine PC20 ≤ 8 mg/mL) and/or reversible airflow obstruction (≥ 12% improvement in FEV1 in response to inhaled beta 2-agonist)\n* maintained asthm",
+      "endpoints": [
+        "FeNO"
+      ],
+      "sponsor": "Chungbuk National University",
+      "url": "https://clinicaltrials.gov/study/NCT01340118"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06895460",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Clinical Trial on the Treatment of Bronchial Asthma With Budesonide Formoterol Combined With Immune Modulators (Staphylococcus and Neisseria Tablets)",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-06-20",
+      "completion_date": "2027-09-30",
+      "country": "China",
+      "enrollment": 198,
+      "brief_summary": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Clinical Trial on the Treatment of Bronchial Asthma with Budesonide Formoterol Combined with Immune Modulators (Staphylococcus and Neisseria Tablets)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 14 years, male or female;\n2. Confirmed diagnosis of asthma at least 6 months prior to screening;\n3. Patients with uncontrolled asthma (according to the 2024 GINA guidelines-asthma control level classification criteria, patients with partially controlled and uncontrolled",
+      "endpoints": [
+        "The overall asthma control rate at 12 weeks of treatment"
+      ],
+      "sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06895460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00233584",
+      "title": "A Study to Evaluate the Feasibility of a Treatment Algorithm in Newly Diagnosed Asthmatic Children. An Open Follow-up to Asthma Prevention in Infants/Young Children (PAC)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2001-07",
+      "completion_date": "2006-06",
+      "country": "Denmark",
+      "enrollment": 400,
+      "brief_summary": "This prospective study will evaluate the feasibility of the defined decision tree for the treatment of asthmatic young children. Children who develop episode (=3 consecutive days) of any troublesome lower respiratory symptoms are treated according to a strictly pre-defined multi-steps treatment algorithm until the age of 6 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children form the COPSAC/PAC study with episodes of troublesome respiratory symptoms. Episodes are defined as 3 consecutive days of any troublesome lower respiratory symptoms.\n\nExclusion Criteria:\n\n* Differential diagnoses including at least a chest x-ray and sweat test.",
+      "endpoints": [
+        "Success rate of the treatment algorithm: Frequency of protocol deviations, asthma exacerbations, different treatment steps.",
+        "Efficacy - development of lung function."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00233584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04561687",
+      "title": "Comparison of Montelukast and Azelastine in Treatment of Moderate to Severe Allergic Rhinitis",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-01-16",
+      "completion_date": "2021-12-15",
+      "country": "Iran",
+      "enrollment": 66,
+      "brief_summary": "Comparison of Montelukast and Azelastine In treatment of Allergic Rhinitis Allergic intent is one of the most common diseases of the respiratory system that has a devastating effect on the quality of life. The importance of studying this disease can be seen from the high prevalence of this diseas. In addition to the high prevalence, due to the reducing effect of this disease on the economy and academic performance of patients, a great burden is imposed by this disease on the country's health car",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 6-50years\n* Moderate to severe allergic rhinitis\n\nExclusion Criteria:\n\n* Under any treatment\n\n  * Drug sensitivity",
+      "endpoints": [
+        "Change in Sino-Nasal Outcome Test scores (SNOT-22)"
+      ],
+      "sponsor": "Shiraz University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04561687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04609904",
+      "title": "A Randomized, Double-Blind, Double Dummy, Parallel Group, Multicenter Variable Length Study to Assess the Efficacy and Safety of PT010 Relative to PT009 and Symbicort® in Adult and Adolescent Participants With Inadequately Controlled Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-03-01",
+      "completion_date": "2025-03-20",
+      "country": "Israel, Brazil, Czechia, Mexico, Puerto Rico, Greece, Russia, South Africa, Turkey (Türkiye), Slovakia, Germany, China, United Kingdom, Portugal, Colombia, United States",
+      "enrollment": 2187,
+      "brief_summary": "This is a variable length study to evaluate the efficacy and safety of budesonide/glycopyrronium/formoterol inhaler in adults and adolescents with severe asthma inadequately controlled with standard of care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 12 to 80 years of age, male and female, BMI \\<40 kg/m2; females must be not of childbearing potential or using a form of highly effective birth control.\n2. Documented history of physician-diagnosed asthma \\> and/or = 1 year prior to V1.\n3. Regularly using a stable daily ICS/L",
+      "endpoints": [
+        "Change from baseline in forced expiratory volume in 1 second (FEV1) area under the curve 0 to 3 hours (AUC0-3) at Week 24",
+        "Rate of severe asthma exacerbations"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT04609904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01360021",
+      "title": "A 12-week, Double-blind, Randomized, Multi-centre, Parallel-group Study Evaluating the Efficacy Safety, and Patient Use (User Study) of Symbicort® (Budesonide/Formoterol) Breath Actuated Metered Dose Inhaler (BA MDI) 2x160/4.5 μg Twice Daily Compared With Symbicort (Budesonide/Formoterol) AC (Actuation Counter) pMDI® 2x160/4.5 μg Twice Daily and Budesonide AC pMDI 2x160 μg Twice Daily in Adult and Adolescent Asthmatics",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-08",
+      "country": "Bulgaria, Hungary, Russia, United States",
+      "enrollment": 214,
+      "brief_summary": "This is a comparison of the efficacy of the Symbicort breath actuated dose inhaler to the Symbicort pressured meter dose inhaler after 12 weeks of a twice a day dose.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female 12 years and above\n* Clinical diagnosis of asthma according to the American Thoracic Society definition at least 6 months\n* Pre-bronchodilator FEV1 ≥ 45% and ≤ 85% of predicted normal\n* Patients with reversible airway obstruction\n* Documented daily use of inhale",
+      "endpoints": [
+        "Forced Expiratory Volume in 1 Second (FEV1) - Post Dose",
+        "Forced Expiratory Volume in 1 Second (FEV1) - Pre Dose"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01360021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06568445",
+      "title": "Efficacy of Regular ICS/LABA Sequential As-Needed Therapy in Newly Diagnosed Mild Asthma Patients: A Randomized, Parallel, Positive-Control Study",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-08-12",
+      "completion_date": "2027-09-30",
+      "country": "China",
+      "enrollment": 90,
+      "brief_summary": "1. Evaluate the efficacy of 4 weeks of maintenance therapy with low-dose ICS/LABA versus as-needed low-dose ICS/LABA in newly diagnosed mild asthma patients. Assess the improvement in FEV1 from baseline over 4 weeks, and the impact on airway reversibility and inflammation levels. Identify the optimal patient population and treatment regimen for the medication.\n2. Based on a comprehensive evaluation of pulmonary function parameters (including large airway parameters: FEV1, FEV1/FVC; peak flow: PE",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants fully understand the purpose and methods of the study, voluntarily agree to participate, and sign an informed consent form before any study procedures begin.\n2. Adults (including males and non-pregnant, non-lactating females) aged 18 to 70 years (inclusive), who ",
+      "endpoints": [
+        "Change from baseline in forced expiratory volume in the first second (FEV1) at week 4"
+      ],
+      "sponsor": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT06568445"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00255255",
+      "title": "An Open, Phase III, Multicentre, 52-week Study, Evaluating the Safety and Efficacy of Symbicort® Turbuhaler® (1, 2, and 4 x 160/4.5 µg Twice Daily) in Japanese Patients With Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2007-06",
+      "country": "Japan",
+      "enrollment": 120,
+      "brief_summary": "This study is to confirm the safety of Symbicort® Turbuhaler® 160/4.5 µg 1, 2 or 4 inhalation b.i.d. over a 52 week treatment period in asthmatic patients who are being treated with IGCS and long acting β2-agonist (LABA) and/or other anti-asthmatic drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of asthma with a documented history of at least 6 months duration prior to Visit 1\n* Prescribed daily use of an IGCS for ≥12 weeks prior to Visit 1\n* Prescribed daily use of at least one of the following:\n\nTheophylline, long acting β2-agonist (LABA), other anti-asthm",
+      "endpoints": [
+        "Safety: Adverse events (nature, incidence and severity) Haematology, clinical chemistry, morning plasma cortisol, urinalysis, and ACTH challenge test 12-lead ECGs, blood pressure, pulse rate"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00255255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05246085",
+      "title": "Evaluating Adrenal Insufficiency in Adults With Eosinophilic Esophagitis on Chronic Swallowed Topical Steroids",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-08-10",
+      "completion_date": "2023-07-01",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "Eosinophilic esophagitis (EoE), a chronic inflammatory disease of the esophagus, is a clinical and financial burden to patients if left untreated. Often the natural history of the disease includes development of fibrosis and stricturing of the esophagus, acute food impactions, unplanned emergency room visits, and invasive procedures such as endoscopy. Currently there are no Food and Drug Administration (FDA) approved medications for the treatment of EoE. As such, pharmacologic options approved f",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 300 adult male or female patients between 18 and 85 years of age with a diagnosis of eosinophilic esophagitis who have been on swallowed topical steroids or proton pump inhibitor therapy (any dosing) for at least 3 months.\n\nExclusion Criteria:\n\n* We will exclude control patien",
+      "endpoints": [
+        "Prevalence of adrenal insufficiency"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT05246085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01136655",
+      "title": "A Phase 2, Randomized, Blinded, 5-period Cross-over, Placebo and Active Controlled, Multicenter, Dose-finding Study Comparing Single Doses of Formoterol 2.25 µg, 4.5 µg, and 9 µg Delivered Via Symbicort pMDI and Foradil® 12 µg Evaluating the Relative Bronchodilating Effects and Safety in Children",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2011-12",
+      "country": "Bulgaria, Czechia, South Africa, Hungary, Poland, United States",
+      "enrollment": 54,
+      "brief_summary": "This purpose of the study is to investigate the bronchodilating effects of 3 different dosages of formoterol given in combination with budesonide as Symbicort pMDI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has a documented clinical diagnosis of asthma for at least 6 months prior to Visit 1\n* Has a FEV1 measured at least 6 hours after the last dose of inhaled, short-acting β2-agonist (SABA) and at least 48 hours after the last dose of inhaled long-acting β2-agonist of =60% and =8",
+      "endpoints": [
+        "Average 12 Hour Forced Expiratory Volume in 1 Second (FEV1)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01136655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04191447",
+      "title": "Multicenter, Randomized, Double-blind, Double-dummy, National, Phase III Clinical Trial to Evaluate the Efficacy and Safety of Flamboyant 200/12 Association in the Treatment of Adults With Severe Asthma .",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-07-22",
+      "completion_date": "2023-10",
+      "country": "Brazil",
+      "enrollment": 134,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Flamboyant 200/12 association in adults with asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to confirm voluntary participation and agree to all trial purposes by signing and dating the informed consent forms;\n* Participants aged 18 years or more;\n* Diagnosis of uncontrolled severe asthma;\n* Participants with Forced expiratory volume in 1 second (FEV1) \\> 60% ",
+      "endpoints": [
+        "Change from baseline in Forced expiratory volume in 1 second (FEV1), obtained through espirometry."
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT04191447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01785901",
+      "title": "The Asthma Control Rate Achieved by Budesonide/Formoterol in Clinical Practice in China",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2014-10",
+      "country": "China",
+      "enrollment": 1502,
+      "brief_summary": "This is a multi-centre, cross-sectional study planned to be conducted in China. The study aims to observe about 1500 asthma patients who have already received budesonide/formoterol combination treatment by physicians' determination and whose medications are aligned with the package insert of budesonide/formoterol approved in China.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinical diagnosis of asthma at least 6 months;\n2. Prescribed with budesonide/formoterol treatment at least 3 months before enrolled;\n3. Has used the same maintenance dose of budesonide/formoterol for at least 4 weeks before enrolled.\n\nExclusion Criteria:\n\n1. Participation in",
+      "endpoints": [
+        "The rate of controlled and partly controlled asthma according to the definition of Global Initiative for Asthma"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01785901"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04171180",
+      "title": "The Efficacy of Budesonide/Formoterol in Cough Variant Asthma -- A Multi-center Randomized, Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-01",
+      "completion_date": "2023-05",
+      "country": "China",
+      "enrollment": 500,
+      "brief_summary": "Cough variant asthma (CVA), subtype of bronchial asthma, is considered to be one of the most common causes of chronic cough in different cough guidelines of United States, Europe, China and other countries. From a multicenter survey in China, over one third of chronic cough is caused by CVA, which is higher than western countries. CVA differs from classic asthma, usually manifesting a symptom of only coughing without wheezing or dyspnea and particularly coughing at night. With less clinical mani",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients, with age ≥18，≤70 years old.\n* Diagnose with CVA\n* CSS(cough symptom score, daytime + nighttime) ≥ 3 points\n\nExclusion Criteria:\n\n* Participated in any interventional clinical trial during the last 90 days.\n* Pregnancy\n* Associated with a clear history of other lun",
+      "endpoints": [
+        "the proportion of CVA patient with symptom relapse"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT04171180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00252824",
+      "title": "A Comparison of the Efficacy of Symbicort® Single Inhaler Therapy (Symbicort Turbuhaler® 160/4.5 mg 1 Inhalation b.i.d. Plus As-needed) and Conventional Best Practice for the Treatment of Persistent Asthma in Adolescents and Adults - a 26 Weeks, Randomised, Open-label, Parallel-group, Multicentre Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2006-12",
+      "country": "Iceland, Slovenia, Chile, Croatia, Czechia, Greece, Slovakia, Latvia, Portugal, Lithuania",
+      "enrollment": 1000,
+      "brief_summary": "The purpose of the study is to compare the efficacy of a flexible dose of Symbicort with conventional stepwise treatment according to asthma treatment guidelines in patients with persistent asthma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Diagnosis of asthma ³ 3 months\n* Prescribed daily use of glucocorticosteroids at a dose \\> 320 mcg/ day for at least 3 months prior to Visit 1\n\nExclusion Criteria:\n\n* Smoking history \\> 10 pack-years\n* Asthma exacerbation requiring change in asthma treatment during the last",
+      "endpoints": [
+        "Time to first severe asthma exacerbation"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00252824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03468790",
+      "title": "A Multi-centre, Randomized, Double-blind, Placebo-controlled Phase III Study to Evaluate the Efficacy and Safety of Anti-IgE Monoclonal Antibody to Treat Allergic Asthma Patients Not Adequately Controlled Despite Med/High ICS/LABA.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-05-09",
+      "completion_date": "2021-03-09",
+      "country": "China",
+      "enrollment": 393,
+      "brief_summary": "This is a multi-centre, randomized, double-blind，placebo parallel-controlled phase III study to evaluate the efficacy and safety of CMAB007 (recombinant humanized anti-immunoglobulin E(IgE) monoclonal antibody for injection) to treat asthma patients who remain not adequately controlled despite Med/high ICS plus LABA in China. Following a screening period of up to 2 weeks and run-in period of 4 weeks, randomized patients will enter a 24-week treatment period with CMAB007 or placebo. Efficacy and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed and dated informed consent prior to any study assessment;\n2. Age 15-75 years inclusive, female or male;\n3. Diagnosed as asthma according to the guideline for the prevention and treatment of bronchial asthma in China (version 2016), with duration for more than 1 years;\n",
+      "endpoints": [
+        "the mean number of asthma exacerbations per patient during the 24-week treatment period"
+      ],
+      "sponsor": "Shanghai Biomabs Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03468790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02181335",
+      "title": "A Twelve-week, Efficacy and Safety Study Comparing Respimat ® Budesonide (100 and 200 mcg, 2 Puffs Bid) With Turbohaler ® Budesonide (200 mcg, 2 Puffs Bid) in Symptomatic Adult Moderate to Severe Asthmatic Requiring Inhaled Corticosteroids and Bronchodilator Therapy.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-10",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 684,
+      "brief_summary": "To establish that at least one of the two doses of Budesonide, as an ethanolic solution inhaled from the Respimat ® inhaler (100 and 200 mcg, 2 puffs bid) for a 12-week study period in symptomatic moderate to severe asthmatic patients, gives a therapeutic response, which is not inferior to that obtained from the dose of Budesonide inhaled from the Turbohaler ® (200 mcg, 2 puffs bid) and that the safety profile is at least as good",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of either sex aged 18 - 65 years (inclusive)\n* Non-smokers or ex smokers. HAVING stopped smoking \\>= 1 year prior to screening and with a smoking history of \\<= 10 pack years\n* Diagnosis of MODERATE to SEVERE bronchial asthma with a duration of at least 6 months with ",
+      "endpoints": [
+        "Change in mean weekly morning pre-dose Peak Expiratory Flow Rate (a.m. PEFR)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02181335"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00996697",
+      "title": "A Proof Of Concept Study To Evaluate Tiotropium as Add-on Therapy to Inhaled Budesonide/Formoterol Combination in COPD",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-09",
+      "country": "United Kingdom",
+      "enrollment": 23,
+      "brief_summary": "Different medications are often used in combination for the condition COPD (chronic obstructive pulmonary disease). Some medicines act by opening the airways (bronchodilators) and some act as anti-inflammatories (steroids). More recently an approach of using a combination inhaler (containing a steroid and a long-acting bronchodilator) at the same time as a long acting bronchodilator of a different group of medicines (anti-cholinergics inhalers) has been used. This approach is sometimes called 't",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current or ex-smokers\n* aged over 50years\n* FEV1/FVC ratio less than 0.7\n* FEV1 less than 60% predicted\n\nExclusion Criteria:\n\n* Diagnosis of asthma, ABPA or bronchiectasis\n* Recent RTI or steroid use\n* Inability to perform study procedures or to give informed consent\n* Known s",
+      "endpoints": [
+        "Change in trough FEV1 for tiotropium compared to placebo when added to formoterol/budesonide combination"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00996697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03879590",
+      "title": "Efficacy Of Doxophylline As A Sparing Treatment For Inhaled Corticosteroids In Mexican Children With Asthma",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-05",
+      "completion_date": "2019-12",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "This study evaluated the efficacy of doxophylline as a steroid sparing treatment in Mexican children with asthma treated with medium ir high doses of inhaled corticosteroids (ICS). It is a cross over study in which both groups of patients will receive doxophylline plus a lower steroid dose maintaining the same treatment step according to GINA guidelines, one group will maintain the same treatment dose while the other will start with doxophylline with the lower ICS dose, and by the middle of the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Mexican patients between 6 and 16 years old.\n2. Clinical diagnosis of asthma according to the current guidelines of the Global Asthma Initiative (GINA) 2018.\n3. Patients with asthma treated with budesonide at medium or high doses during (GINA guidelines´ steps 3 or 4) at leas",
+      "endpoints": [
+        "Changes in the values of the forced expiratory volume on the first second"
+      ],
+      "sponsor": "Universidad Autonoma de Nuevo Leon",
+      "url": "https://clinicaltrials.gov/study/NCT03879590"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03333018",
+      "title": "Aclidinium Bromide Drug Utilisation Post-Authorisation Safety Studies (DUS): Common Protocol for Aclidinium (DUS1) and Aclidinium/Formoterol Fixed-Dose Combination (DUS2)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-07-06",
+      "completion_date": "2017-02-28",
+      "country": "Denmark, United Kingdom, Germany",
+      "enrollment": 22155,
+      "brief_summary": "DUS1 and DUS2 are descriptive drug utilisation studies in new users of aclidinium bromide in Europe.\n\nThe objectives of DUS1 and DUS2 are to describe the characteristics and patterns of use of new users of aclidinium bromide (monotherapy or in combination) and new users of other medications for chronic obstructive pulmonary disease (COPD); to evaluate the potential off-label use of aclidinium bromide; to describe users of aclidinium bromide in subgroups of patients for whom there is missing info",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients in the study will be required to meet the following criteria, as ascertained from each of the automated databases:\n* To have at least 1 year of enrolment in the database (DUS1 and DUS2).\n* To have not been prescribed aclidinium bromide as monotherapy or with concomita",
+      "endpoints": [
+        "Baseline age of new users",
+        "Baseline frequency of new users with a diagnosis of COPD including emphysema or chronic bronchitis",
+        "Baseline frequency of new users with severe COPD"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT03333018"
+    }
+  ],
+  "timestamp": "2026-03-04T15:07:54.327890",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,160 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "infectious otitis media"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01272999",
+      "title": "POSTMARKETING OBSERVATIONAL STUDY OF THE IMPACT OF PREVNAR 13 (PNEUMOCOCCAL 13-VALENT CONJUGATE VACCINE) ON OTITIS MEDIA IN CHILDREN",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-05-21",
+      "completion_date": "2013-12-19",
+      "country": "United States",
+      "enrollment": 391,
+      "brief_summary": "Prevnar (7 valent pneumococcal conjugate vaccine \\[7vPnC\\]) has been shown to be effective against ear infections in children. Prevnar 13 is a new vaccine that is similar to Prevnar. It is expected that the effectiveness of Prevnar 13 against ear infections in children will be similar to that observed following Prevnar. Pfizer has committed to conduct a postmarketing study of the impact of Prevnar 13 in reducing ear infections among children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Case eligibility should be based on microbiologic data and should be reviewed and documented by an appropriately qualified member of the investigator's study team before cases are included in the study database.\n* S pneumoniae identified from middle ear fluid or mastoiditis sa",
+      "endpoints": [
+        "Percentage of Streptococcus Pneumoniae Serotype Isolates From Middle Ear Fluid (MEF) Sample at Surveillance Year 1",
+        "Percentage of Streptococcus Pneumoniae Serotype Isolates From Middle Ear Fluid (MEF) Sample at Surveillance Year 2",
+        "Percentage of Streptococcus Pneumoniae Serotype Isolates From Middle Ear Fluid (MEF) Sample at Surveillance Year 3"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01272999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00168532",
+      "title": "Prophylactic Antibiotics in Measles Infection. A Community-Based Randomised Double-Blind Placebo-Controlled Trial in Guinea-Bissau",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2001-10",
+      "country": "Guinea-Bissau",
+      "enrollment": 218,
+      "brief_summary": "Objective It is the objective to test whether the use of prophylactic antibiotics in measles infection will reduce the incidence of post-measles pneumonia and/or admissions to hospital with 50%. The possible impact on other complications of severe measles will also be measured.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A clinical diagnosis of probable measles in the prodromal phase or within the first seven days of the onset of the rash\n\nExclusion Criteria:\n\n* Pregnant and nursing women\n* Children less than 2 months old\n* Children who need urgent referral to the hospital, children with bacte",
+      "endpoints": [
+        "Post-measles pneumonia",
+        "Admission to hospital"
+      ],
+      "sponsor": "Bandim Health Project",
+      "url": "https://clinicaltrials.gov/study/NCT00168532"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00471822",
+      "title": "An Evaluation of Streptococcus Pneumoniae Serotype Carriage Rate for Nasopharyngeal Carriage in Taiwanese Children Attending Pediatric Clinics in Hospitals, Day Care Centers, or Kindergartens",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2010-12",
+      "country": "Taiwan",
+      "enrollment": 9707,
+      "brief_summary": "Primary Objective: Evaluation of the\n\n\\- Carriage rate of Streptococcus pneumoniae in the nasopharynx of children\n\nSecondary Objective:\n\n* Carriage rate and distribution of Streptococcus pneumoniae serotypes\n* Estimation of prevalence rate of antibiotic-resistant Streptococcus pneumoniae strains\n* Distribution of Staphylococcus aureus strain\n* The influence of risk factors in the Streptococcus pneumoniae carriage rate in children",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children aged between 2 months and 5 years attending pediatric clinics in hospitals, day care centers or kindergartens.\n2. Informed consent obtained from parents or legal guardian.\n\nExclusion Criteria:\n\n1. Children younger than 2 months of age.\n2. Children with following seri",
+      "endpoints": [
+        "Percentage of Participants With Carriage of Streptococcus Pneumoniae in Nasopharynx"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00471822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02554383",
+      "title": "Efficacy of Antibiotics in Children With Acute Sinusitis: Which Subgroups Benefit?",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02",
+      "completion_date": "2023-03-09",
+      "country": "United States",
+      "enrollment": 515,
+      "brief_summary": "The objective of this trial is to determine whether certain subgroups of children with acute sinusitis exist in whom antibiotic therapy can be appropriately withheld.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets criteria for \"persistent\" or \"worsening\" presentations of sinusitis\n* Baseline score ≥9 on the Pediatric Rhinosinusitis Symptom Scale\n\nExclusion Criteria:\n\n* Severe presentation (≥3 days of colored nasal discharge and fever ≥39°C\n* Asthma/allergic rhinitis explains sympt",
+      "endpoints": [
+        "The Mean Pediatric Rhinosinusitis Symptom Scale (PRSS) Score Over the First 10 Days of Follow-up According to the Presence of Pathogens in the Nasopharynx at Enrollment",
+        "The Mean Pediatric Rhinosinusitis Symptom Scale (PRSS) Score Over the First 10 Days of Follow-up According to the Presence of Colored Nasal Discharge at Enrollment"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT02554383"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511107",
+      "title": "A Phase 2b, Multicenter, Randomized, Double Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy of Short-Course Antimicrobial Therapy for Young Children With Acute Otitis Media (AOM) and Impact on Antimicrobial Resistance",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-01",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 520,
+      "brief_summary": "The investigators will study whether, in young children with acute otitis media (AOM), shortening length of antibiotic treatment as a strategy for reducing antimicrobial resistance provides satisfactory clinical outcome. This is a Phase 2b multicenter, randomized, double-blind, placebo-controlled clinical trial in 600 children aged 6 through 23 months comparing the efficacy of consistent reduced-duration antimicrobial treatment (5 days) with that of consistent standard-duration treatment (10 day",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 6 through 23 months\n2. Have evidence of AOM defined as:\n\n   * recent (within 48 hours) onset of signs and symptoms as described in the Acute Otitis Media - Severity of Symptoms (AOM-SOS) Scale AND a score of ≥3 at the time of enrollment on the AOM-SOS scale\n   * middle e",
+      "endpoints": [
+        "The Distribution of Children Categorized as Treatment Failure (TF) at or Before the Day 12-14 End-of-Treatment Visit Specific to the Index Episode of AOM"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01511107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00189098",
+      "title": "Effectiveness of Sulfamethoxazole-trimethoprim in the Treatment of Chronic Otitis Media",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2006-11",
+      "country": "Netherlands",
+      "enrollment": 101,
+      "brief_summary": "Chronic suppurative otitis media is one of the most common chronic infections in children worldwide. Symptoms include otorrhea, otalgia and hearing loss. In many countries, it is treated primarily with antibiotics; in other countries such as the Netherlands a surgical approach, such as a tonsillectomy, adenoidectomy, placement or removal of tympanostomy tubes or a tympanomastoidectomy is preferred. There is however, no agreement on the management of this disease.\n\nThe purpose of this study is to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 1 and 12 years\n* otorrhea for more than 3 months\n\nExclusion Criteria:\n\n* cholesteatoma\n* known immune deficiency other than IgA or IgG2\n* Down's syndrome\n* craniofacial anomalies\n* cystic fibrosis\n* immotile cilia syndrome\n* allergy to sulfamethoxazole-trimethoprim",
+      "endpoints": [
+        "Number of Participants With Otomicroscopic Signs of Otorrhea in Either Ear"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT00189098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02567825",
+      "title": "Efficacy of Tympanostomy Tubes for Children With Recurrent Acute Otitis Media",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2021-02",
+      "country": "United States",
+      "enrollment": 250,
+      "brief_summary": "To determine whether tympanostomy tube placement (TTP) compared with nonsurgical management will meaningfully improve children's acute otitis media (AOM) experience over the succeeding 2 years.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. are aged 6-35 months,\n2. have rAOM, defined as the occurrence of 3 AOM episodes in 6 months or 4 episodes in 12 months with ≥1 episode in the preceding 6 months, and\n3. 2 of these AOM episodes have been documented by trained study personnel.\n\nExclusion Criteria\n\n1. have a hist",
+      "endpoints": [
+        "The Rate of Occurrence of Acute Otitis Media (AOM) Episodes Per Child-Year"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT02567825"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06982105",
+      "title": "Comparing Optimal Step-down Therapy for Children With Invasive MRSA Trimethoprim-Sulfamethoxazole vs. Clindamycin for the Treatment of Children With Invasive MRSA Infections",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-05-20",
+      "completion_date": "2027-06",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The goal of this clinical trial is to learn if trimethoprim-sulfamethoxazole (TMP-SMX) works to treat invasive infections due to methicillin-resistant Staphylococcus aureus (MRSA) in children. It will also learn about the safety of TMP-SMX in the treatment of children with invasive MRSA infections. The main questions it aims to answer are:\n\n-Is TMP-SMX effective at successfully treating children with invasive infections due to MRSA? What are the side effects of TMP-SMX in children taking it for ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 60 days to 18 years of age (inclusive) at the time of oral step down treatment\n2. Diagnosed by the clinical team with OAI or HNI:\n\n   * OAI- at least 1 focal finding and 1 systemic finding OR radiographic confirmation of OAI\n\n     * Focal finding- pain/swelling over a bone/jo",
+      "endpoints": [
+        "Number of Participants with Treatment Success"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT06982105"
+    }
+  ],
+  "timestamp": "2026-03-04T15:49:41.216970",
+  "success": true,
+  "error_message": null
+}

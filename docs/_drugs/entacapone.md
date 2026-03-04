@@ -6,7 +6,7 @@ drug_name: "Entacapone"
 kg_predictions: 88
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 88
+indication_count: 5
 brands: []
 permalink: /drugs/entacapone/
 ---

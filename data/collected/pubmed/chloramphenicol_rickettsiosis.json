@@ -1,0 +1,542 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Chloramphenicol",
+    "disease": "Rickettsiosis",
+    "query_string": "Chloramphenicol AND Rickettsiosis"
+  },
+  "data": {
+    "query": "Chloramphenicol AND Rickettsiosis",
+    "results": [
+      {
+        "pmid": "369769",
+        "title": "[Chloramphenicol and thiamphenicol].",
+        "abstract": "",
+        "journal": "La Clinica terapeutica",
+        "year": "1978",
+        "authors": [
+          "Mariani L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Aplastic",
+          "Bacterial Infections",
+          "Chloramphenicol",
+          "Humans",
+          "Meningitis",
+          "Pancytopenia",
+          "Pneumonia",
+          "Rickettsia Infections",
+          "Thiamphenicol",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/369769/"
+      },
+      {
+        "pmid": "15286274",
+        "title": "Chloramphenicol: a review.",
+        "abstract": "",
+        "journal": "Pediatrics in review",
+        "year": "2004",
+        "authors": [
+          "Balbi Howard J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Brain Abscess",
+          "Child",
+          "Chloramphenicol",
+          "Chloramphenicol Resistance",
+          "Humans",
+          "Melioidosis",
+          "Meningitis, Bacterial",
+          "Rickettsia Infections",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15286274/"
+      },
+      {
+        "pmid": "14122822",
+        "title": "TREPONEMATOSIS AND RICKETTSIOSIS.",
+        "abstract": "",
+        "journal": "New York state journal of medicine",
+        "year": "1964",
+        "authors": [
+          "CAHILL K M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Chloramphenicol",
+          "Humans",
+          "Pathology",
+          "Penicillins",
+          "Pinta",
+          "Rickettsia Infections",
+          "Tropical Medicine",
+          "Yaws"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14122822/"
+      },
+      {
+        "pmid": "13989297",
+        "title": "Intracellular infections.",
+        "abstract": "",
+        "journal": "Bulletin of the New York Academy of Medicine",
+        "year": "1963",
+        "authors": [
+          "SMADEL J E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Humans",
+          "Orientia tsutsugamushi",
+          "Rickettsia Infections",
+          "Salmonella typhi",
+          "Typhoid Fever",
+          "Typhoid-Paratyphoid Vaccines",
+          "Typhus, Epidemic Louse-Borne"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13989297/"
+      },
+      {
+        "pmid": "8272101",
+        "title": "Tick-borne diseases.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1994",
+        "authors": [
+          "Schwartz S N"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Doxycycline",
+          "Humans",
+          "Rocky Mountain Spotted Fever",
+          "Tick-Borne Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8272101/"
+      },
+      {
+        "pmid": "2014623",
+        "title": "Rocky Mountain spotted fever.",
+        "abstract": "Rocky Mountain spotted fever is an endemic tickborne disease found throughout the United States and other regions of the world. Exposure may result in a spectrum of disease from subclinical infection to severe or fatal multiorgan collapse. The disease is maintained in nature in Ixodid tick vectors and their hosts. The most important ticks in the United States are Dermacentor variabilis and Dermacentor andersoni. Small mammals are the natural reservoirs in the wild. Dogs become infected when a tick harboring Rickettsia rickettsii feeds on the dog. Dogs do not develop sufficient rickettsemia to act as a reservoir in the transmission of Rickettsia rickettsii. Thus, although dogs act as sentinels to the presence of the disease, they cannot directly transmit infection. Signs in early stages of disease often are nonspecific. The most characteristic laboratory abnormality is thrombocytopenia, but serologic testing is necessary for confirmation of infection. Tetracycline and chloramphenicol ar",
+        "journal": "The Veterinary clinics of North America. Small animal practice",
+        "year": "1991",
+        "authors": [
+          "Comer K M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arachnid Vectors",
+          "Dermacentor",
+          "Dog Diseases",
+          "Dogs",
+          "Humans",
+          "Rocky Mountain Spotted Fever",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2014623/"
+      },
+      {
+        "pmid": "22856156",
+        "title": "[Present stage of chemotherapy and chemoprophylaxis of rickettsiosis and Q fever].",
+        "abstract": "The analysis of the published experimental and clinical data on chemoprophylaxis and chemotherapy of rickettsiosis and Q fever confirmed the preserved role of doxycycline, the main drug of choice in the treatment of the diseases, then followed chloramphenicol. Macrolides, such as azithromycin and clarithromycin proved to be useful in pediatric practice and the treatment of pregnant women with rickettsiosis. The treatment of acute and chronic Q fever required the use of doxycycline, fluoroquinolobes, co-trimoxazole and hydroxachloroquine in combined therapy. It is concluded that in vivo studies of novel drugs and investigation of prospective macrolides and fluoroquinolones are necessary. Clinical trials of a new glycycline, i.e. tigecycline, which experimentally showed highy strong activity against the Q fever pathogen, should be accelerated.",
+        "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+        "year": "2011",
+        "authors": [
+          "Iakovlev E A",
+          "Lukin E P",
+          "Borisevich S V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chemoprevention",
+          "Chloramphenicol",
+          "Clarithromycin",
+          "Doxycycline",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Macrolides",
+          "Minocycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22856156/"
+      },
+      {
+        "pmid": "3657308",
+        "title": "Tetracyclines, chloramphenicol, erythromycin, and clindamycin.",
+        "abstract": "The tetracyclines are effective in the treatment of Chlamydia, Mycoplasma pneumoniae, and rickettsial infections and may also be used for gonococcal infections in patients unable to tolerate penicillins. These drugs may cause gastrointestinal irritation, photo-toxic dermatitis, diarrhea, vestibular damage, and hepatotoxicity in pregnant women. Chloramphenicol is used primarily for anaerobic infections, Haemophilus influenzae meningitis, and typhoid fever. The most important toxic effect of chloramphenicol is bone marrow suppression, which can be dose related or idiosyncratic. Erythromycin is the drug of choice for the treatment of infections caused by M. pneumoniae, Legionella species, group A beta-hemolytic streptococci, and Streptococcus pneumoniae. The frequency of serious untoward effects associated with the use of erythromycin is low; epigastric distress may occur. Clindamycin is active against Bacteroides fragilis and other anaerobic microorganisms. Pseudomembranous enterocolitis",
+        "journal": "Mayo Clinic proceedings",
+        "year": "1987",
+        "authors": [
+          "Wilson W R",
+          "Cockerill F R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Chloramphenicol",
+          "Clindamycin",
+          "Erythromycin",
+          "Humans",
+          "Rickettsia Infections",
+          "Tetracyclines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3657308/"
+      },
+      {
+        "pmid": "6764390",
+        "title": "Chloramphenicol: recent developments and clinical indications.",
+        "abstract": "Recent developments (including more accurate assays) that have led to revised recommendations for route of administration, dosage, and indications for chloramphenicol are reviewed. Chloramphenicol is most bioavailable by the oral route; doses of 75 mg/kg/day provide adequate therapeutic concentrations for most clinical indications. Serum concentrations of the drug should be monitored to ensure adequate therapeutic concentrations and to avoid toxicity. This is particularly important in newborns, in patients with liver dysfunction, and in those receiving concomitant drugs that may influence free chloramphenicol concentrations. The indications for chloramphenicol therapy evaluated are: Haemophilus influenzae infections, anaerobic infections, salmonellosis, Rocky Mountain spotted fever, and eye infections. Chloramphenicol is useful in the treatment of invasive Haemophilus influenzae infections resistant to ampicillin, in selected anaerobic and ocular infections, and for rickettsioses in pa",
+        "journal": "Clinical pharmacy",
+        "year": "1982",
+        "authors": [
+          "Marks M I",
+          "Laferriere C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bacteroides Infections",
+          "Bacteroides fragilis",
+          "Child",
+          "Chloramphenicol",
+          "Eye Diseases",
+          "Haemophilus Infections",
+          "Haemophilus influenzae",
+          "Humans",
+          "Rocky Mountain Spotted Fever",
+          "Salmonella Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6764390/"
+      },
+      {
+        "pmid": "3280217",
+        "title": "Rocky Mountain spotted fever.",
+        "abstract": "The epidemiology, pathogenesis, clinical features, and treatment of Rocky Mountain spotted fever are reviewed. Rocky Mountain spotted fever is a severe infection caused by Rickettsia rickettsii transmitted to man by various species of ticks. High-incidence areas exist in the southeast and south central United States. Only 60-70% of patients with the disease report a history of tick bite or exposure to tick-infested areas. The disease is initially characterized by fever, headache, gastrointestinal complaints, myalgia, and a generalized rash. In several days generalized vasculitis may lead to periorbital edema and nonpitting edema of the face and extremities. Central nervous system involvement is common. Because signs and symptoms associated with the disease are nonspecific, the diagnosis is often delayed or missed. Traditionally diagnostic confirmation relied on serologic testing, but an indirect fluorescent antibody assay will soon be commercially available. Rocky Mountain spotted feve",
+        "journal": "Clinical pharmacy",
+        "year": "1988",
+        "authors": [
+          "Kamper C A",
+          "Chessman K H",
+          "Phelps S J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rocky Mountain Spotted Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3280217/"
+      },
+      {
+        "pmid": "7177912",
+        "title": "Pharmacologic interactions among chloramphenicol, phenytoin and phenobarbital.",
+        "abstract": "Bioactive chloramphenicol was measured in the sera of 34 infants and children receiving intravenous chloramphenicol succinate (25 mg/kg/dose) as therapy for meningitis, pneumonia, brain abscess or Rocky Mountain spotted fever. In 17 children receiving chloramphenicol succinate alone, mean peak and trough serum concentrations of chloramphenicol were 25.3 and 13.4 micrograms/ml, respectively. Concurrent administration of chloramphenicol succinate and phenobarbital in six patients resulted in reduced peak and trough concentrations of chloramphenicol of 16.6 and 7.5 micrograms/ml, respectively (P less than 0.05). Concurrent administration of chloramphenicol succinate and phenytoin in six patients resulted in an elevated mean peak serum concentration of chloramphenicol of 41.7 micrograms/ml (P less than 0.05). Five other patients treated with phenytoin had indeterminate serum chloramphenicol half-lives with chloramphenicol concentrations of 29 to 90 micrograms/ml. Potentially toxic chloramp",
+        "journal": "Pediatric infectious disease",
+        "year": "1982",
+        "authors": [
+          "Krasinski K",
+          "Kusmiesz H",
+          "Nelson J D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Biological Availability",
+          "Brain Abscess",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Chromatography, High Pressure Liquid",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Half-Life",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7177912/"
+      },
+      {
+        "pmid": "15398218",
+        "title": "Chloromycetin in scrub-typhus.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1950",
+        "authors": [
+          "GILES H M",
+          "SYMINGTON T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Humans",
+          "Scrub Typhus",
+          "Typhus, Epidemic Louse-Borne"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15398218/"
+      },
+      {
+        "pmid": "4461906",
+        "title": "[Typhus].",
+        "abstract": "",
+        "journal": "Lijecnicki vjesnik",
+        "year": "1974",
+        "authors": [
+          "Mihaljevic F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Humans",
+          "Typhus, Epidemic Louse-Borne"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4461906/"
+      },
+      {
+        "pmid": "1666498",
+        "title": "Efficacy of chloramphenicol, enrofloxacin, and tetracycline for treatment of experimental Rocky Mountain spotted fever in dogs.",
+        "abstract": "Dogs were experimentally inoculated with Rickettsia rickettsii to characterize the comparative efficacies of chloramphenicol, enrofloxacin, and tetracycline for the treatment of Rocky Mountain spotted fever (RMSF). All three antibiotics were equally effective in abrogating the clinical, hematologic, and vascular indicators of rickettsial infection. Antibiotic treatment for 24 h was sufficient to decrease the rickettsemia to levels below detection by Vero cell culture. Early treatment with all three antibiotics resulted in a similar decrease in antibody titer, but acute and convalescent serum samples taken at appropriate times would have still facilitated an accurate diagnosis of RMSF in all but one dog, which did not seroconvert. We conclude that chloramphenicol, enrofloxacin, and tetracycline are equally efficacious for treating experimental canine RMSF.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Breitschwerdt E B",
+          "Davidson M G",
+          "Aucoin D P",
+          "Levy M G",
+          "Szabados N S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents",
+          "Antibodies, Bacterial",
+          "Capillary Permeability",
+          "Chloramphenicol",
+          "Dogs",
+          "Enrofloxacin",
+          "Female",
+          "Fluorescent Antibody Technique",
+          "Fluoroquinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1666498/"
+      },
+      {
+        "pmid": "18112761",
+        "title": "Comparison of synthetic and fermentation chloramphenicol in rickettsial and viral infections.",
+        "abstract": "",
+        "journal": "Proceedings of the Society for Experimental Biology and Medicine. Society for Experimental Biology and Medicine (New York, N.Y.)",
+        "year": "1949",
+        "authors": [
+          "SMADEL J E",
+          "JACKSON E B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Disease",
+          "Fermentation",
+          "Rickettsia Infections",
+          "Virus Diseases",
+          "Viruses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18112761/"
+      },
+      {
+        "pmid": "8131807",
+        "title": "Carbamazepine hypersensitivity and rickettsiosis mimicking Kawasaki disease.",
+        "abstract": "We report on two patients whose clinical presentation resembled that of Kawasaki disease. The first patient was a boy with epilepsy, whose symptoms first appeared following treatment with carbamazepine. The second boy had Mediterranean Spotted Fever. The significance of medical history in avoiding overdiagnosis of Kawasaki disease is emphasized.",
+        "journal": "European journal of pediatrics",
+        "year": "1993",
+        "authors": [
+          "Parha S",
+          "Garoufi A",
+          "Yiallouros P",
+          "Theodoridis C",
+          "Karpathios T"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Blood Cell Count",
+          "Boutonneuse Fever",
+          "Carbamazepine",
+          "Child",
+          "Chloramphenicol",
+          "Diagnosis, Differential",
+          "Drug Hypersensitivity",
+          "Epilepsy",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8131807/"
+      },
+      {
+        "pmid": "10201196",
+        "title": "[Boutonneuse fever].",
+        "abstract": "",
+        "journal": "Ryoikibetsu shokogun shirizu",
+        "year": "1999",
+        "authors": [
+          "Fujii T",
+          "Abe S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Boutonneuse Fever",
+          "Chloramphenicol",
+          "Diagnosis, Differential",
+          "Humans",
+          "Tetracyclines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10201196/"
+      },
+      {
+        "pmid": "1888241",
+        "title": "Rickettsial meningitis and encephalitis.",
+        "abstract": "Nine of 72 patients with scrub typhus and three of 137 with murine typhus presented with meningitis and/or encephalitis syndromes. Focal neurologic signs were rare, and cerebrospinal fluid profiles were similar to those of leptospirosis and viral and tuberculous meningitis. One patient had papilledema, and another had cerebellitis. Other major organ involvement (renal, liver, or lungs) occurred in five patients. One patient died and four spontaneously recovered, while the conditions of the rest responded well to either chloramphenicol or doxycycline. Scrub and murine typhus should be included in the differential diagnoses of aseptic meningitis and encephalitis in patients exposed to endemic areas, especially when accompanied by renal insufficiency and/or jaundice. They are treatable forms of virallike meningoencephalitis.",
+        "journal": "Archives of internal medicine",
+        "year": "1991",
+        "authors": [
+          "Silpapojakul K",
+          "Ukkachoke C",
+          "Krisanapan S",
+          "Silpapojakul K"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Chloramphenicol",
+          "Diagnosis, Differential",
+          "Doxycycline",
+          "Encephalitis",
+          "Female",
+          "Humans",
+          "Male",
+          "Meningitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1888241/"
+      },
+      {
+        "pmid": "4982445",
+        "title": "Evaluation of chloramphenicol acid succinate therapy of induced typhoid fever and rocky mountain spotted fever.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1970",
+        "authors": [
+          "DuPont H L",
+          "Hornick R B",
+          "Weiss C F",
+          "Snyder M J",
+          "Woodward T E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Clinical Trials as Topic",
+          "Esters",
+          "Humans",
+          "Injections, Intramuscular",
+          "Male",
+          "Rickettsia rickettsii",
+          "Rocky Mountain Spotted Fever",
+          "Salmonella typhi",
+          "Succinates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4982445/"
+      },
+      {
+        "pmid": "12704264",
+        "title": "[Macrolides in the treatment of children with Mediterranean spotted fever].",
+        "abstract": "Till now there is not a gold standard therapy for Mediterranean spotted fever (MSF) in children. Standard treatment for MSF is the administration of tetracycline or chloramphenicol, however both these drugs can cause significant adverse effects in children (tetracyclines can cause staining of teeth, chloramphenicol severe hematological adverse events such as aplastic anemia, gray baby syndrome and hemolytic anemia in patients with the Mediterranean form of G6PD deficiency). We conducted two randomized clinical trials; the first compared clarithromycin versus chloramphenicol: mean time to defervescence was 36.7 +/- 18.1 h in the clarithromycin group and 47.1+/- 21.9 h in the chloramphenicol group (P= 0.047). The second trial compared clarithromycin versus azithromycin and did not show any statistically significant difference: mean time to defervescence was 46.2 +/- 36.4 h in the clarithromycin group and 39.3 +/- 31.3 h in the azithromycin group (P= 0.34). On the basis of these studies w",
+        "journal": "Le infezioni in medicina",
+        "year": "2002",
+        "authors": [
+          "Cascio Antonio",
+          "Colomba Claudia"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Boutonneuse Fever",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Clarithromycin",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12704264/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:36:57.193909",
+  "success": true,
+  "error_message": null
+}

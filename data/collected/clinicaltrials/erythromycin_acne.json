@@ -1,0 +1,158 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Erythromycin",
+    "disease": "acne"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05629468",
+      "title": "Comparing Efficacy of Azithromycin and Probiotics for Treatment of Acne Vulgaris",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-10-15",
+      "completion_date": "2022-08-31",
+      "country": "Pakistan",
+      "enrollment": 75,
+      "brief_summary": "the goal of this clinical trial is to measure the efficacy of probiotics for treatment of acne vulgaris, to compare it with azithromycin and to measure the synergistic effect of azithromycin and probiotics for treatment of acne vulgaris",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed Patients of Mild and Moderate acne\n* Aged between 15 and 35 years\n\nExclusion Criteria:\n\n* Severe acne or any systemic inflammatory disease\n* Other oral treatment for acne\n* Allergic to any drug being used in the study\n* Pregnancy\n* PCOs\n* Any drug which can interact ",
+      "endpoints": [
+        "change or reduction in the Total Lesion Count"
+      ],
+      "sponsor": "Pak Emirates Military Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05629468"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03090048",
+      "title": "Treatment of Acne for Cases Resistant to Currently Available Measures Via Vitamin A With or Without Azithromycin in Topical Formulations",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-01",
+      "completion_date": "2021-10-31",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "Patients seen with acne lesions not having responded to existing treatments will be offered a placebo or a topical preparation consisting of Vitamin A USP with or without Azithromycin for a duration of 4-6 months USP for the objective of resolving the lesions without systemic side effects and via weekly follow-ups.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with active lesions\n\nExclusion Criteria:\n\n* Patients on a treatment\n* Asymptomatic patients",
+      "endpoints": [
+        "Measurement (dimensions) of acne lesions"
+      ],
+      "sponsor": "Manchanda Medical Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03090048"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00841776",
+      "title": "Comparative Antimicrobial Efficacy of Two Topical Acne Therapies for the Treatment of Moderate to Moderately Severe Facial Acne Vulgaris",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "The purpose of the study is to determine the development of microbial resistance when using one of two topical acne therapies for the treatment of facial acne vulgaris.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient at least 12 years of age. Female subjects of childbearing potential must have a negative urine pregnancy test result at baseline and practice a reliable method of contraception throughout the study.\n* Mild to moderate facial acne vulgaris\n* Able to understand the re",
+      "endpoints": [
+        "Median Change in Total Propionibacterium Acne (P.Acne) Counts"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00841776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00419848",
+      "title": "the Comparison Efficacy of Azithromycin With Doxycycline in the Treatment of Acne Vulgaris",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2006-08",
+      "completion_date": "2008-02",
+      "country": "Iran",
+      "enrollment": 100,
+      "brief_summary": "a comparison of efficacy and adverse side effects occurrence of Doxycycline and Azithromycin in the management of moderate acne vulgaris",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 to 30 year old\n* Moderate facial Acne(At least 10 inflammatory lesions with maximum 3 nodules and pseudocysts\n\nExclusion Criteria:\n\n* Pregnancy\n* Breast Feeding\n* Acne Fulminant\n* Acne conglobate\n* Isotretinoin therapy within past 6 months\n* topical treatment in las",
+      "endpoints": [
+        "change in acne lesions"
+      ],
+      "sponsor": "Shahid Beheshti University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00419848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07384793",
+      "title": "Comparison of Efficacy of Azithromycin Alone vs Combination of Azithromycin and Probiotics in Management of Mild to Moderate Acne Vulgaris",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-10-12",
+      "completion_date": "2026-04",
+      "country": "Pakistan",
+      "enrollment": 60,
+      "brief_summary": "The Goal of this Clinical trial is to compare the efficacy of oral azithromycin alone with combination therapy of oral azithromycin and probiotics to see is there any significant difference in outcome of two treatment modalities in mild to moderate acne vulgaris",
+      "eligibility_criteria": "Inclusion Criteria: Participants with mild to moderate acne on basis of global acne assessment scale score of 2 or 3 and with 20 to 50 total lesion count will be included.\n\n\\-\n\nExclusion Criteria:\n\nHistory of active localized or generalized infection History of autoimmune disease History of other fa",
+      "endpoints": [
+        "Reduction of Acne Lesion Count as per Acne Global assessment scale"
+      ],
+      "sponsor": "Hayatabad Medical Complex",
+      "url": "https://clinicaltrials.gov/study/NCT07384793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04254601",
+      "title": "Red Low Level LASER Versus Narrow Band Ultraviolet B in the Treatment of Facial Acne Vulgaris",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-04-01",
+      "completion_date": "2019-06-30",
+      "country": "Egypt",
+      "enrollment": 45,
+      "brief_summary": "Forty-five participants with facial AV were assigned randomly to three groups of fifteen subjects each. Each group received various therapies. Group A (Study group A) had received both NBUB and akne-Mycin; Group B( study group B) had received Red LLLT and akne-Mycin and group C (Control group) received only akne-Mycin cream. All 45 participants are tested at the initial treatments, after 4 weeks and after 8 weeks by the acne count, the intensity scale and the photographic test.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ages ranged from 18-35 years.\n* Skin type III and IV.\n* Mild to moderate facial acne.\n\nExclusion Criteria:\n\n* Treatment with oral retinoid within past 1 year.\n* Treatment with other acne treatment within past 3 months.\n* History of treatment with systemic and topical antibioti",
+      "endpoints": [
+        "formal counts of active acne lesions."
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT04254601"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01668498",
+      "title": "Comparison of Two Preemptive Treatment Strategies of Panitumumab Mediated Skin Toxicity and Assessment of Quality of Life in Patients With Ras-wildtype Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2016-03",
+      "country": "Germany",
+      "enrollment": 88,
+      "brief_summary": "80 - 90 % of the patients treated with anti-EGFR antibodies (panitumumab or cetuximab) experience skin toxicity, mostly acne like skin rash.\n\nA standardized treatment of skin rash is neither established as standard arm for clinical trials nor as guideline for the treatment of skin toxicity in clinical practice. While an improvement of QoL has been demonstrated for panitumumab and cetuximab in comparison to best supportive care the data basis for patient related outcomes regarding skin toxicity d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with wild-type RAS (KRAS and NRAS) status of metastatic colorectal cancer treatment with panitumumab according to label\n\n   * RAS wild-type tested in\n   * KRAS exon 2 (codons 12/13)\n   * KRAS exon 3 (codons 59/61)\n   * KRAS exon 4 (codons 117/146)\n   * NRAS exon 2 (c",
+      "endpoints": [
+        "Percentage of patients developing no skin toxicity ≥ grade 2"
+      ],
+      "sponsor": "AIO-Studien-gGmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01668498"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03883269",
+      "title": "A Randomized, Placebo-controlled, Evaluator-blinded, Study to Assess the Anti-inflammatory Effects of Topical Erythromycin and Clindamycin in Patients With Inflammatory Facial Acne",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2018-03-20",
+      "completion_date": "2019-12",
+      "country": "Netherlands",
+      "enrollment": 30,
+      "brief_summary": "The combined bacteriostatic and immunomodulatory effects of erythromycin and clindamycin will be explored. Treatment effects will be extensively characterized by conventional methods including lesion counts, global assessment scales and visual grading as well as state-of-the-art methodology, including multi-modal photo analysis, perfusion by laser speckle contrast imaging, analysis of local skin surface, biopsy biomarkers and skin microbiota. This extensive response profiling, combined with the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male and female subjects, 18 to 45 years of age. The health status is verified by absence of evidence of any clinical significant active or uncontrolled chronic disease other than AV following a detailed medical history, a complete physical examination including vital",
+      "endpoints": [
+        "Efficacy endpoint 1 - Change in lesion count",
+        "Efficacy endpoint 2 - Change in investigator Global Assessment acne (IGA)",
+        "Change in Patient Reported Outcome (PRO)"
+      ],
+      "sponsor": "Centre for Human Drug Research, Netherlands",
+      "url": "https://clinicaltrials.gov/study/NCT03883269"
+    }
+  ],
+  "timestamp": "2026-03-04T16:28:38.089928",
+  "success": true,
+  "error_message": null
+}

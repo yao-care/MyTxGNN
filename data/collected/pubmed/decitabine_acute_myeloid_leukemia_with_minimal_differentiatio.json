@@ -1,0 +1,134 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Decitabine",
+    "disease": "acute myeloid leukemia with minimal differentiation",
+    "query_string": "Decitabine AND acute myeloid leukemia with minimal differentiation"
+  },
+  "data": {
+    "query": "Decitabine AND acute myeloid leukemia with minimal differentiation",
+    "results": [
+      {
+        "pmid": "27835920",
+        "title": "[Acute myeloid Leukemia].",
+        "abstract": "Acute myeloid leukemia (AML) has been genetically characterized extensively and can now be subdivided into 9 to 11 pathogenetically different subtypes according to their profile of driver mutations. In clinical practice karyotyping and molecular analysis of NPM1, cEBPa and FLT3-ITD are required for treatment stratification and potentially genotype specific treatment. Some markers such as NPM1 not only offer prognostic information but can also serve as markers of minimal residual disease and thus have the potential to guide therapy in the future.The basis of curative treatment is intensive combination chemotherapy comprizing cytarabine and an anthracycline (\"7 + 3\" regimen). The prolonged duration of aplasia can be reduced significantly by accelerated therapy (\"S-HAM\" regimen). Following achievement of a complete remission patients with a low risk of relapse - based on genetic and clinical features - receive chemotherapy based consolidation therapy whereas high risk patients - and poten",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "2016",
+        "authors": [
+          "Braess Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Combined Modality Therapy",
+          "Evidence-Based Medicine",
+          "Genetic Markers",
+          "Genetic Testing",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Molecular Targeted Therapy",
+          "Nucleophosmin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27835920/"
+      },
+      {
+        "pmid": "26055299",
+        "title": "Maintenance Therapy with Decitabine after Allogeneic Stem Cell Transplantation for Acute Myelogenous Leukemia and Myelodysplastic Syndrome.",
+        "abstract": "Decitabine is a hypomethylating agent that irreversibly inhibits DNA methyltransferase I, inducing leukemic differentiation and re-expression of epigenetically silenced putative tumor antigens. We assessed safety and efficacy of decitabine maintenance after allogeneic transplantation for acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS). Decitabine maintenance may help eradicate minimal residual disease, decrease the incidence of graft-versus-host disease (GVHD), and facilitate a graft-versus-leukemia effect by enhancing the effect of T regulatory lymphocytes. Patients with AML/MDS in complete remission (CR) after allotransplantation started decitabine between day +50 and +100. We investigated 4 decitabine doses in cohorts of 4 patients: 5, 7.5, 10, and 15 mg/m(2)/day × 5 days every 6 weeks, for a maximum 8 cycles. The maximum tolerated dose (MTD) was defined as the maximum dose at which ≤ 25% of people experience dose-limiting toxicities during the first cycle of treatme",
+        "journal": "Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation",
+        "year": "2015",
+        "authors": [
+          "Pusic Iskra",
+          "Choi Jaebok",
+          "Fiala Mark A",
+          "Gao Feng",
+          "Holt Matthew"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Allografts",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Combined Modality Therapy",
+          "Decitabine",
+          "Disease-Free Survival",
+          "Dose-Response Relationship, Drug",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26055299/"
+      },
+      {
+        "pmid": "14528273",
+        "title": "Epigenetic targets in hematopoietic malignancies.",
+        "abstract": "Frequent genetic alterations in hematopoietic neoplasias (chromosomal translocations, point mutations, etc.) have provided biologic targets for the development of effective novel therapies. A rapidly increasing body of knowledge provides evidence also for multiple epigenetic alterations in these disorders, which can complement or even precede genetic aberrations. Gene inactivation ('silencing') of tumor suppressor and growth inhibitory genes (e.g. the cyclin-dependent kinase inhibitors p16, p15, p21) is frequently mediated by DNA methylation of gene promoters. The acetylation state of histones (functionally linked to the DNA methylation state by the methylcytosine binding protein 2, recruiting histone deacetylases) provides a second major epigenetic silencing mechanism. Therapeutic reversal strategies are being developed for acute leukemias, myelodysplastic syndromes and malignant lymphomas. Since the discovery of the DNA methyltransferase (Dnmt) inhibitory activity of two azanucleosid",
+        "journal": "Oncogene",
+        "year": "2003",
+        "authors": [
+          "Claus Rainer",
+          "Lübbert Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "DNA Methylation",
+          "Dinucleoside Phosphates",
+          "Gene Silencing",
+          "Humans",
+          "Leukemia, Myeloid",
+          "Mutation",
+          "Neoplasms",
+          "Point Mutation",
+          "Promoter Regions, Genetic",
+          "Translocation, Genetic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14528273/"
+      },
+      {
+        "pmid": "26686245",
+        "title": "The combination of FLT3 and DNA methyltransferase inhibition is synergistically cytotoxic to FLT3/ITD acute myeloid leukemia cells.",
+        "abstract": "Effective treatment regimens for elderly acute myeloid leukemia (AML) patients harboring internal tandem duplication mutations in the FMS-like tyrosine kinase-3 (FLT3) gene (FLT3/ITD) are lacking and represent a significant unmet need. Recent data on the effects of FLT3 tyrosine kinase inhibitors on FLT3/ITD(+) AML showed promising clinical activity, including in elderly patients. DNA methyltransferase (DNMT) inhibitors such as decitabine (5-aza-2-deoxycytidine, DEC) and 5-azacitidine (AZA) demonstrated clinical benefit in AML, are well tolerated and are associated with minimal increases in FLT3 ligand, which can represent a potential resistance mechanism to FLT3 inhibitors. In addition, both FLT3 and DNMT inhibition are associated with the induction of terminal differentiation of myeloid blasts. Consequently, there is a strong theoretical rationale for combining FLT3 and DNMT inhibition for FLT3/ITD(+) AML. We therefore sought to study the anti-leukemic effects of DEC, AZA and FLT3 in",
+        "journal": "Leukemia",
+        "year": "2016",
+        "authors": [
+          "Chang E",
+          "Ganguly S",
+          "Rajkhowa T",
+          "Gocke C D",
+          "Levis M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Azacitidine",
+          "Cell Differentiation",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "DNA Modification Methylases",
+          "Decitabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26686245/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:14:43.275701",
+  "success": true,
+  "error_message": null
+}

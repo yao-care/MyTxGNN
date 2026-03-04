@@ -1,0 +1,915 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "lymphosarcoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03206671",
+      "title": "B-NHL 2013 - Treatment Protocol of the NHL-BFM and the NOPHO Study Groups for Mature Aggressive B-cell Lymphoma and Leukemia in Children and Adolescents",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-03",
+      "completion_date": "2027-06",
+      "country": "Finland, Norway, Czechia, Switzerland, Austria, Germany, Denmark, Sweden",
+      "enrollment": 650,
+      "brief_summary": "The trial B-NHL 2013 is a collaborative prospective, multi-national, multi-center, randomized trial with participating centers of the NHL-BFM group (Austria, Switzerland, Czech Republic, Germany) and the Scandinavian NOPHO group (Denmark, Finland, Norway, Sweden). The aim of the trial is to evaluate the role of rituximab in the treatment of mature aggressive B-cell Non-Hodgkin lymphoma and leukemia (B-NHL and B-AL) in children and adolescents.\n\nThe following primary study questions are going to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, histological or cytological and immunological proven aggressive mature B-cell Non-Hodgkin lymphoma including Burkitt lymphoma (BL), Burkitt leukemia (B-AL), diffuse large B-cell lymphoma (DLBCL), or mature B-cell NHL not further classified according to current",
+      "endpoints": [
+        "Event-free survival (EFS)",
+        "Immune reconstitution rate (only in R3/R4 patients)"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT03206671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00054236",
+      "title": "Pilot Study Of Multiple Umbilical Cord Blood Unit Transplantation Following Non-Myeloablative Conditioning In Patients With Hematologic Disorders Or Severe Aplastic Anemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2002-05",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 55,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Umbilical cord blood transplantation may be able to replace cells destroyed by chemotherapy.\n\nPURPOSE: Phase I trial to study the effectiveness of combination chemotherapy followed by umbilical cord blood transplantation in treating patients who have hematologic cancer or severe aplastic anemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* One of the following histologically confirmed diagnoses:\n\n  * Acquired severe aplastic anemia\n\n    * Meets at least 2 of the following criteria:\n\n      * Granulocyte count less than 500/mm\\^3\n      * Platelet count less than 20,000/mm\\^3\n      * Absolute reticulocyte coun",
+      "endpoints": [
+        "Event-free survival by disease assessment"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00054236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03007147",
+      "title": "International Phase 3 Trial in Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ALL) Testing Imatinib in Combination With Two Different Cytotoxic Chemotherapy Backbones",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-08",
+      "completion_date": "2027-09-30",
+      "country": "Saudi Arabia, Puerto Rico, Switzerland, Sweden, Canada, Belgium, Chile, Germany, Australia, Israel, Finland, Hong Kong, Austria, United States, France, Czechia, Italy, Netherlands, New Zealand",
+      "enrollment": 475,
+      "brief_summary": "This randomized phase III trial studies how well imatinib mesylate works in combination with two different chemotherapy regimens in treating patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (ALL). Imatinib mesylate has been shown to improve outcomes in children and adolescents with Philadelphia chromosome positive (Ph+) ALL when given with strong chemotherapy, but the combination has many side effects. This trial is testing whether a different chemother",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For patients enrolled on APEC14B1 prior to enrollment on AALL1631, the required diagnostic bone marrow sample has been fulfilled\n\n  * For patients who have not previously enrolled on APEC14B1 prior to enrollment on AALL1631, a baseline diagnostic sample (or peripheral blood sa",
+      "endpoints": [
+        "Disease free survival (DFS) of Randomized Arms (standard risk [SR] Philadelphia chromosome [Ph+] acute lymphoblastic leukemia [ALL] patients)"
+      ],
+      "sponsor": "Children's Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT03007147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02054559",
+      "title": "Randomized Phase III Trial Comparing R-CHOP Alone and R-CHOP Plus Radiotherapy for Localized CD20+ Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2020-01",
+      "country": "South Korea",
+      "enrollment": 0,
+      "brief_summary": "To compare the efficacy and safety of chemotherapy alone and combined modality therapy in the treatment of localized CD20 (+) diffuse large B-cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Histologically confirmed CD20-positive Diffuse Large B-cell Lymphoma (DLBCL), NOS\n* Immunostains for CD20, CD5, CD3, CD10, MUM-1, BCL-6, BCL-2 and Ki-67 and the in situ hybridization for Epstein-Barr virus are recommended for diagnosis of DLBCL, NOS.",
+      "endpoints": [
+        "To compare 3-year event-free survival"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02054559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088750",
+      "title": "First International Inter-Group Study for Nodular Lymphocyte-Predominant Hodgkin's Lymphoma in Children and Adolescents",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-11-01",
+      "completion_date": "2023-10-31",
+      "country": "Germany",
+      "enrollment": 225,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cyclophosphamide, vinblastine, and prednisolone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Surgery to remove involved lymph nodes may be an effective treatment for young patients with nodular lymphocyte-predominant Hodgkin lymphoma.\n\nPURPOSE: This phase IV trial is continuing to study the side effects of giving surgery alone or giving surgery with cyclophosphamide, vinbl",
+      "eligibility_criteria": "Inclusion criteria:\n\n* nodular lymphocyte-predominant Hodgkin's lymphoma confirmed by reference pathology.\n* initial stage IA/IIA (according to local staging) or relapse stage IA or IIA and residual tumour after relapse biopsy and no additional surgery planned in nLP patients relapsing after surgery",
+      "endpoints": [
+        "Event-free survival"
+      ],
+      "sponsor": "Martin-Luther-Universität Halle-Wittenberg",
+      "url": "https://clinicaltrials.gov/study/NCT01088750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03500133",
+      "title": "Non Randomized, Multicenter, Prospective Pediatric Hodgkin Lymphoma Treatment Trial Stratified According to Initial Risk Factors and Response to Chemotherapy, Reduced Cumulative Doses of Antineoplastic Agents and Radiotherapy.",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2017-10-06",
+      "completion_date": "2032-10-31",
+      "country": "Argentina",
+      "enrollment": 500,
+      "brief_summary": "This trial proposes a therapy for pediatric Hodgkin lymphoma with the objective of achieving high levels of long lasting complete remission with less risk of late effects.\n\nPatients of both genders, between 2 and 18 years, with newly diagnosed classical Hodgkin lymphoma are admitted.\n\nInitial staging provides stratification in three groups: low, intermediate and high risk. An initial set of two chemotherapy courses is administered to all cases after which a new disease assessment is performed. A",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histopathological diagnosis of classical Hodgkin lymphoma.\n* Normal renal, hepatic, pulmonary and metabolic function standards.\n* Informed consent signed by patient and/or legal caretakers.\n\nExclusion Criteria:\n\n* Lymphocyte predominant nodular Hodgkin lymphoma\n* Any form of i",
+      "endpoints": [
+        "Event-free Survival",
+        "Overall Survival"
+      ],
+      "sponsor": "Hospital JP Garrahan",
+      "url": "https://clinicaltrials.gov/study/NCT03500133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002534",
+      "title": "A RANDOMIZED TRIAL OF UNMODIFIED VERSUS T-CELL DEPLETED ALLOGENEIC HLA-IDENTICAL BONE MARROW TRANSPLANTATION FOR THE TREATMENT OF ACUTE LEUKEMIAS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1993-05",
+      "completion_date": "2003-04",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining chemotherapy with bone marrow transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more cancer cells.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of bone marrow transplantation using untreated or treated bone marrow in treating patients with acute leukemia in first or second remission.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Acute leukemias in the following categories: Histologically documented ANLL in first remission (CR1) or second remission (CR2) Pediatric ANLL patients in CR1 eligible provided they are not enrolled on protocol CCG-2891 ALL in CR1 presenting with at least 1 of the following h",
+      "endpoints": [],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03465527",
+      "title": "A Phase 2 Trial of Pre-phase Treatment Before R-CHOP Chemotherapy in Elderly Patients With Newly Diagnosed DLBCL",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-04-13",
+      "completion_date": "2021-07-13",
+      "country": "South Korea",
+      "enrollment": 37,
+      "brief_summary": "A phase 2 trial of pre-phase treatment before R-CHOP chemotherapy in elderly patients with newly diagnosed DLBCL",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically the first large-scaled B-cell lymphoma patient\n2. Diagnosis time 65 years old or older\n3. Patients planning R-CHOP chemotherapy\n4. Ann Arbor stage 2 (bulky ≥ diameter of 7cm), stage 3 or stage 4\n5. The International Prognostic Index (IPI) is a high intermediate",
+      "endpoints": [
+        "(treatment-related mortality rate; TRM)"
+      ],
+      "sponsor": "Kosin University Gospel Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03465527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03391466",
+      "title": "A Phase 3, Randomized, Open-Label Study Evaluating the Efficacy of Axicabtagene Ciloleucel Versus Standard of Care Therapy in Subjects With Relapsed/Refractory Diffuse Large B Cell Lymphoma (ZUMA-7)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-01-25",
+      "completion_date": "2024-11-25",
+      "country": "Israel, France, Spain, Sweden, Switzerland, Austria, Italy, Germany, Australia, United Kingdom, Netherlands, Canada, Belgium, United States",
+      "enrollment": 359,
+      "brief_summary": "The goal of this clinical study is to assess whether axicabtagene ciloleucel therapy improves the clinical outcome compared with standard of care second-line therapy in participants with relapsed/refractory diffuse large B-cell lymphoma (DLBCL).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Histologically proven large B-cell lymphoma (BCL) including the following types defined by World Health Organization (WHO) 2016.\n\n  * Diffuse large B-cell lymphoma (DLBCL) not otherwise specified activated B-cell/ germinal center B-cell (ABC/GCB).\n  * High-grade B-cell lym",
+      "endpoints": [
+        "Event Free Survival (EFS) Per Blinded Central Assessment"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03391466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03755804",
+      "title": "Pediatric Classical Hodgkin Lymphoma Consortium Study: cHOD17",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-12-12",
+      "completion_date": "2028-07-01",
+      "country": "United States",
+      "enrollment": 232,
+      "brief_summary": "This is a phase II study using risk and response-adapted therapy for low, intermediate and high risk classical Hodgkin lymphoma. Chemotherapy regimens will be based on risk group assignment. Low-risk and intermediate- risk patients will be treated with bendamustine, etoposide, Adriamycin® (doxorubicin), bleomycin, Oncovin® (vincristine), vinblastine, and prednisone (BEABOVP) chemotherapy. High-risk patients will receive Adcetris® (brentuximab vedotin), etoposide, prednisone and Adriamycin® (doxo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed, previously untreated CD30+ classical HL. (Participants are still eligible if they received limited emergent RT or steroid therapy - maximum of 7 days if within the last month or as approved by PI).\n* Age ≤ 21 years at the time of diagnosis (i.e., part",
+      "endpoints": [
+        "Response rate of adequate response",
+        "Response rate of adequate response",
+        "Event-free survival"
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03755804"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04263584",
+      "title": "A Prospective Multicenter Phase 2 Study of Copanlisib in Combination With Rituximab and CHOP Chemotherapy (COPA-R-CHOP) in Patients With Previously Untreated Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2020-06-19",
+      "completion_date": "2025-04",
+      "country": "Germany",
+      "enrollment": 62,
+      "brief_summary": "This is a prospective, multicenter, non-randomized, open-label, phase II study to describe the efficacy of R-CHOP plus copanlisib including a safety run-in phase in order to detect early and common unexpected toxicities caused by the addition of copanlisib to the standard immuno-chemotherapy R-CHOP in patients with diffuse large B-cell lymphoma (DLBCL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed\n\n   1. DLBCL (NOS) or\n   2. High-grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements or\n   3. High-grade B-cell lymphoma (NOS)\n   4. Follicular lymphoma Grade 3B (primary diagnosis without history of indolent lymphoma) with a diagnostic",
+      "endpoints": [
+        "2-year progression-free survival"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT04263584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03327571",
+      "title": "An International, Multi-centre, Non-interventional Retrospective Study to Describe Treatment Pathways, Outcomes, and Resource Use in Patients With Classical Hodgkin Lymphoma (B-HOLISTIC)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-11-21",
+      "completion_date": "2019-10-31",
+      "country": "South Korea",
+      "enrollment": 1770,
+      "brief_summary": "The purpose of this study is to describe progression-free survival (PFS) in participants with relapsed or refractory classical Hodgkin lymphoma (RRHL), defined as the time from initiation of first treatment for RRHL to first documentation of relapse or disease progression, or death.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants newly diagnosed with high-risk stage IIb-IV cHL (for Group 1) or RRHL (for Group 2) between 01 January 2010 and 31 December 2013.\n2. Age greater than or equal to (\\>=) 18 years at diagnosis of cHL (Group 1) or RRHL (Group 2).\n3. Alive or deceased.\n4. Written info",
+      "endpoints": [
+        "Group 2, RRHL: Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT03327571"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05376709",
+      "title": "A Mixed Methods Study of Nutrition Practice in Cancer Care: Test a Newly-developed Intervention and Establish Frameworks Reflecting Multi-aspects of Eating Behavior Based on Non-Hodgkin Lymphoma Population",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-01",
+      "completion_date": "2024-01-01",
+      "country": "Taiwan",
+      "enrollment": 200,
+      "brief_summary": "The effects of calorie or sugar control on health and disease has been a hot topic. While established evidence has proven the health benefits of long-term calorie restriction, recent preclinical studies show encouraging results of the beneficial effects of short-term fasting on cancer treatment. In particular, short-term calorie control seems to be safe and has the potential to increase cancer cell's sensitivity to chemotherapy whereas protect normal cells from chemotherapy-induced toxicity. Mor",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Newly diagnosed with DLBCL\n2. Planning to receive R-CHOP regimen\n3. 20-year-old or older\n4. The targeted sample size is 50 for each group\n\nExclusion Criteria:\n\n1. Have BMI less than or equal to 18.5\n2. Have albumin level lower than 3.4 g/liter\n3. History of eating disorders\n4",
+      "endpoints": [
+        "Change from baseline Symptoms at 4 weeks",
+        "Change from baseline Quality-of-Life at 4 weeks",
+        "Change from baseline Cell Toxicity at 4 weeks"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05376709"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03853044",
+      "title": "A Phase 2, Open-Label Study to Evaluate the Safety and Efficacy of Chidamide Combined With CHOP(Cyclophosphamide, Doxorubicin, Vincristine, Prednisone ) in Untreated Subjects With Angioimmunoblastic T Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-12-29",
+      "completion_date": "2022-12",
+      "country": "China",
+      "enrollment": 23,
+      "brief_summary": "This is a single-arm, open-label phase 2study of Chidamide in combination with CHOP in the treatment of subjects with untreated angioimmunoblastic T cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Pathologically confirmed angioimmunoblastic T cell lymphoma\n2. Treatment naive\n3. Age \\> 18 years\n4. Must has measurable lesion in CT or PET-CT prior to treatment\n5. ECOG 0,1,2\n6. Informed consented\n\nExclusion Criteria:\n\n1. Has accepted Chemotherapy before\n2. Has accepted aut",
+      "endpoints": [
+        "Complete response rate"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03853044"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05280626",
+      "title": "First-line Treatment of P53 Mutation With PD-L1 Expression in DLBCL With Anti-PD-1 Mab and R-CHOP: a Randomized, Open, Multicenter Clinical Study",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2022-03-25",
+      "completion_date": "2026-12-31",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Diffuse large B-cell lymphoma (DLBCL) is the most common type of lymphoma。The majority of refractory patients have PD-L1 expression due to P53 mutations, some of which account for about 10% of DLBCL.Our department has found that in refractory DLBCL with high PD-L1 expression, cedilizumab monotherapy is also more effective and has reversed chemotherapy resistance.The aim of this study was to determine whether the addition of sindilizumab to the R-CHOP regimen could improve the objective efficienc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages≥18 years, ≤ 80 years.\n2. Patients with primary treatment of DLBCL.\n3. Histopathologically confirmed diagnosis of diffuse large B-cell lymphoma.\n4. At least one measurable lesion according to the 2014 Lugano criteria.\n5. ECOG physical status score of 0, 1 or 2.\n6. Laborat",
+      "endpoints": [
+        "CRR"
+      ],
+      "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05280626"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00053105",
+      "title": "A Phase I Trial of BBR 2778 in Combination With Cytarabine, Methylprednisolone and Cisplatin in the Treatment of Patients With Relapsed or Refractory Aggressive Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2002-02",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\nPURPOSE: Phase I trial to study the effect of combination chemotherapy on the body when treating patients who have relapsed or refractory aggressive non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed relapsed or refractory aggressive non-Hodgkin's lymphoma (NHL) including the following:\n\n  * Diffuse large B-cell lymphoma\n  * Transformed NHL\n  * Follicular large cell lymphoma\n  * Peripheral T-cell lymphoma\n  * Unclassified aggressive histology ",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00053105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00929695",
+      "title": "A Phase III Study to Determine Efficacy and Safety of Low-Dose Glucocorticoids for Initial Treatment of Acute Graft-versus-Host Disease",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2015-12-14",
+      "country": "United States",
+      "enrollment": 164,
+      "brief_summary": "This randomized phase III trial is studying low-dose prednisone or methylprednisolone to see how well they work compared with standard-dose prednisone or methylprednisolone in treating patients with newly diagnosed acute graft-versus-host disease (GVHD). Glucocorticoids, such as prednisone or methylprednisolone at a starting dose of 2 mg/kg/day are standard treatment for acute graft-versus-host disease caused by a donor stem cell transplant. It is not yet known whether low-dose glucocorticoids a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with newly diagnosed acute GVHD (\\>= grade IIa) for whom, in the judgment of the attending physician, initial treatment with systemic glucocorticoids is indicated\n* Patient or guardian able and willing to provide informed consent\n\nExclusion Criteria:\n\n* Hallmarks of c",
+      "endpoints": [
+        "Mean Cumulative Prednisone Dose (mg/kg) Over 42 Days From the Start of Treatment"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00929695"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01992653",
+      "title": "A Phase Ib/II Study Evaluating the Safety, Tolerability and Anti-Tumor Activity of Polatuzumab Vedotin (DCDS4501A) in Combination With Rituximab or Obinutuzumab, Cyclophosphamide, Doxorubicin, and Prednisone in Patients With B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-11-29",
+      "completion_date": "2018-12-19",
+      "country": "France, United States",
+      "enrollment": 85,
+      "brief_summary": "This multicenter, open-label, dose-escalation study will evaluate the safety, tolerability, pharmacokinetics, and anti-tumor activity of polatuzumab vedotin in combination with rituximab or obinutuzumab, cyclophosphamide, doxorubicin, and prednisone (CHP chemotherapy) in participants with non-Hodgkin's lymphoma (NHL). Participants will receive escalating doses of polatuzumab vedotin intravenously (IV) every 3 weeks in combination with standard doses of rituximab plus CHP chemotherapy (R-CHP) or ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll Participants:\n\n* At least one bi-dimensionally measurable lesion, defined as greater than (\\>) 1.5 centimeters (cm) in its longest dimension\n* Life expectancy of at least 24 weeks\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2\n* Adequate hematol",
+      "endpoints": [
+        "Number of Participants With Adverse Events in Diffuse Large B-Cell Lymphoma (DLBCL) Population",
+        "Number of Participants With Adverse Events in Non-DLBCL Population",
+        "Number of Participants With Dose Limiting Toxicities (DLTs) in DLBCL Population"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01992653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04342936",
+      "title": "A Randomized,Open-label Phase III Study of Camrelizumab (SHR-1210) vs. Investigator's Choice of Chemotherapy in Participants With Relapsed or Refractory Classical Hodgkin Lymphoma (cHL)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-17",
+      "completion_date": "2023-12-01",
+      "country": "China",
+      "enrollment": 56,
+      "brief_summary": "This is an open-label, multicenter, randomized, phase3 trial to evaluate the efficacy of Camrelizumab in patients with relapsed or refractory classic Hodgkin's lymphoma. Participants will be randomized to receive either Camrelizumab monotherapy or chemotherapy of investigators' choice.\n\nThe primary hypotheses of this study are that treatment with Camrelizumab prolongs Progression-free Survival (PFS) in participants with relapsed or refractory Classical Hodgkin Lymphoma compared to treatment with",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* With histologically confirmed classic Hodgkin's lymphoma ;\n* Relapsed or refractory cHL meet either of the following criteria:\n\n  1. Did not achieve remission or progressed after autologous hematopoietic stem cell transplantation.\n  2. Received at least 2 lines of systemic che",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04342936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00003661",
+      "title": "A Pilot Study of Unrelated Umbilical Cord Blood Transplantation in Children and Adults With Hematologic Malignancies",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1998-06",
+      "completion_date": "2006-03",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer cells. Umbilical cord blood transplantation may be able to replace cells destroyed by chemotherapy or radiation therapy.\n\nPURPOSE: Phase II trial to study the effectiveness of chemotherapy, radiation therapy, and umbilical cord blood transplantation in treating patients who have hematologic cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed malignancy including: - Pediatric acute lymphocytic leukemia (ALL) in first complete remission with high risk features including presence of t(4;11) or t(9;22), or extreme hyperleukocytosis (initial WBC greater than 500 K/mL), or failure to achieve a",
+      "endpoints": [],
+      "sponsor": "Roswell Park Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00003661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00109928",
+      "title": "Phase II Trial of Cisplatin Plus Etoposide Plus Gemcitabine Plus Solumedrol (PEGS) in Peripheral T-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 34,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cisplatin, etoposide, gemcitabine, and methylprednisolone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more cancer cells.\n\nPURPOSE: This phase II trial is studying how well combination chemotherapy works in treating patients with newly diagnosed stage II, stage III, or stage IV T-cell non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of peripheral T-cell non-Hodgkin's lymphoma\n\n  * Newly diagnosed, relapsed or progressing disease after 1 prior treatment with a non-platinum based chemotherapy (e.g., CHOP)\n  * Bulky stage II or stage III or IV disease\n* The following histologies are not eligib",
+      "endpoints": [
+        "2-year Overall Survival Rate"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00109928"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03399747",
+      "title": "Phase 2 Study of Abbreviated 3 Cycles of Rituximab Plus CHOP (Cyclophosphamide, Adriamycin, Vincristine, and Prednisolone) Immunochemotherapy in Patients With Completely Excised LocalizedGastrointestinal CD20 (+) Diffuse Large B-cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2016-12-07",
+      "completion_date": "2024-12-31",
+      "country": "N/A",
+      "enrollment": 36,
+      "brief_summary": "Phase 2 Study of Abbreviated 3 Cycles of Rituximab plus CHOP (Cyclophosphamide, Adriamycin, Vincristine, and Prednisolone) Immunochemotherapy in Patients with Completely Excised Localized Gastrointestinal CD20 (+) Diffuse Large B-cell Lymphoma(SATURDAY STUDY)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Completely Excised LocalizedGastrointestinal CD20 (+) DLBCL(Diffuse Large B-cell Lymphoma )\n* CD 20, CD5, CD10, MUM-1, BCL-6, BCL-2, Ki-76, EBV(Epstein-Barr virus )positive\n* Lugano Criteria: Stage I, II1\n* Paris Criteria: T1-2NO-1MO\n* Stage-adjusted International Prognostic I",
+      "endpoints": [
+        "Response"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03399747"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00068523",
+      "title": "Immunomodulation by Ultraviolet B-Irradiation (UVB) to Facilitate Allogeneic Stem Cell Transplantation for Treatment of Hematologic Malignancies",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "RATIONALE: Peripheral stem cell transplantation may be able to replace immune cells that were destroyed by chemotherapy. Sometimes the transplanted cells from a donor are rejected by the body's normal cells. Ultraviolet-B light therapy given before and after allogeneic stem cell transplantation may help prevent this from happening.\n\nPURPOSE: Clinical trial to study the effectiveness of combining ultraviolet-B light therapy with allogeneic stem cell transplantation in treating patients who have h",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of any of the following hematologic malignancies:\n\n  * Acute myeloid leukemia (AML) meeting any of the following criteria:\n\n    * First complete remission with high-risk karyotype\n\n      * Translocations t(15;17) allowed only if failed f",
+      "endpoints": [
+        "Study the effectiveness of combining ultraviolet-B light therapy with allogeneic stem cell transplantation in treating patients who have hematologic malignancies."
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00068523"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00689845",
+      "title": "A Clinico-Pathologic Study of Primary Mediastinal B-Cell Lymphoma (IELSG 26)",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2007-06",
+      "completion_date": "",
+      "country": "United Kingdom",
+      "enrollment": 120,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving rituximab together with one of five different combination chemotherapy regimens may kill more cancer ",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed primary mediastinal diffuse large B-cell lymphoma\n\n  * CD20-positive disease\n  * Any stage of disease\n  * Must have a dominant mass within the anterior mediastinum\n\nPATIENT CHARACTERISTICS:\n\n* ANC ≥ 1.5 x 10\\^9/L (unless due to lymphoma)\n* Platele",
+      "endpoints": [
+        "Complete response rate on PET scanning at the completion of chemoimmunotherapy"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00689845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03899337",
+      "title": "A Phase II, Randomised Study of CHOP-R in Combination With Acalabrutinib Compared to CHOP-R in Patients With Newly Diagnosed Richter's Syndrome and a Platform for Initial Investigations Into Activity of Novel Treatments in Relapsed/Refractory and Newly Diagnosed Richter's Syndrome.",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2019-07-23",
+      "completion_date": "2027-05-31",
+      "country": "United Kingdom",
+      "enrollment": 105,
+      "brief_summary": "The STELLAR trial will assess the effect of acalabrutinib taken in combination with CHOP-R compared to taking CHOP-R alone in patients with newly diagnosed Richter's Syndrome (RS). It will also be a platform to test other new drugs that show potential for treating RS. Chronic lymphocytic Leukaemia (CLL) is the most common blood cancer in adults, usually in their 70s or older. In a few patients, CLL can transform from a slow-growing cancer into an aggressive lymphoma called Richter's Syndrome. RS",
+      "eligibility_criteria": "Entry criteria for randomised trial component (standard of care and experimental arms):\n\nInclusion criteria for the randomised trial component:\n\n* Suitable for anthracycline-containing chemo-immunotherapy.\n* Patients with CLL and newly diagnosed biopsy proven DLBCL-type RS.\n* ECOG performance status",
+      "endpoints": [
+        "Randomised Component - Progression free survival (PFS)",
+        "Registration Arm - Cohort 1 - Overall Response",
+        "Registration Arm - Cohort 2 - Overall Response"
+      ],
+      "sponsor": "University of Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03899337"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004112",
+      "title": "A Phase III Randomized Trial of CHOP Chemotherapy Plus Rituxan (IDEC-C2B8) Versus CHOP Chemotherapy Alone for Newly Diagnosed, Previously Untreated, Aggressive Non-Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-09-01",
+      "completion_date": "2003-03-01",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Monoclonal antibodies, such as rituximab, can locate cancer cells and either kill them or deliver cancer-killing substances to them without harming normal cells. It is not yet known whether combination chemotherapy plus rituximab is more effective than combination chemotherapy alone for non-Hodgkin's lymphoma.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed, newly diagnosed, aggressive (stage II-IV) B-cell non-Hodgkin's lymphoma, including but not limited to:\n\n  * Mantle cell\n  * Diffuse large cell\n  * Diffuse mixed cell\n  * Anaplastic large cell (B-cell type)\n  * Diffuse small cleaved cell\n  * Marginal z",
+      "endpoints": [],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT00004112"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02596971",
+      "title": "A Phase IB/II Study Evaluating the Safety and Efficacy of Atezolizumab in Combination With Either Obinutuzumab Plus Bendamustine or Obinutuzumab Plus CHOP in Patients With Follicular Lymphoma or Rituximab Plus CHOP in Patients With Diffuse Large B-Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-12-22",
+      "completion_date": "2020-05-08",
+      "country": "Australia, Italy, United States",
+      "enrollment": 91,
+      "brief_summary": "This Phase Ib/II, open-label, multicenter, non-randomized study will evaluate the safety, efficacy, and pharmacokinetics of induction treatment consisting of atezolizumab in combination with either obinutuzumab + bendamustine (Atezo-G-benda) or obinutuzumab + CHOP (Atezo-G-CHOP) in participants with FL and atezolizumab + rituximab + chemotherapy (Atezo-R-CHOP) in participants with DLBCL, followed by post-induction treatment consisting of either atezolizumab plus obinutuzumab (Atezo-G) in partici",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2\n* For participants enrolled in the safety run-in phase: lymphoma classified as either relapsed or refractory FL after treatment with at least one prior chemoimmunotherapy regimen or previously untreated",
+      "endpoints": [
+        "Percentage of Participants With Complete Response (CR) at End of Induction (EOI), as Determined by the Independent Review Committee (IRC) Using Modified Lugano 2014 Criteria",
+        "Percentage of Participants With Adverse Events"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02596971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00678327",
+      "title": "A Randomized Phase III Trial to Assess Response Adapted Therapy Using FDG-PET Imaging in Patients With Newly Diagnosed, Advanced Hodgkin Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-08-29",
+      "completion_date": "2024-05-01",
+      "country": "United Kingdom",
+      "enrollment": 1202,
+      "brief_summary": "RATIONALE: Imaging procedures, such as fludeoxyglucose F 18 (FDG)-PET/CT scan, done before, during, and after chemotherapy may help doctors assess a patient's response to treatment and help plan the best treatment. It is not yet known whether FDG-PET/CT imaging is effective in assessing response to chemotherapy in patients with newly diagnosed Hodgkin lymphoma.\n\nPURPOSE: This randomized phase III trial is studying FDG-PET/CT imaging to see how well it works in assessing response to chemotherapy ",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed classical Hodgkin lymphoma (HL) meeting the following criteria:\n\n  * Meets current WHO classification criteria (i.e., nodular sclerosis, mixed cellularity, lymphocyte rich, and lymphocyte-depleted)\n  * Clinical stage IIB, III, or IV disease OR cli",
+      "endpoints": [
+        "3-year progression-free survival"
+      ],
+      "sponsor": "University College, London",
+      "url": "https://clinicaltrials.gov/study/NCT00678327"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04546620",
+      "title": "A Randomised Phase II Evaluation of Molecular Guided Therapy for Diffuse Large B-Cell Lymphoma With Acalabrutinib",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-10-19",
+      "completion_date": "2028-05",
+      "country": "United Kingdom",
+      "enrollment": 453,
+      "brief_summary": "This study evaluates the addition of Acalabrutinib to current standard therapy of Rituximab, Cyclophosphamide, Doxorubicin, Vincristine and Prednisolone (R-CHOP) for patients with previously untreated CD20 positive Diffuse Large B-cell Lymphoma (DLBCL) requiring full course chemoimmunotherapy.\n\nAll patients will receive one cycle of R-CHOP. Two thirds of patients (Arm B) will go on to receive a further 5 cycles (every 21 days) of R-CHOP with Acalabrutinib. Acalabrutinib will be taken orally twic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed DLBCL, expressing CD20. Sufficient diagnostic material must be available to forward to HMDS for gene expression profiling and central pathology review. The following diagnoses by 2016 WHO classification of lymphoid neoplasms may be included:\n\n  * DLBCL",
+      "endpoints": [
+        "To establish if combining acalabrutinib with R-CHOP improves efficacy, compared to RCHOP alone, for the treatment of previously untreated patients with DLBCL to a degree that justifies further development of this approach."
+      ],
+      "sponsor": "University Hospital Southampton NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04546620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00131027",
+      "title": "Randomized Controlled Trial to Test Efficacy of High-Dose Methotrexate Consolidation Therapy for BCR-ABL-Negative Acute Lymphoblastic Leukemia in Adults",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2002-09",
+      "completion_date": "2011-09",
+      "country": "Japan",
+      "enrollment": 240,
+      "brief_summary": "The purpose of this study is to investigate the clinical efficacy of high-dose methotrexate consolidation therapy for adult patients with BCR-ABL-negative ALL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Previously untreated BCR-ABL-negative ALL\n* Age between 25 and 64 years\n* Performance status between 0 and 3 (ECOG criteria)\n* Adequate functioning of the liver (serum bilirubin level \\< 2.0 mg/dL); kidneys (serum creatinine level \\< 2.0 mg/dL); and heart (left ventricular eje",
+      "endpoints": [
+        "Disease-free survival"
+      ],
+      "sponsor": "Japan Adult Leukemia Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT00131027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02684708",
+      "title": "European Network-Paediatric Hodgkin Lymphoma Study Group (EuroNet-PHL) Second International Inter-Group Study for Classical Hodgkin Lymphoma in Children and Adolescents",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2015-10-01",
+      "completion_date": "2026-09-30",
+      "country": "Spain, Switzerland, Sweden, Belgium, Norway, Slovakia, Germany, Australia, Israel, Austria, Ireland, Poland, France, Czechia, Italy, Denmark, United Kingdom, Netherlands, New Zealand",
+      "enrollment": 2200,
+      "brief_summary": "The EuroNet-PHL-C2 trial is an international, multicentre, randomised controlled trial with the aims to reduce the indication for radiotherapy in newly diagnosed patients with classical Hodgkin lymphoma without compromising cure rates and to investigate a chemotherapy intensification randomisation in intermediate and advanced classical Hodgkin lymphoma to compensate for reduction in radiotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* histologically confirmed primary diagnosis of classical Hodgkin's lymphoma\n* patients under 18 years of age on the date of written informed consent. In specialized Teenage and Young Adult (TYA) units in France, Italy and UK patients up to under 25 years of age can also be enro",
+      "endpoints": [
+        "Event-free survival"
+      ],
+      "sponsor": "University of Giessen",
+      "url": "https://clinicaltrials.gov/study/NCT02684708"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002576",
+      "title": "A RANDOMIZED PROSPECTIVE TRIAL OF CHOP VERSUS MCOP IN ELDERLY PATIENTS WITH INTERMEDIATE AND HIGH GRADE NON-HODGKIN'S LYMPHOMA (AGED 65 YEARS AND OVER)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1992-11",
+      "completion_date": "2001-01",
+      "country": "United Kingdom",
+      "enrollment": 200,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells.\n\nPURPOSE: Randomized phase III trial to compare the effectiveness of combination chemotherapy consisting of cyclophosphamide, vincristine, and prednisolone, with either mitoxantrone or doxorubicin in treating patients with intermediate- or high-grade non-Hodgkin's lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed intermediate- or high-grade non- Hodgkin's lymphoma of the following types: Diffuse centroblastic Diffuse immunoblastic B- and T-cell lymphoblastic Peripheral T-cell (mixed or large cell) and Ki-1 No Stage IA (nonbulky) disease suitable for radiother",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00002576"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05675410",
+      "title": "A Randomized Phase 3 Interim Response Adapted Trial Comparing Standard Therapy With Immuno-oncology Therapy for Children and Adults With Newly Diagnosed Stage I and II Classic Hodgkin Lymphoma",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-05-11",
+      "completion_date": "2031-04-28",
+      "country": "Puerto Rico, Canada, United States",
+      "enrollment": 1875,
+      "brief_summary": "This phase III trial compares the effect of adding immunotherapy (brentuximab vedotin and nivolumab) to standard treatment (chemotherapy with or without radiation) to the standard treatment alone in improving survival in patients with stage I and II classical Hodgkin lymphoma. Brentuximab vedotin is in a class of medications called antibody-drug conjugates. It is made of a monoclonal antibody called brentuximab that is linked to a cytotoxic agent called vedotin. Brentuximab attaches to CD30 posi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 5 to 60 years of age at the time of enrollment\n* Patients with newly diagnosed untreated histologically confirmed classic Hodgkin lymphoma (cHL) (nodular sclerosis, mixed cellularity, lymphocyte-rich, or lymphocyte-depleted, or not otherwise specified \\[NOS\\])",
+      "endpoints": [
+        "Progression-free survival (PFS) in rapid early responder (RER) patients",
+        "PFS in slow-early responder (SER) patients"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT05675410"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00400946",
+      "title": "Treatment of Acute Lymphoblastic Leukemia in Children",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2019-06",
+      "country": "Canada, United States",
+      "enrollment": 800,
+      "brief_summary": "RATIONALE: L-asparaginase is an important component of treatment for childhood acute lymphoblastic leukemia, but is also associated with notable side-effects, including hypersensitivity, pancreatitis, and thrombosis. We have previously reported that patients with acute lymphoblastic leukemia in whom asparaginase treatment was discontinued because of intolerable side-effects had survival outcomes that were inferior to those who received all or nearly all of their intended doses. Two bacterial sou",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoblastic leukemia (ALL)\n\n  * No known mature B-cell ALL, defined by the presence of any of the following:\n\n    * Surface immunoglobulin\n    * L3 morphology\n    * t(8;14)(q24;q32)\n    * t(8;22)\n    * t(2;8)\n  * T-cell surface markers and t(8;14)(q24",
+      "endpoints": [
+        "Asparaginase-Related Toxicity Rate"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00400946"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00417014",
+      "title": "Hodgkins Disease Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 358,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as chlorambucil, vinblastine, procarbazine, and prednisolone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Radiation therapy uses high-energy x-rays to kill cancer cells. Giving more than one drug (combination chemotherapy) together with radiation therapy may kill more cancer cells.\n\nPURPOSE: This clinical trial is studying how well giving combination chemotherapy and/or radia",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Biopsy proven Hodgkin's lymphoma\n\n  * Any stage allowed\n\nPATIENT CHARACTERISTICS:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* Not specified",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00417014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00441025",
+      "title": "A Phase II Study of Alemtuzumab in Combination With CHOP as First-Line Treatment in Peripheral T-Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-09",
+      "completion_date": "2009-08",
+      "country": "Thailand",
+      "enrollment": 4,
+      "brief_summary": "The purpose of this study is to determine whether the treatment of Alemtuzumab in combination with CHOP(cyclophosphamide,doxorubicin,vincristine and prednisolone) are effective as first line treatment in patients with peripheral T-cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a diagnosis of one of the following histologic types according to the WHO classification:\n\n  * Angioimmunoblastic T-cell lymphoma\n  * Extranodal NK/T-cell lymphoma,nasal type\n  * Enteropathy-type T-cell lymphoma\n  * Hepatosplenic gamma-delta T-cell lymphoma\n",
+      "endpoints": [
+        "To determine the effectiveness of alemtuzumab given in combination with CHOP in terms of the rates of objective response rate (ORR:complete remission[CR] and",
+        "partial remission[PR]),progressive disease-free(PFS) and overall survivals(OS)",
+        "in patients newly diagnosed with PTCL."
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT00441025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06680349",
+      "title": "Two Anti-CD20 Regimens for Fibrillary Glomerulonephritis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-12-01",
+      "completion_date": "2024-01-02",
+      "country": "Italy",
+      "enrollment": 21,
+      "brief_summary": "This study aims to evaluate the clinical and histological effects of two rituximab-based regimens in fibrillary glomerulonephritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Fibrillary glomerulonephritis (biospy proven defined by optical microscopy, immunofluorescence and electron microscopy studies with demonstration of the DNAJB9 protein)\n\nExclusion Criteria:\n\n* previous treatment with anti-CD20; pregnant; unable to consent. other concomitant GN.",
+      "endpoints": [
+        "renal responce"
+      ],
+      "sponsor": "University of Turin, Italy",
+      "url": "https://clinicaltrials.gov/study/NCT06680349"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03643276",
+      "title": "International Collaborative Treatment Protocol for Children and Adolescents With Acute Lymphoblastic Leukemia - AIEOP-BFM ALL 2017",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2018-07-15",
+      "completion_date": "2028-07-14",
+      "country": "Israel, Czechia, Switzerland, Austria, Italy, Slovakia, Germany, Australia",
+      "enrollment": 5000,
+      "brief_summary": "The understanding of acute lymphoblastic leukemia (ALL) in childhood and adolescence has largely changed due to extensive genetic research in recent years: ALL is now considered to be a very heterogeneous disease group. The leukemia cells present themselves with quite differently activated regulatory mechanisms of the malignant phenotype. The introduction of more accurate methods of assessing therapy response (\"minimal residual disease \\[MRD\\] tests\") has provided new insights into very differen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* newly diagnosed acute lymphoblastic leukemia or\n* newly diagnosed mixed phenotype acute leukemia (MPAL) meeting one of the following criteria:\n* biphenotypic with a dominant T or B lineage assignment\n* bilineal either with a dominant lymphoblastic population or if another reas",
+      "endpoints": [
+        "Event-free survival",
+        "Disease-free survival"
+      ],
+      "sponsor": "University Hospital Schleswig-Holstein",
+      "url": "https://clinicaltrials.gov/study/NCT03643276"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02500550",
+      "title": "An Exploratory, Open-label, Multicenter Study to Evaluate the Safety and Efficacy of a Two-dose Regimen of ATIR101, a T-lymphocyte Enriched Leukocyte Preparation Depleted ex Vivo of Host Alloreactive T-cells (Using Photodynamic Treatment), in Patients With a Hematologic Malignancy, Who Received a CD34-selected Hematopoietic Stem Cell Transplantation From a Haploidentical Donor",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-10-09",
+      "completion_date": "2018-12-17",
+      "country": "Croatia, Germany, United Kingdom, Portugal, Canada, Belgium",
+      "enrollment": 15,
+      "brief_summary": "The purpose of this study is to determine whether a repeat dose administration of ATIR101 is safe and effective when infused in patients with a hematologic malignancy following a T-cell depleted stem cell graft from a related haploidentical donor. All patients are planned to receive two ATIR101 doses of 2×10E6 viable T-cells/kg, unless the second dose is reduced or halted for safety reasons.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Any of the following hematologic malignancies:\n\n  * Acute myeloid leukemia (AML) in first remission with high-risk features or in second or higher remission\n  * Acute lymphoblastic leukemia (ALL) in first remission with high-risk features or in second or higher remission\n  * M",
+      "endpoints": [
+        "Incidence of Acute Graft Versus Host Disease (GVHD) Grade III/IV"
+      ],
+      "sponsor": "Kiadis Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02500550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04884035",
+      "title": "A Phase 1b, Open Label, Global, Multicenter, Dose Determination, Randomized Dose Expansion Study to Determine the Maximum Tolerated Dose, Assess the Safety and Tolerability, Pharmacokinetics and Preliminary Efficacy of Iberdomide (CC-220) in Combination With R-CHOP-21 and CC-99282 in Combination With R-CHOP-21 for Subjects With Previously Untreated Aggressive B-cell Lymphoma",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2021-09-15",
+      "completion_date": "2028-12-01",
+      "country": "South Korea, Spain, Taiwan, Greece, Australia, Poland, United States",
+      "enrollment": 174,
+      "brief_summary": "This is a Phase 1b study consisting of 2 parts: a dose escalation (Part 1) of CC-220 or CC-99282 added to the standard R-CHOP-21 regimen for first-line treatment of a-BCL. The dose escalation (Part 1) will consist of 2 parallel arms in combination with Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone (R-CHOP-21); CC-220 and R-CHOP-21 or CC-99282 and R-CHOP-21. Part 1 will be followed by a randomized dose expansion (Part 2) with CC-220 and/or CC-99282 at the Recommended Phase",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must satisfy the following criteria to be enrolled in the study:\n\n  1. Is ≥ 18 years of age at the time of signing the informed consent form (ICF).\n  2. Participant has histologically confirmed (per local evaluation) diagnosis of de novo, previously untreated, a-B",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) - Part 1",
+        "Recommended Phase 2 Dose (RP2D) - Part 1",
+        "Safety and tolerability of CC-220 and CC-99282 at RP2D - Part 2"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT04884035"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00549848",
+      "title": "Total Therapy Study XVI for Newly Diagnosed Patients With Acute Lymphoblastic Leukemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10-29",
+      "completion_date": "2022-03-26",
+      "country": "United States",
+      "enrollment": 600,
+      "brief_summary": "The primary objective of this study (TOTXVI) is to compare the clinical benefit, the pharmacokinetics, and the pharmacodynamics of polyethylene glycol-conjugated (PEG) asparaginase given in higher dose (HD PEG) versus those of PEG-asparaginase given in conventional dose (CD PEG) during the continuation phase.\n\nThis study has several secondary objectives:\n\nTherapeutic Objectives:\n\nTo estimate the event-free survival and overall survival of children with ALL who are treated with risk-directed ther",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant has a confirmed diagnosis of precursor B-cell or precursor T-cell acute lymphocytic leukemia (ALL) by immunophenotyping\n* Participant is less than or equal to 18 years of age\n* Limited prior therapy, including systemic glucocorticoids for one week or less, one dose",
+      "endpoints": [
+        "Percentage of Participants With Continuous Complete Remission of Patients Receiving High-dose and Conventional Dose PEG-asparaginase."
+      ],
+      "sponsor": "St. Jude Children's Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00549848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01370694",
+      "title": "An Open-Label, Single Arm Study of MK-8808 in Patients With Advanced CD20-Positive Follicular Lymphoma",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2011-08-19",
+      "completion_date": "2014-12-01",
+      "country": "N/A",
+      "enrollment": 7,
+      "brief_summary": "This study will evaluate the safety, pharmacokinetics, and anti-tumor activity of MK-8808 in combination with cyclophosphamide, vincristine, and prednisolone (CVP), and as a single agent, for participants with B-lymphocyte antigen cluster of differentiation 20 (CD20)-positive follicular lymphoma who have had no prior chemotherapy. The primary study hypothesis is that MK-8808 will be safe and well tolerated in combination with CVP and as a single agent.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Histological diagnosis of CD20-positive follicular lymphoma, Grade 1, 2, or 3a (World Health Organization \\[WHO\\] 2008 classification) based on an excisional or incisional lymph node biopsy or a bone marrow biopsy.\n* Ann Arbor Stage III or IV disease.\n* Eastern Cooperative Onc",
+      "endpoints": [
+        "Number of Participants Experiencing Clinical and Laboratory Adverse Events (AEs) During MK-8808/CVP Combination Therapy",
+        "Number of Participants Experiencing Clinical and Laboratory AEs During MK-8808 Maintenance Therapy"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01370694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002905",
+      "title": "PROSPECTIVE NON-RANDOMIZED STUDY WITH CHEMOTHERAPY FOR RELAPSED OR REFRACTORY HIV-RELATED NON-HODGKIN'S LYMPHOMA: VMP REGIMEN FOR RELAPSED PATIENTS, CDE REGIMEN FOR REFRACTORY PATIENTS",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "1995-06",
+      "completion_date": "",
+      "country": "Italy",
+      "enrollment": 20,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. Combining more than one drug may kill more cancer cells.\n\nPURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating patients with HIV-related non-Hodgkin's lymphoma that has relapsed or has not responded to chemotherapy.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically proven non-Hodgkin's lymphoma at first presentation No documented CNS involvement (i.e., primary CNS or meningeal lymphoma) Positive serologic test for HIV antibodies required No opportunistic infection unless effectively treated Disease relapsed, refractory, ",
+      "endpoints": [],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00002905"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03399513",
+      "title": "Ibrutinib and Standard Immuno-Chemotherapy (R-CHOEP-14) in Younger, High-Risk Patients With Diffuse Large B-Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-05-03",
+      "completion_date": "2023-12-23",
+      "country": "Germany",
+      "enrollment": 40,
+      "brief_summary": "This study will investigate if treatment results obtained with R-CHOEP in young high-risk patients with diffuse large B-cell lymphoma can be further improved by the addition of ibrutinib to this regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sign (or their legally-acceptable representatives must sign) an informed consent document indicating that they understand the purpose of and procedures required for the study, including biomarkers, and are willing to participate in the study.\n2. Age between 18-60 years\n3. Ris",
+      "endpoints": [
+        "2-year progression-free survival"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT03399513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01181999",
+      "title": "Phase II Trial of Rituximab (R) Augmentation Following R-CHOP (Cyclophosphamide, Doxorubicin, Vincristine, and Prednisolone) Induction Chemotherapy in Extremely Elderly Patients With Diffuse Large B Cell Lymphoma (DLBCL)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2010-08",
+      "completion_date": "2014-09",
+      "country": "South Korea",
+      "enrollment": 50,
+      "brief_summary": "Rituximab (R) plus CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisolone) combination is considered as the new gold standard for the first-line treatment of elderly patients with diffuse large B-cell lymphoma (DLBCL).\n\nThe study is aimed to evaluate the overall response rate and the safety of four cycles of R-CHOP chemotherapy and followed by rituximab augmentation (weekly four times infusion) in newly diagnosed DLBCL patients with aged more than 70 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed CD20 positive DLBCL\n2. Age ≥ 70\n3. Ann Arbor stage II, III and IV\n4. No prior chemotherapy or radiotherapy for DLBCL\n5. Performance status (Eastern Cooperative Oncology Group) ≤ 2\n6. At least one or more bidimensionally measurable lesion(s)\n\n   * ≥ 2 ",
+      "endpoints": [
+        "the overall response rate",
+        "Number of patients with adverse events"
+      ],
+      "sponsor": "Chonnam National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01181999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01186328",
+      "title": "A Phase I Study Evaluating the Safety, Tolerability and Biological Activity of EZN-3042, a Survivin mRNA Antagonist, Administered With Re-induction Chemotherapy in Children With Relapsed Acute Lymphoblastic Leukemia (ALL)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-08-24",
+      "completion_date": "2012-01-10",
+      "country": "Australia, United States",
+      "enrollment": 6,
+      "brief_summary": "An experimental drug called EZN-3042 targets survivin, a protein expressed in leukemia cells at relapse that promotes the leukemia cells to grow. The main goal of this phase I study is to find out the dose of EZN-3042 that can be safely given without serious side effects both alone and in combination with standard chemotherapy drugs during re-induction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be ≥1 and ≤ 21 years of age when originally diagnosed with acute lymphoblastic leukemia (ALL).\n* Patients must have relapsed or refractory B-precursor acute lymphoblastic leukemia (ALL) with ≥25% blasts in the bone marrow (M3), with or without extramedullary dise",
+      "endpoints": [
+        "Maximum Tolerated Dose of EZN-3042"
+      ],
+      "sponsor": "Therapeutic Advances in Childhood Leukemia Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT01186328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00290628",
+      "title": "Transplantation of Umbilical Cord Blood From Related and Unrelated Donors",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "1999-10",
+      "completion_date": "2007-04",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "RATIONALE: Giving chemotherapy and total-body irradiation before a donor umbilical cord blood transplant helps stop the growth of cancer and abnormal cells and helps stop the patient's immune system from rejecting the donor's stem cells. When the stem cells from a related or unrelated donor, that do not exactly match the patient's blood, are infused into the patient they may help the patient's bone marrow to make stem cells, red blood cells, white blood cells, and platelets.\n\nPURPOSE: This clini",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of 1 of the following:\n\n  * Leukemia including, but not limited to, the following subtypes:\n\n    * Chronic myelogenous leukemia\n    * Acute myeloid leukemia (primary or secondary)\n    * Acute lymphoblastic leukemia\n  * Lymphoma\n  * Myelodysplastic syndrome\n  * A",
+      "endpoints": [],
+      "sponsor": "Masonic Cancer Center, University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT00290628"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01156883",
+      "title": "Young Adult Acute Lymphoid Leukemia (ALL): Intensification of Pediatric AIEOP LLA-2000 Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2017-10-31",
+      "country": "Italy",
+      "enrollment": 76,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) together with steroid therapy may kill more cancer cells.\n\nPURPOSE: This clinical trial is studying the side effects of combination chemotherapy in treating young adult patients with acute lymphoblastic leukemia.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of acute lymphoid leukemia, meeting any of the following criteria:\n\n  * Non-mature B-cell disease\n  * Non-Philadelphia chromosome positive disease\n  * T -cell or B-cell phenotype\n\nPATIENT CHARACTERISTICS:\n\n* Not specified\n\nPRIOR CONCURRENT THERAPY:\n\n* Prior pret",
+      "endpoints": [
+        "Treatment feasibility"
+      ],
+      "sponsor": "Gruppo Italiano Malattie EMatologiche dell'Adulto",
+      "url": "https://clinicaltrials.gov/study/NCT01156883"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01649856",
+      "title": "A Comparative, Randomized, Parallel-group, Multi-center, Phase IIIB Study to Investigate the Efficacy of Subcutaneous (SC) Rituximab Versus Intravenous (IV) Rituximab Both in Combination With CHOP (R-CHOP) in Previously Untreated Patients With CD20-positive Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-08-24",
+      "completion_date": "2016-09-16",
+      "country": "Bulgaria, Brazil, Spain, Saudi Arabia, Russia, Peru, Canada, Venezuela, Belgium, Turkey (Türkiye), Serbia, Portugal, Thailand, Israel, Finland, South Africa, Greece, Ukraine, Ireland, Poland, Colombia, Argentina, France, Algeria, Italy, United Kingdom, Netherlands",
+      "enrollment": 572,
+      "brief_summary": "This multicenter, randomized, open label parallel-group study will evaluate the efficacy and safety of subcutaneous versus intravenous MabThera/Rituxan (rituximab) in combination with CHOP chemotherapy in patients with previously untreated CD20-positive diffuse large B-Cell lymphoma. Patients will be randomized to receive either MabThera/Rituxan 1400 mg subcutaneously or MabThera/Rituxan 375 mg/m2 intravenously on Day 1 of each cycle for 8 cycles, in combination with 6-8 cycles of CHOP chemother",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>/= 18 and \\</= 80 years of age at time of study inclusion\n* Histologically confirmed, previously untreated CD20-positive diffuse large B-cell lymphoma (DLBCL) according to the WHO classification system\n* Patients with an International Prognostic Index (IPI) s",
+      "endpoints": [
+        "Percentage of Participants With Complete Response (CR) or Complete Response Unconfirmed (CRu)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01649856"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00555607",
+      "title": "Longitudinal Assessment of Clinical Course and BIOmarkers in Severe Chronic AIRway Disease",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2002-03",
+      "completion_date": "2026-12",
+      "country": "Sweden",
+      "enrollment": 233,
+      "brief_summary": "The aim of the project is to study pathogenetic mechanisms in severe asthma and compare those mechanisms in chronic obstructive pulmonary disease (COPD) in order to test the hypothesis that severe asthma and COPD develop into similar chronic degenerative changes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor all patients:\n\n1. The patient understands the study procedures and agrees to participate by signing the consent form.\n2. The patient is male or female, at least 18 years of age but no more than 80 years of age at the entry into the study (screening visit).\n\nFor patients with",
+      "endpoints": [
+        "Number of exacerbations"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT00555607"
+    }
+  ],
+  "timestamp": "2026-03-04T15:43:33.258281",
+  "success": true,
+  "error_message": null
+}

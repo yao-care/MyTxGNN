@@ -1,0 +1,928 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lenalidomide",
+    "disease": "myelodysplastic syndrome"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01347944",
+      "title": "Observational, Non-interventional, Multicenter Study Aimed at Collecting Retrospective/Prospective 648/96 Italian Registry Data Related to Lenalidomide (Revlimid®) Prescription to Patients With Myelodysplastic Syndromes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-01-01",
+      "completion_date": "2013-06-30",
+      "country": "Italy",
+      "enrollment": 149,
+      "brief_summary": "The purpose of this study is to collect clinical and laboratory data for patients affected by intermediate 1 and low risk Myelodysplastic Syndrome (MDS) associated by deletion 5q who were prescribed Revlimid from 31October 2008 to present. Revlimid is available in Italy for these patients since October 2008 based on a local disposition of the Italian Drug Agency (AIFA) issued according to a National law named 648/96.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* intermediate 1 and low risk MDS patients associated with:\n\n  1. transfusion dependency anemia (at least 2 units per 8 weeks before starting of Revlimid treatment )\n  2. 5q31-33 deletion isolated or associated to other chromosomal abnormalities.\n\n     Exclusion Criteria:\n* pati",
+      "endpoints": [
+        "Number of subjects achieving red blood cell (RBC) transfusion independence",
+        "Number of subjects achieving an erythroid response",
+        "Number of subjects achieving a cytogenetic response"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT01347944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05083520",
+      "title": "Incidence of Cereblon in Intensive Care Patients",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-01",
+      "completion_date": "2022-04-01",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "Classical immunomodulatory drugs (IMiDs) like thalidomide and its second- and third-generation analogues lenalidomide, pomalidomide, avadomide (CC-122), and iberdomide (CC-220) have constantly emerged to new therapeutic areas. Originally developed as a sedative and banned in 1961 for its teratogenic effects when used during pregnancy, thalidomide and a number of newly developed analogues are approved for the treatment of multiple myeloma (MM),4 erythema nodosum5 and myelodysplastic syndrome (MDS",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Being over 18 years old,\n* Having (-) Covid PCR test,\n* Being intubated,\n* Getting permission from the patient's relatives to be included in the study\n\nExclusion Criteria:\n\n* Being under the age of 18,\n* Having (+) Covid PCR test,\n* Not be able to get consent from the relative",
+      "endpoints": [
+        "The presence of Cereblon protein"
+      ],
+      "sponsor": "Buca Seyfi Demirsoy State Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05083520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00867308",
+      "title": "Phase II Trial of High Dose Lenalidomide in Patients With MDS and AML With Trilineage Dysplasia (AML-TLD)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "This is a phase II study of lenalidomide in patients with myelodysplastic syndrome (MDS) and with acute myeloid leukemia (AML) with trilineage dysplasia. Patients will receive two cycles of lenalidomide. Patients who respond may given additional cycles of lenalidomide until disease progression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than 18 years at the time of signing the informed consent form.\n* Able to adhere to the study visit schedule and other protocol requirements.\n* MDS or MDS/AML\n* Patients must not have received any other treatment for their disease, including hematopoietic growth fa",
+      "endpoints": [
+        "Response Rate"
+      ],
+      "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+      "url": "https://clinicaltrials.gov/study/NCT00867308"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01316523",
+      "title": "Phase II Study of Lenalidomide and Rituximab in Subjects With Previously Untreated Indolent Non Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2024-04-14",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Lenalidomide has been shown to have single agent activity in indolent Non-Hodgkin's Lymphoma. It is approved for the treatment of multiple myeloma and myelodysplastic syndrome.\n\nRituximab is effective as a single agent and in combination with chemotherapy for indolent Non-Hodgkin's Lymphoma.\n\nThe purpose of this study is to see how well giving lenalidomide together with rituximab works in treating patients with previously untreated indolent Non Hodgkin's Lymphoma.\n\nLenalidomide will taken at 20 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. All patients must be informed of the investigative nature of the clinical trial and given written informed consent in accordance with institutional and federal guidelines.\n2. Age greater than or equal to 18 years at the time of signing the informed consent form.\n3. Able to ad",
+      "endpoints": [
+        "Response Rate to Treatment"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT01316523"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01246557",
+      "title": "Open Label Multi-center Pilot Phase I/II Non-controlled Clinical Trial to Assess Safety and Efficieecy of the Lenalidomide and Dexamethasone Association in Patients With Chronic Relapse or Treatment Resistant Lymphatic Leukemia Following Treatment Containing Fludarabine.",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2014-04",
+      "country": "Spain",
+      "enrollment": 20,
+      "brief_summary": "Despite certain notable progress, treatment of patients with Chronic Lymphatic Leukemia (CLL) is still disappointing. Although thanks to the use of treatment of (immune) chemotherapy, mainly based on fludarabine, rituximab and alemtuzumab, the rate of complete response (CR) has increased from minus 10% observed when clorambucil was the core of the therapy to a 60-70%, with time all patients relapse and most of them die at the end due to the disease or to involvements related to the treatment. Pr",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThe patients will have to meet the following inclusion criteria in order to be included in the study:\n\n1. To understand and voluntarily sign an informed consent form.\n2. To be ≥ 18 years old upon the signature of the informed consent form.\n3. To be able to fulfill the visits pro",
+      "endpoints": [
+        "To assess the safety of the association of lenalidomide and dexamethasone in patients with relapsed or refractory CLL"
+      ],
+      "sponsor": "Hospital Universitari Vall d'Hebron Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01246557"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01379274",
+      "title": "A Phase II Trial of Revlimid® (Lenalidomide) and Low Dose Vidaza® (Azacitidine) in Patients With Low - Intermediate-1 Risk Myelodysplastic Syndromes",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-01",
+      "completion_date": "2013-11",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This phase II study will evaluate the safety and efficacy of combining two active agents;Revlimid® (lenalidomide) and low dose Vidaza® (azacitidine) for the treatment of patients with low to intermediate-1 MDS excluding patients with 5 q deletion. The rationale for adding Vidaza® (azacitidine) after 3 months of revlimid monotherapy is that combination therapy will result in higher response rates, and potentially longer response duration than that achieved with either agent.\n\nSTUDY OBJECTIVES:\n\nP",
+      "eligibility_criteria": "Inclusion Criteria: Patients with low to Int-1 risk MDS\n\n1. ECOG performance status of \\< 2 at study entry (see Appendix II).\n2. Disease free of prior malignancies for 5 years with exception of currently treated basal cell, squamous cell carcinoma of the skin, or carcinoma \"insitu\" of the cervix or ",
+      "endpoints": [
+        "Safety and Tolerability of Revlimid and Azacitidine Combination"
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01379274"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352001",
+      "title": "A Phase I/II Study of Revlimid (Lenalidomide) in Combination With Vidaza (Azacitidine) in Patients With Advanced Myelodysplastic Syndrome (MDS)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2011-09",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "RATIONALE: Lenalidomide may stop the growth of cancer cells by blocking blood flow to the cancer. Lenalidomide may also stimulate the immune system in different ways and stop cancer cells from growing. Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Azacitidine may also cause cancer cells to look more like normal cells, and to grow and spread more slowly. Giving lenalidomide",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of myelodysplastic syndromes (MDS) meeting one of the following criteria:\n\n  * French-American-British histological classification criteria\n\n    * Refractory anemia with excess blasts (RAEB), defined as 5-19% myeloblasts in the bone marrow\n\n      * Patients with",
+      "endpoints": [
+        "PHASE I: Maximum Tolerated Dose of Azacitidine",
+        "PHASE II: Determine the Number of Patients With Responses for Efficacy(Measured as Response Rate)",
+        "PHASE II: Determine the Number of Patients With Responses for Efficacy(Measured as Response Rate)"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00352001"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00179621",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, 3-Arm Study of the Efficacy and Safety of 2 Doses of Lenalidomide Versus Placebo in Red Blood Cell (RBC) Transfusion-Dependent Subjects With Low- or Intermediate-1-Risk Myelodysplastic Syndromes Associated With a Deletion (Del) 5q[31] Cytogenetic Abnormality",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2010-06",
+      "country": "Israel, France, Spain, Italy, Germany, United Kingdom, Netherlands, Sweden, Belgium",
+      "enrollment": 205,
+      "brief_summary": "The purpose of this study was to compare 2 doses (10 mg and 5 mg) of lenalidomide to that of placebo in subjects with red blood cell (RBC) transfusion-dependent low- or intermediate-1-risk IPSS MDS associated with a deletion (del) 5q\\[31\\] cytogenetic abnormality. Study participants were randomized to one of the two treatment groups or to placebo and took the study drug for 16 weeks. At this timepoint, participants were evaluated for erythroid response. If participants did not achieve at least a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must understand and voluntarily sign an informed consent form\n* Age 18 years at the time of signing the informed consent form\n* Documented diagnosis of myelodysplastic syndromes (MDS) that meets International Prognostic Scoring System (IPSS) criteria for low to intermediate-1-",
+      "endpoints": [
+        "Participants Who Achieved Red Blood Cell (RBC) Transfusion Independence for >= 26 Weeks (182 Days)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00179621"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01442714",
+      "title": "Azacitidine Plus Lenalidomide Combination in Elderly Patients With Previously Treated Acute Myeloid Leukemia (AML) & High-Risk Myelodysplastic Syndromes (MDS) (VIREL2 Trial)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-08",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "The purpose of the trial is to study how the elderly patients who have previously undergone treatment for acute myeloid leukemia and high-rRisk myelodysplastic syndromes, respond to a combined treatment with azacitidine and lenalidomide.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* acute myeloid leukemia (AML) (according to the WHO 2008 classification):\n\n  * De novo\n  * Secondary AML previously treated with demethylating agents for AML\n  * Secondary AML previously treated with demethylating agents for MDS\n  * Secondary AML previously treated with high do",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01442714"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00843882",
+      "title": "Randomized Phase III Trial Comparing the Frequency of Major Erythroid Response (MER) to Treatment With Lenalidomide (Revlimid®)) Alone and in Combination With Epoetin Alfa (Procrit®)) in Subjects With Low- or Intermediate-1 Risk MDS and Symptomatic Anemia",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2009-01-29",
+      "completion_date": "2026-10-02",
+      "country": "United States",
+      "enrollment": 247,
+      "brief_summary": "This randomized phase III trial studies lenalidomide to see how well it works with or without epoetin alfa in treating patients with myelodysplastic syndrome and anemia. Lenalidomide may stop the growth of myelodysplastic syndrome by blocking blood flow to the cells. Colony stimulating factors, such as epoetin alfa, may increase the number of immune cells found in bone marrow or peripheral blood. It is not yet known whether lenalidomide is more effective with or without epoetin alfa in treating ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* NOTE: Results of the bone marrow biopsy and aspirate as well as cytogenetics are mandatory to register subjects onto study, which are indispensable to determine International Prognostic Scoring System (IPSS) category needed for eligibility; please note that ",
+      "endpoints": [
+        "Proportion of Patients With Major Erythroid Response (MER)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00843882"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01629082",
+      "title": "Clofarabine Followed by Lenalidomide for Treatment of High Risk Myelodysplastic Syndromes and Acute Myeloid Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-06-06",
+      "completion_date": "2018-06-27",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "Background:\n\n* Several types of blood cancer are associated with poor outcomes including high-risk myelodysplastic syndromes (MDS), chronic myelomonocytic leukemia (CMML) and acute myelogenous leukemia (AML). Many people with MDS, CMML, and AML are not candidates for standard treatments. New types of treatment are needed for these cancers.\n* Clofarabine and lenalidomide are anticancer drugs. The first damages cancer cells in the body. The second can alter blood supply to abnormal cells or affect",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 years old\n* Unequivocal diagnosis of MDS (including chronic myelomonocytic leukemia- CMML) according to WHO criteria with IPSS risk categorization for MDS subjects of intermediate-2 to high confirmed by bone marrow evaluation within 30 days pri",
+      "endpoints": [
+        "Identification of the maximum tolerated dose."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01629082"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02905552",
+      "title": "Myelodysplasic Syndromes and Risk Factors for Infection : A Case / Control Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2016-09",
+      "completion_date": "2018-09",
+      "country": "France",
+      "enrollment": 320,
+      "brief_summary": "Myelodysplastic Syndromes (MDS) are characterized by quantitative and qualitative bone marrow failure and by a disorder of the medullary production which is a pre-leukemic state which can evolve into acute myeloid leukemia.\n\nThe risk of leukemic transformation is estimated by the score IPSS (International Prognostic Score System). We distinguish the MDS of low risk (IPSS\\<1) and those of high risk of leukemic transformation (IPSS=1,5).\n\nBesides the risk of leukemic transformation, MDS much be co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years old\n* MDS with IPSS \\>1.5\n* With a first infectious episode since the diagnosis of SMD of high risk (Case)\n* Unhurt of any infection and being able to be mated in the case index (Control)\n* Consulting or hospitalized in one of the services involved in the study",
+      "endpoints": [
+        "Occurrence of infectious episode"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT02905552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00542828",
+      "title": "A Phase II Study of the Efficacy of Rabbit Anti-thymocyte Globulin (rATG) in Patients With Low and Intermediate-1 Risk Myelodysplastic Syndrome",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-10",
+      "completion_date": "2009-07",
+      "country": "Netherlands, Germany, United Kingdom, France",
+      "enrollment": 16,
+      "brief_summary": "This is a Phase II, single-arm, open-label, multinational, multicenter study of rATG in patients with low or intermediate-1 risk MDS who have either failed 1 prior treatment with growth factor(s), hypomethylating agents (5-azacitidine or decitabine), or the antiangiogenic agents lenalidomide or thalidomide, or who have never been treated for MDS (i.e., treatment-naïve patients).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient provided signed written informed consent.\n* Patient had pathologically confirmed low or intermediate-1 risk MDS at the time of MDS diagnosis and at the time of screening.\n* Patient had received no more than 1 prior treatment for MDS.\n* Patient exhibited at least 1 hema",
+      "endpoints": [
+        "Number of Participants Who Achieved Hematologic Improvement (HI)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00542828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00744536",
+      "title": "Revlimid®, and Metronomic Melphalan in the Management of Higher Risk Myelodysplastic Syndromes (MDS) and CMML: A Phase 2 Study\"",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2012-12",
+      "country": "Canada",
+      "enrollment": 20,
+      "brief_summary": "Angiogenesis increases in higher risk MDS patients and those with proliferative CMML. Angiogenesis is associated with increased risk of leukemic transformation and poorer prognoses. Low dose chemotherapy may have anti-angiogenic properties by targetting the genetically stable endothelial cells. Lenalidomide has been recently shown to be highly effective as monotherapy in low/low-intermediate risk MDS, particularly in the subgroup harboring a 5q- deletion. Lenalidomide has not been well studied i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age 18 years or older at the time of signing the informed consent form.\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. Must have a diagnosis of high-intermediate or high risk MDS (",
+      "endpoints": [
+        "Overall Response Rate (RR) (as defined by modified international working group standardized response criteria)"
+      ],
+      "sponsor": "Sunnybrook Health Sciences Centre",
+      "url": "https://clinicaltrials.gov/study/NCT00744536"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00860457",
+      "title": "Lenalidomide Following Rituximab and Fludarabine in Untreated Chronic Lymphocytic Leukemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "This study is for patients with chronic lymphocytic leukemia (CLL) who have not yet received any treatment for their disease.\n\nCurrent therapy for this disease includes the use of combination chemotherapy regimens containing Fludarabine and Rituximab, which have been found to be very effective for CLL. In this study, subjects will receive Fludarabine and Rituximab. After 3 cycles or 6 cycles of Fludarabine and Rituximab treatment, they will receive Lenalidomide. We are doing this research becaus",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and voluntarily sign informed consent form\n* No prior therapy for CLL\n* Able to adhere to study visit schedule and other protocol requirements\n* CLL with any Rai Stage requiring therapy\n* ECOG performance status \\</= 2\n* Absolute neutrophil count \\>/= 1.0\n* Platelet",
+      "endpoints": [
+        "Complete Response Rate"
+      ],
+      "sponsor": "Georgetown University",
+      "url": "https://clinicaltrials.gov/study/NCT00860457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01681537",
+      "title": "A Phase I Study of Lenalidomide Plus Chemotherapy With Mitoxantrone, Etoposide, and Cytarabine for the Reinduction of Patients With Acute Myelogenous Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This research study is a Phase I clinical trial. Phase I clinical trials test the safety of an investigational combination of drugs. Phase I studies also try to define the appropriate dose of the investigational combination of drugs to use for further studies. \"Investigational\" means that the combination of drugs is still being studied and that research doctors are trying to find out more about it. It also means that the FDA has not approved this combination of drugs for AML. As part of this res",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary refractory disease following at least one cycle of induction therapy or first relapse or higher\n* Must be registered into RevAssist program\n* Able and willing to adhere to study schedule and other protocol requirements\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding\n",
+      "endpoints": [
+        "Safety of lenalidomide plus conventional chemotherapy for relapsed AML"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01681537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01342692",
+      "title": "Randomized Phase II Trial Seeking the Most Promising Drug Association With Azacitidine- in Higher Risk Myelodysplastic Syndromes",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2011-06",
+      "completion_date": "2019-06",
+      "country": "France",
+      "enrollment": 320,
+      "brief_summary": "In order to improve the overall survival benefit observed with AZA in higher risk MDS, its combination with other active drugs in MDS must be tested.\n\nAmong drugs that have demonstrated to be active as a single agent in MDS and have preclinical potential additive or synergistic activity with AZA are Histone deacetylase (HDAC) inhibitors including Valproic acid, Lenalidomide and idarubicin. Phase I studies have already been conducted or are being conducted combining those agents to demethylating ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age\\>=18 years\n* Must be able to adhere to the study visit schedule and other protocol requirements\n* Documented diagnosis of MDS, including AREB-t according to FAB classification or CMML (with WBC \\< 13,000/mm3) that meets IPSS criteria for intermediate-2 or high-risk.\n* Pati",
+      "endpoints": [
+        "Remission, complete, partial or medullary after 6 cycles"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT01342692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01178814",
+      "title": "A Prospective Trial of Revlimid® in Transfusion Dependent Patients With Non-del (5q) Low/Intermediate-1 Risk Myelodysplastic Syndrome",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06-01",
+      "completion_date": "2022-12-07",
+      "country": "United States",
+      "enrollment": 57,
+      "brief_summary": "This is a prospective trial of Revlimid for subjects who have a blood cell cancer called myelodysplastic syndrome (MDS). Cells in their marrow make proteins through messages that are carried from the genes. The amount of the message tells researchers if the protein it is going to make is high or low. This is known as expression of genes. The purpose of this study is to conduct a prospective trial testing the idea that expression of specific genes can help to predict which patients will respond t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and voluntarily sign an informed consent form.\n* Age ≥ 21 years at the time of signing the informed consent form.\n* Able to adhere to the study visit schedule and other protocol requirements.\n* A confirmed diagnosis (using standard FAB criteria) of a myelodysplastic",
+      "endpoints": [
+        "Response Signature in Transfusion Dependent MDS Patients"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT01178814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01222195",
+      "title": "Phase II Study of Lenalidomide and Darbepoetin Alfa in Myelodysplastic Syndrome (Low to Intermediate-1 Risk Category Excluding 5q Deletion)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-02",
+      "completion_date": "2010-07",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "The goal of this clinical research study is to learn if lenalidomide and darbepoetin alfa given together will help to control the need for transfusions in patients with low to intermediate risk Myelodysplastic Syndrome (MDS). The safety of this combination will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age \\>/=18 years at the time of signing the informed consent form.\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. Have low or intermediate-1 IPSS risk category MDS (excluding 5q de",
+      "endpoints": [
+        "Number of Patients With a Transfusion Independence Response"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01222195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00543114",
+      "title": "A Phase I Dose Escalation Study of Lenalidomide (Revlimid) in Combination With Fludarabine-Rituximab (Rituxan) for Previously Untreated CLL/SLL",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2007-10",
+      "completion_date": "2012-12",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "The purpose of this study is to determine the safety of lenalidomide (revlimid) in combination with fludarabine and rituximab and to determine the highest dose of lenalidomide that can safely be given in that combination. Lenalidomide is a drug that alters the immune system and may also interfere with the the development of tiny blood vessels that help support tumor growth. Lenalidomide is approved by the FDA for the treatment of two different blood cancers called myelodysplastic syndrome and mu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Diagnosed with B-CLL/SLL based on the standard histologic and immunophenotypic criteria described in the WHO classification\n* No prior systemic therapy for CLL/SLL, including chemotherapy or antibody therapy\n* Currently needs therapy based on 1996 NC",
+      "endpoints": [
+        "To evaluate the safety of lenalidomide in combination with fludarabine-rituximab (FR) and to determine the maximum tolerated dose in subjects with previously untreated CLL/SLL."
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00543114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01718379",
+      "title": "A Phase II Study Evaluating the Efficacy/Safety of Lenalidomide With or Without Epoetin Beta in Transfusion-dependent ESA-resistant Patients With IPSS Low- and Intermediate-1 Risk Myelodysplastic Syndromes Without Chromosome 5 Abnormality.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2016-06",
+      "country": "Monaco, France",
+      "enrollment": 132,
+      "brief_summary": "The goal of the present study is to assess, through a randomized phase II trial, the efficacy and safety of Lenalidomide with or without Epoetin beta in transfusion-dependent, ESA-resistant, IPSS low and intermediate-1 risk MDS patients without chromosome 5 abnormality.\n\nPatients will receive either Lenalidomide alone or Lenalidomide and Epoetin beta for 4 months. Responders will be eligible for maintenance treatment with cycles identical to the first cycles, until relapse occurs or until unacce",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMDS defined as\n\n* Low or int-1 IPSS score\n* Documented absence of chromosome 5 abnormality (del(5q) or -5 karyotype)\n* De novo MDS, excluding therapy-related MDS AND\n* Transfusion dependance (requirement of at least 4 units of RBC transfusions every 8 weeks )\n* Resistance or los",
+      "endpoints": [
+        "Comparing the efficacy of Lenalidomide alone to Lenalidomide with Epoetin beta in transfusion-dependent ESA-resistant"
+      ],
+      "sponsor": "Groupe Francophone des Myelodysplasies",
+      "url": "https://clinicaltrials.gov/study/NCT01718379"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00502112",
+      "title": "A Phase I Combination Trial of SGN-33 (Anti-huCD33 mAb; HuM195; Lintuzumab) and Lenalidomide (Revlimid®) in Patients With Myelodysplastic Syndromes (MDS)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2010-05",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "This study is a phase I, open-label, single-arm, dose escalation trial to determine the safety and activity of lenalidomide combined with lintuzumab in patients with MDS. Small groups of 3-6 patients will be treated with pre-specified doses of lenalidomide and lintuzumab and will receive 3-week cycles of combination therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Disease confirmation of MDS.\n2. Between 5% and 30% blasts in the bone marrow.\n3. Received treatment for cytopenias within 2-months\n4. ECOG ≤ 2.\n\nExclusion Criteria:\n\n1. Received prior therapy with lenalidomide, gemtuzumab ozogamicin (Mylotarg®).\n2. Received chemotherapy/radio",
+      "endpoints": [
+        "The incidence of adverse events and lab abnormalities"
+      ],
+      "sponsor": "Seagen Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00502112"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04053933",
+      "title": "A Multicenter Observational Belgian Study Assessing the Impact of Newly Started Treatment on the QOL in Patients Suffering From Myelodysplastic Syndromes.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-08-01",
+      "completion_date": "2021-07-31",
+      "country": "Belgium",
+      "enrollment": 70,
+      "brief_summary": "Study type An observational study conducted in different hematological centers in Belgium.\n\nStudy objectives\n\nPrimary objective:\n\nTo assess the impact of newly started treatments on the QOL of patients suffering from myelodysplastic syndromes.\n\nSecondary objectives:\n\n* To assess the impact of newly started therapy on disease perception in MDS patients\n* To study the relation between disease perception and quality of life\n* To examine which clinical and disease specific factors determine QOL in M",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed patients with myelodysplastic syndromes defined by WHO 2016 criteria that are about to start treatment.\n* Patients with a known diagnosis of MDS, irrespective of IPSS and irrespective of time of diagnosis that are about to start a new therapy.\n* Signed informed",
+      "endpoints": [
+        "Change in QUALMS-score",
+        "Change in IPQ-score"
+      ],
+      "sponsor": "University Hospital, Antwerp",
+      "url": "https://clinicaltrials.gov/study/NCT04053933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00699842",
+      "title": "A Phase I/II Optimal Dose Study of Lenalidomide in the Non-5q- LOW and INT-1 Risk MDS Patients",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-07",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Revlimid® (Lenalidomide) is indicated for a type of blood cancer, myelodysplastic syndrome (MDS), at 10mg for a specific type of myelodysplastic syndrome with a genetic abnormality called \"deletion 5q\" in Low and Intermediate-1 (INT-1) patients (staging system according to International Prognostic Scoring System (IPSS)). The purpose of this Phase I/II study is to determine the optimal dose of Revlimid® (Lenalidomide) in MDS Low and MDS INT-1 patients without deletion 5q by slowly increasing the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age 18 years at the time of signing the informed consent form.\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. MDS patients who fulfill diagnostic criteria and classification by the",
+      "endpoints": [
+        "Determine CR, PR, and Rate of Stable Disease in MDS Patients"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT00699842"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02921802",
+      "title": "Revlimid 5 mg Capsules Special Use-results Surveillance (All-case Surveillance)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-07-20",
+      "completion_date": "2013-03-29",
+      "country": "Japan",
+      "enrollment": 4626,
+      "brief_summary": "To understand the safety and efficacy of Revlimid® 5 mg Capsules (hereinafter referred to as Revlimid) in all patients who are treated with it under the actual condition of use pursuant to the conditions of approval.\n\n1. Planned registration period This period started on the date of initial marketing of Revlimid and will end at the time when the planned number of patients to be enrolled is reached.\n2. Planned surveillance period This period started on the date of initial marketing of Revlimid an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Among relapsed or refractory multiple myeloma and Myelodysplastic syndrome (MDS) with a deletion 5q cytogenetic abnormality patients, all patients who received Revlimid will be targeted in this surveillance.\n\nExclusion Criteria:\n\nN/A",
+      "endpoints": [
+        "Adverse Events (AEs)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT02921802"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01522976",
+      "title": "A Randomized Phase II/III Study of Azacitidine in Combination With Lenalidomide (NSC-703813) vs. Azacitidine Alone vs. Azacitidine in Combination With Vorinostat (NSC-701852) for Higher-Risk Myelodysplastic Syndromes (MDS) and Chronic Myelomonocytic Leukemia (CMML)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2012-03-01",
+      "completion_date": "2026-03-19",
+      "country": "Canada, United States",
+      "enrollment": 282,
+      "brief_summary": "This randomized phase II/III trial studies how well azacitidine works with or without lenalidomide or vorinostat in treating patients with higher-risk myelodysplastic syndromes or chronic myelomonocytic leukemia. Drugs used in chemotherapy, such as azacitidine, work in different ways to stop the growth of cancer cells, either by killing the cells, stopping them from dividing, or by stopping them from spreading. Lenalidomide may stop the growth of cancer cells by stopping blood flow to the cancer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have morphologically confirmed diagnosis of myelodysplastic syndrome (MDS) or chronic myelomonocytic leukemia (CMML) based on one of the following:\n\n  * French-American-British (FAB) classifications:\n\n    * Refractory anemia with excess blasts (RAEB - defined as ",
+      "endpoints": [
+        "Response Rate (Phase II)",
+        "Overall Survival (Phase III)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01522976"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02370888",
+      "title": "A Phase I Clinical Trial to Evaluate the Maximally Tolerated Dose (MTD), Dose Limiting Toxicities (DLTs) and Safety Profiles of Increasing Doses of Lenalidomide After Allo-HCT in AML and MDS Subjects With Minimal Residual Disease (MRD) Detected by the CD34+ Mixed Chimerism Analysis (UF-BMT-MRD-101)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2016-05-16",
+      "completion_date": "2019-05-31",
+      "country": "United States",
+      "enrollment": 11,
+      "brief_summary": "The purpose of this study is to determine the maximum tolerated dose, dose limiting side effects, and the safety of increasing doses of lenalidomide in patients with AML and MDS who have a small amount of detectable disease after allogeneic stem cell transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must be at least 18 years of age;\n2. Subjects must be post-allogeneic transplant from any donor source;\n3. Subjects must have either:\n\n   1. High risk CD34+ AML (de novo or secondary, and any WHO 2008 classification excluding acute promyelocytic leukemia). High risk ",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Lenalidomide"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT02370888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00977132",
+      "title": "Phase II Study for the Determination of Efficacy and Tolerability of the Combination of Valproic Acid and Lenalidomide in the Treatment of Patients With Myelodysplastic Syndrome With Favorable Risk Profile",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-10",
+      "completion_date": "2014-05",
+      "country": "Germany",
+      "enrollment": 23,
+      "brief_summary": "As part of a palliative therapy concept, feasibility, toxicity, and effectiveness of treatment with the combination of Valproic acid and lenalidomide in Myelodysplastic Syndrome patients with a favorable risk profile will be investigated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cytologically/histologically confirmed primary myelodysplastic syndrome (pMDS) with a favorable risk profile, i.e., low or intermediate I risk group according to IPSS (\\<10% blasts, no unfavorable karyotype)\n* platelet count ≥50.000/µl\n* absolute neutrophil count ≥1.000/µl\n* a",
+      "endpoints": [
+        "hematologic success"
+      ],
+      "sponsor": "Heinrich-Heine University, Duesseldorf",
+      "url": "https://clinicaltrials.gov/study/NCT00977132"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00065156",
+      "title": "A Multicenter, Single-arm, Open-label Study of the Efficacy and Safety of Lenalidomide Monotherapy in Red Blood Cell Transfusion-dependent Subjects With Myelodysplastic Syndromes Associated With a Del(5q) Cytogenetic Abnormality.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-06-01",
+      "completion_date": "2008-08-01",
+      "country": "Germany, United States",
+      "enrollment": 148,
+      "brief_summary": "This study is a multicenter, single-arm, open-label study of oral lenalidomide monotherapy administered to red blood cell (RBC) transfusion-dependent subjects with low- or intermediate-1-risk Myelodysplastic Syndromes (MDS) associated with a del (5q31-33) cytogenetic abnormality. Screening procedures will take place within 28 days of the first day of lenalidomide treatment. Subjects will receive lenalidomide in 28-day cycles for up to 6 cycles, or until bone marrow disease progression or progres",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must understand and voluntarily sign an informed consent form\n* Age 18 years or older at the time of signing the informed consent\n* Must be able to adhere to the study visit schedule and other protocol requirements.\n* Diagnosis of low or intermediate-1-risk International Progn",
+      "endpoints": [
+        "Participants Who Achieved Red Blood Cell (RBC) -Transfusion Independence"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00065156"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00609869",
+      "title": "A Phase II Study of Lenalidomide (REVLIMID®) in Combination With Rituximab for Patients With CD5+/CD20+ Hematologic Malignancies Who Relapse or Progress After Rituximab",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this research is to evaluate the use of Rituximab in combination with Revlimid in the treatment of refractory Mantle Cell Lymphoma (MCL) and Chronic Lymphocytic Leukemia (CLL). Revlimid® is a drug that changes the immune system and it may also get in the way with the growth of tiny blood vessels that help support tumor growth. Therefore, in theory, it may reduce or prevent the growth of cancer cells. Revlimid® is approved by the Food and Drug Administration (FDA) for the treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have histologically or cytologically confirmed CD5+/CD20+ B-Cell Chronic Lymphocytic Leukemia or Mantle Cell Lymphoma\n* Meet the following CLL criteria to participate in this study:\n\n  * Absolute lymphocyte count \\> 5000/μL\n  * CD20+ and CD5+\n  * Atypical cells representing \\<",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "H. Lee Moffitt Cancer Center and Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00609869"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02863458",
+      "title": "Effectiveness of DNA Hypomethylating Agents and Lenalidomide in Elderly Patients With Myeloid Malignancies in the United States",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2018-09-01",
+      "completion_date": "2020-09-30",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The study aims to comprehensively analyze data from a large and unselected older AML population in the US, both treated and untreated. These data will widen understanding of treatment decisions for the older Acute Myeloid Leukemia (AML) population. Through use of the SEER-Medicare Registry, the effectiveness and impact of HMA treatments as well as the effectiveness of lenalidomide will be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with myeloid malignancies diagnosed during 2001-2011 at the age of 66 years or older\n* alive in September 2004 (i.e. 3 months after FDA approval of azacitidine for MDS)\n* known month of diagnosis, and not identified from death certificates or autopsy only\n* continuous",
+      "endpoints": [
+        "Number of Participants on hypomethylating agents (HMA) and the effectiveness of HMA in the SEER-Medicare MDS population",
+        "Develop predictive models of HMA treatment outcomes using SEER-Medicare data"
+      ],
+      "sponsor": "The Cleveland Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT02863458"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01246076",
+      "title": "Phase II Trial of High Dose Lenalidomide in Patients With Myelodysplastic Syndrome Refractory to Hypomethylating Agents",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to determine the proportion of confirmed responses (complete response, partial response, and hematologic improvement as defined by revised IWG criteria during the 12 months of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient must be able to understand and voluntarily sign an informed consent form.\n* Patient must be ≥ 18 years old.\n* Patient must be able to adhere to the study visit schedule and other protocol requirements.\n* Patient must have histologically confirmed Myelodysplastic Syndro",
+      "endpoints": [
+        "Number of Participants With Confirmed Responses (Complete Remission, Partial Remission, or Hematologic Improvement) as Defined by the International Working Group Criteria"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01246076"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01038635",
+      "title": "Phase I/II Study of the Combination of 5-azacitidine With Lenalidomide in Patients With High Risk Myelodysplastic Syndrome (MDS) and Acute Myelogenous Leukemia (AML)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2015-11",
+      "country": "United States",
+      "enrollment": 94,
+      "brief_summary": "The goal of Phase 1 of this clinical research study is to find the highest tolerable dose of lenalidomide that can be given in combination with azacitidine to patients with MDS or AML.\n\nThe goal of Phase 2 of this study is to learn if the combination dose of azacitidine and lenalidomide found in Phase 1 can help to control MDS and/or AML.\n\nThe safety of this drug combination will be studied in both Phases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with higher risk MDS (bone marrow blasts \\>/= 10% to 30% inclusive) of any age who refuse or are not eligible for frontline chemotherapy.\n2. No prior therapy for higher risk MDS as defined above.\n3. Performance status of \\</= 2 by the Eastern Cooperative Oncology Gro",
+      "endpoints": [
+        "Number of Dose Limiting Toxicities for Determining Maximum Tolerated Dose (MTD) of Lenalidomide in Combination With 5-azacytidine (5-AZA)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01038635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00910858",
+      "title": "A Pharmacokinetic And Pharmacodynamic Study Of Oral Lenalidomide (Revlimid) In Subjects With Low- Or Intermediate-1-Risk Myelodysplastic Syndromes",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2009-05",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to assess pharmacokinetic and pharmacodynamic characteristics of oral lenalidomide monotherapy administered to patients with Low- or Intermediate-1-risk Myelodysplastic Syndrome (MDS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Must understand and voluntarily sign an informed consent form.\n2. Age ≥18 years at the time of signing the informed consent form.\n3. Must be able to adhere to the study visit schedule and other protocol requirements.\n4. Documented diagnosis of MDS that meets International Pro",
+      "endpoints": [
+        "PK Phase: Area-under-the Concentration-time Curve (AUC0-24) for Lenalidomide",
+        "Monotherapy Phase: Area-under-the Concentration-time Curve (AUC0-5) for Lenalidomide"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00910858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06004765",
+      "title": "A Prospective Single-center Study on the Efficacy and Safety of Lenalidomide Combined With Azacitidine vs Azacitidine in the Treatment of MDS-RS",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-08",
+      "completion_date": "2025-08",
+      "country": "China",
+      "enrollment": 138,
+      "brief_summary": "At present, the main therapies for myelodysplastic syndromes with ring sideroblasts (MDS-RS) are red blood cell and platelet transfusion, erythropoietin (EPO), androgen, and iron chelation therapy. Lenalidomide is an immunomodulator with multiple mechanisms, including direct targeting of MDS clones, immunomodulation, erythropoiesis restoration, and angiogenesis inhibition. A Phase III, randomized, placebo-controlled trial of oral azacitidine (AZA) in lower-risk MDS reported higher rates of hemog",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\>18 years old.\n2. Patients with a definite diagnosis of MDS-RS and stratified as lower-risk according to IPSS-R.\n3. After at least 3 months of rhEPO treatment, with hemoglobin\\<90g/L, absolute neutrophil count≥1.0× 109 /L, and platelet≥30× 109 /L\n4. Unconditional hematop",
+      "endpoints": [
+        "overall response rate (ORR)",
+        "complete response rate"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06004765"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04539236",
+      "title": "A Multicenter, Phase Ib/II Study That Combines Luspatercept and Lenalidomide (L2) in Lower-risk, Non-del(5q) MDS Patients",
+      "phase": "PHASE1, PHASE2",
+      "status": "SUSPENDED",
+      "start_date": "2021-11-09",
+      "completion_date": "2029-08-01",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to evaluate if the combination of drugs, Lenalidomide and Luspatercept, will help improve the treatment of anemia in patients with lower-risk Myelodysplastic Syndrome (MDS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject is ≥ 18 years of age the time of signing the informed consent form (ICF).\n2. Subject must understand and voluntarily sign an ICF prior to any study-related assessments/procedures being conducted.\n3. Documented diagnosis of MDS according to World Health Organization (W",
+      "endpoints": [
+        "MTD/RP2D of Luspatercept combined with Lenalidomide",
+        "DLT Rate for Phase Ib",
+        "Percentage of participants with RBC-TI response"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT04539236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00720850",
+      "title": "Lenalidomide Maintenance Therapy in Patients With MDS or AML With Cytogenetic Abnormalities Involving Monosomy 5 or del5q After Allogeneic Hematopoietic Stem Cell Transplantation (HSCT)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-04",
+      "completion_date": "2011-01",
+      "country": "Germany",
+      "enrollment": 10,
+      "brief_summary": "The hypothesis of this study is that lenalidomide can be an effective drug in preventing relapse of MDS and AML patients with chromosomal abnormalities involving monosomy 5 or del5q after allogeneic HSCT. Due to its immunomodulatory action it might also be able to enhance a T - or NK cell mediated graft versus leukemia (GVL) effects. Nevertheless, one has to keep in mind a possible, yet unknown influence on modulation of clinical GVHD.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and voluntarily sign an informed consent form.\n* Age \\>=18 years at the time of signing the informed consent form.\n* Able to adhere to the study visit schedule and other protocol requirements.\n* AML (\\>/= 20% blasts) including secondary (s)AML (after radio-chemother",
+      "endpoints": [
+        "Cumulative incidence of relapse rate"
+      ],
+      "sponsor": "Technische Universität Dresden",
+      "url": "https://clinicaltrials.gov/study/NCT00720850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01953692",
+      "title": "A Phase Ib Multi-Cohort Trial of MK-3475 (Pembrolizumab) in Subjects With Hematologic Malignancies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-11-22",
+      "completion_date": "2020-06-26",
+      "country": "N/A",
+      "enrollment": 197,
+      "brief_summary": "The purpose of this trial is to evaluate the safety, tolerability, and efficacy of pembrolizumab (MK-3475, KEYTRUDA®) and pembrolizumab in combination with lenalidomide (Cohort 5 only) in hematologic malignancies. The primary study hypotheses are that treatment with pembrolizumab will result in a clinically meaningful improvement in Objective Response Rate (ORR) or Complete Remission Rate (CRR).\n\nThe study includes an initial dose determination to establish the recommended phase 2 dose (RP2D) of",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Has confirmed diagnosis of relapse or refractory Multiple Myeloma (enrollment completed), Primary mediastinal Large B cell Lymphoma, non-Hodgkin lymphoma (NHL), Follicular Lymphoma, Diffuse Large B cell lymphoma (enrollment discontinued), Hodgkin lymphoma or Myelodysplastic sy",
+      "endpoints": [
+        "Number of Participants Who Experienced One or More Adverse Events (AEs):",
+        "Number of Participants Who Discontinued Study Treatment Due to an Adverse Event (AE)",
+        "Objective Response Rate (ORR) in Cohort 1: Myelodysplastic Syndrome (MDS)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01953692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04036448",
+      "title": "Post Marketing Surveillance on Safety Evaluation of REVLIMID® (Lenalidomide) Treatment of Myelodysplastic Syndromes Associated With a Deletion 5q or Mantle Cell Lymphoma in Korea",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-11-28",
+      "completion_date": "2023-08-15",
+      "country": "South Korea",
+      "enrollment": 28,
+      "brief_summary": "The Drug Use Examination (DUE) is planned and designed for the safety evaluation of new indications after the approval of a new drug in Korea.\n\nThis DUE is a non-interventional, observational and post-marketing surveillance, which will be conducted by collecting the safety information of REVLIMID® for new indications in routine clinical practice in Korea.\n\nSix-Hundred (600) adult patients, who start with REVLIMID® treatment based on the approved local package insert (PI) of REVLIMID® during rout",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treatment of patients with transfusion-dependent anemia due to IPSS low- or intermediate-1-risk Myelodysplastic Syndromes associated with a deletion 5q cytogenetic abnormality according to International scoring system for evaluating prognosis in myelodysplastic syndromes accor",
+      "endpoints": [
+        "Adverse events (AEs)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT04036448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01062152",
+      "title": "Phase 1 Dose-Ranging Study of Ezatiostat Hydrochloride (Telintra®, TLK199 Tablets)in Combination With Lenalidomide (Revlimid®)in Patients With Non-Deletion(5q) Low to Intermediate-1 Risk Myelodysplastic Syndrome (MDS)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2013-03",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "This is an open label, multicenter Phase 1 dose escalation study evaluating five doses of ezatiostat in combination with lenalidomide in patients with non-del(5q) low to intermediate 1 risk MDS. The HI-E, HI-N, HI-P rates \\[by International Working Group (IWG) 2006 criteria\\] and safety of each treatment group will be evaluated to select the optimal dose of ezatiostat in combination with lenalidomide for future studies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologic diagnosis of primary or de novo MDS using WHO classification\n* Non-del(5q) low or Intermediate-1risk MDS\n* ECOG performance status of 0-1\n* Documented significant cytopenia for at least 2 months\n* Must have discontinued growth factors (EPO, G-CSF, GM-CSF) for at lea",
+      "endpoints": [
+        "To establish the maximum tolerated dose (MTD) of ezatiostat in combination with lenalidomide",
+        "To determine the safety of ezatiostat in combination with lenalidomide"
+      ],
+      "sponsor": "Telik",
+      "url": "https://clinicaltrials.gov/study/NCT01062152"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01034592",
+      "title": "A Pilot Study of Lenalidomide in Adult Diamond-Blackfan Anemia Patients With Red Blood Cell Transfusion-Dependent Anemia",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2009-11",
+      "completion_date": "2012-12",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This is a single-center, single arm, open-label study of oral lenalidomide monotherapy administered to red blood cell (RBC) transfusion dependent adult subjects with Diamond-Blackfan Anemia (DBA).\n\nPrimary Objective: To evaluate the erythroid response rate as measured by rate of red blood cell transfusion independence \\[MDS International Working Group (IWG) 2000 Criteria will be applied\\].\n\nSecondary Objective: 1)To evaluate the tolerability and safety profile of lenalidomide in patients with DB",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\n* Understand and voluntarily sign an informed consent form\n* Diagnosis of DBA\n* Age ≥ 18 years at the time of signing the informed consent form.\n* Able to adhere to the study visit schedule and other protocol requirements.\n* Red blood cell transfusion-dependent with a requirement",
+      "endpoints": [
+        "Red Blood Cell (RBC) Transfusion Independence"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01034592"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00812968",
+      "title": "A Multicenter, Single-arm Study to Assess the Safety, Pharmacokinetics and Efficacy of Lenalidomide in Japanese Subjects With Low- or Intern=Mediate-1-risk Myelodysplastic Syndromes (MDS) Associated With a Deletion 5 (q31-33) Abnormality and Symptomatic Anemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-09-01",
+      "completion_date": "2010-09-01",
+      "country": "Japan",
+      "enrollment": 11,
+      "brief_summary": "The purpose of this clinical experience study is to determine whether CC-5013 is safe and effective (to include studying the process by which a drug is absorbed, distributed, metabolized, and eliminated by the body \\[pharmacokinetics\\]) in Japanese subjects with low- or intermediate-1-risk MDS (IPSS risk categories) associated with a deletion 5(q31-33) abnormality and symptomatic anemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must understand and voluntarily sign an informed consent form.\n* Age ≥ 20 years at the time of signing the informed consent form.\n* Must be able to adhere to the study visit schedule and other protocol requirements.\n* Diagnosis of Myelodysplastic Syndrome (MDS) that meets Inte",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AE)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00812968"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00885508",
+      "title": "A Phase II Study of the Efficacy and Safety of Lenalidomide Combined to Escalating Doses of Chemotherapy in Intermediate-2-or High Risk MDS and AML With Del 5q",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-02",
+      "completion_date": "2015-12",
+      "country": "France",
+      "enrollment": 85,
+      "brief_summary": "In this trial, the investigators will test the combination of escalating doses of chemotherapy (starting at relatively low dose) with lenalidomide in intermediate-2-or high risk MDS and AML with del 5 q31. It is hoped that this combined therapy will further increase response rate in intermediate-2-or high risk MDS and AML with del 5 q31, without major toxicity in comparison to historical results obtained with chemotherapy alone in the same subset of patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Must understand and voluntarily sign an informed consent form\n3. Must be able to adhere to the study visit schedule and other protocol requirements\n4. No contra indication to anthracycline based chemotherapy\n5. Documented diagnosis of MDS, or CMML with WBC \\",
+      "endpoints": [
+        "Response (CR, mCR and Cri, according to IWG criteria for AML and IWG 2006 criteria for MDS) to the combination of lenalidomide and chemotherapy in adult high and int 2 MDS (IPSS) or AML with deletion 5q[31]"
+      ],
+      "sponsor": "Groupe Francophone des Myelodysplasies",
+      "url": "https://clinicaltrials.gov/study/NCT00885508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01422486",
+      "title": "Phase 2 Study of Oral Ezatiostat Hydrochloride (Telintra®) in Patients With Lenalidomide (Revlimid®) Refractory or Resistant, Low to Intermediate-1 Risk, Deletion 5q Myelodysplastic Syndrome",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-10",
+      "completion_date": "2013-02",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "Study TLK199.2107 is a multicenter, single arm, open-label Phase 2 study of oral ezatiostat (Telintra®) in patients with lenalidomide (Revlimid®) refractory or resistant, red blood cell (RBC) transfusion-dependent, Low to Intermediate-1 IPSS risk, del5q Myelodysplastic Syndrome (MDS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary or de Novo MDS\n* Low or Intermediate-1 IPSS risk MDS\n* Deletion of the 5q chromosome \\[del(5q) MDS\\]\n* Refractory or resistant to lenalidomide (Revlimid)\n* ECOG performance score of 0 or 1\n* Documentation of significant anemia with or without additional cytopenia\n* Ade",
+      "endpoints": [
+        "Hematologic Improvement-Erythroid (HI-E) rate"
+      ],
+      "sponsor": "Telik",
+      "url": "https://clinicaltrials.gov/study/NCT01422486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01380106",
+      "title": "A Controlled, Parallel-Group, Randomized, Open-Label Study to Evaluate Two Lenalidomide Dose Regimens When Used in Combination With Low Dose Dexamethasone for the Treatment of Subjects With Relapsed Multiple Myeloma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2017-09-11",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "This is a research study to evaluate two different Lenalidomide doses (15 mg vs. 25 mg) in combination with low dose dexamethasone in patients with relapsed multiple myeloma.\n\nThe investigators propose to use the need for dose reduction as a criterion to judge tolerability from various causes. In the veteran population which predominantly is in the older age category with number of co-morbidities, a lower dose regimen may be safer and advantageous.\n\nThis study expects to enroll approximately 80 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Previously diagnosed with multiple myeloma.\n2. Must have relapsed or refractory disease (refractory is defined as progression during treatment or within 60 days after the completion of treatment) requiring 2nd or 3rd line therapy\n3. Patients may have received lenalidomide and",
+      "endpoints": [
+        "Serious Adverse Events",
+        "Duration Until Best Response (at Least MR or Minimal Response)"
+      ],
+      "sponsor": "Boston VA Research Institute, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01380106"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00104962",
+      "title": "Phase I Study of CC-5013 (Lenalidomide NSC# 703813) in Pediatric Patients With Relapsed/Refractory Solid Tumors or Myelodysplastic Syndrome",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of lenalidomide in treating young patients with relapsed or refractory solid tumors or myelodysplastic syndromes. Lenalidomide may stop the growth of solid tumors or myelodysplastic syndromes by blocking blood flow to the cancer. It may also stimulate the immune system in different ways and stop cancer cells from growing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of 1 of the following:\n\n  * Histologically confirmed solid tumor\n\n    * No brain tumors\n  * Myelodysplastic syndromes (MDS)\n\n    * No refractory anemia with excess blasts in transformation or other forms of acute myeloid leukemia (AML)\n    * No FAB diagnosis of refra",
+      "endpoints": [
+        "Maximum tolerated dose of lenolidomide defined as the maximum dose at which fewer than one-third of patients experience DLT"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00104962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088373",
+      "title": "A Phase II Study of the Efficacy and Safety of Lenalidomide Combined to Azacitidine in Intermediate-2 or High Risk MDS With Del 5q",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-03-25",
+      "completion_date": "2016-07-25",
+      "country": "France",
+      "enrollment": 50,
+      "brief_summary": "Higher risk MDS with del(5q) carry very poor prognosis, but show some response to azacitidine and Lenalidomide as single agents . The combination of Lenalidomide and Azacytidine is currently tested in non del 5q MDS patients. Preliminary results have been recently presented at ASH meeting (Sekeres et al, 2007).\n\nOverall, the combination of Lenalidomide and Azacitidine is well-tolerated and early results suggest some efficacy in advanced MDS without del 5q.\n\nIn this trial, we will combine Lenalid",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age \\> ou = 18 years and \\< 75 years.\n2. must understand and voluntarily sign an informed consent form.\n3. patient considered ineligible for intensive chemotherapy due to age, cardiac contraindication to anthracyclines, comorbidities, previous failure of intensive chemotherap",
+      "endpoints": [
+        "To identify the \"safe most successful dose\"(sMSD) that is the dose level where the probabilities of success is maximized across the dose levels and the toxicity rate is kept within acceptable boundaries."
+      ],
+      "sponsor": "Groupe Francophone des Myelodysplasies",
+      "url": "https://clinicaltrials.gov/study/NCT01088373"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04068597",
+      "title": "An Open-label Phase I/IIa Study to Evaluate the Safety and Efficacy of CCS1477 as Monotherapy and in Combination in Patients With Advanced Haematological Malignancies.",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2019-08-09",
+      "completion_date": "2027-03-31",
+      "country": "Spain, France, United Kingdom, Sweden, United States",
+      "enrollment": 250,
+      "brief_summary": "A Phase 1/2a study to assess the safety, tolerability, PK and biological activity of CCS1477 (inobrodib) in patients with Non-Hodgkin Lymphoma, Multiple Myeloma, Acute Myeloid Leukaemia or High Risk Myelodysplastic syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of consent\n* ECOG performance status 0-2\n* Patients with confirmed (per standard disease specific diagnostic criteria), relapsed or refractory haematological malignancies (NHL, MM and AML)\n* Must have previously received standard therapy\n* Adequate organ function\n\nEx",
+      "endpoints": [
+        "Incidence of treatment-related adverse events",
+        "Incidence of laboratory abnormalities"
+      ],
+      "sponsor": "CellCentric Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04068597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01556477",
+      "title": "A Multicentre Open Randomized Phase II Study of the Efficacy and Safety of Azacitidine Alone or in Combination With Lenalidomide in High-risk Myeloid Disease (High-risk Myelodysplastic Syndrome and Acute Myeloid Leukemia) With a Karyotype Including Del(5q)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-03",
+      "completion_date": "2014-11",
+      "country": "Sweden",
+      "enrollment": 72,
+      "brief_summary": "The proposed phase II trial is a multicenter, randomized, open-label study that will evaluate the efficacy and safety of azacitidine alone or in combination with lenalidomide in high-risk Myelodysplastic Syndrome (MDS) or Acute Myeloid Leukemia (AML) with a karyotype including del(5q). The primary objective will be to evaluate the efficacy in terms of response according to International Working Group (IWG) criteria for MDS and AML after 6 cycles of azacitidine or azacitidine + lenalidomide treat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age at the time of signing the informed consent form.\n* MDS with IPSS Int-2 or High with a karyotype including del(5q).\n* Acute myeloid leukaemia (AML) with multilineage dysplasia and 20-30 % blasts (former RAEB-t) with a karyotype including del(5q).\n* Subject has ",
+      "endpoints": [
+        "Response according to IWG criteria for MDS and AML"
+      ],
+      "sponsor": "Nordic MDS Group",
+      "url": "https://clinicaltrials.gov/study/NCT01556477"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360672",
+      "title": "Phase II Study of Lenalidomide in Patients With Relapsed/Refractory Acute Myelogenous Leukemia or High-Risk Myelodysplastic Syndrome Associated With Chromosome 5 Abnormalities",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "The goal of this clinical research study is to find out if Revlimid can help to control the disease in patients with relapsed/refractory acute myelogenous leukemia (AML) or high-risk myelodysplastic syndrome (MDS) with abnormalities in chromosome number 5. The safety of this treatment will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age \\>/= 18 years at the time of signing the informed consent form. (Revlimid has not been tested in younger patients)\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. Diagnosis of r",
+      "endpoints": [
+        "Number of Participants With a Response (Complete Remissions (CR), Complete Remissions With Incomplete Platelet Recovery [CRp] and Partial Responses)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00360672"
+    }
+  ],
+  "timestamp": "2026-03-04T16:07:44.594088",
+  "success": true,
+  "error_message": null
+}

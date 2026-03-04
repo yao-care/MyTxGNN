@@ -1,0 +1,593 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methotrexate",
+    "disease": "upper aerodigestive tract neoplasm",
+    "query_string": "Methotrexate AND upper aerodigestive tract neoplasm"
+  },
+  "data": {
+    "query": "Methotrexate AND upper aerodigestive tract neoplasm",
+    "results": [
+      {
+        "pmid": "632138",
+        "title": "Methotrexate and radiation.",
+        "abstract": "",
+        "journal": "International journal of radiation oncology, biology, physics",
+        "year": "1978",
+        "authors": [
+          "Spittle M F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cell Cycle",
+          "Cell Survival",
+          "DNA",
+          "Dose-Response Relationship, Radiation",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Male",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/632138/"
+      },
+      {
+        "pmid": "2299365",
+        "title": "Leucovorin rescue revisited.",
+        "abstract": "",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "1990",
+        "authors": [
+          "Bertino J R"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Leucovorin",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2299365/"
+      },
+      {
+        "pmid": "28759389",
+        "title": "Tumour d'emblee.",
+        "abstract": "",
+        "journal": "The Lancet. Oncology",
+        "year": "2017",
+        "authors": [
+          "Razmi T Muhammed",
+          "Handa Sanjeev",
+          "Mahajan Rahul",
+          "Saikia Uma Nahar",
+          "Mittal Bhagwant Rai"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Male",
+          "Methotrexate",
+          "Middle Aged",
+          "Mycosis Fungoides",
+          "Neoplasm Staging",
+          "Prednisolone",
+          "Scalp"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28759389/"
+      },
+      {
+        "pmid": "91591",
+        "title": "Chemotherapy of head and neck cancer.",
+        "abstract": "Chemotherapy has traditionally been relegated to a late palliative role in the management of head and neck cancer. For advanced disease in patients previously treated with surgery or radiation therapy, methotrexate, which has a response rate of approximately 50%, is the best single agent available. Other orally or systemically administered single agents--such as bleomycin, adriamycin, hydroxyurea, and cis-platinum--produce responses less frequently than methotrexate. Intraarterial chemotherapy with single-agent methotrexate or with combinations--including methotrexate, vinblastine sulfate (Velban), cyclophosphamide (Cytoxan), and 5-fluorouracil (5-FU)--can match the response rate of systemic methotrexate, but all require inpatient treatment and significant technical expertise. Programs utilizing chemotherapeutic combinations have not produced remission rates or durations of remission greater than those achieved with methotrexate alone. Chemotherapy has also been used in combination wit",
+        "journal": "Head & neck surgery",
+        "year": "1978",
+        "authors": [
+          "Green M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Bleomycin",
+          "Cisplatin",
+          "Drug Therapy, Combination",
+          "Female",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Injections, Intra-Arterial",
+          "Male",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/91591/"
+      },
+      {
+        "pmid": "2419292",
+        "title": "A randomized study of adjuvant chemotherapy for cancer of the upper aerodigestive tract.",
+        "abstract": "A prospective, randomized trial of induction chemotherapy in advanced squamous cell carcinomas of the upper aerodigestive tract (UAD) was conducted between July 1979 and September 1982. Eighty-three patients with locally advanced Stage III-IV tumors received standard treatment (STD RX; defined as preoperative irradiation and radical excision or irradiation alone), or induction chemotherapy (CTX) followed by STD RX. Chemotherapy consisted of two cycles of bleomycin (30 units/day by continuous infusions Days 1-4), cyclophosphamide (200 mg/m2 IV Days 1-5), methotrexate (30 mg/m2 Days 1 + 5), and 5-fluorouracil (400 mg/m2 IV Days 1-5). Response to CTX was complete in 2 and partial (greater than 50% reduction) in 27; the overall response rate was 68%. Tumor clearance was documented in 30/40 STD RX patients at completion of irradiation and/or surgery and in 24/43 CTX patients (17/29 responders, 7/14 non-responders). Freedom from local-regional disease was noted at 2 years in 53% STD RX and 3",
+        "journal": "International journal of radiation oncology, biology, physics",
+        "year": "1986",
+        "authors": [
+          "Kun L E",
+          "Toohill R J",
+          "Holoye P Y",
+          "Duncavage J A",
+          "Byhardt R W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Bleomycin",
+          "Carcinoma, Squamous Cell",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Fluorouracil",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Laryngeal Neoplasms",
+          "Methotrexate",
+          "Mouth Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2419292/"
+      },
+      {
+        "pmid": "36269850",
+        "title": "A Mechanistic Review of Methotrexate and Celecoxib as a Potential Metronomic Chemotherapy for Oral Squamous Cell Carcinoma.",
+        "abstract": "The combination of low-dose methotrexate and celecoxib as metronomic chemotherapy (MCT) is a novel therapy, believed to act by modulating the immune response, inhibiting angiogenesis and its cytotoxic action, though the exact mechanism of action is unclear. Clinically, MCT was found to be very effective in delaying tumor progression in patients with head and neck squamous cell carcinoma in both curative and palliative settings. This review was aimed to give a brief insight into the mechanism of action and potential molecular alterations of MCT in the treatment of oral cancers taking into consideration the various in vivo and in vitro studies.",
+        "journal": "Cancer investigation",
+        "year": "2023",
+        "authors": [
+          "Kamal Mehta Vedant",
+          "Rao Mahadev",
+          "Damerla Rama Rao",
+          "Pai Ananth",
+          "Sharan Krishan"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Celecoxib",
+          "Squamous Cell Carcinoma of Head and Neck",
+          "Methotrexate",
+          "Carcinoma, Squamous Cell",
+          "Mouth Neoplasms",
+          "Head and Neck Neoplasms",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36269850/"
+      },
+      {
+        "pmid": "30509741",
+        "title": "PD-1 antibodies in head-and-neck cancer.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "2019",
+        "authors": [
+          "Wollenberg Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Cetuximab",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Methotrexate",
+          "Programmed Cell Death 1 Receptor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30509741/"
+      },
+      {
+        "pmid": "12001121",
+        "title": "Phase II study of methotrexate, vinblastine, doxorubicin, and cisplatin in patients with squamous cell carcinoma of the upper respiratory or alimentary passages of the head and neck.",
+        "abstract": "The chemotherapy drugs methotrexate, vinblastine, doxorubicin, and cisplatin have shown activity in patients with recurrent or metastatic squamous cell carcinoma arising from the upper respiratory or alimentary passages of the head and neck. This study was undertaken to assess the antitumor activity and toxicity profile of the drug combination methotrexate, vinblastine, doxorubicin, and cisplatin (MVAC) in this patient population.",
+        "journal": "Cancer",
+        "year": "2002",
+        "authors": [
+          "Okuno Scott H",
+          "Mailliard James A",
+          "Suman Vera J",
+          "Edmonson John H",
+          "Creagan Edward T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase II",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Disease Progression",
+          "Disease-Free Survival",
+          "Doxorubicin",
+          "Female",
+          "Head and Neck Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12001121/"
+      },
+      {
+        "pmid": "7198935",
+        "title": "High-dose oral methotrexate.",
+        "abstract": "In this study nine patients were treated with 250 mg of methotrexate (MTX) in divided oral doses every 2 weeks. Pharmacokinetic studies carried out on alternate courses showed no alteration with cycles in peak levels of the drug, the half-life of MTX, or the area under the concentration-time curve. Two partial responses (PR) were noted in head and neck squamous carcinoma. Three patients had stable disease and four progressed. Oral high-dose MTX produced predictable exposure of tumors to MTX, although the bioavailability was always less than the equivalent iv dose. Oral MTX was well tolerated by patients, toxicity was minimal, and no evidence of malabsorption of the drug was detected.",
+        "journal": "Cancer treatment reports",
+        "year": "1981",
+        "authors": [
+          "McVie J G",
+          "Stuart J F",
+          "Calman K C",
+          "Reid J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Biological Availability",
+          "Carcinoma, Squamous Cell",
+          "Drug Administration Schedule",
+          "Female",
+          "Half-Life",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Infusions, Parenteral",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7198935/"
+      },
+      {
+        "pmid": "16299796",
+        "title": "Radiochemotherapy with Vinblastine, Methotrexate, and Bleomycin in the treatment of verrucous carcinoma of the head and neck.",
+        "abstract": "To explore whether the combined radiochemotherapy with Vinblastine, Methotrexate, and Bleomycin could be an effective alternative treatment to surgery in verrucous carcinoma (VC) of the head and neck.",
+        "journal": "Journal of surgical oncology",
+        "year": "2005",
+        "authors": [
+          "Strojan Primoz",
+          "Soba Erika",
+          "Budihna Marjan",
+          "Auersperg Marija"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Carcinoma, Verrucous",
+          "Combined Modality Therapy",
+          "Drug Administration Schedule",
+          "Female",
+          "Head and Neck Neoplasms",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16299796/"
+      },
+      {
+        "pmid": "6183588",
+        "title": "Chemotherapy in head and neck cancer.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1983",
+        "authors": [
+          "Hong W K",
+          "Bromer R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Bleomycin",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Drug Therapy, Combination",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Immunotherapy",
+          "Infusions, Intra-Arterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6183588/"
+      },
+      {
+        "pmid": "25756517",
+        "title": "Gefitinib, Methotrexate and Methotrexate plus 5-Fluorouracil as palliative treatment in recurrent head and neck squamous cell carcinoma.",
+        "abstract": "This study compared the efficacy and toxicity of Gefitinib, Methotrexate and Methotrexate plus 5-Fluorouracil (5-FU) in patients of recurrent squamous cell carcinoma of head and neck (SCCHN) treated with palliative intent. Patients with recurrent SCCHN not amenable to curative treatment were randomly assigned to Gefitinib, Methotrexate or Methotrexate plus 5-FU arm. The primary end point was overall survival. Secondary end points of interest were objective response rate, toxicity and quality of life. Total 117 patients were analyzed. Median overall survival and objective response rates were 8.8 months, 7.8 months and 8.1 months and 7.7%, 5.0% and 7.9% in Gefitinib, Methotrexate and Methotrexate plus 5-FU arms respectively with no statistically significant difference between 3 arms. Gefitinib had different toxicity profile compared with other arms. Majority of toxicities were Grade 1 or Grade 2. Gefitinib had significant improvement in quality of life during initial months over Methotre",
+        "journal": "Cancer biology & therapy",
+        "year": "2015",
+        "authors": [
+          "Kushwaha Vandana Singh",
+          "Gupta Seema",
+          "Husain Nuzhat",
+          "Khan Huma",
+          "Negi M P S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Female",
+          "Fluorouracil",
+          "Gefitinib",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25756517/"
+      },
+      {
+        "pmid": "311679",
+        "title": "High dose methotrexate with and without BCG therapy in advanced head and neck malignancy.",
+        "abstract": "Twenty-three patients with advanced recurrent head and neck carcinoma were randomized to receive either high dose methotrexate with calcium leucovorin rescue (HDMTX) or HDMTX in combination with bacilli Calmette Guerin (HDMTX/BCG). An additional eight patients were treated with escalating doses of HDMTX ranging from 1 to 7 g of methotrexate. Of 12 patients receiving HDMTX, one complete response and two partial responses were noted. Of 11 patients in the HDMTX/BCG group, one complete response and two partial responses were observed. Only one partial response was noted in eight patients receiving escalating doses of the drug. Responses were brief and no significant difference in response duration was seen in any particular group. Toxicities in all groups were tolerable. BCG did not improve response rate, median duration of response, or median survival in these patients. Reported experiences with high dose methotrexate have been reviewed and again, responses to \"high dose methotrexate\" we",
+        "journal": "Cancer",
+        "year": "1979",
+        "authors": [
+          "Buechler M",
+          "Mukherji B",
+          "Chasin W",
+          "Nathanson L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "BCG Vaccine",
+          "Carcinoma, Squamous Cell",
+          "Carcinoma, Transitional Cell",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Leucovorin",
+          "Methotrexate",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/311679/"
+      },
+      {
+        "pmid": "6181680",
+        "title": "Changing role of chemotherapy in treatment of head and neck cancer.",
+        "abstract": "The role of chemotherapy in the management of head and neck cancer includes treatment for recurrent disease and as an adjunct to conventional therapy with radiation and/or surgery in the primary treatment program. The best single agents, methotrexate and cisplatin, used for recurrent disease give response rates of 20 to 50 percent but of short duration. Results may be improved with combination chemotherapy, but often with increased toxicity. Prognostic factors that influence response are discussed. A newer role of chemotherapy in this disease is in the initial treatment program. Pretreatment chemotherapy can debulk these lesions prior to surgery and/or irradiation in up to 80 percent of patients. Controlled trials are in progress to determine the effect on cure rates. Chemotherapy utilized during radiotherapy has resulted in survival benefit in several studies. Post-treatment adjuvant chemotherapy still needs to be evaluated. The potential advantages and disadvantages of chemotherapy u",
+        "journal": "The American journal of medicine",
+        "year": "1982",
+        "authors": [
+          "Mead G M",
+          "Jacobs C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Bleomycin",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Drug Therapy, Combination",
+          "Fluorouracil",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Hydroxyurea",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6181680/"
+      },
+      {
+        "pmid": "27160335",
+        "title": "Afatinib in squamous cell carcinoma of the head and neck.",
+        "abstract": "Recently new data on the efficacy of afatinib in head and neck squamous cell carcinoma (HNSCC) have been published.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2016",
+        "authors": [
+          "Specenier Pol",
+          "Vermorken Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Afatinib",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Cetuximab",
+          "Chemoradiotherapy",
+          "Disease-Free Survival",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Maximum Tolerated Dose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27160335/"
+      },
+      {
+        "pmid": "32279645",
+        "title": "Verrucous hyperplasia and verrucous carcinoma in head and neck: use and benefit of methotrexate.",
+        "abstract": "Background and aim: Verrucous hyperplasia (VH) and verrucous carcinoma (VC) of the head and neck are two (pre)malignant entities that are slowly progressive with low tendency to metastasize. However, they can reduce the patient's Quality of Life (QoL) and may even transform into squamous cell carcinoma (SCC). As they are typically approached by surgical resection, some patients do not qualify for surgery. Methotrexate may be a systemic alternative but the response is mostly not durable. This case report tries to illustrate the potential role of methotrexate in VH/VC of the head and neck.Method: We describe four cases of patients with VH or VC of the head and neck who received methotrexate (40-60 mg/m2) in a weekly or two-weekly interval.Results: Two patients received methotrexate in a neoadjuvant setting. The first patient achieved a macroscopical complete response after 16 cycles and remained in remission after surgery. The second patient suffered from residual disease after 26 cycles",
+        "journal": "Acta clinica Belgica",
+        "year": "2021",
+        "authors": [
+          "De Keukeleire Stijn",
+          "De Meulenaere Astrid",
+          "Deron Philippe",
+          "Huvenne Wouter",
+          "Fréderic Duprez"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Carcinoma, Verrucous",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Hyperplasia",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32279645/"
+      },
+      {
+        "pmid": "300460",
+        "title": "High-dose methotrexate therapy.",
+        "abstract": "Eighty-six adults with malignant disease were given high doses of methotrexate with folinic acid rescue, with acceptable toxicity. Protocal violations in two cases led to death. The results of therapy in some diagnostic groups are encouraging.",
+        "journal": "The Medical journal of Australia",
+        "year": "1977",
+        "authors": [
+          "Bell R",
+          "Sullivan J R",
+          "Moon W J",
+          "Hurley T H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carcinoma, Squamous Cell",
+          "Drug Therapy, Combination",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Leucovorin",
+          "Lymphoma",
+          "Methotrexate",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/300460/"
+      },
+      {
+        "pmid": "2480493",
+        "title": "Cisplatin, bleomycin, and methotrexate (PBM) chemotherapy in locally advanced and metastatic head and neck cancer.",
+        "abstract": "Twenty-two patients with locally advanced or metastatic head and neck tumors received a total of 84 courses of a combination of cisplatin, bleomycin, and Methotrexate (PBM) for a median of four courses per patient (range, 1-7). Among these 22 patients there were four patients (18%) who achieved complete remission (CR) and 13 patients (60%) who had a partial remission (PR). The overall remission rate (CR + PR) thus reached 78%; five patients (22%) progressed while on therapy. The mean duration of objective response (CR + PR) was 8 months; CR lasted a median of 18 months (range, 2-48). Survival was not influenced by tumor histology or by previous surgery. The presence of locoregional disease did adversely affect survival from the onset of chemotherapy (P = 0.1). The rate of survival was also affected by primary tumor site; patients with nasopharyngeal primaries survived longer than all other patients (22 vs. 11 months, P = 0.06). Toxicity to chemotherapy consisted mainly of nausea and vo",
+        "journal": "Journal of surgical oncology",
+        "year": "1989",
+        "authors": [
+          "Uziely B",
+          "Peretz T",
+          "Sulkes A",
+          "Feigin E",
+          "Isacson R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Cisplatin",
+          "Drug Administration Schedule",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Methotrexate",
+          "Middle Aged",
+          "Survival Rate",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2480493/"
+      },
+      {
+        "pmid": "11716226",
+        "title": "Concomitant methotrexate and radiotherapy in advanced head and neck cancer: 15-year follow-up of a randomized clinical trial.",
+        "abstract": "Long-term follow-up for patients who receive chemoradiation for head and neck cancer is lacking from most studies reported in the literature. This report gives a 15-year review of the use of concomitant methotrexate and radiation in advanced head and neck cancer. Although there has not been any significant benefit in overall survival, the primary control rate is higher in patients who received methotrexate in addition to radiotherapy. However, in those with oropharyngeal cancer, both primary control and survival were significantly improved when chemotherapy was used. The other most significant benefit from chemoradiation is the much lower rate of salvage operations for primary recurrence. The addition of methotrexate failed to show any effect on the development of metastatic neck nodes. The rate of block dissection of the neck was similar in both arms of the study and is comparable with the historical data collected at this institute. There has not been any significant increase in seri",
+        "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+        "year": "2001",
+        "authors": [
+          "Gupta N K",
+          "Swindell R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Carcinoma, Squamous Cell",
+          "Combined Modality Therapy",
+          "Follow-Up Studies",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Methotrexate",
+          "Salvage Therapy",
+          "Survival Analysis",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11716226/"
+      },
+      {
+        "pmid": "2408735",
+        "title": "A randomized prospective comparison of methotrexate with a combination of methotrexate, bleomycin, and cisplatin in head and neck cancer.",
+        "abstract": "Combination chemotherapy with methotrexate, bleomycin, and cis-diamminedichloroplatinum (II) was compared to weekly therapy with methotrexate alone in a randomized prospective trial in 163 patients with recurrent or metastatic squamous cancer of the mucous membranes of the head and neck. The combination produced responses in 48% compared to 35% for methotrexate alone, with 16% complete remissions versus 8%, respectively. The difference in overall and complete remission rates is significant (P = 0.04) using a one-sided binary regression test. Median time to disease progression among responders was 5.8 months for the combination and 5 months for methotrexate, and median survival was 5.6 months in each group. Toxicity was similar in the two groups. Ambulatory patients, those without fixed neck nodes and those without distant metastases, responded more often. Poor performance status, distant metastases, history of heavy smoking, and adjacent organ invasion by the primary tumor were associa",
+        "journal": "Cancer",
+        "year": "1985",
+        "authors": [
+          "Vogl S E",
+          "Schoenfeld D A",
+          "Kaplan B H",
+          "Lerner H J",
+          "Engstrom P F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Clinical Trials as Topic",
+          "Combined Modality Therapy",
+          "Female",
+          "Head and Neck Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2408735/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:28:40.405002",
+  "success": true,
+  "error_message": null
+}

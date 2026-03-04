@@ -1,0 +1,550 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "congenital hypogonadotropic hypogonadism",
+    "query_string": "Testosterone AND congenital hypogonadotropic hypogonadism"
+  },
+  "data": {
+    "query": "Testosterone AND congenital hypogonadotropic hypogonadism",
+    "results": [
+      {
+        "pmid": "31147553",
+        "title": "Paediatric and adult-onset male hypogonadism.",
+        "abstract": "The hypothalamic-pituitary-gonadal axis is of relevance in many processes related to the development, maturation and ageing of the male. Through this axis, a cascade of coordinated activities is carried out leading to sustained testicular endocrine function, with gonadal testosterone production, as well as exocrine function, with spermatogenesis. Conditions impairing the hypothalamic-pituitary-gonadal axis during paediatric or pubertal life may result in delayed puberty. Late-onset hypogonadism is a clinical condition in the ageing male combining low concentrations of circulating testosterone and specific symptoms associated with impaired hormone production. Testosterone therapy for congenital forms of hypogonadism must be lifelong, whereas testosterone treatment of late-onset hypogonadism remains a matter of debate because of unclear indications for replacement, uncertain efficacy and potential risks. This Primer focuses on a reappraisal of the physiological role of testosterone, with",
+        "journal": "Nature reviews. Disease primers",
+        "year": "2019",
+        "authors": [
+          "Salonia Andrea",
+          "Rastrelli Giulia",
+          "Hackett Geoffrey",
+          "Seminara Stephanie B",
+          "Huhtaniemi Ilpo T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Child",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31147553/"
+      },
+      {
+        "pmid": "38683021",
+        "title": "A Current Perspective on Delayed Puberty and Its Management.",
+        "abstract": "Delayed puberty is defined as the lack of development of secondary sex characteristics in childhood. Based on a review of the literature, delayed puberty can be divided into three main categories: (i) hypergonadotropic hypogonadism (congenital and acquired); (ii) permanent hypogonadotropic hypogonadism (congenital and acquired); and (iii) transient hypogonadotropic hypogonadism [constitutional delay of growth and puberty (CDGP) and functional hypogonadotropic hypogonadism]. CDGP is the most common cause of hypogonadism in both males and females, accounting for 60% and 30% respectively. Testosterone is the primary treatment for male hypogonadism, while estrogen and progesterone are used for female hypogonadism. However, in recent years, physiological induction therapy protocols such as human chorionic gonadotropin (hCG) monotherapy, hCG + follicle-stimulating hormone combined therapy, and gonadotropin-releasing hormone infusion have been recommended for the treatment of hypogonadotropic",
+        "journal": "Journal of clinical research in pediatric endocrinology",
+        "year": "2024",
+        "authors": [
+          "Abacı Ayhan",
+          "Besci Özge"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Puberty, Delayed",
+          "Hypogonadism",
+          "Male",
+          "Female",
+          "Chorionic Gonadotropin",
+          "Testosterone",
+          "Gonadotropin-Releasing Hormone",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38683021/"
+      },
+      {
+        "pmid": "32445446",
+        "title": "Gonadotropin Treatment for the Male Hypogonadotropic Hypogonadism.",
+        "abstract": "Hypogonadotropic hypogonadism (HH) is caused by a dysfunction in the hypothalamus and/or the pituitary gland and it can be congenital or acquired. This condition is biochemically characterized by low or inappropriately normal gonadotropin levels along with low total testosterone levels. If fertility is not an issue, testosterone therapy is the treatment of choice to induce and maintain secondary sexual characteristics and sexual function. Spermatogenesis is frequently impaired in patients with HH, but usually responsive to hormonal therapy such as gonadotropin therapy or GnRH supplementary/replacement therapy. When gonadotropins are the choice of treatment, conventional therapy includes human chorionic gonadotropin (hCG) along with different FSH formulations: human menopausal gonadotropins (hMG), highly purified urinary FSH preparations (hpFSH) (e.g., urofollitropin) or recombinant FSH (rFSH). The combination of FSH and hCG demonstrated to be associated with better outcomes than single",
+        "journal": "Current pharmaceutical design",
+        "year": "2021",
+        "authors": [
+          "Boeri Luca",
+          "Capogrosso Paolo",
+          "Salonia Andrea"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chorionic Gonadotropin",
+          "Female",
+          "Follicle Stimulating Hormone",
+          "Gonadotropin-Releasing Hormone",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Pregnancy",
+          "Spermatogenesis",
+          "Testis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32445446/"
+      },
+      {
+        "pmid": "38437850",
+        "title": "Classes and predictors of reversal in male patients with congenital hypogonadotropic hypogonadism: a cross-sectional study of six international referral centres.",
+        "abstract": "Although some male patients with congenital hypogonadotropic hypogonadism (CHH) undergo spontaneous reversal following treatment, predictors of reversal remain elusive. We aimed to assemble the largest cohort of male patients with CHH reversal to date and identify distinct classes of reversal.",
+        "journal": "The lancet. Diabetes & endocrinology",
+        "year": "2024",
+        "authors": [
+          "Dwyer Andrew A",
+          "McDonald Isabella R",
+          "Cangiano Biagio",
+          "Giovanelli Luca",
+          "Maione Luigi"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "United States",
+          "Child",
+          "Adult",
+          "Humans",
+          "Male",
+          "Adolescent",
+          "Cross-Sectional Studies",
+          "Hypogonadism",
+          "Follicle Stimulating Hormone",
+          "Genital Diseases, Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38437850/"
+      },
+      {
+        "pmid": "35353710",
+        "title": "Pubertal induction and transition to adult sex hormone replacement in patients with congenital pituitary or gonadal reproductive hormone deficiency: an Endo-ERN clinical practice guideline.",
+        "abstract": "An Endo-European Reference Network guideline initiative was launched including 16 clinicians experienced in endocrinology, pediatric and adult and 2 patient representatives. The guideline was endorsed by the European Society for Pediatric Endocrinology, the European Society for Endocrinology and the European Academy of Andrology. The aim was to create practice guidelines for clinical assessment and puberty induction in individuals with congenital pituitary or gonadal hormone deficiency. A systematic literature search was conducted, and the evidence was graded according to the Grading of Recommendations, Assessment, Development and Evaluation system. If the evidence was insufficient or lacking, then the conclusions were based on expert opinion. The guideline includes recommendations for puberty induction with oestrogen or testosterone. Publications on the induction of puberty with follicle-stimulation hormone and human chorionic gonadotrophin in hypogonadotropic hypogonadism are reviewe",
+        "journal": "European journal of endocrinology",
+        "year": "2022",
+        "authors": [
+          "Nordenström A",
+          "Ahmed S F",
+          "van den Akker E",
+          "Blair J",
+          "Bonomi M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Female",
+          "Gonadal Steroid Hormones",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Pituitary Diseases",
+          "Puberty",
+          "Puberty, Delayed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35353710/"
+      },
+      {
+        "pmid": "30851011",
+        "title": "Testosterone replacement in congenital hypogonadotropic hypogonadism maintains bone density but has only limited osteoanabolic effects.",
+        "abstract": "Congenital hypogonadotropic hypogonadism (CHH) is a rare condition characterized by complete sex steroid deficiency. Therefore, CHH is a unique human model to study the impact of long-term testosterone replacement therapy (TRT) on bone.",
+        "journal": "Andrology",
+        "year": "2019",
+        "authors": [
+          "Antonio L",
+          "Caerels S",
+          "Jardi F",
+          "Delaunay E",
+          "Vanderschueren D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Bone Density",
+          "Bone Diseases, Metabolic",
+          "Child",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30851011/"
+      },
+      {
+        "pmid": "35674463",
+        "title": "What are the pharmacological considerations for male congenital hypogonadotropic hypogonadism?",
+        "abstract": "",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Rastrelli Giulia",
+          "Maggi Mario",
+          "Corona Giovanni"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Gonadotropin-Releasing Hormone",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35674463/"
+      },
+      {
+        "pmid": "32748610",
+        "title": "Delayed puberty.",
+        "abstract": "The onset of puberty may be late - in the latter part of the predicted normal range or truly delayed - beyond this range. The latest age to start is usually regarded as 13 years in girls and 14 years in boys. There may also be a delayed completion of puberty, 16 years in girls and 17 years in boys. The initial approach requires a detailed history and clinical examination to exclude other medical or psychological problems. The presence or absence or pubertal signs should be documented. Investigations should be targeted at ruling out any medical causes and determining whether the delay is due to central gonadotropin deficiency (hypogonadotropic hypogonadism) or a gonadal disorder (hypergonadotropic hypogonadism). Physiological or constitutional delay of growth and puberty (CDGP) is more common in boys but is a diagnosis of exclusion. Current research suggests that CDGP and congenital hypogonadotropic hypogonadism have distinct genetic profiles which may aid in the differential diagnosis.",
+        "journal": "Minerva pediatrica",
+        "year": "2020",
+        "authors": [
+          "Butler Gary",
+          "Purushothaman Preetha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adrenarche",
+          "Female",
+          "Gonadotropins",
+          "Growth Disorders",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Menarche",
+          "Puberty"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32748610/"
+      },
+      {
+        "pmid": "24815726",
+        "title": "Congenital hypogonadotropic hypogonadism and Kallmann syndrome as models for studying hormonal regulation of human testicular endocrine functions.",
+        "abstract": "Men with Kallmann syndrome (KS) and those with congenital isolated hypogonadotropic hypogonadism with normal olfaction share a chronic, usually profound deficit, in FSH and LH, the two pituitary gonadotropins. Many studies indicate that this gonadotropin deficiency is already present during fetal life, thus explaining the micropenis, cryptorchidism and marked testicular hypotrophy already present at birth. In addition, neonatal activation of gonadotropin secretion is compromised in boys with severe CHH/Kallmann, preventing the first phase of postnatal testicular activation. Finally, CHH is characterized by the persistence, in the vast majority of cases, of gonadotropin deficiency at the time of puberty and during adulthood. This prevents the normal pubertal testicular reactivation required for physiological sex steroid and testicular peptide production, and for spermatogenesis. CHH/KS thus represents a pathological paradigm that can help to unravel, in vivo, the role of each gonadotrop",
+        "journal": "Annales d'endocrinologie",
+        "year": "2014",
+        "authors": [
+          "Trabado Séverine",
+          "Lamothe Sophie",
+          "Maione Luigi",
+          "Bouvattier Claire",
+          "Sarfati Julie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cryptorchidism",
+          "Drug Therapy, Combination",
+          "Follicle Stimulating Hormone",
+          "Hormone Replacement Therapy",
+          "Hormones",
+          "Humans",
+          "Hypogonadism",
+          "Infant, Newborn",
+          "Inhibins",
+          "Kallmann Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24815726/"
+      },
+      {
+        "pmid": "32010061",
+        "title": "Hypogonadism and Cryptorchidism.",
+        "abstract": "Congenital cryptorchidism (undescended testis) is one of the most common congenital urogenital malformations in boys. Prevalence of cryptorchidism at birth among boys born with normal birth weight ranges from 1.8 to 8.4%. Cryptorchidism is associated with a risk of low semen quality and an increased risk of testicular germ cell tumors. Testicular hormones, androgens and insulin-like peptide 3 (INSL3), have an essential role in the process of testicular descent from intra-abdominal position into the scrotum in fetal life. This explains the increased prevalence of cryptorchidism among boys with diseases or syndromes associated with congenitally decreased secretion or action of androgens, such as patients with congenital hypogonadism and partial androgen insensitivity syndrome. There is evidence to support that cryptorchidism is associated with decreased testicular hormone production later in life. It has been shown that cryptorchidism impairs long-term Sertoli cell function, but may also",
+        "journal": "Frontiers in endocrinology",
+        "year": "2019",
+        "authors": [
+          "Rodprasert Wiwat",
+          "Virtanen Helena E",
+          "Mäkelä Juho-Antti",
+          "Toppari Jorma"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32010061/"
+      },
+      {
+        "pmid": "38367592",
+        "title": "APHRODITE criteria: addressing male patients with hypogonadism and/or infertility owing to altered idiopathic testicular function.",
+        "abstract": "Can a novel classification system of the infertile male - 'APHRODITE' (Addressing male Patients with Hypogonadism and/or infeRtility Owing to altereD, Idiopathic TEsticular function) - stratify different subgroups of male infertility to help scientists to design clinical trials on the hormonal treatment of male infertility, and clinicians to counsel and treat the endocrinological imbalances in men and, ultimately, increase the chances of natural and assisted conception?",
+        "journal": "Reproductive biomedicine online",
+        "year": "2024",
+        "authors": [
+          "Esteves Sandro C",
+          "Humaidan Peter",
+          "Ubaldi Filippo M",
+          "Alviggi Carlo",
+          "Antonio Leen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Infertility, Male",
+          "Hypogonadism",
+          "Semen Analysis",
+          "Testosterone",
+          "Follicle Stimulating Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38367592/"
+      },
+      {
+        "pmid": "20207726",
+        "title": "Non-syndromic congenital hypogonadotropic hypogonadism: clinical presentation and genotype-phenotype relationships.",
+        "abstract": "Congenital hypogonadotropic hypogonadism (CHH) results from abnormal gonadotropin secretion, and it is characterized by impaired pubertal development. CHH is caused by defective GNRH release, or by a gonadotrope cell dysfunction in the pituitary. Identification of genetic abnormalities related to CHH has provided major insights into the pathways critical for the development, maturation, and function of the reproductive axis. Mutations in five genes have been found specifically in Kallmann's syndrome, a disorder in which CHH is related to abnormal GNRH neuron ontogenesis and is associated with anosmia or hyposmia. In combined pituitary hormone deficiency or in complex syndromic CHH in which gonadotropin deficiency is either incidental or only one aspect of a more complex endocrine disorder or a non-endocrine disorder, other mutations affecting GNRH and/or gonadotropin secretion have been reported. Often, the CHH phenotype is tightly linked to an isolated deficiency of gonadotropin secre",
+        "journal": "European journal of endocrinology",
+        "year": "2010",
+        "authors": [
+          "Brioude Frédéric",
+          "Bouligand Jérôme",
+          "Trabado Séverine",
+          "Francou Bruno",
+          "Salenave Sylvie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Amenorrhea",
+          "Female",
+          "Genotype",
+          "Gonadotropin-Releasing Hormone",
+          "Humans",
+          "Hypogonadism",
+          "Infant",
+          "Kallmann Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20207726/"
+      },
+      {
+        "pmid": "33725720",
+        "title": "Compromised Volumetric Bone Density and Microarchitecture in Men With Congenital Hypogonadotropic Hypogonadism.",
+        "abstract": "Men with congenital hypogonadotropic hypogonadism (CHH) and Kallmann syndrome (KS) have both low circulating testosterone and estradiol levels. Whether bone structure is affected remains unknown.",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2021",
+        "authors": [
+          "Ostertag Agnès",
+          "Papadakis Georgios E",
+          "Collet Corinne",
+          "Trabado Severine",
+          "Maione Luigi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absorptiometry, Photon",
+          "Adolescent",
+          "Adult",
+          "Bone Density",
+          "Bone and Bones",
+          "Cross-Sectional Studies",
+          "Early Diagnosis",
+          "Estradiol",
+          "Genotype",
+          "Gonadotropins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33725720/"
+      },
+      {
+        "pmid": "27213784",
+        "title": "Congenital hypogonadotropic hypogonadism: implications of absent mini-puberty.",
+        "abstract": "The phenomenon known as \"mini-puberty\" refers to activation of the neonatal hypothalamo-pituitary axis causing serum concentrations of gonadotrophins and testosterone (T) to approach adult male levels. This early neonatal period is a key proliferative window for testicular germ cells and immature Sertoli cells. Although failure to spontaneously initiate (adolescent) puberty is the most evident consequence of a defective gonadotropin-releasing hormone (GnRH) neurosecretory network, absent mini-puberty is also likely to have a major impact on the reproductive phenotype of men with congenital hypogonadotrophic hypogonadism (CHH). Furthermore, the phase of male mini-puberty represents a key window-of-opportunity to identify congenital GnRH deficiency (either isolated CHH, or as part of combined pituitary hormone deficiency) in childhood. Among male neonates exhibiting \"red flag\" indicators for CHH (i.e. maldescended testes with or without cryptorchidism) a single serum sample (between 4-8 ",
+        "journal": "Minerva endocrinologica",
+        "year": "2016",
+        "authors": [
+          "Dwyer Andrew A",
+          "Jayasena Channa N",
+          "Quinton Richard"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Gonadotropins",
+          "Humans",
+          "Hypogonadism",
+          "Infant, Newborn",
+          "Male",
+          "Puberty",
+          "Puberty, Delayed",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27213784/"
+      },
+      {
+        "pmid": "23503957",
+        "title": "Hypogonadotropic hypogonadism revisited.",
+        "abstract": "Impaired testicular function, i.e., hypogonadism, can result from a primary testicular disorder (hypergonadotropic) or occur secondary to hypothalamic-pituitary dysfunction (hypogonadotropic). Hypogonadotropic hypogonadism can be congenital or acquired. Congenital hypogonadotropic hypogonadism is divided into anosmic hypogonadotropic hypogonadism (Kallmann syndrome) and congenital normosmic isolated hypogonadotropic hypogonadism (idiopathic hypogonadotropic hypogonadism). The incidence of congenital hypogonadotropic hypogonadism is approximately 1-10:100,000 live births, and approximately 2/3 and 1/3 of cases are caused by Kallmann syndrome (KS) and idiopathic hypogonadotropic hypogonadism, respectively. Acquired hypogonadotropic hypogonadism can be caused by drugs, infiltrative or infectious pituitary lesions, hyperprolactinemia, encephalic trauma, pituitary/brain radiation, exhausting exercise, abusive alcohol or illicit drug intake, and systemic diseases such as hemochromatosis, sar",
+        "journal": "Clinics (Sao Paulo, Brazil)",
+        "year": "2013",
+        "authors": [
+          "Fraietta Renato",
+          "Zylberstejn Daniel Suslik",
+          "Esteves Sandro C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endocrine System Diseases",
+          "Gonadotropins",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism",
+          "Infertility, Male",
+          "Male",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23503957/"
+      },
+      {
+        "pmid": "35669683",
+        "title": "Correlation Analysis of Genotypes and Phenotypes in Chinese Male Pediatric Patients With Congenital Hypogonadotropic Hypogonadism.",
+        "abstract": "Congenital hypogonadotropic hypogonadism (CHH) can be divided into Kallmann syndrome (KS) and normosmic HH (nHH). The clinical and genetic characteristics of CHH have been studied in adults, but less in pre-adults. The medical records of patients with CHH in our gonad disease database from 2008 to 2020 were evaluated. In total, 125 patients aged 0 to 18 years were enrolled in our study. KS patients had a higher incidence of micropenis compared with nHH (86.2% vs. 65.8%, p=0.009), and 7 patients (5.6%) had hypospadias. Among the 39 patients with traceable family history, delayed puberty, KS/nHH, and olfactory abnormalities accounted for 56.4%, 17.9%, and 15.4%, respectively. In total, 65 patients completed the hCG prolongation test after undergoing the standard hCG test, and the testosterone levels of 24 patients (22.9%) were still lower than 100 ng/dL. In 77 patients, 25 CHH-related genes were identified, including digenic and trigenic mutations in 23 and 3 patients, respectively. The ",
+        "journal": "Frontiers in endocrinology",
+        "year": "2022",
+        "authors": [
+          "Wang Yi",
+          "Qin Miao",
+          "Fan Lijun",
+          "Gong Chunxiu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "China",
+          "Genital Diseases, Male",
+          "Genotype",
+          "Humans",
+          "Hypogonadism",
+          "Kallmann Syndrome",
+          "Male",
+          "Penis",
+          "Phenotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35669683/"
+      },
+      {
+        "pmid": "39930628",
+        "title": "FSH and Sertoli Cell Biomarkers Accurately Distinguish Hypogonadotropic Hypogonadism From Self-limited Delayed Puberty.",
+        "abstract": "Delayed puberty is a frequent complaint in males. The differential diagnosis between self-limited delayed puberty (SLDP) and congenital hypogonadotropic hypogonadism (CHH) is challenging. Commonly used endocrine tests, focusing on stimulated levels of LH or testosterone, are not satisfactory in making a diagnosis. Because FSH action on Sertoli cells results in testis enlargement and anti-Müllerian hormone (AMH) and inhibin B increased secretion, and the FSH-Sertoli cell axis function is detectable during normal childhood and early puberty, we tested whether the assessment of serum FSH, AMH, and inhibin B would be informative to distinguish between SLDP and CHH.",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2025",
+        "authors": [
+          "Castro Sebastián",
+          "Correa Brito Lourdes",
+          "Bedecarrás Patricia",
+          "Ballerini María Gabriela",
+          "Sansó Gabriela"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Hypogonadism",
+          "Adolescent",
+          "Sertoli Cells",
+          "Biomarkers",
+          "Puberty, Delayed",
+          "Anti-Mullerian Hormone",
+          "Inhibins",
+          "Follicle Stimulating Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39930628/"
+      },
+      {
+        "pmid": "33354214",
+        "title": "Clinical Characteristics and Spermatogenesis in Patients with Congenital Hypogonadotropic Hypogonadism Caused by FGFR1 Mutations.",
+        "abstract": "The aim of this study was to investigate the clinical characteristics of patients diagnosed with congenital hypogonadotropic hypogonadism (CHH) caused by FGFR1 (fibroblast growth factor receptor 1) gene mutations and to evaluate the effect of gonadotropin or pulsatile gonadotropin-releasing hormone (GnRH) therapy on spermatogenesis.",
+        "journal": "International journal of endocrinology",
+        "year": "2020",
+        "authors": [
+          "Li Shuying",
+          "Zhao Yaling",
+          "Nie Min",
+          "Ma Wanlu",
+          "Wang Xi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33354214/"
+      },
+      {
+        "pmid": "36181235",
+        "title": "Changes in levels of testosterone, insulin sensitivity and metabolic profiles during GnRH therapy: Reciprocity between insulin sensitivity and pituitary responsiveness to GnRH in teenage and young male patients with congenital hypogonadotropic hypogonadism.",
+        "abstract": "A direct evaluation of insulin sensitivity on pituitary response to gonadotropin relasing hormone (GnRH) has not been shown in congenital hypogonadotropic hypogonadism (CHH), despite a growing body of evidence in the association of testosterone concentrations with insulin sensitiviy. The objective of the study was to explore whether increased testosterone concentrations in men with CHH improve insulin sensitivity, or vice versa.",
+        "journal": "Clinical endocrinology",
+        "year": "2022",
+        "authors": [
+          "Fan Hong-Qi",
+          "Wang Yu-Cheng",
+          "He Wei",
+          "Zhou Hong-Wen",
+          "Yang Tao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Humans",
+          "Male",
+          "Follicle Stimulating Hormone",
+          "Glucose",
+          "Gonadotropin-Releasing Hormone",
+          "Gonadotropins",
+          "Hypogonadism",
+          "Insulin",
+          "Insulin Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36181235/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:26:19.317109",
+  "success": true,
+  "error_message": null
+}

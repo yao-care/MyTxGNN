@@ -1,0 +1,506 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Deferasirox",
+    "disease": "beta-thalassemia intermedia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06568926",
+      "title": "Adherence of Beta Thalssemia Patients to Oral Chelation Therapy",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-07-14",
+      "completion_date": "2025-07-14",
+      "country": "Egypt",
+      "enrollment": 200,
+      "brief_summary": "The β-thalassemias are a group of inherited disorders of hemoglobin (Hb) synthesis characterized by chronic anemia of varying severity. The degree of anemia relies on several genetic and environmental factors and determines the need for regular transfusion therapy. It is now common practice to classify patients as having transfusion dependent β-thalassemia (TDT) or non-transfusion-dependent β-thalassemia (NTDT). Regarding geographical distribution of β-thalassemia, it prevails more in countries ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. confirmed diagnosis of beta thalassemia major or intermedia,\n2. Age between 2-18 years,\n3. Receiving regular blood transfusions every 2-5 weeks\n4. Prescribed oral iron chelation therapy with deferasirox for at least 1 year prior to enrollment.\n\nExclusion Criteria:\n\n1. Age les",
+      "endpoints": [
+        "serum ferritin level in beta thalassemia patients adherent to oral chelation therapy"
+      ],
+      "sponsor": "Sohag University",
+      "url": "https://clinicaltrials.gov/study/NCT06568926"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07292259",
+      "title": "The Efficacy of Combined Thalidomide and Hydroxyurea Therapy in Transfusion Dependent β-thalassemia (TDBT), Phase II Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-01-01",
+      "completion_date": "2025-12-30",
+      "country": "Pakistan",
+      "enrollment": 150,
+      "brief_summary": "Beta thalassemia Major (BTM) is the most common hemoglobinopathy caused by mutations in the beta-globin gene . Worldwide, approximately 80 million people carry thalassemia gene mutation. Around 23,000 babies are affected by BTM each year, of which around 90% belong to low- or middle-income nations.\n\nIn Pakistan, the carrier prevalence of thalassemia is 5-7% resulting in a significant population of approximately 10 million carriers in the general population. There are 50,000 thalassemia patients ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n• Patients suffering from Transfusion Dependent β-thalassemia (TDBT) more than two years of age of either sex will be included in the study.\n\nExclusion Criteria:\n\n* Age less than two years.\n* Patients having cardiac, hepatic, pulmonary, renal or neurological dysfunction or histo",
+      "endpoints": [
+        "Number of Red Blood Cell Transfusions after starting a combination of Thalidomide and hydroxyurea"
+      ],
+      "sponsor": "Pakistan Blood and Marrow Transplant (PBMT) Group",
+      "url": "https://clinicaltrials.gov/study/NCT07292259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01927913",
+      "title": "A 48-week, Open-label, 2-arm, Parallel-group, Randomized Exploratory Study to Assess Liver Iron Concentration Measured by FerriScan® (R2) Magnetic Resonance Imaging in B-thalassemia Subjects Administered SPD602 (SSP-004184AQ) or Exjade® (Deferasirox) for Treatment of Chronic Transfusional Iron Overload",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2014-11-20",
+      "completion_date": "2015-10-30",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this open-label study is to assess liver iron concentration using MRI imaging in subjects with beta-thalassemia when administered with either SPD602 or deferasirox for the treatment of chronic transfusional iron overload.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nThese criteria are to be met at the Screening Visit (Visit 1), the Washout Visit (Visit 2), and the Baseline Visit (Visit 3), if reassessed.\n\n* An understanding, ability, and willingness to fully comply with study procedures and restrictions.\n* Ability to voluntarily provide wri",
+      "endpoints": [
+        "Change in Liver Iron Concentration (LIC) from Baseline Utilizing R2 Magnetic Resonance Imaging (MRI)"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01927913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04292314",
+      "title": "Impact of Combination Therapy Between Hydroxy Urea, Omega 3, Nigella Sativa and Honey on Antioxidant-oxidant Status and Reduction of Iron Overload in Pediatric Major Thalassemia",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-11-01",
+      "completion_date": "2021-01-20",
+      "country": "Egypt, Saudi Arabia",
+      "enrollment": 350,
+      "brief_summary": "The aim of the present study is evaluating the strength of combination therapy of hydroxy urea, omega 3, nigella sativa and honey on antioxidant-oxidant status (OXIDATIVE STRESS) in response to reactive oxygen species production (LIPID PEROXIDATION) and their effect on iron intoxication (IRON CHELATION) in pediatric major thalassemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Any case with full manifestation of β-THALASSEMIA major disease\n2. #Aged from 7-15 years old\n3. \\# accompanied with ineffective erythropoiesis\n4. \\# with low hemoglobin level\n5. \\# with iron overload\n\nExclusion Criteria:\n\n1. The presence of any other chronic illness.\n2. Patie",
+      "endpoints": [
+        "F 2 -isoprostanes pg/mL",
+        "Total cholesterol Mg/dl",
+        "HDL cholesterol Mg/dl"
+      ],
+      "sponsor": "Beni-Suef University",
+      "url": "https://clinicaltrials.gov/study/NCT04292314"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01610297",
+      "title": "A Phase II, Multi-center, Single-arm, Prospective Study to Evaluate the Safety and Efficacy of Deferasirox in Beta-thalassemia Major Patients After Hematopoietic Stem Cell Transplantation.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2015-10",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 27,
+      "brief_summary": "This was a prospective, single-arm, multicenter, national, phase II clinical study. The purpose of this Phase II study was to examine the safety and efficacy of deferasirox to decrease iron overload (IOL) in the posttransplant period in patients with beta-thalassemia major.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Patients who had hematopoietic stem cell transplantation (HSCT) for beta-thalassemia major\n* hematopoietic stem cell transplantation (HSCT) was performed minimum 6 months and maximum 2 years ago\n* The washout period after the immunosuppressive therapy should be at least 3 month",
+      "endpoints": [
+        "Number of Participants With Adverse Events, Serious Adverse Events and Deaths as a Measure of Safety and Tolerability"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01610297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00061750",
+      "title": "A Randomized, Comparative, Open Label Phase III Trial on Efficacy & Safety of Long-term Treatment With ICL670 Compared to Deferoxamine in Beta-thalassemia Patients With Transfusional Hemosiderosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 595,
+      "brief_summary": "The purpose of this study is to deterimine if the new orally active iron chelator, ICL670, is as effective and as safe as deferoxamine in preventing accumulation of iron in the body while a patient is undergoing repeated blood transfusions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Beta-thalassemia patients already treated with or suitable for treatment with deferoxamine 20 to 40 mg/kg/day\n* Liver iron content greater than 2 mg iron/g dw as measured by liver biopsy\n* Need for regular transfusions 8 or more times per year\n\nExclusion Criteria:\n\n* Non-trans",
+      "endpoints": [
+        "Demonstrate non-inferiority to deferoxamine in its effects on liver iron content (LIC)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00061750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07157722",
+      "title": "The Potential Role of N-Acetyl Cysteine or Alpha-Lipoic Acid as Adjuvant Therapies in the Treatment of Patients With Beta Thalassemia",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-08-30",
+      "completion_date": "2026-01-30",
+      "country": "Egypt",
+      "enrollment": 66,
+      "brief_summary": "The current study is to investigate the potential roles of N-acetyl cysteine and Alpha-lipoic acid in patients with beta-thalassemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with beta-thalassemia who will receive conventional thalassemia management.\n* Both genders.\n* Age ≥ 18 years old.\n\nExclusion Criteria:\n\n* Patients with familial hypercholesterolemia or history of premature atherosclerosis.\n* Patients with a prior history of significan",
+      "endpoints": [
+        "The change from baseline in carotid intima media thickness (CIMT)"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT07157722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00873041",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Phase II Study to Evaluate Efficacy and Safety of Deferasirox in Non-transfusion-dependent Thalassemia Patients With Iron Overload",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2012-06",
+      "country": "Lebanon, Taiwan, Turkey (Türkiye), Greece, Italy, United Kingdom, Malaysia, Thailand, United States",
+      "enrollment": 166,
+      "brief_summary": "CICL670A2209: This study will evaluate the safety and efficacy of deferasirox in non-transfusion dependent thalassemia patients with iron overload. Patients will be treated either with active treatment (deferasirox) or placebo for 12 months (core study phase). Patients who complete the core study phase will be offered to continue their study with the active treatment (deferasirox) in a 12 months extension phase. During the core and extension, the effects of treatment on iron overload in the live",
+      "eligibility_criteria": "Core Inclusion Criteria:\n\n* Male or female aged ≥ 10 years with non-transfusion dependent syndromes, not requiring transfusion within 6 months prior to study start. Note: there was a local country amendment for Greece only to change the age specific inclusion criteria to ≥ 18 years old\n* Liver iron ",
+      "endpoints": [
+        "Core Study: Change in Liver Iron Concentration (LIC) From Baseline to Week 52",
+        "Extension Study: Percentage of Participants Reaching a Liver Iron Concentration (LIC) < 5 mg Fe/g dw From Core Baseline to End of Extension Study"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00873041"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00564941",
+      "title": "Evaluating the Efficacy of Deferasirox in Transfusion Dependent Chronic Anaemias (Myelodysplastic Syndrome, Beta-thalassaemia Patients) With Chronic Iron Overload",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2011-07",
+      "country": "Hungary",
+      "enrollment": 309,
+      "brief_summary": "This study will evaluate the safety and efficacy of deferasirox in transfusion dependent Myelodysplastic Syndrome, Beta-thalassaemia major patients with chronic iron overload",
+      "eligibility_criteria": "Inclusion criteria:\n\n* In- or outpatients with myelodysplasia / with risk of low or intermedier-1 according to the International Prognostic Scoring System (IPSS) confirmed by bone marrow evaluation within 3 month/ or beta thalassaemia major patients, who have chronic iron overload, as a consequence ",
+      "endpoints": [
+        "This study will evaluate the safety and efficacy of deferasirox in transfusion dependent Myelodysplastic Syndrome, Beta-thalassaemia major patients with chronic iron overload"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00564941"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511848",
+      "title": "A Prospective Randomized Comparative Study of Efficacy and Safety of Combined Deferiprone (DFP) and Deferasirox Versus DFP and Desferrioxamine (DFO) Therapy in Diseases With Severe Iron Overload",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2012-02",
+      "completion_date": "2013-02",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Interventional Allocation: Randomized Endpoint Classification: Safety/Efficacy Study of combined chelation therapy Masking: Open Label Primary Purpose: Treatment of transfusional iron overload\n\nPrimary Outcome Measures:\n\n• The primary outcome measure is to assess efficacy in lowering serum ferritin level(the change in serum ferritin compared to baseline) with combining DFP and deferasirox compared to combined DFP and DFO in conditions with severe chronic iron overload; showing an up-trend of SF ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with transfusional iron overload secondary to thalassemia major , sickle cell disease showing up-trend in SF aged 6 Years or older, may participate after Approval of Ethical committee giving written informed consent.\n* Subjects must have a serum ferritin greater than ",
+      "endpoints": [
+        "to assess efficacy of combining DFP and deferasirox compared to combined DFP and DFO in decreasing the serum ferritin level in conditions with severe chronic iron overload."
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT01511848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01709838",
+      "title": "An Open Label, Multi-center, Efficacy and Safety Study of Deferasirox in Iron Overloaded Patients With Non-transfusion Dependent Thalassemia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-12-06",
+      "completion_date": "2019-01-17",
+      "country": "Lebanon, Turkey (Türkiye), Greece, Italy, China, United Kingdom, Thailand, Tunisia",
+      "enrollment": 134,
+      "brief_summary": "Assessed the efficacy of deferasirox in patients with non-transfusion dependent thalassemia based on change in liver iron concentration from baseline after 52 weeks of treatment. Provided further assessment of the long-term efficacy and safety of deferasirox in NTDT patients with iron overload (LIC ≥ 5 mg Fe/g liver dw and SF ≥ 300 ng/mL) for up to 260 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nNon-transfusion dependent congenital or chronic anemia inclusive of beta-thalassemia intermedia, HbE beta-thalassemia or alpha-thalassemia intermedia (HbH disease)/ Liver iron concentration \\>/= 5 mg Fe/g dw Serum Ferritin \\>/= 300 ng/mL\n\nExclusion Criteria:\n\nHbS-beta Thalassemi",
+      "endpoints": [
+        "Absolute Change in Liver Iron Content (LIC) at 52 Weeks From Baseline"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01709838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00171171",
+      "title": "A Study of Efficacy and Safety of Long-term Treatment With Deferasirox in Patients With Beta-thalassemia and Transfusional Hemosiderosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-05",
+      "completion_date": "",
+      "country": "Lebanon, Saudi Arabia, Oman, Syria, Egypt",
+      "enrollment": 252,
+      "brief_summary": "Because patients with beta-thalassemia are unable to actively eliminate iron from the body, toxic and eventually lethal levels of iron can accumulate as a result of repeated blood transfusions. This study will evaluate the efficacy, safety and tolerability of deferasirox.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Beta-thalassemia outpatients with transfusional hemosiderosis and unable to be chelated with deferoxamine (DFO) due to DFO being contra-indicated and/or due to documented unacceptable toxicity of DFO or documented poor response to DFO despite proper compliance, or documented n",
+      "endpoints": [
+        "Liver Iron Concentration (as measured by biopsy)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00171171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00061763",
+      "title": "Phase II Study of Safety & Efficacy of Deferasirox Given for 1 Year in Patients With Chronic Anemias and Transfusional Hemosiderosis Unable to be Treated With Deferoxamine",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 175,
+      "brief_summary": "The purpose of this study is to determine the effects of the oral iron chelator Deferasirox on liver iron content after one year of treatment in patients with iron overload from repeated blood transfusions. Beta-thalassemia patients unable to be treated with deferoxamine or patients with rare chronic anemias such as Myelodysplastic Syndrome, Fanconi's Syndrome, Blackfan-Diamond Syndrome, and Pure Red Blood Cell Anemia are eligible for this study. Liver iron content will be measured by liver biop",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Beta-thalassemia patients with documented non-compliance to deferoxamine, defined as taking less than 50% of prescribed doses in year prior to study, and having a liver iron content at least 14 mg iron/gm dry weight liver tissue\n* Beta-thalassemia patients unable to take defer",
+      "endpoints": [
+        "To evaluate the effects of treatment on the liver iron content(LIC)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00061763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00879242",
+      "title": "Multicenter, Open Label, Prospective Study to Evaluate the Efficacy and Safety of Deferasirox 30 mg/kg/Day for 52 Weeks, in Transfusion-dependent Beta-thalassemic Patients With Cardiac MRI T2* < 20 Msec",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "",
+      "country": "Italy",
+      "enrollment": 20,
+      "brief_summary": "This study will assess the safety and efficacy of deferasirox in patients with cardiac MRI T2\\* \\< 20 msec.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* β-thalassemic patients receiving regular transfusions with an history of at least 20 transfusional events\n* Patients naïve for deferasirox\n* Serum ferritin levels ≥1000ng/ml (average of the last 6 months assays);\n* Cardiac MRI T2\\* \\>5 and \\<20 msec.\n* LVEF at MRI ≥56%\n\nExclus",
+      "endpoints": [
+        "Change from baseline in cardiac T2* value"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00879242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00447694",
+      "title": "An Open Label Trial Evaluating Cardiac T2* in Beta-thalassemia Patients on Deferasirox (ICL670) Treatment for 18 Months",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this trial is to evaluate changes in cardiac iron as measured by MRI T2\\* in beta-thalassemia patients with deferasirox treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female β-thalassemia outpatients on chronic transfusion therapy (defined as \\> 8 transfusions per year)\n* Lifetime minimum of 100 previous packed red blood cell transfusions\n* Patients currently on chelation therapy will require a one day wash out prior to the first do",
+      "endpoints": [
+        "Magnetic Resonance Imaging (MRI) T2* and Absolute Change From Baseline in MRI T2*"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00447694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00749515",
+      "title": "Pilot Pharmacokinetic Study In Patients With Inadequate Response To Deferasirox (Exjade)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2008-11",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "This purpose of this study is to understand the differences between people who have a good response to deferasirox (exjade) compared to people who have a poor response to this medication when used for transfusion-dependent iron overload.\n\nThe hypothesis is that patients with poor responses have physiologic barriers to deferasirox that may include absorption, pharmacokinetics of drug metabolism, hepatic clearance and/or genetic factors.",
+      "eligibility_criteria": "Part I: Inclusion criteria for Inadequate responders\n\n* Male or female patients with transfusion dependent iron overload including patients with thalassemia syndromes, sickle cell disease and bone marrow failure.\n* Patients currently on Desferal (desferrioxamine) therapy will require a one day wash ",
+      "endpoints": [
+        "Area Under the Curve of Deferasirox After a Dose of 35 mg/kg",
+        "Half-Life of Deferasirox",
+        "Volume of Distribution/Bioavailability of Deferasirox After a Dose of 35 mg/kg"
+      ],
+      "sponsor": "Boston Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00749515"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02474420",
+      "title": "The Use of the Calcium Channel Blocker Amlodipine as an Adjuvant Treatment to Iron Chelation for the Prevention of Iron Overload Cardiomyopathy in Patients With Thalassemia",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-06",
+      "completion_date": "2018-06",
+      "country": "Canada",
+      "enrollment": 60,
+      "brief_summary": "This is a randomized, open label, two arms superiority trial of a representative population of patients with a primary diagnosis of transfusion dependent thalassemia with evidence of moderate cardiac iron overload, defined as an average T2\\* MRI parameter at the mid inter-ventricular septum between 10 and 20ms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of transfusion-dependent Thalassemia being followed by a thalassemia comprehensive care clinic Age 18 or older\n* Taking deferasirox and on a stable dose for \\>3 months\n* Evidence on cardiac MRI of mild to moderate cardiac iron overload (T2\\*\\<20ms but ≥10ms) as measu",
+      "endpoints": [
+        "Change in cardiac T2*"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT02474420"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01825512",
+      "title": "Multicentre, Randomised, Open Label, Non-inferiority Trial to Evaluate the Efficacy and Safety of Deferiprone Compared to Deferasirox in Patients Aged From 1 Month to Less Than 18 Years Affected by Transfusion Dependent Haemoglobinopathies",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-03-17",
+      "completion_date": "2017-09-21",
+      "country": "Greece, Italy, Albania, United Kingdom, Tunisia, Cyprus, Egypt",
+      "enrollment": 435,
+      "brief_summary": "Multicentre, randomised, open label, non-inferiority active-controlled trial to evaluate efficacy and safety of a 12-months treatment with deferiprone (DFP) at dose of 75-100 mg/kg/day versus deferasirox (DFX) at dose of 20-40 mg/kg/day in paediatric patients (1 month \\< 18 years old) affected by hereditary haemoglobinopathies and requiring frequent transfusions and chelation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both genders aged from 1 month up to less than 18 years at the time of enrolment\n* Patients affected by any hereditary haemoglobinopathy requiring chronic transfusion therapy and chelation, including but not limited to thalassemia syndromes and sickle cell disease\n",
+      "endpoints": [
+        "Percentage of Successfully Chelated Patients"
+      ],
+      "sponsor": "Consorzio per Valutazioni Biologiche e Farmacologiche",
+      "url": "https://clinicaltrials.gov/study/NCT01825512"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04291352",
+      "title": "Thalassemic Iron Overload Cardiomyopathy is Ameliorated by Taurine Supplementation (TICATS Study)",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-06-01",
+      "completion_date": "2025-10-31",
+      "country": "Canada",
+      "enrollment": 60,
+      "brief_summary": "Hypothesis: Taurine, in combination with standard iron chelation therapy, is more effective than chelation therapy alone in reducing cardiac iron overload, oxidative stress and cardiac damage in β-Thalassemia.\n\nProtocol: Sixty subjects with transfusion dependent β-Thalassemia receiving deferasirox iron chelation therapy will be recruited and randomized in a 1:1 ratio to either (1) placebo and continuation of their iron chelation or (2) a combination of iron chelation plus taurine. Transfusion an",
+      "eligibility_criteria": "Participant inclusion criteria\n\nParticipants who meet all of the following criteria will qualify for entry into the study:\n\n1. Diagnosis of transfusion-dependent Thalassemia being followed at the RBC clinic at TGH\n2. Age 18 or older\n3. On a stable dose of iron chelation for \\>30 days. Combination ir",
+      "endpoints": [
+        "Cardiac iron overload"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT04291352"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03637556",
+      "title": "A Multi-Center, Open-Label, Two-Period Cross-Over, Patient-Pilot Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Iron Chelating Activity of DST-0509 (Deferasirox) Tablets in Thalassemia Patients With Inadequate Response to Standard Chelation Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-08-20",
+      "completion_date": "2021-08-16",
+      "country": "Thailand, United States",
+      "enrollment": 25,
+      "brief_summary": "This study is a multicenter, open-label, two-period crossover design that evaluates the safety, tolerability, pharmacokinetics and preliminary evidence of iron chelating activity of DST-0509 as compared to Jadenu and Exjade in transfusion-dependent thalassemia patients with transfusional iron overload, requiring iron chelation therapy and demonstrating an inadequate response to Jadenu or Exjade for greater than 3 months duration. Up to 36 patients will be evaluated (18 in each treatment arm), ho",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent or assent as appropriate obtained prior to any study-related procedure being performed;\n2. Patients at least 8 years of age or older at the time of consent or assent;\n3. Patient with TDT syndrome and iron overload currently receiving iron chelation th",
+      "endpoints": [
+        "diarrhea %",
+        "Ferritin (mcg/L)"
+      ],
+      "sponsor": "DisperSol Technologies, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03637556"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03133169",
+      "title": "Erythrocyte Glutamine Level Relation to Pulmonary Hypertension Risk in Beta Thalassemia Major Children in Assiut University Children Hospital",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-06-01",
+      "completion_date": "2019-08-26",
+      "country": "Egypt",
+      "enrollment": 80,
+      "brief_summary": "The study will investigate the relation between erythrocyte glutamine/glutamate ratio and pulmonary hypertension risk in Egyptian thalassemic children in Assiut University Children Hospital",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Established diagnosis of Thalassemia.\n* PH risk documented by doppler echocardiography, defined as tricuspid regurge velocity (TRV) equal to or greater than 2.5 m/s\n\nExclusion Criteria:\n\n* Acute crisis or hospitalization within 1 month of enrollment\n* Hepatic dysfunction (SGPT",
+      "endpoints": [
+        "Erythrocyte glutamine level",
+        "Tricuspid regurge velocity"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03133169"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00171301",
+      "title": "1-year Extension to CICL670A2402 an Open-label, Multi-center Trial of the Efficacy and Safety of Long-term Treatment With Deferasirox (10 to 20 mg/kg/Day) in Beta-thalassemia Patients With Transfusional Hemosiderosis (Study Amended to 2- Year Duration)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2008-05",
+      "country": "Lebanon, Saudi Arabia, Oman, Syria, Egypt",
+      "enrollment": 233,
+      "brief_summary": "To allow patients treated with deferasirox in the core study to continue iron chelation therapy for 2 years or until the drug became locally commercially available. To evaluate the long-term safety and efficacy of deferasirox by measuring treatment success, change in liver iron content (LIC) and change in serum ferritin levels. Safety was mainly assessed by incidence of adverse events (AEs)and clinically significant lab parameters.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients completing the planned 12-month core study (NCT00171171)\n* Female patients who have reached menarche and who are sexually active must use an effective method of contraception, or must have undergone clinically documented total hysterectomy and/or ovariectomy, or tubal",
+      "endpoints": [
+        "Percentage of Participants With Treatment Success From Core Baseline (BL) to Extension End of Study, by Baseline LIC Level and Age",
+        "Absolute Change in Liver Iron Concentration (LIC)Measured by Liver MRI or Liver Biopsy From Core Study Baseline (BL) to End of Extension Study, by LIC Category"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00171301"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01033747",
+      "title": "A 5-year Open Label, Non-comparative Extension to a Randomized, Open-label, Phase IIa Study to Evaluate Safety, Tolerability and the Effects on Liver Iron Concentration of Repeated Doses of 10 and 20 mg/kg/Day of Deferasirox in Comparison With 40 mg/kg/Day Deferoxamine in Patients With Transfusion-dependent Iron Overload",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2008-01",
+      "country": "Italy",
+      "enrollment": 70,
+      "brief_summary": "The purpose of this study is to assess the safety and the effects on liver iron of Deferasirox when given for a long treatment period in patients with transfusion dependent iron overload.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients Currently participating in the 9-month comparative prolongation of extension phase of the original study.\n* Patients currently participating in the food-effect sub-study, according to amendment 3.\n* Ability to provide written informed consent prior to participation in",
+      "endpoints": [
+        "The Relative Change From Baseline in Liver Iron Content (LIC) After Prolonged Use of Deferasirox"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01033747"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02604433",
+      "title": "A Phase 3, Double-Blind, Placebo Controlled Multicenter Study to Determine the Efficacy and Safety of Luspatercept (ACE-536) in Adults With Transfusion Dependent Beta (B)-Thalassemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-05-02",
+      "completion_date": "2021-01-05",
+      "country": "Israel, Lebanon, Bulgaria, France, Taiwan, Turkey (Türkiye), Greece, Italy, Australia, United Kingdom, Malaysia, Thailand, Canada, Tunisia, United States",
+      "enrollment": 336,
+      "brief_summary": "This is a Phase 3, double-blind, randomized, placebo-controlled, multicenter study to determine the efficacy and safety of luspatercept (ACE-536) plus Best supportive care (BSC) versus placebo plus BSC in adults who require regular red blood cell transfusion due to (β)-thalassemia.\n\nThe study is divided into the following periods:\n\n* Historical Period,\n* Screening/Run-in Period,\n* Double-blind Treatment Period (48 weeks),\n* Double-blind Long-term Treatment Period, (at the investigator's discreti",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must satisfy the following criteria to be enrolled in the study:\n\n1. Male or female, ≥18 years of age at the time of signing the informed consent document (ICF).\n2. Subject must understand and voluntarily sign an Inform Consent Form prior to any study-related assessment",
+      "endpoints": [
+        "Percentage of Participants Who Achieved Erythroid Response - Week 13 to Week 24"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT02604433"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02198508",
+      "title": "The Shuttle Effect : Combination Therapy With Deferiprone and Deferasirox in Transfusion-dependent Thalassemia Patients.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 13,
+      "brief_summary": "Background: Three iron chelators now available on the market differ in toxicity and organ specificity; evidence on standardized chelation protocol remains inconclusive, but patients with transfusion-dependent beta-thalassemia treated with DFO infusion show significant differences in the limitations of daily activities, physical activity, and quality of life when treated with oral chelator. With licensing of DFP in America, it is reasonable to combine DFP with DFX. Patients find two oral chelator",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* serum ferritin greater than 2000 ng/mL,\n* serum creatinine within normal range for a measuring laboratory\n* platelet count exceeding 140000/mm3\n* body weight at least 40 Kg\n* None had a history of clinical significant of gastrointestinal, hepatic, re",
+      "endpoints": [
+        "iron excretion from urine and feces by flame atomic absorption spectroscopy"
+      ],
+      "sponsor": "China Medical University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02198508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02761395",
+      "title": "Study of The Therapeutic Benefits of Al-hijamah in Children With Beta Thalassemia Major",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-11",
+      "completion_date": "2017-05",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "1. Evaluate the therapeutic effects, health benefits, and immunological effect of Al-hijamah in children with beta thalassemia major.\n2. Evaluate the extent of clinical improvement, reductions in serum iron and ferritin, antioxidant status, in those patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children suffering from beta thalassemia major, with age range from 4-18 years.\n\nExclusion Criteria:\n\n* Children with Congenital heart disease\n* Children with Rheumatic heart disease\n* Presence of heart failure\n* Children with Coronary arterial disease\n* Children with Cardiomy",
+      "endpoints": [
+        "CD(cluster of differentiation)4 and CD8 count"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT02761395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06509581",
+      "title": "Vitamin E Supplementation for Children With Transfusion Dependent Beta Thalassemia on Different Iron Chelators",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-07-05",
+      "completion_date": "2022-10-11",
+      "country": "Egypt",
+      "enrollment": 180,
+      "brief_summary": "repeated transfusions are the mainstay of disease management in most patients with transfusion dependent beta thalassemia.iron overload predispose to oxidative stress and tissue injury.\n\noxidative stress play important role in pathogenesis of anemia in beta thalassemia.\n\nvitamin E is often depleted in thalassemia patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Beta thalassemia patients on regular packed red blood cells transfusion,with vitamin E deficiency\n* serum ferritin 1000-2500 ug/l\n* cardiacT2\\*\\>10ms and ejection fraction \\>55%\n\nExclusion Criteria:\n\n* Diabetes,active hepatitis(serum transaminases \\>2 times ULN)\n* renal impair",
+      "endpoints": [
+        "effect of vitamin E on Liver iron concentration (LIC)"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT06509581"
+    }
+  ],
+  "timestamp": "2026-03-04T16:10:38.976306",
+  "success": true,
+  "error_message": null
+}

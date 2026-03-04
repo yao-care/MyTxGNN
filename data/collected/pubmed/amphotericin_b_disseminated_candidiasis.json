@@ -1,0 +1,561 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Amphotericin B",
+    "disease": "disseminated candidiasis",
+    "query_string": "Amphotericin B AND disseminated candidiasis"
+  },
+  "data": {
+    "query": "Amphotericin B AND disseminated candidiasis",
+    "results": [
+      {
+        "pmid": "31654220",
+        "title": "Candida urinary tract infections in adults.",
+        "abstract": "Candiduria is commonly seen in hospitalized patients and most of the patients are asymptomatic, but it may be due to cystitis, pyelonephritis, prostatitis, epididymo-orchitis or disseminated candidiasis. Major risk factors are diabetes mellitus, indwelling urinary catheters, use of broad-spectrum antibiotics, urinary obstruction, and admission to intensive care units. Candida urinary tract infections can be caused by hematogenous spread following candidemia, or retrograde route via the urethra. The presence of Candida species in urine in asymptomatic patients does not warrant antifungal therapy except neutropenic patients, very low-birth-weight infants and patients undergoing urologic procedures. Fluconazole is the treatment of choice for symptomatic infections, it achieves high urinary levels. The other azole antifungals and echinocandins do not reach sufficient urine levels. Amphotericin B deoxycholate is the alternative antifungal agent if fluconazole can not be used because of resi",
+        "journal": "World journal of urology",
+        "year": "2020",
+        "authors": [
+          "Odabasi Zekaver",
+          "Mert Ali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Humans",
+          "Risk Factors",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31654220/"
+      },
+      {
+        "pmid": "320931",
+        "title": "Flucytosine.",
+        "abstract": "Flucytosine is a systemic antifungal drug that is readily absorbed from the gastrointestinal tract. The most clearly documented therapeutic effect has been in cryptococcosis, candidiasis, and chromomycosis. An important limitation of the use of flucytosine in all three diseases has been drug resistance arising during therapy. The addition of low-dose, intravenous amphotericin B to flucytosine therapy of cryptococcosis has appeared to decrease the frequency of secondary flucytosine resistance. In addition, the two drugs have an additive or slightly synergistic effect against flucytosine susceptible isolates of Cryptococcus and Candida. The combination is probably the treatment of choice in cryptococcal meningitis and offers promise in the therapy of systemic candidiasis and nonmeningeal cryptococcosis.",
+        "journal": "Annals of internal medicine",
+        "year": "1977",
+        "authors": [
+          "Bennet J E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candidiasis",
+          "Chromoblastomycosis",
+          "Cryptococcosis",
+          "Cytosine",
+          "Drug Therapy, Combination",
+          "Flucytosine",
+          "Mycoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/320931/"
+      },
+      {
+        "pmid": "33894072",
+        "title": "Comparative effectiveness of amphotericin B, azoles and echinocandins in the treatment of candidemia and invasive candidiasis: A systematic review and network meta-analysis.",
+        "abstract": "BACKGROUND + OBJECTIVES: The echinocandins, amphotericin B preparations, voriconazole and fluconazole are approved for the treatment of invasive candidiasis, though it remains unclear which agent is most effective. In order to answer this question, we performed a systematic review and network meta-analysis of the randomised controlled trials (RCTs) which evaluated these agents in comparison.",
+        "journal": "Mycoses",
+        "year": "2021",
+        "authors": [
+          "Demir Koray K",
+          "Butler-Laporte Guillaume",
+          "Del Corpo Olivier",
+          "Ekmekjian Taline",
+          "Sheppard Donald C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candidemia",
+          "Candidiasis",
+          "Candidiasis, Invasive",
+          "Echinocandins",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33894072/"
+      },
+      {
+        "pmid": "11181381",
+        "title": "Pharmacodynamics of amphotericin B in a neutropenic-mouse disseminated-candidiasis model.",
+        "abstract": "In vivo pharmacodynamic parameters have been described for a variety of antibacterials. These parameters have been studied in correlation with in vivo outcomes in order to determine which dosing parameter is predictive of outcome and the magnitude of that parameter associated with efficacy. Very little is known about pharmacodynamics for antifungal agents. We utilized a neutropenic mouse model of disseminated candidiasis to correlate pharmacodynamic parameters (percent time above MIC [T > MIC], area under the concentration time curve [AUC]/MIC ratio, and peak serum level/MIC ratio) for amphotericin B in vivo with efficacy, as measured by organism number in homogenized kidney cultures after 72 h of therapy. Amphotericin B was administered by the intraperitoneal route. Drug kinetics for amphotericin B in infected mice were nonlinear. Serum half-lives ranged from 13 to 27 h. Infection was achieved by intravenous inoculation with 10(6) CFU of yeast cells per ml via the lateral tail vein of",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2001",
+        "authors": [
+          "Andes D",
+          "Stamsted T",
+          "Conklin R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis",
+          "Colony Count, Microbial",
+          "Disease Models, Animal",
+          "Female",
+          "Mice",
+          "Mice, Inbred ICR"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11181381/"
+      },
+      {
+        "pmid": "1476286",
+        "title": "[Systemic candidiasis].",
+        "abstract": "Candida proliferate within the body of patients with deficient cellular immunity either by the haematogenous route or by adjacency. This condition is often found in hospital patients. It explains the increasing incidence of disseminated candidiasis. They are preferentially found in patients who have had complicated surgery, mostly of the gastrointestinal tract and the heart, or transplant surgery (except for kidney transplants), or who have had prolonged intensive care. Other patients concerned are neonates with a low birth weight, haemato-oncology patients, heroin addicts and AIDS patients. Clinical signs are usually unspecific. When there is widespread involvement, clinical signs can be defined by the secondary locations, especially within the kidneys, lung, endocardium and brain in surgical patients, and liver and spleen in haemato-oncology patients. Eye, skin, gastrointestinal tract, and indeed, muscle lesions which are easily accessible, should be looked for routinely. This helps ",
+        "journal": "Annales francaises d'anesthesie et de reanimation",
+        "year": "1992",
+        "authors": [
+          "Lelarge P",
+          "Mariot J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candida",
+          "Candidiasis",
+          "Decontamination",
+          "Drug Therapy, Combination",
+          "Female",
+          "Flucytosine",
+          "Humans",
+          "Ketoconazole",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1476286/"
+      },
+      {
+        "pmid": "2024963",
+        "title": "Comparison of fluconazole and amphotericin B for treatment of disseminated candidiasis and endophthalmitis in rabbits.",
+        "abstract": "We compared the efficacy of intravenous fluconazole (80 mg/kg of body weight per day) with that of amphotericin B (1 mg/kg/day) for the long-term treatment of endophthalmitis in rabbits with disseminated candidiasis. After 17 days of therapy, fluconazole decreased the fungal colony counts of the choroid-retinas significantly more than did the saline control (P less than 0.05); however, after 24 days of fluconazole therapy, this treatment effect was lost and fluconazole was no more effective than saline. In contrast, treatment for 24 days with amphotericin B reduced the vitreous and choroid-retina fungal colony counts significantly more than either fluconazole or saline (P less than 0.05 for both treatment groups). After 17 days of therapy, indirect ophthalmoscopy revealed less severe eye involvement in both antifungal treatment groups than in saline controls; however, this difference reached statistical significance only for the amphotericin B-treated rabbits (P less than 0.05). Also, ",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Filler S G",
+          "Crislip M A",
+          "Mayer C L",
+          "Edwards J E"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Candida albicans",
+          "Candidiasis",
+          "Endophthalmitis",
+          "Female",
+          "Fluconazole",
+          "Kidney",
+          "Rabbits"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2024963/"
+      },
+      {
+        "pmid": "2670371",
+        "title": "Systemic candidiasis.",
+        "abstract": "Systemic candidiasis is a disease of increasing incidence and proportions, which appears to be associated with the advances in modern medicine. It involves primarily patients with severe debilitating and malignant disease who are receiving immunosuppressive, cytotoxic, antimetabolite, and antibiotic therapy. Side effects of these otherwise major therapeutic agents predispose patients to opportunistic fungal infections, of which candidiasis is the most common. The high morbidity and mortality of disseminated candidiasis in neutropenic patients are difficult obstacles to obtaining the optimal, if not full, potential of modern chemotherapy for cancer. The inability to diagnose early invasive and systemic candidiasis is a major handicap that delays timely initiation of antifungal therapy. The paucity of highly efficacious antifungal agents with low toxicity severely limits the ability to successfully cure systemic fungal infections in cancer patients. Aggressive research into the basic bio",
+        "journal": "Dermatologic clinics",
+        "year": "1989",
+        "authors": [
+          "Ray T L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Candidiasis",
+          "Flucytosine",
+          "Humans",
+          "Immune Tolerance",
+          "Ketoconazole",
+          "Neoplasms",
+          "Opportunistic Infections",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2670371/"
+      },
+      {
+        "pmid": "1867240",
+        "title": "Fluconazole therapy for chronic disseminated candidiasis in patients with leukemia and prior amphotericin B therapy.",
+        "abstract": "To study the efficacy of fluconazole against chronic disseminated candidiasis (hepatosplenic candidiasis) in patients with leukemia in whom amphotericin B treatment had failed.",
+        "journal": "The American journal of medicine",
+        "year": "1991",
+        "authors": [
+          "Anaissie E",
+          "Bodey G P",
+          "Kantarjian H",
+          "David C",
+          "Barnett K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Amphotericin B",
+          "Candidiasis",
+          "Child, Preschool",
+          "Chronic Disease",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1867240/"
+      },
+      {
+        "pmid": "38978781",
+        "title": "Case report: Successful combination therapy with isavuconazole and amphotericin B in treatment of disseminated Candida tropicalis infection.",
+        "abstract": "Disseminated candidiasis is a severe complication in patients with hematological malignancies who have undergone chemotherapy or hematopoietic stem cell transplantation. It has a high mortality rate. When disseminated candidiasis caused by Candida tropicalis involves either the brain or heart, the prognosis is extremely poor. Traditional methods such as cultures are limited in diagnosing disseminated candidiasis. We describe a case report of a 55-year-old man with acute myeloid leukemia who developed candidemia caused by Candida tropicalis after chemotherapy, which disseminated extensively to the heart, brain, skin, liver, spleen and kidneys. In this instance, the patient was rapidly diagnosed with candida infection by metagenomic next generation sequencing, and successfully treated with combination therapy of isavuconazole and amphotericin B. The patient continued with treatment of leukemia while simultaneously receiving antifungal therapy, and both leukemia and disseminated candidias",
+        "journal": "Frontiers in medicine",
+        "year": "2024",
+        "authors": [
+          "Teng Qibei",
+          "Ye Xueshi",
+          "Wang Bei",
+          "Zhang Xinyue",
+          "Tao Zhizhi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38978781/"
+      },
+      {
+        "pmid": "15755501",
+        "title": "Chronic disseminated candidiasis in patients with acute leukemia: emphasis on diagnostic definition and treatment.",
+        "abstract": "Chronic disseminated candidiasis (CDC) is a form of invasive fungal infection that occurs most commonly in patients with acute leukemia treated with chemotherapy. Recent studies have provided evidence for diagnostic alternatives to invasive procedures and more therapeutic options for the management of this complication. In order to put diagnostic criteria and methodological approach to the disease into the perspective of developing strategies for therapy, all relevant studies published in the English literature over the last 30 years were examined.",
+        "journal": "Leukemia research",
+        "year": "2005",
+        "authors": [
+          "Masood Aisha",
+          "Sallah Sabah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Chronic Disease",
+          "Fluconazole",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Salvage Therapy",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15755501/"
+      },
+      {
+        "pmid": "20840836",
+        "title": "Efficacy of combination immunotherapy of IgM MAb B6.1 and amphotericin B against disseminated candidiasis.",
+        "abstract": "We previously reported that the IgM MAb B6.1, specific for β-1,2-mannotriose on the surface of the cell wall of Candida albicans, prevents mice from disseminated candidiasis. The preventive activity of the antibody is mediated by enhanced phagocytosis that caused killing of the fungus and involvement of the complement system. In the present study, MAb B6.1 was tested if the antibody enhances therapeutic efficacy of amphotericin B (Amp B) in a murine model of disseminated candidiasis due to C. albicans. Determination by the kidneys-cfu (colony forming unit) and survival times was used to assess treatment. Mice treated intraperitoneally with MAb B6.1 at 1h post-infection with C. albicans (5 x 10⁵ yeast cells/mouse) developed fewer 28%cfu and prolonged survival rates than negative controls, whereas administration of B6.1 to mice at 2h post-infection was ineffective. Therapeutic effect of Amp B on mice with the disseminated disease was dose-dependent, but dosage of Amp B (0.5mg/kg body wei",
+        "journal": "International immunopharmacology",
+        "year": "2010",
+        "authors": [
+          "Han Yongmoon"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis, Invasive",
+          "Disease Models, Animal",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20840836/"
+      },
+      {
+        "pmid": "15744087",
+        "title": "Berberine synergy with amphotericin B against disseminated candidiasis in mice.",
+        "abstract": "In present study, we investigated the synergic effect of berberine against disseminated candidiasis caused by the pathogenic fungus, Candida albicans. Berberine inhibited the growth of C. albicans under in-vitro condition. The broth susceptibility revealed the synergic effect of berberine with amphotericin B (Amp B). To confirm these results under the in-vivo condition, the effect was examined in mice against disseminated candidiasis. Results showed mice that were given diluent (negative control), Amp B (0.5 mg/kg of body weight), or berberine (1 mg/kg of body weight) had mean survival times (MST) of approximately 12, 14, and 17 d, respectively. On the contrary, mice that were treated using a combination of the two agents at the same concentrations resulted in a MST value of 36 d, surviving at an average of 22 d longer than the mice group treated only with the Amp B. This MST value was almost same as MST value from the mice that were given four times the Amp B dose. These data indicate",
+        "journal": "Biological & pharmaceutical bulletin",
+        "year": "2005",
+        "authors": [
+          "Han Yongmoon",
+          "Lee Jue-Hee"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Berberine",
+          "Candidiasis",
+          "Drug Synergism",
+          "Female",
+          "Mice",
+          "Mice, Inbred BALB C"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15744087/"
+      },
+      {
+        "pmid": "8192469",
+        "title": "Saperconazole therapy of murine disseminated candidiasis: efficacy and interactions with amphotericin B.",
+        "abstract": "The efficacy of a new triazole antifungal agent, saperconazole, in a murine model of disseminated candidiasis was studied. Mice were intravenously infected with Candida albicans blastoconidia and treated for 14 days with oral saperconazole, intraperitoneal amphotericin B, or a combination of these. Amphotericin B alone was the most efficacious in prolonging survival and in decreasing renal colony counts, usually with complete sterilization of the kidneys by the end of the treatment course. Saperconazole improved survival rates and effected a decrease in renal colony counts, but kidneys were not microbiologically sterilized. Combination therapy with saperconazole and amphotericin B did not result in a decrease in the efficacy of amphotericin B by either end point (survival or renal colony counts). High-pressure liquid chromatographic analysis of saperconazole concentrations in serum indicated low levels of absorption of the drug. We conclude that saperconazole is effective in the treatm",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1994",
+        "authors": [
+          "Sugar A M",
+          "Salibian M",
+          "Goldani L Z"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Amphotericin B",
+          "Animals",
+          "Azoles",
+          "Candidiasis",
+          "Chromatography, High Pressure Liquid",
+          "Colony Count, Microbial",
+          "Disease Models, Animal",
+          "Drug Interactions",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8192469/"
+      },
+      {
+        "pmid": "1929290",
+        "title": "Synergy between cilofungin and amphotericin B in a murine model of candidiasis.",
+        "abstract": "The efficacies of cilofungin and amphotericin B separately and together in mice with disseminated candidiasis were studied. Male CD-1 mice (age, 5 weeks) were infected intravenously with 3 X 10(5) CFU of Candida albicans. At 4 days postinfection, intraperitoneal therapy was initiated and was continued for 14 days. Therapy groups included those given cilofungin at 6.25 or 62.5 mg/kg/day (given twice daily), amphotericin B at 0.625 mg/kg/day (given once daily), cilofungin at 6.25 mg/kg/day plus amphotericin B, and cilofungin at 62.5 mg/kg/day plus amphotericin B. Mice were observed through 30 days postinfection. All infected untreated mice died of infection between days 6 and 18. Eighty-five percent of mice receiving cilofungin at 6.25 mg/kg/day died between days 13 and 30. All other mice survived. Quantitative determination of the number of CFU of C. albicans in the spleens and kidneys of all survivors revealed that mice that had received both drugs had lower residual burdens of C. albi",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1991",
+        "authors": [
+          "Hanson L H",
+          "Perlman A M",
+          "Clemons K V",
+          "Stevens D A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis",
+          "Drug Synergism",
+          "Echinocandins",
+          "Male",
+          "Mice",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1929290/"
+      },
+      {
+        "pmid": "1457662",
+        "title": "Disseminated candidiasis in addicts who use brown heroin: report of 83 cases and review.",
+        "abstract": "From November 1983 to April 1990, disseminated candidiasis was diagnosed in 83 heroin addicts at our institution. All patients had consumed brown heroin diluted in fresh lemon juice. Sixty-two (75%) had skin lesions, 41 (49%) had ocular lesions, and 35 (42%) had one or several costochondral tumors. Candida albicans was grown in culture or histopathologically identified in 34 cases (41%). The patients who had only cutaneous lesions were treated with ketoconazole, and they were all cured. The patients with ocular involvement received systemic amphotericin B with or without oral flucytosine; 29 of these patients developed varying degrees of vision loss. The method of treatment of costochondral tumors was not uniform; in 14 cases the lesions were resected. The one patient who died developed endocarditis involving the aortic valve. Cases of pleuropulmonary involvement, spondylitis, and large-joint arthritis have also been described among the 300 cases reported in the reviewed literature. Th",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "1992",
+        "authors": [
+          "Bisbe J",
+          "Miro J M",
+          "Latorre X",
+          "Moreno A",
+          "Mallolas J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Candidiasis",
+          "Female",
+          "Heroin Dependence",
+          "Humans",
+          "Male",
+          "Substance Abuse, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1457662/"
+      },
+      {
+        "pmid": "29194382",
+        "title": "Liposomal and Deoxycholate Amphotericin B Formulations: Effectiveness against Biofilm Infections of Candida spp.",
+        "abstract": "candidiasis is the primary fungal infection encountered in patients undergoing prolonged hospitalization, and the fourth leading cause of nosocomial bloodstream infections. One of the most important Candida spp. virulence factors is the ability to form biofilms, which are extremely refractory to antimicrobial therapy and very difficult to treat with the traditional antifungal therapies. It is known that the prophylaxis or treatment of a systemic candidiasis are recurrently taken without considering the possibility of a Candida spp. biofilm-related infections. Therefore, it is important to assess the effectiveness of the available drugs and which formulations have the best performance in these specific infections.",
+        "journal": "Pathogens (Basel, Switzerland)",
+        "year": "2017",
+        "authors": [
+          "Rodrigues Célia F",
+          "Henriques Mariana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29194382/"
+      },
+      {
+        "pmid": "17093376",
+        "title": "Neonatal invasive candidiasis.",
+        "abstract": "Over the last two decades, systemic fungal infections have emerged to play a primary role in hospital-acquired infections. C. albicans is involved in 75% of neonatal candidiasis; however, the incidence of infection from C. parapsilosis is also increasing significantly. The higher incidence observed in the high-risk group of very low birth weight (VLBW) infants is linked to their special physical characteristics and the diagnostic and therapeutic invasive procedures they undergo. Colonization is a relevant risk factor depending on the colonized site , the fungal species and the type of colonization. Serological tests have a low specificity and sensitivity; in many cases, they do not distinguish between colonization and infection. Blood culture, although the best diagnostic test for determining systemic infection, can result negative, even in cases of deep organ involvement. In addition, fungi grow more slowly than bacteria in cultures. So, the difficulty in diagnosing systemic candidias",
+        "journal": "Minerva pediatrica",
+        "year": "2006",
+        "authors": [
+          "Stronati M",
+          "Decembrino L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Drug Therapy, Combination",
+          "Fluconazole",
+          "Flucytosine",
+          "Humans",
+          "Incidence",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17093376/"
+      },
+      {
+        "pmid": "10952575",
+        "title": "Single-dose AmBisome (Liposomal amphotericin B) as prophylaxis for murine systemic candidiasis and histoplasmosis.",
+        "abstract": "AmBisome is a liposomal formulation of amphotericin B that has broad-spectrum antifungal activity and greatly reduced toxicity compared to the parent drug. In this study, amphotericin B deoxycholate (Fungizone) (1 mg/kg) and AmBisome (1 to 20 mg/kg) were tested as single-dose prophylactic agents in both immunocompetent and immunosuppressed C57BL/6 mice challenged with either Candida albicans or Histoplasma capsulatum. Prophylactic efficacy was based on survival and fungal burden in the target organ (kidneys or spleen). At 9 to 10 days after histoplasma challenge, 80 to 90% of both immunocompetent and immunosuppressed mice in the control and Fungizone groups had died. All AmBisome-treated mice survived, although in the AmBisome groups given 1 mg/kg, the mice became moribund by day 10 to 12. No spleen CFU were detected in the histoplasma-challenged mice given 10 or 20 mg of AmBisome per kg. By 23 to 24 days after histoplasma challenge, fungal growth and/or death had occurred in all immun",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2000",
+        "authors": [
+          "Garcia A",
+          "Adler-Moore J P",
+          "Proffitt R T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Animals",
+          "Antibiotic Prophylaxis",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis",
+          "Disease Models, Animal",
+          "Female",
+          "Histoplasma",
+          "Histoplasmosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10952575/"
+      },
+      {
+        "pmid": "40781933",
+        "title": "Utility and Pitfalls of β-D-Glucan for Diagnosis and Response Monitoring of Chronic Disseminated Candidiasis in Paediatric Cancer Patients.",
+        "abstract": "β-D-Glucan (BDG) is a useful but nonspecific biomarker in patients with suspected invasive fungal diseases including Pneumocystis pneumonia. Little is known, however, about its utility for response monitoring in chronic disseminated candidiasis (CDC).",
+        "journal": "Mycoses",
+        "year": "2025",
+        "authors": [
+          "Körholz Katharina F",
+          "Hennies Marc T",
+          "Herbrüggen Heidrun",
+          "Krämer Katja",
+          "Ahlmann Martina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "beta-Glucans",
+          "Child",
+          "Adolescent",
+          "Child, Preschool",
+          "Male",
+          "Female",
+          "Antifungal Agents",
+          "Neoplasms",
+          "Proteoglycans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40781933/"
+      },
+      {
+        "pmid": "29280061",
+        "title": "Antifungal activity of oral (Tragacanth/acrylic acid) Amphotericin B carrier for systemic candidiasis: in vitro and in vivo study.",
+        "abstract": "In an effort to increase the oral bioavailability of Amphotericin B (AmB), a pH-sensitive drug carrier composed of Tragacanth (Trag) and acrylic acid (AAc) was prepared using γ-irradiation. The swelling behavior of (Trag/AAc) hydrogels was characterized as a function of pH and ionic strength of the swelling medium. The obtained swelling indices revealed the ability of the prepared hydrogel to protect a loaded drug in stomach-simulated medium (Fickian behavior) and to release such drug in intestinal-simulated medium (non-Fickian behavior). In vitro release studies of the antifungal (AmB) were performed to evaluate the hydrogel potential as a drug carrier. The antifungal activity of the prepared oral formulation was investigated in a mouse model of systemic candidiasis. Data revealed that (Trag/AAc)-AmB has a potent antifungal efficacy as demonstrated by prolonging the survival time and reducing the tissue fungal burden, serum antibody titers, as well as inflammatory cytokines in kidney ",
+        "journal": "Drug delivery and translational research",
+        "year": "2018",
+        "authors": [
+          "Mohamed Heba A",
+          "Radwan Rasha R",
+          "Raafat Amany I",
+          "Ali Amr El-Hag"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acrylates",
+          "Administration, Oral",
+          "Amphotericin B",
+          "Animals",
+          "Antibodies, Fungal",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis",
+          "Cytokines",
+          "Drug Carriers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29280061/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:00:42.502858",
+  "success": true,
+  "error_message": null
+}

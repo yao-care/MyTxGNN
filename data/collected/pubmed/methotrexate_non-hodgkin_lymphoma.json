@@ -1,0 +1,612 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methotrexate",
+    "disease": "non-Hodgkin lymphoma",
+    "query_string": "Methotrexate AND non-Hodgkin lymphoma"
+  },
+  "data": {
+    "query": "Methotrexate AND non-Hodgkin lymphoma",
+    "results": [
+      {
+        "pmid": "30472338",
+        "title": "Primary intraspinal non-Hodgkin's lymphoma: Case report and review of literature.",
+        "abstract": "We present the unique case of an 67-year-old female patient with primary intraspinal B-cell non-Hodgkin's lymphoma without cerebral manifestation mimicking myelitis in clinical presentation and neuroradiological diagnostic. It illustrates the broad spectrum of differential diagnoses for paraplegia and the importance of rapid interdisciplinary diagnostic work-up since the neurologic status after treatment mainly depends on the delay of treatment. Review of existing literature suggests combined radio- and chemotherapy as well as high-dose intravenous methotrexate or rituximab. The rising incidence of spinal lymphomas especially in patients with acquired immunodeficiency underlines the importance of fast diagnosis and initiation of treatment of this rare entity.",
+        "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+        "year": "2019",
+        "authors": [
+          "Beume Lena-Alexandra",
+          "Wolf Katharina",
+          "Urbach Horst",
+          "Klingler Jan-Helge",
+          "Staszewski Ori"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cytarabine",
+          "Female",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Rituximab",
+          "Spinal Cord Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30472338/"
+      },
+      {
+        "pmid": "7694694",
+        "title": "Polymyositis-dermatomyositis and non-Hodgkin's lymphoma.",
+        "abstract": "An association between polymyositis-dermatomyositis (PM/DM) and malignancy has been reported. However, controversy exists regarding a direct causal relationship between the two diseases. We describe a patient who had had PM and subsequently developed non-Hodgkin's lymphoma, and discuss the possibility of their causal relation.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "1993",
+        "authors": [
+          "Endo T",
+          "Kawaguchi N",
+          "Yashima M",
+          "Tei H",
+          "Hayakawa H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Dermatomyositis",
+          "Doxorubicin",
+          "Fatal Outcome",
+          "Humans",
+          "Leucovorin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7694694/"
+      },
+      {
+        "pmid": "26685141",
+        "title": "Non-Hodgkin lymphoma and idiopathic inflammatory cardiomyopathy.",
+        "abstract": "",
+        "journal": "European heart journal",
+        "year": "2016",
+        "authors": [
+          "Rutz Tobias",
+          "Prior John O",
+          "Vionnet Julien",
+          "Pruvot Etienne"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Arrhythmias, Cardiac",
+          "Cardiomyopathy, Dilated",
+          "Coronary Angiography",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Magnetic Resonance Angiography",
+          "Methotrexate",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26685141/"
+      },
+      {
+        "pmid": "19767089",
+        "title": "High-dose cytarabine plus high-dose methotrexate versus high-dose methotrexate alone in patients with primary CNS lymphoma: a randomised phase 2 trial.",
+        "abstract": "Chemotherapy with high-dose methotrexate is the conventional approach to treat primary CNS lymphomas, but superiority of polychemotherapy compared with high-dose methotrexate alone is unproven. We assessed the effect of adding high-dose cytarabine to methotrexate in patients with newly diagnosed primary CNS lymphoma.",
+        "journal": "Lancet (London, England)",
+        "year": "2009",
+        "authors": [
+          "Ferreri Andrés J M",
+          "Reni Michele",
+          "Foppoli Marco",
+          "Martelli Maurizio",
+          "Pangalis Gerasimus A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Cranial Irradiation",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19767089/"
+      },
+      {
+        "pmid": "37195735",
+        "title": "Methotrexate concentrations and associated variability factors in high dose therapy of children with acute lymphoblastic leukemia and non-Hodgkin lymphoma.",
+        "abstract": "Monitoring and optimization procedures improved high dose methotrexate (HDMTX) treatment outcomes. However, there are still some concerns regarding unexplained concentration variability. The objective of this study was to evaluate drug concentrations and associated variability factors in pediatric patients with acute lymphoblastic leukemia (ALL) and non-Hodgkin lymphoma (NHL) on HDMTX. Fifty patients (aged 1-18 years), receiving in total 184 HDMTX cycles of 3 or 5 g/m2/24 h infusion, were included in the study. Comparisons of MTX concentrations and concentrations to dose ratio between two dosing groups were conducted by Mann-Whitney U test. Regression analysis was performed with transformed data to assess relationship between MTX concentration to dose ratio and patient characteristics, biochemical analysis and therapy data. Statistically significant difference in concentrations between 3 and 5 g/m2 dosing groups was detected only at 24 h after the start of infusion (p < 0.001), but not",
+        "journal": "Pediatric hematology and oncology",
+        "year": "2023",
+        "authors": [
+          "Škorić Biljana",
+          "Kuzmanović Miloš",
+          "Jovanović Marija",
+          "Miljković Branislava",
+          "Micić Dragan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Methotrexate",
+          "Antimetabolites, Antineoplastic",
+          "Lymphoma, Non-Hodgkin",
+          "Treatment Outcome",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37195735/"
+      },
+      {
+        "pmid": "31305170",
+        "title": "Aggressive Non-Hodgkin lymphomas: risk factors and treatment of central nervous system recurrence.",
+        "abstract": "Introduction: Secondary central nervous system lymphoma (SCNSL) is a potentially fatal event in the setting of aggressive Non-Hodgkin Lymphomas. Nowadays, despite of the very poor outcome of SCNSL, several studies are going to identify the high-risk patients' subgroup that could early develop this detrimental event and in whom the central nervous system (CNS) prophylaxis could improve survival. Areas covered: Herein, the authors will review the prophylactic and treatment strategy for SCNSL, focusing on the identification of high-risk subgroup. Expert opinion: The validated CNS International Prognostic Index score lacks sensitivity. The role of prophylaxis has been suggested as an important step for selected patients. Intrathecal prophylaxis is always less consolidated, due to its doubtful efficacy, whereas systemic high-dose methotrexate is becoming the favored option to reduce CNS relapse in high-risk aggressive lymphomas. However, there is no a clear guideline to help physicians in c",
+        "journal": "Expert review of hematology",
+        "year": "2019",
+        "authors": [
+          "Santambrogio Elisa",
+          "Nicolosi Maura",
+          "Vassallo Francesco",
+          "Castellino Alessia",
+          "Novo Mattia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Risk Factors",
+          "Stem Cell Transplantation",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31305170/"
+      },
+      {
+        "pmid": "40153690",
+        "title": "High-Dose Methotrexate Usage Without Drug-Level Monitoring in Advanced Pediatric Mature B-Cell Non-Hodgkin Lymphoma in a Resource-Limited Setting in Malawi.",
+        "abstract": "Excellent survival for advanced (stages II with high lactate dehydrogenase, III, and IV) pediatric mature B-cell non-Hodgkin lymphoma (MB-NHL) has been achieved with intensive regimens, but adoption in sub-Saharan Africa is limited by inadequate supportive care. We provide real-world data on treating advanced MB-NHL with high-dose methotrexate (HD-MTX; ≥1,000 mg/m2/cycle) where real-time serum MTX monitoring is unavailable.",
+        "journal": "JCO global oncology",
+        "year": "2025",
+        "authors": [
+          "Mzikamanda Rizine R",
+          "Mulanje Loviisa",
+          "McAtee Casey L",
+          "Matatiyo Apatsa",
+          "Mwale Zoe"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Methotrexate",
+          "Malawi",
+          "Female",
+          "Male",
+          "Child",
+          "Retrospective Studies",
+          "Lymphoma, B-Cell",
+          "Adolescent",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40153690/"
+      },
+      {
+        "pmid": "2332863",
+        "title": "Erythema nodosum and non-Hodgkin's lymphoma.",
+        "abstract": "We describe a case of erythema nodosum associated with non-Hodgkin's lymphoma. The course and resolution of the erythema nodosum correlated most closely with a breakdown and release of new antigen at the start of a new regimen of chemotherapy.",
+        "journal": "The Journal of rheumatology",
+        "year": "1990",
+        "authors": [
+          "Thomson G T",
+          "Keystone E C",
+          "Sturgeon J F",
+          "Fornasier V"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Erythema Nodosum",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Intestinal Obstruction",
+          "Leucovorin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2332863/"
+      },
+      {
+        "pmid": "36069680",
+        "title": "Safety analysis of high-dose methotrexate in pediatric non-Hodgkin lymphomas.",
+        "abstract": "High-dose methotrexate (HD-MTX) with rigorous supportive care is essential to the treatment of pediatric non-Hodgkin lymphomas (NHL). We describe the safety and tolerability of HD-MTX in patients with NHL treated at our center. In our cohort of 46 patients, the majority had at least one course of delayed clearance and/or creatinine elevation. Additionally, more than one-third of patients experienced an episode of grade ≥3 mucositis. Creatinine elevations and delayed clearance were independently associated with subsequent grade ≥3 mucositis. We advocate for greater availability of methotrexate monitoring to allow dose escalation of this essential modality around the world.",
+        "journal": "Pediatric blood & cancer",
+        "year": "2022",
+        "authors": [
+          "Bernhardt M Brooke",
+          "Brown Austin L",
+          "Grim Austyn T",
+          "Scheurer Michael E",
+          "El-Mallawany Nader Kim"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Creatinine",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Mucositis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36069680/"
+      },
+      {
+        "pmid": "32246190",
+        "title": "Pharmacokinetics and pharmacogenetics of high-dose methotrexate in Chinese adult patients with non-Hodgkin lymphoma: a population analysis.",
+        "abstract": "High-dose methotrexate (HD-MTX) is widely used in the treatment of non-Hodgkin lymphoma (NHL), but the pharmacokinetic properties of HD-MTX in Chinese adult patients with NHL have not yet been established through an approach that integrates genetic covariates. The purposes of this study were to identify both physiological and pharmacogenomic covariates that can explain the inter- and intraindividual pharmacokinetic variability of MTX in Chinese adult patients with NHL and to explore a new sampling strategy for predicting delayed MTX elimination.",
+        "journal": "Cancer chemotherapy and pharmacology",
+        "year": "2020",
+        "authors": [
+          "Yang Lin",
+          "Wu Hui",
+          "de Winter Brenda C M",
+          "Sheng Chang-Cheng",
+          "Qiu Hong-Qiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B",
+          "Antimetabolites, Antineoplastic",
+          "Bayes Theorem",
+          "Body Surface Area",
+          "China",
+          "Dose-Response Relationship, Drug",
+          "Drug Monitoring",
+          "Female",
+          "Genotyping Techniques",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32246190/"
+      },
+      {
+        "pmid": "29222579",
+        "title": "The Deauville criteria cannot differentiate between responding and non-responding non-Hodgkin lymphoma patients.",
+        "abstract": "",
+        "journal": "Annals of hematology",
+        "year": "2018",
+        "authors": [
+          "Adams Hugo J A",
+          "Kwee Thomas C"
+        ],
+        "pub_types": [
+          "Letter",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bleomycin",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Glucose-6-Phosphate",
+          "Humans",
+          "Leucovorin",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29222579/"
+      },
+      {
+        "pmid": "17492932",
+        "title": "Primary CNS lymphoma.",
+        "abstract": "Primary CNS lymphoma, an uncommon form of extranodal non-Hodgkin's lymphoma, has increased in incidence and occurs in both immunocompromised and immunocompetent hosts. Primary CNS lymphoma in immunocompetent patients is associated with unique diagnostic, prognostic and therapeutic issues and the management of this malignancy is different from other forms of extranodal non-Hodgkin's lymphoma. Characteristic imaging features should lead to suspicion of the diagnosis, avoidance of corticosteroids (if possible) and early neurosurgical consultation for stereotactic biopsy. Since primary CNS lymphoma may involve the brain, cerebrospinal fluid and eyes, diagnostic evaluation should include assessment of all of these regions as well as screening for the possibility of occult systemic disease. Resection provides no therapeutic benefit and should be reserved for the rare patient with neurological deterioration due to brain herniation. Whole-brain radiation therapy alone is insufficient for durab",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2007",
+        "authors": [
+          "Gerstner Elizabeth",
+          "Batchelor Tracy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Antiretroviral Therapy, Highly Active",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "HIV Infections",
+          "Humans",
+          "Injections, Spinal",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17492932/"
+      },
+      {
+        "pmid": "31156052",
+        "title": "Experience with ambulatory high-dose methotrexate administration as CNS prophylaxis in patients with non-Hodgkin lymphoma.",
+        "abstract": "We describe the feasibility and safety of an oral administration schedule of hydration, alkalinization and leucovorin rescue with an ambulatory high-dose methotrexate regimen.",
+        "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+        "year": "2020",
+        "authors": [
+          "Pampín Rubén",
+          "Labeaga Yoar",
+          "Rodríguez Belén",
+          "Fernández Beatriz",
+          "Fernández Rubén"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Ambulatory Care Facilities",
+          "Diarrhea",
+          "Female",
+          "Humans",
+          "Leucovorin",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31156052/"
+      },
+      {
+        "pmid": "11426613",
+        "title": "Primary non-Hodgkin's lymphoma of the gall bladder.",
+        "abstract": "Primary non-Hodgkin lymphoma of the gallbladder is a very rare location of extranodal non-Hodgkin lymphomas. A patient with a primary non-Hodgkin lymphoma of the gallbladder is reported and in addition, the English literature is reviewed. Clinical presentation, diagnostic evaluation, histopathologic findings, treatment modalities and prognosis of primary gallbladder lymphomas reported up to date are reviewed and discussed. Our patient was diagnosed as a T-cell lymphoblastic lymphoma, after cholecystectomy, and had no evidence of disease elsewhere. She was treated with combination chemotherapy and complete remission was achieved. She remains free of disease 9 years later. Review of the literature over a 30-year period revealed only 12 cases of well-documented primary non-Hodgkin lymphoma involvement of the gallbladder, including the present case. Patients present clinically with symptoms and signs indicating either biliary tract pathology or a gastrointestinal tumor. Diagnostic investig",
+        "journal": "Leukemia & lymphoma",
+        "year": "2000",
+        "authors": [
+          "Mitropoulos F A",
+          "Angelopoulou M K",
+          "Siakantaris M P",
+          "Rassidakis G",
+          "Vayiopoulos G A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Disease-Free Survival",
+          "Doxorubicin",
+          "Female",
+          "Gallbladder",
+          "Gallbladder Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11426613/"
+      },
+      {
+        "pmid": "33925555",
+        "title": "The Effect of a New Glucose-Methotrexate Conjugate on Acute Lymphoblastic Leukemia and Non-Hodgkin's Lymphoma Cell Lines.",
+        "abstract": "Patients with hematologic malignancies require intensive therapies, including high-dose chemotherapy. Antimetabolite-methotrexate (MTX) has been used for many years in the treatment of leukemia and in lymphoma patients. However, the lack of MTX specificity causes a significant risk of morbidity, mortality, and severe side effects that impairs the quality of patients' life. Therefore, novel targeted therapies based on the malignant cells' common traits have become an essential treatment strategy. Glucose transporters have been found to be overexpressed in neoplastic cells, including hematologic malignancies. In this study, we biologically evaluated a novel glucose-methotrexate conjugate (Glu-MTX) in comparison to a free MTX. The research aimed to assess the effectiveness of Glu-MTX on chosen human lymphoma and leukemia cell lines. Cell cytotoxicity was verified by MTT viability test and flow cytometry. Moreover, the cell cycle and cellular uptake of Glu-MTX were evaluated. Our study rev",
+        "journal": "Molecules (Basel, Switzerland)",
+        "year": "2021",
+        "authors": [
+          "Woźniak Marta",
+          "Makuch Sebastian",
+          "Pastuch-Gawołek Gabriela",
+          "Wiśniewski Jerzy",
+          "Szeja Wiesław"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Flow Cytometry",
+          "Glucose",
+          "Glucose Transport Proteins, Facilitative",
+          "Humans",
+          "Immunoconjugates",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33925555/"
+      },
+      {
+        "pmid": "348300",
+        "title": "Non-Hodgkin's lymphoma in children.",
+        "abstract": "Until recently the prognosis of childhood non-Hodgkin's lymphoma has been poor. A program of combination chemotherapy and involved area radiotherapy was instituted in the Department of Pediatrics at Roswell Park Memorial Institute in 1971. Thirty-one biopsy proven untreated children entered this study. There were 4 Stage I, 9 Stage II, 6 Stage III, and 12 Stage IV. Initial site of presentation was neck and mediastinum in 16, abdomen in 12, and other sites in three. Nineteen were lymphocytic, seven histiocytic, three undifferentiated, and one was mixed. None had well differentiated or nodular histology. Chemotherapy consisted of vincristine and steroid induction along with intrathecal methotrexate followed by a maintenance phase consisting of daily oral 6-mercaptopurine, weekly oral methotrexate and monthly pulses of vincristine, cyclophosphamide and steroid. Because of initially poor results in Stage IV disease, the protocol was altered midway and high dose methotrexate on three occasi",
+        "journal": "Cancer",
+        "year": "1978",
+        "authors": [
+          "Brecher M L",
+          "Sinks L F",
+          "Thomas R R",
+          "Freeman A I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antineoplastic Agents",
+          "Child",
+          "Child, Preschool",
+          "Cyclophosphamide",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Lymphoma",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/348300/"
+      },
+      {
+        "pmid": "33273169",
+        "title": "Central Nervous System Lymphomas.",
+        "abstract": "Primary central nervous system (CNS) lymphoma is a rare, aggressive extranodal non-Hodgkin lymphoma confined to the brain, eyes, CSF, or spinal cord without systemic, non-CNS involvement. This article reviews the clinical presentation, imaging characteristics, diagnostic workup, novel pathophysiologic insights, and treatment of immunocompetent patients with primary CNS lymphoma.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2020",
+        "authors": [
+          "Grommes Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Central Nervous System",
+          "Central Nervous System Neoplasms",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Methotrexate",
+          "Neoplasm Recurrence, Local",
+          "Tumor Microenvironment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33273169/"
+      },
+      {
+        "pmid": "6161589",
+        "title": "Advances in adult non-Hodgkin's lymphoma. Current concepts of classification, diagnosis, and management.",
+        "abstract": "In recent years, major advances in the knowledge of immunobiology of the malignant cell, changes in systems of histologic classification and staging procedures, and the development of new therapeutic regimens have considerably changed the approach to, and treatment of, patients with non-Hodgkin's lymphoma. Along with these developments has come the realization that close collaboration among the hematologist-oncologist, the hematopathologist, the radiotherapist, and the surgeon is critical in the successful treatment of these patients. Today, the possibility of cure exists for selected patients with non-Hodgkin's lymphoma; such patients must be identified and given appropriate initial therapy. In all patients, the selection of therapy is guided by the histologic type and stage of disease.",
+        "journal": "Archives of internal medicine",
+        "year": "1980",
+        "authors": [
+          "Rassiga A L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Bleomycin",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Lymph Nodes",
+          "Lymphocytes",
+          "Lymphoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6161589/"
+      },
+      {
+        "pmid": "34764639",
+        "title": "A Validated HPLC-MS/MS Method for Quantification of Methotrexate and Application for Therapeutic Drug Monitoring in Children and Adults with Non-Hodgkin Lymphoma.",
+        "abstract": "A simple, rapid and reliable method to quantify methotrexate (MTX) in human plasma by high-performance liquid chromatography-tandem mass spectrometry (HPLC-MS/MS) was established and validated in two laboratories.",
+        "journal": "Drug design, development and therapy",
+        "year": "2021",
+        "authors": [
+          "Feng Zhangying",
+          "Gao Jinglin",
+          "Gao Xiaonan",
+          "Hua Li",
+          "Nie Xuyang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Validation Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Child",
+          "Child, Preschool",
+          "Chromatography, High Pressure Liquid",
+          "Drug Monitoring",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34764639/"
+      },
+      {
+        "pmid": "23829278",
+        "title": "Genetic polymorphisms predicting methotrexate blood levels and toxicity in adult non-Hodgkin lymphoma.",
+        "abstract": "Methotrexate (MTX), a folate antagonist employed for treating a wide range of malignancies, has an extensive interpatient variability, resulting in unpredictable toxicity. The present study evaluated the impact of single gene polymorphisms (SNPs: rs1801133 and rs1801131 in the MTHFR gene; rs4149056 and rs11045879 in the SLC01B1 gene; and rs2032582 and rs1045642 in the ABCB1 transporter gene) on MTX blood levels and toxicity in samples from 69 patients with diffuse large-B-cell lymphoma (DLBCL) treated with high dose intravenous (HD IV) MTX, > 2 g/m(2). None of the studied genotypes was found to be associated with a statistically significant risk for elevated MTX levels at 24-48 h after completing therapy with MTX. Ancestral alleles (T) for SLC01B1 rs4149056 (T521C) and SLC01B1 rs11045879 (intron C21273886T) were found to be associated with an increased risk for MTX-related toxicity (p < 0.05 and p = 0.07, respectively), emphasizing the potential importance of employing pharmacogenetic ",
+        "journal": "Leukemia & lymphoma",
+        "year": "2014",
+        "authors": [
+          "Avivi Irit",
+          "Zuckerman Tsila",
+          "Krivoy Norberto",
+          "Efrati Edna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B",
+          "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Alleles",
+          "Animals",
+          "Antimetabolites, Antineoplastic",
+          "Female",
+          "Gene Frequency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23829278/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:29:05.365773",
+  "success": true,
+  "error_message": null
+}

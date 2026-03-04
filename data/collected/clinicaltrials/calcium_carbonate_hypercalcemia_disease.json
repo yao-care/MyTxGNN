@@ -1,0 +1,253 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "hypercalcemia disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01011699",
+      "title": "Comparison of Nicotinamide and Sevelamer Hydrochloride on Phosphatemia Control on Chronic Hemodialysed Patients",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-01",
+      "completion_date": "2013-06",
+      "country": "France",
+      "enrollment": 176,
+      "brief_summary": "The comparison between nicotinamide and sevelamer aims to demonstrate, in chronic hemodialysed patients, the non-inferiority of nicotinamide in terms of control of the phosphatemia. Secondary objectives is to compare the two treatments in terms of efficiency in other biological parameters, vascular calcification and bone mass loss and on the clinical and biological tolerance and finally to explore the roles of metabolites of nicotinamide.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women or men over 18 years\n* Chronic hemodialysis (since more than 3 months)\n* Hyperphosphatemia controlled with only CaCO3\n* PO4 \\> 1,60 mmol/l, PCa \\< 2,37 mmol/l\n* patient able to understand and sign informed consent form\n\nExclusion Criteria:\n\n* PTH \\< 60 ou \\> 800 pg/ml (P",
+      "endpoints": [
+        "The comparison between nicotinamide and Sevelamer was primarily to demonstrate the noninferiority of nicotinamide in terms of control of the phosphatemia observed during the 4th, 5th and 6th months before to introduce Cinacalcet ®."
+      ],
+      "sponsor": "Centre Hospitalier Universitaire, Amiens",
+      "url": "https://clinicaltrials.gov/study/NCT01011699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00996801",
+      "title": "A Phase IIb, Randomized, Double-Blind, Placebo- and Active-Controlled, Dose-Range-Finding Study to Evaluate the Effects of MK-5442 on Bone Mineral Density (BMD) in the Treatment of Osteoporosis in Postmenopausal Women Previously Treated With an Oral Bisphosphonate",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2011-06",
+      "country": "N/A",
+      "enrollment": 526,
+      "brief_summary": "This study seeks to demonstrate that additional gain in bone mineral density (BMD) can be achieved by switching to MK-5442 from an oral bisphosphonate in participants who have been receiving oral bisphosphonate therapy for at least 3 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Taking oral bisphosphonate treatment for osteoporosis for at least 3 of the past 4 years. At present, and for the past 12 months, treated with alendronate\n* Bone Mineral Density (BMD) T-score that is ≤ -1.5 at one or more of the following anatomic sites; lumbar spine, femoral ",
+      "endpoints": [
+        "Least Squares Mean Percent Change From Baseline To Month 12 in Lumbar Spine Areal Bone Mineral Density (BMD)",
+        "Number of Participants With Trough Serum Calcium Level Exceeding Predefined Limits At Least Once",
+        "Number of Participants With Trough Albumin-Corrected Calcium Level Exceeding Predefined Limits At Least Once"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00996801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01514851",
+      "title": "Phase III Double-blind Comparative Study of BAY 77 1931 (Lanthanum Carbonate) With a Calcium Carbonate in Patients With Hyperphosphatemia Undergoing Hemodialysis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2006-05",
+      "country": "Japan",
+      "enrollment": 259,
+      "brief_summary": "To assess the effect on reduction of serum phosphate and the safety of BAY77-1931 (Lanthanum Carbonate) in patients with hyperphosphatemia undergoing hemodialysis in a randomized, double-blind, parallel group study in comparison with Calcium carbonate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pre-dialysis serum phosphate levels: ≧5.6 mg/dL and \\<11.0 mg/dL at 1 week after the initiation of the washout period.\n* Out-patient\n* Undergoing hemodialysis three times per week for at least previous 3 consecutive months\n\nExclusion Criteria:\n\n* Pre-dialysis serum phosphate l",
+      "endpoints": [
+        "Change from baseline in pre-dialysis serum phosphate levels (PSPL) at the end of the double-blind period",
+        "Presence/absence of incidence of hypercalcemia up to 8 weeks"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01514851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00744302",
+      "title": "Study of 1.25 mmol/L Calcium Dialysate on Mineral Metabolism in Haemodialysis Patients.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2009-12",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "A prospective, randomized, controlled multicenter trial to evaluate 1.25 mmol/L (physiological) vs. 1.5 mmol/L calcium dialysate on serum markers of mineral metabolism, secondary hyperparathyroidism and cardiovascular calcification in prevalent haemodialysis patients. And the long term safety of the 1.25 mmol/L calcium dialysate was also considered.\n\nThere are two phases of study for each subject. Phase 1 (screening phase). During this phase, each potential subject will be evaluated to determine",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willingness to sign an informed consent\n* Stable haemodialysis treatment for more than 3 months, undergoing 2 to 3 times haemodialysis a week for 4 to 5 hours per session\n* Secondary hyperparathyroidism defined as serum intact parathyroid hormone (iPTH) \\> 150 pg/mL, hypercalc",
+      "endpoints": [
+        "Improvement of mineral metabolism and remission of secondary hyperparathyroidism"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT00744302"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02864784",
+      "title": "A Prospective, Multicenter, Randomized, Placebo-Controlled, Two-armed, Double-blind Pilot Study to Evaluate the Safety, Tolerability and Efficacy of ACC vs. Placebo for the Treatment of Subjects With Castrate Resistant Prostate Cancer With Bone Metastasis",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2022-06",
+      "completion_date": "2023-12",
+      "country": "Israel",
+      "enrollment": 0,
+      "brief_summary": "Studies objectives:\n\nTo evaluate the safety, tolerability and efficacy of ACC given in combination with ZA or with Denosumab as compared to placebo given with ZA or with Denosumab as outline below:\n\n* Safety and Tolerability:\n* Adverse events (AEs) and serious AEs\n* Safety laboratory measurements\n* Hypercalcemic and hypercalciuric episodes\n* Treatment withdrawal due to AEs and overall\n\nEfficacy:\n\n* Skeletal Related Events (SREs)\n* Measurable and evaluable disease progression\n* Progression Free S",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\> 18 year\n2. Histologic proof of Castrate Resistant Prostate Cancer with Bone Metastasis\n3. Systemic steroids are only allowed if needed for hormonal therapy\n4. Previous radiation therapy must have been completed more than four weeks prior to enrollment into this study, ",
+      "endpoints": [
+        "Changes in the number of Skeletal Related Events (SREs)"
+      ],
+      "sponsor": "Amorphical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02864784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01067898",
+      "title": "A Randomized, Double-blind, Placebo-controlled Study on Oral Vitamin D Megadoses - 100 000 or 200 000 IU Vitamin D3 Every Three Months",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2011-05",
+      "country": "Finland",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to determine if infrequent administration of oral vitamin D megadoses is effective treatment to maintain serum 25-hydroxyvitamin D(3) above target levels of 50-75 nmol/L. The investigators hypothesize that 100 000 IU or at least 200 000 IU vitamin D3 in every three months would be effective and safe treatment to achieve the target levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* female\n* 70-80 yrs old\n\nExclusion Criteria:\n\n* disease or medication affecting calcium homeostasis\n* renal failure (Pt-GFRe-CG \\< 35 ml/min)",
+      "endpoints": [
+        "Serum 25(OH)D3 concentration in relation to the target levels of 50-75 nmol/L"
+      ],
+      "sponsor": "Helsinki University Central Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01067898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01403051",
+      "title": "A Prospective, Randomized, Double-Blind Phase II Trial of High-Dose Vitamin D and Calcium for Bone Health in HIV-Infected Individuals Initiating Highly Active Antiretroviral Therapy (HAART)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2013-02",
+      "country": "Puerto Rico, United States",
+      "enrollment": 167,
+      "brief_summary": "This study was done with people who were infected with HIV and needed to start treatment for their HIV disease. The purpose of this study is to see if taking vitamin D and calcium will help prevent the bone loss that sometimes happens when people start HIV treatment. For this study, the following HIV treatment (or HAART) were provided in the form of a single tablet that contains three different drugs: efavirenz/emtricitabine/tenofovir (EFV/FTC/TDF). These drugs are approved by the FDA to treat H",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infection\n* No evidence of any exclusionary resistance mutations based on results from any genotype assay from any laboratory that has a CLIA (Clinical Laboratory Improvement Amendments) certification or its equivalent. Results must be available from testing any time in ",
+      "endpoints": [
+        "The Percent Change From Baseline in Bone Mineral Density (BMD) at Total Hip"
+      ],
+      "sponsor": "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+      "url": "https://clinicaltrials.gov/study/NCT01403051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00960934",
+      "title": "A Phase IIb, Randomized, Placebo-Controlled, Dose-Ranging Study of MK-5442 in the Treatment of Postmenopausal Women With Osteoporosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-10",
+      "completion_date": "2010-12",
+      "country": "N/A",
+      "enrollment": 383,
+      "brief_summary": "The purpose of this study was to identify an appropriate dose of\n\nMK-5442 that produced an osteoanabolic effect without causing hypercalcemia in postmenopausal women with osteoporosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Postmenopausal for at least 5 years\n* No history of fragility fracture, unless participant is not willing to take marketed osteoporosis therapy or is not a candidate for marketed osteoporosis therapy\n* Agrees not to use medications for osteoporosis except medications associate",
+      "endpoints": [
+        "Least Squares (LS) Mean Percent Change From Baseline to Month 6 in Lumbar Spine Areal Bone Mineral Density (aBMD)",
+        "Percentage of Participants With Total Serum Calcium Levels Outside the Pre-defined Limits of Change",
+        "Percentage of Participants With Albumin-Corrected Calcium Levels Outside the Pre-defined Limits of Change"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00960934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03644264",
+      "title": "An Open-label, Randomised, Active-controlled, Parallel Group, Multicentre, Phase 3 Study to Investigate the Safety and Efficacy of PA21 and Sevelamer Carbonate (Renvela®) in Chinese CKD Patients With Hyperphosphataemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-08-31",
+      "completion_date": "2020-08-21",
+      "country": "China",
+      "enrollment": 286,
+      "brief_summary": "This study evaluates the efficacy of PA21 in comparison with sevelamer carbonate (Renvela®) in lowering and maintaining serum phosphorus in adult Chinese subjects with CKD on dialysis after 12 weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Chinese subjects receiving either maintenance haemodialysis (HD) or peritoneal dialysis (PD) for at least 12 weeks prior to screening. No home HD or nocturnal HD (overnight stay at site) will be allowed\n2. Subjects with a history of hyperphosphataemia (HP).\n3. Subjects with s",
+      "endpoints": [
+        "Serum phosphorus (mmol/l )"
+      ],
+      "sponsor": "Vifor Fresenius Medical Care Renal Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03644264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00364000",
+      "title": "Arterial Stiffness and Arterial Calcifications Evolution in ESRD Haemodialysis Patients Treated by Sevelamer or Calcium Acetate",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2012-01",
+      "completion_date": "2017-12",
+      "country": "Romania",
+      "enrollment": 0,
+      "brief_summary": "End-stage renal disease (ESRD) is a state of increased arterial stiffness of extensive vessel calcifications, compared with the non-renal population. Both arterial stiffness and arterial calcifications are potent predictors of all-cause and cardiovascular mortality in ESRD patients. Several studies have documented the direct relationship between the extent and severity of arterial/coronary calcifications and outcome in dialysis patients. The relationship is strong no matter if arterial calcifica",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* more than 3 months on haemodialysis\n* willingness to participate\n* age 18-60 yrs\n* pre-dialysis blood pressure 120-160 mmHg in the last month prior to the initiation of study or recent (\\<1 Mo) addition of a new antihypertensive drug\n* iPTH at entry 200-800 pg/mL (as per sever",
+      "endpoints": [
+        "changes in arterial stiffness parameters",
+        "changes in calcification score"
+      ],
+      "sponsor": "Romanian Society of Nephrology",
+      "url": "https://clinicaltrials.gov/study/NCT00364000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04900337",
+      "title": "A Phase 1/2 Prospective Randomized Placebo Controlled Study to Assess the Safety, Tolerability and Efficacy of Amorphous Calcium Carbonate (ACC) Administered Sublingual and in Inhalation Concomitantly With BAT (Best Available Care) as Compared to Placebo and BAT for the Treatment of Moderate to Severe COVID-19 Patients.",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-02-09",
+      "completion_date": "2023-06-30",
+      "country": "Israel",
+      "enrollment": 66,
+      "brief_summary": "This is a phase I/II study with Amorphous Calcium Carbonate (ACC) administered sublingual and in Inhalation concomitantly with BAT (Best Available Care) as Compared to Placebo and BAT for the treatment of Moderate to Severe COVID-19 patients. The purpose of this study is to assess the Safety, Tolerability and Efficacy of Amorphous Calcium Carbonate (ACC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females of age ≥ 18 years and ≤ 80 years\n2. Signed an Informed Consent\n3. Agree to undergo blood tests as per protocol\n4. Diagnosed with COVID-19\n5. Evidence of lung involvement (by chest X rays or lung US)\n6. May or may not need for Supplemental Oxygen at enrollmen",
+      "endpoints": [
+        "Change of Severity rating of Disease using an 8-point ordinal scale on days 7, 14, 21, measured as improvement greater than or equal to 1 point from baseline score."
+      ],
+      "sponsor": "Amorphical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04900337"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02237534",
+      "title": "Lanthanum Carbonate Versus Calcium Carbonate for Vascular Abnormalities in Patients With Chronic Kidney Disease and Hyperphosphatemia",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2023-09",
+      "country": "Japan",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to compare the effect of lanthanum carbonate and calcium carbonate on the progression of coronary calcification and vascular endothelial dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hyperphosphatemia (For patients without calcium carbonate, ≥4.5 mg/dL) (For patients with calcium carbonate, ≥4.0 mg/dL)\n* With written informed consent\n\nExclusion Criteria:\n\n* History of cardiac surgery\n* With coronary artery stent\n* Polycystic kidney disease\n* Hypothyroidism",
+      "endpoints": [
+        "Coronary artery calcification score"
+      ],
+      "sponsor": "Osaka University",
+      "url": "https://clinicaltrials.gov/study/NCT02237534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01130831",
+      "title": "A Phase IV, Multi-Centre, Non-interventional Study Evaluating the Effect of Lanthanum Carbonate in Patients Previously Treated With Calcium Based Phosphate Binder Therapy on Serum Phosphorous Control, Concomitant Vitamin D Therapy and Bone Related Biochemical Parameters in End Stage Renal Disease Patients on Hemodialysis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-04-26",
+      "completion_date": "2012-06-12",
+      "country": "Germany",
+      "enrollment": 66,
+      "brief_summary": "To assess the percentage of patients on lanthanum carbonate, that achieve Kidney Disease Outcome Quality Initiative (KDOQI) guideline suggested values for serum phosphorous in patients previously treated with calcium-based phosphate binder therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients meeting all of the criteria listed below may be included in the study:\n\n1. Patients aged over 18 years\n2. Patients with ESRD on haemodialysis who are willing and able to provide written informed consent.\n3. Patients on:\n\n   * Lanthanum carbonate monotherapy for ≥1 month",
+      "endpoints": [
+        "Percent of Subjects That Achieved Controlled Serum Phosphorous Levels on Calcium-based Phosphate Binder Therapy",
+        "Percent of Subjects That Achieved Controlled Serum Phosphorous Levels on Lanthanum Carbonate"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01130831"
+    }
+  ],
+  "timestamp": "2026-03-04T16:11:52.438758",
+  "success": true,
+  "error_message": null
+}

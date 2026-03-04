@@ -1,0 +1,937 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "headache disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02758990",
+      "title": "Interventional Testing of Gene-environment Interactions Via the Verifomics Mobile Application",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2016-03",
+      "completion_date": "2016-11-23",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "The purpose of this study is to study interactions between genes, lifestyle environmental factors like foods, nutritional supplements and non-invasive medical devices and health factors that can be measured without specialized medical equipment in order to develop lifestyle recommendations tailored to individual genetics for a host of common chronic health conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For BMI interventions, BMI \\> 25\n* For headache interventions, more than 2 headache-days per month\n* For insomnia interventions, at least one day of self-reported poor sleep per week\n* For rhinitis interventions, more than 2 days with symptoms per month\n* For joint pain interv",
+      "endpoints": [
+        "Frequency of correct predictions"
+      ],
+      "sponsor": "Verifomics LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02758990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01755702",
+      "title": "A Study to Assess the Efficacy of Paracetamol Taken in Combination With Caffeine for the Treatment of Episodic Tension Type Headache",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 66,
+      "brief_summary": "This study will compare a fast-absorbing paracetamol plus caffeine formula with placebo and an over-the-counter dose of paracetamol and ibuprofen to treat episodic tension headache.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of episodic tension-type headache consistent with all of the following:\n\n  1. number of days with the condition is historically greater than or equal to two per month\n  2. onset of condition was greater than or equal to 12 months from Visit 1\n  3. age of onset was \\<",
+      "endpoints": [
+        "Time to First Perceptible Headache Relief"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01755702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04895800",
+      "title": "An Evaluation of the Effects of a Non-Caffeinated Energy Die-tary Supplement on Cognitive and Physical Performance: A Randomized Double-Blind Placebo-Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-03",
+      "completion_date": "2021-03-15",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This study tested the effects of a botanical blend to a caffeine and a placebo condition on 1) self-reported alertness, anxiety, and headaches 2) multiple measures of attention 3) physical performance and 4) stress biomarkers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult males and females from 18 to 50 years (inclusive) of age who are physically active and have been engaging in athletic and sporting endeavors consistently over a period of 6 months at minimum\n* BMI 18.0 (normal) to 34.9 (obese, class I) kg/ m2 inclusive\n* Agrees to mainta",
+      "endpoints": [
+        "Cognition",
+        "Mood",
+        "Physical Performance"
+      ],
+      "sponsor": "Nova Southeastern University",
+      "url": "https://clinicaltrials.gov/study/NCT04895800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02771587",
+      "title": "Effects of Alcohol and Energy Drinks on Driving Performance and Bleeding Risk",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2016-09",
+      "country": "Spain",
+      "enrollment": 16,
+      "brief_summary": "The main objective of the project is to assess whether there is an interaction between the effects of ethanol and energy drinks on driving performance.\n\nSecondary objectives include: to evaluate subjective effects (drunkenness) after administration of alcohol and energy drinks, to assess pharmacokinetics of alcohol, caffeine and taurine after alcohol and energy drinks administration and to assess if there is an increased risk of bleeding when both drinks are taken together.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand and accept the study's procedures and sign an informed consent form\n* No evidence of somatic or psychiatric disorders as per past medical history and physical examination\n* EKG, blood and urine tests taken before entry into the study within the normal range. Minor a",
+      "endpoints": [
+        "Change in tracking test performance"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT02771587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04598685",
+      "title": "Early Vascular Ageing in the YOUth - An Observational Study Into the Predictors of Atherosclerotic Changes in Adolescents",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2023-03-31",
+      "country": "Austria",
+      "enrollment": 1517,
+      "brief_summary": "This is a single-center observational study on adolescents to determine predictors of the early steps of the formation of atherosclerosis and to quantify their influence on Intima-Media-Thickness of the carotid artery and the aorta and on the Pulse-Wave Velocity.\n\nA long-term follow-up by means of record linkage is furthermore planned to evaluate the effect of early atherosclerosis and the cardiovascular risk profile on future morbidity with a special focus cardio- and cerebrovascular events.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescents at the age of 14 to 19 years\n* Signed informed consent of subjects (and legal guardian if subject \\< 18 years of age)\n\nExclusion Criteria:\n\n* Persons, who are suspended upon a court order or upon other legal processes or are accommodated according to the Hospitaliz",
+      "endpoints": [
+        "Determinants of Intima-Media Thickness (carotid and aortic)",
+        "Determinants of the Pulse-Wave Velocity [m/s]"
+      ],
+      "sponsor": "VASCage GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04598685"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06824025",
+      "title": "Comparison of Nebulized Neostigmine/Atropine Versus Lignocaine in Treating Acute Post-dural Puncture Headache Following Subarachnoid Block in Parturient Undergoing Elective Cesarean Section. A Randomized, Clinical Trial.",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-02-20",
+      "completion_date": "2027-01-05",
+      "country": "N/A",
+      "enrollment": 111,
+      "brief_summary": "Post-dural puncture headache (PDPH) is a common and debilitating complication of spinal anesthesia in pregnant patients undergoing cesarean sections, with an incidence ranging from 0.5% to 2% (1). The International Headache Society (IHS) defines PDPH as a headache occurring within 4 days of a lumbar puncture, caused by cerebrospinal fluid (CSF) leakage through the dural puncture (2). Although the exact cause of PDPH is not fully understood, it is thought to occur due to cerebrospinal fluid loss ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-35 years old parturient with post partum headache after elective CS under spinal anesthesia with visual analog score (VAS) ≥ 4 \\[14\\] and Lybecker classification score ≥ 2\n\nExclusion Criteria:\n\n* Pregnancy induced hypertension\n* Emergency C.S\n* Asthmatic candidates\n* Previo",
+      "endpoints": [
+        "VAS score"
+      ],
+      "sponsor": "Minia University",
+      "url": "https://clinicaltrials.gov/study/NCT06824025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05992480",
+      "title": "An Open-Label, Case-Control Study to Compare the Anamnestic Response to the Recombinant Vesicular Stomatitis Delta Glycoprotein Zaire Ebola Virus (ZEBOV) Glycoprotein (rVSVDG-ZEBOV-GP) Ebola Virus Vaccine Among Ebola Virus Disease Survivors to the Primary Immune Response Among Naïve Age and Sex-Matched Controls",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2026-05",
+      "country": "Sierra Leone",
+      "enrollment": 40,
+      "brief_summary": "This study is a vaccine-related clinical trial which will be conducted by our study team at Kenema Government Hospital (KGH)'s Viral Hemorrhagic Fever Program in collaboration with Tulane University School of Medicine. This study is funded by Merck \\& Co., the developers of ERVEBO®. This investigational medicinal product (IMP) was successful in Sierra Leone through the Sierra Leone Trial to Introduce a Vaccine against Ebola (STRIVE) working with the College of Medical and Allied Health Services ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* EVD survivors\n\n  * History of admission and discharge from an Ebola Treatment Unit as registered by the Sierra Leone Association of Ebola Survivors (SLAES).\n  * Anti-EBOV GP IgG positive by ELISA at the time of screening.\n  * ≥18 years of age.\n  * \\>45.5 kg (100lbs).\n  * Willi",
+      "endpoints": [
+        "Assess the immunogenicity and durability of rVSVDG-ZEBOV-GP among EVD survivors compared with unexposed age- and sex-matched controls at six months post-vaccination",
+        "Assess the incidence of adverse events after vaccination with rVSVDG-ZEBOV-GP among EVD survivors compared with unexposed age- and sex-matched controls"
+      ],
+      "sponsor": "Tulane University",
+      "url": "https://clinicaltrials.gov/study/NCT05992480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04461795",
+      "title": "A Multicenter, Open Label Study Assessing the Efficacy of AJOVY (Fremanezumab-vfrm) on Interictal Migraine Related Burden",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-12-01",
+      "completion_date": "2022-01-10",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study is being conducted to evaluate the efficacy and safety of AJOVY (fremanezumab-vfrm) on interictal migraine related burden in adults.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. willing to participate and sign informed consent;\n2. ability to read and understand informed consent and study procedures, including able to use the electronic Daily Headache Diary;\n3. in good general health based on investigator's judgment;\n4. must be between 18 to 65 years ",
+      "endpoints": [
+        "Change in Migraine Interictal Burden Scale (MIBS-4) Scores From Baseline to Weeks 4, 8, and 12."
+      ],
+      "sponsor": "Clinvest Research, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04461795"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06646822",
+      "title": "Prevalence, Patterns, Awareness and Attitudes of Stimulant Drug Use Among Students in Egyptian Universities: a Cross-sectional Study.",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-12-10",
+      "completion_date": "2025-11-30",
+      "country": "Egypt",
+      "enrollment": 1500,
+      "brief_summary": "Stimulants are dangerous drugs that are commonly abused by individuals looking to stay alert and focused, lose weight, stay awake, and get high. Although these drugs can be extremely harmful and even life-threatening, many of them can also be used to treat conditions like ADHD, narcolepsy, and in some cases, depression. There are many types of stimulant drugs, and it can be beneficial to know a little about each one, its purposes, and how harmful it can be when abused.\n\nIllicit stimulants are us",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Academic student Age (18-30) years Included in medical faculty\n\nExclusion Criteria:\n\n* Not undergraduates student Aged \\< 18 years",
+      "endpoints": [
+        "Prevalence/ pattern",
+        "Awareness/ attitude"
+      ],
+      "sponsor": "New Valley University",
+      "url": "https://clinicaltrials.gov/study/NCT06646822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04906603",
+      "title": "Theta Burst Stimulation for Headaches After Traumatic Brain Injury",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-11-01",
+      "completion_date": "2023-09",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to evaluate if theta burst stimulation (TBS) can reduce chronic headaches caused by a traumatic brain injury (TBI). TBS is a safe, drug-free brain stimulation technique that uses magnets to create electricity and stimulate nerve cells in the brain. After repeated TBS sessions, the increased stimulation of nerve cells can alter the way the brain communicates with itself (by creating new neural pathways) which, in turn, can reduce pain symptoms. Participants in this st",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Veterans receiving services through the MVAHCS\n* History of mild TBI according to VA/DoD Clinical Practice Guidelines (2009) with one or more of the following criteria present after head injury:\n\n  * Loss of consciousness between 0-30 minutes\n  * Post-traumatic amnesia between",
+      "endpoints": [
+        "Ecological Momentary Assessment (EMA) for Headache Frequency, Intensity, and Impairment",
+        "World Health Organization Quality of Life Scale (WHOQOL-BREF)",
+        "Migraine Disability Assessment (MIDAS)"
+      ],
+      "sponsor": "Minneapolis Veterans Affairs Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04906603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03478735",
+      "title": "Ultrasound-guided Greater Occipital Nerve Block at the C2 Level Compared to Landmark-based Greater Occipital Nerve Block: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-17",
+      "completion_date": "2021-06-14",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "This study will compare the analgesic benefit of a traditional landmark-guided GON block with the ultrasound-guided approach over a four week period in patients with occipital neuralgia or cervicogenic headache.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Unilateral or bilateral headache symptoms attributed to occipital neuralgia or cervicogenic headache as defined by the International Headache Society's International Classification of Headache Disorders (3rd edition beta version)\n2. Age 18 years and older (no upper age limit ",
+      "endpoints": [
+        "Change in Numeric Rating Scale (NRS) Pain Score"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03478735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05262933",
+      "title": "Effect of Preoperative Coffee Consumption on Intraoperative and Post Operative Outcomes in Cesarean Section With Spinal Anesthesia",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-03-15",
+      "completion_date": "2022-07-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 2,
+      "brief_summary": "The prospective study is planned in a university hospital. Spinal anesthesia is widely used for cesarean section currently for its safety, low cost, reliability, easiness to administer, immediate effect, and well-operating conditions. However spinal anesthesia has some complications as hypotension, bradycardia and Post Dural Puncture Headache (PDPH). A practical strategy for avoiding hypotension during initiation of spinal anesthesia for cesarean delivery includes intravenous crystalloid, in con",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients who accept to participate in the study\n* patient who limit the consumption of caffeinated beverages such as coffee and tea during pregnancy\n* Patients with known caffeine or coffee allergy\n\nExclusion Criteria:\n\n* patients who refuse to participate in the study\n* Patie",
+      "endpoints": [
+        "hypotension"
+      ],
+      "sponsor": "TC Erciyes University",
+      "url": "https://clinicaltrials.gov/study/NCT05262933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02183688",
+      "title": "A Double-blind, Randomized, Placebo-controlled Clinical Trial to Confirm the Rationale of the ASA + Paracetamol + Caffeine Combination Compared With ASA + Paracetamol as Well as ASA, Paracetamol, and Caffeine in Headache Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-09",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 1889,
+      "brief_summary": "To confirm the combination rationale for the combination of ASA + paracetamol + caffeine compared with the combination of ASA + paracetamol and the individual substances ASA, paracetamol, caffeine, and placebo administered orally to headache patients for two headache episodes",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female or male out-patients aged between 18 and 65 years\n2. Diagnosis: Headache\n\n   1. Tension type headache according to international headache society (IHS) Headache Classification 2.1 (2.1.1 and 2.1.2) and/or\n   2. Migraine according to IHS Headache Classification 1.1, 1.2",
+      "endpoints": [
+        "Calculated time to 50% pain relief, based on the pain intensity evaluated on a visual analogue scale (VAS)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02183688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01847040",
+      "title": "Deployment Related Mild Traumatic Brain Injury (mTBI): Incidence, Natural History, and Predictors of Recovery in Soldiers Returning From OIF/OEF",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2014-08",
+      "country": "United States",
+      "enrollment": 750,
+      "brief_summary": "The study will provide evidence on the long term outcomes of mTBI in service members returning from Afghanistan and Iraq. In addition, the study will provide evidence on mTBI incidence, and symptom patterns. Self-reported assessments at baseline and follow-ups will be combined with data on health care utilization and military job performance. The work, symptoms, and family interaction outcomes of returning soldiers screening positive for mTBI, combined mTBI and PTSD, and soldier controls will be",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Must be returning from deployment in Iraq or Afghanistan\n2. Must have been screened for mild TBI on the deployment related study screening tool\n3. Must sign an informed consent/HIPAA authorization -\n\nExclusion Criteria:\n\n1. Returning from deployment for medical reasons, that ",
+      "endpoints": [
+        "Over time change in Concussive symptoms",
+        "Change in Work Related Issues"
+      ],
+      "sponsor": "The Defense and Veterans Brain Injury Center",
+      "url": "https://clinicaltrials.gov/study/NCT01847040"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02115269",
+      "title": "IndoProCaf (Difmetre®) Effervescent Tablets Effectiveness in Acute Treatment of Primary Headaches (Migraine and/or Episodic Tension-type Headache) and Patients' Satisfaction With the Treatment in Routine Clinical Practice in Ukraine and Kazakhstan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2015-11",
+      "country": "Ukraine, Kazakhstan",
+      "enrollment": 759,
+      "brief_summary": "Headaches are a common medical problem that physicians frequently encounter in their practice. One of key findings of The Atlas of Headache Disorders prepared by World Health Organization (WHO) is: headache disorders, including migraine and tension-type headache (TTH), are among the most prevalent disorders of mankind. The fixed combination of indomethacin, prochlorperazine and caffeine (IndoProCaf) showed efficacy and safety in acute treatment of migraine and episodic tension-type headache atta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of primary headache (migraine with or without aura and/or episodic TTH) and whose headache attacks required acute pharmacological treatment.\n* Were administered IndoProCaf (Difmetre®) effervescent tablets therapy according to the local product labelling.\n* Adults 18 ",
+      "endpoints": [
+        "Percentage of Patients With Significant Pain Reduction",
+        "Percentage of Patients Who Are Satisfied With IndoProCaf Treatment"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT02115269"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06640634",
+      "title": "Effect of Anodal Transcranial Direct Current Stimulation on Postdural Puncture Headache: Results of Two Randomized Sham - Controlled Trials",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-11",
+      "completion_date": "2024-04-23",
+      "country": "Italy",
+      "enrollment": 97,
+      "brief_summary": "Post-dural puncture headache (PDPH) is the most prevalent complication in patients undergoing diagnostic or therapeutic lumbar puncture (LP). The pathophysiology of PDPH is primarily attributed to the mechanical traction on pain-sensitive intracranial nerves (e.g., the upper cervical, 5th, 9th, and 10th cranial nerves) and vascular structures, mediated by persistent dural damage leading to cerebrospinal fluid (CSF) leakage and subsequent CSF pressure reduction.\n\nAccording to the International Cl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 18 and 75 years;\n* indication to undergo diagnostic lumbar puncture LP.\n\nExclusion Criteria:\n\n* any prior exposure to brain stimulation;\n* contraindications to tDCS;\n* a previous diagnosis of migraine or chronic headache;\n* usage of preventive medication at the bas",
+      "endpoints": [
+        "Visual Analogue Scale (VAS)"
+      ],
+      "sponsor": "Neuromed IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT06640634"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04662125",
+      "title": "Comparative Study Between Analgesic Effect of Oral Prednisolone and Oral Pregabalin in Management of Post-dural Puncture Headache in Patients Undergoing Lower Limb Surgeries",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-12-10",
+      "completion_date": "2023-08-30",
+      "country": "Egypt",
+      "enrollment": 63,
+      "brief_summary": "The aim of this study is to compare between oral prednisolone and oral pregabalin in management of PDPH to detect effectiveness of the treatment in reducing severity of PDPH, total rescue analgesic consumption and adverse effects of prednisolone and pregabalin in patients undergoing lower limb surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Both gender.\n* Age: 18- 65 years old.\n* Body Mass Index 20-30 kg/m2\n* American Society of Anesthesiologist (ASA) physical status I - II.\n* Patients are diagnosed as PDPH according to criteria of International Headache Society (IHS) after lower limb surgeries .\n\nExclusion Cr",
+      "endpoints": [
+        "pain intensity of headache",
+        "pain intensity of headache",
+        "pain intensity of headache"
+      ],
+      "sponsor": "Zagazig University",
+      "url": "https://clinicaltrials.gov/study/NCT04662125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01426971",
+      "title": "National, Controlled, Randomized, Double-blind, Parallel Study to Investigate the Efficacy of 2 Capsules of Ibuprofen 400mg in Association With Caffeine 100mg in Fixed Dose Combination Compared to Two Capsules of Ibuprofen 400mg in the Treatment of Migraine",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2012-12",
+      "completion_date": "2013-06",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Primary Objective:\n\n\\- To compare the treatment groups in the reduction of pain score by at least 30 mm on a visual pain scale (VAS) at 60 minutes after study medication intake, compared to the baseline score (obtained before the study medication intake).\n\nSecondary Objectives:\n\n* To assess the proportion of patients with more than 50% pain relief, according to the VAS score at 45 minutes after study medication intake compared to baseline\n* Determine the following aspects in the timing of study ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* 18 years old to less ore equal than 65 with migraine defined according to the criteria of the headache Classification Committee (ICHD II) of the International Headache Society (HIS)\n* Migraine first onset before 50 years old\n* Occurrence of at least one episode every two month",
+      "endpoints": [
+        "Number of patients with reduction of at least 30mm in the visual scale (VAS) of pain"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01426971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01481103",
+      "title": "Integrating Acupuncture Into the Management of Migraines: A Randomized, Comparative Trial",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2011-07",
+      "completion_date": "2013-04",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This research is being done to study the effect of incorporating acupuncture into the management of migraines. The primary aim is to determine in a randomized, controlled study whether individuals experiencing migraines have fewer occurrences and less intense migraines when acupuncture is integrated with nonprescription pharmacological treatment. Nonprescription pharmacological treatment in this study refers to the use of the following over the counter medications: Aspirin, Ibuprofen, Naproxen, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Migraine with or without aura according to the International Headache Society classification and diagnosed by a Medical Doctor.\n* Subjects are required to have between 2 and 12 migraines but no more than 15 headache days (migraine or nonmigraine) per 28 days during the prospec",
+      "endpoints": [
+        "Number and intensity of migraine headaches"
+      ],
+      "sponsor": "National University of Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01481103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07410741",
+      "title": "The Effect of Postoperative Coffee Consumption on Postdural Puncture Headache and Analgesic Use in Women Undergoing Cesarean Section With Spinal Anesthesia: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2026-02-20",
+      "completion_date": "2026-12",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 82,
+      "brief_summary": "The purpose of this study is to investigate the effects of postoperative coffee consumption on postdural puncture headache (PDPH) and analgesic use in women undergoing cesarean section with spinal anesthesia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to read, understand, and communicate in Turkish\n* Age ≥ 18 years\n* Undergoing cesarean section under spinal anesthesia\n* Spinal anesthesia administered in the sitting position\n* Initiation of oral intake at postoperative hour 6\n* No history of physiological discomfort ",
+      "endpoints": [
+        "Incidence of Postdural Puncture Headache"
+      ],
+      "sponsor": "Hacettepe University",
+      "url": "https://clinicaltrials.gov/study/NCT07410741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01080677",
+      "title": "Randomized Double-Blind Study to Evaluate the Dose-Related Efficacy and Safety of Caffeine/Propranolol in the Treatment of Acute Migraine",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "This is a research study to assess the safety of caffeine/propranolol at different dose levels. We want to find out what effects, good and/or bad, it has on patients and their migraines.",
+      "eligibility_criteria": "Inclusion Criteria:1. Subject has a minimum 12-month migraine history that the investigator determines meets the International Headache Society (IHS) Migraine Diagnostic Criteria for migraine with or without aura 2. Subject is between 18-50 years of age. 3. Subject experiences an average of 2-8 migr",
+      "endpoints": [
+        "Percentage of Participants Reporting Pain Relief at 2 Hrs Post First Administration of Caffeine/Propranolol (Defined as a Decrease in Headache Pain Intensity From Severe or Moderate Headache Pain at Baseline to Mild or no Pain at 2 Hrs)"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01080677"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00471952",
+      "title": "Maxalt 10mg Plus Caffeine 75mg in the Acute Treatment of Migraine Headache",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2008-04",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to evaluate the effect of rizatriptan, alone or combined with caffeine for treating acute attacks of migraine.\n\nEach subject will have 3 months to treat 3 acute migraine headache attacks. Each subject will be dispensed one box containing 3 packets of study medication labeled for Headache #1, Headache #2, or Headache #3. Each packet wil contain either Maxalt 10mg MLT or a Maxalt placebo (sugar pill), and a capsule containing either caffeine 75mg or a capsule containin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is 18-65 years of age\n* Diagnosis of migraine with or without aura\n* 1 year history of migraine with 1-6 migraine attacks per month in the the three months prior to screening\n* Medication for migraine prevention with a stable dose for at least 1 month prior to screenin",
+      "endpoints": [
+        "The comparative percentage of migraine attacks that produce pain free response at 2 hours in the Maxalt 10mg MLT plus caffeine 75mg arm versus the Maxalt 10mg MLT plus placebo caffeine versus double placebo."
+      ],
+      "sponsor": "Diamond Headache Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00471952"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03951649",
+      "title": "Acute Headache Treatment in Pregnancy: Improvement in Pain Scores With Occipital Nerve Block vs PO Acetaminophen With Caffeine A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-02-10",
+      "completion_date": "2022-12-31",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "This is an open label randomized controlled trial evaluating response to bupivacaine occipital nerve block compared to Tylenol/Caffeine cocktail in treatment of pregnant patients seeking care of headache.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Women presenting to Maternal Evaluation Unit at UAB hospital\n2. Confirmed live intrauterine pregnancy (previous ultrasound, bedside ultrasound, fetal monitoring)\n3. Complaint of headache\n4. Minimal pain level of 4 on VRS\n\nExclusion criteria:\n\n1. Systolic BP \\>= 140 or diastol",
+      "endpoints": [
+        "Number of Participants With Response to Occipital Nerve Block in Pregnancy"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03951649"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05244889",
+      "title": "Digital Cognitive Behaviour Therapy for Insomnia in Chronic Migraines: Feasibility of a Randomised Controlled Trial",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-01-31",
+      "completion_date": "2025-03-31",
+      "country": "United Kingdom",
+      "enrollment": 88,
+      "brief_summary": "The overall aims of the study are:\n\nAim 1: Estimate effect sizes: To estimate the effects of dCBT-I on insomnia symptoms compared to a control group (sleep hygiene education) and estimate the relationship between changes in insomnia symptoms and the reduction in migraines.\n\nAim 2: Explore mechanisms of change: To explore the mechanisms underlining the change in migraine symptoms.\n\nAim 3: Assess barriers to conducting a full-scale RCT: To collect data on recruitment pace and dropouts in both grou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Women age 18 and above\n2. Insomnia, satisfied by a total score ≥ 11 on the insomnia severity index (ISI)\n3. Headache ≥ 15 days per month, ≥ 12 months and meet criteria for migraine with/without aura on ≥ 8 days per month, ≥ 12 months\n\nExclusion Criteria:\n\n1. Medical condition",
+      "endpoints": [
+        "Change in Insomnia Severity",
+        "Change in Migraine Days",
+        "Recruitment rate"
+      ],
+      "sponsor": "University of Strathclyde",
+      "url": "https://clinicaltrials.gov/study/NCT05244889"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06962046",
+      "title": "Can the Use of Virtual Reality Improve Outcomes Following Total Knee Arthroplasty With Spinal Anaesthesia? - A Pilot Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-10-16",
+      "completion_date": "2025-12",
+      "country": "United Kingdom",
+      "enrollment": 40,
+      "brief_summary": "Virtual reality (VR) uses computer technology to create a three-dimensional environment which the user can explore and interact with. VR can be used to distract the patient during an operation and has been used to avoid sedative premedication, increase patient satisfaction and decrease pain during nerve blocks. VR used alongside spinal anaesthetic for hip, knee and ankle operations has shown a trend of less sedation being required with no decrease in patient satisfaction.\n\nThe most common type o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients ≥ 18 years old who are American Society of Anaesthesiologists (ASA) grade 1 or 2 scheduled for routine primary elective knee arthroplasty.\n\nExclusion Criteria:\n\n* Patients who are ASA grade 3 or 4.\n* Patients who cannot use VR e.g. those with dementia.\n* Patients with",
+      "endpoints": [
+        "Feasibility of using VR during total knee arthroplasty with spinal anaesthesia"
+      ],
+      "sponsor": "Belfast Health and Social Care Trust",
+      "url": "https://clinicaltrials.gov/study/NCT06962046"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02582996",
+      "title": "National, Phase III, Multicenter, Randomized, Open, Parallel, to Evaluate the Efficacy, Safety and Superiority of Cefalium® Compared to the Tylenol® in the Treatment of Migraine Attacks",
+      "phase": "PHASE3",
+      "status": "SUSPENDED",
+      "start_date": "2020-04",
+      "completion_date": "2021-06",
+      "country": "Brazil",
+      "enrollment": 336,
+      "brief_summary": "National clinical trials, phase III, randomized, open, parallel, study of superiority, in which three hundred thirty-six (336) participants of both sexes, aged between 18 and 65 years will be randomly allocated to one of two treatment groups. The Group 01 will use Cefalium® and group 02 will use Tylenol®.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects of both gender;\n* Age older or equal to 18 and younger than 66 years if they have symptoms of migraine headache before 50 years of age;\n* Presence of migraine headache with or without aura symptoms, at least 03 months prior to the study, the criteria defined by Intern",
+      "endpoints": [
+        "Pain relief of Cefalium® compared to Tylenol®"
+      ],
+      "sponsor": "Ache Laboratorios Farmaceuticos S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02582996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02435056",
+      "title": "Continuous Monitoring of Medication Overuse Headache in Europe and Latin America: Development and STAndardization of an Alert and Decision Support System",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-06",
+      "country": "N/A",
+      "enrollment": 690,
+      "brief_summary": "Appropriate delivery of quality healthcare requires constant monitoring of the patient during follow up, particularly in the presence of chronic diseases. This approach can be further improved if leading edge tools supporting diagnosis, as well as prediction, identification and monitoring of adverse events are available. COMOESTAS aims to develop an innovative Information Communications Technology (ICT) system that allows patients with a chronic condition to receive continuous and personalized t",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients with MOH\n\nExclusion Criteria:\n\n1. a current diagnosis of co-existent, significant and complicating medical or psychiatric illnesses\n2. significant overuse of \"pure\" opioids (patients overusing combination drugs containing opioids are allowed), benzodiazepines, and barbi",
+      "endpoints": [
+        "Relapse Rate Follow up"
+      ],
+      "sponsor": "IRCCS National Neurological Institute \"C. Mondino\" Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT02435056"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04844229",
+      "title": "Bilateral Sphenopalatine Ganglion Block With or Without Bilateral Greater Occipital Nerve Block for Treatment of Obstetric Post-Dural Puncture Headache After Spinal Anesthesia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-06-20",
+      "completion_date": "2022-06-30",
+      "country": "Egypt",
+      "enrollment": 42,
+      "brief_summary": "Post-dural puncture headache is a common complication, following neuraxial techniques. The obstetric population is particularly prone to PDPH. Therefore, treatment of PDPH is a key issue in obstetric anesthesia. Conservative treatment for PDPH includes adequate hydration, systemic analgesia with paracetamol and non-steroidal anti-inflammatory drugs and increased caffeine intake, as well as bed rest. If these measures are unsuccessful, the gold standard for the treatment of PDPH is the epidural b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient acceptance.\n* Age 21- 40 years old.\n* Post-partum females suffering PDPH with visual analogue score (VAS) ≥ 4 and modified Lybecker classification score ≥ 2\n* ASA II (due to pregnancy).\n* Body mass index \\< 35Kg/m2\n* Accepted mental state of the patient.\n\nExclusion Cri",
+      "endpoints": [
+        "visual analogue scale"
+      ],
+      "sponsor": "Zagazig University",
+      "url": "https://clinicaltrials.gov/study/NCT04844229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02735070",
+      "title": "Phase III Study Comparing Coristina® D to Resfenol® in the Symptomatic Treatment of Common Cold",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-09",
+      "completion_date": "2017-03",
+      "country": "N/A",
+      "enrollment": 366,
+      "brief_summary": "The primary objective of this study is to evaluate the non-inferiority of Coristina® d in the symptomatic treatment of the common cold compared to Resfenol® comparator.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sign and date the informed consent form;\n2. Age between 18 and 60 years old;\n3. Symptoms of common cold not exceeding 72 hours must be present;\n4. It will be considered symptoms of the common cold the presence of at least 2 of the 10 symptoms following: runny nose, sneezing, ",
+      "endpoints": [
+        "Global Evaluation from 1 to 3 days after last dose"
+      ],
+      "sponsor": "Brainfarma Industria Química e Farmacêutica S/A",
+      "url": "https://clinicaltrials.gov/study/NCT02735070"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01172405",
+      "title": "A Clinical Multicenter, Phase III, Randomized, Double-blind, Prospective and Comparative Trial to Evaluate the Efficacy and Safety of the Combination of Ibuprofen + Caffeine in the Treatment of Headache Attacks, Compared to Ibuprofen Alone.",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2012-10",
+      "country": "N/A",
+      "enrollment": 144,
+      "brief_summary": "Based on established therapeutic effect of ibuprofen in the treatment of headache attacks, and the action of caffeine in promoting better results when combined with treatments of first choice in the treatment of headache, this study is designed to:\n\n* evaluate the efficacy of therapy with ibuprofen + caffeine in headache patients compared to ibuprofen alone;\n* evaluate the tolerability of the association ibuprofen + caffeine compared to ibuprofen alone.\n\nThe hypothesis is that the association is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with ability to read, understand and sign the IC;\n* Patients with symptoms of frequent episodic tension headache, mild to moderate;\n* Patients with symptoms of migraine with or without aura, of mild to moderate intensity;\n* Patients who have had between two and five h",
+      "endpoints": [
+        "Efficacy of study treatment compared with control to relieve headache symptoms."
+      ],
+      "sponsor": "Mantecorp Industria Quimica e Farmaceutica Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01172405"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07090421",
+      "title": "Varying Doses of Evening Caffeine Ingestion Have Different Effects on Rowing Ergometer Performance, Sleep Quality and Wakefulness Scores",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-07-24",
+      "completion_date": "2022-08-24",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 13,
+      "brief_summary": "The goal of this clinical trial is to learn how different doses of caffeine taken in the evening affect rowing performance, sleep quality, and daytime alertness in trained male university rowers. The main questions it aims to answer are:\n\nDoes a low, moderate, or high caffeine dose improve rowing performance? How do these doses affect sleep and recovery after evening exercise? Participants completed four rowing tests after consuming either a placebo, low (3 mg/kg), moderate (6 mg/kg), or high (9",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male university-level rowers\n* Aged approximately 22 ± 2.2 years\n* Minimum of 2 years of rowing training experience\n* Free of any medical condition that impairs exercise participation\n* Regular caffeine consumers (habitual daily intake recorded)\n* Voluntarily signed informed c",
+      "endpoints": [
+        "Change in 2000-meter Rowing Ergometer Completion Time (seconds) Following Varying Doses of Evening Caffeine Ingestion",
+        "Subjective Sleep Quality Score (5-point Likert Scale)",
+        "Mean Power Output (Watts) During 2000-meter Rowing Ergometer Trial"
+      ],
+      "sponsor": "Sinop University",
+      "url": "https://clinicaltrials.gov/study/NCT07090421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02169830",
+      "title": "A Prospective Randomized Cross-over Trial of Nortryptyline and Topiramate in the Initial Treatment of Vestibular Migraine.",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2014-08-22",
+      "completion_date": "2019-10-30",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "The investigators' study plans to randomize treatment naive patients with vestibular migraine to an 8 week trial of an escalating dose of either nortriptyline or topiramate followed by an 8 week crossover to the other drug if patient is willing, if patient wants to stay on first medication we will just continue to follow. During the first 8 weeks if there is an intolerance to the first drug they can be switched to the other drug at any point and then followed on that medication for the remainder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Men and women aged 18 to 70 with untreated vestibular migraine variant as diagnosed by history.\n\nExclusion Criteria:\n\n* Patients with allergies to nortriptyline or topiramate and their analogs or medication interactions that preclude their use.\n* Patients under the care of a ps",
+      "endpoints": [
+        "Evaluate the Comparative Effectiveness of Migraine Diet, Nortriptyline and Topiramate"
+      ],
+      "sponsor": "St. Louis University",
+      "url": "https://clinicaltrials.gov/study/NCT02169830"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03910088",
+      "title": "Oral Pregabalin Versus Intravenous Hydrocortisone in Treatment of Postdural Puncture Headache After Spinal Anesthesia for Elective Cesarean Section",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-04-20",
+      "completion_date": "2019-06-30",
+      "country": "Egypt",
+      "enrollment": 30,
+      "brief_summary": "Postdural puncture headache (PDPH) is a common complication after spinal anesthesia. The role of pregabalin and hydrocortisone in the treatment of PDPH is unclear. The aim of this work is to assess and compare the efficacy of both drugs in severe cases of PDPH after spinal anesthesia for elective cesarean section.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who underwent elective cesarean section under spinal anesthesia.\n* Patients aged 18 to 40 years old.\n* Patients classified as ASA I or II.\n\nExclusion Criteria:\n\n* Patients with known sensitivity to any of the used drugs.\n* Patients classified as ASA III or more.\n* Pre",
+      "endpoints": [
+        "Assessment of pain using Visual Analogue Scale"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT03910088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01408069",
+      "title": "Multicentric, Randomizade, Double Blind, Double Dummy To Non-Inferiority Comparison Of Migrane® Versus Parcel ® For Treatment Of Tensional Cephaleia",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the non-inferiority clinical efficacy of two different associations of drugs in the treatment of patients diagnosed with tensional-type headache in accordance with International Headache Society guidelines.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must be able to understand the study procedures agree to participate and give written consent.\n2. Tensional-type headache patients according to the International Headache Society criteria.\n3. Corporal body indices \\< 40.\n\nExclusion Criteria:\n\n1. Pregnancy or risk of ",
+      "endpoints": [
+        "Efficacy of treatment in relieve headache symptoms."
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT01408069"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02044757",
+      "title": "The Potentially Addictive Properties of Soda: A Feasibility Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2014-08",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study to investigate the addictive properties of soda and other sugar sweetened beverages (SBBs) in teenagers aged 13-18 years. It is hypothesized that participants who were regularly consuming sweetened and caffeinated beverages will experience symptoms typical of caffeine withdrawal, such as headache and fatigue, during the SSB withdrawal period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Drinks more than 36 ounces of sugar-sweetened beverages per day\n* Speaks fluent English\n* Parent speaks English or Spanish\n* Lives in San Francisco Bay Area\n\nExclusion Criteria:\n\n* Pregnant or nursing\n* Taking medication to address mental health issues",
+      "endpoints": [
+        "Symptoms of withdrawal"
+      ],
+      "sponsor": "University of California, Berkeley",
+      "url": "https://clinicaltrials.gov/study/NCT02044757"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04892290",
+      "title": "Effectiveness of Sphenopalatine Ganglion Block on Postdural Puncture Headache Treatment: A Retrospective Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-12-01",
+      "completion_date": "2020-05-19",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 110,
+      "brief_summary": "Background: Postdural puncture headache (PDPH), which is one of the complications of spinal anesthesia, is a condition that negatively affects the quality of life of patients, causes late mobilization and prolonged hospital stay. Sphenopalatine ganglion block (SGB) has created a minimally invasive, easy, and safe treatment alternative.\n\nObjective: Evaluating the effectiveness of topical SGB on PDPH treatment. Design: Retrospective observational study Setting: Single center tertiary level of care",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-65 years-old\n* not having any headache diagnosis (G44 and subgroup according to the International Classification of Diseases-10 classification),\n* developed PDPH according to the International Headaches Classification after the neuraxial procedure\n\nExclusion Criteria:\n\n* hi",
+      "endpoints": [
+        "Headache in Supine Position"
+      ],
+      "sponsor": "Sakarya University",
+      "url": "https://clinicaltrials.gov/study/NCT04892290"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03022838",
+      "title": "The Effects of Caffeine Withdrawal on Migraine - a Randomized, Double-blind, Crossover Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2017-02-28",
+      "completion_date": "2019-07-22",
+      "country": "Norway",
+      "enrollment": 10,
+      "brief_summary": "Sporadic and chronic dietary consumption of caffeine has substantial biological effects on the nervous system. The effects on migraine are at large not known. In this study we want to assess the effects of caffeine withdrawal on migraine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* migraine present for at least 1 year and fulfilling diagnostic criteria (ICHD-3 beta)\n* =/\\> 3 migraine attacks per month\n* no migraine prophylaxis the last month\n* consumption =/\\> 300 mg and \\</= 800 mg caffeine per day the last month\n* signed consent\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "Migraine days"
+      ],
+      "sponsor": "Nordlandssykehuset HF",
+      "url": "https://clinicaltrials.gov/study/NCT03022838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01659060",
+      "title": "Assessment of Blood Pressure and Endothelial Function Pregnancy After Acute and Daily Consumption Flavanol-rich Chocolate Among Healthy Pregnant Women: a Pilot Randomized Controlled Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2009-04",
+      "country": "Canada",
+      "enrollment": 44,
+      "brief_summary": "The purpose of this study is to to test the feasibility of design methods and procedures for later use on a larger scale and to examine the acute and chronic effect of consumption of flavanol-rich chocolate on endothelium function and blood pressure in healthy pregnant women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* non-smoking normotensive women aged from 18 to 35 years, between the 7 and 12 weeks of gestation (documented by ultrasound) and having a live fetus confirmed by fetal heart auscultation\n\nExclusion Criteria:\n\n* Patients with family history of premature cardiovascular disease\n* ",
+      "endpoints": [
+        "Changes in endothelial function and blood pressure"
+      ],
+      "sponsor": "Laval University",
+      "url": "https://clinicaltrials.gov/study/NCT01659060"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05804448",
+      "title": "Effect of Altitude on Postdural Puncture Headache After Caesarean Delivery: a Prospective, Multicentre Cohort Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-04-18",
+      "completion_date": "2026-04-20",
+      "country": "Nepal",
+      "enrollment": 292,
+      "brief_summary": "The aim of this study is to examine the effects of altitude (high altitude versus low altitude) on incidence and severity of postural puncture headache (PDPH) following spinal anaesthesia for caesarean delivery. The investigators hypothesized that the risk of PDPH would be higher in highlander parturients than in lowlander parturients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Parturient, aged more than or equal to 18 years\n* American society of Anesthesiologist 2 and 3\n* Scheduled for elective and non-elective (category 2 \\& 3) caesarean delivery with spinal anesthesia\n* Native to their resident altitude i.e., those born, raised, and have continuou",
+      "endpoints": [
+        "Number of patients with postdural puncture headache"
+      ],
+      "sponsor": "B.P. Koirala Institute of Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT05804448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06455774",
+      "title": "The Effect of Wearable Postural Feedback Devices Added to the Exercise Approach on Neck Pain and Proprioception in Office Workers With Nonspecific Chronic Neck Pain",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-11-01",
+      "completion_date": "2025-12-30",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 58,
+      "brief_summary": "The goal of this clinical trial is to investigate the effects of wearable postural feedback devices added to exercise approach on neck pain and proprioception in office workers with nonspecific chronic neck pain.\n\nH0: The effects of wearable postural feedback devices added to exercise and exercise approach on neck pain and proprioception are similar in office workers with nonspecific chronic neck pain.\n\nH1: The effects of wearable postural feedback devices added to exercise and exercise approach",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Complained of neck pain during work for at least 3 months,\n* Neck pain severity of 3 and above according to the Numerical Pain Rating Scale,\n* Office worker between the ages of 25-55,\n* Full-time and regular desk worker for the last 3 years,\n* Participants who use a computer a",
+      "endpoints": [
+        "Neck Pain",
+        "Proprioception"
+      ],
+      "sponsor": "Istanbul University - Cerrahpasa",
+      "url": "https://clinicaltrials.gov/study/NCT06455774"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05514756",
+      "title": "VINCI-AD: An Investigation of Transcutaneous Vagus Nerve Stimulation in Mild Cognitive Impairment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-06-01",
+      "completion_date": "2023-06-30",
+      "country": "Ireland",
+      "enrollment": 40,
+      "brief_summary": "The VINCI-AD study will investigate the impact of non-invasive vagus nerve stimulation (VNS) on memory in participants with existing mild memory impairment. VNS is a safe, existing treatment, licensed in epilepsy and depression. Until recently, stimulating the vagus nerve involved an operation (invasive VNS) but we can now perform VNS by stimulating a nerve in the outer ear with a very gentle current using a small earpiece, called transcutaneous vagus nerve stimulation (t-VNS). Previous studies ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mild Cognitive Impairment as defined by Clinical Dementia Rating Scale Global score of 0.5\n* one RBANS index indicating multi-domain amnestic MCI, amnestic MCI or non-amnestic MCI\n* native English speakers\n\nExclusion Criteria:\n\n* significant current depression\n* uncorrected vi",
+      "endpoints": [
+        "Safety of acute t-VNS in participants with MCI - assessed via orthostatic challenge",
+        "Safety of acute t-VNS in participants with MCI - assessed via structured assessments of adverse events (AEs) and serious adverse events (SAEs)",
+        "Tolerability of acute t-VNS in participants with MCI"
+      ],
+      "sponsor": "Tallaght University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05514756"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06505239",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Crossover Study to Assess the Safety and Efficacy of FSD-F2R6-A-CP in Volunteers in an Induced State of Alcohol Intoxication (METAL-2)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-07-12",
+      "completion_date": "2024-11-07",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "This will be a (2 visit) double-blind, randomized, placebo crossover design clinical study to assess the potential benefits of FSD-F2R6-A-CP versus a placebo by assessing its impact on side effect profiles as well as cognitive abilities, motor abilities, and breath alcohol concentration following ingestion of alcohol followed by the dietary supplement or placebo. This study will enroll healthy men and women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* English-literate, non-smoking (\\> 6 months),\n* Men and women aged 25 to 45 years,\n* Body mass index (BMI) of 18.5 to 32.0 kg/m2, and weighing between 110 and 220 lbs (50-100 kg).\n* Free of the diseases listed in exclusion criteria according to their medical history,\n* An ECG v",
+      "endpoints": [
+        "Intoxication",
+        "Impairment",
+        "Mental Fatigue"
+      ],
+      "sponsor": "Quantum Biopharma",
+      "url": "https://clinicaltrials.gov/study/NCT06505239"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01629329",
+      "title": "A Randomized, Double-blind Comparison of Single Dose Prochlorperazine Versus Acetaminophen, Aspirin and Caffeine for the Treatment of Acute Migraine in the Emergency Department.",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2014-07",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "The objective of this randomized, double blind study is to demonstrate that one dose oral \"excedrin migraine\" (acetaminophen, aspirin and caffeine) is not inferior when compared to one dose of intravenous prochlorperazine for the treatment of acute migraine headaches in the emergency department.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older\n* Headache must meet the IHS criteria for migraine or probable migraine\n\n  * 2 out of 4 of following:\n\n    * Unilateral location\n    * Throbbing (pulsating) quality\n    * Moderate to severe intensity (inhibits/prohibits daily activities)\n    * Exacerbation wi",
+      "endpoints": [
+        "Mean Difference From Baseline of VAS Pain Scores"
+      ],
+      "sponsor": "Albert Einstein Healthcare Network",
+      "url": "https://clinicaltrials.gov/study/NCT01629329"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02394457",
+      "title": "Cosyntropin Versus Epidural Blood Patch (EBP) for Treatment of Treatment of Post Dural Puncture Headache (PDPH)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2014-04",
+      "country": "N/A",
+      "enrollment": 29,
+      "brief_summary": "PDPH is a common problem after either intentional or unintentional Dural puncture. It is especially common in young female patients and in patients undergoing Lumbar Puncture using the typical kit containing large 20 gauge needles (1).\n\nHypothesis is that Cosyntropin therapy is at least as effective as current conservative therapy (caffeine/fluid) and/or Epidural Blood Patch.\n\nPatients will be randomly assigned to undergo either: (1) EBP with IVF therapy or (2)Cosyntropin IV with IVF therapy. En",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18 years of age or older,\n2. Diagnosed by Anesthesia provider as having PDPH\n3. Agrees to participation in study\n\nExclusion Criteria:\n\n1. In-patient status and/or unstable medical condition\n2. Patient's contraindication to EBP: Local infection at injection site, systemic infe",
+      "endpoints": [
+        "Headache Pain Score",
+        "Headache Pain Score",
+        "Headache Pain Score"
+      ],
+      "sponsor": "United States Naval Medical Center, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT02394457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07022496",
+      "title": "Assessment of Oral Caffeine Intake in Reducing the Severity of Acute Migraine Attack Among Patients Attending Headache and Neurology Outpatients Clinic of Ainshams University Hospitals: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-04-26",
+      "completion_date": "2025-08",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "Caffeine extracted from green tea to abort acute attack of Migraine",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients suffering from migraine with aura, migraine without aura, episodic, and chronic migraine according to ICHD-3 diagnosis will be legible for the study.\n\nExclusion Criteria:\n\nPatients who have history of any cardiac dysrhythmia, hypertension, ischemic heart disease, active",
+      "endpoints": [
+        "To reduce the severity of migraine attack"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT07022496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05938179",
+      "title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase II Study Evaluating the Efficacy and Safety of HS-10353 in Chinese Adults With Depression.",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-31",
+      "completion_date": "2025-04-30",
+      "country": "N/A",
+      "enrollment": 144,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled Phase II clinical study to evaluate the efficacy and safety of continuous oral administration of HS-10353 in Chinese adults with depression.HS-10353 is a new generation of GABAA receptor isomeric modulator developed by our company, which can correct the dysfunction of GABAA receptor function and restore the balance between GABA receptor and NMDA receptor. Oral administration of HS-10353 at night for 14 days is expected to reduce clinical sym",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 18 and 65 years (including the threshold);\n* Subjects should have a full understanding of the test content, process and possible adverse reactions, and voluntarily sign an informed consent form (ICF);\n* Participants met the Diagnostic and Statistical Manual of Men",
+      "endpoints": [
+        "Change From Baseline in the 17-item HAM-D Total Score at Day 15"
+      ],
+      "sponsor": "Jiangsu Hansoh Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05938179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06711731",
+      "title": "The Freiburg Registry on SpontanEous IntercrAnial Hypotension (SIH) & Post-duraL Puncture Headache (PDPH)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-11-04",
+      "completion_date": "2036-12-04",
+      "country": "Germany",
+      "enrollment": 2000,
+      "brief_summary": "Spinal CSF leaks are considered as rare disease. They cause a variety of symptoms, mainly culminating in a chronic headache syndrome. Crucially, yet often disregarded, the disease holds the potential for cure. The multitude of symptoms, and their inconsistency over time are just two of many challenges preventing timely diagnosis and treatment in many patients.\n\nSpinal CSF leaks can occur after intentional or accidental dural puncture (post-dural puncture headache - PDPH) or spontaneously (sponta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with suspected spinal CSF leak based on one of the following\n\n   * History of new orthostatic symptomes with or without prior spinal procedure\n   * Imaging suggestive for spinal CSF leak\n2. Informed consent\n\nExclusion Criteria:\n\na) Symptoms beeing conclusively explai",
+      "endpoints": [
+        "Primary Diagnosis given after primary workup (yes/no)"
+      ],
+      "sponsor": "University Hospital Freiburg",
+      "url": "https://clinicaltrials.gov/study/NCT06711731"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04616859",
+      "title": "Combination of Alcohol and Energy Drinks in a Binge Drinking Pattern: Acute Effects and Gender Differences",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-10-08",
+      "completion_date": "2021-12",
+      "country": "Spain",
+      "enrollment": 32,
+      "brief_summary": "The purpose of the study is to assess the relevance of gender in the acute effects (subjective, physiological and driving-related skills) observed after controlled administration of alcohol in a binge-drinking pattern mixed with energy drinks (AmED)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females between 18-40 years old, weight between 50 and 100 kg and BMI (BMI=weight/height²) between 20-28 kg/m². Lower or higher BMIs will be allowed, if the researchers considered that do not suppose a risk to the subjects and do not interfere with the objectives of",
+      "endpoints": [
+        "Change in subjective effects measured with Biphasic alcohol effects scale (BAES)",
+        "Change in psychomotor vigilance task (PVT)"
+      ],
+      "sponsor": "Fundació Institut Germans Trias i Pujol",
+      "url": "https://clinicaltrials.gov/study/NCT04616859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01248468",
+      "title": "A Multi-center, Randomized, Double-blind, Parallel-group Single-dose, Placebo-controlled Study Comparing the Efficacy and Safety of Acetaminophen, Aspirin and Caffeine With Sumatriptan in the Acute Treatment of Migraine.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 752,
+      "brief_summary": "The main purpose of this study is to compare the efficacy and safety of aspirin, acetaminophen and caffeine (AAC) with sumatriptan and placebo in the acute treatment of migraine.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Male or female aged 18 years and over.\n2. International Headache Society (IHS) diagnosis of migraine without aura or typical aura with migraine headache.\n3. History of experiencing at least 1, but not more than 8, acute migraine attacks monthly during the previous year.\n4. Hi",
+      "endpoints": [
+        "Percent of Subjects Who Are Pain Free at 2 Hours."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01248468"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05888324",
+      "title": "Factors Associated With the Onset of Chronic Headaches in Patients Who Received a Blood Patch, Following an Accidental Dural Puncture During Post Partum Period",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-06-06",
+      "completion_date": "2026-01",
+      "country": "France",
+      "enrollment": 98,
+      "brief_summary": "The purpose of this study is to identify possible links between conditions for carrying out a blood patch (BP) to treat accidental post dural puncture acute headache (PDPH) in the early post partum period and occurrence of chronic headaches at 1 and 6 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than or equal to 18 years old,\n* Vaginal delivery or caesarean section with epidural at the Port Royal maternity ward,\n* Collection of non-opposition after oral and written information,\n\nExclusion Criteria:\n\n* Patient under curatorship or guardianship\n* Not speakin",
+      "endpoints": [
+        "Description of the conditions of the accidental breach",
+        "Time to onset",
+        "Positional"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT05888324"
+    }
+  ],
+  "timestamp": "2026-03-04T15:55:59.835369",
+  "success": true,
+  "error_message": null
+}

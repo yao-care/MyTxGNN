@@ -1,0 +1,919 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Beclomethasone Dipropionate",
+    "disease": "asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01450774",
+      "title": "A Single Centre, Randomised, Double-blind, Double-dummy, 2-way Cross Over Study to Compare Safety Assessed by Knemometry and Urinary Cortisol Measurements of CHF1535 50/6 Pmdi (Fixed Combination of Beclomethasone Dipropionate and Formoterol Fumarate) and the Free Combination of Licensed Beclomethasone Dipropionate and Formoterol Fumarate in Asthmatic Children Already Treated With Inhaled Corticosteroids",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2014-02",
+      "country": "Denmark",
+      "enrollment": 72,
+      "brief_summary": "This is a single centre, double-blind, double-dummy, randomised, single-centre, 2-way cross-over study in asthmatic children already treated with inhaled corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prepuberal male and female outpatients, ≥ 5 and ≤ 11 years old in Tanner stadium I according to Investigator's assessment\n* Clinical diagnosis of mild asthma during at least two months prior to screening visit\n* Forced Expiratory Volume during the first second (FEV1) \\> 80% of",
+      "endpoints": [
+        "Lower leg growth rate measured by knemometry"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01450774"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04179461",
+      "title": "Personalized Treatment Algorithms for Difficult-to-treat Asthma: Bench to Community",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-03-16",
+      "completion_date": "2019-10-03",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Asthma is a common, complex and costly chronic condition. Moreover, asthma is heterogeneous in terms of treatment response. This heterogeneity contributes to the difficulty in both studying and treating asthma. This is a pilot study to improve health outcomes in youths with difficult to treat asthma with ongoing symptoms and healthcare utilization despite medium to high doses of inhaled corticosteroids. Asthma heterogeneity in both disease pathophysiology and treatment response contributes to th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of provider-diagnosed asthma\n* Meets one of the following definition for NAEPP guidelines uncontrolled moderate persistent asthma or severe persistent asthma in the past 12 months:\n\n  * NAEPP step 3-4 with one of the following criteria in the past 12 months:\n\n    * Two",
+      "endpoints": [
+        "Change in Composite Asthma Severity Index (CASI)"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04179461"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00861926",
+      "title": "48-week,Multinational,Randomized,Double-blind,2-parallel Groups,Comparing the Efficacy of Foster for Maintenance and Reliever Versus Fixed-dose Foster for Maintenance Plus Salbutamol as Reliever in Asthmatics >=18 Years of Age",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2011-04",
+      "country": "Italy",
+      "enrollment": 2079,
+      "brief_summary": "Double-blind, multinational, multicentre, randomized, 2-arm parallel-group study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written signed and dated informed consent obtained.\n* Male or female patients aged ≥ 18 years.\n* A positive reversibility test\n* Patients who experienced at least one severe exacerbation in the 12 months before entry (but not in the last month)\n* Using inhaled corticosteroids ",
+      "endpoints": [
+        "Time to first severe asthma exacerbation"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT00861926"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00921921",
+      "title": "Does Extra-fine HFA-BDP Suppress Small Airways Inflammation in COPD?",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2011-10",
+      "country": "United Kingdom",
+      "enrollment": 16,
+      "brief_summary": "Chronic obstructive pulmonary disease or 'COPD' is a chronic disease, which means that it cannot be cured, but that inhalers and tablets can be used to control the symptoms. In COPD, the airways become inflamed which can cause coughing and make the airways tighten. This 'inflammation' is the root of the problem in COPD.\n\nThe airways of the lung start in the windpipe and branch like the branches of a tree, getting smaller and smaller. In COPD the inflammation is deep in the lungs, out to the very",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current or ex-smokers\n* \\> 40 years of age with a greater than 15 pack year history of smoking\n* post-bronchodilator FEV1/FVC ratio \\< 0.7\n* FEV1 \\< 80% predicted\n* CANO \\> 3 ppb at screening\n* Informed consent and ability to perform exhaled nitric oxide assessment\n\nExclusion ",
+      "endpoints": [
+        "Alveolar Nitric Oxide"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00921921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06970080",
+      "title": "Therapeutic Relevance of Abnormal Airway Morphology in Asthma: A Path to Optimized Management and Drug Development (AirPATH Study)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-06-02",
+      "completion_date": "2028-06",
+      "country": "Canada",
+      "enrollment": 242,
+      "brief_summary": "Most individuals with asthma can effectively manage their symptoms and maintain normal lung function using inhaled medications, unfortunately, there is a subset of asthma sufferers whose symptoms, lung function, and risk of asthma attacks remain unimproved despite conventional inhaled medications. There could be several reasons for this. One possibility is that inhaled medications fail to reach the intended areas within the lungs, due to structural abnormalities within the airways themselves. Mu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able and willing to provide written informed consent.\n* Able and willing to comply with the study protocol.\n* Males and females ≥ 18 years of age.\n* Asthma diagnosed by a respiratory physician.\n* Airway hyperresponsiveness (defined as methacholine PC20 ≤8mg/mL) and/or bronchod",
+      "endpoints": [
+        "Biological response to additional ICS",
+        "Biological response to add-on OCS"
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT06970080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04480242",
+      "title": "Assessment of Children and Adolescents With Asthma: An Observational Prospective Study",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-07-26",
+      "completion_date": "2030-12-31",
+      "country": "Spain",
+      "enrollment": 525,
+      "brief_summary": "The purpose of this study is to assess the evolution of disease control, health-related quality of life, and the risk of severe asthma exacerbations in children and adolescents with persistent asthma in Spain at short, mid and long-term follow-up. Patient-reported information in this project is collected by computer assisted telephone interviews (CATI) and a mobile application (ARCA App).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children or adolescents aged 6-14.\n* Clinical diagnosis of asthma.\n* Undergoing treatment with inhaled corticosteroids (alone or combined with long-acting beta-agonists) for more than 6 months in the previous year.\n* With access to a smart phone (their own, or their parents').",
+      "endpoints": [
+        "Change from baseline in symptoms control, measured with the Asthma Control Questionnaire (ACQ)",
+        "Change from baseline in Health-Related Quality of Life, measured with the EuroQol",
+        "Number of severe asthmatic exacerbations"
+      ],
+      "sponsor": "Parc de Salut Mar",
+      "url": "https://clinicaltrials.gov/study/NCT04480242"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01741285",
+      "title": "Effects Of Extra-fine Particle HFA-becLomethasone (HFA-QVAR) Versus Course Particle Treatment In Smokers and Ex-smokers With Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2015-12",
+      "country": "Netherlands",
+      "enrollment": 40,
+      "brief_summary": "We hypothesize that extra-fine particle treatment with HFA-QVAR will be superior in improving small airways dysfunction, especially in ex-smokers and smokers with asthma.\n\nTo investigate this, we will perform a study comparing the efficacy of extra-fine particle HFA-QVAR 200 µg b.i.d. to an equipotent dose of course particle HFA-beclomethasone (HFA-Clenil) 400 µg b.i.d. and with coarse particle HFA-fluticasone (GSK) 250 µg in ex-smokers and smokers with asthma.\n\nStudy design: This study will be ",
+      "eligibility_criteria": "3.1 Inclusion criteria\n\nIn order to be eligible to participate in this study, a subject must meet all of the following criteria:\n\n* Males and females with a doctor's diagnosis of asthma\n* Age between 18 and 65 years\n* Current- and ex-smokers with ≥ 5 packyears.\n* Drop in FEV1 \\> 20% after provocatio",
+      "endpoints": [
+        "PD20 Adenosine"
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "url": "https://clinicaltrials.gov/study/NCT01741285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03341403",
+      "title": "Assessment of the Impact of a Dietary Supplement Synbiotic \"Probiotical ®/Bactecal®\" in Asthma",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-01-17",
+      "completion_date": "2020-09-30",
+      "country": "Belgium",
+      "enrollment": 55,
+      "brief_summary": "It is a randomized double blind placebo control study. One hundred severe asthmatic patients will receive \"Probiotical ®/Bactecal®\" each day during 3 months and will be evaluated before and 1-3-6 months after in order to assess the impact of the synbiotic on the lung function, the exhaled nitric oxide value, the inflammatory blood and sputum profiles, the bronchial reactivity, the microvascular health and the quality of life and asthma control. The hypothesis is that, as these patients are not o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* severe asthma (ACQ \\>1.5 and treatment = minimum 200 µg beclomethasone) and stable treatment for at least 3 months.\n\nExclusion Criteria:\n\n* treatment not stable\n* exacerbation state\n* infection",
+      "endpoints": [
+        "ACQ improvement"
+      ],
+      "sponsor": "University of Liege",
+      "url": "https://clinicaltrials.gov/study/NCT03341403"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482294",
+      "title": "CIVETTA: Correlating Inflammatory Values of FEno, SympToms, SpuTum and Lung Function in Asthma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-06-18",
+      "completion_date": "2025-07-01",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Single-center, interventional, open-label, randomized phase II study aimed at describing the changes in airway inflammation at the onset of asthma symptoms that lead to the use of rapid acting bronchodilator (RABD) as a rescue medication in a mild to moderate asthma population. The study will assess whether there are differences in the airway inflammation profile in patients using a reliever medication containing ICS (anti-inflammatory rescue strategy) compared to a reliever medication containin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients already followed for asthma according to ERS/ATS criteria\n* Mild and moderate asthma (GINA steps 1-3), with the exclusion of patients with severe asthma (GINA steps 4-5).\n\nExclusion Criteria:\n\nSevere asthma (Gina steps 4 and 5)\n\n* Inability to give informed consent\n* ",
+      "endpoints": [
+        "To evaluate airway inflammation characteristics and changes at the onset of asthma symptoms requiring as-needed therapy (RABD) and the impact of inhaled steroid therapy in addition to RABD on airway inflammation"
+      ],
+      "sponsor": "Università degli Studi di Ferrara",
+      "url": "https://clinicaltrials.gov/study/NCT06482294"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01584492",
+      "title": "Double Blind, Double Dummy, Cross-over Study to Compare the Bronchodilator Effect of CHF1535 pMDI (Fixed Combination of Beclometasone 50 µg + Formoterol 6 µg) Versus Free Combination of Beclometasone Plus Formoterol pMDI in Asthmatic Children",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2013-02",
+      "country": "Ukraine, Poland",
+      "enrollment": 59,
+      "brief_summary": "The purpose of this clinical study is to compare the improvement in breathing of single administration of CHF 1535 50/6 pMDI (fixed combination of a corticosteroid drug beclomethasone 50 µg + formoterol 6 µg/puff, 2 inhalations, total dose 100/12 µg) given with spacer versus free combination of beclomethasone 50 µg/puff pMDI (2 inhalations, total dose 100 µg) given with spacer plus formoterol 6 µg/puff pMDI (2 inhalations, total dose 12 µg) given with spacer in terms of FEV1 from 0 to 12 hours i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent obtained from the parents/legal representatives and/or the subject (if and when appropriate)\n* Prepuberal male and female outpatients, aged ≥ 5 and \\< 12 years (Tanner stage I and II)\n* Clinical diagnosis of asthma according to Global Strategy for Asth",
+      "endpoints": [
+        "bronchodilator effect of test treatment"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01584492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00476268",
+      "title": "A 24-week Phase III Study to Evaluate the Efficacy and Tolerability of Beclometasone/Formoterol Single Inhaler HFA 134a-pMDI in Adult Patients With Moderate to Severe Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-01",
+      "country": "N/A",
+      "enrollment": 824,
+      "brief_summary": "Efficacy and tolerability of the fixed combination beclometasone/formoterol in patients with moderate to severe persistent asthma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of moderate to severe persistent asthma (according to GINA 2002 guidelines)\n* FEV1 \\> 40% and \\< 80% of predicted normal post-bronchodilator (and at least 0.7 L absolute value)\n* Patients already treated for at least 2 months with an association of inhaled c",
+      "endpoints": [
+        "Pre-dose morning PEF"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT00476268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03859414",
+      "title": "A Single-center, Randomized, Double-blind, Single Dose, 4-way Cross-over, Placebo-controlled Ethnic Sensitivity Study to Assess the Pharmacokinetics (PK), Pharmacodynamics (PD), Safety, and Tolerability of Different Dosages of CHF 5993 Pressurized Metered Dose Inhaler (pMDI) in Caucasian and Japanese Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-03-18",
+      "completion_date": "2019-07-24",
+      "country": "United Kingdom",
+      "enrollment": 32,
+      "brief_summary": "The purpose of conducting this study is to obtain PK data of Beclometasone Dipropionate (BDP)/Beclometasone-17-MonoPropionate (B17MP), Formoterol Fumarate (FF) and Glycopyrronium Bromide (GB) after inhalation of CHF 5993 in Japanese as well as Caucasian healthy subjects under the same setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject's written informed consent obtained prior to any study related procedure;\n* Healthy male and female subjects aged 20 to 55 years inclusive;\n* For Japanese subjects: must be a Japanese subject who has resided outside Japan for no more than 5 years, born in Japan and hol",
+      "endpoints": [
+        "Area Under the Curve (AUC) of B17MP, formoterol and GB",
+        "Maximum of Concentration (Cmax) of B17MP, FF and GB"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03859414"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000578",
+      "title": "NHLBI/NICHD Collaborative Studies of Asthma in Pregnancy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1994-04",
+      "completion_date": "2000-10",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "To conduct a collaborative program of research on asthma and pregnancy consisting of two studies: the Asthma in Pregnancy Study (APS) was an observational study to evaluate relationships between asthma severity and treatment programs and perinatal outcome, and the Asthma Therapy in Pregnancy Trial (ATPT) was a randomized clinical trial of inhaled beclomethasone versus theophylline in the treatment of moderate asthma during pregnancy. Both studies were conducted in the Maternal-Fetal Medicine Uni",
+      "eligibility_criteria": "Asthmatic pregnant women.",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06678191",
+      "title": "Effectiveness of BDP/FF/G 172/5/9 Fixed Triple Combination on Symptom Scores in Asthma Patients After 6 Months Treatment",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-10-24",
+      "completion_date": "2027-08-31",
+      "country": "Hungary",
+      "enrollment": 800,
+      "brief_summary": "The mainstay of asthma treatment are ICSs, mostly combined with LABA. In the past decade LAMA had been accepted as an add-on treatment for patients on GINA treatment Steps 4 and 5. Recently, RCTs proved the efficacy and safety of fixed triple combinations of moderate and high dose of ICS and LABA, LAMA in a very selected asthmatic population, resulting in the market authorisation of these products. However, there is a lack of evidence on the real-world effectiveness of these therapies, especiall",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n* Physician-confirmed clinical diagnosis of asthma according to GINA guidelines and treated for at least 3 years before inclusion\n* Patients ≥ 18 years of age in ambulatory care\n* Uncontrolled asthma according to the physician's clinical assessment despite the use of\n\n  1. LABA ",
+      "endpoints": [
+        "Asthma control Test",
+        "Asthma control Test 2"
+      ],
+      "sponsor": "Chiesi Hungary Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06678191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02676076",
+      "title": "A 52 WEEK, RANDOMIZED, DOUBLE BLIND, MULTINATIONAL, MULTICENTRE, ACTIVE CONTROLLED, 2-ARM PARALLEL GROUP TRIAL COMPARING CHF 5993 100/6/12.5 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE PLUS GLYCOPYRRONIUM BROMIDE) TO CHF 1535 100/6 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETHASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE) IN PATIENTS WITH ASTHMA UNCONTROLLED ON MEDIUM DOSES OF INHALED CORTICOSTEROIDS IN COMBINATION WITH LONG ACTING ß2 AGONISTS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02-17",
+      "completion_date": "2018-05-17",
+      "country": "Germany",
+      "enrollment": 1153,
+      "brief_summary": "The purpose of this study is to evaluate the superiority of CHF 5993 100/6/12.5 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate plus glycopyrronum bromide) versus CHF 1535 100/6 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate), in terms of lung functions parameters and rate of exacerbations, as well as to assess its safety and some health economics outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of asthma ≥ 1 year and diagnosed before 40 years old\n* Uncontrolled asthma with double therapy only on medium doses of Inhaled CorticoSteroid (ICS) in combination with Long-acting beta2 Agonist (LABA) with ACQ-7 (Asthma Control Questionnaire) ≥1.5\n* Pre-bronchodilator ",
+      "endpoints": [
+        "Pre-dose FEV1 (Forced Expiratory Volume in the first second)",
+        "Reduction of moderate and severe asthma exacerbations rate"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02676076"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03084718",
+      "title": "An 8-week, Multicenter, Randomized, Double-blind, Placebo and Active-controlled, Parallel Group, Dose-ranging Study to Evaluate the Efficacy and Safety of 3 Doses of CHF 718 pMDI (HFA Beclomethasone Dipropionate Via Pressured Metered Dose Inhaler) in Asthmatic Subjects.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-07-28",
+      "completion_date": "2018-12-05",
+      "country": "United States",
+      "enrollment": 610,
+      "brief_summary": "The purpose of this study is to evaluate the dose-response of different doses of CHF 781 Pressurized Metered Dose Inhaler (pMDI) on lung function and other clinical outcomes, to identify the optimal dose(s) in terms of benefit/ risk ratio for further development in the target patient population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects aged ≥18 and ≤75 years who have signed an Informed Consent form prior to initiation of any study-related procedure.\n* A diagnosis of asthma as defined in the Global Initiative for Asthma (GINA) Report, 2016, documented for at least 1 year prior to scree",
+      "endpoints": [
+        "Pre-dose Morning FEV1 at Week 8 - Change From Baseline"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03084718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01620099",
+      "title": "Small Airways Involvement in Smoker Asthmatic Patients: a Pilot Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-04",
+      "country": "Germany, Italy",
+      "enrollment": 60,
+      "brief_summary": "Asthma is an inflammatory disease affecting the whole respiratory system, from central to peripheral airways. Anti-inflammatory treatment with inhaled corticosteroids (ICS), with or without long-acting β2-adrenoceptor agonists (LABA), is the cornerstone of asthma management \\[GINA Guideline - available at www.ginasthma.com\\]. Nevertheless, a considerable subset of asthmatic patients neither benefits from ICS nor gain optimal asthma control even with ICS/LABA combinations.\n\nThe involvement of the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged 18-50 years old, at stage 2-3 according to GINA international guidelines\n* patients must be free from an exacerbation from at least 2 months\n* patients must be on inhaled treatment (ICS alone or combination ICS/LABA) other than extrafine formulations from at leas",
+      "endpoints": [
+        "slope of phase III (dN2) by nitrogen single breath test"
+      ],
+      "sponsor": "Università degli Studi di Ferrara",
+      "url": "https://clinicaltrials.gov/study/NCT01620099"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02148120",
+      "title": "A Phase II, Multicentre, Double-blind, Randomised, 5-way Crossover Study to Test the Non-inferiority of the Acute Bronchodilator Effect of CHF 1535 200/6 µg NEXThaler Versus CHF 1535 100/6 µg NEXThaler in Partially Controlled and Uncontrolled Adult Asthmatic Patients.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-04",
+      "completion_date": "2014-10",
+      "country": "United Kingdom",
+      "enrollment": 60,
+      "brief_summary": "The aim of the study is to demonstrate the non-inferiority in terms of acute bronchodilator effect between a single dose of CHF 1535 NEXThaler 200/6 µg and a single dose of CHF 1535 NEXThaler 100/6 µg at two dose levels in partially controlled and uncontrolled asthmatic patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient's written informed consent obtained prior to any study-related procedures.\n* Male or female aged between 18 and 65 years inclusive;\n* Evidence for \"partially controlled\" or \"uncontrolled\" asthma;\n* Medium daily dose of previous inhaled corticosteroids (ICS) treatment;\n",
+      "endpoints": [
+        "FEV1 Area under the curve"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02148120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01520688",
+      "title": "A Randomized, Cross Over Study Evaluating the Effect of Flovent Discus 100 mcg BID vs QVAR 80 mcg BID vs Pulmicort Flexhaler 180 mcg BID on Short Term Growth in Pediatric Subjects With Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2016-02",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "Children with mild persistent asthma that have asthma symptoms once or twice a week and use a daily controller, while children with mild intermittent asthma rarely have asthma symptoms and do not use a daily controller. Inhaled corticosteroids are the standard treatment for mild peristent asthma. The purpose of this study is to measure children rate of growth while on different inhaled corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will include females (6 to 9 years of age) and males (6 to 11 years of age).\n2. All subjects must have a history of physician diagnosed mild intermittent or mild persistent asthma as documented by PCP medical record or detailed history by study investigator.\n3. All s",
+      "endpoints": [
+        "Short-term Lower Leg Growth During Treatment With Flovent Diskus 100 mcg BID or Pulmicort Flexhaler 180 mcg BID."
+      ],
+      "sponsor": "West Penn Allegheny Health System",
+      "url": "https://clinicaltrials.gov/study/NCT01520688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02676089",
+      "title": "A 52 WEEK, RANDOMIZED, DOUBLE BLIND, MULTINATIONAL, MULTICENTRE, ACTIVE CONTROLLED, 3-ARM PARALLEL GROUP TRIAL COMPARING CHF 5993 200/6/12.5 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE PLUS GLYCOPYRRONIUM BROMIDE) TO CHF 1535 200/6 µg pMDI (FIXED COMBINATION OF EXTRAFINE BECLOMETHASONE DIPROPIONATE PLUS FORMOTEROL FUMARATE) ALONE OR ON TOP OF OPEN-LABEL TIOTROPIUM 2.5 µg RESPIMAT® IN PATIENTS WITH ASTHMA UNCONTROLLED ON HIGH DOSES OF INHALED CORTICOSTEROIDS IN COMBINATION WITH LONG-ACTING ß2-AGONISTS",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-04-06",
+      "completion_date": "2018-05-28",
+      "country": "Bulgaria, Spain, Czechia, Turkey (Türkiye), Russia, Belarus, Hungary, Italy, Germany, Lithuania, Slovakia, Ukraine, Portugal, Romania, Poland, United Kingdom, Argentina",
+      "enrollment": 1433,
+      "brief_summary": "The purpose of this study is to evaluate the superiority of CHF 5993 200/6/12.5 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate plus glycopyrronium bromide) versus CHF 1535 200/6 µg pMDI (fixed combination of extrafine beclometasone dipropionate plus formoterol fumarate) and to compare the effect of CHF 5993 200/6/12.5 µg pMDI vs CHF 5993 200/6/12.5 µg plus open-label Tiotropium 2.5µg, in terms of lung functions parameters and rate of exacerbations, as",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of asthma ≥ 1 year and diagnosed before 40 years old\n* Uncontrolled asthma with double therapy only on high doses of Inhaled CorticoSteroid (ICS) in combination with Long-Acting Beta2 Agonist (LABA) with ACQ-7 (Asthma Control Questionnaire) ≥1.5\n* Pre-bronchodilator FE",
+      "endpoints": [
+        "Pre-dose FEV1 (Forced Expiratory Volume in the first second)",
+        "Reduction of moderate and severe asthma exacerbations rate"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02676089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02975843",
+      "title": "Open Label, Uncontrolled, Non-randomized, Single Dose, Scintigraphic Study to Investigate Lung Deposition of Inhaled 99mTc Radiolabelled CHF5993 pMDI in Healthy Volunteers, Asthmatic and COPD Patients",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11-21",
+      "completion_date": "2017-04-11",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study is to investigate the lung deposition and distribution pattern of Beclometasone dipropionate/Formoterol Fumarate/Glycopyrronium Bromide using a Gamma-scintigraphic technique after inhalation of a single dose of 99mTc radiolabelled CHF 5993 Administered via pMDI in healthy volunteers, asthmatic and COPD patients.",
+      "eligibility_criteria": "Inclusion Criteria for all subjects:\n\n1. Subject's written informed consent obtained prior to any study-related procedure\n2. Body mass index (BMI) between 18 and 32 kg/m2\n3. Ability to understand the study procedures and the risks involved and ability to be trained to use the devices correctly at sc",
+      "endpoints": [
+        "Intrapulmonary Lung deposition expressed as % of nominal dose"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT02975843"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05352191",
+      "title": "Beclomethasone in Healthy Athletes, Detection in Blood and Urine, and the Effect on Aerobic Performance",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-09-01",
+      "completion_date": "2024-01-01",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "The present study aims to assess her urine concentration of beclomethasone during and after one week of use according to the World Antidoping agency's regulations. The study will assess utility of dried blood spots to detect use of beclomethasone and the effect approved use of beclomethasone has on endurance performance in healthy (non-asthmatic ) athletes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nHealthy Maximal oxygen uptake \\>60 in male and \\>50 in female Signed informed consent.\n\n\\-\n\nExclusion Criteria:\n\nIntention to compete within 3 days after last dose of medicament Asthma diagnosis Use of anti-asthmatic medication last 12 months Upper chest infection last 4 weeks C",
+      "endpoints": [
+        "20km cycling timetrial performance"
+      ],
+      "sponsor": "Western Norway University of Applied Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT05352191"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02298205",
+      "title": "Asthma Symptom Based Adjustment of Inhaled Steroid Therapy in African American Children",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2017-10-31",
+      "country": "United States",
+      "enrollment": 206,
+      "brief_summary": "African American (AA) children carry a disproportionate burden of mortality and morbidity in asthma. A major contributor to racial disparity in asthma is lack of adherence to guideline-recommended use of daily inhaled corticosteroids (ICS). Symptom-based adjustment (SBA) of ICS is a recently described patient-centered approach to asthma therapy in which patients adjust their ICS on a day-to-day basis guided by their symptoms. The overall goal of our study is to identify an acceptable, pragmatic ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients 6-17 years old with physician diagnosed asthma for at least 6 months\n2. Self or parent reported AA Race, or mixed race with at least one grandparent with AA race\n3. Receiving asthma care by the participating primary care pediatrician\n4. Prescribed low dose ICS monoth",
+      "endpoints": [
+        "asthma control (change in score of asthma control test)"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02298205"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729351",
+      "title": "Comparative Effectiveness of Extrafine Hydrofluoroalkane Beclometasone Versus Fluticasone and Chlorofluorocarbon Beclometasone in Smoking Asthma - a Retrospective, Real-life Observational Study in a UK Primary Care Asthma Population",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-06",
+      "country": "N/A",
+      "enrollment": 7195,
+      "brief_summary": "To evaluate the comparative effectiveness of extrafine hydrofluoroalkane beclometasone (EF HFA-BDP) and other inhaled corticosteroid (ICS) therapy commonly used in the UK, specifically fluticasone (FP) and non-extrafine (NEF) BDP (CFC-BDP and NEF HFA-BDP) in a UK primary care asthma population of current smokers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 16-70 years\n* Current smokers - explicitly coded in patient records or captured in patient questionnaires\n* Evidence of asthma diagnosis and current therapy: ≥2 prescriptions for asthma at different points in time during the baseline year ± a diagnostic code for asthma\n* ",
+      "endpoints": [
+        "Asthma Control proxy incorporating SABA use",
+        "Asthma Exacerbations (ATS Definition)"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01729351"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01006655",
+      "title": "The Effect of HFA - Beclomethasone Dipropionate - Qvar - on Bronchial Hyperreactivity in Preschool Children",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-03",
+      "country": "Israel",
+      "enrollment": 21,
+      "brief_summary": "Respiratory diseases including Asthma are high prevalent among preschool children. Specific treatment, nowadays, include steroid inhalers and anti leukotrienes. It is known that the amount of the drug reaching small airways and lungs is bigger how much smaller the particles liberated by inhalers. Beclometasone is being used for treating asthma for 30 years. Lately emerged a new presentation of beclometasone, which liberates particles as small as 2.1 µg, that is supposed to reach the small airway",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical diagnosis of mild asthma\n* children aged between 3 - 6 years old\n* able to perform spirometry and adenosine challenge test\n* positive challenge test at the time of inclusion\n* without prophylactic treatment for asthma\n* signed informed consent to join the research by ",
+      "endpoints": [
+        "Adenosine Challenge Test"
+      ],
+      "sponsor": "Rambam Health Care Campus",
+      "url": "https://clinicaltrials.gov/study/NCT01006655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01242098",
+      "title": "Retrospective, Real-life Observational, Matched Cohort Evaluation of the Effectiveness of BDP/FOR (Fostair® 100/6) and FP/SAL (Seretide® 125) in Patients Switching From Seretide to Fostair in UK Primary Care Asthma Management",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2011-12",
+      "country": "United Kingdom",
+      "enrollment": 137,
+      "brief_summary": "The purpose of this study is to evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged:\n\n  * 18-60 years:\n  * 61-80 years who are never-smokers\n* Evidence of asthma:\n\n  * a diagnostic code for asthma, or\n  * ≥2 prescriptions for asthma at different points in time during the prior year\n* Baseline FP/SAL therapy:\n\n  * ≥2 prescription for ICS/LABA therapy as F",
+      "endpoints": [
+        "Exacerbation rate"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01242098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06786767",
+      "title": "A Prospective Non-interventional Real-world Study Assessing the Effectiveness of Extrafine BDP/FF/G (Beclometasone Dipropionate/Formoterol Fumarate/Glycopyrronium) 172/5/9 mcg, (Pressurised Inhalation, Solution) Single Inhaler Triple Therapy (SITT) on Symptom Scores in Asthma Patients After 6 Months Treatment",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-02-01",
+      "completion_date": "2026-02-15",
+      "country": "Bulgaria",
+      "enrollment": 281,
+      "brief_summary": "The mainstay of asthma treatment are ICSs, mostly and usually combined with LABA. In the past decade LAMA had been accepted as an add-on treatment for patients on GINA treatment Steps 4 and 5. Recently, RCTs proved the efficacy and safety of fixed triple combinations of moderate and high dose of ICS and LABA, LAMA in a very selected asthmatic population, resulting in the market authorization of these products. However, there is a lack of evidence on the real-world effectiveness of these therapie",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Physician-confirmed clinical diagnosis of asthma according to GINA guidelines and treated for at least 3 years before inclusion\n2. Patients ≥ 18 years of age in ambulatory care\n3. Patients who are eligible for the use of Trimbow 172/5/9 μg pMDI according to the SmPC\n\n   1. pa",
+      "endpoints": [
+        "Asthma Control Test",
+        "Asthma Control Test - 2"
+      ],
+      "sponsor": "Chiesi Bulgaria",
+      "url": "https://clinicaltrials.gov/study/NCT06786767"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01329939",
+      "title": "The Effect of Montelukast on Asthma Control in Overweight/Obese Atopic Asthmatics",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2014-09",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "Background: In recent years, the prevalence of both asthma and obesity has risen dramatically among children and adolescents in the United States. Given the concurrent rise in the two epidemics, there may be an underlying link. Obesity contributes to asthma severity and control, and may play a role in its underlying cause. Obesity is associated with a state of heightened inflammation that may lead to an increase asthma symptoms and severity. Obese adult patients treated with montelukast, an anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* mild to moderate persistent asthma based on 2007 NIH Asthma Guidelines\n* age 7-17 years old\n\nExclusion Criteria:\n\n* present smoking or smoking history\n* other significant pulmonary or cardiac condition\n* recent (within the past three months) use of montelukast\n* on allergen im",
+      "endpoints": [
+        "Asthma Control Test (ACT) Scores"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT01329939"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03834012",
+      "title": "A Randomized, Parallel Group, Placebo-controlled, Multicenter Phase 3 Study With a PK Sub-group Study With Beclomethasone HFA at 400 μg and 800 μg Daily Doses Compared to Placebo and QVAR in Persistent Asthma.",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2019-02",
+      "completion_date": "2020-04",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Approximately 480 (120 per group) would need to complete the 6 weeks of treatments.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Male or female subjects (between ≥ 12 and ≤ 80 years old). Females may be of either childbearing or non-childbearing potential. All females of childbearing potential must be either abstinent from sexual intercourse or using adequate contraception and must also have a negative ",
+      "endpoints": [
+        "Change from baseline in FEV1 percent predicted compared to placebo"
+      ],
+      "sponsor": "Adamis Pharmaceuticals Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT03834012"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00395408",
+      "title": "A Multicenter, Double-Blind, Randomized, Parallel-Group Study Comparing the Effect on Linear Growth of Montelukast With Placebo and Inhaled Beclomethasone in Pediatric Patients (Prepubertal, Tanner Stage I) With Mild Asthma",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-06",
+      "completion_date": "2003-12",
+      "country": "N/A",
+      "enrollment": 360,
+      "brief_summary": "The purpose of this study is to compare the effect of montelukast with placebo and beclomethasone on the average rate of linear growth over a period of 56 weeks in children with mild asthma.",
+      "eligibility_criteria": "Inclusion Criteria :\n\n* Boys (aged 6 to 8 years at Visit 1) at Tanner Stage I (prepuberty)\n* Girls (aged 6 to 7 years at Visit 1) at Tanner Stage I (prepuberty\n* With at least a 6-month history of asthma with typical symptoms (including, but not limited to cough, wheeze, and shortness of breath, wit",
+      "endpoints": [
+        "To establish the difference in the average rate of linear growth over the 56-week double-blind treatment period between the montelukast and placebo groups"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00395408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00497237",
+      "title": "Prospective, Randomised, Open-label, Multicentre, Active Drug Controlled, Parallel Group Design Clinical Trial of the Efficacy and Safety of Beclomethasone Dipropionate 400 mcg + Formoterol 24 mcg pMDI Via HFA-134a (Foster™) vs. Fluticasone Propionate 500 mcg + Salmeterol Xinafoate 100 mcg DPI (Seretide Diskus®) in the 6 Months Stepdown Treatment of Adult Patients With Controlled Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2010-03",
+      "country": "Ukraine, Bulgaria, Italy",
+      "enrollment": 382,
+      "brief_summary": "Asthma is a serious global health problem. People of all ages in countries throughout the world are affected by this chronic airway disorder that can be severe and sometimes fatal. The prevalence of asthma is increasing everywhere, especially among children.According to international guidelines, once control of asthma is achieved and maintained for at least 3 months, a gradual reduction of the maintenance therapy should be tried in order to identify the minimum therapy required to maintain contr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients will be enrolled for screening at Visit 1 into the run-in period if they meet all the following criteria:\n* Clinical diagnosis of moderate persistent asthma for at least 6 months, according to GINA revised version 2005 guidelines 1 and considering current treatment;\n*",
+      "endpoints": [
+        "Morning pre-dose PEF measured daily by patients (mean of the last 2 weeks of treatment period)."
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT00497237"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07052942",
+      "title": "Individualizing Treatment for Asthma in Primary Care (Full Study)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-08-01",
+      "completion_date": "2029-11-15",
+      "country": "United States",
+      "enrollment": 3200,
+      "brief_summary": "While asthma therapy is becoming more individualized based on asthma phenotypes, more research is needed to tailor newer therapies to individuals. Inhaled corticosteroid (ICS) medications are the foundation of care for all individuals with persistent asthma. But ICS use is not without possible long term side effects.\n\nThis study will compare two currently available approaches to reduce AEX in primary care patients: (1) use of inhaled corticosteroids (ICS) as part of rescue therapy, also known as",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. A clinical asthma diagnosis for at least 1 year;\n2. 13-75 years of age;\n3. A prescription for an ICS either used regularly, or on an as needed controller, not reliever, schedule - ICS or ICS + LABA or ICS+LABA+LAMA;\n4. A current ACT total score of \\<20 OR an exacerbation requ",
+      "endpoints": [
+        "Rate of Asthma Exacerbations Per Year"
+      ],
+      "sponsor": "DARTNet Institute",
+      "url": "https://clinicaltrials.gov/study/NCT07052942"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02139644",
+      "title": "A 12-Week, Double-Blind, Placebo-Controlled, Efficacy and Safety Study of Fluticasone Propionate Multidose Dry Powder Inhaler Compared With Fluticasone/Salmeterol Multidose Dry Powder Inhaler in Adolescent and Adult Patients With Persistent Asthma Symptomatic Despite Low-dose or or Mid-dose Inhaled Corticosteroid Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-06",
+      "completion_date": "2015-09",
+      "country": "Czechia, South Africa, Russia, Ukraine, Hungary, Poland, Canada, United States",
+      "enrollment": 787,
+      "brief_summary": "The primary objective of this study was to evaluate the efficacy of fluticasone propionate multidose dry powder inhaler (Fp MDPI) and fluticasone propionate/salmeterol xinafoate multidose dry powder inhaler (FS MDPI) when administered over 12 weeks in patients 12 years of age and older with persistent asthma.\n\nStudy drug and placebo was supplied in Teva multidose dry powder inhaler (MDPI) devices and provided for participants to use at home. Participants performed spirometry at every visit. Each",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Best pre-bronchodilator forced expiratory volume in 1 second (FEV1) of 40 to 85% of their predicted normal value.\n2. Current Asthma Therapy: Patients must have a short-acting β2-agonist (for rescue use) for a minimum of 8 weeks before the Screening Visit (SV) and a low-dose i",
+      "endpoints": [
+        "Standardized Baseline-Adjusted Forced Expiratory Volume in 1 Second (FEV1) Area Under the Effect Curve From Time Zero to 12 Hours Postdose (FEV1 AUEC0-12h) at Week 12",
+        "Change From Baseline in Morning Trough Forced Expiratory Volume in 1 Second (FEV1) at Week 12"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02139644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01345916",
+      "title": "A Phase 3,8-week Clinical Trial to Test the Efficacy of CHF1535 Via NEXT DPI® Versus Same Dose of CHF1535 pMDI and Beclomethasone DPI 100µg on PEF in Adult Asthmatic Patients After 1 Month of Treatment With FOSTER®",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2011-08",
+      "country": "Poland",
+      "enrollment": 932,
+      "brief_summary": "The purpose of this study is to demonstrate that CHF 1535 NEXT DPI® is non-inferior to the corresponding dose of CHF 1535 pMDI and superior to marketed beclomethasone DPI 100 µg in terms of average pre-dose morning Peak Expiratory Flow (PEF) in asthmatic adult patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female adults (≥18 years old).\n2. Reversibility test defined as ΔFEV1 ≥ 12% and ≥ 200 mL .\n3. FEV1 \\> 80% of the predicted values .\n4. Asthma Control Questionnaire score \\< 1.25.\n5. Asthmatic patients\n6. Non- or ex-smokers\n\nExclusion Criteria:\n\n1. History of near fat",
+      "endpoints": [
+        "Change from baseline to the entire treatment period in average pre-dose morning Peak Expiratory Flow."
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01345916"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05495698",
+      "title": "Triple Therapy Convenience by the Use of One or Multiple Inhalers and Digital Support in Chronic Obstructive Pulmonary Disease",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-12-13",
+      "completion_date": "2026-12",
+      "country": "Netherlands",
+      "enrollment": 300,
+      "brief_summary": "TRICOLON is an investigator initiated, prospective, interventional, open-label, randomized, real-world, multi-centre, 3-arms study in the Netherlands. The primary objective is to investigate in COPD patients if single-inhaler triple therapy (SITT) is superior to multi-inhaler triple therapy (MITT) in terms of adherence to inhaled corticosteroids (ICS) therapy and to investigate if SITT with e-health support is superior to MITT and SITT without e-health support.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of COPD for at least 1 year before the screening visit\n* Aged 40 years and older\n* An indication for triple therapy according to the treating physician (following the GOLD guideline 2021(2)). Could be step-up from dual therapy or currently receiving triple t",
+      "endpoints": [
+        "Adherence to ICS therapy"
+      ],
+      "sponsor": "Franciscus Gasthuis",
+      "url": "https://clinicaltrials.gov/study/NCT05495698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06818019",
+      "title": "WIthdrawal of DUpilumab in Severe Asthma: a Randomized Non-inferiority-controlled Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-02",
+      "completion_date": "2029-12-31",
+      "country": "France",
+      "enrollment": 205,
+      "brief_summary": "Asthma management has been revolutionised by the development of biological therapies. Dupilumab is an anti-interleukin4 receptor marketed in 2020 for severe asthmatic patients with 2 exacerbations or more within the last 12 months. Although data showed that safety and efficacy of dupilumab are sustained when treatment is extended up to 3 years, no study has emerged regarding dupilumab discontinuation. This study aims to demonstrate the non-inferiority regarding strategy failure at 24 months of s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients ≥ 18 years old\n* Treated with dupilumab for at least 36 months for severe asthma\n* Well controlled asthma defined by an Asthma Control Questionnaire score ≥ 18 and 0 or 1 exacerbation within the year prior to the inclusion visit\n\nExclusion Criteria:\n\n* Patients ",
+      "endpoints": [
+        "Strategy failure"
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "url": "https://clinicaltrials.gov/study/NCT06818019"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05898984",
+      "title": "A Single Dose, Randomized, Open-label, 3-Way Cross-over Clinical Pharmacology Study, to Evaluate the Systemic Exposure of BDP, Beclomethasone 17-monoproprionate, Formoterol Fumarate, and Glycopyrronium Bromide, After Inhalation of the Fixed Combination BDP/FF/GB HFA pMDI (CHF 5993) at Two Different Strengths and of BDP Hydrofluoroalkane (HFA), in Healthy Volunteers.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2023-04-24",
+      "completion_date": "2023-07-14",
+      "country": "Belgium",
+      "enrollment": 69,
+      "brief_summary": "The study is being conducted to compare the pharmacokinetic (PK) of BDP (and its main active metabolite B17MP), FF, and GB between CHF 5993 BDP/FF/GB 200/6/12.5 µg pMDI and CHF 5993 BDP/FF/GB 100/6/12.5 µg pMDI (pressurized Metered Dose Inhaler), to assess the proportionality of systemic exposure to BDP and B17MP (17-Monoproprionate), and the systemic exposure to FF and GB with increasing doses of BDP.\n\nThe study includes a QVAR REDIHALER® arm too.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject's written informed consent ;\n* 18-55 years of age;\n* Ability to understand the study procedures, the risks involved and ability to be trained to correctly use the inhalers.\n* Body mass index of 19.0 to 30.0 kg/m2 (extremes inclusive), and body weight ≥50.0 kg;\n* Non- o",
+      "endpoints": [
+        "systemic exposure ( area under the concentration time curve from zero to time) to beclomethasone 17 monopropionate (B17MP), FF and GB",
+        "systemic exposure (maximum plasma concentration (Cmax) ) to beclomethasone 17 monopropionate (B17MP), FF and GB"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT05898984"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06429475",
+      "title": "Anti-Inflammatory Reliever Therapy for Asthma Using Inhaled Budesonide/Formoterol As-needed With or Without Maintenance in South African Children: A Pragmatic Open Label Phase 3 Randomised Controlled Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06-06",
+      "completion_date": "2028-12-31",
+      "country": "South Africa",
+      "enrollment": 1038,
+      "brief_summary": "This is a Phase 3 single-centre open label randomised controlled trial with two equal sized groups to assess the efficacy of budesonide/formoterol 80/4.5 (6-11 years) and 160/4.5 (12-18 years) compared to the standard of care in reducing asthma exacerbations over 52 weeks.\n\nChildren and adolescents with a diagnosis of asthma or newly diagnosed with asthma will be screened for eligibility for enrolment. Those who had an asthma exacerbation in the previous year will be randomised 1:1, to either re",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age for inclusion children and adolescents 6-18 years at the time of consent\n* Known asthmatic on treatment.\n* Newly diagnosed asthma based on investigator review and/or medical report.\n* All patients will have their asthma diagnosis confirmed (both new or known asthmatic pati",
+      "endpoints": [
+        "Number of exacerbations in 52 weeks ( End of study)"
+      ],
+      "sponsor": "University of KwaZulu",
+      "url": "https://clinicaltrials.gov/study/NCT06429475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01327001",
+      "title": "Utilization of Fixed Combination (Budesonide/Formoterol and Salmeterol/Fluticasone and Beclomethasone/Formoterol) in Treatment of Asthma Patients in Real Life Condition in Czech Republic (UFO)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2011-06",
+      "country": "Czechia",
+      "enrollment": 2815,
+      "brief_summary": "Moderate and severe asthma bronchiale is treated by fixed combination (budesonide/formoterol or salmeterol/fluticasone) in the Czech Republic.\n\nThere is a hypothesis that doctors should prescribe to each patients per year: six units of fixed combination budesonide/formoterol, or seven units of fixed combination budesonide/formoterol in approach SMART, or twelve units of fixed combination salmeterol/fluticasone. With regard to current prices the treatment by fixed combination budesonide/formotero",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 6 years or over\n* Asthma bronchiale, classification of severity - moderate or severe persistent\n* Documented fixed combination (budesonide/formoterol or salmeterol/fluticasone) therapy for at least 18 months",
+      "endpoints": [
+        "Number of packs of fixed combination prescribed to patients with asthma bronchiale in one year"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01327001"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02040766",
+      "title": "A Randomized, Double-Blind, Double-Dummy, Placebo-Controlled, Parallel-Group, 12-Week Clinical Study to Assess the Efficacy and Safety of 80 or 160 mcg/Day of Beclomethasone Dipropionate Delivered Via Breath-Actuated Inhaler (BAI) or Metered-Dose Inhaler (MDI) in Pediatric Patients 4 Through 11 Years of Age With Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2016-03",
+      "country": "Croatia, Mexico, Ukraine, Poland, United States",
+      "enrollment": 628,
+      "brief_summary": "This randomized, double-blind, double-dummy, placebo-controlled, parallel-group, 12-week study will evaluate the efficacy and safety of beclomethasone dipropionate (80 or 160 mcg/day) administered via breath-actuated inhaler (BAI) and metered-dose inhaler (MDI) in pediatric patients 4 through 11 years of age with persistent asthma, compared with placebo.\n\nPatients took 1 inhalation (with assistance from parents/guardians/caregivers, as needed) from each of 2 devices (BAI device followed by MDI d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Asthma diagnosis: The patient has a diagnosis of asthma as defined by the National Institute of Health (NIH). The asthma diagnosis has been present for a minimum of 3 months and has been stable (defined as no exacerbations and no changes in medicatio",
+      "endpoints": [
+        "Standardized Baseline-adjusted Trough Morning Percent Predicted Forced Expiratory Volume in 1 Second (FEV1) Area Under the Effect Curve From Time 0 to 12 Weeks (AUEC(0-12wk))"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02040766"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01908075",
+      "title": "REACH Fostair vs Seretide - Real-world Effectiveness of Combination Therapies in Primary Care Asthma Management",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-01",
+      "completion_date": "2013-03",
+      "country": "N/A",
+      "enrollment": 194723,
+      "brief_summary": "To evaluate whether beclomethasone dipropionate / formoterol (BDP/FOR; Fostair® 100/6) is at least equivalent in terms of exacerbation prevention to fluticasone dipropionate / salmeterol (FP/SAL; Seretide® 125) in matched asthma patients switching to BDP/FOR following treatment with FP/SAL in normal clinical practice compared with patients not switched.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged: 18-80 years 61-80 years to be non-smokers only\n* Evidence of asthma: a diagnostic code for asthma or two scripts for asthma..\n* Baseline FP/SAL therapy: ≥2 prescription for ICS/LABA therapy as FP/SAL\n* Evidence of Continuing Therapy: Include only patients who receive ≥2 ",
+      "endpoints": [
+        "Exacerbations : rate ratio"
+      ],
+      "sponsor": "Research in Real-Life Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01908075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02513160",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, 6-Week Clinical Study to Assess the Efficacy and Safety of Beclomethasone Dipropionate Delivered Via Breath-Actuated Inhaler (BAI) at 320 or 640 mcg/Day in Adolescent and Adult Patients 12 Years of Age and Older With Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-09-30",
+      "completion_date": "2016-03-31",
+      "country": "United States",
+      "enrollment": 713,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of beclomethasone dipropionate administered via BAI at a dose strength of 40 or 80 mcg per oral inhalation (320 or 640 mcg/day, respectively) compared with placebo treatment in patients with persistent asthma as assessed by the standardized baseline-adjusted trough morning (pre-dose and pre-rescue bronchodilator) forced expiratory volume in 1 second (FEV1) area under the effect curve from time 0 to 6 weeks (AUEC\\[0-6wk\\]).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient has a diagnosis of asthma as defined by the NIH. The asthma diagnosis\n* has been present for a minimum of 3 months and has been stable (defined as no exacerbations and no changes in medication) for at least 30 days.\n* The patient has been maintained on stable doses",
+      "endpoints": [
+        "Standardized Baseline-Adjusted Trough Morning Forced Expiratory Volume in One Minute (FEV1) Area Under the Effect Curve From Time Zero to 6 Weeks (AUEC(0-6wk))"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02513160"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00094016",
+      "title": "Safety and Efficacy Evaluation of Two Doses of HFA-Propelled Beclomethasone Dipropionate (QVAR) Versus Placebo by Breath Operated and Metered Dose Inhalers in Mild to Moderate Asthmatic Children",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-10-31",
+      "completion_date": "2006-06-30",
+      "country": "Puerto Rico, United States",
+      "enrollment": 440,
+      "brief_summary": "The primary objective of this study is to compare the QVAR-Easi-Breathe 100 mcg/day and QVAR-Easi-Breathe 200 mcg/day with placebo relative to changes in forced expiratory volume in 1 second (FEV1) results following 12 weeks of treatment. Secondary objectives such as daily asthma symptoms scores (per week), morning peak expiratory flow (PEF) values, nocturnal awakening and utilization of rescue medication per day also will be evaluated. In addition, an exploratory evaluation will assess the comp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female children aged 5 through 11 years at the screening visit\n* Documented clinical evidence of asthma (FEV1 = 65-90%)\n* Ability to perform acceptable and reproducible spirometry per ATS guidelines\n* Ability to perform PEF determinations\n* Reversible bronchoconstricti",
+      "endpoints": [],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00094016"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01803087",
+      "title": "A SINGLE-DOSE, OPEN LABEL, RANDOMIZED, 3-WAY CROSSOVER, CLINICAL PHARMACOLOGY STUDY OF CHF 1535 100/6 pMDI (FIXED COMBINATION OF BECLOMETHASONE DIPROPIONATE 100 µg PLUS FORMOTEROL FUMARATE 6 µg) WITH OR WITHOUT SPACER DEVICE VERSUS THE FREE COMBINATION OF LICENSED BECLOMETHASONE pMDI AND FORMOTEROL pMDI IN ASTHMATIC ADOLESCENT PATIENTS AND ONE OPEN ARM FOR ADULT PATIENTS AS CONTROL GROUP TREATED WITH CHF 1535 100/6 pMDI.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2012-10",
+      "country": "Poland",
+      "enrollment": 60,
+      "brief_summary": "This clinical pharmacology want to investigate the systemic availability of BDP/B17MP (active metabolite of BDP) and formoterol after single oral inhalation of CHF 1535 100/6 pMDI with and without spacer device (AeroChamber Plus™) and in comparison to a free combination of BDP pMDI plus formoterol pMDI licensed products; this will be additionally compared to the systemic exposure in adults without the spacer device.",
+      "eligibility_criteria": "\\- Inclusion criteria\n\nPatients will be enrolled if they meet all of the following criteria:\n\n1. Male and female adolescents, aged ≥ 12 and \\< 18 years at the time of Screening Visit or male and female adults, aged ≥ 18 and ≤ 65 years at the time of Screening Visit.\n2. Written informed consent obtai",
+      "endpoints": [
+        "AUC0-t of B17MP CHF 1535 100/6 pMDI with and without spacer vs free combination of BDP pMDI and formoterol pMDI"
+      ],
+      "sponsor": "Chiesi Farmaceutici S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01803087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02040779",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, 12-Week Clinical Study to Assess the Efficacy and Safety of Beclomethasone Dipropionate (80 and 160 mcg/Day) Delivered Via Breath-Actuated Inhaler (BAI) in Adolescent and Adult Patients 12 Years of Age and Older With Persistent Asthma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-12-26",
+      "completion_date": "2014-12-24",
+      "country": "United States",
+      "enrollment": 273,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled parallel-group study. Participants will be randomly assigned to receive treatment with beclomethasone dipropionate at a dosage of 80 or 160 mcg/day delivered via a Breath-Actuated Inhaler (BAI); or a matching BAI placebo, in a 1:1:1 ratio after a 14- to 21-day run-in period. Participants and investigators will remain blinded to randomized treatment assignment during the study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Severity of Disease: The patient has persistent asthma, with an forced expiratory volume in 1 second (FEV1) 40%-85% of the value predicted for age, height, sex, and race as per the National Health and Nutrition Examination Survey (NHANES III) reference values at screening visi",
+      "endpoints": [
+        "Standardized Baseline-Adjusted Trough Morning Forced Expiratory Volume in One Minute (FEV1) Area Under the Effect Curve From Time Zero to 12 Weeks (AUEC(0-12wk)) by Actual Treatment Received"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02040779"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03846570",
+      "title": "Formoterol-beclomethasone in Patients With Bronchiectasis: a Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2019-01-29",
+      "completion_date": "2022-07-05",
+      "country": "Netherlands",
+      "enrollment": 34,
+      "brief_summary": "Randomized, double-blind, placebo-controlled study comparing formoterol-beclometason 12/200 mcg BID versus placebo to evaluate the clinical effect on coughing in patients with non-cystic fibrosis (non-CF) bronchiectasis, native to inhaled corticosteroid (ICS) therapy and no history of asthma or chronic obstructive pulmonary disease (COPD)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic patient (wheezing, cough and dyspnoea);\n* Proven and documented diagnosis of BE by high resolution computed tomography ;\n* Stable pulmonary status as indicated by FEV1 (percent of predicted) ≥30%\n* Stable clinically phase (ie, subjects free from acute exacerbation ",
+      "endpoints": [
+        "Clinical effect on coughing"
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03846570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03036267",
+      "title": "Self-care Decision-making: Feasibility of the BREATHE Asthma Intervention Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-04-04",
+      "completion_date": "2017-09-22",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "Asthma rates are high and asthma control is greatly reduced in Black, Medicaid-insured adults, due in part to their poor adherence to inhaled corticosteroids (ICS), which in turn may be due to erroneous health beliefs about asthma and negative beliefs regarding ICS. A brief shared decision-making intervention for use by primary care providers in Federally Qualified Health Centers (FQHCs) has the potential to be a novel avenue to greatly improve asthma control in this high-risk patient group.",
+      "eligibility_criteria": "The intervention trial will be informed by focus groups\n\nFocus Group Inclusion Criteria:\n\n\\- Adult patients with persistent asthma or loved ones of adult patients with persistent asthma (prescribed ICS regardless of whether they are using ICS or not) receiving care at the participating FQHCs\n\nFocus ",
+      "endpoints": [
+        "Asthma Control Questionnaire"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT03036267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01224951",
+      "title": "Development and Validation of a Sputum Biomarker mRNA Panel for the Diagnostic Work-up of Asthma 2",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-01",
+      "completion_date": "2018-07",
+      "country": "Belgium",
+      "enrollment": 40,
+      "brief_summary": "The main objectives of the study are:\n\n-to unravel the importance of molecular phenotyping in predicting the response to classical anti-asthma treatment (inhaled corticosteroids)\n\nThe investigators have developed a non-invasive technique based on mRNA analysis of induced sputum that enables us to study airway inflammation in detail. This technique forms the basis for our current project based on the following hypotheses:\n\n1. different molecular asthma phenotypes exist: a Th2 phenotype and a non ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* steroid naive asthmatics\n\nExclusion Criteria:\n\n* viral/bacterial/fungal infection +fever(\\<1month)\n* asthma exacerbation (\\<3months)\n* other airway diseases (CF, ciliary dyskinesia, bronchiectasis)",
+      "endpoints": [
+        "sputum cytokine mRNA levels"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT01224951"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05241769",
+      "title": "The Influence of Inhaled CorticoSteroids Adherence on Treatment Response to Mepolizumab in Severe Eosinophilic Asthma (CSAREA Study)",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-01",
+      "completion_date": "2023-09-01",
+      "country": "N/A",
+      "enrollment": 250,
+      "brief_summary": "The study aim is to look at the effect of the regular use of inhaled corticosteroids on the response and received from mepolizumab treatment which you are receiving or had received before.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of 18 years of age or higher\n* Patients commenced on mepolizumab within the BRSAS network\n* Patients who have at least 1 mepolizumab injection and with at least 3 months follow-up data from the time of treatment initiation\n* Patients must be able and willing to give i",
+      "endpoints": [
+        "To assess the influence of inhaled corticosteroids (ICS) adherence on treatment response to mepolizumab in severe eosinophilic asthma"
+      ],
+      "sponsor": "University Hospital Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT05241769"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00557180",
+      "title": "Obesity, Inflammation and Response to Therapy in Asthma - Ancillary to Asthma Clinical Research Network (ACRN) Trials",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2011-02",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "Asthma is a common, long-term disease that is caused by inflammation of the airways. Inflammation also plays a role in obesity and may affect the way a person responds to asthma medication. This study will examine the relationship between obesity and inflammation and the effect they have on response to corticosteroid asthma medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipation in either the BASALT or TALC studies of the Asthma Clinical Research Network. Inclusion and exclusion criteria are as determined by those studies, NCT00495157, NCT00565266.",
+      "endpoints": [
+        "Measures of lung function; asthma symptoms and exacerbations; quality of life; rescue medication usage; inflammation and oxidative stress biomarkers; and the effect these factors have on glucocorticoid insensitivity"
+      ],
+      "sponsor": "National Jewish Health",
+      "url": "https://clinicaltrials.gov/study/NCT00557180"
+    }
+  ],
+  "timestamp": "2026-03-04T15:33:25.670912",
+  "success": true,
+  "error_message": null
+}

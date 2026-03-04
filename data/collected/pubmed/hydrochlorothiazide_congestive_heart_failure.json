@@ -1,0 +1,526 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrochlorothiazide",
+    "disease": "congestive heart failure",
+    "query_string": "Hydrochlorothiazide AND congestive heart failure"
+  },
+  "data": {
+    "query": "Hydrochlorothiazide AND congestive heart failure",
+    "results": [
+      {
+        "pmid": "38806171",
+        "title": "2024 update in heart failure.",
+        "abstract": "In the last years, major progress has occurred in heart failure (HF) management. The 2023 ESC focused update of the 2021 HF guidelines introduced new key recommendations based on the results of the last years of science. First, two drugs, sodium-glucose co-transporter-2 (SGLT2) inhibitors and finerenone, a novel nonsteroidal, selective mineralocorticoid receptor antagonist (MRA), are recommended for the prevention of HF in patients with diabetic chronic kidney disease (CKD). Second, SGLT2 inhibitors are now recommended for the treatment of HF across the entire left ventricular ejection fraction spectrum. The benefits of quadruple therapy in patients with HF with reduced ejection fraction (HFrEF) are well established. Its rapid and early up-titration along with a close follow-up with frequent clinical and laboratory re-assessment after an episode of acute HF (the so-called 'high-intensity care' strategy) was associated with better outcomes in the STRONG-HF trial. Patients experiencing a",
+        "journal": "ESC heart failure",
+        "year": "2025",
+        "authors": [
+          "Beghini Alberto",
+          "Sammartino Antonio Maria",
+          "Papp Zoltán",
+          "von Haehling Stephan",
+          "Biegus Jan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Heart Failure",
+          "Sodium-Glucose Transporter 2 Inhibitors",
+          "Stroke Volume",
+          "Mineralocorticoid Receptor Antagonists",
+          "Disease Management",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38806171/"
+      },
+      {
+        "pmid": "36346411",
+        "title": "Treatment of Hypertension: A Review.",
+        "abstract": "Hypertension, defined as persistent systolic blood pressure (SBP) at least 130 mm Hg or diastolic BP (DBP) at least 80 mm Hg, affects approximately 116 million adults in the US and more than 1 billion adults worldwide. Hypertension is associated with increased risk of cardiovascular disease (CVD) events (coronary heart disease, heart failure, and stroke) and death.",
+        "journal": "JAMA",
+        "year": "2022",
+        "authors": [
+          "Carey Robert M",
+          "Moran Andrew E",
+          "Whelton Paul K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Angiotensin Receptor Antagonists",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Calcium Channel Blockers",
+          "Cardiovascular Diseases",
+          "Diuretics",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36346411/"
+      },
+      {
+        "pmid": "36423214",
+        "title": "Combining loop with thiazide diuretics for decompensated heart failure: the CLOROTIC trial.",
+        "abstract": "To evaluate whether the addition of hydrochlorothiazide (HCTZ) to intravenous furosemide is a safe and effective strategy for improving diuretic response in acute heart failure (AHF).",
+        "journal": "European heart journal",
+        "year": "2023",
+        "authors": [
+          "Trullàs Joan Carles",
+          "Morales-Rull José Luis",
+          "Casado Jesús",
+          "Carrera-Izquierdo Margarita",
+          "Sánchez-Marteles Marta"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Furosemide",
+          "Sodium Chloride Symporter Inhibitors",
+          "Hypokalemia",
+          "Prospective Studies",
+          "Heart Failure",
+          "Diuretics",
+          "Hydrochlorothiazide",
+          "Dyspnea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36423214/"
+      },
+      {
+        "pmid": "36595088",
+        "title": "Diuretics in pediatrics.",
+        "abstract": "Diuretics are frequently prescribed drugs and help managing several pathological conditions, including acute and chronic kidney disease, nephrotic syndrome, congestive heart failure, ascites, systemic and pulmonary hypertension. Diuretic classes include among others osmotic diuretics and carboanhydrase inhibitors, loop diuretics, thiazides, and potassium-sparing diuretics. In this educational article, we aim at reviewing indications, mechanisms of action, and side effects, as well as basic pharmacokinetics considerations and data on diuretics in children, supporting practicing clinicians in choosing (and understanding the background of) the best-suited diuretic regimen for the individual patient. Newer diuretic classes like vaptans and sodium glucose type 2 cotransporter inhibitors, the recent controversies on hydrochlorothiazide, and the issue of diuretic resistance, will also be briefly addressed.",
+        "journal": "European journal of pediatrics",
+        "year": "2023",
+        "authors": [
+          "Lava Sebastiano A G",
+          "Zollinger Chiara",
+          "Chehade Hassib",
+          "Schaffner Damien",
+          "Sekarski Nicole"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Child",
+          "Diuretics",
+          "Hydrochlorothiazide",
+          "Sodium Potassium Chloride Symporter Inhibitors",
+          "Sodium",
+          "Heart Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36595088/"
+      },
+      {
+        "pmid": "21896142",
+        "title": "Thiazide and loop diuretics.",
+        "abstract": "KEY POINTS AND PRACTICAL RECOMMENDATIONS: •  Although chlorthalidone and hydrochlorothiazide are structurally similar, they are very different pharmacokinetically, with chlorthalidone having both an extremely long half-life (approximately 40 to 60 hours) and a large volume of distribution, with gradual elimination from the plasma compartment by tubular secretion. •  Furosemide usage, the most widely used diuretic in the loop diuretic class, can be complicated by extremely erratic absorption, with a bioavailability range of 12% to 112%. •  Chlorthalidone, at a dose of 25 mg, is comparatively more potent than 50 mg of hydrochlorothiazide, particularly as related to overnight blood pressure reduction. •  In ALLHAT, there was no difference among chlorthalidone, amlodipine, lisinopril, and doxazosin for the primary outcome or mortality. •  Secondary outcomes were similar except for a 38% higher rate of heart failure with amlodipine; a 10% higher rate of combined cardiovascular disease, a 15",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2011",
+        "authors": [
+          "Sica Domenic A",
+          "Carter Barry",
+          "Cushman William",
+          "Hamm Lee"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Humans",
+          "Hypertension",
+          "Hyperuricemia",
+          "Hypokalemia",
+          "Risk Management",
+          "Sodium Chloride Symporter Inhibitors",
+          "Sodium Potassium Chloride Symporter Inhibitors",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21896142/"
+      },
+      {
+        "pmid": "28711447",
+        "title": "The Transition From Hypertension to Heart Failure: Contemporary Update.",
+        "abstract": "Longstanding hypertension ultimately leads to heart failure (HF), and, as a consequence most patients with HF have a history of hypertension. Conversely, absence of hypertension in middle age is associated with lower risks for incident HF across the remaining life course. Cardiac remodeling to a predominant pressure overload consists of diastolic dysfunction and concentric left ventricular (LV) hypertrophy. When pressure overload is sustained, diastolic dysfunction progresses, filling of the concentric remodeled LV decreases, and HF with preserved ejection fraction ensues. Diastolic dysfunction and HF with preserved ejection fraction are the most common cardiac complications of hypertension. The end stage of hypertensive heart disease results from pressure and volume overload and consists of dilated cardiomyopathy with both diastolic dysfunction and reduced ejection fraction. \"Decapitated hypertension\" is a term used to describe the decrease in blood pressure resulting from reduced pum",
+        "journal": "JACC. Heart failure",
+        "year": "2017",
+        "authors": [
+          "Messerli Franz H",
+          "Rimoldi Stefano F",
+          "Bangalore Sripal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin Receptor Antagonists",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Calcium Channel Blockers",
+          "Cardio-Renal Syndrome",
+          "Chronic Disease",
+          "Heart Failure",
+          "Humans",
+          "Hypertension",
+          "Pulmonary Edema"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28711447/"
+      },
+      {
+        "pmid": "36516076",
+        "title": "Chlorthalidone vs. Hydrochlorothiazide for Hypertension-Cardiovascular Events.",
+        "abstract": "Whether chlorthalidone is superior to hydrochlorothiazide for preventing major adverse cardiovascular events in patients with hypertension is unclear.",
+        "journal": "The New England journal of medicine",
+        "year": "2022",
+        "authors": [
+          "Ishani Areef",
+          "Cushman William C",
+          "Leatherman Sarah M",
+          "Lew Robert A",
+          "Woods Patricia"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Pragmatic Clinical Trial",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Humans",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Chlorthalidone",
+          "Diuretics",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Sodium Chloride Symporter Inhibitors",
+          "Cardiovascular Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36516076/"
+      },
+      {
+        "pmid": "38204501",
+        "title": "Diuretic Strategies in Acute Decompensated Heart Failure: A Narrative Review.",
+        "abstract": "Heart failure is a common condition with considerable associated costs, morbidity, and mortality. Patients often present to hospital with dyspnea and edema. Inadequate inpatient decongestion is an important contributor to high readmission rates. There is little evidence concerning diuresis to guide clinicians in caring for patients with acute decompensated heart failure. Contemporary diuretic strategies have been defined by expert opinion and older landmark clinical trials.",
+        "journal": "The Canadian journal of hospital pharmacy",
+        "year": "2024",
+        "authors": [
+          "Wilson Ben J",
+          "Bates Duane"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38204501/"
+      },
+      {
+        "pmid": "38645830",
+        "title": "Acetazolamide and Hydrochlorothiazide in Patients With Acute Decompensated Heart Failure: Insights From Recent Trials.",
+        "abstract": "Acetazolamide and thiazide diuretics have been combined with loop diuretics to overcome diuretic resistance in heart failure patients. However, recent studies have assessed the upfront combination of acetazolamide and hydrochlorothiazide with loop diuretics in hospitalized patients with acute decompensated heart failure without loop diuretic resistance. We reviewed two recent randomized controlled trials on the upfront use of acetazolamide and thiazide diuretics in acute decompensated heart failure, respectively. When the two trials on acetazolamide are considered together, adding oral or intravenous acetazolamide to loop diuretics in decompensated heart failure patients resulted in increased diuresis and natriuresis. However, the effects were significantly higher in patients with serum bicarbonate ≥ 27 mmol/L and those with higher baseline glomerular filtration rate (GFR). Similarly, when the two trials on thiazide diuretics are considered together, adding hydrochlorothiazide to loop ",
+        "journal": "Cardiology research",
+        "year": "2024",
+        "authors": [
+          "Umeh Chukwuemeka A",
+          "Mohta Tamanna",
+          "Kaur Gagan",
+          "Truong Roland",
+          "Darji Puja"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38645830/"
+      },
+      {
+        "pmid": "36546712",
+        "title": "Heart failure: an update from the last years and a look at the near future.",
+        "abstract": "In the last years, major progress occurred in heart failure (HF) management. Quadruple therapy is now mandatory for all the patients with HF with reduced ejection fraction. Whilst verciguat is becoming available across several countries, omecamtiv mecarbil is waiting to be released for clinical use. Concurrent use of potassium-lowering agents may counteract hyperkalaemia and facilitate renin-angiotensin-aldosterone system inhibitor implementations. The results of the EMPagliflozin outcomE tRial in Patients With chrOnic heaRt Failure With Preserved Ejection Fraction (EMPEROR-Preserved) trial were confirmed by the Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction (DELIVER) trial, and we now have, for the first time, evidence for treatment of also patients with HF with preserved ejection fraction. In a pre-specified meta-analysis of major randomized controlled trials, sodium-glucose co-transporter-2 inhibitors reduced all-cause mortality, cardiovascular (CV",
+        "journal": "ESC heart failure",
+        "year": "2022",
+        "authors": [
+          "Riccardi Mauro",
+          "Sammartino Antonio Maria",
+          "Piepoli Massimo",
+          "Adamo Marianna",
+          "Pagnesi Matteo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetazolamide",
+          "Heart Failure",
+          "Sodium Potassium Chloride Symporter Inhibitors",
+          "Stroke Volume",
+          "Ventricular Function, Left"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36546712/"
+      },
+      {
+        "pmid": "40856000",
+        "title": "Diuretic resistance and the efficacy of hydrochlorothiazide in acute decompensated heart failure: A post-hoc analysis of the CLOROTIC trial.",
+        "abstract": "Diuretic resistance (DR) in acute decompensated heart failure (ADHF) is associated with poor outcomes. The CLOROTIC trial demonstrated hydrochlorothiazide (HCTZ) with intravenous furosemide improved weight loss in ADHF. We assessed performance of the BAN-ADHF DR score and association between DR risk and HCTZ treatment response.",
+        "journal": "European journal of heart failure",
+        "year": "2025",
+        "authors": [
+          "Pandey Ambarish",
+          "Segar Matthew W",
+          "Keshvani Neil",
+          "Llácer Pau",
+          "Casado Jesús"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Heart Failure",
+          "Male",
+          "Female",
+          "Hydrochlorothiazide",
+          "Diuretics",
+          "Aged, 80 and over",
+          "Aged",
+          "Drug Resistance",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40856000/"
+      },
+      {
+        "pmid": "41129861",
+        "title": "Retrospective review of the use of hydrochlorothiazide in dogs with myxomatous mitral valve disease and refractory congestive heart failure (American College of Veterinary Cardiology stage D).",
+        "abstract": "In dogs with myxomatous mitral valve disease (MMVD) American College of Veterinary Internal Medicine (ACVIM) stage D, hydrochlorothiazide (HCTZ) can be added to achieve sequential nephron blockade. Information on outcome, survival, and complications in this group of patients receiving HCTZ is limited, hence the aim of the present retrospective observational, longitudinal study.",
+        "journal": "Journal of veterinary cardiology : the official journal of the European Society of Veterinary Cardiology",
+        "year": "2025",
+        "authors": [
+          "Boscia A",
+          "Galizzi A",
+          "Caccia M",
+          "Caroli V",
+          "Ortiz Diez G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dogs",
+          "Dog Diseases",
+          "Retrospective Studies",
+          "Heart Failure",
+          "Female",
+          "Male",
+          "Hydrochlorothiazide",
+          "Diuretics",
+          "Mitral Valve Insufficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41129861/"
+      },
+      {
+        "pmid": "40513196",
+        "title": "Short- and long-term effects of hydrochlorothiazide in dogs with relapsing congestive heart failure due to myxomatous mitral valve disease: a retrospective analysis of 38 cases.",
+        "abstract": "Information on the use of hydrochlorothiazide (HCTZ) in dogs with relapsing congestive heart failure (CHF) due to myxomatous mitral valve disease (MMVD) is limited. Therefore, the aim of this study was to provide data on HCTZ's short- and long-term effects in canine MMVD.",
+        "journal": "Journal of veterinary cardiology : the official journal of the European Society of Veterinary Cardiology",
+        "year": "2025",
+        "authors": [
+          "Romito G",
+          "Mazzoldi C",
+          "Calebotta L",
+          "Castagna P",
+          "Pelle N G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dogs",
+          "Dog Diseases",
+          "Retrospective Studies",
+          "Heart Failure",
+          "Female",
+          "Male",
+          "Hydrochlorothiazide",
+          "Diuretics",
+          "Echocardiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40513196/"
+      },
+      {
+        "pmid": "2864229",
+        "title": "Enalapril in hypertension and congestive heart failure. Overall review of efficacy and safety.",
+        "abstract": "Multiclinic controlled studies have shown that enalapril alone 10 to 40 mg/day orally is effective in lowering blood pressure in patients with essential hypertension. Enalapril has been compared with thiazides and beta-blockers (propranolol, metoprolol and atenolol). The effect on systolic blood pressure has been greater with enalapril than with beta-blockers. The proportion of patients who respond to enalapril alone with a decrease in diastolic blood pressure (greater than or equal to 10mm Hg) is around 70%. When a thiazide is added to the treatment, the proportion is above 90%. Enalapril improves the signs and symptoms associated with congestive heart failure. Patients increased their exercise tolerance by an average of 148 sec and improved in their NYHA cardiac status and prognosis classification. The overall incidence of side effects is similar to that seen in the placebo control groups. Side effects such as agranulocytosis, taste loss, rash, proteinuria were not characteristic of ",
+        "journal": "Drugs",
+        "year": "1985",
+        "authors": [
+          "Moncloa F",
+          "Sromovsky J A",
+          "Walker J F",
+          "Davies R O"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Enalapril",
+          "Female",
+          "Heart Failure",
+          "Humans",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2864229/"
+      },
+      {
+        "pmid": "33186492",
+        "title": "Polypill with or without Aspirin in Persons without Cardiovascular Disease.",
+        "abstract": "A polypill comprising statins, multiple blood-pressure-lowering drugs, and aspirin has been proposed to reduce the risk of cardiovascular disease.",
+        "journal": "The New England journal of medicine",
+        "year": "2021",
+        "authors": [
+          "Yusuf Salim",
+          "Joseph Philip",
+          "Dans Antonio",
+          "Gao Peggy",
+          "Teo Koon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Antihypertensive Agents",
+          "Aspirin",
+          "Atenolol",
+          "Blood Pressure",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Drug Combinations",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33186492/"
+      },
+      {
+        "pmid": "36931883",
+        "title": "[News in cardiology].",
+        "abstract": "The article summarizes new advances in cardiology published in 2022, which have an impact to everyday practice of not only internists and cardiologists. The administration of polypill to patients after myocardial infarction (SECURE study), early pharmacotherapy of hypertension in pregnant women with blood pressure exceeding 140/90 mmHg (CHAP study), or the administration of dapagliflozin to patients with heart failure with preserved or mildly reduced ejection fraction (DELIVER study) have been shown to be effective. Patients with heart failure do not have to limit their sodium intake (SODIUM-HF study), on the contrary, they benefit from up-titration of guideline-recommended drugs to the maximum tolerated doses as quickly as possible (STRONG-HF study). For antihypertensives, it does not matter whether they are taken in the morning or in the evening (TIME study), nor has there been found any difference in the incidence of cardiovascular events with hydrochlorothiazide and chlortalidone (",
+        "journal": "Vnitrni lekarstvi",
+        "year": "2023",
+        "authors": [
+          "Václavík Jan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Humans",
+          "Female",
+          "Antihypertensive Agents",
+          "Hypertension",
+          "Cardiology",
+          "Heart Failure",
+          "Myocardial Infarction",
+          "Stroke Volume"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36931883/"
+      },
+      {
+        "pmid": "6761370",
+        "title": "Slow-release furosemide and hydrochlorothiazide in congestive cardiac failure: a controlled trial.",
+        "abstract": "Thirty-eight ambulatory patients with congestive cardiac failure took part in a double-blind clinical trial of 50 mg hydrochlorothiazide orally daily and slow-release formulation of 60 mg furosemide orally daily. Following a one-week period of placebo administration, patients were randomly allocated to the treatment which they continued for six weeks. Other diuretic drugs were discontinued at entry, but antihypertensive drugs and digoxin were continued during the study at constant dosage. A controlled sodium diet was prescribed. Clinical observations and biochemical and hematologic measurements were made before, during, and at the end of the study. There was an improvement in the clinical condition of patients in both treatment groups, but no significant difference between treatments (with or without digitalis) was detected. Both treatments were clinically well tolerated; however, the tendency of hypokalemia was more pronounced in the hydrochlorothiazide group. This could be hazardous ",
+        "journal": "Journal of clinical pharmacology",
+        "year": "1982",
+        "authors": [
+          "Vermeulen A",
+          "Chadha D R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Clinical Trials as Topic",
+          "Female",
+          "Furosemide",
+          "Heart Failure",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6761370/"
+      },
+      {
+        "pmid": "34722194",
+        "title": "A retrospective study of 14 dogs with advanced heart failure treated with loop diuretics and hydrochlorothiazide.",
+        "abstract": "The use of thiazide diuretics is recommended in the American College of Veterinary Internal Medicine guidelines for advanced heart failure due to mitral insufficiency (MI) in dogs. However, there are no large-scale reports of the use of thiazide diuretics in dogs with advanced heart failure.",
+        "journal": "Open veterinary journal",
+        "year": "2021",
+        "authors": [
+          "Iwanaga Koji",
+          "Araki Ryuji",
+          "Isaka Mitsuhiro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dog Diseases",
+          "Dogs",
+          "Heart Failure",
+          "Hydrochlorothiazide",
+          "Retrospective Studies",
+          "Sodium Potassium Chloride Symporter Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34722194/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:22:54.613376",
+  "success": true,
+  "error_message": null
+}

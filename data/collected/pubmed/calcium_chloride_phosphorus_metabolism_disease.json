@@ -1,0 +1,586 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "phosphorus metabolism disease",
+    "query_string": "Calcium Chloride AND phosphorus metabolism disease"
+  },
+  "data": {
+    "query": "Calcium Chloride AND phosphorus metabolism disease",
+    "results": [
+      {
+        "pmid": "25158579",
+        "title": "[Hypercalcemia].",
+        "abstract": "The most common cause of hypercalcemia is primary hyperparathyroidism. The level of parathyroid hormone (PTH) is the starting point of differential diagnosis. Other basic investigations include plasma phosphorus level, vitamin D, and calculated creatinine clearance. PTH-dependent hypercalcemia is mainly caused by primary hyperparathyreosis. If PTH is suppressed, malignant disease must be concidered carefully. Signs of severe hypercalcemia or hypercalcemic crisis are nausea, worsening general condition and impairment of renal function, whereby symptomatic treatment will be initiated without delay. Calcium drugs, thiazide diuretics and lithium are terminated. After taking care of sufficient rehydration, loop diuretics and bisphosphonates can be used as first line treatment of severe hypercalcemia.",
+        "journal": "Duodecim; laaketieteellinen aikakauskirja",
+        "year": "2014",
+        "authors": [
+          "Matikainen Niina"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biomarkers",
+          "Creatinine",
+          "Diagnosis, Differential",
+          "Diphosphonates",
+          "Disease Progression",
+          "Fluid Therapy",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Parathyroid Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25158579/"
+      },
+      {
+        "pmid": "19955298",
+        "title": "Sevelamer carbonate.",
+        "abstract": "To review the pharmacology, pharmacokinetics, clinical efficacy, safety data, and place in therapy of sevelamer carbonate for the treatment of hyperphosphatemia in patients with chronic kidney disease (CKD).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Barna Mary M",
+          "Kapoian Toros",
+          "O'Mara Neeta Bahal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chelating Agents",
+          "Humans",
+          "Hyperphosphatemia",
+          "Kidney Failure, Chronic",
+          "Polyamines",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19955298/"
+      },
+      {
+        "pmid": "6764730",
+        "title": "Iatrogenic nutritional deficiencies.",
+        "abstract": "",
+        "journal": "Annual review of nutrition",
+        "year": "1982",
+        "authors": [
+          "Young R C",
+          "Blass J P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Antitubercular Agents",
+          "Avitaminosis",
+          "Cathartics",
+          "Chlorpromazine",
+          "Contraceptives, Oral",
+          "Diuretics",
+          "Folic Acid Antagonists",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6764730/"
+      },
+      {
+        "pmid": "4604244",
+        "title": "Combating milk fever.",
+        "abstract": "",
+        "journal": "Journal of dairy science",
+        "year": "1974",
+        "authors": [
+          "Jorgensen N A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Animal Feed",
+          "Animals",
+          "Bone Resorption",
+          "Calcium",
+          "Calcium Chloride",
+          "Calcium, Dietary",
+          "Cattle",
+          "Cattle Diseases",
+          "Edible Grain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4604244/"
+      },
+      {
+        "pmid": "15698586",
+        "title": "Laboratory screening for hyperparathyroidism.",
+        "abstract": "The clinical syndrome produced by excess parathyroid hormone (PTH) is referred to as hyperparathyroidism (HPT). Autonomous growth of PTH producing cells is defined as primary hyperparathyroidism (pHPT). In its classic form pHPT is characterized by painful bones, kidney stones, abdominal groans, psychic moans, fatigue overtones and hypercalcemia. Chronic stimulation of the parathyroid glands secondary to low circulating calcium level results in secondary hyperparathyroidism (sHPT). Tertiary hyperparathyroidism (tHPT) results from prolonged secondary hyperparathyroidism when the glands take on an autonomous function manifested by hypercalcemia and high PTH levels despite resolution of the original stimulus.",
+        "journal": "Clinica chimica acta; international journal of clinical chemistry",
+        "year": "2005",
+        "authors": [
+          "Younes Nidal A",
+          "Shafagoj Yanal",
+          "Khatib Faisal",
+          "Ababneh Mahmoud"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcitonin",
+          "Calcium",
+          "Clinical Chemistry Tests",
+          "Humans",
+          "Hyperparathyroidism",
+          "Vitamin D"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15698586/"
+      },
+      {
+        "pmid": "3731786",
+        "title": "Alterations in calcium, phosphorus and C-terminal parathyroid hormone levels in equine acute renal disease.",
+        "abstract": "The changes in serum and urinary levels of calcium and phosphorus and serum parathyroid hormone (PTH) were studied during controlled, chemically induced, acute renal disease in 4 ponies. There was an initial rise in daily urinary calcium and hydroxyproline excretion in 2 ponies which may have indicated increased bone resorption. Mild hypercalcemia, hypophosphatemia and elevated C-terminal PTH levels were associated with oliguria. Total daily urinary excretion of calcium and phosphorus decreased as oliguria developed. The levels of C-terminal PTH were increased in all four animals. This appears to have been related to their diminished renal function in that C-terminal fragments of intact PTH (which require functioning kidneys in order to be cleared) were probably being accumulated. Although there was no evidence with regard to an actual increase in PTH secretion, prolongation of intact PTH half-life due to renal tubular damage may have contributed to the development of hypercalcemia.",
+        "journal": "The Cornell veterinarian",
+        "year": "1986",
+        "authors": [
+          "Elfers R S",
+          "Bayly W M",
+          "Brobst D F",
+          "Reed S M",
+          "Liggitt H D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Animals",
+          "Calcium",
+          "Chromates",
+          "Horses",
+          "Hydroxyproline",
+          "Male",
+          "Mercuric Chloride",
+          "Orchiectomy",
+          "Parathyroid Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3731786/"
+      },
+      {
+        "pmid": "2848229",
+        "title": "Effect of dietary calcium, phosphorus, chloride, and zeolite on the development of tibial dyschondroplasia.",
+        "abstract": "The effect of synthetic zeolite was investigated on the development of tibial dyschondroplasia in young broilers fed diets in which the dietary levels of calcium, phosphorus, and chloride ranged from adequate to deficient. In the first two experiments the calcium level was maintained at .65% and four combinations were fed of .30% and .15% chloride and .75% and .50% phosphorus with and without 1% zeolite. Feeding the high phosphorus diet caused a high incidence of tibial dyschondroplasia that was lowered by feeding 1% zeolite. In both experiments the feeding of zeolite at a low level of dietary phosphorus caused a significant lowering of 16-day weight and bone ash. In the third experiment, when diets containing all combinations of .65% and .80% calcium and .50% and .60% phosphorus were fed, the addition of 1% zeolite caused a significant lowering of the 16-day weight, bone ash, and incidence, score, and percentage severe tibial dyschondroplasia. Once again as in the previous two experim",
+        "journal": "Poultry science",
+        "year": "1988",
+        "authors": [
+          "Edwards H M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aluminum Silicates",
+          "Animals",
+          "Calcium, Dietary",
+          "Chickens",
+          "Chlorides",
+          "Diet",
+          "Osteochondrodysplasias",
+          "Phosphorus",
+          "Poultry Diseases",
+          "Tibia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2848229/"
+      },
+      {
+        "pmid": "7871700",
+        "title": "Substitution of dietary calcium chloride for calcium carbonate reduces urinary ph and urinary phosphorus excretion in adult cats.",
+        "abstract": "In a 4x4-wk cross-over study, eight adult cats were given four moist diets containing identical amounts of calcium (13.9 mmol/MJ) but with different ratios of calcium carbonate to calcium chloride, the calcium salts providing half of the total dietary calcium. Increasing amounts of calcium chloride were substituted for equimolar amounts of calcium carbonate. Higher intakes of calcium chloride caused significantly lower pH values in postprandial and 24-h urine samples. The urinary excretion of ammonium and titratable acid rose with increasing calcium chloride intake. The urinary concentrations of calcium and magnesium were not affected by the type of calcium salt, but the urinary excretion and concentration of phosphorus were significantly depressed when the amount of calcium chloride in the diet was increased. The results are discussed in the context of dietary prevention of and therapy for struvite urolithiasis in cats.",
+        "journal": "The veterinary quarterly",
+        "year": "1994",
+        "authors": [
+          "Pastoor F J",
+          "Opitz R",
+          "Van 't Klooster A T",
+          "Beynen A C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Body Weight",
+          "Calcium Carbonate",
+          "Calcium Chloride",
+          "Calcium, Dietary",
+          "Cat Diseases",
+          "Cats",
+          "Cross-Over Studies",
+          "Energy Intake",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7871700/"
+      },
+      {
+        "pmid": "26813509",
+        "title": "[Renal hypophosphatemia:pathophysiology and treatment].",
+        "abstract": "Serum level of phosphate is regulated by the kidney, especially proximal tubule. The transcellular transport of phosphate in the proximal tubule is mediated via Na dependent transporters, i.e., NPT2a and NPT2b at the luminal membrane, and unknown channel at the basolateral side. The transport of phosphate via NPT2a and NPT2b is further regulated by factors, such as PTH, FGF23, and 1,25(OH)(2)D. Several hereditary diseases that cause hypophoshatemia specically are known. In addition, dysfunction of proximal tubule may develop Fanconi syndrome, which also causes hypherphosphaturia. In this section, I describe the renal mechanisms of phosphate handling and the causes of hypophosphatemia along with its treatment.",
+        "journal": "Clinical calcium",
+        "year": "2016",
+        "authors": [
+          "Sekine Takashi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Calcitriol",
+          "Chloride Channels",
+          "Dent Disease",
+          "Fanconi Syndrome",
+          "Fibroblast Growth Factor-23",
+          "Fibroblast Growth Factors",
+          "Humans",
+          "Hypophosphatemia",
+          "Kidney Tubules, Proximal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26813509/"
+      },
+      {
+        "pmid": "25481805",
+        "title": "Bone and metabolic complications of urinary diversions.",
+        "abstract": "Hyperchloremic metabolic acidosis is a complication of urinary diversion using ileum or colon. Its prevalence ranges from 25% and 46% depending on the procedure used and renal function of the patient. It is a consequence of intestinal fluid and electrolyte exchange between intestinal mucosa and urine. The main mechanism is absorption of ammonium and chloride from urine. Long-term chronic metabolic acidosis in these patients may lead to impaired bone metabolism and osteomalacia. Regular monitoring of pH, chlorine, bicarbonate, and calcium-phosphorus metabolism is therefore essential for early diagnosis and treatment.",
+        "journal": "Endocrinologia y nutricion : organo de la Sociedad Espanola de Endocrinologia y Nutricion",
+        "year": "2015",
+        "authors": [
+          "Cano Megías Marta",
+          "Muñoz Delgado Eva Golmayo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acidosis",
+          "Alkalosis",
+          "Bicarbonates",
+          "Bone Diseases, Metabolic",
+          "Calcium",
+          "Chlorides",
+          "Colon",
+          "Gastric Mucosa",
+          "Humans",
+          "Hypokalemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25481805/"
+      },
+      {
+        "pmid": "27908485",
+        "title": "Managing Fluid and Electrolyte Disorders in Kidney Disease.",
+        "abstract": "Because of the role of the kidneys in maintaining homeostasis in the body, kidney disease leads to derangements of fluid, electrolyte, and acid-base balance. The most effective therapy of a uremic crisis is careful management of fluid balance, which involves thoughtful assessment of hydration, a fluid treatment plan personalized for the specific patient, and repeated and frequent reassessment of fluid and electrolyte balance. Disorders of sodium, chloride, potassium, calcium, and phosphorus are commonly encountered in kidney disease and some may be life-threatening. Treatment of metabolic acidosis and nutritional support is frequently needed.",
+        "journal": "The Veterinary clinics of North America. Small animal practice",
+        "year": "2017",
+        "authors": [
+          "Langston Cathy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acid-Base Imbalance",
+          "Animals",
+          "Cat Diseases",
+          "Cats",
+          "Dog Diseases",
+          "Dogs",
+          "Fluid Therapy",
+          "Kidney Diseases",
+          "Resuscitation",
+          "Water-Electrolyte Imbalance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27908485/"
+      },
+      {
+        "pmid": "1539911",
+        "title": "Effects of phosphorus/calcium-restricted and phosphorus/calcium-replete 32% protein diets in dogs with chronic renal failure.",
+        "abstract": "Twenty-four dogs with induced, severe chronic renal failure were allotted to 2 groups of 12 each. Group-A dogs were fed a 0.4% phosphorus (P)/0.6% calcium, 32% protein diet, and group-B dogs were fed a 1.4% P/1.9% calcium, 32% protein diet. Dogs were studied over 24 months to determine clinical status, survival, blood biochemical alterations, glomerular filtration rate (GFR), urinary excretion of P and protein, renal morphologic changes, and renal tissue concentrations of calcium, P, and magnesium. Group-A dogs developed statistically significant differences from group-B dogs in several blood biochemical values (PCV and total solids, calcium, P, potassium, sodium, chloride, total CO2 (TCO2), anion gap, and parathyroid hormone concentrations) and in urinary P excretion. Mean (+/- SEM) GFR values in group-A and group-B dogs were nearly identical when diets were initiated (group A = 0.73 +/- 0.05 ml/min/kg of body weight; group B = 0.72 +/- 0.08 ml/min/kg), but significantly (P = 0.0346) ",
+        "journal": "American journal of veterinary research",
+        "year": "1992",
+        "authors": [
+          "Finco D R",
+          "Brown S A",
+          "Crowell W A",
+          "Groves C A",
+          "Duncan J R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acid-Base Equilibrium",
+          "Animals",
+          "Blood Pressure",
+          "Calcium",
+          "Calcium, Dietary",
+          "Carbon Dioxide",
+          "Chlorides",
+          "Dietary Proteins",
+          "Dog Diseases",
+          "Dogs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1539911/"
+      },
+      {
+        "pmid": "2155899",
+        "title": "High dietary calcium to phosphorus ratio and alkali-forming potential as factors promoting silica urolithiasis in sheep.",
+        "abstract": "Sheep were used to study factors previously found to promote silica urolithiasis in a rat model. In addition to high silica, these dietary factors included elevated calcium, a high calcium to phosphorus ratio and alkali-forming effects. Wether lambs had ad libitum access to a diet of 50% of grass hay and 50% ground oats plus supplement. Diet analysis was 3.4% total SiO2, .29% calcium, .25% phosphorus, 11.3% CP and 28% ADF. Treatments (40 lambs/treatment) consisted of a control (C), limestone to increase dietary calcium to .6% (L), L + 1% sodium bicarbonate (LS) and L + 1% ammonium chloride (LA). After a 91-d experimental period followed by a 56-d postexperimental finishing period, silica kidney deposits were found in all treatments, and SiO2 made up 74% to 97% of the urolithic ash. Kidney urolith incidences in the four treatments were C, 7/40; L, 12/40; LS, 20/40; and LA, 9/40. A higher urolith incidence in LS (LS vs C, P less than .05) and a trend toward a higher incidence in L (L vs ",
+        "journal": "Journal of animal science",
+        "year": "1990",
+        "authors": [
+          "Stewart S R",
+          "Emerick R J",
+          "Pritchard R H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkalies",
+          "Animals",
+          "Calcium, Dietary",
+          "Diet",
+          "Male",
+          "Phosphorus",
+          "Sheep",
+          "Sheep Diseases",
+          "Silicon Dioxide",
+          "Urinary Calculi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2155899/"
+      },
+      {
+        "pmid": "1763670",
+        "title": "Differential diagnosis of hypercalcemia.",
+        "abstract": "The differential diagnosis of hypercalcemia has expanded to over 25 separate disease states, with primary hyperparathyroidism and malignancy accounting for 80-90% of all hypercalcemic patients. Primary hyperparathyroidism comprises the majority of hypercalcemic patients among the ambulatory population, but malignancy accounts for up to 65% of such patients in the hospital. Factors favoring primary hyperparathyroidism include a family history of hyperparathyroidism or multiple endocrine neoplasia, a history of childhood radiation to the head and neck, the postmenopausal state, a history of renal calculi or peptic ulcer, hypertension, the induction of hypercalcemia by thiazides, or an asymptomatic patient with a prolonged, stable mild hypercalcemia. The usefulness of the serum calcium, parathyroid hormone, chloride, phosphorus, serum 25-OHD, and 1,25-(OH)2D, and urinary calcium in the differential diagnosis of hypercalcemia is discussed. The pitfalls of an excessive reliance on the serum",
+        "journal": "Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research",
+        "year": "1991",
+        "authors": [
+          "Lafferty F W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcitriol",
+          "Calcium",
+          "Chlorides",
+          "Diagnosis, Differential",
+          "Discriminant Analysis",
+          "Hematocrit",
+          "Humans",
+          "Hypercalcemia",
+          "Hyperparathyroidism",
+          "Multivariate Analysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1763670/"
+      },
+      {
+        "pmid": "11740230",
+        "title": "Renal excretion of calcium and phosphorus in premature infants with incipient late metabolic acidosis.",
+        "abstract": "Premature infants receiving alimentation with cow milk-based formulas run a considerably high risk of incipient late metabolic acidosis, an early stage developing of manifest late metabolic acidosis. Is bone metabolism involved in pathophysiologic mechanisms characterizing this early stage of retention acidosis?",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "2001",
+        "authors": [
+          "Kalhoff H",
+          "Diekmann L",
+          "Rudloff S",
+          "Manz F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acidosis, Renal Tubular",
+          "Bone Development",
+          "Bone and Bones",
+          "Calcium",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Infant",
+          "Infant, Low Birth Weight",
+          "Infant, Newborn",
+          "Infant, Premature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11740230/"
+      },
+      {
+        "pmid": "15161952",
+        "title": "Effect of ammonium chloride and dietary phosphorus in the azotaemic rat. Part II--Kidney hypertrophy and calcium deposition.",
+        "abstract": "Kidney hypertrophy is stimulated by both partial nephrectomy and NH(4)Cl administration. Also, parathyroidectomy (PTX) has been reported to prevent kidney hypertrophy induced by a high protein diet. Our goal was to determine in the azotaemic rat: (i) the combined effects of NH(4)Cl administration and dietary phosphorus on the development of kidney hypertrophy and calcium deposition in the kidney and (ii) whether the absence of parathyroid hormone (PTH) affected the development of kidney hypertrophy and calcium deposition.",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "2004",
+        "authors": [
+          "Jara Aquiles",
+          "Chacón Cecilia",
+          "Ibaceta Magdalena",
+          "Valdivieso Andres",
+          "Felsenfeld Arnold J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Ammonium Chloride",
+          "Animals",
+          "Calcium",
+          "Creatinine",
+          "Disease Progression",
+          "Diuretics",
+          "Hypertrophy",
+          "Kidney",
+          "Male",
+          "Nephrectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15161952/"
+      },
+      {
+        "pmid": "30236553",
+        "title": "Usefulness of urinary parameters in advanced chronic kidney disease.",
+        "abstract": "This review discusses the diagnostic value of urinary parameters in the setting of advanced chronic kidney disease and we present the key concepts that summarise the suggestions of the manuscript.",
+        "journal": "Nefrologia",
+        "year": "2019",
+        "authors": [
+          "Lorenzo Sellarés Víctor"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acids",
+          "Calcium",
+          "Cardio-Renal Syndrome",
+          "Creatinine",
+          "Dietary Proteins",
+          "Diuresis",
+          "Drinking",
+          "Fruit",
+          "Humans",
+          "Nitrogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30236553/"
+      },
+      {
+        "pmid": "4865974",
+        "title": "Oculo-cerebro-renal syndrome. A review.",
+        "abstract": "",
+        "journal": "American journal of diseases of children (1960)",
+        "year": "1968",
+        "authors": [
+          "Abbassi V",
+          "Lowe C U",
+          "Calcagno P L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acidosis",
+          "Amino Acid Metabolism, Inborn Errors",
+          "Amino Acids",
+          "Bicarbonates",
+          "Bone Diseases",
+          "Brain Diseases",
+          "Calcium Chloride",
+          "Cataract",
+          "Chromatography",
+          "Eye Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4865974/"
+      },
+      {
+        "pmid": "1422185",
+        "title": "Concentration changes of electrolytes in serum of chronic chagasic myocardiopathic patients. Sodium, potassium, chloride, calcium, inorganic phosphorus and magnesium.",
+        "abstract": "Sodium, potassium, chloride, calcium, inorganic phosphorus (Pi) and magnesium contents in the serum of 75 myocardiopathic chagasic patients together with that in 29 healthy controls were determined. Blood samples were taken by catheterization from the superior cava vein (SCV), coronary sinus (CS), pulmonary artery (PA) and a peripheral artery, usually the femoral (FA). The results show that the average serum sodium, potassium, chloride, calcium and PI were invariably different in most samples, except the levels of potassium in SCV and Pi levels in FA. The serum concentration of magnesium was significantly different only in the blood of CS. In general one can observe that in the chagasic patients the serum sodium, chloride and calcium tend to diminish while serum potassium, Pi and magnesium tend to increase, especially in CS blood. The coronary gradient indicates that sodium, chloride and calcium tend to deposit in heart tissues, whereas the other elements (potassium, magnesium and Pi) ",
+        "journal": "Journal of trace elements and electrolytes in health and disease",
+        "year": "1992",
+        "authors": [
+          "Burguera M",
+          "Burguera J L",
+          "Alarcón O M",
+          "Dávila D",
+          "Carrasco H A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Chagas Cardiomyopathy",
+          "Chronic Disease",
+          "Electrolytes",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1422185/"
+      },
+      {
+        "pmid": "1524486",
+        "title": "Hypocalcemia after thyroidectomy.",
+        "abstract": "Serum calcium, sodium, potassium, chloride, magnesium, phosphorus, osmolarity, total protein, albumin, parathyroid hormone, and calcitonin values were systematically surveyed in 135 patients who underwent thyroidectomy and in 104 control surgical patients. A transient and moderate hypocalcemia developed after operation in thyroidectomized and control patients. Concentrations of other electrolytes, osmolarity, proteins, and albumin followed the same pattern of evolution. After thyroidectomy, the degree and duration of hypocalcemia increased with the extent of thyroid resection. A profound hypocalcemia (less than 2.0 mmol/L) and a marked reduction of the parathyroid hormone concentration (below normal) were present in 12% and 8% of cases after subtotal thyroidectomy and in 22% after total thyroidectomy. Calcitonin values did not increase after thyroidectomy. A slight correlation was observed between the preoperative serum alkaline phosphatase level and the minimal postoperative serum cal",
+        "journal": "Archives of surgery (Chicago, Ill. : 1960)",
+        "year": "1992",
+        "authors": [
+          "Demeester-Mirkine N",
+          "Hooghe L",
+          "Van Geertruyden J",
+          "De Maertelaer V"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Calcium",
+          "Female",
+          "Humans",
+          "Hypocalcemia",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1524486/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:34:58.522544",
+  "success": true,
+  "error_message": null
+}

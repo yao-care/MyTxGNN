@@ -1,0 +1,231 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "folic acid deficiency anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02118402",
+      "title": "In Home Iron Fortification in Kenyan Infants: Effect of Co-supplementation With Galactooligosaccharides (GOS) on the Gut Microbiota Composition and the Effectiveness of Iron Supplementation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-12",
+      "country": "Kenya",
+      "enrollment": 155,
+      "brief_summary": "Iron deficiency and anemia are health issues affecting mainly infants and women in developing countries. Iron deficiency in infancy can have long-lasting impact on cognitive and motor development of the child. Iron fortification has shown to be effective against anemia. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Therefore we want to assess the effects of home fortificat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-10 months at baseline\n* Assessment of good health as assessed by professional staff at Kikoneni Health Clinic.\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<7g/dL; these participants will be referred for treatment at",
+      "endpoints": [
+        "The co-primary outcomes are the gut microbiome and gut inflammation"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02118402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05681871",
+      "title": "A South African Multi-centre Pilot Trial to Assess the Feasibility and Clinical Efficacy of Preoperative Oral Iron to Treat Preoperative Iron-deficiency Anaemia in Children Undergoing Elective Noncardiac Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-02-09",
+      "completion_date": "2025-05-31",
+      "country": "South Africa",
+      "enrollment": 755,
+      "brief_summary": "Preoperative anaemia has been shown to be associated with worse outcomes after surgery in both adults and children. Limited research has been done on how common preoperative iron-deficiency anaemia (IDA) is in children and how best to treat it. Oral iron is a relatively cost-effective treatment for IDA. This study aims to show whether giving children with IDA oral iron for 6-12 weeks before their surgery significantly improves their haemoglobin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 6 months to \\<16 years\n* Noncardiac surgery\n* Elective surgery\n* Anaemic as per World Health Organisation criteria\n\nExclusion Criteria:\n\n* Patient or parent refusal\n* Unable to obtain written consent at the surgical outpatient clinic\n* Surgery planned within 4 weeks fro",
+      "endpoints": [
+        "Delta Haemoglobin = Change in haemoglobin pre- and post- oral iron supplementation"
+      ],
+      "sponsor": "University of Cape Town",
+      "url": "https://clinicaltrials.gov/study/NCT05681871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02666417",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 64,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Thus, there is an urgent need to find safer formulations of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by professional staff at Msambweni District Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L ; these infants will be referred for treatment a",
+      "endpoints": [
+        "Change from baseline in the isotopic ratio of iron in blood at week 5"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02666417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088958",
+      "title": "Diarrhea, Malaria, Anemia, and Helminthiasis Prevention Through Household-based Interventions in Rural Western Kenya: the Nyando Integrated Child Health and Education (NICHE) Project",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2014-09",
+      "country": "Kenya",
+      "enrollment": 7200,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness of household-based distribution of evidence-based health products and to measure the health impact of these combined interventions on a population basis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 6-36 months at the time of enrollment\n* Live within the study area for the duration of the intervention and follow-up period\n\nExclusion Criteria:\n\n* Unavailable for enrollment on 3 separate household visits\n* Parental refusal to give informed consent",
+      "endpoints": [
+        "Product sales and use (coverage)"
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT01088958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02989311",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-08",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 23,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA by ensuring that the iron needs of infants and young children are met without changing their traditional diet. In order to optimize iron absorption timing of MNP consumption might as well be important. This is because hepcidin, a ke",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by health professional staff at Msambweni County Referral Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L; these infants will be referred fo",
+      "endpoints": [
+        "Change from baseline in isotopic ratio of iron in blood at day 18 and 19 for Study 1 and 2 respectively"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02989311"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04464850",
+      "title": "Effects Intravenous Iron and Oral Iron Therapy on Erythropoietin Dose in Maintenance Hemodialysis Patients: An Open-label, Randomized, Controlled Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-07-29",
+      "completion_date": "2022-07-31",
+      "country": "Thailand",
+      "enrollment": 124,
+      "brief_summary": "This study is aim to compare the efficacy of intravenous versus oral iron therapy regarding the hemoglobin levels, iron status and erythropoietin dosage in maintenance hemodialysis patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Hemodialysis for at least 3 months\n* Hemoglobin levels between 8 and 11.5 g/dl inclusive\n* Transferrin saturation (TSAT) \\<50% and ferritin \\<800 mg/dl\n* Stable dose of epoetin of any types and iron therapy for at least 1 month\n\nExclusion Criteria:\n\n* History ",
+      "endpoints": [
+        "Changes of epoetin dose"
+      ],
+      "sponsor": "Chiang Mai University",
+      "url": "https://clinicaltrials.gov/study/NCT04464850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05682261",
+      "title": "The Effect of Multiple Micronutrient Supplements in Reducing Anemia Among Women of Reproductive Age Compared to Iron-folic Acid at Kebribeyah District in Somali Regional State, Ethiopia- A Community-based Individual Randomized Control Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-03-23",
+      "completion_date": "2023-10-17",
+      "country": "Ethiopia",
+      "enrollment": 265,
+      "brief_summary": "The goal of this clinical trial is to test the effect of multiple micronutrient supplements in reducing anemia in women of reproductive age in comparison with iron-folic acid.\n\nThe main questions it aims to answer are:\n\n* What is the effect of multiple micronutrient supplements in reducing anemia among women of reproductive age in comparison with iron-folic acid?\n* What is the effect of multiple micronutrient supplements in reducing iron deficiency among women of reproductive age in comparison w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age range of 18-49 years.\n* Mildly anemic (Hb=11.0-11.9 g/dl) or moderately anemic (Hb=8.0-10.9 g/dl) woman\n* Permanent residents (lived for at least six months in the enumeration area)\n\nExclusion Criteria:\n\n* A woman whose age is below or above the age range 18-49 year\n* A pr",
+      "endpoints": [
+        "Change in mean hemoglobin concentrations among women of reproductive age",
+        "Change in overall anemia among women of reproductive age"
+      ],
+      "sponsor": "Ethiopian Public Health Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05682261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01198574",
+      "title": "The Role of Sub-clinical Inflammation on the Iron Status of Myanmar Anaemic Adolescent Schoolgirls During Iron and Vitamin A Supplementation",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2010-12",
+      "country": "Burma",
+      "enrollment": 402,
+      "brief_summary": "Anemia and vitamin A deficiency (VAD) are major nutritional problems in the world and also in Myanmar. Both nutrient deficiencies result from interaction of several causal factors, and a better understanding of the etiology to interpret the prevalence and to formulate appropriate measures to reduce these deficiencies is necessary. There is a growing concern on the role of sub-clinical inflammation on the nutritional status indicators during the nutritional status assessment. However, there is la",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adolescent girls (age 12-19 years)\n* already experienced menarche\n* anemic girls (Hb\\<120 g/L)\n* no known illness (apparently healthy)\n* free from haemoglobinopathy\n* No regular consumption of iron and vitamin A supplement during the last 3 months\n\nExclusion Criteria:\n\n* subje",
+      "endpoints": [
+        "Haemoglobin Level",
+        "Status of Tissue Iron Store",
+        "Status of Cellular Iron Deficiency"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT01198574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03866837",
+      "title": "Prebiotic GOS and Lactoferrin for Beneficial Gut Microbiota With Iron Supplements",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-15",
+      "completion_date": "2023-04-30",
+      "country": "Switzerland, Kenya",
+      "enrollment": 288,
+      "brief_summary": "The ultimate goal of this research is to develop a means to safely administer iron supplements to infants in settings with a high infection burden. The investigators will conduct a randomized clinical trial in 6 month-old Kenyan infants in conjunction with mechanistic microbiota studies using a novel long-term continuous polyfermenter platform inoculated with immobilized fecal microbiota from Kenyan infants. Oral iron supplements are associated with a significant 15% increase in the rate of diar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* vaginal or cesarean delivery\n* an infant age of 6 months (±3 weeks)\n* mother ≥15 years of age\n* infant still breastfeeding\n* anticipated residence in the area for the study duration.\n\nExclusion Criteria:\n\n* inability to provide informed consent\n* hemoglobin \\< 70 g/L\n* Z score",
+      "endpoints": [
+        "Ratio of Harmful to Beneficial Bacterial Genera in Fecal Microbiota as Determined by Quantitative Polymerase Chain Reaction (qPCR) at 1 Month"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT03866837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02959125",
+      "title": "NutFish and Nutrient Supplementation in Pregnancy Class to Improve Maternal and Birth Outcomes",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2016-12-12",
+      "completion_date": "2017-12-20",
+      "country": "Indonesia",
+      "enrollment": 72,
+      "brief_summary": "This study evaluates the intervention of Nut Fish based food, micro nutrients supplementation and pregnancy class to improve maternal and birth outcome. This is cluster randomized trial with two arms. The intervention group will receive Nut Fish based supplementation, multiple micro nutrients, and pregnancy class. The control group will receive government food supplementation, iron folic acid supplementation, and pregnancy class.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* First trimester of pregnancy\n* Anemic or Mid Upper Arm Circumference \\< 23.5cm or no weight gain\n* Plan to deliver at village midwives\n* residence in the study area\n\nExclusion Criteria:\n\n* severe anemia \\< 7.0g/dl",
+      "endpoints": [
+        "Birth weight"
+      ],
+      "sponsor": "Semarang Health Polytechnic",
+      "url": "https://clinicaltrials.gov/study/NCT02959125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02437955",
+      "title": "Evaluating the National Fortification Policy in Senegal Assessment of Iron Bio-availability in Mother and Child Pairs From Wheat Flour Fortified With Iron With and Without Phenolic Containing Beverages",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2015-10",
+      "country": "Senegal",
+      "enrollment": 34,
+      "brief_summary": "In Senegal, iron deficiency affects 39% of and 82% of women and children between 12 and 50 months indicating that iron deficiency is a major health problem. The government of Senegal has implemented a flour fortification program including iron and folate. Iron is a difficult mineral to add to foods efficiently due to its organoleptic properties and typical low bioavailability in man. The aim of this study is to determine iron absorption from fortified wheat flour consumed with a phenolic contain",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Mother and child are willing to participate in the study jointly\n\nSpecific inclusions criteria for mothers\n\n* Body weight \\< 65 kg\n* 17 ≤ BMI ≤ 25 (kg/m2)\n* Non anemic (Hb ≥ 11,0 g/dl)\n* Generally healthy and no chronic illnesses\n* Non pregnant\n* Non lactating\n* No blood donati",
+      "endpoints": [
+        "Iron absorption measured as iron incorporation of stable isotopic labels in red blood cells 14 days after administration"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02437955"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01111864",
+      "title": "The Effect of Iron Fortification of Complementary Foods on Iron Status and Infant Gut Microbiota in Kenya",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2012-10",
+      "country": "Kenya",
+      "enrollment": 160,
+      "brief_summary": "Infants and children under two years are the group with the highest rates of iron deficiency anemia. Provision of sufficient dietary iron to this age group is a challenge, and in-home iron fortification of complementary foods using micronutrient powders can be an effective approach. However, WHO has recently cautioned against untargeted use of in-home micronutrient powders that contain the entire iron RDA for a child in a single dose in areas with high rates of infections from malaria and diarrh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mother at least ≥15 years of age, infants 5.5- 6.5 months\n* Willingness to provide informed consent\n* Apparent good health\n* Long-term residence in study site and anticipating residing in the area for at least 3 years\n* Speak a Mjikenda language or Kiswahili in the home\n* Will",
+      "endpoints": [
+        "gut microbiota composition"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT01111864"
+    }
+  ],
+  "timestamp": "2026-03-04T16:16:50.252781",
+  "success": true,
+  "error_message": null
+}

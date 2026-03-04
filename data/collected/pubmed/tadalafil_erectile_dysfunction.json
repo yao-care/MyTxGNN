@@ -1,0 +1,618 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "erectile dysfunction",
+    "query_string": "Tadalafil AND erectile dysfunction"
+  },
+  "data": {
+    "query": "Tadalafil AND erectile dysfunction",
+    "results": [
+      {
+        "pmid": "28741090",
+        "title": "Direct comparison of tadalafil with sildenafil for the treatment of erectile dysfunction: a systematic review and meta-analysis.",
+        "abstract": "Erectile dysfunction (ED) is a major care problem worldwide. Tadalafil and sildenafil are the two most common phosphodiesterase 5 inhibitors used to treat ED. This systematic review and meta-analysis were conducted to directly compare tadalafil with sildenafil for the treatment of ED.",
+        "journal": "International urology and nephrology",
+        "year": "2017",
+        "authors": [
+          "Gong Binbin",
+          "Ma Ming",
+          "Xie Wenjie",
+          "Yang Xiaorong",
+          "Huang Yongming"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Back Pain",
+          "Controlled Clinical Trials as Topic",
+          "Erectile Dysfunction",
+          "Flushing",
+          "Humans",
+          "Male",
+          "Myalgia",
+          "Patient Preference",
+          "Phosphodiesterase 5 Inhibitors",
+          "Self Efficacy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28741090/"
+      },
+      {
+        "pmid": "24387078",
+        "title": "Efficacy and safety of long-term tadalafil 5 mg once daily combined with sildenafil 50 mg as needed at the early stage of treatment for patients with erectile dysfunction.",
+        "abstract": "This study aimed to evaluate the efficacy and safety of long-term and low-dose tadalafil combined with sildenafil as needed at the early stage of treatment for erectile dysfunction (ED). We enrolled 180 patients with ED 1 : 1 to tadalafil 5 mg once daily or once-a-day tadalafil 5 mg combined with sildenafil 50 mg as needed. The efficacy measures included the 5-item version of the International Index of Erectile Function (IIEF-5) and the Sexual Encounter Profile (SEP). The safety was assessed by observing drug tolerability and adverse events. Total IIEF-5 scores of patients with severe ED in combined medication group were significantly higher than in tadalafil alone group. Question 2 scores of IIEF-5 of patients with moderate and severe ED in combined medication group were significantly higher than in tadalafil alone group. The significant improvement in question 3 scores of IIEF-5 existed only in patients with severe ED receiving combined medication. The percentage of 'yes' responses t",
+        "journal": "Andrologia",
+        "year": "2015",
+        "authors": [
+          "Cui H",
+          "Liu B",
+          "Song Z",
+          "Fang J",
+          "Deng Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbolines",
+          "Drug Therapy, Combination",
+          "Early Medical Intervention",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Piperazines",
+          "Purines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24387078/"
+      },
+      {
+        "pmid": "31464074",
+        "title": "Chinese herbal medicine combined with tadalafil for erectile dysfunction: a systematic review and meta-analysis.",
+        "abstract": "Erectile dysfunction (ED) is a tough problem in medicine. This article aims to provide the latest evidence for the efficacy and safety of traditional Chinese medicine (TCM) combined with tadalafil in treatment of erectile dysfunction.",
+        "journal": "Andrology",
+        "year": "2020",
+        "authors": [
+          "Wang Y L",
+          "Geng L G",
+          "He C B",
+          "Yuan S Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Drugs, Chinese Herbal",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Tadalafil",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31464074/"
+      },
+      {
+        "pmid": "21711956",
+        "title": "Erectile dysfunction.",
+        "abstract": "Erectile dysfunction may affect 30% to 50% of men aged 40 to 70 years, with age, smoking, and obesity being the main risk factors, although 20% of cases have psychological causes.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "Khera Mohit",
+          "Goldstein Irwin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Double-Blind Method",
+          "Erectile Dysfunction",
+          "Humans",
+          "Phosphodiesterase Inhibitors",
+          "Prostatectomy",
+          "Sildenafil Citrate",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21711956/"
+      },
+      {
+        "pmid": "39532245",
+        "title": "Benefits of Tadalafil and Sildenafil on Mortality, Cardiovascular Disease, and Dementia.",
+        "abstract": "Erectile dysfunction and lower urinary tract symptoms, from benign prostatic hyperplasia and bladder neck obstructions, are prevalent in men and associated with an increased risk of cardiovascular diseases. Phosphodiesterase-5 (PDE-5) inhibitors, such as tadalafil and sildenafil, are used to treat erectile dysfunction and may also offer cardiovascular benefits due to their vasodilatory effects. This study evaluates the impact of these PDE-5 inhibitors on all-cause mortality, cardiovascular disease, and dementia in middle-aged men with erectile dysfunction and lower urinary tract symptoms over a 3 year follow-up period.",
+        "journal": "The American journal of medicine",
+        "year": "2025",
+        "authors": [
+          "Jehle Dietrich von Kuenssberg",
+          "Sunesra Raheed",
+          "Uddin Hamza",
+          "Paul Krishna K",
+          "Joglar Alejandro A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Tadalafil",
+          "Sildenafil Citrate",
+          "Cardiovascular Diseases",
+          "Phosphodiesterase 5 Inhibitors",
+          "Erectile Dysfunction",
+          "Middle Aged",
+          "Longitudinal Studies",
+          "Dementia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39532245/"
+      },
+      {
+        "pmid": "40349279",
+        "title": "Tamsulosin plus Tadalafil compared with Tamsulosin alone for benign prostate hyperplasia in patients with or without erectile dysfunction: a meta-analysis and meta-regression of randomized controlled trials.",
+        "abstract": "Combination pharmacotherapy with tamsulosin plus tadalafil could be a superior strategy compared to conventional monotherapy with tamsulosin in patients with Benign prostatic obstruction (BPO) with or without erectile dysfunction.",
+        "journal": "World journal of urology",
+        "year": "2025",
+        "authors": [
+          "Hashmi Tallal Mushtaq",
+          "Zia Rohma",
+          "Ashraf Hadiah",
+          "Siddiqui Momina",
+          "Haider Ali"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Adrenergic alpha-1 Receptor Antagonists",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Randomized Controlled Trials as Topic",
+          "Tadalafil",
+          "Tamsulosin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40349279/"
+      },
+      {
+        "pmid": "38081154",
+        "title": "Comparison of Monotherapies and Combination Therapy of Tamsulosin and Tadalafil for Treating Lower Urinary Tract Symptoms Caused by Benign Prostatic Hyperplasia with or without Erectile Dysfunction: A Meta-Analysis.",
+        "abstract": "There is limited research into the efficacy and safety of tadalafil combined with tamsulosin for the treatment of lower urinary tract symptoms (LUTS) caused by benign prostatic hyperplasia (BPH), with or without erectile dysfunction (ED). Therefore, we aimed to investigate the efficacy and safety of combination therapy compared to that of monotherapy.",
+        "journal": "Urologia internationalis",
+        "year": "2024",
+        "authors": [
+          "Liu Jianping",
+          "Zhou Weijian",
+          "Zhang Peng",
+          "Zhang Wei",
+          "Chang Congwang"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Lower Urinary Tract Symptoms",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Tadalafil",
+          "Tamsulosin",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38081154/"
+      },
+      {
+        "pmid": "31625449",
+        "title": "Meta-Analysis of Efficacy and Safety of Tadalafil Plus Tamsulosin Compared with Tadalafil Alone in Treating Men with Benign Prostatic Hyperplasia and Erectile Dysfunction.",
+        "abstract": "This meta-analysis was performed to evaluate the efficacy and safety of tadalafil plus tamsulosin compared with tadalafil alone in treating men with benign prostatic hyperplasia (BPH) and erectile dysfunction (ED) after 12 weeks' treatment. Systematic review was carried out using the Preferred Reporting Items for Systematic Reviews and Meta-analyses. MEDLINE, EMBASE, and the Cochrane Controlled Trials Register were searched to collect randomized controlled trials. The references of related articles were also searched. Four articles including 621 patients were involved in the analysis. The study identified that combination-therapy had significant improvements in total international prostate symptom score (IPSS), quality of life (QoL) and maximum urine flow rate (Qmax) compared with monotherapy, and there were no obvious significance in respects of post-void residual volume, international index of erectile function and IPSS storage. The difference of total IPSS was mainly reflected in th",
+        "journal": "American journal of men's health",
+        "year": "2019",
+        "authors": [
+          "Zhou Zhongbao",
+          "Zheng Xuesong",
+          "Wu Jitao",
+          "Gao Zhenli",
+          "Xu Zhunan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Phosphodiesterase Inhibitors",
+          "Prostatic Hyperplasia",
+          "Tadalafil",
+          "Tamsulosin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31625449/"
+      },
+      {
+        "pmid": "28882778",
+        "title": "The Efficacy of Tadalafil Daily vs on Demand in the Treatment of Erectile Dysfunction: A Systematic Review and Meta-analysis.",
+        "abstract": "We present a review comparing the use of tadalafil daily vs on-demand for erectile dysfunction. We examined randomized controlled trials and observational studies that examined the use of tadalafil for at least 8 weeks of follow-up with the primary outcome of International Index for Erectile Dysfunction-Erectile Function domain. Eight studies that examined the desired dosing regimens were identified. Of these, 6 studies included the primary end point of 12 weeks. Those patients taking tadalafil daily for 12 weeks scored on average 1.82 points higher in International Index for Erectile Dysfunction-Erectile Function domain scores, although the difference may not be clinically significant (Fig. 1).",
+        "journal": "Urology",
+        "year": "2018",
+        "authors": [
+          "Bansal Utsav K",
+          "Jones Cameron",
+          "Fuller Thomas W",
+          "Wessel Charles",
+          "Jackman Stephen V"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Drug Administration Schedule",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Observational Studies as Topic",
+          "Phosphodiesterase 5 Inhibitors",
+          "Randomized Controlled Trials as Topic",
+          "Tadalafil",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28882778/"
+      },
+      {
+        "pmid": "38600694",
+        "title": "The effect of combination treatment with low-intensity shockwave therapy and daily tadalafil on severe erectile dysfunction: a double-blind, randomized, sham-controlled clinical trial.",
+        "abstract": "Patients with severe erectile dysfunction (ED) remain the most challenging group in terms of available noninvasive treatment modalities.",
+        "journal": "The journal of sexual medicine",
+        "year": "2024",
+        "authors": [
+          "Kalyvianakis Dimitrios",
+          "Mykoniatis Ioannis",
+          "Pyrgidis Nikolaos",
+          "Kapoteli Paraskeui",
+          "Zilotis Filimon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Tadalafil",
+          "Double-Blind Method",
+          "Middle Aged",
+          "Phosphodiesterase 5 Inhibitors",
+          "Combined Modality Therapy",
+          "Erectile Dysfunction",
+          "Extracorporeal Shockwave Therapy",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38600694/"
+      },
+      {
+        "pmid": "34775577",
+        "title": "Tadalafil improves erectile dysfunction and quality of life in men with cirrhosis: a randomized double blind placebo controlled trial.",
+        "abstract": "Patients with cirrhosis have high prevalence of erectile dysfunction (ED). The aim of this study was to study the efficacy and safety of tadalafil for ED in patients with cirrhosis.",
+        "journal": "Hepatology international",
+        "year": "2023",
+        "authors": [
+          "Jagdish Rakesh Kumar",
+          "Kamaal Ahmed",
+          "Shasthry Saggere Muralikrishna",
+          "Benjamin Jaya",
+          "Maiwall Rakhi"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Erectile Dysfunction",
+          "Tadalafil",
+          "Quality of Life",
+          "Carbolines",
+          "Liver Cirrhosis",
+          "Double-Blind Method",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34775577/"
+      },
+      {
+        "pmid": "17183346",
+        "title": "Do vardenafil and tadalafil have advantages over sildenafil in the treatment of erectile dysfunction?",
+        "abstract": "Erectile dysfunction (ED) affects up to 50% of men between the ages of 40 and 70 years of age. Sildenafil, vardenafil and tadalafil have all been shown to be similarly effective in the treatment of men with ED of vary etiologies, to have similar adverse effects profiles, and to improve quality-of-life by similar amounts. As these phosphodiesterase 5 (PDE5) inhibitors all increase the hypotensive effects of nitrates, they are not suitable for use in patients taking nitrates for the treatment of ischaemic heart disease. All three inhibitors must be used with caution in patients taking alpha(1)-adrenoceptors antagonists for benign prostatic hyperplasia. Although nonarteritic anterior ischaemic neuropathy has been reported in some users of the PDE5 inhibitors, there is no conclusive evidence that PDE5 inhibitors cause this rare effect. Tadalafil has a longer half-life than sildenafil or vardenafil, and a longer duration of action than sildenafil and vardenafil. Most preference studies have",
+        "journal": "International journal of impotence research",
+        "year": "2007",
+        "authors": [
+          "Doggrell S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbolines",
+          "Clinical Trials as Topic",
+          "Erectile Dysfunction",
+          "Humans",
+          "Imidazoles",
+          "Male",
+          "Phosphodiesterase Inhibitors",
+          "Piperazines",
+          "Purines",
+          "Sildenafil Citrate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17183346/"
+      },
+      {
+        "pmid": "20856843",
+        "title": "A once-daily dose of tadalafil for erectile dysfunction: compliance and efficacy.",
+        "abstract": "Selective phosphodiesterase type 5 inhibitors (PDE5Is) have revolutionized the treatment of erectile dysfunction (ED) in men. As an on-demand treatment, PDE5Is have excellent efficacy and safety in the treatment of ED due to a broad spectrum of etiologies. Nevertheless, these drugs do have side-effect profiles that are troublesome to some patients, eg, headache, dyspepsia, myalgia, etc. Furthermore, many patients and their partners dislike the necessity of on-demand treatment for ED, citing a desire for greater spontaneity with sexual interactions. In 2008, approximately 10 years after the release of the first commercially available PDE5I, a paradigm shift in the management of ED occurred with the approval of once-daily dose of tadalafil by the US Food and Drug Administration for the management of ED. The prolonged half-life of tadalafil lends itself well to this dosing regimen and conveys the advantage of separating medication from sexual interactions; lower dose therapy also carries ",
+        "journal": "Drug design, development and therapy",
+        "year": "2010",
+        "authors": [
+          "Washington Samuel L",
+          "Shindel Alan W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Carbolines",
+          "Drug Administration Schedule",
+          "Drug Approval",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Medication Adherence",
+          "Phosphodiesterase 5 Inhibitors",
+          "Phosphodiesterase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20856843/"
+      },
+      {
+        "pmid": "29341503",
+        "title": "Tadalafil 5 mg Once Daily Improves Lower Urinary Tract Symptoms and Erectile Dysfunction: A Systematic Review and Meta-analysis.",
+        "abstract": "We carried out a systematic review and meta-analysis to assess tadalafil 5 mg once-daily for the treatment of lower urinary tract symptoms (LUTS) and erectile dysfunction (ED).",
+        "journal": "Lower urinary tract symptoms",
+        "year": "2018",
+        "authors": [
+          "Wang Yilin",
+          "Bao Yiping",
+          "Liu Jie",
+          "Duan Lijun",
+          "Cui Yuanshan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Erectile Dysfunction",
+          "Humans",
+          "Lower Urinary Tract Symptoms",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Randomized Controlled Trials as Topic",
+          "Severity of Illness Index",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29341503/"
+      },
+      {
+        "pmid": "39692427",
+        "title": "Evaluation of the effect of daily tadalafil 5 mg versus daily sildenafil 25 mg on neutrophil-lymphocyte and platelet-lymphocyte ratios in patients with erectile dysfunction: A comparative randomized controlled study.",
+        "abstract": "Previous studies had shown that the neutrophils/lymphocytes (NLR) and platelets/lymphocytes (PLR) ratios could be used as markers of inflammatory load as well as prognostic factors in several medical conditions. The current study aimed to compare the effect of using daily tadalafil 5 mg/day versus daily sildenafil 25 mg/day in improving erectile function as well as their ability to reduce NLR and PLR.",
+        "journal": "Archivio italiano di urologia, andrologia : organo ufficiale [di] Societa italiana di ecografia urologica e nefrologica",
+        "year": "2024",
+        "authors": [
+          "Bakry Abdel Rahman",
+          "Mahran Ali Mohamed",
+          "Gaber Hisham Diab",
+          "Sedek Mohamed Ismail",
+          "GamalEl Din Sameh Fayek"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Sildenafil Citrate",
+          "Tadalafil",
+          "Erectile Dysfunction",
+          "Middle Aged",
+          "Phosphodiesterase 5 Inhibitors",
+          "Neutrophils",
+          "Blood Platelets",
+          "Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39692427/"
+      },
+      {
+        "pmid": "15709885",
+        "title": "Comparison of clinical trials with sildenafil, vardenafil and tadalafil in erectile dysfunction.",
+        "abstract": "Erectile dysfunction (ED) affects up to 50% of men, between 40 and 70 years of age. In the first major trial of sildenafil in ED, at 24 weeks, improved erections were reported by 77 and 84% of men taking sildenafil 50 and 100mg, respectively. Subsequently, sildenafil has been reported to be effective in men with ED associated with diabetes and prostate cancer, and in psychogenic ED. Sildenafil is safe in men with coronary artery disease, provided it is not used with the nitrates (a contraindication). The most commonly reported adverse effects with sildenafil are headache, flushing and dyspepsia. Vardenafil is more potent and more selective than sildenafil at inhibiting phosphodiesterase-5. Vardenafil is similarly effective to sildenafil in the treatment of ED. The only advantage that vardenafil has over sildenafil is that it does not inhibit phosphodiesterase-6 to alter colour perception, a rare side effect which sometimes occurs with sildenafil. Tadalafil has a longer duration of acti",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2005",
+        "authors": [
+          "Doggrell Sheila A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbolines",
+          "Controlled Clinical Trials as Topic",
+          "Cross-Over Studies",
+          "Erectile Dysfunction",
+          "Humans",
+          "Imidazoles",
+          "Male",
+          "Piperazines",
+          "Purines",
+          "Sildenafil Citrate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15709885/"
+      },
+      {
+        "pmid": "28628914",
+        "title": "Efficacy and Safety of Tadalafil Once-a-Day versus Tadalafil On-Demand in Patients with Erectile Dysfunction: A Systematic Review and Meta-Analyses.",
+        "abstract": "To compare the efficacy and safety between tadalafil once-a-day and tadalafil on-demand dosing regimen in patients with ED.",
+        "journal": "Urologia internationalis",
+        "year": "2017",
+        "authors": [
+          "Peng Zhufeng",
+          "Yang Lu",
+          "Dong Qiang",
+          "Wei Qiang",
+          "Liu Liangren"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Chi-Square Distribution",
+          "Drug Administration Schedule",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Odds Ratio",
+          "Penile Erection",
+          "Phosphodiesterase 5 Inhibitors",
+          "Randomized Controlled Trials as Topic",
+          "Recovery of Function"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28628914/"
+      },
+      {
+        "pmid": "14609620",
+        "title": "Efficacy and tolerability of tadalafil, a novel phosphodiesterase 5 inhibitor, in treatment of erectile dysfunction.",
+        "abstract": "Advances in molecular biology and protein chemistry, along with increasing understanding of the mechanisms of penile erection, have spurred development of pharmacologic approaches to the treatment of erectile dysfunction (ED). The next generation of oral agents includes tadalafil, a potent, highly selective phosphodiesterase 5 inhibitor. In vitro studies have shown that tadalafil enhances relaxation of trabecular smooth muscle, and clinical trials have supported its efficacy and tolerability in a broad population of men with ED. The effect of tadalafil in enhancing the erectile response to sexual stimulation is relatively rapid in onset and lasts for >or=24 hours. The ability of patients with ED treated with tadalafil to achieve improved erectile function is demonstrated by significantly increased subjective measures of penetration ability, successful intercourse, and sexual satisfaction. Partners have expressed similar or higher levels of satisfaction with the results of treatment. Me",
+        "journal": "The American journal of cardiology",
+        "year": "2003",
+        "authors": [
+          "Padma-Nathan Harin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "3',5'-Cyclic-GMP Phosphodiesterases",
+          "Carbolines",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Muscle, Smooth, Vascular",
+          "Phosphodiesterase Inhibitors",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14609620/"
+      },
+      {
+        "pmid": "12435622",
+        "title": "Erectile dysfunction: comparison of efficacy and side effects of the PDE-5 inhibitors sildenafil, vardenafil and tadalafil--review of the literature.",
+        "abstract": "Since introduction of the PDE-5 inhibitor sildenafil 4 years ago, there has been a fundamental change in the treatment of erectile dysfunction (ED). Intracavernosal or intraurethral injections of vasoactive substances or penile implants as mechanical aids now play hardly any part in it. - The development of the PDE-5 inhibitors vardenafil and tadalafil prompts the question of whether and how these three substances differ in terms of their efficacy and adverse effects. - Sildenafil has proven to be a very effective medicinal product. Studies with a follow-up period of up to 6 years have been conducted. The success rate of sildenafil varies in the group of ED patients with an organic underlying disease from 43% in patients who have undergone radical prostatectomy to 85% in patients with a neurological underlying disease, and amounts to an average 82% (range 43-85%, 100mg). - In an evaluation of spontaneous reports of deaths associated with sildenafil, the FDA concluded that there was no ",
+        "journal": "European journal of medical research",
+        "year": "2002",
+        "authors": [
+          "Gresser Ursula",
+          "Gleiter C H"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "3',5'-Cyclic-GMP Phosphodiesterases",
+          "Carbolines",
+          "Contraindications",
+          "Cyclic Nucleotide Phosphodiesterases, Type 5",
+          "Erectile Dysfunction",
+          "Humans",
+          "Imidazoles",
+          "Male",
+          "Phosphodiesterase Inhibitors",
+          "Phosphoric Diester Hydrolases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12435622/"
+      },
+      {
+        "pmid": "38894672",
+        "title": "Spontaneous erectile function recovery among young men with erectile dysfunction taking tadalafil 5 mg once a day.",
+        "abstract": "Daily (once a day [OaD]) tadalafil intake is a valuable option for men favoring spontaneous over scheduled sexual intercourse.",
+        "journal": "The journal of sexual medicine",
+        "year": "2024",
+        "authors": [
+          "Pozzi Edoardo",
+          "Corsini Christian",
+          "Bertini Alessandro",
+          "Belladelli Federico",
+          "Raffo Massimiliano"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Tadalafil",
+          "Erectile Dysfunction",
+          "Adult",
+          "Phosphodiesterase 5 Inhibitors",
+          "Penile Erection",
+          "Recovery of Function",
+          "Middle Aged",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38894672/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:46:00.732388",
+  "success": true,
+  "error_message": null
+}

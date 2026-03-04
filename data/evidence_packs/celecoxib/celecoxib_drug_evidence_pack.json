@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Celecoxib",
+    "drugbank_id": "DB00482"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 22
+  },
+  "indications": [
+    {
+      "disease": "osteoarthritis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 21,
+      "phase2": 7,
+      "phase4": 16
+    },
+    {
+      "disease": "spondyloarthropathy, susceptibility to",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 1,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "rheumatoid arthritis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 20,
+      "articles": 19,
+      "phase3": 3,
+      "phase2": 3,
+      "phase4": 8
+    },
+    {
+      "disease": "osteoarthritis susceptibility",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 2,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "ankylosing spondylitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 17,
+      "articles": 20,
+      "phase3": 2,
+      "phase2": 2,
+      "phase4": 8
+    }
+  ]
+}

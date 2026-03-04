@@ -1,0 +1,589 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbamazepine",
+    "disease": "epilepsy with generalized tonic-clonic seizures",
+    "query_string": "Carbamazepine AND epilepsy with generalized tonic-clonic seizures"
+  },
+  "data": {
+    "query": "Carbamazepine AND epilepsy with generalized tonic-clonic seizures",
+    "results": [
+      {
+        "pmid": "37872695",
+        "title": "Epilepsy with generalized tonic-clonic seizures alone: Electroclinical features and prognostic patterns.",
+        "abstract": "Epilepsy with generalized tonic-clonic seizures alone (GTCA) is a common but poorly characterized idiopathic generalized epilepsy (IGE) syndrome. Hence, we investigated electroclinical features, seizure outcome, and antiseizure medication (ASM) withdrawal in a large cohort of GTCA patients.",
+        "journal": "Epilepsia",
+        "year": "2024",
+        "authors": [
+          "Cerulli Irelli Emanuele",
+          "Gesche Joanna",
+          "Schlabitz Sophie",
+          "Fortunato Francesco",
+          "Catania Cecilia"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Prognosis",
+          "Retrospective Studies",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Seizures",
+          "Recurrence",
+          "Immunoglobulin E"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37872695/"
+      },
+      {
+        "pmid": "3121296",
+        "title": "Carbamazepine efficacy in adults with partial and generalized tonic-clonic seizures.",
+        "abstract": "Carbamazepine and phenytoin are drugs of choice in initial monotherapy for adult partial and secondarily generalized tonic-clonic seizures. These designations reflect the results of the Veterans Administration Epilepsy Cooperative Study Group of 1985. An earlier comparative study of carbamazepine and phenytoin by Ramsay and associates found both drugs equally effective in controlling new-onset seizures. Among the advantages of carbamazepine is that it causes relatively few cognitive and dysmorphic side effects. Its disadvantages are its unavailability in parenteral formulation and its metabolic autoinduction. The latter must be compensated for by planned dosage increases to maintain therapeutic plasma steady-state levels during the first 2 or 3 months of treatment. Carbamazepine is judged a drug of choice in the treatment of these secondarily generalized tonic-clonic seizures, and the drug of choice in children, adolescents, and women susceptible to the dysmorphic side effects associat",
+        "journal": "Epilepsia",
+        "year": "1987",
+        "authors": [
+          "Wilder B J",
+          "Rangel R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbamazepine",
+          "Epilepsies, Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Humans",
+          "Phenytoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3121296/"
+      },
+      {
+        "pmid": "33840584",
+        "title": "Update on first unprovoked seizure in children and adults: A narrative review.",
+        "abstract": "First seizures are always challenging for physicians. Determining etiology, risk of recurrence, need for diagnostic electroencephalogram (EEG) or neuroimaging, balancing starting anti-seizure medication (ASM) versus its potential adverse effects, and addressing patient and family concerns about social or emotional impact in lifestyle issues is always demanding.",
+        "journal": "Seizure",
+        "year": "2021",
+        "authors": [
+          "Jiménez-Villegas María José",
+          "Lozano-García Lucas",
+          "Carrizosa-Moog Jaime"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Child",
+          "Electroencephalography",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Recurrence",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33840584/"
+      },
+      {
+        "pmid": "19445769",
+        "title": "Epilepsy.",
+        "abstract": "About 3% of people will be diagnosed with epilepsy during their lifetime, but about 70% of people with epilepsy eventually go into remission.",
+        "journal": "BMJ clinical evidence",
+        "year": "2009",
+        "authors": [
+          "Marson Anthony G",
+          "Maguire Melissa",
+          "Ramaratnam Sridharan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Clinical Trials as Topic",
+          "Cost-Benefit Analysis",
+          "Drug Resistant Epilepsy",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445769/"
+      },
+      {
+        "pmid": "10530693",
+        "title": "Oxcarbazepine.",
+        "abstract": "The success of carbamazepine (CBZ) as a broad-spectrum antiepileptic drug (AED) has led to its use as first-line therapy in children and adults for partial and generalized tonic-clonic seizures. The limitations of CBZ include toxicity in sensitive individuals, autoinduction, which requires dose adjustment when therapy is initiated, and chronic hepatic induction, producing drug interactions when CBZ is used with AEDs and other drugs that undergo hepatic metabolism. One of two main products of CBZ microsomal metabolism, CBZ-10,11-epoxide (formed by oxidation of the double bond between C-10 and C-11), appears to provide antiepileptic efficacy but contributes significantly to clinical toxicity. The most common adverse effects of CBZ are central nervous system (CNS) symptoms, followed by gastrointestinal, hepatic, endocrine disturbances, and teratogenic effects. Oxcarbazepine (OXC) was developed to provide a compound chemically similar enough to CBZ to mimic its efficacy and overall safety ",
+        "journal": "Epilepsia",
+        "year": "1999",
+        "authors": [
+          "Tecoma E S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Animals",
+          "Anticonvulsants",
+          "Biological Availability",
+          "Biotransformation",
+          "Carbamazepine",
+          "Controlled Clinical Trials as Topic",
+          "Disease Models, Animal",
+          "Drug Administration Schedule",
+          "Drug Interactions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10530693/"
+      },
+      {
+        "pmid": "26844734",
+        "title": "Antiepileptic Drugs.",
+        "abstract": "Treatment of epilepsy starts with antiepileptic drug (AED) monotherapy. Knowledge of the spectrum of efficacy, clinical pharmacology, and modes of use for individual AEDs is essential for optimal treatment for epilepsy. This article addresses AEDs individually, focusing on key pharmacokinetic characteristics, indications, and modes of use.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2016",
+        "authors": [
+          "Abou-Khalil Bassel W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Levetiracetam",
+          "Oxcarbazepine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26844734/"
+      },
+      {
+        "pmid": "24370318",
+        "title": "Carbamazepine treatment of generalized tonic-clonic seizures in idiopathic generalized epilepsy.",
+        "abstract": "Evaluate the efficacy of carbamazepine in the treatment of idiopathic generalized epilepsy (IGE).",
+        "journal": "Seizure",
+        "year": "2014",
+        "authors": [
+          "Kenyon Katharine",
+          "Mintzer Scott",
+          "Nei Maromi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsy, Generalized",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Seizures",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24370318/"
+      },
+      {
+        "pmid": "33731397",
+        "title": "Disulfiram-induced epileptic seizures.",
+        "abstract": "Disulfiram has been widely used for over six decades in the treatment of alcohol dependence, as an aversive therapeutic agent. Despite having very few side effects when taken without concurrent alcohol consumption, some of these may underlie serious clinical complications. Epileptic seizure induction is a rare adverse effect of disulfiram and its aetiological mechanism is unknown. We present a hospitalised 47-year-old male patient with two episodes of generalised tonic-clonic seizures during treatment with disulfiram while abstinent from alcohol.",
+        "journal": "BMJ case reports",
+        "year": "2021",
+        "authors": [
+          "Nogueira Violeta",
+          "Mendes Mafalda Azevedo",
+          "Pereira Inês",
+          "Teixeira Joana"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Disulfiram",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Epilepsy, Tonic-Clonic",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33731397/"
+      },
+      {
+        "pmid": "29602083",
+        "title": "Antiepileptic drug treatment of generalized tonic-clonic seizures: An evaluation of regulatory data and five criteria for drug selection.",
+        "abstract": "A generalized tonic-clonic seizure (GTCS) is the most severe form of common epileptic seizure and carries the greatest risk of harm. The aim of this review is to provide an evidence-based guide for the selection of antiepileptic drugs (AEDs) for patients with GTCSs. Eight AEDs are approved in Europe and the USA for the treatment of both primarily GTCSs (PGTCSs) and secondarily GTCSs (SGTCSs) and are considered in this paper.",
+        "journal": "Epilepsy & behavior : E&B",
+        "year": "2018",
+        "authors": [
+          "Shorvon Simon D",
+          "Bermejo Pedro E",
+          "Gibbs Ayana A",
+          "Huberfeld Gilles",
+          "Kälviäinen Reetta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Benzodiazepines",
+          "Carbamazepine",
+          "Drug and Narcotic Control",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Humans",
+          "Lamotrigine",
+          "Levetiracetam",
+          "Nitriles",
+          "Phenytoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29602083/"
+      },
+      {
+        "pmid": "9068876",
+        "title": "Established antiepileptic drugs.",
+        "abstract": "The major established drugs used in the management of epilepsy are carbamazepine, valproic acid, phenytoin, phenobarbital, primidone, ethosuximide and benzodiazepine drugs. Carbamazepine and phenytoin are used mainly in the treatment of partial seizures and primarily or secondarily generalized tonic-clonic seizures. Valproic acid is effective against all types of seizures, but it is used most extensively in the management of generalized epilepsies. Ethosuximide is effective against absence seizures. Phenobarbital and primidone are effective against all types of seizures (except for absences) although they are less commonly used because of their sedative properties and adverse effects on cognition. Benzodiazepines are most valuable in the treatment of status epilepticus, but their long-term use is often associated with undesirable sedation and development of tolerance to their antiepileptic effect. Irrespective of the drug used, optimal clinical management requires individualization of ",
+        "journal": "Bailliere's clinical neurology",
+        "year": "1996",
+        "authors": [
+          "Perucca E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Barbiturates",
+          "Benzodiazepines",
+          "Carbamazepine",
+          "Epilepsy",
+          "Humans",
+          "Phenytoin",
+          "Succinimides",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9068876/"
+      },
+      {
+        "pmid": "11071103",
+        "title": "Precipitating factors and therapeutic outcome in epilepsy with generalized tonic-clonic seizures.",
+        "abstract": "The aim of the study was to evaluate the influence of precipitating factors and therapy on the outcome of epilepsy with generalized tonic-clonic seizures.",
+        "journal": "Acta neurologica Scandinavica",
+        "year": "2000",
+        "authors": [
+          "Bauer J",
+          "Saher M S",
+          "Burr W",
+          "Elger C E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Carbamazepine",
+          "Child",
+          "Child, Preschool",
+          "Convulsants",
+          "Electroencephalography",
+          "Epilepsy, Tonic-Clonic",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11071103/"
+      },
+      {
+        "pmid": "24437529",
+        "title": "Perspective on the use of perampanel and intravenous carbamazepine for generalized seizures.",
+        "abstract": "Several antiepileptic drugs are available for the treatment of epileptic patients. However, the treatment of some seizure types and novel drug formulations deserve further advances in epilepsy research.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2014",
+        "authors": [
+          "Franco Valentina",
+          "Iudice Alfonso",
+          "Grillo Elisabetta",
+          "Citraro Rita",
+          "De Sarro Giovambattista"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Clinical Trials, Phase III as Topic",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Infusions, Intravenous",
+          "Injections, Intravenous",
+          "Nitriles",
+          "Pyridones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24437529/"
+      },
+      {
+        "pmid": "23466140",
+        "title": "Seizures and intracranial hemorrhage.",
+        "abstract": "Seizures and intracranial hemorrhage are possible medical diseases that any obstetrician may encounter. This article reviews the cause, treatment, and medical management in pregnancy for seizures and intracranial hemorrhage, and how the two can overlap into preeclampsia or eclampsia. This article also highlights some challenging management issues from the obstetrician's perspective.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2013",
+        "authors": [
+          "Wilson Karen L",
+          "Alexander James M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Congenital Abnormalities",
+          "Eclampsia",
+          "Epilepsy",
+          "Female",
+          "Folic Acid",
+          "Heparin",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23466140/"
+      },
+      {
+        "pmid": "29020805",
+        "title": "Intravenous Carbamazepine for Adults With Seizures.",
+        "abstract": "To review the pharmacology, pharmacokinetics, efficacy, safety, dosage and administration, potential drug-drug interactions, and place in therapy of the intravenous (IV) formulation of carbamazepine (Carnexiv) for the treatment of seizures in adult patients.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2018",
+        "authors": [
+          "Vickery P Brittany",
+          "Tillery Erika E",
+          "DeFalco Alicia Potter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Adult",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Drug Interactions",
+          "Humans",
+          "Seizures",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29020805/"
+      },
+      {
+        "pmid": "33334546",
+        "title": "Current role of carbamazepine and oxcarbazepine in the management of epilepsy.",
+        "abstract": "Epilepsy is one of the most common neurological disorders, affecting approximately 50 million people worldwide. Despite a dramatic increase in treatment options over the past 30 years, it still ranks fourth in the world's disease burden. There are now close to 30 antiepileptic drugs (AEDs), with more than two thirds introduced to the market after carbamazepine (CBZ) and one third after its derivative, oxcarbazepine (OXC). Following the introduction of these newer AEDs, the role of CBZ and OXC in the therapeutic armamentarium for seizure control and effective epilepsy management needs to be reviewed. The main guidelines list both CBZ and OXC as first-line options or second-line alternatives for the treatment of focal-onset epilepsy and primary generalized tonic-clonic seizures. While evidence suggests that overall AEDs have similar efficacy, some newer AEDs may be better tolerated than CBZ. In line with this, there have been changes in treatment patterns, with many variations across dif",
+        "journal": "Seizure",
+        "year": "2020",
+        "authors": [
+          "Beydoun Ahmad",
+          "DuPont Sophie",
+          "Zhou Dong",
+          "Matta Maha",
+          "Nagire Venkatramana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Oxcarbazepine",
+          "Topiramate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33334546/"
+      },
+      {
+        "pmid": "15319835",
+        "title": "[Hashimoto encephalopathy].",
+        "abstract": "Hashimoto encephalopathy is a chronic relapsing steroid responsive encephalopathy characterized by antibodies against thyroid components. Etiology is still unknown. Confusion, seizures and coma are frequent reported symptoms. We present a 65-year old patient with acute onset of partial seizures and cognitive impairment. Hashimoto encephalopathy was assumed with diagnosis of Hashimoto thyroiditis and clinical syndrome. Symptoms resolved with thyroid treatment alone. Hashimoto encephalopathy should be considered in patients with unexplained encephalopathy, even when thyroid function seems to be normal.",
+        "journal": "Psychiatrische Praxis",
+        "year": "2004",
+        "authors": [
+          "Günther Peter",
+          "Kopf Andrea"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticonvulsants",
+          "Brain Diseases",
+          "Carbamazepine",
+          "Dementia, Vascular",
+          "Diagnosis, Differential",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Glucocorticoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15319835/"
+      },
+      {
+        "pmid": "1298221",
+        "title": "A comparison of valproate with carbamazepine for the treatment of complex partial seizures and secondarily generalized tonic-clonic seizures in adults. The Department of Veterans Affairs Epilepsy Cooperative Study No. 264 Group.",
+        "abstract": "Valproate is approved for use primarily in patients with absence seizures, but the drug has a broad spectrum of activity against seizures of all types. Partial or secondarily generalized tonic-clonic seizures are often difficult to control adequately with standard treatment, usually carbamazepine or phenytoin.",
+        "journal": "The New England journal of medicine",
+        "year": "1992",
+        "authors": [
+          "Mattson R H",
+          "Cramer J A",
+          "Collins J F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Carbamazepine",
+          "Double-Blind Method",
+          "Epilepsy, Complex Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1298221/"
+      },
+      {
+        "pmid": "6401630",
+        "title": "Generalized tonic-clonic seizures in patients with complex-partial seizures: natural history and prognostic relevance.",
+        "abstract": "Clinical course and long-term seizure prognosis were studied in 155 patients with complex-partial seizures during a follow-up of 10.1 +/- 1 (SD) years. In 79% of the patients generalized tonic-clonic seizures were recorded, mostly within the first 3 years of epilepsy but occurring as late as 20 years after the onset of epilepsy. Seizure control was defined as complete absence of all seizures, including auras, for a minimum of 2 years. Seizure control occurred in 20 of 32 patients (63%) with complex-partial seizures only and in 76 of 123 patients (62%) with complex-partial seizures and generalized tonic-clonic seizures. The onset of the epilepsy with generalized tonic-clonic seizures or complex-partial seizures did not influence the therapeutic outcome despite differences in their natural history. A family history of epilepsy and other generalized seizures (e.g., absence) were more frequent in patients with generalized tonic-clonic seizures at the onset of epilepsy. Seizure control was ",
+        "journal": "Epilepsia",
+        "year": "1983",
+        "authors": [
+          "Schmidt D",
+          "Tsai J J",
+          "Janz D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Carbamazepine",
+          "Epilepsies, Myoclonic",
+          "Epilepsy, Temporal Lobe",
+          "Humans",
+          "Phenytoin",
+          "Primidone",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6401630/"
+      },
+      {
+        "pmid": "37393439",
+        "title": "Gabapentin monotherapy for epilepsy: A review.",
+        "abstract": "Epilepsy is one of the most common chronic neurological disorders, affecting more than 50 million people globally. In this review we summarised the evidence from randomised controlled trials of gabapentin used as monotherapy for the treatment of focal epilepsy, both newly diagnosed and drug-resistant, with or without secondary generalisation.",
+        "journal": "The International journal of risk & safety in medicine",
+        "year": "2023",
+        "authors": [
+          "Ziganshina Liliya Eugenevna",
+          "Abakumova Tatyana",
+          "Hoyle Charles H V"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gabapentin",
+          "Oxcarbazepine",
+          "Topiramate",
+          "Epilepsy",
+          "Anticonvulsants",
+          "Epilepsies, Partial",
+          "Seizures",
+          "Lamotrigine",
+          "Carbamazepine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37393439/"
+      },
+      {
+        "pmid": "37092337",
+        "title": "Pharmacogenomics of oxcarbazepine in the treatment of epilepsy.",
+        "abstract": "Oxcarbazepine (OXC) is one of the preferred drugs for partial seizures and generalized tonic-clonic seizures. However, clinical studies have found that there are considerable differences among different populations in OXC therapeutic efficacy or safety that result from the function changes of metabolic enzymes, transporters and other receptors involved in pharmacokinetics and pharmacodynamics in vivo. The authors collected all the information on the clinically reported associations between variants of common genes (e.g., UGT1A9, HLA-B, ABCB1) and OXC. In conclusion, these associations based on variants are beneficial for adjusting the medication regimen, which could be useful for individualized treatment with OXC.",
+        "journal": "Pharmacogenomics",
+        "year": "2023",
+        "authors": [
+          "Yuan Yujie",
+          "Zhang Shuang",
+          "Yuan Yangyang",
+          "Yan Xinjing",
+          "Zhang Linlin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Oxcarbazepine",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Pharmacogenetics",
+          "Epilepsy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37092337/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:12:46.111644",
+  "success": true,
+  "error_message": null
+}

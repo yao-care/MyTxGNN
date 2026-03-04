@@ -1,0 +1,236 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "premature ejaculation"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07236632",
+      "title": "Hyaluronic Acid Versus Botox Injection in Treatment of Life Long Drug Resistant Premature Ejaculation. Which is Better? Randomized Study",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-15",
+      "completion_date": "2026-12-15",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "Premature ejaculation (PE) is one of the most common male sexual dysfunctions, often resistant to conventional pharmacological and behavioral treatments. This randomized clinical trial aims to compare the safety and efficacy of two minimally invasive treatment options - hyaluronic acid (HA) injection into the glans penis versus botulinum toxin type A injection into the bulbospongiosus muscle - in men with lifelong drug-resistant premature ejaculation. Eighty participants will be randomly assigne",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult male patients aged 22 to 45 years.\n* Sexually active and in a stable heterosexual relationship.\n* Circumcised.\n* Able to understand and comply with study procedures and follow-up visits.\n* Diagnosed with lifelong drug-resistant premature ejaculation, defined as persisten",
+      "endpoints": [
+        "Change in intravaginal ejaculatory latency time"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT07236632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00556478",
+      "title": "A Phase IIb, Multi-center, Randomized, Double-blind, Placebo-controlled Study, With Open-label Follow on, to Evaluate the Efficacy, Safety and Tolerability of PSD502 in Subjects With Premature Ejaculation (PE)",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2009-10",
+      "country": "United States",
+      "enrollment": 256,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness, safety and tolerability of the investigational drug, PSD502 in subjects with premature ejaculation (PE) The study drug, PSD02, is a metered dose (measured dose), topical (applied to the skin surface) anesthetic (numbing) spray containing a mixture of lidocaine and prilocaine. The study drug will be applied in a spray to the penis prior to intercourse in order to decrease sensitivity in an attempt to delay ejaculation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing and able to provide written informed consent.\n* Male and aged 18 years and over.\n* Diagnosed with PE according to DMS-IV criteria and ISSM definition\n* Diagnosed with lifelong PE\n* Acceptable response to Baseline PEP\n* Subject must be in a stable heterosexual and monog",
+      "endpoints": [
+        "Mean Intravaginal Ejaculatory Latency Time (IELT): Change From Baseline to During 3 Month Double Blind-treatment",
+        "Index of Premature Ejaculation (IPE): Change From Baseline to End of Month 3"
+      ],
+      "sponsor": "Plethora Solutions Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT00556478"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05749614",
+      "title": "Clinical Application of Penile Biological Vibration Threshold for Precise Use of Lidocaine Cream to Treat Primary Premature Ejaculation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-03-01",
+      "completion_date": "2023-04-01",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "This study aimed to evaluate the efficacy and safety of applying 5% lidocaine cream to the sensitive area of the glans penis after its precise localization under the penile biological vibration threshold test for the treatment of primary premature ejaculation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult male (19-60 years old); stable partner for ≥3 months; Premature Ejaculation Diagnostic Tool (PEDT) score ≥ 11; penile biological vibration threshold test suggesting the presence of sensitive sites on the glans penis (vibration threshold \\< 30 levels); no history of long-",
+      "endpoints": [
+        "Arabic Index of Premature Ejaculation (AIPE)"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT05749614"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06777199",
+      "title": "A Comparative Study to Assess the Role of Selective Dorsal Neurectomy Versus Pulsed Radiofrequency Neuromodulation Versus Intraglanular Hyaluronic Acid Injection for Patients With Lifelong Premature Ejaculation: a Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-07-01",
+      "completion_date": "2023-05-01",
+      "country": "Egypt",
+      "enrollment": 30,
+      "brief_summary": "The goal of this clinical trial is to evaluate the effectiveness and safety of three treatment methods for lifelong premature ejaculation (PE) in adult males. The main questions this study aims to answer are:\n\nDoes selective dorsal neurectomy, pulsed radiofrequency nerve ablation, or hyaluronic acid injection prolong intravaginal ejaculatory latency time (IELT)? What are the differences in patient satisfaction and safety among the three treatments?\n\nIn this study:\n\nParticipants will be randomize",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* all male patients ≥ 18 years old who are having regular sexual life and suffering from lifelong premature ejaculation, not responding to medical treatment or not willing to continue on medical treatment\n\nExclusion Criteria:\n\n* Patients suffering from ED\n* Patients suffering of",
+      "endpoints": [
+        "Prolongation of intravaginal ejaculatory latency time (IELT)",
+        "Improvement in patient-reported outcomes using the Index of Premature Ejaculation (IPE) questionnaire",
+        "Improvement in patient-reported outcomes using the Premature Ejaculation Diagnostic Tool (PEDT) questionnaire"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT06777199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03459833",
+      "title": "Glans Penis Augmentation by Hyaluronic Acid for Treatment of Premature Ejaculation: Randomized Controlled Cross-over Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-08-19",
+      "completion_date": "2018-03",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "This randomized controlled cross-over study aims to evaluate the effect and safety of glans penis augmentation using Hyaluronic acid in the treatment of premature ejaculation in compare with placebo .",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* occurrence of ejaculation in patients with lifelong premature ejaculation (LL PE) within 1 minute form vaginal penetration in all or almost all occasions starting from the first sexual experience, and within 3 minutes in patients with acquired premature ejaculation (A PE), alo",
+      "endpoints": [
+        "IELT",
+        "AIPE"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT03459833"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01184105",
+      "title": "A Phase I, Single-Center, Double-Blind, Randomized, Placebo-Controlled, Safety and Pharmacokinetic Study to Evaluate Systemic and Local Vaginal Exposure to Lidocaine and Prilocaine and the Metabolites, 2,6-Dimethylaniline (2,6-DMA) and O-Toluidine, in Female Healthy Volunteer Subjects Following Daily Application of 60 mg PSD502 or Placebo to the Vagina and Cervix for 7 Days",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2010-11",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "A phase I, single-center, double-blind, randomized, placebo-controlled, safety and pharmacokinetic study to evaluate systemic and local vaginal exposure to lidocaine and prilocaine and the metabolites, 2,6-dimethylaniline (2,6-DMA) and o-toluidine, in female healthy volunteer subjects following daily application of 60 mg PSD502 or placebo to the vagina and cervix for seven days",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female non-smokers aged 18 years old and over\n* Willing and able to provide written informed consent\n* Generally, in good health in the opinion of the investigator\n* Subject must have a body mass index between 18 and 30 kg/m2, inclusive\n* Willing and able to comply with all st",
+      "endpoints": [
+        "Safety of repeated application of PSD502 to the cervix and vaginal fornices in healthy female subjects."
+      ],
+      "sponsor": "Plethora Solutions Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01184105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01183208",
+      "title": "A Phase I, Single-Centre, Double-Blind, Randomised, Placebo-Controlled, Parallel Group, Pharmacokinetic and Safety Study to Evaluate Systemic Exposure and Local Vaginal Exposure to Lidocaine and Prilocaine and the Metabolites 2,6 DiMethylAlanine (2, 6, DMA) and O-Toluidine; and the Safety and Tolerability of PSD502 in Female Healthy Volunteer Subjects Following Daily Application to the Vagina and Cervix for Seven Days With Three Different Doses of PSD502 or Placebo",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2010-02",
+      "country": "United Kingdom",
+      "enrollment": 21,
+      "brief_summary": "A Phase I, Single-Centre, Double-Blind, Randomised, Placebo-Controlled, Parallel Group, Pharmacokinetic and Safety Study to Evaluate Systemic Exposure and Local Vaginal Exposure to Lidocaine and Prilocaine and the Metabolites 2,6 DiMethylAlanine (2, 6, DMA) and O-Toluidine; and the Safety and Tolerability of PSD502 in Female Healthy Volunteer Subjects Following Daily Application to the Vagina and Cervix for Seven Days With Three Different Doses of PSD502 or Placebo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female non-smokers aged 18 years old and over\n* Willing and able to provide written informed consent\n* Generally, in good health in the opinion of the investigator\n* Subject must have a body mass index between 18 and 30 kg/m2, inclusive\n* Willing and able to comply with all st",
+      "endpoints": [
+        "Evaluation of adverse events, serious adverse events, findings from the examination of the cervix and vagina, vital signs, electrocardiogram data, hematology, and biochemistry parameters"
+      ],
+      "sponsor": "Plethora Solutions Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01183208"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03578783",
+      "title": "A Pilot Multicenter, Randomized, Double-Blind Study Comparing The Proportion Of Responders to PSD502 and to Placebo Using the PEBEQ In Subjects With Premature Ejaculation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-12-26",
+      "completion_date": "2021-12-01",
+      "country": "United States",
+      "enrollment": 121,
+      "brief_summary": "This study is being done to test the effect of PSD502 (the study medication) compared to placebo in subjects with premature ejaculation. PSD502 is a topical (applied to skin) anesthetic spray containing a mixture of two drugs called lidocaine and prilocaine that will be applied to the penis. Half of the subjects will receive PSD502 and half will receive placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing and able to provide written informed consent.\n* Male and aged 18 years and over.\n* Diagnosed with PE according to the ISSM definition, that is, he ejaculates always or nearly always prior to or within about one minute of vaginal penetration; and is unable to delay ejac",
+      "endpoints": [
+        "Change between Baseline and 4 weeks : Success on the Premature Ejaculation Bothersome Evaluation Questionnaire PEBEQ Item 3 (event-specific bother)"
+      ],
+      "sponsor": "Plethora Solutions Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT03578783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02572037",
+      "title": "Research and Clinical Value of New Classification for Premature Ejaculation:Multi-Center Research",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2017-07-30",
+      "country": "China",
+      "enrollment": 568,
+      "brief_summary": "An observational study on the effect of new classification for premature ejaculation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male aged between 18 and 60;\n2. Men in stable heterosexual, monogamous relationships \\>6 months;\n3. Symptom of PE: Ejaculation that always or nearly always occurs prior to or within 2 minute of vaginal penetration from the first sexual experience; the inability to delay ejacu",
+      "endpoints": [
+        "Change of Intra-vaginal Ejaculation Latency Time（IELT）",
+        "Change of score of Premature ejaculation diagnostic tool（PEDT）",
+        "Change of grade Premature ejaculation profile（PEP）"
+      ],
+      "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT02572037"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04062357",
+      "title": "Effectiveness and Tolerability of Lidocaine 5% Spray in Treatment of Lifelong Premature Ejaculation Patients. A Randomized Single-blind Placebo-controlled Clinical Trial.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-04-20",
+      "completion_date": "2019-04-20",
+      "country": "Egypt",
+      "enrollment": 150,
+      "brief_summary": "This study aimed to appraise effectiveness and tolerability of lidocaine 5% spray in treatment of patients with premature ejaculation (PE). The current study has been designed as a randomized single-blind placebo-controlled clinical trial. It was done on 150 lifelong PE patients with normal erection. They were randomized evenly categorized into two treatment groups. Group 1 (n₌75); was given on demand lidocaine 5% spray for 8 weeks. Group 2 (n₌75); was given placebo in form on demand alcohol spr",
+      "eligibility_criteria": "Inclusion Criteria:\n\nClinical diagnosis of lifelong premature ejaculation\n\nExclusion Criteria:\n\n1. renal or liver diseases,\n2. diabetes mellitus,\n3. thyroid diseases,\n4. chronic prostatitis,\n5. neurological diseases\n6. allergic reactions to local anesthetics or alcohols.\n7. erectil dysfunction",
+      "endpoints": [
+        "Arabic Index of Premature Ejaculation Scores",
+        "Intravaginal ejaculatory latency times"
+      ],
+      "sponsor": "Sohag University",
+      "url": "https://clinicaltrials.gov/study/NCT04062357"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02241460",
+      "title": "A Double-Blind, Placebo-Controlled, Randomized Study to Evaluate the Efficacy of Promescent Lidocaine Spray in Men With Premature Ejaculation",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2014-03",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of treatment with Promescent Lidocaine Spray compared with placebo in patients with premature ejaculation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has provided written informed consent before screening.\n* Subject is a male, 18 years of age or older.\n* Subject meets the diagnostic criteria for premature ejaculation as defined by the DSM-IV-TR (Diagnostic and Statistical Manual of Mental Disorders, 4th Edition, Tex",
+      "endpoints": [
+        "Intravaginal Ejaculatory Latency Time (IELT) in seconds"
+      ],
+      "sponsor": "Kaiser Permanente",
+      "url": "https://clinicaltrials.gov/study/NCT02241460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04703127",
+      "title": "Effectiveness and Tolerability of the On-demand Use of Combined Dapoxetine With Tadalafil and Combined Dapoxetine With Lidocaine 5% Spray in Treatment of Patients With Lifelong Premature Ejaculation and Non-responding to Dapoxetine Alone.",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-03-30",
+      "completion_date": "2021-01-30",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Therefore, this study will aim to assess the effectiveness and tolerability of the on-demand use of combined dapoxetine with tadalafil and combined dapoxetine with lidocaine 5% spray in treatment of patients with lifelong premature ejaculation and non-responding to dapoxetine alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* lifelong premature ejaculation and non-responding to dapoxetine alone.\n\nExclusion Criteria:\n\n* diabetes mellitus,\n* chronic prostatitis,\n* Advanced renal or hepatic diseases\n* neurological diseases\n* C.N.S. medications",
+      "endpoints": [
+        "Intravaginal ejaculatory latency time (IELT)",
+        "Arabic Index of Premature Ejaculation (AIPE)"
+      ],
+      "sponsor": "Sohag University",
+      "url": "https://clinicaltrials.gov/study/NCT04703127"
+    }
+  ],
+  "timestamp": "2026-03-04T15:57:05.059527",
+  "success": true,
+  "error_message": null
+}

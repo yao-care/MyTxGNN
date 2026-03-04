@@ -1,0 +1,122 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ammonium Chloride",
+    "disease": "common cold",
+    "query_string": "Ammonium Chloride AND common cold"
+  },
+  "data": {
+    "query": "Ammonium Chloride AND common cold",
+    "results": [
+      {
+        "pmid": "34705560",
+        "title": "Chemical Evolution of Rhinovirus Identifies Capsid-Destabilizing Mutations Driving Low-pH-Independent Genome Uncoating.",
+        "abstract": "Rhinoviruses (RVs) cause recurrent infections of the nasal and pulmonary tracts, life-threatening conditions in chronic respiratory illness patients, predisposition of children to asthmatic exacerbation, and large economic cost. RVs are difficult to treat. They rapidly evolve resistance and are genetically diverse. Here, we provide insight into RV drug resistance mechanisms against chemical compounds neutralizing low pH in endolysosomes. Serial passaging of RV-A16 in the presence of the vacuolar proton ATPase inhibitor bafilomycin A1 (BafA1) or the endolysosomotropic agent ammonium chloride (NH4Cl) promoted the emergence of resistant virus populations. We found two reproducible point mutations in viral proteins 1 and 3 (VP1 and VP3), A2526G (serine 66 to asparagine [S66N]), and G2274U (cysteine 220 to phenylalanine [C220F]), respectively. Both mutations conferred cross-resistance to BafA1, NH4Cl, and the protonophore niclosamide, as identified by massive parallel sequencing and reverse",
+        "journal": "Journal of virology",
+        "year": "2022",
+        "authors": [
+          "Murer Luca",
+          "Petkidis Anthony",
+          "Vallet Thomas",
+          "Vignuzzi Marco",
+          "Greber Urs F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Capsid",
+          "Capsid Proteins",
+          "Drug Resistance, Viral",
+          "Endosomes",
+          "HeLa Cells",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Intercellular Adhesion Molecule-1",
+          "Mutation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34705560/"
+      },
+      {
+        "pmid": "26482329",
+        "title": "Hydrothermal Formation of Calcium Copper Tetrasilicate.",
+        "abstract": "We describe the first hydrothermal synthesis of CaCuSi4 O10 as micron-scale clusters of thin platelets, distinct from morphologies generated under salt-flux or solid-state conditions. The hydrothermal reaction conditions are surprisingly specific: too cold, and instead of CaCuSi4 O10 , a porous calcium copper silicate forms; too hot, and calcium silicate (CaSiO3 ) forms. The precursors also strongly impact the course of the reaction, with the most common side product being sodium copper silicate (Na2 CuSi4 O10 ). Optimized conditions for hydrothermal CaCuSi4 O10 formation from calcium chloride, copper(II) nitrate, sodium silicate, and ammonium hydroxide are 350 °C at 3000 psi for 72 h; at longer reaction times, competitive delamination and exfoliation causes crystal fragmentation. These results illustrate that CaCuSi4 O10 is an even more unique material than previously appreciated.",
+        "journal": "Chemistry (Weinheim an der Bergstrasse, Germany)",
+        "year": "2015",
+        "authors": [
+          "Johnson-McDaniel Darrah",
+          "Comer Sara",
+          "Kolis Joseph W",
+          "Salguero Tina T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26482329/"
+      },
+      {
+        "pmid": "27249425",
+        "title": "HTCC: Broad Range Inhibitor of Coronavirus Entry.",
+        "abstract": "To date, six human coronaviruses have been known, all of which are associated with respiratory infections in humans. With the exception of the highly pathogenic SARS and MERS coronaviruses, human coronaviruses (HCoV-NL63, HCoV-OC43, HCoV-229E, and HCoV-HKU1) circulate worldwide and typically cause the common cold. In most cases, infection with these viruses does not lead to severe disease, although acute infections in infants, the elderly, and immunocompromised patients may progress to severe disease requiring hospitalization. Importantly, no drugs against human coronaviruses exist, and only supportive therapy is available. Previously, we proposed the cationically modified chitosan, N-(2-hydroxypropyl)-3-trimethylammonium chitosan chloride (HTCC), and its hydrophobically-modified derivative (HM-HTCC) as potent inhibitors of the coronavirus HCoV-NL63. Here, we show that HTCC inhibits interaction of a virus with its receptor and thus blocks the entry. Further, we demonstrate that HTCC po",
+        "journal": "PloS one",
+        "year": "2016",
+        "authors": [
+          "Milewska Aleksandra",
+          "Kaminski Kamil",
+          "Ciejka Justyna",
+          "Kosowicz Katarzyna",
+          "Zeglen Slawomir"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antiviral Agents",
+          "Cell Line",
+          "Chitosan",
+          "Coronavirus",
+          "Humans",
+          "Macaca mulatta",
+          "Membrane Fusion",
+          "Quaternary Ammonium Compounds",
+          "Virus Replication"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27249425/"
+      },
+      {
+        "pmid": "14053191",
+        "title": "THERAPEUTIC ASPECTS OF ASTHMA, EMPHASIZING THE ROLE AND CONTROL OF COUGH.",
+        "abstract": "",
+        "journal": "Hawaii medical journal",
+        "year": "1963",
+        "authors": [
+          "PRICKMAN L E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ammonium Chloride",
+          "Asthma",
+          "Common Cold",
+          "Cough",
+          "Epinephrine",
+          "Humans",
+          "Hypersensitivity",
+          "Iodides",
+          "Neurotic Disorders",
+          "Pathology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14053191/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:09:39.004775",
+  "success": true,
+  "error_message": null
+}

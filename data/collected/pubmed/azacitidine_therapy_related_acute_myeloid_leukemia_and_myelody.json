@@ -1,0 +1,578 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Azacitidine",
+    "disease": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+    "query_string": "Azacitidine AND therapy related acute myeloid leukemia and myelodysplastic syndrome"
+  },
+  "data": {
+    "query": "Azacitidine AND therapy related acute myeloid leukemia and myelodysplastic syndrome",
+    "results": [
+      {
+        "pmid": "38052038",
+        "title": "Phase 1b trial of tagraxofusp in combination with azacitidine with or without venetoclax in acute myeloid leukemia.",
+        "abstract": "CD123, a subunit of the interleukin-3 receptor, is expressed on ∼80% of acute myeloid leukemias (AMLs). Tagraxofusp (TAG), recombinant interleukin-3 fused to a truncated diphtheria toxin payload, is a first-in-class drug targeting CD123 approved for treatment of blastic plasmacytoid dendritic cell neoplasm. We previously found that AMLs with acquired resistance to TAG were re-sensitized by the DNA hypomethylating agent azacitidine (AZA) and that TAG-exposed cells became more dependent on the antiapoptotic molecule BCL-2. Here, we report a phase 1b study in 56 adults with CD123-positive AML or high-risk myelodysplastic syndrome (MDS), first combining TAG with AZA in AML/MDS, and subsequently TAG, AZA, and the BCL-2 inhibitor venetoclax (VEN) in AML. Adverse events with 3-day TAG dosing were as expected, without indication of increased toxicity of TAG or AZA+/-VEN in combination. The recommended phase 2 dose of TAG was 12 μg/kg/day for 3 days, with 7-day AZA +/- 21-day VEN. In an expansi",
+        "journal": "Blood advances",
+        "year": "2024",
+        "authors": [
+          "Lane Andrew A",
+          "Garcia Jacqueline S",
+          "Raulston Evangeline G",
+          "Garzon Jada L",
+          "Galinsky Ilene"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Humans",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Interleukin-3 Receptor alpha Subunit",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "Proto-Oncogene Proteins c-bcl-2",
+          "Recombinant Fusion Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38052038/"
+      },
+      {
+        "pmid": "38135371",
+        "title": "Oral decitabine-cedazuridine versus intravenous decitabine for myelodysplastic syndromes and chronic myelomonocytic leukaemia (ASCERTAIN): a registrational, randomised, crossover, pharmacokinetics, phase 3 study.",
+        "abstract": "The DNA methyltransferase inhibitors azacitidine and decitabine for individuals with myelodysplastic syndromes or chronic myelomonocytic leukaemia are available in parenteral form. Oral therapy with similar exposure for these diseases would offer potential treatment benefits. We aimed to compare the safety and pharmacokinetics of oral decitabine plus the cytidine deaminase inhibitor cedazuridine versus intravenous decitabine.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Garcia-Manero Guillermo",
+          "McCloskey James",
+          "Griffiths Elizabeth A",
+          "Yee Karen W L",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Myelodysplastic Syndromes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Pneumonia",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38135371/"
+      },
+      {
+        "pmid": "40155601",
+        "title": "Venetoclax and azacitidine in untreated patients with therapy-related acute myeloid leukemia, antecedent myelodysplastic syndromes or chronic myelomonocytic leukemia.",
+        "abstract": "",
+        "journal": "Blood cancer journal",
+        "year": "2025",
+        "authors": [
+          "Pullarkat Vinod",
+          "Pratz Keith W",
+          "Döhner Hartmut",
+          "Recher Christian",
+          "Thirman Michael J"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40155601/"
+      },
+      {
+        "pmid": "37470508",
+        "title": "Oral therapy for myelodysplastic syndromes/neoplasms and acute myeloid leukemia: a revolution in progress.",
+        "abstract": "Patients with myeloid neoplasms such as myelodysplastic syndromes/neoplasms (MDS) and acute myeloid leukemia (AML) are generally older, and many are not eligible for curative intent intensive therapies and/or allogeneic hematopoietic stem cell transplantation. While lower intensity, hypomethylating agent (HMA)-based therapies such as azacitidine+venetoclax have improved patient outcomes significantly, responses are not durable, and most patients die from disease-related complications. The approvals of oral HMAs such as cedazuridine-decitabine (C-DEC) and oral azacitidine (CC-486) have kindled the hope that myeloid malignancies may soon be treated with total oral therapy.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2023",
+        "authors": [
+          "Venugopal Sangeetha",
+          "Shallis Rory M",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Quality of Life",
+          "Azacitidine",
+          "Myelodysplastic Syndromes",
+          "Decitabine",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37470508/"
+      },
+      {
+        "pmid": "36370742",
+        "title": "Olutasidenib alone or with azacitidine in IDH1-mutated acute myeloid leukaemia and myelodysplastic syndrome: phase 1 results of a phase 1/2 trial.",
+        "abstract": "Olutasidenib (FT-2102) is a potent, selective, oral, small-molecule inhibitor of mutant isocitrate dehydrogenase 1 (IDH1). The aims for phase 1 of this phase 1/2 study were to assess the safety, pharmacokinetics, pharmacodynamics, and clinical activity of olutasidenib, as monotherapy or in combination with azacitidine, in patients with acute myeloid leukaemia or myelodysplastic syndrome, harbouring mutant IDH1.",
+        "journal": "The Lancet. Haematology",
+        "year": "2023",
+        "authors": [
+          "Watts Justin M",
+          "Baer Maria R",
+          "Yang Jay",
+          "Prebet Thomas",
+          "Lee Sangmin"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Male",
+          "Azacitidine",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Thrombocytopenia",
+          "Febrile Neutropenia",
+          "Isocitrate Dehydrogenase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36370742/"
+      },
+      {
+        "pmid": "31990086",
+        "title": "Clonal selection in therapy-related myelodysplastic syndromes and acute myeloid leukemia under azacitidine treatment.",
+        "abstract": "Therapy-related myelodysplastic syndrome and acute myeloid leukemia (t-MDS/AML) are defined as complications of previous cytotoxic therapy. Azacitidine (AZA), a hypomethylating agent, has showed activity in t-MDS/AML.",
+        "journal": "European journal of haematology",
+        "year": "2020",
+        "authors": [
+          "Calleja Anne",
+          "Yun Seongseok",
+          "Moreilhon Chimène",
+          "Karsenti Jean Michel",
+          "Gastaud Lauris"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Biomarkers, Tumor",
+          "Clonal Evolution",
+          "Female",
+          "High-Throughput Nucleotide Sequencing",
+          "Humans",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31990086/"
+      },
+      {
+        "pmid": "38452788",
+        "title": "Oral decitabine and cedazuridine plus venetoclax for older or unfit patients with acute myeloid leukaemia: a phase 2 study.",
+        "abstract": "Hypomethylating agents combined with venetoclax are effective regimens in patients with acute myeloid leukaemia who are ineligible for intensive chemotherapy. Decitabine and cedazuridine (ASTX727) is an oral formulation of decitabine that achieves equivalent area-under-curve exposure to intravenous decitabine. We performed a single centre phase 2 study to evaluate the efficacy and safety of ASTX727 plus venetoclax.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Bazinet Alexandre",
+          "Garcia-Manero Guillermo",
+          "Short Nicholas",
+          "Alvarado Yesid",
+          "Bataller Alex"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myeloid, Acute",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Respiratory Insufficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38452788/"
+      },
+      {
+        "pmid": "35181589",
+        "title": "Noncoding RNAs and Their Response Predictive Value in Azacitidine-treated Patients With Myelodysplastic Syndrome and Acute Myeloid Leukemia With Myelodysplasia-related Changes.",
+        "abstract": "Prediction of response to azacitidine (AZA) treatment is an important challenge in hematooncology. In addition to protein coding genes (PCGs), AZA efficiency is influenced by various noncoding RNAs (ncRNAs), including long ncRNAs (lncRNAs), circular RNAs (circRNAs), and transposable elements (TEs).",
+        "journal": "Cancer genomics & proteomics",
+        "year": "2022",
+        "authors": [
+          "Merkerova Michaela Dostalova",
+          "Klema Jiri",
+          "Kundrat David",
+          "Szikszai Katarina",
+          "Krejcik Zdenek"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Epigenesis, Genetic",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "RNA, Long Noncoding"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35181589/"
+      },
+      {
+        "pmid": "40737597",
+        "title": "XPO1 drives resistance to eprenetapopt and azacitidine and can be targeted in TP53-mutated myeloid malignancies.",
+        "abstract": "TP53-mutated myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) are among the most aggressive and chemotherapy-refractory myeloid neoplasms, with a median overall survival of <6 months. An enormous unmet need exists to develop novel therapeutic strategies, and understand resistance mechanisms to suboptimal existing therapies for this disease. In 2 parallel, phase 2 clinical trials that combined eprenetapopt with azacitidine in TP53-mutated MDS/AML, we observed complete remission rates of 40% to 50%, and molecular remission rates of 38%. However, unless allogeneic stem cell transplant was performed, relapse inevitably occurred. To understand the mechanisms of secondary resistance responsible for this, we genotyped sequential clinical trial samples, conducted a genome-wide CRISPR screen in TP53-mutated leukemia cells, and identified XPO1 as a therapeutically tractable mediator of resistance. We demonstrate that XPO1 is overexpressed in patient samples after eprenetapopt and ",
+        "journal": "Blood",
+        "year": "2025",
+        "authors": [
+          "Kruer Traci L",
+          "Quintana Ariel",
+          "Newman Hannah",
+          "Ferrall-Fairbanks Meghan",
+          "Zhang Ling"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Exportin 1 Protein",
+          "Karyopherins",
+          "Humans",
+          "Receptors, Cytoplasmic and Nuclear",
+          "Drug Resistance, Neoplasm",
+          "Tumor Suppressor Protein p53",
+          "Animals",
+          "Azacitidine",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40737597/"
+      },
+      {
+        "pmid": "40259101",
+        "title": "Impact of myelodysplasia-related gene mutations and residual mutations at remission in venetoclax/azacitidine for AML.",
+        "abstract": "Venetoclax plus azacitidine (VEN + AZA) is widely used in acute myeloid leukemia (AML). This study explored the role of static and dynamic profiles of mutational clonal burden to predict outcomes by analyzing marrow samples from 228 VEN + AZA treated AML cases at \"Pre-treatment\" (n = 228), \"Best-response\" (n = 105), and \"Relapse\" (n = 27) phases using targeted-capture sequencing. In a multivariate model, older age, prior AZA, TP53 mutation with variant allele frequency ≥0.10, and RAS-pathway mutations predicted shorter overall survival (OS), while BCORL1 mutation predicted longer OS. Notably, myelodysplasia-related gene mutations, which constitute adverse factors in ELN 2022, predicted favorable survival. Achieving composite complete remission (CRc) significantly predicted longer OS (P < 0.001) but showed residual mutations in 76.2% of the cases. Among CRc cases, relapse-free survival was stratified by molecular clearance of mutations other than DNMT3A, ASXL1, and TET2 (P = 0.04). In a",
+        "journal": "Leukemia",
+        "year": "2025",
+        "authors": [
+          "Ikoma Yoshikazu",
+          "Nakamura Nobuhiko",
+          "Kaneda Yuto",
+          "Takamori Hiroyuki",
+          "Seki Tomokazu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Mutation",
+          "Male",
+          "Female",
+          "Sulfonamides",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40259101/"
+      },
+      {
+        "pmid": "33521864",
+        "title": "The prognostic value of the Fibrinogen-Albumin Ratio Index in patients with myelodysplastic syndrome and acute myeloid leukemia with myelodysplasia-related changes treated with azacitidine.",
+        "abstract": "Inflammation is a major hallmark of several cancers. The present study evaluated the prognostic value of the Fibrinogen-Albumin Ratio Index (FARI) at the diagnosis in patients with myelodysplastic syndrome (MDS) and acute myeloid leukemia with myelodysplasia-related changes (AML-MRC) treated with azacitidine (AZA). A retrospective study was conducted in a single cohort of 99 patients with de novo MDS and AML-MRC who were treated with AZA between May 2011 and June 2019 in our hospital. Plasma fibrinogen and serum albumin levels were measured before the start of AZA treatment. A total of 99 patients were included in the analysis. The optimal cut-off value of FARI for predicting the 1-year overall survival (OS) was determined by a receiver operating characteristic (ROC) analysis to be 0.079. A total of 59 (60%) and 40 (40%) patients had an FARI ≥0.079 (high-FARI group) and < 0.079 (low-FARI group), respectively. The high-FARI patients had a significantly shorter OS than low-FARI patients ",
+        "journal": "Annals of hematology",
+        "year": "2021",
+        "authors": [
+          "Akimoto Masahiro",
+          "Sakurai Aki",
+          "Nishiyama-Fujita Yuriko",
+          "Ito Chisako",
+          "Aisa Yoshinobu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Female",
+          "Fibrinogen",
+          "Follow-Up Studies",
+          "Humans",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33521864/"
+      },
+      {
+        "pmid": "40973765",
+        "title": "Clonal evolution and apoptosis resistance in myelodysplastic neoplasms and acute myeloid leukemia under treatment: insights from integrative longitudinal profiling.",
+        "abstract": "Treatment of high-risk Myelodysplastic Neoplasms (hr-MDS) and (secondary) Acute Myeloid Leukemia (AML) remains a clinical challenge. The combination of azacitidine and venetoclax (aza/ven) may improve treatment outcomes, but still fails in a significant fraction of patients. We established a single-center collection of longitudinal samples from patients with MDS and AML/sAML and performed comprehensive genetic, proteomic and functional apoptosis profiling to identify biomarkers and targetable escape mechanisms to aza/ven. Baseline genetic characterization (n = 55) identified high-risk genetic alterations, while longitudinal analyses (n = 268, mean 8.7 [3-20] timepoints) revealed distinct genetic profiles of clonal evolution. Functional BH3-profiling at treatment initiation identified heterogeneous dependencies on BCL-2 family members. Notably, high BCL-2 dependence correlated with genetic response to aza/ven and improved overall survival, whereas increased BCL-xL dependence was associa",
+        "journal": "Leukemia",
+        "year": "2025",
+        "authors": [
+          "Mazzeo Paolo",
+          "Penir Sarah Mae",
+          "Shumilov Evgenii",
+          "Wolf Sebastian",
+          "Häupl Björn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "Clonal Evolution",
+          "Apoptosis",
+          "Drug Resistance, Neoplasm",
+          "Azacitidine",
+          "Male",
+          "Female",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40973765/"
+      },
+      {
+        "pmid": "37422689",
+        "title": "Population Pharmacokinetics of Oral Azacitidine, and Exposure-Response Analysis in Acute Myeloid Leukemia.",
+        "abstract": "Oral azacitidine (oral-AZA) maintenance is approved for adults with acute myeloid leukemia (AML) in remission post-intensive chemotherapy, not proceeding to hematopoietic stem cell transplantation. This study aimed to develop a population pharmacokinetic (PopPK) model to characterize oral-AZA concentration-time profiles in patients with AML, myelodysplastic syndrome, or chronic myelomonocytic leukemia. PopPK-estimated exposure parameters were used to evaluate exposure-response relationships in the phase III QUAZAR AML-001 study. The PopPK dataset comprised 286 patients with 1,933 evaluable oral-AZA concentration records. The final PopPK model was a one-compartment model with first-order absorption incorporating an absorption lag time and first-order elimination. Regression analyses identified two oral-AZA exposure parameters (area under the plasma concentration-time curve at steady state (AUCss ); maximum plasma concentration (Cmax )) as statistically significant predictors for relapse",
+        "journal": "Clinical pharmacology and therapeutics",
+        "year": "2023",
+        "authors": [
+          "Gaudy Allison",
+          "Laille Eric",
+          "Bailey Rochelle",
+          "Zhou Simon",
+          "Skikne Barry"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Antimetabolites",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Leukemia, Myeloid, Acute",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Myelodysplastic Syndromes",
+          "Clinical Trials, Phase III as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37422689/"
+      },
+      {
+        "pmid": "30002795",
+        "title": "Infections in Myelodysplastic Syndrome in Relation to Stage and Therapy.",
+        "abstract": "Infections remain a significant problem in myelodysplastic syndromes (MDS) in treated as well in non-treated patients and assume a particular complexity. The susceptibility to infections is due, in the absence of intensive chemotherapies, mainly to functional defects in the myeloid lineage with or without neutropenia. Furthermore, MDS includes a heterogeneous group of patients with very different prognosis, therapy and risk factors regarding survival and infections. You should distinguish risk factors related to the disease, like as neutrophils function impairment, neutropenia, unfavorable cytogenetics and bone marrow insufficiency; factors related to the patient, like as age and comorbidities, and factors related to the therapy. When the patients with MDS are submitted to intensive chemotherapy with and without hematopoietic stem cell transplantation (HSCT), they have a risk factor for infection very similar to that of patients with acute myeloid leukemia (AML), and mostly related to ",
+        "journal": "Mediterranean journal of hematology and infectious diseases",
+        "year": "2018",
+        "authors": [
+          "Leone Giuseppe",
+          "Pagano Livio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30002795/"
+      },
+      {
+        "pmid": "37071328",
+        "title": "Venetoclax: A New Partner in the Novel Treatment Era for Acute Myeloid Leukemia and Myelodysplastic Syndrome.",
+        "abstract": "Acute Myeloid Leukemia (AML) and Myelodysplastic Syndrome (MDS) are two closely related blood cancers that are more frequent in older adults. AML is the most common type of adult acute leukemia, and MDS is characterized by ineffective blood cell production and abnormalities in the bone marrow and blood. Both can be resistant to treatment, often due to dysfunction in the process of apoptosis, the body's natural mechanism for cell death. Venetoclax, an orally-administered medication that selectively targets the BCL-2 protein, has shown promise in enhancing treatment sensitivity in some hematological malignancies by reducing the apoptotic threshold. This review aims to evaluate the effectiveness of venetoclax in treating AML and MDS, as well as potential mechanisms of resistance to the medication.",
+        "journal": "Clinical hematology international",
+        "year": "2023",
+        "authors": [
+          "El-Cheikh Jean",
+          "Bidaoui Ghassan",
+          "Saleh Mustafa",
+          "Moukalled Nour",
+          "Abou Dalle Iman"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37071328/"
+      },
+      {
+        "pmid": "36706355",
+        "title": "Mechanisms of response and resistance to combined decitabine and ipilimumab for advanced myeloid disease.",
+        "abstract": "The challenge of eradicating leukemia in patients with acute myelogenous leukemia (AML) after initial cytoreduction has motivated modern efforts to combine synergistic active modalities including immunotherapy. Recently, the ETCTN/CTEP 10026 study tested the combination of the DNA methyltransferase inhibitor decitabine together with the immune checkpoint inhibitor ipilimumab for AML/myelodysplastic syndrome (MDS) either after allogeneic hematopoietic stem cell transplantation (HSCT) or in the HSCT-naïve setting. Integrative transcriptome-based analysis of 304 961 individual marrow-infiltrating cells for 18 of 48 subjects treated on study revealed the strong association of response with a high baseline ratio of T to AML cells. Clinical responses were predominantly driven by decitabine-induced cytoreduction. Evidence of immune activation was only apparent after ipilimumab exposure, which altered CD4+ T-cell gene expression, in line with ongoing T-cell differentiation and increased freque",
+        "journal": "Blood",
+        "year": "2023",
+        "authors": [
+          "Penter Livius",
+          "Liu Yang",
+          "Wolff Jacquelyn O",
+          "Yang Lin",
+          "Taing Len"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ipilimumab",
+          "Decitabine",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute",
+          "Recurrence",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36706355/"
+      },
+      {
+        "pmid": "38768424",
+        "title": "TP53 Mutations in Acute Leukemias and Myelodysplastic Syndromes: Insights and Treatment Updates.",
+        "abstract": "TP53 mutations are found in 5%-10% of de novo myelodysplastic syndrome (MDS) and AML cases. By contrast, in therapy related MDS and AML, mutations in TP53 are found in up to 30%-40% of patients. The majority of inactivating mutations observed in MDS and AML are missense mutations localized in a few prevalent hotspots. TP53 missense mutations together with truncating mutations or chromosomal loss of TP53 determine a loss-of-function effect on normal p53 function. Clonal expansion of TP53-mutant clones is observed under the selection pressure of chemotherapy or MDM2 inhibitor therapy. TP53-mutant clones are resistant to current chemotherapy, and when responses to treatment have been observed, they have correlated poorly with overall survival. The most heavily investigated and targeted agent for patients with TP53-mutant MDS and AML has been APR-246 (eprenetapopt) a p53 reactivator, in combination with azacitidine, but also in triplets with venetoclax. Despite positive results in phase II",
+        "journal": "American Society of Clinical Oncology educational book. American Society of Clinical Oncology. Annual Meeting",
+        "year": "2024",
+        "authors": [
+          "Santini Valeria",
+          "Stahl Maximilian",
+          "Sallman David A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Tumor Suppressor Protein p53",
+          "Mutation",
+          "Leukemia, Myeloid, Acute",
+          "Molecular Targeted Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38768424/"
+      },
+      {
+        "pmid": "40449509",
+        "title": "Bexmarilimab plus azacitidine for high-risk myelodysplastic syndrome and relapsed or refractory acute myeloid leukaemia: results from the dose-escalation part of a multicentre, single-arm, phase 1/2 trial.",
+        "abstract": "Bexmarilimab blocks Clever-1 on macrophages to enhance antigen presentation and T cell activation. Because Clever-1 is expressed by myeloid leukaemia cells, bexmarilimab may combat leukaemia and influence the tumour microenvironment to augment the effectiveness of standard-of-care therapy in patients with myelodysplastic syndrome and acute myeloid leukaemia. The aim of this study was to determine the safety of bexmarilimab in combination with standard-of-care treatment in myelodysplastic syndrome and acute myeloid leukaemia and to identify the recommended dose for expansion of bexmarilimab in combination with standard of care.",
+        "journal": "The Lancet. Haematology",
+        "year": "2025",
+        "authors": [
+          "Kontro Mika",
+          "Stein Anthony Selwyn",
+          "Pyörälä Marja",
+          "Rimpiläinen Johanna",
+          "Siitonen Timo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute",
+          "Azacitidine",
+          "Male",
+          "Female",
+          "Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40449509/"
+      },
+      {
+        "pmid": "36964818",
+        "title": "Efficacy of epigenetic agents for older patients with acute myeloid leukemia and myelodysplastic syndrome in randomized controlled trials: a systematic review and network meta-analysis.",
+        "abstract": "Myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) are hematologic malignancies that mostly affect the elderly and have poor prognoses. Mutations in epigenetic regulatory genes cause AML/MDS through changes in DNA methylation and histone modifications. Some epigenetic agents are used in patients with AML and MDS. However, most studies have focused on azacitidine (AZA) or decitabine (DEC), and few studies have been conducted on combination therapies or other epigenetic therapies. This network meta-analysis (NMA) aimed to compare the efficacy of epigenetic agents overall in patients with AML and MDS. A systematic review and NMA of all available II-III phase randomized controlled trials (RCTs) comparing epigenetic agents were performed. The Embase and PubMed databases were searched for relevant studies. The Bayesian model was used in the NMA, and the surface under the cumulative ranking curve (SUCRA) was used to rank comparisons. The primary endpoint was overall survival (OS",
+        "journal": "Clinical and experimental medicine",
+        "year": "2023",
+        "authors": [
+          "Oh SuA",
+          "Kim EunYoung"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Humans",
+          "Azacitidine",
+          "Epigenesis, Genetic",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "Randomized Controlled Trials as Topic",
+          "Systematic Reviews as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36964818/"
+      },
+      {
+        "pmid": "20507806",
+        "title": "Azacitidine for the treatment of myelodysplastic syndrome, chronic myelomonocytic leukaemia and acute myeloid leukaemia.",
+        "abstract": "This paper presents a summary of the evidence review group (ERG) report into the clinical effectiveness and cost-effectiveness of azacitidine (aza) compared with conventional care regimes (CCR) for higher risk patients with myelodysplastic syndrome (MDS), chronic myelomonocytic leukaemia (CMML) and acute myeloid leukaemia (AML), based on the evidence submission from the manufacturer to the National Institute for Health and Clinical Excellence (NICE) as part of the single technology appraisal process. The patient outcomes governing relative effectiveness and cost-effectiveness were defined as overall survival, time to progression (TTP) to AML, adverse events and health-related quality of life (HRQoL). The clinical evidence was derived from an open-label randomised controlled trial referred to as study AZA-001. It compared aza with CCR in 358 patients with higher risk MDS, CMML and AML 20-30% blasts. The outcomes reported in AZA-001 included overall survival, TTP to AML and adverse event",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2010",
+        "authors": [
+          "Edlin R",
+          "Connock M",
+          "Tubeuf S",
+          "Round J",
+          "Fry-Smith A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Cost-Benefit Analysis",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Models, Economic",
+          "Myelodysplastic Syndromes",
+          "Quality of Life",
+          "Quality-Adjusted Life Years"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20507806/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:11:12.286711",
+  "success": true,
+  "error_message": null
+}

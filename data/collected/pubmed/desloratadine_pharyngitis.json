@@ -1,0 +1,139 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Desloratadine",
+    "disease": "pharyngitis",
+    "query_string": "Desloratadine AND pharyngitis"
+  },
+  "data": {
+    "query": "Desloratadine AND pharyngitis",
+    "results": [
+      {
+        "pmid": "12642846",
+        "title": "Efficacy and safety of desloratadine in the treatment of perennial allergic rhinitis.",
+        "abstract": "The evidence base for the use of H1-antihistamines in the treatment of perennial allergic rhinitis is considerably smaller than it is in the treatment of seasonal allergic rhinitis.",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "2003",
+        "authors": [
+          "Simons F Estelle R",
+          "Prenner Bruce M",
+          "Finn Albert"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Child",
+          "Double-Blind Method",
+          "Female",
+          "Histamine H1 Antagonists, Non-Sedating",
+          "Humans",
+          "Loratadine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12642846/"
+      },
+      {
+        "pmid": "12962522",
+        "title": "Desloratadine: an update of its efficacy in the management of allergic disorders.",
+        "abstract": "Desloratadine (Clarinex, Neoclarityn, Aerius, Azomyr, Opulis, Allex), the principal metabolite of loratadine, is itself an orally active, nonsedating, peripheral histamine H(1)-receptor antagonist. It is indicated in the US and Europe for the treatment of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR) and chronic idiopathic urticaria (CIU). It has a rapid onset of effect, efficacy throughout a 24-hour dosage interval, and sustained efficacy in these allergic conditions, as demonstrated in placebo-controlled trials of up to 6 weeks' duration in adult and adolescent patients. At present, there are no published direct comparisons of desloratadine and other H(1)-antihistamines; however, the principal, potential clinical advantages of desloratadine over late-generation H(1)-antihistamines are the drug's decongestant activity, which has been corroborated in several studies of patients with allergic rhinitis, and its anti-inflammatory effects. Indeed, the decongestant act",
+        "journal": "Drugs",
+        "year": "2003",
+        "authors": [
+          "Murdoch David",
+          "Goa Karen L",
+          "Keam Susan J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Histamine H1 Antagonists, Non-Sedating",
+          "Humans",
+          "Hypersensitivity",
+          "Loratadine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12962522/"
+      },
+      {
+        "pmid": "11277962",
+        "title": "Once-daily desloratadine improves the signs and symptoms of chronic idiopathic urticaria: a randomized, double-blind, placebo-controlled study.",
+        "abstract": "Chronic idiopathic urticaria (CIU) is the most common type of chronic urticaria, and pruritus is the most prominent symptom. Antihistamines are the first-line treatment for CIU. Sedation and anticholinergic adverse effects are often experienced with the first-generation antihistamines and there is a risk of cardiovascular adverse effects and drug interactions with some second-generation agents. Hence, new treatment options are needed. Desloratadine is a new, potent, nonsedating antihistamine that has an excellent cardiovascular safety profile.",
+        "journal": "International journal of dermatology",
+        "year": "2001",
+        "authors": [
+          "Ring J",
+          "Hein R",
+          "Gauger A",
+          "Bronsky E",
+          "Miller B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cholinergic Antagonists",
+          "Chronic Disease",
+          "Dizziness",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Fatigue",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11277962/"
+      },
+      {
+        "pmid": "19808127",
+        "title": "Levocetirizine for the treatment of allergic rhinitis and chronic idiopathic urticaria in adults and children.",
+        "abstract": "Levocetirizine (LCZ) is a second-generation antihistamine that was approved in January 2008 for the relief of symptoms of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR), and chronic idiopathic urticaria (CIU) in adults and children aged > or = 6 years.",
+        "journal": "Clinical therapeutics",
+        "year": "2009",
+        "authors": [
+          "Singh-Franco Devada",
+          "Ghin Hoytin Lee",
+          "Robles Gisela I",
+          "Borja-Hart Nancy",
+          "Perez Alexandra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cetirizine",
+          "Child",
+          "Drug Interactions",
+          "Histamine H1 Antagonists, Non-Sedating",
+          "Humans",
+          "Quality of Life",
+          "Rhinitis, Allergic, Perennial",
+          "Rhinitis, Allergic, Seasonal",
+          "Urticaria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19808127/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:03:02.173892",
+  "success": true,
+  "error_message": null
+}

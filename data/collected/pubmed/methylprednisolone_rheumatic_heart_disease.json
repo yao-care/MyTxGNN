@@ -1,0 +1,596 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "rheumatic heart disease",
+    "query_string": "Methylprednisolone AND rheumatic heart disease"
+  },
+  "data": {
+    "query": "Methylprednisolone AND rheumatic heart disease",
+    "results": [
+      {
+        "pmid": "29065944",
+        "title": "Pulse therapy combined with oral corticosteroids in the management of severe rheumatic carditis and rebound.",
+        "abstract": "The aim of the present study was to describe the clinical course, laboratory tests, and the cardiac involvement in rheumatic carditis patients in functional class III and IV, submitted to pulse therapy combined with oral prednisone.",
+        "journal": "Cardiology in the young",
+        "year": "2018",
+        "authors": [
+          "Torres Renato P A",
+          "Torres Rômulo F A",
+          "Torres Rafael A",
+          "Torres Rosângela S L A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Child",
+          "Child, Preschool",
+          "Dose-Response Relationship, Drug",
+          "Echocardiography",
+          "Female",
+          "Follow-Up Studies",
+          "Heart Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29065944/"
+      },
+      {
+        "pmid": "26017576",
+        "title": "Anti-inflammatory treatment for carditis in acute rheumatic fever.",
+        "abstract": "Rheumatic heart disease remains an important cause of acquired heart disease in developing countries. Although prevention of rheumatic fever and management of recurrences have been well established, optimal management of active rheumatic carditis remains unclear. This is an update of a review published in 2003, and previously updated in 2009 and 2012.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2015",
+        "authors": [
+          "Cilliers Antoinette",
+          "Adler Alma J",
+          "Saloojee Haroon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Aspirin",
+          "Humans",
+          "Immunoglobulins, Intravenous",
+          "Myocarditis",
+          "Randomized Controlled Trials as Topic",
+          "Rheumatic Heart Disease",
+          "Steroids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26017576/"
+      },
+      {
+        "pmid": "22696333",
+        "title": "Anti-inflammatory treatment for carditis in acute rheumatic fever.",
+        "abstract": "Rheumatic heart disease remains an important cause of acquired heart disease in developing countries. Although the prevention of rheumatic fever and the management of recurrences is well established, the optimal management of active rheumatic carditis is still unclear. This is an update of a review published in 2003 and previously updated in 2009.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2012",
+        "authors": [
+          "Cilliers Antoinette",
+          "Manyemba Juliet",
+          "Adler Alma J",
+          "Saloojee Haroon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Aspirin",
+          "Humans",
+          "Immunoglobulins, Intravenous",
+          "Myocarditis",
+          "Randomized Controlled Trials as Topic",
+          "Rheumatic Heart Disease",
+          "Steroids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22696333/"
+      },
+      {
+        "pmid": "37060353",
+        "title": "Coexistence of Graves' disease with acute rheumatic fever treated as thyroid storm in young Thai patient.",
+        "abstract": "This report presents a case of acute onset of chorea, concurrent Graves' disease, and acute rheumatic fever in an 8-year-old female patient.",
+        "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+        "year": "2023",
+        "authors": [
+          "Onsoi Witchuwan",
+          "Srilanchakon Khomsak",
+          "Aroonparkmongkol Suphab",
+          "Supornsilchai Vichit"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Female",
+          "Humans",
+          "Thyroid Crisis",
+          "Propranolol",
+          "Rheumatic Fever",
+          "Chorea",
+          "Southeast Asian People",
+          "Graves Disease",
+          "Heart Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37060353/"
+      },
+      {
+        "pmid": "32313736",
+        "title": "Pulmonary Involvement in Acute Rheumatic Fever: A Case Report and Literature Review.",
+        "abstract": "Rheumatic pneumonia is a pulmonary complication of rheumatic fever, often with grave outcomes. It has been described sporadically in literature, most recently a decade ago. Here, we describe a case of a 12-year-old Native American girl presenting with chest pain, gastrointestinal complaints, and frequent nosebleeds. After the initial diagnosis with acute pericarditis, she was found to meet diagnostic criteria for rheumatic fever. Revised Jones criteria met included significantly elevated streptolysin O antibody and anti-DNase B, carditis, arthralgia, fever, and elevated inflammatory markers. Findings complicating the diagnosis were an elevated antinuclear antigen with a family history of systemic lupus erythematosus (SLE), hemoptysis, and a chest CT finding of right lower lobe alveolar hemorrhage as well as right-sided mediastinal adenopathy. The patient was discharged on day nine of admission after a course of high-dose methylprednisolone with prednisone taper, furosemide, enalapril, ",
+        "journal": "Cureus",
+        "year": "2020",
+        "authors": [
+          "Kenney Patrick",
+          "McMullin Sarah",
+          "Abdul-Aziz Rabheh"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32313736/"
+      },
+      {
+        "pmid": "22013898",
+        "title": "Follow-up of rheumatic carditis treated with steroids.",
+        "abstract": "To present the long-term follow-up of children hospitalised for severe rheumatic carditis who were treated with corticosteroids.",
+        "journal": "Cardiology in the young",
+        "year": "2012",
+        "authors": [
+          "Herdy Gesmar V H",
+          "Gomes Rafael S",
+          "Silva Anna E A",
+          "Silva Leandro S",
+          "Lopes Vânia G S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Brazil",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Male",
+          "Prednisone",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22013898/"
+      },
+      {
+        "pmid": "29308284",
+        "title": "An unusual flare of anti-synthetase syndrome during concurrent trastuzumab therapy given for recurrent breast cancer.",
+        "abstract": "We present the case of a patient with relapsing anti-synthetase syndrome (ASS) that may have been triggered by monoclonal antibody trastuzumab therapy given for breast cancer. A 52-year-old female with a history of anti-Jo1-associated ASS went into remission with glucocorticoids and mycophenolate mofetil. Her past history included invasive ductal carcinoma of the right breast that was fully treated six years prior to the onset of ASS. She subsequently developed recurrent right-sided breast cancer that was treated with right mastectomy and six cycles of cyclophosphamide-docetaxel chemotherapy. She commenced adjuvant trastuzumab and letrozole therapy, and following the sixth injection of trastuzumab, she was admitted with clinical features consistent with a flare of ASS, which included swinging fever, interstitial lung disease, myositis, and possible subclinical myocarditis, despite recent treatment with cyclophosphamide. She responded to intravenous IV methylprednisolone followed by inc",
+        "journal": "European journal of rheumatology",
+        "year": "2017",
+        "authors": [
+          "Reynolds Timothy D",
+          "Mohan Vivek",
+          "Roy Matthew",
+          "Manghat Nathan",
+          "Adamali Huzaifa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29308284/"
+      },
+      {
+        "pmid": "10668230",
+        "title": "Rheumatic carditis treated with high doses of pulsetherapy methylprednisolone. Results in 70 children over 12 years.",
+        "abstract": "To report the result of patients treated with IV methylprednisolone divided into three groups and compare their follow-up during the last 12 years.",
+        "journal": "Arquivos brasileiros de cardiologia",
+        "year": "1999",
+        "authors": [
+          "Herdy G V",
+          "Pinto C A",
+          "Olivaes M C",
+          "Carvalho E A",
+          "Tchou H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Inflammatory Agents",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Injections, Intravenous",
+          "Methylprednisolone",
+          "Myocarditis",
+          "Prospective Studies",
+          "Rheumatic Heart Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10668230/"
+      },
+      {
+        "pmid": "27077635",
+        "title": "Severe acute kidney injury in children owing to infective endocarditis-associated immune complex glomerulonephritis: a report of two cases.",
+        "abstract": "Renal involvement in infective endocarditis (IE) may manifest with different clinical patterns, including diffuse proliferative glomerulonephritis and crescentic glomerulonephritis, which may lead to haematuria and/or proteinuria. However, severe acute kidney injury (AKI) in such cases is extremely uncommon and is reported mostly in adults. Two children with rheumatic heart disease and a peri-membranous ventricular septal defect, respectively, who developed haematuria, proteinuria and severe AKI in association with IE are reported. The first case had diffuse proliferative glomerulonephritis with 10% cellular crescents, and made a complete renal recovery with antibiotics and intravenous methylprednisolone followed by oral prednisolone. However, the second case had severe crescentic glomerulonephritis which led to residual renal injury despite intravenous methylprednisolone and cyclophosphamide in combination with antibiotics. The cases illustrate that crescentic glomerulonephritis or se",
+        "journal": "Paediatrics and international child health",
+        "year": "2017",
+        "authors": [
+          "Krishnamurthy Sriram",
+          "Chandrasekaran Venkatesh",
+          "Mahadevan Subramanian",
+          "Priyamvada P S",
+          "Rajesh Nachiappa Ganesh"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Antigen-Antibody Complex",
+          "Child",
+          "Endocarditis",
+          "Female",
+          "Glomerulonephritis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27077635/"
+      },
+      {
+        "pmid": "11709613",
+        "title": "Reactive haemophagocytic syndrome in children with inflammatory disorders. A retrospective study of 24 patients.",
+        "abstract": "The reactive haemophagocytic syndrome (RHS) is a little-known life-threatening complication of rheumatic diseases in children. It reflects the extreme vulnerability of these patients, especially those with systemic-onset juvenile chronic arthritis (JCA). This immunohaematological process may be triggered by events such as herpes virus infection and non-steroidal anti-inflammatory drug therapy. Treatment has not been standardized.",
+        "journal": "Rheumatology (Oxford, England)",
+        "year": "2001",
+        "authors": [
+          "Stéphan J L",
+          "Koné-Paut I",
+          "Galambrun C",
+          "Mouy R",
+          "Bader-Meunier B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antirheumatic Agents",
+          "Arthritis, Juvenile",
+          "Child",
+          "Cyclosporine",
+          "Female",
+          "Histiocytosis, Non-Langerhans-Cell",
+          "Humans",
+          "Male",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11709613/"
+      },
+      {
+        "pmid": "30692770",
+        "title": "Hyperacute Paraplegia and Neurovascular (Immuno Vasculotoxic) Catastrophe of Nicolau Syndrome: Primum Non nocere.",
+        "abstract": "A case of Nicolau syndrome (NS) in a 36-year-old adult taking an unusual and devastating hyperacute irreversible paraplegia after an intramuscular injection of benzathine penicillin as a part of routine chemoprophylaxis of her rheumatic heart disease is reported. Although this syndrome is a considerably rare, iatrogenic and underappreciated dermatologic entity, we reiterate in this report, its extracutaneous systemic potential for a catastrophic neurovascular phenomenon and morbidity as well as its possible preventive measures. The apoplectiform onset of T10 flaccid areflexic paraplegia, with the cutaneous hallmark of \"embolia cutis medicamentosa\" was corroborated by magnetic resonance imaging evidence of centromedullary complete cord involvement from T10 to conus medullaris. Combination therapy with pulse methylprednisolone, low-molecular-weight heparin, and pentoxifylline infusion proved unsuccessful. The skin biopsy and direct immunofluorescence revealed features were consistent wit",
+        "journal": "Annals of Indian Academy of Neurology",
+        "year": "2019",
+        "authors": [
+          "Shelley Bhaskara P",
+          "Prasad Prasanth",
+          "Manjunath Malla M",
+          "Chakraborti Shrijeet"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30692770/"
+      },
+      {
+        "pmid": "10430523",
+        "title": "The effects of methylprednisolone on complement, immunoglobulins and pulmonary neutrophil sequestration during cardiopulmonary bypass.",
+        "abstract": "In this study, the authors administered high dose (30 mg/kg body weight i.v.) methylprednisolone before cardiopulmonary bypass to observe the effects on complement, immunoglobulins and pulmonary neutrophil sequestration. Fifty patients undergoing valve replacements were included in this study. Patients were divided into two groups: group I (20 patients) served as control and did not receive methylprednisolone, group II (30 patients) received methylprednisolone. Blood samples for complements (C3c and C4) were taken, before cardiopulmonary bypass, at 5, 10 and 30 min intervals from the end of cardiopulmonary bypass, after reversal of heparin with protamine infusion, and after skin closure. Blood samples for immunoglobulins were taken before cardiopulmonary bypass, 30 min after onset of cardiopulmonary bypass and after skin closure. After onset of cardiopulmonary bypass, all C3c and C4 levels decreased in both groups. There was a significant decrease in C4 levels at end of cardiopulmonary",
+        "journal": "Cardiovascular surgery (London, England)",
+        "year": "1999",
+        "authors": [
+          "Dernek S",
+          "Tünerir B",
+          "Sevin B",
+          "Aslan R",
+          "Uyguç O"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Aortic Valve",
+          "Bronchopulmonary Sequestration",
+          "Cardiopulmonary Bypass",
+          "Complement Activation",
+          "Complement C3",
+          "Complement C4",
+          "Dose-Response Relationship, Drug",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10430523/"
+      },
+      {
+        "pmid": "12018715",
+        "title": "Comparison of an intravenous pulse of methylprednisolone versus oral corticosteroid in severe acute rheumatic carditis: a randomized clinical trial.",
+        "abstract": "To compare the short-term prognosis of patients with severe acute rheumatic carditis when treated with an intravenous pulse of methylprednisolone in comparison with conventional treatment using oral prednisone.",
+        "journal": "Cardiology in the young",
+        "year": "2002",
+        "authors": [
+          "Câmara Edmundo José Nassri",
+          "Braga Júlio César Vieira",
+          "Alves-Silva Luiz Sérgio",
+          "Câmara Gabriel Ferreira",
+          "da Silva Lopes Antonio Alberto"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Oral",
+          "Adolescent",
+          "Child",
+          "Echocardiography",
+          "Female",
+          "Follow-Up Studies",
+          "Heart Failure",
+          "Humans",
+          "Infusions, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12018715/"
+      },
+      {
+        "pmid": "28481462",
+        "title": "Biologics or tofacitinib for people with rheumatoid arthritis naive to methotrexate: a systematic review and network meta-analysis.",
+        "abstract": "Biologic disease-modifying anti-rheumatic drugs (biologics) are highly effective in treating rheumatoid arthritis (RA), however there are few head-to-head biologic comparison studies. We performed a systematic review, a standard meta-analysis and a network meta-analysis (NMA) to update the 2009 Cochrane Overview. This review is focused on the adults with RA who are naive to methotrexate (MTX) that is, receiving their first disease-modifying agent.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Singh Jasvinder A",
+          "Hossain Alomgir",
+          "Mudano Amy S",
+          "Tanjong Ghogomu Elizabeth",
+          "Suarez-Almazor Maria E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Abatacept",
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Bayes Theorem",
+          "Biological Products",
+          "Etanercept",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28481462/"
+      },
+      {
+        "pmid": "33381118",
+        "title": "Case Report: A Spinal Ischemic Lesion in a 24-Year-Old Patient With Fabry Disease.",
+        "abstract": "While cerebral lesions are common in Fabry disease (FD), spinal lesions have not been described, and their presence was suggested to be indicative of multiple sclerosis. Here, we present a FD patient with histopathological confirmed spinal ischemic stroke.",
+        "journal": "Frontiers in immunology",
+        "year": "2020",
+        "authors": [
+          "Krämer Julia",
+          "Glaser Felix",
+          "Hasselblatt Martin",
+          "Brand Eva",
+          "Pogoda Christian"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Fabry Disease",
+          "Humans",
+          "Ischemia",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Spinal Cord",
+          "Spinal Cord Diseases",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33381118/"
+      },
+      {
+        "pmid": "8279976",
+        "title": "[Pulse therapy (high doses of venous methylprednisolone) in children with rheumatic carditis. Prospective study of 40 episodes].",
+        "abstract": "To use corticosteroids in a shorter period to treat rheumatic carditis, keeping the patient in the hospital; and verify the time interval of normalization of rheumatic activity tests with this method.",
+        "journal": "Arquivos brasileiros de cardiologia",
+        "year": "1993",
+        "authors": [
+          "Herdy G V",
+          "Couto A A",
+          "Fernandes J C",
+          "de Olivaes M C",
+          "Berger R"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Female",
+          "Humans",
+          "Injections, Intravenous",
+          "Length of Stay",
+          "Male",
+          "Methylprednisolone",
+          "Myocarditis",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8279976/"
+      },
+      {
+        "pmid": "8992855",
+        "title": "Effects of high-dose intravenous methylprednisolone in children with acute rheumatic carditis.",
+        "abstract": "In order to measure the effects of high-dose intravenous methylprednisolone (HIVMP) and compare its efficiency with that of oral prednisolone (OP), 18 patients with active rheumatic carditis were studied. Ten patients received OP, while eight patients were treated with HIVMP. Clinical and laboratory responses to treatment were followed by sleeping pulse rate, systolic blood pressure, erythrocyte sedimentation rate (ESR), cardiothoracic ratio (CTR), PR interval on electrocardiogram, spectral and color flow imaging and Doppler echocardiographic findings; mitral and aortic regurgitant jet flow area, left atrial area, proximal width of mitral regurgitant jet area and regurgitation fractions. The results of patients in the HIVMP group showed statistically significant changes in ESR and CTR when compared with the patients receiving OP, and the recovery was more rapid. HIVMP therapy can be considered as a new method of treatment for acute rheumatic carditis.",
+        "journal": "Acta paediatrica Japonica : Overseas edition",
+        "year": "1996",
+        "authors": [
+          "Akçoral A",
+          "Oran B",
+          "Tavli V",
+          "Unal N",
+          "Cevik N T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Child",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Electrocardiography",
+          "Female",
+          "Hemodynamics",
+          "Humans",
+          "Infusions, Intravenous",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8992855/"
+      },
+      {
+        "pmid": "1743786",
+        "title": "Acute aortitis and aortic incompetence due to systemic rheumatological disorders.",
+        "abstract": "We report the clinical, laboratory and echocardiographic features of five cases of aortic incompetence associated with ankylosing spondylitis, rheumatoid arthritis and undefined connective tissue diseases. Immunosuppression with steroids and cytotoxic agents was used to suppress aortic root inflammation in four cases; in three the aortic root size stabilized and the patients remain well with no evidence of increasing aortic incompetence. In one case, control of the inflammatory process was never fully achieved for any length of time and the patient died shortly after aortic valve replacement. A fifth case required urgent valve replacement and remains well. A systemic rheumatological disorder should be considered in cases of apparent \"lone\" aortic incompetence and conversely aortic incompetence should not be overlooked in established systemic rheumatological disease. Immunosuppressive therapy may prevent or delay the need for aortic valve replacement in such cases.",
+        "journal": "International journal of cardiology",
+        "year": "1991",
+        "authors": [
+          "Townend J N",
+          "Emery P",
+          "Davies M K",
+          "Littler W A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aortic Valve Insufficiency",
+          "Aortitis",
+          "Biopsy",
+          "Combined Modality Therapy",
+          "Cyclophosphamide",
+          "Drug Therapy, Combination",
+          "Echocardiography",
+          "Female",
+          "Heart Valve Prosthesis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1743786/"
+      },
+      {
+        "pmid": "6532392",
+        "title": "[High-dose intravenous methylprednisolone (pulsotherapy): a possible therapeutic solution for active rheumatic fever with severe carditis].",
+        "abstract": "",
+        "journal": "Arquivos brasileiros de cardiologia",
+        "year": "1984",
+        "authors": [
+          "de Couto A A",
+          "Martins J C",
+          "Mansur E M",
+          "Alves M L",
+          "Nascimento M A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antibodies, Bacterial",
+          "Female",
+          "Humans",
+          "Injections, Intravenous",
+          "Male",
+          "Methylprednisolone",
+          "Myocarditis",
+          "Rheumatic Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6532392/"
+      },
+      {
+        "pmid": "3446135",
+        "title": "[Duration of rheumatic activity in patients treated with oral corticoids vs. pulse therapy].",
+        "abstract": "",
+        "journal": "Arquivos brasileiros de cardiologia",
+        "year": "1987",
+        "authors": [
+          "Couto A A",
+          "de Oliveira G M",
+          "Campos A L",
+          "Alves M L",
+          "Mansur E M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Child",
+          "Female",
+          "Humans",
+          "Infusions, Intravenous",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3446135/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:44:26.396073",
+  "success": true,
+  "error_message": null
+}

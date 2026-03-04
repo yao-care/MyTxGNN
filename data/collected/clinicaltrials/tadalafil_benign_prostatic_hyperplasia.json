@@ -1,0 +1,716 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "benign prostatic hyperplasia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05818670",
+      "title": "Comparison Between Tamsulosin and Tadalafil in Management of Benign Prostatic Hyperplasia A Randomised Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-11-11",
+      "completion_date": "2022-09-17",
+      "country": "Egypt",
+      "enrollment": 160,
+      "brief_summary": "Comparison between tamsulosin and Tadalafil in management of benign prostatic hyperplasia A Randomised Trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with Lower Urinary Tract Symptoms\n* married and sexually active\n* age more than 50 years\n* IPSS more than 12\n* Q max less than 15 ml/s\n* Post voiding residual less than 150 ml\n\nExclusion Criteria:\n\n* prostatic adenocarcinoma\n* cardiac patients on nitrates, patient wit",
+      "endpoints": [
+        "drug discontinuation rate"
+      ],
+      "sponsor": "Mansoura University",
+      "url": "https://clinicaltrials.gov/study/NCT05818670"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02645890",
+      "title": "A Randomized, Open-label, Oral Single Dosing, Two-way Crossover Clinical Trial to Evaluate the Safety and Pharmacokinetic Profiles of CKD-397 in Healthy Male Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-11",
+      "completion_date": "2015-12",
+      "country": "South Korea",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to compare the safety and pharmacokinetics profiles of CKD-397 in healthy male volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. More than 19 years in Healthy male volunteer\n2. Body weight ≥ 55kg and in the range of calculated BMI 17.5 to 30.5kg/m2\n3. Subject who signed on an informed consent form willingly\n\nExclusion Criteria:\n\n1. Clinically significant disease with hematological, nephrological, respi",
+      "endpoints": [
+        "AUC0-t of Tadalafil/ Tamsulosin"
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02645890"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06466369",
+      "title": "Efficacy and Safety of Once Daily Administration Tadalafil in Patients With Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2024-03-15",
+      "completion_date": "2024-08-01",
+      "country": "Egypt",
+      "enrollment": 306,
+      "brief_summary": "The aim of the present study is to evaluate the efficacy and safety of once daily administration PDE5 inhibitors, tadalafil for 3 months as anti-inflammatory, antiproliferative and relaxant effects in ED with BPH patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged ≥ 45 years and sexually active with symptomatic benign prostatic hyperplasia (no hospitalization 3 months prior to start of treatment).\n\nExclusion Criteria:\n\n* 1\\. Patients with bladder or prostate malignancy. 2. A history of lower urinary tract surgery. 3. History of cat",
+      "endpoints": [
+        "Evaluation of International prostate symptom score (IPSS)/quality of life (QoL).",
+        "Evaluation of International index of erectile function (IIEF)."
+      ],
+      "sponsor": "Al-Azhar University",
+      "url": "https://clinicaltrials.gov/study/NCT06466369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00384930",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, 5-Group, Multinational Study to Evaluate the Efficacy, Dose Response, and Safety of Tadalafil Once-a-Day Dosing for 12 Weeks in Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2008-10",
+      "country": "United States",
+      "enrollment": 1058,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled, parallel-design, multinational, 12-week study to compare the efficacy, dose response, and safety of tadalafil once a day versus placebo in men with signs and symptoms of benign prostatic hyperplasia, including lower urinary tract symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males, 45 years or older, with benign prostatic hyperplasia, including lower urinary tract symptoms for at least 6 months prior to Visit 1 and an International Prostate Symptom Score (IPSS) greater than or equal to 13 at Visit 2.\n* Agree not to use approved or experimental ben",
+      "endpoints": [
+        "Change From Baseline to 12 Week Endpoint in International Prostate Symptom Score (IPSS): Primary Analysis",
+        "Change From Baseline to Week 12 in International Prostate Symptom Score (IPSS): Supportive Analysis"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00384930"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03240939",
+      "title": "A Randomized, Open Label, Single Dose, Two-way Crossover Clinical Trial to Investigate the Pharmacokinetics and Safety/Tolerability of YY-201 in Comparison to Dutasteride and Tadalafil Administered in Healthy Male Volunteer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-03-27",
+      "completion_date": "2017-10-10",
+      "country": "South Korea",
+      "enrollment": 36,
+      "brief_summary": "A randomized, open label, single dose, two-way crossover clinical trial to investigate the pharmacokinetics and safety/tolerability of YY-201 in comparison to Dutasteride and Tadalafil administered in healthy male volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 19 to 45 years\n* BMI score 19 kg/m2 to 28 kg/m2\n* SBP \\< 140 mmHg and ≤ 90 mmHg or DBP \\< 90 mmHg and ≥ 50 mmHg\n* Eligible according to the laboratory results of hematology, blood chemistry and urinalysis\n* Voluntarily signed the informed consent form\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Cmax"
+      ],
+      "sponsor": "Yuyu Pharma, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03240939"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00547625",
+      "title": "A Multicenter, Parallel-Arm, Placebo-Controlled, Double-Blind Study to Evaluate the Efficacy and Safety of Tadalafil Administered Once Daily to Men With Lower Urinary Tract Symptoms Secondary to Benign Prostatic Hyperplasia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-07",
+      "country": "United States",
+      "enrollment": 275,
+      "brief_summary": "Study to look at safety and effectiveness of different doses of tadalafil on prostate related genital/urinary tract problems.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6 month history of lower urinary tract symptoms either obstructive and/or irritative secondary to prostate related problems as diagnosed by a urologist.\n* Stopped using treatments at least four weeks prior to study and agree to not use any other treatments during the study.\n* ",
+      "endpoints": [
+        "International Prostate Symptom Score (IPSS) sum total of questions 1-7"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00547625"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00848081",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design Study to Evaluate the Safety and Efficacy of Daily Tadalafil for 12 Weeks in Men With Signs and Symptoms of Benign Prostatic Hyperplasia on Concomitant Alpha1-Adrenergic Blocker Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2009-12",
+      "country": "Puerto Rico, United States",
+      "enrollment": 318,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of tadalafil when given to men who are currently taking a medication called an alpha blocker for the treatment of benign prostatic hyperplasia (BPH) symptoms (such as urinary frequency, urgency, and a feeling that the bladder is not completely emptied after urination).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable on alpha blocker therapy for the treatment of BPH for at least 4 weeks prior to starting the study.\n* Have not taken the following treatments within the indicated duration and agree not to use at any time during the study:\n\n  1. All other Benign Prostatic Hyperplasia th",
+      "endpoints": [
+        "Number of Men With Treatment-emergent Dizziness"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00848081"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00540124",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Pilot Study to Evaluate the Efficacy and Safety of Tadalafil and Tamsulosin Once-a-Day Dosing for 12 Weeks in Asian Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2008-06",
+      "country": "South Korea",
+      "enrollment": 151,
+      "brief_summary": "The primary purpose of this clinical trial is to evaluate the change in the International Prostate Symptom Score (IPSS) total score from the beginning of the study to the end of the study for subjects randomized to tadalafil 5mg once a day dosing and placebo once a day dosing for 12 weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have Benign Prostatic Hyperplasia - Lower Urinary Tract Symptoms (BPH-LUTS) for at least 6 months prior to Visit 1.\n* Agree not to use any other approved or experimental treatments for erectile dysfunction or BPH-LUTS during the study.\n* Have not taken Finasteride therapy for ",
+      "endpoints": [
+        "Change From Baseline to 12 Week Endpoint in International Prostate Symptom Score (IPSS) Total Score"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00540124"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02615782",
+      "title": "A Randomized, Open-label, Oral Single Dosing, Two-way Crossover Clinical Trial to Evaluate the Effects of Food on the Bioavailability of CKD-397 After a Single Oral Dose in Healthy Male Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-12",
+      "completion_date": "2016-05",
+      "country": "South Korea",
+      "enrollment": 16,
+      "brief_summary": "This study is a randomized, open-label, oral single dosing, two-way crossover clinical trial to evaluate the effects of food on the bioavailability of CKD-397 after a single oral dose in healthy male subjects",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male subject older than 19 years at the time of screening.\n2. Subjects who BMI more than 17.5kg/m2 and less than 30.5kg/m2 and weight more than 55kg\n3. Subjects who signed the informed consent form after understanding fully to hear a detailed explanation in the clinic",
+      "endpoints": [
+        "AUClast of Tadalafil and Tamsulosin",
+        "Cmax of Tadalafil and Tamsulosin"
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT02615782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06213077",
+      "title": "To Determine the Potentiating Effects of Berkeley Life Foundation Nitric Oxide Capsules in Supporting Healthy Sexual Function in Men on an Existing Treatment Plan But Who Are Experiencing Occasional Unsatisfactory Erections.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-12",
+      "completion_date": "2024-05-30",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Twenty (20) individuals to be recruited from Ballantyne Medical Associates in Charlotte, NC, without any significant chronic medical history. These patients are general patients for primary care that meet inclusion criteria. Patients will be screened and enrolled by Dr. Bauer and his delegated research staff upon patient consult. Patients will be informed of the purpose of the study including risks, benefits, and alternative treatments to the study. After the potential participants have been giv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects Male between the ages of 40 and 65\n* Subjects looking to support healthy sexual function who have been undergoing treatment to support healthy erections for at least 90 days with unsatisfactory results and whose nitric oxide levels are suboptimal based on an easy-to-u",
+      "endpoints": [
+        "International Index of Erectile Function",
+        "Erection Hardness Score"
+      ],
+      "sponsor": "RHA Investments Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06213077"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06809205",
+      "title": "Efficacy and Safety of Tadalafil, Tamsulosin, and Their Combinations in Treating Lower Urinary Tract Symptoms in BPH Patients with Prostate Volumes ≤ 40 Ml: a Prospective Comparative Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-04-20",
+      "completion_date": "2024-08-30",
+      "country": "Egypt",
+      "enrollment": 95,
+      "brief_summary": "Abstract:\n\nObjective: To examine the influence of tadalafil and tamsulosin versus their combinations in the treatment of lower urinary tract symptoms in mildly enlarged prostates below 40 ml in volume.\n\nMaterials and methods: A prospective randomized study was done at Fayoum and Beni-Suef University Hospitals in Egypt from December 2022 to August 2023. A total of 95 male participants aged over 45 years, all presenting with mild to intense lower urinary tract symptoms, were enrolled. Participants",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion criteria were male patients aged ≥ 45years with prostate volume less than 40 ml, with mild to intense LUTS/BPH as regard to IPSS.\n\nExclusion Criteria:\n\n* The exclusion criteria included a prostate-specific antigen (PSA) level exceeding 4 ng/mL, a prostate volume exce",
+      "endpoints": [
+        "IPSS (International Prostate Symptom Score)"
+      ],
+      "sponsor": "Fayoum University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06809205"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04577040",
+      "title": "Safety and Efficacy of Tadalafil vs. Tadalafil With Sildosin in the Management of Moderately and Severely Symptomatic Patients of Prostatic Hyperplasia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-10-01",
+      "completion_date": "2022-10-01",
+      "country": "N/A",
+      "enrollment": 400,
+      "brief_summary": "To study Safety and efficacy of Tadalafil vs. Tadalafil with Sildosin in the management of moderately and severely symptomatic patients of prostatic hyperplasia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients to be included in the study will be either:\n\n  1. diagnosis of BPH based on abdominal ultrasound or digital rectal examination.\n  2. Moderate IPSS Score between 8 : 19.\n  3. severe IPSS Score between 20 : 35.\n  4. post void volume \\> 100 c.\n  5. prostate size 50 to 80",
+      "endpoints": [
+        "Symptom relief"
+      ],
+      "sponsor": "Menoufia University",
+      "url": "https://clinicaltrials.gov/study/NCT04577040"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01937871",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Multicenter Study to Evaluate the Efficacy and Safety of Tadalafil Once-Daily Dosing for 12 Weeks in Men With Signs and Symptoms of Benign Prostatic Hyperplasia and Erectile Dysfunction",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2015-12",
+      "country": "China",
+      "enrollment": 909,
+      "brief_summary": "The purpose of this study is to see whether tadalafil can reduce the signs and symptoms in men with Erectile Dysfunction (ED) and Benign Prostatic Hyperplasia-Lower Urinary Tract Symptoms (BPH-LUTS) and improve their quality of life.",
+      "eligibility_criteria": "Main Inclusion Criteria:\n\n* Present with a history of ED and signs and symptoms of BPH.\n* Are sexually active with an adult female partner, and expect to remain sexually active with the same adult female partner for the duration of the study.\n\nMain Exclusion Criteria:\n\n* Current treatment with nitra",
+      "endpoints": [
+        "Change From Baseline in Total International Prostate Symptom Score (IPSS) at Week 12"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01937871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02239484",
+      "title": "An Open-label, Randomized, Multiple-dose Crossover Study to Evaluate a Pharmacokinetic Drug Interaction Between Tadalafil and Tamsulosin in Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-03",
+      "completion_date": "2014-09",
+      "country": "South Korea",
+      "enrollment": 30,
+      "brief_summary": "We investigate the potential pharmacokinetic drug-drug interaction between Tadalafil and Tamsulosin in healthy male volunteers who receive Tadalafil alone, Tamsulosin alone, and both together in a 3 period repeatedly.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy male volunteers, age 20 to 55 years.\n2. The result of Body Mass Index(BMI) is not less than 19 kg/m2 , no more than 27 kg/m2\n3. Subjects who have ability to comprehend the objectives, contents of study and property of study drug before participating in trial and have ",
+      "endpoints": [
+        "Tadalafil,Tamsulosin Cmax,ss",
+        "Tadalafil,Tamsulosin AUCτ"
+      ],
+      "sponsor": "Hanmi Pharmaceutical Company Limited",
+      "url": "https://clinicaltrials.gov/study/NCT02239484"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00970632",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Global Multicenter Study to Evaluate the Efficacy and Safety of Tadalafil Once Daily Dosing for 12 Weeks in Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-01",
+      "country": "France, Mexico, Greece, Austria, Italy, Germany, Australia, Netherlands, Poland, Belgium",
+      "enrollment": 511,
+      "brief_summary": "The purpose of this study is to determine whether an experimental drug known as tadalafil given once daily can reduce the symptoms associated with Benign Prostatic Hyperplasia (straining, urinary frequency, feeling like your bladder is still full etc.)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men 45 years of age or older with benign prostatic hyperplasia (BPH) also referred to as BPH-lower urinary tract symptoms (LUTS) on the disease diagnostic criteria at the start of study.\n* Provide signed informed consent at the start of the study.\n* Agree not to use any other ",
+      "endpoints": [
+        "Change From Baseline in Total International Prostate Symptom Score (IPSS) at 12 Weeks"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00970632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01183650",
+      "title": "A Study to Evaluate the Pharmacokinetics of Tadalafil Administered Once Daily in Japanese and Non-Japanese Subjects With Benign Prostatic Hyperplasia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2011-04",
+      "country": "Germany",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to investigate the pharmacokinetics of tadalafil in Japanese and non-Japanese men with Benign Prostatic Hyperplasia (BPH).\n\nThe safety of tadalafil will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have had lower urinary tract symptoms secondary to benign prostatic hyperplasia (BPH-LUTS) (as diagnosed by a qualified physician) \\>6 months at screening visit. Lower urinary tract symptoms (LUTS) include those associated with voiding (obstructive symptoms, such as incomplete",
+      "endpoints": [
+        "Pharmacokinetics: Area Under the Concentration Curve (AUC) for Tadalafil and Metabolite IC710",
+        "Pharmacokinetics: Concentration Maximum (Cmax) of Tadalafil and Metabolite IC710",
+        "Pharmacokinetics: Time to Concentration Maximum (Tmax) of Tadalafil and Metabolite IC710"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01183650"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04947631",
+      "title": "A Multi-center, Randomized, Double-blinded, Double-dummy, Parallel Group, 48-week, Phase III Clinical Trial to Evaluate the Efficacy and Safety of DKF-313 in Patients With Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-07-27",
+      "completion_date": "2023-06-12",
+      "country": "South Korea",
+      "enrollment": 667,
+      "brief_summary": "This is a multi-center, randomized, double-blinded, double-dummy, parallel group, 48-week study to evaluated the efficacy and safety of DKF-313 (dutasteride and tadalafil) in patients with benign prostatic hyperplasia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male aged 45 to 80 years\n* BPH diagnosis\n* Voluntarily signed the informed consent form\n* Willing to participate in the study\n* Total IPSS 13 or greater at baseline\n* Prostate volume 30 cc or greater by TRUS at baseline\n* Qmax 4 to 15 mL/s and minimum voided volume 125 mL or g",
+      "endpoints": [
+        "Change in Total International Prostate Symptom Score (IPSS) from baseline to Week 48"
+      ],
+      "sponsor": "Dongkook Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04947631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01942551",
+      "title": "Safety and Pharmacokinetic Interaction Study of Tadalafil and Dutasteride",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-09",
+      "completion_date": "2013-12",
+      "country": "South Korea",
+      "enrollment": 47,
+      "brief_summary": "This is an open-label, two-arm, one-sequence, cross-over study to evaluate the safety and pharmacokinetic interaction after oral concomitant administration of tadalafil and dutasteride in healthy male volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Age 20 to 29 years 2. Weight 60 kg or more, within 20% of Ideal body weight 3. No congenital or chronic diseases, no disease symptoms or findings 4. Eligible according to the laboratory results of hematology, blood chemistry and urinalysis 5. Voluntarily signed the informe",
+      "endpoints": [
+        "Area Under Curve (AUC) of tadalafil",
+        "Cmax of tadalafil",
+        "Area Under Curve (AUC) of dutasteride"
+      ],
+      "sponsor": "Dongkook Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01942551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06583590",
+      "title": "Evaluation of Efficacy of Botulinum Toxin A Plus Oral Tadalafil 5 mg in Diabetic Men With Erectile Dysfunction Not Responding to Approved Oral or Intracorporeal Vasoactive Treatments.",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-08-01",
+      "completion_date": "2025-12-01",
+      "country": "Egypt",
+      "enrollment": 32,
+      "brief_summary": "Study is aiming to evaluate safety, efficacy and durability of intracavernosal injection (ICI) of Botulinum toxin A plus oral tadalafil in controlled diabetic men with refractory Erectile Dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult controlled diabetic married men who proved to be vasculogenic ED by Penile Duplex.\n* Men who had shown an insufficient response for at least 3 months to the registered PDE5-Is at the highest approved dose, either on-demand or daily, or to PGE1 ICIs.\n* Severe erectile dys",
+      "endpoints": [
+        "Treatment."
+      ],
+      "sponsor": "Aswan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06583590"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00783094",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design Study to Evaluate the Efficacy and Safety of Tadalafil Once-a-Day Dosing for 12 Weeks Followed by an Open-Label Extension to Evaluate the Long-Term Safety and Efficacy of Tadalafil in Japanese Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2010-04",
+      "country": "Japan",
+      "enrollment": 422,
+      "brief_summary": "This study is a randomized, double-blind, placebo-controlled, parallel-design to compare the efficacy and safety of tadalafil once-a-day dosing versus placebo for 12 weeks followed by an open-label extension to evaluate the long-term safety and efficacy of tadalafil in Japanese men with signs and symptoms of benign prostatic hyperplasia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Japanese Males, 45 years old or older, with benign prostatic hyperplasia (BPH) for at least 6 months prior to Visit 1 and an International Prostate Symptom Score (IPSS) greater than or equal to 13 at Visit 2.\n* Agree not to use any other approved or experimental pharmacologic ",
+      "endpoints": [
+        "Change From Baseline in International Prostate Symptom Score (IPSS) Total Score at 12-Week Endpoint"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00783094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05494567",
+      "title": "Efficacy of Tadalafil and Solifenacin Versus Tamsulosin and Solifenacin Combination Therapy for the Treatment of Benign Prostatic Hyperplasia With Overactive Bladder: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-08",
+      "completion_date": "2022-08",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "The investigators will compare the efficacy and safety of tadalafil/solifenacin combination therapy versus tamsulosin/solifenacin combination therapy for the treatment of BPH/OAB in a randomized controlled trial (RCT).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ability to give informed consent and reply to questionnaires.\n2. Age ≥ 45 years\n3. IPSS ≥ 8\n4. OABSS ≥ 5, urgency subscore ≥2\n\nExclusion Criteria:\n\n1. Untreated urinary tract infection (UTI).\n2. Postvoid residual (PVR) more than 150 mL\n3. Neurogenic lower urinary tract dysfun",
+      "endpoints": [
+        "Change in international prostate symptom score (IPSS) from baseline",
+        "Change in overactive bladder symptom score (OABSS) from baseline",
+        "Change in IPSS-quality of life (QoL) score from baseline"
+      ],
+      "sponsor": "Mansoura University",
+      "url": "https://clinicaltrials.gov/study/NCT05494567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02252367",
+      "title": "Double-blind, Placebo-controlled Study on Men With Lower Urinary Tract Symptoms to Assess Changes in Pressure Flow Study and in Molecular Profile of Prostatic Tissue After 12 Weeks Treatment With Tadalafil.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-12",
+      "completion_date": "2020-06",
+      "country": "Italy",
+      "enrollment": 86,
+      "brief_summary": "At present time several preclinical and clinical study have demonstrated the safety and efficacy of PDE5 (phosphodiesterase type 5)-inhibitors for LUTS/BPH (lower urinary tract symptoms/benign prostatic hyperplasia) patients with or without erectile dysfunction. However, the link between clinical outcomes (symptoms scores), functional activity (urodynamic findings) and molecular pathways, in particular regarding inflammatory pattern (molecular analyses), has not been previously investigated.\n\nAi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult male subjects planned to undergo simple prostatectomy (TURP, Transurethral resection of the prostate, or open prostatectomy) for benign prostatic hyperplasia;\n* treatment with alpha-blockers (Tamsulosin 0.4 mg/die)\n* being capable of giving informed consent.\n\nExclusion C",
+      "endpoints": [
+        "Improvement of LUTS/BPH symptoms"
+      ],
+      "sponsor": "University of Florence",
+      "url": "https://clinicaltrials.gov/study/NCT02252367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00386009",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Multicenter Study to Evaluate the Urodynamic Effects of Tadalafil Once a Day for 12 Weeks in Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-05",
+      "country": "Greece, Portugal, United States",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to evaluate the function of the bladder and urethra during urinary storage or voiding in men with signs and symptoms of benign prostatic hyperplasia treated with either placebo or tadalafil.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men 40 years of age or older with Lower Urinary Tract Symptoms (LUTS) with a total International Prostate Symptom Score (IPSS) greater than or equal to 13 at Visit 1.\n* Agree not to use any other approved or experimental medications for Benign Prostate Hyperplasia (BPH)-Lower ",
+      "endpoints": [
+        "Change From Baseline to 12 Week Endpoint in Detrusor Pressure at Peak Urinary Flow Rate (PdetQmax)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00386009"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00855582",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel Design, Multinational Study to Evaluate the Efficacy and Safety of Tadalafil 2.5 and 5 mg Once Daily Dosing for 12 Weeks for the Treatment of Erectile Dysfunction and Signs and Symptoms of Benign Prostatic Hyperplasia in Men With Both Erectile Dysfunction and Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-07",
+      "country": "France, Mexico, Greece, Russia, Italy, Germany, Portugal, Canada, United States",
+      "enrollment": 606,
+      "brief_summary": "Study LVHR is a Phase 3 study which will examine the efficacy and safety of tadalafil 2.5 and 5 mg once daily versus placebo for the treatment of erectile dysfunction (ED) and signs and symptoms of benign prostatic hyperplasia (BPH) in men with both ED and signs and symptoms of BPH.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have BPH Lower Urinary Tract Symptoms (LUTS) based on the disease diagnostic criteria at 1st screening.\n* Have a history of ED based on the disease diagnostic criteria at 1st screening.\n* Have LUTS with a Total International Prostate Symptom Score (IPSS) greater than or equal ",
+      "endpoints": [
+        "Change From Baseline in Total International Prostate Symptom Score (IPSS) at Week 12 Endpoint (5 mg)",
+        "Change From Baseline in International Index of Erectile Function - Erectile Function (IIEF-EF) Domain Score at Week 12 Endpoint (5 mg)",
+        "Change From Baseline in Total International Prostate Symptom Score (IPSS) at Week 12 Endpoint (2.5 mg)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00855582"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01460342",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Study to Evaluate the Efficacy and Safety of Tadalafil Once-a-day Dosing for 12 Weeks in Asian Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2012-10",
+      "country": "Japan, South Korea",
+      "enrollment": 610,
+      "brief_summary": "This is a phase 3, randomized, double-blind, placebo-controlled, parallel-design, multinational study to evaluate the efficacy and safety of tadalafil once-a-day dosing for 12 weeks in Asian men with signs and symptoms of benign prostatic hyperplasia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Present with benign prostatic hyperplasia (BPH; also referred to as BPH-LUTS), based on the disease diagnostic criteria, at study entry.\n* Provide signed informed consent at study entry.\n* Have BPH-LUTS with a Total International Prostate Symptom Score (IPSS) of ≥13 at beginni",
+      "endpoints": [
+        "Change From Baseline in Total Score of International Prostate Symptom Score (IPSS) at 12 Weeks"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01460342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00861757",
+      "title": "A Phase 3, Randomized, Double Blind, Placebo and Tamsulosin Controlled, Parallel Design, Multinational Study to Evaluate the Efficacy and Safety of Tadalafil Once a Day Dosing for 12 Weeks in Asian Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-03",
+      "completion_date": "2010-06",
+      "country": "Japan, Taiwan",
+      "enrollment": 612,
+      "brief_summary": "This study is a randomized, double-blind, placebo and tamsulosin-controlled, parallel design, multinational study to evaluate the efficacy and safety of Tadalafil once-a-day dosing for 12 weeks in Asian men with signs and symptoms of benign prostatic hyperplasia (BPH).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Asian males, with benign prostatic hyperplasia (BPH) for at least 6 months prior to initiation and IPSS score greater than or equal to 13 at the beginning of the treatment\n* Agree not to use any other approved or experimental pharmacologic BPH, erectile dysfunction (ED) and ov",
+      "endpoints": [
+        "Change From Baseline in International Prostate Symptom Score (IPSS) at 12 Weeks"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00861757"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02839122",
+      "title": "A Study to Investigate the Pharmacokinetic Drug Interactions Between Dutasteride and Tadalafil in Healthy Male Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-05",
+      "completion_date": "2016-09-23",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "This is open-Label, A Randomized, Crossover study to evaluate the safety and pharmacokinetic interaction after oral concomitant administration of Dutasteride and Tadalafil in healthy male volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 19 to 45 years\n* BMI score 19 kg/m2 to 28 kg/m2\n* SBP \\< 140 mmHg and ≤ 90 mmHg or DBP \\< 90 mmHg and ≥ 50 mmHg\n* Eligible according to the laboratory results of hematology, blood chemistry and urinalysis\n* Voluntarily signed the informed consent form\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Area Under the Curve(AUC) of Dutasteride",
+        "Area Under the Curve(AUC) of Tadalafil, Dutasteride"
+      ],
+      "sponsor": "Yuyu Pharma, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02839122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01139762",
+      "title": "A Phase 3b, Randomized, Double-blind, Placebo-controlled Parallel-design Study to Evaluate the Efficacy and Safety of Tadalafil Co-administered With Finasteride for 6 Months in Men With Lower Urinary Tract Symptoms and Prostatic Enlargement Secondary to Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2012-05",
+      "country": "Brazil, France, Mexico, Turkey (Türkiye), Greece, Russia, Italy, Germany, Poland, Canada, Argentina, Belgium, United States",
+      "enrollment": 696,
+      "brief_summary": "The purpose of this study is to investigate the efficacy and safety of once daily tadalafil when taken with finasteride as a treatment for men with signs and symptoms of Benign Prostatic Hyperplasia and demonstrable prostate enlargement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have not taken the following treatments within the indicated duration and agree not to use at any time during the study:\n\n  * All other Benign Prostatic Hyperplasia (BPH) therapy (including herbal preparations) for at least 4 weeks prior to receiving study medication.\n  * Over",
+      "endpoints": [
+        "Change in Total International Prostate Symptom Score (IPSS) From Baseline to 12 Weeks"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01139762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04383093",
+      "title": "Prospective Observational Trial of Combination Therapy of Tadalafil 5mg Plus Tamsulosinmg for Men With Lower Urinary Tract Symptoms and Erectile Dysfunction",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-01-01",
+      "completion_date": "2018-01-01",
+      "country": "N/A",
+      "enrollment": 75,
+      "brief_summary": "Metabolic Syndrome (MetS) is a complex epidemic disorder with an impact on both lower urinary tract symptoms (LUTS) and erectile dysfunction (ED). Combination therapy of daily tadalafil and tamsulosin may provide relief to both diseases.\n\nAim of the present study is to assess the impact of combination therapy of Tadalafil 5mg plus Tamsulosin 0.4mg on LUTS and ED, according to presence vs. absence of Mets.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* mild to severe ED (International Index of Erectile Function-Erectile Function-5 \\<22)\n* moderate to severe LUTS (International Prostate Symptom Score \\>7)\n\nExclusion Criteria:\n\n* hypersensitivity to tadalaﬁl or tamsulosin\n* prostatic cancer or suspected with prostate-speciﬁc a",
+      "endpoints": [
+        "Lower Urinary Tract Symptoms",
+        "Lower Urinary Tract Symptoms - Storage",
+        "Erectile Dysfunction"
+      ],
+      "sponsor": "University of Florence",
+      "url": "https://clinicaltrials.gov/study/NCT04383093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02431754",
+      "title": "A Post-Marketing Clinical Study of LY450190 (Combined With Alpha1 Blocker Treatment)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2016-02",
+      "country": "Japan",
+      "enrollment": 171,
+      "brief_summary": "The main purpose of this study is to evaluate the safety and efficacy of the study drug known as tadalafil in participants with benign prostatic hyperplasia who are being treated with an alpha1 blocker. This study has two treatment periods. Participants will receive tadalafil or placebo in each treatment period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Present with benign prostatic hyperplasia (BPH; also referred to as BPH-LUTS), based on the disease diagnostic criteria, at study entry.\n* Have been treated with a stable dose of an alpha1 blocker (tamsulosin 0.2 mg once daily or silodosin 4 mg twice daily) for at least 8 week",
+      "endpoints": [
+        "Percentage of Participants Preferring Combination Therapy Over Alpha Blocker Alone on the Treatment Preference Questionnaire (TPQ)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT02431754"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02352311",
+      "title": "A Randomized, Open-label, Single-dose, 2-treatment, 2-way, 2-period Crossover Study to Evaluate the Safety and the Pharmacokinetic Characteristics of DKF-313 in Healthy Male Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2015-06",
+      "country": "South Korea",
+      "enrollment": 54,
+      "brief_summary": "This is a randomized, open-label, single-dose, 2-treatment, 2-way, 2-period crossover study to evaluate the safety and the pharmacokinetic characteristics of DKF-313 (dutasteride and tadalafil) in healthy male volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 19 to 29 years\n2. BMI 17.5 to 30.5 kg/m2 and body weight 55 kg or more\n3. No congenital or chronic diseases within 3 years, no disease symptoms or findings\n4. Eligible according to the laboratory results of hematology, blood chemistry and urinalysis and ECG\n5. Voluntarily",
+      "endpoints": [
+        "AUClast and Cmax of dutasteride and tadalafil"
+      ],
+      "sponsor": "Dongkook Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02352311"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02225548",
+      "title": "An Open-label Trial of Oral Selegiline 5 or 10 mg and Tadalafil 2.5mg Co-administration to Male Patients With Parkinson's Disease and Moderate Erectile Dysfunction.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2019-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to see if selegiline and tadalafil (generic for Cialis®) results in an improvement in Erectile dysfunction (ED) in male patients with Parkinson's disease (PD) and moderate ED. Male PD patients who have an incomplete response to tadalafil alone will be given both medications to see if the addition of selegiline improves ED symptoms more than tadalafil alone. It is common practice for a medical doctor to prescribe these two drugs to a patient like you. However, there h",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Diagnosis of idiopathic Parkinson's disease that is optimally treated (motor fluctuations \\<20% of subject's awake time). Subjects may be on levodopa therapy but must be stable at the time of entry into the study\n* Sexually active (i.e. ≥1 attempt/week) males, 40 - 64 years of ",
+      "endpoints": [
+        "Changes in International Index of Erectile Function-5 (IIEF-5) score between baseline (Week 8) to end-of-study (Week 16)."
+      ],
+      "sponsor": "University of South Florida",
+      "url": "https://clinicaltrials.gov/study/NCT02225548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01152190",
+      "title": "A Randomized, Double Blind, Placebo-controlled Study to Evaluate the Effect of Tadalafil Once Daily for 8 Weeks on Prostatic Blood Flow and Perfusion Parameters in Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2012-07",
+      "country": "Italy, Austria, United States",
+      "enrollment": 97,
+      "brief_summary": "The purpose of this trial is to evaluate the effect of tadalafil 5 milligrams (mg) daily for 8 weeks compared to placebo on prostatic blood perfusion in men with signs and symptoms of Benign Prostatic Hyperplasia (BPH), measured by resistive index (RI) in the prostate transition zone.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Present with benign prostatic hyperplasia\n* Provide signed informed consent at the screening\n* Agree not to use other treatment for Benign Prostatic Hyperplasia, Erectile Dysfunction or Overactive Bladder (including herbal treatments) during the study\n\nExclusion Criteria\n\n* Hav",
+      "endpoints": [
+        "Change From Baseline to 8-Week Endpoint in Arterial Resistive Index (RI) in the Prostate Transition Zone"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01152190"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06491108",
+      "title": "Vardenafil Versus Tadalafil Versus Tamsulosin in Patients With Lower Urinary Tract Symptoms Secondary to Benign Prostatic Hyperplasia: A Prospective Randomized Study.",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06-01",
+      "completion_date": "2025-07-01",
+      "country": "Egypt",
+      "enrollment": 150,
+      "brief_summary": "The main objective of this prospective randomized controlled study is to compare safety and efficacy of Vardenafil versus Tadalafil versus Tamsulosin in terms of (voiding function, sexual function and quality of life) in the management of moderate BPH related LUTS.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sexually active patients .\n2. ModerateBPH related LUTS ( bengin prostatic hyperplasia related lower urinary tract symtoms ) i.e: (international prostatic symptom score 8 to 19 : the higher score is the worse symptoms ).\n3. Patients accepted medical treatment and completed 12 ",
+      "endpoints": [
+        "International prostate symptom score (IPSS total score)",
+        "The maximum urinary flow rate (Q-max)"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT06491108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05236634",
+      "title": "Comparative Study Between Fixed Dose Monotherapy (Phosphodiesterase 5 Inhibitors or Alpha Blockers) Versus Combined Therapy in Benign Prostatic Hyperplasia Patients With Lower Urinary Tract Symptoms",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2022-05-01",
+      "completion_date": "2024-06-30",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "To compare between efficacy of phosphodiesterase5 inhibitors (tadalafil 5 mg) and Alpha Blockers (tamsulosin 0.4 mg) monotherapy vs combined therapy in treatment of lower urinary tract symptoms of benign prostatic hyperplasia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1 - Men \\> 45 years with LUTS/BPH for \\> 6 months 2- IPSS of ≥ 8 and Qmax of ≥ 4 to≤ 15 mL/s\n\nExclusion Criteria:\n\n1. PSA level of \\> 10.0 ng/mL (if ≥ 4.0 to≤ 10.0 ng/mL prostate cancer will be excluded).\n2. Post-voidresidual urine volume of ≥ 150 mL.\n3. Previous Urine Retention",
+      "endpoints": [
+        "Change in International prostate symptom score (IPSS) after 12 weeks",
+        "Change in International index of erectile function (IIEF) after 12 weeks",
+        "Change in Maximal urinary flow rate (Qmax) after 12 weeks"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT05236634"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02862483",
+      "title": "The Efficacy and Safety of the Combination of Tamsulosin and Tadalafil in Men With Lower Urinary Tract Symptoms Due to Benign Prostatic Hyperplasia and Erectile Dysfunction",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2016-03",
+      "completion_date": "2017-03",
+      "country": "South Korea",
+      "enrollment": 330,
+      "brief_summary": "The efficacy and safety of the combination of tamsulosin and tadalafil in men with lower urinary tract symptoms due to benign prostatic hyperplasia and Erectile Dysfunction: a randomized, double blinded, parallel design, active controlled, multi-center, phase 3 clinical trial",
+      "eligibility_criteria": "Inclusion Criteria:\n\nVisit1\n\n* Male aged 45 years old or older\n* Subjects who have PSA ≤ 4.0 ng/mL Visit2\n* Subjects who have Total IPSS score ≥ 13\n* Subjects who have IIEF-EF domain ≤ 24 and each point below 3 in question 3 and 4\n\nExclusion Criteria:\n\n* Subjects who have hypersensitivity to investi",
+      "endpoints": [
+        "The change of total IPSS(International prostate symptom score)",
+        "The change of IIEF-EF(International Index of Erectile Function sum of questions-Erectile function) domain"
+      ],
+      "sponsor": "IlDong Pharmaceutical Co Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT02862483"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03246880",
+      "title": "Clinical Trial To Evaluate the Efficacy and Safety of CKD-397 in Benign Prostatic Hyperplasia Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-09",
+      "completion_date": "2016-05",
+      "country": "South Korea",
+      "enrollment": 455,
+      "brief_summary": "A Multicenter, Randomized, Double-blind, Active-controlled, Parallel group, Phase III Clinical Trial To Evaluate the Efficacy and Safety of CKD-397 in Benign Prostatic Hyperplasia Patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\[Visit 1\\]\n\n1. Male Aged of 45 or above\n2. Patients must have a diagnosis of Benign Prostatic Hyperplasia\n3. IPSS(International Prostate Symptom Score) questionnaire total score ≥ 13\n4. Signed and dated informed consent document indicating that the patient\n\n\\[Visit 2\\]\n\n1. IPSS",
+      "endpoints": [
+        "The mean change of the total score on IPSS questionnaire(International Prostate Symptom Score )"
+      ],
+      "sponsor": "Chong Kun Dang Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT03246880"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00827242",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Multinational Study to Evaluate the Efficacy and Safety of Daily Tadalafil for 12 Weeks in Men With Signs and Symptoms of Benign Prostatic Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2009-11",
+      "country": "Mexico, Italy, Germany, Argentina, United States",
+      "enrollment": 325,
+      "brief_summary": "The purpose of this study is to determine whether an experimental drug known as tadalafil given once daily can reduce the symptoms associated with Benign Prostatic Hyperplasia (straining, urinary frequency, feeling like your bladder is still full, etc.)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men 45 years of age or older with Benign Prostatic Hyperplasia (BPH) also referred to as BPH-LUTS \\[lower urinary tract symptoms\\] based on the disease diagnostic criteria at the start of study.\n* Provide signed informed consent at the start of the study.\n* Have not taken Fina",
+      "endpoints": [
+        "Change From Baseline to 12 Weeks, International Prostate Symptom Score (IPSS)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00827242"
+    }
+  ],
+  "timestamp": "2026-03-04T15:47:09.815307",
+  "success": true,
+  "error_message": null
+}

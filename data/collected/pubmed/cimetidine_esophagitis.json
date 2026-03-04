@@ -1,0 +1,602 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cimetidine",
+    "disease": "esophagitis",
+    "query_string": "Cimetidine AND esophagitis"
+  },
+  "data": {
+    "query": "Cimetidine AND esophagitis",
+    "results": [
+      {
+        "pmid": "2210608",
+        "title": "Cisapride and cimetidine in the treatment of erosive esophagitis.",
+        "abstract": "The efficacy of cisapride, as compared with cimetidine, in the treatment of erosive esophagitis was studied in a double-blind trial. One hundred and twenty-nine patients were assigned to one of four dosage schedules: cisapride 10 mg b.i.d. (20 mg group) or q.i.d. (40 mg group), or cimetidine 400 mg b.i.d. (800 mg group) or q.i.d. (1600 mg group). Treatment lasted 8 to 12 weeks. The degree of esophagitis and the severity of diurnal and nocturnal heartburn and regurgitation were significantly (p less than 0.01) reduced in the four treatment groups. Endoscopy did not show any significant differences among the four groups, although cisapride tended to be more effective in moderate to severe esophagitis, in which cases mucosal healing (i.e. absence of erosions and ulcers) was observed in 69%, 64%, 55% and 55% of the patients treated with cisapride 40 mg, cisapride 20 mg, cimetidine 1600 mg and cimetidine 800 mg. Improvement in reflux symptoms in the two cisapride groups was not significantl",
+        "journal": "Hepato-gastroenterology",
+        "year": "1990",
+        "authors": [
+          "Maleev A",
+          "Mendizova A",
+          "Popov P",
+          "Vlahov V",
+          "Dimitrov B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Cisapride",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastrointestinal Motility",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2210608/"
+      },
+      {
+        "pmid": "3940501",
+        "title": "Treatment of severe reflux esophagitis with cimetidine and metoclopramide.",
+        "abstract": "Reflux esophagitis may be unresponsive to standard medical therapy with an H2-receptor antagonist drug. Twenty-five patients with chronic reflux esophagitis, refractory to cimetidine treatment alone, were randomly assigned in a double-blind design to receive cimetidine (1200 mg/d), in combination with metoclopramide (40 mg/d) or placebo. Nine of twelve patients receiving cimetidine with metoclopramide had significant symptomatic improvement at the end of the 8-week study period, compared with 3 of 12 patients receiving cimetidine with placebo (p less than 0.02). Endoscopic appearance improved in 9 patients receiving metoclopramide and in 4 patients receiving placebo (p less than 0.05). Neither group had significant improvement in lower esophageal sphincter pressure, 24-hour esophageal pH recordings, and esophageal histologic findings. Side effects were common with cimetidine and metoclopramide but were rarely disabling. This combination is efficacious in the management of chronic reflu",
+        "journal": "Annals of internal medicine",
+        "year": "1986",
+        "authors": [
+          "Lieberman D A",
+          "Keeffe E B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Biopsy",
+          "Cimetidine",
+          "Double-Blind Method",
+          "Drug Evaluation",
+          "Drug Therapy, Combination",
+          "Esophagitis, Peptic",
+          "Esophagogastric Junction",
+          "Esophagoscopy",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3940501/"
+      },
+      {
+        "pmid": "2874485",
+        "title": "Barrett's esophagus.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1986",
+        "authors": [
+          "Spechler S J",
+          "Goyal R K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Antacids",
+          "Barrett Esophagus",
+          "Bethanechol",
+          "Bethanechol Compounds",
+          "Cimetidine",
+          "Epithelium",
+          "Esophageal Diseases",
+          "Esophageal Neoplasms",
+          "Esophagus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2874485/"
+      },
+      {
+        "pmid": "8736619",
+        "title": "Ebrotidine.",
+        "abstract": "Ebrotidine is the first of a new generation of H2 receptor antagonists with gastroprotective activity It stimulates epithelial cell proliferative activity and produces beneficial physicochemical changes in the gastric mucus that contribute to its gastro-protective action against ethanol-, aspirin- or stress-induced gastric mucosal damage The antisecretory properties of ebrotidine are similar to those of ranitidine and approximately 10-fold greater than those of cimetidine This drug exhibits anti-Helicobacter pylori activity that is synergistic with a number of antibacterial agents; it inhibits the urease enzyme and the proteolytic and mucolytic activities of H. pylori, and counteracts the inhibitory effects of H. pylori lipo-polysaccharide Ebrotidine is as effective as ranitidine for the treatment of patients with gastric or duodenal ulcers or erosive reflux oesophagitis Ebrotidine therapy results in significantly better ulcer healing rates than ranitidine treatment in patients who smo",
+        "journal": "Drugs",
+        "year": "1996",
+        "authors": [
+          "Patel S S",
+          "Wilde M I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Benzenesulfonates",
+          "Duodenal Ulcer",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8736619/"
+      },
+      {
+        "pmid": "2660561",
+        "title": "Combination therapy of sucralfate and cimetidine, compared with sucralfate monotherapy, in patients with peptic reflux esophagitis.",
+        "abstract": "A double-blind multicenter, randomized study was performed in 70 patients with endoscopically documented reflex esophagitis. Patients were randomly given 1 g sucralfate four times a day or the combination of sucralfate 1 g three times a day and 400 mg cimetidine at night. After healing of the esophagitis, patients were randomly given either sucralfate maintenance 2 g daily or placebo for a period of six months. Endoscopy was performed at the beginning of the study, after eight weeks, and, in cases with no healing, after 16 weeks of therapy. Sixty-three of the 70 patients who initially entered the study could be evaluated after eight weeks. Both groups showed good symptomatic improvement, and no side effects necessitated withdrawal of subjects. Endoscopy showed complete healing in 19.4 percent of the sucralfate group and in 21.9 percent of the combination sucralfate and cimetidine group. Endoscopic improvement was found in 50 percent of the sucralfate group and in 50 percent of the comb",
+        "journal": "The American journal of medicine",
+        "year": "1989",
+        "authors": [
+          "Schotborgh R H",
+          "Hameeteman W",
+          "Dekker W",
+          "vd Boomgaard D M",
+          "Van Olffen G H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2660561/"
+      },
+      {
+        "pmid": "2331957",
+        "title": "Double-blind comparison of cisapride and cimetidine in treatment of reflux esophagitis.",
+        "abstract": "In a double-blind, randomized, comparative trial of the prokinetic drug cisapride and the H2-blocker cimetidine, mucosal healing and changes in symptoms of gastroesophageal reflux were evaluated in patients with erosive reflux esophagitis. The patients were treated with either cisapride, 10 mg four times a day (N = 36) or cimetidine, 400 mg four times a day (N = 37) for six weeks, or for 12 weeks if mucosal healing was not obtained by week 6. Upon entry, two thirds of the patients in each group had grade I (Savary-Miller) esophagitis, and the remainder grade II or III. At the end of treatment, endoscopy showed mucosal healing in 56% (38-72%; 95% confidence interval) of cisapride and 57% (39-73%; 95% confidence interval) of cimetidine patients. After six weeks, both drugs significantly (P less than 0.01) decreased the intensity and frequency of heartburn, regurgitation, and the postural syndrome. No significant intergroup differences were found regarding endoscopic parameters or the imp",
+        "journal": "Digestive diseases and sciences",
+        "year": "1990",
+        "authors": [
+          "Galmiche J P",
+          "Fraitag B",
+          "Filoche B",
+          "Evreux M",
+          "Vitaux J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cimetidine",
+          "Cisapride",
+          "Double-Blind Method",
+          "Drug Evaluation",
+          "Esophagitis",
+          "Esophagoscopy",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2331957/"
+      },
+      {
+        "pmid": "7067581",
+        "title": "When is esophagitis healed? esophageal endoscopy, histology and function before and after cimetidine treatment.",
+        "abstract": "In order to assess whether in reflux esophagitis morphological and functional disorders persist after macroscopic healing, cimetidine was given for 6-12 weeks at a dose of 1.6 g/day to 30 patients with acid gastroesophageal reflux and esophagitis. The mucosal defects healed in 6 patients, improved in 14 patients, and remained unchanged in 10 patients. Lower esophageal sphincter pressure, acid clearance, acid perfusion test, and histological signs of mucosal inflammation were assessed before and after treatment. The histological and functional findings did not improve after healing of the mucosal defects. Therefore, endoscopic normalization in patients with reflux esophagitis is not associated with the disappearance of inflammation and abnormal motor function. The persistence of these abnormalities might explain the tendency of esophagitis to recur after symptomatic and endoscopic \"healing.\"",
+        "journal": "Digestive diseases and sciences",
+        "year": "1982",
+        "authors": [
+          "Sonnenberg A",
+          "Lepsien G",
+          "Müller-Lissner S A",
+          "Koelz H R",
+          "Siewert J R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Esophagus",
+          "Female",
+          "Guanidines",
+          "Humans",
+          "Hydrogen-Ion Concentration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7067581/"
+      },
+      {
+        "pmid": "1882895",
+        "title": "Healing of erosive esophagitis with sucralfate and cimetidine: influence of pretreatment lower esophageal sphincter pressure and serum pepsinogen I levels.",
+        "abstract": "Forty-eight patients with erosive reflux esophagitis were allocated to either sucralfate tablets, 4 g/day, or cimetidine, 1.6 g/day, for 8 weeks in a randomized, prospective, single-blind, cross-over therapeutic trial. Pretreatment lower esophageal sphincter (LES) pressure and serum pepsinogen I (PG-I) levels were investigated as possible predictors of healing with either drug. The trial was completed by 41 patients (21 in the sucralfate group and 20 in the cimetidine group); one patient in each group was removed because of side effects. Symptom improvement occurred to a similar extent in both groups. Endoscopic results after 8 weeks of treatment with sucralfate revealed complete healing of esophageal erosions in 48% (cimetidine, 55%) and improvement in an additional 19% (cimetidine, 20%). Neither of these differences was statistically significant. Some patients refractory to one drug had endoscopic healing of esophagitis when treated with the other drug after crossover. LES pressure d",
+        "journal": "The American journal of medicine",
+        "year": "1991",
+        "authors": [
+          "Ros E",
+          "Toledo-Pimentel V",
+          "Bordas J M",
+          "Grande L",
+          "Lacima G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cimetidine",
+          "Endoscopy, Gastrointestinal",
+          "Epoprostenol",
+          "Esophagitis, Peptic",
+          "Fasting",
+          "Female",
+          "Gastrins",
+          "Gastrointestinal Motility",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1882895/"
+      },
+      {
+        "pmid": "6385868",
+        "title": "Antacids and cimetidine treatment for gastro-oesophageal reflux and peptic oesophagitis.",
+        "abstract": "Thirty three children aged 2 to 42 months (mean 9 months) with gastro-oesophageal reflux and peptic oesophagitis took part in a treatment trial comparing cimetidine (20 mg/kg/day) with an intensive regimen of antacids (Maalox, 700 mmol (mEq)/1 X 73 m2/day). All children were evaluated clinically and by radiology, acid reflux test, and endoscopy. After 12 weeks of treatment all were again evaluated clinically, by pH measurement, and endoscopy. Twenty nine children, 15 on antacid and 14 on cimetidine, completed the trial. Eight patients on antacid and seven on cimetidine were cured; five on antacid and six on cimetidine improved; and two patients on antacid and one on cimetidine underwent surgery. Both groups of children showed a statistically significant reduction in the score of clinical, pH, and endoscopic variables after treatment. Lower oesophageal sphincter pressure before treatment did not correlate significantly with the final total score. Antacids in large quantities are as effe",
+        "journal": "Archives of disease in childhood",
+        "year": "1984",
+        "authors": [
+          "Cucchiara S",
+          "Staiano A",
+          "Romaniello G",
+          "Capobianco S",
+          "Auricchio S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Child, Preschool",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6385868/"
+      },
+      {
+        "pmid": "6340227",
+        "title": "Barrett's esophagus.",
+        "abstract": "Barrett's esophagus remains an interesting but incompletely understood entity. Although most authors contend that it is of acquired origin, evidence is presented to substantiate either an acquired or a congenital origin. The possibility exists that Barrett's esophagus may be acquired in some instances and congenital in others. The most characteristic, albeit not exclusive, histologic features of Barrett's esophagus are defined by the presence of three types of columnar epithelium: an atrophic gastric fundic type of epithelium, a junctional type of epithelium and a specialized columnar epithelium. Reversion of columnar epithelium to squamous epithelium after successful antireflux operation demands further confirmation and study. Dysplastic, metaplastic and adenomatous changes in Barrett's esophagus do occur and must be observed carefully with endoscopy during the follow-up period. The possible relationship between these changes and malignant degeneration requires further study. Although",
+        "journal": "Surgery, gynecology & obstetrics",
+        "year": "1983",
+        "authors": [
+          "Berardi R S",
+          "Devaiah K A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Animals",
+          "Barrett Esophagus",
+          "Carcinoma, Squamous Cell",
+          "Child",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6340227/"
+      },
+      {
+        "pmid": "6751184",
+        "title": "Cimetidine. I. Developments, pharmacology, and efficacy.",
+        "abstract": "Cimetidine therapy has proved to be effective in healing most duodenal ulcers and in reducing the frequency of reulceration. It is unclear if low-dose maintenance therapy is superior to intermittent full-dose therapy in managing patients whose ulcers recur. Cimetidine is the preferred treatment for patients with the Zollinger-Ellison syndrome, and current evidence indicates efficacy in healing benign gastric ulcers. Some patients with reflux esophagitis improve with cimetidine treatment, but the drug cannot be regarded as first-time therapy. Largely circumstantial evidence suggests a role in preventing bleeding from acute gastric erosions and in preventing the acid aspiration syndrome. Cimetidine therapy has not been found to be useful in controlling acute upper gastrointestinal hemorrhage, acute pancreatitis, or several other conditions for which H2 blockade has been advocated.",
+        "journal": "Annals of internal medicine",
+        "year": "1982",
+        "authors": [
+          "Freston J W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chemical Phenomena",
+          "Chemistry",
+          "Cimetidine",
+          "Duodenal Ulcer",
+          "Esophagitis, Peptic",
+          "Gastric Acid",
+          "Gastrointestinal Hemorrhage",
+          "Guanidines",
+          "Humans",
+          "Pancreatitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6751184/"
+      },
+      {
+        "pmid": "6360495",
+        "title": "Current concepts in the pathogenesis and treatment of reflux esophagitis.",
+        "abstract": "The etiology, pathogenesis, diagnosis, and treatment of reflux esophagitis are reviewed. Reflux esophagitis is the subjective or objective response to gastroesophageal reflux (GER), which is defined as the entrance of gastroduodenal contents into the esophagus not associated with vomiting or belching. The pathogenesis of reflux esophagitis may involve a number of mechanisms, including changes in lower esophageal sphincter pressure, gastric volume, composition of the refluxate, esophageal acid clearance, and esophageal tissue resistance. The most common symptom of reflux esophagitis is heartburn. Regurgitation of fluid into the mouth, usually after bending or during the night, is an unequivocal symptom of GER. Treatment can be divided into three phases. Phase 1 involves the avoidance of certain foods and habits, elevation of the bed head, antacid, and alginic acid-antacid therapy. Phase 2 involves drug therapy with agents not yet approved by the FDA for this indication: bethanechol chlo",
+        "journal": "Clinical pharmacy",
+        "year": "1983",
+        "authors": [
+          "Frazier J L",
+          "Fendler K J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antacids",
+          "Esophagitis, Peptic",
+          "Esophagus",
+          "Humans",
+          "Metoclopramide",
+          "Pressure",
+          "Stomach"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6360495/"
+      },
+      {
+        "pmid": "6091353",
+        "title": "[Cimetidine and ranitidine in the treatment of reflux esophagitis].",
+        "abstract": "The efficacy of the two H2-receptor-antagonists cimetidine (2 X 400 mg/die) and ranitidine (2 X 150 mg/die) for reflux oesophagitis was compared. 128 patients with endoscopically proven reflux oesophagitis in stages I and II based on the criteria of Savary and Miller took part in the trial on an out patients basis. Both drugs healed the oesophagus lesions in 70% of the patients after 6 weeks treatment. After 12 weeks, 90% of stage I patients and 80-85% of stage II patients were completely healed with both H2-antagonists. No significant difference was seen between the two drugs either with respect to the healing of the lesions or to the symptomatic improvement.",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "1984",
+        "authors": [
+          "Kimmig J M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6091353/"
+      },
+      {
+        "pmid": "7000475",
+        "title": "Controlled trial of cimetidine in reflux esophagitis.",
+        "abstract": "In an eight-week double-blind trial, the effectiveness of cimetidine (1.6 g/day) was compared to placebo in 34 patients with symptomatic esophagitis confirmed by endoscopy with biopsies and/or by acid infusion test. Patients treated with cimetidine had significantly less symptomatic days during the first six weeks and less symptomatic nights during the first two weeks, and they consumed less antacids during the whole trial period. Endoscopic evaluation of 17 patients on cimetidine and of 15 patients on placebo did not show any significant difference in severity and extent of esophageal lesions after eight weeks, but histological assessment of 16 patients on cimetidine and 13 patients on placebo showed a significant improvement after eight weeks of cimetidine (P < 0.025). These results show that cimetidine has a rapid effect on symptoms of reflux esophagitis and that, in some cases, it may reduce the esophageal lesions after eight weeks.",
+        "journal": "Digestive diseases and sciences",
+        "year": "1980",
+        "authors": [
+          "Fiasse R",
+          "Hanin C",
+          "Lepot A",
+          "Descamps C",
+          "Lamy F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Antacids",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Drug Therapy, Combination",
+          "Esophagitis, Peptic",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7000475/"
+      },
+      {
+        "pmid": "3979238",
+        "title": "Comparison of cimetidine and ranitidine on 24-hour intragastric acidity and serum gastrin profile in patients with esophagitis.",
+        "abstract": "Twenty-four-hour intragastric pH and serum gastrin profiles were monitored in six male asymptomatic patients who previously were found to have esophagitis on endoscopy and biopsy. They received cimetidine 300 mg qid (C), ranitidine 150 mg bid (R), or placebo (P) for one week each, utilizing the Latin-square design. The mean BAO was 0.4 +/- 0.2 mmol/hr, and the pentagastrin-stimulated MAO was 21.2 +/- 3.2 mmol/hr. In the P-treated patients, the pH fluctuated between 1.8 and 3.5 and over 90% of the readings were less than pH 4. As compared to P, both C and R significantly suppressed H+ after breakfast, overnight, and over the 24-hr period. The mean pH after lunch was significantly higher in R than in P, but not in C. Over the 24-hr period, a higher percentage of the readings were above pH 4.0 in R as compared to C. During the night, 50% of the pH readings were above pH 4.0 in C and R, whereas in P 50% of the pH readings were less than pH 2.0. The integrated gastrin responses after each m",
+        "journal": "Digestive diseases and sciences",
+        "year": "1985",
+        "authors": [
+          "Mahachai V",
+          "Walker K",
+          "Thomson A B",
+          "Zuk L",
+          "Kirdeikis P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cimetidine",
+          "Double-Blind Method",
+          "Eating",
+          "Esophagitis",
+          "Gastric Acid",
+          "Gastric Acidity Determination",
+          "Gastrins",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3979238/"
+      },
+      {
+        "pmid": "2210463",
+        "title": "Comparison of omeprazole and cimetidine in reflux oesophagitis: symptomatic, endoscopic, and histological evaluations.",
+        "abstract": "Symptomatic patients with endoscopically verified reflux oesophagitis were randomised to a double blind trial in which they received either omeprazole (20 mg once daily) or cimetidine (400 mg four times daily) for four, and if necessary, eight weeks. In an 'intention to treat' analysis, oesophagitis was found to have healed after four weeks in 77 of 137 (56%) in the omeprazole group and in 34 of 133 (26%) in the cimetidine group (p less than 0.001). By eight weeks these values were 71% and 35% respectively; p less than 0.001. Histological assessments were available for 73% of the patients. At entry, 63% (66 of 104) in the omeprazole group and 60% (56 of 94) in the cimetidine group (ns) had abnormal histology. After the study, the proportions of patients who initially had had abnormal histology but who then progressed to normal were 67% (44 of 66: omeprazole) and 48% (27 of 56: cimetidine) respectively (p less than 0.001). All patients had reflux symptoms at entry. After four weeks, 46%",
+        "journal": "Gut",
+        "year": "1990",
+        "authors": [
+          "Bate C M",
+          "Keeling P W",
+          "O'Morain C",
+          "Wilkinson S P",
+          "Foster D N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Double-Blind Method",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Esophagus",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2210463/"
+      },
+      {
+        "pmid": "9506656",
+        "title": "Omeprazole in infants with cimetidine-resistant peptic esophagitis.",
+        "abstract": "Twelve neurologically normal infants (age 2.9+/-0.9 months) with peptic esophagitis (grade 2) who did not respond to cimetidine (in addition to positioning, cisapride, and Gaviscon) were treated with omeprazole, 0.5 mg/kg once a day, for 6 weeks. The effectiveness of omeprazole was evaluated in all infants by clinical assessment and endoscopy before and after treatment and by 24-hour gastric pH monitoring during treatment in seven infants. Omeprazole therapy led to a marked decrease in symptoms, endoscopic and histologic signs of esophagitis, and intragastric acidity.",
+        "journal": "The Journal of pediatrics",
+        "year": "1998",
+        "authors": [
+          "Alliët P",
+          "Raes M",
+          "Bruneel E",
+          "Gillis P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Cimetidine",
+          "Esophagitis, Peptic",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Infant",
+          "Omeprazole",
+          "Treatment Failure",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9506656/"
+      },
+      {
+        "pmid": "9001831",
+        "title": "Ranitidine versus cimetidine in the healing of erosive esophagitis.",
+        "abstract": "Ranitidine 150 mg twice daily (BID) is an approved therapeutic approach for relieving the symptoms of gastroesophageal reflux disease. Ranitidine 150 mg four times daily (QID) and cimetidine 800 mg BID are indicated for endoscopically diagnosed erosive esophagitis. This 12-week, randomized, multicenter trial involving 696 patients compared ranitidine 150 mg BID and ranitidine 150 mg QID with cimetidine 800 mg BID in healing erosive esophagitis. Healing rates, as determined by endoscopy, at 4, 8, and 12 weeks were comparable with ranitidine 150 mg BID (38%, 56%, and 71%, respectively) and cimetidine 800 mg BID (37%, 52%, and 68%, respectively), as were reductions in heartburn frequency and antacid consumption. However, ranitidine 150 mg QID produced significantly higher healing rates (49%, 67%, and 77%, respectively) and greater reductions in heartburn frequency and antacid consumption than cimetidine 800 mg BID. All treatment regimens were well tolerated. Thus ranitidine 150 mg BID is ",
+        "journal": "Clinical therapeutics",
+        "year": "1996",
+        "authors": [
+          "McCarty-Dawson D",
+          "Sue S O",
+          "Morrill B",
+          "Murdock R H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Antacids",
+          "Cimetidine",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Esophagitis, Peptic",
+          "Esophagoscopy",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9001831/"
+      },
+      {
+        "pmid": "342231",
+        "title": "Cimetidine: a review of its pharmacological properties and therapeutic efficacy in peptic ulcer disease.",
+        "abstract": "Cimetidine is a specific competitive histamine H2-receptor antagonist which effectively inhibits gastric acid secretion and is advocated for the treatment of chronic peptic ulceration, haemorrhage from erosive gastritis, and the control of gastric hypersecretion and peptic ulceration in the Zollinger-Ellison syndrome. Placebo-controlled trials in outpatients have demonstrated its efficacy in promoting the healing of endoscopically diagnosed duodenal ulceration, during a period of 4 to 6 weeks, but its role in the treatment of gastric ulcer is less clear. Preliminary evidence suggests that maintenance therapy with cimetidine reduces the rate of recurrence of duodenal ulcer, but further studies are required to clarify its role in this situation and in the treatment of oesophagitis and acute gastrointestinal haemorrhage. Cimetidine controls the peptic ulceration of Zollinger-Ellison syndrome in most patients when given continuously for up to 2 years. Side-effects have generally been trivi",
+        "journal": "Drugs",
+        "year": "1978",
+        "authors": [
+          "Brogden R N",
+          "Heel R C",
+          "Speight T M",
+          "Avery G S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Cimetidine",
+          "Duodenal Ulcer",
+          "Gastric Juice",
+          "Gastrins",
+          "Gastrointestinal Hemorrhage",
+          "Guanidines",
+          "Humans",
+          "Intrinsic Factor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/342231/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:54:01.080205",
+  "success": true,
+  "error_message": null
+}

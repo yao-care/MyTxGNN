@@ -1,0 +1,610 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Famotidine",
+    "disease": "gastric ulcer",
+    "query_string": "Famotidine AND gastric ulcer"
+  },
+  "data": {
+    "query": "Famotidine AND gastric ulcer",
+    "results": [
+      {
+        "pmid": "7594320",
+        "title": "Gastric ulcer healing and basic fibroblast growth factor: effects of lansoprazole and famotidine.",
+        "abstract": "We examined the effects of lansoprazole and famotidine on gastric basic fibroblast growth factor (bFGF) levels and ulcer healing in patients with gastric ulcer. Sixteen patients with active gastric ulcer were divided into two groups and received treatment with lansoprazole 30 mg/day or famotidine 40 mg/day. They were examined endoscopically at 2, 4, and 8 weeks to measure gastric bFGF levels at the ulcer margin and to assess ulcer healing. Helicobacter pylori infection was determined by a rapid urease test. The two groups were comparable with regard to age, male:female ratio, H. pylori infection rates, and bFGF levels. During treatment, bFGF levels did not change significantly in the famotidine group, whereas they increased by a factor of 2.2 to 2.6 in the lansoprazole group. Cumulative healing rates were also significantly lower in the famotidine group than in the lansoprazole group. These results indicate that lansoprazole increases tissue bFGF levels and promotes gastric ulcer heali",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "1995",
+        "authors": [
+          "Tsuji S",
+          "Kawano S",
+          "Higashi T",
+          "Mukuda T",
+          "Imaizumi T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Anti-Ulcer Agents",
+          "Famotidine",
+          "Female",
+          "Fibroblast Growth Factor 2",
+          "Helicobacter Infections",
+          "Helicobacter pylori",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Lansoprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7594320/"
+      },
+      {
+        "pmid": "7594335",
+        "title": "Comparison of lansoprazole and famotidine for gastric ulcer by endoscopic ultrasonography: a preliminary trial.",
+        "abstract": "To compare the efficacy of lansoprazole and famotidine in the treatment of gastric ulcer, 24 patients with gastric ulcer were treated for 8 weeks. They were assessed by endoscopic ultrasonography (EUS), which provides cross-sectional images of the gastric wall as well as endoscopic images. Patients were randomly assigned to receive either lansoprazole 30 mg once daily (n = 12), or famotidine 20 mg twice daily (n = 12). The healing rate after 4 weeks of treatment was 80% in the lansoprazole group and 40% in the famotidine group. After 8 weeks of treatment, the respective healing rates were 100 and 72.7%. Healing to Sakita's S2 stage of scarring occurred significantly more often in the lansoprazole group than in the famotidine group after 4 weeks (50% vs. 0%; p < 0.05). After 4 weeks of treatment, the submucosal fibrous tissues detected by EUS were significantly less extensive in the lansoprazole-treated patients with deep ulcers (reaching the muscle layer or serosa) than in the famotidi",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "1995",
+        "authors": [
+          "Okai T",
+          "Sawabu N",
+          "Songür Y",
+          "Motoo Y",
+          "Watanabe H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Ulcer Agents",
+          "Famotidine",
+          "Female",
+          "Gastroscopy",
+          "Histamine H2 Antagonists",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7594335/"
+      },
+      {
+        "pmid": "3310200",
+        "title": "Famotidine: proven once-a-day treatment for gastric ulcer.",
+        "abstract": "An 8-week, double-blind, randomized, placebo-controlled, multinational (n = 14), multicenter (n = 44) trial was conducted to determine whether famotidine speeds healing and relief of symptoms in patients with benign gastric ulcer. Of the 336 patients who entered the trial, 167 received 40 mg of famotidine in the evening, and 169 received placebo. At 4, 6, and 8 weeks after entry, ulcers had healed in a significantly (P less than 0.01) higher percentage of famotidine-treated patients than in those treated with placebo (47%, 65%, 80% versus 31%, 46%, 54%, respectively). Famotidine was also superior to placebo in relieving ulcer symptoms; the proportion of patients receiving additional antacid therapy was significantly lower in the famotidine group. The findings show that the new H2-receptor antagonist famotidine, administered as a single evening dose, significantly speeds the healing of benign gastric ulcers and that it is a safe and highly effective treatment of gastric ulceration. The ",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1987",
+        "authors": [
+          "Dammann H G",
+          "Walter T A",
+          "Hentschel E",
+          "Muller P",
+          "Simon B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Ulcer Agents",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Famotidine",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3310200/"
+      },
+      {
+        "pmid": "8674804",
+        "title": "Comparison of roxatidine and famotidine on nocturnal gastric juice secretion.",
+        "abstract": "Adult patients with symptoms of gastric disease were randomly assigned to two treatment groups (roxatidine group, n = 115; famotidine group, n = 113) or untreated control group (placebo, n = 111). The treatment groups randomly received 75 mg of roxatidine or 20 mg of famotidine at 9 pm, and 12 - 13 h later gastric juice secretion was measured with gastric X-ray films in both groups. Mean gastric juice secretion was significantly lower in the treated groups (roxatidine, 16.1 ml/12 h; famotidine, 19.9 ml/12 h) than in the untreated controls (placebo, 49.5 ml/12 h). Gastric juice suppression by roxatidine and by famotidine, respectively, was 82% and 37% in patients with gastric ulcer; 71% and 39% in patients with duodenal ulcer; 70% and 64% in patients with gastritis; and 68% and 86% in patients with no evidence of disease. It is concluded that roxatidine was more effective than famotidine for gastric juice suppression in patients with peptic ulcer. In patients with no evidence of gastric",
+        "journal": "The Journal of international medical research",
+        "year": "1996",
+        "authors": [
+          "Tanioka H",
+          "Kaga K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Ulcer Agents",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Gastric Juice",
+          "Gastritis",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8674804/"
+      },
+      {
+        "pmid": "23251441",
+        "title": "Bidirectional crosstalk between stress-induced gastric ulcer and depression under chronic stress.",
+        "abstract": "Stress contributes to a variety of diseases and disorders such as depression and peptic ulcer. The present study aimed to investigate the correlation between stress ulcer and depression in pathogenesis and treatment by using chronic stress depression (CSD), chronic psychological stress ulcer (CPSU) and water immersion restrain stress models in rats. Our data showed that the ulcer index of the animals after CSD exposure was significantly higher than that of controls. Depression-like behaviors were observed in rat after CPSU exposure. Fluoxetine hydrochloride significantly reduced the ulcer index of rats exposed to CPSU stress, while ranitidine inhibited depression-like behavior of the animals in CSD group. The ulcer index of rats administered with mifepristone after CPSU stress was markedly reduced compared to CPSU group, although there was no significant difference in the depression-like behavior between mifepristone-treated CSD group and naive controls. We also found that the rats exp",
+        "journal": "PloS one",
+        "year": "2012",
+        "authors": [
+          "Zhang Shuang",
+          "Xu Zhiwei",
+          "Gao Yan",
+          "Wu Yonghong",
+          "Li Zhihui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Corticosterone",
+          "Depression",
+          "Fluoxetine",
+          "Male",
+          "Mifepristone",
+          "Ranitidine",
+          "Rats",
+          "Rats, Sprague-Dawley"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23251441/"
+      },
+      {
+        "pmid": "16437673",
+        "title": "Synergistic action of famotidine and chlorpheniramine on acetic acid-induced chronic gastric ulcer in rats.",
+        "abstract": "To assess the synergistic action of famotidine (FMD) and chlorpheniramine (CPA) on acetic acid-induced chronic gastric ulcer in rats.",
+        "journal": "World journal of gastroenterology",
+        "year": "2005",
+        "authors": [
+          "Qin Zhen",
+          "Chen Chao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "6-Ketoprostaglandin F1 alpha",
+          "Acetic Acid",
+          "Animals",
+          "Chlorpheniramine",
+          "Chronic Disease",
+          "Drug Synergism",
+          "Famotidine",
+          "Histamine H1 Antagonists",
+          "Histamine H2 Antagonists",
+          "Interleukin-8"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16437673/"
+      },
+      {
+        "pmid": "3905468",
+        "title": "Famotidine: nocturnal administration for gastric ulcer healing. Results of multicenter trials in Austria and Germany.",
+        "abstract": "We conducted an 8-week, double-blind, randomized, placebo-controlled multicenter trial (Austria and Germany) to determine whether famotidine would speed healing or relief of symptoms in patients with benign gastric ulcer. Of the 65 patients who completed the trial, 32 received famotidine 40 mg once at night, and 33 received placebo. At 4, 6, and 8 weeks after entry, ulcers had healed in a larger percentage of patients treated with famotidine than in those treated with placebo (German multicenter trial: 65 vs. 46%, 95 vs. 71%, and 95 vs. 79%; Austrian multicenter trial: 42 vs. 44%, 67 vs. 44%, and 92 vs. 44%). In the famotidine group, healing had occurred significantly more often after 6 weeks (p less than 0.05). Famotidine was not superior to placebo in relieving ulcer symptoms. The findings suggest that famotidine in a single evening dose significantly hastens the healing of benign gastric ulcers.",
+        "journal": "Digestion",
+        "year": "1985",
+        "authors": [
+          "Dammann H G",
+          "Walter T A",
+          "Hentschel E",
+          "Müller P",
+          "Simon B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Endoscopy",
+          "Famotidine",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3905468/"
+      },
+      {
+        "pmid": "2875864",
+        "title": "Famotidine. Pharmacodynamic and pharmacokinetic properties and a preliminary review of its therapeutic use in peptic ulcer disease and Zollinger-Ellison syndrome.",
+        "abstract": "Famotidine is a new histamine H2-receptor antagonist. On a weight basis, famotidine is 20 times more potent than cimetidine and 7.5 times more potent than ranitidine in inhibiting basal and pentagastrin-stimulated gastric acid secretion in humans. Therapeutic trials have shown that famotidine 20 mg twice daily or 40 mg at bedtime may be an effective alternative to standard doses of cimetidine for healing gastric ulcers and to standard doses of cimetidine and ranitidine for healing duodenal ulcers. When used prophylactically, a single 20 mg dose of famotidine at night decreases the incidence of duodenal ulcer recurrence (versus placebo). However, further study is needed to clarify the comparative efficacy of the H2-receptor antagonists, in particular as maintenance therapy for healed peptic ulcer. Preliminary results in a few patients with Zollinger-Ellison syndrome indicate that famotidine, alone or in combination with an anticholinergic agent, gives good control of gastric acid hypera",
+        "journal": "Drugs",
+        "year": "1986",
+        "authors": [
+          "Campoli-Richards D M",
+          "Clissold S P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Kinetics",
+          "Peptic Ulcer",
+          "Thiazoles",
+          "Zollinger-Ellison Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2875864/"
+      },
+      {
+        "pmid": "2866137",
+        "title": "Famotidine in the treatment of gastric and duodenal ulceration: overview of clinical experience.",
+        "abstract": "The new H2 receptor antagonist, famotidine, has been tested in open and double-blind studies in over 2,000 acute duodenal or gastric ulcer patients as well as in the maintenance of chronic duodenal ulcer patients. In early studies, dosages of 20 mg b.i.d. were found to achieve better results than 10 mg b.i.d. and equivalent to 20 mg t.i.d. Trials comparing famotidine to cimetidine, ranitidine, and gefarnate found the new agent to be approximately equivalent to cimetidine and ranitidine and superior to gefarnate in the treatment of acute duodenal ulcer. Similar trials were conducted to compare different types of therapy in acute gastric ulcer. Famotidine 40 mg at bedtime was significantly more effective than placebo, and a 20 mg b.i.d. dosage once again proved at least as active as cimetidine 200 mg q.i.d. and considerably more effective than gefarnate. Furthermore, famotidine 20 mg at bedtime was found to effectively prevent relapses for at least 6 months. The side effect profile was e",
+        "journal": "Digestion",
+        "year": "1985",
+        "authors": [
+          "Bianchi Porro G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Chronic Disease",
+          "Cimetidine",
+          "Circadian Rhythm",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Endoscopy",
+          "Famotidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2866137/"
+      },
+      {
+        "pmid": "38447874",
+        "title": "Molecular docking, characterization, ADME/toxicity prediction, and anti-ulcer activity of new quercetin derivatives on indomethacin-induced gastric ulcer in mice.",
+        "abstract": "Gastric ulcer (GU) is a serious upper gastrointestinal tract disorder that affects people worldwide. The drugs now available for GU treatment have a high rate of relapses and drug interactions, as well as mild to severe side effects. As a result, new natural therapeutic medications for treating GU with fewer negative side effects are desperately needed. Because of quercetin's (QCT) diverse pharmacological effects and unique structural features, we decided to semi-synthesize new QCT derivatives and test them for antiulcer activity. Docking assays were performed on the synthesized compounds to determine their affinity for TLR-4/MD-2, MyD88/TIR, and NF-κB domains, an important inflammatory pathway involved in GU development and progression. Mice were given oral famotidine (40 mg/kg/day), QCT, QCT pentamethyl (QPM), or QCT pentaacetyl (QPA) (50 mg/kg/day) for 5 days before GU induction by a single intraperitoneal injection of indomethacin (INDO; 18 mg/kg). QPM and QPA have a stronger bindi",
+        "journal": "Toxicology and applied pharmacology",
+        "year": "2024",
+        "authors": [
+          "Salem Maha B",
+          "Saleh Abdulrahman M",
+          "Seif El-Din Sayed H",
+          "Samir Safia",
+          "Hammam Olfat A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Mice",
+          "Animals",
+          "Indomethacin",
+          "Stomach Ulcer",
+          "Quercetin",
+          "Molecular Docking Simulation",
+          "Ulcer",
+          "NF-kappa B",
+          "Myeloid Differentiation Factor 88"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38447874/"
+      },
+      {
+        "pmid": "8618582",
+        "title": "Famotidine for the prevention of gastric and duodenal ulcers caused by nonsteroidal antiinflammatory drugs.",
+        "abstract": "Acid suppression with famotidine, a histamine H2-receptor antagonist, provides protection against gastric injury in normal subjects receiving short courses of aspirin or naproxen. The efficacy of famotidine in preventing peptic ulcers in patients receiving long-term therapy with nonsteroidal antiinflammatory drugs (NSAIDs) is not known.",
+        "journal": "The New England journal of medicine",
+        "year": "1996",
+        "authors": [
+          "Taha A S",
+          "Hudson N",
+          "Hawkey C J",
+          "Swannell A J",
+          "Trye P N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8618582/"
+      },
+      {
+        "pmid": "11943947",
+        "title": "Effects of omeprazole and famotidine on fibroblast growth factor-2 during artificial gastric ulcer healing in humans.",
+        "abstract": "Endoscopic mucosal resection is a widely accepted technique for the treatment of early gastric cancers, while large ulcers induced by the treatment should be treated promptly. This study aimed to compare the effects of omeprazole and famotidine on ulcer healing and fibroblast growth factor-2 levels in gastric ulcers induced by endoscopic mucosal resection.",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "2002",
+        "authors": [
+          "Esaki Motohiro",
+          "Aoyagi Kunihiko",
+          "Matsumoto Takayuki",
+          "Kuwano Yasuyuki",
+          "Shimizu Michio"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Ulcer Agents",
+          "Endoscopy",
+          "Famotidine",
+          "Female",
+          "Fibroblast Growth Factor 2",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11943947/"
+      },
+      {
+        "pmid": "2866135",
+        "title": "Famotidine (MK-208) in the treatment of gastric ulcer. Results of a multicenter double-blind controlled study.",
+        "abstract": "The aim of the present investigation was to study the efficacy and safety of famotidine (MK-208), a new, potent, histamine H2 receptor antagonist, in promoting the healing of active gastric ulcer when compared to placebo. Of the 71 patients who took part in this multicenter double-blind study in Italy, 37 were administered famotidine 40 mg once daily and 34 placebo. Treatment duration was for up to 8 weeks, and endoscopic and clinical studies were performed at onset and week 4 and, if necessary, at weeks 6 and 8. All patients were carefully evaluated at regular intervals for adverse drug reactions by clinical and laboratory examinations. By the end of the study, 97% of the ulcers were healed in the famotidine group compared to 66% in the placebo group (p less than 0.01). Day and night pain decreased significantly more in the famotidine group than in the placebo group. Both treatments were well tolerated, and no alterations in laboratory tests were observed. Famotidine, therefore, prove",
+        "journal": "Digestion",
+        "year": "1985",
+        "authors": [
+          "Paoluzi P",
+          "Torsoli A",
+          "Bianchi Porro G",
+          "Lazzaroni M",
+          "Barbara L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antacids",
+          "Circadian Rhythm",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Endoscopy",
+          "Famotidine",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2866135/"
+      },
+      {
+        "pmid": "23881568",
+        "title": "Fixed-dose ibuprofen/famotidine: a review of its use to reduce the risk of gastric and duodenal ulcers in patients requiring NSAID therapy.",
+        "abstract": "A fixed-dose combination of the nonsteroidal anti-inflammatory drug (NSAID) ibuprofen and the histamine H(2) receptor antagonist famotidine (ibuprofen/famotidine; DUEXIS(®)) is now available for the symptomatic treatment of arthritic symptoms and to reduce the risk of upper gastrointestinal (GI) ulcers in patients who require ibuprofen therapy. The gastroprotective efficacy of oral ibuprofen/famotidine 800/26.6 mg three times daily in patients requiring NSAID therapy for inflammatory conditions and/or pain was evaluated in two 24-week, well-designed trials (REDUCE-1 and -2). According to the post-adjudication analysis of these studies, ibuprofen/famotidine significantly reduced the life table estimated rate of gastric ulcers (primary endpoint of REDUCE-1) but not upper GI ulcers (i.e. gastric or duodenal ulcers) [primary endpoint of REDUCE-2] compared with ibuprofen alone. When life table estimated rates of secondary endpoints were assessed, significantly fewer recipients of the fixed-",
+        "journal": "Clinical drug investigation",
+        "year": "2013",
+        "authors": [
+          "Deeks Emma D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Ibuprofen",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23881568/"
+      },
+      {
+        "pmid": "2877573",
+        "title": "Efficacy and safety of famotidine in the management of benign gastric ulcers.",
+        "abstract": "The worldwide experience with famotidine in the management of benign gastric ulcers is reviewed. Analysis of data from 15 countries has shown that famotidine is more effective than placebo in treating gastric ulcers. Relief of pain is achieved earlier in famotidine-treated patients. Complete endoscopic healing may be expected in 64 to 80 percent of patients within eight weeks following the initiation of therapy. Response to famotidine does not appear to be affected by age, sex, smoking, regular alcohol consumption, or duration of disease. Short-term oral famotidine, at a dose of 40 mg daily, is well tolerated, and there have been no serious adverse experiences attributed to its administration. The efficacy of famotidine is comparable to that of other histamine (H2)-receptor antagonists.",
+        "journal": "The American journal of medicine",
+        "year": "1986",
+        "authors": [
+          "Lyon D T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Clinical Trials as Topic",
+          "Famotidine",
+          "Female",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Stomach Ulcer",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2877573/"
+      },
+      {
+        "pmid": "1824143",
+        "title": "[Treatment of gastric ulcer with sucralfate and famotidine].",
+        "abstract": "We conducted a double blind random study on 79 patients with gastric ulcer: 39 received sucralfate, 1 g 4 times a day (Group 1) and 40 received a single evening dose of famotidine, 40 mg (Group 2). At 4 weeks, endoscopy revealed healing of the ulcer in 46% of patients in Group 1 and 40% in Group 2 (NS). At 8 weeks, corresponding figures were 90% and 75% (NS). All patients were able to complete treatment and minor side effects were reported from all patients, 36% with sucralfate and 28% with famotidine. Thus, sucralfate and famotidine are equally effective for therapy of gastric ulcer. The higher percentage of healing with sucralfate observed in this study was not statistically significant.",
+        "journal": "Revista medica de Chile",
+        "year": "1991",
+        "authors": [
+          "Hoffenberg P",
+          "Reyes V",
+          "Palma J",
+          "Ossa P",
+          "Maggiolo P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Famotidine",
+          "Female",
+          "Gastric Acid",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1824143/"
+      },
+      {
+        "pmid": "2573505",
+        "title": "Famotidine. An updated review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in peptic ulcer disease and other allied diseases.",
+        "abstract": "Famotidine is a highly selective histamine H2-receptor antagonist. In healthy volunteers and patients with acid hypersecretory disease it is approximately 20 to 50 times more potent at inhibiting gastric acid secretion than cimetidine and 8 times more potent than ranitidine on a weight basis. As shown in placebo-controlled trials, famotidine is effective in healing both duodenal and gastric ulcers. Famotidine 20mg twice daily or 40mg at bedtime achieves healing rates and symptom relief similar or superior to those achieved by cimetidine 800mg daily or ranitidine 300mg daily in patients with peptic ulcer disease. Results of 1 placebo-controlled study suggest that famotidine prevents recurrence of duodenal ulcer, but comparative trials are needed to establish its relative efficacy in maintenance therapy. The few non-comparative trials conducted to date also suggest that famotidine 10 to 20mg twice daily may be effective in the treatment of gastritis and reflux gastro-oesophagitis. In com",
+        "journal": "Drugs",
+        "year": "1989",
+        "authors": [
+          "Langtry H D",
+          "Grant S M",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2573505/"
+      },
+      {
+        "pmid": "2896559",
+        "title": "Comparison of famotidine with cimetidine and ranitidine.",
+        "abstract": "The pharmacodynamic, therapeutic, and toxicologic properties of famotidine are evaluated and compared with those of cimetidine and ranitidine. Famotidine, an H2-receptor antagonist with a thiazole nucleus, is approximately 7.5 times more potent than ranitidine and 20 times more potent than cimetidine on an equimolar basis. Therapeutic trials indicate that famotidine 20 mg b.i.d. or 40 mg at bedtime is as effective as standard doses of cimetidine and ranitidine for healing duodenal ulcers. A dose of 40 mg at bedtime appears to heal benign gastric ulcers. A single nocturnal dose of 20 mg is effective in preventing duodenal ulcer relapse. Further studies are required that compare the efficacy of famotidine with cimetidine and ranitidine in the treatment of gastric ulcers and in the prevention of recurrent duodenal ulcers. The overall incidence of adverse effects observed with famotidine appears to be similar to that reported for cimetidine and ranitidine. Like ranitidine, famotidine does ",
+        "journal": "Clinical pharmacy",
+        "year": "1988",
+        "authors": [
+          "Berardi R R",
+          "Tankanow R M",
+          "Nostrant T T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Ranitidine",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2896559/"
+      },
+      {
+        "pmid": "8851452",
+        "title": "The tolerability and safety profile of famotidine.",
+        "abstract": "Famotidine is a specific, long-acting histamine2-receptor antagonist. It is indicated for the treatment of duodenal ulcer, gastric ulcer, gastroesophageal reflux disease, and Zollinger-Ellison syndrome. Since its introduction for the treatment of acid-related disorders in 1985, an estimated 18.8 million patients worldwide have been treated with famotidine. We present a comprehensive safety profile of oral famotidine, incorporating data from investigational trials, postmarketing studies, and reports of marketed use. The excellent tolerability profile of famotidine observed during investigational trials has remained substantially unchanged during postmarketing experience. Famotidine does not notably bind to cytochrome P-450 or gastric alcohol dehydrogenase and therefore has not been associated with clinically significant drug interactions. It is generally well tolerated in patients with cardiovascular, renal, or hepatic dysfunction or with Zollinger-Ellison syndrome who have tolerated do",
+        "journal": "Clinical therapeutics",
+        "year": "1996",
+        "authors": [
+          "Howden C W",
+          "Tytgat G N"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Clinical Trials as Topic",
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Product Surveillance, Postmarketing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8851452/"
+      },
+      {
+        "pmid": "2518859",
+        "title": "Comparison of 40 mg famotidine nightly and 150 mg ranitidine b.d.: ulcer healing and symptom relief in benign gastric ulcer.",
+        "abstract": "Two hundred and eight patients with benign gastric ulcers seen on endoscopy were recruited by 13 hospitals in the United Kingdom and Ireland into this double-blind study. Patients were assigned by pre-randomized schedule to 8 weeks of treatment with either 40 mg famotidine at night or 150 mg ranitidine b.d. Repeat endoscopy confirmed complete ulcer healing in 62 of 77 evaluable patients in the famotidine group (81%) and 58 of 71 in the ranitidine group (82%). The treatments were equally effective in promptly relieving day and night pain. Adverse events were uncommon; dizziness and headaches were the most frequently reported in both groups. In conclusion, night-time famotidine is as effective as twice daily ranitidine in healing benign gastric ulcers and provides similarly rapid symptomatic relief.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1989",
+        "authors": [
+          "Cochran K M",
+          "Cockel R",
+          "Crowe J",
+          "Dickinson R J",
+          "Gent A E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Double-Blind Method",
+          "Famotidine",
+          "Female",
+          "Gastroscopy",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2518859/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:38:53.687004",
+  "success": true,
+  "error_message": null
+}

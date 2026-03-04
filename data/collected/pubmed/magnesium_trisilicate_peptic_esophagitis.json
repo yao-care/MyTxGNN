@@ -1,0 +1,435 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "peptic esophagitis",
+    "query_string": "Magnesium Trisilicate AND peptic esophagitis"
+  },
+  "data": {
+    "query": "Magnesium Trisilicate AND peptic esophagitis",
+    "results": [
+      {
+        "pmid": "2986275",
+        "title": "Sucralfate and alginate/antacid in reflux esophagitis.",
+        "abstract": "The efficacy of sucralfate and of an alginate/antacid compound was compared in a randomized, double-blind 6-week trial in patients with symptomatic, endoscopically confirmed macroscopic reflux esophagitis. Of the 68 patients who completed the study, 36 received sucralfate and 32 alginate/antacid. Significant symptomatic improvement occurred in both treatment groups: almost 70% of the patients became symptom-free or improved. Esophagitis healed completely in 53% of the patients receiving sucralfate and in 34% of the alginate/antacid patients, as measured with endoscopic criteria (p greater than 0.05). Our results indicate that sucralfate seems to be at least as effective as alginate/antacid in relieving symptoms and in healing macroscopic lesions. As a safe, locally active mucosal protecting agent, sucralfate is a promising new drug for the treatment of reflux esophagitis and deserves further trials over longer periods.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "1985",
+        "authors": [
+          "Laitinen S",
+          "Ståhlberg M",
+          "Kairaluoma M I",
+          "Kiviniemi H",
+          "Pääkkönen M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2986275/"
+      },
+      {
+        "pmid": "32592251",
+        "title": "Editorial: simultaneous prolonged monitoring of the acid pocket and oesophageal reflux.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Katz Philip O",
+          "Castell Donald O"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592251/"
+      },
+      {
+        "pmid": "32592257",
+        "title": "Editorial: simultaneous, prolonged monitoring of the acid pocket and oesophageal reflux. Authors' reply.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Ma Zheng Feei",
+          "Deraman Mohd Adli",
+          "Coyle Cathal",
+          "Lee Yeong Yeh"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592257/"
+      },
+      {
+        "pmid": "2821808",
+        "title": "Sucralfate versus alginate/antacid in the treatment of peptic esophagitis.",
+        "abstract": "Fifty patients in whom endoscopy revealed peptic esophagitis were included in a double-blind study in which either sucralfate (1 g four times a day) or an alginate/antacid compound (5 g four times a day) were randomly assigned. After six weeks of treatment, efficacy and clinical safety were evaluated in 23 patients in the sucralfate group and 22 patients in the alginate/antacid group. No significant difference between the two treatments was detected with regard to efficacy, evaluated on the basis of clinical and endoscopic criteria. Clinical safety was also good in both groups. Sucralfate was, therefore, found to be as effective and as well tolerated as the alginate/antacid compound in the treatment of peptic esophagitis.",
+        "journal": "The American journal of medicine",
+        "year": "1987",
+        "authors": [
+          "Evreux M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Endoscopy",
+          "Esophagitis, Peptic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2821808/"
+      },
+      {
+        "pmid": "6091079",
+        "title": "Comparative study of four antacids.",
+        "abstract": "Four antacid preparations have been studied in a stratified, randomized, double-blind trial to evaluate criteria which determine patients' acceptance of this type of therapy. There was a considerable range of judgements about palatability, but preference was determined not only by factors such as the smell, taste, texture and after-taste of the preparation, but also by the order in which the antacids were tested and by the age and sex of the patient. The preparations also differed considerably in acid-neutralizing capacity and ability to bind bile salts, as well as cost. We conclude that individuals requiring antacid therapy should be allowed to chose from among a range of preparations, in order to maximize compliance.",
+        "journal": "Postgraduate medical journal",
+        "year": "1984",
+        "authors": [
+          "Jacyna M R",
+          "Boyd E J",
+          "Wormsley K G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Compounds",
+          "Aluminum Hydroxide",
+          "Aluminum Silicates",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Dimethylpolysiloxanes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6091079/"
+      },
+      {
+        "pmid": "23329718",
+        "title": "Gaviscon: not always entirely safe!",
+        "abstract": "",
+        "journal": "BMJ case reports",
+        "year": "2013",
+        "authors": [
+          "Shenvi Asha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bezoars",
+          "Diagnosis, Differential",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23329718/"
+      },
+      {
+        "pmid": "2877526",
+        "title": "[Therapeutic procedures in gastroesophageal reflux disease].",
+        "abstract": "The medical therapy of reflux esophagitis consists of modifications of the patients's lifestyle and antacids, alginic acid or both (phase I). Phase II medications include drugs that suppress acid/peptic activity (antacid/alginate, H2-receptor blockers, cimetidine, ranitidine, famotidine), drugs that enhance motility (metoclopramide, domperidone) and drugs that coat and increase mucosal protection (sucralfate). Combinations of H2-receptor blockers and motility stimulating drugs have not been very effective. Overall the results of medical therapy of reflux esophagitis are suboptimal.",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "1986",
+        "authors": [
+          "Tytgat G N"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Combined Modality Therapy",
+          "Dilatation",
+          "Domperidone",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2877526/"
+      },
+      {
+        "pmid": "23227500",
+        "title": "[Alginates in the treatment of postgastroresection reflux esophagitis].",
+        "abstract": "To evaluate the efficacy of alginates in the treatment of postgastroresection reflux esophagitis.",
+        "journal": "Terapevticheskii arkhiv",
+        "year": "2012",
+        "authors": [
+          "Ianova O B",
+          "Kim V A",
+          "Treĭman E V"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Drug Combinations",
+          "Endoscopy, Digestive System",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastrectomy",
+          "Gastroenterostomy",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23227500/"
+      },
+      {
+        "pmid": "2213800",
+        "title": "Comparison of a dimethicone/antacid (Asilone gel) with an alginate/antacid (Gaviscon liquid) in the management of reflux oesophagitis.",
+        "abstract": "Fifty-three patients with symptomatic reflux oesophagitis were entered into a single centre randomized study comparing the effects of a dimethicone/antacid (Asilone Gel) and an alginate/antacid (Gaviscon liquid) on symptoms and endoscopic changes over an 8-week period. Both treatments significantly improved heartburn, acid regurgitation and flatulence. Dimethicone/antacid but not alginate/antacid, produced a significant improvement in oesophagitis, oesophageal ulceration and histological grade of inflammation over the 8-week treatment period so that 14 patients treated with dimethicone/antacid and 10 with alginate/antacid had normal endoscopic oesophageal appearances at the end of the study. The difference in improvement between the two patient groups did not reach significance however, except for dimethicone/antacid improving histological changes (P less than 0.05). These findings suggest that dimethicone/antacid and alginate/antacid are equally effective in treating symptomatic reflu",
+        "journal": "Journal of the Royal Society of Medicine",
+        "year": "1990",
+        "authors": [
+          "Smart H L",
+          "Atkinson M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Dimethylpolysiloxanes",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Esophagus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2213800/"
+      },
+      {
+        "pmid": "9692701",
+        "title": "Patterns of food and acid reflux in patients with low-grade oesophagitis--the role of an anti-reflux agent.",
+        "abstract": "Food and acid have been shown to be refluxed independently of each other in healthy volunteers, and anti-reflux agents decrease the reflux of both parameters. Until now this phenomenon had not been studied in patients with low-grade oesophagitis, who are the group most likely to use anti-reflux medication.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1998",
+        "authors": [
+          "Washington N",
+          "Steele R J",
+          "Jackson S J",
+          "Washington C",
+          "Bush D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Eating",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9692701/"
+      },
+      {
+        "pmid": "9536937",
+        "title": "Eradicating Helicobacter pylori reduces hypergastrinaemia during long-term omeprazole treatment.",
+        "abstract": "Both proton pump inhibitor drug treatment and Helicobacter pylori infection cause hypergastrinaemia in man.",
+        "journal": "Gut",
+        "year": "1998",
+        "authors": [
+          "el-Nujumi A",
+          "Williams C",
+          "Ardill J E",
+          "Oien K",
+          "McColl K E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Amoxicillin",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Esophagitis",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9536937/"
+      },
+      {
+        "pmid": "6354663",
+        "title": "[Treatment of reflux esophagitis with sucralfat].",
+        "abstract": "In a multi-centre placebo-controlled double-blind study, the therapeutic effectiveness of sucralfate (aluminium sucrose sulphate, four times 1 g daily) was tested on 66 out-patients with endoscopically confirmed reflux oesophagitis. After 12 weeks of treatment complete healing occurred in 72% of the sucralfate group, and in a further 14% there was improvement. In the placebo group the healing rate was 40%, with improvement in a further 20%. Serious side-effects did not occur. Sucralfate treatment was especially effective in patients with signs of high-grade inflammation (stage III of Savary and Miller) unsuccessfully treated with other drugs. Contrary to previously available drugs, sucralfate is effective also in lesions caused by alkaline reflux and is thus a useful addition to the hitherto unsatisfactory means of treatment.",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "1983",
+        "authors": [
+          "Weiss W",
+          "Brunner H",
+          "Büttner G R",
+          "Gabor M",
+          "Miederer S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Constipation",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6354663/"
+      },
+      {
+        "pmid": "6959253",
+        "title": "Oesophagitis and the role of antacid therapy.",
+        "abstract": "",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1982",
+        "authors": [
+          "Rhodes J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Carbenoxolone",
+          "Cimetidine",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Humans",
+          "Metoclopramide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6959253/"
+      },
+      {
+        "pmid": "3804672",
+        "title": "Serial dilatation of peptic strictures of the oesophagus: a planned approach.",
+        "abstract": "",
+        "journal": "Irish journal of medical science",
+        "year": "1986",
+        "authors": [
+          "Leahy A L",
+          "Gorey T F",
+          "McMullin J P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Bicarbonates",
+          "Cimetidine",
+          "Dilatation",
+          "Drug Combinations",
+          "Esophageal Stenosis",
+          "Esophagitis, Peptic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3804672/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:55:29.006064",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Desloratadine",
+    "disease": "papillary conjunctivitis",
+    "query_string": "Desloratadine AND papillary conjunctivitis"
+  },
+  "data": {
+    "query": "Desloratadine AND papillary conjunctivitis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:03:12.205807",
+  "success": true,
+  "error_message": null
+}

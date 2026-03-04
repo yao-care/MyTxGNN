@@ -1,0 +1,344 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fenofibrate",
+    "disease": "hypoalphalipoproteinemia",
+    "query_string": "Fenofibrate AND hypoalphalipoproteinemia"
+  },
+  "data": {
+    "query": "Fenofibrate AND hypoalphalipoproteinemia",
+    "results": [
+      {
+        "pmid": "26667175",
+        "title": "Targeted Proteomics Identifies Paraoxonase/Arylesterase 1 (PON1) and Apolipoprotein Cs as Potential Risk Factors for Hypoalphalipoproteinemia in Diabetic Subjects Treated with Fenofibrate and Rosiglitazone.",
+        "abstract": "Low levels of high-density lipoprotein cholesterol (HDL-C) and high triglyceride levels contribute to the excess rate of cardiovascular events seen in subjects with type 2 diabetes. Fenofibrate treatment partially reverses dyslipidemia in these subjects. However, a paradoxical marked reduction in HDL-C and HDL's major protein, apolipoprotein A-I, is a complication of fenofibrate in combination with rosiglitazone, an insulin-sensitizing agent. Risk factors for this condition, termed hypoalphalipoproteinemia, have yet to be identified. Using a case-control study design with subjects enrolled in the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial, we tested the hypothesis that alterations in HDL's protein cargo predispose diabetic subjects to fenofibrate/rosiglitazone-induced hypoalphalipoproteinemia. HDL was isolated from blood obtained from controls (no decreases or increase in HDL-C while receiving fenofibrate/rosiglitazone therapy) and cases (developed hypoalphalipopr",
+        "journal": "Molecular & cellular proteomics : MCP",
+        "year": "2016",
+        "authors": [
+          "Ronsein Graziella E",
+          "Reyes-Soffer Gissette",
+          "He Yi",
+          "Oda Michael",
+          "Ginsberg Henry"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Apolipoprotein C-II",
+          "Aryldialkylphosphatase",
+          "Cardiovascular Diseases",
+          "Case-Control Studies",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fenofibrate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26667175/"
+      },
+      {
+        "pmid": "24362356",
+        "title": "Reverse cholesterol transport fluxes.",
+        "abstract": "Reverse cholesterol transport (RCT) is considered a significant component of the atheroprotective effects of HDL. Methods for quantifying flux through the RCT pathway have not been available until recently. There is a need to improve our understanding of HDL function, including the role of RCT in general and individual steps of RCT in particular, on atherosclerosis. This review highlights new information about cholesterol flux through the RCT pathway.",
+        "journal": "Current opinion in lipidology",
+        "year": "2014",
+        "authors": [
+          "Hellerstein Marc",
+          "Turner Scott"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Azetidines",
+          "Biological Transport",
+          "Cholesterol",
+          "Ezetimibe",
+          "Fenofibrate",
+          "Humans",
+          "Hypoalphalipoproteinemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24362356/"
+      },
+      {
+        "pmid": "21107758",
+        "title": "What combination therapy with a statin, if any, would you recommend?",
+        "abstract": "The latest recommended goals for blood lipid levels may require multiple lipid drugs. Lower doses in combination may render more efficacy and safety than highest doses of single agents. Except for isolated hypoalphalipoproteinemia (a low level of high-density lipoprotein cholesterol), therapies will start with a statin. All marketed statins are acceptable. The choice may be based on dose- efficacy and patient's tolerability. High-potency statins (eg, atorvastatin, simvastatin, or rosuvastatin) are often chosen. Currently, generic statins, such as simvastatin, lovastatin, pravastatin, and fluvastatin, offer cost benefits. The choice of added agent depends on the \"residual lipoprotein abnormalities\" after statin therapy, efficacy, compliance issues, and cost. Approved \"combined\" preparations improve cost and compliance. To further lower low-density lipoprotein cholesterol, ezetimibe is a safe, efficacious choice, pending resolution of a controversial trial's results. Colesevelam is moder",
+        "journal": "Current atherosclerosis reports",
+        "year": "2011",
+        "authors": [
+          "Dujovne Carlos A",
+          "Williams Craig D",
+          "Ito Matthew K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cholesterol, LDL",
+          "Controlled Clinical Trials as Topic",
+          "Coronary Artery Disease",
+          "Drug Costs",
+          "Drug Monitoring",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Drugs, Generic",
+          "Dyslipidemias",
+          "Fatty Acids, Omega-3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21107758/"
+      },
+      {
+        "pmid": "23557750",
+        "title": "Enhanced lipid peroxidation and platelet activation as potential contributors to increased cardiovascular risk in the low-HDL phenotype.",
+        "abstract": "Low high-density lipoprotein (HDL) levels are major predictors of cardiovascular (CV) events, even in patients on statin treatment with low-density lipoprotein (LDL) at target. In animal models HDLs protect LDL from oxidation and blunt platelet activation. Our study aimed to examine whether HDL levels are related to in vivo oxidative stress and platelet activation, as determinants of atherothrombosis.",
+        "journal": "Journal of the American Heart Association",
+        "year": "2013",
+        "authors": [
+          "Vazzana Natale",
+          "Ganci Antonina",
+          "Cefalù Angelo Baldassare",
+          "Lattanzio Stefano",
+          "Noto Davide"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Arachidonic Acids",
+          "Case-Control Studies",
+          "Cholesterol, HDL",
+          "Coronary Disease",
+          "Cross-Sectional Studies",
+          "Dinoprost",
+          "Exercise",
+          "Exercise Therapy",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23557750/"
+      },
+      {
+        "pmid": "30201532",
+        "title": "Paradoxical fall in proteinuria during pregnancy in an LCAT-deficient patient-A case report.",
+        "abstract": "A 29-year-old lady was diagnosed with lecithin:cholesterol acyltransferase (LCAT) deficiency having presented with bilateral corneal clouding, severely reduced high density lipoproteins cholesterol, and proteinuria. She is a compound heterozygote with two LCAT gene mutations, one of which is novel, c.321C>A in exon 3. Surprisingly, the level of proteinuria significantly improved during pregnancy, despite stopping the angiotensin-converting enzyme inhibitor. However, LCAT concentration and activity remained identical during pregnancy and postpartum. Her pregnancy was complicated by rising triglyceride levels from the second trimester requiring treatment with omega-3 fatty acid and fenofibrate. In the last trimester, a further complication arose when she became hypertensive and proteinuria worsened. She was diagnosed with pre-eclampsia and had an emergency cesarean section at 39 weeks delivering a healthy baby. This case adds to the knowledge of the pathophysiology of LCAT deficiency dur",
+        "journal": "Journal of clinical lipidology",
+        "year": "2018",
+        "authors": [
+          "Hanna Elinor V",
+          "Simonelli Sara",
+          "Chamney Sarah",
+          "Ossoli Alice",
+          "Mullan Robert N"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Lecithin Cholesterol Acyltransferase Deficiency",
+          "Pregnancy",
+          "Pregnancy Complications",
+          "Proteinuria",
+          "Triglycerides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30201532/"
+      },
+      {
+        "pmid": "10349128",
+        "title": "[Partial lecithin-cholesterol acyltransferase (LCAT) deficiency syndrome].",
+        "abstract": "This syndrome is a pathological entity of low incidence which mainly affects high density lipoprotein (HDL) metabolism. We here show the first case reported in our country, observed in a 63-year-old woman who showed bilateral corneal opacity and eruptive xanthomas in both arms. The lipoprotein profile disclosed severe hypertriglyceridemia and normocholesterolemia, although the percentage of cholesteryl esters was low. Plasma levels of HDL-cholesterol and HDL major apolipoproteins, A-I and A-II, were markedly decreased. The patient also showed glucose intolerance and hematological alterations related to abnormal lipid composition of erythrocyte membranes. As evaluated by the exogen substrate method, LCAT activity proved to be 82% lower in the patient than in a control subject. It is noteworthy that the patient had experienced cardiac events and presented hypertension, neither of which has been commonly documented in partial LCAT deficiency syndromes.",
+        "journal": "Medicina",
+        "year": "1999",
+        "authors": [
+          "Brites F D",
+          "Fernández K M",
+          "Zunino M J",
+          "Yael M J",
+          "Lardo M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cholesterol, HDL",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Lecithin Cholesterol Acyltransferase Deficiency",
+          "Middle Aged",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10349128/"
+      },
+      {
+        "pmid": "23415437",
+        "title": "HDL deficiency due to a new insertion mutation (ApoA-INashua) and review of the literature.",
+        "abstract": "A 61-year-old white man of European ancestry with significant coronary heart disease since age 42 years and marked high-density lipoprotein (HDL) deficiency (HDL cholesterol 1 mg/dL) was evaluated. His fasting low-density lipoprotein cholesterol level was 42 mg/dL, and his triglycerides were 417 mg/dL on therapy with rosuvastatin 40 mg/day, ezetimibe 10 mg/day, fenofibrate 145 mg/day, and extended-release niacin 2 g/day. Further analysis of his plasma revealed an apolipoprotein (apo) A-I level of 23.5 mg/dL (approximately 20% of normal), and the absence of small alpha-4 HDL, medium alpha-3 HDL, and very large alpha-1 HDL, with only very small pre-beta-1 HDL and large alpha-2 HDL being present. APOA-I gene sequencing revealed a novel heterozygous in-frame insertion mutation with duplication of nucleotides 1535 through 1552 inserted at position 1553, causing a new amino acid glycine at codon 157 and a duplication of amino acids alanine, arginine, alanine, histidine, and leucine at codons",
+        "journal": "Journal of clinical lipidology",
+        "year": "2013",
+        "authors": [
+          "Lee Esther Y",
+          "Klementowicz Peter T",
+          "Hegele Robert A",
+          "Asztalos Bela F",
+          "Schaefer Ernst J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Apolipoprotein A-I",
+          "DNA Mutational Analysis",
+          "Electrophoresis, Gel, Two-Dimensional",
+          "Heterozygote",
+          "Humans",
+          "Hypoalphalipoproteinemias",
+          "Immunoblotting",
+          "Lipoproteins, HDL",
+          "Lipoproteins, LDL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23415437/"
+      },
+      {
+        "pmid": "19230892",
+        "title": "Changes in lipoprotein profile and urinary albumin excretion in familial LCAT deficiency with lipid lowering therapy.",
+        "abstract": "Familial lecithin:cholesterol acyltransferase deficiency (FLD) is a monogenic autosomal recessive condition, affecting cholesterol esterification and leads to progressive renal impairment and end-stage renal failure, probably due to the abnormal lipoprotein (X) (Lp(X)). We report a case of FLD, whom we treated with a combination of nicotinic acid 1.5g nocte and fenofibrate M/R 160mg od and report changes in lipid profile and Lp(X), after six weeks and serum creatinine and urine albumin/creatinine ratio after 12 months. We assessed the cardiovascular risk using electron beam computed tomography. At baseline total cholesterol was 6.61mmol/L; HDL cholesterol 0.57mmol/L; Lp(X) cholesterol 3.24mmol/L; triglyceride 4.13mmol/L; apolipoprotein A1 46mg/dL; and apolipoprotein B 53mg/dL. After six weeks of treatment his total cholesterol was 4.16; HDL cholesterol 0.52; Lp(X) cholesterol 1.73mmol/L; triglyceride 1.80mmol/L; apolipoprotein A1 36mg/dL; and apolipoprotein B 50mg/dL. Baseline serum cr",
+        "journal": "Atherosclerosis",
+        "year": "2009",
+        "authors": [
+          "Yee Michael S",
+          "Pavitt Darrell V",
+          "Richmond William",
+          "Cook H Terence",
+          "McLean Adam G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Albumins",
+          "Calcium",
+          "Cholesterol",
+          "Coronary Vessels",
+          "Fenofibrate",
+          "Humans",
+          "Hypolipidemic Agents",
+          "Lecithin Cholesterol Acyltransferase Deficiency",
+          "Lipoprotein-X"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19230892/"
+      },
+      {
+        "pmid": "23023895",
+        "title": "Beyond low-density lipoprotein cholesterol: why, who and when.",
+        "abstract": "Cardiovascular disease due to atherosclerosis is a leading cause of death around the world, including Singapore. Current treatment strategies primarily target low-density lipoprotein (LDL) cholesterol levels. Low levels of high-density lipoprotein (HDL) cholesterol and high triglyceride (TG) levels have been shown to increase the risk of coronary heart disease, but the clinical benefits of raising low HDL cholesterol have only been proven in a limited number of studies. This guide provides an approach on managing low HDL cholesterol levels in terms of lifestyle modifications and pharmacotherapy.",
+        "journal": "Singapore medical journal",
+        "year": "2012",
+        "authors": [
+          "Chang Christopher Ngai Kin",
+          "How Choon How",
+          "Tavintharan Subramaniam"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Coronary Disease",
+          "Drug Therapy, Combination",
+          "Exercise",
+          "Fenofibrate",
+          "Humans",
+          "Hypertriglyceridemia",
+          "Hypoalphalipoproteinemias",
+          "Hypolipidemic Agents",
+          "Life Style",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23023895/"
+      },
+      {
+        "pmid": "7567762",
+        "title": "Iatrogenic profound hypoalphalipoproteinaemia: an unrecognised cause of very low HDL cholesterol.",
+        "abstract": "A significant reduction in plasma high density lipoprotein (HDL) cholesterol is a recognised consequence of treatment with probucol. By contrast, fibrate therapy in general has the opposite effect. We report two cases where the combination of probucol and a fibrate led to profoundly reduced plasma levels of HDL cholesterol associated with very low levels of apolipoprotein A-I (apoA-I). In the first, bezafibrate was added to probucol, and in the second, probucol added to a combination of simvastatin and fenofibrate. In both cases, plasma levels of HDL and apoA-I returned towards normal after discontinuation of one or both drugs, indicating that the reduction was reversible.",
+        "journal": "Postgraduate medical journal",
+        "year": "1995",
+        "authors": [
+          "Murphy M J",
+          "Duncan A",
+          "Vallance B D",
+          "Packard C J",
+          "O'Reilly D S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticholesteremic Agents",
+          "Bezafibrate",
+          "Cholesterol, HDL",
+          "Drug Interactions",
+          "Female",
+          "Fenofibrate",
+          "Humans",
+          "Hypolipoproteinemias",
+          "Lovastatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7567762/"
+      },
+      {
+        "pmid": "11050827",
+        "title": "[Evolution of a patient with a partial deficiency of lecithin:cholesterol acyltransferase].",
+        "abstract": "",
+        "journal": "Medicina",
+        "year": "2000",
+        "authors": [
+          "Brites F D",
+          "Fernández K M",
+          "Yael M J",
+          "Wikinski R L"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Fenofibrate",
+          "Follow-Up Studies",
+          "Humans",
+          "Hypolipidemic Agents",
+          "Lecithin Cholesterol Acyltransferase Deficiency",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11050827/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:39:40.860059",
+  "success": true,
+  "error_message": null
+}

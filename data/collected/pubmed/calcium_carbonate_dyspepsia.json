@@ -1,0 +1,563 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "dyspepsia",
+    "query_string": "Calcium Carbonate AND dyspepsia"
+  },
+  "data": {
+    "query": "Calcium Carbonate AND dyspepsia",
+    "results": [
+      {
+        "pmid": "12924641",
+        "title": "Increased reflux symptoms after calcium carbonate supplementation and successful anti-Helicobacter pylori treatment.",
+        "abstract": "We used data from a randomized placebo-controlled clinical trial to examine the relationship between Helicobacter pylori and reflux symptoms in nonulcer dyspepsia patients randomly assigned anti-Helicobacter pylori triple therapy alone, calcium carbonate alone, or in combination with triple therapy, tetracycline, or placebo. We compared risk differences for posttreatment Helicobacter pylori status and increased reflux symptoms from crude, multivariable and stratified multivariable analyses. In crude analyses, 54% of subjects without Helicobacter pylori after-treatment reported an increase in reflux compared to 41% of those with persistent infection (risk difference = 13%; P = 0.07). Only subjects with multifocal atrophic gastritis assigned to calcium carbonate reported an increase in reflux symptoms more frequently when Helicobacter pylori was absent versus when it persisted (risk difference = 52%; P = 0.0001). Therefore, the interaction of calcium carbonate use, chronic multifocal atr",
+        "journal": "Digestive diseases and sciences",
+        "year": "2003",
+        "authors": [
+          "Fischbach Lori A",
+          "Correa Pelayo",
+          "Feldman Mark",
+          "Fontham Elizabeth",
+          "Priest Elisa"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Evaluation Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Amoxicillin",
+          "Antacids",
+          "Bismuth",
+          "Calcium Carbonate",
+          "Drug Therapy, Combination",
+          "Dyspepsia",
+          "Female",
+          "Gastric Acidity Determination",
+          "Gastritis, Atrophic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12924641/"
+      },
+      {
+        "pmid": "23543983",
+        "title": "The calcium-alkali syndrome.",
+        "abstract": "The milk-alkali syndrome was a common cause of hypercalcemia, metabolic alkalosis, and renal failure in the early 20th century. It was caused by the ingestion of large quantities of milk and absorbable alkali to treat peptic ulcer disease. The syndrome virtually vanished after introduction of histamine-2 blockers and proton pump inhibitors. More recently, a similar condition called the calcium-alkali syndrome has emerged as a common cause of hypercalcemia and alkalosis. It is usually caused by the ingestion of large amounts of calcium carbonate salts to prevent or treat osteoporosis and dyspepsia. We describe a 78-year-old woman who presented with weakness, malaise, and confusion. She was found to have hypercalcemia, acute renal failure, and metabolic alkalosis. Upon further questioning, she reported use of large amounts of calcium carbonate tablets to treat recent heartburn symptoms. Calcium supplements were discontinued, and she was treated with intravenous normal saline. After 5 day",
+        "journal": "Proceedings (Baylor University. Medical Center)",
+        "year": "2013",
+        "authors": [
+          "Arroyo Mariangeli",
+          "Fenves Andrew Z",
+          "Emmett Michael"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23543983/"
+      },
+      {
+        "pmid": "34602015",
+        "title": "Safety and effectiveness of lanthanum carbonate for hyperphosphatemia in chronic kidney disease (CKD) patients: a meta-analysis.",
+        "abstract": "The aim of this study was to determine the efficacy and safety of lanthanum carbonate (LC) versus calcium salts, non-LC phosphate binders (PBs), sevelamer, or placebo in patients with chronic kidney disease (CKD).",
+        "journal": "Renal failure",
+        "year": "2021",
+        "authors": [
+          "Zhao Lijuan",
+          "Liu An",
+          "Xu Guoshuang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Humans",
+          "Hyperphosphatemia",
+          "Lanthanum",
+          "Observational Studies as Topic",
+          "Parathyroid Hormone",
+          "Phosphates",
+          "Randomized Controlled Trials as Topic",
+          "Renal Insufficiency, Chronic",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34602015/"
+      },
+      {
+        "pmid": "15356967",
+        "title": "Long-term comparison of a calcium-free phosphate binder and calcium carbonate--phosphorus metabolism and cardiovascular calcification.",
+        "abstract": "Calcium carbonate used as a phosphate binder may contribute to cardiovascular calcification. Long-term comparisons of sevelamer, a non-calcium polymeric phosphate binder, and calcium carbonate (CC) are lacking.",
+        "journal": "Clinical nephrology",
+        "year": "2004",
+        "authors": [
+          "Braun J",
+          "Asmus H G",
+          "Holzer H",
+          "Brunkhorst R",
+          "Krause R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Calcinosis",
+          "Calcium Carbonate",
+          "Cardiovascular Diseases",
+          "Epoxy Compounds",
+          "Female",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15356967/"
+      },
+      {
+        "pmid": "7891547",
+        "title": "Milk-alkali syndrome associated with calcium carbonate consumption. Report of 7 patients with parathyroid hormone levels and an estimate of prevalence among patients hospitalized with hypercalcemia.",
+        "abstract": "Milk-alkali syndrome can be caused by ingesting large amounts of calcium carbonate. Coincident with the promotion of calcium carbonate as treatment for both dyspepsia and osteoporosis, milk-alkali syndrome is now a common cause of hypercalcemia severe enough to require admission to the hospital. The syndrome accounted for less than 2% of such admissions before 1990, but from 1990 through 1993, it was the cause of hypercalcemia for over 12% of these patients. Only primary hyperparathyroidism and hypercalcemia of malignancy (excluding multiple myeloma) are more common. The diagnosis of milk-alkali syndrome is made almost entirely based on the patient's history; careful attention to dietary practices and over-the-counter drug use is required, as numerous over-the-counter medications contain calcium carbonate. Modern assays for PTH demonstrate the expected suppression of PTH by hypercalcemia. Nonetheless, measurement of PTH must be performed in a timely manner as treatment with intravenous",
+        "journal": "Medicine",
+        "year": "1995",
+        "authors": [
+          "Beall D P",
+          "Scofield R H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Calcium Carbonate",
+          "Female",
+          "Hospitalization",
+          "Humans",
+          "Hypercalcemia",
+          "Immunoradiometric Assay",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7891547/"
+      },
+      {
+        "pmid": "9586828",
+        "title": "Growth and recurrence of colorectal polyps: a double-blind 3-year intervention with calcium and antioxidants.",
+        "abstract": "Dietary calcium and antioxidants have been suggested as protective agents against colorectal cancer. This has been supported by animal experimental studies, case control and cohort studies.",
+        "journal": "Digestion",
+        "year": "1998",
+        "authors": [
+          "Hofstad B",
+          "Almendingen K",
+          "Vatn M",
+          "Andersen S N",
+          "Owen R W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenoma",
+          "Aged",
+          "Antioxidants",
+          "Ascorbic Acid",
+          "Calcium, Dietary",
+          "Cell Division",
+          "Colonic Polyps",
+          "Colorectal Neoplasms",
+          "Constipation",
+          "Diarrhea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9586828/"
+      },
+      {
+        "pmid": "40928362",
+        "title": "Water hardness and digestive diseases: a large-scale population-based prospective cohort study.",
+        "abstract": "Water hardness, which refers to the level of dissolved calcium and magnesium salts, is of significant public health concern due to its potential impact on health. The association between water hardness and digestive diseases remains underexplored, with limited evidence from small-scale clinical studies. Given the rising prevalence of digestive disorders worldwide, large-scale cohort studies are needed to address this gap in the literature.",
+        "journal": "International journal of surgery (London, England)",
+        "year": "2026",
+        "authors": [
+          "He Qida",
+          "Sun Mengtong",
+          "Huang Jingting",
+          "Wang Qi",
+          "Adamkiewicz Gary"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Prospective Studies",
+          "Male",
+          "Female",
+          "Digestive System Diseases",
+          "Middle Aged",
+          "Adult",
+          "Hardness",
+          "Aged",
+          "Water"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40928362/"
+      },
+      {
+        "pmid": "10400401",
+        "title": "Antacids revisited: a review of their clinical pharmacology and recommended therapeutic use.",
+        "abstract": "Antacids are commonly used self-prescribed medications. They consist of calcium carbonate and magnesium and aluminum salts in various compounds or combinations. The effect of antacids on the stomach is due to partial neutralisation of gastric hydrochloric acid and inhibition of the proteolytic enzyme, pepsin. Each cation salt has its own pharmacological characteristics that are important for determination of which product can be used for certain indications. Antacids have been used for duodenal and gastric ulcers, stress gastritis, gastro-oesophageal reflux disease, pancreatic insufficiency, non-ulcer dyspepsia, bile acid mediated diarrhoea, biliary reflux, constipation, osteoporosis, urinary alkalinisation and chronic renal failure as a dietary phosphate binder. The development of histamine H2-receptor antagonists and proton pump inhibitors has significantly reduced usage for duodenal and gastric ulcers and gastro-oesophageal reflux disease. However, antacids can still be useful for s",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Maton P N",
+          "Burton M E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Kidney Failure, Chronic",
+          "Oxidation-Reduction",
+          "Urine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10400401/"
+      },
+      {
+        "pmid": "28473363",
+        "title": "Antacid abuse: a rare cause of severe hypercalcaemia.",
+        "abstract": "We discuss a case of an 81-year-old man who presented to hospital with a case of severe hypercalcaemia (5.07 mmol/L). The two most common causes of hypercalcaemia, making up around 90% of the cases, are malignancy and primary hyperparathyroidism. Initial investigations are guided by this knowledge. In this case, no underlying malignancy or evidence of a parathyroid adenoma causing primary hyperparathyroidism was found. Instead, on further history, it was found that this patient had troublesome dyspepsia symptoms for which he had ingested 10-12 calcium carbonate tablets a day for the preceding 2 years. This amounts to 6.6-7.9 g of calcium carbonate per day compared with the guideline daily intake of calcium of 1 g. His presentation of severe hypercalcaemia was therefore diagnosed as milk-alkali syndrome secondary to calcium carbonate tablet abuse.",
+        "journal": "BMJ case reports",
+        "year": "2017",
+        "authors": [
+          "Stoney Ben",
+          "Bagchi Gautam"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged, 80 and over",
+          "Antacids",
+          "Calcium Carbonate",
+          "Diagnosis, Differential",
+          "Humans",
+          "Hypercalcemia",
+          "Male",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28473363/"
+      },
+      {
+        "pmid": "32675162",
+        "title": "Lessons of the month: Over-the-counter antacids causing hypercalcaemia: The emergence of calcium-alkali syndrome.",
+        "abstract": "We present the case of a woman who was found to have severe hypercalcaemia, staghorn calculus formation and renal impairment from the long-standing ingestion of calcium carbonate antacids from a supermarket outlet. The dosage was reported to be approximately 1,800 mg of elemental calcium each day which would constitute only a marginal increase on the recommended intake for daily elemental calcium. Furthermore, she was concomitantly taking a prescribed anti-hypertensive medication that may have exacerbated the hypercalcaemia and subsequent renal calcification. While calcium-alkali syndrome is well documented, it can be overlooked by clinicians as the predominant cause of hypercalcaemia, especially if a thorough drug history is not actively sought. This is particularly important as calcium carbonate products are increasingly being purchased as over-the-counter remedies for dyspepsia management as well as osteoporosis prevention. Explicit product labelling regarding limiting duration usag",
+        "journal": "Clinical medicine (London, England)",
+        "year": "2020",
+        "authors": [
+          "Maarouf Amro",
+          "Jones Sharon"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkalies",
+          "Antacids",
+          "Calcium",
+          "Calcium Carbonate",
+          "Female",
+          "Humans",
+          "Hypercalcemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32675162/"
+      },
+      {
+        "pmid": "32455151",
+        "title": "A 39 year-old woman with milk-alkali syndrome complicated by posterior reversible encephalopathy syndrome.",
+        "abstract": "Milk-alkali syndrome (MAS) is characterized by the triad of hypercalcemia, metabolic alkalosis, and acute kidney injury. Once thought to be a rare condition, there has been a resurgence of cases due to the consumption of calcium-containing supplements for osteoporosis prevention and dyspepsia in the general population. We describe the case of a female who presented with acute encephalopathy, hypercalcemia, and new-onset seizure. An extensive hypercalcemia workup and ruling out of other causes led to the diagnosis of MAS from excessive intake of calcium carbonate. Brain magnetic resonance imaging revealed signal abnormalities in the occipital and posterior parietal lobes that were indicative of posterior reversible encephalopathy syndrome. The patient's encephalopathy resolved after treatment of her hypercalcemia with fluid resuscitation and cessation of her calcium supplements. We present our case to highlight this unusual presentation of MAS, challenges in diagnosis, and briefly discu",
+        "journal": "Bone reports",
+        "year": "2020",
+        "authors": [
+          "Vu Khiem",
+          "Becker Gregory",
+          "Eagerton Donald"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32455151/"
+      },
+      {
+        "pmid": "2644821",
+        "title": "A critical look at the clinical use of antacids in acid-peptic disease and gastric acid rebound.",
+        "abstract": "Ancient man found that he could relieve dyspepsia by ingesting minerals that had antacid properties. Calcium carbonate was one of the first of these, as it occurred in relatively pure form in coral and limestone. Antacids were the keystone of medical management until the modern era of ulcer treatment. There has been a renewal of interest in antacids in recent years. Calcium as a component of the diet has come under scrutiny. Antacids have been found to be as effective in promoting healing of ulcer as H2 antagonists, sulcrafate, and colloidal bismuth. With regard to optimal dose in ulcer treatment, doses of antacids from 120 to 1008 mmol/day have been effective. A dose of 120 mmol/day given qid is effective. Low-dose antacids may increase mucosal resistance. The evidence for a specific gastric acid rebound with CaCO3 is based upon flawed assumptions and studies. Stimulation of gastric secretion occurs with all buffers, and this effect is compensated by the remaining buffer. When used pr",
+        "journal": "The American journal of gastroenterology",
+        "year": "1989",
+        "authors": [
+          "Texter E C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antacids",
+          "Dyspepsia",
+          "Gastric Acid",
+          "Gastric Acidity Determination",
+          "Humans",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2644821/"
+      },
+      {
+        "pmid": "21069570",
+        "title": "Clinical usefulness of lanthanum carbonate for serum phosphate control in difficult patients.",
+        "abstract": "The adequate control of phosphataemia is of major importance in end-stage renal disease patients on maintenance dialysis. Recently, lanthanum carbonate (LC) has been added to the phosphate binder armamentarium. To our knowledge, no studies have yet evaluated the usefulness of this drug in uncontrolled hyperphosphataemic patients.",
+        "journal": "International urology and nephrology",
+        "year": "2012",
+        "authors": [
+          "Almirall J",
+          "Betancourt L",
+          "Esteve V",
+          "Valenzuela M P",
+          "López T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Chelating Agents",
+          "Dyspepsia",
+          "Female",
+          "Humans",
+          "Hyperphosphatemia",
+          "Kidney Failure, Chronic",
+          "Lanthanum",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21069570/"
+      },
+      {
+        "pmid": "39906443",
+        "title": "Sodium Bicarbonate Toxicity: An Unusual Yet Potential Cause of Severe Metabolic Alkalosis.",
+        "abstract": "Sodium bicarbonate, commonly known as baking soda, is present in various over-the-counter medications sold to the general public, including for the treatment of gastrointestinal symptoms such as nausea and dyspepsia. Less well known to the public are the severe complications associated with these treatments and their overuse, which can lead to significant toxicity, including metabolic alkalosis and associated electrolyte imbalances, further perpetuating or even worsening the acid-base disorder. In this case report, we present a 45-year-old woman with a history of locally invasive breast cancer, who underwent primary chemotherapy and radiotherapy with remission. She presented to the Emergency Department with nausea, vomiting, and abdominal discomfort that began one month earlier, along with asthenia and weight loss predating these symptoms. She had begun taking over-the-counter medications recommended by a local herbalist, some of which contained sodium bicarbonate or calcium carbonate.",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Fontoura Mário Gil",
+          "Fernandes Luís",
+          "Machado Filipe",
+          "Almeida Penelope",
+          "Pereira Teresa"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39906443/"
+      },
+      {
+        "pmid": "17517554",
+        "title": "OTC product: Children's Pepto.",
+        "abstract": "",
+        "journal": "Journal of the American Pharmacists Association : JAPhA",
+        "year": "2006",
+        "authors": [
+          "Marshall Leisa L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Calcium Carbonate",
+          "Child",
+          "Child, Preschool",
+          "Dyspepsia",
+          "Heartburn",
+          "Humans",
+          "Nonprescription Drugs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17517554/"
+      },
+      {
+        "pmid": "37952517",
+        "title": "The Tibetan Formula Cong zhi 6 in the ORL (ENT) Practice: Experiences with Laryngopharyngeal Reflux.",
+        "abstract": "Laryngopharyngeal reflux (LPR) is a frequent condition; in European countries, the prevalence can be estimated as 10-30% of the general population. Treatment includes lifestyle measures and highly dosed proton pump inhibitors (PPIs) over at least 4 weeks. However, PPIs are not unproblematic due to their potential side effects and the known phenomenon of rebound acid hypersecretion. Cong zhi 6 is a multi-herbal Tibetan formula additionally containing calcium carbonate and is available in several European countries as a food supplement Padma Aciben/Padma AciTib.",
+        "journal": "Complementary medicine research",
+        "year": "2024",
+        "authors": [
+          "Zürcher Barbara Friederike"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Laryngopharyngeal Reflux",
+          "Retrospective Studies",
+          "Pepsin A",
+          "Tibet",
+          "Europe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37952517/"
+      },
+      {
+        "pmid": "25384804",
+        "title": "Benefit of supplements in functional dyspepsia after treatment of Helicobacter pylori.",
+        "abstract": "Functional dyspepsia, though benign, leads to deterioration of the quality of life and high costs for healthcare systems. The optimal therapy for functional dyspepsia is still to be defined because of its multifactorial pathogenesis. In an open multicentric study of patients with functional dyspepsia, we prospectively evaluated the benefit of treatment with a food supplement composed of sodium alginate, carbonate calcium, pineapple, papaya, ginger, α-galactosidase and fennel (Perdiges, Bioten Snc, Turin, Italy).",
+        "journal": "Minerva gastroenterologica e dietologica",
+        "year": "2014",
+        "authors": [
+          "Pellicano R",
+          "Ribaldone D G",
+          "Saracco G M",
+          "Leone N",
+          "De Angelis C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Biotin",
+          "Dietary Supplements",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Dyspepsia",
+          "Female",
+          "Follow-Up Studies",
+          "Helicobacter Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25384804/"
+      },
+      {
+        "pmid": "9690722",
+        "title": "Comparison of the effect of the antacid Rennie versus low-dose H2-receptor antagonists (ranitidine, famotidine) on intragastric acidity.",
+        "abstract": "Symptoms of functional dyspepsia are common and patients often self-medicate with antacids, or with low-dose H2-antagonists which are available as over-the-counter medications. To date, there has been limited information available comparing the effects on intragastric acidity of these two types of over-the-counter medication. Therefore we studied the effect of the antacid Rennie and two H2-antagonists on the intragastric pH of fasting volunteers.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1998",
+        "authors": [
+          "Netzer P",
+          "Brabetz-Höfliger A",
+          "Bründler R",
+          "Flogerzi B",
+          "Hüsler J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Antacids",
+          "Calcium Carbonate",
+          "Carbonates",
+          "Double-Blind Method",
+          "Dyspepsia",
+          "Famotidine",
+          "Female",
+          "Gastric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9690722/"
+      },
+      {
+        "pmid": "30902374",
+        "title": "[Deposits of lanthanum in the gastric mucosa of a patient with chronic kidney disease].",
+        "abstract": "Lanthanum carbonate is a non-calcium phosphorus chelator used in the treatment of hyperphosphatemia associated with chronic renal disease. Deposits of lanthanum in the gastrointestinal wall have been recently described but its clinical significance is uncertain. We present a case of a 62-year-old male with chronic renal disease treated with lanthanum carbonate for 3 years, with deposits in his gastric mucosa, found on biopsy for dyspepsia. The deposits were acellular and of irregular shape, surrounded by macrophages and foreign body giant cells. The presence of lanthanum in the deposits was confirmed by X-ray spectroscopy. Diagnosis is reached with knowledge of its microscopic appearance and a thorough clinical history.",
+        "journal": "Revista espanola de patologia : publicacion oficial de la Sociedad Espanola de Anatomia Patologica y de la Sociedad Espanola de Citologia",
+        "year": "2019",
+        "authors": [
+          "António da Conceiçao Anabel",
+          "Chiva Robles María Teresa",
+          "Porres Cubero Juan Carlos",
+          "Saus Sarrias Carles",
+          "Castellano Megías Víctor Manuel"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Gastric Mucosa",
+          "Humans",
+          "Hyperphosphatemia",
+          "Lanthanum",
+          "Male",
+          "Middle Aged",
+          "Renal Insufficiency, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30902374/"
+      },
+      {
+        "pmid": "20613851",
+        "title": "[Phosphorus binders: preferences of patients on haemodialysis and its impact on treatment compliance and phosphorus control].",
+        "abstract": "Non-adherence to phosphate binding (PB) medication may play a role in the difficulty in achieving the targets for phosphorus. We have a wide armamentarium of PB but preferences of patients are poorly understood.",
+        "journal": "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia",
+        "year": "2010",
+        "authors": [
+          "Arenas M D",
+          "Malek T",
+          "Álvarez-Ude F",
+          "Gil M T",
+          "Moledous A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Aged",
+          "Aluminum Hydroxide",
+          "Calcium Compounds",
+          "Chelating Agents",
+          "Chelation Therapy",
+          "Cohort Studies",
+          "Cross-Sectional Studies",
+          "Dyspepsia",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20613851/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:11:16.270574",
+  "success": true,
+  "error_message": null
+}

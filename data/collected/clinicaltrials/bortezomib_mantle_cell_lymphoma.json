@@ -1,0 +1,930 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Bortezomib",
+    "disease": "mantle cell lymphoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01397591",
+      "title": "Phase II Trial of Ofatumumab and Bortezomib in Subjects With Relapsed Cluster of Differentiation Antigen 20 (CD20)+ Diffuse Large B Cell Lymphoma, Follicular Lymphoma, or Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-10",
+      "completion_date": "2013-07",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "This phase II trial studies how well giving ofatumumab together with bortezomib works in treating patients with relapsed diffuse large B cell lymphoma (DLBCL), follicular lymphoma (FL), or mantle cell lymphoma (MCL). Monoclonal antibodies, such as ofatumumab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Bortezomib may stop the growth of cancer cells by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have biopsy sample obtained within 6 months of study entry that:\n* Is histologically confirmed DLBCL, MCL or FL, by an Oregon Health and Science University (OHSU) hematopathologist\n* Retains expression of CD20+\n* Patients must be refractory to or have recurrent d",
+      "endpoints": [
+        "Response Rate of Ofatumumab in Combination With Bortezomib in Patients With Relapsed CD20+ (Cluster of DIfferentiation Antigen 20) Diffuse Large B Cell Lymphoma, Follicular Lymphoma, or Mantle Cell Lymphoma"
+      ],
+      "sponsor": "OHSU Knight Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01397591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00376961",
+      "title": "A Phase II Study of Combination Rituximab-CHOP and Bortezomib (Velcade®) (R-CHOP-V) Induction Therapy Followed by Bortezomib Maintenance (VM) Therapy for Patients With Newly Diagnosed Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2017-09",
+      "country": "United States",
+      "enrollment": 68,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Givin",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed mantle cell lymphoma (MCL) meeting the following criteria:\n\n  * Stage III-IV or bulky stage II disease\n  * Confirmation of positivity for the following phenotypes by immunohistochemistry or flow cytometry:\n\n    * Cluster of differentiation antigen",
+      "endpoints": [
+        "2-year Progression-free Survival in Patients Treated With Rituximab-CHOP-bortezomib Induction Therapy (RCHOP-V) Followed by Bortezomib Maintenance Therapy (VM)"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00376961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00863369",
+      "title": "A Phase I/II Study of VELCADE in Combination With Gemcitabine in Relapsed B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-29",
+      "completion_date": "2023-06-20",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as gemcitabine hydrochloride, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry canc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed intermediate or high grade B-cell Non-Hodgkin lymphoma with primary progressive or relapsed disease\n* Patients may have had up to 4 prior chemo-and-or radiation therapy regiments, including one autologous transplant ",
+      "endpoints": [
+        "Number of Participants With at Least One Dose Limiting Toxicity (DLT)",
+        "Recommended Phase II Dose"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00863369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06853080",
+      "title": "Feasibility of Using Bortezomib With or Without Chemotherapy in Patients With Atypical Teratoid/Rhabdoid Tumors",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-12-02",
+      "completion_date": "2025-12",
+      "country": "Taiwan",
+      "enrollment": 6,
+      "brief_summary": "Atypical teratoid/rhabdoid tumors (AT/RTs) account for 1%-2% of all central nervous system (CNS) tumors in children aged 0-14 years, yet are among the most common malignant CNS tumors in infants less than 1 year old. AT/RTs are defined by the loss of INI1 or, rarely, BRG1, encoded by the SMARCB1 and SMARCA4 genes, respectively. Patients with AT/RTs have dismal outcomes due to their highly malignant nature and young age at diagnosis. There remains no standard therapy for AT/RTs. Multimodal treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with a valid Informed Consent Form signed by the Legal Guardian and/or Patient himself/herself.\n2. Patients with CNS AT/RT who were initially diagnosed at the age of 0-20 years.\n3. Disease Status:\n\n   Cohort 1: Patients with newly diagnosed AT/RT; Cohort 2: Patients ",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Taipei Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06853080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00114738",
+      "title": "Randomized Phase II Study of Dose-Adjusted EPOCH-Rituximab-Bortezomib (EPOCH-R-B) Induction Followed by Bortezomib Maintenance Versus Observation in Untreated Mantle Cell Lymphoma With Microarray Profiling and Proteomics",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-15",
+      "completion_date": "2022-08-11",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "This study will evaluate the effectiveness of etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin-rituximab (EPOCH-R) chemotherapy plus bortezomib for treating mantle cell lymphoma, a cancer of white blood cells called lymphocytes. EPOCH-R consists of the drugs prednisone, etoposide, doxorubicin and vincristine, with the addition of a new drug called rituximab. In a recent study of patients with newly diagnosed mantle cell lymphoma, 92 percent had a complete remission of their dise",
+      "eligibility_criteria": "* ELIGIBILITY CRITERIA:\n\nDiagnosis of mantle cell lymphoma (confirmed at National Cancer Institute (NCI)). All variants are eligible.\n\nAge greater than or equal to 18 years.\n\nNo prior treatment except for local radiation or a short course of steroids for control of symptoms.\n\nAll stages of disease.\n",
+      "endpoints": [
+        "Progression Free Survival (PFS)",
+        "Median Overall Survival (OS)",
+        "Overall Progression Free Survival"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00114738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03053024",
+      "title": "An Observational Study of Bortezomib (BTZ) Treatment on Mantle Cell Lymphoma (MCL) in China",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-04-14",
+      "completion_date": "2019-09-30",
+      "country": "China",
+      "enrollment": 54,
+      "brief_summary": "The purpose of the study (retrospective and prospective) is to describe participant and disease characteristics and treatment pattern of Bortezomib treated mantle cell lymphoma (MCL) participants in China.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants that have been hospitalized for MCL after January 1st 2009.\n* Biopsy proven MCL as evidenced by histology with either immunohistochemistry (IHC) or t(11,14) translocation\n* Retrospective group: Participants who have finished BTZ treatment before the study initiati",
+      "endpoints": [
+        "Demographic Characteristic of Participants in Prospective Group: Age",
+        "Participants Disease Status (newly diagnosed MCL or relapsed/refractory mantel cell lymphoma [rrMCL]) Treated With BTZ",
+        "Eastern Cooperative Oncology Group (ECOG) Performance Status"
+      ],
+      "sponsor": "Xian-Janssen Pharmaceutical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03053024"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00407303",
+      "title": "A Phase I/II Study of Obatoclax Mesylate (GX15-070MS) Administered in Combination With Bortezomib to Patients With Relapsed or Refractory Mantle Cell Lymphoma (MCL)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "Defects in the apoptotic process can lead to the onset of cancer by allowing cells to grow unchecked when an oncogenic signal is present. Obatoclax is designed to restore apoptosis through inhibition of the Bcl-2 family of proteins, thereby reinstating the natural process of cell death that is often inhibited in cancer cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pathological confirmation of Mantle Cell Lymphoma (ML)\n* Must have documented relapse or progression following 1 or 2 prior lines of antineoplastic therapy\n* Must have normal organ function\n* Must have the ability to understand and willingness to sign a written informed consen",
+      "endpoints": [
+        "Determine the response rate to obatoclax in combination with Bortezomib and characterize the safety profile"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00407303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00547534",
+      "title": "Pilot Study of Bortezomib, Bendamustine and Rituximab for Patients With Relapsed or Refractory, Indolent or Mantle Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2009-10",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study is to evaluate how non-Hodgkin's lymphoma that has not responded to, or that has returned after standard treatment, responds to bortezomib, rituximab and bendamustine, and also to see what effects this drug combination have on this cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary written informed consent before performance of any study-specific procedure not part of routine medical care, with the understanding that consent may be withdrawn by the subject at any time without prejudice to future medical care.\n* Female subject is either post-men",
+      "endpoints": [
+        "Number of Participants With Progression Free Survival at 2 Years"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT00547534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01267812",
+      "title": "A Phase II Study of Weekly Maintenance Bortezomib and Rituximab in Mantle Cell Lymphoma Post Autologous Hematopoietic Cell Transplantation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-10-03",
+      "completion_date": "2020-11-02",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Giving bortezomib together with rituximab may kill more cancer cells.\n\nPURPOSE: This phase II trial is studying how well giving bortezomib and rituximab t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histological documented or cytological confirmed mantle cell lymphoma; cyclin D1 must be present as evidenced by either fluorescence in situ hybridization (FISH) or immunohistochemical staining\n* Patients must have undergone autologous hematopoietic stem cel",
+      "endpoints": [
+        "Two-year Disease-free Survival"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01267812"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00023764",
+      "title": "Phase II Study of PS-341 in Low Grade Lymphoproliferative Disorders",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-06",
+      "completion_date": "2009-03",
+      "country": "United States",
+      "enrollment": 103,
+      "brief_summary": "Phase II trial to study the effectiveness of bortezomib in treating patients who have low-grade lymphoproliferative disorders. Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for cancer cell growth.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed lymphoproliferative disorder of 1 of the following subtypes:\n* \\* Relapsed or refractory grade I, II, or III follicular center cell lymphoma\n\n  * Relapsed or refractory mantle cell lymphoma\n* Measurable disease for non-Hodgkin's lympho",
+      "endpoints": [
+        "Response Rate"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00023764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00581776",
+      "title": "Phase II Study of VcR-CVAD With Rituximab Consolidation and Maintenance for Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2015-05",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Patients will receive Rituximab, Bortezomib, cyclophosphamide, Doxorubicin, Vincristine, Dexamethasone in three week intervals for 6 cycles; then rituximab consolidation (weekly x 4) , then one dose of rituximab every 12 weeks until 5 years or disease progression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed CD20+ mantle cell lymphoma, with measurable or evaluable disease, no prior chemotherapy, immunotherapy or radiotherapy except for 1 cycle of CHOP-like chemotherapy.\n\nExclusion Criteria:\n\n* Patients with known CNS disease, known HIV infection, grade 2 o",
+      "endpoints": [
+        "Overall Response Rate (ORR) at the Completion of Induction Chemotherapy, Which is the Percent of Complete Responses (CR) Plus Percent of Partial Responses (PR).",
+        "Complete Response Rate (CR) at the End of Induction Chemotherapy"
+      ],
+      "sponsor": "University of Wisconsin, Madison",
+      "url": "https://clinicaltrials.gov/study/NCT00581776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00477412",
+      "title": "Phase I/II Study of Bortezomib (VELCADE) Plus Rituximab-HyperCVAD Alternating With Bortezomib Plus Rituximab-High Dose Methotrexate/Cytarabine in Patients With Untreated Aggressive Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04-03",
+      "completion_date": "2020-10-28",
+      "country": "United States",
+      "enrollment": 107,
+      "brief_summary": "This phase I/II trial studies the side effects and best dose of bortezomib when given with rituximab and chemotherapy drugs and to see how well they work in treating participants with mantle cell lymphoma. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as rituximab, may interfere with the ability of cancer cells to grow and spread. Drugs used in chemotherapy, such as cyclophosphamide, doxorubicin, vincristine, de",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of previously untreated nodular or diffuse mantle cell lymphoma and their blastoid cytologic variant.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2.\n* Serum bilirubin \\< 1.5 mg/dl and serum creatinine \\< 2.0 mg/dl within 14 da",
+      "endpoints": [
+        "Maximum Tolerated Dose of Bortezomib (Phase I)",
+        "Time to Failure (Phase II)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00477412"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01088048",
+      "title": "A Phase I Study to Investigate the Safety and Clinical Activity of Idelalisib in Combination With Chemotherapeutic Agents, Immunomodulatory Agents and Anti-CD20 mAb in Subjects With Relapsed or Refractory Indolent B-cell Non-Hodgkin Lymphoma, Mantle Cell Lymphoma or Chronic Lymphocytic Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-03-25",
+      "completion_date": "2015-04-28",
+      "country": "United States",
+      "enrollment": 241,
+      "brief_summary": "The primary objective of the study is to evaluate the safety of idelalisib in combination with an anti-CD20 monoclonal antibody (mAb), a chemotherapeutic agent, a mammalian target of rapamycin (mTOR) inhibitor, a protease inhibitor, an antiangiogenic agent, and/or an immunomodulatory agent in participants with relapsed or refractory indolent B-cell non-Hodgkin lymphoma (NHL), mantle cell lymphoma (MCL), or chronic lymphocytic leukemia (CLL).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Age ≥ 18\n* Previously treated with relapsed or refractory disease (refractory defined as not responding to a standard regimen or progressing within 6 months of the last course of a standard regimen)\n* Disease status requirement:\n\n  * For CLL patients, symptomatic disease t",
+      "endpoints": [
+        "Duration of Exposure to IDELA",
+        "Toxicity of Administration of IDELA"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01088048"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01236391",
+      "title": "Multicenter Phase 2 Study of Bruton's Tyrosine Kinase (Btk) Inhibitor, PCI-32765, in Relapsed or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2014-01",
+      "country": "Germany, United Kingdom, Poland, United States",
+      "enrollment": 115,
+      "brief_summary": "The primary objective of this study was to evaluate the efficacy of ibrutinib in participants with relapsed or refractory MCL.\n\nThe secondary objective was to evaluate the safety of a fixed daily dosing regimen (560 mg daily) of PCI-32765 in this population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 18 years of age\n* ECOG performance status of ≤ 2\n* Pathologically confirmed MCL, with documentation of either overexpression of cyclin D1 or t(11;14), and measurable disease on cross sectional imaging that is ≥ 2 cm in the longest diameter and measurable in 2 p",
+      "endpoints": [
+        "Percentage of Participants Achieving Response"
+      ],
+      "sponsor": "Pharmacyclics LLC.",
+      "url": "https://clinicaltrials.gov/study/NCT01236391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00030875",
+      "title": "A Phase II Study Of PS-341 (NSC 681239) In Patients With Untreated Or Relapsed Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-11-19",
+      "completion_date": "2009-12-21",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for cancer cell growth.\n\nPURPOSE: Phase II trial to study the effectiveness of bortezomib in treating patients who have previously untreated or relapsed mantle cell lymphoma.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed relapsed or untreated mantle cell lymphoma\n\n  * No refractory disease defined as progression while on chemotherapy or within 1 month after completion of chemotherapy\n* At least 1 bidimensionally measurable disease site\\*\n\n  * Lymp",
+      "endpoints": [],
+      "sponsor": "Canadian Cancer Trials Group",
+      "url": "https://clinicaltrials.gov/study/NCT00030875"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01415752",
+      "title": "Intergroup Randomized Phase 2 Four Arm Study In Patients ≥ 60 With Previously Untreated Mantle Cell Lymphoma Of Therapy With: Arm A = Rituximab+ Bendamustine Followed By Rituximab Consolidation (RB → R); Arm B = Rituximab + Bendamustine + Bortezomib Followed By Rituximab Consolidation (RBV→ R), Arm C = Rituximab + Bendamustine Followed By Lenalidomide + Rituximab Consolidation (RB → LR) or Arm D = Rituximab + Bendamustine + Bortezomib Followed By Lenalidomide + Rituximab Consolidation (RBV → LR)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2012-08-09",
+      "completion_date": "2031-09",
+      "country": "Canada, United States",
+      "enrollment": 373,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some find cancer cells and help kill them or carry cancer-killing substances to them. Others interfere with the ability of cancer cells to grow and spread. Drugs used in chemotherapy, such as bendamustine hydrochloride, also work in different ways to kill cancer cells or stop them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Lena",
+      "eligibility_criteria": "Step 1 (Induction) Inclusion Criteria:\n\n* Mantle Cell Lymphoma International Prognostic Index (MIPI) score must be calculated and entered in OPEN\n* Histologically confirmed untreated mantle cell lymphoma (MCL), with documented cyclin D1 by immunohistochemical stains and/or t(11;14) by cytogenetics o",
+      "endpoints": [
+        "Progression-free Survival (PFS) for Induction Phase",
+        "Progression-free Survival (PFS) for Maintenance Phase (Step 2)"
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT01415752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00151320",
+      "title": "Phase I/II Trial of VELCADE+ CHOP-Rituximab in Patients With Previously Untreated Diffuse Large B Cell or Mantle Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2013-04-24",
+      "country": "United States",
+      "enrollment": 76,
+      "brief_summary": "Primary Objective:\n\nTo determine the toxicity profile and maximum tolerated dose (MTD) of VELCADE when administered in combination with CHOP + Rituximab to patients with previously untreated diffuse large B cell or mantle cell non-Hodgkin's lymphoma (NHL)\n\nSecondary Objectives:\n\nTo assess the response rate (overall and complete), event-free survival and overall survival with VELCADE and CHOP-R in patients with previously untreated diffuse large B cell or mantle cell lymphoma (phase II component)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of diffuse large B cell or mantle cell Non-Hodgkin's Lymphoma with characteristic immunophenotypic profiles. For mantle cell: CD5(+), CD19(+) or CD20(+), cyclin D1(+), CD23(-) and CD10(-).\n* Patient has not received any prior anti-cancer ther",
+      "endpoints": [
+        "ORR"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT00151320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00068315",
+      "title": "A Phase I Trial of PS-341 and Fludarabine for Relapsed and Refractory Indolent Non-Hodgkin's Lymphoma and Chronic Lymphocytic Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of bortezomib when given together with fludarabine with or without rituximab in treating patients with relapsed or refractory indolent non-Hodgkin's lymphoma or chronic lymphocytic leukemia. Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for cancer cell growth. Drugs used in chemotherapy, such as fludarabine, work in different ways to stop cancer cells from dividing so they stop growing or die. Monocl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of chronic lymphocytic leukemia (CLL) OR indolent non-Hodgkin's lymphoma (NHL) of any of the following subtypes:\n\n  * Follicular lymphoma:\n\n    * Grade I follicular small cleaved cell;\n    * Grade II follicular mixed cell;\n    * Grade II follicular large cell;\n    * ",
+      "endpoints": [
+        "Maximum tolerated dose (MTD) assessed by Common Toxicity Criteria version 2.0"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00068315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00980395",
+      "title": "A Phase II, Open-Label Study of Bortezomib (Velcade), Cladribine and Rituximab (VCR) in Advanced, Newly Diagnosed and Relapsed/Refractory Mantle Cell and Indolent Lymphomas",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-07-07",
+      "completion_date": "2018-08-14",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as cladribine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing subs",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary consent before performance of any study-related procedure\n* Female subject is either post-menopausal or surgically sterilized or willing to use an acceptable method of birth control\n* Male subject agrees to use an acceptable method for contraception for the duration ",
+      "endpoints": [
+        "Progression-free Survival at 2 Years"
+      ],
+      "sponsor": "University of Arizona",
+      "url": "https://clinicaltrials.gov/study/NCT00980395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00889798",
+      "title": "Epidemiological Registry Describing Treatment Reality and Therapy Modalities of Patients With Malignant Lymphatic Systemic Diseases (Non-Hodgkin's Lymphoma, Chronic Lymphocytic Leukemia and Multiple Myeloma) Requiring Therapy.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2019-08-31",
+      "country": "N/A",
+      "enrollment": 3795,
+      "brief_summary": "The purpose of this registry is to record information on therapy reality of malignant lymphatic systemic diseases by office-based haematologists in Germany.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of Non-Hodgkin's lymphoma, chronic lymphocytic leukaemia or multiple myeloma\n* Must receive a first- or second-line therapy\n* 18 years or older\n* Signed, written informed consent\n\nExclusion Criteria:\n\n\\- no systemic therapy",
+      "endpoints": [
+        "Course of treatment (treatment reality)"
+      ],
+      "sponsor": "iOMEDICO AG",
+      "url": "https://clinicaltrials.gov/study/NCT00889798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00515138",
+      "title": "A Pilot Study of Standard-Dose Rituximab, Ifosfamide, Carboplatin and Etoposide (RICE) Plus Bortezomib (Velcade) in a Dose-Escalating Fashion for Patients With Relapsed or Primary Refractory Aggressive B-Cell Non-Hodgkin's Lymphoma Who Are Candidates for Autologous Stem Cell Transplant",
+      "phase": "EARLY_PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2007-05",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "This study seeks to determine the maximum tolerated dose of bortezomib in combination with rituximab, ifosfamide, carboplatin, and etoposide for patients with relapsed or primary refractory aggressive B-Cell Non-Hodgkin's lymphoma (diffuse large B-cell, mantle cell, follicular grade III, transformed lymphoma). Subjects will be enrolled in cohorts of 3 at each bortezomib dose level, starting at 1 mg/m(2), and escalating to 1.3, 1.5, and 1.7 mg/m(2). Bortezomib will be given on days 1 (prior to ri",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aggressive B-Cell Lymphoma, CD-20 positive, in first relapse or refractory to first-line chemotherapy\n\n  * Diffuse large B-cell Lymphoma, Mantle cell lymphoma, Follicular lymphoma (Grade III), Transformed Follicular Lymphoma\n  * Rituximab is allowed\n  * Prior radiation is allo",
+      "endpoints": [
+        "-Determine the maximum tolerated dose of bortezomib in combination with rituximab, ifosfamide, carboplatin, and etoposide for patients with relapsed or primary refractory aggressive B-cell NHL"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00515138"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00671112",
+      "title": "A Phase 1 Trial of the Combination of Everolimus (RAD001) and Bortezomib (VELCADE) for Relapsed or Refractory Lymphoma",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2008-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "RATIONALE: Everolimus and bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.\n\nPURPOSE: This phase I trial is studying the side effects and best dose of everolimus when given together with bortezomib in treating patients with relapsed or refractory lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able to provide voluntary written informed consent, with the understanding that consent may be withdrawn by the subject at any time without prejudice to future medical care.\n* Diagnosed with relapsed or refractory NHL, limited to subtypes listed below. The subject must have hi",
+      "endpoints": [
+        "Maximum tolerated dose of everolimus in combination with bortezomib"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00671112"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004002",
+      "title": "Phase I Trial of PS-341 in Advanced Cancers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1999-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die.\n\nPURPOSE: Phase I trial to study the effectiveness of PS-341 in treating patients who have advanced solid tumors or lymphoma that have not responded to previous treatment.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed advanced solid tumor or lymphoma that has failed standard therapy and no standard options available No leukemia or myeloma CNS lesions allowed if adequately treated by surgery and/or radiotherapy and symptomatically stable on maintenance glucocortico",
+      "endpoints": [],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT00004002"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00571493",
+      "title": "Phase I/II Study of VELCADE®-BEAM and Autologous Hematopoietic Stem Cell Transplantation for Relapsed Indolent Non-Hodgkin's Lymphoma, Transformed or Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04-14",
+      "completion_date": "2014-11-01",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "This is a Phase I/II trial designed to study the toxicity and Maximum Tolerated Dose (MTD) of bortezomib in combination with BEAM (carmustine (BCNU), etoposide, cytarabine, melphalan) and autologous hematopoietic stem cell transplantation (ASCT) and to obtain a preliminary estimate of the response rate to this combination.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Persistent, relapsed or refractory indolent non-Hodgkin's lymphoma (Follicular grade I, II, or III), non-Hodgkin's lymphoma, composite lymphomas with ≥ 50% of tumor showing follicular histology, transformed follicular, lymphoplasmacytic, marginal zone lymphoma, small Lymphocyt",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of Bortezomib"
+      ],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT00571493"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06656221",
+      "title": "A Prospective, Single-Center Study Evaluating the Efficacy and Safety of Glofitamab Combined With Orelabrutinib and Bortezomib in Patients With High-Risk Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-12-01",
+      "completion_date": "2028-05-01",
+      "country": "N/A",
+      "enrollment": 29,
+      "brief_summary": "The aim of this study is to evaluate the efficacy and safety of Glofitamab combined with Orelabrutinib and Bortezomib in patients with high-risk mantle cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form\n* Age ≥ 18 years at the time of signing Informed Consent Form and willingness to comply with study protocol procedures\n* Participants with MCL\n* Meets any of the following high-risk criteria: blastoid/pleomorphic morphology; high Ki-67 (≥ 30%); TP5",
+      "endpoints": [
+        "Complete Response (CR) Rate"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06656221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00871546",
+      "title": "A Randomized Phase 2 Study of SCH 727965 in Subjects With Relapsed or Refractory Mantle Cell Lymphoma (MCL) or B-Cell Chronic Lymphocytic Leukemia (B-CLL)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-03",
+      "completion_date": "2010-12",
+      "country": "N/A",
+      "enrollment": 8,
+      "brief_summary": "Participants will be randomized to SCH 727965 or a comparator drug (bortezomib for mantle cell lymphoma \\[MCL\\] or alemtuzumab for B cell chronic lymphocytic leukemia \\[B CLL\\]). Part 1 of the study will determine the activity of SCH 727965 treatment in participants with MCL and participants with B-CLL. Part 2 of the study will determine the activity of SCH 727965 treatment in participants who experienced disease progression after standard treatment with the comparator drug during Part 1.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>=18 years, either sex, any race.\n* Eastern Cooperative Oncology group performance status of 0 or 1.\n* Adequate hematologic, renal, and hepatic organ function and laboratory parameters.\n* For subjects with MCL:\n\n  * Diagnosis of MCL according to the World Health Organizat",
+      "endpoints": [
+        "Response rate of initial treatment with SCH 727965 in subjects with MCL or B-CLL.",
+        "Response rate in subjects treated with SCH 727965 after disease progression on comparator drug."
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00871546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00538187",
+      "title": "Phase I Study of GX15-070 (NSC # 729280) and Bortezomib in Aggressive Relapsed/Recurrent Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2007-12",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "Obatoclax may stop the growth of non-Hodgkin lymphoma by blocking blood flow to the cancer. Bortezomib and obatoclax may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving obatoclax together with bortezomib may kill more cancer cells. This phase I/II trial is studying the side effects and best dose of obatoclax when given together with bortezomib and to see how well they work in treating patients with aggressive relapsed or recurrent non-Hodgkin lympho",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed relapsed or refractory non-Hodgkin lymphoma for which standard curative or palliative measures do not exist or are no longer effective, including any of the following subtypes:\n\n  * Follicular grade I, II, or III lymphoma\n  * Marginal ",
+      "endpoints": [
+        "Maximum tolerated dose of obatoclax mesylate when administered with bortezomib"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00538187"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00082784",
+      "title": "Phase I Trial of Bortezomib (PS-341; NSC 681239) and Alvocidib (Flavopiridol NSC 649890) in Patients With Recurrent or Refractory Indolent B-Cell Neoplasms",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2014-09",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "Bortezomib may stop the growth of cancer cells by blocking the enzymes necessary for their growth. Drugs used in chemotherapy, such as flavopiridol, work in different ways to stop cancer cells from dividing so they stop growing or die. Bortezomib may increase the effectiveness of flavopiridol by making cancer cells more sensitive to the drug. Giving bortezomib together with flavopiridol may kill more cancer cells. This phase I trial is studying the side effects and best dose of bortezomib and fl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* WBC \\< 50,000/mm\\^3 for patients with circulating tumor cells\n* No prior allergic reaction to compounds of similar chemical or biological composition to and presumably able to tolerated bortezomib, flavopiridol, allopurinol, sodium polystyrene sulfonate, or dexamethasone\n* No ",
+      "endpoints": [
+        "Recommended phase II dose"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00082784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05564052",
+      "title": "A Randomized, Controlled, Open-label, Multicenter, Inferentially Seamless Phase 2/3 Study of Ibrutinib in Combination With Rituximab Versus Physician's Choice of Lenalidomide Plus Rituximab or Bortezomib Plus Rituximab in Participants With Relapsed or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-12-06",
+      "completion_date": "2024-09-26",
+      "country": "Brazil, Spain, Sweden, Czechia, Taiwan, Puerto Rico, India, Greece, Turkey (Türkiye), Malaysia, Romania, Poland, Thailand",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to provide continued access to treatment for participants who continue to benefit from treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 1 prior treatment regimen for mantle cell lymphoma (MCL) excluding inhibitor of Bruton's tyrosine kinase (BTKi)\n* Documented disease progression or relapse following the last anti-MCL treatment\n* At least 1 measurable site of disease on cross-sectional imaging that is",
+      "endpoints": [
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs) Leading to Discontinuation of Treatment: Arms A1, A2, A3 and B",
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs) Leading to Discontinuation of Treatment: Monotherapy Arm",
+        "Number of Participants With Grade 3 or Higher TEAEs Based on National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) Version (v) 5.0: Arms A1, A2, A3 and B"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT05564052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01322776",
+      "title": "Phase 1 and 2 Study of Combination Treatment of Bortezomib, Fludarabine and Cyclophosphamide in Patients With Recurrent Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2011-03",
+      "completion_date": "2013-10",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "This is a multi-center, single arm, open-label, prospective IIS study, which will enroll 40 recurrent MCL patients.The aim is to evaluate the efficacy and safety of bortezomib, fludarabine and cyclophosphamide treatment and also analyze the relationship between NF-kB activity and efficacy of bortezomib treatment and whether NF-kB activity can predict MCL progression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients 18 years or older;\n* Histologically confirmed MCL (Initial diagnosis in hospitals other than sites must be reconfirmed;\n* Recurrent patients after first-line or second-line chemotherapy;\n* At least including the following characteristic immunophenotype ",
+      "endpoints": [
+        "Clinical efficacy will be assessed according to the CT scan and bone marrow aspirate and biopsy"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT01322776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01111188",
+      "title": "Phase I Trial of PD 0332991 Plus Bortezomib in Patients With Relapsed Mantle Cell Lymphoma",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-08-23",
+      "completion_date": "2019-04-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Mantle cell lymphoma (MCL) is characterized by cell cycle dysregulation. PD 0332991 is a cyclin-dependent kinase 4 and 6 inhibitor capable of inhibiting cell cycling of MCL. A phase I study has demonstrated the safety and anti-lymphoma activity of PD 0332991. Bortezomib is a first generation proteasome inhibitor approved for treatment of patients with recurrent MCL. Preclinical data suggests that PD 0332991 and bortezomib may act synergistically in MCL.\n\nPD 0332991 will be administered continuou",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed mantle cell lymphoma as defined by the World Health Organization. All patients must have either a demonstrated t(11;14) by karyotype, fluorescent in-situ hybridization (FISH) or positive immunohistochemistry for cycl",
+      "endpoints": [
+        "Determination of maximum tolerated dose (MTD) of PD 0332991 in combination with bortezomib in patients with recurrent mantle cell lymphoma"
+      ],
+      "sponsor": "Weill Medical College of Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT01111188"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00103272",
+      "title": "A Phase I Study of PS-341 (Velcade, Bortezomib) in Combination With 17-allylamino-17-demethoxygeldanamycin (17-AAG) in Patients With Relapsed or Refractory Hematologic Malignancies",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2005-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 74,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of 17-N-allylamino-17-demethoxygeldanamycin and bortezomib in treating patients with relapsed or refractory hematologic cancer. Drugs used in chemotherapy, such as 17-N-allylamino-17-demethoxygeldanamycin, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of 1 of the following hematologic malignancies:\n\n  * Acute myeloid leukemia or acute lymphoblastic leukemia\n\n    * Not a candidate for potentially curative therapy\n    * WBC ≤ 10,000/mm\\^3 OR WBC ≤ 40,000/mm\\^3 that is stable",
+      "endpoints": [
+        "Maximum tolerated dose (MTD) of bortezomib) in combination with 17-AAG)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00103272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00348985",
+      "title": "A Phase 1 Study of PXD101 in Combination With Bortezomib (PS-341) in Patients With Advanced Solid Tumors and Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 55,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of PXD101 and bortezomib in treating patients with advanced solid tumors or lymphomas. PXD101 and bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. PXD101 may also cause cancer cells to look more like normal cells, and to grow and spread more slowly. Giving PXD101 together with bortezomib may kill more cancer cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed solid tumor or lymphoma that is refractory to standard therapy or for which no standard therapy exists\n* No active, untreated, or symptomatic brain metastases\n\n  * Patients with treated brain metastases are eligible provided metastasis",
+      "endpoints": [
+        "Maximum tolerated dose of PXD101 in combination with bortezomib",
+        "Frequency and severity of treatment-related adverse events graded per NCI CTCAE version 3.0",
+        "Changes in biological markers (p21, cleaved PARP, IkB, p65 Rel A, p-AKT, p-ERK and apoptosis) from pre- to post-treatment"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00348985"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00737529",
+      "title": "A Phase 2, Multicenter, Single-Arm, Open-Label Study To Determine The Efficacy And Safety Of Single-Agent Lenalidomide (Revlimid®) In Patients With Mantel Cell NHL Who Have Relapsed Or Progressed After Treatment With Bortezomib Or Are Refractory To Bortezomib",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-12-22",
+      "completion_date": "2017-11-08",
+      "country": "Israel, France, Singapore, Spain, Puerto Rico, Turkey (Türkiye), Austria, Hungary, Italy, Germany, United Kingdom, Colombia, Belgium, United States",
+      "enrollment": 134,
+      "brief_summary": "To evaluate the safety and efficacy of Lenalidomide (Revlimid (R)) in subjects with mantle cell lymphoma who have relapsed, progressed or are refractory to bortezomib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Biopsy proven mantle cell lymphoma\n* Patients must have documents relapsed, refractory or PD after treatment with bortezomib\n* Must have measureable disease on cross sectional imaging by CT\n* Eastern Cooperative Oncology Group (ECOG) performance score 0,1 or 2\n* Willing to fol",
+      "endpoints": [
+        "Percentage of Participants Who Achieved an Overall Response According to the Independent Review Committee (IRC)",
+        "Kaplan Meier Estimate of Duration of Response (DoR) According to the Independent Review Committee"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT00737529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00377052",
+      "title": "A Phase II Study of Bortezomib and Gemcitabine in Patients With Relapsed Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-01-16",
+      "completion_date": "2011-06-21",
+      "country": "Canada",
+      "enrollment": 29,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the cancer. Drugs used in chemotherapy, such as gemcitabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Bortezomib may help gemcitabine work better by making cancer cells more sensitive to the drug.\n\nPURPOSE: This phase II trial is studying how well giving bortezomib together w",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed mantle cell lymphoma\n\n  * Relapsed disease\n* Not refractory to prior therapy\n\n  * Must have received 1-3 prior systemic chemotherapy regimens AND has had no disease progression while receiving chemotherapy or within 1 month of last dose of most re",
+      "endpoints": [
+        "Objective tumor response (overall response rate with 95% confidence interval)",
+        "Time to progression at median time",
+        "Duration of response (median and range)"
+      ],
+      "sponsor": "Canadian Cancer Trials Group",
+      "url": "https://clinicaltrials.gov/study/NCT00377052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00374699",
+      "title": "A Phase I/II Study of Bortezomib + CHOP in Patients With Advanced Stage Aggressive T Cell or NK/T Cell Lymphomas",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2009-10",
+      "country": "South Korea",
+      "enrollment": 55,
+      "brief_summary": "Peripheral T-cell lymphomas (PTCLs) are neoplasias from post-thymic T-cells at different stages of differentiation and are a heterogeneous group of malignancies which present with different morphological patterns, phenotypes, and clinical presentations.\n\nThese tumours have a striking epidemiological distribution with a lower incidence in Western countries than in Asia. In Korea, PTCLs including T- or natural killer (NK)-cell lymphomas constitute approximately 25 to 35% of all non-Hodgkin's lymph",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed PTCLs and NK/T cell lymphomas excluding anaplastic lymphoma kinase (ALK)-positive anaplastic large cell T-cell lymphomas (ALCL)\n* Performance status (ECOG) ≤ 3\n* Age ≤ 65\n* At least one or more unidimensionally measurable lesion(s)\n\n  * ≥ 2 cm by conve",
+      "endpoints": [
+        "To define the dose-limiting toxicity and maximum tolerable dose",
+        "To evaluate the overall response rate"
+      ],
+      "sponsor": "Samsung Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00374699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02877082",
+      "title": "Phase II Trial of Low Toxicity GVHD Prevention and Enhanced Immune Recovery With Tacrolimus, Bortezomib and Thymoglobulin® TBT",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2016-09",
+      "completion_date": "2017-07",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "This phase II trial studies how well tacrolimus, bortezomib, and anti-thymocyte globulin (thymoglobulin) work in preventing low toxicity graft versus host disease (GVHD) in patients with blood cancer who are undergoing donor stem cell transplant. Tacrolimus and anti-thymocyte globulin may reduce the risk of the recipient's body rejecting the transplant by suppressing the recipient's immune system. Giving bortezomib after the transplant may help prevent GVHD by stopping the donor's cells from att",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with acute leukemia, chronic myelogenous leukemia, myeloproliferative disorder and myelodysplasia with no circulating blasts and with less than 5% blasts in the bone marrow within 4 weeks of the start of transplant conditioning regimen\n* Patients with chronic lymphocy",
+      "endpoints": [
+        "Total Number of Serious Adverse Events and Adverse Events Related to This Immunosuppressive Regimen",
+        "Number of Patients Alive and Free of Severe Acute GVHD Following HLA Matched Related or Unrelated Donor Hematopoietic Peripheral Blood Transplant"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT02877082"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01449344",
+      "title": "Efficacy and Safety of Rituximab, High-dose Ara-C and Dexamethasone (R-HAD) Alone or in Combination With Bortezomib in Patients With Relapsed or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2009-05-09",
+      "completion_date": "2018-12",
+      "country": "Germany, France",
+      "enrollment": 128,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of rituximab, high-dose ara-c and dexamethasone (r-had) alone or in combination with bortezomib in patients with relapsed or refractory mantle cell lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed pathological diagnosis of MCL according to WHO classification.\n* Relapse or progression following 1 to 3 prior lines of anti-neoplastic standard therapy. Therapy in remission after initial induction like intensified chemotherapy for stem cell separation followed by m",
+      "endpoints": [
+        "Change from Baseline of diseased nodes and nodal masses."
+      ],
+      "sponsor": "European Mantle Cell Lymphoma Network",
+      "url": "https://clinicaltrials.gov/study/NCT01449344"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00702052",
+      "title": "An Open-Label, Single-Arm, Phase II Study of RAD001 in Patients With Mantle Cell Lymphoma Who Are Refractory or Intolerant to Velcade® (Bortezomib)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-08-22",
+      "completion_date": "2012-04-20",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "This study was to evaluate the safety and efficacy of a daily, oral dose of 10 mg RAD001 in participants with Mantle Cell Lymphoma who were refractory or intolerant to Velcade® therapy and who had received at least one prior antineoplastic agent other than Velcade®, either separately or in combination with Velcade® (see inclusion criteria). Intolerance to Velcade® therapy was determined by the study investigator based on clinical evaluations. Participants were considered refractory to Velcade® i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants (≥18 years old) with Mantle Cell Lymphoma that has been confirmed by central pathology review (archival diagnostic tumor specimen required).\n* Participants with mantle cell lymphoma who have documented refractory disease to Velcade® (bortezomib) or who have ",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00702052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01504776",
+      "title": "A Phase I Study of Panobinostat in Combination With Bortezomib in the Treatment of Relapsed and/or Refractory Mantle Cell Lymphoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2014-09",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "The purpose of this study is to determine the safety and clinical efficacy of the combination of panobinostat plus bortezomib.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients aged ≥ 18 years old\n* Ability to provide written informed consent obtained prior to participation in the study and any related procedures being performed\n* Patients must have adequate hematology/chemistry lab values\n* Echocardiogram (ECHO) must demonstr",
+      "endpoints": [
+        "Dose-Limiting Toxicity (DLT) and Maximum Tolerated Dose (MTD)"
+      ],
+      "sponsor": "Augusta University",
+      "url": "https://clinicaltrials.gov/study/NCT01504776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00310037",
+      "title": "A Randomized Phase II Trial of Maintenance vs Consolidation Bortezomib Therapy Following Aggressive Chemo-Immunotherapy and Autologous Stem Cell Transplant for Previously Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2022-06",
+      "country": "United States",
+      "enrollment": 151,
+      "brief_summary": "This randomized phase II trial studies how well bortezomib works when given after combination chemotherapy, rituximab, and an autologous stem cell transplant in treating patients with mantle cell lymphoma. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination che",
+      "eligibility_criteria": "1. Documentation of Disease\n\n   A. Histologic Documentation:\n   * Histologically documented mantle cell lymphoma with co-expression of CD20 (or CD19) and CD5 and lack of CD23 expression by immunophenotyping AND at least one of the following confirmatory tests:\n\n     * positive immunostaining for cyc",
+      "endpoints": [
+        "Progression-free Survival Rate at 18 Months"
+      ],
+      "sponsor": "Alliance for Clinical Trials in Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT00310037"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00711828",
+      "title": "A Phase 2 Clinical Trial of Rituximab, Cyclophosphamide, Bortezomib (VELCADE), and Dexamethasone (R-CYBOR-D) in Relapsed Low Grade and Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2018-04-06",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "This phase II trial is studying how well giving rituximab and cyclophosphamide together with bortezomib and dexamethasone (R-CyBor-D) works in treating patients with relapsed or refractory low-grade follicular lymphoma, Waldenstrom macroglobulinemia, or mantle cell lymphoma. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological confirmation of relapsed or refractory follicular Grades 1 or 2 lymphoma, mantle cell lymphoma (MCL), small lymphocytic lymphoma/chronic lymphocytic leukemia (SLL/CLL), extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (MALT) type, noda",
+      "endpoints": [
+        "Proportion of Responses (Complete Response or Partial Response)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00711828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00295932",
+      "title": "A Phase II Study of the Novel Proteasome Inhibitor Bortezomib in Combination With Rituximab, Cyclophosphamide and Prednisone in Patients With Relapsed/Refractory Indolent B-Cell Lymphoproliferative Disorders and Mantle Cell Lymphoma (MCL)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-12-13",
+      "completion_date": "2018-03-11",
+      "country": "United States",
+      "enrollment": 79,
+      "brief_summary": "RATIONALE: Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as cyclophosphamide and prednisone, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carr",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of 1 of the following:\n\n  * Chronic lymphocytic leukemia (CLL)\n  * B-cell small lymphocytic leukemia (SLL)\n  * Any marginal zone lymphoma\n  * Grade 1-3A follicular lymphoma\n  * Waldenstrom's macroglobulinemia\n  * Mantle cell lymphoma\n* N",
+      "endpoints": [
+        "Maximum Tolerated Dose"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00295932"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02037256",
+      "title": "A Pilot Study of Peripheral Blood Hematopoietic Stem Cell Mobilization With the Combination of Bortezomib and G-CSF in Multiple Myeloma and Non-Hodgkin's Lymphoma Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2015-01-21",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "This clinical trial studies peripheral blood hemapoietic stem cell mobilization with the combination of bortezomib and G-CSF (filgrastim) in multiple myeloma and non-Hodgkin lymphoma patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary written informed consent form before performance of any study-related procedure not part of normal medical care, with the understanding that consent may be withdrawn by the subject at any time without prejudice to future medical care\n* Diagnosis of B-type NHL or with",
+      "endpoints": [
+        ">= 2 Fold Increase in Circulating PBSC's"
+      ],
+      "sponsor": "Barbara Ann Karmanos Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02037256"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01119794",
+      "title": "Ofatumumab in Combination With Bortesomib in Patients With Relapsed or Refractory Low-Grade Non-Hodgkins Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-07",
+      "completion_date": "2015-07",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to: Investigate the Overall Response Rate (ORR) of the combination of ofatumumab and bortezomib in patients with low-grade B-cell non-Hodgkin lymphoma (LG-NHL) that relapse beyond 6 months of a previous rituximab-containing regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients are required to have histologically confirmed lymphoma according to the WHO/Revised European-American Lymphoma classification, including B-cell small lymphocytic lymphoma (SLL); marginal zone lymphoma (MZL); follicular lymphoma (FL), grades 1, 2, or 3; mantle cell lym",
+      "endpoints": [
+        "Overall Response Rate (ORR) of the Combination of Ofatumumab and Bortezomib in Patients Receiving Study Treatment"
+      ],
+      "sponsor": "Brown University",
+      "url": "https://clinicaltrials.gov/study/NCT01119794"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01460602",
+      "title": "Phase 1/2 Study of VELCADE (Bortezomib), Nipent (Pentostatin), and Rituxan (Rituximab) (VNR) in Subjects With Relapsed Follicular, Marginal Zone, and Mantle Cell Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2010-05",
+      "completion_date": "2014-10",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This is a phase 1/2 Study of VELCADE (bortezomib), Nipent (pentostatin), and Rituxan (rituximab) (VNR) in Subjects with Relapsed Follicular, Marginal Zone, and Mantle Cell Lymphoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntary written informed consent.\n2. Male or female subject 18 years of age and older\n3. Karnofsky Performance Status (KPS) score of 50%. ECOG Performance Status score greater than 2.\n4. Histologically confirmed follicular Grade 1-3a, marginal zone or mantle cell NHL.\n5. Re",
+      "endpoints": [
+        "CR following treatment with VELCADE(bortezomib)/Nipent(pentostatin/Rituxan (rituximab)(VNR) in subjects with follicular lymphoma(FL), marginal zone lymphoma (MZL), and mantle cell lymphoma (MCL)relapsed or refractory after at least 1 prior therapy",
+        "ORR following treatment with VELCADE(bortezomib)/Nipent(pentostatin/Rituxan (rituximab)(VNR) in subjects with follicular lymphoma(FL), marginal zone lymphoma (MZL), and mantle cell lymphoma (MCL)relapsed or refractory after at least 1 prior therapy"
+      ],
+      "sponsor": "Louisiana State University Health Sciences Center Shreveport",
+      "url": "https://clinicaltrials.gov/study/NCT01460602"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00513955",
+      "title": "A Parallel Randomised Phase II Trial of CHOP Chemotherapy With or Without Bortezomib in Relapsed Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2014-10",
+      "country": "United Kingdom",
+      "enrollment": 50,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as cyclophosphamide, doxorubicin, vincristine, and prednisolone, work in different ways to stop the growth of cancer cells, either by killing the cells or stopping them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving combination chemotherapy together with bortezomib may kill more cancer cells. It is not yet known whether combination chemotherapy is more effective with or witho",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of mantle cell lymphoma (MCL)\n\n  * Expression of cyclin D1 or evidence of t(11;14) translocation by cytogenetics, FISH, or polymerase chain reaction\n* Refractory to or relapsed or progressed after first line antineoplastic therapy\n* Measurable disease\n\nPATIENT C",
+      "endpoints": [
+        "Disease progression",
+        "Unacceptable toxicity or tolerability as assessed by NCI CTCAE v3.0"
+      ],
+      "sponsor": "University Hospital Plymouth NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT00513955"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03616782",
+      "title": "Multicenter Phase II Study of Ixazomib Maintenance in Patients With Newly Diagnosed Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2018-12-24",
+      "completion_date": "2026-05-31",
+      "country": "South Korea",
+      "enrollment": 98,
+      "brief_summary": "1. Induction chemotherapy 1) RCHOP(Rituximab+Cyclophosphamide+Doxorubicin+Vincristine+Prednisone) 2) VR-CAP (Bortezomib+Rituximab+Cyclophosphamide+Doxorubicin+Prednisone)\n\n   Patients who have received induction chemotherapy will be evaluated for responses and those who achieved more than PR(Partial response) or PR will be eligible for this study after receiving informed consents.\n2. Experimental step Maintenance ixazomib beginning at least 8 weeks after completion of induction chemotherapy, pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients aged ≥19 years\n2. Histologically confirmed mantle cell lymphoma (MCL) meeting the following criteria: determined by histology and either expression of cyclin D1 (in association with CD20 and CD5) or evidence of t(11;14) translocation (by cytogenetics, ",
+      "endpoints": [
+        "2-year PFS rates in adult patients with newly diagnosed Mantle Cell Lymphoma"
+      ],
+      "sponsor": "Kosin University Gospel Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03616782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00837174",
+      "title": "Phase II Study of Combination Vorinostat and Bortezomib in Patients With Relapsed and/or Refractory Non-Hodgkin Lymphoma",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2010-06",
+      "completion_date": "2012-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to determine the rate of response to the drugs bortezomib (Velcade) and vorinostat (Zolinza), when used in combination, in patients with relapsed (recurrent) and/or refractory (difficult to treat) non-Hodgkin Lymphoma, and to determine the safety and tolerability of this regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed non-Hodgkin Lymphoma including small lymphocytic lymphoma, lymphoplasmacytic lymphoma, follicular center cell lymphoma, mantle cell lymphoma, marginal zone lymphoma, diffuse large B cell lymphoma, Burkitt's lymphoma, lymphoblastic lymphoma, anaplastic ",
+      "endpoints": [
+        "Determine the response rate of this regimen in this patient population."
+      ],
+      "sponsor": "The Methodist Hospital Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00837174"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00237627",
+      "title": "A Phase I Evaluation of the Combination of Pegylated Liposomal Doxorubicin (Doxil®) With PS-341 in Patients With Refractory Hematologic and Solid Malignancies",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 107,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as doxorubicin hydrochloride liposome, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Bortezomib may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth. Giving doxorubicin hydrochloride liposome together with bortezomib may kill more cancer cells.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of bortezomib when giv",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\nPhase I (closed to accrual as of 10/15/2007)\n\n* Histologically or cytologically confirmed solid tumor or hematologic malignancy, including, but not limited to, any of the following:\n\n  * Breast cancer\n  * Ovarian cancer\n  * Myeloid or lymphoid leukemia\n  * Hodgkin or non-Ho",
+      "endpoints": [
+        "Maximum tolerated dose (MTD) of PS-341 in combination with Doxil (Phase I)",
+        "Response rate of the combination of Velcade and Doxil in patients with metastatic breast cancer"
+      ],
+      "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00237627"
+    }
+  ],
+  "timestamp": "2026-03-04T16:56:35.803933",
+  "success": true,
+  "error_message": null
+}

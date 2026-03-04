@@ -1,0 +1,500 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "uterine corpus cancer",
+    "query_string": "Progesterone AND uterine corpus cancer"
+  },
+  "data": {
+    "query": "Progesterone AND uterine corpus cancer",
+    "results": [
+      {
+        "pmid": "40590223",
+        "title": "Endometriosis and ovulatory menstruation: beyond the Sampson principle.",
+        "abstract": "Endometriosis is an estrogen-dependent chronic inflammatory syndrome characterized by viable endometrial tissue outside the uterine cavity and associated with pain and infertility. Endometriosis, as tissue or a pathological process, is dynamic in that its establishment and progression require repeated episodes of retrograde travel of shed endometrial tissue, which implants in the lower abdominal cavity following ovulatory cycles and survives. Estrogen-rich follicular fluid released onto peritoneal surfaces during ovulation may also support endometriotic implants. DNA evidence indicates that endometriosis originates from eutopic endometrial tissue, which may reach the abdominal cavity in a retrograde manner primarily via the uterine tubes. Unlike uterine bleeding associated with non-ovulatory circumstances, retrograde menstruation following an ovulation maximizes shedding of epithelial cells localized to deep invaginations of the basalis portion of the endometrium, which likely carry so",
+        "journal": "The Journal of clinical investigation",
+        "year": "2025",
+        "authors": [
+          "Bulun Serdar E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Ovulation",
+          "Endometrium",
+          "Menstruation",
+          "Animals",
+          "Estrogens"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40590223/"
+      },
+      {
+        "pmid": "37307879",
+        "title": "The KAT6B::KANSL1 Fusion Defines a New Uterine Sarcoma With Hybrid Endometrial Stromal Tumor and Smooth Muscle Tumor Features.",
+        "abstract": "Neoplasms harboring a KAT6B/A::KANSL1 fusion were initially reported as benign (leiomyomas) and malignant (leiomyosarcomas, low-grade endometrial stromal sarcomas [LG-ESSs]) uterine neoplasms. However, they may represent an emerging entity characterized by clinical aggressiveness contrasting with a rather reassuring microscopic appearance. Here, we aimed to confirm that this neoplasm is a distinct clinicopathologic and molecular sarcoma and identify criteria that should alert pathologists and lead to KAT6B/A::KANSL1 fusion testing in routine practice. Therefore, we conducted a comprehensive clinical, histopathologic, immunohistochemical, and molecular study, including array comparative genomic hybridization, whole RNA-sequencing, unsupervised clustering, and cDNA mutational profile analyses of 16 tumors with KAT6B::KANSL1 fusion from 12 patients. At presentation, patients were peri-menopausal (median, 47.5 years), and the primary tumors were located in the uterine corpus (12/12, 100%),",
+        "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+        "year": "2023",
+        "authors": [
+          "Trecourt Alexis",
+          "Azmani Rihab",
+          "Hostein Isabelle",
+          "Blanchard Larry",
+          "Le Loarer François"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37307879/"
+      },
+      {
+        "pmid": "2343294",
+        "title": "RU 486.",
+        "abstract": "",
+        "journal": "Scientific American",
+        "year": "1990",
+        "authors": [
+          "Ulmann A",
+          "Teutsch G",
+          "Philibert D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abortion, Induced",
+          "Animals",
+          "Developing Countries",
+          "Endometrium",
+          "Female",
+          "France",
+          "Humans",
+          "Mifepristone",
+          "Models, Molecular",
+          "Molecular Structure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2343294/"
+      },
+      {
+        "pmid": "18580312",
+        "title": "Mesonephric adenocarcinoma of the uterine corpus: a case report and review of the literature.",
+        "abstract": "Mesonephric adenocarcinoma (MA) is a rare tumor of the female genital tract, mainly in the cervix and vagina, which is usually associated with mesonephric remnants or mesonephric hyperplasia. In the uterus corpus, MA is as rare as mesonephric structures, and only a few cases have been previously reported. Here, we report a rare case of MA of the uterine corpus. A 73-year-old woman presented with multiple nodules in the bilateral lung. Abdominal computed tomography scan confirmed a uterine tumor measuring 8.6 cm. All tumor markers, including CA125, were within normal limits. A total hysterectomy and bilateral salpingo-oophorectomy were performed. The tumor was confined to the myometrium and showed strong resemblance to cervical MA despite the absence of mesonephric hyperplasia or remnants. The most striking pattern consisted of large sheets of small round tubules, often with densely eosinophilic secretions in the lumen. In addition, the ductal pattern simulating endometrioid adenocarcin",
+        "journal": "International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists",
+        "year": "2008",
+        "authors": [
+          "Wani Yoji",
+          "Notohara Kenji",
+          "Tsukayama Choutatsu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Female",
+          "Humans",
+          "Uterine Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18580312/"
+      },
+      {
+        "pmid": "38508521",
+        "title": "Expanding the Spectrum of NR4A3 Fusion-Positive Gynecologic Leiomyosarcomas.",
+        "abstract": "Recurrent gene fusions have been observed in epithelioid and myxoid variants of uterine leiomyosarcoma. PGR::NR4A3 fusions were recently described in a subset of epithelioid leiomyosarcomas exhibiting rhabdoid morphology. In this study, we sought to expand the clinical, morphologic, immunohistochemical, and genetic features of gynecologic leiomyosarcomas harboring NR4A3 rearrangements with PGR and novel fusion partners. We identified 9 gynecologic leiomyosarcomas harboring PGR::NR4A3, CARMN::NR4A3, ACTB::NR4A3, and possible SLCO5A1::NR4A3 fusions by targeted RNA sequencing. Tumors frequently affected premenopausal women, involving the uterine corpus, uterine cervix, or pelvis. All were similarly characterized by lobules of monomorphic epithelioid and/or spindled cells arranged in sheets, cords, trabeculae, and micro- and macrocysts associated with abundant myxoid matrix and hemorrhage, creating labyrinth-like or pulmonary edema-like architecture. Myogenic differentiation with frequent ",
+        "journal": "Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc",
+        "year": "2024",
+        "authors": [
+          "Momeni-Boroujeni Amir",
+          "Mullaney Kerry",
+          "DiNapoli Sara E",
+          "Leitao Mario M",
+          "Hensley Martee L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Leiomyosarcoma",
+          "Middle Aged",
+          "Adult",
+          "Receptors, Thyroid Hormone",
+          "Receptors, Steroid",
+          "Biomarkers, Tumor",
+          "DNA-Binding Proteins",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38508521/"
+      },
+      {
+        "pmid": "6842804",
+        "title": "Risk of breast, uterine corpus, and ovarian cancer in women receiving medroxyprogesterone injections.",
+        "abstract": "Animal studies have yielded conflicting results on the carcinogenicity of long-acting progestins. Since more than 1.5 million women worldwide are currently receiving injections of a contraceptive progestin, depot medroxyprogesterone acetate, this is potentially an important public health problem. We obtained information on the occurrence of breast, uterine, and ovarian cancer among 5,000 black women attending a metropolitan hospital's family planning clinic who had received injections of medroxyprogesterone for contraception (between 1967 and 1976). The women were followed up for four to 13 years after their initial medroxyprogesterone injection. We compared the observed number of cancer cases in these women with the expected number based on annual age-, race-, and sex-specific rates derived from National Cancer Institute data. During more than 40,000 woman-years of observation, we found no evidence of an increased risk of developing cancer of the breast, uterine corpus, or ovary in th",
+        "journal": "JAMA",
+        "year": "1983",
+        "authors": [
+          "Liang A P",
+          "Levenson A G",
+          "Layde P M",
+          "Shelton J D",
+          "Hatcher R A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Black People",
+          "Breast Neoplasms",
+          "Child",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Injections",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6842804/"
+      },
+      {
+        "pmid": "34625284",
+        "title": "Phase 2 study of anastrozole in rare cohorts of patients with estrogen receptor/progesterone receptor positive leiomyosarcomas and carcinosarcomas of the uterine corpus: The PARAGON trial (ANZGOG 0903).",
+        "abstract": "Aromatase inhibitors have been used empirically to treat a subset of patients with hormone receptor positive uterine leiomyosarcomas(LMS) and carcinosarcomas (UCS) mainly supported by retrospective data. We evaluated the activity of anastrozole in two rare cohorts; patients with recurrent/metastatic LMS and UCS enrolled in PARAGON, a basket trial of anastrozole in estrogen receptor (ER+)/progesterone receptor positive (PR+) gynecological cancers.",
+        "journal": "Gynecologic oncology",
+        "year": "2021",
+        "authors": [
+          "Edmondson R J",
+          "O'Connell R L",
+          "Banerjee S",
+          "Mileshkin L",
+          "Sykes P"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anastrozole",
+          "Aromatase Inhibitors",
+          "Carcinosarcoma",
+          "Female",
+          "Humans",
+          "Leiomyosarcoma",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34625284/"
+      },
+      {
+        "pmid": "4590322",
+        "title": "Luteal phase insufficiency.",
+        "abstract": "",
+        "journal": "Clinical obstetrics and gynecology",
+        "year": "1973",
+        "authors": [
+          "Jones G S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Body Temperature",
+          "Cervix Mucus",
+          "Chorionic Gonadotropin",
+          "Contraceptives, Oral",
+          "Corpus Luteum",
+          "Endometrium",
+          "Estrogens",
+          "Female",
+          "Follicle Stimulating Hormone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4590322/"
+      },
+      {
+        "pmid": "23348207",
+        "title": "Embryonal rhabdomyosarcoma (botryoid type) of the uterine corpus and cervix in adult women: report of a case series and review of the literature.",
+        "abstract": "In its classical form, embryonal rhabdomyosarcoma (ERMS, botryoid type) is a vaginal neoplasm occurring in infants and young girls and is often not considered in the differential diagnosis of uterine corpus and cervical spindle cell tumors in adult women. Clinicopathologic and immunohistochemical features of 25 cases of ERMS in women 20 years of age or older were analyzed. Patient age ranged from 20 to 89 years (mean, 44.4 y; median, 46 y), with 8 patients aged 20 to 39 years, 14 patients aged 40 to 59 years, and 3 patients older than 60 years of age. Tumors originated in the cervix in 20 cases and in the uterine corpus in 5. They were characterized by an edematous hypocellular spindle cell proliferation, typically with cellular condensation beneath epithelial surfaces (cambium layer), in which tightly packed hypercellular foci were scattered. Neoplastic cells had hyperchromatic nuclei and minimal cytoplasm, usually with delicate cytoplasmic processes. Occasionally, elongated or globul",
+        "journal": "The American journal of surgical pathology",
+        "year": "2013",
+        "authors": [
+          "Li Rose Fanghong",
+          "Gupta Mamta",
+          "McCluggage W Glenn",
+          "Ronnett Brigitte M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Immunohistochemistry",
+          "Middle Aged",
+          "Rhabdomyosarcoma, Embryonal",
+          "Uterine Cervical Neoplasms",
+          "Uterine Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23348207/"
+      },
+      {
+        "pmid": "30236463",
+        "title": "Development of the human female reproductive tract.",
+        "abstract": "Development of the human female reproductive tract is reviewed from the ambisexual stage to advanced development of the uterine tube, uterine corpus, uterine cervix and vagina at 22 weeks. Historically this topic has been under-represented in the literature, and for the most part is based upon hematoxylin and eosin stained sections. Recent immunohistochemical studies for PAX2 (reactive with Müllerian epithelium) and FOXA1 (reactive with urogenital sinus epithelium and its known pelvic derivatives) shed light on an age-old debate on the derivation of vaginal epithelium supporting the idea that human vaginal epithelium derives solely from urogenital sinus epithelium. Aside for the vagina, most of the female reproductive tract is derived from the Müllerian ducts, which fuse in the midline to form the uterovaginal canal, the precursor of uterine corpus and uterine cervix an important player in vaginal development as well. Epithelial and mesenchymal differentiation markers are described dur",
+        "journal": "Differentiation; research in biological diversity",
+        "year": "2018",
+        "authors": [
+          "Cunha Gerald R",
+          "Robboy Stanley J",
+          "Kurita Takeshi",
+          "Isaacson Dylan",
+          "Shen Joel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Genitalia, Female",
+          "Homeodomain Proteins",
+          "Humans",
+          "LIM-Homeodomain Proteins",
+          "Mullerian Ducts",
+          "Receptors, Progesterone",
+          "Transcription Factors",
+          "Tumor Suppressor Proteins",
+          "Uterus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30236463/"
+      },
+      {
+        "pmid": "26142884",
+        "title": "Development of a technique to detect the activated form of the progesterone receptor and correlation with clinical and histopathological characteristics of endometrioid adenocarcinoma of the uterine corpus.",
+        "abstract": "Hormonal therapy is generally reserved for patients with endometrial cancers that fail cytotoxic chemotherapy, but there is a lack of sufficiently sensitive diagnostics to identify potential responders. We sought to develop a diagnostic technique to detect activated progesterone receptors (APR) in endometrial cancers using routine immunohistochemistry (IHC) and to correlate the presence of APR with other histopathological features and clinical disease stage.",
+        "journal": "Gynecologic oncology",
+        "year": "2015",
+        "authors": [
+          "Bonneterre Jacques",
+          "Hutt Emilie",
+          "Bosq Jacques",
+          "Graham J Dinny",
+          "Powell Matthew A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Carcinoma, Endometrioid",
+          "Endometrial Neoplasms",
+          "Estrogen Receptor alpha",
+          "Female",
+          "Formaldehyde",
+          "Humans",
+          "Immunohistochemistry",
+          "Ki-67 Antigen",
+          "Neoplasm Grading",
+          "Neoplasm Staging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26142884/"
+      },
+      {
+        "pmid": "26510860",
+        "title": "Mesonephric Adenocarcinoma of the Uterine Corpus: A Case Report and Diagnostic Pitfall.",
+        "abstract": "Mesonephric adenocarcinoma is a rare tumor type that is usually found in areas where the Wolffian duct was present during the fetal period. We report a case of mesonephric adenocarcinoma of the uterine corpus in a 66-year-old woman who presented with vaginal bleeding. Pelvic magnetic resonance imaging revealed a 2.7-cm-sized irregular thickening and enhancement of the uterine body. The diagnosis following endometrial curettage biopsy was endometrioid adenocarcinoma, and the patient underwent a total hysterectomy with bilateral salpingo-oophorectomy. The tumor was composed of small tubular and ductal components, and a retiform appearance was also observed in the deeper areas. The tumor cells were immunopositive for cytokeratin, vimentin, CD10 with a luminal staining pattern, PAX2, and PAX8, and immunonegative for estrogen receptor and progesterone receptor, which was consistent with tumor of mesonephric origin. Mesonephric neoplasms reveal relatively low-grade nuclear feature, character",
+        "journal": "International journal of surgical pathology",
+        "year": "2016",
+        "authors": [
+          "Kim Sung Sun",
+          "Nam Jong Hee",
+          "Kim Ga-Eon",
+          "Choi Yoo Duk",
+          "Choi Chan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Biomarkers, Tumor",
+          "Female",
+          "Humans",
+          "Immunohistochemistry",
+          "Uterine Neoplasms",
+          "Wolffian Ducts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26510860/"
+      },
+      {
+        "pmid": "20492385",
+        "title": "Gene expression profiles and microsatellite instability in uterine corpus endometrioid adenocarcinoma.",
+        "abstract": "We examined corpus cancer to identify whether there are distinctive patterns of global gene expression and microsatellite instability, and to gain molecular understanding of its carcinogenesis and progression.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2010",
+        "authors": [
+          "Koyamatsu Yasuko",
+          "Sakamoto Masaru",
+          "Miyake Kiyohiko",
+          "Muroya Tetsuya",
+          "Sugano Kokichi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Biomarkers, Tumor",
+          "Carcinoma, Endometrioid",
+          "Chi-Square Distribution",
+          "Female",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation, Neoplastic",
+          "Humans",
+          "Immunohistochemistry",
+          "Microsatellite Instability",
+          "Oligonucleotide Array Sequence Analysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20492385/"
+      },
+      {
+        "pmid": "21845366",
+        "title": "Extragonadal actions of chorionic gonadotropin.",
+        "abstract": "The primary embryonic signal in primates is chorionic gonadotropin (CG, designated hCG in humans), that is classically associated with corpus luteum rescue and progesterone production. However, research over the past decade has revealed the presence of the hCG receptor in a variety of extragonadal tissues. Additionally, discoveries of the multiple variants of hCG, namely, native hCG, hyperglycosylated hCG (hyp-hCG) and the β- subunit of the hyperglycosylated hCG (hCG-free β) has established a role for extragonadal actions of hCG. For the initiation and maintenance of pregnancy, hCG mediates multiple placental, uterine and fetal functions. Some of these include development of syncytiotrophoblast cells, mitotic growth and differentiation of the endometrium, localized suppression of the maternal immune system, modulation of uterine morphology and gene expression and coordination of intricate signal transduction between the endometrium. Recurrent pregnancy loss, pre-eclampsia and endometri",
+        "journal": "Reviews in endocrine & metabolic disorders",
+        "year": "2011",
+        "authors": [
+          "Banerjee Prajna",
+          "Fazleabas Asgerally T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Chorionic Gonadotropin",
+          "Female",
+          "Gonads",
+          "Humans",
+          "Models, Biological",
+          "Pregnancy",
+          "Pregnancy Tests",
+          "Signal Transduction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21845366/"
+      },
+      {
+        "pmid": "11603221",
+        "title": "Clinicopathologic and immunohistochemical features and microsatellite status of endometrial cancer of the uterine isthmus.",
+        "abstract": "To clarify the clinicopathologic, molecular, and immunohistochemical characteristics of uterine isthmic endometrial cancer (UIE), we examined 13 cases of UIE and compared them with 33 cases of endometrial cancer of the uterine corpus (UCE) with respect to clinicopathologic factors, the expression of p53, the estrogen receptor (ER) and the progesterone receptor (PR) status, DNA ploidy, and microsatellite instability (MSI). Five (38.4%) of the UIE patients had stage I, two (15.4%) had stage II, and six (46.2%) had stage III disease (FIGO 1988). Myometrial invasion was confirmed in 92.3% of the UIE patients, and these patients had a higher (p < 0.05) frequency of > 50% myometrial invasion (46.2%) than the patients with UCE (15.2%). Moreover, the UIE patients had a higher frequency of positive peritoneal cytology (p < 0.05) and pelvic lymph node metastases (p < 0.05). No UIE tumors exhibited MSI, and the tumors in these patients had a higher expression of p53 (p < 0.01), a lower expression",
+        "journal": "International journal of gynecological pathology : official journal of the International Society of Gynecological Pathologists",
+        "year": "2001",
+        "authors": [
+          "Watanabe Y",
+          "Nakajima H",
+          "Nozaki K",
+          "Ueda H",
+          "Obata K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aneuploidy",
+          "DNA, Neoplasm",
+          "Endometrial Neoplasms",
+          "Female",
+          "Flow Cytometry",
+          "Humans",
+          "Immunohistochemistry",
+          "Lymphatic Metastasis",
+          "Menopause",
+          "Microsatellite Repeats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11603221/"
+      },
+      {
+        "pmid": "29806794",
+        "title": "The history of natural progesterone, the never-ending story.",
+        "abstract": "The term progesterone should only be used for the natural hormone produced by the ovaries or included in a registered drug. The modern history of progesterone begins with the first book-length description of the female reproductive system including the corpus luteum and later with the Nobel Prize winner, Adolf Butenandt who took a crucial step when he succeeded in converting pregnanediol into a chemically pure form of progesterone, the corpus luteum hormone. The deficient production of progesterone was shown first to be the cause of the luteal-phase deficiency responsible for infertility and early pregnancy loss due to inadequate secretory transformation of the endometrium. Later, progesterone was confirmed to be the best and safest method of providing luteal-phase support in assisted reproductive technology. Progesterone provides adequate endometrial protection and is suggested to be the optimal progestagen in menopausal hormone therapy in terms of cardiovascular effects, venous throm",
+        "journal": "Climacteric : the journal of the International Menopause Society",
+        "year": "2018",
+        "authors": [
+          "Piette P"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Endometrium",
+          "Female",
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Infertility, Female",
+          "Luteal Phase",
+          "Pregnancy",
+          "Premature Birth"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29806794/"
+      },
+      {
+        "pmid": "7039906",
+        "title": "Epidemiology of cancer of the endometrium.",
+        "abstract": "",
+        "journal": "Clinical obstetrics and gynecology",
+        "year": "1982",
+        "authors": [
+          "Mahboubi E",
+          "Eyler N",
+          "Wynder E L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Climacteric",
+          "Diabetes Complications",
+          "Estrogens",
+          "Ethnicity",
+          "Female",
+          "Gonadal Steroid Hormones",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7039906/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:01:19.194173",
+  "success": true,
+  "error_message": null
+}

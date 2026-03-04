@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Thiotepa"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB04572",
+    "name": "Thiotepa",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:44:35.543472",
+  "success": true,
+  "error_message": null
+}

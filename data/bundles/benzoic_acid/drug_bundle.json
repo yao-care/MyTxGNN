@@ -1,0 +1,852 @@
+{
+  "drug": {
+    "name": "Benzoic Acid",
+    "drugbank_id": "DB03793",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "pemphigus",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "dermatomyositis",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "systemic sclerosis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33118131",
+            "title": "A Nitroalkene Benzoic Acid Derivative Targets Reactive Microglia and Prolongs Survival in an Inherited Model of ALS via NF-κB Inhibition.",
+            "abstract": "Motor neuron degeneration and neuroinflammation are the most striking pathological features of amyotrophic lateral sclerosis (ALS). ALS currently has no cure and approved drugs have only a modest clinically therapeutic effect in patients. Drugs targeting different deleterious inflammatory pathways in ALS appear as promising therapeutic alternatives. Here, we have assessed the potential therapeutic effect of an electrophilic nitroalkene benzoic acid derivative, (E)-4-(2-nitrovinyl) benzoic acid (BANA), to slow down paralysis progression when administered after overt disease onset in SOD1G93A rats. BANA exerted a significant inhibition of NF-κB activation in NF-κB reporter transgenic mice and microglial cell cultures. Systemic daily oral administration of BANA to SOD1G93A rats after paralysis onset significantly decreased microgliosis and astrocytosis, and significantly reduced the number of NF-κB-p65-positive microglial nuclei surrounding spinal motor neurons. Numerous microglia bearing",
+            "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+            "year": "2021",
+            "authors": [
+              "Ibarburu Sofía",
+              "Kovacs Mariángeles",
+              "Varela Valentina",
+              "Rodríguez-Duarte Jorge",
+              "Ingold Mariana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Amyotrophic Lateral Sclerosis",
+              "Animals",
+              "Cells, Cultured",
+              "Disease Models, Animal",
+              "HT29 Cells",
+              "Humans",
+              "Mice",
+              "Mice, Inbred BALB C",
+              "Mice, Inbred C57BL",
+              "Mice, Transgenic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33118131/"
+          },
+          {
+            "pmid": "33331912",
+            "title": "The intracellular chloride channel 4 (CLIC4) activates systemic sclerosis fibroblasts.",
+            "abstract": "Tissue fibrosis in SSc is driven by active fibroblasts (myofibroblasts). Previous studies have shown the intracellular chloride channel 4 (CLIC4) mediates the activation of cancer-associated fibroblasts. In this study we investigated the role of CLIC4 in SSc fibroblast activation.",
+            "journal": "Rheumatology (Oxford, England)",
+            "year": "2021",
+            "authors": [
+              "Wasson Christopher W",
+              "Ross Rebecca L",
+              "Morton Ruth",
+              "Mankouri Jamel",
+              "Del Galdo Francesco"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Cell Line",
+              "Chloride Channels",
+              "Fibroblasts",
+              "Humans",
+              "Myofibroblasts",
+              "Scleroderma, Systemic",
+              "Signal Transduction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33331912/"
+          },
+          {
+            "pmid": "33078092",
+            "title": "Design, synthesis, molecular modeling, and biological evaluation of acrylamide derivatives as potent inhibitors of human dihydroorotate dehydrogenase for the treatment of rheumatoid arthritis.",
+            "abstract": "Human dihydroorotate dehydrogenase (DHODH) is a viable target for the development of therapeutics to treat cancer and immunological diseases, such as rheumatoid arthritis (RA), psoriasis and multiple sclerosis (MS). Herein, a series of acrylamide-based novel DHODH inhibitors as potential RA treatment agents were designed and synthesized. 2-Acrylamidobenzoic acid analog 11 was identified as the lead compound for structure-activity relationship (SAR) studies. The replacement of the phenyl group with naphthyl moieties improved inhibitory activity significantly to double-digit nanomolar range. Further structure optimization revealed that an acrylamide with small hydrophobic groups (Me, Cl or Br) at the 2-position was preferred. Moreover, adding a fluoro atom at the 5-position of the benzoic acid enhanced the potency. The optimization efforts led to potent compounds 42 and 53‒55 with IC50 values of 41, 44, 32, and 42 nmol/L, respectively. The most potent compound 54 also displayed favorable",
+            "journal": "Acta pharmaceutica Sinica. B",
+            "year": "2020",
+            "authors": [
+              "Zeng Fanxun",
+              "Li Shiliang",
+              "Yang Guantian",
+              "Luo Yating",
+              "Qi Tiantian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33078092/"
+          },
+          {
+            "pmid": "9462746",
+            "title": "A novel neurological phenotype in mice lacking mitochondrial manganese superoxide dismutase.",
+            "abstract": "Reactive oxygen species (ROS) have been implicated in a wide range of degenerative processes including amyotrophic lateral sclerosis, ischemic heart disease, Alzheimer disease, Parkinson disease and aging. ROS are generated by mitochondria as the toxic by-products of oxidative phosphorylation, their energy generating pathway. Genetic inactivation of the mitochondrial form of superoxide dismutase in mice results in dilated cardiomyopathy, hepatic lipid accumulation and early neonatal death. We report that treatment with the superoxide dismutase (SOD) mimetic Manganese 5, 10, 15, 20-tetrakis (4-benzoic acid) porphyrin (MnTBAP) rescues these Sod2tm1Cje(-/-) mutant mice from this systemic pathology and dramatically prolongs their survival. The animals instead develop a pronounced movement disorder progressing to total debilitation by three weeks of age. Neuropathologic evaluation reveals a striking spongiform degeneration of the cortex and specific brain stem nuclei associated with gliosis",
+            "journal": "Nature genetics",
+            "year": "1998",
+            "authors": [
+              "Melov S",
+              "Schneider J A",
+              "Day B J",
+              "Hinerfeld D",
+              "Coskun P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Brain",
+              "Brain Stem",
+              "Cerebral Cortex",
+              "DNA, Mitochondrial",
+              "Free Radical Scavengers",
+              "Humans",
+              "Lipid Metabolism",
+              "Liver",
+              "Metalloporphyrins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9462746/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "balanitis xerotica obliterans",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "penile fibromatosis",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL21046058N",
+        "product": "P's P Vitamin B Complex Tablet",
+        "active_ingredient": "DICALCIUM PHOSPHATE[251.486 mg,699.619 mg],CALCIUM PANTOTHENATE[29.206 mg,699.619 mg],PARA AMINO BENZOIC ACID (PABA)[12.821 mg,699.619 mg],NICOTINAMIDE[12.755 mg,699.619 mg],INOSITOL[13.158 mg,699.619 mg],CHOLINE BITARTRATE[12.755 mg,699.619 mg],RIBOFLAVIN[7.772 mg,699.619 mg],THIAMINE MONONITRATE[6.361 mg,699.619 mg],PYRIDOXINE HYDROCHLORIDE[6.235 mg,699.619 mg],BIOTIN[5 mg,699.619 mg],FOLIC  ACID[2 mg,699.619 mg],CYANOCOBALAMIN[1.236 mg,699.619 mg]",
+        "generic_name": NaN,
+        "holder": "VITAMIN PRIDE SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-04-20",
+        "date_end": "2026-04-20",
+        "url": "https://npra.gov.my/index.php/search/product/MAL21046058N"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06071084X",
+        "product": "GNC Women\"s Crowning Glory",
+        "active_ingredient": "Kelp[15.000;mg;;0],Folic Acid[0.182;mg;;0],D-Biotin[14.000;mg;;0],D-alpha tocopheryl Acetate (Vitamin E)[14.715;mg;;0],Natural Beta Carotene[14.667;mg;;0],Vitamin D3 (Cholecalciferol)[0.767;mg;;0],Cyanocobalamin Triturate 1%[0.480;mg;;0],l-Cysteine base.[3.333;mg;;0],L-METHIONINE[3.333;mg;;0],Papain[3.333;mg;;0],Thiamine Mononitrate 98%[2.770;mg;;0],Riboflavin[2.211;mg;;0],Pyridoxine hydrochloride[6.688;mg;;0],Zinc Oxide[6.563;mg;;0],Selenium Amino Acid Chelate[1.750;mg;;0],Niacinamide[10.660;mg;;0],Calcium D-pantothenate[12.327;mg;;0],Iron Hydrolyzed Protein Chelate[10.500;mg;;0],BETAINE HYDROCHLORIDE[10.102;mg;;0],Dicalcium Phosphate[698.200;mg;;0],Ribonucleic acids[20.000;mg;;0],BORON GLUCONATE[16.667;mg;;0],Rutin[10.527;mg;;0],LEMON BIOFLAVONOIDS[22.223;mg;;0],SILICA[20.400;mg;;0],CHOLINE BITARTRATE[121.952;mg;;0],ASCORBIC ACID[43.830;mg;;0],Magnesium Oxide[86.506;mg;;0],Manganese Hydrolysed Protein Chelate[8.750;mg;;0],Inositol 95%[21.053;mg;;0],Para Aminobenzoic Acid[20.409;mg;;0]",
+        "generic_name": NaN,
+        "holder": "GNC LIVEWELL MALAYSIA SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-07-30",
+        "date_end": "2026-07-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06071084X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19970697XC",
+        "product": "SAW HONG CHOON SKIN OINTMENT",
+        "active_ingredient": "BENZOIC ACID[6% W/W                        ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5% W/W                        ]",
+        "generic_name": NaN,
+        "holder": "SYARIKAT HONG CHOON KOK SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-11-17",
+        "date_end": "2026-11-17",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19970697XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20172783NR",
+        "product": "21ST CENTURY LIVMERIC CAPSULES",
+        "active_ingredient": "SILYBUM MARIANUM EXTRACT (MILK THISTLE)[175.24 mg,880 mg],CHOLINE BITARTRATE[25 mg,880 mg],THIAMINE HYDROCHLORIDE[34.13 mg,880 mg],RIBOFLAVIN[27.29 mg,880 mg],NIACINAMIDE[25 mg,880 mg],CALCIUM PANTOTHENATE[28.6 mg,880 mg],PYRIDOXINE HYDROCHLORIDE[31.66 mg,880 mg],CYANOCOBALAMIN[5 mg,880 mg],FOLIC  ACID[0.225 mg,880 mg],INOSITOL[25 mg,880 mg],PARA AMINO BENZOIC ACID (PABA)[25 mg,880 mg],CURCUMA LONGA EXTRACT (TURMERIC)[175 mg,880 mg],BIOTIN[50 mg,880 mg],DI-Methionine[25 mg,880 mg]",
+        "generic_name": NaN,
+        "holder": "21ST CENTURY PRODUCTS SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-04-21",
+        "date_end": "2027-04-21",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20172783NR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950952X",
+        "product": "MANSOYKO OINTMENT",
+        "active_ingredient": "Camphor[0.5%W/W                       ],SULPHUR, PRECIPITATED[0.8%W/W                       ],Zinc Oxide[4%W/W                         ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ]",
+        "generic_name": "Salicylic Acid 2 - 10 % Ointment",
+        "holder": "WEN JIANG MEDICAL INDUSTRIES SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-01",
+        "date_end": "2027-05-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950952X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19910650X",
+        "product": "DYNA RINGWORM LOTION",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/V                         ],Benzoic Acid[6%W/V                         ]",
+        "generic_name": NaN,
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-03",
+        "date_end": "2027-05-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19910650X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19911136X",
+        "product": "WHITFIELD`S OINTMENT",
+        "active_ingredient": "Benzoic Acid[6%W/W                         ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[3%W/W                         ]",
+        "generic_name": "Benzoic Acid Compound Ointment",
+        "holder": "HOVID BERHAD",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-27",
+        "date_end": "2027-05-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19911136X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920880XC",
+        "product": "PANAU SALAP CHAP PISANG",
+        "active_ingredient": "BENZOIC ACID[6.00%W/W                      ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ],Zinc Oxide[2.75%W/W                      ]",
+        "generic_name": NaN,
+        "holder": "BAN CHOON TRADING CO.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-16",
+        "date_end": "2027-06-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920880XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920935XC",
+        "product": "HURIX'S SKIN OINTMENT",
+        "active_ingredient": "Benzoic Acid[5%W/W                         ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ],Camphor[3%W/W                         ],SULPHUR, PRECIPITATED[2%W/W                         ],MENTHOL[1%W/W                         ]",
+        "generic_name": "Salicylic Acid 2 - 10 % Ointment",
+        "holder": "JIN BIN CORPORATION SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-26",
+        "date_end": "2027-06-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920935XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920877XC",
+        "product": "HURIX'S PANAU SALAP & GATAL-GATAL KECIL",
+        "active_ingredient": "Camphor[3%W/W                         ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ],Zinc Oxide[5%W/W                         ],Menthol[1%W/W                         ]",
+        "generic_name": NaN,
+        "holder": "JIN BIN CORPORATION SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-26",
+        "date_end": "2027-06-26",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920877XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19972175XR",
+        "product": "21st Century B-COMPLEX WITH LIPOTROPICS,WHEAT GERM & LECITHIN CAPSULE",
+        "active_ingredient": "WHEAT GERM[30MG],Lecithin[30MG],d-Calcium Pantothenate[20MG],THIAMINE HYDROCHLORIDE (VITAMIN B1)[50MG],niacinamide (vitamin B3)[50MG],Pyridoxine[50MG],Inositol[50MG                          ],CHOLINE BITARTRATE[50MG                          ],Methionine[50MG                          ],Folic Acid[0.4MG                         ],Biotin[0.04MG                        ],RIBOFLAVINE[30MG                          ],PARA AMINO BENZOIC ACID (PABA)[50MG                          ],Cyanocobalamin[0.05MG                        ]",
+        "generic_name": NaN,
+        "holder": "21ST CENTURY PRODUCTS SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-27",
+        "date_end": "2027-08-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19972175XR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19912914XC",
+        "product": "SEN BOO SKIN OINTMENT",
+        "active_ingredient": "SULPHUR, PRECIPITATED[4%W/W                         ],Zinc Oxide[2%W/W                         ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ],BENZOIC ACID[5%W/W                         ],Menthol[2%W/W                         ]",
+        "generic_name": "Salicylic Acid 2 - 10 % Ointment",
+        "holder": "YI YUAN  MEDICAL SUPPLY",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-08-30",
+        "date_end": "2027-08-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19912914XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17096002N",
+        "product": "VITACAREs+ BIOTIN PLUS CAPSULE",
+        "active_ingredient": "FOLIC  ACID[0.8 mg,483.1 mg],PYRIDOXINE HYDROCHLORIDE[98 mg,483.1 mg],BIOTIN[0.8 mg,483.1 mg],CALCIUM PANTOTHENATE[207 mg,483.1 mg],ZINC GLUCONATE[76.5 mg,483.1 mg],PARA AMINO BENZOIC ACID (PABA)[50 mg,483.1 mg],DL-ALPHA TOCOPHERYL ACETATE[50 mg,483.1 mg]",
+        "generic_name": NaN,
+        "holder": "EXCEL HERBAL INDUSTRIES SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-07",
+        "date_end": "2027-09-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17096002N"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19972562XR",
+        "product": "BCAA TABLET",
+        "active_ingredient": "MANGANESE[0.2MG                         ],Cyanocobalamin[55MCG                 ],Leucine[160MG                         ],PARA AMINO BENZOIC ACID (PABA)[5MG                           ],Isoleucine[100MG                         ],ASCORBIC ACID[50MG                          ],Valine[120MG                         ],Nicotinamide[5MG                           ],PYRIDOXINE HYDROCHLORIDE (VITAMIN B6)[11MG],THIAMINE HYDROCHLORIDE (VITAMIN B1)[5.5MG],RIBOFLAVINE[5.5MG],MAGNESIUM (ELEMENTAL)[1MG],ELEMENTAL ZINC[0.5MG]",
+        "generic_name": NaN,
+        "holder": "21ST CENTURY PRODUCTS SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-09-28",
+        "date_end": "2027-09-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19972562XR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021135AZ",
+        "product": "BEPROSALIC LOTION",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064% W/V                    ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[2.0% W/V                      ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 2% Lotion",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-01",
+        "date_end": "2027-10-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021135AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19920936XC",
+        "product": "HURIX'S CORN RID SOLUTION",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[17%w/v                        ],Lactic Acid[5%w/v                       ]",
+        "generic_name": NaN,
+        "holder": "JIN BIN CORPORATION SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-04",
+        "date_end": "2027-10-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19920936XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL17126049NCR",
+        "product": "VitaHealth Crowning Glory Gold Tablet",
+        "active_ingredient": "RETINYL ACETATE[2 mg,1131 mg],TOCOPHERYL ACETATE, DL-ALPHA[30 mg,1131 mg],LINUM USITATISSIMUM SEED (FLAXSEED) EXTRACT*[100 mg,1131 mg],METHYLSULFONYLMETHANE[100 mg,1131 mg],L-METHIONINE[40 mg,1131 mg],L-CYSTEINE HCL[38.96 mg,1131 mg],ASCORBIC ACID (VITAMIN C)[30.93 mg,1131 mg],BIOTIN[30 mg,1131 mg],SACCHAROMYCES CEREVISIAE[30 mg,1131 mg],EQUISETUM ARVENSE EXTRACT (HORSETAIL)[28.57 mg,1131 mg],NIACINAMIDE[25.38 mg,1131 mg],L-LYSINE HYDROCHLORIDE[25 mg,1131 mg],PARA AMINO BENZOIC ACID (PABA)[25 mg,1131 mg],CHOLINE BITARTRATE[22.22 mg,1131 mg],INOSITOL[21.05 mg,1131 mg],PYRIDOXINE HYDROCHLORIDE[15.20 mg,1131 mg],L-ARGININE[13.16 mg,1131 mg],VITIS VINIFERA (GRAPE SEED EXTRACT)[12.50 mg,1131 mg],FERROUS FUMARATE[12.23 mg,1131 mg],D-CALCIUM PANTOTHENATE[10.92 mg,1131 mg],ZINC OXIDE[9.43 mg,1131 mg],MANGANESE SULPHATE MONOHYDRATE[6.23 mg,1131 mg],FOLIC  ACID[4 mg,1131 mg],THIAMINE MONONITRATE[3.06 mg,1131 mg],POTASSIUM IODIDE[2.50 mg,1131 mg],SODIUM SELENATE[2 mg,1131 mg],RIBOFLAVIN[1.73 mg,1131 mg],CUPRIC OXIDE[1.2",
+        "generic_name": NaN,
+        "holder": "VITAHEALTH BIOTECH SDN BHD",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-12-22",
+        "date_end": "2027-12-22",
+        "url": "https://npra.gov.my/index.php/search/product/MAL17126049NCR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL23016098N",
+        "product": "NHF Vitamin Bs & Mineral Plus Capsule",
+        "active_ingredient": "THIAMINE HYDROCHLORIDE[63.55 mg,450 mg],RIBOFLAVIN[20 mg,450 mg],NICOTINAMIDE[50 mg,450 mg],PYRIDOXINE HYDROCHLORIDE[61 mg,450 mg],FOLIC ACID[0.34 mg,450 mg],METHYLCOBALAMIN[0.15 mg,450 mg],BIOTIN[0.45 mg,450 mg],CALCIUM PANTOTHENATE[108.8 mg,450 mg],DICALCIUM PHOSPHATE[54.6 mg,450 mg],INOSITOL[50 mg,450 mg],PARA AMINO BENZOIC ACID (PABA)[25 mg,450 mg]",
+        "generic_name": NaN,
+        "holder": "EXCEL HERBAL INDUSTRIES SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-01-16",
+        "date_end": "2028-01-16",
+        "url": "https://npra.gov.my/index.php/search/product/MAL23016098N"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19912829X",
+        "product": "MIFUKO OINTMENT",
+        "active_ingredient": "Zinc oxide[6%W/W                         ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ]",
+        "generic_name": "Salicylic Acid 2 - 10 % Ointment",
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19912829X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19912830X",
+        "product": "MIFULIN OINTMENT",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[12.5%W/W                      ],Zinc oxide[6%W/W                         ]",
+        "generic_name": NaN,
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19912830X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19912812XZ",
+        "product": "MIFULIN LOTION",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[12%W/V                        ]",
+        "generic_name": NaN,
+        "holder": "WINWA MEDICAL SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-08",
+        "date_end": "2028-04-08",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19912812XZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20033536XR",
+        "product": "SPECTRUM MULTIVITAMINS & MINERALS TABLET",
+        "active_ingredient": "Biotin[40mcg                         ],THIAMINE MONONITRATE[75mg                          ],IODINE[153mcg                        ],Cyanocobalamin[10mcg                         ],Chromium[10mcg                         ],VITAMIN D[400 IU                        ],Vitamin E[50 IU                         ],Glutamic acid[25mg                          ],Nicotinamide[75mg                          ],PARA AMINO BENZOIC ACID (PABA)[30mg                          ],LEMON BIOFLAVONOIDS[25mg                          ],POTASSIUM/KALIUM[2mg                           ],Inositol[25mg                          ],CHOLINE BITARTRATE[25mg                          ],BETAINE HYDROCHLORIDE[25mg                          ],OCTACOSANOL[50mcg                         ],Folic Acid[200mcg                        ],CALCIUM (ELEMENTAL)[10mg                          ],Calcium Pantothenate[22mg                          ],MANGANESE[610mcg                        ],RIBOFLAVINE[30mg                          ],PYRIDOXINE HCL/VITAMIN B6[75mg            ",
+        "generic_name": NaN,
+        "holder": "21ST CENTURY PRODUCTS SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-06-24",
+        "date_end": "2028-06-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20033536XR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871320AZ",
+        "product": "VERRUMAL SOLUTION",
+        "active_ingredient": "FLUOROURACIL[0.5G/100G                     ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[10G/100G                      ],DIMETHYL SULPHOXIDE[8.0G/100G                     ]",
+        "generic_name": "Fluorouracil 5%, Salicylic Acid 10% & Dimethylsulfoxide 8% Solution",
+        "holder": "ZUELLIG PHARMA SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-06",
+        "date_end": "2028-09-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871320AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871164AZ",
+        "product": "BEPROSALIC  OINTMENT",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.064% W/W                    ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[3% W/W                        ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 3% Ointment",
+        "holder": "HOE PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-09-14",
+        "date_end": "2028-09-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871164AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19987988AZ",
+        "product": "PHARMANIAGA DERMAL SA OINTMENT",
+        "active_ingredient": "BETAMETHASONE DIPROPIONATE[0.05% W/W                     ],SALICYLIC ACID/2-HYDROXYBENZOIC ACID[3.0% W/W                      ]",
+        "generic_name": "Betamethasone Dipropionate 0.05% & Salicylic Acid 3% Ointment",
+        "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-10-28",
+        "date_end": "2028-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19987988AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19990325XR",
+        "product": "BIG 100 TABLETS",
+        "active_ingredient": "VITAMIN B12[5.5MG (1%)],Vitamin B6[61MG (82%)],Thiamine HCl[50MG],Riboflavin[30MG],CHOLINE BITARTRATE[50MG                          ],PARA AMINO BENZOIC ACID (PABA)[50MG                          ],Niacinamide[50MG                          ],ASCORBIC ACID[526MG (95%)                   ],Inositol[50MG                          ],Folic Acid[0.4MG                         ],WHEATGERM[1MG                           ],Biotin[4MG (1%)                      ],Pantothenic Acid[20MG                          ],LECITHIN (SOURCE NOT STATED)[1MG                           ],Methionine[50MG                          ]",
+        "generic_name": NaN,
+        "holder": "21ST CENTURY PRODUCTS SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-03-03",
+        "date_end": "2029-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19990325XR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24046161NC",
+        "product": "VIGORACE LIFE SCIENCE ENER-B PLUS CAPSULE",
+        "active_ingredient": "THIAMINE HYDROCHLORIDE[20.00 mg,477.02 mg],Vitamin B2 (Riboflavin)[15.00 mg,477.02 mg],NIACINAMIDE[22.00 mg,477.02 mg],NIACIN[5.00 mg,477.02 mg],D-CALCIUM PANTOTHENATE[75.00 mg,477.02 mg],PYRIDOXINE HYDROCHLORIDE[12.50 mg,477.02 mg],Vitamin B12 (Cyanocobalamin)[1.50 mg,477.02 mg],FOLIC ACID[0.02 mg,477.02 mg],CHOLINE BITARTRATE[20.00 mg,477.02 mg],PARA AMINO BENZOIC ACID (PABA)[5.00 mg,477.02 mg],BIOTIN[1.00 mg,477.02 mg],INOSITOL[5.00 mg,477.02 mg]",
+        "generic_name": NaN,
+        "holder": "VIGORACE SDN BHD",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-04",
+        "date_end": "2029-04-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24046161NC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19046023N",
+        "product": "QUEST ONCE A DAY MULTI B+C COMPLEX TABLETS",
+        "active_ingredient": "ASCORBIC ACID (VITAMIN C)[515.5 mg,885 mg],THIAMINE MONONITRATE[24.50 mg,885 mg],NICOTINAMIDE[25 mg,885 mg],Vitamin B2 (Riboflavin)[25 mg,885 mg],CALCIUM D-PANTOTHENATE[27.17 mg,885 mg],PYRIDOXINE HYDROCHLORIDE[12.16 mg,885 mg],Vitamin B12 (Cyanocobalamin)[2.50 mg,885 mg],BIOTIN[2.50 mg,885 mg],CHOLINE BITARTRATE[25.25 mg,885 mg],INOSITOL[25 mg,885 mg],PARA AMINO BENZOIC ACID (PABA)[25 mg,885 mg],FOLIC  ACID[0.40 mg,885 mg]",
+        "generic_name": NaN,
+        "holder": "Eucogen Pharma Sdn. Bhd.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-10",
+        "date_end": "2029-04-10",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19046023N"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940189XC",
+        "product": "WHITFIELD`S OINTMENT",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[3%W/W                         ],Benzoic Acid[6%W/W                         ]",
+        "generic_name": "Benzoic Acid Compound Ointment",
+        "holder": "TERAPUTICS SDN BHD",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-05-02",
+        "date_end": "2029-05-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940189XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984125XC",
+        "product": "NIXODERM OINTMENT",
+        "active_ingredient": "Precipitated sulfur[4.60%w/w],SALICYLIC ACID[2.50%w/w],BENZOIC ACID[6.00% W/W                     ]",
+        "generic_name": "Salicylic Acid 2 - 10 % Ointment",
+        "holder": "SUMMIT COMPANY (MALAYSIA) SENDIRIAN BERHAD",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-06",
+        "date_end": "2029-07-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984125XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL24086145NC",
+        "product": "Nano Singapore HS&N Multivitamin Complex Tablet",
+        "active_ingredient": "Retinyl Acetate (Vitamin A)[7.70 mg,1094.54 mg],ASCORBIC ACID (VITAMIN C)[31.00 mg,1094.54 mg],ERGOCALCIFEROL[5.00 mg,1094.54 mg],DL-ALPHA TOCOPHERYL ACETATE[15.00 mg,1094.54 mg],THIAMINE MONONITRATE[3.15 mg,1094.54 mg],RIBOFLAVIN[2.55 mg,1094.54 mg],NICOTINAMIDE[5.10 mg,1094.54 mg],PYRIDOXINE HYDROCHLORIDE[3.00 mg,1094.54 mg],FOLIC ACID[0.10 mg,1094.54 mg],CYANOCOBALAMIN[0.40 mg,1094.54 mg],D-BIOTIN[0.46 mg,1094.54 mg],CALCIUM PANTOTHENATE[8.16 mg,1094.54 mg],DICALCIUM PHOSPHATE[455.00 mg,1094.54 mg],MAGNESIUM OXIDE[42.00 mg,1094.54 mg],ZINC GLUCONATE[27.00 mg,1094.54 mg],MANGANESE CITRATE[5.00 mg,1094.54 mg],PARA AMINO BENZOIC ACID (PABA)[5.00 mg,1094.54 mg],CHOLINE BITARTRATE[5.00 mg,1094.54 mg],INOSITOL[15.00 mg,1094.54 mg],CITRUS BIOFLAVONOIDS[17.00 mg,1094.54 mg],RUTIN[4.30 mg,1094.54 mg],EQUISETUM ARVENSE EXTRACT (HORSETAIL)[1.50 mg,1094.54 mg],VITIS VINIFERA (GRAPE SEED EXTRACT)[5.00 mg,1094.54 mg],HYALURONIC ACID[25.00 mg,1094.54 mg],L-ARGININE HYDROCHLORIDE[5.172 mg,1094.54 mg],L-ASPARTIC ACID[4.277",
+        "generic_name": NaN,
+        "holder": "Nano Wellness Sdn. Bhd.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-01",
+        "date_end": "2029-08-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL24086145NC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950306X",
+        "product": "Three Legs Tinea Skin Solution",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%w/v                        ],BENZOIC ACID[2.0%w/v                       ]",
+        "generic_name": NaN,
+        "holder": "SYARIKAT WEN KEN DRUG SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-30",
+        "date_end": "2029-11-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950306X"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19910326XC",
+        "product": "DIPOO UBAT SAPU",
+        "active_ingredient": "SALICYLIC ACID/2-HYDROXYBENZOIC ACID[5%W/W                         ],Camphor[2%W/W                         ],Zinc Oxide[6%W/W                         ],SULPHUR, PRECIPITATED[0.6%W/W                       ]",
+        "generic_name": NaN,
+        "holder": "POLYLAB BIOTECH SDN. BHD.",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-12-29",
+        "date_end": "2029-12-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19910326XC"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19913315XR",
+        "product": "NUTRILITE NATURAL B COMPLEX TABLET",
+        "active_ingredient": "Nicotinic acid[20MG                          ],Folic Acid[0.4MG                         ],YEAST, DRIED[144MG                         ],THIAM.HCL/MONONITRA.,VITB2,VITB6 ,VITB12[REFER FILE                    ],Inositol[4.3MG                         ],Pantothenic Acid[15MG                          ],PARA AMINO BENZOIC ACID (PABA)[3.6MG                         ]",
+        "generic_name": NaN,
+        "holder": "AMWAY (MALAYSIA) SDN. BHD.",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-09-05",
+        "date_end": "2030-09-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19913315XR"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20001951XZ",
+        "product": "NATURE`S GIFT B-COMPLEX TABLET",
+        "active_ingredient": "Vitamin B1 (Thiamine)[10 mg],Biotin[20 mcg],Niacinamide[50 mg],Choline (bitartrate)[50 mg],Vitamin B2 (Riboflavin)[10 mg],Vitamin B6 (Pyridoxine HCl)[10 mg],Pantothenic Acid (Calcium Pantothenate)[15 mg],Folic Acid[100 mcg],PABA (as para amino benzoic acid)[10 mg],VITAMIN B12[10 mcg],Inositol[50 mg]",
+        "generic_name": NaN,
+        "holder": "LINTAN ENTERPRISE SDN.BHD",
+        "description": "HEALTH SUPPLEMENT",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-11-04",
+        "date_end": "2030-11-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20001951XZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL06051425XCS",
+        "product": "UBAT KULIT CAP AYAM",
+        "active_ingredient": "Salicylic acid[5;%(w/v);;],Resorcinol[2;%(w/v);;],Benzoic Acid[2;%(w/v);;]",
+        "generic_name": NaN,
+        "holder": "SEW CHEONG CORPORATION SDN BHD",
+        "description": "NON PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-06-02",
+        "date_end": "2031-06-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL06051425XCS"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB03793",
+    "name": "Benzoic acid",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Benzoic Acid"
+      },
+      "queried_at": "2026-03-04T16:32:01.381664",
+      "status": "success",
+      "result_count": 36,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Benzoic Acid"
+      },
+      "queried_at": "2026-03-04T16:32:05.568088",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "pemphigus"
+      },
+      "queried_at": "2026-03-04T16:32:07.918643",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "pemphigus"
+      },
+      "queried_at": "2026-03-04T16:32:10.969625",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "pemphigus"
+      },
+      "queried_at": "2026-03-04T16:32:12.537272",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "dermatomyositis"
+      },
+      "queried_at": "2026-03-04T16:32:13.617360",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "dermatomyositis"
+      },
+      "queried_at": "2026-03-04T16:32:18.210421",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "dermatomyositis"
+      },
+      "queried_at": "2026-03-04T16:32:20.181361",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "systemic sclerosis"
+      },
+      "queried_at": "2026-03-04T16:32:21.308467",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "systemic sclerosis"
+      },
+      "queried_at": "2026-03-04T16:32:30.507124",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "systemic sclerosis"
+      },
+      "queried_at": "2026-03-04T16:32:34.985202",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "balanitis xerotica obliterans"
+      },
+      "queried_at": "2026-03-04T16:32:36.072304",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "balanitis xerotica obliterans"
+      },
+      "queried_at": "2026-03-04T16:32:40.977938",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "balanitis xerotica obliterans"
+      },
+      "queried_at": "2026-03-04T16:32:43.580265",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "penile fibromatosis"
+      },
+      "queried_at": "2026-03-04T16:32:47.019100",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "penile fibromatosis"
+      },
+      "queried_at": "2026-03-04T16:32:58.782499",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Benzoic Acid",
+        "disease": "penile fibromatosis"
+      },
+      "queried_at": "2026-03-04T16:33:02.502311",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:33:02.506502",
+    "version": "1.0"
+  }
+}

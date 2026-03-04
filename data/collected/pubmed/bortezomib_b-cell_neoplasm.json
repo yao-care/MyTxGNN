@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bortezomib",
+    "disease": "B-cell neoplasm",
+    "query_string": "Bortezomib AND B-cell neoplasm"
+  },
+  "data": {
+    "query": "Bortezomib AND B-cell neoplasm",
+    "results": [
+      {
+        "pmid": "38084760",
+        "title": "Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone for Multiple Myeloma.",
+        "abstract": "Daratumumab, a monoclonal antibody targeting CD38, has been approved for use with standard myeloma regimens. An evaluation of subcutaneous daratumumab combined with bortezomib, lenalidomide, and dexamethasone (VRd) for the treatment of transplantation-eligible patients with newly diagnosed multiple myeloma is needed.",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Sonneveld Pieter",
+          "Dimopoulos Meletios A",
+          "Boccadoro Mario",
+          "Quach Hang",
+          "Ho P Joy"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone",
+          "Disease Progression",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Membrane Glycoproteins",
+          "ADP-ribosyl Cyclase 1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38084760/"
+      },
+      {
+        "pmid": "35271306",
+        "title": "Children's Oncology Group Trial AALL1231: A Phase III Clinical Trial Testing Bortezomib in Newly Diagnosed T-Cell Acute Lymphoblastic Leukemia and Lymphoma.",
+        "abstract": "To improve the outcomes of patients with T-cell acute lymphoblastic leukemia (T-ALL) and lymphoblastic lymphoma (T-LL), the proteasome inhibitor bortezomib was examined in the Children's Oncology Group phase III clinical trial AALL1231, which also attempted to reduce the use of prophylactic cranial radiation (CRT) in newly diagnosed T-ALL.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2022",
+        "authors": [
+          "Teachey David T",
+          "Devidas Meenakshi",
+          "Wood Brent L",
+          "Chen Zhiguo",
+          "Hayashi Robert J"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Child",
+          "Disease-Free Survival",
+          "Humans",
+          "Infant",
+          "Lymphoma",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma",
+          "T-Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35271306/"
+      },
+      {
+        "pmid": "36652193",
+        "title": "Diagnosis and Treatment of AL Amyloidosis.",
+        "abstract": "Systemic light chain (AL) amyloidosis is caused by an usually small B cell clone that produces a toxic light chain forming amyloid deposits in tissue. The heart and kidney are the major organs affected, but all others, with the exception of the CNS, can be involved. The disease is rapidly progressive, and it is still diagnosed late. Screening programs in patients followed by hematologists for plasma cell dyscrasias should be considered. The diagnosis requires demonstration in a tissue biopsy of amyloid deposits formed by immunoglobulin light chains. The workup of patients with AL amyloidosis requires adequate technology and expertise, and patients should be referred to specialized centers whenever possible. Stagings are based on cardiac and renal biomarkers and guides the choice of treatment. The combination of daratumumab, cyclophosphamide, bortezomib and dexamethasone (dara-CyBorD) is the current standard of care. Autologous stem cell transplant is performed in eligible patients, esp",
+        "journal": "Drugs",
+        "year": "2023",
+        "authors": [
+          "Palladini Giovanni",
+          "Milani Paolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Immunoglobulin Light-chain Amyloidosis",
+          "Plaque, Amyloid",
+          "Bortezomib",
+          "Kidney",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36652193/"
+      },
+      {
+        "pmid": "38767403",
+        "title": "Plasmablastic lymphoma: 2024 update on diagnosis, risk stratification, and management.",
+        "abstract": "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options. Though PBL is associated with human immunodeficiency virus infection and other immunosuppressed states, it can also affect immunocompetent individuals.",
+        "journal": "American journal of hematology",
+        "year": "2024",
+        "authors": [
+          "Ramirez-Gamero Andres",
+          "Martínez-Cordero Humberto",
+          "Beltrán Brady E",
+          "Florindez Jorge",
+          "Malpica Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Plasmablastic Lymphoma",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Risk Assessment",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Vincristine",
+          "Prednisone",
+          "Lenalidomide",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38767403/"
+      },
+      {
+        "pmid": "33270858",
+        "title": "Management of AL amyloidosis in 2020.",
+        "abstract": "In amyloid light chain (AL) amyloidosis, a small B-cell clone, most commonly a plasma cell clone, produces monoclonal light chains that exert organ toxicity and deposit in tissue in the form of amyloid fibrils. Organ involvement determines the clinical manifestations, but symptoms are usually recognized late. Patients with disease diagnosed at advanced stages, particularly when heart involvement is present, are at high risk of death within a few months. However, symptoms are always preceded by a detectable monoclonal gammopathy and by elevated biomarkers of organ involvement, and hematologists can screen subjects who have known monoclonal gammopathy for amyloid organ dysfunction and damage, allowing for a presymptomatic diagnosis. Discriminating patients with other forms of amyloidosis is difficult but necessary, and tissue typing with adequate technology available at referral centers, is mandatory to confirm AL amyloidosis. Treatment targets the underlying clone and should be risk ada",
+        "journal": "Blood",
+        "year": "2020",
+        "authors": [
+          "Palladini Giovanni",
+          "Milani Paolo",
+          "Merlini Giampaolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Bortezomib",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Immunoglobulin Light-chain Amyloidosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33270858/"
+      },
+      {
+        "pmid": "41363801",
+        "title": "Teclistamab plus Daratumumab in Relapsed or Refractory Multiple Myeloma.",
+        "abstract": "In a phase 1-2 trial, teclistamab, a bispecific antibody targeting CD3 on T-cell surfaces and B-cell maturation antigen on myeloma cells, showed durable responses in heavily pretreated patients with relapsed or refractory multiple myeloma. Daratumumab, a monoclonal antibody targeting CD38 protein, has shown survival benefit in patients with multiple myeloma.",
+        "journal": "The New England journal of medicine",
+        "year": "2026",
+        "authors": [
+          "Costa Luciano J",
+          "Bahlis Nizar J",
+          "Perrot Aurore",
+          "Nooka Ajay K",
+          "Lu Jin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Multiple Myeloma",
+          "Male",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Antibodies, Monoclonal",
+          "Progression-Free Survival",
+          "Bortezomib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41363801/"
+      },
+      {
+        "pmid": "31097405",
+        "title": "Pomalidomide, bortezomib, and dexamethasone for patients with relapsed or refractory multiple myeloma previously treated with lenalidomide (OPTIMISMM): a randomised, open-label, phase 3 trial.",
+        "abstract": "As lenalidomide becomes increasingly established for upfront treatment of multiple myeloma, patients refractory to this drug represent a population with an unmet need. The combination of pomalidomide, bortezomib, and dexamethasone has shown promising results in phase 1/2 trials of patients with relapsed or refractory multiple myeloma. We aimed to assess the efficacy and safety of this triplet regimen in patients with relapsed or refractory multiple myeloma who previously received lenalidomide.",
+        "journal": "The Lancet. Oncology",
+        "year": "2019",
+        "authors": [
+          "Richardson Paul G",
+          "Oriol Albert",
+          "Beksac Meral",
+          "Liberati Anna Marina",
+          "Galli Monica"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31097405/"
+      },
+      {
+        "pmid": "30523719",
+        "title": "Molecular High-Grade B-Cell Lymphoma: Defining a Poor-Risk Group That Requires Different Approaches to Therapy.",
+        "abstract": "Biologic heterogeneity is a feature of diffuse large B-cell lymphoma (DLBCL), and the existence of a subgroup with poor prognosis and phenotypic proximity to Burkitt lymphoma is well known. Conventional cytogenetics identifies some patients with rearrangements of MYC and BCL2 and/or BCL6 (double-hit lymphomas) who are increasingly treated with more intensive chemotherapy, but a more biologically coherent and clinically useful definition of this group is required.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2019",
+        "authors": [
+          "Sha Chulin",
+          "Barrans Sharon",
+          "Cucco Francesco",
+          "Bentley Michael A",
+          "Care Matthew A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Databases, Genetic",
+          "Doxorubicin",
+          "Female",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30523719/"
+      },
+      {
+        "pmid": "40565058",
+        "title": "Overexpression of CDCA2 in Diffuse Large B-Cell Lymphoma Promotes Cell Proliferation and Bortezomib Sensitivity.",
+        "abstract": "Numerous clinical trials have attempted to improve first-line R-CHOP treatment of diffuse large B-cell lymphoma (DLBCL) through the addition or substitution of drugs. The REMoDL-B trial, testing the addition of bortezomib (RB-CHOP), revealed that ABC and molecular high-grade DLBCL patients benefit from bortezomib. The aim of this study was to achieve a better understanding of the bortezomib response in DLBCL through a functional investigation of clinically identified markers. A retrospective analysis of transcriptional and clinical data from the REMoDL-B trial was conducted to identify genes associated with bortezomib response, identifying CDCA2. DLBCL patients with high expression of CDCA2 had a superior survival outcome when treated with RB-CHOP in comparison to R-CHOP, whereas no difference in outcome was observed for patients with low CDCA2. Moreover, CDCA2 was found to be overexpressed in DLBCL compared to non-malignant tissue, and to have higher levels in GCB and MYC/BCL2 double-",
+        "journal": "International journal of molecular sciences",
+        "year": "2025",
+        "authors": [
+          "Due Hanne",
+          "Brogaard Asta",
+          "Issa Issa Ismail",
+          "Jakobsen Maja Zimmer",
+          "Sylvester Cathrine"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Humans",
+          "Bortezomib",
+          "Cell Proliferation",
+          "Cell Line, Tumor",
+          "Cell Cycle Proteins",
+          "Gene Expression Regulation, Neoplastic",
+          "Prednisone",
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40565058/"
+      },
+      {
+        "pmid": "23782157",
+        "title": "Targeting BTK with ibrutinib in relapsed or refractory mantle-cell lymphoma.",
+        "abstract": "Bruton's tyrosine kinase (BTK) is a mediator of the B-cell-receptor signaling pathway implicated in the pathogenesis of B-cell cancers. In a phase 1 study, ibrutinib, a BTK inhibitor, showed antitumor activity in several types of non-Hodgkin's lymphoma, including mantle-cell lymphoma.",
+        "journal": "The New England journal of medicine",
+        "year": "2013",
+        "authors": [
+          "Wang Michael L",
+          "Rule Simon",
+          "Martin Peter",
+          "Goy Andre",
+          "Auer Rebecca"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Administration, Oral",
+          "Adult",
+          "Agammaglobulinaemia Tyrosine Kinase",
+          "Aged",
+          "Aged, 80 and over",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Humans",
+          "Lymphocyte Count"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23782157/"
+      },
+      {
+        "pmid": "29303024",
+        "title": "Bortezomib in combination with dose-adjusted EPOCH (etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin) induces long-term survival in patients with plasmablastic lymphoma: a retrospective analysis.",
+        "abstract": "Plasmablastic lymphoma (PBL) is a rare and aggressive form of B-cell non-Hodgkin lymphoma. This subtype of lymphoma has a post-germinal center cell-of-origin called the plasmablast, and the immunophenotype is more consistent with that of a plasma cell than a lymphocyte. Because of these unique features, PBL is notoriously difficult to treat. Case reports and small reviews have evaluated the addition of agents directed against plasma cell disorders in combination with traditional lymphoma-directed regimens. We describe the largest case series to date, with the longest follow-up, evaluating bortezomib in combination with etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin (V-EPOCH) for the treatment of PBL. Our results show that this is a safe and effective regimen with an overall and complete response rate of 100% and 2-year overall survival of 50%.",
+        "journal": "Leukemia & lymphoma",
+        "year": "2018",
+        "authors": [
+          "Dittus Christopher",
+          "Grover Natalie",
+          "Ellsworth Steven",
+          "Tan Xianming",
+          "Park Steven I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Etoposide",
+          "Female",
+          "Humans",
+          "Kaplan-Meier Estimate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29303024/"
+      },
+      {
+        "pmid": "39777934",
+        "title": "Pomalidomide, Bortezomib, and Dexamethasone Versus Bortezomib and Dexamethasone in Relapsed or Refractory Multiple Myeloma: Final Survival and Subgroup Analyses From the OPTIMISMM Trial.",
+        "abstract": "In the OPTIMISMM trial, pomalidomide/bortezomib/dexamethasone (PVd) significantly prolonged median progression-free survival (PFS) versus bortezomib/dexamethasone (Vd) in lenalidomide-exposed relapsed and refractory multiple myeloma (RRMM). We report final overall survival (OS) and updated efficacy analyses.",
+        "journal": "European journal of haematology",
+        "year": "2025",
+        "authors": [
+          "Richardson Paul",
+          "Beksaç Meral",
+          "Oriol Albert",
+          "Lindsay Jindriska",
+          "Schjesvold Fredrik"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Dexamethasone",
+          "Drug Resistance, Neoplasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39777934/"
+      },
+      {
+        "pmid": "21090965",
+        "title": "Multiple myeloma.",
+        "abstract": "Multiple myeloma (MM) is a B cell neoplasm of the bone marrow with a complex array of clinical manifestations including anemia, bone lesions, hypercalcemia, renal dysfunction, and compromised immune function. It accounts for 10%-15% of all hematologic malignancies, and 20% of deaths related to cancers of the blood and bone marrow. The diagnosis of MM is based on the presence of neoplastic plasma cells in the bone marrow or other extramedullary sites, along with evidence of disease-related organ dysfunction. Although the disease remains incurable, significant advances in both basic and translational research have enhanced understanding of disease pathogenesis and guided the development of new and more effective therapies. These agents include the immunomodulatory drugs thalidomide and lenalidomide, the proteasome inhibitor bortezomib, and other therapeutics that are currently being evaluated. This review highlights important historical landmarks in the field of MM, examines the pathogen",
+        "journal": "Annual review of medicine",
+        "year": "2011",
+        "authors": [
+          "Laubach Jacob",
+          "Richardson Paul",
+          "Anderson Kenneth"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Bone Diseases",
+          "Boronic Acids",
+          "Bortezomib",
+          "Clinical Trials as Topic",
+          "Cysteine Proteinase Inhibitors",
+          "Humans",
+          "Hypercalcemia",
+          "Immunologic Factors",
+          "Lenalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21090965/"
+      },
+      {
+        "pmid": "34461632",
+        "title": "Bortezomib and rituximab in de novo adolescent/adult CD20-positive, Ph-negative pre-B-cell acute lymphoblastic leukemia.",
+        "abstract": "The expression of CD20 in precursor B-cell acute lymphoblastic leukemia (B-ALL) is associated with poor outcomes. The addition of rituximab to intensive chemotherapy in CD20+ ALL has led to improved outcomes in several studies. However, there is no clear evidence regarding the optimal number of doses and its benefit without an allogeneic stem cell transplant. Achieving measurable residual disease (MRD)-negative status postinduction would reduce the requirement for a transplant. Novel approaches are needed to induce a higher proportion of MRD-negative complete remission in patients with high-risk ALL. Given bortezomib's activity in relapsed ALL and its synergism with rituximab in B-cell lymphomas, the addition of bortezomib to rituximab and chemotherapy may provide an incremental benefit in CD20+ precursor B-ALL. We conducted a phase 2 study to test the activity of bortezomib and rituximab in combination with a pediatric-inspired regimen during induction therapy in newly diagnosed adole",
+        "journal": "Blood advances",
+        "year": "2021",
+        "authors": [
+          "Jain Hasmukh",
+          "Sengar Manju",
+          "Goli Vasu Babu",
+          "Thorat Jayashree",
+          "Tembhare Prashant"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Bortezomib",
+          "Child",
+          "Humans",
+          "Lymphoma, B-Cell",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Precursor Cells, B-Lymphoid",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34461632/"
+      },
+      {
+        "pmid": "26808217",
+        "title": "Diffuse Large B-cell lymphoma: Prognostic markers and their impact on therapy.",
+        "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common type of Non-Hodgkin lymphoma (NHL). DLBCL is clinically, pathologically and molecularly heterogeneous disease. Various clinical, pathological and molecular markers have been developed to characterize the disease. Based on these characterizations, new targeted agents are being investigated to optimize the treatment and improve the outcomes of DLBCL. Enhanced molecular understanding, invention of targeted agents and immunotherapy has opened the doors for improvement in the treatment of DLBCL. In this review, we will discuss various prognostic markers of DLBCL and their potential therapeutic implications.",
+        "journal": "Expert review of hematology",
+        "year": "2016",
+        "authors": [
+          "Jamil Muhammad O",
+          "Mehta Amitkumar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers",
+          "Gene Expression Profiling",
+          "Genetic Variation",
+          "Humans",
+          "Immunohistochemistry",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Molecular Targeted Therapy",
+          "Positron-Emission Tomography",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26808217/"
+      },
+      {
+        "pmid": "24481980",
+        "title": "Ibrutinib in B-cell Lymphomas.",
+        "abstract": "The standard frontline therapy for diffuse large B-cell lymphoma (DLBCL), follicular lymphoma (FL), and mantle cell lymphoma (MCL) includes the use of chemoimmunotherapy and/or radiation therapy. When patients with these diseases relapse or are refractory to therapy, their diseases are considered incurable outside of the setting of an autologous or allogeneic stem cell transplant, which many patients are not candidates for due to age or comorbidities. The oral Bruton's tyrosine kinase (BTK) inhibitor, ibrutinib, targets the B-cell receptor (BCR) signaling pathway that is critical in the survival of these malignancies. It has shown promising activity in certain subtypes of DLBCL, in relapsed or refractory FL, and in relapsed or refractory MCL for which it has recently received FDA approval and should be considered for use in patients in first relapse. Ibrutinib is an oral therapy taken daily that has been well tolerated by patients. Given the high response rates, tolerability, and accep",
+        "journal": "Current treatment options in oncology",
+        "year": "2014",
+        "authors": [
+          "Maddocks Kami",
+          "Blum Kristie A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Agammaglobulinaemia Tyrosine Kinase",
+          "Antineoplastic Agents",
+          "Boronic Acids",
+          "Bortezomib",
+          "Clinical Trials as Topic",
+          "Disease-Free Survival",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, B-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24481980/"
+      },
+      {
+        "pmid": "34414850",
+        "title": "Ibrutinib- and bortezomib-extended R-CHOP induction in elderly higher-risk patients newly diagnosed with diffuse large B-cell lymphoma - first analysis of toxicity and efficacy signals.",
+        "abstract": "Diffuse large-cell B-cell lymphoma (DLBCL) is the most common lymphoid malignancy. About 30-40% of the patients will not be cured by standard Rituximab (R)-CHOP-like immune-chemotherapy, and many of them experience relapse and eventually succumb to their disease. Enhancing first-line efficacy in patients at higher risk, among them many elderly, is key to improve long-term outcomes. Numerous attempts to combine R-CHOP with targeted agents failed in large randomized phase III trials. The addition of Ibrutinib enhanced survival in younger patients, but increased toxicity across all age groups, especially in the elderly. Older DLBCL patients impose particular challenges, since they often present with more advanced disease, and exhibit treatment-relevant comorbidities. ImbruVeRCHOP trial aims at identifying patients who need that benefit from rationally augmented first-line regimens without experiencing overt toxicity and detecting their molecular signatures of response. This first analysis",
+        "journal": "Leukemia & lymphoma",
+        "year": "2022",
+        "authors": [
+          "Denker Sophy",
+          "Bittner Aitomi",
+          "Frick Mareike",
+          "Kase Julia",
+          "Hoffmann Jörg"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Neoplasm Recurrence, Local",
+          "Piperidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34414850/"
+      },
+      {
+        "pmid": "26458447",
+        "title": "[Waldenström's macroglobulinemia].",
+        "abstract": "Waldenström macroglobulinemia (WM) is a rare and incurable B-cell neoplasm characterized by lymphoplasmacytic bone marrow infiltration and the production of serum monoclonal immunoglobulin M. Therapeutic strategies for WM should be based on individual patient and disease characteristics, including age, suitability as a candidate for autologous stem cell transplantation, hyperviscosity, and comorbidities. Rituximab forms the backbone of most regimens owing to its high efficacy and tolerability. Improved response rates to bendamustine, bortezomib, or carfilzomib in combination with rituximab and dexamethasone have been reported. For older patients, a recent phase III trial showed that oral fludarabine was more effective than chlorambucil. A Bruton tyrosine kinase (BTK) inhibitor, ibrutinib, has also been reported as a promising agent. Through recent whole-genome sequencing in WM, MYD88L265P and CXCR4WHIM have been identified as somatic mutations. Approximately 90% of WM patients carry MY",
+        "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+        "year": "2015",
+        "authors": [
+          "Watanabe Reiko"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Genome, Human",
+          "Humans",
+          "Myeloid Differentiation Factor 88",
+          "Receptors, CXCR4",
+          "Risk Factors",
+          "Rituximab",
+          "Waldenstrom Macroglobulinemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26458447/"
+      },
+      {
+        "pmid": "38409530",
+        "title": "Long-term outcomes by bone marrow B-cell depletion from the R2W trial of bortezomib with cyclophosphamide and rituximab in Waldenstrőm macroglobulinaemia.",
+        "abstract": "There remains a lack of consensus as to the most appropriate primary therapy in Waldenstrőm macroglobulinemia (WM). We evaluated a novel bortezomib-based combination and developed a sensitive WM-specific flow cytometry assay (limit of detection 0.004% of leucocytes) to assess bone marrow (BM) response. Sixty treatment-naïve WM patients were enroled into this phase II trial and randomised (2:1) to receive cyclophosphamide and rituximab with either bortezomib (BRC) or fludarabine (FCR). The primary objective was to assess the overall response rate (ORR) in eligible patients receiving BRC (N = 41). An ORR of 97.6% (95%CI:87.1-99.9) was observed; 27 (65.9%) patients remain alive without progression after 62.6 months median follow-up, with 2-, 3- and 5-year progression-free survival (PFS) rates of 92.7% (95%CI:79.0-97.6), 80.5% (95%CI:64.8-89.7) and 65.5% (95%CI:48.8-77.9). Persistent WM B-cells were demonstrable in 19/38 patients at the end of treatment (median 0.24%, range 0.02-11.2%). PF",
+        "journal": "Leukemia",
+        "year": "2024",
+        "authors": [
+          "de Tute Ruth",
+          "Counsell Nicholas",
+          "Clifton-Hadley Laura",
+          "D'Sa Shirley",
+          "Pratt Guy"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Waldenstrom Macroglobulinemia",
+          "Bortezomib",
+          "Bone Marrow",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38409530/"
+      },
+      {
+        "pmid": "30032463",
+        "title": "Maintenance Therapy in Diffuse Large B Cell Lymphoma and Mantle Cell Lymphoma.",
+        "abstract": "Maintenance therapy has evolved as a strategy to prolong remissions in patients with diffuse large B cell lymphoma (DLBCL) or mantle cell lymphoma (MCL), typically following a more intensive therapy, such as induction therapy or stem cell transplantation. In randomized, controlled clinical trials, this approach has successfully prolonged overall survival in some MCL clinical settings, including after autologous stem cell transplantation and after R-CHOP induction, but has generally been unsuccessful in DLBCL. This most likely reflects differences in the biology and natural history of each disease. In DLBCL, a majority of patients are cured with frontline therapy, leaving fewer who can potentially benefit from maintenance. When the disease relapses, it is usually within the first 2 years and is usually clinically aggressive and difficult to control with low-intensity therapy. In contrast, nearly all patients with MCL will eventually relapse, and the disease may remain quiescent for many",
+        "journal": "Current treatment options in oncology",
+        "year": "2018",
+        "authors": [
+          "Till Brian G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Everolimus",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30032463/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:57:06.614438",
+  "success": true,
+  "error_message": null
+}

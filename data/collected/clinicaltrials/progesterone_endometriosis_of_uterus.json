@@ -1,0 +1,543 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "endometriosis of uterus"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02587000",
+      "title": "Pilot Phase II, Randomized , and Control in Double Blind Placebo Effectiveness a 3 Months on Bleeding Fibroids Treatment With ULIPRISTAL ACETATE 10 mg/Day in Patients Suffering From Symptomatic Endometriosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-06-16",
+      "completion_date": "2020-03-17",
+      "country": "France",
+      "enrollment": 26,
+      "brief_summary": "Evaluation of efficiency of selective progesterone receptor modulators (SPRM) (Ulipristal acetate) on bleeding control and pain for patients with adenomyosis and wish to keep fertility.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Not postmenopausal women aged 30 to 50,\n* Accepting to give consent informed in writing,\n* Suffering from a symptomatic pelvic endometriosis (menorrhagia isolated or associated with pain)\n* Diagnosis information, confirmed the adenomyosis (T2-weighted) MRI and/or transvaginal ",
+      "endpoints": [
+        "Percentage of patients with a control uterine bleeding estimated by a score of Pictorial Blood-loss Assessment Chart (PABC) < 75 of 28 days to the discontinuation of the study (S13)"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT02587000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04184323",
+      "title": "SIRT1-1 Antagonist Therapy Before Embryo Transfer to Improve Endometrial Receptivity and Life Pregnancy Rates",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2022-01",
+      "completion_date": "2023-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Progesterone resistance is mediated through epigenetic modification through SirT1 activation and is thought to contribute to infertility and progression of endometriosis. Endometriosis is a leading cause of unexplained IVF failure secondary to inflammatory changes that induce SirT1. The current study is designed to investigate a small molecule inhibitor of SirT1, in the clinical setting of In Vitro Fertilization and Embryo Transfer. The SAFER trial will compare EX-527 to placebo in a randomized,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must test positive for SIRT1 on mid-luteal endometrial biopsy\n* Prior failed embryo transfer with euploid embryos\n* Have at least one euploid embryo for transfer\n\nExclusion Criteria:\n\n* systemic illness affecting kidneys or liver; chronic headache or severe migraine\n* Endometr",
+      "endpoints": [
+        "Live birth rate"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04184323"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07358468",
+      "title": "Effects Of Endometrial Preparation Protocols On Peristalsis And Pregnancy Rates In Frozen Embryo Transfer: A Prospective Cohort Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-20",
+      "completion_date": "2027-12-01",
+      "country": "Vietnam",
+      "enrollment": 356,
+      "brief_summary": "The uterus is a dynamic muscular organ that undergoes rhythmic, wave-like contractions known as endometrial peristalsis or endometrial waves. This muscular activity, which is an essential component of natural fertility, presents a nuanced and sometimes contradictory role in the context of assisted reproductive treatments. Endometrial peristalsis refers to the frequency, amplitude, and pattern of myometrial contractions occurring in different reproductive phases. These peristalsis play vital role",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged 18 - 42 years old\n* Scheduled for frozen embryo transfer cycles using hormone replacement therapy protocol or natural cycle protocol (True natural cycles or modified natural cycles)\n* Transferred no more than two cleavage embryos or one good-quality blastocyst or no",
+      "endpoints": [
+        "The frequency of endometrial peristalsis at different time points, and different FET protocol."
+      ],
+      "sponsor": "Mỹ Đức Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07358468"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02647424",
+      "title": "A Comparison of Hormonal Profile and the Follicular Development Between Letrozole and Clomifene Citrate in Anovulatory Women With Polycystic Ovary Syndrome and Ovulatory Women",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-12",
+      "completion_date": "2017-12",
+      "country": "Hong Kong",
+      "enrollment": 40,
+      "brief_summary": "Polycystic ovary syndrome (PCOS) is one of the most common endocrinopathies, affecting 5% to 10% of women of reproductive age. Women with PCOS suffer from anovulatory infertility. Following lifestyle modification with weight reduction in obese PCOS women, clomifene citrate (CC) is considered the first line treatment for ovulation induction (OI) in these women. 75-80% of women will ovulate after CC administration. However, there is a discrepancy between the ovulation rate and pregnancy rate, whic",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age of women 18-39 years\n* Irregular menstrual cycles with anovulation (cycle \\>35 days) together with polycystic ovaries on pelvic scanning or laboratory/clinical hyperandrogenism (in PCOS group)\n* Regular cycle of 25-35 days cycle for the ovulatory women group\n* Body mass in",
+      "endpoints": [
+        "FSH concentrations"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT02647424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07173127",
+      "title": "The Effect of a Novel Combined Hormonal Treatment Containing a GnRH-antagonist for Uterine Fibroids and Endometriosis on Hemostasis Parameters: a Prospective Cohort Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-30",
+      "completion_date": "2026-12-30",
+      "country": "Switzerland",
+      "enrollment": 30,
+      "brief_summary": "Uterine fibroids and endometriosis are two frequent diseases among women of reproductive age. They can be responsible for chronic and/or menstrual pelvic pain and abnormal uterine bleeding. The first-line management of these conditions relies on medical treatment. Hormonal treatment with contraceptive pill can be effective, although up to 30% of patients do not respond to this line of treatment. In this context, GnRH antagonists have been introduced. By suppressing ovulation, they inhibit the ac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women consulting at the DFEA of the HUG, who are prescribed Ryeqo® for a qualified medical condition\n* Age ≥ 18 years\n\nExclusion Criteria:\n\n* Unable to speak and/or read French\n* Having used either an oestro-progestin pill (oral, patch or vaginal ring) or oral estrogens in the",
+      "endpoints": [
+        "Change from baseline in the mean value of normalized activated protein C resistance (nAPCsr) at 3 months of treatment with Ryeqo"
+      ],
+      "sponsor": "University Hospital, Geneva",
+      "url": "https://clinicaltrials.gov/study/NCT07173127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04107129",
+      "title": "Predicting Endometrial Receptivity for Optimal Reproductive Management (PERFORM)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-07-01",
+      "completion_date": "2024-07-30",
+      "country": "United States",
+      "enrollment": 76,
+      "brief_summary": "The purpose of this study is to understand why some women are infertile (unable to conceive a child). The investigators hope to learn if an endometrial biopsy after egg retrieval is feasible for detecting biomarkers for endometriosis and predicting implantation and pregnancy rate after embryo transfer.\n\nThis study design will provide for the first time, an opportunity to compare endometrial biopsy material from hyperstimulated (gonadotropin treated) subjects after egg retrieval. If successful, i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age - 18 to 42\n2. AMH ≥ 1\n3. Planning to undergo IVF with delayed embryo transfer\n4. Must have blastocyst(s) by day 6 that were biopsied for PGT-A\n5. BMI 18-35\n\nExclusion Criteria:\n\n1. Uterine fibroids \\> 4 cm in size\n2. Polycystic ovary syndrome (PCOS) according with the Rot",
+      "endpoints": [
+        "SIRT1 gene expression in the endometrium"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT04107129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01711216",
+      "title": "A Post-Marketing, Prospective, Multicenter, Observational Program: Treatment Regimen in Menstrual Cycle Regularization and Persistence in Routine Clinical Practice in Russia, Ukraine, Kazakhstan and Uzbekistan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2014-08",
+      "country": "Uzbekistan, Russia, Ukraine, Kazakhstan",
+      "enrollment": 999,
+      "brief_summary": "Dydrogesterone is approved in more than 100 countries including Russia, Ukraine, Kazakhstan and Uzbekistan and widely used for the treatment of progesterone deficiencies such as for management of dysmenorrhea, endometriosis, secondary amenorrhea, irregular cycles, dysfunctional uterine bleeding, pre-menstrual syndrome, threatened and habitual miscarriage, infertility due to luteal insufficiency, as well as part of hormone replacement therapy. There are limited data regarding dydrogesterone's rol",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Women aged 18-40 years\n* Irregular menstrual cycle due to progesterone deficiency for at least 3 months\n* Dydrogesterone prescribed in accordance with locally approved package insert\n* Signed written authorization to provide data for the program\n\nExclusion Criteria\n\n* Known hyp",
+      "endpoints": [
+        "Number of Patients Received Dydrogesterone Therapy Cycles (by Cycle Number)",
+        "Number of Patients With Regular Menstrual Cycles During Follow-up (by Number of Cycles)"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT01711216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07204093",
+      "title": "Transdermally Applied Estradiol Delivery In Ultra-Safe Medications Valuable In Treatment Against Endometriosis",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-08-11",
+      "completion_date": "2026-02",
+      "country": "Italy",
+      "enrollment": 138,
+      "brief_summary": "Endometriosis is a chronic, estrogen-dependent disease affecting women of reproductive age, associated with pelvic pain, infertility, and reduced quality of life. Progestins are the standard first-line therapy, but long-term treatment requires well-tolerated regimens that balance efficacy with patient satisfaction.\n\nThis study will compare two combinations of progestins with natural transdermal estradiol-dienogest versus drospirenone-to evaluate which regimen provides greater patient satisfactio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women who have been on combination therapy for at least 6 months with progestin and transdermal natural oestrogen (Dienogest + transdermal oestradiol or Drospirenone + transdermal oestradiol);\n* women who have performed follow-up at least 6 months after the start of treatment ",
+      "endpoints": [
+        "Patients' statisfaction"
+      ],
+      "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+      "url": "https://clinicaltrials.gov/study/NCT07204093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441635",
+      "title": "Phase 2a Proof Of Concept Study to Evaluate the Safety and Efficacy of Elagolix in Pre-Menopausal Women With Heavy Uterine Bleeding and Uterine Fibroids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09-08",
+      "completion_date": "2014-05-17",
+      "country": "N/A",
+      "enrollment": 271,
+      "brief_summary": "The purpose of this proof-of-concept study is to assess the safety and effectiveness of elagolix versus placebo to reduce uterine bleeding associated with uterine fibroids, and to reduce fibroid volume and uterine volume in premenopausal women 20 to 49 years of age with heavy uterine bleeding.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is a pre-menopausal female 20 to 49 years of age.\n* Subject has a diagnosis of uterine fibroids documented by a pelvic ultrasound assessed by a central reader and verification that a fibroid present met the following criteria:\n\n  * At least 1 fibroid with diameter ≥ 2 ",
+      "endpoints": [
+        "Mean Change From Baseline to the Last 28 Days of Treatment in Menstrual Blood Loss (MBL)"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01441635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03946722",
+      "title": "Modified Downregulation for Women With Adenomyosis of the Uterus Prior to Frozen-thawed Embryo Transfer.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-08-17",
+      "completion_date": "2024-05-17",
+      "country": "United Kingdom",
+      "enrollment": 162,
+      "brief_summary": "1 in 7 couples experience difficulty in conceiving. Many will require in vitro fertilization (IVF). IVF involves an initial period of downregulation to suppress the ovaries and prevent premature ovulation. Hormone injections are then used to stimulate a woman's ovaries to produce eggs which are removed by a minor operation. The harvested eggs are mixed with sperm to create embryos in the laboratory. These embryos are replaced in the womb a few days after they are created (fresh embryo transfer).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Couples who are undergoing a cycle of IVF/ICSI, where a cycle is defined as egg collection following ovarian stimulation.\n2. The female partner is ≥18 and \\< 42 years of age.\n3. The female partner has a BMI \\<30.\n4. Two out of three of the following criteria are met: AMH \\>5.",
+      "endpoints": [
+        "Clinical pregnancy rate"
+      ],
+      "sponsor": "University College, London",
+      "url": "https://clinicaltrials.gov/study/NCT03946722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07162961",
+      "title": "A Single-center, Randomized, Prospective, Controlled Clinical Study on the Efficacy of Nintedanib in Improving Reproductive Outcomes in Women With Adenomyosis",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09-01",
+      "completion_date": "2027-06-30",
+      "country": "N/A",
+      "enrollment": 328,
+      "brief_summary": "This study aims to evaluate the effectiveness and safety of nintedanib, an antifibrotic drug, in improving live birth rates for infertile women with adenomyosis who have frozen embryos. Based on promising animal data showing reduced uterine fibrosis, participants will be randomized to receive either standard progesterone therapy plus nintedanib or progesterone therapy alone for three months before undergoing a frozen embryo transfer cycle.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAged 20-38, diagnosed with primary or secondary infertility; with at least one vitrified high-quality blastocyst (grading ≥4BB).\n\nDiagnosed with adenomyosis within the last 3 months by MRI or transvaginal ultrasound, meeting the criteria of the Chinese Expert Consensus on Diagno",
+      "endpoints": [
+        "live birth rate"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT07162961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04741295",
+      "title": "To Study the Effect of Low Molecular Weight Heparin on the Adenomyosis Patients'Outcome of in Vitro Fertilization-embryo Transplantation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-02-01",
+      "completion_date": "2022-01-31",
+      "country": "China",
+      "enrollment": 70,
+      "brief_summary": "In assisted reproductive technology, adenomyosis patients are characterized by lower clinical pregnancy rate, lower implantation rate and higher abortion rate. The purpose of this study is to explore whether low molecular weight heparin can reduce the abortion rate of adenomyosis patients in frozen thawed embryo transfer cycles.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The basal serum level of FSH was less than 10 IU / L\n2. Diagnosed with adenomyosis by ultrasound\n3. The first frozen thawed embryo transfer cycle, by hormone replacement protocol\n4. Transfer at least one high quality frozen embryo;\n5. Patients agreed to use low molecular weig",
+      "endpoints": [
+        "Early spontaneous abortion rate"
+      ],
+      "sponsor": "Nanjing University",
+      "url": "https://clinicaltrials.gov/study/NCT04741295"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01301885",
+      "title": "Novel Diagnostic Tools for Endometriosis and Their Exploitation for Prognosis and Prevention of Complications",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2005-10",
+      "completion_date": "2028-12",
+      "country": "Finland",
+      "enrollment": 230,
+      "brief_summary": "Endometriosis is a chronic disease characterized by the presence of functional endometrial glands and stroma in ectopic locations outside the uterine cavity. The ectopic endometrial tissue responds to estradiol and other hormones similarly to the normal endometrium. Endometriosis is one of the most common benign gynecological conditions, as many as 5-10% of women in the reproductive age may be affected. In addition to pain which may be severe, subfertility is one of the typical problems associat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* study group: surgically and pathologically verified endometriosis\n* control group: existence of endometriosis ruled out in laparoscopy\n\nExclusion Criteria:\n\n* no other significant disease or medication for other diseases\n* suspicion of malignancy\n* pregnancy\n* acute infection\n",
+      "endpoints": [
+        "Intra-tissue steroid profiling indicates differential progesterone and testosterone metabolism in the endometrium and endometriosis lesions.",
+        "Endometrial and endometriotic concentrations of estrone and estradiol are determined by local metabolism rather than circulating levels.",
+        "Serum HE4 concentration differentiates malignant ovarian tumours from ovarian endometriotic cysts."
+      ],
+      "sponsor": "Turku University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01301885"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06543550",
+      "title": "Comparison Between the Effects of Implantable Gestrinone and Oral Dienogest in the Treatment of Endometriosis: Randomized Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-07-30",
+      "completion_date": "2025-10",
+      "country": "Brazil",
+      "enrollment": 70,
+      "brief_summary": "This study aims to evaluate the effects of therapy with implantable Gestrinone compared to oral Dienogest in relieving complaints related to endometriosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult female patients of menstrual age, pre-menopause (18 to 45 years old), who seek medical treatment to alleviate complaints related to endometriosis, who are not undergoing other therapies to treat them.\n* Patients must have a diagnosis of Grade 1 or 2 endometriosis assesse",
+      "endpoints": [
+        "Evaluation of dysmenorrhea severity",
+        "Evaluation of dyspareunia severity",
+        "Evaluation of non-cyclical pelvic pain severity"
+      ],
+      "sponsor": "Bio Meds Pharmaceutica Ltda",
+      "url": "https://clinicaltrials.gov/study/NCT06543550"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03520439",
+      "title": "Mifepristone Versus Placebo to Treat Adenomyosis: a Double-blind, Multicentre，Randomized Clinical Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-05-19",
+      "completion_date": "2019-10-01",
+      "country": "China",
+      "enrollment": 134,
+      "brief_summary": "This clinical trial is designed to study the effectiveness and safety of mifepristone in the treatment of symptomatic adenomyosis with multi center, random, double blind and controlled clinical trials. This multicenter study is performed in 150 subjects who are diagnosed as adenomyosis . Twelve weeks of randomization, allocation concealment, double-blind, placebo-controlled, parallel grouping. Subjects are randomly assigned to one of two treatment groups and received one of the following treatme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. B-ultrasound or magnetic resonance imaging (MRI) examination confirmed that the subject has adenomyosis, and the uterus is less than 10 weeks of pregnancy;\n2. Visual analogue scale (VAS) of adenomyosis-associated pain\\> 0 points; with or without menorrhagia (PBAC≥100 points);",
+      "endpoints": [
+        "changes in chronic pelvic pain associated with adenomyosis"
+      ],
+      "sponsor": "Women's Hospital School Of Medicine Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT03520439"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04955574",
+      "title": "Probiotic and Antibiotic Therapies in Women With Unexplained Infertility",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2023-01",
+      "completion_date": "2024-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The study is designed as a proof of concept pilot study with 3 study arms to evaluate the safety and feasibility of the use of oral probiotics and/or antibiotics in women with unexplained infertility/endometriosis. Our secondary outcomes will assess In Vitro Fertilization outcomes, and changes in the uterine microbiota (bacteria), intestinal barrier integrity, and urinary metabolites in response to study interventions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female aged 18-40 at the time of egg retrieval\n2. Generally in good health (at physician's discretion)\n3. Diagnosed with Unexplained Infertility\n4. Diagnosed with or suspected of having endometriosis (at ONE Fertility physician's discretion)\n5. Normal uterine cavity as assess",
+      "endpoints": [
+        "Rate of study enrollment",
+        "Rate of retention of study participants",
+        "Proportion of participants adhering to study protocol"
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT04955574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07240363",
+      "title": "First Line Surgery or First Line Fertility Treatment Using Assisted Reproductive Technologies in Patients With Advanced Endometriosis: A National Multicenter Randomized-controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-10-06",
+      "completion_date": "2031-09-22",
+      "country": "Sweden",
+      "enrollment": 350,
+      "brief_summary": "Endometriosis is a chronic disease affecting approximately 10% of women of reproductive age. It is strongly associated with pelvic pain and infertility. Women with advanced stages of the disease (stage III-IV) have markedly reduced fertility compared with the general population. A Swedish study has shown that about 22% of women undergoing treatments with assisted reproductive technologies (ART), such as in vitro fertilization (IVF), are affected by endometriosis.\n\nThe optimal management of women",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 - 38 years old\n* Endometriosis AAGL stage III-IV\n* Referred or eligible for ART-treatment such as IVF or ICSI, independent of infertility diagnosis (28) (including sperm donation cycles for social reasons) and/or infertility due to dyspareunia/dysmenorrhea caused by end",
+      "endpoints": [
+        "Cumulative live-birth rate (CLBR)"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT07240363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07078435",
+      "title": "Inflammation, Innate Immunity, MIcrobiota and Inovative Treatments in ENDOmetriosis",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09-09",
+      "completion_date": "2027-09-30",
+      "country": "France",
+      "enrollment": 40,
+      "brief_summary": "Endometriosis is a chronic inflammatory, polygenic, and multifactorial disease affecting approximately 10% of women of reproductive age, corresponding to over one million women in France. Endometriosis profoundly impairs the health and quality of life of affected individuals and carries a significant socio-economic burden, making it a major public health concern. To date, the pathogenesis and prognostic factors of disease progression remain poorly understood. Despite current treatment options, w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged 18-42 years.\n* Surgery scheduled during the luteal phase.\n* Written informed consent provided.\n\nAdditional inclusion criteria for the \"endometriosis\" group:\n\n* Women with confirmed endometriosis and a surgical indication (due to persistent symptoms despite medical t",
+      "endpoints": [
+        "To identify immune biomarkers associated with endometriosis."
+      ],
+      "sponsor": "University Hospital, Grenoble",
+      "url": "https://clinicaltrials.gov/study/NCT07078435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04374006",
+      "title": "Effects of Tetragonula Aff. Biroi Propolis Extract on Lesion Growth, Apoptotic and Inflammatory Activity of the Rat Endometriosis Tissue",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-11-01",
+      "completion_date": "2020-05-18",
+      "country": "Indonesia",
+      "enrollment": 120,
+      "brief_summary": "This study aims to evaluating inflammatory and apoptotic activity in rat's endometriosis lesion treated by Propolis compared to Dienogest",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* female ratus rat type\n* having normal estrus cycle\n\nExclusion Criteria:\n\n* nothing",
+      "endpoints": [
+        "mRNA expressions of Bax, Bcl, Cleaved Caspase 3, IL-1B, and PGE 2",
+        "Mollecular docking",
+        "Lession size"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT04374006"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05937490",
+      "title": "Assisted Reproductive Technology (ART) and Pregnancy Outcomes in Women With Adenomyosis (Internal Endometriosis) According to Stimulation Protocol in Relation to Immunological and Endometrial Features: a Prospective, Randomized Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-03-27",
+      "completion_date": "2025-03",
+      "country": "Italy",
+      "enrollment": 500,
+      "brief_summary": "The goal of this clinical trial is to:\n\n* Prospectively investigate the association of Adenomyosis with fertility outcomes in relation to COH protocols for ART (long or ultra- long protocol) with a preventive high-dose anti-inflammatory progestin such as DNG and to assess their association with pregnancy and neonatal outcomes (preterm delivery,pre-eclampsia,Caesarean section,fetal malpresentation,small for gestational age,low birth weight and postpartum hemorrhage).\n* Understand how the endometr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adenomyosis of the uterus defined with at least one of the following features: (1) heterogeneous myometrium; (2) hypoechoic striation in the myometrium; (3) myometrial anechoic lacunae or cysts; (4) asymmetrical myometrial thickening of the uterine walls.\n* Couples who are und",
+      "endpoints": [
+        "live birth after ART"
+      ],
+      "sponsor": "Azienda Ospedaliero-Universitaria di Modena",
+      "url": "https://clinicaltrials.gov/study/NCT05937490"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05698212",
+      "title": "Proof-of-Concept, Obs Study to Evaluate Accuracy of MetriDx Lab Developed Test (LDT) to Accurately Identify Endometriosis-specific Biological Markers Using Micro-fluidic Analysis of Cells Enabling Clinicians to Diagnose Endometriosis",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-09-14",
+      "completion_date": "2023-04-10",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "This study is testing a way to diagnose endometriosis using a uterine tissue biopsy (similar to a pap smear) as opposed to undergoing laparoscopy surgery. The tissue is sent to lab for cellular analysis with a proprietary AI (artificial intelligence) technology.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able to understand and provide informed consent.\n* Natural born female of childbearing potential.\n* Age between 18 and 50, inclusive.\n* Not pregnant at Visit 0 (screening) or Visit 1 (day of procedure).\n* Free of systemic or pelvic disorder that, in the opinion of the investig",
+      "endpoints": [
+        "Primary Outcome"
+      ],
+      "sponsor": "Hera Biotech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05698212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00511797",
+      "title": "A Multicenter, Double-blind, Randomized, Placebo-controlled Comparative Study to Investigate the Optimal Dose of Drospirenone for Dysmenorrhea With SH T04740A [Drospirenone 1 mg/Ethinylestradiol 20 µg (as ß-cyclodextrin Clathrate)], SH T 04740E [Drospirenone 2 mg/Ethinylestradiol 20 µg (as ß-cyclodextrin Clathrate)] and SH T00186D [Drospirenone 3 mg/ Ethinylestradiol 20 µg (as ß-cyclodextrin Clathrate)] Administered Orally for 16 Weeks (4 Cycles), and to Confirm the Efficacy of SH T00186D for Dysmenorrhea.",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2009-01",
+      "country": "Japan",
+      "enrollment": 249,
+      "brief_summary": "The purpose of this study is to investigate efficacy of drospirenone for dysmenorrhea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 20 years or older at obtaining informed consent\n* Patients having the normal menstrual cycle (28+/-3 days) in the latest two menses before the final enrollment\n* Patients having a total dysmenorrhea score of at least 3 points in two menstrual cycles before the fi",
+      "endpoints": [
+        "Change From Baseline in Total Dysmenorrheal Score at Final Evaluation"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00511797"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06239376",
+      "title": "The Effectiveness of the Two Different Endometrial Preparation Regimes for Frozen Embryo Transfer in Patients With Adenomyosis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-02-19",
+      "completion_date": "2027-01-02",
+      "country": "Vietnam",
+      "enrollment": 222,
+      "brief_summary": "This randomized clinical trial aims to assess the comparative effectiveness of two distinct endometrial preparation protocols for frozen embryo transfer (FET) among women with adenomyosis undergoing IVF/ICSI. Specifically, it seeks to address the following key questions:\n\n1. Does the protocol involving the combination of GnRH agonist and letrozole for down regulation with exogenous steroids (GnRHa+AI - AC) result in a higher live birth rate compared to the use of exogenous steroids alone (AC) in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirm diagnosis with adenomyosis by using transvaginal ultrasonography (MUSA consensus) and/or pelvic magnetic resonance imaging.\n* Age between 18 - 42\n* Undergo less or equal to three previous IVF cycles\n* Indicate for frozen embryo transfer\n* Agree to have not more than tw",
+      "endpoints": [
+        "Live birth rate after one frozen embryo transfer cycle"
+      ],
+      "sponsor": "Mỹ Đức Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06239376"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06174792",
+      "title": "Evaluation of the Efficacy and Safety of Drospirenone in the Treatment of Adenomyosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-30",
+      "completion_date": "2024-12",
+      "country": "Italy",
+      "enrollment": 40,
+      "brief_summary": "Adenomyosis is a common benign condition of fertile women and is characterized by dysmenorrhea, hypermenorrhea, abnormal uterine bleeding, infertility and chronic pelvic pain.\n\nTo date, no clear guidelines are available regarding the treatment of adenomyosis, however, resembling endometriosis, as it too is a sex hormone-dependent inflammatory condition, numerous hormonal and non-hormonal treatments are currently being used off-label in the treatment of this condition, succeeding in controlling, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18 years or older;\n* regular menstrual cycle;\n* adenomyosis diagnosed by imaging analysis (magnetic resonance imaging \\[MRI\\] or transvaginal ultrasound);\n* no other treatment for adenomyosis for at least 3 months before drospirenone administration;\n* painful symptoms (low",
+      "endpoints": [
+        "reduction of the level of chronic pain assessed with Visual Analogue Scale"
+      ],
+      "sponsor": "University of Palermo",
+      "url": "https://clinicaltrials.gov/study/NCT06174792"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03756480",
+      "title": "Prospective Clinical Study of the Relationship Between Cancer Driving Mutations Found in Endometriotic Implants and the Development of Progesterone Resistance",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-10-01",
+      "completion_date": "2026-10-01",
+      "country": "United States",
+      "enrollment": 135,
+      "brief_summary": "This study will test the hypothesis that the molecular changes present in ectopic endometriosis lesions correlate with progesterone-resistant disease (using the criteria defined in this study) and are present in matched eutopic endometrium.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent.\n* Gender: female.\n* Age: 18-45 years at the time of signing consent.\n* Clinical or surgical diagnosis of endometriosis undergoing laparoscopy.\n* Controls may not have clinical or surgical diagnosis of endometriosis.\n* Regular menstrual cycles.\n* BMI be",
+      "endpoints": [
+        "Number of somatic cancer driver mutations in progesterone-resistant versus progesterone-sensitive endometriosis lesions."
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT03756480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06331676",
+      "title": "Developing a Complex ex Vivo Endometrial Tissue Model Based on Patient Biopsies to Assess and Optimise the Response to Current and Potential Treatments for Endometriosis",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-06-21",
+      "completion_date": "2028-03-21",
+      "country": "France",
+      "enrollment": 90,
+      "brief_summary": "Endometriosis is a chronic gynaecological disease characterised by the growth of endometrium outside the uterus. It affects 10% of childbearing age women.\n\nThere is no cure for endometriosis. Hormonal treatments should be the first line therapy. The benefit-risk ratio of symptomatic treatment with hormone therapy varies greatly from one woman to another. The pathophysiology of endometriosis and the mechanisms of action of these treatments are still poorly understood. This may be due to the lack ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female\n* People aged between 18 and 50\n* Person who has or has had hormonal contraceptive treatment\n* A person who has given written consent\n* Person diagnosed with a benign gynaecological pathology not affecting the endometrium and requiring hysterectomy, hysteroscopy or lapa",
+      "endpoints": [
+        "Viability of all the cells forming the complex endometrial tissue generated ex vivo by tissue bioengineering."
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT06331676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01525563",
+      "title": "Duphaston in Cycle Regularization: A Post-marketing, Prospective, Multicenter, Observational Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2013-12",
+      "country": "India",
+      "enrollment": 1000,
+      "brief_summary": "In India Duphaston is approved and widely used for the treatment of progesterone deficiencies such as for management of dysmenorrhea, endometriosis, secondary amenorrhea, irregular cycles, dysfunctional uterine bleeding, pre-menstrual syndrome, threatened and habitual abortion, infertility due to luteal insufficiency, as well as part of hormone replacement therapy. One Indian study reported normalization of the cycle in 91.6% of women with menstrual problems after three cycles of therapy with dy",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Women aged 18 years or older\n* Suffering from irregular menstrual cycle for at least 3 months and for whom the physician decides to prescribe Duphaston, in accordance with locally approved package insert\n* Patients willing to sign written authorization to provide data for the s",
+      "endpoints": [
+        "Percentage of Patients Reporting a Regular Cycle"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT01525563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00073801",
+      "title": "The Neural Immune Mechanisms and Genetic Influences on Chronic Pelvic Pain in Women With Endometriosis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-04-22",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 78,
+      "brief_summary": "This study will examine pelvic pain associated with endometriosis and explore better approaches to treatment. In women with endometriosis, uterine tissue grows outside the uterus. Standard treatments - altering hormone levels to prevent endometrial tissue growth or surgically removing endometrial tissue - treat pelvic pain only temporarily. This study will investigate the role of sex hormones, immune chemicals, stress hormones, and genes in pelvic pain and determine how the nerve, muscle, and sk",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nWomen between the ages of 18 and 50 years, who have their reproductive organs. Those undergoing tubal ligation must be at least 21 years old.\n\nExcellent health other than a three-month history of pelvic pain and documented endometriosis at laparoscopy. Chronic medications may ",
+      "endpoints": [
+        "To evaluate the menstrual dynamics of systemic cytokine expression in endometriosis, and to measure the expression of pro-inflammatory cytokines, stem cells, immunologic activity, and neurotransmittors in endometriosis lesions and the endometriu..."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00073801"
+    }
+  ],
+  "timestamp": "2026-03-04T17:02:04.697960",
+  "success": true,
+  "error_message": null
+}

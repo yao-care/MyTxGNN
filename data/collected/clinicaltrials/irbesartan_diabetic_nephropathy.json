@@ -1,0 +1,338 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Irbesartan",
+    "disease": "diabetic nephropathy"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00212901",
+      "title": "Addition of Angiotensin Receptor Blockade to ACE Inhibition Versus High Dose ACE Inhibition for Reduction of Proteinuria in Patients With Diabetic Nephropathy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2006-09",
+      "country": "Canada",
+      "enrollment": 30,
+      "brief_summary": "Investigation of wheather addition of angiotensin receptor blocker (Irbesartan) to recommended doses of angiotensin converting enzyme inhibitor (trandolapril) is more effective in decreasing amount of protein in urine in patients with diabetic kidney disease than high doses of trandolapril.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Early diabetic nephropathy as defined by proteinuria between 500mg/24hr and 3g/24hr and GFR\\&gt;50ml/min (as calculated by the Cockcroft-Gault formula), in the absence of clinical and laboratory evidence of other non-diabetic renal disease.\n2. Controlled blood pressure (\\&lt;",
+      "endpoints": [
+        "reducing proteinuria"
+      ],
+      "sponsor": "Ottawa Hospital Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00212901"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01109212",
+      "title": "The Effects of the Association Bindarit + Irbesartan Versus Irbesartan Alone on Albuminuria on Patients With Diabetic Nephropathy. Placebo-controlled Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2008-12",
+      "country": "Slovenia, Italy",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to determine whether bindarit is effective to reduce albuminuria, compared to placebo, in nephropathic patients treated with irbesartan, as a background therapy.",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\n* male and female patients with no limitation of race, aged 30 to 70 years;\n* Type 2 diabetes defined as: \\> 30 years of age at diagnosis; insulin not required within 6 months of initial diagnosis; no history of diabetic ketoacidosis; currently treated with diet, oral hypoglycemi",
+      "endpoints": [
+        "Urinary Albumin Excretion (µg/min) levels in the overnight urine specimen."
+      ],
+      "sponsor": "Aziende Chimiche Riunite Angelini Francesco S.p.A",
+      "url": "https://clinicaltrials.gov/study/NCT01109212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362258",
+      "title": "Irbesartan In Hypertensive Diabetic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2008-09",
+      "country": "Egypt",
+      "enrollment": 797,
+      "brief_summary": "* To evaluate Blood Pressure (BP) reduction to the targeted values (Systolic BP ≤ 130 mmHg and Diastolic BP ≤ 80 mmHg) in hypertensive type 2 diabetic patients.\n* To evaluate the benefit of Irbesartan in the reduction of microalbuminuria from baseline (if any at the inclusion visit) in this population.\n* To demonstrate the safety of Irbesartan in this population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Proven Hypertensive Type 2 Diabetic Patients with HbA1c \\> 6% and ≤ 10% (with or without microalbuminuria).\n* Newly diagnosed \"naïve\" hypertensive patients (no prior treatment for hypertension). OR,\n* Patients who were receiving antihypertensive agents (maximum two agents, inc",
+      "endpoints": [
+        "Reach blood pressure target in hypertensive diabetic patients i.e. 130/80 mmHg."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00362258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00317915",
+      "title": "The Irbesartan in Patients With Type 2 Diabetes and Microalbuminuria (IRMA 2)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The aim of this multicenter, doubleblind, randomized study was to investigate the renoprotective effect of irbesartan treatment in patients with type 2 diabetes and microalbuminuria (a precursor of diabetic kidney disease). 590 patients were randomized to a median 24 months of treatment with 300 mg irbesartan once daily, 150 mg irbesartan once daily or placebo. Time to development of overt nephropathy, defined by persistent proteinuria, was the primary outcome measure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nType 2 diabetes. Hypertension. Persistent microalbuminuria. Serum creatinine concentration of no more than 1.5 mg per deciliter (133 µmol per liter) for men and no more than 1.1 mg per deciliter (97 µmol per liter) for women. -\n\nExclusion Criteria:\n\nNondiabetic kidney disease. C",
+      "endpoints": [
+        "Development of overt nephropathy"
+      ],
+      "sponsor": "Steno Diabetes Center Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT00317915"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03627715",
+      "title": "A Phase 2, Double-Blind, Randomized, Placebo-Controlled, Crossover Study Evaluating the Safety and Efficacy of Propagermanium in Patients With Diabetic Kidney Disease (DKD) Who Are Receiving Irbesartan",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-11-06",
+      "completion_date": "2020-08-18",
+      "country": "Australia",
+      "enrollment": 45,
+      "brief_summary": "This study will be evaluating the safety and efficacy of propagermanium for the treatment of participants with DKD who are already taking irbesartan by:\n\n* monitoring symptoms that participants may experience while on the study,\n* measuring levels of protein in participant's urine and kidney function during the course of the study,\n* measuring the levels of propagermanium and irbesartan that enters into participant's urine and blood, and\n* comparing the propagermanium outcomes to participants' p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18 to 90 (inclusive) at screening;\n2. A diagnosis of type 2 diabetes mellitus;\n3. Baseline glycated haemoglobin (HbA1c) ≤ 12%;\n4. Fasting plasma glucose \\< 21 mmol/L;\n5. Must be receiving a stable dose of 300 mg daily of irbesartan (in any marketed formulation) for at le",
+      "endpoints": [
+        "The Change in Albumin/Creatinine Ratio with Adjunct use of Propagermanium Compared to Placebo in Participants with DKD who are Receiving Irbesartan"
+      ],
+      "sponsor": "Dimerix Bioscience Pty Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT03627715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03147677",
+      "title": "A Prospective, Multi-center, Randomized, Open-label, Parallel-arm Controlled Study of Treating Type 2 Diabetic Nephropathy (Stage II-IV) With Alfacalcidol and Irbesartan",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-07-28",
+      "completion_date": "2018-12-30",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "This is a prospective, multi-center, randomized, open-label, parallel-arm controlled study, for which a total of 216 patients with type 2 diabetic nephropathy (Stage II-IV) will be enrolled. The subjects will be randomized to three groups in 1:1:1 ratio. One group receive Alfacalcidol 0.25ug/day and Irbesartan 150mg/day for 16 consecutive weeks. The second group receive Alfacalcidol 0.25ug/day alone for 16 consecutive weeks. The third group receive Irbesartan 150mg/day alone for 16 consecutive w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult Chinese subjects, at age 18-65, diagnosed with Type 2 diabetic nephropathy (Stage II-IV) who meet the WHO diagnostic standards of diabetes in 1999. The international Mogensen staging standard for diabetic nephropathy is used. Specifically, in Stage II (normal albuminuria",
+      "endpoints": [
+        "Changes in 24h urinary albumin excretion rate (UAER) by comparing visits at week 20 with the baseline",
+        "Changes in 24h urinary protein quantity by comparing visits at week 20 with the baseline"
+      ],
+      "sponsor": "The Third Xiangya Hospital of Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT03147677"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03016832",
+      "title": "A Randomized, Double-blind, Parallel-controlled, Multi-center Clinical Trial of HuangKui Capsule to Treat Diabetic Kidney Disease",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2017-01",
+      "completion_date": "2018-12",
+      "country": "China",
+      "enrollment": 414,
+      "brief_summary": "1. Name of Investigational Products Huangkui capsule.\n2. Trial Topic A Randomized, Double-blinded, Parallel, controlled, Multicenter Clinical Trial of Huangkui Capsule in Treating Type II Diabetic Nephropathy (DKD)\n3. Trial Objectives Primary objective:To evaluate HuangKui capsule efficacy for treatment of type II diabetes ACR.\n\n   Secondary objective: To evaluate the efficacy of HuangKui capsule on 24-hour urinary protein changes、reduce PCR-increase eGFR, improve micro-inflammatory state, and i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18 to 75 years old, male or female\n2. Meet the diagnostic criteria of type 2 diabetes published by the World Health Organization (WHO) in 1999: fasting plasma glucose\\>126mg/dL (or\\>7.0mmol/L), 2h postprandial blood glucose\\>200mg/dL (or\\>11.1mmol/L), or 2h blood glucose",
+      "endpoints": [
+        "ACR"
+      ],
+      "sponsor": "Jiangsu Famous Medical Technology Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03016832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04983979",
+      "title": "A Multi Site, Placebo Controlled, Double Blind Randomised Clinical Trial Evaluating the Effectiveness of Sodium Zirconium Cyclosilicate Versus Placebo to Enable Safe Optimisation of RASi Therapy in Patients With Diabetic Kidney Disease.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-06-17",
+      "completion_date": "2023-05-16",
+      "country": "United Kingdom",
+      "enrollment": 18,
+      "brief_summary": "The hypothesis is that 3 months' treatment with SZC versus placebo will enable RASi (Irbesartan) maximisation in a cohort of patients with diabetic kidney disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able and willing to provide written informed consent\n2. Adults ≥ 18years old\n3. Type 2 Diabetes\n4. CKD defined as eGFR 25-60ml/min\n5. Albuminuria with uACR measured at \\>33.9.mg/mmol (300mg/g)\n6. On a stable (\\>4 weeks) of sub-maximal RASi dose, defined as any ACE or ARB dose",
+      "endpoints": [
+        "Proportion of Patients on Maximum Dose (300mg) Irbesartan Therapy at 12 Weeks Compared to Placebo"
+      ],
+      "sponsor": "Barts & The London NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04983979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06660940",
+      "title": "A Randomized, Double-blind, Multicenter Clinical Trial of Keluoxin Capsules in the Treatment of Diabetic Kidney Disease with Diabetic Retinopathy",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10",
+      "completion_date": "2027-10",
+      "country": "N/A",
+      "enrollment": 460,
+      "brief_summary": "The purpose of the study is to evaluate the efficacy of Keluoxin Capsules for the treatment of diabetic kidney disease (DKD) and diabetic retinopathy (DR) compared to placebo on a conventional treatment basis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18-75 years old, either sex;\n* Meeting the diagnostic criteria for type 2 diabetes mellitus and DKD;\n* The target eye met the diagnostic criteria for type 2 DR and the fundus showed moderate or severe NPDR;\n* Have been treated with an adequate dose of RAASIs for more than",
+      "endpoints": [
+        "The 24-hour urinary protein quantitation (24h UTP) level and changes from baseline at 52 weeks.",
+        "The macular vascular density or foveal avascular zone area and changes from baseline at 52 weeks."
+      ],
+      "sponsor": "Chinese PLA General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06660940"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01500590",
+      "title": "Phase IV, Effect of Rennin-Angiotensin System Blockers on Glomerular Filtration Rate in Patients With Hypertension, Type 2 Diabetes With Normoalbuminuria--- A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-11",
+      "completion_date": "2019-08",
+      "country": "China",
+      "enrollment": 1400,
+      "brief_summary": "Diabetes is the leading cause of chronic kidney disease in developed countries. About 30-40% of patients with type 1 and type 2 diabetes mellitus will develop diabetic nephropathy. Microalbuminuria is often used as an early predictor of diabetic nephropathy. Many studies already demonstrated the renoprotective effect of Renin-angiotensin-system (RAS) blockers in patients with varying degree of albuminuria, few studies focus on studying the decline in glomerular filtration rate (GFR) among patien",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Age \\>=35 - 80 years old who is capable to give consent\n2. Chinese\n3. Either (i) Type 2 diabetes mellitus (DM) diagnosed according to ADA guideline or (ii) Hypertension defined as systolic blood pressure \\>140 or diastolic \\>90 mmHg or taking anti-hypertensive medication to a",
+      "endpoints": [
+        "change of estimated GFR calculated by MDRD equation and onset of microalbuminuria"
+      ],
+      "sponsor": "Hospital Authority, Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01500590"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00361023",
+      "title": "Effects of Angiotensin Type 1 Receptor Blockade With Losartan on Insulin Sensitivity and Secretion in Subjects With Type 2 Diabetes and Nephropathy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2006-07",
+      "country": "N/A",
+      "enrollment": 25,
+      "brief_summary": "Angiotensin type-1 receptor (AT1R) blockers (ARBs) have been recognized recently as regulators of glucose and lipid metabolism in adipocytes and adipose tissue.Moreover telmisartan and irbesartan have been recognized recently as regulators of glucose metabolism. For ARB losartan, the results were controversial. To confirm its effect on glucose metabolism, we designed and performed a prospective, randomized and controlled study in subjects with type 2 diabetes and nephropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Fasting plasma glucose (FPG) level of 3.3-9.0mmol/L\n* 2h plasma glucose level of 7.5-13 mmol/L\n* Body mass index (BMI) of 22 kg/m2\n* Two occasions of a ratio of urinary albumin to urinary creatinine≥300 or 24 hours urinary protein concentration is \\>150mg.\n* Informed consent\n\n",
+      "endpoints": [],
+      "sponsor": "Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00361023"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00535925",
+      "title": "Nephropathy in Type 2 Diabetes: Effects of an Intensive Multifactorial Intervention Trial on Cardio-renal Events.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2019-05",
+      "country": "Italy",
+      "enrollment": 850,
+      "brief_summary": "The NID-2 study, a multicentric study (21 centres enrolled), was planned in two phases:\n\nPhase 1(observational study, completed in September 2005): after the identification of a type-2 diabetic population with typical Diabetic Nephropathy (DN), to study of the rate of renal and cardiovascular events during a middle term follow-up.\n\nPhase 2(interventional study, started in October 2005): after randomization in two groups, a group (intervention group) is treated with an intensive multifactorial in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* type 2 diabetic patients\n* albumin extraction rate (AER= \\>30 mg/die (micro- or macro-albuminuric ranges) in at least two determinations in the last six months\n* diabetic retinopathy\n* patients followed in the outpatients clinic for at least 12 months\n\nExclusion Criteria:\n\n* t",
+      "endpoints": [
+        "\"Number of Participants With Overall Fatal and Non-fatal, Major Adverse Cardiovascular Events (MACEs)\""
+      ],
+      "sponsor": "University of Campania Luigi Vanvitelli",
+      "url": "https://clinicaltrials.gov/study/NCT00535925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04981613",
+      "title": "RCT Study on the Efficacy and Safety of a Novel Tripterygium Wilfordii Preparation in Reducing Proteinuria in Patients With Diabetic Nephropathy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-07-28",
+      "completion_date": "2024-08-28",
+      "country": "China",
+      "enrollment": 80,
+      "brief_summary": "The investigators designed a randomized parallel controlled clinical study, selected 98 cases of diabetic nephropathy patients with urinary protein \\> 1g, randomly assigned into the Kunxian capsule + irbesartan group or irbesartan group, 48 weeks of treatment and follow-up, reduced levels of urinary protein and effective relief time, remission rate as the main end point, estimated glomerular filtration rate (eGFR) drop rate slope for secondary end points, safety events were also collected. To ev",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Conformed to the diagnostic criteria of diabetic nephropathy\n* No gender limitation, age 18-85 years old, no fertility requirement temporarily\n* eGFR: \\>30ml/min/1.73m2（CKD-EPI）\n* Urine protein \\>1 g/day\n* No glucocorticoids or/and immunosuppressive therapy was received within",
+      "endpoints": [
+        "Changed levels of urinary protein, gram",
+        "The effective remission time of urinary protein, day",
+        "Urinary protein remission rate, %"
+      ],
+      "sponsor": "First Affiliated Hospital Xi'an Jiaotong University",
+      "url": "https://clinicaltrials.gov/study/NCT04981613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00713011",
+      "title": "Randomized Open-label 2-arm Parallel Design Comparator Study of the Effect of Adalat® XL® Compared to Diltiazem on Proteinuria and Blood Pressure in Patients With Diabetes and Mild to Moderate Hypertension When Used as an Add on to Avalide®",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2008-11",
+      "completion_date": "2009-03",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The study consists of a 12 week run-in period when all subjects are stabilized on a single dose of Avalide (300 mg/12.5 mg or 300mg/25mg dose) per day. After this 12 week run-in ends, subjects will be randomly assigned to start the addition of either Adalat XL or Tiazac XC for 18 weeks of treatment. Subjects will have a 1 in 2 chance of receiving the study drug Adalat XL and a 1 in 2 chance of receiving the drug Tiazac XC. An end of treatment visit will be done 18 weeks after start of study drug",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>/= 18 and \\< 80 years old.\n* Diagnosed with hypertension.\n* Diagnosed with diabetes mellitus type 2 for at least 6 mths prior to entry and on stable medication for diabetes for at 1 mth prior to screening.\n* Treated on ARB, ACE inhibitor with or without hydrochlorothiazide a",
+      "endpoints": [
+        "Change in Proteinuria"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00713011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01588795",
+      "title": "Renal Denervation in Patients With Diabetic Nephropathy and Persistent Proteinuria",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2016-01",
+      "country": "France",
+      "enrollment": 25,
+      "brief_summary": "The DERENEDIAB study is a proof-of-concept, multi-center, prospective, open, randomized, controlled study of the effectiveness of renal denervation in addition to standardized medical treatment compared to medical treatment alone in diabetic subjects with diabetic nephropathy and resistant proteinuria. Bilateral renal denervation will be performed using the Symplicity Catheter - a percutaneous system that delivers radiofrequency (RF) energy through the luminal surface of the renal artery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes mellitus male or female patient\n* Individual is \\> 18 and ≤ 75 years old\n* Diabetic nephropathy (if no pathological examination, diagnosis based on the association of history of diabetes, diabetic retinopathy and no hematuria)\n* Proteinuria/creatininuria ratio ",
+      "endpoints": [
+        "proteinuria/creatininuria ratio"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT01588795"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01195818",
+      "title": "Effect of RAS Inhibitors on Albuminuria, Hyperfiltration and Endothelial Dysfunction in a Sickle Cell Disease Population.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2014-09",
+      "country": "France",
+      "enrollment": 53,
+      "brief_summary": "The prevalence of Sickle Cell Associated Nephropathy (SCAN) is increasing and is a growing concern. Microalbuminuria is detected in the early onset of SCAN. Noteworthy, as in diabetic nephropathy, hyperfiltration seems to be a frequent finding, with, in our series, an overall incidence of 57 % and suggests a pathological links between glomerular hyperpressure and glomerulosclerosis which occurs several years after. Nitric oxide (NO) deficiency and the renin angiotensin system (RAS) are likely to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Homozygous sickle cell disease\n* \\> 18 years\n* Patient with social insurance\n* Albuminuria/ urinary creatinin \\> 10 mg/mmol creatinin (at 2 different times) and MDRD \\> 140 ml/min/1.73m2.\n* Written inform consent\n\nExclusion Criteria:\n\n* Hemoglobin SC or S-betathalassemia disea",
+      "endpoints": [
+        "Comparison of albuminuria/ urinary creatinin ratio before and after a 6 months RAS inhibitor treatment period"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT01195818"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00106561",
+      "title": "A Double-Blind, Placebo-Controlled Study on the Effect of Spironolactone, in Patients With Persistent Proteinuria on Long-Term Angiotensin Converting Enzyme Inhibitor Therapy, With or With Out an Angiotensin II Receptor Blocker",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-01",
+      "completion_date": "2004-09",
+      "country": "Australia",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to determine which combination of the tablets ramipril, irbesartan or spironolactone is best to lower protein leakage from the kidney.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Proteinuria more than 1.5 g/day\n* On ACEI for more than 6 months\n* Serum creatinine less than 200 micromol/L with less than 20% variability in the preceeding 3 months\n* Creatinine clearance more than 30 ml/min, with less than 20% variability in the preceeding 3 months\n\nExclusi",
+      "endpoints": [
+        "percent reduction in 24 hour urine protein excretion"
+      ],
+      "sponsor": "Melbourne Health",
+      "url": "https://clinicaltrials.gov/study/NCT00106561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00464880",
+      "title": "A Randomized, Double-Blind, Parallel-Group, Cross-Over, 4-Period, 4 Treatment, Within-Subject Placebo-Controlled Study to Assess the Reno-Protective Effect of Renin Inhibition With Aliskiren as an Alternative to Irbesartan in Type 2 Patients With Incipient/Overt Diabetic Nephropathy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2007-11",
+      "country": "Denmark",
+      "enrollment": 24,
+      "brief_summary": "This study will assess the reno-protective effect of renin inhibition with aliskiren as an alternative to irbesartan in type 2 diabetes patients with incipient/overt diabetic nephropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and/or female subjects between the ages of 30-80 years with a diagnosis of type 2 diabetes (World Health Organization criteria)\n* Body mass index (BMI) within the range of 20 and 32.\n* Incipient or overt diabetic nephropathy (urinary albumin excretion ≥ 100 but ≤ 2000 mg/",
+      "endpoints": [
+        "To investigate whether renin-inhibition using aliskiren 300 mg daily could be a treatment alternative to the angiotensin II receptor antagonist irbesartan 300 mg with an equivalent potential for reno-protection"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00464880"
+    }
+  ],
+  "timestamp": "2026-03-04T15:36:05.026740",
+  "success": true,
+  "error_message": null
+}

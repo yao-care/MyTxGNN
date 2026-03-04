@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "infectious otitis media"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02297815",
+      "title": "Comparative Effectiveness of Broad vs. Narrow Spectrum Antibiotics for Acute Respiratory Tract Infections in Children",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 2472,
+      "brief_summary": "The purpose of this study is to identify and use patient centered outcomes to compare narrow-spectrum and broad-spectrum antibiotics for the treatment of common acute respiratory tract infections (ARTIs) in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWe included children between six months and 12 years old, diagnosed with an ARTI (acute otitis media, acute sinusitis, Group A streptococcal \\[GAS\\] pharyngitis) using International Classification of Diseases diagnosis codes and prescribed an antibiotic. For GAS pharyngitis, the",
+      "endpoints": [
+        "Health Related Quality of Life Score"
+      ],
+      "sponsor": "Children's Hospital of Philadelphia",
+      "url": "https://clinicaltrials.gov/study/NCT02297815"
+    }
+  ],
+  "timestamp": "2026-03-04T16:57:29.942895",
+  "success": true,
+  "error_message": null
+}

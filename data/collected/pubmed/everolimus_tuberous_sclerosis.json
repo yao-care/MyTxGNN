@@ -1,0 +1,569 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Everolimus",
+    "disease": "tuberous sclerosis",
+    "query_string": "Everolimus AND tuberous sclerosis"
+  },
+  "data": {
+    "query": "Everolimus AND tuberous sclerosis",
+    "results": [
+      {
+        "pmid": "32222129",
+        "title": "Tuberous sclerosis: a review of the past, present, and future.",
+        "abstract": "Tuberous sclerosis complex (TSC) is an autosomal dominant, multisystem disorder that is characterized by cellular and tissue dysplasia in several organs. With the advent of genetic and molecular techniques, mutations in the TSC1 or TSC2 genes were discovered to be responsible for mTOR overactivation, which is the underlying mechanism of pathogenesis. TSC is a highly heterogenous clinical entity with variable presentations and severity of disease. The brain, heart, skin, eyes, kidneys, and lungs are commonly involved in this syndrome, with neurologic symptoms comprising a significant source of morbidity and mortality. In 2012, the diagnostic criteria for TSC were revised by the International Tuberous Sclerosis Complex Consensus panel, and genetic testing was incorporated into the guidelines. Early detection of cardiac rhabdomyomas or TSC-associated skin lesions can suggest the diagnosis and underlie the importance of clinical vigilance. Animal studies have demonstrated the benefit of us",
+        "journal": "Turkish journal of medical sciences",
+        "year": "2020",
+        "authors": [
+          "Uysal Sanem Pinar",
+          "Şahin Mustafa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brain",
+          "Epilepsy",
+          "Humans",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis",
+          "Tuberous Sclerosis Complex 1 Protein",
+          "Tuberous Sclerosis Complex 2 Protein"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32222129/"
+      },
+      {
+        "pmid": "36806388",
+        "title": "Epileptogenesis in tuberous sclerosis complex-related developmental and epileptic encephalopathy.",
+        "abstract": "Epileptogenesis in infants with tuberous sclerosis complex (TSC) is a gradual and dynamic process, leading to early onset and difficult-to-treat seizures. Several cellular, molecular and pathophysiologic mechanisms, including mammalian target of rapamycin (mTOR) dysregulation, GABAergic dysfunction and abnormal connectivity, may play a role in this epileptogenic process and may also contribute to the associated developmental encephalopathy. Disease-specific antiseizure medications or drugs targeting the mTOR pathway have proved to be effective in TSC-associated epilepsy. Pre-symptomatic administration of vigabatrin, a GABAergic drug, delays seizure onset and reduces the risk of a subsequent epileptic encephalopathy, such as infantile spasms syndrome or Lennox-Gastaut syndrome. Everolimus, a rapamycin-derived mTOR inhibitor, reduces seizure frequency, especially in younger patients. This evidence suggests that everolimus should be considered early in the course of epilepsy. Future trial",
+        "journal": "Brain : a journal of neurology",
+        "year": "2023",
+        "authors": [
+          "Aronica Eleonora",
+          "Specchio Nicola",
+          "Luinenburg Mark J",
+          "Curatolo Paolo"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Humans",
+          "Everolimus",
+          "Tuberous Sclerosis",
+          "Epilepsy",
+          "Seizures",
+          "Sirolimus",
+          "TOR Serine-Threonine Kinases",
+          "Anticonvulsants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36806388/"
+      },
+      {
+        "pmid": "35963265",
+        "title": "Advances in the genetics and neuropathology of tuberous sclerosis complex: edging closer to targeted therapy.",
+        "abstract": "Tuberous sclerosis complex is a rare genetic disease associated with mutations in the TSC1 or TSC2 genes, which cause overactivation of the mTOR complex. In the past 5 years, understanding has increased of the cellular consequences of TSC1 and TSC2 genetic variants and the mTORC1 overactivation in neurons and glial cells and their contribution to network dysfunction. Infants and young children (aged 1-5 years) with tuberous sclerosis complex might now benefit from early assessment of gene variant status and mosaicism. In the past 5 years, substantial advances have also been made in our understanding of mTOR-related neuropathology and the molecular aspects of both epileptogenesis and co-occurring neurodevelopmental disorders. Many potential disease-modifying strategies have been identified, including developments in targeted therapies based on molecular findings in epilepsy. Reliable EEG and MRI biomarkers are now available to identify, at a younger age than previously possible, infants",
+        "journal": "The Lancet. Neurology",
+        "year": "2022",
+        "authors": [
+          "Curatolo Paolo",
+          "Specchio Nicola",
+          "Aronica Eleonora"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Autistic Disorder",
+          "Child",
+          "Child, Preschool",
+          "Epilepsy",
+          "Humans",
+          "Neuropathology",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35963265/"
+      },
+      {
+        "pmid": "37669572",
+        "title": "Updated clinical recommendations for the management of tuberous sclerosis complex associated epilepsy.",
+        "abstract": "Children with tuberous sclerosis complex (TSC), may experience a variety of seizure types in the first year of life, most often focal seizure sand epileptic spasms. Drug resistance is seen early in many patients, and the management of TSC associated epilepsy remain a major challenge for clinicians. In 2018 clinical recommendations for the management of TSC associated epilepsy were published by a panel of European experts. In the last five years considerable progress has been made in understanding the neurobiology of epileptogenesis and three interventional randomized controlled trials have changed the therapeutic approach for the management of TSC associated epilepsy. Pre-symptomatic treatment with vigabatrin may delay seizure onset, may reduce seizure severity and reduce the risk of epileptic encephalopathy. The efficacy of mTOR inhibition with adjunctive everolimus was documented in patients with TSC associated refractory seizures and cannabidiol could be another therapeutic option. ",
+        "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+        "year": "2023",
+        "authors": [
+          "Specchio Nicola",
+          "Nabbout Rima",
+          "Aronica Eleonora",
+          "Auvin Stephane",
+          "Benvenuto Arianna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Tuberous Sclerosis",
+          "Autism Spectrum Disorder",
+          "Epilepsy",
+          "Seizures",
+          "Drug Resistant Epilepsy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37669572/"
+      },
+      {
+        "pmid": "38042867",
+        "title": "Effectiveness and safety of everolimus treatment in patients with tuberous sclerosis complex in real-world clinical practice.",
+        "abstract": "The randomised double-blinded placebo-controlled EXIST-1-3 studies have showed everolimus effective with adverse effects reported as acceptable in treatment of symptoms in patients with tuberous sclerosis complex (TSC), although evidence of outcomes in clinical practice remains limited. This study aimed to investigate, in clinical practice, the effectiveness and safety of everolimus for epilepsy, renal angiomyolipoma (rAML), and subependymal giant cell astrocytoma (SEGA) in patients with TSC.",
+        "journal": "Orphanet journal of rare diseases",
+        "year": "2023",
+        "authors": [
+          "Cockerell Ine",
+          "Christensen Jakob",
+          "Hoei-Hansen Christina E",
+          "Holst Lotte",
+          "Grenaa Frederiksen Mikkel"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Infant",
+          "Middle Aged",
+          "Young Adult",
+          "Angiomyolipoma",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38042867/"
+      },
+      {
+        "pmid": "39389658",
+        "title": "Tuberous sclerosis complex: Diagnostic features, surveillance, and therapeutic strategies.",
+        "abstract": "Tuberous sclerosis complex (TSC) is a rare neurocutaneous disorder of mTOR pathway dysregulation resulting from pathogenic variants in the TSC1 or TSC2 genes. Expression of this disorder may involve abnormal tissue growth and dysfunction within the brain, kidneys, heart, lungs, eyes, skin, bones, and teeth. Neurological manifestations can include subependymal giant cell astrocytomas (SEGAs), high rates of infantile spasms, drug-resistant epilepsy, developmental delay, cognitive impairment, autism spectrum disorder, and other neurobehavioral manifestations. Here we review the potential clinical manifestations of TSC by system, recommended diagnostic and surveillance testing, genetic testing, currently available therapeutic options, and considerations for education and social support resources given the unique challenges of this multi-system disorder.",
+        "journal": "Seminars in pediatric neurology",
+        "year": "2024",
+        "authors": [
+          "Arredondo Kristen H",
+          "Jülich Kristina",
+          "Roach E Steve"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Tuberous Sclerosis",
+          "Humans",
+          "Tuberous Sclerosis Complex 1 Protein"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39389658/"
+      },
+      {
+        "pmid": "29478616",
+        "title": "Tuberous sclerosis complex.",
+        "abstract": "Tuberous sclerosis complex (TSC) is an autosomal-dominant or sporadic multisystem disorder that results from mutations in either TSC1 or TSC2. The primary organs affected include the brain, skin, lung, kidney, and heart, all with variable frequency, penetrance, and severity. There are over 2000 known allelic variants for TSC, including nonsense and misssense mutation, and all pathogenic mutations are inactivating, leading to loss-of-function effects on the encoded proteins, TSC1 and TSC2. These proteins form a complex to constitutively inhibit the mammalian target of rapamycin (mTOR) signaling cascade, and as a consequence, mTOR signaling is constitutively active within all TSC-associated lesions. The mTOR inhibitors rapamycin (sirolimus) and everolimus have been shown to reduce renal and brain lesion size, and improve pulmonary function in TSC, and these compounds may also decrease seizure frequency. The clinical application of mTOR inhibitors in TSC has provided one of the first exam",
+        "journal": "Handbook of clinical neurology",
+        "year": "2018",
+        "authors": [
+          "Hasbani Daphne M",
+          "Crino Peter B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Genetic Association Studies",
+          "Humans",
+          "Mutation",
+          "Signal Transduction",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis",
+          "Tuberous Sclerosis Complex 1 Protein",
+          "Tuberous Sclerosis Complex 2 Protein",
+          "Tumor Suppressor Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29478616/"
+      },
+      {
+        "pmid": "35246210",
+        "title": "Perfect match: mTOR inhibitors and tuberous sclerosis complex.",
+        "abstract": "Tuberous sclerosis complex (TSC) is an autosomal dominant syndrome that presents with diverse and complex clinical features and involves multiple human systems. TSC-related neurological abnormalities and organ dysfunction greatly affect the quality of life and can even result in death in patients with TSC. It is widely accepted that most TSC-related clinical manifestations are associated with hyperactivation of the mammalian target of rapamycin (mTOR) pathway caused by loss‑of‑function mutations in TSC1 or TSC2. Remarkable progress in basic and translational research has led to encouraging clinical advances. Although mTOR inhibitors (rapamycin/everolimus) demonstrate great potential in TSC management, two major concerns hamper their generalized application. One is the frequent manifestation of adverse events, such as stomatitis, infections, and menstrual disorders; and the other is the poor response in certain patients. Thus, indicators are required to effectively predict the efficacy ",
+        "journal": "Orphanet journal of rare diseases",
+        "year": "2022",
+        "authors": [
+          "Luo Cong",
+          "Ye Wen-Rui",
+          "Shi Wei",
+          "Yin Ping",
+          "Chen Chen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Everolimus",
+          "Humans",
+          "MTOR Inhibitors",
+          "Quality of Life",
+          "Sirolimus",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35246210/"
+      },
+      {
+        "pmid": "26612197",
+        "title": "Update on the Diagnosis and Management of Renal Angiomyolipoma.",
+        "abstract": "Advances in minimally invasive therapies and novel targeted chemotherapeutics have provided a breadth of options for the management of renal masses. Management of renal angiomyolipoma has not been reviewed in a comprehensive fashion in more than a decade. We provide an updated review of the current diagnosis and management strategies for renal angiomyolipoma.",
+        "journal": "The Journal of urology",
+        "year": "2016",
+        "authors": [
+          "Flum Andrew S",
+          "Hamoui Nabeel",
+          "Said Mohammed A",
+          "Yang Ximing J",
+          "Casalino David D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiomyolipoma",
+          "Catheter Ablation",
+          "Embolization, Therapeutic",
+          "Female",
+          "Humans",
+          "Kidney",
+          "Kidney Neoplasms",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Nephrectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26612197/"
+      },
+      {
+        "pmid": "29338461",
+        "title": "mTOR dysregulation and tuberous sclerosis-related epilepsy.",
+        "abstract": "The mammalian target of rapamycin (mTOR) pathway has emerged as a key player for proper neural network development, and it is involved in epileptogenesis triggered by both genetic or acquired factors. Areas covered. The robust mTOR signaling deregulation observed in a large spectrum of epileptogenic developmental pathologies, such as focal cortical dysplasias and tuberous sclerosis complex (TSC), has been linked to germline and somatic mutations in mTOR pathway regulatory genes, increasing the spectrum of 'mTORopathies'. The significant advances in the field of TSC allowed for the validation of emerging hypotheses on the mechanisms of epileptogenesis and the identification of potential new targets of therapy. Recently, a double-blind phase III randomized clinical trial on patients with TSC related epilepsy, demonstrated that adjunctive treatment with mTOR inhibition is effective and safe in reducing focal drug resistant seizures. Expert commentary. mTOR signaling dysregulation represen",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2018",
+        "authors": [
+          "Curatolo Paolo",
+          "Moavero Romina",
+          "van Scheppingen Jackelien",
+          "Aronica Eleonora"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Epilepsy",
+          "Humans",
+          "Signal Transduction",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29338461/"
+      },
+      {
+        "pmid": "33387903",
+        "title": "Hemimegalencephaly and tuberous sclerosis complex: A rare yet challenging association.",
+        "abstract": "Hemimegalencephaly is a rare malformation of cortical development characterised by enlargement of one cerebral hemisphere. The association between hemimegalencephaly and tuberous sclerosis complex, an autosomal dominant genetic disorder, is uncommon and has so far been reported only in a few cases. Intractable epilepsy and severe developmental delay are typical clinical manifestations. Aberrant activation of the mTOR signalling pathway is considered to be the hallmark of the pathogenesis of these two disorders. Thus, mTOR inhibitors such as everolimus represent a promising therapeutic approach to mTOR-associated manifestations. We present a thorough literature review of the association between hemimegaloencephaly and tuberous sclerosis complex.",
+        "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+        "year": "2021",
+        "authors": [
+          "Sidira Christina",
+          "Vargiami Efthymia",
+          "Dragoumi Pinelopi",
+          "Zafeiriou Dimitrios I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Everolimus",
+          "Hemimegalencephaly",
+          "Humans",
+          "Male",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33387903/"
+      },
+      {
+        "pmid": "31335226",
+        "title": "Everolimus as adjunctive therapy for tuberous sclerosis complex-associated partial-onset seizures.",
+        "abstract": "Introduction: Tuberous sclerosis complex (TSC) is a rare genetic disorder resulting in benign tumors in various organs. It is caused by mutations in TSC1 or TSC2 genes causing hyperactivation of the mammalian target of rapamycin (mTOR) pathway. The majority of patients with TSC develop epilepsy, and approximately two-thirds become refractory to antiepileptic drugs (AEDs). Recently, the mTOR inhibitor everolimus was approved as adjunctive therapy for TSC-associated partial seizures. Areas covered: This article covers different characteristics of everolimus, including major clinical trials leading to its approval in TSC-associated partial seizures, safety concerns, drug pharmacokinetics/pharmacodynamics, and an overview of potential competitors and other agents used to treat TSC-associated seizures. Expert opinion: Unlike many other therapies for treating TSC-associated seizures, everolimus addresses the underlying pathophysiology of TSC, and since it has also been shown to improve other",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2019",
+        "authors": [
+          "Lechuga Lorena",
+          "Franz David Neal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Everolimus",
+          "Humans",
+          "Seizures",
+          "TOR Serine-Threonine Kinases",
+          "Tuberous Sclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31335226/"
+      },
+      {
+        "pmid": "26289591",
+        "title": "Differentiating the mTOR inhibitors everolimus and sirolimus in the treatment of tuberous sclerosis complex.",
+        "abstract": "Tuberous sclerosis complex (TSC) is a genetic autosomal dominant disorder characterized by benign tumor-like lesions, called hamartomas, in multiple organ systems, including the brain, skin, heart, kidneys, and lung. These hamartomas cause a diverse set of clinical problems based on their location and often result in epilepsy, learning difficulties, and behavioral problems. TSC is caused by mutations within the TSC1 or TSC2 genes that inactivate the genes' tumor-suppressive function and drive hamartomatous cell growth. In normal cells, TSC1 and TSC2 integrate growth signals and nutrient inputs to downregulate signaling to mammalian target of rapamycin (mTOR), an evolutionarily conserved serine-threonine kinase that controls cell growth and cell survival. The molecular connection between TSC and mTOR led to the clinical use of allosteric mTOR inhibitors (sirolimus and everolimus) for the treatment of TSC. Everolimus is approved for subependymal giant cell astrocytomas and renal angiomyo",
+        "journal": "Neuro-oncology",
+        "year": "2015",
+        "authors": [
+          "MacKeigan Jeffrey P",
+          "Krueger Darcy A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibiotics, Antineoplastic",
+          "Antineoplastic Agents",
+          "Brain Neoplasms",
+          "Clinical Trials as Topic",
+          "Everolimus",
+          "Female",
+          "Glioma, Subependymal",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26289591/"
+      },
+      {
+        "pmid": "37432030",
+        "title": "Rapamycin and rapalogs for tuberous sclerosis complex.",
+        "abstract": "Potential benefits of rapamycin or rapalogs for treating people with tuberous sclerosis complex (TSC) have been shown. Currently everolimus (a rapalog) is only approved for TSC-associated renal angiomyolipoma and subependymal giant cell astrocytoma (SEGA), but not other manifestations of TSC. A systematic review needs to establish evidence for rapamycin or rapalogs for various manifestations in TSC. This is an updated review.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2023",
+        "authors": [
+          "Sasongko Teguh Haryo",
+          "Kademane Kumaraswamy",
+          "Chai Soon Hou Stanley",
+          "Jocelyn Tan Xin Yi",
+          "Zabidi-Hussin Zamh"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Male",
+          "Humans",
+          "MTOR Inhibitors",
+          "Sirolimus",
+          "Everolimus",
+          "Angiofibroma",
+          "Angiomyolipoma",
+          "Tuberous Sclerosis",
+          "Astrocytoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37432030/"
+      },
+      {
+        "pmid": "35754971",
+        "title": "Individualized everolimus treatment for tuberous sclerosis-related angiomyolipoma promotes treatment adherence and response.",
+        "abstract": "Everolimus is a potential alternative to embolization and nephrectomy for managing tuberous sclerosis complex (TSC)-associated renal angiomyolipoma (AML). In 2016, National Health Service England approved its use through regional centres for renal AML ≥30 mm showing interval growth. Evidence of lesion stabilization or reduction after 6 months is mandated for continuation of long-term treatment.",
+        "journal": "Clinical kidney journal",
+        "year": "2022",
+        "authors": [
+          "Chung Noelle K X",
+          "Metherall Peter",
+          "McCormick Janet A",
+          "Simms Roslyn J",
+          "Ong Albert C M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35754971/"
+      },
+      {
+        "pmid": "36194365",
+        "title": "Psychobehavioural and Cognitive Adverse Events of Anti-Seizure Medications for the Treatment of Developmental and Epileptic Encephalopathies.",
+        "abstract": "The developmental and epileptic encephalopathies encompass a group of rare syndromes characterised by severe drug-resistant epilepsy with onset in childhood and significant neurodevelopmental comorbidities. The latter include intellectual disability, developmental delay, behavioural problems including attention-deficit hyperactivity disorder and autism spectrum disorder, psychiatric problems including anxiety and depression, speech impairment and sleep problems. Classical examples of developmental and epileptic encephalopathies include Dravet syndrome, Lennox-Gastaut syndrome and tuberous sclerosis complex. The mainstay of treatment is with multiple anti-seizure medications (ASMs); however, the ASMs themselves can be associated with psychobehavioural adverse events, and effects (negative or positive) on cognition and sleep. We have performed a targeted literature review of ASMs commonly used in the treatment of developmental and epileptic encephalopathies to discuss the latest evidence",
+        "journal": "CNS drugs",
+        "year": "2022",
+        "authors": [
+          "Strzelczyk Adam",
+          "Schubert-Bast Susanne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Autism Spectrum Disorder",
+          "Bromides",
+          "Cannabidiol",
+          "Clobazam",
+          "Cognition",
+          "Ethosuximide",
+          "Everolimus",
+          "Felbamate",
+          "Fenfluramine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36194365/"
+      },
+      {
+        "pmid": "24756805",
+        "title": "Everolimus.",
+        "abstract": "Everolimus (RAD001, Afinitor®) is an oral protein kinase inhibitor of the mammalian target of rapamycin (mTOR) serine/threonine kinase signal transduction pathway. The mTOR pathway regulates cell growth, proliferation, and survival and is frequently deregulated in cancer. Everolimus has been approved by the FDA and the EMA for the treatment of advanced renal cell carcinoma (RCC), subependymal giant cell astrocytoma (SEGA) associated with tuberous sclerosis (TSC), pancreatic neuroendocrine tumors (PNET), in combination with exemestane in advanced hormone-receptor (HR)-positive, HER2-negative breast cancer. Everolimus shows promising clinical activity in additional indications. Multiple phase 2 and phase 3 trials of everolimus alone or in combination are ongoing and will help to further elucidate the role of mTOR in oncology. For a review on everolimus as immunosuppressant, please consult other sources.",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2014",
+        "authors": [
+          "Hasskarl Jens"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Everolimus",
+          "Humans",
+          "Neoplasms",
+          "Protein Kinase Inhibitors",
+          "Signal Transduction",
+          "Sirolimus",
+          "TOR Serine-Threonine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24756805/"
+      },
+      {
+        "pmid": "27514586",
+        "title": "Lymphangioleiomyomatosis.",
+        "abstract": "Lymphangioleiomyomatosis is a rare multisystem disease predominantly affecting women that can occur sporadically or in association with tuberous sclerosis. Lung cysts progressively replace the lung parenchyma, which leads to dyspnea, recurrent pneumothorax, and in some cases respiratory failure. Patients may also have lymphatic disease in the thorax, abdomen, and pelvis, and renal angiomyolipomas. Treatment includes supportive care, bronchodilators, and for those with progressive disease, mammalian target of rapamycin (mTOR) inhibitors.",
+        "journal": "Clinics in chest medicine",
+        "year": "2016",
+        "authors": [
+          "Johnson Simon R",
+          "Taveira-DaSilva Angelo M",
+          "Moss Joel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiomyolipoma",
+          "Antibiotics, Antineoplastic",
+          "Bronchodilator Agents",
+          "Everolimus",
+          "Humans",
+          "Kidney Neoplasms",
+          "Lung Neoplasms",
+          "Lymphangioleiomyomatosis",
+          "Pleurodesis",
+          "Pneumothorax"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27514586/"
+      },
+      {
+        "pmid": "39279295",
+        "title": "Neoadjuvant everolimus in renal angiomyolipoma with or without tuberous sclerosis complex: Results from a multicenter, retrospective study.",
+        "abstract": "To assess the efficacy and safety of preoperative neoadjuvant everolimus in renal angiomyolipomas (AML) patients with or without Tuberous Sclerosis Complex (TSC).",
+        "journal": "Cancer medicine",
+        "year": "2024",
+        "authors": [
+          "Su Ruopeng",
+          "Huang Tingxuan",
+          "Gu Liangyou",
+          "Bao Yige",
+          "Liu Zhihong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Everolimus",
+          "Angiomyolipoma",
+          "Female",
+          "Male",
+          "Retrospective Studies",
+          "Kidney Neoplasms",
+          "Middle Aged",
+          "Neoadjuvant Therapy",
+          "Tuberous Sclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39279295/"
+      },
+      {
+        "pmid": "30069763",
+        "title": "Everolimus.",
+        "abstract": "Everolimus (RAD001) is an oral protein kinase inhibitor of the mTOR (mammalian target of rapamycin) serine/threonine kinase signal transduction pathway. The mTOR pathway regulates cell growth, proliferation and survival, and is frequently deregulated in cancer.The EMA has approved Everolimus as Afinitor® for the treatment of hormone receptor-positive, HER2/neu-negative advanced breast cancer, in combination with exemestane, in postmenopausal women without symptomatic visceral disease after recurrence or progression following a nonsteroidal aromatase inhibitor, for the treatment of unresectable or metastatic, well- or moderately differentiated neuroendocrine tumors of pancreatic origin in adults with progressive disease, and for the treatment of unresectable or metastatic, well-differentiated (Grade 1 or Grade 2) nonfunctional neuroendocrine tumors of gastrointestinal or lung origin in adults with progressive disease, and for the treatment of patients with advanced renal cell carcinoma,",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2018",
+        "authors": [
+          "Hasskarl Jens"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Everolimus",
+          "Humans",
+          "Neoplasms",
+          "Protein Kinase Inhibitors",
+          "Signal Transduction",
+          "TOR Serine-Threonine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30069763/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:38:58.247928",
+  "success": true,
+  "error_message": null
+}

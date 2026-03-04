@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluconazole",
+    "disease": "oral candidiasis",
+    "query_string": "Fluconazole AND oral candidiasis"
+  },
+  "data": {
+    "query": "Fluconazole AND oral candidiasis",
+    "results": [
+      {
+        "pmid": "30818309",
+        "title": "Therapeutic tools for oral candidiasis: Current and new antifungal drugs.",
+        "abstract": "Candidiasis is one of the most common opportunistic oral infections that presents different acute and chronic clinical presentations with diverse diagnostic and therapeutic approaches. The present study carries out a bibliographic review on the therapeutic tools available against oral candidiasis and their usefulness in each clinical situation.",
+        "journal": "Medicina oral, patologia oral y cirugia bucal",
+        "year": "2019",
+        "authors": [
+          "Quindós G",
+          "Gil-Alonso S",
+          "Marcos-Arias C",
+          "Sevillano E",
+          "Mateo E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Amphotericin B",
+          "Anidulafungin",
+          "Antifungal Agents",
+          "Azoles",
+          "Candidiasis, Oral",
+          "Caspofungin",
+          "Clotrimazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30818309/"
+      },
+      {
+        "pmid": "37072843",
+        "title": "Identification and susceptibility testing of oral candidiasis in advanced cancer patients.",
+        "abstract": "Patients with advanced cancer are prone to develop different opportunistic oral infection due to anti-cancer treatment or the malignancies themselves. Studies of oral fungal samples show an increased prevalence of non-Candida albicans species in mixed oral infections with Candida albicans. Non-C. albicans and C. albicans are associated with varying degrees of resistance to azoles, which may have implications for treatment. This study aimed to assess the diversity and antifungal susceptibility of Candida species detected in the oral cavity.",
+        "journal": "BMC oral health",
+        "year": "2023",
+        "authors": [
+          "Monsen Ragnhild Elisabeth",
+          "Kristoffersen Anne Karin",
+          "Gay Caryl L",
+          "Herlofson Bente Brokstad",
+          "Fjeld Katrine Gahre"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Candidiasis, Oral",
+          "Fluconazole",
+          "Amphotericin B",
+          "Anidulafungin",
+          "Microbial Sensitivity Tests",
+          "Antifungal Agents",
+          "Candida",
+          "Candida albicans",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37072843/"
+      },
+      {
+        "pmid": "38775603",
+        "title": "Oral candidiasis in liver transplant patients: species identification and antifungal susceptibility profile.",
+        "abstract": "This study aimed to verify oral candidiasis, identify the causative species, and investigate the antifungal susceptibility of yeasts isolated from liver transplant patients.",
+        "journal": "Einstein (Sao Paulo, Brazil)",
+        "year": "2024",
+        "authors": [
+          "Sabadin Clarice Elvira Saggin",
+          "Matta Daniel Archimedes Da",
+          "Hoppe Lísia",
+          "Fernandes Fernanda Aparecida Vieira",
+          "Melo Analy Salles de Azevedo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antifungal Agents",
+          "Microbial Sensitivity Tests",
+          "Liver Transplantation",
+          "Male",
+          "Candidiasis, Oral",
+          "Female",
+          "Middle Aged",
+          "Candida",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38775603/"
+      },
+      {
+        "pmid": "37665236",
+        "title": "Oral candidiasis in patients with kidney transplantation in Iran: prevalence and antifungal susceptibility pattern.",
+        "abstract": "Aim: This study aimed to identify Candida species recovered from the oral cavity of patients with kidney transplantation. Materials & methods: Two swabs were taken from the oral cavities of 40 patients before and after transplantation, cultured on Sabouraud dextrose agar, and yeasts identified. Antifungal drug susceptibility testing was performed with fluconazole and itraconazole. Results: Candida glabrata was the most frequently isolated species in patients, followed by Candida albicans and Rhodotorula. C. glabrata isolates from patients before transplantation were resistant to fluconazole, whereas C. albicans was fluconazole-resistant both before and after transplantation. Conclusion: The importance of non-albicans Candida species in the oral cavity of patients sheds light on performing antifungal tests for achieving the best outcome to prevent therapeutic failure.",
+        "journal": "Future microbiology",
+        "year": "2023",
+        "authors": [
+          "Ghadimi Fardad",
+          "Rodrigues Célia F",
+          "Mohammadi Shahla Roudbar",
+          "Roudbary Maryam",
+          "Dos Santos André Ls"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antifungal Agents",
+          "Candidiasis, Oral",
+          "Fluconazole",
+          "Kidney Transplantation",
+          "Iran",
+          "Prevalence",
+          "Microbial Sensitivity Tests",
+          "Mycobacterium tuberculosis",
+          "Candida albicans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37665236/"
+      },
+      {
+        "pmid": "35331090",
+        "title": "Efficacy of Flavonoids in Combating Fluconazole Resistant Oral Candidiasis.",
+        "abstract": "Candida is an opportunistic fungus often present in the oral mucosa. In the compromised immune system, it may become pathogenic and cause oral candidiasis. This infection is more common with Candida albicans; though, non-albicans Candida spp also have significant relevance. Current treatment guidelines include polyenes, azoles and echinocandins, where fluconazole is the primary therapeutic option. However, both inherited and acquired resistance to fluconazole is exhaustively reported. The development of resistance has resulted in the worsening of the original and re-emergence of new fungal diseases. Thus, the development of an anti-candidiasis therapy with a satisfactory outcome is the urgent need of the hour.",
+        "journal": "Current pharmaceutical design",
+        "year": "2022",
+        "authors": [
+          "Srivastava Dipti",
+          "Yadav Aarti",
+          "Naqvi Salma",
+          "Awasthi Himani",
+          "Fatima Zeeshan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Azoles",
+          "Candida",
+          "Candidiasis, Oral",
+          "Drug Resistance, Fungal",
+          "Flavonoids",
+          "Fluconazole",
+          "Humans",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35331090/"
+      },
+      {
+        "pmid": "39632750",
+        "title": "Efficacy and Safety of Fluconazole Mucoadhesive Patches in Human Immunodeficiency Virus-Related Oral Candidiasis.",
+        "abstract": "Opportunistic fungal infections like oral candidiasis account for a significant amount of morbidity in HIV disease and an indicator of immune suppression. Fluconazole is a broad-spectrum antifungal agent that has been extensively used in the management of oral, candidiasis. Highly efficacious fluconazole is also known to have systemic toxicity due to high drug interaction and hence the present study focuses on the formulation of bioadhesive film as a controlled release carrier for fluconazole.",
+        "journal": "Journal of the International Association of Providers of AIDS Care",
+        "year": "2024",
+        "authors": [
+          "Deenadayalan Srikanth",
+          "Shenoy Ashok",
+          "Kamath Ashwin",
+          "Rathnanand Mahalaxmi",
+          "Ullal Sheetal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fluconazole",
+          "Candidiasis, Oral",
+          "Antifungal Agents",
+          "Adult",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "HIV Infections",
+          "AIDS-Related Opportunistic Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39632750/"
+      },
+      {
+        "pmid": "38641711",
+        "title": "Fluconazole-Loaded Ibuprofen In Situ Gel-Based Oral Spray for Oropharyngeal Candidiasis Treatment.",
+        "abstract": "Oral candidiasis is a fungal infection affecting the oral mucous membrane, and this research specifically addresses on a localized treatment through fluconazole-loaded ibuprofen in situ gel-based oral spray. The low solubility of ibuprofen is advantageous for forming a gel when exposed to an aqueous phase. The 1% w/w fluconazole-loaded in situ gel oral sprays were developed utilizing various concentrations of ibuprofen in N-methyl pyrrolidone. The prepared solutions underwent evaluation for viscosity, surface tension, contact angle, water tolerance, gel formation, interface interaction, drug permeation, and antimicrobial studies. The higher amount of ibuprofen reduced the surface tension and retarded solvent exchange. The use of 50% ibuprofen as a gelling agent demonstrated prolonged drug permeation for up to 24 h. The incorporation of Cremophor EL in the formulations resulted in increased drug permeation and exhibited effective inhibition against Candida albicans, Candida krusei, Cand",
+        "journal": "AAPS PharmSciTech",
+        "year": "2024",
+        "authors": [
+          "Khaing Ei Mon",
+          "Senarat Setthapong",
+          "Jitrangsri Kritamorn",
+          "Phaechamud Thawatchai"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Fluconazole",
+          "Candidiasis, Oral",
+          "Oral Sprays",
+          "Ibuprofen",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Microbial Sensitivity Tests",
+          "Glycerol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38641711/"
+      },
+      {
+        "pmid": "38822256",
+        "title": "Drug-resistant oral candidiasis in patients with HIV infection: a systematic review and meta-analysis.",
+        "abstract": "Oral candidiasis (OC) is a prevalent opportunistic infection in patients with human immunodeficiency virus (HIV) infection. The increasing resistance to antifungal agents in HIV-positive individuals suffering from OC raised concerns. Thus, this study aimed to investigate the prevalence of drug-resistant OC in HIV-positive patients.",
+        "journal": "BMC infectious diseases",
+        "year": "2024",
+        "authors": [
+          "Keyvanfar Amirreza",
+          "Najafiarab Hanieh",
+          "Talebian Niki",
+          "Tafti Mahdi Falah",
+          "Adeli Gelareh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Candidiasis, Oral",
+          "Antifungal Agents",
+          "HIV Infections",
+          "Drug Resistance, Fungal",
+          "Candida",
+          "Prevalence",
+          "Microbial Sensitivity Tests",
+          "AIDS-Related Opportunistic Infections",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38822256/"
+      },
+      {
+        "pmid": "37884914",
+        "title": "Efficacy of photodynamic therapy in the treatment of oral candidiasis: a systematic review and meta-analysis.",
+        "abstract": "To evaluate the clinical efficacy of photodynamic therapy (PDT) as an adjunct or alternative to traditional antifungal drugs in the treatment of oral candidiasis, and to provide evidence-based medical evidence for its use in the treatment of oral candidiasis.",
+        "journal": "BMC oral health",
+        "year": "2023",
+        "authors": [
+          "Hu Qiaoyu",
+          "Li Ting",
+          "Yang Jiadi",
+          "Peng Yanhui",
+          "Liu Qing"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Candidiasis, Oral",
+          "Antifungal Agents",
+          "Nystatin",
+          "Fluconazole",
+          "Miconazole",
+          "Photochemotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37884914/"
+      },
+      {
+        "pmid": "34924340",
+        "title": "Comparison of topical antifungal agents for oral candidiasis treatment: a systematic review and meta-analysis.",
+        "abstract": "To compare the efficacy and safety of topical antifungal drugs for oral candidiasis in adults and children.",
+        "journal": "Oral surgery, oral medicine, oral pathology and oral radiology",
+        "year": "2022",
+        "authors": [
+          "Xiao Yanxuan",
+          "Yuan Peiyang",
+          "Sun Yutong",
+          "Xu Yiming",
+          "Deng Xiaoting"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candidiasis, Oral",
+          "Child",
+          "Fluconazole",
+          "Humans",
+          "Neoplasm Recurrence, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34924340/"
+      },
+      {
+        "pmid": "27088219",
+        "title": "Oral Candida isolates and fluconazole susceptibility patterns in older Mexican women.",
+        "abstract": "To assess the epidemiologic and microbiologic profile and in vitro fluconazole susceptibility of yeasts isolated from the oral mucosa colonization/infection of elderly patients.",
+        "journal": "Archives of gerontology and geriatrics",
+        "year": "2016",
+        "authors": [
+          "Benito-Cruz Beatriz",
+          "Aranda-Romo Saray",
+          "López-Esqueda Francisco Javier",
+          "de la Rosa-García Estela",
+          "Rosas-Hernández Rebeca"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis, Oral",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Fungal",
+          "Female",
+          "Fluconazole",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27088219/"
+      },
+      {
+        "pmid": "12142873",
+        "title": "Fluconazole mouthrinses for oral candidiasis in postirradiation, transplant, and other patients.",
+        "abstract": "Oral candidiasis is associated with multiple local and systemic factors. Morbidity and deaths, in high-risk patients, may be prevented by recognition and adequate management. Fluconazole is a systemic antifungal medication that demonstrated clinical advantages in rinsing before swallowing. The purpose of the present study was to evaluate the clinical efficacy of fluconazole aqueous mouthrinses to treat oral candidiasis.",
+        "journal": "Oral surgery, oral medicine, oral pathology, oral radiology, and endodontics",
+        "year": "2002",
+        "authors": [
+          "Epstein Joel B",
+          "Gorsky Meir",
+          "Caldwell John"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Bone Marrow Transplantation",
+          "Candidiasis, Oral",
+          "Cranial Irradiation",
+          "Dental Care for Chronically Ill",
+          "Female",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12142873/"
+      },
+      {
+        "pmid": "16120118",
+        "title": "Fluconazole and/or hexetidine for management of oral candidiasis associated with denture-induced stomatitis.",
+        "abstract": "The aim of the present study was to compare the influence of fluconazole capsules and/or hexetidine mouthrinses for the management of oral candidiasis associated with denture stomatitis. DESIGN RELEVANT: Sixty-one patients (ages 43-76 years, mean: 61) admitted to the Department of Oral Surgery and Medicine and diagnosed as suffering from oral candidiasis associated with denture stomatitis by microbiological examination were involved.",
+        "journal": "Oral diseases",
+        "year": "2005",
+        "authors": [
+          "Koray M",
+          "Ak G",
+          "Kurklu E",
+          "Issever H",
+          "Tanyeri H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Analysis of Variance",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis, Oral",
+          "Chi-Square Distribution",
+          "Colony Count, Microbial",
+          "Denture, Complete"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16120118/"
+      },
+      {
+        "pmid": "34997991",
+        "title": "The evaluation of the overexpression of the ERG-11, MDR-1, CDR-1, and CDR-2 genes in fluconazole-resistant Candida albicans isolated from Ahvazian cancer patients with oral candidiasis.",
+        "abstract": "Resistance to azole drugs has been observed in candidiasis due to their long-term use and poor response to treatment. Resistance to azole drugs in Candida albicans isolates is controlled by several genes including ERG11, CDR1, CDR2, and MDR1. In this study, the expression of the mentioned genes was evaluated in C. albicans isolates susceptible and resistant to fluconazole.",
+        "journal": "Journal of clinical laboratory analysis",
+        "year": "2022",
+        "authors": [
+          "Maheronnaghsh Mehrnoush",
+          "Teimoori Ali",
+          "Dehghan Parvin",
+          "Fatahinia Mahnaz"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis, Oral",
+          "Drug Resistance, Fungal",
+          "Fluconazole",
+          "Fungal Proteins",
+          "Gene Expression",
+          "Humans",
+          "Iran"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34997991/"
+      },
+      {
+        "pmid": "27188880",
+        "title": "Single-Dose Fluconazole Therapy for Oral Thrush in Hospice and Palliative Medicine Patients.",
+        "abstract": "Oral thrush is a common fungal infection of the mouth experienced by palliative medicine and hospice patients who have advanced cancer. Individuals often experience distressing symptoms that affect their oral intake with most regimens adding to pill burden. This is an open-label prospective observational study to assess the efficacy of a single-dose fluconazole 150 mg for oral thrush.",
+        "journal": "The American journal of hospice & palliative care",
+        "year": "2017",
+        "authors": [
+          "Lagman Ruth",
+          "Davis Mellar",
+          "LeGrand Susan",
+          "Walsh Declan",
+          "Parala Armida"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Candidiasis, Oral",
+          "Female",
+          "Fluconazole",
+          "Hospice Care",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27188880/"
+      },
+      {
+        "pmid": "19069102",
+        "title": "[Candidiasis].",
+        "abstract": "Diabetes mellitus (DM) has been considered to predispose to candidiasis. While poor glycemic control increases the risk of superficial candidiasis (especially oral candidiasis), invasive candidiasis is not related to DM. Invasive candidiasis is diagnosed by combination of clinical manifestation, laboratory findings and isolation of Candida spp. Strategy of treatment for invasive candidiasis is consist of prophylactic, empiric and targeted therapy. MCFG, FLCZ and AMPH-B are recommended as first line drugs for invasive candidiasis, and L-AMB, VRCZ, ITCZ are considered as alternative drugs in Japanese guideline.",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "2008",
+        "authors": [
+          "Imamura Yoshifumi",
+          "Izumikawa Koichi",
+          "Kohno Shigeru"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Antigens, Fungal",
+          "Biomarkers",
+          "Candida",
+          "Candidiasis",
+          "Diabetes Complications",
+          "Echinocandins",
+          "Fluconazole",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19069102/"
+      },
+      {
+        "pmid": "19445752",
+        "title": "Candidiasis (oropharyngeal).",
+        "abstract": "Candida is present in the mouths of up to 60% of healthy people, but overt infection is associated with immunosuppression, diabetes, broad-spectrum antibiotics, and corticosteroid use. In most people, untreated candidiasis persists for months or years unless associated risk factors are treated or eliminated. In neonates, spontaneous cure of oropharyngeal candidiasis usually occurs after 3-8 weeks.",
+        "journal": "BMJ clinical evidence",
+        "year": "2009",
+        "authors": [
+          "Pankhurst Caroline L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Candidiasis, Oral",
+          "Fluconazole",
+          "HIV Infections",
+          "Humans",
+          "Oropharynx"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445752/"
+      },
+      {
+        "pmid": "29972567",
+        "title": "Clinical and laboratorial features of oral candidiasis in HIV-positive patients.",
+        "abstract": "We describe the clinical and laboratorial features of oral candidiasis in 66 HIV-positive patients.",
+        "journal": "Revista da Sociedade Brasileira de Medicina Tropical",
+        "year": "2018",
+        "authors": [
+          "Spalanzani Regiane Nogueira",
+          "Mattos Karine",
+          "Marques Luiza Inahe",
+          "Barros Pedro Fernando Diniz",
+          "Pereira Pamela Iruama Peres"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adult",
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Brazil",
+          "Candida",
+          "Candidiasis, Oral",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29972567/"
+      },
+      {
+        "pmid": "15533276",
+        "title": "Oral candidiasis and nutritional deficiencies in elderly hospitalised patients.",
+        "abstract": "The prevalence of oral candidiasis and its association with malnutrition in terms of protein-energy malnutrition and mineral and vitamin depletion were evaluated in ninety-seven hospitalised older adults aged 82.1 (SD 8.6) years. Patients underwent a complete oral examination with microbiological investigation on admission to our geriatric rehabilitation unit. Patients were assessed nutritionally by evaluation of dietary intake and measurement of anthropometric variables, serum nutritional proteins, ferritin, Zn, folate, vitamins B12 and C. The prevalence of oral candidiasis was 37% (n 36); the proportion of patients with BMI <20 kg/m(2) was 32% (n 31). The nutritional status of the population was studied by comparing two groups defined according to the absence (group I; n 61) or presence (group II; n 36) of oral candidiasis. The two groups did not differ on the basis of BMI and mid-arm circumference. However, group II had a smaller leg circumference, lower daily energy and protein int",
+        "journal": "The British journal of nutrition",
+        "year": "2004",
+        "authors": [
+          "Paillaud Elena",
+          "Merlier Isabelle",
+          "Dupeyron Catherine",
+          "Scherman Elisabeth",
+          "Poupon Joël"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Aged",
+          "Aged, 80 and over",
+          "Avitaminosis",
+          "Body Mass Index",
+          "Candida",
+          "Candidiasis, Oral",
+          "Dietary Proteins",
+          "Energy Intake",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15533276/"
+      },
+      {
+        "pmid": "33416006",
+        "title": "Development and machine-learning optimization of mucoadhesive nanostructured lipid carriers loaded with fluconazole for treatment of oral candidiasis.",
+        "abstract": "The aim of this work was to prepare and optimize mucoadhesive nanostructured lipid carrier (NLC) impregnated with fluconazole for better management of oral candidiasis. The NLCs were fabricated using an emulsification/sonication technique. The nanoparticles consisted of stearic acid, oleic acid, Pluronic F127, and lecithin. Box-Behnken design, artificial neural networking, and variable weight desirability were employed to optimize the joint effect of drug concentration in the drug/lipid mixture, solid lipid concentration in the solid/liquid lipid mixture, and surfactant concentration in the total mixture on size and entrapment. The optimized NLCs were coated with chitosan. The nanoparticles were characterized by surface charge, spectroscopic, thermal, morphological, mucoadhesion, release, histopathological, and antifungal properties. The nanoparticles are characterized by a particle size of 335 ± 13.5 nm, entrapment efficiency of 73.1 ± 4.9%, sustained release, minor histopathological ",
+        "journal": "Drug development and industrial pharmacy",
+        "year": "2021",
+        "authors": [
+          "Elkomy Mohammed H",
+          "Elmowafy Mohammed",
+          "Shalaby Khaled",
+          "Azmy Ahmed F",
+          "Ahmad Naveed"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Candidiasis, Oral",
+          "Drug Carriers",
+          "Fluconazole",
+          "Lipids",
+          "Machine Learning",
+          "Nanoparticles",
+          "Nanostructures",
+          "Particle Size",
+          "Rabbits"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33416006/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:15:52.827940",
+  "success": true,
+  "error_message": null
+}

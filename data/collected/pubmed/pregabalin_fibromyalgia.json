@@ -1,0 +1,504 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Pregabalin",
+    "disease": "fibromyalgia",
+    "query_string": "Pregabalin AND fibromyalgia"
+  },
+  "data": {
+    "query": "Pregabalin AND fibromyalgia",
+    "results": [
+      {
+        "pmid": "36791450",
+        "title": "Fibromyalgia: Diagnosis and Management.",
+        "abstract": "Fibromyalgia is a chronic, centralized pain syndrome characterized by disordered processing of painful stimuli. Fibromyalgia is diagnosed more frequently in women and occurs globally, affecting 2% of people in the United States. Patients with fibromyalgia have diffuse chronic pain, poor sleep, fatigue, cognitive dysfunction, and mood disturbances. Comorbid conditions, such as functional somatic syndromes, psychiatric diagnoses, and rheumatologic conditions may be present. The Fibromyalgia Rapid Screening Tool is a helpful screening method for patients with diffuse chronic pain. The American College of Rheumatology criteria or the Analgesic, Anesthetic, and Addiction Clinical Trial Translations Innovations Opportunities and Networks-American Pain Society Pain Taxonomy diagnostic criteria can diagnose fibromyalgia. Establishing the diagnosis and providing education can reassure patients and decrease unnecessary testing. A multidisciplinary approach that incorporates nonpharmacologic ther",
+        "journal": "American family physician",
+        "year": "2023",
+        "authors": [
+          "Winslow Bradford T",
+          "Vandal Carmen",
+          "Dang Laurel"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Fibromyalgia",
+          "Chronic Pain",
+          "Pregabalin",
+          "Analgesics",
+          "Duloxetine Hydrochloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36791450/"
+      },
+      {
+        "pmid": "38279728",
+        "title": "Diet and Lifestyle Modifications for Fibromyalgia.",
+        "abstract": "Fibromyalgia (FM) is a complex, widespread pain disorder characterized by symptoms such as fatigue, sleep deprivation, mental fog, mood swings, and headaches. Currently, there are only three FDA-approved medications for FM patients: duloxetine, milnacipran, and pregabalin, with outcomes frequently being inadequate. This research team aims to investigate the effects of diet and lifestyle modifications on FM, with emphasis on anti-inflammatory diet, antioxidants, and gluten-free diets, as well as supplementation with Magnesium, CQ10, and Vitamin D, microbiome, sleep, exercise, and cognitive behavioral therapy. We reviewed the pathophysiology of certain foods that can be proinflammatory with the release of cytokines leading to activation of pain, fatigue and aggravation of the majority of Fibromyalgia symptoms. A literature review was performed by identifying FM articles published between 1994 and 2022 via PubMed and EMBASE databases, with particular emphasis on randomized controlled tria",
+        "journal": "Current rheumatology reviews",
+        "year": "2024",
+        "authors": [
+          "Metyas Caroline",
+          "Aung Tun Tun",
+          "Cheung Jennifer",
+          "Joseph Marina",
+          "Ballester Andrew M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fibromyalgia",
+          "Diet",
+          "Life Style",
+          "Exercise"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38279728/"
+      },
+      {
+        "pmid": "32345589",
+        "title": "Pregabalin and gabapentin for pain.",
+        "abstract": "",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2020",
+        "authors": [
+          "Mathieson Stephanie",
+          "Lin Chung-Wei Christine",
+          "Underwood Martin",
+          "Eldabe Sam"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Diabetic Neuropathies",
+          "Evidence-Based Medicine",
+          "Fibromyalgia",
+          "Gabapentin",
+          "Humans",
+          "Neuralgia",
+          "Neuralgia, Postherpetic",
+          "Pregabalin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32345589/"
+      },
+      {
+        "pmid": "27345098",
+        "title": "Alpha2delta ligands, gabapentin, pregabalin and mirogabalin: a review of their clinical pharmacology and therapeutic use.",
+        "abstract": "The first two alpha2delta ligands - gabapentin (GBP) and pregabalin (PGB) - were initially synthesized as antiepileptics; however, they were later also found to be useful for the treatment of additional conditions. Areas covered: Relevant publications describing potential underlying mechanisms, clinical pharmacokinetics/pharmacokinetics, and clinical efficacy and safety of these drugs in various disease conditions were searched in PubMed and Scopus and included in this review. Expert commentary: GBP and PGB are effective for the treatment neuropathic pain, fibromyalgia and epilepsy; in addition, they may be useful for the reduction of postoperative pain. PGB is also effective for the treatment of generalized anxiety disorder and GBP for the treatment of restless legs syndrome. GBP may be considered a treatment option for pain associated with Guillain-Barré Syndrome and phantom limb and for the management of uremic pruritus. Mirogabalin (MGB), recently developed, is being investigated f",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2016",
+        "authors": [
+          "Calandre Elena P",
+          "Rico-Villademoros Fernando",
+          "Slim Mahmoud"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Bridged Bicyclo Compounds",
+          "Calcium Channel Blockers",
+          "Cyclohexanecarboxylic Acids",
+          "Gabapentin",
+          "Humans",
+          "Ligands",
+          "Nervous System Diseases",
+          "Pregabalin",
+          "gamma-Aminobutyric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27345098/"
+      },
+      {
+        "pmid": "39744264",
+        "title": "Pain Management in Fibromyalgia: Evaluating the Roles of Pregabalin, Duloxetine, and Milnacipran.",
+        "abstract": "Introduction Fibromyalgia is a chronic pain disorder characterized by widespread pain, fatigue, and sleep disturbances. The purpose of this study was to compare how well duloxetine, pregabalin, and milnacipran worked for fibromyalgia patients in terms of pain management, quality of life, and sleep quality. Methodology A prospective cohort research study with 193 fibromyalgia patients was carried out at the Abbas Institute of Medical Sciences, Muzaffarabad, Pakistan. For a total study duration of nine months, participants were prescribed milnacipran, pregabalin, or duloxetine for six months, and followed up monthly for an additional three months after completing therapy. At baseline and at the conclusion of the study, measures of pain intensity, quality of life (Fibromyalgia Impact Questionnaire, FIQ), and sleep quality (Pittsburgh Sleep Quality Index, PSQI) were taken. Analysis of variance (ANOVA) and paired t-tests were among the statistical studies carried out. Results Significant im",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Faizan Ejaz Khawaja",
+          "Wani Rehan",
+          "Akbar Amna",
+          "Umaira Khan Qudsia",
+          "Ishtiaq Hifza"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39744264/"
+      },
+      {
+        "pmid": "26937205",
+        "title": "Clinical utility, safety, and efficacy of pregabalin in the treatment of fibromyalgia.",
+        "abstract": "Fibromyalgia is a chronic debilitating medical syndrome with limited therapeutic options. Pregabalin, an anticonvulsant and α-2-Δ subunit receptor ligand, is one of the anchor drugs approved by the US Food and Drug Administration for the treatment of fibromyalgia. The drug has shown clinically meaningful benefits across multiple symptom domains of fibromyalgia. Efficacy of pregabalin in fibromyalgia pain has been evaluated in at least five high-quality randomized trials, two long-term extension studies, a meta-analysis, a Cochrane database systematic review, and several post hoc analyses. These studies also hint towards a meaningful benefit on sleep, functioning, quality of life, and work productivity. Side effects of pregabalin, although common, are mild to moderate in intensity. They are noted early during therapy, improve or disappear with dose reduction, and are not usually life- or organ threatening. In most patients, tolerance develops to the most common side effects, dizziness, ",
+        "journal": "Drug, healthcare and patient safety",
+        "year": "2016",
+        "authors": [
+          "Bhusal Santosh",
+          "Diomampo Sherilyn",
+          "Magrey Marina N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26937205/"
+      },
+      {
+        "pmid": "35587348",
+        "title": "Comparison of Amitriptyline and US Food and Drug Administration-Approved Treatments for Fibromyalgia: A Systematic Review and Network Meta-analysis.",
+        "abstract": "Amitriptyline is an established medication used off-label for the treatment of fibromyalgia, but pregabalin, duloxetine, and milnacipran are the only pharmacological agents approved by the US Food and Drug Administration (FDA) to treat fibromyalgia.",
+        "journal": "JAMA network open",
+        "year": "2022",
+        "authors": [
+          "Farag Hussein M",
+          "Yunusa Ismaeel",
+          "Goswami Hardik",
+          "Sultan Ihtisham",
+          "Doucette Joanne A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Amitriptyline",
+          "Duloxetine Hydrochloride",
+          "Fatigue",
+          "Female",
+          "Fibromyalgia",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Milnacipran",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35587348/"
+      },
+      {
+        "pmid": "38927473",
+        "title": "Management of Fibromyalgia: An Update.",
+        "abstract": "Fibromyalgia, a chronic pain condition marked by abnormal pain processing, impacts a significant part of the population, leading to reduced quality of life and function. Hallmark symptoms include widespread persistent pain, sleep disturbances, fatigue, cognitive dysfunction, and mood changes. Through this updated review, we aim to contribute to the evolving understanding and management of fibromyalgia, offering insights into the diverse tools available to improve the lives of those affected by this challenging condition. Management begins with educating patients to ultimately relieve them of unnecessary testing and provide reassurance. Treatment emphasizes a comprehensive approach, combining nonpharmacological interventions such as aforementioned education, exercise, and psychotherapy, alongside pharmacologic management-namely duloxetine, milnacipran, pregabalin, and amitriptyline-which have consistent benefits for a range of symptoms across the spectrum of fibromyalgia. Notably, drugs",
+        "journal": "Biomedicines",
+        "year": "2024",
+        "authors": [
+          "Jones Eric A",
+          "Asaad Farrah",
+          "Patel Nishil",
+          "Jain Esha",
+          "Abd-Elsayed Alaa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38927473/"
+      },
+      {
+        "pmid": "21054455",
+        "title": "Gabapentin and pregabalin in the treatment of fibromyalgia: a systematic review and a meta-analysis.",
+        "abstract": "Fibromyalgia (FBM) is a common chronic pain disorder affecting up to 2% of the general population. Current treatment options are mostly symptom-based and limited both in efficacy and number. Two promising alternatives are gabapentin (GP) and pregabalin (PB). We aimed to estimate the efficacy and safety/tolerability of the two compounds in FBM through a systematic review and a meta-analysis of relevant randomized double-blind placebo-controlled (RCT) were performed.",
+        "journal": "Journal of clinical pharmacy and therapeutics",
+        "year": "2010",
+        "authors": [
+          "Tzellos T G",
+          "Toulis K A",
+          "Goulis D G",
+          "Papazisis G",
+          "Zampeli V A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Analgesics, Non-Narcotic",
+          "Cyclohexanecarboxylic Acids",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Fibromyalgia",
+          "Gabapentin",
+          "Humans",
+          "Male",
+          "Outcome Assessment, Health Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21054455/"
+      },
+      {
+        "pmid": "35347488",
+        "title": "Comparative efficacy of amitriptyline, duloxetine and pregabalin for treating fibromyalgia in adults: an overview with network meta-analysis.",
+        "abstract": "Treatment recommendations for fibromyalgia (FM) include a range of predominantly pharmacological treatment options designed to ensure the maintenance of symptoms and improvement in the quality of life of these patients. Our aim is to identify and compare the efficacy of amitriptyline (AMT), duloxetine (DLX), and pregabalin (PGB) for reducing pain intensity by 30% (R30%) and 50% (R50%) in adult patients with fibromyalgia. The review was conducted in the Medline/PubMed, Cochrane Library, and Embase databases up to February 2022. This study included systematic reviews (SR) of randomized clinical trials (RCTs) targeting adult patients over 18 years of age diagnosed with fibromyalgia according to the criteria of scientific societies, which include the basic clinical diagnosis characterized by the presence of pressure sensitivity in at least 11 of the 18 tender points, in addition to the presence of widespread musculoskeletal pain for a period longer than 3 months and a general assessment of",
+        "journal": "Clinical rheumatology",
+        "year": "2022",
+        "authors": [
+          "Alberti Fernanda Fávero",
+          "Becker Matheus William",
+          "Blatt Carine Raquel",
+          "Ziegelmann Patricia Klarmann",
+          "da Silva Dal Pizzol Tatiane"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Female",
+          "Humans",
+          "Amitriptyline",
+          "Duloxetine Hydrochloride",
+          "Fibromyalgia",
+          "Pain",
+          "Pregabalin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35347488/"
+      },
+      {
+        "pmid": "37378482",
+        "title": "Palmitoylethanolamide and acetyl-L-carnitine act synergistically with duloxetine and pregabalin in fibromyalgia: results of a randomised controlled study.",
+        "abstract": "Fibromyalgia (FM) is characterised by a form of debilitating pain that is unresponsive to standard analgesics. The aim of this study was to evaluate the efficacy of supplementing ongoing pregabalin (PGB) and duloxetine (DLX) treatment with palmitoylethanolamide (PEA) and acetyl-L-carnitine (ALC) for 24 weeks in FM patients.",
+        "journal": "Clinical and experimental rheumatology",
+        "year": "2023",
+        "authors": [
+          "Salaffi Fausto",
+          "Farah Sonia",
+          "Sarzi-Puttini Piercarlo",
+          "Di Carlo Marco"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fibromyalgia",
+          "Duloxetine Hydrochloride",
+          "Pregabalin",
+          "Acetylcarnitine",
+          "Treatment Outcome",
+          "Analgesics",
+          "Pain",
+          "Amides",
+          "Ethanolamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37378482/"
+      },
+      {
+        "pmid": "39058736",
+        "title": "Association of adverse cardiovascular events with gabapentin and pregabalin among patients with fibromyalgia.",
+        "abstract": "Fibromyalgia, a chronic pain disorder, impacts approximately 2% of adults in the US. Gabapentin and pregabalin are common treatments to manage fibromyalgia-related pain. Our recent study showed the risk of adverse cardiovascular events increased in diabetic neuropathy patients who were prescribed gabapentin or pregabalin. Here, we investigated whether the prescription of gabapentin or pregabalin has similar cardiovascular risk in patients with fibromyalgia.",
+        "journal": "PloS one",
+        "year": "2024",
+        "authors": [
+          "Pan Yiheng",
+          "Blankfield Robert P",
+          "Kaelber David C",
+          "Xu Rong"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fibromyalgia",
+          "Pregabalin",
+          "Gabapentin",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Adult",
+          "Cardiovascular Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39058736/"
+      },
+      {
+        "pmid": "22094198",
+        "title": "Fibromyalgia and sleep.",
+        "abstract": "Chronic pain in fibromyalgia patients, together with its associated symptoms and co-morbidities, is now considered a result of dysregulated mechanisms in the central nervous system (CNS). As fibromyalgia patients often report sleep problems, the physiological processes that normally regulate sleep may be disturbed and overlap with other CNS dysfunctions. Although the mechanisms potentially linking chronic widespread pain, sleep alterations and mood disorders have not yet been proven, polysomnography findings in patients with fibromyalgia and non-restorative sleep and their relationships with clinical symptoms support the hypothesis of a conceptual common mechanism called 'central sensitisation'. Food and Drug Administration (FDA)-approved drugs for the treatment of fibromyalgia may benefit sleep, but their label does not include the treatment of fibromyalgia-associated sleep disorders. Non-pharmacological therapies (including a thorough sleep assessment) can be considered in the first-",
+        "journal": "Best practice & research. Clinical rheumatology",
+        "year": "2011",
+        "authors": [
+          "Spaeth Michael",
+          "Rizzi Maurizio",
+          "Sarzi-Puttini Piercarlo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Central Nervous System Sensitization",
+          "Chronic Pain",
+          "Cyclopropanes",
+          "Duloxetine Hydrochloride",
+          "Fibromyalgia",
+          "Humans",
+          "Milnacipran",
+          "Physical Therapy Modalities",
+          "Polysomnography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22094198/"
+      },
+      {
+        "pmid": "11690728",
+        "title": "Clinical importance of changes in chronic pain intensity measured on an 11-point numerical pain rating scale.",
+        "abstract": "Pain intensity is frequently measured on an 11-point pain intensity numerical rating scale (PI-NRS), where 0=no pain and 10=worst possible pain. However, it is difficult to interpret the clinical importance of changes from baseline on this scale (such as a 1- or 2-point change). To date, there are no data driven estimates for clinically important differences in pain intensity scales used for chronic pain studies. We have estimated a clinically important difference on this scale by relating it to global assessments of change in multiple studies of chronic pain. Data on 2724 subjects from 10 recently completed placebo-controlled clinical trials of pregabalin in diabetic neuropathy, postherpetic neuralgia, chronic low back pain, fibromyalgia, and osteoarthritis were used. The studies had similar designs and measurement instruments, including the PI-NRS, collected in a daily diary, and the standard seven-point patient global impression of change (PGIC), collected at the endpoint. The chang",
+        "journal": "Pain",
+        "year": "2001",
+        "authors": [
+          "Farrar John T",
+          "Young James P",
+          "LaMoreaux Linda",
+          "Werth John L",
+          "Poole Michael R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anticonvulsants",
+          "Chronic Disease",
+          "Controlled Clinical Trials as Topic",
+          "Female",
+          "Fibromyalgia",
+          "Humans",
+          "Low Back Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11690728/"
+      },
+      {
+        "pmid": "18174971",
+        "title": "Pregabalin: its efficacy, safety and tolerability profile in fibromyalgia syndrome.",
+        "abstract": "Fibromyalgia syndrome (FMS) is characterized by chronic widespread pain and accompanied by a variety of other symptoms such as fatigue, sleep dysfunction, depression, anxiety and cognitive disturbance. Current guidelines recommend tricyclic antidepressants or SSRIs (selective serotonin reuptake inhibitors) as first-line therapies to treat the multiple symptom domains. Until recently, however, there were no licensing authority approved treatments for FMS. The alfa 2 delta modulator pregabalin has anxiolytic, anticonvulsant and antinociceptive properties which has prompted its investigation in FMS. In a series of short-term randomized, double-blind, placebo-controlled trials of 8-14 weeks duration, pregabalin proved effective in reducing the pain and accompanying symptoms of FMS and improved quality of life domains. A 6-month double-blind, placebo-controlled trial demonstrated the durability of its effects on pain and a variety of secondary measures such as fatigue and sleep disturbance.",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2007",
+        "authors": [
+          "Owen Richard T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Anxiety Disorders",
+          "Cognition Disorders",
+          "Depression",
+          "Fatigue",
+          "Fibromyalgia",
+          "Humans",
+          "Pain",
+          "Pregabalin",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18174971/"
+      },
+      {
+        "pmid": "38355316",
+        "title": "\"Fibromyalgia - are there any new approaches?\".",
+        "abstract": "Approaching patients with fibromyalgia (FM) is challenging due to the limited availability of scientifically proven effective therapies.",
+        "journal": "Best practice & research. Clinical rheumatology",
+        "year": "2024",
+        "authors": [
+          "Martinez José Eduardo",
+          "Guimarães Izabela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Fibromyalgia",
+          "Humans",
+          "Cognitive Behavioral Therapy",
+          "Exercise Therapy",
+          "Pain Management",
+          "Analgesics",
+          "Patient Education as Topic",
+          "Combined Modality Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38355316/"
+      },
+      {
+        "pmid": "20418173",
+        "title": "Comparative efficacy and harms of duloxetine, milnacipran, and pregabalin in fibromyalgia syndrome.",
+        "abstract": "Duloxetine (DLX), milnacipran (MLN), and pregabalin (PGB) are the only drugs licensed by the US Food and Drug Administration (FDA) for fibromyalgia syndrome (FMS). Evidence on the comparative benefits and harms is still accruing. The authors searched MEDLINE, SCOPUS, Cochrane Central Register of Controlled Trials, and sought unpublished data from the databases of FDA, US National Institutes for Health, and Industry through May 2009 for randomized controlled trials. Outcomes of interest were symptom reduction (pain, fatigue, sleep disturbance, depressed mood, reduced health-related quality of life), and adverse events. 17 studies with 7,739 patients met the inclusion criteria. The 3 drugs were superior to placebo except DLX for fatigue, MLN for sleep disturbance, and PGB for depressed mood. Adjusted indirect comparisons indicated no significant differences for 30% pain relief and dropout rates due to adverse events between the 3 drugs. Significant differences in average symptom reductio",
+        "journal": "The journal of pain",
+        "year": "2010",
+        "authors": [
+          "Häuser Winfried",
+          "Petzke Frank",
+          "Sommer Claudia"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Cyclopropanes",
+          "Duloxetine Hydrochloride",
+          "Fibromyalgia",
+          "Humans",
+          "Milnacipran",
+          "Pregabalin",
+          "Randomized Controlled Trials as Topic",
+          "Thiophenes",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20418173/"
+      },
+      {
+        "pmid": "33658841",
+        "title": "Efficacy and Safety of Pregabalin for Fibromyalgia in a Population of Chinese Subjects.",
+        "abstract": "Fibromyalgia (FM) may go underdiagnosed and untreated in China in part due to a lack of awareness and understanding of the condition, and limited available treatments.",
+        "journal": "Journal of pain research",
+        "year": "2021",
+        "authors": [
+          "Zhang Xiao",
+          "Xu Huji",
+          "Zhang Zhiyi",
+          "Li Yang",
+          "Pauer Lynne"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33658841/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:59:21.415647",
+  "success": true,
+  "error_message": null
+}

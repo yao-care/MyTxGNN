@@ -1,0 +1,917 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lamivudine",
+    "disease": "chronic hepatitis B virus infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00057265",
+      "title": "A Randomized, Double Blind Trial of LdT (Telbivudine) Versus Lamivudine in Adults With Compensated Chronic Hepatitis B",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "",
+      "country": "South Korea, Spain, Turkey (Türkiye), United Kingdom, Thailand, United States",
+      "enrollment": "N/A",
+      "brief_summary": "This study is being conducted to compare the safety and effectiveness of the investigational medication, LdT (Telbivudine) with Lamivudine, a drug currently approved by the US, European and Asian Health Authorities for the treatment of hepatitis B infection. The results for patients taking LdT will be compared to results for patients taking Lamivudine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic Hepatitis B, documented by Clinical history compatible with chronic HBV\n\nOther protocol-defined inclusion criteria may apply.\n\nExclusion Criteria:\n\n* Patient is pregnant or breastfeeding\n* Patient is co infected with hepatitis C virus (HCV), hepatitis D virus (HDV), HI",
+      "endpoints": [
+        "Primary efficacy endpoint: \"therapeutic response\", defined as reduction of serum HBV DNA to below 5 log10 copies/mL, coupled with normalization of serum alanine aminotransferase levels OR loss of detectable serum HBeAg."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00057265"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00734162",
+      "title": "A Randomized, Double-Blind Evaluation of the Antiviral Efficacy, Safety, and Tolerability of Tenofovir Disoproxil Fumarate Versus Placebo in Adolescents With Chronic Hepatitis B Infection",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2015-12",
+      "country": "Bulgaria, France, Spain, Turkey (Türkiye), Romania, Poland, United States",
+      "enrollment": 106,
+      "brief_summary": "The primary purpose of the study is to evaluate the effectiveness, safety, and tolerability of tenofovir disoproxil fumarate (TDF) in adolescents (aged 12-17 years) with chronic hepatitis B virus (HBV) infection.\n\nThe optimal treatment for adolescents with chronic HBV infection is currently unknown. Treatment with interferon alfa, lamivudine, and adefovir dipivoxil in pediatric populations has been shown to be less than optimal. Further, the safety and efficacy of entecavir and telbivudine have ",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Male or female, 12 through 17 years of age, inclusive (consent of parent/legal guardian required)\n* Documented chronic HBV infection\n* HBeAg positive or HBeAg negative\n* Weight \\> 35 kg\n* Able to swallow oral tablets\n* HBV DNA \\> 100,000 copies/mL (polymerase chain reaction (PC",
+      "endpoints": [
+        "Percentage of Participants With HBV DNA < 400 Copies/mL at Week 72",
+        "Percentage of Participants With at Least a 6% Decrease From Baseline in Bone Mineral Density (BMD) of the Spine at Week 72"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00734162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00487747",
+      "title": "PEGASYS® (Peginterferon Alpha-2a 40KD) in Patients With HBeAg-positive and HBeAg-negative Chronic Hepatitis B",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2009-10",
+      "country": "Russia",
+      "enrollment": 18,
+      "brief_summary": "This single arm study will assess the efficacy and safety of PEGASYS in patients with chronic hepatitis B who are either treatment-naive, or who have failed lamivudine- or interferon-treatment in the past. All patients will receive PEGASYS, 180 micrograms s.c. weekly for 48 weeks, followed by 48 weeks of treatment-free follow-up. The anticipated time on study treatment is 3-12 months, and the target sample size is 100-500 individuals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients, 18-70 years of age;\n* chronic hepatitis B;\n* Hepatitis B Virus (HBV) DNA \\>100,000 copies/mL.\n\nExclusion Criteria:\n\n* previous antiviral or interferon-based therapy for chronic hepatitis B in past 6 months;\n* evidence of decompensated liver disease;\n* history o",
+      "endpoints": [
+        "Number of HBeAg Positive Participants With Hepatitis B Virus Deoxyribonucleic Acid <100,000 Copies Per mL",
+        "Number of HBeAg Negative Participants With HBV DNA < 20,000 Copies Per mL"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00487747"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04302896",
+      "title": "APT-POCT-01: An Open Label, Pharmacokinetic Study of Plasma/Urine/Salivary Drug Concentrations Over Fourteen Days Following Drug Intake Cessation, In HIV-Uninfected Healthy Volunteers Dosing to Steady-state to Further Development of Point of Care Diagnostic Testing",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-08-31",
+      "completion_date": "2021-09-30",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "This is a single-center, open label study to identify adherence levels of commonly prescribed FDA-approved antiretroviral agents by tracking the decline of drug concentrations in plasma, urine and saliva following abrupt drug cessation in HIV-negative adults. Results from this study may provide support for development of a point of care urine testing device to monitor drug adherence.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. At least 18 years of age at screening, verified per site standard operating procedure (SOP)\n2. Not pregnant or breastfeeding\n3. Availability to return for all study visits, barring unforeseen circumstances\n4. Willing and able to\n\n   * communicate in English\n   * provide writt",
+      "endpoints": [
+        "Maximum concentration (Cmax) of dolutegravir, emtricitabine, lamivudine, tenofovir disoproxil fumarate, tenofovir alafenamide, and metabolites",
+        "Time to maximum concentration (Tmax) of dolutegravir, emtricitabine, lamivudine, tenofovir disoproxil fumarate, tenofovir alafenamide, and metabolites",
+        "Minimum concentration (Cmin) of dolutegravir, emtricitabine, lamivudine, tenofovir disoproxil fumarate, tenofovir alafenamide, and metabolites"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT04302896"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02598063",
+      "title": "A Randomized, Open-label Study Evaluating the Efficacy and Safety of Peginterferon Alfa-2a (40KD) (PEGASYS®) or Adefovir Dipivoxil (ADV) in Patients With Lamivudine-resistant HBeAg Positive Chronic Hepatitis B",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2009-04",
+      "country": "China, Hong Kong",
+      "enrollment": 255,
+      "brief_summary": "This study will evaluate the efficacy and safety of peginterferon alfa-2a or ADV, in participants with lamivudine-resistant HBeAg-positive chronic hepatitis B. Participants will be randomized to receive either peginterferon alfa-2a for 48 weeks in combination with oral lamivudine for the first 12 weeks, or ADV for 72 weeks in combination with oral lamivudine for the first 12 weeks. The anticipated time on study treatment is 72 weeks, and the target sample size is 255 individuals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants 18-65 years of age\n* Hepatitis B surface antigen (HBsAg)-positive, HBeAg-positive, and anti-HBs-negative for greater than or equal to (\\>=) 6 months\n* Receiving lamivudine currently, and for \\>=6 months\n* hepatitis B virus (HBV)-deoxyribonucleic acid (DNA) d",
+      "endpoints": [
+        "HBeAg seroconversion (defined as loss of HBeAg and presence of anti-HBe) at Week 72"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02598063"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01519921",
+      "title": "An Open Label Phase IV Multicenter Study for Efficacy and Safety of Peginterferon Alfa-2a (40KD) (PEGASYS®) in Patients With HBeAg Positive Chronic Hepatitis B",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2008-06",
+      "country": "South Korea",
+      "enrollment": 150,
+      "brief_summary": "This study will evaluate the efficacy and safety of PEGASYS (peginterferon alfa-2a) in patients with HBeAg positive chronic hepatitis B. Patients will be stratified into group A (treatment naïve patients) or B (YMDD mutant patients). All patients will receive PEGASYS 180 micrograms subcutaneously once weekly for 48 weeks, followed by 24 weeks of treatment-free follow up.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, 18-65 years of age\n* HBsAg +ve for more than 6 months, HBeAg +ve, AntiHBs -ve\n* Detectable hepatitis B virus (HBV) DNA (\\>100,000 copies/mL)\n\nExclusion Criteria:\n\n* Coinfection with hepatitis A, hepatitis C or human immunodeficiency virus (HIV)\n* Evidence of de",
+      "endpoints": [
+        "Percentage of Participants With Hepatitis B Virus DNA <100,000 Copies/mL At Week 72",
+        "Percentage of Participants With Hepatitis B Virus e Antigen Loss At Week 72"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01519921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03236584",
+      "title": "Investigation of Efficacy of Tenofovir Monotherapy in Comparison With Lamivudine Plus Adefovir in Patients With Chronic Hepatitis B Patients Who Had Achieved Complete Viral Suppression on Lamivudine Plus Adefovir Combination Therapy - Multicenter Randomized Open-label Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-09-01",
+      "completion_date": "2019-03-30",
+      "country": "N/A",
+      "enrollment": 76,
+      "brief_summary": "Little is known about efficacy of switching to tenofovir monotherapy for lam-resistant chronic hepatitis B patients who achieved a complete virological response to lamivudine plus adefovir. This study was to investigate the efficacy of switching to tenofovir monotherapy for lamivudine -resistant chronic hepatitis B patients with undetectable hepatitis B virus DNA while on lamivudine plus adefovir combination therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HBsAg (+) for \\> 6 months age \\>19 years antiviral resistance to LAM (rtL180M and/or M204V/I) currently receiving LAM plus ADV for more than 12 months HBV DNA levels \\<20 IU/ml on two consecutive tests of 3-month interval\n\nExclusion Criteria:\n\n* Cr ≥1.5 mg/dL Evidence of decom",
+      "endpoints": [
+        "SVR"
+      ],
+      "sponsor": "Uijeongbu St. Mary Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03236584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00120354",
+      "title": "Long-Term Lamivudine Therapy for Chronic Hepatitis B",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-07-11",
+      "completion_date": "2007-03-31",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This study will evaluate the long-term safety and effectiveness of lamivudine therapy and the possibility of stopping therapy in patients whose hepatitis B is chronic, that is, long lasting, and which has responded to treatment. Chronic hepatitis B, caused by a virus, is a common form of liver disease affecting about 1 million Americans and about 5 percent of the world's population. Health effects include a continuous state of being infectious and the risk of transmitting hepatitis to other peop",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Age 18 years or above, male or female\n* Presence of HBsAg in serum for at least 6 months.\n* Previous liver biopsy histology showing chronic hepatitis with or without cirrhosis.\n* Long-term (greater than 1 year) lamivudine therapy in doses of 100 mg daily.\n* Normal or near nor",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00120354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02482272",
+      "title": "Efficacy and Safety of Continuing Lamivudine Plus Adefovir or Adefovir Versus Switching to Entecavir Plus Adefovir in Patients With Chronic Hepatitis B Who Have Resistant Mutants to Lamivudine and Show Suboptimal Response to Combination of Lamivudine Plus Adefovir or Adefovir Monotherapy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-05",
+      "completion_date": "2017-05",
+      "country": "South Korea",
+      "enrollment": 90,
+      "brief_summary": "The purpose of this study is to compare efficacy and safety of continuing Lamivudine plus Adefovir or Adefovir versus switching to Entecavir plus Adefovir in patients with LAM-resistant chronic hepatitis B who have suboptimal response to Lamivudine plus Adefovir or Adefovir",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic hepatitis B\n* Age ≥ 20 year old\n* Currently taking Lamivudine and Adefovir combination therapy or Adefovir monotherapy for chronic HBV infection for 24 weeks\n* Proven Lamivudine resistant mutation\n* HBV DNA levels at screening ≥ 15 IU/mL\n* Females must be post-menopaus",
+      "endpoints": [
+        "Proportion of patients with HBV DNA<15IU/mL"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02482272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01732367",
+      "title": "Randomized Trial of Tenofovir Versus Lamivudine Plus Adefovir in Lamivudine Plus Adefovir Treated Lamivudine-resistant Chronic Hepatitis B Patients With Undetectable Hepatitis B Virus DNA.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2016-04",
+      "country": "South Korea",
+      "enrollment": 171,
+      "brief_summary": "This study will provide a rationale for switch from lamivudine plus adefovir to tenofovir monotherapy in Lamivudine plus Adefovir Treated Lamivudine-resistant chronic hepatitis B patients with Undetectable Hepatitis B Virus DNA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 18 or older\n* The CHB patients (both HBeAg-positive and - negative) who have at least 6 months undetectable HBV DNA (serum HBV DNA ≤ 20 IU/mL) after lamivudine plus adefovir combination therapy.\n\nExclusion Criteria:\n\n* Patients with decompensated ",
+      "endpoints": [
+        "Percentage number of patients with virus reactivation"
+      ],
+      "sponsor": "Keimyung University Dongsan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01732367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01022801",
+      "title": "A Phase II Study in Japan of the Safety and Antiviral Activity of Entecavir (BMS-200475) vs Lamivudine in Adults With Chronic Hepatitis B Infection",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-08",
+      "completion_date": "2005-03",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "To demonstrate the dose response of entecavir in Japanese patients as measured by HBV DNA levels by PCR (log10 copies/mL) at Week 22",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Positive for HBsAg OR, negative for IgM core antibody and confirmation of chronic hepatitis B on liver biopsy,\n* Positive for HBeAg OR negative for HBeAg with positive HBeAb,\n* Documented HBV Viremia on 2 or more occasions: Viremia on sample drawn AND HBV DNA of ≥ 40 MEq/mL by",
+      "endpoints": [
+        "Mean change from baseline in HBV DNA levels as measured by by PCR (log10 copies/mL)"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT01022801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02604823",
+      "title": "Efficacy and Safety of Peginterferon Alfa-2a (40 KD) (Pegasys®) in Patients With HBeAg-Positive Chronic Hepatitis B",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2005-11",
+      "country": "China",
+      "enrollment": 307,
+      "brief_summary": "This is a study of the efficacy and safety of peginterferon alfa-2a (Pegasys) in naive, interferon- or lamivudine-pretreated participants with HBeAg-positive chronic HBV. Following 48 weeks treatment, there will be a 24 week period of treatment-free follow-up. The anticipated time on study treatment is 3-12 months, and the target sample size is 100-500 individuals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants between 18 to 65 years of age\n* HBeAg-positive chronic HBV\n* Treatment-naive, or have received and have not responded to or have relapsed on either conventional interferon or lamivudine therapy.\n\nExclusion Criteria:\n\n* Antiviral or interferon-based therapy f",
+      "endpoints": [
+        "Percentage of participants with HBV deoxyribonucleic acid (DNA) less than (<) 100,000 copies per milliliters (copies/mL)",
+        "Percentage of participants with HBeAg seroconversion"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02604823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00120796",
+      "title": "Lamivudine and Therapeutic Vaccine Evaluation in Senegalese Patients With Chronic Hepatitis B Infection",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-08",
+      "completion_date": "2008-07",
+      "country": "Senegal",
+      "enrollment": 8,
+      "brief_summary": "Chronic hepatitis B infection is a major public health issue in Senegal. The study will compare the efficacy of the treatment strategy combining Lamivudine and therapeutic vaccine (12 intra-muscular injections over a 6-month period) to a treatment with Lamivudine alone on the control of viral replication in patients with a replicative hepatitis B virus (HBV) infection and an increase in hepatic enzymes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Liver biopsy acceptation\n* B hepatitis grade over or equal to F2 Metavir score\n* DNA HBV greater than 100000 copies/mL (or 10000 copies/mL if Ag Hbe negative)\n* ALAT greater than 1.3 times the upper normal limit\n\nExclusion Criteria:\n\n* HCV, HDV and H",
+      "endpoints": [
+        "undetectability of HBV DNA blood level"
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT00120796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01037166",
+      "title": "A Phase II Study in Japan of the Safety And Antiviral Activity of Entecavir (BMS-200475) in Adults With Chronic Hepatitis B With Incomplete Response to Current Lamivudine Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2005-02",
+      "country": "Japan",
+      "enrollment": 84,
+      "brief_summary": "The objectives are to demonstrate that entecavir has antiviral activity undetectable HBV DNA measured, the Roche AmplicorTM PCR at Week 48, and to assess the safety and the pharmacokinetic of entecavir in Japanese patients with hepatitis B who have an incomplete response to current lamivudine therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documentation of chronic hepatitis B infection by ALL of the following:\n\n  1. Positive for HBsAg OR, negative for IgM core antibody and confirmation of chronic hepatitis B on liver biopsy\n  2. Patient who have received lamivudine therapy for 24 weeks or more, or patient who ha",
+      "endpoints": [
+        "To assess the safety (the incidence of clinical adverse events and discontinuations due to adverse events)",
+        "To assess the proportion of subjects with reduction in HBV DNA by ≥ 2 log10 or to undetectable level (< 400 copies/mL)"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT01037166"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01488526",
+      "title": "Tenofovir Disoproxil Fumarate in Late Pregnancy to Prevent Vertical Transmission of Hepatitis B Virus in Highly Viremic Mothers",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-03-01",
+      "completion_date": "2018-06-28",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "Immunoprophylaxis failure of hepatitis B virus (HBV) leading to vertical transmission remains a concern and has been reported in approximately 8-15% of infants born to hepatitis B e antigen (HBeAg) positive mothers with high levels of HBV DNA. Maternal HBV DNA \\> 6log10 copies/mL (or \\>200,000 IU/mL) is the major risk for the mother-to-child transmission. Prior observational studies have shown that antiviral therapy including lamivudine or telbivudine use during late pregnancy can safely reduce ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* documented CHB infection with HBsAg positive \\> 6 months\n* HBeAg+ CHB pregnant women\n* gestational age between 30-32 weeks\n* HBV DNA \\> 6 log10 copies/mL (or \\>200,000 IU/mL)\n* both mother and father of the child are willing to consent for the study\n\nMajor Exclusion Criteria:\n",
+      "endpoints": [
+        "Measure the number of infants who have HBV infection at the age of 28 weeks",
+        "Assessment of the safety and tolerability of TDF, measure the number of participants and paired infants with adverse events"
+      ],
+      "sponsor": "New Discovery LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01488526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02862548",
+      "title": "A Phase 2, Randomized, Open Label Study to Evaluate the Efficacy and Safety of Tenofovir Alafenamide (TAF) Versus Tenofovir Disoproxil Fumarate (TDF)-Containing Regimens in Subjects With Chronic HBV Infection and Stage 2 or Greater Chronic Kidney Disease Who Have Received a Liver Transplant",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09-16",
+      "completion_date": "2021-05-05",
+      "country": "New Zealand",
+      "enrollment": 51,
+      "brief_summary": "The primary objectives of this study are to evaluate the safety, tolerability, and efficacy of tenofovir alafenamide (TAF) versus tenofovir disoproxil fumarate (TDF)-containing regimens at Week 24 in participants with chronic hepatitis B virus (HBV) infection and Stage 2 or greater chronic kidney disease who have received a liver transplant.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Must have the ability to understand and sign a written informed consent form; consent must be obtained prior to initiation of study procedures\n* Documented evidence of chronic HBV infection prior to transplantation\n* Primary or secondary (re-transplant), liver alone or liv",
+      "endpoints": [
+        "Change From Baseline in Serum Estimated Glomerular Filtration Rate (eGFR) at Week 24 Using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) Creatinine Equation",
+        "Percentage of Participants With HBV DNA < 20 IU/mL at Week 24"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02862548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01595633",
+      "title": "Randomized Study Comparing Nucleoside Analogues Plus Tenofovir and Nucleoside Analogues Plus Adefovir in Chronic Hepatitis B Patients With Suboptimal Response to Adefovir-based Combination Therapy Due to Nucleoside Analogues Resistance",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-03",
+      "completion_date": "2014-02",
+      "country": "South Korea",
+      "enrollment": 124,
+      "brief_summary": "In Korea, the number of suboptimal responders to rescue combination therapy is also increasing. As a matter of fact, according to the investigations in Korea, HBV DNA undetectability at 48 weeks of adefovir and lamivudine combination rescue therapy for patients with lamivudine resistance was reported to be only 32.4%, which suggested that the appropriate another rescue therapy might be urgently required. However, there is no promising oral antiviral agents to control these patients in Asia-Pacif",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* subjects with age \\>= 20 years\n* subjects with chronic hepatitis B\n* subjects treated with nucleoside analogues plus adefovir for at least 6 months due to resistance to nucleoside analogues (Lamivudine, Telbivudine, Entecavir, or Clevudine)\n* subjects with partial virologic re",
+      "endpoints": [
+        "number of patients with complete virologic response (HBV DNA < 60 IU/mL, approximately 300 copies/mL) at 48 weeks treatment"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT01595633"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00036608",
+      "title": "A Phase III Study of Entecavir vs Lamivudine in Chronic Hepatitis B Subjects With Incomplete Response to Lamivudine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-01",
+      "completion_date": "2005-02",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this clinical research study is to assess the safety and effectiveness of switching to entecavir compared to continued lamivudine in patients with chronic hepatitis B.",
+      "eligibility_criteria": "* Male and female subjects =/\\> 16 years of age (or minimum age required in a given country) with history of HBeAg-positive chronic hepatitis B infection;\n* Incomplete response to current lamivudine therapy;\n* HBeAg-positive;\n* Absence of coinfection with human immunodeficiency virus (HIV), hepatiti",
+      "endpoints": [],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00036608"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00737568",
+      "title": "A Phase 3b, Randomized, Double-Blind, Double-Dummy Study Evaluating the Antiviral Efficacy, Safety, and Tolerability of Tenofovir Disoproxil Fumarate (DF) Monotherapy Versus Emtricitabine Plus Tenofovir DF Fixed-Dose Combination Therapy in Subjects With Chronic Hepatitis B Who Are Resistant to Lamivudine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2015-02",
+      "country": "Bulgaria, Spain, Czechia, Turkey (Türkiye), Greece, Austria, Hungary, Serbia, Germany, Romania, Poland, Canada, New Zealand, United States",
+      "enrollment": 280,
+      "brief_summary": "The aim of therapy for the treatment of chronic hepatitis B virus (HBV) is to maintain suppression of viral replication to prevent the emergence of complications, which requires long-term therapy. Durable suppression of viral replication is achieved in the treatment of chronic viral diseases by preventing of the emergence of drug-resistant mutations. The clinical guidelines for the management of lamivudine resistant patients are variable. Some recommend switching to another agent without cross-r",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Chronic HBV infection, defined as positive serum HBsAg for at least 6 months\n* 18 through 75 years of age, inclusive\n* HBV DNA ≥ 10\\^3 IU/mL\n* Receiving treatment with lamivudine with confirmation of HBV reverse transcriptase mutation(s) known to confer resistance to lamivudine",
+      "endpoints": [
+        "Percentage of Participants With HBV DNA < 400 Copies/mL at Week 96"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00737568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01804387",
+      "title": "Comparison of Telbivudine Plus Adefovir With Lamivudine Plus Adefovir for the Treatment of Lamivudine-resistant Chronic Hepatitis B at 52 Weeks: A Pilot Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-05",
+      "completion_date": "2014-05",
+      "country": "South Korea",
+      "enrollment": 60,
+      "brief_summary": "Lamivudine had been widely used for treatment-naïve chronic hepatitis B patients. However, development of antiviral resistance has been known as the major drawback: Incidence of lamivudine resistance was reported to be approximately 70% after 5 years (Lok AS et al, 2003). For the treatment of lamivudine resistance, adefovir has been widely used (Lok AS and McMahon B, 2009). However, switching to adefovir monotherapy was also reported to be at high risk of resistance, 25% at year 2 (Yeon JE et al",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. HBeAg positive or negative chronic hepatitis B patients (positive HBsAg more than 6 months)\n2. Age ≥ 18 years old, and ≤70 years old\n3. Previous treatment with lamivudine more than 6 months\n4. Being on lamivudine at the time of screening\n5. Confirmed genotypic resistance to l",
+      "endpoints": [
+        "The mean reduction of serum HBV DNA from the baseline at week 52."
+      ],
+      "sponsor": "Korea University",
+      "url": "https://clinicaltrials.gov/study/NCT01804387"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01023217",
+      "title": "Continuation of Lamivudine Plus Adefovir Versus Switching to Entecavir Plus Adefovir in Adults With Chronic Hepatitis B Who Have Resistant Mutants to Lamivudine and Show Suboptimal Response to Combination of Lamivudine Plus Adefovir",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2012-09",
+      "country": "South Korea",
+      "enrollment": 90,
+      "brief_summary": "The presence of persistent inadequate or suboptimal virologic response is a strong risk factor for viral resistance and breakthrough and also for disease progression of chronic hepatitis B, and thus, a change in therapy is required. The combination of entecavir (ETV) and adefovir (ADV) is a promising treatment for patients with lamivudine (LAM)-resistance who show suboptimal response to the combination of LAM and ADV.\n\nIn this randomized, open labeled trial,the investigators will compare the eff",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, 16 to 75 years of age\n2. Compensated liver disease(Child-Pugh class A)\n3. HBsAg positive at least 6 months or more\n4. HBeAg positive or negative\n5. Confirmation of Lamivudine-resistance HBV mutation anytime before the study\n6. Patients with suboptimal response",
+      "endpoints": [
+        "Complete Virologic Response (CVR, Serum HBV DNA Undetectable by PCR or Less Than 60 IU/mL)"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01023217"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04102176",
+      "title": "HALT NUCs: Halting Nucleoside Analogue Therapy in Chronic Hepatitis B",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-01-29",
+      "completion_date": "2026-02",
+      "country": "Singapore",
+      "enrollment": 120,
+      "brief_summary": "Most patients with Chronic Hepatitis B are on nucleoside analogy (NA) long term, but this leads to HBsAg loss (defined as functional cure) of only 2% at 6 years. Recently a number of studies have shown significant HBsAg loss rates after stopping nucleoside analogues (NA). However, no criteria to select such patients have been evaluated. Consequently, the objective of the study is not only to determine the proportion of patients able to achieve HBsAg loss in those with qHBsAg≤100IU/ml. The study ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Between 21 and 75 years old.\n\n  * Documented to be HBsAg positive for ≥ 6 months.\n  * On any NA (lamivudine, adefovir, entecavir, telbivudine tenofovir) for ≥ 1 year\n  * HBV DNA \\<15 IU/ml at screening (undetectable)\n  * Quantitative HBsAg \\<100 IU/ml\n  * Patient has agreed ",
+      "endpoints": [
+        "HBsAg loss"
+      ],
+      "sponsor": "National University Health System, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT04102176"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00354653",
+      "title": "AN OPEN STUDY OF LAMIVUDINE TREATMENT IN ADULT HBeAg NEGATIVE (Presumed Pre-core Mutant) CHRONIC HEPATITIS B PATIENTS IN IRAN.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-02-09",
+      "completion_date": "2007-01-23",
+      "country": "Iran",
+      "enrollment": 100,
+      "brief_summary": "The efficacy of lamivudine in Hepatitis Be Antigen (HBeAg) positive Asian patients of chronic hepatitis has been well established.The evidence in HBeAg negative patients is limited. Limited sustained response was observed post-treatment following a one year treatment period. Whether these results can be applied to patients in Iran is uncertain. This study is therefore intended to further assess the efficacy profile after two years of open treatment in the adult Iranian population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed active liver disease due to Hepatitis B virus.\n* Patients must have adequate blood \\& liver functions.\n* Female patients of child-bearing potential must be non pregnant and willing to abstain from intercourse from 2 weeks prior to administration of the first dose of ",
+      "endpoints": [
+        "Complete virologic response at Month 24 which is normalisation of alanine aminotransferase (ALT) and disappearance of HBV DNA by NAXCOR(brand name of a virus assay kit)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00354653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01817725",
+      "title": "Effect of Hepatitis B Vaccine in Chronic Hepatitis B Patients With Low Serum HBsAg-a Pilot Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-03",
+      "completion_date": "2016-02",
+      "country": "Taiwan",
+      "enrollment": 20,
+      "brief_summary": "Background:\n\nThe HBsAg clearance rate in interferon-treated responders is significantly higher than that in lamivudine-treated responders, implying immune control is the key to HBsAg clearance. There is a good chance to further increase the cure rate if the investigators can enhance the HBV-specific immune response when the HBsAg level already comes to a low level.\n\nHypothesis: HBsAg-based vaccine can enhance HBsAg clearance in chronic hepatitis B patients whose HBsAg already \\<=2000 IU/ml.\n\nPat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Naïve or treated chronic hepatitis B patients with positive HBsAg and negative HBeAg;\n2. Quantitative serum HBsAg (qHBsAg) \\<2000 IU/ml;\n3. No HIV co-infection;\n4. No obvious immunodeficiency (such as renal failure, chemotherapy, radiotherapy, immunosuppressant);\n5. Aged 3 to",
+      "endpoints": [
+        "Change in HBsAg Levels From Baseline to 2 Years"
+      ],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01817725"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01918631",
+      "title": "A Randomized Controlled Trial on the Efficacy of Tenofovir Disoproxil Fumarate (TDF)-Switch Therapy in Chronic Hepatitis B Patients With Incomplete Response to Entecavir",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-08",
+      "completion_date": "2017-01-31",
+      "country": "Hong Kong",
+      "enrollment": 36,
+      "brief_summary": "Currently, five nucleos(t)ide analogs are approved for the treatment of chronic hepatitis B, namely lamivudine, adefovir dipivoxil, telbivudine, entecavir (ETV) and tenofovir disoproxil fumarate (TDF). ETV and TDF are recommended as first-line therapy by all regional guidelines due to their high anti-viral potency and low risk of inducing resistance.\n\nETV monotherapy for chronic HBV infection is highly effective in both HBeAg-positive and negative treatment-naïve patients. The cumulative probabi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 or above\n* Positive hepatitis B surface antigen for at least 6 months\n* On ETV monotherapy as anti-viral treatment for at least 52 weeks\n* HBV DNA (\\>20 IU/ml) at week 52 or more of ETV treatment\n* Written informed consent obtained\n\nExclusion Criteria:\n\n* Concurrent use",
+      "endpoints": [
+        "Maintained virologic response"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01918631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01588912",
+      "title": "A Randomized, Prospective, Multicenter, Open-label Study to Evaluate the Efficacy of Telbivudine With or Without add-on Tenofovir According to Roadmap Strategy Compare With Entecavir in HBeAg-positive Chronic Hepatitis B Patients",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-04",
+      "completion_date": "2014-12",
+      "country": "South Korea",
+      "enrollment": 104,
+      "brief_summary": "Oral antiviral drugs which can be given to patients with HBeAg-positive chronic hepatitis B include Lamivudine, Clevudine, Adefovir, Telbivudine, Entecavir and Tenofovir. 2009 American Association for the Study of Liver Disease (AASLD) Treatment Guidelines and 2009 European association for the Study of the Liver (EASL) Treatment Guidelines recommend the administration of Entecavir or Tenofovir with high potency and low resistance. Lamivudine has low antiviral potency and high incidence of mutati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, at least 18 years of age\n* Documented CHB defined by HBsAg or HBeAg positive at least 6 month prior\n* HBsAg positive at screening visit\n* HBeAg positive and Anti-HBe negative at screening visit\n* Serum HBV DNA 20,000\\~200,000,000 IU/mL as determined by Realtime",
+      "endpoints": [
+        "HBV DNA non-detectability"
+      ],
+      "sponsor": "Pusan National University Yangsan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01588912"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00524173",
+      "title": "Tenofovir Disoproxil Fumarate Alone Versus Its Combination With Emtricitabine for Treatment of Chronic Hepatitis B",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-08-29",
+      "completion_date": "2017-02-16",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "This study will test whether the combination of two medications, tenofovir and emtricitabine, are safer and more effective for treating chronic hepatitis B than tenofovir alone. Chronic hepatitis B is a liver disease caused by infection with the hepatitis B virus. Several medications, including standard and pegylated interferon and the anti-viral drugs lamivudine, adefovir, entecavir and telbivudine, are currently used to treat the disease. Problems are associated with all of these agents, howev",
+      "eligibility_criteria": "* INCLUSION CRITERIA (nucleoside analogue-naive subjects):\n* Age greater than 18 years and older, male or female.\n* Known serum HBsAg positivity for 24 weeks.\n* Detectable HBV DNA greater than 10(4) IU/ml. For patients with cirrhosis HBV DNA greater than 10(3) IU/ml\n* Serum alanine aminotransferase ",
+      "endpoints": [
+        "Number of Subjects With Hepatitis b Virus (HBV) DNA <1000 IU/ml at Week 48",
+        "Number of Participants With HBV DNA <1000 IU/ml at Week 192"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00524173"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00298363",
+      "title": "A Phase 2, Double-Blind, Multi-center, Randomized Study Comparing Tenofovir Disoproxil Fumarate, Emtricitabine Plus Tenofovir Disoproxil Fumarate, and Entecavir in the Treatment of Chronic Hepatitis B Subjects With Decompensated Liver Disease and in the Prevention of Hepatitis B Recurrence Post-Transplantation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2011-04",
+      "country": "France, Singapore, Spain, Taiwan, Turkey (Türkiye), Greece, Italy, Germany, Poland, Canada, United States",
+      "enrollment": 112,
+      "brief_summary": "This study was designed to evaluate and compare the safety and tolerability of tenofovir disoproxil fumarate (TDF), emtricitabine (FTC)/TDF, and entecavir (ETV) in the treatment of hepatitis B patients with decompensated liver disease. Safety was assessed by evaluating adverse events (AEs) and laboratory abnormalities. Efficacy was assessed by evaluating reductions in Child-Pugh-Turcotte (CPT) and Model for End Stage Liver Disease (MELD) scores, reductions in hepatitis B virus (HBV) deoxyribonuc",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA participant was required to meet all of the following inclusion criteria to be eligible for participation in the study:\n\n* Chronic Hepatitis B infection\n* 18 through 69 years of age, inclusive\n* HBV DNA ≥ 1000 copies/mL\n* Decompensated liver disease with all of the following:\n",
+      "endpoints": [
+        "Percent Probability of Tolerability Failure",
+        "Percent Probability of a Confirmed Increase in Serum Creatinine of ≥ 0.5 mg/dL From Baseline or a Confirmed Serum Phosphorus Level < 2.0 mg/dL"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00298363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00065507",
+      "title": "Comparison of the Efficacy and Safety of Entecavir Versus Adefovir in Subjects Chronically Infected With Hepatitis B Virus and Evidence of Hepatic Decompensation",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-08",
+      "completion_date": "2013-05",
+      "country": "Brazil, France, Indonesia, Hong Kong, Philippines, Singapore, South Africa, Taiwan, Greece, India, Russia, Turkey (Türkiye), United Kingdom, Thailand, Poland, Canada, United States",
+      "enrollment": 195,
+      "brief_summary": "This is a phase IIIb comparative study of entecavir 1.0 mg once daily (QD) vs. adefovir 10 mg QD in patients who have chronic hepatitis B infection and hepatic decompensation. The patients are treated for 96 weeks after the last subject is randomized.",
+      "eligibility_criteria": "Inclusion\n\n* Child-Pugh (CP) score \\>= 7\n* Hepatitis B virus (HBV) viremia\n\nExclusion\n\n* Alanine aminotransferase (ALT) \\> 15 x upper limit of normal (ULN)\n* Human immunodeficiency virus (HIV)/hepatitis C virus (HCV)/hepatitis D virus (HDV) coinfection",
+      "endpoints": [
+        "Change From Baseline in Hepatitis B Virus (HBV) DNA by Polymerase Chain Reaction (PCR) at Week 24"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00065507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02005146",
+      "title": "Retrospective Observational Study to Define HBsAg Loss With or Without Seroconversion to antiHBs in Patients With Chronic Hepatitis by B Virus Treated With Nucleoside/Nucleotide Analogs",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2014-12",
+      "country": "Spain",
+      "enrollment": 86,
+      "brief_summary": "Define the patients who lost HBsAg, studying the loss predictive factors and if there was suspension of treatment, study the evolution after that",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\>18 years old\n* Chronic hepatitis B (HBeAg+ or HBeAg-)\n* HBsAg loss\n* Treated with nucleoside/nucleotide analogues\n* With or without previous interferon (IFN/PEG-IFN)\n* Patients with HBsAg loss after 2006\n* Immunocompetent patients\n\nExclusion Criteria:\n\n* Spontaneous HBsAg lo",
+      "endpoints": [
+        "Epidemiological characteristics from hepatitis B patients who lost HBsAg related to treatment with nucleoside/nucleotide analogues"
+      ],
+      "sponsor": "Andalusian Network for Design and Translation of Advanced Therapies",
+      "url": "https://clinicaltrials.gov/study/NCT02005146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03491553",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multi-center Study to Evaluate the Safety, Tolerability and Antiviral Activity of GS-9688 in Virally-Suppressed Adult Subjects With Chronic Hepatitis B",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-04-06",
+      "completion_date": "2020-08-10",
+      "country": "New Zealand, United States",
+      "enrollment": 48,
+      "brief_summary": "The primary objectives of this study are to evaluate the safety, tolerability and antiviral activity of selgantolimod (formerly GS-9688) in virally suppressed chronic hepatitis B (CHB) adults on oral antiviral (OAV) agents.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Must have the ability to understand and sign a written informed consent form, which must be obtained prior to initiation of study procedures\n* Adult males and non-pregnant, non-lactating females\n* Documented evidence of chronic HBV infection with detectable hepatitis B sur",
+      "endpoints": [
+        "Percentage of Participants With ≥ 1 log10 IU/mL Decline in Serum Quantitative Hepatitis B Surface Antigen (qHBsAg) From Baseline at Week 24"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03491553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01013272",
+      "title": "Lamivudine Therapy in Patients With Prior Entecavir Treatment and Undetectable Viral Load",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2010-07",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "Patients with chronic hepatitis B and treated with entecavir for over 6 months (with no previous other antiviral treatment) will be invited to participate in this study. They will be eligible if their liver tests are normal and their viral load is undetectable. Patients will be switched to lamivudine treatment to assess whether lamivudine can maintain adequate suppression of the hepatitis B virus after successful treatment with entecavir. Patients will be monitored closely after switching treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with chronic hepatitis B treated with entecavir for 6 months or more\n* Normal ALT\n* Undetectable HBV DNA by Roche Taqman PCR Assay\n* No other previous therapy with nucleoside/nucleotide analogues\n\nExclusion Criteria:\n\n* Presence of other liver diseases including hepat",
+      "endpoints": [
+        "Determine the efficacy of lamivudine therapy in patients with prior entecavir treatment with undetectable viral load"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT01013272"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01546116",
+      "title": "Efficacy of Adefovir and Lamivudine Combination Therapy in Patients With Entecavir Resistance",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2014-02",
+      "country": "South Korea",
+      "enrollment": 20,
+      "brief_summary": "* Entecavir has been one of the option for treatment of lamivudine resistant chronic hepatitis B (CHB).\n* In case of entecavir resistance, adefovir could be used. However, sequential monotherapy may result in multidrug resistance.\n* It is thought that adefovir and lamivudine combination therapy reduce the risk of adefovir resistance, thereby continued therapy will lead to suppression of hepatitis B virus (HBV) DNA to be undetectable in patients with entecavir resistance.\n* This study aim to eval",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Chronic hepatitis B patients (positive HBsAg \\> 6 months)\n2. Age \\> 18 year old\n3. History of treatment with entecavir more than 6 months\n4. Proven entecavir resistant mutation (rtT184S/A/I/L/G/C/M, rtS202G/C/I, or rtM250I/V)\n5. HBV DNA level\\> 2000 IU/mL\n6. Compensated liver",
+      "endpoints": [
+        "Degree of HBV DNA reduction from baseline"
+      ],
+      "sponsor": "Korea University",
+      "url": "https://clinicaltrials.gov/study/NCT01546116"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00051038",
+      "title": "A Phase II Study of the Safety and Efficacy of Adding Entecavir to Current Lamivudine Therapy in HIV and HBV Co-Infected Patients Who Have Hepatitis B Viremia While Being Treated With Lamivudine",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-09",
+      "completion_date": "2005-10",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this clinical research study is to assess the safety and effectiveness of entecavir, when being added to lamivudine, in the treatment of adults with chronic hepatitis B infection who are co-infected with HIV.",
+      "eligibility_criteria": "* Documented history of co-infection with HIV and HBV\n* Stable Anti Retroviral Therapy regimen containing lamivudine 150 mg BID for at least 24 weeks prior to enrollment;\n* Documented HBV viremia on screening and at least at 4 weeks prior to screening\n* HBe Ag-positive or HBe Ag-negative / anti-HBe-",
+      "endpoints": [],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00051038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02894554",
+      "title": "A Single-Center, Open-Label Study to Evaluate the Renal Function Improvement in Lamivudine Long Term Used HBsAg Positive Kidney Transplantation Patients After Switch to Telbivudine Treatment.",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2014-07",
+      "completion_date": "2015-07",
+      "country": "N/A",
+      "enrollment": 19,
+      "brief_summary": "The hepatitis B virus (HBV) infection rate among renal transplant recipients was reported from 3% to 20.9%. And patient survival and graft survival rates following renal transplantation may be worsen in HBsAg-positive carriers than in HBsAg-negative recipients. Due to viral replication in asymptomatic HBV carriers induced by post-transplant immunosuppression, liver-related complications, such as liver failure and bleeding, account for 37% to 57% of the mortality cases in HBsAg-positive renal all",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Kidney transplant patients who are treated with Lamivudine over 6 months (Considering include post kidney transplantation \\> 6 months with stable calcineurin inhibitors level\n2. Seropositive of HBsAg for 6 months\n3. Willing and able to provide written informed consent\n\nExclus",
+      "endpoints": [
+        "To evaluate the renal function in HBsAg positive kidney transplant patients in Telbivudine and Lamivudine treatment groups by eGFR at 48 Weeks after treatment using MDRD formula."
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02894554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00338780",
+      "title": "A Randomised, Double-Blinded, Placebo-Controlled Trial of Lamivudine Treatment in HBeAg Negative Chronic Hepatitis B Patients (in Asia)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2000-11",
+      "completion_date": "2005-01",
+      "country": "China",
+      "enrollment": "N/A",
+      "brief_summary": "The aim is to investigate whether Lamivudine 100mg daily is effective in the long term treatment of HBeAg negative chronic HBV infected patients with active liver disease in Asia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age=\\>18 years\n* HBsAg positive and HBeAg negative for at least 6 months prior to screening\n* Serum HBV-DNA postiviet, HBeAg negative and HBeAb positive at the same timepoint on at least one occasion during the last 6 months\n* ALT \\>1.5 to 10 x upper limit of normal for at lea",
+      "endpoints": [
+        "Proportion of patients with complete response (normalisation of LAT, ie. <1xULN and disappearance of HBV DNA, lower limit of detection), at MOnth 24"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT00338780"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00921180",
+      "title": "Entecavir and Peginterferon Alfa-2a Sequential Therapy Versus Peginterferon Alfa-2a Monotherapy for HBeAg Positive Chronic Hepatitis B",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-02",
+      "completion_date": "2013-12",
+      "country": "Taiwan",
+      "enrollment": 148,
+      "brief_summary": "Currently, peginterferon alfa-2a or oral nucleos(t)ides are approved for the treatment with HBeAg positive CHB, with the overall HBeAg seroconversion far from satisfactory. Therefore, efforts on the various combinations with the currently available drugs are needed to improve the overall response rates. The simultaneous combination therapy with oral nucleoside and peginterferon alfa-2a from large-scaled randomized trials did not show a superior response rate over peginterferon alfa-2a monotherap",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic hepatitis B (presence of HBsAg \\> 6 months) with HBeAg persistence for more than 3 months\n* Age older than 18 years\n* HBV DNA \\> 20,000 IU/mL for more than 2 occasions\n* Serum ALT levels between 2 to 10 folds the upper limit of normal (ULN)\n* A liver biopsy compatible ",
+      "endpoints": [
+        "HBeAg seroconversion rate 6 months after the cessation of therapy"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00921180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00376259",
+      "title": "An Open-label, Multicenter, Randomized Study of Combination Therapy With Oral LDT600 (Telbivudine) Plus Adefovir Dipivoxil Versus Adefovir Dipivoxil Alone in HBeAg-positive Patients With Chronic Hepatitis B Who Are Lamivudine Resistant",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-01",
+      "completion_date": "",
+      "country": "South Korea, Hong Kong, Taiwan, Thailand, United States",
+      "enrollment": 43,
+      "brief_summary": "This study is being conducted to compare the safety and effectiveness of the investigational medication LdT (telbivudine) used in combination with adefovir dipivoxil (a drug currently approved by the Food and Drug Administration \\[FDA\\] for the treatment of hepatitis B virus \\[HBV\\]) versus adefovir dipivoxil used alone. The results for patients taking the combination therapy will be compared to the results for patients taking adefovir alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented compensated chronic hepatitis B defined by a clinical history compatible with chronic hepatitis B.\n* Previous or current lamivudine treatment\n* HBV DNA \\> 6 log10 copies/mL\n* Evidence of viral breakthrough\n\nOther protocol-defined inclusion criteria may apply.\n\nExclu",
+      "endpoints": [
+        "The Proportion of Participants Who Experienced Virologic Breakthrough"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00376259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01376154",
+      "title": "Special Drug Use Investigation for ZEFIX (Lamivudine) Tablet (HBV Cirrhosis)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2011-02",
+      "country": "N/A",
+      "enrollment": 342,
+      "brief_summary": "The purpose of this study is to confirm efficacy and safety when administering lamivudine tablet alone in subjects with hepatitis B virus-induced liver cirrhosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with hepatitis B virus-induced liver cirrhosis, in whom lamivudine tablet was administered alone for 6 months or longer, or those in whom lamivudine tablet was expected to be administered alone for 6 months or longer\n\nExclusion Criteria:\n\n* Subjects previously enrolle",
+      "endpoints": [
+        "Number of adverse events in Japanese subjects with hepatitis B virus-induced liver cirrhosis treated with lamivudine tablet"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01376154"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01597934",
+      "title": "A Randomized, Multicenter, Prospective Study to Compare Antiviral Efficacy and Safety of Switching to ETV Plus TDF Versus Maintaining LAM/LDT Plus ADF Combination in CHC With PVR to LAM/LDF Plus ADF Combination Rescue Therapy for YMDD Mutation",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-08",
+      "completion_date": "2014-05",
+      "country": "N/A",
+      "enrollment": 104,
+      "brief_summary": "Switching to Entecavir(ETV) plus Tenofovir Disoproxil Fumarate(TDF) combination will result in faster and greater antiviral activity and lower rates of resistance emergence over maintaining Lamivudine(LAM)/Telbivudine(LdT)+Adefovir(ADV) combination in partial responders to LAM/LdT+ADV rescue therapy.\n\nEarlier switching to combination with the most potent regimen will be more effective to achieve virologic response(VR) and prevent further resistance emergence.\n\nAll subjects will orally take assig",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥ 20 years of age\n2. History of HBsAg positive for more than 6 months\n3. History of genotypic resistance to LAM or LdT (YMDDm)\n4. Partial responder (HBV DNA ≥ 60 IU/mL) currently receiving antiviral combination rescue therapy for at least 24 weeks of treatment with LAM+ADV or",
+      "endpoints": [
+        "The proportion of subjects who achieve virologic response(HBV DNA < 60 IU/mL, approximately 300 copies/mL) by real-time PCR at Week 48"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT01597934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00023309",
+      "title": "Combination of Lamivudine and Adefovir Dipivoxil for Treatment of Chronic Hepatitis B",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-08",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "This study will evaluate the safety and effectiveness of lamivudine plus adefovir versus adefovir alone to treat chronic hepatitis B infection. The Food and Drug Administration has approved lamivudine for the treatment of hepatitis B. However, the drug is not effective in all patients, and many of those in whom it initially works develop resistance after 1 to 3 years. Adefovir is an experimental drug that inhibits replication of the hepatitis B virus (HBV). Adefovir used alone may be adequate to",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nAge greater than 18 years and above, male or female\n\nKnown serum HBsAg positivity for at least 6 months\n\nDetectable HBV-DNA in serum above 1 million copies per ml, as detected by quantitative PCR (Roche Cobas Assay)\n\nSerum ALT (alanine aminotransferase) or AST (aspartate amino",
+      "endpoints": [
+        "Maintained Combined Response (Virological, Biochemical and Histological Response)."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00023309"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03778567",
+      "title": "The Effect of Telbivudine on Renal Function in Chronic Hepatitis B Patients With Mild to Moderate Renal Impairment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-08-01",
+      "completion_date": "2018-05-31",
+      "country": "Hong Kong",
+      "enrollment": 31,
+      "brief_summary": "Renal impairment is common in patients with chronic hepatitis B infection. For those taking nucleotide analogues, renal toxicity of adefovir disoproxil (ADV) and tenofovir disoproxil fumarate (TDF) is a significant concern in chronic hepatitis B (CHB) patients. Early observational clinical data suggested that telbivudine (LdT) might have renoprotective effects. In this prospective study, consecutive CHB patients on combined lamivudine (LAM)+ADV/TDF are switched to LdT+ADV/TDF at recruitment and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 - 70 years\n2. Documented HBsAg positivity for at least 6 months. Patients can be either HBeAg positive AND HBV DNA \\< 9 log10 copies/mL or HBeAg negative AND HBV DNA \\< 7 log10 copies/mL\n3. On combination therapy (lamivudine and tenofovir or lamivudine and adefovir) fo",
+      "endpoints": [
+        "Renal function change"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT03778567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01155427",
+      "title": "A Systematic Review of Literature on Common Antiretroviral Treatments Against Hepatitis B Virus (HBV)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2010-04",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to support the clinical value of entecavir by assessing the relationship between viral load and histological improvement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with CHB diagnosis and no co-infection with Hep A, Hep C, Hep D, or HIV\n* Age 16 years or older\n* No post-transplant patients\n* RCT, non-randomized trials, prospective cohort studies, prospectively analyses case series published since 2003\n* At least one arm of trial ",
+      "endpoints": [
+        "Viral load",
+        "Histological improvement"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT01155427"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02337127",
+      "title": "A Prospective, Open-label, Multicenter Study of Lamivudine Extending Therapy in Chronic Hepatitis B Patients After 3-year of Oral Antiviral Agents",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2011-06",
+      "completion_date": "2016-05",
+      "country": "Taiwan",
+      "enrollment": 500,
+      "brief_summary": "Current treatment guidelines indicate that oral antiviral agents for HBeAg-positive chronic hepatitis B virus infection (CHB) can be stopped if the patient has undergone HBeAg seroconversion with HBV-DNA loss measured at two consecutive occasions at least 6 months apart (primary treatment endpoint). Stopping treatment can be considered if undetectable HBV-DNA has been documented on three separate occasions 6 months apart in HBeAg-negative patients. However, oral antiviral drugs currently approve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients \\>=18 years of age\n2. Negative serum HBV DNA within 3 months prior to entry\n3. ALT \\<1.5 ULN within 3 months prior to entry\n4. Negative urine or serum pregnancy test (for women of childbearing potential) documented within the 24-hour period prior to t",
+      "endpoints": [
+        "Rate of HBV DNA recurrence"
+      ],
+      "sponsor": "Kaohsiung Medical University Chung-Ho Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02337127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01743079",
+      "title": "The Efficacy and Safety of Telbivudine and Lamivudine Use in Highly Viremic Mothers to Prevent Hepatitis B Transmission",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2013-07",
+      "country": "China",
+      "enrollment": 700,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of telbivudine and lamivudine use during late pregnancy for the prevention of HBV perinatal transmission in highly viraemic mothers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age: 20-40 years old\n2. HBsAg, HBeAg positive and HBV DNA \\>6 log10 copies/ml\n3. Gestational age: 26-28 weeks with normal fetus\n4. Willing to consent for the study\n\nExclusion Criteria:\n\n1. Elevated ALT\n2. Antiviral treatment experience patients\n3. Co-infection with HAV, HCV,H",
+      "endpoints": [
+        "Safety on fetal exposure of telbivudine and lamivudine and vertical transmission rate from mother to child"
+      ],
+      "sponsor": "Beijing YouAn Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01743079"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02202473",
+      "title": "Oxymatrine Plus Lamivudine Combination Therapy Versus Lamivudine Monotherapy for Chronic Hepatitis B Infected Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 192,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of Oxymatrine plus Lamivudine Combination Therapy and whether it could lower the incidence of Lamivudine long-term resistance compared to Lamivudine Monotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18 to 60 years old.\n2. Subjects diagnosed as chronic hepatitis B according to 2000 Xi'an Conference Guidelines: Management of chronic hepatitis B. Alanine transaminase \\>80 IU/L, total bilirubin\\<85.5 mmol/L, Hepatitis B virus DNA \\>1×10\\^5copies/mL; haven't been treated with",
+      "endpoints": [
+        "Reduction of Hepatitis B virus DNA titer compared to Baseline Hepatitis B virus DNA titer every 3 months for 18 months"
+      ],
+      "sponsor": "Southeast University, China",
+      "url": "https://clinicaltrials.gov/study/NCT02202473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00410202",
+      "title": "A Comparative Study of Entecavir vs. Adefovir Plus Lamivudine vs Combination Entecavir Plus Adefovir in Lamivudine-resistant Chronic Hepatitis B Subjects: The DEFINE Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2012-07",
+      "country": "South Korea, Brazil, Indonesia, Philippines, Hong Kong, Singapore, Taiwan, Turkey (Türkiye), Greece, India, Italy, Russia, Australia, Malaysia, Poland, Canada, Thailand, United States",
+      "enrollment": 629,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of entecavir plus adefovir combination therapy versus entecavir monotherapy or therapy with adefovir plus lamivudine",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Evidence of lamivudine (LVD) resistance\n* Subjects must have a history of previous LVD treatment at screening, and must have evidence of at least 1 LVD resistance substitution (valine, isoleucine, or serine) at reverse transcriptase codon 204 (M204V/I/S)\n* Nucleoside- and nucl",
+      "endpoints": [
+        "Percentage of Participants With Hepatitis B Virus (HBV) Deoxyribonucleic Acid (DNA) < 50 IU/mL (Approximately 300 Copies/mL) by Polymerase Chain Reaction (PCR) at Week 48"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00410202"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01548820",
+      "title": "Pretreatment and On-treatment Indicators of Virologic Breakthrough in Chronic HBV Egyptian Patients Receiving Lamivudine Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2013-01",
+      "country": "Egypt",
+      "enrollment": 230,
+      "brief_summary": "On treatment parameters for Lamivudine resistance in HBV treated Egyptian patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients \\>18 years old\n* Egyptian nationality\n* Positive serology for HBsAg for more than 6 months\n* Positive HBV viremia (above 2000IU/ml).\n* Lamivudine monotherapy\n\nExclusion Criteria:\n\n* Anti-HBcIgM seropositivity\n* Positive serology for HCV\n* Positive serology for H",
+      "endpoints": [
+        "Resistance to Lamivudine Therapy"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT01548820"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05256823",
+      "title": "A Pilot, Randomized, Open-label, Single Dose Study to Evaluate the Safety and Efficacy of Celecoxib Plus Nucleos(t)Ide Analogues on the Hepatitis B Surface Antigen of Virally Suppressed Subjects With Chronic Hepatitis B(a Multicenter, Open-labelled, Randomized Controlled Trial)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-02-24",
+      "completion_date": "2023-12-31",
+      "country": "China",
+      "enrollment": 47,
+      "brief_summary": "In the globe, about 33% (2 billion) of population has ever been infected with hepatitis B virus (HBV), and about 5% (350-400 million) were chronical HBV infection. In areas with high prevalence of hepatitis B, up to 80% of primary liver cancers are associated with HBV infection. About 25% of chronic hepatitis B virus carrier (more than 1 million people per year) eventually die of end stage liver disease associated with HBV infection, such as liver failure associated with cirrhosis and hepatocell",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18-65;\n2. Males or females;\n3. Clinically diagnosed as chronic hepatitis B before taking nucleos(t)ide analogues (Entecavir, Tenofovir Disoproxil Fumarate, Tenofovir Alafenamide Fumarate) (HBsAg and/or positive HBV DNA for over 6 months, consistent or recurrent ALT eleva",
+      "endpoints": [
+        "The rate of HBsAg loss after treatment for 48 weeks and discontinuation for 24 weeks",
+        "The reduction of HBsAg after treatment for 48 weeks and discontinuation for 24 weeks;"
+      ],
+      "sponsor": "Beijing Tsinghua Chang Gung Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05256823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00035789",
+      "title": "A Phase III Study of Entecavir vs Lamivudine in Adults With Chronic Hepatitis B Infection and Negative for Hepatitis B e Antigen",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-11",
+      "completion_date": "2005-05",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this clinical research study is to assess the safety and effectiveness of entecavir, as compared to lamivudine, in the treatment of adults with chronic hepatitis B infection who are hepatitis B e antigen negative.",
+      "eligibility_criteria": "* Male and female subjects =/\\> 16 years of age (or minimum age required in a given country) with history of chronic hepatitis B infection;\n* HBeAg negative, anti-HBeAb positive;\n* Absence of coinfection with human immunodeficiency virus (HIV), hepatitis C virus (HCV) or hepatitis D virus (HDV);\n* A",
+      "endpoints": [],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00035789"
+    }
+  ],
+  "timestamp": "2026-03-04T16:22:23.800167",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,174 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "rheumatic heart disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01553981",
+      "title": "A Double Blind Randomized Control Trial of Tadalafil in Interstitial Lung Disease of Scleroderma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2014-05",
+      "country": "India",
+      "enrollment": 40,
+      "brief_summary": "Systemic sclerosis (SSc, scleroderma) is a multisystem autoimmune rheumatic disease that causes inﬂammation, vascular damage and ﬁbrosis. Besides involvement of skin, fibrosis also affects lung and heart. Although advances in understanding in pathophysiology and use of immunosuppressive therapy has brought significant improvement in outcome of other autoimmune diseases, scleroderma still remains as a disease with high mortality and 10 yr survival rate has improved only from 54% to 66% during las",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Fulfillment of the criteria for systemic sclerosis (SSc) by American College or Rheumatology (ACR) criteria (Subcommittee for Scleroderma Criteria, 1980)\n2. Forced vital capacity (FVC) ≤ 70% predicted.\n3. DLCO ≤ 70 % of predicted\n\n3\\. Presence of dyspnea on exertion (grade 2 ",
+      "endpoints": [
+        "Change in FVC (expressed as a percentage of the predicted value)"
+      ],
+      "sponsor": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01553981"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00430677",
+      "title": "A Phase II/III Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Abatacept Versus Placebo on a Background of Mycophenolate Mofetil and Glucocorticosteroids in Subjects With Active Proliferative Glomerulonephritis Due to Systemic Lupus Erythematosus (SLE)",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-06",
+      "completion_date": "2011-08",
+      "country": "South Korea, Brazil, France, Hong Kong, Mexico, South Africa, Taiwan, India, Russia, Turkey (Türkiye), Australia, China, United Kingdom, Poland, Canada, Argentina, Belgium, United States",
+      "enrollment": 423,
+      "brief_summary": "The purpose of this clinical research study is to learn if addition of abatacept is safe and improves the effectiveness of treatment of patients with active lupus nephritis who are also taking mycophenolate mofetil (MMF) and corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Systemic Lupus Erythematosus (SLE) as defined by meeting at least 4 of the 11 classification criteria of the American College of Rheumatology for the classification of Systemic Lupus Erythematosus, either sequentially or coincident. The 4 criteria need not be present at study ",
+      "endpoints": [
+        "Time to First Confirmed Complete Renal Response (CRR) During the Short-term (Double-blind) Period"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00430677"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00379990",
+      "title": "A Randomised, Double-blind, Placebo-controlled, Parallel Group Study to Investigate the Safety, Tolerability, Pharmacokinetics and Effect on Synovial Thickness and Vascularity of 28 Days Repeat Dosing of GW274150 or 7.5mg Prednisolone in RA Subjects.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2007-12",
+      "country": "United Kingdom, Serbia",
+      "enrollment": 48,
+      "brief_summary": "This is an exploratory study to examine the effect of iNOS inhibition in rheumatoid arthritis patients. The study involves 28 days repeat dosing with GW274150 (dose determined by the results from a previous study), prednisolone (7.5mg) or placebo.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Diagnosis of rheumatoid arthritis according to the revised 1987 criteria of the American College of Rheumatology\n* Female subjects who are not capable of becoming pregnant\n* Active disease defined as Disease Activity Score (DAS) 28 = 4.0 and at least one metacarpal-phalangeal ",
+      "endpoints": [
+        "Measurment of synovial vascularity"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00379990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01994226",
+      "title": "Multi-centre, Open-label, Active-comparator, Pragmatic Clinical Trial of Low-dose Colchicine Versus Naproxen in Patients With Acute Gout.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-03",
+      "country": "United Kingdom",
+      "enrollment": 399,
+      "brief_summary": "Gout is the most common cause of inflamed joints affecting 1.4% of adults in the UK. Most patients are treated entirely in general practice yet primary care management is frequently suboptimal. Acute attacks of gout are excruciatingly painful and require urgent drug treatment to reduce inflammation, most commonly with antiinflammatory drugs(NSAIDs) or colchicine. In primary care, NSAIDs are most commonly used but can cause serious side effects such as stomach ulcers and heart disease, particular",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged 18 years and over\n* Consultation with GP, primary care out-of-hours service or walk-in-centre\n* Current attack of acute gout (first attack or recurrent).\n* Patient has capacity and willingness to give consent and complete the trial paperwork\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "Change in Pain Intensity"
+      ],
+      "sponsor": "Keele University",
+      "url": "https://clinicaltrials.gov/study/NCT01994226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02445898",
+      "title": "Effect of Preoperative Intravenous High Dose Methylprednisolone on Orthostatic Intolerance and Heart Rate Variability in Patients Scheduled for Total Hip-arthroplasty",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-09",
+      "completion_date": "2017-01",
+      "country": "Denmark",
+      "enrollment": 64,
+      "brief_summary": "The study evaluates the pathophysiological effects of a single dose Methylprednisolone administered prior to total hip-arthroplasty (THA) surgery. The investigators examine the effect on orthostatic intolerance, orthostatic hypotension and heart rate variability (HRV) to evaluate the efficacy of Methylprednisolone regarding blood pressure regulation and autonomic responses after THA.\n\nHalf of participants will receive intravenous Solu-Medrol 125 mg, while the other half will receive placebo.\n\nTh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthrosis\n* Undergoing total unilateral hip-arthroplasty surgery\n* Speak and understand Danish\n* Have given informed content\n\nExclusion Criteria:\n\n* Revision or bilateral hip-arthroplasty surgery\n* General anaesthesia\n* Allergy or intolerance towards Methylprednisolone\n* ",
+      "endpoints": [
+        "Difference in incidence of orthostatic intolerance from baseline to 6 hours after surgery"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT02445898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04221477",
+      "title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Obinutuzumab in Patients With ISN/RPS 2003 Class III or IV Lupus Nephritis",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-08-10",
+      "completion_date": "2031-02-28",
+      "country": "Israel, Brazil, France, Spain, Mexico, South Africa, Russia, Italy, Germany, United Kingdom, Peru, Poland, Colombia, Argentina, United States",
+      "enrollment": 271,
+      "brief_summary": "This study will evaluate the efficacy, safety, and pharmacokinetics of obinutuzumab compared with placebo in participants with International Society of Nephrology/Renal Pathology Society (ISN/RPS) 2003 class III or IV lupus nephritis (LN) when added on to standard-of-care therapy consisting of mycophenolate mofetil (MMF) and corticosteroids.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Diagnosis of active or active/chronic ISN/RPS 2003 Class III or IV proliferative LN as evidenced by renal biopsy performed within 6 months. Participants may co-exhibit Class V disease in addition to either Class III or Class IV disease\n* Urine protein to creatinine ratio g",
+      "endpoints": [
+        "Percentage of Participants With Complete Renal Response (CRR)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT04221477"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04464434",
+      "title": "Upfront Autologous Hematopoietic Stem Cell Transplantation Versus Immunosuppressive Medication in Early Diffuse Cutaneous Systemic Sclerosis: an International Multicentre, Open-label, Randomized Con-trolled Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2020-09-17",
+      "completion_date": "2030-10-01",
+      "country": "Switzerland, Italy, United Kingdom, Netherlands, Sweden",
+      "enrollment": 50,
+      "brief_summary": "HSCT has been implemented in (inter)national treatment guidelines for diffuse cutaneous systemic sclerosis (dcSSc) and is offered in clinical care and reimbursed by national health insurance in several European countries. However, data and specific guidelines on the best timing of HSCT in the course of dcSSc are lacking. In particular, it is unclear whether HSCT should be positioned as upfront therapy or as rescue treatment for patients not responding to conventional immunosuppressive therapy.\n\n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 65 years.\n2. Fulfilling the 2013 ACR-EULAR classification criteria for SSc\n\n   Either: 3.1 or 3.2 3.1. Disease duration ≤ 3 years (from onset of first non-Raynaud's symptoms) and diffuse cutaneous disease with\n\n   \\- progressive skin involvement with a mRSS",
+      "endpoints": [
+        "Global Rank Composite Score (GRCS)"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT04464434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02680392",
+      "title": "Functional Outcome and Postoperative Analgesia in Total Knee Arthroplasty: a Comparison Between Continuous Adductor Canal Block and Pulsed and Thermal Radiofrequency of Saphenous and Genicular Nerves of the Knee",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-09-14",
+      "completion_date": "2017-07-07",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "This randomized, double blind controlled trial is designed to investigate the potential benefits of radiofrequency in terms of analgesia and functional outcome, compared to the conventional continuous adductor canal block, for patients undergoing total knee arthroplasty for osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of knee Osteoarthritis requiring Total Knee Arthroplasty (TKA)\n\nExclusion Criteria:\n\n* Previous TKA (revision surgery)\n* ASA (American Society of Anesthesiology) Classification \\> 3\n* Known Rheumatologic disease\n* Morbid Obesity (BMI \\> 45)\n* Inability to perform sim",
+      "endpoints": [
+        "Postoperative morphine consumption"
+      ],
+      "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+      "url": "https://clinicaltrials.gov/study/NCT02680392"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00134693",
+      "title": "A Randomised, Placebo-controlled, Parallel Group Single Dose Study of SB681323 in Patients With Active RA to Investigate the CRP Dose Response Relationship",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06-21",
+      "completion_date": "2006-08-03",
+      "country": "France, Russia, Germany, Australia, United Kingdom",
+      "enrollment": 77,
+      "brief_summary": "This study is designed to compare a range of doses of SB-681323 with prednisolone, which has known effects on rheumatoid arthritis patients. By comparing the two drugs and their effects on blood proteins that indicate for rheumatoid arthritis, we hope to ascertain information on the most effective dose of SB-681323 to use in future.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Must have a diagnosis of RA according to the revised 1987 criteria of the American College of Rheumatology.\n* Must have 3 or more swollen or 3 or more tender/painful joints at screening.\n* Must be on stable weekly methotrexate (2.5mg - 25mg) for at least eight weeks prior to s",
+      "endpoints": [
+        "Analysis for C-Reactive protein (CRP) levels 72 hours post-dose following SB-681323"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00134693"
+    }
+  ],
+  "timestamp": "2026-03-04T15:44:17.438036",
+  "success": true,
+  "error_message": null
+}

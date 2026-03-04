@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Clarithromycin",
+    "disease": "maxillary sinusitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01667692",
+      "title": "Comparison of Azithromycin or Clarithromycin in 3drugs Protocol of H-pylori Eradication Regimen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2012-03",
+      "country": "Iran",
+      "enrollment": 78,
+      "brief_summary": "The Aim of this study is comparison between two regimens containing clarithromycinand azithromycin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with peptic ulcer due to H-pylori confirmed endoscopy and biopsy\n\nExclusion Criteria:\n\n* patients who got H-pylori eradication treatment previously\n* patients who used study drugs during 3months before study",
+      "endpoints": [
+        "H-pylori cinfirmation"
+      ],
+      "sponsor": "Shahid Sadoughi University of Medical Sciences and Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT01667692"
+    }
+  ],
+  "timestamp": "2026-03-04T14:54:55.736421",
+  "success": true,
+  "error_message": null
+}

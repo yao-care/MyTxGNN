@@ -1,0 +1,931 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "pulmonary hypertension"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02565030",
+      "title": "Chronic Thrombo-embolic Pulmonary Hypertension: Classification and Long Term Outcome",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2021-10",
+      "country": "United Kingdom",
+      "enrollment": 1200,
+      "brief_summary": "This study will help to provide more up to date prognostic data on the natural history of untreated proximal CTEPH which will be helpful in discussions regarding surgical versus medical treatment and by exploring the similarities and differences between distal CTEPH and IPAH the investigators hope to get insights into disease mechanisms in patients with distal CTEPH.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with the diagnosis of chronic thromboembolic pulmonary hypertension and Idiopathic pulmonary arterial hypertension (as per the European Society of Cardiology guidelines) who presented to Sheffield Pulmonary Vascular Disease Unit at the Royal Hallamshire Hospital b",
+      "endpoints": [
+        "Death"
+      ],
+      "sponsor": "Sheffield Teaching Hospitals NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT02565030"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02999906",
+      "title": "A Phase 3, Multicenter, Randomized, Double-blind, Placebo-controlled, Study to Compare the Efficacy and Safety of Triple Therapy (Oral Treprostinil, Ambrisentan, and Tadalafil) With Dual Therapy (Ambrisentan, Tadalafil, and Placebo) in Subjects With Pulmonary Arterial Hypertension",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2017-10",
+      "completion_date": "2022-06",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This is a multicenter, randomized (2:1 oral treprostinil: placebo), double-blind, placebo-controlled study in subjects with Pulmonary Arterial Hypertension (PAH) who are currently receiving background dual therapy (ambrisentan, tadalafil) for at least 30 days at randomization for their PAH. Once randomized, subjects will return for 5 study visits up to Week 28 during the blinded period. After the Week 28 Visit, eligible subjects will transition to the open-label period of the study for up to 20 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Between 18 and 79 years of age, inclusive\n2. PAH that is idiopathic / heritable, PAH associated with connective tissue disease, HIV infection, repaired congenital systemic-to-pulmonary shunts (repaired \\> 1 year), or appetite suppressant / toxin use\n3. Receiving dual therapy ",
+      "endpoints": [
+        "Change in 6-Minute Walk Distance (6MWD)"
+      ],
+      "sponsor": "United Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT02999906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01910389",
+      "title": "Phosphodiesterase Type 5 Inhibition With Tadalafil Changes Outcomes in Heart Failure",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2013-11",
+      "completion_date": "2014-02",
+      "country": "Canada, United States",
+      "enrollment": 23,
+      "brief_summary": "This study is a multi-center, prospective, randomized, double blind, placebo-controlled clinical trial. Subjects in the study will be adults with New York Heart Association (NYHA) Class II-IV heart failure (HF) due to left ventricular systolic dysfunction (LVSD), left ventricular ejection fraction (LVEF) \\<0.40, and secondary pulmonary hypertension (PH). The purpose of the study is to evaluate the safety, effectiveness, and effects of tadalafil compared to placebo on the subjects' functional cap",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female age 21 years or older.\n* NYHA Class II-IV HF with LVSD (most recent LVEF \\< 0.40).\n* At high risk of future clinical instability, indicated by EITHER:\n\na hospitalization for the primary reason of decompensated HF within the 12 months prior to screening; OR a pla",
+      "endpoints": [
+        "Composite Outcome of Cardiovascular (CV) Mortality or Heart Failure (HF) Hospitalization"
+      ],
+      "sponsor": "Carelon Research",
+      "url": "https://clinicaltrials.gov/study/NCT01910389"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01824290",
+      "title": "A Double-Blind Efficacy and Safety Study of the Phosphodiesterase Type 5 Inhibitor Tadalafil in Pediatric Patients With Pulmonary Arterial Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-02-05",
+      "completion_date": "2021-03-10",
+      "country": "Israel, France, Brazil, Spain, Mexico, Turkey (Türkiye), Austria, Italy, Germany, Netherlands, Poland, Japan, Belgium, United States",
+      "enrollment": 35,
+      "brief_summary": "The main purpose of this study is to evaluate the safety and efficacy of tadalafil in pediatric participants with pulmonary arterial hypertension. Participants will receive study treatment for 6 months in the double-blind period (Period 1), and then will be eligible to enroll into an open-label 2 year extension period (Period 2) during which participants will receive tadalafil.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ≥6 months to \\<18 years of age at screening\n* Currently have a diagnosis of PAH that is either:\n\n  * idiopathic, including hereditary\n  * related to connective tissue disease\n  * related to anorexigen use\n  * associated with surgical repair of at least 6-month duration of cong",
+      "endpoints": [
+        "Period 1: Change From Baseline to Week 24 in a 6 Minute Walk (MW) Distance in Meters"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01824290"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01484431",
+      "title": "A Multiple Ascending Dose Study of Tadalafil to Assess the Pharmacokinetics and Safety in a Pediatric Population With Pulmonary Arterial Hypertension",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07-17",
+      "completion_date": "2019-04-03",
+      "country": "Spain, France, United Kingdom, Canada, Poland, United States",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to see how much study drug is in the blood of children with pulmonary arterial hypertension (PAH) after dosing to establish the correct dose for further clinical research.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Currently have a diagnosis of PAH that is either:\n\n  * idiopathic (including hereditary), related to collagen vascular disease, related to anorexigen use, associated with surgical repair, of at least 6 month duration, of a congenital systemic to pulmonary shunt (for example, a",
+      "endpoints": [
+        "Population Pharmacokinetics: Area Under the Concentration Curve Versus Time at a Dosing Interval at Steady State (AUCtau) for Tadalafil",
+        "Population Pharmacokinetics: Average Concentration (Cmean,ss) of for Tadalafil at Steady-State."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01484431"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04379180",
+      "title": "Population Pharmacokinetics and Dosage Individualization of Bosentan, Sildenafil and Tadalafil in Persistent Pulmonary Hypertension of the Newborn",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2020-04-26",
+      "completion_date": "2023-05-30",
+      "country": "China",
+      "enrollment": 500,
+      "brief_summary": "The use of bosentan, sildenafil and tadalafil in neonates with persistent pulmonary hypertension (PPHN) depends mostly on the empirical experience of pediatricians. Moreover, the recommended dose of those three drugs in treating PPHN remains controversial. Therefore, our aim is to study the pharmacokinetics and pharmacodynamics of bosentan, sildenafil and tadalafil in neonates of PPHN then dose a tailor-made therapeutic regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: postnatal age ≤ 28 days;\n* Patients have been diagnosed with PPHN;\n* Bosentan, sildenafil and/or tadalafil used as part of regular treatment.\n* Parental written consent\n\nExclusion Criteria:\n\n* Expected survival time less than the treatment cycle;\n* Major congenital malfor",
+      "endpoints": [
+        "Oxygenation index",
+        "The change of hemodynamics"
+      ],
+      "sponsor": "Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT04379180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06753981",
+      "title": "Efficacy and Safety of Triple-targeted Drug Therapy in Treatment-naive Patients With Non-low-risk PAH: A Real-world, Multicenter Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-12-10",
+      "completion_date": "2027-02-14",
+      "country": "China",
+      "enrollment": 48,
+      "brief_summary": "This study is a multicenter, prospective, observational study aimed at investigating the efficacy and safety of triple targeted drug therapy in patients with arterial pulmonary hypertension (PAH) who are not at low risk and are receiving initial treatment. The prognosis of arterial pulmonary hypertension is explored.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consent and sign the informed consent form\n* Non-low-risk PAH treatment-naive patients\n\nExclusion Criteria:\n\n* Positive acute vascular response test for idiopathic/hereditary/drug-related arterial pulmonary hypertension\n* Pulmonary veno-occlusive disease/pulmonary capillary he",
+      "endpoints": [
+        "Pulmonary Vascular Resistance (PVR)"
+      ],
+      "sponsor": "Qianfoshan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06753981"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06968962",
+      "title": "A Multicenter, Randomized, Controlled, Double-blind, and Non-inferiority Clinical Trial to Compare the Efficacy of Sequential to Initial Combination Therapy in Patients With Pulmonary Arterial Hypertension",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-05-14",
+      "completion_date": "2028-12",
+      "country": "China",
+      "enrollment": 376,
+      "brief_summary": "This is a multicenter, randomized, controlled, double-blind, and non-inferiority clinical trial to compare the efficacy of sequential to initial combination therapy in patients with pulmonary arterial hypertension (PAH). Ambrisentan and Tadalafil will be used in the study. Our research hypothesis is that the efficacy of sequential combination therapy in PAH patients is not inferior to the initial combination therapy as the primary efficacy endpoint is the change in 6MWD at month 12 from baseline",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 to 80 years and weight ≥ 40 kg.\n2. WHO functional classification I-III.\n3. Diagnosed with PAH caused or related to the following:\n\n1\\) Idiopathic PAH 2) Hereditary PAH 3) Associated PAH:\n\n1. Connective tissue diseases (e.g., scleroderma, systemic lupus erythema",
+      "endpoints": [
+        "The change of 6MWD at month 12 from baseline"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT06968962"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01178073",
+      "title": "AMBITION: A Randomised, Multicenter Study of First-Line Ambrisentan and Tadalafil Combination Therapy in Subjects With Pulmonary Arterial Hypertension (PAH)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-10-01",
+      "completion_date": "2014-07-31",
+      "country": "France, Spain, Sweden, Greece, Austria, Italy, Germany, Australia, United Kingdom, Netherlands, Canada, Japan, Belgium, United States",
+      "enrollment": 610,
+      "brief_summary": "The purpose of this study is to compare the two treatment strategies; first-line combination therapy (ambrisentan and tadalafil) versus first-line monotherapy (ambrisentan or tadalafil) in subjects with Pulmonary Arterial Hypertension. This will be assessed by time to the first clinical failure event.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have a diagnosis of Pulmonary Arterial Hypertension (PAH) due to the following:\n\n  a. idiopathic or heritable PAH b. PAH associated with: i. connective tissue disease (e.g., limited scleroderma, diffuse scleroderma, mixed connective tissue disease, systemic lupus",
+      "endpoints": [
+        "Number of Participants With First Adjudicated Clinical Failure (CF) Event, Death, Hospitalisation for Worsening PAH, Disease Progression, Unsatisfactory Long-term Clinical Response, All Through FAV"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01178073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01066845",
+      "title": "Safety and Effectiveness of Adcirca (Tadalafil) in Japanese Patients With Pulmonary Arterial Hypertension: Open-label, Non-interventional Observational Study in Japan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2014-08",
+      "country": "N/A",
+      "enrollment": 1809,
+      "brief_summary": "To investigate the long-term safety and effectiveness of Adcirca (tadalafil) in Pulmonary Arterial Hypertension (PAH) patients in the clinical practice -focused topics-\n\n1. To evaluate the incidence of adverse events for the patients with long-term use\n2. To evaluate the incidence of adverse events of decreased blood pressure, bleeding (including uterine hemorrhage), visual disturbance and sudden hearing loss.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with PAH receiving Adcirca\n\nExclusion Criteria:Patients who meet the criteria of contraindication\n\n* patients with hypersensitivity to tadalafil\n* patients who are using any form of organic nitrate\n* patients with severe renal impairment\n* patients with severe hepatic",
+      "endpoints": [
+        "The incidence of adverse events related to decreased blood pressure, bleeding, visual disturbance and sudden hearing loss."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01066845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01757808",
+      "title": "A Phase I Study of Ranolazine Acute Administration and Short Term Administration in Pulmonary Arterial Hypertension",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2015-01",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The purpose of this study is to assess the safety of ranolazine in people with pulmonary arterial hypertension (PAH) and who are receiving 1 or more background PAH therapies: ambrisentan, sildenafil,tadalafil, epoprostenol, treprostinil (IV, SC, inhaled), or iloprost. The primary objective is:\n\n* To estimate the effect of ranolazine administration on acute hemodynamics.\n* To assess safety of ranolazine acutely over 6 hrs in the catheterization lab and after 12 weeks of therapy\n* To assess change",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All subjects age 18-72 yrs will have a diagnosis of PAH. PAH as defined as idiopathic PAH, heritable PAH or PAH associated with collagen vascular disease, congenital heart disease (repaired), or anorexigen use. A history of PAH as defined by hemodynamics at diagnosis by right ",
+      "endpoints": [
+        "Change in pulmonary vascular resistance (PVR)"
+      ],
+      "sponsor": "University of Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT01757808"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02284737",
+      "title": "A Prospective, Multi-center, Randomized Control Trial to Investigate the Efficacy of Pulmonary Artery Denervation to Improved Functional Capacity and Hemodynamics in Patients With Pulmonary Artery Hypertension",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2014-11-28",
+      "completion_date": "2021-07-30",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "Pulmonary arterial hypertension (PAH) is characterized by premature death mainly because of progressive and severe right ventricular failure. Target drugs are reported to be associated with significant improvement of clinical outcome for PAH patients. However, previous studies using those target drugs focused on the change of 6-minute walk distance (6MWD) and or hemodynamic responses. As 6MWD has weak correlation with clinical outcome (time to clinical worsening, TTCW), benefits from target drug",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of informed consent prior to any study specific procedures;\n* Men and women 18 years and older;\n* Group I PAH, defined as a mPAP≥25mmHg, PCWP\\<15mmHg and PVR\\[The PVR =(mPAP-PCWP)/CO\\]\\>3.0 Woods unit.\n\nExclusion Criteria:\n\nGeneral exclusion criteria:\n\n* Pregnancy an",
+      "endpoints": [
+        "Pulmonary artery hypertension (PAH)- related events"
+      ],
+      "sponsor": "Nanjing First Hospital, Nanjing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02284737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03904693",
+      "title": "Prospective, Multi-center, Double-blind, Randomized, Active-controlled, Triple-dummy, Parallel-group, Group-sequential, Adaptive Phase 3 Clinical Study to Compare the Efficacy and Safety of Macitentan and Tadalafil Monotherapies With the Corresponding Fixed Dose Combination in Subjects With Pulmonary Arterial Hypertension (PAH), Followed by an Open-label Treatment Period With Macitentan and Tadalafil Fixed Dose Combination Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-07-29",
+      "completion_date": "2024-09-27",
+      "country": "Bulgaria, Brazil, Spain, Mexico, Russia, Canada, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, South Africa, Poland, Japan, United States, Czechia, Italy, China, Malaysia",
+      "enrollment": 187,
+      "brief_summary": "Combination therapy in pulmonary arterial hypertension (PAH) has been the subject of active investigation for more than a decade, with the benefit of targeting different pathways known to be involved in the pathogenesis of the disease. Adherence to prescribed therapy has an impact on clinical outcomes. Reducing the pill/tablet count and frequency has a major impact on patients' adherence to therapies and therefore the observed clinical outcomes. One way to simplify treatment is to use fixed-dose",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent form (ICF)\n* Confirmed diagnosis of symptomatic PAH in WHO FC II or III\n* Symptomatic PAH belonging to one of the following subgroups of WHO Group 1 pulmonary hypertension:\n\n  * Idiopathic\n  * Heritable\n  * Drug- or toxin-induced\n  * Associate",
+      "endpoints": [
+        "Change in Pulmonary Vascular Resistance (PVR) Expressed as the Ratio of Geometric Means of End of Double-blind Treatment (EDBT) to Baseline"
+      ],
+      "sponsor": "Actelion",
+      "url": "https://clinicaltrials.gov/study/NCT03904693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02595684",
+      "title": "Effect of Tadalafil on Insulin Secretion and Insulin Sensitivity in Obese Men.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2015-11",
+      "country": "Mexico",
+      "enrollment": 18,
+      "brief_summary": "Obesity is a chronic disease of multifactorial etiology that develops from the interaction of the influence of nutritive , metabolic , cellular and molecular psychological factors.\n\nTadalafil is Is a drug inhibiting the enzyme phosphodiesterase-5 (PDE-5), responsible for inactivating the vasodilator nitric oxide. USING paragraph was mainly treat erectile dysfunction, and recently approved for the treatment of pulmonary hypertension , it is innovative because of its longer life means, provides ef",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Age: 30-50 years\n* BMI: 30 to 39.9 kg/m²\n* No Pharmacotherapy during the last 3 months\n* Signature Consent under Information\n\nExclusion Criteria:\n\n* Cholesterol: ≥ 240 mg / dl\n* Triglycerides: ≥ 400 mg / dl\n* Fasting glucose: ≥ 126 mg / dl\n* Diabetes mellitus.\n* Hyperten",
+      "endpoints": [
+        "Fasting Glucose",
+        "Postprandial Glucose",
+        "First Phase of Insulin Secretion"
+      ],
+      "sponsor": "University of Guadalajara",
+      "url": "https://clinicaltrials.gov/study/NCT02595684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02007629",
+      "title": "An Open-label, International, Multicenter, Single-arm, Uncontrolled, Phase IIIb Study of Riociguat in Patients With Pulmonary Arterial Hypertension (PAH) Who Demonstrate an Insufficient Response to Treatment With Phosphodiesterase-5 Inhibitors (PDE-5i)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-02-18",
+      "completion_date": "2016-12-29",
+      "country": "France, Czechia, Switzerland, Italy, Germany, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 61,
+      "brief_summary": "BAY63-2521 Riociguat leads to the relaxation of smooth muscle cells in pulmonary arteria and may also inhibit abnormal remodeling of lung blood vessels. In patients with pulmonary arterial hypertension Riociguat showed to reduce the pulmonary blood pressure and improved the right heart function without unacceptable side effects. Here dose of Riociguat will be adjusted over 8 weeks then a Maintenance Phase of 16 weeks follows. Patients with Pulmonary Arterial Hypertension treated with stable dose",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients (18 -75 years of age) with idiopathic, familial, drug/toxin induced and associated PAH due to congenital heart disease (Group I / Dana Point Classification of PH) demonstrating insufficient response to treatment with PDE-5i for at least 3 months\n* Patie",
+      "endpoints": [
+        "Change from baseline in 6 Minute Walking Distance (6MWD)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02007629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06350773",
+      "title": "The Efficacy of Phosphodiesterase Inhibitors in Patients With Group 2 Pulmonary Hypertension",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-01-10",
+      "completion_date": "2026-02",
+      "country": "Egypt",
+      "enrollment": 48,
+      "brief_summary": "The goal of this clinical trial is to test the efficacy of tadalafil in patients with group II pulmonary hypertension with elevated pulmonary vascular resistance (PVR). The main question it aims to answer is:\n\n• Can tadalafil improve patients with group II pulmonary hypertension with elevated PVR? Participants will undergo right heart catheterization (RHC) to make sure they are fulfilling the inclusion criteria, then will be asked to take tadalafil 20 mg for two weeks then 40 mg if tolerated for",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* group 2 pulmonary hypertension with precapillary component with PVR more than 4 by RHC\n* Patients should be on HF medical therapy 90 days before enrollment in the study.\n\nExclusion Criteria:\n\n* Anticipated cardiac resynchronization therapy within 3 months of enrollment.\n* Hype",
+      "endpoints": [
+        "Functional capacity of the patients",
+        "heart failure symptoms"
+      ],
+      "sponsor": "Beni-Suef University",
+      "url": "https://clinicaltrials.gov/study/NCT06350773"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00705588",
+      "title": "Long Acting Phosphodiesterase 5 Inhibitors as Add-on Therapy for Patients With Pulmonary Hypertension Treated With Prostanoids.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-08",
+      "completion_date": "",
+      "country": "Israel",
+      "enrollment": 30,
+      "brief_summary": "Pulmonary arterial hypertension is a chronic disease of the lung blood vessels resulting in constriction and high pressures. Treatment is given with a variety of drugs including the prostanoid class (e.g. epoprostenol, iloprost and the phosphodiesterase 5 (PDE-5) inhibitors (e.g. sildenafil).\n\nAlthough these drugs are known to be effective alone, little is known about combining them together in various combinations.\n\nIn this trial we will add a long-acting PDE-5 inhibitor to the treatment of pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients must satisfy current diagnostic criteria for pulmonary artery hypertension based on their historical right heart catheter data (within 3 years of study enrollment): Mean PAP \\>25mmHg at rest or \\>30mmHg with exercise, by a PCWP\\< 15mmHg and by PVR \\>3 Wood Units.\n",
+      "endpoints": [
+        "Six minute walking distance",
+        "Level of pro-NT BNP"
+      ],
+      "sponsor": "Rabin Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00705588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01960153",
+      "title": "Phosphodiesterase Type 5 Inhibition With Tadalafil Changes Outcomes in Heart Failure: Extent of Renal Damage (PITCH-ER)",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2013-10",
+      "completion_date": "2018-05",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "PITCH-ER is an ancillary study of PITCH-HF (NCT01910389). The goal of the PITCH-ER ancillary study is to evaluate the rate of decline in renal function and frequency of development of acute kidney injury (AKI) in patients enrolled in PITCH-HF (who have heart failure and pulmonary hypertension) treated with chronic tadalafil treatment compared to placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All subjects eligible for enrollment into the PITCH-HF parent trial are eligible to enroll in this ancillary study (Refer to PITCH-HF NCT01910389 for specific eligibility criteria)\n\nExclusion Criteria:\n\n* Subjects who are not eligible for enrollment into the PITCH-HF parent tr",
+      "endpoints": [
+        "Change in renal function",
+        "Incidence of acute kidney injury (AKI) events (clinical and subclinical)"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01960153"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01305252",
+      "title": "CombinatiON Up-FRON t Therapy for PAH - A Phase 4, Randomized, Multicenter Study of Inhaled Treprostinil in Treatment naïve Pulmonary Arterial Hypertension Patients Starting on Tadalafil",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2014-09",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "The Study Hypothesis:\n\nAggressive, upfront, dual therapy for treatment-naïve NYHA I/II/III PAH is superior to a traditional \"step-up\" approach.\n\nThe study will evaluate:\n\n1. Impact of dual, upfront, therapy on cardiovascular parameters in PAH as gauged by cardiac magnetic resonance imaging (cMRI) at 24 weeks and event free survival at outcome at 48 weeks.\n2. Value of novel biomarkers (NT-pro BNP, Mts1/S100A4, and insulin resistance) and cutting-edge imaging technologies (cardiac MRI) as newer en",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Age 18 and \\< 75 years at baseline visit.\n2. Diagnosis of Idiopathic PAH, Heritable PAH (including Hereditary Hemorrhagic Telangiectasia), Associated PAH (including collagen vascular disorders, drug+toxin exposure, repaired congenital heart disease repaired \\> 5 years, portop",
+      "endpoints": [
+        "Change in Right Ventricular Ejection Fraction"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT01305252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05039086",
+      "title": "Data Analysis for Drug Repurposing for Effective Alzheimer's Medicines (DREAM)- PDE5",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-09-01",
+      "completion_date": "2022-10-04",
+      "country": "United States",
+      "enrollment": 13021,
+      "brief_summary": "This study aims to evaluate the comparative risk of dementia/Alzheimer's disease onset between patients treated with medications that target specific metabolic pathways and patients treated with alternative medications for the same indication.",
+      "eligibility_criteria": "Please see https://docs.google.com/spreadsheets/d/19NwmDi8xwWjzXqhSLPDTg4CKHt5UDQXuwCnZwY8jCS8/edit?usp=sharing or Appendix A for full code and algorithm definitions.\n\nMedicare timeframe: 2008 to 2018 (end of data availability).\n\nInclusion Criteria:\n\n* 1\\. Aged \\> 65 years on the index date\n* 2\\. No",
+      "endpoints": [
+        "Time to Dementia Onset"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05039086"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02484807",
+      "title": "Effect of Pharmacologic Interaction Between Endothelin-Receptor-Antagonists and Phosphodiesterase-5 Inhibitors on Medication Serum Levels and Clinical Disease Status in Patients Wih Pulmonary Arterial Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-05",
+      "completion_date": "2016-12",
+      "country": "Germany",
+      "enrollment": 125,
+      "brief_summary": "The development of disease-targeted medication for the treatment of pulmonary arterial hypertension (PAH) has significantly improved within the last years, leading to the development of 10 approved agents. Combination treatment with Endothelin-Receptor-Antagonists (ERA) and Phosphodiesterase-Type-5-Inibitors (PDE-5-Inhibitor) has become increasingly important for the treatment of PAH. In a recent press release, the results of the AMBITION study reported that an upfront combination treatment imme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women ≥ 18 years old\n2. Diagnosis of PAH according to ESC/ERS-guidelines: patients with manifest pulmonary arterial hypertension, mean pulmonary arterial pressure ≥25mmHg, measured by right heart catheterization.\n3. Combination treatment with ERA (Bosentan, Ambrisenta",
+      "endpoints": [
+        "Characterisation of Medication Levels"
+      ],
+      "sponsor": "Heidelberg University",
+      "url": "https://clinicaltrials.gov/study/NCT02484807"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01383083",
+      "title": "Effects of Iloprost Treatment in Adult Patients With Pulmonary Arterial Hypertension Related to Congenital Heart Disease (Eisenmenger Physiology): Safety, Tolerability, Clinical, and Hemodynamic Effect.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2010-11",
+      "completion_date": "2012-11",
+      "country": "N/A",
+      "enrollment": 42,
+      "brief_summary": "The prevalence of PAH associated with congenital systemic-to-pulmonary shunts in Western countries has been estimated to range between 1.6 and 12.5 cases per million adults, with 25-50% of this population affected by Eisenmenger's syndrome. The rarity of this syndrome, combined with its complex pathophysiology, account for the insufficient understanding of the principles underlying its proper treatment.Recent decades have seen developments in pulmonary hypertension pathophysiology which have led",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with Eisenmenger syndrome are clinically stable and in World Health Organization functional class (WHO class) III or worse are selected for treatment.\n2. Eisenmenger syndrome is diagnosed echocardiographically as right-to-left shunting through the shunt defect.\n3. To",
+      "endpoints": [
+        "Pulmonary Vascular Resistance"
+      ],
+      "sponsor": "Maryknoll Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01383083"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07245680",
+      "title": "Comparison of Initial Dual Oral COMbination Therapy to MOnotherapy in Pulmonary Arterial Hypertension With Cardiovascular comorbiDITIES",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-15",
+      "completion_date": "2029-02-14",
+      "country": "France",
+      "enrollment": 186,
+      "brief_summary": "Pulmonary arterial hypertension (PAH) is a rare, progressive disease associated with poor prognosis, especially in patients with cardiovascular comorbidities. Current guidelines recommend initial combination therapy, but evidence is lacking for patients with significant comorbidities who are often excluded from clinical trials.\n\nThe COMMODITIES trial is a multicenter, randomized, controlled study designed to compare the efficacy and safety of initial dual oral combination therapy (tadalafil and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Initial PAH diagnosis \\< 6 months preceding randomisation\n\n  * Negative vasoreactivity test\n  * Treatment-naïve PAH (group 1): idiopathic, heritable, associated with drugs and toxin, associated with connective tissue disease, HIV infection or systemic-to-pulmonary congenital s",
+      "endpoints": [
+        "Mesurement of the risk profile according to the non-invasive 4-risk strata method"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT07245680"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01197469",
+      "title": "Do Phosphodiesterase 5A Inhibitors Improve Exercise Capacity in Patients With Chronic Obstructive Pulmonary Disease and Pulmonary Hypertension?",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2012-09",
+      "country": "United Kingdom",
+      "enrollment": 120,
+      "brief_summary": "The investigators hypothesise that phosphodiesterase 5A inhibitors will improve exercise capacity in those with Chronic Obstructive Pulmonary Disease and secondary pulmonary hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* COPD\n* Forced expiratory volume in 1 second (FEV1) \\<80% (FEV1/FVC \\<0.70)\n* Right ventricular systolic pressure (RVSP) \\> 30 mmHg or Pulmonary Acceleration time \\<120 ms\n\nExclusion Criteria:\n\n* Pulmonary stenosis or echo left ventricular outflow tract obstruction\n* Left ventr",
+      "endpoints": [
+        "6 minute walking distance"
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT01197469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01275339",
+      "title": "Aortic Stenosis and PhosphodiEsterase Type 5 iNhibition (ASPEN): A Pilot Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2012-12",
+      "completion_date": "2017-04-14",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Currently, aortic stenosis (AS) is considered a \"surgical disease\" with no medical therapy available to improve any clinical outcomes, including symptoms, time to surgery, or long-term survival. Thus far, randomized studies involving statins have not been promising with respect to slowing progressive valve stenosis. Beyond the valve, two common consequences of aortic stenosis are hypertrophic remodeling of the left ventricle (LV) and pulmonary venous hypertension; each of these has been associat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with moderate to severe aortic stenosis (AVA \\< 1.5 cm2)\n* Left ventricular hypertrophy\n* Diastolic dysfunction as evidenced by tissue Doppler e' (average of septal and lateral) ≤ 7 cm/s\n* EF ≥ 50%\n* None or minimal symptoms related to aortic stenosis (NYHA ≤ 2)\n* The",
+      "endpoints": [
+        "Diastolic Function as Measured by Tissue Doppler e'"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01275339"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01043627",
+      "title": "Sildenafil to Tadalafil in Pulmonary Arterial Hypertension (SITAR)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2011-12",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "Assess tolerability, transition methods and clinical effects of transition from sildenafil (Revatio) to tadalafil (Adcirca) for treatment of pulmonary arterial hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treatment for PAH with sildenafil at a dose of 20mg tid or greater for at least 30 days\n* Clinical decision to convert from sildenafil to tadalafil therapy\n* Patient consents to study participation (for patients who have already transitioned from sildenafil to tadalafil therap",
+      "endpoints": [
+        "Describe tolerability of transition from sildenafil to tadalafil for treatment of pulmonary arterial hypertension (PAH)."
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT01043627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06213077",
+      "title": "To Determine the Potentiating Effects of Berkeley Life Foundation Nitric Oxide Capsules in Supporting Healthy Sexual Function in Men on an Existing Treatment Plan But Who Are Experiencing Occasional Unsatisfactory Erections.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-12",
+      "completion_date": "2024-05-30",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Twenty (20) individuals to be recruited from Ballantyne Medical Associates in Charlotte, NC, without any significant chronic medical history. These patients are general patients for primary care that meet inclusion criteria. Patients will be screened and enrolled by Dr. Bauer and his delegated research staff upon patient consult. Patients will be informed of the purpose of the study including risks, benefits, and alternative treatments to the study. After the potential participants have been giv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects Male between the ages of 40 and 65\n* Subjects looking to support healthy sexual function who have been undergoing treatment to support healthy erections for at least 90 days with unsatisfactory results and whose nitric oxide levels are suboptimal based on an easy-to-u",
+      "endpoints": [
+        "International Index of Erectile Function",
+        "Erection Hardness Score"
+      ],
+      "sponsor": "RHA Investments Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06213077"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02558231",
+      "title": "The Efficacy and Safety of Initial Triple Versus Initial Dual Oral Combination Therapy in Patients With Newly Diagnosed Pulmonary Arterial Hypertension: A Multi-center, Double-blind, Placebo-controlled, Phase 3b Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-05-01",
+      "completion_date": "2020-04-20",
+      "country": "France, Spain, Sweden, Switzerland, Austria, Italy, Denmark, Australia, Germany, Ireland, Netherlands, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 247,
+      "brief_summary": "The objective of this clinical trial is to compare the efficacy and safety of an initial triple oral treatment regimen (macitentan, tadalafil, selexipag) versus an initial dual oral treatment regimen (macitentan, tadalafil, placebo) in newly diagnosed, treatment-naïve patients with pulmonary arterial hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed informed consent prior to any study-mandated procedure.\n2. Male or female ≥ 18 and ≤ 75 years of age at screening.\n3. Initial PAH diagnosis \\< 6 months prior to enrollment.\n4. RHC performed between Day -28 and Day 1, meeting all the following criteria:\n\n   * Mean pulmo",
+      "endpoints": [
+        "Change From Baseline to Week 26 in Pulmonary Vascular Resistance (PVR)"
+      ],
+      "sponsor": "Actelion",
+      "url": "https://clinicaltrials.gov/study/NCT02558231"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04483115",
+      "title": "Multi-center, Randomized，Placebo and Positive Controlled Clinical Study of TPN171H Tablets on Acute Haemodynamics in Patients with Pulmonary Arterial Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-11-16",
+      "completion_date": "2022-06-29",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "This study is a phase IIa proof-of-concept study to evaluate the effect of single-dose TPN171H tablets on acute haemodynamic parameters in patients with pulmonary arterial hypertension.The trial is expected to include 60 patients, divided into 6 groups, according to 1:1:1:1:1:1 into the placebo group and the test drugs 2.5mg, 5mg, 10mg group, tadalafil tablets 20mg, 40mg group, each group 10 cases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18 to 75;\n* Patients who have voluntarily decided to participate in this study, and signed the informed consent form;\n* Patients who are able to understand and follow study plans and instructions;\n* Patients with symtomatic PAH (Group1), a pulmonary vascular resi",
+      "endpoints": [
+        "Percentage of the maximum change in pulmonary vascular resistance(PVR) to the second baseline"
+      ],
+      "sponsor": "Vigonvita Life Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04483115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01042158",
+      "title": "A Clinical Trial of Ambrisentan and Tadalafil in Pulmonary Arterial Hypertension Associated With Systemic Sclerosis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2014-11",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "This will be a 36-week, single group, open label study assessing the effects of Tadalafil plus Ambrisentan combination therapy in patients with pulmonary arterial hypertension associated with the scleroderma spectrum of disease (PAH-SSD). Standard outcome measures such as six-minute walk distance (6MWD), New York heart Association (NYHA) classification, and hemodynamic measurements will be assessed, as well as novel functional measures of RV-PV function including the transthoracic echocardiogram",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A right heart catheterization done at baseline with a mean pulmonary artery pressure (mPAP) ≥ 25mmHg, pulmonary artery wedge pressure (PAWP) ≤ 15mmHg, and pulmonary vascular resistance (PVR) ≥3 Woods units.\n* Scleroderma defined as systemic sclerosis with diffuse or limited sc",
+      "endpoints": [
+        "Right Ventricular (RV) Mass",
+        "Pulmonary Vascular Resistance (PVR)"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT01042158"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03309592",
+      "title": "Investigator Sponsored Research Proposal : Efficacy and Safety of Combination Ambrisentan and TadaLafil in PATiEnts With PortoPulmonary Hypertension (ESCALATE-PPH)",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2017-10-12",
+      "completion_date": "2018-11-01",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of the combination of ambrisentan and tadalafil in reducing mPAP to below 35mmHg in patients with moderate to severe Portopulmonary Hypertension (POPH) as a means to candidacy for liver transplantation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Child-Pugh Class Class A \\& B Cirrhosis\n* mPAP ≥35mmHg\n* Pulmonary Capillary Wedge Pressure (PWCP) \\<15mmHg on Right Heart Catheterization's (RHCs)\n* mPAP \\> 50mmHg will be considered eligible unless they are World Health Organization (WHO) Functional Class IV\n\nExclusion Crite",
+      "endpoints": [
+        "Reduction in mPAP to 35mmHg"
+      ],
+      "sponsor": "Ochsner Health System",
+      "url": "https://clinicaltrials.gov/study/NCT03309592"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00506701",
+      "title": "Pilot Study to Investigate the Effect of Tadalafil on Secondary Pulmonary Hypertension in Chronic Obstructive Pulmonary Disease",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2008-02",
+      "completion_date": "2010-02",
+      "country": "Denmark",
+      "enrollment": 0,
+      "brief_summary": "Tadalafil may lower the pulmonary artery pressure in patients with Chronic Obstructive Lung Disease and secondary pulmonary hypertension and thereby improve patients quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Chronic obstructive lung disease\n\nExclusion Criteria\n\n* Patients with asthma",
+      "endpoints": [
+        "Change in 6 min. walking test"
+      ],
+      "sponsor": "Herlev Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00506701"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02891850",
+      "title": "A Prospective, Randomized, International, Multicenter, Double-arm, Controlled, Open-label Study of Riociguat in Patients With Pulmonary Arterial Hypertension (PAH) Who Are on a Stable Dose of Phosphodiesterase-5 Inhibitors (PDE-5i) With or Without Endothelin Receptor Antagonist (ERA), But Not at Treatment Goal",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-01-11",
+      "completion_date": "2020-03-03",
+      "country": "Brazil, Spain, Mexico, Canada, Belgium, Taiwan, Turkey (Türkiye), Germany, Portugal, South Korea, Greece, Austria, Poland, Japan, United States, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 225,
+      "brief_summary": "To demonstrate the effectiveness of riociguat as replacement of phosphodiesterase-5 inhibitors (PDE-5i) therapy in pulmonary arterial hypertension (PAH) patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 18 to 75 years.\n* Patients with symptomatic PAH with a pulmonary vascular resistance (PVR) \\> 400 dyn\\*sec\\*cm-5, mean pulmonary artery pressure ≥ 25 mmHg, and pulmonary capillary wedge pressure (PCWP) ≤ 15 mmHg as assessed by the most recent righ",
+      "endpoints": [
+        "Number of Participants With Satisfactory Clinical Response at Week 24"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02891850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02688387",
+      "title": "A Phase 1 Study to Demonstrate the Relative Bioavailability of Fixed Dose Combinations of Ambrisentan and Tadalafil in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-03-18",
+      "completion_date": "2017-08-04",
+      "country": "United Kingdom",
+      "enrollment": 112,
+      "brief_summary": "This study is designed to understand the relative bioavailability (proportion of the administered dose that is absorbed into the bloodstream) of several fixed dose combinations (FDCs) tablets of ambrisentan and tadalafil for further development and to provide pharmacokinetic (PK - what the body does to the drug) data to enable a pivotal bioequivalence (BE - the relationship between two preparations of the same drug in the same dosage form that have a similar bioavailability) study. Depending on ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 60 years of age inclusive, at the time of signing the informed consent.\n* Healthy as determined by a responsible and experienced physician, based on a medical evaluation including medical history, physical examination, laboratory tests, vital signs and cardiac m",
+      "endpoints": [
+        "Maximum Observed Concentration (Cmax) of Ambrisentan and Tadalafil in FDC (Ambrisentan 10 mg + Tadalafil 40 mg) and Montherapies (Ambrisentan 10 mg & Tadalafil 40 mg) - Part 1",
+        "Area Under the Plasma Concentration Time Curve (AUC) From Time Zero to Infinite (Inf) Time, AUC (0-inf) of Ambrisentan and Tadalafil in FDC (Ambrisentan 10 mg + Tadalafil 40 mg) and Montherapies (Ambrisentan 10 mg & Tadalafil 40 mg) - Part 1",
+        "AUC From Time of Dose to Last Measurable Concentration (AUC [0-t]), in FDC, (Ambrisentan 10 mg + Tadalafil 40 mg) Relative to Reference Monotherapies Tested (Ambrisentan 10 mg & Tadalafil 40 mg), Under Fasting- Part 1"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02688387"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05937854",
+      "title": "Effect of PDE5 Inhibitor on Respiratory Symptoms in COPD Complicated by Pulmonary Hypertension",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-04-01",
+      "completion_date": "2027-12-01",
+      "country": "United States",
+      "enrollment": 126,
+      "brief_summary": "The investigators will study whether the drug tadalafil improves shortness of breath in 126 Veterans with Chronic Obstructive Pulmonary Disease (COPD) and high blood pressure in the lungs. The investigators will also assess whether tadalafil improves quality of life, home daily physical activity, exercise endurance, the frequency of acute flares of COPD, blood pressure in the lungs, and lung function. Veterans who enroll in the trial will be allocated by chance to either active tadalafil or an i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatients with COPD, defined as airflow limitation with post-bronchodilator obstruction on baseline visit spirometry, identified by FEV1/FVC \\< 70% or \\< the lower limit of normal (5th percentile of a normal population based on Global Lung Function Initiative reference equa",
+      "endpoints": [
+        "severity of patient-reported dyspnea"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT05937854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01244620",
+      "title": "A Phase 1, Open Label, Randomized, Four Period, Crossover, Multiple Dose Study To Assess The Pharmacokinetic Interaction Between Sitaxsentan and Tadalafil and The Effect Of Sildenafil On Sitaxsentan PK In Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2010-12",
+      "country": "Singapore",
+      "enrollment": 16,
+      "brief_summary": "Sitaxsentan has a low drug-drug interaction potential and it did not have a clinically relevant effect on pharmacokinetics of sildenafil (a CYP3A sensitive substrate and PDE5 inhibitor).\n\nTadalafil did not have clinically relevant effect on pharmacokinetics of bosentan and ambrisentan. Based on overall clinical drug-drug interaction profiles, and in vitro CYP enzymes and transporter data, a clinically relevant drug-drug interaction between sitaxsentan and tadalafil is not expected. Sildenafil is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male subjects and women of non-child bearing potential between the ages of 21 and 55 years, inclusive. Healthy is defined as no clinically relevant abnormalities identified by a detailed medical history, full physical examination, including blood pressure and pulse rat",
+      "endpoints": [
+        "Time to Reach Maximum Observed Plasma Concentration (Tmax)",
+        "Trough Plasma Concentrations (Ctrough)",
+        "Maximum Observed Plasma Concentration (Cmax)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01244620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05487755",
+      "title": "Investigational and Comparative Study to Assess Safety and Effectiveness of Tadalafil and Pentoxifyllin in the Management of Diabetic Nephropathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-02-01",
+      "completion_date": "2023-09-01",
+      "country": "Egypt",
+      "enrollment": 90,
+      "brief_summary": "The objective of this study is to investigate and compare the safety and efficacy of selective (PDE5) enzyme inhibitor; tadalafil and non selective (PDE) inhibitor; pentoxifylline in diabetic nephropathy to improve glucose metabolism, lipid profile and decrease albuminuria.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A confirmed with clinical diagnosis of T2DM with duration at least 7 years to ensure established of micro-vascular complication (DKD).\n* females (post-menopause), males with sufficient erectile function.\n* Patients on stage 3 DN with evidence of persistent micro-albuminuria. A",
+      "endpoints": [
+        "Change in Urinary albumin/creatinine ratio (ACR)",
+        "Change in Hemoglobin A1c (HbA1c).",
+        "Change in Fasting blood glucose."
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT05487755"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01966302",
+      "title": "Compassionate Use of Beraprost Sodium 314d Modified Release (BPS-314d-MR) for Three Patients With Pulmonary Arterial Hypertension (PAH).",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-11",
+      "completion_date": "2019-06-02",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "The purpose of this study is to see if Lung LLC's new experimental formulation of the medicine Beraprost Sodium, called Beraprost Sodium 314d Modified Release (BPS-314d-MR), can improve the symptoms of pulmonary arterial hypertension (PAH) in patients. An experimental drug is one that has not been approved by the U.S. Food and Drug Administration for use in the general public. This research study is for patients who have pulmonary arterial hypertension (PAH) and have just completed taking part i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prior participation in Beraprost-MR study at Harbor-UCLA\n\nExclusion Criteria:\n\n* No prior participation in Beraprost study at Harbor-UCLA",
+      "endpoints": [
+        "Number of participants experiencing Adverse Events"
+      ],
+      "sponsor": "Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01966302"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01862536",
+      "title": "Tadalafil for Pulmonary Hypertension Associated With Chronic Lung Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-10-01",
+      "completion_date": "2019-08-31",
+      "country": "United States",
+      "enrollment": 44,
+      "brief_summary": "The functional, social, and economic burden of chronic obstructive lung disease (COPD) on the healthcare system is extraordinary. COPD is the fourth leading cause of death in the United States, and some estimates attribute up to $33.2 billion in health care costs to COPD-associated morbidity and mortality annually. The burden of COPD to the VA Healthcare system parallels these findings. According to the VA HSR\\&D Health Economics Resource Center, COPD ranks 5th among the 40 most common chronic c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female U.S. Veteran patients 40-85 years old, with Gold Stage II COPD by pulmonary function testing (FEV1/FVC \\<0.70; performed within 6 months of recruitment.\n* Eligible subjects must have PH documented on transthoracic echocardiogram within 6 months of baseline visi",
+      "endpoints": [
+        "Change in 6 Minute Walk Test"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT01862536"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06317805",
+      "title": "Randomized Trial Comparing Efficacy and Safety of Initial Triple Therapy Including Parenteral Treprostinil to Initial Double Oral Therapy in Pulmonary Arterial Hypertension (PAH) Group I Patients (TripleTRE)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-12-06",
+      "completion_date": "2027-06-30",
+      "country": "France, Spain, Czechia, Austria, Hungary, Italy, Germany, Portugal, Romania, Poland",
+      "enrollment": 110,
+      "brief_summary": "TripleTRE investigates the effect of initial triple combination therapy (oral endothelin receptor antagonist (ERA) + oral phosphodiesterase tyüe-5 inhibitor (PDE-5i) + parenteral treprostinil) compared to double oral therapy (oral ERA + oral PDE-5i) in pulmonary arterial hypertension (PAH) patients (group I) with intermediate-high risk or patients with intermediate-low risk with severe hemodynamic impairment at baseline in a prospective, randomized, unblinded setting with scope of increasing evi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent prior to any trial-mandated procedure\n* Male or female ≥ 18 and ≤ 70 years of age\n* Symptomatic treatment-naïve PAH patients (group I) with confirmed diagnosis of one of the following subgroups:\n\n  * idiopathic pulmonary arterial hypertension (IPAH)\n  *",
+      "endpoints": [
+        "Patients achieving (non-)response status to the assigned treatment in terms of achievement of low-risk status"
+      ],
+      "sponsor": "AOP Orphan Pharmaceuticals AG",
+      "url": "https://clinicaltrials.gov/study/NCT06317805"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03139084",
+      "title": "An Observational, Non-interventional, Multicenter Study to Evaluate the Efficacy and Safety of Upfront Combination of Bosentan and Tadalafil in Pulmonary Arterial Hypertension in Greek Patients",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2017-12-01",
+      "completion_date": "2019-12-01",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The development of disease-targeted drugs for the treatment of pulmonary arterial hypertension (PAH) has significantly improved within the last years. Combining drug products with different mechanisms of action such as Endothelin-Receptor-Antagonists (ERAs) and Phosphodiesterase-Type-5-inhibitors (PDE-5-Inhibitors) has become increasingly important for the treatment of PAH. Recently, the results of the AMBITION study reported that an upfront combination treatment of ambrisentan and tadalafil imm",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMale or females between 18 to 75 years of age at inclusion\n\nDiagnosis of PAH due to the following:\n\n* Idiopathic Primary Pulmonary Arterial Hypertension (IPAH)\n* Hereditary PAH\n* PAH secondary to connective tissue disease\n* PAH diagnosis confirmed by right heart catheterization ",
+      "endpoints": [
+        "Change From Baseline in the N-Terminal Pro-B-Type Natriuretic Peptide at Month 6"
+      ],
+      "sponsor": "Elpen Pharmaceutical Co. Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03139084"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01324999",
+      "title": "Tadalafil for Sarcoidosis Associated Pulmonary Hypertension",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2013-10",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "This study is designed to assess safety and efficacy of tadalafil in patients with Sarcoidosis Associated Pulmonary Hypertension.\n\nHypothesis: Tadalafil is safe and effective in treating pulmonary hypertension in patients with Sarcoidosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Biopsy proven sarcoidosis\n* Mean pulmonary artery pressure \\> 25 mmHg at rest or greater than 30 mmHg with exercise by right heart catheterization within 1 year prior to entry into study\n* Pulmonary capillary wedge pressure ≤ 15 mmHg\n* PVR values ≥ 3.0 Woods units\n* Forced vit",
+      "endpoints": [
+        "6 Minute Walk Distance"
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT01324999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01302444",
+      "title": "Randomized Placebo Controlled Trial of Treprostinil Infusion Combined With Oral Tadalafil or Placebo in Pulmonary Arterial Hypertension",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2011-03",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "Objectives: To test whether the combined administration of the medications treprostinil(a prostacycline therapy), and tadalafil(a PDE-5 \\[ phosphodiesterase type 5\\]Inhibitor therapy) is better than the administration of treprostinil alone. This treatment would be offered to newly diagnosed patients with pulmonary arterial hypertension who are on no treatment for this disease and are deemed candidates for the medication treprostinil by their physician. The combination therapy will be compared to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients 18-80 years of age\n2. World Health Organization Group 1 PAH\n\n   1. Idiopathic PAH\n   2. Heritable PAH\n   3. PAH associated with connective tissue disease\n   4. PAH associated with surgical repair of congenital left to right shunt\n   5. PAH associated with anore",
+      "endpoints": [
+        "All Cause Mortality",
+        "Adverse Events Are no Greater Than With Treprostinil Infusion Alone",
+        "WHO Functional Class Will Improve or Remain Stable"
+      ],
+      "sponsor": "Rhode Island Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01302444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05844462",
+      "title": "Efficacy of Phosphodiesterase Type 5 Inhibitors in Severe Pulmonary Hypertension Due to Chronic Obstructive Pulmonary Disease",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-01",
+      "completion_date": "2027-09",
+      "country": "France",
+      "enrollment": 200,
+      "brief_summary": "ERASE PH-COPD is a randomized double-blind study, with 2 parallel groups. Patients with severe pulmonary hypertension due to chronic obstructive pulmonary disease, will be randomly assigned to receive Tadalafil orally or placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients ≥ 18 and \\<85 years at inclusion,\n* Dyspnea WHO functional class II to IV,\n* Severe precapillary pulmonary hypertension defined by :\n\n  * a mean pulmonary artery pressure (mPAP) \\>20\n  * associated with normal pulmonary artery wedge pressure (PawP ≤15 mmHg)\n  * and pu",
+      "endpoints": [
+        "6 minute Walk"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT05844462"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04052269",
+      "title": "A Pilot Study to Investigate the Effect of Phosphodiesterase Inhibitors on Chorioretinal Blood Flow Using Optical Coherence Tomography Angiography.",
+      "phase": "PHASE3",
+      "status": "SUSPENDED",
+      "start_date": "2019-06-21",
+      "completion_date": "2022-10-30",
+      "country": "United Kingdom",
+      "enrollment": 30,
+      "brief_summary": "It is commonly known that high eye pressure is associated with glaucoma. However, there is also a theory that poor circulation to the eye is a contributing factor. Therefore, if we can increase the flow of blood to the eye, we may be able to stop people losing vision from this disease.\n\nPhosphodiesterase inhibitors (for example sildenafil, tadalafil, Viagra®, Cialis®) are drugs used to improve blood flow to certain parts of the body. They are commonly used on an ad-hoc basis to treat erectile dy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able to give informed consent to participate in the study\n* Aged between 40 and 80 years of age\n* Clear optical media\n* Spherical equivalent +-10D\n* IOP 21mmHg\n\nExclusion Criteria:\n\n* have used sildenafil for 48 hours (4 hour half-life) and tadalafil for 5 days (48 hour half-l",
+      "endpoints": [
+        "Changes in central macular thickness as assessed by retina imaging",
+        "Changes in retinal vascular density as assessed by retina imaging",
+        "Changes in outer retina flow as assessed by retina imaging"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT04052269"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01266265",
+      "title": "A Postmarketing Observational Study to Assess Respiratory Tract Adverse Events in Pulmonary Arterial Hypertension Patients Treated With Tyvaso® (Treprostinil) Inhalation Solution",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2014-12",
+      "country": "United States",
+      "enrollment": 1333,
+      "brief_summary": "A surveillance of respiratory tract related adverse events in patients treated with Tyvaso®(treprostinil) Inhalation Solution versus other FDA approved therapies",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of PAH, WHO GROUP I\n* Prescribed and is currently receiving Tyvaso and/or other FDA-approved therapy for the treatment of PAH\n* Willing and able to provide written informed consent\n\nExclusion Criteria:\n\n* Previous initiation and permanent discontinuation of ",
+      "endpoints": [
+        "Prevalence of Respiratory Tract-Related Adverse Events of Interest"
+      ],
+      "sponsor": "United Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT01266265"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03236818",
+      "title": "Raising the Bars in the Treatment of Pulmonary Arterial Hypertension: Goal Oriented Strategy to Preserve Ejection Fraction Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2013-05",
+      "completion_date": "2017-09",
+      "country": "Netherlands",
+      "enrollment": 30,
+      "brief_summary": "In this prospective long term feasibility study we examine whether a goal oriented therapeutic strategy that is able to preserve right ventricular function will result in improved clinical outcome in patients with pulmonary arterial hypertension. We hypothesize that right ventricular function can only be preserved when early and aggressive medical combination therapy not only reduces pulmonary vascular resistance but also pulmonary pressures.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Idiopathic or heritable pulmonary arterial hypertension\n* New York Heart Association (NYHA) functional class II or III\n\nExclusion Criteria:\n\n* Other causes of pulmonary arterial hypertension (i.e. collagen vascular disease, congenital heart disease, chrono-thromboembolic pulmo",
+      "endpoints": [
+        "Change in right ventricular ejection fraction"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT03236818"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01272388",
+      "title": "Aortic Stenosis and PhosphodiEsterase iNhibition With Aortic Valve Replacement (ASPEN-AVR): A Pilot Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2011-01",
+      "completion_date": "2012-04",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "Currently, aortic stenosis (AS) is considered a \"surgical disease\" with no medical therapy available to improve any clinical outcomes, including symptoms, time to surgery, or long-term survival. Thus far, randomized studies involving statins have not been promising with respect to slowing progressive valve stenosis. Beyond the valve, two common consequences of aortic stenosis are hypertrophic remodeling of the left ventricle (LV) and pulmonary venous hypertension; each of these has been associat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with severe aortic stenosis (AVA \\< 1.0 cm2)\n* Left ventricular hypertrophy\n* EF ≥ 45%\n* NYHA functional class ≥ 2\n* Ambulatory (able to perform a 6 minute walk test)\n* Normal sinus rhythm\n* 18 years of age and older\n* Able and willing to comply with all the requireme",
+      "endpoints": [
+        "Quality of Life as Assessed by the Kansas City Cardiomyopathy Questionnaire (KCCQ)"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01272388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00549302",
+      "title": "An Extension Study to Evaluate the Long-Term Safety and Efficacy of the Phosphodiesterase Type 5 (PDE5) Inhibitor Tadalafil in the Treatment of Patients With Pulmonary Arterial Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2012-02",
+      "country": "France, Spain, Italy, Germany, Ireland, United Kingdom, Canada, Japan, Belgium, United States",
+      "enrollment": 357,
+      "brief_summary": "Study to determine the long term safety of tadalafil in patients with increased blood pressure in the blood vessel that carries blood from the right heart to the lungs and to see if it will keep the disease from getting worse.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have participated and discontinued in the previous PAH placebo controlled study due to clinical worsening on placebo or tadalafil 2.5 mg, 10mg, or 20 mg\n* Must have completed Week 16 of the previous PAH study and had either no clinical worsening or became clinically worse",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00549302"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00617305",
+      "title": "An Open-label, Multicenter Study of Ambrisentan and a Phosphodiesterase Type-5 Inhibitor Combination Therapy in Subjects With Pulmonary Arterial Hypertension Who Have Demonstrated a Sub-Optimal Response to a Phosphodiesterase Type-5 Inhibitor",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "To evaluate the change from baseline in pulmonary vascular resistance (PVR), and other hemodynamic parameters, following the addition of ambrisentan to background phosphodiesterase type-5 inhibitor (PDE-5i) therapy in subjects with pulmonary arterial hypertension (PAH) who have demonstrated a sub-optimal response to PDE-5i monotherapy.\n\nThe study was originally designed as a 2-arm, double-blind, randomized study in which patients received ambrisentan or placebo for 24 weeks, and then received am",
+      "eligibility_criteria": "Selected Inclusion Criteria\n\n* Must be between 16 and 75 years of age;\n* Must weigh at least 40 kg;\n* Have a current diagnosis of idiopathic PAH, familial PAH, or PAH that is primarily due to connective tissue disease, congenital heart defects, drug or toxin use, or human immunodeficiency virus (HIV",
+      "endpoints": [
+        "Change From Baseline in Pulmonary Vascular Resistance (PVR), Last Observation Carried Forward (LOCF)"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00617305"
+    }
+  ],
+  "timestamp": "2026-03-04T15:46:57.050926",
+  "success": true,
+  "error_message": null
+}

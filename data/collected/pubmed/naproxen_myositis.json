@@ -1,0 +1,243 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Naproxen",
+    "disease": "myositis",
+    "query_string": "Naproxen AND myositis"
+  },
+  "data": {
+    "query": "Naproxen AND myositis",
+    "results": [
+      {
+        "pmid": "22963024",
+        "title": "Nocturnal leg cramps.",
+        "abstract": "Up to 60 percent of adults report that they have had nocturnal leg cramps. The recurrent, painful tightening usually occurs in the calf muscles and can cause severe insomnia. The exact mechanism is unknown, but the cramps are probably caused by muscle fatigue and nerve dysfunction rather than electrolyte or other abnormalities. Nocturnal leg cramps are associated with vascular disease, lumbar canal stenosis, cirrhosis, hemodialysis, pregnancy, and other medical conditions. Medications that are strongly associated with leg cramps include intravenous iron sucrose, conjugated estrogens, raloxifene, naproxen, and teriparatide. A history and physical examination are usually sufficient to differentiate nocturnal leg cramps from other conditions, such as restless legs syndrome, claudication, myositis, and peripheral neuropathy. Laboratory evaluation and specialized testing usually are unnecessary to confirm the diagnosis. Limited evidence supports treating nocturnal leg cramps with exercise a",
+        "journal": "American family physician",
+        "year": "2012",
+        "authors": [
+          "Allen Richard E",
+          "Kirby Karl A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Diagnosis, Differential",
+          "Humans",
+          "Restless Legs Syndrome",
+          "Sleep-Wake Transition Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22963024/"
+      },
+      {
+        "pmid": "40486395",
+        "title": "Myositis Due to Parvovirus B19: A Case Report and Literature Review.",
+        "abstract": "Myositis is a condition characterized by muscle inflammation due to multiple etiologies, including autoimmune disease, medication, and infection. Viral myositis is most frequently seen in children after influenza infection, but Parvovirus B19 has also rarely been associated with myositis. We report the case of a 42-year-old male with a medical history of low back pain due to spondylosis who presented to the hospital with a one-month history of bilateral thigh and calf pain associated with subjective weakness and a one-week history of fevers. His wife and son were diagnosed with Parvovirus B19 infection one month before his symptoms began. The physical exam was notable for prominent tenderness to palpation of the anterior thigh muscles and calves and mild swelling around the ankles without intra-articular effusion. Strength was normal in all extremities. Lower extremity MRI revealed extensive multifocal, patchy, and feathery edema throughout the lower extremities. Aldolase, C-reactive p",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Allsop Vivianne L",
+          "Gaumnitz John",
+          "Xing Changhong",
+          "Goold Eric",
+          "Thomas Julie"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40486395/"
+      },
+      {
+        "pmid": "3184078",
+        "title": "Subacute perimyositis.",
+        "abstract": "We describe a patient who developed a benign myopathy with features suggestive of subacute perimysial inflammation. There was no blood eosinophilia or infectious agent identified. Creatine phosphokinase was not significantly elevated. Electromyography showed a myopathic process. Muscle biopsy showed predominantly subacute perimysial inflammation with rare eosinophils. The patient recovered completely after therapy with glucocorticoids and a nonsteroidal antiinflammatory drug. The features of our case were compared to known causes of myositis with or without eosinophils. It may be part of the spectrum of relapsing eosinophilic perimyositis or may be a condition previously unreported.",
+        "journal": "The Journal of rheumatology",
+        "year": "1988",
+        "authors": [
+          "Fang M A",
+          "Verity M A",
+          "Paulus H E"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Biopsy",
+          "Electromyography",
+          "Eosinophils",
+          "Humans",
+          "Joints",
+          "Male",
+          "Muscles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3184078/"
+      },
+      {
+        "pmid": "6387570",
+        "title": "Trochleitis with superior oblique myositis.",
+        "abstract": "Thirteen patients complained of recent fluctuating aching of one orbit, punctuated by stabbing pains. All had exquisite point tenderness over the trochlea and in half of the patients the pain was aggravated by eye movement. Standardized A-scan echography demonstrated swelling of the peritrochlear tissue and thickening of the superior oblique muscle with low internal acoustic reflectivity, typical of myositis. CT scan showed a soft tissue density in the region of the trochlea. Biopsy, performed on two patients, revealed peri-trochlear inflammation. In all patients the symptoms resolved within a period of weeks or months: indomethacin or naproxen were not effective, but oral or locally injected corticosteroids shortened the course compared to no treatment. None of the patients had ptosis, proptosis, Brown's syndrome, or a click, nor did they have echographic or radiographic signs of sinusitis or inflammation away from the trochlea. This probably represents a highly localized subtype of i",
+        "journal": "Ophthalmology",
+        "year": "1984",
+        "authors": [
+          "Tychsen L",
+          "Tse D T",
+          "Ossoinig K",
+          "Anderson R L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Biopsy",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Myositis",
+          "Oculomotor Muscles",
+          "Orbital Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6387570/"
+      },
+      {
+        "pmid": "20493261",
+        "title": "Effects of nonsteroidal anti-inflammatory drugs on amyloid-beta pathology in mouse skeletal muscle.",
+        "abstract": "Sporadic inclusion body myositis (sIBM) is a common age-related inflammatory myopathy characterized by the presence of intracellular inclusions that contain the amyloid-beta (Abeta) peptide, a derivative of the amyloid precursor protein (APP). Abeta is believed to cause Alzheimer's disease (AD), suggesting that a link may exist between the two diseases. If AD and sIBM are linked, then treatments that lower Abeta in brain may prove useful for sIBM. To test this hypothesis, transgenic mice that overexpress APP in skeletal muscle were treated for 6 months with a variety of nonsteroidal anti-inflammatory drugs (NSAIDs; naproxen, ibuprofen, carprofen or R-flurbiprofen), a subset of which reduce Abeta in brain and cultured cells. Only ibuprofen lowered Abeta in muscle, and this was not accompanied by corresponding improvements in phenotype. These results indicate that the effects of NSAIDs in the brain may be different from other tissues and that Abeta alone cannot account for skeletal muscl",
+        "journal": "Neurobiology of disease",
+        "year": "2010",
+        "authors": [
+          "Beckett Tina L",
+          "Niedowicz Dana M",
+          "Studzinski Christa M",
+          "Weidner Adam M",
+          "Webb Robin L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amyloid beta-Peptides",
+          "Amyloid beta-Protein Precursor",
+          "Analysis of Variance",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Mice",
+          "Mice, Transgenic",
+          "Muscle, Skeletal",
+          "Statistics, Nonparametric"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20493261/"
+      },
+      {
+        "pmid": "3892764",
+        "title": "[Naproxen in acute musculoskeletal injuries. A double-blind placebo controlled study].",
+        "abstract": "",
+        "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+        "year": "1985",
+        "authors": [
+          "Bodd E",
+          "Borud E K",
+          "Hokland B M",
+          "Bodd C",
+          "Finstad M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Myositis",
+          "Naproxen",
+          "Osteitis",
+          "Physical Exertion"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3892764/"
+      },
+      {
+        "pmid": "6104695",
+        "title": "The effect of steroidal and non-steroidal antiinflammatory drugs on chronic muscle inflammation.",
+        "abstract": "Zymosan (400 microgram) and thioglycollate medium (0.1 ml of 2.4% w/v) have each been shown to induce a chronic inflammation when injected into the hamstring muscle of the mouse. The inflammation is characterized by an increase in muscle weight and N-acetylglycosaminidase concentrations. The response is not inhibited by oral treatment with hydrocortisone, dexamethasone or naproxen, but is inhibited by the local injection of methylprednisolone. The relevance of this model to polymyositis and fibrositis is discussed.",
+        "journal": "The Journal of pharmacy and pharmacology",
+        "year": "1980",
+        "authors": [
+          "Green A P",
+          "Mangan F R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetylglucosaminidase",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Chronic Disease",
+          "Dexamethasone",
+          "Female",
+          "Hydrocortisone",
+          "Mice",
+          "Muscles",
+          "Myositis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6104695/"
+      },
+      {
+        "pmid": "2706420",
+        "title": "A serial study of anticardiolipin antibody and antimitochondrial antibody type M5 in a patient with polyarthritis and polymyositis.",
+        "abstract": "A 22-year-old female presented with polyarthritis and subsequent polymyositis. Initially, she had moderately high levels of anticardiolipin (aCl) and antimitochondrial antibody (AMA) type M5. Following corticosteroid therapy, the anticardiolipin antibody rapidly fell to background levels but reappeared with the onset of two significant clinical events.",
+        "journal": "British journal of rheumatology",
+        "year": "1989",
+        "authors": [
+          "Keane A",
+          "Woods R",
+          "Foley-Nolan D",
+          "Roden D",
+          "Coughlan R"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antibodies",
+          "Arthritis",
+          "Cardiolipins",
+          "Female",
+          "Humans",
+          "Mitochondria",
+          "Myositis",
+          "Naproxen",
+          "Prednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2706420/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:08:10.339311",
+  "success": true,
+  "error_message": null
+}

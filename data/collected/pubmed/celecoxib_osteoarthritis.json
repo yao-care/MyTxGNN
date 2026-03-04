@@ -1,0 +1,617 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "osteoarthritis",
+    "query_string": "Celecoxib AND osteoarthritis"
+  },
+  "data": {
+    "query": "Celecoxib AND osteoarthritis",
+    "results": [
+      {
+        "pmid": "25589511",
+        "title": "Combined chondroitin sulfate and glucosamine for painful knee osteoarthritis: a multicentre, randomised, double-blind, non-inferiority trial versus celecoxib.",
+        "abstract": "To compare the efficacy and safety of chondroitin sulfate plus glucosamine hydrochloride (CS+GH) versus celecoxib in patients with knee osteoarthritis and severe pain.",
+        "journal": "Annals of the rheumatic diseases",
+        "year": "2016",
+        "authors": [
+          "Hochberg Marc C",
+          "Martel-Pelletier Johanne",
+          "Monfort Jordi",
+          "Möller Ingrid",
+          "Castillo Juan Ramón"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Celecoxib",
+          "Chondroitin Sulfates",
+          "Cyclooxygenase 2 Inhibitors",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Edema",
+          "Female",
+          "Glucosamine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25589511/"
+      },
+      {
+        "pmid": "30362840",
+        "title": "Amlodipine and celecoxib for treatment of hypertension and osteoarthritis pain.",
+        "abstract": "Osteoarthritis constitutes one of the leading causes of pain and disability worldwide with a significant impact on health-care costs. Patients with osteoarthritis are often affected by a number of cardiovascular comorbidities, including hypertension, which is present in about 40% of cases. Just recently, a single tablet combination of amlodipine besylate, a calcium channel blocker, and celecoxib, a nonsteroidal anti-inflammatory drug, indicated for patients for whom treatment with amlodipine for hypertension and celecoxib for osteoarthritis are appropriate, has been recently approved. Areas covered: We reviewed data from clinical studies that investigated safety and efficacy of the combination of amlodipine and celecoxib in hypertensive patients with osteoarthritis published before 31 August 2018. The literature search was conducted using research Methodology Filters. Expert commentary: The advantages of this single formulation over sequential administration include increased complianc",
+        "journal": "Expert review of clinical pharmacology",
+        "year": "2018",
+        "authors": [
+          "Angeli Fabio",
+          "Trapasso Monica",
+          "Signorotti Sara",
+          "Verdecchia Paolo",
+          "Reboldi Gianpaolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amlodipine",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antihypertensive Agents",
+          "Celecoxib",
+          "Drug Combinations",
+          "Humans",
+          "Hypertension",
+          "Osteoarthritis",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30362840/"
+      },
+      {
+        "pmid": "30240679",
+        "title": "Fixed-Dose Combination Amlodipine/Celecoxib (Consensi) for Hypertension and Osteoarthritis.",
+        "abstract": "The US Food and Drug Administration recently granted an approved indication for the first fixed-dose combination antihypertensive (amlodipine) and nonsteroidal anti-inflammatory drug (celecoxib) for treatment of comorbid hypertension and osteoarthritis. This review summarizes available data on this combination product, to be marketed as Consensi (Kitov Pharmaceuticals, Ltd, Tel Aviv, Israel), and discusses its potential place in therapy.",
+        "journal": "The American journal of medicine",
+        "year": "2019",
+        "authors": [
+          "Smith Steven M",
+          "Cooper-DeHoff Rhonda M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amlodipine",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antihypertensive Agents",
+          "Celecoxib",
+          "Humans",
+          "Hypertension",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30240679/"
+      },
+      {
+        "pmid": "34932581",
+        "title": "Cardiovascular safety of celecoxib in rheumatoid arthritis and osteoarthritis patients: A systematic review and meta-analysis.",
+        "abstract": "To assess the cardiovascular safety of celecoxib compared to non-selective non-steroid anti-inflammatory drugs or placebo.",
+        "journal": "PloS one",
+        "year": "2021",
+        "authors": [
+          "Cheng Bai-Ru",
+          "Chen Jia-Qi",
+          "Zhang Xiao-Wen",
+          "Gao Qin-Yang",
+          "Li Wei-Hong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular System",
+          "Celecoxib",
+          "Humans",
+          "Osteoarthritis",
+          "Patient Safety"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34932581/"
+      },
+      {
+        "pmid": "27196460",
+        "title": "Efficacy and Safety of Celecoxib Therapy in Osteoarthritis: A Meta-Analysis of Randomized Controlled Trials.",
+        "abstract": "Osteoarthritis (OA) is the most common form of arthritis in older individuals and is among the most prevalent and disabling chronic conditions worldwide.We conducted a meta-analysis to determine the efficacy and safety of celecoxib, a cyclooxygenase-2 (COX-2) inhibitor in the treatment of osteoarthritis. Studies were pooled, and mean difference (MD), relative risk (RR), and its corresponding 95% confidence interval (CI) were calculated. Fifteen relevant articles were included for this meta-analysis study.We observed that osteoarthritis total score (MD = -4.41, 95% CI -7.27 to -1.55), pain subscale score (MD = -0.86, 95% CI -1.10 to -0.62), and function subscale score (MD = -2.90, 95% CI -5.12 to -0.67) in OA patients treatment with celecoxib was significantly improved than that with placebo. There was no significant difference in the incidence of adverse events (AEs), SAEs, and discontinuations due to AEs; however, the incidence of gastrointestinal AEs in OA patients treatment with cel",
+        "journal": "Medicine",
+        "year": "2016",
+        "authors": [
+          "Xu Chao",
+          "Gu Ke",
+          "Yasen Yalikun",
+          "Hou Yanjie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abdominal Pain",
+          "Celecoxib",
+          "Chronic Pain",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diarrhea",
+          "Dyspepsia",
+          "Headache",
+          "Nausea",
+          "Osteoarthritis",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27196460/"
+      },
+      {
+        "pmid": "30575881",
+        "title": "Association of Pharmacological Treatments With Long-term Pain Control in Patients With Knee Osteoarthritis: A Systematic Review and Meta-analysis.",
+        "abstract": "Even though osteoarthritis is a chronic and progressive disease, pharmacological agents are mainly studied over short-term periods, resulting in unclear recommendations for long-term disease management.",
+        "journal": "JAMA",
+        "year": "2018",
+        "authors": [
+          "Gregori Dario",
+          "Giacovelli Giampaolo",
+          "Minto Clara",
+          "Barbetta Beatrice",
+          "Gualtieri Francesca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Aged",
+          "Analgesics",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Bone Density Conservation Agents",
+          "Celecoxib",
+          "Female",
+          "Follow-Up Studies",
+          "Glucosamine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30575881/"
+      },
+      {
+        "pmid": "16495392",
+        "title": "Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis.",
+        "abstract": "Glucosamine and chondroitin sulfate are used to treat osteoarthritis. The multicenter, double-blind, placebo- and celecoxib-controlled Glucosamine/chondroitin Arthritis Intervention Trial (GAIT) evaluated their efficacy and safety as a treatment for knee pain from osteoarthritis.",
+        "journal": "The New England journal of medicine",
+        "year": "2006",
+        "authors": [
+          "Clegg Daniel O",
+          "Reda Domenic J",
+          "Harris Crystal L",
+          "Klein Marguerite A",
+          "O'Dell James R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Chondroitin Sulfates",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Glucosamine",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16495392/"
+      },
+      {
+        "pmid": "25560713",
+        "title": "Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis.",
+        "abstract": "The relative efficacy of available treatments of knee osteoarthritis (OA) must be determined for rational treatment algorithms to be formulated.",
+        "journal": "Annals of internal medicine",
+        "year": "2015",
+        "authors": [
+          "Bannuru Raveendhara R",
+          "Schmid Christopher H",
+          "Kent David M",
+          "Vaysbrot Elizaveta E",
+          "Wong John B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Adrenal Cortex Hormones",
+          "Analgesics, Non-Narcotic",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Humans",
+          "Hyaluronic Acid",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25560713/"
+      },
+      {
+        "pmid": "10804043",
+        "title": "Celecoxib: a review of its use in osteoarthritis, rheumatoid arthritis and acute pain.",
+        "abstract": "Celecoxib is a cyclo-oxygenase (COX) inhibitor that exhibits relative in vitro and ex vivo selectivity for COX-2 over COX-1. Results of randomised double-blind multicentre studies indicate that celecoxib is superior to placebo and has similar efficacy as conventional nonsteroidal anti-inflammatory drugs (NSAIDs) in improving the signs and symptoms of osteoarthritis and rheumatoid arthritis. Analgesic efficacy and improvements in functional status are apparent within 2 weeks of starting therapy and are maintained throughout treatment. Available data suggest that celecoxib has analgesic efficacy in patients with postsurgical dental pain, although this is yet to be confirmed. In patients with osteoarthritis of the knee, celecoxib 100 and 200 mg and naproxen 500 mg twice daily were similarly efficacious and superior to placebo. Once and twice daily celecoxib dosage regimens provided comparable efficacy. Improvements in physical function paralleled those in pain relief. Celecoxib also has e",
+        "journal": "Drugs",
+        "year": "2000",
+        "authors": [
+          "Clemett D",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Electron Transport Complex IV",
+          "Humans",
+          "Osteoarthritis",
+          "Pain",
+          "Plant Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10804043/"
+      },
+      {
+        "pmid": "26576862",
+        "title": "Effectiveness and safety of Glucosamine, chondroitin, the two in combination, or celecoxib in the treatment of osteoarthritis of the knee.",
+        "abstract": "This study aimed to investigate the effectiveness and safety of glucosamine, chondroitin, the two in combination, or celecoxib in the treatment of knee osteoarthritis (OA). PubMed, Embase and Cochrane Library were searched through from inception to February 2015. A total of 54 studies covering 16427 patients were included. Glucosamine plus chondroitin, glucosamine alone, and celecoxib were all more effective than placebo in pain relief and function improvement. Specifically, celecoxib is most likely to be the best treatment option, followed by the combination group. All treatment options showed clinically significant improvement from baseline pain, but only glucosamine plus chondroitin showed clinically significant improvement from baseline function. In terms of the structure-modifying effect, both glucosamine alone and chondroitin alone achieved a statistically significant reduction in joint space narrowing. Although no significant difference was observed among the five options with r",
+        "journal": "Scientific reports",
+        "year": "2015",
+        "authors": [
+          "Zeng Chao",
+          "Wei Jie",
+          "Li Hui",
+          "Wang Yi-lun",
+          "Xie Dong-xing"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Arthralgia",
+          "Celecoxib",
+          "Chondroitin",
+          "Drug Therapy, Combination",
+          "Glucosamine",
+          "Humans",
+          "Odds Ratio",
+          "Osteoarthritis, Knee",
+          "Pain Management",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26576862/"
+      },
+      {
+        "pmid": "38008631",
+        "title": "Efficacy and safety of sodium hyaluronate combined with celecoxib for knee osteoarthritis: A systematic review and meta-analysis.",
+        "abstract": "Due to the large cost of joint replacement for surgical treatment of knee osteoarthritis, there are many complications in elderly patients, and there are many contraindications to surgery, and conservative treatment is still based on drugs. To further evaluate the efficacy and safety of sodium hyaluronate combined with celecoxib for the treatment of osteoarthritis of the knee. In total, 202 studies were screened, with a final selection of 9 RCTs involving 2339 participants; of these, 9 RCTs were included in the final meta-analysis. Treatment group reduces VAS (SMD = -1.61; 95 % CI [-2.25, -0.98]; I2 = 95 %; P < 0.00001) and adverse reactions (OR = 0.45; 95 % CI [0.22,0.94]; I2 = 0 %; P < 0.33); Meanwhile, improving Lysholm knee scores (SMD = 0.19; 95 % CI [-0.06, -0.44]; I2 = 76 %; P = 0.0004) and Clinical efficiency (OR = 0.31; 95 % CI [0.19,0.50]; I2 = 0 %; P < 0.00001). All indicators were superior to the control group. Our primary findings suggest that KOA treatment with celecoxib ",
+        "journal": "Asian journal of surgery",
+        "year": "2024",
+        "authors": [
+          "Zeng Mengjie",
+          "Wu Zhiquan",
+          "Liang Jinying",
+          "Gong Aimin"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Hyaluronic Acid",
+          "Celecoxib",
+          "Humans",
+          "Osteoarthritis, Knee",
+          "Treatment Outcome",
+          "Drug Therapy, Combination",
+          "Cyclooxygenase 2 Inhibitors",
+          "Female",
+          "Aged",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38008631/"
+      },
+      {
+        "pmid": "40089639",
+        "title": "The comparative efficacy of L-glutamine, celecoxib, and glucosamine sulfate in osteoarthritis management.",
+        "abstract": "To explore the therapeutic efficacy of L-glutamine (L-Gln) on pathological progression and clinical symptoms of osteoarthritis (OA), and compare with glucosamine sulfate (GS), and celecoxib (CXB). Rats were administered sodium chloride, L-Gln, GS, or CXB via gavage for eight weeks starting from the fifth week after sham operation or Anterior Cruciate Ligament Transection (ACLT) + Medial Meniscectomy (MMx). Then the severity of knee OA in rats was evaluated by serological analysis, histological examination and imaging examination. In addition, patients with mild primary OA were administered L-Gln, GS, or CXB orally for 12 weeks in accordance with the randomization principle. The efficacy end points were the change from baseline to week 24 in the pain and physical function subscale scores of the Western Ontario and McMaster Universities OA Index (WOMAC), and Lequesne score. Treatment with L-Gln alleviated the increased concentration of serum cartilage degradation markers caused by OA in ",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Hu Zhongyao",
+          "Wang Changming",
+          "Wang Chen",
+          "He Junyan",
+          "Yan Yiqun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Celecoxib",
+          "Glucosamine",
+          "Animals",
+          "Rats",
+          "Male",
+          "Humans",
+          "Glutamine",
+          "Osteoarthritis",
+          "Middle Aged",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40089639/"
+      },
+      {
+        "pmid": "31604050",
+        "title": "Celecoxib for osteoarthritis.",
+        "abstract": "",
+        "journal": "British journal of community nursing",
+        "year": "2019",
+        "authors": [
+          "Rowan-Robinson Kate"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adverse Drug Reaction Reporting Systems",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Community Health Nursing",
+          "Osteoarthritis",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31604050/"
+      },
+      {
+        "pmid": "28530031",
+        "title": "Celecoxib for osteoarthritis.",
+        "abstract": "Osteoarthritis (OA) is the most common form of arthritis and is caused by degeneration of the joint cartilage and growth of new bone, cartilage and connective tissue. It is often associated with major disability and impaired quality of life. There is currently no consensus on the best treatment to improve OA symptoms. Celecoxib is a selective non-steroidal anti-inflammatory drug (NSAID).",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Puljak Livia",
+          "Marin Ana",
+          "Vrdoljak Davorka",
+          "Markotic Filipa",
+          "Utrobicic Ana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Diclofenac",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Naproxen",
+          "Osteoarthritis, Hip"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28530031/"
+      },
+      {
+        "pmid": "22141388",
+        "title": "Celecoxib: a review of its use for symptomatic relief in the treatment of osteoarthritis, rheumatoid arthritis and ankylosing spondylitis.",
+        "abstract": "Celecoxib (Celebrex®) was the first cyclo-oxygenase (COX)-2 selective inhibitor (coxib) to be introduced into clinical practice. Coxibs were developed to provide anti-inflammatory/analgesic activity similar to that of nonselective NSAIDs, but without their upper gastrointestinal (GI) toxicity, which is thought to result largely from COX-1 inhibition. Celecoxib is indicated in the EU for the symptomatic treatment of osteoarthritis, rheumatoid arthritis and ankylosing spondylitis in adults. This article reviews the clinical efficacy and tolerability of celecoxib in these EU-approved indications, as well as overviewing its pharmacological properties. In randomized controlled trials, celecoxib, at the recommended dosages of 200 or 400 mg/day, was significantly more effective than placebo, at least as effective as or more effective than paracetamol (acetaminophen) and as effective as nonselective NSAIDs and the coxibs etoricoxib and lumiracoxib for the symptomatic treatment of patients with",
+        "journal": "Drugs",
+        "year": "2011",
+        "authors": [
+          "McCormack Paul L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic",
+          "Spondylitis, Ankylosing",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22141388/"
+      },
+      {
+        "pmid": "21042022",
+        "title": "Efficacy and safety of the selective cyclooxygenase-2 inhibitor celecoxib in the treatment of rheumatoid arthritis and osteoarthritis in Japan.",
+        "abstract": "Gastrointestinal (GI) disorders are common adverse reactions of nonsteroidal anti-inflammatory drugs (NSAIDs). Loxoprofen is a representative NSAID widely used in East Asia. A selective cyclooxygenase-2 inhibitor, celecoxib, was introduced in Japan in 2007. In this study, we aimed to compare the efficacy and safety of celecoxib with those of loxoprofen in Japanese patients.",
+        "journal": "Digestion",
+        "year": "2011",
+        "authors": [
+          "Sakamoto Choitsu",
+          "Soen Satoshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Humans",
+          "Japan",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21042022/"
+      },
+      {
+        "pmid": "37773836",
+        "title": "Efficacy and safety of diacerein and celecoxib combination therapy for knee osteoarthritis: A double-blind, randomized, placebo-controlled prospective study.",
+        "abstract": "Osteoarthritis is a degenerative disease with a growing burden in South Korea. Corresponding drugs are commonly used for pain relief and joint function improvement. Specifically, symptomatic slow-acting drugs for osteoarthritis are frequently used, with diacerein being the most common symptomatic slow-acting drugs for osteoarthritis in South Korea. In this study, we evaluated the efficacy and safety of diacerein and celecoxib combination therapy in patients with osteoarthritis.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Youn Sangah",
+          "Choi Ji Hye",
+          "Kim Chulmin",
+          "Kim Seon-Mee",
+          "Choi Whan Seok"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Celecoxib",
+          "Osteoarthritis, Knee",
+          "Prospective Studies",
+          "Combined Modality Therapy",
+          "Anthraquinones",
+          "Double-Blind Method",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37773836/"
+      },
+      {
+        "pmid": "12242171",
+        "title": "Efficacy, tolerability, and upper gastrointestinal safety of celecoxib for treatment of osteoarthritis and rheumatoid arthritis: systematic review of randomised controlled trials.",
+        "abstract": "To determine the efficacy, gastrointestinal safety, and tolerability of celecoxib (a cyclo-oxygenase 2 (COX 2) inhibitor) used in the treatment of osteoarthritis and rheumatoid arthritis.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2002",
+        "authors": [
+          "Deeks Jonathan J",
+          "Smith Lesley A",
+          "Bradley Matthew D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12242171/"
+      },
+      {
+        "pmid": "10509845",
+        "title": "Celecoxib, a selective cyclooxygenase-2 inhibitor for the treatment of rheumatoid arthritis and osteoarthritis.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are among the most frequently prescribed drugs, despite their well-established association with gastroduodenal injury. Recent discovery of the cyclooxygenase (COX) isoenzymes COX-1 and COX-2 has improved our knowledge of the action of NSAIDs. COX-1 is continuously expressed in almost all tissues, where it converts arachidonate to the prostaglandins (PGs) important in homeostatic function; COX-2 is present in immune cells, blood vessel endothelial cells, and synovial fibroblasts. Classic NSAIDs inhibit both COX isoenzymes by occupying the cyclooxygenase-active site, preventing access by arachidonic acid. In theory, a drug such as celecoxib that selectively inhibited COX-2 might block inflammation, pain, and fever while reducing the side effects (gastric erosions and ulcers) associated with inhibition of COX-1. In animal models of inflammation and pain, celecoxib has shown marked suppression of PG production and inflammation compared with ind",
+        "journal": "Clinical therapeutics",
+        "year": "1999",
+        "authors": [
+          "Goldenberg M M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Cyclooxygenase Inhibitors",
+          "Humans",
+          "Isoenzymes",
+          "Membrane Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10509845/"
+      },
+      {
+        "pmid": "15899051",
+        "title": "Tolerability and adverse events in clinical trials of celecoxib in osteoarthritis and rheumatoid arthritis: systematic review and meta-analysis of information from company clinical trial reports.",
+        "abstract": "The objective was to improve understanding of adverse events occurring with celecoxib in the treatment of osteoarthritis and rheumatoid arthritis. Data were extracted from company clinical trial reports of randomised trials of celecoxib in osteoarthritis or rheumatoid arthritis lasting 2 weeks or more. Outcomes were discontinuations (all cause, lack of efficacy, adverse event, gastrointestinal adverse event), endoscopically detected ulcers, gastrointestinal or cardio-renal events, and major changes in haematological parameters. The main comparisons were celecoxib (all doses) versus placebo, paracetamol (acetaminophen) 4,000 mg daily, rofecoxib 25 mg daily, or nonsteroidal anti-inflammatory drugs (NSAIDs) (naproxen, diclofenac, ibuprofen, and loxoprofen). For NSAIDs, celecoxib was compared both at all doses and at licensed doses (200 to 400 mg daily). Thirty-one trials included 39,605 randomised patients. Most patients had osteoarthritis and were women of average age 60 years or above. ",
+        "journal": "Arthritis research & therapy",
+        "year": "2005",
+        "authors": [
+          "Moore R Andrew",
+          "Derry Sheena",
+          "Makinson Geoffrey T",
+          "McQuay Henry J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Drug Industry",
+          "Drug Tolerance",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15899051/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:12:30.484963",
+  "success": true,
+  "error_message": null
+}

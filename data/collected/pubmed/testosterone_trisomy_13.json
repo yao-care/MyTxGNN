@@ -1,0 +1,36 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "trisomy 13",
+    "query_string": "Testosterone AND trisomy 13"
+  },
+  "data": {
+    "query": "Testosterone AND trisomy 13",
+    "results": [
+      {
+        "pmid": "24251138",
+        "title": "Tale of two rare diseases.",
+        "abstract": "Idiopathic Hypogonadotropic hypogonadism (IHH) phenotype is variable &various genes have been decribed in association with IHH. We describe association of IHH with mosaic trisomy 13. A 20 year old male presented with lack of development of secondary sexual characters, normal height, micropenis, small testes, gynaecomastia, absence of axillary and pubic hairs, hyposmia, synkinesis, bilateral horizontal nystagmus and high arched palate. Investigations showed low gonadotropin, low total testosterone, LH after stimulation with 100 mcg tryptorelin sc was 11.42 mU/mL at 40 min. MRI of hypothalamo-pituitary region showed normal olfactory bulb and tract but shallow olfactory sulcus. Karyotype showed homologous Robertsonian translocation of chromosome 13. This case fits classical IHH except for LH rise on stimulation. Features of Patau syndrome which is associated with trisomy 13 are absent in our case. Mosaic trisomy 13, which can otherwise be rare incidental finding, has not been described in",
+        "journal": "Indian journal of endocrinology and metabolism",
+        "year": "2013",
+        "authors": [
+          "Shukla Ravindra",
+          "Basu Asish Kumar",
+          "Mandal Biplab",
+          "Mukhopadhyay Pradip",
+          "Maity Animesh"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24251138/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:27:05.995418",
+  "success": true,
+  "error_message": null
+}

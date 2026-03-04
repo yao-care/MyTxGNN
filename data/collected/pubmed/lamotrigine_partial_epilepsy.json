@@ -1,0 +1,596 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lamotrigine",
+    "disease": "partial epilepsy",
+    "query_string": "Lamotrigine AND partial epilepsy"
+  },
+  "data": {
+    "query": "Lamotrigine AND partial epilepsy",
+    "results": [
+      {
+        "pmid": "35380580",
+        "title": "Antiseizure Medications for Adults With Epilepsy: A Review.",
+        "abstract": "Epilepsy affects approximately 65 million people worldwide. Persistent seizures are associated with a 20% to 40% risk of bodily injuries (eg, fractures, burns, concussions) over 12-month follow-up. The primary goal of epilepsy treatment is to eliminate seizures while minimizing adverse effects of antiseizure drugs (ASDs).",
+        "journal": "JAMA",
+        "year": "2022",
+        "authors": [
+          "Kanner Andres M",
+          "Bicchi Manuel Melo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Epileptic Syndromes",
+          "Humans",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35380580/"
+      },
+      {
+        "pmid": "34296824",
+        "title": "Neuropharmacology of Antiseizure Drugs.",
+        "abstract": "Antiseizure drugs (ASDs) are the primary therapy for epilepsy, with more than 20 drugs introduced into clinical practice to date. These drugs are typically grouped by their mechanisms of action and therapeutic spectrum. This article aims to educate non-neurologists and medical students about the new frontiers in the pharmacology of ASDs and presents the current state of the literature on the efficacy and tolerability of these agents.",
+        "journal": "Neuropsychopharmacology reports",
+        "year": "2021",
+        "authors": [
+          "Hakami Tahir"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Neuropharmacology",
+          "Pharmaceutical Preparations",
+          "Seizures",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34296824/"
+      },
+      {
+        "pmid": "33838757",
+        "title": "The SANAD II study of the effectiveness and cost-effectiveness of levetiracetam, zonisamide, or lamotrigine for newly diagnosed focal epilepsy: an open-label, non-inferiority, multicentre, phase 4, randomised controlled trial.",
+        "abstract": "Levetiracetam and zonisamide are licensed as monotherapy for patients with focal epilepsy, but there is uncertainty as to whether they should be recommended as first-line treatments because of insufficient evidence of clinical effectiveness and cost-effectiveness. We aimed to assess the long-term clinical effectiveness and cost-effectiveness of levetiracetam and zonisamide compared with lamotrigine in people with newly diagnosed focal epilepsy.",
+        "journal": "Lancet (London, England)",
+        "year": "2021",
+        "authors": [
+          "Marson Anthony",
+          "Burnside Girvan",
+          "Appleton Richard",
+          "Smith Dave",
+          "Leach John Paul"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Child",
+          "Cost-Benefit Analysis",
+          "Epilepsies, Partial",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33838757/"
+      },
+      {
+        "pmid": "34931602",
+        "title": "Lamotrigine versus levetiracetam or zonisamide for focal epilepsy and valproate versus levetiracetam for generalised and unclassified epilepsy: two SANAD II non-inferiority RCTs.",
+        "abstract": "Levetiracetam (Keppra®, UCB Pharma Ltd, Slough, UK) and zonisamide (Zonegran®, Eisai Co. Ltd, Tokyo, Japan) are licensed as monotherapy for focal epilepsy, and levetiracetam is increasingly used as a first-line treatment for generalised epilepsy, particularly for women of childbearing age. However, there is uncertainty as to whether or not they should be recommended as first-line treatments owing to a lack of evidence of clinical effectiveness and cost-effectiveness.",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2021",
+        "authors": [
+          "Marson Anthony G",
+          "Burnside Girvan",
+          "Appleton Richard",
+          "Smith Dave",
+          "Leach John Paul"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Pragmatic Clinical Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Cost-Benefit Analysis",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Lamotrigine",
+          "Levetiracetam",
+          "Quality of Life",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34931602/"
+      },
+      {
+        "pmid": "21549021",
+        "title": "Epilepsy (partial).",
+        "abstract": "About 3% of people will be diagnosed with epilepsy during their lifetime, but about 70% of people with epilepsy eventually go into remission.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "Maguire Melissa",
+          "Marson Anthony G",
+          "Ramaratnam Sridharan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Humans",
+          "Phenytoin",
+          "Vigabatrin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21549021/"
+      },
+      {
+        "pmid": "21429248",
+        "title": "Epilepsy (partial).",
+        "abstract": "About 3% of people will be diagnosed with epilepsy during their lifetime, but about 70% of people with epilepsy eventually go into remission.",
+        "journal": "BMJ clinical evidence",
+        "year": "2010",
+        "authors": [
+          "Maguire Melissa",
+          "Marson Anthony G",
+          "Ramaratnam Sridharan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Clinical Trials as Topic",
+          "Cost-Benefit Analysis",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Humans",
+          "Phenytoin",
+          "Vigabatrin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21429248/"
+      },
+      {
+        "pmid": "29898971",
+        "title": "Practice guideline update summary: Efficacy and tolerability of the new antiepileptic drugs I: Treatment of new-onset epilepsy: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Epilepsy Society.",
+        "abstract": "To update the 2004 American Academy of Neurology (AAN) guideline for treating new-onset focal or generalized epilepsy with second- and third-generation antiepileptic drugs (AEDs).",
+        "journal": "Neurology",
+        "year": "2018",
+        "authors": [
+          "Kanner Andres M",
+          "Ashman Eric",
+          "Gloss David",
+          "Harden Cynthia",
+          "Bourgeois Blaise"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Child",
+          "Epilepsies, Partial",
+          "Epilepsy, Absence",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29898971/"
+      },
+      {
+        "pmid": "27329345",
+        "title": "Lamotrigine add-on for drug-resistant partial epilepsy.",
+        "abstract": "This is an updated version of the Cochrane review published in The Cochrane Library 2010, Issue 1.Epilepsy is a common neurological disorder, affecting almost 0.5% to 1% of the population. For nearly 30% of these people, their epilepsy is refractory to currently available drugs. Pharmacological treatment remains the first choice to control epilepsy. Lamotrigine is one of the newer antiepileptic drugs and is the topic of this review. Lamotrigine in combination with other antiepileptic drugs (add-on) can reduce seizures, but with some adverse effects. The aim of this systematic review was to overview the current evidence for the efficacy and tolerability of lamotrigine when used as an adjunctive treatment for people with refractory partial epilepsy.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2016",
+        "authors": [
+          "Ramaratnam Sridharan",
+          "Panebianco Mariangela",
+          "Marson Anthony G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Child",
+          "Cognition",
+          "Cross-Over Studies",
+          "Drug Resistance",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Humans",
+          "Lamotrigine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27329345/"
+      },
+      {
+        "pmid": "35363878",
+        "title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis of individual participant data.",
+        "abstract": "This is an updated version of the original Cochrane Review published in 2017. Epilepsy is a common neurological condition with a worldwide prevalence of around 1%. Approximately 60% to 70% of people with epilepsy will achieve a longer-term remission from seizures, and most achieve that remission shortly after starting antiepileptic drug treatment. Most people with epilepsy are treated with a single antiepileptic drug (monotherapy) and current guidelines from the National Institute for Health and Care Excellence (NICE) in the United Kingdom for adults and children recommend carbamazepine or lamotrigine as first-line treatment for focal onset seizures and sodium valproate for generalised onset seizures; however, a range of other antiepileptic drug (AED) treatments are available, and evidence is needed regarding their comparative effectiveness in order to inform treatment choices.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Nevitt Sarah J",
+          "Sudell Maria",
+          "Cividini Sofia",
+          "Marson Anthony G",
+          "Tudur Smith Catrin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Anticonvulsants",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Phenytoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35363878/"
+      },
+      {
+        "pmid": "8795122",
+        "title": "A cost minimization study comparing vigabatrin, lamotrigine and gabapentin for the treatment of intractable partial epilepsy.",
+        "abstract": "Epilepsy is one of the commonest of the serious neurological disorders. The total economic burden of epilepsy in the United Kingdom has been estimated to be 1930 m pounds, with around 32 m pounds spent on antiepileptic drug therapy alone. Despite the high level of expenditure on drug therapy for epilepsy there is very little information regarding the relative cost-effectiveness of the different drugs available. It is important to establish the relative cost-effectiveness of therapies to provide decision makers with the information necessary to allocate resources in a rational manner and thus achieve the highest benefit for available resources. In this study the cost-effectiveness of lamotrigine, vigabatrin and gabapentin was estimated by a cost minimization analysis for the first year of drug therapy using data based on published studies. In general, there was little difference between the initial direct costs of treatment, however, the fewer side-effects associated with gabapentin is ",
+        "journal": "Seizure",
+        "year": "1996",
+        "authors": [
+          "Hughes D",
+          "Cockerell O C"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Amines",
+          "Anticonvulsants",
+          "Cost Control",
+          "Cyclohexanecarboxylic Acids",
+          "Epilepsies, Partial",
+          "Gabapentin",
+          "Humans",
+          "Lamotrigine",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8795122/"
+      },
+      {
+        "pmid": "19445769",
+        "title": "Epilepsy.",
+        "abstract": "About 3% of people will be diagnosed with epilepsy during their lifetime, but about 70% of people with epilepsy eventually go into remission.",
+        "journal": "BMJ clinical evidence",
+        "year": "2009",
+        "authors": [
+          "Marson Anthony G",
+          "Maguire Melissa",
+          "Ramaratnam Sridharan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Clinical Trials as Topic",
+          "Cost-Benefit Analysis",
+          "Drug Resistant Epilepsy",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445769/"
+      },
+      {
+        "pmid": "12562315",
+        "title": "Review of lamotrigine and its clinical applications in epilepsy.",
+        "abstract": "Lamotrigine is an anti-epileptic agent with broad efficacy. Lamotrigine works at voltage-sensitive sodium channels, thereby stabilising the neuronal membrane and inhibiting the release of excitatory neurotransmitters such as glutamate and aspartate. Early preclinical animal studies indicate its broad-spectrum efficacy, which was later confirmed in clinical trials. Multiple randomised, placebo-controlled and comparative trials demonstrate its efficacy against partial and secondarily generalised seizures. Open-label trials show its efficacy against generalised seizures, especially absence seizures of childhood absence epilepsy and generalised seizures of juvenile myoclonic epilepsy. Lamotrigine has a wide clinical dose range and possesses favourable pharmacokinetic properties. It has a good tolerability and safety profile, which enhance compliance. Its small risk of serious skin rash should be weighed against its potential benefits when choosing lamotrigine on an individual basis. Lamotr",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2003",
+        "authors": [
+          "Choi Hyunmi",
+          "Morrell Martha J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abnormalities, Drug-Induced",
+          "Animals",
+          "Anticonvulsants",
+          "Child",
+          "Dose-Response Relationship, Drug",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12562315/"
+      },
+      {
+        "pmid": "11687001",
+        "title": "Lamotrigine add-on for drug-resistant partial epilepsy.",
+        "abstract": "Epilepsy is a common neurological disorder, affecting almost 0.5 to 1% of the population. Nearly 30% of patients with epilepsy are refractory to currently available drugs. Lamotrigine is one of the newer antiepileptic drugs and is the topic of this review.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2001",
+        "authors": [
+          "Ramaratnam S",
+          "Marson A G",
+          "Baker G A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Cognition",
+          "Cross-Over Studies",
+          "Drug Resistance",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Humans",
+          "Lamotrigine",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11687001/"
+      },
+      {
+        "pmid": "10908514",
+        "title": "Lamotrigine add-on for drug-resistant partial epilepsy.",
+        "abstract": "Epilepsy is a common neurological disorder, affecting almost 0.5 to 1% of the population. Nearly 30% of patients with epilepsy are refractory to currently available drugs. Lamotrigine is one of the newer antiepileptic drugs and is the topic of this review.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2000",
+        "authors": [
+          "Ramaratnam S",
+          "Marson A G",
+          "Baker G A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Cognition",
+          "Cross-Over Studies",
+          "Drug Resistance",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Humans",
+          "Lamotrigine",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10908514/"
+      },
+      {
+        "pmid": "23036173",
+        "title": "Lamotrigine in epilepsy, pregnancy and psychiatry--a drug for all seasons?",
+        "abstract": "Lamotrigine has been demonstrated to be effective as both an antiepileptic drug and a mood stabiliser. For epilepsy it is less efficacious than valproate in primary generalised epilepsy, but it is comparable to some traditional drugs in partial epilepsy. In psychiatry it has significant advantages over other mood stabilisers for the treatment and prevention of depressive phases of bipolar illness, but not for the treatment of mania. It has a more benign adverse effect profile than older antiepileptic agents and is not a proven teratogen. Risk of adverse reactions is reduced by commencing treatment at a markedly reduced dose that is gradually increased.",
+        "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+        "year": "2013",
+        "authors": [
+          "Vajda Frank J E",
+          "Dodd Seetal",
+          "Horgan David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abnormalities, Drug-Induced",
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Mood Disorders",
+          "Pregnancy",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23036173/"
+      },
+      {
+        "pmid": "33993416",
+        "title": "Pharmacology of Cenobamate: Mechanism of Action, Pharmacokinetics, Drug-Drug Interactions and Tolerability.",
+        "abstract": "Cenobamate is one of the latest antiseizure medications (ASMs) developed for the treatment of focal onset seizures in adult patients. The recommended starting dose is 12.5 mg/day, titrated gradually to the target daily dose of 200 mg, which may be increased to a maximum of 400 mg/day based on clinical response. Although the high rate of seizure freedom observed in randomized, placebo-controlled clinical trials has resulted in exciting expectations, further clinical studies are needed to better define its clinical profile. Cenobamate is characterized by a peculiar pharmacology regarding both pharmacodynamics and pharmacokinetics. The mechanism of action has only partly been described, with the drug acting on voltage-gated sodium channels through a pronounced action on persistent rather than transient currents. Cenobamate also acts as a positive allosteric modulator of GABAA receptors independently from the benzodiazepine binding site. The bioavailability of cenobamate is not influenced ",
+        "journal": "CNS drugs",
+        "year": "2021",
+        "authors": [
+          "Roberti Roberta",
+          "De Caro Carmen",
+          "Iannone Luigi Francesco",
+          "Zaccara Gaetano",
+          "Lattanzi Simona"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Animals",
+          "Anticonvulsants",
+          "Biological Availability",
+          "Carbamates",
+          "Chlorophenols",
+          "Dose-Response Relationship, Drug",
+          "Drug Interactions",
+          "Epilepsies, Partial",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33993416/"
+      },
+      {
+        "pmid": "39948216",
+        "title": "Adjunctive treatment for pediatric focal epilepsy: a systematic review.",
+        "abstract": "We aim to use a network meta-analysis to evaluate the efficacy and safety of antiseizure medications and provide a theoretical basis for rational drug use for children and adolescents in adjunctive treatment.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "2025",
+        "authors": [
+          "Wang Siru",
+          "Sun Hu",
+          "Wang Zhaoxuan",
+          "Sun Chunxiao",
+          "Zhang Xiaolu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Anticonvulsants",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39948216/"
+      },
+      {
+        "pmid": "17144777",
+        "title": "Lamotrigine and its applications in the treatment of epilepsy and other neurological and psychiatric disorders.",
+        "abstract": "Lamotrigine is a broad-spectrum antiepileptic drug, initially approved in 1994 for the adjunctive treatment of partial seizures in adults and for the generalized seizures of Lennox-Gastaut syndrome in pediatric (>2 years old) and adult populations. Its role in the treatment of bipolar disorder type I has also been well established. In addition, lamotrigine has been successfully used for the management of other neurological conditions such as migraines and neuropathic pain, and preliminary data show promising results. It has favorable pharmacokinetic properties and is generally well tolerated. The small risk of serious skin rash can be minimized with slow titration of the drug and dose adjustment with concomitant medications. Lamotrigine has demonstrated particular benefit in the treatment of women and elderly patients with epilepsy.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2006",
+        "authors": [
+          "Malik Sheetal",
+          "Arif Hiba",
+          "Hirsch Lawrence J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antimanic Agents",
+          "Dose-Response Relationship, Drug",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Mental Disorders",
+          "Nervous System Diseases",
+          "Neuroprotective Agents",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17144777/"
+      },
+      {
+        "pmid": "8536554",
+        "title": "Lamotrigine. An update of its pharmacology and therapeutic use in epilepsy.",
+        "abstract": "Lamotrigine is an antiepileptic agent which blocks voltage-dependent sodium channels, thereby preventing excitatory neurotransmitter release. Clinical evidence indicates that lamotrigine is effective against partial and secondarily generalised tonic-clonic seizures, as well as idiopathic (primary) generalised epilepsy. As monotherapy, lamotrigine 100 to 300 mg/day has similar medium term (30 to 48 weeks) efficacy to carbamazepine 300 to 1400 mg/day and phenytoin 300 mg/day against partial onset seizures and idiopathic generalised tonic-clonic seizures in adults with newly diagnosed epilepsy, and appears to be better tolerated than the older agents. As adjunctive therapy, lamotrigine (50 to 500 mg/day) has shown efficacy in short term ( < or = 6-months) placebo-controlled studies in adults with refractory partial epilepsy, reducing total seizure frequency (by < or = 60%) and producing improvement ( > or = 50% reduction in seizure frequency) in < or = 67% of patients. Both simple and com",
+        "journal": "Drugs",
+        "year": "1995",
+        "authors": [
+          "Fitton A",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Child",
+          "Child, Preschool",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8536554/"
+      },
+      {
+        "pmid": "8784217",
+        "title": "Lamotrigine.",
+        "abstract": "Lamotrigine (LTG) is a novel antiepileptic drug (AED) with a spectrum of activity in animal models of epilepsy similar to that of phenytoin and carbamazepine. In some models it appears to have a broader spectrum and better tolerability than these agents, however. One mechanism of action of LTG is the marked inhibition of release of the excitatory neurotransmitters glutamate and aspartate under conditions of sustained repetitive firing. LTG appears to do this by blocking voltage-sensitive sodium channels and has no direct effect on N-methyl-D-aspartate (NMDA) receptors. In clinical trials as add-on therapy in medically refractory partial seizure patients, LTG has consistently produced a 50% reduction in seizure frequency in 25-34% of subjects. LTG is well tolerated, even in the add-on situation. In part, this appears to be related to positive behavioral effects. Desirable pharmacologic properties of LTG include low protein binding (55%), an absence of enzyme induction, and linear pharma",
+        "journal": "Epilepsia",
+        "year": "1995",
+        "authors": [
+          "Messenheimer J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Clinical Trials as Topic",
+          "Disease Models, Animal",
+          "Drug Administration Schedule",
+          "Drug Eruptions",
+          "Drug Interactions",
+          "Drug Monitoring",
+          "Epilepsy",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8784217/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:04:13.415791",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,608 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "gastroesophageal reflux disease",
+    "query_string": "Magnesium Trisilicate AND gastroesophageal reflux disease"
+  },
+  "data": {
+    "query": "Magnesium Trisilicate AND gastroesophageal reflux disease",
+    "results": [
+      {
+        "pmid": "24355558",
+        "title": "[Update on gastroesophageal reflux disease].",
+        "abstract": "Gastroesophageal reflux disease is a highly frequent disorder classically characterized by the presence of heartburn and/or acid regurgitation that improves with drug therapy that reduces acid content in the stomach. However, especially in patients with non-erosive disease, response to proton pump inhibitors is unsatisfactory in approximately 1 out of 3 patients, and consequently, in these patients, it is important to establish a definitive diagnosis and an alternative therapeutic strategy. In the last few years, advances have been made in knowledge of the physiopathology of reflux, such as identification of the role of the acid pocket in producing reflux, technological advances that allow differentiation among acid reflux, non-acid reflux and slightly acid reflux, and advances in the treatment of reflux with drugs that attempt to act on the barrier function of the esophagogastric junction.",
+        "journal": "Gastroenterologia y hepatologia",
+        "year": "2014",
+        "authors": [
+          "Serra Pueyo Jordi"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Comorbidity",
+          "Drug Combinations",
+          "Electric Impedance",
+          "Esophageal pH Monitoring",
+          "Esophagogastric Junction",
+          "Fundoplication",
+          "Gastric Emptying"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24355558/"
+      },
+      {
+        "pmid": "27622897",
+        "title": "Alginate antacid (Gaviscon DA) chewable tablets reduce esophageal acid exposure in Chinese patients with gastroesophageal reflux disease and heartburn symptoms.",
+        "abstract": "To assess the efficacy of Gaviscon Double Action (DA) alginate antacid chewable tablets for reducing esophageal acid exposure in Chinese patients with gastroesophageal reflux disease (GERD).",
+        "journal": "Journal of digestive diseases",
+        "year": "2016",
+        "authors": [
+          "Yuan Yao Zong",
+          "Fang Jing Yuan",
+          "Zou Duo Wu",
+          "Levinson Nigel",
+          "Jenner Bartosz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Asian People",
+          "Cross-Over Studies",
+          "Drug Combinations",
+          "Esophageal pH Monitoring",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27622897/"
+      },
+      {
+        "pmid": "26228097",
+        "title": "Randomised clinical trial: the clinical efficacy and safety of an alginate-antacid (Gaviscon Double Action) versus placebo, for decreasing upper gastrointestinal symptoms in symptomatic gastroesophageal reflux disease (GERD) in China.",
+        "abstract": "There is a paucity of large-scale studies evaluating the clinical benefit of the Gaviscon Double Action (DA) alginate-antacid formulation for treating gastroesophageal reflux disease (GERD) symptoms.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2015",
+        "authors": [
+          "Sun J",
+          "Yang C",
+          "Zhao H",
+          "Zheng P",
+          "Wilkinson J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Retracted Publication"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "China",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26228097/"
+      },
+      {
+        "pmid": "7418989",
+        "title": "Gastroesophageal scintigraphy.",
+        "abstract": "The technique of gastroesophageal scintigraphy was developed in order to quantitatively detect reflux from the stomach into the esophagus. The scintigraphic technique was compared to previous diagnostic tests including barium esophagography, fluoroscopy, endoscopy, esophageal biopsy, the acid perfusion test, esophageal manometry, and the acid reflux test. None of the other techniques is as sensitive as gastroesophageal scintigraphy for the detection of reflux, in comparison to the acid reflux test. Gastroesophageal scintigraphy is able to detect gastroesophageal reflux accurately, rapidly, noninvasively, and more sensitively than other diagnostic techniques. In addition, it is able to be employed to quantitate reflux and is suitable for studying the effects of various therapeutic modalities.",
+        "journal": "Gastrointestinal radiology",
+        "year": "1980",
+        "authors": [
+          "Malmud L S",
+          "Fisher R S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bethanechol Compounds",
+          "Bicarbonates",
+          "Drug Combinations",
+          "Esophagogastric Junction",
+          "Esophagus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7418989/"
+      },
+      {
+        "pmid": "40760009",
+        "title": "Comparable efficacy of generic and original alginate for symptom control in PPI-refractory GERD.",
+        "abstract": "Gastroesophageal reflux disease (GERD) is a prevalent global condition, affecting 18.1-27.8% of North Americans and 6.3-18.3% of the Thai population. While proton pump inhibitors (PPIs) are the first-line treatment, only about one-third of patients achieve adequate symptom control. Alginate-based medications in combination with PPIs have shown promise, but the comparative effectiveness of generic versus original alginates remains unexplored. To compare the effectiveness of generic alginate (ONE GERD) versus original alginate (Gaviscon Dual Action Suspension) in combination with PPIs for treating GERD symptoms in patients who failed standard PPI therapy.This multicenter prospective randomized controlled non-inferiority trial included 48 patients who failed standard-dose PPI treatment. Patients were randomized to receive either generic or original alginate four times daily for 28 days. Treatment response was evaluated using the Reflux Disease Questionnaire (RDQ) at days 7 and 28. At day ",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Tangvoraphonkchai Kawin",
+          "Manasirisuk Witsarut",
+          "Apichatvullop Tanya",
+          "Srikhajonjit Supatra",
+          "Mitpracha Manoon"
+        ],
+        "pub_types": [
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Alginates",
+          "Drug Therapy, Combination",
+          "Drugs, Generic",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40760009/"
+      },
+      {
+        "pmid": "2828595",
+        "title": "Gaviscon and gastroesophageal reflux in children.",
+        "abstract": "",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "1987",
+        "authors": [
+          "Buts J P",
+          "Leclercq V"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Bicarbonates",
+          "Child",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Metoclopramide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2828595/"
+      },
+      {
+        "pmid": "32592251",
+        "title": "Editorial: simultaneous prolonged monitoring of the acid pocket and oesophageal reflux.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Katz Philip O",
+          "Castell Donald O"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592251/"
+      },
+      {
+        "pmid": "26693761",
+        "title": "Gaviscon and domperidon responsive apnea episodes associated with gastro-esophageal reflux disease in twins.",
+        "abstract": "The possible pathophysiology of the relationship between gastro-esophageal reflux disease and apnea of prematurity has been widely investigated. Various physiological protective reflex responses provide a plausible biological link between gastro-esophageal reflux and apnea of prematurity. It is uncertain whether or not there is a causal relationship between the two diseases. PATIENT'S FINDINGS: Twins were admitted to the neonatal intensive care unit due to feeding problems. Physical examination was normal except for reticulated, blueviolet skin changes. Short apneic attacks occurred on the first day in twin 1 and on the second day in twin 2, and these were initially treated by stimulation and increased ambient O2 concentration. Then, we conducted methylxanthine and continuous positive airway pressure treatment. Laboratory and radiological analysis were normal. As gastro-esophageal reflux disease was thought to be the causes of the treatment-refractory apnea, therapy with gaviscon and d",
+        "journal": "Asia Pacific journal of clinical nutrition",
+        "year": "2015",
+        "authors": [
+          "Bilgin Huseyin",
+          "Eren Abdulkadir",
+          "Kara Semra"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Antiemetics",
+          "Apnea",
+          "Diseases in Twins",
+          "Domperidone",
+          "Drug Combinations",
+          "Gastroesophageal Reflux",
+          "Gestational Age"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26693761/"
+      },
+      {
+        "pmid": "2877526",
+        "title": "[Therapeutic procedures in gastroesophageal reflux disease].",
+        "abstract": "The medical therapy of reflux esophagitis consists of modifications of the patients's lifestyle and antacids, alginic acid or both (phase I). Phase II medications include drugs that suppress acid/peptic activity (antacid/alginate, H2-receptor blockers, cimetidine, ranitidine, famotidine), drugs that enhance motility (metoclopramide, domperidone) and drugs that coat and increase mucosal protection (sucralfate). Combinations of H2-receptor blockers and motility stimulating drugs have not been very effective. Overall the results of medical therapy of reflux esophagitis are suboptimal.",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "1986",
+        "authors": [
+          "Tytgat G N"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Combined Modality Therapy",
+          "Dilatation",
+          "Domperidone",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2877526/"
+      },
+      {
+        "pmid": "30272584",
+        "title": "Randomized clinical trial: a double-blind, placebo-controlled study to assess the clinical efficacy and safety of alginate-antacid (Gaviscon Double Action) chewable tablets in patients with gastro-oesophageal reflux disease.",
+        "abstract": "The alginate-antacid Gaviscon Double Action (Gaviscon DA) has a combined acid-neutralizing and reflux-suppressing action. Response to treatment in a symptomatic gastro-oesophageal reflux disease (GERD) population has not yet been tested in a large-scale clinical study.",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "2019",
+        "authors": [
+          "Wilkinson Joanne",
+          "Wade Alan",
+          "Thomas S Jane",
+          "Jenner Bartosz",
+          "Hodgkinson Victoria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Europe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30272584/"
+      },
+      {
+        "pmid": "3016226",
+        "title": "The effects of gaviscon and metoclopramide in gastroesophageal reflux in children.",
+        "abstract": "Oral metoclopramide (0.5 mg/kg/24 h) and a liquid alginic acid-antacid compound were administered to infants and children with gastroesophageal reflux (GER) in a double-blind randomized controlled trial. The effect of medication was measured with 24-h intraesophageal pH monitoring. Neither metoclopramide nor the alginic acid-antacid compound decreased the frequency or duration of gastroesophageal reflux.",
+        "journal": "Journal of pediatric gastroenterology and nutrition",
+        "year": "1986",
+        "authors": [
+          "Forbes D",
+          "Hodgson M",
+          "Hill R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3016226/"
+      },
+      {
+        "pmid": "2556175",
+        "title": "Comparative study of Algicon suspension and magnesium trisilicate mixture in the treatment of reflux dyspepsia of pregnancy.",
+        "abstract": "",
+        "journal": "British journal of clinical practice. Supplement",
+        "year": "1989",
+        "authors": [
+          "Lang G D",
+          "Dougall A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Carbonates",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2556175/"
+      },
+      {
+        "pmid": "32592257",
+        "title": "Editorial: simultaneous, prolonged monitoring of the acid pocket and oesophageal reflux. Authors' reply.",
+        "abstract": "",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Ma Zheng Feei",
+          "Deraman Mohd Adli",
+          "Coyle Cathal",
+          "Lee Yeong Yeh"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Obesity",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32592257/"
+      },
+      {
+        "pmid": "11723856",
+        "title": "[Treatment with sodium alginate of gastroesophageal reflux disease in childhood: efficacy and tolerance assessment].",
+        "abstract": "Evaluation of efficacy of sodium alginate (Gaviscon) in the treatment of gastroesophageal reflux disease in children 3-12 months old, assessed by 24 hours esophageal continuous pH monitoring.",
+        "journal": "La Pediatria medica e chirurgica : Medical and surgical pediatrics",
+        "year": "2001",
+        "authors": [
+          "Maestri L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Infant",
+          "Silicic Acid",
+          "Sodium Bicarbonate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11723856/"
+      },
+      {
+        "pmid": "3032640",
+        "title": "Double-blind controlled study on the efficacy of sodium alginate (Gaviscon) in reducing gastroesophageal reflux assessed by 24 h continuous pH monitoring in infants and children.",
+        "abstract": "We studied the effects of an alginate compound (Gaviscon) on the frequency and the duration of gastroesophageal reflux (GOR) episodes in children. Twenty infants and children with characteristic symptoms of GOR were divided at random into two groups which were given either Gaviscon (ten patients, mean age: 21 months) or a placebo (ten patients, mean age: 35 months). A continuous pH probe monitoring of the lower oesophageal third was performed in all the patients before and after 8 days of treatment. Before the trial, sensitive pH monitoring variables of acid reflux (Euler-Byrne index, percentage of total reflux time per 24 h, mean duration and percentage of reflux time during sleep, total number of reflux episodes per 24 h and number of reflux episodes per 2 h post-cibal periods) were abnormal in all the patients tested. The oesophagram revealed a GOR in 13 of the 20 patients; none of the children who underwent an endoscopy had evidence of oesophagitis. Episodes of regurgitation report",
+        "journal": "European journal of pediatrics",
+        "year": "1987",
+        "authors": [
+          "Buts J P",
+          "Barudi C",
+          "Otte J B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3032640/"
+      },
+      {
+        "pmid": "2129648",
+        "title": "In-vivo anti-reflux and raft properties of alginates.",
+        "abstract": "The comparative efficacy of two alginate-containing anti-reflux preparations (Gaviscon, Algicon) was assessed in a single blind crossover study of 20 patients with gastro-oesophageal reflux disease. The clinical efficacy study was preceded by two studies in healthy volunteers to assess the intragastric effects of Algicon and Gaviscon by pH measurement, endoscopic visualization and gamma scintigraphy. Algicon and Gaviscon were shown to form a raft in the fasting and fed human stomach, with Algicon alone having a potent antacid effect below and within the raft. Both Algicon and Gaviscon liquids significantly reduced the frequency and severity of reflux symptoms from baseline when given at their recommended doses (10 ml and 20 ml four times daily, respectively). There were no significant differences between Algicon and Gaviscon, although 12 patients preferred Algicon (vs 5 for Gaviscon) for control of reflux symptoms. It was concluded that both Algicon and Gaviscon were effective for the ",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1990",
+        "authors": [
+          "Lambert J R",
+          "Korman M G",
+          "Nicholson L",
+          "Chan J G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Bicarbonates",
+          "Carbonates",
+          "Drug Combinations",
+          "Endoscopy, Gastrointestinal",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2129648/"
+      },
+      {
+        "pmid": "10848650",
+        "title": "Review article: alginate-raft formulations in the treatment of heartburn and acid reflux.",
+        "abstract": "Alginate-based raft-forming formulations have been marketed word-wide for over 30 years under various brand names, including Gaviscon. They are used for the symptomatic treatment of heartburn and oesophagitis, and appear to act by a unique mechanism which differs from that of traditional antacids. In the presence of gastric acid, alginates precipitate, forming a gel. Alginate-based raft-forming formulations usually contain sodium or potassium bicarbonate; in the presence of gastric acid, the bicarbonate is converted to carbon dioxide which becomes entrapped within the gel precipitate, converting it into a foam which floats on the surface of the gastric contents, much like a raft on water. Both in vitro and in vivo studies have demonstrated that alginate-based rafts can entrap carbon dioxide, as well as antacid components contained in some formulations, thus providing a relatively pH-neutral barrier. Several studies have demonstrated that the alginate raft can preferentially move into t",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2000",
+        "authors": [
+          "Mandel K G",
+          "Daggy B P",
+          "Brodie D A",
+          "Jacoby H I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Carbon Dioxide",
+          "Child",
+          "Cost-Benefit Analysis",
+          "Drug Combinations",
+          "Female",
+          "Gastric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10848650/"
+      },
+      {
+        "pmid": "29956520",
+        "title": "[In process].",
+        "abstract": "",
+        "journal": "Medizinische Monatsschrift fur Pharmazeuten",
+        "year": "2016",
+        "authors": [
+          "Vollmer Helga"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Calcium Carbonate",
+          "Drug Combinations",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Proton Pump Inhibitors",
+          "Silicic Acid",
+          "Sodium Bicarbonate",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29956520/"
+      },
+      {
+        "pmid": "19928006",
+        "title": "[Gastroesophageal reflux disease during pregnancy].",
+        "abstract": "",
+        "journal": "Eksperimental'naia i klinicheskaia gastroenterologiia = Experimental & clinical gastroenterology",
+        "year": "2009",
+        "authors": [
+          "Elokhina T B",
+          "Tiutiunnik V L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications",
+          "Silicic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19928006/"
+      },
+      {
+        "pmid": "28859383",
+        "title": "Effect of alginate in patients with GERD hiatal hernia matters.",
+        "abstract": "Alginate-based formulations are frequently used as add-on proton pump inhibitor (PPI) therapy to help control of heartburn and regurgitation. There are limited data regarding the mechanisms and effects of alginate-based formulations. We aimed to evaluate the effects of the sodium alginate intake and its likely temporal relations on intraesophageal reflux events by MII-pH in patients with and without hiatal hernia (HH). Fifty GERD patients (18 with HH, 32 without HH) with heartburn or regurgitation once a week or more common were included. After combined multichannel intraluminal impedance and pH-metry (MII-pH) had been performed, all patients were asked to eat the same standard meal (double cheeseburger, 1 banana, 100 g regular yoghurt, and 200 mL water with total energy value of 744 kcal: 37.6% of carbohydrates, 21.2% of proteins, and 41.2% of lipids) during two consecutive days. On separate random two consecutive days, all patients took 10 mL of sodium alginate (GA; Gaviscon Advance;",
+        "journal": "Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus",
+        "year": "2017",
+        "authors": [
+          "Vardar R",
+          "Keskin M",
+          "Valitova E",
+          "Bayrakci B",
+          "Yildirim E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Electric Impedance",
+          "Esophageal pH Monitoring",
+          "Female",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28859383/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:55:17.502011",
+  "success": true,
+  "error_message": null
+}

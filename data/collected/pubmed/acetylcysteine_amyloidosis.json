@@ -1,0 +1,423 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "amyloidosis",
+    "query_string": "Acetylcysteine AND amyloidosis"
+  },
+  "data": {
+    "query": "Acetylcysteine AND amyloidosis",
+    "results": [
+      {
+        "pmid": "40163249",
+        "title": "N-Acetylcysteine for Hereditary Cystatin C Amyloid Angiopathy: A Nonrandomized Clinical Trial.",
+        "abstract": "Hereditary cystatin C amyloid angiopathy (HCCAA) is a lethal, dominantly inherited disease primarily affecting Icelandic young adults that leads to severe cerebral amyloid angiopathy, with no effective therapy.",
+        "journal": "JAMA neurology",
+        "year": "2025",
+        "authors": [
+          "Snorradottir Asbjorg Osk",
+          "Gutierrez-Uzquiza Alvaro",
+          "Bragado Paloma",
+          "March Michael E",
+          "Kao Charlly"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Cystatin C",
+          "Acetylcysteine",
+          "Adult",
+          "Middle Aged",
+          "Cerebral Amyloid Angiopathy, Familial",
+          "Biomarkers",
+          "Cerebral Amyloid Angiopathy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40163249/"
+      },
+      {
+        "pmid": "24058721",
+        "title": "Oxidative stress and nucleic acid oxidation in patients with chronic kidney disease.",
+        "abstract": "Patients with chronic kidney disease (CKD) have high cardiovascular mortality and morbidity and a high risk for developing malignancy. Excessive oxidative stress is thought to play a major role in elevating these risks by increasing oxidative nucleic acid damage. Oxidative stress results from an imbalance between reactive oxygen/nitrogen species (RONS) production and antioxidant defense mechanisms and can cause vascular and tissue injuries as well as nucleic acid damage in CKD patients. The increased production of RONS, impaired nonenzymatic or enzymatic antioxidant defense mechanisms, and other risk factors including gene polymorphisms, uremic toxins (indoxyl sulfate), deficiency of arylesterase/paraoxonase, hyperhomocysteinemia, dialysis-associated membrane bioincompatibility, and endotoxin in patients with CKD can inhibit normal cell function by damaging cell lipids, arachidonic acid derivatives, carbohydrates, proteins, amino acids, and nucleic acids. Several clinical biomarkers an",
+        "journal": "Oxidative medicine and cellular longevity",
+        "year": "2013",
+        "authors": [
+          "Sung Chih-Chien",
+          "Hsu Yu-Chuan",
+          "Chen Chun-Chi",
+          "Lin Yuh-Feng",
+          "Wu Chia-Chao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Kidney Failure, Chronic",
+          "NADP",
+          "Nucleic Acids",
+          "Oxidation-Reduction",
+          "Oxidative Stress",
+          "Reactive Nitrogen Species"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24058721/"
+      },
+      {
+        "pmid": "41740872",
+        "title": "Neuroinflammation as a driver of Down syndrome-associated Alzheimer's disease.",
+        "abstract": "Individuals with Down syndrome (DS) face the highest lifetime risk of early-onset Alzheimer's disease (DS-AD). While largely driven by APP triplication, the dementing process is heavily influenced by additional mechanisms as a consequence of both environmental and genetic modifiers. While virtually all adults with DS develop amyloid pathology by mid-life, only a subset progress to symptomatic dementia, implicating modifiers beyond amyloidosis. Increasing evidence identifies chronic neuroinflammation as a central driver of disease trajectory. Neuropathological, multi-omics, and cellular studies demonstrate that immune dysregulation begins prenatally, persists across the lifespan, and converges with oxidative stress, tauopathy, and vascular dysfunction to accelerate neurodegeneration. Peripheral immune abnormalities, including interferon-driven \"interferonopathy\" and comorbidities such as sleep apnea, endocrine disorders and thyroid disease, further amplify central inflammation. Preclini",
+        "journal": "Brain, behavior, and immunity",
+        "year": "2026",
+        "authors": [
+          "Qu Hui-Qi",
+          "Snorradottir Asbjorg Osk",
+          "Gutierrez-Uzquiza Alvaro",
+          "Kao Charlly",
+          "March Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41740872/"
+      },
+      {
+        "pmid": "30012886",
+        "title": "Functional proteasome complex is required for turnover of islet amyloid polypeptide in pancreatic β-cells.",
+        "abstract": "Human islet amyloid polypeptide (hIAPP) is the principal constituent of amyloid deposits and toxic oligomers in the pancreatic islets. Together with hyperglycemia, hIAPP-derived oligomers and aggregates are important culprits in type 2 diabetes mellitus (T2DM). Here, we explored the role of the cell's main proteolytic complex, the proteasome, in hIAPP turnover in normal and stressed β-cells evoked by chronic hyperglycemia. Moderate inhibition (10-35%) of proteasome activity/function in cultured human islets by the proteasome inhibitor lactacystin enhanced intracellular accumulation of hIAPP. Unexpectedly, prolonged (>1 h) and marked (>50%) impairment of proteasome activity/function had a strong inhibitory effect on hIAPP transcription and secretion from normal and stressed β-cells. This negative compensatory feedback mechanism for controlling IAPP turnover was also observed in the lactacystin-treated rat insulinoma β-cell line (INS 832/13), demonstrating the presence of an evolutionari",
+        "journal": "The Journal of biological chemistry",
+        "year": "2018",
+        "authors": [
+          "Chatterjee Bhowmick Diti",
+          "Jeremic Aleksandar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Animals",
+          "Cell Line, Tumor",
+          "Diabetes Mellitus, Type 2",
+          "Down-Regulation",
+          "Hepatocyte Nuclear Factor 3-beta",
+          "Humans",
+          "Insulin-Secreting Cells",
+          "Insulinoma",
+          "Islet Amyloid Polypeptide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30012886/"
+      },
+      {
+        "pmid": "5964862",
+        "title": "Bronchopulmonary lavage. New techniques and observations.",
+        "abstract": "",
+        "journal": "Diseases of the chest",
+        "year": "1966",
+        "authors": [
+          "Ramirez J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Amyloidosis",
+          "Asthma",
+          "Bronchitis",
+          "Bronchospirometry",
+          "Heparin",
+          "Humans",
+          "Intubation, Intratracheal",
+          "Lung Diseases",
+          "Pulmonary Alveolar Proteinosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5964862/"
+      },
+      {
+        "pmid": "39054254",
+        "title": "The historical background of hereditary cystatin C amyloid angiopathy: Genealogical, pathological, and clinical manifestations.",
+        "abstract": "Hereditary cystatin C amyloid angiopathy (HCCAA) is an Icelandic disease that belongs to a disease class called cerebral amyloid angiopathy, a group of heterogenous diseases presenting with aggregation of amyloid complexes and deposition predominantly in the central nervous system. HCCAA is dominantly inherited, caused by L68Q mutation in the cystatin C gene, leading to aggregation of the cystatin C protein. HCCAA is a very progressive and severe disease, with widespread cerebral and parenchymal cystatin C and collagen IV deposition within the central nervous system (CNS) but also in other organs in the body, for example, in the skin. Most L68Q carriers have clinical symptoms characterized by recurrent hemorrhages and dementia, between the age of 20-30 years. If the carriers survive the first hemorrhage, the frequency and severity of the hemorrhages tend to increase, resulting in death at average of 30 years with mean number of major hemorrhages ranging from 3.2 to 3.9 over a 5-year av",
+        "journal": "Brain pathology (Zurich, Switzerland)",
+        "year": "2025",
+        "authors": [
+          "Snorradottir Asbjorg Osk",
+          "Hakonarson Hakon",
+          "Palsdottir Astridur"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Historical Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Cystatin C",
+          "Cerebral Amyloid Angiopathy",
+          "Mutation",
+          "Cerebral Amyloid Angiopathy, Familial",
+          "Collagen Type IV",
+          "History, 20th Century"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39054254/"
+      },
+      {
+        "pmid": "23704321",
+        "title": "Antioxidants inhibit SAA formation and pro-inflammatory cytokine release in a human cell model of alkaptonuria.",
+        "abstract": "Alkaptonuria (AKU) is an ultra-rare autosomal recessive disease that currently lacks an appropriate therapy. Recently we provided experimental evidence that AKU is a secondary serum amyloid A (SAA)-based amyloidosis. The aim of the present work was to evaluate the use of antioxidants to inhibit SAA amyloid and pro-inflammatory cytokine release in AKU.",
+        "journal": "Rheumatology (Oxford, England)",
+        "year": "2013",
+        "authors": [
+          "Spreafico Adriano",
+          "Millucci Lia",
+          "Ghezzi Lorenzo",
+          "Geminiani Michela",
+          "Braconi Daniela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Alkaptonuria",
+          "Antioxidants",
+          "Ascorbic Acid",
+          "Cell Line",
+          "Chondrocytes",
+          "Cytokines",
+          "Humans",
+          "Inflammation",
+          "Lipid Peroxidation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23704321/"
+      },
+      {
+        "pmid": "33758187",
+        "title": "NAC blocks Cystatin C amyloid complex aggregation in a cell system and in skin of HCCAA patients.",
+        "abstract": "Hereditary cystatin C amyloid angiopathy is a dominantly inherited disease caused by a leucine to glutamine variant of human cystatin C (hCC). L68Q-hCC forms amyloid deposits in brain arteries associated with micro-infarcts, leading ultimately to paralysis, dementia and death in young adults. To evaluate the ability of molecules to interfere with aggregation of hCC while informing about cellular toxicity, we generated cells that produce and secrete WT and L68Q-hCC and have detected high-molecular weight complexes formed from the mutant protein. Incubations of either lysate or supernatant containing L68Q-hCC with reducing agents glutathione or N-acetyl-cysteine (NAC) breaks oligomers into monomers. Six L68Q-hCC carriers taking NAC had skin biopsies obtained to determine if hCC deposits were reduced following NAC treatment. Remarkably, ~50-90% reduction of L68Q-hCC staining was observed in five of the treated carriers suggesting that L68Q-hCC is a clinical target for reducing agents.",
+        "journal": "Nature communications",
+        "year": "2021",
+        "authors": [
+          "March Michael E",
+          "Gutierrez-Uzquiza Alvaro",
+          "Snorradottir Asbjorg Osk",
+          "Matsuoka Leticia S",
+          "Balvis Noelia Fonseca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Amyloidogenic Proteins",
+          "Biopsy",
+          "Cerebral Amyloid Angiopathy, Familial",
+          "Cystatin C",
+          "Cystatins",
+          "Gene Expression",
+          "Glutathione",
+          "HEK293 Cells",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33758187/"
+      },
+      {
+        "pmid": "15974925",
+        "title": "Pilot study of the reducing effect on amyloidosis in vivo by three FDA pre-approved drugs via the Alzheimer's APP 5' untranslated region.",
+        "abstract": "A pilot study was conducted employing a well known mouse model for Alzheimer's disease to evaluate the anti-amyloid efficacy of three FDA pre-approved drugs. Paroxetine (SSRI and APP 5'UTR directed lead compound), N-acetyl cysteine (antioxidant), and erythromycin (macrolide antibiotic) were provided to the drinking water of TgCRND8 mice for three months. This report provides data that measured the steady-state levels of amyloid Abeta-40 and Abeta-42 Abeta as pmol Abeta per gram of mouse brain cortex in drug treated and placebo animals. The relative levels of Abeta peptide levels were reduced after exposure of mice to paroxetine (N=5), NAC (N=7), and erythromycin (N=7) relative to matched placebo counterparts. These results demonstrated proof-of concept for a strategy to further screen the APP 5'UTR target to identify novel drugs that exhibit anti-amyloid efficacy in vivo. These data also demonstrated a statistically significant anti-amyloid trend for paroxetine, NAC and erythromycin. T",
+        "journal": "Current Alzheimer research",
+        "year": "2005",
+        "authors": [
+          "Tucker Stephanie",
+          "Ahl Michelle",
+          "Bush Ashley",
+          "Westaway David",
+          "Huang Xudong"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "5' Untranslated Regions",
+          "Acetylcysteine",
+          "Alzheimer Disease",
+          "Amyloid beta-Protein Precursor",
+          "Animals",
+          "Drug Approval",
+          "Drugs, Investigational",
+          "Erythromycin",
+          "Mice",
+          "Mice, Transgenic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15974925/"
+      },
+      {
+        "pmid": "21864514",
+        "title": "d-Ribose glycates β(2)-microglobulin to form aggregates with high cytotoxicity through a ROS-mediated pathway.",
+        "abstract": "β(2)-Microglobulin (β(2)M) modified with advanced glycation end products (AGEs) is a major component of the amyloid deposits in hemodialysis-associated amyloidosis (HAA). However, the effect of glycation on the misfolding and aggregation of β(2)M has not been studied so far. Here we examine the molecular mechanism of aggregate formation of HAA-related ribosylated β(2)M in vitro. We find that the glycating agent d-ribose interacts with human β(2)M to generate AGEs that form aggregates in a time-dependent manner. Ribosylated β(2)M molecules are highly oligomerized compared with unglycated β(2)M, and have granular morphology. Furthermore, such ribosylated β(2)M aggregates show significant cytotoxicity to both human SH-SY5Y neuroblastoma and human foreskin fibroblast FS2 cells and induce intracellular reactive oxygen species (ROS). Presence of the antioxidant N-acetylcysteine (1.0mM) attenuated intracellular ROS and prevented cell death induction in both SH-SY5Y and FS2 cells, indicating t",
+        "journal": "Chemico-biological interactions",
+        "year": "2011",
+        "authors": [
+          "Kong Fan-Lou",
+          "Cheng Wei",
+          "Chen Jie",
+          "Liang Yi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amyloidosis",
+          "Apoptosis",
+          "Cell Line",
+          "Fibroblasts",
+          "Glycation End Products, Advanced",
+          "Humans",
+          "Microscopy, Atomic Force",
+          "Neuroblastoma",
+          "Reactive Oxygen Species",
+          "Ribose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21864514/"
+      },
+      {
+        "pmid": "36454053",
+        "title": "[Did ketogenic diet in past centuries protect against the consequence of the cystatin L68Q mutation in carriers of HCCAA?].",
+        "abstract": "Hereditary cystatin C amyloid angiopathy (HCCAA) is a dominantly inherited disease caused by a mutation (L68Q) in the cystatin C gene, CST3. Mutant cystatin C protein accumulates as amyloid in arterioles in the brain leading to repeated brain hemorrhages and death of young carriers. Recently a possible treatment option was reported for HCCAA carriers involving an oral treatment with N-acetyl-cysteine in order to increase glutathione which was found to dissolve aggregates of mutant cystatin C. An earlier study described how the life span of carriers of the L68Q mutation shortened in the latter half of the 19th century. During the same decades a drastic change occured in the diet in Iceland. In the beginning of the century the diet was simple and low in carbohydrates, which mostly came from milk products. Import of grains and sugar was limited, but increased greatly according to import records. Due to lack of salt, food was preserved in acid whey, but gradually salt replaced whey as mean",
+        "journal": "Laeknabladid",
+        "year": "2022",
+        "authors": [
+          "Palsdottir Astridur",
+          "Snorradottir Asbjorg Osk",
+          "Hakonarson Hakon"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Cystatin C",
+          "Diet, Ketogenic",
+          "Food",
+          "Glutathione",
+          "Mutation",
+          "Cerebral Amyloid Angiopathy, Familial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36454053/"
+      },
+      {
+        "pmid": "11300606",
+        "title": "Scavenger treatment of free radical injury in familial amyloidotic polyneuropathy: a study on Swedish transplanted and non-transplanted patients.",
+        "abstract": "Since oxidative stress has been implicated in amyloid diseases, a study of scavenger treatment of hereditary transthyretin amyloidosis was undertaken on 23 familial amyloidotic polyneuropathy (FAP) patients. Nine patients had undergone a liver transplantation for the disease. Twenty patients completed the 6-month study period of scavenger treatment (vitamin C, 1 g, three times daily, vitamin E, 0.1 g, three times daily and acetylcysteine, 0.2 g three times daily). They were evaluated clinically and by immunohistochemical measurement of hydroxynonenal (HNE), a product of lipid peroxidation, in biopsy specimens. For non-transplanted patients, no improvement was found for HNE in relation to the amyloid content in biopsy specimens, whereas a tendency to a decreased amount was noted for transplanted patients. Clinically, no differences were found for non-transplanted patients, but an increased nutritional status, measured by a modified body mass index (mBMI) was noted for transplanted patie",
+        "journal": "Scandinavian journal of clinical and laboratory investigation",
+        "year": "2001",
+        "authors": [
+          "Suhr O B",
+          "Lång K",
+          "Wikström L",
+          "Anan I",
+          "Ando Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adult",
+          "Aged",
+          "Aldehydes",
+          "Amyloid",
+          "Amyloid Neuropathies",
+          "Ascorbic Acid",
+          "Biopsy",
+          "Body Mass Index",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11300606/"
+      },
+      {
+        "pmid": "8787669",
+        "title": "The receptor for advanced glycation end products (RAGE) is a central mediator of the interaction of AGE-beta2microglobulin with human mononuclear phagocytes via an oxidant-sensitive pathway. Implications for the pathogenesis of dialysis-related amyloidosis.",
+        "abstract": "An important component of amyloid fibrils in dialysis-related amyloidosis is a form of beta2microglobulin modified with advanced glycation end products (AGEs) of the Maillard reaction, known as AGE-beta2M. We demonstrate here that the interaction of AGE-beta2M with mononuclear phagocytes (MPs), cells important in the pathogenesis of the inflammatory arthropathy of dialysis-related amyloidosis, is mediated by the receptor for AGEs, or RAGE. 125I-AGE-beta2M bound to immobilized RAGE or to MPs in a specific, dose-dependent manner (Kd approximately 53.5 and approximately 81.6 nM, respectively), a process inhibited in the presence of RAGE blockade. AGE-beta2M-mediated monocyte chemotaxis was prevented by excess sRAGE or anti-RAGE IgG. Induction of tumor necrosis factor-alpha (TNF) expression by MPs exposed to AGE-beta2M resulted from engagement of RAGE, as appearances of TNF transcripts and TNF antigen release into culture supernatants were prevented by addition of sRAGE, a process mediated",
+        "journal": "The Journal of clinical investigation",
+        "year": "1996",
+        "authors": [
+          "Miyata T",
+          "Hori O",
+          "Zhang J",
+          "Yan S D",
+          "Ferran L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Amyloidosis",
+          "Antigens, CD",
+          "Antigens, Differentiation, Myelomonocytic",
+          "Cell Movement",
+          "Glycation End Products, Advanced",
+          "Humans",
+          "Joint Diseases",
+          "Leukocytes, Mononuclear",
+          "Oxidation-Reduction",
+          "Oxidative Stress"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8787669/"
+      },
+      {
+        "pmid": "15837587",
+        "title": "Endogenous oxidative stress in sporadic Alzheimer's disease neuronal cybrids reduces viability by increasing apoptosis through pro-death signaling pathways and is mimicked by oxidant exposure of control cybrids.",
+        "abstract": "Although oxidative stress and mitochondrial dysfunction have been linked to neurodegenerative diseases such as Alzheimer's disease (AD), it is not fully understood how mitochondrial oxidative stress may induce neuronal death. We used mitochondrial transgenic neuronal cell cybrid models of sporadic AD (SAD) to investigate the effects of endogenously generated reactive oxygen species (ROS) on viability and cell death mechanisms. Compared to control (CTL) cybrids, SAD cybrids have increased accumulation of oxidative stress markers and increased apoptosis that is blocked by N-acetylcysteine (NAC) and zVAD.fmk. SAD cybrids also have increased basal activation of the MAPKs, Akt, and NF-kappa B. NF-kappa B activation and cybrid viability are enhanced by NAC. Inhibiting the activity of the PI3K pathway or NF-kappa B aggravates neuronal death. Exposure of CTL cybrids to H2O2 decreased viability and activated in a NAC-sensitive manner, the same intracellular signaling pathways active under basal",
+        "journal": "Neurobiology of disease",
+        "year": "2005",
+        "authors": [
+          "Onyango Isaac G",
+          "Bennett James P",
+          "Tuttle Jeremy B"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Alzheimer Disease",
+          "Apoptosis",
+          "Cell Death",
+          "Cell Line, Tumor",
+          "Cell Survival",
+          "Cerebral Amyloid Angiopathy",
+          "Humans",
+          "Neurons",
+          "Oxidants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15837587/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:02:16.288524",
+  "success": true,
+  "error_message": null
+}

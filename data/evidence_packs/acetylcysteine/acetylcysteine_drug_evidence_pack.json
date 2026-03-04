@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Acetylcysteine",
+    "drugbank_id": "DB06151"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 33
+  },
+  "indications": [
+    {
+      "disease": "bronchitis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 13,
+      "articles": 18,
+      "phase3": 1,
+      "phase2": 4,
+      "phase4": 5
+    },
+    {
+      "disease": "bronchiectasis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 13,
+      "articles": 19,
+      "phase3": 3,
+      "phase2": 1,
+      "phase4": 3
+    },
+    {
+      "disease": "amyloidosis",
+      "evidence_level": "L3",
+      "recommendation": "Research Question",
+      "trials": 2,
+      "articles": 14,
+      "phase3": 0,
+      "phase2": 1,
+      "phase4": 0
+    },
+    {
+      "disease": "AL amyloidosis",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "cystic fibrosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 17,
+      "articles": 18,
+      "phase3": 2,
+      "phase2": 6,
+      "phase4": 6
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "erythema multiforme",
+    "query_string": "Methylprednisolone AND erythema multiforme"
+  },
+  "data": {
+    "query": "Methylprednisolone AND erythema multiforme",
+    "results": [
+      {
+        "pmid": "26281815",
+        "title": "Erythema Multiforme.",
+        "abstract": "",
+        "journal": "The Journal of emergency medicine",
+        "year": "2015",
+        "authors": [
+          "Stoopler Eric T",
+          "Houston Alicia M",
+          "Chmieliauskaite Milda",
+          "Sollecito Thomas P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Anesthetics, Local",
+          "Antiviral Agents",
+          "Diagnosis, Differential",
+          "Drug Therapy, Combination",
+          "Erythema Multiforme",
+          "Female",
+          "Glucocorticoids",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26281815/"
+      },
+      {
+        "pmid": "35274741",
+        "title": "Systemic interventions for treatment of Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome.",
+        "abstract": "Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and SJS/TEN overlap syndrome are rare, severe cutaneous adverse reactions usually triggered by medications. In addition to tertiary-level supportive care, various systemic therapies have been used including glucocorticoids, intravenous immunoglobulins (IVIGs), cyclosporin, N-acetylcysteine, thalidomide, infliximab, etanercept, and plasmapheresis. There is an unmet need to understand the efficacy of these interventions.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Jacobsen Audrey",
+          "Olabi Bayanne",
+          "Langley Annie",
+          "Beecker Jennifer",
+          "Mutter Eric"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Autoimmune Diseases",
+          "Child",
+          "Cyclosporine",
+          "Etanercept",
+          "Female",
+          "Humans",
+          "Immunoglobulins, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35274741/"
+      },
+      {
+        "pmid": "37832081",
+        "title": "Sintilimab-induced erythema multiforme drug eruption in the treatment of sigmoid colon cancer: A case report and literature review.",
+        "abstract": "Dermatologic toxicity has been reported as the most common immune-related side effect of programmed cell death 1 inhibitors. Previous reports related to Sintilimab include rash, pruritus, vitiligo, Stevens-Johnson syndrome, toxic epidermal necrolysis, and so on.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Zhang Mei",
+          "Wu Ran",
+          "Jia Min",
+          "Sun Shaoqin",
+          "Zhang Lei"
+        ],
+        "pub_types": [
+          "Review",
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Sigmoid Neoplasms",
+          "Immune Checkpoint Inhibitors",
+          "Erythema Multiforme",
+          "Stevens-Johnson Syndrome",
+          "Exanthema",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37832081/"
+      },
+      {
+        "pmid": "8566721",
+        "title": "Virus induced erythema multiforme and Stevens-Johnson syndrome.",
+        "abstract": "Erythema Multiforme is an acute, self-limited inflammatory cutaneous disorder characterized by distinctive target lesions. Stevens-Johnson syndrome (SJS) is defined as severe erythema multiforme with mucosal involvement, visceral involvement, or both. Both diseases are part of a continuum of immunologically mediated mucocutaneous diseases at various grades of severity. Viral infections are known triggers of these skin disorders. We report the success of a management strategy of acyclovir and prednisone for herpes simplex virus-associated erythema multiforme. In addition we describe the apparent first case of primary varicella infection as a direct cause of SJS. The two cases are presented and a single-case statistical analysis has been employed to evaluate the significance of the management protocol. The method of analysis is presented in the appendix. When a patient with primary varicella infection develops bullous lesions, SJS should be considered in the differential diagnosis, as ea",
+        "journal": "Allergy proceedings : the official journal of regional and state allergy societies",
+        "year": "1995",
+        "authors": [
+          "Choy A C",
+          "Yarnold P R",
+          "Brown J E",
+          "Kayaloglou G T",
+          "Greenberger P A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Chickenpox",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Erythema Multiforme",
+          "Female",
+          "Herpes Simplex",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8566721/"
+      },
+      {
+        "pmid": "38962048",
+        "title": "PD-L1 expression in keratinocyte and infiltration of CD4 + T lymphocyte can predict a severe type of erythema multiforme major induced by the anti-PD-1 antibody, pembrolizumab.",
+        "abstract": "Skin toxicity is the most common adverse event of treatment with immune check point inhibitors. Among them, erythema multiforme is a rare occurrence with a frequency of 4%, with most of the cases developing grade 1/2 disease. We experienced high grade erythema multiforme major developing with pembrolizumab treatment for anal canal cancer with extensive skin metastases. Steroid ointment was ineffective, and the skin lesions with blisters expanded to > 45% of the body surface area. The patient was at risk for symptom aggravation, and a pulse therapy with methylprednisolone and increasing the dose of oral prednisolone (1 mg/kg) were started. The skin lesions improved in 1.8 months. Unless urgent and appropriate treatments such as high dose steroid administration were conducted, the skin toxicities could not be controlled. The presence of CD4+ T cells and PD-L1+ keratinocytes in the skin biopsy might be a predictive marker of erythema multiforme major resistant to standard steroid treatmen",
+        "journal": "International cancer conference journal",
+        "year": "2024",
+        "authors": [
+          "Kadoi Ryohei",
+          "Yoshida Taichi",
+          "Noto Mai",
+          "Toyoshima Aya",
+          "Fujii Sino"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38962048/"
+      },
+      {
+        "pmid": "7919560",
+        "title": "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+        "abstract": "To report a case of erythema multiforme and hypersensitivity myocarditis caused by ampicillin.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1994",
+        "authors": [
+          "Garty B Z",
+          "Offer I",
+          "Livni E",
+          "Danon Y L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Ampicillin",
+          "Drug Hypersensitivity",
+          "Erythema Multiforme",
+          "Heart Failure",
+          "Humans",
+          "Male",
+          "Myocarditis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7919560/"
+      },
+      {
+        "pmid": "16164723",
+        "title": "Lupus erythematosus associated with erythema multiforme: report of two cases and review of the literature.",
+        "abstract": "Rowell's syndrome (RS) is a rare presentation of lupus erythematosus (LE) with erythema multiforme-like lesions associated with antinuclear, anti-La (SS-B)/anti-Ro (SS-A) antibodies and rheumatoid factor (RF) positivity. This syndrome is suggested to be a different variant of cutaneous lupus erythematosus by some authors in literature. Here we present a 64-year-old woman with LE and a 51-year-old woman with LE and Sjögren syndrome (SS) who had erythema multiforme-like eruptions and discuss the coexistence of lupus erythematosus and erythema multiforme.",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2005",
+        "authors": [
+          "Aydogan K",
+          "Karadogan Sk",
+          "Balaban Adim S",
+          "Tunali S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biopsy, Needle",
+          "Drug Therapy, Combination",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Immunohistochemistry",
+          "Lupus Erythematosus, Cutaneous",
+          "Methylprednisolone",
+          "Middle Aged",
+          "Prednisone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16164723/"
+      },
+      {
+        "pmid": "38061709",
+        "title": "Case Report: Erythema Multiforme Induced by Lithium Contact.",
+        "abstract": "Erythema multiforme (EM) is an acute, self-limited mucocutaneous disease with diverse triggering factors, and the recurrences are quite common. A 24-year old male presented with multiple erythematous, itchy papules and plaques on multiple sites. He has worked in a lithium battery factory and experienced the chemical burn 2 weeks ago. A histopathologic examination on right wrist showed a scattered lymphocytic infiltration, vacuolar degeneration, and necrotic keratinocyte. The final diagnosis was EM after occupational lithium exposure. He was treated by oral methylprednisolone and experienced recurrences after returning to the same workplace after remission. Although the precise pathogenesis is unknown, the pathogenesis of EM by lithium is related to the effect of lithium on immune system, different from other etiologies. To our knowledge, our case is the first report of EM following the chemical burn and occupational lithium exposure. We report this as an interesting case of EM.",
+        "journal": "Annals of dermatology",
+        "year": "2023",
+        "authors": [
+          "Kim Jin Cheol",
+          "Kang Seok Young",
+          "Chung Bo Young",
+          "Park Chun Wook",
+          "Kim Hye One"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38061709/"
+      },
+      {
+        "pmid": "37560848",
+        "title": "Antinuclear Antibodies in Erythema Multiforme: Transient Occurrence During Acute Illness.",
+        "abstract": "Children with target lesions are frequently diagnosed with erythema multiforme (EM). EM was not previously thought to be associated with any specific autoimmune serological abnormality.",
+        "journal": "Clinical laboratory",
+        "year": "2023",
+        "authors": [
+          "Liu Chenxi",
+          "Yan Lingyi",
+          "Peng Leiwen",
+          "Li Wensheng",
+          "Liu Xiaoqin"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Female",
+          "Antibodies, Antinuclear",
+          "Acute Disease",
+          "Autoantibodies",
+          "Erythema Multiforme"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37560848/"
+      },
+      {
+        "pmid": "15370708",
+        "title": "1,2-Ethanedithiol-induced erythema multiforme-like contact dermatitis.",
+        "abstract": "Contact dermatitis simulating erythema multiforme can be caused by many allergens. The chemical agent 1,2-ethanedithiol, which serves as a protective group in chemical synthesis, has hitherto only been implicated as an irritant. We report on a 22-year-old female chemistry student who developed widespread erythema multiforme-like lesions after local contact with 1,2-ethanedithiol. Many target lesions were observed bilaterally on her hands, forearms, arms, and on her forehead. One such lesion was histologically compatible with erythema multiforme. The patient had a positive patch test to 1,2-ethanedithiol, whereas none of 30 healthy subjects showed a positive reaction. However, eight of the 30 controls (26.7%) developed irritant reactions to 1,2-ethanedithiol. Cautious handling of the compound is a prudent precaution.",
+        "journal": "Acta dermato-venereologica",
+        "year": "2004",
+        "authors": [
+          "Tjiu Jeng-Wei",
+          "Chu Chia-Yu",
+          "Sun Chee-Ching"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Dermatitis, Contact",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Ethylene Glycol",
+          "Female",
+          "Humans",
+          "Irritants",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15370708/"
+      },
+      {
+        "pmid": "21116869",
+        "title": "It's not Behçet's!",
+        "abstract": "",
+        "journal": "Journal of general internal medicine",
+        "year": "2011",
+        "authors": [
+          "Liu Yen Chen",
+          "Desai Amisha",
+          "Lee Bryan",
+          "Srinivasan Malathi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Behcet Syndrome",
+          "Diagnosis, Differential",
+          "Erythema Multiforme",
+          "Humans",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21116869/"
+      },
+      {
+        "pmid": "12413176",
+        "title": "Stevens-Johnson syndrome: case presentation.",
+        "abstract": "Erythema Multiforme (EM) is a rare mucocutaneous disease with a variety of clinical manifestations. EM it was recognized in the early 1800's, and still the etiology is unknown. It has been recently suggested erythema multiforme (EM) major and Stevens-Johnson Syndrome (SJS) could be separated as two distinct clinical disorders with similar mucosal erosions, but different patterns of cutaneous lesions. In particular SJS should be used for a syndrome characterized by mucous membrane erosions and widespread small blisters that appear on erythematous or purpuric maculae, which are different from classic targets. In SJS mouth, eyes, skin, genitalia and occasionally the esophagus and respiratory track may be affected. Oral lesions may cause severe pain and usually lips may become encrusted. Concerning ocular involvement, if there is conjunctivitis or uveitis this may lead to scarring and blindness. Also, the course of disease and the prognosis are in most cases severe.",
+        "journal": "The Journal of clinical pediatric dentistry",
+        "year": "2002",
+        "authors": [
+          "Donta-Bakoyianni K",
+          "Mitsea A G",
+          "Deodoropoulou-Papadimitriou K"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Clindamycin",
+          "Glucocorticoids",
+          "Humans",
+          "Lip",
+          "Male",
+          "Methylprednisolone Hemisuccinate",
+          "Oral Ulcer",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12413176/"
+      },
+      {
+        "pmid": "21909214",
+        "title": "Neonatal erythema multiforme: a case report.",
+        "abstract": "Erythema multiforme (EM) is an extremely rare condition in infancy. To the best of our knowledge, there have been only three cases of neonatal EM described in the literature, and no such cases have been reported in Korea. A preterm neonate born at 35 weeks and six days of gestation presented with multiple annular erythematous patches with a targetoid shape over his entire body at 36 days of age (corrected age of 7 days). He had no systemic symptoms except for transient mild fever. No triggering factor except for hepatitis B and BCG vaccination was found. Neutropenia was noted upon laboratory analysis. Skin biopsy specimens showed findings suggestive of erythema multiforme. The skin lesions improved rapidly upon administration of intravenous methylprednisolone; however, neutropenia continued for a much longer period. The significance of neutropenia with respect to the development of EM was not clarified. There has been no recurrence of skin lesions over a one-year follow-up period.",
+        "journal": "Annals of dermatology",
+        "year": "2011",
+        "authors": [
+          "Cho Young Joon",
+          "Huh Sun Young",
+          "Hong Jong Soo",
+          "Jung Jae Yoon",
+          "Suh Dae Hun"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21909214/"
+      },
+      {
+        "pmid": "21514868",
+        "title": "[Levofloxacin-related Stevens-Johnson syndrome].",
+        "abstract": "",
+        "journal": "Farmacia hospitalaria : organo oficial de expresion cientifica de la Sociedad Espanola de Farmacia Hospitalaria",
+        "year": "2012",
+        "authors": [
+          "Fernández Arenas O",
+          "López Lunar E",
+          "Gutiérrez García M",
+          "Hidalgo Correas F J",
+          "García Díaz B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Catheter-Related Infections",
+          "Corynebacterium Infections",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Levofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21514868/"
+      },
+      {
+        "pmid": "31351509",
+        "title": "Rowell's Syndrome Triggered by Omeprazole.",
+        "abstract": "Dear Editor, Rowell's syndrome is a rare disease, characterized by the appearance of erythema multiforme (EM)-like lesions in patients with lupus erythematosus. It was initially reported by Rowell (1) in 1963 and its existence as a separate clinical entity is currently under debate (2,3). A few cases may have been induced by drugs such as systemic antimycotics, antibiotics, anticonvulsants, and more recently proton pump inhibitors (PPIs). CASE REPORT We present the case of a 67-year-old woman with subacute cutaneous lupus erythematosus (SCLE) and EM-like lesions who fulfilled all the criteria for Rowell's syndrome. The patient had lupus arthritis for two years and was treated with oral methylprednisolone 8 mg/day and hydroxychloroquine 200 mg/day. She started receiving 20 mg of omeprazole daily for gastroprotection. The patient also had arterial hypertension with no current treatment, osteoporosis, and an L1 vertebral fracture. The dermatological examination revealed multiple erythemat",
+        "journal": "Acta dermatovenerologica Croatica : ADC",
+        "year": "2019",
+        "authors": [
+          "Pozharashka Joana",
+          "Dourmishev Lyubomir",
+          "Balabanova Maria",
+          "Vassileva Snejina",
+          "Miteva Ljubka"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Erythema Multiforme",
+          "Female",
+          "Humans",
+          "Lupus Erythematosus, Cutaneous",
+          "Omeprazole",
+          "Proton Pump Inhibitors",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31351509/"
+      },
+      {
+        "pmid": "11427106",
+        "title": "Erythema multiforme associated with bupropion use.",
+        "abstract": "",
+        "journal": "Archives of internal medicine",
+        "year": "2001",
+        "authors": [
+          "Carrillo-Jimenez R",
+          "Zogby M",
+          "Treadwell T L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antidepressive Agents, Second-Generation",
+          "Bupropion",
+          "Erythema Multiforme",
+          "Follow-Up Studies",
+          "Humans",
+          "Male",
+          "Methylprednisolone",
+          "Risk Assessment",
+          "Smoking Cessation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11427106/"
+      },
+      {
+        "pmid": "12370143",
+        "title": "Dimorphic exanthema manifested as reticular maculopapular exanthema and erythema multiforme major associated with pyrazolon derivatives.",
+        "abstract": "The non-steroidal anti-inflammatory drugs, especially various pyrazole or pyrazolon derivatives, were one of the classes of drugs commonly implicated in erythema multiforme or Stevens-Johnson syndrome/toxic epidermal necrolysis. Reticular exanthem was a rare morphological pattern of maculopapular drug eruptions. Here we report a case of dimorphic exanthema presenting with partly reticular maculopapular exanthema and erythema multiforme-like lesions, associated with pyrazolon derivatives. Patch testing showed negative reaction to the suspected drugs. The possible mechanism underlying the association of dimorphic exanthema with NSAIDs is discussed.",
+        "journal": "European journal of dermatology : EJD",
+        "year": "2002",
+        "authors": [
+          "Chen Wenchieh",
+          "Hsieh Fu-Sen"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Cyproheptadine",
+          "Drug Eruptions",
+          "Drug Therapy, Combination",
+          "Erythema Multiforme",
+          "Exanthema",
+          "Follow-Up Studies",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12370143/"
+      },
+      {
+        "pmid": "9039508",
+        "title": "Corticosteroid treatment of erythema multiforme major (Stevens-Johnson syndrome) in children.",
+        "abstract": "The effectiveness of systemic corticosteroids in erythema multiforme major (EMM) is controversial. We therefore evaluated the efficacy of corticosteroids in the treatment of EMM in a prospective study of 16 children with EMM admitted to our department within 3 days from the onset of rash. Ten patients (group A) received bolus infusions of methylprednisolone (4 mg/kg/day) while six had only supportive treatment (group B). The early use of corticosteroids compared to supportive treatment resulted in: (1) significant reduction of the period of fever (4.0 +/- 1.9 vs 9.5 +/- 4.2 days P = 0.01); (2) reduction of the period of acute eruption (7.0 +/- 3.3 versus 9.8 +/- 3.0 days P = 0.08); and (3) milder signs of prostration. Complications were minimal in both groups.",
+        "journal": "European journal of pediatrics",
+        "year": "1997",
+        "authors": [
+          "Kakourou T",
+          "Klontza D",
+          "Soteropoulou F",
+          "Kattamis C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Male",
+          "Methylprednisolone",
+          "Prospective Studies",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9039508/"
+      },
+      {
+        "pmid": "20407030",
+        "title": "Caspofungin-induced severe toxic epidermal necrolysis.",
+        "abstract": "To report a case of suspected caspofungin-induced toxic epidermal necrolysis (TEN).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2010",
+        "authors": [
+          "Lee Ming-Chia",
+          "Ni Ya-Wen",
+          "Wang Chun-Hua",
+          "Lee Chih-Hsin",
+          "Wu Ta-Wei"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged, 80 and over",
+          "Caspofungin",
+          "Echinocandins",
+          "Fatal Outcome",
+          "Humans",
+          "Hydrocortisone",
+          "Lipopeptides",
+          "Male",
+          "Severity of Illness Index",
+          "Stevens-Johnson Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20407030/"
+      },
+      {
+        "pmid": "40761873",
+        "title": "Case Report: Mycoplasma pneumoniae-induced rash and mucositis in a child.",
+        "abstract": "Mycoplasma pneumoniae (MP) is a common pathogen responsible for pediatric community-acquired pneumonia. MP infection can also induce extrapulmonary manifestations, including mucocutaneous eruptions. Mycoplasma pneumoniae-induced rash and mucositis (MIRM) is a relatively newly described entity distinct from erythema multiforme (EM), Stevens-Johnson syndrome (SJS), and toxic epidermal necrolysis (TEN). However, MIRM remains underrecognized, with limited cases reported in China.",
+        "journal": "Frontiers in medicine",
+        "year": "2025",
+        "authors": [
+          "Mo Xiaoying",
+          "Wang Meihua",
+          "Jiang Xue",
+          "Jin Li"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40761873/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:43:26.821180",
+  "success": true,
+  "error_message": null
+}

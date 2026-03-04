@@ -1,0 +1,492 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "hidradenitis suppurativa"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06058520",
+      "title": "Capsule Microbiota Transplant Therapy for Hidradenitis Suppurativa",
+      "phase": "EARLY_PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2023-10-01",
+      "completion_date": "2026-09-01",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "HS is relatively common in the United States with a prevalence of 0.1-1.0%. 1 HS has a dramatic impact on quality of life, significantly more so than other chronic skin diseases, such as psoriasis or atopic dermatitis (AD). HS also has a large economic impact, due to frequent emergency department and inpatient care utilization, and re-hospitalization rates similar to congestive heart failure. Unfortunately, few treatment options are effective. There are currently three FDA-approved treatments fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Able and willing to provide informed consent\n* English speaking\n* Age \\>= 18years of age\n* Diagnosis of hidradenitis suppurativa by a dermatologist\n* Women who are not post-menopausal (at least 12 months of non-therapy induced amenorrhea) or surgically sterile (e.g. absence of",
+      "endpoints": [
+        "Percent donor engraftment"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT06058520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02739828",
+      "title": "Post Marketing Observational Study to Assess Quality of Life Changes in Swedish Patients With Moderate or Severe Hidradenitis Suppurativa (HS) After 6 Months on Adalimumab Treatment (HOPE Study)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-04-07",
+      "completion_date": "2018-03-28",
+      "country": "Sweden",
+      "enrollment": 24,
+      "brief_summary": "The objective of this study is to assess quality of life (QoL), skin pain, work productivity/activity and health related problems in Swedish patients with moderate to severe HS before and after 6 months treatment with Adalimumab. Participants will be treated in accordance with normal routine clinical care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Hidradenitis Suppurativa\n* Prescribed Adalimumab according to the Summary of Product Characteristics (SmPC)\n* Willingness to sign and date a Patient Information/Informed Consent Form\n\nExclusion Criteria:\n\n* Prior biologic treatment discontinued \\<6 months before t",
+      "endpoints": [
+        "Change From Baseline in DLQI at Week 12"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02739828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04132388",
+      "title": "Hidradenitis Suppurativa Patients' Experience of Treatment With Adalimumab",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2020-08-20",
+      "completion_date": "2022-09-07",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Hidradenitis suppurativa (HS) is a chronic relapsing condition with significant psychosocial impact and morbidity, but that doesn't mean that patients will necessarily be adherent to recommended treatments. Patients, especially those on chronic medication therapy, inevitably miss doses. They use too little or too much therapy. They may take medications too soon or too far apart. While adherence to injection treatments tend to be better than adherence to topical or oral treatment, adherence to in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects ages 18 - 70\n* Diagnosis of HS for which adalimumab is indicated according to the adalimumab prescribing information.\n* All subjects must have a negative TB skin test according to prescribing guidelines.\n* Subjects must be starting adalimumab for the f",
+      "endpoints": [
+        "Number of days between each dose for all subjects",
+        "Number of days between each dose for all subjects",
+        "Percentage of patients who achieve adherence success"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04132388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03221621",
+      "title": "Cost-effectiveness of Adalimumab With Adjuvant Surgery Versus Adalimumab Monotherapy in the Treatment of Hidradenitis Suppurativa'",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-07-31",
+      "completion_date": "2022-07-31",
+      "country": "Netherlands",
+      "enrollment": 128,
+      "brief_summary": "The primary objective of this randomized controlled clinical trial in a real life setting is to evaluate the cost-utility of limumab monotherapy compared with the combination of adalimumab and a maximum of three surgeries after two years of treatment in adult patients with moderate to severe HS.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years.\n* Moderate to (very) severe HS defined as a score of ≥3 points on the PGA (range 1-5) and with a DLQI of at least 11 (range 0-30).\n* Indication for adalimumab: i.e. uncontrolled disease (HS) under conventional therapy and/or minor surgery.\n* A diagnosis of HS fo",
+      "endpoints": [
+        "Cost-utility"
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03221621"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07388446",
+      "title": "Role of Mucosal Associated Invariant T Cells in Hidradenitis Suppurativa",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2027-02-01",
+      "country": "France",
+      "enrollment": 45,
+      "brief_summary": "Hidradenitis Suppurativa (HS) is a chronic, debilitating inflammatory skin disease characterized by painful, purulent lesions primarily in skin folds. Its pathogenesis remains poorly understood. The clinical benefit observed with both antibiotics and immunosuppressive therapies suggests HS may involve an abnormal immune response to skin microbiota.\n\nMucosal-associated invariant T (MAIT) cells are immune cells that bridge innate and adaptive immunity and are known to regulate microbial flora. Dys",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject aged 18 to 65 years (included)\n* Subject able to read, understand and give documented informed consent\n* Subject willing and able to comply with the protocol requirements for the duration of the study\n* Subject with health insurance coverage according to local regulati",
+      "endpoints": [
+        "Frequency of MAIT cells within CD45+ cells in the blood of HS patients"
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT07388446"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04988308",
+      "title": "A Phase 2a/2b, Multicenter, Randomized, Placebo and Active Comparator-controlled, Double-Blind, Dose-ranging Study to Evaluate the Safety and Efficacy of Bermekimab (JNJ-77474462) for the Treatment of Subjects With Moderate to Severe Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2021-10-12",
+      "completion_date": "2022-11-23",
+      "country": "Spain, Germany, Australia, Netherlands, Poland, Canada, Japan, United States",
+      "enrollment": 151,
+      "brief_summary": "The purpose of this study is to evaluate the clinical efficacy of bermekimab in participants with moderate to severe Hidradenitis Suppurativa (HS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have hidradenitis suppurativa (HS) for at least 1 year (365 days) prior to the baseline visit as determined by the investigator through participant interview and/or review of the medical history\n* Have Hurley Stage II or Hurley Stage III HS as determined by the investigator at",
+      "endpoints": [
+        "Part 1: Percentage of Participants Who Achieved Hidradenitis Suppurativa Clinical Response-50 (HiSCR50) at Week 16"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04988308"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07151937",
+      "title": "A Seamless Phase 2a/2b, Randomized, Double-Blind, Placebo- and Active-Controlled, Multiple-Arm, Multiple-Stage, Adaptive Study Evaluating the Efficacy and Safety of LAD191 in Adults With Moderate-to-Severe Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09",
+      "completion_date": "2027-11",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "The main purpose of this study is to assess the efficacy of multiple dosing regimens of LAD191 compared to placebo in participants with moderate-to-severe Hidradenitis Suppurativa (HS) and to access the safety, tolerability, pharmacokinetic and immunogenicity in participants with moderate-to-severe HS.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged greater than or equal to (\\>=) 18 to less than or equal to (\\<=) 65 years.\n* A diagnosis of moderate-to-severe HS defined as a total of \\>= 5 inflammatory lesions (i.e., number of abscesses plus number of inflammatory nodules) at both the Screening and Baseline/Day 1 visi",
+      "endpoints": [
+        "Proportion of Participants Achieving 50 Percent (%) Reduction from Baseline in Hidradenitis Suppurativa Clinical Response (HiSCR-50)"
+      ],
+      "sponsor": "Almirall, S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT07151937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05020730",
+      "title": "A 12-Week Double-Blind, Placebo-Controlled Randomized Phase 2 Trial With a 12-Week Open-Label Extension to Determine the Immunomodulatory Activity of PTM-001 in Patients With Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-05-05",
+      "completion_date": "2024-06",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "Study PTM-001-01 is a 12-week, randomized, placebo controlled, double blind study with a 12 week open-label extension to examine the immunomodulatory activity of PTM-001 in participants with Hidradenitis Suppurativa (HS). Participants will be randomized to receive PTM-001 (400 mg) or matching placebo every day for 12 weeks after which all participants will receive open-label PTM-001 400 mg daily for an additional 12 weeks. Randomization will be stratified by Hurley Stage.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Had onset of symptoms consistent with HS at least 6 months prior to Screening.\n* Has had active HS for at least 2 months.\n* Has ≥ 5 HS abscesses or inflammatory nodules at Screening.\n* Agrees to maintain baseline wound care and antibiotic therapy, including oral antibiotics, f",
+      "endpoints": [
+        "Effect of PTM-001 on IL-1β protein levels in lesional skin biopsies"
+      ],
+      "sponsor": "Phoenicis Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT05020730"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03001115",
+      "title": "Post-Marketing Surveillance of Adalimumab in Korean Hidradenitis Suppurativa Patients Under the \"New-Drug Re-examination",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-03-10",
+      "completion_date": "2019-07-31",
+      "country": "South Korea",
+      "enrollment": 17,
+      "brief_summary": "The objective of this study is to evaluate the safety profile of Adalimumab for Hidradenitis Suppurativa (HS) participants in normal medical practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant who are eligible to be treated with adalimumab for HS in accordance with the approved Korean label\n* Participant must provide written authorization form to use their personal health data prior to the participating in the study.\n\nExclusion Criteria:\n\n* Participant w",
+      "endpoints": [
+        "Assessing adverse events"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT03001115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01468233",
+      "title": "A Phase 3 Multicenter Study of the Safety and Efficacy of Adalimumab in Subjects With Moderate to Severe Hidradenitis Suppurativa - PIONEER II",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-04",
+      "country": "N/A",
+      "enrollment": 326,
+      "brief_summary": "A study to evaluate the safety and efficacy of treatment with adalimumab in adults with moderate to severe hidradenitis suppurativa (HS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults must have a diagnosis of HS for at least 1 year prior to Baseline.\n* HS lesions must be present in at least two distinct anatomical areas, one of which must be at least Hurley Stage II or Hurley Stage III.\n* Subject must have stable HS for at least 60 days prior to Scre",
+      "endpoints": [
+        "Percentage of Participants Achieving Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01468233"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02896920",
+      "title": "Canadian Humira Post Marketing Observational Epidemiological Study : Assessing Humira Real-life Effectiveness and Impact on Hidradenitis Suppurativa (HS) Burden of Illness and Health Care Resources Utilization",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-09-20",
+      "completion_date": "2019-04-29",
+      "country": "Canada",
+      "enrollment": 165,
+      "brief_summary": "This study assesses Humira's® real-life effectiveness in the management of dermatological manifestations of moderate to severe Hidradenitis Suppurativa (HS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has a clinical diagnosis of moderate to severe HS according to the treating physician judgment\n* Need a change in ongoing therapy for any reason, but not limited to inadequate response, intolerance, sub-optimal compliance, or patient preference. Patient will be approached to p",
+      "endpoints": [
+        "Proportion of participants achieving clinical response using the Hidradenitis Suppurativa Clinical Response measure (HiSCR) at week 24"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02896920"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01635764",
+      "title": "A Phase 3, Open-Label Study of the Safety and Efficacy of Adalimumab in Subjects With Moderate to Severe Hidradenitis Suppurativa - PIONEER (Open-Label Extension)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2016-08",
+      "country": "N/A",
+      "enrollment": 508,
+      "brief_summary": "The purpose of this study to evaluate the long term safety, tolerability and efficacy of adalimumab in subjects with moderate to severe hidradenitis suppurativa (HS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who previously participated in a prior Phase 3 AbbVie hidradenitis suppurativa (HS) study (M11-313 or M11-810) and:\n\n  1. Completed the study; or\n  2. Experienced a loss of response (LOR); or\n  3. Experienced worsening or absence of improvement\n\n     Exclusion Criteri",
+      "endpoints": [
+        "Percentage of Participants in the EW/EW/EW, EW/EOW/EW, and EW/PBO/EW Analysis Populations Achieving Clinical Response Per Hidradenitis Suppurativa Clinical Response (HiSCR) at Each Visit",
+        "Percentage of Participants in the PBO/EW/EW Analysis Population Achieving Clinical Response Per HiSCR at Each Visit",
+        "Percentage of Participants in the PBO/PBO/EW Analysis Population Achieving Clinical Response Per HiSCR at Each Visit"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01635764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04018599",
+      "title": "A Phase I, Randomized, Open-label, Parallel-group Study to Determine the Pharmacokinetics, Safety, and Tolerability of MSB11022 (Proposed Adalimumab Biosimilar) Following a Single Subcutaneous Injection by an Auto-injector or by a Pre-filled Syringe in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-07-15",
+      "completion_date": "2020-03-17",
+      "country": "United States",
+      "enrollment": 216,
+      "brief_summary": "The primary objective of this study is to demonstrate equivalence of the pharmacokinetic (PK) profile of MSB11022 administered by either an auto-injector (AI) or a pre-filled syringe (PFS) as single subcutaneous (s.c.) injection of 40 mg.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willing and able to sign the informed consent form (ICF).\n2. Healthy male subjects and female subjects of non-childbearing and childbearing potential.\n3. Aged 18 to 55 years, inclusive, at screening.\n4. Have all screening results (vital signs, physical examination, clinical l",
+      "endpoints": [
+        "Area Under the Concentration-time Curve from Time Zero to Infinity (AUC0-inf) for MSB11022",
+        "Maximum Observed Plasma Concentration (Cmax) for MSB11022",
+        "Area Under the Plasma Concentration-Time Curve From Time Zero to the Time of the Last Quantifiable Concentration (AUC0-last) for MSB11022"
+      ],
+      "sponsor": "Fresenius Kabi SwissBioSim GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04018599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02808975",
+      "title": "A Phase 4, Double-blind, Randomized, Placebo-Controlled, Multicenter Study to Assess the Safety and Efficacy of Adalimumab Used in Conjunction With Surgery in Subjects With Moderate to Severe Hidradenitis Suppurativa",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-07-18",
+      "completion_date": "2019-10-16",
+      "country": "Spain, Mexico, Saudi Arabia, Russia, Canada, Sweden, Belgium, Norway, Turkey (Türkiye), Germany, Portugal, Romania, Greece, Ireland, Poland, Colombia, United States, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 206,
+      "brief_summary": "The objective of this study was to assess the safety and efficacy of adalimumab prior to surgery in participants with moderate to severe Hidradenitis Suppurativa (HS) who were surgical candidates.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must have skin lesions that are diagnostic of Hidradenitis Suppurativa (HS) for at least 1 year (365 days) prior to the Baseline visit\n* Participant must have at least 3 distinct anatomical regions involved with inflammatory (also termed 'active') HS lesions; plus\n",
+      "endpoints": [
+        "Percentage of Participants Achieving Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02808975"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06291948",
+      "title": "A Randomized, Double-blind, Parallel Groups, Phase 1 Clinical Study Comparing the Pharmacokinetic, Safety and Immunogenicity of Adalimumab in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-08-01",
+      "completion_date": "2023-10-20",
+      "country": "Argentina",
+      "enrollment": 150,
+      "brief_summary": "The study aims to evaluate the pharmacokinetic profile, safety profile, and immunogenic potential of adalimumab of a new citrate-free formulation of adalimumab (Adalimumab Richmond) \\[Test Product\\] vs. Humira® AC Pen \\[Reference Product\\]",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written and signed informed consent\n\n   * Study subjects must be able to understand and comply with the protocol.\n   * Study subjects must be willing and able to provide written informed consent.\n2. Target population\n\n   * Study subjects, volunteers, adults, healthy.\n   * Stu",
+      "endpoints": [
+        "Peak Serum Concentration of adalimumab (Cmax)",
+        "Area Under the Serum Concentration-time Curve of adalimumab (ABC0-t)",
+        "Area Under the Serum Concentration- Time Curve ob adalimumab (ABC0-∞)"
+      ],
+      "sponsor": "Laboratorios Richmond S.A.C.I.F.",
+      "url": "https://clinicaltrials.gov/study/NCT06291948"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05322473",
+      "title": "Phase 2, Randomized, Parallel-group, Double-blind, Placebo-controlled Study of Sonelokimab in Patients With Active Moderate to Severe Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-04-25",
+      "completion_date": "2023-08-30",
+      "country": "Bulgaria, Germany, Ireland, Netherlands, Poland, Canada, United States",
+      "enrollment": 234,
+      "brief_summary": "This is a study to demonstrate the clinical efficacy and safety of the nanobody® sonelokimab administered subcutaneously (sc) compared with placebo in the treatment of adult participants with moderate to severe hidradenitis suppurativa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participant is ≥18 years of age;\n2. Participant has been diagnosed with hidradenitis suppurativa as determined by the investigator and has a history of signs and symptoms of hidradenitis suppurativa dating back at least 6 months prior to the Screening Visit;\n3. Participant ha",
+      "endpoints": [
+        "Hidradenitis Suppurativa Clinical Response 75"
+      ],
+      "sponsor": "MoonLake Immunotherapeutics AG",
+      "url": "https://clinicaltrials.gov/study/NCT05322473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00918255",
+      "title": "A Phase 2 Multicenter Study of the Safety and Efficacy of Adalimumab in Subjects With Moderate to Severe Chronic Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2010-11",
+      "country": "Denmark, Netherlands, Germany, United States",
+      "enrollment": 154,
+      "brief_summary": "This study will investigate how well adalimumab works in people with hidradenitis suppurativa (HS) in the short and long term.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults with stable, moderate to severe hidradenitis suppurativa\n* Negative Chest X-ray and PPD test at Screening. If participant has had a past ulcerative reaction to PPD placement and/or chest X-ray consistent with prior tuberculosis exposure, the participant must initiate, o",
+      "endpoints": [
+        "Percentage of Participants Achieving Clinical Response at Week 16"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00918255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02786576",
+      "title": "Effectiveness of Adalimumab in Moderate to Severe HidrAdenitis SuppuRativa Patients - a Multi cOuNtry studY in Real Life Setting - HARMONY Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-07-05",
+      "completion_date": "2019-01-07",
+      "country": "Israel, Lebanon, Slovenia, Czechia, Switzerland, Greece, Turkey (Türkiye), Austria, Hungary, Germany, Ireland, United Kingdom, Belgium",
+      "enrollment": 236,
+      "brief_summary": "This study will assess the effects of adalimumab treatment in moderate to severe Hidradenitis Suppurativa (HS) patients in the real world setting. The objectives of this study are to estimate the effectiveness of adalimumab treatment on disease severity, to estimate the impact of adalimumab treatment on patients' quality of life, psychological effect, work productivity and healthcare resource utilization and to describe treatment practices over the study period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of moderate to severe Hidradenitis Suppurativa\n* The decision to treat with adalimumab (Humira) is made by the physician in accordance with the local label (Summary of Product Characteristics; product label) prior to any decision to approach the participant ",
+      "endpoints": [
+        "Proportion of participants with moderate to severe Hidradenitis Suppurativa (HS) who achieve a clinical response"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02786576"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03248531",
+      "title": "A Phase 2 Multicenter, Investigator-Blind, Subject-Blind, Placebo-Controlled Study of the Efficacy, Safety, and Pharmacokinetics of Bimekizumab in Subjects With Moderate to Severe Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-09-22",
+      "completion_date": "2019-02-21",
+      "country": "Norway, Greece, Russia, Denmark, Australia, Germany, Belgium, United States",
+      "enrollment": 90,
+      "brief_summary": "Hidradenitis suppurativa (HS) is a painful, long-term skin condition that causes abscesses and scarring on the skin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult subjects (18 to 70 years of age, inclusive) must have a diagnosis of HS for at least\n\n  1 year prior to Baseline\n* Stable HS for at least 2 months prior to Screening and also at the Baseline Visit\n* Inadequate response to at least a 3-month study of an oral antibiotic fo",
+      "endpoints": [
+        "Percentage of Participants Achieving Clinical Response as Measured by Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT03248531"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00827996",
+      "title": "Open Label,Phase Two Study to Assess the Efficacy and Safety of Adalimumab in Subjects With Moderate to Severe Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-02",
+      "completion_date": "2008-08",
+      "country": "N/A",
+      "enrollment": 10,
+      "brief_summary": "The trial is a 12-week phase 2 study. Subjects will be given subcutaneous injections at weeks 0 (160mg), 2 (80mg), and then every other week (40mg) until week 12 in subjects with moderate to severe hidradenitis suppurativa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects with moderate to severe HS as defined by a HSSI \\> 8 AND at least ONE of the following:\n\n1. HS \\>1 year duration with multiple ER or doctors visits related to HS\n2. Intralesional kenalog injection \\>5/year, however none within 2 weeks of entry\n3. Failed systemic retinoi",
+      "endpoints": [
+        "To assess the efficacy and safety of adalimumab in subjects with moderate to severe hidradenitis suppurativa. Efficacy will be evaluated using the included Hidradenitis Suppurativa Severity Index (HSSI)."
+      ],
+      "sponsor": "Florida Academic Dermatology Centers",
+      "url": "https://clinicaltrials.gov/study/NCT00827996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02643654",
+      "title": "A Double-blind, Randomised, Placebo-controlled Clinical Trial of the Efficacy of MABp1, a- First-in-class True Human Antibody Targeting Interleukin-1alpha, in Patients With Hidradenitis Suppurativa Not Eligible for antiTNF Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-12",
+      "completion_date": "2017-02",
+      "country": "Greece",
+      "enrollment": 20,
+      "brief_summary": "Hidradenitis suppurativa (HS) is a chronic inflammatory skin disorder. Although adalimumab is recently licensed for moderate to severe HS, many cases fail to respond or relapse during treatment. Favorable outcomes from a recently conducted double-blind randomized clinical study on the efficacy of anakinra, one interleukin(IL)-1alpha blocker, in hidradenitis suppurativa (HS), led to validate the efficacy of MABp1, a true human antiIL-1α antibody in these cases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent provided by the patient\n* Age equal to or more than 18 years\n* Diagnosis of hidradenitis suppurativa (HS)\n* HS of Hurley II or III stage disease or rapidly progressive HS of Hurley I stage\n* Presence of at least 3 inflamed nodules consistent with HS in",
+      "endpoints": [
+        "The efficacy of MABp1 in patients with moderate to severe HS"
+      ],
+      "sponsor": "University of Athens",
+      "url": "https://clinicaltrials.gov/study/NCT02643654"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03894956",
+      "title": "Special Drug Use-Results Survey of Evaluating Safety and Effectiveness of Humira in Long Term Treatment in Patients With Hidradenitis Suppurativa",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-05-02",
+      "completion_date": "2021-11-10",
+      "country": "Japan",
+      "enrollment": 46,
+      "brief_summary": "The objective of this study is to evaluate the long-term safety and effectiveness of Humira in patients with Hidradenitis Suppurativa (HS) in real-world clinical practice in Japan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who have been prescribed Humira by their treating physician as per routine clinical practice for the treatment of HS.\n\nExclusion Criteria:\n\n* Participants previously treated with Humira.\n* Participants who do not provide consent.",
+      "endpoints": [
+        "Percentage of participants who reported any serious infections during the study",
+        "Percentage of participants who reported any adverse drug reactions (ADRs) during the study",
+        "Percentage of participants who reported any infections during the study"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT03894956"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05913817",
+      "title": "The Evaluation of Injection Site Pain and Adherence in Patients Switching from a Low to High Concentration Adalimumab (AVT-02) Across Multiple Indications.",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-01-09",
+      "completion_date": "2025-05-13",
+      "country": "Canada",
+      "enrollment": 600,
+      "brief_summary": "The purpose of the Phase IV study is to investigate the effects of both Volume and Citrate on Injection Site Pain (ISP), adherence, patient satisfaction, Quality of Life, and Disease Assessment in the Canadian Adalimumab Market.\n\nThe phase IV study is an observational, pan-Canadian, multidisciplinary study aiming to enroll 600 patients across 50-70 sites across 3 different Therapeutic Areas (GI, Rheum, Derm).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient aged 18 years or older at the time of consent.\n2. Patient has been diagnosed with CD, UC, RA, AS, PsA, HS, or PsO for at least 6 months.\n3. Patient must be a current user of Humira® or another low-concentration adalimumab biosimilar, with treatment initiated at least ",
+      "endpoints": [
+        "Change from baseline in injection site pain after the first dose of high-concentration adalimumab (AVT-02) as measured by the Visual Analog Scale (VAS); 2 weeks after Humira Injection (can be 1 week for certain indications such as HS)."
+      ],
+      "sponsor": "Jamp Pharma Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT05913817"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01468207",
+      "title": "A Phase 3 Multicenter Study of the Safety and Efficacy of Adalimumab in Subjects With Moderate to Severe Hidradenitis Suppurativa - PIONEER I",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2014-01",
+      "country": "N/A",
+      "enrollment": 307,
+      "brief_summary": "A study to evaluate the safety and efficacy of treatment with adalimumab in adults with moderate to severe hidradenitis suppurativa (HS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults must have a diagnosis of HS for at least 1 year prior to Baseline.\n* HS lesions must be present in at least two distinct anatomical areas, one of which must be at least Hurley Stage II or Hurley Stage III.\n* Subject must have stable HS for at least 60 days prior to Scre",
+      "endpoints": [
+        "Percentage of Participants Achieving Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01468207"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02904902",
+      "title": "A Phase 3 Multicenter, Open-label, Single Arm Study of the Safety and Efficacy of Adalimumab in Japanese Subjects With Moderate to Severe Hidradenitis Suppurativa",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-09-06",
+      "completion_date": "2019-05-30",
+      "country": "Japan",
+      "enrollment": 15,
+      "brief_summary": "This study investigates efficacy, safety and pharmacokinetics of adalimumab in Japanese subjects with moderate to severe hidradenitis suppurativa (HS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must have a diagnosis of HS;\n* Participant must have any HS symptom at least 6 months prior to Baseline;\n* HS lesions must be present in at least 2 distinct anatomic areas, one of which must be Hurley Stage II or Hurley Stage III;\n* Participant must have stable HS ",
+      "endpoints": [
+        "Percentage of Participants Achieving Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT02904902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07021495",
+      "title": "A Prospective, Multi-Center, Observational Biomarker Real-World Evidence Study for In-Depth Profiling of Patients With Chronic Immune-Mediated Inflammatory Skin Diseases in Daily Practice",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-07-29",
+      "completion_date": "2029-12-31",
+      "country": "Netherlands",
+      "enrollment": 840,
+      "brief_summary": "The goal of this observational study is to comprehensively profile six immune-mediated inflammatory diseases, including atopic dermatitis (AD), plaque psoriasis (PSO), hidradenitis suppurativa (HS), cutaneous T-cell lymphoma subtype mycosis fungoides (MF), chronic spontaneous urticaria (CSU), and cutaneous lupus erythematosus (CLE) in daily practice. Data will be compared with data from healthy volunteers. This study is part of the larger NGID (Next Generation ImmunoDermatology) initiative, of w",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients:\n\n1. Able to understand and provide a written informed consent prior to any study procedures\n2. Male or non-pregnant female, ≥18 years of age\n3. Patient is willing to refrain from extensively washing (including bathing, swimming) the target lesional skin 12 hours before",
+      "endpoints": [
+        "Lipidomics of the stratum corneum and OLINK",
+        "Cutaneous microbiome",
+        "Serum biomarkers"
+      ],
+      "sponsor": "Leiden University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT07021495"
+    }
+  ],
+  "timestamp": "2026-03-04T15:17:37.942467",
+  "success": true,
+  "error_message": null
+}

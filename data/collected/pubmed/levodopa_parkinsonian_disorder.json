@@ -1,0 +1,595 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Levodopa",
+    "disease": "parkinsonian disorder",
+    "query_string": "Levodopa AND parkinsonian disorder"
+  },
+  "data": {
+    "query": "Levodopa AND parkinsonian disorder",
+    "results": [
+      {
+        "pmid": "25449210",
+        "title": "Levodopa therapy for Parkinson's disease: Pharmacokinetics and pharmacodynamics.",
+        "abstract": "For all its imperfections at treating Parkinson's disease (PD), orally-administered levodopa (l-dopa) can be regarded as the \"platinum\" standard of PD therapeutics for its impact on disability and discomfort and its cost-effectiveness. The past half-century has confirmed that the typical l-dopa-treated patient gains improvement for most Parkinsonian features, presumably by conversion of this amino acid into dopamine in the striatum. However, fundamental questions remain as to its full mechanism of action and how adverse reactions evolve. Various aspects of clinical phenomenology associated with chronic l-dopa use (such as dyskinesias and the long-duration anti-Parkinsonian response) present a continuing challenge for better understanding of its pharmacology. The pharmacokinetics of l-dopa tend to predict some of problems that can emerge during chronic therapy, which can be linked with its irregular uptake and marked dose-by-dose variability in plasma concentrations. Several new pharmac",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2015",
+        "authors": [
+          "LeWitt Peter A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Brain",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25449210/"
+      },
+      {
+        "pmid": "31272925",
+        "title": "Juvenile parkinsonism: Differential diagnosis, genetics, and treatment.",
+        "abstract": "Juvenile parkinsonism is arbitrarily defined as parkinsonian symptoms and signs presenting prior to 21 years of age. Levodopa-responsive juvenile parkinsonism that is consistent with diagnostic criteria for Parkinson's disease is most often caused by mutations in the PARK-Parkin, PARK-PINK1, or PARK-DJ1 genes. However, many other genetic and acquired parkinsonian disorders presenting in childhood or young adulthood are being reported, often with atypical features, such as presence of other movement disorders, cognitive decline, and psychiatric symptoms. The genetic landscape of juvenile parkinsonism is rapidly changing with the discovery of new genes. Although the mainstay of treatment remains levodopa, other symptomatic therapies such as botulinum toxin for focal dystonia, supportive medical therapies, and deep brain stimulation in select cases, may also be used to provide the most optimal long-term outcomes. Since the topic has not been reviewed recently, we aim to provide an update ",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2019",
+        "authors": [
+          "Niemann Nicki",
+          "Jankovic Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antiparkinson Agents",
+          "Child",
+          "Child, Preschool",
+          "Deep Brain Stimulation",
+          "DiGeorge Syndrome",
+          "Diagnosis, Differential",
+          "Dystonic Disorders",
+          "Genetic Diseases, X-Linked",
+          "Hepatolenticular Degeneration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31272925/"
+      },
+      {
+        "pmid": "34732887",
+        "title": "Disruption of mitochondrial complex I induces progressive parkinsonism.",
+        "abstract": "Loss of functional mitochondrial complex I (MCI) in the dopaminergic neurons of the substantia nigra is a hallmark of Parkinson's disease1. Yet, whether this change contributes to Parkinson's disease pathogenesis is unclear2. Here we used intersectional genetics to disrupt the function of MCI in mouse dopaminergic neurons. Disruption of MCI induced a Warburg-like shift in metabolism that enabled neuronal survival, but triggered a progressive loss of the dopaminergic phenotype that was first evident in nigrostriatal axons. This axonal deficit was accompanied by motor learning and fine motor deficits, but not by clear levodopa-responsive parkinsonism-which emerged only after the later loss of dopamine release in the substantia nigra. Thus, MCI dysfunction alone is sufficient to cause progressive, human-like parkinsonism in which the loss of nigral dopamine release makes a critical contribution to motor dysfunction, contrary to the current Parkinson's disease paradigm3,4.",
+        "journal": "Nature",
+        "year": "2021",
+        "authors": [
+          "González-Rodríguez Patricia",
+          "Zampese Enrico",
+          "Stout Kristen A",
+          "Guzman Jaime N",
+          "Ilijic Ema"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Axons",
+          "Cell Death",
+          "Dendrites",
+          "Disease Models, Animal",
+          "Disease Progression",
+          "Dopamine",
+          "Dopaminergic Neurons",
+          "Electron Transport Complex I",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34732887/"
+      },
+      {
+        "pmid": "35986227",
+        "title": "A Review on the Clinical Diagnosis of Multiple System Atrophy.",
+        "abstract": "Multiple system atrophy (MSA) is a rare, adult-onset, progressive neurodegenerative disorder with major diagnostic challenges. Aiming for a better diagnostic accuracy particularly at early disease stages, novel Movement Disorder Society criteria for the diagnosis of MSA (MDS MSA criteria) have been recently developed. They introduce a neuropathologically established MSA category and three levels of clinical diagnostic certainty including clinically established MSA, clinically probable MSA, and the research category of possible prodromal MSA. The diagnosis of clinically established and clinically probable MSA is based on the presence of cardiovascular or urological autonomic failure, parkinsonism (poorly L-Dopa-responsive for the diagnosis of clinically established MSA), and cerebellar syndrome. These core clinical features need to be associated with supportive motor and non-motor features (MSA red flags) and absence of any exclusion criteria. Characteristic brain MRI markers are requir",
+        "journal": "Cerebellum (London, England)",
+        "year": "2023",
+        "authors": [
+          "Stankovic Iva",
+          "Fanciulli Alessandra",
+          "Sidoroff Victoria",
+          "Wenning Gregor K"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Multiple System Atrophy",
+          "Diagnosis, Differential",
+          "Parkinsonian Disorders",
+          "Magnetic Resonance Imaging",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35986227/"
+      },
+      {
+        "pmid": "28233705",
+        "title": "[Not Available].",
+        "abstract": "Parkinsonian syndrome is the clinical expression of a lesion within the nigro-striatal dopaminergic pathway. Akinesia is the main manifestation of parkinsonism. The clinical analysis of motor symptoms may guide clinical diagnosis. Parkinson's disease is characterized by a pure asymmetric parkinsonian syndrome, responsive to dopaminergic treatment. The evolution of Parkinson's disease is characterized by the occurrence of motor complications (dyskinesia and fluctuations). Gait disturbances (postural instability and freezing) are late in Parkinson's disease. When early (within the first three years), they point to atypical parkinsonian syndrome.",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "2017",
+        "authors": [
+          "Grabli David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Articulation Disorders",
+          "Corpus Striatum",
+          "Deglutition Disorders",
+          "Disease Progression",
+          "Dopamine Agonists",
+          "Dopaminergic Neurons",
+          "Gait Disorders, Neurologic",
+          "Humans",
+          "Hypokinesia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28233705/"
+      },
+      {
+        "pmid": "41219370",
+        "title": "Levodopa exposure and nigral neuroinflammation in parkinsonian disorders: A postmortem study of 63 cases.",
+        "abstract": "Levodopa remains the cornerstone of treatment in Parkinson's disease (PD), but its long-term impact on neuroinflammation remains unclear, particularly in multiple system atrophy (MSA) and progressive supranuclear palsy (PSP), where levodopa efficacy is limited. This study examined whether chronic levodopa exposure is associated with neuroinflammation or dopaminergic neuronal loss in end-stage PD, MSA, and PSP. Postmortem midbrain tissue from 63 neuropathologically confirmed cases (PD: n = 38; PSP: n = 13; MSA: n = 12) was analyzed. Immunohistochemistry was used to quantify tyrosine hydroxylase positive (TH+) neurons in the substantia nigra pars compacta (SNc), along with T lymphocyte (CD3+, CD4+, CD8+) infiltration and microglial density (Iba1 expression). Levodopa exposure was estimated using three models and analyzed in relation to neuropathological markers, adjusting for age at death, sex, disease duration, and Hoehn & Yahr stage. Results. No significant associations were observed b",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Backman Emmilotta A",
+          "Luntamo Laura",
+          "Vahlberg Tero",
+          "Gardberg Maria",
+          "Kaasinen Valtteri"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Female",
+          "Aged",
+          "Substantia Nigra",
+          "Middle Aged",
+          "Parkinson Disease",
+          "Autopsy",
+          "Neuroinflammatory Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41219370/"
+      },
+      {
+        "pmid": "39023712",
+        "title": "Levodopa-responsive dystonia, parkinsonism, and treatment-resistant schizoaffective disorder in Williams syndrome.",
+        "abstract": "Williams syndrome (WS; chromosome 7q11.23 deletion) is a rare, multisystemic, neurodevelopmental disorder with variable penetrance and expressivity. Although movement and psychiatric disorders are known to occur in individuals with WS, parkinsonism, dystonia, and treatment-resistant schizoaffective disorder have not been formally described.",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "year": "2025",
+        "authors": [
+          "Reyes Nikolai Gil D",
+          "Bendahan Nathaniel",
+          "Swinkin Emily",
+          "Lang Anthony E",
+          "Bassett Anne S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Psychotic Disorders",
+          "Adult",
+          "Male",
+          "Williams Syndrome",
+          "Levodopa",
+          "Parkinsonian Disorders",
+          "Female",
+          "Antipsychotic Agents",
+          "Dystonic Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39023712/"
+      },
+      {
+        "pmid": "11489676",
+        "title": "Dystonia and parkinsonism.",
+        "abstract": "Parkinsonism and dystonia may coexist in a number of neurodegenerative, genetic, toxic, and metabolic disorders and as a result of structural lesions in the basal ganglia. Parkinson's disease (PD) and the 'Parkinson-plus' syndromes (PPS) account for the majority of patients with the parkinsonism-dystonia combination. Dystonia, particularly when it involves the foot, may be the presenting sign of PD or PPS and these disorders should be suspected when adults present with isolated foot dystonia. Young age, female gender, and long disease duration are risk factors for PD-related dystonia, but dystonia in patients with PD is usually related to levodopa therapy. The mechanism of dystonia in PD is not well understood and the management is often challenging because levodopa and other dopaminergic agents may either improve or worsen dystonia. Other therapeutic strategies include oral medications (baclofen, anticholinergics and benzodiazepines), local injections of botulinum toxin, intrathecal b",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2001",
+        "authors": [
+          "Jankovic J",
+          "Tintner R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Dystonia",
+          "Humans",
+          "Levodopa",
+          "Parkinsonian Disorders",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11489676/"
+      },
+      {
+        "pmid": "30361296",
+        "title": "Behavioural and trait changes in parkinsonian patients with impulse control disorder after switching from dopamine agonist to levodopa therapy: results of REIN-PD trial.",
+        "abstract": "In this multicentre open-label trial, we compared behavioural and neuropsychiatric symptoms in Parkinson's disease (PD) patients with impulse control disorders (ICD) treated with dopamine agonists before and 12 weeks after substituting dopamine agonists with an equivalent dose of levodopa/carbidopa slow-release formulation.",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "2019",
+        "authors": [
+          "Lee Jee-Young",
+          "Jeon Beomseok",
+          "Koh Seong-Beom",
+          "Yoon Won Tae",
+          "Lee Ho-Won"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Disruptive, Impulse Control, and Conduct Disorders",
+          "Dopamine Agonists",
+          "Drug Combinations",
+          "Drug Substitution",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30361296/"
+      },
+      {
+        "pmid": "11723148",
+        "title": "Effect of levodopa on orthostatic and postprandial hypotension in elderly Parkinsonian patients.",
+        "abstract": "This study describes orthostatic and postprandial hypotension in elderly Parkinsonian patients and evaluates the effect of levodopa therapy on orthostatic and postprandial hypotension in these patients.",
+        "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+        "year": "2001",
+        "authors": [
+          "Mehagnoul-Schipper D J",
+          "Boerman R H",
+          "Hoefnagels W H",
+          "Jansen R W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antiparkinson Agents",
+          "Autonomic Nervous System",
+          "Benserazide",
+          "Blood Pressure",
+          "Cross-Over Studies",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11723148/"
+      },
+      {
+        "pmid": "28229895",
+        "title": "Impulse control disorders and levodopa-induced dyskinesias in Parkinson's disease: an update.",
+        "abstract": "Dopaminergic medications used in the treatment of patients with Parkinson's disease are associated with motor and non-motor behavioural side-effects, such as dyskinesias and impulse control disorders also known as behavioural addictions. Levodopa-induced dyskinesias occur in up to 80% of patients with Parkinson's after a few years of chronic treatment. Impulse control disorders, including gambling disorder, binge eating disorder, compulsive sexual behaviour, and compulsive shopping occur in about 17% of patients with Parkinson's disease on dopamine agonists. These behaviours reflect the interactions of the dopaminergic medications with the individual's susceptibility, and the underlying neurobiology of Parkinson's disease. Parkinsonian rodent models show enhanced reinforcing effects of chronic dopaminergic medication, and a potential role for individual susceptibility. In patients with Parkinson's disease and impulse control disorders, impairments are observed across subtypes of decisi",
+        "journal": "The Lancet. Neurology",
+        "year": "2017",
+        "authors": [
+          "Voon Valerie",
+          "Napier T Celeste",
+          "Frank Michael J",
+          "Sgambato-Faure Veronique",
+          "Grace Anthony A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Disruptive, Impulse Control, and Conduct Disorders",
+          "Dyskinesia, Drug-Induced",
+          "Humans",
+          "Levodopa",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28229895/"
+      },
+      {
+        "pmid": "6435991",
+        "title": "Anti-parkinsonian drugs today.",
+        "abstract": "The drug treatment of Parkinson's disease has progressed through 3 main stages: firstly, the use of anticholinergic drugs and amantadine; then the introduction of levodopa and its association with peripheral decarboxylase inhibitors; and finally the use of direct acting dopamine agonist drugs. Levodopa, however, remains the most effective single drug in Parkinson's disease. Unfortunately, the side effects associated with long term levodopa treatment today constitute an important cause of functional disability. 'Positive' side effects such as involuntary movements and psychiatric disorder remain difficult to manage without causing an increase in Parkinsonian immobility; conversely, management of the 'negative' phenomenon of the 'off' period is limited by these same side effects. This has generated renewed interest in the highly complex pharmacokinetic and pharmacodynamic properties of levodopa, with the aim of reducing fluctuations in plasma levodopa (and hence brain dopamine) concentra",
+        "journal": "Drugs",
+        "year": "1984",
+        "authors": [
+          "Quinn N P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amantadine",
+          "Amphetamines",
+          "Antiparkinson Agents",
+          "Brain Chemistry",
+          "Catechol O-Methyltransferase Inhibitors",
+          "Dopamine beta-Hydroxylase",
+          "Droxidopa",
+          "Humans",
+          "Kinetics",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6435991/"
+      },
+      {
+        "pmid": "31834375",
+        "title": "Evolving concepts on bradykinesia.",
+        "abstract": "Bradykinesia is one of the cardinal motor symptoms of Parkinson's disease and other parkinsonisms. The various clinical aspects related to bradykinesia and the pathophysiological mechanisms underlying bradykinesia are, however, still unclear. In this article, we review clinical and experimental studies on bradykinesia performed in patients with Parkinson's disease and atypical parkinsonism. We also review studies on animal experiments dealing with pathophysiological aspects of the parkinsonian state. In Parkinson's disease, bradykinesia is characterized by slowness, the reduced amplitude of movement, and sequence effect. These features are also present in atypical parkinsonisms, but the sequence effect is not common. Levodopa therapy improves bradykinesia, but treatment variably affects the bradykinesia features and does not significantly modify the sequence effect. Findings from animal and patients demonstrate the role of the basal ganglia and other interconnected structures, such as ",
+        "journal": "Brain : a journal of neurology",
+        "year": "2020",
+        "authors": [
+          "Bologna Matteo",
+          "Paparella Giulia",
+          "Fasano Alfonso",
+          "Hallett Mark",
+          "Berardelli Alfredo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Humans",
+          "Hypokinesia",
+          "Levodopa",
+          "Neural Pathways",
+          "Parkinsonian Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31834375/"
+      },
+      {
+        "pmid": "20739256",
+        "title": "[Multiple system atrophy].",
+        "abstract": "Multiple system atrophy (MSA) is a sporadic neurodegenerative disorder of unknown etiology. It is the most frequent disorder among atypical parkinsonism with an estimated prevalence of 2 to 5 per 100 000 inhabitants. The clinical symptoms are rapidly progressing with a mean survival ranging between 6 to 9 years. The diagnosis is based on consensus criteria that have been revised in 2008. The diagnostic criteria allow defining \"possible\", \"probable\" and \"definite\" MSA. The latter requires post mortem confirmation of striatonigral and olivopontocerebellar degeneration with alpha-synuclein containing glial cytoplasmic inclusions. The diagnosis of \"possible\" and \"probable\" MSA is based on the variable presence and severity of parkinsonism, cerebellar dysfunction, autonomic failure and pyramidal signs. According to the revised criteria, atrophy of putamen, pons, middle cerebellar peduncle (MCP) or cerebellum on brain magnetic resonance imaging are considered to be additional features for th",
+        "journal": "Psychologie & neuropsychiatrie du vieillissement",
+        "year": "2010",
+        "authors": [
+          "Damon-Perrière Nathalie",
+          "Tison François",
+          "Meissner Wassilios G"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Atrophy",
+          "Brain",
+          "Combined Modality Therapy",
+          "Cross-Sectional Studies",
+          "Humans",
+          "Levodopa",
+          "Magnetic Resonance Imaging",
+          "Multiple System Atrophy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20739256/"
+      },
+      {
+        "pmid": "3209626",
+        "title": "Bioavailability and acceptability of a dispersible formulation of levodopa-benserazide in parkinsonian patients with and without dysphagia.",
+        "abstract": "The bioavailability of levodopa-benserazide in a standard capsule and a new dispersible tablet was compared in Parkinsonian patients, with (n = 8) and without (n = 8) swallowing difficulties. There was considerable variation within and between subjects, but no significant differences between formulations for any pharmacokinetic parameters, other than an earlier time-peak concentration following the dispersible tablets (P less than 0.01) in non-dysphagic patients. The acceptability of the dispersible tablets in the dysphagic patients was also determined following 7 days regular use. It was felt there were advantages in four of the patients because it was easier to administer or to swallow. The dispersible formulation may offer practical benefits to a minority of Parkinsonian patients without any anticipated loss of therapeutic efficacy.",
+        "journal": "Journal of clinical pharmacy and therapeutics",
+        "year": "1988",
+        "authors": [
+          "Bayer A J",
+          "Day J J",
+          "Finucane P",
+          "Pathy M S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Benserazide",
+          "Biological Availability",
+          "Capsules",
+          "Consumer Behavior",
+          "Deglutition Disorders",
+          "Drug Combinations",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3209626/"
+      },
+      {
+        "pmid": "16037917",
+        "title": "Changes induced by levodopa and subthalamic nucleus stimulation on parkinsonian speech.",
+        "abstract": "Levodopa (L-dopa) and subthalamic nucleus (STN) stimulation treatments have been associated with both improvement and exacerbation of dysarthria in Parkinson's disease (PD). We report four cases illustrating variant responses of dysarthria to dopaminergic and STN stimulation therapies. Patients' motor disability and dysarthria were perceptually rated by the Unified Parkinson's Disease Rating Scale (UPDRS) in four conditions according to medication and STN stimulation. Dedicated software packages allowed acquisition and analysis of acoustic recordings. Case 1, who had a severe off period aphonia, experienced improvement of speech induced by both levodopa and STN stimulation. In Case 2, both treatments worsened speech due to the appearance of dyskinesias. Case 3 had a dysarthria exacerbation induced by STN stimulation with parameters above optimal levels, interpreted as current diffusion from the STN to corticobulbar fibers. In Case 4, dysarthria exacerbation occurred with stimulation at",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2005",
+        "authors": [
+          "Pinto Serge",
+          "Gentil Michèle",
+          "Krack Paul",
+          "Sauleau Paul",
+          "Fraix Valérie"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Dysarthria",
+          "Dyskinesias",
+          "Electric Stimulation Therapy",
+          "Functional Laterality",
+          "Humans",
+          "Levodopa",
+          "Middle Aged",
+          "Parkinsonian Disorders",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16037917/"
+      },
+      {
+        "pmid": "12429201",
+        "title": "Quetiapine attenuates levodopa-induced motor complications in rodent and primate parkinsonian models.",
+        "abstract": "The contribution of serotoninergic mechanisms to motor dysfunction in Parkinson's disease (PD) has yet to be fully elucidated. Recent clinical observations increasingly suggest that drugs able to block serotonin 5HT2A/C receptors can benefit patients with certain extrapyramidal movement disorders. To further explore the roles of these and other neurotransmitter receptors in the pathogenesis of parkinsonian signs and levodopa-induced dyskinesias; we evaluated the effects of quetiapine, an atypical antipsychotic with 5HT2A/C and D2/3 antagonistic activity, on motor behavior in 6-hydroxydopamine-lesioned rats and MPTP-lesioned nonhuman primates. In hemiparkinsonian rats, quetiapine (5 mg/kg, po) reversed the shortened motor response to levodopa challenge produced by 3 weeks of twice-daily levodopa treatment (P < 0.01). Quetiapine (5 mg/kg po) also normalized the shortened response to the acute injection of either a dopamine D1 receptor agonist (SKF 38392) or a D2 agonist (quinpirole) in r",
+        "journal": "Experimental neurology",
+        "year": "2002",
+        "authors": [
+          "Oh Justin D",
+          "Bibbiani Francesco",
+          "Chase Thomas N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+          "Animals",
+          "Antipsychotic Agents",
+          "Behavior, Animal",
+          "Dibenzothiazepines",
+          "Disease Models, Animal",
+          "Dopamine Agonists",
+          "Dose-Response Relationship, Drug",
+          "Drug Evaluation, Preclinical",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12429201/"
+      },
+      {
+        "pmid": "33547844",
+        "title": "Levodopa Causes Striatal Cholinergic Interneuron Burst-Pause Activity in Parkinsonian Mice.",
+        "abstract": "Enhanced striatal cholinergic interneuron activity contributes to the striatal hypercholinergic state in Parkinson's disease (PD) and to levodopa-induced dyskinesia. In severe PD, dyskinesia and motor fluctuations become seriously debilitating, and the therapeutic strategies become scarce. Given that the systemic administration of anticholinergics can exacerbate extrastriatal-related symptoms, targeting cholinergic interneurons is a promising therapeutic alternative. Therefore, unraveling the mechanisms causing pathological cholinergic interneuron activity in severe PD with motor fluctuations and dyskinesia may provide new molecular therapeutic targets.",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2021",
+        "authors": [
+          "Paz Rodrigo Manuel",
+          "Tubert Cecilia",
+          "Stahl Agostina Monica",
+          "Amarillo Yimy",
+          "Rela Lorena"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cholinergic Agents",
+          "Corpus Striatum",
+          "Interneurons",
+          "Levodopa",
+          "Mice",
+          "Oxidopamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33547844/"
+      },
+      {
+        "pmid": "37640098",
+        "title": "Quinpirole inhibits levodopa-induced dyskinesias at structural and behavioral levels: Efficacy negated by co-administration of isradipine.",
+        "abstract": "Dopamine depletion associated with parkinsonism induces plastic changes in striatal medium spiny neurons (MSN) that are maladaptive and associated with the emergence of the negative side-effect of standard treatment: the abnormal involuntary movements termed levodopa-induced dyskinesia (LID). Prevention of MSN dendritic spine loss is hypothesized to diminish liability for LID in Parkinson's disease. Blockade of striatal CaV1.3 calcium channels can prevent spine loss and significantly diminish LID in parkinsonian rats. While pharmacological antagonism with FDA approved CaV1 L-type channel antagonist dihydropyridine (DHP) drugs (e.g, isradipine) are potentially antidyskinetic, pharmacologic limitations of current drugs may result in suboptimal efficacy. To provide optimal CaV1.3 antagonism, we investigated the ability of a dual pharmacological approach to more potently antagonize these channels. Specifically, quinpirole, a D2/D3-type dopamine receptor (D2/3R) agonist, has been demonstrat",
+        "journal": "Experimental neurology",
+        "year": "2023",
+        "authors": [
+          "Collier Timothy J",
+          "Begg Lauren",
+          "Stancati Jennifer A",
+          "Mercado Natosha M",
+          "Sellnow Rhyomi C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Levodopa",
+          "Isradipine",
+          "Dyskinesia, Drug-Induced",
+          "Rats",
+          "Quinpirole",
+          "Male",
+          "Calcium Channel Blockers",
+          "Rats, Sprague-Dawley",
+          "Antiparkinson Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37640098/"
+      },
+      {
+        "pmid": "812004",
+        "title": "On-off response. Clinical and biochemical correlations during oral and intravenous levodopa administration in parkinsonian patients.",
+        "abstract": "Seven parkinsonian patients who had severe on-off effects during chronic treatment with levodopa were studied. Marked swings in plasma dopa levels as well as in motor function followed each oral dose of levodopa. A constant intravenous infusion of levodopa resulted in stable plasma dopa concentrations and virtual disappearance of motor fluctuations. Notwithstanding steady plasma dopa levels, an abrupt decline in the antiparkinsonian response to levodopa attended postural tilting or cold pressore stimulation. Although these maneuvers were accompanied by a significant rise in plasma norepinephrine, the intravenous infusion of this catecholamine failed to influence the effect of levodopa on parkinsonian signs. The results suggest that central noradrenergic mechanisms as well as alterations in circulating dopa may contribute to the on-off response to levodopa.",
+        "journal": "Neurology",
+        "year": "1975",
+        "authors": [
+          "Shoulson I",
+          "Glaubiger G A",
+          "Chase T N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Blood Pressure",
+          "Dihydroxyphenylalanine",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans",
+          "Hyperkinesis",
+          "Infusions, Parenteral",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/812004/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:27:13.511790",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Aripiprazole",
+    "disease": "autism susceptibility 1",
+    "query_string": "Aripiprazole AND autism susceptibility 1"
+  },
+  "data": {
+    "query": "Aripiprazole AND autism susceptibility 1",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:25:35.165073",
+  "success": true,
+  "error_message": null
+}

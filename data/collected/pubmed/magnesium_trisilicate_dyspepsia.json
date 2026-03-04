@@ -1,0 +1,325 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "dyspepsia",
+    "query_string": "Magnesium Trisilicate AND dyspepsia"
+  },
+  "data": {
+    "query": "Magnesium Trisilicate AND dyspepsia",
+    "results": [
+      {
+        "pmid": "2556175",
+        "title": "Comparative study of Algicon suspension and magnesium trisilicate mixture in the treatment of reflux dyspepsia of pregnancy.",
+        "abstract": "",
+        "journal": "British journal of clinical practice. Supplement",
+        "year": "1989",
+        "authors": [
+          "Lang G D",
+          "Dougall A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Carbonates",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Magnesium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2556175/"
+      },
+      {
+        "pmid": "3005065",
+        "title": "Magnesium trisilicate induced fixed drug eruptions.",
+        "abstract": "",
+        "journal": "Dermatologica",
+        "year": "1986",
+        "authors": [
+          "Sehgal V N",
+          "Shyam Prasad A L",
+          "Gangwani O P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Drug Eruptions",
+          "Dyspepsia",
+          "Female",
+          "Humans",
+          "Magnesium",
+          "Magnesium Silicates",
+          "Middle Aged",
+          "Silicic Acid",
+          "Silicon Dioxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3005065/"
+      },
+      {
+        "pmid": "21434379",
+        "title": "[Using gaviscon preparation for relief of esophageal, extraesophageal syndromes and functional dyspepsia in elderly patients with GERD].",
+        "abstract": "To compare the clinical efficacy of alginate drug Geviskon and aluminum-magnesium antacids to relieve symptoms of esophageal, extraesophageal syndrome and functional dyspepsia at 3 and 7 days of study in patients with GERD elderly.",
+        "journal": "Eksperimental'naia i klinicheskaia gastroenterologiia = Experimental & clinical gastroenterology",
+        "year": "2010",
+        "authors": [
+          "Onuchina E V",
+          "Brikova S I",
+          "Tsukanov V V"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Cough",
+          "Drug Combinations",
+          "Dyspepsia",
+          "Female",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21434379/"
+      },
+      {
+        "pmid": "26228097",
+        "title": "Randomised clinical trial: the clinical efficacy and safety of an alginate-antacid (Gaviscon Double Action) versus placebo, for decreasing upper gastrointestinal symptoms in symptomatic gastroesophageal reflux disease (GERD) in China.",
+        "abstract": "There is a paucity of large-scale studies evaluating the clinical benefit of the Gaviscon Double Action (DA) alginate-antacid formulation for treating gastroesophageal reflux disease (GERD) symptoms.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2015",
+        "authors": [
+          "Sun J",
+          "Yang C",
+          "Zhao H",
+          "Zheng P",
+          "Wilkinson J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Retracted Publication"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "China",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26228097/"
+      },
+      {
+        "pmid": "24471505",
+        "title": "Randomised clinical trial: relief of upper gastrointestinal symptoms by an acid pocket-targeting alginate-antacid (Gaviscon Double Action) - a double-blind, placebo-controlled, pilot study in gastro-oesophageal reflux disease.",
+        "abstract": "The alginate-antacid, Gaviscon Double Action (Gaviscon DA; Reckitt Benckiser, Slough, UK) suppresses reflux after meals by creating a gel-like barrier that caps and displaces the acid pocket distal to the oesophago-gastric junction. The effect of Gaviscon DA on reflux and dyspepsia symptoms has not yet been demonstrated with a modern trial design.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2014",
+        "authors": [
+          "Thomas E",
+          "Wade A",
+          "Crawford G",
+          "Jenner B",
+          "Levinson N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Dyspepsia",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Heartburn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24471505/"
+      },
+      {
+        "pmid": "30272584",
+        "title": "Randomized clinical trial: a double-blind, placebo-controlled study to assess the clinical efficacy and safety of alginate-antacid (Gaviscon Double Action) chewable tablets in patients with gastro-oesophageal reflux disease.",
+        "abstract": "The alginate-antacid Gaviscon Double Action (Gaviscon DA) has a combined acid-neutralizing and reflux-suppressing action. Response to treatment in a symptomatic gastro-oesophageal reflux disease (GERD) population has not yet been tested in a large-scale clinical study.",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "2019",
+        "authors": [
+          "Wilkinson Joanne",
+          "Wade Alan",
+          "Thomas S Jane",
+          "Jenner Bartosz",
+          "Hodgkinson Victoria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Europe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30272584/"
+      },
+      {
+        "pmid": "968338",
+        "title": "The effects of antacids on enteric-coated salicylate preparations.",
+        "abstract": "A volunteer study was undertaken in which the effect of the co-administration of therapeutic doses of aluminium hydroxide and magnesium trisilicate on the excretion of aspirin derived from enteric-coated preparations was studied. A significant alteration in the pattern of salicylate excretion was seen, but the mechanism of the interaction cannot be deduced from the present study. It was concluded that the interaction was of potential therapeutic importance, and further studies based on this pilot investigation have been initiated.",
+        "journal": "Rheumatology and rehabilitation",
+        "year": "1976",
+        "authors": [
+          "Strickland-Hodge B",
+          "Thomas T R",
+          "Gould W A",
+          "Haslock I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antacids",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Dyspepsia",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Salicylates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/968338/"
+      },
+      {
+        "pmid": "28464343",
+        "title": "Randomised clinical trial: addition of alginate-antacid (Gaviscon Double Action) to proton pump inhibitor therapy in patients with breakthrough symptoms.",
+        "abstract": "Symptomatic breakthrough in proton pump inhibitor (PPI)-treated gastro-oesophageal reflux disease (GERD) patients is a common problem with a range of underlying causes. The nonsystemic, raft-forming action of alginates may help resolve symptoms.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2017",
+        "authors": [
+          "Coyle C",
+          "Crawford G",
+          "Wilkinson J",
+          "Thomas S J",
+          "Bytzer P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "Breakthrough Pain",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28464343/"
+      },
+      {
+        "pmid": "2848305",
+        "title": "[Heartburn and regurgitation in pregnancy. Efficacy and innocuousness of treatment with Gaviscon suspension].",
+        "abstract": "This open trial was conducted in 50 pregnant women, presenting during the 2nd and 3rd trimesters of their pregnancy typical symptoms of gastro-esophageal reflux (pyrosis, regurgitations, retro-sternal burning sensations, dyspepsia, epigastric burning). The treatment with Gaviscon, suspension to drink, lasted 1 month at a dose of 2 tablespoons, 4 times/day after meals and in the evening at bedtime. After one month, all symptoms were improved, in a statistically significant fashion, regarding their frequency, intensity and duration. The efficacy is considered positive in 98 p. cent of the cases; the patient's impression is favorable in 70 p. cent of the cases. Tolerance is excellent and the medication is satisfactorily accepted.",
+        "journal": "Revue francaise de gynecologie et d'obstetrique",
+        "year": "1988",
+        "authors": [
+          "Uzan M",
+          "Uzan S",
+          "Sureau C",
+          "Richard-Berthe C"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Drug Combinations",
+          "Drug Tolerance",
+          "Dyspepsia",
+          "Female",
+          "Gastroesophageal Reflux"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2848305/"
+      },
+      {
+        "pmid": "26909885",
+        "title": "Randomised clinical trial: alginate (Gaviscon Advance) vs. placebo as add-on therapy in reflux patients with inadequate response to a once daily proton pump inhibitor.",
+        "abstract": "Many reflux patients remain symptomatic on a standard dose of proton pump inhibitor (PPI). Alginates decrease the number of reflux events by forming a raft on top of the stomach content and thus offer a supplemental mechanism of action to acid suppression.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2016",
+        "authors": [
+          "Reimer C",
+          "Lødrup A B",
+          "Smith G",
+          "Wilkinson J",
+          "Bytzer P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alginates",
+          "Aluminum Hydroxide",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Heartburn",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26909885/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:55:51.500482",
+  "success": true,
+  "error_message": null
+}

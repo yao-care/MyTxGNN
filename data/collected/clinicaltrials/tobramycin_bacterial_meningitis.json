@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Tobramycin",
+    "disease": "bacterial meningitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01431326",
+      "title": "Pharmacokinetics of Understudied Drugs Administered to Children Per Standard of Care",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2019-11",
+      "country": "Israel, Singapore, United Kingdom, Canada, United States",
+      "enrollment": 3520,
+      "brief_summary": "Understudied drugs will be administered to children per standard of care as prescribed by their treating caregiver and only biological sample collection during the time of drug administration will be involved. A total of approximately 7000 children aged \\<21 years who are receiving these drugs for standard of care will be enrolled and will be followed for up a maximum of 90 days. The goal of this study is to characterize the pharmacokinetics of understudied drugs for which specific dosing recomm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\) Children (\\< 21 years of age) who are receiving understudied drugs of interest per standard of care as prescribed by their treating caregiver\n\nExclusion Criteria:\n\n* 1\\) Failure to obtain consent/assent (as indicated)\n* 2\\) Known pregnancy as determined via interview or te",
+      "endpoints": [
+        "Composite of pharmacokinetic outcomes for understudied drugs in children"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT01431326"
+    }
+  ],
+  "timestamp": "2026-03-04T16:41:23.022239",
+  "success": true,
+  "error_message": null
+}

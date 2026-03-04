@@ -1,0 +1,228 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "hyperinsulinism",
+    "query_string": "Omeprazole AND hyperinsulinism"
+  },
+  "data": {
+    "query": "Omeprazole AND hyperinsulinism",
+    "results": [
+      {
+        "pmid": "38884019",
+        "title": "Long-Term Administration of Omeprazole-Induced Hypergastrinemia and Changed Glucose Homeostasis and Expression of Metabolism-Related Genes.",
+        "abstract": "PPIs, or proton pump inhibitors, are the most widely prescribed drugs. There is a debate regarding the relationship between long-term PPI use and the risk of type 2 diabetes mellitus (T2DM). A potential connection between T2DM and PPIs could be an elevated gastrin concentration. This study is aimed at investigating the long-term effects of PPI omeprazole (OZ) on glucose homeostasis and pancreatic gene expression profile in mice.",
+        "journal": "BioMed research international",
+        "year": "2024",
+        "authors": [
+          "Kabaliei Alina",
+          "Palchyk Vitalina",
+          "Izmailova Olga",
+          "Shynkevych Viktoriya",
+          "Shlykova Oksana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Omeprazole",
+          "Gastrins",
+          "Male",
+          "Mice",
+          "Homeostasis",
+          "Mice, Inbred BALB C",
+          "Blood Glucose",
+          "Insulin Resistance",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38884019/"
+      },
+      {
+        "pmid": "22830490",
+        "title": "Omeprazole improves the anti-obesity and antidiabetic effects of exendin-4 in db/db mice (-4 db/db)*.",
+        "abstract": "In addition to its glucoregulatory actions, exendin-4, a stable glucagon-like peptide-1 receptor agonist, exhibits protective effects in the pancreas and anti-obesity effects. Suitable combination treatment with other anti-obesity or pancreas protective agents would be an effective approach to optimize these additional effects. In the present study, we investigated the effects of the addition of omeprazole, a proton pump inhibitor, to exendin-4 in db/db mice, an experimental model of obesity and type 2 diabetes.",
+        "journal": "Journal of diabetes",
+        "year": "2013",
+        "authors": [
+          "Patel Vishal",
+          "Joharapurkar Amit",
+          "Gandhi Tejal",
+          "Patel Kirti",
+          "Dhanesha Nirav"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Obesity Agents",
+          "Body Weight",
+          "Diabetes Mellitus, Type 2",
+          "Drug Therapy, Combination",
+          "Exenatide",
+          "Gastrins",
+          "Glucagon",
+          "Hypoglycemic Agents",
+          "Insulin Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22830490/"
+      },
+      {
+        "pmid": "24145087",
+        "title": "Combination of omeprazole with GLP-1 agonist therapy improves insulin sensitivity and antioxidant activity in liver in type 1 diabetic mice.",
+        "abstract": "Combination with suitable pharmacological agents can improve the antiobesity and antidiabetic actions of glucagon like peptide-1 (GLP-1) based therapies. GLP-1 agonist exendin-4 may have insulin-independent effects on amelioration of insulin resistance and hepatic steatosis by virtue of its action on hepatic GLP-1 receptors, and these effects can be improved by combination with proton pump inhibitors. However, it was not assessed whether omeprazole can improve the peripheral actions of exendin-4 in the state of insulin deficiency.",
+        "journal": "Pharmacological reports : PR",
+        "year": "2013",
+        "authors": [
+          "Patel Vishal",
+          "Joharapurkar Amit",
+          "Dhanesha Nirav",
+          "Kshirsagar Samadhan",
+          "Detroja Jaysukh"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antioxidants",
+          "Blood Glucose",
+          "Diabetes Mellitus, Experimental",
+          "Drug Therapy, Combination",
+          "Exenatide",
+          "Glucagon-Like Peptide 1",
+          "Hypoglycemic Agents",
+          "Insulin Receptor Substrate Proteins",
+          "Insulin Resistance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24145087/"
+      },
+      {
+        "pmid": "18028533",
+        "title": "Prospective Acid Reflux Study of Iran (PARSI): methodology and study design.",
+        "abstract": "Gastroesophageal reflux disease is a common and chronic disorder but long term, prospective studies of the fate of patients seeking medical advice are scarce. This is especially prominent when looking at non-erosive reflux disease (NERD) patients.",
+        "journal": "BMC gastroenterology",
+        "year": "2007",
+        "authors": [
+          "Nasseri-Moghaddam Siavosh",
+          "Razjouyan Hadi",
+          "Alimohamadi Seyed Maysam",
+          "Mamarabadi Mansoureh",
+          "Ghotbi Mohamad-Hamed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Biopsy",
+          "Comorbidity",
+          "Drug Administration Schedule",
+          "Esophagogastric Junction",
+          "Esophagus",
+          "Feasibility Studies",
+          "Female",
+          "Follow-Up Studies",
+          "Gastroesophageal Reflux",
+          "Gastroscopy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18028533/"
+      },
+      {
+        "pmid": "28780229",
+        "title": "The effects of helicobacter pylori eradication on modification of metabolic syndrome parameters in patients with functional dyspepsia.",
+        "abstract": "Helicobactor pylori (H. pylori) have the potential role in the pathogenesis of various extra-gastric disorders such as metabolic disorders. But, it is now questioned about whether H. pylori eradication reduces or induces the risk for metabolic disorders especially in patients with dyspepsia. Hence, the present study aimed to assess the effects of H. pylori eradication on criteria of metabolic syndrome.",
+        "journal": "Diabetes & metabolic syndrome",
+        "year": "2017",
+        "authors": [
+          "Mokhtare Marjan",
+          "Mirfakhraee Hosna",
+          "Arshad Mahmoud",
+          "Samadani Fard Seyed Hossein",
+          "Bahardoust Mansour"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Blood Glucose",
+          "Disease Eradication",
+          "Dyspepsia",
+          "Female",
+          "Glycated Hemoglobin",
+          "Helicobacter pylori",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28780229/"
+      },
+      {
+        "pmid": "27480449",
+        "title": "Randomized, double-blind, placebo-controlled trial to evaluate the effect of Helicobacter pylori eradication on glucose homeostasis in type 2 diabetic patients.",
+        "abstract": "Literature data suggest an association between Helicobacter pylori infection and glucose homeostasis. However, a causative link between them has not been demonstrated yet. The aim of this study is to investigate the effect of H. pylori eradication on glucose homeostasis in patients with type 2 diabetes.",
+        "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+        "year": "2016",
+        "authors": [
+          "Bonfigli A R",
+          "Boemi M",
+          "Festa R",
+          "Bonazzi P",
+          "Brandoni G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Biomarkers",
+          "Blood Glucose",
+          "Clarithromycin",
+          "Diabetes Mellitus, Type 2",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27480449/"
+      },
+      {
+        "pmid": "22389003",
+        "title": "A case of esomeprazole-induced transient diabetes and hepatitis: the role of liver inflammation in the pathogenesis of insulin resistance.",
+        "abstract": "We describe a case report of a patient who developed transient type 2 diabetes after a drug-induced (esomeprazole) sub-acute hepatitis. This case evidences the pathophysiological relevance, also in humans, of liver inflammation in the pathogenesis of type 2 diabetes.",
+        "journal": "Acta diabetologica",
+        "year": "2014",
+        "authors": [
+          "Zaccardi Francesco",
+          "Pitocco Dario",
+          "Martini Francesca",
+          "Caputo Salvatore",
+          "Miele Luca"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Chemical and Drug Induced Liver Injury",
+          "Diabetes Mellitus, Type 2",
+          "Esomeprazole",
+          "Humans",
+          "Inflammation",
+          "Insulin Resistance",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22389003/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:40:59.716569",
+  "success": true,
+  "error_message": null
+}

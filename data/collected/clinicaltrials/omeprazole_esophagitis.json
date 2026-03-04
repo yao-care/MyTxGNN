@@ -1,0 +1,928 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "esophagitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00557921",
+      "title": "A Randomized, Double-Blind, Double-Dummy, Parallel Group, Phase 3 Efficacy and Safety Study of CGT-2168 Compared With Clopidogrel to Reduce Upper Gastrointestinal Events Including Bleeding and Symptomatic Ulcer Disease",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-12",
+      "completion_date": "2009-11",
+      "country": "Bulgaria, France, Chile, Czechia, Mexico, Puerto Rico, Italy, Hungary, Slovakia, Germany, Australia, Ukraine, Romania, Poland, Canada, United States",
+      "enrollment": 5000,
+      "brief_summary": "The purpose of the COGENT-1 clinical trial is to determine whether CGT-2168 (clopidogrel and omeprazole) compared to clopidogrel is safe and effective in reducing the incidence of gastrointestinal bleeding and symptomatic ulcer disease, in the setting of concomitant aspirin therapy.\n\nAntiplatelet therapy is an essential element of care for patients with atherothrombotic disease. Bleeding is a fundamental adverse effect of all antiplatelet drugs including aspirin, clopidogrel and dual antiplatele",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients in whom a requirement for clopidogrel therapy with concomitant aspirin is anticipated for at least the next 12 months. Specific conditions that may confer a need for long-term clopidogrel + aspirin therapy may include non-ST segment elevation acute coronary syndrome (",
+      "endpoints": [
+        "Composite of upper gastrointestinal clinical events, including gastroduodenal bleeding, symptomatic gastroduodenal ulcer, persistent pain with multiple gastric erosions, obstruction or perforation"
+      ],
+      "sponsor": "Cogentus Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00557921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02140073",
+      "title": "Research of Efficient Use of Omeprazole in Combination With Domperidone in Gastroesophageal Reflux Disease of Mild to Moderate Severity",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2013-12",
+      "completion_date": "2014-06",
+      "country": "Belarus",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to determine the efficacy, safety, and tolerability of omeprazole in combination with domperidone in GERD treatment for subsequent efficient pharmacotherapy of GERD.\n\nObjectives of the trial To assess the efficacy of omeprazole in combination with domperidone regarding change of incidence and severity of clinical symptoms of GERD during 8 weeks of treatment To compare the efficacy of omeprazole in combination with domperidone regarding change of incidence and severit",
+      "eligibility_criteria": "Criteria of inclusion of subjects\n\n* desire to participate in the trial and ability to sign the informed consent;\n* age above 18;\n* gastroesophageal reflux disease, manifested in heartburn no less than twice a week prior to the 1st visit;\n* use for the trial period of safe contraception methods for ",
+      "endpoints": [
+        "change incidence of heartburn after 8 weeks of treatment with Omez-DSR preparation in comparison with OMEZ preparation",
+        "change severity of heartburn after 8 weeks of treatment with Omez-DSR preparation in comparison with OMEZ preparation"
+      ],
+      "sponsor": "Belarusian Medical Academy of Post-Graduate Education",
+      "url": "https://clinicaltrials.gov/study/NCT02140073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00123656",
+      "title": "Comparison of Esomeprazole to Aerosolized, Swallowed Fluticasone for Eosinophilic Esophagitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Eosinophilic esophagitis (EE) is a recently recognized entity. It has been thought to be related to both allergies and acid reflux. There have been reports that both swallowed, aerosolized steroids and proton pump inhibitors have been effective treatments. The researchers propose to directly compare the efficacy of aerosolized fluticasone to esomeprazole in the treatment of eosinophilic esophagitis. The hypothesis is that aerosolized fluticasone (Flovent) will be more effective in relieving symp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18-80 with EE, defined as: a) dysphagia, food impaction or other upper gastrointestinal symptoms (chest pain, heartburn, regurgitation); b) multiple esophageal rings or furrows; c) the presence of \\>20 eosinophils/high power field in the squamous epithelium or de",
+      "endpoints": [
+        "To measure change in eosinophil infiltration and degranulation at 8 weeks in response to treatment of allergy versus treatment for GER in EE patients"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT00123656"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01397084",
+      "title": "An 8-week, Open Label, Multicentre Study to Assess the Efficacy of Esomeprazole 20 mg Once Daily in Subjects With Continuing Symptoms of Heartburn Following Treatment With a Previous Rabeprazole",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2012-01",
+      "country": "N/A",
+      "enrollment": 107,
+      "brief_summary": "Administration of esomeprazole 20 mg to subjects who still had heartburn after receiving rabeprazole 10 mg once daily for at least 4 weeks will result in statistically significant improvement of heartburn after 8-week treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male of female aged 20 years or more\n* History of reflux esophagitis\n* Ongoing (until date of Visit 1) treatment with rabeprazole 10 mg, given once daily, for at least 4 weeks.The subject must take rabeprazole at least 4 days a week in the past 7 days prior to Visit 1.\n* Persi",
+      "endpoints": [
+        "Change in the Frequency of Heartburn During the 7-day Period Prior to the 8 Week Visit (Visit 3) Compared to the Frequency of Heartburn During the 7-day Period Prior to Baseline (Visit 1)."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01397084"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05813561",
+      "title": "A Multicenter, Randomized, Double-Blind, Active-Parallel-Controlled, Phase 3 Clinical Study to Investigate the Efficacy and Safety of DWP14012 in the Treatment of Reflux Esophagitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-12-30",
+      "completion_date": "2023-02-17",
+      "country": "China",
+      "enrollment": 332,
+      "brief_summary": "To evaluate the efficacy, safety, and cost-effectiveness of DWP14012 40 mg compared to esomeprazole magnesium enteric-coated tablets for the treatment of reflux esophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must meet all of the following inclusion criteria to be eligible for this study:\n\n  1. Male or female subjects aged 18-75 years (inclusive);\n  2. Subjects with a confirmed diagnosis of reflux esophagitis (Grade A-D according to LA classification) by esophagogastroduod",
+      "endpoints": [
+        "mucosal healing within 8 weeks"
+      ],
+      "sponsor": "Daewoong Pharmaceutical Co. LTD.",
+      "url": "https://clinicaltrials.gov/study/NCT05813561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03367195",
+      "title": "Efficacy and Safety of DLBS2411 Compared to Omeprazole in the Management of Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2018-08-16",
+      "completion_date": "2020-09-09",
+      "country": "Indonesia",
+      "enrollment": 32,
+      "brief_summary": "This is a 2-arm, prospective, double-blind double-dummy, randomized-controlled study comparing DLBS2411 at a dose of 250 mg twice daily with omeprazole at a dose of 20 mg twice daily, given before morning and evening meals, for an 8-week course of therapy. Subjects should avoid taking meals 2-3 hours before bedtime.\n\nThe bioactive fraction of DLBS2411 has been proved at cellular and genetic levels to have an antiulcer effect through both suppressing the gastric acidity and enhancing gastric muco",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Agree to participate in the study under signed informed consent.\n2. Male or female subjects aged 18-65 years old.\n3. Subjects with diagnosis of GERD confirmed by endoscopy, with esophagitis grade A-B according to the LA Classification.\n4. Able to take oral medication.\n5. Subj",
+      "endpoints": [
+        "Healing rate by endoscopy"
+      ],
+      "sponsor": "Dexa Medica Group",
+      "url": "https://clinicaltrials.gov/study/NCT03367195"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04329000",
+      "title": "The Impacts of On-demand Versus Continuous Esomeprazole Therapy on the Symptom Control and Histological Changes of Metaplastic Esophageal Epithelium in Patients With Barrett's Esophagus (EsoBE) - a Multicentre Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-02-02",
+      "completion_date": "2019-12-08",
+      "country": "N/A",
+      "enrollment": 218,
+      "brief_summary": "On-demand PPI therapy is feasible for the long-term treatment of patients with Barrett's esophagus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients between the ages of 20 and 80 years\n* having symptoms of acid regurgitation, heart burn, or feeling of acidity in the stomach\n* having Barrett's Esophagus proven by histology confirmation\n* length of esophageal metaplastic mucosa equal to or longer than 1 centimeter\n\n",
+      "endpoints": [
+        "Rates of progression, remaining unchanged, or regression of the distal esophageal metaplastic mucosa in both groups after 48 weeks",
+        "Total symptom day",
+        "Number of tablets consumed"
+      ],
+      "sponsor": "Kaohsiung Veterans General Hospital.",
+      "url": "https://clinicaltrials.gov/study/NCT04329000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00658632",
+      "title": "A Randomized Double-Blind Parallel Study of Rabeprazole Extended-Release 50 mg Versus Esomeprazole 40 mg for Healing and Symptomatic Relief of Mild to Moderate Erosive Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 1397,
+      "brief_summary": "The purpose of this study is to investigate the efficacy and safety of Rabeprazole (RAB) Extended-Release (ER) 50 mg versus Esomeprazole (ESO) 40 mg in subjects with erosive gastroesophageal reflux disease (eGERD).",
+      "eligibility_criteria": "KEY INCLUSION CRITERIA:\n\n1. Male or female, ages 18 to 75 years.\n2. History of gastroesophageal reflux disease (GERD) symptoms for at least 3 months immediately before screening.\n3. Heartburn for at least 2 days a week for at least 1 month before screening.\n4. Esophageal erosions of Los Angeles (LA)",
+      "endpoints": [
+        "Percentage of Participants With Erosive Gastroesophageal Reflux Disease (eGERD) Who Achieved Endoscopically-confirmed Healing by 8 Weeks",
+        "Percentage of Participants With eGERD Who Achieved Endoscopically-confirmed Healing by 4 Weeks"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00658632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03615677",
+      "title": "A Multi-center, Randomized, Double-blind, Parallel-group, Active-controlled Phase III Clinical Study to Evaluate the Efficacy and Safety of LXI-15028 Comparing With Esomeprazole in the Treatment of Erosive Esophagitis in Chinese Patients for up to 8 Weeks",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-10-24",
+      "completion_date": "2019-10-18",
+      "country": "China",
+      "enrollment": 261,
+      "brief_summary": "This is a multi-center, randomized, double-blind, parallel-group, active controlled Phase III clinical study to evaluate the efficacy and safety of LXI-15028 50 mg comparing with esomeprazole 40 mg after the treatment of erosive esophagitis in Chinese patients for up to 8 weeks.\n\nScreening-eligible subjects will be randomized into LXI-15028 50mg treatment group or esomeprazole 40mg treatment group at Visit 2 (Day 0) stratified by LA grade (A or B/C/D) at baseline according to the ratio of 1:1 an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\) Subject who volunteers to sign the written informed consent form approved by the independent ethics committee and agrees to participate in this study prior to the initiation of any study procedures.\n\n  2\\) Subject who is able to understand and comply with the protocol requ",
+      "endpoints": [
+        "Cumulative endoscopic healing rate"
+      ],
+      "sponsor": "Shandong Luoxin Pharmaceutical Group Stock Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03615677"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06664008",
+      "title": "The Effect of Probiotic and Zinc Supplementation in Patients With Gastroesophageal Reflux Disease",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-11-01",
+      "completion_date": "2025-10-01",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "Introduction:\n\nGastroesophageal reflux disease (GERD) is a common digestive disorder affecting the esophagus and gastro-duodenum, presenting symptoms such as acid reflux and heartburn. GERD\\&#39;s incidence, symptoms, and prognosis are heavily influenced by diet and lifestyle factors. Current management of GERD involves lifestyle modifications (e.g., weight loss, dietary changes) and pharmacologic agents like proton pump inhibitors (PPIs), histamine-2-receptor blockers (H2 B), antacids, and medi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged 18-74 years; (both male and female).\n* Esophagitis that might be confirmed by gastroscopy.\n* Patients with confirmed symptoms of GERD N.B.: The typical clinical presentation of GERD is heartburn and regurgitation. Heartburn is defined as a retrosternal burning sens",
+      "endpoints": [
+        "Change in Gastrointestinal Symptom Rating Scale (GSRS)"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT06664008"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04803162",
+      "title": "The Role of High-resolution Esophageal Manometry and Specific Biomarkers of Inflammation in the Diagnosis of Patients With Dysphagia and Suspected Eosinophilic Esophagitis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2017-11-14",
+      "completion_date": "2021-12",
+      "country": "Poland",
+      "enrollment": 58,
+      "brief_summary": "The aim of the project is to assess the correlation between the results of high-resolution oesophageal manometry and specific biomarkers of inflammation (eotaxin 3, major basic protein, IL-5, IL-13, TGF-beta1) with symptoms of dysphagia, endoscopic and histological features and the assessment of quality of life in patients with eosinophilic esophagitis.\n\nResearch hypothesis: The results of high resolution esophageal manometry (HRM) and specific inflammatory biomarkers correlate with symptoms of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients over 18 years of age,\n* patients referred for endoscopic diagnostics due to dysphagia.\n\nExclusion Criteria:\n\n* already diagnosed chronic diseases with possible eosinophilic infiltration of the gastrointestinal tract (eosinophilic esophagitis, eosinophilic gastroenteri",
+      "endpoints": [
+        "High-resolution manometry",
+        "Serum biomarkers",
+        "Gastrointestinal Quality of Life index"
+      ],
+      "sponsor": "Wroclaw Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT04803162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02486263",
+      "title": "Pathophysiology of the Aerodigestive Reflex in Infants: GERD Management Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2020-03-31",
+      "country": "United States",
+      "enrollment": 76,
+      "brief_summary": "The overall purpose of the investigator's study is to evaluate the causes of and treatment for feeding difficulty in infants with Gastro-esophageal Reflux Disease (GERD). New treatments can be possible only if the cause is known. Many infants have GERD and feeding difficulties, such as sucking and swallowing problems, vomiting, or delayed emptying of the stomach. Some of these infants have difficulty in protecting their airway during feeding or during reflux, and as a result can breathe fluid in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hospitalized infants with aerodigestive or GERD symptoms\n* Gestational age ≤42 weeks\n* Premature infants are eligible at 34 weeks postmenstrual age (PMA)\n* Enteral or Oral Fed\n* Average daily total feeding volume ≥ 150ml/kg/day\n* Room air or supplemental oxygen of ≤1 liter/min",
+      "endpoints": [
+        "CLINICAL OUTCOME OF FEEDING SUCCESS",
+        "MOTILITY OUTCOMES: Presence of Esophageal Peristaltic Reflexes"
+      ],
+      "sponsor": "Nationwide Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02486263"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02081404",
+      "title": "Diagnosis of Acid Reflux Disease Using Novel Imaging: A Prospective Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-03-01",
+      "completion_date": "2020-08-05",
+      "country": "United Kingdom, United States",
+      "enrollment": 98,
+      "brief_summary": "Gastroesophageal reflux disease (GERD), a common chronic disorder in the veteran population, is associated with drug costs exceeding $ 10 billion/year. Only 30-40% of patients with reflux symptoms have erosive esophagitis. The vast majority suffers from non erosive reflux disease (NERD), a condition in which standard endoscopy fails to identify any mucosal breaks and is unable to confirm the diagnosis. Unfortunately, a gold standard for the diagnosis of NERD does not exist. Narrow band imaging (",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age\n* Capable of giving informed consents.\n* Cases of NERD will be recruited on the basis of presence of heartburn and/or regurgitation using two validated GERD questionnaires in conjunction with an abnormal esophageal pH result and absence of erosions at standard ",
+      "endpoints": [
+        "NBI endoscopy identifies changes in the distal esophagus that are specific for diagnosing patients with Non-Esophageal Reflux Disease."
+      ],
+      "sponsor": "Midwest Veterans' Biomedical Research Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT02081404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00644735",
+      "title": "Multicenter, Randomized, Double-Blind, Double-Dummy, Parallel-Group Comparison of the Remission Rates of Once Daily Treatment With Esomeprazole 20mg and Lansoprazole 15mg for 6 Months in Patients Whose EE Has Been Healed.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2004-01",
+      "country": "N/A",
+      "enrollment": 750,
+      "brief_summary": "A study to look at the rates of remission (non re-appearance of erosive esomeprazole) when treated with esomeprazole or lansoprazole; in patients in with erosive esomeprazole (EE) that is in remission (i.e. previously healed EE).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Episodes of heartburn (described as a burning feeling rising from the stomach or lower part of the chest up towards the neck) for 2 days or more during the last 7 days prior to baseline\n* Confirmed diagnosis of Erosive Esophagus, patients must undergo an endoscopy before enter",
+      "endpoints": [
+        "To compare rates of remission (non re-appearance of erosive esomeprazole) when treated with esomeprazole or lansoprazole; in patients in with erosive esomeprazole (EE) that is in remission (i.e. previously healed EE)."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00644735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02506634",
+      "title": "The Primary Symptoms of GERD in Chinese Outpatients in Gastroenterology Department: A Cross-sectional Investigation",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2019-01",
+      "country": "China",
+      "enrollment": 374,
+      "brief_summary": "Consecutive patients aged 18-65 years who go to the gastroenterology clinic presented with upper gastrointestinal discomfort would be included. All patients underwent upper endoscopy or an ambulatory 24-h pH(Potential Of Hydrogen) monitoring.Pathologic esophageal acid reflux was defined as the percentage total time for which a pH value \\< 4 was \\>4.2 % in the distal esophagus. Then, patients were treated with esomeprazole 20 mg twice daily for 28 days. The symptom scores were measured by the fre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consecutive patients aged 18-65 years who go to the gastroenterology clinic presented with upper gastrointestinal discomfort, such as heartburn, regurgitation, dysphagia, substernal pain, epigastric pain, epigastric burning, early satiety, postprandial fullness.\n* Whose previo",
+      "endpoints": [
+        "The Primary Symptom of GERD in Chinese Outpatients in Gastroenterology Department"
+      ],
+      "sponsor": "First Affiliated Hospital, Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02506634"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01824199",
+      "title": "CYP2C19 Genotype as a Predictor of Gastric Acid Suppression and Healing of Erosive Esophagitis",
+      "phase": "EARLY_PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2013-03",
+      "completion_date": "2016-11",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "If CYP2C19 genotype can predict the efficacy of healing erosive esophagitis and gastric acid secretion in patients taking once a day omeprazole.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age 18 or older\n* Have either mild-to-moderate Los Angeles (LA) Classification System grade B, moderately severe LA grade C, or severe LA grade D erosive reflux esophagitis\n* Or patients having a clinically indicated pH/impedance monitoring on proton pump inhibitor therapy for",
+      "endpoints": [
+        "The correlation specific to CYP2C19 genotype with gastric acid suppression by omeprazole."
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT01824199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03619408",
+      "title": "Management of Esophagitis Following Repair of Esophageal Atresia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-02-01",
+      "completion_date": "2025-07",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The goal of this study is to prospectively evaluate the impact of antacid therapy on esophagitis in children with repaired esophageal atresia. Recent clinical guidelines have attempted to define a systematic approach to the management of these patients with regards to minimizing and treating esophagitis (Krishnan et al 2016), however the quality of evidence supporting many of the recommendations are based on expert opinion or on limited, retrospective studies. Risk factors for esophagitis and op",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All repaired esophageal atresia patients with primary esophageal anastomosis treated at Boston Children's Hospital are eligible to enroll before or at year-1 surveillance endoscopy\n\nExclusion Criteria:\n\n* Patients with jejunal or colonic interpositions",
+      "endpoints": [
+        "Esophagitis"
+      ],
+      "sponsor": "Boston Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03619408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01093755",
+      "title": "Does Intensive Acid Suppression Reduce Esophageal Inflammation and Recurrent Barrett's Esophagus Following Ablation?: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2014-11",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The investigators hypothesize that intensive acid suppression with a long acting high potency proton pump inhibitor (PPI) drug dexlansoprazole will lead to a greater decrease in levels of inflammatory mediators (compared to conventional PPIs) in the esophagus, which could potentially lead to decreased recurrence of intestinal metaplasia following endoscopic ablation.",
+      "eligibility_criteria": "Patients who have undergone ablation for Barrett's Esophagus (BE) and High Grade Dysplasia (HGD) or Low Grade Dysplasia (LGD) with Photodynamic Therapy (PDT)/Radiofrequency ablation and endoscopic mucosal resection who have no endoscopic and histologic evidence of specialized intestinal metaplasia o",
+      "endpoints": [
+        "Change in Inflammation Biomarker Tissue PGE2 Level",
+        "Change in Esophageal Inflammation Biomarker COX-2 Gene Expression"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT01093755"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05582174",
+      "title": "A Comparison Between a High Dose PPI Intravenous Infusion and Oral Acid Pump Inhibitors After Endoscopic Haemostasis to Bleeding Peptic Ulcers",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-05-18",
+      "completion_date": "2026-01-03",
+      "country": "China",
+      "enrollment": 594,
+      "brief_summary": "Vonoprazan (VPZ), an oral potassium-competitive acid blocker (P-CAB) has emerged as an alternative potent acid-suppressant.It has a faster onset of action in 1 day (3-5 days in PPI), and is more stable in acidic condition than PPI. While many studies compared Vonoprazan against PPI in the treatment of reflux oesophagitis, H. Pylori eradication, and gastric ulcers; thus far, there is a paucity of data on use of Vonoprazan on bleeding peptic ulcers.\n\nWe perform a multicenter randomized controlled ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Patients aged ≥18 years who had undergone oesophagogastroduodenoscopy (OGD) for sign and symptoms of aneamia or upper GI bleeding including haematochezia, melaena or haematemesis, and found to a non-variceal upper GI cause of bleeding (peptic ulcers, dieulafoy's lesions, Ma",
+      "endpoints": [
+        "The number of recurrent bleeding"
+      ],
+      "sponsor": "Chinese University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT05582174"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426595",
+      "title": "Pharmacokinetics of Enteral Omeprazole Suspension in Patients With Cerebral Palsy and Mental Retardation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2007-11",
+      "country": "Belgium",
+      "enrollment": 14,
+      "brief_summary": "Gastroesophageal reflux disease and reflux-esophagitis are a major chronic problem in most children with cerebral palsy and mental retardation. Oral administration of enteric-coated formulations of the acid-labile proton pump inhibitor omeprazole is often problematic in these patients who may be suffering from swallowing disorders. A suspension of omeprazole in a sodium bicarbonate solution is often used for administration via the gastrostomy tube. This trial aims to compare the pharmacokinetics",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children \\> 15 kg\n* Cerebral palsy and mental retardation with swallowing disorders\n* Presence of gastrostomy tube\n* GERD and/or reflux-esophagitis treated with omeprazole at the same dose since at least 2 weeks\n* Informed consent\n\nExclusion Criteria:\n\n* Treatment with ciclosp",
+      "endpoints": [
+        "Pharmacokinetics (at the end of the treatment period of 14 days)"
+      ],
+      "sponsor": "University Hospital, Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT00426595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03943992",
+      "title": "A Randomized, Double-blind, Double-dummy, Active Comparator, Multi-centers, Non-inferiority Design Clinical Trial to Assess the Efficacy and Safety of YYD601 in the Treatment of Esophageal Reflux Disease (ERD) (Phase3).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-01-29",
+      "completion_date": "2020-07-01",
+      "country": "South Korea",
+      "enrollment": 170,
+      "brief_summary": "A randomized, double-blind, double-dummy, active comparator, multi-centers, non-inferiority design clinical trial to assess the efficacy and safety of YYD601 in ERD patients (phase 3).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A man or woman over 20 years old less than 70 years old.\n* A man or woman who has experienced symptom (heartburn and acid regurgitation) within 7 days before Visit 1, meet below 1) or 2) criteria, who has been made diagnosis as Erosive esophagitis(LA grade A\\~D) measured throu",
+      "endpoints": [
+        "LA grade 0(zero)"
+      ],
+      "sponsor": "Yooyoung Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03943992"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06953986",
+      "title": "Study Comparing Vonaprazan 10 mg, Vonaprazan 20 mg, and Esomeprazole 40 mg for the Healing of LA Grade B or Higher Reflux Esophagitis at 8 Weeks",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-06-07",
+      "completion_date": "2027-12-12",
+      "country": "India",
+      "enrollment": 414,
+      "brief_summary": "Primary Objective\n\n• To compare the healing rates of LA grade B or higher reflux esophagitis at 8 weeks among patients treated with Vonaprazan 10 mg, Vonaprazan 20 mg, and Esomeprazole 40 mg once daily.\n\nSecondary Objectives\n\n* To assess the improvement in reflux symptoms using the GERD-Q score at 8 weeks.\n* To evaluate the incidence of adverse events across treatment groups.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults ≥18 years of age.\n* Endoscopically confirmed LA grade B, C, or D reflux esophagitis.\n* GERD symptoms (heartburn, regurgitation) for at least 4 weeks prior to enrollment.\n* Willing to provide informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n* Prev",
+      "endpoints": [
+        "• Endoscopic healing of reflux esophagitis at 8 weeks (defined as resolution of LA grade B, C, or D esophagitis).",
+        "Endoscopic healing of reflux esophagitis at 8 weeks (defined as resolution of LA grade B, C, or D esophagitis)."
+      ],
+      "sponsor": "Asian Institute of Gastroenterology, India",
+      "url": "https://clinicaltrials.gov/study/NCT06953986"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01599858",
+      "title": "YF476: Effects of Repeated Dosing at 2 Dose Levels on 24-hour Ambulatory Gastric pH Compared With Placebo and Omeprazole in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1996-08",
+      "completion_date": "1996-10",
+      "country": "United Kingdom",
+      "enrollment": 49,
+      "brief_summary": "The objectives of this study were:\n\nTo compare repeated doses of YF476 at 2 dose levels, placebo and omeprazole with respect to their effect on basal- and food- stimulated gastric pH in healthy volunteers.\n\nTo compare repeated doses of YF476 at 2 dose levels, placebo and omeprazole with respect to their effect on basal and meal stimulated pH.\n\nTo assess the safety, tolerability and pharmacokinetics of repeated doses of YF476 in healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged 18-45 years.\n* No clinically relevant abnormal findings in the clinical history or physical examination at the screening assessment which could interfere with the objectives of the study or make the subject's participation hazardous.\n* No clinically relevan",
+      "endpoints": [
+        "Pharmacodynamic measurements: continuous 24h ambulatory gastric pH and 24 h plasma gastrin",
+        "Assessment of safety and tolerability",
+        "Pharmacokinetic analysis of plasma YF476 concentrations"
+      ],
+      "sponsor": "Trio Medicines Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01599858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00658775",
+      "title": "A Randomized, Double-Blind, Parallel Study of Rabeprazole Extended-Release 50 mg Versus Esomeprazole 40 mg for Healing and Symptomatic Relief of Moderate to Severe Erosive Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2010-01",
+      "country": "Bulgaria, France, Chile, Croatia, India, Hungary, Lithuania, Germany, Australia, Latvia, Canada, Argentina, Estonia, United States",
+      "enrollment": 1069,
+      "brief_summary": "The purpose of this study is to investigate the efficacy (ie, healing and symptom relief) and safety of Rabeprazole Extended-Release (RAB ER) 50 mg versus Esomeprazole (ESO) 40 mg for the treatment of moderate to severe erosive Gastroesophageal Reflux Disease (eGERD).",
+      "eligibility_criteria": "KEY INCLUSION CRITERIA:\n\n1. Male or female, ages 18 to 75 years.\n2. History of GERD symptoms for at least 3 months immediately before screening.\n3. Heartburn for at least 2 days a week for at least 1 month before screening.\n4. Esophageal erosions of LA Grades C or D based on EGD taken within 14 days",
+      "endpoints": [
+        "Percentage of Participants With Erosive Gastroesophageal Reflux Disease (eGERD) Who Achieved Endoscopically-confirmed Healing by 8 Weeks",
+        "Percentage of Participants With eGERD Who Achieved Endoscopically-confirmed Healing by 4 Weeks"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00658775"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01107938",
+      "title": "Efficacy and Safety of Ilaprazole for GERD: A Randomized,Double-Blind, Esomeprazole-Controlled,Phase2,Multicenter Trial in China",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2010-05",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 330,
+      "brief_summary": "This study is designed to evaluate the efficacy and tolerability of ilaprazole relative to that of esomeprazole in healing erosive esophagitis and resolving accompanying symptoms of GERD.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consenting patients will be eligible for enrollment if they:\n\n  * are 18-70 years of age,\n  * have at least one of the two symptoms, heartburn and reflux,\n  * have photographically documented erosive esophagitis confirmed by esophagogastroduodenoscopy(EGD), and graded accordin",
+      "endpoints": [
+        "the proportion of patients with healed esophagitis at week 8"
+      ],
+      "sponsor": "Livzon Pharmaceutical Group Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01107938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00516971",
+      "title": "The Use of Proton Pump Inhibitor for the Treatment of Non-erosive Gastro-oesophageal Reflux Disease in Chinese Population",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2003-01",
+      "completion_date": "2008-12",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of proton pump inhibitor for the treatment of non-erosive reflux disease (NERD) in Chinese population. Studies from the western population have estimated a worldwide prevalence of gastro-oesophageal reflux disease from 10 to 20 %. Monthly symptoms of heartburn or acid regurgitation were found in 9.3% of subjects according to a population survey in Hong Kong. Most of these patients did not show evidence of erosive change during upper endoscopy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ambulatory patients with age between 18 -80 years old,\n* Patients with predominant symptoms of heartburn or acid regurgitation at least once weekly with no evidence of endoscopic pathology.\n\nExclusion Criteria:\n\n* Patients under 18 or over 80 years of age,\n* Symptoms of gastro",
+      "endpoints": [
+        "Symptoms assessment, quality of life."
+      ],
+      "sponsor": "Hospital Authority, Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT00516971"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00658528",
+      "title": "A Randomized Double-Blind Parallel Study of Rabeprazole Extended-Release 50 mg Versus Esomeprazole 40 mg for Healing and Symptomatic Relief of Moderate to Severe Erosive Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2010-01",
+      "country": "Bulgaria, France, Chile, Croatia, India, Hungary, Germany, Australia, Latvia, Canada, Argentina, Estonia, United States",
+      "enrollment": 1061,
+      "brief_summary": "The purpose of this study is to determine the safety and efficacy of Rabeprazole extended release (ER) 50 mg versus Esomeprazole 40 mg for healing and symptomatic relief among subjects with erosive gastroesophageal reflux disease (GERD).",
+      "eligibility_criteria": "KEY INCLUSION CRITERIA:\n\n1. Male or female, ages 18 to 75 years.\n2. History of GERD symptoms for at least 3 months immediately before screening.\n3. Heartburn for at least 2 days a week for at least 1 month before screening.\n4. Esophageal erosions of Los Angeles (LA) grades C or D based on EGD taken ",
+      "endpoints": [
+        "Percentage of Participants With Erosive Gastroesophageal Reflux Disease (eGERD) Who Achieved Endoscopically-confirmed Healing by 8 Weeks",
+        "Percentage of Participants With eGERD Who Achieved Endoscopically-confirmed Healing by 4 Weeks"
+      ],
+      "sponsor": "Eisai Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00658528"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01129713",
+      "title": "Comparison of Nexium Versus Secretol in the Healing and Controlling of Symptoms in Gastroesophageal Reflux Disease(GERD)Patients With Severe Erosive Esophagitis(EE).",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2010-05",
+      "completion_date": "2015-05",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "To compare the complete healing of erosive esophagitis(EE) after 3 weeks of treatment with Secretol 80/80 versus Nexium 40 mg daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female\n* Ages 18-75\n* EE Los Angeles grades C or D\n* Heartburn and/or regurgitation at least 3 times a week during the 7 day run- in period prior to randomization.\n* Able to read, understand, and complete study questionnaires and record\n* Able to understand the study p",
+      "endpoints": [
+        "Primary objective is to evaluate the relationship between healing and study drug allotment."
+      ],
+      "sponsor": "Effexus Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01129713"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06955520",
+      "title": "Vonaprazan Versus Esomeprazole for Healing of LA Grade B or Higher Esophagitis After POEM",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-30",
+      "completion_date": "2028-12-25",
+      "country": "India",
+      "enrollment": 300,
+      "brief_summary": "Peroral Endoscopic Myotomy (POEM) is a well-established treatment for achalasia; however, it is frequently associated with gastroesophageal reflux disease (GERD), with many patients developing LA grade B or higher esophagitis. Proton pump inhibitors (PPIs) like Esomeprazole are the standard treatment, but Vonaprazan, a potassium-competitive acid blocker (P-CAB), offers superior acid suppression and may provide enhanced healing in post-POEM reflux esophagitis.\n\nPrimary Objective:\n\n• To compare th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n* History of POEM for achalasia\n* Endoscopic confirmation of LA grade B, C, or D reflux esophagitis at 3 months post-POEM\n* GERD symptoms (heartburn, regurgitation) for ≥4 weeks\n* Willingness to provide informed consent and comply with study procedures\n\nExclusion",
+      "endpoints": [
+        "• Endoscopic healing of reflux esophagitis at 8 weeks (absence of LA grade B or higher esophagitis)."
+      ],
+      "sponsor": "Asian Institute of Gastroenterology, India",
+      "url": "https://clinicaltrials.gov/study/NCT06955520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02028663",
+      "title": "A Double-Blind, Randomized, Dose-finding Study to Evaluate the Safety and Efficacy of CJ-12420 in Patients With Erosive Esophagitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-05",
+      "completion_date": "2014-05",
+      "country": "South Korea",
+      "enrollment": 206,
+      "brief_summary": "The purpose of this study is to investigate the optimal dose and administration methods of CJ-12420 in patients with erosive esophagitis by comparing the safety and efficacy of orally administered CJ-12420 to esomeprazole 40mg.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged between 20-70\n* Diagnosed with Erosive Esophagitis by Esophagogastroduodenoscopy (EGD) and classified into LA Grade A to D within 14 days before randomization to treatment\n\nExclusion Criteria:\n\n* Patients who cannot undergo EGD\n* Patients diagnosed with irritable bowel sy",
+      "endpoints": [
+        "Cumulative healing rate of erosive esophagitis at 8-week"
+      ],
+      "sponsor": "HK inno.N Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT02028663"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00634114",
+      "title": "A Multicentre, Randomised, Double-blind, Parallel-group, Comparative Study to Compare the Efficacy and Safety of Esomeprazole 20 mg Once Daily Oral Administration With Omeprazole 10 mg and Esomeprazole 10 mg Once Daily Oral Administration in Maintenance Treatment in Patients With Healed Reflux Esophagitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-05",
+      "country": "Japan",
+      "enrollment": 540,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of esomeprazole 20 mg once daily for 24 weeks on maintenance of Reflux Esophagitis in patients with healed reflux esophagitis in comparison with omeprazole 10 mg once daily and esomeprazole 10 mg once daily by assessment of presence/absence of recurrence of Reflux Esophagitis throughout the treatment period (from the randomisation to the treatment completion) according to the Los Angeles classification.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with healed Reflux Esophagitis verified by EGD in the preceding study (D961HC00002)\n* Patients with endoscopically verified healed Reflux Esophagitis by EGD receiving general treatment with PPI\n\nExclusion Criteria:\n\n* Gastric or duodenal ulcer verified by EGD within 1",
+      "endpoints": [
+        "Absence of Recurrence of Reflux Esophagitis According to Los Angeles Classification Throughout the Treatment Period."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00634114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06120803",
+      "title": "Effect of Esomeprazole on Radiation Induced Esophagitis in Non-small Cell Lung Cancer (EERENs): A Phase II Single Arm Study",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-03-01",
+      "completion_date": "2028-06-30",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "Thoracic radiation therapy combined with chemotherapy (with or without immunotherapy) is the cornerstone of management in patients with locally advanced non-small cell lung cancer (NSCLC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is ≥ 18 years of age.\n* Patient or patient's legal representative is willing and able to provide written informed consent and HIPAA authorization prior to performance of any study related activity.\n* Patient is willing and able to comply with scheduled visits and treat",
+      "endpoints": [
+        "Grade 2 or higher radiation induced esophagitis"
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06120803"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00857597",
+      "title": "A Randomized Controlled Trial of Transoral Incisionless Fundoplication (TIF) Versus Proton Pump Inhibitors (PPIs) for Treatment of GERD: The TIF vs. PPIs Study",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-03",
+      "completion_date": "2011-12",
+      "country": "Netherlands",
+      "enrollment": 60,
+      "brief_summary": "The study objective is to evaluate the relative merits, safety and effectiveness of Transoral Incisionless Fundoplication (TIF) in GERD patients currently treated with daily Proton Pump Inhibitors (PPIs).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-75 years\n* Proven gastroesophageal reflux (pH \\< 4 for \\> 4.3% time while off PPIs for 7-14 days)\n* On daily PPIs for \\> 1 year\n* Recurrence of GERD symptoms (GERD-HRQL score difference of \\> 10 between on and off PPIs)\n* Normal or hypotonic LES resting pressure (5-40 m",
+      "endpoints": [
+        "GERD symptoms",
+        "GERD symptoms",
+        "GERD symptoms"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00857597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06720610",
+      "title": "Comparison of the Effectiveness of Vonoprazan and Esomeprazole in Improving Initial Symptoms in Patients with Erosive Esophagitis: a Double-Blind Randomized Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-12-09",
+      "completion_date": "2025-06-27",
+      "country": "Indonesia",
+      "enrollment": 216,
+      "brief_summary": "The goal of this clinical trial is to compare drug vonoprazan vs esomeprazole effectiveness to relieve early symptoms in Erosive Esophagitis Patients. It will also learn about the safety of both modalities. The main questions it aims to answer are:\n\nHow does the effectiveness of Vonoprazan compare with Esomeprazole in improving early symptoms of erosive esophagitis patients in the Indonesian population?\n\nResearchers will compare drug vonoprazan to a esomeprazole with a look-alike packaging to se",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged \\>18 years with a GERD-Q score of 8.\n* Diagnosed with erosive esophagitis by endoscopy. (Los Angeles Classification A-D)\n* Patients are willing to undergo a series of therapeutic management.\n\nExclusion Criteria:\n\n* Patients with a history of allergy to PCAB or PP",
+      "endpoints": [
+        "Number of Participants with Symptoms Resolution of Erosive Esophagitis"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT06720610"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03781596",
+      "title": "Randomized Controlled Trial Comparing Fluticasone Plus Omeprazole With Fluticasone Alone for Eosinophilic Esophagitis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-02",
+      "completion_date": "2022-10-02",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of combination therapy with omeprazole and swallowed fluticasone vs fluticasone therapy and placebo in the treatment of Eosinophilic Esophagitis (EoE) in children and adults. This study will be a double-blinded, randomized controlled trial. The primary outcome measured will be histologic assessment of esophageal tissue biopsies measuring number of eosinophils per high power field (eos/hpf). Secondary outcomes will be endoscopic findings and s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 6 to 60 years old\n* DEERS (defense enrollment eligibility reporting system) eligible\n* diagnosis of eosinophilic esophagitis\n\nExclusion Criteria:\n\n* Outside of age range\n* Co-existing inflammatory gastroenterologic condition such as celiac disease, eosinophilic esophagitis",
+      "endpoints": [
+        "Change in esophageal eosinophilia"
+      ],
+      "sponsor": "Walter Reed National Military Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03781596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00574925",
+      "title": "Randomized, Double-Blind, Placebo-Controlled Multicenter Study to Assess Management Strategies for the Use of Esomeprazole (Nexium) in Helicobacter Pylori Infected Patients With Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2007-10",
+      "country": "Switzerland",
+      "enrollment": "N/A",
+      "brief_summary": "The primary objective of this study is to investigate whether eradication treatment of Helicobacter pylori followed by therapy with esomeprazole for a total of 8 weeks extends the time to relapse in patients with gastroesophageal reflux disease (GERD).\n\nA relapse is defined by two consecutive symptom scores of the Eraflux questionnaire within 14 days that are equal or above the critical value of 25.\n\nThe secondary objectives are\n\n1. To compare the time to relapse in the two H. pylori positive st",
+      "eligibility_criteria": "Inclusion criteria:\n\nFor inclusion in the study the subject must fulfill all of the following criteria:\n\n1. Patients aged between 18 and 70 years.\n2. Chronic symptoms (\\>8 weeks) suggestive for GERD, as defined in Table 2 with or without reflux esophagitis grade A-D (Los Angeles classification)\n3. I",
+      "endpoints": [],
+      "sponsor": "University of Zurich",
+      "url": "https://clinicaltrials.gov/study/NCT00574925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499368",
+      "title": "A Multi-center, Randomized, Double-blind Phase III Clinical Trial to Assess and Compare to the Efficacy and Safety of Lafutidine, Famotidine and Omeprazole-referenced in Koran Erosive Esophagitis Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-11",
+      "country": "N/A",
+      "enrollment": 495,
+      "brief_summary": "To evaluate the healing rate and safety of Lafutidine in erosive esophagitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who had symptoms of heartburn with a diagnosis of grade A to D reflux esophagitis according to the Los Angeles classification\n\nExclusion Criteria:\n\n* Gastric or duodenal ulcers (excluding ulcer scars)\n* Concurrent presence of Barrett's esophagus\n* A history of a poor ",
+      "endpoints": [
+        "Recovery Rates of Reflux Esophagitis"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01499368"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06861478",
+      "title": "In-Hospital Morbidity Associated With Proton Pump Inhibitors in Acute Variceal Bleeding and Chronic Liver Disease Treatment",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-10-20",
+      "completion_date": "2026-09-20",
+      "country": "Mexico",
+      "enrollment": 182,
+      "brief_summary": "With this study, the investigators pretend to describe intrahospital morbidity in patients living with cirrhosis (PLC) who present to the emergency department with variceal bleeding (VB).\n\nThis study is a longitudinal, prospective, experimental, analytical single-center clinical trial. The study will be performed in the Hospital Universitario \"Jose E. González\" de la Factultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.\n\nThe studied population consists of adul",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Adult\n* Cirrhosis\n* Variceal Bleeding with only endoscopic findings consistent with portal hypertension complications\n* Hypovolemic shock and Variceal bleeding\n\nExclusion Criteria:\n\n* Shock of any type other than hypovolemic.\n* No cirrhotic patients\n* Patients that have Hepatic",
+      "endpoints": [
+        "Morbidity"
+      ],
+      "sponsor": "Universidad Autonoma de Nuevo Leon",
+      "url": "https://clinicaltrials.gov/study/NCT06861478"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01538849",
+      "title": "Randomized, Double-blind, Active-controlled, Multi-center Clinical Trial to Investigate the Safety, Tolerability and Efficacy of YH4808 in Patients With Reflux Esophagitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2014-05",
+      "country": "South Korea",
+      "enrollment": 154,
+      "brief_summary": "This study is to investigate the optimal clinical dose and administration methods of YH4808 in patients with reflux esophagitis by evaluating the safety and efficacy after YH4808 oral administration.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject who has signed on the written consent\n2. Male and female aged 20 and over\n3. Endoscopically verified Reflux Esophagitis classified into Los Angeles classification Grade A, B, C or D within 2 weeks before randomisation\n\nExclusion Criteria:\n\n1. History or presence of up",
+      "endpoints": [
+        "Number of Participants With Healing of Reflux Esophagitis (RE) Who Were \"Normal(including minimal change)\" at Week 4 Out of Patients Who Were Graded \"A, B, C or D\" at Baseline According to Los Angeles Classification"
+      ],
+      "sponsor": "Yuhan Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01538849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05267613",
+      "title": "A Phase III Study to Assess the Efficacy and Safety of NEXIUM for Maintenance of Healing of Erosive Esophagitis in Pediatric Patients 1 to 11 Years of Age",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-07-01",
+      "completion_date": "2027-09-06",
+      "country": "Spain, Greece, Russia, Italy, Lithuania, Australia, Portugal, Vietnam, Argentina, Belgium, United States",
+      "enrollment": 50,
+      "brief_summary": "The aim of the study is to compare the safety and efficacy of two doses of Nexium in maintaining healing of erosive esophagitis in patients 1 to 11 years of age.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient must be 1 to 11 years of age\n2. Patients must have a clinical history of GERD for at least 3 months before the start of study\n3. For the healing phase: Patients must have confirmed presence of EE at endoscopy performed within one week of the start of the healing phase",
+      "endpoints": [
+        "Presence / absence of Erosive Esophagitis"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT05267613"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05443984",
+      "title": "A Randomized, Double-blind, Parallel, Active-controlled, Non-inferiority, Phase III Multiple Center Clinical Trial to Compare the Efficacy and Safety of JP-1366 20 mg Versus Esomeprazole 40 mg in Patients With Erosive Esophagitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-01-17",
+      "completion_date": "2023-01-05",
+      "country": "South Korea",
+      "enrollment": 300,
+      "brief_summary": "To evaluate the efficacy and safety of JP-1366 20 mg compared to esomeprazole 40 mg in patients with erosive esophagitis",
+      "eligibility_criteria": "* Inclusion Criteria: Subjects must satisfy all the following criteria.\n\n  1. Male or female, ≥ 19 years of age at the time of obtaining consent\n  2. Subjects who had experienced heartburn and regurgitation within 7 days prior to the screening visit, those whose severity and frequency of symptoms fa",
+      "endpoints": [
+        "The cumulative healing rate of mucosal break at 8-week after the investigational product administration (%)"
+      ],
+      "sponsor": "Onconic Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05443984"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01269788",
+      "title": "Comparing Omeprazole With Fluoxetine for Treatment of Non Erosive Reflux Disease and Its Subgroups: a Double-blind Placebo-controlled Clinical Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2011-08",
+      "country": "Iran",
+      "enrollment": 144,
+      "brief_summary": "Gastro-esophageal reflux disease (GERD) is highly prevalent, affecting up to 20% of the adult population in North America. Up to 70% of GERD patients have non-erosive reflux disease (NERD), a term used to describe symptoms suggestive of GERD in patients with no endoscopic evidence of erosive esophagitis. NERD represents a heterogeneous group of patients whom are sub classified according to 24 hours-PH monitoring results and also symptom-acid association analysis(Symptom Index,SI).\n\nTreatment of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age above 18 and below 60 years old\n* experiencing heartburn during last 6 months before inclusion\n* experiencing heartburn during at least 4 of 7 days before inclusion\n* presence of normal mucosa in upper gastrointestinal(GI) endoscopy which has been documented during 7 days ",
+      "endpoints": [
+        "investigator-reported symptom severity"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01269788"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02685436",
+      "title": "Role of Bronchoalveolar Lavage Pepsin Assay in Wheezy Infants",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-03",
+      "completion_date": "2015-05",
+      "country": "N/A",
+      "enrollment": 52,
+      "brief_summary": "Wheezy infants were tested for gastro-esophageal reflux disease (GERD) using combined multiple channel intraluminal impedance-pH (MII-pH), esophagogastroduodenoscope (EGD), lipid laden macrophage index and BAL pepsin. Wheezy infants with abnormal MII-pH or reflux esophagitis were given domperidone and omeprazole then re-evaluated for symptoms control and exacerbations recurrence.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Infants with physician documented 3 attacks of wheezing episodes over the last 6 months or persistent wheeze over the last one month\n\nExclusion Criteria:\n\n* Wheezy infants with atopy (allergic rhino-conjunctivitis or eczema), prematurity (less than 34 weeks), abnormal neurolog",
+      "endpoints": [
+        "Number of Participants in Each Level of Wheeze Control"
+      ],
+      "sponsor": "Mansoura University Children Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02685436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00256737",
+      "title": "Omeprazole Versus Anti-reflux Surgery in the Long-term Management of Peptic Esophagitis - a 10 Year Follow up Study of Patients Previously Studied for 5 Years - A Nordic Multicentre Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-01",
+      "completion_date": "2005-10",
+      "country": "Norway, Denmark, Sweden, Finland",
+      "enrollment": 219,
+      "brief_summary": "The purpose of this study is to study gastritis, GI symptoms during long term omeprazole treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Previous inclusion into Astra study I-635 and willing to continue for another 10 years,\n\nExclusion Criteria:\n\n* Pregnancy or lactation; Woman planning pregnancy within 5 years; Suspected or confirmed malignancy; Documented eradication of Helicobacter pylori.",
+      "endpoints": [
+        "Determine the safety of omeprazole during long term treatment"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00256737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00182260",
+      "title": "ELVIS (Esophagitis-Laparoscopy Versus Inhibitors of Secretion) A Randomized Controlled Trial of Laparoscopic Nissen Fundoplication (LNF) Versus Omeprazole for Treatment of Patients With Chronic Gastro-Esophageal Reflux Disease (GERD)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-01",
+      "completion_date": "2010-04",
+      "country": "Canada",
+      "enrollment": 216,
+      "brief_summary": "LNF is an effective intervention in the management of patients with chronic GERD requiring maintenance therapy. LNF is cost-effective compared with long-term medical therapy.\n\nLNF is more effective than maximum medical therapy in control of respiratory symptoms and complications of GERD.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female GERD patients aged 18-70 years with GERD symptoms.\n* Prior long-term treatment with PPI with minimum duration of 1 year with expected future duration of at least 2 more years.\n* Controlled on 20-40mg/day maintenance PPI therapy prior to study, defined as GERD s",
+      "endpoints": [
+        "GERD Symptom Scale",
+        "Symptom-free Day Measurement",
+        "Cost Measurement"
+      ],
+      "sponsor": "McMaster University",
+      "url": "https://clinicaltrials.gov/study/NCT00182260"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00693225",
+      "title": "Impact of Timing on the Efficacy of Omeprazole/Sodium Bicarbonate Zegerid 40 mg in Healing Reflux Esophagitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 91,
+      "brief_summary": "The purpose of this study was to determine the effect of morning versus bedtime administration of omeprazole/sodium bicarbonate (Zegerid) on endoscopic healing for patients with moderate or severe reflux esophagitis. Our hypothesis was that bedtime administration of Zegerid would be superior in healing esophagitis compared to morning administration prior to a meal.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects who have either moderate to severe erosive esophagitis (Los Angeles grade C or D)\n2. Subjects with esophagitis despite use of a non-omeprazole Proton Pump Inhibitor (PPI)(s) or histamine receptor antagonist (HRA) were invited to participate without a wash-out period.",
+      "endpoints": [
+        "Percent of Subjects Overall Who Healed, Improved, or Stayed the Same or Worsened After 8 Weeks of Treatment"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00693225"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132638",
+      "title": "Evaluation of Complete Remission of Erosive Gastroesophageal Reflux Disease Following Four-week Treatment With Pantoprazole Magnesium 40 mg Versus Esomeprazole 40 mg With Eight-week Extension Treatment in Non-responding Patients - Multicenter, National, Prospective, Randomized, Double-blind, Parallel-group, Phase III",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2012-06",
+      "country": "Brazil",
+      "enrollment": 713,
+      "brief_summary": "The aim of this trial is to evaluate the complete remission of erosive gastroesophageal reflux disease with pantoprazole magnesium 40 mg once daily versus esomeprazole 40 mg once daily during four-week treatment with an extension treatment for non-responding patients. The study includes a baseline period up to 14 days and a treatment period of either 4 weeks (28 -2 + 5 days), or 8 weeks depending on the cure of esophagitis due to gastroesophageal reflux. The study will provide further data on sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Voluntary participation in the study with signature on Informed Consent Form (ICF) prior to specific protocol procedures\n* Patients of any race\n* On outpatient treatment\n* History of frequent symptom crises related to GERD within the last 3 months (at least a frequency of twic",
+      "endpoints": [
+        "Comparatively evaluation of the clinical efficacy of pantoprazole magnesium and esomeprazole in the treatment of patients with erosive gastroesophageal reflux disease (GERD), considering the proportion of patients in complete remission."
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01132638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00728481",
+      "title": "The Role Of Gastroesophageal Reflux Disease (GERD) in Eosinophilic Esophagitis",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-05",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 51,
+      "brief_summary": "The primary aim of this study was to determine the proportion of patients with esophageal eosinophilic infiltration that have objective (measurable) evidence of gastroesophageal reflux disease (GERD).\n\nThis study was also done to see if patients that have eosinophilic esophagitis (EE) and GERD would receive relief from taking the medication Nexium or a steroid called Pulmicort.\n\nThe study also evaluated the accuracy of pH monitoring (acid exposure) within the esophagus as a predictor of endoscop",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients ages 18-80.\n2. Patients who carry the diagnosis of Eosinophilic Esophagitis (EE) based on esophageal biopsies obtained within 18 months prior to enrollment with greater than 15 eosinophils (eos) per high power field (hpf) (400 X magnification).\n3. Patients who have m",
+      "endpoints": [
+        "Histological Response to Treatment",
+        "Symptomatic Response to Treatment"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00728481"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01562639",
+      "title": "Nexium Capsules Specific Clinical Experience Investigation for Maintenance Therapy for Repeatedly Recurring/Relapsing Reflux Oesophagitis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2014-07",
+      "country": "Japan",
+      "enrollment": 647,
+      "brief_summary": "The purpose of this study is to collect following data in patients given Nexium capsule (Nexium) in usual post-marketing use as the maintenance therapy for repeatedly recurring/relapsing reflux oesophagitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with repeatedly recurring/relapsing reflux oesophagitis who will be given Nexium for the first time as a maintenance therapy.\n\nExclusion Criteria:\n\n* Patients having reflux oesophagitis when Nexium is started (Grade A, Grade B, Grade C or Grade D of Los Angeles Classi",
+      "endpoints": [
+        "Number of Adverse Drug Reactions"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01562639"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00243724",
+      "title": "An Open-Label, Parallel-Group, Multi-Centre Study to Determine the Effect of Treatment With Esomeprazole for Six Months on Histological Markers of Esophageal Epithelial Acid-Related Disease in Patients With Upper GI Symptoms.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2007-06",
+      "country": "Canada",
+      "enrollment": 350,
+      "brief_summary": "Determine if different levels of acid-suppression with esomeprazole for 6 months on chosen histological markers of esophageal epithelial acid-related disease in patients with upper GI symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* 18 years or older\n* history of upper GI symptoms\n\nExclusion Criteria:\n\n* Peptic ulcer disease\n* upper gastrointestinal surgery\n* malignancy",
+      "endpoints": [
+        "Change from baseline after 6 months in the level of ki-67 expression and histological markers of esophageal epithelial acid-related disease after acid-suppressive therapy with esomeprazole"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00243724"
+    }
+  ],
+  "timestamp": "2026-03-04T15:41:08.305094",
+  "success": true,
+  "error_message": null
+}

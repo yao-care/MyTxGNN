@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Carbidopa"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00190",
+    "name": "Carbidopa",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:18:13.694096",
+  "success": true,
+  "error_message": null
+}

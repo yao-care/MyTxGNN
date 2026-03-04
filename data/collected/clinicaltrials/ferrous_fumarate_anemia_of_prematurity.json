@@ -1,0 +1,84 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ferrous Fumarate",
+    "disease": "anemia of prematurity"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02858505",
+      "title": "Impact of One Versus Two Amino Acid Chelated Iron Capsules on Prevention of Iron Deficiency Anemia in Non-anemic Women With Twin Gestations",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2016-07",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "Anaemia is the most worldwide health problem affecting pregnant women in both developed and developing countries. During pregnancy there is an inconsistent increase in plasma volume and haemoglobin mass.\n\nIron deficiency anemia is the commonest type of anemia during pregnancy. The pregnant woman needs about 1000 mg of iron during pregnancy.\n\nDiet alone cannot give pregnant woman the daily required amount of the iron (about 27 mg/day) so the Centers for Disease Control and Prevention recommend th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* twin gestations\n* ±12 weeks)\n* normal hemoglobin level (Hb ≥ 120 g/L).\n* women were living in nearby area to make up follow up quit possible\n* willing to participate in our study\n\nExclusion Criteria:\n\n* a recent blood transfusion\n* threatened miscarriage\n* pathological blood l",
+      "endpoints": [
+        "Hemoglobin level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02858505"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02590224",
+      "title": "Ferrous Bis-glycinate Versus Ferrous Glycine Sulfate for the Treatment of Iron Deficiency Anemia During Pregnancy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-01-01",
+      "completion_date": "2017-12",
+      "country": "Egypt",
+      "enrollment": 200,
+      "brief_summary": "Iron deficiency anemia during pregnancy is a significant worldwide health problem, affecting 22% of pregnant women in industrialized countries and 52% in non-industrialized countries. Iron deficiency anemia during pregnancy is associated with increased maternal as well as fetal morbidity, including prematurity, low birth-weight and perinatal and infant loss. Therefore, routine iron supplementation during the second half of pregnancy has been recommended once daily. Others, however, support a sel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Singleton pregnancy.\n2. Gestational age 14-18 weeks.\n3. Mild to moderate anemia\n4. No associated medical or obstetric complications.\n5. Women not already receiving iron therapy.\n6. Women accepted to participate in the study.\n\nExclusion Criteria:\n\n1. Multiple pregnancy\n2. Seve",
+      "endpoints": [
+        "the rate of increase of Hemoglobin level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT02590224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07381426",
+      "title": "Efficacy and Safety of Ferric Citrate in Iron Deficiency Anemia During the Second Trimester of Pregnancy in Bangladesh: A Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02-01",
+      "completion_date": "2027-03-31",
+      "country": "Bangladesh",
+      "enrollment": 680,
+      "brief_summary": "Maternal anemia remains a significant public health concern in low and middle income countries including Bangladesh, contributing to adverse maternal and neonatal outcomes. Despite the widespread use of oral ferrous fumarate, gastrointestinal intolerance and suboptimal adherence remain persistent challenges, indicating the need for alternative iron formulations with improved efficacy and safety profiles. Hence, this study aims to evaluate the efficacy and safety of oral ferric citrate compared t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women aged 18 to 35 years.\n* Gestational age between 13 and 26 completed weeks, confirmed by last menstrual period and/or early ultrasound dating.\n* Diagnosed with moderate to severe iron deficiency anemia (IDA), defined as:\n\nHemoglobin concentration between 7.0 g/dL ",
+      "endpoints": [
+        "Hemoglobin concentration"
+      ],
+      "sponsor": "Dhaka Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT07381426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02959125",
+      "title": "NutFish and Nutrient Supplementation in Pregnancy Class to Improve Maternal and Birth Outcomes",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2016-12-12",
+      "completion_date": "2017-12-20",
+      "country": "Indonesia",
+      "enrollment": 72,
+      "brief_summary": "This study evaluates the intervention of Nut Fish based food, micro nutrients supplementation and pregnancy class to improve maternal and birth outcome. This is cluster randomized trial with two arms. The intervention group will receive Nut Fish based supplementation, multiple micro nutrients, and pregnancy class. The control group will receive government food supplementation, iron folic acid supplementation, and pregnancy class.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* First trimester of pregnancy\n* Anemic or Mid Upper Arm Circumference \\< 23.5cm or no weight gain\n* Plan to deliver at village midwives\n* residence in the study area\n\nExclusion Criteria:\n\n* severe anemia \\< 7.0g/dl",
+      "endpoints": [
+        "Birth weight"
+      ],
+      "sponsor": "Semarang Health Polytechnic",
+      "url": "https://clinicaltrials.gov/study/NCT02959125"
+    }
+  ],
+  "timestamp": "2026-03-04T16:17:26.965710",
+  "success": true,
+  "error_message": null
+}

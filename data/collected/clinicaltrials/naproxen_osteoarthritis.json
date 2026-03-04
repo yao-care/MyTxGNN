@@ -1,0 +1,935 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Naproxen",
+    "disease": "osteoarthritis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00435292",
+      "title": "A Double-Blind, Randomized, Placebo Controlled, Parallel Group, Multi Center Study of Flavocoxid ( Limbrel) vs Naproxen in Subjects With Moderate-Severe Osteoarthritis of the Knee",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-04",
+      "completion_date": "2007-12",
+      "country": "United States",
+      "enrollment": 350,
+      "brief_summary": "Randomized, double-blind, placebo controlled parallel group, multi center study in subjects with moderate-severe osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* OA of the Knee\n* K-L Grade 2-3\n* Positive response to NSAIDS\n\nExclusion Criteria:\n\n* K-L grade 1 0r 4 OA of the knee\n* History of GI Bleed within past 5 years\n* Chronic bleeding disorder",
+      "endpoints": [],
+      "sponsor": "Primus Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00435292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00664560",
+      "title": "Randomized, Double-Blind, Parallel Group, Placebo-Controlled Multi-Center Study Evaluating the Efficacy of PN400 (VIMOVO) Twice Daily (Bid) and Celecoxib Once Daily (qd) in Patients With Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2009-01",
+      "country": "United States",
+      "enrollment": 614,
+      "brief_summary": "We will evaluate the efficacy of PN400 and an active comparator in patients that have Osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Male or non-pregnant female subjects50 years of age and older with a 6-month history of OA of the knee\n2. Female subjects were eligible for participation in the study if they were of non-childbearing potential (i.e., physiologically incapable of becoming pregnant); or of child",
+      "endpoints": [
+        "Change in Western Ontario and McMaster Universities (WOMAC) Pain Questionnaire Subscore From Baseline",
+        "Change in Western Ontario and McMaster Universities (WOMAC) Function Questionnaire Subscore From Baseline",
+        "Change in Patient Global Assessment (PGA) Subscore From Baseline"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00664560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03031938",
+      "title": "A PROTOCOL TO MONITOR FROM BIRTH TO AGE 15 MONTHS THE NEUROLOGICAL DEVELOPMENT OF INFANTS WITH EXPOSURE IN-UTERO IN TANEZUMAB CLINICAL STUDIES AT ALL INVESTIGATIONAL SITES",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-03",
+      "completion_date": "2020-06-04",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "A4091065 is a multicenter, prospective, cohort study with enhance physical an neurodevelopmental surveillance to characterize the outcomes related to the development of infants up to the age of 15 months who were potentially exposed to tanezumab, placebo or comparator via maternal exposure or in utero in any tanezumb study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is an infant born to a mother who was exposed to study drug on a tanezumab clinical study.\n* The infant's mother (who was the tanezumab clinical study participant) must review, agree and sign an informed consent document explaining the details of the perinatal and post",
+      "endpoints": [
+        "Occipital-frontal Head Circumference During 0 to Less Than or Equal to (<=) 2 Months of Participant's Age",
+        "Occipital-frontal Head Circumference at 8 Months of Participant's Age",
+        "Occipital-frontal Head Circumference at 15 Months of Participant's Age"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT03031938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04066426",
+      "title": "Analgesic Efficacy of Naproxen-codeine, Naproxen+Dexamethasone, and Naproxen on Myofascial Pain: A Randomized Double-blind Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-03-01",
+      "completion_date": "2019-07-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 200,
+      "brief_summary": "Temporomandibular disorders (TMDs) are one of the most common muco-skeletal disorders, seen in the dental clinics. Many factors work together to initiate or aggravate the condition, so it is a multifactorial disorder. The etiology of TMDs may be a result of parafunctional habits such as clenching and bruxism, acute trauma to the jaw, trauma from hyperextension e.g. after a long dental treatment, joint laxity, psychological distress, occlusal disharmony like presence of high crown or free-end sad",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Without a systemic disease,\n* Not used any medication in the last week\n* Have a habit of clenching and / or grinding teeth, individuals with normal preoperative results, suffering with pain and / or limitation of the mouth opening in the temporomandibular region\n\nExclusion Cri",
+      "endpoints": [
+        "Pain Evaluation",
+        "Pain Evaluation",
+        "Pain Evaluation"
+      ],
+      "sponsor": "Yuzuncu Yil University",
+      "url": "https://clinicaltrials.gov/study/NCT04066426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02528188",
+      "title": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND, ACTIVE-CONTROLLED, MULTICENTER STUDY OF THE LONG-TERM SAFETY AND EFFICACY OF SUBCUTANEOUS ADMINISTRATION OF TANEZUMAB IN SUBJECTS WITH OSTEOARTHRITIS OF THE HIP OR KNEE",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-07-21",
+      "completion_date": "2019-02-27",
+      "country": "Bulgaria, Brazil, South Korea, Philippines, Croatia, Mexico, Taiwan, Russia, Ukraine, Serbia, Slovakia, Australia, Peru, Colombia, Lithuania, Japan, New Zealand, United States",
+      "enrollment": 3021,
+      "brief_summary": "The purpose of this study is to compare the long-term joint safety and efficacy (pain relief) of the investigational study drug, tanezumab compared to non-steroidal anti inflammatory drugs (NSAIDs) in subjects with osteoarthritis of the hips or knees.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of osteoarthritis of the index hip or knee based on American College of Rheumatology criteria with Kellgren Lawrence X ray Grade of 2 as diagnosed by the Central Reader\n* Currently receiving a stable dose regimen of oral NSAID (naproxen, celecoxib, diclofenac, acec",
+      "endpoints": [
+        "Percentage of Participants With Adjudicated Primary Composite Joint Safety Outcome",
+        "Observation Time-Adjusted Event Rate of Participants With Adjudicated Primary Composite Joint Safety Outcome",
+        "Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale at Week 16"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02528188"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00640627",
+      "title": "A Double-Blind, Placebo-Controlled Study of the Efficacy and Tolerability of Once Daily Celebrex® (Celecoxib) vs. Placebo in the Treatment of Subjects With Osteoarthritis of the Knee Non-Responsive to Naproxen and Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 380,
+      "brief_summary": "To compare the safety and efficacy of celecoxib versus placebo in the treatment of patients with knee osteoarthritis who were unresponsive to treatment with prescription strength naproxen and ibuprofen or who could not tolerate prescription strength naproxen and ibuprofen",
+      "eligibility_criteria": "Inclusion criteria:\n\n* OA of the knee in flare state at baseline visit and functional capacity class of I-III\n* Failed adequate trials of both naproxen and ibuprofen (prescription strength) within the past 5 years due to lack of efficacy, tolerability or both; duration of prescription strength ibupr",
+      "endpoints": [
+        "Change from baseline in Patient's Assessment of Arthritis Pain, according to visual analog scale (VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00640627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01279395",
+      "title": "Impact of Anti-inflammatory Agents on Cholesterol Metabolism and Atherogenic Potency of Patient Plasma",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2010-11",
+      "completion_date": "2018-01-18",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "We hypothesize that administration of anti-inflammatory medications such as celecoxib, naprosyn and diclofenac will cause changes in the blood plasma and white blood cells of patients such that they will be less able to efficiently process cholesterol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 40-70, osteoarthritis, male or female\n\nExclusion Criteria:\n\n* other known autoimmune or inflammatory rheumatic conditions, renal disease, current or recent (\\>1 month) corticosteroid or statin treatment, contraindications to medication (i.e. those taking oral anticoagulant",
+      "endpoints": [
+        "Difference in expression of the cholesterol-metabolizing enzyme cytochrome P450 cholesterol 27-hydroxylase in peripheral blood mononuclear cells (PBMC) before and after treatment with naprosyn, celecoxib or diclofenac."
+      ],
+      "sponsor": "Winthrop University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01279395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03161093",
+      "title": "A Phase 3 Randomized, Double-blind, Multi-dose, Placebo and Naproxen-Controlled Study to Evaluate the Efficacy and Safety of Fasinumab in Patients With Pain Due to Osteoarthritis of the Knee or Hip",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-08-17",
+      "completion_date": "2021-08-27",
+      "country": "Spain, South Africa, Russia, Ukraine, Hungary, Denmark, Germany, United Kingdom, Romania, Poland, Lithuania, United States",
+      "enrollment": 3307,
+      "brief_summary": "The primary objective of the study is to evaluate the efficacy of fasinumab compared with placebo, when administered for up to 16 weeks in patients with pain due to osteoarthritis (OA) of the knee or hip.\n\nThe secondary objectives of the study are:\n\n1. To evaluate the efficacy of fasinumab compared with naproxen, when administered for up to 16 weeks in patients with pain due to OA of the knee or hip\n2. To evaluate the efficacy of fasinumab compared with placebo, when administered for up to 44 we",
+      "eligibility_criteria": "Inclusion Criteria include, but are not limited to, the following:\n\nYear 1:\n\n1. Male and female patients, at least 18 years of age, at screening\n2. A clinical diagnosis of OA of the knee or hip based on the American College of Rheumatology criteria with radiologic evidence of OA (K-L score ≥2 for th",
+      "endpoints": [
+        "Change in the WOMAC Pain Subscale Scores From Baseline to Week 16 in Participants Treated With Fasinumab 1mg SC Q4W Compared With That of Participants Treated With Placebo",
+        "Change in the WOMAC Physical Function Subscale Scores From Baseline to Week 16 in Participants Treated With Fasinumab 1mg Q4W Compared With That of Participants Treated With Placebo",
+        "Change in the WOMAC Pain Subscale Scores From Baseline to Week 16 in Participants Treated With Fasinumab 1mg SC Q8W Compared With That of Participants Treated With Placebo"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03161093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00809354",
+      "title": "A PHASE 3, MULTI-CENTER, RANDOMIZED, DOUBLE-BLIND, CONTROLLED STUDY OF THE LONG-TERM ANALGESIC EFFICACY AND SAFETY OF TANEZUMAB ALONE OR IN COMBINATION WITH NON-STEROIDAL ANTI-INFLAMMATORY DRUGS (NSAIDS) VERSUS NSAIDS ALONE IN PATIENTS WITH OSTEOARTHRITIS OF THE KNEE OR HIP",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-02-12",
+      "completion_date": "2011-01-12",
+      "country": "South Korea, Spain, Philippines, Mexico, South Africa, India, Russia, Ukraine, Netherlands, Canada, Colombia, United States",
+      "enrollment": 2720,
+      "brief_summary": "The purpose of this study is to investigate the long-term analgesic efficacy and safety of tanezumab for patients with osteoarthritis (OA) of the knee or hip currently experiencing partial benefit from, and are tolerating, non-steroidal anti-inflammatory drug (NSAID) therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee or hip according to ACR criteria with Kellgren-Lawrence x-ray grade equal to, or greater than, 2.\n* Patients must be experiencing some benefit from their current stable dose regimen of oral NSAID therapy of either naproxen 500-1000 mg/day or celecoxi",
+      "endpoints": [
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale Score at Week 16",
+        "Change From Baseline in the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Physical Function Subscale Score at Week 16",
+        "Change From Baseline in the Patient Global Assessment (PGA) of Osteoarthritis at Week 16"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00809354"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00830050",
+      "title": "A Study To Determine The Ability Of FMRI To Detect And Quantify The Effect Of Naproxen On Osteoarthritis Of The Hand",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2010-12",
+      "country": "United Kingdom",
+      "enrollment": 24,
+      "brief_summary": "The study hypothesis is that the relief of pain in patients with osteoarthritis in the hand can be detected by a form of brain scanning that detects which parts of the brain are activated when pain is felt.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Right-handed, post-menopausal female, any race, 50-80 years\n* Clinical diagnosis of osteoarthritis of the hand\n* Estimated pain in this joint of at least 5 on a scale of 0 to 10\n\nExclusion Criteria:\n\n* Any patient who smokes more than 5 cigarettes per day\n* Patients receiving ",
+      "endpoints": [
+        "Changes in voxel-wise Blood Oxygen Level Dependent (BOLD) signal throughout the brain and changes in pre-defined brain regions of interest."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00830050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01063920",
+      "title": "A Double-Blind, Double-Dummy, Randomized, Active-Comparator, Non-Inferiority Study of LT-NS001 Versus Naprosyn® for Twelve Weeks in Osteoarthritis Patients to Compare Endoscopic Gastric Ulcer Rates",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-02",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 534,
+      "brief_summary": "LT-NS001 is a prodrug of Naproxen, which is inactive as a cox inhibitor while intact and is rapidly metabolized to Naproxen once absorbed. This trial will compare the rate of gastric ulcer by endoscopy over three months in patients with knee osteoarthritis, with patients receiving either LT-NS001 at a dose which provides comparable dose levels of Naproxen, or Naprosyn® 500mg (an approved treatment for OA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of knee\n* Appropriate candidate for chronic NSAID therapy due to moderate or severe pain on most days in the 28 days before screening for study.\n\nExclusion Criteria:\n\n* Pregnant/Nursing women\n* History of GI bleeding, perforation or obstruction\n* A documented sy",
+      "endpoints": [
+        "Gastric Ulcer by Endoscopy"
+      ],
+      "sponsor": "Logical Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT01063920"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00662610",
+      "title": "A 12-Week, Phase 1, Multicenter, Double-Blind, Randomized, Dose Ranging, Forced Titration, Naproxen-Controlled, Parallel-Group, Pharmacodynamic Study, to Assess the Effects Different Doses of Naproxcinod and Naproxen on Arterial Blood Pressure as Measured by Ambulatory Blood Pressure Monitoring in Osteoarthritis Patients With Controlled Essential Hypertension",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2008-11",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "To assess the effect of naproxcinod vs. naproxen on arterial blood pressure patients with osteoarthritis and controlled essential hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men/Women, 40 or older, diagnosed with hip or knee Osteoarthritis.\n* Hypertensive patient with treated and controlled essential hypertension.\n* Must receive at least one antihypertensive treatment from the following drug classes: Diuretic, Angiotensin-Converting Enzyme (ACE) i",
+      "endpoints": [
+        "To characterize the 24-hour arterial blood pressure profile of different doses of naproxcinod, as measured by ABPM after each treatment period, compared to different doses of naproxen after three 3-week forced titration."
+      ],
+      "sponsor": "NicOx",
+      "url": "https://clinicaltrials.gov/study/NCT00662610"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00303017",
+      "title": "Safety, Efficacy and Acceptability of Flavocoxid (Limbrel) Compared With Naproxen in Subjects With Osteoarthritis of the Knee. A Pilot Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "safety, efficacy and acceptability of Flavocoxid",
+      "eligibility_criteria": "Inclusion Criteria:\n\nOA of the knee,K-L grade 2-3 in general good health is currently taking an NSAID or COX-2 inhibitor -\n\nExclusion Criteria:\n\npregant or nursing women grade 1 or 4 OA any significant medical condition that in the opinion of the physician might put the subject at risk in this study",
+      "endpoints": [
+        "compare efficacy"
+      ],
+      "sponsor": "Primus Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00303017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01160822",
+      "title": "A Randomized, Double Blind, Placebo and Naproxen Controlled, Multi-center, Study to Determine the Safety, Tolerability, Pharmacokinetics and Effect on Pain of a Single Intra-articular Administration of Canakinumab in Patients With Osteoarthritis in the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2011-07",
+      "country": "Germany, France, Finland, United States",
+      "enrollment": 169,
+      "brief_summary": "The purpose of this study was to determine whether, in patients with mild to moderate knee osteoarthritis, canakinumab is safe and tolerable when injected intra-articularly.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent must be obtained before any assessment is performed.\n2. Male and female patients aged 40 - 80 years (inclusive).\n3. Diagnosis of knee osteoarthritis\n4. Radiographic evidence of tibiofemoral compartment osteoarthritis\n5. Pain in the knee during the las",
+      "endpoints": [
+        "Part A: Number of Participants With Intolerance Events",
+        "Part B: Change From Baseline to Day 4 in Pain Using 100 mm Visual Analog Scale (VAS)",
+        "Part B: Change From Baseline to Week 4 in Western Ontario and McMaster Osteoarthritis Index (WOMAC) Pain Subscale"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01160822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00265304",
+      "title": "A Double-Blind, Long-Term Evaluation of the Safety of IDEA-033 in Comparison to Oral Naproxen for the Treatment of the Signs and Symptoms of Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 550,
+      "brief_summary": "The purpose of this study is to evaluate the long-term safety of IDEA-033 (an anti-inflammatory pain-relieving drug applied to the skin) in comparison to naproxen (an anti-inflammatory pain-relieving drug taken by mouth) for the treatment of osteoarthritis of both knees.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who completed Study 17-007 or discontinued from Study 17-007 due to lack of efficacy\n* Patients who did not complete or discontinue from Study 17-007 must have osteoarthritis of both knees for a minimum of six months\n* Have moderate pain in the most involved knee when",
+      "endpoints": [
+        "Adverse events; Dermal-irritation scores; Changes in routine clinical laboratory tests and vital signs obtained at each visit."
+      ],
+      "sponsor": "IDEA AG",
+      "url": "https://clinicaltrials.gov/study/NCT00265304"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00211549",
+      "title": "A Double-Blind, Placebo-Controlled Evaluation of the Safety and Efficacy of Three Doses of IDEA-033 in Comparison to Oral Naproxen for the Treatment of the Signs and Symptoms of Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 875,
+      "brief_summary": "The purpose of this study is to identify the dose(s) of IDEA-033 that will provide a meaningful effect for treating osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of both knees for minimum of six months\n* Moderate pain in the most involved knee when not taking NSAIDs\n* Must have used an oral NSAID on at least three days per week for last three months or 25 of 30 days before screening\n* Demonstrate x-ray evidence of osteoa",
+      "endpoints": [
+        "Change from baseline at Week 12 on pain subscale and physical function subscale on the WOMAC Osteoarthritis Index. Subject global assessment of response to therapy (SGART) on a five-point Likert scale at Week 12."
+      ],
+      "sponsor": "IDEA AG",
+      "url": "https://clinicaltrials.gov/study/NCT00211549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01670552",
+      "title": "Parallel Study, Double-blind, Randomized, to Compare the Safety of Two Therapies for the Treatment of Osteoarticular Inflammation in Dyspeptic Patients.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-02-17",
+      "completion_date": "2017-03-17",
+      "country": "Brazil",
+      "enrollment": 490,
+      "brief_summary": "The purpose of this study is to evaluate the safety of an association with one anti-inflammatory and one gastroprotective agent compared to the one anti-inflammatory and one gastroprotective agent in patients with acute or chronic osteoarticular inflammation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults male or female aged ≥ 18 years old;\n* Comply with all the purposes and procedures of the study by signing and dating the Informed Consent.\n* Acute or chronic osteo-articular injury in need of of anti-inflammatory for a period of 14 days.\n\nExclusion Criteria:\n\n* Pregnant",
+      "endpoints": [
+        "Comparison relieve pain in patients with osteoarticular diseases and dyspeptic symptoms, defined as visual analogue scale (VAS) version modified Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)."
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT01670552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00959439",
+      "title": "A Comparative Bioavailability Study of Naproxen Delayed-Release Tablets, 375mg.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2002-05",
+      "country": "N/A",
+      "enrollment": 34,
+      "brief_summary": "The purpose of this study is to demonstrate the relative bioavailability of Naproxen delayed-release tablets (375 mg).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on physical exam, medical history, or clinical laboratory results on screening.\n\nExclusion Criteria:\n\n* Positive test results for HIV or hepatitis B or C.\n* Treatment for drug or alcohol dependence.",
+      "endpoints": [
+        "Bioequivalence based on AUC and Cmax"
+      ],
+      "sponsor": "Sandoz",
+      "url": "https://clinicaltrials.gov/study/NCT00959439"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00830063",
+      "title": "A PHASE 3 RANDOMIZED, DOUBLE BLIND PLACEBO AND NAPROXEN CONTROLLED MULTICENTER STUDY OF THE ANALGESIC EFFICACY AND SAFETY OF TANEZUMAB IN PATIENTS WITH OSTEOARTHRITIS OF THE KNEE",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-05-05",
+      "completion_date": "2010-08-31",
+      "country": "United States",
+      "enrollment": 832,
+      "brief_summary": "The purpose of this study is to test the efficacy and safety of 2 doses of tanezumab compared with naproxen and placebo in patients with osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee according to Kellgren-Lawrence x-ray grade of 2\n\nExclusion Criteria:\n\n* Pregnancy or intent to become pregnant\n* BMI greater than 39\n* other severe pain, significant cardiac, neurologic or cardiac disease",
+      "endpoints": [
+        "Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Pain Subscale at Week 16: Baseline Observation Carried Forward (BOCF)",
+        "Change From Baseline in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Physical Function Subscale at Week 16: Baseline Observation Carried Forward (BOCF)",
+        "Change From Baseline in Patient Global Assessment of Osteoarthritis at Week 16: Baseline Observation Carried Forward (BOCF)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00830063"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02712957",
+      "title": "A Proof-of-Concept, Randomized, Double Blind, Placebo and Active Control, 3-Period, Crossover Design Study Assessing NEO6860 in Patients With Pain Associated With Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2016-11-24",
+      "country": "Canada",
+      "enrollment": 54,
+      "brief_summary": "The purpose of this study is to assess NEO6860, a modality selective TRPV1 antagonist, in patients with pain associated with osteoarthritis of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI) between 18.0 and 35.0 kg/m2 inclusive;\n* Patients diagnosed with osteoarthritis of the knee, according to American College of Rheumatology (ACR) guidelines, by meeting at least 3 of the following: age \\> 50, morning stiffness \\< 30 minutes, crepitus on ac",
+      "endpoints": [
+        "Mean change in Numerical Rating Scale (NRS, 0-10) from baseline after the staircase test to 8 hours post first dose after the staircase test on the index knee."
+      ],
+      "sponsor": "Neomed Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02712957"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00447486",
+      "title": "A Multicentre, Randomised, Double-Blind, Placebo and Naproxen (500mg) BID Controlled, Phase II Proof of Concept, Parallel Group Study to Assess the Efficacy and Safety of Oral GW842166 at Two Dose Levels Administered for 4 Weeks in Adults With Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "",
+      "country": "Sweden, Denmark, Spain, Germany",
+      "enrollment": 308,
+      "brief_summary": "The purpose of this study is to determine whether GW842166 is effective in the treatment of osteoarthritis pain of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female outpatient, \\>= 40 years of age\n* meets ACR clinical and radiographic criteria for classification of idiopathic (primary) osteoarthritis of the knee with symptom duration for at least 3 months\n* meets ARA functional status requirements\n* meets WOMAC pain subscal",
+      "endpoints": [
+        "The pain subscale score on the Western Ontario and McMasters Universities OA Index (WOMAC) taken at Day 28 compared to baseline"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00447486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00527904",
+      "title": "A 12-month, Phase 3, Open-label, Multi-center Study to Evaluate the Long-term Safety of PN400 in Subjects Who Are at Risk for Developing NSAID-associated Ulcers",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2009-03",
+      "country": "United States",
+      "enrollment": 239,
+      "brief_summary": "This study uses an open-label design and will be conducted in approximately 60 sites aiming to enroll a total number of 200 subjects to ensure that at least 100 subjects will have 12 months exposure to PN400 (VIMOVO).",
+      "eligibility_criteria": "Inclusion Criteria\n\nA subject was eligible for inclusion in this study if all of the following criteria applied:\n\n1. Male or non-pregnant female subjects with a history of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis or other medical conditions expected to require daily NSAID therapy",
+      "endpoints": [
+        "Number of Subjects Monitored for Long-term Safety of PN 400"
+      ],
+      "sponsor": "POZEN",
+      "url": "https://clinicaltrials.gov/study/NCT00527904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02355236",
+      "title": "A Prospective, Randomized, Double-blinded, Double-dummy, Active-controlled, Multi-center, Interventional Study to Compare Gastro-protective Effect and Pain Relief Effect of Naxozol Compared to Celecoxib in Patients With Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-02",
+      "completion_date": "2015-12",
+      "country": "South Korea",
+      "enrollment": 106,
+      "brief_summary": "Naxozol is a combination product of naproxen, a non-steroidal anti-inflammatory drug (NSAID) and esomeprazole, a proton pump inhibitor which is designed to improve symptoms and reduce risk of gastric ulcers in patients at risk of developing NSAID-associated gastric ulcers in the treatment of osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis. The purpose of this study is to investigate whether naxozol protects the gastrointestinal tract effectively compared to celecoxib, a COX-2 in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Koreans given informed consent\n* Patients who have ability of reading comprehension and completing questionnaires (EQ-5D and VAS)and have willingness to follow-up 12 weeks\n* Patients with osteoarthritis symptoms confirmed by his/her medical history and with pain-VAS of 40 and ",
+      "endpoints": [
+        "Leads Dyspepsia Questionnaire (LDQ) Change"
+      ],
+      "sponsor": "Severance Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02355236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00652808",
+      "title": "Double-Blind, Double Dummy, Randomized Comparison Study to Evaluate the Efficacy and Safety of Valdecoxib 10 mg QD and Naproxen 500 mg BID in Treating the Signs and Symptoms of Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-05",
+      "completion_date": "2004-09",
+      "country": "South Korea",
+      "enrollment": 265,
+      "brief_summary": "This study was performed to demonstrate that treatment with valdecoxib 10 mg daily (QD) was at least as effective as with naproxen 500 mg twice daily (BID), a standard non-steroidal anti-inflammatory drug (NSAID), when taken for 6 weeks in Korean subjects with symptomatic osteoarthritis (OA) of the knee. Secondary objectives were to assess the overall safety and tolerability of valdecoxib 10 mg QD taken for 6 weeks in Korean subjects with symptomatic OA of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Korean outpatients with symptomatic radiologic evidence of OA of the knee (diagnosed according to the modified American College Rheumatology criteria)\n* Patient's Assessment of Arthritis Pain measurement of at least 40 mm on VAS\n* Patients had not received any NSAIDs or analge",
+      "endpoints": [
+        "Patient's Assessment of Arthritis Pain using a Visual Analogue Scale (OA-Pain VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00652808"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00737737",
+      "title": "Effects of Chronic Musculoskeletal Pain and Opioidergic Versus Placebo Interventions on Neuroendocrine Function in Men",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "This study will examine hormone function in men with osteoarthritis pain and how it is affected by opioid medication (such as Percocet, Vicodin, MS Contin and morphine) versus placebo.\n\nMen between 30 and 65 years of age who have had moderate to severe osteoarthritis joint pain at least 5 days a week over the past 3 months may be eligible for this study. Candidates are screened with a physical examination, x-rays, laboratory and other tests, and questionnaires about pain, mood and medical health",
+      "eligibility_criteria": "-INCLUSION CRITERIA:\n\n1. Clinical evidence of chronic OA by history, examination and radiological examination\n\n   * a. Pain level of 4/10 or greater on a scale of 0 to 10 over a 2 week screening period\n   * b. Pain for a duration of 3 months or longer present at least 5 out of 7 days a week by histo",
+      "endpoints": [
+        "Is Chronic Opioid Treatment Associated With Changes in Adrenocorticotropic Hormone (ACTH), Cortisol, Luteinizing Hormone (LH) and Testosterone Secretion?"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00737737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03949673",
+      "title": "Study to Evaluate Arthroplasty Specimens in the Phase 3 Fasinumab Program for Osteoarthritis of the Knee and Hip",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-04-08",
+      "completion_date": "2020-08-25",
+      "country": "United Kingdom, Poland, United States",
+      "enrollment": 23,
+      "brief_summary": "The objective of this exploratory study is to evaluate the cellular and connective tissue composition of joints from patients with Osteoarthritis (OA) who have been treated with fasinumab, compared with those treated with placebo or Non-steroidal anti-inflammatory drugs (NSAIDs).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Previously randomized to R475-PN-1523 (NCT02683239), R475-OA-1611 (NCT03161093), or R475-OA-1688 (NCT03304379) and received at least 1 dose of study drug\n* Notified the site that they are planning a knee or hip arthroplasty during the parent study between randomization and",
+      "endpoints": [
+        "Number of Participants by Degree of Synovial Lymphocytic Inflammation",
+        "Number of Participants by Degree of Cartilage Loss",
+        "Number of Participants by Degree of Bony Changes"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03949673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05050409",
+      "title": "SMART Embedded Intervention for Military Postsurgical Engagement Readiness",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-05-01",
+      "completion_date": "2027-10",
+      "country": "United States",
+      "enrollment": 500,
+      "brief_summary": "The overarching objective of this proposal is to conduct a multi-site Sequential Multiple Assignment Randomized Trial (SMART) across multiple Military Health System (MHS) sites to optimize the sequencing and integration of two intervention strategies in total knee arthoplasty (TKA) patients: a single-session mindfulness-based intervention (MBI) and an intensive 8-week MBI-Mindfulness-Oriented Recovery Enhancement (MORE) designed to simultaneously reduce prolonged pain and chronic opioid use by e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Scheduled to undergo unilateral total TKA at one of the study sites\n* TRICARE beneficiary\n* Facility with the English language that is adequate to complete study procedures.\n\nExclusion Criteria:\n\n* Cognitive impairment preventing completion of study procedures,\n* Formal mindfu",
+      "endpoints": [
+        "Western Ontario and McMaster (WOMAC) Universities Osteoarthritis Index"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT05050409"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05541185",
+      "title": "Effects of Nigella Sativa Oil on Pain Intensity and Physical Functions in Patients With Knee Osteoarthritis: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-15",
+      "completion_date": "2021-03-31",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 75,
+      "brief_summary": "Purpose: The study was conducted to determine the effect of 1 ml of nigella sativa oil applied for 2 minutes three times a day for 21 days on pain severity and physical functions in patients with knee osteoarthritis (OA).\n\nDesign and methods: This randomized controlled study was conducted with patients diagnosed with knee OA and admitted to the physical therapy outpatient clinic of a public hospital in Turkey between February 15, 2021 and March 31, 2021. A total of 75 patients were included in t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- 50 years or older,\n* Can speak Turkish and have no communication problems,\n* Diagnosed with knee OA by the physician according to the ACR criteria, and grade 2-3 according to the radiological classification of Kellgren and Lawrence,\n* Having knee pain in the last three mont",
+      "endpoints": [
+        "1st Measurement"
+      ],
+      "sponsor": "Mersin University",
+      "url": "https://clinicaltrials.gov/study/NCT05541185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00743587",
+      "title": "A Randomized, Double-Blind, Placebo And Active Controlled Methodology Study Investigating The Effects Of Tramadol And Naproxen On The Pain Thresholds Of Patients With Severe Pain Due To Osteoarthritis Of The Thumb",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2009-03",
+      "country": "Belgium",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to determine if the measurement of pressure pain thresholds, in patients suffering osteoarthritis of the thumb, can be used to assess the activity of potential analgesic agents after a single dose. The study will use agents known to give pain relief in osteoarthritis as positive controls. These agents are: tramadol, naproxen and oxycodone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The clinical diagnosis of osteoarthritis of the hand, of at least 6 months duration.\n* Pain around one of the thumb joints due to osteoarthritis. The patient must report the average pain in this joint, in the week prior to screening, as at least 5 on an 11-point numerical pain",
+      "endpoints": [
+        "Pressure pain threshold - area under the curve"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00743587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02847702",
+      "title": "A Phase 2a, Multicenter, Randomized, Double-blind, Placebo Controlled and Active-controlled, Parallel-group Study Evaluating the Analgesic Efficacy and Safety of VM902A in Subjects With Moderate to Severe Chronic Pain Due to Osteoarthritis of the Knee",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2016-08",
+      "completion_date": "2016-11-22",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "The purpose of this study is to evaluate the analgesic efficacy, safety, and tolerability of VM902A twice daily compared to placebo in subjects with moderate to severe chronic pain due to OA of the knee.",
+      "eligibility_criteria": "Key Inclusion Criteria Include:\n\n1. Males and females ≥ 40 and ≤ 75 years of age with moderate to severe chronic OA pain of the knee (lasting several hours daily) as their predominant pain condition for at least 6 months prior to screening\n2. Diagnostic criteria for primary pain condition (American ",
+      "endpoints": [
+        "Daily \"Average Pain Over the Last 24 Hours\" Score at Week 4"
+      ],
+      "sponsor": "Purdue Pharma LP",
+      "url": "https://clinicaltrials.gov/study/NCT02847702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00541489",
+      "title": "A 13-Week, Phase 3, Multicenter, Randomized, Parallel-Group, Double-Blind, Placebo Bid and Naproxen 500 mg Bid, Controlled Study on the Efficacy on Signs and Symptoms, and Safety of Naproxcinod (HCT3012) 750 mg Bid, in Patients With Osteoarthritis of the Hip",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "",
+      "country": "Canada, United States",
+      "enrollment": 800,
+      "brief_summary": "To study the efficacy and safety of Naproxcinod vs. Placebo and Naproxen in the treatment of signs and symptoms of Osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women (40 or older) with a diagnosis of primary OA of the hip\n* Must be a current chronic user of NSAIDS or acetaminophen\n* Must discontinue all analgesic therapy at Screening\n\nExclusion Criteria:\n\n* Uncontrolled Hypertension or Diabetes\n* Hepatic or renal impairment\n*",
+      "endpoints": [
+        "The primary objective of this study is to show that Naproxcinod is superior to placebo in relieving OA signs and symptoms in subjects with OA of the hip"
+      ],
+      "sponsor": "NicOx",
+      "url": "https://clinicaltrials.gov/study/NCT00541489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01207115",
+      "title": "A Global Multicenter, Randomized, Double-Blind, Placebo- and Active-Controlled Study Comparing the Analgesic Efficacy and Safety of ABT-652 to Placebo in Subjects With Osteoarthritis Pain of the Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2011-05",
+      "country": "Chile, Puerto Rico, Australia, Canada, United States",
+      "enrollment": 322,
+      "brief_summary": "To compare the analgesic efficacy and safety of ABT-652 administered twice daily (BID) to placebo in subjects with osteoarthritis (OA) of the knee.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* History of OA of the knee joint and meeting American College of Rheumatology (ACR) Clinical and Radiographic criteria,\n* Pain score as required by the protocol at Screening and Baseline\n* Willing to washout of analgesics and to follow treatment plan, visit schedules and study p",
+      "endpoints": [
+        "24-hour average pain score measured by Visual Analog Scale"
+      ],
+      "sponsor": "AbbVie",
+      "url": "https://clinicaltrials.gov/study/NCT01207115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00648258",
+      "title": "A Double-Blind, Double Dummy, Randomized Comparison Study Of The Efficacy And Safety Of Valdecoxib 10mg QD And Naproxen 500mg BID In Treating The Signs And Symptoms Of Osteoarthritis Of The Knee Or Hip In Taiwan",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2004-04",
+      "country": "Taiwan",
+      "enrollment": 130,
+      "brief_summary": "To evaluate the efficacy, safety, and tolerability of valdecoxib by comparing valdecoxib 10 mg daily (QD) with naproxen 500 mg twice daily (BID) in treating the signs and symptoms of osteoarthritis (OA) of the knee or hip. The study was designed to collect comparative information for the local population (Taiwan).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The diagnosis of hip OA, which was having hip pain and meeting criteria for at least 2 of the following: a. Westergren erythrocyte sedimentation rate of \\< 20 mm/hr; b. radiographic femoral or acetabular osteophytes or c. radiographic joint space narrowing\n* Knee OA diagnosis ",
+      "endpoints": [
+        "Patient's Assessment of Arthritis Pain (Osteoarthritis-Pain VAS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00648258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00643799",
+      "title": "A Randomized, Multicenter, Double-Blind, Double-Dummy Study Comparing the Efficacy and Tolerability of Once Daily Celebrex (Celecoxib) and Naproxen 500 mg Twice Daily in the 6-month Treatment of Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-03",
+      "completion_date": "2005-01",
+      "country": "United States",
+      "enrollment": 586,
+      "brief_summary": "To compare the safety and efficacy of celecoxib versus naproxen for the treatment of knee osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the knee as defined by the American College of Rheumatology criteria in a flare state at baseline visit\n* Functional Capacity Classification of I-III\n\nExclusion Criteria:\n\n* Inflammatory arthritis or gout/pseudo-gout with an acute flare within the past 2 year",
+      "endpoints": [
+        "Number of responders, defined as a 20% improvement from baseline in the The Western Ontario MacMaster (WOMAC)Questionnaire Total Score"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00643799"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00504127",
+      "title": "A Phase 3, 53 Weeks Study on Analgesic Efficacy and Safety of Naproxcinod (HCT 3012): 26-Week, Randomized, Parallel-Group, Double-Blind, Placebo (13 Weeks)- and Naproxen (26 Weeks)-Controlled, Multicenter Study of Naproxcinod (375 mg Bid and 750 mg Bid) With a 26-Week Naproxen-Controlled Safety Follow-up in Subjects With Osteoarthritis of the Knee, and a 1-week Post-treatment Safety Follow-up",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 1020,
+      "brief_summary": "To study of efficacy and safety of Naproxcinod vs. Naproxen and Placebo in the indication of signs and symptoms of osteoarthritis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and Woman (40 or older) with a diagnosis of primary OA of the knee.\n* Must be a current chronic user of NSAIDS or acetaminophen\n* Must discontinue all analgesic therapy at Screening\n\nExclusion Criteria:\n\n* Uncontrolled Hypertension or Diabetes\n* Hepatic or Renal Impairment",
+      "endpoints": [
+        "To show that both doses of Naproxcinod (375 mg twice daily [bid] and 750 mg bid) were superior to placebo in relieving osteoarthritis (OA) signs and symptoms in subjects with OA of the knee at Week 13."
+      ],
+      "sponsor": "NicOx",
+      "url": "https://clinicaltrials.gov/study/NCT00504127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00503828",
+      "title": "The Efficacy and Safety of Derris Scandens Benth Extract and Naproxen for Therapy of Patients With Knee Osteoarthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2009-03",
+      "country": "Thailand",
+      "enrollment": 120,
+      "brief_summary": "Derris Scandens Benth (family : Leguminosae) is a woody vine growing throughout Southeast Asia, including Thailand. The stem of D.Scandens has been widely use in Thai traditional medicine, foe example of myalgia. Previous study shown that D.Scandens Benth extract has the anti-inflammatory activity. Although NSAIDs are efficaciously in the treatment of osteoarthritis,but the GI side effect is still concerned. In this study we aim to investigate the efficacy and safety of D. Scandens Benth extract",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>=50 yr\n* Known case of primary knee osteoarthritis\n* WOMAC pain subscale (item1) \\>= 5\n* signed informed consent\n\nExclusion Criteria:\n\n* hypersensitive to NSAIDs\n* history of peptic ulcer or melena\n* unable to walk , i.e. patient with severe spinal stenosis, myocardial i",
+      "endpoints": [
+        "WOMAC score"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT00503828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00772967",
+      "title": "A Double-Blind, Placebo-Controlled, 3-Period Crossover Study to Evaluate the Analgesic Effects of Naproxen and Ultracet in a Walking Model of Osteoarthritis Knee Pain",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2008-11",
+      "country": "N/A",
+      "enrollment": 22,
+      "brief_summary": "This study will evaluate a walking model of osteoarthritis for use in testing of new therapeutic agents. The primary hypothesis is that participants treated with Naproxen or Ultracet will have lower Pain Intensity (PI) than those treated with Placebo during self-paced walks on Day 3 of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has osteoarthritis of the knee and primary source of pain is knee\n* Females must not be pregnant or nursing and must agree to use birth control throughout the study\n* Is willing to limit alcohol and caffeine intake\n* Is willing to abstain from smoking during study visits\n* Mus",
+      "endpoints": [
+        "Change From Baseline in Time Weighted Average (TWA) Pain Intensity (PI) on a Numeric Rating Scale (NRS) Due to Self-paced Walks on Day 3"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00772967"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00780325",
+      "title": "A Single Center, Double-blind, Placebo-controlled Phase I Single-dose Cross-over Study in Healthy Subjects to Investigate the Inhibitory Effect of CG100649, Celecoxib, Naproxen, and Acetazolamide on the Activity of Cyclooxygenases (COX-1, COX-2) and Carbonic Anhydrases (CA-I, CA-II)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2008-10",
+      "completion_date": "2013-07",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "Cyclooxygenase-2 (COX-2) inhibitors have become a common analgesic treatment option for patients with arthritis. However, long-term treatment has been associated with increased cardiovascular risk. With the past withdrawals and rejections of approval for COX-2 inhibitors the treatment options are now very limited.\n\nThis translates for example to about 10 million osteoarthritis patients in the US who cannot receive COX-2 inhibitors because of concomitant hypertension. And this exemplifies the unm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-60 years old, able and willing to provide written informed consent to participate in the study;\n2. Subjects must be in generally good health as determined by pre-study medical history, physical examination, clinical laboratory tests and 12-lead electrocardiogram (ECG);",
+      "endpoints": [
+        "Study compound-induced changes on the TxB2 formation in plasma and the formation of prostacyclin metabolite (PGI-M) in urine (Part 1)",
+        "Study compound-induced changes on urinary eicosanoid metabolites (Part 2)",
+        "The study compound's biochemical selectivity for COX-2 (Part 3)"
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT00780325"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00542555",
+      "title": "301: A Phase 3 Study of the Analgesic Efficacy and Safety of HCT 3012: A Parallel, Randomized, Double Blind, 13 Week Placebo and Naproxen Controlled, Multicenter Study of HCT 3012 (375 mg Bid and 750 mg Bid) in Patients With Osteoarthritis of the Knee, Followed by Its Extension (301E): A Parallel, Randomized, Open-Label, Multicenter, 52-Week Follow-up Safety Study of HCT 3012 (375 mg Bid and 750 mg Bid) in Subjects With Osteoarthritis of the Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2007-09",
+      "country": "N/A",
+      "enrollment": 918,
+      "brief_summary": "To study the efficacy and safety of naproxcinod vs. placebo and naproxen in the treatment of signs and symptoms of Osteoarthritis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women (40 or older) with a diagnosis of primary OA of the knee\n* Must be a current chronic user of NSAIDS or acetaminophen\n* Must discontinue all analgesic therapy at screening\n\nExclusion Criteria:\n\n* Uncontrolled hypertension or diabetes\n* Hepatic or renal impairment\n",
+      "endpoints": [
+        "The primary objective of this study is to show that naproxcinod is superior to placebo in relieving OA signs and symptoms in subjects with OA of the knee at 13 weeks and to collect long term safety data"
+      ],
+      "sponsor": "NicOx",
+      "url": "https://clinicaltrials.gov/study/NCT00542555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511926",
+      "title": "European Study in Patients With Osteoarthritis, Rheumatoid Arthritis, or Ankylosing Spondylitis at Gastrointestinal Risk: A Retrospective, Non-interventional Study of Vimovo™ Prescribing Patterns",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2014-03",
+      "country": "Spain, Finland, Norway, Switzerland, Germany, United Kingdom, Netherlands, Belgium",
+      "enrollment": 2000,
+      "brief_summary": "The most common pain-relievers used by patients with rheumatic disorders are called non-steroidal anti-inflammatory drugs (NSAIDs). These drugs are effective and well documented, but they can cause ulcers and gastrointestinal side effects. Vimovo™ is a tablet containing naproxen (NSAID) and a gastroprotective agent called esomeprazole. Patients with rheumatic disorders, who are at risk for developing gastrointestinal side effects, and where lower doses of naproxen or other NSAID treatment is not",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of arthritic disorder (osteoarthritis, rheumatoid arthritis or ankylosing spondylitis) Risk for developing gastrointestinal ulcer Already prescribed Vimovo\n\nExclusion Criteria:\n\n* Participation in any interventional drug study at the time Vimovo™ was prescribed\n* Pat",
+      "endpoints": [
+        "Physicians' part of questionnaire score covering speciality, practice setting and NSAIDs prescribing preferences",
+        "Patients' part of questionnaire score covering demography, medical history and Vimovo™ prescribing preferences"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01511926"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00346216",
+      "title": "A Randomized, Double Blind, Parallel-group Study Of Cardiovascular Safety In Osteoarthritis Or Rheumatoid Arthritis Patients With Or At High Risk For Cardiovascular Disease Comparing Celecoxib With Naproxen And Ibuprofen",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-10-04",
+      "completion_date": "2016-04-12",
+      "country": "Brazil, Philippines, Hong Kong, Mexico, Taiwan, Panama, Ukraine, Australia, Costa Rica, Peru, Canada, Colombia, United States",
+      "enrollment": 24081,
+      "brief_summary": "To answer the question of overall benefit: risk of celecoxib when compared to two most commonly prescribe traditional (non-selective) nonsteroidal anti-inflammatory drugs (NSAIDs) in the treatment of arthritis pain. For this purpose, patients with osteoarthritis or rheumatoid arthritis with or at risk of developing cardiovascular disease will be recruited. The cardiovascular, gastrointestinal and renal safety and symptomatic benefit in each treatment group will be assessed accordingly.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with osteoarthritis or rheumatoid Arthritis with or at risk of developing cardiovascular disease and who require and eligible for chronic, daily therapy with an NSAID to control arthritis sign and symptoms.\n\nExclusion Criteria:\n\n* Subjects have had a recent cardiovasc",
+      "endpoints": [
+        "The First Occurrence of Antiplatelet Trialists Collaboration (APTC) Composite Endpoint, Confirmed by the Clinical Events Committee (CEC)."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00346216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392080",
+      "title": "A Multicenter, Randomized, Placebo And Active-Controlled Study Of The Effect Of CJ-023,423 On The Incidence Gastroduodenal Endoscopic Ulcers In Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 340,
+      "brief_summary": "CJ-023,423 is a new medication being developed as an anti-inflammatory agent for the treatment of the signs and symptoms of osteoarthritis (OA). The purpose of this study is to evaluate whether patients treated with CJ-023,423 for 7 days (14 doses) have fewer gastrointestinal ulcers compared to patients treated with naproxen and placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is a healthy adult 18 to 75 years of age, inclusive; healthy is defined as no clinically relevant abnormalities identified as detailed medical history, full physical examination, including blood pressure \\[BP\\] and pulse rate \\[PR\\]measurement, 12-lead electrocardiogram \\[ECG\\",
+      "endpoints": [
+        "The primary endpoint is the presence of gastroduodenal ulcers in each subject, as determined by a UGI endoscopy at the end of the treatment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00392080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01102660",
+      "title": "A Randomized, Double-Blind, Double-Dummy, Placebo And Active Controlled Two Period Four Treatment Cross-Over Clinical Trial To Examine The Pain Relief Of PH-797804 Alone Or With Naproxen In Subjects With Flare-Enriched Osteoarthritis Of The Knee",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 172,
+      "brief_summary": "PH-797804 is a potent inhibitor of inflammatory mediators that have a potential role in pain signalling following nerve injury and inflammation. Blocking such mediators may potentially have a therapeutic benefit by reducing pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects between, and including, the ages of 18 and 75 years. Females must be of non-childbearing potential.\n* Diagnosis of osteoarthritis of the knee based on American College of Rheumatology criteria with X-ray confirmation (a Kellgren-Lawrence X-ray grade of ",
+      "endpoints": [
+        "Western Ontario & McMaster Osteoarthritis Index Pain Score"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01102660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00928837",
+      "title": "A Double-Blind,Randomized, Placebo Controlled, Parallel Group, Multi-Center Study of Flavocoxid (Limbrel) Versuss Naproxen in Subjects With Moderate-Severe Osteoarthritis of the Knee",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 350,
+      "brief_summary": "The purpose of the study is to compare the efficacy and safety of flavocoxid (Limbrel) with Naproxen and placebo in OA of the knee.",
+      "eligibility_criteria": "Inclusion Criteria:Major inclusión criteria:\n\n1. Adults of either gender, ages 35-85, in general good health\n2. Diagnosed with OA of the knee, K-L Grade 2-3\n3. History of positive response to NSAID's or COX-2 inhibitors\n4. Able and willing to discontinue other medicinal OA therapies for length of th",
+      "endpoints": [
+        "to compare the efficacy of 2 doses of flavocoxid with that of naproxen and placebo at 12 weeks",
+        "to compare the safety of 2 doses of flavocoxid with that of naproxen and placebo at 12 weeks"
+      ],
+      "sponsor": "Primus Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00928837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02674386",
+      "title": "A PHASE 3, MULTICENTER, LONG-TERM OBSERVATIONAL STUDY OF SUBJECTS FROM TANEZUMAB STUDIES WHO UNDERGO A TOTAL KNEE, HIP OR SHOULDER REPLACEMENT",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-08-23",
+      "completion_date": "2019-07-15",
+      "country": "Spain, Sweden, Russia, Italy, Hungary, Serbia, Germany, Australia, Slovakia, Portugal, Canada, Lithuania, Japan, New Zealand, United States",
+      "enrollment": 154,
+      "brief_summary": "A4091064 is a multicenter, long-term observational study of subjects from tanezumab interventional studies (regardless of treatment group) who undergo a total knee, hip or shoulder replacement during participation in the study. The study is designed with a total duration of subject follow-up of 24 weeks after the total joint replacement surgery. There will be two methods of data collection utilized in this study: interview by site staff via the telephone and interactive web-response system (or p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Personally signed and dated informed consent document.\n* Randomized and treated with subcutaneous investigational product in a tanezumab study and has completed the study or been withdrawn from the study.\n* Actual or planned total knee, hip or shoulder replacement surgery duri",
+      "endpoints": [
+        "Number of Participants With Surgeon's Assessment of Procedural Difficulty",
+        "Number of Participants With Overall Satisfaction With Surgery as Assessed by the Self-Administered Patient Satisfaction (SAPS) Scale at Week 24",
+        "Number of Participants With Post-Surgical Complications Upto Week 24"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02674386"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03911570",
+      "title": "Symptomatic Effects of Long-term Crystalline Glucosamine Sulfate Therapy in Hand Osteoarthritis: a Comparative Retrospective Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-09-01",
+      "completion_date": "2019-02-01",
+      "country": "Italy",
+      "enrollment": 108,
+      "brief_summary": "The objective of this study is to retrospectively evaluate the symptomatic effects of crystalline glucosamine sulfate (GS), prescribed for the actually approved indication of knee OA, in addition to conventional therapy, in comparison to the conventional therapy alone in patients with primary hand osteoarthritis (HOA).This is a 6-months retrospective comparative study including patients with concomitant knee and primary HOA, according to the ACR criteria. To be eligible the patients had to prese",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mono or bilateral primary HOA and concomitant knee OA, according to the American College of Rheumatology (ACR) criteria\n* Treatment for at least 6 consecutive months with crystalline GS at the daily dose of 1500 mg in addition to the conventional therapy or with usual care alo",
+      "endpoints": [
+        "Difference between the two groups in the change of the patient's assessment of global hand pain on a 0- 100 mm Visual Analogue Scale"
+      ],
+      "sponsor": "University of Siena",
+      "url": "https://clinicaltrials.gov/study/NCT03911570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00981357",
+      "title": "A Phase 2a Randomized, Double-blinded, Double Dummy, Placebo And Active Controlled, Two-way Cross-over, Flare-enriched Multi-centre Clinical Trial To Examine The Pain Relief Produced By 2 Weeks Of Daily Oral Administration Of A Fatty Acid Amide Hydrolase (Faah) Inhibitor Pf-04457845 In Patients With Osteoarthritis Of The Knee.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2010-05",
+      "country": "Sweden, Canada, United States",
+      "enrollment": 76,
+      "brief_summary": "Inactivation of the FAAH (Fatty Acid Amide Hydrolase) enzyme has been shown to relieve pain and inflammation in animal studies. PF-04457845 has been shown to inactivate the FAAH enzyme in animals and healthy human volunteers. The purpose of this study is to evaluate whether PF-04457845 can inactivate the FAAH enzyme in patients experiencing pain due to OA and whether this results in these patients experiencing less pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have a diagnosis of Osteoarthritis (OA) of the knee confirmed by X-ray\n* Subjects must be willing and able to stop all current pain therapy for the duration of study. (Limited and specific pain therapy will be available throughout the study)\n* Subjects can be mal",
+      "endpoints": [
+        "To evaluate the efficacy of PF-04457845 (administered QD) versus placebo in relieving pain as measured by the WOMAC Pain sub-score in patients with osteoarthritis of the knee",
+        "To evaluate the safety and tolerability of PF-04457845 in patients with osteoarthritis."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00981357"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01761864",
+      "title": "The Effect of Academic Detailing on Prescribing of Analgesics in Primary Care: a Randomised Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2016-01",
+      "country": "Belgium",
+      "enrollment": 4000,
+      "brief_summary": "Osteoarthritis is a common problem in primary care. Long-term use of non-steroidal anti-inflammatory drugs (NSAIDs) for pain relief can lead to serious (gastro-intestinal, cardiovascular and renal) adverse events, that can even result in death. NSAIDs differ in their risk of side effects. Opoid analgesics are sometimes used as an alternative for NSAIDs in patients with osteoarthritis. However, these drugs also can lead to serious adverse events. Simple analgesics are first line treatment in pati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Professionally active GPs of all Belgian primary care practices that have received a visit before by Farmaka and are located in the regions where academic detailers are currently active. No age or gender restrictions.\n\nExclusion Criteria:\n\n* GPs who are not professionally acti",
+      "endpoints": [
+        "recommended prescribing of analgetics"
+      ],
+      "sponsor": "Universiteit Antwerpen",
+      "url": "https://clinicaltrials.gov/study/NCT01761864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00447759",
+      "title": "Phase 4 Study A Large Streamline Safety Study Designed to Compare the Cardiovascular Safety od Celecoxib Versus Traditional Non-selective NSAID's",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2015-08",
+      "country": "Denmark, United Kingdom, Netherlands",
+      "enrollment": 7297,
+      "brief_summary": "The Standard Care versus Celecoxib Outcome Trial (SCOT) is a large streamline safety study designed to compare the cardiovascular safety of celecoxib versus traditional non-selective Non Steroidal Anti-Inflammatory Drug (NSAID) therapy.Traditional NSAID's are associated with significant morbidity and mortality from gastrointestinal toxicity. Cyclooxygenase 2 (Cox-2)selective agents are associated with reduced upper gastrointestinal toxicity.Traditional NSAID's and Cox-2 inhibitors may also be as",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects 60 years or over Male \\& Female\n* Chronic NSAIDs use for 90 days or more in a 12 month period\n* Subjects who have a licensed indication for chronic non-selective NSAID or Celecoxib.\n* Eligible for treatment with either Celecoxib or alternative traditional non-selectiv",
+      "endpoints": [
+        "compare cardiovascular safety of celecoxib and traditional NSAIDs prescribed for the treatment of arthritis."
+      ],
+      "sponsor": "University of Dundee",
+      "url": "https://clinicaltrials.gov/study/NCT00447759"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00240773",
+      "title": "A Randomized, Double-Blind, Long-Term Comparative Study Evaluating the Safety and Efficacy of Acetaminophen (4000 mg/Day) and Naproxen (750 mg/Day) in the Treatment of Osteoarthritis of the Hip or Knee",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2003-06",
+      "country": "N/A",
+      "enrollment": 581,
+      "brief_summary": "The purpose of this study is to compare the long-term safety and effectiveness of acetaminophen (4000 mg per day) and naproxen (750 mg per day) in the treatment of osteoarthritis of the hip or knee.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Osteoarthritis of the hip or knee for a minimum of six months duration requiring treatment with either an analgesic or anti-inflammatory agent on a regular basis (greater than or equal to three days/week) for at least three months\n* History of osteoarthritis of the hip or knee",
+      "endpoints": [
+        "Change from baseline in the WOMAC Osteoarthritis Index pain subscale score at Month 6 or at the final visit at the time of subject discontinuation from baseline during the first six months after baseline."
+      ],
+      "sponsor": "Johnson & Johnson Consumer and Personal Products Worldwide",
+      "url": "https://clinicaltrials.gov/study/NCT00240773"
+    }
+  ],
+  "timestamp": "2026-03-04T16:08:42.224448",
+  "success": true,
+  "error_message": null
+}

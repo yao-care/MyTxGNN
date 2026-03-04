@@ -1,0 +1,932 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Capecitabine",
+    "disease": "metastasis from malignant tumor of colon"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00070265",
+      "title": "A Multi-Institutional Phase II Trial Of Neoadjuvant Capecitabine (XELODA) And Oxaliplatin (ELOXATIN) For Resectable Colorectal Metastases In The Liver",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2003-08",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "Drugs used in chemotherapy, such as capecitabine and oxaliplatin, use different ways to stop tumor cells from dividing so they stop growing or die. Giving capecitabine and oxaliplatin before surgery may shrink the tumor so that it can be removed. Giving capecitabine and oxaliplatin after surgery may kill any remaining tumor cells. This phase II trial is studying how well capecitabine and oxaliplatin work when given before and after surgery in treating patients with resectable liver metastases th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed hepatic colorectal metastasis by percutaneous hepatic biopsy\n\n  * Imaging evidence of liver metastasis by CT helical scan\n* Resectable disease, as determined by a surgeon with hepatic surgery expertise (at least 10 resections performed per year)\n\n  * R",
+      "endpoints": [
+        "Rate of complete resection (R0 resection)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00070265"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02758951",
+      "title": "Perioperative Systemic Therapy and Cytoreductive Surgery with HIPEC Versus Upfront Cytoreductive Surgery with HIPEC Alone for Isolated Resectable Colorectal Peritoneal Metastases: a Multicentre, Open-label, Parallel-group, Phase II-III, Randomised Superiority Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-06-01",
+      "completion_date": "2029-06-01",
+      "country": "Netherlands, Belgium",
+      "enrollment": 358,
+      "brief_summary": "This is a multicentre, open-label, parallel-group, phase II-III, superiority study that randomises patients with isolated resectable colorectal peritoneal metastases in a 1:1 ratio to receive either perioperative systemic therapy and cytoreductive surgery with HIPEC (experimental arm) or upfront cytoreductive surgery with HIPEC alone (control arm).",
+      "eligibility_criteria": "Eligible patients are adults who have:\n\n* a World Health Organisation (WHO) performance status of ≤1;\n* histological or cytological proof of PM of a non-appendiceal colorectal adenocarcinoma with ≤50% of the tumour cells being signet ring cells;\n* resectable disease determined by a diagnostic laparo",
+      "endpoints": [
+        "Overall survival"
+      ],
+      "sponsor": "Catharina Ziekenhuis Eindhoven",
+      "url": "https://clinicaltrials.gov/study/NCT02758951"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00118105",
+      "title": "A Phase II Trial of Neoadjuvant Capecitabine, Oxaliplatin, and Bevacizumab for Resectable Colorectal Metastases in the Liver",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2006-11",
+      "completion_date": "2007-04",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as capecitabine and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of tumor cells by blocking blood fl",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of hepatic metastases secondary to colorectal cancer by percutaneous hepatic biopsy\n* Resectable hepatic metastases by any of the following:\n\n  * Minor resection (i.e., less than a hemihepatectomy)\n  * Major resection (i.e., hemihepatectomy or extended hepatecto",
+      "endpoints": [
+        "Proportion of patients with R0 resection after treatment",
+        "Probability of nonprogression (i.e., stable disease or response [complete and partial, confirmed and unconfirmed])",
+        "Comparison of patients achieving R0 resection with literature"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00118105"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04089631",
+      "title": "Circulating Tumour DNA Based Decision for Adjuvant Treatment in Colon Cancer Stage II Evaluation (CIRCULATE) AIO-KRK-0217",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2020-06-26",
+      "completion_date": "2026-06",
+      "country": "Germany",
+      "enrollment": 4812,
+      "brief_summary": "The CIRCULATE study evaluates the adjuvant therapy in patients with colon cancer UICC stage II. The primary aim of the study is to compare the disease free survival in patients who are positive for postoperative circulating tumour DNA with vs. without capecitabine.",
+      "eligibility_criteria": "Inclusion criteria for screening phase:\n\n1. Resected colon cancer stage II, OR Resected rectal cancer stage II, if there was no indication for radiotherapy (i.e. due to the localisation in the upper third of the rectum ), so that the treatment follows the recommendations for colon cancer. Patients, ",
+      "endpoints": [
+        "Disease free Survival (DFS)"
+      ],
+      "sponsor": "Technische Universität Dresden",
+      "url": "https://clinicaltrials.gov/study/NCT04089631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064181",
+      "title": "Irinotecan Combined With Infusional 5-FU/Folinic Acid or Capecitabine and the Role of Celecoxib in Patients With Metastatic Colorectal Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "",
+      "country": "Israel, Hungary, Germany, Egypt, Belgium",
+      "enrollment": 86,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy such as irinotecan, capecitabine, leucovorin, and fluorouracil use different ways to stop tumor cells from dividing so they stop growing or die. Celecoxib may stop the growth of colorectal cancer by stopping blood flow to the tumor. It is not yet known which combination chemotherapy regimen with or without celecoxib is more effective in treating metastatic colorectal cancer.\n\nPURPOSE: This randomized phase III trial is studying two combination chemotherapy r",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the colon or rectum\n* Metastatic disease\n* Measurable disease\n\n  * Patients who received prior radiotherapy must have measurable or evaluable disease outside the radiotherapy field\n* No CNS metastases\n\nPATIENT CHARACTERISTICS:\n\nA",
+      "endpoints": [],
+      "sponsor": "European Organisation for Research and Treatment of Cancer - EORTC",
+      "url": "https://clinicaltrials.gov/study/NCT00064181"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07407465",
+      "title": "Phase II Single Arm Study of Upfront Trastuzumab-Deruxtecan Plus Capecitabine and Bevacizumab for Patients With HER-2 Positive Metastatic Colorectal Cancer: the CHIMERA Study.",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-10-20",
+      "completion_date": "2027-10-20",
+      "country": "Germany, France, Italy, Spain",
+      "enrollment": 42,
+      "brief_summary": "The aim of this study is to evaluate the activity of first-line trastuzumab-deruxtecan, capecitabine and bevacizumab in terms of overall response rate for patients with HER-2 positive metastatic/locally advanced unresectable colorectal cancer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent obtained from the patient/legal representative before performing any protocol-related procedures, including screening evaluations.\n* Patient state to comply with all the study procedures and treatments. Patients must be accessible for treatment and fol",
+      "endpoints": [
+        "Overall Response Rate"
+      ],
+      "sponsor": "Gruppo Oncologico del Nord-Ovest",
+      "url": "https://clinicaltrials.gov/study/NCT07407465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00084643",
+      "title": "A Phase I Study of GTI-2040 in Combination With Oxaliplatin and Capecitabine in Patients With Advanced Metastatic Solid Tumors",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2004-05",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of capecitabine when given together with GTI-2040 and oxaliplatin in treating patients with locally advanced or metastatic colorectal cancer or other solid tumors. Drugs used in chemotherapy, such as oxaliplatin and capecitabine, work in different ways to stop tumor cells from dividing so they stop growing or die. GTI-2040 may increase the effectiveness of chemotherapy by making tumor cells more sensitive to the drugs. Giving GTI-2040",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have locally advanced or metastatic colorectal cancer that is not amenable to surgical treatment; selected patients with advanced disease in incurable cancers of other types may be considered\n* Patients must have histological or cytological proof of malignancy\n* ",
+      "endpoints": [
+        "MTD of the combination of GTI-2040, oxaliplatin and capecitabine based on the incidence of dose-limiting toxicity (DLT) as assessed by CTCAE version 3.0"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00084643"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03125980",
+      "title": "Perioperative CapeOX Chemotherapy Versus Postoperative Chemotherapy for Locally Advanced Resectable Colon Cancer: An Open Label Randomized Controlled Phase III Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2017-05",
+      "completion_date": "2027-05",
+      "country": "China",
+      "enrollment": 1370,
+      "brief_summary": "Adjuvant chemotherapy has been widely adopted worldwide for locally advanced colon cancer. However, more and more studies have found better efficacy and potential advantages of perioperative or neoadjuvant chemotherapy. The sooner the systemic chemotherapy is received, the better suppression it has on activity of tumor growth factors. Pre-operative chemotherapy may eliminate tiny metastases. It may also shrink the invasion of tumor before surgery, and thus reducing operational trauma and expedit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) ≤ 2;\n* Adequate bone marrow, hepatic and renal function as assessed by the following laboratory requirements conducted within 7 days of starting study treatment: Neutrophil count≥1.5×109/L, Platelet count≥100×10",
+      "endpoints": [
+        "3-year disease free survival"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT03125980"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07154316",
+      "title": "A Randomized Phase II Study of Long-term Chemoradiotherapy or Short-term Radiotherapy Combined With CAPOX, PD-1 Monoclonal Antibody and COX-2 Inhibitors in MSS Type Locally Advanced Rectal Cancer",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-08-01",
+      "completion_date": "2028-12-30",
+      "country": "China",
+      "enrollment": 138,
+      "brief_summary": "This randomized phase II trial evaluates the efficacy of long-course chemoradiotherapy (50Gy/25Fx + capecitabine) versus short-course radiotherapy (25Gy/5Fx) combined with CAPOX（Capecitabine and Oxaliplatin）, PD-1 inhibitor (serplulimab), and COX-2 inhibitor (celecoxib) in MSS（MicroSatellite Stable） locally advanced rectal cancer, with primary endpoint of complete response rate (pCR+cCR)（Complete Remission） and secondary endpoints including anal preservation rate and 3-year survival outcomes, ai",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-75 years, regardless of gender.\n* Pathologically confirmed rectal adenocarcinoma.\n* Tumor located ≤10 cm from the anal verge.\n* Baseline stage T3-4 and/or N+ (locally advanced disease).\n* No evidence of distant metastasis.\n* Microsatellite stability (MSS) or proficient ",
+      "endpoints": [
+        "CR (Complete Response)"
+      ],
+      "sponsor": "Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT07154316"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00182715",
+      "title": "A Three-Arm Randomised Controlled Trial Comparing Either Continuous Chemotherapy Plus Cetuximab or Intermittent Chemotherapy With Standard Continuous Palliative Combination Chemotherapy With Oxaliplatin and a Fluoropyrimidine in First Line Treatment of Metastatic Colorectal Cancer (COIN)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2005-03",
+      "completion_date": "",
+      "country": "Ireland, United Kingdom",
+      "enrollment": 2421,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. It is not yet known whether combi",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of colorectal adenocarcinoma, defined by 1 of the following:\n\n  * Histologically confirmed primary adenocarcinoma of the colon or rectum with clinical or radiological evidence of advanced and/or metastatic disease\n  * Histologically or cytologically confirmed me",
+      "endpoints": [
+        "Overall survival at 2 years"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00182715"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01703910",
+      "title": "Phase II Individualized Therapies Selection Study for Patients With Metastatic Colorectal Carcinoma According to the Genomic Expression Profile in Tumor Samples.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2014-12",
+      "country": "Spain",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this study is to assess the feasibility of selecting personalized therapies for colon cancer patients who have failed standard treatments, using a new methodology based on the determination of a profile of chemosensitivity by comprehensive genetic expression analysis from tumor samples.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological examination showed of metastatic colon carcinoma.\n* Patients more than 18 years.\n* Measurable disease according to RECIST 1.1 criteriso\n* Life expectancymore than 3 months according to the criteria of the investigator.\n* Goodoverall condition determined by the ECO",
+      "endpoints": [
+        "Overall survival",
+        "gene expression profiles"
+      ],
+      "sponsor": "Centro Nacional de Investigaciones Oncologicas CARLOS III",
+      "url": "https://clinicaltrials.gov/study/NCT01703910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01453257",
+      "title": "A Phase 2 Study of Target-Guided Personalized Chemotherapy in Metastatic Colorectal Cancer Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-10",
+      "country": "Spain",
+      "enrollment": 72,
+      "brief_summary": "Treatment options for patients with colorectal cancer (CRC) have increased in the last years. However, there are no validated prospective molecular markers in CRC to select which agents are better to treat any individual case. The conventional first-line treatment in CRC patients in clinical studies get a proportion of patients free of progression at 12 months ranging from 35-40% with a median of 9 months of free disease progression.\n\nThe aim of this study is to demonstrate that the identificati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Colorectal adenocarcinoma stage IV patients.\n* ECOG= 0-1\n* Age \\> 18 years.\n* Fit to receive chemotherapy treatment\n* Availability of tumor tissue or possibility of a tumor biopsy to determine therapeutic targets.\n* Adequate renal (Cr \\< 1,5 mg/d), liver (bilirubin≤1,5 mg/dl, ",
+      "endpoints": [
+        "PFS"
+      ],
+      "sponsor": "Grupo Hospital de Madrid",
+      "url": "https://clinicaltrials.gov/study/NCT01453257"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00544011",
+      "title": "Phase II Study Evaluating the Association of Bevacizumab and Chemotherapy of the Type Modified FOLFIRI 3 in Patients With Metastatic Colorectal Adenocarcinoma",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-04",
+      "completion_date": "",
+      "country": "France",
+      "enrollment": 47,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Drugs used in chemotherapy, such as irinotecan, fluorouracil, and capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving bevacizumab together with combination chemotherapy ",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the colon or rectum\n\n  * Previously untreated metastatic disease\n* Measurable disease by RECIST\n\n  * Must not be located in a prior radiation field\n* No cerebral or meningeal metastases\n\nPATIENT CHARACTERISTICS:\n\nInclusion criter",
+      "endpoints": [
+        "Objective response (complete and partial) rate"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00544011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03984578",
+      "title": "Window of Opportunity Study With Neoadjuvant Pembrolizumab in Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-06-12",
+      "completion_date": "2025-02-28",
+      "country": "Singapore",
+      "enrollment": 33,
+      "brief_summary": "This is a window of opportunity translational study investigating the use of pre-operative pembrolizumab and chemotherapy or chemoradiotherapy in non-metastatic colorectal cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. For patients with colon cancer (Group 1): Adenocarcinoma of the colon (radiologic T4 and/or N2) OR rectal adenocarcinoma with positive lymph nodes and/or threatened/positive circumferential resection margin (CRM).\n\n   Radiological staging is based on the degree of tumor infil",
+      "endpoints": [
+        "Tumour immune gene expression signature",
+        "Pathology regression",
+        "Immune T-cell infiltration before and after treatment"
+      ],
+      "sponsor": "National Cancer Centre, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT03984578"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00022698",
+      "title": "A Phase II Study of Oral Xeloda (Capecitabine) in Combination With Intravenous Irinotecan for Patients With Locally Advanced and/or Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2001-05",
+      "completion_date": "2004-12",
+      "country": "United States",
+      "enrollment": 67,
+      "brief_summary": "PURPOSE: Phase II trial to study the effectiveness of combining capecitabine and irinotecan in treating patients who have locally advanced, recurrent, or metastatic colorectal cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed locally advanced, locally recurrent, or metastatic colorectal adenocarcinoma\n* At least 1 measurable lesion\n\n  * At least 10 mm by spiral CT scan\n  * At least 20 mm by conventional techniques\n  * Bone metastases, ascites, or pleural effusions are ",
+      "endpoints": [
+        "Tumor Response Rate Based on Tumor Measurement as Per Response Evaluation Criteria In Solid Tumors Version 1.0 (RECIST 1.0)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00022698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05249101",
+      "title": "A Phase 1b/2, Dose-escalation, Randomized, Multicenter Study of Maintenance Ivaltinostat Plus Capecitabine or Capecitabine in Patients With Metastatic Pancreatic Adenocarcinoma Whose Disease Has Not Progressed on FOLFIRINOX",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-08-15",
+      "completion_date": "2026-07",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "This study is a Phase 1b/2, dose-escalation, randomized, multicenter study to assess the efficacy, safety, tolerability, and PK of ivaltinostat in combination with capecitabine and capecitabine monotherapy in patients with metastatic pancreatic adenocarcinoma whose disease has not progressed on a first line fluoropyrimidine-based chemotherapy (e.g., FOLFIRINOX).\n\nIn Phase 1b, 3 dose levels of ivaltinostat will be studied in combination with a fixed dose of capecitabine to determine the RP2D of i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: ≥18 years\n* For Phase 1b, histologically or cytologically confirmed pancreatic adenocarcinoma (locally advanced or metastatic) with at least 1 prior therapy in either the advanced or perioperative setting\n* For Phase 1b, measurable disease and/or non-measurable disease pe",
+      "endpoints": [
+        "Incidence of dose-limiting toxicities (DLTs) in phase 1",
+        "Incidence of treatment emergent AEs in phase 1",
+        "Treatment emergent changes in clinical laboratory tests in phase 1"
+      ],
+      "sponsor": "CG Pharmaceuticals, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT05249101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04969029",
+      "title": "Randomized, Controlled Phase II Study of Immunotherapy Versus Standard Chemotherapy as Adjuvant Therapy After Surgery for Colon Cancer With MSI-H or POLE/ POLD1 Mutations",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-06-01",
+      "completion_date": "2024-12",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "This is a two-group, parallel, randomized, standard-control phase II study comparing the safety and efficacy of immunotherapy versus standard chemotherapy in patients undergoing T4NX/TXN+ colon cancer surgery with MSI-H or POLE/ POLD1 mutations.This study was conducted in the Department of Gastroenterology, Tumor Hospital of Tianjin Medical University.\n\nPatients with MSI-H or POLE/ POLD1 gene mutations confirmed by PCR sequencing or NGS sequencing will be randomly assigned (2:1) to immunotherapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed the informed consent.\n2. Age ≥18.\n3. Colonic adenocarcinoma confirmed histologically or histopathologically.\n4. No residual cancer was confirmed after radical resection of colon cancer.\n5. According to the overall postoperative results, T4NX/TXN+ colon cancer was deter",
+      "endpoints": [
+        "3-year relapse-free survival"
+      ],
+      "sponsor": "Tianjin Medical University Cancer Institute and Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04969029"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00958737",
+      "title": "A Phase III Randomized Trial Investigating the Duration of Adjuvant Therapy(3 Versus 6 Months) With the Modified FOLFOX 6 or XELOX Regimens for Patients With Stage III Colon Cancer",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2009-05-12",
+      "completion_date": "2023-12",
+      "country": "France",
+      "enrollment": 2000,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as oxaliplatin, leucovorin calcium, and fluorouracil, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. It is not yet known whether giving more than one drug (combination chemotherapy) is more effective when given for 3 months or 6 months in treating patients with colon cancer.\n\nPURPOSE: This randomized phase III trial is studying giving combination chemotherapy for 3 months to see ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Patients who have undergone surgery for colon cancer, defined as a tumor location \\>12 cm from the anal verge by endoscopy and/or above the peritoneal reflection at surgery (high rectum), without gross or microscopic evidence of residual disease after surgery with curative int",
+      "endpoints": [
+        "Disease-free survival (DFS)"
+      ],
+      "sponsor": "GERCOR - Multidisciplinary Oncology Cooperative Group",
+      "url": "https://clinicaltrials.gov/study/NCT00958737"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00536809",
+      "title": "A Phase I/II Study of Lapatinib in Combination With Oxaliplatin and Capecitabine in Subjects With Advanced or Metastatic Colorectal Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-09-26",
+      "completion_date": "2008-10-31",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The purpose of this study is to determine the highest, tolerated dose level and safety of lapatinib, capecitabine and oxaliplatin in subjects with advanced cancer and to determine the clinical activity of the combination of drugs in subjects with previously untreated advanced or metastatic colorectal cancer.",
+      "eligibility_criteria": "Inclusion criteria\n\n1. 18 years of age or older.\n2. A female is eligible to enter and participate in the study if she is of:\n\n   * Non-child-bearing potential (i.e., physiologically incapable of becoming pregnant), including any female who:\n   * Has had a hysterectomy, or\n   * Has had a bilateral oo",
+      "endpoints": [
+        "Overall Response in Phase II"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00536809"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01490996",
+      "title": "A Phase I/IIa Study Combining Curcumin (Curcumin C3-Complex, Sabinsa) With Standard Care FOLFOX Chemotherapy in Patients With Inoperable Colorectal Cancer.",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2017-05-31",
+      "country": "United Kingdom",
+      "enrollment": 41,
+      "brief_summary": "Oral curcumin (complex C3, Sabinsa Corp, Utah) will be given to patients with inoperable colorectal metastases who will be commencing standard care oxaliplatin-based (FOLFOX) chemotherapy for up to 12 cycles(approximately 6 months) of treatment.\n\nPrimary measurements focus on safety and tolerability. These will be recorded in real-time and report the number and severity of adverse events.\n\nSecondary measurements will include efficacy, (measured by response rate with RECIST and overall survival i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological or cytological diagnosis of metastatic colorectal cancer\n* Measurable disease by Response Evaluation Criteria in Solid Tumours version 1.1 (RECIST 1.1) (Appendix 1)\n* Adequate haematological, hepatic and renal function\n* Age ≥ 18 years\n* Eastern Cooperative Oncolo",
+      "endpoints": [
+        "Completion of dose escalation over 2 cycles of therapy"
+      ],
+      "sponsor": "University of Leicester",
+      "url": "https://clinicaltrials.gov/study/NCT01490996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02861300",
+      "title": "Phase I/II Study of CB-839 and Capecitabine in Patients With Advanced Solid Tumors and Fluoropyrimidine Resistant PIK3CA Mutant Colorectal Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09-12",
+      "completion_date": "2023-01-10",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This study has two portions. The main goal of the Phase I portion of this research study is to see what doses of CB-839 and capecitabine can safely be given to patients without having too many side effects. Other purposes of this research study will be to determine what side effects are seen with this combination of medicines. The Phase II portion of the study will test how many patients show shrinkage in their tumor with this combination of medicines and what changes occur inside the cancer cel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Phase I\n\n  * Patients must have an advanced solid tumors for whom there are no remaining treatment options or colorectal patients who have progressed on front-line fluoropyrimidine containing therapy. Patients with colorectal cancer must have progressed on at least one line of",
+      "endpoints": [
+        "PHASE I: Recommended Dose for Phase II Study",
+        "PHASE II: Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Case Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02861300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00087334",
+      "title": "A Phase I/II Study of Capecitabine (XELODA®, Roche) Plus Oxaliplatin (Eloxatin®, Sanofi) Plus ZD 1893 (IRESSA®) in the Treatment of Metastatic Colorectal Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2004-01",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as capecitabine and oxaliplatin, work in different ways to stop tumor cells from dividing so they stop growing or die. Gefitinib may stop the growth of tumor cells by blocking the enzymes necessary for their growth. Combining capecitabine and oxaliplatin with gefitinib may kill more tumor cells.\n\nPURPOSE: This phase I/II trial is studying the side effects and best dose of capecitabine when given together with oxaliplatin and gefitinib and to see how we",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed\\* colorectal cancer\n\n  * Metastatic disease\n  * The site of the primary tumor must have been confirmed endoscopically, radiologically, or surgically to be the colon or rectum NOTE: \\*Confirmation is not required for recurrent meta",
+      "endpoints": [
+        "Maximum tolerated dose",
+        "Response rate"
+      ],
+      "sponsor": "Roswell Park Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00087334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00559676",
+      "title": "Phase 4 Study to Characterize and Evaluate Markers of Chemoresistance in Patients With Metastatic Colorectal Cancer",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "",
+      "country": "France",
+      "enrollment": 200,
+      "brief_summary": "RATIONALE: Studying samples of blood and tumor tissue in the laboratory from patients with cancer receiving chemotherapy may help doctors understand the effect of chemotherapy on biomarkers. It may also help doctors predict how patients will respond to treatment.\n\nPURPOSE: This phase IV trial is studying biomarkers in patients undergoing chemotherapy for metastatic colorectal cancer.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed metastatic colorectal cancer\n\n  * Unresectable metastatic disease must be confirmed histologically if \\> 2 years since primary diagnosis\n* Measurable metastatic disease \\> 1 cm by spiral CT scan or \\> 2 cm by other methods\n* Scheduled to receive f",
+      "endpoints": [
+        "Oncogenetic parameters",
+        "Pharmacogenetic and pharmacokinetic predictors of therapeutic response and toxic effects"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00559676"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06899477",
+      "title": "Pre-Operative Treatment in REseCTable COlon CanceR (PROTECTOR/FIRE-10; AIO-KRK-0620; IAG-VO-0323) Prospective, Randomized, Open, Multicenter Phase III Trial to Investigate the Efficacy Preoperative Systemic Therapy in Advanced Colon Cancer",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04",
+      "completion_date": "2035-04",
+      "country": "Germany",
+      "enrollment": 714,
+      "brief_summary": "This is an open-label, randomized, controlled, multicenter, phase III study with two parallel arms. Patients with advanced colon cancer, including the upper third of the rectum, clinically staged cT3-4 and or cN+ (defined as lymph nodes with short axis of at least 1cm) are randomized in a 2:1 fashion (favoring preoperative therapy= Arm A) to investigate the efficacy, patient reported quality of life and safety of preoperative mFOLFOXIRI or mFOLFOX-6 or CAPOX followed by surgery versus the standa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient's signed informed consent.\n2. Patient's age ≥18 years at the time of signing the informed consent.\n3. Histologically confirmed adenocarcinoma of the colon or upper rectum.\n4. Confirmed mismatch-repair proficient and/or microsatellite stable tumor. Both Immunohistochem",
+      "endpoints": [
+        "Disease-free survival (DFS)"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT06899477"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02027363",
+      "title": "Maintenance Treatment With Capecitabine Versus Observation After First Line Chemotherapy in Patients With Metastatic Colorectal Cancer: a Randomized Phase II Study",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2010-01",
+      "completion_date": "2014-06",
+      "country": "China",
+      "enrollment": 245,
+      "brief_summary": "Colorectal cancer is one of the most common malignant tumors, with the morbidity of approximate 100 million cases per year. About 40% of patients present with metastatic (stage IV) colorectal cancer at the time of diagnosis, and about 25% of patients with local lesion will ultimately develop metastatic disease.\n\n5-Fluorouracil（5-FU) was the only efficacious treatment for metastatic colorectal cancer before the nineties of the 20th century, and afterwards as the discovery of chemotherapy such as ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age older than 18 years\n* Eastern Cooperative Oncology Group performance status (ECOG PS) 0-1\n* histologically confirmed colorectal cancer with inoperable locally advanced or recurrent and/or metastatic disease, not amenable to curative therapy.\n* Life expectancy of at least 3",
+      "endpoints": [
+        "progression-free survival (PFS)"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT02027363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06043999",
+      "title": "A Prospective, Multicenter, Randomized, Open, Parallel Controlled, Non-inferiority Clinical Trial of Salvage Chemoradiotherapy Versus Radical Total Mesorectal Excision in the Treatment of Intermediate-risk Early Middle-low Rectal Cancer After Local Resection",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-09-01",
+      "completion_date": "2028-12-31",
+      "country": "China",
+      "enrollment": 392,
+      "brief_summary": "Whether to perform radical TME or salvage chemoradiotherapy after local resection of intermediate-risk T1 rectal cancer is still controversial. A study based on the National Cancer Data Center showed that, because of the need for organ preservation, rescue chemoradiotherapy after local resection of rectal cancer was used in 10% of patients with T1N0 tumors and in 40% of patients with T2N0 tumors. However, the local recurrence caused by non-TME surgery is still the focus of concern for clinicians",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. aged 18-75 years;\n2. Local radical resection of rectal adenocarcinoma (TEM, TAMIS, TSPM, EMR, ESD or polypectomy)\n3. pT1 with a diameter of 3-5 cm, or a maximum diameter of 3 cm, and at least poor differentiation and/or lymphovascular invasion and/or perineural invasion and/o",
+      "endpoints": [
+        "Three years disease-free survival rate"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06043999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05420584",
+      "title": "Phase Ⅱ Clinical Trial of Neoadjuvant Arterial Embolization Chemotherapy Combined Immune Checkpoint Inhibitor for Locally Advanced Rectal Cancer: A Single Arm Prospective Sturdy",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-11-29",
+      "completion_date": "2025-10-31",
+      "country": "China",
+      "enrollment": 83,
+      "brief_summary": "Rectal cancer is one of the common malignant tumors of the digestive tract. Some patients with rectal cancer are already advanced tumors when they are first diagnosed. At this time, the tumor has local infiltration, the probability of recurrence and metastasis after surgical resection is high, and even radical tumor resection cannot be performed. Neoadjuvant chemotherapy and radiotherapy have become one of the important treatment methods for these patients to increase the rate of radical tumor r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Pathologically confirmed rectal adenocarcinoma (immunohistochemistry, polymerase chain reaction(PCR) or next-generation sequencing(NGS) sequencing methods are acceptable).\n2. Magnetic resonance imaging (MRI) measurement of tumor inferior margin ≤12cm from the anus.\n3. MRI sta",
+      "endpoints": [
+        "Imaging Tumor Regression Rate"
+      ],
+      "sponsor": "The Fourth Affiliated Hospital of Zhejiang University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT05420584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02974556",
+      "title": "Proactive Management of Endoperitoneal Spread in Colonic Cancer",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2024-03-01",
+      "completion_date": "2025-09",
+      "country": "Italy",
+      "enrollment": 140,
+      "brief_summary": "This study aims to determine the oncological effectiveness, compared to standard surgical treatment, of proactive management including target organs for peritoneal spread resection (omentectomy, bilateral adnexectomy, appendectomy, hepatic round ligament resection) and preventive HIPEC (intraperitoneal oxaliplatin with concomitant i.v. 5-fluorouracil/leucovorin) following a curative resection of high-risk ( \\>/= 5 mm tumor invasion beyond the muscularis propria) T3 and T4 colon cancer in prevent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with colon cancer or intraperitoneal rectosigmoid cancer with clinical (by CT) high-risk(\\> 5mm) T3, T4 tumors, any N, M0\n* Performance Status (ECOG) 0, 1 or 2\n* Signed informed consent\n\nExclusion Criteria:\n\n* BMI\\> 30\n* Impossibility of an adequate follow-up\n* Intra ",
+      "endpoints": [
+        "Incidence of endoperitoneal recurrence at 36 months"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT02974556"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01292681",
+      "title": "Multi-modality Imaging in the Prediction of Response to Systemic Treatment in Colorectal Cancer",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2009-08",
+      "completion_date": "",
+      "country": "Netherlands",
+      "enrollment": 60,
+      "brief_summary": "Because of metastatic liver cancer of the colon or rectum, patients will be treated with cytotoxic drugs (chemotherapy). In the Radboud University Nijmegen Medical Centre the investigators investigate whether the imaging techniques at an early stage of treatment can predict which patients will have benefited from this treatment.\n\nIn the study the investigators use two different scanners: a MR (magnetic resonance) scanner and a PET (Positron Emission Tomography) scanner combined with a CT (Comput",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histological proven colorectal cancer with histologically proven distant metastases.\n* First line fluoropyrimidine-based treatment for liver metastases of colorectal cancer containing fluoropyrimidines.\n* Measurable liver metastases of at least 2 cm.\n* Age minimal 18 years.\n* ",
+      "endpoints": [
+        "Correlation early changes in imaging and treatment outcome"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01292681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01227707",
+      "title": "An Open-label Study to Assess the Effect of Combination Treatment With Avastin and Xeloda, Plus Pre-operative Standard Radiotherapy, on Response Rate in Patients With Locally Advanced Rectal Cancer.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2010-08",
+      "country": "Italy",
+      "enrollment": 43,
+      "brief_summary": "This open-label study will assess the efficacy and safety of Avastin (bevacizumab) plus Xeloda (capecitabine) in combination with standard technique radiotherapy of the pelvic region in the neo-adjuvant setting in patients with locally advanced primary rectal cancer. Patients will receive 4 courses of Avastin at a dose of 5 mg/kg intravenously (iv) every 2 weeks and for 38 days Xeloda at dose of 825 mg/kg twice daily orally, plus radiation therapy. After surgery, adjuvant treatment with 5-fluoro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>=18 years of age\n* Patients with confirmed rectal cancer who are subject to surgery and would benefit from pre-operative combined chemo-radiotherapy\n* Measurable and/or evaluable lesions according to RECIST criteria\n* EOCG performance status 0-1\n\nExclusion Cr",
+      "endpoints": [
+        "Percentage of Participants With Pathological Complete Response (pCR)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT01227707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00258232",
+      "title": "Phase II Study of Celecoxib, Capecitabine, and Irinotecan in Patients With Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-01",
+      "completion_date": "2007-08",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Celecoxib may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Drugs used in chemotherapy, such as capecitabine and irinotecan, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving celecoxib together with capecitabine and irinotecan may kill more tumor cells.\n\nPURPOSE: This phase II trial is studying how well giving celecoxib together with capecitabine and irinotecan works ",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the colon or rectum\n\n  * Locally recurrent or metastatic disease\n* Measurable disease, defined as ≥ 1 measurable lesion ≥ 20 mm by conventional CT scan OR ≥ 10 mm by spiral CT scan\n\n  * Bone metastases, ascites, and pleural effus",
+      "endpoints": [
+        "Response rate by RECIST criteria at every other course"
+      ],
+      "sponsor": "Barbara Ann Karmanos Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00258232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00416494",
+      "title": "Phase II Study of Oxaliplatin, Capecitabine and Bevacizumab in the Treatment of Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2014-08",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as capecitabine, and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some find tumor cells and kill them or carry tumor-killing substances to them. Others interfere with the ability of tumor cells to grow and spread. Bevacizumab may also stop the growth of tumor cells by blocking blo",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically documented adenocarcinoma of the colon or rectum\n\n  * Metastatic or recurrent disease not amenable to potentially curative treatment (e.g., inoperable metastatic disease)\n* No leptomeningeal or brain metastases\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance ",
+      "endpoints": [
+        "Response Rate (Percentage of Participants With Partial or Complete Response)"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00416494"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03811652",
+      "title": "A Phase 1/1b Multicenter, Open-label, Dose-escalation, and Dose-expansion Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Immunogenicity, and Antitumor Activity of MEDI7247 in Patients With Advanced or Metastatic Disease in Selected Solid Tumors",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-12-20",
+      "completion_date": "2019-12-10",
+      "country": "Canada, United States",
+      "enrollment": 8,
+      "brief_summary": "To assess safety and tolerability, describe the dose-limiting toxicities, assess the preliminary antitumor activity, determine the maximum tolerated dose (MTD) or the highest protocol-defined dose (maximum administered dose) in the absence of establishing the MTD, and a recommended dose for further evaluation of MEDI7247 in patients with selected advanced or metastatic solid tumor malignancies that have received at least 1 prior line of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed diagnosis of advanced or metastatic select solid tumors and either progression on or documented intolerance to standard therapies\n2. Age ≥ 18 years at the time of screening.\n3. Written informed consent and any locally required authorization\n4. Eastern Cooperative On",
+      "endpoints": [
+        "Occurrence of Adverse Events",
+        "Occurrence of Serious Adverse Events",
+        "Occurrence of Dose Limiting Toxicities"
+      ],
+      "sponsor": "MedImmune LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03811652"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04607421",
+      "title": "AN OPEN-LABEL, MULTICENTER, RANDOMIZED PHASE 3 STUDY OF FIRST-LINE ENCORAFENIB PLUS CETUXIMAB WITH OR WITHOUT CHEMOTHERAPY VERSUS STANDARD OF CARE THERAPY WITH A SAFETY LEAD-IN OF ENCORAFENIB AND CETUXIMAB PLUS CHEMOTHERAPY IN PARTICIPANTS WITH METASTATIC BRAF V600E-MUTANT COLORECTAL CANCER",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-12-21",
+      "completion_date": "2027-12-28",
+      "country": "Bulgaria, Brazil, Spain, Mexico, Russia, Canada, Sweden, Belgium, Norway, Taiwan, India, Slovakia, Germany, Australia, South Korea, Finland, South Africa, Ukraine, Poland, Argentina, Japan, United States, Czechia, Italy, Denmark, China, Netherlands, United Kingdom, New Zealand",
+      "enrollment": 831,
+      "brief_summary": "The purpose of this study is to evaluate two study medicines (encorafenib plus cetuximab) taken alone or together with standard chemotherapy for the potential treatment of colorectal cancer that:\n\n* has spread to other parts of the body (metastatic);\n* has a certain type of abnormal gene called \"BRAF\"; and\n* has not received prior treatment.\n\nParticipants in this study will receive one of the following study treatments:\n\n* Encorafenib plus cetuximab: These participants will receive encorafenib b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Safety Lead-In = Male/female ≥ 18 years old\n* Phase 3 and Cohort 3: Male/female ≥ 16 years old (where permitted locally)\n* Histologically or cytologically confirmed Stage IV CRC that contains BRAF V600E mutation\n* Prior systemic treatment in metastatic setting: 0-1 regimens fo",
+      "endpoints": [
+        "Safety Lead-in Study: Incidence of Dose Limiting Toxicities (DLTs)",
+        "Phase 3: Progression free survival, by blinded independent review",
+        "Phase 3: Objective response rate by blinded independent review"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT04607421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00290615",
+      "title": "Phase II Study of Oxaliplatin, Capecitabine, Cetuximab, and Bevacizumab in the Treatment of Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as capecitabine and oxaliplatin, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. Monoclonal antibodies, such as cetuximab and bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killin",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed adenocarcinoma of the colon or rectum\n\n  * Unresectable disease\n  * Metastatic or recurrent disease\n* Not amenable to potentially curative treatment\n* No untreated leptomeningeal or brain metastases\n\nPATIENT CHARACTERISTICS:\n\nPerformance status\n\n*",
+      "endpoints": [
+        "Response Rate (Percentage of Participants With Partial or Complete Response)"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00290615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02216149",
+      "title": "Effects of S-1 and Capecitabine in Combination With Oxaliplatin on the Coronary Artery Blood Flow in Patients Metastatic Gastrointestinal Tract Adenocarcinoma: a Randomized Phase II Study",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-01",
+      "completion_date": "2018-08",
+      "country": "Finland",
+      "enrollment": 20,
+      "brief_summary": "Fluoropyrimidine chemotherapy agents , such as 5-fluorouracil and capecitabine, are occasionally associated with cardiac toxicity. Clinical fluoropyrimidine cardiotoxicity is infrequent, but subclinical toxicity may be much more common. Cardiac toxicity may be less frequent with S-1 as compared with 5-fluorouracil and capecitabine, but head-to-head comparisons are lacking. The purpose of the study is to compare 2 measures of subclinical coronary artery microvascular dysfunction, the coronary flo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has given written informed consent.\n* Is at least 18 years of age.\n* Has advanced or metastatic gastrointestinal tract adenocarcinoma.\n* No previous cancer chemotherapy for cancer.\n* Measurable or evaluable lesions according to RECIST v1.1 criteria.\n* Is able to take medicatio",
+      "endpoints": [
+        "Frequency of coronary artery dysfunction"
+      ],
+      "sponsor": "Helsinki University Central Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02216149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00107315",
+      "title": "A Phase II Study of Capecitabine and Bevacizumab in Elderly Patients With Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2004-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. Bevacizumab may also stop the growth of colorectal cancer by blocking blood flow to the tumor. Drugs used in chemotherapy, such as capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from div",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically\\* or cytologically\\* confirmed colorectal cancer\n\n  * Site of primary tumor must have been confirmed by endoscopy, radiography, or surgery\n  * Metastatic disease NOTE: \\*Patients with a history of surgically treated colorectal cancer who subsequently develo",
+      "endpoints": [
+        "Time to Progression"
+      ],
+      "sponsor": "Roswell Park Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00107315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02010567",
+      "title": "Phase Ib/II Study of Neoadjuvant Chemoradiotherapy With CRLX-101 and Capecitabine for Locally Advanced Rectal Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-12",
+      "completion_date": "2019-06-25",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "This trial will enroll patients with locally advanced rectal cancer (resectable and non-resectable).The phase Ib dose escalation portion of trial is designed to determine the maximum tolerated dose (MTD) of CRLX101 when combined with standard neoadjuvant therapies capecitabine (Cape) and radiation therapy (XRT). CRLX101 is a nanopharmaceutical (NP) formulation of camptothecin. These results will determine the recommended phase II dose (RP2D) for CRLX101 in this setting. The phase II portion of t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Eastern Cooperative Oncology Group (ECOG) performance score ≤ 2\n2. Phase Ib and II: surgical candidates, with moderate to high-risk pathologically-confirmed rectal cancer (Tumor (T) and Nodal (N) stage cT3-4N0 or cT1-4N+); clinical staging by endoscopic ultrasound (EUS) or ma",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) of CRLX101 When Added to Standard Neoadjuvant Chemoradiotherapy Consisting of Capecitabine + Radiotherapy in Locally Advanced Rectal Cancer",
+        "Pathological Complete Response (pCR) Rate"
+      ],
+      "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02010567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05062889",
+      "title": "Exploiting Circulating Tumour DNA to Intensify the Postoperative Treatment of Stage III and High-risk Stage II Resected Colon Cancer Patients With Adjuvant FOLFOXIRI and/or Post-adjuvant Trifluridine/Tipiracil",
+      "phase": "PHASE2",
+      "status": "SUSPENDED",
+      "start_date": "2023-05-17",
+      "completion_date": "2029-12",
+      "country": "Italy",
+      "enrollment": 477,
+      "brief_summary": "The aims of this study are to evaluate if an intensified adjuvant treatment with FOLFOXIRI could increase the rate of cases with undetectable ct-DNA after chemotherapy and to evaluate if a further adjuvant treatment with Trifluridine/Tipiracil could increase the rate of cases with undetectable ct-DNA and therefore improve DFS in a population at high-risk of relapse.\n\nAn additional target-driven cohort of HER2+ RAS wild-type colon cancer patients will be assessed for ct-DNA clearance after a tail",
+      "eligibility_criteria": "Inclusion Criteria, Part I, adjuvant phase:\n\n* Written informed consent to study procedures;\n* 18 - 70 years of age ECOG Performance Status ≤ 1 or 71-75 years of age with ECOG Performance Status 0;\n* Histologically confirmed stage III or high-risk stage II adenocarcinoma of colon including intraperi",
+      "endpoints": [
+        "ct-DNA clearance rate after the end of the adjuvant treatment (ERASE-CRC part 1)",
+        "ct-DNA clearance rate after the end of post-adjuvant treatment (ERASE-CRC part 2)",
+        "ct-DNA clearance rate after the end of target-driven adjuvant treatment (ERASE-CRC part 1 target-driven)"
+      ],
+      "sponsor": "Gruppo Oncologico del Nord-Ovest",
+      "url": "https://clinicaltrials.gov/study/NCT05062889"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04495088",
+      "title": "Preoperative FOLFOX Versus Postoperative Risk-adapted Chemotherapy in Patients With Locally Advanced Rectal Cancer and Low Risk for Local Failure: A Randomized Phase III Trial of the German Rectal Cancer Study Group",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2020-09-30",
+      "completion_date": "2030-08",
+      "country": "Germany",
+      "enrollment": 550,
+      "brief_summary": "This is a multicenter, prospective, randomized, stratified, controlled, open-label study comparing preoperative FOLFOX versus postoperative risk-adapted chemotherapy in patients with locally advanced rectal cancer and low risk for local failure",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male and female patients with histologically confirmed diagnosis of rectal adenocarcinoma localised 0 - 16 cm from the anocutaneous line as measured by rigid rectoscopy (i.e. lower, middle and upper third of the rectum), depending on MRI-defined inclusion criteria (see below)",
+      "endpoints": [
+        "disease-free survival"
+      ],
+      "sponsor": "Universitätsmedizin Mannheim",
+      "url": "https://clinicaltrials.gov/study/NCT04495088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01729923",
+      "title": "A Phase II Trial of Maintenance ADAPT Therapy With Capecitabine and Celecoxib in Patients With Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-03",
+      "completion_date": "2016-09-06",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "This phase II trial studies how well capecitabine and celecoxib with or without radiation therapy works in treating patients with colorectal cancer that is newly diagnosed or has been previously treated with fluorouracil, and has spread to other parts of the body (metastatic). Drugs used in chemotherapy, such as capecitabine, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Celecoxib may stop the growth of tumor cells by blo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed colorectal cancer\n* Evaluable or measurable radiographic evidence of colorectal cancer\n* Patients with unresected metastases from colorectal cancer; patients may be either untreated with chemotherapy or currently receiving first-line 5-FU based chemoth",
+      "endpoints": [
+        "Rate of CR, Assessed According to CEA and CA 19-9 Measurements and Response Evaluation Criteria in Solid Tumors (RECIST) 1.1"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT01729923"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05797467",
+      "title": "Adjuvant Chemotherapy Combined With Targeted Therapy Versus Adjuvant Chemotherapy Alone in the Treatment of Stage T3-4N2 Colorectal Cancer:A Multicenter, Randomized, Phase III Clinical Trail",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-04-01",
+      "completion_date": "2033-04-01",
+      "country": "China",
+      "enrollment": 366,
+      "brief_summary": "The goal of this clinical trial\\] is to compare in resectable stage T3-4N2 colorectal cancer. The main question it aims to answer is: whether the use of targeted therapy in combination with adjuvant chemotherapy is associated with improved disease-free survival (DFS) compared to adjuvant chemotherapy alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Both sexes, aged 18-75 years;\n2. Pathologically confirmed pT3-4N2 stage colorectal adenocarcinoma after surgery;\n3. ASA grade \\< IV and/or ECOG performance status score ≤ 2 points;\n4. Fully understand and voluntarily sign the informed consent form for this study.\n\nExclusion C",
+      "endpoints": [
+        "3-year disease-free survival",
+        "5-year disease-free survival",
+        "median of disease-free survival"
+      ],
+      "sponsor": "Sixth Affiliated Hospital, Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05797467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03813641",
+      "title": "Phase Ⅱ Clinical Study of RALOX or CAPOX Combined With Bevacizumab in the First-line Treatment of Advanced Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-28",
+      "completion_date": "2021-12-31",
+      "country": "China",
+      "enrollment": 100,
+      "brief_summary": "Raltitrexed is an inhibitor of thymidylate synthase.As a folate antimetabolite drug, raltitrexed has been used in treatment of colorectal cancer(CRC) since 1998, and also used in malignant mesothelioma.Several phase III studies performed in patients with advanced CRC showed that it is as effective as 5-fluorouracil(5-FU) /leucovorin(LV) with regard to response rates and survival. The combination of raltitrexed with oxaliplatin shows response rates of 41%-54% and median survivals of 14.6-14.8 mon",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18\\~75 years;\n* Patients are diagnosed by histopathological and/or cytological examination as local advanced or metastatic colorectal cancer who are unable to undergo radical surgery with no symptom of the primary lesions；\n* There are one or more measurable lesions, the lo",
+      "endpoints": [
+        "Progression-free Survival (PFS) Time"
+      ],
+      "sponsor": "Shenzhen People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03813641"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00640081",
+      "title": "A Two-arm Phase II Randomised Trial of Intermittent Chemotherapy Plus Continuous Cetuximab and of Intermittent Chemotherapy Plus Intermittent Cetuximab in First Line Treatment of Patients With K-ras-normal (Wild-type) Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2015-09",
+      "country": "United Kingdom, Cyprus",
+      "enrollment": 169,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as cetuximab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them. It is not yet known whether giving combination chemotherapy together with intermittent cetuximab is more effectiv",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of colorectal adenocarcinoma, defined by 1 of the following:\n\n  * Prior or current histologically confirmed primary adenocarcinoma of colon or rectum with clinical or radiological evidence of advanced and/or metastatic disease\n  * Histologically and cytologicall",
+      "endpoints": [
+        "Failure-free survival at 10 months"
+      ],
+      "sponsor": "Medical Research Council",
+      "url": "https://clinicaltrials.gov/study/NCT00640081"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05194878",
+      "title": "Phase III Study of Neoadjuvant FOLFOXIRI Chemotherapy Versus Immediate Surgery for High-risk Resectable Stage II and III Colon Cancers",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2021-12-01",
+      "completion_date": "2026-12",
+      "country": "China",
+      "enrollment": 840,
+      "brief_summary": "BACKGROUND:\n\nIn patients with high risk stage II and stage III colon cancer (CC), curative surgery followed by adjuvant chemotherapy with FOLFOX or CAPOX regimens has become a standard treatment. However, 20 to 30 % of these patients will develop distant metastasis, which ultimately result in death. Perioperative chemotherapy is a promising strategy with potential benefits that could be more effective at eradicating micrometastases. Moreover, shrinking tumor before surgery not only facilitate re",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically proven adenocarcinoma or high grade dysplasia on histology plus unequivocal radiological evidence of invasive cancer of the colon(≥ 12 cm from the anal verge).\n* pMMR in immunohistochemical detection or MSI-H in MSI test.\n* Determined preoperatively by either sp",
+      "endpoints": [
+        "Disease-free survival"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05194878"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06322147",
+      "title": "Doublet or Triplet Chemotherapy With Cetuximab as Conversion Therapy in RAS/BRAF Wild Type Unresectable Liver Metastasis Right-sided Colon Cancer With Curative Intent：Multi-center, Ambispective Observational Trial",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-06-01",
+      "completion_date": "2025-12-30",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "This study was designed as multi-center, ambispective observational trial to evaluate the efficacy and safety of addition of cetuximab to doublet or triplet chemotherapy as conversion therapy in right-sided BRAF/RAS wild-type CRLM with curative intent. The primary endpoint was radical resection rate (R0). The secondary endpoint was response rate, rate of NED, depth of remission, early tumor shrinkage, progression free survival and safety.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent obtained before any study specific procedures. Subjects must be able to understand and willing to sign a written informed consent;\n* Male or female subjects \\> 18 years \\< 75 of age;\n* Patients must have an Eastern Cooperative Oncology Group (ECOG) perf",
+      "endpoints": [
+        "R0 resection rate"
+      ],
+      "sponsor": "Qilu Hospital of Shandong University",
+      "url": "https://clinicaltrials.gov/study/NCT06322147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03854799",
+      "title": "Phase II Study Of Preoperative Chemoradiotherapy Plus Avelumab In Patients With Locally Advanced Rectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-04-01",
+      "completion_date": "2023-09-30",
+      "country": "Italy",
+      "enrollment": 101,
+      "brief_summary": "Preoperative CTRT is considered the standard of care in the management of LARC. Preoperative CTRT approach results in significant tumor downstaging and local control with a complete pathological response rate of about 15% even if additional therapeutic strategies should be explored to improve outcomes, expecially for T4 cancers.\n\nImmunotherapy with PD-1/PD-L1 immunocheckpoint blockade (ICB), turned out a breakthrough in cancer treatment among different tumor types, including CRC. An ICB strategy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent to study procedures.\n* Histologically proven diagnosis of rectal adenocarcinoma\n* Locally advanced, resectable disease defined by the presence of at least one of the following features:\n\n  * cN+ (with the definition of a clinically positive lymph node ",
+      "endpoints": [
+        "The primary objective of this trial is to evaluate the rate of complete pathologic response (pCR)"
+      ],
+      "sponsor": "Gruppo Oncologico del Nord-Ovest",
+      "url": "https://clinicaltrials.gov/study/NCT03854799"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06576986",
+      "title": "Effect of Synbiotic Supplementation on the Prevention of Mucositis in Cancer Patients Undergoing Chemotherapy: Randomized, Double-masked, Parallel, Single-center Clinical Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-12-12",
+      "completion_date": "2026-12-12",
+      "country": "Brazil",
+      "enrollment": 80,
+      "brief_summary": "Introduction: In the 2023-2025 period, colorectal cancer (CRC) will be the third most common type of cancer in Brazil. The most commonly used therapeutic approaches are chemotherapy (QTx) and radiotherapy (RTx). QTx agents, such as capecitabine, affect both malignant cells and normal cells such as gastrointestinal, capillary and immune cells. Cellular damage in the gastrointestinal tract (GIT) results in various symptoms, such as mucositis and diarrhea. Diarrhea is linked to mucosal damage and c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Colorectal tumor in the first oncological treatment\n* Age over 18 years old\n* Both sexes\n* Eligible for protocol with capecitabine alone or associated with oxaliplatin\n* Patients WITHOUT colostomy or WITH colostomy in the transverse/descending/sigmoid region\n* Patient undergoi",
+      "endpoints": [
+        "Intestinal Microbiota",
+        "Intestinal Microbiota",
+        "Intestinal Microbiota"
+      ],
+      "sponsor": "Federal University of Minas Gerais",
+      "url": "https://clinicaltrials.gov/study/NCT06576986"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00026234",
+      "title": "A Phase II Trial Evaluating Multiple Metastasectomy Combined With Hepatic Artery Infusion Of Floxuridine (FUDR) And Dexamethasone (DXM), Alternating With Systemic Oxaliplatin (OXAL) And Capecitabine (CAPCIT) For Colorectal Carcinoma Metastatic To The Liver",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "Phase II trial to study the effectiveness of hepatic arterial infusion plus chemotherapy in treating patients who have colorectal cancer metastatic to the liver. Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Giving the drugs in different combinations and different ways may kill more tumor cells.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed colorectal adenocarcinoma metastatic to the liver\n* No extrahepatic metastases\n* Prior complete surgical resection of hepatic metastases (at least 1 lesion) within the past 21-56 days\n\n  * Negative surgical margins unless surrounding normal liver tissu",
+      "endpoints": [
+        "Toxicity of oxaliplatin as assessed by the National Cancer Institute (NCI) Common Terminology Criteria (CTC) version 2.0",
+        "Survival rate"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00026234"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06594692",
+      "title": "Node-sparing Modified Short-Course Radiation Combined with CAPOX and Sintilimab for MSS Locally Advanced Colon Cancer : a Randomized, Prospective, Multicenter, Open-label Clinical Trial",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10",
+      "completion_date": "2026-09-30",
+      "country": "China",
+      "enrollment": 140,
+      "brief_summary": "This study aims to evaluate the use of node-sparing short-course radiotherapy combined with chemotherapy and Sintilimab, or chemotherapy alone, as neoadjuvant therapy for MSS-type locally advanced colon cancer. The goal is to explore the efficacy and safety of combining node-sparing short-course radiotherapy with chemotherapy and immunotherapy in the neoadjuvant setting for MSS-type locally advanced colon cancer, while also investigating the specific role of regional lymph nodes in tumor immunot",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients willing to undergo neoadjuvant treatment. 2. Age ≥ 18 years. 3. Tumor confirmed by colonoscopy and enhanced abdominal CT to be ≥ 12 cm from the anal verge.\n\n  4\\. Histologically diagnosed adenocarcinoma; genetic testing indicates MSI-L or MSS, or immunohistochemis",
+      "endpoints": [
+        "pathological complete response rate"
+      ],
+      "sponsor": "Sir Run Run Shaw Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06594692"
+    }
+  ],
+  "timestamp": "2026-03-04T16:45:02.362181",
+  "success": true,
+  "error_message": null
+}

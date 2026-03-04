@@ -1,0 +1,105 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "uterine corpus cancer"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01698164",
+      "title": "Multi-centre Clinical Trial on Hormone Replacement Treatment in China",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-12",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 1200,
+      "brief_summary": "This study is to evaluate the benefit/risk of hormone replacement treatment among early menopausal women in China. This is a multi-centre, random, prospective study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* going through amenorrhea above 6 months and within 5 years,\n* aged 40 to 60 years,\n* going though postmenopausal symptoms,\n* serum E2 concentration \\<30pg/ml,\n* serum FSH concentration \\>40IU/L.\n\nExclusion Criteria:\n\n* uterine fibroid diameter≥5cm,\n* history of diabetes or hyp",
+      "endpoints": [
+        "Change from Baseline in risk factors of cardiovascular disease at 12 months and 24 months",
+        "Change from Baseline in risk factors of breast cancer at 12 months and 24 months"
+      ],
+      "sponsor": "Peking Union Medical College Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01698164"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03463252",
+      "title": "Value of Levonorgestrel-Releasing Intrauterine System (LNG-IUS) in the Fertility-preserving Treatment of Atypical Endometrial Hyperplasia and Early Endometrial Carcinoma",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2018-04-01",
+      "completion_date": "2030-12-30",
+      "country": "China",
+      "enrollment": 224,
+      "brief_summary": "Primary end points:\n\nThis clinical trial is aimed to analyze the effectiveness of Levonorgestrel-Releasing Intrauterine System (LNG-IUS, Mirena®) in the fertility-sparing treatment of atypical endometrial hyperplasia and early endometrial carcinoma, including pathology response and pregnancy outcome.\n\nSecond end points:\n\nTo analyze the appearances of side-effects.",
+      "eligibility_criteria": "For Patients With Endometrial Cancer：\n\nInclusion Criteria:\n\n* ≤40 years of age:\n* Having a strong desire for fertility preservation;\n* Histological diagnosis is confirmed as well-differentiated (grade 1) endometrioid adenocarcinoma by the designated gynecological pathologists, and the progesterone r",
+      "endpoints": [
+        "Pathologic Response",
+        "Pregnancy Rate",
+        "Live Birth Rate"
+      ],
+      "sponsor": "West China Second University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03463252"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064025",
+      "title": "A Phase II Pilot Investigation Of The Relationship Of Short Term Depo-Provera (Medroxyprogesterone Acetate) Exposure To The Morphologic , Biochemical, And Molecular Changes In Primary Endometroid Adenocarcinoma of the Uterine Corpus",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "This phase II trial is studying how well medroxyprogesterone works in treating patients with endometrioid adenocarcinoma (cancer) of the uterine corpus (the body of the uterus, not including the cervix). Hormone therapy using medroxyprogesterone may be effective in treating endometrioid cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed primary endometrioid adenocarcinoma of the uterine corpus\n\n  * All histologic grades and stages eligible\n  * Diagnosis by endometrial curettage or biopsy within the past 8 weeks\n\n    * Must have the initial tissue block or 16 unstained sections of 5 mi",
+      "endpoints": [
+        "Histologic Response in Endometrial Adenocarcinomas of the Uterine Corpus That Are Progesterone Receptor Positive Compared With Those That Are Progesterone Receptor Negative"
+      ],
+      "sponsor": "GOG Foundation",
+      "url": "https://clinicaltrials.gov/study/NCT00064025"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03018249",
+      "title": "A Randomized Surgical Window Pilot Investigation of the Relationship of Short Term Medroxyprogesterone Acetate (NSC #26386) Compared to Medroxyprogesterone Acetate Plus Entinostat (NSC #706995) on the Morphologic, Biochemical, and Molecular Changes in Primary Endometrioid Adenocarcinoma of the Uterine Corpus",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-10-11",
+      "completion_date": "2021-03-12",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This randomized surgical window trial evaluates the effect of adding entinostat to medroxyprogesterone acetate before surgery works on progesterone receptors on endometrioid endometrial tumors. Medroxyprogesterone acetate is a progesterone, a hormone produced by body normally. Entinostat may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Giving medroxyprogesterone acetate with or without entinostat may effect tumors from endometrioid endometrial cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a histologically proven diagnosis of endometrioid endometrial adenocarcinoma by endometrial curettage or biopsy within 8 weeks prior to registration; central pathology review will be required as part of the study but not for registration purposes\n* History/p",
+      "endpoints": [
+        "Mean Post-treatment Tumor Progesterone Receptor H-score (Histology Score)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03018249"
+    }
+  ],
+  "timestamp": "2026-03-04T17:00:00.868100",
+  "success": true,
+  "error_message": null
+}

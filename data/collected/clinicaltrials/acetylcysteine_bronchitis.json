@@ -1,0 +1,257 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "bronchitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05843669",
+      "title": "An Open-label, Multicenter, Single-group Study to Evaluate the Effects of Long-term Use of Mucinex® in Patients With Stable Chronic Bronchitis.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-07-17",
+      "completion_date": "2024-11-13",
+      "country": "United States",
+      "enrollment": 82,
+      "brief_summary": "This is an open-label, multicenter, single-group study designed to determine the effectiveness of Mucinex® when used by patients to treat SCB over a 12-week period, following a 2-week run-in period of no treatment (to establish a baseline).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients with a diagnosis of SCB at recruitment, male and female, over 40 years of age\n* A Pulmonary Function Test with FEV1/FVC less than 0.7 (70%) at the time of enrollment or at least a 10 year history of cigarette abuse.\n* Patients who have chronic sputum production ",
+      "endpoints": [
+        "Describe patient-reported real-world clinical use of Mucinex® (i.e., prior to study start) in patients with SCB.",
+        "Describe change in patient-reported real-world clinical use of Mucinex® (i.e., treatment compliance) in patients with SCB.",
+        "Describe change in patient-reported real-world clinical use of Mucinex® (i.e., treatment satisfaction) in patients with SCB."
+      ],
+      "sponsor": "American Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT05843669"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04155632",
+      "title": "Neurocircuit Strategy to Decrease Cocaine Cue Reactivity",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-12-18",
+      "completion_date": "2023-03-09",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "The overarching goal of this project is to examine the effect of combining theta burst stimulation (TBS) and N-acetylcysteine (NAC) on cocaine craving and brain response to cocaine-related images.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Age 18-65 2. English fluency 4. Meet criteria for cocaine use disorder (CUD), as determined by DSM-V criteria, using the Structured Clinical Interview for DSM-V.\n\n5\\. Enrolled in an intensive outpatient treatment program (MUSC Center for Drug and Alcohol Programs Intensive O",
+      "endpoints": [
+        "Change in Orbitofrontal Cortex (OFC) BOLD Signal During Cocaine Cue Reactivity Task (Pre- vs. Post-TBS)",
+        "Change in POMS Score From Baseline to Post-TBS\"",
+        "Change in Cocaine Craving Rating From Baseline to Post-TBS"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT04155632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07108166",
+      "title": "A Randomized, Single (Operator)-Blinded, Controlled Clinical Study for Assessing Major Symptoms and Function in Patients With Chronic Obstructive Pulmonary Disease (COPD) With Chronic Bronchitis Who Switch From Combustible Cigarettes (CIG) to Tobacco Heating System (THS)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-02",
+      "completion_date": "2026-11",
+      "country": "Bulgaria, Czechia, Slovakia, Germany, United Kingdom, Romania, Poland, Japan, United States",
+      "enrollment": 290,
+      "brief_summary": "The purpose of this randomized study is to demonstrate direct clinical benefit, i.e., observed benefits in how humans with COPD feel in terms of symptoms (e.g., cough frequency, shortness of breath, and other respiratory symptoms) and function (e.g., lung function, and six-minute walking test \\[6MWT\\]) after switching to THS compared to continuing to smoking cigarettes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult, both sexes, aged ≥ 40 years.\n* Patient has read, understood, and signed the written informed consent form (ICF), which has received IEC or IRB approval.\n* Patient with body mass index (BMI) 17.6-40.0 kg/m2 and body weight \\> 50 kg (male) or \\> 40 kg (female). Checked at",
+      "endpoints": [
+        "Reduction in 24-hour cough frequency"
+      ],
+      "sponsor": "Philip Morris Products S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT07108166"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00205647",
+      "title": "A Phase II Multicenter Efficacy, Safety and Dose-Effect Study of the Expectorant Activity of Oral N-acetylcystein (NAC) in Patients With Stable, Chronic Bronchitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1997-01",
+      "completion_date": "2000-03",
+      "country": "United States",
+      "enrollment": 240,
+      "brief_summary": "This is a randonmized, masked, placebo-controlled parallel group, clinical trial to evaluate the effects of three different doses of N-acetyl L-cysteine (NAC) and placebo on patient safety and on physical and transport properties of expectorated sputum. Patient sumptoms, quality of life and exacerbation will also be followed as well as pulmonary function testing and functional exercise capacity. We hypothesized that a prolongeed course of oral NAC favorably affects the morbidity of chronic bronc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Smokers (past or current,20 pack years) with diagnosis of chronic bronchitis\n* expectorate sputum daily\n* FEV1 of 40-70%\n* understand and fill out questionnaire daily\n\nExclusion Criteria:\n\n* other investigational within 30 days\n* change in smoking habit within 6 months\n* pulmo",
+      "endpoints": [
+        "Acute exacerbations",
+        "Clinical assessments"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT00205647"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01713179",
+      "title": "Effects of Oral Mucolytics on Tear Film and Ocular Surface",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2011-10",
+      "country": "South Korea",
+      "enrollment": 20,
+      "brief_summary": "Ambroxol is a metabolite of bromhexine and possesses mucokinetic and secretolytic properties that are also found in mucolytic agents.1 Ambroxol has been used for decades for the treatment of respiratory disorders associated with excessive mucus, including chronic inflammatory pulmonary conditions, bronchitis, and pneumonia.2,3 The drug changes the biophysical properties of secretions by degrading the mucin polymers, deoxyribonucleic acid, fibrin in airway secretions, and by generally decreasing ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Twenty healthy male volunteers aged between 25 and 29 years\n\nExclusion Criteria:\n\n* Subjects with dry eye symptoms within the previous 6 months were excluded from the study.\n* Subjects have any systemic diseases such as systemic lupus, rheumatoid arthritis, Sjögren's syndrome ",
+      "endpoints": [
+        "Visual analog pain score",
+        "Fluorescein staining",
+        "Tear break up time"
+      ],
+      "sponsor": "Hallym University Kangnam Sacred Heart Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01713179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06688292",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Actein Effervescent Tablets 600MG in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2024-09-20",
+      "completion_date": "2024-12-31",
+      "country": "Taiwan",
+      "enrollment": 42,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects aged older than 20\\~75 years old.\n2. Able to sign informed consent prior to the study.\n3. Subjects have COPD.\n\nExclusion Criteria:\n\n1. Subjects with known hypersensitivity to Acetylcysteine preparations.\n2. Subjects with other serious medical diseases that are judged",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Actein effervescent tablets 600MG administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06688292"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01599884",
+      "title": "Effects of High-Dose N-Acetylcysteine on Respiratory Health Status in Patients With Chronic Obstructive Pulmonary Disease (COPD) and Chronic Bronchitis: A Randomized, Placebo-Controlled Trial-1",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2013-08",
+      "country": "United States",
+      "enrollment": 65,
+      "brief_summary": "N-acetylcysteine (NAC) is described as having mucolytic and antioxidant properties. It is widely prescribed for patients with chronic obstructive pulmonary disease (COPD), particularly for those who have accompanying symptoms of chronic cough and sputum production. Randomized, placebo controlled indicate that it is safe and that it may have some clinical benefit when used at relatively low doses. It is postulated that substantially higher doses of NAC will be well-tolerated and will provide bett",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria\n\n  * Capability to provide written informed consent\n  * Age ≥ 40 years and ≤ 85 years\n  * FEV1/FVC ratio (post bronchodilator) \\< 70%\n  * FEV1 (post bronchodilator) \\< 65%\n  * Presence of chronic cough and sputum production defined as the following:\n* Presen",
+      "endpoints": [
+        "Changes in the St. George's Respiratory Questionnaire"
+      ],
+      "sponsor": "Center for Veterans Research and Education",
+      "url": "https://clinicaltrials.gov/study/NCT01599884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06828120",
+      "title": "A Randomized, Safety and Efficacy Study of Taneasy 600mg Granules and Fluimucil 600mg Granules in COPD Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2025-02-20",
+      "completion_date": "2025-09-17",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "To evaluate the safety and efficacy of Taneasy 600mg granules and Fluimucil 600mg granules administered twice daily for 14 days in treatment of COPD Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged older than 20\\~75 years old.\n* Able to sign informed consent prior to the study.\n* The appearance of sputum and the difficulty of expectoration are both at level 2 or above.\n\nExclusion Criteria:\n\n* Subjects with known hypersensitivity to Acetylcysteine preparatio",
+      "endpoints": [
+        "To evaluate the safety and efficacy of Taneasy 600mg granules and Fluimucil 600MG granules administered twice daily for 14 days in treatment of COPD Disease."
+      ],
+      "sponsor": "Bun Yao Biotechnology Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06828120"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01739790",
+      "title": "Effects of High-Dose N-Acetylcysteine on Respiratory Health Status in Patients With Chronic Obstructive Pulmonary Disease (COPD) and Chronic Bronchitis: A Randomized, Placebo-Controlled Trial-3",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2013-01",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 51,
+      "brief_summary": "N-acetylcysteine (NAC) is described as having mucolytic and antioxidant properties. It is widely prescribed for patients with chronic obstructive lung disease (COPD), particularly for those who have accompanying symptoms of chronic cough and sputum production. Compared to placebo, high-dose NAC will improve Saint George Respiratory Questionnaire scores in patients with COPD and chronic bronchitis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capability to provide written informed consent\n* Age ≥ 40 years and ≤ 85 years\n* FEV1/FVC ratio (post bronchodilator) \\< 70%\n* FEV1 (post bronchodilator) \\< 65%\n* Presence of chronic cough and sputum production defined as the following:\n* Presence of chronic cough and sputum w",
+      "endpoints": [
+        "Changes in the Saint George's Respiratory Questionnaire"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01739790"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00184977",
+      "title": "A Double-blind Placebo-controlled Trial Comparing the Efficacy and Cost-effectiveness of Inhaled Fluticason Propionate Versus Oral N-acetylcysteine in the Treatment of Patients With COPD in General Practice",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1998-12",
+      "completion_date": "2003-01",
+      "country": "Netherlands",
+      "enrollment": 270,
+      "brief_summary": "The aim of this family practice based study is to determine the long-term treatment effects of two drugs that are presumed to modify the course and progression of chronic obstructive pulmonary disease (COPD), oral N-acetylcysteine and inhaled corticosteroids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 30 and 75 years\n* being a smoker or ex-smoker\n* post-bronchodilator FEV1/FVC ratio is \\<88% of the predicted value in case of men or \\<89% of the predicted value in case of women\n* post-bronchodilator FEV1\\>=40% and \\<90% of the predicted value\n* subjects have a GP",
+      "endpoints": [
+        "exacerbations of COPD, condition-specific quality of life"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00184977"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06727422",
+      "title": "A Phase 2b, Randomized, Double-Blind, Placebo- Controlled, Multicenter Study to Assess the Safety, Efficacy and Pharmacokinetics of RNIB21 in the Treatment of Patients With Irritable Bowel Syndrome With Diarrhea (IBS-D)",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-15",
+      "completion_date": "2027-01-01",
+      "country": "N/A",
+      "enrollment": 225,
+      "brief_summary": "The purpose of this study is to examine the effectiveness of using a combination of a drug, rifaximin and a dietary supplement, N-acetyl-L-cysteine (NAC), to treat patients with irritable bowel syndrome with diarrhea (IBS-D). Rifaximin is one of the standard treatments for IBS-D and is FDA approved. While rifaximin is safe and effective for treating symptoms in patients with IBS-D, many patients find that their symptoms may not completely resolve, or may come back after a period of time.\n\nThis r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or non-pregnant, non-lactating female patients ≥ 18 years of age\n2. Diagnosed with IBS confirmed by the Rome IV criteria, with associated symptoms of diarrhea as noted below in 4(b).\n3. Do not have adequate relief of IBS symptoms of abdominal pain, stool consistency or s",
+      "endpoints": [
+        "stool consistency",
+        "Abdominal pain"
+      ],
+      "sponsor": "Cedars-Sinai Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT06727422"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03364218",
+      "title": "Nebulized N-Acetyl Cysteine for Bronchiolitis in Inpatient Hospital Use: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-01",
+      "completion_date": "2020-05-31",
+      "country": "United States",
+      "enrollment": 106,
+      "brief_summary": "Bronchiolitis is the major cause of hospital admission in infants \\< 6 months of age and usually viruses like Respiratory syncytial virus (RSV), human metapneumo virus, Adeno virus, para-influenza virus, Rhino virus and influenza virus are the main culprit. In the US, acute bronchiolitis in infancy is responsible for approximately 150,000 hospitalizations yearly at an estimated cost of $500 million. Globally in 2005 it was estimated that at least 33.8 million were affected with RSV and in the sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Full term new born neonates up to patients \\< 2yrs\n* Respiratory score ≥2\n* Otherwise healthy with new respiratory illness\n\nExclusion Criteria:\n\n* Prematurity \\<34 weeks for patients \\<6 months age.\n* h/o congenital heart disease requiring baseline medication\n* Patient receive",
+      "endpoints": [
+        "Respiratory Score",
+        "Time on Non-Invasive Ventilation",
+        "Duration of PICU/Hospital Admission"
+      ],
+      "sponsor": "Carilion Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT03364218"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03843541",
+      "title": "A Phase III, Multi-centre, Randomized, Rater- and Patient-blind, Placebo- and Active-controlled, Parallel Group Clinical Trial to Compare the Efficacy and Safety of 1-week Treatment of Intravenous N-acetylcysteine (NAC) 600 mg Twice Daily (Active Test Treatment), Ambroxol Hydrochloride 30 mg Twice Daily (Active Control Treatment) and Placebo as Expectorant Therapies in Adult Chinese Patients With Respiratory Tract Diseases and Abnormal Mucus Secretions",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-06-25",
+      "completion_date": "2021-02-05",
+      "country": "China",
+      "enrollment": 333,
+      "brief_summary": "This is a phase 3, multicenter, randomized, rater- and patient-blind, placebo- and active-controlled, 3-arm parallel group clinical trial. Patients will be randomized to N-acetylcysteine (NAC) or ambroxol or placebo in a 1:1:1 ratio. A total of approximately 333 patients in China will be randomized. The total study duration will be approximately 8 months including the enrolment period of approximately 7 months and the patient participation duration of 1 month or 4 weeks. Each patient will underg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female adult (≥18 years old) hospitalized patients with respiratory tract diseases and abnormal mucus secretions such as: acute bronchitis, chronic bronchitis and exacerbations, emphysema, mucoviscidosis and bronchiectasis.\n2. Chinese ethnicity and/or Chinese\n3. Signe",
+      "endpoints": [
+        "Change From Baseline to Day 7 of Mean Sputum Viscosity Score of NAC and Placebo",
+        "Change From Baseline to Day 7 Treatment of Mean Expectoration Difficulty Score of NAC and Placebo"
+      ],
+      "sponsor": "Zambon SpA",
+      "url": "https://clinicaltrials.gov/study/NCT03843541"
+    }
+  ],
+  "timestamp": "2026-03-04T15:01:37.832789",
+  "success": true,
+  "error_message": null
+}

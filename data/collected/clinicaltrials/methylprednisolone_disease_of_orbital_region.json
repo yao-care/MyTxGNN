@@ -1,0 +1,929 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "disease of orbital region"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04501367",
+      "title": "Assessing the Efficacy and Safety fo DEXTENZA, Sustained Release Dexamethasone 0.4 mg Insert(s) When Placed Within the Lower Eye Lid Canaliculus or Both the Upper and Lower Canaliculi for the Treatment of Pain, Inflammation, and Cystoid Macular Edema Following 27 Gauge Vitrectomy With Internal Limiting Membrane Peel for the Treatment of Retinal Edema Associated With Macular Pucker.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-27",
+      "completion_date": "2024-12-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Assessing the efficacy and safety of DEXTENZA, sustained release dexamethasone 0.4 mg inserts following 27 gauge vitrectomy with internal limiting membrane peel",
+      "eligibility_criteria": "Inclusion Criteria: A patient's study eye must meet the following criteria to be eligible for inclusion in the study:\n\n* Symptomatic macular pucker with retinal edema\n* Age 18 years and older\n* Scheduled vitrectomy and internal limiting membrane peel\n* Willing and able to comply with clinic visits a",
+      "endpoints": [
+        "Mean change in retina edema"
+      ],
+      "sponsor": "Kovach Eye Institute",
+      "url": "https://clinicaltrials.gov/study/NCT04501367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05049603",
+      "title": "Phase III, Double-blinded, Multicenter, Randomized Clinical Trial to Evaluate the Effects of Atorvastatin on Moderate-to-severe and Active Graves' Orbitopathy (GO) Treated With Intravenous Glucocorticoids: the STAGO-2 Study",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-01-01",
+      "completion_date": "2026-12-31",
+      "country": "Italy",
+      "enrollment": 102,
+      "brief_summary": "Graves' orbitopathy (GO) is the most common extra-thyroidal manifestation of Graves' disease (GD). Based on its clinical signs and symptoms, GO is graded as mild, moderate-to-severe, or severe, and active or inactive, the latter feature being established on a 5/7-scale score named Clinical Activity Score (CAS).\n\nThe European Group on Graves Orbitopathy (EUGOGO) has recently formulated and published up-to-date guidelines for the management of GO, according to which high dose intravenous (iv) gluc",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Patients willing and capable of giving written informed consent, which includes compliance with the requirements and restrictions listed in the consent form\n2. A diagnosis of Graves' disease based on the presence of hyperthyroidism associated with detectable anti-thyrotropic h",
+      "endpoints": [
+        "Outcome of GO"
+      ],
+      "sponsor": "University of Pisa",
+      "url": "https://clinicaltrials.gov/study/NCT05049603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00406042",
+      "title": "The Role of Topical Prednisolone Acetate Following Selective Laser Trabeculoplasty",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2006-06",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "To evaluate whether or not using topical steroids after selective laser trabeculoplasty affects intraocular pressure outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* glaucoma or ocular hypertension\n* need for bilateral SLT\n\nExclusion Criteria:\n\n* eye disease precluding accurate IOP measurement\n* contraindication to topical prednisolone acetate",
+      "endpoints": [
+        "Intraocular pressure reduction"
+      ],
+      "sponsor": "West Virginia University",
+      "url": "https://clinicaltrials.gov/study/NCT00406042"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02256969",
+      "title": "Prospective, Randomized Clinical Trial of Meibomian Gland Probing Versus Sham Procedure for Refractory Meibomian Gland Dysfunction",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-10",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "In this research study, the investigators are looking at the effects of Meibomian Gland Probing (MGP) versus a sham (fake) procedure in patients with refractory MGD who have already tried traditional management with no success in resolving their clinical signs (as seen by their ophthalmologist) or their symptoms.\n\nThe investigators are also evaluating the effects of using two (2) post-procedural medication treatments: Blephamide or GenTeal PM Night-Time to determine if treatment after the MGP pr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-89 years\n* Willing and able to provide written informed consent\n* Willing and able to comply with study assessments for the full duration of the study\n* Diagnosis of meibomian gland dysfunction (MGD)\n* Symptoms of MGD such as foreign body sensation, burning, stinging, l",
+      "endpoints": [
+        "Ocular Surface Disease Index (OSDI)",
+        "Symptom Assessment in Dry Eye (SANDE)",
+        "Corneal Fluorescein Staining (CFS)"
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "url": "https://clinicaltrials.gov/study/NCT02256969"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02373137",
+      "title": "Descemet Endothelial Thickness Comparison Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-01-22",
+      "completion_date": "2023-05-30",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "The purpose of this study is to compare visual acuity outcomes of two types of endothelial keratoplasty: 1) Ultrathin Descemet's Stripping Endothelial Keratoplasty (DSAEK) or 2) Descemet's Membrane Endothelial Keratoplasty (DMEK). Half of the participants will be randomized to have DSAEK and the other half will have DMEK.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Damaged or diseased endothelium from Fuchs or Pseudophakic Bullous Keratopathy\n* Good candidates for corneal transplantation for either DMEK or DSAEK\n* Willingness and ability to undergo a cornea transplantation\n* Willingness to participate in follow-up visits\n\nExclusion Crite",
+      "endpoints": [
+        "Best Spectacle-Corrected Visual Acuity"
+      ],
+      "sponsor": "Oregon Health and Science University",
+      "url": "https://clinicaltrials.gov/study/NCT02373137"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01114503",
+      "title": "A Randomised, Comparator Controlled, Two Part, Open-label Study to Evaluate the Safety, Tolerability and Pharmacodynamics of Multiple Doses of Otelixizumab in Patients With Thyroid Orbitopathy",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-07-07",
+      "completion_date": "2012-08-29",
+      "country": "United Kingdom",
+      "enrollment": 2,
+      "brief_summary": "The purpose of this study is to investigate the safety and tolerability of otelixizumab in patients with Graves' ophthalmopathy (thyroid eye disease). There is currently no alternative therapy available for this condition other than treatment with steroids, or radiotherapy and surgery. The study also includes a comparison of the current steroid treatment, methylprednisolone, with the proposed new otelixizumab treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between 18 and 75 years of age inclusive\n* A female subject is eligible to participate if she is of:\n* Non-childbearing potential defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or postmenopausal defined as 12 months of sponta",
+      "endpoints": [
+        "Number of Participants With at Least One Adverse Event (AE), Serious Adverse Event (SAE), or Drug-related Adverse Event",
+        "Number of Participants With Laboratory Clinical Chemistry Abnormalities Meeting the Criteria for Potential Clinical Concern (PCC)",
+        "Number of Participants With Laboratory Hematology Abnormalities Meeting the Criteria for PCC"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01114503"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04005079",
+      "title": "A Prospective Randomized Control Trial of Pilocarpine Use After Combined Cataract/Trabectome Surgery",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2019-06-05",
+      "completion_date": "2021-01-21",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Combined cataract + trabectome surgery is a surgery designed to help lower the intraocular pressure (pressure in the eye) and hopefully reduce the need for topical drops, progression of glaucoma, and/or further glaucoma surgeries. The purpose of this study is to assess whether using pilocarpine, a medication which is FDA approved to induce miosis, (in other words cause the pupil to constrict or become smaller) provides additional benefit to the success of Trabectome and cataract surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age Range: 30 to 100 years old\n* Patients with ocular hypertension or open angle glaucoma undergoing combined cataract surgery with trabectome in a single surgical center\n\nExclusion Criteria:\n\n* Patients with previous history of eye surgeries (including laser procedures).",
+      "endpoints": [
+        "Percentage of intraocular lowering from baseline",
+        "Number of IOP lowering agents required to achieve goal IOP",
+        "Rate of progression to further glaucoma surgeries."
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04005079"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05012033",
+      "title": "Evaluation of High Dose Prednisolone Pharmacokinetics in the Acute and Chronic Setting",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-04-12",
+      "completion_date": "2026-03-26",
+      "country": "United Kingdom",
+      "enrollment": 120,
+      "brief_summary": "This is a pilot study to investigate serum prednisolone profiles in:\n\n* Patients on high doses of prednisolone for any inflammatory disorder, both in the acute and chronic setting.\n* Patients stepping up from or down to prednisolone therapy in association with a course of high dose methyl-prednisolone or dexamethasone.\n\nThe study will comprise 3 groups, including those started on high doses of prednisolone acutely in an inpatient or outpatient setting, participants on chronically high doses, and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 - 75 years\n* Male or female\n* Participants who are otherwise healthy enough to participate, as determined by pre-study medical history\n* Participants who are able and willing to give written informed consent to participate in the study\n* Group A only: Patients requirin",
+      "endpoints": [
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose prednisolone acutely and in the chronic setting).",
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose",
+        "To elucidate differences in prednisolone pharmacokinetics (in patients receiving high dose"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT05012033"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04406376",
+      "title": "Do We Need to Taper Down Steroid Therapy for Bell's Palsy: A Prospective Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-05-12",
+      "completion_date": "2023-08-01",
+      "country": "Israel",
+      "enrollment": 124,
+      "brief_summary": "Bell's palsy \\[BP\\] is defined as acute idiopathic peripheral facial palsy or paralysis.\n\nAdditional symptoms frequently include pain around or behind the ear, impaired tolerance to ordinary levels of noise and disturbed sense of taste on the same side. It affects men and women more or less equally.\n\nThere is a consensus in the literature regarding the importance of steroid treatment for improving recovery rates and sequela of BP. Moreover, there is increasing level of high quality of evidence i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients (≥18 years) diagnosed with BP within 72 hour of onset.\n2. Adult patients willing to get treatment, attending follow up visits and signing informed consent.\n\nExclusion Criteria:\n\n1. Patients treated with antivirals (i.e acyclovir) for any reason simultaneously, ",
+      "endpoints": [
+        "House-Brackmann scale"
+      ],
+      "sponsor": "Carmel Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04406376"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05120687",
+      "title": "The Efficacy and Safety of Corticosteroid Combining Noncorticosteroid Systemic Immunomodulatory Therapy in VKH",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-10-15",
+      "completion_date": "2025-10-06",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "The aim of this study is to evaluate the efficacy and safety of corticosteroidcombining noncorticosteroid systemic immunomodulatory therapy (NCSIT) for the treatment of Vogt Koyanagi Harada disease (VKH).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis is based on Revised International Diagnostic Criteria (Read et al. 2001b).\n* Age from 12 to 70 years old.\n* Patients have no contraindication of prednisone and immunosuppressive therapy, as determined by the investigator based on the results of laboratory and physica",
+      "endpoints": [
+        "Number of participants achieving corticosteroid-sparing effect"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05120687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03605238",
+      "title": "Clinical Study of CD19/CD20 tanCAR T Cells in Relapsed and/or Refractory AQP4-IgG Seropositive Neuromyelitis Optica Spectrum Disorders (NMOSD)",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2018-08-15",
+      "completion_date": "2020-08-15",
+      "country": "China",
+      "enrollment": 0,
+      "brief_summary": "CAR-T therapy was proposed and has been recently used for cancer treatment. It has been hailed for its promising remission rates after early stage clinical trials for acute lymphoblastic leukemia. However, CAR-T therapy is seldom used for autoimmune diseases. Researchers only use it for the treatment of systemic lupus erythematosus (SLE). Neuromyelitis optica spectrum disorders (NMOSD), that include the neuromyelitis optica (NMO), are a group of inflammatory disorders of the central nervous syst",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinical diagnosis of neuromyelitis optica spectrum disorders (NMOSD) patients.\n2. Patients with AQP4-IgG seropositive by cell-based assay.\n3. Patients with corticosteroid treatment combined immunosuppressant (azathioprine or mycophenolate mofetil or rituximab) still recurren",
+      "endpoints": [
+        "Occurrence of study related adverse events"
+      ],
+      "sponsor": "Chinese PLA General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03605238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06392906",
+      "title": "Orbital Radiotherapy in Grave's Ophthalmopathy 1 Week vs 2 Weeks: A Phase II Randomized Controlled Trial (OraGO-1 Trial)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-07-11",
+      "completion_date": "2028-10-31",
+      "country": "Thailand",
+      "enrollment": 68,
+      "brief_summary": "Thyroid ophthalmopathy, also known as thyroid eye disease or Graves' ophthalmopathy, is a condition characterized by inflammation and swelling of the tissues around the eyes, often accompanied by protrusion of the eyeballs. This condition can lead to significant discomfort, visual disturbances, and in severe cases, permanent vision loss.\n\nPrimary treatment modalities are intravenous methylprednisolone (IVMP) and other medications for patients with moderate to severe and active thyroid eye diseas",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with active moderate to severe thyroid eye disease with a CAS \\> 4 with/ without diplopia before starting IVMP\n* Patient with poor response to 3 doses of IVMP (CAS drop \\< 1) หรือ CAS score \\> 3 after 3 doses of IVMP\n* Patients with diplopia after 3 doses of IVMP\n* Pat",
+      "endpoints": [
+        "Clinical Activity Score (CAS) change"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT06392906"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00410267",
+      "title": "A Randomized Prospective Double - Masked Controlled Trial Comparing Ketorolac Tromethamine 0.4% and Prednisolone Acetate 1% in Reducing Post-Selective Laser Trabeculoplasty Anterior Chamber Flare and Cells",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2006-02",
+      "completion_date": "2007-12",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "Selective laser trabeculoplasty (SLT) is a new alternative to anti-glaucoma medications for the treatment of primary open angle glaucoma. After SLT, many patients experience mild to moderate inflammation inside the eye - specifically in the front chamber of the eye (the part in front of the colored part of the eye). This mild front chamber reaction is typically treated with anti-inflammatory agents such as corticosteroids and nonsteroidal anti-inflammatory agents (NSAIDs). Some physicians do not",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with open angle glaucoma at the University of Pittsburgh Medical Center (UPMC) Glaucoma Clinic.\n* Able to provide written informed consent to participate.\n* Must be between the ages of 18 - 95.\n* Patients in which further IOP lowering by SLT is necessary in ",
+      "endpoints": [],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00410267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04620772",
+      "title": "Efficacy and Safety of Cyclophosphamide in the Treatment of Refractory Proliferative Arachnoiditis in Central Nervous System Tuberculosis- A Randomized Double Blinded Placebo Controlled Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-01-01",
+      "completion_date": "2024-12-31",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "Tubercular meningitis occurs in around 10% of those with extrapulmonary tuberculosis and is a major cause of mortality and morbidity. Inspite of effective Anti-tubercular drugs, still around 30% of patients develop complications due to arachnoiditis such as spinal tubercular radiculomyelitis, optico-chiasmatic arachnoiditis, development of new tuberculomas after starting therapy etc. which are probably immune mediated inflammatory responses due to paradoxical reaction to ATT.\n\nThe management of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients attending Neurology/Pulmonary Medicine/Medicine/Geriatric Medicine OPD/admitted in respective wards with proliferative tubercular arachnoiditis refractory to corticosteroids and standard Anti-tubercular drugs for CNS tuberculosis\n* Atleast 14 years of age of all sexes",
+      "endpoints": [
+        "Functional independece at 6 months"
+      ],
+      "sponsor": "All India Institute of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04620772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01829295",
+      "title": "First-line Antimetabolites as Steroid-sparing Treatment (FAST) Uveitis Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-08",
+      "completion_date": "2018-08-09",
+      "country": "Mexico, Saudi Arabia, India, Australia, United States",
+      "enrollment": 216,
+      "brief_summary": "In the First-line Antimetabolites as Steroid-sparing Treatment (FAST) Uveitis Trial, the investigators propose to establish which immunosuppressive therapy, methotrexate or mycophenolate mofetil, is more effective as a first-line, corticosteroid-sparing agent for the treatment of non-infectious uveitis in a block-randomized, observer-masked, comparative effectiveness trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All the following criteria must be met at enrollment:\n\nHistorical non-infectious intermediate, anterior and intermediate, posterior or panuveitis in at least one eye\n\nActive inflammation within the last 180 days, defined by the presence of any of the following (in at least one",
+      "endpoints": [
+        "Number of Participants Achieving Treatment Success at 6 Months (Phase I, 0-6 Months)"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT01829295"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06235567",
+      "title": "Comparison of Intracanalicular Steroid-eluting Insert (Dextenza) to Topical Steroid Eye Drops for the Postoperative Management of Corneal Collagen Crosslinking",
+      "phase": "PHASE1, PHASE2",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2025-04-11",
+      "completion_date": "2026-06",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study aims to compare the use of Dextenza, an FDA-approved intracanilular drug-eluting insert that is designed to deliver a tapered dose of dexamethasone to the ocular surface for 30 days, to the standard of care, or the use of a month-long topical prednisolone acetate 1% (PredForte) eye drops starting from four times daily. Following treatment, Dextenza resorbs and exits the nasolacrimal system without the need for removal. Three prior phase 3 clinical trials have demonstrated that Dextenz",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The study will enroll patients age 13 and up with progressive keratoconus (KCN) who are scheduled for bilateral epithelial off corneal collagen cross-linking (CXL) with Photrexa. A patient's study eye must meet the following criteria to be eligible for inclusion in the study:\n",
+      "endpoints": [
+        "Corneal haze",
+        "Corneal re-epithelialization",
+        "Keratometry"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT06235567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01853072",
+      "title": "Randomized, Double-Masked, Vehicle Controlled, Clinical Evaluation To Assess The Safety And Efficacy Of Nepafenac Ophthalmic Suspension, 0.3% For Improvement In Clinical Outcomes Among Diabetic Subjects Following Cataract Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2015-05",
+      "country": "N/A",
+      "enrollment": 881,
+      "brief_summary": "The purpose of this study is to demonstrate superiority of Nepafenac Ophthalmic Suspension, 0.3% dosed once daily relative to Nepafenac Vehicle based upon clinical outcomes among diabetic subjects following cataract surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Planned cataract extraction by phacoemulsification with implantation of a posterior chamber intraocular lens;\n* History of Type 1 or 2 diabetes and non-proliferative diabetic retinopathy (NPDR) (mild, moderate, or severe) in the study eye;\n* Best corrected visual acuity (BCVA)",
+      "endpoints": [
+        "Percentage of Participants With Best-corrected Visual Acuity (BCVA) Improvement of ≥ 15 Letters From Preoperative Baseline to Day 14 and Maintained Through Day 90",
+        "Percentage of Participants Who Develop Macular Edema Within 90 Days Following Cataract Surgery (Day 0)"
+      ],
+      "sponsor": "Alcon Research",
+      "url": "https://clinicaltrials.gov/study/NCT01853072"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000147",
+      "title": "Longitudinal Optic Neuritis Study (LONS)",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "1988-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To assess the beneficial and adverse effects of corticosteroid treatment for optic neuritis.\n\nTo determine the natural history of vision in patients who suffer optic neuritis.\n\nTo identify risk factors for the development of multiple sclerosis in patients with optic neuritis.",
+      "eligibility_criteria": "The major eligibility criteria for enrollment into the ONTT included the following:\n\nAge range of 18 to 46 years\n\nAcute unilateral optic neuritis with visual symptoms for 8 days or less\n\nA relative afferent pupillary defect and a visual field defect in the affected eye\n\nNo previous episodes of optic",
+      "endpoints": [],
+      "sponsor": "National Eye Institute (NEI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02398994",
+      "title": "A Multicentre randomiSed Controlled TRial of IntraVEnous Immunoglobulin (IVIg) Versus Standard Therapy for the Treatment of Transverse Myelitis in Adults and Children",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2015-03",
+      "completion_date": "2016-03",
+      "country": "United Kingdom",
+      "enrollment": 2,
+      "brief_summary": "This multi-center randomized controlled trial evaluates if the addition of intravenous immunoglobulin to standard treatment of corticosteroids improves outcome in children and adults with first episode of Transverse Myelitis of Neuro-myelitis optica. Half of participants will receive corticosteroids alone, whilst the other half will receive corticosteroids plus intravenous immunoglobulin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of\n\nEITHER acute first onset transverse myelitis (using the TM Consortium Working Group 2002 criteria) - patients must fulfill all of the following criteria:\n\n* Sensory, motor, or autonomic dysfunction attributable to spinal cord disease\n* Bilateral signs and/or symp",
+      "endpoints": [
+        "2 points or greater improvement on the American Spinal Injury Association (ASIA) Impairment scale (classified A-E)"
+      ],
+      "sponsor": "Guy's and St Thomas' NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT02398994"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004430",
+      "title": "Randomized Study of Photodynamic Therapy Using Dihematoporphyrin in Patients With Corneal Neovascularization",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1994-09",
+      "completion_date": "1998-09",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "OBJECTIVES:\n\nI. Demonstrate the safety and efficacy of dihematoporphyrin derivative (DHP) in laser photodynamic therapy (PDT) in patients with corneal neovascularization.\n\nII. Document the histopathologic mechanism of action in selected patients undergoing penetrating keratoplasty following PDT therapy for corneal neovascularization.\n\nIII. Facilitate FDA product approval of DHP as a photosensitizing agent for laser treatment in these patients.\n\nIV. Explore the use of this photosensitizer for ocu",
+      "eligibility_criteria": "* Histologically proven corneal neovascularization (CNV): Must have at least 1 quadrant of significant CNV, which is due to bacterial, viral, parasitic, or fungal keratitis; alkaline acid or hydrocarbon chemical burns; ocular trauma and injury; severe ocular surface disease; or previous surgery with",
+      "endpoints": [],
+      "sponsor": "FDA Office of Orphan Products Development",
+      "url": "https://clinicaltrials.gov/study/NCT00004430"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05191706",
+      "title": "A Phase 3/4, Prospective, Randomized, Active Treatment-Controlled, Parallel-Design, Multicenter Study to Evaluate the Safety of DEXYCU for the Treatment of Inflammation Following Ocular Surgery for Childhood Cataract",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-01-04",
+      "completion_date": "2026-02",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "A Phase 3/4, Prospective, Randomized, Active Treatment-Controlled, Parallel-Design, Multicenter Study to Evaluate the Safety of DEXYCUfor the Treatment of Inflammation Following Ocular Surgery for Childhood Cataract",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Undergoing uncomplicated cataract surgery with or without a posterior chamber intraocular lens (IOL) implantation.\n* If a contact lens is used for correction of post-operative aphakia, it must be a silicone elastomer lens or a rigid gas permeable lens (no water content).\n* Oth",
+      "endpoints": [
+        "Grade of anterior chamber cells (ACC)"
+      ],
+      "sponsor": "EyePoint Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05191706"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00478036",
+      "title": "A Randomized Prospective Double Masked Controlled Trial Comparing Ketorolac Tromethamine 0.4% and Prednisolone Acetate 1% in Reducing Post-selective Laser Trabeculoplasty Anterior Chamber Flare and Cells.",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2007-05",
+      "completion_date": "2014-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The Investigators will compare, in a randomized, prospective, masked and controlled fashion the effect of a non-steroidal anti-inflammatory agent (Acular LS), a corticosteroid (Pred Forte) and a placebo (Refresh Tears) on patient discomfort, degree of intraocular pressure (IOP) lowering and degree of ocular inflammation following selective laser trabeculoplasty treatment for open angle glaucoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with open angle glaucoma patients at the Rocky Mountain Lions Eye Institute Glaucoma Clinic.\n* Able to provide written informed consent to participate.\n* Must be the age of 18 years of age or older.\n* Patients in which further intraocular pressure lowering by selecti",
+      "endpoints": [
+        "Interocular Pressure"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT00478036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03110848",
+      "title": "A Phase II, Open-labeled, Ophthalmological External Investigator-blinded, Single-center, Randomized, Superiority, Non Profit, Pilot Clinical Trial to Evaluate the Effects of Atorvastatin on Graves' Orbitopathy (GO) in Hypercholesterolemic Patients With Moderate-to-severe and Active GO Subjected to Intravenous Glucocorticoid Therapy: the STAGO Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-06-01",
+      "completion_date": "2021-04-30",
+      "country": "Italy",
+      "enrollment": 88,
+      "brief_summary": "Graves' orbitopathy (GO) is the most common extra-thyroidal manifestation of Graves' disease (GD), being observed in \\~25% of patients. Besides genetic and demographical variables, risk factors associated with the development of GO in GD patients are known to be inadequate control of hyperthyroidism, radioiodine treatment, and smoking. In a large retrospective study conducted in more than 8,000 individuals with GD it was observed that treatment with 3-hydroxy-3-methylglutaryl-coenzyme reductase ",
+      "eligibility_criteria": "1. Informed consent\n2. A diagnosis of Graves' disease\n3. A moderately severe GO\n4. Active GO\n5. No corticosteroids or immunosuppressive treatment for GO in the last 3 months.\n6. No previous surgical treatment for GO\n7. No contraindication to GC\n8. Male and female patients of age: 18-75 years\n9. LDL-",
+      "endpoints": [
+        "Overall GO outcome determined using a composite evaluation"
+      ],
+      "sponsor": "University of Pisa",
+      "url": "https://clinicaltrials.gov/study/NCT03110848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01838174",
+      "title": "A Phase IV Trial of Neuroprotection With ACTH in Acute Optic Neuritis",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2013-05",
+      "completion_date": "2022-01-13",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "We hypothesize that the novel melanocortin-mediated anti-inflammatory effects of ACTH will reduce axonal loss following ON by limiting inflammatory optic nerve injury. We will compare the effect of ACTH and intravenous methylprednisolone therapy on axonal injury following ON using OCT, a sensitive, reproducible and noninvasive tool to measure RNFL thickness.\n\nThe primary outcome will be the average RNFL thickness at 6 months. Additional pre-specified statistical analyses will compare the differe",
+      "eligibility_criteria": "Inclusion criteria\n\n1. Ability to provide written informed consent before any study assessment is performed.\n2. Male and female patients aged between 18 and 55 years, inclusive.\n3. Diagnosis of clinically unilateral acute demyelinating optic neuritis (ADON)\n4. Clinical signs and symptoms of ADON sta",
+      "endpoints": [
+        "Retinal Nerve Fiber Layer (RNFL) thickness"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT01838174"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00981435",
+      "title": "Steroids And Laser Trabeculoplasty (SALT) Trial: Effect of Anti-Inflammatory Treatment on the Efficacy of SLT",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2015-09",
+      "country": "United States",
+      "enrollment": 97,
+      "brief_summary": "The purpose of this study is to determine whether the choice of post-operative eye drop administered after selective laser trabeculoplasty (SLT) for glaucoma affects the efficacy in lowering intraocular pressure (IOP).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical diagnosis of glaucoma\n* clinician has determined that SLT laser is indicated\n* IOP currently \\>18 and was ever \\>21 in the past (e.g. prior to treatment)\n\nExclusion Criteria:\n\n* prior history of uveitis\n* prior glaucoma surgery including glaucoma laser surgery\n* pregn",
+      "endpoints": [
+        "Intraocular Pressure (IOP) Change"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00981435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06367517",
+      "title": "Efficacy and Safety of Tocilizumab in Patients With Active Moderate-to-Severe Corticosteroid-Resistant Thyroid Eye Disease: Open, Prospective, Observational Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2021-05-20",
+      "completion_date": "2026-05-20",
+      "country": "Poland",
+      "enrollment": 30,
+      "brief_summary": "The aim of this study is to evaluate the efficacy and safety of Tocilizumab as second/third line treatment in patients with Active Moderate-to-Severe Corticosteroid-Resistant Thyroid Eye Disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Male or female, 18-80 years old\n* Patients with active (Clinical Activity Score ≥ 3 in 7-item scale) and moderate-to-severe GO, diagnosed according to the EUGOGO guidelines, after the completion of MP pulse treatment, WITH\n\n  o Deterioration of GO (i",
+      "endpoints": [
+        "Disease improvement",
+        "Improvement of quality of life"
+      ],
+      "sponsor": "Medical University of Warsaw",
+      "url": "https://clinicaltrials.gov/study/NCT06367517"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03724240",
+      "title": "A Multicentre, International, Randomised, Double-blind, Placebo-controlled Study to Demonstrate the Clinical Efficacy and Safety of Subcutaneous Immunotherapy With gpASIT+™ in Patients With Grass Pollen-induced Allergic Rhinoconjunctivitis",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-02",
+      "completion_date": "2019-12",
+      "country": "N/A",
+      "enrollment": 624,
+      "brief_summary": "This is a randomised, double-blind, placebo-controlled, international, multicentre, confirmatory Phase III study in patients with grass pollen-related allergic rhinoconjunctivitis. After having given written informed consent, the patients will be examined to establish eligibility according to inclusion/exclusion criteria. The eligible patients will be randomised to Placebo or gpASIT+™ treatment according to a 1:1 ratio. Study treatment will be administered before the start of the pollen season i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Allergy diagnosis:\n* A clinical history of moderate to severe grass pollen-induced Seasonal Allergic Rhinoconjunctivitis (SARC) for at least 2 pollen seasons, requiring treatment with either antihistamines or nasal corticosteroids during the 2017 and 2018 grass pollen seasons ",
+      "endpoints": [
+        "Average daily Combined Symptom and Medication Score collected during the peak of the grass pollen season"
+      ],
+      "sponsor": "ASIT Biotech S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03724240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02412059",
+      "title": "Topical Use of Corticosteroid to Prevent Epiretinal Membrane Formation in Eyes With Retinal Tear Undergoing Laser Retinopexy: a Pilot Prospective Clinical Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-08",
+      "completion_date": "2016-01",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "In this prospective randomized controlled double blind pilot clinical study, we aim to assess whether administration of a topical corticosteroid would attenuate epiretinal membrane formation following development of retinal tears treated with laser retionpexy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between ages 18 to 80 (inclusive)\n* English-speaking\n* Undergoing non-pneumatic laser retinopexy procedure for horseshoe retinal tear (without retinal detachment)\n\nExclusion Criteria:\n\n* Patient refusal or delay of retinopexy procedure for more than 48 hours after diagnosis\n* ",
+      "endpoints": [
+        "Incidence of epiretinal membrane"
+      ],
+      "sponsor": "Unity Health Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT02412059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04744623",
+      "title": "Clinical Evaluation of New Treatment Strategy of Mucous Membrane Pemphigoid Using Large Dose of Prednisolone Plus Intra-lesional of Triamcinolone Acetonide Followed by Combination of Mycophenolate Mofetil, Dapsone and Low Dose Prednisolone",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-09-30",
+      "completion_date": "2021-11-04",
+      "country": "Egypt",
+      "enrollment": 10,
+      "brief_summary": "Abstract: Mucous membrane pemphigoid (MMP) is an autoimmune blistering disorder characterized by inflammation, blistering, and scarring and predominantly occurring at mucous membranes. Successful treatment can be challenging, and uncontrolled disease may result in significant morbidity with scarring of the conjunctiva and oropharynx leading to blindness and dysphagia. Therefore successful treatment is a must to improve patient quality of life.\n\nAim of work: to evaluate clinically the effectivene",
+      "eligibility_criteria": "Inclusion Criteria:\n\npatients with age references patients confirmed from dermatology department that they had mucous membrane(MMP) pemphigoid- patients are not allergic o to the drugs being used for the treatment\n\nExclusion Criteria:\n\npatients below or above age reference used in the study patients",
+      "endpoints": [
+        "Mycophenolate mofetil, dapsone and low dose prednisolone may showing powerful effect than large dose of systemic corticosteroids with intra-lestional corticosteroid in treatment of Mucous membrane pemphigoid"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04744623"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01613963",
+      "title": "Observational Study of Visual Outcomes in Retinal Disease",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2012-12",
+      "country": "United Kingdom",
+      "enrollment": 2000,
+      "brief_summary": "This is a study of visual outcomes in retinal disease that seeks to identify the causes of visual loss. This data will be used to predict which patients are at risk of losing vision and how they can be better treated.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with a diagnosis of ocular inflammation\n* patients with at least 6 months of follow-up\n\nExclusion Criteria:\n\n* patients without a diagnosis of ocular inflammation\n* patients with less than 6 months of follow-up",
+      "endpoints": [
+        "Visual acuity at 5 years"
+      ],
+      "sponsor": "Royal Surrey County Hospital NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01613963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06763848",
+      "title": "Protein A Immunoadsorption for the Treatment of Acute Episodes of Neuromyelitis Optica Spectrum Disorder：A Multicenter, Open-label, Superiority, Randomised Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-25",
+      "completion_date": "2026-12-31",
+      "country": "China",
+      "enrollment": 144,
+      "brief_summary": "To clarify the efficacy and safety of protein A immunoadsorption therapy for acute exacerbations of neuromyelitis optica spectrum disorders(NMOSD), we designed a multicenter, open-label, superiority randomized controlled clinical trial, planning to enroll 144 patients with NMOSD. We plan to treat patients with acute NMOSD using protein A immunoadsorption combined with high-dose intravenous methylprednisolone, and compare this with treatment using high-dose intravenous methylprednisolone alone. T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The inclusion criteria for the study are as follows:\n\n  1. clinical diagnosis of acute Neuromyelitis Optica Spectrum Disorders (NMOSD)\n  2. Age and Gender: Participants must be between 18 and 65 years old, inclusive, with no gender restrictions.\n  3. Serological Marker: Partic",
+      "endpoints": [
+        "To assess the effectiveness of the treatment, the change in the Kurtzke Expanded Disability Status Scale (EDSS) score is evaluated one month after the start of treatment compared to the baseline. The baseline is defined as the patient's condition before"
+      ],
+      "sponsor": "Third Affiliated Hospital, Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06763848"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01124045",
+      "title": "A Phase IIIB, Multicenter, Randomized, Double-Masked, Parallel-Group, Active-Controlled Study of the Safety and Efficacy of Difluprednate Ophthalmic Emulsion, 0.05% (Durezol™) 4 Times Daily (QID) and Prednisolone Acetate Ophthalmic Suspension, 1.0% (Pred Forte™) QID for the Treatment of Inflammation Following Cataract Surgery in Children 0 to 3 Years of Age",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2012-04",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The primary objective of this study was to compare the safety and efficacy of Durezol™ compared to Pred Forte™ for the treatment of inflammation following cataract surgery in a pediatric population 0 to 3 years of age.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 0 to 3 years of age.\n* Undergoing uncomplicated cataract extraction in 1 eye with or without intraocular lens.\n* Informed consent signed by a parent or legal guardian.\n* Other protocol-defined inclusion criteria may apply.\n\nExclusion Criteria:\n\n* Presence of any active or susp",
+      "endpoints": [
+        "Percentage of Patients With an Anterior Cell Grade of 0 (no Cells) at Day 15 ± 2 Days"
+      ],
+      "sponsor": "Alcon Research",
+      "url": "https://clinicaltrials.gov/study/NCT01124045"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00758199",
+      "title": "Determination of Optimum Duration of Treatment With Bromfenac (Xibrom) Eyedrops Following Cataract Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "The objective of this study is to determine if an extension of bromfenac BID monotherapy is effective in the decreasing retinal thickening post cataract IOL placement surgery. No studies exist on how long to treat with an NSAID post cataract IOL placement surgery. Currently, NSAID therapy post IOL placement surgery is in conjunction with steroid treatment, lasting approximately 3 weeks. This study is designed to examine if there is benefit to extending NSAID monotherapy in regards to macular thi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female \\>18 years of age scheduled to undergo bilateral cataract surgery\n* Patients with systemic diseases will be enrolled only if there are no ocular manifestations of their disease (e.g. diabetics with normal retinal exams)\n* Expected visual outcome of BCVA \\> \\[gre",
+      "endpoints": [
+        "OCT with macular thickening"
+      ],
+      "sponsor": "Bp Consulting, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00758199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05023304",
+      "title": "In Clinic Optometrist Insertion of Dextenza Prior to Cataract Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-08-23",
+      "completion_date": "2022-10-01",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "To evaluate the clinical outcomes with optometrist pre-surgical insertion of DEXTENZA in the clinical office setting in patients undergoing same-day cataract surgery compared to standard of care steroid therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients 18 years of age or older, undergoing routine, uncomplicated, sequential bilateral cataract surgery.\n* Willing and able to comply with clinic visits and study related procedures\n* Willing and able to sign the informed consent form\n\nExclusion Criteria:\n\n* Patients under",
+      "endpoints": [
+        "Mean Anterior Chamber Cell/Flare Score",
+        "Mean Anterior Chamber Cell/Flare Score",
+        "Number of Eyes With No Cell or Flare Measured"
+      ],
+      "sponsor": "Vance Thompson Vision",
+      "url": "https://clinicaltrials.gov/study/NCT05023304"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03584516",
+      "title": "GRAVITAS-309: A Phase 2/3 Study of Itacitinib and Corticosteroids as Initial Treatment for Chronic Graft-Versus-Host Disease",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2019-01-17",
+      "completion_date": "2023-11-03",
+      "country": "Israel, France, Spain, Finland, Sweden, Switzerland, Greece, Austria, Italy, Denmark, Germany, United Kingdom, Poland, Canada, Belgium, United States",
+      "enrollment": 155,
+      "brief_summary": "The purpose of this study is to assess the efficacy and safety of itacitinib in combination with corticosteroids as first-line treatment for moderate or severe chronic graft-versus-host disease (cGVHD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Active, clinically diagnosed, moderate or severe cGVHD per NIH Consensus Criteria\n* Underwent allogeneic stem cell transplantation (allo-HCT)\n* Karnofsky Performance Status score ≥ 60%.\n* Evidence of myeloid and platelet engraftment.\n* Willingness to avoid pregnancy or fatheri",
+      "endpoints": [
+        "Part 1: Number of Participants With Dose-limiting Toxicities (DLTs)",
+        "Part 1 Expansion: Number of Participants With Any Treatment-emergent Adverse Event (TEAE)",
+        "Part 2: Response Rate at Month 6"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT03584516"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06681688",
+      "title": "Prospective Study of Complication Rates in Cataract Surgery Patients Treated With Combined Pre-operative NSAID, OMIDRIA, and Subconjunctival Triamcinolone Acetonide Compared With Peri-operative Standard of Care",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-07-10",
+      "completion_date": "2025-08",
+      "country": "United States",
+      "enrollment": 94,
+      "brief_summary": "This is a multicenter, 2-arm, randomized, prospective study of patients slated for bilateral cataract extraction. One eye will be randomized to the Study Arm, and the fellow eye will be randomized to the Control Arm.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants \\> 18 years of age undergoing bilateral cataract surgery\n* Able to provide written informed consent prior to any study related procedure\n* Able and willing, as assessed by the Investigator, to follow study instructions, complete study assessments, comply wit",
+      "endpoints": [
+        "inflammation"
+      ],
+      "sponsor": "The Eye Centers of Racine and Kenosha",
+      "url": "https://clinicaltrials.gov/study/NCT06681688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07247279",
+      "title": "A Multicenter Non Interventional Single Arm Retrospective-prospective Observational Study in Therapeutic Approaches in AChR-Antibody Positive Generalized Myasthenia Gravis (gMG) in Real Clinical Practice in Russia",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-12-23",
+      "completion_date": "2029-12-31",
+      "country": "Russia",
+      "enrollment": 450,
+      "brief_summary": "This is a multicenter, non-interventional, retrospective-prospective, single-arm observational study designed to describe real-world treatment approaches and clinical outcomes among adults with acetylcholine receptor (AChR) antibody-positive generalized myasthenia gravis (gMG) in routine clinical practice in Russia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults (≥18 years) diagnosed with generalized MG positive for acetylcholine receptor (AChR) antibodies.\n2. Provision of signed and dated written informed consent.\n\nExclusion Criteria:\n\n1. Participants currently enrolled in clinical studies for treatment of gMG.\n2. Ocular MG o",
+      "endpoints": [
+        "Age at baseline (years)",
+        "Age at gMG diagnosis (years)",
+        "Sex and ethnicity distribution"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT07247279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04528888",
+      "title": "Steroids and Unfractionated Heparin in Critically Ill Patients With Pneumonia From COVID-19 Infection. A Multicenter, Interventional, Randomized, Three Arms Study Design",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-11-25",
+      "completion_date": "2021-07-30",
+      "country": "Italy",
+      "enrollment": 210,
+      "brief_summary": "SARS-CoV-2 infection seems to induce in most critical cases an excessive and aberrant hyper-inflammatory host immune response that is associated with a so-called \"cytokine storm\", moreover pro-thrombotic derangements of haemostatic system is another common finding in most severe forms of COVID19 infections, which may be explained by the activation of coagulative cascade primed by inflammatory stimuli, in line with what is observed in many other forms of sepsis. Targeting inflammatory responses e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Positive SARS-CoV-2 diagnostic (on pharyngeal swab of deep airways material)\n2. Positive pressure ventilation (either non-invasive or invasive) from \\> 24 hours\n3. Invasive mechanical ventilation from \\< 96 hours\n4. P/F ratio \\< 150\n5. D-dimer level \\> 6 x upper limit of loca",
+      "endpoints": [
+        "All-cause mortality at day 28"
+      ],
+      "sponsor": "University of Modena and Reggio Emilia",
+      "url": "https://clinicaltrials.gov/study/NCT04528888"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03383328",
+      "title": "Effect of Drop-less Surgery Compared to Topical NSAID Alone and Combination of Steroid and NSAID on Central Macular Thickness After Cataract Surgery, a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-02-01",
+      "completion_date": "2019-12-18",
+      "country": "Denmark",
+      "enrollment": 470,
+      "brief_summary": "The purpose of this study is to investigate which anti-inflammatory treatment is best at preventing postoperative inflammation following cataract surgery. We want to compare topical prophylaxis with NSAID eye drops to topical prophylaxis with a combination of NSAID and prednisolone. We also want to compare topical prophylaxis with eye drops to drop-less surgery where the anti-inflammatory drug is administered to the subtenonal space at the conclusion of the surgical procedure. In addition, we wa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with age-related cataracts\n* Older than 18 years\n* Women must be postmenopausal. Women are asked if they have menstruated within the preceding 12 months.\n* Capacity to consent\n* Scheduled to undergo cataract surgery at the ophthalmic department at Rigshospitalet-Glost",
+      "endpoints": [
+        "Central macular thickness"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT03383328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03933631",
+      "title": "A Prospective Randomized Control Trial of Pilocarpine Use After Combined Cataract/Kahook Dual Blade Surgery",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2019-05-01",
+      "completion_date": "2028-12",
+      "country": "United States",
+      "enrollment": 142,
+      "brief_summary": "The goal of this study is to determine whether using pilocarpine provides added benefit to the success of combined cataract + Kahook Dual Blade (KDB) surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with ocular hypertension or open angle glaucoma undergoing combined cataract surgery with KDB in a single surgical center at Montefiore Medical Center with a single provider\n\nExclusion Criteria:\n\n* Patients with previous history of eye surgeries (including laser proce",
+      "endpoints": [
+        "Percentage of patients with lowering of intraocular pressure (IOP)"
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03933631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06118398",
+      "title": "Effectiveness and Safety of Efgartigimod in the Acute Phase of Neuromyelitis Optica Spectrum Disorders-a Multicentric, Controlled, Retrospective, Real-Word Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-11-05",
+      "completion_date": "2025-05-05",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "This study aims to retrospective investigate the safety and effectiveness of Efgartigimod in the acute phase of neuromyelitis optica spectrum disorders (NMOSD) patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Age ≥ 18 years with anti-AQP4-IgG seropositive NMOSD as defined by 2015 NMOSD diagnostic criteria by IPND (International Panel for NMO Diagnosis).\n* 2\\. Patients in the acute phase of NMOSD (definition of acute phase: new neurological symptoms or aggravation of existing sy",
+      "endpoints": [
+        "Change in Expanded Disability Status Scale (EDSS) score from baseline."
+      ],
+      "sponsor": "First Affiliated Hospital of Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06118398"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07405489",
+      "title": "A Retrospective Comparative Cohort Study Evaluating the Efficacy, Anatomical Outcomes, Recurrence Rates, and Safety of Oral Prednisolone Versus Posterior Sub-Tenon Triamcinolone Acetonide as Initial Therapy in Acute Ocular Vogt-Koyanagi-Harada Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-01-01",
+      "completion_date": "2025-12-01",
+      "country": "Egypt",
+      "enrollment": 30,
+      "brief_summary": "Vogt-Koyanagi-Harada (VKH) disease is a rare autoimmune disorder characterized by bilateral ocular inflammation that may lead to serous retinal detachment and permanent visual impairment if not promptly treated. Systemic corticosteroids are commonly used as first-line therapy; however, periocular corticosteroid administration has been proposed as an alternative approach that may reduce systemic adverse effects.\n\nThis retrospective cohort study reviewed the medical records of patients with acute ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n\nDiagnosis of definite or probable acute ocular Vogt-Koyanagi-Harada (VKH) disease\n\nActive intraocular inflammation (choroiditis, serous retinal detachment, or panuveitis)\n\nNo prior treatment for the current VKH episode\n\nMinimum follow-up of 6 months with complet",
+      "endpoints": [
+        "Proportion of Participants Achieving Complete Control of Ocular Inflammation at 3 Months"
+      ],
+      "sponsor": "Benha University",
+      "url": "https://clinicaltrials.gov/study/NCT07405489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00097448",
+      "title": "Sudden Hearing Loss Multicenter Treatment Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 255,
+      "brief_summary": "This trial aims to compare the efficacy of oral prednisone vs. methylprednisolone injected into the middle ear for the treatment of moderate-to-severe, sudden sensorineural hearing loss (inner ear hearing loss affecting one ear that occurs over less than 72 hours).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men/women 18 years and older in good health\n* Unilateral sensorineural hearing loss developing within 72 hours (SSNHL)\n* Pure Tone Average (PTA) (500, 1000, 2000, 4000 Hz) \\>/= 50 dB in the affected ear, with the affected ear \\>/= 30 dB worse than contralateral ear in at least",
+      "endpoints": [
+        "Hearing Improvement"
+      ],
+      "sponsor": "Massachusetts Eye and Ear Infirmary",
+      "url": "https://clinicaltrials.gov/study/NCT00097448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02087813",
+      "title": "A Single Center Open Label Pilot Study of Alpha1-Antitrypsin: A Novel Treatment to Mitigate Neuromyelitis Optica Attacks",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2014-03",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Neuromyelitis Optica (NMO) is a rare, devastating demyelinating disease of the central nervous system (CNS) that has different causes and treatments from the more common demyelinating disease multiple sclerosis (MS). Current NMO therapies are nonspecific and have varying and often suboptimal benefit. The investigators will evaluate whether use of alpha1-antitrypsin (A1AT, an FDA-approved medication for patients with congenital deficiency of A1AT associated with emphysema) can benefit acute attac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provide written informed consent.\n* Age ≥18 and ≤ 75 years.\n* Diagnosis of NMO or NMO spectrum disorder (NMOSD). The diagnosis of NMO will conform to the 2006 Wingerchuk criteria.1, 2 The diagnosis of NMOSD will include patients with relapsing optic neuritis and aquaporin-4 an",
+      "endpoints": [
+        "Mean change in disability from baseline/nadir to week 24 as assessed by Opticospinal Impairment Score (OSIS) subscale."
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT02087813"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03590080",
+      "title": "Blood Pressure Profile and NT-proBNP Dynamics in Response to Intravenous Methylprednisolone Pulse Therapy of Severe Graves' Orbitopathy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-01-01",
+      "completion_date": "2015-12-30",
+      "country": "N/A",
+      "enrollment": 32,
+      "brief_summary": "Hypertension is common side effect of Cushing Syndrome (CS): in patients with endogenous CS and those treated with glucocorticosteroids (GCs). The impact of the intravenous GCs therapy on blood pressure (BP) remains unclear. According to the European Group On Graves' Orbitopathy (EUGOGO), patients with active, severely symptomatic and sight-threatening Graves' orbitopathy (GO) should be treated with high dose intravenous methylprednisolone (IVMP) pulses. There are, however, reports of fatal side",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* active, moderate-to-severe GO according to EUGOGO classification\n* euthyroidism\n* completion of at least first six IVMP pulses.\n\nExclusion Criteria:\n\n* cardiovascular morbidity (such as chronic heart failure and/or coronary heart disease)\n* uncontrolled hypertension (defined a",
+      "endpoints": [
+        "NT-proBNP 1-24h",
+        "NT-proBNP 1-12w",
+        "48-hour ambulatory blood pressure monitoring (ABPM)- 1 mean BP"
+      ],
+      "sponsor": "Medical University of Warsaw",
+      "url": "https://clinicaltrials.gov/study/NCT03590080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07184840",
+      "title": "Eculizumab For Acute Attack of Neuromyelitis Optica Spectrum Disorder (NMOSD): a Multi-Center, Phase 2 Trial (EASE-NMO)",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-09-09",
+      "completion_date": "2026-12-31",
+      "country": "China",
+      "enrollment": 110,
+      "brief_summary": "Neuromyelitis optica spectrum disorder (NMOSD) is a relapsing, inflammatory autoimmune disorder of the central nervous system characterized by the pathogenic anti-aquaporin 4 antibody (AQP4-IgG). The objectives of this study are to assess the efficacy and safety of eculizumab for treatment of patients with neuromyelitis optica spectrum disorders during acute phase who are anti-aquaporin-4 (AQP4) antibody-positive. Eculizumab, a humanized monoclonal antibody, inhibits the terminal complement prot",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Anti-AQP4 antibody seropositive.\n2. Male or female patients ≥18 years old\n3. Body weight ≥ 35 kg\n4. Acute optic neuritis and/or transverse myelitis enrolled within 28 days from the attack, with a change in neurological exam that meet an increase of OSIS at least 2 points of b",
+      "endpoints": [
+        "Proportion of improvement in OSIS from baseline to Day 28 by 2 points or more"
+      ],
+      "sponsor": "Tianjin Medical University General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07184840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04539548",
+      "title": "A Randomized, Parallel-Arm, Active Control, Multi-Center Study Assessing the Safety And Efficacy Of Dextenza® for the Treatment Of Ocular Pain and Inflammation Following Surgery for Pediatric Cataract",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-09-04",
+      "completion_date": "2023-12-21",
+      "country": "United States",
+      "enrollment": 65,
+      "brief_summary": "To assess the safety of Dextenza compared to an active control, prednisolone acetate suspension, for the treatment of postoperative pain and inflammation following ocular surgery for pediatric cataract.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is 0-5 years of age (up to the day before the subject turns 6 years of age). In the event that a subject aged 0-5 years enrolls in the study and then undergoes a second cataract surgery in the contralateral eye during the study period, the subject remains eligible for particip",
+      "endpoints": [
+        "Adverse Events",
+        "Subject FLACC Pain Assessment",
+        "IOP"
+      ],
+      "sponsor": "Ocular Therapeutix, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04539548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03484507",
+      "title": "Parasitic Ulcer Treatment Trial Pilot",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-01",
+      "completion_date": "2024-12-31",
+      "country": "India",
+      "enrollment": 49,
+      "brief_summary": "This is a study of optimal treatments for acanthamoeba keratitis. In the first part of the study, participants will be randomized to chlorhexidine monotherapy or chlorhexidine plus povidone iodine. After four weeks of therapy, participants will be re-randomized to early corticosteroids, later corticosteroids, or placebo.",
+      "eligibility_criteria": "Trial 1 Inclusion Criteria:\n\n* Smear or culture positive for acanthamoeba\n* Age 13 years or greater\n\nTrial 1 Exclusion Criteria:\n\n* Interstitial or viral keratitis on history or examination\n* Corneal perforation\n* Therapeutic keratoplasty for acanthamoeba keratitis\n* Unwillingness or inability to fo",
+      "endpoints": [
+        "Trial 1: Microbial clearance",
+        "Trial 2: Best spectacle corrected visual acuity"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT03484507"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01056419",
+      "title": "The Effect of Early Total Thyroidectomy in the Course of Graves' Orbitopathy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2009-01",
+      "completion_date": "2010-08",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 40,
+      "brief_summary": "The relationship between the method of the treatment of hyperthyroidism due to Graves' disease and the course of Graves' ophthalmopathy is debated. The investigators aimed to compare the results of total thyroidectomy done in 6 months following the appearance of the symptoms of ophthalmopathy and the antithyroid drug therapy in patients with moderate to severe Graves' ophthalmopathy.\n\nThe inclusion criteria: 1)Hyperthyroidism and moderate to severe Graves' ophthalmopathy within 6 months, 2)Thyro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hyperthyroidism and moderate to severe Graves' ophthalmopathy within 6 months,\n* Thyroid volumes greater than or equal to 15 mL in thyroid ultrasonography,\n* Patients taking no treatment except local medications for Graves' ophthalmopathy,\n* Clinical activity score of 3/7 or m",
+      "endpoints": [
+        "Improvement in the proptosis and activity of Graves' ophthalmopathy"
+      ],
+      "sponsor": "Ankara University",
+      "url": "https://clinicaltrials.gov/study/NCT01056419"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02625467",
+      "title": "Treatment of Keratoconus With Pachymetry Assisted Laser Keratoplasty (PALK) Versus Penetrating Keratoplasty (PK)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2015-11",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study is to evaluate the visual results of patients with keratoconus treated with one of two techniques: penetrating keratoplasty (PK) vs. pachymetry and Excimer laser assisted lamellar keratoplasty (PALK).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of keratoconus grades III or IV in the Amsler Krumeich classification.\n* Need of surgical procedure\n* No endothelial scar\n* Best corrected visual acuity \\<20/40\n* Contact lens intolerance\n* Imagenological map pachymetric acquisition over 90% at 9 mm corneal diameter\n",
+      "endpoints": [
+        "Visual acuity"
+      ],
+      "sponsor": "Instituto de Oftalmología Fundación Conde de Valenciana",
+      "url": "https://clinicaltrials.gov/study/NCT02625467"
+    }
+  ],
+  "timestamp": "2026-03-04T15:43:57.514037",
+  "success": true,
+  "error_message": null
+}

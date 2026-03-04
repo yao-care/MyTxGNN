@@ -1,0 +1,540 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Insulin Glargine",
+    "disease": "diabetic ketoacidosis",
+    "query_string": "Insulin Glargine AND diabetic ketoacidosis"
+  },
+  "data": {
+    "query": "Insulin Glargine AND diabetic ketoacidosis",
+    "results": [
+      {
+        "pmid": "36479786",
+        "title": "Effectiveness and safety of early insulin glargine administration in combination with continuous intravenous insulin infusion in the management of diabetic ketoacidosis: A randomized controlled trial.",
+        "abstract": "To determine the effectiveness and safety of early combination of insulin glargine with intravenous (IV) insulin infusion compared with IV insulin infusion alone in the management of diabetic ketoacidosis (DKA).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2023",
+        "authors": [
+          "Thammakosol Kitti",
+          "Sriphrapradang Chutintorn"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Insulin",
+          "Insulin Glargine",
+          "Diabetic Ketoacidosis",
+          "Diabetes Mellitus, Type 2",
+          "Hypokalemia",
+          "Insulin, Regular, Human",
+          "Hypoglycemia",
+          "Hyperglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36479786/"
+      },
+      {
+        "pmid": "33945208",
+        "title": "Glargine versus regular insulin protocol in feline diabetic ketoacidosis.",
+        "abstract": "To determine whether basal-bolus administration of glargine insulin is a safe and effective alternative treatment compared to the standard continuous rate infusion (CRI) protocol.",
+        "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
+        "year": "2021",
+        "authors": [
+          "Zeugswetter Florian K",
+          "Luckschander-Zeller Nicole",
+          "Karlovits Sonja",
+          "Rand Jaquie S"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blood Glucose",
+          "Cat Diseases",
+          "Cats",
+          "Clinical Trials, Veterinary as Topic",
+          "Diabetic Ketoacidosis",
+          "Hyperglycemia",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33945208/"
+      },
+      {
+        "pmid": "39360087",
+        "title": "Treatment Challenges and Controversies in the Management of Critically Ill Diabetic Ketoacidosis (DKA) Patients in Intensive Care Units.",
+        "abstract": "This review discusses the challenges and controversies in the treatment of diabetic ketoacidosis (DKA) and hyperosmolar hyperglycemic state (HHS). Key areas include the selection of intravenous (IV) fluids, insulin therapy, strategies for preventing and monitoring cerebral edema (CE) by managing hyperglycemia overcorrection, electrolyte replacement, timing of nutrition, use of IV sodium bicarbonate, and airway management in critically ill DKA patients. Isotonic normal saline remains the standard for initial fluid resuscitation, though balanced solutions have been shown to have faster DKA resolution. Current guidelines recommend using continuous IV insulin for DKA management after fluid status has been restored potassium levels have been achieved and subcutaneous (SQ) insulin is started only after the resolution of metabolic acidosis. In comparison, the British guidelines recommend using SQ insulin glargine along with continuous regular IV insulin, which has shown faster DKA resolution ",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Dunn Bryan K",
+          "Coore Hunter",
+          "Bongu Navneeth",
+          "Brewer Kori L",
+          "Kumar Deepak"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39360087/"
+      },
+      {
+        "pmid": "39308229",
+        "title": "SQuID (subcutaneous insulin in diabetic ketoacidosis) II: Clinical and operational effectiveness.",
+        "abstract": "We previously demonstrated safe treatment of low- to moderate-severity (LTM) diabetic ketoacidosis (DKA) using the SQuID protocol (subcutaneous insulin in DKA) in a non-intensive care unit (ICU) observation setting, with decreased emergency department length of stay (EDLOS). Here, we expand eligibility to include sicker patients and admission to a regular medical floor and collected more detailed clinical data in a near-real-time fashion.",
+        "journal": "Academic emergency medicine : official journal of the Society for Academic Emergency Medicine",
+        "year": "2025",
+        "authors": [
+          "Griffey Richard T",
+          "Schneider Ryan M",
+          "Girardi Margo",
+          "LaRossa Gina",
+          "Yeary Julianne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Diabetic Ketoacidosis",
+          "Emergency Service, Hospital",
+          "Hypoglycemic Agents",
+          "Injections, Subcutaneous",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39308229/"
+      },
+      {
+        "pmid": "39136541",
+        "title": "Management of diabetic ketoacidosis in children: Does early insulin glargine help improve outcomes?",
+        "abstract": "Rebound hyperglycemia following the resolution of diabetic ketoacidosis (DKA) is common in pediatric patients with type 1 diabetes, increasing the risk of recurrent DKA and complicating the transition to subcutaneous insulin. Multiple studies suggest that early administration of long-acting insulin analogs during DKA management safely improves this transition.",
+        "journal": "Journal of diabetes",
+        "year": "2024",
+        "authors": [
+          "Ohman-Hanson Rebecca",
+          "Alonso G Todd",
+          "Pyle Laura",
+          "McDonough Ryan",
+          "Clements Mark"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin Glargine",
+          "Diabetic Ketoacidosis",
+          "Child",
+          "Male",
+          "Female",
+          "Adolescent",
+          "Hypoglycemic Agents",
+          "Diabetes Mellitus, Type 1",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39136541/"
+      },
+      {
+        "pmid": "39054791",
+        "title": "Review of Subcutaneous Insulin Regimens in the Management of Diabetic Ketoacidosis in Adults and Pediatrics.",
+        "abstract": "Summarize the studies evaluating the use of subcutaneous (SQ) insulin in the management of diabetic ketoacidosis (DKA) in adults and pediatrics.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2025",
+        "authors": [
+          "Ibarra Francisco",
+          "Bae Ryan",
+          "Haghighat Bardya"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetic Ketoacidosis",
+          "Adult",
+          "Injections, Subcutaneous",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39054791/"
+      },
+      {
+        "pmid": "37139251",
+        "title": "Evaluation of Early Insulin Glargine Administration in the Treatment of Pediatric Diabetic Ketoacidosis.",
+        "abstract": "In the management of diabetic ketoacidosis (DKA), the standard of care is to administer insulin glargine after ketoacidosis has resolved and the patient is transitioning from intravenous (IV) insulin to subcutaneous insulin; however, there is evidence to suggest that earlier administration of insulin glargine may accelerate resolution of ketoacidosis. The objective of this research is to determine the efficacy of early subcutaneous insulin glargine on time to resolution of ketoacidosis in children with moderate to severe DKA.",
+        "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+        "year": "2023",
+        "authors": [
+          "Welter Kelli J",
+          "Marquez Jessica L",
+          "Marshik Patricia L",
+          "Yao Michael V",
+          "Bickel Ellen S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37139251/"
+      },
+      {
+        "pmid": "32798057",
+        "title": "Efficacy and Safety of Commonly Used Insulin Analogues in the Treatment of Diabetic Ketoacidosis: A Bayesian Indirect Treatment Comparison.",
+        "abstract": "Insulin analogues (IAs) are the mainstay for the management of diabetic ketoacidosis (DKA). However, the relative efficacy of newer IAs is uncertain. The aim of this study was to compare the relative efficacy and safety of IAs for the management of DKA using an indirect treatment comparison (ITC).",
+        "journal": "Clinical therapeutics",
+        "year": "2020",
+        "authors": [
+          "Vidyasagar Kota",
+          "Chandrasekar Boya",
+          "Chhabra Manik",
+          "Bhansali Anil",
+          "Bansal Dipika"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Bayes Theorem",
+          "Blood Glucose",
+          "Diabetic Ketoacidosis",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulins",
+          "Length of Stay",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32798057/"
+      },
+      {
+        "pmid": "27861474",
+        "title": "[Systematic review with meta-analysis: Subcutaneous insulin glargine coadministration for diabetic ketoacidosis].",
+        "abstract": "The standard treatment of diabetic ketoacidosis involves intravenous infusion of regular insulin until recovery of the episode: this is associated with high costs. Coadministration of insulin glargine from the onset of management may prove beneficial, potentially avoiding rebound hyperglycemia, and hopefully improving the time to resolution of the disease.",
+        "journal": "Gaceta medica de Mexico",
+        "year": "2016",
+        "authors": [
+          "Andrade-Castellanos Carlos Alberto",
+          "Colunga-Lozano Luis Enrique"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Diabetic Ketoacidosis",
+          "Humans",
+          "Hyperglycemia",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Injections, Subcutaneous",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27861474/"
+      },
+      {
+        "pmid": "33655870",
+        "title": "Evaluation of Early Administration of Insulin Glargine in the Acute Management of Diabetic Ketoacidosis.",
+        "abstract": "Few studies have evaluated the early use of insulin glargine in the management of diabetic ketoacidosis (DKA) patients. Early insulin glargine use in DKA was safe and associated with a trend towards faster DKA resolution.",
+        "journal": "Current diabetes reviews",
+        "year": "2021",
+        "authors": [
+          "Mohamed Adham",
+          "Ploetz Jeannette",
+          "Hamarshi Majdi S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Diabetes Mellitus, Type 1",
+          "Diabetic Ketoacidosis",
+          "Female",
+          "Humans",
+          "Insulin",
+          "Insulin Glargine",
+          "Middle Aged",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33655870/"
+      },
+      {
+        "pmid": "27807910",
+        "title": "Glargine co-administration with intravenous insulin in pediatric diabetic ketoacidosis is safe and facilitates transition to a subcutaneous regimen.",
+        "abstract": "Diabetes ketoacidosis (DKA) is a common presentation and complication of type 1 diabetes (T1D). While intravenous insulin is typically used to treat acute metabolic abnormalities, the transition from intravenous to subcutaneous treatment can present a challenge. We hypothesize that co-administration of glargine, a subcutaneous long-acting insulin analog, during insulin infusion may facilitate a flexible and safe transition from intravenous to subcutaneous therapy.",
+        "journal": "Pediatric diabetes",
+        "year": "2017",
+        "authors": [
+          "Harrison V Sanoe",
+          "Rustico Stacy",
+          "Palladino Andrew A",
+          "Ferrara Christine",
+          "Hawkes Colin Patrick"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Child, Preschool",
+          "Diabetic Ketoacidosis",
+          "Female",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Hypokalemia",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27807910/"
+      },
+      {
+        "pmid": "17508198",
+        "title": "Insulin glargine supplementation during early management phase of diabetic ketoacidosis in children.",
+        "abstract": "To study the effect of subcutaneous administration of insulin glargine on the rate of resolution of acidosis and intravenous insulin infusion requirement in children with moderate and severe diabetic ketoacidosis (DKA).",
+        "journal": "Intensive care medicine",
+        "year": "2007",
+        "authors": [
+          "Shankar Venkat",
+          "Haque Anwarul",
+          "Churchwell Kevin B",
+          "Russell William"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Cohort Studies",
+          "Diabetic Ketoacidosis",
+          "Female",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Injections, Subcutaneous",
+          "Insulin",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17508198/"
+      },
+      {
+        "pmid": "26155506",
+        "title": "Effectiveness of Insulin Glargine on Recovery of Patients with Diabetic Ketoacidosis: A Randomized Controlled Trial.",
+        "abstract": "Diabetic Ketoacidosis (DKA) is a major hyperglycemic emergency in diabetes mellitus (DM). The basic treatment is injection of Regular insulin (RI). This study was aimed to investigate the effects of insulin Glargine (GI) on recovery of patients with DKA.",
+        "journal": "Journal of clinical and diagnostic research : JCDR",
+        "year": "2015",
+        "authors": [
+          "Houshyar Jalil",
+          "Bahrami Amir",
+          "Aliasgarzadeh Akbar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26155506/"
+      },
+      {
+        "pmid": "33471673",
+        "title": "Similar Cardiovascular Outcomes Between Insulin Detemir and Insulin Glargine In Type 2 Diabetic Patients With Extremely Atherosclerotic Cardiovascular Disease Risks.",
+        "abstract": "The cardiovascular outcomes of insulin detemir in patients with type 2 diabetes mellitus (T2DM) after acute coronary syndrome (ACS) or acute ischemic stroke (AIS) are unclear. The aim of our real-life cohort study was to evaluate the cardiovascular outcomes of insulin detemir (IDet) versus insulin glargine (IGlar) in T2DM patients after ACS or AIS.",
+        "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+        "year": "2020",
+        "authors": [
+          "Chen Tien-Hsing",
+          "Wang Chih-Ching",
+          "Liu Chi-Hung",
+          "Hsiao Ching-Chung",
+          "Chen Szu-Tah"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Brain Ischemia",
+          "Cardiovascular Diseases",
+          "Cohort Studies",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Insulin Detemir",
+          "Insulin Glargine",
+          "Percutaneous Coronary Intervention",
+          "Retrospective Studies",
+          "Stroke"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33471673/"
+      },
+      {
+        "pmid": "41262789",
+        "title": "A Comparative Effectiveness of Intravenous Fluids and Insulin Regimens in the Acute Management of Diabetic Ketoacidosis (DKA) and Hypoglycemia: A Systematic Review.",
+        "abstract": "Diabetic ketoacidosis (DKA) and hypoglycemia are acute metabolic emergencies requiring prompt and effective management in both adult and pediatric populations. Despite established protocols, variability in intravenous fluid and insulin regimens persists, necessitating a comprehensive evaluation of their comparative effectiveness across age groups. This systematic review aims to synthesize evidence on the efficacy and safety of different fluid and insulin strategies in managing DKA and hypoglycemia in diverse patient populations. Following PRISMA 2020 guidelines, a systematic search was conducted across PubMed, Embase, Web of Science, and Scopus. Nine studies (five randomized controlled trials (RCTs) and four cohort studies) were included after screening 227 records. Risk of bias was assessed using Cochrane RoB 2 for RCTs and the Newcastle-Ottawa Scale for cohort studies. Data were synthesized narratively due to clinical heterogeneity. Early subcutaneous insulin glargine with intravenou",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Omar Salem Kanzwl Samar Mohaen",
+          "Alhajri Ali Hadi M",
+          "Abdelbagi Mohammed Yousif Jubartalla",
+          "Ahmed Abdalaziz Mohamed Abass",
+          "Mohammed Ramadan Mohammed Alfatih"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41262789/"
+      },
+      {
+        "pmid": "41296041",
+        "title": "Early vs. late initiation of long-acting basal insulin during IV insulin in pediatric diabetic ketoacidosis: a GRADE-assessed systematic review and meta-analysis.",
+        "abstract": "The effectiveness of starting long-acting basal insulin during the intravenous (IV) phase of pediatric diabetic ketoacidosis (DKA) is still a topic of debate. We question whether it can improve outcomes without causing additional harm. We performed a systematic review following PRISMA guidelines and a random-effects meta-analysis (PROSPERO: CRD420251155626) of studies involving patients under 18 years with DKA. We defined \"early basal\" as starting subcutaneous glargine or detemir while IV insulin was still being administered, with a planned overlap of four hours or more. Comparators began basal insulin at or after stopping IV insulin or had less than 4 h of overlap. The main outcome was the time to resolution of DKA/acidosis. Secondary outcomes included the duration of IV insulin, hospital length of stay (LOS), hypoglycemia, and hypokalemia. We assessed the risk of bias using RoB-2 and NOS, and we evaluated the certainty of evidence using GRADE. Eight studies (3 RCTs, 5 cohorts; n = 13",
+        "journal": "European journal of pediatrics",
+        "year": "2025",
+        "authors": [
+          "Shah Asim",
+          "Jamal Asad",
+          "Qadri Maria",
+          "Afridi Muhammad Jibran",
+          "Khan Suleman"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetic Ketoacidosis",
+          "Child",
+          "Hypoglycemic Agents",
+          "Administration, Intravenous",
+          "Adolescent",
+          "Insulin, Long-Acting",
+          "Drug Administration Schedule",
+          "Length of Stay",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41296041/"
+      },
+      {
+        "pmid": "40623843",
+        "title": "Insulin glargine supplementation during early management phase in children with diabetic ketoacidosis: a double-blinded randomised controlled trial.",
+        "abstract": "To evaluate the efficacy and safety of early supplementation with insulin glargine (GI) during the acute management of paediatric diabetic ketoacidosis (DKA).",
+        "journal": "Archives of disease in childhood",
+        "year": "2025",
+        "authors": [
+          "Bansal Deepankar",
+          "Jayashree Muralidharan",
+          "Nallasamy Karthi",
+          "Dayal Devi",
+          "Kakkar Ashish"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin Glargine",
+          "Diabetic Ketoacidosis",
+          "Double-Blind Method",
+          "Male",
+          "Female",
+          "Child",
+          "Hypoglycemic Agents",
+          "Child, Preschool",
+          "Blood Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40623843/"
+      },
+      {
+        "pmid": "40840711",
+        "title": "Effectiveness and Safety of Early Insulin Glargine U100 and Glargine U300 Administration in the Management of Diabetic Ketoacidosis in Adults With Type 1 Diabetes Mellitus: A Randomized Clinical Trial.",
+        "abstract": "Diabetic ketoacidosis (DKA) predominantly affects individuals with type 1 diabetes mellitus (T1DM). This study evaluated the effectiveness and safety of early use of subcutaneous insulin glargine U100 (iGlar U100) or U300 (iGlar U300) alongside intravenous insulin in managing DKA in adults with T1DM.",
+        "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+        "year": "2025",
+        "authors": [
+          "El Feky Amr Y",
+          "Abdou Marwa S",
+          "Naguib Rania",
+          "Abdelsalam Samar F",
+          "Hamdy Mohamed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin Glargine",
+          "Diabetic Ketoacidosis",
+          "Diabetes Mellitus, Type 1",
+          "Adult",
+          "Female",
+          "Male",
+          "Hypoglycemic Agents",
+          "Middle Aged",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40840711/"
+      },
+      {
+        "pmid": "41208563",
+        "title": "Early subcutaneous basal insulin with intravenous insulin infusion for diabetic ketoacidosis management: A systematic review and meta-analysis of randomised controlled trials.",
+        "abstract": "To evaluate the effectiveness and safety of early initiation of subcutaneous (SC) basal insulin in combination with intravenous insulin infusion (IVII), compared with IVII alone, for the management of diabetic ketoacidosis (DKA).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2026",
+        "authors": [
+          "Thammakosol Kitti",
+          "Vongtangton Patteera",
+          "Numthavaj Pawin",
+          "Auttara-Atthakorn Arunrat",
+          "Sriphrapradang Chutintorn"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetic Ketoacidosis",
+          "Randomized Controlled Trials as Topic",
+          "Hypoglycemic Agents",
+          "Infusions, Intravenous",
+          "Insulin",
+          "Injections, Subcutaneous",
+          "Hypoglycemia",
+          "Infusions, Subcutaneous",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41208563/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:53:20.260226",
+  "success": true,
+  "error_message": null
+}

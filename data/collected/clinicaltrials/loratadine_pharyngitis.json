@@ -1,0 +1,49 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Loratadine",
+    "disease": "pharyngitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06531707",
+      "title": "Efficacy and Safety of Ibuprofen/Loratadine Fixed-dose Combination Versus the Fixed-dose Administration of Monotherapy as Symptomatic Treatment for Patients With the Common Cold",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2025-02-20",
+      "country": "Mexico",
+      "enrollment": 177,
+      "brief_summary": "Phase III longitudinal, multicenter, randomized, double-blind clinical trial. The aim of this study is to evaluate the efficacy and safety of the drug combination of Ibuprofen/Loratadine versus Ibuprofen versus Loratadine as monotherapy for the symptomatic treatment of the common cold.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to participate in the study and give written informed consent\n* At least 6 points on the Jackson scale according to physical examination and questioning (sneezing, runny nose, nasal obstruction, sore throat, cough, headache, malaise, and chills).\n* Symptoms associated wi",
+      "endpoints": [
+        "Assess the improvement in symptoms, comparing the percentage change through the Jackson score",
+        "Number of participants with treatment-related adverse events through the patient's diary record, by treatment group"
+      ],
+      "sponsor": "Laboratorios Silanes S.A. de C.V.",
+      "url": "https://clinicaltrials.gov/study/NCT06531707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05275933",
+      "title": "Assessing the Efficacy of TCM Capsules Lian Hua Qing Wen Jiao Nang as Adjuvant Treatment in Mild COVID-19 Patients on Home Recovery Program in Singapore: a Randomised, Double-blind, Placebo-controlled Study",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-04-05",
+      "completion_date": "2023-11-22",
+      "country": "Singapore",
+      "enrollment": 93,
+      "brief_summary": "This research aims to investigate the adjuvant effect of LH in reducing the symptomatic duration of fully vaccinated, mild COVID-19 patients on home recovery program in Singapore. It is aimed to assist policymakers in incorporating clinically proven TCM treatment for mild COVID-19 patients on home recovery program, and establishing a guideline on TCM pandemic treatment protocol which is suitable to be integrated into the healthcare system.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Participants of age 21 to 79 years, all gender and races.\n2. Participant provides informed consent prior to initiation of any study procedures.\n3. Fully vaccinated (according to latest MOH criteria. Refer to Appendix 1) and qualified for Protocol 2 Primary Care (P2PC) (Append",
+      "endpoints": [
+        "1.1 Time (Days) to become asymptomatic (the event) for all 8 major COVID-19 symptoms."
+      ],
+      "sponsor": "Singapore Chung Hwa Medical Institution",
+      "url": "https://clinicaltrials.gov/study/NCT05275933"
+    }
+  ],
+  "timestamp": "2026-03-04T14:49:08.337338",
+  "success": true,
+  "error_message": null
+}

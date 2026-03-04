@@ -1,0 +1,383 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ethinylestradiol",
+    "disease": "acne"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00480532",
+      "title": "A Study of Continuous Oral Contraceptives and Doxycycline",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2011-05",
+      "country": "United States",
+      "enrollment": 131,
+      "brief_summary": "The purpose of this study is to learn if the study drug, doxycycline, can decrease the amount of unplanned vaginal bleeding that women commonly experience when taking combined oral contraception (COC)- pills with estrogen and progestin - in a continuous fashion - no hormone-free week. The study drug, doxycycline, is an antibiotic used commonly for many conditions (i.e. acne, Chlamydia infections, pneumonia) and can be safely used on a daily basis. Doxycycline has been shown to decrease unplanned",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* General good health\n* Willing and able to agree to randomization and sign informed consent\n* Currently having regular menstrual cycles (24-36 days), with combined cyclic hormonal method (COCs, Nuva Ring, Ortho Evra), without intermenstrual bleeding in last 2 years.\n\nExclusion ",
+      "endpoints": [
+        "Differences in Bleeding Patterns Between Study Groups."
+      ],
+      "sponsor": "Oregon Health and Science University",
+      "url": "https://clinicaltrials.gov/study/NCT00480532"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00722800",
+      "title": "A Single-Center, Randomized Double-Blind, Parallel-Group Study to Examine the Safety and Efficacy of YAZ Compared With Placebo In The Treatment Of Hidradenitis Suppurativa",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2008-10",
+      "completion_date": "2011-12",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "The purpose of this study is to find out if taking a birth control pill, YAZ, is safe and effective for treating hidradenitis suppurativa. Hidradenitis suppurativa (HS) is a chronic (long lasting) skin disorder that mostly affects the armpits and groin area. It appears as blackheads and one or more red, tender bumps that may enlarge, break open, and drain pus. Scarring may result after several attacks of the disease.\n\nThe exact cause of HS isn't known. However, it is believed that the plugging o",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\n1. Female Subjects 14-45 years of age who have achieved spontaneous menarche.\n2. Clinical diagnosis of hidradenitis suppurativa of stage II or greater on the Hurley scale.\n3. Willing and able to understand and sign informed consent.\n4. Able to complete study and comply with study",
+      "endpoints": [
+        "Mean Improvement in the Sartorius Severity Score at Month 6."
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00722800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06067256",
+      "title": "A Multicentre, Prospective, Open-label, Non-comparative Study to Evaluate Menstrual Bleeding Typology, Tolerability, and Compliance During a Monophasic Hormonal Contraceptive Treatment With Norgestimate + Ethinylestradiol in Italy.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-07-20",
+      "completion_date": "2024-06",
+      "country": "Italy",
+      "enrollment": 228,
+      "brief_summary": "As there are no recent studies conducted in Italy on the profile of this COC, the purpose of this study is to evaluate its efficacy and tolerability in a given subset of women residing in Italy that are in need of contraception. Evaluate the cycle control: breakthrough bleeding (bleeding and/or spotting between cyclically regular onset of menses) of monophasic oral contraceptive pill Effimia® (NGM250 + EE35) in a population of women residing in Italy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All the following criteria must be met.\n\n  * Healthy women aged between 18 and 35 years (inclusive) in need of contraception.\n  * Subjects residing in Italy and having a good knowledge of the Italian language, such as to correctly understand the Informed Consent Form, the inst",
+      "endpoints": [
+        "Cycle control evaluation parameter"
+      ],
+      "sponsor": "Italfarmaco",
+      "url": "https://clinicaltrials.gov/study/NCT06067256"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00752635",
+      "title": "Comparison of Efficacy and Safety of Tricilest (Norgestimate-ethinyl Estradiol) and Diane-35 (Cyproterone Acetate-ethinyl Estradiol) in the Treatment of Acne Vulgaris",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study was to evaluate the effectiveness and safety of norgestimate-ethinyl estradiol as comparted with cyproterone acetate-ethinyl estradiol among female patients with moderate acne vulgaris.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female adults who were suffering from moderate acne vulgaris (grade II or III)\n* With 6 to 100 comedones (non-inflammatory lesions)\n* With 10 to 50 inflammatory lesions (papules or pustules)\n* With fewer than 5 nodules\n* Agree to condoms or diaphragm, and spermicide or any oth",
+      "endpoints": [
+        "The primary efficacy variable was the change form baseline to the latest available evaluation in total lesion count. The primary efficacy result of this study clearly manifested the potency of TriCilest."
+      ],
+      "sponsor": "Johnson & Johnson Taiwan Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT00752635"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511822",
+      "title": "Clinical, Metabolic and Endocrine Effects of the Treatment With Drospirenone and Ethinyl Estradiol Alone or in Combination With Myo-inositol in Young Women With Polycystic Ovary Syndrome (PCOS) and Insulin Resistance",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "Italy",
+      "enrollment": "N/A",
+      "brief_summary": "Polycystic ovary syndrome (PCOS) is a heterogeneous syndrome with a variety of metabolic and endocrine abnormalities and clinical symptoms.\n\nThe primary defect in PCOS consists of an abnormal androgen synthesis and secretion, particularly by ovarian theca cells. Insulin resistance and obesity may act as triggers, explaining the frequent association of PCOS with these metabolic conditions. Hyperinsulinaemia, which results from insulin resistance, stimulates both ovarian and adrenal androgen secre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women fulfilled two out of three diagnostic criteria for PCOS, according to the 2003 Rotterdam Consensus conference\n* Women with PCOS, insulin resistance, acne, hirsutism and seborrhea\n\nExclusion Criteria:\n\n* Women with pre-existing secondary endocrine disorders\n* Women wishin",
+      "endpoints": [
+        "Score acne (acne grading system by Cook et al)",
+        "Score hirsutism (Ferriman-Gallwey classification)",
+        "Measurement of sex hormones in serum"
+      ],
+      "sponsor": "AGUNCO Obstetrics and Gynecology Centre",
+      "url": "https://clinicaltrials.gov/study/NCT01511822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03819140",
+      "title": "Continuous Versus Cyclical OCP Use in PCOS: A Pilot Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-04-01",
+      "completion_date": "2022-10-16",
+      "country": "United States",
+      "enrollment": 51,
+      "brief_summary": "The mainstay treatment for females with Polycystic Ovary Syndrome (PCOS) has long been a combination of an oral contraceptive pill or OCP (containing both estrogen and progestin) along with an anti-androgen medication (such as Spironolactone) to not only prevent chronic anovulation but also suppress elevated testosterone levels and its clinical effects on the body. While there are multiple OCPs available on the market today and several studies that look at different progestins and their anti-and",
+      "eligibility_criteria": "Inclusion Criteria: To be included in this study, participants must be:\n\n1. Female, within 15-40 years of age\n2. Diagnosed with Polycystic Ovary Syndrome based on the 2003 Rotterdam Criteria (must meet 2 out of 3 criteria):\n\n   1. evidence of either biochemical or clinical hyperandrogenism (elevated",
+      "endpoints": [
+        "Change in Biochemical Hyperandrogenism From Baseline to 1 Month Post Yasmin Initiation",
+        "Change in Biochemical Hyperandrogenism From Baseline to 3 Month Post Yasmin Initiation",
+        "Change in Biochemical Hyperandrogenism From Baseline to 6 Month Post Yasmin Initiation"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT03819140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00998257",
+      "title": "Regulatory Post Marketing Surveillance Study on YAZ",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2011-11",
+      "country": "South Korea",
+      "enrollment": 770,
+      "brief_summary": "The objective of this Post Marketing Surveillance (PMS) is to gain information about safety and efficacy in real practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy female subjects\n\n  * requesting contraception\n  * suggesting PMDD by Physician who are also requesting contraception\n  * with acne who are also requesting contraception\n* Age: 18 - 50 years\n* Women who is prescribed YAZ first, during study period\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "Adverse event collection",
+        "Contraception efficacy",
+        "Drug compliance"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00998257"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00818519",
+      "title": "A Multicenter, Double-blind, Randomized, Placebo Controlled Study to Evaluate the Efficacy and Safety of an Oral Contraceptive Preparation YAZ (Drospirenone 3 mg / Ethinylestradiol 20 µg) for 6 Treatment Cycles in Women With Moderate Acne",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2010-05",
+      "country": "China",
+      "enrollment": 179,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of YAZ (drospirenone 3 mg / ethinylestradiol 20 µg) in comparison with placebo in female patients with moderate acne vulgaris over 6 treatment cycles.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women of age 14-45 years\n* \\>1 year post-menarche with moderate acne vulgaris who have no known contraindications to combined oral contraceptives\n* Otherwise healthy, except for the presence of moderate acne\n* Smokers up to a maximum age of 30 (inclusive) at inclusion\n\nExclusi",
+      "endpoints": [
+        "Percent Change From Cycle 6 to Baseline in the Total Lesion Count (Open and Closed Comedones, Papules, Pustules, and Nodules) in the FAS (Full Analysis Set)",
+        "Percent Change From Cycle 6 to Baseline in the Total Lesion Count (Open and Closed Comedones, Papules, Pustules, and Nodules) in the PPS (Per Protocol Set)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00818519"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01850095",
+      "title": "The Influence of Peripheral Androgen Conversion at Toll-like Receptors-2 and CD1d Expressions in Human Keratinocytes as Well as Their Modulation After 6 Months Treatment With Oral Contraceptive.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-03",
+      "completion_date": "2015-01",
+      "country": "Brazil",
+      "enrollment": 60,
+      "brief_summary": "Acne vulgaris is a chronic inflammatory disease that affects the pilosebaceous unit. Recent studies have demonstrated an increase number of acne cases in adult women. These cases are predominantly normoandrogenic and have some clinical differences when compared with the most common group, the adolescent. The local glandular metabolism converts some hormonal precursors to more active substances that increase the sebum production, leaving these areas more prone to increase the colonization to Prop",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo all:\n\n1. Signing the consent form before any study procedures;\n2. women aged 26 to 44 years, not pregnant and in good health;\n3. no topical treatment for acne in the past three months,\n4. absence of the use of oral antibiotics in the last 3 months;\n5. absence of the use of is",
+      "endpoints": [
+        "Clinical evaluation of the treatment group"
+      ],
+      "sponsor": "Federal University of São Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT01850095"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01466673",
+      "title": "Comparative Study of the Effect on Acne With Norgestimate Containing Triphasic Oral Contraceptive and Biphasic Preparation Containing Desogestrel",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2010-03",
+      "country": "Thailand",
+      "enrollment": 201,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Ethinyl estradiol and Norgestimate (EE/NGM) compared to Ethinyl estradiol and Desogestrel (EE/DSG), for treatment of female participants with mild to moderate acne vulgaris (pimples).",
+      "eligibility_criteria": "Inclusion Criteria: - Needs contraception in the family planning - Mild to moderate acne vulgaris - Agrees to take only the supplied study drug as treatment for acne during the 6-month treatment phase of the study - Signs and dates an informed consent to participate in the study - female participant",
+      "endpoints": [
+        "Change From Baseline in Total and Each Type of Acne Lesions Count at Month 1",
+        "Change From Baseline in Total and Each Type of Acne Lesions Count at Month 3",
+        "Change From Baseline in Total and Each Type of Acne Lesions Count at Month 6"
+      ],
+      "sponsor": "Janssen-Cilag Ltd.,Thailand",
+      "url": "https://clinicaltrials.gov/study/NCT01466673"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02410031",
+      "title": "Study to Evaluate Physician Knowledge of Safety and Safe Use Information for Diane-35 and Its Generics in Europe: An Observational Post-Authorisation Safety Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-06-26",
+      "completion_date": "2016-03-04",
+      "country": "France, Spain, Czechia, Austria, Netherlands",
+      "enrollment": 759,
+      "brief_summary": "The study will be an observational, cross-sectional study of knowledge, understanding, and self-reported behavior among a sample of physicians with recent experience in prescribing Diane-35 or its generics in a total of five European countries. The primary objective of this study is to measure physician knowledge and understanding of the key information contained in the Diane-35 educational material: Patient information card, and Prescribers' Checklist.\n\nSpecifically, the following objectives wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Physicians eligible to participate will have recently prescribed (e.g., within previous 6 months) Diane-35 or its generics",
+      "endpoints": [
+        "The knowledge of the physician concerning Diane-35"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02410031"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00651469",
+      "title": "A Multicenter, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate Safety & Efficacy of Oral Contraceptive Prep., Containing Drospirenone 3 mg/Ethinyl Estradiol 20 Mcg for 6 Treatment Cycles in Women With Moderate Acne Vulgaris.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": 534,
+      "brief_summary": "The objectives of this study were to evaluate the efficacy and safety of drospirenone 3 mg/ethinyl estradiol 0.02 mg (DRSP/EE) in comparison with placebo in female subjects with moderate acne vulgaris during 6 treatment cycles.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female age 14-45, with 10 to 100 comedones (noninflammatory lesions), 10 to 50 inflammatory lesions (papules or pustules), and not more than 35 nodules (\\<5mm) on the face).\n\nExclusion Criteria:\n\n* Standard contraindications for use of combined oral contraceptives (class label",
+      "endpoints": [
+        "Percent change in inflammatory lesion counts (including papules, pustules, and nodules), non-inflammatory lesion counts (including open and closed comedones), total lesion count, and the ISGA."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00651469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02494297",
+      "title": "Drug Utilization Study on the Prescribing Indications for Cyproterone Acetate and Ethinyl Estradiol in 5 European Countries",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-03-06",
+      "completion_date": "2016-10-31",
+      "country": "Germany",
+      "enrollment": 1597,
+      "brief_summary": "This study was designed to compile the reasons and specific indications for the prescription of Cyproterone Acetate combined with Ethinyl Estradiol by Health Care Providers. The primary objective of the study was to characterize the prescribing behaviors for Cyproterone Acetate combined with Ethinyl Estradiol in 5 European countries (Austria, Czech Republic, France, the Netherlands, and Spain), including:\n\n* prescription indications for Cyproterone Acetate combined with Ethinyl Estradiol\n* use o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women who are prescribed Cyproterone Acetate combined with Ethinyl Estradiol during the study period\n* Women who are willing to participate in the drug utilization study\n\nExclusion Criteria:\n\n* Women who are not willing to sign the informed consent\n* Women with a language barr",
+      "endpoints": [
+        "Drug Utilization Pattern of Cyproterone Acetate and Ethinyl Estradiol"
+      ],
+      "sponsor": "Center for Epidemiology and Health Research, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT02494297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00280657",
+      "title": "Multicenter, Double-blind, Double-dummy, Randomized Parallel Group Study to Evaluate the Safety and Efficacy of SH D 00659 E for 6 Treatment Cycles in Female Patients With Acne Papulopustulosa in Comparison to SH D 00659 G and Placebo.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-03-10",
+      "completion_date": "2005-05-21",
+      "country": "Czechia, Russia, Ukraine, Slovakia, Poland",
+      "enrollment": 1326,
+      "brief_summary": "The purpose of the study is to determine safety and efficacy of an oral contraceptive in treating acne papulopustulosa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with mild to moderate facial papulopustular acne\n\nExclusion Criteria:\n\n* Contraindication against use of hormonal contraceptives",
+      "endpoints": [
+        "Change in lesions"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00280657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02710708",
+      "title": "Single-arm, Open-label, Interventional Study to Observe the Safety and Efficacy Profile of the Combined Oral Contraceptive YAZ®, a 24-day Cyclic Regimen Containing Drospirenone 3 mg and Ethinyl Estradiol 20 µg During a Treatment Duration of 6 Cycles: a Post-authorization Safety and Efficacy Study in Chinese Women",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-05-27",
+      "completion_date": "2018-07-03",
+      "country": "China",
+      "enrollment": 1921,
+      "brief_summary": "The primary objective is to assess the safety profile of YAZ in Chinese women, including adverse drug reactions (ADRs).\n\nThe secondary objectives are to investigate the rate of unintended pregnancies, the cycle control for subjects with and without preceding abortion, the bleeding pattern of subjects with and without preceding abortion (including the abortion-related bleeding pattern) and the efficacy in moderate acne vulgaris.\n\nAnother objective is to investigate the effect on dysmenorrhea.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated informed consent\n* Chinese female subjects requesting oral contraception, including subjects who underwent abortion (medical or surgical)\n* Planned use of combined oral contraceptives for at least 6 cycles\n* Age: 18 to 45 years (inclusive); smokers must not be",
+      "endpoints": [
+        "Number of subjects with adverse drug reactions (ADRs)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02710708"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00722761",
+      "title": "A Single-Center, Randomized Double-Blind, Parallel-Group Study to Examine the Safety and Efficacy Of YAZ Compared With Placebo In The Treatment Of Moderate Truncal Acne Vulgaris",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2012-04",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study is to find out if taking a birth control pill, YAZ, is safe and effective for treating acne on the trunk (the main part of the body that does not include the arms, legs, and head).\n\nAcne vulgaris is a very common skin disorder. It is caused when oil-producing skin glands (sebaceous glands) become plugged. The plug can cause blackheads, whiteheads, pimples, and cysts on the face, neck, upper chest, and upper back.\n\nYAZ is a combination birth control pill. A \"combination\"",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female Subjects 18-45 years of age who have achieved spontaneous menarche.\n* A clinical diagnosis of truncal acne vulgaris and the desire for an oral contraceptive for birth control.\n* A minimum of 10 but not more than 50 inflammatory lesions on the back and chest combined.\n* ",
+      "endpoints": [
+        "Percent Change in Truncal Lesion Counts"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00722761"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01608698",
+      "title": "A Comparison of Body Weight Changing and Side Effects Between Treatment With 30 mcg Ethinylestradiol/2 mg Chlormadinone Acetate (Belara®) and 30 mcg Ethinylestradiol/3 mg Drospirenone (Yasmin®): A Randomized Control Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2016-02",
+      "country": "Thailand",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to evaluate different side effect in contraceptive use of two oral combined contraceptive pills (OCP)in combination of 30 mcg ethinylestradiol/2 mg chlormadinone acetate (Belara®) and 30 mcg ethinylestradiol/3 mg drospirenone (Yasmin®), especially body weight change.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Reproductive woman\n* Woman who has BMI \\< 28.5 kg/m2.\n* Woman who has regular menstruation.\n* Woman who don't have pelvic organ disorder.\n* Woman who want contraception with oral contraceptive pills.\n\nExclusion Criteria:\n\n* Woman who has abnormal blood pressure\n* Woman who has",
+      "endpoints": [
+        "body weight change"
+      ],
+      "sponsor": "Mahidol University",
+      "url": "https://clinicaltrials.gov/study/NCT01608698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02349399",
+      "title": "Drug Utilization Study on Diane®-35 (and Generics) in European Healthcare Databases",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-05-01",
+      "completion_date": "2016-03-01",
+      "country": "United Kingdom, Netherlands, Italy",
+      "enrollment": 26065,
+      "brief_summary": "The study objectives are to characterize new users of Cyproterone Acetate / Ethinylestradiol (CPA/EE) in 2011/2012 and in 2014 according to demographics, treatment characteristics, previous diagnosis of acne, hirsutism or other hyperandrogenic conditions, previous acne treatment and (concomitant) use of hormonal contraceptives identified in Healthcare Databases in the UK (THIN), the Netherlands (PHARMO) and Italy (HSD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The study population will include all female patients registered in the investigated healthcare databases receiving CPA/EE in 2011 or 2012 (first run) or 2014 (second run), without a prescription of CPA/EE in the year prior to index date. Only patients with recorded history in",
+      "endpoints": [
+        "Proportion (%) of new users of Diane-35 (or generics) with a previous diagnosis of Acne",
+        "Proportion (%) of new users of Diane-35 (or generics) with a previous diagnosis of Hirsutism",
+        "Proportion (%) of new users of Diane-35 (or generics) with a previous diagnosis of other Hyperandrogenic Conditions (e.g. androgenic alopecia, seborrhea, polycystic ovary syndrome)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT02349399"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07242131",
+      "title": "Comparison of the Efficacy of Oral Contraceptive, Progesterone, and Inositol Use in Regulating Menstrual Cycles in Patients With Polycystic Ovary Syndrome (PCOS)",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2026-06-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 150,
+      "brief_summary": "This cross-sectional study aims to compare the effectiveness of oral contraceptives, oral progesterone (didrogesterone), and inositol in regulating menstrual cycles among women diagnosed with polycystic ovary syndrome (PCOS).\n\nPCOS is a common endocrine disorder affecting reproductive-aged women and is associated with menstrual irregularities, hyperandrogenism, and polycystic ovarian morphology. While oral contraceptives are the mainstay of treatment, their use may be contraindicated in patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female participants aged 18 to 40 years.\n* Diagnosed with polycystic ovary syndrome (PCOS) according to the ESHRE/ASRM (Rotterdam) criteria (presence of at least two of the following: oligo/anovulation, clinical or biochemical hyperandrogenism, polycystic ovarian morphology).\n",
+      "endpoints": [
+        "Restoration of Regular Menstrual Cycles"
+      ],
+      "sponsor": "Ege University",
+      "url": "https://clinicaltrials.gov/study/NCT07242131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00656981",
+      "title": "A Multicenter, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate Safety & Efficacy of Oral Contraceptive Prep., Containing Drospirenone 3 mg/Ethinyl Estradiol 20 Mcg for 6 Treatment Cycles in Women With Moderate Acne Vulgaris",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2004-06",
+      "country": "United States",
+      "enrollment": 541,
+      "brief_summary": "The objectives of this study were to evaluate the efficacy and safety of drospirenone 3 mg/ethinyl estradiol 0.02 mg (DRSP/EE) in comparison with placebo in female subjects with moderate acne vulgaris during 6 treatment cycles",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female age 14-45, with 10 to 100 comedones (noninflammatory lesions), 10 to 50 inflammatory lesions (papules or pustules), and not more than 35 nodules (\\<5mm) on the face).\n\nExclusion Criteria:\n\n* Standard contraindications for use of combined oral contraceptives (class label",
+      "endpoints": [
+        "Percent change in inflammatory lesion counts (including papules, pustules, and nodules), non-inflammatory lesion counts (including open and closed comedones), total lesion count, and the ISGA."
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT00656981"
+    }
+  ],
+  "timestamp": "2026-03-04T16:01:41.168260",
+  "success": true,
+  "error_message": null
+}

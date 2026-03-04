@@ -1,0 +1,933 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "eunuchism"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03541395",
+      "title": "Testosterone-Dependent Effects on Protein Biomarkers From Healthy Males Before and After Pharmacological Castration",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-03",
+      "completion_date": "2015-06",
+      "country": "N/A",
+      "enrollment": 30,
+      "brief_summary": "The study is designed to identify and validate new protein biomarkers in blood related to testosterone activity. Thirty healthy young males underwent pharmaceutical castration to lower testosterone levels. After three weeks the subjects received an intramuscular injection of testosterone undecanoate. Blood samples from just before pharmaceutical castration, three weeks after castration, and one week after injection of testosterone undecanoate were collected representing normal testosterone level",
+      "eligibility_criteria": "Inclusion Criteria:\n\nhealthy males\n\nExclusion Criteria:\n\nuse of anabolic steroids, use of narcotics,",
+      "endpoints": [
+        "Protein biomarkers"
+      ],
+      "sponsor": "Lund University",
+      "url": "https://clinicaltrials.gov/study/NCT03541395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03198728",
+      "title": "A 12-Month, Randomized, Active-controlled, Open-label Study of the Efficacy and Safety of Oral Testosterone Undecanoate in Hypogonadal Men (RE-TUne)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-07-05",
+      "completion_date": "2020-05-01",
+      "country": "United States",
+      "enrollment": 314,
+      "brief_summary": "This will be a randomized, multicenter, open-label, active-controlled, efficacy, and safety study in adult hypogonadal men. The study duration is 12 months (365 days), including a 90-day, open-label efficacy period and a 9-month (275-day) safety evaluation period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male aged 18 to 65 years, inclusive, at the time of providing informed consent to participate in the study.\n2. Hypogonadism defined as having 2 consecutive serum total T levels≤ 281 ng/dL based on a blood sample, drawn at least 3 days apart, between 7 a.m. and 10 a.m.\n3. At l",
+      "endpoints": [
+        "Percentage of Male Hypogonadal Subjects With Average NaF/EDTA Plasma Total Testosterone (T Cavg) Within the Normal Range Using Oral SOV2012-F1."
+      ],
+      "sponsor": "Marius Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT03198728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01665599",
+      "title": "A Phase 3, Open-label, Non-randomized, Clinical Trial to Evaluate the Efficacy and Safety of FE 999303 (Testosterone Gel) in Adult Hypogonadal Males",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-05",
+      "country": "Canada, United States",
+      "enrollment": 180,
+      "brief_summary": "This is a Phase 3 clinical trial in adult hypogonadal males with baseline serum testosterone concentrations \\<300 ng/dL. The purpose of this study is to evaluate the safety and efficacy of testosterone gel (2%) delivered using an applicator.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males between 18-75 years of age\n2. Two screening serum testosterone values less than 300 ng/dL\n3. One or more symptoms of testosterone deficiency\n\nExclusion Criteria:\n\n1. Previous use of the investigational product\n2. Use of any investigational product within 30 days prior t",
+      "endpoints": [
+        "The Percentage of Subjects on Day 90 Whose Cavg (0-24) Serum Total Testosterone Levels Are Between 300 and 1050 ng/dL"
+      ],
+      "sponsor": "Ferring Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01665599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04717362",
+      "title": "The Effects of Natesto For Treatment Of Hypogonadism On Maintenance Of Spermatogensis.",
+      "phase": "EARLY_PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2024-03-01",
+      "completion_date": "2024-12-31",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "In this prospective study, the investigators plan is to confirm the role of Natesto (intranasal testosterone) to combat hypogonadal symptoms in men trying to recover spermatogenesis following the withdrawal of conventional Testosterone replacement therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Voluntarily sign and date the study consent form(s) which have been approved by an Institutional Review Board (IRB). Written consent must be obtained prior to the initiation of any study procedures.\n\n  2\\. Male between 18 and 64 years of age, inclusive, with documented ons",
+      "endpoints": [
+        "Change in Semen Analysis"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04717362"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04467697",
+      "title": "A 6 Month, Open Label, Ambulatory Blood Pressure Monitoring (ABPM) Extension Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-09-18",
+      "completion_date": "2020-05-01",
+      "country": "United States",
+      "enrollment": 155,
+      "brief_summary": "The purpose of this six-month treatment study is\n\n* to assess feasibility of a lower starting dose of SOV2012-F1 (daily dose of 400 mg \\[200 mg with breakfast meal and 200mg with dinner meal\\]) to titrate individual doses to further enhance efficacy and safety.\n* To examine the blood pressure (BP) effects of Marius's oral testosterone undecanoate formulation, SOV2012-F1, using 24-hour ambulatory blood pressure monitoring (ABPM).",
+      "eligibility_criteria": "For all subjects participating in MRS-TU-2019EXT, whether rolling over from MRS-TU-2019 (after washout) or newly enrolling, the following MRS-TU-2019EXT Inclusion/Exclusion Criteria apply:\n\nInclusion Criteria:\n\n1\\. Completion of MRS-TU-2019 Day 365/ End of Treatment\n\nExclusion Criteria:\n\n1. Upper ar",
+      "endpoints": [
+        "Change From Baseline in 24-hour Average Ambulatory Systolic Blood Pressure After 120 Days Treatment",
+        "Plasma and Serum Testosterone Efficacy of Oral SOV2012-F1 With up and Down Titration"
+      ],
+      "sponsor": "Marius Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04467697"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03242408",
+      "title": "Dosing Flexibility Study of Oral Testosterone Undecanoate (TU, LPCN 1021) in Hypogonadal Men.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-01",
+      "completion_date": "2017-07",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "This is a multicenter, open-label, one treatment study evaluating the efficacy of LPCN 1021 in adult hypogonadal male subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Serum total T below 300 ng/dL based on 2 consecutive blood samples obtained between 6 and 10 AM, on two separate days at approximately the same time of day, following an appropriate washout of current androgen replacement therapy.\n2. Subjects should be diagnosed to be primary",
+      "endpoints": [
+        "Percent of LPCN 1021-treated Subjects Who Achieve a Total Testosterone Average Concentration [Cavg] in the Normal Range"
+      ],
+      "sponsor": "Lipocine Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03242408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05806723",
+      "title": "Effects of High Intensity Statin Therapy on Steroid Hormones and Vitamin D in Type 2 Diabetic Men",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-03-01",
+      "completion_date": "2022-09-15",
+      "country": "Tunisia",
+      "enrollment": 104,
+      "brief_summary": "The aim of the study was to assess the effect of high intensity statin therapy on testicular and adrenal steroids and vitamin D levels in type 2 diabetes males.It is a prospective study, conducted between march 2021 and July 2022, including 60 men with type 2 diabetes, aged 40 - 65 years, statin-free, and in whom a treatment with high intensity statin was indicated. The patients had two visits, before and six months after a daily intake of 40 mg of atorvastatin. During each visit, they underwent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male subjects\n* aged between 40 and 65 years\n* Type 2 diabetes\n* naive to statin\n* patients in whom a high intensity statin therapy was indicated according to the recommendations of the American Diabetes Association 2021 i.e in secondary cardio-vascular prevention or in primar",
+      "endpoints": [
+        "change in testosterone level after atorvastatin treatment"
+      ],
+      "sponsor": "Hopital La Rabta",
+      "url": "https://clinicaltrials.gov/study/NCT05806723"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00695110",
+      "title": "Phase II, Repeat Dose, Pharmacokinetic Study of Oral Testosterone Ester Formulations in Hypogonadal Men",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this pharmacokinetic study is to determine whether oral testosterone (T) ester formulations can be used effectively to treat men with low testosterone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male, ages 18-68\n* Serum total T less than or equal to 275 ng/dL\n\nExclusion Criteria:\n\n* Significant intercurrent disease of any type, in particular, liver, kidney or heart disease, uncontrolled diabetes mellitus or psychiatric illness.\n* Abnormal prostate digital rectal exami",
+      "endpoints": [
+        "Serum Testosterone Average Concentration (Cavg) (ng/dL)",
+        "Serum Testosterone Area Under Curve (AUC) (0-24) (ng•hr/dL)"
+      ],
+      "sponsor": "Clarus Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00695110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05249634",
+      "title": "Effect of JATENZO® Therapy on Testosterone and Hemoglobin Concentrations in Hypogonadal Men with Chronic Kidney Disease",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-03-15",
+      "completion_date": "2028-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study in being conducted in men who have low testosterone and chronic kidney disease. The investigators will evaluate the effects of an oral testosterone preparation, JATENZO, on testosterone levels and hemoglobin (red blood cells).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men between ages of 18-85 years of age\n* eGFR 15-45 ml/min/1.73m2 by MDRD (Modification of Diet in Renal Disease) equation\n* Subnormal total serum T concentrations (\\<300 ng/dl) on two separate occasions in morning\n* Symptoms of hypogonadism (as per Endocrine Society guideline",
+      "endpoints": [
+        "Testosterone concentrations"
+      ],
+      "sponsor": "St. Louis University",
+      "url": "https://clinicaltrials.gov/study/NCT05249634"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04439799",
+      "title": "A Comparison of Side Effects in Hypogonadal Men Treated With Natesto Versus Testosterone Injections: A Phase IV, Prospective, Randomized, Non-Blinded, Multi-Institutional Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-08-07",
+      "completion_date": "2023-02-09",
+      "country": "United States",
+      "enrollment": 81,
+      "brief_summary": "The purpose of this study is to evaluate changes in vascular parameters and the prevalence of side effects in subjects receiving 1 cc (200mg) every 2 weeks intramuscular (IM) of Testosterone Cypionate versus subjects receiving 11mg three times daily (TID) Natesto to participant with clinical hypogonadism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily sign and date the study consent form(s), which have been approved by an Institutional Review Board (IRB). Written consent must be obtained prior to the initiation of any study procedures.\n2. Documented diagnosis of primary hypogonadism (congenital or acquired) or ",
+      "endpoints": [
+        "Change in Hematocrit (Hct) Levels."
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT04439799"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04301765",
+      "title": "Improving Cancer-related Fatigue, Sexual Dysfunction and Quality of Life in Older Men With Cancer and Androgen Deficiency",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-01-12",
+      "completion_date": "2026-01-31",
+      "country": "United States",
+      "enrollment": 230,
+      "brief_summary": "This is a large randomized, double-blind, placebo-controlled trial to determine the efficacy of testosterone replacement on cancer-related fatigue in older men with solid or hematologic (blood) cancer who report fatigue and have low testosterone levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men with active solid or hematologic (blood) cancers who have received or are receiving chemo- and/or radiation therapy. Patients who have no evidence of disease (NED) for 60 months or less, which means that they are \\<60 months from their last treatment (chemotherapy and/or r",
+      "endpoints": [
+        "Fatigue change"
+      ],
+      "sponsor": "Seattle Institute for Biomedical and Clinical Research",
+      "url": "https://clinicaltrials.gov/study/NCT04301765"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07287800",
+      "title": "A Prospective Study of Testosterone Supplementation in Hypogonadal Patients Receiving a Renal Transplant",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-07-01",
+      "completion_date": "2027-06",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This prospective study aims to evaluate the safety and efficacy of testosterone replacement therapy (TRT) as an adjunct to an enhanced recover after surgery (ERAS) protocol in men with end-stage renal disease (ESRD) undergoing kidney transplantation.\n\nParticipants will be highly-listed hypogonadal men, defined as total testosterone level \\<300 on two occasions with clinical symptoms of hypogonadism, with ESRD who are expected to receive a kidney transplant within 6 months. Participants will be s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male patients older than 18 years old with confirmed end-stage renal disease (ESRD).\n* Hypogonadal (testosterone level \\<300 ng/dL) with clinical symptoms of hypogonadism.\n* Expected to undergo kidney transplantation within a 6-month period.\n* Able and willing to comply with s",
+      "endpoints": [
+        "Adverse Events",
+        "Overall Survival",
+        "Death-Censored- Graft Survival"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT07287800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00398580",
+      "title": "A Phase II, 28-Day, Randomized, Parallel-Group, Open-Label Study Evaluating the Efficacy and Safety of Twice Daily Oral Doses of Testosterone (150-400mg) Co-administered With 0.25mg Dutasteride Compared With 400mg Testosterone Alone and 0.25mg Dutasteride Alone in the Treatment of Hypogonadism",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "The combination of testosterone and dutasteride is intended for use in hypogonadal men. This study will evaluate the effect of 28-day repeat dosing of this combination with varying BID doses of testosterone (T), in combination with a fixed BID dose of dutasteride (D), as well as a testosterone alone arm, on T and D levels in the blood. The rationale is to look for the effects of each compound on the other, and to look for any safety problems that may result when the 2 drugs are given together.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Have a diagnosis of primary or secondary hypogonadism.\n* Have very low testosterone levels on 2 separate days.\n* Have a BMI within range of 18.5-35kg/m2.\n* Have not taken dutasteride for one year, or finasteride for the past 3 months.\n\nExclusion criteria:\n\n* Have had or have b",
+      "endpoints": [
+        "Safety measured by: monitoring laboratory tests changes in blood pressure and heart rate and heart activity on an ECG machine"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00398580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02966652",
+      "title": "A Phase 1, Randomised, Open-label, 2-cohort, Cross-over Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of a Native Oral Testosterone Formulation (DITEST) in the Fed and Fasted State and Compared to Testosterone Undecanoate in Adult Men With Primary or Secondary Hypogonadism",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-11-03",
+      "completion_date": "2018-10-04",
+      "country": "United Kingdom",
+      "enrollment": 25,
+      "brief_summary": "DITEST is an oral formulation of native testosterone for the treatment of androgen deficiency in men. The study was a Phase 1 clinical study in hypogonadal men, defined according to FDA and Endocrine Society Guidelines, designed to evaluate the pharmacokinetic (PK) characteristics of DITEST, and to assess the safety and tolerability of DITEST in the target population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male subjects aged 18 to 80 years.\n* Diagnosis of primary testicular failure or secondary hypogonadism due to known pituitary disease or congenital deficit.\n* Body mass index (BMI) \\>18kg/m2 and \\<35kg/m2\n* Testosterone level \\<8nmol/L after washout of current testosterone tre",
+      "endpoints": [
+        "Testosterone serum concentrations - Peak Plasma Concentration (Cmax)",
+        "Testosterone serum concentrations - Area under the serum testosterone concentration-time curve from time 0-10 (AUC(0-10))"
+      ],
+      "sponsor": "Neurocrine UK Limited",
+      "url": "https://clinicaltrials.gov/study/NCT02966652"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05611307",
+      "title": "Detection of Late Subclinical Cardiovascular Disease in Testicular Cancer Survivors Exposed to Cisplatin-based Chemotherapy and Bone Marrow Transplant",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2022-10-11",
+      "completion_date": "2024-12-04",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Late subclinical cardiovascular disease in testicular cancer survivors exposed to cisplatin-based chemotherapy and bone marrow transplant",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Patients \\>18 years of age\n* Patients will be recruited only if cancer-free at clinical evaluation time.\n* For the cases a confirmed TC diagnosis who received one or more cycles of CBCT-based chemotherapies (CBCT group, Arm 2)\n* For the cases with a confirmed TC diagnosis who r",
+      "endpoints": [
+        "Lipid profile",
+        "Coronary plaque assessment"
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT05611307"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04798469",
+      "title": "Androgen Replacement to Improve Patient-Important Outcomes in Men With Opioid-Induced Hypogonadism",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-01-10",
+      "completion_date": "2026-06-30",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "The aim of this trial is to evaluate whether testosterone replacement results in greater improvement in pain perception, pain tolerance, sexual function, fatigue, and quality of life when compared with placebo in men with chronic spinal pain treated with opioids who have opioid-induced hypogonadism (low testosterone).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men, age 18 years and older.\n* Chronic non-cancer spinal pain.\n* Use of opioid analgesics for at least 6 months.\n* Serum total testosterone (measured by mass spectrometry) \\<348 ng/dL and/or free testosterone \\<70 pg/mL.\n* Ability and willingness to provide informed consent.\n\n",
+      "endpoints": [
+        "Changes in scores in the Pain Interference Subscale of the Brief Pain Inventory (BPI) questionnaire"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04798469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01403116",
+      "title": "Phase 3, Active-Controlled, Safety and Efficacy Trial of Oral Testosterone Undecanoate (TU) in Hypogonadal Men",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2013-09",
+      "country": "Germany, United States",
+      "enrollment": 325,
+      "brief_summary": "The purpose of this study is to determine the safety and efficacy of an oral testosterone undecanoate formulation for use as testosterone-replacement therapy in men with low testosterone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum testosterone of less than or equal to 300 ng/dL on two occasions within one week (may wash out from previous oral, topical or buccal testosterone therapy)\n\nExclusion Criteria:\n\n* Significant intercurrent disease of any type, in particular liver, kidney, uncontrolled or p",
+      "endpoints": [
+        "Percentage of Treated Patients With Average Serum Testosterone (T) Concentrations (Cavg) Between 300 and 1000 ng/dL"
+      ],
+      "sponsor": "Clarus Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01403116"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05773183",
+      "title": "Exploring the Relationship Between Androgen Metabolism, Metabolic Disease and Skeletal Muscle Energy Balance in Men",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-03-12",
+      "completion_date": "2024-08",
+      "country": "Ireland",
+      "enrollment": 60,
+      "brief_summary": "This study relates to men with hypogonadism, a condition describing a deficiency of androgens such as testosterone. Deficiency of these hormones occurs in men due to testicular (primary) or hypothalamic-pituitary (secondary) problems or may be observed in men undergoing androgen deprivation therapy for prostate cancer.\n\nTestosterone plays an important role in male sexual development and health, but also plays a key role in metabolism and energy balance. Men with testosterone deficiency have high",
+      "eligibility_criteria": "Inclusion Criteria \\[OBS1 \\& IC1\\]:\n\n* Able to provide consent\n* Ages 18 - 60 years\n* BMI 20 - 35 kg / m2\n\nInclusion Criteria \\[IC2\\]:\n\n* Able to provide consent\n* Ages 40-85 years\n* BMI 20 - 35 kg / m2\n\nExclusion Criteria \\[OBS1 \\& IC1\\]:\n\n* Contraindication to testosterone replacement for patients",
+      "endpoints": [
+        "To compare differences in non-targeted serum and skeletal muscle metabolomics in men with hypogonadism compared to controls",
+        "To compare differences in non-targeted serum and skeletal muscle metabolomics in men with hypogonadism pre and post testosterone replacement",
+        "To compare differences in steroid metabolomics in men with prostate cancer pre- and post-androgen deprivation therapy (ADT)"
+      ],
+      "sponsor": "Royal College of Surgeons, Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT05773183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05367284",
+      "title": "Use of Perioperative Testosterone Replacement Therapy (TRT) in Sarcopenic Male Colorectal Cancer Patients - A Single Arm Open Label Feasibility Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-15",
+      "completion_date": "2023-03",
+      "country": "United Kingdom",
+      "enrollment": 30,
+      "brief_summary": "With increasing age and the additional impact from the bowel cancer and the chemotherapy and/ or radiotherapy it has been described that testosterone (a male hormone produced naturally in the body) levels are reduced. Testosterone has an impact on numerous body functions including the muscle mass and quality. Previous studies have identified that muscle mass is reduced as a result of ageing but also because of the deleterious effect of cancer and chemotherapy and/or radiotherapy. There is growin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male ≥ 45 years old\n* Colorectal cancer - histology confirmed\n* Identified as sarcopenic on latest computerised tomography (CT) scan prior to intervention (part of initial investigations - using Martin et al (2013) criteria - 43cm2/m2 for Body Mass Index (BMI) \\<25, 53cm2/m2 f",
+      "endpoints": [
+        "Number of days required for a patient to be recruited on the study and how many patients are recruited",
+        "Number of patients who will complete the 12 week treatment",
+        "Treatment acceptability questionnaire"
+      ],
+      "sponsor": "London North West Healthcare NHS Trust",
+      "url": "https://clinicaltrials.gov/study/NCT05367284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06689085",
+      "title": "Open-Label, Multiple-Dose, 52-Week Study + 24-Month Long-Term Safety Extension to Evaluate the Safety, PK, & Efficacy of XYOSTED® for Testosterone Replacement in Male Adolescents With Deficiency or Absence of Endogenous Testosterone Due to Primary or Secondary Hypogonadism",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-03-07",
+      "completion_date": "2030-03",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This is a 52-week open label single arm study + 24-Month long-term safety extension to investigate the effects of XYOSTED, as testosterone replacement therapy, on adolescent males with either primary or secondary hypogonadism.\n\nThe study aims to determine the effectiveness of XYOSTED measured by continuation or induction of puberty in addition to XYOSTED dosage, safety and testosterone levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosed with a deficiency or absence of endogenous testosterone due to primary or secondary hypogonadism of a known etiology. Children with combined hormone deficiencies are permitted to enroll (but the child must already be receiving treatment for concomitant hormonal defi",
+      "endpoints": [
+        "Increase in testosterone, as evaluated using PK parameters"
+      ],
+      "sponsor": "Halozyme Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT06689085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06094036",
+      "title": "Physical Exercise as a Sustainability Tool in Men Affected With Metabolic Syndrome-related Late-onset Central Hypogonadism: Role of Endocrine-metabolic and Neurovegetative Outcomes",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-01-11",
+      "completion_date": "2024-12-31",
+      "country": "Italy",
+      "enrollment": 72,
+      "brief_summary": "Aim of this project is to delineate sustainable physical exercise programs and to assess the effects of such programs mainly on endocrine-metabolic and neurovegetative outcomes in a cohort of men with metabolic syndrome-related late-onset central hypogonadism.\n\nParticipants will undergo a personalised exercise program. After 6 months they will be subdivided into two groups, according to the weekly physical activity volume actually performed (above or below 600 MET·minutes/week). Changes in endoc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of late-onset central hypogonadism: total T levels \\< 8 nmol/L (or \\< 12 nmol/L in the presence of calculated free T \\< 225 pmol/L) combined with sexual symptoms (erectile dysfunction, low libido and loss of waking erections) \\[12\\];\n* diagnosis of metabolic syndrome",
+      "endpoints": [
+        "change in hypothalamic-pituitary-gonadal axis function"
+      ],
+      "sponsor": "Istituto Auxologico Italiano",
+      "url": "https://clinicaltrials.gov/study/NCT06094036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03721497",
+      "title": "Muscle Strength and -Mass After Bariatric Surgery - a Possible Effect of Testosterone Replacement Therapy? Randomized, Placebo-controlled and Double-blinded Study",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-12-17",
+      "completion_date": "2025-12",
+      "country": "Denmark",
+      "enrollment": 64,
+      "brief_summary": "Bariatric surgery is an effective method in the treatment of severe obesity and type 2 diabetes mellitus achieving high remission rates. However, weight loss also causes loss of skeletal muscle and bone mass which at least partly could be prevented by exercise and dietary intervention although the counselling of obese and sedentary individuals in order to increase their physical activity presents a challenge. As up to 78.8% of men undergoing bariatric surgery have low levels of testosterone, tes",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible for bariatric surgery according to the Danish national criteria (i.e. aged 18-60 years, BMI \\>35 kg/m2 with specific secondary disease or BMI \\>40 kg/m2 with significant health issues assessed by the multidisciplinary bariatric team) \\[42\\]\n* Caucasian men\n* Total tes",
+      "endpoints": [
+        "Change in Maximal isometric muscle strength (N) in shoulder muscles"
+      ],
+      "sponsor": "Esbjerg Hospital - University Hospital of Southern Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT03721497"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01143818",
+      "title": "Energy, Sexual Desire and Body PropoRtions wIth AndroGel®, Testosterone 1% Gel Therapy (ESPRIT) in Hypogonadal Men",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2010-08",
+      "country": "United Arab Emirates, Slovenia, Croatia, Saudi Arabia, Russia, Kuwait, Germany, Romania, Canada",
+      "enrollment": 1053,
+      "brief_summary": "Observational study with AndroGel®, Testosterone 1% gel therapy (ESPRIT) in hypogonadal men in the community over 6 months.",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Male patients \\>= 18 years of age\n2. Hypogonadism not previously treated with testosterone\n3. Testosterone deficiency confirmed clinically and biochemically\n4. Being prescribed AndroGel® 1% in accordance with the local summary of product characteristics\n\nExclusion Criteria\n\n1.",
+      "endpoints": [
+        "Percent Change From Baseline to Month 6 in Aging Male Symptoms (AMS) in Mean Total Score"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT01143818"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00400335",
+      "title": "An Open Label Study to Evaluate the Impact of Novel Fixed-dose Testosterone/Dutasteride Combinations on the Relative Bioavailability of the Individual Dutasteride and Testosterone Components",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The combination of testosterone and dutasteride is intended for use in hypogonadal men. This study will evaluate the bioavailability and pharmacokinetics of various doses of testosterone administered with and without dutasteride",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Are healthy.\n* Have a BMI within range of 19-32 kg/m2.\n* Have not taken dutasteride for one year, or finasteride for the past 3 months.\n* Have a screening PSA \\< 2.0ng/mL.\n\nExclusion criteria:\n\n* Have had or have breast or prostate cancer, sleep apnea, psychiatric illness, or ",
+      "endpoints": [
+        "lab tests for relative bioavailability of testosterone and dutasteride,"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00400335"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01703741",
+      "title": "A Multicenter Extension Trial to Evaluate the Safety of FE 999303 (Testosterone Gel) in Adult Hypogonadal Males",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2013-10",
+      "country": "Canada, United States",
+      "enrollment": 145,
+      "brief_summary": "This is a multicenter extension trial in adult hypogonadal males. The purpose of this study is to evaluate the safety of testosterone gel delivered using an applicator over an extended period of time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Completion of the Phase 3 protocol (NCT01665599)\n\nExclusion Criteria:\n\n* Use of another investigational product\n* Use of any medications that could be considered anabolic or interfere with androgen metabolism\n* Use of estrogens, gonadotropin releasing hormone agonists/antagoni",
+      "endpoints": [
+        "Percentage of Subjects With a Serum Total Testosterone Level - Maximum Observed Concentration (Cmax) of 1500-1799, 1800-2499, or Above 2500 ng/dL"
+      ],
+      "sponsor": "Ferring Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01703741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03747003",
+      "title": "Gonadal Function in Young to Middle Aged HIV-infected Men Assessed by Isotopic Dilution-liquid Chromatography-mass Spectrometry (ID-LC-MS/MS) and Chemiluminescent Immunoassay",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-05-15",
+      "completion_date": "2018-12-31",
+      "country": "Italy",
+      "enrollment": 315,
+      "brief_summary": "HIV infection is associated to premature decline of serum testosterone. However, prevalence and biochemical characterization of hypogonadism in HIV-infected men are still to be well defined. HIV-infection is strongly associated to erectile dysfunction in men, but preliminary data suggest that it is poorly associated with serum testosterone in this context.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male gender\n* Age 18-50 years\n* HIV-infection\n* Ongoing Highly Active Antiretroviral Therapy\n\nExclusion Criteria:\n\n* Previous treatment with androgens, anti-androgens\n* Severe liver insufficiency\n* Severe renal insufficiency",
+      "endpoints": [
+        "Serum total testosterone",
+        "Serum total testosterone"
+      ],
+      "sponsor": "Azienda Ospedaliero-Universitaria di Modena",
+      "url": "https://clinicaltrials.gov/study/NCT03747003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05110391",
+      "title": "Sperm Retrieval Rates by Microdissection Testicular Sperm Extraction in Non-obstructive Azoospermic Men Subjected to Gonadotropin Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-02-01",
+      "completion_date": "2021-09-15",
+      "country": "Brazil",
+      "enrollment": 616,
+      "brief_summary": "Azoospermia is defined as the complete absence of spermatozoa in the ejaculate. Two-thirds of azoospermic patients have non-obstructive azoospermia (NOA); the latter comprises up to 10% of infertile men overall. NOA is an untreatable testicular disorder associated with spermatogenic failure and is the most severe male infertility phenotype. Among the available surgical sperm retrieval techniques, microdissection testicular sperm extraction (micro-TESE) is the procedure of choice due to its high ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Consecutive NOA patients with a baseline total testosterone level equal to or below 350 ng/dL who had a sperm retrieval procedure by microdissection testicular sperm extraction (micro-TESE) during the study period. Only patients with histopathology-confirmed NOA, absence of Y-",
+      "endpoints": [
+        "Sperm retrieval rates"
+      ],
+      "sponsor": "ANDROFERT - Clinica de Andrologia e Reproducao Humana",
+      "url": "https://clinicaltrials.gov/study/NCT05110391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03176537",
+      "title": "Clinical, Microbiologic and Immunologic Profile of the Periodontal Condition in Hypogonadic Men",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2017-05-01",
+      "completion_date": "2020-12-31",
+      "country": "Brazil",
+      "enrollment": 0,
+      "brief_summary": "The aim of this study is to assess if hypogonadic men with periodontitis benefit from testosterone replacement therapy before being submitted to periodontal treatment. Fifty hypogonadic men (Total Testosterone \\<200ng/dL) will be recruited from the Clinics Hospital at Federal University of Paraná and subjected to periodontal evaluation by a trained and calibrated researcher. The subjects presenting with periodontitis (assessed by clinical parameters) will be randomly allocated to \"testosterone r",
+      "eligibility_criteria": "Inclusion Criteria: total testosterone \\<200ng/dL in two assessments; at least 20 teeth present.\n\n\\-\n\nExclusion Criteria: systemic diseases such as hormonal, inflammatory and immune alterations.\n\n\\-",
+      "endpoints": [
+        "CAL"
+      ],
+      "sponsor": "Universidade Federal do Paraná",
+      "url": "https://clinicaltrials.gov/study/NCT03176537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04946565",
+      "title": "The Impact of Sinopharm COVID-19 Vaccination on Male Fertility of the Egyptian Population",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-07-03",
+      "completion_date": "2022-08-30",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "The investigators shall study the effect of Sinopharm vaccination on semen parameters and serum testosterone",
+      "eligibility_criteria": "Inclusion Criteria:\n\nReceiving Sinopharm COVID-19 vaccines Male age 18-50 years old\n\nExclusion Criteria:\n\n* Adults unable to consent\n* Men who have been receiving Testosterone replacement therapy or anabolic steroids within the last year\n* Men with a history of male infertility\n* Men with a genetic ",
+      "endpoints": [
+        "Sperm density count/ml",
+        "Total sperm count per ejaculate",
+        "Percentage of motile sperm"
+      ],
+      "sponsor": "Cairo University",
+      "url": "https://clinicaltrials.gov/study/NCT04946565"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01446042",
+      "title": "A 90-Day, Randomized, Dose-Ranging Study, Including Potential Dose Titration, Evaluating the Efficacy and Safety of Intranasal TBS-1 in the Treatment of Male Hypogonadism With Sequential Safety Extension Periods of 90 and 180 Days",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2013-03",
+      "country": "United States",
+      "enrollment": 306,
+      "brief_summary": "The purpose of this study is to determine the efficacy (based on the pharmacokinetic profile of testosterone) and safety of TBS-1 in the treatment of hypogonadal men",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Male between 18 and 80 years of age\n* Able to understand and provide signed informed consent\n* Have 2 fasting morning (0900 h ± 30 min) serum total testosterone levels \\<300 ng/dL\n* Body mass index between 18.5 kg/m2 and 35 kg/m2\n* Hemoglobin level \\> or = 13.0 g/dL\n* Screening",
+      "endpoints": [
+        "Serum Testosterone Cavg"
+      ],
+      "sponsor": "Acerus Pharmaceuticals Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01446042"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03973840",
+      "title": "A Study to Assess Post-collection Conversion of Testosterone Undecanoate (TU) to Testosterone in Blood From Men Receiving Oral TU Collected Into Different Types of Sample Tubes",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-07-15",
+      "completion_date": "2018-07-31",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "To describe the rate of post-collection TU to testosterone conversion, as manifested by increases in testosterone concentration, in Plain tubes held at room temperature and sodium fluoride (NaF)-ethylenediaminetetraacetic acid (EDTA) tubes held at room temperature or on ice prior to centrifugation",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects were required to meet all of the following criteria in order to be eligible for the study:\n\n1. Male (gender at birth) 18 to 65 years of age, inclusive, and legally able to give informed consent, as applicable by law. The percentage of non-Hispanic and Hispanic men was s",
+      "endpoints": [
+        "measure rate of post-collection TU-to-testosterone conversion in 3 types of collection tubes"
+      ],
+      "sponsor": "Clarus Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03973840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01370369",
+      "title": "A Phase 2 Open-Label, Sequential Dose Escalation Study to Evaluate the Efficacy, Pharmacokinetics and Safety of Three Volumes (1.25, 2.50 and 3.75 mL) of Testosterone Gel 2% (FE 999303) Equivalent to 23, 46 And 70 mg of Testosterone in Hypogonadal Males",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is an open-label study of a single and repeated application of three dose levels of topical testosterone in hypogonadal males with morning serum testosterone concentrations \\< 297 ng/dL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 18-65\n* History of hypogonadism\n* In good health based on medical history, physical examination and clinical laboratory tests\n* Screening morning serum testosterone ≤ 297 ng/dL\n* One or more symptoms of testosterone deficiency (i.e. fatigue, reduced libido or reduced sexu",
+      "endpoints": [
+        "Responder Rate - the Percentage of Subjects Whose Minimum Concentration Observed (Cmin) and Average Steady State Concentration (Cave) of Serum Testosterone Levels Were Between 298 and 1043 ng/dL."
+      ],
+      "sponsor": "Ferring Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01370369"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06312761",
+      "title": "Single-Dose Pharmacokinetics of Oral Testosterone Undecanoate With and Without Concomitant Inhibition of UGT2B17 With Oral Curcumin in Normal Men With Experimental Hypogonadism",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-06-01",
+      "completion_date": "2025-12-31",
+      "country": "N/A",
+      "enrollment": 10,
+      "brief_summary": "This study will be performed in normal men whose endogenous testosterone production has been temporarily suppressed by the administration of a single dose of 120 mg of the oral GnRH antagonist Relugolix, which is approved for the treatment of prostate cancer, and can suppress endogenous testosterone biosynthesis for 48-72 hours after a single dose.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. healthy male between 18 and 55 years of age\n* 2\\. agrees to not participate in another drug research study for the duration of this study\n* 3\\. agrees to not donate blood during the study\n* 4\\. subject provided written (personally signed and dated) informed consent before ",
+      "endpoints": [
+        "average serum testosterone after dosing on day 2",
+        "average serum testosterone after dosing on day 3",
+        "Maximum concentration"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT06312761"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03933618",
+      "title": "A Randomized Double Blinded Placebo Controlled Trial Between Anastrozole and Clomiphene to Evaluate Improvement in Hypogonadal Symptoms and Erectile Function Using ADAM, IIEF and EHS Validated Scales",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-04-02",
+      "completion_date": "2017-03-08",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "This study evaluates anastrazole and clomiphene in the improvement in hypogonadal symptoms and erectile function. Each subject will receive Anastrazole 1 mg/day, clomiphene 25 mg/day and placebo in randomized schedule of 8 week intervals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men age 18-70\n2. Baseline morning Testosterone 150-350 ng/dL x2\n3. leutenizing hormone (LH) 1.5-9.2 miU/mL, Follicle stimulation hormone (FSH) 1.6-8.0 miU/mL, Prolactin 4-15 ng/mL\n4. Positive Androgen Deficiency in the Aging Male (ADAM) score. A positive score is when an affi",
+      "endpoints": [
+        "IIEF (International Index of Erectile Function) Score - Screen",
+        "IIEF (International Index of Erectile Function) Score - Week 8",
+        "IIEF (International Index of Erectile Function) Score - Week 16"
+      ],
+      "sponsor": "Albany Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT03933618"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03335254",
+      "title": "A Phase 1/2a Study to Determine the Dose Response Pharmacokinetics of TSX-011 (Testosterone Undecanoate) in Hypogonadal Males",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2017-11-06",
+      "completion_date": "2018-05-03",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This will be a phase 1/2a, open-label, single-center study with 3 periods. The aims of the study are to:\n\n1. evaluate the dose-response curve following ascending single doses of TSX-011;\n2. confirm optimum dosing conditions;\n3. evaluate the efficacy of single or multiple daily adaptive dosing; and\n4. evaluate the safety and tolerability of TSX-011.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Testosterone level \\<350 ng/dL, 10 am \\[± 2 hour\\] sample.\n* Body mass index (BMI) \\<35.0 kg/m2 and weight ≥50 kg\n\nExclusion Criteria:\n\n* History of clinically significant renal, hepatic, neurologic, hematologic, endocrine, oncologic, pulmonary, immunologic, psychiatric, or ca",
+      "endpoints": [
+        "Percentage of Responders Based on Measured Total Testosterone (Cavg)."
+      ],
+      "sponsor": "TesoRx Pharma, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03335254"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00911586",
+      "title": "Pharmacokinetic Study to Determine Time to Steady-state of an Oral Testosterone Undecanoate Formulation in Hypogonadal Men.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "The purpose of the study is to confirm how long (i.e., how many days) it takes to reach steady-state when testosterone undecanoate is administered twice daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male, age 18-75\n* Morning serum testosterone (T) \\<300 ng/dL on two occasions\n* Naive to androgen-replacement therapy or willing to wash-out from current T therapy\n\nExclusion Criteria:\n\n* Significant intercurrent disease\n* Abnormal prostate digital rectal exam, elevated PSA, A",
+      "endpoints": [
+        "Serum T Concentration at Steady State",
+        "Serum T Concentration at Steady-State"
+      ],
+      "sponsor": "Clarus Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00911586"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00475501",
+      "title": "5-Alpha Reductase and Anabolic Effects of Testosterone",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2014-10",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to determine whether a higher-than-replacement dose of testosterone and finasteride can be combined to safely increase muscle strength in older men who have a low blood concentration of testosterone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 60 years males\n* Primary care at the Malcolm Randall VA Medical Center in Gainesville, Florida.\n* Consenting subjects who have a morning (between 6:00 AM and 10:00 AM) serum total testosterone 300 ng/dL or bioavailable testosterone concentration 70 ng/dL and no exclusio",
+      "endpoints": [
+        "1 Repetition Maximum (1-RM) Strength Testing"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00475501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03792321",
+      "title": "Study on Effects of Testosterone Replacement Therapy in Hypogonadal Type 2",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-01-10",
+      "completion_date": "2018-03-05",
+      "country": "N/A",
+      "enrollment": 55,
+      "brief_summary": "Aim of the study was to investigate the effects of testosterone replacement therapy on components of metabolic syndrome, vascular function and morphology, grade of non-alcoholic fatty liver disease (NAFLD), bone mineral density (BMD) and health-related quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* men aged \\> 35 years\n* body mass index \\> 30 kg/m2\n* confirmed hypogonadism\n* type 2 diabetes mellitus treated with non-insulin therapy\n\nExclusion Criteria:\n\n* previously treated hypogonadism\n* the 2 diabetes mellitus treated with insulin therapy\n* a history of current prostat",
+      "endpoints": [
+        "Effects of testosterone replacement therapy on glycemic control - fasting plasma glucose (FPG) mmol/l",
+        "Effects of testosterone replacement therapy on glycemic control - glycated hemoglobin A1c (HbA1c) %",
+        "Effects of testosterone replacement therapy on parameters of metabolic syndrome - change in HOMA-IR"
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "url": "https://clinicaltrials.gov/study/NCT03792321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03851627",
+      "title": "52 Week RCT to Investigate the Effect of Testosterone Undecanoate vs Placebo on Intrahepatic Fat Content in Obese/Overweight Men With T2DM/Prediabetes and Hypogonadism and Subsequent 108 Week Open Label Phase to Investigate Effects on Cardiometabolic Parameters",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2022-01-25",
+      "completion_date": "2028-12",
+      "country": "Austria",
+      "enrollment": 32,
+      "brief_summary": "The epidemics of obesity, MeTSy, T2DM and CVD are increasing worldwide. Non-alcoholic fatty liver disease (NAFLD) is becoming recognized as a condition possibly involved in the pathogenesis of these diseases. The prevailing hypothesis for NAFLD pathogenesis is the 'two-hit' model, with insulin resistance and hyperinsulinemia playing essential roles, which have a plethora of effects on hepatic lipid metabolism and can lead to accumulation of triglycerides in hepatocytes. Accepted treatment for NA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* prediabetes/T2DM\n* male sex\n* HbA1c \\>=5.7% -9.0% or fasting glucose \\>=100mg/dl or postprandial glucose\\>= 140mg/dl\n* Age \\>=18 -75 years\n* BMI\\>=25kg/m²\n* Hypogonadism assessed by laboratory testing (testosterone \\< 4,04ng/ml (=14nmol/l) Metformin 8 weeks stable dose, SGLT2 ",
+      "endpoints": [
+        "Liver fat"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT03851627"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07328542",
+      "title": "A Multi-center, Open-label, Single-arm 24-hour Ambulatory Blood Pressure Monitoring (ABPM) Study of Testosterone Cypionate Injection in Hypogonadal Men",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-02",
+      "completion_date": "2027-08",
+      "country": "United States",
+      "enrollment": 144,
+      "brief_summary": "A Phase 4, multi-center, open-label, single-arm 24-hour Ambulatory Blood Pressure Monitoring (ABPM) study of Testosterone Cypionate Injection in Hypogonadal Men to assess change in 24-hour ambulatory blood pressure from Baseline to End of Treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male subjects aged ≥18 to ≤75 years of age (inclusive) at time of enrollment.\n* Body mass index (BMI) ≥17 kg/m\\^2 to \\< 40 mg\\^2.\n* Willing and able to voluntarily provide written informed consent prior to initiation of screening or study-specific procedures.\n* Able to underst",
+      "endpoints": [
+        "Number of participants with changes in 24-hour average systolic ambulatory blood pressure"
+      ],
+      "sponsor": "Azurity Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT07328542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06841328",
+      "title": "Fertility Enhancement Through Regenerative Treatment in Ovaries and Testes: (FERTILE): Prospective Observational Study Evaluating Safety and Efficacy",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-04-08",
+      "completion_date": "2028-04-30",
+      "country": "United Arab Emirates",
+      "enrollment": 60,
+      "brief_summary": "This study investigates the safety and efficacy of stem cell or stem cell-derived exosome therapy for gonadal failure, including testicular failure, hypogonadism, ovarian insufficiency, and premature ovarian failure (POF). Conducted at First IVF Clinic, Dubai, it will include 60 participants (30 males, 30 females) aged 20-50 years who have not responded to conventional treatments such as HRT, TRT, or ART.\n\nParticipants will receive intra-gonadal (testicular or ovarian) injections of stem cells o",
+      "eligibility_criteria": "Male patients:\n\n* Male patients aged 20 to 50 years.\n* Diagnosed with testicular failure (low testosterone) or hypogonadism (impaired gonadal function), or azoospermia (no sperm in ejaculate)\n* Suboptimal response to conventional treatments, such as testosterone replacement therapy (TRT) or fertilit",
+      "endpoints": [
+        "Change in reproductive capacity"
+      ],
+      "sponsor": "Jumeirah American Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT06841328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04708249",
+      "title": "D-chiroinositol Administration for Testosterone Level Improvement in Hypogonadal Males",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-01-18",
+      "completion_date": "2021-03-01",
+      "country": "Italy",
+      "enrollment": 10,
+      "brief_summary": "D-chiroinositol (DCI), is known as second messenger of insulin pathway, but recently several works have reported the influence of DCI on steroidogenesis. In particular, the DCI capabilities to regulate aromatase expression and testosterone biosynthesis are arising. In this regard, DCI administration in case of reduced levels of testosterone, could be a good therapeutic opportunity. For this reason, the treatment of Late-Onset Male Hypogonadism (LOH) in undoubtedly an interesting target. LOH is a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men, with a diagnosis of Late-Onset Male Hypogonadism\n* Insulin resistance (HOMA Index \\> 2,5)\n* BMI between 25 and 30\n\nExclusion Criteria:\n\n* Alcohol intake and/or drug abuse\n* Recent hormonal treatment\n* Smoking\n* Obesity\n* Systemic or endocrine diseases\n* Male accessory gla",
+      "endpoints": [
+        "Change from Baseline Serum Testosterone at 1 month"
+      ],
+      "sponsor": "Lo.Li.Pharma s.r.l",
+      "url": "https://clinicaltrials.gov/study/NCT04708249"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04558567",
+      "title": "A Phase 4, Open-Label, Single-Arm Study to Evaluate the Effects of Vogelxo(R) on 24-hour Ambulatory Blood Pressure Monitoring in Hypogonadal Men Using Therapeutic Testosterone Replacement Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-08-28",
+      "completion_date": "2024-01-11",
+      "country": "United States",
+      "enrollment": 122,
+      "brief_summary": "A Phase 4 ABPM study in Hypogonadal Men",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult male whose age is between 18 and 80 years, inclusive, at the time of screening.\n2. Considered by the investigator to be in good general health as determined by medical history, clinical laboratory test results, vital sign measurements, 12-lead electrocardiogram (ECG) re",
+      "endpoints": [
+        "Change from baseline in the 24-hour ABPM average SBP"
+      ],
+      "sponsor": "Upsher-Smith Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT04558567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03282682",
+      "title": "Strength Training as a Supplemental Therapy of Androgen Deficiency of the Aging Male (ADAM)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-10-01",
+      "completion_date": "2019-05-30",
+      "country": "Slovakia",
+      "enrollment": 22,
+      "brief_summary": "This study examines the effect of 12-week strength training program with and without testosterone replacement therapy (TRT) on body composition, physical function, selected biochemical markers of metabolic health, molecular parameters of training adaptation and the quality of life patients with ADAM. The investigators believe, that strength training program performed 2 times per week for 12 weeks can improve body composition (decrease fat mass and gain lean mass), muscle strength, muscle power a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of secondary hypogonadism on testosterone replacement therapy, newly diagnosed patients of secondary hypogonadism.\n\nExclusion Criteria:\n\n* Regular strength training, medical treating osteoporosis, abnormal digital rectal results, conditions which are medical contraind",
+      "endpoints": [
+        "Change From Baseline in Lean Mass"
+      ],
+      "sponsor": "Comenius University",
+      "url": "https://clinicaltrials.gov/study/NCT03282682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02697188",
+      "title": "Phase IIa, Pilot, Pharmacokinetic Study of Oral Testosterone Ester Formulations in Hypogonadal Men",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2008-04",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "Determine the serum pharmacokinetic profile for two oral formulations of T-esters (one TE and one TU) administered once -(QD) and twice-daily (BID) to hypogonadal men.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nMale, ages 18 to 65 Serum total testosterone less than or equal to 250 ng/dL Naive to androgen replacement therapy Subject must be on stable doses of thyroid or adrenal replacement hormones for at least 14 days prior to enrollment\n\nExclusion Criteria:\n\nSignificant intercurrent d",
+      "endpoints": [
+        "Mean Serum Testosterone Cavg"
+      ],
+      "sponsor": "Clarus Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02697188"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02715713",
+      "title": "Autonomic Manifestations of Testosterone Deficiency in Men",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2016-03",
+      "completion_date": "2016-08",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The primary goal of this pilot study is to investigate the association between testosterone deficiency and the presence of abnormalities in the function of the autonomic nervous system. If such association exists, then we will investigate the effect of testosterone replacement therapy on correcting these abnormalities.",
+      "eligibility_criteria": "Inclusion Criteria for first group:\n\n1. Patients with testosterone deficiency (total testosterone\\< 277 ng/dL \\[9.6 nmol/L\\]) measured between 7-10 am, and with one or more symptoms and signs suggestive of androgen deficiency as mainly determined by history.\n\n   * Reduced sexual desire (libido)\n   *",
+      "endpoints": [
+        "Number of patients with testosterone deficiency who will have abnormal autonomic function test (abnormal heart rate response to deep breathing, abnormal Valsalva ratio, and abnormal tilt table i.e. orthostatic hypotension)."
+      ],
+      "sponsor": "Texas Tech University Health Sciences Center",
+      "url": "https://clinicaltrials.gov/study/NCT02715713"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01765179",
+      "title": "Phase III, Open-label Study of the Safety and Efficacy of Oral Testosterone Undecanoate (TU)in Hypogonadal Men",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2013-07",
+      "country": "United States",
+      "enrollment": 144,
+      "brief_summary": "The purpose of the study is to determine if oral testosterone undecanoate is effective and safe in the treatment of low testosterone in men.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Serum testosterone of less than or equal to 300 ng/dL (the mean of two samples collected 1 hour apart in the morning between 6:00 and 10:00 AM)\n\nExclusion Criteria:\n\n* Significant intercurrent disease of any type, in particular liver, kidney, uncontrolled or poorly controlled ",
+      "endpoints": [
+        "Percentage of Treated Patients With an Average Serum Testosterone (T) Concentration (Cavg) Between 300 and 1000 ng/dL"
+      ],
+      "sponsor": "Clarus Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01765179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03091348",
+      "title": "Subcutaneous Testosterone Therapy in Men Compared to Intramuscular Testosterone Therapy in Men",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-29",
+      "completion_date": "2018-01-02",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "In this randomized, cross-over study 20 subjects who are undergoing testosterone (T) therapy for the treatment of T deficiency will receive both subcutaneous testosterone therapy and intramuscular testosterone therapy. One group will receive a SQ injection followed by an IM injection and one group will receive an IM injection followed by a SQ injection. The primary objective of this study is to measure testosterone concentration in men after these two treatment routes and determine if there are ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ability to read, write, and understand English\n* Age greater than or equal to 18\n* Diagnosed with testosterone deficiency\n* Pre-enrollment testosterone concentration of less than 350 ng/dL\n* Planning to initiate testosterone treatment at MHB\n* Willing to be followed at MHB for",
+      "endpoints": [
+        "Change in Levels of Serum Total Testosterone Concentration",
+        "Change in Levels of Serum Calculated Free T Concentration"
+      ],
+      "sponsor": "Men's Health Boston",
+      "url": "https://clinicaltrials.gov/study/NCT03091348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06532149",
+      "title": "ERectile Dysfunctions, gOnadotoxicity and Sexual Health Assessment in Men With Lung Cancer (EROS)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-08-05",
+      "completion_date": "2026-09-30",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "Although many phase III clinical trials evaluate the quality of life as a secondary endpoint, male sexuality remains a neglected topic in oncology research. In light of the long-term efficacy of new-generation anticancer treatments for ANSCLC (i.e. targeted therapies and immunotherapy), there is a paucity of data about any detrimental effect on fertility and sexuality that could complicate the therapy proposal, especially in young patients.\n\nThe aim of this trial is to assess incidence of endocr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of advanced/metastatic NSCLC\n* To be candidate to active treatment\n* Aged ≥ 18 anni (up to 75 years old)\n* To be sexually active in last 30 days before treatment start\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1\n* Written informed consent\n\nExcl",
+      "endpoints": [
+        "Incidence of treatment-related sexual dysfuction in male patients with ANSCLC"
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT06532149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04456296",
+      "title": "An Open-Label, Randomized, Parallel-Group, Three Treatment Arm, Multicenter Study on Hypogonadal Males to Evaluate the Effect on 24-Hour Ambulatory Blood Pressure After 16-Week Continuous Treatment With Marketed Testosterone Products",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2020-06-30",
+      "completion_date": "2023-07-12",
+      "country": "United States",
+      "enrollment": 673,
+      "brief_summary": "Testosterone is the principal androgen produced by the male testes. Male Hypogonadism is the result of inadequate production of testosterone by the Leydig cells of the testes and is reflected by total serum concentrations of testosterone of \\< 300 nanograms (ng)/deciliters (dL), with no discernible diurnal pattern. The etiology of hypogonadism may be primary or secondary. The treatment of males with primary, and in some cases, secondary hypogonadism includes administration of testosterone.\n\nTest",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Have a diagnosis of primary hypogonadism or hypogonadotropic hypogonadism.\n2. Have a total serum testosterone at screening \\< 300 ng/dL based on 2 blood samples obtained at 10 am (+/-2 hours) on 2 separate occasions at least 48 hours apart\n3. Be naïve to androgen replacement ",
+      "endpoints": [
+        "Change From Baseline in 24-Hour Average Systolic Ambulatory Blood Pressure to End of Study (EOS)"
+      ],
+      "sponsor": "Endo Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04456296"
+    }
+  ],
+  "timestamp": "2026-03-04T16:26:27.026246",
+  "success": true,
+  "error_message": null
+}

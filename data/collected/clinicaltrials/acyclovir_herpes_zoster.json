@@ -1,0 +1,877 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes zoster"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01833143",
+      "title": "A Phase 2 Trial of Bortezomib in KRAS-Mutant Non-Small Cell Lung Cancer in Never Smokers or Those With KRAS G12D",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-04-11",
+      "completion_date": "2019-08-28",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "The purpose of this study is to test the drug Bortezomib to see how well it works. The investigators want to find out what effects, good or bad, it has on patients with a limited smoking history or who have a specific mutation associated with their lung cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pathologic or cytologic evidence of non-small cell lung cancer (NSCLC)\n* Documented KRAS mutation\n* History of smoking \\< 100 cigarettes (never-smoker) OR patient with a KRAS G12D mutation regardless of smoking history\n* Clinical stage IIIB/IV or recurrent/medically inoperable",
+      "endpoints": [
+        "Radiographic Response Rate"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01833143"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01254630",
+      "title": "A Phase III Randomized, Placebo-Controlled, Clinical Trial to Study the Safety and Efficacy of V212 in Adult Patients With Solid Tumor or Hematologic Malignancy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-06-24",
+      "completion_date": "2017-04-11",
+      "country": "N/A",
+      "enrollment": 5305,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled study to assess the safety and tolerability of V212 when administered to adults with solid tumor malignancy (STM) receiving chemotherapy and to assess the impact of V212 on the development of herpes zoster (HZ) in adults with STM receiving chemotherapy. The primary hypothesis is that vaccination with V212 will reduce the incidence of HZ compared with placebo in adults with STM (lower bound of the 97.5% {one-sided α=0.0125} confidence interva",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Has been diagnosed with an STM or HM and is not likely to undergo hematopoietic cell transplant (HCT) and is either ≥18 years of age and receiving a cytotoxic or immunosuppressive chemotherapy regimen OR is ≥ 50 years of age with a hematologic malignancy that is not in remissi",
+      "endpoints": [
+        "Incidence of Confirmed Herpes-Zoster",
+        "Percentage of Participants With One or More Serious Adverse Events"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01254630"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04656821",
+      "title": "Ultrasound Guided Erector Spinae Block Versus Ultrasound Guided Thoracic Paravertebral Block for Pain Relief in Patients With Acute Thoracic Herpes Zoster",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2020-12-05",
+      "completion_date": "2021-06-20",
+      "country": "Egypt",
+      "enrollment": 90,
+      "brief_summary": "The aim of this research is to study and compare the efficacy and safety of single injection erector spinae plane block and thoracic paravertebral block in prevention of post herpetic neuralgia in patients with acute thoracic herpes zoster.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Over 50 years of age\n* Chest wall herpetic eruption of less than one week\n* Moderate or severe pain\n\nExclusion Criteria:\n\n* Patient refusal\n* Eruption more than one week duration\n* Patients who will not receive appropriate anti-viral therapy\n* Patients with mild pain\n* Infecti",
+      "endpoints": [
+        "The incidence of post herpetic neuralgia (PHN)"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04656821"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05708755",
+      "title": "Cytomegalovirus T Cell Immunity and Antiviral Prophylaxis Minimization in Lung Transplant Recipients",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-09-13",
+      "completion_date": "2026-09",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to determine the safety and feasibility of using a laboratory test to guide duration of antiviral prophylaxis with valganciclovir (medication used to prevent viral infections) after lung transplant. The laboratory test, inSIGHT™ CMV T Cell Immunity Panel, measures patients' immune response to a common viral infection known as cytomegalovirus (CMV). The goal of this study will be to safely decrease how long patients need to take valganciclovir based on the results of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Received a lung transplant, or multi-organ transplant involving a lung at NYU Langone Health\n2. Pre-existing serological immunity to CMV (R+)\n3. Able and willing to provide informed consent\n\nExclusion Criteria:\n\n1. Anti-thymocyte globulin induction immunosuppression\n2. Periop",
+      "endpoints": [
+        "CMV Viremia-Free Survival"
+      ],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT05708755"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00652184",
+      "title": "Phase 2/3 Multi-Center, Double-Blind, Controlled Trial Comparing Topical ARYS-01 (Sorivudine) Cream 3%, Oral Valaciclovir, and Combination Topical ARYS-01 Cream /Oral Valaciclovir for Treatment of Herpes Zoster in Immunocompetent Patients 18 Years of Age or Older",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2008-03",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "A multi-center, randomized, 4-arm, placebo-controlled, double-blind efficacy study of ARYS-01 (sorivudine) cream 3%.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least 18 years of age\n* diagnosed with herpes zoster\n* confirmed for VZV with lesion swab at screening and subsequent PCR test.\n* contraception for women of child-bearing potential\n* be able to communicate with investigator and compliant\n\nExclusion Criteria:\n\n* cytotoxic or",
+      "endpoints": [
+        "The effect of ARYS-01 (sorivudine) cream (with or without Valaciclovir) on the reduction of the crusting stage of VZV rash present at Day 8."
+      ],
+      "sponsor": "aRigen Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00652184"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03134196",
+      "title": "Long-term Suppressive Valacyclovir Treatment for Herpes Zoster Ophthalmicus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-23",
+      "completion_date": "2024-07-22",
+      "country": "Canada, United States",
+      "enrollment": 527,
+      "brief_summary": "This is a multi-center, randomized, double-masked, placebo-controlled clinical trial of suppressive valacyclovir for one year in immunocompetent study participants with an episode of dendriform epithelial keratitis, stromal keratitis, endothelial keratitis, and/or iritis due to Herpes Zoster Ophthalmicus (HZO) in the year prior to enrollment.",
+      "eligibility_criteria": "PARTICIPANT INCLUSION CRITERIA\n\nTo be eligible for study participation, an individual must meet all of the following criteria:\n\n1. Ability to understand, and willingness and ability to read and sign, the informed consent form.\n2. Ability to understand and follow instructions and study procedures.\n3.",
+      "endpoints": [
+        "Number of Participants With the First Occurrence of New or Worsening Stromal Keratitis Without Ulceration (SK), Endothelial Keratitis (EK), Iritis (IR), Dendriform Epithelial Keratitis (DEK), or Stromal Keratitis With Ulceration (SKU)"
+      ],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT03134196"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01327144",
+      "title": "A Prospective, Randomized, Multicenter Study of the Efficacy and Safety of Famciclovir 500 mg Comparing To Aciclovir 400mg in Patients With Herpes Zoster",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2017-07",
+      "country": "Brazil",
+      "enrollment": 177,
+      "brief_summary": "Herpes Zoster is an infection that affects part of the nervous system caused by Varicella Zoster Virus. Herpes Zoster manifests as vesicular eruption in the dermatome, often associated with significant pain.\n\nThere are effective oral prescription antiviral medicines available to reduce the discomfort of symptoms as famciclovir and aciclovir.\n\nThis is a phase III, multicenter, randomized, parallel-group study to compare the efficacy and safety of treatment with Famciclovir (500 mg) comparing to A",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be able to understand the study procedures, agree to participate and give written consent.\n* Patients with clinical diagnosis of Herpes Zoster;\n* Score higher than 4 for at least for 2 symptoms of Herpes Zoster;\n* Negative pregnant urine test\n\nExclusion Criteria:",
+      "endpoints": [
+        "For efficacy evaluation, a visual analogue scale (VAS) will be used to detect the improvement of symptoms"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT01327144"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132729",
+      "title": "A Single Dose, 2-Period, 2-Treatment 2-Way Crossover Bioequivalency Study of Valacyclovir Caplets Under Fasting Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The objective of this study was to prove the bioequivalence of Valacyclovir Hydrochlorothiazide Caplet under fasting conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal findings on the physical examination, medical history, or clinical laboratory results during screening\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with known enzyme altering drugs.\n* History of alle",
+      "endpoints": [
+        "bioequivalence determined by statistical comparison Cmax"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01132729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132716",
+      "title": "A Single Dose, 2-Period, 2-Treatment 2-Way Crossover Bioequivalency Study of Valacyclovir Caplets Under Fed Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The objective of this study was to prove the bioequivalence of Valacyclovir Hydrochlorothiazide Caplet under fed conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal findings on the physical examination, medical history, or clinical laboratory results during screening\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with known enzyme altering drugs.\n* History of alle",
+      "endpoints": [
+        "bioequivalence determined by statistical comparison Cmax"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01132716"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00487682",
+      "title": "Dose-finding Study of ASP2151 in Subjects With Herpes Zoster- A Multicenter, Randomized, Double-blind, Valacyclovir Hydrochloride-controlled, Parallel-group, Comparative Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11-13",
+      "completion_date": "2008-09-01",
+      "country": "Japan",
+      "enrollment": 403,
+      "brief_summary": "To investigate the efficacy and safety of three different doses of ASP2151, as compared to valacyclovir hydrochloride in subjects with herpes zoster, and to determine the recommended clinical dose.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged from 20 years to under 80 years on the day informed consent is obtained\n* Subjects to whom the study drugs can be orally administered within 72 hours after the onset of rash due to herpes zoster\n* Subjects in whom protocol-specified observations and assessments a",
+      "endpoints": [
+        "To compare the efficacy and safety of ASP2151 with valacyclovir in subjects with Herpes Zoster"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00487682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00059592",
+      "title": "Valacyclovir in Immunocompromised Children",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1998-04-07",
+      "completion_date": "2005-05-05",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "Shingles is an infection commonly seen in children with a weakened immune system (immunocompromised children). The immune system can be weakened as a result of medications that patients receive for cancer or other serious illness or as a result of a bone marrow transplantation. Shingles in children with a weakened immune system may spread throughout the body and in some instances may be life-threatening. Acyclovir is a medication that is routinely used to treat immunocompromised children with sh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\>/= 2 and \\</= 18 years old.\n* Patients must have a life expectancy of \\> 8 weeks.\n* Patients must be receiving chemotherapy or have been treated with bone marrow transplantation or chemotherapy for an underlying malignancy or medical condition in the past 12",
+      "endpoints": [],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00059592"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00209352",
+      "title": "Randomized Trial of Long-Term Oral Acyclovir Usage to Prevent Varicella Zoster Virus Infection After Allogeneic Bone Marrow Transplant",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1985-06",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "The objective of this study is to prevent reactivation of herpes zoster during the first year after transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 10 years or older\n* Both sex (male or female)\n* Allogeneic transplant patient for hematologic malignancy or aplastic anemia\n\nExclusion Criteria:\n\n* Previous intolerance to acyclovir\n* Patients who are unavailable for follow-up\n* Patients in whom drug compliance may be a proble",
+      "endpoints": [
+        "VZV infection at one year"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00209352"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01042704",
+      "title": "Phase I Study of Bendamustine in Combination With Lenalidomide (CC-5013) and Dexamethasone in Patients With Refractory or Relapsed Multiple Myeloma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The purpose of this study is to see if the combination of bendamustine, lenalidomide and dexamethasone will help people with multiple myeloma that has returned after standard treatment or has been resistant to other treatments.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed symptomatic Multiple Myeloma, Salmon-Durie Stage II or III or International Staging System II or III that has been previously treated with at least one cycle of a specific therapy; after which the patient has shown p",
+      "endpoints": [
+        "To establish the dose of each drug recommended for a future Phase II protocol with the combination"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01042704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04530162",
+      "title": "Prevention of Post Herpetic Neuralgia by Ultrasound Guided Single Nerve Block in the Emergency Department",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2021-10-01",
+      "completion_date": "2022-06-10",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Herpes zoster causes significant morbidity on over 1 million Americans every year. Although the majority of herpes zoster pain will self-resolve within one week, a significant proportion of patients will develop postherpetic neuralgia (PHN), which is characterized by debilitating pain that persists more than three months after the initial symptoms. Nerve blocks have been previously studied as a method to control herpes zoster pain in outpatient pain clinics and inpatient settings. This study aim",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age over 18\n2. herpes zoster pain\n3. pain onset within 30 days of characteristic dermatomal herpes zoster rash\n\nExclusion Criteria:\n\n1. allergic to bupivacaine\n2. signs of infection over herpes zoster site\n3. greater than 30 days duration of pain\n4. pain across more than one ",
+      "endpoints": [
+        "Incidence of subacute herpetic neuralgia"
+      ],
+      "sponsor": "Maimonides Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04530162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04081480",
+      "title": "Pharmacokinetics of a New Paediatric Formulation of Valacyclovir Used for Prophylaxis and Treatment of Varicella Zoster Virus (VZV) and Herpes Simplex Virus (HSV) Infections in Children, Phase II (VALID II)",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2019-12-10",
+      "completion_date": "2021-05-12",
+      "country": "Netherlands",
+      "enrollment": 7,
+      "brief_summary": "Valacyclovir has replaced acyclovir in many clinical scenarios. Pharmacokinetic data support the use of oral valacyclovir in children, but practical problems exist in children having to take adult-dose tablets. A formulation with acceptable palatability, good pharmaceutical quality and possibility of flexible dosing is developed. Pharmacokinetic data of this formulation is missing.\n\nThe present study investigates the pharmacokinetics of valacyclovir oral solution in children by determine the are",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is in the age of 2-12 years.\n* Subject has an indication for (val)acyclovir prophylaxis and are planned to receive valacyclovir oral solution.\n* Subject is managed with a central venous catheter (CVC/Port-a-Cath).\n* Subject's parents have signed the Informed Consent Fo",
+      "endpoints": [
+        "Area under the curve",
+        "Cmax",
+        "Tmax"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04081480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01250561",
+      "title": "Reduction of Postherpetic Neuralgia in Herpes Zoster",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 133,
+      "brief_summary": "The addition of gabapentin therapy to standard antiviral treatment with valacyclovir in acute herpes zoster patients will decrease the incidence of post-herpetic neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients of 50 years of age and older.\n* Patients with a clinical diagnosis of uncomplicated herpes zoster presenting within the first 72 hours of vesicles.\n* Patients who are willing and able to comply with the requirements of the study.\n* Patients who are will",
+      "endpoints": [
+        "Proportion of patients with zoster pain at 6 months"
+      ],
+      "sponsor": "Center for Clinical Studies, Texas",
+      "url": "https://clinicaltrials.gov/study/NCT01250561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02382588",
+      "title": "A Prospective, Double-masked, Placebo Controlled Comparison of Topical 0.15% Gancyclovir Gel (Zirgan) Versus 0.3% Hypromellose Gel (Genteal Gel; Placebo) for the Treatment of Herpes Zoster Keratitis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-12-10",
+      "completion_date": "2020-05-11",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "The purpose of this study is to evaluate the efficiency of topical gancyclovir 0.15% in the treatment of herpes zoster keratitis. Half the patients will receive the study drug while the other half of the patients will receive the placebo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18 and above\n* have not been on gancyclovir gel or any other form of topical antiviral therapy for the past month\n* able and willing to attend subsequent follow-up visits\n\nExclusion Criteria:\n\n* Associated retinitis\n* patients who are allergic to gancyclovir\n* patients who",
+      "endpoints": [
+        "Corneal Ulcer Healing"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT02382588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001054",
+      "title": "A Phase I Trial to Evaluate the Pharmacokinetics, Safety, and Tolerance of Valacyclovir HCl in HIV-1 Infected Children With Herpes Simplex Infections or Varicella/Zoster Infections",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2001-01",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "To obtain tolerance, safety, and pharmacokinetic data for oral valacyclovir hydrochloride ( 256U87 ) in HIV-1 infected children with herpes simplex virus infections ( cold sores ) and/or varicella / zoster virus infections ( chicken pox / shingles ).\n\nVaricella and zoster are common problems in HIV-infected children. It is believed that chronic oral therapy with acyclovir may result in subtherapeutic concentrations of acyclovir, resulting in resistance to that drug. Valacyclovir hydrochloride, w",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Antiretrovirals.\n* PCP prophylaxis.\n* IVIG, G-CSF, and erythropoietin.\n\nConcurrent Treatment:\n\nAllowed:\n\n* Transfusions.\n\nPatients must have:\n\n* Localized mucocutaneous herpes simplex OR undisseminated varicella or zoster.\n* HIV positive. NOTE:",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002315",
+      "title": "A Double-Blind, Multicenter Study Comparing Oral 882C87 With Oral Acyclovir for Treatment of Localized Herpes Zoster in Immunocompromised Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "To determine the efficacy of oral 882C87 compared with oral acyclovir in the treatment of localized herpes zoster in immunocompromised patients. To assess the safety and tolerance of oral 882C87 in immunocompromised patients.",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* Acute localized herpes zoster or rash present less than 72 hours, verified by clinical diagnosis.\n* Immunocompromised condition primarily as a result of documented HIV infection, malignancy, chemotherapy or radiation therapy, solid organ or bone marrow tran",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000953",
+      "title": "Evaluation of Brovavir ( BV-ara-U; SQ 32,756 ) Versus Acyclovir in the Treatment of Localized Herpes Zoster in HIV-Infected Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 180,
+      "brief_summary": "To compare the efficacy of oral sorivudine (brovavir) and oral acyclovir for the treatment of localized herpes zoster in HIV-infected patients.\n\nHIV-infected patients are at high risk for herpesvirus infections, including varicella-zoster virus ( VZV ) infections, also called shingles. Acyclovir, an approved drug, is widely used to treat VZV infections in the HIV population. Since no data from controlled studies are available to define the role of antiviral therapy for VZV infections in HIV-infe",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Medication for concurrent conditions (e.g., insulin, antihypertensives, bronchodilators, digoxin) or antibacterials or antifungals to treat concurrent infections at other sites or superinfection of the zoster lesion.\n* Anti-inflammatory, analge",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05041426",
+      "title": "An Open-label Pilot Protocol to Evaluate the Efficacy of Letermovir for the Prevention of Human Cytomegalovirus (CMV) Infection and Disease in Adult Lung Transplant Recipients With Idiopathic Pulmonary Fibrosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-12-06",
+      "completion_date": "2025-03-03",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "This is an interventional, open-label, single center, pilot study with historical controls to test the efficacy of letermovir (LET) for the prevention of CMV infection and disease in adult lung transplant recipients (LTRs) with idiopathic pulmonary fibrosis (IPF).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years on day of signing informed consent\n* Listed for lung transplantation (single or double) due to a diagnosis of IPF or receipt of a lung transplant (single or double) for IPF in the 72 hours prior to enrollment\n* Have a documented positive serostatus for CMV (CMV I",
+      "endpoints": [
+        "Occurrence of CMV infection or disease during prophylaxis",
+        "Occurrence of CMV infection or disease in the 3 months following completion of prophylaxis"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT05041426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00297206",
+      "title": "An Open-label, Single-dose, Multicenter, Pharmacokinetic, Safety and Tolerability Study of Valaciclovir Oral Suspension in Infants and Children.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-01-25",
+      "completion_date": "2007-02-28",
+      "country": "Chile, South Africa, United States",
+      "enrollment": 36,
+      "brief_summary": "Limited data are available on valaciclovir use in children and valaciclovir is not currently approved for use in pediatrics. The marketed formulation of valaciclovir is not ideal for use in pre-adolescent patients who may have trouble swallowing solid oral dosage forms. An extemporaneous suspension formulation of valaciclovir has been developed to expedite the provision of benefits to children similar to those from administration of valaciclovir solid formulations in adults.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects who have a current herpes virus infection.\n* Have neonatally acquired herpes at risk of potential recurrence.\n* Immunocompromised or cancer patients at risk for development of a herpes virus infection.\n\nExclusion criteria:\n\n* Hypersensitivity to antiherpetic medicatio",
+      "endpoints": [
+        "Plasma acyclovir and valaciclovir concentrations pre-dose (within 15 minutes of dose administration) and at 0.5, 1, 2, 4 and 6 hours following administration of the valaciclovir oral suspension dose."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00297206"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02879630",
+      "title": "Prospective Evaluation of Adjusted Body Weight Dosing of Acyclovir in Obesity",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2016-08",
+      "completion_date": "2025-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Patients receiving acyclovir as standard of care will be enrolled into this study. The currently recommended dosing strategy at our institution for obese patients is to receive intravenous acyclovir dosed per an adjusted body weight \\[IBW + 0.4(TBW-IBW)\\]. They will have blood drawn once prior to the first dose of acyclovir and 10 times thereafter, over a total time period of 12 hours. These patients will already be hospitalized for other reasons, and will not be required to make additional trip",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years of age\n* Receiving intravenous acyclovir 5 mg/kg (TBW for normal weight patients and ABW40 for obese patients) as part of their routine care\n* Weight \\> 190% of ideal body weight (IBW) for \"obese\" patients or weight 80-120% of IBW for matched control patients.\n\nE",
+      "endpoints": [
+        "Area under the curve (AUC) of systemic acyclovir exposure in obese and non-obese patients"
+      ],
+      "sponsor": "West Virginia University",
+      "url": "https://clinicaltrials.gov/study/NCT02879630"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01682109",
+      "title": "Palatability Testing of a New Paediatric Formulation of Valacyclovir for the Prophylaxis and Treatment of VZV and HSV Infections in Children",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2016-03",
+      "country": "Netherlands",
+      "enrollment": 41,
+      "brief_summary": "Palatability testing of a new paediatric formulation of valacyclovir in children 4-12 years of age and at least one of their parents. Children will be included, who received (val)acyclovir prophylaxis in the past, or will probably need it in the future i.e. children with primary immune deficiency or cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is at least 4 years of age.\n* Subject weighs at least 15kg.\n* Subject is capable of performing the taste assessment, according to the investigator's judgement.\n* The child and parent(s) are willing to participate in the taste assessment.\n* Signed informed consent by th",
+      "endpoints": [
+        "Selection of oral solution with best taste"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01682109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06476080",
+      "title": "Ultrasound Guided Serratus Anterior Versus Erector Spinae Block in Pain Alleviation in Acute Herpes Zoster: A Prospective Comparative Study",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-07-05",
+      "completion_date": "2025-04-15",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "Acute herpes zoster pain is very severe . Conventional analgesics may be of no value. Regional blocks may play a role",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult population between 30 and 75 years old.\n* Unilateral painful thoracic herpetic eruption of less than one week duration.\n* VAS more than or equal 4, persistent pain in spite of proper antiviral and analgesic therapy, (800 mg oral acyclovir, 5 times per day, for one week),",
+      "endpoints": [
+        "pain score"
+      ],
+      "sponsor": "Minia University",
+      "url": "https://clinicaltrials.gov/study/NCT06476080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01959841",
+      "title": "Phase III Study of ASP2151 in Herpes Zoster Patients- A Double-blind, Valaciclovir-controlled Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-08",
+      "completion_date": "2015-07-10",
+      "country": "Japan",
+      "enrollment": 751,
+      "brief_summary": "To evaluate the efficacy and safety of ASP2151 (200 mg and 400 mg) in comparison with valaciclovir (VACV) 3000 mg in patients with herpes zoster.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n(1) Patients who have a rash associated with herpes zoster, and who can start receiving the study drug within 72 hours after onset of the rash\n\nExclusion Criteria:\n\n1. Patients who are not expected to have an adequate response to oral antiviral medication\n2. An extreme decline i",
+      "endpoints": [
+        "The Percentage of Participants Achieving Cessation of New Lesion Formation by Day 4 of Study Treatment"
+      ],
+      "sponsor": "Maruho Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01959841"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01714180",
+      "title": "Effect of Body Mass on Acyclovir Pharmacokinetics",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "Studies have shown that different percentages of body fat can alter the way drugs are distributed in the body. This study will use blood samples taken at different time points for patients taking acyclovir to determine if higher body weights affect drug exposure. The information gathered from this study will help understand if patients with higher body weights need a different dosing plan.\n\nPatients receiving acyclovir as standard of care will be enrolled into this study. They will have blood dr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years of age\n* Receiving intravenous acyclovir 5 mg/kg (total body weight \\[TBW\\] for normal weight patients and ideal body weight \\[IBW\\] for obese patients) as part of their routine care\n* Admitted as an inpatient with an expected stay of at least 24 hours\n* Weight \\",
+      "endpoints": [
+        "Systemic clearance of acyclovir in obese and non-obese patients"
+      ],
+      "sponsor": "West Virginia University",
+      "url": "https://clinicaltrials.gov/study/NCT01714180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00831103",
+      "title": "A Randomized, Double-blind, Active-controlled, Multi-center, Parallel-group Dose-ranging Study Assessing the Safety and Efficacy of EPB-348 Versus Valacyclovir Among Immunocompetent Patients With an Acute Episode of Herpes Zoster",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 373,
+      "brief_summary": "The purpose of this study is to determine the pharmacokinetics and dosage of EPB-348 that best balances safety and efficacy among adult immunocompetent patients with an acute episode of herpes zoster.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female adults at least 18 years of age\n* Patients with signs and symptoms consistent with acute herpes zoster disease, namely, a dermatomal vesicular rash which may be preceded by pain and parasthesias in the days before vesicular eruption\n* Herpes Zoster associated r",
+      "endpoints": [
+        "To compare the time-to-crusting of vesicles on patients in each of the EPB-348 dosing arms versus the valacyclovir dosing arm."
+      ],
+      "sponsor": "Epiphany Biosciences",
+      "url": "https://clinicaltrials.gov/study/NCT00831103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02383797",
+      "title": "Immunodeficiency in Cartilage-hair Hypoplasia: Correlation With Pulmonary Disease, Infections and Malignancy",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-02",
+      "completion_date": "2020-02",
+      "country": "N/A",
+      "enrollment": 5,
+      "brief_summary": "The investigatoris will carefully select cartilage-hair hypoplasia patients unexposed to varicella (VZV) and immunize patients in a controlled manner with VZV vaccine. Patients will be selected on the basis of disease severity and the degree of immunodeficiency (including CD4+ T-cell counts). Any potential complication of VZV immunization, such as rash, will be discussed with the patients/caregivers beforehand and acyclovir will be used to treat any VZV related symptoms, consistent with the curr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* genetically confirmed cartilage-hair hypoplasia diagnosis\n* age \\>12 months\n* no history of chickenpox\n* informed concent of the patient/caregiver.\n\nExclusion Criteria:\n\n* positive serum IgG for varicella zoster virus\n* low CD4+ cell counts (\\<15% or \\<200 cells/mm3)\n* clinica",
+      "endpoints": [
+        "Humoral response to vaccination",
+        "Cell-mediated response to vaccination",
+        "Number and severity of adverse events to vaccination"
+      ],
+      "sponsor": "Helsinki University Central Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02383797"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06307444",
+      "title": "Ultrasound-Guided Erectro Spinae Plane Block Versus Stellate Ganglion Block for Patients With Upper Limb Acute Herpes Zoster Pain: Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-03-20",
+      "completion_date": "2025-02-01",
+      "country": "Egypt",
+      "enrollment": 93,
+      "brief_summary": "Herpes zoster (HZ) is a painful, eruptive, viral condition results from reactivation of the latent varicella zoster virus after the primary infection. The selection of an effective analgesic method in the acute phase of herpes zoster can decrease the incidence of postherpetic neuralgia by reducing neural sensitization. The stellate ganglion is present in 80% of the general population and is composed of the inferior cervical ganglion and the first thoracic ganglion fusion. It lies anterior to the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients over the age of 21 with upper limb herpetic eruption lasting shorter than a week along with moderate to severe pain who got adequate antiviral medications\n\nExclusion Criteria:\n\n* We will exclude patients who refuse to participate, those who are taking anticoagulant me",
+      "endpoints": [
+        "reduction of a numeric rating scale (NRS) pain score"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT06307444"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00900783",
+      "title": "A Phase II, Multicenter, Randomized, Double-Blind, Parallel-Group, Comparative Study of FV-100 vs. Valacyclovir in Patients With Herpes Zoster",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2010-12",
+      "country": "N/A",
+      "enrollment": 350,
+      "brief_summary": "The purpose of this study is to compare the safety and efficacy of two doses of FV-100 to valacyclovir in patients with herpes zoster, or shingles. FV-100 has shown to be very potent in cells infected with varicella zoster virus, the virus that causes shingles. The study objectives include:\n\n* Compare the safety of FV-100 to valacyclovir\n* Compare the effect of FV-100, as compared to valacyclovir, on shingles pain\n* Compare the effect of FV-100, as compared to valacyclovir, on shingles lesions",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 50 years of age\n* Patients with a clinical diagnosis of HZ as evidenced by a unilateral dermatomal rash\n* Patients with zoster-related pain (ZBPI worst pain score \\> 0)\n* Patients able to be enrolled into the study ≤ 72 hours from appearance of rash (i.e., lesi",
+      "endpoints": [
+        "Herpes zoster associated pain, as measured by the Zoster Brief Pain INventory (ZBPI)"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00900783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02328469",
+      "title": "Prospective Study of the Etiology, Pathogenesis, Clinical Picture and Outcome of Aseptic Meningitis in Slovenia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2014-06",
+      "completion_date": "2020-06",
+      "country": "Slovenia",
+      "enrollment": 800,
+      "brief_summary": "The main objective of this study is:\n\n* to establish etiology of acute aseptic meningitis/meningoencephalitis in Slovenia\n* to assess the clinical course and outcome of tick-borne encephalitis and Lyme neuroborreliosis\n* to characterize the inflammatory proteins, gene polymorphisms, and transcriptome profiles in patients with tick-borne encephalitis and Lyme neuroborreliosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical picture compatible with aseptic meningitis/meningoencephalitis\n* age 18 years or older\n* clear cerebrospinal fluid on macroscopic examination\n* cerebrospinal pleocytosis (\\> 5 x 106 white blood cells per liter)\n\nExclusion Criteria:\n\n* younger than 18 years\n* pregnant ",
+      "endpoints": [
+        "Changes in selected clinical parameters in patients with acute aseptic meningitis/meningoencephalitis",
+        "Changes in selected laboratory parameters in patients with acute aseptic meningitis/meningoencephalitis",
+        "Changes in selected microbiologic parameters in patients with acute aseptic meningitis/meningoencephalitis"
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "url": "https://clinicaltrials.gov/study/NCT02328469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02151240",
+      "title": "A Multi-centered, Randomized Study to Evaluate the Efficacy and Safety of Foscarnet Sodium and Sodium Chloride Injection Compared to Intravenous Acyclovir in Patients With Herpes Zoster From China",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2019-07",
+      "country": "China",
+      "enrollment": 94,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of Foscarnet Sodium and Sodium Chloride Injection in patients with herpes zoster, and observe incidence of Postherpetic neuralgia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1.Patients with clinical diagnosis of Herpes Zoster, and able to be enrolled into the study ≤ 72 hours from appearance of rash; 2.18-65 years old, men and women; 3.VAS score≥4; 4.Patients haven't receive any antiviral medication before enrollment; 5.Patients able to understand t",
+      "endpoints": [
+        "Effective rate"
+      ],
+      "sponsor": "Cttq",
+      "url": "https://clinicaltrials.gov/study/NCT02151240"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05550194",
+      "title": "VZV in the Enteric Nervous System: Pathogenesis and Consequences",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-03-27",
+      "completion_date": "2026-08",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "Varicella zoster virus (VZV) is the cause of chickenpox and shingles, but it also infects, becomes latent, and reactivates in nerve cells of the bowel to cause a gastrointestinal disorder (\"enteric shingles\"). The Investigators recently found that a chronic active VZV infection, a form of enteric shingles, is associated with achalasia, a severe disease in which the passage of food from esophagus to stomach is impaired. We now propose to eradicate VZV to determine whether its association with ach",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects aged 18-75 years old inclusive (females of childbearing potential should be on highly effective contraceptive methods)\n* Fluent in English and mentally capable to provide informed consent who present to Vanderbilt University Medical Center Digestive Di",
+      "endpoints": [
+        "Response of VZV-associated achalasia to anti-VZV therapy."
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05550194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05492591",
+      "title": "A Multicenter, Randomized, Active-controlled, Dose-finding Phase II Clinical Study Evaluating the Safety and Efficacy of Peginterferon α1b for Injection in Patients With Herpes Zoster",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-10-11",
+      "completion_date": "2023-07-22",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "To evaluate the efficacy, optimal dose and efficacy trend of multiple subcutaneous injections of peginterferon α1b in patients with herpes zoster, and provide support for phase III clinical trials.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must give informed consent to the study and agree to participate and give written consent before the study;\n* 18 Years to 75 Years （Including 18 and 75 years old），Male or Female;\n* Pain VAS score≥3;\n* Patients with clinical diagnosis of Herpes Zoster，According to the ",
+      "endpoints": [
+        "Time of stop increasing new blisters/pimples",
+        "Time of target herpes begins to scab",
+        "Time of complete scabbing of all herpes"
+      ],
+      "sponsor": "Shanghai Institute Of Biological Products",
+      "url": "https://clinicaltrials.gov/study/NCT05492591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01390857",
+      "title": "Special Drug Use Investigation for VALTREX (Valaciclovir) (Pediatrics Chickenpox)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2010-05",
+      "country": "N/A",
+      "enrollment": 379,
+      "brief_summary": "The purpose of this post-marketing surveillance study is to collect and assess information on safety and efficacy of valaciclovir in pediatric patients with chickenpox",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric patients with chickenpox (aged less than 15 years old).\n\nExclusion Criteria:\n\n* Patients with a history of hypersensitivity to the ingredients of valaciclovir or acyclovir.",
+      "endpoints": [
+        "Number of Participants With Any Serious Adverse Event"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01390857"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00006131",
+      "title": "Randomized Study of Two Doses of Oral Valacyclovir in Immunocompromised Patients With Uncomplicated Herpes Zoster",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1997-01",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 66,
+      "brief_summary": "OBJECTIVES:\n\nI. Compare the efficacy and safety of two doses of oral valacyclovir in immunocompromised patients with uncomplicated herpes zoster.\n\nII. Compare quality of life, pain, and medical resource utilization in patients treated with these 2 regimens.",
+      "eligibility_criteria": "PROTOCOL ENTRY CRITERIA:\n\n--Disease Characteristics--\n\nPatients with a clinical diagnosis of uncomplicated herpes zoster presenting within 72 hours after onset of zoster rash\n\nNo evidence of cutaneous or visceral dissemination of herpes zoster infection; cutaneous dissemination defined as at least 2",
+      "endpoints": [],
+      "sponsor": "National Center for Research Resources (NCRR)",
+      "url": "https://clinicaltrials.gov/study/NCT00006131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02412917",
+      "title": "A Multicenter, Randomized, Double-Blind, Parallel-Group, Comparative Study of FV-100 vs. Valacyclovir for the Prevention of Post-Herpetic Neuralgia and Treatment of Acute Herpes Zoster Associated Pain",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2015-06",
+      "completion_date": "2017-11",
+      "country": "United States",
+      "enrollment": 237,
+      "brief_summary": "This is a multicenter, randomized, double-blind, parallel-group, active controlled comparative study of the safety and efficacy of 2 dosing regimens of FV-100 versus valacyclovir administered for 7 days in subjects with uncomplicated AHZ(acute herpes zoster).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Receive a clinical diagnosis of uncomplicated AHZ as evidenced by a unilateral dermatomal rash\n* Have zoster-related pain\n* Are able to be randomized and receive their first dose within approximately 120 hours from appearance of rash\n\nExclusion Criteria:\n\n* Have multidermal or",
+      "endpoints": [
+        "The incidence of post-herpetic neuralgia(PHN) following treatment with 2 dose regimens of FV-100 compared to valacyclovir."
+      ],
+      "sponsor": "ContraVir",
+      "url": "https://clinicaltrials.gov/study/NCT02412917"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01229267",
+      "title": "A Phase III, Double-Blind, Randomized, Placebo-Controlled, Multicenter Clinical Trial to Study the Safety, Tolerability, Efficacy, and Immunogenicity of V212 in Recipients of Autologous Hematopoietic Cell Transplants (HCTs)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-11-30",
+      "completion_date": "2015-12-23",
+      "country": "N/A",
+      "enrollment": 1257,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled study to assess the safety and efficacy of inactivated VZV vaccine for the prevention of HZ and HZ-related complications in adult recipients of autologous hematopoietic cell transplants (HCTs). The primary hypothesis is that vaccination with V212 vaccine will reduce the incidence of herpes zoster (HZ) compared to placebo when administered to recipients of HCT. The statistical criterion for success requires that the lower bound of the 95% con",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has prior history of varicella, antibodies to VZV (documented prior to receipt of blood products), or residence in a country with endemic VZV infection for ≥30 years or if participant is \\<30 years old, attended primary or secondary school in a country with endemic VZV infecti",
+      "endpoints": [
+        "Incidence of Confirmed Herpes-Zoster",
+        "Percentage of Participants With One or More Serious Adverse Events"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01229267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02329457",
+      "title": "Efficacy and Safety of a Novel Intradermal Live-attenuated Varicella Zoster Vaccine in Hematopoietic Stem Cell Transplantation Donors: a Randomized Double Blind Placebo-controlled Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-12",
+      "completion_date": "2019-10",
+      "country": "Hong Kong",
+      "enrollment": 100,
+      "brief_summary": "Hematopoietic stem cell transplantation (HSCT) is well-established therapy for patients with malignant hematological diseases. Varicella zoster virus (VZV) reactivation, clinically manifested as herpes zoster (HZ), is a major complication that affects up to 50% of patients. Most patients will require hospitalization. Despite treatment with high dose acyclovir, patients may develop severe complications including the disabling postherpetic neuralgia, corneal ulceration, viral dissemination and sec",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients undergoing allogeneic hemopoietic stem cell transplant\n* HLA identical sibling donors\n* participants willing to provide written informed consents\n\nExclusion Criteria:\n\n* history of zoster in the 12 months prior to transplantation\n* exposure to VZV within 4 weeks of tr",
+      "endpoints": [
+        "Herpes Zoster Reactivation"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT02329457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04546334",
+      "title": "The Effect of Erector Spinae Plane Block on the Relief of Pain of Post-herpetic Neuralgia: Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-09-26",
+      "completion_date": "2021-06-19",
+      "country": "Egypt",
+      "enrollment": 90,
+      "brief_summary": "This randomized clinical study will be carried out on 72 patients admitted to the pain clinic in Tanta University Hospitals with post-herpetic neuralgia.\n\nCases presenting to the Pain Clinic with acute pain due to postherpetic neuralgia in thoracic and/or lumbar dermatomes with numerical rating scale (NRS) of 6 or more and they will be randomly divided, using the closed envelop method, into three equal groups.\n\nGroup A (24 patients): Patients will be subjected to the routine medical treatment of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Cases presenting to the Pain Clinic with acute pain due to postherpetic neuralgia in thoracic and/or lumbar dermatomes with a numerical rating scale (NRS) of 6 or more.\n\nExclusion Criteria:\n\n* Patients commenced on opioids for any other reason rather than postherpetic neuralgi",
+      "endpoints": [
+        "The efficacy of pain relief"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04546334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07349680",
+      "title": "Ultrasound-Guided Thoracic Paravertebral Block With Steroid and Local Anesthetic for Acute Herpes Zoster: Effects on Pain Control and Prevention of Postherpetic Neuralgia: A Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-03-15",
+      "completion_date": "2025-10-10",
+      "country": "Egypt",
+      "enrollment": 100,
+      "brief_summary": "Background: Acute herpes zoster causes severe neuropathic pain and may progress to postherpetic neuralgia (PHN). This study aims to evaluate ultrasound-guided thoracic paravertebral block with local anesthetic and steroid in reducing acute pain and PHN incidence.\n\nMethods: This prospective randomized study included 100 patients diagnosed with acute thoracic herpes zoster (rash ≤14 days, NRS ≥4). Participants were allocated into two groups: a control group receiving standard medical treatment and",
+      "eligibility_criteria": "Eligibility Criteria Inclusion Criteria\n\nAge 45-65 years\n\nDiagnosed with acute thoracic herpes zoster\n\nRash duration ≤ 14 days\n\nModerate to severe pain, defined as NRS ≥ 4\n\nTotal sample size: 100 patients\n\nExclusion Criteria\n\nContraindications to thoracic paravertebral block, including:\n\nCoagulopath",
+      "endpoints": [
+        "The primary outcome was the incidence of postherpetic neuralgia (PHN), defined as a Numerical Rating Scale (NRS) pain score ≥4 persisting 90 days after rash onset."
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT07349680"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05789615",
+      "title": "Letermovir Prophylaxis for Cytomegalovirus Infection in Haploidentical Allogeneic Hematopoietic Cell Transplant Recipients: Single-center Real-world Data in China",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-04-01",
+      "completion_date": "2025-01-10",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "In the 30 years of fighting CMV infection, the mortality rate among HSCT patients has significantly reduced. Now, the focus is on improving the prognosis of HSCT patients and preventing CMV infection. The emergence of letermovir has provided a new opportunity in this regard. Letermovir, the only drug approved for CMV infection prevention in HSCT patients, works by inhibiting the CMV DNA terminase complex. Phase III studies have shown that letermovir significantly reduces CMV infection and all-ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Haplo-SCT candidate (adult) who has decided to primary transplant and is willing to participate in the study.\n* The haplo-SCT candidate (adult) should be CMV seropositive recipients.\n\nExclusion Criteria:\n\n* CMV-seronegative patient receiving a negative CMV donor graft.\n* Patie",
+      "endpoints": [
+        "Incidence of clinically significant CMV infection"
+      ],
+      "sponsor": "The First Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT05789615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02231853",
+      "title": "Phase I/II Trial of Early Infusion of Rapidly-generated Multivirus Specific T Cells (MVST) to Prevent Post Transplant Viral Infections",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2014-09-03",
+      "completion_date": "2017-12-29",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "Allogeneic hematopoetic stem cell transplantation (SCT) is frequently complicated by life threatening viral reactivation. Conventional antiviral therapy is suboptimal for cytomegalovirus (CMV), adenovirus (AdV) and Epstein-Barr virus (EBV) and nonexistent for BK virus (BKV). An alternative approach to prevent viral reactivation is to infuse virus-specific cytotoxic T cells (CTL) prepared from the donor early after SCT. Such multivirus-specific CTL cells (MVST) have been successfully used in a nu",
+      "eligibility_criteria": "* INCLUSION CRITERIA: Recipient\n* Ages 18-75 years inclusive\n* Patients with hematologic malignancies who have signed consent for NHLBI transplant protocol 13-H-0144.\n* Susceptible to CMV reactivation post transplant (either donor or recipient need to be seropositive for CMV at any time prior to tra",
+      "endpoints": [
+        "Occurrence of dose limiting toxicity"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT02231853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01689285",
+      "title": "Bioequivalence Study in Healthy Volunteers of a New Paediatric Formulation of Valacyclovir Used for Prophylaxis and Treatment of VZV and HSV Infections in Children, Phase I (VALID-I)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2015-07",
+      "country": "Netherlands",
+      "enrollment": 16,
+      "brief_summary": "A new paediatric formulation (oral liquid) has been developed for flexible and accurate dosing of valacyclovir in children. To establish the bioavailability of this new formulation, healthy volunteers will be exposed to the new formulation and to valacyclovir tablets. The concentration of valacyclovir in their blood after exposure to the oral liquid will be measured and compared to the tablet.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is at least 18 and not older than 55 years of age at screening.\n* Subject does not smoke more than 10 cigarettes, 2 cigars, or 2 pipes per day for at least 3 months prior to the first dosing\n* Subject has a Quetelet Index (Body Mass Index) of 18 to 30 kg/m2, extremes i",
+      "endpoints": [
+        "Geometric Mean Ratios and 90% confidence intervals of pharmacokinetic parameters of acyclovir taken as valacyclovir tablet or oral solution"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01689285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04188327",
+      "title": "Utility of Early Serial Stellate Ganglion Block in Acute Herpes Zoster of Face and Neck",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-05-01",
+      "completion_date": "2025-02-02",
+      "country": "Egypt",
+      "enrollment": 208,
+      "brief_summary": "Patient who will be presented to Tanta University Hospitals complaining of acute herpes zoster with onset of vesicular eruption less than 7 days will be included in this clinical study.\n\nPatients will be excluded if they refused participation, had allergy to local anesthetics, coagulopathy, local infection, glaucoma, or neurological deficit.\n\nAll the patients will receive acyclovir (antiviral therapy) and pregablin (analgesic) and the patients will be classified into two groups:- Group I (contro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who is presented to the pain clinic, diagnosed with acute herpes zoster of the face and/ or neck with onset of vesicular eruption less than seven days\n\nExclusion Criteria:\n\n* Patient refusal or un-cooperation\n* Known history of allergy to local anesthetics\n* Local inf",
+      "endpoints": [
+        "Incidence of Post-herpetic neuralgia"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04188327"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00169416",
+      "title": "Clinical Evaluation of Valaciclovir Hydrochloride: 256U87 in Patients With Chickenpox - Open Uncontrolled Study.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2005-08",
+      "country": "N/A",
+      "enrollment": 43,
+      "brief_summary": "This study will assess the safety and efficacy, and the pharmacokinetics of aciclovir and valaciclovir in children with chickenpox following oral administration of valaciclovir, for the purpose of seeking approval of valaciclovir HCl for the treatment of chickenpox.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects aged 1 year to less than 12 years with a clinical diagnosis of chickenpox within 48 hours of the onset of the rash.\n\nExclusion criteria:\n\n* History of hypersensitivity reactions.\n* Impaired hepatic or renal function.\n* Gastrointestinal dysfunction.\n* Serious underlyin",
+      "endpoints": [
+        "Plasma aciclovir concentrations approximately 1 - 2 hours post-dose, and/or 1, 2, 4 and 6 hours following administration of the valaciclovir HCl granules 25mg/kg -dose."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00169416"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05198570",
+      "title": "Pharmacokinetics of Intravenous Acyclovir in Children Undergoing Hematopoietic Stem Cell Transplantation or High-intensity Antineoplastic Chemotherapy",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2021-09-15",
+      "completion_date": "2026-03-31",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "* Herpesvirus infections may be severe in immunocompromised patients, with a high risk of complications and mortality.\n* Recipients of hematopoietic stem cell transplant (HSCT) or patients receiving high-intensity chemotherapy for hematological malignancies are the most vulnerable individuals.\n* Although the worldwide prevalence of herpes simplex virus 1 (HSV-1) and varicella-zoster virus (VZV), antiviral prophylaxis in seropositive HSCT recipients has significantly reduced the rate of infection",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Hematological malignancies\n* HSCT recipients who require ACV prophylaxis or treatment for HSV-VZV infection or\n* Children undergoing high-intensity antineoplastic chemotherapy who need ACV treatment.\n* Intravenous or oral ACV dosing\n* Active/available a therapeut",
+      "endpoints": [
+        "Percentage of patients who achieve an acyclovir minimum plasma concentration of 0.5 mg/L at steady state"
+      ],
+      "sponsor": "University of Pisa",
+      "url": "https://clinicaltrials.gov/study/NCT05198570"
+    }
+  ],
+  "timestamp": "2026-03-04T14:51:41.353928",
+  "success": true,
+  "error_message": null
+}

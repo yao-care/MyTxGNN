@@ -1,0 +1,211 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Glycine",
+    "disease": "nasopharyngitis",
+    "query_string": "Glycine AND nasopharyngitis"
+  },
+  "data": {
+    "query": "Glycine AND nasopharyngitis",
+    "results": [
+      {
+        "pmid": "33964183",
+        "title": "Efficacy and safety of daprodustat in Japanese peritoneal dialysis patients.",
+        "abstract": "Daprodustat is a hypoxia-inducible factor-prolyl hydroxylase inhibitor for the treatment of anemia of chronic kidney disease. This phase 3 study evaluated the efficacy and safety of daprodustat in an uncontrolled cohort of 56 Japanese peritoneal dialysis patients with anemia over 52 weeks. Subjects received daprodustat 4 mg orally once daily for 4 weeks and the dose was subsequently adjusted every 4 weeks. Mean baseline hemoglobin was 10.9 g/dL (95% CI 10.59, 11.12). Mean hemoglobin reached the target range (11.0-13.0 g/dL) at week 12 and was maintained until week 52. Mean hemoglobin during weeks 40-52 was 12.1 g/dL (95% CI 12.0, 12.2). The most frequent adverse events included nasopharyngitis (29%), catheter-site infection (18%), peritonitis (16%), diarrhea (14%), and nausea (11%). No deaths were reported. Once-daily oral daprodustat treatment was generally well tolerated and mean hemoglobin was achieved and maintained within the target range in Japanese peritoneal dialysis participan",
+        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+        "year": "2021",
+        "authors": [
+          "Kanai Hidetoshi",
+          "Nangaku Masaomi",
+          "Nagai Reiko",
+          "Okuda Nobuhiko",
+          "Kurata Kyo"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Barbiturates",
+          "Cohort Studies",
+          "Female",
+          "Glycine",
+          "Humans",
+          "Japan",
+          "Male",
+          "Middle Aged",
+          "Peritoneal Dialysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33964183/"
+      },
+      {
+        "pmid": "32493693",
+        "title": "Phase 3, Randomized, Double-Blind, Active-Comparator (Darbepoetin Alfa) Study of Oral Roxadustat in CKD Patients with Anemia on Hemodialysis in Japan.",
+        "abstract": "Roxadustat is an oral hypoxia-inducible factor prolyl hydroxylase inhibitor approved in China for dialysis-dependent CKD anemia.",
+        "journal": "Journal of the American Society of Nephrology : JASN",
+        "year": "2020",
+        "authors": [
+          "Akizawa Tadao",
+          "Iwasaki Manabu",
+          "Yamaguchi Yusuke",
+          "Majikawa Yoshikatsu",
+          "Reusch Michael"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Contusions",
+          "Darbepoetin alfa",
+          "Diarrhea",
+          "Double-Blind Method",
+          "Female",
+          "Ferritins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32493693/"
+      },
+      {
+        "pmid": "32580188",
+        "title": "A Phase 3, Multicenter, Randomized, Two-Arm, Open-Label Study of Intermittent Oral Dosing of Roxadustat for the Treatment of Anemia in Japanese Erythropoiesis-Stimulating Agent-Naïve Chronic Kidney Disease Patients Not on Dialysis.",
+        "abstract": "Roxadustat is an oral hypoxia-inducible factor prolyl hydroxylase inhibitor approved for the treatment of anemia in Japan for patients with dialysis-dependent (DD) chronic kidney disease (CKD).",
+        "journal": "Nephron",
+        "year": "2020",
+        "authors": [
+          "Akizawa Tadao",
+          "Yamaguchi Yusuke",
+          "Otsuka Tetsuro",
+          "Reusch Michael"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Dialysis",
+          "Female",
+          "Glycine",
+          "Hematinics",
+          "Hemoglobins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32580188/"
+      },
+      {
+        "pmid": "31222951",
+        "title": "Intermittent Oral Dosing of Roxadustat in Peritoneal Dialysis Chronic Kidney Disease Patients with Anemia: A Randomized, Phase 3, Multicenter, Open-Label Study.",
+        "abstract": "Roxadustat is an oral hypoxia-inducible factor prolyl hydroxylase inhibitor developed to treat anemia in chronic kidney disease (CKD) patients. This Phase 3, randomized, open-label, 24-week study investigated the efficacy and safety of roxadustat in Japanese CKD patients with anemia on peritoneal dialysis (PD) who were previously treated or not treated with erythropoiesis stimulating agents (ESAs). Patients not previously receiving ESA (ESA-Naïve group) were randomized to roxadustat at a starting dose of 50 or 70 mg three times weekly; patients previously receiving ESA (ESA-Converted group) switched from ESA to roxadustat 70 or 100 mg three times weekly depending on the prior ESA dose. Outcomes included maintenance rate of average hemoglobin (Hb) level within 10-12 g/dL at weeks 18-24, cumulative response rate at end of treatment (Hb thresholds, 10.0 g/dL or 10.5 g/dL; Hb increase, ≥1.0 g/dL), and average Hb levels at weeks 18-24. Safety was assessed by occurrence of treatment-emergent",
+        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+        "year": "2020",
+        "authors": [
+          "Akizawa Tadao",
+          "Otsuka Tetsuro",
+          "Reusch Michael",
+          "Ueno Mai"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Glycine",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31222951/"
+      },
+      {
+        "pmid": "33650630",
+        "title": "Efficacy and safety of vadadustat compared with darbepoetin alfa in Japanese anemic patients on hemodialysis: a Phase 3, multicenter, randomized, double-blind study.",
+        "abstract": "Vadadustat is an oral hypoxia-inducible factor prolyl hydroxylase inhibitor that stimulates erythropoiesis.",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "2021",
+        "authors": [
+          "Nangaku Masaomi",
+          "Kondo Kazuoki",
+          "Ueta Kiichiro",
+          "Kokado Yoshimasa",
+          "Kaneko Genki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Darbepoetin alfa",
+          "Double-Blind Method",
+          "Erythropoietin",
+          "Glycine",
+          "Hematinics",
+          "Hemoglobins",
+          "Humans",
+          "Japan",
+          "Picolinic Acids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33650630/"
+      },
+      {
+        "pmid": "31891449",
+        "title": "Oral roxadustat three times weekly in ESA-naïve and ESA-converted patients with anemia of chronic kidney disease on hemodialysis: Results from two phase 3 studies.",
+        "abstract": "Roxadustat is a hypoxia-inducible factor prolyl hydroxylase inhibitor approved in China for anemia of dialysis-dependent chronic kidney disease (CKD). Japanese hemodialysis patients with anemia of CKD previously naïve to, or converted from, erythropoiesis-stimulating agents (ESAs) were enrolled in two open-label, noncomparative studies of titrated oral roxadustat administered three times weekly. ESA-naïve patients (n = 75) were randomized to roxadustat (initial dose, 50 or 70 mg) for 24 weeks; ESA-converted patients (n = 164) were assigned to roxadustat (initial dose, 70 or 100 mg based on prior ESA dose) for 52 weeks. Efficacy outcomes included average hemoglobin (Hb, weeks 18-24 or 46-52), change of Hb from baseline to weeks 18 to 24 (ΔHb18-24 ) or weeks 46 to 52 (ΔHb46-52 ), and maintenance rate (proportion of patients who achieved average Hb of 10.0-12.0 g/dL for weeks 18-24 or weeks 46-52). Treatment-emergent adverse events (TEAEs) were monitored. Mean (SD) Hb was 10.93 (0.79) g/d",
+        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+        "year": "2020",
+        "authors": [
+          "Akizawa Tadao",
+          "Ueno Mai",
+          "Shiga Takanori",
+          "Reusch Michael"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Drug Monitoring",
+          "Female",
+          "Glycine",
+          "Hematinics",
+          "Hemoglobins",
+          "Humans",
+          "Hypoxia-Inducible Factor-Proline Dioxygenases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31891449/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:14:42.764837",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Budesonide",
+    "drugbank_id": "DB01222"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 34
+  },
+  "indications": [
+    {
+      "disease": "asthma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 23,
+      "phase2": 6,
+      "phase4": 8
+    },
+    {
+      "disease": "inflammatory bowel disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 25,
+      "phase2": 9,
+      "phase4": 9
+    },
+    {
+      "disease": "allergic asthma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 25,
+      "articles": 18,
+      "phase3": 7,
+      "phase2": 7,
+      "phase4": 5
+    },
+    {
+      "disease": "intrinsic asthma",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 8,
+      "articles": 10,
+      "phase3": 0,
+      "phase2": 1,
+      "phase4": 3
+    },
+    {
+      "disease": "Crohn disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 29,
+      "articles": 19,
+      "phase3": 11,
+      "phase2": 5,
+      "phase4": 6
+    }
+  ]
+}

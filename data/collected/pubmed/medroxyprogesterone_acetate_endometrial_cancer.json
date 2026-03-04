@@ -1,0 +1,615 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "endometrial cancer",
+    "query_string": "Medroxyprogesterone Acetate AND endometrial cancer"
+  },
+  "data": {
+    "query": "Medroxyprogesterone Acetate AND endometrial cancer",
+    "results": [
+      {
+        "pmid": "12117397",
+        "title": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.",
+        "abstract": "Despite decades of accumulated observational evidence, the balance of risks and benefits for hormone use in healthy postmenopausal women remains uncertain.",
+        "journal": "JAMA",
+        "year": "2002",
+        "authors": [
+          "Rossouw Jacques E",
+          "Anderson Garnet L",
+          "Prentice Ross L",
+          "LaCroix Andrea Z",
+          "Kooperberg Charles"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Breast Neoplasms",
+          "Clinical Trials Data Monitoring Committees",
+          "Colorectal Neoplasms",
+          "Coronary Disease",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Fractures, Bone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12117397/"
+      },
+      {
+        "pmid": "37183712",
+        "title": "Depot medroxyprogesterone acetate and endometrial cancer: A multicenter case-control study.",
+        "abstract": "To assess the associations between depot medroxyprogesterone acetate (DMPA) and endometrial cancer.",
+        "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+        "year": "2023",
+        "authors": [
+          "Kietpeerakool Chumnan",
+          "Cheewakriangkrai Chalong",
+          "Rattanakanokchai Siwanon",
+          "Rattanalappaiboon Daungporn",
+          "Tiyayon Jitima"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Child, Preschool",
+          "Medroxyprogesterone Acetate",
+          "Case-Control Studies",
+          "Endometrial Neoplasms",
+          "Contraceptive Agents, Female",
+          "Endometrium",
+          "Delayed-Action Preparations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37183712/"
+      },
+      {
+        "pmid": "37160245",
+        "title": "Medroxyprogesterone acetate-resistant endometrial cancer cells are susceptible to ferroptosis inducers.",
+        "abstract": "Medroxyprogesterone acetate (MPA) is the most common fertility-sparing treatment in patients with early-stage endometrial cancer. If MPA treatment fails, hysterectomy is recommended. Thus, there is an urgent need for novel treatment approaches for MPA-resistant endometrial cancer patients who wish to preserve their fertility. Ferroptosis is a recently discovered type of regulated cell death caused by the excessive accumulation of reactive oxygen species (ROS), followed by aberrant lipid peroxidation. Recent studies have shown that inducing ferroptosis is a potential therapeutic strategy for cancer. However, the role of ferroptosis in endometrial cancer treatment remains to be discussed. We therefore investigated the effects of ferroptosis inducers on MPA-resistant endometrial cancer cells.",
+        "journal": "Life sciences",
+        "year": "2023",
+        "authors": [
+          "Murakami Hikaru",
+          "Hayashi Masami",
+          "Terada Shinichi",
+          "Ohmichi Masahide"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Ferroptosis",
+          "Medroxyprogesterone Acetate",
+          "Reactive Oxygen Species",
+          "Sulfasalazine",
+          "Endometrial Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37160245/"
+      },
+      {
+        "pmid": "35526471",
+        "title": "Reproductive and pregnancy outcomes of fertility-sparing treatments for early-stage endometrial cancer or atypical hyperplasia: A systematic review and meta-analysis.",
+        "abstract": "To report the pregnancy outcomes of women with prior endometrial cancer and endometrial hyperplasia managed with fertility-sparing treatments.",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2022",
+        "authors": [
+          "De Rocco Silvia",
+          "Buca Danilo",
+          "Oronzii Ludovica",
+          "Petrillo Marco",
+          "Fanfani Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Female",
+          "Fertility Preservation",
+          "Humans",
+          "Hyperplasia",
+          "Intrauterine Devices, Medicated",
+          "Levonorgestrel",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35526471/"
+      },
+      {
+        "pmid": "8200214",
+        "title": "Depot-medroxyprogesterone acetate (DMPA) and cancer of the endometrium and ovary.",
+        "abstract": "This review addresses possible associations between depot-medroxy-progesterone acetate (DMPA) and endometrial and epithelial ovarian cancers. Two unexpected endometrial carcinomas were observed at autopsy of rhesus monkeys treated for 10 years with 50 times the human doses of DMPA. A record linkage in the USA did not suggest any association between DMPA and endometrial cancer. A multicentre case-control study in Thailand showed a strong protective effect of DMPA for endometrial cancer. Studies from the USA, Mexico and Thailand did not observe any association between use of DMPA and epithelial ovarian cancer. The available information, therefore, indicates that use of DMPA protects against endometrial cancer and is not associated with epithelial ovarian cancer.",
+        "journal": "Contraception",
+        "year": "1994",
+        "authors": [
+          "Lumbiganon P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Macaca mulatta",
+          "Medroxyprogesterone Acetate",
+          "Ovarian Neoplasms",
+          "Thailand",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8200214/"
+      },
+      {
+        "pmid": "39173088",
+        "title": "Menopausal Hormone Therapy and Ovarian and Endometrial Cancers: Long-Term Follow-Up of the Women's Health Initiative Randomized Trials.",
+        "abstract": "Menopausal hormone therapy's influence on ovarian and endometrial cancers remains unsettled. Therefore, we assessed the long-term influence of conjugated equine estrogen (CEE) plus medroxyprogesterone acetate (MPA) and CEE-alone on ovarian and endometrial cancer incidence and mortality in the Women's Health Initiative randomized, placebo-controlled clinical trials.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2024",
+        "authors": [
+          "Chlebowski Rowan T",
+          "Aragaki Aaron K",
+          "Pan Kathy",
+          "Haque Reina",
+          "Rohan Thomas E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Follow-Up Studies",
+          "Incidence",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39173088/"
+      },
+      {
+        "pmid": "24084921",
+        "title": "Menopausal hormone therapy and health outcomes during the intervention and extended poststopping phases of the Women's Health Initiative randomized trials.",
+        "abstract": "Menopausal hormone therapy continues in clinical use but questions remain regarding its risks and benefits for chronic disease prevention.",
+        "journal": "JAMA",
+        "year": "2013",
+        "authors": [
+          "Manson JoAnn E",
+          "Chlebowski Rowan T",
+          "Stefanick Marcia L",
+          "Aragaki Aaron K",
+          "Rossouw Jacques E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Intramural"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Breast Neoplasms",
+          "Colorectal Neoplasms",
+          "Coronary Disease",
+          "Drug Therapy, Combination",
+          "Endometrial Neoplasms",
+          "Estrogens",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24084921/"
+      },
+      {
+        "pmid": "33025002",
+        "title": "Randomized Trial Evaluation of the Benefits and Risks of Menopausal Hormone Therapy Among Women 50-59 Years of Age.",
+        "abstract": "The health benefits and risks of menopausal hormone therapy among women aged 50-59 years are examined in the Women's Health Initiative randomized, placebo-controlled trials using long-term follow-up data and a parsimonious statistical model that leverages data from older participants to increase precision. These trials enrolled 27,347 healthy postmenopausal women aged 50-79 years at 40 US clinical centers during 1993-1998, including 10,739 post-hysterectomy participants in a trial of conjugated equine estrogens and 16,608 participants with a uterus in the trial of these estrogens plus medroxyprogesterone acetate. Over a (median) 18-year follow-up period (1993-2016), risk for a global index (defined as the earliest of coronary heart disease, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, endometrial cancer, hip fracture, and all-cause mortality) was reduced with conjugated equine estrogens with a hazard ratio of 0.82 (95% confidence interval: 0.71, 0.95), and wit",
+        "journal": "American journal of epidemiology",
+        "year": "2021",
+        "authors": [
+          "Prentice Ross L",
+          "Aragaki Aaron K",
+          "Chlebowski Rowan T",
+          "Rossouw Jacques E",
+          "Anderson Garnet L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Coronary Disease",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Hip Fractures",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Middle Aged",
+          "Neoplasms",
+          "Postmenopause"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33025002/"
+      },
+      {
+        "pmid": "8725705",
+        "title": "Depot medroxyprogesterone acetate contraception and the risk of breast and gynecologic cancer.",
+        "abstract": "As the use of depot medroxyprogesterone acetate (DMPA) contraception increases in the United States and worldwide, assessing any impact on the risk of breast and gynecologic cancers becomes increasingly important. Overall, use of DMPA does not affect breast cancer risk. An elevated risk of this disease, however, has been noted in recent or current users. Hence, the association between DMPA use and breast cancer risk appears similar to that observed with oral contraceptives. Use of DMPA is associated with an 80% risk reduction of endometrial adenocarcinoma, a level of protection even greater than that noted with oral contraceptives. The risk of epithelial ovarian cancer and cervical neoplasia does not appear to be affected by DMPA use. Except for a substantial reduction in the risk of endometrial adenocarcinoma, use of DMPA does not appear to influence reproductive tract cancer risks.",
+        "journal": "The Journal of reproductive medicine",
+        "year": "1996",
+        "authors": [
+          "Kaunitz A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Breast Neoplasms",
+          "Case-Control Studies",
+          "Contraceptive Agents, Female",
+          "Delayed-Action Preparations",
+          "Endometrial Neoplasms",
+          "Female",
+          "Genital Neoplasms, Female",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8725705/"
+      },
+      {
+        "pmid": "40967167",
+        "title": "Genomic and DNA methylomic factors associated with the efficacy of oral medroxyprogesterone acetate on endometrial neoplastic disease.",
+        "abstract": "There is growing demand for fertility-sparing treatments in women with endometrial neoplastic disease who wish to conceive. Although progestins, such as medroxyprogesterone acetate (MPA), have conventionally been used for this purpose, their efficacy remains inconsistent, even when patients are selected based on clinicopathological criteria, including eligible histology or the absence of myometrial invasion or extra-uterine disease. There is thus an urgent need to identify potential biomarkers to stratify patients for improved MPA efficacy. In this study, we sought to identify candidate biomarkers associated with an efficacious response to MPA among women with endometrial disease.",
+        "journal": "Gynecologic oncology",
+        "year": "2025",
+        "authors": [
+          "Sugiyama Yuko",
+          "Kosugi Mayuko",
+          "Gotoh Osamu",
+          "Tonooka Akiko",
+          "Sano Masatoshi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Medroxyprogesterone Acetate",
+          "Endometrial Neoplasms",
+          "DNA Methylation",
+          "Retrospective Studies",
+          "Middle Aged",
+          "Endometrial Hyperplasia",
+          "Adult",
+          "Antineoplastic Agents, Hormonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40967167/"
+      },
+      {
+        "pmid": "39092804",
+        "title": "Update on the oncologic and obstetric outcomes of medroxyprogesterone acetate treatment for atypical endometrial hyperplasia and endometrial cancer.",
+        "abstract": "To evaluate the safety and effectiveness of high-dose oral medroxyprogesterone acetate (MPA) therapy as a fertility-sparing treatment for patients diagnosed with atypical endometrial hyperplasia (AEH) and endometrioid carcinoma G1 without myometrial invasion (G1EC). Particular attention was given to the extended administration and readministration of MPA for patients with persistent disease following initial treatment and those with recurrence.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2024",
+        "authors": [
+          "Tamauchi Satoshi",
+          "Nakagawa Atsushi",
+          "Yoshida Kosuke",
+          "Yoshihara Masato",
+          "Yokoi Akira"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Medroxyprogesterone Acetate",
+          "Endometrial Hyperplasia",
+          "Adult",
+          "Endometrial Neoplasms",
+          "Retrospective Studies",
+          "Pregnancy",
+          "Fertility Preservation",
+          "Carcinoma, Endometrioid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39092804/"
+      },
+      {
+        "pmid": "35820883",
+        "title": "Metformin attenuates the production and proliferative effects of prolactin induced by medroxyprogesterone acetate during fertility-sparing treatment for endometrial cancer.",
+        "abstract": "Progestin is used for fertility-sparing treatment in cases of endometrial cancer (EC). Progestin can induce hyperprolactinemia by increasing pituitary secretion and endometrial decidualization. However, progestin induces prolactin (PRL) secretion, which stimulates cell proliferation and deleteriously affects treatment. To date, the detrimental effect of PRL, the secretion of which is induced by medroxyprogesterone acetate (MPA) during fertility-sparing treatment, has not yet been fully elucidated. Therefore, we aimed to assess the effects of PRL on EC cells during combined treatment with progestin and metformin.",
+        "journal": "BMC cancer",
+        "year": "2022",
+        "authors": [
+          "Gu Wenjing",
+          "Mitsuhashi Akira",
+          "Kobayashi Tatsuya",
+          "Shozu Makio"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Insulin-Like Growth Factor Binding Protein 1",
+          "Medroxyprogesterone Acetate",
+          "Metformin",
+          "Progestins",
+          "Prolactin",
+          "RNA, Messenger"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35820883/"
+      },
+      {
+        "pmid": "39765374",
+        "title": "Oncologic and pregnancy outcomes of fertility-sparing treatment with medroxyprogesterone acetate in women with premalignant and malignant endometrial lesions: A case series.",
+        "abstract": "Current trends of delaying childbearing and the increasing incidence of endometrial cancer in nulliparous woman necessitate research and development of fertility sparing treatments. Hormonal therapy with progestins offers an alternative to surgical treatment for a select group of patients of reproductive-age, who wish to preserve their reproductive potential.",
+        "journal": "European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology",
+        "year": "2025",
+        "authors": [
+          "Tofoski Gligor",
+          "Dimitrov Goran",
+          "Dzikova Elena",
+          "Markova Ana Daneva",
+          "Papestiev Irena Aleksioska"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Medroxyprogesterone Acetate",
+          "Fertility Preservation",
+          "Adult",
+          "Pregnancy",
+          "Endometrial Neoplasms",
+          "Endometrial Hyperplasia",
+          "Prospective Studies",
+          "Antineoplastic Agents, Hormonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39765374/"
+      },
+      {
+        "pmid": "40350707",
+        "title": "Characteristics of endometrial cancer progressed to extrauterine lesions following fertility preserving medroxyprogesterone acetate therapy for young endometrial cancer patients.",
+        "abstract": "Medroxyprogesterone acetate (MPA) is an effective fertility-preserving treatment for early endometrial cancer and atypical endometrial hyperplasia (AEH), and rarely leads to the development of extrauterine lesions (ELs). We aimed to clarify the characteristics of patients who developed ELs post-MPA therapy.",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2025",
+        "authors": [
+          "Kitazawa Shoko",
+          "Sakai Kensuke",
+          "Kawaida Miho",
+          "Chiyoda Tatsuyuki",
+          "Nishio Hiroshi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometrial Neoplasms",
+          "Medroxyprogesterone Acetate",
+          "Fertility Preservation",
+          "Adult",
+          "Endometrial Hyperplasia",
+          "Carcinoma, Endometrioid",
+          "Antineoplastic Agents, Hormonal",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40350707/"
+      },
+      {
+        "pmid": "31718641",
+        "title": "Medroxyprogesterone acetate causes the alterations of endoplasmic reticulum related mRNAs and lncRNAs in endometrial cancer cells.",
+        "abstract": "Progestin is effective to promote endometrial cancer (EC) cells apoptosis, however, continuous progestin administration causes low level of progestin receptor B (PRB), further resulting in progestin resistance. Here, we performed microarray analysis on Ishikawa cells (PRB+) treated with medroxyprogesterone acetate (MPA) to explore the molecular mechanism underlying the inhibitory influence of MPA on PRB+ EC cells.",
+        "journal": "BMC medical genomics",
+        "year": "2019",
+        "authors": [
+          "Cao Wenjiao",
+          "Gao Wuyuan",
+          "Zheng Panchan",
+          "Sun Xiao",
+          "Wang Lihua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Cell Line, Tumor",
+          "Contraceptive Agents, Hormonal",
+          "Endometrial Neoplasms",
+          "Endoplasmic Reticulum",
+          "Endoplasmic Reticulum Stress",
+          "Female",
+          "Gene Expression Regulation, Neoplastic",
+          "Humans",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31718641/"
+      },
+      {
+        "pmid": "29121428",
+        "title": "Efficacy of medroxyprogesterone acetate treatment and retreatment for atypical endometrial hyperplasia and endometrial cancer.",
+        "abstract": "Medroxyprogesterone acetate (MPA) is used to preserve fertility in patients with Grade 1 endometrial cancer without myometrial invasion (G1EA) and those with atypical endometrial hyperplasia (AEH). However, the efficacy of retreatment with MPA has not been sufficiently established for patients who experience recurrence but wish to retain their fertility. This study aimed to show the effectiveness of MPA treatment and retreatment for AEH and G1EA.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2018",
+        "authors": [
+          "Tamauchi Satoshi",
+          "Kajiyama Hiroaki",
+          "Utsumi Fumi",
+          "Suzuki Shiro",
+          "Niimi Kaoru"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Agents, Hormonal",
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Neoplasm Recurrence, Local",
+          "Outcome Assessment, Health Care",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29121428/"
+      },
+      {
+        "pmid": "36662363",
+        "title": "Obstetric outcomes after medroxyprogesterone acetate treatment for early stage endometrial cancer or atypical endometrial hyperplasia: a single hospital-based study.",
+        "abstract": "To investigate perinatal outcomes in pregnancy after high-dose medroxyprogesterone acetate (MPA) therapy for early stage endometrial cancer (EC) and atypical endometrial hyperplasia (AEH) and to determine whether pregnancy after MPA therapy is at a higher risk of placenta accreta.",
+        "journal": "International journal of clinical oncology",
+        "year": "2023",
+        "authors": [
+          "Oishi Maki",
+          "Kasuga Yoshifumi",
+          "Fukuma Yuka",
+          "Hamuro Asuka",
+          "Tamai Junko"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Dilatation and Curettage",
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Hospitals",
+          "Medroxyprogesterone Acetate",
+          "Neoplasm Staging",
+          "Placenta Accreta"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36662363/"
+      },
+      {
+        "pmid": "38789396",
+        "title": "A phase II trial evaluating the efficacy and safety of repeated high dose medroxyprogesterone acetate (MPA) therapy for patients with recurrent early-stage endometrial cancer or atypical endometrial hyperplasia: Japanese Gynecologic Oncology Group study (JGOG2051/KGOG2031, REMPA trial).",
+        "abstract": "Fertility preserving therapy using medroxyprogesterone acetate (MPA) is an important option for young patients with endometrial cancer or atypical endometrial hyperplasia (AEH). However, the effectiveness and feasibility of repeated MPA therapy for patients with intrauterine recurrence following initial MPA therapy is controversial. Only a few single-institution retrospective studies have been conducted on repeated MPA therapy, therefore, multicenter prospective studies for repeated MPA therapy are highly needed. The aim of this study is to assess whether repeated MPA therapy is effective and feasible for patients with intrauterine recurrence following initial MPA therapy.",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2024",
+        "authors": [
+          "Sakai Kensuke",
+          "Yamagami Wataru",
+          "Sato Yasunori",
+          "Susumu Nobuyuki",
+          "Yokoyama Yoshihito"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Antineoplastic Agents, Hormonal",
+          "Carcinoma, Endometrioid",
+          "East Asian People",
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Fertility Preservation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38789396/"
+      },
+      {
+        "pmid": "39805314",
+        "title": "Long-acting, progestin-based contraceptives and risk of breast, gynecological, and other cancers.",
+        "abstract": "Use of long-acting, reversible contraceptives has increased over the past 20 years, but an understanding of how they could influence cancer risk is limited.",
+        "journal": "Journal of the National Cancer Institute",
+        "year": "2025",
+        "authors": [
+          "Tuesley Karen M",
+          "Spilsbury Katrina",
+          "Pearson Sallie-Anne",
+          "Donovan Peter",
+          "Obermair Andreas"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Case-Control Studies",
+          "Breast Neoplasms",
+          "Adult",
+          "Middle Aged",
+          "Levonorgestrel",
+          "Genital Neoplasms, Female",
+          "Medroxyprogesterone Acetate",
+          "Australia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39805314/"
+      },
+      {
+        "pmid": "37500122",
+        "title": "Medroxyprogesterone as the Initial Systemic Treatment of Recurrent Endometrial Cancer: A Single Institutional Study.",
+        "abstract": "Hormonal treatment is the preferred initial systemic therapy for patients with advanced or recurrent G1 or G2 endometrial cancer (EC) in terms of efficacy, toxicity, and economy. Few reports are available on the topic and we, therefore, conducted a retrospective study.",
+        "journal": "Anticancer research",
+        "year": "2023",
+        "authors": [
+          "Korosue Maiko",
+          "Nakagawa Kohei",
+          "Yoshiyasu Kanako",
+          "Narita Sachiyo",
+          "Isono-Taniguchi Roze"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Aged",
+          "Medroxyprogesterone",
+          "Medroxyprogesterone Acetate",
+          "Retrospective Studies",
+          "Neoplasm Recurrence, Local",
+          "Endometrial Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37500122/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:00:29.570236",
+  "success": true,
+  "error_message": null
+}

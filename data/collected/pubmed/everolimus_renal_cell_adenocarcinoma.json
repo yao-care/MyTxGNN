@@ -1,0 +1,653 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Everolimus",
+    "disease": "renal cell adenocarcinoma",
+    "query_string": "Everolimus AND renal cell adenocarcinoma"
+  },
+  "data": {
+    "query": "Everolimus AND renal cell adenocarcinoma",
+    "results": [
+      {
+        "pmid": "39167807",
+        "title": "Belzutifan versus Everolimus for Advanced Renal-Cell Carcinoma.",
+        "abstract": "Belzutifan, a hypoxia-inducible factor 2α inhibitor, showed clinical activity in clear-cell renal-cell carcinoma in early-phase studies.",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Choueiri Toni K",
+          "Powles Thomas",
+          "Peltola Katriina",
+          "de Velasco Guillermo",
+          "Burotto Mauricio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antineoplastic Agents",
+          "Carcinoma, Renal Cell",
+          "Everolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39167807/"
+      },
+      {
+        "pmid": "33616314",
+        "title": "Lenvatinib plus Pembrolizumab or Everolimus for Advanced Renal Cell Carcinoma.",
+        "abstract": "Lenvatinib in combination with pembrolizumab or everolimus has activity against advanced renal cell carcinoma. The efficacy of these regimens as compared with that of sunitinib is unclear.",
+        "journal": "The New England journal of medicine",
+        "year": "2021",
+        "authors": [
+          "Motzer Robert",
+          "Alekseev Boris",
+          "Rha Sun-Young",
+          "Porta Camillo",
+          "Eto Masatoshi"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33616314/"
+      },
+      {
+        "pmid": "26482279",
+        "title": "Lenvatinib, everolimus, and the combination in patients with metastatic renal cell carcinoma: a randomised, phase 2, open-label, multicentre trial.",
+        "abstract": "Currently, metastatic renal cell carcinoma is treated with sequential single agents targeting VEGF or mTOR. Here, we aimed to assess lenvatinib, everolimus, or their combination as second-line treatment in patients with metastatic renal cell carcinoma.",
+        "journal": "The Lancet. Oncology",
+        "year": "2015",
+        "authors": [
+          "Motzer Robert J",
+          "Hutson Thomas E",
+          "Glen Hilary",
+          "Michaelson M Dror",
+          "Molina Ana"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Female",
+          "Humans",
+          "Kidney Neoplasms",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26482279/"
+      },
+      {
+        "pmid": "26406148",
+        "title": "Nivolumab versus Everolimus in Advanced Renal-Cell Carcinoma.",
+        "abstract": "Nivolumab, a programmed death 1 (PD-1) checkpoint inhibitor, was associated with encouraging overall survival in uncontrolled studies involving previously treated patients with advanced renal-cell carcinoma. This randomized, open-label, phase 3 study compared nivolumab with everolimus in patients with renal-cell carcinoma who had received previous treatment.",
+        "journal": "The New England journal of medicine",
+        "year": "2015",
+        "authors": [
+          "Motzer Robert J",
+          "Escudier Bernard",
+          "McDermott David F",
+          "George Saby",
+          "Hammers Hans J"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Agents",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26406148/"
+      },
+      {
+        "pmid": "26406150",
+        "title": "Cabozantinib versus Everolimus in Advanced Renal-Cell Carcinoma.",
+        "abstract": "Cabozantinib is an oral, small-molecule tyrosine kinase inhibitor that targets vascular endothelial growth factor receptor (VEGFR) as well as MET and AXL, each of which has been implicated in the pathobiology of metastatic renal-cell carcinoma or in the development of resistance to antiangiogenic drugs. This randomized, open-label, phase 3 trial evaluated the efficacy of cabozantinib, as compared with everolimus, in patients with renal-cell carcinoma that had progressed after VEGFR-targeted therapy.",
+        "journal": "The New England journal of medicine",
+        "year": "2015",
+        "authors": [
+          "Choueiri Toni K",
+          "Escudier Bernard",
+          "Powles Thomas",
+          "Mainwaring Paul N",
+          "Rini Brian I"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anilides",
+          "Antineoplastic Agents",
+          "Carcinoma, Renal Cell",
+          "Disease-Free Survival",
+          "Everolimus",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26406150/"
+      },
+      {
+        "pmid": "32673417",
+        "title": "Nivolumab versus everolimus in patients with advanced renal cell carcinoma: Updated results with long-term follow-up of the randomized, open-label, phase 3 CheckMate 025 trial.",
+        "abstract": "CheckMate 025 has shown superior efficacy for nivolumab over everolimus in patients with advanced renal cell carcinoma (aRCC) along with improved safety and tolerability. This analysis assesses the long-term clinical benefits of nivolumab versus everolimus.",
+        "journal": "Cancer",
+        "year": "2020",
+        "authors": [
+          "Motzer Robert J",
+          "Escudier Bernard",
+          "George Saby",
+          "Hammers Hans J",
+          "Srinivas Sandhya"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Kidney Neoplasms",
+          "Male",
+          "Nivolumab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32673417/"
+      },
+      {
+        "pmid": "27279544",
+        "title": "Cabozantinib versus everolimus in advanced renal cell carcinoma (METEOR): final results from a randomised, open-label, phase 3 trial.",
+        "abstract": "Cabozantinib is an oral inhibitor of tyrosine kinases including MET, VEGFR, and AXL. The randomised phase 3 METEOR trial compared the efficacy and safety of cabozantinib versus the mTOR inhibitor everolimus in patients with advanced renal cell carcinoma who progressed after previous VEGFR tyrosine-kinase inhibitor treatment. Here, we report the final overall survival results from this study based on an unplanned second interim analysis.",
+        "journal": "The Lancet. Oncology",
+        "year": "2016",
+        "authors": [
+          "Choueiri Toni K",
+          "Escudier Bernard",
+          "Powles Thomas",
+          "Tannir Nizar M",
+          "Mainwaring Paul N"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anilides",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Kidney Neoplasms",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27279544/"
+      },
+      {
+        "pmid": "36459768",
+        "title": "Efficacy and safety of vorolanib plus everolimus in metastatic renal cell carcinoma: A three-arm, randomised, double-blind, multicentre phase III study (CONCEPT).",
+        "abstract": "Vorolanib is a highly potent tyrosine kinase inhibitor (TKI) targeting vascular endothelial growth factor receptor (VEGFR) and platelet-derived growth factor receptor. This three-arm, randomised, registered study aimed to assess the combination of vorolanib and everolimus or vorolanib alone versus a control arm of everolimus as second-line treatment in patients with metastatic renal cell carcinoma (RCC).",
+        "journal": "European journal of cancer (Oxford, England : 1990)",
+        "year": "2023",
+        "authors": [
+          "Sheng Xinan",
+          "Ye Dingwei",
+          "Zhou Aiping",
+          "Yao Xin",
+          "Luo Hong"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Kidney Neoplasms",
+          "Protein Kinase Inhibitors",
+          "Receptors, Vascular Endothelial Growth Factor",
+          "Vascular Endothelial Growth Factor A",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Indoles",
+          "Pyrroles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36459768/"
+      },
+      {
+        "pmid": "39119834",
+        "title": "Methuosis Inducer SGI-1027 Cooperates with Everolimus to Promote Apoptosis and Pyroptosis by Triggering Lysosomal Membrane Permeability in Renal Cancer.",
+        "abstract": "The mTOR inhibitor everolimus has been approved as a sequential or second-line therapy for renal cell carcinoma (RCC). However, the development of drug resistance limits its clinical applications. This study aims to address the challenge of everolimus resistance and provide new insights into the treatment of advanced RCC. Here, the cytotoxicity of the DNA methyltransferase 1 (DNMT1) inhibitor SGI-1027 in inducing cell vacuolation and methuosis is discovered and demonstrated for the first time. Additionally, SGI-1027 exerts synergistic effects with everolimus, as their combination suppresses the growth, migration, and invasion of renal cancer cells. Mechanistically, apoptosis and GSDME-dependent pyroptosis triggered by lysosomal membrane permeability (LMP) are observed. The upregulation of GSDME expression and increased lysosomal activity in renal cancer cells provide a therapeutic window for the combination of these two drugs to treat renal cancer. The combination treatment exhibits ef",
+        "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+        "year": "2024",
+        "authors": [
+          "Luo Yu",
+          "Guan Bing",
+          "Deng Xiaoqi",
+          "Bai Peide",
+          "Huang Haichao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Everolimus",
+          "Kidney Neoplasms",
+          "Humans",
+          "Apoptosis",
+          "Pyroptosis",
+          "Mice",
+          "Animals",
+          "Carcinoma, Renal Cell",
+          "Lysosomes",
+          "Cell Line, Tumor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39119834/"
+      },
+      {
+        "pmid": "34648917",
+        "title": "Everolimus accelerates Erastin and RSL3-induced ferroptosis in renal cell carcinoma.",
+        "abstract": "Renal cell carcinoma (RCC) is a common type of urological cancer and is often diagnosed at an advanced stage. Everolimus, an inhibitor of mammalian target of rapamycin (mTOR), is used as second-line therapy for sorafenib- or sunitinib-refractory metastatic RCC. However, the clinical benefits of Everolimus are often hampered by drug resistance. Ferroptosis is a novel form of regulated cell death that has recently been implicated in the development and therapeutic responses to different cancers. RSL3 ((1S,3R)-RSL3) and Erastin are two experimental compounds that can induce ferroptosis. In the present study, we evaluated the anti-tumor effects of Everolimus in combination with RSL3 or Erastin in RCC. Everolimus and RSL3/Erastin could synergistically inhibit the viability and induce ferroptosis in RCC cells. Mechanistically, the inhibition of the mTOR-4EBP1 axis was found to be essential for the synergistic effects of Everolimus and RSL3/Erastin. Moreover, the forced expression of GPX4 abr",
+        "journal": "Gene",
+        "year": "2022",
+        "authors": [
+          "Yangyun Wang",
+          "Guowei Shi",
+          "Shufen Shi",
+          "Jie Yao",
+          "Rui Yu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carbolines",
+          "Carcinoma, Renal Cell",
+          "Cell Line, Tumor",
+          "Everolimus",
+          "Ferroptosis",
+          "Humans",
+          "Kidney Neoplasms",
+          "Lipid Peroxidation",
+          "Phospholipid Hydroperoxide Glutathione Peroxidase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34648917/"
+      },
+      {
+        "pmid": "39106067",
+        "title": "Adjuvant Everolimus in Non-Clear Cell Renal Cell Carcinoma: A Secondary Analysis of a Randomized Clinical Trial.",
+        "abstract": "Clinical trial data on adjuvant therapy in patients with non-clear cell renal cell carcinoma (RCC) are scant.",
+        "journal": "JAMA network open",
+        "year": "2024",
+        "authors": [
+          "Gulati Shuchi",
+          "Tangen Catherine",
+          "Ryan Christopher W",
+          "Vaishampayan Ulka N",
+          "Shuch Brian M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Everolimus",
+          "Male",
+          "Carcinoma, Renal Cell",
+          "Female",
+          "Middle Aged",
+          "Kidney Neoplasms",
+          "Aged",
+          "Chemotherapy, Adjuvant",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39106067/"
+      },
+      {
+        "pmid": "20179227",
+        "title": "Everolimus.",
+        "abstract": "Everolimus, an orally administered rapamycin analog, has recently been approved by the U.S. Food and Drug Administration for treatment of renal cell carcinoma (RCC) refractory to inhibitors of vascular endothelial growth factor (VEGF) receptor signaling. Everolimus significantly increased progression-free survival (median PFS for the everolimus treated group was 4.0 months versus 1.9 months for the placebo group), although tumor regressions were observed only infrequently. Although the target for everolimus, [the serine-threonine kinase mammalian target of rapamycin (mTOR)] is well established, the mechanism by which this agent retards tumor growth is not well defined. Further, biomarkers that predict tumor sensitivity are still elusive. The mechanism of action, preclinical antitumor activity, and clinical activity of everolimus against RCC are reviewed.",
+        "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "year": "2010",
+        "authors": [
+          "Houghton Peter J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Carcinoma, Renal Cell",
+          "Clinical Trials as Topic",
+          "Everolimus",
+          "Humans",
+          "Kidney Neoplasms",
+          "Sirolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20179227/"
+      },
+      {
+        "pmid": "35885994",
+        "title": "Synergic Effect of Metformin and Everolimus on Mitochondrial Dynamics of Renal Cell Carcinoma.",
+        "abstract": "Renal cell carcinoma (RCC) frequently recurs or metastasizes after surgical resection. Everolimus, an mTOR inhibitor, is used as a second-line treatment, but the response of RCC to everolimus is insufficient. Metformin is an antidiabetic drug; recent reports have indicated its anti-cancer effects in various cancers, and it is known to have synergistic effects with other drugs. We investigated the possibility of coadministering everolimus and metformin as an effective treatment for RCC. RCC cells treated with a combination of the two drugs showed significantly inhibited cell viability, cell migration, and invasion, and increased apoptosis compared to those treated with each drug alone. An anti-cancer synergistic effect was also confirmed in the xenograft model. Transcriptome analysis for identifying the underlying mechanism of the combined treatment showed the downregulation of mitochondrial fusion genes and upregulation of mitochondrial fission genes by the combination treatment. Chang",
+        "journal": "Genes",
+        "year": "2022",
+        "authors": [
+          "Hong Seong-Hwi",
+          "Lee Kwang-Suk",
+          "Hwang Hyun-Ji",
+          "Park Sung-Yul",
+          "Han Woong-Kyu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Carcinoma, Renal Cell",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Everolimus",
+          "Humans",
+          "Kidney Neoplasms",
+          "Metformin",
+          "Mitochondrial Dynamics",
+          "Neoplasm Recurrence, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35885994/"
+      },
+      {
+        "pmid": "40112850",
+        "title": "Health-related quality of life with belzutifan versus everolimus for advanced renal cell carcinoma (LITESPARK-005): patient-reported outcomes from a randomised, open-label, phase 3 trial.",
+        "abstract": "The first-in-class hypoxia-inducible factor-2α (HIF-2α) inhibitor belzutifan is approved for patients with advanced renal cell carcinoma previously treated with immune checkpoint and anti-angiogenic therapy based on results of the phase 3 LITESPARK-005 trial. We present patient-reported outcomes (PROs) from LITESPARK-005.",
+        "journal": "The Lancet. Oncology",
+        "year": "2025",
+        "authors": [
+          "Powles Thomas",
+          "Choueiri Toni K",
+          "Albiges Laurence",
+          "Peltola Katriina",
+          "de Velasco Guillermo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Quality of Life",
+          "Patient Reported Outcome Measures",
+          "Male",
+          "Female",
+          "Kidney Neoplasms",
+          "Middle Aged",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40112850/"
+      },
+      {
+        "pmid": "20830316",
+        "title": "Everolimus in renal cell carcinoma.",
+        "abstract": "Everolimus (also known as RAD-001; Afinitor®) is an orally active inhibitor of the intracellular protein kinase mammalian target of rapamycin. The U.S. Food and Drug Administration and the European Medicines Agency recently approved everolimus for the treatment of advanced renal cell carcinoma (RCC) on the basis of the results of a randomized phase III clinical trial. In the trial, 10 mg daily everolimus was effective and well tolerated by patients with advanced RCC, whose disease had progressed while under the treatment with sunitinib and/or sorafenib. Everolimus treatment led to 36% of 6-month progression-free survival (PFS) rate and 31% of 3-month PFS rate. Most of the adverse events were mild to moderate (grade 1-2) in severity. The most frequent grade 3-4 adverse events were stomatitis, fatigue, pneumonitis and infections. Clinical trials on everolimus in combination with sunitinib, sorafenib, imatinib and vatalanib for the treatment of RCC are ongoing.",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2010",
+        "authors": [
+          "Wang Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Carcinoma, Renal Cell",
+          "Disease-Free Survival",
+          "Drug Interactions",
+          "Everolimus",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Kidney Neoplasms",
+          "Protein Kinase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20830316/"
+      },
+      {
+        "pmid": "28920492",
+        "title": "Recommendations on managing lenvatinib and everolimus in patients with advanced or metastatic renal cell carcinoma.",
+        "abstract": "There are several second-line treatment options for patients with renal cell carcinoma after first-line failure of a tyrosine kinase inhibitor, especially with the recent approvals of cabozantinib, nivolumab, and the lenvatinib plus everolimus combination. A lack of reliable biomarkers and an overall lack of prospective head-to-head comparisons make it a challenge to choose a second-line treatment in the clinic. Areas covered: In this review/meta-opinion, we describe the safety profile of the lenvatinib plus everolimus combination in renal cell carcinoma. The combination of lenvatinib plus everolimus has achieved the highest rates of objective responses and the longest progression free and overall survival in cross-comparison trials. At the same time, the safety profile of this combination, including the rate of total and severe adverse events, the percentage of dose reductions required, and the rate of treatment discontinuation, was less favorable compared with available monotherapy o",
+        "journal": "Expert opinion on drug safety",
+        "year": "2017",
+        "authors": [
+          "Grande E",
+          "Glen H",
+          "Aller J",
+          "Argenziano G",
+          "Lamas M J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Renal Cell",
+          "Disease-Free Survival",
+          "Dose-Response Relationship, Drug",
+          "Everolimus",
+          "Humans",
+          "Kidney Neoplasms",
+          "Phenylurea Compounds",
+          "Quinolines",
+          "Survival Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28920492/"
+      },
+      {
+        "pmid": "35489363",
+        "title": "Health-related quality-of-life outcomes in patients with advanced renal cell carcinoma treated with lenvatinib plus pembrolizumab or everolimus versus sunitinib (CLEAR): a randomised, phase 3 study.",
+        "abstract": "Results from the phase 3 CLEAR study showed that lenvatinib plus pembrolizumab improved progression-free survival and overall survival compared with sunitinib in patients with advanced renal cell carcinoma. We aimed to assess the health-related quality-of-life (HRQOL) outcomes from the CLEAR study.",
+        "journal": "The Lancet. Oncology",
+        "year": "2022",
+        "authors": [
+          "Motzer Robert",
+          "Porta Camillo",
+          "Alekseev Boris",
+          "Rha Sun Young",
+          "Choueiri Toni K"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Humans",
+          "Phenylurea Compounds",
+          "Quality of Life",
+          "Quinolines",
+          "Sunitinib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35489363/"
+      },
+      {
+        "pmid": "26626618",
+        "title": "Comparing Everolimus to Sunitinib in Non-clear-cell Renal Cell Carcinoma.",
+        "abstract": "",
+        "journal": "European urology",
+        "year": "2016",
+        "authors": [
+          "Bex Axel",
+          "Ljungberg Börje"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Humans",
+          "Indoles",
+          "Kidney Neoplasms",
+          "Pyrroles",
+          "Sunitinib"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26626618/"
+      },
+      {
+        "pmid": "36858721",
+        "title": "Lenvatinib plus pembrolizumab versus sunitinib as first-line treatment of patients with advanced renal cell carcinoma (CLEAR): extended follow-up from the phase 3, randomised, open-label study.",
+        "abstract": "In the primary analysis of the CLEAR study, lenvatinib plus pembrolizumab significantly improved progression-free survival and overall survival versus sunitinib in patients with advanced renal cell carcinoma (data cutoff Aug 28, 2020). We aimed to assess overall survival based on 7 months of additional follow-up.",
+        "journal": "The Lancet. Oncology",
+        "year": "2023",
+        "authors": [
+          "Choueiri Toni K",
+          "Eto Masatoshi",
+          "Motzer Robert",
+          "De Giorgi Ugo",
+          "Buchler Tomas"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Carcinoma, Renal Cell",
+          "Everolimus",
+          "Follow-Up Studies",
+          "Kidney Neoplasms",
+          "Sunitinib",
+          "Phenylurea Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36858721/"
+      },
+      {
+        "pmid": "38840237",
+        "title": "Targeting mTOR and survivin concurrently potentiates radiation therapy in renal cell carcinoma by suppressing DNA damage repair and amplifying mitotic catastrophe.",
+        "abstract": "Renal cell carcinoma (RCC) was historically considered to be less responsive to radiation therapy (RT) compared to other cancer indications. However, advancements in precision high-dose radiation delivery through single-fraction and multi-fraction stereotactic ablative radiotherapy (SABR) have led to better outcomes and reduced treatment-related toxicities, sparking renewed interest in using RT to treat RCC. Moreover, numerous studies have revealed that certain therapeutic agents including chemotherapies can increase the sensitivity of tumors to RT, leading to a growing interest in combining these treatments. Here, we developed a rational combination of two radiosensitizers in a tumor-targeted liposomal formulation for augmenting RT in RCC. The objective of this study is to assess the efficacy of a tumor-targeted liposomal formulation combining the mTOR inhibitor everolimus (E) with the survivin inhibitor YM155 (Y) in enhancing the sensitivity of RCC tumors to radiation.",
+        "journal": "Journal of experimental & clinical cancer research : CR",
+        "year": "2024",
+        "authors": [
+          "Rachamala Hari K",
+          "Madamsetty Vijay S",
+          "Angom Ramcharan S",
+          "Nakka Naga M",
+          "Dutta Shamit Kumar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Carcinoma, Renal Cell",
+          "Animals",
+          "Survivin",
+          "Humans",
+          "Mice",
+          "Cell Line, Tumor",
+          "Kidney Neoplasms",
+          "DNA Repair",
+          "TOR Serine-Threonine Kinases",
+          "Xenograft Model Antitumor Assays"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38840237/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:37:49.632747",
+  "success": true,
+  "error_message": null
+}

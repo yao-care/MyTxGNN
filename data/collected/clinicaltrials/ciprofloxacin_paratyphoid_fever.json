@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "paratyphoid fever"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04349826",
+      "title": "Azithromycin and Cefixime Combination Versus Azithromycin Alone for the Out-patient Treatment of Clinically Suspected or Confirmed Uncomplicated Typhoid Fever in South Asia; a Randomised Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-05-23",
+      "completion_date": "2025-12-31",
+      "country": "Nepal",
+      "enrollment": 2150,
+      "brief_summary": "Typhoid and paratyphoid (enteric) fever affects more than 11 million children and adults globally each year including 7 million in South Asia. Up to 1% of patients who get typhoid may die of the disease and, in those that survive, a prolonged period of ill health and catastrophic financial cost to the family may follow. In the last 20 years, treatment of typhoid fever with a 7-day course of a single oral antimicrobial, such as ciprofloxacin, cefixime or azithromycin, given in an out-patient sett",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A history of fever at presentation for ≥ 72 hours and a documented fever (≥37.5oC (axillary) or ≥38oC (oral))\n* Age ≥ 2 years (and ≥ 10kg) to 65 years\n* No clear focus of infection on initial clinical evaluation\n* Malaria rapid Diagnostic test( RDT) negative; dengue nonstructu",
+      "endpoints": [
+        "Treatment Failure"
+      ],
+      "sponsor": "Oxford University Clinical Research Unit, Vietnam",
+      "url": "https://clinicaltrials.gov/study/NCT04349826"
+    }
+  ],
+  "timestamp": "2026-03-04T14:50:37.314978",
+  "success": true,
+  "error_message": null
+}

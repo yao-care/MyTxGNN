@@ -1,0 +1,413 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Beclomethasone Dipropionate",
+    "disease": "vasomotor rhinitis",
+    "query_string": "Beclomethasone Dipropionate AND vasomotor rhinitis"
+  },
+  "data": {
+    "query": "Beclomethasone Dipropionate AND vasomotor rhinitis",
+    "results": [
+      {
+        "pmid": "25424236",
+        "title": "[The topical treatment of allergic and vasomotor rhinitis: the role of beclomethasone dipropionate].",
+        "abstract": "Allergic rhinitis is the most frequent allergic disorder, as its prevalence is more than 20% in the general population. Non-allergic rhinitis has similar symptoms, but pathogenic mechanisms are non-IgE-mediated. Anyway, both diseases share a common inflammatory pathway, thus anti-inflammatory drugs represent the optimal therapeutical option. Beclomethasone dipropionate (BDP) is a corticosteroid that is long time available both as intranasal spray and aerosol solution. The present review aims at analysing the most relevant and recent studies concerning the BDP use in allergic and non-allergic rhinitis. The research was performed using Medline and Scopus database, key words were: allergic and non-allergic rhinitis, beclomethasone (last access 31st July 2014). BDP is a corticosteroid with proved efficacy in the treatment of rhinitis, both as spray and aerosol. Safety issue has been satisfactory explored, thus BDP is usually safe and well tolerated.",
+        "journal": "Recenti progressi in medicina",
+        "year": "2014",
+        "authors": [
+          "Ciprandi Giorgio",
+          "Rossi Giovanni A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Administration, Topical",
+          "Aerosols",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Humans",
+          "Rhinitis, Allergic",
+          "Rhinitis, Vasomotor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25424236/"
+      },
+      {
+        "pmid": "782136",
+        "title": "Intra-nasal beclomethasone dipropionate in vasomotor rhinitis.",
+        "abstract": "Twenty-one patients with vasomotor rhinitis, with no relevant allergens known, completed a special double-blind trial of beclomethasone dipropionate aerosol (BDA) and placebo intra-nasally. Each patient took 200, 400 and 800 mug BDA and placebo during four consecutive 2-week periods and in different sequences. The symptom scores of the last week of each period of nasal blockage, watery secretion and sneezing were significantly reduced by all doses of BDA as compared with placebo. There were no differences between the effects of the different doses of BDA except for secretion, which was reduced more by using 800 than 200 mug. Cortisol in serum and 17-hydroxycorticosteroids in 24-hour urine were not significantly changed by BDA treatment and no increased frequency of pathogenic bacteria or fungi could be demonstrated in the nasal secretion. For treatment of patients with vasomotor rhinitis, intra-nasal BDA in a daily dose of 200 mug can be recommended when antihistamines, sympathomimetic",
+        "journal": "Acta allergologica",
+        "year": "1976",
+        "authors": [
+          "Malm L",
+          "Wihl J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "17-Hydroxycorticosteroids",
+          "Adolescent",
+          "Adult",
+          "Beclomethasone",
+          "Clinical Trials as Topic",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/782136/"
+      },
+      {
+        "pmid": "29689043",
+        "title": "[Treatment of allergic and vasomotor rhinitis: the role of beclomethasone dipropionate and hyaluronic acid (with high molecular weight).].",
+        "abstract": "Inflammatory rhinitis is a very common disorder. It includes allergic rhinitis (AR) and non-allergic rhinitis (NAR). Nasal inflammation is shared by both disorders. So, anti-inflammatory treatment is indicated for both. Beclomethasone dipropionate (BDP) is a corticosteroid that is long time available both as intranasal spray and aerosol solution. BDP is a corticosteroid with proved efficacy in the treatment of rhinitis, both as spray and aerosol. Safety issue has been satisfactory explored, thus BDP is usually safe and well tolerated. Hyaluronic acid (HA) with high molecular weight has anti-inflammatory activity associated with wetting-lubricating effect. BDP may be usefully employed in acute forms, HA may be also used in chronic ones.",
+        "journal": "Recenti progressi in medicina",
+        "year": "2018",
+        "authors": [
+          "Ciprandi Giorgio",
+          "Gelardi Matteo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Aerosols",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Humans",
+          "Hyaluronic Acid",
+          "Molecular Weight",
+          "Rhinitis, Allergic",
+          "Rhinitis, Vasomotor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29689043/"
+      },
+      {
+        "pmid": "782135",
+        "title": "Treatment of vasomotor rhinitis with intranasal beclomethasone dipropionate (Becotide). Results from a double-blind cross-over study.",
+        "abstract": "The effect of beclomethasone dipropionate (Becotide) intranasally in vasomotor rhinitis has been studied on 39 adult volunteers in a double-blind cross-over study during 9 weeks in February-April 1975. The dose of beclomethasone dipropionate was 300 mug/day. Twenty-five patients preferred the beclomethasone dipropionate period, 5 patients the placebo period, and 9 patients had no preference. About three-quarters (74 per cent) of the patients considered themselves free of symptoms or greatly improved after the treatment with beclomethasone dipropionate. Statistical calculation of the daily nasal symptoms score confirms the improvement. The speediest effect was registered for sneezing, followed by nasal catarrh, nasal itching, and blocking. No changes in the levels of cortisol occurred during the treatment. The bacteriological and mycological findings (analysed with regard to Candida albicans) were fairly constant.",
+        "journal": "Acta allergologica",
+        "year": "1976",
+        "authors": [
+          "Löfkvist T",
+          "Svensson G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Beclomethasone",
+          "Clinical Trials as Topic",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/782135/"
+      },
+      {
+        "pmid": "6394263",
+        "title": "Budesonide. A preliminary review of its pharmacodynamic properties and therapeutic efficacy in asthma and rhinitis.",
+        "abstract": "Budesonide is a non-halogenated glucocorticosteroid which has been shown to possess a high ratio of topical to systemic activity compared with a number of reference corticosteroids such as beclomethasone dipropionate, flunisolide, and triamcinolone acetonide. It appears to undergo extensive first-pass metabolism to metabolites of minimal activity which accounts for the low level of systemic activity. The majority of therapeutic trials in asthma have been of short term duration and have demonstrated that conventional doses of inhaled budesonide (200 to 800 micrograms/day) and beclomethasone dipropionate (400 to 800 micrograms/day) are of similar efficacy in both adults and children with moderate to severe asthma. Other studies have compared high doses of inhaled budesonide (400 to 3200 micrograms/day in 4 divided doses) with both alternate day (7.5 to 60 mg) and daily (7.5 to 40 mg) oral prednisone in patients with severe or unstable asthma. In the small number of such trials to date, i",
+        "journal": "Drugs",
+        "year": "1984",
+        "authors": [
+          "Clissold S P",
+          "Heel R C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adrenal Glands",
+          "Adult",
+          "Anaphylaxis",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Budesonide",
+          "Child",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6394263/"
+      },
+      {
+        "pmid": "24228841",
+        "title": "The treatment of vasomotor rhinitis with intranasal corticosteroids.",
+        "abstract": "Intranasal steroids (INS) are firmly established as the therapy for choice for allergic rhinitis, but their role in vasomotor rhinitis (VMR) is not fully characterized. This review examines the potential mechanisms of action and reported efficacy of INS in patients with VMR.",
+        "journal": "The World Allergy Organization journal",
+        "year": "2009",
+        "authors": [
+          "Meltzer Eli O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24228841/"
+      },
+      {
+        "pmid": "6111217",
+        "title": "Medical management of noninfectious rhinitis.",
+        "abstract": "Noninfectious rhinitis and the clinical pharmacology of drugs used in its treatment, including specific treatment recommendations, are reviewed. Characterized by hyperreactivity of the nasal mucosa to a variety of stimuli, noninfectious rhinitis can be classified either as seasonal or perennial allergic rhinitis (when antigens can be identified) or as vasomotor or nonallergic rhinitis (when antigens are not identifiable). However, noninfectious rhinitis is probably better viewed as a continuum between these extremes rather than as definitive categories. Treatment measures include removal of offending agents when possible, and injection of allergenic extracts to decrease sensitivity to inhalant allergens. Among the pharmacologic alternatives, the classical H1 antihistamines competitively inhibit the action of mast-cell histamine at its receptor sites and thus decrease sneezing, nasal pruritus, rhinorrhea, and conjunctivitis. Orally bioavailable alpha-adrenergic agents such as pseudoephe",
+        "journal": "American journal of hospital pharmacy",
+        "year": "1980",
+        "authors": [
+          "Hendeles L",
+          "Weinberger M",
+          "Wong L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Drug Therapy",
+          "Histamine H1 Antagonists",
+          "Humans",
+          "Immunotherapy",
+          "Rhinitis",
+          "Rhinitis, Allergic, Perennial",
+          "Rhinitis, Allergic, Seasonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6111217/"
+      },
+      {
+        "pmid": "2508019",
+        "title": "Rhinomanometric evaluation of two nasal steroid sprays in rhinitis.",
+        "abstract": "A prospective, randomized study comparing the effectiveness of two nasal steroid sprays, flunisolide and beclomethasone dipropionate, in the treatment of nasal obstruction associated with allergic or vasomotor rhinitis has been conducted at New York University Medical Center-Bellevue Hospital. All patients underwent routine history and physical examinations and a modified radioallergosorbent test. Paranasal sinus films were used to exclude patients with sinusitis. The Rhinotest microprocessor rhinomanometer was used to quantify pretreatment and posttreatment total nasal air flow and resistance during a period of 2 months. These findings were assessed in conjunction with the patients' subjective complaints. Results demonstrated that anterior rhinomanometric assessment of the nasal airway during inhalant therapy correlated well with the patients' own subjective impressions of nasal air flow. Both steroid inhalants were effective; however, flunisolide provided for earlier and more substan",
+        "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+        "year": "1989",
+        "authors": [
+          "Kohan D",
+          "Jacobs J B",
+          "Nass R L",
+          "Gonzalez S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Ephedrine",
+          "Female",
+          "Fluocinolone Acetonide",
+          "Humans",
+          "Male",
+          "Manometry",
+          "Microcomputers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2508019/"
+      },
+      {
+        "pmid": "349412",
+        "title": "[Clinical effect of intranasal beclomethasone inhalations in chronic vasomotor rhinitis].",
+        "abstract": "",
+        "journal": "Nederlands tijdschrift voor geneeskunde",
+        "year": "1978",
+        "authors": [
+          "Dieges P H",
+          "Heeringa A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adolescent",
+          "Adult",
+          "Bacteria",
+          "Beclomethasone",
+          "Candida albicans",
+          "Chronic Disease",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Evaluation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/349412/"
+      },
+      {
+        "pmid": "22915973",
+        "title": "Psychometric validation of the experience with allergic rhinitis nasal spray questionnaire.",
+        "abstract": "Patient experience and preference are critical factors influencing compliance in patients with allergic rhinitis (AR) receiving intranasal corticosteroids. The Experience with Allergic Rhinitis Nasal Spray Questionnaire (EARNS-Q) was developed to measure subject experiences with and preferences for nasal sprays.",
+        "journal": "Patient related outcome measures",
+        "year": "2011",
+        "authors": [
+          "Crawford Bruce",
+          "Stanford Richard H",
+          "Wong Audrey Y",
+          "Dalal Anand A",
+          "Bayliss Martha S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22915973/"
+      },
+      {
+        "pmid": "9830677",
+        "title": "Intranasal steroids and septum perforation--an overlooked complication? A description of the course of events and a discussion of the causes.",
+        "abstract": "The use of intranasal steroids for the treatment of allergic and vasomotor rhinitis has doubled during the past 5 years. The number of reported cases of nasal septum perforation has increased correspondingly. The mechanism behind this is unknown, and steroid-induced septum perforation is rarely described in the literature. In order to describe the course of events and to form an idea of the extent of the problem, we have reviewed the cases reported at our clinic and compiled reports on side-effects from the Swedish Medical Products Agency. In our department we found 32 patients with septum perforation (21 women and 11 men). The most common risk factor for septum perforation was steroid treatment, 11 cases (10 women, 1 man, average age 33 years, range 19-49 years). The information obtained from the Swedish Medical Products Agency showed that 38 cases of steroid induced septum perforation had been reported during the past 10 years. The number of side-effects per million Defined Daily Dos",
+        "journal": "Rhinology",
+        "year": "1998",
+        "authors": [
+          "Cervin A",
+          "Andersson M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adolescent",
+          "Adult",
+          "Adverse Drug Reaction Reporting Systems",
+          "Aerosols",
+          "Aged",
+          "Androstadienes",
+          "Anti-Inflammatory Agents",
+          "Beclomethasone",
+          "Budesonide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9830677/"
+      },
+      {
+        "pmid": "2143592",
+        "title": "Treatment of non-allergic nasal hypersecretion with ipratropium and beclomethasone.",
+        "abstract": "The effect of ipratropium and beclomethasone administered as nasal aerosols was compared in a double-blind, double-dummy, randomized, cross-over designed study. Twenty-four patients with non-allergic, watery hypersecretion participated in the trial. According to the patients' daily registration of nasal symptoms, no significant difference could be found between the two drugs. It was not possible to characterize patients who would benefit from treatment with either ipratropium or beclomethasone.",
+        "journal": "Rhinology",
+        "year": "1990",
+        "authors": [
+          "Jessen M",
+          "Bylander A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Aerosols",
+          "Atropine Derivatives",
+          "Beclomethasone",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Ipratropium",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2143592/"
+      },
+      {
+        "pmid": "786961",
+        "title": "[Allergic rhinitis in children (author's transl)].",
+        "abstract": "Some of the problems within the research field of allergology are discussed. The main topic is the new treatment of allergic nasal diseases with a local glucocorticosteroid. Beclomethasone dipropionate (Beconase) can be given intranasally without any risk of systemic side-effects. The drug is found very effective in the treatment of hay fever, vasomotor rhinitis and nasal polypi in adults. In a double-blind crossover trial with 19 hay fever children, aged 8-16 years, 18 preferred the active drug, none preferred the placebo and one had no preference. It is concluded that 400 mug beclomethasone dipropionate a day is a safe and very effective treatment of nasal hay fever symptoms in children.",
+        "journal": "HNO",
+        "year": "1976",
+        "authors": [
+          "Mygind N",
+          "Prahl P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Beclomethasone",
+          "Child",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Methylprednisolone",
+          "Placebos",
+          "Rhinitis, Allergic, Seasonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/786961/"
+      },
+      {
+        "pmid": "7401752",
+        "title": "[Local treatment in allergic states of the upper respiratory tract. Treatment with corticosteroids].",
+        "abstract": "",
+        "journal": "Lakartidningen",
+        "year": "1980",
+        "authors": [
+          "Löfkvist T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Beclomethasone",
+          "Glucocorticoids",
+          "Humans",
+          "Respiratory Hypersensitivity",
+          "Rhinitis, Allergic, Seasonal",
+          "Rhinitis, Vasomotor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7401752/"
+      },
+      {
+        "pmid": "6772895",
+        "title": "[Local treatment in allergic states of the upper respiratory tract. Concluding comments].",
+        "abstract": "",
+        "journal": "Lakartidningen",
+        "year": "1980",
+        "authors": [
+          "Löfkvist T"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Beclomethasone",
+          "Cromolyn Sodium",
+          "Humans",
+          "Respiratory Hypersensitivity",
+          "Rhinitis, Allergic, Seasonal",
+          "Rhinitis, Vasomotor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6772895/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:34:17.654178",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,51 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Tobramycin",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19920042ARZ",
+      "product": "TOBRADEX OPHTHALMIC SUSPENSION",
+      "active_ingredient": "TOBRAMYCIN[3.00MG                        ],DEXAMETHASONE[1.00MG                        ]",
+      "generic_name": "Tobramycin 0.3% & Dexamethasone 0.1% Eye Drops",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-02-26",
+      "date_end": "2027-02-26",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19920042ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19921132ARZ",
+      "product": "TOBRADEX EYE OINTMENT",
+      "active_ingredient": "DEXAMETHASONE[1MG                           ],TOBRAMYCIN[3MG                           ]",
+      "generic_name": "Tobramycin 0.3% & Dexamethasone 0.1% Eye Ointment",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-10-08",
+      "date_end": "2029-10-08",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19921132ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19920043ARZ",
+      "product": "TOBREX OPHTHALMIC SOLUTION 0.3%",
+      "active_ingredient": "TOBRAMYCIN[0.3%                          ]",
+      "generic_name": "Tobramycin Sulphate 0.3% Eye Drops",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-12-25",
+      "date_end": "2030-12-25",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19920043ARZ"
+    }
+  ],
+  "timestamp": "2026-03-04T16:40:31.137425",
+  "success": true,
+  "error_message": null
+}

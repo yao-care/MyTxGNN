@@ -6,7 +6,7 @@ drug_name: "Folic Acid"
 kg_predictions: 132
 dl_predictions: 50
 evidence_level: "L1"
-indication_count: 132
+indication_count: 5
 brands: []
 permalink: /drugs/folic-acid/
 ---

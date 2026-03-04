@@ -1,0 +1,514 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "bronchitis",
+    "query_string": "Acetylcysteine AND bronchitis"
+  },
+  "data": {
+    "query": "Acetylcysteine AND bronchitis",
+    "results": [
+      {
+        "pmid": "38555190",
+        "title": "N-acetylcysteine Treatment in Chronic Obstructive Pulmonary Disease (COPD) and Chronic Bronchitis/Pre-COPD: Distinct Meta-analyses.",
+        "abstract": "N-acetylcysteine (NAC) is a mucolytic agent with antioxidant properties. Oxidative stress is a key pathogenic mechanism in chronic respiratory conditions such as COPD and chronic bronchitis (CB). In these meta-analyses we investigated the efficacy of NAC in subjects with COPD or CB, the latter being a potential pre-COPD condition (CB/pre-COPD).",
+        "journal": "Archivos de bronconeumologia",
+        "year": "2024",
+        "authors": [
+          "Papi Alberto",
+          "Alfano Franco",
+          "Bigoni Tommaso",
+          "Mancini Lorenzo",
+          "Mawass Amal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetylcysteine",
+          "Bronchitis, Chronic",
+          "Disease Progression",
+          "Expectorants",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38555190/"
+      },
+      {
+        "pmid": "26324807",
+        "title": "Influence of N-acetylcysteine on chronic bronchitis or COPD exacerbations: a meta-analysis.",
+        "abstract": "In order to clarify the possible role of N-acetylcysteine (NAC) in the treatment of patients with chronic bronchitis and chronic obstructive pulmonary disease (COPD), we have carried out a meta-analysis testing the available evidence that NAC treatment may be effective in preventing exacerbations of chronic bronchitis or COPD and evaluating whether there is a substantial difference between the responses induced by low (≤ 600 mg per day) and high (> 600 mg per day) doses of NAC. The results of the present meta-analysis (13 studies, 4155 COPD patients, NAC n = 1933; placebo or controls n = 2222) showed that patients treated with NAC had significantly and consistently fewer exacerbations of chronic bronchitis or COPD (relative risk 0.75, 95% CI 0.66-0.84; p < 0.01), although this protective effect was more apparent in patients without evidence of airway obstruction. However, high doses of NAC were also effective in patients suffering from COPD diagnosed using spirometric criteria (relativ",
+        "journal": "European respiratory review : an official journal of the European Respiratory Society",
+        "year": "2015",
+        "authors": [
+          "Cazzola Mario",
+          "Calzetta Luigino",
+          "Page Clive",
+          "Jardim Josè",
+          "Chuchalin Alexander G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchitis, Chronic",
+          "Bronchodilator Agents",
+          "Disease Progression",
+          "Humans",
+          "Lung",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26324807/"
+      },
+      {
+        "pmid": "35795313",
+        "title": "Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis.",
+        "abstract": "Patients with chronic obstructive pulmonary disease (COPD) and chronic bronchitis are associated with poor clinical outcomes. N-acetylcysteine (NAC) is a widely used therapeutic option for such patients; however, the clinical efficacy of NAC has not been conclusively determined. We hypothesized that high-dose oral NAC can improve the clinical outcomes for patients with concurrent chronic bronchitis and COPD. Objective and Methods. This was a randomized, double-blind, placebo-controlled trial evaluating the efficacy of high-dose NAC for COPD patients with concurrent chronic bronchitis. Study participants were randomized into two groups and administered with NAC (900 mg) twice daily or matching placebo for 3 months. Then, respiratory health status was evaluated using the St. George's Respiratory Questionnaire (SGQR), which was set as the primary end point.",
+        "journal": "BioMed research international",
+        "year": "2022",
+        "authors": [
+          "Zhang Li",
+          "Xiong Yan",
+          "Du Lei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Retracted Publication"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchitis, Chronic",
+          "Double-Blind Method",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Surveys and Questionnaires"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35795313/"
+      },
+      {
+        "pmid": "31107966",
+        "title": "Mucolytic agents versus placebo for chronic bronchitis or chronic obstructive pulmonary disease.",
+        "abstract": "Individuals with chronic bronchitis or chronic obstructive pulmonary disease (COPD) may suffer recurrent exacerbations with an increase in volume or purulence of sputum, or both. Personal and healthcare costs associated with exacerbations indicate that therapies that reduce the occurrence of exacerbations are likely to be useful. Mucolytics are oral medicines that are believed to increase expectoration of sputum by reducing its viscosity, thus making it easier to cough it up. Improved expectoration of sputum may lead to a reduction in exacerbations of COPD.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2019",
+        "authors": [
+          "Poole Phillippa",
+          "Sathananthan Kavin",
+          "Fortescue Rebecca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Bronchitis, Chronic",
+          "Disease Progression",
+          "Expectorants",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31107966/"
+      },
+      {
+        "pmid": "39413571",
+        "title": "Efficacy and safety of mucolytics in patients with stable chronic obstructive pulmonary disease: A systematic review and meta-analysis.",
+        "abstract": "The efficacy and safety of mucolytics in patients with chronic obstructive pulmonary disease (COPD) and chronic bronchitis or exacerbations of COPD have been reported. We conducted a systematic review and meta-analysis of mucolytics in patients with stable COPD.",
+        "journal": "Respiratory investigation",
+        "year": "2024",
+        "authors": [
+          "Ohnishi Hiroshi",
+          "Tanimoto Takuya",
+          "Inaba Ryunosuke",
+          "Eitoku Masamitsu"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Pulmonary Disease, Chronic Obstructive",
+          "Humans",
+          "Expectorants",
+          "Ambroxol",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Acetylcysteine",
+          "Disease Progression",
+          "Carbocysteine",
+          "Hospitalization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39413571/"
+      },
+      {
+        "pmid": "38075328",
+        "title": "Retracted: Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis.",
+        "abstract": "[This retracts the article DOI: 10.1155/2022/9133777.].",
+        "journal": "BioMed research international",
+        "year": "2023",
+        "authors": [
+          "International BioMed Research"
+        ],
+        "pub_types": [
+          "Retraction Notice"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38075328/"
+      },
+      {
+        "pmid": "10610368",
+        "title": "[Acetylcysteine in bronchitis and pneumonia].",
+        "abstract": "",
+        "journal": "Der Internist",
+        "year": "1999",
+        "authors": [
+          "Vogelmeier C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchitis",
+          "Clinical Trials as Topic",
+          "Expectorants",
+          "Free Radical Scavengers",
+          "Humans",
+          "Pneumonia",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10610368/"
+      },
+      {
+        "pmid": "19138505",
+        "title": "Fluticasone and N-acetylcysteine in primary care patients with COPD or chronic bronchitis.",
+        "abstract": "Increased oxidative stress and bronchial inflammation are important mechanisms in the pathophysiology of COPD.",
+        "journal": "Respiratory medicine",
+        "year": "2009",
+        "authors": [
+          "Schermer Tjard",
+          "Chavannes Niels",
+          "Dekhuijzen Richard",
+          "Wouters Emiel",
+          "Muris Jean"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adult",
+          "Aged",
+          "Androstadienes",
+          "Bronchitis, Chronic",
+          "Bronchodilator Agents",
+          "Expectorants",
+          "Female",
+          "Fluticasone",
+          "Forced Expiratory Volume"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19138505/"
+      },
+      {
+        "pmid": "23728642",
+        "title": "Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease.",
+        "abstract": "Acetylcysteine and carbocysteine are the most commonly prescribed mucolytic drugs in Brazil and many European and African countries. To our knowledge, no systematic review has been published on their efficacy and safety for acute upper and lower respiratory tract infections (RTIs) in children without chronic broncho-pulmonary disease.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2013",
+        "authors": [
+          "Chalumeau Martin",
+          "Duijvestijn Yvonne C M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Acute Disease",
+          "Age Factors",
+          "Carbocysteine",
+          "Child",
+          "Child, Preschool",
+          "Cough",
+          "Expectorants",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23728642/"
+      },
+      {
+        "pmid": "19160217",
+        "title": "Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease.",
+        "abstract": "Acetylcysteine and carbocysteine are the most commonly prescribed mucolytic drugs in many European countries. To our knowledge, no systematic review has been published on their efficacy and safety for acute upper and lower respiratory tract infections (ARTIs) in children without chronic broncho-pulmonary disease.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2009",
+        "authors": [
+          "Duijvestijn Yvonne C M",
+          "Mourdi Nadjette",
+          "Smucny John",
+          "Pons Gérard",
+          "Chalumeau Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Carbocysteine",
+          "Child",
+          "Child, Preschool",
+          "Expectorants",
+          "Humans",
+          "Infant",
+          "Randomized Controlled Trials as Topic",
+          "Respiratory Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19160217/"
+      },
+      {
+        "pmid": "39203365",
+        "title": "Biofilm Production and Its Implications in Pediatrics.",
+        "abstract": "Biofilms, aggregates of bacteria enclosed in a self-produced matrix, have been implicated in various pediatric respiratory infections, including acute otitis media (AOM), otitis media with effusion (OME), adenoiditis, protracted bacterial bronchitis, and pulmonary exacerbations in cystic fibrosis. These infections are prevalent in children and often associated with biofilm-producing pathogens, leading to recurrent and chronic conditions. Biofilms reduce antibiotic efficacy, contributing to treatment failure and disease persistence. This narrative review discusses biofilm production by respiratory pathogens such as Streptococcus pneumoniae, non-typeable Haemophilus influenzae, Pseudomonas aeruginosa, and Staphylococcus aureus. It examines their mechanisms of biofilm formation, antibiotic resistance, and the challenges they present in clinical treatment. Various antibiofilm strategies have shown promise in vitro and in animal studies, including the use of N-acetylcysteine, enzymes like d",
+        "journal": "Microorganisms",
+        "year": "2024",
+        "authors": [
+          "Principi Nicola",
+          "Esposito Susanna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39203365/"
+      },
+      {
+        "pmid": "23618697",
+        "title": "The chemistry and biological activities of N-acetylcysteine.",
+        "abstract": "N-acetylcysteine (NAC) has been in clinical practice for several decades. It has been used as a mucolytic agent and for the treatment of numerous disorders including paracetamol intoxication, doxorubicin cardiotoxicity, ischemia-reperfusion cardiac injury, acute respiratory distress syndrome, bronchitis, chemotherapy-induced toxicity, HIV/AIDS, heavy metal toxicity and psychiatric disorders.",
+        "journal": "Biochimica et biophysica acta",
+        "year": "2013",
+        "authors": [
+          "Samuni Yuval",
+          "Goldstein Sara",
+          "Dean Olivia M",
+          "Berk Michael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Animals",
+          "Apoptosis",
+          "Blood-Brain Barrier",
+          "Cell Cycle",
+          "Cell Membrane",
+          "Humans",
+          "Mental Disorders",
+          "Signal Transduction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23618697/"
+      },
+      {
+        "pmid": "32454850",
+        "title": "Assessment of the Efficacy and Safety of Ivy Leaf (Hedera helix) Cough Syrup Compared with Acetylcysteine in Adults and Children with Acute Bronchitis.",
+        "abstract": "Acute bronchitis is defined as a sudden inflammation of the bronchial tubes in the lung mainly caused by viral infection. It is characterized by a persistent cough which can be productive or dry. It is the most common disease in industrialized countries, and thus herbal expectorants enjoy a high popularity in many European countries due to their favorable risk-benefit ratio.",
+        "journal": "Evidence-based complementary and alternative medicine : eCAM",
+        "year": "2020",
+        "authors": [
+          "Kruttschnitt Esther",
+          "Wegener Tankred",
+          "Zahner Catherine",
+          "Henzen-Bücking Silke"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32454850/"
+      },
+      {
+        "pmid": "24787454",
+        "title": "Oxidative stress and respiratory system: pharmacological and clinical reappraisal of N-acetylcysteine.",
+        "abstract": "The large surface area for gas exchange makes the respiratory system particularly susceptible to oxidative stress-mediated injury. Both endogenous and exogenous pro-oxidants (e.g. cigarette smoke) trigger activation of leukocytes and host defenses. These mechanisms interact in a \"multilevel cycle\" responsible for the control of the oxidant/antioxidant homeostasis. Several studies have demonstrated the presence of increased oxidative stress and decreased antioxidants (e.g. reduced glutathione [GSH]) in subjects with chronic obstructive pulmonary disease (COPD), but the contribution of oxidative stress to the pathophysiology of COPD is generally only minimally discussed. The aim of this review was to provide a comprehensive overview of the role of oxidative stress in the pathogenesis of respiratory diseases, particularly COPD, and to examine the available clinical and experimental evidence on the use of the antioxidant N-acetylcysteine (NAC), a precursor of GSH, as an adjunct to standard",
+        "journal": "COPD",
+        "year": "2014",
+        "authors": [
+          "Santus Pierachille",
+          "Corsico Angelo",
+          "Solidoro Paolo",
+          "Braido Fulvio",
+          "Di Marco Fabiano"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Antioxidants",
+          "Bronchitis, Chronic",
+          "Disease Progression",
+          "Expectorants",
+          "Forced Expiratory Volume",
+          "Hospitalization",
+          "Humans",
+          "Macrophages",
+          "Neutrophils"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24787454/"
+      },
+      {
+        "pmid": "31598901",
+        "title": "Effect of Orally Administered N-Acetylcysteine on Chronic Bronchitis: A Meta-analysis.",
+        "abstract": "The effect of N-acetylcysteine (NAC) treatment for patients with chronic bronchitis (CB) is controversial. To better understand the role of NAC in CB treatment, we performed a meta-analysis to provide a more accurate estimation of the importance of NAC treatment.",
+        "journal": "Advances in therapy",
+        "year": "2019",
+        "authors": [
+          "Wei Jia",
+          "Pang Cai-Shuang",
+          "Han Juan",
+          "Yan Hao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchitis, Chronic",
+          "Chronic Disease",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Risk"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31598901/"
+      },
+      {
+        "pmid": "6376210",
+        "title": "Efficacy and tolerability of oral acetylcysteine (Fabrol) in chronic bronchitis: a double-blind placebo controlled study.",
+        "abstract": "This multicentre, double-blind, placebo controlled, between-patient study in general practice in the United Kingdom examined the effect of oral N-acetylcysteine (Fabrol) on the symptomatology of patients with chronic bronchitis over a 3-month period. Although improvement in subjective symptoms (sputum viscosity and character, difficulty in expectoration and cough severity) occurred in both treatment groups over the trial period, improvements in difficulty in expectoration and cough severity were greater in patients receiving N-acetylcysteine compared to matching placebo. Trial medication was well tolerated, with a greater number of side-effects attributed to therapy occurring in patients receiving placebo.",
+        "journal": "The Journal of international medical research",
+        "year": "1984",
+        "authors": [
+          "Jackson I M",
+          "Barnes J",
+          "Cooksey P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchitis",
+          "Chronic Disease",
+          "Clinical Trials as Topic",
+          "Cough",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6376210/"
+      },
+      {
+        "pmid": "27143871",
+        "title": "High-dose oral N-acetylcysteine fails to improve respiratory health status in patients with chronic obstructive pulmonary disease and chronic bronchitis: a randomized, placebo-controlled trial.",
+        "abstract": "Clinical outcomes are worse in patients with COPD and chronic bronchitis. N-acetylcysteine (NAC) is commonly prescribed for such patients but with uncertain clinical benefits. We postulated that oral NAC, at much larger doses than those ordinarily prescribed, would improve clinical outcomes in a subset of patients with COPD and chronic bronchitis.",
+        "journal": "International journal of chronic obstructive pulmonary disease",
+        "year": "2016",
+        "authors": [
+          "Johnson Kara",
+          "McEvoy Charlene E",
+          "Naqvi Sakina",
+          "Wendt Chris",
+          "Reilkoff Ronald A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Aged",
+          "Bronchitis, Chronic",
+          "Double-Blind Method",
+          "Female",
+          "Health Status",
+          "Humans",
+          "Male",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Treatment Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27143871/"
+      },
+      {
+        "pmid": "15761783",
+        "title": "[Antioxidant treatment with N-acetylcysteine and vitamin C in patients with chronic bronchitis].",
+        "abstract": "N-acetylcysteine (NAC) is known to have direct antioxidant properties due to its thiol-group on the one hand as well as indirect antioxidant capacity as cysteine-donor to cellular glutathione-synthesis on the other hand. Therefore NAC appears to be attractive in antioxidant therapy of inflammatory disorders of the lung. This study aimed to investigate the use of antioxidant therapy with NAC in chronic bronchitis.",
+        "journal": "Deutsche medizinische Wochenschrift (1946)",
+        "year": "2005",
+        "authors": [
+          "Lukas R",
+          "Schärling B",
+          "Schultze-Werninghaus G",
+          "Gillissen A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Antioxidants",
+          "Ascorbic Acid",
+          "Blood Sedimentation",
+          "Bronchitis, Chronic",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Free Radical Scavengers",
+          "Glutathione"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15761783/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:01:49.598480",
+  "success": true,
+  "error_message": null
+}

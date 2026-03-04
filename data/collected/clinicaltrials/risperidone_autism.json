@@ -1,0 +1,573 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "autism"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01166152",
+      "title": "Development of a New Diagnosis and Intervention Method for Developmental Disorders",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2010-08",
+      "completion_date": "2013-03",
+      "country": "Japan",
+      "enrollment": 20,
+      "brief_summary": "The purpose of this study is to develop a new diagnostic method for developmental disorders based on behavior recording during the interview of the subjects by medical staff as well anonymous persons. The behavior recording by video camera will be accompanied by non-invasive physiological recordings, including electroencephalogram (EEG), electrocardiogram (ECG), electromyogram (EMG), and body temperature using infrared (IR) thermograph. Thus, the physiologically relevant and the disorder correla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Developmental disorders\n\nExclusion Criteria:\n\n* Mental retardation",
+      "endpoints": [
+        "thermogram of head"
+      ],
+      "sponsor": "Tokyo University of Agriculture and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT01166152"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07060872",
+      "title": "A Randomized Controlled Interventional Study on the Effects of Spirulina Supplementation on Anxiety in Children With Non-Idiopathic Autism",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-07-07",
+      "completion_date": "2025-10-01",
+      "country": "Iran",
+      "enrollment": 82,
+      "brief_summary": "The aim of this study is to evaluate the effect of a Spirulina syrup formulation on reducing anxiety in children with non-idiopathic autism. Participants are referred to a private clinic and assessed by a pediatric neurology subspecialist to confirm the diagnosis. Informed consent is obtained from the parents. Patients are randomly assigned to two groups. The intervention group receives standard treatment (Risperidone tablets) plus Spirulina syrup, while the control group receives Risperidone pl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children diagnosed with non-idiopathic autism, confirmed by a pediatric neurology subspecialist\n\n  * Age range: \\[3 to 7 years\\]\n  * Parental informed consent obtained\n  * Ability to complete online anxiety questionnaires with parental assistance\n\nExclusion Criteria:\n\n* • Pres",
+      "endpoints": [
+        "Change in anxiety symptoms based on the Spence Children's Anxiety Scale (Parent Version) total score"
+      ],
+      "sponsor": "Shahid Sadoughi University of Medical Sciences and Health Services",
+      "url": "https://clinicaltrials.gov/study/NCT07060872"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352196",
+      "title": "A Biological Basis of Therapy for Negative Symptom Spectrum Disorders: Risperdal Effect on Frontal Metabolism in Asperger's Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-11",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "This study will be an open-label, 12-week trial of risperidone in subjects with Asperger's Disorder, according to Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) Criteria. The study has two arms, one involving pre- and post-treatment MRS studies, and one without MRS. The MRS arm will study 18-20 subjects ages 6 and above, with a target of 14 completing patients. For both arms, we plan to a enroll at total of 30 patients to achieve completion for 24 patients. The non-MRS arm of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must be age 6 -18 for the Non-MRS arm of the study, and age 6 or above for the MRS arm of the study.\n2. If applicable, a parent or legal guardian or legal representatives of study subject must provide informed consent and sign an informed consent document.\n3. Female ",
+      "endpoints": [
+        "Chang in the Scale for the Assessment of Negative Symptoms (SANS)"
+      ],
+      "sponsor": "Augusta University",
+      "url": "https://clinicaltrials.gov/study/NCT00352196"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00783783",
+      "title": "CYP2D6 PHARMACOGENETICS IN RISPERIDONE-TREATED CHILDREN AND ADOLESCENTS WITH PSYCHIATRIC OR NEURODEVELOPMENTAL DISORDERS",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-06",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "Risperidone is an important medication used to treat children with psychiatric illnesses or neurodevelopmental disorders, such as autism. Despite excellent symptom control, the potential for side effects is worrisome. Treating these disorders is difficult because not everyone responds the same way to the same risperidone dose. One reason for this is genetic differences in how people break down the drug. Understanding these differences will help clinicians choose a dose and better predict the res",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Previous risperidone PK study participation (CCHMC, Rainbow Babies and Children's Hospital or OSU)\n* CYP2D6 PM predicted phenotype\n* Actively taking risperidone\n* Under 18 years of age at time of enrollment\n* Signed, dated informed consent forms\n\nExclusion Criteria:\n\n* Investi",
+      "endpoints": [
+        "association of common CYP2D6 polymorphisms with risperidone area under the curve"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00783783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00166595",
+      "title": "Pharmacogenetics of Risperidone in Children With Pervasive Developmental Disorder (PDD)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2005-03",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to determine if the known differences in genes influence drug metabolizing enzymes and receptors that are involved in risperidone drug action. The study will determine if differences in these genes will change the concentration of risperidone in the blood over time in children in relation to side effects and clinical response to risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients between the ages of 4 and 21 years.\n* Patients meeting DSM-IV criteria for autistic disorder, Pervasive Developmental Disorder (PDD), or Pervasive Developmental Disorder-Not Otherwise Specified (PDD-NOS) and about to initiate clinical treatment or curr",
+      "endpoints": [],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00166595"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00261508",
+      "title": "Efficacy And Safety Of Risperidone In The Treatment Of Children With Autistic Disorder And Other Pervasive Developmental Disorders: A Canadian, Multicenter, Double-Blind, Placebo-Controlled Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-08",
+      "completion_date": "2001-12",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness of an oral solution of risperidone (an antipsychotic medication) versus placebo in the treatment of behavioral symptoms in children with Pervasive Developmental Disorders (PDD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Pervasive Developmental Disorders (Autistic Disorder, Rett's Disorder, Childhood Disintegrative Disorder, Asperger's Disorder, or Pervasive Development Disorder not Otherwise Specified) by Diagnostic and Statistical Manual of Mental Disorders, 4th edition (DSM-IV)",
+      "endpoints": [
+        "Change in the Irritability Subscale of the Aberrant Behavior Checklist (ABC) and other ABC subscales at end of treatment compared with baseline"
+      ],
+      "sponsor": "Janssen-Ortho Inc., Canada",
+      "url": "https://clinicaltrials.gov/study/NCT00261508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06657430",
+      "title": "A Study on the Preference of Risperidone Dosage Forms",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-09-19",
+      "completion_date": "2025-02-28",
+      "country": "China",
+      "enrollment": 1000,
+      "brief_summary": "This study aimed to understand patients' needs and preferences for antipsychotic dosage forms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with schizophrenia, bipolar disorder, autism spectrum disorder, mental retardation or their primary caregivers who voluntarily participate in the study.\n\nExclusion Criteria:\n\n* Have difficulty reading and understanding Chinese or refuse to participate in the study.",
+      "endpoints": [
+        "Proportion of patients (and their caregivers) who prefer risperidone patch-form medicine"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT06657430"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06623227",
+      "title": "Randomized, Placebo-controlled, Double-blind Study of Increasing Total Antioxidant Capacity with Vitamin E and C in Two Cohorts of Patients with Autism Spectrum Disorders",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-09-28",
+      "completion_date": "2025-06-30",
+      "country": "Indonesia",
+      "enrollment": 50,
+      "brief_summary": "This double-blind, randomized, controlled trial (RCT) has the aim to evaluating the effectiveness of increasing Total Antioxidant Capacity (TAC) as add-on intervention in two cohorts of patients with Autism Spectrum Disorder (ASD) who have received Risperidone (0.02-0.06 mg/KgBW) and Behavior Therapy as maintenance therapy. Both groups will receive placebo pill or Vitamin E and C pill using randomization. Clinical Symptoms, Aberrant Behavior and Quality of Life in Children with ASD will be asses",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Both parents or a legally authorized patient representative (LAR) must provide written informed consent. The parents and guardian must be able to understand and comply with the experimental protocol with a minimum of junior high school education.\n2. Parents earn no less than ",
+      "endpoints": [
+        "Aberrant Behavior Checklist - Irritability (ABC-I)"
+      ],
+      "sponsor": "Hasanuddin University",
+      "url": "https://clinicaltrials.gov/study/NCT06623227"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04903353",
+      "title": "Pragmatic Trial Comparing Weight Gain in Children With Autism Taking Risperidone Versus Aripiprazole",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-02-01",
+      "completion_date": "2025-12-01",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "This study aims to compare two FDA approved medications (aripiprazole and risperidone) for the treatment of behavioral dysregulation in children with autism spectrum disorders. This trial, done in the context of routine clinical care, will seek to evaluate whether aripiprazole or risperidone is associated with more weight gain in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 17 years and younger\n* diagnosed with autism\n* have behavior problems\n* seen in Vanderbilt clinic\n* naïve to atypical antipsychotics\n\nExclusion Criteria:\n\n* 18 years or older\n* history of atypical antipsychotic use\n* not diagnosed with autism",
+      "endpoints": [
+        "weight gain"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04903353"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01050582",
+      "title": "Evaluation of Growth, Sexual Maturation, and Prolactin-Related Adverse Events in the Pediatric Population Exposed to Atypical Antipsychotic Drugs",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2011-07",
+      "country": "Greece, Germany, Netherlands, Poland, Belgium, United States",
+      "enrollment": 244,
+      "brief_summary": "The purpose of this study is to evaluate the effects of risperidone compared with other atypical antipsychotic drugs on the physical maturity, growth and development of children, and the risk of prolactin-related adverse events (side effects) associated to these drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* One or both parents (according to local regulations) or a guardian must have signed an informed consent document indicating that they understand the purpose of and procedures required for the study and are willing to participate in the study (If appropriate according to local ",
+      "endpoints": [
+        "Height (cm) Z-score at Study Visit"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01050582"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04047355",
+      "title": "A Pilot/Feasibility Study of the Use of High Dose Propranolol to Treat Severe and Chronic Challenging Behaviors in Adolescents and Adults With Autism Spectrum Disorders",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2021-02-11",
+      "completion_date": "2023-09-30",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Severe challenging behaviors such as aggression and self-injury can cause significant morbidity and decrease the quality of life for individuals with Autism Spectrum Disorders (ASD). There are only two medications (Risperdal and Abilify) rigorously studied and FDA-approved for the treatment of irritability in individuals with ASD. These medications are not always successful and have many short and long-term side effects. Well-designed studies demonstrating efficacy and safety of alternative medi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males and females between the ages of 12-30 years and is a resident in the state of New Jersey.\n2. Diagnosis of autism conducted by a clinician with confirmation using the Autism Diagnostic Observation Schedule (ADOS) or the Social Communication Questionnaire (SCQ).\n3. At lea",
+      "endpoints": [
+        "Aberrant Behavior Checklist--Community (ABC-C) Irritability Subscale Scores"
+      ],
+      "sponsor": "Rutgers, The State University of New Jersey",
+      "url": "https://clinicaltrials.gov/study/NCT04047355"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00147394",
+      "title": "Risperidone Pharmacokinetics in Children With Pervasive Developmental Disorder",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2001-12",
+      "completion_date": "2004-06",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this research is to study the pharmacokinetics of risperidone in a group of pediatric patients with Pervasive Developmental Disorder (PDD). The study will determine how much risperidone and its breakdown product, 9-hydroxy-risperidone, is in the blood following the patient's usual daily dose. The study is designed to look at how fast children absorb, breakdown, and eliminate risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients between ages of 5 and less than 17 years.\n* Patients meeting DSM-IV criteria for PDD-NOS about to initiate clinical treatment or currently clinically treated with risperidone.\n* Patients with autistic disorder or PDD-NOS currently on risperidone as a p",
+      "endpoints": [
+        "Quantify the variability of clearance and volume of distribution among AE rating, weight gain and ABC responder status."
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00147394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05491720",
+      "title": "Comparable Efficacy of Transcranial Direct Current Stimulation and Pharmacological Treatments in Children With Autism Spectrum Disorder",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-08-15",
+      "completion_date": "2022-08-03",
+      "country": "Iran",
+      "enrollment": 45,
+      "brief_summary": "This project aims to comparing the effectiveness of transcranial direct current stimulation with common pharmacological treatments on behavioral problems and cognitive deficits of children with autism spectrum disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of autism spectrum disorder by a psychiatrist and behavioral checklist\n* being 6-16 years old\n* providing written informed consent signed by parents\n\nExclusion Criteria:\n\n* comorbidity with other neurodevelopmental disorders\n* comorbidity with other neurological diso",
+      "endpoints": [
+        "Gilliam Autism Rating Scale (GADS)",
+        "verbal fluency task",
+        "Theory of mind"
+      ],
+      "sponsor": "The National Brain Mapping Laboratory (NBML)",
+      "url": "https://clinicaltrials.gov/study/NCT05491720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01171937",
+      "title": "Risperidone Treatment In Children With Autism Spectrum Disorder And High Levels of Repetitive Behavior",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "The proposed study attempts to deepen our understanding of repetitive behaviors in autism spectrum disorders (ASD) and its treatment by examining the changes in key neural circuits associated with risperidone treatment using functional MRI. This study is a substudy of a larger center grant (IRB#07-03-066). Other studies also under this center grant, include: IRB#03-02-085, IRB#95-01-028. All participants will have the option to enter another sub-study, should they meet criteria. The proposed stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or females of any race or ethnicity between the ages of 8 and 16 years,\n2. Body weight greater than 20 kg body weight\n3. DSM-IV diagnosis of Autistic Disorder, PDD, NOS, or Asperger's Disorder (established by clinical assessment, corroborated by standard cutoff scores on",
+      "endpoints": [
+        "Aberrant Behavior Checklist"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT01171937"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07024303",
+      "title": "Measuring the Effects of Medication and Behavioral Treatments for Challenging Behavior",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-06-15",
+      "completion_date": "2027-12-31",
+      "country": "N/A",
+      "enrollment": 20,
+      "brief_summary": "The overall objective is to evaluate and compare the efficacy of two common treatments for CB in children and adolescents with autism using multiple outcome measures. Our central hypothesis is that both behavioral treatment and medication will produce reductions in CB, but behavioral treatments, including behavior treatment + medication, will produce a greater reduction in CB when measured using direct observation within the contexts most associated with challenging behavior. We have four aims: ",
+      "eligibility_criteria": "The adult subjects will be the caregiver/guardian of the minor subjects. The only inclusion criterion for the adult subjects is that they must be the caregiver/legal guardian of the minor subject and their home is primarily English speaking.\n\nThe minor subjects will be individuals who were referred ",
+      "endpoints": [
+        "Aberrant Behavior Checklist, Irritability Subscale",
+        "Behavior Problems Inventory",
+        "Clinical Global Impressions Scale"
+      ],
+      "sponsor": "University of Iowa",
+      "url": "https://clinicaltrials.gov/study/NCT07024303"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03522168",
+      "title": "Pediatric Trials Network Long-term Antipsychotic Pediatric Safety Trial (LAPS) NICHD-2016-LAP01 Phase 4 Trial",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-01-10",
+      "completion_date": "2023-11-21",
+      "country": "United States",
+      "enrollment": 509,
+      "brief_summary": "Main LAP01 study: The purpose is to evaluate the long-term pathologic weight changes associated with multi-year risperidone or aripiprazole therapy in 3 - \\<18-year-old children, who have varying durations of prior antipsychotic drug exposure from the start of study Month 0 (M0). This is critical because children appear to have greater vulnerability to antipsychotic-associated weight gain than adults, and obesity has significant effects on morbidity and mortality.\n\nAn additional sub-study (regis",
+      "eligibility_criteria": "Main Study\n\nInclusion Criteria:\n\n1. Parent/guardian has provided informed consent\n2. Participant has provided assent if developmentally appropriate and as required by the institutional review board (IRB)\n3. 3 - \\<18 years of age inclusive at time of M0 visit\n4. Participant, when developmentally appr",
+      "endpoints": [
+        "Main Trial: Change in BMI z-score",
+        "Registry Sub-Study: Modified Body Mass Index (BMI) z-score"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT03522168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005014",
+      "title": "Placebo-Controlled Study of Risperidone for the Treatment of Children and Adolescents With Autism and Negative Behavioral Symptoms",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-10",
+      "completion_date": "2001-02",
+      "country": "United States",
+      "enrollment": 101,
+      "brief_summary": "This study is designed to determine the effectiveness of risperidone, a drug treatment for the interfering symptoms of Autistic Disorder in children and adolescents between the ages of 5 and 17. Between 100 and 120 patients will be participating in this research study at five academic medical centers in the United States. The primary aim of the treatment is to reduce impairing behavioral symptoms such as aggression, explosive outbursts, or self-injurious behavior, without significant side effect",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females between the ages of 5 and 17 years 2 months.\n* Weight of 15 kg or greater.\n* DSM-IV diagnosis of Autistic Disorder.\n* Inpatient or outpatient.\n* Medication free for at least 2 weeks for all psychotropic medications (4 weeks for fluoxetine or depot neuroleptic",
+      "endpoints": [],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00005014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01844700",
+      "title": "1/2-MC4R Genotype and Pediatric Antipsychotic Drug- Induced Weight Gain",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2013-07",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "We will conduct a 12-week, randomized open label study, comparing usual care (UC) antipsychotic treatment (aripiprazole, quetiapine, risperidone) with ziprasidone (ZIP) in children and adolescents aged 13-18 years old. Patients will have 10 days or less lifetime antipsychotic exposure and be in clinical need for antipsychotic treatment for a pediatric psychiatric disorder with FDA indication for antipsychotic use, i.e., bipolar mania, schizophrenia-spectrum disorders, and irritability associated",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 13-18 years\n* English-speaking\n* DSM diagnoses that have an FDA indication for SGA use for at least one agent in the respective pediatric or adult age group. Specifically, primary DSM-IV diagnosis of early-onset schizophrenia spectrum disorders; bipolar I disorder mania (a",
+      "endpoints": [
+        "Weight Change"
+      ],
+      "sponsor": "Northwell Health",
+      "url": "https://clinicaltrials.gov/study/NCT01844700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03887754",
+      "title": "Therapeutic Issues for Autism Spectrum Disorders: a Clinical Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2018-12",
+      "country": "N/A",
+      "enrollment": 80,
+      "brief_summary": "This study aimed to show the effects of hyperbaric oxygen therapy and/or Risperidone in improving symptoms of autism",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age of 5-7 years\n* weight of at least 15 kg\n\nExclusion Criteria:\n\n* Absence of significant medical problems and any other neuropsychiatric disorder requiring drug therapy (e.g., Bipolar disorder, psychosis).\n* No concomitant treatment with psychotropic medication was allowed d",
+      "endpoints": [
+        "Childhood Autism Rating Scale version 2 (CARS2)measured after one year and after two years to compare the effect of hyperbaric oxygen therapy, Risperidone, both of them and the placebo effect"
+      ],
+      "sponsor": "Minia University",
+      "url": "https://clinicaltrials.gov/study/NCT03887754"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06368726",
+      "title": "Results of the Application of 80 Sessions of tDCS for 12 Months in Children Between 6 and 11 Years Old With Autism Spectrum Disorder With Rare Diseases, Genetic Problems or PANDAS",
+      "phase": "PHASE1",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-04-01",
+      "completion_date": "2025-07-01",
+      "country": "United Kingdom",
+      "enrollment": 180,
+      "brief_summary": "Results of the application of 100 sessions of tDCS for 12 months in children between 6 and 11 years old with autism spectrum disorder with rare diseases, genetic problems or PANDAS",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 7 and 15 years old\n* Diagnosis: PDD, ASD or PANDAS\n* Have genetic alterations with geneticist reports like: mutation, random mating between organisms, random fertilization or crossing over (or recombination) between chromatids of homologous chromosomes during meios",
+      "endpoints": [
+        "FFT",
+        "Power Density Spectrum Changes or PSD",
+        "ERP MMN changes"
+      ],
+      "sponsor": "Spanish Foundation for Neurometrics Development",
+      "url": "https://clinicaltrials.gov/study/NCT06368726"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00374764",
+      "title": "Randomized Double Blind Comparison of Applied Behavioral Analysis Versus ABA and Risperidone",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-07",
+      "completion_date": "2002-06",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Hypotheses:\n\n1. Preschool children with autism spectrum disorders (ASDs) who undergo ABA treatment only will demonstrate significantly better outcomes compared to an age and severity matched control group without ABA treatment.\n2. Preschool children with ASDs who undergo ABA in combination with risperidone will demonstrate significantly better outcomes compared to age and severity matched children who are receiving ABA alone.\n3. Young age, cognitive development and attentional abilities at basel",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of autism or severe pervasive developmental disorder (PDD) not otherwise specified (NOS) according to the Autism Diagnosis Interview-Revised (ADI-R)\n* Aged 2.6 to 5.0.\n\nExclusion Criteria:\n\n* Fragile X or metabolic etiology of PDD symptoms\n* Diagnosis of other centra",
+      "endpoints": [],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00374764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05146245",
+      "title": "Safety and Pharmacokinetics of Antipsychotics in Children 2: Studying TDM in an RCT",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-01",
+      "completion_date": "2024-05",
+      "country": "Netherlands",
+      "enrollment": 140,
+      "brief_summary": "The aim of this study is to test whether therapeutic drug monitoring of risperidone in children with autism spectrum disorder and comorbid behavioral problems is able to reduce metabolic side effect burden, while retaining clinical effectiveness.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 6 to 18 years\n* Documented clinical diagnosis of autism spectrum disorder according to DSM IV or DSM V and comorbid behavioural problems\n* To start treatment with risperidone\n\nExclusion Criteria:\n\n* Diabetes type I or II\n* Congenital or acquired syndrome associated with ch",
+      "endpoints": [
+        "BMI z-score"
+      ],
+      "sponsor": "Erasmus Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05146245"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00576732",
+      "title": "Risperidone in the Treatment of Children and Adolescents With Autistic Disorder: A Double-Blind, Placebo-Controlled Study of Efficacy and Safety, Followed by an Open-Label Extension Study of Safety",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 96,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness (change in level of irritability and related behaviors) and safety and tolerability of the administration of 2 different fixed dose levels of risperidone (an atypical antipsychotic drug) compared with placebo in children or adolescents who have autism, and to evaluate the safety and tolerability of the drug for additional 26 weeks after the initial 6-week study period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV diagnosis of Autistic Disorder (299.00)\n* ABC-I Subscale score of greater than or equal to 18\n* CGI-S of greater than or equal to 4\n* mental age \\>18 months, body weight of at least 20 kg, seizure-free for at least 6 consecutive months and if on anticonvulsants must be ",
+      "endpoints": [
+        "Change in Aberrant Behavior Checklist Irritability (ABC-I) Subscale"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00576732"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00080145",
+      "title": "Risperidone and Behavioral Therapy in Treatment of Children and Adolescents With Autistic Disorder",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 124,
+      "brief_summary": "This 24-week study will compare the safety and effectiveness of medication treatment alone (risperidone or aripiprazole) to medication treatment in combination with a parent management training program.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Autistic Disorder, Asperger's Disorder, or Pervasive Developmental Disorder not otherwise specified\n* Weight \\> 30 lbs\n* IQ \\>= 35 or mental age of at least 18 months\n\nExclusion Criteria:\n\n* Psychotic Disorder\n* History of intolerance or nonresponse to risperidone\n* Pregnancy\n",
+      "endpoints": [
+        "Home Situations Questionnaire",
+        "Vineland Daily Living Skills Scale"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT00080145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00691080",
+      "title": "Characterization of Endogenous Melatonin Profiles in Children With Autism Spectrum Disorder.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "The investigators will examine whether sleep problems in children with autism spectrum disorder (ASD) are related to alterations in the production of melatonin (MT), a hormone that plays an important role in regulating sleep-wake cycle. Children with ASD experience high rates of sleep disturbances that potentially contribute to problems with thinking and behavior. It is unclear if changes in MT production cause sleep problems in children with ASD. MT is frequently used to treat these sleep probl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of Autism Spectrum Disorder; supported by ADOS and the ADI or SCQ (subjects).\n2. Age greater than or equal to 4 or less than or equal to 9 years;\n3. Parents have given informed consent.\n4. Parent/Caregiver fluent in written and spoken English.\n5. Controls only: A SC",
+      "endpoints": [
+        "Sleep Latency, as measured by actigraphy"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00691080"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01337700",
+      "title": "Milnacipran in Autism and the Functional Locus Coeruleus and Noradrenergic Model of Autism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2014-07",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Autism Spectrum Disorders (ASD) include Autistic disorder, Asperger's syndrome and Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS). These are developmental disorders beginning prior to three years of age. Recent Centers for Disease Control (CDC) estimates suggest that ASD affects up to 1 in 100 individuals and up to 1 in 50 boys. There are very substantial costs associated with caring for patients with ASD, and ASD has the highest Caregiver Burden Scores of any condition. Ther",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female patients\n* Aged 18-50 years\n* Diagnosis of Autism Spectrum Disorder\n* intelligence quotient greater than 70\n\nExclusion Criteria:\n\n* Pregnant subjects\n* Patients deemed by comprehensive psychiatric interview to have a significant risk of suicide",
+      "endpoints": [
+        "Change in Score on Conners Adults Attention Deficit Hyperactivity Disorder (ADHD) Rating Scale",
+        "Change in Hyperactivity as Measured by Aberrant Behavior Checklist - Hyperactivity Scale"
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01337700"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01624675",
+      "title": "A Double-blind, Placebo-controlled Study, Followed by an Open-label Extension Study Evaluating the Efficacy and Safety of Risperidone (R064766) in Children and Adolescents With Irritability Associated With Autistic Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2014-10",
+      "country": "Japan",
+      "enrollment": 39,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy of risperidone compared with placebo in children and adolescents with irritability associated with autistic disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnostic for autistic disorder\n* A Clinical Global Impression - Severity (CGI-S) score of =\\>4 and an Aberrant Behavior Checklist - Japanese Version (ABC-J) Irritability Subscale score of =\\>18\n* Patients with mental age of \\>18 months as measured by appropriate developmenta",
+      "endpoints": [
+        "The change from baseline in the Aberrant Behavior Checklist-Japanese Version (ABC-J) Irritability Subscale scores"
+      ],
+      "sponsor": "Janssen Pharmaceutical K.K.",
+      "url": "https://clinicaltrials.gov/study/NCT01624675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00584701",
+      "title": "Pharmacogenomics in Autism Treatment",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-05",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "Autism is a complex neurodevelopmental disorder that is thought to involve an interaction between multiple and variable susceptibility genes, environmental factors, and epigenetic effects. Great concern has been raised about the marked increase in the prevalence of autism spectrum disorders in the last decade. Risperidone, the most studied atypical antipsychotic used in children, has been shown to improve severe behavioral difficulties in over half of children with autism who have these difficul",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willingness to participate and written informed consent obtained from parent and when indicated by subject\n2. Confirmed DSM-IV-TR diagnosis of Autistic Disorder or Asperger's Disorder using the ADOS and the ADI-R, the current gold standards for diagnosing autism spectrum diso",
+      "endpoints": [
+        "Percent Change of ABC - Irritability Subscale Score"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00584701"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05868720",
+      "title": "EFFECT OF RISPERIDONE vs ARIPIPRAZOLE ON OXIDATIVE STRESS IN PATIENTS WITH AUTISM SPECTRUM DISORDER: A RANDOMIZED CONTROLLED TRIAL",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-07-01",
+      "completion_date": "2025-03-02",
+      "country": "N/A",
+      "enrollment": 42,
+      "brief_summary": "The goal of this Randomized Controlled Trial is to to compare the effect of Risperidone vs Aripiprazole in terms of change in serum Glutathione level in patients with Autism Spectrum Disorder over a period of 6 weeks.\n\nThe main questions it aims to answer are:\n\n1. (Primary Outcome) Change in serum Glutathione levels following 6 weeks of intervention in both the arms\n2. (Secondary Outcomes) Change in serum superoxide dismutase (SOD) levels following 6 weeks of intervention.\n\nChange in ISAA score ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion criteria:\n\n  * Patients diagnosed with Autism Spectrum Disorder (according to ICD-11 DCR) under the age group of 18 years.\n  * Legally authorized representative (LAR) giving voluntary written consent for participation in the study.\n\nExclusion Criteria:\n\n* History of ",
+      "endpoints": [
+        "Change in serum Glutathione levels following 6 weeks of intervention in both the arms"
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT05868720"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06373770",
+      "title": "Effects of Ayres Sensory Integration Therapy Versus Conservative Treatment in Autism Spectrum",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-10-01",
+      "completion_date": "2024-09-30",
+      "country": "Pakistan",
+      "enrollment": 30,
+      "brief_summary": "Effects of Ayres Sensory Integration Therapy Versus Conservative Treatment in Autism Spectrum",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed cases of autism age range from 2 year to 8 years.\n* All patients will be assed using sensory profile by Winnie Dunn.\n* All the patients fulfilling the above-mentioned inclusion criteria will be assessed and evaluated by occupational therapist for sensory integration ",
+      "endpoints": [
+        "sensory profile by winnie dunn"
+      ],
+      "sponsor": "Superior University",
+      "url": "https://clinicaltrials.gov/study/NCT06373770"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01333072",
+      "title": "Biomarkers in Autism of Aripiprazole and Risperidone Treatment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-07",
+      "completion_date": "2015-08",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The Biomarkers in autism of aripiprazole and risperidone treatment (BAART) project will provide evidence-based guidance in the selection and monitoring of drug treatment of autism. BAART involves 3 academic centers across South Carolina. Although the FDA has approved use of the antipsychotic drug risperidone for irritability associated with autistic disorder, a moderate response rate in pivotal clinical trials and concerns over tolerability and weight gain can force clinicians to select alternat",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Aged 6 to 17 years and weight of at least 15 kg\n* Meet DSM-IV criteria for of AD, established by chart review, clinical judgment and the Autism Diagnostic Interview- Revised (ADI-R) criteria\n* Clinical Global Impressions Severity (CGI-S) score of \\>4 (moderately ill)\n* ABC Irri",
+      "endpoints": [
+        "Changes in the Irritability Subscale of the Larger ABC (Abberent Behavior Checklist) That Occur From Baseline to 10 Weeks"
+      ],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT01333072"
+    }
+  ],
+  "timestamp": "2026-03-04T15:31:59.469664",
+  "success": true,
+  "error_message": null
+}

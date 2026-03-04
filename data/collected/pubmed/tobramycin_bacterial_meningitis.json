@@ -1,0 +1,569 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tobramycin",
+    "disease": "bacterial meningitis",
+    "query_string": "Tobramycin AND bacterial meningitis"
+  },
+  "data": {
+    "query": "Tobramycin AND bacterial meningitis",
+    "results": [
+      {
+        "pmid": "18416587",
+        "title": "Meropenem: a review of its use in the treatment of serious bacterial infections.",
+        "abstract": "Meropenem (Merrem, Meronem) is a broad-spectrum antibacterial agent of the carbapenem family, indicated as empirical therapy prior to the identification of causative organisms, or for disease caused by single or multiple susceptible bacteria in both adults and children with a broad range of serious infections. Meropenem is approved for use in complicated intra-abdominal infection (cIAI), complicated skin and skin structure infection (cSSSI) and bacterial meningitis (in paediatric patients aged > or = 3 months) in the US, and in most other countries for nosocomial pneumonia, cIAI, septicaemia, febrile neutropenia, cSSSI, bacterial meningitis, complicated urinary tract infection (UTI), obstetric and gynaecological infections, in cystic fibrosis patients with pulmonary exacerbations, and for the treatment of severe community-acquired pneumonia (CAP). Meropenem has a broad spectrum of in vitro activity against Gram-positive and Gram-negative pathogens, including extended-spectrum beta-lact",
+        "journal": "Drugs",
+        "year": "2008",
+        "authors": [
+          "Baldwin Claudine M",
+          "Lyseng-Williamson Katherine A",
+          "Keam Susan J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Cost-Benefit Analysis",
+          "Drug Costs",
+          "Humans",
+          "Meropenem",
+          "Severity of Illness Index",
+          "Thienamycins",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18416587/"
+      },
+      {
+        "pmid": "30446934",
+        "title": "Current Practices of Intraventricular Antibiotic Therapy in the Treatment of Meningitis and Ventriculitis: Results from a Multicenter Retrospective Cohort Study.",
+        "abstract": "Central nervous system (CNS) infections are particularly prevalent in the adult neurocritical care patient population and are associated with significant morbidity and mortality. Factors relevant to the nature of CNS infections pose significant challenges to clinicians treating afflicted patients. Intraventricular (IVT) administration of antibiotics may offer several benefits over systemic therapy; however, the outcomes and current practices of such treatments are poorly described in the literature.",
+        "journal": "Neurocritical care",
+        "year": "2019",
+        "authors": [
+          "Lewin John J",
+          "Cook Aaron M",
+          "Gonzales Cynthia",
+          "Merola David",
+          "Neyens Ron"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Cerebral Ventriculitis",
+          "Cerebrospinal Fluid",
+          "Critical Care",
+          "Female",
+          "Gentamicins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30446934/"
+      },
+      {
+        "pmid": "927330",
+        "title": "Intralumbar and intraventricular therapy of bacterial meningitis.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "1977",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Cerebrospinal Fluid Shunts",
+          "Gentamicins",
+          "Humans",
+          "Infant, Newborn",
+          "Injections, Intraventricular",
+          "Meningitis",
+          "Tobramycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/927330/"
+      },
+      {
+        "pmid": "18713049",
+        "title": "Update on the efficacy and tolerability of meropenem in the treatment of serious bacterial infections.",
+        "abstract": "Meropenem is a carbapenem antibiotic approved by the US Food and Drug Administration for the treatment of complicated skin and skin-structure infections, complicated intra-abdominal infections, and pediatric bacterial meningitis (in patients >or=3 months of age). In clinical trials, it also has shown efficacy as initial empirical therapy for the treatment of nosocomial pneumonia. Unlike other beta-lactam antibiotics, including third-generation cephalosporins, carbapenems have shown activity against extended-spectrum beta-lactamase-producing and AmpC chromosomal beta-lactamase-producing bacteria. Compared with imipenem, meropenem is more active against gram-negative pathogens and somewhat less active against gram-positive pathogens, and it does not require coadministration of a renal dehydropeptidase inhibitor. In most comparative trials, clinical and bacteriological response rates with imipenem and meropenem were similar. Compared with clindamycin/tobramycin, meropenem is associated wi",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2008",
+        "authors": [
+          "Mohr John F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abdominal Abscess",
+          "Bacteria",
+          "Bacterial Infections",
+          "Cross Infection",
+          "Humans",
+          "Infant",
+          "Meningitis, Bacterial",
+          "Meropenem",
+          "Pneumonia",
+          "Skin Diseases, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18713049/"
+      },
+      {
+        "pmid": "33522127",
+        "title": "Intrathecal tobramycin and pausing induction chemotherapy for pediatric acute lymphoblastic leukemia facilitate successful management of disseminated Pseudomonas aeruginosa infection and meningitis.",
+        "abstract": "",
+        "journal": "Pediatric blood & cancer",
+        "year": "2021",
+        "authors": [
+          "Aarnivala Henri",
+          "Tapiainen Terhi",
+          "Peltoniemi Outi",
+          "Niinimäki Riitta"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Child",
+          "Humans",
+          "Induction Chemotherapy",
+          "Meningitis",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Pseudomonas Infections",
+          "Pseudomonas aeruginosa",
+          "Tobramycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33522127/"
+      },
+      {
+        "pmid": "4599859",
+        "title": "Comparative clinical study of tobramycin and gentamicin.",
+        "abstract": "Gentamicin and tobramycin have been compared in vitro and as single-drug therapy in patients with a serious infection caused by gram-negative rods. In vitro, a slight advantage of tobramycin over gentamicin has been found against Pseudomonas aeruginosa. Cross-resistance between gentamicin and tobramycin has been observed for gentamicin-resistant strains of P. aeruginosa and Providence but was not always present. The clinical effectiveness of gentamicin and tobramycin was similar: 14 (45.1%) out of the 31 patients in each series responded favorably. The clinical results were much better in urinary tract infections (66% of favorable responses) than in wound infections, pulmonary infections, septicemia, and meningitis (26% of favorable responses). The frequency of adverse reactions encountered in the present series was similar for both drugs.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1974",
+        "authors": [
+          "Klastersky J",
+          "Hensgens C",
+          "Henri A",
+          "Daneau D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Bacterial Infections",
+          "Clinical Trials as Topic",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Gentamicins",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4599859/"
+      },
+      {
+        "pmid": "7261686",
+        "title": "Tobramycin levels in cerebrospinal fluid of patients with slightly and severely impaired blood-cerebrospinal barrier.",
+        "abstract": "Concentrations of tobramycin in cerebrospinal fluid (CSF) and serum of neurosurgical and of meningitis patients were determined following systemic application of 80-mg doses. Tobramycin was detectable only in 8 tests out of 17 in CSF of 11 neurosurgical patients. The highest drug amount in CSF in these tests was 0.47 microgram/ml. In CSF of 7 meningitis patients with CSF cell counts ranging from 173/3 to 20,500/3 cells, tobramycin was detectable in all 11 determinations. However, the tobramycin level was above 1.0 microgram/ml in only one CSF sample. These results also confirm the poor penetrability of aminoglycosides through the blood-CSF barrier for tobramycin. In proven gram-negative bacillary meningitis and tobramycin treatment, additional intraventricular aminoglycoside application is necessary to obtain effective levels in CSF. An exception may be treatment of neonatal meningitis.",
+        "journal": "Chemotherapy",
+        "year": "1981",
+        "authors": [
+          "Brückner O",
+          "Alexander M",
+          "Collmann H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Blood-Brain Barrier",
+          "Humans",
+          "Meningitis",
+          "Neurosurgical Procedures",
+          "Postoperative Complications",
+          "Tobramycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7261686/"
+      },
+      {
+        "pmid": "38755556",
+        "title": "New and old lessons from a devastating case of neonatal E coli meningitis.",
+        "abstract": "Neonatal Escherichia coli (E coli) meningitis results in significant morbidity and mortality. We present a case of a premature infant with extensive central nervous system (CNS) injury from recurrent E coli infection and the non-traditional methods necessary to identify and clear the infection.",
+        "journal": "BMC pediatrics",
+        "year": "2024",
+        "authors": [
+          "Saleh Tawny",
+          "Kamau Edwin",
+          "Rathe Jennifer A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infant, Newborn",
+          "Anti-Bacterial Agents",
+          "Infant, Premature",
+          "Infant, Premature, Diseases",
+          "Meningitis, Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38755556/"
+      },
+      {
+        "pmid": "3524215",
+        "title": "Aminoglycoside toxicity in infants and children.",
+        "abstract": "The aminoglycosides are frequently prescribed for infants and children, especially newborn infants with suspected or documented sepsis or meningitis. In older infants and children, the aminoglycosides are commonly used to treat acute respiratory exacerbations in patients with cystic fibrosis, intra-abdominal sepsis, complicated urinary tract infections, and other infections caused by gram-negative enteric bacilli. Although these drugs are generally well tolerated and efficacious, there is relatively little information on toxicity in pediatric patients. The potential for ototoxicity from the aminoglycosides, especially streptomycin, kanamycin, and gentamicin, was evaluated in seven prospective, controlled studies of 1,321 newborn infants. Although the designs and follow-up periods were different among the studies, the audiometric tests were similar and appropriate for age. Three studies measured auditory brain stem response during the neonatal and early infancy periods. With the excepti",
+        "journal": "The American journal of medicine",
+        "year": "1986",
+        "authors": [
+          "McCracken G H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amikacin",
+          "Aminoglycosides",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Child",
+          "Clinical Trials as Topic",
+          "Evoked Potentials, Auditory",
+          "Gentamicins",
+          "Hearing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3524215/"
+      },
+      {
+        "pmid": "1633464",
+        "title": "Infections in neurologic surgery. The intraventricular use of antibiotics.",
+        "abstract": "Intraventricular antibiotic therapy appears to be a useful treatment modality in those CSF infections in which systemic therapy may fail. Consideration should be given to using this form of treatment when infecting organisms are only sensitive to antibiotics with poor penetration of the CSF (e.g., aminoglycosides and vancomycin) and for cases in which intravenous therapy has failed to sterilize the CSF, toxicity from systemic therapy precludes further increases in dosages, and shunts or other CSF hardware might be expected to reduce the efficacy of systemic therapy by providing a foreign body to harbor organisms. Shunts or reservoirs that are infected may be successfully sterilized with IVT therapy alone or in conjunction with systemic therapy, but this has a lower success rate than cases in which the shunt is removed. There is a wealth of clinical experience with IVT vancomycin and gentamicin that suggests that they are relatively safe. Until more data are available on other aminoglyc",
+        "journal": "Neurosurgery clinics of North America",
+        "year": "1992",
+        "authors": [
+          "Wen D Y",
+          "Bottini A G",
+          "Hall W A",
+          "Haines S J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Antifungal Agents",
+          "Cerebrospinal Fluid Shunts",
+          "Humans",
+          "Injections, Intraventricular",
+          "Meningitis, Bacterial",
+          "Meningitis, Fungal",
+          "Surgical Wound Infection"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1633464/"
+      },
+      {
+        "pmid": "11816266",
+        "title": "Pharmacokinetic model for tobramycin in acinetobacter meningitis.",
+        "abstract": "To report a case of acinetobacter meningitis treated with a once-daily intravenous dose of tobramycin and to propose a pharmacokinetic model for the drug disposition.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2002",
+        "authors": [
+          "Chicano-Piá Pedro V",
+          "Cercós-Lletí Ana-Cristina",
+          "Romá-Sánchez Eva"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acinetobacter Infections",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Cerebrospinal Fluid Shunts",
+          "Humans",
+          "Hydrocephalus",
+          "Injections, Intravenous",
+          "Male",
+          "Meningitis, Bacterial",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11816266/"
+      },
+      {
+        "pmid": "9255896",
+        "title": "Fatal Listeria meningitis, endocarditis and pericarditis in a patient with haemochromatosis.",
+        "abstract": "A 65-year-old man with primary haemochromatosis was admitted because of fever and confusion. He was found to have bacteraemia and meningitis due to Listeria monocytogenes. Treatment with ampicillin plus tobramycin was instituted, and despite an initial improvement, the patient experienced an unfavourable course and died. At postmortem examination, tricuspid valve endocarditis and purulent pericarditis with tamponade were detected. Listeria monocytogenes grew in the culture of the pericardial fluid. Documentation of Listeria monocytogenes pericarditis is extremely rare, and data on the patient described and on seven published cases are reported.",
+        "journal": "Scandinavian journal of infectious diseases",
+        "year": "1997",
+        "authors": [
+          "Manso C",
+          "Rivas I",
+          "Peraire J",
+          "Vidal F",
+          "Richart C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bacteremia",
+          "Endocarditis, Bacterial",
+          "Fatal Outcome",
+          "Female",
+          "Hemochromatosis",
+          "Humans",
+          "Listeria monocytogenes",
+          "Listeriosis",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9255896/"
+      },
+      {
+        "pmid": "10991742",
+        "title": "Disseminated gonococcal infection and meningitis.",
+        "abstract": "",
+        "journal": "The American journal of medicine",
+        "year": "2000",
+        "authors": [
+          "Mofredj A",
+          "Baraka D",
+          "Madec Y",
+          "Lemaitre P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alcoholism",
+          "Anti-Bacterial Agents",
+          "Cerebrospinal Fluid",
+          "Drug Therapy, Combination",
+          "Female",
+          "Gonorrhea",
+          "Humans",
+          "Meningitis, Bacterial",
+          "Neisseria gonorrhoeae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10991742/"
+      },
+      {
+        "pmid": "7588092",
+        "title": "Meropenem. A review of its antibacterial activity, pharmacokinetic properties and clinical efficacy.",
+        "abstract": "The parenteral carbapenem meropenem is relatively stable to inactivation by human renal dehydropeptidase (DHP-1) and does not require concomitant administration of a DHP-1 inhibitor such as cilastatin. It has a broad spectrum of antibacterial activity in vitro, the majority of Gram-negative, Gram-positive and anaerobic pathogens being highly susceptible to the drug. Meropenem has shown clinical and bacteriological efficacy in the treatment of a wide range of serious infections in adults and children which is at least comparable with that of currently available treatment options. Its clinical and bacteriological efficacy is similar to that of imipenem/cilastatin, clindamycin plus tobramycin and cefotaxime plus metronidazole in the treatment of intraabdominal infections; cefotaxime or ceftriaxone in the treatment of meningitis; imipenem/cilastatin, and ceftazidime with or without an aminoglycoside, in lower respiratory tract infections; and imipenem/cilastatin or ceftazidime in the treat",
+        "journal": "Drugs",
+        "year": "1995",
+        "authors": [
+          "Wiseman L R",
+          "Wagstaff A J",
+          "Brogden R N",
+          "Bryson H M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Aging",
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Drug Evaluation",
+          "Drug Resistance, Microbial",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7588092/"
+      },
+      {
+        "pmid": "24237442",
+        "title": "[Healthcare-associated Neisseria meningitidis W135 conjunctivitis].",
+        "abstract": "Neisseria meningitidis is an unusual pathogen among the causes of acute bacterial conjunctivitis. Meningococcal conjunctivitis may present as primary or secondary infection, while primary meningococcal conjunctivitis may emerge as invasive or non-invasive forms. N.meningitidis W135 strain is not common in Turkey, and is rarely reported as the cause of meningitis. Moreover, no cases of conjunctivitis due to N.meningitidis W135 were reported from Turkey. In this report a case of N.meningitidis W135 conjunctivitis has been presented who acquired the infection from another patient with meningococcal meningitis by close contact in the hospital environment. A 2-month-old male infant was admitted to our hospital with poor health condition, feeding difficulty and weight loss. He was hospitalized in intensive care unit and fluid replacement started due to severe dehydration. The infant had stigmata of Down's Syndrome, and since conjunctivitis were detected on physical examination, swab samples ",
+        "journal": "Mikrobiyoloji bulteni",
+        "year": "2013",
+        "authors": [
+          "Unal Yılmaz Gülizar",
+          "Alkan Metin",
+          "Vatansever Özbek Ulfet",
+          "Tuğrul H Murat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Conjunctivitis, Bacterial",
+          "Cross Infection",
+          "Dehydration",
+          "Down Syndrome",
+          "Fluid Therapy",
+          "Humans",
+          "Infant",
+          "Male",
+          "Meningococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24237442/"
+      },
+      {
+        "pmid": "40463015",
+        "title": "Antibiotic treatment modulates Escherichia coli-derived bacterial extracellular vesicle (BEV) production and their capacity to upregulate ICAM-1 in human endothelial cells.",
+        "abstract": "Antibiotic treatment is often necessary to eliminate life-threatening bacterial infections. However, these treatments can alter production of bacterial extracellular vesicles (BEVs), which often contain pro-inflammatory biomolecules. In this study, we examined how the clinically-relevant antibiotics meropenem, tobramycin, and ciprofloxacin impacted BEV production from a urinary tract infection-associated Escherichia coli strain (CFT073 [WAM2267]) and a meningitis-associated strain (K1 RS218). BEVs from both strains caused a dose-dependent increase in expression of intercellular adhesion molecule-1 (ICAM-1) in human umbilical vein endothelial cells, priming the endothelium for interactions with immune cells. Blockade of toll-like receptor 4 revealed that this receptor was responsible for BEV-endothelial interactions. Treatment with meropenem, a β-lactam antibiotic, increased production of BEVs from strain K1 RS218. Furthermore, meropenem treatment caused strain CFT073 [WAM2267] to produ",
+        "journal": "bioRxiv : the preprint server for biology",
+        "year": "2025",
+        "authors": [
+          "Widom Louis P",
+          "Torabian Panteha",
+          "Wojehowski Abigail C",
+          "Ghaemmaghami Sina",
+          "Michel Lea V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Preprint"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40463015/"
+      },
+      {
+        "pmid": "2179845",
+        "title": "Treatment of Pseudomonas meningitis with ceftazidime with or without concurrent therapy.",
+        "abstract": "In ongoing studies in Europe and the United States, 10 pediatric patients with bacterial meningitis caused by Pseudomonas species were treated with ceftazidime. Pseudomonas aeruginosa was isolated from the CSF of 7 patients and other Pseudomonas species from the remaining 3. Eight of the 10 patients had received previous antimicrobial treatment which included aminoglycosides in 6, along with ticarcillin and ureidopenicillins in 3. Ceftazidime was administered 10 to 42 days in dosages ranging from 109 to 300 mg/kg/day. Seven of the 10 patients received ceftazidime only for 10 to 42 days. The other 3 patients received amikacin in 2 and gentamicin and tobramycin in the other. Seven patients were cured clinically and 3 died; 9 were cured bacteriologically and one who was presumed cured on the basis of clinical response subsequently died. Sterilization of the cerebrospinal fluid occurred at 48 hours to 12 days. Ceftazidime appears useful in treating bacterial meningitis caused by Pseudomona",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1990",
+        "authors": [
+          "Rodriguez W J",
+          "Khan W N",
+          "Cocchetto D M",
+          "Feris J",
+          "Puig J R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Ceftazidime",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2179845/"
+      },
+      {
+        "pmid": "3279487",
+        "title": "Use of animal models in evaluation of the quinolones.",
+        "abstract": "Discriminative animal models of infection are important in helping to define the role of new antibacterial drugs in the treatment of human diseases. Several animal models have been used to compare the efficacies of quinolones with those of standard therapies against selected bacterial pathogens. In animal models of endocarditis, pefloxacin, enoxacin, and ciprofloxacin have been shown to be equivalent to standard therapies against methicillin-sensitive Staphylococcus aureus and as effective as vancomycin against methicillin-resistant strains. Difloxacillin has been shown to be equivalent to vancomycin in a model of osteomyelitis due to S. aureus. Ciprofloxacin is as effective as the combination of ceftazidime and tobramycin in a model of pseudomonal meningitis, although the levels of ciprofloxacin (6 mg/L) in serum required to produce a bactericidal effect in the cerebrospinal fluid are higher than those usually obtained in humans. Ciprofloxacin and other quinolones are also effective t",
+        "journal": "Reviews of infectious diseases",
+        "year": "1988",
+        "authors": [
+          "Sande M A",
+          "Brooks-Fournier R A",
+          "Gerberding J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents",
+          "Disease Models, Animal",
+          "Drug Evaluation",
+          "Metabolic Clearance Rate",
+          "Pseudomonas Infections",
+          "Quinolines",
+          "Staphylococcal Infections",
+          "Therapeutic Equivalency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3279487/"
+      },
+      {
+        "pmid": "23300401",
+        "title": "Intraventricular and Intravenous Tobramycin with Ceftazidime for Ventriculitis Secondary to Pseudomonas aeruginosa.",
+        "abstract": "The preferred method for shunting cerebrospinal fluid in the ventricles is via a ventriculoperitoneal or ventriculoatrial shunt. Unfortunately, infection is a major complication of shunt surgery, which places the patient at risk of intellectual impairment and death. Although the most common causative pathogens are Staphylococcus epidermidis and Staphylococcus aureus, gram-negative bacterial infections have increased over the last three decades. Treatment of Pseudomonas ventriculitis is highly variable, because there are few guidelines for drug selection, administration, and monitoring. We report a case of post-shunt revision Pseudomonas meningitis/ ventriculitis that was successfully treated by the intraventricular adminstration tobramycin in conjunction with intravenous tobramycin and ceftazidime.",
+        "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+        "year": "2003",
+        "authors": [
+          "Masvosva Priscilla",
+          "Buckingham Steven C",
+          "Einhaus Stephanie",
+          "Phelps Stephanie J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23300401/"
+      },
+      {
+        "pmid": "7015646",
+        "title": "[Cefuroxime-tobramycin treatment of bacterial infections in cancer patients].",
+        "abstract": "Twenty-five patients with different metastatic tumors, and often with other diseases which may have further compromised their defenses (such as diabetes, anemia and neutropenia), had a simultaneous bacterial complication. This was regarded as documented (i.e., proved by positive culture) in 12 of 25 patients, and probable if subjective and objective symptoms, X-ray, laboratory tests and the clinical picture agreed with bacterial infection in progress, even though the culture was negative, in 13 of 25 patients. Antibiotic therapy with cefuroxime-tobramycin gave good results in 19 of 25 patients, i.e., in 10 of 12 with a documented infection and in 9 of 13 with a probable infection. Fever of unknown origin and urinary infections were the most responsive to the therapy. Three of 25 patients had nephrotoxicity, with a very small rise in BUN and creatinine, which was easily reversible. According to our experience, antibiotic therapy with cefuroxime-tobramycin would be useful in cancer patie",
+        "journal": "Tumori",
+        "year": "1980",
+        "authors": [
+          "Azzoni P"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Cefuroxime",
+          "Cephalosporins",
+          "Drug Therapy, Combination",
+          "Enterobacteriaceae Infections",
+          "Humans",
+          "Meningitis, Meningococcal",
+          "Neoplasms",
+          "Staphylococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7015646/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:41:30.816344",
+  "success": true,
+  "error_message": null
+}

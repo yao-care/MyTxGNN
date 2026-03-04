@@ -1,0 +1,42 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clobetasol Propionate",
+    "disease": "seborrheic keratosis",
+    "query_string": "Clobetasol Propionate AND seborrheic keratosis"
+  },
+  "data": {
+    "query": "Clobetasol Propionate AND seborrheic keratosis",
+    "results": [
+      {
+        "pmid": "16733453",
+        "title": "[Improvement of Darier's disease on treatment with topical 5-fluorouracil].",
+        "abstract": "Darier's disease is an inherited genodermatosis with autosomal dominant transmission characterized by hyperkeratotic papules of seborrheic regions in the axillae, groin or submammary skin in women. Current therapeutic alternatives are poor, encouraging recourse to alternatives treatments such as topical 5-fluorouracil (Efudix) used until now for pre-epitheliomatous keratosis.",
+        "journal": "Annales de dermatologie et de venereologie",
+        "year": "2006",
+        "authors": [
+          "Velasco S",
+          "Guillet G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Antimetabolites",
+          "Darier Disease",
+          "Fluorouracil",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16733453/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:04:16.678512",
+  "success": true,
+  "error_message": null
+}

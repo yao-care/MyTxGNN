@@ -1,0 +1,616 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "iron deficiency anemia",
+    "query_string": "Folic Acid AND iron deficiency anemia"
+  },
+  "data": {
+    "query": "Folic Acid AND iron deficiency anemia",
+    "results": [
+      {
+        "pmid": "10818399",
+        "title": "Anemia in pregnancy.",
+        "abstract": "Anemia is one of the most frequent complications related to pregnancy. Normal physiologic changes in pregnancy affect the hemoglobin (Hb), and there is a relative or absolute reduction in Hb concentration. The most common true anemias during pregnancy are iron deficiency anemia (approximately 75%) and folate deficiency megaloblastic anemia, which are more common in women who have inadequate diets and who are not receiving prenatal iron and folate supplements. Severe anemia may have adverse effects on the mother and the fetus. Anemia with hemoglobin levels less than 6 gr/dl is associated with poor pregnancy outcome. Prematurity, spontaneous abortions, low birth weight, and fetal deaths are complications of severe maternal anemia. Nevertheless, a mild to moderate iron deficiency does not appear to cause a significant effect on fetal hemoglobin concentration. An Hb level of 11 gr/dl in the late first trimester and also of 10 gr/dl in the second and third trimesters are suggested as lower ",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "2000",
+        "authors": [
+          "Sifakis S",
+          "Pharmakides G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Megaloblastic",
+          "Female",
+          "Folic Acid Deficiency",
+          "Hemoglobins",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10818399/"
+      },
+      {
+        "pmid": "28034892",
+        "title": "How I treat anemia in pregnancy: iron, cobalamin, and folate.",
+        "abstract": "Anemia of pregnancy, an important risk factor for fetal and maternal morbidity, is considered a global health problem, affecting almost 50% of pregnant women. In this article, diagnosis and management of iron, cobalamin, and folate deficiencies, the most frequent causes of anemia in pregnancy, are discussed. Three clinical cases are considered. Iron deficiency is the most common cause. Laboratory tests defining iron deficiency, the recognition of developmental delays and cognitive abnormalities in iron-deficient neonates, and literature addressing the efficacy and safety of IV iron in pregnancy are reviewed. An algorithm is proposed to help clinicians diagnose and treat iron deficiency, recommending oral iron in the first trimester and IV iron later. Association of folate deficiency with neural tube defects and impact of fortification programs are discussed. With increased obesity and bariatric surgery rates, prevalence of cobalamin deficiency in pregnancy is rising. Low maternal cobal",
+        "journal": "Blood",
+        "year": "2017",
+        "authors": [
+          "Achebe Maureen M",
+          "Gafter-Gvili Anat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Erythrocyte Transfusion",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hematinics",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28034892/"
+      },
+      {
+        "pmid": "22232312",
+        "title": "The diet factor in attention-deficit/hyperactivity disorder.",
+        "abstract": "This article is intended to provide a comprehensive overview of the role of dietary methods for treatment of children with attention-deficit/hyperactivity disorder (ADHD) when pharmacotherapy has proven unsatisfactory or unacceptable. Results of recent research and controlled studies, based on a PubMed search, are emphasized and compared with earlier reports. The recent increase of interest in this form of therapy for ADHD, and especially in the use of omega supplements, significance of iron deficiency, and the avoidance of the \"Western pattern\" diet, make the discussion timely. Diets to reduce symptoms associated with ADHD include sugar-restricted, additive/preservative-free, oligoantigenic/elimination, and fatty acid supplements. Omega-3 supplement is the latest dietary treatment with positive reports of efficacy, and interest in the additive-free diet of the 1970s is occasionally revived. A provocative report draws attention to the ADHD-associated \"Western-style\" diet, high in fat a",
+        "journal": "Pediatrics",
+        "year": "2012",
+        "authors": [
+          "Millichap J Gordon",
+          "Yee Michelle M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Child",
+          "Combined Modality Therapy",
+          "Complementary Therapies",
+          "Diet, High-Fat",
+          "Dietary Fiber",
+          "Dietary Sucrose",
+          "Dietary Supplements",
+          "Fatty Acids, Omega-3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22232312/"
+      },
+      {
+        "pmid": "35276810",
+        "title": "Efficacy and Safety of Ferrous Bisglycinate and Folinic Acid in the Control of Iron Deficiency in Pregnant Women: A Randomized, Controlled Trial.",
+        "abstract": "Iron deficiency in pregnancy is a major public health problem that causes maternal complications. The objective of this randomized, controlled trial was to examine the bioavailability, efficacy, and safety of oral ferrous bisglycinate plus folinic acid supplementation in pregnant women with iron deficiency. Subjects (12−16 weeks of gestation, n = 120) were randomly allocated to receive oral iron as ferrous bisglycinate (equiv. iron 24 mg) in supplement form with folinic acid and multivitamins (test group, n = 60) or as ferrous fumarate (equiv. iron 66 mg iron, control group, n = 60) after breakfast daily. Iron absorption was assessed by measuring fasted serum iron levels at 1 and 2 h immediately after supplementation. Hematological biomarkers and iron status were assessed before intervention, and at 3 and 6 months. Side effects were monitored throughout the intervention. A significant increase in serum iron was seen in both groups (p < 0.001) during the bioavailability assessment; howe",
+        "journal": "Nutrients",
+        "year": "2022",
+        "authors": [
+          "Bumrungpert Akkarach",
+          "Pavadhgul Patcharanee",
+          "Piromsawasdi Theera",
+          "Mozafari M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Biomarkers",
+          "Female",
+          "Ferrous Compounds",
+          "Glycine",
+          "Humans",
+          "Iron Deficiencies",
+          "Leucovorin",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35276810/"
+      },
+      {
+        "pmid": "39145520",
+        "title": "Daily oral iron supplementation during pregnancy.",
+        "abstract": "Iron and folic acid supplementation have been recommended in pregnancy for anaemia prevention, and may improve other maternal, pregnancy, and infant outcomes.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2024",
+        "authors": [
+          "Finkelstein Julia L",
+          "Cuthbert Anna",
+          "Weeks Jo",
+          "Venkatramanan Sudha",
+          "Larvie Doreen Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Administration, Oral",
+          "Anemia, Iron-Deficiency",
+          "Bias",
+          "Dietary Supplements",
+          "Folic Acid",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39145520/"
+      },
+      {
+        "pmid": "26198451",
+        "title": "Daily oral iron supplementation during pregnancy.",
+        "abstract": "Iron and folic acid supplementation has been the preferred intervention to improve iron stores and prevent anaemia among pregnant women, and it is thought to improve other maternal and birth outcomes.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2015",
+        "authors": [
+          "Peña-Rosas Juan Pablo",
+          "De-Regil Luz Maria",
+          "Garcia-Casal Maria N",
+          "Dowswell Therese"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "Infant, Low Birth Weight",
+          "Infant, Newborn",
+          "Iron",
+          "Iron, Dietary",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26198451/"
+      },
+      {
+        "pmid": "36263494",
+        "title": "Diagnosis, Treatment and Prevention of Nutritional Anemia in Children: Recommendations of the Joint Committee of Pediatric Hematology-Oncology Chapter and Pediatric and Adolescent Nutrition Society of the Indian Academy of Pediatrics.",
+        "abstract": "Anemia in children is a significant public health problem in our country. Comprehensive National Nutrition Survey 2016-18 provides evidence that more than 50% of childhood anemia is due to an underlying nutritional deficiency. The National Family Health Survey-5 has reported an increase in the prevalence of anemia in the under-five age group from 59% to 67.1% over the last 5 years. Clearly, the existing public health programs to decrease the prevalence of anemia have not shown the desired results. Hence, there is a need to develop nationally acceptable guidelines for the diagnosis, treatment and prevention of nutritional anemia.",
+        "journal": "Indian pediatrics",
+        "year": "2022",
+        "authors": [
+          "Chandra Jagdish",
+          "Dewan Pooja",
+          "Kumar Praveen",
+          "Mahajan Amita",
+          "Singh Preeti"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Adolescent",
+          "Humans",
+          "Child",
+          "Child, Preschool",
+          "Folic Acid Deficiency",
+          "Vitamin B 12 Deficiency",
+          "Anemia",
+          "Vitamin B 12",
+          "Anemia, Iron-Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36263494/"
+      },
+      {
+        "pmid": "35257147",
+        "title": "Coverage of iron and folic acid supplementation in India: progress under the Anemia Mukt Bharat strategy 2017-20.",
+        "abstract": "High prevalence of anaemia is a severe public health problem in India. In 2018, India launched the Anemia Mukt Bharat (AMB) strategy that focuses on six beneficiary groups for coverage, six institutional mechanisms for health system strengthening and six programmatic interventions to accelerate reductions in anaemia prevalence. This paper uses the Health Management Information System data (2017-18 to 2019-20) to examine gains in IFA coverage across Indian states. A coverage-based AMB index is computed to review performance across states. After the launch of AMB strategy, the Iron and Folic Acid (IFA) supplementation coverage between 2017-18 and 2019-20 has increased for all beneficiary groups [pregnant women from 78% to 90%; lactating mothers from 34% to 49%; school going adolescent girls (boys) from 23% to 40% (21% to 42%); out-of-school adolescent girls from 6% to 23%; children 5-9 years from 8% to 3% and children 6-59 months from 7% to 15%]. Coverage was relatively low for target gr",
+        "journal": "Health policy and planning",
+        "year": "2022",
+        "authors": [
+          "Joe William",
+          "Patel Narendra",
+          "Alambusha Ruby",
+          "Kulkarni Bharati"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "India",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35257147/"
+      },
+      {
+        "pmid": "33377747",
+        "title": "Nutritional anemia: Limitations and consequences of Indonesian intervention policy restricted to iron and folic acid.",
+        "abstract": "Currently, anemia is a severe public health issue in Indonesia. The aim of this review was to examine policy measures and program implementation to reduce anemia attributed to iron deficiency in Indonesia.",
+        "journal": "Asia Pacific journal of clinical nutrition",
+        "year": "2020",
+        "authors": [
+          "Nadiyah",
+          "Dewanti Lintang Purwara",
+          "Mulyani Erry Yudhya",
+          "Jus'at Idrus"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Diet",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Food, Fortified",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33377747/"
+      },
+      {
+        "pmid": "35218047",
+        "title": "Multiple micronutrient supplements versus iron-folic acid supplements and maternal anemia outcomes: an iron dose analysis.",
+        "abstract": "Antenatal multiple micronutrient supplements (MMS) are more effective than iron and folic acid (IFA) supplements in reducing adverse pregnancy outcomes. Questions remain, however, about the ability of MMS to prevent anemia as effectively as IFA, especially at a lower dose of daily iron and in areas of high anemia prevalence. Analyzing data from 11 trials from a recent Cochrane review, we compared MMS to IFA, delivering either 30 or 60 mg of iron, in sustaining hemoglobin and preventing third trimester anemia and iron deficiency anemia (IDA), accounting for daily iron dose, total supplemental iron intake, and baseline prevalence of anemia. There were no differences between MMS and IFA in third trimester hemoglobin concentration or risks of anemia or IDA by iron dose or total supplemental iron consumed. MMS providing 30 mg of iron was comparable to IFA with 60 mg of iron: mean hemoglobin difference of -0.26 g/L (95% CI: -1.41 to 0.89), risk ratios of 0.99 (95% CI: 0.92-1.07) for anemia, ",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "2022",
+        "authors": [
+          "Gomes Filomena",
+          "Agustina Rina",
+          "Black Robert E",
+          "Christian Parul",
+          "Dewey Kathryn G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans",
+          "Iron",
+          "Micronutrients",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35218047/"
+      },
+      {
+        "pmid": "35623842",
+        "title": "Efficacy of iron-folic acid treatment for reducing anemia prevalence and improving iron status in women of reproductive age: A one-year longitudinal study.",
+        "abstract": "Anemia control has hitherto been through prophylaxis with weekly iron folic acid (IFA) in Indian women of reproductive age (WRA). Recently, a more precise approach has been proposed, that uses a 'screen and treat with IFA' approach for anemic WRA, combined with continued prophylactic IFA in non-anemic WRA. The efficacy of this approach was assessed in Indian WRA, along with changes in iron status biomarkers.",
+        "journal": "Clinical nutrition ESPEN",
+        "year": "2022",
+        "authors": [
+          "Palika Ravindranadh",
+          "Dasi Teena",
+          "Ghosh Santu",
+          "Peter Rajini",
+          "Parasannanavar Devraj J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Ferritins",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35623842/"
+      },
+      {
+        "pmid": "24931617",
+        "title": "Iron deficiency anemia--bridging the knowledge and practice gap.",
+        "abstract": "Despite its high prevalence, anemia often does not receive proper clinical attention, and detection, evaluation, and management of iron deficiency anemia and iron-restricted erythropoiesis can possibly be an unmet medical need. A multidisciplinary panel of clinicians with expertise in anemia management convened and reviewed recent published data on prevalence, etiology, and health implications of anemia as well as current therapeutic options and available guidelines on management of anemia across various patient populations and made recommendations on the detection, diagnostic approach, and management of anemia. The available evidence confirms that the prevalence of anemia is high across all populations, especially in hospitalized patients. Anemia is associated with worse clinical outcomes including longer length of hospital stay, diminished quality of life, and increased risk of morbidity and mortality, and it is a modifiable risk factor of allogeneic blood transfusion with its own in",
+        "journal": "Transfusion medicine reviews",
+        "year": "2014",
+        "authors": [
+          "Shander Aryeh",
+          "Goodnough Lawrence T",
+          "Javidroozi Mazyar",
+          "Auerbach Michael",
+          "Carson Jeffrey"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Anemia, Iron-Deficiency",
+          "Critical Care",
+          "Erythropoiesis",
+          "Erythropoietin",
+          "Female",
+          "Ferritins",
+          "Heart Diseases",
+          "Hematology",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24931617/"
+      },
+      {
+        "pmid": "38350155",
+        "title": "Association between Iron-Folic Acid Supplementation during Pregnancy and Maternal and Infant Anemia in West Java, Indonesia: A Mixed-Method Prospective Cohort Study.",
+        "abstract": "The Indonesian government has provided iron-folic acid (IFA) supplementation in response to maternal pregnancy iron-deficiency anemia. However, community-based cohorts on IFA's effects on maternal and infant anemia are limited. A mixed-method study design with a primary longitudinal cohort was used to observe the association between IFA and anemia in mothers and infants. Iron-folic acid supplementation was observed throughout pregnancy. Anemia status was based on a single hemoglobin assessment using HemoCue Hb 201 + in the second or third trimester of pregnancy for the mother and at birth for the infant. Qualitative data were collected via in-depth interviews (IDIs) and a forum group discussion (FGD). Iron-folic acid supplementation with > 180 tablets throughout pregnancy was associated with lower pregnancy anemia (adjusted relative risk [aRR] = 0.25, 95% CI: 0.092-0.664, P = 0.006) after adjusting for potential confounding variables. Supplementation with IFA was not associated with in",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2024",
+        "authors": [
+          "Sartika Ratu Ayu Dewi",
+          "Wirawan Fadila",
+          "Putri Primasti Nuryandari",
+          "Mohd Shukri Nurul Husna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Infant, Newborn",
+          "Infant",
+          "Child",
+          "Female",
+          "Humans",
+          "Iron",
+          "Indonesia",
+          "Prospective Studies",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38350155/"
+      },
+      {
+        "pmid": "27212091",
+        "title": "Evaluation of Anemia.",
+        "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "Kujovich Jody L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Cell Count",
+          "Diagnosis, Differential",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "FIGLU Test",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+      },
+      {
+        "pmid": "32365114",
+        "title": "Adherence to iron and folic acid supplementation and prevalence of anemia among pregnant women attending antenatal care clinic at Tikur Anbessa Specialized Hospital, Ethiopia.",
+        "abstract": "Anemia during pregnancy has a significant adverse effect on both the mother and fetus. Iron and folic acid supplementation (IFAS) is the feasible and cost effective strategy to control and prevent anemia in pregnancy. However, the success of this strategy is suboptimal due to poor maternal adherences to the regimen. The aim of this study was to assess prevalence of anemia, rate of adherence to IFAS and associated factors among pregnant women at Tikur Anbessa Specialized Hospital (TASH), Ethiopia.",
+        "journal": "PloS one",
+        "year": "2020",
+        "authors": [
+          "Nasir Beshir Bedru",
+          "Fentie Atalay Mulu",
+          "Adisu Mistr Kindu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Cross-Sectional Studies",
+          "Dietary Supplements",
+          "Ethiopia",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "Iron",
+          "Patient Compliance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32365114/"
+      },
+      {
+        "pmid": "31973225",
+        "title": "Micronutrient Supplementation and Fortification Interventions on Health and Development Outcomes among Children Under-Five in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.",
+        "abstract": "Micronutrient deficiencies continue to be widespread among children under-five in low- and middle-income countries (LMICs), despite the fact that several effective strategies now exist to prevent them. This kind of malnutrition can have several immediate and long-term consequences, including stunted growth, a higher risk of acquiring infections, and poor development outcomes, all of which may lead to a child not achieving his or her full potential. This review systematically synthesizes the available evidence on the strategies used to prevent micronutrient malnutrition among children under-five in LMICs, including single and multiple micronutrient (MMN) supplementation, lipid-based nutrient supplementation (LNS), targeted and large-scale fortification, and point-of-use-fortification with micronutrient powders (MNPs). We searched relevant databases and grey literature, retrieving 35,924 papers. After application of eligibility criteria, we included 197 unique studies. Of note, we examin",
+        "journal": "Nutrients",
+        "year": "2020",
+        "authors": [
+          "Tam Emily",
+          "Keats Emily C",
+          "Rind Fahad",
+          "Das Jai K",
+          "Bhutta And Zulfiqar A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Child Nutrition Disorders",
+          "Child, Preschool",
+          "Developing Countries",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Food, Fortified",
+          "Growth Disorders",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31973225/"
+      },
+      {
+        "pmid": "33758915",
+        "title": "A School-Based Weekly Iron and Folic Acid Supplementation Program Effectively Reduces Anemia in a Prospective Cohort of Ghanaian Adolescent Girls.",
+        "abstract": "School-based iron and folic acid (IFA) supplementation is recommended for adolescent girls in countries with high burdens of anemia.",
+        "journal": "The Journal of nutrition",
+        "year": "2021",
+        "authors": [
+          "Gosdin Lucas",
+          "Sharma Andrea J",
+          "Tripp Katie",
+          "Amoaful Esi Foriwa",
+          "Mahama Abraham B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Ghana",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33758915/"
+      },
+      {
+        "pmid": "26472066",
+        "title": "Iron deficiency anemia in pregnancy.",
+        "abstract": "Anemia is the most frequent derailment of physiology in the world throughout the life of a woman. It is a serious condition in countries that are industrialized and in countries with poor resources. The main purpose of this manuscript is to give the right concern of anemia in pregnancy. The most common causes of anemia are poor nutrition, iron deficiencies, micronutrients deficiencies including folic acid, vitamin A and vitamin B12, diseases like malaria, hookworm infestation and schistosomiasis, HIV infection and genetically inherited hemoglobinopathies such as thalassemia. Depending on the severity and duration of anemia and the stage of gestation, there could be different adverse effects including low birth weight and preterm delivery. Treatment of mild anemia prevents more severe forms of anemia, strictly associated with increased risk of fetal-maternal mortality and morbidity.",
+        "journal": "Women's health (London, England)",
+        "year": "2015",
+        "authors": [
+          "Di Renzo Gian Carlo",
+          "Spano Filippo",
+          "Giardina Irene",
+          "Brillo Eleonora",
+          "Clerici Graziano"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "Iron Compounds",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic",
+          "Prenatal Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26472066/"
+      },
+      {
+        "pmid": "36240826",
+        "title": "Micronutrient deficiencies among preschool-aged children and women of reproductive age worldwide: a pooled analysis of individual-level data from population-representative surveys.",
+        "abstract": "Micronutrient deficiencies compromise immune systems, hinder child growth and development, and affect human potential worldwide. Yet, to our knowledge, the only existing estimate of the global prevalence of micronutrient deficiencies is from over 30 years ago and is based only on the prevalence of anaemia. We aimed to estimate the global and regional prevalence of deficiency in at least one of three micronutrients among preschool-aged children (aged 6-59 months) and non-pregnant women of reproductive age (aged 15-49 years).",
+        "journal": "The Lancet. Global health",
+        "year": "2022",
+        "authors": [
+          "Stevens Gretchen A",
+          "Beal Ty",
+          "Mbuya Mduduzi N N",
+          "Luo Hanqi",
+          "Neufeld Lynnette M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Bayes Theorem",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "Iron",
+          "Malnutrition",
+          "Micronutrients"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36240826/"
+      },
+      {
+        "pmid": "27648630",
+        "title": "Iron deficiency anemia and megaloblastic anemia in obese patients.",
+        "abstract": "The association between obesity and different types of anemia remained uncertain. The present study aimed to assess the relation between obesity parameters and the occurrence of iron deficiency anemia and also megaloblastic anemia among Iranian population.",
+        "journal": "Romanian journal of internal medicine = Revue roumaine de medecine interne",
+        "year": "2017",
+        "authors": [
+          "Arshad Mahmoud",
+          "Jaberian Sara",
+          "Pazouki Abdolreza",
+          "Riazi Sajedeh",
+          "Rangraz Maryam Aghababa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Megaloblastic",
+          "Biomarkers",
+          "Body Mass Index",
+          "Child",
+          "Cross-Sectional Studies",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27648630/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:40:40.445417",
+  "success": true,
+  "error_message": null
+}

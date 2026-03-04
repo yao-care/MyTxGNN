@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Magnesium Hydroxide",
+    "disease": "esophagitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01336530",
+      "title": "Clinical Trial to Assess the Efficacy of Fixed Combination Product Tepilta® in the Treatment of Radiation-induced Oesophagitis Compared to Its Active Ingredients Oxetacaine and Antacids, and to Placebo",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2011-04",
+      "completion_date": "2017-01",
+      "country": "Germany, Austria",
+      "enrollment": 40,
+      "brief_summary": "This is a randomised, double-blind, placebo-controlled, therapeutic confirmatory multicentre trial with 4 parallel treatment groups. The design is adaptive group-sequential with two interim analyses, possible sample size re-estimation after the first or second interim analysis and drop-the-loser approach. The study design was primarily chosen to show superior efficacy of Tepilta® compared to the single components and to placebo. Evaluation of safety is a secondary objective.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female ≥ 18 years.\n2. Score = 0 on NRS for oesophageal pain.\n3. Radiotherapy (RT) or combined radio-chemotherapy (RCT) of a solid tumour in head/neck/thorax region. A minimum length of 5 cm of the oesophagus must be included in high-dose radiation field.\n4. Duration o",
+      "endpoints": [
+        "Time from randomisation to requirement of additional systemic pain medication for oesophagitis (ASPO)."
+      ],
+      "sponsor": "Viatris Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01336530"
+    }
+  ],
+  "timestamp": "2026-03-04T15:23:49.678226",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,128 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Benzoic Acid",
+    "disease": "systemic sclerosis",
+    "query_string": "Benzoic Acid AND systemic sclerosis"
+  },
+  "data": {
+    "query": "Benzoic Acid AND systemic sclerosis",
+    "results": [
+      {
+        "pmid": "33118131",
+        "title": "A Nitroalkene Benzoic Acid Derivative Targets Reactive Microglia and Prolongs Survival in an Inherited Model of ALS via NF-κB Inhibition.",
+        "abstract": "Motor neuron degeneration and neuroinflammation are the most striking pathological features of amyotrophic lateral sclerosis (ALS). ALS currently has no cure and approved drugs have only a modest clinically therapeutic effect in patients. Drugs targeting different deleterious inflammatory pathways in ALS appear as promising therapeutic alternatives. Here, we have assessed the potential therapeutic effect of an electrophilic nitroalkene benzoic acid derivative, (E)-4-(2-nitrovinyl) benzoic acid (BANA), to slow down paralysis progression when administered after overt disease onset in SOD1G93A rats. BANA exerted a significant inhibition of NF-κB activation in NF-κB reporter transgenic mice and microglial cell cultures. Systemic daily oral administration of BANA to SOD1G93A rats after paralysis onset significantly decreased microgliosis and astrocytosis, and significantly reduced the number of NF-κB-p65-positive microglial nuclei surrounding spinal motor neurons. Numerous microglia bearing",
+        "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+        "year": "2021",
+        "authors": [
+          "Ibarburu Sofía",
+          "Kovacs Mariángeles",
+          "Varela Valentina",
+          "Rodríguez-Duarte Jorge",
+          "Ingold Mariana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Amyotrophic Lateral Sclerosis",
+          "Animals",
+          "Cells, Cultured",
+          "Disease Models, Animal",
+          "HT29 Cells",
+          "Humans",
+          "Mice",
+          "Mice, Inbred BALB C",
+          "Mice, Inbred C57BL",
+          "Mice, Transgenic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33118131/"
+      },
+      {
+        "pmid": "33331912",
+        "title": "The intracellular chloride channel 4 (CLIC4) activates systemic sclerosis fibroblasts.",
+        "abstract": "Tissue fibrosis in SSc is driven by active fibroblasts (myofibroblasts). Previous studies have shown the intracellular chloride channel 4 (CLIC4) mediates the activation of cancer-associated fibroblasts. In this study we investigated the role of CLIC4 in SSc fibroblast activation.",
+        "journal": "Rheumatology (Oxford, England)",
+        "year": "2021",
+        "authors": [
+          "Wasson Christopher W",
+          "Ross Rebecca L",
+          "Morton Ruth",
+          "Mankouri Jamel",
+          "Del Galdo Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Cell Line",
+          "Chloride Channels",
+          "Fibroblasts",
+          "Humans",
+          "Myofibroblasts",
+          "Scleroderma, Systemic",
+          "Signal Transduction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33331912/"
+      },
+      {
+        "pmid": "33078092",
+        "title": "Design, synthesis, molecular modeling, and biological evaluation of acrylamide derivatives as potent inhibitors of human dihydroorotate dehydrogenase for the treatment of rheumatoid arthritis.",
+        "abstract": "Human dihydroorotate dehydrogenase (DHODH) is a viable target for the development of therapeutics to treat cancer and immunological diseases, such as rheumatoid arthritis (RA), psoriasis and multiple sclerosis (MS). Herein, a series of acrylamide-based novel DHODH inhibitors as potential RA treatment agents were designed and synthesized. 2-Acrylamidobenzoic acid analog 11 was identified as the lead compound for structure-activity relationship (SAR) studies. The replacement of the phenyl group with naphthyl moieties improved inhibitory activity significantly to double-digit nanomolar range. Further structure optimization revealed that an acrylamide with small hydrophobic groups (Me, Cl or Br) at the 2-position was preferred. Moreover, adding a fluoro atom at the 5-position of the benzoic acid enhanced the potency. The optimization efforts led to potent compounds 42 and 53‒55 with IC50 values of 41, 44, 32, and 42 nmol/L, respectively. The most potent compound 54 also displayed favorable",
+        "journal": "Acta pharmaceutica Sinica. B",
+        "year": "2020",
+        "authors": [
+          "Zeng Fanxun",
+          "Li Shiliang",
+          "Yang Guantian",
+          "Luo Yating",
+          "Qi Tiantian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33078092/"
+      },
+      {
+        "pmid": "9462746",
+        "title": "A novel neurological phenotype in mice lacking mitochondrial manganese superoxide dismutase.",
+        "abstract": "Reactive oxygen species (ROS) have been implicated in a wide range of degenerative processes including amyotrophic lateral sclerosis, ischemic heart disease, Alzheimer disease, Parkinson disease and aging. ROS are generated by mitochondria as the toxic by-products of oxidative phosphorylation, their energy generating pathway. Genetic inactivation of the mitochondrial form of superoxide dismutase in mice results in dilated cardiomyopathy, hepatic lipid accumulation and early neonatal death. We report that treatment with the superoxide dismutase (SOD) mimetic Manganese 5, 10, 15, 20-tetrakis (4-benzoic acid) porphyrin (MnTBAP) rescues these Sod2tm1Cje(-/-) mutant mice from this systemic pathology and dramatically prolongs their survival. The animals instead develop a pronounced movement disorder progressing to total debilitation by three weeks of age. Neuropathologic evaluation reveals a striking spongiform degeneration of the cortex and specific brain stem nuclei associated with gliosis",
+        "journal": "Nature genetics",
+        "year": "1998",
+        "authors": [
+          "Melov S",
+          "Schneider J A",
+          "Day B J",
+          "Hinerfeld D",
+          "Coskun P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brain",
+          "Brain Stem",
+          "Cerebral Cortex",
+          "DNA, Mitochondrial",
+          "Free Radical Scavengers",
+          "Humans",
+          "Lipid Metabolism",
+          "Liver",
+          "Metalloporphyrins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9462746/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:32:34.985145",
+  "success": true,
+  "error_message": null
+}

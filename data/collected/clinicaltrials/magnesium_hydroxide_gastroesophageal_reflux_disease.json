@@ -1,0 +1,140 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Magnesium Hydroxide",
+    "disease": "gastroesophageal reflux disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00660660",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Efficacy Study Comparing 4 Weeks of Treatment With Esomeprazole 20 mg qd to Placebo qd in Patients With Heartburn and Sleep Disturbances Associated With Gastroesophageal Reflux Disease (GERD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2008-07",
+      "country": "United States",
+      "enrollment": 276,
+      "brief_summary": "The purpose of this research study is to compare the safety and effectiveness (how well the medicine works) of esomeprazole (study drug) to placebo (a capsule that does not contain any medication) taken daily in relieving nighttime heartburn and problems sleeping in patients with gastroesophageal reflux disease (GERD).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prior to the run-in period, a history of heartburn or acid regurgitation for 3 months or longer or any history of EE;\n* Prior to the run-in period, nighttime heartburn averaging at least 2 or 3 times per week;\n* Prior to the run-in period, a history of sleep disturbances assoc",
+      "endpoints": [
+        "Percentage of Patients With Relief of Nighttime Heartburn During the Last 7 Days of the Study."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00660660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01858584",
+      "title": "Prospective, Comparative, Randomized, Controlled Trial on the Efficacy of the Treatment of Gastroesophageal Reflux Infant With Magnesium Alginate",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2013-02",
+      "completion_date": "",
+      "country": "Italy",
+      "enrollment": 75,
+      "brief_summary": "The results on the efficacy of the formulations based on alginic acid are controversial. Corvaglia et al demonstrated a significant reduction in reflux episodes in preterm infants by evaluation with pH-impedance analysis. This study concludes that the use of alginic acid reduces the acidity of the gastroesophageal reflux (GER) and has a non-systemic effect and a lesser presence of side effects compared to the use of H2-receptor antagonist(H2RA) and proton pump inhibitor (PPI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\< 1 year\n* Suggestive symptoms of gastroesophageal reflux (I-GERQ score \\> 7)\n* Absence of clinical evidence of allergy to cow milk protein or other allergic disorder\n* No previous intake of thickened formulas, acid suppressants or drugs\n* All parents or guardians must si",
+      "endpoints": [
+        "efficacy on GER"
+      ],
+      "sponsor": "Federico II University",
+      "url": "https://clinicaltrials.gov/study/NCT01858584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03065816",
+      "title": "A Randomized, Open-label, 2-Treatment Crossover Study to Compare by Scintigraphy, the Antireflux Activity of the To-be-Registered Product (250 mg Sodium Alginate/187.5 mg Calcium Carbonate/106.5 mg Sodium Hydrogen Carbonate) Chewable Tablets Versus the Registered Gaviscon Double Action Tablets, in Healthy Adult Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-02-09",
+      "completion_date": "2017-05-02",
+      "country": "United Kingdom",
+      "enrollment": 34,
+      "brief_summary": "Primary Objective:\n\nPharmacodynamics: assessment and comparison by gamma scintigraphy of the gastric retention of alginate rafts (raft performance) of Z0063 to the effect of Gaviscon Double Action Tablets, in healthy adult subjects.\n\nSecondary Objective:\n\nSafety: assessment of the clinical safety of Z0063 versus Gaviscon Double Action tablets, in healthy adult subjects.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Male or female subjects, between 18 and 55 years of age, inclusive.\n* Body weight between 50.0 and 100.0 kg, inclusive, if male, and between 40.0 and 90.0 kg, inclusive, if female, body mass index between 18.0 and 28.0 kg/m\\^2, inclusive.\n* Certified as healthy by a comprehen",
+      "endpoints": [
+        "Pharmacodynamics: area under curve (AUC) of investigational medicinal product (IMP) percentage retention in the whole stomach"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03065816"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06241183",
+      "title": "Comparing Intravenous Famotidine and Oral Antacids in the Treatment of Dyspepsia in the Emergency Department",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2023-11-09",
+      "completion_date": "2025-12",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The aim of this study is to compare intravenous famotidine, an H2 receptor antagonist, and Maalox/ Mylanta, an oral antacid, in treatment of dyspepsia in the emergency department. The goal of this study is to reduce patients' pain based on the verbal numerical pain scale. The anticipated outcome is for pain levels in both groups to decrease. It is expected that antacids will improve symptoms more quickly and to a greater degree within an hour of taking medication based on the results of similar ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject Age ≥ 18 years of age\n2. Patient diagnosed with dyspepsia\n3. Present at the ED with upper abdominal pain score of at least 3\n\nExclusion Criteria:\n\n1. Hypersensitivity to an ingredient in Maalox/ Mylanta or Famotidine\n2. Moderate to Severe Renal Insufficiency (precauti",
+      "endpoints": [
+        "Verbal Numerical Pain Score"
+      ],
+      "sponsor": "Stony Brook University",
+      "url": "https://clinicaltrials.gov/study/NCT06241183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03069963",
+      "title": "A Randomized, Open Label, 2-Treatment Crossover Study to Compare by pH Metry, the Antacid Activity of the To-be-registered Product (250 mg Sodium Alginate/187.5 mg Calcium Carbonate/106.5 mg Sodium Hydrogen Carbonate, Chewable Tablets) Versus the Registered Gaviscon Double Action Tablets, in Healthy Adult Subject",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-02-24",
+      "completion_date": "2017-04-23",
+      "country": "France",
+      "enrollment": 24,
+      "brief_summary": "Primary Objective:\n\nPharmacodynamics: assessment by pH metry of the change in gastric pH (antacid activity) of Z0063, in comparison to the effect of Gaviscon Double Action Tablets, in healthy adult subjects.\n\nSecondary Objective:\n\nSafety: assessment of the clinical safety of Z0063, and Gaviscon Double Action Tablets, in healthy adult subjects.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Male or female subjects, between 18 and 55 years of age, inclusive.\n* Body weight between 50.0 and 100.0 kg, inclusive, if male, and between 40.0 and 90.0 kg, inclusive, if female, body mass index between 18.0 and 28.0 kg/m2, inclusive.\n* Certified as healthy by a comprehensi",
+      "endpoints": [
+        "Percentage of time at which the intragastric pH is at least equal to or greater than 4 during the 4-hour observation period post-dose"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03069963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00343161",
+      "title": "A Randomized, Open, Parallel-group, Multi-national, Multi-centre, Phase IV Study to Evaluate the Efficacy of Three Different Patient Management Strategies With and Without Esomeprazole 20 mg During a 3 Months Maintenance Phase Following an Initial 4-weeks Acute Treatment Phase in Subjects With Symptoms Thought to be GERD Related",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2007-08",
+      "country": "Germany",
+      "enrollment": 441,
+      "brief_summary": "The purpose of the study is to determine whether a maintenance treatment over 12 weeks with esomeprazole 20 mg daily will sufficiently give control over GERD symptoms and how it compares either with an on-demand therapy with esomeprazole 20 mg or an as needed therapy (wait and see regimen) with rescue medication only (antacid), following a 4-weeks acute treatment phase with either esomeprazole 20 mg or esomeprazole 40 mg.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Patients who seek medical advice in primary care for symptoms thought to be GERD-related\n\nExclusion Criteria:\n\n* Clinical GERD diagnosis/treatment within last 3 month\n* History of severe esophagitis (i.e. LA grade C or D)\n* Previous anti-reflux surger",
+      "endpoints": [
+        "To compare the efficacy of three different long-term treatment strategies in primary care setting",
+        "To compare treatments separately within different levels of symptom load according to clinical judgement at baseline",
+        "Number of 'treatment failures' used as primary outcome variable."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00343161"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07310927",
+      "title": "Alginate vs Sucralfate for GERD Symptomatic Relief in Combination With PPIS",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-02-28",
+      "country": "Pakistan",
+      "enrollment": 140,
+      "brief_summary": "Gastroesophageal reflux disease (GERD) is a chronic gastrointestinal disorder characterized by the regurgitation of gastric contents into the esophagus.It can also present in an atypical manner such as chest pain, dental erosions, chronic cough, laryngitis, or asthma i.e. extra gastroesophageal symptoms. Sucralfate is a unique anti-ulcer drug and is a basic aluminum salt of sucrose octa-sulfate. It forms a protective layer, enhancing bicarbonate production, demonstrating anti-peptic properties, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients having symptoms of severe GERD for more than 3 times /week\n\nExclusion Criteria:\n\n1. Patients with preexisting cardiovascular disorders\n2. Patients with chronic kidney or liver diseases\n3. Patients with gross abnormalities on upper GI endoscopies e.g.; ulcers, tumo",
+      "endpoints": [
+        "Quality of Life in Reflux and Dyspepsia"
+      ],
+      "sponsor": "CMH Lahore Medical College and Institute of Dentistry",
+      "url": "https://clinicaltrials.gov/study/NCT07310927"
+    }
+  ],
+  "timestamp": "2026-03-04T15:24:14.086564",
+  "success": true,
+  "error_message": null
+}

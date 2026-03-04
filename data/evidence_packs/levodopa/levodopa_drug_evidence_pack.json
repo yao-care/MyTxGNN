@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Levodopa",
+    "drugbank_id": "DB01235"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 15
+  },
+  "indications": [
+    {
+      "disease": "parkinsonian disorder",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 13,
+      "phase2": 13,
+      "phase4": 2
+    },
+    {
+      "disease": "juvenile onset Parkinson disease 19A",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "early-onset parkinsonism-intellectual disability syndrome",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 13,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "Parkinson disease",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 14,
+      "phase2": 13,
+      "phase4": 4
+    },
+    {
+      "disease": "atypical juvenile parkinsonism",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 19,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    }
+  ]
+}

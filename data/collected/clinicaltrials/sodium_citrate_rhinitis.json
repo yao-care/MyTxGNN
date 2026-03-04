@@ -1,0 +1,49 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "rhinitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03705793",
+      "title": "Effectiveness of Mometasone Nasal Irrigation for Chronic Rhinosinusitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-01-01",
+      "completion_date": "2020-03-15",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "Chronic rhinosinusitis (CRS) affects up to 12.5% of the US population and has a significant disease burden. The recommended medical management of CRS includes large-volume, low-pressure saline lavage, systemic antibiotics, and intranasal corticosteroids (INCS). While the efficacy and safety of INCS are well-established for the long-term management of CRS, penetration of INCS beyond the nasal vestibule and into the paranasal sinuses is limited. The aim of this study is to evaluate the effectivene",
+      "eligibility_criteria": "Inclusion Criteria:\n\n12-weeks or longer of two or more of the following signs and symptom consistent with CRS:\n\n* mucopurulent drainage(anterior, posterior, or both)\n* nasal obstruction (congestion)\n* facial pain-pressure-fullness\n* and decreased sense of smell\n\nAND inflammation documented by one or",
+      "endpoints": [
+        "Change in Sino-Nasal Outcome Test Scores (SNOT-22)"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03705793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00533637",
+      "title": "A Double-Blind, Randomized, Placebo-Controlled, Cross-Over, Allergen Challenge Study to Evaluate Taste and Local Tolerance of NLA Nasal Spray in Patients With Allergic Rhinitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2007-12",
+      "country": "Sweden",
+      "enrollment": 28,
+      "brief_summary": "Evaluation of NLA Nasal Spray with regard to taste perversion and local tolerance",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 to 50 years of age (inclusive)\n* Body Mass Index (BMI) between 18 and 28 kg/m2\n* History of pollen-induced seasonal allergic rhinitis for at least two years and otherwise healthy\n* Elevated specific IgE to at least one aero allergen or at least one positive skin pick test (",
+      "endpoints": [
+        "Taste perversion scores",
+        "Local tolerance scores"
+      ],
+      "sponsor": "Biolipox AB",
+      "url": "https://clinicaltrials.gov/study/NCT00533637"
+    }
+  ],
+  "timestamp": "2026-03-04T16:25:18.818552",
+  "success": true,
+  "error_message": null
+}

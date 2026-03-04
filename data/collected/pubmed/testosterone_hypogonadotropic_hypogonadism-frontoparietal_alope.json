@@ -1,0 +1,342 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "hypogonadotropic hypogonadism-frontoparietal alopecia syndrome",
+    "query_string": "Testosterone AND hypogonadotropic hypogonadism-frontoparietal alopecia syndrome"
+  },
+  "data": {
+    "query": "Testosterone AND hypogonadotropic hypogonadism-frontoparietal alopecia syndrome",
+    "results": [
+      {
+        "pmid": "32202088",
+        "title": "Health Risks Associated with Long-Term Finasteride and Dutasteride Use: It's Time to Sound the Alarm.",
+        "abstract": "5α-dihydrotestosterone (5α-DHT) is the most potent natural androgen. 5α-DHT elicits a multitude of physiological actions, in a host of tissues, including prostate, seminal vesicles, hair follicles, skin, kidney, and lacrimal and meibomian glands. However, the physiological role of 5α-DHT in human physiology, remains questionable and, at best, poorly appreciated. Recent emerging literature supports a role for 5α-DHT in the physiological function of liver, pancreatic β-cell function and survival, ocular function and prevention of dry eye disease and kidney physiological function. Thus, inhibition of 5α-reductases with finasteride or dutasteride to reduce 5α-DHT biosynthesis in the course of treatment of benign prostatic hyperplasia (BPH) or male pattern hair loss, known as androgenetic alopecia (AGA) my induces a novel form of tissue specific androgen deficiency and contributes to a host of pathophysiological conditions, that are yet to be fully recognized. Here, we advance the concept t",
+        "journal": "The world journal of men's health",
+        "year": "2020",
+        "authors": [
+          "Traish Abdulmaged M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32202088/"
+      },
+      {
+        "pmid": "17167799",
+        "title": "Autosomal-recessive syndrome with alopecia, hypogonadism, progressive extra-pyramidal disorder, white matter disease, sensory neural deafness, diabetes mellitus, and low IGF1.",
+        "abstract": "We explored the manifestations of an autosomal-recessive multisystemic disorder in several Saudi families. Recognized causes of progressive extra-pyramidal disorder and white matter disease were excluded and the neurological, imaging, endocrine, and skin manifestations of this syndrome described. The onset of these symptoms in these patients began in early adolescence and progressed more rapidly in males. All affected patients had total or partial alopecia, clinical and chemical evidence of hypogonadism (low levels of estradiol and testosterone); females had clear evidence of hypogonadism (streak or absent ovaries), and some patients had diabetes mellitus and/or sensorineural deafness. The constant biochemical abnormality was the low IGF-1. The neurological manifestations included moderate to severe intellectual decline and abnormality of muscle tone and posture with choreo-athetoid and dystonic movements resulting in gait difficulty, dysarthria, difficulty swallowing, and scoliosis. T",
+        "journal": "American journal of medical genetics. Part A",
+        "year": "2007",
+        "authors": [
+          "Al-Semari Abdulaziz",
+          "Bohlega Saeed"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Alopecia",
+          "Basal Ganglia Diseases",
+          "Brain Diseases",
+          "Child",
+          "Diabetes Mellitus",
+          "Down-Regulation",
+          "Female",
+          "Genes, Recessive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17167799/"
+      },
+      {
+        "pmid": "30144842",
+        "title": "New Biomarkers to Evaluate Hyperandrogenemic Women and Hypogonadal Men.",
+        "abstract": "Androgens can have variable effects on men and women. Women may be evaluated for androgen excess for several reasons. Typically, young premenopausal women present with clinical symptoms of hirsutism, alopecia, irregular menses, and/or infertility. The most common cause of these symptoms is polycystic ovary syndrome. After menopause, even though ovaries stop producing estrogen, they continue to produce androgen, and women can have new onset of hirsutism and alopecia. Laboratory evaluation involves measurement of the major ovarian and adrenal androgens. In women, age, phase of the menstrual cycle, menopausal status, obesity, metabolic health, and sex hormone-binding proteins significantly affect total-androgen levels and complicate interpretation. This review will summarize the clinically relevant evaluation of hyperandrogenemia at different life stages in women and highlight pitfalls associated with interpretation of commonly used hormone measurements. Hypogonadism in men is a clinical ",
+        "journal": "Advances in clinical chemistry",
+        "year": "2018",
+        "authors": [
+          "Karakas Sidika E",
+          "Surampudi Prasanth"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androgens",
+          "Animals",
+          "Biomarkers",
+          "Female",
+          "Humans",
+          "Hyperandrogenism",
+          "Hypogonadism",
+          "Male",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30144842/"
+      },
+      {
+        "pmid": "16760630",
+        "title": "Extraprostatic complications of testosterone replacement therapy.",
+        "abstract": "Testosterone therapy has been reported to be useful in the treatment of hypogonadism and partial androgen deficiency of the aging male (PADAM) syndrome. Testosterone administration is needed in order to maintain secondary sexual characteristics, muscle mass, bone mineral density, cognitive function and sexual drive. Newer testosterone-containing compounds, particularly gel preparations, are known to produce more stable circulating testosterone levels than im-administered drugs, with scarce side-effects and good patient compliance. All patients treated with testosterone must undergo a careful follow-up to prevent the development of the major side effects, such as sleep-apnea, erythrocytosis, cardiovascular diseases and the alterations of hepatic function and plasma lipid concentrations.",
+        "journal": "Journal of endocrinological investigation",
+        "year": "2005",
+        "authors": [
+          "Volpi R",
+          "Coiro V",
+          "Chiodera P",
+          "Saccani-Jotti G",
+          "Delsignore R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Aged",
+          "Aged, 80 and over",
+          "Alopecia",
+          "Cardiovascular Diseases",
+          "Dermatitis, Seborrheic",
+          "Gynecomastia",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16760630/"
+      },
+      {
+        "pmid": "466617",
+        "title": "Familial hypogonadotropic hypogonadism with alopecia.",
+        "abstract": "In one family several male and female members had hypogonadism and frontoparietal alopecia, whereas other members with normal sexual development had normal scalp hair. Clinical and laboratory evaluation of three affected young men (two brothers and their cousin) revealed that the hypogonadism was the result of decreased serum concentrations of follicle stimulating and luteinizing hormones. There was no evidence of a deficiency of any other pituitary hormone. Long-term treatment of the three patients with human chorionic gonadotropin resulted in an increase in the serum testosterone concentration, the appearance of male secondary sex characteristics and an increase in the size of the external genitalia.",
+        "journal": "Canadian Medical Association journal",
+        "year": "1979",
+        "authors": [
+          "Slti I S",
+          "Salem Z"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Alopecia",
+          "Chorionic Gonadotropin",
+          "Consanguinity",
+          "Follicle Stimulating Hormone",
+          "Humans",
+          "Hypogonadism",
+          "Luteinizing Hormone",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/466617/"
+      },
+      {
+        "pmid": "29224108",
+        "title": "Negative Impact of Testosterone Deficiency and 5α-Reductase Inhibitors Therapy on Metabolic and Sexual Function in Men.",
+        "abstract": "Androgens are steroid hormones with pleotropic and diverse biochemical and physiological functions, and androgen deficiency exerts a negative impact on human health. Testosterone (T) either directly or via its transformation into the more potent metabolite 5α-dihydrotestosterone (5α-DHT) or via aromatization into estradiol (E2) modulates important biochemical signaling pathways of human physiology and plays a critical role in the growth and/or maintenance of functions in a host of tissues and organs. T and 5α-DHT play an important role in regulating physiology of the muscle, adipose tissue, liver, bone, and central nervous system, as well as reproductive and sexual functions. Thus, androgen deficiency (also referred to as hypogonadism) is a well-recognized medical condition and if remained untreated will have a negative impact on human health and quality of life.In this chapter, we have summarized the negative impact of T deficiency (TD) on a host of physiological functions including r",
+        "journal": "Advances in experimental medicine and biology",
+        "year": "2017",
+        "authors": [
+          "Traish Abdulmaged M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "5-alpha Reductase Inhibitors",
+          "Energy Metabolism",
+          "Health Status",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Quality of Life",
+          "Risk Factors",
+          "Sex Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29224108/"
+      },
+      {
+        "pmid": "10810656",
+        "title": "[Dermatologic aspects of male hypogonadism].",
+        "abstract": "Since the skin and its appendages are androgen-dependent, male hypogonadism can be associated with dermatologically relevant lesions. The skin surface of hypogonadal patients is thin and shows increased wrinkles. In cases of prepubertal hypogonadism, severe acne does not occur. In contrast, patients may suffer from sebostasis due to missing stimulation of the sebaceous glands. The genital skin does not show pigmentation, which normally develops during puberty; the integument is pale. Hair growth on breast, pubia, axilla, face and integument is reduced; patients do not present with typical androgenetic alopecia. In addition to these features, dermatological diseases caused by treatment of the hypogonadism or drug-induced skin reactions have to be considered. While drug reactions to oral or intramuscular androgens or gonadotropins are rare, irritative or allergic skin lesions are observed frequently, especially in cases of non-scrotal transdermal therapeutic systems with testosterone. A ",
+        "journal": "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete",
+        "year": "2000",
+        "authors": [
+          "Köhn F M",
+          "Ring J",
+          "Schill W B"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diagnosis, Differential",
+          "Humans",
+          "Hypogonadism",
+          "Male",
+          "Skin Diseases",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10810656/"
+      },
+      {
+        "pmid": "4698933",
+        "title": "A familial syndrome of deafness, alopecia, and hypogonadism.",
+        "abstract": "",
+        "journal": "The Journal of pediatrics",
+        "year": "1973",
+        "authors": [
+          "Crandall B F",
+          "Samec L",
+          "Sparkes R S",
+          "Wright S W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "17-Hydroxycorticosteroids",
+          "17-Ketosteroids",
+          "Adolescent",
+          "Adult",
+          "Alopecia",
+          "Deafness",
+          "Dermatoglyphics",
+          "Follicle Stimulating Hormone",
+          "Growth Hormone",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4698933/"
+      },
+      {
+        "pmid": "11012575",
+        "title": "How common are polycystic ovaries and the polycystic ovarian syndrome in women with Cushing's syndrome?",
+        "abstract": "Women with Cushing's syndrome (CS) may present with menstrual irregularity and symptoms/signs of hyperandrogenism, a phenotype similar to that of the polycystic ovarian syndrome (PCOS); however, currently there are no data on the prevalence of either polycystic ovaries (PCO) and/or PCOS in patients with CS. The aim of this study was to investigate their presence among women of reproductive age presenting with CS by analysing clinical, endocrinological and ultrasonographic features.",
+        "journal": "Clinical endocrinology",
+        "year": "2000",
+        "authors": [
+          "Kaltsas G A",
+          "Korbonits M",
+          "Isidori A M",
+          "Webb J A",
+          "Trainer P J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Androgens",
+          "Cushing Syndrome",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Hydrocortisone",
+          "Magnetic Resonance Imaging",
+          "Ovary",
+          "Pituitary Function Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11012575/"
+      },
+      {
+        "pmid": "20231366",
+        "title": "ANE syndrome caused by mutated RBM28 gene: a novel etiology of combined pituitary hormone deficiency.",
+        "abstract": "A homozygous loss-of-function mutation in the gene RBM28 was recently reported to underlie alopecia, neurological defects, and endocrinopathy (ANE) syndrome. The aim of the present study was to characterize the endocrine phenotype of ANE syndrome and to delineate its pathogenesis.",
+        "journal": "European journal of endocrinology",
+        "year": "2010",
+        "authors": [
+          "Spiegel Ronen",
+          "Shalev Stavit A",
+          "Adawi Amin",
+          "Sprecher Eli",
+          "Tenenbaum-Rakover Yardena"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alopecia",
+          "Endocrine System Diseases",
+          "Humans",
+          "Hypopituitarism",
+          "Male",
+          "Mutation",
+          "Nervous System Diseases",
+          "RNA-Binding Proteins",
+          "Siblings"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20231366/"
+      },
+      {
+        "pmid": "15800777",
+        "title": "[Alopecia totalis, hypotension and erectile dysfunction in a 34 year old patient. Difficult clarification of a common cause].",
+        "abstract": "The occurrence of both autoimmune endocrinopathies and endocrinopathies caused by other reasons is called polyglandular autoimmune syndrome (PAS-syndrome). In a 34 years old man with weakness, weight loss and erectile dysfunction we found low cortisol caused by an autoimmune adrenalitis and low testosterone caused by a hypophysitis with impaired gonadotropin secretion. Thyroid autoantibodies and islet cell autoantibodies without any hormone deficiencies were further signs of a broad endocrine autoimmune syndrome. In the following 11 years the patient developed three autoimmune disorders: paradrenal glandular insufficiency, hypogonadism caused by hypophysitis, Diabetes mellitus type 1. In the same time several non endocrine autoimmune diseases became manifest: alopecia totalis, vitiligo, retrobulbar neuritis and keratoconjunctivitis.",
+        "journal": "Der Internist",
+        "year": "2005",
+        "authors": [
+          "Hunger-Dathe W",
+          "Braun A",
+          "Müller U A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alopecia Areata",
+          "Diagnosis, Differential",
+          "Erectile Dysfunction",
+          "Humans",
+          "Hypotension",
+          "Male",
+          "Polyendocrinopathies, Autoimmune"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15800777/"
+      },
+      {
+        "pmid": "4305793",
+        "title": "[On the determination of testosterone and additional alpha, beta-unsaturated ketosteroids of the C19 series in urine].",
+        "abstract": "",
+        "journal": "Endokrinologie",
+        "year": "1968",
+        "authors": [
+          "Schubert K",
+          "Frankenberg G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "17-Ketosteroids",
+          "Adolescent",
+          "Adrenocorticotropic Hormone",
+          "Adult",
+          "Alopecia",
+          "Androstanes",
+          "Breast Diseases",
+          "Chemistry, Clinical",
+          "Chorionic Gonadotropin",
+          "Chromatography, Paper"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4305793/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:27:14.424342",
+  "success": true,
+  "error_message": null
+}

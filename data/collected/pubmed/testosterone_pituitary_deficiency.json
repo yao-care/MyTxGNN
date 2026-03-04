@@ -1,0 +1,585 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "pituitary deficiency",
+    "query_string": "Testosterone AND pituitary deficiency"
+  },
+  "data": {
+    "query": "Testosterone AND pituitary deficiency",
+    "results": [
+      {
+        "pmid": "17467517",
+        "title": "Hypopituitarism.",
+        "abstract": "Incidence and prevalence of hypopituitarism are estimated to be 4.2 per 100,000 per year and 45.5 per 100,000, respectively. Although the clinical symptoms of this disorder are usually unspecific, it can cause life-threatening events and lead to increased mortality. Current research has refined the diagnosis of hypopituitarism. Identification of growth hormone and corticotropin deficiency generally requires a stimulation test, whereas other deficiencies can be detected by basal hormones in combination with clinical judgment. Newly developed formulations of replacement hormones are convenient and physiological. Work has shown that many patients with brain damage--such as traumatic brain injury or aneurysmal subarachnoid haemorrhage--are at high risk of (sometimes unrecognised) hypopituitarism. Thus, a much increased true prevalence of this disorder needs to be assumed. As a result, hypopituitarism is not a rare disease and should be recognised by the general practitioner.",
+        "journal": "Lancet (London, England)",
+        "year": "2007",
+        "authors": [
+          "Schneider Harald Jörn",
+          "Aimaretti Gianluca",
+          "Kreitschmann-Andermahr Ilonka",
+          "Stalla Günter-Karl",
+          "Ghigo Ezio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Brain Injuries",
+          "Female",
+          "Humans",
+          "Hypopituitarism",
+          "Luteinizing Hormone",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Pituitary Gland",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17467517/"
+      },
+      {
+        "pmid": "29406008",
+        "title": "Congenital Hypopituitarism.",
+        "abstract": "Mutations of growth hormone genes and pituitary transcription factors account for a small proportion of cases of severe congenital hypopituitarism. Most cases show characteristic MRI findings of pituitary stalk interruption syndrome. Clinical suspicion should prompt assessment of cortisol, free T4, thyroid-stimulating hormone, and growth hormone levels together with MRI of the hypothalamic and pituitary regions.",
+        "journal": "Clinics in perinatology",
+        "year": "2018",
+        "authors": [
+          "Parks John S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Anti-Mullerian Hormone",
+          "Follicle Stimulating Hormone",
+          "Gonadal Steroid Hormones",
+          "Growth Hormone",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hydrocortisone",
+          "Hypopituitarism",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29406008/"
+      },
+      {
+        "pmid": "40052430",
+        "title": "Approach to the Patient: Low Testosterone Concentrations in Men With Obesity.",
+        "abstract": "Pathologic hypogonadism occurs when serum testosterone is significantly and persistently reduced by irreversible organic (structural, genetic) disorders of the hypothalamic pituitary testicular axis. Men with pathologic hypogonadism require lifelong testosterone replacement. In contrast, mild or moderate reductions in serum testosterone frequently accompany obesity, and its numerous comorbidities in men are best considered nongonadal illness syndromes, wherein reduction in serum testosterone is usually reversible upon amelioration of the underlying nongonadal illness. Obesity can result in nonspecific symptoms in conjunction with reduced serum testosterone and serum SHBG. Obesity-related reductions in SHBG, testosterone's principal circulating carrier protein, are primarily responsible for measured reductions in testosterone. However, obesity is not a cause of pathological hypogonadism, and proportionately reduced testosterone and SHBG concentrations accompanied by normal serum LH and ",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2025",
+        "authors": [
+          "Muir Christopher A",
+          "Wittert Gary A",
+          "Handelsman David J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Testosterone",
+          "Obesity",
+          "Hypogonadism",
+          "Weight Loss",
+          "Middle Aged",
+          "Adult",
+          "Diabetes Mellitus, Type 2",
+          "Hormone Replacement Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40052430/"
+      },
+      {
+        "pmid": "17077946",
+        "title": "Hypopituitarism.",
+        "abstract": "Hypopituitarism is the partial or complete insufficiency of anterior pituitary hormone secretion and may result from pituitary or hypothalamic disease. The reported incidence (12-42 new cases per million per year) and prevalence (300-455 per million) is probably underestimated if its occurrence after brain injuries (30-70% of cases) is considered. Clinical manifestations depend on the extent of hormone deficiency and may be non specific, such as fatigue, hypotension, cold intolerance, or more indicative such as growth retardation or impotence and infertility in GH and gonadotropin deficiency, respectively.A number of inflammatory, granulomatous or neoplastic diseases as well as traumatic or radiation injuries involving the hypothalamic-pituitary region can lead to hypopituitarism. Several genetic defects are possible causes of syndromic and non syndromic isolated/multiple pituitary hormone deficiencies. Unexplained gonadal dysfunctions, developmental craniofacial abnormalities, newly d",
+        "journal": "Pituitary",
+        "year": "2006",
+        "authors": [
+          "Ascoli Paola",
+          "Cavagnini Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Biomarkers",
+          "Brain Injuries",
+          "Female",
+          "Fertility Agents",
+          "Hormone Replacement Therapy",
+          "Human Growth Hormone",
+          "Humans",
+          "Hypogonadism",
+          "Hypopituitarism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17077946/"
+      },
+      {
+        "pmid": "24768548",
+        "title": "[Micropenis].",
+        "abstract": "Micropenis represents a clinical sign that should be diagnosed at birth (or in utero) by the detection of a normally structured penis with a length 2.5 SD below the mean for age. Micropenis can be classified as due to deficient testosterone secretion or action. Evaluation of the gonadotropic and testicular function during the mini-puberty is often helpful in evaluating the etiology. Management of micropenis should focus on achieving a suitable penis length, in order to allow an adequate urination, normal sexual intercourses and a good self-body image. Irrespective of the underlying cause, a short course of T should be tried in patients with micropenis to assess the ability of the penis to respond to it. Topical 5a-dihydrotestosterone gel has also been reported to be effective. Children with hypopituitarism and GH deficiency respond to appropriate hormonal therapy. Psychological counseling is helpful and often necessary.",
+        "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+        "year": "2014",
+        "authors": [
+          "Bouvattier C"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Androgens",
+          "Dihydrotestosterone",
+          "Human Growth Hormone",
+          "Humans",
+          "Hypopituitarism",
+          "Male",
+          "Penis",
+          "Urogenital Abnormalities"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24768548/"
+      },
+      {
+        "pmid": "166776",
+        "title": "Delayed adolescence.",
+        "abstract": "Delayed adolescence has several causes. Most frequent is the physiological or constitutional (hereditary) delay of growth and adolescence. This is a normal variation of growth and development, with growth, bone age and puberty retarded in a harmonious way. It carries a good prognosis with late but normal puberty and late catch-up growth leading to normal adult height. It manifests itself long before puberty by short stature and retarded bone age. True endocrine defects with permanent hypogonadism (hypothalamic-pituitary deficiency of the gonadotropinds and primary gonadal failure) are rare. Differential diagnosis before puberty is not always possible on clinical grounds alone. The most useful laboratory test consists of the LH-RH test. The i.v. injection of the recently introduced hypothalamic LH-releasing hormone, LH-RH, is followed by an age-dependent increase of the plasma gonadotropinds LH and FSH. This test allows differentiation, before puberty, between constitutional delay of gr",
+        "journal": "Clinics in endocrinology and metabolism",
+        "year": "1975",
+        "authors": [
+          "Prader A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Determination by Skeleton",
+          "Age Factors",
+          "Body Height",
+          "Child",
+          "Diagnosis, Differential",
+          "Dwarfism, Pituitary",
+          "Gonadotropins",
+          "Hair"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/166776/"
+      },
+      {
+        "pmid": "11991434",
+        "title": "Testosterone deficiency in women: etiologies, diagnosis, and emerging treatments.",
+        "abstract": "Healthy young women produce approximately 300 microg of testosterone per day, of which about half is derived from the ovaries and half from the adrenal glands. In women, as in men, testosterone is thought to influence pubertal development, sexual function, bone density, muscle mass, erythropoiesis, energy, cognitive function and mood. Testosterone deficiency in women may result from a variety of conditions, including oophorectomy, adrenalectomy, adrenal disease, pituitary disease, HIV infection, premature ovarian failure, Turner's syndrome, and the use of high-dose corticosteroids and some estrogen preparations. Simple aging and natural menopause may also contribute to testosterone deficiency in some women. A consensus view of the diagnosis of female androgen deficiency syndrome (FADS) is currently being developed, and is summarized in this article, as are current approaches for treating testosterone deficiency in women. Recent clinical trials involving an experimental testosterone tra",
+        "journal": "International journal of fertility and women's medicine",
+        "year": "2002",
+        "authors": [
+          "Mazer Norman A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adrenal Cortex Hormones",
+          "Adrenalectomy",
+          "Aging",
+          "Androgens",
+          "Clinical Trials, Phase II as Topic",
+          "Contraceptives, Oral",
+          "Controlled Clinical Trials as Topic",
+          "Estrogen Replacement Therapy",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11991434/"
+      },
+      {
+        "pmid": "38240912",
+        "title": "Androgen deficiency in hypopituitary women: its consequences and management.",
+        "abstract": "Women with hypopituitarism have various degrees of androgen deficiency, which is marked among those with combined hypogonadotrophic hypogonadism and secondary adrenal insufficiency. The consequences of androgen deficiency and the effects of androgen replacement therapy have not been fully elucidated. While an impact of androgen deficiency on outcomes such as bone mineral density, quality of life, and sexual function is plausible, the available evidence is limited. There is currently no consensus on the definition of androgen deficiency in women and it is still controversial whether androgen substitution should be used in women with hypopituitarism and coexisting androgen deficiency. Some studies suggest beneficial clinical effects of androgen replacement but data on long-term benefits and risk are not available. Transdermal testosterone replacement therapy in hypopituitary women has shown some positive effects on bone metabolism and body composition. Studies of treatment with oral dehy",
+        "journal": "Reviews in endocrine & metabolic disorders",
+        "year": "2024",
+        "authors": [
+          "Esposito Daniela",
+          "Tivesten Åsa",
+          "Olivius Catharina",
+          "Ragnarsson Oskar",
+          "Johannsson Gudmundur"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Androgens",
+          "Female",
+          "Hypopituitarism",
+          "Hormone Replacement Therapy",
+          "Hypogonadism",
+          "Testosterone",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38240912/"
+      },
+      {
+        "pmid": "40287898",
+        "title": "Testosterone Therapy in Older Men: Present and Future Considerations.",
+        "abstract": "Testosterone is the classical male anabolic hormone, involved in sexual development, virilisation and regulation of body composition in adult men. Organic disease involving the hypothalamus, pituitary or testes may interfere with endogenous testosterone production. In such men, testosterone treatment effectively ameliorates symptoms and signs of androgen deficiency. However, non-gonadal factors including age, body mass index and medical comorbidities influence circulating testosterone, and older men have on average lower testosterone concentrations compared with younger men. In these men, testosterone treatment would be a pharmacological intervention requiring stringent justification via high-quality evidence from randomised controlled trials (RCTs). Recent RCTs show benefits of testosterone treatment to improve sexual function, anaemia and bone mineral density in older men, and to prevent or revert type 2 diabetes mellitus in men at high risk. Results from a large cardiovascular safet",
+        "journal": "Drugs & aging",
+        "year": "2025",
+        "authors": [
+          "Yeap Bu B",
+          "Tran Cammie",
+          "Douglass Catherine M",
+          "McNeil John J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Testosterone",
+          "Aged",
+          "Aged, 80 and over",
+          "Diabetes Mellitus, Type 2"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40287898/"
+      },
+      {
+        "pmid": "33174363",
+        "title": "Cranial irradiation alters neuroinflammation and neural proliferation in the pituitary gland and induces late-onset hormone deficiency.",
+        "abstract": "Cranial radiotherapy induces endocrine disorders and reproductive abnormalities, particularly in long-term female cancer survivors, and this might in part be caused by injury to the pituitary gland, but the underlying mechanisms are unknown. The aim of this study was to investigate the influence of cranial irradiation on the pituitary gland and related endocrine function. Female Wistar rat pups on postnatal day 11 were subjected to a single dose of 6 Gy whole-head irradiation, and hormone levels and organ structure in the reproductive system were examined at 20 weeks after irradiation. We found that brain irradiation reduced cell proliferation and induced persistent inflammation in the pituitary gland. The whole transcriptome analysis of the pituitary gland revealed that apoptosis and inflammation-related pathways were up-regulated after irradiation. In addition, irradiation led to significantly decreased levels of the pituitary hormones, growth hormone, adrenocorticotropic hormone, th",
+        "journal": "Journal of cellular and molecular medicine",
+        "year": "2020",
+        "authors": [
+          "Xu Yiran",
+          "Sun Yanyan",
+          "Zhou Kai",
+          "Xie Cuicui",
+          "Li Tao"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenocorticotropic Hormone",
+          "Animals",
+          "Biomarkers",
+          "Cell Proliferation",
+          "Computational Biology",
+          "Cranial Irradiation",
+          "Disease Models, Animal",
+          "Estrous Cycle",
+          "Female",
+          "Gene Expression Profiling"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33174363/"
+      },
+      {
+        "pmid": "30771151",
+        "title": "Pituitary crush.",
+        "abstract": "",
+        "journal": "Endocrine",
+        "year": "2019",
+        "authors": [
+          "Rattananon Parin",
+          "Saowapa Sakditad",
+          "Sriphrapradang Chutintorn"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Follicle Stimulating Hormone",
+          "Humans",
+          "Hypopituitarism",
+          "Intracranial Aneurysm",
+          "Magnetic Resonance Imaging",
+          "Male",
+          "Pituitary Gland",
+          "Prolactin",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30771151/"
+      },
+      {
+        "pmid": "38638009",
+        "title": "Integrated untargeted and targeted testicular metabolomics to reveal the regulated mechanism of Gushudan on the hypothalamic-pituitary-gonadal axis of kidney-yang-deficiency-syndrome rats.",
+        "abstract": "Modern studies have shown that neuroendocrine disorders caused by the dysfunction of the hypothalamic-pituitary-gonadal (HPG) axis are one of the important pathogenetic mechanisms of kidney-yang-deficiency-syndrome (KYDS). The preventive effect of Gushudan on KYDS has been reported, but its regulatory mechanisms on the HPG axis have not been elucidated. In this study, we developed an integrated untargeted and targeted metabolomics analysis strategy to investigate the regulatory mechanism of Gushudan on the HPG axis in rats with KYDS. In untargeted metabolomics, we screened 14 potential biomarkers such as glycine, lysine, and glycerol that were significantly associated with the HPG axis. To explore the effect of changes in the levels of potential biomarkers on KYDS, all of them were quantified in targeted metabolomics. With the quantitative results, correlations between potential biomarkers and testosterone, a functional indicator of the HPG axis, were explored. The results showed that ",
+        "journal": "Biomedical chromatography : BMC",
+        "year": "2024",
+        "authors": [
+          "Lou Yanwei",
+          "Liang Qinghua",
+          "Xin Ling",
+          "Ren Mengxin",
+          "Hang Qian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Male",
+          "Rats",
+          "Metabolomics",
+          "Yang Deficiency",
+          "Testis",
+          "Drugs, Chinese Herbal",
+          "Rats, Sprague-Dawley",
+          "Hypothalamo-Hypophyseal System",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38638009/"
+      },
+      {
+        "pmid": "10870032",
+        "title": "Effect of GH and/or testosterone deficiency on the prostate: an ultrasonographic and endocrine study in GH-deficient adult patients.",
+        "abstract": "The role of IGF-I in prostate development is currently under thorough investigation since it has been claimed that IGF-I is a positive predictor of prostate cancer.",
+        "journal": "European journal of endocrinology",
+        "year": "2000",
+        "authors": [
+          "Colao A",
+          "Spiezia S",
+          "Di Somma C",
+          "Marzullo P",
+          "Cerbone G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenoma",
+          "Adult",
+          "Aged",
+          "Arginine",
+          "Dihydrotestosterone",
+          "Growth Hormone-Releasing Hormone",
+          "Human Growth Hormone",
+          "Humans",
+          "Hypopituitarism",
+          "Insulin-Like Growth Factor Binding Protein 3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10870032/"
+      },
+      {
+        "pmid": "39709322",
+        "title": "[Testosterone-\"Fuel\" for old men?].",
+        "abstract": "Testosterone is a natural hormone which is an essential factor to maintain the physical and emotional well-being in men, regardless of age. Male hypogonadism is an endocrinal condition of testosterone deficiency with the potential to cause multiple physical complaints and psychosocial problems. The condition can be of primary (due to testicular injury), secondary (due to diseases of the hypothalamus or pituitary gland) or functional nature (due to comorbidities, such as inflammatory diseases, obesity, type 2 diabetes mellitus). Testosterone deficiency causes problems of a sexual nature, promotes metabolic disequilibrium and can impair physical abilities (reduction in muscle mass, increase in fat mass). In addition, in the condition of hypogonadism depression, osteoporosis and/or anemia often develop. A testosterone replacement therapy should not be initiated in cases of a desire to have children, unclear processes of the prostate glands or mammary glands or an elevated hematocrit value",
+        "journal": "Innere Medizin (Heidelberg, Germany)",
+        "year": "2025",
+        "authors": [
+          "Zitzmann Michael"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Testosterone",
+          "Hypogonadism",
+          "Aged",
+          "Hormone Replacement Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39709322/"
+      },
+      {
+        "pmid": "15139833",
+        "title": "11: Androgen deficiency and replacement therapy in men.",
+        "abstract": "Androgen deficiency is a clinical diagnosis confirmed by hormone assays. Among younger men, androgen deficiency is usually due to underlying hypothalamopituitary or testicular disorders. Androgen replacement therapy should be started after proof of androgen deficiency and should continue lifelong with monitoring. Men presenting with erectile dysfunction should be evaluated for androgen deficiency, but it is an uncommon cause; if overt androgen deficiency is confirmed, an underlying disorder needs further specialist investigation. In the absence of characteristic underlying testicular or pituitary disorders, new diagnosis of androgen deficiency in older men is difficult because of the non-specific symptoms and the decline in blood testosterone levels seen in healthy ageing and chronic medical disorders. There remains no convincing evidence that androgen therapy is either effective treatment or safe for older men unless they have frank androgen deficiency.",
+        "journal": "The Medical journal of Australia",
+        "year": "2004",
+        "authors": [
+          "Handelsman David J",
+          "Zajac Jeffrey D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aging",
+          "Androgens",
+          "Drug Monitoring",
+          "Gonadotropins, Pituitary",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15139833/"
+      },
+      {
+        "pmid": "33003070",
+        "title": "Hypogonadism and cancer survivorship.",
+        "abstract": "Hypogonadism is highly prevalent among not only patients with a history of prior treatment for cancer, but also among those patients with a new oncologic diagnosis who have not yet received any cancer therapy. Hypogonadism can cause a wide array of signs and symptoms including: deceased muscle mass; increased fat mass; decreased energy, mood, and overall sense of well being; diminished bone mineral density; infertility; and impaired libido and sexual function. This purpose of this manuscript is to review the mechanisms by which cancer and oncologic treatment regimens can adversely affect the hypothalamic pituitary gonadal axis, resulting in hypogonadism. Risks and benefits associated with the treatment of testosterone deficiency are also discussed, which are important considerations for clinicians caring for affected patients.",
+        "journal": "Current opinion in endocrinology, diabetes, and obesity",
+        "year": "2020",
+        "authors": [
+          "Faw Cory A",
+          "Brannigan Robert E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Protocols",
+          "Body Composition",
+          "Bone Density",
+          "Cancer Survivors",
+          "Hormone Replacement Therapy",
+          "Humans",
+          "Hypogonadism",
+          "Neoplasms",
+          "Prevalence",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33003070/"
+      },
+      {
+        "pmid": "15241506",
+        "title": "[Hypopituitarism].",
+        "abstract": "Hypopituitarism is usually caused by tumours of the hypothalamus-pituitary region, but may also arise as the consequence of pituitary inflammation, infiltration or hypoperfusion. Tumour mass reduction by surgical intervention or following drug treatment may improve pituitary function. However, neurosurgical tumour resection and radiation therapy may lead to a permanent manifestation of hypopituitarism. Diagnosis is established by endocrine testing, revealing the characteristic low serum concentrations of both peripheral hormone and associated regulatory hormone of pituitary origin. Hypopituitarism may involve from one to all endocrine axes regulated by the pituitary (in order of frequency: growth hormone deficiency>secondary hypogonadism>secondary hypothyroidism>secondary adrenal failure). The treatment of permanent hypopituitarism consists of replacement of the peripheral hormones (hydrocortisone, DHEA, thyroxine, testosterone or oestradiol, growth hormone). Quality of life is impaire",
+        "journal": "Der Internist",
+        "year": "2004",
+        "authors": [
+          "Hammer F",
+          "Arlt W"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Insufficiency",
+          "Combined Modality Therapy",
+          "Diagnosis, Differential",
+          "Hormones",
+          "Humans",
+          "Hypopituitarism",
+          "Hypothalamic Neoplasms",
+          "Long-Term Care",
+          "Patient Care Team",
+          "Pituitary Function Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15241506/"
+      },
+      {
+        "pmid": "35831125",
+        "title": "Coexistence of growth hormone, adrenocorticotropic hormone, and testosterone deficiency associated with coronavirus disease 2019: a case followed up for 15 months.",
+        "abstract": "Coronavirus disease 2019 (COVID-19) is associated with endocrine disorders, but their long-term clinical course remains unclear. We here report the 15-month clinical course for an individual with multiple endocrine disorders of the pituitary gland and testis likely triggered by COVID-19. A 65-year-old man with no history of endocrinopathy was admitted for acute COVID-19 pneumonia. Although his respiratory condition improved after administration of antiviral drugs, his blood pressure dropped suddenly to a preshock level and was refractory to vasopressors. The circulating adrenocorticotropic hormone (ACTH) and cortisol concentrations were low, and secondary adrenal insufficiency was suspected. Administration of hydrocortisone rapidly ameliorated the hypotension, and the patient was discharged taking 15 mg of hydrocortisone daily. An insulin tolerance test performed 3 months later revealed impaired ACTH, cortisol, and growth hormone (GH) responses, indicative of combined hypopituitarism. ",
+        "journal": "Endocrine journal",
+        "year": "2022",
+        "authors": [
+          "Yoshimura Kai",
+          "Yamamoto Masaaki",
+          "Inoue Tomoya",
+          "Fukuoka Hidenori",
+          "Iida Keiji"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Adrenocorticotropic Hormone",
+          "Growth Hormone",
+          "Hydrocortisone",
+          "COVID-19",
+          "Human Growth Hormone",
+          "Hypogonadism",
+          "Testosterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35831125/"
+      },
+      {
+        "pmid": "376793",
+        "title": "Effects of zinc deficiency upon pituitary function in sexually mature and immature male rats.",
+        "abstract": "Serum pituitary levels of growth hormone (GH), thyrotropin (TSH), prolactin (PRL), luteinizing hormone (LH) and follicle stimulating hormone (FSH) were measured in sexually mature (adult) and sexually immature (juvenile) male rats who had been deprived of dietary zinc for 15 and 7 weeks, respectively. When compared to pair-fed control rats receiving a zinc supplemented diet, both the adult and juvenile zinc deficient rats had significantly lower body weights, tail lengths and ventral prostate weights. The testes of the sexually immature rats were also smaller than those of the pair-fed animals. In sexually mature, zinc deficient rats serum concentrations of GH and testosterone were significantly lower and serum LH levels significantly higher than in ad libitum fed control rats. Pituitary and hypothalamic levels of other hormones did not differ from values recorded in control animals. In sexually immature zinc deficient rats serum concentrations of GH were also significantly depressed; ",
+        "journal": "The Journal of nutrition",
+        "year": "1979",
+        "authors": [
+          "Root A W",
+          "Duckett G",
+          "Sweetland M",
+          "Reiter E O"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aging",
+          "Animals",
+          "Gonadotropin-Releasing Hormone",
+          "Growth Hormone",
+          "Growth Hormone-Releasing Hormone",
+          "Luteinizing Hormone",
+          "Male",
+          "Pituitary Gland",
+          "Prolactin",
+          "Rats"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/376793/"
+      },
+      {
+        "pmid": "48615",
+        "title": "Androgen-induced hepatoma.",
+        "abstract": "Three cases of hepatocellular carcinoma are reported in young men who had been taking androgenic-anabolic steroids. The tumours were histologically similar to those described in previous reports. The tumour progressed slowly in two patients during four and seven years of observation, but in the latter bony metastases occurred. In two patients the tumours regressed after administration of the drug was discontinued. These cases strengthen the evidence that exogenous androgenic-anabolic steroids may produce liver tumours. The use of these drugs should be confined to serious conditions in which they are known to be effective. Biochemical tests of liver function and serum alphs-fetoprotein estimation are not useful as screening-tests for hepatoma in patients taking androgens, and regular isotopic liver-scanning is recommended.",
+        "journal": "Lancet (London, England)",
+        "year": "1975",
+        "authors": [
+          "Farrell G C",
+          "Joshua D E",
+          "Uren R F",
+          "Baird P J",
+          "Perkins K W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anabolic Agents",
+          "Bone Neoplasms",
+          "Carcinoma, Hepatocellular",
+          "Cortisone",
+          "Cryptorchidism",
+          "Hemoglobinuria, Paroxysmal",
+          "Humans",
+          "Hypopituitarism",
+          "Liver Function Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/48615/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:26:56.328381",
+  "success": true,
+  "error_message": null
+}

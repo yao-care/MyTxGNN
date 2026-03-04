@@ -1,0 +1,918 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Atenolol",
+    "disease": "hypertension"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00147563",
+      "title": "A Double-Blind, Parallel Design Study to Compare the Effectiveness of Eplerenone Versus Atenolol in Reversing the Remodeling of Resistance Arteries in Subjects With Mild to Moderate Primary Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "",
+      "country": "Canada",
+      "enrollment": 34,
+      "brief_summary": "To investigate the impact of antihypertensive therapy with the selective mineralocorticoid receptor blocker, eplerenone, on small resistance artery remodeling, compared to the effect of equivalent blood pressure control achieved with a b-blocker, atenolol.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pt with essential hypertension who have never been treated or untreated within the previous 6 months\n\nExclusion Criteria:\n\n* History of Malignant Hypertension\n* Sitting diastolic blood pressure \\> 115mmHg or sitting Systolic blood pressure \\> 200mmHg",
+      "endpoints": [
+        "The change from baseline to week 52 in the media/lumen ratio and the maximum % relaxation response to acetylcholine of gluteal subcutaneous resistance vessels, measured from the gluteal biopsy."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00147563"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499511",
+      "title": "Anglo-Scandinavian Cardiac Outcomes Trial: Post Trial Follow-Up Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2016-01-31",
+      "country": "United Kingdom",
+      "enrollment": 1718,
+      "brief_summary": "ASCOT-10 is a follow-up study of surviving participants in the United Kingdom (UK)arm of the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT) which was conducted between 2000 and 2005.ASCOT's results showed substantial cardiovascular benefit from: 1) the use of a cholesterol lowering drug (atorvastatin) compared to placebo, and 2) the use of a blood-pressure lowering strategy based on amlodipine when compared to a strategy based on atenolol. ASCOT-10 will test the hypothesis that the ASCOT subj",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Surviving ASCOT participants from the participating UK sites\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Number of Participants Who Have Died From Cardiovascular Disease Since the End of the ASCOT Study",
+        "Number of Participants With Non Fatal Myocardial Infarction",
+        "Number of Participants With Non Fatal Stroke/TIA (Transient Ischaemic Attack)"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT01499511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00158093",
+      "title": "A Randomized, Parallel Group Safety Evaluation of Electrocardiographic Intervals and Blood Pressure in Normal Healthy Volunteers After Nebivolol, Atenolol, Moxifloxacin, or Placebo Administration After Single and Repeated Doses",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2003-07",
+      "country": "United States",
+      "enrollment": 260,
+      "brief_summary": "Nebivolol is one of a class of drugs known as beta-blockers. These drugs are useful in the treatment of high blood pressure, angina, abnormal heart rhythms and following a heart attack. The purpose of this study is to explore the potential of nebivolol to cause a certain type of abnormal heart rhythm, known as QTc prolongation. The potential of nebivolol to cause this adverse event will be compared to three other drugs: atenolol, a beta-blocker approved by the FDA; Avelox (moxifloxacin), an anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and nonpregnant, nonlactating women were 18 years or older.\n* Women declaring postmenopausal or surgical sterility.\n* Women of childbearing potential who had a negative serum HCG within 2 weeks of dosing.\n* Male subjects weighed at least 60 kg (132 lb), and female subjects",
+      "endpoints": [
+        "The primary study endpoint was the change in the average QTc intervals from Day 0 to 2 hours after dosing on Day 7."
+      ],
+      "sponsor": "Mylan Bertek Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00158093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01939509",
+      "title": "Comparison of the Hemodynamic Changes in Patients Under Treatment With Bisoprolol Versus Atenolol",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2014-11",
+      "country": "Argentina",
+      "enrollment": 80,
+      "brief_summary": "At hemodynamic level, the greater affinity of bisoprolol by the beta 1 receptor in theory could improve the peripheral arterial perfusion and could have a greater antihypertensive effect. At the same time, this could carry objectifiable improvements in the vascular tree, such as the level of arterial stiffness.\n\nThis study attempts to mark the hemodynamic differences in the same individual with hypertension and metabolic syndrome who will be exposed to both drugs at different moments. Parameters",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertension\n* Metabolic syndrome\n\nExclusion Criteria:\n\n* Severe hypertension \\>180/110\n* Secondary hypertension\n* Contraindication for betablockers\n* Prior treatment with betablockers (up to one month before inclusion)\n* History of neoplastic disease\n* Patients that do not si",
+      "endpoints": [
+        "central blood pressure"
+      ],
+      "sponsor": "Hospital Italiano de Buenos Aires",
+      "url": "https://clinicaltrials.gov/study/NCT01939509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00389168",
+      "title": "Randomized, Double-blind Evaluation of the Effects of Irbesartan and Atenolol on Cardiovascular Structure and Function in Subjects With Hypertension and Left Ventricular Hypertrophy",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1995-04",
+      "completion_date": "1997-04",
+      "country": "Sweden",
+      "enrollment": 115,
+      "brief_summary": "The renin-angiotensin-aldosterone system has been implicated in the control of structural changes of the heart and the vasculature, beyond the effects on blood pressure.\n\nThis projects examines the importance of the renin-angiotensin-aldosterone system and the sympathetic nervous system in the control of cardiac and vascular structure and function in subjects with hypertension.Patients with hypertension and left ventricular hypertrophy were randomized to an angiotensin receptor blocker or a beta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 ys old\n* Male or female with no child bearing potential\n* Seated blood pressure diastolic 90-115 mm Hg\n* Left ventricular mass above 131 g/m2 for men, above 100 g/m2 for women\n* Informed consent\n\nExclusion Criteria:\n\n* Coronary artery disease, heart failure or othe",
+      "endpoints": [
+        "Changes in Left Ventricular Mass Index"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT00389168"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00262236",
+      "title": "A Twelve-week, Randomized, Double-blind, Parallel-group, Multicenter, Dose Escalation Study to Evaluate the Efficacy and Safety of Aliskiren Administered Alone and in Combination With Atenolol in Patients With Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2006-08",
+      "country": "Germany, Switzerland",
+      "enrollment": 693,
+      "brief_summary": "This is a study for people diagnosed with hypertension to compare the safety and effectiveness of aliskiren alone and in combination with atenolol. Each patient will be in the study for 12 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Outpatients 18 years of age and older.\n2. Patients with essential hypertension.\n\nExclusion Criteria:\n\nSevere hypertension, Current diagnosis of heart failure, History or evidence of a secondary form of hypertension, Participation in any investigational drug study within one m",
+      "endpoints": [
+        "Change from baseline in diastolic blood pressure after 12 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00262236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03626259",
+      "title": "Effect of the Administration of Losartan / Amlodipine in Fixed Combination Versus Losartan on Hemodynamic and Arterial Stiffness Parameters in Patients With Systemic Hypertension Grade 1 and 2",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-06",
+      "completion_date": "2019-06-14",
+      "country": "Mexico",
+      "enrollment": 28,
+      "brief_summary": "Systemic Arterial Hypertension (SAH) is a disease with a high prevalence in Mexico and worldwide. SAH is associated with an increase in cardiovascular morbidity and mortality, causing cardiovascular disease (CVD), heart failure (HF), as well as chronic kidney disease (CKD). Several of the physiopathological mechanisms observed are: the increase in cardiac output, central aortic pressure (CAP), pulse wave velocity (PWV) and peripheral vascular resistance (PVR), which leads to the generation of da",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of hypertension grade 1 or 2 according to the criteria of the American Heart Association (2017)\n* Written informed consent\n* Patients who are undergoing antihypertensive treatment and who, at the trial of the investigator and taking care of the health and safety of t",
+      "endpoints": [
+        "Pulse Wave Velocity (PWVao)"
+      ],
+      "sponsor": "Centro Universitario de Ciencias de la Salud, Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT03626259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00593710",
+      "title": "A Randomized Double-blind Study Assessing the Effects of Losartan Versus Atenolol on Pulse Wave Velocity and the Biophysical Properties of the Aorta in Patients With Marfan Syndrome",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2011-12",
+      "country": "Canada",
+      "enrollment": 17,
+      "brief_summary": "Marfan syndrome is a genetic disease of our connective tissue, which provides material and support for our skeleton, muscles, blood vessels and other parts of our bodies. People with Marfan syndrome may be tall and thin with slender, tapering fingers, long arms and legs, and spine curvature. They often have heart and eye problems. In some patients, the condition is very mild and the person has few or no symptoms. Others are always at risk of life-threatening problems, which usually involve damag",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must conform to the diagnostic criteria for MFS;\n2. Subjects must be between 12 and 25 years;\n3. Subjects must have technically suitable echocardiographic windows to obtain the images needed to calculate the biophysical properties listed as outcome measures;\n4. Subje",
+      "endpoints": [
+        "Pulse Wave Velocity"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00593710"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00133692",
+      "title": "INternational VErapamil SR Trandolapril STudy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1997-09",
+      "completion_date": "2003-02",
+      "country": "United States",
+      "enrollment": 22000,
+      "brief_summary": "Because blood pressure affects the heart, blood vessels, kidneys, and the entire body, it is important to keep it as normal as possible. There are several different ways to control blood pressure and to prevent or limit the development of heart disease due to high blood pressure. The purpose of this study is to compare two treatments to see how well they work and the difference in their side effects. One treatment includes the use of a calcium antagonist drug (Isoptin sustained release \\[SR\\] or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female\n* Age 50 to no upper limit\n* Hypertension documented according to the 6th report of the Joint National Committee on Detection and Evaluation of the treatment of high BP (JNC VI) and the need for drug therapy (previously documented hypertension in patients curren",
+      "endpoints": [
+        "First occurrence of death or nonfatal myocardial infarction (MI) or nonfatal stroke"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00133692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00913965",
+      "title": "Bioavailability of Atenolol Tablets",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-07",
+      "completion_date": "1989-08",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "To demonstrate the relative bioavailability of Atenolol tablets.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on physical exam, medical history, or clinical laboratory results on screening.\n\nExclusion Criteria:\n\n* Positive test results for HIV or hepatitis B or C.\n* Treatment for drug or alcohol dependence.",
+      "endpoints": [
+        "Bioequivalence based on AUC and Cmax"
+      ],
+      "sponsor": "Sandoz",
+      "url": "https://clinicaltrials.gov/study/NCT00913965"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00946725",
+      "title": "A Comparative Bioavailability Study of Atenolol Tablets, 100 mg",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2000-11",
+      "completion_date": "2000-11",
+      "country": "N/A",
+      "enrollment": 28,
+      "brief_summary": "To demonstrate the relative bioavailability of atenolol tablets, 100 mg.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal finding on physical exam, medical history, or clinical laboratory results on screening.\n\nExclusion Criteria:\n\n* Positive test results for HIV or hepatitis B or C.\n* Treatment for drug or alcohol dependence.",
+      "endpoints": [
+        "Bioequivalence based on AUC and Cmax"
+      ],
+      "sponsor": "Sandoz",
+      "url": "https://clinicaltrials.gov/study/NCT00946725"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06670690",
+      "title": "Comparison Between Atenolol , Propnalol and Ivabradine as a Premedication for Bloodless Field Anesthesia in Lumbar Spine Surgery ,a Prospective Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2023-10-01",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "The aim of this work is to compare atenolol, propranolol, and ivabradine as a premedication to achieve bloodless field anesthesia primarily controlling heart rate in lumbar spine surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ASA physical status I and II,\n\n  * aged from 18 to 50 years old\n  * scheduled for elective lumber spine surgeries will be included in this study.\n\nExclusion Criteria:\n\n* Hypertension.\n* Hepatic or renal disease.\n* Diabetes Mellitus.\n* Pregnancy.\n* Coagulation disorders.\n* Anem",
+      "endpoints": [
+        "Perioperative Heamodynamic Effect of the drugs"
+      ],
+      "sponsor": "Menoufia University",
+      "url": "https://clinicaltrials.gov/study/NCT06670690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000513",
+      "title": "Trial of Antihypertensive Intervention Management",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1984-04",
+      "completion_date": "1994-11",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The objective of the Trial of Antihypertensive Intervention Management (TAIM) was to determine the efficacy of dietary management and/or drug therapy, namely thiazide-like diuretics or a beta-blocker, in the control of mild hypertension. Additionally, the Continuation of the Trial of Antihypertensive Intervention Management (COTAIM) tested the effects of long-term weight reduction, and sodium/potassium changes added to weight reduction, as well as the original drug treatment, on the failure rate",
+      "eligibility_criteria": "Men and women, ages 21 to 65, with mild hypertension in the range of 90 to 100 mm Hg diastolic blood pressure.\n\nSubjects were obese (110-150 percent of ideal weight).",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00684489",
+      "title": "Renin-Guided Therapeutics in the Management of Untreated, Uncontrolled or Complicated Hypertension",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 52,
+      "brief_summary": "Plasma renin values determine whether volume or vasoconstrictor (renin) factors predominate in elevating blood pressure and are useful in selecting effective antihypertensive therapy.2,3\n\nThe researchers hypothesize that:\n\n1. Plasma renin-guided therapeutics will improve systolic and diastolic blood pressure control in patients with untreated hypertension as well as in patients with treatment refractory or resistant hypertension that are managed by Clinical Hypertension Specialists.\n2. Renin-gui",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age, 21 years of age and older\n* Male or female (post-menopausal or effective method of birth control)\n* BP and treatment criteria noted above\n* Willingness to provide written, informed consent\n* Ability to adhere to study protocol\n\nExclusion Criteria:\n\n* Uncontrolled diabetes",
+      "endpoints": [],
+      "sponsor": "Medical University of South Carolina",
+      "url": "https://clinicaltrials.gov/study/NCT00684489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01736488",
+      "title": "A Randomized, Double-Blind, Phase IV Clinical Study to Evaluate the Antihypertensive Efficacy and Changes of Neurohormonal Markers of Fimasartan and Atenolol With Exaggerated Blood Pressure Response During Exercise in Essential Hypertensive Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 25,
+      "brief_summary": "The purpose of this study is to evaluate the antihypertensive efficacy and changes of neurohormonal markers of fimasartan and atenolol with exaggerated blood pressure response during exercise in essential hypertensive patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects who agreed to participate in this clinical trial and submitted the written informed consent\n2. Subjects aged 20 to 75 years\n3. Essential hypertension patients who are measured more 140mmHg, less than 170mmHg of sitting systolic blood pressure(SiSBP) or more 90mmHg, l",
+      "endpoints": [
+        "The difference of sitting Systolic Blood Pressure(SiSBP) between at the peak compared to at resting"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT01736488"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01748123",
+      "title": "Creating an Active Collaborative Network of Comparative Effectiveness Researchers: A Randomized Study of Initial Diuretic Therapy for Hypertension.",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2016-08",
+      "completion_date": "2018-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "* Clinical equipoise exists with respect to the important question, \"What is the best initial diuretic for the treatment of Hypertension\"? A pragmatic comparative effectiveness research (CER) study comparing Chlorthalidone to Hydrochlorthiazide (HCTZ) could help inform decision making for this common problem.\n* The investigators aim to harness both the power of bioinformatics (using web-based data-capture and electronic health records) and of online media (through collaboration) in order to faci",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women are eligible if they have hypertension, are not receiving antihypertensive medications, and have average office BP values within the last 6 months ≥140/90 mmHg.\n\nExclusion Criteria:\n\n* Patients with hypertensive urgency will be excluded (BP ≥180/120 mmHg). We als",
+      "endpoints": [
+        "Mean systolic 24 Hour Ambulatory Blood Pressure"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT01748123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01251146",
+      "title": "Effects of Bisoprolol and Atenolol on Resting Heart Rate and Sympathetic Nervous System's Activity in Patients With Essential Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2012-02",
+      "country": "China",
+      "enrollment": 177,
+      "brief_summary": "This is a Phase 4, prospective, multi-centric and randomized controlled study to compare the effects of bisoprolol and atenolol on resting heart rate (RHR) and sympathetic nervous system's (SNS) activity in subjects with essential hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged between 25-65 years\n* Subjects with essential hypertension (EH)\n* Subjects with systolic blood pressure (SBP) 140-160 millimeter of mercury (mmHg) and diastolic blood pressure (DBP) 90-100 mmHg\n* Subjects with normal sinus rhythm\n* Subjects with resting heart rat",
+      "endpoints": [
+        "Change From Baseline in Baroreflex Sensitivity (BRS) at Attainment of Heart Rate Goal",
+        "Change From Baseline in Baroreflex Sensitivity (BRS) at End of Follow-up"
+      ],
+      "sponsor": "Merck KGaA, Darmstadt, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT01251146"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03082014",
+      "title": "EffecTs of Amlodipine and Other Blood PREssure Lowering Agents on Microvascular FuncTion in Small Vessel Diseases",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2018-02-22",
+      "completion_date": "2022-07-28",
+      "country": "Germany, United Kingdom, Netherlands",
+      "enrollment": 101,
+      "brief_summary": "Multicentre, multinational, prospective randomised, open-label, 3 sequence crossover phase III b clinical trial with blinded endpoint assessment (PROBE-design)\n\n* in 75 patients with sporadic small vessel diseases (SVDs) and\n* in 30 patients with cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients may be enrolled in the trial if all of the following criteria have been met:\n\n* Symptomatic SVD defined as\n\n  * History of clinical lacunar stroke in the last 5 years with a corresponding small subcortical infarct visible on MRI scan or CT scan\\* compatible with the cli",
+      "endpoints": [
+        "Change from Baseline Cerebrovascular Reactivity (CVR) at 4 weeks of Monotherapy"
+      ],
+      "sponsor": "Ludwig-Maximilians - University of Munich",
+      "url": "https://clinicaltrials.gov/study/NCT03082014"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02403349",
+      "title": "Comparison of Peripheral and Cerebral Arterial Flow in Acute Ischemic Stroke: Fimasartan vs. Valsartan vs. Atenolol",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2012-05",
+      "completion_date": "2015-09",
+      "country": "N/A",
+      "enrollment": 105,
+      "brief_summary": "Confirm central blood pressure reduction effect of Fimasartan, Valsartan and Atenolol and compare correlation with the measured peripheral (central blood pressure, pulse wave velocity, and flow-mediated dilation) and cerebral blood flow factors (transcranial doppler findings, cerebral blood flow volume) in acute ischemic stroke patients with hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 30 years old\n* Acute ischemic stroke patient who has corresponding DWI(diffusion- weighted imaging) lesion correlated with symptom\n* after 7days, but within 28days from stroke onset\n* Diagnosed with Hypertension\n* hypertensive patients who taking anti-hypertensive drugs ",
+      "endpoints": [
+        "Central Blood pressure control"
+      ],
+      "sponsor": "Ajou University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02403349"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00185094",
+      "title": "The Effects of Olmesartan Medoxomil, Losartan Potassium, and Atenolol on Insulin Sensitivity in Overweight and Obese Subjects With Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2005-07",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "To examine the effect of three different blood pressure medications on the insulin sensitivity in overweight patients with high blood pressure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between the ages of 18 and 75 years (inclusive)\n* Willingness to undergo insulin clamp procedure twice\n* Overweight or obese (BMI=25-39 kg/m2)\n* Subject must meet one of the following two blood pressure criteria at week-2 and at week-1: Systolic blood pressure 140-179",
+      "endpoints": [
+        "To compare the treatment effect of olmesartan medoxomil versus that of atenolol on insulin sensitivity"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00185094"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00151138",
+      "title": "Cognitive and Cerebrovascular Sequelae of Hypertension",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2002-09",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "Randomized trial of two antihypertensive drugs of known efficacy to investigate whether one has more favorable effects on brain blood flow and cognitive function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All subjects will be between 35 and 65 years of age, and must have a diastolic BP between 90 and 109 mm Hg, systolic BP between 140 and 179 mm Hg, or both. Eligibility will be based upon readings taken at two screening visits. For resting BP determinations, eating, smoking, dr",
+      "endpoints": [
+        "Cerebral blood flow in response to working memory task"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00151138"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01522950",
+      "title": "A Double-blind, Placebo-controlled, Randomized Study Examining the Effects of Nebivolol Compared to Atenolol on Endothelial Function and Cardiovascular Risk in Patients With Early Vascular Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2016-10",
+      "country": "United States",
+      "enrollment": 76,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled study comparing the efficacy of nebivolol and atenolol at improving small artery elasticity and reducing cardiovascular disease risk in subjects with early vascular disease. Approximately 75 subjects with borderline/elevated blood pressures and impaired endothelial function, as measured by arterial elasticity scores, will be recruited and assigned to treatment groups using a block randomization scheme. Patients will be randomly allocated to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* borderline blood pressure (120-145/80-90 mm Hg);\n* borderline or abnormal small artery elasticity (C2) as measured by pulse contour analysis;\n* treatment-naive for all blood pressure medications including diuretics for at least 30 days prior to baseline visit;\n* able to walk o",
+      "endpoints": [
+        "Change in Small Artery Elasticity"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT01522950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00529750",
+      "title": "Comparative Trial of the Effects of Irbesartan vs Atenolol on the Endothelial Function of Hypertensive Patients With Metabolic Syndrome",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2005-01",
+      "country": "N/A",
+      "enrollment": 108,
+      "brief_summary": "Primary:\n\n* To evaluate the impact of irbesartan on endothelial function in hypertensive patients with metabolic syndrome.\n\nSecondary:\n\n* To evaluate the oxidative stress status in patients with hypertension with metabolic syndrome.\n* To correlate the oxidative stress status with endothelial function in these patients.\n* To evaluate the effect of irbesartan on the oxidative stress stage in patients with metabolic syndrome and to correlate it with the effect on endothelial function .\n* To correla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertension grade 1 or 2\n* With at least two of the following criteria for the diagnosis of metabolic syndrome:\n\n  * Body mass index \\> or = 25 kg/m2 AND waist circumference \\> or = 100 cm.\n  * Dyslipidemia (triglycerides fasting serum levels \\> or = 200 mg/dL OR HDL serum le",
+      "endpoints": [
+        "Endothelial function in vivo qualification: brachial artery flow mediated vasodilation (FMV%) determined by high resolution ultrasound."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00529750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00582114",
+      "title": "Hypertension in Hemodialysis Patients",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-08",
+      "completion_date": "2013-09",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "We will directly test the hypothesis that an initial strategy of lisinopril-based therapy will be more effective than atenolol-based therapy in causing regression of left ventricular hypertrophy (LVH) over one year in patients with hemodialysis hypertension despite similar degree of BP reduction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients on chronic hemodialysis for \\> 3 mos.\n2. Compliance with hemodialysis treatments as defined by less than one missed dialysis per month\n3. Hypertension as diagnosed by ambulatory blood pressure monitoring (ABPM) \\>135/75 mm Hg after participation in the ultrafiltratio",
+      "endpoints": [
+        "The Primary End Point is the Regression of Left Ventricular Hypertrophy (LVH) by Echocardiographic Criteria From Baseline to 1 Year."
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00582114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132768",
+      "title": "Effects of Angiotensin-Receptor Blockade With Olmesartan on Carotid Atherosclerosis in Patients With Hypertension: The Confirmatory Olmesartan Plaque Regression Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2010-05",
+      "completion_date": "2011-06",
+      "country": "Italy",
+      "enrollment": 114,
+      "brief_summary": "Effect of olmesartan medoxomil (20-40 mg) on plaque regression in hypertensive patients with carotid atherosclerosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female Caucasian outpatients aged \\> 40 years.\n* High BP defined as mean SeSBP/SeDBP ≥ 140/90 mmHg.\n* One or more of the following additional risk factors:\n* Smoking;\n* Dyslipidaemia (high-density lipoprotein (HDL)-cholesterol \\< 0.9 mmol/L or low-density lipoprotein ",
+      "endpoints": [
+        "Change in carotid plaque volume"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT01132768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03105661",
+      "title": "Use of Impedance Cardiography to Decrease the Risk of Preeclampsia in Obese Patients",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2017-04-04",
+      "completion_date": "2020-03-04",
+      "country": "United States",
+      "enrollment": 400,
+      "brief_summary": "To determine if the use of impedance cardiography can identify appropriate medications for use in treating morbidly obese patients to decrease the risk of preeclampsia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant patients 18-51 years old,\n* Less than 20 weeks gestation with Morbid Obesity (BMI \\>/= 40)\n* Not on antihypertensive medications\n\nExclusion Criteria:\n\n* Patients with an allergy to antihypertensive medication or contraindication for their usage such as certain cardiac",
+      "endpoints": [
+        "Rates of preeclampsia in morbidly obese pregnant women"
+      ],
+      "sponsor": "University of Tennessee Graduate School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03105661"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05794997",
+      "title": "Data Analysis for Drug Repurposing for Effective Alzheimer's Medicines (DREAM)- Propranolol/Carvedilol Versus Atenolol/Bisoprolol/Sotalol",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-11-30",
+      "completion_date": "2023-12-31",
+      "country": "United States",
+      "enrollment": 817337,
+      "brief_summary": "This study aims to evaluate the comparative risk of dementia/Alzheimer's disease onset between patients treated with medications that target specific metabolic pathways and patients treated with alternative medications for the same indication.",
+      "eligibility_criteria": "Please see https://docs.google.com/spreadsheets/d/1ltZHHv6AvMkPBbSp\\_9c0dtQ0XMmBc00d4jaRId5ovaA/edit?usp=sharing or Appendix A (https://drive.google.com/drive/folders/1a-1uRt73kVywEoV8L0cEmDNgaqYEIudT?usp=sharing) for full code and algorithm definitions.\n\nMedicare timeframe: 2008 to 2019 (end of dat",
+      "endpoints": [
+        "Time to Dementia Onset"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05794997"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00541684",
+      "title": "A Randomized, Double-Blind, Two Arm, Parallel Group Health Assessment Study of Losartan or Atenolol in Patients With Mild to Moderate Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-07-11",
+      "completion_date": "2003-01-23",
+      "country": "N/A",
+      "enrollment": 143,
+      "brief_summary": "The study will look at the effects of losartan or atenolol on frequency of sexual intercourse in subjects with newly diagnosed mild to moderate hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed with mild to moderate hypertension\\\\\n* Married male in stable heterosexual relationship\n* No prior history of sexual dysfunction\n* Satisfied with overall sex life\n* Patient's spouse is in close proximity for the study\n* Has had at least 2 but not more than 10 s",
+      "endpoints": [
+        "number of sexual intercourse events in a 2-week period"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00541684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00185185",
+      "title": "Multi-Centre Olmesartan Atherosclerosis Regression Evaluation (MORE)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-11",
+      "completion_date": "2006-02",
+      "country": "Germany",
+      "enrollment": 165,
+      "brief_summary": "This is a study in hypertensive patients with atherosclerosis and increased cardiovascular risk. The efficacy of olmesartan medoxomil on atherosclerosis is measured.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mean sitting sBP and dBP prior to randomization of 140-180/90-105 mmHg\n* Increased cardiovascular risk, e.g.: a) documented or clinical signs of peripheral atherosclerotic disease stage IIa or lower; b) diabetes mellitus type 2; c) left ventricular hypertrophy on echo; d) curr",
+      "endpoints": [
+        "Change of intima media thickness of the common carotid artery on the leading side of the neck."
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00185185"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00607347",
+      "title": "Atenolol Exposure as Risk for Adverse Metabolic Responses to Beta Blockers",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2009-06",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The researchers hypothesize that the impact of increasing systemic exposure to atenolol leads to increased risk for adverse metabolic effects from atenolol therapy in hypertension. This will be accomplished through a 24-hour pharmacokinetic (PK) study and oral glucose tolerance test in hypertensive patients taking chronic atenolol 100 mg daily.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects from PEAR who are on atenolol 100 mg once daily will be invited to participate\n* Other inclusion criteria from PEAR\n\nExclusion Criteria:\n\n* Patients with BMI \\>35 kg/m2 will be excluded\n* Other exclusion criteria from PEAR",
+      "endpoints": [
+        "Correlation of area under curve (AUC) up to 24 hour time point of atenolol plasma drug concentrations and glucose/insulin values obtained from OGTT and triglycerides"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00607347"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00108082",
+      "title": "A Randomized, Double-Blind, Multi-Center Study Comparing the Effects of Carvedilol Modified Release Formulation (COREG MR) and Atenolol in Combination With and Compared to an Angiotensin Converting Enzyme Inhibitor (Lisinopril) on Left Ventricular Mass Regression in Hypertensive Patients With Left Ventricular Hypertrophy (LVH).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2008-08",
+      "country": "United States",
+      "enrollment": 287,
+      "brief_summary": "This study is designed to compare the effects of COREG MR (carvedilol modified release formulation) to atenolol on indices of left ventricular dimensions when added to standardized angiotensin converting enzyme (ACE) inhibition, and to the effect of ACE inhibition alone. Subjects with LVH (left ventricular hypertrophy) and hypertension will be studied. The primary endpoint will be the change in left ventricular mass index (LVMI) characterized by magnetic resonance imaging (MRI) following 12 mont",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Stage 1 or Stage 2 hypertension.\n* Left ventricular hypertrophy.\n\nExclusion criteria:\n\n* In atrial fibrillation.\n* Takes beta-blocker for MI (myocardial infarction) or arrhythmia.\n* Has uncontrolled diabetes, uncontrollable or symptomatic arrhythmias, unstable angina, second o",
+      "endpoints": [
+        "Model-adjusted Mean Change From Baseline in Left Ventricular Mass Indexed (LVMI) by Body Surface Area as Measured by Magnetic Resonance Imaging (MRI) at Month 12"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00108082"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01762436",
+      "title": "A Randomized Controlled Study: Effects of Bisoprolol and Atenolol on Sympathetic Nervous Activity and Central Aortic Pressure in Patients With Essential Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2012-02",
+      "country": "China",
+      "enrollment": 109,
+      "brief_summary": "β-blockers (BBs) with different pharmacological properties may have heterogeneous effects on sympathetic nervous activity (SNA) and central aortic pressure (CAP), which are independent cardiovascular factors for hypertension. Hence, we analyzed the effects of bisoprolol and atenolol on SNA and CAP in hypertensive patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 25\\~65 years old\n* untreated essential hypertension\n* SBP 140-160mmHg \\& DBP 90-100mmHg\n* Sinus rhythm\n* Resting heart rate \\>70bpm\n* Can give written informed consent\n\nExclusion Criteria:\n\n* Atrial Fibrillation (AF)/ Sick Sinus Syndrome (SSS)/ atrioventricular block 2-3 grade",
+      "endpoints": [
+        "baroreflex sensitivity",
+        "central aortic pressure"
+      ],
+      "sponsor": "Ruijin Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01762436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01009944",
+      "title": "Genetic Mechanisms in Human Hypertension RAAS Inhibition Study",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2007-01",
+      "completion_date": "2019-03-19",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to develop an approach to provide personalized medicine to individuals who have hypertension (high blood pressure). The investigators plan to use people's genetic characteristics (traits) to determine what medication they should use to lower their blood pressure most effectively. The investigators will give individuals one of two medications to treat hypertension (lisinopril or atenolol). The investigators believe that depending on the individuals genetic background ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female hypertensive participants who were previously studied in SCOR program.\n\nExclusion Criteria:\n\n* Diabetes\n* Taking other medications beside thyroid or estrogen supplements.",
+      "endpoints": [
+        "One type of blood pressure medication will better treat individuals with certain genetic backgrounds."
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01009944"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04931108",
+      "title": "The Effect of Nitrendipine/Atenolol Combination on Blood Pressure Variability of Patients With Grade 1 Hypertension Compared With Nitrendipine or Atenolol Monotherapy.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-27",
+      "completion_date": "2023-06",
+      "country": "China",
+      "enrollment": 32,
+      "brief_summary": "1. Study name: The Effect of Nitrendipine/Atenolol Combination on Blood Pressure Variability.\n2. Medicine: Nitrendipine/Atenolol; Nitrendipine; Atenolol.\n3. Rationale: Blood pressure variability correlates with cardiovascular events and target-organ damage in hypertensive patients. Nitrendipine/Atenolol has obvious advantages in reducing blood pressure variability in hypertensive rats, but the effect of this combination on hypertensive patients is still unknown.\n4. Objective: To evaluate the eff",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or Women.\n* Aged 30-65 years.\n* Ambulatory systolic blood pressure ≥ 135 mmHg and/or diastolic blood pressure ≥ 85 mmHg.\n* Ambulatory daytime systolic blood pressure standard deviation (SD)≥13mmHg.\n* Never took antihypertensive drugs.\n* Signed the written consent.\n\nExclusi",
+      "endpoints": [
+        "Ambulatory systolic blood pressure variability 1",
+        "Ambulatory systolic blood pressure variability 2"
+      ],
+      "sponsor": "Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04931108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04755764",
+      "title": "The Effect of Labetalol, Atenolol, and Nifedipine on Maternal Hemodynamics Measured by Impedance Cardiography in Early Pregnancy",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2021-03-03",
+      "completion_date": "2025-12",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of the research is to characterize the effect of labetalol, atenolol, and nifedipine on maternal hemodynamics early in pregnancy. Patients will be given medication based on their hemodynamics and asked to return for a repeat measurement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients presenting to Maternal Hypertension Center at Cabell Huntington Hospital\n* English speaking\n* 18-45 years old.\n* Willing to provide informed consent\n* Gestational age prior to 15 weeks gestation\n\nExclusion Criteria:\n\n* Non-English speaking patients, patients\n* \\<18 ye",
+      "endpoints": [
+        "Systolic blood pressure",
+        "Diastolic blood pressure",
+        "Mean arterial pressure"
+      ],
+      "sponsor": "Marshall University",
+      "url": "https://clinicaltrials.gov/study/NCT04755764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00241904",
+      "title": "Reducing Total Cardiovascular Risk in an Urban Community",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2010-05",
+      "country": "United States",
+      "enrollment": 525,
+      "brief_summary": "PLEASE NOTE: THIS STUDY IS ONLY ENROLLING PATIENTS CURRENTLY BEING TREATED AT BELAIR-EDISON FAMILY HEALTH CENTER.\n\nThe purpose of this study is to compare the clinical effectiveness and cost effectiveness of two cardiovascular risk reduction programs - a comprehensive intensive (Cl) intervention with a less intensive (LI) intervention - in African American, and white low-income patients with known excessive cardiovascular disease risk.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Currently receiving medical care at Johns Hopkins University\n* African American or Caucasian and have diagnosed CVD, defined as a prior myocardial infarction, revascularization procedure for coronary disease, ischemic heart disease, stroke, or have diagnosed type 2 diabetes an",
+      "endpoints": [
+        "Low-density Lipoprotein Cholesterol",
+        "Systolic Blood Pressure",
+        "HbA1c"
+      ],
+      "sponsor": "Johns Hopkins University",
+      "url": "https://clinicaltrials.gov/study/NCT00241904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01587638",
+      "title": "Use of Beta-blockers and Risk of New Onset Diabetes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 12336,
+      "brief_summary": "This study used an observational, retrospective cohort design to compare the presence and timing of new-onset diabetes (NOD) between hypertensive patients initiating therapy with carvedilol immediate-release (IR) and carvedilol controlled-release (CR) vs the following cardioselective beta blockers (BBs): atenolol, metoprolol succinate, and metoprolol tartrate (referred to hereafter as 'other BB').\n\nThe aim of the study was to investigate the likelihood of developing NOD among hypertensive patien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Enrollment in a plan captured in the IMS LifeLink Health Plan Claims Database between July 1, 2000 and December 31, 2007\n* aged ≥18 years\n* at least one pharmacy claim for a beta-blocker of interest (carvedilol immediate-release \\[IR\\]/controlled-release \\[CR\\], atenolol, meto",
+      "endpoints": [
+        "Rate of New Onset Diabetes (NOD)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01587638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00741585",
+      "title": "Prognostic Value of the Circadian Pattern of Ambulatory Blood Pressure for Multiple Risk Assessment",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09-01",
+      "completion_date": "2018-06-30",
+      "country": "Spain",
+      "enrollment": 21983,
+      "brief_summary": "The HYGIA study was designed to investigate prospectively\n\n1. the prognostic value of ambulatory blood pressure (BP) monitoring among subjects primarily evaluated at primary care settings\n2. the impact of changes in ambulatory BP during follow-up in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n3. the influence of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n4. the prevalence of an altered",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects ≥18 years of age.\n* High-normal BP or essential hypertension.\n* Any subject with recommendation for evaluation with ABPM according to the 2007 European Guidelines.\n* Informed consent to participate in the study prior to any study procedures.\n\nExclusion ",
+      "endpoints": [
+        "To evaluate the impact of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk assessment."
+      ],
+      "sponsor": "University of Vigo",
+      "url": "https://clinicaltrials.gov/study/NCT00741585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000514",
+      "title": "Systolic Hypertension in the Elderly Program (SHEP)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1984-06",
+      "completion_date": "1996-10",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "The primary objective was to assess whether long-term administration of antihypertensive therapy to elderly subjects with isolated systolic hypertension reduced the combined incidence of fatal and non-fatal stroke. The secondary objectives were to evaluate: the effect of long-term antihypertensive therapy on mortality from any cause in elderly people with isolated systolic hypertension; possible adverse effects of chronic use of antihypertensive drug treatment in this population; the effect of t",
+      "eligibility_criteria": "Men and women, aged 60 or over, with isolated systolic hypertension.",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00813722",
+      "title": "Effect of Active Telephone Calls in the Compliance of Hypertensive Patients With Treatment: An Open and Randomized Clinical Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "1999-03",
+      "completion_date": "2009-06",
+      "country": "Brazil",
+      "enrollment": 400,
+      "brief_summary": "The purpose of this study is to evaluate the importance of providing guidelines to patients via active telephone calls in blood pressure control and in the discontinuation of treatment among hypertensive patients. Hypertensives (N = 354) who could receive telephone calls to be reminded of the dates of their medical appointments and to be instructed about hypertension were distributed into two groups: a) \"uncomplicated\" - hypertensives with no other concurrent diseases; and b) \"complicated\" - sev",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patients studied were those with essential hypertension who could receive telephone calls to be reminded of the dates of their medical appointments and to receive guidance about hypertension\n* Patients were of both genders, from any ethnic background, over 18 years old and",
+      "endpoints": [
+        "Blood pressure control"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT00813722"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00232882",
+      "title": "Neurohumoral and Oxidative Influences of Candesartan, Atenolol, Hydrochlorothiazide and Drug Combinations in Essential Hypertensive Patients.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2006-04",
+      "country": "Canada",
+      "enrollment": 86,
+      "brief_summary": "Angiotensin receptor antagonists (ARA), beta-blockers and diuretics do not seem to confer equivalent cardiovascular protection in hard outcomes clinical trials (beta blockers inferior). These results may be explained by differences in their effects on sympathetic activity, oxidative stress, inflammation and renin angiotensin system activation.\n\nHow diuretic addition to first line therapy with ARAs and beta-blockers modulates neurohumoral and hemodynamic parameters is not well understood.\n\nThe ma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Mild to moderate essential hypertension as defined by a morning mean DBP \\*90 mmHg and \\* 109 mm Hg, a mean SBP \\* 200 mm H for two consecutive visits (Visits 2 and 3) during the two-to-four week placebo run-in period,\n2. Ability to provide written informed consent.\n\nExclusio",
+      "endpoints": [
+        "Plasma norepinephrine"
+      ],
+      "sponsor": "Institut de Recherches Cliniques de Montreal",
+      "url": "https://clinicaltrials.gov/study/NCT00232882"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00171756",
+      "title": "A Double-blind, Double-dummy, Multi-centre, Randomized, Active Controlled, Parallel Group Pilot Trial to Compare the Effects of Valsartan and Atenolol on the Pro-thrombotic State in Patients With Mild to Moderate Hypertension.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-06",
+      "completion_date": "2006-03",
+      "country": "Switzerland",
+      "enrollment": 92,
+      "brief_summary": "A study to compare the effects of Diovan or Atenolol taken for 12 weeks on platelet function of patients who have mild to moderately severe hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged between 18 - 75 years of age inclusively.\n* Mild to moderate hypertension (MSDBP \\>= 95 and \\>= 110 mmHg and / or MSSBP \\>140mm Hg) at visit 1, requiring pharmacological intervention. For newly diagnosed patients, hypertensive blood pressure values must be",
+      "endpoints": [
+        "Change from baseline in a clinical laboratory measurement of a blood clotting factor after 12 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00171756"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01719367",
+      "title": "Genetically Determined Response to Atenolol in Patients With Persistent Atrial Fibrillation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-01",
+      "completion_date": "2016-09",
+      "country": "United States",
+      "enrollment": 38,
+      "brief_summary": "Atrial fibrillation (AF), the most common sustained heart rhythm disorder, is becoming increasingly prevalent in the Western world. The number of people with AF in the United States is projected to roughly double by the year 2050, to an estimated 6-12 million. For many patients with AF, rate control with atrioventricular (AV) node blockers is a widely accepted therapeutic strategy. These agents control heart rate, thus preventing symptoms and systolic heart failure associated with tachycardia du",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be at least 18 years of age.\n* Subjects must have a history of persistent AF currently treated with a rate control strategy.\n* Subjects should be willing to give written, informed consent.\n* Subjects must be willing and able to participate in the exercise protoco",
+      "endpoints": [
+        "Change in Pre- and Post-atenolol Ventricular Rate Response After 5 Minutes of Exercise",
+        "Change in Pre- and Post-atenolol Ventricular Rate Response After 10 and 15 Minutes of Exercise"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01719367"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00687973",
+      "title": "Effect of the Fixed Dose Combination Amlodipine/Valsartan on Central Aortic Blood Pressure in Uncontrolled Essential Hypertension With Amlodipine 5 mg",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-01",
+      "country": "France",
+      "enrollment": 393,
+      "brief_summary": "Assess that for an equivalent brachial blood pressure (BP)lowering, a fixed dose combination amlodipine/valsartan based regimen reduces central aortic BP pressure to a larger extent than an atenolol/amlodipine combination based regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients 18 years of age or older\n* Hypertension defined by MSDBP \\> 90 and or MSSBP \\> 140 mmHg, MSDBP \\> 80 mmHg, or/and MSSBP \\> 130 mmHg if diabetes or chronic renal impairment uncontrolled under their previous therapy, or untreated , or experiencing unaccep",
+      "endpoints": [
+        "Change From Baseline of Central Systolic Blood Pressure (SBP) at Week 24 (Radial Measurement)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00687973"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02441842",
+      "title": "Evaluation of Perioperative Biochemical Stress Factors in Craniotomy Neurosurgical Procedure With Respect to Preoperative Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-12",
+      "country": "N/A",
+      "enrollment": 85,
+      "brief_summary": "Perioperative hypertension is commonly associated with surgical craniotomy. As the sympathetic nervous system and the renin-angiotensin-aldosterone system play a key role in the development of this hypertension, preoperative single dose therapy with a -adrenergic receptor blocker or an angiotensin converting enzyme (ACE) inhibitor may be useful in preventing this. To assess this as well as to study potential markers of these two systems, the investigators will perform a randomized, double blind,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Scheduled to undergo craniotomy for a supratentorial brain tumor resection\n* Weight between the limits of 70 - 100 kgs\n\nExclusion Criteria:\n\n* Weight less than 70 kgs or more thank 100 kgs\n* Meds for hypertension\n* Evidence of raised intracranial pressure, hypertension, cardio",
+      "endpoints": [
+        "MAP changes",
+        "HR changes"
+      ],
+      "sponsor": "Milton S. Hershey Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02441842"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00145210",
+      "title": "A Double-Blind, Randomized, Placebo- and Active-Controlled, Forced Titration Study Evaluating the Effects of Nebivolol on Blood Pressure and Heart Rate in African American Patients With Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": 630,
+      "brief_summary": "The purpose of this study is to evaluate the effects of nebivolol on blood pressure and heart rate in African American patients with hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* African Americans with stage 1-2 hypertension\n\nExclusion Criteria:\n\n* Recent myocardial infarction or stroke\n* Contraindications to beta-blocker therapy or stopping prior antihypertensive therapy",
+      "endpoints": [
+        "Blood pressure",
+        "Heart Rate"
+      ],
+      "sponsor": "Mylan Bertek Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00145210"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00549133",
+      "title": "Irbesartan Effects on Endothelial Dysfunction in Hypertensive Type II Diabetic Patients Comparing Atenolol",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "2005-04",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 44,
+      "brief_summary": "To show that Irbesartan improves endothelial dysfunction and the procoagulant state which are thought to be the possible mechanisms, inducing a generalized vasculopathy associated with microalbuminuria and vascular events in type II diabetic hypertensive patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* non insulin dependent type II manifest diabetes with glycosilated HbA1c levels over %6.5-8\n* mild to moderate hypertension stage I and stage II according to ESC-ESH 2003 (140-180 mmHg)\n\nExclusion Criteria:\n\n* congestive heart failure\n* azotemia\n* insulin dependent diabetes\n* l",
+      "endpoints": [
+        "Evaluation of the effect of irbesartan on nitric oxide (NO), which has key role in the endothelial dysfunction and the development of pressure vasomotor response, compared to standard therapy (atenolol)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00549133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00535925",
+      "title": "Nephropathy in Type 2 Diabetes: Effects of an Intensive Multifactorial Intervention Trial on Cardio-renal Events.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2019-05",
+      "country": "Italy",
+      "enrollment": 850,
+      "brief_summary": "The NID-2 study, a multicentric study (21 centres enrolled), was planned in two phases:\n\nPhase 1(observational study, completed in September 2005): after the identification of a type-2 diabetic population with typical Diabetic Nephropathy (DN), to study of the rate of renal and cardiovascular events during a middle term follow-up.\n\nPhase 2(interventional study, started in October 2005): after randomization in two groups, a group (intervention group) is treated with an intensive multifactorial in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* type 2 diabetic patients\n* albumin extraction rate (AER= \\>30 mg/die (micro- or macro-albuminuric ranges) in at least two determinations in the last six months\n* diabetic retinopathy\n* patients followed in the outpatients clinic for at least 12 months\n\nExclusion Criteria:\n\n* t",
+      "endpoints": [
+        "\"Number of Participants With Overall Fatal and Non-fatal, Major Adverse Cardiovascular Events (MACEs)\""
+      ],
+      "sponsor": "University of Campania Luigi Vanvitelli",
+      "url": "https://clinicaltrials.gov/study/NCT00535925"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00246519",
+      "title": "Pharmacogenomic Evaluation of Antihypertensive Responses (PEAR)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2010-12",
+      "country": "United States",
+      "enrollment": 1701,
+      "brief_summary": "There are many medications available for the treatment of high blood pressure (hypertension), but finding the right one for a specific patient can be challenging. In fact, it is estimated that only 34% of people with hypertension have their blood pressure under control. The hypothesis is that genetic differences between individuals influence their response to antihypertensive medications. This study is aimed at determining the genetic factors that may influence a person's response to either a be",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAn average seated home diastolic blood pressure (DBP) \\> 85 mmHg and home systolic blood pressure (SBP) \\< 180 mmHg. Subjects must also have an average seated (\\> 5 minutes) clinic DBP between 90 mmHg and 110 mmHg and SBP \\< 180 mmHg\n\nExclusion Criteria:\n\nsecondary forms of HTN,",
+      "endpoints": [
+        "Blood Pressure Response (Delta BP (After 18 Weeks of Medication - Baseline))."
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00246519"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00125853",
+      "title": "A Trial to Compare the Effects of Nebivolol Versus Atenolol on Various Cardiovascular Measurements Including Insulin Sensitivity",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2009-01",
+      "country": "United Kingdom",
+      "enrollment": 54,
+      "brief_summary": "The purpose of this study is to conduct a randomised trial to compare the insulin sensitivity, 24 hour blood pressure profile, and tolerability of nebivolol plus a thiazide-like diuretic versus atenolol plus a thiazide-like diuretic.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females aged 18 or above\n* Blood pressure that meets any of the three following criteria:\n* BP should be \\<140/85 mmHg on a maximum of two anti-hypertensive drugs\n\nExclusion Criteria:\n\n* contraindications to beta-blockade\n* contraindications to thiazide use\n* if there",
+      "endpoints": [
+        "Insulin Sensitivity Index (ISI)"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT00125853"
+    }
+  ],
+  "timestamp": "2026-03-04T15:17:58.588742",
+  "success": true,
+  "error_message": null
+}

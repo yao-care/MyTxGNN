@@ -6,7 +6,7 @@ drug_name: "Irbesartan"
 kg_predictions: 141
 dl_predictions: 21
 evidence_level: "L1"
-indication_count: 141
+indication_count: 5
 brands: []
 permalink: /drugs/irbesartan/
 ---

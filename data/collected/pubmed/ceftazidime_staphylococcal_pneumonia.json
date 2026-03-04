@@ -1,0 +1,621 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ceftazidime",
+    "disease": "staphylococcal pneumonia",
+    "query_string": "Ceftazidime AND staphylococcal pneumonia"
+  },
+  "data": {
+    "query": "Ceftazidime AND staphylococcal pneumonia",
+    "results": [
+      {
+        "pmid": "9722468",
+        "title": "Antibiotic use in neonatal sepsis.",
+        "abstract": "Neonatal sepsis is a life-threatening emergency and any delay in treatment may cause death. Initial signs of neonatal sepsis are slight and nonspecific. Therefore, in suspected sepsis, two or three days empirical antibiotic therapy should begin immediately after cultures have been obtained without awaiting the results. Antibiotics should be reevaluated when the results of the cultures and susceptibility tests are available. If the cultures are negative and the clinical findings are well, antibiotics should be stopped. Because of the nonspecific nature of neonatal sepsis, especially in small preterm infants, physicians continue antibiotics once started. If a baby has pneumonia or what appears to be sepsis, antibiotics should not be stopped, although cultures are negative. The duration of therapy depends on the initial response to the appropriate antibiotics but should be 10 to 14 days in most infants with sepsis and minimal or absent focal infection. In infants who developed sepsis duri",
+        "journal": "The Turkish journal of pediatrics",
+        "year": "1998",
+        "authors": [
+          "Yurdakök M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Drug Resistance, Microbial",
+          "Humans",
+          "Infant, Newborn",
+          "Infection Control",
+          "Microbial Sensitivity Tests",
+          "Risk Factors",
+          "Sepsis",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9722468/"
+      },
+      {
+        "pmid": "8150760",
+        "title": "A comparative study of cefepime and ceftazidime in the treatment of community-acquired lower respiratory tract infections.",
+        "abstract": "Antibiotic treatment for community-acquired pneumonia must target Gram-positive pathogens, especially frequently isolated organisms such as Streptococcus pneumoniae. The severity of community-acquired pneumonia is often related to underlying factors. Occasionally it may be complicated by staphylococcal or Gram-negative bacillary infection. We have compared the safety and efficacy of cefepime 1 g bd with ceftazidime 1 g tds as empirical treatment in adults with community-acquired lower respiratory tract infections (LRTIs). One hundred and thirty-one patients with moderate to severe LRTIs were randomized to two treatment groups: 87 received cefepime and 44 received ceftazidime. The treatment groups were comparable with regard to sex, age and treatment duration. Of the 116 pathogens isolated, 57 were Gram-positive (46 strains of S. pneumoniae) and 59 were Gram-negative (33 strains of Haemophilus influenzae). Of the 111 patients evaluated, clinical cure rates were 87% (65/75) in the cefepi",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1993",
+        "authors": [
+          "Léophonte P",
+          "Bertrand A",
+          "Nouvet G",
+          "Muir J F",
+          "Lucht F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Bacteria",
+          "Cefepime",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Community-Acquired Infections",
+          "Female",
+          "Follow-Up Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8150760/"
+      },
+      {
+        "pmid": "18572975",
+        "title": "Ceftobiprole: a review of a broad-spectrum and anti-MRSA cephalosporin.",
+        "abstract": "Ceftobiprole, an investigational cephalosporin, is currently in phase III clinical development. Ceftobiprole is a broad-spectrum cephalosporin with demonstrated in vitro activity against Gram-positive cocci, including meticillin-resistant Staphylococcus aureus (MRSA) and meticillin-resistant S. epidermidis, penicillin-resistant S. pneumoniae, Enterococcus faecalis, Gram-negative bacilli including AmpC-producing Escherichia coli and Pseudomonas aeruginosa, but excluding extended-spectrum beta-lactamase-producing strains. Like cefotaxime, ceftriaxone, ceftazidime, and cefepime, ceftobiprole demonstrates limited activity against anaerobes such as Bacteroides fragilis and non-fragilis Bacteroides spp. In single-step and serial passage in vitro resistance development studies, ceftobiprole demonstrated a low propensity to select for resistant subpopulations. Ceftobiprole, like cefepime, is a weak inducer and a poor substrate for AmpC beta-lactamases.Ceftobiprole medocaril, the prodrug of cef",
+        "journal": "American journal of clinical dermatology",
+        "year": "2008",
+        "authors": [
+          "Zhanel George G",
+          "Lam Ashley",
+          "Schweizer Frank",
+          "Thomson Kristjan",
+          "Walkty Andrew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacterial Infections",
+          "Cephalosporins",
+          "Drugs, Investigational",
+          "Humans",
+          "Methicillin Resistance",
+          "Microbial Sensitivity Tests",
+          "Staphylococcal Infections",
+          "Staphylococcus aureus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18572975/"
+      },
+      {
+        "pmid": "28069649",
+        "title": "Antimicrobial Activity of Ceftazidime-Avibactam against Gram-Negative Bacteria Isolated from Patients Hospitalized with Pneumonia in U.S. Medical Centers, 2011 to 2015.",
+        "abstract": "Bacterial isolates were collected from patients hospitalized with pneumonia (PHP), including ventilator-associated pneumonia (VAP), from 76 U.S. medical centers in 2011 to 2015. The Gram-negative organisms (n = 11,185, including 1,097 from VAP) were tested for susceptibility to ceftazidime-avibactam and comparators by the broth microdilution method. β-Lactamase-encoding genes were screened using a microarray-based assay on selected isolates. Pseudomonas aeruginosa and Klebsiella spp. were the most common Gram-negative bacteria isolated from PHP and VAP. Ceftazidime-avibactam was very active against P. aeruginosa (n = 3,402; MIC50/MIC90, 2 and 4 μg/ml; 96.6% susceptible), including isolates nonsusceptible to meropenem (86.3% susceptible to ceftazidime-avibactam), piperacillin-tazobactam (85.6% susceptible), or ceftazidime (80.6% susceptible). Ceftazidime-avibactam was also highly active against Enterobacteriaceae (MIC50/MIC90, 0.12 and 0.5 μg/ml; 99.9% susceptible), including carbapenem",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2017",
+        "authors": [
+          "Sader Helio S",
+          "Castanheira Mariana",
+          "Flamm Robert K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Academic Medical Centers",
+          "Anti-Bacterial Agents",
+          "Azabicyclo Compounds",
+          "Ceftazidime",
+          "Drug Combinations",
+          "Drug Resistance, Multiple, Bacterial",
+          "Gene Expression",
+          "Hospitalization",
+          "Humans",
+          "Klebsiella"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28069649/"
+      },
+      {
+        "pmid": "3540345",
+        "title": "[Fundamental and clinical studies on ceftazidime in neonates and premature infants].",
+        "abstract": "Ceftazidime (CAZ) was administered to 34 full-term and premature infants aged 0-27 days with various bacterial infections in a dose of 10 or 20 mg/kg by intravenous bolus injection, and plasma concentrations and urinary recovery rates in these subjects during recovery periods were studied. Because of the small number of the cases recruited, neonates were not divided into the full-term and the premature group, but into 3 groups based on day-age: 0-3 days, 4-7 days, and 8 days or older. Concentrations and rates of transfer of CAZ into cerebrospinal fluid (CSF) were determined in 2 cases, and biliary concentrations in another case. A clinical evaluation of CAZ was performed in 12 male and 6 female infants aged 1 day to 4 months and 19 days, including 2 each with purulent meningitis, pneumonia and pyelonephritis, 3 with septicemia, 1 each with septicemia suspected, cholangitis, osteomyelitis, bronchopneumonia, staphylococcal scaled skin syndrome, and acute enterocolitis and 3 for prophylac",
+        "journal": "The Japanese journal of antibiotics",
+        "year": "1986",
+        "authors": [
+          "Toyonaga Y",
+          "Sugita M",
+          "Nakamura H",
+          "Kawamura K",
+          "Seo K"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Ceftazidime",
+          "Drug Evaluation",
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Infusions, Intravenous",
+          "Injections, Intravenous",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3540345/"
+      },
+      {
+        "pmid": "3279487",
+        "title": "Use of animal models in evaluation of the quinolones.",
+        "abstract": "Discriminative animal models of infection are important in helping to define the role of new antibacterial drugs in the treatment of human diseases. Several animal models have been used to compare the efficacies of quinolones with those of standard therapies against selected bacterial pathogens. In animal models of endocarditis, pefloxacin, enoxacin, and ciprofloxacin have been shown to be equivalent to standard therapies against methicillin-sensitive Staphylococcus aureus and as effective as vancomycin against methicillin-resistant strains. Difloxacillin has been shown to be equivalent to vancomycin in a model of osteomyelitis due to S. aureus. Ciprofloxacin is as effective as the combination of ceftazidime and tobramycin in a model of pseudomonal meningitis, although the levels of ciprofloxacin (6 mg/L) in serum required to produce a bactericidal effect in the cerebrospinal fluid are higher than those usually obtained in humans. Ciprofloxacin and other quinolones are also effective t",
+        "journal": "Reviews of infectious diseases",
+        "year": "1988",
+        "authors": [
+          "Sande M A",
+          "Brooks-Fournier R A",
+          "Gerberding J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Infective Agents",
+          "Disease Models, Animal",
+          "Drug Evaluation",
+          "Metabolic Clearance Rate",
+          "Pseudomonas Infections",
+          "Quinolines",
+          "Staphylococcal Infections",
+          "Therapeutic Equivalency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3279487/"
+      },
+      {
+        "pmid": "3578331",
+        "title": "Efficacy of ciprofloxacin in animal models of infection: endocarditis, meningitis, and pneumonia.",
+        "abstract": "Animal models of infection are very useful tools for identifying those situations in which antibacterial drugs, including the quinolones, may play special roles, i.e., for positioning a drug correctly for its role in the treatment of human disease. Ciprofloxacin has been studied extensively in discriminative animal models of infection, and its efficacy in the treatment of these infections has been compared with that of standard therapy. In a rabbit model of staphylococcal endocarditis, ciprofloxacin was as effective as nafcillin alone, as well as nafcillin and gentamicin in combination, in treating rabbits with methicillin-susceptible Staphylococcus aureus endocarditis. Additionally, its activity was equal to that of vancomycin in reducing vegetation titers in rabbits with methicillin-resistant staphylococcal endocarditis. In a rabbit model of pseudomonal meningitis, ciprofloxacin was as effective as the combination of ceftazidime and tobramycin in lowering bacterial titers. However, i",
+        "journal": "The American journal of medicine",
+        "year": "1987",
+        "authors": [
+          "Sande M A",
+          "Brooks-Fournier R A",
+          "Gerberding J L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Ciprofloxacin",
+          "Disease Models, Animal",
+          "Drug Evaluation, Preclinical",
+          "Endocarditis, Bacterial",
+          "Guinea Pigs",
+          "Meningitis",
+          "Pneumonia",
+          "Pseudomonas Infections",
+          "Rabbits"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3578331/"
+      },
+      {
+        "pmid": "25310945",
+        "title": "Etiological factors causing lower respiratory tract infections isolated from hospitalized patients.",
+        "abstract": "Lower respiratory tract infections (LRTI) account for 20-30 % of all hospital-acquired contagions. They are characterized by high mortality of hospitalized patients. The most serious form of LRTI is pneumonia, and the most common etiological factors in such cases are bacteria. The article gives the analysis of bacterial flora samples obtained from lower respiratory tract of hospitalized patients. In vitro susceptibility of pathogens to selected antibiotics has also been assessed. We carried out a retrospective analysis of 1,171 bacterial strains isolated from 1,171 patients treated in clinics of the Military Institute of Medicine in Warsaw, Poland. In most cases the samples were collected from an endotracheal or tracheostomic tube (71.5 %) and from bronchoalveolar lavage (21.7 %). The most commonly isolated pathogens included Acinetobacter baumannii (35.8 %), Staphylococcus aureus (27.6 %), Klebsiella pneumoniae (19.4 %), and Pseudomonas aeruginosa (16.2 %). Multidrug-resistant gram-ne",
+        "journal": "Advances in experimental medicine and biology",
+        "year": "2015",
+        "authors": [
+          "Guzek A",
+          "Rybicki Z",
+          "Korzeniewski K",
+          "Mackiewicz K",
+          "Saks E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acinetobacter baumannii",
+          "Anti-Bacterial Agents",
+          "Bacterial Typing Techniques",
+          "Bronchoalveolar Lavage Fluid",
+          "Cross Infection",
+          "Drug Resistance, Multiple, Bacterial",
+          "Gram-Negative Bacterial Infections",
+          "Humans",
+          "Intubation, Intratracheal",
+          "Klebsiella pneumoniae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25310945/"
+      },
+      {
+        "pmid": "31537511",
+        "title": "The clinical and epidemiological risk factors of infections due to multi-drug resistant bacteria in an adult intensive care unit of University Hospital Center in Marrakesh-Morocco.",
+        "abstract": "Intensive care units (ICUs) are considered epicenters of antibiotic resistance. The aim of this study is to determine clinical risk factors, epidemiology and the causative agents of multi-drug resistant bacteria in the ICU of the University Hospital in Marrakesh-Morocco.",
+        "journal": "Journal of infection and public health",
+        "year": "2020",
+        "authors": [
+          "El Mekes Adel",
+          "Zahlane Kawtar",
+          "Ait Said Loubna",
+          "Tadlaoui Ouafi Ahmed",
+          "Barakate Mustapha"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acinetobacter Infections",
+          "Acinetobacter baumannii",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Case-Control Studies",
+          "Cross Infection",
+          "Drug Resistance, Multiple, Bacterial",
+          "Enterobacteriaceae",
+          "Enterobacteriaceae Infections",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31537511/"
+      },
+      {
+        "pmid": "17888153",
+        "title": "In vitro evaluation of antibiotics' combinations for empirical therapy of suspected methicillin resistant Staphylococcus aureus severe respiratory infections.",
+        "abstract": "Methicillin resistant Staphylococcus aureus (MRSA) is an increasingly common cause of nosocomial infections, causing severe morbidity and mortality worldwide, and accounting in some hospitals for more than 50% of all S. aureus diseases. Treatment of infections caused by resistant bacterial pathogens mainly relies on two therapeutic modalities: development of new antimicrobials and use of combinations of available antibiotics. Combinations of antibiotics used in the empiric treatment of infections with suspected methicillin resistant Staphylococcus aureus etiology were investigated.",
+        "journal": "BMC infectious diseases",
+        "year": "2007",
+        "authors": [
+          "Drago Lorenzo",
+          "De Vecchi Elena",
+          "Nicola Lucia",
+          "Gismondo Maria Rita"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amikacin",
+          "Anti-Bacterial Agents",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Levofloxacin",
+          "Methicillin Resistance",
+          "Microbial Sensitivity Tests",
+          "Mutation",
+          "Ofloxacin",
+          "Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17888153/"
+      },
+      {
+        "pmid": "15116294",
+        "title": "Relationship between fluoroquinolone area under the curve: minimum inhibitory concentration ratio and the probability of eradication of the infecting pathogen, in patients with nosocomial pneumonia.",
+        "abstract": "Our objective was to prospectively determine the factors influencing the probability of a good microbiological or clinical outcome in patients with nosocomial pneumonia treated with a fluoroquinolone. Levofloxacin was administered as an infusion of 500 mg/h for 1.5 h (total dose, 750 mg). For patients with Pseudomonas aeruginosa or methicillin-resistant Staphylococcus aureus, a second drug was added (ceftazidime or piperacillin/tazobactam for P. aeruginosa and vancomycin for methicillin-resistant S. aureus). Population pharmacokinetic studies of 58 patients demonstrated that this population handled the drug differently from populations of volunteers. Multivariate logistic regression analysis (n=47 patients) demonstrated that only the age of the patient and the achievement of an area under the curve: minimum inhibitory concentration ratio of > or =87 had a significant effect on eradication of the pathogen (P<.001). Achieving the breakpoint made the patient 4 times more likely to achieve",
+        "journal": "The Journal of infectious diseases",
+        "year": "2004",
+        "authors": [
+          "Drusano George L",
+          "Preston Sandra L",
+          "Fowler Cynthia",
+          "Corrado Michael",
+          "Weisinger Barbara"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Infective Agents",
+          "Area Under Curve",
+          "Cross Infection",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Levofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15116294/"
+      },
+      {
+        "pmid": "7474582",
+        "title": "[Combination therapy with arbekacin and fosfomycin against postoperative severe mixed-pneumonia of MRSA in primary lung cancer patients].",
+        "abstract": "We experienced successful treatment of postoperative severe pneumonia of Methicillin-resistant Staphylococcus aureus (MRSA) with combination therapy of Arbekacin (ABK) and Fosfomycin (FOM) in three lung cancer patients. Case 1 was a advanced age of seventy-nine man who had had right upper lobectomy. Case 2 was a 61-year-old man who had had left lower lobectomy and extended bilateral mediastinal lymph-node dissection through the median sternotomy. And case 3 was a 59-year-old man who had suffered from pulmonary embolism after right pneumonectomy and partial resection of left atrium and superior vena cava. All cases were immuno-compromised patients and super-infected with Gram-negative rods, and Pseudomonas aeruginosa in case 1 and case 3. Clinical symptoms were improved after the start of administration of ABK and FOM inspite of ineffectiveness of prior treatment with other antibiotics. We added staggered chemotherapy of Sulbactam/Cefoperazone (SBT/CPZ) and Ceftazidime (CAZ) for case 1 ",
+        "journal": "Kyobu geka. The Japanese journal of thoracic surgery",
+        "year": "1995",
+        "authors": [
+          "Harada R",
+          "Miyamoto H",
+          "Sakao Y",
+          "Hamada T",
+          "Hata E"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Dibekacin",
+          "Drug Therapy, Combination",
+          "Fosfomycin",
+          "Humans",
+          "Immunocompromised Host",
+          "Lactams",
+          "Lung Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7474582/"
+      },
+      {
+        "pmid": "21482572",
+        "title": "Comparative ceftaroline activity tested against pathogens associated with community-acquired pneumonia: results from an international surveillance study.",
+        "abstract": "To document the spectrum of activity of ceftaroline, the active form of the prodrug, ceftaroline fosamil, a new cephalosporin with anti-methicillin-resistant staphylococcal activity, against a surveillance collection of clinical isolates obtained from the USA and Europe during 2008-09.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2011",
+        "authors": [
+          "Jones Ronald N",
+          "Farrell David J",
+          "Mendes Rodrigo E",
+          "Sader Helio S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Cephalosporins",
+          "Community-Acquired Infections",
+          "Europe",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Pneumonia, Bacterial",
+          "United States",
+          "Ceftaroline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21482572/"
+      },
+      {
+        "pmid": "7799054",
+        "title": "The choice of empirical antibiotic therapy for nosocomial pneumonia.",
+        "abstract": "Nosocomial pneumonia has the highest crude mortality rate of all hospital-acquired infections. The choice of empirical antibiotic therapy can be based on in vitro sensitivities of sputum bacterial isolates. Organisms recovered from purulent sputum of 500 intensive care unit (ICU) patients from five hospitals in Louisville, Kentucky, had antibiotic sensitivities measured by microbroth dilution. The most common isolates were Staphylococcus aureus (26.6%), Pseudomonas species (24.8%), Enterobacter species (11.8%), Escherichia coli (7.2%), Klebsiella species (7.0%), Streptococcus species (4.4%) and Serratia species (4.0%). These organisms were tested for susceptibility to amikacin, ciprofloxacin, imipenem/cilastatin, ticarcillin/clavulanate, piperacillin, ceftriaxone and ceftazidime. The antibiotics effective against more than 80% of the seven most common isolates included amikacin (97%), imipenem (94%), ciprofloxacin (92%) and ticarcillin/clavulanate (84%). These sensitivity patterns may ",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "1994",
+        "authors": [
+          "Ramirez J A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Cross Infection",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Methicillin Resistance",
+          "Microbial Sensitivity Tests",
+          "Pneumonia, Bacterial",
+          "Pneumonia, Staphylococcal",
+          "Sputum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7799054/"
+      },
+      {
+        "pmid": "8072182",
+        "title": "[Clinical analysis of MRSA pneumonia. Niigata Research Group of MRSA.ABK].",
+        "abstract": "Aged or immuno-compromised patients were mostly affected, by pneumonia caused by infection of MRSA, and more than half of the cases were superinfected with glucose-nonfermentative Gram-negative rods including Pseudomonas aeruginosa. These patients were treated with a monotherapy of arbekacin (ABK) by intravenous drip administration or with a combination of ABK and imipenem/cilastatin, ceftazidime or antifungals. The clinical efficiencies were 55.6% in 11 monotherapy cases and 83.3% in combined therapy. MRSA was eradicated in 31.9% of the patients. These results are comparable with, or superior to the vancomycin therapy in the treatment of MRSA pneumonia. When MRSA is isolated from sputum of pneumonia patients, the discrimination between colonization and infection is important, but the diagnosis is very difficult in many clinical cases before the initiation of chemotherapy. The number of bacteria and the grade of inflammation should be carefully scored before starting a chemotherapy.",
+        "journal": "The Japanese journal of antibiotics",
+        "year": "1994",
+        "authors": [
+          "Arakawa M",
+          "Wada K",
+          "Sega H",
+          "Yoshikawa H",
+          "Honma T"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Aminoglycosides",
+          "Anti-Bacterial Agents",
+          "Dibekacin",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Japan",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8072182/"
+      },
+      {
+        "pmid": "8355313",
+        "title": "Empiric monotherapy versus combination therapy of nosocomial pneumonia in trauma patients.",
+        "abstract": "Combination therapy for nosocomial pneumonia with a beta-lactam and aminoglycoside is widely accepted because of synergy and reduction of resistant bacteria. This prospective study of 109 trauma patients (94 blunt, 15 penetrating) with nosocomial pneumonia was performed in consecutive phases. In phase 1, patients were randomized to an anti-pseudomonal third-generation cephalosporin--cefoperazone or ceftazidime. Gentamicin was added to each regimen in phase 2. The mean age of the patients was 37 years, the mean ISS was 31, and there were no differences among the four treatment groups relative to associated injuries. Patients receiving monotherapy had a 56% cure rate compared with 31% for combination therapy (p < 0.04). Persistence rates were similar in these two groups (15% and 20%), but superinfection was significantly higher in the combination group (49% vs. 28%; p < 0.04). The predominant superinfecting organism was methicillin-resistant Staphylococcus aureus (MRSA). Nine patients di",
+        "journal": "The Journal of trauma",
+        "year": "1993",
+        "authors": [
+          "Croce M A",
+          "Fabian T C",
+          "Stewart R M",
+          "Pritchard F E",
+          "Minard G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cefoperazone",
+          "Ceftazidime",
+          "Cross Infection",
+          "Drug Therapy, Combination",
+          "Female",
+          "Gentamicins",
+          "Hospital Mortality"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8355313/"
+      },
+      {
+        "pmid": "1590685",
+        "title": "Effect of protein binding in serum on therapeutic efficacy of cephem antibiotics.",
+        "abstract": "The effect of protein binding in serum of eight cephem antibiotics (ceftazidime, ceftizoxime, cefotiam, cefmetazole, cefpiramide, cefazolin, cefuzonam, ceftriaxone) on their therapeutic efficacies was examined in mice with experimentally induced intraperitoneal infections or pneumonia. The relationship among therapeutic activity, in vitro antibacterial activity, total or free (unbound) levels in serum, and homogenized whole lung levels was investigated. In the intraperitoneal infection caused by Staphylococcus aureus or Klebsiella pneumoniae, the 50% effective doses (ED50s) of the cephem antibiotics correlated with the area under the concentration-time curve (AUC) values of free levels in serum and the MICs but not with those of total levels in serum. A linear relationship was seen between 1/ED50 values and AUC of free levels in serum/MIC values. On the other hand, in mice with pneumonia caused by K. pneumoniae, the number of bacteria in the lung closely correlated with the AUC of the ",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1992",
+        "authors": [
+          "Tawara S",
+          "Matsumoto S",
+          "Kamimura T",
+          "Goto S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Blood Proteins",
+          "Cephalosporins",
+          "Klebsiella Infections",
+          "Klebsiella pneumoniae",
+          "Male",
+          "Mice",
+          "Microbial Sensitivity Tests",
+          "Protein Binding",
+          "Staphylococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1590685/"
+      },
+      {
+        "pmid": "16236955",
+        "title": "Impact of clinical guidelines in the management of severe hospital-acquired pneumonia.",
+        "abstract": "To asses the impact of locally developed antimicrobial treatment guidelines in the initial empiric treatment of ICU patients with severe hospital-acquired pneumonia (HAP).",
+        "journal": "Chest",
+        "year": "2005",
+        "authors": [
+          "Soo Hoo Guy W",
+          "Wen Y Eugenia",
+          "Nguyen Trung V",
+          "Goetz Matthew Bidwell"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Clinical Trials as Topic",
+          "Cohort Studies",
+          "Cross Infection",
+          "Hospitals",
+          "Humans",
+          "Intensive Care Units",
+          "Pneumonia",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16236955/"
+      },
+      {
+        "pmid": "12695638",
+        "title": "[The impact of antibiotic use on hospital-acquired pneumonia: data of etiology tests].",
+        "abstract": "To investigate most common pathogens isolated from the hospital-acquired pneumonia patients bronchoalveolar lavage fluid in Kaunas University of Medicine Hospital according to the previous antibiotic use and to estimate pathogens antibacterial susceptibility.",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2003",
+        "authors": [
+          "Vitkauskiene Astra",
+          "Sakalauskas Raimundas",
+          "Dudzevicius Vytis"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acinetobacter",
+          "Acinetobacter Infections",
+          "Amikacin",
+          "Ampicillin",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Bacteria",
+          "Bronchoalveolar Lavage Fluid",
+          "Ceftazidime",
+          "Cefuroxime"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12695638/"
+      },
+      {
+        "pmid": "7927123",
+        "title": "[Fever and lung abscesses in anorexia nervosa after infusion therapy].",
+        "abstract": "A 26 year old female patient was admitted to our hospital because of septic temperatures and chills. In the patient's history renal insufficiency has been known for several years due to agenesia of the right and pyelonephritic renal congestion of the left kidney. Long lasting anorexia nervosa had been treated by psychotherapeutical interventions for years and when failing it necessitated repeated intravenous nutrition by central venous lines. The prominent symptom of the intravenously treated young woman was fever up to 39.7 degrees C and pneumonia, which was considered by the first treating clinic to be caused directly by diminished immunoreactivity in malnutrition and preuremia. The chest X-ray confirmed pneumonia and revealed multiple abscesses in both lungs (Figure 1). After being transferred to our intensive care unit the pathophysiological context became obvious. From inspection (positive jugular pulsation), from auscultation (holosystolic murmur at the left parasternal border) t",
+        "journal": "Herz",
+        "year": "1994",
+        "authors": [
+          "Hoffmann J",
+          "Herzum M",
+          "Maisch B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anorexia Nervosa",
+          "Catheterization, Central Venous",
+          "Ceftazidime",
+          "Diagnosis, Differential",
+          "Drug Therapy, Combination",
+          "Echocardiography, Doppler, Color",
+          "Endocarditis, Bacterial",
+          "Female",
+          "Fever of Unknown Origin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7927123/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:01:36.014757",
+  "success": true,
+  "error_message": null
+}

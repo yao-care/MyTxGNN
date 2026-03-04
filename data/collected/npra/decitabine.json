@@ -1,0 +1,90 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Decitabine",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL22046021AZ",
+      "product": "DECI SPAL-P 50 Decitabine Powder for Concentrate for Solution for Infusion, 50 mg/vial",
+      "active_ingredient": "DECITABINE[50 mg]",
+      "generic_name": NaN,
+      "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-04-07",
+      "date_end": "2027-04-07",
+      "url": "https://npra.gov.my/index.php/search/product/MAL22046021AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL23056018AZ",
+      "product": "Qilu DECITABINE LYOPHILISED POWDER FOR INFUSION 50 MG/VIAL",
+      "active_ingredient": "DECITABINE[50.0 mg]",
+      "generic_name": NaN,
+      "holder": "MEDISPEC (M) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-05-11",
+      "date_end": "2028-05-11",
+      "url": "https://npra.gov.my/index.php/search/product/MAL23056018AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL18056161AZ",
+      "product": "Redtibin (Decitabine) Powder for Injection 50mg/vial",
+      "active_ingredient": "DECITABINE[50mg;0]",
+      "generic_name": NaN,
+      "holder": "Dr. Reddy`s Laboratories Malaysia Sdn. Bhd.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-06-08",
+      "date_end": "2028-06-08",
+      "url": "https://npra.gov.my/index.php/search/product/MAL18056161AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24086008AZ",
+      "product": "Leudibine - Decitabine powder for concentrate for solution for infusion 50 mg/vial",
+      "active_ingredient": "DECITABINE[50.00 mg]",
+      "generic_name": NaN,
+      "holder": "UNIMED SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-08-01",
+      "date_end": "2029-08-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24086008AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24106011ACRZ",
+      "product": "INQOVI (Decitabine 35 mg/Cedazuridine 100 mg) Film-Coated Tablets",
+      "active_ingredient": "DECITABINE[35 mg],Cedazuridine[100 mg]",
+      "generic_name": NaN,
+      "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-10-03",
+      "date_end": "2029-10-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24106011ACRZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL21026014AZ",
+      "product": "DECITAS (Decitabine 50mg/vial Powder For Concentrate For Solution For Infusion)",
+      "active_ingredient": "DECITABINE[50 mg]",
+      "generic_name": NaN,
+      "holder": "ACCORD HEALTHCARE SDN.BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2026-02-06",
+      "date_end": "2031-02-06",
+      "url": "https://npra.gov.my/index.php/search/product/MAL21026014AZ"
+    }
+  ],
+  "timestamp": "2026-03-04T16:13:31.369475",
+  "success": true,
+  "error_message": null
+}

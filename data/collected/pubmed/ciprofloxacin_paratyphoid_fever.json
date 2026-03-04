@@ -1,0 +1,624 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "paratyphoid fever",
+    "query_string": "Ciprofloxacin AND paratyphoid fever"
+  },
+  "data": {
+    "query": "Ciprofloxacin AND paratyphoid fever",
+    "results": [
+      {
+        "pmid": "40914181",
+        "title": "Enteric (typhoid and paratyphoid) fever.",
+        "abstract": "Enteric fever, caused by the human-restricted bacteria Salmonella enterica serovar Typhi (typhoid) and Salmonella enterica serovar Paratyphi A, B, and C (paratyphoid), affects persons residing in, or travelling from, areas lacking safe water, sanitation, and hygiene infrastructure. Transmission is by the faecal-oral route. A gradual fever onset over 3-7 days with malaise, headache, and myalgia is typical. Symptoms can be altered by previous antimicrobial use. Life-threatening complications can arise in the second week of untreated illness. Differentiation from other febrile illnesses is challenging. Blood or bone marrow culture remain reference standard diagnostic methods, despite the low sensitivity of blood culture. Azithromycin, ciprofloxacin (excepting cases originating in south Asia due to drug resistance), or ceftriaxone are recommended treatment options for both typhoid and paratyphoid; however, choice should be guided by local resistance patterns. Ciprofloxacin-resistant and ce",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "authors": [
+          "Kuehn Rebecca",
+          "Rahden Paul",
+          "Hussain Huma Syed",
+          "Karkey Abhilasha",
+          "Qamar Farah Naz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Typhoid Fever",
+          "Paratyphoid Fever",
+          "Anti-Bacterial Agents",
+          "Salmonella typhi",
+          "Typhoid-Paratyphoid Vaccines",
+          "Ciprofloxacin",
+          "Ceftriaxone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40914181/"
+      },
+      {
+        "pmid": "36420914",
+        "title": "Treatment of enteric fever (typhoid and paratyphoid fever) with cephalosporins.",
+        "abstract": "Typhoid and paratyphoid (enteric fever) are febrile bacterial illnesses common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends treatment with azithromycin, ciprofloxacin, or ceftriaxone due to widespread resistance to older, first-line antimicrobials. Resistance patterns vary in different locations and are changing over time. Fluoroquinolone resistance in South Asia often precludes the use of ciprofloxacin. Extensively drug-resistant strains of enteric fever have emerged in Pakistan. In some areas of the world, susceptibility to old first-line antimicrobials, such as chloramphenicol, has re-appeared. A Cochrane Review of the use of fluoroquinolones and azithromycin in the treatment of enteric fever has previously been undertaken, but the use of cephalosporins has not been systematically investigated and the optimal choice of drug and duration of treatment are uncertain.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2022",
+        "authors": [
+          "Kuehn Rebecca",
+          "Stoesser Nicole",
+          "Eyre David",
+          "Darton Thomas C",
+          "Basnyat Buddha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Adult",
+          "Humans",
+          "Adolescent",
+          "Paratyphoid Fever",
+          "Typhoid Fever",
+          "Cephalosporins",
+          "Azithromycin",
+          "Ceftriaxone",
+          "Cefixime"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36420914/"
+      },
+      {
+        "pmid": "32050286",
+        "title": "[Typhoid and paratyphoid fever].",
+        "abstract": "Typhoid fever and paratyphoid fever are systemic infectious diseases of global significance caused by Salmonella enterica subspecies enterica Serovar Typhi (short name: Salmonella Typhi) or Serovar Paratyphi (short name: Salmonella Paratyphi). The course of these fecal-orally transmitted diseases is mainly characterized by a high fever. Left untreated, the course of typhoid fever can be severe and lethal. The infection is almost always acquired outside of Europe (mainly in India) and is notifiable in Germany, Austria and Switzerland. Paratyphoid is an attenuated disease of typhoid fever caused by Salmonella Paratyphi. Available vaccines only protect against Salmonella Typhi. Antibiotic resistance reflects the situation in endemic countries and shows a worrying increase of multi-drug resistant isolates. Currently, third-generation cephalosporins such as ceftriaxone are recommended as first-line therapy; if sensitive to quinolones, fluoroquinolones such as ciprofloxacin may continue to b",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "2020",
+        "authors": [
+          "Trawinski Henning",
+          "Wendt Sebastian",
+          "Lippmann Norman",
+          "Heinitz Sascha",
+          "von Braun Amrei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Fluoroquinolones",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Paratyphoid Fever",
+          "Quinolones",
+          "Salmonella enterica",
+          "Salmonella paratyphi A",
+          "Salmonella typhi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32050286/"
+      },
+      {
+        "pmid": "16271634",
+        "title": "Typhoid and paratyphoid fever.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "2005",
+        "authors": [
+          "Pandit Anil",
+          "Arjyal Amit"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Multiple, Bacterial",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Nalidixic Acid",
+          "Nepal",
+          "Ofloxacin",
+          "Salmonella enterica"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16271634/"
+      },
+      {
+        "pmid": "21975746",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2011",
+        "authors": [
+          "Effa Emmanuel E",
+          "Lassi Zohra S",
+          "Critchley Julia A",
+          "Garner Paul",
+          "Sinclair David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+      },
+      {
+        "pmid": "40934281",
+        "title": "Paratyphoid fever and the genomics of Salmonella enterica serovar Paratyphi A in Taiwan.",
+        "abstract": "Salmonella enterica serovar Paratyphi A (S. Paratyphi A) has emerged as a significant global health concern due to the progressive development of antimicrobial resistance and its broader geographic distribution. In Taiwan, paratyphoid fever was historically rare and predominantly associated with imported cases. Since 2022, however, a marked increase in domestically acquired infections has been observed, prompting investigations into their origin and likely route of introduction.",
+        "journal": "PLoS neglected tropical diseases",
+        "year": "2025",
+        "authors": [
+          "Liao Ying-Shu",
+          "Hong Yu-Ping",
+          "Chen Bo-Han",
+          "Wan You-Wun",
+          "Teng Ru-Hsiou"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Paratyphoid Fever",
+          "Salmonella paratyphi A",
+          "Taiwan",
+          "Whole Genome Sequencing",
+          "Epidemiological Monitoring",
+          "Drug Resistance, Bacterial",
+          "Microbial Sensitivity Tests",
+          "Communicable Diseases, Imported",
+          "Ciprofloxacin",
+          "Nalidixic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40934281/"
+      },
+      {
+        "pmid": "15976828",
+        "title": "[Typhoid and paratyphoid fever in children].",
+        "abstract": "Febrile illness without focal symptoms in a child who has visited tropical or sub-tropical areas is an increasing health problem in western countries. In the department of paediatrics at Ullevaal University Hospital, malaria, typhoid and paratyphoid fever are the most frequent infectious diseases acquired in tropical or sub-tropical areas.",
+        "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+        "year": "2005",
+        "authors": [
+          "Krogh Kristin",
+          "Hermansen Nils Olav",
+          "Wathne Karl-Olaf"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Child, Preschool",
+          "Ciprofloxacin",
+          "Drug Resistance, Multiple, Bacterial",
+          "Emigration and Immigration",
+          "Humans",
+          "India",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15976828/"
+      },
+      {
+        "pmid": "25808163",
+        "title": "Enteric fever and its impact on returning travellers.",
+        "abstract": "Enteric fever, a systemic illness, is caused by Salmonella enterica serovar Typhi or S. enterica serovar Paratyphi A, B or C. The organism is transmitted to humans by the faecal oral route and is endemic in countries with poor sanitation and lacking clean drinking water. There are around 27 million individuals infected with S. Typhi worldwide annually. Enteric fever is a particular problem in travellers to endemic areas, especially those visiting friends and relatives. Currently, the two main vaccines recommended for travellers are the Vi polysaccharide vaccine and the oral Ty21a vaccine. These internationally licensed vaccines are safe and effective against S. Typhi. However, there is currently no commercially available vaccine against S. Paratyphi, which is increasingly reported as a cause of enteric fever. Vaccine uptake and taking appropriate precautions are poor in travellers visiting friends and relatives abroad; this problem requires addressing. Ciprofloxacin is no longer recomm",
+        "journal": "International health",
+        "year": "2015",
+        "authors": [
+          "Dave Jayshree",
+          "Sefton Armine"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Ceftriaxone",
+          "Drug Resistance",
+          "Humans",
+          "Paratyphoid Fever",
+          "Salmonella paratyphi A",
+          "Salmonella paratyphi B",
+          "Salmonella paratyphi C",
+          "Salmonella typhi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25808163/"
+      },
+      {
+        "pmid": "35871037",
+        "title": "Clinical manifestations and microbiological features between indigenous and imported enteric fever in Taiwan, 2010-2020.",
+        "abstract": "Previous studies had showed that indigenous clones of Salmonella Typhi and S. Paratyphi were originally imported from other countries in Taiwan. We presented the clinical manifestations and laboratory findings of indigenous and imported enteric fever cases in Taiwan in the current decade. We retrospectively reviewed typhoid and paratyphoid fever cases in two medical centers of Chang Gung Memorial Hospitals in 2010-2020. A total of 37 enteric fever cases including 24 typhoid fever and 13 paratyphoid fever were recorded. There were 20 indigenous cases, 16 imported cases, and one indetermined case. Splenomegaly and hepatitis were more frequent in typhoid fever than in paratyphoid fever (P < 0.05). Imported cases had more ciprofloxacin non-susceptibility rate (8/16, 50.0%) than indigenous cases (2/20, 10%). Indigenous ciprofloxacin non-susceptible S. Typhi isolates were found in 2018. One indigenous S. Paratyphi B isolate was multi-drug resistant (MDR) to chloramphenicol, ampicillin, and t",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2022",
+        "authors": [
+          "Chen Chih-Ho",
+          "Hsu Ying-Jie",
+          "Chen Yi-Ching",
+          "Cheng Shu-Shen",
+          "Kuo Kuang-Che"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Typhoid Fever",
+          "Paratyphoid Fever",
+          "Salmonella paratyphi A",
+          "Retrospective Studies",
+          "Taiwan",
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35871037/"
+      },
+      {
+        "pmid": "16271635",
+        "title": "Typhoid and paratyphoid fever.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "2005",
+        "authors": [
+          "Hasan Rumina",
+          "Cooke Fiona J",
+          "Nair Satheesh",
+          "Harish Belgode N",
+          "Wain John"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Multiple, Bacterial",
+          "Female",
+          "Humans",
+          "Male",
+          "Salmonella paratyphi A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16271635/"
+      },
+      {
+        "pmid": "31967084",
+        "title": "Burden of typhoid fever and cholera: similarities and differences. Prevention strategies for European travelers to endemic/epidemic areas.",
+        "abstract": "The burden of diarrheal diseases is very high, accounting for 1.7 to 5 billion cases per year worldwide. Typhoid fever (TF) and cholera are potentially life-threatening infectious diseases, and are mainly transmitted through the consumption of food, drink or water that have been contaminated by the feces or urine of subjects excreting the pathogen. TF is mainly caused by Salmonella typhi, whereas cholera is caused by intestinal infection by the toxin-producing bacterium Vibrio cholerae. These diseases typically affect low- and middle-income countries where housing is overcrowded and water and sanitation are poor, or where conflicts or natural disasters have led to the collapse of the water, sanitation and healthcare systems. Mortality is higher in children under 5 years of age. Regarding their geographical distribution, TF has a high incidence in sub-Saharan Africa, India and south-east Asia, while cholera has a high incidence in a few African countries, particularly in the Horn of Afr",
+        "journal": "Journal of preventive medicine and hygiene",
+        "year": "2019",
+        "authors": [
+          "Amicizia D",
+          "Micale R T",
+          "Pennati B M",
+          "Zangrillo F",
+          "Iovine M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azithromycin",
+          "Bicarbonates",
+          "Cephalosporins",
+          "Cholera",
+          "Cholera Vaccines",
+          "Ciprofloxacin",
+          "Drinking Water",
+          "Drug Resistance, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31967084/"
+      },
+      {
+        "pmid": "18422453",
+        "title": "Laboratory-based surveillance of paratyphoid fever in the United States: travel and antimicrobial resistance.",
+        "abstract": "The incidence of paratyphoid fever, including paratyphoid fever caused by antimicrobial-resistant strains, is increasing globally. However, the epidemiologic and laboratory characteristics of paratyphoid fever in the United States have never been studied.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2008",
+        "authors": [
+          "Gupta Sundeep K",
+          "Medalla Felicita",
+          "Omondi Michael W",
+          "Whichard Jean M",
+          "Fields Patricia I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Humans",
+          "Laboratories",
+          "Microbial Sensitivity Tests",
+          "Paratyphoid Fever",
+          "Salmonella Infections",
+          "Salmonella paratyphi A",
+          "Salmonella paratyphi B",
+          "Salmonella paratyphi C",
+          "Salmonella typhi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18422453/"
+      },
+      {
+        "pmid": "40362220",
+        "title": "Assessing Salmonella Typhi Pathogenicity and Prevention: The Crucial Role of Vaccination in Combating Typhoid Fever.",
+        "abstract": "Enteric fever is caused by Salmonella enterica serovar Typhi (S. Typhi) and Salmonella enterica serovar Paratyphi (S. Paratyphi) A, B, and C. Globally, an estimated 11 to 21 million cases of typhoid and paratyphoid fever occur annually, with approximately 130,000-160,000 deaths, most of which are reported in South/Southeast Asia and sub-Saharan Africa. The antibiotic susceptibility of S. Typhi strains varies between countries within broad limits, from 3% to 97% for ampicillin, 9% to 95% for ciprofloxacin, 4% to 94% for chloramphenicol (India vs. Pakistan), and 0% to 99% for ceftriaxone (India vs. Iraq). With S. Typhi increasingly exhibiting resistance to antibiotics, vaccination becomes an essential preventive measure. Currently, three vaccines are licensed for typhoid fever: the typhoid conjugate vaccine (TCV), live-attenuated oral vaccine Ty21a (Ty21a), and Vi capsular polysaccharide vaccine (Vi-CPS). While no specific vaccine exists for paratyphoid fever, the genetic and antigenic s",
+        "journal": "International journal of molecular sciences",
+        "year": "2025",
+        "authors": [
+          "Buzilă Elena Roxana",
+          "Dorneanu Olivia Simona",
+          "Trofin Felicia",
+          "Sima Cristina Mihaela",
+          "Iancu Luminița Smaranda"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Salmonella typhi",
+          "Typhoid Fever",
+          "Humans",
+          "Typhoid-Paratyphoid Vaccines",
+          "Vaccination",
+          "Virulence",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40362220/"
+      },
+      {
+        "pmid": "16082406",
+        "title": "Epidemiology of typhoid and paratyphoid fever in Kathmandu: two years study and trends of antimicrobial resistance.",
+        "abstract": "Enteric fever is prevalent in developing countries including Nepal, where it still remains as a major health problem. Appropriate antibiotics are essential for the treatment of typhoid and paratyphoid fever. A prospective study was carried out to characterize the epidemiological features of enteric fever in Kathmandu, Nepal and to analyse the recent trend of antimicrobial resistance pattern of the Salmonella isolated from the cases of enteric fever from different hospitals in Kathmandu during June, 2002 to June, 2004. A total of 1469 Salmonella typhi and Salmonella paratyphi 'A' isolates collected during this period from five different hospital laboratories situated in Kathmandu were studied. The antimicrobial susceptibilities of the isolates towards Ampicillin (10 mcg), Chloramphenicol (30 mcg), Cotrimoxazole (25 mcg), Ciprofloxacin (5 mcg) and Ceftriaxone (5 mcg) were determined by standard disc diffusion technique and Agar dilution technique were used to determine the minimum inhibi",
+        "journal": "JNMA; journal of the Nepal Medical Association",
+        "year": "2005",
+        "authors": [
+          "Malla S",
+          "Kansakar P",
+          "Serichantalergs O",
+          "Rahman M",
+          "Basnet S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Distribution",
+          "Child",
+          "Child, Preschool",
+          "Drug Resistance, Bacterial",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16082406/"
+      },
+      {
+        "pmid": "11197787",
+        "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+        "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2000",
+        "authors": [
+          "Ohnishi K",
+          "Kimura K",
+          "Masuda G",
+          "Tsunoda T",
+          "Obana M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Drug Evaluation",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Japan",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+      },
+      {
+        "pmid": "17965350",
+        "title": "In vitro activity of azithromycin, newer quinolones and cephalosporins in ciprofloxacin-resistant Salmonella causing enteric fever.",
+        "abstract": "The therapeutic alternatives available for use against ciprofloxacin-resistant enteric fever isolates in an endemic area are limited. The antibiotics currently available are the quinolones, third-generation cephalosporins and conventional first-line drugs. In this study, the MICs of various newer drugs were determined for 31 ciprofloxacin-resistant enteric fever isolates (26 Salmonella enterica serovar Typhi and 5 S. enterica serovar Paratyphi A). MICs for ciprofloxacin, ofloxacin, gatifloxacin, levofloxacin, cefotaxime, cefixime, cefepime and azithromycin were determined using Etest strips and the agar dilution method. By Etest, all of the ciprofloxacin-resistant isolates had ciprofloxacin MICs >/=32 mug ml(-1). S. Typhi showed MIC(90) values of 0.50, 0.25 and 0.38 mug ml(-1) for cefixime, cefotaxime and cefepime, respectively. For the cephalosporins, a negligible difference in MIC(90) and MIC(50) values for S. Typhi and S. Paratyphi A was observed. A single isolate of S. Typhi showed",
+        "journal": "Journal of medical microbiology",
+        "year": "2007",
+        "authors": [
+          "Capoor Malini R",
+          "Rawat Deepti",
+          "Nair Deepthi",
+          "Hasan Azra S",
+          "Deb Monorama"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Cephalosporins",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Paratyphoid Fever",
+          "Quinolones",
+          "Salmonella paratyphi A",
+          "Salmonella typhi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17965350/"
+      },
+      {
+        "pmid": "38196224",
+        "title": "Burden of enteric fever and antibiotic sensitivity in Nepalese Children Prior to Typhoid Vaccine in National Immunization Program.",
+        "abstract": "Enteric fever is a major public health problem in developing and under developed countries. Case fatality rate without treatment is 10-30% and with appropriate treatment is only 1-4%. Gold standard for diagnosis is isolation of Salmonella enterica from blood or bone marrow. Antibiotics resistance is skyrocketing with emergence of multidrug resistance S. typhi and extensively drug resistant S. typhi.",
+        "journal": "Journal of Nepal Health Research Council",
+        "year": "2023",
+        "authors": [
+          "Chapagain Ram Hari",
+          "Adhikari Santosh",
+          "Bhattarai Tribhuwan",
+          "Basaula Yubanidhi",
+          "Bhattarai Srijana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Child, Preschool",
+          "Anti-Bacterial Agents",
+          "Typhoid Fever",
+          "Typhoid-Paratyphoid Vaccines",
+          "Azithromycin",
+          "Cefixime",
+          "Ceftriaxone",
+          "Nalidixic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38196224/"
+      },
+      {
+        "pmid": "38387472",
+        "title": "Evaluating the relationship between ciprofloxacin prescription and non-susceptibility in Salmonella Typhi in Blantyre, Malawi: an observational study.",
+        "abstract": "Ciprofloxacin is the first-line drug for treating typhoid fever in many countries in Africa with a high disease burden, but the emergence of non-susceptibility poses a challenge to public health programmes. Through enhanced surveillance as part of vaccine evaluation, we investigated the occurrence and potential determinants of ciprofloxacin non-susceptibility in Blantyre, Malawi.",
+        "journal": "The Lancet. Microbe",
+        "year": "2024",
+        "authors": [
+          "Ashton Philip M",
+          "Chunga Chirambo Angeziwa",
+          "Meiring James E",
+          "Patel Priyanka D",
+          "Mbewe Maurice"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Child",
+          "Salmonella typhi",
+          "Ciprofloxacin",
+          "Typhoid Fever",
+          "Malawi",
+          "Phylogeny",
+          "Typhoid-Paratyphoid Vaccines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38387472/"
+      },
+      {
+        "pmid": "7573719",
+        "title": "Efficacy of ciprofloxacin in enteric fever: comparison of treatment duration in sensitive and multidrug-resistant Salmonella.",
+        "abstract": "The efficacy of two regimens of ciprofloxacin was compared in a randomized study conducted on 69 patients with enteric fever, 52.2% of whom had infection with multidrug-resistant (MDR) strains of Salmonella typhi or S. paratyphi. Patients were randomly assigned to two regimens (10 days versus 14 days) of ciprofloxacin (500 mg twice a day). The mean +/- SD time required for defervescence was similar for both regimens (4.2 +/- 1.9 days in the 10-day group and 4.9 +/- 2.6 days in the 14-day group). A 100% cure was observed in each treatment group and no serious side effects were observed. Relapse occurred in two patients (14-day regimen). Only one patient (14-day regimen) had growth of S. typhi in stool culture at the time of the first follow-up three days after completion of therapy. Follow-up studies on available patients on two, six, and 12 months after completion of therapy revealed that all patients had negative stool cultures for S. typhi and S. paratyphi. This study indicates that ",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "1995",
+        "authors": [
+          "Alam M N",
+          "Haq S A",
+          "Das K K",
+          "Baral P K",
+          "Mazid M N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Drug Administration Schedule",
+          "Drug Resistance, Microbial",
+          "Drug Resistance, Multiple",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7573719/"
+      },
+      {
+        "pmid": "17071955",
+        "title": "Molecular characterization of ciprofloxacin-resistant Salmonella enterica serovar Typhi and Paratyphi A causing enteric fever in India.",
+        "abstract": "To define the genetic characteristics and resistance mechanisms of clinical isolates of Salmonella enterica serovar Typhi (S. Typhi) and S. enterica serovar Paratyphi A (S. Paratyphi A) exhibiting high-level fluoroquinolones resistance.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2006",
+        "authors": [
+          "Gaind R",
+          "Paglietti B",
+          "Murgia M",
+          "Dawar R",
+          "Uzzau S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acid Substitution",
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "DNA Gyrase",
+          "DNA Topoisomerase IV",
+          "DNA Topoisomerases",
+          "DNA, Bacterial",
+          "Deoxyribonucleases, Type II Site-Specific",
+          "Drug Resistance, Bacterial",
+          "Electrophoresis, Gel, Pulsed-Field"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17071955/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:50:50.501263",
+  "success": true,
+  "error_message": null
+}

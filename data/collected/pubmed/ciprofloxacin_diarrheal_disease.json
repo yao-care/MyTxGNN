@@ -1,0 +1,570 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "diarrheal disease",
+    "query_string": "Ciprofloxacin AND diarrheal disease"
+  },
+  "data": {
+    "query": "Ciprofloxacin AND diarrheal disease",
+    "results": [
+      {
+        "pmid": "15880088",
+        "title": "Shigellosis.",
+        "abstract": "Shigellosis is a global human health problem. Four species of Shigella i.e. S. dysenteriae, S. flexneri, S. boydii and S. sonnei are able to cause the disease. These species are subdivided into serotypes on the basis of O-specific polysaccharide of the LPS. Shigella dysenteriae type 1 produces severe disease and may be associated with life-threatening complications. The symptoms of shigellosis include diarrhoea and/or dysentery with frequent mucoid bloody stools, abdominal cramps and tenesmus. Shigella spp. cause dysentery by invading the colonic mucosa. Shigella bacteria multiply within colonic epithelial cells, cause cell death and spread laterally to infect and kill adjacent epithelial cells, causing mucosal ulceration, inflammation and bleeding. Transmission usually occurs via contaminated food and water or through person-to-person contact. Laboratory diagnosis is made by culturing the stool samples using selective/differential agar media. Shigella spp. are highly fragile organism ",
+        "journal": "Journal of microbiology (Seoul, Korea)",
+        "year": "2005",
+        "authors": [
+          "Niyogi Swapan Kumar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Drug Resistance, Bacterial",
+          "Dysentery, Bacillary",
+          "Humans",
+          "Shigella",
+          "Shigella Vaccines",
+          "Virulence Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15880088/"
+      },
+      {
+        "pmid": "36509064",
+        "title": "Etiology of Acute Diarrheal Disease and Antimicrobial Susceptibility Pattern in Children Younger Than 5 Years Old in Nepal.",
+        "abstract": "Diarrhea is a common cause of morbidity and mortality among children younger than 5 years in developing countries. Children from 3 to 60 months of age were recruited from two hospitals in Nepal- Bharatpur Hospital, Bharatpur, and Kanti Children's Hospital, Kathmandu-in 2006 to 2009. Stool specimens collected from 1,200 children with acute diarrhea (cases) and 1,200 children without diarrhea (control subjects) were examined for a broad range of enteropathogens by standard microbiology, including microscopy, enzyme immunoassay for viral pathogens (adenovirus, astrovirus, and rotavirus) and protozoa (Giardia, Cryptosporidium, and Entamoeba histolytica), as well as by using reverse transcription real-time polymerase for norovirus. Antimicrobial susceptibility testing was performed using the disk diffusion method. Overall, rotavirus (22% versus 2%), norovirus (13% versus 7%), adenovirus (3% versus 0%), Shigella (6% versus 1%), enterotoxigenic Escherichia coli (8% versus 4%), Vibrio (7% vers",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2023",
+        "authors": [
+          "Shrestha Sanjaya K",
+          "Shrestha Jasmin",
+          "Mason Carl J",
+          "Sornsakrin Siriporn",
+          "Dhakhwa Jyoti Ratna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infant",
+          "Child, Preschool",
+          "Cryptosporidiosis",
+          "Nepal",
+          "Cryptosporidium",
+          "Diarrhea",
+          "Rotavirus",
+          "Shigella",
+          "Enterotoxigenic Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36509064/"
+      },
+      {
+        "pmid": "37697804",
+        "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes.",
+        "abstract": "The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse Salmonella enterica serovar Typhi (Typhi) genomic data to inform public health action. This analysis, which marks 22 years since the publication of the first Typhi genome, represents the largest Typhi genome sequence collection to date (n=13,000).",
+        "journal": "eLife",
+        "year": "2023",
+        "authors": [
+          "Carey Megan E",
+          "Dyson Zoe A",
+          "Ingle Danielle J",
+          "Amir Afreenish",
+          "Aworh Mabel K"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Salmonella typhi",
+          "Typhoid Fever",
+          "Anti-Bacterial Agents",
+          "Travel",
+          "Drug Resistance, Bacterial",
+          "Ciprofloxacin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37697804/"
+      },
+      {
+        "pmid": "17426177",
+        "title": "Diarrheal disease among HIV-infected adults in Karnataka, India: evaluation of risk factors and etiology.",
+        "abstract": "The objectives of this study were to evaluate characteristics associated with diarrhea, the effect of trimethoprim-sulfamethoxazole (TMP/SMX) prophylaxis on diarrhea, the response to treatment with ciprofloxacin and tinidazole (Cipro-TZ), and presence of enteric pathogens. Adults infected with human immunodeficiency virus with and without diarrhea served as cases and controls, respectively. Participants provided a medical history and underwent a physical examination. Blood was collected for CD4 cell counts and stool for culture. Cases were treated with Cipro-TZ. Factors associated with a risk of diarrhea included crowded living and no toilet (all P < 0.05). Protective variables (P < 0.05) included a CD4 count greater than 200 cells/mm(3) and TMP/SMX prophylaxis. Cases were more likely to have a pathogen identified (P = 0.05). Eighty-six percent of the cases responded to treatment. Important risk factors for diarrhea were identified. Protection by TMP/SMX reinforces the importance of pr",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2007",
+        "authors": [
+          "Becker Marissa L",
+          "Cohen Craig R",
+          "Cheang Mary",
+          "Washington Reynold G",
+          "Blanchard James F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Case-Control Studies",
+          "Diarrhea",
+          "Female",
+          "HIV Infections",
+          "Humans",
+          "India",
+          "Male",
+          "Risk Factors",
+          "Surveys and Questionnaires"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17426177/"
+      },
+      {
+        "pmid": "1656260",
+        "title": "Diarrheal disease during Operation Desert Shield.",
+        "abstract": "Under combat conditions infectious disease can become a major threat to military forces. During Operation Desert Shield, there were numerous outbreaks of diarrhea among the U.S. forces. To evaluate the causes of and risk factors for diarrheal disease, we collected clinical and epidemiologic data from U.S. troops stationed in northeastern Saudi Arabia.",
+        "journal": "The New England journal of medicine",
+        "year": "1991",
+        "authors": [
+          "Hyams K C",
+          "Bourgeois A L",
+          "Merrell B R",
+          "Rozmajzl P",
+          "Escamilla J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Ampicillin",
+          "Diarrhea",
+          "Drug Resistance, Microbial",
+          "Dysentery, Bacillary",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Feces",
+          "Gastroenteritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1656260/"
+      },
+      {
+        "pmid": "15387492",
+        "title": "Emerging nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from patients having acute diarrhoeal disease.",
+        "abstract": "Non-typhoidal Salmonella are one of the key etiological agents of diarrhoeal disease. The appearance of multiple drug resistance along with resistance to quinolones in this bacterium poses a serious therapeutic problem. We determined the prevalence of nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from faecal samples of patients with acute diarrhoeal disease attending the outpatient and inpatient departments of a hospital in Saudi Arabia during the years 1999 to 2002.",
+        "journal": "Annals of Saudi medicine",
+        "year": "2004",
+        "authors": [
+          "Panhotra B R",
+          "Saxena A K",
+          "Al-Arabi Al-Ghamdi Ali M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Communicable Diseases, Emerging",
+          "Diarrhea",
+          "Drug Resistance, Multiple, Bacterial",
+          "Feces",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Nalidixic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15387492/"
+      },
+      {
+        "pmid": "33544770",
+        "title": "Characterization of Arcobacter spp. Isolated from human diarrheal, non-diarrheal and food samples in Thailand.",
+        "abstract": "Arcobacter butzleri is an emerging zoonotic food-borne and water-borne pathogen that can cause diarrhea in humans. The global prevalence of A. butzleri infection is underestimated, and little is known about their phenotypic and genotypic characterization. The aim of this study was to determine antimicrobial susceptibility (AST) profiles, detect related virulence genes, and classify sequence type (ST) of A. butzleri isolates obtained from human stool and food samples. A total of 84 A. butzleri isolates were obtained from human diarrheal (n = 25), non-diarrheal (n = 24) stool, and food (n = 35) samples in Thailand. They were evaluated for phenotypic identification by conventional microbiological procedures and AST by Kirby-Bauer disc diffusion method as well as virulence genes detection. Representative isolates from each origin were selected based on the presence of virulence genes and AST profiles to analyze genetic diversity by multilocus sequence typing (MLST). All isolates showed res",
+        "journal": "PloS one",
+        "year": "2021",
+        "authors": [
+          "Kietsiri Paksathorn",
+          "Muangnapoh Chonchanok",
+          "Lurchachaiwong Woradee",
+          "Lertsethtakarn Paphavee",
+          "Bodhidatta Ladaporn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arcobacter",
+          "Diarrhea",
+          "Genes, Bacterial",
+          "Genotype",
+          "Gram-Negative Bacterial Infections",
+          "Humans",
+          "Multilocus Sequence Typing",
+          "Thailand",
+          "Virulence Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33544770/"
+      },
+      {
+        "pmid": "31404533",
+        "title": "Acute Diarrheal Illness.",
+        "abstract": "",
+        "journal": "Gastroenterology",
+        "year": "2020",
+        "authors": [
+          "Jansson-Knodell Claire L",
+          "Shin Andrea",
+          "Rogers Nicholas"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Ciprofloxacin",
+          "Colon",
+          "Diarrhea",
+          "Feces",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Ileum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31404533/"
+      },
+      {
+        "pmid": "39540737",
+        "title": "Antibiotic resistance and serotype distribution of Shigella strains in Bangladesh over the period of 2014-2022: evidence from a nationwide hospital-based surveillance for cholera and other diarrheal diseases.",
+        "abstract": "The objective of this study was to assess the prevalence, antimicrobial resistance patterns, and risk factors linked to Shigella infections through a nationwide hospital-based diarrheal disease surveillance in Bangladesh. From May 2014 to May 2022, from a systematic sentinel surveillance of Shigella infections in over 10 hospitals across Bangladesh, stool specimens were collected from patients with acute watery diarrhea and tested for Shigella species by microbiological culture. The susceptibility to antibiotics was tested using the disk diffusion method. Structured questionnaires were used to collect participants' socioeconomic status and clinical, sanitation, and food history. Out of 24,357 stool specimens, 1.8% were positive for Shigella species, with a higher prevalence among males (58%). Children in the 6-17 age group were found to be at the highest risk of Shigella infections. The most prevalent serotype was Shigella flexneri (79.5%), followed by Shigella sonnei. S. flexneri sero",
+        "journal": "Microbiology spectrum",
+        "year": "2024",
+        "authors": [
+          "Afrad Mokibul Hassan",
+          "Islam Md Taufiqul",
+          "Begum Yasmin Ara",
+          "Saifullah Md",
+          "Ahmmed Faisal"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39540737/"
+      },
+      {
+        "pmid": "38387472",
+        "title": "Evaluating the relationship between ciprofloxacin prescription and non-susceptibility in Salmonella Typhi in Blantyre, Malawi: an observational study.",
+        "abstract": "Ciprofloxacin is the first-line drug for treating typhoid fever in many countries in Africa with a high disease burden, but the emergence of non-susceptibility poses a challenge to public health programmes. Through enhanced surveillance as part of vaccine evaluation, we investigated the occurrence and potential determinants of ciprofloxacin non-susceptibility in Blantyre, Malawi.",
+        "journal": "The Lancet. Microbe",
+        "year": "2024",
+        "authors": [
+          "Ashton Philip M",
+          "Chunga Chirambo Angeziwa",
+          "Meiring James E",
+          "Patel Priyanka D",
+          "Mbewe Maurice"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Child",
+          "Salmonella typhi",
+          "Ciprofloxacin",
+          "Typhoid Fever",
+          "Malawi",
+          "Phylogeny",
+          "Typhoid-Paratyphoid Vaccines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38387472/"
+      },
+      {
+        "pmid": "15573842",
+        "title": "Emerging nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from patients having acute diarrhoeal disease.",
+        "abstract": "Non-typhoidal Salmonella are one of the key etiological agents of diarrhoeal disease. The appearance of multiple drug resistance along with resistance to quinolones in this bacterium poses a serious therapeutic problem. We determined the prevalence of nalidixic acid and ciprofloxacin resistance in non-typhoidal Salmonella isolated from faecal samples of patients with acute diarrhoeal disease attending the outpatient and inpatient department of a hospital in Saudi Arabia during the years 1999 to 2002.",
+        "journal": "Annals of Saudi medicine",
+        "year": "2004",
+        "authors": [
+          "Panhotra B R",
+          "Saxena A K",
+          "Al-Ghamdi Ali M Al-Arabi"
+        ],
+        "pub_types": [
+          "Corrected and Republished Article",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Anti-Infective Agents",
+          "Ciprofloxacin",
+          "Communicable Diseases, Emerging",
+          "Drug Resistance, Bacterial",
+          "Dysentery",
+          "Feces",
+          "Humans",
+          "Nalidixic Acid",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15573842/"
+      },
+      {
+        "pmid": "25098316",
+        "title": "Gastroenteritis due to typhoidal Salmonella: a decade of observation at an urban and a rural diarrheal disease hospital in Bangladesh.",
+        "abstract": "The study aimed to compare the socio-demographic, host and clinical characteristics, seasonality and antimicrobial susceptibility of Typhoidal Salmonella (Salmonella enterica serovar Typhi and Paratyphi) (TS) with diarrhea between urban and rural Bangladesh.",
+        "journal": "BMC infectious diseases",
+        "year": "2014",
+        "authors": [
+          "Das Sumon Kumar",
+          "Chisti Mohammod Jobayer",
+          "Afrad Mokibul Hassan",
+          "Malek Mohammad Abdul",
+          "Ahmed Shahnawaz"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Bangladesh",
+          "Child",
+          "Child, Preschool",
+          "Diarrhea",
+          "Female",
+          "Gastroenteritis",
+          "Hospitals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25098316/"
+      },
+      {
+        "pmid": "32187137",
+        "title": "Molecular and Epidemiologic Analysis of Diarrheal Pathogens in Children With Acute Gastroenteritis in Bangladesh During 2014-2019.",
+        "abstract": "Diarrheal disease is one of the leading causes of childhood morbidity and mortality in the 21st century in developing countries. Mainly infants and young children develop diarrheal diseases. This study aims to determine the incidence of diarrheal pathogens in children in Bangladesh.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2020",
+        "authors": [
+          "Sharif Nadim",
+          "Nobel Nasir Uddin",
+          "Sakib Najmuj",
+          "Liza Syeda Moriam",
+          "Khan Shafia Tasnim"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Bacteria",
+          "Bacterial Infections",
+          "Bangladesh",
+          "Child",
+          "Child, Preschool",
+          "Coinfection",
+          "DNA Viruses",
+          "Feces",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32187137/"
+      },
+      {
+        "pmid": "31374081",
+        "title": "Characterizing Shigella species distribution and antimicrobial susceptibility to ciprofloxacin and nalidixic acid in Latin America between 2000-2015.",
+        "abstract": "Shigellosis is the second leading cause of diarrheal death globally. The global burden has been complicated by the emergence of Shigella strains resistant to first line antibiotic treatments such as ciprofloxacin. This study aims to describe the epidemiologic distribution of the most common Shigella species, and their antimicrobial susceptibility patterns to ciprofloxacin and nalidixic acid (NA) in Latin America.",
+        "journal": "PloS one",
+        "year": "2019",
+        "authors": [
+          "Sati Hatim F",
+          "Bruinsma Nienke",
+          "Galas Marcelo",
+          "Hsieh Jenny",
+          "Sanhueza Antonio"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Latin America",
+          "Microbial Sensitivity Tests",
+          "Nalidixic Acid",
+          "Shigella"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31374081/"
+      },
+      {
+        "pmid": "40405224",
+        "title": "Understanding the etiology of diarrheal illness in Cambodia in a case-control study from 2020 to 2023.",
+        "abstract": "Diarrheal infection remains a major public health problem in low and middle-income countries (LMICs). Prevention and control of diarrheal diseases are considered a global health priority. This case-control study aims to describe the prevalence of diarrhea etiologic agents and antimicrobial resistance in bacterial enteropathogens for acute diarrhea among children, adult civilians, and military personnel in Cambodia, detecting over 20 bacterial species, viruses, and parasites. A total of 918 subjects with acute diarrhea (cases), 791 aged-matched subjects without diarrhea (controls), and 675 follow-up cases were enrolled from five hospitals in Battambang and Oddor Meanchey provinces from 2020 to 2023. Pathogens were identified from collected stool samples via bacteriology, molecular techniques, immunoassays, and microscopy. Bacterial isolates were tested for antibiotic resistance patterns. From enrolled diarrhea cases, 533 stool samples (58%) were positive for enteric pathogens, compared ",
+        "journal": "Gut pathogens",
+        "year": "2025",
+        "authors": [
+          "Kietsiri Paksathorn",
+          "Sornsakrin Siriporn",
+          "Nou Samon",
+          "Oransathid Wilawan",
+          "Peerapongpaisarn Dutsadee"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40405224/"
+      },
+      {
+        "pmid": "37275268",
+        "title": "Genomic Analysis and Antimicrobial Resistance of Campylobacter jejuni Isolated from Diarrheal Patients - Beijing Municipality, China, 2019-2021.",
+        "abstract": "Campylobacter jejuni (C. jejuni) is the leading cause of human bacterial gastroenteritis worldwide and has a major impact on global public health. The objective of the present study was to conduct whole genome sequencing (WGS) to determine the genetic diversity, virulence factors, and determinants of antimicrobial resistance of C. jejuni during a 3-year surveillance period in Beijing, China.",
+        "journal": "China CDC weekly",
+        "year": "2023",
+        "authors": [
+          "Zhang Daitao",
+          "Zhang Xin",
+          "Lyu Bing",
+          "Tian Yi",
+          "Huang Ying"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37275268/"
+      },
+      {
+        "pmid": "25399653",
+        "title": "Treatment of drug-resistant Shigella infections.",
+        "abstract": "Since the introduction of sulfonamides in the late 1930s, selective pressure and the widespread dissemination of mobile genetic elements conferring antimicrobial resistance have forced clinicians to seek successive agents for the treatment of multidrug-resistant shigellosis. Over the decades, the principal antibiotics used to treat Shigella infections have included tetracycline, chloramphenicol, ampicillin, trimethoprim-sulfamethoxazole, and nalidixic acid. Presently, ciprofloxacin, azithromycin, and ceftriaxone serve as the mainstays of treatment, although growing evidence has documented decreased susceptibility or full resistance to these agents in some regions. With diminishing pharmaceutical options available, there is an enhanced need for preventive measures in the form of improved sanitation and hygiene standards, strict use of currently effective agents, and a safe and effective licensed vaccine.",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2015",
+        "authors": [
+          "Klontz Karl C",
+          "Singh Nalini"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Drug Resistance, Multiple, Bacterial",
+          "Dysentery, Bacillary",
+          "Humans",
+          "Shigella"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25399653/"
+      },
+      {
+        "pmid": "7872452",
+        "title": "Diarrheal disease among military personnel during Operation Restore Hope, Somalia, 1992-1993.",
+        "abstract": "The potential for widespread diarrheal disease was regarded as a substantial threat to U.S. troops participating in the early phases of Operation Restore Hope in Somalia. Outpatient surveillance of 20,859 U.S. troops deployed during the first eight weeks, however, indicated that a mean of only 0.8% (range 0.5-1.2%) of personnel sought care for diarrhea each week, and in three epidemiologic surveys, < 3% of troops reported experiencing a diarrheal illness per week. Despite these low overall attack rates, diarrhea accounted for 16% of 381 hospital admissions and 20% of 245 patients admitted with a temperature > or = 38.5 degrees C. Sixty-one specimens were obtained from inpatients and 52 were obtained from outpatients. Shigella sp. were isolated from 33%, enterotoxigenic Escherichia coli from 16%, Giardia lamblia from 4%, and rotavirus from 1% of 113 stool samples obtained from inpatient (61) and outpatient (52) troops with diarrhea. Bacterial isolates obtained in Somalia were resistant ",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "1995",
+        "authors": [
+          "Sharp T W",
+          "Thornton S A",
+          "Wallace M R",
+          "Defraites R F",
+          "Sanchez J L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Diarrhea",
+          "Disease Outbreaks",
+          "Dysentery, Bacillary",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Feces",
+          "Gastroenteritis",
+          "Humans",
+          "Military Personnel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7872452/"
+      },
+      {
+        "pmid": "31913705",
+        "title": "Prevalence, Antimicrobial Resistance, and Pathogenic Potential of Enterotoxigenic and Enteropathogenic Escherichia coli Associated with Acute Diarrheal Patients in Tangail, Bangladesh.",
+        "abstract": "In this study, the prevalence and antimicrobial resistance of enterotoxigenic Escherichia coli (ETEC) and enteropathogenic Escherichia coli (EPEC) were investigated. Altogether 100 stool samples were collected from diarrheal patients attending the Sheikh Hasina Medical College and Hospital, Tangail, Bangladesh, during the period from March 1 to May 30, 2018. In vivo pathogenic potential of ETEC and EPEC using a Caenorhabditis elegans infection model was investigated. Among 100 diarrheal patients, 31% were positive for both ETEC and EPEC strains, 23% were lt positive for ETEC strains, and 8% were bfpA positive for EPEC strains. It was detected that 82.60%, 65.21%, 73.91%, 78.26%, 47.82%, 60.86%, and 47.82% of ETEC strains were resistant to amoxicillin-clavulanic acid (AMC), tetracycline (TE), nalidixic acid (NA), azithromycin, ciprofloxacin, ampicillin (AMP), and erythromycin (E), respectively. Whereas it was detected that 87.5% strains were resistant to AMC, AMP, and E, 75% were resist",
+        "journal": "Foodborne pathogens and disease",
+        "year": "2020",
+        "authors": [
+          "Rahman Md Masuder",
+          "Ahmed Parvez",
+          "Kar Antora",
+          "Sakib Nazmus",
+          "Shibly Abu Zaffar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bangladesh",
+          "Caenorhabditis elegans",
+          "Diarrhea",
+          "Drug Resistance, Multiple, Bacterial",
+          "Enteropathogenic Escherichia coli",
+          "Enterotoxigenic Escherichia coli",
+          "Escherichia coli Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31913705/"
+      },
+      {
+        "pmid": "31069372",
+        "title": "A systematic review and meta-analysis on the epidemiology of antibiotic resistance of Vibrio cholerae in Iran.",
+        "abstract": "Cholera, an acute diarrheal disease caused by Vibrio cholerae (V. cholerae), is an endemic disease and a major public health problem in Iran. Antibiotic therapy can decrease duration of the disease, transmission of infection and contamination of the environment. Considering different pattern of V. cholerae antibiotic resistance around the world, the aim of the current systematic review and meta-analysis was to evaluate the prevalence of antibiotic resistance of V. cholerae in Iran.",
+        "journal": "Annali di igiene : medicina preventiva e di comunita",
+        "year": "2019",
+        "authors": [
+          "Yousefi A",
+          "Vaez H",
+          "Sahebkar A",
+          "Khademi F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cholera",
+          "Drug Resistance, Microbial",
+          "Drug Resistance, Multiple, Bacterial",
+          "Humans",
+          "Iran",
+          "Vibrio cholerae",
+          "Vibrio cholerae O1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31069372/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:51:04.491617",
+  "success": true,
+  "error_message": null
+}

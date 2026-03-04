@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Entacapone",
+    "disease": "hemiparkinsonism-hemiatrophy syndrome",
+    "query_string": "Entacapone AND hemiparkinsonism-hemiatrophy syndrome"
+  },
+  "data": {
+    "query": "Entacapone AND hemiparkinsonism-hemiatrophy syndrome",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:28:30.146534",
+  "success": true,
+  "error_message": null
+}

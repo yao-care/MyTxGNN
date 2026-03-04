@@ -1,0 +1,39 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tolnaftate",
+    "disease": "tinea barbae",
+    "query_string": "Tolnaftate AND tinea barbae"
+  },
+  "data": {
+    "query": "Tolnaftate AND tinea barbae",
+    "results": [
+      {
+        "pmid": "1379146",
+        "title": "Superficial fungal infections of the skin. Diagnosis and current treatment recommendations.",
+        "abstract": "Superficial fungal infections are common. Most diagnoses of fungal infections of the skin can be made by physical examination, assisted by the use of a Wood's lamp, skin scrapings for microscopic examination, and fungal cultures. Dermatophyte infections are common at all ages, in both sexes, and they have a worldwide distribution. These infections include tinea capitis, tinea cruris, tinea pedis, tinea corporis, tinea manuum and tinea barbae. Tinea versicolor, caused by Malassezia furfur, and candidal infections are also common. Treatment modalities include oral and topical agents. Good personal hygiene is an important adjunct to antifungal therapy. Decisions regarding the appropriateness of therapy in a given patient must take into account the extent and location of the infection, the benefits and risks of each of the treatments, and cost. Oral therapies include griseofulvin, ketoconazole, and itraconazole. There are a large variety of topical treatments, including nystatin, selenium ",
+        "journal": "Drugs",
+        "year": "1992",
+        "authors": [
+          "Rezabek G H",
+          "Friedman A D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Animals",
+          "Antifungal Agents",
+          "Dermatomycoses",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1379146/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:47:55.653438",
+  "success": true,
+  "error_message": null
+}

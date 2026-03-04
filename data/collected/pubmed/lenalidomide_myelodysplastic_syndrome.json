@@ -1,0 +1,578 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lenalidomide",
+    "disease": "myelodysplastic syndrome",
+    "query_string": "Lenalidomide AND myelodysplastic syndrome"
+  },
+  "data": {
+    "query": "Lenalidomide AND myelodysplastic syndrome",
+    "results": [
+      {
+        "pmid": "37288607",
+        "title": "Myelodysplastic syndromes: 2023 update on diagnosis, risk-stratification, and management.",
+        "abstract": "The myelodysplastic syndromes (MDS) are a very heterogeneous group of myeloid disorders characterized by peripheral blood cytopenias and increased risk of transformation to acute myelogenous leukemia (AML). MDS occurs more frequently in older males and in individuals with prior exposure to cytotoxic therapy.",
+        "journal": "American journal of hematology",
+        "year": "2023",
+        "authors": [
+          "Garcia-Manero Guillermo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Humans",
+          "Male",
+          "Bone Marrow",
+          "Lenalidomide",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "Prognosis",
+          "Clinical Trials, Phase III as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37288607/"
+      },
+      {
+        "pmid": "35320468",
+        "title": "New Approaches to Myelodysplastic Syndrome Treatment.",
+        "abstract": "The treatment of myelodysplastic syndromes (MDS) begins with risk stratification using a validated tool such as the International Prognostic Scoring System (IPSS) or its revised version (IPSS-R). This divides patients into lower- and higher- risk categories. Although treatment objectives in lower-risk MDS (LR-MDS) have traditionally been directed at improving cytopenias (usually anemia) as well as quality of life, recent data supports a potential role for early intervention in delaying transfusion dependency. In addition, careful individualized risk stratification incorporating clinical, cytogenetic, and mutational data might help identify patients at higher-than-expected risk for progression. Given the need for supportive care with red blood cell (RBC) transfusions leading to iron overload, iron chelation should be considered for patients with heavy transfusion requirements at risk for end-organ complications. For patients with LR-MDS and isolated anemia, no high-risk features, and en",
+        "journal": "Current treatment options in oncology",
+        "year": "2022",
+        "authors": [
+          "Bazinet Alexandre",
+          "Bravo Guillermo Montalban"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Antineoplastic Agents",
+          "Azacitidine",
+          "Humans",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35320468/"
+      },
+      {
+        "pmid": "38814537",
+        "title": "Treatment of Anemia in Lower-Risk Myelodysplastic Syndrome.",
+        "abstract": "A majority of patients with lower-risk myelodysplastic syndrome (MDS) will present with or develop anemia. Anemia in MDS is associated with decreased quality of life and may correlate with decreased progression-free survival and overall survival. In this state of the art review we summarize current risk stratification approaches to identify lower-risk MDS (LR-MDS), the natural history of the disease, and meaningful clinical endpoints. The treatment landscape of LR-MDS with anemia is also rapidly evolving; we review the role of supportive care, erythropoietin stimulating agents, lenalidomide, luspatercept, hypomethylating agents (HMAs), and immunosuppressive therapy (IST) in the management of LR-MDS with anemia. In patients with deletion 5q (del5q) syndrome lenalidomide has both efficacy and durability of response. For patients without del5q who need treatment, the management approach is impacted by serum erythropoietin (EPO) level, SF3B1 mutation status, and ring sideroblast status. Gi",
+        "journal": "Current treatment options in oncology",
+        "year": "2024",
+        "authors": [
+          "Battaglia Muriel R",
+          "Cannova Joseph",
+          "Madero-Marroquin Rafael",
+          "Patel Anand A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Anemia",
+          "Disease Management",
+          "Treatment Outcome",
+          "Disease Susceptibility",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38814537/"
+      },
+      {
+        "pmid": "17722955",
+        "title": "Lenalidomide in myelodysplastic syndrome and multiple myeloma.",
+        "abstract": "The use of thalidomide is limited by adverse effects of sedation, constipation, neuropathy and thromboembolism. In order to discover more potent and less toxic immunomodulators than thalidomide, its chemical structure was modified and lenalidomide was formed. Lenalidomide is approved by the US FDA for the treatment of patients with low-risk myelodysplastic syndrome (MDS) with deletion 5q cytogenetic abnormality. Two studies and a case report have evaluated lenalidomide in these MDS patients and showed significantly higher cytogenetic responses and durable red blood cell transfusion independence. Lenalidomide should be the drug of choice for patients with low and intermediate-1 risk MDS (based on the International Prognostic Scoring System) with chromosome 5q31 deletion with or without other karyotype abnormalities. Lenalidomide, in combination with dexamethasone, has been compared with dexamethasone alone in patients with relapsed or refractory multiple myeloma (MM) in two studies (MM-",
+        "journal": "Drugs",
+        "year": "2007",
+        "authors": [
+          "Shah Sachin R",
+          "Tran Thu M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Dexamethasone",
+          "Humans",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Myelodysplastic Syndromes",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17722955/"
+      },
+      {
+        "pmid": "26131937",
+        "title": "Lenalidomide induces ubiquitination and degradation of CK1α in del(5q) MDS.",
+        "abstract": "Lenalidomide is a highly effective treatment for myelodysplastic syndrome (MDS) with deletion of chromosome 5q (del(5q)). Here, we demonstrate that lenalidomide induces the ubiquitination of casein kinase 1A1 (CK1α) by the E3 ubiquitin ligase CUL4-RBX1-DDB1-CRBN (known as CRL4(CRBN)), resulting in CK1α degradation. CK1α is encoded by a gene within the common deleted region for del(5q) MDS and haploinsufficient expression sensitizes cells to lenalidomide therapy, providing a mechanistic basis for the therapeutic window of lenalidomide in del(5q) MDS. We found that mouse cells are resistant to lenalidomide but that changing a single amino acid in mouse Crbn to the corresponding human residue enables lenalidomide-dependent degradation of CK1α. We further demonstrate that minor side chain modifications in thalidomide and a novel analogue, CC-122, can modulate the spectrum of substrates targeted by CRL4(CRBN). These findings have implications for the clinical activity of lenalidomide and re",
+        "journal": "Nature",
+        "year": "2015",
+        "authors": [
+          "Krönke Jan",
+          "Fink Emma C",
+          "Hollenbach Paul W",
+          "MacBeth Kyle J",
+          "Hurst Slater N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Animals",
+          "Casein Kinase I",
+          "Cell Line",
+          "Gene Expression Regulation",
+          "HEK293 Cells",
+          "Humans",
+          "Immunologic Factors",
+          "Jurkat Cells",
+          "K562 Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26131937/"
+      },
+      {
+        "pmid": "37874917",
+        "title": "Clinical decision-making and treatment of myelodysplastic syndromes.",
+        "abstract": "The myelodysplastic syndromes (MDSs) constitute a profoundly heterogeneous myeloid malignancy with a common origin in the hemopoietic stem cell compartment. Consequently, patient management and treatment are as heterogeneous. Decision-making includes identifying risk, symptoms, and options for an individual and conducting a risk-benefit analysis. The only potential cure is allogeneic stem cell transplantation, and albeit the fraction of patients with MDS who undergo transplant increase over time because of better management and increased donor availability, a majority are not eligible for this intervention. Current challenges encompass to decrease the relapse risk, the main cause of hematopoietic stem cell transplantation failure. Hypomethylating agents (HMAs) constitute firstline treatment for higher-risk MDSs. Combinations with other drugs as firstline treatment has, to date, not proven more efficacious than monotherapy, although combinations approved for acute myeloid leukemia, incl",
+        "journal": "Blood",
+        "year": "2023",
+        "authors": [
+          "Hellström-Lindberg Eva S",
+          "Kröger Nicolaus"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Quality of Life",
+          "Myelodysplastic Syndromes",
+          "Lenalidomide",
+          "Anemia",
+          "Clinical Decision-Making"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37874917/"
+      },
+      {
+        "pmid": "26512454",
+        "title": "Lenalidomide: deciphering mechanisms of action in myeloma, myelodysplastic syndrome and beyond.",
+        "abstract": "Lenalidomide and its related 'analogues' modulate the substrate specificity of the CRL4(CRBN) E3 ubiquitin ligase complex. Polyubiquitination and subsequent proteasomal degradation of IKZF1 and IKZF3 in multiple myeloma and CK1α in del(5q) MDS has recently been linked to therapeutic efficacy of this class of compounds. Harnessing ubiquitin ligase substrate specificity, may in time facilitate the degradation of other 'undruggable' proteins and allow for separation of detrimental side effects of IMiD compounds from those associated with therapeutic efficacy.",
+        "journal": "Current opinion in cell biology",
+        "year": "2015",
+        "authors": [
+          "Guirguis Andrew A",
+          "Ebert Benjamin L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Humans",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Myelodysplastic Syndromes",
+          "Substrate Specificity",
+          "Thalidomide",
+          "Transcription, Genetic",
+          "Ubiquitination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26512454/"
+      },
+      {
+        "pmid": "38777652",
+        "title": "Eosinophilia During Lenalidomide Therapy in Myelodysplastic Syndrome.",
+        "abstract": "Lenalidomide is an immunomodulatory therapy used to treat multiple hematologic malignancies. The incidence of eosinophilia and hypereosinophilia during lenalidomide therapy, and the requirement for high-dose steroids are not well-defined PATIENTS AND METHODS: We retrospectively reviewed 44 patients with myelodysplastic syndromes who were treated with lenalidomide therapy from August 2006 and March 2023.",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2024",
+        "authors": [
+          "Sasaki Koji",
+          "Kantarjian Hagop",
+          "Montalban-Bravo Guillermo",
+          "Hammond Danielle",
+          "Jabbour Elias"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes",
+          "Male",
+          "Female",
+          "Aged",
+          "Eosinophilia",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Aged, 80 and over"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38777652/"
+      },
+      {
+        "pmid": "26728842",
+        "title": "Myelodysplastic syndrome.",
+        "abstract": "",
+        "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+        "year": "2016",
+        "authors": [
+          "Wells Richard A",
+          "Buckstein Rena",
+          "Rezmovitz Jeremy"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anemia, Macrocytic",
+          "Bone Marrow",
+          "Erythropoietin",
+          "Fatigue",
+          "Humans",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes",
+          "Stem Cell Transplantation",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26728842/"
+      },
+      {
+        "pmid": "28958290",
+        "title": "Lenalidomide: Myelodysplastic syndromes with del(5q) and beyond.",
+        "abstract": "Myelodysplastic syndrome (MDS) with deletion 5q (del(5q)) is a distinct clinical and pathological disease subset that is exquisitely sensitive to lenalidomide for the treatment of red blood cell transfusion-dependent anemia. Although lenalidomide has erythropoeitic promoting activity in MDS without del(5q) (non-del(5q) MDS), the frequency of response to treatment is lower and relates to biologically separate drug effects. In del(5q) MDS, lenalidomide suppresses the malignant clone to restore effective erythropoiesis by virtue of synthetic lethality, arising from cereblon-dependent degradation of haplodeficient proteins encoded within the commonly deleted region of the chromosome 5q deletion. In contrast, in non-del(5q) MDS, lenalidomide restores effective erythropoiesis via enhancement of erythropoietin (EPO) receptor-initiated transcriptional response arising from the assembly of signaling-competent receptor complexes within membrane lipid raft domains. Recently, large phase III clini",
+        "journal": "Seminars in hematology",
+        "year": "2017",
+        "authors": [
+          "Talati Chetasi",
+          "Sallman David",
+          "List Alan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chromosome Deletion",
+          "Chromosomes, Human, Pair 5",
+          "Humans",
+          "Immunologic Factors",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28958290/"
+      },
+      {
+        "pmid": "16403850",
+        "title": "Role of lenalidomide in the treatment of multiple myeloma and myelodysplastic syndrome.",
+        "abstract": "To evaluate lenalidomide in the treatment of multiple myeloma and myelodysplastic syndrome (MDS).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2006",
+        "authors": [
+          "Maier Sara K",
+          "Hammond Julia M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Immunologic Factors",
+          "Lenalidomide",
+          "MEDLINE",
+          "Multiple Myeloma",
+          "Myelodysplastic Syndromes",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16403850/"
+      },
+      {
+        "pmid": "24627193",
+        "title": "Myelodysplastic syndromes with 5q deletion: pathophysiology and role of lenalidomide.",
+        "abstract": "Myelodysplastic syndrome (MDS) is a hematopoietic stem cell disorder primarily affecting CD34+ cells, characterized by ineffective hematopoiesis, often transforming into acute myelogenous leukemia (AML). A subset of patients has 5q deletion (del(5q)) as the culprit pathogenetic trigger. Del(5q) affects critical regions 5q31 and 5q33, leading to gene haplodeficiency with subsequent RPS14 haplodeficiency and P53 activation. Subsequent to P53 activation, erythroid cell apoptosis and ineffective erythropoiesis occur. Other pathogenetic elements include protein phosphatase 2a and CDC25C haplodeficiency and decreased miR-145 and miR-146a expression. Lenalidomide is an immunomodulatory agent that selectively suppresses the del(5q) clone. While the mechanism is not fully understood, it is associated with diverse molecular changes including stabilization of MDM2 with subsequent enhanced P53 degradation. Lenalidomide showed success in low- and intermediate-1-risk MDS as reported in the 002, 003,",
+        "journal": "Annals of hematology",
+        "year": "2014",
+        "authors": [
+          "Gaballa Mahmoud R",
+          "Besa Emmanuel C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chromosome Deletion",
+          "Chromosomes, Human, Pair 5",
+          "Clinical Trials as Topic",
+          "Gene Expression",
+          "Haploinsufficiency",
+          "Humans",
+          "Immunologic Factors",
+          "Lenalidomide",
+          "Leukemia, Myeloid, Acute",
+          "MicroRNAs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24627193/"
+      },
+      {
+        "pmid": "36255372",
+        "title": "Lenalidomide and Eltrombopag for Treatment of Low- or Intermediate-Risk Myelodysplastic Syndrome: Result of a Phase II Clinical Trial.",
+        "abstract": "Thrombocytopenia is a serious complication of myelodysplastic syndromes (MDS) associated with an increased bleeding risk and worse prognosis. Eltrombopag (ELT), a thrombopoietin receptor agonist, can increase platelet counts and reverse anti-megakaryopoietic effects of lenalidomide (LEN) in preclinical studies. We hypothesized ELT would reduce the incidence of thrombocytopenia in MDS.",
+        "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "year": "2023",
+        "authors": [
+          "Gonzalez-Lugo Jesus D",
+          "Kambhampati Suman",
+          "Yacoub Abdulraheem",
+          "Donnellan William B",
+          "Berdeja Jesus"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Humans",
+          "Middle Aged",
+          "Benzoates",
+          "Hemorrhage",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes",
+          "Thrombocytopenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36255372/"
+      },
+      {
+        "pmid": "31353975",
+        "title": "Novel therapies in low- and high-risk myelodysplastic syndrome.",
+        "abstract": "Introduction: Myelodysplastic syndromes (MDS) comprise a heterogeneous group of myeloid neoplasms with diverse clinical courses. The revised version of the international prognostic scoring system (IPSS-R) provides risk stratification into 5 different groups. Areas covered: For lower-risk patients, red blood cell transfusions and iron chelation are the backbone of supportive care. In addition, erythropoiesis-stimulating agents (ESA) are used to ameliorate anemia. Lenalidomide is approved for the treatment of lower-risk patients with del(5q) who are transfusion-dependent. Patients with higher-risk disease should be offered allogeneic stem cell transplantation whenever possible. If they are unfit for transplantation or an appropriate donor cannot be found, hypomethylating agents may be used. Expert opinion: New therapeutic options for lower-risk patients include thrombopoietin analogues, the TGF-beta family ligand trapping drug Luspatercept, and the telomerase inhibitor Imetelstat. Combin",
+        "journal": "Expert review of hematology",
+        "year": "2019",
+        "authors": [
+          "Germing Ulrich",
+          "Schroeder Thomas",
+          "Kaivers Jennifer",
+          "Kündgen Andrea",
+          "Kobbe Guido"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Activin Receptors, Type II",
+          "Anemia",
+          "Antineoplastic Agents",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Erythrocyte Transfusion",
+          "Hematinics",
+          "Humans",
+          "Immunoglobulin Fc Fragments"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31353975/"
+      },
+      {
+        "pmid": "30670446",
+        "title": "Treatment of MDS.",
+        "abstract": "The heterogeneous nature of myelodysplastic syndromes (MDS) demands a complex and personalized variety of therapeutic approaches. Among them, allogeneic hematopoietic stem cell transplantation remains the only potentially curative option and is accessible to only a small number of fit patients. For the majority of patients with MDS, treatment strategies are nonintensive and risk-adapted (by the revised version of the International Prognostic Scoring System), ranging from iron chelation and growth factors to lenalidomide and hypomethylating agents. These approaches are noncurative and aimed instead at improving cytopenias and quality of life and delaying disease progression. These limitations underpin the need for more translational research-based clinical trials in well-defined subgroups of patients with MDS. Indeed, much progress has been made over the past decade in understanding the complex molecular mechanisms underlying MDS. Unfortunately, this has not yet translated into approval",
+        "journal": "Blood",
+        "year": "2019",
+        "authors": [
+          "Platzbecker Uwe"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Disease Progression",
+          "Erythropoiesis",
+          "Hematology",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Intercellular Signaling Peptides and Proteins",
+          "Iron Chelating Agents",
+          "Lenalidomide",
+          "Methylation",
+          "Myelodysplastic Syndromes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30670446/"
+      },
+      {
+        "pmid": "33190445",
+        "title": "[Lenalidomide for myelodysplastic syndrome with excess blasts with germline DDX41 mutation: a case report and literatures review].",
+        "abstract": "",
+        "journal": "Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi",
+        "year": "2020",
+        "authors": [
+          "Chen J",
+          "Qu S Q",
+          "Qin T J",
+          "Xiao Z J",
+          "Xu Z F"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Cell Count",
+          "DEAD-box RNA Helicases",
+          "Germ Cells",
+          "Germ-Line Mutation",
+          "Humans",
+          "Immunologic Factors",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33190445/"
+      },
+      {
+        "pmid": "24756803",
+        "title": "Lenalidomide.",
+        "abstract": "Lenalidomide is an immunomodulatory drug (IMiD), which is well established and approved in the treatment of multiple myeloma (MM) and 5q-myelodysplastic syndrome (MDS). The mode of action includes immune modulation, anti-angiogenetic, anti-inflammatory, and anti-proliferative effects. Development of lenalidomide initiated a profound shift in therapeutic approaches especially toward MM. This chapter will discuss the mode of action of lenalidomide as well as its clinical applications. Important clinical phase II and III data of lenalidomide are presented. Currently, lenalidomide is not only investigated in MM and MDS, but also in malignant lymphomas and other entities.",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2014",
+        "authors": [
+          "Weisel Katja",
+          "Kanz Lothar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Humans",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Myelodysplastic Syndromes",
+          "Neoplasms",
+          "Thalidomide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24756803/"
+      },
+      {
+        "pmid": "38294126",
+        "title": "Myelodysplastic syndromes del(5q): Pathogenesis and its therapeutic implications.",
+        "abstract": "Myelodysplastic syndromes (MDS) encompass a heterogeneous set of acquired bone marrow neoplastic disorders characterized by ineffective hematopoiesis within one or more bone marrow lineages. Nearly half of MDS patients carry cytogenetic alterations, with del(5q) being the most prevalent. Since its first description, del(5q) was consistently correlated with a typical clinical phenotype marked by anemia, thrombocytosis, and a low risk of evolving into acute leukemia. Presently, the World Health Organization (WHO) classification of myeloid neoplasms recognizes a specific subtype of MDS known as \"myelodysplastic neoplasm with low blast and isolated del(5q)\" identified by the sole presence of 5q deletion or in combination with one other abnormality excluding -7/del(7q). Several studies have sought to unravel the biological processes triggered by del(5q) in the development of MDS, revealing the involvement of various genes localized in specific regions of chromosome 5 referred to as common d",
+        "journal": "European journal of haematology",
+        "year": "2024",
+        "authors": [
+          "Bruzzese Antonella",
+          "Martino Enrica Antonia",
+          "Mendicino Francesco",
+          "Lucia Eugenio",
+          "Olivito Virginia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Chromosome Deletion",
+          "Chromosomes, Human, Pair 5",
+          "Lenalidomide",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38294126/"
+      },
+      {
+        "pmid": "26123365",
+        "title": "New therapeutic approaches in myelodysplastic syndromes: Hypomethylating agents and lenalidomide.",
+        "abstract": "Recent advances in the treatment of myelodysplastic syndromes have come from the use of the hypomethylating agents decitabine and azacitidine as well as the immunomodulatory drug lenalidomide. Their clinical benefit has been demonstrated by randomized phase III clinical trials, mostly in high-risk and del(5q) myelodysplastic syndromes, respectively. Neither drug, however, appears to eradicate myelodysplastic stem cells, and thus they currently do not represent curative options. Here, we review data from both clinical and translational research on those drugs to identify their molecular and cellular mechanisms of action and to delineate paths for improved treatment allocation and further therapeutic advances in myelodysplastic syndromes.",
+        "journal": "Experimental hematology",
+        "year": "2015",
+        "authors": [
+          "Loiseau Clémence",
+          "Ali Ashfaq",
+          "Itzykson Raphael"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiogenesis Inhibitors",
+          "Animals",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Clinical Trials, Phase III as Topic",
+          "Decitabine",
+          "Humans",
+          "Lenalidomide",
+          "Myelodysplastic Syndromes",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26123365/"
+      },
+      {
+        "pmid": "28192601",
+        "title": "Lenalidomide use in myelodysplastic syndromes: Insights into the biologic mechanisms and clinical applications.",
+        "abstract": "Myelosysplastic syndromes (MDS) include a heterogeneous group of clonal myeloid neoplasms characterized by ineffective hematopoiesis leading to blood cytopenias and a variable risk of progression into acute myeloid leukemia (AML). Although the hypomethylating agent azacitidine prolongs survival among patients with higher risk (HR)-MDS compared with conventional care, no drug has been shown conclusively to prolong survival or delay progression to AML among patients with lower-risk MDS (LR-MDS). Lenalidomide is the drug with the most impressive clinical activity in the subset of anemic LR-MDS patients who harbor a deletion of the long arm of chromosome 5 (5q-), where it leads to high rates of transfusion independence and cytogenetic responses. Furthermore, lenalidomide delays progression to AML and prolongs survival among responders. In this article, we review the recently recognized mechanisms of action of lenalidomide and discuss the most recent clinical data regarding its use in patie",
+        "journal": "Cancer",
+        "year": "2017",
+        "authors": [
+          "Stahl Maximilian",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Chromosomes, Human, Pair 5",
+          "Disease Progression",
+          "Humans",
+          "Immunologic Factors",
+          "Lenalidomide",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28192601/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:07:53.062208",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,43 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "spondyloarthropathy, susceptibility to",
+    "query_string": "Celecoxib AND spondyloarthropathy, susceptibility to"
+  },
+  "data": {
+    "query": "Celecoxib AND spondyloarthropathy, susceptibility to",
+    "results": [
+      {
+        "pmid": "22528818",
+        "title": "A patient with Leiden V mutation, multiple sclerosis, psoriasis, and sicca syndrome: could celecoxib and fingolimod adversely affect the heart?",
+        "abstract": "The paper describes the case of a patient affected by a combination of genetic and autoimmune diseases (multiple sclerosis, psoriatic arthritis, Leiden V mutation, and sicca syndrome) and hypertension. The psoriatic arthritis was treated with celecoxib and multiple sclerosis with fingolimod. The patient developed high fever and endocarditis, resulting in severe mitral regurgitation, atrial fibrillation, and congestive heart failure. Evidence is suggestive of adverse effects of potent immunosuppressive and anti-inflammatory therapies with biologic agents and the cardiovascular system. Fingolimod increases susceptibility to infections and induced endocarditis resulting in severe mitral regurgitation, atrial fibrillation, and congestive heart failure. Managed care systems limit the contact among basic care physicians and specialists. However, the process by which the optimal decision may be reached for a patient with a complex pathology is shared decision making, where the risk of severe ",
+        "journal": "Cardiovascular toxicology",
+        "year": "2012",
+        "authors": [
+          "Cocco G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Arthritis, Psoriatic",
+          "Atrial Fibrillation",
+          "Autoimmune Diseases",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Drug Therapy, Combination",
+          "Factor V",
+          "Fingolimod Hydrochloride",
+          "Heart",
+          "Heart Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22528818/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:12:41.989896",
+  "success": true,
+  "error_message": null
+}

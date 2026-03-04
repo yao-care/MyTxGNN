@@ -1,0 +1,474 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "hemorrhoid"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02301052",
+      "title": "Double Blind Randomized Placebo-control Trial of Allium Ampeloprasum Spp.Iranicum Cream Effect for the Management of Hemorrhoids Symptoms",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2014-09",
+      "completion_date": "2014-12",
+      "country": "Iran",
+      "enrollment": 75,
+      "brief_summary": "Purpose of study is evaluation of Allium ampeloprasum Spp.Iranicum cream efficacy in management of symptomatic hemorrhoids in a double blind randomized placebo-control trial",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Participants having symptomatic hemorrhoids(GRADE 1-4) without need to emergency operation according to physical examination\n* Participants who do not use drugs other than the study drug and the control drug to treat their hemorrhoids during the study period:\n\nExclusion Criteri",
+      "endpoints": [
+        "pain (visual analogue scale(0-10))",
+        "bleeding ( questionnaire)",
+        "itching ( questionnaire)"
+      ],
+      "sponsor": "Shiraz University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT02301052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07159334",
+      "title": "Role of Topical Application of Lignocaine Versus 0.2% Glyceryl Trinitrate (GTN) Ointment as a Postoperative Local Analgesic in Hemorrhoidectomy in Terms of Pain Score,Wound Healing Time and Patient Satisfaction Level",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-08-02",
+      "completion_date": "2025-12",
+      "country": "Pakistan",
+      "enrollment": 64,
+      "brief_summary": "This study is being conducted at the Department of General Surgery, King Edward Medical University, Lahore, Pakistan. The purpose of the trial is to compare the effectiveness of topical Lignocaine ointment versus topical Glyceryl Trinitrate (GTN) ointment in reducing postoperative pain following hemorrhoidectomy.\n\nPatients undergoing hemorrhoidectomy will be randomly assigned to receive either Lignocaine ointment or GTN ointment applied locally after surgery. Pain relief will be assessed using a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 - 60 years\n* Both genders\n* Grade III and IV hemorrhoids diagnosed on the basis of history and clinical examination by consultant Surgeon.(Grade III Hemorrhoid manually reduced by patient with finger and Grade IV is prolapsed)\n* ASA (American society of Anesthes",
+      "endpoints": [
+        "Postoperative pain score",
+        "Wound Healing Time"
+      ],
+      "sponsor": "King Edward Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT07159334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05348200",
+      "title": "A Randomized, Dose-Ranging, Double Blind Study to Demonstrate the Safety and Efficacy of a CITI-002 Cream in the Seven Day Twice-Daily Treatment of Grade II or III Hemorrhoids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2022-04-22",
+      "completion_date": "2023-05-17",
+      "country": "United States",
+      "enrollment": 304,
+      "brief_summary": "A Randomized Phase 2 double blind study which aims to determine the safety and efficacy of CITI-002 cream in adult patients with Goligher's grade II or III hemorrhoids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or non-pregnant female 18 years of age or older.\n* Signs written informed consent for the study.\n* Females must be post-menopausal , surgically sterile , or use an effective method of birth control, or women of childbearing potential (WOCBP) must have a negative Urine Pre",
+      "endpoints": [
+        "Change in Hemorrhoid symptoms"
+      ],
+      "sponsor": "Citius Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05348200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03757078",
+      "title": "Prospective Multicenter Non-interventional Study of Fluocortolone + Lidocaine Formulation in Patients With Acute Hemorrhoids to Evaluate Changes in Symptoms Severity During the Course of Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-11-30",
+      "completion_date": "2019-10-20",
+      "country": "Russia",
+      "enrollment": 1000,
+      "brief_summary": "In this study researcher wanted to learn more about the changes of biggest twisted and bulging veins in the rectal area (hemorrhoids) and changes of symptoms during a treatment period with the cream Relief Pro and suppositories Relief Pro. The study collected information on the treatment satisfaction of patients and their physicians with the prescribed treatment by using questionnaires. There were 3 visits at the physician's clinic for this study: one initial visit and 2 follow-up visits over a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male \\& female patients 18 to 65 years old;\n* Patients with acute hemorrhoids 1 and 2 stage (with thrombosis (external, internal, mixed), including cases with bleeding);\n* Prescription of fluocortolone + lidocaine as a part of routine clinical practice.\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "Severity of pain (VAS: Visual Analogue Scale)",
+        "Severity of bleeding (according to 4-point Likert scale)",
+        "Severity of pruritus (according to 4-point Likert scale)"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT03757078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06420388",
+      "title": "Efficacy of 2% Lidocaine Gel in Reducing Postoperative Pain and Analgesic Consumption Following Haemorrhoidectomy: A Randomized, Double-Blind, Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-05-01",
+      "completion_date": "2024-10-01",
+      "country": "Taiwan",
+      "enrollment": 400,
+      "brief_summary": "The study is a randomized, double-blind, controlled trial evaluating the efficacy of 2% lidocaine gel in reducing postoperative pain and analgesic consumption after haemorrhoidectomy. 222 patients undergoing Ferguson haemorrhoidectomy will be randomly assigned to receive either 2% lidocaine gel or a non-anaesthetic lubricant gel control. Pain scores using a visual analog scale (VAS) will be assessed at 12 and 24 hours, and 2, 3, and 7 days postoperatively. Analgesic consumption will also be meas",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Diagnosed with Grade III or IV hemorrhoids\n* Candidate for Ferguson haemorrhoidectomy\n\nExclusion Criteria:\n\n* Not a candidate for Ferguson haemorrhoidectomy\n* Recurrent hemorrhoidal disease\n* Concurrent anal pathology diagnosed preoperatively, including",
+      "endpoints": [
+        "Postoperative pain"
+      ],
+      "sponsor": "E-DA Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06420388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03345511",
+      "title": "Ultrasound Guided Analgesic Caudal Block in Anal Canal Surgery",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11-01",
+      "completion_date": "2016-06-30",
+      "country": "Colombia",
+      "enrollment": 23,
+      "brief_summary": "Interventional study that evaluate analgesia and side effects of Ultrasound guided Caudal block preoperatively in benign canal anal surgery",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age from 18 to 70 year old patient\n* schedule for benign anal surgery ( hemorrhoids, anal fistula, fissure or abcess )\n* Caudal analgesic injection before surgery\n* Use of ultrasound to guide needle insertion into caudal space\n\nExclusion Criteria:\n\n* cognitive impairment\n* ver",
+      "endpoints": [
+        "postoperative pain intensity (P3). Self reported pain intensity at 6, 12 and 24 hours after surgery."
+      ],
+      "sponsor": "Universidad de Antioquia",
+      "url": "https://clinicaltrials.gov/study/NCT03345511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04896268",
+      "title": "Prospective, Multicentric, Randomized, Open-label Study Comparing the Efficacy, in Terms of Quality of Life, and Safety of RAdiofrequency Versus HAL- RAR DOppler in Hemorrhoidal Pathology",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-01-03",
+      "completion_date": "2025-08",
+      "country": "France",
+      "enrollment": 100,
+      "brief_summary": "Haemorrhoids are composed of tissue rich in blood vessels and are present in all individuals inside the anus (internal haemorrhoids) or under the skin of the anus (external haemorrhoids). Haemorrhoidal disease (HD) occurs when haemorrhoids become troublesome and cause symptoms such as pain, bleeding, prolapse or oozing. In case of failure of medical treatment, instrumental procedures or extensive disease, surgical treatment can be considered. There are two classic surgical techniques. The first ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female consulting for hemorrhoidal pathology (grade II or III) after failure of medico-instrumental treatments.\n* Age ≥ 18 years and \\< 75 years\n* Mandatory affiliation to a health insurance system.\n* Patient having been informed of the study and having given informed ",
+      "endpoints": [
+        "To demonstrate an increase in quality of life, at 1 month post-procedure, when haemorrhoidal disease is managed with radiofrequency versus HAL-RAR with Doppler"
+      ],
+      "sponsor": "Elsan",
+      "url": "https://clinicaltrials.gov/study/NCT04896268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07295886",
+      "title": "Observational Study on the Use of Topical Nifedipine 0.3% and Lidocaine 1.5% in Acute Uncomplicated Hemorrhoidal Disease",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-09-02",
+      "completion_date": "2026-05-02",
+      "country": "Italy",
+      "enrollment": 80,
+      "brief_summary": "The goal of this observational study is to evaluate the effectiveness of topical nifedipine 0.3% plus lidocaine 1.5% for uncomplicated hemorrhoidal disease. The main question it aims to answer is:\n\nDoes topical nifedipine 0.3% plus lidocaine 1.5% lower symptoms in patients with uncomplicated acute hemorrhoidal disease? Participants already taking nifedipine 0.3% plus lidocaine 1.5% as part of their regular medical care for hemorrhoidal disease will undergo four visits over a 30-day period, inclu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients aged 18-75 years.\n* Clinical or anoscopic diagnosis of acute hemorrhoidal disease with prolapse severity between Grade II and IV (Goligher), possibly associated with external congestion.\n* Patients who started treatment with nifedipine 0.3% + lidocaine",
+      "endpoints": [
+        "Change in HDSS (hemorrhoidal disease symptom score) questionnaire, analyzed using paired t-test or Wilcoxon signed-rank test according to data distribution. The total HDSS ranges from 0 to 20, with higher scores indicating greater symptom severity."
+      ],
+      "sponsor": "Cardarelli Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07295886"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03105674",
+      "title": "Multi-drug Analgesia Versus Standard Solution for Perianal Block - A Prospective Study to Determine the Efficacy, Cost and Narcotic Consumption in the Post-operative Period",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2017-05-01",
+      "completion_date": "2017-12",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The primary aim is to test the magnitude and duration of analgesia provided by single dose multi-drug analgesia administered for perianal block, and compare with standard solution (Marcaine \\& Lidocaine in 1:1 mixture - Total 60 ml), at post-operative period and also to compare with the standard solution including their respective post-operative opioid or non-opioid oral analgesic requirement. Local anesthesia via a perianal block using multi-drug analgesia or standard solution will be compared ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and nonpregnant women aged 18 years or older scheduled to undergo anorectal procedures\n* Female patients must be postmenopausal, surgically sterile, or willing to use acceptable means of contraception for at least 30 days after surgery.\n* Patients will be required to have ",
+      "endpoints": [
+        "Score on Numeric Pain Rating Scale"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT03105674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03298997",
+      "title": "Comparison Between the Ligation and Hemorrhoidopexy Technique and the Conventional Ligation of Hemorrhoidal Arteries Using Ultrasound: a Prospective, Randomized Controlled Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-10-01",
+      "completion_date": "2020-07-15",
+      "country": "Greece",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to compare two techniques for treating hemorrhoids, the ligation and hemorrhoidopexy technique and the conventional ligation of hemorrhoidal arteries using ultrasound, in patients with non-complicated hemorrhoids.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Μale or female\n* Age: 18 to 80 years\n* American Society of Anesthesiologists (ASA) score: I and II\n* Grade I, II, and III hemorrhoids\n\nExclusion Criteria:\n\n* Acute perianal diseases, such as perianal abscesses, complicated hemorrhoids (e.g., thrombosis) and acute anal fissure\n",
+      "endpoints": [
+        "Symptoms Remission Rate"
+      ],
+      "sponsor": "Larissa University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03298997"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00617448",
+      "title": "Ligasure™ Versus Diathermy Haemorrhoidectomy Under Spinal or Local Anaesthesia With Ropivacaine. A Randomized Study With One Year Follow-up",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2007-06",
+      "country": "Spain",
+      "enrollment": 81,
+      "brief_summary": "The objective of this prospective randomised trial was to compare the short- and long-term efficacy of conventional diathermy haemorrhoidectomy versus Ligasure™ diathermy, and to assess the short-term outcome of each procedure performed either under spinal anaesthesia or local anaesthesia with pudendal block with ropivacaine combined with intravenous sedation.\n\nWe think, Ligasure haemorrhoidectomy under local anesthesia can be performed as day-case procedure and with equal results at long-term t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with a long-standing history of symptomatic grade III or IV haemorrhoids\n\nExclusion Criteria:\n\n* previous anal surgery, concomitant anal disease (fissure, fistula, incontinence and inflammatory bowel disease), use of anticoagulants or analgesics, known hypersensitivit",
+      "endpoints": [
+        "all cause morbility within the first 7 days after surgery (consequence of surgery and anesthesia) and results sintomatology since 12 months"
+      ],
+      "sponsor": "Hospital de Viladecans",
+      "url": "https://clinicaltrials.gov/study/NCT00617448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05965674",
+      "title": "The Effect of Sacral Erector Spinae Plane Block on Post-Hemorrhoidectomy Pain",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-06-01",
+      "completion_date": "2023-07-07",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 35,
+      "brief_summary": "Hemorrhoids are commonly observed surgical conditions affecting the anorectal area, characterized by symptoms such as pain, bleeding, and the presence of a protruding mass from the anal opening. Fear of postoperative pain is one of the most important factors for patients to avoid surgical interventions. Postoperative pain is a significant concern, with over 80% of patients encountering moderate to severe pain.\n\nThe main aim is to evaluate ESPB from the sacral level would result in effective anal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* being between the ages of 18 and 65,\n* having an ASA status of 1-2.\n\nExclusion Criteria:\n\n* under the age of 18, pregnant individuals,\n* significant hematopoietic, cardiovascular, liver, or kidney disorders,\n* patients unable to comply with medical instructions, individuals on",
+      "endpoints": [
+        "pain intensity at rest and in motion evaluated with an NRS (0-10, 0 = no pain, 10 = worst pain) at 0, 2, 4, 6, 12, and 24h."
+      ],
+      "sponsor": "Konya City Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05965674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02689856",
+      "title": "A Randomized, Dose-Ranging, Double Blind Study of Lidocaine Hydrochloride and/or Hydrocortisone Acetate (Alone or in Combination) in the 14-Day Twice-Daily Treatment of Grade I or II Hemorrhoids",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-05",
+      "completion_date": "2015-10",
+      "country": "N/A",
+      "enrollment": 211,
+      "brief_summary": "The objectives of this study are to assess the potential contribution of lidocaine hydrochloride or hydrocortisone acetate, alone or in combination, in topical cream preparations in the treatment of Grade I or II hemorrhoids and to demonstrate the safety and efficacy of the test articles when applied twice daily for 14 days in subjects with Grade I or II hemorrhoids. These products reflect common drug combinations of lidocaine hydrochloride or hydrocortisone acetate found in many prescription he",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject is male or non-pregnant female 18 years of age or older, in generally good health. Females must be post-menopausal, surgically sterile or have a negative urine pregnancy test (UPT) at the Baseline Visit and agree to use birth control during the study.\n2. Subject has p",
+      "endpoints": [
+        "Global score of disease severity"
+      ],
+      "sponsor": "Citius Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02689856"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02961855",
+      "title": "Double-blinded Multicenter Randomized Clinical Trial to Evaluate the Efficacy and Safety of CLIFE1 and CLIFE2 Gels in Benign Anorectal Surgery",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-01",
+      "completion_date": "2013-12",
+      "country": "N/A",
+      "enrollment": 120,
+      "brief_summary": "Double-blinded multicenter randomized clinical trial to evaluate the efficacy and safety of CLIFE2 (lidocaine, referred as treatment A) respect CLIFE1 (lidocaine plus diclofenac, referred as treatment B) in benign anorectal surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing benign anorectal surgery (out or inpatients), with the following diagnoses: anal fissure, fistula, hemorrhoids\n* Use of subarachnoid anesthesia with lidocaine\n\nExclusion Criteria:\n\n* Allergy or Hypersensitivity to lidocaine or other local anesthesics.\n* Pat",
+      "endpoints": [
+        "mean level of pain, as assessed by visual analog scale (VAS)"
+      ],
+      "sponsor": "Hospital de Viladecans",
+      "url": "https://clinicaltrials.gov/study/NCT02961855"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04588467",
+      "title": "Thrombosed External Haemorrhoids During Pregnancy: Surgery Versus Conservative Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-01-02",
+      "completion_date": "2020-10-02",
+      "country": "Russia",
+      "enrollment": 35,
+      "brief_summary": "Thrombosis of the external hemorrhoids (TEH) is one of the most frequent complain during pregnancy, particularly during the third trimester.\n\nThe paucity of the medical literature on this topic has recently been underlined in the European guidelines for hemorrhoid treatment .\n\nThe aim of this prospective study is to compare the efficacy and safety of conservative versus surgical treatment of TEH in pregnant women",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnancy\n* Thrombosed external haemorrhoids\n* Written consent\n\nExclusion Criteria:\n\n* Inflammatory bowel disease\n* Cancer\n* Age lower than 18 years old",
+      "endpoints": [
+        "Pain evaluation: scale",
+        "Quality of Life evaluation: questionnaire"
+      ],
+      "sponsor": "Russian Society of Colorectal Surgeons",
+      "url": "https://clinicaltrials.gov/study/NCT04588467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04276298",
+      "title": "A Prospective, Multicentre, Double-Blinded Randomised Controlled Trial Comparing Topical Metronidazole, Diltiazem and Lidocaine on Post-Operative Pain Following Excisional Haemorrhoidectomy",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-09-01",
+      "completion_date": "2022-02-01",
+      "country": "New Zealand",
+      "enrollment": 192,
+      "brief_summary": "Symptomatic haemorrhoids, or piles, have significant effects on quality of life. The treatment for advanced disease is surgical excision (haemorrhoidectomy) which is extremely effective. However, pain following haemorrhoidectomy is known by all to be a miserable experience and current treatment is not very effective. We have formulated a new cream treatment which targets three theorised mechanisms of pain after haemorrhoidectomy. We will test the effectiveness of the treatments with a multi-cent",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥16\n* All patients undergoing excisional haemorrhoidectomy\n\nExclusion Criteria:\n\n* Age \\<16,\n* history of chronic pain,\n* drug allergy or idiosyncracies to any actives or excipients in\n* cream,\n* breastfeeding,\n* any medical history which is a contraindication to any of me",
+      "endpoints": [
+        "Pain scores",
+        "Amount of analgesic use"
+      ],
+      "sponsor": "University of Auckland, New Zealand",
+      "url": "https://clinicaltrials.gov/study/NCT04276298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00503269",
+      "title": "Cost Effectiveness of Local Anaesthetic Day Surgical Haemorrhoidectomy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2007-07",
+      "country": "United Kingdom",
+      "enrollment": 42,
+      "brief_summary": "Background: Local anaesthetic day-care open haemorrhoidectomy (LH) is feasible, cheap and may be the cost-effective surgical approach to third degree haemorrhoids. This prospective randomised controlled trial compares patient's evaluation of LH with general anaesthetic day-care Park's modified Milligan-Morgan haemorrhoidectomy (GH).\n\nMethods: 41 patients with third degree haemorrhoids were randomised to LH (19 cases) and GH (22 cases). Demographics were comparable. Independent assessment (by a r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Third degree haemorrhoids\n\nExclusion Criteria:\n\n* Unfit for day-surgery or general anaesthesia.",
+      "endpoints": [
+        "Average pain and expectation score."
+      ],
+      "sponsor": "East Kent Hospitals University NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT00503269"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04017845",
+      "title": "Screening for Colorectal Cancer in Average and High Risk Iraqi Population: A Pilot Study",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-04-01",
+      "completion_date": "2017-10-30",
+      "country": "Iraq",
+      "enrollment": 537,
+      "brief_summary": "The existing evidence from epidemiological studies and randomized controlled trials has consistently assures the cost effectiveness and the influential role of screening in reducing incidence rates and deaths caused by Colorectal Cancer (CRC). Population based organized screening programmes, which should be considered an obligation that is not to be postponed, require valuable information that can be reliably extrapolated from well-designed pilot study conducted prior to programme implementation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* residents of Baghdad city\n* being ≥45 years of age with stop age of 80 years.\n\nExclusion Criteria:\n\n* history of inflammatory bowel disease (IBD).\n* colonoscopy (CS)/flexible sigmoidoscopy (FS)/ double contrast barium enema (DCBE) performed within the last year.\n* persistent a",
+      "endpoints": [
+        "prevalence of causes accounting for population disagreement to participate in screening. programme.",
+        "Prevalence of CRC risk factors and risk stratification in target population.",
+        "Performance Indicators of Fecal Immunochemical Test (FIT)"
+      ],
+      "sponsor": "Al-Kindy College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT04017845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02130830",
+      "title": "Topical Anesthesia Versus Placebo to Decrease Post Procedure Pain in Rubber Band Ligation for the Treatment of Grade I - III Symptomatic Internal Hemorrhoids. A Single Institution, Double Blinded, Placebo Controlled Trial.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-05",
+      "completion_date": "2016-05",
+      "country": "Chile",
+      "enrollment": 80,
+      "brief_summary": "Rubber band ligation is a simple and effective procedure for the management of hemorrhoidal disease. However, 90% of patients have some degree of discomfort associated with the procedure and up to 40% develop clinically significant pain. Some studies have used local anesthesia to reduce pain with promising results, but the use of topical anesthesia has not been reported before.\n\nThe investigators hypothesize that the use of topical anesthesia before rubber band ligation significantly reduces pos",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic grade I - III hemorrhoidal disease\n\nExclusion Criteria:\n\n* Chronic liver disease\n* Use of class 3 antiarrythmics\n* Coagulopathy\n* Grade IV hemorrhoidal disease\n* Inflammatory bowel disease\n* Pregnancy",
+      "endpoints": [
+        "Pain measured in analog visual scale"
+      ],
+      "sponsor": "Pontificia Universidad Catolica de Chile",
+      "url": "https://clinicaltrials.gov/study/NCT02130830"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01961739",
+      "title": "Double Blinded Randomized Clinical Trial of the Efficacy of Topical 2% Lidocaine for the Treatment of Symptomatic Hemorrhoids",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2013-10",
+      "completion_date": "2014-03",
+      "country": "Croatia",
+      "enrollment": 138,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of topical 2% lidocaine in the therapy of symptomatic hemorrhoids. Efficacy will be determined by:\n\n1. the change from baseline in pain, itching, bleeding, swelling, discomfort, general well-being and improvement since the beginning of treatment as separate components of CORRECTS scale\n2. the change in overall CORRECTS values from baseline\n3. the change in degree of hemorrhoids from baseline",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinically present enlarged hemorrhoids, grade 1-4 (for definition see Appendix 1)\n* symptoms of pain or itching\n* age 18 years or more\n* willing and able to comply with the study\n* geographically suitable, meaning with reliable transportation for outpatients to the testing si",
+      "endpoints": [
+        "Change in CORRECTS scale"
+      ],
+      "sponsor": "University Hospital Dubrava",
+      "url": "https://clinicaltrials.gov/study/NCT01961739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04031131",
+      "title": "The Use of Topical Anaesthetic in the Banding (TAB) of Internal Haemorrhoids: A Feasibility Study.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-10-17",
+      "completion_date": "2020-03-01",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "The investigators' aim is to assess if they can complete a study measuring the effect of local anaesthetic gel (Instillagel) on reducing pain experienced by patients undergoing a common treatment for haemorrhoids (piles). This treatment is called rubber band ligation and is commonly performed in the investigators'clinics.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic grade 1-3 haemorrhoid disease, 18+ years old, English is the first language.\n\nExclusion Criteria:\n\n* Allergy to active ingredients of Instillagel, Allergy to local anaesthetic, Chronic liver disease, Grade 4 haemorrhoid disease, Pregnancy, Inflammatory bowel diseas",
+      "endpoints": [
+        "Patient recruitment rate",
+        "Treatment acceptability to patients",
+        "Patient retention"
+      ],
+      "sponsor": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04031131"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07026513",
+      "title": "Observational Study on the Effectiveness of a First-line Therapy With Aminaphtone and Lidocaine Cream in Patients With Hemorrhoidal Disease: a Prospective Monocentric Cohort Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-05-08",
+      "completion_date": "2025-07-31",
+      "country": "Italy",
+      "enrollment": 50,
+      "brief_summary": "This observational study, called ORACLE (ORal Aminaphtone and Combined LidocainE), is being conducted at Treviso Regional Hospital (Italy) to evaluate the effectiveness of a first-line treatment for patients with internal hemorrhoidal disease (HD). The study focuses on a combination therapy using an oral drug, aminaphtone (Capillarema®), and a topical cream with lidocaine (Octosedan®), compared to standard conservative care.\n\nHemorrhoidal disease is a common condition that can cause bleeding, di",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged 18 to 85 years\n* Diagnosis of symptomatic internal hemorrhoidal disease (Grade I-IV, Goligher classification)\n* First outpatient consultation for current symptoms\n* Written informed consent provided\n\nExclusion Criteria:\n\n* Active proctologic conditions (e.g., anal ",
+      "endpoints": [
+        "HDSS"
+      ],
+      "sponsor": "Treviso Regional Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07026513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04981600",
+      "title": "LaseRF Trial: Radiofrequency Ablation vs. Laser Hemorrhoidoplasty Procedure for Grade II-III Hemorrhoidal Disease: Prospective Randomised Controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-08-23",
+      "completion_date": "2023-04-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 92,
+      "brief_summary": "Hemorrhoids, which can be defined as \"vascular cushions\" located at the anorectal junction, constitute an important part of the physiological continence mechanism. However, under various pathological conditions, they can expand below the dentate line and consequently are defined as hemorrhoidal disease, which is characterized by various symptoms such as bleeding, pain and itching. An ideal treatment should be effective in the long term, require less intervention to the surrounding structures, ha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Symptomatic patients who applied to the general surgery outpatient clinic due to stage 2 or 3 hemorrhoidal disease, unresponsive to medical treatment\n* Patients who have not undergone any previous surgery due to hemorrhoidal disease\n* Patients with written informed voluntary c",
+      "endpoints": [
+        "Rate of Healing",
+        "Change in Visual analog score (VAS) at 4 weeks"
+      ],
+      "sponsor": "Umraniye Education and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04981600"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03797703",
+      "title": "Efficacy of Lidocaine Gel Enema After Endoscopic Hemorrhoid Band Ligation for Relief of Post Procedural Pain",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-11-26",
+      "completion_date": "2020-06-05",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "This is a prospective study to assess the utility of Lidocaine Hydrochloride 2% gel enema (Hi-Tech Pharmacal Co., Inc.) in reducing post-procedural pain after endoscopic band ligation of internal hemorrhoids. Briefly, patients will be consented prior to entry into the study. During the endoscopic band ligation procedure, patients will be blindly placed into the treatment arm or control arm. The treatment arm will receive 15 ml enema of lidocaine gel immediately upon cessation of the procedure. I",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years of age\n* Patients undergoing endoscopic hemorrhoid band ligation at Advocate Christ Medical Center\n\nExclusion Criteria:\n\n* Patients undergoing endoscopic hemorrhoids band ligation who are already on pain medications chronically due to other reasons",
+      "endpoints": [
+        "Change in Pain following Procedure at 1 hour, 24 hours and 48 hours"
+      ],
+      "sponsor": "Wake Forest University Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03797703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04000191",
+      "title": "Numb the Bum: Ice as an Adjunct for Local Anesthesia During Anorectal Surgeries",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2020-10",
+      "completion_date": "2021-04",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to determine, among patients receiving elective anorectal surgery, does application of ice to the perianal area prior to the procedure, lead to use of decreased amounts of intravenous (IV) anesthesia? Anorectal surgeries for hemorrhoids, fistulas and fissures are done on an outpatient basis under monitored anesthesia care. This means patients get sedating medications through an IV but often do not require intubation. The difficulty with monitored anesthesia is balanc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Patient with planned minor elective colorectal surgery (eg for hemorrhoids, perianal abscess, fistula in ano, anal fissure, pilonidal cysts, or anal condyloma)\n\nExclusion Criteria:\n\n-Patient who requires general anesthesia as part of the initial anesthesia plan",
+      "endpoints": [
+        "Amount of drugs administered to each participant"
+      ],
+      "sponsor": "Boston Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04000191"
+    }
+  ],
+  "timestamp": "2026-03-04T15:56:52.683608",
+  "success": true,
+  "error_message": null
+}

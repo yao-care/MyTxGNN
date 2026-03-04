@@ -1,0 +1,541 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Chloramphenicol",
+    "disease": "Q fever",
+    "query_string": "Chloramphenicol AND Q fever"
+  },
+  "data": {
+    "query": "Chloramphenicol AND Q fever",
+    "results": [
+      {
+        "pmid": "4718845",
+        "title": "Q-fever endocarditis.",
+        "abstract": "",
+        "journal": "British medical journal",
+        "year": "1973",
+        "authors": [
+          "Hart R J",
+          "Shaw D B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Bacterial",
+          "Chloramphenicol",
+          "Endocarditis, Bacterial",
+          "Humans",
+          "Male",
+          "Q Fever",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4718845/"
+      },
+      {
+        "pmid": "7932487",
+        "title": "Q fever: an issue in occupational health & safety? An overview of the methods of control and the effects of Coxiella burnetii on the human host.",
+        "abstract": "Q Fever has proved to be a virulent infectious disease for a great many years. A number of epidemics have occurred among laboratory workers engaged in research on C burnetii but few fatalities have been recorded and the course of the disease is generally uncomplicated and benign (Braunwald et al, 1987). By following the recommendations of a large number of scientists, implementing and maintaining basic control measures, the risk of contamination will be kept at a minimum.",
+        "journal": "Journal of the Royal Society of Health",
+        "year": "1994",
+        "authors": [
+          "Ross C",
+          "Morrow P S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bacterial Vaccines",
+          "Chloramphenicol",
+          "Coxiella burnetii",
+          "Disease Reservoirs",
+          "Humans",
+          "Infection Control",
+          "Occupational Diseases",
+          "Q Fever",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7932487/"
+      },
+      {
+        "pmid": "22856156",
+        "title": "[Present stage of chemotherapy and chemoprophylaxis of rickettsiosis and Q fever].",
+        "abstract": "The analysis of the published experimental and clinical data on chemoprophylaxis and chemotherapy of rickettsiosis and Q fever confirmed the preserved role of doxycycline, the main drug of choice in the treatment of the diseases, then followed chloramphenicol. Macrolides, such as azithromycin and clarithromycin proved to be useful in pediatric practice and the treatment of pregnant women with rickettsiosis. The treatment of acute and chronic Q fever required the use of doxycycline, fluoroquinolobes, co-trimoxazole and hydroxachloroquine in combined therapy. It is concluded that in vivo studies of novel drugs and investigation of prospective macrolides and fluoroquinolones are necessary. Clinical trials of a new glycycline, i.e. tigecycline, which experimentally showed highy strong activity against the Q fever pathogen, should be accelerated.",
+        "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+        "year": "2011",
+        "authors": [
+          "Iakovlev E A",
+          "Lukin E P",
+          "Borisevich S V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chemoprevention",
+          "Chloramphenicol",
+          "Clarithromycin",
+          "Doxycycline",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Macrolides",
+          "Minocycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22856156/"
+      },
+      {
+        "pmid": "15434718",
+        "title": "Chronic relapsing Q fever: treatment with streptomycin aureomycin, and chloramphenicol.",
+        "abstract": "",
+        "journal": "California medicine",
+        "year": "1950",
+        "authors": [
+          "CHUDNOFF J S",
+          "BOWER A G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Q Fever",
+          "Recurrence",
+          "Streptomycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15434718/"
+      },
+      {
+        "pmid": "14931751",
+        "title": "An outbreak of Q fever. II. Treatment with aureomycin and chloramphenicol.",
+        "abstract": "",
+        "journal": "United States Armed Forces medical journal",
+        "year": "1952",
+        "authors": [
+          "FELLERS F X"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Disease Outbreaks",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14931751/"
+      },
+      {
+        "pmid": "37382236",
+        "title": "Q fever represented as multiple pulmonary nodules: a case report.",
+        "abstract": "Q fever is an important zoonotic disease caused by the pathogen Coxiella burnetii, which is inhaled into the body through the respiratory tract leading to acute symptoms. Severe acute Q fever may result in complications, such as pneumonia, hepatitis, or myocarditis, and some patients may develop chronic Q fever after incomplete treatment. Local persistent C. burnetii infection may lead to chronic Q fever that often requires surgery and anti-infection treatment for several years, seriously endangering patient health and increasing the economic burden for families. The clinicians' lack of awareness of the disease may be one reason leading to a delay in treatment. Here, a case of Q fever in a 53-year-old male patient, which was diagnosed by next generation sequencing and exhibited a distinct computed tomographic feature, is reported, with the aim of improving clinical knowledge of this disease. Following diagnosis, the patient was treated with 0.1 g doxycycline, orally, twice daily, and 0",
+        "journal": "The Journal of international medical research",
+        "year": "2023",
+        "authors": [
+          "Zhai Yu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Animals",
+          "Humans",
+          "Middle Aged",
+          "Q Fever",
+          "Multiple Pulmonary Nodules",
+          "Zoonoses",
+          "Chloramphenicol",
+          "Doxycycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37382236/"
+      },
+      {
+        "pmid": "5649450",
+        "title": "Q fever endocarditis.",
+        "abstract": "",
+        "journal": "American heart journal",
+        "year": "1968",
+        "authors": [
+          "Grist N R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Chloramphenicol",
+          "Endocarditis, Bacterial",
+          "England",
+          "Female",
+          "Heart Valve Prosthesis",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5649450/"
+      },
+      {
+        "pmid": "14948558",
+        "title": "[Chloramphenicol therapy of Q fever].",
+        "abstract": "",
+        "journal": "Il Policlinico. Sezione pratica",
+        "year": "1952",
+        "authors": [
+          "SCURO L A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Humans",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14948558/"
+      },
+      {
+        "pmid": "14898080",
+        "title": "A comparison by means of the complement-fixation test of the relative potencies of chloramphenicol, aureomycin, and terramycin in experimental Q fever infections in embryonated eggs.",
+        "abstract": "",
+        "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+        "year": "1951",
+        "authors": [
+          "ORMSBEE R A",
+          "PICKENS E G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Complement Fixation Tests",
+          "Oxytetracycline",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14898080/"
+      },
+      {
+        "pmid": "2665989",
+        "title": "Rickettsial diseases.",
+        "abstract": "The rickettsioses have several unifying features. Arthropod vectors are the common means of transmission. Fever, headache, myalgias, and the characteristic eruption (except in Q fever and ehrlichioses) are the hallmarks of the clinical presentation. The diseases share a common pathogenesis, namely, vasculitis, and treatment uniformly consists of tetracycline or chloramphenicol. Distinguishing aspects of these processes include the multitude of different reservoirs, the progression of the rash, and the nonspecific antigen test (Weil-Felix) results.",
+        "journal": "Dermatologic clinics",
+        "year": "1989",
+        "authors": [
+          "McCalmont C",
+          "Zanolli M D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rickettsiaceae Infections",
+          "Skin Diseases, Infectious",
+          "Vasculitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2665989/"
+      },
+      {
+        "pmid": "13139179",
+        "title": "Treatment of Q fever with antibiotics.",
+        "abstract": "",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "1952",
+        "authors": [
+          "CLARK W H",
+          "LENNETTE E H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Penicillins",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13139179/"
+      },
+      {
+        "pmid": "4167098",
+        "title": "Medical and surgical treatment of Q-fever endocarditis.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1967",
+        "authors": [
+          "Kristinsson A",
+          "Bentall H H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aortic Valve Insufficiency",
+          "Aortic Valve Stenosis",
+          "Chloramphenicol",
+          "Complement Fixation Tests",
+          "Female",
+          "Heart Valve Prosthesis",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4167098/"
+      },
+      {
+        "pmid": "8167358",
+        "title": "Minimizing the risk of Q fever in the hospital setting.",
+        "abstract": "Q fever is caused by a rickettsial microorganism (Coxiella burnetii) harboured in sheep. The highest concentration of organisms are found in birth products. It is a very contagious organism which humans can contract by inhaling aerosolized organisms. Most commonly it leads to an acute 'flu-like illness. Rarely, chronic disease with endocarditis is fatal. Infected patients should be treated with tetracyclines or chloramphenicol. A number of outbreaks have been reported in hospital and research settings. Because of the fear of patients and staff contracting Q fever, Hospital Research Review Boards have increasingly resisted the presence of sheep in medical facilities. The authors have reviewed the circumstances leading to these outbreaks and believe researchers can minimize the risk of Q fever. The most important precautions are to use sheep only from Q fever controlled flocks and, depending on the nature of the research, only male sheep.",
+        "journal": "The Canadian journal of infection control : the official journal of the Community & Hospital Infection Control Association-Canada = Revue canadienne de prevention des infections",
+        "year": "1994",
+        "authors": [
+          "Perry S",
+          "Dennie C J",
+          "Coblentz C L",
+          "Cleland S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Academies and Institutes",
+          "Animals",
+          "Cross Infection",
+          "Disease Models, Animal",
+          "Disease Outbreaks",
+          "Female",
+          "Humans",
+          "Infection Control",
+          "Male",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8167358/"
+      },
+      {
+        "pmid": "11980285",
+        "title": "Community-acquired pneumonia: role of atypical organisms.",
+        "abstract": "M. pneumoniae infection occurs world-wide and is the most common cause of community-acquired pneumonia (CAP) in the 5 to 20 year-old age group. The most reliable diagnostic test is enzyme immunoassay that allows immunoglobulin (Ig)G and IgM titration and presents 92% sensitivity and 95% specificity on paired samples. Potentially active drugs are tetracyclines, macrolides, ketolides, lincosamides, streptogamines, chloramphenicol, and fluoroquinolones. The incidence of Legionella infection, in spite of its world-wide diffusion, is highly variable in different studies, ranging from 1% to 27% of CAP. The most likely mode of transmission is direct inhalation from Legionella-contaminated water-supply systems. Extrapulmonary manifestations are relatively common but nonspecific. However, some signs and symptoms may raise the suspicion of Legionella infection: a sputum Gram stain with a high number of neutrophils without any organism, hyponatremia, and diarrhea in a critically ill patient. Urin",
+        "journal": "Monaldi archives for chest disease = Archivio Monaldi per le malattie del torace",
+        "year": "2001",
+        "authors": [
+          "Cosentini R",
+          "Tarsia P",
+          "Blasi F",
+          "Roma E",
+          "Allegra L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Community-Acquired Infections",
+          "Humans",
+          "Legionnaires' Disease",
+          "Pneumonia, Bacterial",
+          "Pneumonia, Mycoplasma",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11980285/"
+      },
+      {
+        "pmid": "28066723",
+        "title": "Coxiella burnetii Employs the Dot/Icm Type IV Secretion System to Modulate Host NF-κB/RelA Activation.",
+        "abstract": "Coxiella burnetii is the causative agent of Q fever and an obligate intracellular pathogen in nature that survives and grows in a parasitophorous vacuole (PV) within eukaryotic host cells. C. burnetii promotes intracellular survival by subverting apoptotic and pro-inflammatory signaling pathways that are typically regulated by nuclear transcription factor-κB (NF-κB). We and others have demonstrated that C. burnetii NMII proteins inhibit expression of pro-inflammatory cytokines and induce expression of anti-apoptotic genes during infection. Here, we demonstrate that C. burnetii promotes intracellular survival by modulating NF-κB subunit p65 (RelA) phosphorylation, and thus activation, in a Type Four B Secretion System (T4BSS)-dependent manner. Immunoblot analysis of RelA phosphorylated at serine-536 demonstrated that C. burnetii increases NF-κB activation via the canonical pathway. However, RelA phosphorylation levels were even higher in infected cells where bacterial protein or mRNA sy",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2016",
+        "authors": [
+          "Mahapatra Saugata",
+          "Gallaher Brandi",
+          "Smith Sydni Caet",
+          "Graham Joseph G",
+          "Voth Daniel E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Bacterial Proteins",
+          "Cell Line",
+          "Chloramphenicol",
+          "Coxiella burnetii",
+          "Epithelial Cells",
+          "HeLa Cells",
+          "Host-Parasite Interactions",
+          "Humans",
+          "Mutation",
+          "NF-kappa B"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28066723/"
+      },
+      {
+        "pmid": "15390569",
+        "title": "Chemotherapy in viral and rickettsial disease.",
+        "abstract": "Aureomycin and chloromycetin have now been used in a number of viral and rickettsial diseases and have gone far toward fulfilling their original promise. In local trials aureomycin has been shown to be a very effective drug in primary atypical pneumonia, and a valuable drug in Q fever. A small number of cases of psittacosis appear to have responded favorably to aureomycin. The search for chemotherapeutic compounds which may be effective in other viral diseases has been sharply stimulated by these developments.",
+        "journal": "California medicine",
+        "year": "1949",
+        "authors": [
+          "MEIKLEJOHN G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Chlortetracycline",
+          "Drug Therapy",
+          "Humans",
+          "Influenza, Human",
+          "Mycoplasma Infections",
+          "Pneumonia, Mycoplasma",
+          "Psittacosis",
+          "Q Fever",
+          "Rickettsia Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15390569/"
+      },
+      {
+        "pmid": "19114492",
+        "title": "Characterization of a Coxiella burnetii ftsZ mutant generated by Himar1 transposon mutagenesis.",
+        "abstract": "Coxiella burnetii is a gram-negative obligate intracellular bacterium and the causative agent of human Q fever. The lack of methods to genetically manipulate C. burnetii significantly impedes the study of this organism. We describe here the cloning and characterization of a C. burnetii ftsZ mutant generated by mariner-based Himar1 transposon (Tn) mutagenesis. C. burnetii was coelectroporated with a plasmid encoding the Himar1 C9 transposase variant and a plasmid containing a Himar1 transposon encoding chloramphenicol acetyltransferase, mCherry fluorescent protein, and a ColE1 origin of replication. Vero cells were infected with electroporated C. burnetii and transformants scored as organisms replicating in the presence of chloramphenicol and expressing mCherry. Southern blot analysis revealed multiple transpositions in the C. burnetii genome and rescue cloning identified 30 and 5 insertions in coding and noncoding regions, respectively. Using micromanipulation, a C. burnetii clone was ",
+        "journal": "Journal of bacteriology",
+        "year": "2009",
+        "authors": [
+          "Beare Paul A",
+          "Howe Dale",
+          "Cockrell Diane C",
+          "Omsland Anders",
+          "Hansen Bryan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Animals",
+          "Bacterial Proteins",
+          "Chlorocebus aethiops",
+          "Cloning, Molecular",
+          "Coxiella burnetii",
+          "Cytoskeletal Proteins",
+          "DNA Transposable Elements",
+          "Electroporation",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19114492/"
+      },
+      {
+        "pmid": "3843239",
+        "title": "A fatal case of Q fever hepatitis in a child.",
+        "abstract": "A two-year-old boy of Arabic extraction presented with progressive jaundice and prolonged pyrexia. Both IgM and IgG immunofluorescent antibody titers for Q fever were 1:1280. Two goats and one cow of the domestic animals owned by the family also had positive antibody titers against Q fever. In spite of antibiotic treatment with tetracyclines and chloramphenicol, the hepatic involvement progressed gradually. On the twentieth day of admission the child succumbed from hepatic failure. This child presents a rare case of fatal hepatic failure due to Q fever.",
+        "journal": "Helvetica paediatrica acta",
+        "year": "1985",
+        "authors": [
+          "Berkovitch M",
+          "Aladjem M",
+          "Beer S",
+          "Cohar K"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Bacterial",
+          "Child, Preschool",
+          "Coxiella",
+          "Hepatic Encephalopathy",
+          "Hepatitis, Viral, Human",
+          "Humans",
+          "Immunoglobulins",
+          "Male",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3843239/"
+      },
+      {
+        "pmid": "12734219",
+        "title": "Evaluation of Coxiella burnetii antibiotic susceptibilities by real-time PCR assay.",
+        "abstract": "Coxiella burnetii is an obligate intracellular bacterium. The inability to cultivate this organism on axenic medium has made calculation of infectious units challenging and prevents the use of conventional antibiotic susceptibility assays. A rapid and reliable real-time PCR assay was developed to quantify C. burnetii cells from J774.16 mouse macrophage cells and was applied to antibiotic susceptibility testing of C. burnetii Nine Mile, phase I. For calculation of bacterial replication, real-time PCR performed equally as well as immunofluorescent-antibody (IFA) assay when J774.16 cells were infected with 10-fold serial dilutions of C. burnetii and was significantly (P < 0.05) more repeatable than IFA when 2-fold dilutions were used. Newly infected murine macrophage-like J774.16 cells were treated with 8 microg of chloramphenicol per ml, 4 microg of tetracycline per ml, 4 microg of rifampin per ml, 4 microg of ampicillin per ml, or 1 microg of ciprofloxacin per ml. After 6 days of treatm",
+        "journal": "Journal of clinical microbiology",
+        "year": "2003",
+        "authors": [
+          "Brennan Robert E",
+          "Samuel James E"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Evaluation Study",
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Ampicillin",
+          "Animals",
+          "Base Sequence",
+          "Cell Line",
+          "Chloramphenicol",
+          "Ciprofloxacin",
+          "Coxiella burnetii",
+          "DNA, Bacterial",
+          "Drug Resistance, Bacterial",
+          "Fluorescent Antibody Technique"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12734219/"
+      },
+      {
+        "pmid": "19635823",
+        "title": "Actin dynamics and Rho GTPases regulate the size and formation of parasitophorous vacuoles containing Coxiella burnetii.",
+        "abstract": "Q fever is a disease caused by Coxiella burnetii. In the host cell, this pathogen generates a large parasitophorous vacuole (PV) with lysosomal characteristics. Here we show that F-actin not only is recruited to but also is involved in the formation of the typical PV. Treatment of infected cells with F-actin-depolymerizing agents alters PV development. The small PVs formed in latrunculin B-treated cells were loaded with transferrin and Lysotracker and labeled with an antibody against cathepsin D, suggesting that latrunculin B did not affect vacuole cargo and its lysosomal characteristics. Nevertheless, the vacuoles were unable to fuse with latex bead phagosomes. It is known that actin dynamics are regulated by the Rho family GTPases. To assess the role of these GTPases in PV formation, infected cells were transfected with pEGFP expressing wild-type and mutant Rac1, Cdc42, and RhoA proteins. Rac1 did not show significant PV association. In contrast, PVs were decorated by both the wild t",
+        "journal": "Infection and immunity",
+        "year": "2009",
+        "authors": [
+          "Aguilera Milton",
+          "Salinas Romina",
+          "Rosales Eliana",
+          "Carminati Sergio",
+          "Colombo Maria I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Actins",
+          "Coxiella burnetii",
+          "HeLa Cells",
+          "Humans",
+          "Microscopy, Confocal",
+          "Microscopy, Electron, Transmission",
+          "Vacuoles",
+          "rho GTP-Binding Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19635823/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:37:19.445931",
+  "success": true,
+  "error_message": null
+}

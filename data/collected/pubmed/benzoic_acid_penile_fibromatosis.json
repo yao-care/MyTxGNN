@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Benzoic Acid",
+    "disease": "penile fibromatosis",
+    "query_string": "Benzoic Acid AND penile fibromatosis"
+  },
+  "data": {
+    "query": "Benzoic Acid AND penile fibromatosis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:33:02.502298",
+  "success": true,
+  "error_message": null
+}

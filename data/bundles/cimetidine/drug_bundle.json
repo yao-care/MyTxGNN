@@ -1,0 +1,2668 @@
+{
+  "drug": {
+    "name": "Cimetidine",
+    "drugbank_id": "DB00501",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "hyperinsulinism",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05685693",
+            "title": "The Effect of ROSA®-Assisted Knee Arthroplasty on Clinical Outcomes",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2022-12-16",
+            "completion_date": "2035-12",
+            "country": "Netherlands",
+            "enrollment": 150,
+            "brief_summary": "This is a randomized clinical study, in which 150 patients with end-stage osteoarthritis will be enrolled to ROSA®-assisted knee arthroplasty or conventional knee arthroplasty. Patients are recruited at Zuyderland Medical Center, enrolled pre-operatively and followed up for 12 months post-surgery. In- and exclusion criteria are stated below.\n\nAfter recruitment, participants will be invited for a pre-operative visit. During this pre-operative visit Informed Consent is signed and completion of pat",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible for primary TKA\n* age 40-90 years\n* Body-Mass-Index 18.5-50.0 kg/m2\n* American Society of Anaesthesiologists Class I-III\n* Willingness and capability to understand and follow protocol\n\nExclusion Criteria:\n\n\\- Rheuma-/trauma-indicated knee arthroplasty",
+            "endpoints": [
+              "Oxford Knee Score",
+              "Oxford Knee Score"
+            ],
+            "sponsor": "Zuyderland Medisch Centrum",
+            "url": "https://clinicaltrials.gov/study/NCT05685693"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "esophagitis",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "2210608",
+            "title": "Cisapride and cimetidine in the treatment of erosive esophagitis.",
+            "abstract": "The efficacy of cisapride, as compared with cimetidine, in the treatment of erosive esophagitis was studied in a double-blind trial. One hundred and twenty-nine patients were assigned to one of four dosage schedules: cisapride 10 mg b.i.d. (20 mg group) or q.i.d. (40 mg group), or cimetidine 400 mg b.i.d. (800 mg group) or q.i.d. (1600 mg group). Treatment lasted 8 to 12 weeks. The degree of esophagitis and the severity of diurnal and nocturnal heartburn and regurgitation were significantly (p less than 0.01) reduced in the four treatment groups. Endoscopy did not show any significant differences among the four groups, although cisapride tended to be more effective in moderate to severe esophagitis, in which cases mucosal healing (i.e. absence of erosions and ulcers) was observed in 69%, 64%, 55% and 55% of the patients treated with cisapride 40 mg, cisapride 20 mg, cimetidine 1600 mg and cimetidine 800 mg. Improvement in reflux symptoms in the two cisapride groups was not significantl",
+            "journal": "Hepato-gastroenterology",
+            "year": "1990",
+            "authors": [
+              "Maleev A",
+              "Mendizova A",
+              "Popov P",
+              "Vlahov V",
+              "Dimitrov B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Cisapride",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Esophagitis, Peptic",
+              "Female",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2210608/"
+          },
+          {
+            "pmid": "3940501",
+            "title": "Treatment of severe reflux esophagitis with cimetidine and metoclopramide.",
+            "abstract": "Reflux esophagitis may be unresponsive to standard medical therapy with an H2-receptor antagonist drug. Twenty-five patients with chronic reflux esophagitis, refractory to cimetidine treatment alone, were randomly assigned in a double-blind design to receive cimetidine (1200 mg/d), in combination with metoclopramide (40 mg/d) or placebo. Nine of twelve patients receiving cimetidine with metoclopramide had significant symptomatic improvement at the end of the 8-week study period, compared with 3 of 12 patients receiving cimetidine with placebo (p less than 0.02). Endoscopic appearance improved in 9 patients receiving metoclopramide and in 4 patients receiving placebo (p less than 0.05). Neither group had significant improvement in lower esophageal sphincter pressure, 24-hour esophageal pH recordings, and esophageal histologic findings. Side effects were common with cimetidine and metoclopramide but were rarely disabling. This combination is efficacious in the management of chronic reflu",
+            "journal": "Annals of internal medicine",
+            "year": "1986",
+            "authors": [
+              "Lieberman D A",
+              "Keeffe E B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Biopsy",
+              "Cimetidine",
+              "Double-Blind Method",
+              "Drug Evaluation",
+              "Drug Therapy, Combination",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Esophagoscopy",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3940501/"
+          },
+          {
+            "pmid": "2874485",
+            "title": "Barrett's esophagus.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1986",
+            "authors": [
+              "Spechler S J",
+              "Goyal R K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adenocarcinoma",
+              "Antacids",
+              "Barrett Esophagus",
+              "Bethanechol",
+              "Bethanechol Compounds",
+              "Cimetidine",
+              "Epithelium",
+              "Esophageal Diseases",
+              "Esophageal Neoplasms",
+              "Esophagus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2874485/"
+          },
+          {
+            "pmid": "8736619",
+            "title": "Ebrotidine.",
+            "abstract": "Ebrotidine is the first of a new generation of H2 receptor antagonists with gastroprotective activity It stimulates epithelial cell proliferative activity and produces beneficial physicochemical changes in the gastric mucus that contribute to its gastro-protective action against ethanol-, aspirin- or stress-induced gastric mucosal damage The antisecretory properties of ebrotidine are similar to those of ranitidine and approximately 10-fold greater than those of cimetidine This drug exhibits anti-Helicobacter pylori activity that is synergistic with a number of antibacterial agents; it inhibits the urease enzyme and the proteolytic and mucolytic activities of H. pylori, and counteracts the inhibitory effects of H. pylori lipo-polysaccharide Ebrotidine is as effective as ranitidine for the treatment of patients with gastric or duodenal ulcers or erosive reflux oesophagitis Ebrotidine therapy results in significantly better ulcer healing rates than ranitidine treatment in patients who smo",
+            "journal": "Drugs",
+            "year": "1996",
+            "authors": [
+              "Patel S S",
+              "Wilde M I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Benzenesulfonates",
+              "Duodenal Ulcer",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Thiazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8736619/"
+          },
+          {
+            "pmid": "2660561",
+            "title": "Combination therapy of sucralfate and cimetidine, compared with sucralfate monotherapy, in patients with peptic reflux esophagitis.",
+            "abstract": "A double-blind multicenter, randomized study was performed in 70 patients with endoscopically documented reflex esophagitis. Patients were randomly given 1 g sucralfate four times a day or the combination of sucralfate 1 g three times a day and 400 mg cimetidine at night. After healing of the esophagitis, patients were randomly given either sucralfate maintenance 2 g daily or placebo for a period of six months. Endoscopy was performed at the beginning of the study, after eight weeks, and, in cases with no healing, after 16 weeks of therapy. Sixty-three of the 70 patients who initially entered the study could be evaluated after eight weeks. Both groups showed good symptomatic improvement, and no side effects necessitated withdrawal of subjects. Endoscopy showed complete healing in 19.4 percent of the sucralfate group and in 21.9 percent of the combination sucralfate and cimetidine group. Endoscopic improvement was found in 50 percent of the sucralfate group and in 50 percent of the comb",
+            "journal": "The American journal of medicine",
+            "year": "1989",
+            "authors": [
+              "Schotborgh R H",
+              "Hameeteman W",
+              "Dekker W",
+              "vd Boomgaard D M",
+              "Van Olffen G H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Drug Therapy, Combination",
+              "Esophagitis, Peptic",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2660561/"
+          },
+          {
+            "pmid": "2331957",
+            "title": "Double-blind comparison of cisapride and cimetidine in treatment of reflux esophagitis.",
+            "abstract": "In a double-blind, randomized, comparative trial of the prokinetic drug cisapride and the H2-blocker cimetidine, mucosal healing and changes in symptoms of gastroesophageal reflux were evaluated in patients with erosive reflux esophagitis. The patients were treated with either cisapride, 10 mg four times a day (N = 36) or cimetidine, 400 mg four times a day (N = 37) for six weeks, or for 12 weeks if mucosal healing was not obtained by week 6. Upon entry, two thirds of the patients in each group had grade I (Savary-Miller) esophagitis, and the remainder grade II or III. At the end of treatment, endoscopy showed mucosal healing in 56% (38-72%; 95% confidence interval) of cisapride and 57% (39-73%; 95% confidence interval) of cimetidine patients. After six weeks, both drugs significantly (P less than 0.01) decreased the intensity and frequency of heartburn, regurgitation, and the postural syndrome. No significant intergroup differences were found regarding endoscopic parameters or the imp",
+            "journal": "Digestive diseases and sciences",
+            "year": "1990",
+            "authors": [
+              "Galmiche J P",
+              "Fraitag B",
+              "Filoche B",
+              "Evreux M",
+              "Vitaux J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Cisapride",
+              "Double-Blind Method",
+              "Drug Evaluation",
+              "Esophagitis",
+              "Esophagoscopy",
+              "Female",
+              "Gastroesophageal Reflux",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2331957/"
+          },
+          {
+            "pmid": "7067581",
+            "title": "When is esophagitis healed? esophageal endoscopy, histology and function before and after cimetidine treatment.",
+            "abstract": "In order to assess whether in reflux esophagitis morphological and functional disorders persist after macroscopic healing, cimetidine was given for 6-12 weeks at a dose of 1.6 g/day to 30 patients with acid gastroesophageal reflux and esophagitis. The mucosal defects healed in 6 patients, improved in 14 patients, and remained unchanged in 10 patients. Lower esophageal sphincter pressure, acid clearance, acid perfusion test, and histological signs of mucosal inflammation were assessed before and after treatment. The histological and functional findings did not improve after healing of the mucosal defects. Therefore, endoscopic normalization in patients with reflux esophagitis is not associated with the disappearance of inflammation and abnormal motor function. The persistence of these abnormalities might explain the tendency of esophagitis to recur after symptomatic and endoscopic \"healing.\"",
+            "journal": "Digestive diseases and sciences",
+            "year": "1982",
+            "authors": [
+              "Sonnenberg A",
+              "Lepsien G",
+              "Müller-Lissner S A",
+              "Koelz H R",
+              "Siewert J R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Esophagitis, Peptic",
+              "Esophagoscopy",
+              "Esophagus",
+              "Female",
+              "Guanidines",
+              "Humans",
+              "Hydrogen-Ion Concentration"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7067581/"
+          },
+          {
+            "pmid": "1882895",
+            "title": "Healing of erosive esophagitis with sucralfate and cimetidine: influence of pretreatment lower esophageal sphincter pressure and serum pepsinogen I levels.",
+            "abstract": "Forty-eight patients with erosive reflux esophagitis were allocated to either sucralfate tablets, 4 g/day, or cimetidine, 1.6 g/day, for 8 weeks in a randomized, prospective, single-blind, cross-over therapeutic trial. Pretreatment lower esophageal sphincter (LES) pressure and serum pepsinogen I (PG-I) levels were investigated as possible predictors of healing with either drug. The trial was completed by 41 patients (21 in the sucralfate group and 20 in the cimetidine group); one patient in each group was removed because of side effects. Symptom improvement occurred to a similar extent in both groups. Endoscopic results after 8 weeks of treatment with sucralfate revealed complete healing of esophageal erosions in 48% (cimetidine, 55%) and improvement in an additional 19% (cimetidine, 20%). Neither of these differences was statistically significant. Some patients refractory to one drug had endoscopic healing of esophagitis when treated with the other drug after crossover. LES pressure d",
+            "journal": "The American journal of medicine",
+            "year": "1991",
+            "authors": [
+              "Ros E",
+              "Toledo-Pimentel V",
+              "Bordas J M",
+              "Grande L",
+              "Lacima G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Endoscopy, Gastrointestinal",
+              "Epoprostenol",
+              "Esophagitis, Peptic",
+              "Fasting",
+              "Female",
+              "Gastrins",
+              "Gastrointestinal Motility",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1882895/"
+          },
+          {
+            "pmid": "6385868",
+            "title": "Antacids and cimetidine treatment for gastro-oesophageal reflux and peptic oesophagitis.",
+            "abstract": "Thirty three children aged 2 to 42 months (mean 9 months) with gastro-oesophageal reflux and peptic oesophagitis took part in a treatment trial comparing cimetidine (20 mg/kg/day) with an intensive regimen of antacids (Maalox, 700 mmol (mEq)/1 X 73 m2/day). All children were evaluated clinically and by radiology, acid reflux test, and endoscopy. After 12 weeks of treatment all were again evaluated clinically, by pH measurement, and endoscopy. Twenty nine children, 15 on antacid and 14 on cimetidine, completed the trial. Eight patients on antacid and seven on cimetidine were cured; five on antacid and six on cimetidine improved; and two patients on antacid and one on cimetidine underwent surgery. Both groups of children showed a statistically significant reduction in the score of clinical, pH, and endoscopic variables after treatment. Lower oesophageal sphincter pressure before treatment did not correlate significantly with the final total score. Antacids in large quantities are as effe",
+            "journal": "Archives of disease in childhood",
+            "year": "1984",
+            "authors": [
+              "Cucchiara S",
+              "Staiano A",
+              "Romaniello G",
+              "Capobianco S",
+              "Auricchio S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aluminum Hydroxide",
+              "Antacids",
+              "Child, Preschool",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Drug Combinations",
+              "Esophagitis, Peptic",
+              "Female",
+              "Gastroesophageal Reflux",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6385868/"
+          },
+          {
+            "pmid": "6340227",
+            "title": "Barrett's esophagus.",
+            "abstract": "Barrett's esophagus remains an interesting but incompletely understood entity. Although most authors contend that it is of acquired origin, evidence is presented to substantiate either an acquired or a congenital origin. The possibility exists that Barrett's esophagus may be acquired in some instances and congenital in others. The most characteristic, albeit not exclusive, histologic features of Barrett's esophagus are defined by the presence of three types of columnar epithelium: an atrophic gastric fundic type of epithelium, a junctional type of epithelium and a specialized columnar epithelium. Reversion of columnar epithelium to squamous epithelium after successful antireflux operation demands further confirmation and study. Dysplastic, metaplastic and adenomatous changes in Barrett's esophagus do occur and must be observed carefully with endoscopy during the follow-up period. The possible relationship between these changes and malignant degeneration requires further study. Although",
+            "journal": "Surgery, gynecology & obstetrics",
+            "year": "1983",
+            "authors": [
+              "Berardi R S",
+              "Devaiah K A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adenocarcinoma",
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Aged",
+              "Animals",
+              "Barrett Esophagus",
+              "Carcinoma, Squamous Cell",
+              "Child",
+              "Child, Preschool"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6340227/"
+          },
+          {
+            "pmid": "6751184",
+            "title": "Cimetidine. I. Developments, pharmacology, and efficacy.",
+            "abstract": "Cimetidine therapy has proved to be effective in healing most duodenal ulcers and in reducing the frequency of reulceration. It is unclear if low-dose maintenance therapy is superior to intermittent full-dose therapy in managing patients whose ulcers recur. Cimetidine is the preferred treatment for patients with the Zollinger-Ellison syndrome, and current evidence indicates efficacy in healing benign gastric ulcers. Some patients with reflux esophagitis improve with cimetidine treatment, but the drug cannot be regarded as first-time therapy. Largely circumstantial evidence suggests a role in preventing bleeding from acute gastric erosions and in preventing the acid aspiration syndrome. Cimetidine therapy has not been found to be useful in controlling acute upper gastrointestinal hemorrhage, acute pancreatitis, or several other conditions for which H2 blockade has been advocated.",
+            "journal": "Annals of internal medicine",
+            "year": "1982",
+            "authors": [
+              "Freston J W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Chemical Phenomena",
+              "Chemistry",
+              "Cimetidine",
+              "Duodenal Ulcer",
+              "Esophagitis, Peptic",
+              "Gastric Acid",
+              "Gastrointestinal Hemorrhage",
+              "Guanidines",
+              "Humans",
+              "Pancreatitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6751184/"
+          },
+          {
+            "pmid": "6360495",
+            "title": "Current concepts in the pathogenesis and treatment of reflux esophagitis.",
+            "abstract": "The etiology, pathogenesis, diagnosis, and treatment of reflux esophagitis are reviewed. Reflux esophagitis is the subjective or objective response to gastroesophageal reflux (GER), which is defined as the entrance of gastroduodenal contents into the esophagus not associated with vomiting or belching. The pathogenesis of reflux esophagitis may involve a number of mechanisms, including changes in lower esophageal sphincter pressure, gastric volume, composition of the refluxate, esophageal acid clearance, and esophageal tissue resistance. The most common symptom of reflux esophagitis is heartburn. Regurgitation of fluid into the mouth, usually after bending or during the night, is an unequivocal symptom of GER. Treatment can be divided into three phases. Phase 1 involves the avoidance of certain foods and habits, elevation of the bed head, antacid, and alginic acid-antacid therapy. Phase 2 involves drug therapy with agents not yet approved by the FDA for this indication: bethanechol chlo",
+            "journal": "Clinical pharmacy",
+            "year": "1983",
+            "authors": [
+              "Frazier J L",
+              "Fendler K J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antacids",
+              "Esophagitis, Peptic",
+              "Esophagus",
+              "Humans",
+              "Metoclopramide",
+              "Pressure",
+              "Stomach"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6360495/"
+          },
+          {
+            "pmid": "6091353",
+            "title": "[Cimetidine and ranitidine in the treatment of reflux esophagitis].",
+            "abstract": "The efficacy of the two H2-receptor-antagonists cimetidine (2 X 400 mg/die) and ranitidine (2 X 150 mg/die) for reflux oesophagitis was compared. 128 patients with endoscopically proven reflux oesophagitis in stages I and II based on the criteria of Savary and Miller took part in the trial on an out patients basis. Both drugs healed the oesophagus lesions in 70% of the patients after 6 weeks treatment. After 12 weeks, 90% of stage I patients and 80-85% of stage II patients were completely healed with both H2-antagonists. No significant difference was seen between the two drugs either with respect to the healing of the lesions or to the symptomatic improvement.",
+            "journal": "Zeitschrift fur Gastroenterologie",
+            "year": "1984",
+            "authors": [
+              "Kimmig J M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Esophagitis, Peptic",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6091353/"
+          },
+          {
+            "pmid": "7000475",
+            "title": "Controlled trial of cimetidine in reflux esophagitis.",
+            "abstract": "In an eight-week double-blind trial, the effectiveness of cimetidine (1.6 g/day) was compared to placebo in 34 patients with symptomatic esophagitis confirmed by endoscopy with biopsies and/or by acid infusion test. Patients treated with cimetidine had significantly less symptomatic days during the first six weeks and less symptomatic nights during the first two weeks, and they consumed less antacids during the whole trial period. Endoscopic evaluation of 17 patients on cimetidine and of 15 patients on placebo did not show any significant difference in severity and extent of esophageal lesions after eight weeks, but histological assessment of 16 patients on cimetidine and 13 patients on placebo showed a significant improvement after eight weeks of cimetidine (P < 0.025). These results show that cimetidine has a rapid effect on symptoms of reflux esophagitis and that, in some cases, it may reduce the esophageal lesions after eight weeks.",
+            "journal": "Digestive diseases and sciences",
+            "year": "1980",
+            "authors": [
+              "Fiasse R",
+              "Hanin C",
+              "Lepot A",
+              "Descamps C",
+              "Lamy F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Alginates",
+              "Antacids",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Drug Therapy, Combination",
+              "Esophagitis, Peptic",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7000475/"
+          },
+          {
+            "pmid": "3979238",
+            "title": "Comparison of cimetidine and ranitidine on 24-hour intragastric acidity and serum gastrin profile in patients with esophagitis.",
+            "abstract": "Twenty-four-hour intragastric pH and serum gastrin profiles were monitored in six male asymptomatic patients who previously were found to have esophagitis on endoscopy and biopsy. They received cimetidine 300 mg qid (C), ranitidine 150 mg bid (R), or placebo (P) for one week each, utilizing the Latin-square design. The mean BAO was 0.4 +/- 0.2 mmol/hr, and the pentagastrin-stimulated MAO was 21.2 +/- 3.2 mmol/hr. In the P-treated patients, the pH fluctuated between 1.8 and 3.5 and over 90% of the readings were less than pH 4. As compared to P, both C and R significantly suppressed H+ after breakfast, overnight, and over the 24-hr period. The mean pH after lunch was significantly higher in R than in P, but not in C. Over the 24-hr period, a higher percentage of the readings were above pH 4.0 in R as compared to C. During the night, 50% of the pH readings were above pH 4.0 in C and R, whereas in P 50% of the pH readings were less than pH 2.0. The integrated gastrin responses after each m",
+            "journal": "Digestive diseases and sciences",
+            "year": "1985",
+            "authors": [
+              "Mahachai V",
+              "Walker K",
+              "Thomson A B",
+              "Zuk L",
+              "Kirdeikis P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Double-Blind Method",
+              "Eating",
+              "Esophagitis",
+              "Gastric Acid",
+              "Gastric Acidity Determination",
+              "Gastrins",
+              "Gastroesophageal Reflux"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3979238/"
+          },
+          {
+            "pmid": "2210463",
+            "title": "Comparison of omeprazole and cimetidine in reflux oesophagitis: symptomatic, endoscopic, and histological evaluations.",
+            "abstract": "Symptomatic patients with endoscopically verified reflux oesophagitis were randomised to a double blind trial in which they received either omeprazole (20 mg once daily) or cimetidine (400 mg four times daily) for four, and if necessary, eight weeks. In an 'intention to treat' analysis, oesophagitis was found to have healed after four weeks in 77 of 137 (56%) in the omeprazole group and in 34 of 133 (26%) in the cimetidine group (p less than 0.001). By eight weeks these values were 71% and 35% respectively; p less than 0.001. Histological assessments were available for 73% of the patients. At entry, 63% (66 of 104) in the omeprazole group and 60% (56 of 94) in the cimetidine group (ns) had abnormal histology. After the study, the proportions of patients who initially had had abnormal histology but who then progressed to normal were 67% (44 of 66: omeprazole) and 48% (27 of 56: cimetidine) respectively (p less than 0.001). All patients had reflux symptoms at entry. After four weeks, 46%",
+            "journal": "Gut",
+            "year": "1990",
+            "authors": [
+              "Bate C M",
+              "Keeling P W",
+              "O'Morain C",
+              "Wilkinson S P",
+              "Foster D N"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Double-Blind Method",
+              "Esophagitis, Peptic",
+              "Esophagoscopy",
+              "Esophagus",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Omeprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2210463/"
+          },
+          {
+            "pmid": "9506656",
+            "title": "Omeprazole in infants with cimetidine-resistant peptic esophagitis.",
+            "abstract": "Twelve neurologically normal infants (age 2.9+/-0.9 months) with peptic esophagitis (grade 2) who did not respond to cimetidine (in addition to positioning, cisapride, and Gaviscon) were treated with omeprazole, 0.5 mg/kg once a day, for 6 weeks. The effectiveness of omeprazole was evaluated in all infants by clinical assessment and endoscopy before and after treatment and by 24-hour gastric pH monitoring during treatment in seven infants. Omeprazole therapy led to a marked decrease in symptoms, endoscopic and histologic signs of esophagitis, and intragastric acidity.",
+            "journal": "The Journal of pediatrics",
+            "year": "1998",
+            "authors": [
+              "Alliët P",
+              "Raes M",
+              "Bruneel E",
+              "Gillis P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Cimetidine",
+              "Esophagitis, Peptic",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Infant",
+              "Omeprazole",
+              "Treatment Failure",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9506656/"
+          },
+          {
+            "pmid": "9001831",
+            "title": "Ranitidine versus cimetidine in the healing of erosive esophagitis.",
+            "abstract": "Ranitidine 150 mg twice daily (BID) is an approved therapeutic approach for relieving the symptoms of gastroesophageal reflux disease. Ranitidine 150 mg four times daily (QID) and cimetidine 800 mg BID are indicated for endoscopically diagnosed erosive esophagitis. This 12-week, randomized, multicenter trial involving 696 patients compared ranitidine 150 mg BID and ranitidine 150 mg QID with cimetidine 800 mg BID in healing erosive esophagitis. Healing rates, as determined by endoscopy, at 4, 8, and 12 weeks were comparable with ranitidine 150 mg BID (38%, 56%, and 71%, respectively) and cimetidine 800 mg BID (37%, 52%, and 68%, respectively), as were reductions in heartburn frequency and antacid consumption. However, ranitidine 150 mg QID produced significantly higher healing rates (49%, 67%, and 77%, respectively) and greater reductions in heartburn frequency and antacid consumption than cimetidine 800 mg BID. All treatment regimens were well tolerated. Thus ranitidine 150 mg BID is ",
+            "journal": "Clinical therapeutics",
+            "year": "1996",
+            "authors": [
+              "McCarty-Dawson D",
+              "Sue S O",
+              "Morrill B",
+              "Murdock R H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Antacids",
+              "Cimetidine",
+              "Dose-Response Relationship, Drug",
+              "Drug Therapy, Combination",
+              "Esophagitis, Peptic",
+              "Esophagoscopy",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9001831/"
+          },
+          {
+            "pmid": "342231",
+            "title": "Cimetidine: a review of its pharmacological properties and therapeutic efficacy in peptic ulcer disease.",
+            "abstract": "Cimetidine is a specific competitive histamine H2-receptor antagonist which effectively inhibits gastric acid secretion and is advocated for the treatment of chronic peptic ulceration, haemorrhage from erosive gastritis, and the control of gastric hypersecretion and peptic ulceration in the Zollinger-Ellison syndrome. Placebo-controlled trials in outpatients have demonstrated its efficacy in promoting the healing of endoscopically diagnosed duodenal ulceration, during a period of 4 to 6 weeks, but its role in the treatment of gastric ulcer is less clear. Preliminary evidence suggests that maintenance therapy with cimetidine reduces the rate of recurrence of duodenal ulcer, but further studies are required to clarify its role in this situation and in the treatment of oesophagitis and acute gastrointestinal haemorrhage. Cimetidine controls the peptic ulceration of Zollinger-Ellison syndrome in most patients when given continuously for up to 2 years. Side-effects have generally been trivi",
+            "journal": "Drugs",
+            "year": "1978",
+            "authors": [
+              "Brogden R N",
+              "Heel R C",
+              "Speight T M",
+              "Avery G S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Animals",
+              "Cimetidine",
+              "Duodenal Ulcer",
+              "Gastric Juice",
+              "Gastrins",
+              "Gastrointestinal Hemorrhage",
+              "Guanidines",
+              "Humans",
+              "Intrinsic Factor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/342231/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "gastric ulcer",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01757275",
+            "title": "A Multi-center, Randomised, Double-blind, Parallel-group Phase III Study to Assess High Dose Esomeprazole Na i.v. Treatment (Bolus Infusion of 80 mg Followed by a Continuous Infusion of 8 mg Per Hour Administered for 72 Hours) for Prevention of Rebleeding",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-02",
+            "completion_date": "2014-12",
+            "country": "China",
+            "enrollment": 239,
+            "brief_summary": "To describe the rate of clinically significant rebleeding during 72 hours continuous i.v. infusion of high dose esomeprazole Na in patients in China with primary successful endoscopic haemostatic therapy of a bleeding peptic ulcer, with cimetidine i.v. in",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of informed consent prior to any study specific procedures.\n* Female or male aged =18 years and =70 years.\n* Acute upper gastrointestinal bleeding (haematemesis, melaena or haematochezia) or such signs within the last 24 hours as judged by the investigator.\n* One end",
+            "endpoints": [
+              "Rate of Clinically Significant Rebleeding Within 72 Hours"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT01757275"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02157376",
+            "title": "Effect of Intravenous Esomeprazole Versus Cimetidine in Prevention of Stress Ulcer Prophylaxis in Chinese Seriously Ill Patients - a Randomized, Double-blind, Parallel-group Study",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2014-07",
+            "completion_date": "2016-02",
+            "country": "China",
+            "enrollment": 343,
+            "brief_summary": "The efficacy of esomeprazole will be compared versus cimetidine (a drug that previously demonstrated prevention of bleeding events) during treatment period in proportion of patients for the prevention of upper GI bleeding.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Critically ill patients\n2. Requirement for mechanical ventilation\n3. At least one major risk factor for stress ulcer related bleeding\n\nExclusion Criteria:\n\n1. History of gastric or oesophageal surgery\n2. Evidence of active GI bleeding\n3. Advanced renal disease\n4. Treatment wi",
+            "endpoints": [
+              "The Percent of Patients With Clinically Significant Upper-GI Bleeding During the Treatment Evaluation Phase"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT02157376"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "7213137",
+            "title": "[Cimetidine and gastric ulcer].",
+            "abstract": "",
+            "journal": "Arquivos de gastroenterologia",
+            "year": "1980",
+            "authors": [
+              "Marchese M A"
+            ],
+            "pub_types": [
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Guanidines",
+              "Humans",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7213137/"
+          },
+          {
+            "pmid": "6328637",
+            "title": "Gastric ulcer healing with ranitidine and cimetidine. A multicentre study.",
+            "abstract": "A single-blind study of 339 patients in 19 centres compared the efficacy and tolerance of ranitidine in treating endoscopically confirmed gastric ulcers. Ranitidine (150 mg twice daily) was compared with cimetidine (1 g daily in divided doses) over 4 weeks, followed by a second 4-week treatment for any patient whose ulcer was not healed. In 292 patients who completed the study, endoscopy showed healing in 69% of patients receiving ranitidine and 59% receiving cimetidine after 4 weeks, and 90% and 88%, respectively, by 8 weeks. These results were not significantly different, and, similarly, healing rates for different ulcer sites did not differ. There were no serious adverse drug reactions during the study. Ranitidine is an effective and safe treatment for healing gastric ulcers, with a tendency to produce a faster healing rate than cimetidine during the first 4 weeks of treatment.",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1983",
+            "authors": [
+              "Baron J H",
+              "Perrin V L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Drug Tolerance",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6328637/"
+          },
+          {
+            "pmid": "6843622",
+            "title": "Cimetidine works for gastric ulcer, and more.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1983",
+            "authors": [
+              "Littman A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Guanidines",
+              "Humans",
+              "Placebos",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6843622/"
+          },
+          {
+            "pmid": "338114",
+            "title": "Cimetidine and gastric ulcer healing.",
+            "abstract": "",
+            "journal": "British medical journal",
+            "year": "1977",
+            "authors": [
+              "Jensen K G",
+              "Rune S",
+              "Wulff H R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Guanidines",
+              "Humans",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/338114/"
+          },
+          {
+            "pmid": "620911",
+            "title": "Cimetidine in the treatment of gastric ulcer: review and commentary.",
+            "abstract": "Cimetidine therapy in gastric ulcer disease has been evaluated in four complete and one incomplete controlled, double blind trials. A sixth trial, still under way, is partially blind. Treatment duration ranged from 2 to 6 weeks; doses ranged from 0.8 to 1.2 g daily. Two studies also evaluated the influence of hospitalization on ulcer healing and symptoms. Relatively large doses of antacid taken with cimetidine confounded the evaluation of cimetidine efficacy in two of the trials, without answering the question of antacid efficacy. Cimetidine was more effective than were small doses of antacid in healing ulcers in one study but was not significantly superior to treatment with larger quantities of antacid in two other trials. Preliminary results indicate that cimetidine is more effective than carbenoxolone in healing ulcers. Hospitalization for 2 and 3 weeks conferred no advantage, but patients were not randomly assigned to hospitalization. Definitive studies on whether cessation of cime",
+            "journal": "Gastroenterology",
+            "year": "1978",
+            "authors": [
+              "Freston J W"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Cimetidine",
+              "Guanidines",
+              "Hospitalization",
+              "Humans",
+              "Pain",
+              "Recurrence",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/620911/"
+          },
+          {
+            "pmid": "342231",
+            "title": "Cimetidine: a review of its pharmacological properties and therapeutic efficacy in peptic ulcer disease.",
+            "abstract": "Cimetidine is a specific competitive histamine H2-receptor antagonist which effectively inhibits gastric acid secretion and is advocated for the treatment of chronic peptic ulceration, haemorrhage from erosive gastritis, and the control of gastric hypersecretion and peptic ulceration in the Zollinger-Ellison syndrome. Placebo-controlled trials in outpatients have demonstrated its efficacy in promoting the healing of endoscopically diagnosed duodenal ulceration, during a period of 4 to 6 weeks, but its role in the treatment of gastric ulcer is less clear. Preliminary evidence suggests that maintenance therapy with cimetidine reduces the rate of recurrence of duodenal ulcer, but further studies are required to clarify its role in this situation and in the treatment of oesophagitis and acute gastrointestinal haemorrhage. Cimetidine controls the peptic ulceration of Zollinger-Ellison syndrome in most patients when given continuously for up to 2 years. Side-effects have generally been trivi",
+            "journal": "Drugs",
+            "year": "1978",
+            "authors": [
+              "Brogden R N",
+              "Heel R C",
+              "Speight T M",
+              "Avery G S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Animals",
+              "Cimetidine",
+              "Duodenal Ulcer",
+              "Gastric Juice",
+              "Gastrins",
+              "Gastrointestinal Hemorrhage",
+              "Guanidines",
+              "Humans",
+              "Intrinsic Factor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/342231/"
+          },
+          {
+            "pmid": "7843261",
+            "title": "Effect of cimetidine and omeprazole on gastric ulcer healing of rats with limited food intake time.",
+            "abstract": "The effects of cimetidine, omeprazole and atropine sulfate on the healing of acetic acid-induced gastric ulcers in rats with limited food intake time (9:00-10:00 a.m. and 5:00-6:00 p.m.) were evaluated 15 days after the acid injection. Oral repeated administration of cimetidine (25-100 mg/kg twice daily) or omeprazole (10-50 mg/kg once daily) dose dependently accelerated ulcer healing. Atropine sulfate (10 mg/kg twice daily, p.o.) was ineffective. A single oral administration of omeprazole (50 mg/kg) or cimetidine (100 mg/kg) resulted in potent and long-lasting anti-acid secretory and gastrin-releasing actions. The degree and duration of anti-acid secretion by atropine sulfate were equal to those of cimetidine, but the elevation of gastrin release by atropine sulfate was weak and temporary. These results indicate that the gastric ulcers of rats with a limited food intake time are useful for evaluating the healing effects of cimetidine and omeprazole on gastric ulcers. In addition, the ",
+            "journal": "European journal of pharmacology",
+            "year": "1994",
+            "authors": [
+              "Ito M",
+              "Segami T",
+              "Tsukahara T",
+              "Kojima R",
+              "Suzuki Y"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Acetic Acid",
+              "Administration, Oral",
+              "Analysis of Variance",
+              "Animals",
+              "Atropine",
+              "Cimetidine",
+              "Disease Models, Animal",
+              "Dose-Response Relationship, Drug",
+              "Eating"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7843261/"
+          },
+          {
+            "pmid": "2111784",
+            "title": "Cost-effectiveness of cimetidine maintenance therapy in chronic gastric and duodenal ulcer.",
+            "abstract": "The effects of cimetidine maintenance therapy on the socioeconomic life of patients with peptic ulcers in the 3 years after healing and the extent to which treatment was cost-effective were studied. Three hundred eleven patients with healed ulcers (184 gastric, 127 duodenal) were studied for periods of up to 3 years; 261 patients (152 gastric ulcer, 109 duodenal ulcer) completed the 3-year follow-up. Cimetidine (400 mg at night) was compared with placebo in a double-blind, randomized prospective study. Intention-to-treat analysis was used. In the placebo group, the major costs of ulcer disease in gastric ulcer patients were attributable to endoscopic procedures and absenteeism; in duodenal ulcer patients, the major costs were endoscopic procedures, absenteeism, and surgery. Cimetidine was cost-effective in both gastric ulcer and duodenal ulcer patients in the first 2 years after healing. Over the 3-year period it was also cost-effective, but no benefit was seen in the third year.",
+            "journal": "Gastroenterology",
+            "year": "1990",
+            "authors": [
+              "Pym B",
+              "Sandstad J",
+              "Seville P",
+              "Byth K",
+              "Middleton W R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Absenteeism",
+              "Aged",
+              "Chronic Disease",
+              "Cimetidine",
+              "Cost-Benefit Analysis",
+              "Demography",
+              "Double-Blind Method",
+              "Duodenal Ulcer",
+              "Endoscopy",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2111784/"
+          },
+          {
+            "pmid": "3525336",
+            "title": "Short term treatment of gastric ulcer: a comparison of sucralfate and cimetidine.",
+            "abstract": "A double blind randomised study was undertaken to compare sucralfate and cimetidine in short term treatment of gastric ulcer. The study included 149 patients with endoscopically confirmed gastric ulcerations. Patients with prepyloric ulcers 2 cm or less from the pyloric ring were not accepted for participation in the trial. Ulcer healing was assessed endoscopically at four week intervals. A total of 134 patients completed the study. The cumulative healing rates after 12 weeks were 98% for sucralfate and 94% for cimetidine treated patients. After four and eight weeks, the healing rates were 61% and 94% for sucralfate and 69% and 94% for the cimetidine-treated group respectively. No statistically significant differences in healing rates were seen. The 95% confidence interval was calculated for the difference between the ulcer healing rates of sucralfate and cimetidine. This interval was found to range between +11% and -2% after 12 weeks of treatment - that is, the healing efficacy of suc",
+            "journal": "Gut",
+            "year": "1986",
+            "authors": [
+              "Hallerbäck B",
+              "Anker-Hansen O",
+              "Carling L",
+              "Glise H",
+              "Solhaug J H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aluminum",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Prospective Studies",
+              "Random Allocation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3525336/"
+          },
+          {
+            "pmid": "3278955",
+            "title": "Effect of omeprazole and cimetidine on prepyloric gastric ulcer: double blind comparative trial.",
+            "abstract": "We conducted a six week double blind randomised study of 176 patients with prepyloric gastric ulcer to determine whether the proton pump inhibitor, omeprazole 30 mg daily would accelerate healing and pain relief, as compared with cimetidine 1 g daily. At two, four, and six weeks after entry ulcers healed in a larger percentage of patients treated with omeprazole (54, 81, and 86%) than of those treated with cimetidine (39, 73, and 78%) ('intention to treat' cohort; p less than 0.05 at two weeks). A higher proportion of patients on omeprazole became free of pain during the first week of treatment (p less than 0.05). No major clinical or biochemical side effects were noted. Omeprazole is an efficient treatment for patients with prepyloric gastric ulcers.",
+            "journal": "Gut",
+            "year": "1988",
+            "authors": [
+              "Lauritsen K",
+              "Rune S J",
+              "Wulff H R",
+              "Olsen J H",
+              "Laursen L S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3278955/"
+          },
+          {
+            "pmid": "6312110",
+            "title": "Ranitidine.",
+            "abstract": "Ranitidine is an H2-receptor antagonist that was released recently for use in the treatment of acute duodenal ulcer disease, Zollinger-Ellison syndrome, and systemic mastocytosis with gastric hypersecretion. The pharmacokinetics, efficacy, adverse effects, and clinical utility of ranitidine are presented. The drug is similar in therapeutic effect to its predecessor, cimetidine, yet has certain advantages over cimetidine in clinical applications.",
+            "journal": "JAMA",
+            "year": "1983",
+            "authors": [
+              "Strum W B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Animals",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Humans",
+              "Male",
+              "Mice"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6312110/"
+          },
+          {
+            "pmid": "1576367",
+            "title": "Helicobacter pylori and gastric ulcer therapy: reflections and uncertainties.",
+            "abstract": "The relationship between Helicobacter pylori (HP) and gastric ulcer therapy is examined by analyzing both the data that suggest that eradication of HP renders the gastric mucosa less susceptible to development of gastric ulcer as well as the substantial body of evidence that does not support this contention. The results reported in clinical trials with colloidal bismuth citrate, antimicrobial agents (furazolidone), and combinations of anti-ulcer and antimicrobial agents (H2-antagonist+cefixime, H2-antagonist+metronidazole) are reviewed. Also analyzed is the relationship between HP eradication and ulcer recurrence. Only one study is available on this aspect, and the limited evidence it provides in favour of a prophylactic effect of eradication therapy is not entirely convincing. The authors conclude that there is no reasonable case for the dogmatic assumption that eradication of HP facilitates either acute healing or long-term prophylaxis of gastric ulcer, though certain subgroups of ga",
+            "journal": "The Italian journal of gastroenterology",
+            "year": "1992",
+            "authors": [
+              "Dobrilla G",
+              "Piazzi L",
+              "Amplatz S",
+              "Benvenuti S",
+              "Di Fede F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Cefixime",
+              "Cefotaxime",
+              "Cimetidine",
+              "Drug Therapy, Combination",
+              "Furazolidone",
+              "Gastritis",
+              "Helicobacter Infections",
+              "Helicobacter pylori"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1576367/"
+          },
+          {
+            "pmid": "388168",
+            "title": "Cimetidine and gastric ulcer healing: a double-blind controlled trial.",
+            "abstract": "The effect of cimetidine in the daily dose of 1200 mg on the healing rate of chronic gastric ulcer was assessed in a randomized double-blind trial in 48 patients. Cimetidine was found to accelerate the healing of chronic gastric ulcers in the ambulant patients, but it conferred no additional benefit on the patients in hospital. No significant side effects were observed.",
+            "journal": "The Medical journal of Australia",
+            "year": "1979",
+            "authors": [
+              "Landecker K D",
+              "Crawford J",
+              "Hunt J H",
+              "Gillespie P",
+              "Piper D W"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Chronic Disease",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Guanidines",
+              "Humans",
+              "Male",
+              "Outpatients",
+              "Random Allocation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/388168/"
+          },
+          {
+            "pmid": "7843262",
+            "title": "Cimetidine and omeprazole accelerate gastric ulcer healing by an increase in gastrin secretion.",
+            "abstract": "Daily oral administration of cimetidine or omeprazole markedly accelerated the healing of acetic acid-induced gastric ulcers in rats with a limited food intake time. The increased gastric acid secretion induced by daily treatment with histamine affected neither the spontaneous healing of the ulcers nor the healing-promoting actions of both agents. Pretreatment of rats with ulcers with 6-hydroxydopamine significantly inhibited the increase in the antrum gastrin cells, serum gastrin levels and corpus mucosal thickness elicited by repeated administration of cimetidine or omeprazole. Pretreatment with 6-hydroxydopamine did not affect the inhibitory actions of cimetidine and omeprazole on acid secretion, but completely abolished the ulcer healing-promoting actions of both drugs. Daily intraperitoneal administration of pentagastrin accelerated ulcer healing. These results suggest that cimetidine and omeprazole mainly accelerate the healing of gastric ulcers by the trophic action of gastrin v",
+            "journal": "European journal of pharmacology",
+            "year": "1994",
+            "authors": [
+              "Ito M",
+              "Segami T",
+              "Inaguma K",
+              "Suzuki Y"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Analysis of Variance",
+              "Animals",
+              "Cimetidine",
+              "Disease Models, Animal",
+              "Drug Interactions",
+              "Drug Synergism",
+              "Eating",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "Gastrins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7843262/"
+          },
+          {
+            "pmid": "340331",
+            "title": "Cimetidine and placebo in the treatment of benign gastric ulcer: a multicenter double blind study.",
+            "abstract": "A randomized, prospective, multicenter trial of the effects of cimetidine on benign gastric ulcer was conducted in 60 outpatients. Endoscopic assessment was used as the criterion for healing. Although none of the differences was statistically significant, mean healing rates were higher and mean decreases in ulcer size were greater with cimetidine than they were with placebo. Twenty-four per cent of the ulcers healed completely in 2 weeks when cimetidine was administered, compared with a placebo healing rate of 14 percent. At 6 weeks in the incidence of healing increased to 60 percent in the cimetidine group and 41 percent in the placebo group. The mean percentage of decrease in ulcer size was greater at both 2 and 6 weeks in the cimetidine group than it was in the placebo group. In both, the cimetidine and placebo groups, relatively liberal intake of a potent antacids in treatment of gastric ulcers has not been defined definitively. Thus, a possible beneficial effect of cimetidine may ",
+            "journal": "Gastroenterology",
+            "year": "1978",
+            "authors": [
+              "Dyck W P",
+              "Belsito A",
+              "Fleshler B",
+              "Liebermann T R",
+              "Dickinson P B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Gastric Juice",
+              "Gastroscopy",
+              "Guanidines",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/340331/"
+          },
+          {
+            "pmid": "6356321",
+            "title": "Sucralfate, and cimetidine for gastric ulcer.",
+            "abstract": "Eighty consecutive patients with endoscopically proven gastric ulcer were randomly assigned to treatment with sucralfate, 1 g four times daily, or cimetidine, 200 mg three times daily and 400 mg at night. The patients were endoscoped after four and eight weeks by an examiner who was unaware of the treatment in use. Of the 40 patients assigned to each treatment group, 2 in the sucralfate and 4 in the cimetidine group were withdrawn due to the finding of gastric cancer in the biopsies. Two patients in the sucralfate and 3 patients in the cimetidine group interrupted treatment. Complete ulcer healing was found after four weeks of treatment in 17 of the 36 patients (47%) in the sucralfate and in 16 of the 33 patients (48%) in the cimetidine group. The cumulative healing rate after 8 weeks of treatment was 80% in the sucralfate group and 73% in the cimetidine group. There were no serious side effects, but it was necessary to discontinue treatment with cimetidine in two subjects because of r",
+            "journal": "Scandinavian journal of gastroenterology. Supplement",
+            "year": "1983",
+            "authors": [
+              "Lahtinen J",
+              "Aukee S",
+              "Miettinen P",
+              "Poikolainen E",
+              "Pääkkönen M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aluminum",
+              "Anti-Ulcer Agents",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Random Allocation",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6356321/"
+          },
+          {
+            "pmid": "6853984",
+            "title": "Cimetidine for recurrent ulcer after gastric surgery.",
+            "abstract": "Seven of nine patients with ulcers recurring after a variety of gastric operations enjoyed loss of dyspeptic symptoms within 2 days of taking cimetidine, 1,200 mg/day for 6 weeks, and endoscopic confirmation of healing of the recurrent ulcer was established within 6 weeks of therapy. Once ulcer healing had been achieved in these seven patients, symptomatic remission persisted for over 19 months without maintenance therapy with cimetidine, and no complications suggestive of recurrent ulcerations occurred during this period in these seven patients. The eighth patient with a recurrent ulcer after vagotomy and pyloroplasty had symptoms suggestive of a gastric outlet obstruction in association with a bezoar and an elevated fasting serum gastrin concentration; cimetidine failed to heal the ulcer and a partial gastrectomy with Billroth I anastomosis was undertaken. The ninth patient lost his dyspeptic symptoms while on cimetidine, but 1 month after stopping therapy he succumbed to a massive h",
+            "journal": "Journal of clinical gastroenterology",
+            "year": "1983",
+            "authors": [
+              "Thomson A B",
+              "Brust R",
+              "Dwyer J M",
+              "Wensel R",
+              "Sherbaniuk R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Dyspepsia",
+              "Female",
+              "Follow-Up Studies",
+              "Gastrectomy",
+              "Gastrins",
+              "Gastroscopy",
+              "Guanidines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6853984/"
+          },
+          {
+            "pmid": "3937820",
+            "title": "Comparison of misoprostol and cimetidine in the treatment of gastric ulcer.",
+            "abstract": "The efficacy of misoprostol (a synthetic analogue of prostaglandin E1) and cimetidine in the treatment of gastric ulcer was evaluated. Thirty-two patients with endoscopically proven gastric ulcer were randomized, in a double-blind manner, in one of three groups that received four daily doses of either misoprostol, 50 or 200 micrograms, or cimetidine, 300 mg. Ulcer healing was assessed endoscopically after 4 weeks of treatment. The three groups were fairly comparable in their alcohol and caffeine intake, previous ulcer history and ulcer size. A relatively high proportion of patients in the cimetidine-treated group was smokers. Only one patient was withdrawn from the study. On the misoprostol low dose, healing of the ulcer was observed in 20% of the patients. In contrast, healing on the high dose of misoprostol (70%) was not significantly different from that on cimetidine (73%). No important clinical side effects were observed in any of the patients. These results (part of a multicenter,",
+            "journal": "Israel journal of medical sciences",
+            "year": "1985",
+            "authors": [
+              "Fich A",
+              "Goldin E",
+              "Zimmerman J",
+              "Ligumsky M",
+              "Rachmilewitz D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Alprostadil",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Gastric Mucosa",
+              "Gastroscopy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3937820/"
+          },
+          {
+            "pmid": "3885813",
+            "title": "Healing of benign gastric ulcer: comparison of cimetidine and placebo in the United States.",
+            "abstract": "Recently the Food and Drug Administration approved cimetidine for the treatment of benign gastric ulcer. Approval was based in part on the results of our large multicenter trial involving 172 patients with benign gastric ulcer between 0.5 and 2.5 cm in diameter: 87 were randomly assigned to receive cimetidine (300 mg four times daily) and 85 to receive placebo. Cimetidine treatment resulted in significantly more rapid healing than placebo; after 2 and 6 weeks of therapy, 10.0% and 44.8% of patients receiving placebo were healed, as compared to 22.6% and 65.1% receiving cimetidine. The results of our study were compared with the time-response curve previously published (0, 4, and 8 weeks of therapy). The combined data yielded linear healing rates for the first 8 weeks of therapy (r greater than 0.99 for both cimetidine and placebo). These studies can be used to define expectations for healing of benign gastric ulcer, and we recommend follow-up intervals of 8 and, if unhealed, 16 weeks.",
+            "journal": "Annals of internal medicine",
+            "year": "1985",
+            "authors": [
+              "Graham D Y",
+              "Akdamar K",
+              "Dyck W P",
+              "Englert E",
+              "Strickland R G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female",
+              "Gastroscopy",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3885813/"
+          },
+          {
+            "pmid": "6313458",
+            "title": "Comparison of ranitidine and cimetidine in the treatment of chronic gastric ulcer. A double-blind trial.",
+            "abstract": "The aim of the study was to compare the effectiveness of ranitidine and cimetidine in accelerating the healing of chronic gastric ulcer. 44 outpatients with endoscopically proven gastric ulcer whose duration of symptoms was greater than 4 weeks and who were without major systemic disease were studied. Patients were randomly allocated to receive either ranitidine, 150 mg twice a day or cimetidine, 200 mg three times a day and 400 mg at night for 4 weeks. If the ulcer had not healed, treatment was continued for a further 4 weeks, when patient assessment and endoscopy were repeated. By 4 weeks, 13 of 22 patients taking ranitidine (59%) and 14 of 22 patients taking cimetidine (64%) had healed (p2 = 1.0, 95% confidence interval - 20%, 38%). At 8 weeks, 91% on ranitidine and 91% on cimetidine had healed (p2 = 1.0, 95% confidence interval - 18%, 18%). Symptomatic improvement was similar with both drugs. Smoking did not influence healing rates. There were no major side effects with either medi",
+            "journal": "Digestion",
+            "year": "1983",
+            "authors": [
+              "Kellow J E",
+              "Barr G D",
+              "Cowen A E",
+              "Ward M",
+              "Wood L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Alcohol Drinking",
+              "Anti-Ulcer Agents",
+              "Chronic Disease",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6313458/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "systemic mastocytosis",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "6312110",
+            "title": "Ranitidine.",
+            "abstract": "Ranitidine is an H2-receptor antagonist that was released recently for use in the treatment of acute duodenal ulcer disease, Zollinger-Ellison syndrome, and systemic mastocytosis with gastric hypersecretion. The pharmacokinetics, efficacy, adverse effects, and clinical utility of ranitidine are presented. The drug is similar in therapeutic effect to its predecessor, cimetidine, yet has certain advantages over cimetidine in clinical applications.",
+            "journal": "JAMA",
+            "year": "1983",
+            "authors": [
+              "Strum W B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Animals",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Humans",
+              "Male",
+              "Mice"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6312110/"
+          },
+          {
+            "pmid": "7274032",
+            "title": "Cimetidine in systemic mastocytosis.",
+            "abstract": "54-year-old caucasian women with systemic mastocytosis manifested by gastrointestinal and dermatological symptoms that were treated with cyproheptadine, Lomotil (diphenoxylate-atropine), and cimetidine was studied. The patient consented to discontinue the H2-receptor antagonist, and to have the following values measured: serum and urine concentrations of cimetidine: complete blood count (CBC) with differential, serum chemistry, and urinalysis; and systemic mastocytosis symptomatology. The patient experienced prompt recurrence of gastrointestinal and dermatological symptoms after stopping the cimetidine; the drug was restarted in three days and the symptoms subsided. The preceding laboratory and symptomatological values were recorded for 11 days after the reinstitution of cimetidine therapy. Histamine, gastrin, CBC, serum chemistry, and urinalysis remained normal, with and without cimetidine. Exacerbations of her symptoms were worst when no drug was detected in the serum. Therefore, it ",
+            "journal": "Drug intelligence & clinical pharmacy",
+            "year": "1981",
+            "authors": [
+              "Berg M J",
+              "Bernhard H",
+              "Schentag J J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Female",
+              "Gastrins",
+              "Guanidines",
+              "Histamine",
+              "Humans",
+              "Urticaria Pigmentosa"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7274032/"
+          },
+          {
+            "pmid": "6775532",
+            "title": "The effect of cimetidine and propantheline on the symptoms of a patient with systemic mastocytosis.",
+            "abstract": "A 24 year old white woman with a lifelong history of systemic mastocytosis and symptoms of diarrhea and flushing was demonstrated to have a normal gastric analysis and inconsistent steatorrhea. She responded well to oral cimetidine therapy for 11 months. A symptomatic recurrence was controlled with the addition of propantheline. Gastric secretory studies demonstrated cimetidine suppression of both basal acid and basal pepsin secretion, as well as maximal pentagastrin-stimulated acid secretion; suppression of stimulated pepsin secretion was minimal. The combination of cimetidine and propantheline markedly suppressed both peak acid and peak pepsin secretion in response to pentagastrin stimulation. These data support a dominant role of cholinergic mechanisms in the control of gastric pepsin secretion; additional data obtained with maintenance of constant intragastric pH are required for further clarification.",
+            "journal": "The American journal of medicine",
+            "year": "1980",
+            "authors": [
+              "Achord J L",
+              "Langford H"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Celiac Disease",
+              "Cimetidine",
+              "Diarrhea",
+              "Female",
+              "Gastric Juice",
+              "Guanidines",
+              "Humans",
+              "Pepsin A",
+              "Propantheline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6775532/"
+          },
+          {
+            "pmid": "3917606",
+            "title": "Comparison of the therapeutic efficacy of cromolyn sodium with that of combined chlorpheniramine and cimetidine in systemic mastocytosis. Results of a double-blind clinical trial.",
+            "abstract": "Both antihistamines and cromolyn sodium have been suggested for the treatment of systemic mastocytosis. To determine if one drug regimen was superior to the other, eight patients with systemic mastocytosis were admitted to a double-blind, double-crossover study in which the therapeutic efficacy of cromolyn sodium was compared with that of a combination of chlorpheniramine and cimetidine. Response to therapy was assessed by the patients using symptom scores and by the attending physicians during clinic examinations in addition to sequential plasma and urinary histamine determinations. In the six patients who completed the trial, the patient symptom scores and the physician evaluations indicated that there was no advantage of one drug regimen over the other. Plasma and urinary histamine levels, markedly elevated in most of the patients, were not consistently altered by administration of either cromolyn sodium or the combined antihistamines. Thus, cromolyn sodium and the combined antihist",
+            "journal": "The American journal of medicine",
+            "year": "1985",
+            "authors": [
+              "Frieri M",
+              "Alling D W",
+              "Metcalfe D D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Analysis of Variance",
+              "Chlorpheniramine",
+              "Cimetidine",
+              "Cromolyn Sodium",
+              "Double-Blind Method",
+              "Drug Evaluation",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3917606/"
+          },
+          {
+            "pmid": "373561",
+            "title": "Effect of cimetidine on gastric hypersecretion and diarrhea in systemic mastocytosis.",
+            "abstract": "Two patients had systemic mastocytosis and histamine excess, marked gastric acid and pepsin hypersecretion, and diarrhea. Cimetidine inhibited gastric acid secretion in both, but with only partial initial control of diarrhea. The other manifestations of mastocytosis were only partly controlled, even by combined H-1 and H-2 antagonist therapy. Basal and pentagastrin-stimulated acid and pepsin secretion before and after 5 and 14 months, respectively, of continuous and effective cimetidine therapy were essentially the same. Thus there was no evidence for an increase in the number of H-2 receptors during the long period of blockade or of involution of the parietal or peptic cell mass.",
+            "journal": "Annals of internal medicine",
+            "year": "1979",
+            "authors": [
+              "Hirschowitz B I",
+              "Groarke J F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Diarrhea",
+              "Female",
+              "Gastric Juice",
+              "Guanidines",
+              "Histamine Antagonists",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/373561/"
+          },
+          {
+            "pmid": "1498379",
+            "title": "Systemic mastocytosis treated with histamine H1 and H2 receptor antagonists.",
+            "abstract": "A case of systemic mastocytosis with skin characteristics of telangiectasia macularis eruptiva perstans is reported. Systemic involvement was confirmed as a combination of highly increased urinary excretion of methyl imidazole acetic acid (Melm AA) and increased amounts of mast cells in skin, liver and colon transversum. Treatment with cimetidine (H2 receptor antagonist) resulted in diarrhea, however, the addition of cyproheptadine (H1 receptor antagonist) was beneficial in amelioration of the cutaneous symptoms of mastocytosis. The excretion of Melm AA was unchanged during treatment. After 7 months of continuous cimetidine and cyproheptadine treatment no side effects were observed.",
+            "journal": "Dermatology (Basel, Switzerland)",
+            "year": "1992",
+            "authors": [
+              "Gasior-Chrzan B",
+              "Falk E S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Biopsy",
+              "Cimetidine",
+              "Colon",
+              "Cyproheptadine",
+              "Diarrhea",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Liver",
+              "Male",
+              "Mast Cells"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1498379/"
+          },
+          {
+            "pmid": "6101289",
+            "title": "Treatment of systemic mastocytosis.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1980",
+            "authors": [
+              "Simon R A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Cromolyn Sodium",
+              "Cyproheptadine",
+              "Drug Therapy, Combination",
+              "Guanidines",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Hydroxyzine",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6101289/"
+          },
+          {
+            "pmid": "7446515",
+            "title": "Malabsorption and gastric hyperacidity in systemic mastocytosis. Results of cimetidine therapy.",
+            "abstract": "Visceral infiltration by mast cells (systemic mastocytosis) is an unusual manifestation of cutaneous mastocytosis. Symptomatic gastrointestinal disease occurs in approximately one-fourth of patients having systemic mastocytosis. An unusual gastrointestinal complication is malabsorption, described in sporadic case reports. A patient with gastric acid hypersecretion and malabsorption is described. Treatment using the histamine H2 antagonist, cimetidine, ameliorated the patient's gastrointestinal symptoms; however, the malabsorption was not resolved.",
+            "journal": "The American journal of gastroenterology",
+            "year": "1980",
+            "authors": [
+              "Bredfeldt J E",
+              "O'Laughlin J C",
+              "Durham J B",
+              "Blessing L D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Celiac Disease",
+              "Cimetidine",
+              "Gastric Acidity Determination",
+              "Gastric Juice",
+              "Guanidines",
+              "Humans",
+              "Jejunal Diseases",
+              "Jejunum",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7446515/"
+          },
+          {
+            "pmid": "3130825",
+            "title": "Variceal bleeding, hypersplenism, and systemic mastocytosis. Pathophysiology and management.",
+            "abstract": "Systemic mastocytosis is characterized by an abnormal proliferation of tissue mast cells. Though rarely a surgical disease, it occasionally presents as variceal bleeding secondary to portal hypertension. Ultrastructural studies of the liver and spleen and portal pressure measurements support the hypothesis that a perisinusoidal intrahepatic fibrosis is responsible for the increased portal pressure. When variceal bleeding complicates systemic mastocytosis, shunt surgery is indicated, with the type of shunt dictated by both hematologic and hemodynamic issues. Satisfactory blockade of histamine release can be achieved preoperatively by disodium cromoglycate and/or histamine antagonists to obviate any systemic effects precipitated by shunting of mast cell-rich splenic blood into the systemic circulation.",
+            "journal": "Archives of surgery (Chicago, Ill. : 1960)",
+            "year": "1988",
+            "authors": [
+              "Sumpio B E",
+              "O'Leary G",
+              "Gusberg R J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Combined Modality Therapy",
+              "Cromolyn Sodium",
+              "Gastrointestinal Hemorrhage",
+              "Humans",
+              "Hypertension, Portal",
+              "Male",
+              "Mast Cells",
+              "Microscopy, Electron"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3130825/"
+          },
+          {
+            "pmid": "6765981",
+            "title": "Treatment of systemic mastocytosis.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1980",
+            "authors": [
+              "O'Laughlin J C",
+              "Bredfeldt J E"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Cromolyn Sodium",
+              "Guanidines",
+              "Humans",
+              "Malabsorption Syndromes",
+              "Urticaria Pigmentosa"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6765981/"
+          },
+          {
+            "pmid": "2880686",
+            "title": "Systemic mastocytosis: management of an unusual case with histamine (H1 and H2) antagonists and cyclooxygenase inhibition.",
+            "abstract": "A patient with urticaria pigmentosa and systemic mastocytosis developed hypotension following indomethacin administration. He then developed further episodes not related to indomethacin. Based upon the experience of others with the management of patients with systemic mastocytosis who showed exceptional reaction to cyclooxygenase inhibition, it was decided to treat him with H1 and H2 blockade followed by aspirin, another cyclooxygenase inhibitor. The procedure was carried out under careful observation with cardiac monitoring. After 160 mg of aspirin, he developed hypotension, tachycardia, and flushing accompanied by difficulty of breathing and headache. A vasoconstrictor drug (levarterenol) was administered. The patient's symptoms subsided, and after 1 hour aspirin was again administered, this time with no side effects. The dosage was increased to 975 mg every 6 hours, and he has had no further hypotensive episodes on this regime for 2 years. Cyclooxygenase inhibition, combined with H1",
+            "journal": "Clinical and investigative medicine. Medecine clinique et experimentale",
+            "year": "1987",
+            "authors": [
+              "Crawhall J C",
+              "Wilkinson R D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Cyclooxygenase Inhibitors",
+              "Histamine H1 Antagonists",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Male",
+              "Mastocytosis",
+              "Middle Aged",
+              "Ranitidine",
+              "Tachycardia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2880686/"
+          },
+          {
+            "pmid": "6797296",
+            "title": "Thyrotropin-releasing hormone suppressed gastric acid output in patients with Zollinger-Ellison syndrome and systemic mastocytosis.",
+            "abstract": "",
+            "journal": "The American journal of medicine",
+            "year": "1981",
+            "authors": [
+              "Hutton S W",
+              "Morley J E",
+              "Parent M K",
+              "Johnson G J",
+              "Silvis S E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Cimetidine",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "Humans",
+              "Thyrotropin-Releasing Hormone",
+              "Urticaria Pigmentosa",
+              "Zollinger-Ellison Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6797296/"
+          },
+          {
+            "pmid": "3983450",
+            "title": "[Gastrointestinal manifestations of systemic mastocytosis and its treatment with antagonists of H1 and H2 receptors. Experimental study].",
+            "abstract": "",
+            "journal": "Revista espanola de las enfermedades del aparato digestivo",
+            "year": "1985",
+            "authors": [
+              "Serrano Sánchez P A"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cimetidine",
+              "Diarrhea",
+              "Diphenhydramine",
+              "Duodenal Ulcer",
+              "Exocytosis",
+              "Female",
+              "Male",
+              "Rats",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3983450/"
+          },
+          {
+            "pmid": "3450776",
+            "title": "[A case of systemic mastocytosis with flushing, palpitation and dyspnea].",
+            "abstract": "",
+            "journal": "Nihon Naika Gakkai zasshi. The Journal of the Japanese Society of Internal Medicine",
+            "year": "1987",
+            "authors": [
+              "Kawano Y",
+              "Abe H",
+              "Yoshida K",
+              "Saitoh F",
+              "Kuramochi M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chlorpheniramine",
+              "Cimetidine",
+              "Diagnosis, Differential",
+              "Drug Therapy, Combination",
+              "Dyspnea",
+              "Histamine",
+              "Humans",
+              "Ketotifen",
+              "Male",
+              "Mastocytosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3450776/"
+          },
+          {
+            "pmid": "6150641",
+            "title": "Comparison of the effectiveness of ranitidine and cimetidine in inhibiting acid secretion in patients with gastric hypersecretory states.",
+            "abstract": "The H2-histamine receptor antagonists ranitidine and cimetidine were compared for their abilities to control gastric acid hypersecretion on a short- and long-term basis in 22 patients with gastric acid hypersecretory states. Nineteen patients had Zollinger-Ellison syndrome, one patient had systemic mastocytosis, and two patients had idiopathic hypersecretion. The rates of onset of the action of cimetidine and ranitidine were the same. The actions of both drugs were increased by anticholinergic agents, and there was a close correlation between the daily maintenance dose of each drug needed to control acid secretion. However, ranitidine was threefold more potent than cimetidine both in acute inhibition studies and in the median maintenance dose needed (1.2 g per day for ranitidine and 3.6 g per day for cimetidine). Sixty percent of the males developed breast changes or impotence while taking cimetidine and in all cases these changes disappeared when cimetidine was replaced by ranitidine.",
+            "journal": "The American journal of medicine",
+            "year": "1984",
+            "authors": [
+              "Jensen R T",
+              "Collen M J",
+              "McArthur K E",
+              "Howard J M",
+              "Maton P N"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Cimetidine",
+              "Clinical Trials as Topic",
+              "Dose-Response Relationship, Drug",
+              "Drug Therapy, Combination",
+              "Erectile Dysfunction",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "Gynecomastia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6150641/"
+          },
+          {
+            "pmid": "6189461",
+            "title": "Hazards in operative management of patients with systemic mastocytosis.",
+            "abstract": "During the past two years, six patients with systemic mastocytosis have required general or regional anesthesia for operative correction of various surgical problems. Mastocytosis constitutes an extremely difficult problem in diagnosis and management. A large experience with patients with mastocytosis in the Vanderbilt Medical Center in the last decade has enhanced awareness of this disorder and increased its early recognition. The hazardous problems of systemic mastocytosis and the difficulties of its diagnosis and management are summarized and focussed on the increased hazard of those patients with this disease who require various surgical operations. Close collaboration between anesthesiologists, surgeons, and internists in this medical center in the past two years has made it possible to carry six of these patients through anesthesia, operation, and the postoperative period safely and without fatality.",
+            "journal": "Annals of surgery",
+            "year": "1983",
+            "authors": [
+              "Scott H W",
+              "Parris W C",
+              "Sandidge P C",
+              "Oates J A",
+              "Roberts L J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chlorpheniramine",
+              "Cimetidine",
+              "Face",
+              "Female",
+              "Histamine Release",
+              "Humans",
+              "Hypotension",
+              "Intraoperative Care",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6189461/"
+          },
+          {
+            "pmid": "620913",
+            "title": "Report on the United States experience with cimetidine in Zollinger-Ellision syndrome and other hypersecretory states.",
+            "abstract": "Sixty-one cases of the Zollinger-Ellison syndrome, encountered over a 2-year period, have been treated with cimetidine, half of them for over 1 year. Two-thirds of the patients responded to 300 mg of the drug every 6 hr by mouth. Others required up to 600 mg every 6 hr. In adequate doses the drug was highly effective: it controlled pain and dyspepsia, restored weight, abolished diarrhea, and allowed healing of ulcers and other inflammatory conditions. Missed or reduced doses led to rapid return of symptoms. Progression of the basic neoplastic process, with associated secretory drive, was unimpeded. Patient acceptance of the drug was 100 percent, and apart from minor transient abnormalities, gynecomastia (5 cases) and liver dysfunction (3 cases), which resolved while treatment continued, no serious adverse effects were seen. Of 61 patients 48 are still on the drug, 3 who were well controlled were treated surgically, 5 died for reasons unrelated to therapy, and 5 had significant problems",
+            "journal": "Gastroenterology",
+            "year": "1978",
+            "authors": [
+              "McCarthy D M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Antacids",
+              "Cimetidine",
+              "Female",
+              "Gastric Juice",
+              "Guanidines",
+              "Gynecomastia",
+              "Histamine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/620913/"
+          },
+          {
+            "pmid": "9830775",
+            "title": "[Systemic mastocytosis: clinical case].",
+            "abstract": "We report a 38 years old female who, since her childhood, had a history of precisely limited, fixed maculo papular dark brown cutaneous lesions in the trunk and extremities. These lesions become erythematous or urticarial after rubbing, medication intake or scratching. She also had frequent episodes of tachycardia, flushing, headache, abdominal pain, arthralgia, diarrhea and vomiting. She was hospitalized in three occasions due to high frequency tachycardia, hypotension, generalized urticarial erythema and clouding of consciousness. Three of these episodes occurred after the ingestion of antiinflammatory drugs or acetylsalicylic acid. Mastocyte infiltration was confirmed in skin and bone marrow biopsies and in bone scintiscan. The use of H1, H2 blockers and mastocyte stabilizers gave partial relief to the patient.",
+            "journal": "Revista medica de Chile",
+            "year": "1998",
+            "authors": [
+              "Mardones P",
+              "Moyano C",
+              "Peña K",
+              "Quijada C"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chlorpheniramine",
+              "Cimetidine",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Ketotifen",
+              "Urticaria Pigmentosa"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9830775/"
+          },
+          {
+            "pmid": "2869475",
+            "title": "Radiologic case study. Systemic mastocytosis.",
+            "abstract": "",
+            "journal": "Orthopedics",
+            "year": "1985",
+            "authors": [
+              "Griffiths H",
+              "Steiner E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Aged",
+              "Bone Diseases",
+              "Cimetidine",
+              "Diagnosis, Differential",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2869475/"
+          },
+          {
+            "pmid": "6782861",
+            "title": "Long-term treatment of systemic mastocytosis with histamine H2 receptor antagonists.",
+            "abstract": "A patient with systemic mastocytosis, accompanied by gastric hypersecretion and duodenal ulcer, was treated with metiamide followed by daily cimetidine for 44 months. Treatment with cimetidine resulted in healing of the ulcer, without recurrence and marked amelioration of the cutaneous symptoms of mastocytosis. Complete suppression of basal gastric hypersecretion was documented after 33 months of treatment and cimetidine and Vitamin B12 absorption remained normal. Cimetidine reduced the patient's cutaneous response to intradermal histamine without affecting leucocyte histamine release. No cimetidine toxicity was observed. These results indicate that effective long-term control of histamine-induced gastric hypersecretion can be achieved with cimetidine. They suggest that some of the cutaneous symptoms of mastocytosis are mediated via histamine H2 receptors in the skin.",
+            "journal": "The American journal of gastroenterology",
+            "year": "1980",
+            "authors": [
+              "Johnson G J",
+              "Silvis S E",
+              "Roitman B",
+              "Blumenthal M",
+              "Gilbert H S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Duodenal Ulcer",
+              "Gastric Acid",
+              "Guanidines",
+              "Humans",
+              "Long-Term Care",
+              "Male",
+              "Metiamide",
+              "Osteoporosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6782861/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "gastrin secretion abnormality",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "342231",
+            "title": "Cimetidine: a review of its pharmacological properties and therapeutic efficacy in peptic ulcer disease.",
+            "abstract": "Cimetidine is a specific competitive histamine H2-receptor antagonist which effectively inhibits gastric acid secretion and is advocated for the treatment of chronic peptic ulceration, haemorrhage from erosive gastritis, and the control of gastric hypersecretion and peptic ulceration in the Zollinger-Ellison syndrome. Placebo-controlled trials in outpatients have demonstrated its efficacy in promoting the healing of endoscopically diagnosed duodenal ulceration, during a period of 4 to 6 weeks, but its role in the treatment of gastric ulcer is less clear. Preliminary evidence suggests that maintenance therapy with cimetidine reduces the rate of recurrence of duodenal ulcer, but further studies are required to clarify its role in this situation and in the treatment of oesophagitis and acute gastrointestinal haemorrhage. Cimetidine controls the peptic ulceration of Zollinger-Ellison syndrome in most patients when given continuously for up to 2 years. Side-effects have generally been trivi",
+            "journal": "Drugs",
+            "year": "1978",
+            "authors": [
+              "Brogden R N",
+              "Heel R C",
+              "Speight T M",
+              "Avery G S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Animals",
+              "Cimetidine",
+              "Duodenal Ulcer",
+              "Gastric Juice",
+              "Gastrins",
+              "Gastrointestinal Hemorrhage",
+              "Guanidines",
+              "Humans",
+              "Intrinsic Factor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/342231/"
+          },
+          {
+            "pmid": "2906873",
+            "title": "Plasma prolactin, sex steroids and gastrin in human volunteers treated for 2 weeks with therapeutic doses of cimetidine or the new histamine H2-receptor antagonist ramixotidine (CM 57755A).",
+            "abstract": "Three groups of eight healthy male volunteers received placebo for 2 days, then daily morning doses either of cimetidine 800 mg, ramixotidine 750 mg (CM 57755A), or placebo, for 14 days, and then were all returned to placebo for one more day. Plasma levels of prolactin, testosterone and 17 beta-estradiol were measured on Days 2, 3, 16 and 17 in blood samples taken 30 and 15 min before and 0, 60, 120, 180, 240 and 300 min after treatment. Gastrin was assayed in blood collected on the same days 180 min after treatment. Mean pre- and post-treatment areas under the time-concentration curves of the first three hormones were not significantly different in the three groups on any test day, or within the same group throughout the four test days. Mean plasma gastrin levels ranged between 27 and 42 pg/ml, respectively, in the placebo and cimetidine treated groups on test day 3, and intermediate values were found in the group receiving CM 57755A. There was no statistically significant difference ",
+            "journal": "European journal of clinical pharmacology",
+            "year": "1988",
+            "authors": [
+              "Colle M",
+              "Ruedas E",
+              "Cazenave J",
+              "Auzerie J",
+              "Basilisco G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cimetidine",
+              "Estradiol",
+              "Gastrins",
+              "Histamine H2 Antagonists",
+              "Hormones",
+              "Humans",
+              "Male",
+              "Niacinamide",
+              "Prolactin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2906873/"
+          },
+          {
+            "pmid": "7004992",
+            "title": "A consideration of the adverse effects of cimetidine.",
+            "abstract": "The value of cimetidine in treatment of duodenal ulcer and the Zollinger-Ellison syndrome appears to be well established. The drug has been enthusiastically embraced and widely used by practicing physicians. As with virtually all drugs used in the practice of medicine, cimetidine is not without its adverse effects. In some instances these effects may result from actions of cimetidine on H2-receptors on many widely distributed and diverse cells other than parietal cells, to which its potent acid-inhibiting properties are directed. Other adverse effects of cimetidine may be idiosyncratic, and, therefore, not predictable on a pharmacologic basis. In some instances the mechanisms responsible for cimetidine's adverse effects hav e yet to be defined. An assortment of abnormalities reported in patients receiving cimetidine have been suggested, but not proven, to represent adverse effects of the drug. Considering its extremely wide use, serious toxicity with cimetidine is rare. However, no pot",
+            "journal": "Gastroenterology",
+            "year": "1981",
+            "authors": [
+              "McGuigan J E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agranulocytosis",
+              "Animals",
+              "Bone Marrow",
+              "Central Nervous System",
+              "Chemical and Drug Induced Liver Injury",
+              "Cimetidine",
+              "Creatinine",
+              "Duodenal Ulcer",
+              "Endocrine Glands",
+              "Gastric Juice"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7004992/"
+          },
+          {
+            "pmid": "7125738",
+            "title": "The early diagnosis of gastrinoma.",
+            "abstract": "Despite the increasing awareness of gastrinoma and its lethal peptic ulcer sequelae, the diagnosis is often initially missed or made as a terminal event. The authors screened all patients with peptic ulcer symptoms serious enough to warrant hospital admission or those associated with diarrhea, nephrolithiasis, hypercalcemia, or pituitary abnormality. In a one-year period (1979-1980) nine (of 14 suspected) new gastrinoma patients were identified using a sensitive and specific gastrin radioimmunoassay in combination with provocative tests including IV secretin, calcium, and food. Conventional upper GI series, CAT scan, arteriography, and endoscopy provided no additional information other than to confirm the presence of ulcer disease. Basal plasma gastrin levels were more than 200 pmol L-1 in only three of the nine (normal fasting plasma gastrin levels are less than 25 pmol L-1). Three patients presented with acute ulcer perforation, and the diagnosis of gastrinoma was suspected because o",
+            "journal": "Annals of surgery",
+            "year": "1982",
+            "authors": [
+              "Modlin I M",
+              "Jaffe B M",
+              "Sank A",
+              "Albert D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Calcium Gluconate",
+              "Diagnosis, Differential",
+              "Female",
+              "Gastrectomy",
+              "Gastrins",
+              "Humans",
+              "Male",
+              "Peptic Ulcer",
+              "Secretin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7125738/"
+          },
+          {
+            "pmid": "6251758",
+            "title": "Primary peptic ulcerations of the jejunum associated with islet cell tumors. Twenty-five-year appraisal.",
+            "abstract": "A review of 42 patients with gastrinoma, who either survived five years or longer or who died during this period of evaluation, was carried out to define the surgical principles which might be combined with the recent trend toward cimetidine therapy. Thirty-four (80%) of the patients had total gastrectomy with an operative mortality rate of 2.3%, and eight patients (20%) had less than total gastrectomy. No tumor was found in six patients with hypergastrinemia and an abnormal secretin bolus whose five-year survival rate was 100%. Of the thirty-six patients having tissue proof of gastrinoma, twenty-two (61%) had complete resection of all gross tumor resulting in a 76% five-year survival rate. Fourteen patients had unresectable tumor or partial resection with a five-year survival rate of 21%. Complete gross tumor resection increased mean survival by six years (p < 0.01), but resulted in persistent eugastrinemia in only two patients. Long-term survival was possible with a combination of va",
+            "journal": "Annals of surgery",
+            "year": "1980",
+            "authors": [
+              "Zollinger R M",
+              "Ellison E C",
+              "Fabri P J",
+              "Johnson J",
+              "Sparks J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adenoma, Islet Cell",
+              "Cimetidine",
+              "Follow-Up Studies",
+              "Gastrectomy",
+              "Gastrins",
+              "Humans",
+              "Jejunal Diseases",
+              "Pancreatectomy",
+              "Pancreatic Neoplasms",
+              "Peptic Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6251758/"
+          },
+          {
+            "pmid": "2263884",
+            "title": "Five-year cimetidine maintenance trial for peptic ulcer disease. A clinical and endocrinologic approach.",
+            "abstract": "A multicentre maintenance trial was conducted in 63 peptic ulcer patients to investigate the efficacy and safety of continuous cimetidine maintenance therapy for up to 5 years. In Amsterdam the male patients were investigated yearly for possible endocrinologic changes and to monitor gastric acid secretory capacity. Patients with healed ulcers entered maintenance treatment with a 400-mg bedtime dose of cimetidine. The yearly relapse rates decreased from 20% to 6% from year 1 to year 4. Adverse reactions observed in this study were not different from those previously reported with cimetidine. Endocrinologic studies in 10 male patients showed a small but consistent increase in basal gastrin in the 3rd and 4th year, stabilizing in the 5th year. Prolactin levels showed a gradual increase during the first 3 years but remained well within the normal range. In the 4th and 5th year they decreased again; however, the changes noted were rather modest. It is concluded from this study that weak noc",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1990",
+            "authors": [
+              "Tytgat G N",
+              "Hameeteman W",
+              "Mulder C J",
+              "Wiersinga W",
+              "van de Boomgaard D M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Chi-Square Distribution",
+              "Cimetidine",
+              "Endoscopy, Gastrointestinal",
+              "Hormones",
+              "Humans",
+              "Middle Aged",
+              "Peptic Ulcer",
+              "Recurrence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2263884/"
+          },
+          {
+            "pmid": "2957210",
+            "title": "Inhibition of pentagastrin-stimulated gastric acid secretion and plasma levels of the new histamine H2-receptor antagonist ramixotidine dihydrochloride (CM 57755) in human volunteers.",
+            "abstract": "The new competitive histamine H2-receptor antagonist, ramixotidine 2 HCl (CM 57755), has been tested in healthy male volunteers for its ability to inhibit pentagastrin-stimulated gastric acid secretion. In the first study, in 8 subjects, pentagastrin 6 micrograms.kg-1 was injected s.c., 90 min after the following 4 oral treatments given in random order at weekly intervals: placebo, 100, 200 and 400 mg CM 57755. Gastric contents were collected over 15-min periods during the 2 h after pentagastrin stimulation. In a second, similar study, 8 subjects received placebo, 0.5 and 1.0 g CM 57755 and 800 mg cimetidine, 120 min before a 2 h i.v. infusion of 6 micrograms.kg-1.h-1 pentagastrin. Cumulative gastric secretion in placebo-treated subjects was 46 +/- 14 and 62 +/- 11 mmol H+.2 h-1 (mean +/- SD), respectively, in the first and second studies. It was significantly reduced only after 400 mg CM 57755 in the first study. In the second study either dose of CM 57755 and cimetidine caused a sign",
+            "journal": "European journal of clinical pharmacology",
+            "year": "1987",
+            "authors": [
+              "Brassinne A",
+              "Dresse A",
+              "Basilisco G",
+              "Manara L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Double-Blind Method",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "Humans",
+              "Injections, Intravenous",
+              "Injections, Subcutaneous",
+              "Male",
+              "Niacinamide",
+              "Pentagastrin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2957210/"
+          },
+          {
+            "pmid": "6798101",
+            "title": "Neural and hormonal factors in peptic ulcer disease.",
+            "abstract": "The cause of duodenal ulcer (DU) is unknown, but gastric acid and pepsin must be involved in the pathogenesis of the disorder: (1) Patients with massive acid hypersecretion due to gastrinoma almost develop peptic ulcer, usually duodenal; (2) ordinary DU patients, on the average, secrete much more acid basally and also have larger acid secretory capacities than healthy people; and (3) reduction of gastric acid secretion (e.g., with cimetidine) accelerates DU healing and prevents DU from recurring. Although factors responsible for increased basal acid secretion rates and for increased maximal secretory capacity (parietal cell mass) in many DU patients are not completely understood, it is likely that neural and hormonal factors are involved: The stomachs of some DU patients may be under increased vagal drive in the basal state. Parietal cells of DU patients are more sensitive to the hormone gastrin, which is released by food. In this review, evidence for abnormalities in vagal function an",
+            "journal": "Journal of clinical gastroenterology",
+            "year": "1981",
+            "authors": [
+              "Feldman M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Duodenal Ulcer",
+              "Gastric Acid",
+              "Gastrins",
+              "Humans",
+              "Pepsin A",
+              "Vagus Nerve"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6798101/"
+          },
+          {
+            "pmid": "6088239",
+            "title": "Radionuclide imaging of Meckel's diverticulum: cimetidine versus pentagastrin plus glucagon.",
+            "abstract": "The aim of this study was to investigate the effects of prior administration of cimetidine in radionuclide imaging of Meckel's diverticulum. In three groups of seven rats with artificial Meckel's diverticulum, containing ectopic gastric mucosa, the effects of pentagastrin + glucagon plus 99mTc-pertechnetate, as well as cimetidine premedication plus 99mTc-pertechnetate, and 99mTc-pertechnetate alone were compared to attain improved radionuclide imaging of Meckel's diverticulum. This experimental model suggests that the use of cimetidine seemed to have some advantages: (a) nontarget (intestinal) radioactivity was diminished by cimetidine, (b) the target to nontarget (Meckel's diverticulum to intestinal activity) ratio increased with cimetidine pretreatment. This resulted in an enhanced accumulation of pertechnetate in the ectopic gastric mucosa, and reduced excretion of the radionuclide into the lumen. Consequently, better scintiphotograms and a low rate of false results added to the val",
+            "journal": "European journal of nuclear medicine",
+            "year": "1984",
+            "authors": [
+              "Yeker D",
+              "Büyükünal C",
+              "Benli M",
+              "Büyükünal E",
+              "Urgancioğlu I"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cimetidine",
+              "Gastric Mucosa",
+              "Glucagon",
+              "Humans",
+              "Male",
+              "Meckel Diverticulum",
+              "Methods",
+              "Pentagastrin",
+              "Radionuclide Imaging"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6088239/"
+          },
+          {
+            "pmid": "1853146",
+            "title": "Prevention of relapse of reflux esophagitis after endoscopic healing: the efficacy and safety of omeprazole compared with ranitidine.",
+            "abstract": "Ninety-eight patients with erosive and/or ulcerative esophagitis unhealed after at least 3 months' treatment with standard doses of cimetidine (greater than or equal to 1200 mg daily) or ranitidine (greater than or equal to 300 mg daily) were primarily included in an acute healing phase study, and 51 were allocated to 40 mg omeprazole once daily and 47 to 300 mg ranitidine twice daily. After 12 weeks of treatment, 46 (90%) patients given omeprazole were healed, compared with 22 (47%) allocated to ranitidine. Healed patients were then given maintenance treatment with either 20 mg omeprazole once daily or 150 mg ranitidine twice daily for 12 months. Plasma gastrin was determined and gastric mucosal biopsy specimens were obtained during the entire study to assess the structure of the exocrine and endocrine cell populations of the oxyntic mucosa. Sixty-seven per cent of the total number of patients randomized to omeprazole were maintained in clinical and endoscopic remission throughout the",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1991",
+            "authors": [
+              "Lundell L",
+              "Backman L",
+              "Ekström P",
+              "Enander L K",
+              "Falkmer S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Biopsy",
+              "Chi-Square Distribution",
+              "Esophagitis, Peptic",
+              "Esophagoscopy",
+              "Gastric Mucosa",
+              "Gastrins",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1853146/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19961701AZ",
+        "product": "TYMIDIN 200",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-06-06",
+        "date_end": "2027-06-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19961701AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL07101253AZ",
+        "product": "Axcel Cimetidine 200 Tablet",
+        "active_ingredient": "CIMETIDINE[200;mg;;]",
+        "generic_name": NaN,
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-28",
+        "date_end": "2027-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL07101253AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19973015AZ",
+        "product": "Prime's Cimetidine 200 Tablet",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-10-29",
+        "date_end": "2027-10-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19973015AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20021365AZ",
+        "product": "DUODIN INJECTION",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine HCl 200 mg/2 ml Injection",
+        "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-11-23",
+        "date_end": "2027-11-23",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20021365AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19973692AZ",
+        "product": "TAGAPINE INJECTION (2ML AMP)",
+        "active_ingredient": "CIMETIDINE[100MG/ML                      ]",
+        "generic_name": "Cimetidine HCl 200 mg/2 ml Injection",
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-01",
+        "date_end": "2028-02-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19973692AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19984396AZ",
+        "product": "Prime's Cimetidine 400 Tablet",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "PRIME PHARMACEUTICAL SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-03-03",
+        "date_end": "2028-03-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19984396AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921587AZ",
+        "product": "CIMULCER TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-24",
+        "date_end": "2028-04-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921587AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19921586AZ",
+        "product": "CIMULCER TABLET 200MG",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-24",
+        "date_end": "2028-04-24",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19921586AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19930396AZ",
+        "product": "hovid-Cimetidine Film-Coated Tablet 400 mg",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "HOVID BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-11-06",
+        "date_end": "2028-11-06",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19930396AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19930598AZ",
+        "product": "XEPAMET FILM-COATED TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-01-07",
+        "date_end": "2029-01-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19930598AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19930597AZ",
+        "product": "XEPAMET FILM-COATED TABLET 200MG",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-01-07",
+        "date_end": "2029-01-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19930597AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940372AZ",
+        "product": "SHINTAMET FILM COATED TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-25",
+        "date_end": "2029-04-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940372AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19985164AEZ",
+        "product": "DEFENSE FILM COATED TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-04-25",
+        "date_end": "2029-04-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19985164AEZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19986499AZ",
+        "product": "SHINTAMET FILM COATED TABLET 200MG",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "Y.S.P. INDUSTRIES (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "CONDITIONAL REGISTRATION",
+        "date_reg": "2024-04-25",
+        "date_end": "2029-04-25",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19986499AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940254AZ",
+        "product": "DYNAMET TABLET 200MG (F/C)",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-05",
+        "date_end": "2029-07-05",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940254AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940272AZ",
+        "product": "AXCEL CIMETIDINE-200 SUSPENSION",
+        "active_ingredient": "CIMETIDINE[200MG/5ML                     ]",
+        "generic_name": "Cimetidine HCl 200 mg/10 ml Suspension",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-07",
+        "date_end": "2029-07-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940272AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940271AZ",
+        "product": "AXCEL CIMETIDINE-400 TABLET",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-07-07",
+        "date_end": "2029-07-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940271AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940492AZ",
+        "product": "DYNAMET TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "DYNAPHARM (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-11-14",
+        "date_end": "2029-11-14",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940492AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950233AZ",
+        "product": "TYMIDIN TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "SM PHARMACEUTICALS SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-10-07",
+        "date_end": "2030-10-07",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950233AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19940541AZ",
+        "product": "DUOTRIC FILM COATED TABLET 200MG",
+        "active_ingredient": "CIMETIDINE[200MG                         ]",
+        "generic_name": "Cimetidine 200 mg Tablet",
+        "holder": "MILRIN PHARMACEUTICAL COMPANY (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-04-30",
+        "date_end": "2031-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19940541AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19950090AZ",
+        "product": "DUOTRIC FILM COATED TABLET 400MG",
+        "active_ingredient": "CIMETIDINE[400MG                         ]",
+        "generic_name": "Cimetidine 400 mg Tablet",
+        "holder": "MILRIN PHARMACEUTICAL COMPANY (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2026-04-30",
+        "date_end": "2031-04-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19950090AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00501",
+    "name": "Cimetidine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Cimetidine"
+      },
+      "queried_at": "2026-03-04T14:53:12.358040",
+      "status": "success",
+      "result_count": 21,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Cimetidine"
+      },
+      "queried_at": "2026-03-04T14:53:38.389633",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "hyperinsulinism"
+      },
+      "queried_at": "2026-03-04T14:53:40.465813",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "hyperinsulinism"
+      },
+      "queried_at": "2026-03-04T14:53:45.544861",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "hyperinsulinism"
+      },
+      "queried_at": "2026-03-04T14:53:47.432278",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "esophagitis"
+      },
+      "queried_at": "2026-03-04T14:53:48.515678",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "esophagitis"
+      },
+      "queried_at": "2026-03-04T14:53:54.863411",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "esophagitis"
+      },
+      "queried_at": "2026-03-04T14:54:01.080231",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "gastric ulcer"
+      },
+      "queried_at": "2026-03-04T14:54:03.377821",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "gastric ulcer"
+      },
+      "queried_at": "2026-03-04T14:54:08.773036",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "gastric ulcer"
+      },
+      "queried_at": "2026-03-04T14:54:12.438998",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-04T14:54:13.920362",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-04T14:54:19.622835",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-04T14:54:24.208147",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "gastrin secretion abnormality"
+      },
+      "queried_at": "2026-03-04T14:54:24.997615",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "gastrin secretion abnormality"
+      },
+      "queried_at": "2026-03-04T14:54:29.580706",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cimetidine",
+        "disease": "gastrin secretion abnormality"
+      },
+      "queried_at": "2026-03-04T14:54:33.951009",
+      "status": "success",
+      "result_count": 10,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T14:54:33.952181",
+    "version": "1.0"
+  }
+}

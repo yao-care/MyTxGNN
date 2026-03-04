@@ -6,7 +6,7 @@ drug_name: "Everolimus"
 kg_predictions: 80
 dl_predictions: 573
 evidence_level: "L1"
-indication_count: 80
+indication_count: 5
 brands: []
 permalink: /drugs/everolimus/
 ---

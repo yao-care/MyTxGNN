@@ -1,0 +1,129 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20081788ARSZ",
+      "product": "AVASTIN INJECTION 25MG/ML",
+      "active_ingredient": "Bevacizumab[25MG/ML]",
+      "generic_name": "Bevacizumab 25 mg/ml Injection",
+      "holder": "ROCHE (MALAYSIA) SDN. BHD.",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-05-03",
+      "date_end": "2028-05-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20081788ARSZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24066006ACZ",
+      "product": "Avamab (Bevacizumab) 400 mg/16 mL Concentrate for Solution for Infusion",
+      "active_ingredient": "Bevacizumab[400 mg]",
+      "generic_name": NaN,
+      "holder": "KALBE MALAYSIA SDN BHD",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-06-10",
+      "date_end": "2029-06-10",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24066006ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24066007ACZ",
+      "product": "Avamab (Bevacizumab) 100 mg/4 mL Concentrate for Solution for Infusion",
+      "active_ingredient": "Bevacizumab[100 mg]",
+      "generic_name": NaN,
+      "holder": "KALBE MALAYSIA SDN BHD",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-06-10",
+      "date_end": "2029-06-10",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24066007ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19086005ACZ",
+      "product": "MVASI Concentrate for Solution for Infusion 25 mg/ml",
+      "active_ingredient": "Bevacizumab[25 mg/ml ]",
+      "generic_name": NaN,
+      "holder": "Amgen Biopharmaceuticals Malaysia Sdn Bhd",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-08-02",
+      "date_end": "2029-08-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19086005ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24106003AZ",
+      "product": "Vegzelma (Bevacizumab) 25 mg/mL concentrate for solution for infusion",
+      "active_ingredient": "Bevacizumab[25 mg/mL]",
+      "generic_name": NaN,
+      "holder": "CELLTRION HEALTHCARE MALAYSIA SDN. BHD.",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-10-03",
+      "date_end": "2029-10-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24106003AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24126041ACRZ",
+      "product": "CLESONIZ (Bevacizumab) Concentrate for Solution for Infusion 25 mg/ml",
+      "active_ingredient": "Bevacizumab[25 mg/mL]",
+      "generic_name": NaN,
+      "holder": "ABBOTT LABORATORIES (M) SDN. BHD.",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-12-02",
+      "date_end": "2029-12-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24126041ACRZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20102012ARSZ",
+      "product": "Avastin Injection 25 mg/ml",
+      "active_ingredient": "Bevacizumab[25 MG/ML]",
+      "generic_name": "Bevacizumab 25 mg/ml Injection",
+      "holder": "ROCHE (MALAYSIA) SDN. BHD.",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-03-29",
+      "date_end": "2030-03-29",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20102012ARSZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25056009AZ",
+      "product": "VERSAVO 25mg/ml Concentrate for solution for infusion (Bevacizumab)",
+      "active_ingredient": "Bevacizumab[25 mg/mL]",
+      "generic_name": NaN,
+      "holder": "Dr. Reddy`s Laboratories Malaysia Sdn. Bhd.",
+      "description": "BIOLOGICS",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-05-22",
+      "date_end": "2030-05-22",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25056009AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20126007AZ",
+      "product": "KRABEVA Bevacizumab (r-DNA Origin) Concentrate for Solution for Intravenous Infusion 25mg/mL",
+      "active_ingredient": "Bevacizumab[25 mg,1 ml]",
+      "generic_name": NaN,
+      "holder": "BIOCON SDN BHD",
+      "description": "BIOLOGICS",
+      "status": "CONDITIONAL REGISTRATION",
+      "date_reg": "2025-12-04",
+      "date_end": "2030-12-04",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20126007AZ"
+    }
+  ],
+  "timestamp": "2026-03-04T15:19:06.935653",
+  "success": true,
+  "error_message": null
+}

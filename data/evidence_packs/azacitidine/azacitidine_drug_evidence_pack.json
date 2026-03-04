@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Azacitidine",
+    "drugbank_id": "DB00928"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 12
+  },
+  "indications": [
+    {
+      "disease": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 7,
+      "phase2": 26,
+      "phase4": 0
+    },
+    {
+      "disease": "acute myeloblastic leukemia with maturation",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 42,
+      "articles": 20,
+      "phase3": 6,
+      "phase2": 26,
+      "phase4": 0
+    },
+    {
+      "disease": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "myelomonocytic leukemia",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 6,
+      "phase2": 29,
+      "phase4": 1
+    },
+    {
+      "disease": "acute myeloid leukemia with minimal differentiation",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 8,
+      "articles": 5,
+      "phase3": 3,
+      "phase2": 2,
+      "phase4": 0
+    }
+  ]
+}

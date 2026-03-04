@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Magnesium Hydroxide"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB09104",
+    "name": "Magnesium hydroxide",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:23:48.646947",
+  "success": true,
+  "error_message": null
+}

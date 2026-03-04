@@ -1,0 +1,611 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "escherichia coli infection",
+    "query_string": "Ciprofloxacin AND escherichia coli infection"
+  },
+  "data": {
+    "query": "Ciprofloxacin AND escherichia coli infection",
+    "results": [
+      {
+        "pmid": "30938219",
+        "title": "Ciprofloxacin, amoxicillin, and aminoglycosides stimulate genetic and phenotypic changes in uropathogenic Escherichia coli strains.",
+        "abstract": "Antibiotic therapy and its consequences in bacterial and human aspects are widely investigated. Despite this, the emergence of new multidrug resistant bacteria is still a current problem. The scope of our work included the observation of changes among uropathogenic Escherichia coli strains after the treatment with a subinhibitory concentration of different antibiotics. The sensitive strains with or without virulence factors were incubated with amoxicillin, ciprofloxacin, gentamycin, or tobramycin. After each passage, the E. coli derivatives were compared to their wild types based on their susceptibility profiles, virulence genes, biofilm formations and the fingerprint profiles of PCR products amplified with using the (N)(6)(CGG)(4) primer. It turned out that antibiotics caused significant changes in the repertoire of bacterial virulence and biofilm formation, corresponding to acquired cross-resistance. The genomic changes among the studied bacteria were reflected in the changed profile",
+        "journal": "Virulence",
+        "year": "2019",
+        "authors": [
+          "Adamus-Białek Wioletta",
+          "Wawszczak Monika",
+          "Arabski Michał",
+          "Majchrzak Michał",
+          "Gulba Martyna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aminoglycosides",
+          "Amoxicillin",
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Multiple, Bacterial",
+          "Escherichia coli Infections",
+          "Escherichia coli Proteins",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Phenotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30938219/"
+      },
+      {
+        "pmid": "38778123",
+        "title": "Quantifying combined effects of colistin and ciprofloxacin against Escherichia coli in an in silico pharmacokinetic-pharmacodynamic model.",
+        "abstract": "Co-administering a low dose of colistin (CST) with ciprofloxacin (CIP) may improve the antibacterial effect against resistant Escherichia coli, offering an acceptable benefit-risk balance. This study aimed to quantify the interaction between ciprofloxacin and colistin in an in silico pharmacokinetic-pharmacodynamic model from in vitro static time-kill experiments (using strains with minimum inhibitory concentrations, MICCIP 0.023-1 mg/L and MICCST 0.5-0.75 mg/L). It was also sought to demonstrate an approach of simulating concentrations at the site of infection with population pharmacokinetic and whole-body physiologically based pharmacokinetic models to explore the clinical value of the combination when facing more resistant strains (using extrapolated strains with lower susceptibility). The combined effect in the final model was described as the sum of individual drug effects with a change in drug potency: for ciprofloxacin, concentration at half maximum killing rate (EC50) in combin",
+        "journal": "Scientific reports",
+        "year": "2024",
+        "authors": [
+          "Zhao Chenyan",
+          "Kristoffersson Anders N",
+          "Khan David D",
+          "Lagerbäck Pernilla",
+          "Lustig Ulrika"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ciprofloxacin",
+          "Colistin",
+          "Escherichia coli",
+          "Anti-Bacterial Agents",
+          "Computer Simulation",
+          "Microbial Sensitivity Tests",
+          "Humans",
+          "Escherichia coli Infections",
+          "Drug Therapy, Combination",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38778123/"
+      },
+      {
+        "pmid": "37657231",
+        "title": "Remarkable antibiofilm activity of ciprofloxacin, cefoxitin, and tobramycin, by themselves or in combination, against enteroaggregative Escherichia coli in vitro.",
+        "abstract": "Enteroaggregative Escherichia coli (EAEC), a biofilm forming pathogen, causes acute and persistent diarrhea worldwide, requiring antimicrobial therapy in severe or persistent cases. To determine the susceptibility of EAEC biofilm to antimicrobials, as single-agent or combined therapy, biofilm formation was investigated using EAEC clinical strains via peg lid. Of the 78 initially analyzed strains, 35 could form biofilms, 15 (42.9%; 15/35) were resistant to at least 1 tested antimicrobial and 20 (57.1%) were susceptible to all of them in the planktonic form. The biofilms of these susceptible strains were challenged against chosen antimicrobials, and displayed resistance to tetracycline, trimethoprim-sulfamethoxazole, chloramphenicol, ampicillin, cefotaxime, ceftriaxone (85%-100%), tobramycin (25%), cefoxitin (20%), and ciprofloxacin (5%). Moreover, ciprofloxacin combined with ampicillin, and tobramycin eradicated the biofilm of 2 of the 4 tested strains. Ciprofloxacin, cefoxitin, and tob",
+        "journal": "Diagnostic microbiology and infectious disease",
+        "year": "2023",
+        "authors": [
+          "Gastaldi Guerrieri Caroline",
+          "Teixeira Gonçalves Mariana",
+          "Ferreira da Silva Anazi",
+          "Souza Dos Santos André Luis",
+          "Dos Santos Kênia Valéria"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Escherichia coli",
+          "Cefoxitin",
+          "Escherichia coli Infections",
+          "Ciprofloxacin",
+          "Tobramycin",
+          "Diarrhea",
+          "Anti-Bacterial Agents",
+          "Biofilms",
+          "Ampicillin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37657231/"
+      },
+      {
+        "pmid": "27460583",
+        "title": "Characterization of Ciprofloxacin-Resistant and Ciprofloxacin-Susceptible Uropathogenic Escherichia coli Obtained from Patients with Gynecological Cancer.",
+        "abstract": "The objective of this work was to assess the genetic characteristics of uropathogenic Escherichia coli, ciprofloxacin resistance or susceptibility, obtained from patients with gynecological cancer and urinary tract infection (UTI). Seventy-seven E. coli ciprofloxacin-resistant isolates and 38 ciprofloxacin-susceptible were analyzed by polymerase chain reaction (PCR) to determine the phylogenetic groups, virulence factors as iucC, fyuA, hlyC, cnf1 genes, and pks pathogenicity island. The presence of genes related to ciprofloxacin resistance such as qnrA, qnrB, qnrS, aac(6')-Ib-cr, and qepA, and the sequencing of DNA gyrase genes and topoisomerase IV were determined. The genetic profile of the isolates was determined by pulsed-field gel electrophoresis (PFGE). Statistical analysis was performed using Fisher's exact test and Chi-square test. Phylogenetic group B2 was the most prevalent although a great genetic diversity was observed by PFGE. Only genes associated to siderophores were foun",
+        "journal": "Current microbiology",
+        "year": "2016",
+        "authors": [
+          "Capett Muniqui S",
+          "Vollú-Silva Patricia",
+          "Melchiades Vanessa A",
+          "Bokehi Luciana C",
+          "Araújo Fernanda M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli Infections",
+          "Escherichia coli Proteins",
+          "Female",
+          "Genital Neoplasms, Female",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Phylogeny"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27460583/"
+      },
+      {
+        "pmid": "34570646",
+        "title": "Uropathogenic Escherichia coli Shows Antibiotic Tolerance and Growth Heterogeneity in an In Vitro Model of Intracellular Infection.",
+        "abstract": "Uropathogenic Escherichia coli (UPEC), the major causative agent of urinary tract infections, can invade different types of host cells. To compare the pharmacodynamic properties of antibiotics against intra- and extracellular UPEC, an in vitro model of intracellular infection was established in J774 mouse macrophages infected by the UPEC strain CFT073. We tested antibiotics commonly prescribed against urinary tract infections (gentamicin, ampicillin, nitrofurantoin, trimethoprim, sulfamethoxazole, and ciprofloxacin) and the investigational fluoroquinolone finafloxacin. The metabolic activity of individual bacteria was assessed by expressing the fluorescent reporter protein TIMERbac within CFT073. Concentration-response experiments revealed that all tested antibiotics were much less effective against intracellular bacteria than extracellular ones. Most antibiotics, except fluoroquinolones, were unable to reach a bactericidal effect intracellularly at clinically achievable concentrations",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2021",
+        "authors": [
+          "Kerkez Ivana",
+          "Tulkens Paul M",
+          "Tenson Tanel",
+          "Van Bambeke Françoise",
+          "Putrinš Marta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Escherichia coli Infections",
+          "Mice",
+          "Urinary Tract Infections",
+          "Uropathogenic Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34570646/"
+      },
+      {
+        "pmid": "35729017",
+        "title": "Investigation of the effects of antimicrobial and anti-biofilm peptide IDR1018 and chitosan nanoparticles on ciprofloxacin-resistant Escherichia coli.",
+        "abstract": "Peptide IDR1018 and chitosan nanoparticles (CNs) showed antimicrobial and anti-biofilm activity against bacteria. In this study, the antimicrobial effects of peptide IDR1018 and CNs were evaluated on 50 clinical isolates of uropathogenic Escherichia coli (UPEC) resistant to ciprofloxacin. Ion gelation method was applied for CNs synthesis. Scanning electron microscope (SEM) and dynamic light scattering (DLS) were utilized to evaluate the nanoparticles. Antimicrobial and synergistic activity of peptide IDR1018 and CNs with ciprofloxacin were evaluated by microtiter broth dilution method. The checkerboard test was used to investigate the antimicrobial effects of IDR1018 and CNS in combination with ciprofloxacin. Anti-biofilm effect of ciprofloxacin, peptide IDR1018, and CNs was evaluated using crystal violet method. Fourteen (28%), 21 (42%), and 15 (30%) of clinical isolates produced strong, moderate, and weak biofilm, respectively. The CNs were spherical and uniform under electron micros",
+        "journal": "Journal of basic microbiology",
+        "year": "2022",
+        "authors": [
+          "Haji Hossein Tabrizi Aida",
+          "Habibi Mehri",
+          "Foroohi Fatemeh",
+          "Mohammadian Taher",
+          "Asadi Karam Mohammad Reza"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Antimicrobial Cationic Peptides",
+          "Biofilms",
+          "Chitosan",
+          "Ciprofloxacin",
+          "Escherichia coli Infections",
+          "Gentian Violet",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Nanoparticles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35729017/"
+      },
+      {
+        "pmid": "35512736",
+        "title": "Genome-Wide Screening and Characterization of Genes Involved in Response to High Dose of Ciprofloxacin in Escherichia coli.",
+        "abstract": "The global emergence of antibiotic resistance, especially in Gram-negative bacteria, is an urgent threat to public health. Inevitably, considering its extensive use and misuse, resistance toward ciprofloxacin has increased in almost all clinically relevant bacteria. This study aimed to investigate the transcriptome changes at a high concentration of ciprofloxacin in Escherichia coli. In brief, 1,418 differentially expressed genes (DEGs) were identified, from which 773 genes were upregulated by ciprofloxacin, whereas 651 genes were downregulated. Enriched biological pathways reflected the upregulation of biological processes such as DNA damage and repair system, toxin/antitoxin systems, formaldehyde detoxification system. With kyoto encyclopedia of genes and genomes pathway analysis, higher expressed DEGs were associated with \"LPS biosynthesis,\" \"streptomycin biosynthesis,\" and \"polyketide sugar unit biosynthesis.\" Lower expressed DEGs were associated with \"biosynthesis of amino acids\" ",
+        "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+        "year": "2022",
+        "authors": [
+          "Sun Rui",
+          "Zhao Xianqi",
+          "Meng Qingtai",
+          "Huang Ping",
+          "Zhao Qian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Gene Expression Profiling",
+          "Humans",
+          "Lipopolysaccharides",
+          "Transcriptome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35512736/"
+      },
+      {
+        "pmid": "36113642",
+        "title": "Antimicrobial resistant Escherichia coli in Scottish wild deer: Prevalence and risk factors.",
+        "abstract": "Antimicrobial resistance (AMR) is a recognised threat to global health. Obtaining data on the prevalence of AMR in environmental bacteria is key to understanding drivers and routes of transmission. Here, 325 Shiga toxin negative deer faecal samples-gathered from across the Scottish mainland-were screened for the presence of AMR Escherichia coli and investigated for potential risk factors associated with AMR occurrence. E. coli with resistance to antimicrobials of clinical health concern, including carbapenems and 3rd generation cephalosporins, were targeted. Ninety-nine percent of samples yielded E. coli, and the prevalence of resistant E. coli at the level of faecal samples was 21.8% (n = 71) for tetracycline, 6.5% (n = 21) for cefpodoxime, 0.3% for ciprofloxacin (n = 1), with no recorded resistance to meropenem. Potential risk factors for tetracycline and cefpodoxime resistance were investigated. The presence of broadleaved woodlands was significantly associated with both AMR phenoty",
+        "journal": "Environmental pollution (Barking, Essex : 1987)",
+        "year": "2022",
+        "authors": [
+          "Elsby Derek T",
+          "Zadoks Ruth N",
+          "Boyd Kenneth",
+          "Silva Nuno",
+          "Chase-Topping Margo"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Animals",
+          "Horses",
+          "Escherichia coli",
+          "Prevalence",
+          "Meropenem",
+          "Deer",
+          "Escherichia coli Infections",
+          "Anti-Bacterial Agents",
+          "Animals, Wild"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36113642/"
+      },
+      {
+        "pmid": "33075514",
+        "title": "Bacteriophage-antibiotic combinations against ciprofloxacin/ceftriaxone-resistant Escherichia coli in vitro and in an experimental Galleria mellonella model.",
+        "abstract": "Escherichia coli is the most common cause of Gram-negative prosthetic joint infections (PJIs) and ciprofloxacin is the first-line antibiofilm antibiotic. Due to the emergence of fluoroquinolone resistance, management of E. coli PJIs has become challenging and is associated with high treatment failure rates. We evaluated the efficacy of a newly isolated bacteriophage ɸWL-3 as a therapeutic agent in combination with ciprofloxacin, fosfomycin, gentamicin, meropenem or ceftriaxone against biofilm of a ciprofloxacin/ceftriaxone-resistant E. coli strain and the ATCC 25922 reference strain. ɸWL-3 was first characterised in terms of virion morphology, absorption rate, burst size and killing kinetics against both E. coli strains. The tested antibiotics presented high inhibitory concentrations (ranging from 16 to >1024 μg/mL) when tested alone against biofilms. Co-administration of ɸWL-3 with antibiotics improved the antibiotic efficacy against biofilm, especially after staggered exposure, reduc",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2020",
+        "authors": [
+          "Wang Lei",
+          "Tkhilaishvili Tamta",
+          "Bernal Andres Beatriz",
+          "Trampuz Andrej",
+          "Gonzalez Moreno Mercedes"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Bacteriophages",
+          "Biofilms",
+          "Ceftriaxone",
+          "Ciprofloxacin",
+          "Combined Modality Therapy",
+          "Disease Models, Animal",
+          "Drug Resistance, Multiple, Bacterial",
+          "Escherichia coli"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33075514/"
+      },
+      {
+        "pmid": "26607324",
+        "title": "Ciprofloxacin resistance in community- and hospital-acquired Escherichia coli urinary tract infections: a systematic review and meta-analysis of observational studies.",
+        "abstract": "During the last decade the resistance rate of urinary Escherichia coli (E. coli) to fluoroquinolones such as ciprofloxacin has increased. Systematic reviews of studies investigating ciprofloxacin resistance in community- and hospital-acquired E. coli urinary tract infections (UTI) are absent. This study systematically reviewed the literature and where appropriate, meta-analysed studies investigating ciprofloxacin resistance in community- and hospital-acquired E. coli UTIs.",
+        "journal": "BMC infectious diseases",
+        "year": "2015",
+        "authors": [
+          "Fasugba Oyebola",
+          "Gardner Anne",
+          "Mitchell Brett G",
+          "Mnatzaganian George"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Community-Acquired Infections",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Humans",
+          "Observational Studies as Topic",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26607324/"
+      },
+      {
+        "pmid": "32407399",
+        "title": "Cuminaldehyde potentiates the antimicrobial actions of ciprofloxacin against Staphylococcus aureus and Escherichia coli.",
+        "abstract": "Escherichia coli and Staphylococcus aureus are important agents of urinary tract infections that can often evolve to severe infections. The rise of antibiotic-resistant strains has driven the search for novel therapies to replace the use or act as adjuvants of antibiotics. In this context, plant-derived compounds have been widely investigated. Cuminaldehyde is suggested as the major antimicrobial compound of the cumin seed essential oil. However, this effect is not fully understood. Herein, we investigated the in silico and in vitro activities of cuminaldehyde, as well as its ability to potentiate ciprofloxacin effects against S. aureus and E. coli. In silico analyses were performed by using different computational tools. The PASS online and SwissADME programmes were used for the prediction of biological activities and oral bioavailability of cuminaldehyde. For analysis of the possible toxic effects and the theoretical pharmacokinetic parameters of the compound, the Osiris, SwissADME a",
+        "journal": "PloS one",
+        "year": "2020",
+        "authors": [
+          "Monteiro-Neto Valério",
+          "de Souza Cláudio D",
+          "Gonzaga Laoane F",
+          "da Silveira Bruna C",
+          "Sousa Nágila C F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adjuvants, Pharmaceutic",
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Benzaldehydes",
+          "Biofilms",
+          "Biological Availability",
+          "Ciprofloxacin",
+          "Computer Simulation",
+          "Cymenes",
+          "Drug Synergism"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32407399/"
+      },
+      {
+        "pmid": "35387587",
+        "title": "Characterization of Escherichia coli isolated from urinary tract infection and association between virulence expression and antimicrobial susceptibility.",
+        "abstract": "The capacity of antibiotics to modulate bacterial virulence has raised concerns over the appropriateness of antibiotic therapies, including when dosing strategies fall below sub-therapeutic levels. In this work, we investigated the ability of antibiotics to influence virulence in Escherichia coli isolated from urinary tract infection (UTI).",
+        "journal": "BMC microbiology",
+        "year": "2022",
+        "authors": [
+          "Derakhshan Safoura",
+          "Ahmadi Sanaz",
+          "Ahmadi Erfan",
+          "Nasseri Sherko",
+          "Aghaei Abbas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Ceftriaxone",
+          "Ciprofloxacin",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Hemolysis",
+          "Urinary Tract Infections",
+          "Virulence",
+          "Virulence Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35387587/"
+      },
+      {
+        "pmid": "39795934",
+        "title": "Can α-Mangostin and Photodynamic Therapy Support Ciprofloxacin in the Inactivation of Uropathogenic Escherichia coli and Staphylococcus aureus Strains?",
+        "abstract": "Multidrug-resistant bacteria represent a significant challenge in the treatment of bacterial infections, often leading to therapeutic failures. This issue underlines the need to develop strategies that improve the efficacy of conventional antibiotic therapies. In this study, we aimed to assess whether a plant-derived compound, α-mangostin, and photodynamic therapy (PDT) could enhance the antibacterial activity of ciprofloxacin against uropathogenic strains of Escherichia coli and Staphylococcus aureus. Using nanopore sequencing technology, we confirmed that the clinical strains tested were classified as multidrug-resistant. Digital holotomography (DHT) was used to examine α-mangostin-induced changes in the bacterial cells' penetration by a photosensitizer. A scanning confocal fluorescence microscope was used to visualize photosensitizer penetration into bacterial cells and validate DHT results. A synergistic effect between α-mangostin and ciprofloxacin was observed exclusively in S. au",
+        "journal": "International journal of molecular sciences",
+        "year": "2024",
+        "authors": [
+          "Wojnicz Dorota",
+          "Korzekwa Kamila",
+          "Guźniczak Mateusz",
+          "Wernecki Maciej",
+          "Ulatowska-Jarża Agnieszka"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ciprofloxacin",
+          "Xanthones",
+          "Photochemotherapy",
+          "Staphylococcus aureus",
+          "Uropathogenic Escherichia coli",
+          "Anti-Bacterial Agents",
+          "Photosensitizing Agents",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Escherichia coli Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39795934/"
+      },
+      {
+        "pmid": "33106267",
+        "title": "Ciprofloxacin Pharmacokinetics/Pharmacodynamics against Susceptible and Low-Level Resistant Escherichia coli Isolates in an Experimental Ascending Urinary Tract Infection Model in Mice.",
+        "abstract": "The mouse ascending urinary tract infection model was used to study the pharmacokinetic/pharmacodynamic (PKPD) relationships of the effect of ciprofloxacin in subcutaneous treatment for 3 days with varying doses and dosing intervals against a susceptible Escherichia coli strain (MIC, 0.032 mg/liter). Further, a humanized dose of ciprofloxacin was administered for 3 days against three E. coli strains with low-level resistance, i.e., MICs of 0.06, 0.25, and 1 mg/liter, respectively. Against the susceptible isolate, ciprofloxacin was highly effective in clearing the urine with daily doses from 10 mg/kg, but the dosing regimen had to be divided into at least two doses for optimal effect. Ciprofloxacin could not clear the urine or kidneys for the low-level-resistant strains. PKPD correlations with all strains combined showed that for the AUC24/MIC there was a slightly higher correlation with effect in urine and kidneys (R2, 0.71 and 0.69, respectively) than the %T>MIC (R2, 0.41 and 0.61, re",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Jakobsen Lotte",
+          "Lundberg Carina Vingsbro",
+          "Frimodt-Møller Niels"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Mice",
+          "Microbial Sensitivity Tests",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33106267/"
+      },
+      {
+        "pmid": "38687060",
+        "title": "Could traces of fluoroquinolones in food induce ciprofloxacin resistance in Escherichia coli and Klebsiella pneumoniae? An in vivo study in Galleria mellonella with important implications for maximum residue limits in food.",
+        "abstract": "We hypothesized that the residual concentrations of fluoroquinolones allowed in food (acceptable daily intake-ADIs) could select for ciprofloxacin resistance in our resident microbiota. We developed models of chronic Escherichia coli and Klebsiella pneumoniae infection in Galleria mellonella larvae and exposed them to ADI doses of ciprofloxacin via single dosing and daily dosing regimens. The emergence of ciprofloxacin resistance was assessed via isolation of the target bacteria in selective agar plates. Exposure to as low as one-tenth of the ADI dose of the single and daily dosing regimens of ciprofloxacin resulted in the selection of ciprofloxacin resistance in K. pneumoniae but not E. coli. This resistance was associated with cross-resistance to doxycycline and ceftriaxone. Whole genome sequencing revealed inactivating mutations in the transcription repressors, ramR and rrf2, as well as mutations in gyrA and gyrB. We found that ciprofloxacin doses 10-fold lower than those classified",
+        "journal": "Microbiology spectrum",
+        "year": "2024",
+        "authors": [
+          "Gestels Zina",
+          "Baranchyk Yuliia",
+          "Van den Bossche Dorien",
+          "Laumen Jolein",
+          "Abdellati Said"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Klebsiella pneumoniae",
+          "Animals",
+          "Escherichia coli",
+          "Ciprofloxacin",
+          "Anti-Bacterial Agents",
+          "Fluoroquinolones",
+          "Klebsiella Infections",
+          "Drug Resistance, Bacterial",
+          "Moths",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38687060/"
+      },
+      {
+        "pmid": "32747356",
+        "title": "Escherichia coli Resistance to Fluoroquinolones in Community-Acquired Uncomplicated Urinary Tract Infection in Women: a Systematic Review.",
+        "abstract": "Antibiotic resistance is a threat to public health, and uncomplicated urinary tract infections (uUTIs) are an example of this concern. This systematic review (International Prospective Register of Systematic Reviews [PROSPERO] ID: CRD42020156674) is the first to determine the prevalence of Escherichia coli resistance to fluoroquinolones in women with community-acquired uUTI. PubMed and Embase searches were conducted; 38 studies fulfilled eligibility criteria and were included in the systematic review. Within Europe, ciprofloxacin resistance in E. coli isolates varied between countries and increased in some from 2006 to 2008 and 2014 to 2016, specifically in the United Kingdom (0.5% to 15.3%), Germany (8.7% to 15.1%), and Spain (22.9% to 30.8%), although methodologies and settings were often not comparable. In Asia, there was a substantial increase in ciprofloxacin resistance during 2008 to 2014 from 25% to more than 40%. In North America, resistance to ciprofloxacin also increased betw",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Stapleton Ann E",
+          "Wagenlehner Florian M E",
+          "Mulgirigama Aruni",
+          "Twynholm Monique"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Asia",
+          "Ciprofloxacin",
+          "Community-Acquired Infections",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Europe",
+          "Female",
+          "Fluoroquinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32747356/"
+      },
+      {
+        "pmid": "31665215",
+        "title": "Fluoroquinolone Use and Seasonal Patterns of Ciprofloxacin Resistance in Community-Acquired Urinary Escherichia coli Infection in a Large Urban Center.",
+        "abstract": "Urinary tract infections caused by the bacterium Escherichia coli are among the most frequently encountered infections and are a common reason for antimicrobial prescriptions. Resistance to fluoroquinolone antimicrobial agents, particularly ciprofloxacin, has increased in recent decades. It is intuitive that variation in fluoroquinolone resistance is driven by changes in antimicrobial use, but careful study of this association requires the use of time-series methods. Between April 2010 and December 2014, we studied seasonal variation in resistance to ciprofloxacin, trimethoprim-sulfamethoxazole, and ampicillin in community-acquired urinary E. coli isolates in Montreal, Quebec, Canada. Using dynamic linear models, we investigated whether seasonal variation in resistance could be explained by seasonal variation in community antimicrobial use. We found a positive association between total fluoroquinolone use lagged by 1 and 2 months and the proportion of isolates resistant to ciprofloxaci",
+        "journal": "American journal of epidemiology",
+        "year": "2020",
+        "authors": [
+          "Soucy Jean-Paul R",
+          "Schmidt Alexandra M",
+          "Quach Caroline",
+          "Buckeridge David L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Bacteriuria",
+          "Ciprofloxacin",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31665215/"
+      },
+      {
+        "pmid": "35091053",
+        "title": "Ciprofloxacin resistances rates in Escherichia coli across Canada (CREAC): a longitudinal analysis 2015-2019.",
+        "abstract": "Clinical guidelines recommend empirical fluoroquinolone therapy for urinary tract infections (UTIs) only where local Escherichia coli resistance does not exceed 10%; however, access to local susceptibility data is not uniform across Canada and it is not known which regions meet this threshold. Our objective was to collect susceptibility data from across Canada to evaluate regional trends of E. coli resistance to fluoroquinolones. Antibiogram data were collected retrospectively for the years 2015-2019 from the most local level within each province, typically regional health authorities (RHAs) or local health zones. Antibiogram data were collected from publicly available sources or by directly contacting RHAs or health zones. Susceptibility data were aggregated into regional or population-level data. Antibiograms were collected from 72 regions across 10 provinces. These included 1 949 515 E. coli isolates. Only seven regions throughout Canada met the IDSA target of <10% resistance to con",
+        "journal": "International journal of antimicrobial agents",
+        "year": "2022",
+        "authors": [
+          "Dobbyn Dylan",
+          "Zeggil Teagan",
+          "Kudrowich Brendan",
+          "Beahm Nathan P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Fluoroquinolones",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Retrospective Studies",
+          "Urinary Tract Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35091053/"
+      },
+      {
+        "pmid": "34780264",
+        "title": "Plasmid-Mediated Ciprofloxacin Resistance Imparts a Selective Advantage on Escherichia coli ST131.",
+        "abstract": "Escherichia coli ST131 is a recently emerged antibiotic resistant clone responsible for high rates of urinary tract and bloodstream infections. Despite its global dominance, the precise mechanisms that have driven the rapid dissemination of ST131 remain unknown. Here, we show that the plasmid-associated resistance gene encoding the AAC(6')-Ib-cr enzyme that inactivates the fluoroquinolone (FQ) antibiotic ciprofloxacin is present in >70% of strains from the most rapidly expanding subgroup of multidrug resistant ST131. Using a series of genome-edited and plasmid-cured isogenic strains, we demonstrate that the aac(6')-Ib-cr gene confers a selective advantage on ST131 in the presence of ciprofloxacin, even in strains containing chromosomal GyrA and ParC FQ-resistance mutations. Further, we identify a pattern of emerging carbapenem resistance in other common E. coli clones carrying both aac(6')-Ib-cr and chromosomal FQ-resistance mutations, suggesting this dual resistance combination may al",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2022",
+        "authors": [
+          "Phan Minh-Duy",
+          "Peters Kate M",
+          "Alvarez Fraga Laura",
+          "Wallis Steven C",
+          "Hancock Steven J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Multiple, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Plasmids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34780264/"
+      },
+      {
+        "pmid": "35030401",
+        "title": "Evolution of fluoroquinolone-resistant Escherichia coli in the gut after ciprofloxacin treatment.",
+        "abstract": "Three healthy volunteers carried similar quinolone-resistant E. coli (QREC) (pulsed field gel electrophoresis profiles) in their gut before and after 14 days ciprofloxacin treatment. Given the intensity of the selective pressure and the mutagenic properties of quinolones, we determined whether these strains had evolved at the phenotypic and/or genomic levels.",
+        "journal": "International journal of medical microbiology : IJMM",
+        "year": "2022",
+        "authors": [
+          "de Lastours V",
+          "El Meouche I",
+          "Chau F",
+          "Beghain J",
+          "Chevret D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ciprofloxacin",
+          "Drug Resistance, Bacterial",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Fluoroquinolones",
+          "Gastrointestinal Tract",
+          "Humans",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35030401/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:51:24.686416",
+  "success": true,
+  "error_message": null
+}

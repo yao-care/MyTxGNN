@@ -1,0 +1,595 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Decitabine",
+    "disease": "therapy related acute myeloid leukemia and myelodysplastic syndrome",
+    "query_string": "Decitabine AND therapy related acute myeloid leukemia and myelodysplastic syndrome"
+  },
+  "data": {
+    "query": "Decitabine AND therapy related acute myeloid leukemia and myelodysplastic syndrome",
+    "results": [
+      {
+        "pmid": "38135371",
+        "title": "Oral decitabine-cedazuridine versus intravenous decitabine for myelodysplastic syndromes and chronic myelomonocytic leukaemia (ASCERTAIN): a registrational, randomised, crossover, pharmacokinetics, phase 3 study.",
+        "abstract": "The DNA methyltransferase inhibitors azacitidine and decitabine for individuals with myelodysplastic syndromes or chronic myelomonocytic leukaemia are available in parenteral form. Oral therapy with similar exposure for these diseases would offer potential treatment benefits. We aimed to compare the safety and pharmacokinetics of oral decitabine plus the cytidine deaminase inhibitor cedazuridine versus intravenous decitabine.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Garcia-Manero Guillermo",
+          "McCloskey James",
+          "Griffiths Elizabeth A",
+          "Yee Karen W L",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myelomonocytic, Chronic",
+          "Myelodysplastic Syndromes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Pneumonia",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38135371/"
+      },
+      {
+        "pmid": "38452788",
+        "title": "Oral decitabine and cedazuridine plus venetoclax for older or unfit patients with acute myeloid leukaemia: a phase 2 study.",
+        "abstract": "Hypomethylating agents combined with venetoclax are effective regimens in patients with acute myeloid leukaemia who are ineligible for intensive chemotherapy. Decitabine and cedazuridine (ASTX727) is an oral formulation of decitabine that achieves equivalent area-under-curve exposure to intravenous decitabine. We performed a single centre phase 2 study to evaluate the efficacy and safety of ASTX727 plus venetoclax.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Bazinet Alexandre",
+          "Garcia-Manero Guillermo",
+          "Short Nicholas",
+          "Alvarado Yesid",
+          "Bataller Alex"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myeloid, Acute",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Respiratory Insufficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38452788/"
+      },
+      {
+        "pmid": "37470508",
+        "title": "Oral therapy for myelodysplastic syndromes/neoplasms and acute myeloid leukemia: a revolution in progress.",
+        "abstract": "Patients with myeloid neoplasms such as myelodysplastic syndromes/neoplasms (MDS) and acute myeloid leukemia (AML) are generally older, and many are not eligible for curative intent intensive therapies and/or allogeneic hematopoietic stem cell transplantation. While lower intensity, hypomethylating agent (HMA)-based therapies such as azacitidine+venetoclax have improved patient outcomes significantly, responses are not durable, and most patients die from disease-related complications. The approvals of oral HMAs such as cedazuridine-decitabine (C-DEC) and oral azacitidine (CC-486) have kindled the hope that myeloid malignancies may soon be treated with total oral therapy.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2023",
+        "authors": [
+          "Venugopal Sangeetha",
+          "Shallis Rory M",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Quality of Life",
+          "Azacitidine",
+          "Myelodysplastic Syndromes",
+          "Decitabine",
+          "Leukemia, Myeloid, Acute"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37470508/"
+      },
+      {
+        "pmid": "34185931",
+        "title": "Low-dose decitabine plus venetoclax is safe and effective as post-transplant maintenance therapy for high-risk acute myeloid leukemia and myelodysplastic syndrome.",
+        "abstract": "Acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS) are usually associated with poor outcomes, especially in high-risk AML/MDS. Allogeneic hematopoietic stem cell transplantation (allo-HSCT) is the only curative option for patients suffering from high-risk AML/MDS. However, many patients relapse after allo-HSCT. Novel therapy to prevent relapse is urgently needed. Both the BCL-2 inhibitor venetoclax (VEN) and the hypomethylating agent decitabine (DEC) possess significant antitumor activity effects against AML/MDS. Administration of DEC has been shown to ameliorate graft-versus-host disease (GVHD) and boost the graft-versus-leukemia (GVL) effect post-transplantation. We therefore conducted a prospective study (ChiCTR1900025374) to examine the tolerability and efficacy of a maintenance therapy of low-dose decitabine (LDEC) plus VEN to prevent relapse after allo-HSCT for high-risk AML/MDS patients. Twenty patients with high-risk AML (n = 17) or high-risk MDS (n = 3) post-trans",
+        "journal": "Cancer science",
+        "year": "2021",
+        "authors": [
+          "Wei Yunxiong",
+          "Xiong Xia",
+          "Li Xin",
+          "Lu Wenyi",
+          "He Xiaoyuan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Female",
+          "Follow-Up Studies",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34185931/"
+      },
+      {
+        "pmid": "36706355",
+        "title": "Mechanisms of response and resistance to combined decitabine and ipilimumab for advanced myeloid disease.",
+        "abstract": "The challenge of eradicating leukemia in patients with acute myelogenous leukemia (AML) after initial cytoreduction has motivated modern efforts to combine synergistic active modalities including immunotherapy. Recently, the ETCTN/CTEP 10026 study tested the combination of the DNA methyltransferase inhibitor decitabine together with the immune checkpoint inhibitor ipilimumab for AML/myelodysplastic syndrome (MDS) either after allogeneic hematopoietic stem cell transplantation (HSCT) or in the HSCT-naïve setting. Integrative transcriptome-based analysis of 304 961 individual marrow-infiltrating cells for 18 of 48 subjects treated on study revealed the strong association of response with a high baseline ratio of T to AML cells. Clinical responses were predominantly driven by decitabine-induced cytoreduction. Evidence of immune activation was only apparent after ipilimumab exposure, which altered CD4+ T-cell gene expression, in line with ongoing T-cell differentiation and increased freque",
+        "journal": "Blood",
+        "year": "2023",
+        "authors": [
+          "Penter Livius",
+          "Liu Yang",
+          "Wolff Jacquelyn O",
+          "Yang Lin",
+          "Taing Len"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ipilimumab",
+          "Decitabine",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute",
+          "Recurrence",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36706355/"
+      },
+      {
+        "pmid": "30002795",
+        "title": "Infections in Myelodysplastic Syndrome in Relation to Stage and Therapy.",
+        "abstract": "Infections remain a significant problem in myelodysplastic syndromes (MDS) in treated as well in non-treated patients and assume a particular complexity. The susceptibility to infections is due, in the absence of intensive chemotherapies, mainly to functional defects in the myeloid lineage with or without neutropenia. Furthermore, MDS includes a heterogeneous group of patients with very different prognosis, therapy and risk factors regarding survival and infections. You should distinguish risk factors related to the disease, like as neutrophils function impairment, neutropenia, unfavorable cytogenetics and bone marrow insufficiency; factors related to the patient, like as age and comorbidities, and factors related to the therapy. When the patients with MDS are submitted to intensive chemotherapy with and without hematopoietic stem cell transplantation (HSCT), they have a risk factor for infection very similar to that of patients with acute myeloid leukemia (AML), and mostly related to ",
+        "journal": "Mediterranean journal of hematology and infectious diseases",
+        "year": "2018",
+        "authors": [
+          "Leone Giuseppe",
+          "Pagano Livio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30002795/"
+      },
+      {
+        "pmid": "40784355",
+        "title": "Oral decitabine and cedazuridine maintenance after haematopoietic stem-cell transplantation in very high-risk acute myeloid leukaemia or myelodysplastic syndrome (GFM-DACORAL-DLI): a multicentre, single-arm, phase 2 trial.",
+        "abstract": "The combination of a hypomethylating agent with donor lymphocyte infusion as maintenance therapy after haematopoietic stem-cell transplantation (HSCT) in acute myeloid leukaemia and myelodysplastic syndrome might reduce the risk of relapse. We aimed to evaluate the activity and safety of oral decitabine and cedazuridine (ASTX727) as maintenance after allogeneic HSCT in patients with acute myeloid leukaemia or myelodysplastic syndrome at very high risk of relapse post-transplantation.",
+        "journal": "The Lancet. Haematology",
+        "year": "2025",
+        "authors": [
+          "Robin Marie",
+          "D'Aveni Maud",
+          "Stamatoullas Aspasia",
+          "Raffoux Emmanuel",
+          "Chevallier Patrice"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Hematopoietic Stem Cell Transplantation",
+          "Leukemia, Myeloid, Acute",
+          "Middle Aged",
+          "Male",
+          "Female",
+          "Adult",
+          "Decitabine",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40784355/"
+      },
+      {
+        "pmid": "36964818",
+        "title": "Efficacy of epigenetic agents for older patients with acute myeloid leukemia and myelodysplastic syndrome in randomized controlled trials: a systematic review and network meta-analysis.",
+        "abstract": "Myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) are hematologic malignancies that mostly affect the elderly and have poor prognoses. Mutations in epigenetic regulatory genes cause AML/MDS through changes in DNA methylation and histone modifications. Some epigenetic agents are used in patients with AML and MDS. However, most studies have focused on azacitidine (AZA) or decitabine (DEC), and few studies have been conducted on combination therapies or other epigenetic therapies. This network meta-analysis (NMA) aimed to compare the efficacy of epigenetic agents overall in patients with AML and MDS. A systematic review and NMA of all available II-III phase randomized controlled trials (RCTs) comparing epigenetic agents were performed. The Embase and PubMed databases were searched for relevant studies. The Bayesian model was used in the NMA, and the surface under the cumulative ranking curve (SUCRA) was used to rank comparisons. The primary endpoint was overall survival (OS",
+        "journal": "Clinical and experimental medicine",
+        "year": "2023",
+        "authors": [
+          "Oh SuA",
+          "Kim EunYoung"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Humans",
+          "Azacitidine",
+          "Epigenesis, Genetic",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "Randomized Controlled Trials as Topic",
+          "Systematic Reviews as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36964818/"
+      },
+      {
+        "pmid": "35172484",
+        "title": "Combined Targeted Therapy for BRAF-Mutant, Treatment-Related Acute Myeloid Leukemia.",
+        "abstract": "A 44-year-old woman with a prior history of myxoid liposarcoma who was previously treated with radiation, chemotherapy, and resection, was admitted with syncope and pancytopenia. She was diagnosed with a high-grade therapy-related myelodysplastic syndrome and treated with decitabine. Her disease soon progressed to overt acute myeloid leukemia (AML). She was treated with cytotoxic chemotherapy including cytarabine and topotecan, but she was not a candidate for further anthracycline exposure given her prior treatment for sarcoma and concern for cardiotoxicity. Her AML was refractory to two sequential induction regimens. Given that targeted genomic sequencing had revealed a BRAF V600E mutation with a high allelic fraction, she was then placed on combined targeted BRAF/MEK therapy with dabrafenib and trametinib for her refractory disease. This resulted in a dramatic response with clearance of circulating myeloblasts, restoration of normal hematopoiesis, a significant decrease in marrow leu",
+        "journal": "JCO precision oncology",
+        "year": "2017",
+        "authors": [
+          "Wander Seth A",
+          "Hasserjian Robert P",
+          "Oduro Kwadwo",
+          "Glomski Krzysztof",
+          "Nardi Valentina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35172484/"
+      },
+      {
+        "pmid": "38509812",
+        "title": "Clinical activity, pharmacokinetics, and pharmacodynamics of oral hypomethylating agents for myelodysplastic syndromes/neoplasms and acute myeloid leukemia: A multidisciplinary review.",
+        "abstract": "To review the pharmacokinetic (PK)-pharmacodynamic (PD) profiles, disease setting, dosing, and safety of oral and parenteral hypomethylating agents (HMAs) for the treatment of myelodysplastic syndromes/neoplasms (MDS) and acute myeloid leukemia (AML), and to provide a multidisciplinary perspective on treatment selection and educational needs relating to HMA use.",
+        "journal": "Journal of oncology pharmacy practice : official publication of the International Society of Oncology Pharmacy Practitioners",
+        "year": "2024",
+        "authors": [
+          "Haumschild Ryan",
+          "Kennerly-Shah Julie",
+          "Barbarotta Lisa",
+          "Zeidan Amer M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Myelodysplastic Syndromes",
+          "Leukemia, Myeloid, Acute",
+          "Administration, Oral",
+          "Azacitidine",
+          "Decitabine",
+          "Antimetabolites, Antineoplastic",
+          "Uridine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38509812/"
+      },
+      {
+        "pmid": "34555298",
+        "title": "Outcomes of newly diagnosed acute myeloid leukemia with myelodysplasia related changes and elderly acute myeloid leukemia following decitabine therapy in combination with priming regimen.",
+        "abstract": "This study investigates efficacy of decitabine and priming regimen in treating newly diagnosed acute myeloid leukemia with myelodysplasia related changes (AML-MRC) and elderly AML.",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2021",
+        "authors": [
+          "Lai Binbin",
+          "Mu Qitian",
+          "Zhang YanLi",
+          "Chen Ying",
+          "Yan Xiao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Decitabine",
+          "Female",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34555298/"
+      },
+      {
+        "pmid": "38316133",
+        "title": "Oral decitabine plus cedazuridine and venetoclax in patients with higher-risk myelodysplastic syndromes or chronic myelomonocytic leukaemia: a single-centre, phase 1/2 study.",
+        "abstract": "Hypomethylating agents are approved in higher-riskmyelodysplastic syndromes. The combination of a hypomethylating agent with venetoclax is standard of care in acute myeloid leukaemia. We investigated the safety and activity of the first totally oral combination of decitabine plus cedazuridine and venetoclax in patients with higher-risk-myelodysplastic syndromes and chronic myelomonocytic leukaemia.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Bataller Alex",
+          "Montalban-Bravo Guillermo",
+          "Bazinet Alexandre",
+          "Alvarado Yesid",
+          "Chien Kelly"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Adult",
+          "Middle Aged",
+          "Aged",
+          "Aged, 80 and over",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myelomonocytic, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38316133/"
+      },
+      {
+        "pmid": "36702138",
+        "title": "The effect of granulocyte-colony stimulating factor, decitabine, and busulfan-cyclophosphamide versus busulfan-cyclophosphamide conditioning on relapse in patients with myelodysplastic syndrome or secondary acute myeloid leukaemia evolving from myelodysplastic syndrome undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised, phase 3 trial.",
+        "abstract": "Relapse remains high in patients with myelodysplastic syndrome-refractory anaemia with excess blasts (RAEB) or secondary acute myeloid leukaemia evolving from myelodysplastic syndrome undergoing allogeneic haematopoietic stem-cell transplantation (HSCT). We aimed to investigate whether granulocyte-colony stimulating factor (G-CSF) and decitabine plus busulfan-cyclophosphamide conditioning reduced relapse compared with busulfan-cyclophosphamide in this population.",
+        "journal": "The Lancet. Haematology",
+        "year": "2023",
+        "authors": [
+          "Xuan Li",
+          "Dai Min",
+          "Jiang Erlie",
+          "Wang Yu",
+          "Huang Fen"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Busulfan",
+          "Decitabine",
+          "Anemia, Refractory, with Excess of Blasts",
+          "Cyclophosphamide",
+          "Leukemia, Myeloid, Acute",
+          "Hematopoietic Stem Cell Transplantation",
+          "Myelodysplastic Syndromes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36702138/"
+      },
+      {
+        "pmid": "33938209",
+        "title": "Clinical Characteristics and Optimal Therapy of Acute Myeloid Leukemia with Myelodysplasia-Related Changes: A Retrospective Analysis of a Cohort of Chinese Patients.",
+        "abstract": "This study aimed to investigate the clinical characteristics of acute myeloid leukemia with myelodysplasia-related changes (AML-MRC) according to the 2016 World Health Organization classification and the preferred therapy for patients with AML-MRC aged 60-75 years.",
+        "journal": "Turkish journal of haematology : official journal of Turkish Society of Haematology",
+        "year": "2021",
+        "authors": [
+          "Wang Lei",
+          "Chu Xiaoxia",
+          "Wang Jingyao",
+          "An Licai",
+          "Liu Yinghui"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "China",
+          "Cytarabine",
+          "Granulocyte Colony-Stimulating Factor",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Myelodysplastic Syndromes",
+          "Retrospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33938209/"
+      },
+      {
+        "pmid": "19090005",
+        "title": "Therapy-related acute myelogenous leukemia and myelodysplastic syndrome in patients with acute lymphoblastic leukemia treated with the hyperfractionated cyclophosphamide, vincristine, doxorubicin, and dexamethasone regimens.",
+        "abstract": "Secondary malignancies including myeloid neoplasms occur infrequently in acute lymphoblastic leukemia (ALL) and to the authors' knowledge have not been as well documented in adults as in children.",
+        "journal": "Cancer",
+        "year": "2009",
+        "authors": [
+          "Verma Dushyant",
+          "O'Brien Susan",
+          "Thomas Deborah",
+          "Faderl Stefan",
+          "Koller Charles"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Drug Administration Schedule",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19090005/"
+      },
+      {
+        "pmid": "29058375",
+        "title": "Patterns of infectious complications in acute myeloid leukemia and myelodysplastic syndromes patients treated with 10-day decitabine regimen.",
+        "abstract": "Decitabine has been explored as a reduced-intensity therapy for older or unfit patients with acute myeloid leukemia (AML). To better understand the risk of infections during decitabine treatment, we retrospectively examined the culture results from each infection-related serious adverse event that occurred among 85 AML and myelodysplastic syndromes (MDS) patients treated in a prospective clinical study using 10-day cycles of decitabine at Washington University School of Medicine. Culture results were available for 163 infection-related complications that occurred in 70 patients: 90 (55.2%) events were culture-negative, 32 (19.6%) were gram-positive bacteria, 20 (12.3%) were gram-negative bacteria, 12 (7.4%) were mixed, 6 (3.7%) were viral, 2 (1.2%) were fungal, and 1 (0.6%) was mycobacterial. Infection-related mortality occurred in 3/24 (13%) of gram-negative events, and 0/51 gram-positive events. On average, nearly one third of patients experienced an infection-related complication wi",
+        "journal": "Cancer medicine",
+        "year": "2017",
+        "authors": [
+          "Ali Alaa M",
+          "Weisel Daniel",
+          "Gao Feng",
+          "Uy Geoffrey L",
+          "Cashen Amanda F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Decitabine",
+          "Drug Administration Schedule",
+          "Female",
+          "Fever",
+          "Gram-Negative Bacterial Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29058375/"
+      },
+      {
+        "pmid": "26365212",
+        "title": "A phase II study of decitabine and gemtuzumab ozogamicin in newly diagnosed and relapsed acute myeloid leukemia and high-risk myelodysplastic syndrome.",
+        "abstract": "Decitabine may open the chromatin structure of leukemia cells making them accessible to the calicheamicin epitope of gemtuzumab ozogamicin (GO). A total of 110 patients (median age 70 years; range 27-89 years) were treated with decitabine and GO in a trial designed on model-based futility to accommodate subject heterogeneity: group 1: relapsed/refractory acute myeloid leukemia (AML) with complete remission duration (CRD) <1 year (N=28, 25%); group 2: relapsed/refractory AML with CRD ⩾1 year (N=5, 5%); group 3: untreated AML unfit for intensive chemotherapy or untreated myelodysplastic syndrome (MDS) or untreated myelofibrosis (MF; N=57, 52%); and group 4: AML evolving from MDS or relapsed/refractory MDS or MF (N=20, 18%). Treatment consisted of decitabine 20 mg/m(2) daily for 5 days and GO 3 mg/m(2) on day 5. Post-induction therapy included five cycles of decitabine+GO followed by decitabine alone. Complete remission (CR)/CR with incomplete count recovery was achieved in 39 (35%) patie",
+        "journal": "Leukemia",
+        "year": "2016",
+        "authors": [
+          "Daver N",
+          "Kantarjian H",
+          "Ravandi F",
+          "Estey E",
+          "Wang X"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Aminoglycosides",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "Decitabine",
+          "Female",
+          "Gemtuzumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26365212/"
+      },
+      {
+        "pmid": "36482192",
+        "title": "All-trans retinoic acid enhances the cytotoxic effect of decitabine on myelodysplastic syndromes and acute myeloid leukaemia by activating the RARα-Nrf2 complex.",
+        "abstract": "Decitabine (DAC) is used as the first-line therapy in patients with higher-risk myelodysplastic syndromes (HR-MDS) and elderly acute myeloid leukaemia (AML) patients unsuitable for intensive chemotherapy. However, the clinical outcomes of patients treated with DAC as a monotherapy are far from satisfactory. Adding all-trans retinoic acid (ATRA) to DAC reportedly benefitted MDS and elderly AML patients. However, the underlying mechanisms remain unclear and need further explorations from laboratory experiments.",
+        "journal": "British journal of cancer",
+        "year": "2023",
+        "authors": [
+          "Wang Lu",
+          "Zhang Qi",
+          "Ye Li",
+          "Ye Xingnong",
+          "Yang Wenli"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Animals",
+          "Mice",
+          "Aged",
+          "Decitabine",
+          "NF-E2-Related Factor 2",
+          "Reactive Oxygen Species",
+          "Antineoplastic Agents",
+          "Myelodysplastic Syndromes",
+          "Tretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36482192/"
+      },
+      {
+        "pmid": "32342493",
+        "title": "Venetoclax and decitabine for relapsed paediatric myelodysplastic syndrome-related acute myeloid leukaemia with complex aberrant karyotype after second stem cell transplantation.",
+        "abstract": "",
+        "journal": "British journal of haematology",
+        "year": "2020",
+        "authors": [
+          "Raedler Johannes",
+          "Heyde Sita",
+          "Kolokythas Marie",
+          "Eichinger Anna",
+          "Binder Vera"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Abnormal Karyotype",
+          "Adolescent",
+          "Allografts",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32342493/"
+      },
+      {
+        "pmid": "24699305",
+        "title": "DNMT3A and IDH mutations in acute myeloid leukemia and other myeloid malignancies: associations with prognosis and potential treatment strategies.",
+        "abstract": "The development of effective treatment strategies for most forms of acute myeloid leukemia (AML) has languished for the past several decades. There are a number of reasons for this, but key among them is the considerable heterogeneity of this disease and the paucity of molecular markers that can be used to predict clinical outcomes and responsiveness to different therapies. The recent large-scale sequencing of AML genomes is now providing opportunities for patient stratification and personalized approaches to treatment that are based on individual mutational profiles. It is particularly notable that studies by The Cancer Genome Atlas and others have determined that 44% of patients with AML exhibit mutations in genes that regulate methylation of genomic DNA. In particular, frequent mutation has been observed in the genes encoding DNA methyltransferase 3A (DNMT3A), isocitrate dehydrogenase 1 (IDH1) and isocitrate dehydrogenase 2 (IDH2), as well as Tet oncogene family member 2. This revie",
+        "journal": "Leukemia",
+        "year": "2014",
+        "authors": [
+          "Im A P",
+          "Sehgal A R",
+          "Carroll M P",
+          "Smith B D",
+          "Tefferi A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "DNA (Cytosine-5-)-Methyltransferases",
+          "DNA Methyltransferase 3A",
+          "Humans",
+          "Isocitrate Dehydrogenase",
+          "Leukemia, Myeloid, Acute",
+          "Mutation",
+          "Myelodysplastic Syndromes",
+          "Myeloproliferative Disorders",
+          "Nuclear Proteins",
+          "Nucleophosmin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24699305/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:13:56.517168",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Iron"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB01592",
+    "name": "Iron",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:19:25.792035",
+  "success": true,
+  "error_message": null
+}

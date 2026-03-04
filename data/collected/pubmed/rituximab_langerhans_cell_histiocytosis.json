@@ -1,0 +1,535 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "Langerhans cell histiocytosis",
+    "query_string": "Rituximab AND Langerhans cell histiocytosis"
+  },
+  "data": {
+    "query": "Rituximab AND Langerhans cell histiocytosis",
+    "results": [
+      {
+        "pmid": "30596314",
+        "title": "Rituximab therapy for patients with Langerhans cell histiocytosis-associated neurologic dysfunction.",
+        "abstract": "Since patients with langerhans cell histiocytosis and neurologic dysfunction (LCH-ND) often have incomplete treatment responses we sought a new treatment regimen. Because of clinical benefit from rituximab in multiple sclerosis patients with neurodegeneration, we evaluated its use in patients with LCH-ND.",
+        "journal": "Pediatric hematology and oncology",
+        "year": "2018",
+        "authors": [
+          "Eckstein Olive",
+          "McAtee Casey L",
+          "Greenberg Jay",
+          "Kumar Ashish",
+          "Fein-Levy Carolyn"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Histiocytosis, Langerhans-Cell",
+          "Humans",
+          "Infant",
+          "Male",
+          "Nervous System Diseases",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30596314/"
+      },
+      {
+        "pmid": "15561688",
+        "title": "Atypical cellular disorders.",
+        "abstract": "Some immunologic diseases are characterized by profound loss or primary dysfunction of a given population of cells. The atypical cellular disorders discussed here all bear some similarities in that abnormal proliferations of lymphocytes and macrophages or dendritic cells result in lymphadenopathy, skin rashes, bone lesions and infiltrations of nearly any other organ system. What are the similarities and the differences between Langerhans cell histiocytosis (LCH), sinus histiocytosis with massive lymphadenopathy (SHML) or Rosai-Dorfman disease, and Castleman's disease (CD)? Studies on LCH have some advantages since it was described before the others, and organized clinical trials have been done since the 1980s. The understanding of SHML benefited from a registry maintained by Drs. Rosai and Dorfman. CD was described fifty years ago and for one subtype has the most clearly defined etiology (HHV-8 infection) of the three atypical cellular disorders discussed here. In Section I, Dr. Kennet",
+        "journal": "Hematology. American Society of Hematology. Education Program",
+        "year": "2004",
+        "authors": [
+          "McClain Kenneth L",
+          "Natkunam Yasodha",
+          "Swerdlow Steven H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Castleman Disease",
+          "Histiocytosis, Langerhans-Cell",
+          "Histiocytosis, Sinus",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15561688/"
+      },
+      {
+        "pmid": "23256832",
+        "title": "[The effect of lenalidomide on rare blood disorders: Langerhans cell histiocytosis, multicentric Castleman disease, POEMS syndrome, Erdheim-Chester disease and angiomatosis].",
+        "abstract": "Lenalidomide has been licenced for the treatment of multiple myeloma and, in 2012, it is used as a standard treatment of relapses of the disease. Literature contains a number of publications on the effects of lenalidomide in myelodysplastic syndrome, in malignant lymphomas and chronic B lymphocytic leukaemia. The effects of the drug in rare diseases, however, have not been investigated so far. In this paper, we summarize our experience with lenalidomide in rare blood disorders. We observed an excellent effect of lenalidomide in multifocal aggressive, repeatedly relapsing Langerhans cell histiocytosis where it led to complete remission. This patient was treated with 2-chlorodeoxyadenosine and with CHOEP (cyclophosphamide, etoposide, doxorubicin, vincristine and prednisone) chemotherapy and high dose BEAM chemotherapy with autologous transplantation of haematopoietic tissue for an early disease relapse. Following another early relapse, the patient was treated with lenalidomide (25 mg). T",
+        "journal": "Vnitrni lekarstvi",
+        "year": "2012",
+        "authors": [
+          "Adam Z",
+          "Pour L",
+          "Krejčí M",
+          "Zahradová L",
+          "Szturz P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Castleman Disease",
+          "Erdheim-Chester Disease",
+          "Female",
+          "Histiocytosis, Langerhans-Cell",
+          "Humans",
+          "Lenalidomide",
+          "Male",
+          "Middle Aged",
+          "POEMS Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23256832/"
+      },
+      {
+        "pmid": "27436448",
+        "title": "Treatment of necrobiotic xanthogranuloma - a systematic review.",
+        "abstract": "Necrobiotic xanthogranuloma (NXG) is an uncommon non-Langerhans cell histiocytosis involving skin and extracutaneous tissues. The lesions are usually asymptomatic and commonly appear in the periorbital area. Paraproteinemia is closely associated with NXG and its pathogenesis remains unclear. NXG prognosis is poor with several treatments showing variable results. Treatment of monoclonal gammopathy with alkylating agents does not necessarily influence the activity of the skin disease and vice versa. The aim of this systematic review is to summarize all reported treatments of necrobiotic xanthogranuloma of the skin, with or without underlying malignant condition and based on articles from the PubMed database using the query 'necrobiotic xanthogranuloma treatment', both in English and German, about 'human' subjects and published between 1980 and 2014, documenting adequate treatment for NXG. Mainly individual case reports, small case series and retrospective studies were found. Treatment op",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2017",
+        "authors": [
+          "Miguel D",
+          "Lukacs J",
+          "Illing T",
+          "Elsner P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Necrobiotic Xanthogranuloma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27436448/"
+      },
+      {
+        "pmid": "29880706",
+        "title": "MECHANISMS IN ENDOCRINOLOGY: Hypophysitis: diagnosis and treatment.",
+        "abstract": "Hypophysitis is a rare condition characterised by inflammation of the pituitary gland, usually resulting in hypopituitarism and pituitary enlargement. Pituitary inflammation can occur as a primary hypophysitis (most commonly lymphocytic, granulomatous or xanthomatous disease) or as secondary hypophysitis (as a result of systemic diseases, immunotherapy or alternative sella-based pathologies). Hypophysitis can be classified using anatomical, histopathological and aetiological criteria. Non-invasive diagnosis of hypophysitis remains elusive, and the use of currently available serum anti-pituitary antibodies are limited by low sensitivity and specificity. Newer serum markers such as anti-rabphilin 3A are yet to show consistent diagnostic value and are not yet commercially available. Traditionally considered a very rare condition, the recent recognition of IgG4-related disease and hypophysitis as a consequence of use of immune modulatory therapy has resulted in increased understanding of t",
+        "journal": "European journal of endocrinology",
+        "year": "2018",
+        "authors": [
+          "Joshi Mamta N",
+          "Whitelaw Benjamin C",
+          "Carroll Paul V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Autoimmune Hypophysitis",
+          "Female",
+          "Glucocorticoids",
+          "Histiocytosis, Langerhans-Cell",
+          "Humans",
+          "Hypophysitis",
+          "Immunoglobulin G",
+          "Immunotherapy",
+          "Magnetic Resonance Imaging",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29880706/"
+      },
+      {
+        "pmid": "39881909",
+        "title": "Unraveling Histiocytic Disorders: Two Cases From Resource-Limited Settings.",
+        "abstract": "Histiocytic disorders include a range of uncommon illnesses marked by the buildup of cells that have developed into macrophages, dendritic cells, or monocytes in diverse tissues and organs. Over 100 distinct subtypes have been documented, exhibiting a diverse array of clinical symptoms, presentations, and histologic features that can be confused with other clinical conditions leading to delayed diagnosis. They affect both children and adults, generating a variety of clinical symptoms that can be limited to one position, numerous areas within one system, or affect many systems in the body. We provide our experiences handling two cases of histiocytic disease in underdeveloped countries where targeted treatment choices are unavailable. The first patient was a 32-year-old female with polyuria, skin lesions, and macroadenoma on MRI. Histopathological and immune-histochemical assessment of skin lesions confirmed the diagnosis of Langerhans cell histiocytosis. The patient responded well to st",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Elbahoty Mohamed",
+          "Soror Nooran",
+          "Elnaggar Mona",
+          "Gad Samar M",
+          "Eldowik Yasser"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39881909/"
+      },
+      {
+        "pmid": "18351339",
+        "title": "Langerhans' cell histiocytosis mimicking relapse in a patient with follicular lymphoma.",
+        "abstract": "",
+        "journal": "Annals of hematology",
+        "year": "2008",
+        "authors": [
+          "Gimeno Eva",
+          "Cervera Marta",
+          "Trampal Carlos",
+          "Solano Albert",
+          "Villalba Gloria"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Histiocytosis, Langerhans-Cell",
+          "Humans",
+          "Lymphoma, Follicular",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18351339/"
+      },
+      {
+        "pmid": "29239933",
+        "title": "Xanthomatous Multicentric Reticulohistiocytosis: An Underrecognized Variant.",
+        "abstract": "",
+        "journal": "Journal of clinical rheumatology : practical reports on rheumatic & musculoskeletal diseases",
+        "year": "2018",
+        "authors": [
+          "Camargo Kathlyn",
+          "Pinkston Olga",
+          "Abril Andy",
+          "Sluzevich Jason C"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antibodies, Antinuclear",
+          "Antineoplastic Agents, Immunological",
+          "Arthritis",
+          "Blood Sedimentation",
+          "Diagnosis, Differential",
+          "Female",
+          "Hand Bones",
+          "Hand Joints",
+          "Histiocytosis, Non-Langerhans-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29239933/"
+      },
+      {
+        "pmid": "34739712",
+        "title": "First case report of pre-mortem biopsy-proven kidney involvement by necrobiotic xanthogranuloma with monoclonal gammopathy.",
+        "abstract": "Necrobiotic xanthogranuloma (NXG) is a rare non-Langerhans cell histiocytosis with characteristic cutaneous features and rare visceral involvement. More than 80% of individuals with this disease have a detectable paraprotein but the precise pathogenesis remains obscure. A 68-year-old man with known cutaneous necrobiotic xanthogranuloma presented with acute kidney injury and imaging suggestive of bilateral perinephric infiltration. Renal biopsy showed a prominent histiocytic infiltration of renal capsule and cortex with necrobiosis and characteristic 'Touton-type' giant cells suggestive of necrobiotic xanthogranuloma involvement. Kidney function returned to normal and cutaneous lesions improved with a combination of corticosteroid, chlorambucil and rituximab. This case represents only the second reported incidence of kidney involvement by necrobiotic xanthogranuloma and the first with acute kidney injury and pre-mortem histopathology. This report adds to a small body of literature on th",
+        "journal": "Journal of nephrology",
+        "year": "2022",
+        "authors": [
+          "Bleasel J M",
+          "Hopp J P",
+          "Cunningham I",
+          "Ritchie A G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Kidney Injury",
+          "Aged",
+          "Biopsy",
+          "Humans",
+          "Kidney",
+          "Male",
+          "Necrobiotic Xanthogranuloma",
+          "Paraproteinemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34739712/"
+      },
+      {
+        "pmid": "41728905",
+        "title": "A Systematic Review of Erdheim-Chester Disease and IgG4-Related Disease: Building a Diagnostic Framework for the Rheumatologist.",
+        "abstract": "Erdheim-Chester disease (ECD) and immunoglobulin G4-related disease (IgG4-RD) are both rare, multisystem disorders with overlapping clinical, radiologic, and histopathologic features. This overlap leads to delays or misdiagnoses. Early diagnosis with proper distinction is critical for treatment and a better prognosis.",
+        "journal": "Journal of clinical rheumatology : practical reports on rheumatic & musculoskeletal diseases",
+        "year": "2026",
+        "authors": [
+          "Gurugubelli Simhachalam",
+          "Korra Rithik Naik",
+          "Meda Venkata Sai Abhilash",
+          "Saravanan Praveen Bharath",
+          "Balagoni Nikhil Kumar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Erdheim-Chester Disease",
+          "Immunoglobulin G4-Related Disease",
+          "Diagnosis, Differential",
+          "Immunoglobulin G",
+          "Magnetic Resonance Imaging",
+          "Rheumatology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41728905/"
+      },
+      {
+        "pmid": "37484548",
+        "title": "Rosai-Dorfman disease presenting as autoimmune hemolytic anemia in a male child in Palestine: a case report.",
+        "abstract": "Rosai-Dorfman disease (RDD) is a rare, benign non-Langerhans cell histiocytosis predominantly affects lymph nodes and skin. Despite its benign nature, RDD can cause serious hematological complications. A 14-year-old male, presented with 3-month history of hemolytic anemia, lymphadenopathy, hepatosplenomegaly and rash. After thorough investigation, RDD was diagnosed by mediastinal lymph node biopsy that revealed presence of S100 and CD68-positive cells with absence of CD1a confirming the diagnosis of RDD. Treatment involved combination of steroids and Rituximab, which proved to be highly effective. The patient had dramatic improvement and entered remission, with follow-up period of 2 years. It is important to note that although RDD is a rare disease, it causes severe complications, as evidenced by the patient's parameters. Thus, prompt diagnosis and treatment are paramount. Histological diagnosis is of great value, as it helps confirming and guiding treatment decisions. With the right t",
+        "journal": "Oxford medical case reports",
+        "year": "2023",
+        "authors": [
+          "Njoum Yumna",
+          "Abu-Hilal Lila H",
+          "Jabbarin Farah",
+          "Bannoura Sami",
+          "Mtour Sameer"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37484548/"
+      },
+      {
+        "pmid": "22681714",
+        "title": "Disseminated juvenile xanthogranuloma associated with follicular lymphoma in an adult: successful treatment with chemotherapy and rituximab. A review of the literature.",
+        "abstract": "Juvenile xanthogranuloma is a non-Langerhans cell histiocytosis that typically affects children, but several cases have been reported in adults, some in connection with hematologic malignancies. We present the case of a 61-year-old woman with multiple xanthogranulomas who developed a follicular lymphoma after 4 years of follow-up. After 6 months of treatment with chemotherapy and rituximab, the cutaneous lesions disappeared and the patient achieved remission from lymphoma. We highlight this case because xanthogranuloma is a rare disorder that is difficult to diagnose in adults and also because this is the first report of an association between xanthogranuloma and follicular lymphoma. Excellent response was achieved with chemotherapy and rituximab. Finally, given the possible association between xanthogranulomas and hematologic diseases, these lesions may be a cutaneous manifestation of an occult malignancy.",
+        "journal": "Actas dermo-sifiliograficas",
+        "year": "2013",
+        "authors": [
+          "Narváez-Moreno B",
+          "Pulpillo-Ruiz Á",
+          "De Zulueta-Dorado T",
+          "Conejo-Mir J"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents",
+          "Female",
+          "Humans",
+          "Lymphoma, Follicular",
+          "Middle Aged",
+          "Remission Induction",
+          "Rituximab",
+          "Xanthogranuloma, Juvenile"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22681714/"
+      },
+      {
+        "pmid": "28359733",
+        "title": "Right ethmoid eosinophilic angiocentric fibrosis with orbital extension.",
+        "abstract": "Eosinophilic angiocentric fibrosis (EAF) is a slowly progressive, benign disease involving the mucosa of the upper airways or, more rarely, the orbit. It belongs to the spectrum of IgG4-related disease.",
+        "journal": "European annals of otorhinolaryngology, head and neck diseases",
+        "year": "2017",
+        "authors": [
+          "Gorostis S",
+          "Bacha M",
+          "Gravier S",
+          "Raguin T"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Debridement",
+          "Disease Progression",
+          "Eosinophilic Granuloma",
+          "Eosinophils",
+          "Ethmoid Sinus",
+          "Exophthalmos",
+          "Fibrosis",
+          "Headache",
+          "Humans",
+          "Immunologic Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28359733/"
+      },
+      {
+        "pmid": "27485849",
+        "title": "[Sinus histiocytosis with massive lymphadenopathy: FDG-PET/CT documented partial remission after treatment with 2-chlorodeoxyadenosine].",
+        "abstract": "Sinus histiocytosis with massive lymphadenopathy (Rosai-Dorfman disease) is a very rare disease belonging to a group of histiocytoses (more precisely non-Langerhans cell histiocytoses). Rosai-Dorfman disease is characterised by the presence of atypical histiocytic cells in the sinuses of lymph nodes or in the extranodal lymphoid tissue, absorbing lymphocytes and plasma cells. The structure and function of the absorbed cells is not impaired and they can leave histiocytes as viable cells. This effect is called emperipolesis, whereas ingestion of cells with their destruction is called phagocytosis. In our text we describe a patient with this disease located, characteristically, in supraclavicular lymph nodes, but also in mediastinal lymph nodes. Along with lymphadenopathy skin alterations appeared which were both clinically and histologically described as eczema dermatitis. At the same time as lymphadenopathy also strong headaches started which the patient had never suffered before. Withi",
+        "journal": "Vnitrni lekarstvi",
+        "year": "2016",
+        "authors": [
+          "Adam Zdeněk",
+          "Mašlaň Jiří",
+          "Křen Leoš",
+          "Kodet Roman",
+          "Koukalová Renata"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cladribine",
+          "Histiocytes",
+          "Histiocytosis, Sinus",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Lymph Nodes",
+          "Lymphadenopathy",
+          "Positron Emission Tomography Computed Tomography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27485849/"
+      },
+      {
+        "pmid": "28589069",
+        "title": "Looks Can Be Deceiving: A Case Report on Multicentric Reticulohistiocytosis Successfully Treated with Rituximab.",
+        "abstract": "Multicentric reticulohistiocytosis (MRH) is an idiopathic multisystemic inflammatory disease characterized by symmetric erosive polyarthritis and typical papulonodular skin lesions. MRH can be associated with autoimmune diseases, malignancy, mycobacterial infections, and hyperlipidemia, and it is important to consider appropriate screening in this population. There is no specific diagnostic laboratory test for MRH. The gold standard for diagnosis is skin or synovial biopsy, which shows characteristic multinucleated non-Langerhans giant cells and ground glass eosinophilic cytoplasm. Although the disease spontaneously remits in approximately 10 years, MRH can rapidly progress to arthritis mutilans in the majority of cases. The diagnosis and treatment are challenging due to its low prevalence and lack of robust guidelines from major rheumatological societies. Corticosteroids and methotrexate are generally first-line treatment options. However, more recently, biologic agents have been incr",
+        "journal": "Cureus",
+        "year": "2017",
+        "authors": [
+          "Lim Khin",
+          "D'Souza Jason",
+          "Vasquez Jonathan B",
+          "Vuyyuru Sujatha"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28589069/"
+      },
+      {
+        "pmid": "31388893",
+        "title": "New perspectives in eosinophilic granulomatosis with polyangiitis (EGPA): report of the first meeting of the European EGPA Study Group.",
+        "abstract": "The European Eosinophilic Granulomatosis with Polyangiitis (EGPA) study group first gathered in Firenze in December 2018. The discussion was centred around the clinical and therapeutic needs in EGPA which still remain unmet. Indeed, EGPA is a puzzling and rare disease which shares clinical features with other anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAVs) and hypereosinophilic syndromes (HESs). Some of the recommendations published in 2015 are based on data derived from EGPA-related diseases, rather than from EGPA itself, and therefore need to be updated. Thus, the aim of the meeting was to stimulate ongoing research, to promote collaborative European studies and to define the main issues on which future studies should be focused. Current fields of research on EGPA include potential serological biomarkers of disease activity and of specific organ involvement, possible links between different genetic variants and clinical phenotypes, and new therapeutic perspec",
+        "journal": "Internal and emergency medicine",
+        "year": "2019",
+        "authors": [
+          "Marvisi Chiara",
+          "Sinico Renato Alberto",
+          "Salvarani Carlo",
+          "Jayne David",
+          "Prisco Domenico"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Consensus",
+          "Eosinophilic Granuloma",
+          "Europe",
+          "Granulomatosis with Polyangiitis",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31388893/"
+      },
+      {
+        "pmid": "17243127",
+        "title": "EBV+ lymphoproliferative disease following prolonged chemotherapy for refractory LCH.",
+        "abstract": "Epstein-Barr virus (EBV) is a herpesvirus for which latent infection in B lymphocytes occurs in most individuals by middle childhood. Clinically significant reactivation of this virus occurs in the context of suppressed cell-mediated immunity, occasionally developing into lymphoproliferative disease (EBV-LPD). EBV reactivation is rarely associated with intensive chemotherapy alone. Here we present the case of a 4-year-old female who developed EBV-LPD as a complication of prolonged immunosuppressive chemotherapy for her multiply-recurrent Langerhans cell histiocytosis (LCH).",
+        "journal": "Pediatric blood & cancer",
+        "year": "2008",
+        "authors": [
+          "Lee Dean A",
+          "Tatevian Nina",
+          "Herring Ruth A",
+          "McClain Kenneth L"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asparaginase",
+          "Cytarabine",
+          "Doxorubicin",
+          "Drug Therapy, Combination",
+          "Epstein-Barr Virus Infections",
+          "Fatal Outcome",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17243127/"
+      },
+      {
+        "pmid": "16146541",
+        "title": "Intravascular lymphoma associated with haemophagocytic syndrome: a very rare entity in western countries.",
+        "abstract": "Intravascular lymphoma (IVL) is a rare and aggressive disorder, characterised by frequent cutaneous and neurological involvement and medullary infiltration. In rare cases particularly in Asia, IVL can be associated with haemophagocytic syndrome (IVL-HS). Here, we report the case of a 61-year-old Caucasian female who presented with IVL-HS. Bone marrow biopsy showed haemophagocytic features and medullary localisation of a diffuse large B-cell lymphoma. Liver biopsy showed exclusive sinusoidal infiltration by large B cells. Treatment by polychemotherapy associated with rituximab induced a rapid complete remission. Unfortunately, death occurred as a consequence of septic shock. Early recognition of IVL-HS by performing bone marrow biopsy is critical to start rapidly appropriate treatment. The role of rituximab in the management of IVL-HS remains to be established.",
+        "journal": "European journal of haematology",
+        "year": "2005",
+        "authors": [
+          "Terrier Benjamin",
+          "Aouba Achille",
+          "Vasiliu Viorel",
+          "Charlier Caroline",
+          "Delarue Richard"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Histiocytosis, Non-Langerhans-Cell",
+          "Humans",
+          "Lymphoma",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Middle Aged",
+          "Neoplasm Invasiveness"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16146541/"
+      },
+      {
+        "pmid": "15282670",
+        "title": "Prolonged fever of unknown origin and hemophagocytosis evolving into acute lymphoblastic leukemia.",
+        "abstract": "Hemophagocytic syndrome (HPS) is an unusual acute syndrome presenting with fever, hepatosplenomegaly, and cytopenias. The hallmark of HPS is the accumulation of activated macrophages that engulf hematopoietic cells in the reticuloendothelial system. Most cases of HPS in adults are secondary to infection or malignancy, and thus investigation of the underlying disease is necessary. We describe a patient with prolonged fever, HPS, and chromosomal abnormalities in the bone marrow who underwent thorough evaluation for the cause of his symptoms. A final diagnosis of acute lymphoblastic leukemia (ALL) was established in a fourth, repeated bone marrow biopsy performed more than 2 months after the first presenting symptom appeared. This unusual case demonstrates the importance of cytogenetic abnormalities found in cases of HPS and the importance of repeated testing when an underlying disease is suspected.",
+        "journal": "American journal of hematology",
+        "year": "2004",
+        "authors": [
+          "Goldschmidt Neta",
+          "Gural Alexander",
+          "Kornberg Abraham",
+          "Spectre Galia",
+          "Shopen Andrei"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Marrow",
+          "Chromosome Aberrations",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Disease Progression",
+          "Doxorubicin",
+          "Fever of Unknown Origin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15282670/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:24:48.799639",
+  "success": true,
+  "error_message": null
+}

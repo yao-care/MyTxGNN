@@ -1,0 +1,990 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "potassium deficiency disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05291520",
+      "title": "A Phase 1, Open-Label, Single-Dose Study of the Safety and Pharmacokinetics of a Human Monoclonal Antibody, GSK3810109, Administered Either Subcutaneously or Intravenously With Recombinant Human Hyaluronidase PH20 (rHuPH20) to Healthy Adults",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-02-23",
+      "completion_date": "2023-04-10",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "An open-label, two part study to assess the safety, tolerability, and PK of VH3810109 in healthy adult participants. Participants will receive a single SC or IV dose of VH3810109 co-administered with rHuPH20 and will be followed up for 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, and without history of any of the conditions listed in the exclusion criteria.\n* Participants having body weight of ≥50 kilogram (kg) and",
+      "endpoints": [
+        "Number of Participants With Grade 2 or Higher (>=) Adverse Events (AEs) Following SC Administration of VH3810109 (Part 1 and Part 3)",
+        "Number of Participants With Serious Adverse Events (SAEs) Following SC Administration of VH3810109 (Part 1 and Part 3)",
+        "Number of Participants With Injection Site Reactions (ISRs) Following VH3810109 SC Administration (Part 1 and 3)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT05291520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04563845",
+      "title": "A Study to Evaluate the Effect of Therapeutic and Supratherapeutic Oral Doses of GSK3640254 on Cardiac Conduction as Assessed by 12-Lead Electrocardiogram Compared to Placebo and a Single Oral Dose of Moxifloxacin in Healthy Adult Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-11-09",
+      "completion_date": "2021-10-30",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This study will aim to evaluate the effect of therapeutic and supratherapeutic oral doses of GSK3640254 on cardiac conduction compared to placebo and a single oral dose of Moxifloxacin in healthy adult participants. The study has 2 parts: Part 1 will determine the supratherapeutic dose for Part 2, which will be the main corrected QT interval (QTc) study. Part 1 will evaluate once daily (QD) dosing of GSK3640254 or placebo and Part 2 will investigate the safety, tolerability and Pharmacokinetics ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participant must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination (inc",
+      "endpoints": [
+        "Part 1: Area Under the Plasma Concentration-time Curve From Time Zero to Time t (AUC[0-t]) of GSK3640254",
+        "Part 1: AUC From Time Zero to the End of the Dosing Interval at Steady State (AUC[0-tau]) of GSK3640254",
+        "Part 1: Maximum Observed Concentration (Cmax) of GSK3640254"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04563845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04425902",
+      "title": "Effects of GSK3640254 on the Single-Dose Pharmacokinetics of Probe Substrates (Caffeine, Metoprolol, Montelukast, Flurbiprofen, Omeprazole, Midazolam, Digoxin, and Pravastatin) in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-12-16",
+      "completion_date": "2021-03-10",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is an open-label, single sequence study that is being conducted to investigate the potential drug-drug interaction (DDI) when GSK3640254 is co-administered with a cocktail of cytochrome P450 (CYP) enzymes and transporter probe substrates in healthy participants. This study will aid in understanding these interactions and resulting changes in exposure (if any) when drugs that are metabolized via these pathways are given in combination with GSK3640254. The study will consist of a Screening pe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are overtly healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examinat",
+      "endpoints": [
+        "Area Under the Plasma Concentration-time Curve (AUC) From Time Zero to Time t (AUC[0-t]) for Caffeine",
+        "AUC From Time Zero Extrapolated to Infinity (AUC[0-infinity]) for Caffeine",
+        "Maximum Observed Plasma Concentration (Cmax) for Caffeine"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04425902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01384851",
+      "title": "Therapeutic Efficacy of the Chronic Application of Tear Formulations for Dry Eye and Normal Subjects Under Conditions of Environmental Stress",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-07",
+      "completion_date": "2011-11",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "The purpose of this study is to determine the therapeutic effect of the chronic application of eye-drops on tear evaporation rate in dry eye and normal subjects exposed to a condition of environmental stress. The effect will be studied in terms of changes in tear physiology and the inflammatory biomarkers on the ocular surface.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be between the ages of 18 and 79 years of age.\n* Must understand and be able, willing and likely to fully comply with study procedures and restrictions.\n\nExclusion Criteria:\n\n* Active ocular allergy\n* Current contact lens wear\n* Any topical ophthalmic drops within 1 week of in",
+      "endpoints": [
+        "Tear Film Evaporation"
+      ],
+      "sponsor": "Glasgow Caledonian University",
+      "url": "https://clinicaltrials.gov/study/NCT01384851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05258513",
+      "title": "The Effects of Oral Supplementation With Geranylgeraniol (GG) Sourced From Annatto on Sexual Health in Males and Females",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-02-06",
+      "completion_date": "2022-12-09",
+      "country": "United States",
+      "enrollment": 83,
+      "brief_summary": "The purpose of this study will be to examine the effectiveness of Geranylgeraniol supplementation on sexual health function in males and females following an 8-week dose escalation intervention. The study will be carried out in a randomized, double-blind, placebo-controlled, parallel manner. Participants will be stratified into quartiles based on their scores on the Derogatis Interview for Sexual Functioning during screening and prior to baseline testing. Participants from each quartile will be ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and Females age 30-49 years old\n* Males scoring 27-36 on the Aging Males Symptoms scale\n* Willing to sign the Informed Consent\n* English literate\n\nExclusion Criteria:\n\n* Cardiovascular, neurological, metabolic, or endocrine disease\n* Drink heavily (\\>7 and \\>14 drinks pe",
+      "endpoints": [
+        "Changes in Overall Sexual Function",
+        "Changes in Aging Male Symptoms",
+        "Changes in Androgen Deficiency in Aging Males Scale"
+      ],
+      "sponsor": "Applied Science & Performance Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05258513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03075644",
+      "title": "A Multicentre, Randomised, Open-labelled, Parallel-group, Activecontrolled Trial to Evaluate the Safety of Once Weekly Dosing of Somapacitan (NNC0195-0092) and Daily Norditropin® FlexPro® for 52 Weeks in Previously Human Growth Hormone Treated Japanese Adults With Growth Hormone Deficiency",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-03-03",
+      "completion_date": "2018-10-04",
+      "country": "Japan",
+      "enrollment": 62,
+      "brief_summary": "This trial is conducted in Asia. The aim of this trial is to evaluate the safety of once weekly dosing of somapacitan (NNC0195-0092) and daily Norditropin® FlexPro® for 52 weeks in previously human growth hormone treated Japanese adults with growth hormone deficiency.",
+      "eligibility_criteria": "Inclusion Criteria: - Male or female of at least 18 years of age and not more than 79 years of age at the time of signing informed consent - GHD diagnosed for at least 6 months (defined as 180 days) prior to screening - Treatment with hGH for at least 6 consecutive months (defined as 180 days) at sc",
+      "endpoints": [
+        "Incidence of Adverse Events, Including Injection Site Reactions"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT03075644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00945282",
+      "title": "A Proof of Concept Study for GSK2248761 (An Extension of NV-05A-002: A Phase I/IIa Double-Blind Study to Evaluate the Safety and Tolerability, Antiretroviral Activity, Pharmacokinetics and Pharmacodynamics of IDX12899 in Antiretroviral Treatment-Naive HIV-1 Infected Subjects, Completed by Idenix)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-10-20",
+      "completion_date": "2009-11-28",
+      "country": "Argentina",
+      "enrollment": 8,
+      "brief_summary": "GSK has in-licensed a novel NNRTI-class candidate (GSK2248761, IDX12899) for the treatment of subjects with HIV-1 infection from Idenix Pharmaceuticals. Idenix Pharmaceuticals completed a proof-of-concept study evaluating GSK2248761 monotherapy over seven days in forty treatment-naïve subjects infected with HIV-1. GSK2248761 doses sequentially evaluated were 800 mg QD, 400 mg QD, 200 mg QD and 100mg QD.\n\nThis study will evaluate a lower dose, or doses, of GSK2248761 to better characterize the do",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female, 21 to 65 years of age.\n* Female of non-childbearing potential defined as: being post-menopausal, defined as 12 months of spontaneous amenorrhea and having a serum FSH level \\>40 MIU/ml at Screening OR have had a documented bilateral tubal ligation or hysterecto",
+      "endpoints": [
+        "Number of Participants With Serious Adverse Events (SAEs) and Adverse Events (AEs)",
+        "Change From Baseline in Hematology Paramaters- Basophils, Eosinophils, Lymphocytes, Monocytes, White Blood Cell Count",
+        "Change From Baseline in Hematology Paramaters- Hemoglobin"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00945282"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04597983",
+      "title": "Effect of 8-week Intake of 2S-hesperidin on Performance, Body Composition and Biochemicals Markers in Amateur Cyclists",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-09-22",
+      "completion_date": "2018-12-21",
+      "country": "Spain",
+      "enrollment": 40,
+      "brief_summary": "This clinical study evaluates the effect of 500 mg of 2S-hesperidin for 8 weeks on performance (power generated in different metabolic zones), body composition (fat and muscle mass) and biochemical (antioxidant, inflammatory status) and metabolic (capillary blood in finger) markers in amateur cyclists. Our hypothesis is that chronic intake of 2S-hesperidin can improve performance (maximum power generated). To justify this hypothesis, we measured the parameters mentioned above, which could establ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-55 years,\n* BMI of 19-25.5 kg·m-2\n* At least 3 years of cycling experience and training for 6-12 h·wk-1\n\nExclusion Criteria:\n\n* Were smokers or regular alcohol drinkers,\n* Had a metabolic, cardiorespiratory or digestive pathology or anomaly,\n* Had an injury in the prior 6 m",
+      "endpoints": [
+        "Maximum power",
+        "Power generated at FatMax",
+        "Power generated at ventilatory threshold 1 (VT1)"
+      ],
+      "sponsor": "Universidad Católica San Antonio de Murcia",
+      "url": "https://clinicaltrials.gov/study/NCT04597983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03984825",
+      "title": "The Effect of Coadministration of GSK3640254 on the Pharmacokinetics of a Combined Oral Contraceptive Containing Ethinyl Estradiol and Levonorgestrel in Healthy Female Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-06-13",
+      "completion_date": "2019-08-16",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "This is an open-label, single-sequence, 1-way drug-drug interaction study to investigate the effect of GSK3640254 on the pharmacokinetics of a combination oral contraceptive containing ethinyl estradiol (EE) and levonorgestrel (LNG). Effective contraception for women infected with human immunodeficiency virus (HIV) is important in the prevention of unplanned pregnancies. The study will consist of a screening period of 28 days, check-in (Day -4), a run-in period and a treatment period. During the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, laboratory ",
+      "endpoints": [
+        "Period 1: Area Under the Plasma Concentration-time Curve From Time 0 to the End of the Dosing Interval at Steady State (AUC [0-tau]) of EE",
+        "Period 2: AUC (0-tau) of EE",
+        "Period 1:AUC (0-tau) of LNG"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03984825"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03816696",
+      "title": "An Open-Label Two-way Interaction Clinical Trial to Evaluate the Pharmacokinetic Interactions Between GSK3640254 and Dolutegravir in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-01-23",
+      "completion_date": "2019-04-10",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "This is an open-label, single-sequence, two-way drug interaction study to investigate the PK, safety and tolerability of GSK3640254 and DTG when administered alone or in combination in healthy subjects. Treatment of human immunodeficiency virus (HIV) infection frequently involves combination therapy. Data from this study will contribute to dosing recommendations when GSK3640254 and DTG are given in combination. The study will consist of a Screening period and 3 sequential treatment periods. Subj",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, laboratory ",
+      "endpoints": [
+        "Period 1: Area Under the Plasma Concentration-time Curve From Time 0 to the End of the Dosing (AUC[0 to Tau]) of Dolutegravir for Dolutegravir Arm",
+        "Period 3: AUC(0 to Tau) of Dolutegravir for Dolutegravir + GSK3640254 Arm",
+        "Period 1: Maximum Observed Concentration (Cmax) of Dolutegravir for Dolutegravir Arm"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03816696"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04493684",
+      "title": "A Double-Blind (Sponsor Unblinded), Randomized, Placebo-Controlled, Single and Repeated Dose Escalation Study to Investigate the Safety, Tolerability and Pharmacokinetics of GSK3739937 in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-07-31",
+      "completion_date": "2021-08-30",
+      "country": "United States",
+      "enrollment": 91,
+      "brief_summary": "This study is a Phase 1, double-blind (sponsor-unblinded), randomized, placebo-controlled, single- and repeat-dose escalation study including a weekly oral dose (MAD) cohort and a relative bioavailability (RBA) and food effect (FE) cohort to investigate the safety, tolerability and PK of VH3739937 in healthy participants. This is a three part study. Part 1 and Part 2 is designed to gain information on the safety, tolerability, and pharmacokinetic (PK) properties of GSK3739937 when administered a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Participants who are overtly healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examinat",
+      "endpoints": [
+        "Part 1 - Number of Any Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Part 2 - Number of Any AEs and SAEs",
+        "Part 3 - Number of Any AEs and SAEs"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04493684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00482027",
+      "title": "A Phase 1 Randomized, Placebo-controlled, Double-blind Dose-escalation Trial to Evaluate the Safety and Immunogenicity of tgAAC09, a Gag-PR-RT AAV HIV Vaccine",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2007-01",
+      "country": "Germany, India, Belgium",
+      "enrollment": 80,
+      "brief_summary": "The purpose of this study is to determine safety and immunogenicity (ability to induce an immune response) of a novel HIV vaccine based on adeno-associated virus (AAV)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy males and females\n* Age at least 18 years on the day of screening and no greater than 50 years on the day of vaccination\n* Available for follow-up for the planned duration of the study (screening plus 12 months)\n* Able to give written informed consent;\n* No reported hi",
+      "endpoints": [
+        "Safety of one or two doses of tgAAC09"
+      ],
+      "sponsor": "International AIDS Vaccine Initiative",
+      "url": "https://clinicaltrials.gov/study/NCT00482027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06652958",
+      "title": "A Phase 1, Open-Label, Study of the Safety and Pharmacokinetics of a Human Monoclonal Antibody, VH4527079, Administered Either Intravenously or Subcutaneously to Healthy Adults and Persons With HIV",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2024-10-02",
+      "completion_date": "2027-02-03",
+      "country": "United States",
+      "enrollment": 102,
+      "brief_summary": "This study evaluates the safety, tolerability, and pharmacokinetics (PK) of a single dose administration of VH4527079 by subcutaneous (SC) injection or by intravenous (IV) infusion in healthy adult participants and multiple dose administration by IV infusion in healthy adult participants and in Persons with HIV (PWH).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be 18 to 55 years of age inclusive at the time of signing the informed consent.\n* Participants who are overtly healthy based on a medical evaluation including medical history, physical examination, laboratory tests, and cardiac monitoring.\n* Participants who a",
+      "endpoints": [
+        "Number of participants with adverse events (AEs) of Grade 2 and above severity",
+        "Area under the plasma-concentration time curve from time zero to infinity (AUC0-inf) of VH4527079",
+        "Area under the plasma-concentration time curve from time zero to the last quantifiable concentration (AUC0-tlast) of VH4527079"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT06652958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03422172",
+      "title": "An Open Label, Phase 1 Study to Evaluate the PK, Safety, Tolerability and Acceptability of Long Acting Injections of the HIV Integrase Inhibitor, Cabotegravir (CAB; GSK1265744) in HIV Uninfected Chinese Men",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-04-10",
+      "completion_date": "2020-04-20",
+      "country": "China",
+      "enrollment": 48,
+      "brief_summary": "The pre-exposure prophylaxis (PrEP) is an important component in the overall strategy for prevention of HIV infection. Cabotegravir (CAB) is an integrase strand transfer inhibitor currently in development for treatment and prevention of HIV infection. CAB possesses attributes that allow formulation and delivery as a LA parenteral product. CAB is being developed as both oral and long acting (LA) injectable formulations. This study is designed to evaluate the PK, safety, tolerability, and acceptab",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be 18 to 65 years of age inclusive, at the time of signing the informed consent.\n* Subjects are male at birth.\n* Subjects who have non-reactive point of care (POC) HIV test and undetectable HIV-1 ribose nucleic acid (RNA) at screening.\n* At risk of acquiring HIV,",
+      "endpoints": [
+        "Number of Participants With Non-serious Adverse Events (AEs) and Serious AEs (SAEs): Injection Phase",
+        "Number of Participants With Maximum Toxicity Post-Baseline in Hematology Parameters-Injection Phase",
+        "Number of Participants With Maximum Toxicity Post-Baseline in Chemistry Parameters: Injection Phase"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03422172"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02954653",
+      "title": "A PHASE 1 DOSE ESCALATION STUDY TO EVALUATE THE SAFETY, PHARMACOKINETICS AND PHARMACODYNAMICS OF INTRAVENOUS PF-06747143, ADMINISTERED AS SINGLE AGENT OR IN COMBINATION WITH STANDARD CHEMOTHERAPY IN ADULT PATIENTS WITH ACUTE MYELOID LEUKEMIA",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2016-11-28",
+      "completion_date": "2017-12-05",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Two part, dose escalation and dose expansion study. Open label, multi center, non randomized, multiple dose, safety, pharmacokinetic and pharmacodynamic study of single agent PF-06747143 in sequential dose levels of adult patients with refractory or relapsed AML in order to establish maximum tolerated dose (MTD), recommended Phase 2 dose (RP2D) or maximally permitted dose (MPD) following by a 3 arm dose expansion with PF-06747143 in combination with standard of care chemotherapy in adult patient",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPart 1 and Part 2 cohort 3: Patients diagnosed with AML ( bone marrow (BM) or peripheral blood (PB) blast counts \\>/= 20%) and have received prior chemotherapy and/or standard of care and have relapsed, refractory or Minimal Residual Disease (defined as patients showing residual",
+      "endpoints": [
+        "Number of Participants With Dose-Limiting Toxicities (DLTs) [Part 1]",
+        "Number of Participants With Treatment-Emergent Adverse Events (AEs) [Part 2]",
+        "Number of Participants With Laboratory Abnormalities [Part 2]"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02954653"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02738931",
+      "title": "A Phase I, Relative Oral Bioavailability Study of Different Fixed Dose Combinations of Dolutegravir and Lamivudine in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-05",
+      "completion_date": "2016-06",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Dolutegravir (DTG) and lamivudine (3TC) are indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection. Fixed dose combination (FDC) tablets of existing approved drugs are preferred by many patients and offer the potential for increased patient adherence and consequently a reduced likelihood of virological failure and viral resistance.\n\nThe purpose of the present study is to evaluate the relative bioavailability of two exp",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Between 18 and 65 years of age inclusive, at the time of signing the informed consent.\n* Healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, laboratory tests and cardiac evaluat",
+      "endpoints": [
+        "DTG: Area under the concentration-time curve from time 0 extrapolated to infinity (AUC[0-inf])",
+        "DTG: maximum concentration observed (Cmax)",
+        "3TC: AUC(0-inf)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT02738931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03875313",
+      "title": "A Phase 1b/2 Open Label, Dose Escalation and Expansion Study of the Glutaminase Inhibitor CB-839 in Combination With the PARP Inhibitor Talazoparib in Patients With Advanced or Metastatic Solid Tumors",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2019-05-20",
+      "completion_date": "2020-07-29",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "This is a Phase 1b/2 study to determine the recommended phase 2 dose (RP2D), safety and tolerability, pharmacokinetics (PK) and clinical activity of the glutaminase inhibitor CB-839 with the poly adenosine diphosphate ribose polymerase (PARP) inhibitor talazoparib in participants with advanced/metastatic solid tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n(Part 1)\n\n-Documented incurable/locally advanced or metastatic solid tumors that have either relapsed or are refractory or intolerant to standard therapies of proven clinical benefit.\n\n(Part 2) Meets 1 of the 3 defined cohorts:\n\n* Cohort 1: Documented incurable/locally advanced ",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) Excluding Deaths Due to Disease Progression",
+        "Number of Participants With Laboratory Abnormalities (Hematology, Clinical Chemistry) at More Than 1 Clinic Visit",
+        "Number of Participants With Dose-Limiting Toxicities (DLTs)"
+      ],
+      "sponsor": "Calithera Biosciences, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT03875313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02715284",
+      "title": "A Phase 1 Dose Escalation and Cohort Expansion Study of TSR-042, an Anti-PD-1 Monoclonal Antibody, in Patients With Advanced Solid Tumors",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-03-07",
+      "completion_date": "2027-01-25",
+      "country": "Brazil, France, Spain, Czechia, Italy, Denmark, United Kingdom, Poland, Canada, United States",
+      "enrollment": 730,
+      "brief_summary": "This is a multi-center, open-label, first-in-human Phase 1 study evaluating the anti-programmed death receptor 1 (anti-PD-1) antibody dostarlimab (also known as TSR-042) n participants with advanced solid tumors who have limited available treatment options. The study will be conducted in 2 parts with Part 1 consisting of safety evaluation, pharmacokinetics (PK), and pharmacodynamics (PDy) of escalating doses of dostarlimab. Dose escalation will be based on ascending weight-based dose levels (DLs",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant is at least 18 years of age.\n* Participant has proven recurrent or advanced solid tumor and has disease progression after treatment with available anticancer therapies, or is intolerant to treatment that meets the following requirements for the part of the study th",
+      "endpoints": [
+        "Part 1: Number of participants with treatment emergent AEs (TEAEs)",
+        "Part 1: Number of participants with immune mediated AEs of interest",
+        "Part 1: Number of participants with abnormal hematology parameters"
+      ],
+      "sponsor": "Tesaro, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02715284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03441984",
+      "title": "A 2-Part, Phase I, Single-Dose, 3-Period Crossover Relative Bioavailability Study of a Pediatric TRIUMEQ Dispersible Tablet and Pediatric Dolutegravir and Lamivudine (DTG/3TC) Fixed Dose Combination Dispersible Tablet Formulations as Compared With Adult Tablets in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-02-26",
+      "completion_date": "2018-04-28",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This is a 2-part, single-dose, open label, randomized 3-way cross-over study to compare BA of pediatric study drugs TRIUMEQ and (DTG/3TC) in healthy volunteers under fasted conditions. Study will be conducted in 2-parts. Each part 1 and part 2 will comprise of 3-treatment periods (TP) where Part 1, will assess BA, of pediatric TRIUMEQ dispersible tablets with an adult TRIUMEQ conventional tablet formulation and Part 2, will assess BA, of pediatric DTG/3TC dispersible tablets with adult DTG and 3",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 65 years of age, inclusive, at the time of signing the informed consent.\n* Healthy subjects as determined by the investigator or medically qualified designee based on a medical evaluation, including medical history, physical examination, laboratory tests, and ca",
+      "endpoints": [
+        "Area Under the Plasma Concentration-time Curve (AUC) From Time of Dose Extrapolated to Infinity (AUC[0-inf]) in Part 1 of DTG",
+        "AUC From Time of Dose to Last Measurable Concentration (AUC[0-t]) in Part 1 of DTG",
+        "Maximum Observed Concentration (Cmax) in Part 1 of DTG in Plasma"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03441984"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03544281",
+      "title": "A Phase I/II, Open-label, Dose Escalation and Expansion Study to Evaluate Safety, Tolerability, and Clinical Activity of the Antibody-Drug Conjugate GSK2857916 Administered in Combination With Lenalidomide Plus Dexamethasone (Arm A), or Bortezomib Plus Dexamethasone (Arm B) in Participants With Relapsed / Refractory Multiple Myeloma - DREAMM-6",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-09-20",
+      "completion_date": "2024-02-28",
+      "country": "Spain, Australia, United Kingdom, Canada, United States",
+      "enrollment": 153,
+      "brief_summary": "This study will evaluate the safety and tolerability profile of belantamab mafodotin when administered in combination with approved regimens of either Lenalidomide Plus Dexamethasone \\[Len/Dex (Treatment A)\\] or Bortezomib Plus Dexamethasone \\[Bor/Dex (Treatment B)\\] in participants with RRMM, i.e., those who have relapsed or who are refractory to at least 1 line of approved therapy.\n\nParticipants receiving treatment A, may continue combination treatment until the occurrence of progressive disea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of giving signed informed consent.\n* Male or female, 18 years or older (at the time consent is obtained).\n* Have confirmed diagnosis of Multiple Myeloma (MM) as defined by the IMWG.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 for Arm A and ",
+      "endpoints": [
+        "Number of Participants With Dose Limiting Toxicities (DLTs), Treatment A",
+        "Number of Participants With DLTs, Treatment B",
+        "Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03544281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00623597",
+      "title": "A Phase I/II Study of Invirase® Boosted With Ritonavir in HIV Infected Infants and Children 4 Months to Less Than 6 Years Old",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2010-03",
+      "country": "Argentina, Spain, Thailand",
+      "enrollment": 18,
+      "brief_summary": "This single arm study will assess the pharmacokinetics, safety and activity of saquinavir (Invirase hard gel capsules, film coated tablets or opened capsules) boosted by combination with ritonavir, in HIV-1 infected infants and children between the ages of 4 months and 6 years. Patients will commence treatment with saquinavir 50mg/kg bid plus ritonavir 2.5mg/kg or 3.0mg/kg (dependent on body weight), and a background antiretroviral regimen. If drug exposures are found to be dissimilar to those p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* infants and children, 4 months to \\<6 years;\n* confirmed HIV-1 infection;\n* patients for whom saquinavir/ritonavir together with \\>=2 background ARVs is considered appropriate.\n\nExclusion Criteria:\n\n* body weight \\>4kg/8.8 pounds;\n* use of any concomitant medications that may ",
+      "endpoints": [
+        "Plasma Trough Concentrations (Ctrough) for Saquinavir",
+        "Area Under the Plasma Concentration-time Curve Over the Time Interval From Zero to Twelve Hours (AUC0-12h) for Saquinavir",
+        "Incidence of Adverse Events (AE) and Serious Adverse Events (SAE)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00623597"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03231943",
+      "title": "A Double-Blind (Sponsor Unblinded), Randomized, Placebo-Controlled, Single and Repeated Dose Escalation Study to Investigate the Safety, Tolerability and Pharmacokinetics of GSK3640254 in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-09-19",
+      "completion_date": "2018-09-09",
+      "country": "United Kingdom",
+      "enrollment": 78,
+      "brief_summary": "Human immuno deficiency virus 1 (HIV-1) infections continues to be a serious health threat throughout the world and development of medicines with new mechanism of action have an important role to play. GSK3640254 is a maturation inhibitor (MI) and can be effective in HIV-1 treatment. This randomized, 2-part, single and repeat increasing dose study will collect information on safety, tolerability and drug levels in the body of in healthy subjects for GSK3640254. The information collected in this ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are overtly healthy as determined by medical evaluation including medical history and psychiatric history, physical examination, laboratory tests, and 24 hour Holter m",
+      "endpoints": [
+        "Part 1:Number of Participants With Adverse Events (AEs) and Serious AEs (SAEs)",
+        "Part 1: Change From Baseline in Hematology Parameters: Basophils, Eosinophils, Leukocytes, Lymphocytes, Monocytes, Neutrophils, Platelets.",
+        "Part 1: Change From Baseline in Hematology Parameters: Erythrocytes."
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03231943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03020745",
+      "title": "A Double-Blind, Placebo-Controlled Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Single Ascending Dose and Multiple Doses of GSK3389404 in Chronic Hepatitis B Subjects",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-02-14",
+      "completion_date": "2019-11-06",
+      "country": "South Korea, Singapore, Philippines, Hong Kong, China, Japan",
+      "enrollment": 78,
+      "brief_summary": "GSK3389404 is being developed for the treatment of CHB virus infection. The development goal for GSK3389404 is the establishment of a finite duration treatment that results in sustained suppression of hepatitis B virus (HBV) replication and viral antigen production after cessation of all treatments for CHB due to the restoration of a functional immune response in the absence of high antigen levels. This study is a multicenter, randomized double-Blind (sponsor un-blinded in Part 1), Placebo-contr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is able to understand and is capable of giving written informed consent, is willing to comply with protocol requirements, instructions and protocol-stated restrictions, and is likely to complete the study as planned.\n* Between 18 and 70 years of age, inclusive, at the ",
+      "endpoints": [
+        "Part 1: Change From Baseline in Systolic Blood Pressure (SBP) and Diastolic Blood Pressure (DBP) at Indicated Time Points",
+        "Part 2: Change From Baseline in SBP and DBP at Indicated Time Points (Up to Day 169-Interim Analysis)",
+        "Part 2: Change From Baseline in SBP and DBP at Indicated Time Points (Up to Day 450-Optional Follow-up)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03020745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05776108",
+      "title": "A Phase 1, Single-center, Randomized, Open-label, Single Dose, Three-period, Balanced Crossover Study to Assess the Effect of Food on the Pediatric Dispersible Tablet Formulation of Cabotegravir and to Assess the Relative Bioavailability Between the Pediatric Dispersible Tablet (DT) Formulation and Immediate Release (IR) Tablet Formulation of Cabotegravir in Healthy Adult Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2023-03-23",
+      "completion_date": "2023-06-08",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "This study will assess the relative bioavailability of the CAB DT formulation relative to that of the CAB IR formulation and to assess the effect of food on the CAB DT formulation.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participant must be 18 to 55 years of age inclusive, at the time of signing the informed consent form (ICF).\n* Participants who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical exami",
+      "endpoints": [
+        "Area under the concentration-time curve from time zero (pre-dose) extrapolated to infinite time (AUC[0-inf]) following administration of CAB DT after a high fat meal",
+        "Area under the concentration time curve from time zero (pre-dose) extrapolated to last time of quantifiable concentration (AUC[0-last]) following administration of CAB DT after a high fat meal",
+        "Maximum observed concentration (Cmax) following administration of CAB DT after a high fat meal"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT05776108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00950859",
+      "title": "A Pilot Study to Assess the Antiviral Activity of GSK1349572 Containing Regimen in Antiretroviral Therapy (ART)-Experienced, HIV-1-infected Adult Subjects With Raltegravir Resistance",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2015-01",
+      "country": "Spain, France, Italy, Canada, United States",
+      "enrollment": 51,
+      "brief_summary": "Integrase is an enzyme produced by HIV so that the virus can multiply in the human body. GSK1349572 is a new drug in the integrase inhibitor class that prevents the enzyme from working properly and therefore prevents the virus from multiplying.\n\nGSK1349572 has shown to be effective against viruses in a short-term monotherapy study in adults with no previous exposure to integrase inhibitors. The purpose of this study is to determine whether GSK1349572 is effective in the treatment of HIV-infected",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected male or female adults at least 18 years of age with a plasma HIV-1 RNA \\> 1,000 copies/mL at study entry. Women capable of becoming pregnant must use appropriate contraception during the study (as defined by the protocol)\n* ART-experienced (defined as on stable ",
+      "endpoints": [
+        "Number of Participants Who Achieved HIV-1 RNA <400 Copies (c)/Milliliter (mL) or at Least 0.7 log10 c/mL Below Their Baseline Value at Day 11"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00950859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04128293",
+      "title": "A Randomized, Open-Label, Single Dose, Four-Period Crossover Clinical Trial to Assess the Relative Bioavailability of a Tablet Compared to a Capsule of GSK3640254 and to Assess the Effect of Food on the GSK3640254 Tablet in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2019-10-08",
+      "completion_date": "2019-11-15",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "This is an open-label, single-dose, four-period, four sequential, and crossover study conducted to assess the relative bioavailability of GSK3640254 mesylate tablets and GSK3640254 mesylate capsules (in the presence of a moderate fat meal). This study will also evaluate the effect of food (fasted, moderate fat meal, and high fat meal) on the pharmacokinetics of GSK3640254 mesylate tablet formulation. Participants will be randomized to receive a single dose of GSK3640254 200 milligram (mg) capsul",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Participant must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Participants who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, labo",
+      "endpoints": [
+        "Area Under the Plasma Concentration-time Curve From Time Zero Extrapolated to Infinity (AUC[0-infinity]) for GSK3640254 200 mg Capsules and Tablets Under Fed Condition (Treatment A and B)",
+        "AUC(0-infinity) for GSK3640254 200 mg Tablets Under Fasted and High Fat Condition (Treatment C and D)",
+        "Area Under the Plasma Concentration-time Curve From Time Zero to Time t (AUC[0-t]) for GSK3640254 200 mg Capsules and Tablets Under Fed Condition (Treatment A and B)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04128293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02567981",
+      "title": "Impact of the Consumption of an M+ Fortified Premix (Chapuditos®) in 4 Rural Municipalities in the Department of La Libertad, El Salvador in Children From 6 to 59 Months.",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-09",
+      "completion_date": "2020-09",
+      "country": "El Salvador",
+      "enrollment": 4577,
+      "brief_summary": "Adequate nutrition during the first years of life is essential to reach full body and brain development potential. Children under the age of 5 in Central America and El Salvador suffer from micronutrient deficiencies. In El Salvador, \\~ 20% of children under the age of 5 suffer from chronic undernutrition which is reflected in low length-for-their age Z-scores and anemia. This trial will examine the impact on health and growth in young children that will receive either a 21 micronutrient fortifi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Parental signed informed consent.\n* Age 6 to 42 months when study begins (so child can be followed up for at least 1 year).\n* Permanent resident of selected municipalities and no intention to move for the next two years.\n* Availability and commitment to attend well child visit",
+      "endpoints": [
+        "Changes in mean hemoglobin concentrations",
+        "Prevalence of anemia",
+        "Changes in mean length/height-for age z-scores (HAZ)"
+      ],
+      "sponsor": "The Mathile Institute for the Advancement of Human Nutrition",
+      "url": "https://clinicaltrials.gov/study/NCT02567981"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02634073",
+      "title": "An Open-label Single-Center, 4-Period William's Cross-Over Design Drug Interaction Trial to Determine the Effects of Sorbitol-Containing Solutions on Lamivudine Exposure Following Administration of Lamivudine Oral Solution in Healthy Adult Subjects",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-01-01",
+      "completion_date": "2016-03-11",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "Lamivudine (3TC) is a nucleoside analogue indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and children. Documented literature elucidates that simultaneous administration of multiple sorbitol-containing products could increase the potential for a significant interaction and may contribute to the lower 3TC exposures.\n\nIn this study several sorbitol doses (3.2 gram (g), 10.2 g, and 13.4 g solutions) will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 65 years of age inclusive, at the time of signing the informed consent.\n* Healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination and laboratory tests.\n* A participan",
+      "endpoints": [
+        "Plasma Lamivudine Area Under the Plasma Concentration Time Curve (AUC) From Time Zero to the Last Quantifiable Time Point (AUC[0-t]), AUC From Time Zero Extrapolated to Infinity (AUC[0-inf]) and AUC From Time Zero to 24 Hours (AUC[0-24])",
+        "Plasma Lamivudine Maximum Observed Concentration (Cmax), Concentration at 24 Hour (h) Post-dose (C24) and Last Measurable Concentration (Ct)",
+        "Lamivudine Elimination Half-life in Plasma (t1/2)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT02634073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07268508",
+      "title": "Randomised Controlled Trial Evaluating the Impact of a Pro-diversity Gut Microbiota Diet on Gut Microbiota, Eating Behaviour and Sensory Function in Patients Who Have Undergone Bariatric Surgery",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2029-01-01",
+      "country": "France",
+      "enrollment": 60,
+      "brief_summary": "Bariatric surgery is the most effective treatment for long-term weight loss and reducing obesity-related health risks. It alters the gastrointestinal tract as well as metabolic and hormonal functions, influencing eating behaviour. However, weight loss outcomes and long-term maintenance vary between patients, likely due to changes in the gut microbiota. Dietary recommendations aimed at improving microbiota diversity could help support sustained weight loss after surgery.\n\nThe BariaGut Taste study",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 25 and 65 years old\n* Undergoing either sleeve gastrectomy or Roux-en-Y gastric bypass\n* With grade 3 obesity (BMI≥40 kg/m²) or with BMI≥35 kg/m² and at least one comorbidity likely to be improved after surgery, with the exception of type 2 diabetes\n* Signed consent fo",
+      "endpoints": [
+        "Microbiota diversity 12 months after surgery"
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT07268508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06475261",
+      "title": "Tissue Oximetry's Measurement in Cytoreductive Surgery With Hyperthermic Intraperitoneal Chemotherapy: Prospective Observational Study With Device",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-07-27",
+      "completion_date": "2025-09-30",
+      "country": "Italy",
+      "enrollment": 50,
+      "brief_summary": "Tissue oximetry obtained from peripheral muscle measures the state of tissue oxygenation of various organs and, as already widely described in the literature, can be used to measure the state of kidney's tissue oxygenation. However, there is no evidence in the existing scientific literature on the use of muscle tissue oximetry in patients undergoing cytoreductive surgery for ovarian cancer with hyperthermic intraperitoneal chemotherapy.\n\nThe primary objective of our study is to evaluate whether ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* American Society Anesthesiologists (ASA) Classification 1-2\n* Cytoreductive surgery for ovarian cancer with laparoscopic or laparotomic technique with Hypertermic Intraperitoneal Chemotherapy.\n\nExclusion Criteria:\n\n* Age \\< 18 years\n* ASA \\> or = 3\n* Cytoreductive surgery with",
+      "endpoints": [
+        "Correlation between intraoperative tissue oximetry and postoperative acute renal injury."
+      ],
+      "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+      "url": "https://clinicaltrials.gov/study/NCT06475261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03921723",
+      "title": "Non-randomized, Sequential, Fixed-sequence Evaluation of Prototype Dolutegravir Liquid Formulations Versus 5mg Dolutegravir Dispersible Tablets Following Single-dose Fasted-state Administrations to Normal Healthy Adult Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-05-07",
+      "completion_date": "2019-07-25",
+      "country": "United Kingdom",
+      "enrollment": 22,
+      "brief_summary": "This is an open-label, single-center, single dose, non-randomized, sequential, fixed-sequence study, which will evaluate pharmacokinetics (PK) of dolutegravir (DTG) in healthy adult subjects. The study will contain 6 periods with five prototype liquid formulations for evaluation in fasted state. In period 1, 2 and 3 single reference dose of 2 dispersible tablets of 5 milligram DTG will be administered and at least 2 liquid prototype DTG formulations (containing a target total dose of 10mg DTG). ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, and cardiac evaluation.\n* Body weight \\>= 50 ",
+      "endpoints": [
+        "Area Under the Plasma Concentration Time Curve From Time Zero to the Last Quantifiable Time Point (AUC[0-t]) for DTG",
+        "AUC From Time Zero to Infinity (AUC[0-inf]) for DTG",
+        "Maximum Observed Concentration (Cmax) for DTG"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03921723"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00920426",
+      "title": "A Phase 2a Study to Compare Antiviral Effect, Safety, Tolerability and Pharmacokinetics of GSK1265744 Monotherapy Versus Placebo in HIV-1 Infected Adults (ITZ112929)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06-09",
+      "completion_date": "2009-08-13",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "The purpose of this randomized, double-blinded study is to test the safety of GSK1265744 and how well it works on reducing the amount of HIV in the blood. It will also look at how people react to and how a human body uses GSK1265744. This study will compare the effects of GSK1265744 and placebo.\n\nThe study will consist of 1 or 2 parts to look at doses of GSK1265744. About 8 people will take part in Part 1 of the study receiving dose A. If additional dosing information is needed after Part 1, abo",
+      "eligibility_criteria": "Inclusion Criteria:\n\nA subject will be eligible for inclusion in this study only if all of the following criteria apply:\n\n* Male or female between 18 and 65 years of age inclusive, at the time of signing the informed consent.\n* A female subject is eligible to participate if she is of non-childbearin",
+      "endpoints": [
+        "Change From Baseline in Plasma Human Immunodeficiency Virus (HIV-1) Ribonucleic Acid (RNA) to Day 11",
+        "GSK1265744 Pharmacokinetic (PK) Parameters Following Dose Administration on Day 1: Area Under the Concentration-time Curve From Time Zero (Pre-dose) to Last Time of Quantifiable Concentration Within a Participant Across All Treatments(AUC[0-24])",
+        "GSK1265744 PK Parameters Following Dose Administration on Day 1: Concentration at 24 Hours Post Dose (C24)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00920426"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03784079",
+      "title": "A Randomized, Double-Blind (Sponsor-unblinded), Placebo-Controlled, Adaptive Trial to Investigate the Antiviral Effect, Safety, Tolerability and Pharmacokinetics of GSK3640254 in HIV-1 Infected Treatment-Naïve Adults",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-01-31",
+      "completion_date": "2020-02-06",
+      "country": "France, Spain, South Africa, Italy, Germany, United States",
+      "enrollment": 34,
+      "brief_summary": "Infection with HIV-1 continues to be a serious health threat throughout the world. Chronic exposure to combination anti-retroviral therapy identified anti-retroviral associated long-term toxicities. Hence, there is a need to prevent these co-morbidities. GSK3640254 is a next-generation HIV-1 Maturation Inhibitor (MI) which may be effective for HIV-1 infection. This study will evaluate the antiviral effect, safety, tolerability and pharmacokinetics/ pharmacodynamics of GSK3640254 in HIV-1 infecte",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 to 65 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are healthy (other than HIV infection) as determined by the Investigator or medically qualified designee based on a medical evaluation including medical history, labora",
+      "endpoints": [
+        "Part 1: Maximum Change From Baseline in Plasma Human Immunodeficiency Virus-1 (HIV-1) Ribonucleic Acid (RNA) at Day 11",
+        "Part 2: Maximum Change From Baseline in Plasma HIV-1 RNA at Day 8"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03784079"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03984812",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Tolerability and Pharmacokinetics of GSK3732394 in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2019-06-17",
+      "completion_date": "2020-03-23",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "This is a phase 1, 2-part, double-blind (sponsor-unblinded), randomized, placebo-controlled, FTIH study, that includes both single-ascending and multiple-ascending dose phase to assess the safety, tolerability, and pharmacokinetic (PK)/pharmacodynamic (PD) attributes of GSK3732394 in healthy subjects. The data gathered in this study will further enable clinical development of GSK3732394 in HIV-infected subjects. Approximately 72 healthy subjects will be randomized in the FTIH study. Part 1 will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, and cardiac monitoring.\n* Subjects who are a",
+      "endpoints": [
+        "Part 1: Number of Participants With Non-serious Adverse Event (SAEs) and SAEs",
+        "Part 2: Number of Participants With Non-SAEs and SAEs",
+        "Part 1: Number of Participants With Clinical Chemistry Parameters by Maximum Grade Increase Post-Baseline"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03984812"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02539576",
+      "title": "A Phase I, Open-label, Single-dose Study to Investigate the Pharmacokinetics, Safety and Tolerability of Abacavir/Dolutegravir/Lamivudine Fixed-dose Combination Tablets in Healthy Japanese Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2015-11",
+      "country": "United States",
+      "enrollment": 12,
+      "brief_summary": "The abacavir (ABC)/dolutegravir (DTG)/lamivudine (3TC) 600 milligrams (mg)/50 mg/300 mg fixed-dose combination (FDC) tablet is currently approved in the United States (US) and Europe. Although the pharmacokinetics (PK), safety and tolerability of ABC/DTG/3TC FDC tablets have been extensively studied in subjects not of Japanese heritage, these parameters have not been exclusively assessed in Japanese subjects. To support the marketing application in Japan, this single-dose, open-label study will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 55 years of age inclusive, at the time of signing the informed consent.\n* Japanese subjects who were born in Japan with 4 ethnic Japanese grand parents and must not have lived outside Japan for more than 10 years with being a Japanese passport holder (current or",
+      "endpoints": [
+        "Area under the concentration-time curve from time zero (pre-dose) to time of last quantifiable concentration (AUC[0-t]) following a single oral dose administration of ABC/DTG/3TC 600 mg/ 50 mg/ 300 mg FDC tablet in healthy, adult Japanese subjects",
+        "Area under the concentration-time curve from time zero (pre-dose) extrapolated to infinite time (AUC[0-infinity]) following a single oral dose administration of ABC/DTG/3TC 600 mg/ 50 mg/ 300 mg FDC tablet in healthy, adult Japanese subjects",
+        "Maximum observed plasma concentration (Cmax) following a single oral dose administration of ABC/DTG/3TC 600 mg/ 50 mg/ 300 mg FDC tablet in healthy, adult Japanese subjects"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT02539576"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03836729",
+      "title": "An Open-Label One-way Interaction Clinical Trial to Evaluate the Pharmacokinetic Interactions Between GSK3640254 and Tenofovir Alafenamide/Emtricitabine in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-02-11",
+      "completion_date": "2019-04-30",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "Human immunodeficiency virus (HIV) infection frequently involves combination drug therapy for its treatment; hence, it is important to understand their interactions and resulting changes in exposure which are associated with medications. This is a Phase-1, open-label, fixed-sequence 2-period, one-way drug interaction study to assess the pharmacokinetic (PK), safety, and tolerability of GSK3640254 and Tenofovir alafenamide/emtricitabine (TAF/FTC) when administered alone and in combination in heal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Subjects who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, laboratory ",
+      "endpoints": [
+        "Period 1: Area Under the Plasma Concentration-time Curve From Time 0 to the End of the Dosing Interval at Steady State (AUC [0-tau]) of TAF",
+        "Period 2: AUC (0-tau) of TAF",
+        "Period 1: Maximum Observed Concentration (Cmax) of TAF"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03836729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04857892",
+      "title": "A Two-Part, Randomized, Open-Label, Single Dose, Crossover Clinical Study to Assess the Relative Bioavailability of Fixed-Dose Combinations of GSK3640254 and Dolutegravir and to Assess the Effect of Food on the Select Fixed Dose Combination of GSK3640254 and Dolutegravir in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2021-04-21",
+      "completion_date": "2021-09-10",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "This is a two part study to compare the relative bioavailability (BA) of 2 fixed dose combinations (FDCs) of GSK3640254/DTG with GSK3640254 and DTG administered together as single agents (Part 1) and to assess the effect of food on the pharmacokinetic (PK) of the selected FDC of GSK3640254/DTG (Part 2).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be 18 to 65 years of age inclusive, at the time of signing the informed consent.\n* Participants who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, and cardiac monitoring (history and E",
+      "endpoints": [
+        "Part 1: Area Under the Plasma Concentration-time Curve From Time 0 Extrapolated to Infinity (AUC[0-inf]) of GSK3640254",
+        "Part 1: Area Under the Plasma Concentration-time Curve From Time 0 to Time t (AUC[0-t]) of GSK3640254",
+        "Part 1: Maximum Observed Concentration (Cmax) of GSK3640254"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04857892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02229851",
+      "title": "A Multicentre, Multinational, Randomised, Parallel-group, Placebo-controlled (Double Blind) and Active-controlled (Open) Trial to Compare the Efficacy and Safety of Once Weekly Dosing of NNC0195-0092 (Somapacitan) With Once Weekly Dosing of Placebo and Daily Norditropin® FlexPro® in Adults With Growth Hormone Deficiency for 35 Weeks, Followed by a 53-week Open-label Extension Period",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-10-31",
+      "completion_date": "2018-05-07",
+      "country": "Brazil, Russia, Sweden, Norway, Turkey (Türkiye), India, Germany, Australia, Latvia, Romania, Lithuania, Israel, South Africa, Ukraine, Poland, Japan, United States, United Kingdom, Malaysia",
+      "enrollment": 301,
+      "brief_summary": "This study is conducted globally. The purpose is to demonstrate the efficacy of once weekly dosing of NNC0195-0092 (somapacitan) compared to placebo and once-daily dosing of somatropin (human growth hormone, hGH) after 35 weeks of treatment in adults with growth hormone deficiency.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female of at least 23 years of age and not more than 79 years of age at the time of signing informed consent\n* Human growth hormone (hGH) treatment naïve or no exposure to hGH or growth hormone (GH) secretagogues for at least 180 days prior to randomisation with any re",
+      "endpoints": [
+        "Change in Truncal Fat Percentage (Week 34)"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT02229851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03984838",
+      "title": "A Phase I, Open-label, Single-dose Study to Investigate the Pharmacokinetics, Safety and Tolerability of Dolutegravir + Rilpivirine (JULUCA™) 50 mg/25 mg Tablets in Healthy Participants of Japanese Descent",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-06-17",
+      "completion_date": "2019-08-13",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "Dolutegravir (DTG), a human immunodeficiency virus (HIV)-1 integrase inhibitor (INI), and Rilpivirine (RPV), a non-nucleoside HIV-1 reverse transcriptase inhibitor (NNRTI), are each approved in the United States (US), European Union, and other countries for the treatment of HIV-1 infection. JULUCA is a combination of Dolutegravir and Rilpivirine indicated for the treatment of HIV-1 infection in antiretroviral (ARV) experienced adult subjects who are switching from their current antiretroviral tr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 to 55 years of age, at the time of signing the informed consent\n* Subjects who were born in Japan with 4 ethnic Japanese grandparents. Subjects who have not lived outside Japan for more than 10 years and who are Japanese passport holders (current or expired)",
+      "endpoints": [
+        "Area Under the Concentration (AUC) Time Curve From Time Zero Extrapolated to Infinite Time (AUC [0-infinity]) of DTG",
+        "AUC (0-infinity) of RPV",
+        "Area Under the Concentration Time Curve From Time Zero to Last Time of Quantifiable Concentration (AUC [0-t]) of DTG"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT03984838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06681766",
+      "title": "A Phase 1 Study to Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Subcutaneous Nomlabofusp in Adolescents and Children With Friedreich's Ataxia",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2024-12-06",
+      "completion_date": "2025-04-28",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "The goal of this clinical trial is to evaluate the safety and tolerability of nomlabofusp (CTI-1601) in adolescents and children with Friedreich's ataxia (FRDA).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject has genetically confirmed diagnosis of FRDA manifested by homozygous GAA repeat expansions, with repeat sizing (if available) included on the diagnosis report.\n2. Male or female subjects ≥ 2 to \\< 18 years of age at screening.\n3. Subjects must weigh ≥ 10.0 kg.\n4. Subj",
+      "endpoints": [
+        "Number of AEs, TEAEs, related TEAEs, Grade 3/4 TEAEs, and SAEs",
+        "Number of subjects with ISRs",
+        "Change from baseline in electrocardiogram (ECG) parameter - heart rate (HR)"
+      ],
+      "sponsor": "Larimar Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06681766"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03557281",
+      "title": "A Phase IIa Open-label Trial to Investigate the Early Bactericidal Activity, Safety and Tolerability of GSK3036656 in Participants With Drug-sensitive Pulmonary Tuberculosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-03-22",
+      "completion_date": "2021-12-14",
+      "country": "South Africa",
+      "enrollment": 76,
+      "brief_summary": "Tuberculosis remains a concerning health problem, with Mycobacterium Tuberculosis (MTB) now causing more deaths than acquired immune deficiency syndrome (AIDS). GSK3036656 is a compound with a novel mechanism of action under development for the treatment of tuberculosis. It suppresses protein synthesis in MTB by selectively inhibiting the enzyme Leucyl t-ribose nucleic acid (RNA) synthetase. Thus, this study will investigate the early bactericidal activity, safety and tolerability of GSK3036656 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be 18 to 65 years of age inclusive, at the time of signing the informed consent.\n* In addition, subjects recruited into cohorts that are planned to undergo fluorodeoxyglucose (FDG) positron emission tomography/ Computed Tomography (PET/CT) must be \\>=25 years of ",
+      "endpoints": [
+        "Change in log10 Colony Forming Units (CFU) Per (/) Milliliter (mL) of Direct Respiratory Sputum Samples From Baseline to Day 14"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03557281"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04263142",
+      "title": "A Two-Part, Randomized, Open-Label, Single Dose, Crossover Clinical Trial to Assess the Relative Bioavailability of a Tablet Compared to a Capsule of GSK3640254 and to Assess the Effect of Food on the GSK3640254 Tablet in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-01-27",
+      "completion_date": "2020-03-24",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "This is an open-label, 2 part, single-dose and crossover study conducted to assess the relative bioavailability of a tablet compared to a capsule of GSK3640254 and to assess the effect of food on the GSK3640254 tablet in healthy participants. This study will also evaluate the effect of food (fasted, moderate fat meal, and high fat meal) on the pharmacokinetics of the GSK3640254 mesylate tablet formulation. In Part 1, participants will be randomly assigned to 1 of 2 treatment sequences (AB or BA)",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Participants must be 18 to 55 years of age inclusive, at the time of signing the informed consent.\n* Participants who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, lab",
+      "endpoints": [
+        "Area Under the Plasma Concentration-time Curve From Time Zero Extrapolated to Infinity (AUC[0 to Inf]) for GSK3640254-Part 1",
+        "Area Under the Plasma Concentration-time Curve From Time Zero Extrapolated to Time t (AUC[0 to t]) for GSK3640254-Part 1",
+        "Maximum Observed Concentration (Cmax) for GSK3640254-Part 1"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04263142"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00711009",
+      "title": "A Randomized, Open-label Study of Lopinavir/Ritonavir 400/100 mg Tablet Twice Daily + Co-formulated Emtricitabine/Tenofovir Disoproxil Fumarate 200/300 mg Once Daily Versus Lopinavir/Ritonavir 400/100 mg Tablet Twice Daily + Raltegravir 400 mg Twice Daily in Antiretroviral Naive, HIV-1 Infected Subjects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-10",
+      "country": "France, Spain, Puerto Rico, Italy, Canada, Poland, United States",
+      "enrollment": 206,
+      "brief_summary": "The purpose of this study is to compare the safety, tolerability, and antiviral activity of the lopinavir/ritonavir tablet when administered in combination with reverse transcriptase inhibitors to lopinavir/ritonavir tablets when administered in combination with a human immunodeficiency virus type 1 ( HIV-1) integrase inhibitor in antiretroviral naive HIV-1 infected subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must provide written, voluntary informed consent to participate in the study.\n* Participants must be naive to antiretroviral treatment with HIV RNA greater than or equal to 1,000 copies/mL at screening, and in the investigator's opinion, require antiretroviral the",
+      "endpoints": [
+        "Percentage of Participants Responding (Plasma HIV-1 Ribonucleic Acid [RNA] Levels Less Than 40 Copies/Milliliter [mL]) at Week 48 Based on the Food and Drug Administration (FDA) Time to Loss of Virologic Response (TLOVR) Algorithm",
+        "Percentage of Participants With Moderate or Severe Treatment-emergent, Drug-related Adverse Events",
+        "Primary Outcome: Percentage of Participants With Potentially Clinically Significant Laboratory Values"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00711009"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03899480",
+      "title": "Adoptive Transfer of Haploidentical Natural Killer Cells and IL-15 Super Agonist ALT-803 in Human Immunodeficiency Virus (HIV)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-05-01",
+      "completion_date": "2021-04-01",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This is a pilot therapeutic study of related donor HLA-haploidentical NK-cell based therapy to determine if the treatment is safe and well-tolerated and if there is any measureable impact on virus reservoirs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age-18-65\n* Stable ART for at least 12 months.\n* Screening plasma HIV RNA levels below level of quantification (\\<40 to \\<50 copies RNA/mL depending on the assay).\n* Screening CD4 count ≥500 cells/µl\n* Laboratory tests (Complete Blood Count, Comprehensive Metabolic Panel, Mg, ",
+      "endpoints": [
+        "Adverse Events",
+        "CBC; White Blood Cell Count",
+        "CBC; Red Blood Cell Count"
+      ],
+      "sponsor": "University of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT03899480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02215096",
+      "title": "A Phase I, Open-label, Dose-finding Study of GSK2636771 Administered in Combination With Enzalutamide (Xtandi^TM ) in Male Subjects With Metastatic Castration-Resistant Prostate Cancer (mCRPC)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-11-13",
+      "completion_date": "2019-10-03",
+      "country": "United Kingdom, United States",
+      "enrollment": 37,
+      "brief_summary": "This Phase I, open-label, dose-finding, multicenter study is designed to determine the recommended Phase II dose (RP2D) for the combination of an orally administered Phosphatidylinositol-4,5-bisphosphate 3-kinase beta (PI3K-beta) inhibitor (GSK2636771) with enzalutamide. Subjects with phosphatase and tensin homolog (PTEN)-deficient metastatic castration-resistant prostate cancer (mCRPC) who are receiving a stable dose of enzalutamide with a recently demonstrated progression (either by RECIST \\[R",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed written informed consent provided\n* Males \\>=18 years of age (at the time consent is obtained)\n* Histologically or cytologically confirmed diagnosis of prostate adenocarcinoma, surgically castrated or continuous medical castration (for \\>=8 weeks prior to Screening)\n* S",
+      "endpoints": [
+        "Number of Participants With Non-serious Adverse Events (Non-SAEs) and Serious Adverse Events (SAEs) During run-in Period",
+        "Number of Participants With Non-SAEs and SAEs During Combination Treatment Period",
+        "Number of Participant With Dose-limiting Toxicities (DLT) During Combination Treatment Period"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02215096"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02035046",
+      "title": "Clinical Significance of Heterozygosity for Mutations of the SLC12A3 Gene Coding for the Thiazide Sensitive Na-Cl Cotransporter",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2016-09",
+      "country": "France",
+      "enrollment": 250,
+      "brief_summary": "Gitelman syndrome is a salt wasting tubulopathy caused by mutations in the SLC12A3 gene coding for the thiazide sensitive sodium chloride cotransporter. This disease mimics the chronic treatment with thiazide diuretics and is characterized by renal hypokalemia, low to normal blood pressure, hypocalciuria and hypomagnesemia. The purpose of this study is to determine whether the heterozygous carriers present the metabolic risks and/or the benefits of this disease.",
+      "eligibility_criteria": "Gitelman syndrome patients, relatives carrying heterozygous mutations and relatives or healthy voluntarees without mutations.",
+      "endpoints": [
+        "Systolic blood pressure evaluated by self-measurement"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT02035046"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05365477",
+      "title": "Randomized Trial of Empiric Versus Selective Prevention Strategies for Kidney Stone Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-08-04",
+      "completion_date": "2025-10-17",
+      "country": "United States",
+      "enrollment": 56,
+      "brief_summary": "The aims of this study are to 1) Conduct a randomized clinical trial of selective versus empiric diet plus pharmacologic therapy in high-risk stone formers and 2) Determine adverse effects from, and adherence to selective and empiric strategies.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Two or more symptomatic kidney stone events in the last 5 years\n* Adult\n\nExclusion Criteria:\n\n* Medullary sponge kidney or renal tubular acidosis\n* Untreated urinary obstruction\n* Primary hyperparathyroidism\n* Primary hyperoxaluria\n* Pregnancy\n* Inflammatory bowel disease or b",
+      "endpoints": [
+        "Calcium oxalate supersaturation",
+        "Calcium phosphate supersaturation"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05365477"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05428761",
+      "title": "A Randomized, Placebo Controlled, Semi-Blind, Crossover Study to Evaluate the Effects of Two Novel Hydration Beverage Formulas on Rehydration in Healthy Adults",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-08-01",
+      "completion_date": "2023-01-01",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "Dehydration lowers both physical and mental performance if it is severe enough. Performance declines are more pronounced in hot conditions or after prolonged strenuous activity such as exercise. Most individuals drink less than their sweat losses during activity, while some individuals overdrink and develop a sodium deficiency.\n\nWater and electrolyte balance must be restored as part of the recovery process after any activity that causes sweating. Plain water causes a decrease in plasma sodium co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy adult male and female participants who are between 18 and 49 years of age (inclusive).\n* Are in good general health (no active or uncontrolled diseases or conditions) and can ingest the assigned amount of fluid at each visit.\n* Have a body mass index (BMI) between 17.0",
+      "endpoints": [
+        "Relative rehydration"
+      ],
+      "sponsor": "Liquid I.V.",
+      "url": "https://clinicaltrials.gov/study/NCT05428761"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02795754",
+      "title": "A Double-Blind (Sponsor Unblinded), Randomized, Placebo-Controlled, Continuation Single and Repeated Dose Escalation Study to Investigate the Safety, Tolerability and Pharmacokinetics of GSK2838232 With Ritonavir, in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "GSK2838232 is a Human Immunodeficiency Virus (HIV) maturation inhibitor being developed for the treatment of HIV in combination with other antiretroviral therapy (ART). The primary objectives of this study are to investigate the safety, tolerability, and pharmacokinetics (PK) of single and repeat doses of GSK2838232. This study will be a double-blind, placebo-controlled, single and repeat dose escalation study. This study will be conducted in two Parts: single escalating doses (Part 1A and 1B), ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: Between 18 and 55 years of age inclusive, at the time of signing the informed consent.\n* Healthy as determined by the Investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, laboratory tests and cardiac m",
+      "endpoints": [
+        "Number of participants with adverse events (AEs)",
+        "Safety as assessed by absolute values and change from Baseline in hematology parameters -Part 1",
+        "Safety as assessed by absolute values and change from Baseline in hematology parameters - Part 2"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02795754"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04507321",
+      "title": "A Two-period Study in Healthy Male Participants to Determine the Pharmacokinetics, Balance/Excretion, and Metabolism of [14C]-GSK3640254 Following a Single Intravenous Radiolabeled Microtracer Dose (Concomitant With a Non-radiolabeled Oral Dose) and a Single Oral Radiolabeled Dose",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-09-24",
+      "completion_date": "2020-11-23",
+      "country": "United Kingdom",
+      "enrollment": 5,
+      "brief_summary": "This is an open-label, single-center, single group, non-randomized, two-period, single sequence, mass balance study which will enroll 6 healthy male participants. This study will assess the pharmacokinetics, balance/excretion, and metabolism of GSK3640254 in humans using \\[14C\\]-radiolabeled drug substance administered as an intravenous (IV) infusion and via the oral route. The study will also provide an assessment of GSK3640254 absorption, metabolism and excretion following administration of a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be 30 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, vital signs and ECG. A participant wi",
+      "endpoints": [
+        "Area Under the Concentration-time Curve From Time Zero (Pre-dose) Extrapolated to Infinite Time (AUC[0-inf]) in Plasma Following Administration of Oral Dose of GSK3640254",
+        "AUC(0-inf) of Total Radioactivity in Blood Following Administration of Oral Dose of GSK3640254",
+        "AUC(0-inf) in Plasma Following Administration of IV Dose of [14C]-GSK3640254"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04507321"
+    }
+  ],
+  "timestamp": "2026-03-04T16:35:14.609561",
+  "success": true,
+  "error_message": null
+}

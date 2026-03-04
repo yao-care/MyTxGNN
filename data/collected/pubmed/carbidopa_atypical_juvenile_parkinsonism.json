@@ -1,0 +1,469 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbidopa",
+    "disease": "atypical juvenile parkinsonism",
+    "query_string": "Carbidopa AND atypical juvenile parkinsonism"
+  },
+  "data": {
+    "query": "Carbidopa AND atypical juvenile parkinsonism",
+    "results": [
+      {
+        "pmid": "11581527",
+        "title": "Diffuse Lewy Body Disease.",
+        "abstract": "Diffuse Lewy body disease (DLB) is a neurodegenerative disorder characterized by dementia, fluctuations in mental status, hallucinations, and parkinsonism. Diffuse Lewy body disease is the second most common cause of dementia, following Alzheimer's disease. The treatment of DLB includes cholinergic therapy for cognitive impairment, atypical neuroleptics to alleviate hallucinations, and levodopa/carbidopa to improve parkinsonism. The recognition and diagnosis of DLB has critical treatment implications. Centrally acting cholinesterase inhibitors, such as rivastigmine, donepezil, and galantamine partially reverse decreased cortical cholinergic activity and may improve cognition and neuropsychiatric symptoms in DLB. Rivastigmine has been demonstrated to improve cognition and neuropsychiatric symptoms in patients with DLB without worsening parkinsonian features. Due to the potential adverse events associated with neuroleptics in this population, treatment with cholinesterase inhibitors is c",
+        "journal": "Current treatment options in neurology",
+        "year": "2001",
+        "authors": [
+          "Zesiewicz Theresa A.",
+          "Baker Matthew J.",
+          "Dunne Peter B.",
+          "Hauser Robert A."
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11581527/"
+      },
+      {
+        "pmid": "15822104",
+        "title": "Other pharmacological treatments for motor complications and dyskinesias.",
+        "abstract": "Controlling motor complications becomes increasingly difficult with disease progression. The \"wearing-off\" phenomenon is the most-common motor fluctuation. Wearing-off can be treated by dietary manipulation, shortening the dosing interval, substituting sustained-release levodopa, adding amantadine, or monoamine oxidase type B inhibitors, and other options, including catechol-O-methyltransferase inhibitors and the approved dopamine agonists addressed in another chapter. The rotigotine constant-delivery system is being developed to treat wearing-off symptoms. Istradefylline (KW-6002), an adenosine A(2A) receptor antagonist, has been studied for wearing-off and the results will be discussed. The on-off fluctuations can be treated with liquid levodopa and the rescue therapy of injectable apomorphine. Patients may also suffer from dyskinesias. Dyskinesias can be treated with small doses of liquefied levodopa-carbidopa, amantadine, and clozapine, an atypical neuroleptic.",
+        "journal": "Movement disorders : official journal of the Movement Disorder Society",
+        "year": "2005",
+        "authors": [
+          "Waters Cheryl"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amantadine",
+          "Antiparkinson Agents",
+          "Catechol O-Methyltransferase Inhibitors",
+          "Dopamine Agonists",
+          "Dyskinesia, Drug-Induced",
+          "Gait",
+          "Humans",
+          "Levodopa",
+          "Monoamine Oxidase",
+          "Monoamine Oxidase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15822104/"
+      },
+      {
+        "pmid": "7880338",
+        "title": "Dopa-responsive dystonia simulating cerebral palsy.",
+        "abstract": "Five patients presented in infancy or early childhood with various combinations of pyramidal and extrapyramidal signs with normal cognitive function. Their perinatal courses were unremarkable. In each patient, initial impressions listed by several examiners included spastic diplegia or cerebral palsy. Later in each course, either extrapyramidal features or progression suggested dopa-responsive dystonia. In 4 of the 5 children, cerebrospinal fluid was obtained and disclosed reduced levels of biopterin, neopterin, and homovanillic acid in all 4. Levodopa therapy resulted in prompt improvement with normal function returning within 6 months. The disappearance of the \"spasticity,\" extensor plantar responses, and extrapyramidal signs, following levodopa therapy, confirmed the diagnosis of doparesponsive dystonia in these patients. Three had apparently sporadic disease; the other 2 were siblings with an affected paternal grandmother. Three had onset in infancy with delayed sitting and walking",
+        "journal": "Pediatric neurology",
+        "year": "1994",
+        "authors": [
+          "Nygaard T G",
+          "Waran S P",
+          "Levine R A",
+          "Naini A B",
+          "Chutorian A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Biopterins",
+          "Carbidopa",
+          "Cerebral Palsy",
+          "Child",
+          "Diagnosis, Differential",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Dystonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7880338/"
+      },
+      {
+        "pmid": "34924463",
+        "title": "Nephrotic Syndrome and Atypical Posterior Reversible Encephalopathy Syndrome in a Patient with Parkinson's Disease.",
+        "abstract": "A 59-year-old man with advanced Parkinson's disease treated using levodopa-carbidopa intestinal gel (LCIG) presented with leg edema, hypoalbuminemia, and proteinuria at 1 year after the treatment. He subsequently developed a generalized tonic-clonic seizure, and brain magnetic resonance imaging indicated vasogenic edema in the white matter of the left frontal subcortex. He was diagnosed with nephrotic syndrome (NS) and atypical posterior reversible encephalopathy syndrome (PRES). LCIG cessation and corticosteroid treatment improved the NS. To our knowledge, this is the first case report of NS and atypical PRES in patients with Parkinson's disease. Patients being treated with LCIG should be closely monitored for NS.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2022",
+        "authors": [
+          "Tokimura Ryo",
+          "Ito Eiichi",
+          "Sugiura Yoshihiro",
+          "Ugawa Yoshikazu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Brain",
+          "Drug Combinations",
+          "Gels",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Middle Aged",
+          "Nephrotic Syndrome",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34924463/"
+      },
+      {
+        "pmid": "14594099",
+        "title": "Dementia with Lewy bodies. Review of diagnosis and pharmacologic management.",
+        "abstract": "To review clinical features of dementia with Lewy bodies (DLB) and to guide family physicians in pharmacologic management, including medications to avoid. QUALITY OF EVIDENCE A MEDLINE: search of literature from 1995 to 2002 used the MeSH terms dementia with Lewy bodies/diagnosis, dementia with Lewy bodies/therapy, and antipsychotics/dementia with Lewy bodies. Level II and III evidence was available for diagnosis and treatment of DLB. One randomized controlled trial of rivastigmine was reviewed and appraised.",
+        "journal": "Canadian family physician Medecin de famille canadien",
+        "year": "2003",
+        "authors": [
+          "Frank Christopher"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Antipsychotic Agents",
+          "Cholinesterase Inhibitors",
+          "Humans",
+          "Lewy Body Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14594099/"
+      },
+      {
+        "pmid": "35619842",
+        "title": "Parkinson's Syndrome After Cranial Radiotherapy: A Case Report.",
+        "abstract": "Parkinson's syndrome is a group of signs and symptoms where the core issue is bradykinesia and could be a manifestation of idiopathic parkinsonism (Parkinson's disease, PD), secondary parkinsonism, or parkinsonism due to neurodegenerative disease. PD is the most common cause of Parkinson's syndrome, accounting for approximately 80% of cases. The secondary causes of Parkinson's syndrome include tumors, trauma, hydrocephalus, chemotherapy, medications including amphotericin B, metoclopramide, and radiation treatment. Parkinsonian symptoms secondary to radiation treatment are rarely reported in the literature and are usually not alleviated by carbidopa-levodopa. This report describes a 64-year-old man diagnosed with low-grade astrocytoma of the midbrain who developed unilateral parkinsonian symptoms one year after chemoradiation treatment. This case report also sheds further light on the details of reported cases and the treatment options through an extensive literature review. Clinicians",
+        "journal": "Cureus",
+        "year": "2022",
+        "authors": [
+          "Reddy Kati K",
+          "Anderson Mark D",
+          "Vijayakumar Srinivasan",
+          "Vengaloor Thomas Toms"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35619842/"
+      },
+      {
+        "pmid": "8047259",
+        "title": "New and emerging strategies for improving levodopa treatment.",
+        "abstract": "Soon after the successful introduction of large oral doses of levodopa or of levodopa plus a decarboxylase inhibitor, such as carbidopa or benserazide, for the treatment of Parkinson's disease, it became evident that several disturbing side effects were limiting the therapeutic efficacy of this amino acid. This paper discusses novel practical approaches for the management of these levodopa-related complications. These approaches include therapeutic strategies for controlled delivery of levodopa to the brain (controlled-release preparations), rescue treatment with subcutaneous, intranasal, or sublingual administration of the dopamine agonist apomorphine, and the administration of an atypical neuroleptic, such as clozapine. Other approaches for prolonging the response of levodopa that are being used or investigated are also reviewed in this paper. These include the use of levodopa prodrugs and blocking the degradation in the brain with inhibitors of monoamine oxidase-B and catechol-O-met",
+        "journal": "Neurology",
+        "year": "1994",
+        "authors": [
+          "Tolosa E S",
+          "Valldeoriola F",
+          "Martí M J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Catechol O-Methyltransferase Inhibitors",
+          "Delayed-Action Preparations",
+          "Dyskinesia, Drug-Induced",
+          "Humans",
+          "Levodopa",
+          "Monoamine Oxidase Inhibitors",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8047259/"
+      },
+      {
+        "pmid": "20305599",
+        "title": "Othello syndrome in patients with Parkinson's disease.",
+        "abstract": "Othello syndrome (OS) is an organic delusional disorder with prevailing jealousy symptoms presumably appearing as side effect of antiparkinsonian therapy. The clinical spectrum of psychiatric symptoms in Parkinson's disease (PD) is very wide, including symptoms of depression and anxiety, hallucinations, delusions, with prevalent paranoid symptoms, agitation, delirium and sleep disorders. At our knowledge, just a few cases of patients with PD and OS were reported till now.",
+        "journal": "Psychiatria Danubina",
+        "year": "2010",
+        "authors": [
+          "Georgiev Dejan",
+          "Danieli Aljosa",
+          "Ocepek Lidija",
+          "Novak Dominika",
+          "Zupancic-Kriznar Nina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Age of Onset",
+          "Aged",
+          "Antiparkinson Agents",
+          "Antipsychotic Agents",
+          "Cross-Sectional Studies",
+          "Delusions",
+          "Diagnostic and Statistical Manual of Mental Disorders",
+          "Dopamine Agonists",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20305599/"
+      },
+      {
+        "pmid": "31759188",
+        "title": "Complex dyskinesias in Parkinson patients on levodopa/carbidopa intestinal gel.",
+        "abstract": "Levodopa-carbidopa intestinal infusion is an effective treatment for motor fluctuations in Parkinson's disease. However, it has been recently associated with emergent complex/atypical dyskinesias. We sought to characterize patients who developed these dyskinesias after levodopa infusion initiation, and to compare these patients to a control population with conventional motor fluctuations.",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2019",
+        "authors": [
+          "Marano Massimo",
+          "Naranian Taline",
+          "di Biase Lazzaro",
+          "Di Santo Alessandro",
+          "Poon Yu-Yan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Case-Control Studies",
+          "Cross-Sectional Studies",
+          "Drug Combinations",
+          "Dyskinesia, Drug-Induced",
+          "Female",
+          "Gels",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31759188/"
+      },
+      {
+        "pmid": "11697685",
+        "title": "Drug-induced psychotic symptoms in Parkinson's disease. Problems, management and dilemma.",
+        "abstract": "Psychotic symptoms develop in 20-30% of patients with Parkinson's disease (PD) receiving chronic anti-PD medications, and visual hallucinations with or without delirium and paranoid delusions are the most frequent symptoms. Psychotic symptoms disturb ADL and QOL of PD patients and tax caregivers far more than the motor disabilities do, and good management of drug-induced psychotic symptoms is potentially important. Withdrawal of anti-PD drugs relieves the patients from psychotic side effects, but worsens the parkinsonian motor symptoms. The first step of treatment is to eliminate triggering factors other than anti-PD drugs, such as infections, metabolic disorders, subdural hematoma, and hallucinogenic drugs. The second step is to eliminate anti-PD drugs in the following order; first anticholinergics, amantadine and selegiline, second dopamine agonists, and finally levodopa/carbidopa. Anti-PD medications should be reduced to the point of improving psychotic side effects without drastica",
+        "journal": "Journal of neurology",
+        "year": "2001",
+        "authors": [
+          "Kuzuhara S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Humans",
+          "Male",
+          "Parkinson Disease",
+          "Psychoses, Substance-Induced"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11697685/"
+      },
+      {
+        "pmid": "23787135",
+        "title": "Parkinsonian features in hereditary diffuse leukoencephalopathy with spheroids (HDLS) and CSF1R mutations.",
+        "abstract": "Atypical Parkinsonism associated with white matter pathology has been described in cerebrovascular diseases, mitochondrial cytopathies, osmotic demyelinating disorders, leukoencephalopathies leukodystrophies, and others. Hereditary diffuse leukoencephalopathy with spheroids (HDLS) is an autosomal dominant disorder with symptomatic onset in midlife and death within a few years after symptom onset. Neuroimaging reveals cerebral white matter lesions that are pathologically characterized by non-inflammatory myelin loss, reactive astrocytosis, and axonal spheroids. Most cases are caused by mutations in the colony-stimulating factor 1 receptor (CSF1R) gene. We studied neuropathologically verified HDLS patients with CSF1R mutations to assess parkinsonian features. Ten families were evaluated with 16 affected individuals. During the course of the illness, all patients had at least some degree of bradykinesia. Fifteen patients had postural instability, and seven had rigidity. Two patients initi",
+        "journal": "Parkinsonism & related disorders",
+        "year": "2013",
+        "authors": [
+          "Sundal Christina",
+          "Fujioka Shinsuke",
+          "Van Gerpen Jay A",
+          "Wider Christian",
+          "Nicholson Alexandra M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age of Onset",
+          "Aged",
+          "Antiparkinson Agents",
+          "Biological Specimen Banks",
+          "Brain",
+          "Family",
+          "Female",
+          "Gait Disorders, Neurologic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23787135/"
+      },
+      {
+        "pmid": "33554924",
+        "title": "Quantitative Assessment of Motor Response to a Low Subacute Levodopa Dose in the Differential Diagnosis of Parkinsonisms at Disease Onset: Data from the BoProPark Cohort.",
+        "abstract": "Differential diagnosis between Parkinson's disease (PD) and atypical parkinsonisms (APs) may be difficult at disease onset. The response to levodopa (LD) is a key supportive feature but its definition is largely empirical. Studies evaluating this issue by quantitative tests are scanty.",
+        "journal": "Journal of Parkinson's disease",
+        "year": "2021",
+        "authors": [
+          "Contin Manuela",
+          "Lopane Giovanna",
+          "Cortelli Pietro",
+          "Sambati Luisa",
+          "Mohamed Susan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antiparkinson Agents",
+          "Diagnosis, Differential",
+          "Humans",
+          "Levodopa",
+          "Parkinsonian Disorders",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33554924/"
+      },
+      {
+        "pmid": "10449550",
+        "title": "The sydney multicentre study of Parkinson's disease: progression and mortality at 10 years.",
+        "abstract": "To report on a 10 year follow up of patients with idiopathic Parkinson's disease, particularly with respect to mortality and the effect of early treatment with bromocriptine.",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "1999",
+        "authors": [
+          "Hely M A",
+          "Morris J G",
+          "Traficante R",
+          "Reid W G",
+          "O'Sullivan D J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Age Distribution",
+          "Aged",
+          "Aged, 80 and over",
+          "Australia",
+          "Cause of Death",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Male",
+          "Nursing Homes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10449550/"
+      },
+      {
+        "pmid": "24388506",
+        "title": "Compassionate trial of levodopa carbidopa intestinal gel infusion in two patients with progressive supranuclear palsy.",
+        "abstract": "",
+        "journal": "Clinical neurology and neurosurgery",
+        "year": "2014",
+        "authors": [
+          "Bhidayasiri Roongroj",
+          "Jitkritsadakul Onanong",
+          "Boonrod Nonglak",
+          "Rerknimitr Rungsun"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antiparkinson Agents",
+          "Carbidopa",
+          "Compassionate Use Trials",
+          "Female",
+          "Gels",
+          "Humans",
+          "Levodopa",
+          "Male",
+          "Parkinson Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24388506/"
+      },
+      {
+        "pmid": "41739065",
+        "title": "The underrated value of non-motor symptoms of Parkinson's disease in making diagnostic and treatment decisions.",
+        "abstract": "Parkinson's disease (PD) is identified clinically by the presence of prominent motor signs; however, in recent years there has been growing recognition of non-motor symptoms (NMS) causing a similar or even greater impact on patients' quality of life. Wide spectrum of non-motor problems includes cognitive, neuropsychiatric, sensory, gastrointestinal, urinary, and cardiovascular issues, among others. Some of them are integral parts of the disease, while others may be side effects of applied therapies. Non-motor symptoms like hyposmia, cognitive decline, autonomic symptoms, and sleep disorders may indicate specific PD subtypes or signal prodromal disease before the appearance of motor parkinsonian signs. The burden of NMS increases with disease progression, but early presence of autonomic failure, hallucinations, or cognitive impairment points toward atypical parkinsonian syndromes. Non-motor symptoms significantly limit the possibility of applying certain pharmacological, surgical, and i",
+        "journal": "Neurologia i neurochirurgia polska",
+        "year": "2026",
+        "authors": [
+          "Sławek Jarosław",
+          "Radziwon Jakub"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41739065/"
+      },
+      {
+        "pmid": "41098963",
+        "title": "Neurobrucellosis manifesting as secondary hemiparkinsonism in a veterinary technician: A case report and evidence-based review.",
+        "abstract": "Neurobrucellosis is a severe complication of brucellosis, occurring in 3%-10% of systemic cases. Movement disorders, particularly parkinsonism, are rare manifestations that present significant diagnostic challenges and are often associated with occupational exposure.",
+        "journal": "IDCases",
+        "year": "2025",
+        "authors": [
+          "Sanchez José Daniel",
+          "Figueroa Paola Andrea Salazar",
+          "Figueroa Maria Paula Salazar",
+          "Reinthaller Hanny Alejandra Corvalan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41098963/"
+      },
+      {
+        "pmid": "8057111",
+        "title": "The Sydney Multicentre Study of Parkinson's disease: a randomised, prospective five year study comparing low dose bromocriptine with low dose levodopa-carbidopa.",
+        "abstract": "149 previously untreated patients with Parkinson's disease were recruited over a three year period and randomly allocated to either low dose levodopa-carbidopa (< or = 600/150 mg/day) or low dose bromocriptine (< or = 30 mg/day). A five year follow up is reported on the 126 patients who completed the dose titration and who have not developed features of atypical Parkinsonism. Levodopa-carbidopa in low dosage adequately controlled symptoms in most patients and delayed the appearance of dyskinesia and end of dose failure for about two years longer than conventional doses. Only a few patients could be managed for more than one year on low dose bromocriptine alone; these patients had mild disease and asymmetric signs. Patients randomised to bromocriptine did not develop dyskinesia or troublesome end of dose failure until levodopa-carbidopa was added. The prevalence of dyskinesia in this group was lower than in patients given levodopa-carbidopa alone. The prevalence of end of dose failure w",
+        "journal": "Journal of neurology, neurosurgery, and psychiatry",
+        "year": "1994",
+        "authors": [
+          "Hely M A",
+          "Morris J G",
+          "Reid W G",
+          "O'Sullivan D J",
+          "Williamson P M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Bromocriptine",
+          "Carbidopa",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Levodopa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8057111/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:19:12.092654",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Lamotrigine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00555",
+    "name": "Lamotrigine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:02:53.103467",
+  "success": true,
+  "error_message": null
+}

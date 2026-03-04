@@ -1,0 +1,384 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Decitabine",
+    "disease": "acute myeloblastic leukemia with maturation"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05148234",
+      "title": "A Phase I/II Trial of BMS-986253 in Myelodysplastic Syndromes",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-11-29",
+      "completion_date": "2023-07-03",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "Background:\n\nThe myelodysplastic syndromes (MDS) are a group of bone marrow neoplasms. MDS mostly affect elderly people. The drugs used to treat MDS are not always effective, and the only curative treatment is stem cell transplant. Researchers want to see if a new drug can be used to treat MDS.\n\nObjective:\n\nTo learn if HuMax-interleukin 8 (IL-8) BMS-986253 is a safe and effective treatment for MDS.\n\nEligibility:\n\nAdults aged 18 and older with MDS.\n\nDesign:\n\nParticipants will be screened with a m",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Participants must have histologically or cytologically confirmed myelodysplastic syndromes (MDS) according to 2016 World Health Organization (WHO) criteria\n* And:\n\n  * have higher-risk myelodysplastic syndrome (HR-MDS) Revised International Prognostic Scoring System (R-IPSS \\",
+      "endpoints": [
+        "Phase I: Optimal Biological Dose (OBD) for Human Humax (HuMax)-Interleukin 8 (IL-8) (BMS-986253)",
+        "Phase I: Recommended Phase 2 Dose (RP2D) of Human Humax (HuMax)-Interleukin 8 (IL-8) (BMS-986253)",
+        "Phase II: Overall Response Rate"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT05148234"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01261312",
+      "title": "A Phase 1-2, Dose Escalation, Multicenter Study of Two Subcutaneous Regimens of SGI-110, a DNA Hypomethylating Agent, in Subjects With Intermediate or High-Risk Myelodysplastic Syndromes (MDS) or Acute Myelogenous Leukemia (AML)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-01-04",
+      "completion_date": "2016-07-22",
+      "country": "Canada, United States",
+      "enrollment": 414,
+      "brief_summary": "Phase 1-2 dose-escalation randomized study in participants with intermediate or high risk myelodysplastic syndromes (MDS) or acute myelogenous leukemia (AML). The Dose Escalation Segment will evaluate the biological activity, preliminary safety and efficacy of SGI-110 with two dosing schedules in MDS and AML participants while the Dose Expansion Segment will further evaluate safety and efficacy at the biological effective dose (BED) or maximum tolerated dose (MTD) as defined in the Dose Escalati",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men or women, 18 years of age or older, with a confirmed diagnosis of international prognostic scoring system (IPSS) intermediate-1, intermediate-2 or high-risk MDS including Chronic Myelomonocytic Leukemia (CMML) or AML.\n\n   * In the Dose Escalation Segment, participants who",
+      "endpoints": [
+        "Dose Escalation Phase- Biological Effective Dose (BED): Percent Change From Baseline in DNA Long Interspersed Nucleotide Element-1 (LINE-1) Demethylation",
+        "Dose Escalation Phase- Biological Effective Dose (BED): Percent Change From Baseline in DNA Long Interspersed Nucleotide Element-1 (LINE-1) Demethylation",
+        "Dose Escalation Phase- Biological Effective Dose (BED): Percent Change From Baseline in DNA Long Interspersed Nucleotide Element-1 (LINE-1) Demethylation"
+      ],
+      "sponsor": "Astex Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01261312"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00542828",
+      "title": "A Phase II Study of the Efficacy of Rabbit Anti-thymocyte Globulin (rATG) in Patients With Low and Intermediate-1 Risk Myelodysplastic Syndrome",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-10",
+      "completion_date": "2009-07",
+      "country": "Netherlands, Germany, United Kingdom, France",
+      "enrollment": 16,
+      "brief_summary": "This is a Phase II, single-arm, open-label, multinational, multicenter study of rATG in patients with low or intermediate-1 risk MDS who have either failed 1 prior treatment with growth factor(s), hypomethylating agents (5-azacitidine or decitabine), or the antiangiogenic agents lenalidomide or thalidomide, or who have never been treated for MDS (i.e., treatment-naïve patients).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient provided signed written informed consent.\n* Patient had pathologically confirmed low or intermediate-1 risk MDS at the time of MDS diagnosis and at the time of screening.\n* Patient had received no more than 1 prior treatment for MDS.\n* Patient exhibited at least 1 hema",
+      "endpoints": [
+        "Number of Participants Who Achieved Hematologic Improvement (HI)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00542828"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02907359",
+      "title": "A Phase 3, Multicenter, Randomized, Open-Label Study of Guadecitabine (SGI-110) Versus Treatment Choice in Adults With Myelodysplastic Syndromes (MDS) or Chronic Myelomonocytic Leukemia (CMML) Previously Treated With Hypomethylating Agents",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-01-13",
+      "completion_date": "2020-11-30",
+      "country": "South Korea, France, Spain, Sweden, Czechia, Italy, Denmark, Germany, United Kingdom, Poland, Canada, Japan, Belgium, United States",
+      "enrollment": 417,
+      "brief_summary": "A Phase 3, randomized, open-label, parallel-group, multicenter study designed to evaluate the efficacy and safety of guadecitabine in participants with MDS or CMML who failed or relapsed after adequate prior treatment with azacitidine, decitabine, or both. This global study will be conducted in approximately 15 countries. Approximately 408 participants from approximately 100 study centers will be randomly assigned in a 2:1 ratio to either guadecitabine (approximately 272 participants) or Treatme",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants ≥18 years of age who are able to understand and comply with study procedures and provide written informed consent before any study-specific procedure.\n* Cytologically or histologically confirmed diagnosis of MDS or CMML according to the 2008 World Health Org",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Astex Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02907359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02281084",
+      "title": "A Phase 2, International, Multicenter, Randomized, Open-label, Parallel Group to Evaluate the Efficacy and Safety of Cc-486 (Oral Azacitidine) Alone in Combination With Durvalumab (MEDI4736) in Subjects With Myelodysplastic Syndromes Who Fail to Achieve an Objective Response to Treatment With Azacitidine for Injection or Decitabine",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-07-06",
+      "completion_date": "2023-09-14",
+      "country": "France, Spain, Italy, Germany, Australia, United Kingdom, Poland, Canada, Belgium, United States",
+      "enrollment": 65,
+      "brief_summary": "Evaluate the safety and efficacy of oral azacitidne (CC-486) twice daily (BID) in subjects with myelodysplastic syndromes who failed to achieve an objective response post injectable hypomethylating agent (iHMA) treatment\n\nReason for removing the combination arm: Due to difficulties with dose-finding, the durvalumab plus CC-486 combination arm was closed to enrollment.\n\nExtension:\n\nAn Extension Phase (EP) has been added to allow subjects who are currently receiving oral azacitidine BID and who ar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, ≥ 18 years of age at the time of signing the informed consent document\n2. Documented diagnosis of MYELODYSPLASTIC SYNDROMES (MDS), classified according to FRENCH-AMERICAN BRITISH (FAB) classification criteria\n3. Adequate course of treatment with an injectable ",
+      "endpoints": [
+        "Overall Response Rate Based on the Modified International Working Group (IWG) 2006 Response Criteria for Myelodysplastic Syndrome (MDS)"
+      ],
+      "sponsor": "Celgene",
+      "url": "https://clinicaltrials.gov/study/NCT02281084"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00744757",
+      "title": "A Phase II Multi-center Study of 5-AZA-2'-Deoxycytidine (Decitabine) Single Agent in Taiwanese Patients With Myelodysplastic Syndrome (MDS)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2012-08",
+      "country": "Taiwan",
+      "enrollment": 37,
+      "brief_summary": "The purpose of this study is to evaluate the response rate of decitabine in previously treated and untreated Taiwanese participants with Myelodysplastic Syndrome (MDS - a disease associated with decreased production of blood cells, blood cells are produced but do not mature normally).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with documented pathological (bone marrow, no longer than 30 days before first dosing in study) evidence of Myelodysplastic syndromes (MDS) or of chronic myelomonocytic leukemia (CMML) by World health organisation classification\n* Participants with international p",
+      "endpoints": [
+        "Percentage of Participants With Response"
+      ],
+      "sponsor": "Johnson & Johnson Taiwan Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT00744757"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03453255",
+      "title": "Decitabine in Combination With Chidamide, Homoharringtonine and Ara-c (DCHA) as Postremission Therapy for Acute Myeloid Leukemia With t(8;21) :A Multicenter Prospective Study",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-01",
+      "completion_date": "2020-12-31",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "Acute myelocytic leukemia ( AML) is a highly heterogeneous group of malignant hematopathy. Chromosomal translocation with t (8; 21) (q22; q22) , about 10 \\~ 15% incidence in AML and 40% incidence in the AML-M2 type of leukemia, is a karyotype that is considered to have a good prognosis. The National Comprehensive Cancer Network (NCCN) guidelines recommend that high-dose Ara-c regimens may benefit for patients, but with 30 to 40% relapse and serious risks on myelosuppression, infection and bleedi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Written informed consent provided.\n\n  * The patients were diagnosed AML-M2 with t(8;21) (q22;q22) chromosomal changes and positive acute myeloid leukemia(AML1)-eight twenty one(ETO) fusion gene according to the 2008 World Health Organization (WHO) diagnostic criteria for mal",
+      "endpoints": [
+        "Progression free survival"
+      ],
+      "sponsor": "Chinese PLA General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03453255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05918055",
+      "title": "A Phase I/II Trial of Eltanexor (KPT-8602) With Inqovi (Decitabine-Cedazuridine) in High-Risk Myelodysplastic Syndromes",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2023-11-14",
+      "completion_date": "2025-03-12",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Background:\n\nMyelodysplastic syndromes (MDS) are diseases that affect the bone marrow. They can inhibit the blood formation process and reduce blood cell counts. High-risk MDS can lead to leukemia. People with high-risk MDS have a low survival rate. Better treatments are needed.\n\nObjective:\n\nTo test a study drug Eltanexor (KPT-8602), combined with another drug (Inqovi), in people with MDS.\n\nEligibility:\n\nAdults aged 18 years and older with high-risk MDS that did not respond to treatment.\n\nDesign",
+      "eligibility_criteria": "-INCLUSION CRITERIA:\n\n1. Participants must have histologically or cytologically confirmed Myelodysplastic Syndromes (MDS) by the Laboratory of Pathology, NCI- according to 2016 World Health Organization (WHO) criteria AND:\n\n   -Cohort 1 (Phase 1) \\& 2 (Phase 2): have high-risk Myelodysplastic Syndro",
+      "endpoints": [
+        "Phase 1: Recommended Phase 2 Dose (RP2D) of Eltanexor (KPT-8602) in Combination With Inqovi (Decitabine-Cedazuridine) in Adult Participants With Higher-Myelodysplastic Syndromes (MDS)",
+        "Phase 1: Number of Participants Who Have Grades 3 and/or 4 Dose-limiting Toxicity (DLT) at the Recommended Phase 2 Dose (RP2D)",
+        "Phase 2: Overall Response Rate (ORR) of Eltanexor (KPT-8602) in Combination With Inqovi (Decitabine-Cedazuridine) Reported With a 95% Confidence Interval in Adult Participants With Higher-Myelodysplastic Syndromes (MDS)"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT05918055"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05184842",
+      "title": "Metabolically Optimized, Non-cytotoxic Low Dose Weekly Decitabine/Venetoclax in MDS and AML",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-03-23",
+      "completion_date": "2027-03",
+      "country": "United States",
+      "enrollment": 91,
+      "brief_summary": "Myeloid malignancies which include AML (acute myeloid leukemia) and MDS (myelodysplatic syndrome) are cancers of the bone marrow which lead to bone marrow failure. The bone marrow is the place or factory in the body where components of blood such as red cells, platelets and white cells are made. In bone marrow failure, the ability of the bone marrow to make these cells is decreased. The decreased bone marrow function is the result from abnormalities that develop in the malignant cells which prev",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient must have a diagnosis of myelodysplastic syndrome (MDS), acute myeloid leukemia (AML) or myelodysplastic/myeloproliferative neoplasms (MDS/MPN) with a histopathologic diagnosis confirmed by hematopathology review\n* Indication for therapy with potential sensitivity to h",
+      "endpoints": [
+        "Percentage of Participants Who Are Able to Continue on Treatment Without Dose Interruptions or Delays"
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05184842"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02085408",
+      "title": "Phase III Randomized Trial of Clofarabine as Induction and Post-Remission Therapy vs. Standard Daunorubicin &Amp; Cytarabine Induction and Intermediate Dose Cytarabine Post-Remission Therapy, Followed by Decitabine Maintenance vs. Observation in Newly-Diagnosed Acute Myeloid Leukemia in Older Adults (Age >/= 60 Years)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-02-04",
+      "completion_date": "2022-12-21",
+      "country": "Israel, India, United States",
+      "enrollment": 727,
+      "brief_summary": "This randomized phase III trial studies clofarabine to see how well it works compared with daunorubicin hydrochloride and cytarabine when followed by decitabine or observation in treating older patients with newly diagnosed acute myeloid leukemia. Drugs used in chemotherapy, such as clofarabine, daunorubicin hydrochloride, cytarabine, and decitabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Giving more than one drug",
+      "eligibility_criteria": "Inclusion Criteria for Step 1 (Induction):\n\n* Sexually active males must be strongly advised to use an accepted and effective method of contraception\n* Aspartate aminotransferase (AST), alanine aminotransferase (ALT), total bilirubin =\\< grade 1\n* Newly-diagnosed AML patients according to World Heal",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT02085408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00114257",
+      "title": "A Phase I Study of 5-AZA-2'-Deoxycytidine and Depsipeptide in Patients With Relapsed/Refractory Leukemia, Myelodysplastic Syndromes, or Myeloproliferative Disease",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This phase I trial is studying the side effects and best dose of decitabine and FR901228 in treating patients with relapsed or refractory leukemia, myelodysplastic syndromes or myeloproliferative disorders. Drugs used in chemotherapy, such as decitabine and FR901228, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. FR901228 may also stop the growth of cancer cells by blocking some of the enzymes needed for cell growth and b",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed diagnosis of 1 of the following hematologic malignancies:\n\n  * Acute myeloid leukemia\n\n    * Previously untreated patients \\> 60 years of age who are not eligible for front-line therapy are eligible for this study\n  * Acute lymphoblastic leukemia\n",
+      "endpoints": [
+        "Toxicity at 6 weeks after each course"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00114257"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02488408",
+      "title": "A Phase Ib/II Multicenter Open-label Study of BGB324 as a Single Agent and in Combination With Cytarabine or Decitabine in Patients With Acute Myeloid Leukemia or as a Single Agent in Patients With Myelodysplastic Syndrome",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-10-22",
+      "completion_date": "2022-06-08",
+      "country": "Norway, Germany, Italy, United States",
+      "enrollment": 122,
+      "brief_summary": "A Phase Ib/II multicentre open label study of bemcentinib (BGB324) as a single agent in participants with Acute Myeloid Leukemia (AML) or Myelodysplastic syndrome (MDS) or in a combination with cytarabine or decitabine in AML participants.\n\nBemcentinib is a potent selective small molecule inhibitor of AXL a surface membrane protein kinase receptor which is overexpressed in up to half of AML cases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of signed written informed consent.\n2. Histological, molecular or cytological confirmation of:\n\n   1. Part A: Participants must have received previous treatment with cytotoxic chemotherapy (with or without hematopoietic stem cell transplantation) or a gene expressio",
+      "endpoints": [
+        "Part A: Maximum Tolerated Dose (MTD) of Bemcentinib (BGB324)",
+        "Part B: Number of Participants With Treatment-emergent Adverse Events (TEAEs)",
+        "Part B: Number of Participants With Notable Trends in Physical Examination, Vital Signs, Clinical Laboratory Test and Electrocardiogram (ECG) Values"
+      ],
+      "sponsor": "BerGenBio ASA",
+      "url": "https://clinicaltrials.gov/study/NCT02488408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02845232",
+      "title": "Economic Analysis of Blood Product Transfusions According to the Treatment of Acute Myeloid Leukaemia in the Elderly",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-03",
+      "completion_date": "2015-05",
+      "country": "France",
+      "enrollment": 214,
+      "brief_summary": "Blood transfusion requirement represents one of the most significant cost driver associated with acute myeloid leukemia (AML). In addition to an increase prevalence of co morbidities in older patients, AML in older patients is more often associated with adverse features than in younger adults. Physicians might therefore decide to offer palliative or supportive care rather than intensive chemotherapy. An alternative treatment could be low-intensity therapy, such as LD-AraC or hypomethylating agen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 70 years old\n* AML according to the World Health Organization (WHO) criteria (% of blasts ≥ 20% in bone marrow aspiration).\n* All FAB subtypes.\n* Any type of AML (de novo or secondary)\n* All participants to clinical trials gave their written informed consent\n\nExclusion C",
+      "endpoints": [
+        "Estimation of mean blood product transfusions costs (in euros) per patient according to overall survival"
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT02845232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01546038",
+      "title": "A PHASE 1B/2 STUDY TO EVALUATE THE SAFETY AND EFFICACY OF PF-04449913, AN ORAL HEDGEHOG INHIBITOR, IN COMBINATION WITH INTENSIVE CHEMOTHERAPY, LOW DOSE ARA-C OR DECITABINE IN PATIENTS WITH ACUTE MYELOID LEUKEMIA OR HIGH-RISK MYELODYSPLASTIC SYNDROME",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06-27",
+      "completion_date": "2019-03-04",
+      "country": "Spain, Italy, Germany, Canada, Poland, United States",
+      "enrollment": 255,
+      "brief_summary": "This is a study to evaluate PF-04449913 (an inhibitor of the Hedgehog pathway) in Acute Myeloid Leukemia and high-risk Myelodysplastic Syndrome in combination with standard agents used to treat these diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with AML or RAEB 2 High Risk MDS who are newly diagnosed according to the WHO 2008 Classification and previously untreated.\n* Patients with AML (arising from an antecedent hematologic disease \\[AHD\\]) or MDS who may have had one prior regimen with commercially availab",
+      "endpoints": [
+        "Number of Participants With Dose-limiting Toxicities (DLTs) at Phase 1B",
+        "Percentage of Participants With Complete Response (CR) at Phase 2 Fit",
+        "Overall Survival (OS) at Phase 2 Unfit"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01546038"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01893372",
+      "title": "Phase II Study of Eltrombopag With or Without Continuation of Hypomethylating Agent After Hypomethylating Agent Failure For Patients With Myelodysplastic Syndrome (MDS)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-10",
+      "completion_date": "2019-01-06",
+      "country": "United States",
+      "enrollment": 29,
+      "brief_summary": "The goal of this clinical research study is to learn if eltrombopag can help to control MDS. The safety of this drug will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed, informed consent must be obtained prior to any study specific procedures.\n2. Subjects with a histologically confirmed diagnosis of MDS by FAB criteria, including both MDS and RAEB-T (AML with 20-30% blasts and multilineage dysplasia) by World Health Organization (WHO)",
+      "endpoints": [
+        "Overall Response Rate (ORR)",
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01893372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04985656",
+      "title": "A Phase 2, Open-Label Study of Intravenous Pevonedistat in Combination With Oral Decitabine and Cedazuridine in Adult Patients With Higher-Risk Myelodysplastic Syndromes",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2021-10-01",
+      "completion_date": "2024-11-08",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The main aim of the study is to see if signs and symptoms of myelodysplastic syndromes disappear when treated with pevonedistat combined with decitabine and cedazuridine.\n\nParticipants will receive an infusion of pevonedistat 3 times during a 28-day cycle. They will also take decitabine and cedazuridine tablets once a day for the first 5 days of the same cycle. A minimum of 6 28-day cycles is recommended, but participants can stop treatment at any time.\n\nA bone marrow biopsy, bone marrow aspirat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Documented morphologically confirmed diagnosis of HR MDS according to the 2016 World Health Organisation (WHO) classification.\n2. All participants must also have one of the following Prognostic Risk Categories based on the Revised International Prognostic Staging System (IPSS",
+      "endpoints": [
+        "Complete Remission (CR) Rate"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT04985656"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01627041",
+      "title": "Randomized Phase II Study of Epigenetic Priming Using Decitabine With Induction Chemotherapy in Patients With Acute Myelogenous Leukemia (AML)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2011-09-16",
+      "completion_date": "2027-02-01",
+      "country": "United States",
+      "enrollment": 178,
+      "brief_summary": "This randomized phase II trial studies how well decitabine works when given together with daunorubicin hydrochloride and cytarabine in treating patients with acute myeloid leukemia. Drugs used in chemotherapy, such as decitabine, daunorubicin hydrochloride, and cytarabine, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Decitabine may help daunorubicin hydrochloride and cytarabine kill more cancer cells by making them more",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of acute myeloid leukemia (AML) as defined by the World Health Organization\n* Molecular AML-risk group is less-than-favorable as defined by any of the following criteria:\n\n  * The absence of good-risk karyotype t(8;21), inv(16), t(16;16), or t(15;17)identified by met",
+      "endpoints": [
+        "Complete remission rate (CR1)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01627041"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02029417",
+      "title": "OAG and Decitabine for Newly Diagnosed Acute Myeloid Leukemia Patients Greater Than or Equal to 65 Years of Age",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-07",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "This phase II trial studies the side effects and how well omacetaxine mepesuccinate, cytarabine, and decitabine work in treating older patients with newly diagnosed acute myeloid leukemia. Omacetaxine mepesuccinate, cytarabine, and decitabine may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are not eligible for standard induction chemotherapy (or any standard therapy known to be life prolonging) because of poor performance status, significant tissue comorbidities, or unfavorable risk of disease\n* Have an unequivocal histologic diagnosis of acute myel",
+      "endpoints": [
+        "Proportion of the Evaluable Population of Interest Who Experience a Complete Response in the Poor and Good Prognosis Groups",
+        "Frequency of Adverse Events, Graded According to NCI CTCAE v4.0"
+      ],
+      "sponsor": "Roswell Park Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02029417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00042796",
+      "title": "A Phase I Study Of Decitabine (DAC) (IND # 50733) In Children With Relapsed Or Refractory Acute Leukemia",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2002-12",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "Drugs used in chemotherapy use different ways to stop cancer cells from dividing so they stop growing or die. This phase I trial is studying the side effects and best dose of decitabine in treating children with relapsed or refractory acute myeloid leukemia or acute lymphoblastic leukemia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed acute myeloid leukemia (AML) or acute lymphoblastic leukemia that is considered refractory to conventional therapy or for which no conventional therapy exists\n* For patients with AML:\n\n  * M3 marrow\n  * M2 marrow with at least 15% blasts\n  * Secondary ",
+      "endpoints": [
+        "MTD defined as the highest dose at which fewer than one-third of patients experience DLT assessed using CTC version 2.0"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00042796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01607645",
+      "title": "Phase II Trial Examining Epigenetic Priming With Decitabine Followed by Idarubicin and Cytarabine for Patients With Relapsed or Refractory AML.",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-07",
+      "completion_date": "2013-09",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The goals of this study are to learn about the effectiveness, the side-effects, if waiting to give the idarubicin and cytarabine may change the side effects or effectiveness, and to identify factors to predict for responses to this therapy. The trial will examine combination of three chemotherapy drugs. These drugs are decitabine, idarubicin, and cytarabine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* All patients except those with acute promyelocytic leukemia (APL) who have morphological diagnosis of myelodysplastic syndromes (MDS) refractory anemia with excess blasts (RAEB)-II or AML by World Health Organization (WHO) diagnostic criteria and hav",
+      "endpoints": [
+        "Number of Participants Who Achieved Morphologic CR"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01607645"
+    }
+  ],
+  "timestamp": "2026-03-04T16:14:04.487403",
+  "success": true,
+  "error_message": null
+}

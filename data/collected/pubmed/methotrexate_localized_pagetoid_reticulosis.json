@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methotrexate",
+    "disease": "localized pagetoid reticulosis",
+    "query_string": "Methotrexate AND localized pagetoid reticulosis"
+  },
+  "data": {
+    "query": "Methotrexate AND localized pagetoid reticulosis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:29:49.574235",
+  "success": true,
+  "error_message": null
+}

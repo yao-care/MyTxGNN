@@ -1,0 +1,924 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Insulin Glargine",
+    "disease": "diabetes mellitus"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01237314",
+      "title": "Evaluation of the Glycemic Impact of Food in Patients With Type 2 Diabetes Taking Glargine and/or Exenatide",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "This study will record the impact of food on blood glucose levels using continuous glucose monitoring (CGM).\n\nThe investigators think the impact will improve as medication doses are adjusted. The investigators also think that the impact will differ depending on the type of medication taken.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Study participants who are consented for the primary study and have not yet done the baseline CGM data collection at week -2-0.\n\nExclusion Criteria:\n\n* Study participants who are unable to complete the baseline CGM data collection at week -2-0.\n* Study participants who are all",
+      "endpoints": [
+        "4-hour glycemic response at 3 time points"
+      ],
+      "sponsor": "HealthPartners Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01237314"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00659165",
+      "title": "Exploration of the Weight Neutral Effects of Insulin Detemir Compared to Insulin Glargine: A Measure of Satiety and Calories Consumed in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2011-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "Patients with diabetes treated with insulin often gain weight, which may deter patients from adhering to insulin treatment. Detemir is one type of long acting insulin approved by the Food and Drug Administration for use in people with diabetes. It is similar to other long acting insulins (Neutral Protein Hagedorn \\[NPH\\], glargine) except that it has been associated with less weight gain compared to other types of insulin. The reasons for this are still unclear. One possibility is that detemir i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes\n* Treated with long-acting and meal time insulin therapy for at least 2 years\n* Ages 18 to 60 years of age\n* Glycosylated hemoglobin value between 7 - 9 mg/dL\n* C-peptide value less than 1.0 pmol/ml 90 minutes after oral Boost Plus administration.\n\nExclusion Cr",
+      "endpoints": [
+        "Calories Consumed After Fast."
+      ],
+      "sponsor": "University of New Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT00659165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01334034",
+      "title": "A Trial Investigating the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of NNC 0123-0000-0338 in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-04-11",
+      "completion_date": "2011-09-16",
+      "country": "Germany",
+      "enrollment": 70,
+      "brief_summary": "This trial is conducted in Europe. The aim of this trial is to investigate the safety, tolerability, pharmacokinetics (the exposure of the trial drug in the body), and the pharmacodynamics (the effect of the investigated drug on the body) of NNC 0123-0000-0338 as tablets in healthy subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male subject\n* Body mass index (BMI) between 18 and 28 kg/m\\^2 (both inclusive)\n\nExclusion Criteria:\n\n* Known or suspected hypersensitivity to trial products or related products\n* Presence of clinically significant acute gastrointestinal symptoms (e.g. nausea, vomiting, heartb",
+      "endpoints": [
+        "Number of adverse events"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01334034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05040087",
+      "title": "Changing the Natural History of Type 2 Diabetes (\"CHANGE\" Study)",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-09-01",
+      "completion_date": "2027-03-31",
+      "country": "United States",
+      "enrollment": 127,
+      "brief_summary": "Diabetes is a disorder of high blood glucose, that tends to get worse; over time, patients need more and more drugs. This pattern is caused by overwork of the body's insulin-producing β-cells, because patients' glucose levels are typically above normal; if the investigators kept glucose levels normal - reducing β-cell work - the investigators might be able to keep the disease from getting worse. This trial is aimed to show that adjusting the drugs to keep glucose levels normal, can help to prese",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of diabetes by OGTT\n* age 40-75 years\n* HbA1c 6.0-7.4%\n* 1 hr OGTT glucose \\>155 mg/dl in each group\n\nExclusion Criteria:\n\n* CVD event during the previous year\n* systemic glucocorticoids\n* bariatric surgery\n* stage III-IV congestive heart failure\n* severe angina\n* li",
+      "endpoints": [
+        "EFFECT SIZE",
+        "β-CELL FUNCTION - PRIMARY OUTCOME #2a",
+        "β-CELL FUNCTION - PRIMARY OUTCOME #2b"
+      ],
+      "sponsor": "Foundation for Atlanta Veterans Education and Research, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05040087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06767735",
+      "title": "A Phase III Clinical Study Comparing the Efficacy and Safety of GZR4 QW Versus Insulin Glargine U100 QD+ Non-Insulin Antidiabetic Agents in Insulin-naive Subjects With Type 2 Diabetes Mellitus",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-02-17",
+      "completion_date": "2026-08-17",
+      "country": "China",
+      "enrollment": 580,
+      "brief_summary": "This study will be conducted to compare the efficacy, safety and patient-reported outcome of once-weekly GZR4 and once-daily Insulin Glargine U100 with Non-Insulin Antidiabetic Agents in Insulin-naive Subjects with Type 2 Diabetes Mellitusin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sign the Informed Consent Form (ICF) before the study, fully understand the contents, process and possible adverse reactions of the study, and be able to follow the contraindications and restrictions specified in this protocol.\n* Males and females age ≥ 18 years at the time of",
+      "endpoints": [
+        "Change in HbA1c"
+      ],
+      "sponsor": "Gan & Lee Pharmaceuticals.",
+      "url": "https://clinicaltrials.gov/study/NCT06767735"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00348374",
+      "title": "A Phase 3b, Randomized, Open-Label, Parallel Group, Multicenter Trial Assessing The Efficacy Of Exubera Vs. Lispro Introduced Into A Lantus Based Regimen In Suboptimally Controlled Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2008-08",
+      "country": "Puerto Rico, United States",
+      "enrollment": 191,
+      "brief_summary": "The current trial will examine the efficacy and safety of Exubera administered as a mealtime insulin compared to lispro, when added to an existing regimen of basal insulin glargine + or = Oral Agents (OAs). Dose titrations will be provided which should allow a large proportion of subjects to reach target glycosylated hemoglobin (A1C) levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults with type 2 diabetes using Lantus® (insulin glargine) as their basal insulin, not at glycemic goal.\n\nExclusion Criteria:\n\n* lung disease\n* current smoking or discontinued smoking within past 6 months",
+      "endpoints": [
+        "Change From Baseline in Glycosylated Hemoglobin A1c (HbA1c) at End of Treatment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00348374"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00391027",
+      "title": "A Six Month, Open-Label Outpatient, Randomized Parallel Group Trial Assessing The Impact Of Dry Powder Inhaled Insulin (Exubera®) On Glycemic Control Compared To Insulin Glargine (Lantus®) In Patients With Type 2 Diabetes Mellitus Who Are Poorly Controlled On A Combination Of Two Or More Oral Agents",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-08",
+      "country": "France, Spain, Finland, Norway, Sweden, Switzerland, Germany, Netherlands, Poland, Belgium",
+      "enrollment": 261,
+      "brief_summary": "To compare efficacy and safety of Exubera® vs Lantus® in patients with type 2 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetes Mellitus, Type 2 on oral agents\n* Age \\> 30 years\n\nExclusion Criteria:\n\n* Severe Asthma, severe Chronic Obstructive Pulmonary Disease\n* Smoking",
+      "endpoints": [
+        "Change From Baseline in Glycosylated Hemoglobin (HbA1c) at Week 26"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00391027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00666718",
+      "title": "A Prospective Randomized Trial to Compare Basal Bolus Therapies That Use Either Insulin Lispro Protamine Suspension or Insulin Glargine Together With Lispro Insulin in Patients With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-02",
+      "country": "Czechia, Turkey (Türkiye), Greece, Italy, Slovakia, Germany, United Kingdom, Romania, Poland, Belgium",
+      "enrollment": 374,
+      "brief_summary": "This study is designed to look at if a basal bolus regimen of insulin lispro protamine suspension (ILPS) provides the same glycemic control as a basal bolus regimen of insulin glargine (when one basal bolus regimen is injected once daily together with insulin lispro injected 2-3 times daily).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetes Mellitus, Type 2\n* Have been receiving metformin and at least one other oral antihyperglycemic medication (sulfonylurea or thiazolidinedione) with insulin for at least 3 months prior to Visit 1 (Screening)\n* Hemoglobin A1C (HbA1c) greater than or equal to 7.5% and les",
+      "endpoints": [
+        "Change From Baseline in Hemoglobin A1c (HbA1c) to Week 24"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00666718"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01421459",
+      "title": "A Prospective, Randomized, Double-Blind Comparison of a Long-Acting Basal Insulin Analog LY2963016 to Lantus in Adult Patients With Type 2 Diabetes Mellitus: The ELEMENT 2 Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2012-09",
+      "country": "South Korea, France, Spain, Czechia, Mexico, Puerto Rico, Greece, Taiwan, Hungary, Germany, Poland, United States",
+      "enrollment": 759,
+      "brief_summary": "The main purpose of this study is to compare the effectiveness and safety of LY2963016 versus Lantus in controlling blood sugar levels in combination with two or more oral diabetes medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have Type 2 Diabetes Mellitus based on the disease diagnostic criteria World Health Organization (WHO) classification\n* Have been taking at least 2 types of oral diabetes medications for at least 12 weeks prior to entering the study\n* Have a Hemoglobin A1c value greater than o",
+      "endpoints": [
+        "Change From Baseline up to 24 Weeks in Hemoglobin A1c (HbA1c)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01421459"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03798054",
+      "title": "A Randomized, 24 Week, Active-controlled, Open-label, 3-arm, Parallel-group Multicenter Study Comparing the Efficacy and Safety of iGlarLixi to Insulin Glargine and Lixisenatide in Type 2 Diabetes Mellitus Patients Insufficiently Controlled With Oral Antidiabetic Drug(s)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-02-15",
+      "completion_date": "2021-03-01",
+      "country": "Taiwan, China, Malaysia, South Korea",
+      "enrollment": 878,
+      "brief_summary": "Primary Objectives:\n\nThe co-primary objective of this study is:\n\n* To demonstrate the superiority of iGlarLixi (fixed ratio combination of insulin glargine and lixisenatide) versus lixisenatide on glycemic control as assessed by glycated hemoglobin A1c (HbA1c) change.\n* To demonstrate the non-inferiority of iGlarLixi versus insulin glargine on glycemic control as assessed by HbA1c change.\n\nSecondary Objectives:\n\n* To assess the effects of iGlarLixi in comparison with insulin glargine alone and l",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Patients with type 2 diabetes mellitus (T2DM) diagnosed for at least 1 year before the screening visit (V1), treated for at least 3 months prior to the screening visit (V1) with metformin alone or metformin and a second oral antidiabetic treatment that can be a sulfonylurea (",
+      "endpoints": [
+        "Change in HbA1c"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03798054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04022993",
+      "title": "An Open-label, Randomized, Multi-center, Parallel-group Clinical Trial Comparing the Efficacy and Safety of Insulin RinGlar® (\"Geropharm\", Russia) Compared to Lantus® SoloStar® (\"Sanofi-Aventis Deutschland GmbH\", Germany) in Type 1 Diabetes Mellitus Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-07-04",
+      "completion_date": "2019-05-15",
+      "country": "Russia",
+      "enrollment": 180,
+      "brief_summary": "The study is designed to approve non-inferior efficacy and safety of Insulin RinGlar® compared to Lantus® SoloStar® in Type 1 Diabetes Mellitus Patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed written consent\n* Diabetes mellitus type 1 for at least 12 months prior to screening\n* History of basis-bolus (multiple dose injection (MDI)) therapy in stable doses at least 30 days\n* Glycated hemoglobin (HbA1c) level of 6.5 to 12.0 % at screening (both values inclusiv",
+      "endpoints": [
+        "Antibody Response"
+      ],
+      "sponsor": "Geropharm",
+      "url": "https://clinicaltrials.gov/study/NCT04022993"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01363609",
+      "title": "Central Effects of Endogenous Glucagon Like Peptide-1 (GLP-1) and the GLP-1 Analog Liraglutide on Brain Satiety and Reward Circuits and Feeding Behavior in Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2015-01",
+      "country": "Netherlands",
+      "enrollment": 50,
+      "brief_summary": "The aim of this study is to investigate if endogenous Glucagon Like Peptide -1 (GLP-1) has an effect on brain satiety and reward systems and if there are alterations in obese patients with type 2 diabetes (T2DM). Secondly, the aim is to investigate whether treatment with a GLP-1 analog, liraglutide, restores these signals in obese patients with type 2 diabetes. Finally, also the endogenous GLP-1 effects will be investigated in obese individuals before and after gastric bypass surgery on brain sa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For the healthy, lean individuals:\n* Age 18-65 years\n* Women: post menopausal (excluding possible menstruation cycle effects)\n* Body-mass index (BMI) of \\<25 kg/m2,\n* Stable bodyweight (\\<5% reported change during the previous 3 months).\n* Normal fasting and 2h post load gluco",
+      "endpoints": [
+        "food-stimuli related neuronal activity in reward and satiety circuits as represented by BOLD fMRI signal change from baseline (%)"
+      ],
+      "sponsor": "Amsterdam UMC, location VUmc",
+      "url": "https://clinicaltrials.gov/study/NCT01363609"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01769404",
+      "title": "Evaluation of the Counter-Regulatory Response to Hypoglycaemia Following LY2605541 Administration Compared to Insulin Glargine in Patients With Type 1 Diabetes Mellitus",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2013-12",
+      "country": "Germany",
+      "enrollment": 25,
+      "brief_summary": "This study has 2 parts. Each participant will receive a daily injection of LY2605541 during one treatment period and a daily injection of insulin glargine during one treatment period. Each treatment period is 2 to 3 weeks and is followed by a procedure to lower blood sugar levels to see how the body recovers after each treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetic for more than 1 year with glycated hemoglobin (HbA1c) less than 9%\n* Otherwise fit and healthy\n* Nonsmoker\n\nExclusion Criteria:\n\n* Taking medication or supplements other than insulin to control diabetes\n* Suffered a hypoglycemic event in the last 12 months that",
+      "endpoints": [
+        "Concentration of Epinephrine"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01769404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05662332",
+      "title": "A Phase 3, Parallel-Design, Open-Label, Randomized Control Study to Evaluate the Efficacy and Safety of LY3209590 Administered Weekly Using a Fixed Dose Escalation Compared to Insulin Glargine in Insulin-Naïve Adults With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-01-14",
+      "completion_date": "2024-07-19",
+      "country": "Argentina, Mexico, Puerto Rico, United States",
+      "enrollment": 795,
+      "brief_summary": "The main purpose of this study is to determine the efficacy and safety of insulin efsitora alfa (LY3209590) administered weekly using a fixed dose escalation compared to insulin glargine in adults with type 2 diabetes (T2D) who are starting basal insulin therapy for the first time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a diagnosis of T2D according to the World Health Organization criteria.\n* Have an HbA1c of 7.0% to 10.0%, inclusive, at screening.\n* Are on a stable treatment of at least 1 antihyperglycemic medication, for at least 3 months prior to screening, and willing to continue the",
+      "endpoints": [
+        "Change From Baseline in Hemoglobin A1c (HbA1c) [Noninferiority Analysis]"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT05662332"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05002933",
+      "title": "A 6-month, Multicenter, Prospective, Single-arm, Open-label, Phase IV Study Evaluating the Clinical Efficacy and Safety of Insulin Glargine U300 in Chinese Adult Patients With Uncontrolled Type 2 Diabetes Mellitus With a 3-month Extension Period",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2021-05-20",
+      "completion_date": "2023-02-24",
+      "country": "China",
+      "enrollment": 570,
+      "brief_summary": "This is a prospective, interventional, single arm, multicenter, phase 4 study to evaluate the clinical efficacy and safety of initiating Insulin glargine U300 in insulin-naive patients or switching from any other basal insulin to Insulin glargine U300 in insulin pre-treated patients with uncontrolled T2DM.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients (age≥18 years) who diagnosed with type 2 diabetes\n* Patients who should initiate Insulin glargine U300 treatment following local label and guideline at investigator's discretion, including:\n\n  * insulin naive patients (no current or previous insulin used during ",
+      "endpoints": [
+        "Mean change in HbA1c from baseline to week 24"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT05002933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02942914",
+      "title": "A First-in-Human, Ascending-Dose Study to Investigate the Pharmacokinetics, Pharmacodynamics, Safety, and Tolerability of a Single, Subcutaneous Dose of LY3209590",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-12-20",
+      "completion_date": "2017-10-18",
+      "country": "Germany",
+      "enrollment": 80,
+      "brief_summary": "This trial is conducted to evaluate the safety of a study drug given by injection under the skin to healthy participants and participants with type 2 diabetes. It will also investigate how the body processes the study drug and the effect of the study drug on blood sugar levels. Information about any side effects and tolerability will be documented. This study is approximately 30 days for each participant, not including screening. Screening is required within 28 days prior to the start of the stu",
+      "eligibility_criteria": "Inclusion Criteria:\n\nFor all study participants:\n\n* Must be a male, or a female who cannot become pregnant, and who is either a healthy participant, or who has type 2 diabetes for at least 1 year\n* Male participants with female partners who can become pregnant must agree to use an effective method o",
+      "endpoints": [
+        "Number of Participants with One or More Serious Adverse Event(s) (SAEs) Considered by the Investigator to be Related to Study Drug Administration"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT02942914"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06007508",
+      "title": "Early Administration of Insulin Glargine in Patients With Diabetic Ketoacidosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-05-31",
+      "completion_date": "2023-02-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a medical emergency that is associated with significant morbidity and mortality for both patients with type I and type II diabetes. By correcting hyperglycemia and inhibiting the release of free fatty acids, insulin administration leads to decreased ketone formation and resolution of acidosis. Short-acting intravenous insulin is often preferred to subcutaneous administration for initial management due to its short half-life and ease of titration, but patients will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presented to Regions Hospital ED for chief complaint of DKA, nausea, vomiting, abdominal pain, hyperglycemia, or similar\n2. Meets all below diagnostic criteria for DKA per the American Diabetes Association:\n\n   * Arterial or venous pH \\</= 7.3\n   * Serum Bicarbonate \\</= 18 m",
+      "endpoints": [
+        "Does early administration of insulin glargine result in a change in ICU length of stay when compared to usual care for the treatment of diabetic ketoacidosis?"
+      ],
+      "sponsor": "HealthPartners Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06007508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06340854",
+      "title": "A Study to Evaluate the Efficacy and Safety of Once-weekly Insulin Icodec When Switching From Daily Basal Insulins Compared to Once-daily Insulin Glargine U100 in Adults With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2024-04-19",
+      "completion_date": "2025-06-13",
+      "country": "Bulgaria, Spain, South Africa, Puerto Rico, India, Germany, Poland, Japan, United States",
+      "enrollment": 429,
+      "brief_summary": "This study compares insulin icodec, a new insulin taken once a week, to insulin glargine, an insulin taken once a day. The study medicine will be investigated in participants with type 2 diabetes. Participants will either get insulin icodec or insulin glargine. Which treatment participants get is decided by chance. Insulin icodec is the new medicine being tested, while insulin glargine is already approved and can be prescribed by doctors. Participants will get one injection of insulin icodec onc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with T2D greater than equal to (≥) 180 days prior to the day of screening.\n* HbA1c from 7.0-10.0% (53.0-85.8 mmol/mol), both inclusive, at screening confirmed by central laboratory analysis.\n* Treated with once-daily or twice-daily basal insulin (Neutral Protamine Ha",
+      "endpoints": [
+        "Change in glycated hemoglobin (HbA1c)"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT06340854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00694122",
+      "title": "Comparison of Lantus and NPH Insulin in the Dawn Phenomenon",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "1. To investigate the effect of insulin glargine (Lantus™) vs NPH insulin regarding glycemic control during the early AM (dawn phenomenon) in individuals with type 1 diabetes.\n2. To measure hormones implicated in the pathogenesis of the dawn phenomenon in individuals with type 1 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent obtained prior to performing screening evaluations.\n* Male or female, 18 yrs or older.\n* Diagnosis of type 1 diabetes made 5 years prior to screening visit.\n* A1C \\> 6.0% and 9.0% at screening visit.\n* Body Mass Index (BMI) 35 kg/m2 at screening visit.",
+      "endpoints": [
+        "Blood Glucose Area Under the Curve (AUC)",
+        "Blood Glucose"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00694122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01271517",
+      "title": "Effects of New Longacting Insulin Analogs on Metabolic Control, Endogenous Insulin Production, GH/IGF-I Axis and Quality of Life - Comparison of NPH, Glargine Och Detemir Insulin From the Debut of Type 1 Diabetes Mellitus in Adolescents",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2005-09",
+      "completion_date": "",
+      "country": "Sweden",
+      "enrollment": 120,
+      "brief_summary": "Hypothesis: Basal insulin analogs with continuous 24-hour delivery of insulin improve glycemic control during the first year of treatment of children/adolescents with type 1 diabetes mellitus (T1DM)by preserving endogenous insulin production and a close to normal balance of the GH-IGF-axis.\n\nThis a randomized, open-label, parallel-group trial of 120 children, 7 - 17 years of age, newly diagnosed with T1DM. The investigators will investigate whether the use of long-acting basal insulin analogs La",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of diabetes and novel to insulin therapy\n* Age 7 - 17 years\n* Informed consent\n\nExclusion Criteria:\n\n* Moderate to severe ketoacidosis (pH\\<7.2 and/or standard bicarbonate \\<10 mmol/l)\n* Suspected non-type 1\n* IA2 and GAD65: all-antibody negative\n* Celiac disease or ",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT01271517"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01894568",
+      "title": "A Phase 3, Open Label, Randomized, Parallel, 26 Week Treatment Study Comparing LY2605541 With Insulin Glargine as Basal Insulin Treatment in Combination With Oral Anti Hyperglycemia Medications in Asian Insulin Naïve Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2015-04",
+      "country": "Japan, South Korea, Taiwan",
+      "enrollment": 388,
+      "brief_summary": "The purpose of this study is to compare insulin peglispro (LY2605541) to insulin glargine in Asian insulin naïve participants who have been treated with oral anti hyperglycemia medications. Participants will receive 26 weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have Type 2 Diabetes Mellitus (T2DM) for at least 1 year not treated with insulin\n* Have been receiving at least two oral antihyperglycemic medications (OAMs) for at least 3 months prior to screening\n* Have Hemoglobin A1c (HbA1c) of 7.0% to 11.0%, inclusive, according to centr",
+      "endpoints": [
+        "Change From Baseline to Week 26 in Hemoglobin A1c (HbA1c)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT01894568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00488527",
+      "title": "Multicentric, Open Label Clinical Trial. Use of Optimal Method to Initiate and Maintain Lantus Therapy (Insulin Glargine) in Combination With Hypoglycemic Agents, Assessing the Resulting Metabolic Control and the Safety in T2 Diabetes Mellitus Patients.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2008-12",
+      "country": "Mexico",
+      "enrollment": 371,
+      "brief_summary": "To evaluate the efficiency of Lantus plus combined oral hypoglycaemic agents in terms of respondents percentage. The respondent is defined as the person achieving a value in the final determination of HbA1c \\< 7% as its absolute value and/or a decreasing in the final value of HbA1c of more than 12% compared with the initial value (final HbA1c vs. initial HbA1c).\n\nDescribe the glycemia levels and body weight change in the two response groups, (respondents and non-respondents).\n\nDescribe the adver",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with type 2 diabetes mellitus receiving antidiabetic treatment (1 or 2 oral agents) during more than 6 months, who need a prolonged action basal insulin to control hyperglycemia\n* Glycosylated hemoglobin \\> 8,0% and \\< 10 %\n* Body mass index (BMI) \\< 40 kg/m2\n* Volunt",
+      "endpoints": [
+        "Change in the initial vs. final values of HbA1c",
+        "Number of severe hypoglycemia"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00488527"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02915250",
+      "title": "A Randomised, Double-blind, Double-dummy, Three-period Cross-over Trial to Compare Post Prandial Blood Glucose Control of BioChaperone® Combo With Humalog® Mix25 and With Simultaneous Injections of Humalog® and Lantus® in Subjects With Type 2 Diabetes",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2016-10",
+      "completion_date": "2017-06",
+      "country": "Germany",
+      "enrollment": 36,
+      "brief_summary": "This is a two-centre, randomised, double-blind, double-dummy, 3-treatment, 3-period cross-over study using a standardised solid meal test in subjects with type 2 diabetes to investigate postprandial glucose control of BioChaperone® Combo compared with Humalog® Mix25 and with simultaneous subcutaneous injections of Humalog® and Lantus® during three separate dosing visits.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subject aged 18-70 years (both inclusive)\n* Type 2 diabetes mellitus (as diagnosed clinically) for ≥ 12 months\n* HbA1c level between 7.5% and 9.5% (both inclusive)\n* Body mass index between 20.0 and 40.0 kg/m2 (both inclusive)\n* Treated with once daily injection",
+      "endpoints": [
+        "Delta AUC BG 0-2h (area under the blood glucose concentration-time curve)"
+      ],
+      "sponsor": "Adocia",
+      "url": "https://clinicaltrials.gov/study/NCT02915250"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02026310",
+      "title": "Efficacy/Safety Study of Adding Glimepiride to Type 2 Diabetes Patients With Inadequate Glycemic Control Based on Combination With Metformin And Basal Insulin",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2015-12",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "All the guidelines suggest that metformin as the basis of type 2 diabetes medication, and evidence is sufficient.At the same time the basal insulin injection once a day are more and more widely used in diabetes patients in China.\n\nThis study aims to evaluate the efficacy and safety of adding glimepiride to type 2 diabetes patients with inadequate glycemic control with combined therapy of metformin and basal insulin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understand the whole test process, voluntary and signed informed consent form\n* Men and women aged 35 to 70 years old\n* 20≤BMI\\<35 Kg/m2\n* Diagnosed with type 2 diabetes\n* Undergoing metformin(Dose not less than 1000 mg/day)in combination with basal insulin injection once a da",
+      "endpoints": [
+        "24 weeks after treatment, HbA1c values' change compared with baseline"
+      ],
+      "sponsor": "Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02026310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00971659",
+      "title": "Acute Effect of a GLP-1-Analogue (Exenatide) and of a DPP-4-Inhibitor (Sitagliptin) in Subjects With Type 2 Diabetes Treated With Insulin Glargine Once Daily",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2008-11",
+      "country": "Germany",
+      "enrollment": 48,
+      "brief_summary": "This study investigated a 4-week adjunctive therapy of either a GLP-1 analog (exenatide), or a DPP-4 inhibitor (sitagliptin), given to a basal insulin analog (insulin glargine), and their effect on blood glucose control, versus insulin glargine alone as active comparator in type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female subjects aged between 35 and 70 years, inclusive\n* type 2 diabetes with duration \\>6 months and \\<10 years\n* for at least 3 months: treatment solely with a long- or intermediate-acting insulin formulation (insulin glargine, insulin detemir, or NPH insulin) with ",
+      "endpoints": [
+        "the unadjusted 6-hour postprandial blood glucose excursion (AUCBG0-6h) following ingestion of a standardized breakfast"
+      ],
+      "sponsor": "Profil Institut für Stoffwechselforschung GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT00971659"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01779362",
+      "title": "Restoring Insulin Secretion Adult Medication Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2019-08",
+      "country": "United States",
+      "enrollment": 267,
+      "brief_summary": "The RISE Adult Medication Study is a 4-arm, 3-center, clinical trial of adults with prediabetes and early type 2 diabetes to address the hypothesis that aggressive glucose lowering will lead to recovery of beta-cell function that will be sustained after withdrawal of treatment. Adult participants (ages 20-65) will be randomized to one of the following treatment regimens: (1) blinded placebo, (2) blinded metformin alone, (3) early intensive insulin treatment with basal insulin glargine followed b",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Fasting plasma glucose 95-125 mg/dl plus 2-hour glucose ≥140 mg/dl on 75 gm OGTT plus HbA1c ≤7.0%. There is no upper limit for the 2-hour glucose on OGTT.\n2. Age 20-65 years\n3. Body mass index (BMI) ≥25 kg/m2 but ≤50 kg/m2\n4. Self-reported diabetes \\<1 year in duration\n5. Dru",
+      "endpoints": [
+        "ß-cell Response Measured by Hyperglycemic Clamp",
+        "Insulin Sensitivity, M/I"
+      ],
+      "sponsor": "RISE Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT01779362"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00355849",
+      "title": "A Phase 3, Open-Label, Three-Group Parallel Study to Evaluate the Efficacy and Safety of Human Insulin Inhalation Powder (HIIP) in Patients With Type 2 Diabetes Treated With Once-Daily Insulin Glargine",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2008-06",
+      "country": "Israel, South Korea, Brazil, Spain, South Africa, Puerto Rico, India, Russia, Germany, United Kingdom, Canada, United States",
+      "enrollment": 555,
+      "brief_summary": "A study to evaluate the efficacy and safety of Human Insulin Inhalation Powder \\[also known as AIR® Inhaled Insulin\\]\\[AIR® is a registered trademark of Alkermes,Inc.\\] in patients with Type 2 diabetes who are currently being treated with once daily insulin glargine injections. The present study is intended to determine if mealtime AIR® Insulin may be superior to once-daily insulin glargine injections.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* type 2 diabetes mellitus\n* one or more oral antihyperglycemic medications\n* once-daily insulin glargine\n* HbA1c greater than or equal to 7.5 and less than or equal to 10.5%\n* Non-smoker\n\nExclusion Criteria:\n\n* taking a TZD dose greater than what is indicated\n* more than two ep",
+      "endpoints": [
+        "To compare in patients who at study entry have type 2 diabetes not optimally controlled by one or more oral antihyperglycemic medications plus once daily insulin glargine, a regimen that may include mealtime AIR Insulin."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00355849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02192450",
+      "title": "The Effect of Insulin Degludec on Risk of Symptomatic Nocturnal Hypoglycaemia in Subjects With Type 1 Diabetes and High Risk of Nocturnal Severe Hypoglycaemia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2019-02-28",
+      "country": "Denmark",
+      "enrollment": 149,
+      "brief_summary": "The purpose of this study is to determine whether insulin degludec compared to insulin glargine can reduce the risk of symptomatic nocturnal hypoglycaemia in subjects with the greatest potential benefit from optimised insulin treatment, which are patients with type 1 diabetes and high risk of nocturnal severe hypoglycaemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes \\> 5 years\n* One or more episodes of nocturnal severe hypoglycaemia during the preceding two years\n* Treated with multiple dose insulin injection (\\>2) or insulin pump. Both human insulin and insulin analogues are allowed\n* Willingness to a once daily (OD) regi",
+      "endpoints": [
+        "Symptomatic nocturnal hypoglycaemia"
+      ],
+      "sponsor": "Nordsjaellands Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02192450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00276393",
+      "title": "Randomized Trial Comparing Insulin Glargine to Ultra-Lente Insulin in Type I Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "2003-12",
+      "country": "United States",
+      "enrollment": 22,
+      "brief_summary": "Patients with type 1 diabetes trained in multiple daily insulin injection were treated with two diffferent kinds of long acting insulin preparations. The two insulin preparations were glargine and ultralente insulin. Patients were randomized to receive one of the two insulin preparations for the first 4 months followed by the second preparation for a further four months. Short acting insulin used was the same during both periods. We found that glargine insulin was better than ultralente insulin ",
+      "eligibility_criteria": "Type 1 diabetes, HbA1c \\< 7.8%, who have had prior instruction in a complex insulin program, and presently using a MDI insulin program with basal insulin preparations of Glargine or Ultralente and Humalog as the short acting insulin, should be free of hepatorenal abnormalities and hypoglycemia unawa",
+      "endpoints": [
+        "HbA1c",
+        "Hypoglycemic events",
+        "Nocturnal hypoglycemia"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00276393"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00283751",
+      "title": "Comparison of Efficacy and Safety of Insulin Detemir and Insulin Glargine as Add-on to Current Oral Antidiabetic Drugs in Subjects With Type 2 Diabetes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2004-11",
+      "country": "France, Austria, Germany, Ireland, United Kingdom, Belgium, United States",
+      "enrollment": 583,
+      "brief_summary": "This trial is conducted in Europe and the United States of America (USA). The aim of the trial is to test if Insulin Detemir as add-on to current Oral Antidiabetic Drug treatment is at least as effective as Insulin Glargine as add-on to current Oral Antidiabetic Drug treatment in reducing HbA1c in patients with Type 2 Diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 Diabetes for more than 12 months, and no previous insulin treatment\n* Oral Antidiabetic Drug treatment for at least 4 months\n* Body Mass Index (BMI) less than 40 kg/m2\n* HbA1c 7.5-10.0%\n\nExclusion Criteria:\n\n* Current or previous treatment with thiazolidinediones within",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT00283751"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00097500",
+      "title": "A Phase 3, Randomized, Open Label, Comparator-Controlled, Parallel Group, Multicenter Study to Compare the Effects of Exenatide and Insulin Glargine on Beta Cell Function and Cardiovascular Risk Markers in Subjects With Type 2 Diabetes Treated With Metformin Who Have Not Achieved Target HbA1c",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2009-12",
+      "country": "Sweden, Netherlands, Finland",
+      "enrollment": 69,
+      "brief_summary": "This Phase 3, open-label, multicenter study is designed to compare the effects of exenatide and insulin glargine (Lantus® injection) on beta-cell function in patients with type 2 diabetes mellitus using metformin.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of type 2 diabetes, but otherwise healthy\n* HbA1c between 6.6% and 9.5%, inclusive.\n* Body mass index (BMI) of 25 kg/m2 to 40 kg/m2, inclusive.\n* Treated with a stable dose of metformin for at least 2 months prior to screening.\n\nExclusion Criteria:\n\n* Patients previo",
+      "endpoints": [
+        "Beta-cell Function After 52 Weeks of Therapy"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00097500"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02749890",
+      "title": "A Randomized, Active-controlled, Open Label, 2-treatment Arm, and Multicenter Study Comparing the Efficacy and Safety of Insulin Glargine/Lixisenatide Combination to Lixisenatide on Top of OADs in Japanese Patients With Type 2 DM With an Extension Period",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-05-09",
+      "completion_date": "2018-05",
+      "country": "Japan",
+      "enrollment": 321,
+      "brief_summary": "Primary Objective:\n\nTo compare LixiLan to lixisenatide in glycated hemoglobin (HbA1c) change from baseline to Week 26 in patients with type 2 diabetes mellitus.\n\nSecondary Objective:\n\nTo compare the overall efficacy and safety of LixiLan to lixisenatide (with or without OADs) over a 52 week treatment period in patients with type 2 diabetes mellitus.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Patient with type 2 diabetes mellitus (T2DM) diagnosed for at least 1 year before the screening visit, receiving 1 or 2 OADs that can be biguanide, thiazolidinedione, alpha-glucosidase-inhibitor, sodium glucose co-transporter 2 inhibitor; sulfonylurea, rapid-acting insulin se",
+      "endpoints": [
+        "Change from baseline in HbA1c"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02749890"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04880850",
+      "title": "A 26-week Trial Comparing the Effect and Safety of Once Weekly Insulin Icodec and Once Daily Insulin Glargine 100 Units/mL, Both in Combination With Bolus Insulin With or Without Non-insulin Anti-diabetic Drugs, in Subjects With Type 2 Diabetes on a Basal-bolus Regimen",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-05-14",
+      "completion_date": "2022-06-16",
+      "country": "Mexico, India, Russia, Italy, Netherlands, Romania, Japan, Belgium, United States",
+      "enrollment": 582,
+      "brief_summary": "This study compares insulin icodec (a new insulin taken once a week) to insulin glargine (an insulin taken once daily which is already available on the market) in people with type 2 diabetes.\n\nThe study will look at how well insulin icodec taken weekly controls blood sugar compared to insulin glargine taken daily.\n\nParticipants will either get insulin icodec that participants will have to inject once a week on the same day of the week or insulin glargine that participants will have to inject onc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female aged above or equal to 18 years at the time of signing informed consent.\n* Diagnosed with type 2 diabetes mellitus (T2D) greater than or equal to 180 days prior to the day of screening.\n* Glycated haemoglobin (HbA1c) from 7.0-10.0% (53.0 85.8 mmol/mol) both incl",
+      "endpoints": [
+        "Change in Glycated Haemoglobin (HbA1c)"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT04880850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03359837",
+      "title": "A 26-Week, Multi-Center, Open-label, Randomized, Parallel-group Study to Evaluate the Efficacy and Safety of Two Treatment Regimens in Patients With Type 2 Diabetes After Short-Term Intensive Insulin Therapy: Basal Insulin Based Treatment (With Prandial OADs Combination) Versus Twice-daily Premixed Insulin",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-01-20",
+      "completion_date": "2020-06-29",
+      "country": "China",
+      "enrollment": 384,
+      "brief_summary": "Primary Objective:\n\nTo test the hypothesis that basal insulin based treatment (G+) is noninferior to twice-daily premixed insulin (PM-2) in term of hemoglobin A1c (glycosylated hemoglobin, HbA1c) reduction from baseline to end of study. The test for superiority can be done if noninferiority is achieved.\n\nSecondary Objectives:\n\n* To assess efficacy in terms of percentage of patients achieving HbA1c \\<7% and HbA1c \\<7% without hypoglycemia.\n* To assess efficacy in terms of percentage of patients a",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Patients with age between 18 and 70 years.\n* Hemoglobin A1c\\>7.5%, and ≤11%.\n* Fasting plasma glucose \\>7 mmol/L.\n* Fasting C peptide \\>1 ng/mL.\n* Type 2 diabetes (T2DM) patients with diabetes diagnosis between 2 and 10 years (World Health Organization 1999 T2DM diagnose crit",
+      "endpoints": [
+        "Change in hemoglobin A1c (HbA1c)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03359837"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01361594",
+      "title": "Intensive Insulin Therapy in Patients Undergoing Coronary Artery Bypass Surgery",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-06",
+      "completion_date": "2013-12",
+      "country": "United States",
+      "enrollment": 338,
+      "brief_summary": "High blood glucose levels (hyperglycemia) in cardiac surgery patients with diabetes are associated with increased risk of hospital complications. Blood sugar control with intravenous insulin may prevent such hospital complications. Many patients undergoing cardiac bypass surgery (CABG) develop high blood sugars and require insulin therapy (shortly before or after surgery). It is not clear what the best insulin regimen is or what is the best blood sugar target in these patients. Accordingly, this",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females between the ages of 18 and 80 years undergoing CABG +/- valve surgery.\n2. Post surgical hyperglycemia (BG \\> 140 mg/dl).\n3. Patients with and without a history of type 2 diabetes\n\nExclusion Criteria:\n\n1. Patients requiring combination CABG with additional pro",
+      "endpoints": [
+        "Number of Subjects That Were Diagnosed for Peri-operative Complications",
+        "Hospital Mortality"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT01361594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360334",
+      "title": "An Open Label Study Comparing Exenatide With Basal Insulin in Achieving an HbA1c of ≤ 7.4% With Minimum Weight Gain, in Type 2 Diabetes Patients Who Are Not Achieving Adequate HbA1c Control on Oral Anti Diabetic Therapies Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2008-04",
+      "country": "United Kingdom",
+      "enrollment": 235,
+      "brief_summary": "This is a phase 3 trial designed to compare the effects of twice daily exenatide plus oral antidiabetic agents (OADs) and once-daily insulin glargine plus OADs with respect to glycemic control, as measured by hemoglobin A1c, with minimum weight gain, in patients with uncontrolled type 2 diabetes on OADs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with type 2 diabetes\n* Currently being treated with the following: Dual or triple oral therapy - on a stable combination and dose for at least 3 months.\n* HbA1c between 7.5% and 10.0%.\n* BMI \\>27.\n\nExclusion Criteria:\n\n* Receive chronic (lasting longer than 2 weeks) ",
+      "endpoints": [
+        "Percent of Patients Who Achieved HbA1c ≤ 7.4% With Minimal Weight Gain (≤ 1kg)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00360334"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01796366",
+      "title": "A Multiple Dose Trial Investigating the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of NNC0123-0000-0338 in Subjects With Type 2 Diabetes",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-02-21",
+      "completion_date": "2013-08-19",
+      "country": "Germany",
+      "enrollment": 40,
+      "brief_summary": "This trial is conducted in Europe. The aim of the trial is to investigate the safety, tolerability, pharmacokinetics (the exposure of the trial drug in the body) and pharmacodynamics (the effect of the investigated drug on the body) of NNC0123-0000-0338 (insulin 338) in subjects with type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male subject, or female subject of no childbearing potential, if surgically sterilized (i.e. tubal ligation, bilateral oopherectomies (removal of both ovaries and both fallopian tubes) or hysterectomised) for at least 3 months or if postmenopausal (i.e. as defined by amenorrho",
+      "endpoints": [
+        "Number of treatment emergent adverse events"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01796366"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03660553",
+      "title": "Effect of Simplified Insulin Regimen on Glycemic Control and Quality of Life in an Elderly Population With Type 2 Diabetes",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-10-10",
+      "completion_date": "2022-06-30",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "Basal-bolus insulin therapy, which includes one injection of long acting insulin and three injections of short acting insulin is the most commonly used insulin treatment. However, many older patients find the basal-bolus insulin regimen hard to manage because it involves 4 injections and 4 blood glucose tests each day. It is possible that a simplified treatment that involves one injection of long acting insulin daily and two blood glucose tests daily might be equally effective. This simplified r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Age \\>65 years\n\nExclusion Criteria:\n\n* Unable to provide informed consent\n* Enrollment in another research study\n* History of hypoglycemia unawareness\n* Pregnant women\n* Prisoners",
+      "endpoints": [
+        "Hemoglobin A1c (HbA1c)"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT03660553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00356109",
+      "title": "A Phase 3, Open-Label, Parallel-Group Study to Evaluate the Efficacy of Preprandial Human Insulin Inhalation Powder (HIIP) Compared to Preprandial Injectable Insulin in Patients With Type 1 Diabetes Mellitus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2008-05",
+      "country": "France, Mexico, Puerto Rico, India, Italy, Germany, Argentina, Belgium, United States",
+      "enrollment": 494,
+      "brief_summary": "A study to test for non-inferiority of preprandial HIIP \\[also known as AIR® Inhaled Insulin Powder\\]\\[AIR® is a registered trademark of Alkermes,Inc.\\] compared with preprandial injectable insulin (insulin lispro) with respect to HbA1c after 6 months of treatment in patients with type 1 diabetes mellitus.\n\nThis study is designed also to examine insulin antibody levels in AIR Insulin -treated patients compared with injectable insulin-treated patients with type 1 diabetes.\n\nThe present study is i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes for at least 24 months\n* Have an HbA1c less than or equal to 11%\n* Patients who are on an insulin regimen involving 2 or 3 preprandial injections per day for at least 2 months\n* Non-smoker\n\nExclusion Criteria:\n\n* Require a daily total insulin dosage greater tha",
+      "endpoints": [
+        "To test that preprandial AIR Insulin is non-inferior to preprandial injectable insulin (insulin lispro) with respect to mean change in HbA1c from baseline to endpoint."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00356109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01146678",
+      "title": "A Randomized, Cross-over, Open, Euglycemic Clamp Study on the Relative Bioavailability and Activity of 0.6 U/kg Insulin Glargine and 20 μg Lixisenatide, Given as On-site Mix Compared to Separate Simultaneous Injections in Subjects With Type 1 Diabetes Mellitus",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2011-01",
+      "country": "Germany",
+      "enrollment": 22,
+      "brief_summary": "Primary Objective:\n\n* to assess the relative bioavailability of a single dose of insulin glargine (Lantus) and lixisenatide given subcutaneously as on-site mix versus separate and simultaneous injections of each drug\n\nSecondary Objectives:\n\n* to compare the activity of a single dose of insulin glargine and lixisenatide given subcutaneously as on-site mix versus separate and simultaneous injections of each drug\n* to assess the safety and tolerability of insulin glargine and lixisenatide given sub",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects with type 1 diabetes mellitus for more than one year with total insulin dose of \\<1.2 U.kg/day, but otherwise healthy with glycohemoglobin (HbA1c) ≤ 9.0%, stable insulin regimen for at least 2 months prior to study, normal finding in medical history and physical exami",
+      "endpoints": [
+        "Area under the plasma lixisenatide concentration curve (LIX-AUClast)",
+        "Lixisenatide maximum plasma/serum peak concentration (LIX-Cmax)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01146678"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02843399",
+      "title": "Clinical and Economic Outcomes of Patients With Type 2 Diabetes Mellitus Initiating Bydureon and Glargine",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-08-15",
+      "completion_date": "2016-12-15",
+      "country": "United States",
+      "enrollment": 15498,
+      "brief_summary": "Primary objective of this study is to compare diabetes-related healthcare utilization and costs in patients initiating exenatide once weekly vs insulin glargine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. One or more outpatient prescription claim for EQW (Exenatide Once Weekly) vs. IG (Insulin Glargine) between February 1, 2012, and June 30, 2014 (date of first claim = index date; medication to which first claim corresponds = index therapy).\n2. Aged 18 or older as of the index",
+      "endpoints": [
+        "Diabetes-related HCRU/costs"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02843399"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06107153",
+      "title": "Effect of Short-term Basal Insulin Initiation in Newly Diagnosed Type 2 Diabetes on 1-year Glycemic Control",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2023-11-01",
+      "completion_date": "2024-11-01",
+      "country": "Iraq",
+      "enrollment": 243,
+      "brief_summary": "In this study, we aim to explore the beneficial effect of early short-term (two weeks), self-titrated, basal-only insulin therapy on the degree of glycemic control over 1-year follow through a prospective cohort.",
+      "eligibility_criteria": "Inclusion Criteria: (must have)\n\n* Newly diagnosed type 2 diabetes mellitus on no glucose-lowering drugs and\n* Either hemoglobin A1c equal to or more than 9% and/or random blood glucose equal to or more than 300 mg/dl.\n\nExclusion Criteria:\n\n* Patients with type 1 diabetes mellitus,\n* Urine ketone di",
+      "endpoints": [
+        "Hemoglobin A1c less than 7%",
+        "Hemoglobin A1c less than 7%",
+        "Hemoglobin A1c less than 7%"
+      ],
+      "sponsor": "University of Basrah",
+      "url": "https://clinicaltrials.gov/study/NCT06107153"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00390728",
+      "title": "A Phase IIIb/IV, Multinational, Multicentre, Randomised, Open Study to Establish the Optimal Method for Initiating and Maintaining Lantus® (Insulin Glargine) Therapy Based on a Comparison of Two Treatment Algorithms to Determine Optimal Metabolic Outcomes, Safety, and Satisfaction in Subjects With Type 1 Diabetes Mellitus/ \"HALT\" Sub-study: Multicentre, Open Clinical Trial to Assess the Effect of Insulin Glargine on Symptomatic Hypoglycaemia, Fear of Hypoglycaemia and Quality of Life in Patients With Type 1 Diabetes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2003-08",
+      "country": "N/A",
+      "enrollment": 2346,
+      "brief_summary": "Primary objective:\n\nAT.LANTUS main study\\*\n\n* To determine the optimal treatment algorithm for insulin glargine based on the incidence of severe hypoglycaemia.(\\*Target Number of patients for the main study:2346)\n\nHALT Sub-study\\*\\*\n\n* To test the hypothesis that titration regimens involving insulin glargine are associated with changes in the rate of symptomatic hypoglycaemic episodes together with changes in Fear of Hypoglycaemia as measured by the HFS-98 Questionnaire in Type I diabetes.(\\*\\*T",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects with type 1 diabetes mellitus who require a basal (long-acting) insulin for the control of hyperglycemia, with HbA1c values \\> 7.0% and \\< 12 %, and a body mass index (BMI) \\< 40 kg/m2.",
+      "endpoints": [
+        "Main study: Frequency of severe hypoglycaemia",
+        "Sub-study: The fear of hypoglycaemia as measured by the Hypoglycaemia Fear Survey questionnaire (HFS-98) assessed at baseline, 3 months and study end point or upon withdrawal of the subject from the study."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00390728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01002768",
+      "title": "A Trial Investigating the Hypoglycaemic Response to NN1250 in Subjects With Type 1 Diabetes",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-10",
+      "completion_date": "2010-03",
+      "country": "Austria",
+      "enrollment": 28,
+      "brief_summary": "This trial iss conducted in Europe. The aim of this clinical trial is to evaluate the hypoglycaemic response (the response to low blood sugar) to NN1250 (insulin degludec) in subjects with type 1 diabetes.\n\nThe trial is designed as a two-period, crossover trial where the trial participant is randomised to one of two treatment periods.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetes mellitus (as diagnosed clinically) for at least 12 months\n* Body mass index 18.0-28.0 kg/m\\^2 (both inclusive)\n\nExclusion Criteria:\n\n* Use of insulin glargine within 3 months prior to first dosing of investigational product in this trial\n* Subject who has donat",
+      "endpoints": [
+        "Baseline-adjusted hypoglycaemic symptoms score at nadir plasma glucose concentration"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01002768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03406000",
+      "title": "A 28-week, Prospective, Single-arm, Phase 4 Study to Evaluate Treatment Optimization With Once-daily Insulin Glargine 300 U/mL in Combination With Prandial Rapid-acting Insulin Analogue in Patients With Type 1 Diabetes Previously Uncontrolled on Twice-daily Basal Insulin as Part of Basal-bolus Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-01-22",
+      "completion_date": "2019-02-04",
+      "country": "Brazil",
+      "enrollment": 170,
+      "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of switching treatment from twice-daily basal insulin to once-daily insulin glargine (U300) as part of basal bolus regime in terms of glycated hemoglobin improvement (reduction by at least 0.3%), in uncontrolled type 1 diabetes mellitus patients.\n\nSecondary Objectives:\n\n* To evaluate other efficacy parameters in terms of glycemic control as well as safety including hypoglycemia events, weight changes, and adverse events.\n* To evaluate the effect of in",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Male or Female.\n* Age ≥ 18 years.\n* With Type 1 diabetes mellitus.\n* Being treated twice-daily with any basal insulin in combination with prandial rapid-acting insulin analogue for at least one year.\n* Have an glycated hemoglobin (HbA1c) measurement of 7.5% - 10.0% at study e",
+      "endpoints": [
+        "Mean change in HbA1c"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03406000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06269107",
+      "title": "A 40-week Study Comparing the Efficacy and Safety of Once Weekly IcoSema and Daily Insulin Glargine 100 Units/mL in Participants With Type 2 Diabetes Inadequately Controlled on Oral Anti Diabetic Drugs COMBINE 4",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2024-02-15",
+      "completion_date": "2025-07-08",
+      "country": "South Africa, Puerto Rico, India, Greece, Italy, Turkey (Türkiye), China, Poland, Japan, United States",
+      "enrollment": 485,
+      "brief_summary": "This study will compare the new medicine IcoSema, which is a combination of insulin icodec and semaglutide, taken once a week, to insulin glargine (mentioned as insulin glargine in this form) taken daily in people with type 2 diabetes. The study will look at how well IcoSema controls blood sugar levels as compared to insulin glargine in people with type 2 diabetes who do not have their blood sugar properly controlled with other oral diabetes medicines. Participant will either get IcoSema or insu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female and age above or equal to 18 years at the time of signing the informed consent.\n* Diagnosed with T2D greater than or equal to (≥) 180 days before screening.\n* HbA1c ≥ 8.0% (≥ 64.0 millimoles per mole \\[mmol/mol\\]) as assessed by central laboratory on the day of ",
+      "endpoints": [
+        "Change in glycated haemoglobin (HbA1c)"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT06269107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01476475",
+      "title": "A Randomized, 24-week, Open-label, 2-arm Parallel-group, Multicenter Study Comparing the Efficacy and Safety of Insulin Glargine/Lixisenatide Fixed Ratio Combination Versus Insulin Glargine on Top of Metformin in Type 2 Diabetic Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-12",
+      "country": "France, Sweden, Chile, Czechia, Mexico, Hungary, Slovakia, Denmark, Germany, Romania, Poland, Lithuania, United States",
+      "enrollment": 323,
+      "brief_summary": "Primary Objective:\n\n* The purpose of this study was to compare insulin glargine/ lixisenatide fixed ratio combination (FRC) versus insulin glargine on glycemic control over 24 weeks, as evaluated by glycosylated hemoglobin (HbA1c) reduction in type 2 diabetic participants treated with metformin.\n\nSecondary Objectives:\n\n* To compare insulin glargine/lixisenatide FRC versus insulin glargine over 24 weeks on:\n\n  * Glycemic control in relation to a meal as evaluated by post-prandial plasma glucose a",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants with type 2 diabetes mellitus diagnosed for at least 1 year.\n* Metformin treatment at a stable dose of at least 1.5 g/day for at least 3 months prior to screening.\n\nExclusion criteria:\n\n* Age \\< legal age of adulthood (18 years).\n* Screening HbA1c \\<7% or \\>10%.\n*",
+      "endpoints": [
+        "Change in HbA1c From Baseline to Week 24"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01476475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00686712",
+      "title": "The Utility of Insulin Glargine (Lantus) Compared to NPH in Ethnic Minority Type 2 Diabetic Subjects Starting Insulin Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 108,
+      "brief_summary": "To compare the efficacy and safety of once-nightly insulin glargine versus a single morning injection of glargine or once-nightly NPH insulin in ethnic minority type 2 diabetic patients inadequately controlled on combination oral agents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, age 18-75\n* Type 2 diabetes diagnosed for at least 1 year\n* Treatment with stable doses of oral agents (alone or in combination) for at least 2 months\n* Inadequate glycemic control (hemoglobin A1c ≥ 7.5%) on maximum-tolerated doses of a sulfonylurea, metformin ",
+      "endpoints": [
+        "Hemoglobin A1c Change From Baseline"
+      ],
+      "sponsor": "Charles Drew University of Medicine and Science",
+      "url": "https://clinicaltrials.gov/study/NCT00686712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00457093",
+      "title": "A Double Blind, Randomized, Parallel, Cross-Over Comparision of Glycemic Control Achieved With Once a Day Insulin Glargine Versus Detemir in Type 2 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2007-05",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "The purpose of this study that when studies using our method of dosing adjustments driven by continuous glucose monitoring and because of the less variable glycemic effect of insulin detemir, insulin detemir treated subjects will spend a significantly greater time in the glucose target range than insulin glargine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 Diabetes\n* Currently on a basal insulin, that is, NPH, glargine or detemir\n* Capable of self monitoring glucose \\>4/day\n* Previously complaint with clinical recommendations\n* Subject may be on oral antiglycemic medications but no change in treatment is permitted during ",
+      "endpoints": [
+        "In the time period 2400 to 0600 hours (the Basal Period) when post-meal food is least likely to affect the glucose level, detect the mean percentage pf time the glucose level is between 70-119 mg/dL"
+      ],
+      "sponsor": "Diabetes Care Center",
+      "url": "https://clinicaltrials.gov/study/NCT00457093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064714",
+      "title": "Effect of AC 2993 (Synthetic Exendin-4) - Administered Alone or in Combination With Daclizumab - on Islet Function in Patients With Type I Diabetes",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2008-03",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "This study will determine 1) the safety of AC2993 in patients with type I diabetes; 2) the ability of AC2993 to improve beta cell function; and 3) the effects of immunosuppression on beta cell function.\n\nType I diabetes is an autoimmune disease, in which the immune system attacks the beta cells of the pancreas. These cells produce insulin, which regulates blood sugar. AC2993 may improve the pancreas's ability to produce insulin and help control blood sugar, but it may also activate the original ",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nT1DM for at least 5 years as defined by the following:\n\n1. Insulin dependence (with an insulin requirement less than 0.8 units/kg/day).\n2. Current or past anti-islet antibodies (anti-insulin before initiation of insulin therapy, anti-islet cell (ICA), anti-tyrosine phosphatase",
+      "endpoints": [
+        "Change in basal C-peptide level"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00064714"
+    }
+  ],
+  "timestamp": "2026-03-04T16:54:06.416862",
+  "success": true,
+  "error_message": null
+}

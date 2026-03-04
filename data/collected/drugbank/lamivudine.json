@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Lamivudine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00709",
+    "name": "Lamivudine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:20:50.729192",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,313 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Amphotericin B",
+    "disease": "acne",
+    "query_string": "Amphotericin B AND acne"
+  },
+  "data": {
+    "query": "Amphotericin B AND acne",
+    "results": [
+      {
+        "pmid": "8351723",
+        "title": "[Cutaneous manifestations of AIDS].",
+        "abstract": "",
+        "journal": "La Tunisie medicale",
+        "year": "1993",
+        "authors": [
+          "Marrakchi H",
+          "Mokhtar I",
+          "Zarrouk H",
+          "Daghfous M",
+          "Kamoun M R"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Humans",
+          "Skin Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8351723/"
+      },
+      {
+        "pmid": "4275329",
+        "title": "Acne vulgaris and free fatty acids. A review and criticism.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1974",
+        "authors": [
+          "Voss J G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Amphotericin B",
+          "Fatty Acids, Nonesterified",
+          "Humans",
+          "Propionibacterium acnes",
+          "Sebaceous Glands",
+          "Sebum",
+          "Skin",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4275329/"
+      },
+      {
+        "pmid": "41247420",
+        "title": "Dual drug co-encapsulation into liposomes and liposome-derived nanosystems for improved synergistic treatment of skin diseases.",
+        "abstract": "Skin disorders impact nearly one-third of the global population, and represent the fourth most common cause of human diseases. However, delivering drugs into and through the skin is a significant challenge due to its low permeability, which severely limits the efficacy of conventional topical and transdermal formulations. To tackle this issue, liposomes and liposome-derived nanosystems can be of use, which, among other advantages, also have the capacity to encapsulate more than one drug molecule simultaneously, allowing combination therapy. This review provides a comprehensive summary and critical analysis of recent studies regarding dual drug co-encapsulation into liposomes and liposome-derived nanosystems as an improved therapeutic approach for the treatment of several skin diseases, such as acne vulgaris, androgenetic alopecia, cutaneous leishmaniasis, psoriasis, vitiligo, and chronic wounds, and for dermal analgesia and general skin oxidative stress management purposes. Conventiona",
+        "journal": "Drug delivery and translational research",
+        "year": "2026",
+        "authors": [
+          "Rodrigues Sara",
+          "Veiga Francisco",
+          "Paiva-Santos Ana Cláudia",
+          "Pires Patrícia C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Liposomes",
+          "Humans",
+          "Skin Diseases",
+          "Animals",
+          "Administration, Cutaneous",
+          "Nanoparticles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41247420/"
+      },
+      {
+        "pmid": "8592071",
+        "title": "Modeling acne in vitro.",
+        "abstract": "To help elucidate the factors responsible for the infundibular changes seen in acne, the human sebaceous pilosebaceous infundibulum was isolated by microdissection and maintained for 7 d in keratinocyte serum-free medium supplemented with 50 micrograms/ml bovine pituitary extract, 100 units/ml penicillin and streptomycin, 2.5 micrograms/ml amphotericin B and CaCl2(10H2O) to give a final Ca2+ concentration of 2 mM. Infundibular structure was maintained over 7 d in this medium; the pattern of cell division mimicked that in vivo. The rate of cell division was significantly higher than previously described for infundibula maintained in supplemented William's E medium, and moreover did not fall over 7 d. The addition of 1 ng/ml interleukin-1 alpha (IL-1 alpha) caused hypercornification of the infundibulum similar to that seen in comedones; this could be blocked by 1000 ng/ml interleukin-1 receptor antagonist (IL-1ra). In about 20% of subjects there was spontaneous hypercornification of the ",
+        "journal": "The Journal of investigative dermatology",
+        "year": "1996",
+        "authors": [
+          "Guy R",
+          "Green M R",
+          "Kealey T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Animals",
+          "Cattle",
+          "Cell Survival",
+          "Culture Techniques",
+          "Epidermal Growth Factor",
+          "Female",
+          "Humans",
+          "Interleukin-1",
+          "Isotretinoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8592071/"
+      },
+      {
+        "pmid": "25280605",
+        "title": "Cerebral aspergillosis in a patient with leprosy and diabetes: a case report.",
+        "abstract": "Opportunistic fungi are dispersed as airborne, ground and decaying matter. The second most frequent extra-pulmonary disease by Aspergillus is in the central nervous system.",
+        "journal": "BMC research notes",
+        "year": "2014",
+        "authors": [
+          "Segundo João Batista Alves",
+          "da Silva Marcos Antonio Custódio Neto",
+          "Filho Walbert Edson Muniz",
+          "Nascimento Anna Cyntia Brandão",
+          "Vidal Flávia Castello Branco"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Anticonvulsants",
+          "Antifungal Agents",
+          "Aspergillus fumigatus",
+          "Biopsy",
+          "Carbamazepine",
+          "Cerebrum",
+          "Diabetes Mellitus",
+          "Fluconazole",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25280605/"
+      },
+      {
+        "pmid": "40818018",
+        "title": "Effect of Lactiplantibacillus Plantarum THK-J112 Against Candida Overgrowth in Acne Complications.",
+        "abstract": "Secondary fungal infections resulting from disruptions caused by acne vulgaris treatments underscore the critical need for therapies that minimize dysbiosis while effectively targeting acne-associated pathogens. This study investigates Lactiplantibacillus plantarum THK-J112 cell-free supernatant (CFS) as a microbiome-stabilizing intervention against Candida overgrowth, utilizing a combination of genomic analysis and functional validation. In vitro evaluations demonstrated broad-spectrum antifungal activity, with inhibition zones of more than 10 mm against C. tropicalis KCTC 17762 and a minimum fungicidal concentration of 2.5 mg/mL. Scanning electron microscopy revealed profound Candida cell wall disruption, while cytotoxicity assays confirmed CFS safety for HaCaT keratinocytes and Caco-2 intestinal cells. The supernatant significantly reduced Candida adhesion to epithelial cells by up to 80.25%, outperforming Amphotericin B's anti-adhesive effects. Anti-inflammatory activity was eviden",
+        "journal": "Probiotics and antimicrobial proteins",
+        "year": "2025",
+        "authors": [
+          "Nguyen Trang Thi Minh",
+          "Bae Chan-Il",
+          "Yang Su-Jin",
+          "Jin Xiangji",
+          "Zheng Qiwen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40818018/"
+      },
+      {
+        "pmid": "20379462",
+        "title": "Case report of Acremonium intraocular infection after cataract extraction.",
+        "abstract": "A 64-year-old woman was referred to our clinic for the treatment of chronic uveitis in her left eye, which had started two weeks after an uncomplicated cataract extraction. She was treated with topical steroids with an initially good response, yet she subsequently developed severe inflammation and plaque-like material around the intraocular lens, despite continuous steroid therapy. She underwent pars plana vitrectomy, smear and culture of the aqueous and vitreous fluids, and intravitreal antibiotic injection under the impression of Propionibacterium acne (P. acne) endophthalmitis. As a result of the smear and culture of the vitreous fluid identified as an Acremonium species, she was treated with intravenous amphotericin B injections for five days, followed by oral voriconazole administration. During the post-operative 18-month follow-up, she was stable without significant relapse of uveitis. In this case, the best correction of visual acuity was an improvement from 20/40 to 20/20.",
+        "journal": "Korean journal of ophthalmology : KJO",
+        "year": "2010",
+        "authors": [
+          "Joe Soo Geun",
+          "Lim Jongyoon",
+          "Lee Joo Yong",
+          "Yoon Young Hee"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acremonium",
+          "Antifungal Agents",
+          "Cataract Extraction",
+          "Endophthalmitis",
+          "Eye Infections, Fungal",
+          "Female",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20379462/"
+      },
+      {
+        "pmid": "31399065",
+        "title": "Dermatoscopy for the rapid diagnosis of Talaromyces marneffei infection: a case report.",
+        "abstract": "Talaromyces marneffei is a thermally dimorphic fungus endemic in south-east Asia. It predominantly occurs in both immunocompromised and immunosuppressed patients and can be fatal if diagnosis and treatment are delayed. The clinical manifestations of T. marneffei infection are nonspecific and rapid diagnosis of T. marneffei infection remains challenging.",
+        "journal": "BMC infectious diseases",
+        "year": "2019",
+        "authors": [
+          "Xian Jiayi",
+          "Huang Xiaowen",
+          "Li Qiaofei",
+          "Peng Xiaoming",
+          "Peng Xuebiao"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Anti-HIV Agents",
+          "Antifungal Agents",
+          "China",
+          "Dermoscopy",
+          "HIV Infections",
+          "Humans",
+          "Itraconazole",
+          "Male",
+          "Mycology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31399065/"
+      },
+      {
+        "pmid": "15322719",
+        "title": "[Stomatitis, glossitis, and esophagitis in a patient treated with minocycline].",
+        "abstract": "After 10 days of minocycline therapy, stomatitis, glossitis and esophagitis were seen in a 62-year-old male patient, who had previously tolerated minocycline for > 20 years without complications. This typical side effect of minocycline was initially misinterpreted in the differential diagnosis and was only diagnosed, when the patient was reexposed to a new 7-day minocycline therapy. Healing was achieved by termination of the minocycline therapy and the initiation of antimycotic treatment.",
+        "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+        "year": "2004",
+        "authors": [
+          "Heidrich Heinz"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Amphotericin B",
+          "Anti-Bacterial Agents",
+          "Antifungal Agents",
+          "Esophagitis",
+          "Glossitis",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Minocycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15322719/"
+      },
+      {
+        "pmid": "4246900",
+        "title": "[Amphocycline: major therapeutics in acne rosacea, therapeutics in some cases of juvenile acne].",
+        "abstract": "",
+        "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+        "year": "1970",
+        "authors": [
+          "Bazex A",
+          "Dupré A",
+          "Salvador R",
+          "Christol B",
+          "Rumeau H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acne Vulgaris",
+          "Amphotericin B",
+          "Diagnosis, Differential",
+          "Humans",
+          "Placebos",
+          "Rosacea",
+          "Tetracycline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4246900/"
+      },
+      {
+        "pmid": "4237583",
+        "title": "[Clinical trial of amphocycline in treatment of acne rosacea].",
+        "abstract": "",
+        "journal": "Journal de medecine de Bordeaux et du Sud-Ouest",
+        "year": "1967",
+        "authors": [
+          "Texier L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Amphotericin B",
+          "Drug Synergism",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Rosacea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4237583/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:00:24.432072",
+  "success": true,
+  "error_message": null
+}

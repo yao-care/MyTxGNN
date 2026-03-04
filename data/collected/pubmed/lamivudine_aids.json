@@ -1,0 +1,614 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lamivudine",
+    "disease": "AIDS",
+    "query_string": "Lamivudine AND AIDS"
+  },
+  "data": {
+    "query": "Lamivudine AND AIDS",
+    "results": [
+      {
+        "pmid": "23543540",
+        "title": "Co-formulated abacavir-lamivudine-zidovudine for initial treatment of HIV infection and AIDS.",
+        "abstract": "UNAIDS estimates that 34 million people are currently living with the human immunodeficiency virus (HIV) worldwide. Currently recommended regimens for initiating HIV treatment consist of either a non-nucleoside reverse transcriptase inhibitor (NNRTI) or ritonavir-boosted protease inhibitor (PI) combined with two nucleoside reverse transcriptase inhibitors (NRTIs). However, there may be some patients for whom NNRTIs and PIs may not be appropriate. This is an update of the review published in the Cochrane Library Issue 3, 2009.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2013",
+        "authors": [
+          "Shey Muki S",
+          "Kongnyuy Eugene J",
+          "Alobwede Samuel M",
+          "Wiysonge Charles Shey"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Alkynes",
+          "Anti-HIV Agents",
+          "Atazanavir Sulfate",
+          "Benzoxazines",
+          "Cyclopropanes",
+          "Dideoxynucleosides",
+          "Drug Combinations",
+          "HIV Infections",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23543540/"
+      },
+      {
+        "pmid": "16625606",
+        "title": "Stavudine, lamivudine and nevirapine combination therapy for treatment of HIV infection and AIDS in adults.",
+        "abstract": "A favourable regimen for people infected with HIV/AIDS is one that provides optimal efficacy, durability of antiretroviral activity, tolerability, and has low adverse effects and drug-drug interactions. The combination of the non-nucleoside reverse transcriptase inhibitor nevirapine (NVP), and two nucleoside reverse transcriptase inhibitors, stavudine (d4T) and lamivudine (3TC), is widely used as first-line therapy, especially in low-resource countries. Analysis of the efficacy, durability and tolerability of the regimen is thus important to clinicians, consumers and policy-makers living in both rich and poor countries.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2006",
+        "authors": [
+          "Siegfried N L",
+          "Van Deventer P J U",
+          "Mahomed F A",
+          "Rutherford G W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Anti-HIV Agents",
+          "Drug Therapy, Combination",
+          "Female",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16625606/"
+      },
+      {
+        "pmid": "37849432",
+        "title": "Major revision version 12.0 of the European AIDS Clinical Society guidelines 2023.",
+        "abstract": "The European AIDS Clinical Society (EACS) guidelines were revised in 2023 for the 19th time, and all aspects of HIV care were updated.",
+        "journal": "HIV medicine",
+        "year": "2023",
+        "authors": [
+          "Ambrosioni Juan",
+          "Levi Laura",
+          "Alagaratnam Jasmini",
+          "Van Bremen Kathrin",
+          "Mastrangelo Andrea"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Humans",
+          "Acquired Immunodeficiency Syndrome",
+          "AIDS-Related Opportunistic Infections",
+          "Anti-HIV Agents",
+          "Anti-Retroviral Agents",
+          "COVID-19",
+          "Hepatitis C"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37849432/"
+      },
+      {
+        "pmid": "19588374",
+        "title": "A combination drug of abacavir-lamivudine-zidovudine (Trizivir) for treating HIV infection and AIDS.",
+        "abstract": "The human immunodeficiency virus (HIV) has become one of the greatest challenges to global public health. In 2007 UNAIDS estimated that 33.2 million people were living with HIV. Currently recommended regimens for initiating HIV treatment consist of either a non-nucleoside reverse transcriptase inhibitor (NNRTI) or ritonvair-boosted protease inhibitor (PI) combined with two nucleoside reverse transcriptase inhibitors (NRTIs); however, there may be some patients for whom NNRTIs and PIs may not be appropriate.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2009",
+        "authors": [
+          "Shey Muki",
+          "Kongnyuy Eugene J",
+          "Shang Judith",
+          "Wiysonge Charles Shey"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Alkynes",
+          "Anti-HIV Agents",
+          "Atazanavir Sulfate",
+          "Benzoxazines",
+          "Cyclopropanes",
+          "Drug Combinations",
+          "HIV Infections",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19588374/"
+      },
+      {
+        "pmid": "38039097",
+        "title": "Efficacy and safety of raltegravir plus lamivudine maintenance therapy.",
+        "abstract": "Decreasing medication burden with raltegravir plus lamivudine in virologically suppressed persons with HIV (PWH) maintained efficacy and was well tolerated at 24 weeks, but more comprehensive data over longer follow-up are required.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "2024",
+        "authors": [
+          "Borjabad Beatriz",
+          "Inciarte Alexy",
+          "Chivite Ivan",
+          "Gonzalez-Cordon Ana",
+          "Mosquera Mar"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Raltegravir Potassium",
+          "Lamivudine",
+          "HIV Infections",
+          "Anti-HIV Agents",
+          "Prospective Studies",
+          "Quality of Life",
+          "Drug Therapy, Combination",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Viral Load"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38039097/"
+      },
+      {
+        "pmid": "10593358",
+        "title": "Antiretrovirals.",
+        "abstract": "Deaths related to the human immunodeficiency virus (HIV) and the acquired immunodeficiency syndrome and the incidence of opportunistic infections have been drastically decreased in the industrialized world. These reductions are mainly due to recent advances in the management of HIV infection, including the availability of new therapies. Until November 1995, the antiretroviral drugs available and approved by the Food and Drug Administration for clinical use in the United States consisted of only four nucleoside analogue reverse transcriptase inhibitors: zidovudine, zalcitabine, didanosine, and stavudine. Since then, 2 new classes of agents and 10 new agents have been approved; thus, the number of available antiretroviral drugs has more than tripled. Additional drugs and newer classes of antiretrovirals are in various stages of development. Because of the availability of more drugs, the complexity of HIV treatment has increased. Selecting an appropriate antiretroviral therapeutic regimen",
+        "journal": "Mayo Clinic proceedings",
+        "year": "1999",
+        "authors": [
+          "Temesgen Z",
+          "Wright A J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Alkynes",
+          "Anti-HIV Agents",
+          "Benzoxazines",
+          "Carbamates",
+          "Cyclopropanes",
+          "Delavirdine",
+          "Didanosine",
+          "Dideoxynucleosides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10593358/"
+      },
+      {
+        "pmid": "18327463",
+        "title": "HIV/AIDS treatment and physicochemical quality control of medicines: evaluation of non-generic lamivudine + zidovudine tablets manufactured in Brazil.",
+        "abstract": "In this work it was evaluated the physicochemical quality of lamivudine + zidovudine tablets, whose association belongs to the list of drugs distributed by the Brazil's National Program on Sexually Transmitted Diseases and AIDS. Four non-generic products (lamivudine + zidovudine tablets) were analyzed. They were obtained from different Brazilian manufacturers, besides a reference product. The quality was evaluated by physicochemical tests described in the official codes. A validated reversed-phase high performance liquid chromatography (HPLC) method was used for the assay of the active substances. All samples were in accordance to the requisites in relation to their physicochemical characteristics. Dissolution studies showed similar drug percentual dissolved among all samples. The results reflect the interest of the national pharmaceutical industry to ensure the delivery of safer and cheaper drugs to the Brazilian people, with particular importance in the National Program on Sexually T",
+        "journal": "The Brazilian journal of infectious diseases : an official publication of the Brazilian Society of Infectious Diseases",
+        "year": "2007",
+        "authors": [
+          "Beck Ruy Carlos Ruver",
+          "Athayde Margareth Linde",
+          "Cardoso Simone Gonçalves"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-HIV Agents",
+          "Brazil",
+          "Chemical Phenomena",
+          "Chemistry, Physical",
+          "Chromatography, High Pressure Liquid",
+          "Drug Industry",
+          "Lamivudine",
+          "Quality Control",
+          "Tablets",
+          "Zidovudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18327463/"
+      },
+      {
+        "pmid": "36056868",
+        "title": "Serum Interleukin-6 and Weight Loss in Antiretroviral-naïve and Antiretroviral-treated Patients with HIV/AIDS: Relationships and Predictors.",
+        "abstract": "Cachexia is usually associated with elevated serum interleukin-6 (IL.6) as it stimulates the breakdown of muscle proteins and promotes wasting.",
+        "journal": "Current HIV research",
+        "year": "2022",
+        "authors": [
+          "Adedeji Tewogbade Adeoye",
+          "Adedeji Nife Olamide",
+          "Ajeigbe Abiodun Kofoworola",
+          "Smith Olufemi Samuel",
+          "Jeje Olusola Akanni"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Middle Aged",
+          "Acquired Immunodeficiency Syndrome",
+          "Anti-HIV Agents",
+          "Anti-Retroviral Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "Case-Control Studies",
+          "Emtricitabine",
+          "HIV Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36056868/"
+      },
+      {
+        "pmid": "8816357",
+        "title": "Lamivudine.",
+        "abstract": "",
+        "journal": "The Journal of the Association of Nurses in AIDS Care : JANAC",
+        "year": "1996",
+        "authors": [
+          "Porche D J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-HIV Agents",
+          "HIV Infections",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8816357/"
+      },
+      {
+        "pmid": "10391672",
+        "title": "Safety and efficacy of ritonavir and saquinavir in combination with zidovudine and lamivudine.",
+        "abstract": "Ritonavir is a potent inhibitor of cytochrome P4503A4 that strongly increases saquinavir bioavailability. In this study we assessed the safety and antiretroviral efficacy of the combination of these two compounds in patients pretreated and receiving continued treatment with zidovudine and lamivudine who were protease inhibitor naive and who had a CD4 cell counts below 200/mm3.",
+        "journal": "Clinical pharmacology and therapeutics",
+        "year": "1999",
+        "authors": [
+          "Michelet C",
+          "Bellissant E",
+          "Ruffault A",
+          "Arvieux C",
+          "Delfraissy J F"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Anti-HIV Agents",
+          "CD4 Lymphocyte Count",
+          "DNA, Viral",
+          "Drug Administration Schedule",
+          "Drug Resistance",
+          "Drug Therapy, Combination",
+          "Female",
+          "Genotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10391672/"
+      },
+      {
+        "pmid": "17457088",
+        "title": "Lamivudine/abacavir maintains virological superiority over zidovudine/lamivudine and zidovudine/abacavir beyond 5 years in children.",
+        "abstract": "To describe the long-term efficacy over 5 years of regimens including combinations of abacavir, lamivudine and/or zidovudine in previously untreated children in the PENTA 5 trial.",
+        "journal": "AIDS (London, England)",
+        "year": "2007",
+        "authors": [
+          "Green H",
+          "Gibb D M",
+          "Walker A S",
+          "Pillay D",
+          "Butler K"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-HIV Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "CD4 Lymphocyte Count",
+          "Child",
+          "Child, Preschool",
+          "Dideoxynucleosides",
+          "Drug Resistance, Viral",
+          "Follow-Up Studies",
+          "Growth"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17457088/"
+      },
+      {
+        "pmid": "25043080",
+        "title": "Side effects and tolerability of post-exposure prophylaxis with zidovudine, lamivudine, and lopinavir/ritonavir: a comparative study with HIV/AIDS patients.",
+        "abstract": "In the era of highly active antiretroviral therapy (HAART), the use of antiretrovirals as post-exposure prophylaxis (PEP) was the most important strategy for preventing occupational exposure to blood or fluids containing human immunodeficiency virus (HIV). The objective of this study was to retrospectively evaluate the tolerability, safety, and side effects of a HAART regimen containing three antiretroviral drugs, consisting of zidovudine, lamivudine, and lopinavir/ritonavir, in healthcare personnel (HCP) who experienced occupational exposure to HIV.",
+        "journal": "Chinese medical journal",
+        "year": "2014",
+        "authors": [
+          "Cai Juan",
+          "Xiao Jiang",
+          "Zhang Qiang"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-HIV Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "Female",
+          "HIV Infections",
+          "Humans",
+          "Lamivudine",
+          "Lopinavir",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25043080/"
+      },
+      {
+        "pmid": "18090393",
+        "title": "Antiretroviral therapy using zidovudine, lamivudine, and efavirenz in South Africa: tolerability and clinical events.",
+        "abstract": "To describe the safety and tolerability of zidovudine, lamivudine, and efavirenz in a low-income setting.",
+        "journal": "AIDS (London, England)",
+        "year": "2008",
+        "authors": [
+          "Hoffmann Christopher J",
+          "Fielding Katherine L",
+          "Charalambous Salome",
+          "Sulkowski Mark S",
+          "Innes Craig"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Alkynes",
+          "Anemia",
+          "Anti-HIV Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "Benzoxazines",
+          "Cohort Studies",
+          "Cyclopropanes",
+          "Developing Countries",
+          "Dizziness"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18090393/"
+      },
+      {
+        "pmid": "37534729",
+        "title": "Exposure to doravirine, lamivudine, tenofovir, and raltegravir in a patient with HIV after a Roux-en-Y gastric bypass.",
+        "abstract": "",
+        "journal": "AIDS (London, England)",
+        "year": "2023",
+        "authors": [
+          "Chen Rou Qing",
+          "Zino Leena",
+          "Geerlings Suzanne",
+          "Colbers Angela",
+          "Burger David"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gastric Bypass",
+          "Tenofovir",
+          "Lamivudine",
+          "Raltegravir Potassium",
+          "HIV Infections",
+          "Pyridones",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37534729/"
+      },
+      {
+        "pmid": "32694416",
+        "title": "Zidovudine and lamivudine reach higher concentrations in ventricular than in lumbar human cerebrospinal fluid.",
+        "abstract": "For the treatment of HIV-1-related brain disease and for the prevention of the brain becoming a viral reservoir, it is important that antiretroviral agents reach sufficient concentrations in the CNS. To date, human brain pharmacokinetic data are solely derived from lumbar cerebrospinal fluid (CSF) and mostly originate from single samples.",
+        "journal": "AIDS (London, England)",
+        "year": "2020",
+        "authors": [
+          "Eggers Christian",
+          "Hoetelmans Richard",
+          "Läer Stephanie"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS Dementia Complex",
+          "Adult",
+          "Anti-HIV Agents",
+          "Drug Therapy, Combination",
+          "HIV Infections",
+          "HIV-1",
+          "Humans",
+          "Lamivudine",
+          "Male",
+          "RNA, Viral"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32694416/"
+      },
+      {
+        "pmid": "36382442",
+        "title": "Doravirine/lamivudine/tenofovir disoproxil fumarate-induced hypertriglyceridemia in a newly diagnosed AIDS patient.",
+        "abstract": "",
+        "journal": "AIDS (London, England)",
+        "year": "2022",
+        "authors": [
+          "Barchi Virginia",
+          "Rindi Lorenzo Vittorio",
+          "Iannazzo Roberta",
+          "Massa Barbara",
+          "De Simone Giuseppe"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lamivudine",
+          "HIV Infections",
+          "Fumarates",
+          "Acquired Immunodeficiency Syndrome",
+          "Anti-HIV Agents",
+          "Tenofovir",
+          "Hypertriglyceridemia",
+          "Emtricitabine",
+          "Pyridones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36382442/"
+      },
+      {
+        "pmid": "10552250",
+        "title": "Reversal of AIDS dementia after combination therapy with stavudine, lamivudine, and nelfinavir.",
+        "abstract": "",
+        "journal": "Journal of neurology",
+        "year": "1999",
+        "authors": [
+          "Mastroianni C M",
+          "Trinchieri V",
+          "Santopadre P",
+          "Lichtner M",
+          "Forcina G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "AIDS Dementia Complex",
+          "Adult",
+          "Anti-HIV Agents",
+          "Drug Therapy, Combination",
+          "Female",
+          "HIV Protease Inhibitors",
+          "Humans",
+          "Lamivudine",
+          "Nelfinavir",
+          "Remission Induction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10552250/"
+      },
+      {
+        "pmid": "40751608",
+        "title": "Lamivudine and tenofovir pharmacokinetic variability in people with HIV in Papua New Guinea.",
+        "abstract": "Demographics and kidney function contribute to variability in lamivudine and tenofovir drug concentrations. The aim was to assess, for the first time, the pharmacokinetic variability of lamivudine and tenofovir in Papua New Guinean (PNG) HIV/AIDS patients.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "2025",
+        "authors": [
+          "Andriguetti Natália Bordin",
+          "Barratt Daniel Thomas",
+          "Tucci Joseph",
+          "Pumuye Paul",
+          "Somogyi Andrew Alexander"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tenofovir",
+          "Male",
+          "Female",
+          "Lamivudine",
+          "Adult",
+          "HIV Infections",
+          "Middle Aged",
+          "Anti-HIV Agents",
+          "Papua New Guinea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40751608/"
+      },
+      {
+        "pmid": "19061617",
+        "title": "Doxorubicin-induced hyperpigmentation.",
+        "abstract": "A 39-year-old man with human immunodeficiency virus infection and Kaposi sarcoma on HAART therapy and doxorubicin presented in 2007 with a hyperpigmented tongue. Physical examination also showed hyperpigmented patches on the mucosal aspects of the lips and longitudinal dark bands on multiple nails. A skin biopsy specimen showed pigmentary alteration. Such hyperpigmentation has been described in numerous case reports and case series and has been reported to resolve within weeks to months of cessation of doxorubicin.",
+        "journal": "Dermatology online journal",
+        "year": "2008",
+        "authors": [
+          "Abbasi Naheed R",
+          "Wang Nadia"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Anti-HIV Agents",
+          "Antineoplastic Agents",
+          "Antiretroviral Therapy, Highly Active",
+          "Carbamates",
+          "Doxorubicin",
+          "Drug Combinations",
+          "Furans",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19061617/"
+      },
+      {
+        "pmid": "25749416",
+        "title": "Cost/efficacy analysis of preferred Spanish AIDS study group regimens and the dual therapy with lopinavir/ritonavir plus lamivudine for initial ART in HIV infected adults.",
+        "abstract": "The National AIDS Plan and the Spanish AIDS study group (GESIDA) proposes \"preferred regimens\" (PR) of antiretroviral treatment (ART) as initial therapy in HIV-infected patients. In 2013, the recommended regimens were all triple therapy regimens. The Gardel Study assessed the efficacy of a dual therapy (DT) combination of lopinavir/ritonavir (LPV/r) plus lamivudine (3TC). Our objective is to evaluate the GESIDA PR and the DT regimen LPV/r+3TC cost/efficacy ratios.",
+        "journal": "Enfermedades infecciosas y microbiologia clinica",
+        "year": "2016",
+        "authors": [
+          "Gatell Artigas Josep María",
+          "Arribas López José Ramón",
+          "Lázaro Y de Mercado Pablo",
+          "Blasco Bravo Antonio Javier"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Anti-HIV Agents",
+          "Cost-Benefit Analysis",
+          "Decision Trees",
+          "Drug Therapy, Combination",
+          "HIV Infections",
+          "Humans",
+          "Lamivudine",
+          "Lopinavir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25749416/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:21:45.658686",
+  "success": true,
+  "error_message": null
+}

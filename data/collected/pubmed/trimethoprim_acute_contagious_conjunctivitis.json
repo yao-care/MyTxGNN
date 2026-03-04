@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "acute contagious conjunctivitis",
+    "query_string": "Trimethoprim AND acute contagious conjunctivitis"
+  },
+  "data": {
+    "query": "Trimethoprim AND acute contagious conjunctivitis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:48:51.874292",
+  "success": true,
+  "error_message": null
+}

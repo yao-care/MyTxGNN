@@ -1,0 +1,553 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "bronchiectasis",
+    "query_string": "Acetylcysteine AND bronchiectasis"
+  },
+  "data": {
+    "query": "Acetylcysteine AND bronchiectasis",
+    "results": [
+      {
+        "pmid": "39064168",
+        "title": "Anti-Inflammatory and Anti-Oxidant Properties of N-Acetylcysteine: A Fresh Perspective.",
+        "abstract": "N-acetyl-L-cysteine (NAC) was initially introduced as a treatment for mucus reduction and widely used for chronic respiratory conditions associated with mucus overproduction. However, the mechanism of action for NAC extends beyond its mucolytic activity and is complex and multifaceted. Contrary to other mucoactive drugs, NAC has been found to exhibit antioxidant, anti-infective, and anti-inflammatory activity in pre-clinical and clinical reports. These properties have sparked interest in its potential for treating chronic lung diseases, including chronic obstructive pulmonary disease (COPD), bronchiectasis (BE), cystic fibrosis (CF), and idiopathic pulmonary fibrosis (IPF), which are associated with oxidative stress, increased levels of glutathione and inflammation. NAC's anti-inflammatory activity is noteworthy, and it is not solely secondary to its antioxidant capabilities. In ex vivo models of COPD exacerbation, the anti-inflammatory effects have been observed even at very low doses",
+        "journal": "Journal of clinical medicine",
+        "year": "2024",
+        "authors": [
+          "Santus Pierachille",
+          "Signorello Juan Camilo",
+          "Danzo Fiammetta",
+          "Lazzaroni Giada",
+          "Saad Marina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39064168/"
+      },
+      {
+        "pmid": "38141851",
+        "title": "Evaluation of high dose N- Acetylcysteine on airway inflammation and quality of life outcomes in adults with bronchiectasis: A randomised placebo-controlled pilot study.",
+        "abstract": "High dose N acetylcysteine (NAC), a mucolytic, anti-inflammatory and antioxidant agent has been shown to significantly reduce exacerbations, and improve quality of life in placebo controlled, double blind randomised (RCT) studies in patients with COPD, and in an open, randomised study in bronchiectasis. In this pilot, randomised, double-blind, placebo-controlled study, we wished to investigate the feasibility of a larger clinical trial, and the anti-inflammatory and clinical benefits of high dose NAC in bronchiectasis.",
+        "journal": "Pulmonary pharmacology & therapeutics",
+        "year": "2024",
+        "authors": [
+          "Jayaram L",
+          "King P T",
+          "Hunt J",
+          "Lim M",
+          "Park C"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Male",
+          "Aged",
+          "Acetylcysteine",
+          "Quality of Life",
+          "Pilot Projects",
+          "Bronchiectasis",
+          "Inflammation",
+          "Anti-Inflammatory Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38141851/"
+      },
+      {
+        "pmid": "35361640",
+        "title": "Efficacy of N-acetylcysteine on idiopathic or postinfective non-cystic fibrosis bronchiectasis: a systematic review and meta-analysis protocol.",
+        "abstract": "Non-cystic fibrosis (non-CF) bronchiectasis is a chronic pulmonary disorder that causes destruction and permanent dilatation of the airways, resulting in excessive sputum production, repeated infection and inflammation. A need for high-quality and specialised care has been highlighted in recent years. N-acetylcysteine (NAC) is a widely used mucolytic agent in respiratory diseases that not only possesses a property to enhance secretion clearance, but also exhibits antioxidant and anti-inflammatory effects. However, the efficacy and safety of NAC are not well described in idiopathic or postinfective non-CF bronchiectasis.",
+        "journal": "BMJ open",
+        "year": "2022",
+        "authors": [
+          "Luo Ai",
+          "Liu Xuemei",
+          "Hu Qiongqiong",
+          "Yang Mei",
+          "Jiang Hongli"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Bronchiectasis",
+          "Humans",
+          "Meta-Analysis as Topic",
+          "Quality of Life",
+          "Research Design",
+          "Systematic Reviews as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35361640/"
+      },
+      {
+        "pmid": "40180519",
+        "title": "Effect of N-Acetylcysteine on Bronchiectasis in a Real-life Study. Data From the Spanish RIBRON Registry.",
+        "abstract": "There is scarce information about the most used mucolytic drug in bronchiectasis N-acetylcysteine (N-AC). Our objective was to analyze the effect of N-AC with respect to some outcomes in bronchiectasis.",
+        "journal": "Archivos de bronconeumologia",
+        "year": "2025",
+        "authors": [
+          "Oscullo Grace",
+          "Méndez Raúl",
+          "Olveira Casilda",
+          "Girón Rosa",
+          "García-Clemente Marta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bronchiectasis",
+          "Acetylcysteine",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Registries",
+          "Spain",
+          "Expectorants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40180519/"
+      },
+      {
+        "pmid": "37203858",
+        "title": "Rationale and evidence for the adjunctive use of N-acetylcysteine in multidrug-resistant infections.",
+        "abstract": "Bacterial multidrug resistance has been a serious issue for healthcare systems in recent decades, responsible for many infections and deaths. Due to the increasing incidence of antimicrobial resistance and scarce treatment options, research is focused on finding possible therapeutic adjuvants able to increase the efficacy of antibiotics. The aim of this article is a review of available evidence on the use of N-acetylcysteine (NAC). MEDLINE/PubMed was searched for appropriate keywords. In vitro and in vivo preclinical studies, clinical studies, reviews, and meta-analyses were retrieved and selected based on relevance. A narrative review article was written, reporting published evidence and the expert opinion of the authors. Among possible adjunctive treatments, NAC has attracted the interest of researchers as a candidate for re-purposing. It is a widely used drug with a good tolerability profile, mainly used as a mucolytic agent, with antioxidant, anti-inflammatory properties and antiba",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2023",
+        "authors": [
+          "Oliva A",
+          "Pallecchi L",
+          "Rossolini G M",
+          "Travaglino F",
+          "Zanatta P"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetylcysteine",
+          "Drug Resistance, Multiple, Bacterial",
+          "Anti-Bacterial Agents",
+          "Expectorants",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Klebsiella Infections",
+          "Klebsiella pneumoniae",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37203858/"
+      },
+      {
+        "pmid": "24789119",
+        "title": "Mucolytics for bronchiectasis.",
+        "abstract": "Bronchiectasis is predominantly an acquired disease process that represents the end stage of a variety of unrelated pulmonary insults. It is defined as persistent irreversible dilatation and distortion of medium-sized bronchi. It has been suggested that with widespread use of high-resolution computed tomography, more bronchiectasis diagnoses are being made. Patients diagnosed with bronchiectasis frequently have difficulty expectorating sputum. Sputum therefore is retained in the lungs and may become infected, leading to further lung damage. Mucolytic agents target hypersecretion or changed physiochemical properties of sputum to make it easier to clear. One drug, recombinant human DNase, breaks down the DNA that is released at the site of infection by neutrophils.Mucus clearance along with antimicrobial therapy remains an integral part of bronchiectasis management. Chest physiotherapy along with mucolytic agents is commonly used in practice without clear supportive evidence.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2014",
+        "authors": [
+          "Wilkinson Mark",
+          "Sugumar Karnam",
+          "Milan Stephen J",
+          "Hart Anna",
+          "Crockett Alan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bromhexine",
+          "Bronchiectasis",
+          "Deoxyribonucleases",
+          "Drug Therapy, Combination",
+          "Expectorants",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Recombinant Proteins",
+          "Thioglycolates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24789119/"
+      },
+      {
+        "pmid": "30975143",
+        "title": "Effect of N-acetylcysteine on exacerbations of bronchiectasis (BENE): a randomized controlled trial.",
+        "abstract": "N-acetylcysteine is a classic mucolytic agent. This study aimed to investigate the efficacy of N-acetylcysteine on reducing the risk of exacerbations in bronchiectasis patients.",
+        "journal": "Respiratory research",
+        "year": "2019",
+        "authors": [
+          "Qi Qian",
+          "Ailiyaer Yirepanjaing",
+          "Liu Ruijuan",
+          "Zhang Yan",
+          "Li Caiyu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adult",
+          "Aged",
+          "Bronchiectasis",
+          "Female",
+          "Follow-Up Studies",
+          "Free Radical Scavengers",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30975143/"
+      },
+      {
+        "pmid": "39549856",
+        "title": "The precision medicine strategy to treat COPD pulmonary traits in clinical practice: The role of N-acetylcysteine.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is a progressive lung condition and a leading cause of physical decline and death. COPD prevalence is expected to increase steadily in the coming years, and as a result, the healthcare and social burden of this condition will intensify. In this scenario, a patient-centric approach, the treatable trait (TT) strategy, based on the identification of traits that are clinically relevant, identifiable, monitorable and treatable, has emerged. The TT strategy, which considers behavioral/risk factors, as well as pulmonary and extrapulmonary traits, has shown to be a promising strategy in COPD management. This work reviews the TT strategy in COPD, giving special attention to the most relevant pulmonary traits, such as frequent productive cough, chronic bronchitis, type 2 inflammation, neutrophilic inflammation, lung hyperinflation, bronchiectasis, exacerbations and non-reversible airflow limitation. N-acetylcysteine (NAC), a widely used mucolytic agen",
+        "journal": "Respiratory medicine",
+        "year": "2024",
+        "authors": [
+          "Scioscia Giulia",
+          "Baraldi Federico",
+          "Bigoni Tommaso",
+          "Papi Alberto",
+          "Vatrella Alessandro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Acetylcysteine",
+          "Precision Medicine",
+          "Expectorants",
+          "Cough",
+          "Disease Progression",
+          "Bronchitis, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39549856/"
+      },
+      {
+        "pmid": "27492531",
+        "title": "The effect of N-acetylcysteine on biofilms: Implications for the treatment of respiratory tract infections.",
+        "abstract": "In airway infections, biofilm formation has been demonstrated to be responsible for both acute and chronic events, and constitutes a genuine challenge in clinical practice. Difficulty in eradicating biofilms with systemic antibiotics has led clinicians to consider the possible role of non-antibiotic therapy. The aim of this review is to examine current evidence for the use of N-acetylcysteine (NAC) in the treatment of biofilm-related respiratory infections.",
+        "journal": "Respiratory medicine",
+        "year": "2016",
+        "authors": [
+          "Blasi Francesco",
+          "Page Clive",
+          "Rossolini Gian Maria",
+          "Pallecchi Lucia",
+          "Matera Maria Gabriella"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Administration, Inhalation",
+          "Biofilms",
+          "Bronchiectasis",
+          "Bronchitis",
+          "Bronchitis, Chronic",
+          "Cystic Fibrosis",
+          "Expectorants",
+          "Humans",
+          "Injections, Intramuscular"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27492531/"
+      },
+      {
+        "pmid": "36344940",
+        "title": "The effect of N-acetylcysteine in patients with non-cystic fibrosis bronchiectasis (NINCFB): study protocol for a multicentre, double-blind, randomised, placebo-controlled trial.",
+        "abstract": "N-acetylcysteine (NAC), which is specifically involved in airway mucus clearance and antioxidation, is recommended by the treatment guideline for non-cystic fibrosis bronchiectasis (NCFB). However, there is little clinical evidence of its long-term efficacy concerning quality of life (QoL) and exacerbation in patients with NCFB. In addition, the influences of NAC on airway bacterial colonization, chronic inflammation and oxidative stress in NCFB are also unclear.",
+        "journal": "BMC pulmonary medicine",
+        "year": "2022",
+        "authors": [
+          "Liao Yue",
+          "Wu Yanqiu",
+          "Zi Kai",
+          "Shen Yongchun",
+          "Wang Tao"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetylcysteine",
+          "Quality of Life",
+          "Prospective Studies",
+          "RNA, Ribosomal, 16S",
+          "Anti-Bacterial Agents",
+          "Bronchiectasis",
+          "Double-Blind Method",
+          "Cystic Fibrosis",
+          "Fibrosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36344940/"
+      },
+      {
+        "pmid": "41229849",
+        "title": "What is the optimal dose of N-acetylcysteine in adult patients with bronchiectasis?-data from the RIBRON registry.",
+        "abstract": "Bronchiectasis is characterized by excessive respiratory secretions, the management of which is clinically significant. Among the available pharmacological treatments, mucolytics play a pivotal role. N-acetylcysteine (N-AC) is the most commonly used mucolytic; however, the optimal dosing regimen remains inadequately defined. The primary aim of the present study is to specifically evaluate the efficacy of 1,200 mg/day of N-AC compared to 600 mg/day in patients with bronchiectasis.",
+        "journal": "Journal of thoracic disease",
+        "year": "2025",
+        "authors": [
+          "Oscullo Grace",
+          "Méndez Raúl",
+          "Olveira Casilda",
+          "Girón Rosa",
+          "García-Clemente Marta"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41229849/"
+      },
+      {
+        "pmid": "6059205",
+        "title": "Laboratory and clinical evaluation of the mucolytic properties of acetylcysteine.",
+        "abstract": "",
+        "journal": "The American review of respiratory disease",
+        "year": "1967",
+        "authors": [
+          "Hurst G A",
+          "Shaw P B",
+          "LeMaistre C A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adult",
+          "Bronchiectasis",
+          "Cystic Fibrosis",
+          "Deoxyribonucleases",
+          "Detergents",
+          "Humans",
+          "Male",
+          "Radiography, Thoracic",
+          "Respiratory Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6059205/"
+      },
+      {
+        "pmid": "40761046",
+        "title": "To observe the effect of acetylcysteine combined with diphylline on pulmonary function and inflammatory response in children with bronchopneumonia.",
+        "abstract": "Bronchopneumonia is an extremely common respiratory disease in children, which may cause bronchiectasis, respiratory failure, and other complications. In this study, we observed the effect of acetylcysteine combined with diphylline in the treatment of bronchopneumonia. This includes the session time of the child's cough and wheezing symptoms, lung function, and the inflammatory response before and after treatment. In addition, we also counted the adverse reactions during the treatment of the children. The results of the study showed that children in the research group treated with acetylcysteine combined with diphylline had a shorter time to symptomatic relief compared to the control group using bronchopneumonia (P<0.05). Also, the lung function after treatment was better in the research group than in the control group, and the levels of inflammatory factors were lower in the research group than in the control group (P<0.05). There was no difference in the incidence of adverse reaction",
+        "journal": "Pakistan journal of pharmaceutical sciences",
+        "year": "2025",
+        "authors": [
+          "Zhang Lian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Humans",
+          "Male",
+          "Female",
+          "Bronchopneumonia",
+          "Child, Preschool",
+          "Lung",
+          "Drug Therapy, Combination",
+          "Child",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40761046/"
+      },
+      {
+        "pmid": "37318485",
+        "title": "Intravenous N-acetylcysteine in respiratory disease with abnormal mucus secretion.",
+        "abstract": "Evidence for the mucolytic and expectorant efficacy of intravenous (IV) N-acetylcysteine (NAC) is limited. This study aimed to evaluate in a large, multicenter, randomized, controlled, subject, and rater-blinded study whether IV NAC is superior to placebo and non-inferior to ambroxol in improving sputum viscosity and expectoration difficulty.",
+        "journal": "European review for medical and pharmacological sciences",
+        "year": "2023",
+        "authors": [
+          "Tang W",
+          "Zhu D",
+          "Wu F",
+          "Xu J-F",
+          "Yang J-P"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetylcysteine",
+          "Expectorants",
+          "Ambroxol",
+          "Respiration Disorders",
+          "Mucus",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37318485/"
+      },
+      {
+        "pmid": "22640851",
+        "title": "Pharmacologic agents for mucus clearance in bronchiectasis.",
+        "abstract": "There are no approved pharmacologic agents to enhance mucus clearance in non-cystic fibrosis (CF) bronchiectasis. Evidence supports the use of hyperosmolar agents in CF, and studies with inhaled mannitol and hypertonic saline are ongoing in bronchiectasis. N-acetylcysteine may act more as an antioxidant than a mucolytic in other lung diseases. Dornase α is beneficial to patients with CF, but is not useful in patients with non-CF bronchiectasis. Mucokinetic agents such as β-agonists have the potential to improve mucociliary clearance in normals and many disease states, but have not been adequately studied in patients with bronchiectasis.",
+        "journal": "Clinics in chest medicine",
+        "year": "2012",
+        "authors": [
+          "Nair Girish B",
+          "Ilowite Jonathan S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Bronchiectasis",
+          "Expectorants",
+          "Humans",
+          "Mannitol",
+          "Mucociliary Clearance",
+          "Saline Solution, Hypertonic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22640851/"
+      },
+      {
+        "pmid": "33326056",
+        "title": "Safety of N-Acetylcysteine at High Doses in Chronic Respiratory Diseases: A Review.",
+        "abstract": "N-Acetylcysteine (NAC) is widely used in respiratory medicine, with a maximum licensed dose in chronic use of 600 mg/day; however, some clinical trials have studied the efficacy of NAC at higher doses. The aim of this review was to evaluate the adverse effects profile of NAC at higher than the standard dose in chronic respiratory diseases to establish a risk-benefit ratio in increasing the daily dose; therefore, studies using NAC at a dose of at least 600 mg/day were selected. Forty-one articles where NAC has been used at 600 mg and above, up to 3000 mg/day, and with a specific report on safety, were considered. Most of the studies used oral NAC and were conducted on patients with chronic obstructive pulmonary disease, idiopathic pulmonary fibrosis, bronchiectasis, chronic bronchitis and cystic fibrosis. In general, the safety profile was similar at both the high and standard doses with the oral formulation; gastrointestinal symptoms were reported but they were no more common than in t",
+        "journal": "Drug safety",
+        "year": "2021",
+        "authors": [
+          "Calverley Peter",
+          "Rogliani Paola",
+          "Papi Alberto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33326056/"
+      },
+      {
+        "pmid": "36990700",
+        "title": "[Chinese experts consensus statement: diagnosis and treatment of cystic fibrosis (2023)].",
+        "abstract": "Cystic fibrosis (CF) is one of the most common autosomal recessive genetic diseases in Caucasians, but CF patients in China are rare, and it was listed as the first batch of rare diseases in China in 2018. In recent years, CF has been gradually recognized in China, and the number of CF patients reported in China in the past 10 years is more than 2.5 times the total number in the previous 30 years, and the total number of CF patients is estimated to be more than 20 000. The research progress of CF gene modification has led to the innovation of CF treatment. However, the sweat test as an important test for the diagnosis of CF has not been widely implemented in China. At present, the diagnosis and treatment of CF in China still lacks standardized recommendations. In view of these updates, the Chinese Experts Cystic Fibrosis Consensus Committee has formed \"the Chinese experts consensus statement: diagnosis and treatment of cystic fibrosis\" based on extensive opinion gathering, literatures ",
+        "journal": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+        "year": "2023",
+        "authors": [],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Male",
+          "Adrenal Cortex Hormones",
+          "Anti-Bacterial Agents",
+          "Bronchiectasis",
+          "Bronchodilator Agents",
+          "Chlorides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36990700/"
+      },
+      {
+        "pmid": "10229264",
+        "title": "The effects of S-carboxymethylcysteine and N-acetylcysteine on the adherence of Moraxella catarrhalis to human pharyngeal epithelial cells.",
+        "abstract": "We investigated the effects of two mucoregulating drugs, S-carboxymethylcysteine (S-CMC) and N-acetylcysteine (NAC), on the attachment of Moraxella catarrhalis (M. catarrhalis) to pharyngeal epithelial cells. The attachment of M. catarrhalis decreased (33-57%) significantly (P<0.01) in a dose-dependent manner in cells treated with mucoregulating drugs as compared to the control. There was a significant (P<0.01) decrease (35-45%) in the attachment of M. catarrhalis to pharyngeal cells after oral administration of S-CMC. By electron microscopic observation, it was found that there was a fine, granular, electron-dense, ruthenium red-positive layer on the surface of pharyngeal epithelial cells; this layer was absent on cell surfaces treated with mucoregulating drugs. Possibly, this layer contained the portion of M. catarrhalis receptor which is responsible for the attachment of this bacteria to pharyngeal epithelial cells. From the above results, it may be concluded that one of the mechani",
+        "journal": "Microbiology and immunology",
+        "year": "1999",
+        "authors": [
+          "Zheng C H",
+          "Ahmed K",
+          "Rikitomi N",
+          "Martinez G",
+          "Nagatake T"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetylcysteine",
+          "Adult",
+          "Aged",
+          "Asthma",
+          "Bacterial Adhesion",
+          "Bronchiectasis",
+          "Bronchitis",
+          "Carbocysteine",
+          "Epithelial Cells",
+          "Expectorants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10229264/"
+      },
+      {
+        "pmid": "31023284",
+        "title": "Employment of an algorithm of care including chest physiotherapy results in reduced hospitalizations and stability of lung function in bronchiectasis.",
+        "abstract": "There is a paucity of data on long term clinical effects of high frequency chest wall oscillation (HFCWO) in the Bronchiectasis population. Other therapies such as nebulized mucolytics and long term antibiotics have proven benefit on quality of life and exacerbation rate. In this study a treatment algorithm that included HFCWO as a component was initiated to see what the long term effects of the proposed algorithm were on lung function, antibiotic use, and exacerbation rates.",
+        "journal": "BMC pulmonary medicine",
+        "year": "2019",
+        "authors": [
+          "Powner Jordan",
+          "Nesmith Andrew",
+          "Kirkpatrick Denay P",
+          "Nichols Jessica K",
+          "Bermingham Brent"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Algorithms",
+          "Bronchiectasis",
+          "Chest Wall Oscillation",
+          "Databases, Factual",
+          "Disease Progression",
+          "Female",
+          "Forced Expiratory Volume",
+          "Hospitalization",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31023284/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:02:03.801395",
+  "success": true,
+  "error_message": null
+}

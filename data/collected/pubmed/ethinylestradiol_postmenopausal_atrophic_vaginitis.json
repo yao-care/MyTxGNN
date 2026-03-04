@@ -1,0 +1,44 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ethinylestradiol",
+    "disease": "postmenopausal atrophic vaginitis",
+    "query_string": "Ethinylestradiol AND postmenopausal atrophic vaginitis"
+  },
+  "data": {
+    "query": "Ethinylestradiol AND postmenopausal atrophic vaginitis",
+    "results": [
+      {
+        "pmid": "5282948",
+        "title": "A comparative study of the estrogenic potential of two synthetic estrogens (mestranol and ethinylestradiol).",
+        "abstract": "",
+        "journal": "Acta cytologica",
+        "year": "1971",
+        "authors": [
+          "Teter J",
+          "Stupnicki R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Amenorrhea",
+          "Cell Count",
+          "Epithelium",
+          "Ethinyl Estradiol",
+          "Female",
+          "Humans",
+          "Menopause",
+          "Mestranol",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5282948/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:02:05.066607",
+  "success": true,
+  "error_message": null
+}

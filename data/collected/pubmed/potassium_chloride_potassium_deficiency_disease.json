@@ -1,0 +1,577 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Potassium Chloride",
+    "disease": "potassium deficiency disease",
+    "query_string": "Potassium Chloride AND potassium deficiency disease"
+  },
+  "data": {
+    "query": "Potassium Chloride AND potassium deficiency disease",
+    "results": [
+      {
+        "pmid": "25861976",
+        "title": "Ion channels in innate and adaptive immunity.",
+        "abstract": "Ion channels and transporters mediate the transport of charged ions across hydrophobic lipid membranes. In immune cells, divalent cations such as calcium, magnesium, and zinc have important roles as second messengers to regulate intracellular signaling pathways. By contrast, monovalent cations such as sodium and potassium mainly regulate the membrane potential, which indirectly controls the influx of calcium and immune cell signaling. Studies investigating human patients with mutations in ion channels and transporters, analysis of gene-targeted mice, or pharmacological experiments with ion channel inhibitors have revealed important roles of ionic signals in lymphocyte development and in innate and adaptive immune responses. We here review the mechanisms underlying the function of ion channels and transporters in lymphocytes and innate immune cells and discuss their roles in lymphocyte development, adaptive and innate immune responses, and autoimmunity, as well as recent efforts to deve",
+        "journal": "Annual review of immunology",
+        "year": "2015",
+        "authors": [
+          "Feske Stefan",
+          "Wulff Heike",
+          "Skolnik Edward Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adaptive Immunity",
+          "Animals",
+          "Calcium Channels",
+          "Cation Transport Proteins",
+          "Humans",
+          "Hypersensitivity",
+          "Immunity, Innate",
+          "Immunologic Deficiency Syndromes",
+          "Immunotherapy",
+          "Ion Channels"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25861976/"
+      },
+      {
+        "pmid": "2650515",
+        "title": "Cardiovascular consequences of magnesium deficiency and loss: pathogenesis, prevalence and manifestations--magnesium and chloride loss in refractory potassium repletion.",
+        "abstract": "Dietary magnesium (Mg) deficiency is more prevalent than generally suspected and can cause cardiovascular lesions leading to disease at all stages of life. The average American diet is deficient in Mg, especially in the young, in alcoholic persons, and in those under stress or with diseases or receiving certain drug therapies, who have increased Mg needs. Otherwise normal, Mg-deficient diets cause arterial and myocardial lesions in all animals studied, and diets that are atherogenic, thrombogenic and cardiovasopathic, as well as Mg-deficient, intensify the cardiovascular lesions, whereas Mg supplementation prevents them. Diuretics and digitalis can intensify an underlying Mg deficiency, leading to cardiac arrhythmias that are refractory unless Mg is added to the regimen. Potassium (K) depletion in diuretic-treated hypertensive patients has been linked to an increased incidence of ventricular ectopy and sudden death. K supplementation alone is not the answer. Mg has been found to be nec",
+        "journal": "The American journal of cardiology",
+        "year": "1989",
+        "authors": [
+          "Seelig M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cardiovascular Agents",
+          "Cardiovascular Diseases",
+          "Chlorides",
+          "Diet",
+          "Female",
+          "Heart Diseases",
+          "Humans",
+          "Hypertension",
+          "Magnesium",
+          "Magnesium Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2650515/"
+      },
+      {
+        "pmid": "3543514",
+        "title": "Magnesium and potassium-sparing diuretics.",
+        "abstract": "One of the most common and serious side effects of diuretic therapy is in increased urinary loss of K. Another, although less well publicized, side effect of diuretic therapy is excessive urinary loss of Mg. In examining the effects of diuretics on Mg and K metabolism, the following factors should be taken into account: site of action and duration of action of diuretics, duration of treatment and dosage used, concurrent drug therapy, underlying disease conditions and dietary intake of Mg. Diuretics acting in the proximal tubule tend to have only minor effects on Mg excretion. Loop-blocking diuretics, however, cause major urinary losses of Mg. The Mg-wasting effects of loop-blocking diuretics have been demonstrated in large numbers of experimental and clinical studies, and the findings are consistent with micropuncture studies in laboratory animals which indicate the loop of Henle as the major site of Mg reabsorption. The effects of thiazide diuretics on Mg excretion are less well estab",
+        "journal": "Magnesium",
+        "year": "1986",
+        "authors": [
+          "Ryan M P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amiloride",
+          "Animals",
+          "Benzothiadiazines",
+          "Diuretics",
+          "Dose-Response Relationship, Drug",
+          "Furosemide",
+          "Humans",
+          "Kidney Tubules, Collecting",
+          "Kidney Tubules, Distal",
+          "Kidney Tubules, Proximal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3543514/"
+      },
+      {
+        "pmid": "35195759",
+        "title": "Potassium and the kidney: a reciprocal relationship with clinical relevance.",
+        "abstract": "By controlling urinary potassium excretion, the kidneys play a key role in maintaining whole-body potassium homeostasis. Conversely, low urinary potassium excretion (as a proxy for insufficient dietary intake) is increasingly recognized as a risk factor for the progression of kidney disease. Thus, there is a reciprocal relationship between potassium and the kidney: the kidney regulates potassium balance but potassium also affects kidney function. This review explores this relationship by discussing new insights into kidney potassium handling derived from recently characterized tubulopathies and studies on sexual dimorphism. These insights reveal a central but non-exclusive role for the distal convoluted tubule in sensing potassium and subsequently modifying the activity of the sodium-chloride cotransporter. This is another example of reciprocity: activation of the sodium-chloride cotransporter not only reduces distal sodium delivery and therefore potassium secretion but also increases ",
+        "journal": "Pediatric nephrology (Berlin, Germany)",
+        "year": "2022",
+        "authors": [
+          "Wieërs Michiel L A J",
+          "Mulder Jaap",
+          "Rotmans Joris I",
+          "Hoorn Ewout J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Kidney Diseases",
+          "Kidney Tubules, Distal",
+          "Potassium",
+          "Potassium, Dietary",
+          "Sodium Chloride Symporters",
+          "Solute Carrier Family 12, Member 3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35195759/"
+      },
+      {
+        "pmid": "40232853",
+        "title": "Potassium supplementation and depletion during development of salt-sensitive hypertension in male and female SS rats.",
+        "abstract": "The dietary sodium/potassium ratio is positively correlated with blood pressure, and understanding this relationship is crucial for improving hypertension treatment. Moreover, few studies have examined these effects in both sexes. In this study, we aimed to investigate how supplementing (1.41% K+; HK) or depleting (DK) dietary potassium affects the development of salt-sensitive (SS) hypertension in male and female Dahl SS rats. Potassium supplementation attenuated blood pressure during 5 weeks of high-salt (4% NaCl) diet in male but not in female rats. In contrast, a potassium-deficient diet prevented the development of salt-induced hypertension in both sexes, though this effect is unlikely to be protective. Both males and females on the DK diet were hypokalemic and had diminished heart rates and reduced weight gain; furthermore, females experienced high mortality. RNA-Seq of kidney cortical tissue revealed a number of genes that may underlie the sex-specific differences in phenotype. ",
+        "journal": "JCI insight",
+        "year": "2025",
+        "authors": [
+          "Zietara Adrian",
+          "Dissanayake Lashodya V",
+          "Lowe Melissa",
+          "Xu Biyang",
+          "Levchenko Vladislav"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Male",
+          "Female",
+          "Hypertension",
+          "Rats",
+          "Rats, Inbred Dahl",
+          "Sodium Chloride, Dietary",
+          "Potassium",
+          "Dietary Supplements",
+          "Blood Pressure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40232853/"
+      },
+      {
+        "pmid": "39962509",
+        "title": "Sodium butyrate attenuates microglia-mediated neuroinflammation by modulating the TLR4/MyD88/NF-κB pathway and microbiome-gut-brain axis in cardiac arrest mice.",
+        "abstract": "Cardiac arrest (CA) is one of the most common illnesses worldwide. Post-CA brain injury (PCABI) is a major cause of death and poor recovery in CA patients and the current CA treatments are not very effective. The microbiome-gut-brain axis has been found to significantly affect brain ischemia injury. Furthermore, in ischemic stroke patients, short-chain fatty acids (SCFA), especially sodium butyrate (SB), have been observed to promote neuroprotective effects by modulating inflammatory response and microglial polarization in the cortex. However, the precise mechanism of SB on CA-induced injury remains elusive. Therefore, this research study established an oxygen-glucose deprivation and reoxygenation (OGD/R) model using BV-2 microglial and HT22 cells to simulate cerebral ischemia/reperfusion injury in vitro and a potassium chloride-induced CA mouse model to mimic CA in vivo. The data revealed that SB markedly improved neurological scores and reduced neuronal death and apoptosis. Moreover,",
+        "journal": "Molecular brain",
+        "year": "2025",
+        "authors": [
+          "Sun Jianfei",
+          "Lu Liping",
+          "Lian Yingtao",
+          "Xu Song",
+          "Zhu Ying"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Toll-Like Receptor 4",
+          "Microglia",
+          "Myeloid Differentiation Factor 88",
+          "NF-kappa B",
+          "Signal Transduction",
+          "Neuroinflammatory Diseases",
+          "Gastrointestinal Microbiome",
+          "Butyric Acid",
+          "Heart Arrest"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39962509/"
+      },
+      {
+        "pmid": "748377",
+        "title": "Hypophosphatemia and rhabdomyolysis.",
+        "abstract": "Clinical observations suggest that overt rhabdomyolysis may occur if severe hypophosphatemia is superimposed upon a pre-existing subclinical myopathy. To examine this possibility, a subclinical muscle cell injury was induced in 23 dogs by feeding them a phosphorus- and calorie-deficient diet until they lost 30% of their original weight. To induce acute, severe hypophosphatemia in the animals after partial starvation, 17 of the dogs were given large quantities of the same phosphorus-deficient diet in conjunction with an oral carbohydrate supplement, which together provided 140 kcal/kg per day. After phosphorus and caloric deprivation, serum phosphorus and creatine phosphokinase (CPK) activity were normal. Total muscle phosphorus content fell from 28.0+/-1.3 to 26.1+/-2.5 mmol/dg fat-free dry solids. Sodium, chloride, and water contents rose. These changes resembled those observed in patients with subclinical alcoholic myopathy. When studied after 3 days of hyperalimentation, the animals",
+        "journal": "The Journal of clinical investigation",
+        "year": "1978",
+        "authors": [
+          "Knochel J P",
+          "Barcenas C",
+          "Cotton J R",
+          "Fuller T J",
+          "Haller R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Chlorides",
+          "Creatine Kinase",
+          "Dogs",
+          "Infusions, Parenteral",
+          "Male",
+          "Muscles",
+          "Muscular Diseases",
+          "Phosphates",
+          "Phosphorus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/748377/"
+      },
+      {
+        "pmid": "33391739",
+        "title": "Dietary potassium and the kidney: lifesaving physiology.",
+        "abstract": "Potassium often has a negative connotation in Nephrology as patients with chronic kidney disease (CKD) are prone to develop hyperkalaemia. Approaches to the management of chronic hyperkalaemia include a low potassium diet or potassium binders. Yet, emerging data indicate that dietary potassium may be beneficial for patients with CKD. Epidemiological studies have shown that a higher urinary potassium excretion (as proxy for higher dietary potassium intake) is associated with lower blood pressure (BP) and lower cardiovascular risk, as well as better kidney outcomes. Considering that the composition of our current diet is characterized by a high sodium and low potassium content, increasing dietary potassium may be equally important as reducing sodium. Recent studies have revealed that dietary potassium modulates the activity of the thiazide-sensitive sodium-chloride cotransporter in the distal convoluted tubule (DCT). The DCT acts as a potassium sensor to control the delivery of sodium to",
+        "journal": "Clinical kidney journal",
+        "year": "2020",
+        "authors": [
+          "Wei Kuang-Yu",
+          "Gritter Martin",
+          "Vogt Liffert",
+          "de Borst Martin H",
+          "Rotmans Joris I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33391739/"
+      },
+      {
+        "pmid": "36639120",
+        "title": "Pathophysiologic approach in genetic hypokalemia: An update.",
+        "abstract": "The pathophysiology of genetic hypokalemia is close to that of non-genetic hypokalemia. New molecular pathways physiologically involved in renal and extrarenal potassium homeostasis have been highlighted. A physiological approach to diagnosis is illustrated here, with 6 cases. Mechanisms generating and sustaining of hypokalemia are discussed. After excluding acute shift of extracellular potassium to the intracellular compartment, related to hypokalemic periodic paralysis, inappropriate kaliuresis (>40mmol/24h) concomitant to hypokalemia indicates renal potassium wasting. Clinical analysis distinguishes hypertension-associated hypokalemia, due to hypermineralocorticism or related disorders. Genetic hypertensive hypokalemia is rare. It includes familial hyperaldosteronism, Liddle syndrome, apparent mineralocorticoid excess,11beta hydroxylase deficiency and Geller syndrome. In case of normo- or hypo-tensive hypokalemia, two etiologies are to be considered: chloride depletion or salt-wasti",
+        "journal": "Annales d'endocrinologie",
+        "year": "2023",
+        "authors": [
+          "Blanchard Anne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hypokalemia",
+          "Chlorides",
+          "Bartter Syndrome",
+          "Potassium",
+          "Hyperaldosteronism",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36639120/"
+      },
+      {
+        "pmid": "7199542",
+        "title": "Chloride deficiency in Holstein calves from a low chloride diet and removal of abomasal contents.",
+        "abstract": "Chloride deficiency signs were produced in young Holstein calves by a low chloride diet (.063% chlorine) and daily removal of chloride in abomasal contents. General clinical signs included anorexia, weights loss, lethargy, mild polydipsia, and mild polyuria. In latter stages of the deficiency, severe eye defects (scleral injection, sunken eyes, scaliness around eyes) and reduced respiration rate became evident. Feces contained varying amounts of blood and mucus. The chloride imbalance resulted in severe alkalosis and hypochloremia leading to secondary hypokalemia, hyponatremia, and azotemia. All deficient calves died after 24, 28, 38, and 46 days of treatment. Chloride concentrations of plasma in each of the calves just prior to death were similar at 31 to 35 meq/liter, which compares with normal 96 meq/liter. One additional calf made chloride deficient was recovered to normal health in 9 days following a single treatment with salt water and feeding of control diet containing .48% chlo",
+        "journal": "Journal of dairy science",
+        "year": "1981",
+        "authors": [
+          "Neathery M W",
+          "Blackmon D M",
+          "Miller W J",
+          "Heinmiller S",
+          "McGuire S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Abomasum",
+          "Acid-Base Equilibrium",
+          "Animals",
+          "Blood Urea Nitrogen",
+          "Cattle",
+          "Cattle Diseases",
+          "Chlorides",
+          "Deficiency Diseases",
+          "Diet",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7199542/"
+      },
+      {
+        "pmid": "1534475",
+        "title": "Taurine depletion and cardiovascular disease in adult cats fed a potassium-depleted acidified diet.",
+        "abstract": "Although low plasma taurine concentrations have been associated with congestive cardiomyopathy in cats, the cause of taurine depletion in cats consuming adequate quantities of taurine is unknown. Taurine depletion and cardiovascular disease (cardiomyopathy and thromboembolism) developed unexpectedly in 3 of 6 healthy adult cats during a potassium-depletion study. Plasma taurine concentration decreased significantly (P less than 0.05) and rapidly over an 8-week period (from 98 to 36 nmol/ml) in 6 cats that consumed a potassium-deficient diet (0.20% potassium, dry matter basis) that was acidified with 0.8% ammonium chloride, despite containing dietary taurine concentrations (0.12% dry matter basis) in excess of amounts currently recommended. Taurine concentrations were significantly lower in cats fed the acidified diet than in 6 cats fed a potassium-deficient diet that was not acidified (36 nmol/ml vs 75 nmol/ml) after 8 weeks. In addition, plasma taurine concentrations did not decrease ",
+        "journal": "American journal of veterinary research",
+        "year": "1992",
+        "authors": [
+          "Dow S W",
+          "Fettman M J",
+          "Smith K R",
+          "Ching S V",
+          "Hamar D W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Ammonium Chloride",
+          "Animal Feed",
+          "Animals",
+          "Cardiovascular Diseases",
+          "Cat Diseases",
+          "Cats",
+          "Female",
+          "Male",
+          "Potassium",
+          "Potassium Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1534475/"
+      },
+      {
+        "pmid": "13194326",
+        "title": "Total body chloride of children in potassium deficiency and under circumstances of poor nutrition.",
+        "abstract": "",
+        "journal": "Pediatrics",
+        "year": "1954",
+        "authors": [
+          "CHEEK D B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Chlorides",
+          "Deficiency Diseases",
+          "Humans",
+          "Infant",
+          "Potassium",
+          "Potassium Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13194326/"
+      },
+      {
+        "pmid": "39693096",
+        "title": "Potassium Nitrate in Heart Failure With Preserved Ejection Fraction: A Randomized Clinical Trial.",
+        "abstract": "Nitric oxide deficiency may contribute to exercise intolerance in patients with heart failure with preserved ejection fraction (HFpEF). Prior pilot studies have shown improvements in exercise tolerance with single-dose and short-term inorganic nitrate administration.",
+        "journal": "JAMA cardiology",
+        "year": "2025",
+        "authors": [
+          "Zamani Payman",
+          "Shah Sanjiv J",
+          "Cohen Jordana B",
+          "Zhao Manyun",
+          "Yang Wei"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Cross-Over Studies",
+          "Double-Blind Method",
+          "Exercise Test",
+          "Exercise Tolerance",
+          "Heart Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39693096/"
+      },
+      {
+        "pmid": "9842116",
+        "title": "Interventional nutrition for cardiac disease.",
+        "abstract": "Animals with cardiac disease can have a variety of nutritional alterations for which interventional nutrition can be beneficial. Deviation from optimal body weight, both obesity and cachexia, is a common problem in cardiac patients and adversely affects the animal. Methods for maintaining optimal weight are important for good quality of life in dogs and cats with cardiac disease. Providing proper diets to prevent excess intake of sodium and chloride also is important, but severe salt restriction may not be necessary until later stages of disease. Certain nutrient deficiencies may play a role in the pathogenesis or complications of cardiac disease, but nutrients also may have effects on cardiac disease which are above and beyond their nutritional effects (nutritional pharmacology). Supplementation of nutrients such as taurine, carnitine, coenzyme Q10, and omega-3 polyunsaturated fatty acids may have benefits in dogs or cats with cardiac disease through a number of different mechanisms. ",
+        "journal": "Clinical techniques in small animal practice",
+        "year": "1998",
+        "authors": [
+          "Freeman L M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antioxidants",
+          "Cachexia",
+          "Cat Diseases",
+          "Cats",
+          "Coenzymes",
+          "Dietary Supplements",
+          "Dog Diseases",
+          "Dogs",
+          "Fatty Acids, Omega-3"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9842116/"
+      },
+      {
+        "pmid": "6389078",
+        "title": "Endocrine physiology of electrolyte metabolism.",
+        "abstract": "Historically, the sodium ion has been given prominence in relation to cardiovascular disease, perhaps to the exclusion of other ions. Recently, other ions, including chloride, potassium, magnesium and calcium have received increasing attention in relation to hypertension, cardiac arrhythmias, and metabolic derangements. Endocrine factors controlling these ions have also received increasing attention; they include classic hormonal actions as well as neurotransmission and paracrine hormonal actions. Studies indicate that control of the renin-angiotensin-aldosterone system resides in cytosolic calcium ion levels in the juxtaglomerular cell, as well as chloride ion and prostaglandins at the macula densa. Renin release is stimulated by hyperpolarisation of the juxtaglomerular cell induced by beta 1-agonists, parathyroid hormone, glucagon, magnesium and low cytosol calcium. Renin release is inhibited by high calcium, potassium and angiotensin II. Subsequent to renin release, hormonal regulat",
+        "journal": "Drugs",
+        "year": "1984",
+        "authors": [
+          "Dawson K G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Animals",
+          "Calcium",
+          "Chlorides",
+          "Electrolytes",
+          "Hormones",
+          "Humans",
+          "Magnesium",
+          "Natriuretic Agents",
+          "Potassium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6389078/"
+      },
+      {
+        "pmid": "8839870",
+        "title": "Modulation of erythrocyte potassium chloride cotransport, potassium content, and density by dietary magnesium intake in transgenic SAD mouse.",
+        "abstract": "Prevention of erythrocyte dehydration is a potential therapeutic strategy for sickle cell disease. Increasing erythrocyte magnesium (Mg) could inhibit sickle cell dehydration by increasing chloride (CI) and water content and by inhibiting potassium chloride (K-CI) cotransport. In transgenic SAD 1 and (control) C57BL/6 normal mice, we investigated the effect of 2 weeks of diet with either low Mg (6 +/- 2 mg/kg body weight/d) or high Mg (1,000 +/- 20 mg/kg body weight/ d), in comparison with a diet of standard Mg (400 +/- 20 mg/ kg body weight/d). The high-Mg diet increased SAD 1 erythrocyte Mg and K contents and reduced K-CI cotransport activity, mean corpuscular hemoglobin concentration (MCHC), cell density, and reticulocyte count. SAD 1 mice treated with low-Mg diet showed a significant reduction in erythrocyte Mg and K contents and increases in K-CI cotransport, MCHC, cell density, and reticulocyte counts. In SAD 1 mice, hematocrit (Hct) and hemoglobin (Hb) decreased significantly wi",
+        "journal": "Blood",
+        "year": "1996",
+        "authors": [
+          "De Franceschi L",
+          "Beuzard Y",
+          "Jouault H",
+          "Brugnara C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anemia, Sickle Cell",
+          "Animals",
+          "Biological Transport",
+          "Carrier Proteins",
+          "Chlorides",
+          "Diet",
+          "Disease Models, Animal",
+          "Erythrocytes, Abnormal",
+          "Female",
+          "Hematocrit"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8839870/"
+      },
+      {
+        "pmid": "33080306",
+        "title": "Potassium: A key modulator for cell homeostasis.",
+        "abstract": "Potassium (K) is the most vital and abundant macro element for the overall growth of plants and its deficiency or, excess concentration results in many diseases in plants. It is involved in regulation of many crucial roles in plant development. Depending on soil-root interactions, complex soil dynamics often results in unpredictable availability of the elements. Based on the importance index, K is considered to be the second only to nitrogen for the overall growth of plants. More than 60 enzymes within the plant system depend on K for its activation, in which K act as a key regulator. K helps plants to resist several abiotic and biotic stresses in the environment. We have reviewed the research progress about K's role in plants covering various important considerations of K highlighting the effects of microbes on soil K+; K and its contribution to adsorbed dose in plants; the importance of K+ deficiency; physiological functions of K+ transporters and channels; and interference of abioti",
+        "journal": "Journal of biotechnology",
+        "year": "2020",
+        "authors": [
+          "Kumar Prasann",
+          "Kumar Tapan",
+          "Singh Simranjeet",
+          "Tuteja Narendra",
+          "Prasad Ram"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Gene Expression Regulation, Plant",
+          "Homeostasis",
+          "Plant Development",
+          "Plants",
+          "Potassium",
+          "Stress, Physiological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33080306/"
+      },
+      {
+        "pmid": "7639622",
+        "title": "Nitric oxide and bronchial hyperresponsiveness.",
+        "abstract": "Increasing evidence points to an important role for nitric oxide in the regulation of pulmonary functions and in pulmonary disease. In the respiratory tract, sensory nerves, endothelial cells, vascular and airway smooth muscle cells, inflammatory cells and the airway epithelium are sources of nitric oxide. Different nitric oxide synthases have been isolated, cloned and sequenced. Functionally, there are constitutive and inducible forms of nitric oxide synthase. A number of cytokines have been shown to inhibit or induce the expression of the inducible nitric oxide synthase. In human airways, endogenous nitric oxide appears to account for the bronchodilator nonadrenergic and noncholinergic response. Nitric oxide-containing vasodilators, such as glyceryl trinitrate and sodium nitroprusside, induce relaxation of the isolated airway smooth muscle, activate guanylate cyclase and raise c-GMP levels. Nitric oxide (constitutive), produced by the epithelial layer, appears to be important in blun",
+        "journal": "Archives internationales de pharmacodynamie et de therapie",
+        "year": "1995",
+        "authors": [
+          "Nijkamp F P",
+          "Folkerts G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Asthma",
+          "Bronchi",
+          "Humans",
+          "Muscle, Smooth",
+          "Nitric Oxide",
+          "Respiration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7639622/"
+      },
+      {
+        "pmid": "40244361",
+        "title": "Acetyl-CoA synthetase 2 alleviates brain injury following cardiac arrest by promoting autophagy in brain microvascular endothelial cells.",
+        "abstract": "Brain injury is a common sequela following cardiac arrest (CA), with up to 70% of hospitalized patients dying from it. Brain microvascular endothelial cells (BMVECs) play a crucial role in post-cardiac arrest brain injury (PCABI). However, the effects and mechanisms of targeting BMVEC energy metabolism to mitigate brain injury remain unclear.",
+        "journal": "Cellular and molecular life sciences : CMLS",
+        "year": "2025",
+        "authors": [
+          "Zhang Wenbin",
+          "Yu Xin",
+          "Lin Yao",
+          "Wu Chenghao",
+          "Zhu Ruojie"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Autophagy",
+          "Endothelial Cells",
+          "Mice, Knockout",
+          "Mice",
+          "Brain",
+          "Heart Arrest",
+          "Energy Metabolism",
+          "Brain Injuries",
+          "Acetate-CoA Ligase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40244361/"
+      },
+      {
+        "pmid": "11596856",
+        "title": "Guanylin and related peptides.",
+        "abstract": "Guanylin and uroguanylin are short peptides homologous to heat-stable enterotoxins of Escherichia coli and other enteric bacteria. Guanylin and uroguanylin are synthetized from the respective prepropeptides mainly in gastrointestinal mucosa and are secreted both into intestinal lumen and into the blood. Luminally secreted peptides stimulate chloride and bicarbonate secretion in the intestine through the mechanism involving guanylate cyclase C receptor, cyclic GMP, protein kinase G and cystic fibrosis transmembrane conductance regulator (CFTR) chloride channel. Bacterial enterotoxins, which have greater potency than endogenous peptides, induce excessive fluid secretion into intestinal lumen leading to secretory diarhea. Uroguanylin is expressed mainly in enterochromaffin cells of duodenum and proximal small intestine whereas guanylin is abundant in goblet cells of colonic epithelium. Uroguanylin and guanylin increase urinary sodium and potassium excretion both as circulating hormones an",
+        "journal": "Journal of physiology and pharmacology : an official journal of the Polish Physiological Society",
+        "year": "2001",
+        "authors": [
+          "Bełtowski J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Animals",
+          "Cystic Fibrosis Transmembrane Conductance Regulator",
+          "Digestive System Physiological Phenomena",
+          "Gastrointestinal Hormones",
+          "Guanylate Cyclase",
+          "Humans",
+          "Kidney",
+          "Molecular Sequence Data",
+          "Natriuretic Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11596856/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:59:37.048590",
+  "success": true,
+  "error_message": null
+}

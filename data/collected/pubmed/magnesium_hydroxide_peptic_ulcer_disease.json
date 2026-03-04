@@ -1,0 +1,525 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Magnesium Hydroxide",
+    "disease": "peptic ulcer disease",
+    "query_string": "Magnesium Hydroxide AND peptic ulcer disease"
+  },
+  "data": {
+    "query": "Magnesium Hydroxide AND peptic ulcer disease",
+    "results": [
+      {
+        "pmid": "20271751",
+        "title": "Aluminum hydroxide and magnesium trisilicate plus mucin in treatment of peptic ulcer; gastroscopic and clinical studies.",
+        "abstract": "",
+        "journal": "Archives of surgery (Chicago, Ill. : 1920)",
+        "year": "1947",
+        "authors": [
+          "HARDT L L",
+          "BRODT L P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Aluminum Hydroxide",
+          "Gastroscopy",
+          "Humans",
+          "Magnesium",
+          "Magnesium Silicates",
+          "Mucins",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20271751/"
+      },
+      {
+        "pmid": "15425465",
+        "title": "Aluminum hydroxide and magnesium trisilicate plus mucin in the treatment of 125 patients with peptic ulcer.",
+        "abstract": "",
+        "journal": "The American journal of digestive diseases",
+        "year": "1950",
+        "authors": [
+          "HARDT L L",
+          "STEIGMANN F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum",
+          "Aluminum Compounds",
+          "Aluminum Hydroxide",
+          "Magnesium",
+          "Magnesium Silicates",
+          "Mucins",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15425465/"
+      },
+      {
+        "pmid": "6755653",
+        "title": "Antacids and hormones.",
+        "abstract": "Antacids are neutralizing compounds which have been shown to hasten ulcer healing and to prevent bleeding from stress ulcerations. Owing to gastric alkalinization, gastrin will be released following antacid ingestion, a condition similar to that following the ingestion of a meal. Gastrin release and, more important, acid rebound also occur when the gastric mucosa comes into contact with calcium chloride. These findings indicate that acid rebound is independent of antral neutralization. Acid rebound and gastrin release will also be induced in duodenal ulcer patients by magnesium hydroxide. The magnitude of acid rebound represents one fourth to one third of the peak acid response to pentagastrin and is more marked following calcium than magnesium antacid intake. The mechanism of acid rebound may be in part due to gastrin release, but may also be due to the direct effect of calcium on the parietal cell. In the duodenum, calcium and magnesium evoke pancreatic enzyme secretion and gall blad",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1982",
+        "authors": [
+          "Holtermüller K H",
+          "Dehdaschti M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antacids",
+          "Bile",
+          "Calcium Carbonate",
+          "Gastric Mucosa",
+          "Gastrins",
+          "Gastrointestinal Hormones",
+          "Hormones",
+          "Humans",
+          "Intestinal Mucosa",
+          "Magnesium Hydroxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6755653/"
+      },
+      {
+        "pmid": "37146",
+        "title": "[Therapy with antacids].",
+        "abstract": "The usefulness of antacids in peptic ulcer disease is based on their ability to neutralize secreted gastric acid and to inhibit pepsin activity. The neutralizing capacity (expressed as mval of neutralized hydrochloric acid at a given pH) of different antacids depends upon their chemical composition. To achieve adequate neutralization of stimulated gastric acid secretion antacids have to be taken one and three hours after a meal in a dosage neutralizing 40-80 mval of acid. So far antacids have not been shown to be more effective in relieving ulcer symptoms than placebo. On the contrary an adequate antacid regimen will promote the healing of both gastric and duodenal ulcers in outpatients. Furthermore antacid prophylaxis will reduce the occurrence of acute gastrointestinal bleeding in critically ill patients.",
+        "journal": "Fortschritte der Medizin",
+        "year": "1979",
+        "authors": [
+          "Holtermüller K H"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Calcium Carbonate",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Magnesium Hydroxide",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37146/"
+      },
+      {
+        "pmid": "6293043",
+        "title": "Antacid therapy--changes in mineral metabolism.",
+        "abstract": "Antacid ingestion may lead to side-effects related to their chemical composition. Aluminum hydroxide may cause the phosphate depletion syndrome even during short-term administration of high doses in patients at high risk, such as alcoholics. Long-term intake may lead to bone demineralization and to osteomalacia. Fluoride complexing in the gut and prevention of fluoride absorption may be an additional factor. The clinical relevance of aluminum absorption in patients with normal renal function is not clear. In contrast, in patients with renal failure, aluminum hydroxide ingestion may contribute to an increasing hyperaluminemia. Hyperaluminemia and tissue deposition of aluminum in these patients may contribute to the dialysis-associated encephalopathy. Magnesium hydroxide causes an alkalinization of the urine due to magnesium absorption and urinary excretion. Thus, in renal insufficiency, a life-threatening hypermagnesemia may develop if magnesium-aluminum-containing antacids are prescrib",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1982",
+        "authors": [
+          "Herzog P",
+          "Holtermüller K H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Calcium Carbonate",
+          "Drug Combinations",
+          "Humans",
+          "Magnesium",
+          "Magnesium Hydroxide",
+          "Magnesium Silicates",
+          "Minerals"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6293043/"
+      },
+      {
+        "pmid": "4571693",
+        "title": "Caved-S and Ulcedal for peptic ulcer.",
+        "abstract": "",
+        "journal": "Drug and therapeutics bulletin",
+        "year": "1973",
+        "authors": [],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Bismuth",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Duodenal Ulcer",
+          "Glycyrrhiza",
+          "Humans",
+          "Magnesium Hydroxide",
+          "Peptic Ulcer",
+          "Plant Extracts"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4571693/"
+      },
+      {
+        "pmid": "4813464",
+        "title": "Antacids.",
+        "abstract": "",
+        "journal": "American family physician",
+        "year": "1974",
+        "authors": [
+          "Hendrix T R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Calcium Carbonate",
+          "Duodenal Ulcer",
+          "Gastroesophageal Reflux",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Hydroxides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4813464/"
+      },
+      {
+        "pmid": "6613216",
+        "title": "Absence of in vivo and in vitro interactions of an aluminum hydroxide, magnesium hydroxide containing antacid with cimetidine in patients with peptic ulcer.",
+        "abstract": "In view of contradictory reports on the bioavailability of cimetidine in the presence of concomitantly administered antacids we studied the areas under the plasma concentration time curves (AUC) of cimetidine, the maximal concentrations (cmax) and the time, at which cmax was reached (tmax) in eight patients (five patients with duodenal ulcer, three patients with gastric ulcer) with and without the administration of an aluminum hydroxide magnesium hydroxide containing antacid (Maaloxan). No significant effects of the antacid on AUC, cmax and tmax of cimetidine were found. In vitro studies also showed no adsorption of cimetidine to aluminum hydroxide, magnesium hydroxide or the antacid.",
+        "journal": "Zeitschrift fur Gastroenterologie",
+        "year": "1983",
+        "authors": [
+          "Allgayer H",
+          "Röllinghoff W",
+          "Paumgartner G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aluminum Hydroxide",
+          "Biological Availability",
+          "Cimetidine",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Female",
+          "Guanidines",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6613216/"
+      },
+      {
+        "pmid": "8641951",
+        "title": "Effect of aluminum hydroxide/magnesium hydroxide antacid and bismuth subsalicylate on gastric pH in horses.",
+        "abstract": "To assess the effect of aluminum hydroxide/magnesium hydroxide antacid and bismuth subsalicylate on gastric pH in clinically normal horses and to develop guidelines on the use of these agents for treatment of peptic ulcer disease in horses.",
+        "journal": "Journal of the American Veterinary Medical Association",
+        "year": "1996",
+        "authors": [
+          "Clark C K",
+          "Merritt A M",
+          "Burrow J A",
+          "Steible C K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aluminum Hydroxide",
+          "Animals",
+          "Antacids",
+          "Bismuth",
+          "Drug Therapy, Combination",
+          "Female",
+          "Gastric Acidity Determination",
+          "Gastric Mucosa",
+          "Horse Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8641951/"
+      },
+      {
+        "pmid": "1500660",
+        "title": "Calcium and acid rebound: a reappraisal.",
+        "abstract": "We review acid rebound, the seemingly paradoxical increase in acid secretion resulting from administration of an antacid. Primarily a laboratory observation, the demonstration of the phenomenon was a major contributing factor to the swift, and possibly unjustified, fall from grace of calcium carbonate in the therapy of peptic ulcer disease despite years of apparently successful use. Calcium, as carbonate or other salts, causes an increase in gastric acid secretion owing, at least in part, to direct ionic stimulation. Another possible mode of action involves antral alkalinization with subsequent gastrin release. Other antacids, notably magnesium hydroxide and aluminum hydroxide, may therefore also cause rebound, but the data in this area are less convincing. Despite the demonstration that acid rebound occurs, no one has thoroughly investigated its clinical import. What limited data actually exist suggest no obvious clinically significant deleterious effect from use of calcium carbonate ",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "1992",
+        "authors": [
+          "Hade J E",
+          "Spiro H M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Antacids",
+          "Calcium Carbonate",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Gastric Acid",
+          "Gastric Mucosa",
+          "Humans",
+          "Hydrogen-Ion Concentration",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1500660/"
+      },
+      {
+        "pmid": "13197355",
+        "title": "Magnesium aluminum hydroxide gel in the antacid therapy of peptic ulcer.",
+        "abstract": "",
+        "journal": "The American journal of gastroenterology",
+        "year": "1954",
+        "authors": [
+          "MORRISON S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Drug Combinations",
+          "Magnesium",
+          "Magnesium Hydroxide",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13197355/"
+      },
+      {
+        "pmid": "20278299",
+        "title": "Colloidal aluminum hydroxide gel and magnesium hydroxide in the management of peptic ulcers.",
+        "abstract": "",
+        "journal": "The American journal of digestive diseases",
+        "year": "1947",
+        "authors": [
+          "JANKELSON I R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Humans",
+          "Magnesium Hydroxide",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20278299/"
+      },
+      {
+        "pmid": "2401189",
+        "title": "Peptic disease in paediatric patients: a diagnostic and therapeutic contribution.",
+        "abstract": "A retrospective clinical study was conducted in 267 children referred to the Verona University Institute of Paediatrics over the period from June 1985 to May 1989 for peptic symptoms. The aim was to obtain data on the incidence of peptic disease in paediatric patients and on the efficacy of various types of pharmacological active principles in treatment of the acute phase and of relapses. All cases observed were subjected to endoscopy (also combined with biopsy in cases presenting signs of inflammatory ulcer disease), which revealed the presence of mucosal abnormalities in 125 patients (46.8%), diagnosed as follows: oesophagitis (44 cases), gastritis and duodenitis (73 cases) and peptic ulcer (8 cases). Among the drugs used, ranitidine proved highly effective, producing healing in all cases reporting for follow-up, and showed excellent tolerability.",
+        "journal": "Drugs under experimental and clinical research",
+        "year": "1990",
+        "authors": [
+          "Deganello A",
+          "Tamassia G",
+          "Gaburro D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Aluminum Hydroxide",
+          "Child",
+          "Child, Preschool",
+          "Duodenal Ulcer",
+          "Duodenitis",
+          "Endoscopy",
+          "Esophagitis",
+          "Female",
+          "Gastritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2401189/"
+      },
+      {
+        "pmid": "22950493",
+        "title": "Gastric cytoprotection beyond prostaglandins: cellular and molecular mechanisms of gastroprotective and ulcer healing actions of antacids.",
+        "abstract": "This article updates current views on gastric mucosal defense, injury, protection and ulcer healing with a focus on mucosal protective and ulcer healing actions of antacids. The gastric mucosa is continuously exposed to a variety of noxious factors, both endogenous such as: 0.1N hydrochloric acid, pepsin, bile acids, lysolecithin, H. pylori toxins and exogenous such as NSAIDs, ethanol and others. Gastric mucosal integrity is maintained by pre-epithelial, epithelial and post-epithelial defense mechanisms permitting the mucosa to withstand exposure to the above damaging factors. When mucosal defense is weakened or overwhelmed by injurious factors, injury develops in the form of erosions or ulcers. In the late 1970s Andre Robert and coworkers discovered that microgram amounts of a prostaglandin E2 analog protects the gastric mucosa against a variety of ulcerogenic and necrotizing agents - even such strong inducers of injury as 100% ethanol and boiling water. They proposed a new concept of",
+        "journal": "Current pharmaceutical design",
+        "year": "2013",
+        "authors": [
+          "Tarnawski Andrzej",
+          "Ahluwalia Amrita",
+          "Jones Michael K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Animals",
+          "Antacids",
+          "Anti-Ulcer Agents",
+          "Dinoprostone",
+          "Ethanol",
+          "Gastric Mucosa",
+          "Humans",
+          "Magnesium Hydroxide",
+          "Prostaglandins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22950493/"
+      },
+      {
+        "pmid": "2575789",
+        "title": "Campylobacter pylori and gastroduodenal ulcer disease. A prospective study in a Swedish population.",
+        "abstract": "In a consecutive prospective series of 208 Swedish primary peptic ulcer patients, 146 gastric, 55 duodenal and 7 in both sites, gastroduodenitis was found in 97.6% of the cases. The mucosal inflammation was associated with CP in 87% and 91% of the gastric and duodenal ulcer cases respectively. No significant correlation was found between CP colonisation and the type or severity of mucosal inflammation. Gastric metaplasia was present in only 8% of 48 bulbar ulcer cases. Ulcer healing and eradication of CP was achieved in 52% of patients treated with bismuth subnitrate in combination with erythromycin or according to the triple approach.",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1989",
+        "authors": [
+          "Gad A",
+          "Hradsky M",
+          "Furugård K",
+          "Malmodin B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Aluminum Hydroxide",
+          "Anti-Ulcer Agents",
+          "Bismuth",
+          "Campylobacter Infections",
+          "Drug Combinations",
+          "Female",
+          "Glycyrrhiza"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2575789/"
+      },
+      {
+        "pmid": "20617595",
+        "title": "Acid rebound.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1968",
+        "authors": [
+          "Fordtran J S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Calcium",
+          "Calcium Carbonate",
+          "Chronic Disease",
+          "Drug Combinations",
+          "Duodenal Ulcer",
+          "Fasting",
+          "Gastric Acid",
+          "Gastrointestinal Contents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20617595/"
+      },
+      {
+        "pmid": "6086186",
+        "title": "Antacids and anticholinergics in the treatment of duodenal ulcer.",
+        "abstract": "Anticholinergic agents are most often divided into tertiary and quaternary ammonium compounds. Tertiary ammonium agents are fully and rapidly absorbed. Quaternary ammonium agents are slowly and incompletely absorbed, but do not cross the blood-brain barrier, or do so to a very limited degree, and have a very low rate of central nervous system side-effects. There are probably subclasses of cholinergic receptors, and anticholinergic agents have different affinities for these. Anticholinergics can decrease the basal acid secretion as well as secretion stimulated by histamine, pentagastrin, insulin or food. Combined therapy with antacids and anticholinergics will give a more long-lasting decrease in acidity than with either drug alone. The reported controlled studies with anticholinergic agents suggest that they can induce healing of duodenal ulcer to the same degree as cimetidine but at the cost of more frequent side-effects. Except for the studies on pirenzepine there are, however, too f",
+        "journal": "Clinics in gastroenterology",
+        "year": "1984",
+        "authors": [
+          "Walan A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Bicarbonates",
+          "Calcium Carbonate",
+          "Clinical Trials as Topic",
+          "Duodenal Ulcer",
+          "Gastric Acid",
+          "Gastric Emptying",
+          "Humans",
+          "Magnesium Hydroxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6086186/"
+      },
+      {
+        "pmid": "35720246",
+        "title": "Evaluation of the acid-neutralizing capacity and other properties of antacids marketed in Morocco.",
+        "abstract": "The aim of this study was to evaluate the acid-neutralizing capacity (ANC) and other properties of antacid drugs marketed in Morocco.",
+        "journal": "Medicine and pharmacy reports",
+        "year": "2022",
+        "authors": [
+          "Yafout Mohamed",
+          "Elhorr Hicham",
+          "Otmani Ibrahim Sbai El",
+          "Khayati Youssef"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35720246/"
+      },
+      {
+        "pmid": "6385868",
+        "title": "Antacids and cimetidine treatment for gastro-oesophageal reflux and peptic oesophagitis.",
+        "abstract": "Thirty three children aged 2 to 42 months (mean 9 months) with gastro-oesophageal reflux and peptic oesophagitis took part in a treatment trial comparing cimetidine (20 mg/kg/day) with an intensive regimen of antacids (Maalox, 700 mmol (mEq)/1 X 73 m2/day). All children were evaluated clinically and by radiology, acid reflux test, and endoscopy. After 12 weeks of treatment all were again evaluated clinically, by pH measurement, and endoscopy. Twenty nine children, 15 on antacid and 14 on cimetidine, completed the trial. Eight patients on antacid and seven on cimetidine were cured; five on antacid and six on cimetidine improved; and two patients on antacid and one on cimetidine underwent surgery. Both groups of children showed a statistically significant reduction in the score of clinical, pH, and endoscopic variables after treatment. Lower oesophageal sphincter pressure before treatment did not correlate significantly with the final total score. Antacids in large quantities are as effe",
+        "journal": "Archives of disease in childhood",
+        "year": "1984",
+        "authors": [
+          "Cucchiara S",
+          "Staiano A",
+          "Romaniello G",
+          "Capobianco S",
+          "Auricchio S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aluminum Hydroxide",
+          "Antacids",
+          "Child, Preschool",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Esophagitis, Peptic",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6385868/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:24:46.971495",
+  "success": true,
+  "error_message": null
+}

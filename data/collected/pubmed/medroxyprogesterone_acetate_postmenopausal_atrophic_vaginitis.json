@@ -1,0 +1,106 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "postmenopausal atrophic vaginitis",
+    "query_string": "Medroxyprogesterone Acetate AND postmenopausal atrophic vaginitis"
+  },
+  "data": {
+    "query": "Medroxyprogesterone Acetate AND postmenopausal atrophic vaginitis",
+    "results": [
+      {
+        "pmid": "9010746",
+        "title": "A comparative study of the effects of an estradiol-releasing vaginal ring combined with an oral gestagen versus transdermal estrogen combined with a levonorgestrel-releasing IUD: clinical findings and endometrial response.",
+        "abstract": "Our purpose was to compare the effects of a new estradiol-releasing vaginal ring with an oral progestin versus the efficacy, safety and acceptability of an intrauterine device releasing levonorgestrel combined with estradiol, delivered transdermally from a patch. Climacteric symptoms, bleeding pattern, and endometrial histologic features were studied.",
+        "journal": "International journal of fertility and menopausal studies",
+        "year": "1996",
+        "authors": [
+          "Kalogirou D",
+          "Antoniou G",
+          "Karakitsos P",
+          "Kalogirou O",
+          "Antoniou D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Administration, Oral",
+          "Aged",
+          "Atrophy",
+          "Cohort Studies",
+          "Contraceptive Agents, Female",
+          "Contraceptive Devices, Female",
+          "Endometrium",
+          "Estradiol",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9010746/"
+      },
+      {
+        "pmid": "15653006",
+        "title": "Low-dose, vaginally administered estrogens may enhance local benefits of systemic therapy in the treatment of urogenital atrophy in postmenopausal women on hormone therapy.",
+        "abstract": "When genital atrophy exists, systemic hormone therapy (HT) has a timing until to induce vaginal proliferation and symptomatic relieve. Thus, in order to obtain a prompt improvement, the association of local therapy acting on the genital epithelium to the systemic treatment should be considered.",
+        "journal": "Maturitas",
+        "year": "2005",
+        "authors": [
+          "Palacios Santiago",
+          "Castelo-Branco Camil",
+          "Cancelo María Jesús",
+          "Vázquez Francisco"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Administration, Intravaginal",
+          "Adult",
+          "Atrophy",
+          "Colposcopy",
+          "Contraceptive Agents, Female",
+          "Dose-Response Relationship, Drug",
+          "Estradiol",
+          "Estriol",
+          "Estrogen Replacement Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15653006/"
+      },
+      {
+        "pmid": "9857760",
+        "title": "[Pharma-clinics. Drug of the month. Premelle (conjugated estrogens + medroxyprogesterone].",
+        "abstract": "Premelle, commercialised by Wyeth-Lederle, is a combination of conjugated estrogens 0.625 mg and medroxyprogesterone acetate 5 mg which is indicated in the treatment of menopause-associated problems, among which vasomotor symptoms, atrophic vaginitis and/or urethritis, and in the prevention and treatment of post-menopausal osteoporosis. It is presented in two formulations, Premelle cyclic 5 and Premelle 5. The former, in which the progestagen is only given during the last 14 out of 28 days of the treatment cycle, is accompanied by regular bleeding and thus preferably indicated during perimenopause whereas the latter, in which the progestagen is given continuously and results in amenorrhea, is mostly indicated after menopause in order to improve long-term compliance.",
+        "journal": "Revue medicale de Liege",
+        "year": "1998",
+        "authors": [
+          "Scheen A J"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Drug Combinations",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone",
+          "Middle Aged",
+          "Premenopause",
+          "Progesterone Congeners"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9857760/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:01:03.329420",
+  "success": true,
+  "error_message": null
+}

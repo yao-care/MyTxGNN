@@ -1,0 +1,544 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Albendazole",
+    "disease": "echinococcus granulosus infectious disease",
+    "query_string": "Albendazole AND echinococcus granulosus infectious disease"
+  },
+  "data": {
+    "query": "Albendazole AND echinococcus granulosus infectious disease",
+    "results": [
+      {
+        "pmid": "30760475",
+        "title": "Echinococcosis: Advances in the 21st Century.",
+        "abstract": "Echinococcosis is a zoonosis caused by cestodes of the genus Echinococcus (family Taeniidae). This serious and near-cosmopolitan disease continues to be a significant public health issue, with western China being the area of highest endemicity for both the cystic (CE) and alveolar (AE) forms of echinococcosis. Considerable advances have been made in the 21st century on the genetics, genomics, and molecular epidemiology of the causative parasites, on diagnostic tools, and on treatment techniques and control strategies, including the development and deployment of vaccines. In terms of surgery, new procedures have superseded traditional techniques, and total cystectomy in CE, ex vivo resection with autotransplantation in AE, and percutaneous and perendoscopic procedures in both diseases have improved treatment efficacy and the quality of life of patients. In this review, we summarize recent progress on the biology, epidemiology, diagnosis, management, control, and prevention of CE and AE.",
+        "journal": "Clinical microbiology reviews",
+        "year": "2019",
+        "authors": [
+          "Wen Hao",
+          "Vuitton Lucine",
+          "Tuxun Tuerhongjiang",
+          "Li Jun",
+          "Vuitton Dominique A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "China",
+          "Clinical Trials as Topic",
+          "Cystectomy",
+          "Disease Management",
+          "Echinococcosis",
+          "Humans",
+          "Quality of Life",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30760475/"
+      },
+      {
+        "pmid": "17996916",
+        "title": "Osseous hydatid disease.",
+        "abstract": "Hydatid disease is still endemic in several regions worldwide and is caused in most cases by the larval form of two species of the tapeworm Echinococcus: E. granulosus and E. multilocularis. Bone involvement is rare (0.2-4%), affecting the spine in almost half of the cases. The disease is usually silent until a complication (e.g. paraplegia or pathologic fracture) occurs. Many cases are diagnosed intraoperatively. Pre-operative diagnosis is based on radiological findings and serological assays, which lack high sensitivity and specificity. A high index of suspicion is necessary for the diagnosis, especially in patients that live in or travel to sheep-raising areas where hydatid disease is endemic. The treatment of choice is surgical, following the principles of a locally malignant lesion. Chemotherapy (albendazole alone or in combination with praziquantel) is used as an adjuvant treatment or when surgery is not possible. The prognosis is often poor, especially in the spine: most patient",
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "year": "2008",
+        "authors": [
+          "Papanikolaou Athanassios"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bone Diseases, Infectious",
+          "Diagnosis, Differential",
+          "Echinococcosis",
+          "Humans",
+          "Radiography",
+          "Sheep",
+          "Tomography Scanners, X-Ray Computed"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17996916/"
+      },
+      {
+        "pmid": "34980576",
+        "title": "Paediatric pulmonary echinococcosis: A neglected disease.",
+        "abstract": "Echinococcosis is a worldwide public health problem causing considerable paediatric morbidity and mortality in endemic areas. The presentation of cystic echinococcosis (CE) varies by age. Unlike adults, where hepatic involvement is common, pulmonary CE is the dominant site in the paediatric population. Pulmonary cysts are typically first seen on chest X-ray, either as an incidental finding or following respiratory symptoms after cyst rupture or secondary infection of the cyst. In children, pulmonary cysts have a broad differential diagnosis, and a definitive diagnosis relies on the combination of imaging, serology, and histology. In countries with high infectious burdens from diseases such as acquired immunodeficiency syndrome (AIDS) and tuberculosis (TB), the diagnosis is additionally challenging, as atypical infections are more common than in developed countries. Pulmonary CE is treated with a combination of surgery and chemotherapy.",
+        "journal": "Paediatric respiratory reviews",
+        "year": "2022",
+        "authors": [
+          "Goussard Pierre",
+          "Eber Ernst",
+          "Mfingwana Lunga",
+          "Nel Pieter",
+          "Schubert Pawel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Child",
+          "Echinococcosis, Pulmonary",
+          "Neglected Diseases",
+          "Diagnostic Imaging",
+          "Cysts",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34980576/"
+      },
+      {
+        "pmid": "36384195",
+        "title": "In vitro efficacy of albendazole-loaded β-cyclodextrin against protoscoleces of Echinococcus granulosus sensu stricto.",
+        "abstract": "Cystic echinococcosis (CE), a widespread helminthic disease caused by the larval stage of the dog tapeworm Echinococcus granulosus represents a public health concern in humans. Albendazole (ABZ) is the first-line treatment for CE; however therapeutic failure of ABZ against CE occurs because of size and location of formed cysts as well its low aqueous solubility and consequently its erratic bioavailability in plasma. Serious adverse effects have also been observed following the long-term use of ABZ in vivo.",
+        "journal": "Experimental parasitology",
+        "year": "2022",
+        "authors": [
+          "Bakhtiar Nayer Mehdizad",
+          "Akbarzadeh Abolfazl",
+          "Ahmadpour Ehsan",
+          "Mahami-Oskouei Mahmoud",
+          "Casulli Adriano"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dogs",
+          "Humans",
+          "Echinococcus granulosus",
+          "Albendazole",
+          "Caspase 3",
+          "Echinococcosis",
+          "beta-Cyclodextrins",
+          "RNA, Messenger"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36384195/"
+      },
+      {
+        "pmid": "2256768",
+        "title": "Treatment of Echinococcus granulosus hydatid disease with albendazole.",
+        "abstract": "The authors report their personal experience of the treatment of 50 patients with hydatid cysts of different localization with 10-12 mg Albendazole per kg per day for three months without intervals. During the treatment patients were submitted to careful clinical, biochemical, radiological and immunological controls. In all 105 hydatid cysts were observed, and the follow-up periods ranged from six to 42 months. The side effects were not severe. Four patients were considered healed, 31 improved, and 11 showed no change. Three patients relapsed after the end of the therapy, and were treated with a further cycle of Albendazole at the same dose rates, with good effect. The observed results are encouraging, and most of the patients did not require surgery.",
+        "journal": "Annals of tropical medicine and parasitology",
+        "year": "1990",
+        "authors": [
+          "De Rosa F",
+          "Teggi A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Albendazole",
+          "Child",
+          "Echinococcosis",
+          "Echinococcosis, Hepatic",
+          "Echinococcosis, Pulmonary",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2256768/"
+      },
+      {
+        "pmid": "41024955",
+        "title": "Diagnostic challenges and treatment approaches for hydatid cysts in atypical localizations.",
+        "abstract": "Hydatid disease, caused by the Echinococcus granulosus parasite, is traditionally associated with liver and lung involvement. However, recent years have seen an increase in cases with atypical localizations, such as the kidneys, thyroid, soft tissues, and bones. The study by Celik et al presents a series of five clinical cases where hydatid cysts were found in these rare anatomical regions, challenging conventional diagnostic and therapeutic approaches. The paper emphasizes the importance of differential diagnosis, as these cases can mimic other conditions, such as cancer, abscesses, or cysts. Advanced imaging techniques, such as computed tomography, magnetic resonance imaging, and ultrasound, play a crucial role in accurate diagnosis and help avoid misdiagnosis. The study demonstrates that early diagnosis and appropriate treatment of echinococosis in atypical localizations are critical for preventing complications like cyst rupture and secondary infections. The use of albendazole and ",
+        "journal": "World journal of nephrology",
+        "year": "2025",
+        "authors": [
+          "Semash Konstantin",
+          "Voskanov Mikhail"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41024955/"
+      },
+      {
+        "pmid": "22509076",
+        "title": "Hepatic echinococcosis: clinical and therapeutic aspects.",
+        "abstract": "Echinococcosis or hydatid disease (HD) is a zoonosis caused by the larval stages of taeniid cestodes belonging to the genus Echinococcus. Hepatic echinococcosis is a life-threatening disease, mainly differentiated into alveolar and cystic forms, associated with Echinoccus multilocularis (E. multilocularis) and Echinococcus granulosus (E. granulosus) infection, respectively. Cystic echinococcosis (CE) has a worldwide distribution, while hepatic alveolar echinococcosis (AE) is endemic in the Northern hemisphere, including North America and several Asian and European countries, like France, Germany and Austria. E. granulosus young cysts are spherical, unilocular vesicles, consisting of an internal germinal layer and an outer acellular layer. Cyst expansion is associated with a host immune reaction and the subsequent development of a fibrous layer, called the pericyst; old cysts typically present internal septations and daughter cysts. E. multilocularis has a tumor-like, infiltrative behav",
+        "journal": "World journal of gastroenterology",
+        "year": "2012",
+        "authors": [
+          "Nunnari Giuseppe",
+          "Pinzone Marilia R",
+          "Gruttadauria Salvatore",
+          "Celesia Benedetto M",
+          "Madeddu Giordano"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Diagnosis, Differential",
+          "Echinococcosis, Hepatic",
+          "Echinococcus",
+          "Host-Parasite Interactions",
+          "Humans",
+          "Zoonoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22509076/"
+      },
+      {
+        "pmid": "31586448",
+        "title": "The combination of Cytokines and albendazole therapy for prophylaxis and treatment of experimental/hydatid cyst.",
+        "abstract": "Albendazole is appropriate chemotherapy for treatment and prophylaxis of cystic echinococcosis (CE). The recent studies show Cytokine therapy could be useful for chronic and progressive diseases, therefore, the use of cytokine in prophylaxis and treatment of hydatidosis could be considerable. The aim of this study is to evaluate the efficacy of interleukin-12 + interferon-gamma, in combination with albendazole for prophylaxis and treatment of CE in Balb/c mice. Albendazole and cytokines were administrated for prophylaxis and treatment in CE. The efficacy of this agents were determined by measuring of size, weight, number of cysts, histology and lymphocyte response. Lymphocyte stimulation index and production of interleukin-12 and interferon-gamma were measured by MTT assay and ELISA respectively. Combination of albendazole and cytokines was very effective for prophylaxis and treatment in experimental CE.",
+        "journal": "Acta tropica",
+        "year": "2020",
+        "authors": [
+          "Rahdar M",
+          "Rafiei A",
+          "Valipour-Nouroozi R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Cytokines",
+          "Disease Models, Animal",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Immunotherapy",
+          "Interferon-gamma",
+          "Interleukin-12"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31586448/"
+      },
+      {
+        "pmid": "39195613",
+        "title": "Receptor Tyrosine Kinase Signaling Involves Echinococcus-Host Intercommunication: A Potential Therapeutic Target in Hepatic Echinococcosis.",
+        "abstract": "Echinococcosis, one of the most serious and life-threatening parasitic forms of zoonosis worldwide, is caused by the larvae of Echinococcus granulosus (E. granulosus) and Echinococcus multilocularis (E. multilocularis). Various drugs are being applied clinically to treat zoonosis; however, their therapeutic efficacy remains a great challenge, especially with albendazole as the preferred drug of choice. Receptor tyrosine kinase (RTK) signaling controls normal cellular proliferation, differentiation, and metabolism in humans and mammals, which are intermediate hosts of E. granulosus and E. multilocularis. Disruption of RTK signaling can cause various forms of carcinogenesis and exacerbate the progression of certain forms of parasitic disease. As a result, a significant number of studies on tyrosine kinase inhibitors (TKIs) have been conducted for the treatment of cancer and parasitic infection, with some TKIs already approved for clinical use for cancer. Notably, RTK signaling has been i",
+        "journal": "Tropical medicine and infectious disease",
+        "year": "2024",
+        "authors": [
+          "Gao Haijun",
+          "Bianba Zhuoma",
+          "Mo Xiaojin",
+          "Hu Wei",
+          "Feng Zheng"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39195613/"
+      },
+      {
+        "pmid": "31700800",
+        "title": "Echinococcus granulosus hydatid cyst in rural Manitoba, Canada: Case report and review of the literature.",
+        "abstract": "Echinococcal infections are a rare but important disease in Canada. The parasite's traditional endemic area includes rural, northern communities with wild canines and ungulates. There is evidence that the endemic area is enlarging. Echinococcus can cause significant morbidity, and rarely death. An 18-year-old female presented with right upper quadrant abdominal pain. Computed Tomography (CT) of the abdomen showed a 5.4 × 4 cm cyst with the presence of \"water lily sign\". She showed signs of cyst leak including eosinophilia and fever. Therefore, she underwent surgical resection of her cyst with Albendazole cover and was continued post-operatively for three months. CT head, chest, and pelvis failed to identify further sites of cyst formation. She has recovered well from surgery and is no longer followed by Infectious Diseases. The annual incidence and prevalence of Echinococcus disease are very low among the Canadian population. Therefore, there is a paucity of experience with new interve",
+        "journal": "IDCases",
+        "year": "2019",
+        "authors": [
+          "Grocholski Steven",
+          "Agabawi Salem",
+          "Kadkhoda Kamran",
+          "Hammond Gregory"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31700800/"
+      },
+      {
+        "pmid": "23898558",
+        "title": "The liver involvement of the hydatid disease: a systematic review designed for the hepato-gastroenterologist.",
+        "abstract": "Hydatidosis is not uncommon in Western Europe, mainly due to the presence of immigrants from endemic countries, and hepato-gastroenterologist must then be able to manage this infectious disease. The hepatic hydatidosis is due to development in the liver of the larvae of Echinococcus granulosus that causes liver cysts. It can grow in size throughout the years and can give rise to complications, mainly pain, super-infection or cyst rupture. Recent progresses in imaging modalities play an important role in diagnosis, classification and evaluation of response to treatment of the cysts. Imaging techniques led to both Gharbi's and WHO's classifications. Those can provide markers of cyst activity and can help to determine the best therapeutic strategy. By combining two immunodiagnostic techniques, the diagnostic accuracy of laboratory tests is excellent. During the last decade, treatment has improved : the main therapeutic modality in the past was surgery, until the discovery of PAIR procedur",
+        "journal": "Acta gastro-enterologica Belgica",
+        "year": "2013",
+        "authors": [
+          "Touma Dany",
+          "Sersté Thomas",
+          "Ntounda Ruffin",
+          "Mulkay Jean-Pierre",
+          "Buset Michel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Diagnosis, Differential",
+          "Disease Management",
+          "Echinococcosis, Hepatic",
+          "Echinococcus",
+          "Gastroenterology",
+          "Global Health",
+          "Humans",
+          "Incidence",
+          "Liver"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23898558/"
+      },
+      {
+        "pmid": "31123477",
+        "title": "Evaluation of the Protoscolicidal Effects of Albendazole and Albendazole Loaded Solid Lipid Nanoparticles.",
+        "abstract": "Protoscolex plays an important role in the development of hydatid cyst. Albendazole is one of the most effectual protoscolicidal agents for averting the reappearance of this disease, nonetheless, its low solubility and its low intestinal absorption necessitates the presence of a drug carrier to enhance its efficacy. In this study, the effect of albendazole and its nano-form on protoscolices in cultured media and in vivo was evaluated.",
+        "journal": "Iranian journal of parasitology",
+        "year": "2019",
+        "authors": [
+          "Aminpour Shohreh",
+          "Rafiei Abdollah",
+          "Jelowdar Ali",
+          "Kouchak Maryam"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31123477/"
+      },
+      {
+        "pmid": "24778101",
+        "title": "Albendazolesulphoxide concentrations in plasma and hydatid cyst and prediction of parasitological and clinical outcomes in patients with liver hydatidosis caused by Echinococcus granulosus.",
+        "abstract": "To investigate the relationship between plasma and cyst concentrations of albendazolesulphoxide (ASO) and their effects on parasitological findings and disease recurrence in patients with liver hydatidosis.",
+        "journal": "Croatian medical journal",
+        "year": "2014",
+        "authors": [
+          "Skuhala Tomislava",
+          "Trkulja Vladimir",
+          "Runje Mislav",
+          "Vukelic Dalibor",
+          "Desnica Bosko"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Antibodies, Helminth",
+          "Antigens, Helminth",
+          "Biological Availability",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24778101/"
+      },
+      {
+        "pmid": "27031900",
+        "title": "A life-threatening brainstem compression by cerebral Echinococcus granulosus.",
+        "abstract": "Cystic echinococcosis (CE) is a zoonotic disease caused by Echinococcus granulosus. It is of worldwide importance, and is widespread in the Mediterranean region and Middle East. This tapeworm shows great intraspecific variation in relation to host specificity, epidemiology and morphology. This variability led in previous years to the identification of ten (G1-G10) different genotypes of the parasite. Cerebral localization of E. granulosus is not common: it especially affects children and is more frequently located in the supratentorial region. It can be life-threatening due to its localization in eloquent areas especially in the posterior fossa. Despite the benign nature of hydatid cyst, invasion of critical areas may cause significant mortality and morbidity in some patients. Urgent surgical decompression and adjuvant medical treatment must be employed as soon as possible in these patients. We present a clinical case of life-threatening brainstem compression in a child due to a rare f",
+        "journal": "Le infezioni in medicina",
+        "year": "2016",
+        "authors": [
+          "Karakoç Zehra Cagla",
+          "Kasimcan Mustafa Omür",
+          "Pipia Anna Paola",
+          "Tore Gessica",
+          "Alberti Alberto"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Albendazole",
+          "Animals",
+          "Anticestodal Agents",
+          "Brain Stem",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Female",
+          "Genetic Variation",
+          "Genotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27031900/"
+      },
+      {
+        "pmid": "38659532",
+        "title": "Giant Calcified Hepatic Hydatid Cyst: A Case Report.",
+        "abstract": "Hydatid disease is a zoonotic disease caused by the parasite Echinococcus granulosus. It is an endemic disease in many parts of the world. Although humans are incidental hosts of the parasite, the disease sometimes results in fatal consequences. The liver and lungs are the most common sites of infection in humans. We report the case of a 45-year-old female who presented with complaints of right hypochondriac pain, fever, and cough, initially suspected as a case of liver abscess but later diagnosed as a giant calcified hydatid cyst of the liver. Imaging and immunoglobulin G for Echinococcus granulosus helped confirm our diagnosis. Based on her symptoms, the patient was treated symptomatically with analgesics, paracetamol, and an antitussive for pain, fever, and cough, respectively. In terms of definitive care, she was treated with oral albendazole and referred to her home district for necessary surgical intervention.",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Sutihar Anshu",
+          "Lamichhane Deepak",
+          "JanakyRaman Gubeanthrey",
+          "Arafin Md Mortuza",
+          "Shrestha Rudish Jaz"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38659532/"
+      },
+      {
+        "pmid": "30693857",
+        "title": "Cystic Echinococcosis of the Bone: A European Multicenter Study.",
+        "abstract": "Cystic echinococcosis (CE) is a zoonosis caused by the larval stage of the tapeworm Echinococcus granulosus. In humans, the infection induces the formation of parasitic cysts mostly in the liver and lungs, but virtually any organ can be affected. CE of the bone is one of the rarest forms of the disease, yet it is also extremely debilitating for patients and hard to manage for clinicians. Unlike abdominal CE, there is currently no expert consensus on the management of bone CE. In this study, we conducted a survey of the clinical records of seven European referral centers for the management of patients with CE and retrieved data on the clinical management of 32 patients with a diagnosis of bone CE. Our survey confirmed that the patients endured chronic debilitating disease with a high rate of complications (84%). We also found that diagnostic approaches were highly heterogeneous. Surgery was extensively used to treat these patients, as well as albendazole, occasionally combined with praz",
+        "journal": "The American journal of tropical medicine and hygiene",
+        "year": "2019",
+        "authors": [
+          "Cattaneo Letizia",
+          "Manciulli Tommaso",
+          "Cretu Carmen-Michaela",
+          "Giordani Maria Teresa",
+          "Angheben Andrea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Albendazole",
+          "Anthelmintics",
+          "Bone Diseases",
+          "Child",
+          "Echinococcosis",
+          "Europe",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30693857/"
+      },
+      {
+        "pmid": "27085708",
+        "title": "Intra-cystic concentrations of albendazole-sulphoxide in human cystic echinococcosis: a systematic review and analysis of individual patient data.",
+        "abstract": "Cystic echinococcosis (CE) is a widespread zoonosis caused by the species complex Echinococcus granulosus. Albendazole (ABZ)-the first-line anthelminthic drug for medical treatment of CE-is metabolized in vivo to the active derivative ABZ-sulphoxide (ABZ-SO). Target-site ABZ-SO concentrations in the hydatid cyst mediate the anthelminthic effect in CE. Primary outcome of this systematic review of individual patient data was the intra-cystic ABZ-SO concentration stratified by cyst size, location, calcification status and use of praziquantel. Studies reporting intra-cystic ABZ-SO concentrations in humans were identified by a systematic search. A pooled analysis of individual patient data was performed to assess intra-cystic concentrations. Pharmacokinetic data of 121 individual cysts were analysed. There was no correlation between plasma and intra-cystic ABZ-SO concentrations (rho = -0.03, p = 0.76). Intra-cystic drug concentrations were also not associated with sex and treatment duration",
+        "journal": "Parasitology research",
+        "year": "2016",
+        "authors": [
+          "Lötsch Felix",
+          "Naderer Judith",
+          "Skuhala Tomislava",
+          "Groger Mirjam",
+          "Auer Herbert"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "Anthelmintics",
+          "Cysts",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Humans",
+          "Praziquantel"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27085708/"
+      },
+      {
+        "pmid": "34499709",
+        "title": "Ultrasound-based evaluation of the prevalence of abdominal cystic echinococcosis in the Turkestan region of Kazakhstan.",
+        "abstract": "Human cystic echinococcosis (CE) is a zoonotic disease caused by Echinococcus granulosus sensu lato. CE is known to be endemic in some parts of Central Asia. We present findings from an ultrasound-based survey to estimate the prevalence of CE in the Turkestan oblast of Kazakhstan.",
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "year": "2022",
+        "authors": [
+          "Mustapayeva Aigerim",
+          "Luca D'Alessandro Gian",
+          "Doszhanova Gaukhar",
+          "Colpani Agnese",
+          "Sadybekov Nurbol"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cysts",
+          "Echinococcosis",
+          "Echinococcus granulosus",
+          "Humans",
+          "Kazakhstan",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34499709/"
+      },
+      {
+        "pmid": "33462022",
+        "title": "Hydatid disease, hepatic injury and hypertonic saline: a clinical conundrum.",
+        "abstract": "Echinococcosis or human hydatid disease is a helminthic infection is caused by Echinococcus species. Classically, cystic echinococcosis is caused by Echinococcus granulosus sensu stricto, E. equinus, E. ortleppi and E. canadensis, though several other species have been implicated in hydatid disease. Echinococcus infection may lead to cystic disease of the liver, lungs and potentially other organs. Here we present a patient who had cystic disease of the lungs and liver. The patient initially experienced right upper quadrant pain and nausea, and later went on to develop a fever, cough and dyspnoea in the setting of hydropneumothorax. CT scan of the chest and abdomen revealed a large fluid collection at the left lung base and a large lobular complex fluid mass within the right lobe of the liver. Echinococcus titres were positive. The patient was commenced on albendazole; however, experienced significant derangement of liver enzymes within the following month. In light of this, the albenda",
+        "journal": "BMJ case reports",
+        "year": "2021",
+        "authors": [
+          "Lane Angus",
+          "Wright Hugh"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Echinococcosis, Hepatic",
+          "Echinococcosis, Pulmonary",
+          "Hepatectomy",
+          "Humans",
+          "Intraoperative Care",
+          "Male",
+          "Middle Aged",
+          "Peritoneal Lavage",
+          "Saline Solution, Hypertonic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33462022/"
+      },
+      {
+        "pmid": "32535067",
+        "title": "The immunotherapy with hMASP-2 DNA nanolipoplexes against echinococcosis in experimentally protoscolex-infected mice.",
+        "abstract": "Cystic echinococcosis (CE), a complex and neglected zoonotic infectious disease, is mainly caused by larval tapeworm Echinococcus granulosus with a worldwide distribution. For CE, an effective drug treatment is not yet available. The present study was conducted to evaluate the efficacy of hMASP-2-based immunotherapy against hydatid cysts by using murine model. Eighteen weeks after infection with 2000 viable protoscoleces intraperitoneally, the infected mice were treated with hMASP-2 DNA nanolipoplexes (pcDNA3.1-hMASP-2) and albendazole respectively. After six weeks treatment, a significant reduction in the weight of cysts was observed both in the pcDNA3.1-hMASP-2 group and albendazole group compared with the untreated group (P  <  0.05). The hMASP-2 DNA nanolipoplexes not only inhibited the development of germinal layer, but also induced the extensive degeneration and damage of the germinal layer cells. Furthermore, compared with the untreated group, the number of CD4+T cells and CD8+T",
+        "journal": "Acta tropica",
+        "year": "2020",
+        "authors": [
+          "Chen Chong",
+          "Gao Qi",
+          "Luo Yanping",
+          "Zhang Guochao",
+          "Xu Xiaoying"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Albendazole",
+          "Animals",
+          "DNA",
+          "Echinococcosis",
+          "Female",
+          "Immunotherapy",
+          "Liposomes",
+          "Mannose-Binding Protein-Associated Serine Proteases",
+          "Mice",
+          "Mice, Inbred C57BL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32535067/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:42:30.006436",
+  "success": true,
+  "error_message": null
+}

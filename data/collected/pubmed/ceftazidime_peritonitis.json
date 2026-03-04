@@ -1,0 +1,544 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ceftazidime",
+    "disease": "peritonitis",
+    "query_string": "Ceftazidime AND peritonitis"
+  },
+  "data": {
+    "query": "Ceftazidime AND peritonitis",
+    "results": [
+      {
+        "pmid": "34052357",
+        "title": "Variation in Peritoneal Dialysis-Related Peritonitis Outcomes in the Peritoneal Dialysis Outcomes and Practice Patterns Study (PDOPPS).",
+        "abstract": "Peritoneal dialysis (PD)-associated peritonitis is a significant PD-related complication. We describe the likelihood of cure after a peritonitis episode, exploring its association with various patient, peritonitis, and treatment characteristics.",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2022",
+        "authors": [
+          "Al Sahlawi Muthana",
+          "Zhao Junhui",
+          "McCullough Keith",
+          "Fuller Douglas S",
+          "Boudville Neil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Humans",
+          "Peritoneal Dialysis",
+          "Peritoneal Dialysis, Continuous Ambulatory",
+          "Peritonitis",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34052357/"
+      },
+      {
+        "pmid": "38044852",
+        "title": "Pharmacokinetic analysis of ceftazidime and cefazolin in the treatment of continuous ambulatory peritoneal dialysis-related peritonitis.",
+        "abstract": "Peritoneal dialysis-related peritonitis (PDRP) presents a significant challenge for nephrologists. Continuous intraperitoneal cefazolin and ceftazidime are recommended for the treatment of peritonitis. However, some pharmacokinetic studies have shown that doses of 15-20 mg/kg/d may not achieve sufficient therapeutic levels. In this study, we investigated the pharmacokinetics of ceftazidime and cefazolin in patients with continuous ambulatory peritoneal dialysis-related peritonitis and compared the pharmacokinetic characteristics between traditional and modified treatment groups.",
+        "journal": "Renal failure",
+        "year": "2023",
+        "authors": [
+          "Zhu Weiping",
+          "Fang Xueling",
+          "Zheng Jing",
+          "Ke Ying",
+          "He Qiaolan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Female",
+          "Humans",
+          "Adult",
+          "Middle Aged",
+          "Cefazolin",
+          "Ceftazidime",
+          "Peritoneal Dialysis, Continuous Ambulatory",
+          "Prospective Studies",
+          "Anti-Bacterial Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38044852/"
+      },
+      {
+        "pmid": "32063189",
+        "title": "Intraperitoneal cefazolin and ceftazidime during short-dwell exchange in peritoneal dialysis patients with peritonitis.",
+        "abstract": "Intraperitoneal (IP) cefazolin and ceftazidime during the short-dwell (≤ 2 h) automated exchange has been shown to provide adequate dialysate and plasma concentrations for up to 24 h in peritoneal dialysis (PD) patients without peritonitis. This study aimed to evaluate plasma and dialysate concentration of this novel IP cefazolin and ceftazidime regimen during the first 24 h in PD patients with peritonitis.",
+        "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+        "year": "2020",
+        "authors": [
+          "Triyawatanyu Pinpongsarn",
+          "Chariyavilaskul Pajaree",
+          "Phaisal Weeraya",
+          "Peerapornratana Sadudee",
+          "Kanjanabuch Talerngsak"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Cefazolin",
+          "Ceftazidime",
+          "Dialysis Solutions",
+          "Female",
+          "Humans",
+          "Infusions, Parenteral",
+          "Kidney Failure, Chronic",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32063189/"
+      },
+      {
+        "pmid": "3112102",
+        "title": "Pseudomonas peritonitis in neutropenic rats treated with amikacin, ceftazidime and ticarcillin, alone and in combination.",
+        "abstract": "Peritonitis in neutropenic rats, caused by a strain of Pseudomonas aeruginosa resistant to amikacin and ticarcillin alone but susceptible to ceftazidime and combinations of amikacin with ticarcillin, amikacin with ceftazidime and ticarcillin with ceftazidime, was investigated. Four hours after a bacterial challenge with a LD70 intraperitoneal dose of P. aeruginosa (1.5 X 10(8) cfu/ml), either amikacin, ticarcillin, ceftazidime, amikacin-ticarcillin, amikacin-ceftazidime, or ticarcillin-ceftazidime was administered at dosing intervals that mimicked the serum concentrations of the drugs found in humans after therapeutic doses. When the serum concentrations did not exceed the MIC, as occurred with amikacin, no difference in survival was observed compared with controls. All other regimens resulted in animal survival during the treatment. When therapy was stopped only those regimens resulting in serum concentrations above the MBC were effective (amikacin-ticarcillin, amikacin-ceftazidime, t",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1987",
+        "authors": [
+          "Shyu W C",
+          "Nightingale C H",
+          "Quintiliani R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Agranulocytosis",
+          "Amikacin",
+          "Animals",
+          "Ceftazidime",
+          "Drug Therapy, Combination",
+          "Female",
+          "Kinetics",
+          "Microbial Sensitivity Tests",
+          "Neutropenia",
+          "Penicillins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3112102/"
+      },
+      {
+        "pmid": "28882013",
+        "title": "Antimicrobial management in nosocomial peritonitis: microbiota, drug and time.",
+        "abstract": "Complicated intra-abdominal infection requires surgical treatment and broad-spectrum empiric antibiotic treatment used early. The rapid spread of multidrug-resistant bacteria has become a serious threat, especially in critical care units. The excessive use of carbapenems has led to carbapenemase-producing Enterobacteriaceae, leaving tigecycline and colistin as therapeutical options. The new antimicrobials, ceftazidime-avibactam and ceftolozane-tazobactam open new horizons in the treatment of multi-drug resistant Enterobacteriaceae. Candida peritonitis causes a high mortality in the critical patient. Diagnosis and early treatment are associated with a better prognosis, the administration of an echinocandin being of choice in these patients.",
+        "journal": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
+        "year": "2017",
+        "authors": [
+          "Montero A",
+          "Salgado Aranda P",
+          "Gilsanz F",
+          "Maseda E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents",
+          "Cross Infection",
+          "Early Diagnosis",
+          "Humans",
+          "Microbiota",
+          "Peritonitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28882013/"
+      },
+      {
+        "pmid": "2644565",
+        "title": "Vancomycin and ceftazidime in the treatment of CAPD peritonitis.",
+        "abstract": "102 episodes of continuous ambulatory peritoneal dialysis (CAPD) peritonitis were studied prospectively during a 288-day period at The Queen Elizabeth Hospital, Birmingham. Organisms were isolated from 76% of the episodes, with coagulase-negative staphylococci, being the most commonly encountered organism (55%). Initial treatment consisted of intraperitoneal vancomycin and ceftazidime with subsequent adjustment on the basis of antibiotic sensitivities. With this regimen, 83% of the positive cultures became negative by 72 h, 9.8% of cases relapsed and removal of the CAPD catheter was necessary in 8 patients (7.8%). Overall, 92% of cases were cured. No adverse drug reactions were seen. This combination of antibiotics appears effective and safe in the treatment of CAPD peritonitis.",
+        "journal": "Nephron",
+        "year": "1989",
+        "authors": [
+          "Beaman M",
+          "Solaro L",
+          "McGonigle R J",
+          "Michael J",
+          "Adu D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Ceftazidime",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Peritoneal Dialysis, Continuous Ambulatory"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2644565/"
+      },
+      {
+        "pmid": "8403741",
+        "title": "Cefepime clinical pharmacokinetics.",
+        "abstract": "Cefepime is a new parenteral cephalosporin with antimicrobial activity similar to third-generation cephalosporins. It acts against the Enterobacteriaceae family, and Pseudomonas aeruginosa, but maintains Gram-positive activity similar to that of first- or second-generation cephalosporins. Cefepime has in vitro activity against many bacterial isolates resistant to ceftazidime and cefotaxime, is stable against chromosomally mediated beta-lactamases, demonstrates lower affinity for these enzymes and shows a high resistance to enzymatic hydrolysis. Clinical uses thus far include treatment of lower respiratory tract, intra-abdominal and urinary tract infections, skin and soft tissue infections and for prophylaxis in biliary tract and prostate surgery. Pharmacokinetic studies indicate that cefepime exhibits linear pharmacokinetic behaviour. Pharmacokinetic variables are not significantly different between single- and multiple-dose administration, indicating a lack of drug accumulation in pat",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1993",
+        "authors": [
+          "Okamoto M P",
+          "Nakahiro R K",
+          "Chin A",
+          "Bedikian A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Bacteria",
+          "Bacterial Infections",
+          "Cefepime",
+          "Cephalosporins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8403741/"
+      },
+      {
+        "pmid": "9360685",
+        "title": "Cefazolin and netilmycin versus vancomycin and ceftazidime in the treatment of CAPD peritonitis.",
+        "abstract": "In spite of several recommendations, choosing the initial antibiotic to treat continuous ambulatory peritoneal dialysis (CAPD) peritonitis remains difficult. In our prospective randomized study we attempted to evaluate the efficacy and safety of less toxic combinations of cephalosporins with vancomycin or netilmycin. From November 1993 to September 1996 we treated 52 episodes of peritonitis in 34 patients. Peritonitis was diagnosed according to the valid criteria. Patients were treated for 14 - 28 days with a combination of either cefazolin plus netilmycin or vancomycin plus ceftazidime. The most frequent bacteria causing peritonitis in the two groups were comparable. The efficacy of the cefazolin/netilmycin combination was 91.6% (22/24) without yeasts and 84.0% (21/25) in the vancomycin/ceftazidime combination. There were no statistically significant differences between the two otherwise efficient combinations of antibiotics. No side effects were observed. We believe that the frequent",
+        "journal": "Advances in peritoneal dialysis. Conference on Peritoneal Dialysis",
+        "year": "1997",
+        "authors": [
+          "Gucek A",
+          "Bren A F",
+          "Hergouth V",
+          "Lindic J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Cefazolin",
+          "Ceftazidime",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Middle Aged",
+          "Netilmicin",
+          "Peritoneal Dialysis, Continuous Ambulatory",
+          "Peritonitis",
+          "Prospective Studies",
+          "Treatment Failure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9360685/"
+      },
+      {
+        "pmid": "2660995",
+        "title": "Ceftazidime and cefotaxime--the clinician's choice.",
+        "abstract": "A review of two third-generation cephalosporins, ceftazidime and cefotaxime, is presented. Ceftazidime, often used as a single agent, has shown greater activity than cefotaxime against Pseudomonas aeruginosa and other Pseudomonas species, Enterobacteriaceae, Acinetobacter sp, and Enterobacter sp. It has been effective as monotherapy in the treatment of peritonitis, gynecologic infections, chronic bronchitis, and infections in patients with leukemia and granulocytopenia, as has cefotaxime when in combination with an aminoglycoside. Cefotaxime has shown good activity against most aerobic gram-negative bacilli and against Staphylococcus. It has been used in respiratory infections, urinary tract infections, and septicemia. In contrast to first-generation and most second-generation cephalosporins, third-generation cephalosporins have proven useful in some types of meningitis. Ceftazidime and cefotaxime successfully penetrate into the cerebrospinal fluid and cures of bacterial meningitis hav",
+        "journal": "Clinical therapeutics",
+        "year": "1989",
+        "authors": [
+          "Puthucheary S D",
+          "Goldsworthy P J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cefotaxime",
+          "Ceftazidime",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2660995/"
+      },
+      {
+        "pmid": "1624394",
+        "title": "Development of resistance during ceftazidime and cefepime therapy in a murine peritonitis model.",
+        "abstract": "Resistance emerging after ceftazidime or cefepime therapy was investigated in a peritonitis model. Mice were given a peritoneal challenge (10(8) cfu plus talcum) and treated by either antibiotic (50 mg/kg/dose, which produced similar antibiotic concentrations in peritoneal fluid in both cases). After one or three doses, resistance never developed in Serratia marcescens or Citrobacter freundii infections. After Enterobacter cloacae and Pseudomonas aeruginosa challenge, ceftazidime selected more resistance (21/36 cases) than did cefepime (1/36 cases). In mice challenged with resistant strains selected by ceftazidime therapy, cefepime (six doses) successfully treated 7/18 E. cloacae infections but 0/18 P. aeruginosa infections; ceftazidime was never effective. Neither cefepime nor ceftazidime cured mice infected with the resistant strain selected by cefepime. MICs were poor predictors of further emergence of resistance in mice inoculated with strains classified as susceptible, but antibio",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1992",
+        "authors": [
+          "Pechère J C",
+          "Vladoianu I R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cefepime",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Citrobacter freundii",
+          "Disease Models, Animal",
+          "Drug Resistance, Microbial",
+          "Enterobacter cloacae",
+          "Enterobacteriaceae Infections",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1624394/"
+      },
+      {
+        "pmid": "36289937",
+        "title": "Synergy between Mecillinam and Ceftazidime/Avibactam or Avibactam against Multi-Drug-Resistant Carbapenemase-Producing Escherichia coli and Klebsiella pneumoniae.",
+        "abstract": "Background: Carbapenemase-producing Klebsiella pneumoniae and Escherichia coli have become a significant global health challenge. This has created an urgent need for new treatment modalities. We evaluated the efficacy of mecillinam in combination with either avibactam or ceftazidime/avibactam against carbapenemase-producing clinical isolates. Materials and methods: Nineteen MDR clinical isolates of K. pneumoniae and E. coli were selected for the presence of blaKPC, blaNDM, blaOXA or blaIMP based on whole-genome sequencing and phenotypic susceptibility testing. We tested the synergy between mecillinam and avibactam or ceftazidime/avibactam. We used time−kill studies in vitro and a mouse peritonitis/sepsis model to confirm the synergistic effect. We investigated avibactam’s impact on mecillinam´s affinity for penicillin-binding proteins with a Bocillin assay, and cell changes with phase-contrast and confocal laser scanning microscopy. Results: Mecillinam combined with ceftazidime/avibact",
+        "journal": "Antibiotics (Basel, Switzerland)",
+        "year": "2022",
+        "authors": [
+          "List Karoline Knudsen",
+          "Kolpen Mette",
+          "Kragh Kasper Nørskov",
+          "Charbon Godefroid",
+          "Radmer Stine"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36289937/"
+      },
+      {
+        "pmid": "35215161",
+        "title": "Phenotypic and Molecular Characterization of Nonfermenting Gram-Negative Bacilli Causing Peritonitis in Peritoneal Dialysis Patients.",
+        "abstract": "(1) Background: Peritonitis due to nonfermenting Gram-negative bacilli (NF-GNB) is a dramatic complication of peritoneal dialysis (PD) with bad outcomes. Previous studies of PD-related peritonitis due to Pseudomonas species have shown a low-resolution rate, without a high resistance rate to antipseudomonal antibiotics. This suggests that bacterial virulence factors can act and influence peritonitis evolution. This study aimed to describe the microbiological characteristics of NF-GNB causing PD-related peritonitis and analyze their influence on the outcome. (2) Methods: We analyze the 48 isolates from NF-GNB peritonitis, which were stored in our culture collection regarding bacterial resistance, biofilm, and other virulence factors' production, and clonal profile. Additionally, we collected data on treatment and outcomes from patients' clinical registers. (3) Results: The etiologies were species of Pseudomonas (50%), Acinetobacter (36%), and other NF-GNB (14%). There was a high (75%) pr",
+        "journal": "Pathogens (Basel, Switzerland)",
+        "year": "2022",
+        "authors": [
+          "Moro Lima Dos Santos Ana Cláudia",
+          "Monteiro Aydir Cecília Marinho",
+          "Barbosa Thaís Alves",
+          "Riboli Danilo Flávio Moraes",
+          "Camargo Carlos Henrique"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35215161/"
+      },
+      {
+        "pmid": "37301439",
+        "title": "Plasma and intraperitoneal pharmacokinetics of ceftazidime/avibactam in peritoneal dialysis patients.",
+        "abstract": "Peritonitis is a serious complication in patients undergoing automated peritoneal dialysis (APD) that increases morbidity and frequently disqualifies patients from the peritoneal dialysis programme. Ceftazidime/avibactam (CAZ/AVI) is a potential treatment option for APD patients with peritonitis caused by resistant Gram-negative bacteria, but limited data exist on systemic and target-site pharmacokinetics (PK) in patients undergoing APD. This study set out to investigate the PK of CAZ/AVI in plasma and peritoneal dialysate (PDS) of patients undergoing APD.",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2023",
+        "authors": [
+          "Al Jalali Valentin",
+          "Matzneller Peter",
+          "Pham Anh Duc",
+          "van Os Wisse",
+          "Wölfl-Duchek Michael"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ceftazidime",
+          "Anti-Bacterial Agents",
+          "Prospective Studies",
+          "Drug Combinations",
+          "Microbial Sensitivity Tests",
+          "Peritoneal Dialysis",
+          "Azabicyclo Compounds"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37301439/"
+      },
+      {
+        "pmid": "40688946",
+        "title": "The Safety and Efficacy of Ceftazidime-Avibactam Plus Metronidazole Versus Meropenem for Intra-abdominal Infections: A Systematic Review and Meta-Analysis.",
+        "abstract": "Intra-abdominal infections encompass a range of medical conditions categorized by their complexity. Uncomplicated infections involve inflammation or infection limited to a single abdominal organ, such as acute appendicitis or cholecystitis, without extending to the peritoneum, while complicated infections spread to the peritoneal cavity. The key associated microbiological agents include Gram-positive cocci, Gram-negative Enterobacteriaceae, and obligate anaerobes, with common pathogens being Escherichia coli, Klebsiella pneumoniae, Streptococcus species, and Bacteroides fragilis. Treatment options include well-established antibiotics and newer agents like meropenem, metronidazole, and ceftazidime/avibactam. Meropenem, a carbapenem antibiotic, is known for its broad-spectrum efficacy and low toxicity, making it suitable for severe infections. Ceftazidime, a third-generation cephalosporin, is effective against Pseudomonas aeruginosa, especially when paired with avibactam, a β-lactamase i",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Nouh Mahmoud Ismail",
+          "AlButi Hala",
+          "Karrar Hani Raka",
+          "Hassan Dina M",
+          "Alhendi Rehab Salah Aldin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40688946/"
+      },
+      {
+        "pmid": "19577352",
+        "title": "Recurrent and relapsing peritonitis: causative organisms and response to treatment.",
+        "abstract": "The clinical behavior and optimal treatment of relapsing and recurrent peritonitis episodes in patients undergoing long-term peritoneal dialysis are poorly understood.",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2009",
+        "authors": [
+          "Szeto Cheuk-Chun",
+          "Kwan Bonnie Ching-Ha",
+          "Chow Kai-Ming",
+          "Law Man-Ching",
+          "Pang Wing-Fai"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Cefazolin",
+          "Ceftazidime",
+          "Female",
+          "Gentamicins",
+          "Gram-Negative Bacterial Infections",
+          "Gram-Positive Bacterial Infections",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19577352/"
+      },
+      {
+        "pmid": "36325003",
+        "title": "Excessive risk and poor outcome of hospital-acquired peritoneal dialysis-related peritonitis.",
+        "abstract": "Peritoneal dialysis (PD) is a home-based renal replacement therapy. Since hospital staff are not often familiar with PD and its complications, PD patients may have an excess risk of developing PD-related peritonitis during hospital admission for unrelated reasons, and the outcome may be affected.",
+        "journal": "Clinical kidney journal",
+        "year": "2022",
+        "authors": [
+          "Szeto Cheuk-Chun",
+          "Ng Jack Kit-Chung",
+          "Fung Winston Wing-Shing",
+          "Chan Gordon Chun-Kau",
+          "Cheng Phyllis Mei-Shan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36325003/"
+      },
+      {
+        "pmid": "11587402",
+        "title": "Effective treatment of peritoneal dialysis-associated peritonitis with cefazolin and ceftazidime in children.",
+        "abstract": "To evaluate the use of the combination of cefazolin and ceftazidime for initial treatment of peritoneal dialysis (PD)-related peritonitis in pediatric patients.",
+        "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+        "year": "2001",
+        "authors": [
+          "Rusthoven E",
+          "Monnens L A",
+          "Schröder C H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Cefazolin",
+          "Ceftazidime",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11587402/"
+      },
+      {
+        "pmid": "3886227",
+        "title": "Intraperitoneal vancomycin and ceftazidime in the treatment of CAPD peritonitis.",
+        "abstract": "The use of intraperitoneal vancomycin and ceftazidime in the treatment of 64 episodes of CAPD peritonitis is reported. Serum and dialysate antibiotic concentrations were measured in 19 of these and the maximum serum vancomycin level recorded was 30 mg/l. Culture of the dialysate was sterile in 52% of the cases, staphylococci were isolated in 30% and the infection rate during 1983 was 2.22 episodes per patient-year. This antibiotic combination has proven safe and effective and easily administered by the patients.",
+        "journal": "Clinical nephrology",
+        "year": "1985",
+        "authors": [
+          "Gray H H",
+          "Goulding S",
+          "Eykyn S J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Candidiasis",
+          "Ceftazidime",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Peritoneal Dialysis",
+          "Peritoneal Dialysis, Continuous Ambulatory",
+          "Peritonitis",
+          "Vancomycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3886227/"
+      },
+      {
+        "pmid": "8068991",
+        "title": "Stability of ceftazidime and vancomycin alone and in combination in heparinized and nonheparinized peritoneal dialysis solution.",
+        "abstract": "To examine the stability of ceftazidime, vancomycin, and heparin, alone and in combination, in dialysis solution over six days at three temperatures.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1994",
+        "authors": [
+          "Vaughan L M",
+          "Poon C Y"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Ceftazidime",
+          "Dialysis Solutions",
+          "Drug Stability",
+          "Heparin",
+          "Humans",
+          "Peritoneal Dialysis",
+          "Time Factors",
+          "Vancomycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8068991/"
+      },
+      {
+        "pmid": "14703199",
+        "title": "Pharmacokinetics of ceftazidime in CAPD-related peritonitis.",
+        "abstract": "The aim of this study was to measure and evaluate the appropriateness of the actual concentrations of serum and dialysate ceftazidime in Thai continuous ambulatory peritoneal dialysis (CAPD) patients.",
+        "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+        "year": "2003",
+        "authors": [
+          "Booranalertpaisarn Voravut",
+          "Eiam-Ong Somchai",
+          "Wittayalertpanya Supeecha",
+          "Kanjanabutr Talerngsak",
+          "Na Ayudhya Duangchit Panomwana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Ceftazidime",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Peritoneal Dialysis, Continuous Ambulatory",
+          "Peritonitis",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14703199/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:01:02.229314",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,583 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "pneumocystosis",
+    "query_string": "Trimethoprim AND pneumocystosis"
+  },
+  "data": {
+    "query": "Trimethoprim AND pneumocystosis",
+    "results": [
+      {
+        "pmid": "37358837",
+        "title": "Prophylaxis Against Pneumocystis jirovecii Pneumonia in Adults.",
+        "abstract": "",
+        "journal": "JAMA",
+        "year": "2023",
+        "authors": [
+          "Zhou Shiwei",
+          "Aitken Samuel L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Immunocompromised Host",
+          "Pneumonia, Pneumocystis",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Pneumocystis carinii",
+          "Chemoprevention"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37358837/"
+      },
+      {
+        "pmid": "32000290",
+        "title": "Pneumocystis jiroveci.",
+        "abstract": "Pneumocystis jiroveci remains an important fungal pathogen in a broad range of immunocompromised hosts. The natural reservoir of infection remains unknown. Pneumocystis jiroveci Pneumonia (PJP) develops via airborne transmission or reactivation of inadequately treated infection. Nosocomial clusters of infection have been described among immunocompromised hosts. Subclinical infection or colonization may occur. Pneumocystis pneumonia occurs most often within 6 months of organ transplantation and with intensified or prolonged immunosuppression, notably with corticosteroids. Infection is also common during neutropenia and low-lymphocyte counts, with hypogammaglobulinemia, and following cytomegalovirus (CMV) infection. The clinical presentation generally includes fever, dyspnea with hypoxemia, and nonproductive cough. Chest radiographic patterns are best visualized by computed tomography (CT) scan with diffuse interstitial processes. Laboratory examination reveals hypoxemia, elevated serum ",
+        "journal": "Seminars in respiratory and critical care medicine",
+        "year": "2020",
+        "authors": [
+          "Fishman Jay A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Immunocompromised Host",
+          "Organ Transplantation",
+          "Pneumocystis carinii",
+          "Pneumonia, Pneumocystis",
+          "Radiography",
+          "Trimethoprim, Sulfamethoxazole Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32000290/"
+      },
+      {
+        "pmid": "15190141",
+        "title": "Pneumocystis pneumonia.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2004",
+        "authors": [
+          "Thomas Charles F",
+          "Limper Andrew H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Anti-Infective Agents",
+          "Cytokines",
+          "Humans",
+          "Macrophages",
+          "Pneumocystis carinii",
+          "Pneumonia, Pneumocystis",
+          "Pulmonary Alveoli",
+          "Trimethoprim, Sulfamethoxazole Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15190141/"
+      },
+      {
+        "pmid": "29092853",
+        "title": "Prophylactic effect of trimethoprim-sulfamethoxazole for pneumocystis pneumonia in patients with rheumatic diseases exposed to prolonged high-dose glucocorticoids.",
+        "abstract": "To investigate the efficacy and safety of trimethoprim/sulfamethoxazole (TMP-SMX) as primary prophylaxis for pneumocystis pneumonia (PCP) in patients with rheumatic diseases receiving high-dose steroids.",
+        "journal": "Annals of the rheumatic diseases",
+        "year": "2018",
+        "authors": [
+          "Park Jun Won",
+          "Curtis Jeffrey R",
+          "Moon Jinyoung",
+          "Song Yeong Wook",
+          "Kim Suhnggwon"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Female",
+          "Glucocorticoids",
+          "Humans",
+          "Incidence",
+          "Male",
+          "Middle Aged",
+          "Pneumonia, Pneumocystis",
+          "Propensity Score"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29092853/"
+      },
+      {
+        "pmid": "37574166",
+        "title": "Low-Dose vs Conventional-Dose Trimethoprim-Sulfamethoxazole Treatment for Pneumocystis Pneumonia in Patients Not Infected With HIV: A Multicenter, Retrospective Observational Cohort Study.",
+        "abstract": "Trimethoprim-sulfamethoxazole (TMP-SMX) is an effective treatment for Pneumocystis jirovecii pneumonia (PCP) in immunocompromised patients with and without HIV infection; however, a high incidence of adverse events has been observed. Low-dose TMP-SMX is a potentially effective treatment with fewer adverse events; however, evidence is limited.",
+        "journal": "Chest",
+        "year": "2024",
+        "authors": [
+          "Nagai Tatsuya",
+          "Matsui Hiroki",
+          "Fujioka Haruka",
+          "Homma Yuya",
+          "Otsuki Ayumu"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Observational Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Aged",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Pneumonia, Pneumocystis",
+          "Retrospective Studies",
+          "HIV Infections",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37574166/"
+      },
+      {
+        "pmid": "21653531",
+        "title": "HIV-associated Pneumocystis pneumonia.",
+        "abstract": "During the past 30 years, major advances have been made in our understanding of HIV/AIDS and Pneumocystis pneumonia (PCP), but significant gaps remain. Pneumocystis is classified as a fungus and is host-species specific, but an understanding of its reservoir, mode of transmission, and pathogenesis is incomplete. PCP remains a frequent AIDS-defining diagnosis and is a frequent opportunistic pneumonia in the United States and in Europe, but comparable epidemiologic data from other areas of the world that are burdened with HIV/AIDS are limited. Pneumocystis cannot be cultured, and bronchoscopy with bronchoalveolar lavage is the gold standard procedure to diagnose PCP, but noninvasive diagnostic tests and biomarkers show promise that must be validated. Trimethoprim-sulfamethoxazole is the recommended first-line treatment and prophylaxis regimen, but putative trimethoprim-sulfamethoxazole drug resistance is an emerging concern. The International HIV-associated Opportunistic Pneumonias (IHOP",
+        "journal": "Proceedings of the American Thoracic Society",
+        "year": "2011",
+        "authors": [
+          "Huang Laurence",
+          "Cattamanchi Adithya",
+          "Davis J Lucian",
+          "den Boon Saskia",
+          "Kovacs Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adrenal Cortex Hormones",
+          "Anti-Infective Agents",
+          "Biomarkers",
+          "Bronchoalveolar Lavage",
+          "Bronchoscopy",
+          "CD4 Lymphocyte Count",
+          "Dihydropteroate Synthase",
+          "Drug Resistance, Fungal",
+          "HIV Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21653531/"
+      },
+      {
+        "pmid": "3484928",
+        "title": "Intravenous trimethoprim-sulfamethoxazole and ataxia.",
+        "abstract": "",
+        "journal": "Annals of internal medicine",
+        "year": "1986",
+        "authors": [
+          "Liu L X",
+          "Seward S J",
+          "Crumpacker C S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Ataxia",
+          "Drug Combinations",
+          "Humans",
+          "Infusions, Parenteral",
+          "Male",
+          "Middle Aged",
+          "Pneumonia, Pneumocystis",
+          "Sulfamethoxazole",
+          "Trimethoprim"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3484928/"
+      },
+      {
+        "pmid": "3874045",
+        "title": "Persistence of pneumocystis.",
+        "abstract": "",
+        "journal": "Chest",
+        "year": "1985",
+        "authors": [
+          "Hughes W T"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Animals",
+          "Humans",
+          "Pentamidine",
+          "Pneumonia, Pneumocystis",
+          "Recurrence",
+          "Sulfamethoxazole",
+          "Time Factors",
+          "Trimethoprim"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3874045/"
+      },
+      {
+        "pmid": "4365115",
+        "title": "Efficacy of trimethoprim and sulfamethoxazole in the prevention and treatment of Pneumocystis carinii pneumonitis.",
+        "abstract": "A combination of trimethoprim and sulfamethoxazole was effective in the prevention and treatment of Pneumocystis carinii pneumonitis in cortisonetreated rats. Although all of 15 untreated rats died with P. carinii pneumonitis, none of 15 given trimethoprim-sulfamethoxazole prophylactically acquired the infection. After P. carinii pneumonitis was established, 9 of 14 rats recovered after treatment with trimethoprim-sulfamethoxazole compared with only 2 of 14 treated with pentamidine isethionate. Rifampin and clindamycin, separately or in combination with pentamidine, were ineffective in the prevention and treatment of P. carinii infection.",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "1974",
+        "authors": [
+          "Hughes W T",
+          "McNabb P C",
+          "Makres T D",
+          "Feldman S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Alkanesulfonates",
+          "Amidines",
+          "Animals",
+          "Clindamycin",
+          "Drug Therapy, Combination",
+          "Male",
+          "Phenyl Ethers",
+          "Pneumonia, Pneumocystis",
+          "Rifampin",
+          "Sulfamethoxazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4365115/"
+      },
+      {
+        "pmid": "24617414",
+        "title": "Pneumocystis and Pneumocystosis: first meeting of experts from Latin-American and Portuguese-speaking countries - a mini-review.",
+        "abstract": "The Pneumocystis and Pneumocystosis: first meeting of experts from Latin-American and Portuguese-speaking countries was held in Lisbon, Portugal, on 24-26 October 2013. A total of 20 speakers from Latin America, Africa and Europe participated in the meeting. The epidemiological studies presented in this meeting begin to change the misconception that since the AIDS epidemic, Pneumocystis pneumonia (PcP) has become an infrequent disease, showing that today PcP remains a major opportunistic infection in HIV-infected patients in both developed and developing countries and an emerging problem in immunocompromised patients without HIV infection worldwide. PcP management remains a challenge. Right now, the combination of caspofungin and trimethoprim-sulfamethoxazole (TMP-SMX) is a promising therapeutic approach that needs to be assessed in controlled clinical trials.",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2014",
+        "authors": [
+          "Esteves Francisco",
+          "Medrano Francisco J",
+          "de Armas Yaxsier",
+          "Wissmann Gustavo",
+          "Calderón Enrique J"
+        ],
+        "pub_types": [
+          "Conference Proceedings"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Anti-Infective Agents",
+          "Caspofungin",
+          "Developed Countries",
+          "Developing Countries",
+          "Echinocandins",
+          "Humans",
+          "Immunocompromised Host",
+          "Latin America",
+          "Lipopeptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24617414/"
+      },
+      {
+        "pmid": "6600803",
+        "title": "Trimethoprim-sulfamethoxazole.",
+        "abstract": "The antimicrobial combination of trimethoprim and sulfamethoxazole is active in vitro against a variety of gram-positive and gram-negative bacteria. Clinically, it is useful for treatment and prophylaxis of various infections of the genitourinary tract and certain infections of the respiratory and gastrointestinal tracts. Trimethoprim-sulfamethoxazole by itself or in combination with other antimicrobial agents is effective for most Nocardia asteroides infections. It is the antimicrobial agent of choice for Pneumocystis carinii pneumonia. The drug is relatively nontoxic and available in oral and intravenous forms. The native compounds and the metabolites of trimethoprim and sulfamethoxazole are excreted primarily in the urine. When the creatinine clearance decreases to less than 30 ml/min, the dosage of trimethoprim-sulfamethoxazole should be adjusted.",
+        "journal": "Mayo Clinic proceedings",
+        "year": "1983",
+        "authors": [
+          "Cockerill F R",
+          "Edson R S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacterial Infections",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Dysentery, Bacillary",
+          "Humans",
+          "Nocardia Infections",
+          "Pneumonia, Pneumocystis",
+          "Respiratory Tract Infections",
+          "Sulfamethoxazole",
+          "Trimethoprim"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6600803/"
+      },
+      {
+        "pmid": "382841",
+        "title": "Drug therapy reviews: trimethoprim-sulfamethoxazole.",
+        "abstract": "The mechanism of action, antimicrobial spectrum, pharmacokinetic properties, drug interactions, adverse reactions and therapeutic uses of trimethoprim-sulfamethoxazole, a combination enzyme-specific inhibitor of bacterial folate synthesis, are reviewed. Trimethoprim-sulfamethoxazole currently is approved by the FDA for the therapy of established recurrent bacterial urinary tract infections, pneumocystosis, otitis media in children and shigellosis. Claimed advantages of the drug are synergistic activity, bactericidal activity and ability to decrease the rate of emergence of resistance to the individual components. Trimethoprim-sulfamethoxazole is the drug of choice for treatment of pneumocystosis and an acceptable oral therapy for recurrent urinary tract infections caused by susceptible bacteria. In children with otitis media, it is used as an alternative to ampicillin and amoxicillin and is preferred when these patients are penicillin-sensitive or when the infection is caused by beta-l",
+        "journal": "American journal of hospital pharmacy",
+        "year": "1979",
+        "authors": [
+          "Gleckman R",
+          "Alvarez S",
+          "Joubert D W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Bacteria",
+          "Child",
+          "Chronic Disease",
+          "Diagnostic Errors",
+          "Drug Administration Schedule",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Humans",
+          "Kinetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/382841/"
+      },
+      {
+        "pmid": "3257532",
+        "title": "Safety and efficacy of sulfamethoxazole and trimethoprim chemoprophylaxis for Pneumocystis carinii pneumonia in AIDS.",
+        "abstract": "The safety and efficacy of sulfamethoxazole and trimethoprim in the prevention of Pneumocystis carinii pneumonia associated with the acquired immunodeficiency syndrome (AIDS) were evaluated. Sixty patients with a new diagnosis of Kaposi's sarcoma and no history of opportunistic infections were randomly assigned to receive 800 mg of sulfamethoxazole and 160 mg of trimethoprim twice per day or no therapy. None of the 30 patients receiving sulfamethoxazole and trimethoprim developed P carinii pneumonia. Sixteen of the 30 patients receiving no suppressive therapy developed P carinii pneumonia. Development of P carinii pneumonia was associated with the stage of Kaposi's sarcoma, B subtype disease, and the presence of 0.20 X 10(9)/L (200/mm3) or fewer CD4 cells at study entry. The proportion of patients surviving and the mean length of survival were significantly greater in the treatment group compared with the control group. Adverse reactions occurred in 15 patients (50%).",
+        "journal": "JAMA",
+        "year": "1988",
+        "authors": [
+          "Fischl M A",
+          "Dickinson G M",
+          "La Voie L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acquired Immunodeficiency Syndrome",
+          "Adult",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Pneumonia, Pneumocystis",
+          "Prospective Studies",
+          "Random Allocation",
+          "Sarcoma, Kaposi"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3257532/"
+      },
+      {
+        "pmid": "23891358",
+        "title": "Trimethoprim-associated hyponatremia.",
+        "abstract": "Hyponatremia associated with diuretic use can be clinically difficult to differentiate from the syndrome of inappropriate antidiuretic hormone secretion (SIADH). We report a case of a 28-year-old man with HIV (human immunodeficiency virus) and Pneumocystis pneumonia who developed hyponatremia while receiving trimethoprim-sulfamethoxazole (TMP/SMX). Serum sodium level on admission was 135 mEq/L (with a history of hyponatremia) and decreased to 117 mEq/L by day 7 of TMP/SMX treatment. In the setting of suspected euvolemia and Pneumocystis pneumonia, he was treated initially for SIADH with fluid restriction and tolvaptan without improvement in serum sodium level. A diagnosis of hyponatremia secondary to the diuretic effect of TMP subsequently was confirmed, with clinical hypovolemia and high renin, aldosterone, and urinary sodium levels. Subsequent therapy with sodium chloride stabilized serum sodium levels in the 126- to 129-mEq/L range. After discontinuation of TMP/SMX treatment, serum ",
+        "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+        "year": "2013",
+        "authors": [
+          "Babayev Revekka",
+          "Terner Sofia",
+          "Chandra Subani",
+          "Radhakrishnan Jai",
+          "Mohan Sumit"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adult",
+          "Anti-Infective Agents",
+          "Diagnosis, Differential",
+          "Humans",
+          "Hyponatremia",
+          "Inappropriate ADH Syndrome",
+          "Male",
+          "Pneumonia, Pneumocystis",
+          "Sodium Chloride, Dietary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23891358/"
+      },
+      {
+        "pmid": "1818179",
+        "title": "Effect of sulfamethoxazole-trimethoprim and sulfadoxine-primethamine against fatal pneumocystosis in SCID mice.",
+        "abstract": "The effect of sulfamethoxazole-trimethoprim (S-T) and sulfadoxine-primethamine (S-P) against Pneumocystis carinii (Pc) were examined in severe combined immunodeficiency (SCID) mice which are known to be susceptible to Pc. These animals develop fatal pneumocystosis without treatment with any immunosuppressant. The results suggested that S-T and S-P were effective against both trophic and cystic forms of Pc in SCID mice.",
+        "journal": "The Journal of protozoology",
+        "year": "1991",
+        "authors": [
+          "Furuta T",
+          "Ito M",
+          "Kuramochi T",
+          "Hioki K",
+          "Nomura T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Disease Models, Animal",
+          "Drug Combinations",
+          "Female",
+          "Lung",
+          "Mice",
+          "Mice, SCID",
+          "Pneumonia, Pneumocystis",
+          "Pyrimethamine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1818179/"
+      },
+      {
+        "pmid": "6402123",
+        "title": "Pneumocystis pneumonia.",
+        "abstract": "",
+        "journal": "British medical journal (Clinical research ed.)",
+        "year": "1983",
+        "authors": [
+          "Kaye S B"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Pentamidine",
+          "Pneumonia, Pneumocystis",
+          "Rats",
+          "Sulfamethoxazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6402123/"
+      },
+      {
+        "pmid": "39389264",
+        "title": "Efficacy and safety of a low-dose sulfamethoxazole/trimethoprim regimen in preventing pneumocystis pneumonia: A retrospective study using a large-scale electronic medical record database.",
+        "abstract": "Sulfamethoxazole/trimethoprim (ST) is a first-line drug for preventing pneumocystis pneumonia (PCP). Several small-scale studies have suggested the usefulness of the low-dose regimen of ST (200/40 mg/day) over the standard-dose one (400/80 mg/day). Thus, this study aimed to investigate the efficacy and safety of low-dose and standard-dose regimens of ST in preventing PCP in patients with non human immunodeficiency virus infection using a large-scale electronic medical record database.",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2025",
+        "authors": [
+          "Takeda Koki",
+          "Okada Akira",
+          "Sera Shoji",
+          "Oishi Teruki",
+          "Nagai Naomi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pneumonia, Pneumocystis",
+          "Retrospective Studies",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Male",
+          "Female",
+          "Electronic Health Records",
+          "Middle Aged",
+          "Aged",
+          "Databases, Factual"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39389264/"
+      },
+      {
+        "pmid": "6967184",
+        "title": "Trimethoprim-sulfamethoxazole.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1980",
+        "authors": [
+          "Rubin R H",
+          "Swartz M N"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Bacteria",
+          "Child",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Drug Resistance, Microbial",
+          "Dysentery, Bacillary",
+          "Humans",
+          "Infusions, Parenteral"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6967184/"
+      },
+      {
+        "pmid": "19879509",
+        "title": "Pneumocystis pneumonia in children.",
+        "abstract": "Pneumocystis pneumonia (PCP) is a life-threatening infection in immunocompromised children with quantitative and qualitative defects in T lymphocytes. At risk are children with lymphoid malignancies, HIV infection, corticosteroid therapy, transplantation and primary immunodeficiency states. Diagnosis is established through direct examination or polymerase chain reaction (PCR) from respiratory secretions. Trimethoprim-sulphamethoxazole is used for initial therapy in most patients, while pentamidine, atovaquone, clindamycin plus primaquine, and dapsone plus trimethoprim are alternatives. Prophylaxis of high-risk patients reduces but does not eliminate the risk of PCP. Improved understanding of the pathogenesis of PCP is important for future advances against this life-threatening infection.",
+        "journal": "Paediatric respiratory reviews",
+        "year": "2009",
+        "authors": [
+          "Pyrgos Vasilios",
+          "Shoham Shmuel",
+          "Roilides Emmanuel",
+          "Walsh Thomas J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Child",
+          "Humans",
+          "Immunocompromised Host",
+          "Pneumonia, Pneumocystis",
+          "Treatment Outcome",
+          "Trimethoprim, Sulfamethoxazole Drug Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19879509/"
+      },
+      {
+        "pmid": "37797822",
+        "title": "Sulfamethoxazole-trimethoprim for pneumocystis pneumonia prophylaxis, causes of discontinuation and thrombocytopenia observed during administration: A single-center retrospective study.",
+        "abstract": "The development of pneumocystis pneumonia (PCP) has recently become a growing concern; thus, its prevention has become increasingly important. Sulfamethoxazole-trimethoprim (ST) is a cost-effective first-line and prophylactic treatment for PCP. However, ST administration criteria for PCP prophylaxis remain unclear and are often discontinued because of adverse events (AEs). In this study, we aimed to investigate the causes of ST discontinuation and the associated AEs using objective data.",
+        "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "year": "2024",
+        "authors": [
+          "Hashimoto Misaki",
+          "Hiraiwa Miho",
+          "Uchitani Kazuki",
+          "Ueda Masahiro",
+          "Tanaka Masayuki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Pneumonia, Pneumocystis",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Thrombocytopenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37797822/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:48:45.221954",
+  "success": true,
+  "error_message": null
+}

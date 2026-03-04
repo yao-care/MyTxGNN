@@ -1,0 +1,72 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "vasomotor rhinitis",
+    "query_string": "Caffeine AND vasomotor rhinitis"
+  },
+  "data": {
+    "query": "Caffeine AND vasomotor rhinitis",
+    "results": [
+      {
+        "pmid": "8841149",
+        "title": "Human pharmacokinetics of dihydroergotamine administered by nasal spray.",
+        "abstract": "A nasal spray of dihydroergotamine was developed for the treatment of migraine headaches, and pharmacokinetic studies were scheduled to evaluate the bioavailability of dihydroergotamine by this new route of administration.",
+        "journal": "Clinical pharmacology and therapeutics",
+        "year": "1996",
+        "authors": [
+          "Humbert H",
+          "Cabiac M D",
+          "Dubray C",
+          "Lavène D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Intranasal",
+          "Adult",
+          "Analgesics, Non-Narcotic",
+          "Area Under Curve",
+          "Biological Availability",
+          "Dihydroergotamine",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8841149/"
+      },
+      {
+        "pmid": "5688628",
+        "title": "[On the non-specific treatment of the vasomotor rhinopathy].",
+        "abstract": "",
+        "journal": "Zeitschrift fur Laryngologie, Rhinologie, Otologie und ihre Grenzgebiete",
+        "year": "1968",
+        "authors": [
+          "Schöler W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Caffeine",
+          "Humans",
+          "Injections, Intradermal",
+          "Methods",
+          "Nasal Mucosa",
+          "Procaine",
+          "Rhinitis, Allergic, Seasonal",
+          "Vasomotor System"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5688628/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:55:18.122575",
+  "success": true,
+  "error_message": null
+}

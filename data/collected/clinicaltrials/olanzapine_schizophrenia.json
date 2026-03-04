@@ -1,0 +1,919 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "schizophrenia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03304457",
+      "title": "Effect of Lurasidone Vs Olanzapine on Neurotrophic Biomarkers and Cardiometabolic Parameters in First Episode Untreated Schizophrenia: A Randomized, Open Label, Active Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-25",
+      "completion_date": "2018-03-25",
+      "country": "India",
+      "enrollment": 100,
+      "brief_summary": "Schizophrenia (SCZ) is a chronic, severe and disabling mental disorder with unclear etiology and pathophysiology concerned with neuro-developmental,neurodegenerative abnormalities and cognitive impairmentslinked to behavioural changes.According to neurotrophic hypothesis, the changes result due to the abnormal regulation of neurotrophic factor, especially the decreased serum brain derived neurotrophic factor (BDNF) validated by several meta-analyses. However, the regulation of nerve growth facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All treatment naive patients clinically diagnosed first episode of SCZ according to ICD-10\n* Patients of either sex with age range 18-45 years\n* Treatment naïve patients\n\nExclusion Criteria:\n\n* Other Psychotic spectrum disorders (F21- F29)\n* Highly agitated/ violent/ suicidal ",
+      "endpoints": [
+        "Serum brain derived neurotrophic factor (BDNF)"
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT03304457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00918021",
+      "title": "Olanzapine Augmentation in Clozapine-resistant Schizophrenia: a Randomized Double-blind Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2010-07",
+      "country": "Finland",
+      "enrollment": 30,
+      "brief_summary": "The aim of this randomized, double-blind study is to verify the hypothesis that clozapine monotherapy is as efficient as a combination of clozapine and olanzapine therapy in treatment-resistant schizophrenia.\n\nA third of schizophrenia patients are non -responders to medications used nowadays. These patients are usually treated with clozapine, but a large proportion of patients don't recover sufficiently. Therefore, these patients are treated with combination of two or more drugs to achieve bette",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age ≥18 years, (adult), legally competent\n* the patient is able to understand the purpose of the study and is eligible to sign the written informed consent form.\n* insufficient response to the valid clozapine-olanzapine -polypharmacy\n* psychotropic medication has been constant",
+      "endpoints": [
+        "The primary outcomes are GAF and modified CGIS during the parallel phase of the study (the first 12 weeks)."
+      ],
+      "sponsor": "Niuvanniemi Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00918021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02137616",
+      "title": "Effectiveness of Antipsychotic Drugs to Treat Psychosis Syndrome: an Open Label, Controlled Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2014-12",
+      "country": "China",
+      "enrollment": 300,
+      "brief_summary": "This study assess the safety and effects of atypical antipsychotics in subjects with psychosis syndrome and psychosis risk syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* were help-seeking young individuals in outpatients service\n* aged 16-30 years\n* fitted one of the following Criteria: Psychosis-risk Syndromes (COPS-SIPS) or Psychotic Syndrome (POPS-SIPS) or DSM-IV diagnosis of schizophreniform disorder\n\nExclusion Criteria:\n\n* a previous diag",
+      "endpoints": [
+        "Changes of PANSS total scores from baseline to 18 months"
+      ],
+      "sponsor": "Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT02137616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00044655",
+      "title": "Effectiveness of Switching Antipsychotic Medications",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-07",
+      "completion_date": "2009-03",
+      "country": "N/A",
+      "enrollment": 219,
+      "brief_summary": "This study will evaluate the effectiveness of switching medications in decreasing schizophrenia symptoms in individuals who are currently taking an antipsychotic medication for the treatment of schizophrenia.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* SCID diagnosis of schizophrenia or schizoaffective disorder\n* Partially remitted outpatients, defined as persons who have received clear symptomatic benefit from antipsychotic medication but remain symptomatic (due to lack of efficacy or inability to tolerate an efficacious do",
+      "endpoints": [
+        "Number Who Discontinued Medication Within First 6 Study Months"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT00044655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01625923",
+      "title": "A Pilot Study on the Efficacy and Safety of Olanzapine in Improving Symptoms and Gastric Motility in Gastroparesis",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2013-01",
+      "completion_date": "2019-06",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Gastroparesis is a disorder characterized by impaired gastric emptying in the absence of obstruction in the proximal GI tract. It is a common condition affecting up to 5 million persons in the United States alone. Despite this, metoclopramide is currently the only FDA approved medication for the treatment of gastroparesis. However, the evidence supporting metoclopramide in gastroparesis is fairly weak and was recently issued a black box warning because of potential irreversible side effects. The",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female between 18 and 70 years of age\n* Must have a \\> or = 6 month history of relevant symptoms of gastroparesis, (e.g., chronic post-prandial fullness, early satiety, postprandial nausea), patients will have a mean of the daily scores over a minimum of 7 days indicat",
+      "endpoints": [
+        "Change in Mean BMI",
+        "Mean GCSI-DD Before/After Treatment With Olanzapine",
+        "Change in Mean Serum Glucose"
+      ],
+      "sponsor": "University of Michigan",
+      "url": "https://clinicaltrials.gov/study/NCT01625923"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03818256",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety, Efficacy, and Pharmacokinetics of Miricorilant (CORT118335) in Obese Adult Patients With Schizophrenia or Bipolar Disorder and Recent Weight Gain While Taking Antipsychotic Medications (GRATITUDE)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-12-04",
+      "completion_date": "2022-07-06",
+      "country": "United States",
+      "enrollment": 71,
+      "brief_summary": "This phase 2, double blind, placebo-controlled, randomized study is to assess the safety, efficacy, and pharmacokinetics (PK) of miricorilant (CORT118335) in obese adults with schizophrenia or bipolar disorder treated with antipsychotic medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a diagnosis of schizophrenia or bipolar disorder\n* Are currently taking oral or injectable atypical antipsychotic medication (except clozapine) and must have documented weight gain while on these medications\n* Must be on a stable dose of medication for 1 month prior to Sc",
+      "endpoints": [
+        "Change From Baseline in Body Weight at Week 12 for 600 mg Miricorilant Versus Placebo",
+        "Number of Patients With One or More Treatment-emergent Adverse Events",
+        "Number of Patients With One or More Treatment-emergent Serious Adverse Events"
+      ],
+      "sponsor": "Corcept Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03818256"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06315283",
+      "title": "A 21-Week, Multicenter, Open-Label, Multiple-Dose Trial to Assess the Comparative Bioavailability of Olanzapine Prolonged-Release Suspension for Subcutaneous Administration (TV-44749) to Oral Olanzapine (European Reference) in Participants With Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2024-03-20",
+      "completion_date": "2025-09-04",
+      "country": "Croatia, United Kingdom, Spain, United States",
+      "enrollment": 153,
+      "brief_summary": "The primary objective of the study is to evaluate the comparative bioavailability of TV-44749 administered subcutaneous (sc) to oral olanzapine (ZYPREXA®) at steady state in participants with schizophrenia.\n\nA secondary objective of this trial is to evaluate the safety and tolerability of multiple doses of TV-44749 administered sc in participants with schizophrenia.\n\nAnother secondary objective of this trial is to compare additional pharmacokinetic parameters of TV-44749 administered sc with ora",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Agree to maintain current smoking or nonsmoking status at the time informed consent is obtained and throughout the trial until completion of the EOT or ET visit (ie, nonsmoking participants must agree not to start smoking and participants who smoke will be excluded if they pla",
+      "endpoints": [
+        "Area under the curve (AUC) of TV-44749",
+        "AUC of oral olanzapine"
+      ],
+      "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06315283"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00205738",
+      "title": "Glucose Regulation During Risperidone and Olanzapine Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-07",
+      "completion_date": "2006-10",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "Abnormalities in peripheral glucose regulation and type 2 diabetes can occur more commonly in individuals with schizophrenia than in healthy subjects or in other psychiatric conditions. Antipsychotic treatment may contribute significantly to abnormalities in glucose regulation. Hyperglycemia can contribute to long-term cardiovascular disease risk that may already be increased in patients with schizophrenia due to higher rates of smoking, sedentary life style, obesity and under-treated hypertensi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients: meets DSM-IV criteria for schizophrenia, any type, or schizoaffective disorder;\n2. Aged 18 to 60 years;\n3. Able to give informed consent;\n4. No medication changes for 2 weeks prior to and during the period of study; 5. Patients: currently taking olanzapine, risperid",
+      "endpoints": [
+        "Effects of olanzapine/risperidone/haloperidol on glucose regulation."
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00205738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04002258",
+      "title": "Prolactin Change and Its Effectors in Chinese Patients With Schizophrenia After Antipsychotics Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-06-06",
+      "completion_date": "2022-10-25",
+      "country": "China",
+      "enrollment": 10363,
+      "brief_summary": "Objective:\n\nHyperprolactinemia(HPRL) which can result in a series of prolactin-related symptoms is a frequent adverse effect of antipsychotics. The investigators are interested to explicate the characteristics of serum prolactin level change after taking different antipsychotics and related factors.\n\nMethod:\n\n1. Review of electronic medical records of schizophrenia patients who were brought to Shanghai Mental Health Center since January 1, 2007.\n2. The investigators collect their information, an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosed as schizophrenia according to Diagnostic and Statistical Manual of Mental Disorders(DSM)-5;\n* were taking or going to take antipsychotics;\n* have the results of serum prolactin level.\n\nExclusion Criteria:\n\n* other mental disorder;\n* suffered endocrinic diseases of pi",
+      "endpoints": [
+        "prolactin level at first 1-month antipsychotic treatment"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT04002258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04892199",
+      "title": "Does the Glucagon-like Peptide-1 Receptor Agonist Semaglutide Prevent Deterioration of Metabolic State in Prediabetic or Diabetic Patients With Schizophrenia Treated With the Antipsychotic Compounds Clozapine or Olanzapine?",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-09-01",
+      "completion_date": "2026-08-01",
+      "country": "Denmark",
+      "enrollment": 104,
+      "brief_summary": "Background and objective:\n\nClozapine and olanzapine are some of the most effective antipsychotic drugs, but unfortunately, both drugs induce weight gain and conveys a high degree of metabolic disturbances. The antipsychotic-induced side-effects cause a major clinical problem among patients diagnosed with schizophrenia receiving antipsychotic treatment. Limited effects have been demonstrated for counteracting the side-effects by the switch of antipsychotic therapy, non-pharmacological/behavioural",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Informed oral and written consent\n2. Diagnosed with schizophrenia according to the criteria of ICD-10 (International Classification of Diseases, World Health Organization (WHO)) or the DSM-V (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, the American P",
+      "endpoints": [
+        "The primary endpoint is the change from baseline in glycated haemoglobin A1c (HbA1c)."
+      ],
+      "sponsor": "Psychiatric Centre Rigshospitalet",
+      "url": "https://clinicaltrials.gov/study/NCT04892199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00034892",
+      "title": "Efficacy and Tolerability of Olanzapine, Quetiapine and Risperidone in the Treatment of First Episode Psychosis: A Randomized Double Blind 52-Week Comparison",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2005-03",
+      "country": "Canada, United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the effectiveness, tolerability, and efficacy of the currently available atypical antipsychotic drugs olanzapine (2.5-20 mg/day), quetiapine (100-800 mg/day) and risperidone (0.5-4 mg/day) in patients with schizophrenia, schizophreniform disorder, or schizoaffective disorder who are experiencing their first psychotic episode.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet criteria for schizophreniform disorder, schizophrenia, or schizoaffective disorder with psychotic symptoms lasting 1-60 months\n* Psychotic symptoms must have persisted at least one month, and not more thn 5 years (60 months)\n* Patients must have no previous ",
+      "endpoints": [],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00034892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03237052",
+      "title": "A Randomized Controlled Multi-center Clinical Study Focusing on Validating and Optimizing Model of Antipsychotics Selection in China",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-01",
+      "completion_date": "2020-12",
+      "country": "China",
+      "enrollment": 2000,
+      "brief_summary": "This multi-centre study will evaluate the clinical efficacy of 3 atypical antipsychotics treatment in Chinese Patients with Schizophrenia by comparing model-decision with real-world psychiatrist-decision. The three atypical antipsychotics are olanzapine (5-20 milligram per day), risperidone (2-6 milligram per day) and aripiprazole (5-30 milligram per day). The main purpose of this study is to explore the potential difference between modal-aided-decision with clinician-decision in order to valida",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* An in-patient or out-patient (male or female) and aged ≥18 years\n* A diagnosis of schizophrenia, DSM-5 (Diagnostic and Statistical Manual Diploma in Social Medicine-5)\n* Subjects must have the ability to effectively communicate with investigator, complete study related documen",
+      "endpoints": [
+        "Change of PSP from Baseline"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT03237052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02582736",
+      "title": "Atypical Antipsychotics and Hyperglycemic Emergencies: Multicentre, Retrospective Cohort Study of Administrative Data",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2012-12",
+      "country": "Canada",
+      "enrollment": 725489,
+      "brief_summary": "The purpose of this study is to determine whether the use of atypical antipsychotic medication increases the risk of hospitalization for a hyperglycemic emergency.\n\nThe investigators will carry out separate population-based cohort studies using administrative health databases in eight jurisdictions in Canada and the UK. Cohort entry will be defined by the initiation of a new antipsychotic medication. Follow-up will continue until hospitalization for a hyperglycemic emergency or the end of 365 da",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a with a first-time prescription for an antipsychotic medication\n* Patients at least 18 years of age at cohort entry (except Alberta, Ontario, and Nova Scotia, where patients will be a least 66 years of age)\n* Patients with at least 1 year of history in the datab",
+      "endpoints": [
+        "Hospitalization for a hyperglycemic emergency"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02582736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03187769",
+      "title": "A Study to Evaluate the Effect of ALKS 3831 Compared to Olanzapine on Body Weight in Young Adults With Schizophrenia, Schizophreniform, or Bipolar I Disorder Who Are Early in Their Illness",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-08",
+      "completion_date": "2022-01-03",
+      "country": "Israel, South Korea, Spain, Russia, Austria, Italy, Ukraine, Germany, Ireland, United Kingdom, Poland, United States",
+      "enrollment": 426,
+      "brief_summary": "This study will evaluate the effect of ALKS 3831 compared to olanzapine on body weight in young adults with schizophrenia, schizophreniform, or bipolar I disorder who are early in their illness",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has less than 24 weeks previous treatment with antipsychotics (cumulative; lifetime)\n\n  * Subject treated with aripiprazole can receive an additional 1 year of treatment at ≤5 mg/day, and this treatment will not be considered as part of the 24 weeks of previous treatment with ",
+      "endpoints": [
+        "Percent Change From Baseline in Body Weight at Week 12"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03187769"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04987229",
+      "title": "Long-term, Safety Extension Study of OLZ/SAM in Pediatric Subjects With Schizophrenia or Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2021-10-22",
+      "completion_date": "2027-09",
+      "country": "Brazil, Mexico, Colombia, Argentina, United States",
+      "enrollment": 236,
+      "brief_summary": "To evaluate the long-term safety and tolerability of OLZ/SAM in pediatric subjects with schizophrenia or Bipolar I disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has completed the treatment period in either the ALKS 3831-A311 or the ALKS 3831-A312 study within 10 days of enrolling into this extension study, or subject had terminated early from Study ALKS 3831-A312 due to the clinically significant weight gain criterion.\n* Subje",
+      "endpoints": [
+        "Incidence of adverse events"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04987229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482554",
+      "title": "Lumateperone for the Improvement of Apathy in Patients With Psychotic Symptoms.",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study is looking to determine if Lumateperone improves motivation in patients with schizophrenia or schizoaffective disorders who show high levels of apathy as judged by AES-C-Apathy (Apathy Evaluation Scale - Clinician - Apathy) assessment and to examine a possible correlation between improvement in apathy scores and changes in elements of the PANSS (Positive and Negative Syndrome Scale) due to treatment with Lumateperone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects between the ages of 18-65 that have been diagnosed with Schizophrenia, Schizoaffective Disorder or Schizophrenia Spectrum and Other Psychotic Disorders.\n* A BPRS score \\> 35 at the screening visit.\n* An AES-C score \\> 32 at the screening visit.\n* If the",
+      "endpoints": [
+        "Change in AES-C Score"
+      ],
+      "sponsor": "Louisiana State University Health Sciences Center Shreveport",
+      "url": "https://clinicaltrials.gov/study/NCT06482554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03629951",
+      "title": "An Observational Study for Schizophrenia Relapse Prediction",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-11-29",
+      "completion_date": "2021-12-31",
+      "country": "India",
+      "enrollment": 333,
+      "brief_summary": "The purpose of this study is to identify if there are self-reported/caregiver reported or objective measures that can predict near-term relapse (within 1 month or at another identified time point before meeting the criteria for relapse) or early symptomatic changes indicative of pre-relapse.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants and their legally acceptable representative where applicable must be able to sign an informed consent form (ICF) indicating that he or she understands the purpose of and procedures required for the study and is willing to participate for the duration of the study\n",
+      "endpoints": [
+        "Number of Participants with Relapse"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03629951"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00212771",
+      "title": "Long-Term Efficacy and Safety Evaluation of Asenapine (10-20 mg/Day) in With Schizophrenia or Schizoaffective Disorder, in a Multicenter Trial Using (10-20 mg/Day) as a Control",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2006-10",
+      "country": "N/A",
+      "enrollment": 440,
+      "brief_summary": "The primary features of schizophrenia and schizoaffective disorder are positive (inability to think clearly and distinguish reality from fantasy) and negative symptoms (reduction or absence of normal behavior or emotions). Other symptoms include reduced ability to recall and learn information, difficulty in problem solving maintaining productive employment.\n\nAsenapine is an investigational drug that may help to correct the above schizophrenia by altering the inbalance of brain hormones such as d",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject with schizophrenia or schizoaffective disorder. Must have completed 12 months treatment under protocol 25517. Subject must sign a written informed consent.\n\nExclusion Criteria:\n\n* Have an uncontrolled, unstable, clinically significant medical condition.",
+      "endpoints": [
+        "Change in total PANSS score at endpoint"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00212771"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01541371",
+      "title": "An Open-label Prospective Trial to Explore the Tolerability, Safety and Efficacy of Flexibly Dosed Paliperidone ER in Non Acute Episode Subjects With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2009-09",
+      "country": "N/A",
+      "enrollment": 405,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of paliperidone extended-release (ER; designed to slowly release a drug in the body over an extended period of time) tablets in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions \\[a false belief held in the face of strong differing evidence, especially as a symptom of psychiatric disorder\\] and hallucinations \\[imagining things\\], and withdrawal int",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants meeting Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV) diagnosis criteria of schizophrenia\n* Participant receiving full course of treatment (6-8 weeks) at correct dose (dose range recommended by the instruction) of Risperdal, Zyprexa or Seroquel",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score at Week 12"
+      ],
+      "sponsor": "Xian-Janssen Pharmaceutical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01541371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00088465",
+      "title": "An Open-Label Study of Intramuscular Olanzapine Depot in Patients With Schizophrenia or Schizoaffective Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2010-12",
+      "country": "Brazil, Spain, Mexico, Puerto Rico, Russia, Sweden, Belgium, Croatia, Taiwan, Hungary, Slovakia, Germany, Australia, Portugal, Romania, Israel, South Africa, Austria, Poland, Argentina, United States, France, Czechia, Italy, Netherlands",
+      "enrollment": 931,
+      "brief_summary": "This is a long-term, open-label clinical study designed to enable longer-term treatment of patients completing other clinical studies with intramuscular olanzapine depot.\n\nKey objectives of the study are to:\n\n* Determine how well intramuscular (IM) olanzapine depot works during long-term treatment,\n* Evaluate the safety and tolerability of IM olanzapine depot during long-term treatment,\n* Determine the blood levels of IM olanzapine depot in patients during long-term treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have schizophrenia\n* Female patients of childbearing potential must be using a medically accepted means of contraception\n* Patients must have completed (within 10 days) another IM olanzapine depot study if permitted by that study's protocol.\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AE)",
+        "Number of Participants With Treatment-Emergent Abnormal High Prolactin at Any Time Post Baseline",
+        "Number of Participants With Treatment-Emergent Abnormal High Alanine Transaminase (ALT), High Aspartate Transaminase (AST), High Total Bilirubin at Any Time Post Baseline"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00088465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00759421",
+      "title": "An Exploratory Cognition Study Conducted as an add-on to Clinical Trial 11286, to Evaluate the Neurocognitive Effects of 12 Weeks Treatment With Sertindole and Olanzapine in Patients With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-04",
+      "country": "Taiwan",
+      "enrollment": 96,
+      "brief_summary": "The purpose of this exploratory study is to evaluate the effects of sertindole and olanzapine on neurocognitive functioning in patients with schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with schizophrenia\n* Participation in 11286 study\n* Capable of completing all study-related psychometric activities for the duration of the study",
+      "endpoints": [
+        "Global cognitive composite score"
+      ],
+      "sponsor": "H. Lundbeck A/S",
+      "url": "https://clinicaltrials.gov/study/NCT00759421"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02562287",
+      "title": "A Randomized Controlled Trial to Evaluate the Effectiveness of Clozapine Versus Olanzapine, Quetiapine or Risperidone in Treatment Resistant Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-10",
+      "completion_date": "2020-12",
+      "country": "Brazil",
+      "enrollment": 54,
+      "brief_summary": "The clinical use of clozapine has been an unequivocal advance in the treatment of schizophrenia, a chronic and severe mental illness. A wealth of clinical data demonstrates it offers enhanced efficacy on both positive and negative symptomatology, improving cognition, functioning and quality of life. It is also associated with improved compliance and a continued efficacy in long-term treatment that can be translated into a reduction of suicidality and all-cause mortality. Because of preclinical e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV Bipolar I Disorder;\n* having had a mood episode within the preceding year; DSM-IV rapid cyclers will be permitted to participate in this study;\n* males or females between 18 and 65 years of age;\n* ongoing illness symptoms including significant functional impairment;\n* d",
+      "endpoints": [
+        "Functioning according to Functioning Assessment Short-Test"
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT02562287"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00174265",
+      "title": "A Multicenter, Double-Blind, Flexible-Dose, 6-Month Extension Trial Comparing the Safety and Efficacy of Asenapine With Olanzapine in Subjects Who Completed Protocol A7501013",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2009-05",
+      "country": "N/A",
+      "enrollment": 196,
+      "brief_summary": "This is an extension study of A7501013 (P05771/NCT00145496) to further test\n\nthe efficacy and safety of Asenapine compared with a\n\nmarketed agent (olanzapine) in the treatment of patients with\n\npersistent negative symptoms of schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Continue to meet all demographic and procedural\n\ninclusion criteria of the A7501013 trial to enter into\n\nthis extension trial.\n\n* Have demonstrated an acceptable degree of compliance\n\nand completed the A7501013 trial, and would benefit\n\nfrom continued treatment according to th",
+      "endpoints": [
+        "Change From Baseline in Negative Symptoms of Schizophrenia Measured by the Negative Symptom Assessment (NSA) Scale Total Score"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00174265"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00239109",
+      "title": "Ziprasidone Versus Olanzapine In The Treatment Of Schizophrenia: A Six Months, Double Blind Randomized, Parallel Group Study.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2007-02",
+      "country": "Spain",
+      "enrollment": 112,
+      "brief_summary": "* Various studies suggest that patients treated with Olanzapine can experience a substantial weight gain, while no changes have been observed in patients treated with Ziprasidone. Negative consequences on lipid and glucose profiles have also been observed in patients treated with Olanzapine. Most of the available data belong to short-term studies. However, for most clinical trials the primary variable was an efficacy variable, and included the weight assessment as a secondary variable; they also",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a primary diagnosis of schizophrenia using the DSM-IV-TR criteria\n* Patient's clinical condition should justify treatment initiation with a new antipsychotic drug.\n\nExclusion Criteria:\n\n* Patients at immediate risk of committing harm to self or others\n* Concurren",
+      "endpoints": [
+        "To estimate and compare the effects of ziprasidone vs olanzapine on body weight in the treatment of patients with schizophrenia."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00239109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03651674",
+      "title": "Longitudinal Effect of Electroconvulsive Therapy on Schizophrenia and Bipolar Disorder: a MRI Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-09-20",
+      "completion_date": "2020-04-01",
+      "country": "N/A",
+      "enrollment": 200,
+      "brief_summary": "For more severe and treatment-resistant cases in schizophrenia and bipolar disorder, electroconvulsive therapy (ECT) is often very effective. The purpose of this study is to investigate the brain structure and function changes after ECT treatment. The neuroimaging marker which may predict the outcome of ECT is also studied in this research.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* International classification of diseases (ICD) diagnosis of Schizophrenia and bipolar disorder;\n* Ages 15-70\n* All participants are ethnic Han\n* Not received ECT treatment before\n* PANSS ≥ 60 for schizophrenia subjects\n* The patient's written informed consent can be obtained. ",
+      "endpoints": [
+        "Changes of Positive And Negative Syndrome Scale(PANSS)for Schizophrenia;",
+        "Change of Bech-Rafaelsen Mania Rating Scale (BRMS) for Bipolar disorder",
+        "Change of Hamilton Anxiety Scale (HAMA) for Bipolar disorder"
+      ],
+      "sponsor": "Xidian University",
+      "url": "https://clinicaltrials.gov/study/NCT03651674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06128408",
+      "title": "The Characteristics of Treatment Resistant Schizophrenia From the Illness Onset",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-01",
+      "completion_date": "2024-10-13",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "Previous long-term follow-up studies on patients with first-episode schizophrenia have shown that up to 30% of patients who have never received antipsychotic medication treatment do not experience symptom relief or have poor treatment response after standard antipsychotic medication treatment, becoming treatment-resistant schizophrenia (TRS). Moreover, in long-term follow-up, patients with treatment-resistant schizophrenia from the illness onset (TRO) account for 80% of all TRS patients. Prelimi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Having a diagnosis of schizophrenics based on the patient edition of the Structured Clinical Interview for Axis I Diagnostic and Statistical Manual-IV Axis I Disorders (SCID).\n2. Age 18-45 years.\n3. First episode of schizophrenia.\n4. Course of disease ≤ 3 years.\n5. Previous c",
+      "endpoints": [
+        "treatment-resistant schizophrenia"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT06128408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00036088",
+      "title": "Olanzapine Versus An Active Comparator in the Treatment of Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-08",
+      "completion_date": "2002-07",
+      "country": "Brazil, Spain, Mexico, Puerto Rico, Austria, Germany, Ireland, United Kingdom, Peru, Venezuela, Argentina, United States",
+      "enrollment": 530,
+      "brief_summary": "The purpose of this study is to determine how Olanzapine compares to an active comparator in the treatment of schizophrenia",
+      "eligibility_criteria": "Inclusion:\n\n1. You must be between the ages of 18 and 75. If you have reached your 76th birthday, you will not be able to participate\n2. You must have been diagnosed with schizophrenia\n3. You must be able to visit the doctor's office as scheduled for the next 7 months\n\nExclusion:\n\n1. You have a seri",
+      "endpoints": [],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00036088"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06821945",
+      "title": "A Multi-Center, Randomized, Double-Blind, Parallel-Design, Exploratory Clinical Trial to Evaluate the Safety and Efficacy of Olanzapine Titration Schedule in Patients With Schizophrenia",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-05-30",
+      "completion_date": "2027-05",
+      "country": "South Korea",
+      "enrollment": 120,
+      "brief_summary": "The objective of this clinical trial is to evaluate the safety and efficacy of olanzapine titration schedule in patients with schizophrenia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Of patients with schizophrenia in accordance with DSM(Diagnostic and Statistical Manual of Mental Disorders)-5 diagnostic criteria, who are judged that administration of low dose is more appropriate than initial recommended dose or standard titration dose of olanzapine to cons",
+      "endpoints": [
+        "The mean change of PANSS(Positive and Negative Syndrome Scale) total score",
+        "Incidence of treatment-emergent adverse events"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT06821945"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02431702",
+      "title": "A Prospective, Matched-Control, Randomized, Open-Label, Flexible-Dose, Study in Subjects With Recent-Onset Schizophrenia or Schizophreniform Disorder to Compare Disease Progression and Disease Modification Following Treatment With Paliperidone Palmitate Long-Acting Injection or Oral Antipsychotics",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-07-08",
+      "completion_date": "2019-11-12",
+      "country": "Mexico, Brazil, United States",
+      "enrollment": 337,
+      "brief_summary": "The purpose of the study is to compare effectiveness of paliperidone palmitate (PP: paliperidone palmitate once-monthly and 3-month injections) versus oral antipsychotic (OAP \\[that is oral paliperidone extended release {ER}, oral risperidone, or another OAP\\]) in delaying time to treatment failure. The study will also evaluate changes in cognition, functioning, brain intracortical myelin (ICM) volume following treatment with PP compared with OAP in participants with recent-onset schizophrenia o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must have a current diagnosis of schizophrenia (295.90) or schizophreniform disorder (295.40) as defined by Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) and confirmed by the Structured Clinical Interview for DSM-5 Disorders (SCID) with",
+      "endpoints": [
+        "Part-2 (Disease Progression): Time to First Treatment Failure",
+        "Part 3 (Extended Disease Progression [EDP]): Change From Baseline in Cognition as Measured by the MATRICS Consensus Cognitive Battery (MCCB) Composite Score",
+        "Part 3 (Disease Modification): Change From Baseline in Cognition as Measured by the MATRICS Consensus Cognitive Battery (MCCB) Composite Score"
+      ],
+      "sponsor": "Janssen Scientific Affairs, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02431702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00265343",
+      "title": "A Multicenter, Double-Blind, Flexible-Dose, 6-Month Extension Trial Comparing the Safety and Efficacy of Asenapine With Olanzapine in Subjects Who Completed the Protocol 25543 (NCT 00212836; P05817)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2008-01",
+      "country": "N/A",
+      "enrollment": 306,
+      "brief_summary": "This is an extension study to further test\n\nthe efficacy and safety of asenapine compared with a\n\nmarketed agent (olanzapine) in the treatment of patients with\n\npersistent negative symptoms of schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Continue to meet all demographic and procedural\n\ninclusion criteria of the 25543 trial (NCT 00212836; P05817) to enter into\n\nthis extension trial.\n\n* Have demonstrated an acceptable\n\ndegree of compliance and completed the 25543\n\ntrial, and would benefit from continued treatmen",
+      "endpoints": [
+        "Long-term Change in Negative Symptoms of Schizophrenia Measured by the Negative Symptom Assessment (NSA) Scale"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00265343"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04876521",
+      "title": "Comparative Efficacy and Safety of Low Dose Amisulpride Vs Olanzapine-Fluoxetine Combination in the Treatment of Post Schizophrenic Depression: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-10-14",
+      "completion_date": "2021-06-30",
+      "country": "India",
+      "enrollment": 60,
+      "brief_summary": "Post-Schizophrenic Depression (PSD) increases the morbidity and mortality of Schizophrenic patients. Hence, it warrants early assessment and intervention. But, clinical trials on PSD are very few. However, an Antipsychotic with an adjunctive Antidepressant (like Olanzapine-Fluoxetine Combination) is the commonly prescribed treatment in PSD. Low dose Amisulpride (\\<400 mg/day) which is effective against the negative symptoms of Schizophrenia has also proved efficacious in treating depression in n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with Post Schizophrenic Depression according to ICD10-DCR (International Classification of Diseases 10- Diagnostic Criteria for Research).\n2. Aged between 18 to 60 years of either sex\n3. Patients with a positive score of less than 29 on the Positive and Negative Synd",
+      "endpoints": [
+        "Calgary Depression Scale for Schizophrenia (CDSS)"
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT04876521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02669758",
+      "title": "A Phase 3, Multicenter Study to Assess the Long Term Safety and Tolerability of ALKS 3831 in Subjects With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-01-20",
+      "completion_date": "2018-06-29",
+      "country": "Serbia, Bulgaria, Ukraine, United States",
+      "enrollment": 281,
+      "brief_summary": "The primary objective of this study is to evaluate the long term safety and tolerability of ALKS 3831 in subjects with schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has completed the 4-week treatment period (all visits up to and including end of treatment visit) in the antecedent study ALK3831-A305 within 7 days.\n* Agrees to use an acceptable method of contraception for the duration of the study.\n* Additional criteria may apply.\n\n",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs)"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02669758"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01057849",
+      "title": "Sequenced Atypical Antipsychotics Therapy With Intensive or Basic Psychosocial Intervention for First-episode Schizophrenia: An Effectiveness Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2008-09",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 600,
+      "brief_summary": "Schizophrenia is not a curable but a treatable disease by antipsychotics. Kinds of atypical antipsychotics are widely used since 1990s' in China. Although their efficacy for acute phase are all better than typicals, individulized regimen of them for first-episode schizophrenia and their effectiveness in real naturalistic clinical settings still remain unclear. And those patients also need more comprehensive intervention such as psychosocial programs to improve their function. This protocol is to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* schizophrenic patients diagnosed with DSM-IV criteria by SCID-I.\n* age between 16-45 years old\n* with disease course less than 3 years and during their first episode\n* without receiving systematic antipsychotic treatment less than 1 month\n\nExclusion Criteria:\n\n* organic diseas",
+      "endpoints": [
+        "the time the patients remain stable"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT01057849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05462340",
+      "title": "PET Imaging Study of α7 and α4β2-nAChR in Schizophrenia: Cognitive Relationships",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2022-08-18",
+      "completion_date": "2025-01-07",
+      "country": "United States",
+      "enrollment": 117,
+      "brief_summary": "The purpose of this research is to use specialized brain imaging techniques, Positron Emission Tomography (PET) scan and Magnetic Resonance Imaging (MRI), to learn more about the brain chemistry, e.g., how neurotransmitters and receptors in the brain function in people with schizophrenia compared to healthy controls.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion Criteria for Healthy Subjects\n\n* Between 18-55 years old (inclusive)men and women.\n* Black/African-American or non Hispanic White/Caucasian\n* Healthy as determined by medical history, physical examination, clinical laboratory test results, vital signs, and ECG within t",
+      "endpoints": [
+        "Receptor binding of [18F] ASEM-PET to nicotinic brain receptors (α7-nAChRs) in adults ages 18-55 year with SCZ vs. matched controls.",
+        "Receptor binding of [18F]AZAN to α4β2 nicotinic acetylcholine receptors (α4β2-nAChR) in adults ages 18-55 years with SCZ vs. matched controls.",
+        "Relationship between α7-nAChR receptor binding VT and negative symptoms in adult patients ages 18-55 yrs with SCZ."
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT05462340"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00690235",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study to Demonstrate the Effects of Pramlintide on Weight Reduction in Clozapine- and Olanzapine-Induced Weight Gain in Obese People Diagnosed With Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "Primary Objective:\n\nTo test the effect of pramlintide on body weight in clozapine- and olanzapine-induced weight gain in persons with schizophrenia who are currently taking either drug; measures of the metabolic syndrome will be evaluated as well.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Volunteers will be males or females 18-65 yrs of age with a diagnosis of schizophrenia or schizoaffective disorder who have a history of significant weight gain with olanzapine or clozapine administration.\n* Volunteers will have a current BMI=\\>27 but equal to or less than 40.",
+      "endpoints": [
+        "Weight Loss With Pramlintide in Persons With Schizophrenia Who Have Gained Weight Taking Olanzapine or Clozapine"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00690235"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01491490",
+      "title": "A Randomised, Doubleblind,Placebo Controlled, Parallel Group, Pilot Study of 40:1 Ratio of Formulated GW42003 :GW42004 in the Treatment of Iatrogenic Weight Gain and Dyslipidaemia Associated With Olanzapine Treatment in Subjects With Functional Psychosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2011-10",
+      "completion_date": "2012-10",
+      "country": "United Kingdom",
+      "enrollment": 2,
+      "brief_summary": "Olanzapine is one of the most effective and best tolerated of the atypical antipsychotics, but it is also particularly associated with weight gain and metabolic problems.\n\nThis study is being conducted by GW Pharma Ltd as a pilot study in order to determine the efficacy and safety of two medications GW42003 and GW42004 as a 40:1 ratio when combined with the subjects existing treatment of olanzapine in subjects with weight gain attributable to olanzapine treatment for functional psychosis. This i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis (DSM-IV) of schizophrenia or functional psychosis including schizophreniform and acute psychosis with schizophrenia symptoms\n* Receiving olanzapine treatment for no more than 3 months\n* The dose of olanzapine is stable for at least 2 weeks prior to randomisation (Vis",
+      "endpoints": [
+        "Change in Bodyweight."
+      ],
+      "sponsor": "GWResearch",
+      "url": "https://clinicaltrials.gov/study/NCT01491490"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00212784",
+      "title": "A Phase III, Double-Blind, Randomized, Active-Controlled, Two-Armed, Multicenter, Efficacy and Safety Assessment (ACTAMESA) of Org 5222 and Olanzapine in the Treatment of Patients With Schizophrenia or Schizoaffective Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-09-04",
+      "completion_date": "2006-03-15",
+      "country": "N/A",
+      "enrollment": 1225,
+      "brief_summary": "The primary features of schizophrenia and schizoaffective disorder are characterized by positive (inability to think clearly and distinguish reality from fantasy) and negative symptoms (reduction or absence of normal behavior or emotions). Other symptoms include reduced ability to recall and learn information, difficulty in problem solving or maintaining productive employment. Asenapine is an investigational drug that may help to correct the above characteristics of schizophrenia by altering the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject with schizophrenia or schizoaffective disorder. Subject must sign a written informed consent.\n\nExclusion Criteria:\n\n* Have an uncontrolled, unstable, clinically significant medical condition. Have any other psychiatric disorder other than schizophrenia as a primary dia",
+      "endpoints": [
+        "Change in total PANSS score at endpoint (52-week double-blind or last assessment after baseline) from baseline"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00212784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00347425",
+      "title": "A Multicenter, Open-Label, Parallel-Group, Randomized, Flexible Dose Study To Evaluate the Safety and Tolerability of Switching From Existing Atypical Antipsychotics to Bifeprunox in Subjects With Schizophrenia or Schizoaffective Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-02",
+      "country": "France, Czechia, Hungary, Lithuania, Latvia, Canada, Argentina, Estonia, United States",
+      "enrollment": 286,
+      "brief_summary": "The study will evaluate the safety and tolerability of switching subjects with schizophrenia or schizoaffective disorder from their existing antipsychotic medication to Bifeprunox.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, 18-65 years, meeting DSM-IV TR diagnosis of Schizophrenia or Schizoaffective Disorder for whom a switch is indicated\n\nExclusion Criteria:\n\n* Acutely psychotic or with a current Axis I primary psychiatric diagnosis other than schizophrenia or schizoaffective d",
+      "endpoints": [
+        "Successful switch defined as those who complete the 4 weeks core study with no worsening of 2 successive post baseline assessments on the CGIS, exacerbation of EPS, or cardiovascular risk factors (body weight and fasting triglycerides) from baseline."
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00347425"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00193713",
+      "title": "A Randomized, Double-Blind, Olanzapine-Referenced, Parallel-Group Safety and Efficacy Study of Flexible Doses of Bifeprunox in the Long-term Treatment of Schizpohrenia (Extension of S1543003)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2006-11",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "Study of the long-term efficacy and safety of bifeprunox in the treatment of schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of schizophrenia\n* understand nature of study\n* able to be managed in out-patient setting for long-term bifeprunox treatment\n\nExclusion Criteria:\n\n* current primary diagnosis other than schizophrenia\n* suicide risk\n* diagnosis or history of substance abuse\n* uncontro",
+      "endpoints": [],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00193713"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00528359",
+      "title": "Phase 1 Study of Insulin Sensitivity, Adjusted β-Cell Function and Adiponectin Among Lean Drug-naïve Schizophrenic Subjects Treated With Atypical Antipsychotic Drugs",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2007-02",
+      "country": "Belgium",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to determine whether atypical antipsychotic drugs (commonly prescribed for treating schizophrenia) induce changes in anthropometry and metabolism, including alteration in insulin sensitivity and/or insulin secretion by the pancreas, when given to lean, non-diabetic, individuals who are antipsychotic drug(s)-naïve, and free of metabolic syndrome at enrollment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18-55 years\n* body mass index \\<25.0 kg/m²\n* waist circumference \\<102 (men) and \\<88 cm (women)\n* absence of a metabolic syndrome according to NCEP ATPIII criteria\n* normoglycaemic (fasting plasma glucose levels \\<100 mg/dl)\n\nExclusion Criteria:\n\n* previous use of antipsy",
+      "endpoints": [],
+      "sponsor": "Cliniques universitaires Saint-Luc- Université Catholique de Louvain",
+      "url": "https://clinicaltrials.gov/study/NCT00528359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00150215",
+      "title": "An Oral, Rising Single-Dose Tolerance, Pharmacokinetic, and Pharmacodynamic Study of Pf-00184562 Capsules In Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2005-10",
+      "country": "United States",
+      "enrollment": 18,
+      "brief_summary": "The purposes of this study are:\n\n* To determine the safety, tolerability and pharmacokinetics of single doses of PF-00184562; and\n* To explore the exposure-response relationship of neuropsychometric and tolerability measures of PF-00184562 compared to olanzapine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male or female subjects of non-childbearing potential\n\nExclusion Criteria:\n\n* Subjects with evidence or history of clinically significant hematological, renal, endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, pancreatic, psychiatric, neurologic, active ",
+      "endpoints": [
+        "Safety and tolerability of single dose PF-00184562 as determined by: adverse event reporting, clinical laboratory results, vital signs, physical examinations, and electrocardiograms (ECGs).",
+        "Pharmacokinetic profile of PF-00184562 maximum concentration (Cmax)",
+        "Time to obtain maximum concentration (tmax), area under concentration-time curve (AUC), and terminal half-life (t1/2)."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00150215"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00682448",
+      "title": "Metformin to Prevent the Metabolic Complications of Olanzapine",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "We hypothesize that metformin co-administered with olanzapine will be well tolerated and associated with significantly less insulin resistance, weight gain and dyslipidemia as compared to olanzapine plus placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of: Schizophrenia, Schizoaffective Disorder, Bipolar I or II or major depression with psychotic features who will be started on or who have just started taking Olanzapine (Zyprexa).\n\nExclusion Criteria:\n\n* Patients with either a history of diabetes mellitus or a base",
+      "endpoints": [
+        "Weight Gain"
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00682448"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00007774",
+      "title": "CSP #451 - The Clinical and Economic Impact of Olanzapine in the Treatment of Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1998-03",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 600,
+      "brief_summary": "Although currently marketed antipsychotic drugs are useful in the treatment of schizophrenia, efficacy and safety profiles need to be improved. Forty to eighty percent of patients either fail to respond or only partially respond to conventional antipsychotic agents. Secondary symptoms may be unimproved even in patients who respond to treatment. A variety of adverse events occur in patients receiving currently available agents. The severity of these events contributes to the poor compliance that ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients with schizophrenia or schizoaffective disorder.\n\nExclusion Criteria:",
+      "endpoints": [],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT00007774"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00151424",
+      "title": "A Multicenter, Randomized, Double-Blind, Flexible-Dose, 6-Week Trial of the Efficacy and Safety of Asenapine Compared With Placebo Using Olanzapine Positive Control in Subjects With an Acute Exacerbation of Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-02-15",
+      "completion_date": "2006-02-06",
+      "country": "N/A",
+      "enrollment": 277,
+      "brief_summary": "Schizophrenia is a brain disease. The primary features of schizophrenia are characterized by Positive symptoms (symptoms that should not be there, inability to think clearly, to distinguish reality from fantasy i.e., hearing voices) and Negative symptoms (a reduction or absence of normal behaviors or emotions, i.e., unable to manage emotions, make decisions and relate to others). Other symptoms include reduced ability to recall and learn new information, difficulty with problem solving, or maint",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Currently suffering from an acute exacerbation of schizophrenia.\n\nExclusion Criteria:\n\n* Have an uncontrolled, unstable medical condition. Have any other psychiatric disorder other than schizophrenia as a primary diagnosis.",
+      "endpoints": [
+        "Change in total Positive and Negative Syndrome Scale (PANSS) score at endpoint (6-week double-blind or last assessment after baseline) from baseline"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00151424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05542264",
+      "title": "A Double-Blind, Randomized, Multiple Dose Study of Weight Associated Parameters: SEP-363856 vs Prior Antipsychotic (PA) Standard of Care in Subjects With Schizophrenia Suffering From Metabolic Dysregulation",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-11-15",
+      "completion_date": "2024-02-12",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "A Clinical Study that will look at an investigational medication, SEP-363856 (called \"study medication\") in patients with schizophrenia, and assess wether it affectsbody-weight associated parameters. This study is accepting male and female participants age 18 years to 65 years. This study will be conducted in approximately 6 study sites in the United States. Participation could last up to 13 weeks.",
+      "eligibility_criteria": "Inclusion Criteria: This is not an all inclusive list\n\n* Male or female subjects between 18 and 65 years of age, inclusive at time of consent.\n* Subject meets Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria for a primary diagnosis of schizophrenia as established by clinical in",
+      "endpoints": [
+        "Insulin stimulated change in glucose disposal rate during the steady state of the low dose hyperinsulinemic euglycemic clamp (HEC), baseline to end of the treatment",
+        "Insulin stimulated change in glucose disposal rate during the steady state of the high dose hyperinsulinemic euglycemic clamp (HEC) baseline to end of the treatment.",
+        "Change in liver proton density fat fraction (PDFF), baseline to end of the treatment"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05542264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00567034",
+      "title": "Augmenting Zyprexa With Naltrexone: Normalization of the Weight Gain Side Effect and the CNS Reward and Sensory Function",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2011-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The main purpose of this study is to determine whether the opioid antagonist naltrexone is helpful in ameliorating the weight gain and other adverse metabolic side effects experienced by schizophrenic patients taking the second generation antipsychotic (SGA) Zyprexa. Schizophrenics may have an altered/enhanced endogenous opioidergic drive, and because of this, normally painful stimuli will be sensed as less painful in schizophrenics vs. healthy controls. A secondary hypothesis for this study is ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meeting DSM-IV-TR criteria for schizophrenia/schizoaffective disorder, confirmed by clinical interview with PI and SCID-I.\n* On a stable dose of Zyprexa (i.e., greater than or equal to 10mg/day and less than or equal to 30mg/day) for at least 2 months; patients on typical anti",
+      "endpoints": [
+        "Weight and Body Mass Index"
+      ],
+      "sponsor": "Mclean Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00567034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07003529",
+      "title": "Rôle Des Colliculi inférieurs Dans Les Hallucinations Auditives : étude Pilote Par Neuroimagerie",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-12",
+      "completion_date": "2026-09",
+      "country": "France",
+      "enrollment": 40,
+      "brief_summary": "The neural basis of auditory hallucinations (AH) in patients with schizophrenia is poorly characterized. Functional imaging studies investigate either the \"state\" dimension (i.e., the measurement of changes in brain area activation at the precise moment of AH onset) or the \"trait\" dimension (i.e., the neural correlates of the propensity to hallucinate). A corollary of AH (particularly acoustic-verbal) is the activation of brain regions involved in the auditory perception of speech (auditory cort",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient must have given their free and informed consent and signed the consent form\n* The patient must be a member or beneficiary of a health insurance plan\n* DSM-5 diagnosis of schizophrenic disorder (based on clinical assessment and confirmed by the MINI 7.0 interview)\n*",
+      "endpoints": [
+        "Resting state of functional connectivity of the inferior colliculi region with other regions of the auditory network between groups",
+        "Default mode network patterns between groups"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+      "url": "https://clinicaltrials.gov/study/NCT07003529"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00324051",
+      "title": "PREFERENCE: 12-Week Open Label Trial On Olanzapine Orodispersible Tablet Vs. Oral Olanzapine Preference Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2007-09",
+      "country": "Turkey (Türkiye), Brazil, Romania",
+      "enrollment": 284,
+      "brief_summary": "The purpose of the study is to estimate drug preference of stable schizophrenic patients who will be treated with olanzapine orodispersible tablets for 6 weeks then with olanzapine tablets for 6 weeks and vice-versa.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* You are an outpatient diagnosed with stable schizophrenia.\n* You are a male or female in the age of 18 to 65 years old.\n* You are retrospectively judged by investigators, based on clinical interview and impression, to have been stable for at least 4 weeks.\n* You must be able t",
+      "endpoints": [
+        "Patient preference measured by a simple preference question."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00324051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01617200",
+      "title": "A Multicenter, Double-Blind, Fixed-Dose, Long-Term Extension Trial of the Safety of Asenapine Using Olanzapine as an Active Control in Subjects Diagnosed With Schizophrenia Who Completed Protocol P05688",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 105,
+      "brief_summary": "Participants who have completed the 6-week trial P05688 can be screened for eligibility for this 26-week extension study in which they will continue treatment. The purpose of this trial is to evaluate the long-term safety of 2.5 and 5 mg asenapine administered sublingually twice daily (BID) in schizophrenia participants. Olanzapine administered 15 mg orally once daily (QD) is used as an active control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Completed the short-term trial P05688, and judged by the investigator likely to benefit from continued treatment\n\nExclusion Criteria:\n\n* Occurrence(s) of an adverse event or other clinically significant finding(s) in the short-term trial P05688 that would prohibit the particip",
+      "endpoints": [
+        "Change in Weight From Baseline to Day 182"
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT01617200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00044187",
+      "title": "The Assessment of a Anti-Obesity Agent for the Treatment of Olanzapine-Associated Weight Gain in Patients With Schizophrenia, Schizophreniform Disorder, Schizoaffective Disorder and Bipolar I Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-04",
+      "completion_date": "2003-09",
+      "country": "United States",
+      "enrollment": 130,
+      "brief_summary": "Olanzapine is currently marketed for the treatment of schizophrenia and acute manic episodes with bipolar 1 disorder. This Anti-obesity Agent is currently marketed for the management of obesity. In this study, the Anti-obesity Agent is being tested to see if it can treat weight gain that may be associated with taking olanzapine.\n\nThe purposes of this study are to determine the safety of olanzapine when given in combination with the Anti-obesity Agent and any side effects that might be associated",
+      "eligibility_criteria": "Eligibility Criteria:\n\n* You must be between the ages of 18 and 65. If you have reached your 66th birthday, you will not be able to participate.\n* You must have been diagnosed with schizophrenia, schizoaffective disorder, schizophreniform disorder, or bipolar I disorder and be taking olanzapine.\n* Y",
+      "endpoints": [],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00044187"
+    }
+  ],
+  "timestamp": "2026-03-04T15:05:56.253179",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,490 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Calcium Carbonate",
+    "disease": "hypercalcemia disease",
+    "query_string": "Calcium Carbonate AND hypercalcemia disease"
+  },
+  "data": {
+    "query": "Calcium Carbonate AND hypercalcemia disease",
+    "results": [
+      {
+        "pmid": "30132304",
+        "title": "Phosphate binders for preventing and treating chronic kidney disease-mineral and bone disorder (CKD-MBD).",
+        "abstract": "Phosphate binders are used to reduce positive phosphate balance and to lower serum phosphate levels for people with chronic kidney disease (CKD) with the aim to prevent progression of chronic kidney disease-mineral and bone disorder (CKD-MBD). This is an update of a review first published in 2011.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2018",
+        "authors": [
+          "Ruospo Marinella",
+          "Palmer Suetonia C",
+          "Natale Patrizia",
+          "Craig Jonathan C",
+          "Vecchio Mariacristina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Calcium",
+          "Calcium Compounds",
+          "Cause of Death",
+          "Chelating Agents",
+          "Chronic Disease",
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Disease Progression",
+          "Fibroblast Growth Factor-23"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30132304/"
+      },
+      {
+        "pmid": "19252114",
+        "title": "Milk-alkali syndrome.",
+        "abstract": "Milk-alkali syndrome (MAS) consists of hypercalcemia, various degrees of renal failure, and metabolic alkalosis due to ingestion of large amounts of calcium and absorbable alkali. This syndrome was first identified after medical treatment of peptic ulcer disease with milk and alkali was widely adopted at the beginning of the 20th century. With the introduction of histamine2 blockers and proton pump inhibitors, the occurrence of MAS became rare; however, a resurgence of MAS has been witnessed because of the wide availability and increasing use of calcium carbonate, mostly for osteoporosis prevention. The aim of this review was to determine the incidence, pathogenesis, histologic findings, diagnosis, and clinical course of MAS. A MEDLINE search was performed with the keyword milk-alkali syndrome using the PubMed search engine. All relevant English language articles were reviewed. The exact pathomechanism of MAS remains uncertain, but a unique interplay between hypercalcemia and alkalosis",
+        "journal": "Mayo Clinic proceedings",
+        "year": "2009",
+        "authors": [
+          "Medarov Boris I"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Calcium",
+          "History, 20th Century",
+          "Humans",
+          "Hypercalcemia",
+          "Incidence",
+          "Kidney",
+          "Parathyroid Hormone",
+          "Recovery of Function",
+          "Thiazides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19252114/"
+      },
+      {
+        "pmid": "16449551",
+        "title": "Lanthanum carbonate.",
+        "abstract": "To review the pharmacology, pharmacokinetics, clinical efficacy, and safety profile of lanthanum carbonate, a phosphate binder for chronic kidney disease (CKD).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2006",
+        "authors": [
+          "Joy Melanie S",
+          "Kshirsagar Abhijit",
+          "Candiani Corina",
+          "Brooks Tyson",
+          "Hudson Joanna Q"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Chronic Disease",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Kidney Diseases",
+          "Lanthanum",
+          "Phosphorus",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16449551/"
+      },
+      {
+        "pmid": "40576086",
+        "title": "Phosphate binders for preventing and treating chronic kidney disease-mineral and bone disorder (CKD-MBD).",
+        "abstract": "Phosphate binders lower serum phosphate levels for people with chronic kidney disease (CKD). This is an updated review, previously published in 2011 and 2018. New studies have been published and an update of the current evidence is needed.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2025",
+        "authors": [
+          "Natale Patrizia",
+          "Green Suetonia C",
+          "Ruospo Marinella",
+          "Craig Jonathan C",
+          "Vecchio Mariacristina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Chelating Agents",
+          "Phosphates",
+          "Hypercalcemia",
+          "Bias",
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Renal Insufficiency, Chronic",
+          "Lanthanum",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40576086/"
+      },
+      {
+        "pmid": "34790628",
+        "title": "Hypercalcaemia Caused by Sunflower Seeds and Calcium Carbonate Supplements.",
+        "abstract": "Hypercalcaemia is commonly associated with malignancy or endocrinological disorders. However, sometimes it can occur due to increased oral intake of calcium. We present an interesting case of hypercalcaemia due to ingestion of sunflower seeds and calcium carbonate supplements.",
+        "journal": "European journal of case reports in internal medicine",
+        "year": "2021",
+        "authors": [
+          "Patoli Iqra",
+          "Kazim Mehrunissa",
+          "Jamil Saad Bin",
+          "Abbas Syed Hassan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34790628/"
+      },
+      {
+        "pmid": "23625273",
+        "title": "Hyperphosphataemia: treatment options.",
+        "abstract": "Hyperphosphataemia can be induced by three main conditions: a massive acute phosphate load, a primary increase in renal phosphate reabsorption, and an impaired renal phosphate excretion due to acute or chronic renal insufficiency. Renal excretion is so efficient in normal subjects that balance can be maintained with only a minimal rise in serum phosphorus concentration even for a large phosphorus load. Therefore, acute hyperphosphataemia usually resolves within few hours if renal function is intact. The most frequent cause of chronic hyperphosphataemia is chronic renal failure. Hyperphosphataemia in chronic kidney disease (CKD) is associated with increased cardiovascular morbidity and mortality. Lowering the phosphate load and maintaining serum phosphorus levels within the normal range are considered important therapeutic goals to improve clinical outcomes in CKD patients. Treatment consists of diminishing intestinal phosphate absorption by a low phosphate diet and phosphate binders. I",
+        "journal": "Drugs",
+        "year": "2013",
+        "authors": [
+          "Malberti Fabio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chelating Agents",
+          "Humans",
+          "Hyperphosphatemia",
+          "Kidney Failure, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23625273/"
+      },
+      {
+        "pmid": "9274239",
+        "title": "Calcium supplementation.",
+        "abstract": "Calcium is necessary for the prevention and treatment of diseases such as osteoporosis, hypertension, and, possibly, colon cancer. Supplementation is useful when dietary calcium intake is low, as is the current situation in North America. There are many factors to consider before recommending any one form of supplement. A consideration for calcium carbonate tablets is whether the tablet disintegrates and whether or not a lack of food or acid in the stomach will hinder utilization. Other forms of calcium, particularly the chelated calcium salts, are better absorbed in fasting achlorhydric subjects but have less calcium per gram of supplement. Interaction of calcium with other mineral nutrients and the presence of contaminating metals has focused attention on safety. Based on present evidence, chelated calcium and refined calcium carbonate tablets (including those labeled as antacids) may be safely and effectively ingested by most people at doses generally recommended for treatment or pr",
+        "journal": "Journal of the American Academy of Nurse Practitioners",
+        "year": "1997",
+        "authors": [
+          "Whiting S J",
+          "Wood R",
+          "Kim K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Aged",
+          "Calcium Compounds",
+          "Calcium, Dietary",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Food, Fortified"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9274239/"
+      },
+      {
+        "pmid": "25399356",
+        "title": "Efficacy and safety of lanthanum carbonate versus calcium-based phosphate binders in patients with chronic kidney disease: a systematic review and meta-analysis.",
+        "abstract": "We conducted this review to assess the relative efficacy and safety of lanthanum carbonate versus calcium-based phosphate binders in chronic kidney disease.",
+        "journal": "International urology and nephrology",
+        "year": "2015",
+        "authors": [
+          "Zhai Chun-Juan",
+          "Yang Xiao-Wei",
+          "Sun Jing",
+          "Wang Rong"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Bone Density",
+          "Calcium",
+          "Calcium Carbonate",
+          "Chelating Agents",
+          "Humans",
+          "Hypercalcemia",
+          "Lanthanum",
+          "Parathyroid Hormone",
+          "Phosphorus",
+          "Radiography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25399356/"
+      },
+      {
+        "pmid": "24674384",
+        "title": "Effect of calcium carbonate combined with calcitonin on hypercalcemia in hemodialysis patients.",
+        "abstract": "This short-term study assessed the efficacy and safety of calcium carbonate combined with calcitonin in the treatment of hypercalcemia in hemodialysis patients. Patients (n=64) on hemodialysis for chronic kidney disease for more than 6 months were included based on total serum calcium more than 10.5 mg/dL. All patients were randomized (1:1) to receive calcium carbonate combined with calcitonin (Group I) or lanthanum carbonate (Group II) for 12 weeks. Blood levels of calcium, phosphorus and intact parathyroid hormone (iPTH) were measured every month, bone mass density (BMD) and coronary artery calcium scores (CACS) were measured at 3 months. During the study period, serum calcium decreased from 10.72 ± 0.39 to 10.09 ± 0.28 mg/dL (P < 0.05), serum phosphorus decreased from 6.79 ± 1.05 to 5.46 ± 1.18 mg/dL (P < 0.05), and serum iPTH levels in the Group I and Group II were not significantly different from the baseline. There were no significant differences in CACS in either group. There we",
+        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+        "year": "2014",
+        "authors": [
+          "Wei Yong",
+          "Kong Xiang Lei",
+          "Li Wen Bin",
+          "Wang Zun Song"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Calcitonin",
+          "Calcium",
+          "Calcium Carbonate",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hypercalcemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24674384/"
+      },
+      {
+        "pmid": "19279554",
+        "title": "Oral phosphate binders.",
+        "abstract": "Hyperphosphatemia is an inevitable consequence of end-stage chronic kidney disease and is present in the majority of dialysis patients. Hyperphosphatemia is observationally and statistically associated with increased cardiovascular mortality among dialysis patients. Dietary restriction of phosphate and current dialysis modalities are not sufficiently effective to maintain serum phosphate levels within the recommended range, so the majority of dialysis patients require oral phosphate binders. However, the benefits of achieving the recommended range have yet to be shown prospectively. Unfortunately, conventional phosphate binders are not reliably effective and are associated with a range of limitations and side effects. Aluminum-containing agents are highly efficient but no longer widely used because of proven toxicity. Calcium-based salts are inexpensive, effective, and most widely used, but there is now concern about their association with hypercalcemia and vascular calcification. Seve",
+        "journal": "Kidney international",
+        "year": "2009",
+        "authors": [
+          "Hutchison Alastair J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chelating Agents",
+          "Humans",
+          "Hyperphosphatemia",
+          "Lanthanum",
+          "Phosphates",
+          "Polyamines",
+          "Renal Dialysis",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19279554/"
+      },
+      {
+        "pmid": "24134531",
+        "title": "Efficacy and safety of lanthanum carbonate on chronic kidney disease-mineral and bone disorder in dialysis patients: a systematic review.",
+        "abstract": "Chronic kidney disease-mineral and bone disorder (CKD-MBD) is a common complication in CKD patients, particularly in those with end-stage renal disease that requires dialysis. Lanthanum carbonate (LC) is a potent, non-aluminum, non-calcium phosphate binder. This systematic review evaluates the efficacy and safety of LC in CKD-MBD treatment for maintenance-dialysis patients.",
+        "journal": "BMC nephrology",
+        "year": "2013",
+        "authors": [
+          "Zhang Chenglong",
+          "Wen Ji",
+          "Li Zi",
+          "Fan Junming"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "China",
+          "Chronic Kidney Disease-Mineral and Bone Disorder",
+          "Comorbidity",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Incidence",
+          "Lanthanum",
+          "Male",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24134531/"
+      },
+      {
+        "pmid": "29241388",
+        "title": "Hypercalcemia-Induced Pancreatitis in Pregnancy Following Calcium Carbonate Ingestion.",
+        "abstract": "Calcium carbonate is often used to relieve Gastroesophageal Reflux Disease (GERD) in pregnant patients. This report describes a potentially serious complication.",
+        "journal": "Journal of pharmacy practice",
+        "year": "2019",
+        "authors": [
+          "Trezevant May S",
+          "Winton John C",
+          "Holmes Ashley K"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Calcium Carbonate",
+          "Cesarean Section",
+          "Female",
+          "Gastroesophageal Reflux",
+          "Humans",
+          "Hypercalcemia",
+          "Pancreatitis",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29241388/"
+      },
+      {
+        "pmid": "32982259",
+        "title": "Clinical Evaluation of the Safety, Efficacy and Tolerability of Lanthanum Carbonate in the Management of Hyperphosphatemia in Patients with End-Stage Renal Disease.",
+        "abstract": "Patients with progressive chronic kidney disease (CKD) commonly develop mineral and bone abnormalities and extraskeletal calcifications with following increased cardiovascular risk. A key pathophysiological role is played by hyperphosphatemia. Since diet and dialysis are often insufficient to control serum phosphorus levels, many patients require treatment with phosphate binders. Among them is lanthanum carbonate, an aluminum-free non-calcium-based compound. The present review summarizes the most recent literature data concerning the safety, efficacy and tolerability of lanthanum carbonate in patients with end-stage renal disease and hyperphosphatemia. The drug is taken orally as chewable tablets or powder with only minimal gastrointestinal absorption and resulting reduced risk of tissue deposition and systemic drug interactions. The dissociation of the drug in the acid environment of the upper gastrointestinal tract induces the release of lanthanum ions, which bind to dietary phosphat",
+        "journal": "Therapeutics and clinical risk management",
+        "year": "2020",
+        "authors": [
+          "Cernaro Valeria",
+          "Calimeri Sebastiano",
+          "Laudani Alfredo",
+          "Santoro Domenico"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32982259/"
+      },
+      {
+        "pmid": "36712775",
+        "title": "Calcium Carbonate (Tums)-Associated Hypercalcemic Crisis.",
+        "abstract": "Hypercalcemic crisis due to severe decompensated hypercalcemia represents a life-threatening medical emergency leading to renal failure and altered mental status. Hypercalcemic crisis most commonly results from hypercalcemia of malignancy, undiagnosed primary hyperparathyroidism, granulomatous diseases, and medication-induced hypercalcemia. Commonly prescribed medications like thiazide diuretics, lithium therapy, and teriparatide are among the medications known to cause hypercalcemia. Here, we describe a case of the hypercalcemic crisis caused by excessive calcium carbonate ingestion emphasizing physicians to be aware of this potentially life-threatening adverse effect of a widely available over-the-counter acid reflux medication and educate patients regarding the same.",
+        "journal": "Cureus",
+        "year": "2022",
+        "authors": [
+          "Jain Hanish",
+          "Murali Sindhubarathi",
+          "Singh Garima",
+          "Amzuta Ioana"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36712775/"
+      },
+      {
+        "pmid": "37252584",
+        "title": "A Case of Milk-Alkali Syndrome.",
+        "abstract": "Milk-alkali syndrome is described by a triad of elevated levels of calcium, metabolic alkalosis, and acute kidney injury that historically occurred as a result of the combined intake of large amounts of calcium and absorbable alkali. It is becoming common recently with the use of over-the-counter calcium supplements for osteoporosis treatment in postmenopausal women. We present a case of a 62-year-old female who presented with generalized weakness. She was noted to have severe hypercalcemia, and impaired renal function with a significant history of daily over-the-counter calcium supplement use and as-needed calcium carbonate use for gastroesophageal reflux disease (GERD). This case highlights the stepwise approach to the evaluation and management of hypercalcemia. She was appropriately treated with the resolution of hypercalcemia and presenting symptoms.",
+        "journal": "Cureus",
+        "year": "2023",
+        "authors": [
+          "Opoku Isaac",
+          "Atemnkeng Njika",
+          "Vila Nedsely"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37252584/"
+      },
+      {
+        "pmid": "23543983",
+        "title": "The calcium-alkali syndrome.",
+        "abstract": "The milk-alkali syndrome was a common cause of hypercalcemia, metabolic alkalosis, and renal failure in the early 20th century. It was caused by the ingestion of large quantities of milk and absorbable alkali to treat peptic ulcer disease. The syndrome virtually vanished after introduction of histamine-2 blockers and proton pump inhibitors. More recently, a similar condition called the calcium-alkali syndrome has emerged as a common cause of hypercalcemia and alkalosis. It is usually caused by the ingestion of large amounts of calcium carbonate salts to prevent or treat osteoporosis and dyspepsia. We describe a 78-year-old woman who presented with weakness, malaise, and confusion. She was found to have hypercalcemia, acute renal failure, and metabolic alkalosis. Upon further questioning, she reported use of large amounts of calcium carbonate tablets to treat recent heartburn symptoms. Calcium supplements were discontinued, and she was treated with intravenous normal saline. After 5 day",
+        "journal": "Proceedings (Baylor University. Medical Center)",
+        "year": "2013",
+        "authors": [
+          "Arroyo Mariangeli",
+          "Fenves Andrew Z",
+          "Emmett Michael"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23543983/"
+      },
+      {
+        "pmid": "9005710",
+        "title": "[Tuberculosis and hypercalcemia].",
+        "abstract": "The authors present a case of disseminated tuberculosis in a patient under dialysis with endstage renal disease. Fever, nocturnal sweating, anorexia, asthenia, ascites, lymph node involvement and granulomatous involvement of the bone marrow were observed. In the twenty nine months of renal failure which preceded the beginning of the tuberculosis, serum calcium levels were normal or low-normal and there was a secondary hyperparathyroidism. During that period the patient was treated with calcium carbonate and calcitriol. At the onset of tuberculosis, serum calcium levels rose above normal. Treatment with calcium and calcitriol was withdrawn but hypercalcemia remained unchanged. Serum concentration of parathormone fell significantly. Antituberculosis drugs were started. The resolution of active tuberculosis was accompanied by normalization of serum calcium levels and by elevation above normal of serum concentration of parathormone.",
+        "journal": "Acta medica portuguesa",
+        "year": "1996",
+        "authors": [
+          "Santos J M",
+          "Monteiro P",
+          "Fortes A",
+          "Silva E",
+          "Barbosa M A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Hypercalcemia",
+          "Kidney Failure, Chronic",
+          "Male",
+          "Renal Dialysis",
+          "Tuberculosis, Miliary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9005710/"
+      },
+      {
+        "pmid": "27651467",
+        "title": "The efficacy and safety of sevelamer and lanthanum versus calcium-containing and iron-based binders in treating hyperphosphatemia in patients with chronic kidney disease: a systematic review and meta-analysis.",
+        "abstract": "It remains unclear which phosphate binders should be preferred for hyperphosphatemia management in chronic kidney disease (CKD).",
+        "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+        "year": "2017",
+        "authors": [
+          "Habbous Steven",
+          "Przech Sebastian",
+          "Acedillo Rey",
+          "Sarma Sisira",
+          "Garg Amit X"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Biomarkers",
+          "Calcium Compounds",
+          "Chelating Agents",
+          "Humans",
+          "Hyperphosphatemia",
+          "Lanthanum",
+          "Phosphates",
+          "Renal Insufficiency, Chronic",
+          "Safety",
+          "Sevelamer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27651467/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:12:03.661360",
+  "success": true,
+  "error_message": null
+}

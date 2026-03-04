@@ -1,0 +1,572 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "rheumatoid arthritis",
+    "query_string": "Celecoxib AND rheumatoid arthritis"
+  },
+  "data": {
+    "query": "Celecoxib AND rheumatoid arthritis",
+    "results": [
+      {
+        "pmid": "27959716",
+        "title": "Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis.",
+        "abstract": "The cardiovascular safety of celecoxib, as compared with nonselective nonsteroidal antiinflammatory drugs (NSAIDs), remains uncertain.",
+        "journal": "The New England journal of medicine",
+        "year": "2016",
+        "authors": [
+          "Nissen Steven E",
+          "Yeomans Neville D",
+          "Solomon Daniel H",
+          "Lüscher Thomas F",
+          "Libby Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Female",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Ibuprofen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+      },
+      {
+        "pmid": "34932581",
+        "title": "Cardiovascular safety of celecoxib in rheumatoid arthritis and osteoarthritis patients: A systematic review and meta-analysis.",
+        "abstract": "To assess the cardiovascular safety of celecoxib compared to non-selective non-steroid anti-inflammatory drugs or placebo.",
+        "journal": "PloS one",
+        "year": "2021",
+        "authors": [
+          "Cheng Bai-Ru",
+          "Chen Jia-Qi",
+          "Zhang Xiao-Wen",
+          "Gao Qin-Yang",
+          "Li Wei-Hong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular System",
+          "Celecoxib",
+          "Humans",
+          "Osteoarthritis",
+          "Patient Safety"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34932581/"
+      },
+      {
+        "pmid": "28597983",
+        "title": "Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis is a systemic auto-immune disorder that causes widespread and persistent inflammation of the synovial lining of joints and tendon sheaths. Presently, there is no cure for rheumatoid arthritis and treatment focuses on managing symptoms such as pain, stiffness and mobility, with the aim of achieving stable remission and improving mobility. Celecoxib is a selective non-steroidal anti-inflammatory drug (NSAID) used for treatment of people with rheumatoid arthritis.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Fidahic Mahir",
+          "Jelicic Kadic Antonia",
+          "Radic Mislav",
+          "Puljak Livia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Myocardial Infarction",
+          "Pain Measurement",
+          "Randomized Controlled Trials as Topic",
+          "Stomach Ulcer",
+          "Stroke",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28597983/"
+      },
+      {
+        "pmid": "28598564",
+        "title": "WITHDRAWN: Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis (RA) is a systemic auto-immune disorder, involving persistent joint inflammation. NSAIDs are used to control the symptoms of RA, but are associated with significant gastro-intestinal toxicity, including a risk of potentially life threatening gastroduodenal perforations, ulcers and bleeds. The NSAIDs known as the selective Cox II inhibitors, of which celecoxib is a member, were developed in order to reduce the GI toxicity, but are more expensive.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Garner Sarah E",
+          "Fidan Dogan",
+          "Frankish Ruth R",
+          "Judd Maria",
+          "Shea Beverley"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28598564/"
+      },
+      {
+        "pmid": "12519610",
+        "title": "Celecoxib for rheumatoid arthritis.",
+        "abstract": "Rheumatoid arthritis (RA) is a systemic auto-immune disorder, involving persistent joint inflammation. NSAIDs are used to control the symptoms of RA, but are associated with significant gastro-intestinal toxicity, including a risk of potentially life threatening gastroduodenal perforations, ulcers and bleeds. The NSAIDs known as the selective Cox II inhibitors, of which celecoxib is a member, were developed in order to reduce the GI toxicity, but are more expensive.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2002",
+        "authors": [
+          "Garner S",
+          "Fidan D",
+          "Frankish R",
+          "Judd M",
+          "Shea B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Humans",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12519610/"
+      },
+      {
+        "pmid": "10804043",
+        "title": "Celecoxib: a review of its use in osteoarthritis, rheumatoid arthritis and acute pain.",
+        "abstract": "Celecoxib is a cyclo-oxygenase (COX) inhibitor that exhibits relative in vitro and ex vivo selectivity for COX-2 over COX-1. Results of randomised double-blind multicentre studies indicate that celecoxib is superior to placebo and has similar efficacy as conventional nonsteroidal anti-inflammatory drugs (NSAIDs) in improving the signs and symptoms of osteoarthritis and rheumatoid arthritis. Analgesic efficacy and improvements in functional status are apparent within 2 weeks of starting therapy and are maintained throughout treatment. Available data suggest that celecoxib has analgesic efficacy in patients with postsurgical dental pain, although this is yet to be confirmed. In patients with osteoarthritis of the knee, celecoxib 100 and 200 mg and naproxen 500 mg twice daily were similarly efficacious and superior to placebo. Once and twice daily celecoxib dosage regimens provided comparable efficacy. Improvements in physical function paralleled those in pain relief. Celecoxib also has e",
+        "journal": "Drugs",
+        "year": "2000",
+        "authors": [
+          "Clemett D",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Animals",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Electron Transport Complex IV",
+          "Humans",
+          "Osteoarthritis",
+          "Pain",
+          "Plant Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10804043/"
+      },
+      {
+        "pmid": "35234840",
+        "title": "Cardiorenal risk of celecoxib compared with naproxen or ibuprofen in arthritis patients: insights from the PRECISION trial.",
+        "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are among the most frequently used drugs, both prescribed and over the counter. The long-term cardiovascular safety of NSAIDs in patients with arthritis has engendered controversy. Concerns remain regarding the relative incidence and severity of adverse cardiorenal effects, particularly in arthritis patients with established cardiovascular (CV) disease or risk factors for disease as illustrated by the PRECISION (Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen) trial participants (NCT00346216).We further investigated whether the selective COX-2 Inhibitor celecoxib has a superior cardiorenal safety profile compared with ibuprofen or naproxen in the PRECISION population.",
+        "journal": "European heart journal. Cardiovascular pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Obeid Slayman",
+          "Libby Peter",
+          "Husni Elaine",
+          "Wang Qiuqing",
+          "Wisniewski Lisa M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Cardiovascular Diseases",
+          "Celecoxib",
+          "Humans",
+          "Ibuprofen",
+          "Naproxen",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35234840/"
+      },
+      {
+        "pmid": "38879555",
+        "title": "Baricitinib ameliorates inflammatory and neuropathic pain in collagen antibody-induced arthritis mice by modulating the IL-6/JAK/STAT3 pathway and CSF-1 expression in dorsal root ganglion neurons.",
+        "abstract": "Janus kinase (JAK) inhibitors, such as baricitinib, are widely used to treat rheumatoid arthritis (RA). Clinical studies show that baricitinib is more effective at reducing pain than other similar drugs. Here, we aimed to elucidate the molecular mechanisms underlying the pain relief conferred by baricitinib, using a mouse model of arthritis.",
+        "journal": "Arthritis research & therapy",
+        "year": "2024",
+        "authors": [
+          "Makabe Kenta",
+          "Okada Hiroyuki",
+          "Tachibana Naohiro",
+          "Ishikura Hisatoshi",
+          "Ito Norihito"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Male",
+          "Mice",
+          "Arthritis, Experimental",
+          "Azetidines",
+          "Ganglia, Spinal",
+          "Interleukin-6",
+          "Janus Kinase Inhibitors",
+          "Mice, Inbred DBA",
+          "Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38879555/"
+      },
+      {
+        "pmid": "10860137",
+        "title": "Treatment options for rheumatoid arthritis: celecoxib, leflunomide, etanercept, and infliximab.",
+        "abstract": "To review new pharmacologic agents approved for use in the management of rheumatoid arthritis (RA).",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2000",
+        "authors": [
+          "Luong B T",
+          "Chong B S",
+          "Lowder D M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Antibodies, Monoclonal",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Drug Interactions",
+          "Etanercept",
+          "Female",
+          "Humans",
+          "Immunoglobulin G"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10860137/"
+      },
+      {
+        "pmid": "22141388",
+        "title": "Celecoxib: a review of its use for symptomatic relief in the treatment of osteoarthritis, rheumatoid arthritis and ankylosing spondylitis.",
+        "abstract": "Celecoxib (Celebrex®) was the first cyclo-oxygenase (COX)-2 selective inhibitor (coxib) to be introduced into clinical practice. Coxibs were developed to provide anti-inflammatory/analgesic activity similar to that of nonselective NSAIDs, but without their upper gastrointestinal (GI) toxicity, which is thought to result largely from COX-1 inhibition. Celecoxib is indicated in the EU for the symptomatic treatment of osteoarthritis, rheumatoid arthritis and ankylosing spondylitis in adults. This article reviews the clinical efficacy and tolerability of celecoxib in these EU-approved indications, as well as overviewing its pharmacological properties. In randomized controlled trials, celecoxib, at the recommended dosages of 200 or 400 mg/day, was significantly more effective than placebo, at least as effective as or more effective than paracetamol (acetaminophen) and as effective as nonselective NSAIDs and the coxibs etoricoxib and lumiracoxib for the symptomatic treatment of patients with",
+        "journal": "Drugs",
+        "year": "2011",
+        "authors": [
+          "McCormack Paul L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic",
+          "Spondylitis, Ankylosing",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22141388/"
+      },
+      {
+        "pmid": "21042022",
+        "title": "Efficacy and safety of the selective cyclooxygenase-2 inhibitor celecoxib in the treatment of rheumatoid arthritis and osteoarthritis in Japan.",
+        "abstract": "Gastrointestinal (GI) disorders are common adverse reactions of nonsteroidal anti-inflammatory drugs (NSAIDs). Loxoprofen is a representative NSAID widely used in East Asia. A selective cyclooxygenase-2 inhibitor, celecoxib, was introduced in Japan in 2007. In this study, we aimed to compare the efficacy and safety of celecoxib with those of loxoprofen in Japanese patients.",
+        "journal": "Digestion",
+        "year": "2011",
+        "authors": [
+          "Sakamoto Choitsu",
+          "Soen Satoshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Cyclooxygenase 2 Inhibitors",
+          "Humans",
+          "Japan",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21042022/"
+      },
+      {
+        "pmid": "10509845",
+        "title": "Celecoxib, a selective cyclooxygenase-2 inhibitor for the treatment of rheumatoid arthritis and osteoarthritis.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are among the most frequently prescribed drugs, despite their well-established association with gastroduodenal injury. Recent discovery of the cyclooxygenase (COX) isoenzymes COX-1 and COX-2 has improved our knowledge of the action of NSAIDs. COX-1 is continuously expressed in almost all tissues, where it converts arachidonate to the prostaglandins (PGs) important in homeostatic function; COX-2 is present in immune cells, blood vessel endothelial cells, and synovial fibroblasts. Classic NSAIDs inhibit both COX isoenzymes by occupying the cyclooxygenase-active site, preventing access by arachidonic acid. In theory, a drug such as celecoxib that selectively inhibited COX-2 might block inflammation, pain, and fever while reducing the side effects (gastric erosions and ulcers) associated with inhibition of COX-1. In animal models of inflammation and pain, celecoxib has shown marked suppression of PG production and inflammation compared with ind",
+        "journal": "Clinical therapeutics",
+        "year": "1999",
+        "authors": [
+          "Goldenberg M M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Clinical Trials as Topic",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Cyclooxygenase Inhibitors",
+          "Humans",
+          "Isoenzymes",
+          "Membrane Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10509845/"
+      },
+      {
+        "pmid": "12242171",
+        "title": "Efficacy, tolerability, and upper gastrointestinal safety of celecoxib for treatment of osteoarthritis and rheumatoid arthritis: systematic review of randomised controlled trials.",
+        "abstract": "To determine the efficacy, gastrointestinal safety, and tolerability of celecoxib (a cyclo-oxygenase 2 (COX 2) inhibitor) used in the treatment of osteoarthritis and rheumatoid arthritis.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2002",
+        "authors": [
+          "Deeks Jonathan J",
+          "Smith Lesley A",
+          "Bradley Matthew D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Aspirin",
+          "Celecoxib",
+          "Cyclooxygenase Inhibitors",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12242171/"
+      },
+      {
+        "pmid": "15899051",
+        "title": "Tolerability and adverse events in clinical trials of celecoxib in osteoarthritis and rheumatoid arthritis: systematic review and meta-analysis of information from company clinical trial reports.",
+        "abstract": "The objective was to improve understanding of adverse events occurring with celecoxib in the treatment of osteoarthritis and rheumatoid arthritis. Data were extracted from company clinical trial reports of randomised trials of celecoxib in osteoarthritis or rheumatoid arthritis lasting 2 weeks or more. Outcomes were discontinuations (all cause, lack of efficacy, adverse event, gastrointestinal adverse event), endoscopically detected ulcers, gastrointestinal or cardio-renal events, and major changes in haematological parameters. The main comparisons were celecoxib (all doses) versus placebo, paracetamol (acetaminophen) 4,000 mg daily, rofecoxib 25 mg daily, or nonsteroidal anti-inflammatory drugs (NSAIDs) (naproxen, diclofenac, ibuprofen, and loxoprofen). For NSAIDs, celecoxib was compared both at all doses and at licensed doses (200 to 400 mg daily). Thirty-one trials included 39,605 randomised patients. Most patients had osteoarthritis and were women of average age 60 years or above. ",
+        "journal": "Arthritis research & therapy",
+        "year": "2005",
+        "authors": [
+          "Moore R Andrew",
+          "Derry Sheena",
+          "Makinson Geoffrey T",
+          "McQuay Henry J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Drug Industry",
+          "Drug Tolerance",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15899051/"
+      },
+      {
+        "pmid": "38316221",
+        "title": "Evaluation of the efficacy and safety of a herbal formulation for rheumatoid arthritis - A non-inferiority randomized controlled trial.",
+        "abstract": "Rheumatoid arthritis (RA) is a diverse disease characterized by a variable, progressive course of articular and extra-articular symptoms that are linked with pain, disability, and mortality. The exact cause of rheumatoid arthritis is still being investigated, and there is no cure for this debilitating, persistent, painful disease. Qurs-e-Mafasil, a herbal Unani preparation, is regarded as a potent treatment for Waja'al-Mafasil, a condition clinically similar to rheumatoid arthritis, but scientific evidence is scarce.",
+        "journal": "Journal of ethnopharmacology",
+        "year": "2024",
+        "authors": [
+          "Ansari Umme Ammara Maqbool Ahmad",
+          "Uddin Qamar",
+          "Husain Nazim",
+          "Ahmad Tasleem",
+          "Fatima Syeda Hajra"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Middle Aged",
+          "Celecoxib",
+          "Arthritis, Rheumatoid",
+          "Joints",
+          "Plant Preparations",
+          "Treatment Outcome",
+          "Antirheumatic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38316221/"
+      },
+      {
+        "pmid": "36341096",
+        "title": "Celecoxib and Etoricoxib may reduce risk of ischemic stroke in patients with rheumatoid arthritis: A nationwide retrospective cohort study.",
+        "abstract": "Previous studies reported conflicting results about the risk of ischemic stroke associated with the use of non-steroidal anti-inflammatory drugs (NSAIDs) in patients with rheumatoid arthritis (RA). We aimed to investigate two specific COX-2 inhibitors, Celecoxib and Etoricoxib, and their corresponding effects on the risk of ischemic stroke in patients with RA.",
+        "journal": "Frontiers in neurology",
+        "year": "2022",
+        "authors": [
+          "Chen Acer I-Hung",
+          "Lee Yung-Heng",
+          "Perng Wuu-Tsun",
+          "Chiou Jeng-Yuan",
+          "Wang Yu-Hsun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36341096/"
+      },
+      {
+        "pmid": "35585779",
+        "title": "Lessons from 20 years with COX-2 inhibitors: Importance of dose-response considerations and fair play in comparative trials.",
+        "abstract": "Nonsteroidal anti-inflammatory drugs (NSAIDs) inhibit the enzyme cyclooxygenase (COX), which forms prostaglandins involved in pain and inflammation. COX inhibitors have analgesic and anti-inflammatory effects, but also increase risks for gastrointestinal ulcers, bleeding, and renal and cardiovascular adverse events. Identification of two isoforms of COX, COX-1 and COX-2, led to the development of selective COX-2 inhibitors, which were launched as having fewer gastrointestinal side effects since gastroprotective prostaglandins produced via COX-1 are spared. The balance between COX-1 mediated prothrombotic thromboxane and COX-2 mediated antithrombotic prostacyclin is important for thrombotic risk. An increased risk of suffering myocardial infarction and death with COX-2 inhibitor treatment is well established from clinical trials and observational research. Rofecoxib (Vioxx) was withdrawn from the market for this reason, but the equally COX-2 selective etoricoxib has replaced it in Europ",
+        "journal": "Journal of internal medicine",
+        "year": "2022",
+        "authors": [
+          "Stiller Carl-Olav",
+          "Hjemdahl Paul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Celecoxib",
+          "Cyclooxygenase 2",
+          "Cyclooxygenase 2 Inhibitors",
+          "Diclofenac",
+          "Etoricoxib",
+          "Fibrinolytic Agents",
+          "Humans",
+          "Ibuprofen",
+          "Lactones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35585779/"
+      },
+      {
+        "pmid": "11892706",
+        "title": "Upper gastrointestinal tolerability of celecoxib compared with diclofenac in the treatment of osteoarthritis and rheumatoid arthritis.",
+        "abstract": "To compare the upper gastrointestinal (UGI) tolerability of celecoxib (a cyclooxygenase-2 specific inhibitor) and diclofenac using data from three randomised, double-blind clinical trials in osteoarthritis (OA) and rheumatoid arthritis (RA).",
+        "journal": "Clinical and experimental rheumatology",
+        "year": "2002",
+        "authors": [
+          "McKenna F",
+          "Arguelles L",
+          "Burke T",
+          "Lefkowith J",
+          "Geis G S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Abdominal Pain",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Celecoxib",
+          "Diclofenac",
+          "Dyspepsia",
+          "Humans",
+          "Incidence",
+          "Osteoarthritis",
+          "Pyrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11892706/"
+      },
+      {
+        "pmid": "18405470",
+        "title": "Cyclooxygenase-2 selective non-steroidal anti-inflammatory drugs (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis and rheumatoid arthritis: a systematic review and economic evaluation.",
+        "abstract": "To review the clinical effectiveness and cost-effectiveness of cyclooxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drugs (NSAIDs) (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis (OA) and rheumatoid arthritis (RA).",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2008",
+        "authors": [
+          "Chen Y-F",
+          "Jobanputra P",
+          "Barton P",
+          "Bryan S",
+          "Fry-Smith A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Cost-Benefit Analysis",
+          "Cyclooxygenase 2 Inhibitors",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Markov Chains",
+          "Models, Econometric",
+          "Omeprazole",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18405470/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:13:14.880103",
+  "success": true,
+  "error_message": null
+}

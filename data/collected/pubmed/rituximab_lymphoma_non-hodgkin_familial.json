@@ -1,0 +1,589 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "lymphoma, non-Hodgkin, familial",
+    "query_string": "Rituximab AND lymphoma, non-Hodgkin, familial"
+  },
+  "data": {
+    "query": "Rituximab AND lymphoma, non-Hodgkin, familial",
+    "results": [
+      {
+        "pmid": "33938097",
+        "title": "Chemotherapy for non-Hodgkin lymphoma in the hemodialysis patient: A comprehensive review.",
+        "abstract": "Chemotherapy for non-Hodgkin lymphoma (NHL) in the hemodialysis (HD) patient is a challenging situation. Because many drugs are predominantly eliminated by the kidneys, chemotherapy in the HD patient requires special considerations concerning dose adjustments to avoid overdose and toxicities. Conversely, some drugs are removed by HD and may expose the patient to undertreatment, therefore the timing of drug administration in relation to HD sessions must be carefully planned. Also, the metabolites of some drugs show different toxicities and dialysability as compared with the parent drug, therefore this must also be catered for. However, the pharmacokinetics of many chemotherapeutics and their metabolites in HD patients are unknown, and the fact that NHL patients are often treated with distinct multiagent chemotherapy regimens makes the situation more complicated. In a realm where uncertainty prevails, case reports and case series reporting on actual treatment and outcomes are extremely v",
+        "journal": "Cancer science",
+        "year": "2021",
+        "authors": [
+          "Yasuda Hajime",
+          "Yasuda Mutsuko",
+          "Komatsu Norio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Child",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33938097/"
+      },
+      {
+        "pmid": "27345636",
+        "title": "Obinutuzumab plus bendamustine versus bendamustine monotherapy in patients with rituximab-refractory indolent non-Hodgkin lymphoma (GADOLIN): a randomised, controlled, open-label, multicentre, phase 3 trial.",
+        "abstract": "Patients with indolent non-Hodgkin lymphoma who fail to achieve adequate disease control with rituximab-based treatment have few treatment options and a poor prognosis. We aimed to assess a combination of obinutuzumab (GA101), a novel glyco-engineered type II anti-CD20 monoclonal antibody, and bendamustine in this patient population.",
+        "journal": "The Lancet. Oncology",
+        "year": "2016",
+        "authors": [
+          "Sehn Laurie H",
+          "Chua Neil",
+          "Mayer Jiri",
+          "Dueck Gregg",
+          "Trněný Marek"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27345636/"
+      },
+      {
+        "pmid": "30699313",
+        "title": "CD47 Blockade and Rituximab in Non-Hodgkin's Lymphoma.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2019",
+        "authors": [
+          "Advani Ranjana",
+          "Volkmer Jens-Peter",
+          "Chao Mark P"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30699313/"
+      },
+      {
+        "pmid": "30702240",
+        "title": "CD47 Blockade and Rituximab in Non-Hodgkin’s Lymphoma.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2019",
+        "authors": [
+          "Valerius Thomas",
+          "Rösner Thies",
+          "Leusen Jeanette H W"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Child",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30702240/"
+      },
+      {
+        "pmid": "39234863",
+        "title": "Rituximab and lenalidomide for the treatment of relapsed or refractory indolent non-Hodgkin lymphoma: real-life experience.",
+        "abstract": "The combination of rituximab and lenalidomide (R-len) stands as an established treatment for relapsed/refractory (R/R) indolent non-Hodgkin lymphoma (iNHL). However, the reproducibility of clinical trial results in routine clinical practice is unknown. To address this gap in knowledge, we reviewed our experience with patients diagnosed with R/R follicular lymphoma (FL) or marginal zone lymphoma (MZL) treated with this combination. Eighty-four patients underwent treatment with R-len, 69 (82%) affected by FL and 15 (18%) by MZL. The median age at the time of treatment initiation was 65 years (range, 39-94), 38 patients (45%) had a pretreatment FLIPI score of 3-5, 19 (23%) had a bulky disease, 29 (37%) had a lymphoma refractory to the last treatment line, while in 20 (24%) cases the disease was refractory to rituximab. The best overall response rate was 82%, and 52% achieved a complete response (CR). The best CR rates for FL and MZL patients were 55% and 40%, respectively. With a median f",
+        "journal": "Haematologica",
+        "year": "2025",
+        "authors": [
+          "Cassanello Giulio",
+          "Drill Esther",
+          "Rivas-Delgado Alfredo",
+          "Okwali Michelle",
+          "Isgor Irem"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lenalidomide",
+          "Aged",
+          "Rituximab",
+          "Middle Aged",
+          "Male",
+          "Female",
+          "Aged, 80 and over",
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39234863/"
+      },
+      {
+        "pmid": "40749164",
+        "title": "Preclinical advances in glofitamab combinations: a new frontier for non-Hodgkin lymphoma.",
+        "abstract": "T-cell engagers (TCEs) are transformative therapeutics in hematologic malignancies, including non-Hodgkin lymphoma. Initially approved for relapsed/refractory disease settings, TCEs are now explored in first-line and second-line settings, often combined with standard-of-care (SOC) treatments, including chemotherapy and antibody-drug conjugates. This study investigates glofitamab (CD20×CD3 TCE) combinations in preclinical humanized lymphoma models, addressing heterogeneity of tumor antigen expression, immune evasion, and T-cell exhaustion. Combining glofitamab with R-CHP-Pola (rituximab, cyclophosphamide, doxorubicin, prednisone, and polatuzumab vedotin) chemotherapy or Pola demonstrated strong synergistic antitumor efficacy with rapid tumor regression and reduced tumor cell proliferation. Glofitamab combination with gemcitabine/oxaliplatin also demonstrated strong efficacy, enhancing intratumor T-cell number, activation, and reduced exhaustion. These combinations were particularly adva",
+        "journal": "Blood",
+        "year": "2025",
+        "authors": [
+          "Sam Johannes",
+          "Leclercq-Cohen Gabrielle",
+          "Gebhardt Samuel",
+          "Surowka Marlena",
+          "Herter Sylvia"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Female",
+          "Humans",
+          "Mice",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cell Line, Tumor",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40749164/"
+      },
+      {
+        "pmid": "28983798",
+        "title": "Rituximab in B-Cell Hematologic Malignancies: A Review of 20 Years of Clinical Experience.",
+        "abstract": "Rituximab is a human/murine, chimeric anti-CD20 monoclonal antibody with established efficacy, and a favorable and well-defined safety profile in patients with various CD20-expressing lymphoid malignancies, including indolent and aggressive forms of B-cell non-Hodgkin lymphoma. Since its first approval 20 years ago, intravenously administered rituximab has revolutionized the treatment of B-cell malignancies and has become a standard component of care for follicular lymphoma, diffuse large B-cell lymphoma, chronic lymphocytic leukemia, and mantle cell lymphoma. For all of these diseases, clinical trials have demonstrated that rituximab not only prolongs the time to disease progression but also extends overall survival. Efficacy benefits have also been shown in patients with marginal zone lymphoma and in more aggressive diseases such as Burkitt lymphoma. Although the proven clinical efficacy and success of rituximab has led to the development of other anti-CD20 monoclonal antibodies in r",
+        "journal": "Advances in therapy",
+        "year": "2017",
+        "authors": [
+          "Salles Gilles",
+          "Barrett Martin",
+          "Foà Robin",
+          "Maurer Joerg",
+          "O'Brien Susan"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Immunological",
+          "B-Lymphocytes",
+          "Hematologic Neoplasms",
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Lymphoma, B-Cell",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28983798/"
+      },
+      {
+        "pmid": "25499449",
+        "title": "Transformed follicular non-Hodgkin lymphoma.",
+        "abstract": "Histologic transformation of follicular lymphoma to an aggressive non-Hodgkin lymphoma is a critical biologic event with profound implications on the natural history of this otherwise indolent disease. Recent insights into the genetic and epigenetic basis of transformation have been described, with the recognition of pivotal events governing the initiation and persistence of tumor evolution. Outcomes of patients with transformed lymphoma have historically been poor; however, several studies in the rituximab era suggest that survival may be more favorable than previously recognized. This review highlights our current understanding of transformed follicular lymphoma biology and pathogenesis, current treatment, and future directions.",
+        "journal": "Blood",
+        "year": "2015",
+        "authors": [
+          "Casulo Carla",
+          "Burack W Richard",
+          "Friedberg Jonathan W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents",
+          "Burkitt Lymphoma",
+          "Disease Progression",
+          "Epigenesis, Genetic",
+          "Humans",
+          "Lymphoma, Follicular",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Medical Oncology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25499449/"
+      },
+      {
+        "pmid": "38010876",
+        "title": "Clinical efficacy and safety of subcutaneous rituximab in non-Hodgkin lymphoma: a systematic literature review and meta-analysis.",
+        "abstract": "The role of subcutaneous (SC) rituximab in the efficacy and safety to non-Hodgkin lymphoma (NHL) is not clear enough. The purpose of this study was to conduct a systematic review and meta-analysis, to assess the efficacy and safety of subcutaneous rituximab to NHL.",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2023",
+        "authors": [
+          "Si Tianyu",
+          "Ma Xiaolin",
+          "Zhu Wenwei",
+          "Zhou Yongming"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Lymphoma, Non-Hodgkin",
+          "Treatment Outcome",
+          "Lymphoma, Follicular",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38010876/"
+      },
+      {
+        "pmid": "30702241",
+        "title": "CD47 Blockade and Rituximab in Non-Hodgkin’s Lymphoma.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2019",
+        "authors": [
+          "Li Yijia"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Child",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30702241/"
+      },
+      {
+        "pmid": "34939314",
+        "title": "Patient parameters and response after administration of rituximab in pediatric mature B-cell non-Hodgkin lymphoma.",
+        "abstract": "Mature aggressive B-cell lymphomas are heterogenous malignancies that make up more than half of all diagnosed non-Hodgkin lymphoma in children and adolescents. The overall survival rate increased over the last decades to 80%-90% due to fine tuning of polychemotherapy. However, new therapeutic implications are needed to further increase the overall survival. Current clinical trials analyze the therapeutic effect of rituximab in pediatric patients, while the mechanism of action in vivo is still not fully understood.",
+        "journal": "Pediatric blood & cancer",
+        "year": "2022",
+        "authors": [
+          "Bethke Maria",
+          "Varga Georg",
+          "Weinhage Toni",
+          "Sabharwal Harshana",
+          "Mellgren Karin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Humans",
+          "Killer Cells, Natural",
+          "Lymphoma, B-Cell",
+          "Lymphoma, Non-Hodgkin",
+          "Receptors, IgG",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34939314/"
+      },
+      {
+        "pmid": "39032870",
+        "title": "Optimization and characterization of Rituximab targeted multidrug loaded cyclodextrin nanoparticles against Non-Hodgkin Lymphoma.",
+        "abstract": "Currently, Non-Hodgkin Lymphoma (NHL) constitutes 85-90 % of all lymphomas. Clinical treatment of NHL is based on the \"4-drug regimen\" known as CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone). Rituximab (RTX) is added to increase the effectiveness and selectivity of the treatment and is the first-line standard treatment for NHL patients. However, success is often prevented by the development of drug resistance. In this study, it was aimed to overcome drug resistance by using two novel tumor-targeted derivatives: guanidine-amphiphilic cyclodextrin (ACD) and guanidine-cyclodextrin polymer (PCD) nanoparticles (NP). These constructs display promise in overcoming drug resistance and enhancing the effectiveness of R-CHOP treatment while potentially eliminating the need for corticosteroid. NP were found to be smaller than 200 nm by dynamic light scattering (DLS). Hemolytic activity and cytotoxicity data on L929 cells demonstrated the safety of the newly synthesized CD derivative",
+        "journal": "International journal of pharmaceutics",
+        "year": "2024",
+        "authors": [
+          "Demirtürk Nurbanu",
+          "Varan Gamze",
+          "Kağa Sadık",
+          "Malanga Milo",
+          "Bilensoy Erem"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Lymphoma, Non-Hodgkin",
+          "Humans",
+          "Rituximab",
+          "Nanoparticles",
+          "Cell Line, Tumor",
+          "Cyclodextrins",
+          "Drug Liberation",
+          "Animals",
+          "Cell Survival",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39032870/"
+      },
+      {
+        "pmid": "32303486",
+        "title": "Management of Adverse Events From the Combination of Rituximab and Lenalidomide in the Treatment of Patients With Follicular and Low-Grade Non-Hodgkin Lymphoma.",
+        "abstract": "Frontline treatment for patients with indolent non-Hodgkin lymphoma often includes immunochemotherapy. Although the disease of most patients responds to initial treatment, relapse is common. Recent results from the phase 3 Augment trial showed that combining rituximab with the immunomodulatory drug lenalidomide (R2) significantly improved efficacy over rituximab monotherapy in patients with recurrent non-Hodgkin lymphoma. As a result of these data, R2 was approved in the US (Food and Drug Administration) and Japan (Pharmaceuticals and Medical Devices Agency) for previously treated adult patients with follicular and marginal zone lymphoma; and by the European Medicine Agency and the Swiss Agency for Therapeutic Products (Swissmedic) for previously treated adult patients with follicular lymphoma. R2 has also been studied as initial treatment, where results have been comparable, but not superior, to chemoimmunotherapy. The resulting expanded use of R2 reinforces the need for a detailed re",
+        "journal": "Clinical lymphoma, myeloma & leukemia",
+        "year": "2020",
+        "authors": [
+          "Cheson Bruce D",
+          "Morschhauser Franck",
+          "Martin Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Follicular",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Neoplasm Grading",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32303486/"
+      },
+      {
+        "pmid": "40214308",
+        "title": "Combination Treatment of Rituximab and Therapeutic Vaccines Affords Superior Tumor Suppression and Relapse Prevention for Non-Hodgkin Lymphoma.",
+        "abstract": "Lymphoma, a common malignancy of the lymphatic system, presents considerable health challenges and imposes a significant economic burden. Despite advancements in chemotherapy and immunotherapy that have improved survival rates, issues such as high relapse rates and treatment resistance remain pressing concerns. This study presents a novel therapeutic strategy that combines rituximab with a therapeutic vaccine for human B-cell non-Hodgkin lymphoma, evaluated in a humanized mouse model. This combination therapy synergistically achieves superior tumor suppression and relapse prevention. By harnessing the tumor-killing efficacy of monoclonal antibodies and the T cell-mediated immunity elicited by vaccines, this approach represents a promising advancement in achieving significantly improved cancer treatment outcomes.",
+        "journal": "Advanced materials (Deerfield Beach, Fla.)",
+        "year": "2025",
+        "authors": [
+          "Qi Tong",
+          "Guo Jimin",
+          "Cao Zheng",
+          "Chen Shilin",
+          "Kimura Eugene"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Rituximab",
+          "Humans",
+          "Mice",
+          "Lymphoma, Non-Hodgkin",
+          "Cancer Vaccines",
+          "Cell Line, Tumor",
+          "Neoplasm Recurrence, Local"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40214308/"
+      },
+      {
+        "pmid": "37860948",
+        "title": "Characteristics and predictors of infusion-related reactions to rituximab in patients with B-cell non-Hodgkin lymphoma.",
+        "abstract": "This retrospective study aimed to assess the characteristics and predictors of infusion-related reactions (IRRs) to rituximab in patients with B-cell non-Hodgkin lymphoma (B-NHL). The medical records of adult patients with B-NHL who received their first cycle of rituximab from August 2020 to August 2022 were reviewed. IRRs were defined as any signs experienced by patients during rituximab infusion and graded according to the Common Terminology Criteria for Adverse Events. During the study period, 334 patients were included; among them, 100 patients (30%) developed IRRs (mean age 54.7 (SD 13.2) years). Of the reported IRRs, 90% were grade II reactions, and 10% were grade III reactions. The multivariate analysis identified indolent lymphoma [OR 1.90, p = 0.025], no hydrocortisone as premedication [OR 3.03, p = 0.029], thrombocytopenia [OR 2.55, p = 0.009], and absolute lymphocyte count ≥ 2000 lymphocytes/microL [OR 1.74, p = 0.045] as independent predictors for IRRs.",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "2024",
+        "authors": [
+          "Faqeer Nour",
+          "Alrabie Rawaa",
+          "Al-Haddadin Rand",
+          "Ma'koseh Mohammad"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Middle Aged",
+          "Male",
+          "Retrospective Studies",
+          "Female",
+          "Antineoplastic Agents, Immunological",
+          "Aged",
+          "Lymphoma, B-Cell",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37860948/"
+      },
+      {
+        "pmid": "17338647",
+        "title": "Rituximab and its role as maintenance therapy in non-Hodgkin lymphoma.",
+        "abstract": "Since rituximab, a chimeric monoclonal anti-CD20 antibody, was introduced into clinical practice in 1997, data regarding its benefit in terms of response rate, quality of response, progression-free survival and overall survival in B-cell lymphoid malignancies continues to expand. Rituximab has proven to be a relatively well-tolerated drug, with its major side effects being infusion related. Rituximab was approved initially by the US FDA and the European Medicines Agency for relapsed or refractory low-grade or follicular CD20+ B-cell non-Hodgkin lymphomas. Subsequently, its use has been extended to include first-line therapy in low-grade lymphoma as well as the treatment of more aggressive histological subtypes such as diffuse large B-cell lymphoma. In this article, we review the landmark trials that have impacted clinical practice in follicular and diffuse large B-cell lymphomas and the emerging data for use of rituximab as maintenance therapy in non-Hodgkin lymphoma.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2007",
+        "authors": [
+          "Collins-Burow Bridgette",
+          "Santos Edgardo S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antibody Specificity",
+          "Antigens, CD20",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "B-Lymphocytes",
+          "Bone Marrow Diseases",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17338647/"
+      },
+      {
+        "pmid": "21958083",
+        "title": "Maintenance rituximab in follicular non-Hodgkin lymphoma: facts and controversies.",
+        "abstract": "The advent of rituximab, a chimeric monoclonal antibody against CD20, has arguably improved and changed the natural history of non-Hodgkin lymphoma and has become an essential component of front-line and relapsed disease treatment strategies. Given its tolerability and long half-life, rituximab has been investigated in the maintenance setting in follicular lymphoma. Several landmark studies have demonstrated improvement in progression-free survival in patients receiving maintenance rituximab compared to those observed. These favorable results were witnessed in front-line and in the relapsed setting using a variety of induction programs such as rituximab monotherapy or chemoimmunotherapy. Importantly, toxicities were predictable and manageable. Despite these encouraging results, many vital and practical questions remain unanswered. In this review, we critically analyze the data that led to the widespread use of maintenance rituximab in follicular lymphoma and attempt to answer the most ",
+        "journal": "Leukemia & lymphoma",
+        "year": "2012",
+        "authors": [
+          "Nabhan Chadi",
+          "Smith Sonali M",
+          "Kahl Brad S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Agents",
+          "Disease-Free Survival",
+          "Humans",
+          "Lymphoma, Follicular",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21958083/"
+      },
+      {
+        "pmid": "31446557",
+        "title": "Comparative Efficacy and Safety of Biosimilar Rituximab and Originator Rituximab in Rheumatoid Arthritis and Non-Hodgkin's Lymphoma: A Systematic Review and Meta-analysis.",
+        "abstract": "Rituximab is a biologic medicine widely used for the treatment of autoimmune diseases and lymphoma. Several biosimilars of rituximab have been developed and marketed with the expiration of the originator rituximab's patent; thus, systematic combination and analysis of the latest data on the efficacy and safety of biosimilars and the demonstration of the interchangeability of biosimilar agents are required.",
+        "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+        "year": "2019",
+        "authors": [
+          "Lee Soohyun",
+          "Lee Heeyoung",
+          "Kim EunYoung"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Immunological",
+          "Arthritis, Rheumatoid",
+          "Biosimilar Pharmaceuticals",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Randomized Controlled Trials as Topic",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31446557/"
+      },
+      {
+        "pmid": "25582186",
+        "title": "New therapies in non-Hodgkin lymphoma.",
+        "abstract": "Non-Hodgkin lymphomas are among the most prevalent hematologic malignancies. Although the addition of rituximab (R) to chemotherapy has made a big impact in the treatment of B cell lymphomas, most of them are not cured yet. The panorama in natural killer/T cell lymphomas is more unsatisfactory, thus representing a group of diseases where effective therapies constitute an urgent medical need. In recent years, several new antineoplastic agents have been tested in clinical trials showing promising results. The aim of this review is to update information of these studies that are already changing the scenario of the treatment of patients with Non-Hodgkin lymphoma.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2015",
+        "authors": [
+          "Novelli Silvana",
+          "Sierra Jorge",
+          "Briones Javier"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Clinical Trials as Topic",
+          "Drug Design",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25582186/"
+      },
+      {
+        "pmid": "32135128",
+        "title": "Cardiovascular adverse events in patients with non-Hodgkin lymphoma treated with first-line cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) or CHOP with rituximab (R-CHOP): a systematic review and meta-analysis.",
+        "abstract": "Patients treated for non-Hodgkin lymphoma are at risk of cardiovascular adverse events, with the risk of heart failure being particularly high. A regimen of cyclophosphamide, doxorubicin, vincristine, and prednisone, with (R-CHOP) or without (CHOP) rituximab is the standard first-line treatment for aggressive non-Hodgkin lymphoma, and doxorubicin and cyclophosphamide are both associated with left ventricular dysfunction. The aim of this systematic review and meta-analysis was to evaluate the cardiovascular toxicity of this regimen.",
+        "journal": "The Lancet. Haematology",
+        "year": "2020",
+        "authors": [
+          "Linschoten Marijke",
+          "Kamphuis Janine A M",
+          "van Rhenen Anna",
+          "Bosman Laurens P",
+          "Cramer Maarten J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cardiovascular Diseases",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Prednisone",
+          "Rituximab",
+          "Severity of Illness Index",
+          "Vincristine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32135128/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:23:40.123372",
+  "success": true,
+  "error_message": null
+}

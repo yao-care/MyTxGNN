@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Loratadine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00455",
+    "name": "Loratadine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T14:49:06.259098",
+  "success": true,
+  "error_message": null
+}

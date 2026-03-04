@@ -1,0 +1,931 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Insulin Human",
+    "disease": "diabetic ketoacidosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04233034",
+      "title": "Hybrid Closed Loop Therapy and Verapamil for Beta Cell Preservation in New Onset Type 1 Diabetes (CLVer)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-07-09",
+      "completion_date": "2022-09-30",
+      "country": "United States",
+      "enrollment": 113,
+      "brief_summary": "Randomized trial of youth aged 7-\\<18 years with newly diagnosed stage 3 type 1 diabetes (T1D) to assess the effect of both (1) near-normalization of glucose concentrations achieved through use of a hybrid closed loop (HCL) system and (2) verapamil on preservation of β-cell function 12 months after diagnosis. Participants with body weight ≥30 kg (Cohort A) will be randomly assigned in a factorial design to (1) HCL plus intensive diabetes management or usual care with no HCL and (2) verapamil or ",
+      "eligibility_criteria": "* Participant Inclusion Criteria:\n\n  1. New-onset stage 3 T1D within 21 days of diagnosis (timed from start of insulin therapy), with ability to be randomized within 31 days of diagnosis (time from diagnosis to screening can be longer provided all screening testing can be completed within 31 days of",
+      "endpoints": [
+        "C-peptide Area Under the Curve (AUC)"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT04233034"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07167693",
+      "title": "Phase 1 Randomized Clinical Trial of Arginine Hydrochloride Administration to Reduce Duration of Diabetic Ketoacidosis in Patients With Type 2 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-12-19",
+      "completion_date": "2027-12-31",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is increasingly recognized in adults with \"ketone-prone\" type 2 diabetes. In many of these patients, the pancreas can still make insulin but becomes temporarily \"stunned\" during severe, prolonged high blood sugar. Arginine is a naturally occurring amino acid that can trigger the pancreas to release its own insulin when glucose is high. It is FDA-approved for other uses and has been given intravenously for decades with a strong safety record. Whether a single arginine ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>17 years.\n* Unscheduled presentation to a participating emergency department with hyperglycemia (serum glucose \\>250 mg/dL) and significant ketonemia consistent with DKA, defined as laboratory serum/plasma β-hydroxybutyrate (BHB) \\>20 mg/dL (≈≥1.9 mmol/L).\n\nNote: point-o",
+      "endpoints": [
+        "Change in endogenous insulin secretion (C-peptide/glucose ratio)"
+      ],
+      "sponsor": "Wayne State University",
+      "url": "https://clinicaltrials.gov/study/NCT07167693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04196140",
+      "title": "Evaluating the Safety and Effectiveness of the Omnipod Horizon™ Automated Glucose Control System in Patients With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-12-30",
+      "completion_date": "2022-04-20",
+      "country": "United States",
+      "enrollment": 240,
+      "brief_summary": "Subjects will undergo a 14-day outpatient, standard therapy phase during which sensor and insulin data will be collected. This will be followed by a 94-day (13-week) hybrid closed-loop phase conducted in an outpatient setting and an optional 12-month extension phase.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age at time of consent/assent 6-70 years\n2. Subjects aged \\< 18 years must be living with parent/legal guardian\n3. Diagnosed with type 1 diabetes for at least 6 months. Diagnosis is based on investigator's clinical judgment\n4. Deemed appropriate for pump therapy per investiga",
+      "endpoints": [
+        "Incidence Rate of Severe Hypoglycemia (Events Per Person Months)",
+        "Incidence Rate of Diabetic Ketoacidosis (DKA) (Events Per Person Months)",
+        "Glycated Hemoglobin (A1C)"
+      ],
+      "sponsor": "Insulet Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04196140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06007508",
+      "title": "Early Administration of Insulin Glargine in Patients With Diabetic Ketoacidosis",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-05-31",
+      "completion_date": "2023-02-28",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a medical emergency that is associated with significant morbidity and mortality for both patients with type I and type II diabetes. By correcting hyperglycemia and inhibiting the release of free fatty acids, insulin administration leads to decreased ketone formation and resolution of acidosis. Short-acting intravenous insulin is often preferred to subcutaneous administration for initial management due to its short half-life and ease of titration, but patients will ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Presented to Regions Hospital ED for chief complaint of DKA, nausea, vomiting, abdominal pain, hyperglycemia, or similar\n2. Meets all below diagnostic criteria for DKA per the American Diabetes Association:\n\n   * Arterial or venous pH \\</= 7.3\n   * Serum Bicarbonate \\</= 18 m",
+      "endpoints": [
+        "Does early administration of insulin glargine result in a change in ICU length of stay when compared to usual care for the treatment of diabetic ketoacidosis?"
+      ],
+      "sponsor": "HealthPartners Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06007508"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00426413",
+      "title": "Ketosis Prone Diabetes Mellitus in African-Americans: Insulin Signaling, Proteomics, and Outcomes",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-08",
+      "country": "United States",
+      "enrollment": 44,
+      "brief_summary": "Over 50% of obese African-Americans (AA) presenting with newly diagnosed, severe hyperglycemia and/or unprovoked diabetic ketoacidosis (DKA) display clinical, metabolic, and immunogenetic features of type 2 diabetes. Prior studies indicate that these patients a) have markedly decreased insulin secretion and impaired insulin action at presentation, b) absent or low prevalence of beta-cell autoantibodies and c) are able to discontinue aggressive insulin therapy in \\~70% of cases within 3 months of",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 36 Obese AA subjects with DKA or severe hyperglycemia and 8 obese nondiabetic subjects, age 19-65. All studies will be performed in the GCRC at Grady Memorial Hospital.\n* Subjects with a BMI ≥ 28 kg/m2 will be included.\n* Diagnostic criteria for DKA will include:\n\n  * a plasma",
+      "endpoints": [],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00426413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01709123",
+      "title": "Ketosis, Vascular Inflammation, and Its Therapy (Chromium Supplementation) in Diabetic Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2013-09",
+      "country": "United States",
+      "enrollment": 62,
+      "brief_summary": "6-8% of USA population has diabetes. Intensive blood glucose control dramatically reduces the devastating complications that result from poorly controlled diabetes. However, for many patients, achievement of tight glucose control is difficult with current regimens. Trivalent chromium, the form found in foods and dietary supplements, is believed to be safe. Our preliminary studies have reported that chromium supplementation inhibits the increase in pro-inflammatory cytokines (tumor necrosis facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Type 1 diabetes mellitus\n* Participants between the ages of 8 and 21\n\nExclusion Criteria:\n\n* Subjects with sickle cell disease, renal or liver disease\n* Serum positive pregnancy test or breastfeeding\n* Participants unwilling/unable to take supplements in ",
+      "endpoints": [
+        "Blood Glucose Level",
+        "Blood Glucose Levels"
+      ],
+      "sponsor": "Louisiana State University Health Sciences Center Shreveport",
+      "url": "https://clinicaltrials.gov/study/NCT01709123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06599203",
+      "title": "Prognostic Factors in Children with Diabetic Ketoacidosis",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10-01",
+      "completion_date": "2026-01-31",
+      "country": "N/A",
+      "enrollment": 130,
+      "brief_summary": "In the present work we aim to\n\n1. Response to therapy, During the management of DKA, acid base status, glycemia, and serum electrolytes are measured frequently to monitor the efficacy of treatment, detect complications of DKA and its treatment, and to determine resolution of DKA.\n2. Clinical complication like cerebral injury / cerebral edema , cognitive impairment , acute kidney injury , hypokalemia.\n3. Severity of DKA",
+      "eligibility_criteria": "Inclusion Criteria:\n\nHospitalized diabetic patients aged from 1 year to 16 years with diabetic ketoacidosis\n\nExclusion Criteria:\n\n1. Other endocrine diseases as thyroid disease or pituitary disease\n2. Severe Hepatic Dysfunction or Chronic Kidney Dysfunction: Patients with significant liver or kidney",
+      "endpoints": [
+        "Method",
+        "Sample size",
+        "Determination of response to therapy and clinical complication of DKA"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06599203"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04200313",
+      "title": "The Insulin-Only Bionic Pancreas Pivotal Trial: Testing the iLet in Adults and Children With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-03-31",
+      "completion_date": "2022-01-14",
+      "country": "United States",
+      "enrollment": 440,
+      "brief_summary": "This multi-center randomized control trial (RCT) will compare efficacy and safety endpoints using the insulin-only configuration of the iLet Bionic Pancreas (BP) System versus Usual Care (UC) during a 13-week study period. Participants may be enrolled initially into a screening protocol and then transfer into the RCT protocol, or they may enter directly into the RCT protocol. The RCT will be followed by an Extension Phase in which the RCT Usual Care (UC) Group will use the insulin-only configura",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Clinical diagnosis of T1D for at least one year and using insulin for at least 1 year 2. Diabetes managed using the same regimen (either pump or MDI, with or without CGM) for ≥ 3 months\n\n  3\\. Age ≥ 6 years old\n  * Exception: the initial 5-participant test run will be limi",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT04200313"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04902378",
+      "title": "Closed-loop Insulin Delivery by Glucose Responsive Computer Algorithms In Type 1 Diabetes Pregnancies (CIRCUIT)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-06-15",
+      "completion_date": "2025-05-23",
+      "country": "Australia, Canada",
+      "enrollment": 94,
+      "brief_summary": "This trial will assess the efficacy of the Tandem t:slim X2 insulin pump with Control IQ technology compared with standard insulin delivery plus CGM in pregnant women with type 1 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 45 years of age (inclusive)\n* A diagnosis of type 1 diabetes, as defined by Diabetes Canada, for at least 12 months\n* A viable singleton pregnancy confirmed by ultrasound, less than 14 weeks gestation\n* Currently on intensive insulin therapy (≥ 3 injections, or ",
+      "endpoints": [
+        "Glycemic control as reflected by percent glucose time-in-range"
+      ],
+      "sponsor": "University of Calgary",
+      "url": "https://clinicaltrials.gov/study/NCT04902378"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06117449",
+      "title": "Effectiveness and Satisfaction of Insulin Therapy in Type 2 Diabetic Patients (Real Life Study)",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2025-05-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Diabetes mellitus is an endocrine disorder with heterogeneous etiologies, which is characterized by raised levels of glucose in a person's blood and disturbances of macromolecules such as carbohydrate, fat, and protein metabolism resulting from defects in insulin secretion, insulin action, or both.\n\nA lack of insulin, or the inability of cells to respond to it, leads to high levels of blood glucose (hyperglycemia), which is the clinical indicator of diabetes. Type 1 DM is characterized by insuli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Patients with type 2 diabetes mellitus aged ≥18 years.\n\n* Patients going on insulin therapy versus patients going on oral antidiabetic drugs.\n* patients included if they met the following\n\nCriteria:\n\n* previous diagnosis of diabetes mellitus or on medical therapy of DM.\n* no pr",
+      "endpoints": [
+        "blood glucose level",
+        "HbA1C level"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06117449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06032325",
+      "title": "Neutrophil Gelatinase Associated Lipocalin and Kidney Injury Molecule-1 As Biomarkers of Acute Kidney Injury in Children With Diabetic Ketoacidosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2024-01-01",
+      "completion_date": "2024-12-01",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "Type 1 diabetes mellitus (T1DM) is a common, chronic, metabolic disorder that has significant consequences for physical and emotional development . The incidence of TIDM is steadily increasing in nearly all parts of the world by about 2-5% per year . Diabetic ketoacidosis (DKA) is the most serious complication of TIDM and results from metabolic abnormalities due to a severe deficiency of insulin or insulin effectiveness. Similar to diabetes, DKA has an increasing incidence and more frequently oc",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with diabetic ketoacidosis below 18 years whether first time or recurrent ketoacidosis with either increase in serum creatinine more than or equal 0.3 mg/dl within 48hrs or to more than or equal 1.5 times or more baseline within 7 days or urine output less than 0.",
+      "endpoints": [
+        "biomarkers"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT06032325"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04815018",
+      "title": "A Longitudinal Observational Study Identifying Shifts in the Respiratory Microbiome and Clinical Outcomes of SARS-CoV-2 in Nursing Home Residents",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2020-10-07",
+      "completion_date": "2021-05-30",
+      "country": "United States",
+      "enrollment": 185,
+      "brief_summary": "This is a longitudinal, prospective observational study focusing on health-related outcomes relative to potential changes in the respiratory microbiome seen with weekly SARS-CoV-2 testing in nursing home residents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All residents of the nursing home facility, (M/F) 65 years or above, who have recently tested positive through Ohio's PARRT Program are eligible\n* Resident must submit weekly nasal swab sample per nursing home COVID testing guidelines\n* Clinical suspicion of a new episode of a",
+      "endpoints": [
+        "Percent of SARS-CoV-2 infection",
+        "Percent of SARS-CoV-2 and bacterial co-infection",
+        "Percent of SARS-CoV-2 and viral co-infection"
+      ],
+      "sponsor": "Pathnostics",
+      "url": "https://clinicaltrials.gov/study/NCT04815018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05910840",
+      "title": "Support-t, an Online Training and Peer Support Platform to Accompany Youth Living With Type 1 Diabetes Transitioning to Adult Healthcare",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-10-07",
+      "completion_date": "2027-10",
+      "country": "Canada",
+      "enrollment": 200,
+      "brief_summary": "The investigators will conduct a randomized controlled trial (RCT) to examine how an online training and peer support platform could help the preparation to transition to adult care. Among 14-16 year old youth with Type 1 Diabetes (T1D), the investigators aim to assess the effect of an online training and peer support platform (Support-t) integrated in usual care, compared with usual care on Hemoglobin A1c (HbA1c), adverse outcomes and psychosocial measures during the preparation for transition ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescents with a clinical diagnosis of T1D\n* 14-16 years of age\n* Receiving diabetes care at one of 4 university teaching hospital-based pediatric diabetes clinics in Quebec: Montreal Children's Hospital-McGill University Health Centre, Centre hospitalier universitaire de Sh",
+      "endpoints": [
+        "Change from Baseline Hemaglobin A1c (HbA1c) at 18 months"
+      ],
+      "sponsor": "McGill University",
+      "url": "https://clinicaltrials.gov/study/NCT05910840"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02463097",
+      "title": "Safety Evaluation of the Hybrid Closed Loop (HCL) System in Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2018-10",
+      "country": "Israel, United States",
+      "enrollment": 124,
+      "brief_summary": "This study is a single-arm, multi-center, Home and Hotel Clinical Investigation in subjects with type 1 diabetes on insulin pump therapy. The purpose of this study is to demonstrate that the closed loop algorithm that is built into the 670G insulin pump is safe as part of the overall system.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Is age 14 - 75 years at time of screening\n2. Has a clinical diagnosis of type 1 diabetes for 2 years or more as determined via medical record or source documentation by an individual qualified to make a medical diagnosis\n3. Is willing to participate in a hotel study for the s",
+      "endpoints": [
+        "Change in A1C"
+      ],
+      "sponsor": "Medtronic Diabetes",
+      "url": "https://clinicaltrials.gov/study/NCT02463097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03300934",
+      "title": "Adolescence and Diabetes: Can an Automated Closed Loop System Improve Control ?",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-01",
+      "completion_date": "2018-07-19",
+      "country": "Luxembourg",
+      "enrollment": 16,
+      "brief_summary": "This study evaluates the use of the FD2 automated closed loop insulin administration in Adolescents with a poor metabolic control . All youth will be treated in a random order by their usual pump treatment or an Automated system and we will evaluate whether this has an impact on metabolic control and sleep",
+      "eligibility_criteria": "Inclusion Criteria:\n\n12- 18 years Type 1 diabetes according to WHO/ISPAD , for at least 1 year CSII treatment for at least 6 month HbA1c ≥ 8,0%, for more than 6 months Informed consent of the patient and parents\n\nExclusion Criteria:\n\nNon-type 1 diabetes mellitus including those secondary to chronic ",
+      "endpoints": [
+        "Time spent in glucose target (%) (3.9 - 10 mmol/l)"
+      ],
+      "sponsor": "Centre Hospitalier du Luxembourg",
+      "url": "https://clinicaltrials.gov/study/NCT03300934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05403502",
+      "title": "Safety Evaluation of an Advanced Hybrid Closed Loop System Using Lyumjev With the Tandem t:Slim X2 Insulin Pump With Control-IQ Technology in Adults, Adolescents and Children With Type 1 Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-08-31",
+      "completion_date": "2023-08-02",
+      "country": "United States",
+      "enrollment": 183,
+      "brief_summary": "Prospective, multi-center, single-arm study in adults and children ages 6 to 80 with type 1 diabetes to evaluate the safety of Lyumjev with Control-IQ technology to achieve labeling updates for Lyumjev and the t:slim X2 insulin pump.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 6 to \\<81 years\n2. Diagnosis of type 1 diabetes for at least 1 year\n3. Currently using Control-IQ technology for at least 3 months, with CGM data recorded indicative of system use (active closed loop) for at least 85% of the possible time in 14 days prior to enrollment\n4.",
+      "endpoints": [
+        "Severe Hypoglycemia",
+        "Diabetic Ketoacidosis",
+        "Unanticipated Adverse Device Effects"
+      ],
+      "sponsor": "Tandem Diabetes Care, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05403502"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02130180",
+      "title": "Measurement of the Optic Nerve Sheath Diameter by Optic Ultrasound in Diabetic Ketoacidosis and the Relationship to Cerebral Edema",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2014-04",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 108,
+      "brief_summary": "Diabetic ketoacidosis (DKA) is a complication of type 1, or \"insulin-dependent,\" diabetes (T1DM) and is defined by a high blood glucose level (over 200 mg/dL) coupled with severe acidosis. In this state the body breaks down fat tissue for adequate energy production. This results in ketone and acid production, and ultimately DKA. Cerebral edema (CE), or \"brain swelling,\" can also occur with severe DKA. Current evaluation for DKA-related CE necessitates a high index of clinical suspicion and often",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAges 7-18 years English speaking\n\nDKA group recruited from Children's ED. Criteria for DKA:\n\n1. Hyperglycemia \\>200 mg/dL AND\n2. Venous pH \\<7.30 AND/OR\n3. Bicarbonate level \\<15 AND\n4. Either positive urine or serum ketones\n\nT1DM and hyperglycemia without criteria for DKA (recr",
+      "endpoints": [
+        "Mean Optic Nerve Sheath Diameter"
+      ],
+      "sponsor": "Children's Hospitals and Clinics of Minnesota",
+      "url": "https://clinicaltrials.gov/study/NCT02130180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04769765",
+      "title": "Evaluation of the Feasability of a Care Pathway Integrating Collaborative Tele-expertise for the Prevention of Recurrent Hospitalisations for Patients With Diabetes",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2022-05-04",
+      "completion_date": "2023-05-09",
+      "country": "France",
+      "enrollment": 200,
+      "brief_summary": "Telemedicine for diabetic patients is currently based simply on remotely monitoring capillary blood glucose levels. This experimental approach remains limited to insulin-treated diabetic patients with sufficient motivation and ability to use connected devices and only considers one aspect of the care required by diabetic patients. So far, telemedicine has not offered a more global approach to the therapeutic support of patients. This failing leads to recurrent hospitalizations for acute metaboli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients hospitalized on an unscheduled basis in the diabetology department of one of the 8 study centers.\n* Patients with at least two unscheduled hospitalizations in less than one year (i.e. at least one other hospitalization in the last 365 days in addition to the ",
+      "endpoints": [
+        "Number of patients eligible for the Individualized Care Pathway as well as the basic diabetic program.",
+        "Number of patients on the basic diabetic program, included in the study, who have completed at least three of the four scheduled follow-up visits."
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nīmes",
+      "url": "https://clinicaltrials.gov/study/NCT04769765"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05014594",
+      "title": "Sodium-glucose Linked Transporter 2 (SGLT-2) Inhibitors in Recurrent Ascites: a Pilot RCT",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-03",
+      "completion_date": "2022-05-19",
+      "country": "India",
+      "enrollment": 44,
+      "brief_summary": "The development of ascites is a landmark event in the natural history of cirrhosis and signifies a grim prognosis. Portal hypertension and splanchnic arterial vasodilatation are the major contributors in the development of ascites. Vasodilatation with the consequential decrease in effective circulating volume leads to the activation of sympathetic nervous system and renin angiotensin aldosterone system (RAAS), leading to antinatriuretic effects and retention of sodium and water. This results in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-70 years\n2. Cirrhosis as determined by clinical findings, hemogram and liver function tests, endoscopic findings and imaging\n3. Recurrent ascites: Recurrent ascites will be defined as tense ascites recurring at least thrice within the last 1-year despite optimal standa",
+      "endpoints": [
+        "control of ascites at 6-months"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT05014594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06529705",
+      "title": "Performance and Safety Evaluation of the EkiYou V2 Application in Patients With Diabetes Using Multiple Daily Insulin Injections (EkiYou-Study1)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-08-19",
+      "completion_date": "2025-03-27",
+      "country": "France",
+      "enrollment": 21,
+      "brief_summary": "EkiYou-Study-1 is an interventional before/after clinical investigation according to EU 2017/745. It is conducted in 21 adults with diabetes and treated by multiple daily insulin injections.\n\nAfter a run-in period of 2 weeks, participants will receive for 6 weeks EkiYou V2 application that will help them to estimate their daily bolus and basal insulin doses. This device weekly adjusts insulin parameters including : basal insulin dose, insulin to carb ratios and correction factor.\n\nThe aim of the",
+      "eligibility_criteria": "Inclusion Criteria :\n\n* Be over 18 years old;\n* Have type 1, type 2, or pancreatogenic diabetes;\n* Have been treated with multiple daily injections of insulin in a basal/bolus regimen for at least 6 months;\n* Be using a continuous glucose monitoring device such as Dexcom G6, Dexcom One or Freestyle ",
+      "endpoints": [
+        "Change in the percentage of time in range 70-180 mg/dL"
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "url": "https://clinicaltrials.gov/study/NCT06529705"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06586632",
+      "title": "Automated Insulin Pumps and On-demand Consultations to Adults with New-onset of Type 1 Diabetes",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10-01",
+      "completion_date": "2028-10-01",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "Since the introduction of insulin therapy 100 years ago, significant progress has continuously been made in the treatment of people with type 1 diabetes. In the last 10 years, the focus has largely been on technology, and the introduction of automated insulin delivery (AID) systems has revolutionized the treatment of type 1 diabetes. AID is an automated system that works by enabling the insulin pump and continuous glucose monitor (CGM) to communicate with each other, automatically adjusting the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* new-onset of Type 1 diabetes with positive auto-antibodies\n\nExclusion Criteria:\n\n* negative auto-antibodies,\n* uncertainty about the type 1 diabetes diagnosis\n* pregnancy\n* ongoing cancer or other acute/chronic severe illnesses that could potentially hinder participation and c",
+      "endpoints": [
+        "Less diabetes distress",
+        "Increased quality of life",
+        "Increased health literacy"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT06586632"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02137031",
+      "title": "Continuous Glucose Monitoring and HbA1c in Children for Longterm Diabetes Management",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2014-04",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "The primary purpose of this pilot randomized controlled trial is to provide preliminary indicators of the effects of continuous subcutaneous insulin infusion with continuous glucose monitoring compared to self-monitoring of blood glucose alone on: (1) metabolic control and (2) fear of hypoglycemia. Additional objectives will be: (1) to provide an estimate of recruitment rates, (2) to assess compliance with allocated treatment, and (3) to determine participants' satisfaction with allocated treatm",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children aged 6-18 years\n* T1D for greater than one year;\n* Willing to perform at least three self-monitoring blood glucose tests per day;\n* Has been using continuous subcutaneous insulin infusion for more than one month\n* English speaking\n\nExclusion Criteria:\n\n* Presence of c",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "University of Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT02137031"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01616784",
+      "title": "The Relative Effectiveness of Pumps Over Multiple Dose Injections and Structured Education Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2015-11",
+      "country": "United Kingdom",
+      "enrollment": 267,
+      "brief_summary": "For type-1 diabetes, the aim of insulin therapy is to keep blood glucose close to normal while avoiding hypoglycaemia but this is severely limited by the relative crudeness of current insulin delivery in comparison with the physiology of the β-cells which secrete insulin. Insulin is generally administered by multiple injections MDI with the dose adjusted according to eating and exercise. Insulin can now also be administered using a pump (CSII), which is a device, roughly the size of a mobile pho",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Is aged 18 yrs and above.\n* Have had type-1 diabetes for at least 12 months (as assessed by date clinically diagnosed).\n* Is fluent in speaking, reading and understanding English.\n* Has no preference to either CSII or MDI arm of the study and is happy to be randomised.\n* Is cu",
+      "endpoints": [
+        "The change in HbA1c after 2 years in those participants whose baseline HbA1c was at or above 7.5% (58mmol/mol)."
+      ],
+      "sponsor": "Sheffield Teaching Hospitals NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01616784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01941238",
+      "title": "Incidence of Hypoglycemia During Ramadan in Patients With Type1 Diabetes on Insulin Pump Versus Multi-dose Insulin Injection",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2014-11",
+      "country": "Saudi Arabia",
+      "enrollment": 142,
+      "brief_summary": "Managing patients with type1 diabetes when fasting Ramadan is very challenging. Insulin pump offers the advantage of flexibility and precision to administering insulin and has been proven to reduce severe hypoglycemia compared to multi-dose injection (MDI). However, there are extremely limited studies on the difference between insulin pump compared to MDI on the incidence of hypoglycemia and other acute complications during fasting Ramadan\n\nThe investigators hypothesized that insulin pump would ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. DM type 1\n2. Age ≥14 years\n3. Patients on insulin pump (more than 3 months)\n4. Patients on MDI (glargine or detemir combined with aspart or lispro) regimen\n5. Diagnosis of type 1 DM of more than 6 months.\n6. Willing to do Self Monitoring Blood Sugar (SMBG)\n7. Have no other co",
+      "endpoints": [
+        "Incidence of hypoglycemia"
+      ],
+      "sponsor": "King Abdullah International Medical Research Center",
+      "url": "https://clinicaltrials.gov/study/NCT01941238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06130215",
+      "title": "Evaluation on Glycemic Control Using Two Different Meal Announcement Plans in Adolescents With Type 1 Diabetes on Minimed 780G Hybrid Closed Loop System",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2023-11-15",
+      "completion_date": "2025-07-30",
+      "country": "Qatar",
+      "enrollment": 34,
+      "brief_summary": "Carbohydrate counting is an essential component of diabetes management in both adults and children, and together with an intensive insulin plan and increased blood glucose monitoring was associated with lower HbA1c. Carbohydrate counting is perceived as one of the most burdensome tasks in T1D and is frequently done inconsistently and with poor accuracy A recent analysis confirms that MiniMed™ Advaced Hybrid closed loop (AHCL) system is designed for optimal performance with meal announcement. Non",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinical diagnosis of type 1 diabetes \\>1 year prior to consent date. Diagnosis of type 1 diabetes is based on the investigator's judgment; C peptide level and antibody determinations are not required.\n2. Age 12 and above at the initiation of the system\n3. Total daily insulin",
+      "endpoints": [
+        "Hba1c",
+        "Time in Range (70-180mg/dl)",
+        "Time below Range (<54mg/dl and <70mg/dl)"
+      ],
+      "sponsor": "Sidra Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT06130215"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06984133",
+      "title": "Evaluating the Effectiveness of a Structured Educational Program on Glycemic Control in Adolescents With Type 1 Diabetes: A Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-05-18",
+      "completion_date": "2028-05-18",
+      "country": "Kuwait",
+      "enrollment": 128,
+      "brief_summary": "Type 1 diabetes is becoming more common in Kuwaiti and Arab adolescents. Many young people with this condition struggle to keep their blood glucose levels under control, which can lead to diabetes-related complications and affect their quality of life.\n\nThe goal of this clinical trial is to evaluate the effectiveness of a structured educational program on glycemic control among Arab adolescents with type 1 diabetes aged 11 to 14 years.\n\nParticipants will be randomly assigned to one of two groups",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Arab adolescents\n* Males and females aged 11 to 14 years.\n* Have been diagnosed with type 1 diabetes for at least 6 months.\n* Wearing a continuous glucose monitor (CGM).\n* Individuals and their parents must be able to join the entire duration of the study.\n* Individuals and th",
+      "endpoints": [
+        "Change in HbA1c Levels",
+        "Change in %Time In Range (%TIR)"
+      ],
+      "sponsor": "Dasman Diabetes Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06984133"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03332472",
+      "title": "Evaluation of Telemedicine on Metabolic Control in the Care of Diabetes Mellitus Type 1 Patients in Multiple Doses of Insulin Treatment in Andalusian Community",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2016-12",
+      "country": "Spain",
+      "enrollment": 334,
+      "brief_summary": "To assess the effect of a 6-month telemedicine program (DiabeTIC) in patients with type 1 diabetes mellitus (DM1) and regular metabolic control (HbA1c \\<8%) in multi-dose insulin treatment (MDI) measured HbA1c vs. conventional medical care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with DM1 over 2 years of evolution.\n* Age ≥18 and \\<65 years.\n* HbA1c prior to inclusion of the study \\<8% (the measure being valid in the month prior to inclusion in the study)\n* Intensive insulin therapy with basal-bolus MDI.\n* Patients living in Andalusian\n* Patien",
+      "endpoints": [
+        "HbA1c"
+      ],
+      "sponsor": "Sociedad Andaluza de Endocrinología, Diabetes y Nutrición",
+      "url": "https://clinicaltrials.gov/study/NCT03332472"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07121504",
+      "title": "Effect of Hybrid Closed-Loop Insulin Delivery System on Glycemic Management in Perioperative Patients With Type 2 Diabetes Receiving Parenteral Nutrition: An Open-Label, Randomized Controlled Trial",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-06-26",
+      "completion_date": "2026-06-01",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Glycemic control in surgical patients with type 2 diabetes mellitus (T2DM) receiving parenteral nutrition represents a major clinical challenge. This randomized controlled trial evaluates the comparative effectiveness and safety of hybrid closed-loop (HCL) insulin delivery versus conventional insulin pumps combined with continuous glucose monitoring (CGM) in perioperative T2DM patients requiring short-term parenteral nutrition.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years.\n2. Diagnosis of T2DM requiring surgical procedures (duration ≥2 hours) with anticipated short-term total parenteral nutrition (TPN) during the perioperative period (expected hospitalization \\>72 hours).\n3. Glycemic control criteria (meeting any of the following",
+      "endpoints": [
+        "CGM-measured Time in Range (TIR 5.6-10.0 mmol/L)"
+      ],
+      "sponsor": "Second Xiangya Hospital of Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT07121504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05628662",
+      "title": "A Pilot Study Evaluating the Safety and Performance of an Artificial Pancreas With Carbohydrate Suggestion for Patients With Type 1 Diabetes Prone to Hypoglycemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-10-22",
+      "completion_date": "2022-04-06",
+      "country": "Spain",
+      "enrollment": 12,
+      "brief_summary": "Achieving near-normoglycemia has been established as the main objective for most patients with Type 1 Diabetes (T1D). Automated insulin delivery (AID) systems, the so-called artificial pancreas (AP) or closed-loop systems, may represent the ideal solution, especially for patients not reaching the therapeutic goals with multiples doses of insulin or open-loop delivery systems. Despite the advances in recent years that have proven the efficacy and safety of these devices in clinical trials and cli",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged 18 or more with Type 1 Diabetes for at least 5 years.\n* Treated with continuous subcutaneous insulin infusion (CSII) for at least six months.\n* Trained to carbohydrate counting.\n* Subjects prone to hypoglycemia, despite optimal diabetes management and hypoglycemi",
+      "endpoints": [
+        "Percentage of CGM time in glucose range 70-180 mg/dl during the study."
+      ],
+      "sponsor": "Hospital Clinic of Barcelona",
+      "url": "https://clinicaltrials.gov/study/NCT05628662"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00607087",
+      "title": "Effect of Insulin Glulisine Compared to Insulin Aspart and Insulin Lispro When Administered by Continuous Subcutaneous Insulin Infusion (CSII) on Specific Pump Parameters in Patient With Type 1 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-06",
+      "country": "Israel, South Korea, France, Spain, Austria, Hungary, Italy, Australia, United Kingdom, Netherlands, Sweden, United States",
+      "enrollment": 289,
+      "brief_summary": "Primary objective: To demonstrate the superiority of insulin glulisine over insulin aspart and insulin lispro administered by external pump in term of unexplained hyperglycemia and/or infusion set occlusion.\n\nMain Secondary objectives:\n\nTo compare insulin glulisine, insulin aspart and insulin lispro on:\n\n* Unexplained hyperglycemia\n* Infusion set occlusion\n* Hypoglycemic episodes,7-point blood glucose profiles\n* Episodes of significant ketosis and/or risk level for impending diabetic ketoacidosi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 diabetic subjects\n* Treated with insulin for at least 2 years and by CSII for at least 6 months\n* Using the same insulin (insulin glulisine, insulin aspart or insulin lispro) in CSII for at least 3 months with the same external pump compatible with the 3 short acting in",
+      "endpoints": [
+        "Percentage of Patients With at Least One Unexplained Hyperglycemia and/ or Confirmed Infusion Set Occlusion"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00607087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06891898",
+      "title": "iLet Dosing Decision Software Postmarket Surveillance Plan (PS240001): The iLet Experience Study",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-05-01",
+      "completion_date": "2027-06",
+      "country": "United States",
+      "enrollment": 1875,
+      "brief_summary": "A one-year, prospective single-arm cohort study to collect safety and effectiveness data on the iLet Dosing Decision Software during real-world use in people 6 years of age or older with type 1 diabetes (T1D) with 12 months follow-up.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Users must meet the following criteria in order to be enrolled in the study:\n\n  1. Diagnosed with type 1 diabetes and prescribed the iLet Bionic Pancreas System\n  2. At least 6 years of age\n  3. Using or planning to use either U100 Novolog (insulin aspart) or U100 Humalog (ins",
+      "endpoints": [
+        "Severe Hypoglycemia/cognitive impairment"
+      ],
+      "sponsor": "Beta Bionics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06891898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02105103",
+      "title": "Accu-Chek® Insight Insulin Pump EU Study: A European Multicenter Study to Evaluate the Accu-Chek® Insight Insulin Pump in Routine Practice",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2013-10",
+      "completion_date": "2015-03",
+      "country": "United Kingdom, Austria",
+      "enrollment": 80,
+      "brief_summary": "Accu-Chek® Insight Insulin Pump EU Study is a Multicenter Study to evaluate the Accu-Chek® Insight Insulin Pump in routine practice. This is an open-label, prospective, multinational, multicenter study evaluating the CSII therapy with the Accu-Chek Insight Insulin pump in routine practice in adult subjects with Type 1 or type 2 diabetes. Subjects must have been on intensive insulin therapy for at least six months i.e. either on CSII or MDI. All subjects will receive training in the preparation, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female at least 18 years old\n* Diagnosed at least for 12 months with Type 1 or 2 Diabetes requiring insulin therapy\n* Intensive insulin therapy by MDI or CSII at least 6 months\n* Willing to self monitor blood glucose 4 times daily\n\nExclusion Criteria:\n\n* Significantly ",
+      "endpoints": [
+        "The primary objective is to evaluate the Accu-Chek Insight Insulin Pump and associated pump devices in routine practice. This will be expressed by the rate of error messages per 100 patient years (confirmed by pump uploads)."
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02105103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06729996",
+      "title": "Randomized, Parallel Group, Dose Escalation Trial of Pioglitazone Versus Empagliflozin for Chronic Pancreatitis/Recurrent Acute Pancreatitis Associated Diabetes Mellitus: The PEP-DM Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-05-29",
+      "completion_date": "2027-05-31",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to evaluate efficacy of pioglitazone (PIO) versus empagliflozin (EMPA) to improve glycemic control in people with Chronic Pancreatitis (CP) or Recurrent Acute Pancreatitis (RAP) associated with Diabetes Mellitus (DM). To evaluate mixed meal response in PIO versus EMPA group to better understand physiology of both therapies in CP-DM.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18-70 years at the time of enrollment.\n* RAP or CP with DM diagnosed before or after CP diagnosis (Confirmed CP on imaging or RAP based on PROCEED study criteria, and confirmed DM as per ADA criteria or clinically diagnosed with DM and on antihyperglycemic therapy)\n* Able",
+      "endpoints": [
+        "Hemoglobin A1c (HbA1c)",
+        "Area under curve (AUC) for glucose",
+        "AUC for C-peptide"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT06729996"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06528262",
+      "title": "ENavogliflozin And preVention Of Atrial Fibrillation Recurrence After Catheter Ablation for Atrial Fibrillation With Heart Failure (ENAVO-AF): Prospective, Randomized, Placebo-controlled Double-blind Clinical Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-08-06",
+      "completion_date": "2026-08-05",
+      "country": "South Korea",
+      "enrollment": 390,
+      "brief_summary": "Objective: The purpose of this study is to determine if there is a difference in the recurrence rate of atrial fibrillation (AF) between a group of patients with AF and heart failure undergoing catheter ablation who are administered the SGLT2 inhibitor, Enavogliflozin, and a control group (placebo group). This study aims to investigate whether SGLT2 inhibitors can prevent the recurrence of AF after the procedure.\n\nBackground: AF is the most common arrhythmia requiring treatment, with its prevale",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults aged 19 to under 85\n2. Patients who consent to participate in the study and can be followed up during the study\n3. Patients with AF and heart failure who have undergone atrial fibrillation catheter ablation within the last three months or are scheduled to undergo the p",
+      "endpoints": [
+        "Difference in the recurrence rate of atrial fibrillation (AF) between the experimental group (enavogliflozin group) and the control group (placebo group) from 3 months to 1 year after catheter ablation"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT06528262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06959797",
+      "title": "Randomized Cross-over Study Comparing Insulin Pump Versus Full Closed-loop Automated Insulin Therapy in Type 2 Diabetic Patients Previously Treated With Insulin Pumps",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-05-05",
+      "completion_date": "2028-12-31",
+      "country": "France",
+      "enrollment": 80,
+      "brief_summary": "The aim of the study is to compare, in a population of patients with type 2 diabetes, open-loop insulin pump treatment with the CamAPS HX (Camdiab) Fully Closed Loop Automated Insulin Therapy system, on the efficacy and safety of use of the Fully Closed Loop, as well as on psycho-social criteria of device acceptability, quality of life and diabetes burden. This is an open, multi-center, randomized, cross-over study, based on several observational or controlled trials carried out in Cambridge by ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18\n* Type 2 diabetes for at least 12 months\n* On insulin pump for at least 6 months, without/with adjuvant treatment exclusively with GLP1-Ra, iSGLT2, metformin for at least 3 months\n* Autonomy in the management of the pump and the glucose sensor\n* HbA1c ≥ 7.5% and \\< 1",
+      "endpoints": [
+        "Time on target [70-180] mg/dl over 24h for the 12 weeks of each treatment sequence"
+      ],
+      "sponsor": "University Hospital, Caen",
+      "url": "https://clinicaltrials.gov/study/NCT06959797"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07061574",
+      "title": "A Randomized Phase 1/2 Trial of Low Dose Anti-thymocyte Globulin (ATG) With Subsequent Adalimumab or Verapamil in New Onset Type 1 Diabetes",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-30",
+      "completion_date": "2031-04-15",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "This multi-center randomized controlled trial will assess the safety and efficacy of ATG followed by either adalimumab or verapamil in preserving insulin secretion 2 years from randomization in persons aged 9 to \\<21 with recent-onset stage 3 T1D.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\nRecent-onset stage 3 T1D diagnosed by standard ADA criteria, with the ability to be randomized within 6 months from the date of T1D diagnosis and within 37 days of Screening Visit.\n\n* At least one positive T1D auto-antibody.\n* If clearly positive (≥20% above local lab's ULN)",
+      "endpoints": [
+        "Stimulated C-peptide AUC"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT07061574"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04977908",
+      "title": "An Open-label, Single-centre, Randomised, Two-period, Crossover Study to Assess the Efficacy, Safety and Utility of Closed-loop Glucose Control Compared to Standard Insulin Pump Therapy Combined With Continuous Glucose Monitoring in Adults With Type 1 Diabetes (CLEAR Study)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-08-31",
+      "completion_date": "2023-05-31",
+      "country": "United Kingdom",
+      "enrollment": 26,
+      "brief_summary": "The main objective of this study is to determine whether home use of fully closed-loop glucose control applying ultra-rapid Lispro insulin is superior to standard insulin pump therapy with continuous glucose monitoring (CGM) in adults with type 1 diabetes on insulin pump therapy with sub-optimal glycaemic control (HbA1c ≥ 8.0%).\n\nThis is an open-label, single centre, randomised, crossover design study, involving a run-in period followed by two study periods during which glucose levels will be co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The participant has type 1 diabetes as defined by WHO for at least 1 year\n* The participant is 18 years of age or older\n* The participant will have been on an insulin pump for at least 6 months with good knowledge of insulin self-adjustment\n* The participant is treated with on",
+      "endpoints": [
+        "Time in target glucose range"
+      ],
+      "sponsor": "University of Cambridge",
+      "url": "https://clinicaltrials.gov/study/NCT04977908"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07284511",
+      "title": "Fully Closed-Loop Glucose Control in Adults With Type 1 Diabetes Using Tirzepatide: a Randomized, Multi-center, Open-label, Non-inferiority, Parallel Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-05",
+      "completion_date": "2029-01",
+      "country": "Switzerland, Canada",
+      "enrollment": 105,
+      "brief_summary": "This research study is testing whether a weekly medication called tirzepatide can help adults with type 1 diabetes use their insulin pump more easily, specifically by reducing or eliminating the need to count carbohydrates at meals.\n\nPeople with type 1 diabetes must take insulin for life, and even with advanced insulin pumps and continuous glucose monitors, many still struggle to keep blood sugar within the target range. One of the biggest challenges is carbohydrate counting, which requires esti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Clinical diagnosis of type 1 diabetes for ≥ 1 year, per investigator judgment (confirmatory C-peptide and autoantibodies not required).\n* A BMI ≥ 27 kg/m2.\n* HbA1c \\> 6.5%, and \\< 12%.\n* Current therapy: multiple daily injections or insulin pump.\n* Willingnes",
+      "endpoints": [
+        "Daytime Time-in-Range"
+      ],
+      "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+      "url": "https://clinicaltrials.gov/study/NCT07284511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06449677",
+      "title": "A Randomized Trial of the Insulin-only Bionic Pancreas in Cystic Fibrosis Related Diabetes",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-09-24",
+      "completion_date": "2027-03-30",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "This multi-center randomized controlled trial (RCT) will compare efficacy and safety endpoints using the insulin-only configuration of the iLet Bionic Pancreas System (BP) versus a control group using their usual care insulin delivery method and continuous glucose monitoring (CGM) during a 13-week study period in individuals ≥14 years old with cystic fibrosis-related diabetes (CFRD). After 13 weeks, participants will continue in a 13-week Extension Phase in which the BP group will continue to us",
+      "eligibility_criteria": "Inclusion\n\n1. Age ≥ 14 years old at time of signing informed consent\n2. Able to provide informed consent (and assent for participants \\<18 years old)\n3. Documentation of a CF diagnosis as evidenced by one or more clinical features consistent with the CF phenotype and one or more of the following cri",
+      "endpoints": [
+        "CGM-measured Time In Target Range of 70-180 mg/dL (TIR)"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT06449677"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04974528",
+      "title": "INHALE-1: A 26-week Primary Treatment Phase, With 26-week Extension, Open-label, Randomized Clinical Trial Evaluating the Efficacy and Safety of Afrezza® Versus Rapid-acting Insulin Analog Injections, Both in Combination With a Basal Insulin, in Pediatric Subjects With Type 1 or Type 2 Diabetes Mellitus",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-09-29",
+      "completion_date": "2025-04-29",
+      "country": "United States",
+      "enrollment": 319,
+      "brief_summary": "INHALE-1 is a Phase 3, open-label, randomized clinical study evaluating the efficacy and safety of Afrezza in combination with a basal insulin (i.e., the Afrezza group) versus insulin aspart, insulin lispro or insulin glulisine in combination with a basal insulin (i.e., the Rapid-acting Insulin Analog \\[RAA\\] injection group) in pediatric subjects with type 1 or type 2 diabetes mellitus. Following 26 weeks of randomized treatment (i.e., Afrezza or RAA injection combined with a basal insulin), al",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Assent from the pediatric subject, as appropriate, and fully informed consent from the parent(s) or legal guardian, as required by both state and federal laws and the local Institutional Review Board (IRB)\n* Subjects ≥4 and \\<18 years of age\n* Clinical diagnosis of type 1 diab",
+      "endpoints": [
+        "Change in HbA1c"
+      ],
+      "sponsor": "Mannkind Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04974528"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07395050",
+      "title": "A Pilot Study to Evaluate the Safety, Tolerability, and Feasibility of Autologous Anti-CD6 Chimeric Antigen Receptor T Regulatory Cells (CD6-CAR Tregs) in Patients With Stage 3 Type 1 Diabetes",
+      "phase": "EARLY_PHASE1",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-03-01",
+      "completion_date": "2028-09-14",
+      "country": "N/A",
+      "enrollment": 6,
+      "brief_summary": "Type 1 diabetes (T1D) is a persistent and gradually increasing genetic autoimmune disease requiring life-long management. The disease commonly impacts children. However, a quarter of cases are diagnosed in adults. The pancreatic islet beta-cells are responsible for producing insulin, a peptide hormone that is involved in the tight regulation of blood glucose levels. In T1D, the beta-cells are mistakenly destroyed by autoreactive T cells resulting in insulin deficiency and an inability to regulat",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nInformed Consent and Willingness to Participate\n\n* 1\\. Documented informed consent of the participant\n\n  1. Note: For research participants who do not speak English, a short form consent may be used with a COH certified interpreter/translator to proceed with screening and leukap",
+      "endpoints": [
+        "Toxicity, CRS, ICANS, hyperglycemia/DKA",
+        "Feasibility of investigational product manufacture"
+      ],
+      "sponsor": "City of Hope Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT07395050"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01365793",
+      "title": "Fluid Therapy and Cerebral Injury in Pediatric Diabetic Ketoacidosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-11",
+      "completion_date": "2017-01",
+      "country": "United States",
+      "enrollment": 1389,
+      "brief_summary": "The investigators will conduct a randomized controlled trial comparing four different intravenous (IV) fluid treatment protocols for pediatric diabetic ketoacidosis (DKA). Two rates of rehydration will be compared; a more rapid rate and a slower rate. Within each of these two basic rehydration protocols, the investigators will vary the type of rehydration fluid used (0.9% saline or 0.45% saline). The investigators will compare the different treatments by conducting assessments of neurological in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* must present or be transferred to a participating emergency department\n* age less than 18 years\n* diagnosis of DKA\n\n  * serum glucose or fingerstick glucose concentration \\>300 mg/dL\n  * venous pH \\< 7.25 OR serum bicarbonate concentration \\< 15 mmol/L.\n\nExclusion Criteria:\n\n*",
+      "endpoints": [
+        "the Number of Participants With Glasgow Coma Score (GCS) < 14 Within the First 24 Hours of Treatment for Diabetic Ketoacidosis (DKA)"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT01365793"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02438189",
+      "title": "Reduction of Nocturnal Hypoglycemia and Hyperglycemia in the Home Using Predictive Algorithms, Pump Suspension, and Insulin Dosing",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2016-03",
+      "country": "Canada, United States",
+      "enrollment": 33,
+      "brief_summary": "Objective: to gain experience with in-home use of a modified algorithm that will dose insulin to minimize projected hyperglycemia overnight in addition to suspending the pump if hypoglycemia is projected overnight and to obtain feasibility, safety, and initial efficacy data.\n\nStudy Design: randomized controlled trial, with randomization on a night level within subject.\n\nMajor Eligibility Criteria: clinical diagnosis of type 1 diabetes, daily insulin therapy for at least one year and an insulin i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of type 1 diabetes and using daily insulin therapy for at least one year and an insulin infusion pump for at least 6 months The diagnosis of type 1 diabetes is based on the investigator's judgment; C peptide level and antibody determinations are not required",
+      "endpoints": [
+        "Comparison of percent time in range overnight between the two treatment arms"
+      ],
+      "sponsor": "Jaeb Center for Health Research",
+      "url": "https://clinicaltrials.gov/study/NCT02438189"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05767255",
+      "title": "Risk of Hypoglycemia in the Transition From Inpatient to Outpatient Setting. Comparative Study of Basal-bolus Insulin Versus Basal Insulin Plus GLP-1 Analogue",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-12-01",
+      "completion_date": "2023-08-30",
+      "country": "Colombia",
+      "enrollment": 66,
+      "brief_summary": "The association of insulin degludec with liraglutide in the same device (IDegLira) is a potent but at the same time safe drug that reduces the risk of hypoglycemia when compared to a basal or basal-bolus insulin schedule.\n\nThe DUAL (Dual Action of Liraglutide and Insulin Degludec) studies are the pivotal studies of this combination. Specifically, the DUAL VII study has demonstrated that ideglira is a non-inferior drug in terms of glycemic control versus a basal-bolus schedule in patients in the ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over 18 years of age with a diagnosis of type 2 diabetes mellitus who have received basal-bolus insulin during hospitalization and who, at the time of hospital discharge, are considered necessary to continue this scheme (basal-bolus).\n\nExclusion Criteria:\n\n* Patient w",
+      "endpoints": [
+        "To compare the percentage of hypoglycemia"
+      ],
+      "sponsor": "Hospital Universitario San Ignacio",
+      "url": "https://clinicaltrials.gov/study/NCT05767255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03859817",
+      "title": "Observational Study to Evaluate the Relationship Between Ketonemia and Renal Function in the Diabetic Patient",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-04-16",
+      "completion_date": "2021-12-31",
+      "country": "Italy",
+      "enrollment": 68,
+      "brief_summary": "A multicentre real life study is proposed. The study has as its goal primary to compare the levels of ketonemia measured in patients with albuminuria and patients normo albuminurici to evaluate a possible correlation between ketone level and alteration of renal function in the diabetic patient, comparing the eGFR values of patients with ketonemia high and of patients with low ketonemia. In these patients, the lack of insulin causes one imbalance between ketogenesis and ketolysis, with increased ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPresence of albuminuria (≥30 mg / 24h)\n\n* Adult and male patients of age\n* Diagnosis of type 1 or type 2 diabetes according to the ADA diagnostic criteria\n* Presence of the disease for at least five years\n* HbA1c≥7%\n* Written informed consent of the patient and / or parents or l",
+      "endpoints": [
+        "Variations in albuminuria and albumin / creatinine ratio in urine (UACR)",
+        "Variations of the eGFR (CKD-EPI formula)",
+        "Variations in ketone levels"
+      ],
+      "sponsor": "University of Milan",
+      "url": "https://clinicaltrials.gov/study/NCT03859817"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03665350",
+      "title": "Management of the Patient With Heart Failure and Diabetes: May Insulin be a Problem? A Pilot Randomized Clinical Study (Insulin-HF)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2018-11-08",
+      "completion_date": "2019-09-18",
+      "country": "Italy",
+      "enrollment": 10,
+      "brief_summary": "Cardiac failure (HF) and type 2 diabetes mellitus (T2DM) are two clinical conditions with a significant impact on public health worldwide. In the elderly population the prevalence of T2DM is constantly increasing as well as its incidence in all Western countries including Italy. The combination of HF and T2DM is frequent and leads to an increased risk of death and of non-fatal adverse cardiovascular (CV) events which justifies the frailty of this population. Although diabetic patients (pts) with",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. men and women aged ≥70 years;\n2. at discharge after admission to hospital for worsening of HF or ambulatory patients with chronic HF;\n3. New York Heart Association (NYHA) class II or III\n4. with any level of left ventricular ejection fraction;\n5. plasma natriuretic peptide (B",
+      "endpoints": [
+        "Change in blood glucose variability"
+      ],
+      "sponsor": "Mario Negri Institute for Pharmacological Research",
+      "url": "https://clinicaltrials.gov/study/NCT03665350"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06541535",
+      "title": "Comparison of Saline and Ringer Lactate in Patients With Severe Diabetic Ketoacidosis (DRINK) : a Double-blind Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-12",
+      "completion_date": "2027-07",
+      "country": "France",
+      "enrollment": 300,
+      "brief_summary": "Management of severe diabetic ketoacidosis is based on insulin therapy, correction of metabolic disorders and fluid resuscitation. Current recommendations recommend the first-line use of isotonic saline, whose composition is unbalanced, rich in chloride and sodium compared with plasma. Administration of large volumes of isotonic saline is associated with a risk of hyperchloremic metabolic acidosis and acute renal failure. Balanced solutions (e.g. Ringer Lactate) are solutions with a more balance",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Admission to emergency department or direct admission to ICU\n* Diagnosis of severe diabetic ketoacidosis requiring all the following criteria:\n* Blood or capillary glucose \\> 11 mmol/L\n* Ketonemia or ketonuria \\> 0\n* Venous or arterial pH \\< 7.30 or venous or arterial bicarbon",
+      "endpoints": [
+        "Resolution of diabetic ketoacidosis"
+      ],
+      "sponsor": "Centre Hospitalier Universitaire de Nice",
+      "url": "https://clinicaltrials.gov/study/NCT06541535"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04725591",
+      "title": "An Open-label, Multicenter, Randomized, Crossover Study, to Assess 4 Weeks Outpatient, the Clinical Efficacy of the Diabeloop Closed-loop Glucose Control Without the Declaration of Meals Compared with the Diabeloop Closed-loop Glucose Control with the Declaration of Meals, in Adolescent Patients with Type 1 Diabetes Poorly Controlled.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-25",
+      "completion_date": "2024-05-19",
+      "country": "Germany, Belgium, France",
+      "enrollment": 49,
+      "brief_summary": "An open-label, three-centers, controlled, randomized, and crossover study containing 14 days of baseline period with standard of care (SOC) therapy followed by two-sessions of 4-weeks home study phase with Diabeloop closed-loop (CL) system comparing the declaration of meals and the non-declaration of meals.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nDevice-related inclusion criteria\n\n* age 12 - \\<18 years (i.e 17 years and 364 days) at time of screening\n* Type 1 diabetes Study-specific inclusion criteria\n* Subject has a clinical diagnosis of type 1 diabetes for at least 1 year as determined via medical records or source doc",
+      "endpoints": [
+        "The primary outcome is the time spent of the glucose level in the widened target range 3.9-10.0 mmol/L over the 2 last weeks of each cross-over period, as recorded by continuous subcutaneous glucose monitoring (CGM)."
+      ],
+      "sponsor": "Centre d'Etudes et de Recherche pour l'Intensification du Traitement du Diabète",
+      "url": "https://clinicaltrials.gov/study/NCT04725591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04616391",
+      "title": "Transition of Patients With T1D From Multiple Daily Injection (MDI) and Self-Monitoring of Blood Glucose (SMBG) Directly to MiniMed™ 780G Advanced Hybrid Closed Loop (AHCL) System :Impact on Glucose Control and Quality of Life Measures",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2020-11-02",
+      "completion_date": "2021-07-01",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "The primary objective of this study is to evaluate whether the MiniMed 780G AHCL system improves glycemic control and Quality of Life (QoL) perception in adult individuals with T1D and naïve to CSII and CGM technologies.\n\nThe trial is a two-centers, randomized controlled, parallel group study. Patients will be followed up during approximatively 3 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 26 - 60 years at time of screening a clinical diagnosis of type 1 diabetes for 2 years or more as determined via medical record or source documentation by an individual qualified to make a medical diagnosis\n2. Willing to participate in a study for the specified duration\n3",
+      "endpoints": [
+        "Between group TIR difference"
+      ],
+      "sponsor": "Jagiellonian University",
+      "url": "https://clinicaltrials.gov/study/NCT04616391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01047735",
+      "title": "Randomized Trial to Compare Surgical and Medical Treatments for Type 2 Diabetes (Triabetes) - Alliance of Randomized Trials of Medicine vs. Metabolic Surgery in Type 2 Diabetes ARMMST2D)",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2009-09-01",
+      "completion_date": "2028-07-01",
+      "country": "United States",
+      "enrollment": 69,
+      "brief_summary": "This research study is being performed to begin to determine the effectiveness of two dominant bariatric surgery procedures versus an intensive lifestyle intervention to induce weight loss in patients and promote improvements in Type 2 diabetes mellitus (T2DM) in moderately obese patients.\n\nT2DM is currently the 6th leading cause of mortality in the United States and is a major cause of kidney failure, blindness, amputations, heart attack, and other vascular and gastro-intestinal dysfunctions. T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 25 to 55 years\n* Mild to moderate obesity with a BMI between 30 and 40 kg/m2\n* For potential subjects with BMI 35 to 40 kg/m2: T2DM confirmed by either a documented fasting blood glucose \\> 126 mg/dl OR treatment with an anti-diabetic medication\n* For potential subjects wi",
+      "endpoints": [
+        "Feasibility of performing a randomized trial comparing two major types of bariatric surgery versus a lifestyle weight loss intervention (LWLI) induced by diet and increased physical activity in moderately obese patients with T2DM."
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01047735"
+    }
+  ],
+  "timestamp": "2026-03-04T15:52:12.449151",
+  "success": true,
+  "error_message": null
+}

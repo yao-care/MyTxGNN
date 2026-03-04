@@ -1,0 +1,936 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "vitamin deficiency disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02737644",
+      "title": "Peri-conception Key Nutritional Factors and Primary Prevention of Congenital Heart Disease(CHD)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2016-03",
+      "completion_date": "2020-12-30",
+      "country": "China",
+      "enrollment": 37000,
+      "brief_summary": "The study is a nested case-control study and the purpose is to describe the status of key nutrients(eg.folic acid and vitamins) supplementation among pregnant women in Shanghai, to find out the association between the level of serum key nutrients during peri-conceptional period and the incidence of congenital heart defects (CHD) in newborn, and to provide better preconception care.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* attend pre-pregnancy physical examination from 11 districts in Shanghai, OR pregnant women present at first antenatal care \\< 14 week of gestation\n* plan to deliver in Shanghai\n\nExclusion Criteria:\n\n* none",
+      "endpoints": [
+        "preconceptional maternal serum folate level"
+      ],
+      "sponsor": "Children's Hospital of Fudan University",
+      "url": "https://clinicaltrials.gov/study/NCT02737644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04048330",
+      "title": "Periconceptional Surveillance for Prevention of Anemia and Birth Defects in India",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-04-07",
+      "completion_date": "2024-12-31",
+      "country": "India",
+      "enrollment": 2000,
+      "brief_summary": "Women of reproductive age are a high-risk population for anaemia and micronutrient deficiencies. Evidence supports the role of periconceptional nutrition in the development of adverse pregnancy complications. However, in India, there are limited population-based data to guide evidence-based recommendations and priority setting. The objective of this study is to conduct a population-based biomarker survey of anaemia and vitamin B12 and folate status in women of reproductive age as part of a peric",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female\n* Aged 15 to 49 years\n* Currently not pregnant or lactating\n\nExclusion Criteria:\n\n* \\<15 or \\>49 years old\n* Currently pregnant or lactating",
+      "endpoints": [
+        "Hemoglobin",
+        "Folate status",
+        "Vitamin B12 status"
+      ],
+      "sponsor": "Cornell University",
+      "url": "https://clinicaltrials.gov/study/NCT04048330"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05796401",
+      "title": "PsyCARE Trial - \"Efficiency of a Composite Personalised Care on Functional Outcome in Early Psychosis : A Prospective Randomised Controlled Trial \"",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2023-06-15",
+      "completion_date": "2028-06-15",
+      "country": "France",
+      "enrollment": 500,
+      "brief_summary": "Chronic psychosis, including schizophrenia is now viewed as a progressive disorder where cognitive deficits predate the clinical onset. Early intervention programs improve the general outcome with staged care strategies, supporting the view that the period before and around the first episode of psychosis is a window of opportunity for improving its functional recovery.\n\nPioneering epigenetic analyses indicate that psychosis onset involves oxidative stress and inflammation suggesting that neuropr",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescent and young adults, both sexes, aged 15 to 30 years,\n* From Community or academic clinics,\n* Characterised as UHR or FEP according to the first four items of the Comprehensive Assessment of At Risk Mental State (CAARMS) (first subscale for psychosis) \\[8\\] during the ",
+      "endpoints": [
+        "Global functioning"
+      ],
+      "sponsor": "Centre Hospitalier St Anne",
+      "url": "https://clinicaltrials.gov/study/NCT05796401"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005338",
+      "title": "Homocysteine and Progression of Atherosclerosis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1991-08",
+      "completion_date": "2004-08",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "In the first phase, to establish the relationship of progression of peripheral vascular disease (PVD) to plasma homocysteine. In the second phase, to conduct a randomized, controlled trial of folic acid treatment of plasma homocysteine in peripheral vascular disease.",
+      "eligibility_criteria": "No eligibility criteria",
+      "endpoints": [],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00005338"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03272022",
+      "title": "Micronutrient Status in Pregnant and Lactating Women and Their Infants",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2011-12-14",
+      "completion_date": "2016-02-08",
+      "country": "N/A",
+      "enrollment": 272,
+      "brief_summary": "An adequate micronutrient status during fetal life and infancy is important for optimal development. Dietary practices during pregnancy, lactation and infancy vary among populations and there is today no clear agreement on what constitutes the best diet, including micronutrient supplementation, during this period. There is consequently no clear agreement on what constitutes an optimal biochemical micronutrient status in mothers and infants. Due to substantial physiological changes in plasma volu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* healthy never-pregnant and pregnant women\n\nExclusion Criteria:\n\nchronic illness-",
+      "endpoints": [
+        "Change in micronutrient status during pregnancy and lactation"
+      ],
+      "sponsor": "Haukeland University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03272022"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04017286",
+      "title": "A Prospective Cohort Study of the Association Between Pregnancy Health and Offspring Developmental & Behavioral Outcomes(Multi-Centered)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2019-07-01",
+      "completion_date": "2028-12-31",
+      "country": "China",
+      "enrollment": 3000,
+      "brief_summary": "This topic puts forward a hypothesis: genetic and environmental factors such as major depressive disorder during pregnancy, nutritional status of vitamin A, D, E, and folic acid, intestinal microecology, and bisphenol A exposure, may affect the cognitive development level of the offspring through the genetic correlation with attention deficit hyperactivity disorder, developmental delay/intellectual disability, and major depressive disorder, allelic heterogeneity and pleiotropy of ITIH3 mediated ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Inclusion criteria for pregnant women: Aged 20\\~49;\n2. no cognitive impairment, able to complete the scale test;\n3. Hamilton Depression Scale (HAMD questionnaire) is normal (HAMD score \\<8 points) or mild to moderate positive (HAMD questionnaire score: 8\\~35 points);\n4. Parti",
+      "endpoints": [
+        "Changes in Denver Developmental Screening Test results within 72 months of age",
+        "Changes in Gesell Developmental Schedules test results within 72 months of age",
+        "The Vanderbilt Attention Deficit Hyperactivity Disorder Diagnostic Rating Scale"
+      ],
+      "sponsor": "Children's Hospital of Chongqing Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT04017286"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03573570",
+      "title": "Reducing Anemia Through Food Fortification at Scale",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2018-04-01",
+      "completion_date": "2021-09-30",
+      "country": "India",
+      "enrollment": 0,
+      "brief_summary": "Anemia is the most common form of malnutrition, affecting approximately 1.6 billion people world-wide. Most commonly caused by iron deficiency, its adverse effects include increased mortality (especially during childbirth), impaired cognitive development among children, chronic fatigue, and reduced lifetime earnings. While iron deficiency is the main cause of anemia worldwide, its etiology is complex and it can also be caused by an insufficient intake of other micronutrients such as Vitamin A, B",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children in the age group of 6 months to 5 years\n* Women in the age group of 12 to 40 years\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to endline using Rapid Diagnostic Tests (RDT)",
+        "Change in hemoglobin level from baseline to endline using DBS",
+        "Change in Transferrin Receptor (TfR) level from baseline to endline using DBS"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT03573570"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07050342",
+      "title": "Evaluation Der Spezialambulanz Ernährung Und Psyche: Eine Pilotstudie",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-12-01",
+      "completion_date": "2028-12-01",
+      "country": "Austria",
+      "enrollment": 84,
+      "brief_summary": "The goal of this observational pilot study is to learn how personalized nutrition-focused care can help people with mental and psychosomatic health problems. This study takes place in Europe's first outpatient clinic that focuses on how diet affects mental well-being.\n\nThe main questions the study aims to answer are:\n\nDoes care at this clinic help lower participants' stress levels over one year?\n\nDo participants report better mental health, resilience, and quality of life during the study?\n\nAre ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion Criteria:\n\nNew patient at the outpatient clinic for Nutrition and Psychosomatics\n\nAge between 18 and 65 years\n\nSufficient German language skills\n\nProvided written informed consent\n\nAble and willing to complete online questionnaires via email\n\nExclusion Criteria:\n\n* L",
+      "endpoints": [
+        "Change in perceived stress levels measured by the Perceived Stress Scale (PSS-10)"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT07050342"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02440087",
+      "title": "Evaluation of the Dietary Supplement Refill Bypass Administered Sublingually to Reduce Nutritional Deficiencies of Patients Who Underwent Bariatric Surgery Type Gastric Bypass",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-06",
+      "completion_date": "2016-04",
+      "country": "France",
+      "enrollment": 35,
+      "brief_summary": "This is a cohort, observational, prospective, multicenter, longitudinal study. 100 patients will be followed postoperatively for a period of 12 months. Intermediate statistical analyzes will be performed at 1 month, 3 months, 6 months and 9 months.\n\nThis observational study is non-interventional, it does not change the usual care of patients who underwent a bariatric surgery. Data collection will be carried out during routine visits planned in the post-operation usual follow-up. The blood tests ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with a scheduled bariatric surgery \"gastric bypass\",\n* Patient who performed a blood test before surgery,\n* Patient compliant.\n\nExclusion Criteria:\n\n* Allergy to components of the dietary supplement,\n* Pregnancy or breastfeeding,\n* Any biological abnormality considered",
+      "endpoints": [
+        "Reduction of iron deficiency"
+      ],
+      "sponsor": "Refill France",
+      "url": "https://clinicaltrials.gov/study/NCT02440087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04095052",
+      "title": "Food and Alcohol Behavior Study: Meaningful Enhancement",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-08-14",
+      "completion_date": "2024-08-14",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This study will determine how folate supplementation affects both serum and red blood cell folate status in females ages 18 -24 years old. Additionally, this study will determine the effect of folate supplementation on mood, cognition, and sleep patterns. This study will fill a crucial gap in understanding how folate status affects a variety of health behaviors in order to better inform public health practice and prevention.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Females restricted to those living in the United States\n* Not currently using hormonal birth control\n* Must experience menses\n* Must begin the study exactly one week after the start of their menstrual cycle\n* Folate consumption must be less than or equal to 250 micrograms of d",
+      "endpoints": [
+        "Red blood cell folate status",
+        "Change in serum folate status",
+        "Change in serum folate status"
+      ],
+      "sponsor": "Oklahoma State University Center for Health Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT04095052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02540642",
+      "title": "Effect of Vitamin B12 Supplementation on Glycaemic Control in Uncontrolled Hyperhomocysteinemic Type 2 Diabetic Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2015-05",
+      "country": "India",
+      "enrollment": 38,
+      "brief_summary": "Increased plasma homocysteine level is associated with macroangiopathy and nephropathy in type 2 diabetes. Also increased levels of serum homocysteine are associated with microalbuminuria which is associated with increased cardiovascular morbidity and mortality among the patients with type 2 diabetes. With B12 supplementation homocysteine level can be reduced .Type 2 diabetes as a metabolic syndrome may show improvement in glycaemic control with Vitamin B12 therapy as there is correction of hype",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 30 -70 years\n2. Sex: Male/ Non-lactating female\n3. Glycosylated hemoglobin (HbA1c) \\> 8\n4. Serum Homocysteine \\> 15 umol / L or vitamin B12 less than 223pg/ml\n\nExclusion Criteria:\n\n1. Age \\< 30 yrs.\n2. Pregnancy\n3. Lactating mother\n4. Patient with Insulin dependen",
+      "endpoints": [
+        "To compare the change in HbA1c levels (%) with vitamin B12 supplementation in poorly controlled type 2 diabetic patients"
+      ],
+      "sponsor": "Smt. Kashibai Navale Medical College and General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02540642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04343170",
+      "title": "Effect of Ultra-short-term Treatment of Patients With Iron Deficiency or Anemia Undergoing Adolescent Scoliosis Correction",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-09-01",
+      "completion_date": "2024-10-01",
+      "country": "Egypt",
+      "enrollment": 44,
+      "brief_summary": "Scoliosis is a condition in which there is curvature of the spine occurring in the lateral plane. It occurs in structural forms, characterized by a fixed curve, and \"functional\" forms, characterized by a flexible or correctable curve. By anatomic necessity, this lateral deviation is associated with vertebral rotation, such that when this deformity occurs in the thoracic spine, a chest wall deformity, or \"rib hump,\" develops.\n\nOften there is a primary structural curve with an adjacent secondary c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients with idiopathic adolescent scoliosis\n* patients with anemia (haemoglobin concentration (Hb) \\<12g/dL in women and Hb \\<13 g/dL in men)\n* patients with isolated iron deficiency (ferritin \\<100 mcg/L, no anemia)\n\nExclusion Criteria:\n\n1. Impairments, diseases (renal \\&/ ",
+      "endpoints": [
+        "percentage of patients not required blood transfusion"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT04343170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06174883",
+      "title": "Folic Acid-fortified Iodized Salt and Serum Folate Concentration in Reproductive-aged Women of Rural India",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-06-01",
+      "completion_date": "2022-11-30",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "Question: How effective is folic acid-fortified iodized salt in increasing serum folate concentrations among non-pregnant and non-lactating women of reproductive age? Hypothesis: Folic acid-fortified iodized salt can increase serum folate levels and serve as a policy consideration in salt fortification with both iodine and folic acid to reduce serious and fatal birth defects.",
+      "eligibility_criteria": "Inclusion Criteria: • Willing to voluntarily participate in the study\n\n* Can comprehend and comply with study requirements\n* Aged between 18 and 45 years.\n* No documented issues with child bearing potential\n* Resident of the area of study for duration of study.\n* Consume only study salt during study",
+      "endpoints": [
+        "Measure changes in median serum folate levels between baseline and study endpoint"
+      ],
+      "sponsor": "Hydrocephalus and Neuroscience Institute",
+      "url": "https://clinicaltrials.gov/study/NCT06174883"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00383669",
+      "title": "Trial of Vitamins in HIV Progression and Transmission (A Trial of Vitamins and HAART in HIV Disease Progression)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-10",
+      "country": "Tanzania",
+      "enrollment": 4012,
+      "brief_summary": "This study is a double-blind randomized clinical trial, conducted to examine the effects of multivitamins (including B, C, and E) on HIV disease progression among HIV-positive Tanzanian adult men and women taking highly active anti-retroviral therapy (HAART).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-positive\n* Men or Women\n* 18 Years of Age or older\n* Initiating HAART at time of randomization\n\nExclusion Criteria:\n\n* Pregnant or Lactating Women\n* Individuals at pre-HAART disease stages\n* BMI less than 16",
+      "endpoints": [
+        "Development of a new or recurrent disease progression event, including all-cause death."
+      ],
+      "sponsor": "Harvard School of Public Health (HSPH)",
+      "url": "https://clinicaltrials.gov/study/NCT00383669"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01795170",
+      "title": "Neurodevelopmental Outcome of Early Dietary Lysine Restriction in Pyridoxine",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2013-04",
+      "completion_date": "2016-11",
+      "country": "Switzerland, Germany, United Kingdom, Netherlands, Canada, United States",
+      "enrollment": 0,
+      "brief_summary": "Restricting dietary lysine intake in infants from age 3 months or less with confirmed diagnosis of pyridoxine-dependent epilepsy due to Antiquitin (ATQ) deficiency will: reduce the accumulation of neurotoxic substratesα-aminoadipicsemialdehydeandits cyclic equivalent 1-piperideine-6-carboxylate;and will improve overall neurodevelopmental outcome at 3 years of age by acting as an effective intervention into the complex pathophysiology of the condition.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of pyridoxine-dependent epilepsy based on clinical symptoms and elevated levels of plasma or urine AASA. Confirmation by at least one known disease causing mutation in the ALDH7A1 gene to be obtained within one month of enrollment.\n* Participant is male or female \\<3",
+      "endpoints": [
+        "Neurocognitive development at age 3 years",
+        "Level of biochemical marker-α- aminoadipicsemialdehyde (AASA) in plasma and urine"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01795170"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04034381",
+      "title": "Dietary Intake, Health and Micronutrient Status in Haiti: Establishing a Baseline to Manage and Evaluate a National Food Fortification Program",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2019-01-26",
+      "completion_date": "2019-02-07",
+      "country": "Haiti",
+      "enrollment": 143,
+      "brief_summary": "The general objective of this project is to collect information on dietary intake and nutritional status of women and young children in Haiti, to inform the design and management of national and subnational micronutrient intervention programs, with a focus on large-scale food fortification, and to serve as a reference point for program evaluation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* There is at least one child 6-59 months of age (the index child) in the household\n* The primary or secondary female caregiver of the child who is 15-49 years of age (the index caregiver) is present in the household\n\nExclusion Criteria:\n\n* The index child or index caregiver has",
+      "endpoints": [
+        "Household-level consumption of \"fortifiable\" foods",
+        "Individual consumption of \"fortifiable\" foods",
+        "Vitamin A status among women and children"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT04034381"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00317005",
+      "title": "Randomized Clinical Trial of Folate Therapy/Placebo for Reduction of Homocysteine Serum Levels in Uremic Patients and Influence on Cardiovascular Mortality",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-03",
+      "country": "Brazil",
+      "enrollment": 186,
+      "brief_summary": "Homocysteine recently gained access to the category of risk factor for the development of atherosclerotic cardiovascular disease in the general population. Chronic renal failure patients, even before being introduced to dialysis therapy have almost universal elevation of serum homocysteine; when on dialysis their mortality is above 50% related to cardiovascular disease that we might now speculate, with a contribution of potentially toxic levels of the aminoacid homocysteine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients stable on hemodialysis for 4 months or more\n* Eighteen years of age or older\n\nExclusion Criteria:\n\n* Potential kidney transplant from a living donor in the near future\n* Severe cardiovascular disease\n* Cancer and active inflammation",
+      "endpoints": [
+        "Lowering of Homocysteine blood levels in uremia.",
+        "Prevention of cardiovascular events"
+      ],
+      "sponsor": "Universidade Estadual de Londrina",
+      "url": "https://clinicaltrials.gov/study/NCT00317005"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02118402",
+      "title": "In Home Iron Fortification in Kenyan Infants: Effect of Co-supplementation With Galactooligosaccharides (GOS) on the Gut Microbiota Composition and the Effectiveness of Iron Supplementation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-07",
+      "completion_date": "2015-12",
+      "country": "Kenya",
+      "enrollment": 155,
+      "brief_summary": "Iron deficiency and anemia are health issues affecting mainly infants and women in developing countries. Iron deficiency in infancy can have long-lasting impact on cognitive and motor development of the child. Iron fortification has shown to be effective against anemia. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Therefore we want to assess the effects of home fortificat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-10 months at baseline\n* Assessment of good health as assessed by professional staff at Kikoneni Health Clinic.\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<7g/dL; these participants will be referred for treatment at",
+      "endpoints": [
+        "The co-primary outcomes are the gut microbiome and gut inflammation"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02118402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01516216",
+      "title": "Randomized, Double-Blind, Phase II Trial of Vitamin D Supplementation in Patients With Previously Untreated Metastatic Colorectal Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-04-13",
+      "completion_date": "2019-11-09",
+      "country": "United States",
+      "enrollment": 139,
+      "brief_summary": "This is a prospective, randomized, double-blind phase II trial to evaluate the efficacy and safety of two doses of vitamin D supplementation in combination with standard chemotherapy in participants with previously-untreated metastatic colorectal adenocarcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the colon or rectum that is metastatic or locally advanced (unresectable)\n* Measurable disease\n* KRAS wild-type and KRAS mutant patients are eligible\n* No prior systemic treatment for advanced or metastatic colorectal cancer is allowe",
+      "endpoints": [
+        "Median Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01516216"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04694898",
+      "title": "Integrating Health and Agriculture Services for Improved Household Food Security and Nutritional Status of Mothers and Children 4-6 Years of Age",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-12-28",
+      "completion_date": "2021-03-13",
+      "country": "Ethiopia",
+      "enrollment": 1292,
+      "brief_summary": "The causes of malnutrition are complex and addressing the problem requires integrated action among various sectors. Globally, much attention has been given to nutrition-specific interventions to address the immediate causes of undernutrition. But undernutrition prevalence is decreasing at a very slow rate. Nutrition-specific interventions address the immediate determinants of child undernutrition, such as inadequate food and nutrient intake, but do not consider the underlying causes such as food",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children 4 years - 6 years and their mothers/fathers and caregivers\n* Participated in the baseline survey (2016)\n* Resided in the Control communities during the last four years (control arm), or in the SURE intervention communities (intervention arm).\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "Hemoglobin (g/dl)",
+        "Linear growth (Z-score and prevalence)"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT04694898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05865015",
+      "title": "Dietary Patterns, Physical Activity Level, Body Composition and Serum Vitamin B9, Vitamin B12 and Vitamin D Levels in Women Undergoing in Vitro Fertilization and the Outcomes of in Vitro Fertilization",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-01-05",
+      "completion_date": "2023-09-10",
+      "country": "Slovenia",
+      "enrollment": 69,
+      "brief_summary": "Infertility affects around 15 % of couples in their reproductive years. Even though the use of assisted reproductive technologies (ART) in aforementioned couples is increasing, their success rate is still relatively low. Hence it is important to identify and better understand potential modifiable dietary and lifestyle risk factors that may influence the success of ART. This study will include women undergoing IVF with a view to investigating the relationship between preconception dietary pattern",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Undergoing IVF/ICSI treatment\n\nExclusion Criteria:\n\n* Women's age \\> 39\n* Endometriosis",
+      "endpoints": [
+        "Oocyte number"
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "url": "https://clinicaltrials.gov/study/NCT05865015"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00005482",
+      "title": "Homocyst(e)Ine, Vitamin Status, and CVD Risk",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "1995-09",
+      "completion_date": "1999-03",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "To test the hypotheses that the risk of myocardial infarction and/or stroke is associated with elevated plasma levels of homocysteine, and low plasma levels of folate, vitamins B12 and B6.",
+      "eligibility_criteria": "No eligibility criteria",
+      "endpoints": [],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00005482"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01412580",
+      "title": "The Contribution of Health in Utero to Capacity Formation, Education and Economic Outcomes: Experimental Evidence From Tanzania",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2002-04",
+      "completion_date": "2013-09",
+      "country": "Tanzania",
+      "enrollment": 4000,
+      "brief_summary": "Because of the high returns of schooling in developing countries, policymakers pay a lot of attention to increasing school access. But if the mother is deficient in key micronutrients, brain development can biologically constrain children's demand for education. To execute this strategy, the investigators collect cohort observational data on a previous randomized controlled trial with micronutrient supplements offered to HIV-negative pregnant women in Dar es Salaam, Tanzania, between 2001 to 200",
+      "eligibility_criteria": "These were individuals from the larger study and this study is an observational follow-up.",
+      "endpoints": [
+        "Children's Cognitive Development",
+        "Children's Health",
+        "Parental Postnatal Investment Behavior"
+      ],
+      "sponsor": "Harvard University",
+      "url": "https://clinicaltrials.gov/study/NCT01412580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06772220",
+      "title": "Pilot Study of Open Label Homocysteine Management Therapy in Levodopa-treated Parkinson's Disease",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-03-05",
+      "completion_date": "2025-12-31",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "This is a research study investigating elevated homocysteine in the blood of patients with Parkinson's disease who are currently receiving treatment with levodopa. We are evaluating if elevated homocysteine can be corrected using open label B vitamin therapy, as well as the impact of homocysteine levels on cognitive function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of probable Parkinson's Disease according to Movement Disorders Society criteria.\n2. Currently treated with levodopa at a minimum dose of 300 mg/day\n3. Montreal Cognitive Assessment (MOCA) ≥15\n4. Demonstrated capacity to provide informed consent.\n5. 40-90 years of a",
+      "endpoints": [
+        "Hyperhomocysteinemia and B vitamin deficiency",
+        "Hyperhomocysteinemia and B vitamin deficiency",
+        "Hyperhomocysteinemia and B vitamin deficiency"
+      ],
+      "sponsor": "Oregon Health and Science University",
+      "url": "https://clinicaltrials.gov/study/NCT06772220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01371357",
+      "title": "The Effects of 8-week Choline, Betaine, and Folic Acid Supplementation on Plasma Homocysteine Concentration During Guanidinoacetic Acid Loading in Young Healthy Volunteers",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2011-12",
+      "country": "Serbia",
+      "enrollment": 40,
+      "brief_summary": "A methyl-group acceptor such as guanidinoacetic acid (GAA) could induce hyperhomocysteinemia with the effects of GAA expected to be dose-dependent. Due to the fact that hyperhomocysteinemia is thought to be an independent risk factor for cardiovascular and neurodegenerative diseases, different dietary agents were used in the past for the treatment of elevated total plasma homocysteine (T-HCy), e. g. betaine, choline (betaine precursor) or folic acid. In the context of GAA loading the question ar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* healthy male and non-pregnant females\n* moderately physically active\n* aged 20 to 30 years\n* not currently taking any dietary supplement for the past 2 months\n\nExclusion Criteria:\n\n\\- total plasma homocysteine above 15.5 µmol/L",
+      "endpoints": [
+        "Total plasma homocysteine"
+      ],
+      "sponsor": "Center for Health Sciences, Serbia",
+      "url": "https://clinicaltrials.gov/study/NCT01371357"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004495",
+      "title": "Randomized Study of Folic Acid Therapy for Hyperhomocysteinemia in Patients With End Stage Renal Disease Receiving Hemodialysis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1999-06",
+      "completion_date": "2000-09",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "OBJECTIVES: I. Compare the efficacy of two doses of folic acid in normalizing plasma total homocysteine concentration in patients with end stage renal disease receiving regular hemodialysis therapy resulting in hyperhomocysteinemia.\n\nII. Determine the requirement of co-supplementation with extra pyridoxine (vitamin B6) and cyanocobalamin (vitamin B12) daily in these patients.\n\nIII. Assess the safety and tolerability of this therapy in these patients.",
+      "eligibility_criteria": "PROTOCOL ENTRY CRITERIA:\n\n--Disease Characteristics--\n\n* Diagnosis of end stage renal disease requiring regular hemodialysis treatment 3 times weekly\n* Baseline predialysis total homocysteine concentration in plasma greater than 16 micromoles/L\n* No prior or concurrent pernicious anemia\n* No blood s",
+      "endpoints": [],
+      "sponsor": "FDA Office of Orphan Products Development",
+      "url": "https://clinicaltrials.gov/study/NCT00004495"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00737126",
+      "title": "Folic Acid Administration Reduces the Progression of Microalbuminuria",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2005-12",
+      "country": "Mexico",
+      "enrollment": 40,
+      "brief_summary": "The development of diabetic nephropathy has been linked to several genetic polymorphisms, including those related with homocysteine metabolism such as the methylenetetrahydrofolate reductase (MTHFR)and the cystathionine-beta-synthase genes. Such alterations are associated with hyperhomocysteinemia, which is a known independent risk factor for the development of endothelial dysfunction and cardiovascular disease.\n\nIn the Mexican population there is a high prevalence of the C677T MTHFR mutation. T",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetes mellitus patients with 5 to 15 years of diagnosis\n* Microalbuminuria (defined as a urinary albumin/creatinine ratio between 30 and 300 mg/g)\n* A1c less than 9% in the last year\n\nExclusion Criteria:\n\n* Acute diabetic complications\n* A1c greater than 9% in the la",
+      "endpoints": [
+        "Change in albumin excretion rate"
+      ],
+      "sponsor": "Hospital Universitario Dr. Jose E. Gonzalez",
+      "url": "https://clinicaltrials.gov/study/NCT00737126"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06425796",
+      "title": "Impact of Maternal Adiposity on Maternal Iron Status and Requirements: a Randomised Intervention Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-05-20",
+      "completion_date": "2026-01-19",
+      "country": "United Kingdom",
+      "enrollment": 312,
+      "brief_summary": "This study aims to explore how body fat influences the response to either 25 or 50 mg of daily iron supplements during pregnancy. We will conduct a double-blind randomized controlled intervention study involving 312 pregnant women recruited from antenatal clinics in the Northern Trust Area. Participants will be randomly assigned to receive either 25 or 50 mg of iron per day from 12 weeks of pregnancy until delivery, using the Active Iron supplement brand. Blood samples will be collected at 12, 2",
+      "eligibility_criteria": "Inclusion Criteria:- Pregnant women\n\n* Age ≥ 18 years\n* BMI ≥18.5 kg/m2\n* Without current pregnancy complications (for example, severe bleeding, Diabetes Mellitus, hyperemesis gravidarum, ectopic and molar pregnancies)\n* At least 12 Gestational Week\n* Singleton pregnancy confirmed with the first ult",
+      "endpoints": [
+        "* - Adjusted maternal ferritin concentrations in response to iron supplementation (ng/mL)"
+      ],
+      "sponsor": "University of Ulster",
+      "url": "https://clinicaltrials.gov/study/NCT06425796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00479479",
+      "title": "Cobalamin Supplementation During Infancy; Effect on B-vitamin Status, Growth and Psychomotor Development",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-12",
+      "completion_date": "2006-12",
+      "country": "Norway",
+      "enrollment": 107,
+      "brief_summary": "Adequate levels of vitamin B12 (cobalamin) is necessary for normal growth and development in infants. We have earlier investigated cobalamin status in healthy children and we observed metabolic evidence of impaired cobalamin status during the first 6 months, but not later in life.\n\nThe purpose of this study is to determine if cobalamin supplementation may influence the metabolic profile related to cobalamin status in infants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6 weeks old infants\n* The infant should be healthy and not have any serious malformations\n* The mother should be healthy and not have any serious disorders or use any daily medications\n* The mother should have an ordinary omnivorous diet\n\nExclusion Criteria:\n\n* If there are ev",
+      "endpoints": [
+        "Measure: Outcome is related to changes in Cobalamin status: serum levels of cobalamin and folate, and the metabolic markers, plasma-tHcy, cystathionine and MMA"
+      ],
+      "sponsor": "Haukeland University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00479479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03376490",
+      "title": "Cross-sectional Study of the Association of Muscle Strength, Tinetti Test (POMA) Scores and Other Predictor Variables With Serum Vitamin Levels (Vitamin B12, Vitamin D and Folate) in Elderly Patients With Type 2 Diabetes Mellitus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01-01",
+      "completion_date": "2014-08-31",
+      "country": "Singapore",
+      "enrollment": 56,
+      "brief_summary": "Vitamin B12 deficiency can cause severe problems with the blood, nerves, brain and psychological well-being. Ironically, our modern methods for the control of diabetes mellitus can actually contribute to vitamin B12 deficiency. This is because the diabetic medication \"metformin\", low-cholesterol diets lacking in meats (a natural source of vitamin B12) and the use of powerful anti-gastric medication can all reduce the natural absorption of vitamin B12 from the diet, especially in elderly people w",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll Diabetic Adults \\> 65 years old who have been on follow-up at the Polyclinic for \\> 1 year; with Informed Consent.\n\nExclusion Criteria:\n\n* Patients not fitting the Eligibility Criteria\n* Inability to walk despite assistive devices because of musculoskeletal disorders \\&/or\n*",
+      "endpoints": [
+        "Muscle strength (Hand-grip)",
+        "Muscle strength (Leg extension)"
+      ],
+      "sponsor": "SingHealth Polyclinics",
+      "url": "https://clinicaltrials.gov/study/NCT03376490"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642408",
+      "title": "Prevention of Intrauterine Growth Retardation in Hounde District, Burkina Faso",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2006-10",
+      "country": "Burkina Faso",
+      "enrollment": 1370,
+      "brief_summary": "Intrauterine Growth Retardation is the most important determinant of mortality and morbidity in the neonatal period. It is also a very important factor in predicting nutritional status, health and development in childhood. It even influences health in adult life, contributing to the vicious cycle of disease and poverty. The high rate IUGR in DCs represents therefore a major public health problem. Maternal malnutrition is usually assumed to be a major determinant of the problem in these countries",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll the women of child-bearing age (15-44 years) living in the study area (4 100) will be visited monthly to assess early pregnancy and will be invited to participate in the trial.\n\nExclusion Criteria:\n\nWill be excluded from the study women :\n\n* planning to move outside the dist",
+      "endpoints": [
+        "Weight, length and Rohrer index at birth, and gestational duration in single pregnancies.",
+        "Mortality, morbidity and growth during the first year of life"
+      ],
+      "sponsor": "Institute of Tropical Medicine, Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00642408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00266487",
+      "title": "Randomized Trial of Homocysteine-lowering With B Vitamins for Secondary Prevention of Cardiovascular Disease After Acute Myocardial Infarction. The Norwegian Vitamin Trial (NORVIT)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1998-12",
+      "completion_date": "2004-03",
+      "country": "Norway",
+      "enrollment": 3750,
+      "brief_summary": "The purpose of this study is to examine whether the lowering of blood homocysteine levels by treatment with B vitamins can prevent cardiovascular disease",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acute myocardial infarction within 7 days prior to randomization\n* Men and women aged 30-85 years\n* Written informed consent\n\nExclusion Criteria:\n\n* Coexisting disease that shortens expected survival to less than 4 years\n* Ongoing treatment with B vitamins\n* Expected poor comp",
+      "endpoints": [
+        "The primary end point was a composite of",
+        "nonfatal myocardial infarction,",
+        "fatal myocardial infarction,"
+      ],
+      "sponsor": "University of Tromso",
+      "url": "https://clinicaltrials.gov/study/NCT00266487"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00909974",
+      "title": "Effect of Prenatal Nutritional Supplementation on Birth Outcome in Hounde District, Burkina Faso",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2008-12",
+      "country": "Burkina Faso",
+      "enrollment": 1302,
+      "brief_summary": "Low birth weight (LBW; birth weight\\<2,500g) is the most important determinant of mortality and morbidity in the neonatal period. It is also a very important factor in predicting nutritional status, health and development in childhood. It even influences health in adult life, contributing to the vicious cycle of disease and poverty. The high rate LBW in DCs represents therefore a major public health problem. Maternal chronic energy deficiency is assumed to be a major determinant of the problem i",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All the women of child-bearing age (15-44 years) living in the study area (4 100) will be visited monthly to assess early pregnancy and will be invited to participate in the trial.\n\nExclusion Criteria:\n\n* planning to move outside the district within the 2 years following the s",
+      "endpoints": [
+        "Weight, length and Rohrer index at birth, and gestational duration in singleton pregnancies.",
+        "Mortality, morbidity and growth during the first year of life"
+      ],
+      "sponsor": "Institute of Tropical Medicine, Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00909974"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04083560",
+      "title": "A Comparison of Two Different Doses of Maternal B12 Supplementation in Improving Infant B12 Deficiency and Neurodevelopment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-09-26",
+      "completion_date": "2022-09-25",
+      "country": "India, Nepal",
+      "enrollment": 708,
+      "brief_summary": "Supplementation with Iron and folate have been part of a worldwide strategy targeting anaemia and neural tube defects for many years. However, vitamin B12 deficiency has received much less attention. High prevalence of deficiency in mothers in the antenatal period and in their infants, has been documented. Multiple case series document the neurological consequences of severe deficiency and their reversal with B-12. Trials on the subject are limited and those available have either used an ineffec",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\<12 weeks gestation\n\nVegetarian mothers\n\nExclusion Criteria:\n\n1. Mothers already on B12 supplementation\n2. Women with multiple gestation, those diagnosed with chronic medical conditions (diabetes mellitus, hypertension, heart disease, neurological disease or thyroid disease),",
+      "endpoints": [
+        "Infant neurodevelopment"
+      ],
+      "sponsor": "Sitaram Bhartia Institute of Science and Research",
+      "url": "https://clinicaltrials.gov/study/NCT04083560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02666417",
+      "title": "Testing Iron Absorption From a New Micronutrient Powder Containing Galacto-oligosaccharides (GOS) for Fortification of Infant Foods in Sub-Saharan Africa",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-01",
+      "completion_date": "2016-12",
+      "country": "Kenya",
+      "enrollment": 64,
+      "brief_summary": "Infants and young children in sub-Saharan Africa have high rates of iron deficiency anemia (IDA), which adversely affects their growth and cognitive development. In-home iron fortification of complementary foods using micronutrient powders (MNPs) reduces risk for IDA. However, in areas with a high burden of infectious diseases iron may increase the risk of unfavorable gut microbiota composition possibly influencing diarrhea prevalence. Thus, there is an urgent need to find safer formulations of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 6-14 months at baseline\n* Assessment of good health as assessed by professional staff at Msambweni District Hospital\n* Willingness of their caregiver to provide informed consent\n\nExclusion Criteria:\n\n* Hemoglobin \\<70 g/L ; these infants will be referred for treatment a",
+      "endpoints": [
+        "Change from baseline in the isotopic ratio of iron in blood at week 5"
+      ],
+      "sponsor": "Swiss Federal Institute of Technology",
+      "url": "https://clinicaltrials.gov/study/NCT02666417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06223854",
+      "title": "Evaluation of the Acceptability and Nutritional Effects of Double-fortified Salt Containing Folic Acid and Iodine Among Ethiopian Women of Reproductive Age - a Household-randomized, Controlled, Community-based Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-04-25",
+      "completion_date": "2024-12-16",
+      "country": "Ethiopia",
+      "enrollment": 360,
+      "brief_summary": "The overarching objective of this two-phase project is to assess the effects of fortifying iodized salt with folic acid on improving women's folate status. Folate insufficiency is the primary risk factor for neural tube defects (NTDs), which are highly prevalent in Ethiopia. The purposes of Phase 2 of the project, described herein, are to complete a community-based, randomized, dose-response intervention trial of edible salt fortified with just iodine or iodine and one of two levels of folic aci",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non-pregnant\n* Using long-acting contraceptive\n* Intending to remain in study community for at least six months\n* Willing to use study salt for all household food preparation and seasoning\n* Signed, informed consent\n\nExclusion Criteria:\n\n* Pregnant\n* Not using long-acting cont",
+      "endpoints": [
+        "Red blood cell folate",
+        "Serum folate",
+        "Serum homocysteine"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT06223854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04404751",
+      "title": "Effectiveness of Quadruple Fortified Salt in Improving Hemoglobin Levels Among Anemic Women of Reproductive Age (18-49 Years) in Rural Low Resource Setting",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-08-23",
+      "completion_date": "2020-12-31",
+      "country": "Tanzania",
+      "enrollment": 174,
+      "brief_summary": "Anaemia is the world leading cause of disability and is responsible for about more than 115,000 maternal deaths and 591,000 perinatal deaths per year, of which 3/4 occur in Africa and Asia. Despite the fact that there are several causes of anemia, the most important causes are due to micronutrients deficiency, namely iron, Folic acid and Vitamin B12. Low intakes of these micronutrients consequently affect a woman's health, pregnancy outcome and the nutritional status of breast-fed children. With",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult with relative low haemoglobin (Hb level 8g/dl to 13g/dl)\n* Able to eat food cooked with salt\n* Able to give consent\n\nExclusion Criteria:\n\n* Planning to become pregnant within the study period,\n* chronically ill,\n* have haematological diseases during study time,\n* restric",
+      "endpoints": [
+        "Haemoglobin level"
+      ],
+      "sponsor": "Haydom Lutheran Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04404751"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05855551",
+      "title": "Joint Interventions to Improve Birth Outcomes and Nutrition in Bangladesh: the Jibon Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-05-25",
+      "completion_date": "2024-09-30",
+      "country": "Bangladesh",
+      "enrollment": 4620,
+      "brief_summary": "Maternal undernutrition is a global public health problem with far-reaching effects for both mothers and infants. Poor maternal nutrition negatively affects fetal growth and development. Both micro and macro-nutrients are required for the physiological changes and increased metabolic demands during pregnancy, including fetal growth and development. Women in Bangladesh have poor diets and are struggling to meet their nutrient requirements, especially during pregnancy and lactation when requiremen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant with their first or second child (in case of death of the first or second child during pregnancy or within two years of birth, the mother will be eligible during her third pregnancy);\n* In possession of a valid NID (or a NID application acknowledgement).\n* Meeting the",
+      "endpoints": [
+        "Gestational weekly weight gain 2nd to 3rd trimester",
+        "Total gestational weight gain by the third trimester",
+        "Dietary energy intake and proportion of women below 85% of the estimate energy requirement (EER)"
+      ],
+      "sponsor": "International Food Policy Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05855551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06163443",
+      "title": "Evaluating the Impact of B Vitamin Supplementation (Soloways™) on Homocysteine and LDL-C Levels in Patients With MTHFR, MTR, and MTRR Polymorphisms: A Randomized, Double-blind, Placebo-controlled Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-03-02",
+      "completion_date": "2023-05-01",
+      "country": "Russia",
+      "enrollment": 54,
+      "brief_summary": "This randomized, double-blind, placebo-controlled trial will evaluate the impact of methylfolate, pyridoxal-5'-phosphate (P5P), and methylcobalamin supplementation on homocysteine and LDL-C levels in individuals with low to medium cardiac risk and MTHFR, MTR, and MTRR gene polymorphisms. The study aims to explore the efficacy of these vitamins in reducing homocysteine levels, a critical risk factor for cardiovascular disease (CVD), while also monitoring LDL-C levels. The findings will offer valu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 40 and 75.\n* Homocysteine levels greater than 15 µmol/L and LDL-C level between 70 and 190 mg/dL, confirmed in at least two sequential checks conducted within the last six months prior to signing the consent form.\n* Presence of at least one minor allele in any of t",
+      "endpoints": [
+        "Homocysteine levels"
+      ],
+      "sponsor": "S.LAB (SOLOWAYS)",
+      "url": "https://clinicaltrials.gov/study/NCT06163443"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06876545",
+      "title": "Identification of Vitamin C Deficiency in Hospitalized Adults Through a Systematic Approach Vs. Traditional Medical Judgment: a Before-and-After Observational Study",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2025-04-30",
+      "country": "France",
+      "enrollment": 150,
+      "brief_summary": "Brief Summary of the Study The goal of this observational study is to assess the incidence of vitamin C deficiency among hospitalized adults presenting with hemorrhagic signs. The study will also evaluate the effectiveness of a standardized screening protocol compared to traditional clinical judgment.\n\nThe main questions it aims to answer are:\n\nWhat is the incidence of vitamin C deficiency in hospitalized patients with hemorrhagic symptoms? Is a standardized screening protocol more effective tha",
+      "eligibility_criteria": "Inclusion Criteria:\n\nHospitalized adult patients (≥18 years old) who had Vitamin C testing performed during their hospital stay.\n\nDocumented hemorrhagic manifestations in medical records, including at least one of the following:\n\nHematuria (macroscopic or detected via urine dipstick/microscopy). Ecc",
+      "endpoints": [
+        "The primary outcome of the study is the existence of Vitamin C deficiency in hospitalized patients presenting with hemorrhagic signs."
+      ],
+      "sponsor": "Internist.Ro",
+      "url": "https://clinicaltrials.gov/study/NCT06876545"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00031057",
+      "title": "A Pilot Study of Oral B Vitamin Therapy for Asymptomatic or Mildly Symptomatic Hyperlactatemia in Patients on NRTIs",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 225,
+      "brief_summary": "The purpose of this study is to see if vitamin B can treat mild hyperlactatemia (a higher than normal level of lactate in the blood) in patients who take nucleoside reverse transcriptase inhibitors (NRTIs).\n\nHyperlactatemia is a potentially life-threatening condition that can be associated with NRTI therapy. A lack of vitamin B may be related to the development of hyperlactatemia. However, no studies have been done to evaluate this. This study proposes that high doses of vitamin B may bring elev",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients may be eligible for this study if they:\n\n* Are at least 13 years old.\n* Give written informed consent. Patients less than 18 years old must have written informed consent of a parent or guardian.\n* Are HIV-infected.\n* Have been using anti-HIV therapy containing an NRTI fo",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00031057"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05020847",
+      "title": "The Underlying Causes Affecting the Response to Dietary Rehabilitation in Severely Acutely Malnourished Children at the Center Hôspitalier Universitaire Sourô Sanou, Bobo Dioulasso, Burkina Faso",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-09-15",
+      "completion_date": "2023-08-31",
+      "country": "Burkina Faso",
+      "enrollment": 297,
+      "brief_summary": "Severe acute malnutrition (SAM) is a life threatening condition and is defined by 1) a weight-for-height Z-score more than three standard deviations (SD) below the median based on the 2006 World Health Organization (WHO) growth standards, 2) a mid-upper arm circumference (MUAC) of less than 115 mm or 3) by the presence of nutritional edema. Signs such as edema, mucocutaneous changes, hepatomegaly, lethargy, anorexia, anemia, severe immune deficiency and rapid progression to mortality characteriz",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Severe acute malnutrition defined as Weight-for-Height Z-score (WHZ) \\<- 3 SD AND / OR MUAC \\<115 mm AND / OR with edema\n* With complications\n* Who are admitted and treated in the refeeding center (CREN) of the CHUSS\n* Aged between 6 and 59 Months\n* Parental Signed informed co",
+      "endpoints": [
+        "Recovery rate of children",
+        "Daily weight gain",
+        "Number of days during the first phase of treatment"
+      ],
+      "sponsor": "University Ghent",
+      "url": "https://clinicaltrials.gov/study/NCT05020847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05178407",
+      "title": "Effect of Household Use of Multiple Micronutrient-fortified Bouillon on Micronutrient Status Among Women and Children in Two Districts in the Northern Region of Ghana",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-16",
+      "completion_date": "2024-06-12",
+      "country": "Ghana",
+      "enrollment": 2372,
+      "brief_summary": "Background: Micronutrient (MN) deficiencies are severe and widespread in West Africa, particularly among young children and women of reproductive age. Bouillon is a promising food fortification vehicle because the product is centrally processed on large scale, consumed by most households in West African countries (even rural, poor households), and consumed by most members of the household in relatively constant amounts. However, several important research questions remain regarding whether the u",
+      "eligibility_criteria": "Inclusion/exclusion criteria at recruitment (home visit):\n\nHousehold\n\nInclusion criteria:\n\n\\- Head of household provides oral consent for the participation of household members (index participants), and willingness to have study-provided bouillon cubes used in their household for the next 10 months.",
+      "endpoints": [
+        "Change in vitamin A status among non-pregnant, non-lactating women",
+        "Change in vitamin A status among children 2-5 years",
+        "Change in vitamin A status among lactating women 4-18 mo postpartum"
+      ],
+      "sponsor": "University of California, Davis",
+      "url": "https://clinicaltrials.gov/study/NCT05178407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06084871",
+      "title": "Patient Blood Management in Cardiac Surgery in Turkiye",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-06-01",
+      "completion_date": "2025-06-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 368,
+      "brief_summary": "* Rationale and background: Surgical patients' transfusions have changed from replacing surgically lost blood with allogenic blood transfusions to implementing strategies that reduce transfusion requirements. Patient Blood Management (PBM) is designed to maintain hemoglobin concentration, optimize hemostasis, and minimize blood loss to improve patient outcomes. There is mounting evidence that multimodal PBM programs can improve postoperative outcomes and reduce perioperative blood transfusions a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed patient informed consent\n* Male or female patient 18-80 years old\n* Patients scheduled for elective first time coronary artery bypass grafting (CABG)\n* Antiplatelet treatment will be discontinued in patients on antiplatelet therapy and will be operated after wash-out ti",
+      "endpoints": [
+        "Red blood cell transfusion"
+      ],
+      "sponsor": "ERAS Turkey Association",
+      "url": "https://clinicaltrials.gov/study/NCT06084871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05959824",
+      "title": "Devintec OR-AT0222 Oral Gel for the Treatment of Canker Sores: A Double Blind, Randomized, Placebo Controlled Clinical Investigation",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2023-05-08",
+      "completion_date": "2023-09-30",
+      "country": "Italy",
+      "enrollment": 46,
+      "brief_summary": "Canker sore, also known as aphthous stomatitis or ulcers and aphthae, is a common ailment, idiopathic in nature, with recurrent painful aphthous ulcers on the non-keratinized oral mucous membranes.\n\nRecurrent aphthous ulcer has higher prevalence in young adults and the frequency decreases with increasing age. The etiology of aphthous ulcer remains unclear. Other possible factors include trauma, drug use, deficiency in vitamin B12, folic acid, iron, stress, hormonal changes and metabolic diseases",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. \\>18 years (male and females)\n2. Patients have one oral canker sore, at least. Onset within 48 hours\n3. Patients in good condition with no serious systemic disease\n\nExclusion Criteria:\n\n1. Hypersensitivity to any OR-AT0222 ingredients\n2. Use of any medication to treat the ulc",
+      "endpoints": [
+        "VAS score"
+      ],
+      "sponsor": "Devintec Sagl",
+      "url": "https://clinicaltrials.gov/study/NCT05959824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06054919",
+      "title": "The Effect of Vitamin D3 Therapy on 25(OH)D, 1,25(OH)2D, VDBP, and 24,25(OH)2D Maternal Serum Levels in Pregnant Women With Vitamin D Deficient and Insufficient",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-04-01",
+      "completion_date": "2023-11-30",
+      "country": "Indonesia",
+      "enrollment": 52,
+      "brief_summary": "This study is a randomized controlled trial which compares the effect of vitamin D3 therapy 5,000 IU daily and 50,000 IU on 25(OH)D and 1,25(OH)2D, VDBP, and 24,25(OH)2D maternal serum levels in pregnant women with vitamin D deficient and insufficient.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* pregnant women with gestational age of ≤ 14 weeks\n* vitamin D deficient or insufficient (25(OH)D \\<30 ng/ml\\]\n* positive fetal heart rate from ultrasound examination.\n\nExclusion Criteria:\n\n* multiple pregnancy\n* pregnancy with congenital anomaly\n* hyperemesis gravidarum, diarr",
+      "endpoints": [
+        "25(OH)D maternal serum level",
+        "1,25(OH)2D maternal serum level",
+        "VDBP maternal serum level"
+      ],
+      "sponsor": "Indonesia University",
+      "url": "https://clinicaltrials.gov/study/NCT06054919"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03997032",
+      "title": "A Pilot Study to Assess the Effect of a 3-month Folate Supplementation on Systemic Homocysteine Plasma Concentration and Ocular Blood Flow in Patients With Diabetes",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-07-31",
+      "completion_date": "2018-07-17",
+      "country": "Austria",
+      "enrollment": 25,
+      "brief_summary": "There is evidence that a folate deficiency - and as the biological consequence of the latter - higher homocysteine plasma levels are associated with an increased risk of vascular associated diseases. For the eye, it has been shown that higher intake of folate reduces the risk of vascular related diseases such as age related macular degeneration. Further studies suggest that decreased serum levels of folate and vitamin B12 may be an independent risk factor for diabetic retinopathy. The reason for",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Diabetes mellitus type 1 or 2\n* No or mild non-proliferative diabetic retinopathy\n* Normal findings in the medical history except diabetes unless the investigator considers an abnormality to be clinically irrelevant\n* Normal ophthalmic findings except mild non",
+      "endpoints": [
+        "Plasma homocysteine level"
+      ],
+      "sponsor": "Medical University of Vienna",
+      "url": "https://clinicaltrials.gov/study/NCT03997032"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01930838",
+      "title": "Prevalence of Medical and Nutritional Complications After Bariatric Surgery (Gastric Bypass) Based on a Clinical Trial",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2016-08",
+      "completion_date": "2016-08",
+      "country": "Denmark",
+      "enrollment": 0,
+      "brief_summary": "The number of obese is increasing rapidly. Bariatric surgery is used to a greater and greater extent as treatment of obesity to obtain a greater and more permanent weight loss. The currently most commonly used surgical method is the gastric bypass (RYGB), which so far has proved to be the most effective way to achieve a greater and more permanent weight loss, reduction and maybe even elimination of many of the obesity-related health complication (diabetes, sleep apnea, pain due to osteoarthrosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* gastric bypass operation 2006-2011\n* resident in The Central Denmark Region\n\nExclusion Criteria:\n\n\\-",
+      "endpoints": [
+        "Number of participants with complications"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT01930838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05935631",
+      "title": "Feasibility, Acceptability and Directional Signal Effect on Blood Folate Levels of Iodized Salt Fortified With Folic Acid: Clinical Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2023-01-24",
+      "completion_date": "2023-06-30",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "Aim 1: Assess directional signal of effect of fortified salt with folic acid and iodine on blood serum folate levels.\n\nIt will be accomplished by feasibility pre-test/post-test clinical study by estimating mean and variability of serum blood folate levels effects of folic acid fortified salt.\n\nHypothesis: Fortified salt with folic acid and iodine will increase serum blood folate levels from baseline by month 1.\n\nAim 2: Assess feasibility and acceptability of salt fortified with folic acid and io",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women\n* consumes salt\n\nExclusion Criteria:\n\n* pregnant or intends to become pregnant in next 6 months",
+      "endpoints": [
+        "Serum blood folate levels"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT05935631"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01358552",
+      "title": "Néevo®/NéevoDHA® P.L.U.S. Program (Progress Through Learning, Understand & Support)",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2011-01",
+      "completion_date": "2012-03",
+      "country": "United States",
+      "enrollment": 53,
+      "brief_summary": "This is an observational study in which patients who have been prescribed Néevo®/NéevoDHA® are invited to participate in surveys about their pregnancy and experiences with Néevo®/NéevoDHA®. The purpose of this study is to increase the understanding of the role of L-methylfolate among patients who are candidates for Néevo®/NéevoDHA®, provide patients with personalized education and support during their pregnancies, and contribute to the overall understanding of the needs and concerns of women fac",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* New Néevo®/NéevoDHA® Start.\n* Only for women who are pregnant and taking brand name Néevo®/ NéevoDHA® under a physicians care.\n\nExclusion Criteria:\n\n* Patients who are not pregnant.\n* If participant indicates that she did not get a prescription for Néevo®/ NéevoDHA®, she will ",
+      "endpoints": [
+        "To determine the safety and tolerability of Néevo®/NéevoDHA® as measured by side effects and compliance"
+      ],
+      "sponsor": "Pamlab, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01358552"
+    }
+  ],
+  "timestamp": "2026-03-04T15:39:43.875024",
+  "success": true,
+  "error_message": null
+}

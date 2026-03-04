@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Ezetimibe"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00973",
+    "name": "Ezetimibe",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T14:59:44.873119",
+  "success": true,
+  "error_message": null
+}

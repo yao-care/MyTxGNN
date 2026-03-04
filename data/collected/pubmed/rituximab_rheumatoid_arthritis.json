@@ -1,0 +1,585 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "rheumatoid arthritis",
+    "query_string": "Rituximab AND rheumatoid arthritis"
+  },
+  "data": {
+    "query": "Rituximab AND rheumatoid arthritis",
+    "results": [
+      {
+        "pmid": "34802085",
+        "title": "Natural and iatrogenic ocular manifestations of rheumatoid arthritis: a systematic review.",
+        "abstract": "To provide an overview of the ocular features of rheumatoid arthritis (RA) and of the ophthalmic adverse drug reactions (ADRs) that may be associated with the administration of antirheumatic drugs.",
+        "journal": "International ophthalmology",
+        "year": "2022",
+        "authors": [
+          "Dammacco Rosanna",
+          "Guerriero Silvana",
+          "Alessio Giovanni",
+          "Dammacco Franco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Glaucoma, Open-Angle",
+          "Humans",
+          "Iatrogenic Disease",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34802085/"
+      },
+      {
+        "pmid": "33638167",
+        "title": "Variability of rituximab and tocilizumab trough concentrations in patients with rheumatoid arthritis.",
+        "abstract": "Patients with rheumatoid arthritis (RA) are eligible for treatment with therapeutic monoclonal antibodies (mAbs) that target tumor necrosis factor α (TNFα), as well as others, such as rituximab (RTX) and tocilizumab (TCZ). Although pharmacokinetic variability and the link between concentration-clinical response of anti-TNFα mAbs have been well-described, little is known about RTX and TCZ. We aimed to evaluate the variability of RTX and TCZ serum concentrations in RA patients treated in second-line and the relationship between RTX/TCZ concentrations and the clinical response. Serum mAb trough concentrations of RA patients treated with RTX (n = 35) or TCZ (n = 46) were determined at week 24 by liquid chromatography-tandem mass spectrometry. The clinical response was assessed at week 24 by the change in the disease activity score in the 28 joints-erythrocyte sedimentation rate from baseline (ΔDAS28-Erythrocyte Sedimentation Rate) and according to the European League Against Rheumatism (EU",
+        "journal": "Fundamental & clinical pharmacology",
+        "year": "2021",
+        "authors": [
+          "Truffot Aurélie",
+          "Gautier-Veyret Elodie",
+          "Baillet Athan",
+          "Jourdil Jean-François",
+          "Stanke-Labesque Françoise"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33638167/"
+      },
+      {
+        "pmid": "36280095",
+        "title": "Prevention of rheumatoid arthritis: A systematic literature review of preventive strategies in at-risk individuals.",
+        "abstract": "Rheumatoid arthritis (RA) is an autoimmune disease characterized by symmetrical peripheral polyarthritis in the hands and/or feet, leading to long-term disability if not treated effectively. RA is preceded by a preclinical phase, in which genetically predisposed individuals accumulate environmental risk factors, and during which autoimmunity develops, followed by the emergence of non-specific signs and symptoms before arthritis becomes manifest. Early treatment in at-risk individuals - i.e. before the disease is fully established - has the theoretical potential to delay or prevent disease onset, with a positive impact on both patients' life and society.",
+        "journal": "Autoimmunity reviews",
+        "year": "2023",
+        "authors": [
+          "Frazzei Giulia",
+          "Musters Anne",
+          "de Vries Niek",
+          "Tas Sander W",
+          "van Vollenhoven Ronald F"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Arthritis, Rheumatoid",
+          "Antirheumatic Agents",
+          "Abatacept",
+          "Rituximab",
+          "Autoimmunity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36280095/"
+      },
+      {
+        "pmid": "31099191",
+        "title": "Infection risks of rituximab versus non-rituximab treatment for rheumatoid arthritis: A systematic review and meta-analysis.",
+        "abstract": "The aim of this study was to assess the differences in infection rates between rituximab (RTX) and non-RTX treatment in patients with rheumatoid arthritis (RA).",
+        "journal": "International journal of rheumatic diseases",
+        "year": "2019",
+        "authors": [
+          "Shi Yuhong",
+          "Wu Yanbin",
+          "Ren Yafei",
+          "Jiang Yanan",
+          "Chen Yiqiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Female",
+          "Humans",
+          "Immunocompromised Host",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31099191/"
+      },
+      {
+        "pmid": "16920570",
+        "title": "Treatment of rheumatoid arthritis with rituximab: an update and possible indications.",
+        "abstract": "Based on new biologic and clinical insights, the number of drugs blocking different biologic targets in rheumatoid arthritis (RA) [e.g., tumor necrosis factor alpha (TNFalpha), CTLA4, interleukin (IL)-1, IL-6, IL-15, IL-18, B lymphocyte stimulator (BLyS), CD20] has increased considerably over the last decade. Rituximab, a chimeric monoclonal antibody that was developed for the treatment of B-cell lymphomas, has been used in different autoimmune diseases where B-cells are thought to play a pivotal role. However, blinded randomised controlled trials have been completed only for RA so far, indicating the clear efficacy of B-cell blockade in RA and highlighting the pathogenetic B-cell in rheumatoid synovitis. The use of rituximab in RA is herein updated, from early preliminary studies to more recent presentations in International Conferences. Key clinical and biologic issues are discussed, i.e., efficacy and safety of rituximab, role of concomitant therapies, use in the long term and retre",
+        "journal": "Autoimmunity reviews",
+        "year": "2006",
+        "authors": [
+          "De Vita Salvatore",
+          "Quartuccio Luca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16920570/"
+      },
+      {
+        "pmid": "41004196",
+        "title": "Efficacy and safety of rituximab in rheumatoid arthritis-associated interstitial lung disease: a systematic review and meta-analysis.",
+        "abstract": "To assess the effectiveness and safety of Rituximab (RTX) treatment among patients diagnosed with rheumatoid arthritis-associated interstitial lung disease (RA-ILD).",
+        "journal": "Expert opinion on biological therapy",
+        "year": "2025",
+        "authors": [
+          "Ines Mahmoud",
+          "Zeineb Zarrouk",
+          "Selma Bouden",
+          "Olfa Saidane",
+          "Leila Rouached"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Disease Progression",
+          "Lung Diseases, Interstitial",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41004196/"
+      },
+      {
+        "pmid": "19758217",
+        "title": "Long-term effects of rituximab in rheumatoid arthritis: clinical, biologic, and pharmacogenetic aspects.",
+        "abstract": "Rituximab selectively targets the B-cell compartment, including rheumatoid factor-positive B cells. Short-term efficacy and safety of rituximab in rheumatoid arthritis (RA) has been established by multicenter randomized placebo-controlled studies. Results of long-term follow-up of the phase II/III clinical trials have confirmed the efficacy and safety of repeated courses of rituximab in the responders. However, mechanisms of action in humans, retreatment regimens, biologic effects on memory B cells and on immunoglobulin levels of prolonged exposure of the immune system to B-cell depletion over time, and pharmacogenetic aspects remain open and intriguing issues of rituximab therapy. Several studies are ongoing to clarify possible clinical and biologic predictors of response to rituximab in RA and in other autoimmune diseases where rituximab has been proven to be effective. Preliminary clinical and pharmacogenetic results of our cohort of RA patients managed with rituximab from the year ",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "2009",
+        "authors": [
+          "Quartuccio Luca",
+          "Lombardi Sandra",
+          "Fabris Martina",
+          "Masolini Paola",
+          "Saracco Marta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antigens, CD20",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "B-Lymphocytes",
+          "Genotype",
+          "Humans",
+          "Receptors, IgG",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19758217/"
+      },
+      {
+        "pmid": "17896839",
+        "title": "Rituximab: in rheumatoid arthritis.",
+        "abstract": "An important role for B cells in the immunopathogenesis of rheumatoid arthritis (RA) is recognized. Rituximab is a chimeric murine/human anti-CD20 monoclonal antibody that transiently depletes CD20+ B cells. A single course of rituximab (two intravenous infusions of 1,000mg given two weeks apart) with a stable dose of methotrexate significantly improved all measures of disease activity, fatigue, and health-related quality of life relative to placebo with methotrexate. This was demonstrated in the REFLEX trial, a 24-week, randomized, double-blind, double-dummy, international, phase III study in 520 patients who had active RA despite ongoing treatment with methotrexate and had experienced an inadequate response to anti-tumor necrosis factor (TNF) therapy. Patients in REFLEX (or other studies) who responded to, and required further treatment after, an initial course of rituximab continued to respond to subsequent courses of the drug. A small subgroup of patients in REFLEX continued to res",
+        "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+        "year": "2007",
+        "authors": [
+          "Frampton James E",
+          "Scott Lesley J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antigens, CD20",
+          "Arthritis, Rheumatoid",
+          "Clinical Trials, Phase III as Topic",
+          "Humans",
+          "Infusions, Intravenous",
+          "Randomized Controlled Trials as Topic",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17896839/"
+      },
+      {
+        "pmid": "37705311",
+        "title": "Effectiveness and safety of rituximab in special types of rheumatoid arthritis.",
+        "abstract": "To elucidate the efficacy and safety of rituximab in special types of rheumatoid arthritis.",
+        "journal": "International journal of rheumatic diseases",
+        "year": "2023",
+        "authors": [
+          "Takanashi Satoshi",
+          "Kondo Yasushi",
+          "Saito Shuntaro",
+          "Kikuchi Jun",
+          "Hanaoka Hironari"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Antirheumatic Agents",
+          "Glucocorticoids",
+          "Rheumatoid Vasculitis",
+          "Retrospective Studies",
+          "Treatment Outcome",
+          "Arthritis, Rheumatoid",
+          "Severity of Illness Index",
+          "Lymphoproliferative Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37705311/"
+      },
+      {
+        "pmid": "31446557",
+        "title": "Comparative Efficacy and Safety of Biosimilar Rituximab and Originator Rituximab in Rheumatoid Arthritis and Non-Hodgkin's Lymphoma: A Systematic Review and Meta-analysis.",
+        "abstract": "Rituximab is a biologic medicine widely used for the treatment of autoimmune diseases and lymphoma. Several biosimilars of rituximab have been developed and marketed with the expiration of the originator rituximab's patent; thus, systematic combination and analysis of the latest data on the efficacy and safety of biosimilars and the demonstration of the interchangeability of biosimilar agents are required.",
+        "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+        "year": "2019",
+        "authors": [
+          "Lee Soohyun",
+          "Lee Heeyoung",
+          "Kim EunYoung"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Immunological",
+          "Arthritis, Rheumatoid",
+          "Biosimilar Pharmaceuticals",
+          "Humans",
+          "Lymphoma, Non-Hodgkin",
+          "Randomized Controlled Trials as Topic",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31446557/"
+      },
+      {
+        "pmid": "33001390",
+        "title": "Rituximab as a treatment option in a patient with rheumatoid arthritis and a history of malignancy-intracranial chondrosarcoma/osteochondroma-case based review.",
+        "abstract": "When compared to general population, patients with rheumatoid arthritis are at higher risk of some malignancies (especially lymphomas and lung cancer). Genetic predisposition, chronic inflammatory stimuli and viral infections are some of the reasons untreated patients are at higher risk. Clinical studies and national/international registries collect the data about the malignancies with higher incidence (such as lung, skin and breast cancer) but on the other hand, malignancies with lower incidence (such as sarcomas) are rarely reported. We report a case of a 47-year-old male with a history of a malignant intracranial chondrosarcoma/osteochondroma who developed seropositive rheumatoid arthritis. Due to progression of erosions, the patient was initialy treated with conventional synthetic Disease-Modifying Antirheumatic Drugs (csDMARDs) and later on with rituximab. The patient's rheumatoid arthritis went and remained in remission on maintenance therapy with rituximab (every 6-8 months) and",
+        "journal": "Rheumatology international",
+        "year": "2021",
+        "authors": [
+          "Barešić M",
+          "Ježić I",
+          "Simetić L",
+          "Herceg D",
+          "Anić B"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Immunological",
+          "Arthritis, Rheumatoid",
+          "Brain Neoplasms",
+          "Chondrosarcoma",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Neoplasm Recurrence, Local",
+          "Osteochondroma",
+          "Remission Induction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33001390/"
+      },
+      {
+        "pmid": "21925447",
+        "title": "[Rituximab in rheumatoid arthritis: a systematic review of efficacy and safety].",
+        "abstract": "The aim of the systematic review was to evaluate the safety and efficacy of rituximab for the treatment of rheumatoid arthritis patients, as part of the Consensus on the use of rituximab in rheumatoid arthritis. A document with evidence based recommendations.",
+        "journal": "Reumatologia clinica",
+        "year": "2011",
+        "authors": [
+          "Hernández-Cruz Blanca",
+          "García-Arias Miriam",
+          "Ariza Ariza Rafael",
+          "Martín Mola Emilio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Humans",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21925447/"
+      },
+      {
+        "pmid": "39692788",
+        "title": "Successful rituximab treatment in a seronegative rheumatoid arthritis patient with concurrent cold agglutinin syndrome and immune thrombocytopenia.",
+        "abstract": "Cold agglutinin disease, a subtype of cold-type autoimmune hemolytic anemia, is referred to as cold agglutinin syndrome (CAS) when it develops secondary to other conditions. Immune thrombocytopenia (ITP) is an autoimmune disorder characterized by the peripheral destruction of platelets. While both CAS and ITP can occur in patients with rheumatoid arthritis (RA), their concurrent manifestation in a single patient has not been reported, leaving the optimal treatment strategy for such a complex case unclear. Given that rituximab has been reported to be effective in treating RA, CAS, and ITP, it may be a promising treatment option for cases where these three conditions co-occur. We present the first case of RA complicated by both CAS and ITP, where the patient achieved complete remission with rituximab therapy. Furthermore, our review of the literature identified three cases of CAS and three cases of ITP in RA patients, all successfully treated with rituximab. These findings highlight the ",
+        "journal": "Rheumatology international",
+        "year": "2024",
+        "authors": [
+          "Suzuki Koji",
+          "Akiyama Mitsuhiro",
+          "Takei Hiroshi",
+          "Kaneko Yuko"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Hemolytic, Autoimmune",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Purpura, Thrombocytopenic, Idiopathic",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39692788/"
+      },
+      {
+        "pmid": "35713041",
+        "title": "Efficacy of rituximab in patients with rheumatoid arthritis.",
+        "abstract": "To determine the efficacy of rituximab 2×500mg in rheumatoid arthritis patients.",
+        "journal": "JPMA. The Journal of the Pakistan Medical Association",
+        "year": "2022",
+        "authors": [
+          "Bilal Muhammad",
+          "Ullah Ansar",
+          "Khattak Saima"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Disease Progression",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35713041/"
+      },
+      {
+        "pmid": "38693680",
+        "title": "Patients' and rheumatologists' perceptions on dose reduction of rituximab in rheumatoid arthritis.",
+        "abstract": "The recommended dose of a rituximab course for the treatment of Rheumatoid Arthritis (RA) consists of two infusions of 1000 mg with a 2-week interval. Evidence is growing that a lower dose could be as effective. We aimed to investigate patients' and rheumatologists' perceptions on dose reduction of rituximab.",
+        "journal": "Musculoskeletal care",
+        "year": "2024",
+        "authors": [
+          "Bertrand Delphine",
+          "Deprez Anke",
+          "Doumen Michaël",
+          "De Cock Diederik",
+          "Pazmino Sofia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Arthritis, Rheumatoid",
+          "Male",
+          "Middle Aged",
+          "Antirheumatic Agents",
+          "Female",
+          "Rheumatologists",
+          "Aged",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38693680/"
+      },
+      {
+        "pmid": "34988646",
+        "title": "Rituximab therapy in pericarditis associated with rheumatoid arthritis.",
+        "abstract": "In rheumatoid arthritis, pericarditis is commonly asymptomatic, but rarely, it progresses to a morbid complication, like cardiac tamponade or restrictive pericarditis. Current studies have indicated that conventional drugs have limited ability to reverse these lethal conditions. To date, invasive surgical measures remain the only definitive therapy for patients who are unresponsive to drugs. Recently, anti-tumor necrosis factor-α and anti-interleukin-1 antibody-based drugs have shown limited success. Consequently, given the importance of pericarditis, we need new treatment methods. Here, we describe a patient with rheumatoid arthritis and effusive pericarditis, which progressed to life-threatening cardiac tamponade. The patient responded very well to rituximab. Thus, rituximab represents a potential new therapy for this rarely treated complication of rheumatoid arthritis.",
+        "journal": "Rheumatology international",
+        "year": "2022",
+        "authors": [
+          "Taylan Ali"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Arthritis, Rheumatoid",
+          "Cardiac Tamponade",
+          "Humans",
+          "Pericardial Effusion",
+          "Pericarditis",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34988646/"
+      },
+      {
+        "pmid": "28323224",
+        "title": "Progressive multifocal leukoencephalopathy and rheumatoid arthritis treatments.",
+        "abstract": "Progressive multifocal leukoencephalopathy (PML) is a demyelinating disease of the central nervous system due to reactivation of the JC virus (JCV). PML is extremely uncommon despite the high prevalence of the virus in the general population. No specific treatment is available, and the prognosis is bleak. The diagnosis is based on brain imaging findings, detection of the JCV genome in cerebrospinal fluid samples and, in some cases, histological studies of the brain lesions. The pathophysiological mechanisms that drive the development of PML are incompletely understood. However, a consistent feature is the presence of a predisposing factor, most notably immunosuppression. The risk of developing PML varies with the underlying disease (e.g., HIV infection or autoimmune disease) and with the drugs used to treat them. Biologics have been ranked according to the risk of PML during their use. Natalizumab, a monoclonal antibody given to treat multiple sclerosis, is among the drugs associated w",
+        "journal": "Joint bone spine",
+        "year": "2017",
+        "authors": [
+          "Clavel Gaëlle",
+          "Moulignier Antoine",
+          "Semerano Luca"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Arthritis, Rheumatoid",
+          "Biological Products",
+          "Female",
+          "HIV Infections",
+          "Humans",
+          "Incidence",
+          "Leukoencephalopathy, Progressive Multifocal",
+          "Male",
+          "Natalizumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28323224/"
+      },
+      {
+        "pmid": "25747348",
+        "title": "Rheumatoid arthritis: Perioperative management of biologics and DMARDs.",
+        "abstract": "Arthroplasty remains prevalent for patients with rheumatoid arthritis (RA), but outcomes are not equivalent to patients with osteoarthritis, and complications including infection are increased. The objective of this article is to review the current evidence supporting perioperative medication management. Challenges are discussed such as continuing potent disease-modifying therapy (DMARDs) and biologics, which may increase infection risk, versus withholding these medications, which may result in disease flares.",
+        "journal": "Seminars in arthritis and rheumatism",
+        "year": "2015",
+        "authors": [
+          "Goodman Susan M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abatacept",
+          "Adalimumab",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Arthroplasty, Replacement",
+          "Biological Products",
+          "Etanercept",
+          "Humans",
+          "Hydroxychloroquine",
+          "Methotrexate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25747348/"
+      },
+      {
+        "pmid": "26692536",
+        "title": "Comparative efficacy and safety of tocilizumab, rituximab, abatacept and tofacitinib in patients with active rheumatoid arthritis that inadequately responds to tumor necrosis factor inhibitors: a Bayesian network meta-analysis of randomized controlled trials.",
+        "abstract": "This study aimed to assess the relative efficacy and safety of biologics and tofacitinib in patients with rheumatoid arthritis (RA) showing an inadequate response to tumor necrosis factor (TNF) inhibitors.",
+        "journal": "International journal of rheumatic diseases",
+        "year": "2016",
+        "authors": [
+          "Lee Young Ho",
+          "Bae Sang-Cheol"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Abatacept",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Bayes Theorem",
+          "Biological Products",
+          "Drug Substitution",
+          "Humans",
+          "Odds Ratio",
+          "Piperidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26692536/"
+      },
+      {
+        "pmid": "29780157",
+        "title": "Targeting Acquired Hemophilia A with Rheumatoid Arthritis by a Rituximab Shot: A Case Report and Review of the Literature.",
+        "abstract": "BACKGROUND Acquired hemophilia A (AH) is a rare hemorrhagic diathesis, characterized by the presence of autoantibodies directed against the pro-coagulant activity of factor VIII. It is associated with rheumatoid arthritis (RA) in 4% to 8% of cases and its prognosis remains severe. CASE REPORT A 66-year-old patient has been followed up for 20 years for deforming and severe RA, which was in low-disease activity. However, the patient presented a polyarticular flare involving the metacarpophalangeal and the proximal interphalangeal joints, the left elbow, and the right knee, which was warm and swollen. Articular puncture of this knee yielded a hematic fluid that did not coagulate. Its cytological analysis showed significant presence of red blood cells, which were also abundantly present in the other cell lines. Activated partial thromboplastin time was lengthened and not corrected by the addition of control plasma. Prothrombin time (Quick's test), fibrinogen level, and vitamin K-dependent ",
+        "journal": "The American journal of case reports",
+        "year": "2018",
+        "authors": [
+          "Ghozlani Imad",
+          "Mounach Aziza",
+          "Ghazi Mirieme",
+          "Kherrab Anass",
+          "Niamane Radouane"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Hemophilia A",
+          "Humans",
+          "Male",
+          "Methotrexate",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29780157/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:23:51.316199",
+  "success": true,
+  "error_message": null
+}

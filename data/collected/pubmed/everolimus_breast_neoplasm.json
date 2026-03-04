@@ -1,0 +1,624 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Everolimus",
+    "disease": "breast neoplasm",
+    "query_string": "Everolimus AND breast neoplasm"
+  },
+  "data": {
+    "query": "Everolimus AND breast neoplasm",
+    "results": [
+      {
+        "pmid": "22149876",
+        "title": "Everolimus in postmenopausal hormone-receptor-positive advanced breast cancer.",
+        "abstract": "Resistance to endocrine therapy in breast cancer is associated with activation of the mammalian target of rapamycin (mTOR) intracellular signaling pathway. In early studies, the mTOR inhibitor everolimus added to endocrine therapy showed antitumor activity.",
+        "journal": "The New England journal of medicine",
+        "year": "2012",
+        "authors": [
+          "Baselga José",
+          "Campone Mario",
+          "Piccart Martine",
+          "Burris Howard A",
+          "Rugo Hope S"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Androstadienes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Aromatase Inhibitors",
+          "Bone Neoplasms",
+          "Breast Neoplasms",
+          "Disease-Free Survival",
+          "ErbB Receptors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22149876/"
+      },
+      {
+        "pmid": "33722897",
+        "title": "Phase I/II Trial of Exemestane, Ribociclib, and Everolimus in Women with HR+/HER2- Advanced Breast Cancer after Progression on CDK4/6 Inhibitors (TRINITI-1).",
+        "abstract": "Standard-of-care treatment for metastatic hormone receptor-positive (HR+), HER2-negative (HER2-) breast cancer includes endocrine therapy (ET) combined with a cyclin-dependent kinase 4/6 inhibitor (CDK4/6i). Optimal treatment after progression on CDK4/6i is unknown. The TRINITI-1 trial investigated ribociclib, a CDK4/6i that has recently demonstrated significant overall survival benefit in two phase III trials, in combination with everolimus and exemestane in patients with HR+, HER2- advanced breast cancer (ABC) after progression on a CDK4/6i.",
+        "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "year": "2021",
+        "authors": [
+          "Bardia Aditya",
+          "Hurvitz Sara A",
+          "DeMichele Angela",
+          "Clark Amy S",
+          "Zelnak Amelia"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Aminopyridines",
+          "Androstadienes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Cyclin-Dependent Kinase 4",
+          "Cyclin-Dependent Kinase 6",
+          "Disease Progression"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33722897/"
+      },
+      {
+        "pmid": "24158787",
+        "title": "Everolimus plus exemestane in postmenopausal patients with HR(+) breast cancer: BOLERO-2 final progression-free survival analysis.",
+        "abstract": "Effective treatments for hormone-receptor-positive (HR(+)) breast cancer (BC) following relapse/progression on nonsteroidal aromatase inhibitor (NSAI) therapy are needed. Initial Breast Cancer Trials of OraL EveROlimus-2 (BOLERO-2) trial data demonstrated that everolimus and exemestane significantly prolonged progression-free survival (PFS) versus placebo plus exemestane alone in this patient population.",
+        "journal": "Advances in therapy",
+        "year": "2013",
+        "authors": [
+          "Yardley Denise A",
+          "Noguchi Shinzaburo",
+          "Pritchard Kathleen I",
+          "Burris Howard A",
+          "Baselga José"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Androstadienes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bone Neoplasms",
+          "Breast Neoplasms",
+          "Disease-Free Survival",
+          "Double-Blind Method",
+          "Everolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24158787/"
+      },
+      {
+        "pmid": "33151471",
+        "title": "Everolimus in Advanced Breast Cancer: A Systematic Review and Meta-analysis.",
+        "abstract": "Everolimus plus exemestane is approved for the treatment of hormone receptor-positive metastatic breast cancer (MBC) after progression on nonsteroidal aromatase inhibitors. The role of everolimus is less well defined in other breast cancer phenotypes and in combination with other drugs.",
+        "journal": "Targeted oncology",
+        "year": "2020",
+        "authors": [
+          "Raphael Jacques",
+          "Lefebvre Cory",
+          "Allan Alison",
+          "Helou Joelle",
+          "Boldt Gabriel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Breast Neoplasms",
+          "Everolimus",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33151471/"
+      },
+      {
+        "pmid": "39241211",
+        "title": "Imlunestrant, an Oral Selective Estrogen Receptor Degrader, as Monotherapy and in Combination With Targeted Therapy in Estrogen Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Advanced Breast Cancer: Phase Ia/Ib EMBER Study.",
+        "abstract": "Imlunestrant is a next-generation oral selective estrogen receptor (ER) degrader designed to deliver continuous ER target inhibition, including in ESR1-mutant breast cancer. This phase Ia/b trial determined the recommended phase II dose (RP2D), safety, pharmacokinetics, and efficacy of imlunestrant, as monotherapy and in combination with targeted therapy, in ER-positive (ER+) advanced breast cancer (ABC) and endometrial endometrioid cancer. The ER+/human epidermal growth factor receptor 2-negative (HER2-) ABC experience is reported here.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2024",
+        "authors": [
+          "Jhaveri Komal L",
+          "Lim Elgene",
+          "Jeselsohn Rinath",
+          "Ma Cynthia X",
+          "Hamilton Erika P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase I",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Breast Neoplasms",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Aged",
+          "Everolimus",
+          "Benzimidazoles",
+          "Adult",
+          "Receptors, Estrogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39241211/"
+      },
+      {
+        "pmid": "24756805",
+        "title": "Everolimus.",
+        "abstract": "Everolimus (RAD001, Afinitor®) is an oral protein kinase inhibitor of the mammalian target of rapamycin (mTOR) serine/threonine kinase signal transduction pathway. The mTOR pathway regulates cell growth, proliferation, and survival and is frequently deregulated in cancer. Everolimus has been approved by the FDA and the EMA for the treatment of advanced renal cell carcinoma (RCC), subependymal giant cell astrocytoma (SEGA) associated with tuberous sclerosis (TSC), pancreatic neuroendocrine tumors (PNET), in combination with exemestane in advanced hormone-receptor (HR)-positive, HER2-negative breast cancer. Everolimus shows promising clinical activity in additional indications. Multiple phase 2 and phase 3 trials of everolimus alone or in combination are ongoing and will help to further elucidate the role of mTOR in oncology. For a review on everolimus as immunosuppressant, please consult other sources.",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2014",
+        "authors": [
+          "Hasskarl Jens"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Everolimus",
+          "Humans",
+          "Neoplasms",
+          "Protein Kinase Inhibitors",
+          "Signal Transduction",
+          "Sirolimus",
+          "TOR Serine-Threonine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24756805/"
+      },
+      {
+        "pmid": "38503755",
+        "title": "Exemestane plus everolimus and palbociclib in metastatic breast cancer: clinical response and genomic/transcriptomic determinants of resistance in a phase I/II trial.",
+        "abstract": "The landscape of cyclin-dependent kinase 4/6 inhibitor (CDK4/6i) resistance is still being elucidated and the optimal subsequent therapy to overcome resistance remains uncertain. Here we present the final results of a phase Ib/IIa, open-label trial (NCT02871791) of exemestane plus everolimus and palbociclib for CDK4/6i-resistant metastatic breast cancer. The primary objective of phase Ib was to evaluate safety and tolerability and determine the maximum tolerated dose/recommended phase II dose (100 mg palbociclib, 5 mg everolimus, 25 mg exemestane). The primary objective of phase IIa was to determine the clinical benefit rate (18.8%, n = 6/32), which did not meet the predefined endpoint (65%). Secondary objectives included pharmacokinetic profiling (phase Ib), objective response rate, disease control rate, duration of response, and progression free survival (phase IIa), and correlative multi-omics analysis to investigate biomarkers of resistance to CDK4/6i. All participants were female.",
+        "journal": "Nature communications",
+        "year": "2024",
+        "authors": [
+          "Gómez Tejeda Zañudo Jorge",
+          "Barroso-Sousa Romualdo",
+          "Jain Esha",
+          "Jin Qingchun",
+          "Li Tianyu"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Breast Neoplasms",
+          "Everolimus",
+          "Transcriptome",
+          "Proto-Oncogene Proteins B-raf",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Erb-b2 Receptor Tyrosine Kinases",
+          "Gene Expression Profiling",
+          "Genomics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38503755/"
+      },
+      {
+        "pmid": "38748783",
+        "title": "The DRAP1/DR1 Repressor Complex Increases mTOR Activity to Promote Progression and Confer Everolimus Sensitivity in Triple-Negative Breast Cancer.",
+        "abstract": "Triple-negative breast cancer (TNBC) is the most aggressive subtype of breast cancer. Transcriptional dysregulation is a hallmark of cancer, and several transcriptional regulators have been demonstrated to contribute to cancer progression. In this study, we identified an upregulation of the transcriptional corepressor downregulator of transcription 1-associated protein 1 (DRAP1) in TNBC, which was closely associated with poor recurrence-free survival in patients with TNBC. DRAP1 promoted TNBC proliferation, migration, and invasion in vitro and tumor growth and metastasis in vivo. Mechanistically, the downregulator of transcription 1 (DR1)/DRAP1 heterodimer complex inhibited expression of the cytosolic arginine sensor for mTORC1 subunit 1 (CASTOR1) and thereby increased activation of mTOR, which sensitized TNBC to treatment with the mTOR inhibitor everolimus. DRAP1 and DR1 also formed a positive feedback loop. DRAP1 enhanced the stability of DR1 by recruiting the deubiquitinase USP7 to ",
+        "journal": "Cancer research",
+        "year": "2024",
+        "authors": [
+          "Huang Min-Ying",
+          "Hu Shu-Yuan",
+          "Dong Jia",
+          "Deng Ling",
+          "Andriani Lisa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Triple Negative Breast Neoplasms",
+          "Humans",
+          "Female",
+          "TOR Serine-Threonine Kinases",
+          "Everolimus",
+          "Animals",
+          "Mice",
+          "Disease Progression",
+          "Cell Proliferation",
+          "Cell Line, Tumor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38748783/"
+      },
+      {
+        "pmid": "28314691",
+        "title": "Prevention of everolimus-related stomatitis in women with hormone receptor-positive, HER2-negative metastatic breast cancer using dexamethasone mouthwash (SWISH): a single-arm, phase 2 trial.",
+        "abstract": "Stomatitis is a class effect associated with the inhibition of mTOR and is associated with everolimus therapy for breast cancer. Topical steroids might reduce stomatitis incidence and severity, and the need for dose reductions and interruptions of everolimus. Anecdotal use of topical steroid oral prophylaxis has been reported in patients with breast cancer. We aimed to assess dexamethasone-based mouthwash for prevention of stomatitis in patients with breast cancer.",
+        "journal": "The Lancet. Oncology",
+        "year": "2017",
+        "authors": [
+          "Rugo Hope S",
+          "Seneviratne Lasika",
+          "Beck J Thaddeus",
+          "Glaspy John A",
+          "Peguero Julio A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Aged",
+          "Androstadienes",
+          "Anti-Inflammatory Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Dexamethasone",
+          "Drug Eruptions",
+          "Dyspnea",
+          "Everolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28314691/"
+      },
+      {
+        "pmid": "25231953",
+        "title": "Everolimus plus exemestane for hormone-receptor-positive, human epidermal growth factor receptor-2-negative advanced breast cancer: overall survival results from BOLERO-2†.",
+        "abstract": "The BOLERO-2 study previously demonstrated that adding everolimus (EVE) to exemestane (EXE) significantly improved progression-free survival (PFS) by more than twofold in patients with hormone-receptor-positive (HR(+)), HER2-negative advanced breast cancer that recurred or progressed during/after treatment with nonsteroidal aromatase inhibitors (NSAIs). The overall survival (OS) analysis is presented here.",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2014",
+        "authors": [
+          "Piccart M",
+          "Hortobagyi G N",
+          "Campone M",
+          "Pritchard K I",
+          "Lebrun F"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Androstadienes",
+          "Breast Neoplasms",
+          "Double-Blind Method",
+          "ErbB Receptors",
+          "Everolimus",
+          "Female",
+          "Humans",
+          "Placebos",
+          "Sirolimus",
+          "Survival Analysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25231953/"
+      },
+      {
+        "pmid": "30069763",
+        "title": "Everolimus.",
+        "abstract": "Everolimus (RAD001) is an oral protein kinase inhibitor of the mTOR (mammalian target of rapamycin) serine/threonine kinase signal transduction pathway. The mTOR pathway regulates cell growth, proliferation and survival, and is frequently deregulated in cancer.The EMA has approved Everolimus as Afinitor® for the treatment of hormone receptor-positive, HER2/neu-negative advanced breast cancer, in combination with exemestane, in postmenopausal women without symptomatic visceral disease after recurrence or progression following a nonsteroidal aromatase inhibitor, for the treatment of unresectable or metastatic, well- or moderately differentiated neuroendocrine tumors of pancreatic origin in adults with progressive disease, and for the treatment of unresectable or metastatic, well-differentiated (Grade 1 or Grade 2) nonfunctional neuroendocrine tumors of gastrointestinal or lung origin in adults with progressive disease, and for the treatment of patients with advanced renal cell carcinoma,",
+        "journal": "Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer",
+        "year": "2018",
+        "authors": [
+          "Hasskarl Jens"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Everolimus",
+          "Humans",
+          "Neoplasms",
+          "Protein Kinase Inhibitors",
+          "Signal Transduction",
+          "TOR Serine-Threonine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30069763/"
+      },
+      {
+        "pmid": "29664714",
+        "title": "Randomized Phase II Trial of Fulvestrant Plus Everolimus or Placebo in Postmenopausal Women With Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer Resistant to Aromatase Inhibitor Therapy: Results of PrE0102.",
+        "abstract": "Purpose The mammalian target of rapamycin inhibitor everolimus targets aberrant signaling through the PI3K/AKT/mammalian target of rapamycin pathway, a mechanism of resistance to anti-estrogen therapy in estrogen receptor (ER)-positive breast cancer. We hypothesized that everolimus plus the selective ER downregulator fulvestrant would be more efficacious than fulvestrant alone in ER-positive metastatic breast cancer resistant to aromatase inhibitor (AI) therapy. Patients and Methods This randomized, double-blind, placebo-controlled, phase II study included 131 postmenopausal women with ER-positive, human epidermal growth factor receptor 2-negative, AI-resistant metastatic breast cancer randomly assigned to fulvestrant (500 mg days 1 and 15 of cycle 1, then day 1 of cycles 2 and beyond) plus everolimus or placebo. The study was designed to have 90% power to detect a 70% improvement in median progression-free survival from 5.4 months to 9.2 months. Secondary end points included objective",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2018",
+        "authors": [
+          "Kornblum Noah",
+          "Zhao Fengmin",
+          "Manola Judith",
+          "Klein Paula",
+          "Ramaswamy Bhuvaneswari"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Aromatase Inhibitors",
+          "Biomarkers, Tumor",
+          "Breast Neoplasms",
+          "Double-Blind Method",
+          "Drug Synergism",
+          "Everolimus",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29664714/"
+      },
+      {
+        "pmid": "34041638",
+        "title": "Real-world pharmacokinetics and pharmacodynamics of everolimus in metastatic breast cancer.",
+        "abstract": "Purpose This study investigated the relationship between the pharmacokinetics and pharmacodynamics of everolimus in patients with metastatic breast cancer (mBC) in real-world practice.Methods Twenty-two patients with mBC treated with everolimus plus exemestane were enrolled. Blood everolimus concentrations were measured at outpatient visits. The inhibition of the mammalian target of rapamycin (mTOR) activity in peripheral blood mononuclear cells (PBMCs) was examined. The efficacy and safety endpoints were progression-free survival (PFS) and the cumulative incidence of dose-limiting toxicities (DLTs), respectively. Results Blood samples were obtained from 19 consenting patients. Everolimus did not completely inhibit mTOR activity in PBMCs at therapeutic concentrations (~ 56 % maximal inhibition). The most common adverse event was stomatitis (any grade 77 %). The trough concentration (Ctrough) was significantly higher in patients experiencing DLTs than in those without any DLTs (P = 0.03",
+        "journal": "Investigational new drugs",
+        "year": "2021",
+        "authors": [
+          "Fukudo Masahide",
+          "Ishibashi Kei",
+          "Kitada Masahiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents",
+          "Breast Neoplasms",
+          "Dose-Response Relationship, Drug",
+          "Everolimus",
+          "Female",
+          "Genotype",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34041638/"
+      },
+      {
+        "pmid": "23907751",
+        "title": "Everolimus: side effect profile and management of toxicities in breast cancer.",
+        "abstract": "Everolimus is an orally available inhibitor of the mammalian target of rapamycin (mTOR), which has been approved in combination with exemestane for hormone receptor-positive (HR) breast cancer after failure of treatment with non-steroidal aromatase inhibitors. Everolimus is generally very well tolerated with most common side effects including stomatitis, rash, fatigue, hyperglycemia, hyperlipidemia, and myelosuppression. Most of these side effects are mild and resolve with dose interruptions or dose reductions. Symptomatic non-infectious pneumonitis is a relatively uncommon class effect of mTOR inhibitors, which can be life threatening. Given the efficacy of everolimus in HR-positive metastatic breast cancer, it is crucial for physicians to recognize toxicities related to everolimus and start timely interventions. This review will focus on the adverse events reported with everolimus in breast cancer trials and will provide practical guidelines for the management of these adverse events",
+        "journal": "Breast cancer research and treatment",
+        "year": "2013",
+        "authors": [
+          "Paplomata Elisavet",
+          "Zelnak Amelia",
+          "O'Regan Ruth"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Breast Neoplasms",
+          "Everolimus",
+          "Fatigue",
+          "Female",
+          "Humans",
+          "Hyperglycemia",
+          "Hyperlipidemias",
+          "Pneumonia",
+          "Sirolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23907751/"
+      },
+      {
+        "pmid": "36453053",
+        "title": "Everolimus for Estrogen Receptor-negative Breast Cancer Prevention: A Journey Begun?",
+        "abstract": "Tamoxifen, the prototypic medication for breast cancer prevention, was approved for this purpose by the FDA in 1998. Other drugs have been proven to be effective in the ensuing decades. But the two major limitations of these have become clear over time: a lack of protection against hormone receptor-negative breast cancer, and a profile of safety and tolerability that is unacceptable to the majority of women at increased breast cancer risk. Recent preclinical data on targeting of the key oncogenic pathway of PI3K/AKT/mTOR signaling with drugs such as rapamycin and everolimus are provocative. Their efficacy signal should be pursued with further research, but their safety and tolerability profiles remain a concern. See related article by Mazumdar et al., p. 791.",
+        "journal": "Cancer prevention research (Philadelphia, Pa.)",
+        "year": "2022",
+        "authors": [
+          "Nye Lauren",
+          "Khan Seema A"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Everolimus",
+          "Receptors, Estrogen",
+          "Phosphatidylinositol 3-Kinases",
+          "Triple Negative Breast Neoplasms",
+          "TOR Serine-Threonine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36453053/"
+      },
+      {
+        "pmid": "25659402",
+        "title": "Evaluating the pharmacokinetics and pharmacodynamics of everolimus for treating breast cancer.",
+        "abstract": "The aberrant activation of the phosphoinositide 3-kinase-Akt-mTOR signaling pathway is a common mechanism of resistance to endocrine therapy and human epidermal growth factor receptor 2 (HER2)-targeted treatments in breast cancer. Data from large clinical trials have shown that the combination of everolimus , an orally bioavailable mTOR inhibitor with exemestane improves outcome of metastatic breast cancer resistant to non-steroidal aromatase inhibitors. On the other hand, the addition of everolimus to trastuzumab in order to overcome resistance did not show meaningful clinical benefit in recent reported Phase III clinical trials. Everolimus has a favorable pharmacokinetic (PK) profile in early breast cancer studies. The association of endocrine therapy and HER2-targeted agents did not influence the main PK parameters of the drugs.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2015",
+        "authors": [
+          "Gombos Andrea",
+          "Barthélémy Philippe",
+          "Awada Ahmad"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androstadienes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Drug Resistance, Neoplasm",
+          "Everolimus",
+          "Female",
+          "Humans",
+          "Phosphatidylinositol 3-Kinases",
+          "Proto-Oncogene Proteins c-akt",
+          "TOR Serine-Threonine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25659402/"
+      },
+      {
+        "pmid": "35597619",
+        "title": "Everolimus and exemestane in hormone receptor positive advanced breast cancer: A comprehensive cancer center's experience.",
+        "abstract": "",
+        "journal": "Bulletin du cancer",
+        "year": "2022",
+        "authors": [
+          "Moreira Inês",
+          "Afonso Ana",
+          "Abreu Miguel",
+          "Sousa Susana",
+          "Ferreira Marta"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Androstadienes",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Everolimus",
+          "Female",
+          "Humans",
+          "Erb-b2 Receptor Tyrosine Kinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35597619/"
+      },
+      {
+        "pmid": "40897974",
+        "title": "Targeting dormant tumor cells to prevent recurrent breast cancer: a randomized phase 2 trial.",
+        "abstract": "Breast cancer recurrence may arise from dormant disseminated tumor cells (DTCs) that persist in bone marrow and other sites. Clinically, DTCs are independently associated with breast cancer recurrence and death. Preclinical studies in mouse models identified autophagy and mammalian target of rapamycin (mTOR) signaling as critical mechanisms of tumor dormancy and escape. We subsequently tested the effects of transient versus chronic inhibition of autophagy with chloroquine or hydroxychloroquine (HCQ) and mTOR signaling with rapamycin (RAPA) or everolimus (EVE) on residual tumor cell (RTC) burden and recurrence-free survival (RFS). In mice harboring dormant RTCs, inhibition of mTOR alone or in combination with autophagy inhibition decreased RTC burden and improved RFS in a duration-dependent manner. RTC number was strongly and inversely correlated with RFS, suggesting that RTC reduction mediated an improvement in RFS. To translate findings clinically, we performed a randomized phase 2 tr",
+        "journal": "Nature medicine",
+        "year": "2025",
+        "authors": [
+          "DeMichele Angela",
+          "Clark Amy S",
+          "Shea Emily",
+          "Bayne Lauren J",
+          "Sterner Christopher J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Breast Neoplasms",
+          "Humans",
+          "Animals",
+          "Neoplasm Recurrence, Local",
+          "Mice",
+          "Middle Aged",
+          "Everolimus",
+          "Hydroxychloroquine",
+          "Sirolimus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40897974/"
+      },
+      {
+        "pmid": "28385537",
+        "title": "Phase I Trial of Everolimus and Capecitabine in Metastatic HER2- Breast Cancer.",
+        "abstract": "The mammalian target of rapamycin (mTOR) pathway is a driver of breast tumorigenesis. The mTOR inhibitor everolimus reverses antihormonal therapy resistance and is an approved therapy for metastatic breast cancer. A synergistic effect with fluoropyrimidine has been suggested. The present study evaluated the safety and tolerability of an all-oral combination of everolimus and capecitabine for metastatic breast cancer (MBC).",
+        "journal": "Clinical breast cancer",
+        "year": "2017",
+        "authors": [
+          "Vidal Gregory A",
+          "Chen Mary",
+          "Sheth Shruti",
+          "Svahn Tiffany",
+          "Guardino Ellie"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Capecitabine",
+          "Disease-Free Survival",
+          "Dose-Response Relationship, Drug",
+          "Everolimus",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28385537/"
+      },
+      {
+        "pmid": "36735117",
+        "title": "A phase I/II study of preoperative letrozole, everolimus, and carotuximab in stage 2 and 3 hormone receptor-positive and Her2-negative breast cancer.",
+        "abstract": "In nonmetastatic hormone receptor-positive and Her2-negative breast cancer, preoperative endocrine therapies can yield outcomes similar with chemotherapy. We evaluated the tolerability and preliminary antitumor activity of preoperative letrozole, everolimus, and carotuximab, a monoclonal antibody targeting endoglin, in nonmetastatic breast cancer.",
+        "journal": "Breast cancer research and treatment",
+        "year": "2023",
+        "authors": [
+          "Vaklavas Christos",
+          "Stringer-Reasor Erica M",
+          "Elkhanany Ahmed M",
+          "Ryan Kevin J",
+          "Li Yufeng"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Breast Neoplasms",
+          "Letrozole",
+          "Everolimus",
+          "Tissue Distribution",
+          "Erb-b2 Receptor Tyrosine Kinases",
+          "Biomarkers, Tumor",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36735117/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:37:25.060127",
+  "success": true,
+  "error_message": null
+}

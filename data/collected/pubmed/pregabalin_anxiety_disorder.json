@@ -1,0 +1,512 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Pregabalin",
+    "disease": "anxiety disorder",
+    "query_string": "Pregabalin AND anxiety disorder"
+  },
+  "data": {
+    "query": "Pregabalin AND anxiety disorder",
+    "results": [
+      {
+        "pmid": "34819636",
+        "title": "Gabapentin and pregabalin in bipolar disorder, anxiety states, and insomnia: Systematic review, meta-analysis, and rationale.",
+        "abstract": "The gabapentinoids, gabapentin, and pregabalin, target the α2δ subunits of voltage-gated calcium channels. Initially licensed for pain and seizures, they have become widely prescribed drugs. Many of these uses are off-label for psychiatric indications, and there is increasing concern about their safety, so it is particularly important to have good evidence to justify this usage. We conducted a systematic review and meta-analysis of the evidence for three of their common psychiatric uses: bipolar disorder, anxiety, and insomnia. Fifty-five double-blind randomised controlled trials (RCTs) and 15 open-label studies were identified. For bipolar disorder, four double-blind RCTs investigating gabapentin, and no double-blind RCTs investigating pregabalin, were identified. A quantitative synthesis could not be performed due to heterogeneity in the study population, design and outcome measures. Across the anxiety spectrum, a consistent but not universal effect in favour of gabapentinoids compar",
+        "journal": "Molecular psychiatry",
+        "year": "2022",
+        "authors": [
+          "Hong James S W",
+          "Atkinson Lauren Z",
+          "Al-Juffali Noura",
+          "Awad Amine",
+          "Geddes John R"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Anxiety",
+          "Bipolar Disorder",
+          "Calcium Channels",
+          "Cyclohexanecarboxylic Acids",
+          "Gabapentin",
+          "Humans",
+          "Pregabalin",
+          "Randomized Controlled Trials as Topic",
+          "Sleep Initiation and Maintenance Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34819636/"
+      },
+      {
+        "pmid": "37183813",
+        "title": "Pharmacological Treatment of Generalised Anxiety Disorder: Current Practice and Future Directions.",
+        "abstract": "Generalized Anxiety Disorder (GAD) is a common psychiatric condition, characterized by the presence of general apprehensiveness and excessive worry. Current management consists of a range of pharmacological and psychological treatments. However, many patients do not respond to first-line pharmacological treatments and novel anxiolytic drugs are being developed.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2023",
+        "authors": [
+          "Fagan Harry A",
+          "Baldwin David S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Anxiety Agents",
+          "Anxiety Disorders",
+          "Duloxetine Hydrochloride",
+          "Pregabalin",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37183813/"
+      },
+      {
+        "pmid": "30712879",
+        "title": "Pharmacological treatments for generalised anxiety disorder: a systematic review and network meta-analysis.",
+        "abstract": "Generalised anxiety disorder is a disease that can be associated with substantial dysfunction. Pharmacological treatment is often the first choice for clinicians because of the cost and resource constraints of psychological alternatives, but there is a paucity of comparative information for the multiple available drug choices.",
+        "journal": "Lancet (London, England)",
+        "year": "2019",
+        "authors": [
+          "Slee April",
+          "Nazareth Irwin",
+          "Bondaronek Paulina",
+          "Liu Yifeng",
+          "Cheng Zhihang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anti-Anxiety Agents",
+          "Antidepressive Agents",
+          "Anxiety Disorders",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Hypnotics and Sedatives",
+          "Male",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30712879/"
+      },
+      {
+        "pmid": "33424664",
+        "title": "Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options.",
+        "abstract": "Anxiety disorders are the most prevalent psychiatric disorders and a leading cause of disability. While there continues to be expansive research in posttraumatic stress disorder (PTSD), depression and schizophrenia, there is a relative dearth of novel medications under investigation for anxiety disorders. This review's first aim is to summarize current pharmacological treatments (both approved and off-label) for panic disorder (PD), generalized anxiety disorder (GAD), social anxiety disorder (SAD), and specific phobias (SP), including selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), azapirones (e.g., buspirone), mixed antidepressants (e.g., mirtazapine), antipsychotics, antihistamines (e.g., hydroxyzine), alpha- and beta-adrenergic medications (e.g., propranolol, clonidine), and GABAergic medications (benzodiazepines, pregabalin, and gabapentin). Posttraumatic stress disorder and obsessive-compulsive disorder are excluded from this ",
+        "journal": "Frontiers in psychiatry",
+        "year": "2020",
+        "authors": [
+          "Garakani Amir",
+          "Murrough James W",
+          "Freire Rafael C",
+          "Thom Robyn P",
+          "Larkin Kaitlyn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33424664/"
+      },
+      {
+        "pmid": "28867934",
+        "title": "Treatment of anxiety disorders.",
+        "abstract": "Anxiety disorders (generalized anxiety disorder, panic disorder/agoraphobia, social anxiety disorder, and others) are the most prevalent psychiatric disorders, and are associated with a high burden of illness. Anxiety disorders are often underrecognized and undertreated in primary care. Treatment is indicated when a patient shows marked distress or suffers from complications resulting from the disorder. The treatment recommendations given in this article are based on guidelines, meta-analyses, and systematic reviews of randomized controlled studies. Anxiety disorders should be treated with psychological therapy, pharmacotherapy, or a combination of both. Cognitive behavioral therapy can be regarded as the psychotherapy with the highest level of evidence. First-line drugs are the selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors. Benzodiazepines are not recommended for routine use. Other treatment options include pregabalin, tricyclic antidepressan",
+        "journal": "Dialogues in clinical neuroscience",
+        "year": "2017",
+        "authors": [
+          "Bandelow Borwin",
+          "Michaelis Sophie",
+          "Wedekind Dirk"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Anxiety Agents",
+          "Anxiety Disorders",
+          "Benzodiazepines",
+          "Cognitive Behavioral Therapy",
+          "Humans",
+          "Psychotherapy",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28867934/"
+      },
+      {
+        "pmid": "30056792",
+        "title": "Pharmacotherapy for generalized anxiety disorder in adult and pediatric patients: an evidence-based treatment review.",
+        "abstract": "Generalized anxiety disorder (GAD) often begins during adolescence or early adulthood and persists throughout the lifespan. Randomized controlled trials support the efficacy of selective serotonin and selective serotonin norepinephrine reuptake inhibitors (SSRIs and SNRIs, respectively), as well as benzodiazepines, azapirones, anti-adrenergic medications, melatonin analogs, second-generation antipsychotics, kava, and lavender oil in GAD. However, psychopharmacologic treatment selection requires clinicians to consider multiple factors, including age, co-morbidity, and prior treatment. Areas covered: The authors review the literature concerning pharmacotherapy for pediatric and adult patients with GAD with specific commentary on the efficacy and tolerability of selected agents in these age groups. The authors describe an algorithmic approach to the pediatric and adult patient with GAD and highlight considerations for the use of selected medications in these patients. Expert opinion: In a",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2018",
+        "authors": [
+          "Strawn Jeffrey R",
+          "Geracioti Laura",
+          "Rajdev Neil",
+          "Clemenza Kelly",
+          "Levine Amir"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Anxiety Disorders",
+          "Child",
+          "Evidence-Based Practice",
+          "Humans",
+          "Monoamine Oxidase Inhibitors",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Serotonin and Noradrenaline Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30056792/"
+      },
+      {
+        "pmid": "39989902",
+        "title": "Does pregabalin offer potential as a first-line therapy for generalized anxiety disorder? A meta-analysis of efficacy, safety, and cost-effectiveness.",
+        "abstract": "Generalized Anxiety Disorder (GAD) is a mental health condition with a recent increase in prevalence. GAD is often underdiagnosed, leading to negative consequences for individuals, healthcare systems, and society. The economic burden and impaired quality of life associated with GAD underscores the need for effective treatment. Pregabalin has shown promise in reducing anxiety symptoms; however, further research is needed to evaluate its efficacy and compare it with other treatment options. This study aimed to assess the efficacy, safety, and optimal pregabalin dosage for the treatment of GAD.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2025",
+        "authors": [
+          "Cardoner Narcis",
+          "Gutiérrez-Rojas Luis",
+          "Saiz Pilar",
+          "Lahera Guillermo",
+          "Álvarez-Mon Miguel Ángel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39989902/"
+      },
+      {
+        "pmid": "37956131",
+        "title": "Brazilian Psychiatric Association treatment guidelines for generalized anxiety disorder: perspectives on pharmacological and psychotherapeutic approaches.",
+        "abstract": "Generalized anxiety disorder is a highly prevalent mental disorder. Previous data indicate that more than 18 million Brazilians suffer from this condition. Traditionally, generalized anxiety disorder has been considered a mild mental health disorder, despite its links to lower life expectancy, cardiovascular disease, and suicide. The aim of this article is to combine elements of systematic and critical reviews to produce a synthesis of the best evidence about generalized anxiety disorder treatment. Systematic reviews, meta-analyses, and randomized controlled trials were included. The descriptor used in the search was \"generalized anxiety disorder,\" which resulted in 4,860 articles and seven other studies, of which 59 were selected. Antidepressants and benzodiazepines were indicated, as was pregabalin, and atypical antipsychotics, such as quetiapine, have been studied. Individual cognitive behavior therapy (third wave) has proven effective. There is extensive literature on many effectiv",
+        "journal": "Revista brasileira de psiquiatria (Sao Paulo, Brazil : 1999)",
+        "year": "2024",
+        "authors": [
+          "Baldaçara Leonardo",
+          "Paschoal Ana Beatriz",
+          "Pinto Aldo Felipe",
+          "Loureiro Fabiano Franca",
+          "Antonio Luiz Antonio Vesco Gaiotto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anti-Anxiety Agents",
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Anxiety Disorders",
+          "Brazil",
+          "Cognitive Behavioral Therapy",
+          "Practice Guidelines as Topic",
+          "Psychotherapy",
+          "Societies, Medical"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37956131/"
+      },
+      {
+        "pmid": "24713617",
+        "title": "Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: a revision of the 2005 guidelines from the British Association for Psychopharmacology.",
+        "abstract": "This revision of the 2005 British Association for Psychopharmacology guidelines for the evidence-based pharmacological treatment of anxiety disorders provides an update on key steps in diagnosis and clinical management, including recognition, acute treatment, longer-term treatment, combination treatment, and further approaches for patients who have not responded to first-line interventions. A consensus meeting involving international experts in anxiety disorders reviewed the main subject areas and considered the strength of supporting evidence and its clinical implications. The guidelines are based on available evidence, were constructed after extensive feedback from participants, and are presented as recommendations to aid clinical decision-making in primary, secondary and tertiary medical care. They may also serve as a source of information for patients, their carers, and medicines management and formulary committees.",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2014",
+        "authors": [
+          "Baldwin David S",
+          "Anderson Ian M",
+          "Nutt David J",
+          "Allgulander Christer",
+          "Bandelow Borwin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Anxiety Disorders",
+          "Decision Making",
+          "Delivery of Health Care",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Obsessive-Compulsive Disorder",
+          "Psychopharmacology",
+          "Stress Disorders, Post-Traumatic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24713617/"
+      },
+      {
+        "pmid": "30282583",
+        "title": "The Diagnosis and Treatment of Anxiety Disorders.",
+        "abstract": "Anxiety disorders are the most common type of mental illness in Europe, with a 12-month prevalence of 14% among persons aged 14 to 65. Their onset is usually in adolescence or early adulthood. The affected patients often develop further mental or somatic illnesses (sequential comorbidity).",
+        "journal": "Deutsches Arzteblatt international",
+        "year": "2018",
+        "authors": [
+          "Ströhle Andreas",
+          "Gensichen Jochen",
+          "Domschke Katharina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antidepressive Agents",
+          "Anxiety Disorders",
+          "Child",
+          "Cognitive Behavioral Therapy",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30282583/"
+      },
+      {
+        "pmid": "27643884",
+        "title": "Pregabalin for generalized anxiety disorder: an updated systematic review and meta-analysis.",
+        "abstract": "Generalized anxiety disorder (GAD), characterized by pervasive and highly distressing anxiety and worries, is associated with severe impairment. Although numerous agents from various drug classes are available to treat GAD, as many as 50% of patients have inadequate response, constituting an important medical frontier. In the face of this challenge, new pharmacological alternatives need to be further studied aiming at clinical improvement and better quality of life for patients. To assess the efficacy of pregabalin (PGB) compared with placebo for amelioration of anxiety symptoms in patients with GAD. A systematic literature search was performed using databases such as MEDLINE and EMBASE and other sources. The main outcome was Hedges' g for continuous scores. We used a random-effects model. Heterogeneity was evaluated with the I (moderate heterogeneity was assumed if I was >50% and high heterogeneity if I was >75%) and the χ-test (P<0.10 for heterogeneity). Publication bias was evaluate",
+        "journal": "International clinical psychopharmacology",
+        "year": "2017",
+        "authors": [
+          "Generoso Marcelo B",
+          "Trevizol Alisson P",
+          "Kasper Siegfried",
+          "Cho Hyong J",
+          "Cordeiro Quirino"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Anxiety Agents",
+          "Anxiety Disorders",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Pregabalin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27643884/"
+      },
+      {
+        "pmid": "24308277",
+        "title": "Pharmacotherapy of generalized anxiety disorder: focus and update on pregabalin.",
+        "abstract": "Generalized anxiety disorder (GAD) is one of the most common psychiatric disorders and clinically characterized by both psychological anxiety and somatic symptoms (muscular tension and autonomic symptoms). Next to serotonergic antidepressants, the Ca(2+) channel α2δ ligand pregabalin is an approved first-line treatment of GAD in many countries. Pregabalin is considered effective against psychological and somatic anxiety symptoms alike. However, occurrence of discontinuation syndromes and a growing number of reports regarding abuse or dependence during the last years are concerns, particularly in patients with a history of addictive behavior. Here we review key issues of GAD and the pharmacology and pharmacokinetics of pregabalin. Above all, we evaluate evidence from available randomized placebo-controlled as well as head-to-head clinical trials with other drugs regarding its efficacy and safety in the GAD treatment.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2014",
+        "authors": [
+          "Both Charlotte",
+          "Kojda Georg",
+          "Lange-Asschenfeldt Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Anxiety Agents",
+          "Anxiety Disorders",
+          "Humans",
+          "Pregabalin",
+          "Randomized Controlled Trials as Topic",
+          "gamma-Aminobutyric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24308277/"
+      },
+      {
+        "pmid": "26259772",
+        "title": "Efficacy and safety of pregabalin in generalised anxiety disorder: A critical review of the literature.",
+        "abstract": "The aim of this review is to summarise the literature on the efficacy and safety of pregabalin for the treatment of generalised anxiety disorder (GAD). Of 241 literature citations, 13 clinical trials were identified that were specifically designed to evaluate the efficacy and safety of pregabalin in GAD, including 11 randomised double-blind trials and two open-label studies. Pregabalin efficacy has been consistently demonstrated across the licensed dose range of 150-600 mg/day. Efficacy has been reported for pregabalin monotherapy in elderly patients with GAD, patients with severe anxiety, and for adjunctive therapy when added to a selective serotonin reuptake inhibitor or serotonin-norepinephrine reuptake inhibitor in patients who have failed to respond to an initial course of antidepressant therapy. The two most common adverse events with pregabalin are somnolence and dizziness, both of which appear to be dose-related. Pregabalin appears to have a low potential for causing withdrawal",
+        "journal": "Journal of psychopharmacology (Oxford, England)",
+        "year": "2015",
+        "authors": [
+          "Baldwin David S",
+          "den Boer Johan A",
+          "Lyndon Gavin",
+          "Emir Birol",
+          "Schweizer Edward"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Anxiety Agents",
+          "Anxiety Disorders",
+          "Double-Blind Method",
+          "Humans",
+          "Pregabalin",
+          "Randomized Controlled Trials as Topic",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26259772/"
+      },
+      {
+        "pmid": "27345098",
+        "title": "Alpha2delta ligands, gabapentin, pregabalin and mirogabalin: a review of their clinical pharmacology and therapeutic use.",
+        "abstract": "The first two alpha2delta ligands - gabapentin (GBP) and pregabalin (PGB) - were initially synthesized as antiepileptics; however, they were later also found to be useful for the treatment of additional conditions. Areas covered: Relevant publications describing potential underlying mechanisms, clinical pharmacokinetics/pharmacokinetics, and clinical efficacy and safety of these drugs in various disease conditions were searched in PubMed and Scopus and included in this review. Expert commentary: GBP and PGB are effective for the treatment neuropathic pain, fibromyalgia and epilepsy; in addition, they may be useful for the reduction of postoperative pain. PGB is also effective for the treatment of generalized anxiety disorder and GBP for the treatment of restless legs syndrome. GBP may be considered a treatment option for pain associated with Guillain-Barré Syndrome and phantom limb and for the management of uremic pruritus. Mirogabalin (MGB), recently developed, is being investigated f",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2016",
+        "authors": [
+          "Calandre Elena P",
+          "Rico-Villademoros Fernando",
+          "Slim Mahmoud"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Bridged Bicyclo Compounds",
+          "Calcium Channel Blockers",
+          "Cyclohexanecarboxylic Acids",
+          "Gabapentin",
+          "Humans",
+          "Ligands",
+          "Nervous System Diseases",
+          "Pregabalin",
+          "gamma-Aminobutyric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27345098/"
+      },
+      {
+        "pmid": "32039743",
+        "title": "Pharmacological treatments for social anxiety disorder in adults: a systematic review and network meta-analysis.",
+        "abstract": "The aim of this paper was to provide a systematic review and update on the pharmacotherapy of social anxiety disorder (SAD), including the efficacy and tolerability of these agents, the ranking of interventions, and the grading of results by quality of evidence.",
+        "journal": "Acta neuropsychiatrica",
+        "year": "2020",
+        "authors": [
+          "Williams Taryn",
+          "McCaul Michael",
+          "Schwarzer Guido",
+          "Cipriani Andrea",
+          "Stein Dan J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Network Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Anti-Anxiety Agents",
+          "Phobia, Social",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32039743/"
+      },
+      {
+        "pmid": "17126531",
+        "title": "Pharmacology and mechanism of action of pregabalin: the calcium channel alpha2-delta (alpha2-delta) subunit as a target for antiepileptic drug discovery.",
+        "abstract": "Pregabalin (Lyrica) is a new antiepileptic drug that is active in animal seizure models. Pregabalin is approved in US and Europe for adjunctive therapy of partial seizures in adults, and also has been approved for the treatment of pain from diabetic neuropathy or post-herpetic neuralgia in adults. Recently, it has been approved for treatment of anxiety disorders in Europe. Pregabalin is structurally related to the antiepileptic drug gabapentin and the site of action of both drugs is similar, the alpha2-delta (alpha2-delta) protein, an auxiliary subunit of voltage-gated calcium channels. Pregabalin subtly reduces the synaptic release of several neurotransmitters, apparently by binding to alpha2-delta subunits, and possibly accounting for its actions in vivo to reduce neuronal excitability and seizures. Several studies indicate that the pharmacology of pregabalin requires binding to alpha2-delta subunits, including structure-activity analyses of compounds binding to alpha2-delta subunits",
+        "journal": "Epilepsy research",
+        "year": "2007",
+        "authors": [
+          "Taylor Charles P",
+          "Angelotti Timothy",
+          "Fauman Eric"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amines",
+          "Amino Acid Sequence",
+          "Animals",
+          "Anticonvulsants",
+          "Calcium Channels",
+          "Cyclohexanecarboxylic Acids",
+          "Disease Models, Animal",
+          "Epilepsies, Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Gabapentin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17126531/"
+      },
+      {
+        "pmid": "36194365",
+        "title": "Psychobehavioural and Cognitive Adverse Events of Anti-Seizure Medications for the Treatment of Developmental and Epileptic Encephalopathies.",
+        "abstract": "The developmental and epileptic encephalopathies encompass a group of rare syndromes characterised by severe drug-resistant epilepsy with onset in childhood and significant neurodevelopmental comorbidities. The latter include intellectual disability, developmental delay, behavioural problems including attention-deficit hyperactivity disorder and autism spectrum disorder, psychiatric problems including anxiety and depression, speech impairment and sleep problems. Classical examples of developmental and epileptic encephalopathies include Dravet syndrome, Lennox-Gastaut syndrome and tuberous sclerosis complex. The mainstay of treatment is with multiple anti-seizure medications (ASMs); however, the ASMs themselves can be associated with psychobehavioural adverse events, and effects (negative or positive) on cognition and sleep. We have performed a targeted literature review of ASMs commonly used in the treatment of developmental and epileptic encephalopathies to discuss the latest evidence",
+        "journal": "CNS drugs",
+        "year": "2022",
+        "authors": [
+          "Strzelczyk Adam",
+          "Schubert-Bast Susanne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Autism Spectrum Disorder",
+          "Bromides",
+          "Cannabidiol",
+          "Clobazam",
+          "Cognition",
+          "Ethosuximide",
+          "Everolimus",
+          "Felbamate",
+          "Fenfluramine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36194365/"
+      },
+      {
+        "pmid": "29579375",
+        "title": "Gabapentin and Pregabalin for the Treatment of Anxiety Disorders.",
+        "abstract": "",
+        "journal": "Clinical pharmacology in drug development",
+        "year": "2018",
+        "authors": [
+          "Greenblatt H Karl",
+          "Greenblatt David J"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Anti-Anxiety Agents",
+          "Anxiety Disorders",
+          "GABA Agents",
+          "Gabapentin",
+          "Humans",
+          "Pregabalin",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29579375/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:58:56.757841",
+  "success": true,
+  "error_message": null
+}

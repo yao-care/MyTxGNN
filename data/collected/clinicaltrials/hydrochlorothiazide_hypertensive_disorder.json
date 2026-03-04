@@ -1,0 +1,926 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Hydrochlorothiazide",
+    "disease": "hypertensive disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03295734",
+      "title": "ACES - ACE Inhibitors Combined With Exercise for Seniors With Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-05-29",
+      "completion_date": "2024-09-19",
+      "country": "United States",
+      "enrollment": 223,
+      "brief_summary": "The purpose of this project is to conduct a randomized, controlled trial (RCT) to determine if choice of antihypertensive medication influences changes in functional status and other cardiovascular risk factors among older persons with hypertension when combined with physical exercise.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 60 years and older\n* Hypertension - untreated (SBP ≥ 140 mm Hg or DBP ≥ 90 mm Hg) or treated\n* \\> 290 seconds needed to complete long-distance corridor walk test\n* Sedentary lifestyle, defined as \\<150 min/wk of moderate physical activity\n* Willingness to participate in al",
+      "endpoints": [
+        "Change in Gait Speed From Baseline"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03295734"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01101009",
+      "title": "Efficacy of Sevikar® Compared to the Combination of Perindopril/ Amlodipine on Central Arterial Blood Pressure in Patients With Moderate to Severe Hypertension-",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2012-12",
+      "country": "Spain",
+      "enrollment": 486,
+      "brief_summary": "Comparison of the combination of amlodipine with an angiotensin receptor blocker or an angiotensin converting inhibitor, on central arterial blood pressure in patients with hypertension and additional risk factors. This is a randomised, double-blind, double-dummy, multicenter study. The duration of active treatment 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* moderate to severe hypertension\n* 3 additional risk factors such as age \\> 55 (male), \\> 65 female, smoker, type 2 diabetes, obesity, cardiovascular disease, congestive heart failure, chronic kidney disease,\n* ability to give informed consent\n\nExclusion Criteria:\n\n* secondary ",
+      "endpoints": [
+        "Change in central systolic blood pressure from baseline (Week 0, Visit 0) to Final Examination (Week 24, Visit 5) using last observation carried forward approach."
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT01101009"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03553810",
+      "title": "Role of ARNi in Ventricular Remodeling in Hypertensive LVH",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-04-12",
+      "completion_date": "2024-06-28",
+      "country": "Singapore",
+      "enrollment": 80,
+      "brief_summary": "In Singapore, hypertension is very common in the adult population. Hypertensive heart disease is a leading cause of heart failure and cardiovascular death. Current management relies primarily on achieving blood pressure targets. However, the optimal blood pressure goals are controversial and there are inherent difficulties in measuring blood pressure using external devices applied to peripheral arteries. As a result of (usually longstanding) hypertension, the heart thickens (i.e. hypertrophies) ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Increased left ventricular mass on cardiovascular magnetic resonance (based on established local age- and sex-specific CMR ranges)\n* Essential hypertension\n\nExclusion Criteria:\n\n* Known secondary causes of hypertension\n* Previous intolerance to angiotensin receptor blockers\n* ",
+      "endpoints": [
+        "Fibrosis volume"
+      ],
+      "sponsor": "National Heart Centre Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT03553810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01964079",
+      "title": "The COMPAriSon of Systolic Blood Pressure Variability and Central Blood Pressure of Calcium Channel Blocker (Amlodipine) in Comparison With Angiotensin Receptor Blocker (Losartan) in Patients With Essential Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-04",
+      "completion_date": "2017-05",
+      "country": "South Korea",
+      "enrollment": 144,
+      "brief_summary": "Blood pressure (BP) is believed to be a major determinant of vascular disease, and BP lowering is the most important goal in hypertension treatment. Thus, clinical guidelines for hypertension are mainly focused on lowering mean BP. However, despite an increasing incidence of stroke with age, the association between systolic BP (SBP) and the risk of stroke decreases with age. This disparity highlights a gap in the link between BP and vascular-related diseases (i.e., stroke). In clinical practice,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 20 years or older and below 80 years.\n* Patients who have not previously taken any antihypertensive drugs or have discontinued previous antihypertensive drugs for 2 weeks.\n* Mean SBP ≥140 mmHg or mean diastolic BP ≥ 90 mmHg (blood pressure will be checked at leas",
+      "endpoints": [
+        "SD of visit-to-visit systolic blood pressure variability"
+      ],
+      "sponsor": "Wonju Severance Christian Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01964079"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01061450",
+      "title": "Effect of the Addition of Simvastatin to Enalapril in Hypertensive Individuals With Average Cholesterol Levels and Diastolic Dysfunction",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-08",
+      "country": "Brazil",
+      "enrollment": 55,
+      "brief_summary": "Diastolic dysfunction (DD) is an increasingly frequent condition in hypertensive individuals whose treatment remains unclear. Its presence is related to higher morbidity and mortality independent of blood pressure levels. The aim of this study is to investigate the additive effect of simvastatin on enalapril on DD in hypertensive patients with average cholesterol levels.\n\nFor this aim, hypertensive patients with DD and LDL-cholesterol \\<160 mg/dL will undergo a run-in phase to achieve a systolic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* men or postmenopausal women aged between 40 and 65 years old\n* normal fasting blood glucose (\\<100 mg/dL) and glucose tolerance test (\\<140 mg/dL)\n* waist circumference \\< 102 cm (men) or \\< 88cm (women)\n* triglycerides \\<150 mg/dL, LDL cholesterol ≤ 160 mg/dl\n* creatinine \\<1",
+      "endpoints": [
+        "Changes in E/A ratio and e' wave velocity"
+      ],
+      "sponsor": "Brasilia Heart Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT01061450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00338936",
+      "title": "A 52-week Extension to the Factorial Study to Evaluate the Efficacy and Safety of VAH631 (Valsartan and Hydrochlorothiazide Combined) and Alone in Essential Hypertensive Patients - Long Term Study of VAH631 in Patients With Essential Hypertension (Extension From B1303 Study) -",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2007-09",
+      "country": "N/A",
+      "enrollment": 362,
+      "brief_summary": "This study is designed to provide long-term safety and efficacy data for the combination doses of VAH (VAL/ HCTZ) 40/6.25mg and 80/12.5mg in essential hypertensive patients. The 350 patients (approximately) who have successfully finished the core trial CVAH631B1303 and signed consent for the extension will be enrolled into this study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who successfully complete the core study (Protocol 1303)\n* Outpatients\n\nExclusion Criteria:\n\n* Presence of crucial protocol violation in Protocol 1303\n* Patients who experienced any adverse events considered serious and drug related in Protocol 1303.",
+      "endpoints": [
+        "Assessment of safety through reporting of adverse events, serious adverse events and deaths over 52 weeks."
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00338936"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01560806",
+      "title": "Quasi-experimental Intervention Study on Hypertension Management Combined With Comprehensive Healthy Lifestyle Promotion at Commune Level",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2009-12",
+      "country": "Vietnam",
+      "enrollment": 2400,
+      "brief_summary": "A quasi-experimental study design was chosen to compare the model of hypertension management at commune-level with conventional management for people with high blood pressure in two communes (one for intervention versus one for reference).\n\nA intervention model included the commune-based programme on hypertension management combined with comprehensive health promotion campaigns",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult people above 25\n\nExclusion Criteria:\n\n* People deny to join the study",
+      "endpoints": [
+        "Proportion of people with high blood pressure receiving treatment and being controlled in intervention commune"
+      ],
+      "sponsor": "Vietnam National Heart Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01560806"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02521246",
+      "title": "Efficacy and Safety Evaluation of the New Association on Fixed Dose of Candesartan Cilexetil + Chlorthalidone (16mg + 12.5mg and 16mg + 25mg) Compared With HYZAAR® in Hypertension Control",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2016-11",
+      "completion_date": "2017-08",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the non-inferiority clinical efficacy of two different drug associations in the essential hypertension control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Consent of the patient;\n* Participants with decompensated essential hypertension, classified into stage 1 (with high or very high cardiovascular risk), stage 2 or stage 3 according to the Brazilian Society of Cardiology (2010), who are being treated with monotherapy.\n\nE",
+      "endpoints": [
+        "Efficacy of essential hypertension control based on proportion of participants who achieve the therapeutic goal"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT02521246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00095394",
+      "title": "The Efficacy and Safety of Irbesartan/HCTZ Combination Therapy as First Line Treatment for Severe Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2005-05",
+      "country": "Israel, France, Russia, Germany, Netherlands, Canada, Belgium, United States",
+      "enrollment": 645,
+      "brief_summary": "The purpose of this clinical research is to learn if severe hypertension can be better controlled by initially treating with a combination of drugs (Irbesartan/HCTZ), in patients who are unlikely to achieve blood pressure (B/P) control with only one drug. In addition, the study will also evaluate the safety and tolerability of the drugs.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ages 18 and older;\n* Willing to provide written informed consent;\n* Must have uncontrolled hypertension defined as: currently untreated with a diastolic blood pressure greater than 110 mmHg OR currently receiving antihypertensive monotherapy with a diastolic bloo",
+      "endpoints": [
+        "Proportion of subjects whose seated diastolic blood pressure is controlled (SeDBP < 90 mmHg) at Week 5"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00095394"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01138423",
+      "title": "A Randomized, Placebo-controlled, Double Blind, 4-period, Cross-over Trial, to Study the Effects of Aliskiren, Hydrochlorothiazide and Moxonidine on Endothelial Dysfunction in Obesity Related Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2012-02",
+      "country": "Netherlands",
+      "enrollment": 32,
+      "brief_summary": "High blood pressure (hypertension) is an important cause of myocardial infarction and stroke. High blood pressure often occurs in people who are overweight. These people frequently also have abnormal fat and sugar metabolism. The combination of these problems is called the 'metabolic syndrome'.\n\nPeople with hypertension and obesity currently receive the same drug therapy as people with hypertension, but without obesity. Different classes of drugs are thought to be equally effective in lowering b",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Patient is a male or post menopausal female, 30-70 years of age on the day of signing informed consent. Post menopausal status is assumed if a woman has not experienced a menstrual bleed for a minimum of 12 months, assuming that she still has a uterus, and is not pregnant or l",
+      "endpoints": [
+        "Endothelial function assessed by Flow Mediated Dilation (FMD)"
+      ],
+      "sponsor": "UMC Utrecht",
+      "url": "https://clinicaltrials.gov/study/NCT01138423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00354991",
+      "title": "An Open Label Study to Assess the Efficacy of Losartan/HCTZ Combination Therapy in Patients With Essential Hypertension Who Were Inadequately Controlled on Current Antihypertensive Monotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-06-01",
+      "completion_date": "2007-04-01",
+      "country": "N/A",
+      "enrollment": 437,
+      "brief_summary": "The objective of the study is to estimate the percentage of patients who reach blood pressure goal after 8 weeks of treatment with losartan/HCTZ combination.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is male or female and = 18 years of age\n* Patients with essential hypertension previously treated with antihypertensive medications for at least 4 weeks but did not reach the blood pressure goal\n\nExclusion Criteria:\n\n* History of any condition, therapy, lab abnormality",
+      "endpoints": [
+        "Percentage of patients reaching a blood pressure goal (diastolic <90mm Hg for non-diabetics; <80mm Hg for diabetics) after 8 weeks of treatment"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT00354991"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03006796",
+      "title": "Observational Prospective stUdy of aZilsartan Medoxomil/ Chlorthalidone Compared With Irbesartan/hydrochlorothiaZide Combination Therapy in Patients With arteriaL Hypertension and obEsity in Routine Clinical Practice (PUZZLE).",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-01-16",
+      "completion_date": "2020-03-31",
+      "country": "Russia",
+      "enrollment": 94,
+      "brief_summary": "This is an observational prospective study of azilsartan medoxomil / chlorthalidone compared with irbesartan / hydrochlorothiazide in routine therapy of patients with arterial hypertension and obesity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male and female 35-55 year old,\n2. diagnosis of I-II grade essential AH,\n3. patients with obesity (BMI ≥ 30 kg/m²),\n4. patients with untreated AH (office SBP ≥ 140 mmHg, DBP ≥ 90 mmHg, no previous antihypertensive therapy),\n5. patients with poorly controlled AH (office SBP ≥ ",
+      "endpoints": [
+        "Clinic systolic blood pressure lowering."
+      ],
+      "sponsor": "Russian Heart Failure Society",
+      "url": "https://clinicaltrials.gov/study/NCT03006796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01819220",
+      "title": "Randomized, Open Labeled Clinical Trial to Compare the Effectiveness of Amlodipine/Valsartan vs Hydrochlorothiazide/Telmisartan on Glucose Tolerance in Patients With Hypertension With Metabolic Syndrome",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2014-11",
+      "country": "South Korea",
+      "enrollment": 16,
+      "brief_summary": "Recent studies have demonstrated that RAS inhibitors/calcium channel blockers are superior to RAS inhibitors/diuretics for reducing cardiovascular outcomes in hypertension. As such, RAS inhibitors/calcium channel blockers are recommended as first line combination treatment for hypertension. However, the mechanism for the superior efficacy of RAS inhibitors/calcium channel blockers are not well defined. This study will compare the efficacy of RAS inhibitors/calcium channel blockers vs RAS inhibit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* consent to the study\n* Male or Female ≥ 20 years\n* Patients taking less than 1 antihypertensive medications or not taking antihypertensive medications. Hypertension defined at the screening visit as follows): 140mmHg \\< MSSBP or MSDBP \\> 90mmHg at screening\n* Hypertensive pati",
+      "endpoints": [
+        "To assess the glucose change"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT01819220"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00811226",
+      "title": "Prospective, Multicentric, Open Clinic Essay to Evaluate the Use of OLMETEC® (Olmesartan Medoxomile) and OLMETEC PLUS® (Olmesartan Medoxomile Hydrochlorothiazide) in Stade I and II, According to JNC VII",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2008-01",
+      "country": "N/A",
+      "enrollment": 450,
+      "brief_summary": "The purpose of this study is to determine the efficiency of Olmesartan medoxomile (OLMETEC®) alone or in combination with hydrochlorothiazide (OLMETEC PLUS®) in the reduction of arterial blood pressure in patients with light to moderate hypertension, and to evaluate the percentage of patients that reach treatment goals using this antihypertensive regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women 18 years of age or older\n* Essential arterial hypertension Stade I and II according to JNC VII\n* Signature of Informed Consent\n\nExclusion Criteria:\n\n* Secondary arterial hypertension\n* Pregnant woman or during lactancy\n* Recent cardiovascular disease, as heart att",
+      "endpoints": [
+        "Evaluation of the efficiency of Olmesartan medoxomile (OLMETEC®) alone, or in combination with hydrochlorothiazide (OLMETEC PLUS®) in decreasing diastolic pressure"
+      ],
+      "sponsor": "Schering-Plough",
+      "url": "https://clinicaltrials.gov/study/NCT00811226"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02177435",
+      "title": "An Eight Week Randomized, Double-Blind Study Comparing a Fixed Dose Combination of Telmisartan 80 mg Plus Hydrochlorothiazide 12.5 mg to Telmisartan 80 mg in Patients Who Fail to Respond Adequately to Treatment With Telmisartan 80 mg.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-02",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 491,
+      "brief_summary": "Study to demonstrate that a fixed dose combination of telmisartan 80 mg plus hydrochlorothiazide (HCTZ) 12.5 mg (FDC 80/12.5) is superior to telmisartan 80 mg (Telm 80) alone in patients who failed to respond adequately to Telm 80 monotherapy in lowering seated trough diastolic blood pressure (DBP) after eight weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of mild-to-moderate hypertension\n* Patients who fail to respond adequately to telmisartan monotherapy\n* Participants between 18 and 80 years of age\n* Ability to provide written informed consent\n\nExclusion Criteria:\n\n* Patients taking more than three anti-hypertensive m",
+      "endpoints": [
+        "Change from baseline in seated diastolic blood pressure (DBP) at trough"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02177435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00890591",
+      "title": "National, Multicenter, Open-Label and Prospective Study Assessment of Efficacy and Safety in Stage 1 and 2 Essential Hypertension With Olmesartan Medoxomil Based Treatment Algorithm From Monotherapy to Association With Hydrochlorothiazide and Amlodipine Besylate",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2007-08",
+      "country": "N/A",
+      "enrollment": 144,
+      "brief_summary": "In patients naive to treatment or after a 2-week washout period for patients whose treatment was ineffective, the use of olmesartan was assessed in a 4-phase treatment scheme: monotherapy, addition of hydrochlorothiazide (2 phases), addition of amlodipine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stage 1 and 2 hypertension without treatment for at least 2 weeks\n* Women with no risk of becoming pregnant\n\nExclusion Criteria:\n\n* Study participation could result in risk to health of subject\n* Cardiovascular disease\n* Secondary hypertension or stage 3 hypertension\n* Myocard",
+      "endpoints": [
+        "Number of Patients That Achieved a Blood Pressure Goal of Less Than 130/85 (Olmesartan 20 mg Monotherapy)",
+        "Number of Patients That Achieved a Blood Pressure Goal of Less Than 130/85 in First Titrated Group (Olmesartan 20 mg + 12.5 mg Hydrochlorothiazide)",
+        "Number of Patients That Achieved a Blood Pressure Goal of Less Than 130/85 in Second Titrated Group (Olmesartan 40 mg + 25 mg Hydrochlorothiazide)"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00890591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01033071",
+      "title": "A Phase 3b, Double-Blind, Randomized, 12-Week Efficacy and Safety Study Comparing the TAK-491 Plus Chlorthalidone Fixed-Dose Combination vs Olmesartan Medoxomil-Hydrochlorothiazide in Subjects With Moderate to Severe Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2010-11",
+      "country": "Canada, United States",
+      "enrollment": 1071,
+      "brief_summary": "The purpose of this study is to compare the antihypertensive effect of azilsartan medoxomil plus chlorthalidone, once daily (QD), to olmesartan medoxomil plus hydrochlorothiazide in participants with moderate to severe hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Has a mean sitting clinic systolic blood pressure greater than or equal to 160 and less than or equal to 190 mm Hg.\n2. Females of childbearing potential who are sexually active agree to routinely use adequate contraception from Screening through 30 days after the last adminis",
+      "endpoints": [
+        "Change From Baseline in Trough, Sitting, Clinic Systolic Blood Pressure."
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT01033071"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02814552",
+      "title": "OPTImizing Precision of Hypertension Care to Maximize Blood Pressure Control Pilot (OPTI-BP Pilot)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-06-18",
+      "completion_date": "2018-06-30",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "Hypertension (HTN) is a major risk factor for coronary heart disease (CHD), heart failure, kidney failure and stroke. Disparities in HTN prevalence, treatment and control in the US have persisted for decades. The prevalence of HTN is 44% among Blacks, which is among the highest rates in the world. Those in ethnic/racial, rural, socioeconomically disadvantaged and other medically underserved populations are known to have the worst blood pressure (BP) control. Awareness of, treatment for, and cont",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* untreated HTN (systolic BP ≥ 140 or diastolic BP ≥ 90 mm Hg while taking no anti-HTN drugs)\n* treated, uncontrolled HTN (systolic BP ≥ 140 or diastolic BP ≥ 90 mm Hg while taking one or more anti-HTN drug)\n* provide voluntary, written informed consent\n* willing to comply with ",
+      "endpoints": [
+        "BP control"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT02814552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02336607",
+      "title": "A Randomized, Open-label Study to Evaluate the Effects on Blood Pressure Control, Pulse Wave Velocity, as Well as Safety and Tolerability of Felodipine Sustained Release, Alone and in Combination With Metoprolol, Lisinopril or Hydrochlorothiazide, in Chinese Patients With Mild to Moderate Essential Hypertension.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2006-08",
+      "country": "N/A",
+      "enrollment": 529,
+      "brief_summary": "The purpose of this study is to evaluate the effects on blood pressure control, pulse wave velocity, as well as safety and tolerability of felodipine single or combine with other drugs in Chinese Hypertension patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of written informed consent\n2. Female or male aged between 35-79 years old\n3. Mild to moderate essential hypertension patients who meet any of the following criterias:\n\n   * Newly diagnosed, drug-naive, or without any antihypertension treatment for at least 3 months",
+      "endpoints": [
+        "The Percentage of Subjects Reaching Blood Pressure Target (Defined as < 140 / 90 mmHg) After 14 Weeks of Felodipine Sustained Release in Combination With Metoprolol, Lisinopril or Hydrochlorothiazide."
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02336607"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02449811",
+      "title": "Single-center, Randomized, Open-label, Parallel-group Study to Characterize Renin-angiotensin-system (RAS) Peptide Profiles Before and After Treatment Initiation With Different Antihypertensive Drug-classes in Patients With Treatment-naive Arterial Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2018-11",
+      "country": "Switzerland",
+      "enrollment": 107,
+      "brief_summary": "Randomized, open-label, parallel-group study conducted at a single center in Switzerland.\n\nPatients diagnosed with primary arterial hypertension requiring antihypertensive drug Treatment as well as patients after a 4 week wash out period (Amendment 07/2016) will be recruited at the University Hospital Basel, Switzerland. Subjects will be randomized to either the angiotensin-converting enzyme inhibitor-, angiotensin receptor blocker-, calcium channel blocker- or hydrochlorothiazide-treatment arm.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female outpatients with previously untreated non-secondary arterial hypertension, defined as: office-systolic blood pressure ≥ 140 mmHg and ≤ 180 mmHg and office-diastolic blood pressure ≥ 90 mmHg and ≤110 mmHg (ESH grade I and II hypertension).\n* Male or female outpat",
+      "endpoints": [
+        "RAS peptide profiles"
+      ],
+      "sponsor": "Insel Gruppe AG, University Hospital Bern",
+      "url": "https://clinicaltrials.gov/study/NCT02449811"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00745953",
+      "title": "Regression of Fatty Heart by Valsartan Therapy",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2007-08",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Traditionally, obesity is considered an indirect cause of heart disease. Obese individuals typically present with a number of traditional Framingham risk factors (hypertension, dyslipidemia, and type 2 diabetes), predisposing them to heart attacks and subsequent heart failure. However, an emerging body of basic research revisits a hypothesis that fat is a direct cardiotoxin. Under healthy conditions, most triglyceride is stored in fatty tissue (adipocytes) while the amount of triglyceride stored",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prediabetic individuals with impaired glucose tolerance (2 hr postprandial glucose \\> 140mg/dL) or having 3 of 5 Metabolic Syndrome criteria:\n\n  1. Fasting glucose \\> 100mg/dL;\n  2. Waist circumference: men \\> 102cm, women \\> 88cm (confirmed with abdominal MRI);\n  3. HDL: men ",
+      "endpoints": [
+        "Myocardial triglyceride levels"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00745953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03971929",
+      "title": "A Phase I, Randomized, Double-Blind, Placebo-hydrochlorothiazide Parallel Controlled, Multiple-Ascending Dose Study to Evaluate the Safety, Efficacy of SHR 0532 Oral Tablets in Mild Hypertension Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-07-31",
+      "completion_date": "2020-09-03",
+      "country": "China",
+      "enrollment": 36,
+      "brief_summary": "The study is being conducted to evaluate the safety and efficacy and Pharmacokinetics/Pharmacodynamics of SHR0532 in subjects with mild hypertension for 4 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females between 18 to 65 years old\n* Diagnosis of mild hypertension\n* 18.5 kg/m2≤Body mass index (BMI) ≤35 kg/m\\^2\n* Understand the study procedure and method, willing to participate the study and Informed consent form (ICF) signed in writing\n\nExclusion Criteria:\n\n* H",
+      "endpoints": [
+        "Adverse Events(AEs) and Serious Adverse Events （SAEs）"
+      ],
+      "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03971929"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01096667",
+      "title": "A 4-Week, Phase 2, Randomized, Double-Blind, Placebo-Controlled, Dose-Ranging, Parallel Group Study To Evaluate The Safety, Tolerability And Efficacy Of Once Daily PF-04971729 And Hydrochlorothiazide In Patients With Type 2 Diabetes Mellitus With Inadequate Glycemic And Blood Pressure Control",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-05-17",
+      "completion_date": "2011-02-25",
+      "country": "N/A",
+      "enrollment": 194,
+      "brief_summary": "MK-8835-042 (B1521004) is designed to assess the safety and efficacy of an investigational drug, ertugliflozin (MK-8835, PF-04971729), in participants with type 2 diabetes and hypertension. Participants in the study will receive 1 of 5 treatments for 28 days (either placebo, 1 of 3 doses of ertugliflozin \\[1, 5, or 25 mg\\], or the approved drug hydrochlorothiazide \\[HCTZ\\]). The primary hypothesis of the study was that ertugliflozin was superior to placebo on the change from baseline in average,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with type 2 diabetes and hypertension\n* Medically stable\n* On at least 1 (and up to 2) oral diabetes drugs\n* And up to 2 medicines for blood pressure control\n\nExclusion Criteria:\n\n* Participants with type 1 diabetes\n* Heart attack\n* Stroke\n* Uncontrolled blood pre",
+      "endpoints": [
+        "Baseline 24-hour Average Systolic Blood Pressure (SBP)",
+        "Change From Baseline on 24-hour Average SBP at Week 4"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01096667"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00274638",
+      "title": "A Prospective, Randomised, Open-Label, Blinded-Endpoint, Parallel Group 6-week Treatment Study Comparing Telmisartan Combined With Hydrochlorothiazide (40 mg/12.5 mg or 80 mg/12.5 mg) Tablets With Losartan Combined With Hydrochlorothiazide (50 mg/12.5 mg) Tablets Using Ambulatory Blood Pressure Monitoring in Patients With Mild-to-Moderate Hypertension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-07",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 805,
+      "brief_summary": "To demonstrate that Telmisartan combined with Hydrochlorothiazide (MICARDIS® HCT) is superior to Losartan with Hydrochlorothiazide (Hyzaar®) in lowering blood pressure in mild-moderate hypertensives.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ability to provide written informed consent in accordance with GCP and local legislation.\n2. Mild-to-moderate hypertension defined as a mean seated DBP of \\>= 95 mm Hg and \\<=l to 109 mm Hg, measured by manual cuff sphygmomanometer at Visit 2.\n3. Male or Female \\>= 18 years.\n",
+      "endpoints": [
+        "Change from baseline in the last 6-hour mean (relative to dose time) diastolic blood pressure (DBP) as measured by ABPM (Ambulatory Blood Pressure Monitoring)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00274638"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00374855",
+      "title": "Protocol H8D-MC-EMBH PPAR Alpha (LY518674): a Phase 2 Dose-Response Study to Evaluate the Blood Pressure-Lowering Effect in Essential Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2006-11",
+      "country": "Sweden",
+      "enrollment": 153,
+      "brief_summary": "The primary objective of this study is to test the hypothesis that LY518674, administered for 6 weeks to patients with mild hypertension, reduces Systolic Blood Pressure, compared with placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Are men and women between 18 and 70 years of age, inclusive\n2. Have given signed informed consent to participate in this study\n3. Are diagnosed with mild essential hypertension at screening (currently untreated or treated with monotherapy)\n\nExclusion Criteria:\n\n1. Secondary o",
+      "endpoints": [
+        "To test the hypothesis that LY518674, administered for 6 weeks to patients with mild hypertension, reduces 24-hour mean ambulatory Systolic Blood Pressure, compared with placebo."
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00374855"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03978884",
+      "title": "An Open Label, Single Arm Prospective Study to Evaluate Efficacy and Safety of Losartan Based Therapy Reslio® (Losartan) and Resilo-h® (Losartan+Hydrochlorthiazide) in Diabetic and Uncontrolled Hypertensive Patients",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2019-06-01",
+      "completion_date": "2020-12-31",
+      "country": "Jamaica",
+      "enrollment": 0,
+      "brief_summary": "To study antihypertensive efficacy of 12 weeks of Losartan based therapy Resilo (Losartan) and Resilo-H (Losartan+ Hydrochlorothiazide) in uncontrolled hypertensive and diabetic hypertensive patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing to sign Informed Consent Form.\n* Patients of either sex above 18 years of age.\n* Patients not previously diagnosed with hypertension and with sitting blood pressure \\> 140/90 mmHg on two readings 15 minutes apart.\n* Newly diagnosed hypertensive patients.\n* Hypertensive",
+      "endpoints": [
+        "Proportion of Subjects achieving Target Blood Pressure"
+      ],
+      "sponsor": "The University of The West Indies",
+      "url": "https://clinicaltrials.gov/study/NCT03978884"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00751829",
+      "title": "Comparison of the Efficacy of Olmesartan Medoxomil Versus Nitrendipine on Systolic Blood Pressure in Elderly and Very Elderly Patients With Isolated Systolic Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2005-02",
+      "country": "Germany",
+      "enrollment": 417,
+      "brief_summary": "To evaluate the efficacy of long-term treatment of individually optimized doses of olmesartan medoxomil compared to nitrendipine in elderly and very elderly patients with isolated systolic hypertension. The study hypothesis is non-inferiority of olmesartan medoxomil compared to nitrendipine in lowering mean sitting systolic blood pressure after 12 weeks of treatment compared to baseline. The study duration is up to 32 weeks, including a 24-week treatment period. After 12 weeks hydrochlorothiazid",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 65 or older\n* Mean sitting BP \\>160 mmHg and mean sitting dBP\\<90 mmHg\n\nExclusion Criteria:\n\n* Secondary hypertension\n* Malignant hypertension\n* Severe Heart Failure (NYHA III-IV)\n* Recent history of myocardial infarction\n* Hypersensitivity to study medications\n* History o",
+      "endpoints": [
+        "Change in mean sitting systolic blood pressure as assessed by conventional BP measurements"
+      ],
+      "sponsor": "Daiichi Sankyo",
+      "url": "https://clinicaltrials.gov/study/NCT00751829"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03179163",
+      "title": "Peripheral Vascular Effects of Sulfhydryl-containing Antihypertensive Pharmacotherapy on Microvascular Function and Vessel Remodeling in Hypertensive Humans",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2016-07-20",
+      "completion_date": "2022-12-31",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "High blood pressure can cause physical changes to the blood vessels of the body (remodeling). If a person who has high blood pressure also has a lot of blood vessel remodeling with their condition, they are more likely to have poor results with medical treatment for hypertension. The researchers examine the impact of different classes of drugs that doctors use to treat high blood pressure (hypertension) on blood vessel remodeling. Some drugs that doctors prescribe for their patients contain a \"s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women and men\n* 40-65 years\n* Blood pressure: Normotensive \\<120/80 mmHg Hypertensive ≥140/90 mmHg and \\<160/110 mmHg\n* HbA1C of \\<6.5%\n* Women are post-menopausal and not taking hormone replacement therapy, or have normal cycles and are tested in the early follicular phase\n* ",
+      "endpoints": [
+        "Change in Endothelium Dependent Vasodilation"
+      ],
+      "sponsor": "Penn State University",
+      "url": "https://clinicaltrials.gov/study/NCT03179163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00224549",
+      "title": "Management of Resistant Hypertension -Pharmacokinetic Assessment of Different Antihypertensive Regimen -Comparison of Two Treatment Strategies: Increase Sodium Depletion or Combined Blockage of Renin-angiotensin System (RAS)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2009-08",
+      "country": "France",
+      "enrollment": 180,
+      "brief_summary": "The purpose of this study is to assess the efficacy of two different treatment regimens for treating resistant hypertension previously uncontrolled with at least 3 antihypertensive treatments. The study hypothesis is that these two regimens (one based on increasing diuretics and the other based on increasing renin angiotensin system blockage) may not differ in terms of efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary hypertension\n* Resistant hypertension defined by mean day-time SBP \\> 135 mmHg and DBP \\> 85 mmHg (determined with ABPM device) after a standardized 4-week regimen including irbesartan, amlodipine and HCTZ.\n\nExclusion Criteria:\n\n* Secondary hypertension\n* Unstable angi",
+      "endpoints": [
+        "Mean day-time systolic blood pressure (SBP) at week 12, measured with an average blood pressure measurement (ABPM) device"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT00224549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00739674",
+      "title": "Randomized Open-label Trial to Evaluate the Effectiveness of Diet Management With a Losartan Titration Regimen Versus Losartan Titration Regimen Alone on Blood Pressure Reduction in Hypertensives.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-02-01",
+      "completion_date": "2010-01-01",
+      "country": "N/A",
+      "enrollment": 992,
+      "brief_summary": "To evaluate the effectiveness of diet management with a losartan based titration regimen versus losartan based titration regimen alone on blood pressure reduction in hypertensive patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Non Diabetic, Newly Diagnosed And Untreated For Mild To Moderate Hypertension (blood pressure \\> 161; \\< 221; 140/90 mm Hg But \\< 180/110 mm Hg)\n* Non diabetic, newly diagnosed and untreated for severe hypertension (blood pressure \\> 180/110 mm Hg but \\< 200/120 mm Hg); Patien",
+      "endpoints": [
+        "Number of Patients Achieving Target Blood Pressure at Week 14 From Baseline",
+        "Change in Systolic Blood Pressure From Baseline to Week 14",
+        "Change in Diastolic Blood Pressure From Baseline to Week 14"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00739674"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00496834",
+      "title": "A Randomized, Open-label, Comparative, Non-inferiority, Multicenter Study to Compare Efficacy of Losartan Potassium Group and Carvedilol Group on Arterial Stiffness in Essential Hypertension Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-02-01",
+      "completion_date": "2009-09-01",
+      "country": "N/A",
+      "enrollment": 201,
+      "brief_summary": "The primary objective of this study is to evaluate efficacy, arterial stiffness measured by Pulse Wave Velocity (PWV) of Losartan potassium group compared to Carvedilol group after 24 weeks of treatment in patients with the essential hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female adults, 18 years or over\n* Essential Hypertension with mean SBP (systolic blood pressure) ≥ 140 mm Hg or mean DBP (diastolic blood pressure) ≥ 90 mm Hg\\* when blood pressure is measured at Visit 1(week -2) and at Visit 2(week 0).\n\nIf diabetes patients, mean SBP ",
+      "endpoints": [
+        "Pulse Wave Velocity (PWV) Changes From Baseline (Visit 2) to 24 Weeks (Visit 6) After the Administration of the Study Drug",
+        "PWV Changes From Baseline (Visit 2) to 24 Weeks (Visit 6) After the Administration of the Study Drug"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00496834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01392534",
+      "title": "Evaluation of the Real-life Efficacy and Safety of a Fixed-dose Telmisartan/Hydrochlorothiazide, Including Its Effect on Plasma Potassium and on Glucose and Lipid Metabolism Parameters in Patients With Essential Arterial Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2010-12",
+      "country": "Poland",
+      "enrollment": 1586,
+      "brief_summary": "One of the most common adverse effects resulting from the therapy with thiazides, thiazide-like diuretics and loop diuretics is increased potassium secretion. Disregulation of plasma potassium may be a life-threatening condition due to increased risk of arrythmias. Moreover, it has been postulated that decrease in plasma potassium level may negatively affect glucose metabolism resulting in the increased risk of new-onset type 2 diabetes.The main goal of this study is to assess the efficacy and s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* primary hypertension\n* age\\>18 years\n\nExclusion Criteria:\n\n* Cholestatic disorders or severe hepatic/renal failure\n* allergy to telmisartan or hydrochlorothiazide\n* treatment-resistant hypokalemia or hypercalcemia\n* pregnancy and lactation period",
+      "endpoints": [
+        "Change in systolic (SBP) and diastolic (DBP) blood pressure between first and final visit"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT01392534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01822860",
+      "title": "The Effect of Chlorthalidone Compared to Hydrochlorothiazide on Endothelial Function in Hypertensive Patients: A Pilot Study",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2013-03",
+      "completion_date": "2015-02",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Chlorthalidone will result in improved endothelial function compared to hydrochlorothiazide as measured by flow mediated vasodilatation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 19 or older\n* Diagnosis of hypertension\n* Current blood pressure \\> 120/80 mm Hg\n\nExclusion Criteria:\n\n* Use of a thiazide-type diuretic within the last 1 month\n* Known allergy to any study medications\n* History of gout or hyperuricemia\n* SCr \\>/= 1.8 mg/dl or CrCl \\< 25 m",
+      "endpoints": [
+        "Flow mediated vasodilatation"
+      ],
+      "sponsor": "Creighton University",
+      "url": "https://clinicaltrials.gov/study/NCT01822860"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00171782",
+      "title": "Valsartan Plus Hydrochlorothiazide in Patients With Hypertension and Cardiovascular Risk Factors",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2004-12",
+      "country": "N/A",
+      "enrollment": 76,
+      "brief_summary": "A study to evaluate the efficacy of valsartan+chydochlorothiazide in patients with stage 2 hypertension and cardiovascular risk factors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Patients who give consent\n* Men and women 18 to 80 years of age\n* Patients with hypertension (systolic \\>159 mm, diastolic \\>100 mm)\n* Patients meeting laboratory criteria\n\nExclusion Criteria:\n\n* \\- Pregnant women\n* Women not using approved contraception methods\n* Secondary",
+      "endpoints": [
+        "Change from baseline systolic blood pressure at 8 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00171782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00326768",
+      "title": "An Open-Label, Long-term (52-week), Safety Trial of the Fixed Dose Combination of Telmisartan 80mg Plus Hydrochlorothiazide 12.5mg and Telmisartan 40mg Plus Hydrochlorothiazide 12.5mg in Patients With Essential Hypertension - Efficacy and Safety Evaluation",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2007-08",
+      "country": "Japan",
+      "enrollment": 184,
+      "brief_summary": "The objective of this trial is to assess the safety and efficacy of 52 weeks of open-label treatment with the fixed dose combination of telmisartan 80 mg plus HCTZ 12.5 mg and telmisartan 40 mg plus HCTZ 12.5 mg in patients with essential hypertension.",
+      "eligibility_criteria": "1. Essential hypertensive patients who meet the following criteria:\n\n   * In case of using any antihypertensives, mean seated DBP\\* must be over 90 and under 114 mmHg at Visit 1\n   * In case of not using any antihypertensives, mean seated DBP\\* must be over 95 and under 114 mmHg at Visit 1\n   * Mean",
+      "endpoints": [
+        "Incidence of adverse events",
+        "Changes in clinical laboratory tests (haematology, blood chemistry and urinalysis)",
+        "Changes in electrocardiogram (ECG)"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00326768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02242396",
+      "title": "A Study of a Hypertensive Population Under Treatment With Micardis® and Micardis Plus® Under Real Clinical Conditions With the Goal to Control the Early Morning BP Rise (SURGE II)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 5248,
+      "brief_summary": "The primary objective was to evaluate, through the use of Home blood pressure monitoring (HBPM), the degree of BP control in the early morning hours after 8 weeks of treatment in patients with essential hypertension under treatment with Micardis®, Telmisartan or Micardis Plus®, Telmisartan hydrochlorothiazide.\n\nThe co-primary endpoints were the degree of BP control, and change from baseline until study end in mean systolic blood pressure (mSBP) and mean diastolic blood pressure (mDBP) HBPM in th",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients male or female between 18 and 80 years of age\n* Patients with mild to moderate essential hypertension\n* Patients diagnosed with hypertension that are not currently taking antihypertensive medication or previously diagnosed hypertensive patients who are uncontrolled wi",
+      "endpoints": [
+        "Change of degree of Blood Pressure (BP) control in the early morning hours",
+        "Change from baseline in mSBP and mDBP by HBPM in the early morning"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT02242396"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642096",
+      "title": "A Phase III, Multi-Center, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Factorial Study of Metoprolol Succinate Extended Release Tablets (TOPROL-XL) Hydrochlorothiazide and Their Combination in Patients With Essential Hypertension.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2004-07",
+      "country": "N/A",
+      "enrollment": 1900,
+      "brief_summary": "The purpose of this research study is to determine if treatment with the combination of metoprolol succinate and hydrochlorothiazide is more effective at lowering blood pressure than treatment with either of the two drugs alone. The study will also determine which combined doses of metoprolol succinate and hydrochlorothiazide are most effective at lowering blood pressure (without unacceptable side effects), and whether it is possible to combine both drugs in a single tablet to simplify blood pre",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diastolic blood pressure between 95 and 114 mm at screening and start of treatment\n\nExclusion Criteria:\n\n* Significant conditions which in the opinion of the investigator place the subject at undue risk, eg Renal impairment, hepatitis\n* Known secondary causes of hypertension, ",
+      "endpoints": [
+        "Change in trough sitting diastolic blood pressure"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00642096"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02222480",
+      "title": "A 2-Week, Randomized, Double-Blind, Parallel, Placebo-Controlled Study to Evaluate the Efficacy, Tolerability, and Pharmacokinetic-Pharmacodynamic Relationship of Fimasartan in Combination With Hydrochlorothiazide in Patients With Mild to Moderate Hypertension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-10",
+      "completion_date": "2015-06",
+      "country": "South Korea",
+      "enrollment": 103,
+      "brief_summary": "A 2-Week, Randomized, Double-Blind, Parallel, Placebo-Controlled Study to Evaluate the Efficacy, Tolerability, and Pharmacokinetic-Pharmacodynamic Relationship of Fimasartan in Combination with Hydrochlorothiazide in Patients with Mild to Moderate Hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects of no childbearing potential 19-70 years of age\n2. Mean clinic-measured sitting DBP (siDBP) of 90-109 mmHg and mean clinic-measured sitting SBP (siSBP) of 140-179 mmHg after a ≥1-week washout of prior antihypertensive medications (no wash-out is needed",
+      "endpoints": [
+        "Change of treatment in 24-hour mean systolic blood pressure (SBP) using ambulatory blood pressure monitoring (ABPM)"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT02222480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02795910",
+      "title": "Integrated Primary Care for Diabetes and Cardiovascular Disease in Less Developed Countries: Pragmatic Trial of the Practical Approach to Care Kit",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-04-01",
+      "completion_date": "2019-03-31",
+      "country": "Brazil",
+      "enrollment": 40577,
+      "brief_summary": "This study will evaluate a complex intervention based on a patient management tool (PMT), combined with educational outreach to primary care doctors, nurses and other health workers, in the Brazilian city of Florianopolis. The intervention is aimed at improving the quality of primary health care and health outcomes, in adults with diabetes and cardiovascular disease (CVD). The effectiveness of the intervention will be assessed by randomly allocating 48 primary care clinics to receive the interve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 35 years and over in July 2016\n* Diagnosis of hypertension (ICD-10 code I10-I15), ischaemic heart disease (ICD-10 code I20-I25), heart failure (ICD-10 code I50), cerebrovascular disease (ICD-10 code I60-I69), or diabetes mellitus (ICD-10 code E10-E14) ever recorded since J",
+      "endpoints": [
+        "Cardiovascular risk and diabetes testing",
+        "Systolic blood pressure"
+      ],
+      "sponsor": "University of Sao Paulo General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02795910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00887510",
+      "title": "Metabolic Effects of Antihypertensive Drugs",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-11",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "High blood pressure, also referred to as hypertension, is a blood pressure level of 140/90 mm Hg or higher. Along with lifestyle changes, various medications are currently used to treat people with hypertension. Some of these medications, however, may affect the way the body handles sugar, essentially preventing the body from breaking down sugar and predisposing people to developing diabetes. People who have metabolic syndrome-a condition primarily characterized by an increased waist measurement",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hypertension, defined as systolic blood pressure greater than or equal to 130 but less than 160 mm Hg and diastolic blood pressure greater than or equal to 85 but less than 110 mm Hg\n* Must have any two of the following criteria:\n\n  1. Abdominal obesity, defined as a waist cir",
+      "endpoints": [
+        "Change in Oral Glucose Tolerance Test (OGTT) Area Under Curve (AUC) After Addition of Trandolapril to Hydrochlorothiazide (HCTZ) Compared With Change in OGTT AUC After Addition of HCTZ to Trandolapril"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00887510"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02046395",
+      "title": "Effect of Renin-angiotensin-system Blockade on Urinary Free Light Chains in Patients With Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2019-12",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "The purpose of this study is to study the effect of blocking the renin angiotensin system on urinary free light chain excretion as compared to urine microalbumin creatinine ratio in subjects with type 2 diabetes. The long term goal is to assess urinary free-light chains as a biomarker of earlier detection of kidney function impairment in subjects with diabetes mellitus.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 Diabetes\n* Hypertension\n* Estimated glomerular filtration rate (eGFR) \\> 30 ml/min\n* Use of Ace Inh and ARB for control of blood pressure who are willing to be placed on alternate drug(s) in the washout period for blood pressure control\n\nExclusion Criteria:\n\n* Pregnancy",
+      "endpoints": [
+        "Change in Urine Microalbumin Creatinine Ratio"
+      ],
+      "sponsor": "Tulane University",
+      "url": "https://clinicaltrials.gov/study/NCT02046395"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03946514",
+      "title": "Efficacy and Safety of a Single-pill Fixed Combination of Sufficient Losartan/Hydrochlorothiazide in Chinese Hypertensive Patients (FOCUS)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-09-01",
+      "completion_date": "2024-08-31",
+      "country": "China",
+      "enrollment": 180,
+      "brief_summary": "1. Study name: Efficacy and safety of a single-pill fixed combination of sufficient losartan/hydrochlorothiazide in Chinese hypertensive patients (FOCUS)\n2. Medicine: Losartan 100 mg/hydrochlorothiazide 25 mg single-pill fixed combination; amlodipine besylate tablet (5 mg/tablet); hydrochlorothiazide tablets (25 mg/tablet)\n3. Rationale: Angiotensin-converting enzyme inhibitor (ACEI) or angiotensin receptor blocker (ARB) combined with thiazide diuretic (DIU), which is the preferred combination fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or Women aged between 18 years will be screened, who should never take antihypertensive drugs or stop antihypertensive drugs for more than 2 weeks with systolic blood pressure of 140-179 mmHg and / or diastolic blood pressure of 90-109 mmHg or who is on monotherapy for at ",
+      "endpoints": [
+        "Adverse events",
+        "Blood pressure control rate"
+      ],
+      "sponsor": "Shanghai Jiao Tong University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03946514"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05413057",
+      "title": "A Multicenter, Prospective, Observational Study to Evaluate Effectiveness and Safety of Fixed-dose Combinations of Fimasartan/Amlodipine or Fimasartan/Amlodipine/Hydrochlorothiazide in Essential Hypertensive Patients",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2022-06-23",
+      "completion_date": "2026-06",
+      "country": "South Korea",
+      "enrollment": 20000,
+      "brief_summary": "The main purpose of this observation study is to collect data on the effects and side effects for 12 weeks of the medication administration of the single-pill combinations, which are fimasartan/amlodipine or fimasartan/amlodipine/hydrochlorothiazide, based on fimasartan. (Stage 1).\n\nAlso, this study will evaluate major cardiovascular events, long-term blood pressure control, and the safety by follow-up of those who consent to the extended study for about 2 years (96 weeks).(Stage 2)",
+      "eligibility_criteria": "* Inclusion Criteria:\n\n  1. Patients who voluntarily consent on the informed consent form and understand the study's purpose, methods, and so on\n  2. Males and females over the age of 19\n  3. Patients who have been diagnosed with essential hypertension and plan to be treated with fimasartan/amlodipi",
+      "endpoints": [
+        "The blood pressure control rate"
+      ],
+      "sponsor": "Boryung Pharmaceutical Co., Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT05413057"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03024476",
+      "title": "Optimization of Blood Pressure Management After Acute Ischemic Stroke and Its Prognostic Significance: Prospective, Randomized, Open, Blinded Outcome Evaluation, and Feasibility Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-09-01",
+      "completion_date": "2017-12-07",
+      "country": "South Korea",
+      "enrollment": 67,
+      "brief_summary": "BOSS-Trial I is a phase 2 clinical trial with the following objectives;\n\n1. to prove the feasibility of a Bluetooth-equipped sphygmomanometer system in real-world clinical practice and wireless connection to the main server;\n2. to prove the feasibility of the BP management strategy, including the pre-specified BP range, BP management algorithm, and behavioral; and\n3. to gather information for the phase 3 trial including BP variability indices and their potentials as a treatment guidance.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ischemic stroke survivors within 7 days after onset\n* ≥19 year-old male or female\n* Medically and neurologically stabilized enough to take BP-lowering medication\n* Mean systolic blood pressure ≥135 mm Hg during two days between at least 24 hours after onset and randomization (",
+      "endpoints": [
+        "Recruitment time to prespecified number of subjects",
+        "Retention of included participants",
+        "Frequencies of calls for breakthrough visit"
+      ],
+      "sponsor": "Seoul National University Bundang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03024476"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360178",
+      "title": "An Open-label, Multicenter Study to Evaluate the Efficacy and Tolerability of a 4 Week Therapy With the Fixed Dose Combination of Valsartan 160 mg Plus HCTZ 25 mg in Hypertensive Patients Not Adequately Responding to a 4 Week Therapy With the Free Combination of an Angiotensin Receptor Blocker (Candesartan 32 mg) Plus HCTZ 25 mg",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2006-12",
+      "country": "Germany, Switzerland",
+      "enrollment": 198,
+      "brief_summary": "Recruiting in Germany only:\n\nThis study will evaluate the safety and efficacy of valsartan plus HCTZ in fixed dose combination in hypertensive patients not responding to treatment with the free combination of Candesartan plus HCTZ. In an optional extension patients with uncontrolled BP at the end of the core study can be treated with valsartan plus HCTZ in fixed dose combination plus amlodipine 5 mg for additional 4 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients (\\>=18 years)\n2. Females must be either post-menopausal for one year, surgically sterile or using effective contraceptive methods (e.g. intra-uterine device, hormonal contraceptives).\n3. Patients with moderate essential hypertension (WHO):\n\nExclusion C",
+      "endpoints": [
+        "Diastolic Blood Pressure (DBP) reduction by Valsartan + HCTZ in patients not adequately responding (i.e., DBP >= 90 mmHg) to 4 weeks of treatment with Candesartan + HCTZ in free combination",
+        "For optional extension: DBP reduction by Valsartan + HCTZ + Amlodipine in patients not adequately responding (i.e., DBP >= 90 mmHg and/or Systolic Blood Pressure (SBP) >= 140 mmHg) to 4 weeks of treatment with angiotensin receptor blockers + HCTZ"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00360178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00796159",
+      "title": "A Post Marketing Surveillance, Multicenter, Open-Label, Dose-Titrating, 4-Week Study Evaluating The Efficacy, Tolerability And Safety Of Olmesartan Medoxomil 20mg In Combination With 12.5mg Hydrochlorothiazide In Subjects With Stage 1 To Stage 2 Hypertension",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2008-12",
+      "country": "N/A",
+      "enrollment": 1723,
+      "brief_summary": "This is a Post-Marketing Surveillance study evaluating the Efficacy, Tolerability and Safety of Olmesartan medoxomil 20 mg in combination with 12.5 MG of hydrochlorothiazide in subjects with mild to moderate essential hypertension",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and Female patients 18 to 65 y/old\n* Patient previously taking low-dose medoxomil or any other ARB alone with uncontrolled BP\n* Patient with uncontrolled mild to moderate hypertension (SBP\\>= 140 and \\<=179 mmHg OR DBP of \\>=90 and \\<=109 mmHg)\n\nExclusion Criteria:\n\n* Pre",
+      "endpoints": [
+        "Safety (Adverse Events)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00796159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00247910",
+      "title": "Behavioural Treatment of Hypertension",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2001-10",
+      "completion_date": "2006-06",
+      "country": "Canada",
+      "enrollment": 150,
+      "brief_summary": "The objective of the study is to determine whether psychological therapy (self-help or individualized intense stress management) is different than a single drug treatment in terms of their effectiveness for lowering blood pressure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* must be at least 19 years of age\n* subjects can be male or female\n* subjects must have an average resting blood pressure of \\>140 systolic pressure an/ or \\>90 diastolic pressure off anti-hypertensive medication\n\nExclusion Criteria:\n\n* must not be on more than 2 blood pressure",
+      "endpoints": [
+        "Day time ambulatory BP"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT00247910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01136863",
+      "title": "Felodipine Event Reduction Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1998-04",
+      "completion_date": "2004-06",
+      "country": "China",
+      "enrollment": 9800,
+      "brief_summary": "FEVER is an investigator-designed, prospective, multicentre,double-bind, randomized, placebo-controlled,parallel-group trial. The primary objective is to compare the long-term effects on the incidence of fatal and non-fatal stroke (and secondarily of other cardiovascular events) of administering a small dose of the calcium antagonist felodipine (5 mg once a day) or of a placebo, in hypertensive patients whose blood pressure had preliminarily been reduced by administering a low-dose diuretic (hyd",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* SBP of 210 mmHg or less and DBP less than 115 mmHg if under antihypertensive treatment; SBP 160-210 mmHg or DBP 95-115 mmHg if untreated. Presence of at least one or two risk factors or cardiovascular diseases Informed consent obtained\n\nExclusion Criteria:\n\nstroke or myocardia",
+      "endpoints": [
+        "Composite of fatal and non-fatal stroke"
+      ],
+      "sponsor": "ChineseAMS",
+      "url": "https://clinicaltrials.gov/study/NCT01136863"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00368277",
+      "title": "A 36 Week Randomized, Double-blind, Parallel Group, Multi-center, Active-controlled, Optional Titration Study Comparing an Aliskiren-based Regimen to a Ramipril-based Regimen in Patients ≥ 65 Years Old With Systolic Essential Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2008-02",
+      "country": "United States",
+      "enrollment": 901,
+      "brief_summary": "Evaluate the systolic blood pressure lowering effect of aliskiren 150mg and 300mg compared to ramipril 5mg and 10mg in elderly patients with essential systolic hypertension.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female outpatients ≥ 65 years old.\n* Patients with essential hypertension with an msSBP ≥ 140 mmHg and \\< 180 mmHg, and msDBP \\< 110 mmHg at Visits 2 and 3. (Visit 201 was deleted by the Administrative Changes document.)\n* Patients must have had a difference in msSBP o",
+      "endpoints": [
+        "Change From Baseline in Mean Sitting Systolic Blood Pressure to Week 12"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00368277"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05917275",
+      "title": "Multi-Omics to Predict the Blood Pressure Response to Antihypertensives",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-04-04",
+      "completion_date": "2025-10",
+      "country": "Netherlands",
+      "enrollment": 96,
+      "brief_summary": "The goal of this clinical trial is to develop biomarkers composed of multiple OMICs (MOMICs) for prediction of blood pressure response to antihypertensive drugs in the treatment of primary hypertension. The main objectives are:\n\n* Primary objective:\n\n  \\- To identify MOMICs biomarkers that predict the response in 24-hour blood pressure to antihypertensive treatment for each treatment group (olmesartan, amlodipine, hydrochlorothiazide, olmesartan/amlodipine)\n* Secondary objectives:\n\n  * To identi",
+      "eligibility_criteria": "Inclusion criteria\n\n* Age 18 up to and including 75 years\n* 24 hours systolic blood pressure 130-164 (corresponding with grade 1-2 hypertension), without the use of blood pressure lowering agents (at screening for patients without pre-treatment or after 4 week wash-out of antihypertensive medication",
+      "endpoints": [
+        "Predictive value of Multi-Omics profile for blood pressure"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05917275"
+    }
+  ],
+  "timestamp": "2026-03-04T15:23:04.058203",
+  "success": true,
+  "error_message": null
+}

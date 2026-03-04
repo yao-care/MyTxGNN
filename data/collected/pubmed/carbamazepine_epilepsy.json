@@ -1,0 +1,596 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbamazepine",
+    "disease": "epilepsy",
+    "query_string": "Carbamazepine AND epilepsy"
+  },
+  "data": {
+    "query": "Carbamazepine AND epilepsy",
+    "results": [
+      {
+        "pmid": "33840584",
+        "title": "Update on first unprovoked seizure in children and adults: A narrative review.",
+        "abstract": "First seizures are always challenging for physicians. Determining etiology, risk of recurrence, need for diagnostic electroencephalogram (EEG) or neuroimaging, balancing starting anti-seizure medication (ASM) versus its potential adverse effects, and addressing patient and family concerns about social or emotional impact in lifestyle issues is always demanding.",
+        "journal": "Seizure",
+        "year": "2021",
+        "authors": [
+          "Jiménez-Villegas María José",
+          "Lozano-García Lucas",
+          "Carrizosa-Moog Jaime"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Child",
+          "Electroencephalography",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Recurrence",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33840584/"
+      },
+      {
+        "pmid": "32841918",
+        "title": "Autonomic functions in focal epilepsy: A comparison between lacosamide and carbamazepine monotherapy.",
+        "abstract": "Some antiepileptic drugs (AEDs), like sodium channel blockers are significantly associated with autonomic dysfunction in patients with epilepsy. Unlike other sodium-blockers AEDs, lacosamide (LCM) is a third generation AEDs which enhances the slow inactivation of voltage-gated sodium channels. So far, data about LCM on autonomic nervous system are still unknown. This study was designed to investigate cardiovascular autonomic and sudomotor function in patients affected by focal epilepsy on LCM monotherapy, compared to patients treated with carbamazepine (CBZ) monotherapy and healthy subjects.",
+        "journal": "Journal of the neurological sciences",
+        "year": "2020",
+        "authors": [
+          "Izzi Francesca",
+          "Placidi Fabio",
+          "Liguori Claudio",
+          "Posca Ilaria",
+          "Lauretti Benedetta"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsies, Partial",
+          "Hand Strength",
+          "Humans",
+          "Lacosamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32841918/"
+      },
+      {
+        "pmid": "40751909",
+        "title": "Climate change and hyponatremia-related hospital admissions in people with focal epilepsy exposed to carbamazepine or its derivatives.",
+        "abstract": "To estimate the proportion of individuals with focal epilepsy treated with at least one among carbamazepine (CBZ), oxcarbazepine (OXC), or eslicarbazepine (ESL), who were hospitalized due to hyponatremia-related symptoms in 2024, and to test the hypothesis that there is an association with climatic variables.",
+        "journal": "Epilepsia",
+        "year": "2025",
+        "authors": [
+          "Fortunato Francesco",
+          "D'Amico Francesco",
+          "Votano Anny",
+          "Sammarra Ilaria"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hyponatremia",
+          "Carbamazepine",
+          "Male",
+          "Female",
+          "Anticonvulsants",
+          "Middle Aged",
+          "Adult",
+          "Climate Change",
+          "Hospitalization"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40751909/"
+      },
+      {
+        "pmid": "34125751",
+        "title": "Effect of carbamazepine on emotional intelligence and mindfulness in patients with partial epilepsy.",
+        "abstract": "To assess the effectiveness of carbamazepine on emotional intelligence and mindfulness in patients with epilepsy.",
+        "journal": "JPMA. The Journal of the Pakistan Medical Association",
+        "year": "2021",
+        "authors": [
+          "Gul Amara",
+          "Mehreen Saima"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbamazepine",
+          "Case-Control Studies",
+          "Emotional Intelligence",
+          "Epilepsies, Partial",
+          "Humans",
+          "Middle Aged",
+          "Mindfulness",
+          "Pakistan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34125751/"
+      },
+      {
+        "pmid": "3121295",
+        "title": "Carbamazepine efficacy and utilization in children.",
+        "abstract": "Carbamazepine is effective for preventing partial and generalized tonic-clonic seizures in children. Although absence epilepsies are more common in children than adults, an estimated 80% of children with epilepsy have seizure types or epilepsies that are potentially responsive to carbamazepine. The differential diagnosis of ictal staring is an especially important issue in children because absence and atypical absence seizures are more prevalent in children than adults. Age-related pharmaco-kinetic differences and drug interactions are major considerations in children. On average, children have higher clearance rates of carbamazepine, shorter half-lives, and higher ratios of carbamazepine-10, 11-epoxide to carbamazepine than adults. In addition, children with severe epilepsy are more likely to require multiple-drug therapy, which can lead to complex drug interactions. When carbamazepine is administered along with valproate, drug protein binding interactions can cause intermittent side ",
+        "journal": "Epilepsia",
+        "year": "1987",
+        "authors": [
+          "Dodson W E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbamazepine",
+          "Child",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Epilepsy, Absence",
+          "Epilepsy, Tonic-Clonic",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3121295/"
+      },
+      {
+        "pmid": "3924398",
+        "title": "Factors influencing the relationship between carbamazepine plasma concentration and its clinical effects in patients with epilepsy.",
+        "abstract": "",
+        "journal": "Clinical neuropharmacology",
+        "year": "1985",
+        "authors": [
+          "Rapeport W G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Brain Chemistry",
+          "Carbamazepine",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Temporal Lobe",
+          "Humans",
+          "Kinetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3924398/"
+      },
+      {
+        "pmid": "11148232",
+        "title": "Reproductive effects of valproate, carbamazepine, and oxcarbazepine in men with epilepsy.",
+        "abstract": "Recent observations have indicated that reproductive endocrine disorders are common among women taking valproate (VPA) for epilepsy, but it is not known whether respective abnormalities develop in men taking VPA for epilepsy. Carbamazepine (CBZ) may induce endocrine disorders in men with epilepsy, but the endocrine effects of oxcarbazepine (OXC) are not known.",
+        "journal": "Neurology",
+        "year": "2001",
+        "authors": [
+          "Rättyä J",
+          "Turkka J",
+          "Pakarinen A J",
+          "Knip M",
+          "Kotila M A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Androstenedione",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Dehydroepiandrosterone Sulfate",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Erectile Dysfunction",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11148232/"
+      },
+      {
+        "pmid": "10908558",
+        "title": "Carbamazepine versus valproate monotherapy for epilepsy.",
+        "abstract": "Carbamazepine and valproate are drugs of first choice for epilepsy. Despite the lack of hard evidence from individual randomized controlled trials, there is strong clinical belief that valproate is the drug of choice for generalized epilepsies and carbamazepine for partial epilepsies.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2000",
+        "authors": [
+          "Marson A G",
+          "Williamson P R",
+          "Hutton J L",
+          "Clough H E",
+          "Chadwick D W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Child",
+          "Confidence Intervals",
+          "Epilepsy",
+          "Humans",
+          "Outcome Assessment, Health Care",
+          "Randomized Controlled Trials as Topic",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10908558/"
+      },
+      {
+        "pmid": "16437428",
+        "title": "Lamotrigine versus carbamazepine monotherapy for epilepsy.",
+        "abstract": "The choice of an antiepileptic drug (AED) for any individual should take into account reliable information about seizure control, adverse effects and cost. Carbamazepine is the usual drug of choice for people with newly-diagnosed partial onset seizures. Lamotrigine is a relatively new AED which is licensed in many countries for use as an initial monotherapy.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2006",
+        "authors": [
+          "Gamble C L",
+          "Williamson P R",
+          "Marson A G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Child",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Lamotrigine",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16437428/"
+      },
+      {
+        "pmid": "12762240",
+        "title": "[Efficacy and tolerability of carbamazepine as the initial drug used in the treatment of epilepsy].",
+        "abstract": "Carbamazepine is the one of the most prescribed antiepileptic drugs in treatment of partial and generalized tonic-clonic seizures. Its efficacy in treatment of seizures was discovered incidentally during the trials of neuroleptic drugs. Generally it is well tolerated with relatively rare serious side effects. Therapy is introduced gradually, with mean dose between 10-20 mg/kg, and given this way it has the least side effects. Aim of the study was to assess interaction between efficacy, tolerability and overall efficacy of the first prescribed drug, in this case carbamazepine, in the group of patients with partial seizures and generalized tonic-clonic seizures. Patients hospitalized at University Pediatric Hospital in Sarajevo with newly diagnosed epilepsy and started therapy with carbamazepine in period from 07.1999 to 07.2002 were investigated. There were 89 patients that fulfilled the criteria. In 29 patients seizures remitted after the introduction of therapy (32.58%). After the sub",
+        "journal": "Medicinski arhiv",
+        "year": "2002",
+        "authors": [
+          "Zubcević Smail",
+          "Gavranović Muhamed",
+          "Katica V",
+          "Brajković D",
+          "Catibusić Feriha"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsies, Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12762240/"
+      },
+      {
+        "pmid": "8660147",
+        "title": "Vigabatrin and carbamazepine monotherapy for newly diagnosed epilepsy.",
+        "abstract": "",
+        "journal": "Archives of neurology",
+        "year": "1996",
+        "authors": [
+          "Walker M C",
+          "Cockerell O C",
+          "Sander J W"
+        ],
+        "pub_types": [
+          "Comment",
+          "Comparative Study",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Dose-Response Relationship, Drug",
+          "Electroencephalography",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Treatment Outcome",
+          "Vigabatrin",
+          "gamma-Aminobutyric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8660147/"
+      },
+      {
+        "pmid": "2111768",
+        "title": "Discontinuation of phenytoin, carbamazepine, and valproate in patients with active epilepsy.",
+        "abstract": "The effects of discontinuing individual antiepileptic drugs (AEDs) in patients with active epilepsy who are receiving combination therapy have not been studied systematically. We report a double-blind, prospective study of discontinuation of phenytoin (PHT), carbamazepine (CBZ), and valproate (VPA) in 70 patients with chronic active epilepsy. Each drug discontinuation was randomized to one of two relatively fast rates of reduction, and a control group of 25 patients continued with stable therapy. Patients who had CBZ removed had a significant increase in seizures that was maintained for 4 weeks after the end of drug reduction, and 10 of these 23 patients had to restart therapy with CBZ. There was no significant change in seizure numbers in the other groups. Two patients discontinued from VPA had to restart the drug; none had to restart PHT. The optimal rates of reduction of CBZ remain uncertain. There was no evidence for a clinically or temporally distinct burst of \"discontinuation sei",
+        "journal": "Epilepsia",
+        "year": "1990",
+        "authors": [
+          "Duncan J S",
+          "Shorvon S D",
+          "Trimble M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Carbamazepine",
+          "Drug Therapy, Combination",
+          "Epilepsies, Partial",
+          "Epilepsy",
+          "Humans",
+          "Phenytoin",
+          "Substance Withdrawal Syndrome",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2111768/"
+      },
+      {
+        "pmid": "33731397",
+        "title": "Disulfiram-induced epileptic seizures.",
+        "abstract": "Disulfiram has been widely used for over six decades in the treatment of alcohol dependence, as an aversive therapeutic agent. Despite having very few side effects when taken without concurrent alcohol consumption, some of these may underlie serious clinical complications. Epileptic seizure induction is a rare adverse effect of disulfiram and its aetiological mechanism is unknown. We present a hospitalised 47-year-old male patient with two episodes of generalised tonic-clonic seizures during treatment with disulfiram while abstinent from alcohol.",
+        "journal": "BMJ case reports",
+        "year": "2021",
+        "authors": [
+          "Nogueira Violeta",
+          "Mendes Mafalda Azevedo",
+          "Pereira Inês",
+          "Teixeira Joana"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Disulfiram",
+          "Epilepsies, Partial",
+          "Epilepsy, Generalized",
+          "Epilepsy, Tonic-Clonic",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33731397/"
+      },
+      {
+        "pmid": "22683226",
+        "title": "Efficacy and tolerability of zonisamide versus controlled-release carbamazepine for newly diagnosed partial epilepsy: a phase 3, randomised, double-blind, non-inferiority trial.",
+        "abstract": "Additional options are needed for monotherapy treatment of adults newly diagnosed with partial epilepsy. This trial compares the efficacy and tolerability of once-daily zonisamide with twice-daily controlled-release carbamazepine monotherapy for such patients.",
+        "journal": "The Lancet. Neurology",
+        "year": "2012",
+        "authors": [
+          "Baulac Michel",
+          "Brodie Martin J",
+          "Patten Anna",
+          "Segieth Joanna",
+          "Giorgi Luigi"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Delayed-Action Preparations",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Epilepsies, Partial",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22683226/"
+      },
+      {
+        "pmid": "3121296",
+        "title": "Carbamazepine efficacy in adults with partial and generalized tonic-clonic seizures.",
+        "abstract": "Carbamazepine and phenytoin are drugs of choice in initial monotherapy for adult partial and secondarily generalized tonic-clonic seizures. These designations reflect the results of the Veterans Administration Epilepsy Cooperative Study Group of 1985. An earlier comparative study of carbamazepine and phenytoin by Ramsay and associates found both drugs equally effective in controlling new-onset seizures. Among the advantages of carbamazepine is that it causes relatively few cognitive and dysmorphic side effects. Its disadvantages are its unavailability in parenteral formulation and its metabolic autoinduction. The latter must be compensated for by planned dosage increases to maintain therapeutic plasma steady-state levels during the first 2 or 3 months of treatment. Carbamazepine is judged a drug of choice in the treatment of these secondarily generalized tonic-clonic seizures, and the drug of choice in children, adolescents, and women susceptible to the dysmorphic side effects associat",
+        "journal": "Epilepsia",
+        "year": "1987",
+        "authors": [
+          "Wilder B J",
+          "Rangel R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Carbamazepine",
+          "Epilepsies, Partial",
+          "Epilepsy, Tonic-Clonic",
+          "Humans",
+          "Phenytoin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3121296/"
+      },
+      {
+        "pmid": "37852019",
+        "title": "Efficacy and tolerability of oxcarbazepine in the treatment of focal epilepsy in neonates and infants under 3 months of age: A single-center retrospective analysis.",
+        "abstract": "The neonatal and infantile period is the age group with the highest incidence of epilepsy, in which gene variants in sodium and potassium channels are an important etiology, so the sodium channel blocker class of antiseizure medications may be effective in the treatment of early onset epilepsy. This study aimed to summarize the efficacy and tolerability of oxcarbazepine (OXC) in the treatment of focal epilepsy in neonates and infants under 3 months of age.",
+        "journal": "Epilepsy research",
+        "year": "2023",
+        "authors": [
+          "Ma Yuping",
+          "Deng Jie",
+          "Fu Zhengran",
+          "Chen Chunhong",
+          "Wang Xiaohui"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Infant, Newborn",
+          "Humans",
+          "Infant",
+          "Oxcarbazepine",
+          "Retrospective Studies",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsies, Partial",
+          "Epilepsy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37852019/"
+      },
+      {
+        "pmid": "8603645",
+        "title": "Evaluation of carbamazepine and carbamazepine-epoxide protein binding in patients undergoing epilepsy surgery.",
+        "abstract": "Carbamazepine (CBZ) serum concentrations increase after epilepsy surgery. A possible mechanism may be acute changes in protein binding, specifically those involving the acute phase reactant alpha(1)-acid glycoprotein (AAG). We prospectively evaluated 16 adults (11 receiving CBZ) with epilepsy (mean age 30 +/- 9.9 years, 8 women and 8 men) undergoing temporal lobe resections and characterized AAG, albumin, CBZ, and CBZ-epoxide (CBZ-E) free fractions over time. AAG, ALB, CBZ, and CBZ-E free fractions were determined before surgery (baseline) and on postoperative days 1-5, 14, and 30. AAG was measured with a radial immunodiffusion assay method, CBZ and CBZ-E serum concentrations were determined by high-performance liquid chromatography (HPLC). Free fractions of CBZ and CBZ-E were calculated as the ratio of unbound (determined after ultracentrifugation) to total serum drug concentrations. Statistical analysis included analysis of variance (ANOVA) and Student's t test for paired data when a",
+        "journal": "Epilepsia",
+        "year": "1996",
+        "authors": [
+          "Gidal B E",
+          "Spencer N W",
+          "Maly M M",
+          "Pitterle M E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Blood Proteins",
+          "Carbamazepine",
+          "Epilepsies, Partial",
+          "Epilepsy, Temporal Lobe",
+          "Female",
+          "Humans",
+          "Male",
+          "Orosomucoid",
+          "Postoperative Period"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8603645/"
+      },
+      {
+        "pmid": "11738014",
+        "title": "[Oxcarbazepine].",
+        "abstract": "Oxcarbazepine (OXC) is a new antiepileptic drug derived from carbamazepine (CBZ). OXC has shown efficacy in partial and secondarily generalized seizures in children and adults. It is not indicated in myoclonic epilepsies or absences. OXC has a high bioavailability and is 40% protein-bound. Its metabolism is different from that of CBZ. There is no epoxy derivative, but a monohidroxy derivative (MHD) that is responsible from its clinical efficacy. In several clinical trials OXC has demonstrated efficacy in partial seizures both as add-on and in monotherapy. In these trials, OXC has been found to be as efficacious as CBZ, valproic acid or phenytoin, but with fewer adverse events and better tolerability. The most frequent adverse events of OXC are sedation, somnolence, headache, dizziness, and nausea. Most frequently, adverse events are transient and are minimized with dose reduction. OXC has not been associated with severe hematological, renal, or hepatic adverse events. Aymptomatic hypon",
+        "journal": "Neurologia (Barcelona, Spain)",
+        "year": "2001",
+        "authors": [
+          "Arroyo S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Animals",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Child, Preschool",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Epilepsy",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11738014/"
+      },
+      {
+        "pmid": "25109239",
+        "title": "Long-term safety and efficacy of zonisamide versus carbamazepine monotherapy for treatment of partial seizures in adults with newly diagnosed epilepsy: results of a phase III, randomized, double-blind study.",
+        "abstract": "To investigate the long-term safety and maintenance of efficacy of monotherapy with once-daily zonisamide versus twice-daily controlled-release carbamazepine for partial seizures in adults with newly diagnosed epilepsy.",
+        "journal": "Epilepsia",
+        "year": "2014",
+        "authors": [
+          "Baulac Michel",
+          "Patten Anna",
+          "Giorgi Luigi"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Delayed-Action Preparations",
+          "Double-Blind Method",
+          "Epilepsies, Partial",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25109239/"
+      },
+      {
+        "pmid": "21067945",
+        "title": "Cognitive and behavioral effects of lamotrigine and carbamazepine monotherapy in patients with newly diagnosed or untreated partial epilepsy.",
+        "abstract": "In this prospective study, we compared the long-term cognitive and behavioral effects of lamotrigine (LTG) and carbamazepine (CBZ) in patients with newly diagnosed or untreated partial epilepsy.",
+        "journal": "Seizure",
+        "year": "2011",
+        "authors": [
+          "Lee Sang-Ahm",
+          "Lee Hyang-Woon",
+          "Heo Kyoung",
+          "Shin Dong-Jin",
+          "Song Hong-Ki"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Behavior",
+          "Carbamazepine",
+          "Cognition",
+          "Epilepsies, Partial",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21067945/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:13:03.914524",
+  "success": true,
+  "error_message": null
+}

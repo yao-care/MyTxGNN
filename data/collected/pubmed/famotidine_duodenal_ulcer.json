@@ -1,0 +1,598 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Famotidine",
+    "disease": "duodenal ulcer",
+    "query_string": "Famotidine AND duodenal ulcer"
+  },
+  "data": {
+    "query": "Famotidine AND duodenal ulcer",
+    "results": [
+      {
+        "pmid": "9506245",
+        "title": "Rabeprazole.",
+        "abstract": "Rabeprazole is a proton pump inhibitor with antisecretory properties. In vitro animal experiments have indicated that the inhibition of the proton pump by rabeprazole is partially reversible. Rabeprazole has 2- to 10-fold greater antisecretory activity than omeprazole in vitro. However, it dissociates more readily from H+,K(+)-ATPase than omeprazole, resulting in a shorter duration of action. In comparative clinical trials rabeprazole was significantly more effective than placebo, famotidine or ranitidine and as effective as omeprazole in the treatment of patients with erosive or ulcerative gastro-oesophageal reflux disease or gastric or duodenal ulcers. Healing rates with rabeprazole were independent of Helicobacter pylori status. Rabeprazole in combination with either clarithromycin and metronidazole or clarithromycin and amoxicillin or amoxicillin and metronidazole or clarithromycin for 7 days produced eradication of H. pylori in 100, 95, 90 and 63% of patients. The tolerability pro",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Prakash A",
+          "Faulds D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Anti-Ulcer Agents",
+          "Benzimidazoles",
+          "Clinical Trials as Topic",
+          "Enzyme Inhibitors",
+          "Helicobacter Infections",
+          "Humans",
+          "Omeprazole",
+          "Peptic Ulcer",
+          "Proton Pump Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9506245/"
+      },
+      {
+        "pmid": "2979695",
+        "title": "What is an intractable duodenal ulcer and how should it be managed?",
+        "abstract": "An intractable duodenal ulcer is an ulcer that has not healed after 8 weeks of full-dose treatment with a modern anti-ulcer drug. Such ulcers are relatively rare--perhaps five in 100 patients will have intractable duodenal ulceration. The differential diagnosis includes non-compliance as a cause of continuing ulceration, hypersecretion of gastric acid or other rare causes of ulcers in the duodenum. Investigations should include biopsy of the continuing ulceration at endoscopy, measurement of fasting plasma gastrin and routine haematology and biochemistry profiles. An intractable duodenal ulcer can be treated either by using a powerful antisecretory regimen (high doses of ranitidine or famotidine or a conventional dose of omeprazole), by changing to tripotassium dicitrato bismuthate or, in exceptional circumstances, by extremely careful surgical intervention.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1987",
+        "authors": [
+          "Pounder R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Drug Resistance",
+          "Duodenal Ulcer",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2979695/"
+      },
+      {
+        "pmid": "3075106",
+        "title": "Famotidine in the short and long-term treatment of duodenal ulcer.",
+        "abstract": "Famotidine was compared to ranitidine in a short-term study on the treatment of duodenal ulcer. Famotidine 20 mg. b.i.d., 40 mg. b.i.d. and 40 mg. nocte heal as many ulcer as ranitidine (90.9%, 91.7%, 83.3% and 100% respectively). A single 20 mg. bedtime dose shows to be effective on preventing ulcer recurrence for as long as 48 weeks; the 38% recurrence rate observed with famotidine was statistically different from the 78% observed with placebo. Diarrhoea was the most common complain observed during the short-term trial, followed by sleepiness and headache. The few and small biochemical alterations during the long-term treatment (increase in transaminases, alkaline phosphatase, glucose, BUN) could in no instance be directly related to the substances on use.",
+        "journal": "Acta gastroenterologica Latinoamericana",
+        "year": "1988",
+        "authors": [
+          "Zaterka S",
+          "de Paula Castro L",
+          "Villalobos J J",
+          "Massuda H K",
+          "Eisig J N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Humans",
+          "Male",
+          "Random Allocation",
+          "Ranitidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3075106/"
+      },
+      {
+        "pmid": "8218758",
+        "title": "Omeprazole versus famotidine in the healing and relapse of duodenal ulcer.",
+        "abstract": "Sixty patients with symptomatic duodenal ulcer were randomized to receive either omeprazole (20 mg each morning) or famotidine (40 mg at night time) for 2-4 weeks in a double-blind parallel group clinical trial. Healing rates were higher with omeprazole in comparison with famotidine after 2 weeks (77% vs. 40%, P < 0.001) and 4 weeks (93% vs. 80%, P = 0.2) of treatment. Assessment of daily diary cards completed by all patients revealed that omeprazole rapidly relieved ulcer-related day pain and nocturnal pain in comparison to famotidine. Treatment with omeprazole for 2 weeks was also associated with lower cumulative antacid intake (P < 0.05) and reduced absenteeism from work. Helicobacter pylori infection was present in all patients and remained unaffected by treatment with either of the drugs. None of the drugs produced any significant adverse effects. During 6 months follow-up of all the patients after ulcer healing (without maintenance therapy), ulcer relapse was seen in 40% of omepr",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1993",
+        "authors": [
+          "Misra S C",
+          "Dasarathy S",
+          "Sharma M P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Absenteeism",
+          "Adult",
+          "Analgesics",
+          "Antacids",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Helicobacter Infections",
+          "Helicobacter pylori"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8218758/"
+      },
+      {
+        "pmid": "1621633",
+        "title": "Peptic ulcer disease.",
+        "abstract": "Peptic ulcer disease affects between 5 percent and 10 percent of Americans during their lifetime. There are a variety of predisposing factors, including nonsteroidal anti-inflammatory drug (NSAID) use, Helicobacter pylori infection, tobacco use and, possibly, certain dietary practices. While H2-receptor antagonists remain the mainstay of therapy, the selection of an antiulcer drug should be individualized. Famotidine is preferred in persons who use alcohol, sucralfate may be preferred for maintenance therapy in smokers and omeprazole is useful in hypersecretors of acid and in patients with resistant ulcers. Antacids remain an effective treatment for uncomplicated duodenal ulcer in motivated patients. Eradication of H. pylori using a bismuth preparation plus one or two antibiotic agents should be considered in patients who have frequent recurrences and evidence of infection. Finally, risk factors such as tobacco or NSAID use should be modified whenever possible to reduce the risk of ulc",
+        "journal": "American family physician",
+        "year": "1992",
+        "authors": [
+          "Ebell M H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1621633/"
+      },
+      {
+        "pmid": "1428035",
+        "title": "Comparative study of omeprazole and famotidine in the treatment of duodenal ulcer.",
+        "abstract": "In a double blind, multicenter, parallel group clinical trial in patients with symptomatic duodenal ulcers, 129 patients were randomized to receive either omeprazole 20 mg once daily (n = 65) or famotidine 40 mg once daily (n = 64) for 2 weeks, and if the ulcers were not healed, for a total of 4 weeks. Seventy four percent of these receiving omeprazole had healed ulcers after 2 weeks compared with 34.3% of those receiving famotidine (p < 0.001). At 4 weeks, the respective figures were 97.3% and 77.6% (p < 0.001). After 2 weeks of treatment, only 11.1% and 29.8% of omeprazole and famotidine treated patients respectively had day time pain (p < 0.02). Diary cards (successfully completed by 2/3rd of patients) showed that omeprazole treated patients required smaller amounts of antacids (p = ns). Over the first two weeks, ulcer healing rate was similar in smokers and non- smokers. No significant side effects were reported in either group. Omeprazole 20 mg/day provides more rapid relief of sy",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "year": "1992",
+        "authors": [
+          "Kumar T R",
+          "Naidu M U",
+          "Shobha J C",
+          "Reddy D N",
+          "Subhash S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1428035/"
+      },
+      {
+        "pmid": "2866133",
+        "title": "Famotidine in the management of duodenal ulcer: experience in Italy.",
+        "abstract": "A multicenter study that involved 15 Italian institutions was carried out to compare the efficacy and safety of famotidine 40 mg at bedtime, famotidine 20 mg b.i.d., famotidine 40 mg b.i.d., and ranitidine 150 mg b.i.d. in promoting the healing of acute duodenal ulcer. Two hundred and twenty-four patients with endoscopically proven duodenal ulcer were randomly allocated into four treatment groups. Efficacy results for the four groups were similar at weeks 2, 4, and 8 of therapy. At week 8, the percentage of patients healed in each group was as follows: 92% in the famotidine 40-mg bedtime group, 97% with 20 mg b.i.d., 93% with 40 mg b.i.d., and 90% with ranitidine 150 mg b.i.d. Day pain and night pain were markedly reduced in all four groups, antacid consumption fell considerably, and therapy was generally well tolerated. The adverse experiences evaluated by the investigator as possibly, probably, or definitely related to test medication were rare and moderate.",
+        "journal": "Digestion",
+        "year": "1985",
+        "authors": [
+          "Barbara L",
+          "Corinaldesi R",
+          "Bianchi Porro G",
+          "Lazzaroni M",
+          "Blasi A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Circadian Rhythm",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2866133/"
+      },
+      {
+        "pmid": "8835890",
+        "title": "Candida overgrowth after treatment of duodenal ulcer. A comparison of cimetidine, famotidine, and omeprazole.",
+        "abstract": "Acid-reducing drugs can cause increased growth of microbes, including fungus, because of high gastric pH. Our purpose was to evaluate the occurrence of mycotic infection in patients with duodenal ulcer on anti-ulcer therapy and to compare the effects of cimetidine, famotidine, and omeprazole. Eighty patients with duodenal ulcer (62 males and 18 female patients, 16-65 years old) were evaluated for mycotic infection before and after 6 weeks of therapy (cimetidine, 20 patients; famotidine, 40 patients; omeprazole, 20 patients). Mycotic infection was diagnosed by endoscopic biopsy from the ulcer edge subjected to smear, culture, and histopathology and by endoscopic brush samples and gastric aspirate. On the basis of these studies, patients were categorized as having no fungal growth, saprophytic growth, or significant fungal growth. Thirty-five (43.8%) patients had evidence of fungus before ulcer therapy, and 16 of the 35 (20%) had significant fungal growth. The fungal isolation rate was h",
+        "journal": "Journal of clinical gastroenterology",
+        "year": "1996",
+        "authors": [
+          "Goenka M K",
+          "Kochhar R",
+          "Chakrabarti A",
+          "Kumar A",
+          "Gupta O"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Ulcer Agents",
+          "Candidiasis",
+          "Cimetidine",
+          "Duodenal Diseases",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Gastric Acidity Determination",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8835890/"
+      },
+      {
+        "pmid": "2875864",
+        "title": "Famotidine. Pharmacodynamic and pharmacokinetic properties and a preliminary review of its therapeutic use in peptic ulcer disease and Zollinger-Ellison syndrome.",
+        "abstract": "Famotidine is a new histamine H2-receptor antagonist. On a weight basis, famotidine is 20 times more potent than cimetidine and 7.5 times more potent than ranitidine in inhibiting basal and pentagastrin-stimulated gastric acid secretion in humans. Therapeutic trials have shown that famotidine 20 mg twice daily or 40 mg at bedtime may be an effective alternative to standard doses of cimetidine for healing gastric ulcers and to standard doses of cimetidine and ranitidine for healing duodenal ulcers. When used prophylactically, a single 20 mg dose of famotidine at night decreases the incidence of duodenal ulcer recurrence (versus placebo). However, further study is needed to clarify the comparative efficacy of the H2-receptor antagonists, in particular as maintenance therapy for healed peptic ulcer. Preliminary results in a few patients with Zollinger-Ellison syndrome indicate that famotidine, alone or in combination with an anticholinergic agent, gives good control of gastric acid hypera",
+        "journal": "Drugs",
+        "year": "1986",
+        "authors": [
+          "Campoli-Richards D M",
+          "Clissold S P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Kinetics",
+          "Peptic Ulcer",
+          "Thiazoles",
+          "Zollinger-Ellison Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2875864/"
+      },
+      {
+        "pmid": "2866137",
+        "title": "Famotidine in the treatment of gastric and duodenal ulceration: overview of clinical experience.",
+        "abstract": "The new H2 receptor antagonist, famotidine, has been tested in open and double-blind studies in over 2,000 acute duodenal or gastric ulcer patients as well as in the maintenance of chronic duodenal ulcer patients. In early studies, dosages of 20 mg b.i.d. were found to achieve better results than 10 mg b.i.d. and equivalent to 20 mg t.i.d. Trials comparing famotidine to cimetidine, ranitidine, and gefarnate found the new agent to be approximately equivalent to cimetidine and ranitidine and superior to gefarnate in the treatment of acute duodenal ulcer. Similar trials were conducted to compare different types of therapy in acute gastric ulcer. Famotidine 40 mg at bedtime was significantly more effective than placebo, and a 20 mg b.i.d. dosage once again proved at least as active as cimetidine 200 mg q.i.d. and considerably more effective than gefarnate. Furthermore, famotidine 20 mg at bedtime was found to effectively prevent relapses for at least 6 months. The side effect profile was e",
+        "journal": "Digestion",
+        "year": "1985",
+        "authors": [
+          "Bianchi Porro G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Chronic Disease",
+          "Cimetidine",
+          "Circadian Rhythm",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Endoscopy",
+          "Famotidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2866137/"
+      },
+      {
+        "pmid": "2866134",
+        "title": "Famotidine versus ranitidine for the short-term treatment of duodenal ulcer.",
+        "abstract": "One-hundred and eight-three patients with endoscopically proven duodenal ulcers, enrolled in this prospective, double-blind study, were randomly allocated to receive famotidine 40 mg once at night, 20 mg twice daily, 40 mg twice daily, or ranitidine 150 mg twice daily for 2-8 weeks. Pretreatment characteristics between the four groups were similar. After 4 weeks of treatment, among the famotidine-treated patients, 38 of 42 (90.5%) healed with the 40 mg once nightly regimen, 35 of 42 (83.3%) with 20 mg twice daily, and 37 of 41 (90.2%) with 40 mg twice daily. In the ranitidine group 40 of 43 patients (93.0%) healed. After 8 weeks of treatment, the respective data were: 97.6, 95.2, 100 and 93.0%. Different results between the famotidine groups and the ranitidine group were not statistically significant. All treatments were well tolerated and severe adverse events were rare. Famotidine 40 mg given once at night appears to be as safe and effective as conventional therapy with ranitidine, i",
+        "journal": "Digestion",
+        "year": "1985",
+        "authors": [
+          "Simon B",
+          "Dammann H G",
+          "Jakob G",
+          "Miederer S E",
+          "Müller P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antacids",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2866134/"
+      },
+      {
+        "pmid": "8618582",
+        "title": "Famotidine for the prevention of gastric and duodenal ulcers caused by nonsteroidal antiinflammatory drugs.",
+        "abstract": "Acid suppression with famotidine, a histamine H2-receptor antagonist, provides protection against gastric injury in normal subjects receiving short courses of aspirin or naproxen. The efficacy of famotidine in preventing peptic ulcers in patients receiving long-term therapy with nonsteroidal antiinflammatory drugs (NSAIDs) is not known.",
+        "journal": "The New England journal of medicine",
+        "year": "1996",
+        "authors": [
+          "Taha A S",
+          "Hudson N",
+          "Hawkey C J",
+          "Swannell A J",
+          "Trye P N"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8618582/"
+      },
+      {
+        "pmid": "2877571",
+        "title": "Maintenance therapy of duodenal ulcer with famotidine. A multicenter United States study.",
+        "abstract": "The decision to treat a patient with duodenal ulcer should be based upon the following: severity of disease; effectiveness of treatment; and risk and cost of treatment. A number of drugs are effective for this condition. When administration of the drug is discontinued, a recurrence of the ulcer occurs most often within three months, with the rate approaching 90 percent at one year. Maintenance therapy has evolved as a method of preventing recurrence. A double-blind, randomized, multicenter study was done to compare 40 mg of famotidine at bedtime, 20 mg of famotidine at bedtime, and placebo in the maintenance treatment of patients with recently healed duodenal ulcer. In 37 centers in the United States, 303 patients received randomly allocated treatment with 40 mg of famotidine at bedtime (107 patients), 20 mg of famotidine at bedtime (97 patients), or placebo (99 patients). The treatment groups were comparable as to the risk factors and other characteristics. Esophagogastroduodenoscopie",
+        "journal": "The American journal of medicine",
+        "year": "1986",
+        "authors": [
+          "Texter E C",
+          "Navab F",
+          "Mantell G",
+          "Berman R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Female",
+          "Histamine H2 Antagonists",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2877571/"
+      },
+      {
+        "pmid": "3079011",
+        "title": "Famotidine in the management of duodenal ulcer: an analysis of multicenter findings worldwide.",
+        "abstract": "An integrated analysis of the fifteen published prospective multicenter studies that have examined the safety and efficacy of famotidine for the short-term (13) and maintenance (2) therapy of duodenal ulcer included over 2,600 patients. The thirteen studies of endoscopically proved acute duodenal ulcer that were published in English or were available in a complete English translation were reviewed. Six of these studies compared famotidine with ranitidine, one with cimetidine, one with gefarnate, and one with placebo, and four were uncontrolled. In controlled studies of the short-term therapy of symptomatic duodenal ulcer, famotidine was equal in efficacy to ranitidine or cimetidine and superior to placebo and gefarnate at all times examined. The efficacy of famotidine was examined in three oral dosing regimens--20 mg BID, 40 mg HS, and 40 mg BID. There were no significant differences in efficacy or side effects associated with these three regimens. Overall, the cumulative healing rate ",
+        "journal": "Clinical therapeutics",
+        "year": "1988",
+        "authors": [
+          "Reynolds J C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Evaluation Studies as Topic",
+          "Famotidine",
+          "Humans",
+          "Meta-Analysis as Topic",
+          "Multicenter Studies as Topic",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3079011/"
+      },
+      {
+        "pmid": "1863945",
+        "title": "The efficacy and tolerability of famotidine and ranitidine on the healing of active duodenal ulcer and during six-month maintenance treatment, with special reference to NSAID/aspirin-related ulcers.",
+        "abstract": "The subjects of this multicenter study were 160 patients with endoscopically confirmed active duodenal ulcers, randomly assigned to receive 40 mg of famotidine or 300 mg of ranitidine nightly for four to eight weeks. During a subsequent six-month maintenance treatment phase, the patients received 20 mg of famotidine or 150 mg of ranitidine nightly. After eight weeks of treatment, ulcer healing was endoscopically confirmed in 94% of the 81 famotidine-treated patients and in 80% of the 79 ranitidine-treated patients (P less than 0.01). During the first week of treatment, daytime and nighttime pain scores were significantly lower in the famotidine-treated than ranitidine-treated patients. During the maintenance treatment phase, the ulcer in 79% of 58 famotidine-treated patients and in 81% of 52 ranitidine-treated patients remained healed. Multivariate analysis of factors such as age, sex, smoking, alcohol and coffee consumption, use of nonsteroidal anti-inflammatory drugs (NSAIDs), histor",
+        "journal": "Clinical therapeutics",
+        "year": "1991",
+        "authors": [
+          "Bank S",
+          "Greenberg R E",
+          "Magier D",
+          "Lavin P T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Alcohol Drinking",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Aspirin",
+          "Coffee",
+          "Drug Administration Schedule",
+          "Duodenal Ulcer",
+          "Famotidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1863945/"
+      },
+      {
+        "pmid": "1747505",
+        "title": "Famotidine vs ranitidine h.s. in acute duodenal ulcer. A multicentre endoscopic trial.",
+        "abstract": "A double-blind, randomized, active drug-controlled study was conducted in order to evaluate the efficacy and safety of famotidine vs ranitidine h.s. in promoting the healing of acute duodenal ulcers. Two hundred and eighty patients participated in the trial and received either famotidine 40mg h.s. or ranitidine, 300mg h.s. The two groups were not significantly different with regard to sex and risk factors such as alcohol consumption and family history of peptic ulcer disease, while in the famotidine group, there was a slightly higher number of patients who smoked. Endoscopy was performed at the end of 4 and 6 weeks in 248 patients (128 in the famotidine group and 120 in the ranitidine group). The healing rate in those receiving famotidine was 73.4% at the end of 4 weeks and increased to 93% at the end of 6 weeks, while in the ranitidine group, the rate was 75.8% and 92.5% respectively. Day and night pain markedly reduced in both groups and therapy was generally well tolerated.",
+        "journal": "The Italian journal of gastroenterology",
+        "year": "1991",
+        "authors": [
+          "Bianchi Porro G",
+          "Lazzaroni M",
+          "Barbara L",
+          "Corinaldesi R",
+          "Blasi A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Endoscopy, Gastrointestinal",
+          "Famotidine",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1747505/"
+      },
+      {
+        "pmid": "37206569",
+        "title": "Efficacy and safety of proton pump inhibitors and H2 receptor antagonists in the initial non‑eradication treatment of duodenal ulcer: A network meta‑analysis.",
+        "abstract": "The present network meta-analysis aimed to enhance the corresponding evidence with respect to the efficacy and safety of pharmaceuticals treatments. Frequentist network meta-analysis was used. Medical literature up to November 2022 was searched for randomized clinical trials assessing the efficacy and safety of these pharmaceuticals, either compared with each other or compared with placebo. With the exception of ranitidine (300 mg four times daily) and vonoprazan (20 mg once daily) having lower safety than placebo, the efficacy and safety of the remaining treatments were superior to placebo. Cimetidine (400 mg four times daily) and pantoprazole (40 mg once daily) were ranked first in terms of efficacy. The frequentist network meta-analysis shows that for cimetidine (except 400 mg once daily), famotidine, rabeprazole, ilaprazole, lansoprazole (except 7.5 mg once daily) and omeprazole (except 10 mg once daily or 30 mg once daily), the efficacy comparison between the different doses of ea",
+        "journal": "Experimental and therapeutic medicine",
+        "year": "2023",
+        "authors": [
+          "Meng Xiangbo",
+          "Zhu Xiuying",
+          "Li Baixue",
+          "Liu Jibin",
+          "Zhao Jiawei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37206569/"
+      },
+      {
+        "pmid": "1420739",
+        "title": "Omeprazole versus famotidine in the short-term treatment of duodenal ulcer disease.",
+        "abstract": "The efficacy and safety of omeprazole, in 241 patients with active recurrent duodenal ulcer from 21 Italian centres, was studied in a multicentre double-blind randomized trial comparing 20 mg omeprazole o.m. or 40 mg famotidine nocte with endoscopic examination, symptom recording, laboratory screening and gastrin assay. In a per protocol analysis, the duodenal ulcer healing rates for omeprazole and famotidine, documented by endoscopy, were 62% (68/109) and 33% (39/117) after 2 weeks of treatment (P less than 0.001), 92% (96/104) and 80% (86/108) cumulative after 4 weeks (P less than 0.05), and 99% (102/103) and 92% (96/104) after 6 weeks (P less than 0.05), respectively. The results of this trial demonstrate that 20 mg omeprazole o.m. is superior to 40 mg famotidine nocte in duodenal ulcer healing.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1992",
+        "authors": [
+          "Delle Fave G",
+          "Annibale B",
+          "Franceschi M",
+          "Quatrini M",
+          "Cassetta M R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Abdominal Pain",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Evaluation Studies as Topic",
+          "Famotidine",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1420739/"
+      },
+      {
+        "pmid": "23881568",
+        "title": "Fixed-dose ibuprofen/famotidine: a review of its use to reduce the risk of gastric and duodenal ulcers in patients requiring NSAID therapy.",
+        "abstract": "A fixed-dose combination of the nonsteroidal anti-inflammatory drug (NSAID) ibuprofen and the histamine H(2) receptor antagonist famotidine (ibuprofen/famotidine; DUEXIS(®)) is now available for the symptomatic treatment of arthritic symptoms and to reduce the risk of upper gastrointestinal (GI) ulcers in patients who require ibuprofen therapy. The gastroprotective efficacy of oral ibuprofen/famotidine 800/26.6 mg three times daily in patients requiring NSAID therapy for inflammatory conditions and/or pain was evaluated in two 24-week, well-designed trials (REDUCE-1 and -2). According to the post-adjudication analysis of these studies, ibuprofen/famotidine significantly reduced the life table estimated rate of gastric ulcers (primary endpoint of REDUCE-1) but not upper GI ulcers (i.e. gastric or duodenal ulcers) [primary endpoint of REDUCE-2] compared with ibuprofen alone. When life table estimated rates of secondary endpoints were assessed, significantly fewer recipients of the fixed-",
+        "journal": "Clinical drug investigation",
+        "year": "2013",
+        "authors": [
+          "Deeks Emma D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Drug Combinations",
+          "Drug Interactions",
+          "Duodenal Ulcer",
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Ibuprofen",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23881568/"
+      },
+      {
+        "pmid": "2573505",
+        "title": "Famotidine. An updated review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in peptic ulcer disease and other allied diseases.",
+        "abstract": "Famotidine is a highly selective histamine H2-receptor antagonist. In healthy volunteers and patients with acid hypersecretory disease it is approximately 20 to 50 times more potent at inhibiting gastric acid secretion than cimetidine and 8 times more potent than ranitidine on a weight basis. As shown in placebo-controlled trials, famotidine is effective in healing both duodenal and gastric ulcers. Famotidine 20mg twice daily or 40mg at bedtime achieves healing rates and symptom relief similar or superior to those achieved by cimetidine 800mg daily or ranitidine 300mg daily in patients with peptic ulcer disease. Results of 1 placebo-controlled study suggest that famotidine prevents recurrence of duodenal ulcer, but comparative trials are needed to establish its relative efficacy in maintenance therapy. The few non-comparative trials conducted to date also suggest that famotidine 10 to 20mg twice daily may be effective in the treatment of gastritis and reflux gastro-oesophagitis. In com",
+        "journal": "Drugs",
+        "year": "1989",
+        "authors": [
+          "Langtry H D",
+          "Grant S M",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Famotidine",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Peptic Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2573505/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:39:13.773971",
+  "success": true,
+  "error_message": null
+}

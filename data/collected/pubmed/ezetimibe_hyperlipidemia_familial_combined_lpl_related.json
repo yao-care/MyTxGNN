@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ezetimibe",
+    "disease": "hyperlipidemia, familial combined, LPL related",
+    "query_string": "Ezetimibe AND hyperlipidemia, familial combined, LPL related"
+  },
+  "data": {
+    "query": "Ezetimibe AND hyperlipidemia, familial combined, LPL related",
+    "results": []
+  },
+  "timestamp": "2026-03-04T15:01:13.893234",
+  "success": true,
+  "error_message": null
+}

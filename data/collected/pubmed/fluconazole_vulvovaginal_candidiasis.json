@@ -1,0 +1,579 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluconazole",
+    "disease": "vulvovaginal candidiasis",
+    "query_string": "Fluconazole AND vulvovaginal candidiasis"
+  },
+  "data": {
+    "query": "Fluconazole AND vulvovaginal candidiasis",
+    "results": [
+      {
+        "pmid": "26164695",
+        "title": "Recurrent vulvovaginal candidiasis.",
+        "abstract": "Recurrent vulvovaginal candidiasis (RVVC) is a common cause of significant morbidity in women in all strata of society affecting millions of women worldwide. Previously, RVVC occurrence was limited by onset of menopause but the widespread use of hormone replacement therapy has extended the at-risk period. Candida albicans remains the dominant species responsible for RVVC, however optimal management of RVVC requires species determination and effective treatment measures are best if species-specific. Considerable progress has been made in understanding risk factors that determine susceptibility to RVVC, particularly genetic factors, as well as new insights into normal vaginal defense immune mechanisms and their aberrations in RVVC. While effective control of RVVC is achievable with the use of fluconazole maintenance suppressive therapy, cure of RVVC remains elusive especially in this era of fluconazole drug resistance. Vaccine development remains a critical challenge and need.",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2016",
+        "authors": [
+          "Sobel Jack D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Drug Resistance, Fungal",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Probiotics",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26164695/"
+      },
+      {
+        "pmid": "36198994",
+        "title": "Comparing the Effect of Probiotic and Fluconazole on Treatment and Recurrence of Vulvovaginal Candidiasis: a Triple-Blinded Randomized Controlled Trial.",
+        "abstract": "Vaginitis is a common problem in women. Candida albicans is responsible for more than 85% of vaginal fungal infections. The aim of this study was to compare the effects of probiotic and fluconazole on the treatment and recurrence of vulvovaginal candidiasis (VVC). This triple-blinded randomized controlled trial was conducted on 80 married women, aged 18-49 years, with VVC, as confirmed by clinical and laboratory diagnosis. The participants were allocated into two groups using blocked randomization method. The fluconazole-treated group received a single dose of fluconazole (150 mg) supplemented with 30 placebo capsules of probiotic, and the probiotic-treated group got 30 probiotic capsules containing 1 × 109 CFU/g LA-5 with 1 fluconazole placebo capsule. The samples were taken from patients to evaluate the vaginal pH and microbiological tests before, 30-35 days, and 60-65 days after starting the treatment. The signs and symptoms were assessed before the intervention and the first and se",
+        "journal": "Probiotics and antimicrobial proteins",
+        "year": "2023",
+        "authors": [
+          "Mollazadeh-Narestan Zahra",
+          "Yavarikia Parisa",
+          "Homayouni-Rad Aziz",
+          "Samadi Kafil Hossein",
+          "Mohammad-Alizadeh-Charandabi Sakineh"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Fluconazole",
+          "Candidiasis, Vulvovaginal",
+          "Antifungal Agents",
+          "Capsules",
+          "Iran",
+          "Probiotics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36198994/"
+      },
+      {
+        "pmid": "38257934",
+        "title": "Bacterial Vaginosis and Vulvovaginal Candidiasis Pathophysiologic Interrelationship.",
+        "abstract": "Among the infectious causes of vulvovaginal symptoms, bacterial vaginosis (BV) and vulvovaginal candidiasis (VVC) dominate. Apart from infrequent mixed infections, both are considered independent and caused by unrelated pathogenic mechanisms. Clinical experience, however, is strongly suggestive that in some populations these infections are linked with recurrent BV (RBV) serving as the dominant etiopathogenic trigger for development of recurrent VVC (RVVC) with profound clinical and therapeutic consequences. The biologic basis for this critical interrelationship is discussed and suggests that as a consequence of BV dysbiosis, and not necessarily because of antibiotics prescribed, immune defenses are compromised, neutralizing vaginal yeast tolerance. The consequent BV-induced vaginal proinflammatory environment predisposes to mixed infection or consecutive episodes of post-treatment VVC. Recurrent BV and repeated antimicrobial drug exposure also predispose to acquired fluconazole resista",
+        "journal": "Microorganisms",
+        "year": "2024",
+        "authors": [
+          "Sobel Jack D",
+          "Vempati Yogitha Sai"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38257934/"
+      },
+      {
+        "pmid": "25775428",
+        "title": "Candidiasis (vulvovaginal).",
+        "abstract": "Vulvovaginal candidiasis is estimated to be the second most common cause of vaginitis after bacterial vaginosis. Candida albicans accounts for 85% to 90% of cases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2015",
+        "authors": [
+          "Martin Lopez Juliana Ester"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Complementary Therapies",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Itraconazole",
+          "Yogurt"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25775428/"
+      },
+      {
+        "pmid": "35416967",
+        "title": "Vulvovaginal Candidiasis: A Review of the Evidence for the 2021 Centers for Disease Control and Prevention of Sexually Transmitted Infections Treatment Guidelines.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a common cause of vulvovaginal itching and discharge. This article discusses the latest CDC STI Treatment Guidelines for VVC.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2022",
+        "authors": [
+          "Nyirjesy Paul",
+          "Brookhart Carolyn",
+          "Lazenby Gweneth",
+          "Schwebke Jane",
+          "Sobel Jack D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis, Vulvovaginal",
+          "Centers for Disease Control and Prevention, U.S.",
+          "Female",
+          "Fluconazole",
+          "HIV Infections",
+          "Humans",
+          "Pregnancy",
+          "Saccharomyces cerevisiae"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35416967/"
+      },
+      {
+        "pmid": "37643144",
+        "title": "Beyond fluconazole: A review of vulvovaginal candidiasis diagnosis and treatment.",
+        "abstract": "Vaginitis symptoms are among the most common reasons for patients to seek acute gynecological care. NPs who care for women and other patients with vaginas need to be up-to-date on diagnosis and treatment of vulvovaginal candidiasis (VVC) and recurrent VVC (RVVC). Two new antifungal medications for VVC are available. This article reviews vaginal physiology and provides an overview of VVC and RVVC pathophysiology, diagnosis, and treatment options.",
+        "journal": "The Nurse practitioner",
+        "year": "2023",
+        "authors": [
+          "Hellier Susan D",
+          "Wrynn Alexander F"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Fluconazole",
+          "Candidiasis, Vulvovaginal",
+          "Vagina",
+          "Critical Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37643144/"
+      },
+      {
+        "pmid": "21774671",
+        "title": "Boric acid for recurrent vulvovaginal candidiasis: the clinical evidence.",
+        "abstract": "Recurrent vulvovaginal candidiasis (VVC) remains a challenge to manage in clinical practice. Recent epidemiologic studies indicate that non-albicans Candida spp. are more resistant to conventional antifungal treatment with azoles and are considered as causative pathogens of vulvovaginal candidiasis.",
+        "journal": "Journal of women's health (2002)",
+        "year": "2011",
+        "authors": [
+          "Iavazzo Christos",
+          "Gkegkes Ioannis D",
+          "Zarkada Ioanna M",
+          "Falagas Matthew E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Anti-Infective Agents, Local",
+          "Antifungal Agents",
+          "Azoles",
+          "Biological Availability",
+          "Boric Acids",
+          "Candida",
+          "Candidiasis, Vulvovaginal",
+          "Case-Control Studies",
+          "Drug Resistance, Multiple, Fungal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21774671/"
+      },
+      {
+        "pmid": "36159646",
+        "title": "Management of recurrent vulvovaginal candidosis: Narrative review of the literature and European expert panel opinion.",
+        "abstract": "Recurrent vulvovaginal candidosis (RVVC) is a chronic, difficult to treat vaginal infection, caused by Candida species, which affects women of all ages and ethnic and social background. A long-term prophylactic maintenance regimen with antifungals is often necessary. In most clinical practice guidelines, oral fluconazole is recommended as the first-line treatment. Although clinical resistance to antifungal agents remains rare, overexposure to azoles may increase the development of fluconazole-resistant C. albicans strains. In addition, non-albicans Candida species are frequently dose-dependent susceptible or resistant to fluconazole and other azoles, and their prevalence is rising. Available therapeutic options to treat such fluconazole-resistant C. albicans and low susceptibility non-albicans strains are limited. Ten experts from different European countries discussed problematic issues of current RVVC diagnosis and treatment in two audiotaped online sessions and two electronic follow",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2022",
+        "authors": [
+          "Donders Gilbert",
+          "Sziller István Oszkár",
+          "Paavonen Jorma",
+          "Hay Phillip",
+          "de Seta Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Azoles",
+          "Candida",
+          "Candida albicans",
+          "Candidiasis, Vulvovaginal",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36159646/"
+      },
+      {
+        "pmid": "21718579",
+        "title": "Candidiasis (vulvovaginal).",
+        "abstract": "Vulvovaginal candidiasis is estimated to be the second most common cause of vaginitis after bacterial vaginosis. Candida albicans accounts for 85% to 90% of cases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2010",
+        "authors": [
+          "Spence Des"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Oral",
+          "Candida albicans",
+          "Candidiasis, Vulvovaginal",
+          "Evidence-Based Medicine",
+          "Fluconazole",
+          "Humans",
+          "Itraconazole",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21718579/"
+      },
+      {
+        "pmid": "23280281",
+        "title": "Weekly fluconazole therapy for recurrent vulvovaginal candidiasis: a systematic review and meta-analysis.",
+        "abstract": "To investigate the efficacy, compared to placebo, of fluconazole 150 mg weekly, given for six months as prophylaxis against recurrent vulvovaginal candidiasis (RVVC).",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2013",
+        "authors": [
+          "Rosa Maria I",
+          "Silva Bruno R",
+          "Pires Patrícia S",
+          "Silva Fábio R",
+          "Silva Napoleão C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antibiotic Prophylaxis",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Drug Administration Schedule",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Secondary Prevention"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23280281/"
+      },
+      {
+        "pmid": "36184563",
+        "title": "Vulvovaginal candidiasis in Iranian women: Molecular identification and antifungal susceptibility pattern.",
+        "abstract": "Vulvovaginal candidiasis (VVC), is a common fungal infection that remains a global concern. The objectives of this study were molecular identification and assessment of the antifungal susceptibility profile of Candida species, causing VVC in southeast Iran.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2022",
+        "authors": [
+          "Khaksar Baniasadi Ali",
+          "Ayatollahi Mosavi Seyyed Amin",
+          "Sharifi Iraj",
+          "Bamorovat Mehdi",
+          "Salari Samira"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Candidiasis, Vulvovaginal",
+          "Antifungal Agents",
+          "Iran",
+          "Fluconazole",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Fungal",
+          "Microbial Sensitivity Tests",
+          "Candida albicans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36184563/"
+      },
+      {
+        "pmid": "40091959",
+        "title": "Recurrent Vulvovaginal Candidiasis Caused by Fluconazole-Resistant Candida albicans: A Retrospective Study.",
+        "abstract": "Background Vulvovaginal candidiasis (VVC) is a common inflammatory condition caused by Candida species, primarily Candida albicans, manifesting with symptoms such as itching, erythema, and curd-like discharge. Recurrent vulvovaginal candidiasis (RVVC), defined by three or more symptomatic yeast infections within a year, poses significant challenges in management due to factors such as antifungal resistance and comorbidities. Materials and methods This retrospective descriptive study analyzed 11 cases of RVVC due to fluconazole-resistant Candida albicans. Data included demographic characteristics, medical history, presenting symptoms, recurrence duration, treatment modalities, comorbidities, and outcomes. Microbiological analysis involved vaginal swabs for fungal culture and antifungal susceptibility testing. The study was conducted in accordance with ethical guidelines. Results Patients, primarily pre-menopausal females aged 20 to 53 years, presented with vaginal itching and discharge.",
+        "journal": "Cureus",
+        "year": "2025",
+        "authors": [
+          "Sasi Sreethish",
+          "Abdelmajid Alaaeldin",
+          "Salah Husam",
+          "Ibrahim Emad",
+          "Al-Maslamani Muna"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40091959/"
+      },
+      {
+        "pmid": "38095426",
+        "title": "Oteseconazole versus fluconazole for the treatment of severe vulvovaginal candidiasis: a multicenter, randomized, double-blinded, phase 3 trial.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a common condition among women. Fluconazole remains the dominant treatment option for VVC. Oteseconazole is a highly selective inhibitor of fungal CYP51. This randomized, double-blinded, phase 3 trial was conducted to evaluate the efficacy and safety of oteseconazole compared with fluconazole in treating severe VVC. Female subjects presenting with vulvovaginal signs and symptoms score of ≥7 and positive Candida infection determined by potassium hydroxide test or Gram staining were randomly assigned to receive oteseconazole (600 mg on D1 and 450 mg on D2) or fluconazole (150 mg on D1 and D4) in a 1:1 ratio. The primary endpoint was the proportion of subjects achieving therapeutic cure [defined as achieving both clinical cure (absence of signs and symptoms of VVC) and mycological cure (negative culture of Candida species)] at D28. A total of 322 subjects were randomized and 321 subjects were treated. At D28, a statistically significantly higher proportio",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2024",
+        "authors": [
+          "Wang Xiaoqian",
+          "Chen Lihong",
+          "Ruan Hongjie",
+          "Xiong Zhengai",
+          "Wang Wenying"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Fluconazole",
+          "Candidiasis, Vulvovaginal",
+          "Antifungal Agents",
+          "Candida",
+          "Administration, Oral",
+          "Candida albicans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38095426/"
+      },
+      {
+        "pmid": "19454049",
+        "title": "Candidiasis (vulvovaginal).",
+        "abstract": "Vulvovaginal candidiasis is estimated to be the second most common cause of vaginitis after bacterial vaginosis. Candida albicans accounts for 85-90% of cases.",
+        "journal": "BMJ clinical evidence",
+        "year": "2007",
+        "authors": [
+          "Spence Des"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intravaginal",
+          "Administration, Oral",
+          "Candidiasis, Vulvovaginal",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Intraabdominal Infections",
+          "United States Food and Drug Administration",
+          "Vaginosis, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454049/"
+      },
+      {
+        "pmid": "37947253",
+        "title": "Fluconazole and propolis co-encapsulated in chitosan nanoparticles for the treatment of vulvovaginal candidiasis in a murine model.",
+        "abstract": "Vulvovaginal candidiasis (VVC) is a fungal infection caused mainly by Candida albicans. The treatment of VVC with azoles has been impaired due to the increased cases of resistance presented by this pathogen. The aim of the present study was to investigate the antifungal activity of mucoadhesive chitosan nanoparticles encapsulating both green propolis and fluconazole for topical use in the treatment of VVC. The nanoparticles were prepared by the ionic gelation method, resulting in a size of 316.5 nm containing 22 mg/kg of green propolis and 2.4 mg/kg of fluconazole. The nanoparticles were non-toxic in vitro using red blood cells or in vivo in a Galleria mellonella toxicity model. The treatment of female BALB/c mice infected by C. albicans ATCC 10231 with topical nanoparticles co-encapsulating fluconazole and green propolis was effective even using a fluconazole amount 20 times lower than the amount of miconazole nitrate 2% cream. Considering that the mucoadhesive property of chitosan, w",
+        "journal": "Medical mycology",
+        "year": "2023",
+        "authors": [
+          "da Silva Jacqueline Teixeira",
+          "Dantas de Sousa Paulo Henrique",
+          "Costa Adelaide Fernandes",
+          "de Menezes Liliana Borges",
+          "Alves Suzana Ferreira"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Animals",
+          "Mice",
+          "Fluconazole",
+          "Candidiasis, Vulvovaginal",
+          "Antifungal Agents",
+          "Chitosan",
+          "Propolis",
+          "Disease Models, Animal",
+          "Candida albicans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37947253/"
+      },
+      {
+        "pmid": "35482711",
+        "title": "Vulvovaginal candidiasis and asymptomatic vaginal colonization in Portugal: Epidemiology, risk factors and antifungal pattern.",
+        "abstract": "Vulvovaginal candidiasis (VVC) has been identified as a global issue of concern due to its clinical, social and economic implications. The emerging relevance of VVC makes it crucial to increase the knowledge on its epidemiological and etiological features in order to improve its prevention and treatment. Thus, this study aimed to reveal the incidence, microbiology, antifungal pattern and risk factors of VVC in Portugal. For that, high vaginal samples were collected from 470 symptomatic and asymptomatic participants; Candida spp. were identified with molecular techniques and their antifungal susceptibility was analyzed with E-tests. The results revealed an incidence of VVC among women with vulvovaginitis of 74.4%. Furthermore, 63.7% of asymptomatic women were colonized with Candida spp. Importantly, women with history of recurrent vaginal infections, those who use over-the-counter antifungals, oral contraceptive pills and non-cotton underwear were found to be at significantly higher ris",
+        "journal": "Medical mycology",
+        "year": "2022",
+        "authors": [
+          "Fernandes Ângela",
+          "Azevedo Nuno",
+          "Valente Andreia",
+          "Dias Marisol",
+          "Gomes Ana"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Candida",
+          "Candida albicans",
+          "Candidiasis, Vulvovaginal",
+          "Female",
+          "Humans",
+          "Microbial Sensitivity Tests",
+          "Portugal",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35482711/"
+      },
+      {
+        "pmid": "38319878",
+        "title": "Efficacy and Safety of Oteseconazole in Recurrent Vulvovaginal Candidiasis.",
+        "abstract": "BACKGROUND: Management of recurrent vulvovaginal candidiasis (RVVC) is an unmet clinical challenge without approved treatment in the United States. Oteseconazole is a novel oral selective inhibitor of fungal CYP51, designed to treat RVVC without off-target toxicities. VIOLET comprised two global, phase 3, multicenter, randomized, double-blind, placebo-controlled trials (CL-011 and CL-012). The primary objective was to evaluate oteseconazole efficacy through week 48. Key secondary objectives evaluated time to first recurrence, safety, and patient-reported outcomes. METHODS: Women with three or more symptomatic acute vulvovaginal candidiasis (VVC) episodes within the previous 12-month period, including the screening episode (in which the VVC episode cleared with fluconazole induction therapy), were randomly assigned 2:1 at baseline (maintenance phase) to 150 mg of oral oteseconazole daily for 7days and then once weekly for 11 weeks or to matching placebo for 12 weeks. Time-to-first-recur",
+        "journal": "NEJM evidence",
+        "year": "2022",
+        "authors": [
+          "Sobel Jack D",
+          "Donders Gilbert",
+          "Degenhardt Thorsten",
+          "Person Karen",
+          "Curelop Stacey"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Candidiasis, Vulvovaginal",
+          "Antifungal Agents",
+          "Adult",
+          "Double-Blind Method",
+          "Recurrence",
+          "Young Adult",
+          "Treatment Outcome",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38319878/"
+      },
+      {
+        "pmid": "38568411",
+        "title": "Efficacy and safety of oral ibrexafungerp in Chinese patients with vulvovaginal candidiasis: a phase III, randomized, double-blind study.",
+        "abstract": "To evaluate the efficacy and safety of oral ibrexafungerp (HS-10366) versus placebo in Chinese patients with vulvovaginal candidiasis (VVC).",
+        "journal": "Infection",
+        "year": "2024",
+        "authors": [
+          "Wang Xiaoqian",
+          "Wang Wenying",
+          "Li Jingjing",
+          "An Ruifang",
+          "Chen Lihong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Candidiasis, Vulvovaginal",
+          "Double-Blind Method",
+          "Adult",
+          "Antifungal Agents",
+          "Young Adult",
+          "Treatment Outcome",
+          "Administration, Oral",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38568411/"
+      },
+      {
+        "pmid": "18068146",
+        "title": "Itraconazole vs fluconazole for the treatment of uncomplicated acute vaginal and vulvovaginal candidiasis in nonpregnant women: a metaanalysis of randomized controlled trials.",
+        "abstract": "In this metaanalysis of randomized controlled trials (RCTs) we aimed to compare the in vivo and in vitro activity and the safety of per os itraconazole and fluconazole treatment of uncomplicated acute vaginal/vulvovaginal candidiasis in nonpregnant women. We used PubMed, Scopus, Web of Science, and Cochrane Library to identify the studies that were relevant to our metaanalysis RCTs. Six RCTs were included in this study that comprised 1092 enrolled patients with signs and symptoms of vaginal/vulvovaginal candidiasis that was confirmed by microscopy and/or microbiologic cultures that were obtained from the ectocervix and/or vaginal fundus. Overall, there was no difference between itraconazole and fluconazole regarding clinical cure and improvement at the first and second scheduled visit assessments (pooled odds ratio [OR], 0.94 [95% CI, 0.6-1.48] and 1.09 [95% CI, 0.68-1.75], respectively), mycologic cure at the first and second scheduled visit assessments (OR, 0.73 [95% CI, 0.31-1.7] an",
+        "journal": "American journal of obstetrics and gynecology",
+        "year": "2008",
+        "authors": [
+          "Pitsouni Eleni",
+          "Iavazzo Christos",
+          "Falagas Matthew E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Antifungal Agents",
+          "Candidiasis, Vulvovaginal",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Itraconazole",
+          "Randomized Controlled Trials as Topic",
+          "Severity of Illness Index",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18068146/"
+      },
+      {
+        "pmid": "40619549",
+        "title": "Symptomatic vulvovaginal candidiasis and antifungal resistance in HIV-1 positive women at Mbarara city health centre IV.",
+        "abstract": "Vulvovaginal candidiasis (VVC) represents a universal health hazard that contributes to significant morbidity in HIV-positive women. Antifungal resistance is a worldwide increasing health problem that reduces treatment options while increasing treatment costs. The purpose of this study was to determine the prevalence of VVC, identify associated risk factors, characterize the distribution of Candida species, and assess their antifungal susceptibility patterns among HIV-positive women attending Mbarara City Health Centre IV. A laboratory-based, cross-sectional study design was conducted on 146 high vaginal swabs collected from HIV- positive women aged 18 years and above attending routine HIV care that presented with signs and symptoms of vulvovaginal candidiasis. These were subjected to microscopy and culture on Sabouraud Dextrose Agar. Candida isolates were identified by gram stain, germ tube, CHROM agar™, and Analytical profile index (API® Candida) tests. Susceptibility to fluconazole,",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Mbatudde Nusifah",
+          "Nalumaga Pauline Petra",
+          "Bazira Joel",
+          "Kabanda Taseera"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Candidiasis, Vulvovaginal",
+          "Adult",
+          "Antifungal Agents",
+          "Drug Resistance, Fungal",
+          "HIV Infections",
+          "Cross-Sectional Studies",
+          "Candida",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40619549/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:15:35.407212",
+  "success": true,
+  "error_message": null
+}

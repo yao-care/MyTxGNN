@@ -1,0 +1,222 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Loratadine",
+    "disease": "pharyngitis",
+    "query_string": "Loratadine AND pharyngitis"
+  },
+  "data": {
+    "query": "Loratadine AND pharyngitis",
+    "results": [
+      {
+        "pmid": "28441993",
+        "title": "Randomized, placebo-controlled study of cetirizine and loratadine in children with seasonal allergic rhinitis.",
+        "abstract": "Pharmacologic treatment is a mainstay of allergy therapy and many caregivers use over-the-counter antihistamines for the treatment of seasonal allergic rhinitis (SAR) symptoms in children.",
+        "journal": "Allergy and asthma proceedings",
+        "year": "2017",
+        "authors": [
+          "Nayak Anjuli S",
+          "Berger William E",
+          "LaForce Craig F",
+          "Urdaneta Eduardo R",
+          "Patel Mitesh K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anti-Allergic Agents",
+          "Cetirizine",
+          "Child",
+          "Female",
+          "Headache",
+          "Humans",
+          "Loratadine",
+          "Male",
+          "Pharyngitis",
+          "Rhinitis, Allergic, Seasonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28441993/"
+      },
+      {
+        "pmid": "12962522",
+        "title": "Desloratadine: an update of its efficacy in the management of allergic disorders.",
+        "abstract": "Desloratadine (Clarinex, Neoclarityn, Aerius, Azomyr, Opulis, Allex), the principal metabolite of loratadine, is itself an orally active, nonsedating, peripheral histamine H(1)-receptor antagonist. It is indicated in the US and Europe for the treatment of seasonal allergic rhinitis (SAR), perennial allergic rhinitis (PAR) and chronic idiopathic urticaria (CIU). It has a rapid onset of effect, efficacy throughout a 24-hour dosage interval, and sustained efficacy in these allergic conditions, as demonstrated in placebo-controlled trials of up to 6 weeks' duration in adult and adolescent patients. At present, there are no published direct comparisons of desloratadine and other H(1)-antihistamines; however, the principal, potential clinical advantages of desloratadine over late-generation H(1)-antihistamines are the drug's decongestant activity, which has been corroborated in several studies of patients with allergic rhinitis, and its anti-inflammatory effects. Indeed, the decongestant act",
+        "journal": "Drugs",
+        "year": "2003",
+        "authors": [
+          "Murdoch David",
+          "Goa Karen L",
+          "Keam Susan J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Histamine H1 Antagonists, Non-Sedating",
+          "Humans",
+          "Hypersensitivity",
+          "Loratadine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12962522/"
+      },
+      {
+        "pmid": "9806113",
+        "title": "Mometasone furoate. A review of its intranasal use in allergic rhinitis.",
+        "abstract": "Mometasone furoate is a synthetic corticosteroid which has been evaluated for intranasal use in the treatment of adults and children with allergic rhinitis. In several large, well-controlled clinical trials, mometasone furoate 200 micrograms administered once daily as an aqueous intranasal spray was significantly more effective than placebo in controlling the symptoms associated with moderate to severe seasonal or perennial allergic rhinitis. Mometasone furoate was as effective as twice-daily beclomethasone dipropionate or once-daily fluticasone propionate in the treatment of perennial allergic rhinitis, and was as effective as twice-daily beclomethasone dipropionate and slightly more effective than once-daily oral loratadine in the treatment of seasonal allergic rhinitis. Mometasone furoate was also as effective as twice-daily beclomethasone dipropionate or once-daily budesonide, and significantly more effective than placebo in the prophylaxis of seasonal allergic rhinitis. The onset ",
+        "journal": "Drugs",
+        "year": "1998",
+        "authors": [
+          "Onrust S V",
+          "Lamb H M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Allergic Agents",
+          "Humans",
+          "Mometasone Furoate",
+          "Pregnadienediols",
+          "Rhinitis, Allergic, Perennial",
+          "Rhinitis, Allergic, Seasonal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9806113/"
+      },
+      {
+        "pmid": "12642846",
+        "title": "Efficacy and safety of desloratadine in the treatment of perennial allergic rhinitis.",
+        "abstract": "The evidence base for the use of H1-antihistamines in the treatment of perennial allergic rhinitis is considerably smaller than it is in the treatment of seasonal allergic rhinitis.",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "2003",
+        "authors": [
+          "Simons F Estelle R",
+          "Prenner Bruce M",
+          "Finn Albert"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Child",
+          "Double-Blind Method",
+          "Female",
+          "Histamine H1 Antagonists, Non-Sedating",
+          "Humans",
+          "Loratadine",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12642846/"
+      },
+      {
+        "pmid": "11277962",
+        "title": "Once-daily desloratadine improves the signs and symptoms of chronic idiopathic urticaria: a randomized, double-blind, placebo-controlled study.",
+        "abstract": "Chronic idiopathic urticaria (CIU) is the most common type of chronic urticaria, and pruritus is the most prominent symptom. Antihistamines are the first-line treatment for CIU. Sedation and anticholinergic adverse effects are often experienced with the first-generation antihistamines and there is a risk of cardiovascular adverse effects and drug interactions with some second-generation agents. Hence, new treatment options are needed. Desloratadine is a new, potent, nonsedating antihistamine that has an excellent cardiovascular safety profile.",
+        "journal": "International journal of dermatology",
+        "year": "2001",
+        "authors": [
+          "Ring J",
+          "Hein R",
+          "Gauger A",
+          "Bronsky E",
+          "Miller B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Cholinergic Antagonists",
+          "Chronic Disease",
+          "Dizziness",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Fatigue",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11277962/"
+      },
+      {
+        "pmid": "8621843",
+        "title": "Intranasal fluticasone propionate versus loratadine in the treatment of adolescent patients with seasonal allergic rhinitis.",
+        "abstract": "Fluticasone propionate (FP) is a topical corticosteroid with minimal systemic activity. We examined safety and compared the efficacy of FP aqueous nasal spray, 200 micrograms every day with loratadine tablets, 10 mg by mouth every day in 240 adolescents with ragweed pollen-induced seasonal allergic rhinitis for 4 weeks in a randomized, double-blind, parallel-group study. Nasal and eye symptoms were recorded daily on a 4-point (0 to 3) scale. A higher percentage of symptom-free days was observed for nasal blockage on waking during treatment with FP (p < 0.0001). Significant results were also obtained for all other nasal symptoms when analyzed for both symptom-free days and symptom scores. No differences were found for eye irritation symptoms (p = 0.14). Morning and evening nasal peak inspiratory flow (PIF) was recorded daily by 57 subjects. FP treatment was associated wit significantly higher PIF values than loratadine both morning (p = 0.0051) and evening (p = 0.0036). A greater improv",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "1996",
+        "authors": [
+          "Jordana G",
+          "Dolovich J",
+          "Briscoe M P",
+          "Day J H",
+          "Drouin M A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Adolescent",
+          "Androstadienes",
+          "Anti-Allergic Agents",
+          "Child",
+          "Double-Blind Method",
+          "Female",
+          "Fluticasone",
+          "Headache",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8621843/"
+      },
+      {
+        "pmid": "19821542",
+        "title": "Best drugs for what ails you: the brands to buy--and those to skip.",
+        "abstract": "",
+        "journal": "Consumer reports",
+        "year": "2009",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acetaminophen",
+          "Anesthetics, Local",
+          "Cetirizine",
+          "Chlorpheniramine",
+          "Common Cold",
+          "Cough",
+          "Dextromethorphan",
+          "Diphenhydramine",
+          "Drug Costs",
+          "Drug Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19821542/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:49:22.048143",
+  "success": true,
+  "error_message": null
+}

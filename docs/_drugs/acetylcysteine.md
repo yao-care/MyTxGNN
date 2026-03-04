@@ -6,7 +6,7 @@ drug_name: "Acetylcysteine"
 kg_predictions: 232
 dl_predictions: 269
 evidence_level: "L1"
-indication_count: 232
+indication_count: 5
 brands: []
 permalink: /drugs/acetylcysteine/
 ---

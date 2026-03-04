@@ -1,0 +1,253 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Atenolol",
+    "disease": "myocardial infarction"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01499511",
+      "title": "Anglo-Scandinavian Cardiac Outcomes Trial: Post Trial Follow-Up Study",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2016-01-31",
+      "country": "United Kingdom",
+      "enrollment": 1718,
+      "brief_summary": "ASCOT-10 is a follow-up study of surviving participants in the United Kingdom (UK)arm of the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT) which was conducted between 2000 and 2005.ASCOT's results showed substantial cardiovascular benefit from: 1) the use of a cholesterol lowering drug (atorvastatin) compared to placebo, and 2) the use of a blood-pressure lowering strategy based on amlodipine when compared to a strategy based on atenolol. ASCOT-10 will test the hypothesis that the ASCOT subj",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Surviving ASCOT participants from the participating UK sites\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Number of Participants Who Have Died From Cardiovascular Disease Since the End of the ASCOT Study",
+        "Number of Participants With Non Fatal Myocardial Infarction",
+        "Number of Participants With Non Fatal Stroke/TIA (Transient Ischaemic Attack)"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT01499511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00158093",
+      "title": "A Randomized, Parallel Group Safety Evaluation of Electrocardiographic Intervals and Blood Pressure in Normal Healthy Volunteers After Nebivolol, Atenolol, Moxifloxacin, or Placebo Administration After Single and Repeated Doses",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2003-07",
+      "country": "United States",
+      "enrollment": 260,
+      "brief_summary": "Nebivolol is one of a class of drugs known as beta-blockers. These drugs are useful in the treatment of high blood pressure, angina, abnormal heart rhythms and following a heart attack. The purpose of this study is to explore the potential of nebivolol to cause a certain type of abnormal heart rhythm, known as QTc prolongation. The potential of nebivolol to cause this adverse event will be compared to three other drugs: atenolol, a beta-blocker approved by the FDA; Avelox (moxifloxacin), an anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and nonpregnant, nonlactating women were 18 years or older.\n* Women declaring postmenopausal or surgical sterility.\n* Women of childbearing potential who had a negative serum HCG within 2 weeks of dosing.\n* Male subjects weighed at least 60 kg (132 lb), and female subjects",
+      "endpoints": [
+        "The primary study endpoint was the change in the average QTc intervals from Day 0 to 2 hours after dosing on Day 7."
+      ],
+      "sponsor": "Mylan Bertek Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00158093"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01057537",
+      "title": "A Randomised Controlled Trial of a Fixed-dose Combination Polypill Medication (the Red Heart Pill) and Usual Care in Those at High Risk of Cardiovascular Disease.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2012-09",
+      "country": "India, Ireland, Australia, Netherlands, United Kingdom",
+      "enrollment": 2004,
+      "brief_summary": "People with established cardiovascular disease need secondary prevention that addresses multiple risk factors. Complexity \\& cost confer particularly difficult barriers to uptake of treatment; recovery from a stroke or heart attack typically necessitates multiple drugs for cholesterol, blood pressure and platelet function. A low-cost, fixed-dose, once-daily combination polypill, the Red Heart Pill, has been formulated by Dr Reddy's Laboratories. UMPIRE will evaluate whether provision of this pol",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (≥ 18 years)\n* The participant is able to give informed consent.\n* Established atherothrombotic cardiovascular disease (CVD) or high cardiovascular risk, of for individuals without established cardiovascular disease, a calculated 5 year CVD risk of 15% or greater (calcu",
+      "endpoints": [
+        "Adherence to medication; self-reported current use of antiplatelet, statin and combination (≥ 2) blood pressure lowering therapy",
+        "Change in blood pressure",
+        "Change in LDL cholesterol"
+      ],
+      "sponsor": "Imperial College London",
+      "url": "https://clinicaltrials.gov/study/NCT01057537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00133692",
+      "title": "INternational VErapamil SR Trandolapril STudy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "1997-09",
+      "completion_date": "2003-02",
+      "country": "United States",
+      "enrollment": 22000,
+      "brief_summary": "Because blood pressure affects the heart, blood vessels, kidneys, and the entire body, it is important to keep it as normal as possible. There are several different ways to control blood pressure and to prevent or limit the development of heart disease due to high blood pressure. The purpose of this study is to compare two treatments to see how well they work and the difference in their side effects. One treatment includes the use of a calcium antagonist drug (Isoptin sustained release \\[SR\\] or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female\n* Age 50 to no upper limit\n* Hypertension documented according to the 6th report of the Joint National Committee on Detection and Evaluation of the treatment of high BP (JNC VI) and the need for drug therapy (previously documented hypertension in patients curren",
+      "endpoints": [
+        "First occurrence of death or nonfatal myocardial infarction (MI) or nonfatal stroke"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00133692"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03278509",
+      "title": "Randomized Evaluation of Decreased Usage of betablocCkErs After Myocardial Infarction in the SWEDEHEART Registry - A Registry-based, Randomized, Parallel, Open-label, Multicenter Trial (REDUCE-SWEDEHEART)",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-09-11",
+      "completion_date": "2025-12-31",
+      "country": "Sweden",
+      "enrollment": 5000,
+      "brief_summary": "Long-term beta-blocker therapy has not been investigated in contemporary randomized clinical trials in patients with myocardial infarction and normal heart function. The aim of this study is to determine whether long-term treatment with oral beta-blockade in patients with myocardial infarction and preserved left ventricular systolic ejection fraction reduces the composite of death of any cause or new myocardial infarction..",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age≥18 years.\n2. Day 1-7 after MI as defined by the universal definition of MI, type 1, included in the SWEDEHEART registry.\n3. Undergone coronary angiography during hospitalization.\n4. Obstructive coronary artery disease documented by coronary angiography, i.e. stenosis ≥ 50",
+      "endpoints": [
+        "Time to the composite of death of any cause or MI"
+      ],
+      "sponsor": "Karolinska Institutet",
+      "url": "https://clinicaltrials.gov/study/NCT03278509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02271178",
+      "title": "Multi-cap for Increase Adherence After Acute Myocardial Infarction",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2014-04",
+      "completion_date": "2016-09",
+      "country": "Argentina",
+      "enrollment": 100,
+      "brief_summary": "Patients who survive an acute coronary syndrome are at high risk of recurrent events and death in the first months of evolution. Aspirin, angiotensin-converting enzyme, beta-blockers and statins decrease the risk of recurrent events and death, so are the recommended treatment for most patients who had a heart attack, and adherence to these recommendations is associated better clinical outcome. However, numerous studies show high dropout rate of medical treatment. The cause of nonadherence, commo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Over 18 years old\n* Myocardial infarction within seven (7) days prior: anginal symptoms with ST-segment changes (elevation or depression) or inversion of T waves or left bundle branch block and acute elevation of cardiac enzymes.\n* Signature of written informed consent\n\nExclus",
+      "endpoints": [
+        "Adherence"
+      ],
+      "sponsor": "Hospital El Cruce",
+      "url": "https://clinicaltrials.gov/study/NCT02271178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01646437",
+      "title": "The International Polycap Study 3 (TIPS-3) is a Randomized Double-blind Placebo-controlled Trial for the Evaluation of a Polycap, Low Dose Aspirin and Vitamin D Supplementation in Primary Prevention",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2021-08-30",
+      "country": "Bangladesh, Indonesia, Philippines, Tanzania, India, Malaysia, Tunisia, Canada, Colombia",
+      "enrollment": 7793,
+      "brief_summary": "The randomized 2x2x2 factorial design placebo controlled trial will enroll 5000 participants (women 60 years or older and men 55 years or older) without known heart disease or prior stroke and without a clear indication or contraindication to any of the study medications. Eligible and consenting individuals will be randomized to receive either the active study medications or placebo (dummy pills) and will be monitored for an average of 5 years. The study will include people from at 10 countries,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men aged ≥ 50 years and women aged ≥ 55 years with an INTERHEART risk score ≥ 10 OR men and women aged ≥ 65 years with an INTERHEART risk score of ≥5.\n* Provision of informed consent\n\nExclusion Criteria\n\n* Participants with a clear clinical indication, contraindication, prefer",
+      "endpoints": [
+        "Polycap Primary Objective",
+        "Aspirin Primary Objective",
+        "Vitamin D Primary Objective"
+      ],
+      "sponsor": "Population Health Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT01646437"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00582114",
+      "title": "Hypertension in Hemodialysis Patients",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-08",
+      "completion_date": "2013-09",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "We will directly test the hypothesis that an initial strategy of lisinopril-based therapy will be more effective than atenolol-based therapy in causing regression of left ventricular hypertrophy (LVH) over one year in patients with hemodialysis hypertension despite similar degree of BP reduction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients on chronic hemodialysis for \\> 3 mos.\n2. Compliance with hemodialysis treatments as defined by less than one missed dialysis per month\n3. Hypertension as diagnosed by ambulatory blood pressure monitoring (ABPM) \\>135/75 mm Hg after participation in the ultrafiltratio",
+      "endpoints": [
+        "The Primary End Point is the Regression of Left Ventricular Hypertrophy (LVH) by Echocardiographic Criteria From Baseline to 1 Year."
+      ],
+      "sponsor": "Indiana University",
+      "url": "https://clinicaltrials.gov/study/NCT00582114"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03596385",
+      "title": "TREatment With Beta-blockers After myOcardial Infarction withOut Reduced Ejection fracTion",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-10-31",
+      "completion_date": "2025-01-31",
+      "country": "Spain, Italy",
+      "enrollment": 8505,
+      "brief_summary": "REBOOT clinical trial will study whether long-term maintenance beta-blockers therapy results in a clinical benefit after heart attack without reduced left ventricular function. Half of the participants will be randomized to receive long-term beta-blocker therapy and the other half to no beta-blocker therapy after hospital discharge. All patients will be followed up for up to 5 years to determine the occurrence of adverse events (all cause mortality, re-infarction, and heart failure admission).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ≥18 years old\n* Admitted for STEMI or NSTEMI and invasive management (i.e. coronary angiography during index hospitalization).\n* LVEF\\>40% as evaluated by any imaging technique anytime during hospitalization.\n* Signed informed consent\n\nExclusion Criteria:\n\n* Known allergy or i",
+      "endpoints": [
+        "Incidence rate of the composite of \"all-cause death, nonfatal reinfarction, or heart failure hospitalization\" (MACE)"
+      ],
+      "sponsor": "Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III",
+      "url": "https://clinicaltrials.gov/study/NCT03596385"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01682096",
+      "title": "Usefulness of Coronary CTA for the Diagnosis of Acute Coronary Syndrome in the Emergency Room.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2013-10",
+      "country": "Spain",
+      "enrollment": 150,
+      "brief_summary": "The Diagnosis of acute coronary syndrome in patients presenting with acute chest pain is problematic when both, electrocardiogram and serum troponins are normal. Multidetector row computed tomography angiography (CTA) allows direct and rapid non-invasive visualization of coronary artery disease.\n\nThe investigator's aim is to assess the diagnostic accuracy and safety of a novel diagnostic strategy based on MDCT as compared to a strategy using stress echocardiography in the workup of patient with ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is in Sinus Rhythm\n* Typical or atypical chest pain lasting more than 5 min in the last 24 hs.\n* Estimated pre-test probability of significant coronary artery disease more than 15%.\n* Absence of ECG changes suggestive of myocardial ischemia (ST-segment deviation \\>1 mm",
+      "endpoints": [
+        "Diagnosis of Acute Coronary Syndrome during admission or occurrence of Major Acute Cardiac Events after discharge"
+      ],
+      "sponsor": "Hospital Clinic of Barcelona",
+      "url": "https://clinicaltrials.gov/study/NCT01682096"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00263393",
+      "title": "Evaluation of a Primary Health Care Intervention for the Prevention of Cardiovascular Disease in Rural Andhra Pradesh",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2009-06",
+      "country": "India",
+      "enrollment": 3712,
+      "brief_summary": "This study will evaluate the effectiveness of a novel cardiovascular disease prevention program designed for delivery through existing primary health care services in rural villages in Andhra Pradesh.\n\nThe primary aim is to increase the number of high-risk individuals in the population that are appropriately managed with proven, low-cost preventive interventions. The corresponding null hypothesis is therefore that the prevention program will result in no change in the proportion of high-risk ind",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 30 years and above\n* Personal history of heart attack or stroke\n* Presence of other cardiovascular risk factors such as smoking, overweight, diabetes\n\nExclusion Criteria:\n\n* Mental disability\n* Not living in the Study area",
+      "endpoints": [
+        "The proportion of high-risk individuals that have been assessed for cardiovascular risk",
+        "The proportion of individuals with correct knowledge about the effects of behavioural determinants of the risk of cardiovascular disease"
+      ],
+      "sponsor": "The George Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00263393"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00338260",
+      "title": "A Triple-Blind, Parallel Study to Investigate the Effect of Losartan Versus Atenolol on the Reduction of Morbidity and Mortality in Hypertensive Patients With Left Ventricular Hypertrophy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1995-06",
+      "completion_date": "2001-11",
+      "country": "N/A",
+      "enrollment": 496,
+      "brief_summary": "The LIFE study was conducted from 1995-2001. This study was conducted in 9193 patients with high blood pressure and thickening of the main pumping chamber of the heart. The results showed that after an average treatment time of 4.8 years, treatment that was based on losartan was better than treatment based on atenolol for reducing the risk of having a stroke. The main study results were published in Dahlof et al. Lancet 2002;359:995-1003.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 55 to 80 years\n* Males and females\n* Hypertension (160-200/95-115 mm Hg\n* ECG evidence of left ventricular hypertrophy\n\nExclusion Criteria:\n\n* Need for treatment with angiotensin converting enzyme inhibitors, or open- label angiotensin receptor blockers or beta-blockers\n* ",
+      "endpoints": [
+        "Composite of cardiovascular death, fatal and nonfatal stroke, fatal and nonfatal myocardial infarction (heart attack)"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00338260"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03147092",
+      "title": "Matão Controlling Hypertension (MatCH Study): Rationale and Design. Project to Reduce Incidence of Arterial Hypertension in City of Matão, Brazil.",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-01",
+      "completion_date": "2021-06-30",
+      "country": "N/A",
+      "enrollment": 15000,
+      "brief_summary": "Background Hypertension is the main risk factor for most cardiovascular diseases. Blood pressure (BP) control has been shown to reduce the incidence of stroke, myocardial infarction, renal diseases and heart failure. Although BP lowering is effective, few population programs can achieve BP control. A coordinated and organized system from the Brazilian Ministry of Healthy involving Family Health Strategy (FHS), a program for the prevention of chronic disease, and the Popular Pharmacy Program (PPP",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All consented subjects aged ≥ 40 years belonging to Family Strategy Health program and residing in Matão.\n\nExclusion Criteria:\n\n* Patients younger than 40 years.\n* Subjects not belonging to Family Strategy Health program in Matão.",
+      "endpoints": [
+        "Number of hypertensive subjects with BP controlled during follow-up"
+      ],
+      "sponsor": "Centro Neurológico de Pesquisa e Reabiitação, Brazil",
+      "url": "https://clinicaltrials.gov/study/NCT03147092"
+    }
+  ],
+  "timestamp": "2026-03-04T15:18:42.167302",
+  "success": true,
+  "error_message": null
+}

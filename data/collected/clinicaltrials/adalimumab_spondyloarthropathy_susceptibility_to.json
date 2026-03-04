@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "spondyloarthropathy, susceptibility to"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05706038",
+      "title": "Impact of Adalimumab Withdrawal or Continuation on Severity of COVID-19 and Risk of IMID Relapse",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2022-04-27",
+      "completion_date": "2022-10-31",
+      "country": "Italy",
+      "enrollment": 49,
+      "brief_summary": "This study is a retrospective pharmacological study, of a historical cohort. Collection of Retrospective data from February 2020 to 30 September 2021 The index date is the date of COVID-19 positive PCR test. The data will be collected until last news (last clinical visit or death).\n\nThere are no defined study visits. In the course of the study, the clinical data recorded are those corresponding to the standard medical procedure.\n\nThe goal of this study is to assess the impact on continuing or st",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age ≥ 18 years\n2. diagnosis of immune-mediated inflammatory disease:\n\n   1. IBD: CD, UC or undetermined colitis\n   2. Rheumatic diseases: RA, PsA, axSpA, and nrx SpA\n3. patients treated with adalimumab for IMID at time of SARS-CoV-2 infection diagnosis\n4. COVID-19 positive PC",
+      "endpoints": [
+        "composite endpoint: occurrence of an admission to intensive care unit and/or need to a mechanical ventilation during hospitalization and/or death"
+      ],
+      "sponsor": "IRCCS San Raffaele",
+      "url": "https://clinicaltrials.gov/study/NCT05706038"
+    }
+  ],
+  "timestamp": "2026-03-04T15:17:27.342067",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,576 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "hidradenitis suppurativa",
+    "query_string": "Adalimumab AND hidradenitis suppurativa"
+  },
+  "data": {
+    "query": "Adalimumab AND hidradenitis suppurativa",
+    "results": [
+      {
+        "pmid": "39862870",
+        "title": "Hidradenitis suppurativa.",
+        "abstract": "Hidradenitis suppurativa is a chronic inflammatory disease characterised by painful, deep-seated nodules, abscesses, and draining tunnels in the skin of axillary, inguinal, genitoanal, or inframammary areas. In recent years, the body of knowledge in hidradenitis suppurativa has advanced greatly. This disorder typically starts in the second or third decade of life. The average worldwide prevalence is 1% but varies geographically. Hidradenitis suppurativa has a profound negative effect on patients' quality of life and on the gross value added to society. Comorbidities (eg, metabolic syndrome, inflammatory arthritis, and inflammatory bowel disease) frequently accompany skin alterations, because of systemic inflammation. Pathogenesis of hidradenitis suppurativa is complex and includes innate immune mechanisms (eg, macrophages, neutrophils, IL-1β, tumour necrosis factor [TNF], and granulocyte colony-stimulating factor), T-cell mechanisms (eg, IL-17 and IFN-γ), and B-cell mechanisms (eg, ass",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "authors": [
+          "Sabat Robert",
+          "Alavi Afsaneh",
+          "Wolk Kerstin",
+          "Wortsman Ximena",
+          "McGrath Barry"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hidradenitis Suppurativa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39862870/"
+      },
+      {
+        "pmid": "39699926",
+        "title": "European S2k guidelines for hidradenitis suppurativa/acne inversa part 2: Treatment.",
+        "abstract": "This second part of the S2k guidelines is an update of the 2015 S1 European guidelines.",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2025",
+        "authors": [
+          "Zouboulis C C",
+          "Bechara F G",
+          "Benhadou F",
+          "Bettoli V",
+          "Bukvić Mokos Z"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hidradenitis Suppurativa",
+          "Europe",
+          "Anti-Bacterial Agents",
+          "Severity of Illness Index"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39699926/"
+      },
+      {
+        "pmid": "29183082",
+        "title": "Hidradenitis Suppurativa: Advances in Diagnosis and Treatment.",
+        "abstract": "Hidradenitis suppurativa (HS) is relatively common, with the prevalence of 0.05% to 4.10%, yet many patients receive inadequate treatment.",
+        "journal": "JAMA",
+        "year": "2017",
+        "authors": [
+          "Saunte Ditte Marie Lindhardt",
+          "Jemec Gregor Borut Ernst"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Anti-Bacterial Agents",
+          "Female",
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Male",
+          "Severity of Illness Index",
+          "Tumor Necrosis Factor-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29183082/"
+      },
+      {
+        "pmid": "27518661",
+        "title": "Two Phase 3 Trials of Adalimumab for Hidradenitis Suppurativa.",
+        "abstract": "Hidradenitis suppurativa is a painful, chronic inflammatory skin disease with few options for effective treatment. In a phase 2 trial, adalimumab, an antibody against tumor necrosis factor α, showed efficacy against hidradenitis suppurativa.",
+        "journal": "The New England journal of medicine",
+        "year": "2016",
+        "authors": [
+          "Kimball Alexa B",
+          "Okun Martin M",
+          "Williams David A",
+          "Gottlieb Alice B",
+          "Papp Kim A"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Double-Blind Method",
+          "Female",
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Intention to Treat Analysis",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27518661/"
+      },
+      {
+        "pmid": "39060744",
+        "title": "Hidradenitis Suppurativa: New Targets and Emerging Treatments.",
+        "abstract": "Hidradenitis suppurativa (HS) is a chronic inflammatory skin condition that can be challenging to treat. Biologics and targeted small molecules have become an increasingly popular area of investigation for therapeutic development for moderate-to-severe HS, though only three biologics-adalimumab, secukinumab, and bimekizumab-have received US Food and Drug Administration (FDA) or European Medicines Evaluation Agency approval for treating HS. Promising agents under investigation are targeting interleukin 17A/F, JAK/STAT pathway, interleukin 36, interleukin 1, and more.",
+        "journal": "American journal of clinical dermatology",
+        "year": "2024",
+        "authors": [
+          "Gao Julia L",
+          "Otto Tracey S",
+          "Porter Martina L",
+          "Kimball Alexa B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Molecular Targeted Therapy",
+          "Biological Products",
+          "Severity of Illness Index",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39060744/"
+      },
+      {
+        "pmid": "30872149",
+        "title": "North American clinical management guidelines for hidradenitis suppurativa: A publication from the United States and Canadian Hidradenitis Suppurativa Foundations: Part II: Topical, intralesional, and systemic medical management.",
+        "abstract": "Hidradenitis suppurativa is a severe and debilitating dermatologic disease. Clinical management is challenging and consists of both medical and surgical approaches, which must often be combined for best outcomes. Therapeutic approaches have evolved rapidly in the last decade and include the use of topical therapies, systemic antibiotics, hormonal therapies, and a wide range of immunomodulating medications. An evidence-based guideline is presented to support health care practitioners as they select optimal medical management strategies and is reviewed in this second part of the management guidelines. A therapeutic algorithm informed by the evidence available at the time of the review is provided.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2019",
+        "authors": [
+          "Alikhan Ali",
+          "Sayed Christopher",
+          "Alavi Afsaneh",
+          "Alhusayen Raed",
+          "Brassard Alain"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Male",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Androgen Antagonists",
+          "Anti-Bacterial Agents",
+          "Canada",
+          "Evidence-Based Medicine",
+          "Hidradenitis Suppurativa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30872149/"
+      },
+      {
+        "pmid": "38770982",
+        "title": "S2k guideline for the treatment of hidradenitis suppurativa / acne inversa - Short version.",
+        "abstract": "The S2k guideline on hidradenitis suppurativa/acne inversa (HS/AI) aims to provide an accepted decision aid for the selection/implementation of appropriate/sufficient therapy. HS/AI is a chronic recurrent, inflammatory, potentially mutilating skin disease of the terminal hair follicle-glandular apparatus, with painful, inflammatory lesions in the apocrine gland-rich regions of the body. Its point prevalence in Germany is 0.3%, it is diagnosed with a delay of 10.0 ± 9.6 years. Abnormal differentiation of the keratinocytes of the hair follicle-gland apparatus and accompanying inflammation form the central pathogenetic basis. Primary HS/AI lesions are inflammatory nodules, abscesses and draining tunnels. Recurrences in the last 6 months with at least 2 lesions at the predilection sites point to HS/AI with a 97% accuracy. HS/AI patients suffer from a significant reduction in quality of life. For correct treatment decisions, classification and activity assessment should be done with a valid",
+        "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+        "year": "2024",
+        "authors": [
+          "Zouboulis Christos C",
+          "Bechara Falk G",
+          "Fritz Klaus",
+          "Goebeler Matthias",
+          "Hetzer Frank H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Germany",
+          "Anti-Bacterial Agents",
+          "Quality of Life",
+          "Severity of Illness Index",
+          "Dermatologic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38770982/"
+      },
+      {
+        "pmid": "37715694",
+        "title": "Hidradenitis suppurativa: new insights into disease mechanisms and an evolving treatment landscape.",
+        "abstract": "Hidradenitis suppurativa (HS), also known as acne inversa, is a chronic disabling and debilitating inflammatory disease with a high unmet medical need. The prevalence of HS reported in most studies is 1-2%, although it is likely to be under-reported and estimates vary globally owing to variance in data collection methods, ethnicity, geographical location and under-diagnosis. HS is characterized by persistent, painful cutaneous nodules, abscesses and draining tunnels commonly affecting the axillary, anogenital, inguinal and perianal/gluteal areas. Over time, chronic uncontrolled inflammation results in irreversible tissue destruction and scarring. Although the pathophysiology of HS has not been fully elucidated, the tumour necrosis factor (TNF)-α and interleukin (IL)-17 pathways have an important role, involving multiple cytokines. Currently, treatment options include topical medications; systemic therapies, including repeated and/or rotational courses of systemic antibiotics, retinoids",
+        "journal": "The British journal of dermatology",
+        "year": "2024",
+        "authors": [
+          "Krueger James G",
+          "Frew John",
+          "Jemec Gregor B E",
+          "Kimball Alexa B",
+          "Kirby Brian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hidradenitis Suppurativa",
+          "Tumor Necrosis Factor Inhibitors",
+          "Adalimumab",
+          "Tumor Necrosis Factor-alpha",
+          "Abscess"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37715694/"
+      },
+      {
+        "pmid": "34406349",
+        "title": "Efficacy and Safety of Adalimumab in Conjunction With Surgery in Moderate to Severe Hidradenitis Suppurativa: The SHARPS Randomized Clinical Trial.",
+        "abstract": "Surgery is a mainstay in the management of hidradenitis suppurativa (HS). Adalimumab is the first drug approved for HS.",
+        "journal": "JAMA surgery",
+        "year": "2021",
+        "authors": [
+          "Bechara Falk G",
+          "Podda Maurizio",
+          "Prens Errol P",
+          "Horváth Barbara",
+          "Giamarellos-Bourboulis Evangelos J"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase IV",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Combined Modality Therapy",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Hidradenitis Suppurativa",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34406349/"
+      },
+      {
+        "pmid": "30872156",
+        "title": "North American clinical management guidelines for hidradenitis suppurativa: A publication from the United States and Canadian Hidradenitis Suppurativa Foundations: Part I: Diagnosis, evaluation, and the use of complementary and procedural management.",
+        "abstract": "Hidradenitis suppurativa is a chronic inflammatory disorder affecting hair follicles, with profoundly negative impact on patient quality of life. Evidence informing ideal evaluation and management of patients with hidradenitis suppurativa is still sparse in many areas, but it has grown substantially in the last decade. Part I of this evidence-based guideline is presented to support health care practitioners as they select optimal management strategies, including diagnostic testing, comorbidity screening, and both complementary and procedural treatment options. Recommendations and evidence grading based on the evidence available at the time of the review are provided.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2019",
+        "authors": [
+          "Alikhan Ali",
+          "Sayed Christopher",
+          "Alavi Afsaneh",
+          "Alhusayen Raed",
+          "Brassard Alain"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Biological Products",
+          "Canada",
+          "Complementary Therapies",
+          "Dermatologic Surgical Procedures",
+          "Drug Therapy, Combination",
+          "Evidence-Based Medicine",
+          "Female",
+          "Hidradenitis Suppurativa",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30872156/"
+      },
+      {
+        "pmid": "39978679",
+        "title": "Postmarketing safety surveillance of adalimumab, secukinumab, and infliximab in hidradenitis suppurativa: an analysis of the FDA adverse events reporting system (FAERS) database.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2025",
+        "authors": [
+          "Joshi Aditya",
+          "Gawey Lauren",
+          "Saadi Carissa",
+          "Naidoo Pragna",
+          "Rick Jonathan W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39978679/"
+      },
+      {
+        "pmid": "28081768",
+        "title": "Management of patients with hidradenitis suppurativa.",
+        "abstract": "Hidradenitis suppurativa (HS) is a chronic inflammatory disease with a high prevalence in the population. Treatment options are both medical and surgical. Medical treatment is based on the use of antibiotics, retinoids, and anti-inflammatory drugs, in which anti-TNFα agents (infliximab y adalimumab) play a central role in the treatment of moderate-to-severe HS and enjoy the highest level of scientific support. Currently, adalimumab is the only drug approved in the summary of product characteristics for the treatment of this disease. Due to the scarcity of clinical trials in HS, there is still no therapeutic guideline backed by solid evidence and the evidence for most drugs is low. However, early treatment in patients with HS would probably reduce the complications of this disease. This review analyses the distinct treatments used in this dermatological disease and provides a therapeutic algorithm with different treatment options.",
+        "journal": "Actas dermo-sifiliograficas",
+        "year": "2016",
+        "authors": [
+          "Martorell A",
+          "Caballero A",
+          "González Lama Y",
+          "Jiménez-Gallo D",
+          "Lázaro Serrano M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Algorithms",
+          "Anti-Bacterial Agents",
+          "Anti-Inflammatory Agents",
+          "Antibodies, Monoclonal",
+          "Biological Factors",
+          "Disease Management",
+          "Drug Therapy, Combination",
+          "Hidradenitis Suppurativa",
+          "Hormones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28081768/"
+      },
+      {
+        "pmid": "34406364",
+        "title": "Efficacy and Safety of Bimekizumab in Moderate to Severe Hidradenitis Suppurativa: A Phase 2, Double-blind, Placebo-Controlled Randomized Clinical Trial.",
+        "abstract": "Hidradenitis suppurativa (HS) is a chronic inflammatory disease with a high burden for patients and limited existing therapeutic options.",
+        "journal": "JAMA dermatology",
+        "year": "2021",
+        "authors": [
+          "Glatt Sophie",
+          "Jemec Gregor B E",
+          "Forman Seth",
+          "Sayed Christopher",
+          "Schmieder George"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal, Humanized",
+          "Bayes Theorem",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34406364/"
+      },
+      {
+        "pmid": "39260459",
+        "title": "Cancer and hidradenitis suppurativa.",
+        "abstract": "Patients with hidradenitis suppurativa (HS) have an increased risk of developing cancer. This includes not only hematologic malignancies and solid tumors but also cutaneous squamous cell carcinoma (SCC) originating within the HS lesions. The development of SCC is most commonly associated with Caucasian men who smoke and have severe gluteal or perianal lesions of more than 25 years. Other factors that have occasionally been associated with HS-related SCC include treatment with a tumor necrosis factor-alpha inhibitor (such as infliximab and adalimumab), genodermatoses (such as keratitis-ichthyosis-deafness syndrome and Dowling-Degos disease), and paraneoplastic syndromes (such as hypercalcemia, hypercalcemia-leukocytosis, and paraneoplastic neuropathy). The tumor may demonstrate the presence of human papillomavirus; even after treatment, patients have a poor prognosis because cancer metastasis, recurrence, or both commonly occur. The potential role of human papillomavirus vaccination for",
+        "journal": "Clinics in dermatology",
+        "year": "2024",
+        "authors": [
+          "Cohen Philip R",
+          "Cohen-Kurzrock Rena A",
+          "Riahi Ryan R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Carcinoma, Squamous Cell",
+          "Skin Neoplasms",
+          "Male",
+          "Risk Factors",
+          "Paraneoplastic Syndromes",
+          "Female",
+          "Papillomavirus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39260459/"
+      },
+      {
+        "pmid": "36698446",
+        "title": "Adalimumab, Ustekinumab, and Secukinumab in the Management of Hidradenitis Suppurativa: A Review of the Real-Life Experience.",
+        "abstract": "To date, adalimumab (ADA) is the only biotechnology drug approved for the management of hidradenitis suppurativa (HS), an inflammatory skin condition. However, it quickly became apparent that the efficacy of adalimumab in daily practice was highly variable. In our review, we highlighted the current evidence from literature on the use of biologics in HS in a real-life setting, particularly adalimumab, secukinumab and ustekinumab. Data on the effectiveness and safety of biologic drugs in HS management have been analyzed. Even if the results are promising, more studies are needed. In our opinion, the armamentarium of drugs for HS management is increasing, and treatment will be based on a tailored-tail approach, minimizing the risk of adverse events. In this context, we want to point out the reported effectiveness and safety data concerning adalimumab, ustekinumab and secukinumab as well as ixekizumab.",
+        "journal": "Clinical, cosmetic and investigational dermatology",
+        "year": "2023",
+        "authors": [
+          "Martora Fabrizio",
+          "Megna Matteo",
+          "Battista Teresa",
+          "Potestio Luca",
+          "Annunziata Maria Carmela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36698446/"
+      },
+      {
+        "pmid": "25640693",
+        "title": "European S1 guideline for the treatment of hidradenitis suppurativa/acne inversa.",
+        "abstract": "Hidradenitis suppurativa/acne inversa (HS) is a chronic, inflammatory, recurrent, debilitating skin disease of the hair follicle that usually presents after puberty with painful, deep-seated, inflamed lesions in the apocrine gland-bearing areas of the body, most commonly the axillae, inguinal and anogenital regions. A mean disease incidence of 6.0 per 100,000 person-years and an average prevalence of 1% has been reported in Europe. HS has the highest impact on patients' quality of life among all assessed dermatological diseases. HS is associated with a variety of concomitant and secondary diseases, such as obesity, metabolic syndrome, inflammatory bowel disease, e.g. Crohn's disease, spondyloarthropathy, follicular occlusion syndrome and other hyperergic diseases. The central pathogenic event in HS is believed to be the occlusion of the upper part of the hair follicle leading to a perifollicular lympho-histiocytic inflammation. A highly significant association between the prevalence of",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "2015",
+        "authors": [
+          "Zouboulis C C",
+          "Desai N",
+          "Emtestam L",
+          "Hunger R E",
+          "Ioannides D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Europe",
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25640693/"
+      },
+      {
+        "pmid": "38130204",
+        "title": "Biologics for Hidradenitis suppurativa: evolution of the treatment paradigm.",
+        "abstract": "Hidradenitis suppurativa (HS) is an autoinflammatory skin disease with a high unmet need for effective medical management. Clinically, it is characterized by inflammatory nodules that may progress into abscesses, draining tunnels and extensive scarring, mainly affecting apocrine gland-bearing areas.",
+        "journal": "Expert review of clinical immunology",
+        "year": "2024",
+        "authors": [
+          "Maronese Carlo Alberto",
+          "Moltrasio Chiara",
+          "Genovese Giovanni",
+          "Marzano Angelo Valerio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hidradenitis Suppurativa",
+          "Biological Products",
+          "Tumor Necrosis Factor Inhibitors",
+          "Adalimumab",
+          "Biological Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38130204/"
+      },
+      {
+        "pmid": "23247938",
+        "title": "Adalimumab for the treatment of moderate to severe Hidradenitis suppurativa: a parallel randomized trial.",
+        "abstract": "Hidradenitis suppurativa (HS) is a chronic, painful skin disease characterized by abscesses, nodules, and draining fistulas in the axilla and groin of young adults.",
+        "journal": "Annals of internal medicine",
+        "year": "2012",
+        "authors": [
+          "Kimball Alexa B",
+          "Kerdel Francisco",
+          "Adams David",
+          "Mrowietz Ulrich",
+          "Gelfand Joel M"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Adult",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Follow-Up Studies",
+          "Hidradenitis Suppurativa",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23247938/"
+      },
+      {
+        "pmid": "39626995",
+        "title": "Biologics in hidradenitis suppurativa: Progress and new directions.",
+        "abstract": "There are currently 2 Food and Drug Administration-approved treatments for hidradenitis suppurativa, and both are biologic medication -- Adalimumab, a monoclonal antibody targeting tumor necrosis factor-alpha and Secukinumab, an interleukin-17A inhibitor. While both medications have demonstrated modest benefit in patients with hidradenitis suppurativa, patients may lose response over time and neither treatment works in all patients. This review outlines the use of these 2 Food and Drug Administration-approved treatments, the best timing of biologic therapy initiation, the evolving pipeline of biologic treatments, and how to best utilize therapeutic drug monitoring to increase the longevity of these critical treatments.",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2024",
+        "authors": [
+          "Charrow Alexandra",
+          "Santiago-Soltero Karla",
+          "Porter Martina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Adalimumab",
+          "Biological Products",
+          "Antibodies, Monoclonal, Humanized",
+          "Antibodies, Monoclonal",
+          "Male",
+          "Female",
+          "Severity of Illness Index",
+          "Interleukin-17"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39626995/"
+      },
+      {
+        "pmid": "32119111",
+        "title": "Evidence for a 'window of opportunity' in hidradenitis suppurativa treated with adalimumab: a retrospective, real-life multicentre cohort study.",
+        "abstract": "The anti-tumour necrosis factor (TNF)-α adalimumab is the only licenced biologic for moderate-to-severe hidradenitis suppurativa (HS). No predictors of response have been identified so far.",
+        "journal": "The British journal of dermatology",
+        "year": "2021",
+        "authors": [
+          "Marzano A V",
+          "Genovese G",
+          "Casazza G",
+          "Moltrasio C",
+          "Dapavo P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Anti-Inflammatory Agents",
+          "Hidradenitis Suppurativa",
+          "Humans",
+          "Quality of Life",
+          "Retrospective Studies",
+          "Severity of Illness Index",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32119111/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:17:48.523561",
+  "success": true,
+  "error_message": null
+}

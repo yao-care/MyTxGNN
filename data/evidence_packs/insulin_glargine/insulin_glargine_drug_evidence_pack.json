@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Insulin Glargine",
+    "drugbank_id": "DB00047"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 14
+  },
+  "indications": [
+    {
+      "disease": "diabetic ketoacidosis",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 26,
+      "articles": 19,
+      "phase3": 2,
+      "phase2": 2,
+      "phase4": 12
+    },
+    {
+      "disease": "type 2 diabetes mellitus",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 21,
+      "phase2": 3,
+      "phase4": 10
+    },
+    {
+      "disease": "type 1 diabetes mellitus",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 18,
+      "phase2": 5,
+      "phase4": 13
+    },
+    {
+      "disease": "diabetes mellitus",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 21,
+      "phase2": 3,
+      "phase4": 11
+    },
+    {
+      "disease": "IDDM 1",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 15,
+      "phase2": 6,
+      "phase4": 11
+    }
+  ]
+}

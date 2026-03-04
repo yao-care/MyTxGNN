@@ -1,0 +1,614 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Glycine",
+    "disease": "rhinitis",
+    "query_string": "Glycine AND rhinitis"
+  },
+  "data": {
+    "query": "Glycine AND rhinitis",
+    "results": [
+      {
+        "pmid": "25621616",
+        "title": "Cleavage efficient 2A peptides for high level monoclonal antibody expression in CHO cells.",
+        "abstract": "Linking the heavy chain (HC) and light chain (LC) genes required for monoclonal antibodies (mAb) production on a single cassette using 2A peptides allows control of LC and HC ratio and reduces non-expressing cells. Four 2A peptides derived from the foot-and-mouth disease virus (F2A), equine rhinitis A virus (E2A), porcine teschovirus-1 (P2A) and Thosea asigna virus (T2A), respectively, were compared for expression of 3 biosimilar IgG1 mAbs in Chinese hamster ovary (CHO) cell lines. HC and LC were linked by different 2A peptides both in the absence and presence of GSG linkers. Insertion of a furin recognition site upstream of 2A allowed removal of 2A residues that would otherwise be attached to the HC. Different 2A peptides exhibited different cleavage efficiencies that correlated to the mAb expression level. The relative cleavage efficiency of each 2A peptide remains similar for expression of different IgG1 mAbs in different CHO cells. While complete cleavage was not observed for any o",
+        "journal": "mAbs",
+        "year": "2015",
+        "authors": [
+          "Chng Jake",
+          "Wang Tianhua",
+          "Nian Rui",
+          "Lau Ally",
+          "Hoi Kong Meng"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "CHO Cells",
+          "Cricetinae",
+          "Cricetulus",
+          "Humans",
+          "Immunoglobulin G",
+          "Immunoglobulin Heavy Chains",
+          "Immunoglobulin Light Chains",
+          "Peptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25621616/"
+      },
+      {
+        "pmid": "33524387",
+        "title": "The Impact of Formula Choice for the Management of Pediatric Cow's Milk Allergy on the Occurrence of Other Allergic Manifestations: The Atopic March Cohort Study.",
+        "abstract": "To compare the impact of different formulas on the occurrence of other atopic manifestations and the time of immune tolerance acquisition.",
+        "journal": "The Journal of pediatrics",
+        "year": "2021",
+        "authors": [
+          "Nocerino Rita",
+          "Bedogni Giorgio",
+          "Carucci Laura",
+          "Cosenza Linda",
+          "Cozzolino Tommaso"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acids",
+          "Asthma",
+          "Caseins",
+          "Child, Preschool",
+          "Conjunctivitis, Allergic",
+          "Dermatitis, Atopic",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Immune Tolerance"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33524387/"
+      },
+      {
+        "pmid": "34246717",
+        "title": "Glyphosate-based herbicides: Evidence of immune-endocrine alteration.",
+        "abstract": "Glyphosate (G) is the active ingredient of the most widely used herbicide products. It targets the enzyme 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS), which lacks in humans, suggesting to confer a low mammalian toxicity to G-based herbicides (GBHs). Despite this, the use of G is currently under intense debate. Many studies indicating its hazard and toxicity on non-target organisms are emerging, and associations between GBHs and immune-endocrine disturbances have been described. This review aims to investigate, based on recent epidemiological studies and studies performed in vitro and in vivo in animals, the possible association between GBHs and immune-endocrine alterations. Published data suggest that GBHs have endocrine disrupting potentiality targeting sex and thyroid hormones, although its relevance for humans will require further investigations. Evidence of immunotoxicity are limited compared to those on endocrine effects, but overall highlight possible noxious effects, inc",
+        "journal": "Toxicology",
+        "year": "2021",
+        "authors": [
+          "Maddalon Ambra",
+          "Galbiati Valentina",
+          "Colosio Claudio",
+          "Mandić-Rajčević Stefan",
+          "Corsini Emanuela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Endocrine Disruptors",
+          "Glycine",
+          "Herbicides",
+          "Humans",
+          "Immune System",
+          "Microbiota",
+          "Glyphosate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34246717/"
+      },
+      {
+        "pmid": "41246313",
+        "title": "Microbiome and metabolomics analyses of the effect of heat-sensitive moxibustion on allergic rhinitis in rats.",
+        "abstract": "The original concept of acupoint sensitization theory was put forward in Huangdi Neijing, which believed that acupoints, as the reflecting parts of the body surface, are personalized, changeable, and sensitive. Heat-sensitive moxibustion has a good therapeutic effect on allergic rhinitis, but the mechanism is still unclear. Notably, acupoint sensitization in allergic rhinitis (AR) rats was accompanied by a distal thermal effect, with an increase in tail temperature (TTI) after 40 min of moxibustion.",
+        "journal": "Frontiers in immunology",
+        "year": "2025",
+        "authors": [
+          "Xiong Jun",
+          "Li Jianheng",
+          "Xu Haiyan",
+          "Li Yicheng",
+          "Lu Lunbin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Moxibustion",
+          "Rhinitis, Allergic",
+          "Rats",
+          "Rats, Sprague-Dawley",
+          "Metabolomics",
+          "Gastrointestinal Microbiome",
+          "Male",
+          "Disease Models, Animal",
+          "Hot Temperature"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41246313/"
+      },
+      {
+        "pmid": "38357755",
+        "title": "Evaluation of two different remineralising toothpastes in children with drug-controlled asthma and allergic rhinitis: a randomised clinical trial.",
+        "abstract": "To compare the efficacy of two remineralising toothpastes in children suffering from asthma and allergic rhinitis after a 6-month study.",
+        "journal": "European journal of paediatric dentistry",
+        "year": "2024",
+        "authors": [
+          "Scribante A",
+          "Pascadopoli M",
+          "Bergomi P",
+          "Licari A",
+          "Marseglia G L"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Adolescent",
+          "Toothpastes",
+          "Periodontal Index",
+          "Dental Plaque Index",
+          "Rhinitis, Allergic",
+          "Italy",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38357755/"
+      },
+      {
+        "pmid": "33501873",
+        "title": "A novel nasal co-loaded loratadine and sulpiride nanoemulsion with improved downregulation of TNF-α, TGF-β and IL-1 in rabbit models of ovalbumin-induced allergic rhinitis.",
+        "abstract": "The work aimed to develop a co-loaded loratadine and sulpiride nasal nanoemulsion for allergic rhinitis management.",
+        "journal": "Drug delivery",
+        "year": "2021",
+        "authors": [
+          "Mohamad Soad A",
+          "Safwat Mohamed A",
+          "Elrehany Mahmoud",
+          "Maher Sherif A",
+          "Badawi Ahmed M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Animals",
+          "Calorimetry, Differential Scanning",
+          "Disease Models, Animal",
+          "Dopamine Antagonists",
+          "Drug Combinations",
+          "Drug Liberation",
+          "Emulsions",
+          "Glycerol",
+          "Histamine H1 Antagonists, Non-Sedating"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33501873/"
+      },
+      {
+        "pmid": "30485927",
+        "title": "Soy product and isoflavone intake associations with allergic diseases in Japanese workers: rhinitis, dermatitis and asthma.",
+        "abstract": "The aim of this study was to determine the associations of intake of soy products and isoflavones with allergic diseases.",
+        "journal": "Asia Pacific journal of clinical nutrition",
+        "year": "2018",
+        "authors": [
+          "Nakamoto Mariko",
+          "Shuto Emi",
+          "Nakamoto Akiko",
+          "Hata Akiko",
+          "Aki Nanako"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asthma",
+          "Dermatitis, Atopic",
+          "Female",
+          "Humans",
+          "Hypersensitivity",
+          "Isoflavones",
+          "Japan",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30485927/"
+      },
+      {
+        "pmid": "7189650",
+        "title": "Children with allergic rhinitis and/or bronchial asthma treated with elimination diet: a five-year follow-up.",
+        "abstract": "Three hundred and twenty-two children under one year of age with respiratory allergy and negative inhalant skin tests were placed on a six-week hypoallergenic diet consisting of Meat Base Formula, beef, carrots, broccoli and apricots. Two hundred and ninety-two or 91% showed significant improvement of respiratory symptom scores during the trial. On subsequent oral food challenge symptoms were reproduced in only 51% of the children. Milk greater than egg greater than chocolate greater than soy greater than legumes greater than cereals were most commonly involved. Skin tests with food allergens rarely correlated with challenge results. One hundred and seventeen or 40% later developed inhalant respiratory allergy. Only 6% of the children studied five years or longer showed any evidence of food sensitivity. The data suggest (1) infants with respiratory allergy will respond to hypoallergenic diet, (2) symptoms may or may not reappear on food challenge, (3) food allergy tends to be \"outgrown",
+        "journal": "Annals of allergy",
+        "year": "1980",
+        "authors": [
+          "Ogle K A",
+          "Bullock J D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Asthma",
+          "Cacao",
+          "Cattle",
+          "Egg White",
+          "Follow-Up Studies",
+          "Food Hypersensitivity",
+          "Humans",
+          "Infant",
+          "Milk"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7189650/"
+      },
+      {
+        "pmid": "14223209",
+        "title": "ALLERGIC RHINITIS IN EARLY INFANCY. REVIEW OF THE LITERATURE AND REPORT OF A CASE IN A NEWBORN.",
+        "abstract": "",
+        "journal": "Pediatrics",
+        "year": "1965",
+        "authors": [
+          "INGALL M",
+          "GLASER J",
+          "MELTZER R S",
+          "DREYFUSS E M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Drug Therapy",
+          "Histamine H1 Antagonists",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Infant, Newborn, Diseases",
+          "Milk",
+          "Plant Oils",
+          "Rhinitis, Allergic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14223209/"
+      },
+      {
+        "pmid": "23197073",
+        "title": "Correlation of symptoms with total IgE and specific IgE levels in patients presenting with allergic rhinitis.",
+        "abstract": "The objective of this study was to investigate the correlation of symptoms in patients with presumed allergic rhinitis on the basis of their medical history and physical examination with the levels of total immunoglobulin E (IgE) and specific IgE, and to question the necessity of these tests in diagnosis.",
+        "journal": "Therapeutic advances in respiratory disease",
+        "year": "2013",
+        "authors": [
+          "Karli Rifat",
+          "Balbaloglu Evrim",
+          "Uzun Lokman",
+          "Cinar Fikret",
+          "Ugur Mehmet Birol"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antigens, Dermatophagoides",
+          "Child",
+          "Female",
+          "Humans",
+          "Immunoglobulin E",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23197073/"
+      },
+      {
+        "pmid": "35252024",
+        "title": "Age-Associated Changes of Nasal Bacterial Microbiome in Patients With Chronic Rhinosinusitis.",
+        "abstract": "Age-related changes in nasal bacterial microbiota of patients with chronic rhinosinusitis (CRS) remains unclear. In this study, we aimed to identify distinct characteristics of nasal bacterial microbiota between aged and younger patients with CRS through 16S rDNA gene sequencing. Patients with CRS undergoing endoscopic sinus surgery were recruited and separated into aged (≥60 years, median age = 66 years, N = 17) and younger (<60 years, median age = 35.5 years, N = 14) patients. Diversity, bacterial composition and metabolic activities of nasal microbiota between aged and younger patients were compared. Results have shown that levels of OTUs (p = 0.0173) and microbiota diversity (all p < 0.05) decreased significantly in aged patients. The abundance of phylum Actinobacteria, and genus Corynebacterium were significantly higher in aged patients, while the abundance of phylum Bacteroidetes, Fusobacteria, and genus Fusobacterium, Peptoniphilus were significantly higher in younger patients. ",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2022",
+        "authors": [
+          "Chen Fang",
+          "Gao Wenxiang",
+          "Yu Chaosheng",
+          "Li Junzheng",
+          "Yu Feng"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Chronic Disease",
+          "Humans",
+          "Microbiota",
+          "Middle Aged",
+          "Nasal Mucosa",
+          "RNA, Ribosomal, 16S",
+          "Rhinitis",
+          "Sinusitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35252024/"
+      },
+      {
+        "pmid": "7509244",
+        "title": "Role of neutral endopeptidase and kininase II on substance P-induced increase in nasal obstruction in patients with allergic rhinitis.",
+        "abstract": "We studied the role of neutral endopeptidase (NEP) and kininase II (angiotensin-converting enzyme; ACE) in the modulation of exogenous substance P (SP)-induced nasal response in normal subjects and in patients with allergic rhinitis. We measured the nasal conductance in response to increasing doses of SP 2 h after oral administration of either placebo or the ACE inhibitor, cilazapril (5 mg), or the NEP inhibitor, acetorphan (300 mg), given in a randomized, double-blind, cross-over manner. We performed three separate studies: acetorphan versus placebo and cilazapril versus placebo, in normal subjects (n = 6 and n = 8, respectively), and acetorphan versus cilazapril versus placebo in patients with allergic rhinitis (n = 6). In normal as well as in rhinitic subjects, SP decreased nasal conductance in a dose-dependent fashion (p < 0.001). With placebo, the decrease in nasal conductance in normal subjects was similar to that in patients with allergic rhinitis (p > 0.5). In normal subjects, ",
+        "journal": "American journal of respiratory and critical care medicine",
+        "year": "1994",
+        "authors": [
+          "Lurie A",
+          "Nadel J A",
+          "Roisman G",
+          "Siney H",
+          "Dusser D J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Administration, Oral",
+          "Adult",
+          "Airway Resistance",
+          "Analysis of Variance",
+          "Cilazapril",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Drug Synergism",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7509244/"
+      },
+      {
+        "pmid": "17037286",
+        "title": "[The functional relevance of Arg16Gly and Gln27Glu-beta2-adrenoreceptor polymorphism in patients with asthma and allergic rhinitis].",
+        "abstract": "The objective of the present study was to investigate the effect of beta2-adrenoreceptor polymorphisms Arg16Gly and Gln27Glu as well as their relationship to the pulmonary function parameters, and the clinical presentation in patients with asthma and allergic rhinitis. Investigated polymorphisms were in linkage disequilibrium, therefore their effects should be evaluated collectively. Although no significant association could be found with the presence of asthma or allergic rhinitis in studied population, polymorphisms of beta2-adrenoreceptor can influence pulmonary function in these patients. These effects significantly differ between men and women, possibly indicating the effect of sex hormones on genetic regulation of pulmonary function.",
+        "journal": "Folia medica Cracoviensia",
+        "year": "2005",
+        "authors": [
+          "Cichy Malgorzata",
+          "Adamek-Guzik Teresa",
+          "Uracz Danuta",
+          "Uracz Wojciech",
+          "Czerniawska-Mysik Grazyna"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Arginine",
+          "Asthma",
+          "Female",
+          "Gene Frequency",
+          "Glutamic Acid",
+          "Glutamine",
+          "Glycine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17037286/"
+      },
+      {
+        "pmid": "40331464",
+        "title": "Evaluation of the incidence of systemic symptoms in PR-10-related pollen-food allergy syndrome in Western Japan.",
+        "abstract": "Pollen food allergy syndrome (PFAS) primarily presents as oral allergy syndrome (OAS) with occasional systemic symptoms. Few studies have examined the systemic symptoms of PR-10-related PFAS, which are common among pediatric patients in Japan.",
+        "journal": "Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology",
+        "year": "2025",
+        "authors": [
+          "Hamada Masaaki",
+          "Kameda Makoto",
+          "Takaoka Yuri",
+          "Ueno Rumi",
+          "Akagawa Shohei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Japan",
+          "Food Hypersensitivity",
+          "Incidence",
+          "Female",
+          "Male",
+          "Child",
+          "Rhinitis, Allergic, Seasonal",
+          "Adolescent",
+          "Allergens"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40331464/"
+      },
+      {
+        "pmid": "26025661",
+        "title": "Cryptococcus gattii-Induced Infections in Dogs from Southern Brazil.",
+        "abstract": "Cryptococcus gattii-induced cryptococcosis is an emerging infectious disease of humans and animals worldwide, with rare descriptions of this infection in domestic animals from Brazil. This study presents the findings associated with C. gattii in dogs from Londrina, Paraná, Southern Brazil. Two dogs, a 3-year-old, female German shepherd and a 6-year-old, male Boxer, were evaluated by a combination of pathological, mycological, and molecular diagnostic techniques. Significant pathological alterations included cryptococcal lymphadenitis, meningoencephalitis, tonsillitis, and rhinitis with nasal cryptococcomas in the German shepherd dog, while cryptococcal lymphadenitis and pneumonia were observed in the Boxer; both dogs had pseudocystic cryptococcosis. The mucicarmine histochemical stain readily identified the intralesional cryptococcal budding organisms in all affected tissues. Mycological culture and isolation confirmed the yeasts as C. gattii due to positive reaction with the L-canavan",
+        "journal": "Mycopathologia",
+        "year": "2015",
+        "authors": [
+          "Headley Selwyn Arlington",
+          "Di Santis Giovana Wingeter",
+          "de Alcântara Brígida Kussumoto",
+          "Costa Thais Correa",
+          "da Silva Elisangela Olegário"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Brazil",
+          "Cryptococcosis",
+          "Cryptococcus gattii",
+          "DNA, Fungal",
+          "DNA, Ribosomal",
+          "DNA, Ribosomal Spacer",
+          "Dog Diseases",
+          "Dogs",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26025661/"
+      },
+      {
+        "pmid": "36547683",
+        "title": "Logic Circuits Based on 2A Peptide Sequences in the Yeast Saccharomyces cerevisiae.",
+        "abstract": "Gene digital circuits are the subject of many studies in Synthetic Biology due to their various applications from pollutant detection to medical diagnostics and biocomputing. Complex logic functions are calculated via small genetic components that mimic Boolean gates, i.e., they implement basic logic operations. Gates interact by exchanging proteins or noncoding RNAs. To carry out logic operations in the yeast Saccharomyces cerevisiae, we chose three bacterial repressors commonly used for proofs of concept in Synthetic Biology, namely, TetR, LexA, and LacI. We coexpressed them via synthetic polycistronic cassettes based on 2A peptide sequences. Our initial results highlighted the successful application of four 2A peptides─from Equine rhinitis B virus-1 (ERBV-1 2A), Operophtera brumata cypovirus 18 (OpbuCPV18 2A), Ljungan virus (LV2A), and Thosea asigna virus (T2A)─to the construction of single and two-input Boolean gates. In order to improve protein coexpression, we modified the origin",
+        "journal": "ACS synthetic biology",
+        "year": "2023",
+        "authors": [
+          "Wang Xuekun",
+          "Tian Ximing",
+          "Marchisio Mario Andrea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Saccharomyces cerevisiae",
+          "Peptides",
+          "Amino Acid Sequence",
+          "Transcription Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36547683/"
+      },
+      {
+        "pmid": "20226303",
+        "title": "The natural history of soy allergy.",
+        "abstract": "Soy allergy is very common, affecting approximately 0.4% of children. It is generally thought that the majority of children with soy allergy develop tolerance in early childhood; however, this has not been examined in a large cohort with soy allergy.",
+        "journal": "The Journal of allergy and clinical immunology",
+        "year": "2010",
+        "authors": [
+          "Savage Jessica H",
+          "Kaeding Allison J",
+          "Matsui Elizabeth C",
+          "Wood Robert A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age of Onset",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Food Hypersensitivity",
+          "Humans",
+          "Immunoglobulin E",
+          "Infant",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20226303/"
+      },
+      {
+        "pmid": "19289390",
+        "title": "Rhinitis associated with pesticide exposure among commercial pesticide applicators in the Agricultural Health Study.",
+        "abstract": "Rhinitis is common, but the risk factors are not well described. To investigate the association between current rhinitis and pesticide use, we used data from 2245 Iowa commercial pesticide applicators in the Agricultural Health Study.",
+        "journal": "Occupational and environmental medicine",
+        "year": "2009",
+        "authors": [
+          "Slager R E",
+          "Poole J A",
+          "LeVan T D",
+          "Sandler D P",
+          "Alavanja M C R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Agricultural Workers' Diseases",
+          "Benomyl",
+          "Diazinon",
+          "Epidemiologic Methods",
+          "Glycine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19289390/"
+      },
+      {
+        "pmid": "35846777",
+        "title": "3D-QSAR-Based Pharmacophore Modeling, Virtual Screening, and Molecular Dynamics Simulations for the Identification of Spleen Tyrosine Kinase Inhibitors.",
+        "abstract": "Spleen tyrosine kinase (SYK) is an essential mediator of immune cell signaling and has been anticipated as a therapeutic target for autoimmune diseases, notably rheumatoid arthritis, allergic rhinitis, asthma, and cancers. Significant attempts have been undertaken in recent years to develop SYK inhibitors; however, limited success has been achieved due to poor pharmacokinetics and adverse effects of inhibitors. The primary goal of this research was to identify potential inhibitors having high affinity, selectivity based on key molecular interactions, and good drug-like properties than the available inhibitor, fostamatinib. In this study, a 3D-QSAR model was built for SYK based on known inhibitor IC50 values. The best pharmacophore model was then used as a 3D query to screen a drug-like database to retrieve hits with novel chemical scaffolds. The obtained compounds were subjected to binding affinity prediction using the molecular docking approach, and the results were subsequently valid",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2022",
+        "authors": [
+          "Kumar Vikas",
+          "Parate Shraddha",
+          "Danishuddin",
+          "Zeb Amir",
+          "Singh Pooja"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Molecular Docking Simulation",
+          "Molecular Dynamics Simulation",
+          "Protein Kinase Inhibitors",
+          "Quantitative Structure-Activity Relationship",
+          "Spleen",
+          "Syk Kinase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35846777/"
+      },
+      {
+        "pmid": "24368208",
+        "title": "Inhibition of LOX by flavonoids: a structure-activity relationship study.",
+        "abstract": "The lipoxygenase (LOX) products have been identified as mediators of a series of inflammatory diseases, namely rheumatoid arthritis, inflammatory bowel disease, psoriasis, allergic rhinitis, atherosclerosis and certain types of cancer. Hence, LOX inhibitors are of interest for the modulation of these phenomena and resolution of the inflammatory processes. During LOX activity, peroxyl radical complexes are part of the reaction and may function as sources of free radicals. Thus antioxidants, such as flavonoids, capable of inhibiting lipid peroxidation and scavenging free radicals, may act as LOX inhibitors. The aim of this work was to assess the structure-activity relationship among a series of flavonoids concerning 5-LOX inhibition, through a systematic study of the inhibition of the formation of LTB4 in human neutrophils. The type of inhibition of the flavonoids was further studied using soybean LOX, type I, and Saturation Transfer Difference (1)H NMR (STD-(1)H NMR) was used to charact",
+        "journal": "European journal of medicinal chemistry",
+        "year": "2014",
+        "authors": [
+          "Ribeiro Daniela",
+          "Freitas Marisa",
+          "Tomé Sara M",
+          "Silva Artur M S",
+          "Porto Graça"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Dose-Response Relationship, Drug",
+          "Flavonoids",
+          "Humans",
+          "Leukotriene B4",
+          "Lipoxygenase",
+          "Molecular Structure",
+          "Neutrophils",
+          "Glycine max",
+          "Structure-Activity Relationship"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24368208/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:14:12.555526",
+  "success": true,
+  "error_message": null
+}

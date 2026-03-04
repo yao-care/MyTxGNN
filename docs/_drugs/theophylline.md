@@ -6,7 +6,7 @@ drug_name: "Theophylline"
 kg_predictions: 64
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 64
+indication_count: 5
 brands: []
 permalink: /drugs/theophylline/
 ---

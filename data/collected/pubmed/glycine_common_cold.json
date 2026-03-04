@@ -1,0 +1,571 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Glycine",
+    "disease": "common cold",
+    "query_string": "Glycine AND common cold"
+  },
+  "data": {
+    "query": "Glycine AND common cold",
+    "results": [
+      {
+        "pmid": "30288712",
+        "title": "Mechanism of Stomatal Closure in Plants Exposed to Drought and Cold Stress.",
+        "abstract": "Drought is one of the abiotic stresses which impairs the plant growth/development and restricts the yield of many crops throughout the world. Stomatal closure is a common adaptation response of plants to the onset of drought condition. Stomata are microscopic pores on the leaf epidermis, which regulate the transpiration/CO2 uptake by leaves. Stomatal guard cells can sense various abiotic and biotic stress stimuli from the internal and external environment and respond quickly to initiate closure under unfavorable conditions. Stomata also limit the entry of pathogens into leaves, restricting their invasion. Drought is accompanied by the production and/or mobilization of the phytohormone, abscisic acid (ABA), which is well-known for its ability to induce stomatal closure. Apart from the ABA, various other factors that accumulate during drought and affect the stomatal function are plant hormones (auxins, MJ, ethylene, brassinosteroids, and cytokinins), microbial elicitors (salicylic acid, ",
+        "journal": "Advances in experimental medicine and biology",
+        "year": "2018",
+        "authors": [
+          "Agurla Srinivas",
+          "Gahir Shashibhushan",
+          "Munemasa Shintaro",
+          "Murata Yoshiyuki",
+          "Raghavendra Agepati S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abscisic Acid",
+          "Acclimatization",
+          "Cold Temperature",
+          "Cold-Shock Response",
+          "Dehydration",
+          "Droughts",
+          "Gene Expression Regulation, Plant",
+          "Organism Hydration Status",
+          "Plant Proteins",
+          "Plant Stomata"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30288712/"
+      },
+      {
+        "pmid": "21322286",
+        "title": "Complementary and alternative medicine for prevention and treatment of the common cold.",
+        "abstract": "To review the evidence supporting complementary and alternative medicine approaches to treatment and prevention of the common cold in adults.",
+        "journal": "Canadian family physician Medecin de famille canadien",
+        "year": "2011",
+        "authors": [
+          "Nahas Richard",
+          "Balla Agneta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Ascorbic Acid",
+          "Common Cold",
+          "Complementary Therapies",
+          "Dietary Supplements",
+          "Disulfides",
+          "Echinacea",
+          "Garlic",
+          "Gluconates",
+          "Glycine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21322286/"
+      },
+      {
+        "pmid": "11193291",
+        "title": "Cold adapted enzymes.",
+        "abstract": "The number of reports on enzymes from cold adapted organisms has increased significantly over the past years, and reveals that adaptive strategies for functioning at low temperature varies among enzymes. However, the high catalytic efficiency at low temperature seems, for the majority of cold active enzymes, to be accompanied by a reduced thermal stability. Increased molecular flexibility to compensate for the low working temperature, is therefore still the most dominating theory for cold adaptation, although there also seem to be other adaptive strategies. The number of experimentally determined 3D structures of enzymes possessing cold adaptation features is still limited, and restricts a structural rationalization for cold activity. The present summary of structural characteristics, based on comparative studies on crystal structures (7), homology models (7), and amino acid sequences (24), reveals that there are no common structural feature that can account for the low stability, incr",
+        "journal": "Biotechnology annual review",
+        "year": "2000",
+        "authors": [
+          "Smalås A O",
+          "Leiros H K",
+          "Os V",
+          "Willassen N P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adaptation, Biological",
+          "Cold Temperature",
+          "Enzymes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11193291/"
+      },
+      {
+        "pmid": "38803435",
+        "title": "Decoction derived from Allium ascalonicum L. bulbs and Sojae Semen Praeparatum alleviates wind-cold-type common cold via Nrf2/HO-1 pathway and modulation of Lactobacillus murinus level.",
+        "abstract": "Cong-Chi decoction (CCD) is made using Allium ascalonicum L. (shallot) bulbs and Sojae Semen Praeparatum (SSP). Shallot bulbs and SSP are both used regularly in traditional Chinese medicine; however, there are no recent pharmacological studies on their synergistic effects. Despite their roles in the treatment of the common cold for thousands of years, their pharmacological mechanisms of action against wind-cold-type common cold are yet to be explored comprehensively.",
+        "journal": "Frontiers in pharmacology",
+        "year": "2024",
+        "authors": [
+          "Jiang Yuanyuan",
+          "Wei Wenfeng",
+          "Zhou Jiaxin",
+          "Qiu Shixian",
+          "Yang Qixin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38803435/"
+      },
+      {
+        "pmid": "12975716",
+        "title": "An open-label, single-center, phase IV clinical study of the effectiveness of zinc gluconate glycine lozenges (Cold-Eeze) in reducing the duration and symptoms of the common cold in school-aged subjects.",
+        "abstract": "Each year, more than 62 million cases of the common cold in the United States require medical attention and more than 80% affect school-aged children. The objective of this prospective, intent-to-treat, phase IV study was to determine the therapeutic and prophylactic effectiveness of zinc gluconate glycine lozenges (Cold-Eeze) for the common cold. Zinc lozenges were administered once daily during the cold season for prophylaxis. For therapeutic purposes, lozenges were given 4 times per day. The primary objective of the study was the treatment effect on cold duration, and the secondary objective was the effect on the number of common colds. A putative control from our previous study was used for comparison. A total of 178 children, ages 12 to 18 years, was enrolled, of which 134 met criteria for efficacy analysis. The average cold duration with therapeutic lozenge use was 6.9 +/- 3.1 days, significantly shorter than the 9.0 +/- 3.5 days found in the control group (P < 0.001). The mean n",
+        "journal": "American journal of therapeutics",
+        "year": "2003",
+        "authors": [
+          "McElroy Betty Howell",
+          "Miller Shelley Porter"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase IV",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Common Cold",
+          "Cough",
+          "Female",
+          "Gluconates",
+          "Glycine",
+          "Humans",
+          "Male",
+          "Sneezing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12975716/"
+      },
+      {
+        "pmid": "12424502",
+        "title": "Effectiveness of zinc gluconate glycine lozenges (Cold-Eeze) against the common cold in school-aged subjects: a retrospective chart review.",
+        "abstract": "Of the 62 million common colds requiring medical attention in the United States each year, more than 80% affect school-aged children. Controlled clinical trials have demonstrated the effectiveness of zinc gluconate glycine lozenges (Cold-Eeze) in reducing cold duration. The objective of this study was to determine the effectiveness of zinc gluconate glycine lozenges in reducing the duration and severity of colds in school-aged subjects and to identify the benefits of prophylactic administration of zinc gluconate glycine lozenges in reducing the occurrence of colds. The medical charts of subjects enrolled at Utah's Heritage Center before and after the introduction of zinc gluconate glycine lozenges (between January 1998 and August 2001) were reviewed to identify those who experienced cold signs or symptoms. Two or more prespecified signs or symptoms on the same day identified a cold and, along with patient or medical staff reports and use of cold medications, were used to determine cold",
+        "journal": "American journal of therapeutics",
+        "year": "2002",
+        "authors": [
+          "McElroy Betty Howell",
+          "Miller Shelley Porter"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Common Cold",
+          "Gluconates",
+          "Glycine",
+          "Humans",
+          "Medical Records",
+          "Retrospective Studies",
+          "Treatment Outcome",
+          "Utah"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12424502/"
+      },
+      {
+        "pmid": "1397668",
+        "title": "Zinc gluconate and the common cold: a controlled clinical study.",
+        "abstract": "A report in 1984 on the success of zinc gluconate against common cold symptoms could not be confirmed in three subsequent studies, which are now known to have used formulations that inactivated zinc. A non-chelating formulation including glycine, which releases 93% of contained zinc into saliva, was tested in a randomized, placebo-controlled, double-blind trial in 73 young adults. Efficacy was recorded in symptom diaries using a symptom severity rating. Patients' symptoms first appeared 1.34 days prior to entry to the study in both groups. Disappearance of symptoms occurred after an additional 4.9 days for zinc-treated patients versus 6.1 days for placebo-treated patients. A difference was noted in the efficacy of treatment if it was started 1 day after symptom onset: cold duration was an additional 4.3 days in zinc-treated patients compared with 9.2 days for placebo-treated patients. Cough, nasal drainage and congestion were the symptoms most affected, and only mild side-effects were ",
+        "journal": "The Journal of international medical research",
+        "year": "1992",
+        "authors": [
+          "Godfrey J C",
+          "Conant Sloane B",
+          "Smith D S",
+          "Turco J H",
+          "Mercer N"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Common Cold",
+          "Gluconates",
+          "Humans",
+          "Male",
+          "Saliva",
+          "Zinc"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1397668/"
+      },
+      {
+        "pmid": "2151730",
+        "title": "Cloning and characterization of a cold- and ABA-inducible Arabidopsis gene.",
+        "abstract": "We have identified by differential screening a novel Arabidopsis thaliana gene, called kin1, which is induced at +4 degrees C. The nucleotide sequences of both the genomic clone and the corresponding cDNA were determined. The deduced 6.5 kDa polypeptide has an unusual amino acid composition being rich in alanine, glycine and lysine. The gene belongs to a family of at least two genes. Northern blot analysis revealed that the level of kin1 mRNA is increased 20-fold in cold-treated plants. In addition to being expressed in cold, kin1 is also induced by water stress and the plant hormone abscisic acid (ABA) which has been suggested to be a common mediator for osmotic stress responses and cold acclimation in plants. Sequence comparisons showed that the kin1 gene product has similarities to fish antifreeze proteins (AFPs).",
+        "journal": "Plant molecular biology",
+        "year": "1990",
+        "authors": [
+          "Kurkela S",
+          "Franck M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abscisic Acid",
+          "Acclimatization",
+          "Amino Acid Sequence",
+          "Antifreeze Proteins",
+          "Base Sequence",
+          "Cloning, Molecular",
+          "Cold Temperature",
+          "DNA",
+          "Gene Expression",
+          "Glycoproteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2151730/"
+      },
+      {
+        "pmid": "31411463",
+        "title": "Common Source of Cryoprotection and Osmoprotection by Osmolytes.",
+        "abstract": "While recent studies clarify the effect of osmolytes on Coulomb interaction at elevated concentrations of salt, little is known about the way osmolytes affect the same interaction in cryoprotection. In this Communication we explore the effect of cold on the interaction between two charged surfaces immersed in ternary solution containing salt and osmolyte and find that the effect of cold parallels that of excess salt, i.e., low temperatures increase adsorption of salt counterions to the surface, thus neutralizing it. Two osmolytes, proline and glycine-betaine, are then shown to recharge the surface by releasing the adsorbed counterions. The ability to counteract effects of both cold and excess salt on Coulomb interactions renders these known osmolytes cryoprotectants as well as osmoprotectants, explaining why plants, fish, insects and bacteria accumulate them in response to either drought or cold stress.",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2019",
+        "authors": [
+          "Govrin Roy",
+          "Obstbaum Tal",
+          "Sivan Uri"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adsorption",
+          "Betaine",
+          "Cold Temperature",
+          "Cold-Shock Response",
+          "Cryoprotective Agents",
+          "Ions",
+          "Osmotic Pressure",
+          "Proline",
+          "Salts",
+          "Surface Properties"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31411463/"
+      },
+      {
+        "pmid": "12756432",
+        "title": "Cold-Eeze lozenge for common colds.",
+        "abstract": "",
+        "journal": "American journal of therapeutics",
+        "year": "2003",
+        "authors": [
+          "Eby George"
+        ],
+        "pub_types": [
+          "Comment",
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Clinical Trials as Topic",
+          "Common Cold",
+          "Gluconates",
+          "Glycine",
+          "Humans",
+          "Research Design",
+          "Treatment Outcome",
+          "Zinc"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12756432/"
+      },
+      {
+        "pmid": "39102425",
+        "title": "In vitro reconstitution reveals membrane clustering and RNA recruitment by the enteroviral AAA+ ATPase 2C.",
+        "abstract": "Enteroviruses are a vast genus of positive-sense RNA viruses that cause diseases ranging from common cold to poliomyelitis and viral myocarditis. They encode a membrane-bound AAA+ ATPase, 2C, that has been suggested to serve several roles in virus replication, e.g. as an RNA helicase and capsid assembly factor. Here, we report the reconstitution of full-length, poliovirus 2C's association with membranes. We show that the N-terminal membrane-binding domain of 2C contains a conserved glycine, which is suggested by structure predictions to divide the domain into two amphipathic helix regions, which we name AH1 and AH2. AH2 is the main mediator of 2C oligomerization, and is necessary and sufficient for its membrane binding. AH1 is the main mediator of a novel function of 2C: clustering of membranes. Cryo-electron tomography reveal that several 2C copies mediate this function by localizing to vesicle-vesicle interfaces. 2C-mediated clustering is partially outcompeted by RNA, suggesting a wa",
+        "journal": "PLoS pathogens",
+        "year": "2024",
+        "authors": [
+          "Shankar Kasturika",
+          "Sorin Marie N",
+          "Sharma Himanshu",
+          "Skoglund Oskar",
+          "Dahmane Selma"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "RNA, Viral",
+          "Humans",
+          "Virus Replication",
+          "Viral Proteins",
+          "Poliovirus",
+          "Cell Membrane",
+          "Enterovirus",
+          "Adenosine Triphosphatases",
+          "Carrier Proteins",
+          "Viral Nonstructural Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39102425/"
+      },
+      {
+        "pmid": "29997353",
+        "title": "Metagenomic Analysis of Microbial Community Compositions and Cold-Responsive Stress Genes in Selected Antarctic Lacustrine and Soil Ecosystems.",
+        "abstract": "This study describes microbial community compositions, and various cold-responsive stress genes, encompassing cold-induced proteins (CIPs) and cold-associated general stress-responsive proteins (CASPs) in selected Antarctic lake water, sediment, and soil metagenomes. Overall, Proteobacteria and Bacteroidetes were the major taxa in all metagenomes. Prochlorococcus and Thiomicrospira were highly abundant in waters, while Myxococcus, Anaeromyxobacter, Haliangium, and Gloeobacter were dominant in the soil and lake sediment metagenomes. Among CIPs, genes necessary for DNA replication, translation initiation, and transcription termination were highly abundant in all metagenomes. However, genes for fatty acid desaturase (FAD) and trehalose synthase (TS) were common in the soil and lake sediment metagenomes. Interestingly, the Lake Untersee water and sediment metagenome samples contained histone-like nucleoid structuring protein (H-NS) and all genes for CIPs. As for the CASPs, high abundances ",
+        "journal": "Life (Basel, Switzerland)",
+        "year": "2018",
+        "authors": [
+          "Koo Hyunmin",
+          "Hakim Joseph A",
+          "Morrow Casey D",
+          "Crowley Michael R",
+          "Andersen Dale T"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29997353/"
+      },
+      {
+        "pmid": "39543574",
+        "title": "Evaluating the impact of Cold plasma on Seedling Growth properties, seed germination, and soybean antioxidant enzyme activity.",
+        "abstract": "Cold atmospheric pressure plasma (CAP) has garnered significant attention in recent years for its potential applications in biomedical, environmental, and agricultural fields. Cold plasma treatment exhibits a variety of effects in agricultural applications, including impacts on seed germination and seedling growth; however, further research is required. Soybean serves as a fundamental source of nutrients for both animals and humans. Soybean seeds possess impermeable and thick testae, which results in prolonged germination times and suboptimal germination rates. The soybeans exhibit low uniformity. As a result, poor crop establishment and yield reduction are inevitable outcomes. Therefore, the purpose of this study was to examine the effects of Iranian soybean cultivars, such as Sari, Saba, Arian, Katoul, and Williams, on seedling growth properties, seed germination, and antioxidant enzyme activity, using argon at time intervals of 30, 60, 180, 300, and 420 s. Cold plasma treatment sign",
+        "journal": "BMC biotechnology",
+        "year": "2024",
+        "authors": [
+          "Sayahi Khadijeh",
+          "Sari Amir Hossein",
+          "Hamidi Aidin",
+          "Nowruzi Bahareh",
+          "Hassani Farshid"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Glycine max",
+          "Germination",
+          "Seedlings",
+          "Plasma Gases",
+          "Antioxidants",
+          "Seeds",
+          "Catalase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39543574/"
+      },
+      {
+        "pmid": "26340626",
+        "title": "Biological Networks Underlying Abiotic Stress Tolerance in Temperate Crops--A Proteomic Perspective.",
+        "abstract": "Abiotic stress factors, especially low temperatures, drought, and salinity, represent the major constraints limiting agricultural production in temperate climate. Under the conditions of global climate change, the risk of damaging effects of abiotic stresses on crop production increases. Plant stress response represents an active process aimed at an establishment of novel homeostasis under altered environmental conditions. Proteins play a crucial role in plant stress response since they are directly involved in shaping the final phenotype. In the review, results of proteomic studies focused on stress response of major crops grown in temperate climate including cereals: common wheat (Triticum aestivum), durum wheat (Triticum durum), barley (Hordeum vulgare), maize (Zea mays); leguminous plants: alfalfa (Medicago sativa), soybean (Glycine max), common bean (Phaseolus vulgaris), pea (Pisum sativum); oilseed rape (Brassica napus); potato (Solanum tuberosum); tobacco (Nicotiana tabaccum); t",
+        "journal": "International journal of molecular sciences",
+        "year": "2015",
+        "authors": [
+          "Kosová Klára",
+          "Vítámvás Pavel",
+          "Urban Milan Oldřich",
+          "Klíma Miroslav",
+          "Roy Amitava"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adaptation, Biological",
+          "Biomarkers",
+          "Crops, Agricultural",
+          "Genotype",
+          "Plant Proteins",
+          "Proteome",
+          "Proteomics",
+          "Stress, Physiological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26340626/"
+      },
+      {
+        "pmid": "21797793",
+        "title": "Capturing cold-stress-related sequence diversity from a wild relative of common bean (Phaseolus angustissimus).",
+        "abstract": "One restriction to the cultivation of common bean, Phaseolus vulgaris L., is its limited tolerance to low temperatures. In the present study, subtraction suppression hybridization was employed to enrich for stress responsive genes in both a chilling-susceptible common bean and a relatively more chilling-tolerant wild bean species, Phaseolus angustissimus. For each species, approximately 11 000 expressed sequence tags were generated. Comparative sequence analysis of the EST collection with the available annotated genome sequences of the model Fabaceae species Medicago truncatula and Glycine max identified protein homologues for approximately 65% and 80% of the Phaseolus sequences, respectively. This difference reflects the closer phylogenetic relationship between the genera Phaseolus and Glycine compared with Medicago. Annotation of the Phaseolus sequences was facilitated through this comparative analysis and indicated that several heat shock proteins, cytochrome P450s, and DNA binding ",
+        "journal": "Genome",
+        "year": "2011",
+        "authors": [
+          "Vijayan P",
+          "Parkin I A P",
+          "Karcz S R",
+          "McGowan K",
+          "Vijayan K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Base Sequence",
+          "Chromosome Mapping",
+          "Cold Temperature",
+          "Cold-Shock Response",
+          "Comparative Genomic Hybridization",
+          "Cytochrome P-450 Enzyme System",
+          "DNA, Plant",
+          "DNA-Binding Proteins",
+          "Evolution, Molecular",
+          "Expressed Sequence Tags"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21797793/"
+      },
+      {
+        "pmid": "22832985",
+        "title": "Functional and structural studies of a novel cold-adapted esterase from an Arctic intertidal metagenomic library.",
+        "abstract": "A novel cold-adapted lipolytic enzyme gene, est97, was identified from a high Arctic intertidal zone sediment metagenomic library. The deduced amino acid sequence of Est97 showed low similarity with other lipolytic enzymes, the maximum being 30 % identity with a putative lipase from Vibrio caribbenthicus. Common features of lipolytic enzymes, such as the GXSXG sequence motif, were detected. The gene product was over-expressed in Escherichia coli and purified. The recombinant Est97 (rEst97) hydrolysed various ρ-nitrophenyl esters with the best substrate being ρ-nitrophenyl hexanoate (K m and k cat of 39 μM and 25.8 s(-1), respectively). This esterase activity of rEst97 was optimal at 35 °C and pH 7.5 and the enzyme was unstable at temperatures above 25 °C. The apparent melting temperature, as determined by differential scanning calorimetry was 39 °C, substantiating Est97 as a cold-adapted esterase. The crystal structure of rEst97 was determined by the single wavelength anomalous dispers",
+        "journal": "Applied microbiology and biotechnology",
+        "year": "2013",
+        "authors": [
+          "Fu Juan",
+          "Leiros Hanna-Kirsti S",
+          "de Pascale Donatella",
+          "Johnson Kenneth A",
+          "Blencke Hans-Matti"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Arctic Regions",
+          "Calorimetry, Differential Scanning",
+          "Circular Dichroism",
+          "Crystallography, X-Ray",
+          "Esterases",
+          "Gene Library",
+          "Lipase",
+          "Metagenomics",
+          "Phylogeny",
+          "Substrate Specificity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22832985/"
+      },
+      {
+        "pmid": "16280656",
+        "title": "Safety of zinc gluconate glycine (Cold-Eeze) in a geriatric population: a randomized, placebo-controlled, double-blind trial.",
+        "abstract": "Zinc gluconate glycine lozenges are an over-the-counter homeopathic remedy that significantly reduced the duration and severity of common colds in adults in 2 independent clinical trials. To evaluate the safety of zinc gluconate glycine lozenges in elderly individuals with 1 or more health conditions, with or without a cold. This randomized, double-blind, placebo-controlled, parallel-group trial enrolled men and women between 60 and 91 years of age, who self-administered 1 zinc gluconate glycine or placebo lozenge every 3 to 4 hours for 6 days. One or more of the following conditions was present in the study population: arthritis, cancer, depression, heart disease, hypertension, lung disease, osteoporosis, prostate disease, and stroke. Assessments were performed at baseline and at 7 (+/-1 day) and 14 days. The safety evaluation considered physical examinations, clinical laboratory tests, vital signs, adverse events, and concomitant medications. Of 75 persons enrolled, 66 completed the ",
+        "journal": "American journal of therapeutics",
+        "year": "2005",
+        "authors": [
+          "Silk Raymond",
+          "LeFante Carolyn"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Common Cold",
+          "Double-Blind Method",
+          "Female",
+          "Geriatrics",
+          "Gluconates",
+          "Glycine",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16280656/"
+      },
+      {
+        "pmid": "38256188",
+        "title": "Identification and Expression Analysis of the Nucleotidyl Transferase Protein (NTP) Family in Soybean (Glycine max) under Various Abiotic Stresses.",
+        "abstract": "Nucleotidyl transferases (NTPs) are common transferases in eukaryotes and play a crucial role in nucleotide modifications at the 3' end of RNA. In plants, NTPs can regulate RNA stability by influencing 3' end modifications, which in turn affect plant growth, development, stress responses, and disease resistance. Although the functions of NTP family members have been extensively studied in Arabidopsis, rice, and maize, there is limited knowledge about NTP genes in soybeans. In this study, we identified 16 members of the NTP family in soybeans, including two subfamilies (G1 and G2) with distinct secondary structures, conserved motifs, and domain distributions at the protein level. Evolutionary analysis of genes in the NTP family across multiple species and gene collinearity analysis revealed a relatively conserved evolutionary pattern. Analysis of the tertiary structure of the proteins showed that NTPs have three conserved aspartic acids that bind together to form a possible active site.",
+        "journal": "International journal of molecular sciences",
+        "year": "2024",
+        "authors": [
+          "Kang Liqing",
+          "Li Changgen",
+          "Qin Aokang",
+          "Liu Zehui",
+          "Li Xuanyue"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Nucleotidyltransferases",
+          "Glycine max",
+          "Cold-Shock Response",
+          "Nucleotides",
+          "Arabidopsis",
+          "RNA Nucleotidyltransferases",
+          "Arabidopsis Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38256188/"
+      },
+      {
+        "pmid": "31494741",
+        "title": "Glycine Betaine Effect on Dormancy in Deinococcus sp. UDEC-P1 and Psychrobacter sp. UDEC-A5 Exposed to Hyperosmotic Stress.",
+        "abstract": "Bacteria under stress increase the proportion of dormant cells to ensure their survival. Cold and osmotic stress are similar, because in both the availability of water is reduced. Glycine betaine (GB) is one of the most common osmoprotectants in bacteria and possesses cryoprotectant properties. Our aim was to determine whether GB modifies the proportion of dormant Deinococcus sp. UDEC-P1 and Psychrobacter sp. UDEC-A5 cells exposed to osmotic stress. Both bacterial strains were incubated in the presence of up to 1 M NaCl with or without GB. Active and dormant cells were evaluated by both spectrophotometric and flow cytometry analysis. Without GB, Deinococcus sp. UDEC-P1 grew in the presence of 0.05 M NaCl, but with 5 mM GB grew at 0.1 M NaCl. Psychrobacter sp. UDEC-A5 grew in the presence of up to 0.25 M NaCl, but with 5 mM GB grew at 0.5 M NaCl. Under osmotic stress, the proportion of dormant cells of Deinococcus sp. UDEC-P1 and Psychrobacter sp. UDEC-A5 increased significantly (about ",
+        "journal": "Current microbiology",
+        "year": "2019",
+        "authors": [
+          "Gonzalez Karina",
+          "Parra Boris",
+          "Smith Carlos T",
+          "Martinez Miguel"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacterial Proteins",
+          "Betaine",
+          "Deinococcus",
+          "Osmotic Pressure",
+          "Psychrobacter",
+          "Sodium Chloride",
+          "Stress, Physiological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31494741/"
+      },
+      {
+        "pmid": "9643859",
+        "title": "Zinc gluconate lozenges for treating the common cold in children: a randomized controlled trial.",
+        "abstract": "The common cold is one of the most frequently occurring illnesses and is responsible for substantial morbidity and economic loss. Biochemical evidence suggests that zinc may be an effective treatment, and zinc gluconate glycine (ZGG) lozenges have been shown to reduce the duration of cold symptoms in adults.",
+        "journal": "JAMA",
+        "year": "1998",
+        "authors": [
+          "Macknin M L",
+          "Piedmonte M",
+          "Calendine C",
+          "Janosky J",
+          "Wald E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Common Cold",
+          "Double-Blind Method",
+          "Female",
+          "Gluconates",
+          "Humans",
+          "Male",
+          "Proportional Hazards Models",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9643859/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:14:29.393760",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,480 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes labialis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00230867",
+      "title": "A Multicenter, Placebo Controlled, Randomized, Double Blind, Subject Initiated Study of the Safety and Efficacy of a Single Topical Iontophoretic Application of Acyclovir 5% Cream With an Open Label Conventional Therapy Treatment Arm, and a Blinded Evaluator, for the Treatment of Recurrent Herpes Labialis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 1800,
+      "brief_summary": "Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the site where the herpes virus is replicating. Iontophoresis uses electric current to enhance the delivery of drugs through the skin. This trial is testing a new iontophoretic device for the delivery of acyclovir cream to treat cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subject 18-75 years of age\n2. Female subject must be using a medically acceptable form of birth control during the study. Acceptable birth control measures are abstinence, oral contraceptive pills or patch, injectable contraception, barrier contraceptives (cond",
+      "endpoints": [
+        "Clinician assessed duration of the herpetic episode measured from time of treatment until lesion healed. Lesion assessments for a minimum of 5 consecutive days and a maximum of 10 consecutive days."
+      ],
+      "sponsor": "Transport Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00230867"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06558838",
+      "title": "A Randomized, Parallel Group, Pilot Study to Assess Efficacy and Safety of Acyclovir-penciclovir Cream Versus an Active Comparator (Abreva) in the Suppression of Herpes Simplex Virus Eruptions in Subjects With a History of Herpes Labialis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-08-19",
+      "completion_date": "2025-11-30",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This will be a randomized, efficacy assessor-blinded, parallel group, pilot study of up to 40 subjects with documented herpes labialis. Patients will be treated with the study drug, acyclovir-penciclovir cream, or the active comparator of Abreva.\n\nPotential subjects will be assessed during a screening visit that must take place no greater than 2 weeks prior to the Day 1 (Baseline) visit. During the screening period, subjects that meet all other entry criteria will undergo Ultraviolet susceptibil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Understands the requirements of the study and provides written informed consent prior to undergoing any study-related procedures.\n* Subject is a male or female between the ages of 18-80 years old, inclusive.\n* Fitzpatrick skin type II or III.\n* History of at least one year of ",
+      "endpoints": [
+        "Proportion of subjects using acyclovir-penciclovir cream versus those using the Comparator, who do not progress to Stage 3 (vesicle) of a herpes labialis outbreak following UV radiation exposure"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT06558838"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00306293",
+      "title": "The Effect of Valacyclovir 1g Once Daily on HSV-2 Viral Shedding in Subjects Newly Diagnosed With Genital Herpes Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-02-20",
+      "completion_date": "2006-11-27",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "Eligible subjects will be randomized to receive VALTREX 1g or placebo once daily for 60 days in a two-way crossover study with a washout period of 7 days in between.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is in overall general good health.\n* If female, subject must be of:\n\n  1. Non-childbearing potential (i.e., physiologically incapable of becoming pregnant, including any female who is pre-menarchial or post-menopausal or surgically sterile); or\n  2. Childbearing potent",
+      "endpoints": [
+        "Mean Percent Days of Total Shedding (Clinical and Subclinical) as Determined by Type-specific Polymerase Chain Reaction (PCR) Assay for Herpes Simplex Virus Type 2 (HSV-2)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00306293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02157090",
+      "title": "Clinical Assessment of the Effectiveness and Safety of Herpes Patch SOS (Hansaplast®) Based on Hydrocolloids Without Active Substances in the Treatment of Herpes Simplex Labialis in Comparison to a Competitor's Product (Herpes Vesicle Patch of COMPEED®)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2010-06",
+      "country": "Germany",
+      "enrollment": "N/A",
+      "brief_summary": "Recent clinical studies showed, that a hydrocolloid patch is effective, well tolerated and comparable with aciclovir cream 5 % for the treatment of HSL lesions, while affording additional benefits of wound protection, discretion and relief of social embarrassment. The aim of the actual study was the clinical assessment of the effectiveness and safety of Hansaplast® SOS Herpes Patch (HPHP) in comparison to Compeed® Herpes Vesicle Patch (CHP) in treating HSL. Both products are CE-certificated and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least 18 years old\n* with a history of recurrent HSL of the lips and/or perioral skin\n* lesions typically manifesting as classical lesions\n* duration of HSL symptoms not more than three days\n* haven´t used acyclovir or other cold sore therapies\n\nExclusion Criteria:\n\n* pregn",
+      "endpoints": [
+        "The primary endpoint of this study was the Subjects Global Assessment of Therapy (SGAT) at final visit."
+      ],
+      "sponsor": "Technische Universität Dresden",
+      "url": "https://clinicaltrials.gov/study/NCT02157090"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01574612",
+      "title": "An Open Label Multi Center Phase III Subject/Caregiver Initiated Safety Study of Xerese(Acyclovir and Hydrocortisone)Cream 5%/1% in the Treatment of Recurrent Herpes Labialis in Children",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-02",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "To test the safety of Xerese (acyclovir and hydrocortisone)Cream 5%/1% for the treatment of recurrent cold sores in children ages 6-11yrs after 5 days of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, age 6-11 years at time of enrollment\n* General good health, as judged by the Investigator\n* History of recurrent herpes labialis with at least two (2) recurrences during the last twelve (12) months, as based on interview with the subject or subject's caregiver\n",
+      "endpoints": [
+        "Reporting of Adverse Events"
+      ],
+      "sponsor": "Meda Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01574612"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00469300",
+      "title": "A Multicenter, Placebo Controlled, Randomized, Double Blind, Subject Initiated Study of the Safety and Efficacy of the Electrokinetic Transdermal System (ETS) With Acyclovir Gel for the Episodic Treatment of Herpes Labialis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 810,
+      "brief_summary": "Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the sites where the herpes virus is replicating. Iontophoresis uses electric current to enhance delivery of drugs through the skin. This trial is testing a new iontophoretic device with a new acyclovir gel to treat cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subject 18-75 years of age\n2. Female subjects must be using a medically acceptable form of birth control during the study.\n3. Subject must have a history of recurrent herpes labialis and report at least 3 recurrences during the preceding 12 months.\n4. Subject m",
+      "endpoints": [
+        "Clinician assessed duration of the herpetic episode measured from the time of treatment until the lesion is healed."
+      ],
+      "sponsor": "Transport Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00469300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06134492",
+      "title": "Effect of Acyclovir Therapy on the Outcome of Ventilated Patients With Lower Respiratory Tract Infection and Detection of Herpes Simplex Virus in Bronchoalveolar Lavage",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-20",
+      "completion_date": "2026-12",
+      "country": "Germany",
+      "enrollment": 616,
+      "brief_summary": "Almost 90 out of 100 people carry herpes simplex viruses (HSV). Once a person has been infected with the herpes viruses, he or she can't get rid of them for the rest of her/his life. For the most part, the viruses are in a dormant state. Only when the immune system is weakened, for example in the case of a serious illness or stress, are the viruses reactivated. They then mainly cause cold sores, which are harmless for healthy people and usually heal without therapy. However, especially in people",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥ 18 years\n2. need for invasive or non-invasive respiratory support\n3. PCR HSV-1 detection in BAL (≥ 10\\^3 copies/ml)\n4. Pneumonia (community or healthcare acquired, incl. ventilator-associated pneumonia)\n5. declaration of consent by the patient or legal representative\n\nExclu",
+      "endpoints": [
+        "mortality (survival status)"
+      ],
+      "sponsor": "Jena University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06134492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00769314",
+      "title": "A Randomised, Double-Blind, Single Dose, One-Day Early Administration, Multicentre Study Comparing the Efficacy and Safety of Acyclovir Lauriad® 50 mg Muco-adhesive Buccal Tablet to Matching Placebo, in the Treatment of Herpes Labialis in Immunocompetent Patients.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-08",
+      "country": "France, Czechia, Germany, Australia, United Kingdom, Poland, United States",
+      "enrollment": 1727,
+      "brief_summary": "To demonstrate the efficacy of a single dose of acyclovir Lauriad® 50mg muco-adhesive buccal tablet versus a single dose of matching placebo on the primary vesicular lesion of cold sore.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of recurrent herpes labialis lesions where:\n\n  * At least 50% of previous episodes produced classical lesions to the vesicular stage (i.e. episodes that progressed through macula, papule, vesicle, crust and healed);\n  * Prodromal symptoms (itching, tingling, pain etc.)",
+      "endpoints": [
+        "Time to Healing (TTH) of Vesicular Primary Lesion"
+      ],
+      "sponsor": "Valerio Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT00769314"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02265913",
+      "title": "Comparative Safety and Efficacy of Two Antiviral Treatments in the Treatment of Recurrent Herpes Simplex Labialis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-10-06",
+      "completion_date": "2017-11-21",
+      "country": "United States",
+      "enrollment": 4076,
+      "brief_summary": "To compare safety and efficacy of Perrigo's antiviral drug product compared to an FDA approved antiviral drug product in the treatment of cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provides written informed consent/assent\n2. Immunocompetent male or non-pregnant females, \\>12 years old, with limited, non-life-threatening, recurrent herpes simplex labialis.\n3. Subjects must have at least 3 recurrences of herpes simplex labialis per year for the past two y",
+      "endpoints": [
+        "Lesion Healing"
+      ],
+      "sponsor": "Padagis LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02265913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01580995",
+      "title": "HSV-1 Suppression in HCV Infected Veterans Who Are Seronegative for HSV-2",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2015-03",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "The purpose of this study is to examine the effects of valacyclovir in patients who have chronic hepatitis C, antibodies to herpes simplex type 1 infection but do not have antibodies to herpes simplex type 2 infection. Herpes simplex type 1 infection commonly causes cold sores or fever blisters, also known as herpes labialis, but most persons do not have any symptoms at all. Valacyclovir is a medication which is approved by the Food and Drug administration to treat herpes labialis. Valacyclovir ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic hepatitis C infection with a detectable HCV RNA in the serum on two occasions, 6 months apart\n* Focus HSV-2 IgG negative and Focus HSV-1 IgG positive, using manufacturer's cut-offs\n\nExclusion Criteria:\n\n* Antiherpes or immunomodulatory therapy during the past 30 days,\n",
+      "endpoints": [
+        "Change in HCV RNA Viral Load"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT01580995"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001054",
+      "title": "A Phase I Trial to Evaluate the Pharmacokinetics, Safety, and Tolerance of Valacyclovir HCl in HIV-1 Infected Children With Herpes Simplex Infections or Varicella/Zoster Infections",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2001-01",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "To obtain tolerance, safety, and pharmacokinetic data for oral valacyclovir hydrochloride ( 256U87 ) in HIV-1 infected children with herpes simplex virus infections ( cold sores ) and/or varicella / zoster virus infections ( chicken pox / shingles ).\n\nVaricella and zoster are common problems in HIV-infected children. It is believed that chronic oral therapy with acyclovir may result in subtherapeutic concentrations of acyclovir, resulting in resistance to that drug. Valacyclovir hydrochloride, w",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Antiretrovirals.\n* PCP prophylaxis.\n* IVIG, G-CSF, and erythropoietin.\n\nConcurrent Treatment:\n\nAllowed:\n\n* Transfusions.\n\nPatients must have:\n\n* Localized mucocutaneous herpes simplex OR undisseminated varicella or zoster.\n* HIV positive. NOTE:",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00467662",
+      "title": "The Safety, Efficacy and Convenience of Use of the Natural Agent \"Superlysin Gel\" as Treatment for Herpes Labialis in Comparison to Acyclovir 5% and Docozanole 10%.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 75,
+      "brief_summary": "Recurrent cold sores - herpes simplex labialis (HSL) occurs in 20-40% of the US population and patient seek treatment because of the discomfort and visibility of the lesion although it is a self limiting disease. The purpose of this study is to check the safety, Efficacy and convenience of Use of the Natural Agent \"Superlysin Gel\" as Treatment for Herpes Labialis in Comparison to Acyclovir 5% and Docozanole 10%.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Signed informed consent\n* Age range (yrs) 18-70\n* Gender ; Males and females\n* Health status; immuno-competent\n* Clinical history of HSL with at least two recurrences during the past 12 months. The most recent previous episode must have healed at least 14 days before screening",
+      "endpoints": [
+        "Reducing healing process and duration of cold sores using superlysin gel"
+      ],
+      "sponsor": "Hadassah Medical Organization",
+      "url": "https://clinicaltrials.gov/study/NCT00467662"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00361881",
+      "title": "A Randomized, Double-Blind, Active Controlled, Vehicle-Controlled, Subject Initiated Study Comparing Efficacy and Safety of ME-609 Versus Acyclovir Cream for Treatment of Recurrent Herpes Simplex Labialis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2007-12",
+      "country": "United States",
+      "enrollment": 1443,
+      "brief_summary": "The purpose of this study is to determine whether ME-609 is more efficient than acyclovir and placebo for the treatment of recurrent herpes labialis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Generally good health\n* History of recurrent herpes labialis with at last three episodes during the prior 12 months\n\nExclusion Criteria:\n\n* Treatment with antivirals or immunosuppressive agents within 2 weeks prior to randomization\n* Pregnant and/or nursing women\n* Continuous ",
+      "endpoints": [
+        "Proportion of subjects with non-ulcerative recurrences measured as the proportion of subjects in whom the study recurrence did not progress beyond the papule stage."
+      ],
+      "sponsor": "Medivir",
+      "url": "https://clinicaltrials.gov/study/NCT00361881"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00297206",
+      "title": "An Open-label, Single-dose, Multicenter, Pharmacokinetic, Safety and Tolerability Study of Valaciclovir Oral Suspension in Infants and Children.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-01-25",
+      "completion_date": "2007-02-28",
+      "country": "Chile, South Africa, United States",
+      "enrollment": 36,
+      "brief_summary": "Limited data are available on valaciclovir use in children and valaciclovir is not currently approved for use in pediatrics. The marketed formulation of valaciclovir is not ideal for use in pre-adolescent patients who may have trouble swallowing solid oral dosage forms. An extemporaneous suspension formulation of valaciclovir has been developed to expedite the provision of benefits to children similar to those from administration of valaciclovir solid formulations in adults.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Subjects who have a current herpes virus infection.\n* Have neonatally acquired herpes at risk of potential recurrence.\n* Immunocompromised or cancer patients at risk for development of a herpes virus infection.\n\nExclusion criteria:\n\n* Hypersensitivity to antiherpetic medicatio",
+      "endpoints": [
+        "Plasma acyclovir and valaciclovir concentrations pre-dose (within 15 minutes of dose administration) and at 0.5, 1, 2, 4 and 6 hours following administration of the valaciclovir oral suspension dose."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00297206"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00514449",
+      "title": "A Randomized Double-blind Controlled Trial of Valacyclovir Add-on Treatment of HSV Positive Early Course Schizophrenia Patients",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-06",
+      "completion_date": "2016-09",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study is to examine whether antiviral medication will help improve psychotic symptoms and cognition in individuals early in the course of schizophrenia or schizoaffective disorder who are exposed to herpes simplex virus, type 1 (HSV 1), a virus that causes commonly occurring and recurrent cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Both genders between the ages of 18-50 years\n* Schizophrenia or schizoaffective disorder as defined in DSM-IV\n* Duration of illness 10 years or less\n* On a stable dose of an antipsychotic medication for at least a month\n* Should score 4 or more on at least one of the subscales",
+      "endpoints": [
+        "PANSS Positive and Negative Syndrome Scale for Schizophrenia",
+        "Cognitive Function Neuropsychological Battery (Gur Battery)"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00514449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05098938",
+      "title": "A Randomized, Multi-Center, Double Blinded, Self-Initiated, Single Treatment Study Comparing Sitavig® (Acyclovir) 50 mg Muco-adhesive Buccal Tablet to Placebo in the Treatment of Herpes Labialis in Immunocompetent Adults",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2021-11-23",
+      "completion_date": "2024-07-02",
+      "country": "United States",
+      "enrollment": 2020,
+      "brief_summary": "Researchers are looking for a better way to treat people who have recurrent herpes labialis, also known as cold sores. This is a type of viral infection that causes redness and blisters on the mouth and lip and that recurs.\n\nHerpes labialis is caused by a virus called the herpes simplex virus (HSV). The infection is spread when a person comes into direct contact with someone else who has the infection. Once a person becomes infected with HSV, the virus multiplies and spreads, which can cause red",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, 18 years of age or older inclusive;\n* History of recurrent HL lesions where:\n\n  * Recurrence is defined as at least 4 episodes in the preceding 12 months;\n  * At least half of the episodes should be vesicular in nature;\n  * At least half of the episodes shoul",
+      "endpoints": [
+        "Duration of Episode (DOE) Was Measured in Hours (Using the Science 37 Platform), of a Single Treated Herpes Labialis (HL) Lesion"
+      ],
+      "sponsor": "Bayer",
+      "url": "https://clinicaltrials.gov/study/NCT05098938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02871492",
+      "title": "A Randomized, Double-blind, Multi-center, Three Arm (Pritelivir, Placebo and Zovirax®) Parallel Group, Comparative Trial to Assess the Efficacy and Safety of Pritelivir 5% w/w Ointment for the Treatment of Recurrent Herpes Labialis in Adults - LipP1",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-11-29",
+      "completion_date": "2017-10-16",
+      "country": "United States",
+      "enrollment": 362,
+      "brief_summary": "Randomized, double-blind, multi-center, three arm parallel group, comparative trial to assess pritelivir ointment safety and efficacy, ie, proportion of subjects with non-ulcerative lesions, in adult subjects with recurrent herpes labialis (RHL) in comparison with placebo or Zovirax® Cream. The start of treatment with trial medication will be initiated by the subject within one hour of noticing the first sign or symptom (eg, prodrome) of a recurrence of herpes labialis. Trial medication will be ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy men and women of any ethnic group aged ≥18 years ;\n* Subjects should have experienced ≥4 recurrences of herpes labialis in the previous 12-months period;\n* Subjects should have experienced prodromal symptoms in at least 50% of recurrent Herpes labialis (rHL) episodes a",
+      "endpoints": [
+        "Efficacy Measured by Percentage of Subjects With Non-ulcerative Lesions Based on Principal Investigator's Assessment"
+      ],
+      "sponsor": "AiCuris Anti-infective Cures AG",
+      "url": "https://clinicaltrials.gov/study/NCT02871492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02711267",
+      "title": "An Exploratory Study to Evaluate Dermal Open Flow Microperfusion's (dOFM) Ability to Assess Bioequivalence and Non-bioequivalence of Topical Acyclovir Formulations in Healthy Volunteers",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2015-08",
+      "country": "Austria",
+      "enrollment": 36,
+      "brief_summary": "The overall aim of this clinical study is to investigate the ability of dermal open flow microperfusion to assess bioequivalence and non-bioequivalence of acyclovir formulations in the skin of healthy volunteers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent must be obtained before any assessment is performed.\n2. Male and female subjects 21 to 50 years of age inclusive and in good health as determined by past medical history, physical examination, vital signs, electrocardiogram, and laboratory tests at sc",
+      "endpoints": [
+        "AUC",
+        "CMAX"
+      ],
+      "sponsor": "Medical University of Graz",
+      "url": "https://clinicaltrials.gov/study/NCT02711267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04037475",
+      "title": "Treatment of Herpes Labialis by Photodynamic Therapy: Controlled, Prospective, Randomized, Double-blind Protocol Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-01",
+      "completion_date": "2023-10-15",
+      "country": "Brazil",
+      "enrollment": 24,
+      "brief_summary": "Lesions of herpes labialis are caused by the herpes simplex virus type 1 (HSV-1) and cause pain and aesthetic compromise. It is characterized by the formation of small vesicles that coalesce and rupture forming extremely painful ulcers, that evolve to crusts, dry desquamations until their complete remission. Currently, the treatment of these lesions is done with acyclovir. Although it diminishes the symptomatology, it causes viral resistance and does not prevent the recurrence of the lesions. It",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Patients of both sex,\n\n* with no predilection for race or socioeconomic status,\n* negative medical history\n\nExclusion Criteria:\n\n* Patients with a herpes infection in the dry desquamation stage will be excluded.\n* Participants in continuous use of non-steroidal anti-inflammat",
+      "endpoints": [
+        "Evaluation of the resolution time of the lesions"
+      ],
+      "sponsor": "University of Nove de Julho",
+      "url": "https://clinicaltrials.gov/study/NCT04037475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02483182",
+      "title": "A Phase II, Randomized, Double-Blind, Parallel Group, Acyclovir-Controlled Study to Evaluate ZEP-3 Ointment for the Treatment of Cold Sores (Herpes Labialis).",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-09",
+      "completion_date": "2018-06-24",
+      "country": "Israel",
+      "enrollment": 210,
+      "brief_summary": "This is a phase II, prospective, randomized, double-blind, parallel group, acyclovir-controlled clinical study to evaluate the safety, tolerability and preliminary therapeutic efficacy of ZEP-3 ointment 1.0% for the treatment of cold sores (Herpes labialis), following five consecutive treatment days with five times daily topical administration.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPrior to enrollment in this study, candidates must meet ALL of the following inclusion criteria:\n\n1. Patients suffering from recurrent Herpes labialis with history of at least 3 cold sores recurrences during the previous 12 months.\n2. Participants, either male or female are betw",
+      "endpoints": [
+        "Clinician-assessed \"Time to healing\""
+      ],
+      "sponsor": "Shulov Innovate for Science Ltd. 2012",
+      "url": "https://clinicaltrials.gov/study/NCT02483182"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00735761",
+      "title": "A Randomized, Double-Blind, Active-Controlled, Subject Initiated Study Comparing ME-609 to Acyclovir Cream for Treatment of Recurrent Herpes Simplex Labialis in Immunocompromised Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2007-09",
+      "country": "N/A",
+      "enrollment": 201,
+      "brief_summary": "The purpose of this study is to evaluate the episode duration of a herpes labialis recurrence in immunocompromised patients treated with ME-609 or Acyclovir.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of recurrent herpes labialis with at least two recurrences during the twelve months prior to the study.\n* Stable HIV infection\n* CD4+ T-cell count 100 to 500/mm3\n\nExclusion Criteria:\n\n* Systemic treatment with other antiviral agent or corticosteroids within two weeks p",
+      "endpoints": [
+        "The primary variable was episode duration, measured from the start of treatment until loss of hard crust for an ulcerative recurrence and from the start of treatment to time of no signs or symptoms for a non-ulcerative recurrence (Investigator-assessed)."
+      ],
+      "sponsor": "Medivir",
+      "url": "https://clinicaltrials.gov/study/NCT00735761"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01653509",
+      "title": "An Exploratory Study to Investigate the Inflammatory Response During a Cold Sore Episode",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2012-09",
+      "country": "Germany",
+      "enrollment": 60,
+      "brief_summary": "This study will treat approximately 24 participants who experience cold sores. Patches will be applied to the cold sore for up to ten days, and the symptoms will be measured during daily clinic visits using non-invasive measurement techniques.",
+      "eligibility_criteria": "Participants who are susceptible to cold sores that reactivate when exposed to ultraviolet (UV) light",
+      "endpoints": [
+        "Mean Change From Baseline in Blood Flow",
+        "Mean Change From Baseline in Temperature",
+        "Mean Change From Baseline in Color Intensity of Lesions"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01653509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001328",
+      "title": "Gene Therapy for the Treatment of Brain Tumors Using Intra-Tumoral Transduction With the Thymidine Kinase Gene and Intravenous Ganciclovir",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1992-08-21",
+      "completion_date": "2010-04-30",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "Malignant brain tumors are responsible for a significant amount of deaths in children and adults. Even with advances in surgery, radiation therapy, and chemotherapy, many patients diagnosed with a malignant brain tumor survive only months to weeks.\n\nIn an attempt to improve the prognosis for these patients, researchers have developed a new approach to brain tumor therapy. This approach makes use of DNA technology to transfer genes sensitive to therapy into the cells of the tumor.\n\nInfections wit",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nAll adults, greater than 18 years of age, with malignant brain tumors (primary and metastatic) who failed all standard therapy for their disease will be eligible to enter the study.\n\nEXCLUSION CRITERIA:\n\nNo pregnant women will be entered into the study.\n\nPatients with HIV infe",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00001328"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01257074",
+      "title": "A Randomized, Double-Blind, to Compare Non-inferiority Efficacy and Safety of Penciclovir 10mg/g to Acyclovir 50mg/g in the Treatment of Recurrent Herpes Labialis.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-02",
+      "completion_date": "2012-10",
+      "country": "Brazil",
+      "enrollment": 76,
+      "brief_summary": "Herpes labialis is the most common recurrent manifestation of herpes simplex. The purpose of this study is to check the non-inferiority efficacy and safety of penciclovir 10mg/g as treatment for Herpes Labialis in comparison to acyclovir 50mg/g.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must be able to understand the study procedures agree to participate and give written consent.\n2. Patients with clinical diagnosis of recurrent herpes labialis and are in the prodromal period (stinging, itching, burning and erythema) at the onset of signs / symptoms ",
+      "endpoints": [
+        "Efficacy will be evaluated by the proportion of subjects with non herpes labialis manifestation"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT01257074"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00711776",
+      "title": "Bioequivalence Study of Aciclovir 5% Cream - Bioequivalence Study of Aciclovir Cream Between Current and New Formulation in Japanese Healthy Volunteers -",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-04-10",
+      "completion_date": "2008-08-17",
+      "country": "Japan",
+      "enrollment": 27,
+      "brief_summary": "This study is designed to show bioequivalence between Current and New formulation of Aciclovir cream 5% in keratin layer of the epidermis in Japanese Subjects",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy Japanese adult males between 20 and 55 years of age, inclusive.\n\nHealthy subjects are defined as individuals who are free from clinically significant disease as determined by their medical history, physical examination, clinical laboratory examinations, vital sign, 12-",
+      "endpoints": [
+        "Bioequivalence of Aciclovir amount in keratin layer of the epidermis between Current and New formulation of Aciclovir cream"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00711776"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00736437",
+      "title": "Efficacy of Acyclovir in Combination With a Glucocorticosteroid on UV-Induced Herpes Labialis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1999-08",
+      "completion_date": "2000-08",
+      "country": "N/A",
+      "enrollment": 417,
+      "brief_summary": "The primary objective was to compare the efficacy of ME-609 cream vs placebo cream on the time to healing (loss of hard crust) of delayed classical herpes labialis (HSV) lesions experimentally induced after ultra violet radiation (UVR) exposure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 years or older\n* A history of reactivation of recurrent herpes labialis with overexposure to sunlight in the last 12 months, or 2 or more cold sore lesions in the last 12 months\n* Generally healthy as determined by medical history and verbal interview\n* Females who wer",
+      "endpoints": [
+        "time to healing (loss of hard crust) of delayed classical herpes labialis (HSV) lesions experimentally induced after ultra violet radiation (UVR) exposure."
+      ],
+      "sponsor": "Medivir",
+      "url": "https://clinicaltrials.gov/study/NCT00736437"
+    }
+  ],
+  "timestamp": "2026-03-04T14:52:00.713259",
+  "success": true,
+  "error_message": null
+}

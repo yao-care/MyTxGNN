@@ -6,7 +6,7 @@ drug_name: "Ceftazidime"
 kg_predictions: 105
 dl_predictions: 166
 evidence_level: "L1"
-indication_count: 105
+indication_count: 5
 brands: []
 permalink: /drugs/ceftazidime/
 ---

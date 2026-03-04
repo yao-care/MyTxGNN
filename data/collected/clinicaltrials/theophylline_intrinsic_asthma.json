@@ -1,0 +1,50 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "intrinsic asthma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04309877",
+      "title": "Pilot Randomized Controlled Trial of Theophylline for Attenuation of Lipopolysaccharide-Induced Depressive Symptoms",
+      "phase": "EARLY_PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2023-03",
+      "completion_date": "2025-06",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Depression is very common and poses a huge disease burden. About 20% of the US population suffers from depression at least once in their lifetime. Inflammations that are hidden inside our body as a result of aging, obesity, chronic diseases, or certain treatments (e.g., interferon for hepatitis C) appear to cause depressive symptoms and even clinical depression. Individuals with such inflammations are more likely to suffer from depression and are less likely to respond to currently available ant",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* in good general health (as evaluated during the phone and in-person screening sessions)\n* aged 18-65 years\n* if female, using adequate birth control\n\nExclusion Criteria:\n\n* history of hypersensitivity to xanthine derivatives (a contraindication to theophylline treatment)\n* pre",
+      "endpoints": [
+        "Change in depressed mood from baseline"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT04309877"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01293734",
+      "title": "Research on Traditional Chinese Medicine (TCM) Clinical Treatment of the Acute Episode of Bronchial Asthma.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2011-02",
+      "country": "N/A",
+      "enrollment": 360,
+      "brief_summary": "Bronchial asthma is a common disease and frequently encountered disease of respiratory apparatus. It has very complex mechanism and multiple inducing factors. This study will focus on a new Chinese therapy on Bronchial asthma, analyzing the treatment mechanism of internal and external use, based on Traditional Chinese Medicine (TCM) theory and clinical practice. The study will also investigate the efficacy of the Chinese drugs and treatments on Bronchial asthma, and provide an effective therapy ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18 to 65 years old;\n* Patients with mild-to-moderate bronchial asthma on attacking stage;\n* Without cardiopulmonary or other complications;\n* To comply with the diagnostic standard of bronchial asthma in western medicine and TCM syndrome differentiation;\n* Informed",
+      "endpoints": [
+        "primary Symptom",
+        "physical sign",
+        "assistant examination"
+      ],
+      "sponsor": "Liaoning University of Traditional Chinese Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01293734"
+    }
+  ],
+  "timestamp": "2026-03-04T16:59:49.402401",
+  "success": true,
+  "error_message": null
+}

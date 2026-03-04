@@ -1,0 +1,593 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "gastric ulcer",
+    "query_string": "Omeprazole AND gastric ulcer"
+  },
+  "data": {
+    "query": "Omeprazole AND gastric ulcer",
+    "results": [
+      {
+        "pmid": "35472513",
+        "title": "Equine gastric ulcer syndrome in adult horses.",
+        "abstract": "Many domesticated horses have gastric ulcers which can be diagnosed and graded during gastroscopy. A distinction should be made between equine squamous gastric disease (ESGD), which is caused by exposure of the mucosa to acid, and equine glandular gastric disease (EGGD), thought to occur when mucosal defence mechanisms are compromised. Horses with gastric ulcers may, but do not always, show clinical signs such as poor appetite, mild colic, discomfort during girthing, behavioural changes and reduced performance. The mainstay of treatment is blocking acid production using the proton pump inhibitor omeprazole. Treatment is usually successful in cases of ESGD, but less so for EGGD, where treatment duration is longer and for which sucralfate may be added or alternatives necessary, such as misoprostol, a prostaglandin analogue. To prevent recurrence of ulcers known risk factors, such as high concentrate diets, intense exercise and stress should be avoided or minimized.",
+        "journal": "Veterinary journal (London, England : 1997)",
+        "year": "2022",
+        "authors": [
+          "van den Boom Robin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Gastric Mucosa",
+          "Gastroscopy",
+          "Horse Diseases",
+          "Horses",
+          "Omeprazole",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35472513/"
+      },
+      {
+        "pmid": "14687806",
+        "title": "Gastric acid control with esomeprazole, lansoprazole, omeprazole, pantoprazole, and rabeprazole: a five-way crossover study.",
+        "abstract": "Proton pump inhibitors owe their clinical efficacy to their ability to suppress gastric acid production. The objective of this study was to evaluate and compare intragastric pH following standard doses of esomeprazole, lansoprazole, omeprazole, pantoprazole and rabeprazole.",
+        "journal": "The American journal of gastroenterology",
+        "year": "2003",
+        "authors": [
+          "Miner Philip",
+          "Katz Philip O",
+          "Chen Yusong",
+          "Sostek Mark"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Adolescent",
+          "Adult",
+          "Anti-Ulcer Agents",
+          "Benzimidazoles",
+          "Chi-Square Distribution",
+          "Cross-Over Studies",
+          "Esomeprazole",
+          "Female",
+          "Gastric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14687806/"
+      },
+      {
+        "pmid": "35787720",
+        "title": "An update on drug-drug interactions associated with proton pump inhibitors.",
+        "abstract": "Proton pump inhibitors (PPIs) block the gastric H/K-ATPase, therefore inhibiting acid gastric secretion, leading to an increased pH (>4). They account for an extremely high number of prescriptions worldwide. Numerous drug-drug interactions have been described with PPIs, but all the described interactions do not have clinical significance.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2022",
+        "authors": [
+          "Ben Ghezala Inès",
+          "Luu Maxime",
+          "Bardou Marc"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Pyridinylmethylsulfinylbenzimidazoles",
+          "Drug Interactions",
+          "Enzyme Inhibitors",
+          "Esomeprazole",
+          "Humans",
+          "Omeprazole",
+          "Prospective Studies",
+          "Proton Pump Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35787720/"
+      },
+      {
+        "pmid": "35150824",
+        "title": "Omeprazole prevents stress induced gastric ulcer by direct inhibition of MMP-2/TIMP-3 interactions.",
+        "abstract": "The healing of damaged tissues in gastric tract starts with the extracellular matrix (ECM) remodeling by the action of matrix metalloproteinases (MMPs). Particularly, MMP-2 (gelatinase-A) maintains ECM structure and function by degrading type IV collagen, the major component of basement membranes and by clearing denatured collagen. The proteolytic activities of MMPs are critically balanced by endogenous tissue inhibitors of metalloproteinases (TIMPs) and disruption of this balance results in several diseases. The well-known drug omeprazole is a proton pump inhibitor used for curing gastric ulcer. However, the action of omeprazole in ECM remodeling on gastroprotection has never been explored. Herein, using rat model of gastric ulcer, we report that restraint cold stress caused increase apoptosis to surface epithelia of gastric tissues along with TIMP-3 upregulation and inhibition of MMP-2 activity thereon. In contrast, omeprazole treatment suppressed TIMP-3 while increasing MMP-2 activi",
+        "journal": "Free radical biology & medicine",
+        "year": "2022",
+        "authors": [
+          "Rudra Deep Sankar",
+          "Pal Uttam",
+          "Chowdhury Nilkanta",
+          "Maiti Nakul Chandra",
+          "Bagchi Angshuman"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Matrix Metalloproteinase 2",
+          "Omeprazole",
+          "Rats",
+          "Stomach Ulcer",
+          "Tissue Inhibitor of Metalloproteinase-3",
+          "Tissue Inhibitor of Metalloproteinases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35150824/"
+      },
+      {
+        "pmid": "7614110",
+        "title": "Omeprazole and H2-receptor antagonists in the acute treatment of duodenal ulcer, gastric ulcer and reflux oesophagitis: a meta-analysis.",
+        "abstract": "This paper is a meta-analysis of 30 published, double-blind clinical trials comparing omeprazole with ranitidine or cimetidine for the treatment of duodenal ulcer, gastric ulcer and reflux oesophagitis. These studies compare the recommended doses of omeprazole with those for ranitidine and cimetidine, and the confidence intervals for the therapeutic gain show that the findings are highly reliable. The difference in healing rates favoured omeprazole over ranitidine in patients with duodenal ulcer after 2 weeks of treatment (15.2 percentage units; P < 0.001), and after 4 weeks of treatment in patients with gastric ulcer (9.9 percentage units; P = 0.005), or reflux oesophagitis (23 percentage units; P < 0.001). Similarly, omeprazole gave a 20.6 percentage units higher average healing rate than cimetidine in patients with duodenal ulcer after 2 weeks of treatment (P < 0.0001). Significantly more patients treated with omeprazole were free of symptoms at their first follow-up visit than pati",
+        "journal": "European journal of gastroenterology & hepatology",
+        "year": "1995",
+        "authors": [
+          "Eriksson S",
+          "Långström G",
+          "Rikner L",
+          "Carlsson R",
+          "Naesdal J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cimetidine",
+          "Double-Blind Method",
+          "Duodenal Ulcer",
+          "Esophagitis, Peptic",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7614110/"
+      },
+      {
+        "pmid": "37201406",
+        "title": "Fucoidan mitigates gastric ulcer injury through managing inflammation, oxidative stress, and NLRP3-mediated pyroptosis.",
+        "abstract": "This study aimed to elucidate the gastro-protective effect of fucoidan against ethanol-induced gastric ulcer mediated via NLRP3-induced pyroptosis as an underlying mechanism, not yet assessed in prior research. Forty-eight male Albino mice were divided into six groups: Group I (normal control), group II (Ulcer/ethanol control), group III (Omeprazole + ethanol), group IV (fucoidan 25 mg + ethanol), group V (fucoidan 50 mg + ethanol) and group VI (fucoidan only). Fucoidan was administered orally for seven consecutive days followed by ulcer induction by a single oral dose of ethanol. Using colorimetric analysis, ELISA, qRT-PCR, histological assessment, and immunohistochemical studies, the results revealed that ethanol-induced ulcer exhibited an ulcer score of 42.5 ± 5.1 and a significant increase (p < 0.05) in malondialdehyde (MDA), nuclear factor kappa B (NF-κB), and interleukin 6 (IL-6) with a significant decrease in the gastro-protective mediators, prostaglandin E2 (PGE2), superoxide d",
+        "journal": "International immunopharmacology",
+        "year": "2023",
+        "authors": [
+          "Selim Hend Mostafa",
+          "Negm Walaa A",
+          "Hawwal Mohammed F",
+          "Hussein Ismail A",
+          "Elekhnawy Engy"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Mice",
+          "Animals",
+          "Male",
+          "Stomach Ulcer",
+          "NLR Family, Pyrin Domain-Containing 3 Protein",
+          "Ulcer",
+          "Pyroptosis",
+          "Gastric Mucosa",
+          "Oxidative Stress",
+          "Inflammation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37201406/"
+      },
+      {
+        "pmid": "40563542",
+        "title": "Enhanced Therapeutic Efficacy of Omeprazole Nanosuspension in Ethanol-Induced Gastric Ulcer: A Focus on Oxidative Stress and Inflammatory Pathways.",
+        "abstract": "Gastric ulcer is a concerning condition that affects numerous individuals globally. Omeprazole (OMP), a well-known drug for treating stomach ulcers, has been associated with several adverse effects and limited solubility. The study aimed to create an omeprazole nanosuspension (OMP-NS) with improved solubility and bioavailability. Additionally, the study investigated the potential therapeutic effects of OMP-NS on ethanol-induced gastric injury in rats, comparing it to traditional OMP therapy to identify novel therapeutic alternatives. The characterization of the OMP-NS was assessed using DLS, TEM, XRD, FTIR, UV spectrophotometric analysis, in vitro release studies, and entrapment efficiency (EE) assays. A total of 24 male Wistar albino rats (weighing 150-200 g, aged 8-10 weeks) were randomly divided into four groups (six rats/group). Gastric injury was induced using absolute ethanol (5 mL/kg), followed by oral administration of either OMP or OMP-NS (20 mg/kg) for 7 days. Data were analy",
+        "journal": "Biomolecules",
+        "year": "2025",
+        "authors": [
+          "Albalawi Mody",
+          "Khateeb Sahar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Omeprazole",
+          "Stomach Ulcer",
+          "Ethanol",
+          "Oxidative Stress",
+          "Rats",
+          "Male",
+          "Rats, Wistar",
+          "Nanoparticles",
+          "Anti-Ulcer Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40563542/"
+      },
+      {
+        "pmid": "2690333",
+        "title": "Omeprazole in the acute treatment of gastric ulcer.",
+        "abstract": "Antisecretory drugs are known to be valuable in the treatment of gastric ulcer. Recent studies have shown that this also holds true for omeprazole, the most effective antisecretory drugs currently available. At 30-40 mg once daily omeprazole provides cumulative healing rates of up to 100% after 4-8 weeks. In one study, omeprazole, 20 mg, and ranitidine, 150 mg b.d., produced similar healing rates in the acute treatment of gastric ulcer, though there was a tendency towards more rapid healing with omeprazole. In a more recent multicentre study including more than 600 patients, significantly more ulcers healed after 4 weeks with omeprazole, both 20 mg and 40 mg once daily, than with ranitidine, 150 mg b.d. Omeprazole was also superior to ranitidine with respect to relief of night-time pain and in gastric ulcer healing during concomitant therapy with non-steroidal anti-inflammatory drugs. After omeprazole therapy, the proportion of patients in remission during the following half-year perio",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1989",
+        "authors": [
+          "Schepp W",
+          "Classen M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Humans",
+          "Omeprazole",
+          "Ranitidine",
+          "Stomach Ulcer",
+          "Wound Healing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2690333/"
+      },
+      {
+        "pmid": "35430431",
+        "title": "Potential stem cell-Conditioned medium and their derived exosomes versus omeprazole in treatment of experimental model of gastric ulcer.",
+        "abstract": "Gastric ulcer is a common frequent clinical problem affecting all age and gender. This work aims to compare between the therapeutic effects of stem cell derived exosomes, stem cells conditioned medium and omeprazole on the healing of gastric ulcer model. Fifty rats were, assigned into 5 groups; control, gastric ulcer, omeprazole-treated, conditioned medium- treated, and exosomes-treated groups. Gastric ulcer was induced by aspirin dissolved in 1% carboxymethyl cellulose at a daily dose of 200 mg/kg for 5 consecutive days. Stomach specimens were obtained for histological, biochemical, and immunohistochemical assessments. The gastric ulcer group revealed widening of the fundic glands lumen containing, exfoliated dead cells. There was a remarkable distortion of the normal histological structure of the gastric mucosa with surface lining epithelial cell sloughing, vascular congestion and inflammatory cell infiltration. Both exosomes and conditioned medium treatments ameliorated almost all o",
+        "journal": "Acta histochemica",
+        "year": "2022",
+        "authors": [
+          "Ibrahim Manar Fouli Gaber",
+          "Allam Fatma Alzhraa Fouad Abdelbaki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Culture Media, Conditioned",
+          "Exosomes",
+          "Gastric Mucosa",
+          "Models, Theoretical",
+          "Omeprazole",
+          "Rats",
+          "Stem Cells",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35430431/"
+      },
+      {
+        "pmid": "36525356",
+        "title": "Effects of lansoprazole and omeprazole Combined With Antimicrobial Agents on Gastric Juice pH and Inflammatory Factors in Elderly Patients With Hp Positive Gastric Ulcer.",
+        "abstract": "Helicobacter pylori (Hp) is one of the most prevalent pathogenic microorganisms in the world, which is related to gastric ulcer.",
+        "journal": "Alternative therapies in health and medicine",
+        "year": "2023",
+        "authors": [
+          "Gao Nan",
+          "Yan Su",
+          "Chen Bingxin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Omeprazole",
+          "Lansoprazole",
+          "Stomach Ulcer",
+          "Interleukin-8",
+          "Anti-Ulcer Agents",
+          "Tumor Necrosis Factor-alpha",
+          "Ulcer",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36525356/"
+      },
+      {
+        "pmid": "39549016",
+        "title": "Gastroprotective Effect of Quercetin and Misoprostol in Ethanol-Induced Gastric Ulcer in Rats.",
+        "abstract": "This study aimed to evaluate the possible synergistic gastroprotective activity of quercetin and misoprostol in gastric ulcers induced by ethanol in rats.",
+        "journal": "The Turkish journal of gastroenterology : the official journal of Turkish Society of Gastroenterology",
+        "year": "2024",
+        "authors": [
+          "Ahmed Zheen Aorahman"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Stomach Ulcer",
+          "Misoprostol",
+          "Quercetin",
+          "Male",
+          "Rats, Wistar",
+          "Ethanol",
+          "Rats",
+          "Anti-Ulcer Agents",
+          "Interleukin-6"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39549016/"
+      },
+      {
+        "pmid": "39967295",
+        "title": "Assessing omeprazole and flunixin meglumine co-administration in treating equine gastric ulcer syndrome in Mongolian horses.",
+        "abstract": "Flunixin meglumine (FM) is commonly used in painful conditions in horses; however, it may contribute to equine gastric ulcer syndrome (EGUS). Some veterinarians combine omeprazole (OME) and FM to reduce EGUS risk. However, the efficacy and safety of this combination in Mongolian horses with chronic lameness remain unknown.",
+        "journal": "Equine veterinary journal",
+        "year": "2025",
+        "authors": [
+          "Guo Wenrui",
+          "Li Zhengyi",
+          "Mao Wei",
+          "Liu Xinyu",
+          "Yang Ying"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial, Veterinary"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Female",
+          "Male",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Clonixin",
+          "Drug Therapy, Combination",
+          "Horse Diseases",
+          "Horses",
+          "Lameness, Animal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39967295/"
+      },
+      {
+        "pmid": "9690725",
+        "title": "Omeprazole and sucralfate in the treatment of NSAID-induced gastric and duodenal ulcer.",
+        "abstract": "To establish the healing efficacy of two drugs, omeprazole and sucralfate, when given to patients who had developed gastric or duodenal ulcer while undergoing chronic treatment with non-steroidal anti-inflammatory drugs (NSAIDs).",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "1998",
+        "authors": [
+          "Bianchi Porro G",
+          "Lazzaroni M",
+          "Manzionna G",
+          "Petrillo M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Anti-Ulcer Agents",
+          "Duodenal Ulcer",
+          "Endoscopy, Digestive System",
+          "Female",
+          "Helicobacter Infections",
+          "Helicobacter pylori"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9690725/"
+      },
+      {
+        "pmid": "28325176",
+        "title": "Therapeutics for Equine Gastric Ulcer Syndrome.",
+        "abstract": "Equine gastric ulcer syndrome (EGUS) is an umbrella term used to describe ulcers in the nonglandular squamous and glandular mucosa, terminal esophagus, and proximal duodenum. Gastric ulcers in the squamous and glandular regions occur more often than esophageal or duodenal ulcers and likely have a different pathogenesis. At present, omeprazole is accepted globally as the best pharmacologic therapy for both regions of the stomach; however, the addition of coating agents and synthetic prostaglandins could add to its effectiveness in treatment of EGUS. Dietary and environmental management are necessary for prevention of recurrence.",
+        "journal": "The Veterinary clinics of North America. Equine practice",
+        "year": "2017",
+        "authors": [
+          "Zavoshti Fereydon Rezazadeh",
+          "Andrews Frank M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Horse Diseases",
+          "Horses",
+          "Omeprazole",
+          "Proton Pump Inhibitors",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28325176/"
+      },
+      {
+        "pmid": "28555939",
+        "title": "Comparison of aloe vera and omeprazole in the treatment of equine gastric ulcer syndrome.",
+        "abstract": "Anecdotally, aloe vera is used to treat gastric ulceration, although no studies have yet investigated its efficacy in horses.",
+        "journal": "Equine veterinary journal",
+        "year": "2018",
+        "authors": [
+          "Bush J",
+          "van den Boom R",
+          "Franklin S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aloe",
+          "Animals",
+          "Female",
+          "Gels",
+          "Horse Diseases",
+          "Horses",
+          "Male",
+          "Omeprazole",
+          "Phytotherapy",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28555939/"
+      },
+      {
+        "pmid": "8578218",
+        "title": "Cellular and molecular mechanisms of gastric ulcer healing. Is the quality of mucosal scar affected by treatment?",
+        "abstract": "Ulcer healing, i.e. the reconstruction of the mucosal architecture, is an active process of filling the mucosal defect with proliferating and migrating epithelial cells and connective tissue.",
+        "journal": "Scandinavian journal of gastroenterology. Supplement",
+        "year": "1995",
+        "authors": [
+          "Tarnawski A",
+          "Tanoue K",
+          "Santos A M",
+          "Sarfeh I J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Epidermal Growth Factor",
+          "ErbB Receptors",
+          "Fibroblast Growth Factors",
+          "Gastric Mucosa",
+          "Granulation Tissue",
+          "Neovascularization, Physiologic",
+          "Omeprazole",
+          "Stomach Ulcer"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8578218/"
+      },
+      {
+        "pmid": "33907169",
+        "title": "Effectiveness and safety of Chinese medicine combined with omeprazole in the treatment of gastric ulcer: A protocol for systematic review and meta-analysis.",
+        "abstract": "Gastric ulcer (GU) is a common digestive system disease, and the main clinical manifestations are nausea and epigastric pain. In recent years, due to increased life pressure, unhealthy eating habits and environment, the incidence of gastric ulcer has increased year by year. Because the disease has a long treatment cycle and is prone to relapse, if it cannot be controlled in time, it can cause the disease to prolong, affect the daily life and health of the patient, and even cause complications such as upper gastrointestinal bleeding, ulcer perforation, and pyloric obstruction. Helicobacter pylori infection is one of the main causes of GU. Clinically, the curative effect of western medicine or traditional Chinese medicine cannot reach the ideal level, so in recent years, the combination of traditional Chinese and western medicine has been highly praised. The aim of this systematic review is to evaluate the effectiveness and safety of Chinese medicine combined with omeprazole for GU.",
+        "journal": "Medicine",
+        "year": "2021",
+        "authors": [
+          "Xie Cheng",
+          "Liu Langhui",
+          "Zhu Suyou",
+          "Wei Mingquan"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Combined Modality Therapy",
+          "Humans",
+          "Medicine, Chinese Traditional",
+          "Meta-Analysis as Topic",
+          "Omeprazole",
+          "Proton Pump Inhibitors",
+          "Research Design",
+          "Stomach Ulcer",
+          "Systematic Reviews as Topic",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33907169/"
+      },
+      {
+        "pmid": "29665126",
+        "title": "Prophylactic therapy with omeprazole for prevention of equine gastric ulcer syndrome (EGUS) in horses in active training: A meta-analysis.",
+        "abstract": "Guidelines regarding the impact and value of prophylaxis or maintenance therapy in equine gastric ulcer syndrome (EGUS) are not well-established or defined. The merits and the magnitude of effects of prophylaxis for spontaneous or recurrent squamous gastric ulceration in horses in training are uncertain.",
+        "journal": "Equine veterinary journal",
+        "year": "2019",
+        "authors": [
+          "Mason L V",
+          "Moroney J R",
+          "Mason R J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Bias",
+          "Confidence Intervals",
+          "Female",
+          "Horse Diseases",
+          "Horses",
+          "Male",
+          "Odds Ratio",
+          "Omeprazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29665126/"
+      },
+      {
+        "pmid": "3278955",
+        "title": "Effect of omeprazole and cimetidine on prepyloric gastric ulcer: double blind comparative trial.",
+        "abstract": "We conducted a six week double blind randomised study of 176 patients with prepyloric gastric ulcer to determine whether the proton pump inhibitor, omeprazole 30 mg daily would accelerate healing and pain relief, as compared with cimetidine 1 g daily. At two, four, and six weeks after entry ulcers healed in a larger percentage of patients treated with omeprazole (54, 81, and 86%) than of those treated with cimetidine (39, 73, and 78%) ('intention to treat' cohort; p less than 0.05 at two weeks). A higher proportion of patients on omeprazole became free of pain during the first week of treatment (p less than 0.05). No major clinical or biochemical side effects were noted. Omeprazole is an efficient treatment for patients with prepyloric gastric ulcers.",
+        "journal": "Gut",
+        "year": "1988",
+        "authors": [
+          "Lauritsen K",
+          "Rune S J",
+          "Wulff H R",
+          "Olsen J H",
+          "Laursen L S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Cimetidine",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3278955/"
+      },
+      {
+        "pmid": "28432741",
+        "title": "Pharmacokinetic and pharmacodynamic effects of two omeprazole formulations on stomach pH and gastric ulcer scores.",
+        "abstract": "Limited data are available on the relative pharmacokinetics and pharmacodynamics of different omeprazole formulations.",
+        "journal": "Equine veterinary journal",
+        "year": "2017",
+        "authors": [
+          "Raidal S L",
+          "Andrews F M",
+          "Nielsen S G",
+          "Trope G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Ulcer Agents",
+          "Dosage Forms",
+          "Gastric Acidity Determination",
+          "Horse Diseases",
+          "Horses",
+          "Hydrogen-Ion Concentration",
+          "Omeprazole",
+          "Stomach Ulcer",
+          "Therapeutic Equivalency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28432741/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:41:32.711860",
+  "success": true,
+  "error_message": null
+}

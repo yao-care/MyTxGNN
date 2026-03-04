@@ -1,0 +1,86 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes simplex encephalitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02328469",
+      "title": "Prospective Study of the Etiology, Pathogenesis, Clinical Picture and Outcome of Aseptic Meningitis in Slovenia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2014-06",
+      "completion_date": "2020-06",
+      "country": "Slovenia",
+      "enrollment": 800,
+      "brief_summary": "The main objective of this study is:\n\n* to establish etiology of acute aseptic meningitis/meningoencephalitis in Slovenia\n* to assess the clinical course and outcome of tick-borne encephalitis and Lyme neuroborreliosis\n* to characterize the inflammatory proteins, gene polymorphisms, and transcriptome profiles in patients with tick-borne encephalitis and Lyme neuroborreliosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* clinical picture compatible with aseptic meningitis/meningoencephalitis\n* age 18 years or older\n* clear cerebrospinal fluid on macroscopic examination\n* cerebrospinal pleocytosis (\\> 5 x 106 white blood cells per liter)\n\nExclusion Criteria:\n\n* younger than 18 years\n* pregnant ",
+      "endpoints": [
+        "Changes in selected clinical parameters in patients with acute aseptic meningitis/meningoencephalitis",
+        "Changes in selected laboratory parameters in patients with acute aseptic meningitis/meningoencephalitis",
+        "Changes in selected microbiologic parameters in patients with acute aseptic meningitis/meningoencephalitis"
+      ],
+      "sponsor": "University Medical Centre Ljubljana",
+      "url": "https://clinicaltrials.gov/study/NCT02328469"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03084783",
+      "title": "Dexamethasone in Herpes Simplex Virus Encephalitis Open Label Randomized Controlled Trial With an Observer-blinded Evaluation at 6 Months",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2018-11-01",
+      "completion_date": "2020-12-01",
+      "country": "France",
+      "enrollment": 30,
+      "brief_summary": "Encephalitics is a serious condition in which the brain becomes inflamed (swollen). It usually happens as a direct result of virus, such as herpes simplex virus (HSV).\n\nHSV encephalitis is often treated with the drug acyclovir (an antiviral drug which slows the growth and spread of HSV in the body). Despite this however, around 2 out of every 3 people will have memory difficulties long term. Dexamethasone is a corticosteroid medication, which works by preventing the release of natural chemicals ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Suspected encephalitis criteria: Acute or subacute (up to 4 weeks) alteration in consciousness, cognition, personality or behaviour\\* persisting for \\> 24 hours Laboratory confirmed HSV by positive PCR on CSF sample.\n\n* Receiving intravenous aciclovir dosed at 10mg/kg TDS or ",
+      "endpoints": [
+        "Calcul of verbal memory score"
+      ],
+      "sponsor": "University Hospital, Grenoble",
+      "url": "https://clinicaltrials.gov/study/NCT03084783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00031486",
+      "title": "A Phase III Double-Blind, Placebo-Controlled Trial of Long Term Therapy of Herpes Simplex Encephalitis (HSE): An Evaluation of Valacyclovir (CASG-204)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-09",
+      "completion_date": "2011-02",
+      "country": "Sweden, United Kingdom, Canada, United States",
+      "enrollment": 91,
+      "brief_summary": "This study involves patients 12 years and older who have been diagnosed with herpes simplex encephalitis (HSE) by a specific laboratory test and have completed treatment or are being treated with intravenous (given through a needle inserted into a vein) acyclovir. The purpose of the study is to determine if treatment with 4 tablets, 500 milligrams each, of valacyclovir given 3 times daily by mouth for 90 days is both effective and safe after completing intravenous acyclovir treatment and if it c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent and/or assent must be obtained from the patient or legal guardian.\n* Patients with encephalopathy consistent with herpes simplex encephalitis (HSE) whose cerebral spinal fluid (or brain biopsy sample) is positive for herpes simplex virus (HSV) deoxyribonucleic",
+      "endpoints": [
+        "Survival With no or Mild Neuropsychological Impairment at 12 Months After Initiation of Study Medication as Measured by the Mattis Dementia Rating Scale (MDRS)"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00031486"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05127395",
+      "title": "Impact of Dosing Weight on Clinical Outcomes in Obese Patients Receiving Acyclovir for HSV Encephalitis (ID-OPRAH)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2021-03-09",
+      "completion_date": "2023-04-12",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "Multicenter retrospective chart review of patients admitted to any of the six study centers (SSM Health - St. Clare, St. Mary's, Saint Louis University Hospital, St. Anthony's, St. Mary's Madison, Rush University Medical Center, or Methodist Dallas Medical Center) between January 1, 2013 and December 31, 2019 will be conducted. All study centers utilize Epic ® electronic health record (Verona, Wisconsin; www.epic.com) for which all data will be extracted from. Each study center will obtain indiv",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients Admitted to a SSM Health - St. Clare (STL), St. Mary's (STL), Saint Louis University Hospital (STL), St. Anthony's (OKC), St. Mary's Madison (WIS), Rush University Medical Center (RUMC), or Methodist Dallas Medical Center\n* \\> 18 years old\n* Positive cerebrospinal flu",
+      "endpoints": [
+        "In-hospital mortality"
+      ],
+      "sponsor": "Methodist Health System",
+      "url": "https://clinicaltrials.gov/study/NCT05127395"
+    }
+  ],
+  "timestamp": "2026-03-04T14:51:51.538632",
+  "success": true,
+  "error_message": null
+}

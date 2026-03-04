@@ -1,0 +1,328 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Celecoxib",
+    "disease": "ankylosing spondylitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05164198",
+      "title": "Multicenter, Prospective Clinical Trial for Optimizing TNF Inhibitor Dose Adjustment in Ankylosing Spondylitis Patients With Stable Disease Activity",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2022-01-15",
+      "completion_date": "2024-10-31",
+      "country": "N/A",
+      "enrollment": 448,
+      "brief_summary": "Participants maintaining stable disease activity of Ankylosing Spondylitis (AS) with standard-dose tumor necrosis factor inhibitor (TNFi) treatment will randomly split into two groups: maintaining standard-dose TNFi, versus reduced-dose TNFi. The proportion of participants not underwent flare between the two groups will be analyzed.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented diagnosis of Ankylosing spondylitis (AS) and meet the modified New York classification criteria for AS.\n* Subjects maintaining stable disease (Bath Ankylosing Spondylitis Disease Activity Index \\[BASDAI\\] \\< 4) with standard-dose subcutaneous tumor-necrosis factor i",
+      "endpoints": [
+        "Percentage of Participants who did not experience a flare"
+      ],
+      "sponsor": "Hanyang University Seoul Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05164198"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02758782",
+      "title": "COmparison of the Effect of Treatment With NSAIDs Added to Anti-TNF Therapy Versus Anti-TNF Therapy Alone on Progression of StrUctural Damage in the Spine Over Two Years in Patients With ankyLosing Spondylitis: a Randomized Controlled Multicentre Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-09",
+      "completion_date": "2021-01",
+      "country": "Germany",
+      "enrollment": 156,
+      "brief_summary": "To evaluate the impact of treatment with a non-steroidal anti-inflammatory drug (NSAID) - Celecoxib - when added to anti-tumour necrosis factor (TNF) therapy - Golimumab - as compared to anti-TNF therapy (Golimumab) alone on progression of structural damage in the spine over two years in patients with ankylosing spondylitis (AS).",
+      "eligibility_criteria": "Major Inclusion Criteria:\n\n* Definite diagnosis of AS according to the \"modified New York criteria\".\n* History of an inadequate response to ≥2 NSAIDs taken for at least 2 weeks each.\n* Active disease as defined by a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) value of ≥4 at screening",
+      "endpoints": [
+        "Absolute progression of the modified Stoke Ankylosing Spondylitis Spine Score (mSASSS) over two years of therapy (weeks 12-108) in the Phase II (core phase) of the trial"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT02758782"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02456363",
+      "title": "Anti-Tumor Necrosis Factor Therapy In Patients With Ankylosing Spondylitis-A Registry Project",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2009-11",
+      "completion_date": "2019-12",
+      "country": "Taiwan",
+      "enrollment": 300,
+      "brief_summary": "Assessed using (1) Adalimumab(Humira) and NSAIDs (2) Use only Adalimumab(Humira) treatment of ankylosing spondylitis patient safety and efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years old\n* HLA B27 positive\n* X ray examination\n* Clinical symptoms and physical examination, the following three conditions are subject to at least two:\n\n  i.lower back pain and morning stiffness symptoms persist more than 3 months ii. lumbar activity is restricted i",
+      "endpoints": [
+        "mSASSS (Modified Stoke Ankylosing Spondylitis Spinal Score)"
+      ],
+      "sponsor": "Chung Shan Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT02456363"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03473665",
+      "title": "Non-Steroidal Anti-inflammatory Drugs in Axial Spondyloarthritis: a Pilot Study",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2018-03-01",
+      "completion_date": "2019-08-02",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This is a 6-week randomized, double-blind trial of 4 different non-steroidal anti-inflammatory drugs in patients with axial spondyloarthritis to compare the change of pain score from baseline at 4 weeks to the change of pain score from baseline at 6 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A clinical diagnosis of ankylosing spondylitis (AS) by treating rheumatologists, or a diagnosis of axial spondyloarthritis (axSpA) with a pelvis MRI with significant bone marrow edema on STIR sequences;\n* Minimum of 18 years old;\n* Are taking NSAIDs on a regular basis for AS o",
+      "endpoints": [
+        "Change of Pain Score"
+      ],
+      "sponsor": "Columbia University",
+      "url": "https://clinicaltrials.gov/study/NCT03473665"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02355236",
+      "title": "A Prospective, Randomized, Double-blinded, Double-dummy, Active-controlled, Multi-center, Interventional Study to Compare Gastro-protective Effect and Pain Relief Effect of Naxozol Compared to Celecoxib in Patients With Osteoarthritis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-02",
+      "completion_date": "2015-12",
+      "country": "South Korea",
+      "enrollment": 106,
+      "brief_summary": "Naxozol is a combination product of naproxen, a non-steroidal anti-inflammatory drug (NSAID) and esomeprazole, a proton pump inhibitor which is designed to improve symptoms and reduce risk of gastric ulcers in patients at risk of developing NSAID-associated gastric ulcers in the treatment of osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis. The purpose of this study is to investigate whether naxozol protects the gastrointestinal tract effectively compared to celecoxib, a COX-2 in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Koreans given informed consent\n* Patients who have ability of reading comprehension and completing questionnaires (EQ-5D and VAS)and have willingness to follow-up 12 weeks\n* Patients with osteoarthritis symptoms confirmed by his/her medical history and with pain-VAS of 40 and ",
+      "endpoints": [
+        "Leads Dyspepsia Questionnaire (LDQ) Change"
+      ],
+      "sponsor": "Severance Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02355236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00813241",
+      "title": "A Pilot, Open-Label, Randomized, Crossover, Pharmacokinetic Study Of Enhanced Bioavailability Formulations Of Celecoxib In Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2009-03",
+      "country": "Singapore",
+      "enrollment": 16,
+      "brief_summary": "A pharmacokinetic study in healthy volunteers to determine the relative bioavailability of three formulations of celecoxib to the approved formulation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male and/or female subjects between the ages of 21 and 55 years, inclusive (Healthy is defined as no clinically relevant abnormalities identified by a detailed medical history, full physical examination, including blood pressure (BP) and pulse rate measurement, 12-lead",
+      "endpoints": [
+        "PK endpoints will include Cmax, C12h, Tmax, AUCtlqc, AUCinf, and half-life (t1/2) for each formulation as data permit",
+        "Visual inspection of median plasma concentration versus time profiles resulting from each formulation"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00813241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00648141",
+      "title": "A 12-Week Symptomatic Effect Evaluation to Compare Celecoxib 200 mg QD, Celecoxib 200 mg BID and Diclofenac 75 mg SR BID in Patients With Ankylosing Spondylitis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-01",
+      "completion_date": "2005-01",
+      "country": "Germany",
+      "enrollment": 458,
+      "brief_summary": "To compare the safety and efficacy of once-daily and twice-daily celecoxib versus diclofenac for the treatment of ankylosing spondylitis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of ankylosing spondylitis defined according to modified New York criteria, and with axial involvement\n* Requiring daily treatment with nonsteroidal anti-inflammatory drugs during the previous 30 days\n\nExclusion Criteria:\n\n* Patients with inflammatory enterophathy, an",
+      "endpoints": [
+        "Change from baseline in global pain intensity as assessed by visual analog scale (VAS)",
+        "Responder rates, defined as 50% improvement in VAS from baseline"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00648141"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01934933",
+      "title": "A Multi-center, Open Label, Random Clinical Trial of Etanercept and Celecoxib Alone/Combined Treatment in Effectiveness and Safety of Active Ankylosing Spondylitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-09-24",
+      "completion_date": "2017-01-30",
+      "country": "China",
+      "enrollment": 150,
+      "brief_summary": "This is a multi-center, open label, randomized clinical trial of etanercept and celecoxib alone/combined treatment in effectiveness and safety on active ankylosing spondylitis (AS). Subjects will be randomly assigned in a 1:1:1 ratio to one of the three groups (celexocib 200mg bid, etanercept 50mg qw, etanercept plus Celecoxib group) for 54 weeks. Primary endpoints are the magnetic resonance imaging (MRI) Spondyloarthritis Research Consortium of Canada (SPARCC) score of sacroiliac(SI) joint and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 to 65 years\n* Meet 1984 NewYork modified criteria for AS\n* BASDAI≥4 or ASDAS score ≥ 2.1\n* CRP\\>6 mg/L or ESR\\>28 mm/h\n* Syndesmophyte quantity ≥2 and \\<16 of spine\n* Sexually active women of childbearing potential must agree and commit to use a medically accepted form of c",
+      "endpoints": [
+        "the SPARCC score of spine and SI joint",
+        "ASAS20 response rate"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT01934933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05960864",
+      "title": "Chinese Spondyloarthritis Inception Cohort",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-09",
+      "completion_date": "2030-08",
+      "country": "N/A",
+      "enrollment": 1000,
+      "brief_summary": "The Chinese Spondyloarthritis Inception cohort (CESPIC) was started 2000 as a prospective, longitudinal, multicentre, nationwide study in China on patients with early SpA including ankylosing spondylitis (AS, also known as radiographic axial spondyloarthritis) and non-radiographic axial SpA. The objectives of CESPIC are to learn about the course of SpA during the very early stage of the disease, to appropriately assess the outcome including radiographic progression of patients after several year",
+      "eligibility_criteria": "Inclusion Criteria:\n\nCrohn's disease. Acute anterior uveitis. Psoriatic arthritis with axial involvement. Reactive arthritis.\n\nExclusion Criteria:\n\nInfections, Malignancies, Major cardiovascular events, Lower intestinal perforations Other adverse events",
+      "endpoints": [
+        "BASDAI",
+        "ASDAS",
+        "CRP"
+      ],
+      "sponsor": "Southwest Hospital, China",
+      "url": "https://clinicaltrials.gov/study/NCT05960864"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00762463",
+      "title": "A 6-Week, Randomized, Double-Blind, Parallel-Group Study To Evaluate The Symptomatic Effects And Safety Of Celecoxib 200mg QD Compared To Diclofenac 75mg SR QD In Chinese Patients With Ankylosing Spondylitis, With 6-Week Extension Phase Treatment On Celecoxib 400 Mg QD Or Maintaining Double-Blind Phase Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2010-08",
+      "country": "China",
+      "enrollment": 240,
+      "brief_summary": "This is a local, multicenter, randomized, active comparator, double-blind, parallel group study with extension will be conducted to evaluate the efficacy and safety of celecoxib versus diclofenac SR in the treatment of Chinese patients with Ankylosing Spondylitis (AS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the 1984 Modified New York Criteria for Classification of Ankylosing Spondylitis\n* With axial involvement\n* Without peripheral joint involvement (synovitis) at the time of study entry, (excluding involvement of the hips, knees and shoulders)\n* Need for daily treatment wit",
+      "endpoints": [
+        "Change From Baseline in Participant's Assessment of Global Pain Intensity at Week 6",
+        "Participant's Assessment of Global Pain Intensity at Baseline"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00762463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04115098",
+      "title": "Individualizing Anti-Inflammatory Medications for Adults With Axial Spondyloarthritis: A Series of N-of 1 Trials",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2020-06-25",
+      "completion_date": "2023-08-11",
+      "country": "United States",
+      "enrollment": 42,
+      "brief_summary": "The purpose of this study is to compare selective cyclooxygenase-2 (COX-2) and non selective COX inhibitors with respect to the extent to which disease activity is improved without self reported, unacceptable side effects among individual patients with axial spondyloarthritis (AxSpA),to compare selective COX-2 and nonselective COX inhibitors impact on Health related Quality of Life (HrQOL) and how this relates to changes in disease activity and to conduct proteomic assessment of predictive bioma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet modified New York Classification and/or Assessment of Spondyloarthritis International Society (ASAS) criteria for Classification Criteria for AxSpA\n* Ankylosing Spondylitis Disease Activity Score greater than or equal to 2.1.\n\nExclusion Criteria:\n\n* Changing",
+      "endpoints": [
+        "Change in Disease Activity as Measured by the Ankylosing Spondylitis Disease Activity Score (ASDAS)"
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "url": "https://clinicaltrials.gov/study/NCT04115098"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03190603",
+      "title": "Effects of Nonsteroidal Anti-inflammatory Drug (NSAID) on Inflammatory Lesion of Axial Spondyloarthritis Results From MRI Finding",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-06-01",
+      "completion_date": "2018-06-05",
+      "country": "South Korea",
+      "enrollment": 12,
+      "brief_summary": "Axial Spondyloarthritis (SpA) is a kind of inflammatory arthritis which includes ankylosing spondylitis. Common symptoms of axial SpA are inflammatory back pain, morning stiffness, peripheral arthritis, enthesitis. Controlling aforementioned symptoms are one of the goal in treatment, and another goal is preventing bony ankylosis of axial skeleton such as spine. Ankylosis can limit range of motion and lower the quality of life.\n\nNon-steroidal antiinflammatory drug (NSAID) and Tumor necrosis facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 2009 Assessment of SpondyloArthritis international Society (ASAS) classification criteria for axial spondyloarthritis\n2. Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) \\> 4\n3. definite bone marrow edema on Sacroiliac joint MRI\n\nExclusion Criteria:\n\n1. Patients wh",
+      "endpoints": [
+        "Spondyloarthritis Research Consortium of Canada (SPARCC) MRI score of sacroiliac joint"
+      ],
+      "sponsor": "Armed Forces Capital Hospital, Republic of Korea",
+      "url": "https://clinicaltrials.gov/study/NCT03190603"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01572675",
+      "title": "Pharmacoepidemiological Study on the Use of Arcoxia® Under Actual Conditions of Use in France",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2015-03",
+      "country": "N/A",
+      "enrollment": 547,
+      "brief_summary": "This postmarketing study will examine the use of etoricoxib (Arcoxia®) in routine clinical practice in France as well as the use of celecoxib (Celebrex®).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Treatment-naive, discontinued the previous treatment course of etoricoxib or celecoxib at least 3 months previously or currently receiving continuous treatment with oral etoricoxib or celecoxib\n* Consent to take part in the study\n* Included in his/her physician's client base f",
+      "endpoints": [
+        "Number of Participants Demonstrating Proper Use of Arcoxia® and Celebrex®",
+        "Reasons for Misuse of Arcoxia® and Celebrex®",
+        "Indications for Which Arcoxia® and Celebrex® Were Prescribed"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01572675"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02528201",
+      "title": "A Twelve Week, Randomized, Double Blind Parallel Group Study Of Two Doses Of Celecoxib Compared To Diclofenac In Patients With Ankylosing Spondylitis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-09",
+      "completion_date": "2004-11",
+      "country": "Norway",
+      "enrollment": 330,
+      "brief_summary": "A clinical trial to assess the effect of celecoxib 200 milligrams (mg) once daily and 400 milligrams (mg) once daily compared to diclofenac three times daily in the treatment of Ankylosing Spondylitis (AS) for 12 weeks. This will be used to confirm the results of a prior 6 week trial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, 18 to 75 years of age, inclusive.\n* Clinical diagnosis of ankylosing spondylitis:\n* Willing to stop existing NSAID/COX-2 inhibitor treatment for up to two weeks.\n* Having given written informed consent to participate in the trial.\n* Pain intensity ≥ 40 mm on th",
+      "endpoints": [
+        "Change in baseline of Patient Global Assessment of Pain Intensity (VAS) at week 12"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02528201"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07093827",
+      "title": "A Prospective Cohort Study on the Effect of Spinal Spinal Cord Injury on Sexual Function in Male Patients",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-01-01",
+      "completion_date": "2030-12-31",
+      "country": "China",
+      "enrollment": 1600,
+      "brief_summary": "1. Background and Rationale\n\n   Spinal cord injury (SCI) represents a devastating neurological condition with multidimensional consequences. While motor and sensory deficits are well-characterized, sexual dysfunction remains understudied despite its profound impact on quality of life. Current literature exhibits three critical gaps: (1) Limited longitudinal data on the temporal evolution of sexual dysfunction post-SCI, (2) Inadequate differentiation between psychogenic vs. neurogenic mechanisms ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Biological males aged 18-60 years\n2. Married or sexually active prior to injury\n3. Diagnosed with pre-specified diseases\n4. American Spinal Injury Association (ASIA) Impairment Scale grade B-D at admission\n\nExclusion Criteria:\n\n1. Post-traumatic respiratory failure requiring ",
+      "endpoints": [
+        "the Premature Ejaculation Diagnostic Tool (PEDT)",
+        "International Index of Erectile Function-5 (IIEF-5)",
+        "American Spinal Injury Association (ASIA) Impairment Scale"
+      ],
+      "sponsor": "Peking University Third Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07093827"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01709656",
+      "title": "A Molecule Basic Study of Early Warning for New Pathogenic Risk of Ankylosing Spondylitis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2014-12",
+      "country": "China",
+      "enrollment": 120,
+      "brief_summary": "The investigators will recruit active ankylosing spondylitis patients for injection treatment of Human Mesenchymal Stem Cells (a prospective, open-label, masculine medicine controlled(NSAIDs), clinical trial), and collect their Peripheral Blood Lymphocyte (PBMCs) and sera before and after the treatment of 24 weeks to test the gene expression profiles and study related pathogenesis of AS",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged from 16-65 years, sign the Informed Consent\n2. Fulfill 1984 modified NewYork classification criteria for AS\n3. Have an active refractory disease defined by a score ≥40 on the Bath AS Disease Activity Index (BASDAI) (0-100) despite optimal non-steroidal anti-inflammatory ",
+      "endpoints": [
+        "the proportion of patients which disease activity reaches ASAS(assessment in ankylosing Spondylitis)20 remission criteria"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT01709656"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02638896",
+      "title": "Efficacy and Safety of Etanercept Dose Reduction in Patients With Ankylosing Spondylitis",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-01",
+      "completion_date": "2017-04",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "The primary objective of this study is to evaluate the efficacy of safety of etanercept dose reduction combined with sulfasalazine in ankylosing spondylitis (AS) patients who have achieved a significant clinical response.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients 18 to 45 years of age.\n2. Proven AS according to the modified New York criteria\n3. Negative result of a pregnancy test in serum in screening visit and in urine in baseline visit, done in all women, except those surgically sterilized and those who have at least one ye",
+      "endpoints": [
+        "Change in ASDAS from baseline to week48."
+      ],
+      "sponsor": "Health and Family Planning Commission of Guangdong",
+      "url": "https://clinicaltrials.gov/study/NCT02638896"
+    }
+  ],
+  "timestamp": "2026-03-04T15:13:36.785308",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "esophagitis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03883074",
+      "title": "Effect of a Combination Oral Formulation of Hyaluronic Acid With Chondroitin Sulphate and With Magnesium Trisilicate on Mucosal Integrity and Reflux Exposure in Subjects With Gastro-Esophageal Reflux Disease Not Currently Treated With a Proton Pump Inhibitor: a Double-Blind, Placebo-Controlled, Randomized, Crossover Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-12-20",
+      "completion_date": "2021-09-16",
+      "country": "Belgium",
+      "enrollment": 21,
+      "brief_summary": "The aim of this study is to investigate whether a 3-week treatment with an oral melt in mouth medical device, made up with hyaluronic acid, chondroitin sulphate and magnesium trisilicate, can lead to a reduction of Gastroesophageal Reflux Disease symptoms and to an improvement of the integrity of esophageal mucosa in patients who are to experiencing esophagus symptoms. The study is a randomized, double-blind cross-over placebo controlled study. Every patient will get both the active study device",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females, age 18 to 75 years\n* GERD as defined by an acid exposure time \\>4% on pH/impedance monitoring and/or esophagitis LA grade A or B on endoscopy\n* Heartburn at least twice per week over the last 1 month\n* ReQuest Symptoms sum score \\>3,37 at screening\n* GERD pa",
+      "endpoints": [
+        "Esophageal Impedance"
+      ],
+      "sponsor": "SOFAR S.p.A.",
+      "url": "https://clinicaltrials.gov/study/NCT03883074"
+    }
+  ],
+  "timestamp": "2026-03-04T16:54:55.284511",
+  "success": true,
+  "error_message": null
+}

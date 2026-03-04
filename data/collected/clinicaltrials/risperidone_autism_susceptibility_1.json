@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "autism susceptibility 1"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00584701",
+      "title": "Pharmacogenomics in Autism Treatment",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-05",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "Autism is a complex neurodevelopmental disorder that is thought to involve an interaction between multiple and variable susceptibility genes, environmental factors, and epigenetic effects. Great concern has been raised about the marked increase in the prevalence of autism spectrum disorders in the last decade. Risperidone, the most studied atypical antipsychotic used in children, has been shown to improve severe behavioral difficulties in over half of children with autism who have these difficul",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willingness to participate and written informed consent obtained from parent and when indicated by subject\n2. Confirmed DSM-IV-TR diagnosis of Autistic Disorder or Asperger's Disorder using the ADOS and the ADI-R, the current gold standards for diagnosing autism spectrum diso",
+      "endpoints": [
+        "Percent Change of ABC - Irritability Subscale Score"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT00584701"
+    }
+  ],
+  "timestamp": "2026-03-04T15:31:49.408309",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,609 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Irbesartan",
+    "disease": "hypertension",
+    "query_string": "Irbesartan AND hypertension"
+  },
+  "data": {
+    "query": "Irbesartan AND hypertension",
+    "results": [
+      {
+        "pmid": "37432701",
+        "title": "Efficacy of single-pill combination in uncontrolled essential hypertension: A systematic review and network meta-analysis.",
+        "abstract": "This study aimed to evaluate the efficacy of single-pill combination (SPC) antihypertensive drugs in patients with uncontrolled essential hypertension. Through Searching Pubmed, EMBASE, the Cochrane Library, and Web of Science collected only randomized controlled trials on the efficacy of single-pill combination antihypertensive drugs in people with uncontrolled essential hypertension. The search period is from the establishment of the database to July 2022. The methodological quality of the included studies was assessed using the Cochrane Risk of Bias Assessment, and statistical analyses were performed using Review Manage 5.3 and Stata 15.1 software. This review ultimately included 32 references involving 16 273 patients with uncontrolled essential hypertension. The results of the network meta-analysis showed that a total of 11 single-pill combination antihypertensive drugs were included, namely: Amlodipine/valsartan, Telmisartan/amlodipine, Losartan/HCTZ, Candesartan/HCTZ, Amlodipine",
+        "journal": "Clinical cardiology",
+        "year": "2023",
+        "authors": [
+          "Xie Mengxin",
+          "Tang Tianjiao",
+          "Liang Hongsheng"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antihypertensive Agents",
+          "Losartan",
+          "Hypertension",
+          "Telmisartan",
+          "Irbesartan",
+          "Angiotensin Receptor Antagonists",
+          "Hydrochlorothiazide",
+          "Valine",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37432701/"
+      },
+      {
+        "pmid": "19355995",
+        "title": "Irbesartan and hydrochlorothiazide association in the treatment of hypertension.",
+        "abstract": "Blood pressure (BP) is one of the most important and common vascular risk factors but it is often poorly controlled. Inhibition of the renin-angiotensin-aldosterone system (RAAS) provides beneficial effects in hypertensives. The association of low-dosed diuretics in combination with RAAS blocking agents allows maximum benefit from potassium depletion and control of compensatory increase in renin secretion, so increasing the efficacy and safety of RAAS blockers. Irbesartan is a potent and selective angiotensin II subtype 1 receptor antagonist indicated for use in patients with hypertension, including those with type 2 diabetes mellitus and nephropathy. Once-daily irbesartan administration provides 24h control of BP. In patients with mild-to-moderate hypertension, irbesartan was as effective as enalapril, atenolol and amlodipine, and more effective than losartan and valsartan in terms of absolute reduction in BP and response rate. Irbesartan also induced regression of left ventricular hy",
+        "journal": "Current vascular pharmacology",
+        "year": "2009",
+        "authors": [
+          "Derosa Giuseppe",
+          "Ferrari Ilaria",
+          "Cicero Arrigo F G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Animals",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19355995/"
+      },
+      {
+        "pmid": "37467498",
+        "title": "Zilebesiran, an RNA Interference Therapeutic Agent for Hypertension.",
+        "abstract": "Angiotensinogen is the sole precursor of angiotensin peptides and has a key role in the pathogenesis of hypertension. Zilebesiran, an investigational RNA interference therapeutic agent with a prolonged duration of action, inhibits hepatic angiotensinogen synthesis.",
+        "journal": "The New England journal of medicine",
+        "year": "2023",
+        "authors": [
+          "Desai Akshay S",
+          "Webb David J",
+          "Taubel Jorg",
+          "Casey Sarah",
+          "Cheng Yansong"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Angiotensinogen",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Blood Pressure Monitoring, Ambulatory",
+          "Double-Blind Method",
+          "Hypertension",
+          "Irbesartan",
+          "RNA Interference",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37467498/"
+      },
+      {
+        "pmid": "15101793",
+        "title": "Irbesartan: a review of its use in hypertension and in the management of diabetic nephropathy.",
+        "abstract": "Irbesartan (Avapro, Aprovel) is a potent and selective angiotensin II subtype 1 receptor antagonist indicated for use in patients with hypertension, including those with type 2 diabetes mellitus and nephropathy. Once-daily administration of irbesartan provided 24-hour control of blood pressure (BP). In patients with mild-to-moderate hypertension irbesartan was as effective as enalapril, atenolol and amlodipine, and more effective than valsartan in terms of absolute reduction in BP and response rates. Irbesartan produced a greater reduction in diastolic BP at trough than once-daily losartan, but had a smaller effect than olmesartan; the reduction in systolic BP achieved with irbesartan was similar or greater than that with losartan and similar to that seen with olmesartan. The combination of irbesartan with hydrochlorothiazide produced additive effects on BP reduction. Irbesartan also induced regression of left ventricular mass in patients with hypertension and left ventricular hypertro",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Croom Katherine F",
+          "Curran Monique P",
+          "Goa Karen L",
+          "Perry Caroline M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15101793/"
+      },
+      {
+        "pmid": "19436667",
+        "title": "Fixed combination of irbesartan and hydrochlorothiazide in the management of hypertension.",
+        "abstract": "Approximately 25% of the adult population worldwide is hypertensive and thus at risk of cardiovascular morbidity and mortality. Despite the availability of many antihypertensive drugs, at least 50% of patients do not achieve blood pressure (BP) targets and thus remain at increased cardiovascular risk. Fixed-dose (FD) irbesartan/hydrochlorothiazide (HCTZ) is an antihypertensive combination therapy approved for the treatment of patients whose BP is not adequately controlled on monotherapy and for initial treatment of patients likely to need multiple drugs to achieve their BP goal. The efficacy and tolerability of FD irbesartan/HCTZ has been demonstrated in both patient populations in large multicenter studies. In patients failing antihypertensive monotherapy, FD irbesartan/HCTZ (150/12.5 mg) has been shown to be more effective than FD valsartan/HCTZ (80/12.5 mg) and at least comparable to FD losartan/HCTZ (50/12.5 mg). In patients with moderate or severe hypertension receiving FD irbesar",
+        "journal": "Vascular health and risk management",
+        "year": "2009",
+        "authors": [
+          "Bramlage Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Diuretics",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Irbesartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19436667/"
+      },
+      {
+        "pmid": "18627212",
+        "title": "Irbesartan: a review of its use in hypertension and diabetic nephropathy.",
+        "abstract": "Irbesartan (Aprovel, Avapro, Irbetan, Karvea), an angiotensin II receptor type 1 antagonist, is approved in many countries worldwide for the treatment of hypertension. It is also approved in some regions for the treatment of nephropathy in patients with hypertension and type 2 diabetes mellitus. In adults with essential hypertension, irbesartan is effective at reducing blood pressure (BP) over a 24-hour period with once-daily administration. Irbesartan also slows the progression of renal disease in hypertensive patients with type 2 diabetes, with this effect partly independent of its BP-lowering effect. In addition, irbesartan was generally well tolerated in clinical trials. Thus, irbesartan is a useful treatment option for patients with hypertension, including those with type 2 diabetes and nephropathy.",
+        "journal": "Drugs",
+        "year": "2008",
+        "authors": [
+          "Croom Katherine F",
+          "Plosker Greg L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Biphenyl Compounds",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18627212/"
+      },
+      {
+        "pmid": "22670584",
+        "title": "The role of irbesartan in the treatment of patients with hypertension: a comprehensive and practical review.",
+        "abstract": "Irbesartan is an orally active angiotensin II type 1 receptor antagonist (angiotensin receptor blocker [ARB]) whose pharmacological profile differs significantly from those of many other compounds of the same class. In particular, according to its pharmacokinetic and pharmacodynamic profile, irbesartan has a high bioavailability, a long duration of action and a small potential for pharmacological interactions due to the nature of the enzymatic pathway involved in its metabolic process. Morbidity data with irbesartan have been mainly accumulated in patients with renal impairment where the drug has demonstrated the most remarkable evidence of efficacy among the ARBs class, regardless of the stage of the renal disease (from early to late) and the length of the observational period. The efficacy of irbesartan has also been demonstrated in patients with left ventricular hypertrophy and congestive heart failure. The drug is indicated for the treatment of hypertension and renal impairment in ",
+        "journal": "High blood pressure & cardiovascular prevention : the official journal of the Italian Society of Hypertension",
+        "year": "2012",
+        "authors": [
+          "Borghi Claudio",
+          "Cicero Arrigo F G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Comorbidity",
+          "Cost-Benefit Analysis",
+          "Drug Costs",
+          "Humans",
+          "Hypertension",
+          "Irbesartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22670584/"
+      },
+      {
+        "pmid": "38704294",
+        "title": "The Efficacy and Tolerability of Irbesartan/Amlodipine Combination Therapy in Patients With Essential Hypertension Whose Blood Pressure Were not Controlled by Irbesartan Monotherapy.",
+        "abstract": "This study aimed to evaluate the efficacy and tolerability of irbesartan (IRB) and amlodipine (AML) combination therapy in patients with essential hypertension whose blood pressure (BP) was not controlled by IRB monotherapy.",
+        "journal": "Clinical therapeutics",
+        "year": "2024",
+        "authors": [
+          "Lee Hae-Young",
+          "Min Kyung Wan",
+          "Han Kyung Ah",
+          "Kim Jeong Su",
+          "Ahn Jeong Cheon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Amlodipine",
+          "Irbesartan",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Double-Blind Method",
+          "Essential Hypertension",
+          "Antihypertensive Agents",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38704294/"
+      },
+      {
+        "pmid": "9421695",
+        "title": "Irbesartan. A review of its pharmacodynamic and pharmacokinetic properties and therapeutic use in the management of hypertension.",
+        "abstract": "Irbesartan inhibits the activity of angiotensin II (AII) via specific, selective noncompetitive antagonism of the AII receptor subtype 1 (AT1) which mediates most of the known physiological activities of AII. In patients with mild to moderate hypertension, once daily administration of irbesartan 150 or 300 mg, with or without adjunctive antihypertensive agents, provides effective 24-hour BP control. Irbesartan reduced BP to a similar extent to enalapril and atenolol and to a significantly greater extent than losartan. The combination of irbesartan and hydrochlorothiazide resulted in additive antihypertensive effects. The drug is effective in the elderly and dosage adjustment is not required in these patients or in those with renal or hepatic failure. Preliminary studies evaluating the efficacy of irbesartan in patients with heart failure have produced encouraging results. Irbesartan is very well tolerated and neither the frequency nor the pattern of adverse events differed from those s",
+        "journal": "Drugs",
+        "year": "1997",
+        "authors": [
+          "Gillis J C",
+          "Markham A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II",
+          "Angiotensin Receptor Antagonists",
+          "Antihypertensive Agents",
+          "Biological Availability",
+          "Biphenyl Compounds",
+          "Hemodynamics",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Receptors, Angiotensin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9421695/"
+      },
+      {
+        "pmid": "17877649",
+        "title": "Irbesartan treatment of patients with type 2 diabetes, hypertension and renal disease: a UK health economics analysis.",
+        "abstract": "The objective of the study was to determine the impact of irbesartan treatment on life expectancy (LE), costs and progression to end-stage renal disease (ESRD) in hypertensive type 2 diabetes patients. A peer-reviewed and published Markov model was used to simulate progression from microalbuminuria to overt nephropathy, doubling of serum creatinine, ESRD and all-cause mortality in hypertensive patients with type 2 diabetes. Three treatment strategies were evaluated: (i) 'control' regimen of conventional antihypertensive therapy (excluding angiotensin-converting enzyme inhibitors, angiotensin-2-receptor antagonists and dihydropyridine calcium-channel blockers), (ii) 'early irbesartan' 300 mg daily and (iii) 'late irbesartan' 300 mg daily (started when overt nephropathy developed). Transition probabilities determining nephropathy progression were taken from the Irbesartan in Reduction of Microalbuminuria-2 study, Irbesartan in Diabetic Nephropathy Trial and other published sources. Outco",
+        "journal": "International journal of clinical practice",
+        "year": "2007",
+        "authors": [
+          "Palmer A J",
+          "Valentine W J",
+          "Ray J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Cohort Studies",
+          "Computer Simulation",
+          "Costs and Cost Analysis",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Nephropathies",
+          "Humans",
+          "Hypertension",
+          "Irbesartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17877649/"
+      },
+      {
+        "pmid": "25703678",
+        "title": "The cost-effectiveness of irbesartan for hypertension.",
+        "abstract": "High blood pressure is a very common problem in the adult and elderly population, both in developed and developing countries. A relatively large number of drug classes are available to treat this condition and prevent its complications, which are not only more frequent in the aforementioned patients but also those affected by metabolic syndrome and/or Type 2 diabetes. Irbesartan is an angiotensin-receptor blocker class drug with good antihypertensive efficacy and specific pharmacological characteristics, whose efficacy has been more deeply evaluated in metabolically complex hypertensive patients. In this review, the authors will analyze its effectiveness in preventing or delaying organ damage in hypertensive patients, with a closer look at the economic implications of treating hypertension with irbesartan in the context of available antihypertensive drugs.",
+        "journal": "Expert review of pharmacoeconomics & outcomes research",
+        "year": "2015",
+        "authors": [
+          "Borghi Claudio",
+          "Urso Riccardo",
+          "Cicero Arrigo F G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Cost-Benefit Analysis",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25703678/"
+      },
+      {
+        "pmid": "15485404",
+        "title": "Health economics studies assessing irbesartan use in patients with hypertension, type 2 diabetes, and microalbuminuria.",
+        "abstract": "Two studies comparing the cost-effectiveness of irbesartan to similar blood pressure control with standard antihypertensive medications (excluding angiotensin-converting enzyme inhibitors and other angiotensin receptor blockers) in treatment of patients with hypertension, type 2 diabetes, and microalbuminuria have been published to date; one in a United States setting, the other in a Spanish setting. Both studies were based on a Markov-based Monte Carlo simulation model, with the effects of irbesartan or standard blood pressure control taken from the Irbesartan Reduction of Microalbuminuria-2 (IRMA-2) and the Irbesartan in Diabetic Nephropathy Trial (IDNT) clinical trials. In both Spanish and U.S. settings, irbesartan was projected to delay the onset of end-stage renal disease (ESRD), reduce the cumulative incidence of ESRD, increase life expectancy, and reduce overall direct medical costs. Irbesartan treatment of patients with type 2 diabetes, hypertension, and microalbuminuria may le",
+        "journal": "Kidney international. Supplement",
+        "year": "2004",
+        "authors": [
+          "Palmer Andrew J",
+          "Rodby Roger A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Albuminuria",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Cost Savings",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Hypertension, Renal",
+          "Irbesartan",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15485404/"
+      },
+      {
+        "pmid": "19534037",
+        "title": "The risks and benefits of initial irbesartan/hydrochlorothiazide combination therapy in patients with severe hypertension.",
+        "abstract": "The impact of delays in blood pressure (BP) reduction is particularly relevant for patients with severe hypertension who are at risk for hypertensive emergencies. Combination therapies may hold promise as initial treatment for these patients. The safety and efficacy of initial irbesartan / hydrochlorothiazide (angiotensin receptor blocker / thiazide) treatment was compared with that of irbesartan as monotherapy in a multicenter, double-blind, parallel-group study in patients with severe hypertension. After 5 weeks, 47% of patients receiving combination therapy achieved a target diastolic BP <90 mm Hg compared with 33% with monotherapy (P=.0005). Similarly, systolic BP/ diastolic BP <140 / 90 mm Hg targets were reached by more subjects treated with combination therapy than subjects receiving monotherapy (34.6% vs 19.2%, P<.0001). Initial use of combination therapy instead of monotherapy is estimated to prevent between 250 and 4500 cardiovascular events in every 100,000 severely hyperten",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2009",
+        "authors": [
+          "Lapuerta Pablo",
+          "Franklin Stanley"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Irbesartan",
+          "Risk Assessment",
+          "Severity of Illness Index",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19534037/"
+      },
+      {
+        "pmid": "11231724",
+        "title": "Headache, hypertension, and irbesartan therapy.",
+        "abstract": "",
+        "journal": "Archives of internal medicine",
+        "year": "2001",
+        "authors": [
+          "Benseñor I M",
+          "Lotufo P A"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Headache",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11231724/"
+      },
+      {
+        "pmid": "36639984",
+        "title": "Effect of administration of low-dose irbesartan and hydrochlorothiazide combined with levamlodipine at different times on the circadian rhythm of blood pressure and the levels of MMPs and TIMPs in non-dipper patients with grade 1 and 2 hypertension.",
+        "abstract": "This study aimed to probe the effects of low-dose irbesartan and hydrochlorothiazide in combination with levamlodipine at different times on the circadian rhythm of blood pressure, matrix metalloproteinases (MMPs), and tissue inhibitors of metalloproteinases (TIMPs) levels in patients with non-dipper hypertension (NDH). In this prospective randomized controlled trial, 124 patients with NDH who visited our hospital between August 2018 and July 2021 were enrolled and divided into morning (62 patients) and night (62 patients) medication groups according to the random number table method. All patients received low-dose irbesartan and hydrochlorothiazide combined with levamlodipine, with the morning medication group taking the medication between 7:00 and 10:00 and the night medication group taking the medication between 19:00 and 22:00 for 24 weeks. The effect of antihypertensive medication in both groups was measured, and changes in ambulatory blood pressure, blood pressure circadian rhyth",
+        "journal": "Journal of clinical hypertension (Greenwich, Conn.)",
+        "year": "2023",
+        "authors": [
+          "Yan Peiling",
+          "Luo Yongjian",
+          "Zhang Jiancheng",
+          "Liu Haifeng",
+          "Chen Jiashi"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hypertension",
+          "Blood Pressure",
+          "Irbesartan",
+          "Hydrochlorothiazide",
+          "Blood Pressure Monitoring, Ambulatory",
+          "Prospective Studies",
+          "Antihypertensive Agents",
+          "Circadian Rhythm",
+          "Hypotension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36639984/"
+      },
+      {
+        "pmid": "10847258",
+        "title": "Headache in mild-to-moderate hypertension and its reduction by irbesartan therapy.",
+        "abstract": "Although it is generally acknowledged to be a problem in severe hypertension, headache has not been consistently associated with mild-to-moderate hypertension.",
+        "journal": "Archives of internal medicine",
+        "year": "2000",
+        "authors": [
+          "Hansson L",
+          "Smith D H",
+          "Reeves R",
+          "Lapuerta P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Female",
+          "Headache",
+          "Humans",
+          "Hypertension",
+          "Incidence",
+          "Irbesartan",
+          "Logistic Models"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10847258/"
+      },
+      {
+        "pmid": "32683300",
+        "title": "Irbesartan may relieve renal injury by suppressing Th22 cells chemotaxis and infiltration in Ang II-induced hypertension.",
+        "abstract": "Angiotensin II (Ang II) as an important pathogenic factor, has been implicated in the pathogenesis of hypertension and associated renal injury, and inhibition of Ang II can reduce renal inflammation and exert renal protective effects. In the present study, we determine the infiltration of Th22 cells in kidney and serum IL-22 level in hypertensive renal injury, and explore the effects and mechanisms of a widely used angiotensin II type 1 receptor blocker irbesartan on Th22 cells infiltration and related renal injury. Hypertension was induced by administering 1.5 mg/kg Ang II subcutaneously daily in C57BL/6 mice for 28 days. The mice were additionally treated by irbesartan or amlodipine. Renal Th22 lymphocytes frequency was evaluated through flow cytometry, serum IL-22 was detected by ELISA, and renal histopathological changes were also detected. The levels of renal chemokines (CCL20, CCL22, CCL27) and serum proinflammatory factors (IL-1β, IL-6, TNF-α) were measured by ELISA. Renal expre",
+        "journal": "International immunopharmacology",
+        "year": "2020",
+        "authors": [
+          "Zhong Yong",
+          "Tang Rong",
+          "Lu Yang",
+          "Wang Wei",
+          "Xiao Chenggen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Angiotensin II",
+          "Animals",
+          "Cell Differentiation",
+          "Cell Survival",
+          "Chemotaxis",
+          "Cytokines",
+          "Hypertension",
+          "Irbesartan",
+          "Kidney",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32683300/"
+      },
+      {
+        "pmid": "19886855",
+        "title": "Safety and tolerability of fixed-dose irbesartan/hydrochlorothiazide for rapid control of severe hypertension.",
+        "abstract": "This prospective, double-blind, multicenter trial compared the safety and tolerability of irbesartan/hydrochlorothiazide (HCTZ) fixed-dose combination therapy with irbesartan monotherapy in patients with severe hypertension (seated diastolic blood pressure (SeDBP) >or=110 mm Hg, mean BP 172/113 mm Hg at baseline). Patients were randomized 2:1 to 7 weeks' irbesartan/HCTZ 150/12.5 mg to 300/25 mg (n = 468) or irbesartan 150 mg to 300 mg (n = 227). The incidence of treatment-related adverse events (AEs) was similar with combination and monotherapy (11.3% and 10.1%), and most AEs were mild-to-moderate. The combined incidence of prespecified AEs was lower with irbesartan/HCTZ than with irbesartan (8.8% vs. 11.5%). There were no treatment-related serious AEs or deaths. At week 5, more patients achieved SeDBP < 90 mm Hg compared to irbesartan (47% vs. 33%; P = 0.0005). Despite more rapid and aggressive BP lowering, initial fixed-dose irbesartan/HCTZ demonstrated a comparable AE profile to irb",
+        "journal": "Clinical and experimental hypertension (New York, N.Y. : 1993)",
+        "year": "2009",
+        "authors": [
+          "Neutel Joel M",
+          "Franklin Stanley S",
+          "Bhaumik Amitabha",
+          "Lapuerta Pablo",
+          "Oparil Suzanne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Biphenyl Compounds",
+          "Blood Pressure",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19886855/"
+      },
+      {
+        "pmid": "30063644",
+        "title": "The effects of nebivolol and irbesartan on postdialysis and ambulatory blood pressure in patients with intradialytic hypertension: a randomized cross-over study.",
+        "abstract": "Intradialytic hypertension is estimated at 5-15% of hemodialysis patients and is associated with poor prognosis. Studies on therapeutic interventions for this entity are extremely few. We aimed to evaluate the effects of nebivolol and irbesartan on peridialytic, intradialytic, and ambulatory BP in patients with intradialytic hypertension.",
+        "journal": "Journal of hypertension",
+        "year": "2019",
+        "authors": [
+          "Bikos Athanasios",
+          "Loutradis Charalampos",
+          "Angeloudi Elena",
+          "Karpetas Antonios",
+          "Raptis Vasilios"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Blood Pressure Monitoring, Ambulatory",
+          "Cross-Over Studies",
+          "Drug Administration Schedule",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30063644/"
+      },
+      {
+        "pmid": "33017836",
+        "title": "The Effects of Nebivolol and Irbesartan on Ambulatory Aortic Blood Pressure and Arterial Stiffness in Hemodialysis Patients with Intradialytic Hypertension.",
+        "abstract": "Intradialytic hypertension occurs in 5-15% of hemodialysis patients and is associated with increased cardiovascular risk, but the responsible mechanisms remain unknown. This study examined the effects of nebivolol and irbesartan on ambulatory central blood pressure (BP), arterial stiffness, and wave-reflection parameters in patients with intradialytic hypertension.",
+        "journal": "Blood purification",
+        "year": "2021",
+        "authors": [
+          "Theodorakopoulou Marieta",
+          "Loutradis Charalampos",
+          "Bikos Athanasios",
+          "Angeloudi Elena",
+          "Schoina Manina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aorta",
+          "Blood Pressure",
+          "Cross-Sectional Studies",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Irbesartan",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33017836/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:35:26.235032",
+  "success": true,
+  "error_message": null
+}

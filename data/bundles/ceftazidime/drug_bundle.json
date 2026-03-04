@@ -1,0 +1,3144 @@
+{
+  "drug": {
+    "name": "Ceftazidime",
+    "drugbank_id": "DB00438",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "peritonitis",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06864585",
+            "title": "Zavicefta Combination for Intravenous Infusion Special Investigation - Surveillance on Patients With Sepsis or Renal Impairment (Creatinine Clearance ≤ 50 mL/Min) -",
+            "phase": "N/A",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-03-15",
+            "completion_date": "2029-03-30",
+            "country": "N/A",
+            "enrollment": 59,
+            "brief_summary": "The purpose of this study is to learn about the safety and how effective is Zavicefta under actual clinical practice in Japan.\n\nZavicefta is a combination of Avibactam sodium and Ceftazidime hydrate.\n\nThis study is seeking for patients with:\n\n* sepsis (A very serious infection in your blood caused by germ (a bacteria)) or\n* renal impairment (loss of kidney function) who are administrated with Zavicefta for the first time.\n\nSubjects will take part in this study from the start date of receiving Za",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who received Zavicefta for the first time after the launch of Zavicefta\n2. Patients who received Zavicefta for an infectious diseases indicated for Zavicefta\n3. Patients with diagnosis of sepsis and/or renal impairment (creatinine clearance ≤ 50mL/min) at the start o",
+            "endpoints": [
+              "Number of Participants with adverse drug reactions (ADRs)"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT06864585"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04077996",
+            "title": "Randomized Multicentric Clinical Trial, Efficcacy of the Treatment Application on Peritonitis in Automated Peritoneal Dialysis (APD); Comparision Between APD Versus Ambulatory Dialysis.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-07-01",
+            "completion_date": "2022-08-30",
+            "country": "Mexico",
+            "enrollment": 64,
+            "brief_summary": "The main infectious complication of peritoneal dialysis (PD) is bacterial peritonitis, which increases morbidity, mortality and conversion to hemodialysis.\n\nIn Mexico, 485 patients per million people undergo PD. The Mexican Institute of Social Security (IMSS) reported 55,101 patients with kidney failure, 59% on PD. Automated PD (APD) has contributed by reducing peritonitis. The treatment of peritonitis in APD is carried out by changing to continuous ambulatory peritoneal dialysis (CAPD) or by ad",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* \\> 18 years in Automated Peritoneal Dialysis.\n* Patients in the Hospital General 1, 10 and sub-zone 4 of Colima.\n* Patients with diagnosis of peritonitis (abdominal pain, fever, vomiting, nausea, turbid fluid, cytologic with leukocytes \\>100 cells/mm3, polymorphonuclear \\>50%)",
+            "endpoints": [
+              "Peritonitis Resolved"
+            ],
+            "sponsor": "Universidad de Colima",
+            "url": "https://clinicaltrials.gov/study/NCT04077996"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04367974",
+            "title": "Clinical Pharmacokinetic Study of Ceftazidime and Cefazolin in Treating CAPD-related Peritonitis",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2020-06-01",
+            "completion_date": "2022-05-01",
+            "country": "China",
+            "enrollment": 20,
+            "brief_summary": "Peritoneal dialysis-related peritonitis is a common complication of peritoneal dialysis, which is the main cause of transfer from peritoneal dialysis to hemodialysis. Guidelines for International Society for peritoneal dialysis（ISPD）published in 2016 recommend that timely and adequate use of antibiotics is the most important part of treatment. Empiric treatment should be initiated as soon as possible after obtaining microbiological specimens，then adjust the antibiotics according to culture resul",
+            "eligibility_criteria": "Inclusion Criteria:\n\nMaintained on continuous ambulatory PD (CAPD) for at least 1 month,all patients received 4 exchanges per day with dialysate volumes of 2 L per exchange.\n\n1. The diagnostic criteria for CAPD-related peritonitis are as follows:\n\n   The dialysate fluid appears cloudy and accord wit",
+            "endpoints": [
+              "concentration of ceftazidime and cefazolin"
+            ],
+            "sponsor": "Fifth Affiliated Hospital, Sun Yat-Sen University",
+            "url": "https://clinicaltrials.gov/study/NCT04367974"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01455246",
+            "title": "Daptomycin + Meropenem Versus Ceftazidime in the Treatment of Nosocomial Spontaneous Bacterial Peritonitis: an Open, Randomized, Controlled Clinical Trial",
+            "phase": "PHASE2, PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2010-10",
+            "completion_date": "2014-07",
+            "country": "Italy",
+            "enrollment": 32,
+            "brief_summary": "Nosocomial spontaneous bacterial peritonitis (SBP) is frequently caused by multi drug resistant bacteria. Standard treatment of SBP could be ineffective. The aim of the study is to compare daptomycin + meropenem vs ceftazidime in the treatment of nosocomial SBP.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with liver cirrhosis and ascites\n* Meets all criteria for nosocomial SBP as outlined below\n\n  * Ascitic fluid polymorphonuclear cells count \\>250/mm3\n  * Onset of signs and symptoms of infection after 72 hours of hospitalization\n\nExclusion Criteria:\n\n* Hepatocellular ",
+            "endpoints": [
+              "The primary end-point of the study is the response to therapy"
+            ],
+            "sponsor": "University of Padova",
+            "url": "https://clinicaltrials.gov/study/NCT01455246"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02593201",
+            "title": "The Efficacy of Prolonged Antibiotic Therapy for the Prevention of Relapsing Peritonitis in Peritoneal Dialysis Patients With High Dialysis Effluent Bacterial DNA Fragment Levels",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2016-02-26",
+            "completion_date": "2019-06-30",
+            "country": "Hong Kong",
+            "enrollment": 358,
+            "brief_summary": "Peritoneal dialysis (PD) is the first-line treatment of end stage renal disease (ESRD) in Hong Kong. Despite the advances in antibiotic therapy and connecting system, recurrent peritonitis remains the major cause of peritoneal failure. A recent study showed that an elevated bacterial DNA fragment levels in PD effluent 5 days prior to the completion of antibiotics predicts the development of relapsing or recurrent peritonitis episodes. We hypothesize that prolonged antibiotic therapy in PD patien",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with peritoneal dialysis-related peritonitis\n\nExclusion Criteria:\n\n* Patients with fungal peritonitis\n* Patients with obvious surgical problems and require laparotomy",
+            "endpoints": [
+              "relapsing peritonitis episodes",
+              "repeat peritonitis episodes",
+              "recurrent peritonitis episodes"
+            ],
+            "sponsor": "Chinese University of Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT02593201"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02872038",
+            "title": "A Multicenter, Randomized, Controlled Trial Comparing Cefepime Monotherapy Versus Combination of Cefazolin Plus Ceftazidime for Empirical Treatment of CAPD-associated Peritonitis",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2015-08",
+            "completion_date": "2016-11-30",
+            "country": "Thailand",
+            "enrollment": 154,
+            "brief_summary": "The purpose of this study is to compare the efficacy of empirical antibiotics of CAPD-associated peritonitis with intraperitoneal, continuous dosing of cefepime monotherapy versus combination of cefazolin and ceftazidime. Patients were randomized to be administered either intraperitoneal cefepime 1 g loading then 250 mg all exchanges (treatment group) or cefazolin and ceftazidime (control group) in the same dose.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age more than 18 years\n* CAPD initiation more than 4 weeks\n\nExclusion Criteria:\n\n* Exit site or tunnel infection\n* Sepsis\n* Previous CAPD-associated peritonitis treatment within 4 weeks\n* Drug allergy to cephalosporin\n* Tenckhoff catheter malfunction\n* Hospitalization more tha",
+            "endpoints": [
+              "Primary response rate"
+            ],
+            "sponsor": "Chulalongkorn University",
+            "url": "https://clinicaltrials.gov/study/NCT02872038"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02443285",
+            "title": "Is Spontaneous Bacterial Peritonitis Still Responding to 3rd Generation Cephalosporins?",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2015-01",
+            "completion_date": "2019-12",
+            "country": "Egypt",
+            "enrollment": 100,
+            "brief_summary": "Current European and most other international guidelines recommend the use of a third-generation cephalosporin as the first choice, or amoxicillin-clavulanate acid or fluoroquinolones as an alternative choice .\n\nThese recommendations are based mainly on clinical trials that were very often conducted a decade or more ago, and on the assumption that E. coli would be involved in nearly half of the cases.\n\nThe microbial etiology of SBP remains relatively constant; however, the antibiotic resistance ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and SBP\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections",
+            "endpoints": [
+              "number of patients with clearence of infection"
+            ],
+            "sponsor": "Tanta University",
+            "url": "https://clinicaltrials.gov/study/NCT02443285"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03754387",
+            "title": "Mutil-institutions Comparing Antibiotic Therapy With Laparscopic Appendectomy in Pediatric Chronic Appendicitis",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2019-01-01",
+            "completion_date": "2022-01-01",
+            "country": "China",
+            "enrollment": 200,
+            "brief_summary": "This clinical trial will compare antibiotic therapy with laparoscopic appendectomy in the treatment of pediatric chronic appendicitis in china. Enrolled patients will be randomised and an allocation ratio of 1:1 will be made via weighted minimisation, where half of the patients will receive antibiotic therapy with intravenous Ceftazidime sodium, while the other half will have a laparoscopic appendicectomy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients were eligible if they were between 3 and 15 years of age, and they suffered from chronic appendicitis.\n2. US showing hyperemia and fecalith, ≤ 1.1 cm in diameter, compressible or non-compressible, no abscess, no phlegmon or CT showing hyperemia and fecalith, fat stra",
+            "endpoints": [
+              "Success rate"
+            ],
+            "sponsor": "Zunyi Medical College",
+            "url": "https://clinicaltrials.gov/study/NCT03754387"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03790176",
+            "title": "Plasma, ELF and Intraperitoneal Pharmacokinetics of Ceftazidime/Avibactam in Critically Ill and Peritoneal Dialysis Patients",
+            "phase": "PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "2018-10-01",
+            "completion_date": "2022-12",
+            "country": "Austria",
+            "enrollment": 20,
+            "brief_summary": "CAZ/AVI is a new antibiotic drug that is meant to be used for various indications including cIAI and nosocomial pneumonia. To date, limited data exists on PK of CAZ/AVI in patients undergoing peritoneal dialysis as well as on penetration of CAZ/AVI in ELF of critically ill patients. The present study is carried out to determine target site PK of CAZ/AVI in these two populations, in order to contribute to a more complete understanding of the drug's penetration to its site of action.",
+            "eligibility_criteria": "Inclusion criteria (PART A - PATIENTS UNDERGOING APD):\n\n* Males or females aged between 18 and 85 years undergoing automated peritoneal dialysis (APD)\n* Written informed consent given after being provided detailed information about the nature, risks, and scope of the clinical study as well as the ex",
+            "endpoints": [
+              "Area under the concentration time curve (AUC) from 0 to 8 hours (AUC0-8)"
+            ],
+            "sponsor": "Medical University of Vienna",
+            "url": "https://clinicaltrials.gov/study/NCT03790176"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05971537",
+            "title": "Clinical Trial on Antibiotic-Lock in Tenckhoff Catheter for Relasping and Repeat Peritonitis",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2023-06-15",
+            "completion_date": "2026-10",
+            "country": "Hong Kong",
+            "enrollment": 46,
+            "brief_summary": "Biofilm formation is an important cause of catheter-related infection. In hemodialysis, use of an antibiotic-lock has been proven to be effective to manage such a complication with preservation of the central venous catheter. In peritoneal dialysis, while biofilm has been implicated in relapsing and repeat peritonitis, both of which are caused by the identical bacteria as in their preceding peritonitis episode, no adjunctive measure has been proven to be effective to eradicate the biofilm bacter",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* PD patients who suffer from Either relapsing peritonitis (within 4 weeks of completion of antibiotics) or repeat peritonitis (between 4 to 12 weeks of completion of antibiotics), in which the causative organism is confirmed to be identical to the one in the preceding peritonit",
+            "endpoints": [
+              "rate of developement of relapsing or repeat peritonitis"
+            ],
+            "sponsor": "Alice Ho Miu Ling Nethersole Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05971537"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02787057",
+            "title": "Intraperitoneal (IP) Vancomycin Plus Oral Moxifloxacin Versus IP Vancomycin Plus IP Ceftazidime for the Treatment of Peritoneal Dialysis-related Peritonitis: a Pilot Randomized Controlled Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-11",
+            "completion_date": "2016-04",
+            "country": "N/A",
+            "enrollment": 80,
+            "brief_summary": "Intra-peritoneal administration of antibiotics covering both gram-positive and gram-negative organisms was recommended as first-line regimen for the management of peritoneal dialysis related peritonitis. Oral administration of quinolones can also achieve effective serum concentrations, and is more convenient and economical. We conducted a pilot randomized controlled study to compare the effects on peritonitis cure and relapsing rates between oral moxifloxacin plus IP vancomycin and conventional ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* incident or prevalent peritoneal dialysis patients\n* diagnosis of acute peritonitis according to ISPD guideline\n* age \\>18 years\n\nExclusion Criteria:\n\n* receiving antibiotic treatment for other reasons when peritonitis occurred\n* contraindication to cephalosporin, vancomycin, ",
+            "endpoints": [
+              "Complete Cure Rate"
+            ],
+            "sponsor": "Peking University First Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02787057"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02463721",
+            "title": "Identification of Ascitic Fluid Bacterial Pathogens in Spontaneous Bacterial Peritonitis in Nile Delta and Its Impact on Clinical Outcome of These Patients",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2015-01",
+            "completion_date": "2019-12",
+            "country": "Egypt",
+            "enrollment": 100,
+            "brief_summary": "Several studies have pointed out changes in the epidemiology of the causative bacteria in SBP and bacterascites and in their susceptibility to antibiotics. In particular, the development of beta-lactamase enzymes, which confer resistance to clavulanate, or extended spectrum beta-lactamases in Escherichia coli. The potential emergence of enterococci, methicillin-resistant S. aureus, or fluoroquinolone-resistant bacteria, following norfloxacin prophylaxis, is also a cause of concern since they may",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Liver cirrhosis with ascites and suspected to have SBP.\n* ascitic fluid PMNL ≥ 250 cells/mm3\n\nExclusion Criteria:\n\n* ascitic fluid with polymicrobial infections\n* patients started empirical antibiotics without prior culture.",
+            "endpoints": [
+              "identification of SBP bacterial pathogens through gram stain or other specific stains"
+            ],
+            "sponsor": "Tanta University",
+            "url": "https://clinicaltrials.gov/study/NCT02463721"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01785641",
+            "title": "Single Versus Combined Antibiotic Therapy for Bacterial Peritonitis in Continuous Ambulatory Peritoneal Dialysis Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2013-12",
+            "country": "Thailand",
+            "enrollment": 300,
+            "brief_summary": "To compare the efficacy of single versus combined antibiotic therapy for bacterial peritonitis in CAPD patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>/= 18 years old\n* ESRD patients on continuous ambulatory peritoneal dialysis more than 4 weeks\n* presence of symptom or sign of peritonitis\n* presence of WBC \\>100cell/mm3 with PMN \\>50% in peritoneal dialysate or gram stain positive for gram positive or gram negative ba",
+            "endpoints": [
+              "relapse or recurrent rate"
+            ],
+            "sponsor": "Chulalongkorn University",
+            "url": "https://clinicaltrials.gov/study/NCT01785641"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "34052357",
+            "title": "Variation in Peritoneal Dialysis-Related Peritonitis Outcomes in the Peritoneal Dialysis Outcomes and Practice Patterns Study (PDOPPS).",
+            "abstract": "Peritoneal dialysis (PD)-associated peritonitis is a significant PD-related complication. We describe the likelihood of cure after a peritonitis episode, exploring its association with various patient, peritonitis, and treatment characteristics.",
+            "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+            "year": "2022",
+            "authors": [
+              "Al Sahlawi Muthana",
+              "Zhao Junhui",
+              "McCullough Keith",
+              "Fuller Douglas S",
+              "Boudville Neil"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Humans",
+              "Peritoneal Dialysis",
+              "Peritoneal Dialysis, Continuous Ambulatory",
+              "Peritonitis",
+              "Prospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34052357/"
+          },
+          {
+            "pmid": "38044852",
+            "title": "Pharmacokinetic analysis of ceftazidime and cefazolin in the treatment of continuous ambulatory peritoneal dialysis-related peritonitis.",
+            "abstract": "Peritoneal dialysis-related peritonitis (PDRP) presents a significant challenge for nephrologists. Continuous intraperitoneal cefazolin and ceftazidime are recommended for the treatment of peritonitis. However, some pharmacokinetic studies have shown that doses of 15-20 mg/kg/d may not achieve sufficient therapeutic levels. In this study, we investigated the pharmacokinetics of ceftazidime and cefazolin in patients with continuous ambulatory peritoneal dialysis-related peritonitis and compared the pharmacokinetic characteristics between traditional and modified treatment groups.",
+            "journal": "Renal failure",
+            "year": "2023",
+            "authors": [
+              "Zhu Weiping",
+              "Fang Xueling",
+              "Zheng Jing",
+              "Ke Ying",
+              "He Qiaolan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Female",
+              "Humans",
+              "Adult",
+              "Middle Aged",
+              "Cefazolin",
+              "Ceftazidime",
+              "Peritoneal Dialysis, Continuous Ambulatory",
+              "Prospective Studies",
+              "Anti-Bacterial Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38044852/"
+          },
+          {
+            "pmid": "32063189",
+            "title": "Intraperitoneal cefazolin and ceftazidime during short-dwell exchange in peritoneal dialysis patients with peritonitis.",
+            "abstract": "Intraperitoneal (IP) cefazolin and ceftazidime during the short-dwell (≤ 2 h) automated exchange has been shown to provide adequate dialysate and plasma concentrations for up to 24 h in peritoneal dialysis (PD) patients without peritonitis. This study aimed to evaluate plasma and dialysate concentration of this novel IP cefazolin and ceftazidime regimen during the first 24 h in PD patients with peritonitis.",
+            "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+            "year": "2020",
+            "authors": [
+              "Triyawatanyu Pinpongsarn",
+              "Chariyavilaskul Pajaree",
+              "Phaisal Weeraya",
+              "Peerapornratana Sadudee",
+              "Kanjanabuch Talerngsak"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Cefazolin",
+              "Ceftazidime",
+              "Dialysis Solutions",
+              "Female",
+              "Humans",
+              "Infusions, Parenteral",
+              "Kidney Failure, Chronic",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32063189/"
+          },
+          {
+            "pmid": "3112102",
+            "title": "Pseudomonas peritonitis in neutropenic rats treated with amikacin, ceftazidime and ticarcillin, alone and in combination.",
+            "abstract": "Peritonitis in neutropenic rats, caused by a strain of Pseudomonas aeruginosa resistant to amikacin and ticarcillin alone but susceptible to ceftazidime and combinations of amikacin with ticarcillin, amikacin with ceftazidime and ticarcillin with ceftazidime, was investigated. Four hours after a bacterial challenge with a LD70 intraperitoneal dose of P. aeruginosa (1.5 X 10(8) cfu/ml), either amikacin, ticarcillin, ceftazidime, amikacin-ticarcillin, amikacin-ceftazidime, or ticarcillin-ceftazidime was administered at dosing intervals that mimicked the serum concentrations of the drugs found in humans after therapeutic doses. When the serum concentrations did not exceed the MIC, as occurred with amikacin, no difference in survival was observed compared with controls. All other regimens resulted in animal survival during the treatment. When therapy was stopped only those regimens resulting in serum concentrations above the MBC were effective (amikacin-ticarcillin, amikacin-ceftazidime, t",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1987",
+            "authors": [
+              "Shyu W C",
+              "Nightingale C H",
+              "Quintiliani R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Agranulocytosis",
+              "Amikacin",
+              "Animals",
+              "Ceftazidime",
+              "Drug Therapy, Combination",
+              "Female",
+              "Kinetics",
+              "Microbial Sensitivity Tests",
+              "Neutropenia",
+              "Penicillins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3112102/"
+          },
+          {
+            "pmid": "28882013",
+            "title": "Antimicrobial management in nosocomial peritonitis: microbiota, drug and time.",
+            "abstract": "Complicated intra-abdominal infection requires surgical treatment and broad-spectrum empiric antibiotic treatment used early. The rapid spread of multidrug-resistant bacteria has become a serious threat, especially in critical care units. The excessive use of carbapenems has led to carbapenemase-producing Enterobacteriaceae, leaving tigecycline and colistin as therapeutical options. The new antimicrobials, ceftazidime-avibactam and ceftolozane-tazobactam open new horizons in the treatment of multi-drug resistant Enterobacteriaceae. Candida peritonitis causes a high mortality in the critical patient. Diagnosis and early treatment are associated with a better prognosis, the administration of an echinocandin being of choice in these patients.",
+            "journal": "Revista espanola de quimioterapia : publicacion oficial de la Sociedad Espanola de Quimioterapia",
+            "year": "2017",
+            "authors": [
+              "Montero A",
+              "Salgado Aranda P",
+              "Gilsanz F",
+              "Maseda E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Cross Infection",
+              "Early Diagnosis",
+              "Humans",
+              "Microbiota",
+              "Peritonitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28882013/"
+          },
+          {
+            "pmid": "2644565",
+            "title": "Vancomycin and ceftazidime in the treatment of CAPD peritonitis.",
+            "abstract": "102 episodes of continuous ambulatory peritoneal dialysis (CAPD) peritonitis were studied prospectively during a 288-day period at The Queen Elizabeth Hospital, Birmingham. Organisms were isolated from 76% of the episodes, with coagulase-negative staphylococci, being the most commonly encountered organism (55%). Initial treatment consisted of intraperitoneal vancomycin and ceftazidime with subsequent adjustment on the basis of antibiotic sensitivities. With this regimen, 83% of the positive cultures became negative by 72 h, 9.8% of cases relapsed and removal of the CAPD catheter was necessary in 8 patients (7.8%). Overall, 92% of cases were cured. No adverse drug reactions were seen. This combination of antibiotics appears effective and safe in the treatment of CAPD peritonitis.",
+            "journal": "Nephron",
+            "year": "1989",
+            "authors": [
+              "Beaman M",
+              "Solaro L",
+              "McGonigle R J",
+              "Michael J",
+              "Adu D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Ceftazidime",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Peritoneal Dialysis, Continuous Ambulatory"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2644565/"
+          },
+          {
+            "pmid": "8403741",
+            "title": "Cefepime clinical pharmacokinetics.",
+            "abstract": "Cefepime is a new parenteral cephalosporin with antimicrobial activity similar to third-generation cephalosporins. It acts against the Enterobacteriaceae family, and Pseudomonas aeruginosa, but maintains Gram-positive activity similar to that of first- or second-generation cephalosporins. Cefepime has in vitro activity against many bacterial isolates resistant to ceftazidime and cefotaxime, is stable against chromosomally mediated beta-lactamases, demonstrates lower affinity for these enzymes and shows a high resistance to enzymatic hydrolysis. Clinical uses thus far include treatment of lower respiratory tract, intra-abdominal and urinary tract infections, skin and soft tissue infections and for prophylaxis in biliary tract and prostate surgery. Pharmacokinetic studies indicate that cefepime exhibits linear pharmacokinetic behaviour. Pharmacokinetic variables are not significantly different between single- and multiple-dose administration, indicating a lack of drug accumulation in pat",
+            "journal": "Clinical pharmacokinetics",
+            "year": "1993",
+            "authors": [
+              "Okamoto M P",
+              "Nakahiro R K",
+              "Chin A",
+              "Bedikian A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Bacteria",
+              "Bacterial Infections",
+              "Cefepime",
+              "Cephalosporins",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8403741/"
+          },
+          {
+            "pmid": "9360685",
+            "title": "Cefazolin and netilmycin versus vancomycin and ceftazidime in the treatment of CAPD peritonitis.",
+            "abstract": "In spite of several recommendations, choosing the initial antibiotic to treat continuous ambulatory peritoneal dialysis (CAPD) peritonitis remains difficult. In our prospective randomized study we attempted to evaluate the efficacy and safety of less toxic combinations of cephalosporins with vancomycin or netilmycin. From November 1993 to September 1996 we treated 52 episodes of peritonitis in 34 patients. Peritonitis was diagnosed according to the valid criteria. Patients were treated for 14 - 28 days with a combination of either cefazolin plus netilmycin or vancomycin plus ceftazidime. The most frequent bacteria causing peritonitis in the two groups were comparable. The efficacy of the cefazolin/netilmycin combination was 91.6% (22/24) without yeasts and 84.0% (21/25) in the vancomycin/ceftazidime combination. There were no statistically significant differences between the two otherwise efficient combinations of antibiotics. No side effects were observed. We believe that the frequent",
+            "journal": "Advances in peritoneal dialysis. Conference on Peritoneal Dialysis",
+            "year": "1997",
+            "authors": [
+              "Gucek A",
+              "Bren A F",
+              "Hergouth V",
+              "Lindic J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Cefazolin",
+              "Ceftazidime",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Middle Aged",
+              "Netilmicin",
+              "Peritoneal Dialysis, Continuous Ambulatory",
+              "Peritonitis",
+              "Prospective Studies",
+              "Treatment Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9360685/"
+          },
+          {
+            "pmid": "2660995",
+            "title": "Ceftazidime and cefotaxime--the clinician's choice.",
+            "abstract": "A review of two third-generation cephalosporins, ceftazidime and cefotaxime, is presented. Ceftazidime, often used as a single agent, has shown greater activity than cefotaxime against Pseudomonas aeruginosa and other Pseudomonas species, Enterobacteriaceae, Acinetobacter sp, and Enterobacter sp. It has been effective as monotherapy in the treatment of peritonitis, gynecologic infections, chronic bronchitis, and infections in patients with leukemia and granulocytopenia, as has cefotaxime when in combination with an aminoglycoside. Cefotaxime has shown good activity against most aerobic gram-negative bacilli and against Staphylococcus. It has been used in respiratory infections, urinary tract infections, and septicemia. In contrast to first-generation and most second-generation cephalosporins, third-generation cephalosporins have proven useful in some types of meningitis. Ceftazidime and cefotaxime successfully penetrate into the cerebrospinal fluid and cures of bacterial meningitis hav",
+            "journal": "Clinical therapeutics",
+            "year": "1989",
+            "authors": [
+              "Puthucheary S D",
+              "Goldsworthy P J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cefotaxime",
+              "Ceftazidime",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2660995/"
+          },
+          {
+            "pmid": "1624394",
+            "title": "Development of resistance during ceftazidime and cefepime therapy in a murine peritonitis model.",
+            "abstract": "Resistance emerging after ceftazidime or cefepime therapy was investigated in a peritonitis model. Mice were given a peritoneal challenge (10(8) cfu plus talcum) and treated by either antibiotic (50 mg/kg/dose, which produced similar antibiotic concentrations in peritoneal fluid in both cases). After one or three doses, resistance never developed in Serratia marcescens or Citrobacter freundii infections. After Enterobacter cloacae and Pseudomonas aeruginosa challenge, ceftazidime selected more resistance (21/36 cases) than did cefepime (1/36 cases). In mice challenged with resistant strains selected by ceftazidime therapy, cefepime (six doses) successfully treated 7/18 E. cloacae infections but 0/18 P. aeruginosa infections; ceftazidime was never effective. Neither cefepime nor ceftazidime cured mice infected with the resistant strain selected by cefepime. MICs were poor predictors of further emergence of resistance in mice inoculated with strains classified as susceptible, but antibio",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1992",
+            "authors": [
+              "Pechère J C",
+              "Vladoianu I R"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cefepime",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Citrobacter freundii",
+              "Disease Models, Animal",
+              "Drug Resistance, Microbial",
+              "Enterobacter cloacae",
+              "Enterobacteriaceae Infections",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1624394/"
+          },
+          {
+            "pmid": "36289937",
+            "title": "Synergy between Mecillinam and Ceftazidime/Avibactam or Avibactam against Multi-Drug-Resistant Carbapenemase-Producing Escherichia coli and Klebsiella pneumoniae.",
+            "abstract": "Background: Carbapenemase-producing Klebsiella pneumoniae and Escherichia coli have become a significant global health challenge. This has created an urgent need for new treatment modalities. We evaluated the efficacy of mecillinam in combination with either avibactam or ceftazidime/avibactam against carbapenemase-producing clinical isolates. Materials and methods: Nineteen MDR clinical isolates of K. pneumoniae and E. coli were selected for the presence of blaKPC, blaNDM, blaOXA or blaIMP based on whole-genome sequencing and phenotypic susceptibility testing. We tested the synergy between mecillinam and avibactam or ceftazidime/avibactam. We used time−kill studies in vitro and a mouse peritonitis/sepsis model to confirm the synergistic effect. We investigated avibactam’s impact on mecillinam´s affinity for penicillin-binding proteins with a Bocillin assay, and cell changes with phase-contrast and confocal laser scanning microscopy. Results: Mecillinam combined with ceftazidime/avibact",
+            "journal": "Antibiotics (Basel, Switzerland)",
+            "year": "2022",
+            "authors": [
+              "List Karoline Knudsen",
+              "Kolpen Mette",
+              "Kragh Kasper Nørskov",
+              "Charbon Godefroid",
+              "Radmer Stine"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36289937/"
+          },
+          {
+            "pmid": "35215161",
+            "title": "Phenotypic and Molecular Characterization of Nonfermenting Gram-Negative Bacilli Causing Peritonitis in Peritoneal Dialysis Patients.",
+            "abstract": "(1) Background: Peritonitis due to nonfermenting Gram-negative bacilli (NF-GNB) is a dramatic complication of peritoneal dialysis (PD) with bad outcomes. Previous studies of PD-related peritonitis due to Pseudomonas species have shown a low-resolution rate, without a high resistance rate to antipseudomonal antibiotics. This suggests that bacterial virulence factors can act and influence peritonitis evolution. This study aimed to describe the microbiological characteristics of NF-GNB causing PD-related peritonitis and analyze their influence on the outcome. (2) Methods: We analyze the 48 isolates from NF-GNB peritonitis, which were stored in our culture collection regarding bacterial resistance, biofilm, and other virulence factors' production, and clonal profile. Additionally, we collected data on treatment and outcomes from patients' clinical registers. (3) Results: The etiologies were species of Pseudomonas (50%), Acinetobacter (36%), and other NF-GNB (14%). There was a high (75%) pr",
+            "journal": "Pathogens (Basel, Switzerland)",
+            "year": "2022",
+            "authors": [
+              "Moro Lima Dos Santos Ana Cláudia",
+              "Monteiro Aydir Cecília Marinho",
+              "Barbosa Thaís Alves",
+              "Riboli Danilo Flávio Moraes",
+              "Camargo Carlos Henrique"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35215161/"
+          },
+          {
+            "pmid": "37301439",
+            "title": "Plasma and intraperitoneal pharmacokinetics of ceftazidime/avibactam in peritoneal dialysis patients.",
+            "abstract": "Peritonitis is a serious complication in patients undergoing automated peritoneal dialysis (APD) that increases morbidity and frequently disqualifies patients from the peritoneal dialysis programme. Ceftazidime/avibactam (CAZ/AVI) is a potential treatment option for APD patients with peritonitis caused by resistant Gram-negative bacteria, but limited data exist on systemic and target-site pharmacokinetics (PK) in patients undergoing APD. This study set out to investigate the PK of CAZ/AVI in plasma and peritoneal dialysate (PDS) of patients undergoing APD.",
+            "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+            "year": "2023",
+            "authors": [
+              "Al Jalali Valentin",
+              "Matzneller Peter",
+              "Pham Anh Duc",
+              "van Os Wisse",
+              "Wölfl-Duchek Michael"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Ceftazidime",
+              "Anti-Bacterial Agents",
+              "Prospective Studies",
+              "Drug Combinations",
+              "Microbial Sensitivity Tests",
+              "Peritoneal Dialysis",
+              "Azabicyclo Compounds"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37301439/"
+          },
+          {
+            "pmid": "40688946",
+            "title": "The Safety and Efficacy of Ceftazidime-Avibactam Plus Metronidazole Versus Meropenem for Intra-abdominal Infections: A Systematic Review and Meta-Analysis.",
+            "abstract": "Intra-abdominal infections encompass a range of medical conditions categorized by their complexity. Uncomplicated infections involve inflammation or infection limited to a single abdominal organ, such as acute appendicitis or cholecystitis, without extending to the peritoneum, while complicated infections spread to the peritoneal cavity. The key associated microbiological agents include Gram-positive cocci, Gram-negative Enterobacteriaceae, and obligate anaerobes, with common pathogens being Escherichia coli, Klebsiella pneumoniae, Streptococcus species, and Bacteroides fragilis. Treatment options include well-established antibiotics and newer agents like meropenem, metronidazole, and ceftazidime/avibactam. Meropenem, a carbapenem antibiotic, is known for its broad-spectrum efficacy and low toxicity, making it suitable for severe infections. Ceftazidime, a third-generation cephalosporin, is effective against Pseudomonas aeruginosa, especially when paired with avibactam, a β-lactamase i",
+            "journal": "Cureus",
+            "year": "2025",
+            "authors": [
+              "Nouh Mahmoud Ismail",
+              "AlButi Hala",
+              "Karrar Hani Raka",
+              "Hassan Dina M",
+              "Alhendi Rehab Salah Aldin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40688946/"
+          },
+          {
+            "pmid": "19577352",
+            "title": "Recurrent and relapsing peritonitis: causative organisms and response to treatment.",
+            "abstract": "The clinical behavior and optimal treatment of relapsing and recurrent peritonitis episodes in patients undergoing long-term peritoneal dialysis are poorly understood.",
+            "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+            "year": "2009",
+            "authors": [
+              "Szeto Cheuk-Chun",
+              "Kwan Bonnie Ching-Ha",
+              "Chow Kai-Ming",
+              "Law Man-Ching",
+              "Pang Wing-Fai"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Cefazolin",
+              "Ceftazidime",
+              "Female",
+              "Gentamicins",
+              "Gram-Negative Bacterial Infections",
+              "Gram-Positive Bacterial Infections",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19577352/"
+          },
+          {
+            "pmid": "36325003",
+            "title": "Excessive risk and poor outcome of hospital-acquired peritoneal dialysis-related peritonitis.",
+            "abstract": "Peritoneal dialysis (PD) is a home-based renal replacement therapy. Since hospital staff are not often familiar with PD and its complications, PD patients may have an excess risk of developing PD-related peritonitis during hospital admission for unrelated reasons, and the outcome may be affected.",
+            "journal": "Clinical kidney journal",
+            "year": "2022",
+            "authors": [
+              "Szeto Cheuk-Chun",
+              "Ng Jack Kit-Chung",
+              "Fung Winston Wing-Shing",
+              "Chan Gordon Chun-Kau",
+              "Cheng Phyllis Mei-Shan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36325003/"
+          },
+          {
+            "pmid": "11587402",
+            "title": "Effective treatment of peritoneal dialysis-associated peritonitis with cefazolin and ceftazidime in children.",
+            "abstract": "To evaluate the use of the combination of cefazolin and ceftazidime for initial treatment of peritoneal dialysis (PD)-related peritonitis in pediatric patients.",
+            "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+            "year": "2001",
+            "authors": [
+              "Rusthoven E",
+              "Monnens L A",
+              "Schröder C H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Cefazolin",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11587402/"
+          },
+          {
+            "pmid": "3886227",
+            "title": "Intraperitoneal vancomycin and ceftazidime in the treatment of CAPD peritonitis.",
+            "abstract": "The use of intraperitoneal vancomycin and ceftazidime in the treatment of 64 episodes of CAPD peritonitis is reported. Serum and dialysate antibiotic concentrations were measured in 19 of these and the maximum serum vancomycin level recorded was 30 mg/l. Culture of the dialysate was sterile in 52% of the cases, staphylococci were isolated in 30% and the infection rate during 1983 was 2.22 episodes per patient-year. This antibiotic combination has proven safe and effective and easily administered by the patients.",
+            "journal": "Clinical nephrology",
+            "year": "1985",
+            "authors": [
+              "Gray H H",
+              "Goulding S",
+              "Eykyn S J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bacterial Infections",
+              "Candidiasis",
+              "Ceftazidime",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Peritoneal Dialysis",
+              "Peritoneal Dialysis, Continuous Ambulatory",
+              "Peritonitis",
+              "Vancomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3886227/"
+          },
+          {
+            "pmid": "8068991",
+            "title": "Stability of ceftazidime and vancomycin alone and in combination in heparinized and nonheparinized peritoneal dialysis solution.",
+            "abstract": "To examine the stability of ceftazidime, vancomycin, and heparin, alone and in combination, in dialysis solution over six days at three temperatures.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "1994",
+            "authors": [
+              "Vaughan L M",
+              "Poon C Y"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Ceftazidime",
+              "Dialysis Solutions",
+              "Drug Stability",
+              "Heparin",
+              "Humans",
+              "Peritoneal Dialysis",
+              "Time Factors",
+              "Vancomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8068991/"
+          },
+          {
+            "pmid": "14703199",
+            "title": "Pharmacokinetics of ceftazidime in CAPD-related peritonitis.",
+            "abstract": "The aim of this study was to measure and evaluate the appropriateness of the actual concentrations of serum and dialysate ceftazidime in Thai continuous ambulatory peritoneal dialysis (CAPD) patients.",
+            "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+            "year": "2003",
+            "authors": [
+              "Booranalertpaisarn Voravut",
+              "Eiam-Ong Somchai",
+              "Wittayalertpanya Supeecha",
+              "Kanjanabutr Talerngsak",
+              "Na Ayudhya Duangchit Panomwana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Peritoneal Dialysis, Continuous Ambulatory",
+              "Peritonitis",
+              "Prospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14703199/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "streptococcal pneumonia",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33762510",
+            "title": "Long-term deep sedation using Zoletil and haloperidol for the treatment of streptococcal pneumonia in an orangutan (Pongo pygmaeus).",
+            "abstract": "A 13-year-old Bornean orangutan diagnosed with life threatening Streptococcus pyogenes broncho-pneumonia was kept in a state of deep sedation for 20 days via continuous intra-venous (IV) infusion of zolazepam -tiletamine and IV haloperidol to allow consistent IV administration of ceftazidime and gatifloxacine. The use of long-term deep sedation allowed carrying out a particularly demanding treatment not generally associated with zoological patients. The treatment was ultimately successful.",
+            "journal": "The Journal of veterinary medical science",
+            "year": "2021",
+            "authors": [
+              "Martelli Paolo",
+              "Oh Serena"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Deep Sedation",
+              "Drug Combinations",
+              "Haloperidol",
+              "Pneumonia",
+              "Pongo",
+              "Pongo pygmaeus",
+              "Tiletamine",
+              "Zolazepam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33762510/"
+          },
+          {
+            "pmid": "9570172",
+            "title": "Bacteremic pneumonia in neutropenic patients with cancer: causes, empirical antibiotic therapy, and outcome.",
+            "abstract": "Bacteremic pneumonia is a major cause of death among neutropenic patients with cancer.",
+            "journal": "Archives of internal medicine",
+            "year": "1998",
+            "authors": [
+              "Carratalà J",
+              "Rosón B",
+              "Fernández-Sevilla A",
+              "Alcaide F",
+              "Gudiol F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Bacteremia",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Female",
+              "Humans",
+              "Imipenem",
+              "Male",
+              "Middle Aged",
+              "Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9570172/"
+          },
+          {
+            "pmid": "12168746",
+            "title": "Bacteriological evidence of antibiotic failure in pneumococcal lower respiratory tract infections.",
+            "abstract": "The global pandemic of antimicrobial resistance, particularly in the pneumococcus, has had a major impact on the management of community-acquired pneumonia. A number of prospective and retrospective studies have analysed the impact of penicillin resistance on clinical outcome in pneumonia. Pharmacodynamic principles predicting success when the antibiotic dose exceeds the minimum inhibitory concentration (MIC) for 40-50% of the dosing interval have proved remarkably accurate. There is no evidence of bacteriological failure of penicillins active against resistant strains. There is a single report of the failure of the less active agent, ticarcillin. High dose oral and intravenous amoxicillin should treat strains with MICs < or = 4 microg x mL(-1), as should high doses of intravenous penicillin, ceftriaxone and cefotaxime. Strains of pneumococci resistant to these agents at an MIC > or = 8 microg x mL(-1) are rare at the present time. Most other cephalosporins are less active and should n",
+            "journal": "The European respiratory journal. Supplement",
+            "year": "2002",
+            "authors": [
+              "Klugman K P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Community-Acquired Infections",
+              "Dose-Response Relationship, Drug",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Pneumococcal Infections",
+              "Respiratory Tract Infections",
+              "Streptococcus pneumoniae",
+              "Treatment Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12168746/"
+          },
+          {
+            "pmid": "3523458",
+            "title": "Treatment of bacterial meningitis with ceftazidime.",
+            "abstract": "Ceftazidime was prospectively evaluated in the treatment of bacterial meningitis in 19 pediatric patients. Haemophilus influenzae type b (HIB) was the etiologic agent in 17 patients, and Streptococcus pneumonia and Neisseria meningitidis were the etiologic agents in one patient each. Ceftazidime was administered intravenously in a dosage of 150 mg/kg/day divided into eight hourly doses for a mean of 15 days (range, 14 to 22 days) for H. influenzae type b meningitis. The clinical and microbiologic response was appropriate in all cases. The mean ceftazidime CSF concentration was 6.7 micrograms/ml at approximately 2 hours following iv infusions. This concentration was 16- to greater than 100-fold the minimal bactericidal concentration determined for the isolated pathogens. These preliminary observations support ceftazidime as a candidate cephalosporin for the treatment of bacterial meningitis caused by H. influenzae. Additional study is required to further define its role in meningitis ca",
+            "journal": "Pediatric infectious disease",
+            "year": "1986",
+            "authors": [
+              "Hatch D",
+              "Overturf G D",
+              "Kovacs A",
+              "Forthal D",
+              "Leong C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Ceftazidime",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male",
+              "Meningitis",
+              "Meningitis, Haemophilus",
+              "Meningitis, Meningococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3523458/"
+          },
+          {
+            "pmid": "17673974",
+            "title": "Direct examination and cultures of bronchoalveolar lavage in pneumonia diagnosis: a comparative experimental study.",
+            "abstract": "To assess the accuracy of direct examination and quantitative cultures of BAL to diagnose pneumonia with or without antibiotic treatment.",
+            "journal": "Intensive care medicine",
+            "year": "2007",
+            "authors": [
+              "Brandão da Silva Nilton",
+              "Martins Lucas",
+              "Martins Frederico",
+              "Anflor José",
+              "Tonietto Tiago"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bacteriological Techniques",
+              "Bronchoalveolar Lavage Fluid",
+              "Colony Count, Microbial",
+              "Lung",
+              "Pneumonia, Bacterial",
+              "Pneumonia, Pneumococcal",
+              "Pseudomonas Infections",
+              "Pseudomonas aeruginosa"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17673974/"
+          },
+          {
+            "pmid": "28325626",
+            "title": "Group B streptococcal necrotizing pneumonia in a diabetic adult patient.",
+            "abstract": "The aim of this report is to describe a rare case of necrotizing pneumonia due to group B Streptococcus serotype III in a relatively young male adult (48 years old) suffering from diabetes. The organism was isolated from his pleural fluid and was only resistant to tetracycline. The patient first received ceftazidime (2g/8h i.v.)+clindamycin (300mg/8h) for 18 days and then he was discharged home and orally treated with amoxicillin clavulanic acid (1g/12h) for 23 days with an uneventful evolution. As in the cases of invasive infection by Streptococcus pyogenes, clindamycin could prevent streptococcal toxic shock syndrome.",
+            "journal": "Revista Argentina de microbiologia",
+            "year": "2017",
+            "authors": [
+              "Pacha Andrea",
+              "Luna Cian Ramiro",
+              "Bonofiglio Laura",
+              "Solari Melisa",
+              "Strada Virginia"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Clindamycin",
+              "Diabetes Complications",
+              "Diabetes Mellitus",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pneumonia, Necrotizing",
+              "Streptococcal Infections",
+              "Streptococcus pyogenes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28325626/"
+          },
+          {
+            "pmid": "30997479",
+            "title": "Empiric Meropenem-based versus Ceftazidime-based Therapy for Severe Community-Acquired Pneumonia in a Retrospective Cohort Study.",
+            "abstract": "",
+            "journal": "Annals of the Academy of Medicine, Singapore",
+            "year": "2019",
+            "authors": [
+              "Chua Nathalie Grace",
+              "Liew Yi Xin",
+              "Lee Winnie",
+              "Tang Sarah S",
+              "Zhou Yvonne P"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Cohort Studies",
+              "Community-Acquired Infections",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Klebsiella Infections",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30997479/"
+          },
+          {
+            "pmid": "25030241",
+            "title": "Risk factors, microbial profiles and prognosis of microbial keratitis-associated endophthalmitis in high-risk eyes.",
+            "abstract": "Microbial keratitis (MK) is a sight-threatening emergency. Delayed diagnosis and treatment may exacerbate the condition and infection may spread to the posterior segment with resultant endophthalmitis. We describe the presentation, management, visual outcomes and microbial profiles of MK-associated endophthalmitis presenting to a tertiary referral centre.",
+            "journal": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+            "year": "2014",
+            "authors": [
+              "O'Neill Evelyn C",
+              "Yeoh Jonathan",
+              "Fabinyi David C A",
+              "Cassidy Dermot",
+              "Vajpayee Rasik B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Australia",
+              "Bacteria",
+              "Ceftazidime",
+              "Corneal Ulcer",
+              "Endophthalmitis",
+              "Eye Enucleation",
+              "Eye Evisceration"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25030241/"
+          },
+          {
+            "pmid": "8604171",
+            "title": "Bacteremia with Streptococcus pneumoniae. Implications for therapy and prevention. Franklin County Pneumonia Study Group.",
+            "abstract": "To determine the incidence and mortality rates of patients with bacteremic infections with Streptococcus pneumoniae, and to determine the serotypes and antimicrobial susceptibilities of the pneumococcal isolates.",
+            "journal": "JAMA",
+            "year": "1996",
+            "authors": [
+              "Plouffe J F",
+              "Breiman R F",
+              "Facklam R R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Age Distribution",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Bacterial Vaccines",
+              "Drug Resistance, Microbial",
+              "Drug Utilization",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8604171/"
+          },
+          {
+            "pmid": "24693373",
+            "title": "Serotype distribution and antibiotics susceptibility pattern of Streptococcus pneumonia in Iran.",
+            "abstract": "The development of antibiotic resistance among Streptococcus pneumoniae strains has caused significant health problems worldwide.",
+            "journal": "Iranian Red Crescent medical journal",
+            "year": "2013",
+            "authors": [
+              "Habibian Samira",
+              "Mehrabi-Tavana Ali",
+              "Ahmadi Zyanab",
+              "Izadi Morteza",
+              "Jonaidi Nematolah"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24693373/"
+          },
+          {
+            "pmid": "2686416",
+            "title": "Randomized, double-blind comparative study of intravenous ciprofloxacin versus ceftazidime in the treatment of serious infections.",
+            "abstract": "We compared intravenously administered ciprofloxacin with ceftazidime in a randomized, double-blind study. Patients received ciprofloxacin 200 mg intravenously every 12 hours or ceftazidime 2 g intravenously every eight hours, with placebo infusions to maintain blinding. Therapy with metronidazole was added for suspected or documented intra-abdominal infection. Thirty-two of the 57 ciprofloxacin-treated patients were evaluable for determination of efficacy and had 41 bacterial isolates from 34 sites. Thirty-six of the 56 ceftazidime patients were evaluable for determination of efficacy and had 41 bacterial isolates from 38 sites. Seven of 35 bacteremic patients had no identifiable primary focus. The most commonly isolated pathogens were Escherichia coli, Streptococcus pneumoniae, Staphylococcus aureus, and Klebsiella pneumoniae. Cure rates and bacteriologic eradication rates were comparable. Nine patients did not improve. Patients with treatment failures in the ciprofloxacin group incl",
+            "journal": "The American journal of medicine",
+            "year": "1989",
+            "authors": [
+              "Levine D P",
+              "McNeil P",
+              "Lerner S A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Bacterial Infections",
+              "Ceftazidime",
+              "Ciprofloxacin",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Infusions, Intravenous",
+              "Male",
+              "Middle Aged",
+              "Random Allocation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2686416/"
+          },
+          {
+            "pmid": "22954752",
+            "title": "Clinical and microbiological epidemiology of Streptococcus pneumoniae bacteremia in cancer patients.",
+            "abstract": "In the current era of changing epidemiology of invasive pneumococcal disease, we aimed to assess the clinical features, antimicrobial susceptibility, vaccination status, serotypes, genotypes and outcomes of pneumococcal bacteremia in cancer patients.",
+            "journal": "The Journal of infection",
+            "year": "2012",
+            "authors": [
+              "Garcia-Vidal Carolina",
+              "Ardanuy Carmen",
+              "Gudiol Carlota",
+              "Cuervo Guillermo",
+              "Calatayud Laura"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Female",
+              "Humans",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22954752/"
+          },
+          {
+            "pmid": "12718810",
+            "title": "Bacteremic pneumococcal infections in immunocompromised patients without AIDS: the impact of beta-lactam resistance on mortality.",
+            "abstract": "Streptococcus pneumoniae is the leading cause of community-acquired pneumonia in the elderly, and in recent years it has arisen as an important pathogen in HIV-infected patients. However, there is a scarcity of information on clinical and therapeutic problems associated with pneumococcal infections in other immuno-compromised patients. The objective of this study was to assess the most relevant epidemiologic aspects, clinical features and prognostic factors of pneumococcal bacteremia in immunocompromised hosts without AIDS.",
+            "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+            "year": "2003",
+            "authors": [
+              "Fernández Guerrero Manuel L",
+              "Ramos Jose M",
+              "Marrero Jorge",
+              "Cuenca Manuel",
+              "Fernández Roblas Ricardo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Drug Resistance, Multiple, Bacterial",
+              "Female",
+              "Humans",
+              "Immunocompromised Host",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12718810/"
+          },
+          {
+            "pmid": "6352661",
+            "title": "A multicentre prospective randomized trial comparing ceftazidime with cefazolin/tobramycin in the treatment of hospitalized patients with non-pneumococcal pneumonia.",
+            "abstract": "A multicentre prospective randomized control trial was done to compare the efficacy and toxicity of ceftazidime with that of cefazolin/tobramycin in the treatment of hospitalized patients with non-pneumococcal pneumonia. The results for 50 patients are reported in this paper; 24 in the ceftazidime group and 26 in the cefazolin/tobramycin group. Measurements of clinical response show no differences between the two groups: the same is true for bacteriological response. Minimal toxicity was seen with both treatment groups. The results support the use of ceftazidime as single-drug treatment of hospitalized patients with pneumonia.",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1983",
+            "authors": [
+              "Mandell L A",
+              "Nicolle L E",
+              "Ronald A R",
+              "Duperval R",
+              "Robson H G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Bacterial Infections",
+              "Cefazolin",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Clinical Trials as Topic",
+              "Drug Therapy, Combination",
+              "Hospitalization",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6352661/"
+          },
+          {
+            "pmid": "7494576",
+            "title": "Drug-resistant Streptococcus pneumoniae.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1996",
+            "authors": [
+              "Clynes N E"
+            ],
+            "pub_types": [
+              "Letter",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Ceftazidime",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Pneumococcal Infections",
+              "Pneumonia, Bacterial",
+              "Streptococcus pneumoniae",
+              "beta-Lactam Resistance"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7494576/"
+          },
+          {
+            "pmid": "16778466",
+            "title": "Microbial pathogens of adult community-acquired pneumonia in Southern Estonia.",
+            "abstract": "Prospective analysis of the etiology of community-acquired pneumonia in 209 inpatients (mean age 56.2+/-11.2 years) was performed at the Lung Hospital of Tartu University, Estonia. Majority of the patients (87.6%) had at least one significant modifying or risk factor and 30.6% had severe community-acquired pneumonia. Streptococcus pneumoniae, beta-hemolytic streptococci, Klebsiella pneumoniae, and Moraxella catarrhalis were the most frequent pathogens (22.0, 12.2, 11.4, and 10.2%, respectively). Combined etiology was detected in 17.2%. Gram-negative pathogens prevailed over gram-positives and were significantly more frequent in patients aged > or =60 years (p=0.002) as in those with underlying diseases (p=0.01). An age of > or =60 years and previous antibacterial therapy were significant risk factors for Klebsiella pneumoniae as a pathogen (p=0.005 and p=0.002, respectively). Susceptibility of Streptococcus pneumoniae to penicillin, erythromycin, and doxycycline was 79.5, 90.2, and 100",
+            "journal": "Medicina (Kaunas, Lithuania)",
+            "year": "2006",
+            "authors": [
+              "Leesik Helle",
+              "Ani Ulle",
+              "Juhani Anneli",
+              "Altraja Alan"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Community-Acquired Infections",
+              "Data Interpretation, Statistical",
+              "Drug Resistance, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16778466/"
+          },
+          {
+            "pmid": "8452361",
+            "title": "In vitro and in vivo antibacterial activities of FK037, a novel parenteral broad-spectrum cephalosporin.",
+            "abstract": "FK037, a new parenteral cephalosporin, is an oxime-type cephem antibiotic with a 1-hydroxyethyl-5-amino-pyrazole moiety at the 3 position. FK037 was evaluated for antimicrobial activity in vitro and in vivo. In vitro, FK037 was twofold or more active than ceftazidime, cefoperazone, cefotaxime, and ceftriaxone against Pseudomonas aeruginosa (MIC for 90% of the strains [MIC90] = 32 micrograms/ml), members of the family Enterobacteriaceae (MIC90 < or = 2 micrograms/ml), group A streptococci (MIC90 = 0.015 microgram/ml), and methicillin-sensitive or -resistant coagulase-negative staphylococci (MIC90 = 2 and 16 micrograms/ml, respectively). In addition, the activity of FK037 was equal to or greater than that of ceftazidime, cefotaxime, or ceftriaxone against Streptococcus pneumoniae (MIC90 = 0.12 microgram/ml) and methicillin-sensitive or -resistant Staphylococcus aureus (MIC90 = 2 and 16 micrograms/ml, respectively). FK037 was more active in vitro than cefepime (two- to fourfold) and cefpi",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1993",
+            "authors": [
+              "Fu K P",
+              "Foleno B D",
+              "Lafredo S C",
+              "LoCoco J M",
+              "Isaacson D M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bacteria",
+              "Bacterial Infections",
+              "Ceftizoxime",
+              "Enterobacteriaceae Infections",
+              "Female",
+              "Male",
+              "Methicillin Resistance",
+              "Mice",
+              "Mice, Inbred Strains"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8452361/"
+          },
+          {
+            "pmid": "14616683",
+            "title": "Rhabdomyolysis as a result of Streptococcus pneumoniae: report of a case and review.",
+            "abstract": "We report the case of a patient who presented with RM associated with bacteremic pneumococcal pneumonia and review the literature on this condition.",
+            "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+            "year": "2003",
+            "authors": [
+              "Blanco J R",
+              "Zabalza M",
+              "Salcedo J",
+              "San Román J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Cefotaxime",
+              "Ceftazidime",
+              "Female",
+              "Humans",
+              "Pneumonia, Pneumococcal",
+              "Rhabdomyolysis",
+              "Streptococcus pneumoniae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14616683/"
+          },
+          {
+            "pmid": "19803006",
+            "title": "Ceftazidime in Gram-negative infections: three case reports.",
+            "abstract": "Three patients with serious infections due to Gram-negative bacilli were treated with ceftazidime: a 52-year-old woman with Enterobacter cloacae meningitis, a 33-year-old woman with post-traumatic Pseudomonas aeruginosa mediastinitis and a 68-year-old man with myelomatosis and Ps. aeruginosa pneumonia. In all three cases the use of ceftazidime, in combination with gentamicin, resulted in clinical improvement associated with rapid clearing of the organism from infected sites. No haematological or biochemical abnormality attributable to ceftazidime was detected.",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1981",
+            "authors": [
+              "Wardle J K",
+              "Selkon J B",
+              "Ingham H R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Chloramphenicol",
+              "Fatal Outcome",
+              "Female",
+              "Gentamicins",
+              "Gram-Negative Bacterial Infections",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19803006/"
+          },
+          {
+            "pmid": "9114139",
+            "title": "Treatment of penicillin-resistant pneumococcal bacteremia in neutropenic patients with cancer.",
+            "abstract": "We identified 17 cases of pneumococcal bacteremia among 340 neutropenic cancer patients with bacteremia. Pneumonia was more frequent in patients with pneumococcal bacteremia than in those with bacteremia due to other organisms: 12 (71%) of 17 patients with pneumococcal bacteremia had pneumonia, whereas only 23 (7%) of 323 patients with nonpneumococcal bacteremia had pneumonia (P < .001). Eight (47%) of the 17 episodes of pneumococcal bacteremia were caused by penicillin-resistant strains (MICs ranged from 0.12 microg/mL to 4 microg/mL); these penicillin-resistant pneumococci showed varying degrees of diminished susceptibility to all beta-lactams studied, especially ceftazidime (MICs of this drug ranged from 1 microg/mL to 64 microg/mL). Imipenem was the beta-lactam agent most active against these organisms (MICs ranged from 0.03 microg/mL to 0.25 microg/mL). Patients with penicillin-resistant pneumococcal bacteremia received inappropriate empirical antibiotic therapy more often than di",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1997",
+            "authors": [
+              "Carratalà J",
+              "Marron A",
+              "Fernández-Sevilla A",
+              "Liñares J",
+              "Gudiol F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Female",
+              "Humans",
+              "Lactams",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9114139/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "endometritis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "35622767",
+            "title": "Genetic Diversity, Biofilm Formation, and Antibiotic Resistance of Pseudomonas aeruginosa Isolated from Cow, Camel, and Mare with Clinical Endometritis.",
+            "abstract": "Pseudomonas aeruginosa is a ubiquitous opportunistic bacterium that causes diseases in animals and humans. This study aimed to investigate the genetic diversity, antimicrobial resistance, biofilm formation, and virulence and antibiotic resistance genes of P. aeruginosa isolated from the uterus of cow, camel, and mare with clinical endometritis and their drinking water. Among the 180 uterine swabs and 90 drinking water samples analysed, 54 (20%) P. aeruginosa isolates were recovered. Isolates were identified biochemically to the genus level by the automated Vitek 2 system and genetically by the amplification of the gyrB gene and the sequencing of the 16S rRNA gene. Multilocus sequence typing identified ten different sequence types for the P. aeruginosa isolates. The identification of ST2012 was significantly (p ≤ 0.05) higher than that of ST296, ST308, ST111, and ST241. The isolates exhibited significantly (p ≤ 0.05) increased resistance to piperacillin (77.8%), ciprofloxacin (59.3%), g",
+            "journal": "Veterinary sciences",
+            "year": "2022",
+            "authors": [
+              "Mahmoud Samy F",
+              "Fayez Mahmoud",
+              "Swelum Ayman A",
+              "Alswat Amal S",
+              "Alkafafy Mohamed"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35622767/"
+          },
+          {
+            "pmid": "6374199",
+            "title": "[Fundamental and clinical studies on ceftazidime in the field of obstetrics and gynecology].",
+            "abstract": "Ceftazidime ( CAZ ) was studied for the transfer into intrapelvic tissues and for the clinical efficacy in the treatment of 20 cases of obstetrical and gynecological infections. Transfer into the tissues--Following intravenous 1 hour-drip infusion of 1 g, favourable transfer of CAZ into intrapelvic tissues was observed. The peak drug level of 50 approximately 66 micrograms/g was obtained at 5 approximately 36 minutes after completion of the administration. Clinical evaluation-- CAZ was administered at a daily dose of 2 approximately 4 g in 1 approximately 4 divided doses by intravenous drip infusion for 90 minutes. The subjects were patients with the following infections; pyometra (1), puerperal endometritis (3), parametritis (5), pelvioperitonitis (3), purulent lymphocytes (2), retroperitoneal abscess (1) and acute adnexitis (5). Clinical efficacy was; excellent in 15 cases, good in 3 cases and poor in 2 cases, with the overall efficacy rate of 90.0%. No notable side effects or abnorm",
+            "journal": "The Japanese journal of antibiotics",
+            "year": "1984",
+            "authors": [
+              "Hirabayashi K",
+              "Okada E"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Bacterial Infections",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Drug Evaluation",
+              "Female",
+              "Genital Diseases, Female",
+              "Genitalia, Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6374199/"
+          },
+          {
+            "pmid": "6374196",
+            "title": "[Fundamental and clinical studies of ceftazidime in the field of obstetrics and gynecology].",
+            "abstract": "Ceftazidime ( CAZ ), a new cephalosporin antibiotic, was fundamentally and clinically studied. The following results were obtained. Serum and internal genital tissue levels of CAZ were measured following intravenous drip infusion of 1 g for 30 minutes. Serum levels of more than 10 micrograms/ml and tissue levels of more than about 7 micrograms/ml were maintained after 2 hours to 2 hours and 30 minutes, respectively. Favourable transfer of CAZ into the pelvic dead space exudate was observed. The exudate level attained its peak of 31.54 micrograms/ml on average at 2 hours and was 16.8 micrograms/ml on average even at 8 hours after intravenous drip infusion. A total of 6 cases comprising 1 of adnexitis, 2 of pyometra, 1 of endometritis and 2 of parametritis was treated with CAZ at a dose of 0.5 approximately 2.0 g twice daily by intravenous injection or intravenous drip infusion. The clinical response was excellent in 1 case, good in 4 cases and poor in 1 case. Abnormal laboratory finding",
+            "journal": "The Japanese journal of antibiotics",
+            "year": "1984",
+            "authors": [
+              "Shintani M",
+              "Takashima K",
+              "Kosakai H",
+              "Takayama T",
+              "Nakanishi A"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Bacterial Infections",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Drug Evaluation",
+              "Female",
+              "Genital Diseases, Female",
+              "Genitalia, Female",
+              "Humans",
+              "Infusions, Parenteral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6374196/"
+          },
+          {
+            "pmid": "6360038",
+            "title": "Randomized comparison of ceftazidime versus clindamycin-tobramycin in the treatment of obstetrical and gynecological infections.",
+            "abstract": "A randomized comparison of ceftazidime versus clindamycin-tobramycin was performed for the treatment of obstetrical and gynecological infections. Entry criteria were an oral temperature of greater than or equal to 38 degrees C and a clinical diagnosis of endometritis, salpingitis, or pelvic cellulitis after hysterectomy. All patients with endometritis had cultures of intrauterine material obtained via a transcervical single-lumen catheter. The patients with pelvic cellulitis had material from the vaginal apex aspirated for culture, and all patients with salpingitis had a culdocentesis for culture of intraperitoneal material. Of 38 patients who received ceftazidime, 34 had endometritis after cesarean section, 3 had endometritis after abortion, and 1 had pelvic cellulitis. Of 39 patients who received clindamycin-tobramycin, 35 had endometritis after cesarean section, 3 had salpingitis, and 1 had pelvic cellulitis. The most common bacterial isolates were Lactobacillus sp., Bacteroides biv",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1983",
+            "authors": [
+              "Blanco J D",
+              "Gibbs R S",
+              "Duff P",
+              "Castaneda Y S",
+              "St Clair P J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Bacterial Infections",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Clindamycin",
+              "Drug Therapy, Combination",
+              "Female",
+              "Genital Diseases, Female",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6360038/"
+          },
+          {
+            "pmid": "38787195",
+            "title": "Isolation and Identification of Morganella morganii from Rhesus Monkey (Macaca mulatta) in China.",
+            "abstract": "A bacterium was isolated and identified from the secretion of a rhesus monkey with endometritis. The morphological results showed that the strain exhibited round, convex, gray-white colonies with smooth surfaces and diameters ranging from 1 to 2 mm when cultured on Columbia blood agar at 37 °C for 24 h; on salmonella-shigella agar (S.S.) at 37 °C for 24 h, the colonies appeared round, flat, and translucent. Gram staining showed negative results with blunt ends and non-spore-forming characteristics. Molecular biology results showed that the 16S rRNA sequence of the strain revealed over 96.9% similarity with published sequences of M. morganii from different sources in the NCBI GenBank database. Morphological and molecular biology analysis confirmed that the strain (RM2023) isolated from cervical secretions of rhesus monkey was M. morganii. Drug sensitivity testing demonstrated that the isolated strain (RM2023) was sensitive to ceftriaxone, amikacin, gentamicin, cefazolin, cefuroxime, cef",
+            "journal": "Veterinary sciences",
+            "year": "2024",
+            "authors": [
+              "Li Heling",
+              "Chen Zhigang",
+              "Ning Qing",
+              "Zong Faliang",
+              "Wang Hong"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38787195/"
+          },
+          {
+            "pmid": "9551239",
+            "title": "Therapeutic effects of an injectable new quinolone, pazufloxacin, against polymicrobial infections in the uterine endometritis model.",
+            "abstract": "Polymicrobial infections with aerobes and anaerobes are common in female genital tract infections. We evaluated the efficacy of an injectable new quinolon, pazufloxacin, using a uterine endometritis model. Rats were infected with a mixed inoculation of Escherichia coli plus Bacteriodes fragilis (MIC of pazufloxacin and ceftazidime: E. coli: 0.05 and 1.56 micrograms/ml, respectively, B. fragilis: 3.13 and 3.13 micrograms/ml, respectively). After inoculating 10(7) cfu/rat of each organism, pazufloxacin or ceftazidime (10 or 20 mg/kg, respectively, i.v., b.i.d., 3 days) was administered and compared with the nontreated group. The viable cell counts of the uterine corpus and uterine cervix in pazufloxacin-treated and ceftazidime-treated groups were decreased, compared with the nontreated group. The viable cell counts of the adnexa in the pazufloxacin-treated group were significantly decreased, compared with the ceftazidimetreated group. These results suggest that pazufloxacin would be usef",
+            "journal": "Chemotherapy",
+            "year": "1998",
+            "authors": [
+              "Mikamo H",
+              "Kawazoe K",
+              "Sato Y",
+              "Tamaya T"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents",
+              "Bacteroides Infections",
+              "Bacteroides fragilis",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Colony Count, Microbial",
+              "Disease Models, Animal",
+              "Dose-Response Relationship, Drug",
+              "Endometritis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9551239/"
+          },
+          {
+            "pmid": "33642805",
+            "title": "Molecular characterization of extended-spectrum β-lactamase-producing Escherichia coli isolated from postpartum uterine infection in dairy cattle in India.",
+            "abstract": "Selection and dissemination of plasmid-encoded extended-spectrum β-lactamase (ESBL) among Enterobacteriaceae confers resistance to beta-lactam antibiotics. The purpose of this study was to determine the prevalence and molecular characteristics of ESBL-producing organisms isolated from dairy cattle with a uterine infection.",
+            "journal": "Veterinary world",
+            "year": "2021",
+            "authors": [
+              "Agrawal Samiksha",
+              "Singh Ajay Pratap",
+              "Singh Rashmi",
+              "Saikia Raktim",
+              "Choudhury Soumen"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33642805/"
+          },
+          {
+            "pmid": "10079863",
+            "title": "[Antibiotic sensitivity of pneumonia pathogens in newborns and problems of antibacterial therapy of the pathologic process].",
+            "abstract": "The results of the bacteriological investigation of the secretion from the trachea, large bronchi and fauces of 36 newborns (including 27 preterms) with severe pneumonia were analyzed. 20 of them were born of women with complicating somatic, obstetric and gynecologic histories: candidiasis, herpes genitalis, chronic endometritis, adnexitis or chronic pyelonephritis that could be the risk of the fetus intranatal infection. During the acute period of pneumonia in the newborns within the first 4-8 days of life mainly Pseudomonas aeruginosa was isolated (51.3 per cent), Staphylococcus epidermidis, S. haemolyticus and Enterococcus faecalis were less frequent (18.9, 8.1 and 5.4 per cent, respectively). Klebsiella pneumoniae, Streptococcus anhaemolyticus and other organisms were extremely rare. On the whole the gramnegative microflora predominated. The study of the antibiotic susceptibility showed that the majority of the P. aeruginosa isolates were susceptible to amikacin and polymyxin B, th",
+            "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+            "year": "1998",
+            "authors": [
+              "Kozlova I A",
+              "Frolova M I",
+              "Kuznetsova L K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Microbial Sensitivity Tests",
+              "Pneumonia, Bacterial",
+              "Respiratory System",
+              "Species Specificity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10079863/"
+          },
+          {
+            "pmid": "10473922",
+            "title": "In vitro bactericidal activities of antimicrobial agents and morphologic changes on Prevotella bivia.",
+            "abstract": "Prevotella bivia is common in pelvic inflammatory diseases. Parenteral antimicrobial agents have been widely used against those infections. We investigated the bactericidal activities of three cephalosporins, i.e. cefluprenam (CFLP), ceftazidime (CAZ) and cefotaxime (CTX) and of two other antimicrobial agents, i.e. clindamycin (CLDM) and imipenem (IPM) against P. bivia. We also investigated the in vitro morphological changes induced by these agents in P. bivia. Cephalosporins exhibited bactericidal activities against P. bivia and induced time- and concentration-dependent morphological changes in P. bivia (filamentation). CLDM and IPM also had bactericidal activities, but induced different morphologic alterations: formation of spheroblasts and lysis. These results confirm the fact that each antimicrobial agent has characteristic aspects.",
+            "journal": "Chemotherapy",
+            "year": "1999",
+            "authors": [
+              "Mikamo H",
+              "Sato Y",
+              "Hayasaki Y",
+              "Kawazoe K",
+              "Izumi K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Cefotaxime",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Clindamycin",
+              "Dose-Response Relationship, Drug",
+              "Endometritis",
+              "Female",
+              "Humans",
+              "Imipenem"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10473922/"
+          },
+          {
+            "pmid": "3895912",
+            "title": "Can the third-generation cephalosporins eliminate the need for antimicrobial combinations?",
+            "abstract": "Antimicrobial combinations have been widely utilized since the beginning of the chemotherapeutic era. This is true despite the fact that the use of such combinations has a number of potential disadvantages, including (1) antibiotic antagonism; (2) an increased incidence of toxicity; (3) the emergence of multi-resistant organisms; (4) promotion of a false sense of security; and (5) increased expense. The reasons generally given for the use of such combinations include (1) antimicrobial synergism, (2) suppression of antimicrobial resistance, (3) decreased toxicity, and (4) broader coverage. Although there are clearly some situations in which synergistic combinations have been shown to be useful (such as in the treatment of enterococcal endocarditis and severe Pseudomonas infections), the use of combination therapy to reduce the emergence of resistance (excluding the treatment of mycobacterial infections and of infections in which rifampin is used) or to reduce toxicity has not met with w",
+            "journal": "The American journal of medicine",
+            "year": "1985",
+            "authors": [
+              "Moellering R C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abdomen",
+              "Bacterial Infections",
+              "Cephalosporins",
+              "Clinical Trials as Topic",
+              "Drug Therapy, Combination",
+              "Endometritis",
+              "Female",
+              "Humans",
+              "Leukemia",
+              "Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3895912/"
+          },
+          {
+            "pmid": "6374190",
+            "title": "[Clinical efficacy of ceftazidime in inflammatory diseases in the field of gynecology].",
+            "abstract": "Ceftazidime ( CAZ ) was evaluated for its clinical efficacy in a total of 12 cases, namely 3 cases of endometritis, 3 cases of intrapelvic infections, 4 cases of adnexitis and 2 cases of external genital infections. In all the cases, CAZ was administered by intravenous drip infusion, and the duration of the treatment ranged from 3 to 22 days. Daily dose was 2 g in 10 cases, and in the remaining 2 cases, daily doses were changed during the course of treatment in the range from 2 to 4 g. The clinical results of CAZ by disease were as follows; excellent in 1 case and good in 2 cases of endometritis, good in all the 3 cases of intrapelvic infections and the 4 cases of adnexitis, and excellent in 1 case and good in 1 case of external genital infections. The overall efficacy rate was 100%, namely, excellent in 2 cases and good in 10 cases of the total of 12 cases. Neither side effects nor abnormal laboratory findings attributable to CAZ were observed in any of the case. From these results, w",
+            "journal": "The Japanese journal of antibiotics",
+            "year": "1984",
+            "authors": [
+              "Okamura K",
+              "Nakakuki M",
+              "Yamada K",
+              "Furukawa K",
+              "Sato A"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Bacterial Infections",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Drug Evaluation",
+              "Female",
+              "Genital Diseases, Female",
+              "Humans",
+              "Infusions, Parenteral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6374190/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "meningococcal infection",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3519175",
+            "title": "Bacterial meningitis. Rational selection and use of antibacterial drugs.",
+            "abstract": "Bacterial meningitis is a continuing challenge. This applies especially to infections in the neonate and the elderly, and to those which are hospital acquired. Factors which maintain the high morbidity and significant mortality from this disease include microbial virulence, a limited host response to infection within the cerebrospinal fluid (CSF), where phagocyte function is often impaired and complement and opsonic antibody activity are deficient, as well as delays in diagnosis and treatment. Added to these adverse factors is the pharmacokinetic hurdle of the 'blood-brain barrier', which limits drug concentrations achievable within the CSF. Inflammatory changes certainly improve the penetration of many agents, especially the penicillins and cephalosporins, but it must be remembered that with resolution of inflammation, achievable concentrations decline. Hence, the necessity for continuing parenteral administration of antibiotics throughout the treatment period. Although penicillin G (",
+            "journal": "Drugs",
+            "year": "1986",
+            "authors": [
+              "Whitby M",
+              "Finch R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Bacterial Infections",
+              "Cephalosporins",
+              "Chloramphenicol",
+              "Drug Combinations",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Kinetics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3519175/"
+          },
+          {
+            "pmid": "3896704",
+            "title": "Pharmacokinetics and cerebrospinal fluid penetration of ceftazidime in children with meningitis.",
+            "abstract": "The single dose pharmacokinetics and cerebrospinal fluid (CSF) penetration of ceftazidime were determined in 10 children with bacterial meningitis. Serum ceftazidime pharmacokinetics showed a distinct age dependence in which the clearance in children less than 1 month of age was markedly reduced. Ceftazidime concentrations in CSF, which ranged from 1.4-8.5 micrograms/ml, exceeded the minimum bactericidal concentrations for infecting pathogens throughout the 8-hour sampling period. These concentrations were found to be independent of CSF cell count, protein concentration or the day of therapy on which the study was performed. The ratio of CSF to serum ceftazidime concentration increased with time, suggesting that ceftazidime was cleared more slowly from CSF than from peripheral blood. Our data support the initiation of a study comparing the efficacy of ceftazidime to conventional therapy in children with bacterial meningitis.",
+            "journal": "Developmental pharmacology and therapeutics",
+            "year": "1985",
+            "authors": [
+              "Blumer J L",
+              "Aronoff S C",
+              "Myers C M",
+              "O'Brien C A",
+              "Klinger J D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Ceftazidime",
+              "Female",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Kinetics",
+              "Male",
+              "Meningitis",
+              "Meningitis, Haemophilus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3896704/"
+          },
+          {
+            "pmid": "15234151",
+            "title": "Neisseria meningitidis endophthalmitis.",
+            "abstract": "",
+            "journal": "Ophthalmology",
+            "year": "2004",
+            "authors": [
+              "Zacks David N"
+            ],
+            "pub_types": [
+              "Letter",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Ceftazidime",
+              "DNA, Bacterial",
+              "Drug Therapy, Combination",
+              "Endophthalmitis",
+              "Eye Infections, Bacterial",
+              "Humans",
+              "Male",
+              "Meningococcal Infections",
+              "Neisseria meningitidis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15234151/"
+          },
+          {
+            "pmid": "3523458",
+            "title": "Treatment of bacterial meningitis with ceftazidime.",
+            "abstract": "Ceftazidime was prospectively evaluated in the treatment of bacterial meningitis in 19 pediatric patients. Haemophilus influenzae type b (HIB) was the etiologic agent in 17 patients, and Streptococcus pneumonia and Neisseria meningitidis were the etiologic agents in one patient each. Ceftazidime was administered intravenously in a dosage of 150 mg/kg/day divided into eight hourly doses for a mean of 15 days (range, 14 to 22 days) for H. influenzae type b meningitis. The clinical and microbiologic response was appropriate in all cases. The mean ceftazidime CSF concentration was 6.7 micrograms/ml at approximately 2 hours following iv infusions. This concentration was 16- to greater than 100-fold the minimal bactericidal concentration determined for the isolated pathogens. These preliminary observations support ceftazidime as a candidate cephalosporin for the treatment of bacterial meningitis caused by H. influenzae. Additional study is required to further define its role in meningitis ca",
+            "journal": "Pediatric infectious disease",
+            "year": "1986",
+            "authors": [
+              "Hatch D",
+              "Overturf G D",
+              "Kovacs A",
+              "Forthal D",
+              "Leong C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Ceftazidime",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male",
+              "Meningitis",
+              "Meningitis, Haemophilus",
+              "Meningitis, Meningococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3523458/"
+          },
+          {
+            "pmid": "12887674",
+            "title": "Red eyes as the initial presentation of systemic meningococcal infection.",
+            "abstract": "The present paper is a report of a 14-month-old boy who presented with fever, coryzal symptoms and red eyes. The patient developed a generalized tonic clonic convulsion on day 2 of his illness. Ophthalmological assessment demonstrated bilateral hypopyon and vitreous opacity resulting from endophthalmitis. Cerebrospinal fluid was positive for Neisseria meningitidis (A, C, Y, W 135) by latex agglutination. He was treated with high dose intravenous cefotaxime and intravitreal ceftazidime. He made good recovery and his vision was preserved. In view of the potential morbidity and mortality associated with systemic meningococcal infection, the presence of red eye and hypopyon provides important diagnostic clues indicating the need to investigate beyond superficial conjunctivitis. It should prompt the clinician to recognize endopthalmitis early and accurately diagnose this serious disease.",
+            "journal": "Journal of paediatrics and child health",
+            "year": "2003",
+            "authors": [
+              "Yeung W L",
+              "Yam K L",
+              "Chan W M",
+              "Hui J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Cefotaxime",
+              "Ceftazidime",
+              "Endophthalmitis",
+              "Humans",
+              "Infant",
+              "Male",
+              "Meningococcal Infections",
+              "Neisseria meningitidis",
+              "Vitreous Body"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12887674/"
+          },
+          {
+            "pmid": "3523457",
+            "title": "Ceftazidime vs. standard therapy for pediatric meningitis: therapeutic, pharmacologic and epidemiologic observations.",
+            "abstract": "One hundred patients ages 1 month to 15 years received either ceftazidime (CZ) at a dose of 150 mg/kg/day divided every 8 hours or conventional treatment with chloramphenicol and ampicillin (CA). Seventy-eight had isolates recovered from the cerebrospinal fluid: 40 (51%) were Haemophilus influenzae (all ampicillin-susceptible); 16 (21%) were Streptococcus pneumoniae; 14 (18%) were Neisseria meningitidis; 3 (4%) were salmonellae; 1 (2%) was Pseudomonas; and 1 (2%) was Group B Streptococcus. Six patients with negative cerebrospinal fluid culture had positive latex agglutination (two H. influenzae, three N. meningitidis, one S. pneumoniae). Sixty-one patients had positive blood cultures. CZ inhibited 100% of H. influenzae at 0.78 micrograms/ml, S. pneumoniae at 0.39, N. meningitidis at 0.04 and salmonellae at 0.39 micrograms/ml. The mean peak serum concentration of CZ was 36.4 micrograms/ml with a mean cerebrospinal fluid level of 7.4 micrograms/ml. If one eliminates from the statistics t",
+            "journal": "Pediatric infectious disease",
+            "year": "1986",
+            "authors": [
+              "Rodriguez W J",
+              "Puig J R",
+              "Khan W N",
+              "Feris J",
+              "Gold B G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Ampicillin",
+              "Ceftazidime",
+              "Child",
+              "Child, Preschool",
+              "Chloramphenicol",
+              "Clinical Trials as Topic",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3523457/"
+          },
+          {
+            "pmid": "28859312",
+            "title": "Phase variation of DNA methyltransferases and the regulation of virulence and immune evasion in the pathogenic Neisseria.",
+            "abstract": "The pathogenic Neisseria provide textbook examples of phase variation: the high frequency, random and reversible switching of gene expression. Typically, phase variable gene expression is observed in genes required for the expression of surface proteins and carbohydrate structures. All Neisseria gonorrhoeae and N. meningitidis strains also express phase variable DNA methyltransferases that are components of DNA restriction-modification systems. Phase variation of these DNA methyltransferases (Mod) alters global DNA methylation patterns. The change in DNA methylation due to phase variation events alters expression of a regulon of genes, called a phasevarion, and results in differentiation of the population into cells with two distinct phenotypes. For example, in N. meningitidis switching of the modA11 phasevarion alters expression of immunogenic outer membrane proteins such as lactoferrin-binding protein, and also modulates sensitivity to ceftazidime and ciprofloxacin. The modD1 phaseva",
+            "journal": "Pathogens and disease",
+            "year": "2017",
+            "authors": [
+              "Seib Kate L",
+              "Jen Freda E-C",
+              "Scott Adeana L",
+              "Tan Aimee",
+              "Jennings Michael P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Outer Membrane Proteins",
+              "Ceftazidime",
+              "Ciprofloxacin",
+              "DNA Methylation",
+              "DNA Modification Methylases",
+              "Epigenesis, Genetic",
+              "Gene Expression Regulation, Bacterial",
+              "Gonorrhea",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28859312/"
+          },
+          {
+            "pmid": "9850506",
+            "title": "A ring hypopyon in a patient with meningococcal endophthalmitis: a case report and review of the literature.",
+            "abstract": "",
+            "journal": "Journal of pediatric ophthalmology and strabismus",
+            "year": "1998",
+            "authors": [
+              "Gonzalez G A",
+              "Whitcher J P",
+              "Irvine A R",
+              "O'Brien J M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abscess",
+              "Anterior Chamber",
+              "Ceftazidime",
+              "Child",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Endophthalmitis",
+              "Eye Infections, Bacterial",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9850506/"
+          },
+          {
+            "pmid": "11237833",
+            "title": "Active immunization with a detoxified Escherichia coli J5 lipopolysaccharide group B meningococcal outer membrane protein complex vaccine protects animals from experimental sepsis.",
+            "abstract": "The passive infusion of antibodies elicited in rabbits with a detoxified J5 lipopolysaccharide (LPS)/group B meningococcal outer membrane protein complex vaccine protected neutropenic rats from heterologous lethal gram-negative bacterial infection. In this study, active immunization was studied in neutropenic rats infected with Pseudomonas aeruginosa, in the presence or absence of ceftazidime therapy, and with Klebsiella pneumoniae. This vaccine elicited a > 200-fold increase in anti-J5 LPS antibody, which remained elevated throughout the duration of cyclophosphamide-induced neutropenia and for < or = 3 months. There was improved survival among immunized versus control animals: 48% (13/28) versus 7% (2/29) in Pseudomonas-challenged rats; 61% (11/18) versus 0% (0/10) in Pseudomonas- and ceftazidime-treated rats; and 64% (9/14) versus 13% (2/15) in Klebsiella-challenged rats (P < 0.01 for each comparison). Immunized animals had lower levels of bacteria in organs and lower levels of circu",
+            "journal": "The Journal of infectious diseases",
+            "year": "2001",
+            "authors": [
+              "Cross A S",
+              "Opal S M",
+              "Warren H S",
+              "Palardy J E",
+              "Glaser K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antibodies, Bacterial",
+              "Bacterial Outer Membrane Proteins",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Cyclophosphamide",
+              "Disease Models, Animal",
+              "Disease-Free Survival",
+              "Endotoxins",
+              "Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11237833/"
+          },
+          {
+            "pmid": "25118647",
+            "title": "In silico analysis of different generation β lactams antibiotics with penicillin binding protein-2 of Neisseria meningitidis for curing meningococcal disease.",
+            "abstract": "Neisseria meningitidis is a gram negative, diplococcic pathogen responsible for the meningococcal disease and fulminant septicemia. Penicillin-binding proteins-2 (PBPs) is crucial for the cell wall biosynthesis during cell proliferation of N. meningitidis and these are the target for β-lactam antibiotics. For many years penicillin has been recognized as the antibiotic for meningococcal disease but the meningococcus has seemed to be antibiotic resistance. In the present work we have verified the molecular interaction of Penicillin binding protein-2 N. meningitidis to different generation of β-lactam antibiotics and concluded that the third generation of β-lactam antibiotics shows efficient binding with Penicillin binding protein-2 of N. meningitidis. On the basis of binding efficiency and inhibition constant, ceftazidime emerged as the most efficient antibiotic amongst the other advanced β-lactam antibiotics against Penicillin-binding protein-2 of N. meningitidis.",
+            "journal": "Interdisciplinary sciences, computational life sciences",
+            "year": "2014",
+            "authors": [
+              "Tripathi Vijay",
+              "Tripathi Pooja",
+              "Srivastava Navita",
+              "Gupta Dwijendra"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amino Acid Sequence",
+              "Anti-Bacterial Agents",
+              "Bacterial Proteins",
+              "Ceftazidime",
+              "Cell Wall",
+              "Computer Simulation",
+              "Drug Resistance, Microbial",
+              "Humans",
+              "Meningococcal Infections",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25118647/"
+          },
+          {
+            "pmid": "15008315",
+            "title": "Purpura fulminans due to E. coli septicemia.",
+            "abstract": "",
+            "journal": "Wiener klinische Wochenschrift",
+            "year": "2004",
+            "authors": [
+              "Huemer Georg M",
+              "Bonatti Hugo",
+              "Dunst Karin M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Ceftazidime",
+              "Debridement",
+              "Diagnosis, Differential",
+              "Drug Therapy, Combination",
+              "Escherichia coli Infections",
+              "Floxacillin",
+              "Hepatolenticular Degeneration",
+              "Humans",
+              "Liver Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15008315/"
+          },
+          {
+            "pmid": "17387516",
+            "title": "Orchitis as a rare complication of meningococcemia in a young infant.",
+            "abstract": "",
+            "journal": "European journal of pediatrics",
+            "year": "2007",
+            "authors": [
+              "Tsai Ming-Horng",
+              "Lien Reyin",
+              "Chao Hsun-Chin",
+              "Huang Hsuan-Rong",
+              "Chu Shih-Ming"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Humans",
+              "Infant",
+              "Male",
+              "Meningococcal Infections",
+              "Orchitis",
+              "Ultrasonography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17387516/"
+          },
+          {
+            "pmid": "20118079",
+            "title": "Neonatal intrauterine infection with Neisseria meningitidis B.",
+            "abstract": "",
+            "journal": "Clinical pediatrics",
+            "year": "2010",
+            "authors": [
+              "Kurlenda Julianna",
+              "Kaminska-Pabich Agata",
+              "Grinholc Mariusz"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Cefotaxime",
+              "Ceftazidime",
+              "Cesarean Section",
+              "Clavulanic Acid",
+              "Female",
+              "Fever",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20118079/"
+          },
+          {
+            "pmid": "2510596",
+            "title": "Comparative activity in vitro of 16 antimicrobial agents against penicillin-susceptible meningococci and meningococci with diminished susceptibility to penicillin.",
+            "abstract": "Broad-spectrum cephalosporins were very active against strains of Neisseria meningitidis with both penicillin susceptibility and diminished penicillin susceptibility. Ceftriaxone was the most active antibiotic. Increases in MIC for 90% of meningococci with diminished susceptibility to penicillin of greater than or equal to 16-fold were observed for amdinocillin, cefuroxime, aztreonam, and imipenem; 2-fold increases were observed for ceftazidime, mezlocillin, and piperacillin. No differences were observed for non-beta-lactam antibiotics.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1989",
+            "authors": [
+              "Pérez Trallero E",
+              "Garcia Arenzana J M",
+              "Ayestaran I",
+              "Muñoz Baroja I"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Humans",
+              "Meningitis, Meningococcal",
+              "Microbial Sensitivity Tests",
+              "Neisseria meningitidis",
+              "Penicillin Resistance"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2510596/"
+          },
+          {
+            "pmid": "9549552",
+            "title": "The choice of antibacterial drugs.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "1998",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Anti-Bacterial Agents",
+              "Cefotaxime",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Costs and Cost Analysis",
+              "Cross Infection",
+              "Drug Resistance, Microbial",
+              "Drug Resistance, Multiple"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9549552/"
+          },
+          {
+            "pmid": "2582913",
+            "title": "[The penetration of cephalosporins across the blood-brain barrier and its clinical significance].",
+            "abstract": "The penetration of Cefuroxime (CXM), Ceftazidime (CTZ), Cefotaxime (CTX), Ceftizoxime (CZX), and Ceftriaxone (CTRX) across the blood-brain barrier was studied in 119 patients with or without meningitis after an intravenous injection of 2 grams. Cephalosporins were undetectable or their concentrations very low in the cerebrospinal fluid (CSF), when there was no inflammation in the meninges. On the contrary, the mean CSF concentrations of cephalosporins were 2.21-5.36 micrograms/ml and the CSF/serum ratios 3.73-31.80% in acute stage of purulent meningitis. The CSF levels of all the five cephalosporins were much higher than the mean MICs of the common pathogens of bacterial meningitis as well as that of Enterobacteriaceae. It is thus shown that these five new cephalosporins are useful for treatment of meningitis including those caused by gram-negative bacilli.",
+            "journal": "Zhonghua nei ke za zhi",
+            "year": "1989",
+            "authors": [
+              "Zhang Y Y",
+              "Wu P J",
+              "Zhang Q"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Blood-Brain Barrier",
+              "Cephalosporins",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2582913/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "staphylococcal pneumonia",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9722468",
+            "title": "Antibiotic use in neonatal sepsis.",
+            "abstract": "Neonatal sepsis is a life-threatening emergency and any delay in treatment may cause death. Initial signs of neonatal sepsis are slight and nonspecific. Therefore, in suspected sepsis, two or three days empirical antibiotic therapy should begin immediately after cultures have been obtained without awaiting the results. Antibiotics should be reevaluated when the results of the cultures and susceptibility tests are available. If the cultures are negative and the clinical findings are well, antibiotics should be stopped. Because of the nonspecific nature of neonatal sepsis, especially in small preterm infants, physicians continue antibiotics once started. If a baby has pneumonia or what appears to be sepsis, antibiotics should not be stopped, although cultures are negative. The duration of therapy depends on the initial response to the appropriate antibiotics but should be 10 to 14 days in most infants with sepsis and minimal or absent focal infection. In infants who developed sepsis duri",
+            "journal": "The Turkish journal of pediatrics",
+            "year": "1998",
+            "authors": [
+              "Yurdakök M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Drug Resistance, Microbial",
+              "Humans",
+              "Infant, Newborn",
+              "Infection Control",
+              "Microbial Sensitivity Tests",
+              "Risk Factors",
+              "Sepsis",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9722468/"
+          },
+          {
+            "pmid": "8150760",
+            "title": "A comparative study of cefepime and ceftazidime in the treatment of community-acquired lower respiratory tract infections.",
+            "abstract": "Antibiotic treatment for community-acquired pneumonia must target Gram-positive pathogens, especially frequently isolated organisms such as Streptococcus pneumoniae. The severity of community-acquired pneumonia is often related to underlying factors. Occasionally it may be complicated by staphylococcal or Gram-negative bacillary infection. We have compared the safety and efficacy of cefepime 1 g bd with ceftazidime 1 g tds as empirical treatment in adults with community-acquired lower respiratory tract infections (LRTIs). One hundred and thirty-one patients with moderate to severe LRTIs were randomized to two treatment groups: 87 received cefepime and 44 received ceftazidime. The treatment groups were comparable with regard to sex, age and treatment duration. Of the 116 pathogens isolated, 57 were Gram-positive (46 strains of S. pneumoniae) and 59 were Gram-negative (33 strains of Haemophilus influenzae). Of the 111 patients evaluated, clinical cure rates were 87% (65/75) in the cefepi",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1993",
+            "authors": [
+              "Léophonte P",
+              "Bertrand A",
+              "Nouvet G",
+              "Muir J F",
+              "Lucht F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Bacteria",
+              "Cefepime",
+              "Ceftazidime",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8150760/"
+          },
+          {
+            "pmid": "18572975",
+            "title": "Ceftobiprole: a review of a broad-spectrum and anti-MRSA cephalosporin.",
+            "abstract": "Ceftobiprole, an investigational cephalosporin, is currently in phase III clinical development. Ceftobiprole is a broad-spectrum cephalosporin with demonstrated in vitro activity against Gram-positive cocci, including meticillin-resistant Staphylococcus aureus (MRSA) and meticillin-resistant S. epidermidis, penicillin-resistant S. pneumoniae, Enterococcus faecalis, Gram-negative bacilli including AmpC-producing Escherichia coli and Pseudomonas aeruginosa, but excluding extended-spectrum beta-lactamase-producing strains. Like cefotaxime, ceftriaxone, ceftazidime, and cefepime, ceftobiprole demonstrates limited activity against anaerobes such as Bacteroides fragilis and non-fragilis Bacteroides spp. In single-step and serial passage in vitro resistance development studies, ceftobiprole demonstrated a low propensity to select for resistant subpopulations. Ceftobiprole, like cefepime, is a weak inducer and a poor substrate for AmpC beta-lactamases.Ceftobiprole medocaril, the prodrug of cef",
+            "journal": "American journal of clinical dermatology",
+            "year": "2008",
+            "authors": [
+              "Zhanel George G",
+              "Lam Ashley",
+              "Schweizer Frank",
+              "Thomson Kristjan",
+              "Walkty Andrew"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Cephalosporins",
+              "Drugs, Investigational",
+              "Humans",
+              "Methicillin Resistance",
+              "Microbial Sensitivity Tests",
+              "Staphylococcal Infections",
+              "Staphylococcus aureus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18572975/"
+          },
+          {
+            "pmid": "28069649",
+            "title": "Antimicrobial Activity of Ceftazidime-Avibactam against Gram-Negative Bacteria Isolated from Patients Hospitalized with Pneumonia in U.S. Medical Centers, 2011 to 2015.",
+            "abstract": "Bacterial isolates were collected from patients hospitalized with pneumonia (PHP), including ventilator-associated pneumonia (VAP), from 76 U.S. medical centers in 2011 to 2015. The Gram-negative organisms (n = 11,185, including 1,097 from VAP) were tested for susceptibility to ceftazidime-avibactam and comparators by the broth microdilution method. β-Lactamase-encoding genes were screened using a microarray-based assay on selected isolates. Pseudomonas aeruginosa and Klebsiella spp. were the most common Gram-negative bacteria isolated from PHP and VAP. Ceftazidime-avibactam was very active against P. aeruginosa (n = 3,402; MIC50/MIC90, 2 and 4 μg/ml; 96.6% susceptible), including isolates nonsusceptible to meropenem (86.3% susceptible to ceftazidime-avibactam), piperacillin-tazobactam (85.6% susceptible), or ceftazidime (80.6% susceptible). Ceftazidime-avibactam was also highly active against Enterobacteriaceae (MIC50/MIC90, 0.12 and 0.5 μg/ml; 99.9% susceptible), including carbapenem",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2017",
+            "authors": [
+              "Sader Helio S",
+              "Castanheira Mariana",
+              "Flamm Robert K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Academic Medical Centers",
+              "Anti-Bacterial Agents",
+              "Azabicyclo Compounds",
+              "Ceftazidime",
+              "Drug Combinations",
+              "Drug Resistance, Multiple, Bacterial",
+              "Gene Expression",
+              "Hospitalization",
+              "Humans",
+              "Klebsiella"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28069649/"
+          },
+          {
+            "pmid": "3540345",
+            "title": "[Fundamental and clinical studies on ceftazidime in neonates and premature infants].",
+            "abstract": "Ceftazidime (CAZ) was administered to 34 full-term and premature infants aged 0-27 days with various bacterial infections in a dose of 10 or 20 mg/kg by intravenous bolus injection, and plasma concentrations and urinary recovery rates in these subjects during recovery periods were studied. Because of the small number of the cases recruited, neonates were not divided into the full-term and the premature group, but into 3 groups based on day-age: 0-3 days, 4-7 days, and 8 days or older. Concentrations and rates of transfer of CAZ into cerebrospinal fluid (CSF) were determined in 2 cases, and biliary concentrations in another case. A clinical evaluation of CAZ was performed in 12 male and 6 female infants aged 1 day to 4 months and 19 days, including 2 each with purulent meningitis, pneumonia and pyelonephritis, 3 with septicemia, 1 each with septicemia suspected, cholangitis, osteomyelitis, bronchopneumonia, staphylococcal scaled skin syndrome, and acute enterocolitis and 3 for prophylac",
+            "journal": "The Japanese journal of antibiotics",
+            "year": "1986",
+            "authors": [
+              "Toyonaga Y",
+              "Sugita M",
+              "Nakamura H",
+              "Kawamura K",
+              "Seo K"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bacterial Infections",
+              "Ceftazidime",
+              "Drug Evaluation",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Infant, Premature",
+              "Infusions, Intravenous",
+              "Injections, Intravenous",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3540345/"
+          },
+          {
+            "pmid": "3279487",
+            "title": "Use of animal models in evaluation of the quinolones.",
+            "abstract": "Discriminative animal models of infection are important in helping to define the role of new antibacterial drugs in the treatment of human diseases. Several animal models have been used to compare the efficacies of quinolones with those of standard therapies against selected bacterial pathogens. In animal models of endocarditis, pefloxacin, enoxacin, and ciprofloxacin have been shown to be equivalent to standard therapies against methicillin-sensitive Staphylococcus aureus and as effective as vancomycin against methicillin-resistant strains. Difloxacillin has been shown to be equivalent to vancomycin in a model of osteomyelitis due to S. aureus. Ciprofloxacin is as effective as the combination of ceftazidime and tobramycin in a model of pseudomonal meningitis, although the levels of ciprofloxacin (6 mg/L) in serum required to produce a bactericidal effect in the cerebrospinal fluid are higher than those usually obtained in humans. Ciprofloxacin and other quinolones are also effective t",
+            "journal": "Reviews of infectious diseases",
+            "year": "1988",
+            "authors": [
+              "Sande M A",
+              "Brooks-Fournier R A",
+              "Gerberding J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents",
+              "Disease Models, Animal",
+              "Drug Evaluation",
+              "Metabolic Clearance Rate",
+              "Pseudomonas Infections",
+              "Quinolines",
+              "Staphylococcal Infections",
+              "Therapeutic Equivalency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3279487/"
+          },
+          {
+            "pmid": "3578331",
+            "title": "Efficacy of ciprofloxacin in animal models of infection: endocarditis, meningitis, and pneumonia.",
+            "abstract": "Animal models of infection are very useful tools for identifying those situations in which antibacterial drugs, including the quinolones, may play special roles, i.e., for positioning a drug correctly for its role in the treatment of human disease. Ciprofloxacin has been studied extensively in discriminative animal models of infection, and its efficacy in the treatment of these infections has been compared with that of standard therapy. In a rabbit model of staphylococcal endocarditis, ciprofloxacin was as effective as nafcillin alone, as well as nafcillin and gentamicin in combination, in treating rabbits with methicillin-susceptible Staphylococcus aureus endocarditis. Additionally, its activity was equal to that of vancomycin in reducing vegetation titers in rabbits with methicillin-resistant staphylococcal endocarditis. In a rabbit model of pseudomonal meningitis, ciprofloxacin was as effective as the combination of ceftazidime and tobramycin in lowering bacterial titers. However, i",
+            "journal": "The American journal of medicine",
+            "year": "1987",
+            "authors": [
+              "Sande M A",
+              "Brooks-Fournier R A",
+              "Gerberding J L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Ciprofloxacin",
+              "Disease Models, Animal",
+              "Drug Evaluation, Preclinical",
+              "Endocarditis, Bacterial",
+              "Guinea Pigs",
+              "Meningitis",
+              "Pneumonia",
+              "Pseudomonas Infections",
+              "Rabbits"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3578331/"
+          },
+          {
+            "pmid": "25310945",
+            "title": "Etiological factors causing lower respiratory tract infections isolated from hospitalized patients.",
+            "abstract": "Lower respiratory tract infections (LRTI) account for 20-30 % of all hospital-acquired contagions. They are characterized by high mortality of hospitalized patients. The most serious form of LRTI is pneumonia, and the most common etiological factors in such cases are bacteria. The article gives the analysis of bacterial flora samples obtained from lower respiratory tract of hospitalized patients. In vitro susceptibility of pathogens to selected antibiotics has also been assessed. We carried out a retrospective analysis of 1,171 bacterial strains isolated from 1,171 patients treated in clinics of the Military Institute of Medicine in Warsaw, Poland. In most cases the samples were collected from an endotracheal or tracheostomic tube (71.5 %) and from bronchoalveolar lavage (21.7 %). The most commonly isolated pathogens included Acinetobacter baumannii (35.8 %), Staphylococcus aureus (27.6 %), Klebsiella pneumoniae (19.4 %), and Pseudomonas aeruginosa (16.2 %). Multidrug-resistant gram-ne",
+            "journal": "Advances in experimental medicine and biology",
+            "year": "2015",
+            "authors": [
+              "Guzek A",
+              "Rybicki Z",
+              "Korzeniewski K",
+              "Mackiewicz K",
+              "Saks E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acinetobacter baumannii",
+              "Anti-Bacterial Agents",
+              "Bacterial Typing Techniques",
+              "Bronchoalveolar Lavage Fluid",
+              "Cross Infection",
+              "Drug Resistance, Multiple, Bacterial",
+              "Gram-Negative Bacterial Infections",
+              "Humans",
+              "Intubation, Intratracheal",
+              "Klebsiella pneumoniae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25310945/"
+          },
+          {
+            "pmid": "31537511",
+            "title": "The clinical and epidemiological risk factors of infections due to multi-drug resistant bacteria in an adult intensive care unit of University Hospital Center in Marrakesh-Morocco.",
+            "abstract": "Intensive care units (ICUs) are considered epicenters of antibiotic resistance. The aim of this study is to determine clinical risk factors, epidemiology and the causative agents of multi-drug resistant bacteria in the ICU of the University Hospital in Marrakesh-Morocco.",
+            "journal": "Journal of infection and public health",
+            "year": "2020",
+            "authors": [
+              "El Mekes Adel",
+              "Zahlane Kawtar",
+              "Ait Said Loubna",
+              "Tadlaoui Ouafi Ahmed",
+              "Barakate Mustapha"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acinetobacter Infections",
+              "Acinetobacter baumannii",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Case-Control Studies",
+              "Cross Infection",
+              "Drug Resistance, Multiple, Bacterial",
+              "Enterobacteriaceae",
+              "Enterobacteriaceae Infections",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31537511/"
+          },
+          {
+            "pmid": "17888153",
+            "title": "In vitro evaluation of antibiotics' combinations for empirical therapy of suspected methicillin resistant Staphylococcus aureus severe respiratory infections.",
+            "abstract": "Methicillin resistant Staphylococcus aureus (MRSA) is an increasingly common cause of nosocomial infections, causing severe morbidity and mortality worldwide, and accounting in some hospitals for more than 50% of all S. aureus diseases. Treatment of infections caused by resistant bacterial pathogens mainly relies on two therapeutic modalities: development of new antimicrobials and use of combinations of available antibiotics. Combinations of antibiotics used in the empiric treatment of infections with suspected methicillin resistant Staphylococcus aureus etiology were investigated.",
+            "journal": "BMC infectious diseases",
+            "year": "2007",
+            "authors": [
+              "Drago Lorenzo",
+              "De Vecchi Elena",
+              "Nicola Lucia",
+              "Gismondo Maria Rita"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amikacin",
+              "Anti-Bacterial Agents",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Levofloxacin",
+              "Methicillin Resistance",
+              "Microbial Sensitivity Tests",
+              "Mutation",
+              "Ofloxacin",
+              "Pneumonia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17888153/"
+          },
+          {
+            "pmid": "15116294",
+            "title": "Relationship between fluoroquinolone area under the curve: minimum inhibitory concentration ratio and the probability of eradication of the infecting pathogen, in patients with nosocomial pneumonia.",
+            "abstract": "Our objective was to prospectively determine the factors influencing the probability of a good microbiological or clinical outcome in patients with nosocomial pneumonia treated with a fluoroquinolone. Levofloxacin was administered as an infusion of 500 mg/h for 1.5 h (total dose, 750 mg). For patients with Pseudomonas aeruginosa or methicillin-resistant Staphylococcus aureus, a second drug was added (ceftazidime or piperacillin/tazobactam for P. aeruginosa and vancomycin for methicillin-resistant S. aureus). Population pharmacokinetic studies of 58 patients demonstrated that this population handled the drug differently from populations of volunteers. Multivariate logistic regression analysis (n=47 patients) demonstrated that only the age of the patient and the achievement of an area under the curve: minimum inhibitory concentration ratio of > or =87 had a significant effect on eradication of the pathogen (P<.001). Achieving the breakpoint made the patient 4 times more likely to achieve",
+            "journal": "The Journal of infectious diseases",
+            "year": "2004",
+            "authors": [
+              "Drusano George L",
+              "Preston Sandra L",
+              "Fowler Cynthia",
+              "Corrado Michael",
+              "Weisinger Barbara"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Infective Agents",
+              "Area Under Curve",
+              "Cross Infection",
+              "Female",
+              "Fluoroquinolones",
+              "Humans",
+              "Levofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15116294/"
+          },
+          {
+            "pmid": "7474582",
+            "title": "[Combination therapy with arbekacin and fosfomycin against postoperative severe mixed-pneumonia of MRSA in primary lung cancer patients].",
+            "abstract": "We experienced successful treatment of postoperative severe pneumonia of Methicillin-resistant Staphylococcus aureus (MRSA) with combination therapy of Arbekacin (ABK) and Fosfomycin (FOM) in three lung cancer patients. Case 1 was a advanced age of seventy-nine man who had had right upper lobectomy. Case 2 was a 61-year-old man who had had left lower lobectomy and extended bilateral mediastinal lymph-node dissection through the median sternotomy. And case 3 was a 59-year-old man who had suffered from pulmonary embolism after right pneumonectomy and partial resection of left atrium and superior vena cava. All cases were immuno-compromised patients and super-infected with Gram-negative rods, and Pseudomonas aeruginosa in case 1 and case 3. Clinical symptoms were improved after the start of administration of ABK and FOM inspite of ineffectiveness of prior treatment with other antibiotics. We added staggered chemotherapy of Sulbactam/Cefoperazone (SBT/CPZ) and Ceftazidime (CAZ) for case 1 ",
+            "journal": "Kyobu geka. The Japanese journal of thoracic surgery",
+            "year": "1995",
+            "authors": [
+              "Harada R",
+              "Miyamoto H",
+              "Sakao Y",
+              "Hamada T",
+              "Hata E"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Dibekacin",
+              "Drug Therapy, Combination",
+              "Fosfomycin",
+              "Humans",
+              "Immunocompromised Host",
+              "Lactams",
+              "Lung Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7474582/"
+          },
+          {
+            "pmid": "21482572",
+            "title": "Comparative ceftaroline activity tested against pathogens associated with community-acquired pneumonia: results from an international surveillance study.",
+            "abstract": "To document the spectrum of activity of ceftaroline, the active form of the prodrug, ceftaroline fosamil, a new cephalosporin with anti-methicillin-resistant staphylococcal activity, against a surveillance collection of clinical isolates obtained from the USA and Europe during 2008-09.",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "2011",
+            "authors": [
+              "Jones Ronald N",
+              "Farrell David J",
+              "Mendes Rodrigo E",
+              "Sader Helio S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Europe",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Pneumonia, Bacterial",
+              "United States",
+              "Ceftaroline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21482572/"
+          },
+          {
+            "pmid": "7799054",
+            "title": "The choice of empirical antibiotic therapy for nosocomial pneumonia.",
+            "abstract": "Nosocomial pneumonia has the highest crude mortality rate of all hospital-acquired infections. The choice of empirical antibiotic therapy can be based on in vitro sensitivities of sputum bacterial isolates. Organisms recovered from purulent sputum of 500 intensive care unit (ICU) patients from five hospitals in Louisville, Kentucky, had antibiotic sensitivities measured by microbroth dilution. The most common isolates were Staphylococcus aureus (26.6%), Pseudomonas species (24.8%), Enterobacter species (11.8%), Escherichia coli (7.2%), Klebsiella species (7.0%), Streptococcus species (4.4%) and Serratia species (4.0%). These organisms were tested for susceptibility to amikacin, ciprofloxacin, imipenem/cilastatin, ticarcillin/clavulanate, piperacillin, ceftriaxone and ceftazidime. The antibiotics effective against more than 80% of the seven most common isolates included amikacin (97%), imipenem (94%), ciprofloxacin (92%) and ticarcillin/clavulanate (84%). These sensitivity patterns may ",
+            "journal": "Journal of chemotherapy (Florence, Italy)",
+            "year": "1994",
+            "authors": [
+              "Ramirez J A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Cross Infection",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Methicillin Resistance",
+              "Microbial Sensitivity Tests",
+              "Pneumonia, Bacterial",
+              "Pneumonia, Staphylococcal",
+              "Sputum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7799054/"
+          },
+          {
+            "pmid": "8072182",
+            "title": "[Clinical analysis of MRSA pneumonia. Niigata Research Group of MRSA.ABK].",
+            "abstract": "Aged or immuno-compromised patients were mostly affected, by pneumonia caused by infection of MRSA, and more than half of the cases were superinfected with glucose-nonfermentative Gram-negative rods including Pseudomonas aeruginosa. These patients were treated with a monotherapy of arbekacin (ABK) by intravenous drip administration or with a combination of ABK and imipenem/cilastatin, ceftazidime or antifungals. The clinical efficiencies were 55.6% in 11 monotherapy cases and 83.3% in combined therapy. MRSA was eradicated in 31.9% of the patients. These results are comparable with, or superior to the vancomycin therapy in the treatment of MRSA pneumonia. When MRSA is isolated from sputum of pneumonia patients, the discrimination between colonization and infection is important, but the diagnosis is very difficult in many clinical cases before the initiation of chemotherapy. The number of bacteria and the grade of inflammation should be carefully scored before starting a chemotherapy.",
+            "journal": "The Japanese journal of antibiotics",
+            "year": "1994",
+            "authors": [
+              "Arakawa M",
+              "Wada K",
+              "Sega H",
+              "Yoshikawa H",
+              "Honma T"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Aminoglycosides",
+              "Anti-Bacterial Agents",
+              "Dibekacin",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Japan",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8072182/"
+          },
+          {
+            "pmid": "8355313",
+            "title": "Empiric monotherapy versus combination therapy of nosocomial pneumonia in trauma patients.",
+            "abstract": "Combination therapy for nosocomial pneumonia with a beta-lactam and aminoglycoside is widely accepted because of synergy and reduction of resistant bacteria. This prospective study of 109 trauma patients (94 blunt, 15 penetrating) with nosocomial pneumonia was performed in consecutive phases. In phase 1, patients were randomized to an anti-pseudomonal third-generation cephalosporin--cefoperazone or ceftazidime. Gentamicin was added to each regimen in phase 2. The mean age of the patients was 37 years, the mean ISS was 31, and there were no differences among the four treatment groups relative to associated injuries. Patients receiving monotherapy had a 56% cure rate compared with 31% for combination therapy (p < 0.04). Persistence rates were similar in these two groups (15% and 20%), but superinfection was significantly higher in the combination group (49% vs. 28%; p < 0.04). The predominant superinfecting organism was methicillin-resistant Staphylococcus aureus (MRSA). Nine patients di",
+            "journal": "The Journal of trauma",
+            "year": "1993",
+            "authors": [
+              "Croce M A",
+              "Fabian T C",
+              "Stewart R M",
+              "Pritchard F E",
+              "Minard G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Cefoperazone",
+              "Ceftazidime",
+              "Cross Infection",
+              "Drug Therapy, Combination",
+              "Female",
+              "Gentamicins",
+              "Hospital Mortality"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8355313/"
+          },
+          {
+            "pmid": "1590685",
+            "title": "Effect of protein binding in serum on therapeutic efficacy of cephem antibiotics.",
+            "abstract": "The effect of protein binding in serum of eight cephem antibiotics (ceftazidime, ceftizoxime, cefotiam, cefmetazole, cefpiramide, cefazolin, cefuzonam, ceftriaxone) on their therapeutic efficacies was examined in mice with experimentally induced intraperitoneal infections or pneumonia. The relationship among therapeutic activity, in vitro antibacterial activity, total or free (unbound) levels in serum, and homogenized whole lung levels was investigated. In the intraperitoneal infection caused by Staphylococcus aureus or Klebsiella pneumoniae, the 50% effective doses (ED50s) of the cephem antibiotics correlated with the area under the concentration-time curve (AUC) values of free levels in serum and the MICs but not with those of total levels in serum. A linear relationship was seen between 1/ED50 values and AUC of free levels in serum/MIC values. On the other hand, in mice with pneumonia caused by K. pneumoniae, the number of bacteria in the lung closely correlated with the AUC of the ",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1992",
+            "authors": [
+              "Tawara S",
+              "Matsumoto S",
+              "Kamimura T",
+              "Goto S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Blood Proteins",
+              "Cephalosporins",
+              "Klebsiella Infections",
+              "Klebsiella pneumoniae",
+              "Male",
+              "Mice",
+              "Microbial Sensitivity Tests",
+              "Protein Binding",
+              "Staphylococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1590685/"
+          },
+          {
+            "pmid": "16236955",
+            "title": "Impact of clinical guidelines in the management of severe hospital-acquired pneumonia.",
+            "abstract": "To asses the impact of locally developed antimicrobial treatment guidelines in the initial empiric treatment of ICU patients with severe hospital-acquired pneumonia (HAP).",
+            "journal": "Chest",
+            "year": "2005",
+            "authors": [
+              "Soo Hoo Guy W",
+              "Wen Y Eugenia",
+              "Nguyen Trung V",
+              "Goetz Matthew Bidwell"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Clinical Trials as Topic",
+              "Cohort Studies",
+              "Cross Infection",
+              "Hospitals",
+              "Humans",
+              "Intensive Care Units",
+              "Pneumonia",
+              "Practice Guidelines as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16236955/"
+          },
+          {
+            "pmid": "12695638",
+            "title": "[The impact of antibiotic use on hospital-acquired pneumonia: data of etiology tests].",
+            "abstract": "To investigate most common pathogens isolated from the hospital-acquired pneumonia patients bronchoalveolar lavage fluid in Kaunas University of Medicine Hospital according to the previous antibiotic use and to estimate pathogens antibacterial susceptibility.",
+            "journal": "Medicina (Kaunas, Lithuania)",
+            "year": "2003",
+            "authors": [
+              "Vitkauskiene Astra",
+              "Sakalauskas Raimundas",
+              "Dudzevicius Vytis"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acinetobacter",
+              "Acinetobacter Infections",
+              "Amikacin",
+              "Ampicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Bacteria",
+              "Bronchoalveolar Lavage Fluid",
+              "Ceftazidime",
+              "Cefuroxime"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12695638/"
+          },
+          {
+            "pmid": "7927123",
+            "title": "[Fever and lung abscesses in anorexia nervosa after infusion therapy].",
+            "abstract": "A 26 year old female patient was admitted to our hospital because of septic temperatures and chills. In the patient's history renal insufficiency has been known for several years due to agenesia of the right and pyelonephritic renal congestion of the left kidney. Long lasting anorexia nervosa had been treated by psychotherapeutical interventions for years and when failing it necessitated repeated intravenous nutrition by central venous lines. The prominent symptom of the intravenously treated young woman was fever up to 39.7 degrees C and pneumonia, which was considered by the first treating clinic to be caused directly by diminished immunoreactivity in malnutrition and preuremia. The chest X-ray confirmed pneumonia and revealed multiple abscesses in both lungs (Figure 1). After being transferred to our intensive care unit the pathophysiological context became obvious. From inspection (positive jugular pulsation), from auscultation (holosystolic murmur at the left parasternal border) t",
+            "journal": "Herz",
+            "year": "1994",
+            "authors": [
+              "Hoffmann J",
+              "Herzum M",
+              "Maisch B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anorexia Nervosa",
+              "Catheterization, Central Venous",
+              "Ceftazidime",
+              "Diagnosis, Differential",
+              "Drug Therapy, Combination",
+              "Echocardiography, Doppler, Color",
+              "Endocarditis, Bacterial",
+              "Female",
+              "Fever of Unknown Origin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7927123/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014320AZ",
+        "product": "CEF-4 1G INJECTION",
+        "active_ingredient": "CEFTAZIDIME[1G                            ]",
+        "generic_name": "Ceftazidime 1 g Injection",
+        "holder": "SPG PHARMA (MALAYSIA) SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-10-28",
+        "date_end": "2026-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014320AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014321AZ",
+        "product": "CEF-4 500MG INJECTION",
+        "active_ingredient": "CEFTAZIDIME[500MG                         ]",
+        "generic_name": "Ceftazidime 500 mg Injection",
+        "holder": "SPG PHARMA (MALAYSIA) SDN BHD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-10-28",
+        "date_end": "2026-10-28",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014321AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014526AZ",
+        "product": "CEFATUM INJECTION 2G",
+        "active_ingredient": "CEFTAZIDIME[2G                            ]",
+        "generic_name": "Ceftazidime 2 g Injection",
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-01",
+        "date_end": "2026-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014526AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20014525AZ",
+        "product": "CEFATUM INJECTION 1G",
+        "active_ingredient": "CEFTAZIDIME[1G                            ]",
+        "generic_name": "Ceftazidime 1 g Injection",
+        "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2021-12-01",
+        "date_end": "2026-12-01",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20014525AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020152AZ",
+        "product": "VAXCEL CEFTAZIDIME-1G INJECTION",
+        "active_ingredient": "CEFTAZIDIME[1G                            ]",
+        "generic_name": "Ceftazidime 1 g Injection",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-01-29",
+        "date_end": "2027-01-29",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020152AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20020153AZ",
+        "product": "VAXCEL CEFTAZIDIME-2G INJECTION",
+        "active_ingredient": "CEFTAZIDIME PENTAHYDRATE[2.329 g]",
+        "generic_name": "Ceftazidime 2 g Injection",
+        "holder": "KOTRA PHARMA (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2022-05-03",
+        "date_end": "2027-05-03",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20020153AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871020ACRZ",
+        "product": "FORTUM INJECTION 2G/VIAL",
+        "active_ingredient": "CEFTAZIDIME[2G/VIAL                       ]",
+        "generic_name": "Ceftazidime 2 g Injection",
+        "holder": "SANDOZ PRODUCTS MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-27",
+        "date_end": "2028-04-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871020ACRZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL19871019ACRZ",
+        "product": "FORTUM INJECTION 1G/VIAL",
+        "active_ingredient": "CEFTAZIDIME[=1G/VIAL                      ]",
+        "generic_name": "Ceftazidime 1 g Injection",
+        "holder": "SANDOZ PRODUCTS MALAYSIA SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2023-04-27",
+        "date_end": "2028-04-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL19871019ACRZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15055035AZ",
+        "product": "CEFTAZIDIME-ZHIJUN 1.0g Powder for Injection",
+        "active_ingredient": "CEFTAZIDIME PENTAHYDRATE[1.3gm;0]",
+        "generic_name": NaN,
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-27",
+        "date_end": "2030-05-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15055035AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL15055034AZ",
+        "product": "CEFTAZIDIME-ZHIJUN 500mg Powder for Injection",
+        "active_ingredient": "CEFTAZIDIME PENTAHYDRATE[647mg;0]",
+        "generic_name": NaN,
+        "holder": "MEDISPEC (M) SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-27",
+        "date_end": "2030-05-27",
+        "url": "https://npra.gov.my/index.php/search/product/MAL15055034AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL20126001ACZ",
+        "product": "Zavicefta (Ceftazidime 2g/Avibactam 0.5g) Powder for Concentrate for Solution for Infusion",
+        "active_ingredient": "Avibactam Sodium[550.7 mg],Ceftazidime Pentahydrate[2360.7 mg]",
+        "generic_name": NaN,
+        "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+        "description": "NEW CHEMICAL ENTITY",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-12-04",
+        "date_end": "2030-12-04",
+        "url": "https://npra.gov.my/index.php/search/product/MAL20126001ACZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00438",
+    "name": "Ceftazidime",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Ceftazidime"
+      },
+      "queried_at": "2026-03-04T16:00:49.301531",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ceftazidime"
+      },
+      "queried_at": "2026-03-04T16:00:51.806831",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "peritonitis"
+      },
+      "queried_at": "2026-03-04T16:00:53.004501",
+      "status": "success",
+      "result_count": 13,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "peritonitis"
+      },
+      "queried_at": "2026-03-04T16:00:57.451281",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "peritonitis"
+      },
+      "queried_at": "2026-03-04T16:01:02.229330",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:01:02.929104",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:01:06.494230",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:01:09.331564",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "endometritis"
+      },
+      "queried_at": "2026-03-04T16:01:10.149620",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "endometritis"
+      },
+      "queried_at": "2026-03-04T16:01:13.959951",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "endometritis"
+      },
+      "queried_at": "2026-03-04T16:01:17.652532",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "meningococcal infection"
+      },
+      "queried_at": "2026-03-04T16:01:18.221669",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "meningococcal infection"
+      },
+      "queried_at": "2026-03-04T16:01:24.121815",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "meningococcal infection"
+      },
+      "queried_at": "2026-03-04T16:01:28.132407",
+      "status": "success",
+      "result_count": 16,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "staphylococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:01:28.680030",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "staphylococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:01:33.767176",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ceftazidime",
+        "disease": "staphylococcal pneumonia"
+      },
+      "queried_at": "2026-03-04T16:01:36.014775",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:01:36.017223",
+    "version": "1.0"
+  }
+}

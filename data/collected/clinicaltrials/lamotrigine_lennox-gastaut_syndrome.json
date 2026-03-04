@@ -1,0 +1,49 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Lamotrigine",
+    "disease": "Lennox-Gastaut syndrome"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00395694",
+      "title": "Clinical Evaluation of BW430C in Epilepsy<Phase III Study>",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08-07",
+      "completion_date": "2009-03-26",
+      "country": "Japan",
+      "enrollment": 102,
+      "brief_summary": "To evaluate safety information of BW430C when administered using the lower starting doses and slower dose escalations as recommended Global Data Sheet",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Epilepsy with partial seizures\n* Tonic clonic seizures\n* Generalized seizures of Lennox-Gastaut\n* Subjects whose seizures are easily recognizable at least one seizure per month and counts for 8 consecutive weeks prior to the start of the study drug.\n* Concurrent AEDs: Subjects",
+      "endpoints": [
+        "Number of Participants With Any Rash Event (Including Stevens-Johnson Syndrome [SJS] and Any Other Serious Drug Eruption) During the Initial 8 Weeks of Study Treatment"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00395694"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01863602",
+      "title": "Special Drug Use Investigation for LAMICTAL (Long Term)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2009-04",
+      "completion_date": "2016-07",
+      "country": "N/A",
+      "enrollment": 850,
+      "brief_summary": "The objectives of this post-marketing surveillance (PMS) are to grasp the actual use of lamotrigine tablets to collect safety information in the long-term use according to seizure type and concomitant antiepileptic drug (AED), and to confirm its efficacy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with epilepsy with partial seizures, tonic-clonic seizuresm or generalized seizures of Lennox-Gastaut syndrome\n* Subjects who are treated with lamotrigine tablets\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "The incidence of adverse drug reactions",
+        "Occurrence of skin disorder after the start of treatment"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01863602"
+    }
+  ],
+  "timestamp": "2026-03-04T16:03:38.028866",
+  "success": true,
+  "error_message": null
+}

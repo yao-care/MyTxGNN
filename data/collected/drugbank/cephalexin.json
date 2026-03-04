@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Cephalexin"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00567",
+    "name": "Cephalexin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:57:21.865531",
+  "success": true,
+  "error_message": null
+}

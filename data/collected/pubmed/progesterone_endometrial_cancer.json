@@ -1,0 +1,621 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Progesterone",
+    "disease": "endometrial cancer",
+    "query_string": "Progesterone AND endometrial cancer"
+  },
+  "data": {
+    "query": "Progesterone AND endometrial cancer",
+    "results": [
+      {
+        "pmid": "32732107",
+        "title": "Progesterone and endometrial cancer.",
+        "abstract": "It is well established that unopposed estrogen, either endogenous or therapeutic, can induce endometrial hyperplasia and potentially endometrial cancer (EC). Anovulatory cycles, obesity, and insulin resistance are major risk factors for EC. Progestogen (progesterone and progestin), including levonorgestrel intrauterine device, are able to prevent or to treat hyperplasia, atypical hyperplasia, and even well-differentiated EC, as presented in this review. During menopausal hormone therapy, progestogens protect the endometrium against the proliferative effects of estrogens in women with a uterus. Whereas, recent epidemiologic data suggest that micronized progesterone (MP) is apparently safer for the breast, it could be less efficient than synthetic progestin on the endometrium. However, several studies from biopsies during treatment with MP do not show any increased risk of hyperplasia. Lack of compliance could explain the results on EC.",
+        "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+        "year": "2020",
+        "authors": [
+          "Gompel Anne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Endometrium",
+          "Estrogen Replacement Therapy",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Progesterone",
+          "Progestins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32732107/"
+      },
+      {
+        "pmid": "12117397",
+        "title": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial.",
+        "abstract": "Despite decades of accumulated observational evidence, the balance of risks and benefits for hormone use in healthy postmenopausal women remains uncertain.",
+        "journal": "JAMA",
+        "year": "2002",
+        "authors": [
+          "Rossouw Jacques E",
+          "Anderson Garnet L",
+          "Prentice Ross L",
+          "LaCroix Andrea Z",
+          "Kooperberg Charles"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Breast Neoplasms",
+          "Clinical Trials Data Monitoring Committees",
+          "Colorectal Neoplasms",
+          "Coronary Disease",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Fractures, Bone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12117397/"
+      },
+      {
+        "pmid": "35526471",
+        "title": "Reproductive and pregnancy outcomes of fertility-sparing treatments for early-stage endometrial cancer or atypical hyperplasia: A systematic review and meta-analysis.",
+        "abstract": "To report the pregnancy outcomes of women with prior endometrial cancer and endometrial hyperplasia managed with fertility-sparing treatments.",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2022",
+        "authors": [
+          "De Rocco Silvia",
+          "Buca Danilo",
+          "Oronzii Ludovica",
+          "Petrillo Marco",
+          "Fanfani Francesco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Female",
+          "Fertility Preservation",
+          "Humans",
+          "Hyperplasia",
+          "Intrauterine Devices, Medicated",
+          "Levonorgestrel",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35526471/"
+      },
+      {
+        "pmid": "28394884",
+        "title": "Long-term, hormone-responsive organoid cultures of human endometrium in a chemically defined medium.",
+        "abstract": "In humans, the endometrium, the uterine mucosal lining, undergoes dynamic changes throughout the menstrual cycle and pregnancy. Despite the importance of the endometrium as the site of implantation and nutritional support for the conceptus, there are no long-term culture systems that recapitulate endometrial function in vitro. We adapted conditions used to establish human adult stem-cell-derived organoid cultures to generate three-dimensional cultures of normal and decidualized human endometrium. These organoids expand long-term, are genetically stable and differentiate following treatment with reproductive hormones. Single cells from both endometrium and decidua can generate a fully functional organoid. Transcript analysis confirmed great similarity between organoids and the primary tissue of origin. On exposure to pregnancy signals, endometrial organoids develop characteristics of early pregnancy. We also derived organoids from malignant endometrium, and so provide a foundation to st",
+        "journal": "Nature cell biology",
+        "year": "2017",
+        "authors": [
+          "Turco Margherita Y",
+          "Gardner Lucy",
+          "Hughes Jasmine",
+          "Cindrova-Davies Tereza",
+          "Gomez Maria J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult Stem Cells",
+          "Cell Culture Techniques",
+          "Cell Differentiation",
+          "Cell Lineage",
+          "Cell Proliferation",
+          "Cells, Cultured",
+          "Culture Media",
+          "Decidua",
+          "Endometrial Neoplasms",
+          "Endometrium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28394884/"
+      },
+      {
+        "pmid": "23303565",
+        "title": "Progesterone action in endometrial cancer, endometriosis, uterine fibroids, and breast cancer.",
+        "abstract": "Progesterone receptor (PR) mediates the actions of the ovarian steroid progesterone, which together with estradiol regulates gonadotropin secretion, prepares the endometrium for implantation, maintains pregnancy, and differentiates breast tissue. Separation of estrogen and progesterone actions in hormone-responsive tissues remains a challenge. Pathologies of the uterus and breast, including endometrial cancer, endometriosis, uterine fibroids, and breast cancer, are highly associated with estrogen, considered to be the mitogenic factor. Emerging evidence supports distinct roles of progesterone and its influence on the pathogenesis of these diseases. Progesterone antagonizes estrogen-driven growth in the endometrium, and insufficient progesterone action strikingly increases the risk of endometrial cancer. In endometriosis, eutopic and ectopic tissues do not respond sufficiently to progesterone and are considered to be progesterone-resistant, which contributes to proliferation and surviva",
+        "journal": "Endocrine reviews",
+        "year": "2013",
+        "authors": [
+          "Kim J Julie",
+          "Kurita Takeshi",
+          "Bulun Serdar E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Breast Neoplasms",
+          "Cell Differentiation",
+          "Cell Proliferation",
+          "Endometrial Neoplasms",
+          "Endometriosis",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Leiomyoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23303565/"
+      },
+      {
+        "pmid": "36191723",
+        "title": "Regulation of progesterone receptor expression in endometriosis, endometrial cancer, and breast cancer by estrogen, polymorphisms, transcription factors, epigenetic alterations, and ubiquitin-proteasome system.",
+        "abstract": "The uterus and breasts are hormone-responsive tissues. Progesterone and estradiol regulate gonadotropin secretion, prepare the endometrium for implantation, maintain pregnancy, and regulate the differentiation of breast tissue. Dysregulation of these hormones causes endometriosis, endometrial cancer, and breast cancer, damaging the physical and mental health of women. Emerging evidence has shown that progesterone resistance or elevated progesterone activity is the primary hormonal substrate of these diseases. Since progesterone acts through its specific nuclear receptor, the abnormal expression of the progesterone receptor (PR) dysregulates progesterone function. This review discusses the regulatory mechanisms of PR expression in patients with endometriosis, and endometrial or breast cancer, including estrogen, polymorphisms, transcription factors, epigenetics, and the ubiquitin-proteasome system. (1) Estrogen promotes the expression of PRA (a PR isoform) mRNA and protein through the i",
+        "journal": "The Journal of steroid biochemistry and molecular biology",
+        "year": "2023",
+        "authors": [
+          "Pu Huijie",
+          "Wen Xiaosha",
+          "Luo DiXian",
+          "Guo Zifen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Humans",
+          "Female",
+          "Progesterone",
+          "Receptors, Progesterone",
+          "Breast Neoplasms",
+          "Proteasome Endopeptidase Complex",
+          "Endometriosis",
+          "Transcription Factors",
+          "Ubiquitin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36191723/"
+      },
+      {
+        "pmid": "30683268",
+        "title": "Endometrial Cancer: Obesity, Genetics, and Targeted Agents.",
+        "abstract": "It is imperative to understand the underlying mechanisms of both endometrial carcinogenesis and recurrence in order to develop more effective prevention and treatment. This article reviews available molecular data, the interplay between endometrial cancer carcinogenesis with obesity and genetics, as well as current targeted therapies.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2019",
+        "authors": [
+          "McDonald Megan E",
+          "Bender David P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Antineoplastic Agents, Hormonal",
+          "Biomarkers, Tumor",
+          "Endometrial Neoplasms",
+          "Female",
+          "Humans",
+          "Molecular Targeted Therapy",
+          "Obesity",
+          "Progesterone",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30683268/"
+      },
+      {
+        "pmid": "39173088",
+        "title": "Menopausal Hormone Therapy and Ovarian and Endometrial Cancers: Long-Term Follow-Up of the Women's Health Initiative Randomized Trials.",
+        "abstract": "Menopausal hormone therapy's influence on ovarian and endometrial cancers remains unsettled. Therefore, we assessed the long-term influence of conjugated equine estrogen (CEE) plus medroxyprogesterone acetate (MPA) and CEE-alone on ovarian and endometrial cancer incidence and mortality in the Women's Health Initiative randomized, placebo-controlled clinical trials.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2024",
+        "authors": [
+          "Chlebowski Rowan T",
+          "Aragaki Aaron K",
+          "Pan Kathy",
+          "Haque Reina",
+          "Rohan Thomas E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Follow-Up Studies",
+          "Incidence",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39173088/"
+      },
+      {
+        "pmid": "24405633",
+        "title": "Endometrial progesterone resistance and PCOS.",
+        "abstract": "Polycystic ovary syndrome (PCOS) is a state of altered steroid hormone production and activity. Chronic estrogen exposure or lack of progesterone due to ovarian dysfunction can result in endometrial hyperplasia and carcinoma. A key contributor to our understanding of progesterone as a critical regulator for normal uterine function has been the elucidation of progesterone receptor (PR) expression, regulation, and signaling pathways. Several human studies indicate that PR-mediated signaling pathways in the nucleus are associated with progesterone resistance in women with PCOS. The aim of this review is to provide an overview of endometrial progesterone resistance in women with PCOS; to present the PR structure, its different isoforms, and their expression in the endometrium; to illustrate the possible regulation of PR and PR-mediated signaling in progesterone resistance in women with PCOS; and to discuss current clinical treatments for atypical endometrial hyperplasia and endometrial car",
+        "journal": "Journal of biomedical science",
+        "year": "2014",
+        "authors": [
+          "Li Xin",
+          "Feng Yi",
+          "Lin Jin-Fang",
+          "Billig Håkan",
+          "Shao Ruijin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Endometrium",
+          "Female",
+          "Gene Expression Regulation",
+          "Humans",
+          "Polycystic Ovary Syndrome",
+          "Progesterone",
+          "Signal Transduction",
+          "Uterine Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24405633/"
+      },
+      {
+        "pmid": "40138919",
+        "title": "Excess heme orchestrates progesterone resistance in uterine endometrial cancer through macrophage polarization and the IL-33/PAX8/PGR axis.",
+        "abstract": "Progesterone is an important drug for hormone therapy in uterine endometrial cancer (UEC). However, the therapeutic efficacy of progestogen is often limited by resistance, and the underlying mechanism remains unknown. In this study, we observed heme metabolism is more active in progesterone-insensitive patients. Heme induced macrophages (Mφs) bias towards M2-like phenotype and downregulated the expression of IL-33, resulting in increased levels of Paired box gene 8 (PAX8). Further study showed PAX8 inhibited the transcriptional activity of PGR by binding to the PGR promoter region. In addition, PGR can also act as a transcriptional factor to regulate the transcription of autophagy-related gene 7 (ATG). Low expression of PGR decreases the transcriptional activity of ATG7 promoter, which decreases cell autophagy and promotes the progression of UEC. Overall, this study reveals the important interaction between heme metabolism, IL-33 and PGR in progesterone-insensitive UEC, and is promisin",
+        "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+        "year": "2025",
+        "authors": [
+          "Lu Jia-Jing",
+          "Ning Yan",
+          "Hu Wen-Ting",
+          "Sheng Yan-Ran",
+          "Liu Yu-Kai"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Macrophages",
+          "Heme",
+          "Interleukin-33",
+          "Progesterone",
+          "Endometrial Neoplasms",
+          "Receptors, Progesterone",
+          "Drug Resistance, Neoplasm",
+          "Cell Line, Tumor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40138919/"
+      },
+      {
+        "pmid": "37540307",
+        "title": "Effects of hysteroscopic surgery combined with progesterone therapy on fertility and prognosis in patients with early endometrial cancer and atypical endometrial hyperplasia or endometrial intraepithelial neoplasia: a meta-analysis.",
+        "abstract": "This meta-analysis aimed to evaluate the effects of hysteroscopic surgery combined with progesterone therapy on fertility and prognosis in patients with early endometrial cancer (EC), atypical endometrial hyperplasia (AEH), or endometrial intraepithelial neoplasia (EIN).",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2024",
+        "authors": [
+          "Ye Xiabin",
+          "Li Tonghuai"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Endometrial Hyperplasia",
+          "Endometrial Neoplasms",
+          "Fertility",
+          "Fertility Preservation",
+          "Hysteroscopy",
+          "Neoplasm Recurrence, Local",
+          "Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37540307/"
+      },
+      {
+        "pmid": "37183712",
+        "title": "Depot medroxyprogesterone acetate and endometrial cancer: A multicenter case-control study.",
+        "abstract": "To assess the associations between depot medroxyprogesterone acetate (DMPA) and endometrial cancer.",
+        "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+        "year": "2023",
+        "authors": [
+          "Kietpeerakool Chumnan",
+          "Cheewakriangkrai Chalong",
+          "Rattanakanokchai Siwanon",
+          "Rattanalappaiboon Daungporn",
+          "Tiyayon Jitima"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Child, Preschool",
+          "Medroxyprogesterone Acetate",
+          "Case-Control Studies",
+          "Endometrial Neoplasms",
+          "Contraceptive Agents, Female",
+          "Endometrium",
+          "Delayed-Action Preparations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37183712/"
+      },
+      {
+        "pmid": "23021376",
+        "title": "Catch it before it kills: progesterone, obesity, and the prevention of endometrial cancer.",
+        "abstract": "The lifetime risk for developing endometrial cancer, the fourth most common malignancy in women, is approximately 3%. Endometrial cancer is a hormone-driven cancer, with approximately 80% of endometrial cancers arising attributable to either an excess of estrogen or a lack of progesterone. In the normal endometrium, the proliferative effects of estrogen are normally countered by progesterone, but the absence of progesterone allows estrogen to induce oncogenesis, an effect that is amplified in situations of excess estrogen. One of the major emerging causes of the estrogen/progesterone imbalance is obesity. Obesity is associated with several hormonal derangements as well as dysregulation of insulin/insulin-like growth factor activity, which collectively contribute to hyperplasia and carcinogenesis in the endometrium. In this article, we provide an in-depth description of how obesity mechanistically promotes this hormone and growth factor imbalance. Given that endometrial cancer is clearl",
+        "journal": "Discovery medicine",
+        "year": "2012",
+        "authors": [
+          "Carlson Matthew J",
+          "Thiel Kristina W",
+          "Yang Shujie",
+          "Leslie Kimberly K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adipokines",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Endometrial Neoplasms",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Insulin-Like Growth Factor I",
+          "Intrauterine Devices, Medicated"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23021376/"
+      },
+      {
+        "pmid": "36396974",
+        "title": "Characterization of HCI-EC-23 a novel estrogen- and progesterone-responsive endometrial cancer cell line.",
+        "abstract": "Most endometrial cancers express the hormone receptor estrogen receptor alpha (ER) and are driven by excess estrogen signaling. However, evaluation of the estrogen response in endometrial cancer cells has been limited by the availability of hormonally responsive in vitro models, with one cell line, Ishikawa, being used in most studies. Here, we describe a novel, adherent endometrioid endometrial cancer (EEC) cell line model, HCI-EC-23. We show that HCI-EC-23 retains ER expression and that ER functionally responds to estrogen induction over a range of passages. We also demonstrate that this cell line retains paradoxical activation of ER by tamoxifen, which is also observed in Ishikawa and is consistent with clinical data. The mutational landscape shows that HCI-EC-23 is mutated at many of the commonly altered genes in EEC, has relatively few copy-number alterations, and is microsatellite instable high (MSI-high). In vitro proliferation of HCI-EC-23 is strongly reduced upon combination e",
+        "journal": "Scientific reports",
+        "year": "2022",
+        "authors": [
+          "Rush Craig M",
+          "Blanchard Zannel",
+          "Polaski Jacob T",
+          "Osborne Kyle S",
+          "Osby Krystle"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Progesterone",
+          "Estradiol",
+          "Tumor Cells, Cultured",
+          "Endometrial Neoplasms",
+          "Estrogens",
+          "Carcinoma, Endometrioid",
+          "Cell Line"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36396974/"
+      },
+      {
+        "pmid": "8380547",
+        "title": "Estrogens, progesterone, and endometrial cancer.",
+        "abstract": "We conducted a case-control study to evaluate the effect of replacement estrogen use alone, and the combined effect of estrogen and progesterone use, on the risk for endometrial cancer. We studied women age 50-64 years at Group Health Cooperative of Puget Sound. We identified 172 incident cases of endometrial cancer diagnosed during the years 1979-1989, and controls of similar age and duration of membership in the plan. Women who had used conjugated estrogens alone for 5 or more years were at increased risk for developing endometrial cancer compared with nonusers [adjusted rate ratio (RR) = 22.0; 95% confidence interval (CI) = 6.5-74.1]. Users of unopposed estrogens of 3-4 years' duration had a relative risk of 1.9 (95% CI = 0.4-8.7). Women who had used medroxyprogesterone acetate in combination with the estrogen therapy for 3 or more years had a risk near that of nonusers (adjusted RR = 1.3; 95% CI = 0.5-3.4) and that of users of unopposed estrogens for less than 5 years. There were i",
+        "journal": "Epidemiology (Cambridge, Mass.)",
+        "year": "1993",
+        "authors": [
+          "Jick S S",
+          "Walker A M",
+          "Jick H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Cross-Sectional Studies",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Estrogens, Conjugated (USP)",
+          "Female",
+          "Humans",
+          "Incidence",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8380547/"
+      },
+      {
+        "pmid": "38415405",
+        "title": "Progesterone inhibits endometrial cancer growth by inhibiting glutamine metabolism through ASCT2.",
+        "abstract": "Endometrial carcinoma (EC) is a common malignancy that originates from the endometrium and grows in the female reproductive system. Surgeries, as current treatments for cancer, however, cannot meet the fertility needs of young women patients. Thus, progesterone (P4) therapy is indispensable due to its effective temporary preservation of female fertility. Many cancer cells are often accompanied by changes in metabolic phenotypes, and abnormally dependent on the amino acid glutamine. However, whether P4 exerts an effect on EC via glutamine metabolism is unknown. In the present study, we found that P4 could inhibit glutamine metabolism in EC cells and down-regulate the expression of the glutamine transporter ASCT2. This regulation of ASCT2 affects the uptake of glutamine. Furthermore, the in vivo xenograft studies showed that P4 inhibited tumor growth and the expression of key enzymes involved in glutamine metabolism. Our study demonstrated that the direct regulation of glutamine metaboli",
+        "journal": "Bioscience reports",
+        "year": "2024",
+        "authors": [
+          "Guo Jinqiu",
+          "Fan Jianhui",
+          "Zhang Yaru",
+          "Li Mengyue",
+          "Jin Zeen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Endometrial Neoplasms",
+          "Glutamine",
+          "Progesterone",
+          "Amino Acid Transport System ASC",
+          "Minor Histocompatibility Antigens"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38415405/"
+      },
+      {
+        "pmid": "17785917",
+        "title": "Biological roles of estrogen and progesterone in human endometrial carcinoma--new developments in potential endocrine therapy for endometrial cancer.",
+        "abstract": "Endometrial carcinoma is one of the most common female pelvic malignancies. It is well known that uterine endometrial cell proliferation is under the control of both estrogen and progesterone. In this review, results of the recent studies on the biosynthesis and action of estrogen and progestin in normal endometrium and its disorders will be summarized and the new aspects of hormonal therapies in the patients with endometrial carcinoma will be discussed including its future prospectives. We reported that the enzymes responsible for intratumoral estrogen metabolism and biosynthesis are markedly different between human breast and endometrial carcinoma, although both of them are considered \"estrogen-dependent malignancies\". In addition, the biological significance of Progesterone receptor (PR) isoforms is considered to differ between endometrial and breast carcinomas. Clinical data concerning Hormone replacement therapy (HRT) and estrogen-dependent cancer risk also support these findings.",
+        "journal": "Endocrine journal",
+        "year": "2007",
+        "authors": [
+          "Ito Kiyoshi",
+          "Utsunomiya Hiroki",
+          "Yaegashi Nobuo",
+          "Sasano Hironobu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Hormonal",
+          "Aromatase",
+          "Carcinoma, Endometrioid",
+          "Endometrial Neoplasms",
+          "Estrogen Replacement Therapy",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Hydroxysteroid Dehydrogenases",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17785917/"
+      },
+      {
+        "pmid": "36038734",
+        "title": "Brusatol sensitizes endometrial hyperplasia and cancer to progestin by suppressing NRF2-TET1-AKR1C1-mediated progestin metabolism.",
+        "abstract": "Progestin resistance is the main obstacle for the conservative therapy to maintain fertility in women with endometrial cancer. Brusatol was identified as an inhibitor of the NRF2 pathway; however, its impact on progestin resistance and the underlying mechanism remains unclear. Here, we found that brusatol sensitized endometrial cancer to progestin by suppressing NRF2-TET1-AKR1C1-mediated progestin metabolism. Brusatol transcriptionally suppressed AKR1C1 via modifying the hydroxymethylation status in its promoter region through TET1 inhibition. Suppression of AKR1C1 by brusatol resulted in decreased progesterone catabolism and maintained potent progesterone to inhibit endometrial cancer growth. This inhibition pattern has also been found in the established xenograft mouse and organoid models. Aberrant overexpression of AKR1C1 was found in paired endometrial hyperplasia and cancer samples from the same individuals with progestin resistance, whereas attenuated or loss of AKR1C1 was observ",
+        "journal": "Laboratory investigation; a journal of technical methods and pathology",
+        "year": "2022",
+        "authors": [
+          "Hu Meiyan",
+          "Sun Di",
+          "Yu Jing",
+          "Fu Yue",
+          "Qin Zuoshu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Mice",
+          "Animals",
+          "Endometrial Hyperplasia",
+          "Progestins",
+          "NF-E2-Related Factor 2",
+          "Progesterone",
+          "Endometrial Neoplasms",
+          "Mixed Function Oxygenases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36038734/"
+      },
+      {
+        "pmid": "26966933",
+        "title": "Hormones and endometrial carcinogenesis.",
+        "abstract": "Endometrial cancer (EC) is the commonest gynaecological cancer in the Western World with an alarmingly increasing incidence related to longevity and obesity. Ovarian hormones regulate normal human endometrial cell proliferation, regeneration and function therefore are implicated in endometrial carcinogenesis directly or via influencing other hormones and metabolic pathways. Although the role of unopposed oestrogen in the pathogenesis of EC has received considerable attention, the emerging role of other hormones in this process, such as androgens and gonadotropin-releasing hormones (GnRH) is less well recognised. This review aims to consolidate the current knowledge of the involvement of the three main endogenous ovarian hormones (oestrogens, progesterone and androgens) as well as the other hormones in endometrial carcinogenesis, to identify important avenues for future research.",
+        "journal": "Hormone molecular biology and clinical investigation",
+        "year": "2016",
+        "authors": [
+          "Kamal Areege",
+          "Tempest Nicola",
+          "Parkes Christina",
+          "Alnafakh Rafah",
+          "Makrydima Sofia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androgens",
+          "Endometrial Neoplasms",
+          "Estrogens",
+          "Female",
+          "Humans",
+          "Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26966933/"
+      },
+      {
+        "pmid": "35018885",
+        "title": "Chromatin topology defines estradiol-primed progesterone receptor and PAX2 binding in endometrial cancer cells.",
+        "abstract": "Estrogen (E2) and Progesterone (Pg), via their specific receptors (ERalpha and PR), are major determinants in the development and progression of endometrial carcinomas, However, their precise mechanism of action and the role of other transcription factors involved are not entirely clear. Using Ishikawa endometrial cancer cells, we report that E2 treatment exposes a set of progestin-dependent PR binding sites which include both E2 and progestin target genes. ChIP-seq results from hormone-treated cells revealed a non-random distribution of PAX2 binding in the vicinity of these estrogen-promoted PR sites. Altered expression of hormone regulated genes in PAX2 knockdown cells suggests a role for PAX2 in fine-tuning ERalpha and PR interplay in transcriptional regulation. Analysis of long-range interactions by Hi-C coupled with ATAC-seq data showed that these regions, that we call 'progestin control regions' (PgCRs), exhibited an open chromatin state even before hormone exposure and were non-",
+        "journal": "eLife",
+        "year": "2022",
+        "authors": [
+          "La Greca Alejandro",
+          "Bellora Nicolás",
+          "Le Dily François",
+          "Jara Rodrigo",
+          "Nacht Ana Silvina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Cell Line, Tumor",
+          "Chromatin",
+          "Endometrial Neoplasms",
+          "Estradiol",
+          "Estrogen Receptor alpha",
+          "Female",
+          "Humans",
+          "PAX2 Transcription Factor",
+          "Progesterone",
+          "Receptors, Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35018885/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:01:37.575703",
+  "success": true,
+  "error_message": null
+}

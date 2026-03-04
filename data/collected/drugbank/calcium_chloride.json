@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Calcium Chloride"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB01164",
+    "name": "Calcium chloride",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:33:58.949492",
+  "success": true,
+  "error_message": null
+}

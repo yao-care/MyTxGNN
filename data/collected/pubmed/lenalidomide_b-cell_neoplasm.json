@@ -1,0 +1,645 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lenalidomide",
+    "disease": "B-cell neoplasm",
+    "query_string": "Lenalidomide AND B-cell neoplasm"
+  },
+  "data": {
+    "query": "Lenalidomide AND B-cell neoplasm",
+    "results": [
+      {
+        "pmid": "37646664",
+        "title": "Tafasitamab for patients with relapsed or refractory diffuse large B-cell lymphoma: final 5-year efficacy and safety findings in the phase II L-MIND study.",
+        "abstract": "Tafasitamab, an anti-CD19 immunotherapy, is used with lenalidomide for patients with autologous stem cell transplant-ineligible relapsed/refractory diffuse large B-cell lymphoma based on the results of the phase II L-MIND study (NCT02399085). We report the final 5-year analysis of this study. Eighty patients ≥18 years who had received one to three prior systemic therapies, and had Eastern Cooperative Oncology Group performance status 0-2 received up to 12 cycles of co-administered tafasitamab and lenalidomide, followed by tafasitamab monotherapy until disease progression or unacceptable toxicity. The primary endpoint was the best objective response rate. Secondary endpoints included duration of response, progression-free survival, overall survival, and safety. Exploratory analyses evaluated efficacy endpoints by prior lines of therapy. At data cutoff on November 14, 2022, the objective response rate was 57.5%, with a complete response rate of 41.3% (n=33), which was consistent with pri",
+        "journal": "Haematologica",
+        "year": "2024",
+        "authors": [
+          "Duell Johannes",
+          "Abrisqueta Pau",
+          "Andre Marc",
+          "Gaidano Gianluca",
+          "Gonzales-Barca Eva"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Non-Hodgkin",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37646664/"
+      },
+      {
+        "pmid": "32511983",
+        "title": "Tafasitamab plus lenalidomide in relapsed or refractory diffuse large B-cell lymphoma (L-MIND): a multicentre, prospective, single-arm, phase 2 study.",
+        "abstract": "Patients with relapsed or refractory diffuse large B-cell lymphoma who are ineligible for autologous stem-cell transplantation have poor outcomes and few treatment options. Tafasitamab (MOR208) is an Fc-enhanced, humanised, anti-CD19 monoclonal antibody that has shown preclinical and single-agent activity in patients with relapsed or refractory B-cell malignancies. Preclinical data suggested that tafasitamab might act synergistically with lenalidomide. We aimed to assess the antitumour activity and safety of tafasitamab plus lenalidomide in patients with relapsed or refractory diffuse large B-cell lymphoma who were ineligible for autologous stem-cell transplantation.",
+        "journal": "The Lancet. Oncology",
+        "year": "2020",
+        "authors": [
+          "Salles Gilles",
+          "Duell Johannes",
+          "González Barca Eva",
+          "Tournilhac Olivier",
+          "Jurczak Wojciech"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Follow-Up Studies",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32511983/"
+      },
+      {
+        "pmid": "37738563",
+        "title": "Tafasitamab and lenalidomide in large B-cell lymphoma: real-world outcomes in a multicenter retrospective study.",
+        "abstract": "In this real-world evaluation of tafasitamab-lenalidomide (TL) in relapsed or refractory LBCL, patients receiving TL had higher rates of comorbidities and high-risk disease characteristics, and substantially lower progression-free survival and overall survival, compared with the L-MIND registration clinical trial for TL.",
+        "journal": "Blood",
+        "year": "2023",
+        "authors": [
+          "Qualls David A",
+          "Lambert Nicholas",
+          "Caimi Paolo F",
+          "Merrill Mwanasha",
+          "Pullarkat Priyanka"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lenalidomide",
+          "Treatment Outcome",
+          "Retrospective Studies",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37738563/"
+      },
+      {
+        "pmid": "37171597",
+        "title": "RE-MIND2: comparative effectiveness of tafasitamab plus lenalidomide versus polatuzumab vedotin/bendamustine/rituximab (pola-BR), CAR-T therapies, and lenalidomide/rituximab (R2) based on real-world data in patients with relapsed/refractory diffuse large B-cell lymphoma.",
+        "abstract": "RE-MIND2 (NCT04697160) compared patient outcomes from the L-MIND (NCT02399085) trial of tafasitamab+lenalidomide with those of patients treated with other therapies for relapsed/refractory (R/R) diffuse large B-cell lymphoma (DLBCL) who are autologous stem cell transplant ineligible. We present outcomes data for three pre-specified treatments not assessed in the primary analysis. Data were retrospectively collected from sites in North America, Europe, and the Asia Pacific region. Patients were aged ≥18 years with histologically confirmed DLBCL and received ≥2 systemic therapies for DLBCL (including ≥1 anti-CD20 therapy). Patients enrolled in the observational and L-MIND cohorts were matched using propensity score-based 1:1 nearest-neighbor matching, balanced for six covariates. Tafasitamab+lenalidomide was compared with polatuzumab vedotin+bendamustine+rituximab (pola-BR), rituximab+lenalidomide (R2), and CD19-chimeric antigen receptor T-cell (CAR-T) therapies. The primary endpoint was",
+        "journal": "Annals of hematology",
+        "year": "2023",
+        "authors": [
+          "Nowakowski Grzegorz S",
+          "Yoon Dok Hyun",
+          "Mondello Patrizia",
+          "Joffe Erel",
+          "Peters Anthea"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adolescent",
+          "Adult",
+          "Rituximab",
+          "Lenalidomide",
+          "Bendamustine Hydrochloride",
+          "Receptors, Chimeric Antigen",
+          "Retrospective Studies",
+          "Lymphoma, Non-Hodgkin",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37171597/"
+      },
+      {
+        "pmid": "38899693",
+        "title": "Combination Targeted Therapy in Relapsed Diffuse Large B-Cell Lymphoma.",
+        "abstract": "The identification of oncogenic mutations in diffuse large B-cell lymphoma (DLBCL) has led to the development of drugs that target essential survival pathways, but whether targeting multiple survival pathways may be curative in DLBCL is unknown.",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Melani Christopher",
+          "Lakhotia Rahul",
+          "Pittaluga Stefania",
+          "Phelan James D",
+          "Huang Da Wei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Research Support, N.I.H., Intramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Adenine",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38899693/"
+      },
+      {
+        "pmid": "30897038",
+        "title": "AUGMENT: A Phase III Study of Lenalidomide Plus Rituximab Versus Placebo Plus Rituximab in Relapsed or Refractory Indolent Lymphoma.",
+        "abstract": "Patients with indolent non-Hodgkin lymphoma typically respond well to first-line immunochemotherapy. At relapse, single-agent rituximab is commonly administered. Data suggest the immunomodulatory agent lenalidomide could increase the activity of rituximab.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2019",
+        "authors": [
+          "Leonard John P",
+          "Trneny Marek",
+          "Izutsu Koji",
+          "Fowler Nathan H",
+          "Hong Xiaonan"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, B-Cell, Marginal Zone",
+          "Lymphoma, Follicular",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30897038/"
+      },
+      {
+        "pmid": "24292625",
+        "title": "Lenalidomide causes selective degradation of IKZF1 and IKZF3 in multiple myeloma cells.",
+        "abstract": "Lenalidomide is a drug with clinical efficacy in multiple myeloma and other B cell neoplasms, but its mechanism of action is unknown. Using quantitative proteomics, we found that lenalidomide causes selective ubiquitination and degradation of two lymphoid transcription factors, IKZF1 and IKZF3, by the CRBN-CRL4 ubiquitin ligase. IKZF1 and IKZF3 are essential transcription factors in multiple myeloma. A single amino acid substitution of IKZF3 conferred resistance to lenalidomide-induced degradation and rescued lenalidomide-induced inhibition of cell growth. Similarly, we found that lenalidomide-induced interleukin-2 production in T cells is due to depletion of IKZF1 and IKZF3. These findings reveal a previously unknown mechanism of action for a therapeutic agent: alteration of the activity of an E3 ubiquitin ligase, leading to selective degradation of specific targets.",
+        "journal": "Science (New York, N.Y.)",
+        "year": "2014",
+        "authors": [
+          "Krönke Jan",
+          "Udeshi Namrata D",
+          "Narla Anupama",
+          "Grauman Peter",
+          "Hurst Slater N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Cell Line, Tumor",
+          "HEK293 Cells",
+          "Humans",
+          "Ikaros Transcription Factor",
+          "Interleukin-2",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Proteolysis",
+          "T-Lymphocytes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24292625/"
+      },
+      {
+        "pmid": "38767403",
+        "title": "Plasmablastic lymphoma: 2024 update on diagnosis, risk stratification, and management.",
+        "abstract": "Plasmablastic lymphoma (PBL) is a rare CD20-negative aggressive lymphoma with a poor prognosis under standard treatment options. Though PBL is associated with human immunodeficiency virus infection and other immunosuppressed states, it can also affect immunocompetent individuals.",
+        "journal": "American journal of hematology",
+        "year": "2024",
+        "authors": [
+          "Ramirez-Gamero Andres",
+          "Martínez-Cordero Humberto",
+          "Beltrán Brady E",
+          "Florindez Jorge",
+          "Malpica Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Plasmablastic Lymphoma",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Risk Assessment",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Vincristine",
+          "Prednisone",
+          "Lenalidomide",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38767403/"
+      },
+      {
+        "pmid": "37272512",
+        "title": "Cilta-cel or Standard Care in Lenalidomide-Refractory Multiple Myeloma.",
+        "abstract": "Ciltacabtagene autoleucel (cilta-cel), a B-cell maturation antigen (BCMA)-directed CAR T-cell therapy, is effective in heavily pretreated patients with relapsed or refractory multiple myeloma. We investigated cilta-cel in earlier treatment lines in patients with lenalidomide-refractory disease.",
+        "journal": "The New England journal of medicine",
+        "year": "2023",
+        "authors": [
+          "San-Miguel Jesús",
+          "Dhakal Binod",
+          "Yong Kwee",
+          "Spencer Andrew",
+          "Anguille Sébastien"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Neurotoxicity Syndromes",
+          "Progression-Free Survival",
+          "B-Cell Maturation Antigen",
+          "Immunotherapy, Adoptive",
+          "Antineoplastic Agents, Immunological",
+          "Drug Resistance, Neoplasm"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37272512/"
+      },
+      {
+        "pmid": "40829156",
+        "title": "A phase 2 study of zanubrutinib in combination with rituximab and lenalidomide in de novo diffuse large B-cell lymphoma.",
+        "abstract": "Older patients with diffuse large B-cell lymphoma (DLBCL) present unfavorable genetic and microenvironmental alterations. In this phase 2 trial, we assessed the efficacy and safety of zanubrutinib in combination with rituximab and lenalidomide (ZR2) in patients with de novo DLBCL aged ≥75 years. Forty patients were enrolled, and the primary end point was the complete response rate, which was 65.0% (95% confidence interval [CI], 48.3-78.9) at the end of induction treatment. The 2-year progression-free and overall survival rates were 67.1% (95% CI, 50.1-79.4) and 82.4% (95% CI, 66.5-91.2). The most common grades 3 and 4 hematologic adverse event (AE) was neutropenia (n = 14 [35.0%]). The most common grades 3 and 4 nonhematologic AEs were increased alanine transaminase (n = 5 [12.5%]) and aspartate transaminase levels (n = 5; 12.5%), and pulmonary infection (n = 5 [12.5%]). No events of atrial fibrillation were observed. Importantly, the efficacy of ZR2 was more dependent on tumor microen",
+        "journal": "Blood",
+        "year": "2025",
+        "authors": [
+          "Xu Peng-Peng",
+          "Zhu Yue",
+          "Shi Zi-Yang",
+          "Wang Li",
+          "Cheng Shu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Aged",
+          "Female",
+          "Male",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Lenalidomide",
+          "Aged, 80 and over",
+          "Pyrazoles",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40829156/"
+      },
+      {
+        "pmid": "39772655",
+        "title": "Brentuximab Vedotin Combination for Relapsed Diffuse Large B-Cell Lymphoma.",
+        "abstract": "In patients with relapsed or refractory (R/R) diffuse large B-cell lymphoma (DLBCL), brentuximab vedotin (BV) as monotherapy or combined with either lenalidomide (Len) or rituximab (R) has demonstrated efficacy with acceptable safety. We evaluated the efficacy and safety of BV + Len + R versus placebo + Len + R in patients with R/R DLBCL.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2025",
+        "authors": [
+          "Bartlett Nancy L",
+          "Hahn Uwe",
+          "Kim Won-Seog",
+          "Fleury Isabelle",
+          "Laribi Kamel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Brentuximab Vedotin",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Adult",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39772655/"
+      },
+      {
+        "pmid": "31296423",
+        "title": "Obinutuzumab combined with lenalidomide for relapsed or refractory follicular B-cell lymphoma (GALEN): a multicentre, single-arm, phase 2 study.",
+        "abstract": "Lenalidomide plus rituximab is approved to treat patients with relapsed or refractory follicular lymphoma. Obinutuzumab has been shown to enhance antibody-dependent cellular cytotoxicity, phagocytosis, and direct B-cell killing better than rituximab. Our aim was to determine the activity and safety of lenalidomide plus obinutuzumab in previously treated patients with relapsed or refractory follicular lymphoma.",
+        "journal": "The Lancet. Haematology",
+        "year": "2019",
+        "authors": [
+          "Morschhauser Franck",
+          "Le Gouill Steven",
+          "Feugier Pierre",
+          "Bailly Sarah",
+          "Nicolas-Virelizier Emmanuelle"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antigens, CD20",
+          "Antineoplastic Agents, Immunological",
+          "Disease-Free Survival",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31296423/"
+      },
+      {
+        "pmid": "33621109",
+        "title": "ROBUST: A Phase III Study of Lenalidomide Plus R-CHOP Versus Placebo Plus R-CHOP in Previously Untreated Patients With ABC-Type Diffuse Large B-Cell Lymphoma.",
+        "abstract": "Patients with the activated B-cell-like (ABC) subtype of diffuse large B-cell lymphoma (DLBCL) historically showed inferior survival with standard rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP). Phase II studies demonstrated that adding the immunomodulatory agent lenalidomide to R-CHOP improved outcomes in ABC-type DLBCL. The goal of the global, phase III ROBUST study was to compare lenalidomide plus R-CHOP (R2-CHOP) with placebo/R-CHOP in previously untreated, ABC-type DLBCL.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2021",
+        "authors": [
+          "Nowakowski Grzegorz S",
+          "Chiappella Annalisa",
+          "Gascoyne Randy D",
+          "Scott David W",
+          "Zhang Qingyuan"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33621109/"
+      },
+      {
+        "pmid": "34196165",
+        "title": "Long-term outcomes from the Phase II L-MIND study of tafasitamab (MOR208) plus lenalidomide in patients with relapsed or refractory diffuse large B-cell lymphoma.",
+        "abstract": "Tafasitamab (MOR208), an Fc-modified, humanized, anti-CD19 monoclonal antibody, combined with the immunomodulatory drug lenalidomide was clinically active with a good tolerability profile in the open-label, single-arm, phase II L-MIND study of patients with relapsed/refractory diffuse large B-cell lymphoma (DLBCL) ineligible for autologous stem-cell transplantation. To assess long-term outcomes, we report an updated analysis with ≥35 months' follow-up. Patients were aged >18 years, had received one to three prior systemic therapies (including ≥1 CD20-targeting regimen) and Eastern Cooperative Oncology Group performance status 0-2. Patients received 28-day cycles of tafasitamab (12 mg/kg intravenously), once weekly during cycles 1-3, then every 2 weeks during cycles 4-12. Lenalidomide (25 mg orally) was administered on days 1-21 of cycles 1-12. After cycle 12, progression-free patients received tafasitamab every 2 weeks until disease progression. The primary endpoint was best objective ",
+        "journal": "Haematologica",
+        "year": "2021",
+        "authors": [
+          "Duell Johannes",
+          "Maddocks Kami J",
+          "González-Barca Eva",
+          "Jurczak Wojciech",
+          "Liberati Anna Marina"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Transplantation, Autologous",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34196165/"
+      },
+      {
+        "pmid": "24292623",
+        "title": "The myeloma drug lenalidomide promotes the cereblon-dependent destruction of Ikaros proteins.",
+        "abstract": "Thalidomide-like drugs such as lenalidomide are clinically important treatments for multiple myeloma and show promise for other B cell malignancies. The biochemical mechanisms underlying their antitumor activity are unknown. Thalidomide was recently shown to bind to, and inhibit, the cereblon ubiquitin ligase. Cereblon loss in zebrafish causes fin defects reminiscent of the limb defects seen in children exposed to thalidomide in utero. Here we show that lenalidomide-bound cereblon acquires the ability to target for proteasomal degradation two specific B cell transcription factors, Ikaros family zinc finger proteins 1 and 3 (IKZF1 and IKZF3). Analysis of myeloma cell lines revealed that loss of IKZF1 and IKZF3 is both necessary and sufficient for lenalidomide's therapeutic effect, suggesting that the antitumor and teratogenic activities of thalidomide-like drugs are dissociable.",
+        "journal": "Science (New York, N.Y.)",
+        "year": "2014",
+        "authors": [
+          "Lu Gang",
+          "Middleton Richard E",
+          "Sun Huahang",
+          "Naniong MarkVic",
+          "Ott Christopher J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adaptor Proteins, Signal Transducing",
+          "Antineoplastic Agents",
+          "Cell Line, Tumor",
+          "HEK293 Cells",
+          "Humans",
+          "Ikaros Transcription Factor",
+          "Lenalidomide",
+          "Multiple Myeloma",
+          "Peptide Hydrolases",
+          "Proteolysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24292623/"
+      },
+      {
+        "pmid": "40668613",
+        "title": "Tafasitamab plus lenalidomide as salvage therapy in diffuse large B-cell lymphoma: real-world experience from GELTAMO.",
+        "abstract": "Relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) remains challenging to treat, especially in patients ineligible for intensive therapy or chimeric antigen receptor T cells. Tafasitamab plus lenalidomide (T/L) is an effective option based on the phase 2 L-MIND trial findings, although real-world evidence studies have not consistently confirmed these results. We aimed to describe real-world outcomes of R/R DLBCL treated with T/L in Spain. A total of 99 patients received at least 1 dose of tafasitamab (intent-to-treat [ITT] cohort), with 83 completing at least 1 full cycle of T/L (efficacy cohort). Respectively for ITT and efficacy cohorts, at a median follow-up of 19.2 and 21.6 months, the overall response rate was 51% and 61% (complete response [CR], 35% and 42%). Median duration of response was not reached, and patients achieving a CR had excellent outcomes. The median progression-free survival (PFS) was 4.9 and 10.9 months, and overall survival (OS) was 12.2 and 21.8 mont",
+        "journal": "Blood advances",
+        "year": "2025",
+        "authors": [
+          "Gutierrez Antonio",
+          "Zeberio Izaskun",
+          "Peñalver Francisco Javier",
+          "Martinez-Barranco Pilar",
+          "Perez Sandra"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40668613/"
+      },
+      {
+        "pmid": "35933930",
+        "title": "Treatment strategies for patients with diffuse large B-cell lymphoma.",
+        "abstract": "Diffuse large B-cell lymphoma (DLBCL) is nowadays a curable disease with the frontline treatment R-CHOP, but 30-40% of patients are still unresponsive or relapse thereafter. In the recent era several upcoming new options are improving the therapeutic landscape for relapsed/refractory (R/R) DLBCL setting, first of all anti-CD19 chimeric antigen receptor T-cells (CAR-T) that already represent a standard of care as third-line therapy and are rapidly moving as second-line treatment for those who are refractory or early relapse after R-CHOP. Among these new therapies, the combinations polatuzumab plus rituximab and bendamustine, tafasitamab plus lenalidomide for transplant ineligible patients, and CD3xCD20 bispecific antibodies are the most relevant, but several other agents and strategies are on the way. On the other hand, in the last 20 years, several efforts have been spent in the attempt to ameliorate the outcome over R-CHOP for the frontline treatment of DLBCL shortening the interval b",
+        "journal": "Cancer treatment reviews",
+        "year": "2022",
+        "authors": [
+          "Poletto Stefano",
+          "Novo Mattia",
+          "Paruzzo Luca",
+          "Frascione Pio Manlio Mirko",
+          "Vitolo Umberto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Bispecific",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Humans",
+          "Immunoconjugates",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Lymphoma, Non-Hodgkin",
+          "Neoplasm Recurrence, Local",
+          "Receptors, Chimeric Antigen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35933930/"
+      },
+      {
+        "pmid": "36827680",
+        "title": "Lenalidomide-associated B-cell ALL: clinical and pathologic correlates and sensitivity to lenalidomide withdrawal.",
+        "abstract": "Lenalidomide is an effective component of induction and maintenance therapy for multiple myeloma, though with a risk of secondary malignancies, including acute lymphoblastic leukemia (ALL). In contrast to therapy-related myeloid neoplasia, lenalidomide-associated lymphoblastic neoplasia remains poorly characterized. We conducted a dual institution retrospective study of 32 ALL cases that arose after lenalidomide maintenance (all B-lineage, 31/32 BCR::ABL-negative). B-cell ALL (B-ALL) was diagnosed at median 54 months (range, 5-119) after first exposure to lenalidomide and after median 42 months of cumulative lenalidomide exposure (range, 2-114). High incidence of TP53 mutations (9/19 evaluable cases) and low hypodiploidy (8/26 patients) were identified. Despite median age of 65 years and poor-risk B-ALL features observed in the cohort, rates of complete response (CR) or CR with incomplete hematologic recovery were high (25/28 patients receiving treatment). Median event-free survival wa",
+        "journal": "Blood advances",
+        "year": "2023",
+        "authors": [
+          "Geyer Mark B",
+          "Shaffer Brian C",
+          "Bhatnagar Bhavana",
+          "Mims Alice S",
+          "Klein Victoria"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Lenalidomide",
+          "Retrospective Studies",
+          "Multiple Myeloma",
+          "Hematopoietic Stem Cell Transplantation",
+          "Progression-Free Survival",
+          "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma",
+          "Burkitt Lymphoma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36827680/"
+      },
+      {
+        "pmid": "38555311",
+        "title": "Combination of acalabrutinib with lenalidomide and rituximab in relapsed/refractory aggressive B-cell non-Hodgkin lymphoma: a single-arm phase II trial.",
+        "abstract": "Potential synergism between Bruton's tyrosine kinase (BTK) inhibitor and lenalidomide in treating aggressive B-cell lymphoma has been suggested. Here, the authors report a single-arm phase II clinical trial of combination of acalabrutinib, lenalidomide and rituximab (R2A) in patients with aggressive relapsed/refractory aggressive (R/R) B-cell non-Hodgkin lymphoma (NHL). The primary endpoint of this study is objective response rate (ORR), and the secondary endpoints are complete remission (CR) rate, duration of response (DoR), progression-free survival (PFS) and overall survival (OS). A total of 66 patients are enrolled mostly with diffuse large B-cell lymphoma. The ORR is 54.5% and CR rate is 31.8% meeting the primary end point. The median DoR is 12.9 months, and 1-year PFS and OS rate is 33.1% and 67.5% respectively. Adverse events (AE) are manageable with the most frequent AE being neutropenia (31.8%). Patients with MYD88 mutations, subtypes known for NF-κB activation, and high BTK e",
+        "journal": "Nature communications",
+        "year": "2024",
+        "authors": [
+          "Park Changhee",
+          "Lee Ho Sup",
+          "Kang Ka-Won",
+          "Lee Won-Sik",
+          "Do Young Rok"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Benzamides",
+          "Disease-Free Survival",
+          "Lenalidomide",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Pyrazines",
+          "Rituximab",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38555311/"
+      },
+      {
+        "pmid": "24569262",
+        "title": "Novel anti-B-cell maturation antigen antibody-drug conjugate (GSK2857916) selectively induces killing of multiple myeloma.",
+        "abstract": "B-cell maturation antigen (BCMA), highly expressed on malignant plasma cells in human multiple myeloma (MM), has not been effectively targeted with therapeutic monoclonal antibodies. We here show that BCMA is universally expressed on the MM cell surface and determine specific anti-MM activity of J6M0-mcMMAF (GSK2857916), a novel humanized and afucosylated antagonistic anti-BCMA antibody-drug conjugate via a noncleavable linker. J6M0-mcMMAF specifically blocks cell growth via G2/M arrest and induces caspase 3-dependent apoptosis in MM cells, alone and in coculture with bone marrow stromal cells or various effector cells. It strongly inhibits colony formation by MM cells while sparing surrounding BCMA-negative normal cells. J6M0-mcMMAF significantly induces effector cell-mediated lysis against allogeneic or autologous patient MM cells, with increased potency and efficacy compared with the wild-type J6M0 without Fc enhancement. The antibody-dependent cell-mediated cytotoxicity and apoptot",
+        "journal": "Blood",
+        "year": "2014",
+        "authors": [
+          "Tai Yu-Tzu",
+          "Mayes Patrick A",
+          "Acharya Chirag",
+          "Zhong Mike Y",
+          "Cea Michele"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "B-Cell Maturation Antigen",
+          "B-Lymphocytes",
+          "Cell Cycle Checkpoints",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Humans",
+          "Immunologic Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24569262/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:06:13.779489",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,618 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Capecitabine",
+    "disease": "metastasis from malignant tumor of colon",
+    "query_string": "Capecitabine AND metastasis from malignant tumor of colon"
+  },
+  "data": {
+    "query": "Capecitabine AND metastasis from malignant tumor of colon",
+    "results": [
+      {
+        "pmid": "38564700",
+        "title": "Neoadjuvant Chemotherapy With Oxaliplatin and Fluoropyrimidine Versus Upfront Surgery for Locally Advanced Colon Cancer: The Randomized, Phase III OPTICAL Trial.",
+        "abstract": "The role of neoadjuvant chemotherapy (NAC) in colon cancer remains unclear. This trial investigated whether 3 months of modified infusional fluorouracil, leucovorin, and oxaliplatin (mFOLFOX6) or capecitabine and oxaliplatin (CAPOX) as NAC could improve outcomes in patients with locally advanced colon cancer versus upfront surgery.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2024",
+        "authors": [
+          "Hu Huabin",
+          "Zhang Jianwei",
+          "Li Yunfeng",
+          "Wang Xiaozhong",
+          "Wang Ziqiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Colonic Neoplasms",
+          "Male",
+          "Female",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Middle Aged",
+          "Neoadjuvant Therapy",
+          "Aged",
+          "Oxaliplatin",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38564700/"
+      },
+      {
+        "pmid": "33144449",
+        "title": "Capecitabine Plus Bevacizumab for Cardiac Metastasis of Sigmoid Colon Cancer: Case Report and Literature Review.",
+        "abstract": "Right ventricular cardiac metastasis from colorectal cancer (CRC) is rare and clinically silent. There is no standardised treatment. To date, only twelve cases have been reported in the literature. This is a case report and literature review of right ventricular cardiac metastasis from CRC.",
+        "journal": "In vivo (Athens, Greece)",
+        "year": "2020",
+        "authors": [
+          "Hiroi Sawako",
+          "Miguchi Masashi",
+          "Ikeda Satoshi",
+          "Nakahara Hideki",
+          "Shinozaki Katsunori"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Capecitabine",
+          "Colorectal Neoplasms",
+          "Female",
+          "Humans",
+          "Sigmoid Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33144449/"
+      },
+      {
+        "pmid": "36451153",
+        "title": "Breast metastasis of signet ring cell carcinoma from the colon: a case report.",
+        "abstract": "Colon cancer is one of the most common diagnosed malignancies. Despite the use of surgery, chemotherapy, radiotherapy, targeted therapy, immunotherapy, and other comprehensive treatments, distant metastasis is still one of the main causes for dying of colon cancer. The common metastatic site of colon cancer is the liver, lung, and bone. In this article, we report a rare case of breast metastasis of signet ring cell carcinoma from the colon.",
+        "journal": "World journal of surgical oncology",
+        "year": "2022",
+        "authors": [
+          "Wang Xiao",
+          "Zhang Haibo",
+          "Lu Yanwei"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Adult",
+          "Capecitabine",
+          "Breast Neoplasms",
+          "Oxaliplatin",
+          "Mastectomy",
+          "Neoplasms, Second Primary",
+          "Carcinoma, Signet Ring Cell",
+          "Colonic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36451153/"
+      },
+      {
+        "pmid": "37920435",
+        "title": "Colorectal cancer metastasis to the thyroid: A case report and review of the literature.",
+        "abstract": "Metastatic thyroid cancer is rare. Here, the case of a patient with colon cancer that metastasized to the thyroid is described. The patient underwent radical rectal cancer surgery in August 2017 and received six cycles of chemotherapy with oxaliplatin and capecitabine postoperatively. On August 4, 2018, the patient was admitted to the hospital due to the discovery of thyroid nodules on ultrasound and carcinoembryonic antigen levels within the normal range. The biopsy from the fine needle aspiration suggested a malignant tumor. The patient underwent radical thyroid cancer surgery. Using intraoperative rapid frozen pathology, medullary carcinoma was diagnosed. Using postoperative routine pathology combined with immunohistochemistry results, thyroid metastasis from colorectal adenocarcinoma was diagnosed. After surgery, the patient regularly visited the outpatient clinic for chemotherapy with capecitabine. As of May 2023, the patient is still alive with no recurrence.",
+        "journal": "Oncology letters",
+        "year": "2023",
+        "authors": [
+          "Li Huixi",
+          "Chen Yaoying",
+          "Zhang Miao",
+          "Zhang Hong"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37920435/"
+      },
+      {
+        "pmid": "39753246",
+        "title": "Value of ctDNA in surveillance of adjuvant chemosensitivity and regimen adjustment in stage III colon cancer: a protocol for phase II multicentre randomised controlled trial (REVISE trial).",
+        "abstract": "The standard of care for stage III colon cancer is 3 or 6 months of double-drug regimen chemotherapy following radical surgery. However, patients with positive circulating tumour DNA (ctDNA) exhibit a high risk of recurrence risk even if they receive standard adjuvant chemotherapy. The potential benefit of intensified adjuvant chemotherapy, oxaliplatin, irinotecan, leucovorin and fluoropyrimidine (FOLFOXIRI), for ctDNA-positive patients remains to be elucidated.",
+        "journal": "BMJ open",
+        "year": "2025",
+        "authors": [
+          "Zhou Jiahao",
+          "Huang Jun",
+          "Zhou Zikai",
+          "Fan Rui",
+          "Deng Xiangbing"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Circulating Tumor DNA"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39753246/"
+      },
+      {
+        "pmid": "30946331",
+        "title": "Synchronous isolated splenic metastasis from cancer of hepatic flexure of colon: A case report.",
+        "abstract": "Isolated splenic metastasis from colorectal cancer is very rare, as metastatic colorectal cancer involving the spleen is usually a manifestation of widely disseminated disease. Splenectomy is the best therapeutic option for this entity and probably the only chance for radical cure.",
+        "journal": "Medicine",
+        "year": "2019",
+        "authors": [
+          "Zhao Huiying",
+          "Zhong Weixiang",
+          "Chen Dong",
+          "Cheng Xiaofei"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Colon, Ascending",
+          "Colonic Neoplasms",
+          "Humans",
+          "Male",
+          "Spleen",
+          "Splenic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30946331/"
+      },
+      {
+        "pmid": "34903471",
+        "title": "Metastasis-Directed Radiotherapy for Oligoprogressive or Oligopersistent Metastatic Colorectal Cancer.",
+        "abstract": "Some patients with cancer may present with progressive or persistent disease at a limited number of sites following a period of treatment response. We evaluated the safety and effectiveness of metastasis-directed radiotherapy (MRT) for oligoprogressive or oligopersistent disease in patients receiving systemic treatment for metastatic colorectal cancer (mCRC).",
+        "journal": "Clinical colorectal cancer",
+        "year": "2022",
+        "authors": [
+          "Lee Jeongshim",
+          "Koom Woong Sub",
+          "Byun Hwa Kyung",
+          "Yang Gowoon",
+          "Kim Mi Sun"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Camptothecin",
+          "Colonic Neoplasms",
+          "Colorectal Neoplasms",
+          "Fluorouracil",
+          "Humans",
+          "Leucovorin",
+          "Neoplasm Metastasis",
+          "Prospective Studies",
+          "Rectal Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34903471/"
+      },
+      {
+        "pmid": "36930122",
+        "title": "Colorectal cancer with testicular metastasis: A case report and literature review.",
+        "abstract": "Colorectal cancer is the second leading cause of cancer-related deaths in the world. About 50% of patients will have metastases during the course of the disease. The common sites of metastasis are the liver, lung, peritoneum, lymph, etc. Metastatic carcinoma to the testes is uncommon. We found a case of ascending colon cancer metastasized to the testis in the clinic.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Wu Jia-Ming",
+          "Zhang Ao",
+          "Dong Yu",
+          "Lin Si-Hong",
+          "Meng Jin-Cheng"
+        ],
+        "pub_types": [
+          "Review",
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Middle Aged",
+          "Adenocarcinoma",
+          "Testicular Neoplasms",
+          "Bevacizumab",
+          "Capecitabine",
+          "Colonic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36930122/"
+      },
+      {
+        "pmid": "36733043",
+        "title": "[A Case of Recurrent Sigmoid Colon Cancer with Peritoneal Metastasis and Liver Metastasis Successfully Treated with Capecitabine plus Bevacizumab].",
+        "abstract": "A 78-year-old man had undergone a laparoscopic sigmoid colon resection; left ureteral resection; and a ureteral reconstruction for sigmoid colon cancer with left ureteral invasion. The patient did not wish to undergo postoperative adjuvant chemotherapy, and he was followed up at fixed intervals. Six months after surgery, CT revealed peritoneal metastasis and liver metastasis(S6). Considering his advanced age and adverse events, the patient was started on capecitabine plus bevacizumab therapy. The patient was able to continue the treatment, even though he had to suspend and reduce the dose due to adverse events of hand-foot syndrome, and achieved CR by CT after 21 courses of treatment. Chemotherapy was discontinued after 24 courses, CR was maintained for 5 years, and the patient is still alive with no evidence of recurrence.",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2022",
+        "authors": [
+          "Nakano Masaya",
+          "Mokutani Yukako",
+          "Hirose Hajime",
+          "Yoshioka Shinichi",
+          "Mizuno Manatsu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Sigmoid Neoplasms",
+          "Capecitabine",
+          "Bevacizumab",
+          "Colon, Sigmoid",
+          "Peritoneal Neoplasms",
+          "Neoplasm Recurrence, Local",
+          "Liver Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36733043/"
+      },
+      {
+        "pmid": "26805130",
+        "title": "[A Case of Sigmoid Colon Cancer with Metastasis to the Uterus].",
+        "abstract": "A 65-year-old woman complaining of fetor ex vagina was diagnosed with endometrial adenocarcinoma of the uterus based on the pathological findings of an endometrial biopsy. Sigmoid colon cancer was found on a pre-operative CT scan. Diagnosis of double cancer was made and we performed sigmoidectomy and panhysterectomy with associated resection of both adnexa. Histopathological examination found that the tumor accounted for almost all of the uterine mucosa and over half of the muscular layer. Immunostaining showed CK7 (-), CK20 (+), CDX2 (+), ER (-), and PgR (-), and we diagnosed it as a metastasis to the uterus of the sigmoid colon cancer. The pathological diagnosis was a moderately differentiated adenocarcinoma, pT4b (SI: urinary bladder), pN0 (0/12), H0, P1,M1a (uterus), pStage Ⅳ. As adjuvant chemotherapy, she was administered XELOX for 6 months. Although colorectal cancer rarely metastasizes to the uterus, due to the increase in the prevalence of colorectal cancer, it may be also incr",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2015",
+        "authors": [
+          "Tokoro Yukinari",
+          "Tonooka Toru",
+          "Souda Hiroaki",
+          "Takiguchi Nobuhiro",
+          "Chibana Tomofumi"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Deoxycytidine",
+          "Female",
+          "Fluorouracil",
+          "Humans",
+          "Neoplasm Staging"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26805130/"
+      },
+      {
+        "pmid": "32787374",
+        "title": "A case of durvalumab-treated double primary cancers of the colon and lung.",
+        "abstract": "Cases of double primary cancers of the colon and lung are rare, and the treatment regimens are highly individualized. Here, we report a case of double primary cancers of the colon and lung. The patient underwent radical resection for cancer of the left colon (pT4aN0Mx, IIb). Two months later, he sought treatment due to chest pain and painful swelling in his left axilla for one month and was diagnosed with adenocarcinoma of the right lung (cT4N3M1c, stage IVB). At the time before receiving radical resection of the left colon tumor, a chest computed tomography examination showed a space-occupying lesion in the upper lobe of the right lung, but the histological analysis was not performed at that time because abdominal computed tomography examination suggested the presence of incomplete obstruction, and emergency radical resection for colon cancer was conducted. Molecular pathological examination of the lung mass at the most recent admission suggested KRAS mutation and strongly positive pr",
+        "journal": "Annals of palliative medicine",
+        "year": "2020",
+        "authors": [
+          "Pu Xiaoyu",
+          "Xu Tiankai",
+          "Ge Chao",
+          "He Yingnan",
+          "Yang Xu"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Antibodies, Monoclonal",
+          "Antineoplastic Agents, Immunological",
+          "Colon",
+          "Colonic Neoplasms",
+          "Humans",
+          "Lung",
+          "Lung Neoplasms",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32787374/"
+      },
+      {
+        "pmid": "31164538",
+        "title": "[A Case of Pancreatic Metastasis from Colon Cancer Successfully Treated with Capecitabine/Oxaliplatin plus Bevacizumab].",
+        "abstract": "A 50-year-old man underwent low anterior resection for rectal cancer. The final diagnosis was rectal cancer of pT3N0M0, fStage Ⅱ. CT performed for examination of obstructive jaundice at 17 months after surgery revealed metastatic lesions of the pancreatic head and right lung. By core needle biopsies, the lesions were pathologically diagnosed as metachronous metastases of rectal cancer. Chemotherapy was carried out but was discontinued at 5 courses due to severe side effects. The pancreatic metastasis disappeared after 11 months. As the lung metastasis remained, a right upper lobectomy was performed 1 month later. The patient remains alive without recurrence 6 months after the partial lung resection.",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2019",
+        "authors": [
+          "Machida Taku",
+          "Nishimura Masaki",
+          "Yamada Hideyuki",
+          "Oka Yoshito",
+          "Nakadai Eri"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Capecitabine",
+          "Colonic Neoplasms",
+          "Humans",
+          "Liver Neoplasms",
+          "Male",
+          "Middle Aged",
+          "Neoplasm Recurrence, Local",
+          "Oxaliplatin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31164538/"
+      },
+      {
+        "pmid": "36253824",
+        "title": "Literature review of imaging, pathological diagnosis, and outcomes of metachronous lung and pancreatic metastasis of cecal cancer.",
+        "abstract": "Pancreatic metastasis from colorectal cancer is extremely rare. Here, we report a case of colorectal cancer with lung and pancreatic metastasis and analyze the histopathology, immunohistochemistry, and next-generation sequencing (NGS) to generate a differential diagnosis and treatment of metastatic colon cancer.",
+        "journal": "World journal of surgical oncology",
+        "year": "2022",
+        "authors": [
+          "Wu Xiang",
+          "Zhou Shuping",
+          "Zhou Xinhua",
+          "Xu Xiao",
+          "Wang Luoluo"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Capecitabine",
+          "Carcinoembryonic Antigen",
+          "Cecal Neoplasms",
+          "Colonic Neoplasms",
+          "Humans",
+          "Lung",
+          "Male",
+          "Pancreatic Neoplasms",
+          "Proto-Oncogene Proteins p21(ras)"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36253824/"
+      },
+      {
+        "pmid": "37661703",
+        "title": "Long-term Survival after Treatment of Synchronous Isolated Right External Iliac Lymph Node Metastasis from Ascending Colon Cancer: A Case Report.",
+        "abstract": "Synchronous isolated external iliac lymph node metastasis of ascending colon cancer is extremely rare, and its treatment strategy has not been established. In this report, we present a case of long-term survival after surgical resection and adjuvant chemotherapy for ascending colon cancer with synchronous isolated right external iliac lymph node metastasis.",
+        "journal": "The Kobe journal of medical sciences",
+        "year": "2023",
+        "authors": [
+          "Okazoe Yuki",
+          "Omiya Satoshi",
+          "Nakajima Takahiro",
+          "Kishi Atsuhiko",
+          "Kido Masahiro"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Colon, Ascending",
+          "Lymphatic Metastasis",
+          "Lymph Nodes",
+          "Humans",
+          "Colonic Neoplasms",
+          "Ilium",
+          "Female",
+          "Aged",
+          "Colectomy",
+          "Chemotherapy, Adjuvant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37661703/"
+      },
+      {
+        "pmid": "20217448",
+        "title": "Renal tubular acidosis secondary to capecitabine, oxaliplatin, and cetuximab treatment in a patient with metastatic colon carcinoma: a case report and review of the literature.",
+        "abstract": "We report a case of renal tubular acidosis (RTA) secondary to capecitabine, oxaliplatin, and cetuximab administration in a 63-year-old woman with liver metastasis from colon carcinoma who had partial treatment response. On day 5 posttreatment, she arrived to the emergency room with severe weakness, and blood tests demonstrated hypokalemia with metabolic acidosis. Urine potassium levels were elevated, and the transtubular potassium gradient (TTKG) was 6.6, consistent with hypokalemic RTA with associated Fanconi syndrome, which presented as hyperphosphaturia, uricaciduria, and loss of protein and sugar in the urine. She was treated with intravenously administered potassium and fluids. RTA is one type of nephrotoxicity induced by chemotherapy, and it is reversible in mild cases when appropriately treated. The mechanism of RTA induced by chemotherapy in cancer patients has not yet been clearly elucidated. Oncologists should therefore be aware of the potential for RTA to occur after capecit",
+        "journal": "International journal of clinical oncology",
+        "year": "2010",
+        "authors": [
+          "Sonnenblick Amir",
+          "Meirovitz Amichay"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acidosis, Renal Tubular",
+          "Adenocarcinoma",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Cetuximab",
+          "Chemotherapy, Adjuvant",
+          "Colectomy",
+          "Colonic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20217448/"
+      },
+      {
+        "pmid": "32969889",
+        "title": "Impact of Anatomic Extent of Nodal Metastasis on Adjuvant Chemotherapy Outcomes in Stage III Colon Cancer.",
+        "abstract": "An oxaliplatin-based chemotherapy regimen improves the survival outcomes of patients with stage III colon cancer. However, its complications are well-known.",
+        "journal": "Diseases of the colon and rectum",
+        "year": "2020",
+        "authors": [
+          "Woo In Teak",
+          "Park Jun Seok",
+          "Kang Byung Woog",
+          "Park Soo Yeun",
+          "Kim Hye Jin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Capecitabine",
+          "Chemotherapy, Adjuvant",
+          "Colonic Neoplasms",
+          "Female",
+          "Fluorouracil",
+          "Humans",
+          "Leucovorin",
+          "Lymphatic Metastasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32969889/"
+      },
+      {
+        "pmid": "36720570",
+        "title": "Pathological response and safety of FOLFOXIRI for neoadjuvant treatment of high-risk relapsed locally advanced colon cancer: study protocol for a single-arm, open-label phase II trial.",
+        "abstract": "Neoadjuvant chemotherapy (NAC) has been demonstrated effective in several tumours, but its benefit has not yet been elucidated in colorectal cancer, especially locally advanced colorectal cancer (LACRC).",
+        "journal": "BMJ open",
+        "year": "2023",
+        "authors": [
+          "Chen Xiaorong",
+          "Leng Weibing",
+          "Zhou YuWen",
+          "Yu Yongyang",
+          "Meng Wenjian"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Camptothecin",
+          "Quality of Life",
+          "Clinical Trials, Phase II as Topic",
+          "Organoplatinum Compounds",
+          "Prospective Studies",
+          "Humans",
+          "Leucovorin",
+          "Fluorouracil",
+          "Colonic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36720570/"
+      },
+      {
+        "pmid": "25580640",
+        "title": "Overexpression of chemokine receptor CXCR2 and ligand CXCL7 in liver metastases from colon cancer is correlated to shorter disease-free and overall survival.",
+        "abstract": "Our aim was to analyze the potential role of chemokine receptors CXCR2 and CXCR4 signalling pathways in liver metastatic colorectal cancer (CRC) relapse. CXCR2, CXCR4, and their chemokine ligands were evaluated in liver metastases of colorectal cancer in order to study their correlation with overall and disease-free survival of patients having received, or not received, a neoadjuvant chemotherapy regimen. Quantitative RT-PCR and CXCR2 immunohistochemical staining were carried out using CRC liver metastasis samples. Expression levels of CXCR2, CXCR4, and their ligands were statistically analyzed according to treatment with neoadjuvant chemotherapy and patients' outcome. CXCR2 and CXCL7 overexpression are correlated to shorter overall and disease-free survival. By multivariate analysis, CXCR2 and CXCL7 expressions are independent factors of overall and disease-free survival. Neoadjuvant chemotherapy increases significantly the expression of CXCR2: treated group 1.89 (0.02-50.92) vs 0.55 ",
+        "journal": "Cancer science",
+        "year": "2015",
+        "authors": [
+          "Desurmont Thibault",
+          "Skrypek Nicolas",
+          "Duhamel Alain",
+          "Jonckheere Nicolas",
+          "Millet Guillaume"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Camptothecin",
+          "Capecitabine",
+          "Colonic Neoplasms",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Female",
+          "Fluorouracil",
+          "Humans",
+          "Leucovorin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25580640/"
+      },
+      {
+        "pmid": "24821441",
+        "title": "Increased mean corpuscular volume of red blood cells in patients treated with capecitabine for advanced breast and colon cancer.",
+        "abstract": "Capecitabine has demonstrated significant activity in metastatic breast and colorectal cancer. During the course of treatment with capecitabine, we observed that a relevant number of patients developed elevated levels of the mean corpuscular volume (MCV) of red blood cells.",
+        "journal": "Chemotherapy",
+        "year": "2013",
+        "authors": [
+          "Scarabelli Laura",
+          "Giovanardi Filippo",
+          "Gervasi Erika",
+          "Prati Giuseppe",
+          "Pezzuolo Debora"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Breast Neoplasms",
+          "Capecitabine",
+          "Colonic Neoplasms",
+          "Deoxycytidine",
+          "Disease Progression",
+          "Erythrocyte Indices",
+          "Female",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24821441/"
+      },
+      {
+        "pmid": "22617773",
+        "title": "Antitumor effects of FP3 in combination with capecitabine on PDTT xenograft models of primary colon carcinoma and related lymphatic and hepatic metastases.",
+        "abstract": "FP3 is an engineered protein which contains the extracellular domain 2 of VEGF receptor 1 (Flt-1) and extracellular domain 3 and 4 of VEGF receptor 2 (Flk-1, KDR) fused to the Fc portion of human immunoglobulin G 1. Previous studies demonstrated its antiangiogenic effects in vitro and in vivo, and its antitumor activity in vivo. In this study, patient-derived tumor tissue (PDTT) xenograft models of primary colon carcinoma and lymphatic and hepatic metastases were established for assessment of the antitumor activity of FP3 in combination with capecitabine. Xenografts were treated with FP3, capecitabine, alone or in combination. After tumor growth was confirmed, volume and microvessel density in tumors were evaluated. Levels of VEGF, and PCNA in the tumor were examined by immunohistonchamical staining, level of thymidine phosphorylase (TP) was examined by ELISA, and levels of related cell signaling pathways proteins expression were examined by western blotting. FP3 in combination with ca",
+        "journal": "Cancer biology & therapy",
+        "year": "2012",
+        "authors": [
+          "Jin Ketao",
+          "Lan Huanrong",
+          "Xie Bojian",
+          "He Kuifeng",
+          "Xu Zhenzhen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Animals",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Body Weight",
+          "Capecitabine",
+          "Carcinoma",
+          "Colonic Neoplasms",
+          "Deoxycytidine",
+          "Drug Synergism",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22617773/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:45:11.148969",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,499 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "benign prostatic hyperplasia",
+    "query_string": "Tadalafil AND benign prostatic hyperplasia"
+  },
+  "data": {
+    "query": "Tadalafil AND benign prostatic hyperplasia",
+    "results": [
+      {
+        "pmid": "30901259",
+        "title": "Tadalafil for the treatment of benign prostatic hyperplasia.",
+        "abstract": "In men, lower urinary tract symptoms (LUTS) are primarily attributed to benign prostatic hyperplasia (BPH). Therapeutic options are targeted to relax prostate smooth muscle and/or reduce prostate enlargement. Areas covered: This article reviews the major preclinical and clinical data on PDE5 inhibitors with a specific focus on tadalafil. It includes details of the role of the nitric oxide (NO)-cyclic guanosine monophosphate (cGMP) - PDE5 pathway in the LUT organs (bladder and prostate) in addition to the available data on tadalafil in patients with LUTS secondary to BPH with or without erectile dysfunction (ED). Expert opinion: Preclinical and clinical data have clearly demonstrated that PDE5 inhibitors induce bladder and prostate relaxation, which contributes to the improvement seen in storage symptoms in both animal models of bladder and prostate hypercontractility. Tadalafil is effective both as a monotherapy and add-on therapy in patients with LUTS secondary to BPH. Furthermore, as",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2019",
+        "authors": [
+          "Mónica Fabiola Zakia",
+          "De Nucci Gilberto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "5-alpha Reductase Inhibitors",
+          "Animals",
+          "Erectile Dysfunction",
+          "Humans",
+          "Lower Urinary Tract Symptoms",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Sexual Dysfunction, Physiological",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30901259/"
+      },
+      {
+        "pmid": "40658396",
+        "title": "Lower Urinary Tract Symptoms in Men: A Review.",
+        "abstract": "Up to 40% of men older than 50 years have lower urinary tract symptoms, including urinary urgency, nocturia, and weak urinary stream, due to disorders of the bladder and prostate. These symptoms negatively affect quality of life and may be associated with urinary retention, which can cause kidney insufficiency, bladder calculi, hematuria, and urinary tract infections.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Wei John T",
+          "Dauw Casey A",
+          "Brodsky Casey N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "5-alpha Reductase Inhibitors",
+          "Adrenergic alpha-Antagonists",
+          "Lower Urinary Tract Symptoms",
+          "Prostatic Hyperplasia",
+          "Urinary Bladder Neck Obstruction",
+          "Urinary Bladder, Overactive",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40658396/"
+      },
+      {
+        "pmid": "38081154",
+        "title": "Comparison of Monotherapies and Combination Therapy of Tamsulosin and Tadalafil for Treating Lower Urinary Tract Symptoms Caused by Benign Prostatic Hyperplasia with or without Erectile Dysfunction: A Meta-Analysis.",
+        "abstract": "There is limited research into the efficacy and safety of tadalafil combined with tamsulosin for the treatment of lower urinary tract symptoms (LUTS) caused by benign prostatic hyperplasia (BPH), with or without erectile dysfunction (ED). Therefore, we aimed to investigate the efficacy and safety of combination therapy compared to that of monotherapy.",
+        "journal": "Urologia internationalis",
+        "year": "2024",
+        "authors": [
+          "Liu Jianping",
+          "Zhou Weijian",
+          "Zhang Peng",
+          "Zhang Wei",
+          "Chang Congwang"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Lower Urinary Tract Symptoms",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Tadalafil",
+          "Tamsulosin",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38081154/"
+      },
+      {
+        "pmid": "39172922",
+        "title": "Tamsulosin use in benign prostatic hyperplasia and risks of Parkinson's disease, Alzheimer's disease and mortality: An observational cohort study of elderly Medicare enrollees.",
+        "abstract": "To study the effects of benign prostatic hyperplasia treatments, namely: alpha-adrenergic receptor blockers, 5-alpha-reductase inhibitors and phosphodiesterase-5 inhibitors on the risk of Parkinson's disease, Alzheimer's disease and mortality.",
+        "journal": "PloS one",
+        "year": "2024",
+        "authors": [
+          "Fung Kin Wah",
+          "Baye Fitsum",
+          "Baik Seo H",
+          "McDonald Clement J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Tamsulosin",
+          "Aged",
+          "Prostatic Hyperplasia",
+          "Alzheimer Disease",
+          "Medicare",
+          "United States",
+          "Parkinson Disease",
+          "Aged, 80 and over"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39172922/"
+      },
+      {
+        "pmid": "31625449",
+        "title": "Meta-Analysis of Efficacy and Safety of Tadalafil Plus Tamsulosin Compared with Tadalafil Alone in Treating Men with Benign Prostatic Hyperplasia and Erectile Dysfunction.",
+        "abstract": "This meta-analysis was performed to evaluate the efficacy and safety of tadalafil plus tamsulosin compared with tadalafil alone in treating men with benign prostatic hyperplasia (BPH) and erectile dysfunction (ED) after 12 weeks' treatment. Systematic review was carried out using the Preferred Reporting Items for Systematic Reviews and Meta-analyses. MEDLINE, EMBASE, and the Cochrane Controlled Trials Register were searched to collect randomized controlled trials. The references of related articles were also searched. Four articles including 621 patients were involved in the analysis. The study identified that combination-therapy had significant improvements in total international prostate symptom score (IPSS), quality of life (QoL) and maximum urine flow rate (Qmax) compared with monotherapy, and there were no obvious significance in respects of post-void residual volume, international index of erectile function and IPSS storage. The difference of total IPSS was mainly reflected in th",
+        "journal": "American journal of men's health",
+        "year": "2019",
+        "authors": [
+          "Zhou Zhongbao",
+          "Zheng Xuesong",
+          "Wu Jitao",
+          "Gao Zhenli",
+          "Xu Zhunan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Phosphodiesterase Inhibitors",
+          "Prostatic Hyperplasia",
+          "Tadalafil",
+          "Tamsulosin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31625449/"
+      },
+      {
+        "pmid": "34712682",
+        "title": "Efficacy and Safety of 12-week Monotherapy With Once Daily 5 mg Tadalafil for Lower Urinary Tract Symptoms of Benign Prostatic Hyperplasia: Evidence-based Analysis.",
+        "abstract": "Background: Tadalafil has been approved for the treatment of benign prostatic hyperplasia (BPH) for nearly 10 years. However, there are insufficient evidence-based studies of the efficacy and safety of tadalafil in treating lower urinary tract symptoms of BPH (LUTS/BPH). Objective: To evaluate the therapeutic effect and clinical safety of tadalafil monotherapy (5 mg once daily for 12 weeks) for LUTS/BPH. Methods: A total of 13 studies (15 randomized clinical trials [RCTs]) were extracted from the following databases: PubMed, Cochrane Central Register of Controlled Trials, Embase, and Web of Science for the period up to July 2021. The quality of the included RCTs was evaluated independently by two authors, who, respectively, extracted data according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses principles. Conflicts were settled by a discussion with two-third of senior authors. All data analyses were conducted by the Review Manager, version 5.4. Results: Rega",
+        "journal": "Frontiers in medicine",
+        "year": "2021",
+        "authors": [
+          "Cui Jianwei",
+          "Cao Dehong",
+          "Bai Yunjin",
+          "Wang Jiahao",
+          "Yin Shan"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34712682/"
+      },
+      {
+        "pmid": "38308714",
+        "title": "Tadalafil versus tamsulosin as combination therapy with 5-alpha reductase inhibitors in benign prostatic hyperplasia, urinary and sexual outcomes.",
+        "abstract": "To compare the urological and sexual outcomes of using either tamsulosin/finateride or tadalafil/finasteride as combination therapies in patients with large prostate.",
+        "journal": "World journal of urology",
+        "year": "2024",
+        "authors": [
+          "Tawfik Ahmed",
+          "Abo-Elenen Mohammed",
+          "Gaber Mohammed",
+          "El-Abd Ahmed",
+          "Zoeir Ahmed"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "5-alpha Reductase Inhibitors",
+          "Drug Therapy, Combination",
+          "Erectile Dysfunction",
+          "Finasteride",
+          "Lower Urinary Tract Symptoms",
+          "Prostatic Hyperplasia",
+          "Quality of Life",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38308714/"
+      },
+      {
+        "pmid": "35074250",
+        "title": "Combination of Tadalafil and Finasteride for the Treatment of Urinary Tract Symptoms Related to Benign Prostatic Hyperplasia: Commercialization of the Prescribing Cascade.",
+        "abstract": "An oral capsule combining finasteride and tadalafil was recently approved in the USA for signs and symptoms of benign prostatic hyperplasia (BPH). The authors argue that this new formulation has a limited role in the management of BPH and represents an avoidable prescribing cascade and low-value care. There is an armamentarium of medical and surgical alternatives that should be considered instead of a tadalafil and finasteride combination therapy given the problem of increasing polypharmacy and considerations for value-based care.",
+        "journal": "European urology",
+        "year": "2022",
+        "authors": [
+          "Nguyen David-Dan",
+          "Trinh Quoc-Dien",
+          "Bhojani Naeem"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Drug Therapy, Combination",
+          "Finasteride",
+          "Humans",
+          "Lower Urinary Tract Symptoms",
+          "Male",
+          "Prostatic Hyperplasia",
+          "Tadalafil",
+          "Treatment Outcome",
+          "Urinary Tract"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35074250/"
+      },
+      {
+        "pmid": "39287476",
+        "title": "Tadalafil use is associated with a lower incidence of Type 2 diabetes in men with benign prostatic hyperplasia: A population-based cohort study.",
+        "abstract": "Tadalafil, commonly prescribed for benign prostatic hyperplasia (BPH), may benefit patients with Type 2 diabetes mellitus (T2DM) for glycemic markers and complications. However, the association between the long-term use of tadalafil and the incidence of T2DM has not been investigated.",
+        "journal": "Journal of internal medicine",
+        "year": "2024",
+        "authors": [
+          "Takayama Atsushi",
+          "Yoshida Satomi",
+          "Kawakami Koji"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tadalafil",
+          "Male",
+          "Diabetes Mellitus, Type 2",
+          "Prostatic Hyperplasia",
+          "Incidence",
+          "Aged",
+          "Middle Aged",
+          "Japan",
+          "Phosphodiesterase 5 Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39287476/"
+      },
+      {
+        "pmid": "25083163",
+        "title": "A review of the use of tadalafil in the treatment of benign prostatic hyperplasia in men with and without erectile dysfunction.",
+        "abstract": "Epidemiological data link erectile dysfunction (ED) and benign prostatic hyperplasia (BPH)-associated lower urinary tract symptoms (LUTS), two highly prevalent conditions in aging men, assuming common pathophysiological pathways. Tadalafil 5 mg once daily has been approved for the treatment of men with LUTS with or without comorbid ED. The aim of this review is to provide an overview of current knowledge on the epidemiological and pathophysiological links between ED and LUTS and to focus on tadalafil as a new treatment option in men with BPH-associated LUTS. A Medline search was completed using the Medical Subject Headings (MESH® keywords) 'prostatic hyperplasia' and 'phosphodiesterase inhibitors'. This search revealed 125 relevant references (entire Medline database up to 11 March 2014). The efficacy of tadalafil 5 mg once daily for the treatment of LUTS has been reported by several well-designed studies. Tadalafil improves significantly the total International Prostate Symptom Score ",
+        "journal": "Therapeutic advances in urology",
+        "year": "2014",
+        "authors": [
+          "Hatzimouratidis Konstantinos"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25083163/"
+      },
+      {
+        "pmid": "25848297",
+        "title": "Combination of tadalafil and finasteride for improving the symptoms of benign prostatic hyperplasia: critical appraisal and patient focus.",
+        "abstract": "The evidence suggests that combination therapy for benign prostatic hyperplasia (BPH)-lower urinary tract symptoms (LUTS) using an α-blocker and a 5α-reductase inhibitor has become well accepted. The combination of daily tadalafil and an α-blocker has also demonstrated benefit. This paper addresses combination therapy with daily tadalafil and finasteride for the treatment of BPH-LUTS. Our results demonstrate that use of tadalafil and finasteride represents a logical extension of combination therapies. We analyze a landmark study by Casabé et al that demonstrates improved voiding symptoms as assessed by International Prostate Symptom Scores with a combination of tadalafil and finasteride compared with finasteride and placebo. Study patients had moderate to severe LUTS and prostate volumes >30 g. The additional benefit of improved erectile function as assessed by International Index of Erectile Function-erectile function domain scores with the addition of tadalafil was a secondary benefi",
+        "journal": "Therapeutics and clinical risk management",
+        "year": "2015",
+        "authors": [
+          "Elkelany Osama O",
+          "Owen Ryan C",
+          "Kim Edward D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25848297/"
+      },
+      {
+        "pmid": "27928428",
+        "title": "Evidence for the efficacy and safety of tadalafil and finasteride in combination for the treatment of lower urinary tract symptoms and erectile dysfunction in men with benign prostatic hyperplasia.",
+        "abstract": "Benign prostatic hyperplasia (BPH) is an age-related phenomenon associated with prostatic enlargement and bladder outlet obstruction that can cause significant lower urinary tract symptoms (LUTS). These LUTS have a negative impact on an individual's quality of life, which is why treatment of symptomatic BPH has become a major priority. Although surgical interventions exist for treating BPH, pharmacological therapies are often preferred due to their minimal invasiveness and high degree of effectiveness. The three classes of drugs approved for treating BPH include α-blockers, 5-α-reductase inhibitors (5-ARIs) and phosphodiesterase 5 (PDE-5) inhibitors. Individually, each class of drug has been studied and shown to improve symptom relief through a variety of different mechanisms. A more recent focus has been on the development of combinatorial therapies that combine classes of drugs in order to provide maximal benefit. The mTOPS and CombAT studies were the first of their kind to examine w",
+        "journal": "Therapeutic advances in urology",
+        "year": "2016",
+        "authors": [
+          "Olesovsky Chris",
+          "Kapoor Anil"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27928428/"
+      },
+      {
+        "pmid": "23816815",
+        "title": "Efficacy and safety of tadalafil monotherapy for lower urinary tract symptoms secondary to benign prostatic hyperplasia: a meta-analysis.",
+        "abstract": "To evaluate the efficacy and safety of tadalafil monotherapy for lower urinary tract symptoms secondary to benign prostatic hyperplasia (LUTS/BPH).",
+        "journal": "Urologia internationalis",
+        "year": "2013",
+        "authors": [
+          "Dong Yang",
+          "Hao Lin",
+          "Shi Zhenduo",
+          "Wang Gang",
+          "Zhang Zhiguo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Carbolines",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Patient Safety",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Quality of Life",
+          "Randomized Controlled Trials as Topic",
+          "Research Design"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23816815/"
+      },
+      {
+        "pmid": "39532245",
+        "title": "Benefits of Tadalafil and Sildenafil on Mortality, Cardiovascular Disease, and Dementia.",
+        "abstract": "Erectile dysfunction and lower urinary tract symptoms, from benign prostatic hyperplasia and bladder neck obstructions, are prevalent in men and associated with an increased risk of cardiovascular diseases. Phosphodiesterase-5 (PDE-5) inhibitors, such as tadalafil and sildenafil, are used to treat erectile dysfunction and may also offer cardiovascular benefits due to their vasodilatory effects. This study evaluates the impact of these PDE-5 inhibitors on all-cause mortality, cardiovascular disease, and dementia in middle-aged men with erectile dysfunction and lower urinary tract symptoms over a 3 year follow-up period.",
+        "journal": "The American journal of medicine",
+        "year": "2025",
+        "authors": [
+          "Jehle Dietrich von Kuenssberg",
+          "Sunesra Raheed",
+          "Uddin Hamza",
+          "Paul Krishna K",
+          "Joglar Alejandro A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Tadalafil",
+          "Sildenafil Citrate",
+          "Cardiovascular Diseases",
+          "Phosphodiesterase 5 Inhibitors",
+          "Erectile Dysfunction",
+          "Middle Aged",
+          "Longitudinal Studies",
+          "Dementia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39532245/"
+      },
+      {
+        "pmid": "37389026",
+        "title": "Soluble Guanylate Cyclase Activators to Treat Benign Prostatic Hyperplasia and associated LUTS.",
+        "abstract": "This review summarises the presentations during a workshop session entitled \"The Use of Soluble Guanylate Cyclase Activators to Treat Benign Prostatic Hyperplasia, Obstruction and Fibrosis - Mechanistic Concepts and Clinical Implications\" at the International Continence Society (ICS) 2021 Melbourne Virtual meeting. Benign prostatic hyperplasia (BPH) is a highly prevalent condition that can result in bladder outflow obstruction (BOO) and development of lower urinary tract symptoms (LUTS), and by 80 years of age is present in about 75% of men. Current pharmacological therapies include α-adrenoceptor antagonists, 5α-reductase inhibitors, and the phosphodiesterase type 5 (PDE5) inhibitor, tadalafil. The efficacy of tadalafil suggests a role for nitric oxide (NO•) through activation of soluble guanylate cyclase (sGC) and production of cyclic guanosine 3'5'-monophosphate (cGMP), a cyclic nucleotide that relaxes smooth muscle, reduces neurotransmitter release and also acts as an antifibrotic ",
+        "journal": "Continence (Amsterdam, Netherlands)",
+        "year": "2023",
+        "authors": [
+          "Kanai A J",
+          "Andersson K-E",
+          "Birder L A",
+          "Fry C H"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37389026/"
+      },
+      {
+        "pmid": "26425140",
+        "title": "Tadalafil for lower urinary tract symptoms secondary to benign prostatic hyperplasia: a review of clinical data in Asian men and an update on the mechanism of action.",
+        "abstract": "Tadalafil, a phosphodiesterase type 5 (PDE5) inhibitor, is approved worldwide for the treatment of lower urinary tract symptoms secondary to benign prostatic hyperplasia (BPH-LUTS). The purpose of this narrative review is to summarize the clinical data on tadalafil 5 mg once-daily, primarily focusing on Asian men with BPH-LUTS, and to update the current understanding of the mechanism of action underlying PDE5 inhibition. Findings from studies have demonstrated that PDE5 is highly expressed in the lower urinary tract and supporting vasculature, and that PDE5 inhibition potentially decreases smooth muscle cell proliferation in the prostate, relaxes smooth muscle in the prostate, bladder neck and supporting vasculature, increases blood perfusion to the lower urinary tract, and modulates bladder afferent nerve activity. A total of 11 larger, 12-week, double-blind, randomized, placebo-controlled studies of tadalafil, including four Asian studies, have been conducted globally, enrolling >300",
+        "journal": "Therapeutic advances in urology",
+        "year": "2015",
+        "authors": [
+          "Yokoyama Osamu",
+          "Igawa Yasuhiko",
+          "Takeda Masayuki",
+          "Yamaguchi Takafumi",
+          "Murakami Masahiro"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26425140/"
+      },
+      {
+        "pmid": "23018613",
+        "title": "Tadalafil: in the treatment of signs and symptoms of benign prostatic hyperplasia with or without erectile dysfunction.",
+        "abstract": "Tadalafil is a selective cyclic guanosine monophosphate-specific phosphodiesterase type 5 inhibitor. Once-daily tadalafil 5 mg was effective in treating the signs and symptoms of benign prostatic hyperplasia (BPH). In phase III trials in men with BPH, the mean change from baseline to week 12 in the total International Prostate Symptom Score (IPSS; primary endpoint) was significantly greater in those treated with once-daily tadalafil 5 mg than with placebo. Improvements in total IPSS that occurred over the initial 12 weeks of tadalafil treatment were maintained with continued treatment over a 1-year period in an open-label extension study. Moreover, tadalafil was effective in treating both erectile dysfunction (ED) and the signs and symptoms of BPH in a phase III trial that specifically enrolled men with both indications. Both the International Index of Erectile Function-Erectile Function domain score and the total IPSS (co-primary endpoints) were significantly improved from baseline to",
+        "journal": "Drugs & aging",
+        "year": "2012",
+        "authors": [
+          "Curran Monique P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbolines",
+          "Erectile Dysfunction",
+          "Humans",
+          "Male",
+          "Prostatic Hyperplasia",
+          "Safety",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23018613/"
+      },
+      {
+        "pmid": "21284024",
+        "title": "Tadalafil for the treatment of lower urinary tract symptoms secondary to benign prostatic hyperplasia: pathophysiology and mechanism(s) of action.",
+        "abstract": "The PDE5 inhibitor tadalafil is investigation for the treatment of lower urinary tract symptoms (LUTS) in men with benign prostatic hyperplasia (BPH). Several clinical studies of tadalafil and other PDE5 inhibitors have reported significant symptom reduction but limited urinary flow rate improvement. This manuscript reviews the published literature describing the pathophysiology of male LUTS, with an emphasis on mechanisms that may be modulated or improved by phosphodiesterase type 5 (PDE5) inhibition.",
+        "journal": "Neurourology and urodynamics",
+        "year": "2011",
+        "authors": [
+          "Andersson Karl-Erik",
+          "de Groat William C",
+          "McVary Kevin T",
+          "Lue Tom F",
+          "Maggi Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carbolines",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Male",
+          "Phosphodiesterase 5 Inhibitors",
+          "Prostatic Hyperplasia",
+          "Recovery of Function",
+          "Signal Transduction",
+          "Tadalafil",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21284024/"
+      },
+      {
+        "pmid": "24459652",
+        "title": "Urinary Tract Symptoms (LUTS) Secondary to Benign Prostatic Hyperplasia (BPH) and LUTS/BPH with Erectile Dysfunction in Asian Men: A Systematic Review Focusing on Tadalafil.",
+        "abstract": "This review assesses lower urinary tract symptoms (LUTS) due to benign prostatic hyperplasia (BPH) with or without erectile dysfunction (ED) and related therapies focusing on tadalafil. A literature search was obtained and reviewed for the epidemiology, treatment therapies, pathophysiology, and efficacy and safety of phosphodiesterase type 5 inhibitor (PDE5i) tadalafil in patients with LUTS/BPH. Approximately 42% of men aged 51 to 60 years have BPH. Approximately 90% of men aged 45 to 80 years have LUTS. Occurrence of LUTS increases with age for almost all racial/ethnic groups (range, 32% to 56%) with prevalence of LUTS highest among Hispanic men, then Blacks, Caucasians, and Asians. There is an independent relationship with LUTS/BPH and ED, with approximately 70% of men with LUTS/BPH having ED with severity of one disease often correlating with the other. The European Urological Association guidelines include the use of the PDE5i tadalafil. Tadalafil is the only therapy recommended fo",
+        "journal": "The world journal of men's health",
+        "year": "2013",
+        "authors": [
+          "Park Hyun Jun",
+          "Won Ji Eon Joanne",
+          "Sorsaburu Sebastian",
+          "Rivera Paul David",
+          "Lee Seung Wook"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24459652/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:47:22.579145",
+  "success": true,
+  "error_message": null
+}

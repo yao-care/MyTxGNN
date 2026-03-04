@@ -1,0 +1,552 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Meloxicam",
+    "disease": "osteoarthritis",
+    "query_string": "Meloxicam AND osteoarthritis"
+  },
+  "data": {
+    "query": "Meloxicam AND osteoarthritis",
+    "results": [
+      {
+        "pmid": "38587872",
+        "title": "2024 ISFM and AAFP consensus guidelines on the long-term use of NSAIDs in cats.",
+        "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are widely used and are effective for the management of pain in cats. These Guidelines will support veterinarians in decision-making around prescribing NSAIDs in situations of chronic pain, to minimise adverse effects and optimise pain management. Information is provided on mechanism of action, indications for use, screening prior to prescription, use in the presence of comorbidities, monitoring of efficacy, and avoidance and management of adverse effects.",
+        "journal": "Journal of feline medicine and surgery",
+        "year": "2024",
+        "authors": [
+          "Taylor Samantha",
+          "Gruen Margaret",
+          "KuKanich Kate",
+          "X Lascelles B Duncan",
+          "Monteiro Beatriz P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Cats",
+          "Animals",
+          "Humans",
+          "Chronic Pain",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Pain Management",
+          "Renal Insufficiency, Chronic",
+          "Veterinarians",
+          "Cat Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38587872/"
+      },
+      {
+        "pmid": "40434930",
+        "title": "Pentoxifylline in Dogs With Osteoarthritis: Comparative Treatment and Efficacy Analysis With Meloxicam.",
+        "abstract": "Osteoarthritis is a chronic joint disease that affects dogs and humans alike, with nonsteroidal anti-inflammatory drugs (NSAIDs) being the primary drug treatment for pain relief. This study hypothesised that pentoxifylline could be a potent therapeutic option for canine osteoarthritis, offering superior benefits compared to meloxicam. The study aimed to mitigate inflammation and degeneration, safeguard joint integrity, and assess pentoxifylline's potential as a safer and more effective alternative to NSAIDs in osteoarthritis management.",
+        "journal": "Veterinary medicine and science",
+        "year": "2025",
+        "authors": [
+          "Parlak Kurtuluş",
+          "Zamirbekova Erdogan Nuriza",
+          "Parlak Tugba Melike",
+          "Uzunlu Elgin Orçum",
+          "Dik Burak"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comparative Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Meloxicam",
+          "Dogs",
+          "Pentoxifylline",
+          "Osteoarthritis",
+          "Dog Diseases",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Male",
+          "Female",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40434930/"
+      },
+      {
+        "pmid": "12387696",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam (Mobic trade mark, Boehringer Ingelheim) is a relatively new oral non-steroidal anti-inflammatory drug (NSAID) approved for the treatment of osteoarthritis in the US. It has also been evaluated for the treatment of rheumatoid arthritis, ankylosing spondylitis and acute 'rheumatic' pain. Meloxicam has been shown to be COX-2 preferential, particularly at its lowest therapeutic dose, and is anti-inflammatory by inhibiting prostanoid synthesis in inflammatory cells. Since it is COX-2 preferential, it would be expected to have less gastrointestinal toxicity than non-selective NSAIDs. In clinical trials of meloxicam in osteoarthritis, it was found to be as effective as piroxicam, diclofenac and naproxen with less clinical gastrointestinal symptoms and less perforations, obstructions and bleeds by meta-analysis. Adverse events, including peripheral oedema and hypertension, occurred at a similar rate as with traditional NSAIDs.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2002",
+        "authors": [
+          "Fleischmann Roy",
+          "Iqbal Imran",
+          "Slobodin Gleb"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Drug Interactions",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Pain",
+          "Product Surveillance, Postmarketing",
+          "Spondylitis, Ankylosing",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12387696/"
+      },
+      {
+        "pmid": "40196808",
+        "title": "A randomised, parallel-group clinical trial comparing bedinvetmab to meloxicam for the management of canine osteoarthritis.",
+        "abstract": "Bedinvetmab (Librela®), a fully canine anti-nerve growth factor monoclonal antibody, was compared to the non-steroidal anti-inflammatory drug (NSAID) meloxicam in dogs for the management of osteoarthritis-related pain in a randomised, open-label, multicentre, parallel-group study. Subjects were recruited from general practices as client-owned dogs with appendicular osteoarthritis. Dogs were block randomised 1:1 to either daily oral meloxicam or bedinvetmab, administered subcutaneously once a month. The primary endpoint for efficacy was the change from baseline in the Canine Orthopaedic Index (COI) score. Linear mixed-effects models were used for statistical analysis conducted on a per-protocol and intent-to-treat basis. We hypothesised that bedinvetmab would demonstrate superior efficacy and safety compared to meloxicam; the number needed to harm (NNH) for meloxicam, relative to bedinvetmab, was calculated. Of the 190 screened dogs, 101 were randomised (bedinvetmab 52; meloxicam 49). O",
+        "journal": "Frontiers in veterinary science",
+        "year": "2025",
+        "authors": [
+          "Innes John F",
+          "Lascelles B Duncan X",
+          "Bell Daniel",
+          "Tulloch Robert",
+          "McVey Alex"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40196808/"
+      },
+      {
+        "pmid": "8882380",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam is a new nonsteroidal anti-inflammatory drug (NSAID) developed for the treatment of rheumatoid arthritis and osteoarthritis. It has greater in vitro and in vivo inhibitory action against the inducible isoform of cyclo-oxygenase (COX-2), which is implicated in the inflammatory response, than against the constitutive form of this enzyme (COX-1), inhibition of which is associated with gastric, renal and other adverse effects. It has anti-inflammatory effects similar to or better than those of other NSAIDs in animal models, and a greater therapeutic ratio (ulcerogenic potential:efficacy in adjuvant arthritis). In healthy volunteers meloxicam 7.5 or 15 mg caused less gastrointestinal mucosal damage on endoscopy than piroxicam 20 mg, with a significant difference between meloxicam 7.5 mg and piroxicam. In comparative clinical trials, meloxicam was at least as effective as piroxicam and naproxen in patients with rheumatoid arthritis, and diclofenac and piroxicam in patients with ost",
+        "journal": "Drugs",
+        "year": "1996",
+        "authors": [
+          "Noble S",
+          "Balfour J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis, Rheumatoid",
+          "Biological Availability",
+          "Clinical Trials as Topic",
+          "Half-Life",
+          "Humans",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8882380/"
+      },
+      {
+        "pmid": "37180348",
+        "title": "Meloxicam hydro-chloride.",
+        "abstract": "The title salt, C14H14N3O4S2 +·Cl- [systematic name: 2-(4-hy-droxy-2-methyl-1,1-dioxo-1,2-benzo-thia-zine-3-amido)-5-methyl-1,3-thia-zol-3-ium chloride] is the hydro-chloride derivative of meloxicam, a drug used to treat pain and inflammation in rheumatic disorders and osteoarthritis. Although its mol-ecular structure is similar to that previously reported for the hydro-bromide analogue, both salts are not isomorphous. Different crystal structures originate from a conformational modification, arising from a degree of rotational freedom for the thia-zolium ring in the cations. By taking as a reference the conformation of meloxicam, the thia-zolium ring is twisted by 10.96 and -16.70° in the hydro-chloride and hydro-bromide salts, while the 1,2-benzo-thia-zine core is a rigid scaffold. This behaviour could explain why meloxicam is a polymorphous compound.",
+        "journal": "IUCrData",
+        "year": "2023",
+        "authors": [
+          "Flores Manuel Fermin",
+          "Sosa Rivadeneyra Martha",
+          "Bernès Sylvain"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37180348/"
+      },
+      {
+        "pmid": "32164967",
+        "title": "Meloxicam.",
+        "abstract": "Meloxicam, an oxicam derivative: 4-Hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2- benzothiazine-3-carboxamide 1,1-dioxide, is a nonsteroidal anti-inflammatory drug (NSAID). It is a selective inhibitor of cyclooxygenase-2 (COX-2). It is used in the management of rheumatoid arthritis, acute exacerbations of osteoarthritis, ankylosing spondylitis and juvenile idiopathic arthritis. It is given in a single oral dose of 7.5mg, increased if necessary to a maximum of 15mg daily (7.5mg in the elderly). It may also be given by rectal suppository in doses similar to those used orally. The reported side effects of meloxicam are similar to those of nonsteroidal anti-inflammatory drugs (NSAIDs), such as abdominal pain, anemia, and edema. There is also an increased risk of serious gastrointestinal (GI) adverse events, including ulceration and bleeding. This profile is prepared to discuss and explain physical characteristics, Proprietary and nonproprietary names of meloxicam. It also includes metho",
+        "journal": "Profiles of drug substances, excipients, and related methodology",
+        "year": "2020",
+        "authors": [
+          "Khalil Nasr Y",
+          "Aldosari Khalid F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Arthritis",
+          "Humans",
+          "Meloxicam",
+          "Thiazines",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32164967/"
+      },
+      {
+        "pmid": "37348266",
+        "title": "Meloxicam emulgel potently suppressed cartilage degradation in knee osteoarthritis: Optimization, formulation, industrial scalability and pharmacodynamic analysis.",
+        "abstract": "Meloxicam (MLX) is prescribed for the management of pain and inflammation allied with osteoarthritis (OA). However, MLX causes intestinal damage in long term administration. Hence, meloxicam loaded emulgel (MLX-emulgel) was optimized, formulated and examined under stringent parameters in monosodium-iodoacetate (MIA) induced knee OA in Wistar rats.",
+        "journal": "Colloids and surfaces. B, Biointerfaces",
+        "year": "2023",
+        "authors": [
+          "Jyothi Vaskuri Gs Sainaga",
+          "Veerabomma Harithasree",
+          "Kumar Rahul",
+          "Khatri Dharmendra Kumar",
+          "Singh Shashi Bala"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Meloxicam",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Osteoarthritis, Knee",
+          "Rats, Wistar",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37348266/"
+      },
+      {
+        "pmid": "24859353",
+        "title": "Mavacoxib and meloxicam for canine osteoarthritis: a randomised clinical comparator trial.",
+        "abstract": "NSAIDs are the cornerstone of medical management of canine osteoarthritis (OA). Meloxicam is a daily-administered NSAID widely available in a liquid formulation and manufacturer's summary of product characteristics (SPC) advise that it is given at the lowest effective dose. Mavacoxib is a long-acting NSAID given as a monthly tablet. This study compares these drugs in the management of canine OA. In all, 111 dogs with OA of the elbow, hip or stifle were randomly assigned to receive one of these NSAIDs for a 12-week period, and to administer them as per the manufacturer's SPC. Outcomes, including ground reaction forces and three validated clinical metrology instruments, were measured at baseline, 6 and 12 weeks. Improvements were seen in all outcome measures for both groups to a similar degree, and adverse events occurred at a similar rate. There were significant improvements in outcome measures from week 6 to week 12, as well as from baseline. Long-term meloxicam dose was more important",
+        "journal": "The Veterinary record",
+        "year": "2014",
+        "authors": [
+          "Walton M B",
+          "Cowderoy E C",
+          "Wustefeld-Janssens B",
+          "Lascelles B D X",
+          "Innes J F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Dog Diseases",
+          "Dogs",
+          "Female",
+          "Male",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Pyrazoles",
+          "Thiazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24859353/"
+      },
+      {
+        "pmid": "28413731",
+        "title": "Meloxicam ameliorates the cartilage and subchondral bone deterioration in monoiodoacetate-induced rat osteoarthritis.",
+        "abstract": "This study aimed to quantify the cartilage- and subchondral bone-related effects of low-dose and high-dose meloxicam treatment in the late phase of mono-iodoacetate-induced osteoarthritis of the stifle.",
+        "journal": "PeerJ",
+        "year": "2017",
+        "authors": [
+          "Nagy Előd",
+          "Vajda Enikő",
+          "Vari Camil",
+          "Sipka Sándor",
+          "Fárr Ana-Maria"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28413731/"
+      },
+      {
+        "pmid": "18405470",
+        "title": "Cyclooxygenase-2 selective non-steroidal anti-inflammatory drugs (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis and rheumatoid arthritis: a systematic review and economic evaluation.",
+        "abstract": "To review the clinical effectiveness and cost-effectiveness of cyclooxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drugs (NSAIDs) (etodolac, meloxicam, celecoxib, rofecoxib, etoricoxib, valdecoxib and lumiracoxib) for osteoarthritis (OA) and rheumatoid arthritis (RA).",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2008",
+        "authors": [
+          "Chen Y-F",
+          "Jobanputra P",
+          "Barton P",
+          "Bryan S",
+          "Fry-Smith A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Ulcer Agents",
+          "Arthritis, Rheumatoid",
+          "Cost-Benefit Analysis",
+          "Cyclooxygenase 2 Inhibitors",
+          "Gastrointestinal Diseases",
+          "Humans",
+          "Markov Chains",
+          "Models, Econometric",
+          "Omeprazole",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18405470/"
+      },
+      {
+        "pmid": "35048626",
+        "title": "Bone and cartilage condition in experimental osteoarthritis and hypothyroidism.",
+        "abstract": "Aim To investigate changes in bone and cartilage tissue during the use of non-steroidal anti-inflammatory drugs and paracetamol in experimental osteoarthritis and hypothyroidism by the markers CTX-I and CTX-II. Methods The experiments were performed on 75 white nonlinear rats of both sexes, which recreated osteoarthritis and hypothyroidism. Experimental osteoarthritis was performed by single intra-articular administration of monoiodoacetic acid solution in the knee joint and experimental hypothyroidism was reconstructed by enteral administration of a solution of carbimazole. After the formation of the experimental models on the 42nd day of the experiment, the animals were divided into 14 groups and drug administration began daily for 5 days. The quantitative level of markers of blood serum was performed by specific kits, which are based on ELISA on 42 and 47 days of the experiment. Results The degree of influence on degenerative-dystrophic processes in bone tissue, which was assessed b",
+        "journal": "Medicinski glasnik : official publication of the Medical Association of Zenica-Doboj Canton, Bosnia and Herzegovina",
+        "year": "2022",
+        "authors": [
+          "Sergeevich Nosivets Dmytriy"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35048626/"
+      },
+      {
+        "pmid": "38944675",
+        "title": "Comparison of grapiprant and meloxicam for management of postoperative joint pain in dogs: A randomized, double-blinded, prospective clinical trial.",
+        "abstract": "Grapiprant is a novel anti-inflammatory drug approved for the treatment of pain associated with osteoarthritis in dogs.",
+        "journal": "Journal of veterinary internal medicine",
+        "year": "2024",
+        "authors": [
+          "Cassemiche Anaelle",
+          "Schoffit Sarah",
+          "Manassero Mathieu",
+          "Kohlhauer Matthias"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial, Veterinary",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dogs",
+          "Meloxicam",
+          "Postoperative Pain",
+          "Dog Diseases",
+          "Male",
+          "Double-Blind Method",
+          "Female",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38944675/"
+      },
+      {
+        "pmid": "23918578",
+        "title": "Efficacy of combination of meloxicam and pregabalin for pain in knee osteoarthritis.",
+        "abstract": "Osteoarthritic pain is largely considered to be inflammatory pain. Sensory nerve fibers innervating the knee have been shown to be significantly damaged in rat models of knee osteoarthritis (OA) in which the subchondral bone junction is destroyed, and this induces neuropathic pain (NP). Pregabalin was developed as a pain killer for NP; however, there are no reports on pregabalin use in OA patients. The purpose of this study was to investigate the efficacy of pregabalin for pain in OA patients.",
+        "journal": "Yonsei medical journal",
+        "year": "2013",
+        "authors": [
+          "Ohtori Seiji",
+          "Inoue Gen",
+          "Orita Sumihisa",
+          "Takaso Masashi",
+          "Eguchi Yawara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Male",
+          "Meloxicam",
+          "Middle Aged",
+          "Osteoarthritis, Knee",
+          "Pain Measurement"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23918578/"
+      },
+      {
+        "pmid": "35399845",
+        "title": "Effects of Warm Acupuncture Combined with Meloxicam and Comprehensive Nursing on Pain Improvement and Joint Function in Patients with Knee Osteoarthritis.",
+        "abstract": "To observe the effect of warm acupuncture combined with meloxicam and comprehensive nursing on pain improvement and joint function in patients with knee osteoarthritis.",
+        "journal": "Journal of healthcare engineering",
+        "year": "2022",
+        "authors": [
+          "Sun Zhengwen",
+          "Qu Xiaoli",
+          "Wang Tianmei",
+          "Liu Feng",
+          "Li Xue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acupuncture Therapy",
+          "Dinoprostone",
+          "Humans",
+          "Knee Joint",
+          "Meloxicam",
+          "Osteoarthritis, Knee",
+          "Pain",
+          "Serotonin",
+          "Superoxide Dismutase",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35399845/"
+      },
+      {
+        "pmid": "10769766",
+        "title": "Clinical efficacy and tolerance of meloxicam in dogs with chronic osteoarthritis.",
+        "abstract": "A clinical trial was conducted to evaluate the safety and efficacy of the nonsteroidal anti-inflammatory drug meloxicam in dogs with chronic osteoarthritis. Forty clinical cases were enrolled in the 2-phase study. Phase 1 compared therapeutic efficacy and tolerance of meloxicam or placebo for 1 week. Phase 2 involved a 4-week evaluation of the drug's clinical efficacy and tolerance. Clinical efficacy was evaluated by using a scoring system that assessed specific lameness, general stiffness, painful rise, exercise intolerance, and behavior. Evaluations demonstrated significant reductions (P < 0.05) in clinical signs of osteoarthritis following 4 weeks of drug therapy. Side effects were minimal in extent and duration. The drug was accepted without problems in the majority of cases. The findings of this investigation suggest that the efficacy, tolerance, and formulation of meloxicam oral suspension make it well suited for the treatment of chronic osteoarthritis in the dog.",
+        "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+        "year": "2000",
+        "authors": [
+          "Doig P A",
+          "Purbrick K A",
+          "Hare J E",
+          "McKeown D B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Chronic Disease",
+          "Dog Diseases",
+          "Dogs",
+          "Female",
+          "Male",
+          "Meloxicam",
+          "Osteoarthritis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10769766/"
+      },
+      {
+        "pmid": "36816604",
+        "title": "Intra-articular treatment of temporomandibular joint osteoarthritis by injecting actively-loaded meloxicam liposomes with dual-functions of anti-inflammation and lubrication.",
+        "abstract": "Temporomandibular joint (TMJ) osteoarthritis is a common osteochondral degenerative disease which can severely affect patient's mouth opening and mastication. Meloxicam (MLX), one of the most widely used non-steroidal anti-inflammatory drugs, is the main clinical therapy for the treatment of TMJ osteoarthritis. However, the clinical effect is greatly compromised because of its poor water solubility and high lipophilicity. In the present study, we developed an actively-loaded liposomal formulation, namely MLX-Ca(AC)2Lipo, using meglumine to enhance aqueous solubility and divalent metal (Ca2+) solution to improve encapsulation efficiency. By the formation of the nano-bowl shaped MLX-Ca precipitates inside the liposomes, MLX-Ca(AC)2Lipo successfully achieved an optimal encapsulation efficiency as high as 98.4% compared with previous passive loading method (60.6%). Additionally, MLX-Ca(AC)2Lipo maintained stable, and the slow drug release not only prolonged the duration of drug efficacy bu",
+        "journal": "Materials today. Bio",
+        "year": "2023",
+        "authors": [
+          "Zhong Yingqian",
+          "Zhou Yuyu",
+          "Ding Ruoyi",
+          "Zou Luxiang",
+          "Zhang Hongyu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36816604/"
+      },
+      {
+        "pmid": "26963155",
+        "title": "Low-dose meloxicam (Vivlodex) for osteoarthritis pain.",
+        "abstract": "",
+        "journal": "The Medical letter on drugs and therapeutics",
+        "year": "2016",
+        "authors": [],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Chemistry, Pharmaceutical",
+          "Drug Interactions",
+          "Female",
+          "Humans",
+          "Male",
+          "Meloxicam",
+          "Osteoarthritis",
+          "Pain",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26963155/"
+      },
+      {
+        "pmid": "23416029",
+        "title": "Characterization of osteoarthritis in cats and meloxicam efficacy using objective chronic pain evaluation tools.",
+        "abstract": "This study aimed to characterize osteoarthritis (OA)-related chronic pain and disability in experimental cats with naturally occurring OA. Peak vertical ground reaction force (PVF), accelerometer-based motor activity (MA) and the von Frey anesthesiometer-induced paw withdrawal threshold were used to define OA and to test the efficacy of meloxicam. A diagnosis of OA was based on radiographic and orthopedic examinations. Cats with OA (n=39) and classified as non-OA (n=6) were used to assess the reliability and sensitivity of the parameters to assess OA over 3weeks while being administered placebo medication. A randomised parallel design study was then used to investigate the effects on OA of daily oral meloxicam treatment for 4weeks at different dose rates (0.025mg/kg, n=10mg/kg; 0.04mg/kg, n=10; 0.05mg/kg, n=9), compared to cats administered a placebo (n=10). The test-retest repeatability for each tool was good (intra-class correlation coefficient ⩾0.6). The PVF and the von Frey anesthe",
+        "journal": "Veterinary journal (London, England : 1997)",
+        "year": "2013",
+        "authors": [
+          "Guillot M",
+          "Moreau M",
+          "Heit M",
+          "Martel-Pelletier J",
+          "Pelletier J-P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Cat Diseases",
+          "Cats",
+          "Chronic Pain",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Hyperalgesia",
+          "Male",
+          "Meloxicam"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23416029/"
+      },
+      {
+        "pmid": "24146058",
+        "title": "Comparison of meloxicam and a glucosamine-chondroitin supplement in management of feline osteoarthritis. A double-blind randomised, placebo-controlled, prospective trial.",
+        "abstract": "To compare the efficacy of meloxicam and a glucosamine-chondroitin (Glu-Ch) supplement in the management of feline osteoarthritis (OA).",
+        "journal": "Veterinary and comparative orthopaedics and traumatology : V.C.O.T",
+        "year": "2014",
+        "authors": [
+          "Sul R M",
+          "Chase D",
+          "Parkin T",
+          "Bennett D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Cat Diseases",
+          "Cats",
+          "Chondroitin",
+          "Dietary Supplements",
+          "Female",
+          "Glucosamine",
+          "Male",
+          "Meloxicam"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24146058/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:42:28.966158",
+  "success": true,
+  "error_message": null
+}

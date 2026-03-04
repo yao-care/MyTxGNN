@@ -1,0 +1,590 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Iron",
+    "disease": "deficiency anemia",
+    "query_string": "Iron AND deficiency anemia"
+  },
+  "data": {
+    "query": "Iron AND deficiency anemia",
+    "results": [
+      {
+        "pmid": "36075747",
+        "title": "Iron metabolism and iron deficiency anemia in women.",
+        "abstract": "Iron deficiency (ID) and iron deficiency anemia (IDA) are highly prevalent among women across their reproductive age. An iron-deficient state has been associated with and causes a number of adverse health consequences, affecting all aspects of the physical and emotional well-being of women. Heavy menstrual bleeding, pregnancy, and the postpartum period are the major causes of ID and IDA. However, despite the high prevalence and the impact on quality of life, ID and IDA among women in their reproductive age is still underdiagnosed and undertreated. In this chapter we summarized the iron metabolism and the diagnosis and treatment of ID and IDA in women.",
+        "journal": "Fertility and sterility",
+        "year": "2022",
+        "authors": [
+          "Cappellini Maria Domenica",
+          "Santini Valeria",
+          "Braxs Cecilia",
+          "Shander Aryeh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies",
+          "Pregnancy",
+          "Prevalence",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36075747/"
+      },
+      {
+        "pmid": "34996762",
+        "title": "Iron deficiency anaemia: pathophysiology, assessment, practical management.",
+        "abstract": "The WHO has recognised iron deficiency anaemia (IDA) as the most common nutritional deficiency in the world, with 30% of the population being affected with this condition. Although the most common causes of IDA are gastrointestinal bleeding and menstruation in women, decreased dietary iron and decreased iron absorption are also culpable causes. Patients with IDA should be treated with the aim of replenishing iron stores and returning the haemoglobin to a normal level. This has shown to improve quality of life, morbidity, prognosis in chronic disease and outcomes in pregnancy. Iron deficiency occurs in many chronic inflammatory conditions, including congestive cardiac failure, chronic kidney disease and inflammatory bowel disease. This article will provide an updated overview on diagnosis and management of IDA in patients with chronic conditions, preoperative and in pregnancy. We will discuss the benefits and limitations of oral versus intravenous iron replacement in each cohort, with a",
+        "journal": "BMJ open gastroenterology",
+        "year": "2022",
+        "authors": [
+          "Kumar Aditi",
+          "Sharma Esha",
+          "Marley Alexandra",
+          "Samaan Mark A",
+          "Brookes Matthew James"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Chronic Disease",
+          "Female",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies",
+          "Iron, Dietary",
+          "Pregnancy",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34996762/"
+      },
+      {
+        "pmid": "33285139",
+        "title": "Iron deficiency.",
+        "abstract": "Iron deficiency is one of the leading contributors to the global burden of disease, and particularly affects children, premenopausal women, and people in low-income and middle-income countries. Anaemia is one of many consequences of iron deficiency, and clinical and functional impairments can occur in the absence of anaemia. Iron deprivation from erythroblasts and other tissues occurs when total body stores of iron are low or when inflammation causes withholding of iron from the plasma, particularly through the action of hepcidin, the main regulator of systemic iron homoeostasis. Oral iron therapy is the first line of treatment in most cases. Hepcidin upregulation by oral iron supplementation limits the absorption efficiency of high-dose oral iron supplementation, and of oral iron during inflammation. Modern parenteral iron formulations have substantially altered iron treatment and enable rapid, safe total-dose iron replacement. An underlying cause should be sought in all patients pres",
+        "journal": "Lancet (London, England)",
+        "year": "2021",
+        "authors": [
+          "Pasricha Sant-Rayn",
+          "Tye-Din Jason",
+          "Muckenthaler Martina U",
+          "Swinkels Dorine W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Anti-Infective Agents",
+          "Dietary Supplements",
+          "Global Health",
+          "Hepcidins",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33285139/"
+      },
+      {
+        "pmid": "33682105",
+        "title": "The effect of iron deficiency and anaemia on women's health.",
+        "abstract": "Iron deficiency and anaemia are global health problems and major causes of morbidity in women. Current definitions of anaemia in women are historic and have been challenged by recent data from observational studies. Menstrual loss, abnormal uterine bleeding and pregnancy put women at risk of developing iron deficiency which can result in severe fatigue, reduced exercise capacity and poor work performance. Iron deficiency and anaemia during pregnancy are associated with adverse maternal and fetal outcomes, including neurocognitive deficits in children born to iron-deficient mothers. Both iron deficiency and anaemia are common in women undergoing surgery but their association with poor outcomes remains uncertain. The enduring burden of iron deficiency and anaemia in women suggests that current strategies for recognition, prevention and treatment are limited in their utility. Improvements in our understanding of iron homeostasis and the development of new iron preparations, which are bett",
+        "journal": "Anaesthesia",
+        "year": "2021",
+        "authors": [
+          "Benson C S",
+          "Shah A",
+          "Stanworth S J",
+          "Frise C J",
+          "Spiby H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Erythrocyte Transfusion",
+          "Female",
+          "Hepcidins",
+          "Histamine H2 Antagonists",
+          "Humans",
+          "Iron",
+          "Women's Health"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33682105/"
+      },
+      {
+        "pmid": "27996086",
+        "title": "International consensus statement on the peri-operative management of anaemia and iron deficiency.",
+        "abstract": "Despite current recommendations on the management of pre-operative anaemia, there is no pragmatic guidance for the diagnosis and management of anaemia and iron deficiency in surgical patients. A number of experienced researchers and clinicians took part in an expert workshop and developed the following consensus statement. After presentation of our own research data and local policies and procedures, appropriate relevant literature was reviewed and discussed. We developed a series of best-practice and evidence-based statements to advise on patient care with respect to anaemia and iron deficiency in the peri-operative period. These statements include: a diagnostic approach for anaemia and iron deficiency in surgical patients; identification of patients appropriate for treatment; and advice on practical management and follow-up. We urge anaesthetists and peri-operative physicians to embrace these recommendations, and hospital administrators to enable implementation of these concepts by a",
+        "journal": "Anaesthesia",
+        "year": "2017",
+        "authors": [
+          "Muñoz M",
+          "Acheson A G",
+          "Auerbach M",
+          "Besser M",
+          "Habler O"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Consensus",
+          "Health Care Costs",
+          "Humans",
+          "Injections, Intravenous",
+          "Iron",
+          "Iron Deficiencies",
+          "Perioperative Care"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27996086/"
+      },
+      {
+        "pmid": "38549491",
+        "title": "Iron deficiency, iron deficiency anaemia and anaemia of inflammation - an overview.",
+        "abstract": "Iron is an essential trace element for various cellular proteins and for biological processes in all cells. Severe iron deficiency (ID) impairs haem synthesis, reduces erythropoiesis and causes iron deficiency anaemia (IDA). Iron restriction in anaemia of inflammation is mainly due to retention of iron in macrophages. This condition is known as 'functional iron deficiency'. A review of studies performed in Europe shows that the prevalence of ID and IDA in young children varies by region. It is more common in eastern than western European countries. This overview summarises information on the need for iron supplementation in children, and the current understanding of the regulatory mechanisms of iron homeostasis and ironrestricted erythropoiesis. The causes of anaemia during infection and the usefulness of classical and new indicators to distinguish absolute from functional iron deficiency are discussed.",
+        "journal": "Annals of agricultural and environmental medicine : AAEM",
+        "year": "2024",
+        "authors": [
+          "Kulik-Rechberger Beata",
+          "Dubel Magdalena"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Humans",
+          "Child, Preschool",
+          "Anemia, Iron-Deficiency",
+          "Iron Deficiencies",
+          "Anemia",
+          "Iron",
+          "Inflammation",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38549491/"
+      },
+      {
+        "pmid": "40923398",
+        "title": "Vitamins and Iron-Deficiency Gestational Anemia - A Review.",
+        "abstract": "Vitamins, as essential m icronutrients, are vital for numerous cellular functions and play a key role in maintaining hematological parameter s during pregnancy, including erythropoiesis and processes affecting iron status. Iron-Deficient Gestational Anemia (IDGA), the most common clinicopathological condition in obstetrics and highly prevalent in developing countries, significantly contributes to complications such as hypertensive disorders of pregnancy and gestational diabetes. While it is recognized that vitamin deficiencies impact iron metabolism and erythropoiesis, a complete understanding of their specific roles in preventing and managing IDGA is lacking. Insights into how vitamin deficiencies influence gene expression and cellular signaling are crucial. With rising IDGA prevalence, ensuring adequate vitamin intake during pregnancy is essential for improving hematological health. Mobile health-based literacy tools can effectively promote patient education to achieve this. This rev",
+        "journal": "Journal of dietary supplements",
+        "year": "2025",
+        "authors": [
+          "Yadav Dinesh Venkatesan",
+          "Mitra Tridip",
+          "Punniyamoorthy Deeksha",
+          "Murugesan Anuradha",
+          "Kumari Raveendran Sajeetha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pregnancy",
+          "Female",
+          "Anemia, Iron-Deficiency",
+          "Vitamins",
+          "Pregnancy Complications, Hematologic",
+          "Iron",
+          "Hemoglobins",
+          "Pregnancy Complications",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40923398/"
+      },
+      {
+        "pmid": "38253961",
+        "title": "Oral iron therapy: Current concepts and future prospects for improving efficacy and outcomes.",
+        "abstract": "Iron deficiency (ID) and iron-deficiency anaemia (IDA) are global public health concerns, most commonly afflicting children, pregnant women and women of childbearing age. Pathological outcomes of ID include delayed cognitive development in children, adverse pregnancy outcomes and decreased work capacity in adults. IDA is usually treated by oral iron supplementation, typically using iron salts (e.g. FeSO4 ); however, dosing at several-fold above the RDA may be required due to less efficient absorption. Excess enteral iron causes adverse gastrointestinal side effects, thus reducing compliance, and negatively impacts the gut microbiome. Recent research has sought to identify new iron formulations with better absorption so that lower effective dosing can be utilized. This article outlines emerging research on oral iron supplementation and focuses on molecular mechanisms by which different supplemental forms of iron are transported across the intestinal epithelium and whether these transpor",
+        "journal": "British journal of haematology",
+        "year": "2024",
+        "authors": [
+          "Ebea-Ugwuanyi Pearl O",
+          "Vidyasagar Sadasivan",
+          "Connor James R",
+          "Frazer David M",
+          "Knutson Mitchell D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Child",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Iron",
+          "Anemia, Iron-Deficiency",
+          "Iron Deficiencies",
+          "Iron Overload"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38253961/"
+      },
+      {
+        "pmid": "22306005",
+        "title": "Hepcidin and iron homeostasis.",
+        "abstract": "Despite fluctuations in dietary iron intake and intermittent losses through bleeding, the plasma iron concentrations in humans remain stable at 10-30 μM. While most of the iron entering blood plasma comes from recycling, appropriate amount of iron is absorbed from the diet to compensate for losses and maintain nontoxic amounts in stores. Plasma iron concentration and iron distribution are similarly regulated in laboratory rodents. The hepatic peptide hepcidin was identified as the systemic iron-regulatory hormone. In the efferent arc, hepcidin regulates intestinal iron absorption, plasma iron concentrations, and tissue iron distribution by inducing degradation of its receptor, the cellular iron exporter ferroportin. Ferroportin exports iron into plasma from absorptive enterocytes, from macrophages that recycle the iron of senescent erythrocytes, and from hepatocytes that store iron. In the more complex and less well understood afferent arc, hepatic hepcidin synthesis is transcriptional",
+        "journal": "Biochimica et biophysica acta",
+        "year": "2012",
+        "authors": [
+          "Ganz Tomas",
+          "Nemeth Elizabeta"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Animals",
+          "Antimicrobial Cationic Peptides",
+          "Bone Morphogenetic Protein Receptors",
+          "Cation Transport Proteins",
+          "Cations, Divalent",
+          "Erythropoiesis",
+          "Hepatocytes",
+          "Hepcidins",
+          "Homeostasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22306005/"
+      },
+      {
+        "pmid": "25518052",
+        "title": "European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases.",
+        "abstract": "",
+        "journal": "Journal of Crohn's & colitis",
+        "year": "2015",
+        "authors": [
+          "Dignass Axel U",
+          "Gasche Christoph",
+          "Bettenworth Dominik",
+          "Birgegård Gunnar",
+          "Danese Silvio"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Combined Modality Therapy",
+          "Dietary Supplements",
+          "Erythrocyte Transfusion",
+          "Hematinics",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25518052/"
+      },
+      {
+        "pmid": "39764832",
+        "title": "Diagnosing iron deficiency: Controversies and novel metrics.",
+        "abstract": "Iron deficiency, a pervasive global health issue, necessitates precise and reliable diagnostic methods, especially in clinical and surgical settings. This review examines an array of established markers of iron status, encapsulating parameters such as serum iron, ferritin, transferrin, and transferrin saturation alongside novel biomarkers like soluble transferrin receptor, zinc protoporphyrin, and hepcidin. We further scrutinise the potential and limitations of routine and novel diagnostic tools and strategies in distinguishing different anaemic conditions, such as iron deficiency anaemia, iron-restricted erythropoiesis, and anaemia of inflammation. Through a critical lens, we elucidate the current paradigms and pressing questions surrounding the diagnostic criteria and clinical ramifications of iron metabolism. By weaving together the nuances and diverging perspectives within the domain of iron deficiency diagnosis and management, this review aspires to foster a clearer understanding ",
+        "journal": "Best practice & research. Clinical anaesthesiology",
+        "year": "2023",
+        "authors": [
+          "Rusch Jody A",
+          "van der Westhuizen Diederick J",
+          "Gill Robert S",
+          "Louw Vernon J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anemia, Iron-Deficiency",
+          "Biomarkers",
+          "Iron",
+          "Iron Deficiencies",
+          "Ferritins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39764832/"
+      },
+      {
+        "pmid": "37403957",
+        "title": "[Iron deficiency and anemia in junior women's competitive sport].",
+        "abstract": "An iron deficient athlete is likely to develop iron deficiency anemia, a pathology that may lead to a decrease in performance. If adult athletes, women and men, are aware of the need for regular monitoring, young people under 18 are not necessarily aware of the risks associated with competitive sports practice in the presence of anemia. Even if the guidelines are well known and described, a lack of regular monitoring is found for the aforementioned age group. In junior female athletes practicing basketball, a significant rate of iron deficiency or even iron deficiency anemia was found during annual analyses. The authors wish to emphasize the importance of regular medical and laboratory follow-up for younger athletes who often no longer have a pediatrician and no attending physician.",
+        "journal": "Revue medicale suisse",
+        "year": "2023",
+        "authors": [
+          "Levy Gabriel",
+          "Kocher Franziska",
+          "Thuerig Grégoire",
+          "Meszaros Thomas",
+          "Petek Daniel"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Adult",
+          "Female",
+          "Humans",
+          "Adolescent",
+          "Anemia, Iron-Deficiency",
+          "Iron Deficiencies",
+          "Iron",
+          "Basketball",
+          "Athletes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37403957/"
+      },
+      {
+        "pmid": "38923898",
+        "title": "Iron and ferritin deficiency in women with hypothyroidism and chronic lymphocytic thyroiditis - systematic review.",
+        "abstract": "Iron is one of the essential microelements necessary for maintaining the body's homeostasis. It serves various roles, including being a crucial component in the proper structure of many enzymes and supporting the transport of oxygen and electrons. Its deficiency can lead to anaemia, which is a common clinical condition often associated with thyroid diseases. Iron deficiency is one of the most common nutritional deficiencies, and its prevalence is strongly associated with socioeconomic status. It is the primary cause of anaemia in 42% of children and 50% of women. Importantly, iron deficiency is placed among the top 5 causes of disability in women. Thyroid peroxidase (TPO) is an enzyme essential for the production of thyroid hormones, and iron is a key factor in its proper functioning. Therefore, in the case of iron deficiency, the activity of this enzyme is also reduced. Iron is also a factor that is important in epigenetic modification processes, and its deficiency may contribute to g",
+        "journal": "Endokrynologia Polska",
+        "year": "2024",
+        "authors": [
+          "Gierach Marcin",
+          "Rudewicz Monika",
+          "Junik Roman"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Hashimoto Disease",
+          "Hypothyroidism",
+          "Ferritins",
+          "Iron Deficiencies",
+          "Adult",
+          "Iron",
+          "Anemia, Iron-Deficiency",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38923898/"
+      },
+      {
+        "pmid": "7881154",
+        "title": "Iron-deficiency anaemia.",
+        "abstract": "Iron-deficiency anaemia (IDA) is a common clinical problem throughout the world and an enormous public health problem in developing countries. The cornerstone of the laboratory identification of IDA is a low haemoglobin and serum ferritin concentration although a normal serum ferritin does exclude IDA. When the serum ferritin is normal in an anaemic patient with iron-deficient erythropoiesis, it is common practise to perform a bone marrow examination to diagnose IDA. The recent introduction of serum transferrin receptor measurements is a useful alternative for distinguishing IDA from the anaemia of chronic disease because the serum receptor concentration is usually elevated in patients with IDA but normal in patients with anaemia due to inflammation or neoplasia. It is helpful for the clinican to be aware of the causes of physiological IDA. The most important are increased rate of body growth, excessive menstrual blood loss, pregnancy, regular blood donation, intensive endurance traini",
+        "journal": "Bailliere's clinical haematology",
+        "year": "1994",
+        "authors": [
+          "Cook J D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Child, Preschool",
+          "Ferritins",
+          "Humans",
+          "Iron",
+          "Male",
+          "Prevalence",
+          "Transferrin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7881154/"
+      },
+      {
+        "pmid": "28701129",
+        "title": "Iron deficiency and new insights into therapy.",
+        "abstract": "Iron deficiency and iron deficiency anaemia remain prevalent in Australia. The groups at highest risk are pre-menopausal women, socially disadvantaged people and those of Indigenous background. Diagnosing iron deficiency using a full blood examination and iron studies can be difficult and can be further complicated by concomitant inflammation. Results of iron studies should always be interpreted as an overall picture rather than focusing on individual parameters. In difficult clinical scenarios, soluble transferrin receptor assays can be useful. Management of iron deficiency involves identification and treatment of the cause of iron deficiency, as well as effective iron replacement. Clinicians should always take a detailed history and perform a comprehensive physical examination of a patient with iron deficiency. Patients should be monitored even if a likely cause of iron deficiency is identified. Patients who fail to respond to iron replacement or maintain iron status should be referr",
+        "journal": "The Medical journal of Australia",
+        "year": "2017",
+        "authors": [
+          "Low Michael Sy",
+          "Grigoriadis George"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anemia, Iron-Deficiency",
+          "Australia",
+          "Blood Transfusion",
+          "Bone Marrow",
+          "Child",
+          "Female",
+          "Ferric Compounds",
+          "Humans",
+          "Infusions, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28701129/"
+      },
+      {
+        "pmid": "28029503",
+        "title": "Iron deficiency and iron deficiency anaemia in women.",
+        "abstract": "Iron deficiency (ID) is the most common micronutrient deficiency worldwide with >20% of women experiencing it during their reproductive lives. Hepcidin, a peptide hormone mostly produced by the liver, controls the absorption and regulation of iron. Understanding iron metabolism is pivotal in the successful management of ID and iron deficiency anaemia (IDA) using oral preparations, parenteral iron or blood transfusion. Oral preparations vary in their iron content and can result in gastrointestinal side effects. Parenteral iron is indicated when there are compliance/tolerance issues with oral iron, comorbidities which may affect absorption or ongoing iron losses that exceed absorptive capacity. It may also be the preferred option when rapid iron repletion is required to prevent physiological decompensation or given preoperatively for non-deferrable surgery. As gynaecologists, we focus on managing women's heavy menstrual bleeding (HMB) and assume that primary care clinicians are treating ",
+        "journal": "Best practice & research. Clinical obstetrics & gynaecology",
+        "year": "2017",
+        "authors": [
+          "Percy Laura",
+          "Mansour Diana",
+          "Fraser Ian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Ferrous Compounds",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies",
+          "Male",
+          "Menorrhagia",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28029503/"
+      },
+      {
+        "pmid": "36066297",
+        "title": "Perioperative anaemia and iron deficiency.",
+        "abstract": "Anaemia affects a third of surgical patients and is associated with increased morbidity and mortality. Iron deficiency is the most common cause of anaemia and can be absolute or functional. Patients may require treatment with oral or intravenous iron.",
+        "journal": "British journal of hospital medicine (London, England : 2005)",
+        "year": "2022",
+        "authors": [
+          "Menon Arun",
+          "Warnakulasuriya Samantha R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36066297/"
+      },
+      {
+        "pmid": "39804874",
+        "title": "Iron deficiency and fatigue in inflammatory bowel disease: A systematic review.",
+        "abstract": "It is unclear what impact iron deficiency has on fatigue in people with inflammatory bowel disease (IBD). This systematic review examined the evidence of whether iron deficiency, with or without anaemia, was associated with fatigue in IBD. Fatigue is a common symptom in patients with IBD that can be difficult to manage and treat. A greater understanding of the role and contribution of iron deficiency to fatigue may help improve the management of this condition.",
+        "journal": "PloS one",
+        "year": "2025",
+        "authors": [
+          "Sartain Stephanie",
+          "Al-Ezairej Maryam",
+          "McDonnell Martin",
+          "Westoby Catherine",
+          "Katarachia Vasiliki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fatigue",
+          "Inflammatory Bowel Diseases",
+          "Iron Deficiencies",
+          "Anemia, Iron-Deficiency",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39804874/"
+      },
+      {
+        "pmid": "40035857",
+        "title": "Iron insight: exploring dietary patterns and iron deficiency among teenage girls in Sweden.",
+        "abstract": "This observational study examined the relationship between self-reported dietary patterns-omnivore, pescatarian, vegetarian, and vegan-and iron status among Swedish teenage girls. Additionally, we compared the consumption of various food groups in relation to iron status.",
+        "journal": "European journal of nutrition",
+        "year": "2025",
+        "authors": [
+          "Stubbendorff Anna",
+          "Borgström Bolmsjö Beata",
+          "Bejersten Tomas",
+          "Warensjö Lemming Eva",
+          "Calling Susanna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Sweden",
+          "Adolescent",
+          "Anemia, Iron-Deficiency",
+          "Ferritins",
+          "Diet",
+          "Hemoglobins",
+          "Iron Deficiencies",
+          "Diet, Vegetarian"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40035857/"
+      },
+      {
+        "pmid": "27577248",
+        "title": "[Iron deficiency, Fatigue and Restless-Legs-Syndrome].",
+        "abstract": "Iron deficiency without anaemia is a widespread health problem that often remains undetected. In this context, neurological and psychopathological problems like fatigue and poor concentration are a major issue, but also in Restless-Legs-Syndrome (RLS) iron deficiency is a key element.The exact pathogenesis is often unknown, however, it is known that iron is involved in several very important metabolic processes in the human body. In particular when it comes to fatigue and RLS, it's assumed that reduced activity of tyrosine hydroxylase - a central iron-dependent element of dopamine synthesis - can lead to deficiencies.As part of the therapy, oral iron supplementation is considered to be treatment of choice since it's most cost-effective and well tolerated. Intravenous iron treatment is indicated if primary attempts were not sufficient or not tolerated. To successfully replenish iron storages, about 500-1000 mg are needed. Doses of 200 mg can be administered (iron sucrose) or 1-2 single ",
+        "journal": "Wiener medizinische Wochenschrift (1946)",
+        "year": "2016",
+        "authors": [
+          "Wurzinger Bettina",
+          "König Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anemia, Iron-Deficiency",
+          "Diagnosis, Differential",
+          "Fatigue",
+          "Ferritins",
+          "Humans",
+          "Infusions, Intravenous",
+          "Iron",
+          "Restless Legs Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27577248/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:19:50.450863",
+  "success": true,
+  "error_message": null
+}

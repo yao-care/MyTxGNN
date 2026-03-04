@@ -1,0 +1,631 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "manic bipolar affective disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02456454",
+      "title": "Placebo Controlled Trial of Valproate Versus Risperidone in Young Children With Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2010-06",
+      "country": "N/A",
+      "enrollment": 46,
+      "brief_summary": "Controlled trial of the efficacy and safety of valproate, versus risperidone in children, ages 3-7 yr. with Bipolar I or II Disorder, mixed, manic or hypomanic episode.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Subjects were male or female outpatient subjects,\n* 3.0 - 7 years 11 months of age\n* Bipolar I or II Disorder, mixed, manic or hypomanic episode, psychotic or non-psychotic, according to DSM IV criteria (American Psychiatric Association 1994)\n* with a score \\> 20 on the Young M",
+      "endpoints": [
+        "Young Mania Rating Scale"
+      ],
+      "sponsor": "Nationwide Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02456454"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00294255",
+      "title": "Risperidone Plus Mood Stabilizer in the Treatment of Mixed Mania",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2006-10",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "The study aims to assess the efficacy and tolerability of risperidone added to lithium, valproate or lamotrigine in patients experiencing a manic episode with depressive or irritable features.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM IV diagnosis of bipolar disorder, currently manic, or mixed manic\n* YMRS score\\>/= 16\n* One or more of following:\n\n  1. 3 MADRS depression items scoring \\>/=3\n  2. 3 BISS depression items scoring \\>/=3\n  3. YMRS irritability and aggressive items sum score\\>/=4\n* Taking lit",
+      "endpoints": [
+        "Forty percent reduction in YMRS"
+      ],
+      "sponsor": "The University of Texas Health Science Center at San Antonio",
+      "url": "https://clinicaltrials.gov/study/NCT00294255"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02918097",
+      "title": "Cost- Effectiveness and Quality of Life Assessment in Bipolar Disorder Depressive Episode",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2015-09",
+      "country": "N/A",
+      "enrollment": 78,
+      "brief_summary": "To evaluate the effectiveness of an algorithm for Bipolar Disorder depressive episodes (BDD) using medications available in the Brazilian Public Healthcare System (SUS). Quality of life assessment of these patients was also employed.\n\nA randomized pragmatic trial was conducted. An algorithm was developed for the treatment of episodes of bipolar disorder depression episodes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ages between 18 and 65;\n2. BD current acute mixed episode;\n3. total capacity to understand and respond to self-applied instruments;\n4. the presence of symptoms in the last 30 days;\n5. abstinence for at least 30 days for drug addicts.\n\nExclusion Criteria:\n\n1. presence of Organ",
+      "endpoints": [
+        "Number of Participants With Response to Treatment\"",
+        "Quality of Life Instrument Scores"
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT02918097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01000402",
+      "title": "Assessment and Follow Up Study of Children and Adolescent With Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-02",
+      "completion_date": "2014-11",
+      "country": "Brazil",
+      "enrollment": 150,
+      "brief_summary": "This is an outpatient program for children and adolescents with bipolar disorders. The naturalistic approach of the program will allow a proper investigation of the disorder, assessment of environmental and biological factors, the conduction of treatment studies, and follow-up of the subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 6-18 years-old;\n* Bipolar Disorder I, II or NOS\n* Severe Mood Dysregulation\n\nExclusion Criteria:\n\n* Schizophrenia\n* Pervasive Developmental Disorder\n* Drug use disorder\n* Severe suicidal or homicidal risk, counterindicating outpatient treatment",
+      "endpoints": [
+        "Changes in manic and depressive symptoms over time using YMRS, CMRS-P, CDRS, and CDI",
+        "Polymorphisms at candidate genes for Bipolar Disorder and Attention-Deficit/Hyperactivity Disorder"
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT01000402"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00667745",
+      "title": "Lithium Use for Bipolar Disorder (LiTMUS): A Randomized Controlled Effectiveness Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-04",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 283,
+      "brief_summary": "This study evaluated whether lithium included as part of optimized medication treatment improved overall level of illness, symptoms of mania and depression, and quality of life in people with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV Criteria for bipolar disorder (type I or II)\n* Currently symptomatic, as defined as a Clinical Global Impressions Scale-Bipolar Version, Overall Severity Index (CGI-BP-S) of greater than or equal to 3\n* If taking or has taken lithium, must be off lithium for at le",
+      "endpoints": [
+        "Overall Change in Bipolar Illness Severity as Measured by Clinical Global Impression for Bipolar Disorder Severity (CGI-BP-S) Score",
+        "Number of Necessary Medication Adjustments"
+      ],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00667745"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00057681",
+      "title": "Treatment of Early Age Mania (TEAM) Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-02",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 379,
+      "brief_summary": "This study will evaluate the effectiveness of the medications, lithium (Eskalith®), valproate (Depakote®), and risperidone (Risperdal®) in treating children and adolescents with bipolar disorder or symptoms of mania.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV criteria for bipolar I (manic or mixed) or mania for at least 4 weeks\n* CGAS less than or equal to 60\n* Good physical health\n\nExclusion Criteria:\n\n* Schizophrenia or any pervasive developmental disorder\n* Major medical or neurological disease\n* History of addiction to i",
+      "endpoints": [
+        "Clinical Global Impressions-Bipolar Mania Improvement"
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00057681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00216554",
+      "title": "A Multicenter, Open-Label Study to Evaluate Safety and Efficacy of Risperidone as Adjunctive Therapy to Mood Stabilizers in the Long-term Treatment of Bipolar Mania",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2006-03",
+      "country": "N/A",
+      "enrollment": 118,
+      "brief_summary": "The purpose of this study is to evaluate effect of risperidone as a long-term combination therapy to mood stabilizers in the treatment of bipolar mania",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* In- or out-patient\n* Diagnosis of bipolar I disorder\n* most recent episode manic with or without psychotic features\n* YMRS \\> 20 (manic)\n* Need antipsychotic combination on the basis of clinicians' experience\n\nExclusion Criteria:\n\n* Rapid cycling\n* Risk of suicide or violence\n",
+      "endpoints": [
+        "The change in YMRS score from baseline at 6 months"
+      ],
+      "sponsor": "Janssen Korea, Ltd., Korea",
+      "url": "https://clinicaltrials.gov/study/NCT00216554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00167479",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study of Risperidone Monotherapy in Ambulatory Bipolar Disorder With Current at Least Moderately Severe Anxiety and Lifetime Panic Disorder or Generalized Anxiety Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The specific aim of this study is to evaluate the efficacy, tolerability, and safety of risperidone monotherapy in the treatment of ambulatory bipolar disorder with comorbid lifetime panic disorder or generalized anxiety disorder and current at least moderately severe anxiety.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must be 18 years of age or older.\n2. Subjects must have lifetime bipolar I, II, or NOS disorder as defined by DSM-IV criteria.\n3. Subjects must have lifetime panic disorder or generalized anxiety disorder (GAD) as defined by DSM-IV criteria (except clause \"does not o",
+      "endpoints": [
+        "Clinician Global Improvement Scale (CGI-21)"
+      ],
+      "sponsor": "University of South Florida",
+      "url": "https://clinicaltrials.gov/study/NCT00167479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00246246",
+      "title": "A Randomized, Open-label Trial of RISPERDAL® CONSTA™ Versus Oral Antipsychotic Care in Subjects With Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2006-04",
+      "country": "N/A",
+      "enrollment": 48,
+      "brief_summary": "The purpose of this study is to determine the safety and effectiveness of a long-acting injectable formulation of risperidone in stable bipolar patients randomly switched from their current add-on oral antipsychotic (olanzapine, risperidone, or quetiapine) therapy to long-acting injectable risperidone. The patients switched to long-acting injectable risperidone will be compared to patients who continue on their oral antipsychotic treatment regimen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stable outpatients meeting the DSM-IV criteria for Bipolar I or Bipolar II Disorder\n* YMRS score of \\<= 19, MADRS score \\<= 19 and the Clinical Global Impression - Severity of Illness subscale (CGI-S) score \\<= 4 at screening and baseline\n* Must be receiving stable doses of on",
+      "endpoints": [
+        "Changes in the Clinical Global Impression - Severity of Illness subscale (CGI-S) from baseline to endpoint, compared between treatment groups"
+      ],
+      "sponsor": "Janssen-Ortho Inc., Canada",
+      "url": "https://clinicaltrials.gov/study/NCT00246246"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01495741",
+      "title": "An Observational Post-Authorization Safety Surveillance (PASS) Study of Sycrest® (Asenapine) Among Patients Aged 18 and Older Diagnosed With Bipolar Disorder",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-07-01",
+      "completion_date": "2017-12-18",
+      "country": "N/A",
+      "enrollment": 42,
+      "brief_summary": "This study will assess asenapine (Sycrest®) use in participants with bipolar disorder; comparison will be made to the use of risperidone (RISPERDAL®CONSTA®) and olanzapine (Zyprexa®). The occurrence of identified and potential clinically important risks will also be assessed.",
+      "eligibility_criteria": "Inclusion Criteria for the Bipolar Disease Cohort:\n\n* A diagnosis of Bipolar Disorder\n\nExclusion Criteria for the Bipolar Disease Cohort:\n\n* None\n\nInclusion Criteria for the potential Schizophrenia Cohort:\n\n* A diagnosis of schizophrenia\n\nExclusion Criteria for the potential Schizophrenia Cohort:\n\n*",
+      "endpoints": [
+        "Number of Participants with Bipolar Disorder with Identified and Potential Clinically Important Risks"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT01495741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07047651",
+      "title": "The Effectiveness and Efficacy of the Combination of Pharmacotherapy With the Two New Recovery-oriented Programs, RECOVERYTRSGR (Treatment Resistant Schizophrenia) and RECOVERYTRSBDGR (Treatment Resistant Bipolar Disorder)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2025-06-04",
+      "completion_date": "2027-12-20",
+      "country": "Greece",
+      "enrollment": 40,
+      "brief_summary": "The effectiveness and efficacy of the combination of pharmacotherapy with the two new recovery-oriented programs, RECOVERYTRSGR for patients with treatment- resistant schizophrenia and RECOVERYTRSBDGR for patients with treatment- resistant bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria: For patients with treatment resistant schizophrenia:\n\n* age 18-65\n* IQ ≥ 80\n* Diagnosis TRS.\n\nInclusion criteria for patients with treatment resistant bipolar disorder:\n\n* age 18-65\n* IQ ≥ 80\n* Diagnosis TRSBD.\n\nExclusion Criteria: For patients with treatment resistant schizophre",
+      "endpoints": [
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)",
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)",
+        "MCCB BACS symbol coding (for RECOVERYTRSGR)"
+      ],
+      "sponsor": "Rakitzi, Stavroula",
+      "url": "https://clinicaltrials.gov/study/NCT07047651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00391222",
+      "title": "A Randomized, Double Blind, Placebo and Active Controlled Parallel Group Study to Evaluate the Efficacy and Safety of Risperidone Long-acting Injectable (LAI) for the Prevention of Mood Episodes in the Treatment of Subjects With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2009-04",
+      "country": "Lebanon, Indonesia, Philippines, Mexico, South Africa, Taiwan, India, Greece, Russia, Germany, China, Malaysia, Peru, Colombia, Jordan",
+      "enrollment": 585,
+      "brief_summary": "The purpose of this randomized, double blind, double dummy, multicenter study was to evaluate the efficacy of risperidone long-acting injectable (LAI) monotherapy in comparison with placebo in the prevention of a mood episode in treatment of patients with bipolar I disorder. Oral olanzapine was used to assess the validity of the study design. The primary objective of this study is to evaluate the efficacy of risperidone LAI versus placebo in the prevention of a mood episode (recurrence event) in",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar I disorder as defined by DSM-IV-TR criteria. All diagnoses will be confirmed by the Mini International Neuropsychiatric Interview (M.I.N.I.). Patients who present with additional signs or symptoms compatible with Axis I diagnoses of social anxiety disorder",
+      "endpoints": [
+        "Time to Recurrence of a Mood Episode (Risperidone LAI Versus Placebo)"
+      ],
+      "sponsor": "Janssen Pharmaceutica N.V., Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00391222"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00277654",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Study of Risperidone Monotherapy in Ambulatory Bipolar Disorder With Concurrent Moderately Severe Anxiety and Lifetime Panic or Generalized Anxiety Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2009-03",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "The purpose of this research study is to evaluate the safety, tolerability, and efficacy (how well the drug works) of risperidone compared to placebo (an inactive drug) in the treatment of bipolar disorder with panic disorder or generalized anxiety disorder. Risperidone is currently approved by the United States Food and Drug Administration (FDA) for the treatment of schizophrenia and bipolar mania. Risperidone is not currently FDA approved for the treatment of bipolar hypomania with or without ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must be 18 years of age or older.\n2. Subjects must have lifetime bipolar I, II, or NOS disorder as defined by Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) criteria.\n3. Subjects must have lifetime panic disorder or generalized anxiety",
+      "endpoints": [
+        "Clinical Global Improvement-21 Anxiety scale (CGI-21 Anxiety)"
+      ],
+      "sponsor": "Lindner Center of HOPE",
+      "url": "https://clinicaltrials.gov/study/NCT00277654"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00181831",
+      "title": "Proton Magnetic Resonance Spectroscopy in Children and Adolescents With Bipolar Disorder",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2005-11",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "The primary aim of this study is to use proton magnetic resonance spectroscopy to look at myo-Inositol containing compounds (Ino) and creatine + phosphocreatine (Cr) in the anterior cingulate of 20 children with bipolar disorder between the ages of 6-17 years old free of risperidone treatment and 20 children with bipolar disorder after an eight-week or longer treatment with risperidone. For comparison, results will also be obtained from 20 controls (without bipolar disorder or ADHD) of the same ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects, 6-17 years of age\n2. Subject and parent must have a level of understanding sufficient to communicate intelligently with the investigator and study coordinator, and to cooperate with all tests and examinations required by the protocol\n3. Subjects and t",
+      "endpoints": [],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00181831"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00076115",
+      "title": "Research on the Effectiveness of Risperidone in Bipolar Disorder in Adolescents and Children (REACH): A Double-Blind, Randomized, Placebo-Controlled Study of the Efficacy and Safety of Risperidone for the Treatment of Acute Mania in Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-12",
+      "completion_date": "2005-12",
+      "country": "N/A",
+      "enrollment": 13,
+      "brief_summary": "A clinical study to determine the safety and effectiveness of risperidone compared with placebo in the treatment of bipolar disorder (manic or mixed type) in children and adolescents aged 10 to 17 years.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Current primary diagnosis of bipolar I disorder, mania or mixed type\n* Aged between 10 and 17 years\n* Young Mania Rating Scale score greater than or equal to 20 at screening and baseline\n\nExclusion Criteria:\n\n* Known or suspected history of substance dependence\n* Significant r",
+      "endpoints": [
+        "The change in the total YMRS score from baseline at the 3-week endpoint"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00076115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00249236",
+      "title": "The Efficacy And Safety Of Flexible Dosage Ranges Of Risperidone Versus Placebo In The Treatment Of Manic Or Mixed Episodes Associated With Bipolar I Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2001-12",
+      "country": "N/A",
+      "enrollment": 291,
+      "brief_summary": "The purpose of the study is to assess the effectiveness and safety of risperidone (an antipsychotic medication) versus placebo in treating mania during 3 weeks of treatment in patients with Bipolar I Disorder who suffer from manic or mixed episodes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV criteria for Bipolar I Disorder, Most Recent Episode Manic or Mixed\n* hospitalized voluntarily at study initiation for treatment of manic episode\n* history (prior to study initiation) of at least one documented manic or mixed episode that required treatment\n* tota",
+      "endpoints": [
+        "Change in Young Mania Rating Scale (YMRS) total score from baseline to end of treatment."
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00249236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00253149",
+      "title": "The Safety And Efficacy Of Risperdal� (Risperidone) Versus Placebo Versus Haloperidol As Add-On Therapy To Mood Stabilizers In The Treatment Of The Manic Phase Of Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1999-04",
+      "country": "N/A",
+      "enrollment": 158,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness and safety of risperidone (an antipsychotic medication) versus placebo as add-on therapy to mood stabilizers in the treatment of manic episodes associated with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Bipolar Disorder according to Diagnostic and Statistical Manual of Mental Diseases, 4th edition (DSM-IV)\n* hospitalized for mania with a score \\>=20 on the Young Mania Rating Scale (YMRS) (patients with concurrent symptoms of depression are eligible)\n* inpatient f",
+      "endpoints": [
+        "Change in Young Mania Rating Scale (YMRS) total score from baseline to end of double-blind treatment"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00253149"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00176202",
+      "title": "Controlled Trial of Risperidone and Divalproex Sodium With MRI Assessment of Affected Circuitry in Pre and Post Treatment in Pediatric Bipolar",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2008-01",
+      "country": "United States",
+      "enrollment": 65,
+      "brief_summary": "The study is to examine the null hypothesis that risperidone and divalproex sodium are equally effective in treating/stabilizing pediatric bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children with Bipolar Disorder\n* Must be able to swallow tablets\n\nExclusion Criteria:\n\n* Children with general medical condition such as head injury, epilepsy, endocrine disorders\n* Those who are on mood altering medications such as steroids, and those diagnosed with mental re",
+      "endpoints": [
+        "Young Mania Rating Scale (YMRS)"
+      ],
+      "sponsor": "University of Illinois at Chicago",
+      "url": "https://clinicaltrials.gov/study/NCT00176202"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00221403",
+      "title": "Placebo Controlled Trial of Valproate and Risperidone in Young Children With Bipolar Disorders",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2011-05",
+      "country": "United States",
+      "enrollment": 46,
+      "brief_summary": "The primary aim of this proposal is to conduct a preliminary controlled trial of valproate and risperidone in children ages 3-7 yr. with bipolar disorders. A secondary aim is to carefully characterize these subjects using clinical rating scales and develop pilot data on a very young cohort of children with bipolar disorders that can be used to support an application to NIMH for a prospective, longitudinal study that will provide important information about the course, medication response, neurob",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients, 3-7 years 11 months of age.\n2. Each patient's authorized legal guardian must understand the nature of the study and must provide written informed consent. Each patient must also give assent to study participation.\n3. Patients must have a diagnosis of ",
+      "endpoints": [
+        "YMRS"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT00221403"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06049953",
+      "title": "Developmental Effects of Antenatal Exposure to Antipsychotics",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-09-29",
+      "completion_date": "2027-12-01",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "The goal of this observational study is to learn about maternal psychiatric course and infant development in pregnant individuals with severe mental illness, comparing those treated with antipsychotics to those treated with other medications or without medication. The main questions it aims to answer are:\n\n1. Is risk of psychiatric relapse different among individuals who take antipsychotic medication, other medication, or no medication?\n2. Are pregnancy and neonatal health outcomes different amo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant\n* Severe mental illness, including:\n\n  * Psychotic disorder (affective and nonaffective)\n  * Bipolar disorder\n  * History of psychiatric hospitalization, regardless of diagnosis\n* Able to complete study interviews and measures in English, Dutch, or Spanish\n\nExclusion ",
+      "endpoints": [
+        "Mini-International Neuropsychiatric Interview",
+        "Finnegan Neonatal Abstinence Scoring System",
+        "Ratio of auditory evoked potentials as measured by EEG"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT06049953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02870283",
+      "title": "Assessment of Cost- Effectiveness Interventions and the Quality of Life in Patients With Mood Disorders Through Resources Available in Brazilian Public Health",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-05",
+      "completion_date": "2015-09",
+      "country": "N/A",
+      "enrollment": 107,
+      "brief_summary": "To evaluate the effectiveness of three systematic interventions for Bipolar Disorder (BD) mixed episodes using medications available in the Brazilian Public Healthcare System (SUS), and assessment of the quality of life of these patients.\n\nA randomized pragmatic trial was conducted. An algorithm was developed for the treatment of episodes of bipolar mixed episodes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ages between 18 and 65;\n2. BD current acute mixed episode;\n3. total capacity to understand and respond to self-applied instruments;\n4. the presence of symptoms in the last 30 days;\n5. abstinence for at least 30 days for drug addicts.\n\nExclusion Criteria:\n\n1. presence of Organ",
+      "endpoints": [
+        "Number of Participants With Response to Treatment\""
+      ],
+      "sponsor": "Federal University of Rio Grande do Sul",
+      "url": "https://clinicaltrials.gov/study/NCT02870283"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00012558",
+      "title": "Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1998-09",
+      "completion_date": "2005-09",
+      "country": "United States",
+      "enrollment": 5000,
+      "brief_summary": "A long-term study of current treatments for bipolar disorder, including medications and psychosocial therapies.",
+      "eligibility_criteria": "General Inclusion Criteria:\n\n* current age 15 or older (Best Practice Pathway) or 18 years or older (Randomized Care Pathways);\n* able to give informed consent for data to be harvested;\n* meet DSM-IV criteria for Bipolar I Disorder, Bipolar II Disorder, Bipolar Disorder NOS, or Cyclothymic Disorder;",
+      "endpoints": [],
+      "sponsor": "National Institute of Mental Health (NIMH)",
+      "url": "https://clinicaltrials.gov/study/NCT00012558"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00177567",
+      "title": "Treatment of Geriatric Bipolar Mood Disorders: A Pilot Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-07",
+      "completion_date": "2004-01",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to collect pilot data on the feasibility of recruiting, eliciting informed consent, assessing, treating, and following patients aged 60 and older with bipolar mood disorders.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV diagnosis of Bipolar Disorder\n* Folstein Mini-Mental Status Exam score of 18 or higher\n\nExclusion Criteria:\n\n* Medical condition that precludes the use of both lithium and depakote\n* If mood disturbance is deemed an organic mood disorder (i.e., iatrogenic, secondary to ",
+      "endpoints": [
+        "The percent of subjects remitting from their index affective episode, the time to remission, the percent of partially and non-remitting patients, the incidence of relapse during continuation treatment, and of recurrence during maintenance treatment"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00177567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00034580",
+      "title": "Olanzapine Versus Active Comparator in the Treatment of Bipolar I Disorder, Manic or Mixed",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-08",
+      "completion_date": "2002-08",
+      "country": "United States",
+      "enrollment": 326,
+      "brief_summary": "This is a research study comparing the safety and efficacy of two active study medications for the treatment of bipolar I disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subject, 18-70 years of age\n* Female subjects of childbearing potential must be using a medically accepted means of contraception\n* Each subject must have a level of understanding sufficient to perform all tests and examinations required by the protocol\n* Subjec",
+      "endpoints": [],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00034580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00132678",
+      "title": "A Randomized, Double-blind, Placebo-controlled Study to Explore the Efficacy and Safety of Risperidone Long-acting Intramuscular Injectable in the Prevention of Mood Episodes in Bipolar 1 Disorder, With Open-label Extension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2007-12",
+      "country": "Spain, Taiwan, India, Russia, Austria, Ukraine, Slovakia, Malaysia, Poland, United States",
+      "enrollment": 559,
+      "brief_summary": "The purpose of this study is to determine if risperidone is effective and safe in the prevention of mood episodes in patients with bipolar 1 disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar 1 disorder, currently experiencing a mixed or manic episode or stable\n* Two or more bipolar mood episodes in the last 2 years excluding current episode\n* Negative pregnancy test\n\nExclusion Criteria:\n\n* History of \\> than 4 mood episodes a year during the l",
+      "endpoints": [
+        "Number of Participants Who Had a Mood Relapse."
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00132678"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00140179",
+      "title": "Valnoctamide as a Valproate Substitute With Low Teratogenic Potential: Double-Blind Controlled Clinical Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2008-05",
+      "country": "Israel",
+      "enrollment": 80,
+      "brief_summary": "Valproic acid is a leading mood stabilizer for the treatment of bipolar disorder. Its well-known teratogenicity limits its use in young women of childbearing age. According to toxicologic studies the teratogenicity of valproate stems from its free carboxylic group. Valnoctamide is an isomer and an analog of valpromide. Unlike valpromide, valnoctamide does not undergo a biotransformation to the corresponding free acid. It is also likely or at least possible that valnoctamide is anti-bipolar. In m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 18-60\n* Males or females\n* DSM-IV criteria for mania or schizoaffective disorder, manic type\n* Minimal Young Mania Scale = 20\n* Admittance to hospital within previous 72 hours\n\nExclusion Criteria:\n\n* Any active physical illness\n* Pregnancy\n* Drug or alcohol abuse\n* Suicid",
+      "endpoints": [
+        "Brief Psychiatric Rating Scale",
+        "Young Mania Rating Scale",
+        "Clinical Global Impression"
+      ],
+      "sponsor": "Beersheva Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT00140179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00107939",
+      "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy, Safety and Tolerability of Licarbazepine 750 ¿ 2000 mg/d as Adjunctive Therapy to an Atypical Antipsychotic in the Treatment of Manic Episodes of Bipolar I Disorder Over 6 Weeks",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2007-04",
+      "country": "United States",
+      "enrollment": 453,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness and tolerability of an investigational drug for the treatment of manic episodes of bipolar disorder. The investigational drug will be given as additional therapy to one of the five following medications: risperidone, olanzapine, quetiapine, ziprasidone, or aripiprazole. These medications are already FDA (Food and Drug Administration)-approved treatments for mania.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar disorder (type I) with manic or mixed episodes (including patients with/without psychotic features or with/without a history of rapid cycling)\n* In need of psychiatric treatment\n* Cooperation and willingness to complete all aspects of the study\n\nExclusion ",
+      "endpoints": [
+        "Mean reduction in manic episodes and major depressive episodes from baseline to endpoint (week 6)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00107939"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04218981",
+      "title": "Definitive Selection of Neuroimaging Biomarkers for the Diagnosis and Treatment to Common Mental Disorders",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-01-15",
+      "completion_date": "2023-12-31",
+      "country": "China",
+      "enrollment": 200,
+      "brief_summary": "To explore the whole-brain anatomical and functional abnormalities in drug-naive patients with schizophrenia ,drug-naive patients with BD, drug-naive patients with MDD and healthy controls by using a combination of cross-sectional and longitudinal study designs, including a longitudinal study with 8 weeks of drugs treatment. And explore whether there are shared imaging biomarkers between these three common mental disorders.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnostic criteria for schizophrenia,bipolar disorder, major depressive disorder according to the Structural Clinical Interview for Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV)\n* Never received any treatment before.\n* For healthy controls: th",
+      "endpoints": [
+        "Resting-state functional magnetic resonance imaging (fMRI) data acquisition for all participants",
+        "Positive and Negative Syndrome Scale (PANSS)",
+        "Hamilton Depression Scale-17 (HAMD-17)"
+      ],
+      "sponsor": "Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT04218981"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00257075",
+      "title": "The Efficacy And Safety Of Flexible Dosage Ranges Of Risperidone Versus Placebo In The Treatment Of Manic Episodes Associated With Bipolar I Disorder.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-12",
+      "completion_date": "2002-05",
+      "country": "N/A",
+      "enrollment": 267,
+      "brief_summary": "The purpose of the study is to assess the effectiveness and safety of risperidone (an antipsychotic medication) versus placebo during 3 weeks of treatment of mania in patients with Bipolar I Disorder who are suffering a manic episode.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a diagnosis of Bipolar I Disorder, Most Recent Episode Manic, by the criteria in the Diagnostic and Statistical Manual of Mental Diseases, 4th edition (DSM-IV)\n* voluntarily hospitalized at study initiation for the current manic episode\n* history of at least one ",
+      "endpoints": [
+        "Change in Young Mania Rating Scale (YMRS) total score from baseline to the end of treatment."
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00257075"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00182013",
+      "title": "Open-Label Comparative Study of Risperidone Versus Olanzapine Versus Quetiapine for Mania in Children and Adolescents With Bipolar I and Bipolar II Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-06",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 106,
+      "brief_summary": "The objective of this study is to compare the safety and effectiveness of Risperidone, Olanzapine, and Quetiapine in the treatment of mania in children and adolescents with Bipolar disorder over 8 weeks and then over an extension phase. This is an exploratory, open-label study, which seeks to determine if there is evidence for efficacy. The results of this study will be used to generate hypotheses for a larger study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females age 6 to 18 years of age\n* Patient must have a diagnosis of bipolar I or bipolar II disorder and currently displaying an acute manic, hypomanic, or mixed episode (with or without psychotic features) according to the DSM-IV based on clinical assessment and con",
+      "endpoints": [
+        "Young Mania Rating Scale"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00182013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00181935",
+      "title": "Open-Label Comparative Study of Risperidone Versus Olanzapine for Mania in Preschool Children 4 to 6 Years of Age With Bipolar Spectrum Disorder",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The objectives of this study are to study the safety, effectiveness, tolerability and dosing regimen of risperidone, and olanzapine, in the treatment of mania in Bipolar Disorder I and Bipolar II Disorder in preschool children over an 8 week period. We hypothesize that these atypical neuroleptics may be effective in treating pediatric mania, with a lower risk of extrapyramidal side effects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients, 4-6 years of age.\n2. Parent or legal representative must have a level of understanding sufficient to communicate intelligently with the investigator and study coordinator, and to cooperate with all tests and examinations required by the protocol.\n3. P",
+      "endpoints": [
+        "reduction in symptoms measured by",
+        "Young Mania Rating Scale",
+        "Mania Symptom Checklist"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00181935"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00571688",
+      "title": "Does Risperidone Consta Reduce Relapse and Rehospitalization in Bipolar Disorder?",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2009-02",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This study will evaluate the relative effectiveness of risperidone Consta injections occurring every 2 weeks in contrast to treatment as usual in preventing symptomatic relapse and rates of rehospitalization or admission into respite care for bipolar patients.\n\nHypothesis: Risperdal Consta injections every 2 weeks will reduce the number of symptomatic relapses into mania, hypomania, mixed state, or depression, as shown by key indicators that include symptomatic relapse, rehospitalizations, emerg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be physically healthy\n* 18-60 years of age\n* Have a DSM-IV diagnosis of bipolar disorder in any phase, but without current psychotic features; with a history of symptomatic relapse on four or more occasions over the last year prior to the initiation of study for the treatment ",
+      "endpoints": [
+        "Number of Relapse-related Events Normalized to Unit Time"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00571688"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00253162",
+      "title": "The Efficacy And Safety Of Flexible Dose Ranges Of Risperidone Versus Placebo Or Haloperidol In The Treatment Of Manic Episodes Associated With Bipolar I Disorder.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-03",
+      "completion_date": "2002-09",
+      "country": "N/A",
+      "enrollment": 439,
+      "brief_summary": "The purpose of the study is to assess the effectiveness and safety of risperidone (an antipsychotic medication) compared with placebo after 3 weeks of treatment in patients with bipolar disorder who are experiencing manic episodes. A secondary purpose of the study is to assess the maintenance of risperidone effectiveness versus haloperidol (an antipsychotic medication) after 12 weeks of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets diagnosis criteria for Bipolar I Disorder - Most Recent Episode Manic (Diagnostic and Statistical Manual of Mental Diseases, 4th edition, (DSM-IV))\n* meets DSM-IV criteria for a current manic episode\n* hospitalized voluntarily at study initiation\n* history of at least on",
+      "endpoints": [
+        "Acute efficacy: Change in Young Mania Rating Scale (YMRS) total score from baseline to endpoint of 3 weeks of acute treatment period."
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00253162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00250367",
+      "title": "The Safety And Efficacy Of Risperdal� (Risperidone) Versus Placebo As Add-On Therapy To Mood Stabilizers In The Treatment Of The Manic Phase Of Bipolar Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-10",
+      "completion_date": "1999-11",
+      "country": "N/A",
+      "enrollment": 151,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness and safety of risperidone (an antipsychotic medication) versus placebo as add-on therapy to mood stabilizers, in the treatment of manic episodes associated with bipolar disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients hospitalized for mania with a score \\>=20 on the Young Mania Rating Scale (YMRS). (Patients with symptoms of depression are eligible)\n* diagnosis of Bipolar Disorder according to Diagnostic and Statistical Manual of Mental Diseases, 4th edition (DSM-IV)\n* receiving tr",
+      "endpoints": [
+        "Change in Young Mania Rating Scale (YMRS) total score from baseline to end of double-blind treatment"
+      ],
+      "sponsor": "Janssen Pharmaceutica N.V., Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00250367"
+    }
+  ],
+  "timestamp": "2026-03-04T15:33:00.419255",
+  "success": true,
+  "error_message": null
+}

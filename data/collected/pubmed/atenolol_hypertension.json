@@ -1,0 +1,640 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Atenolol",
+    "disease": "hypertension",
+    "query_string": "Atenolol AND hypertension"
+  },
+  "data": {
+    "query": "Atenolol AND hypertension",
+    "results": [
+      {
+        "pmid": "31259",
+        "title": "Atenolol and three nonselective beta-blockers in hypertension.",
+        "abstract": "The object of this study was to establish whether cardioselectivity of atenolol confers any advantage over noncardioselective beta-blockade in the treatment of hypertension. A dose of atenolol was established on the basis of morning mean systolic blood pressure (mean of 5 readings) in 27 long-standing hypertensive patients previously controlled on one of three nonselective beta-blockers: propranolol, oxprenolol, or pindolol. Most patients were also taking a diuretic. A crossover trial was then conducted of atenolol and the previous nonselective beta-blocker, each drug being given for 8 wk in randomized order. Other drugs were kept constant. At the end of each 8-wk period a morning test of blood pressure and pulse rate was done, an 11:30 A.M. blood sample was taken for estimation of drug concentration, and spirometry was performed. During the eighth week a glucose tolerance test, fasting lipids, and other biochemical and hematologic estimations were done. On a separate occasion a late m",
+        "journal": "Clinical pharmacology and therapeutics",
+        "year": "1979",
+        "authors": [
+          "Waal-Manning H J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Creatinine",
+          "Female",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31259/"
+      },
+      {
+        "pmid": "6805588",
+        "title": "Atenolol and metoprolol once daily in hypertension.",
+        "abstract": "The effect of once-daily dosage of the two most widely prescribed cardioselective beta-adrenoceptor antagonists used to treat hypertension--namely, atenolol and metoprolol--was studied in nine carefully selected hypertensive outpatients. Each patient received atenolol 50 mg/day, atenolol 100 mg/day, metoprolol 100 mg/day, and metoprolol 200 mg/day in a sustained-release formulation (as Lopresor SR) according to a randomised sequence. After three weeks' treatment with each drug given once daily comparisons of the treatments 24 hours after dosing showed no important differences between 50 and 100 mg atenolol/day. Metoprolol, as both the standard and the slow-release formulations, had some limitations in controlling systolic blood pressure and heart rate. These results suggest that the recommendations for the treatment of hypertension with these cardioselective beta-adrenoceptor antagonists should be reconsidered since doses smaller than those recommended are almost as effective and much ",
+        "journal": "British medical journal (Clinical research ed.)",
+        "year": "1982",
+        "authors": [
+          "Scott A K",
+          "Rigby J W",
+          "Webster J",
+          "Hawksworth G M",
+          "Petrie J C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Atenolol",
+          "Blood Pressure",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6805588/"
+      },
+      {
+        "pmid": "1104047",
+        "title": "Atenolol and bendrofluazide in hypertension.",
+        "abstract": "The effect of atenolol, a new beta-1-adrenergic receptor blocking agent, was studied in a double-blind cross-over trial in 24 carefully selected hypertensive outpatients. After a four-week run-in period on matching placebo each patient received atenolol 200 mg/day, atenolol 400 mg/day, a combination of atenolol 200/mg day with bendrofluazide 5 mg/day, and bendrofluazide 5 mg/day alone, according to a random sequence. Atenolol at either dose produced a significantly greater reduction in all blood pressure levels except standing systolic pressure than bendrofluazide alone. There was no statistically significant difference between the effects of the two atenolol doses on either blood pressure or pulse rate. The addition of bendrofluazide to atenolol resulted in a further significant lowering of the blood pressure. A significant effect of thiazide on weight was noted. The study shows that atenolol, a cardioselective beta-blocker of similar potency to propranolol in animals but without memb",
+        "journal": "British medical journal",
+        "year": "1975",
+        "authors": [
+          "Petrie J C",
+          "Galloway D B",
+          "Webster J",
+          "Simpson W T",
+          "Lewis J A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Bendroflumethiazide",
+          "Body Weight",
+          "Clinical Trials as Topic",
+          "Drug Evaluation",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1104047/"
+      },
+      {
+        "pmid": "7903118",
+        "title": "[Pharmacology and clinical use of a fixed combination of nifedipine and slow release atenolol (Niften) in the treatment of arterial hypertension and angina pectoris].",
+        "abstract": "Nifedipine and atenolol are first choice drugs in the treatment of arterial hypertension and angina pectoris. In both these pathologies the administration of nifedipine and atenolol in free or fixed combinations has proved extremely efficacious in patients who were not adequately controlled by either drug in monotherapy. A fixed combination of intestinal slow-release nifedipine and atenolol (Niften) was recently developed and has already undergone several comparative and double-blind clinical trials for the treatment of arterial hypertension and angina pectoris. The pharmacokinetic and pharmacodynamic characteristics of atenolol and nifedipine are not altered when these drugs are administered in fixed or free combination. It has been shown that the nifedipine-atenolol combination causes anti-hypertensive and anti-anginous effects at doses which are lower, for either of its two components, in comparison to the doses required to achieve the same effects using monotherapy. In arterial hyp",
+        "journal": "Minerva cardioangiologica",
+        "year": "1993",
+        "authors": [
+          "Verdecchia P"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Angina Pectoris",
+          "Atenolol",
+          "Calcium Channel Blockers",
+          "Delayed-Action Preparations",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7903118/"
+      },
+      {
+        "pmid": "39611995",
+        "title": "MMP-9 expression in rat pup incisor teeth is not altered by maternal hypertension or maternal atenolol treatment during pregnancy and lactation.",
+        "abstract": "Hypertension alters tooth formation and Atenolol reduces the blood pressure of spontaneously hypertensive rats (SHR) during pregnancy and lactation, and as demonstrated before, increases the microhardness of the SHR offspring's teeth. MMP-9 is overexpressed in different tissues of hypertensive animals and treatment of hypertension substances can reverse this alteration. We hypothesize hypertension alters the expression of MMP-9 in dental structures of SHR offspring and that treating female SHR with atenolol prevents this alteration. This study aimed to evaluate the expression of matrix metalloproteinase (MMP-9) in incisor teeth (IT) in male offspring of SHR (30 days old) treated or untreated with Atenolol during pregnancy and lactation. MMP-9 expression was evaluated in ameloblasts (AM), enamel matrix (EM), odontoblasts (OD), and predentin (PD) of IT through immunohistochemical reactions (immunoperoxidase). Data were analyzed by Shapiro-Wilk and Kruskal-Wallis (p < 0.05), with Dunn pos",
+        "journal": "Journal of molecular histology",
+        "year": "2024",
+        "authors": [
+          "Elias Gracieli Prado",
+          "Horta Haylla de Faria",
+          "Mateus Alanna Ramalho",
+          "Pes Laura Valentina Borges",
+          "Lopes Adrielle Ouchi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Atenolol",
+          "Matrix Metalloproteinase 9",
+          "Pregnancy",
+          "Female",
+          "Rats",
+          "Lactation",
+          "Incisor",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39611995/"
+      },
+      {
+        "pmid": "2216994",
+        "title": "Efficacy of enalapril in essential hypertension and its comparison with atenolol.",
+        "abstract": "The effect of enalapril was evaluated in 67 patients with essential hypertension, and its therapeutic efficacy was compared with atenolol in a placebo run-in, single-blind, cross-over trial. Enalapril significantly reduced blood pressure in all grades of essential hypertension. As monotherapy it 'normalized' blood pressure in 88%, 50% and 25% of patients with mild, moderate and severe hypertension respectively. Optimal dose for most of the patients was 20 to 40 mg/day. Comparison with atenolol revealed almost parallel efficacy of the two drugs, although enalapril produced a significantly greater reduction in systolic blood pressure in patients with mild and moderate hypertension (P less than 0.01 in each group). No serious side effects were encountered with either drug. Enalapril, therefore, has a potent and slightly superior antihypertensive effect to that of atenolol, and may be used as a 'first-step' drug in the treatment of hypertensive patients.",
+        "journal": "Postgraduate medical journal",
+        "year": "1990",
+        "authors": [
+          "el Mangoush M",
+          "Singh N K",
+          "Kumar S",
+          "Basha A",
+          "Gupta B S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Dose-Response Relationship, Drug",
+          "Enalapril",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2216994/"
+      },
+      {
+        "pmid": "9759992",
+        "title": "Valsartan and atenolol in patients with severe essential hypertension.",
+        "abstract": "The aim of this study was to evaluate the efficacy and tolerability of valsartan, a new angiotensin II receptor antagonist, versus atenolol in the treatment of severe primary hypertension. A total of 103 adult out-patients were randomised to receive either valsartan 160 mg or atenolol 100 mg once daily for 6 weeks. If necessary, additional blood pressure (BP) control could be provided as add-on therapy. Both valsartan and atenolol decreased mean sitting diastolic BP (DBP) and mean sitting systolic BP (SBP): least squares mean change from baseline in DBP; valsartan, -20.0 mm Hg; atenolol, -20.4 mm Hg: in SBP; valsartan, -30.0 mm Hg; atenolol, -25.5 mm Hg. There was no statistically significant difference between the treatment groups. Add-on hydrochlorothiazide (HCTZ) 25 mg was required by 97.2% of patients receiving atenolol and 83.6% of patients receiving valsartan; additional verapamil SR 240 mg was also required by 58.3% of patients receiving atenolol and 64.2% receiving valsartan. V",
+        "journal": "Journal of human hypertension",
+        "year": "1998",
+        "authors": [
+          "Cifkova R",
+          "Peleska J",
+          "Hradec J",
+          "Rosolová H",
+          "Pintérová E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Angiotensin Receptor Antagonists",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9759992/"
+      },
+      {
+        "pmid": "26425837",
+        "title": "PTPRD gene associated with blood pressure response to atenolol and resistant hypertension.",
+        "abstract": "The aim of this study is to identify single-nucleotide polymorphisms (SNPs) influencing blood pressure (BP) response to the β-blocker atenolol.",
+        "journal": "Journal of hypertension",
+        "year": "2015",
+        "authors": [
+          "Gong Yan",
+          "McDonough Caitrin W",
+          "Beitelshees Amber L",
+          "El Rouby Nihal",
+          "Hiltunen Timo P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Black People",
+          "Blood Pressure",
+          "Essential Hypertension",
+          "Female",
+          "Genome-Wide Association Study"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26425837/"
+      },
+      {
+        "pmid": "7340890",
+        "title": "A comparative study of atenolol and metoprolol in the treatment of hypertension.",
+        "abstract": "1 In an open, randomized cross-over investigation of thirteen patients (nine and four women, aged 37-67 years) with mild or moderate essential hypertension a comparison between atenolol and metoprolol was carried out in order to study the effects of 50, 100 and 200 mg given once daily on blood pressure and heart rate at rest and during exercise. 2 Before one beta-adrenoceptor blocking drug was replaced by the other in a patient an intervening drug-free interval of sufficient length was secured to allow an increase in the blood pressure to pretreatment levels. 3 A maximal fall in blood pressure was achieve with 50 mg atenolol once daily, with no further reduction when the dose was increased to 100 mg or 200 mg. Maximal blood pressure reduction was achieved with 100 mg metoprolol daily, while the hypertensive effect of 50 mg once daily was not consistent. Significant reductions in heart rate in all test situations were observed with 50 mg atenolol, while 200 mg metoprolol 100 was necessa",
+        "journal": "British journal of clinical pharmacology",
+        "year": "1981",
+        "authors": [
+          "Rasmussen S",
+          "Arnung K",
+          "Eskildsen P C",
+          "Nielsen P E"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Creatinine",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7340890/"
+      },
+      {
+        "pmid": "15530629",
+        "title": "Atenolol in hypertension: is it a wise choice?",
+        "abstract": "Atenolol is one of the most widely used beta blockers clinically, and has often been used as a reference drug in randomised controlled trials of hypertension. However, questions have been raised about atenolol as the best reference drug for comparisons with other antihypertensives. Thus, our aim was to systematically review the effect of atenolol on cardiovascular morbidity and mortality in hypertensive patients.",
+        "journal": "Lancet (London, England)",
+        "year": "2004",
+        "authors": [
+          "Carlberg Bo",
+          "Samuelsson Ola",
+          "Lindholm Lars Hjalmar"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Blood Pressure",
+          "Humans",
+          "Hypertension",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15530629/"
+      },
+      {
+        "pmid": "3602015",
+        "title": "A comparative study of atenolol/nifedipine and atenolol/diuretic in hypertension.",
+        "abstract": "A prospective, randomized, double-blind between-patient study was carried out to compare the efficacy and tolerance of atenolol with nifedipine and atenolol with diuretic. Ninety-eight hypertensive patients inadequately controlled after 1-month's treatment with 100 mg atenolol alone once daily received, in addition, either 20 mg nifedipine twice daily or 5 mg amiloride plus 50 mg hydrochlorothiazide once daily for a further 8 weeks. The results of blood pressure measurements in the lying and standing positions showed that the mean reduction in standing blood pressure from atenolol baseline was 28/12 mmHg for atenolol/diuretic and 18/13 mmHg for atenolol/nifedipine. The only significant difference between treatments in blood pressure control was in lying systolic blood pressure favouring atenolol/diuretic and a trend in favour of this combination for standing systolic blood pressure. Both regimens were reasonably well tolerated, although 19 patients withdrew during the course of the tri",
+        "journal": "Pharmatherapeutica",
+        "year": "1986",
+        "authors": [
+          "Edwards K G",
+          "Tweed J A",
+          "Saul P A",
+          "Wright F W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Atenolol",
+          "Blood Pressure",
+          "Diuretics",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Hypertension",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3602015/"
+      },
+      {
+        "pmid": "631188",
+        "title": "Chronic atenolol treatment and hypertension development in spontaneously hypertensive rats.",
+        "abstract": "Changes in systolic blood pressure (SBP), heart rate (HR), heart rate and plasma renin concentration (PRC) have been compared in three different groups of rats between the ages of 5 and 20 weeks. The groups were: spontaneously hypertensive rats (SHRs), atenolol-treated SHRs (200 mg/kg/day orally throughout the 15 weeks) and normotensive rats of the same strain (WKYs). Treatment with atenolol markedly inhibited the onset of genetic hypertension, reduced HR and PRC from the outset and diminished the heart weight/body weight ratio. Comparison of changes in these parameters in atenolol-treated SHRs, control SHRs and WKYs strongly suggests that the mechanism of atenolol's preventive action against hypertension development in SHRs primarily involves its effects on heart and on the renin--angiotensin system.",
+        "journal": "European journal of pharmacology",
+        "year": "1978",
+        "authors": [
+          "Richer C",
+          "Boissier J R",
+          "Giudicelli J F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Atenolol",
+          "Blood Pressure",
+          "Body Weight",
+          "Heart",
+          "Heart Rate",
+          "Hypertension",
+          "Male",
+          "Organ Size",
+          "Propanolamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/631188/"
+      },
+      {
+        "pmid": "2148194",
+        "title": "A long-term study of atenolol and doxazosin in mild and moderate hypertension.",
+        "abstract": "The efficacy and tolerability of doxazosin and atenolol in the management of mild and moderate hypertension were compared in a multicentre, parallel study, the first year of which was randomized and double-blind. Patients who completed this first year were invited to enter a two-year extension phase; the results after the first year are presented. A total of 228 patients entered the double-blind phase (118 received atenolol). A reduction in dose was required by 4% in each group; eight patients on doxazosin and 11 on atenolol were withdrawn due to adverse effects. Ninety-three of the 100 doxazosin patients and 88 of the 104 atenolol patients who completed the double-blind phase agreed to participate in the open extension study. At 24 months, the mean dose of doxazosin was 5.2 mg/day, and of atenolol 66.7 mg/day. From baseline levels of BP of 158/104 mmHg in the doxazosin group and 161/103 mmHg in the atenolol group, average reductions at 24 months were -16/-14 and -19/-15 mmHg respectiv",
+        "journal": "Journal of human hypertension",
+        "year": "1990",
+        "authors": [
+          "Talseth T",
+          "Westlie L",
+          "Daae L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Cholesterol",
+          "Double-Blind Method",
+          "Doxazosin",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2148194/"
+      },
+      {
+        "pmid": "3288468",
+        "title": "Efficacy and tolerability of atenolol, nifedipine and their combination in the management of hypertension.",
+        "abstract": "This randomised, double-blind, crossover study investigated the haemodynamic effects of a beta-blocker (atenolol 50mg) and a calcium antagonist (sustained release nifedipine 20mg) given either separately or in combination in 3 groups of patients with mild to moderate essential hypertension. Each treatment was administered twice daily. The fixed combination given twice daily for 4 weeks produced reductions in blood pressure which lasted for at least 12 hours after administration of the final dose. The control of blood pressure by the combination was superior to that achieved by its individual components. Side effects normally associated with nifedipine therapy were less frequent when it was administered with atenolol. Compliance with treatment was good, but it was best when the drugs were given together rather than separately. A fixed combination of atenolol and nifedipine may prove useful in treating hypertensive patients inadequately controlled on beta-blocker therapy alone.",
+        "journal": "Drugs",
+        "year": "1988",
+        "authors": [
+          "Stanley N N",
+          "Thirkettle J L",
+          "Varma M P",
+          "Larkin H",
+          "Heath I D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Creatinine",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Drug Tolerance",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3288468/"
+      },
+      {
+        "pmid": "9296310",
+        "title": "Comparison of temocapril and atenolol in the long-term treatment of mild to moderate essential hypertension.",
+        "abstract": "This 1-year, dose-titration, General Practitioner (GP) study compared efficacy, tolerability and safety of oral temocapril (10-40 mg once daily) with atenolol (25-100 mg once daily) in mild to moderate adult hypertensives (diastolic blood pressure (DBP) 95-114 mmHg). A 12-week dose-titration period, randomized 3:1 temocapril: atenolol, preceded 40 weeks long-term treatment. An intent-to-treat population of 472 patients was analysed for efficacy after 12 weeks dose-titration. Sitting DBP fell significantly (p < 0.001) in both groups, by mean +/- standard deviation (SD) 15.9 +/- 5.7 mmHg on temocapril and by 16.6 +/- 5.9 mmHg on atenolol. Therapeutic equivalence was demonstrated using the two one-sided t-tests procedure according to Schuirmann (equivalence interval [theta 1 - theta 2] < or = 5 mmHg). Responders (DBP < or = 90 mmHg) represented 89.9% of temocapril and 94.0% of atenolol patients. The lower doses were effective in 70.9% of temocapril patients (10 or 20 mg) and in 63.7% of a",
+        "journal": "Blood pressure",
+        "year": "1997",
+        "authors": [
+          "Sierakowski B",
+          "Püchler K",
+          "Witte P U",
+          "Renneisen K",
+          "Delius W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Aged",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Double-Blind Method",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9296310/"
+      },
+      {
+        "pmid": "6662119",
+        "title": "Hypertension in pregnancy: evaluation of two beta blockers atenolol and labetalol.",
+        "abstract": "There is a major controversy over the relative value of anti-hypertensive drugs in hypertension in pregnancy. Our purpose was to study two different beta-adrenolytic drugs, atenolol, a cardioselective beta blocker, and labetalol, an alpha-beta blocker. Fifty-six hypertensive (BP greater than 140/90 mmHg) pregnant women were treated either with atenolol or labetalol. The patients were divided into two subgroups for which there were no statistical differences with regard to age, number of previous pregnancies, initial level of blood pressure and uricemia, proteinuric pre-eclampsia, beginning of therapeutic trial and delivery. The average daily dosage was 144.6 +/- 47.8 mg day-1 with atenolol and 614 +/- 47.8 mg day-1 with labetalol. This study shows: the same anti-hypertensive effect of the two drugs with control of blood pressure in 82% of the cases; a birth-weight significantly higher with labetalol (3280 +/- 555 g) than with atenolol (2750 +/- 630 g) (P less than 0.001); two still-bir",
+        "journal": "European heart journal",
+        "year": "1983",
+        "authors": [
+          "Lardoux H",
+          "Gerard J",
+          "Blazquez G",
+          "Chouty F",
+          "Flouvat B"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Atenolol",
+          "Ethanolamines",
+          "Female",
+          "Fetus",
+          "Humans",
+          "Hypertension",
+          "Infant, Newborn",
+          "Labetalol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6662119/"
+      },
+      {
+        "pmid": "9140673",
+        "title": "Effect of bunazosin and atenolol on glucose metabolism in obese, nondiabetic patients with primary hypertension.",
+        "abstract": "Antihypertensive drugs, recommended by the World Health Organization for use in monotherapy, exert different effects on glucose and lipid metabolism. In our study we compared the effects of the beta-blocker atenolol (AT) and the alpha1-blocker bunazosin (BU) on glucose metabolism. The doses administered were chosen to produce similar antihypertensive effects with both drugs. The study was conducted as a bicenter, parallel, controlled, and double-blind study. All patients suffered from mild to moderate primary hypertension, were obese (body mass index > 26 kg/m2), but were nondiabetic. After a drug-free period of 4 weeks, patients were treated either with 6 and 12 mg of bunazosin (n = 15) or with 50 and 100 mg of atenolol (n = 17) once daily for 12 weeks. Glucose metabolism was measured by the iv glucose tolerance test (GTT) and the euglycemic hyperinsulinemic clamp test. The results show a similar blood pressure reduction with both drugs. However, their effects on glucose metabolism we",
+        "journal": "Cardiovascular drugs and therapy",
+        "year": "1997",
+        "authors": [
+          "Bönner G",
+          "Schmieder R",
+          "Chrosch R",
+          "Weidinger G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adrenergic alpha-Antagonists",
+          "Adrenergic beta-Antagonists",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Blood Glucose",
+          "Double-Blind Method",
+          "Female",
+          "Glucose",
+          "Glucose Tolerance Test",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9140673/"
+      },
+      {
+        "pmid": "12448067",
+        "title": "[Effects of terazosine and atenolol on serum lipids in essential hypertension].",
+        "abstract": "Only a few studies have evaluated the efficacy of alpha-blocking agents in combination with other classes of antihypertensive agents, especially in patients not adequately controlled by monotherapy. As alpha-blockers have an additional beneficial effect on serum lipids, it seems reasonable to use them instead of beta-blockers or diuretics in insufficiently treated hypertensive patients with hyperlipidemia.",
+        "journal": "Zeitschrift fur Kardiologie",
+        "year": "2002",
+        "authors": [
+          "Bur A",
+          "Woisetschläger C",
+          "Herkner H",
+          "Derhaschnig U",
+          "Quehenberger P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Evaluation Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adrenergic alpha-Antagonists",
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Blood Pressure",
+          "Cholesterol",
+          "Cholesterol, HDL",
+          "Cholesterol, LDL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12448067/"
+      },
+      {
+        "pmid": "3049118",
+        "title": "The efficacy and tolerability of atenolol, nifedipine, and their combination in the management of hypertension.",
+        "abstract": "In this randomized, double-blind, cross-over study we investigated the haemodynamic effects of a beta-blocker (atenolol 50 mg) and a calcium antagonist (nifedipine SR 20 mg) given either separately or in combination in three groups of hypertensive patients. Each treatment was administered twice daily. The fixed combination given twice daily for four weeks produced reductions in blood pressure which lasted for at least 12 h after administration of the last dose. The control of blood pressure by the combination was superior to that achieved by its individual components. Adverse effects normally associated with nifedipine were less frequent when it was given with atenolol. Compliance with treatment was good, but best when the drugs were given together rather than separately. A fixed combination of atenolol and nifedipine may prove useful in treating hypertensive patients inadequately controlled on beta-blocker therapy alone.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "1988",
+        "authors": [
+          "Stanley N N",
+          "Thirkettle J L",
+          "Varma M P",
+          "Larkin H",
+          "Heath I D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Female",
+          "Heart Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3049118/"
+      },
+      {
+        "pmid": "2200490",
+        "title": "Hypertension in the elderly: a study of a combination of atenolol and nifedipine.",
+        "abstract": "The antihypertensive effects and tolerability of a once-daily, fixed combination of atenolol 50 mg and nifedipine retard 20 mg ('Nif-Ten') were monitored in a 12-month open study in 30 elderly hypertensive patients, whose blood pressure was inadequately controlled after four weeks treatment with atenolol 50 mg once daily. Sitting (and standing) blood pressure and heart rate one to four hours after dosing were recorded at entry (191/95 mmHg) and at the end of the run-in period (186/93 mmHg). After one month's therapy with the fixed combination the mean sitting blood pressure fell to 169/89 mm Hg and was maintained at this level for the entire 12-month period of observation. During the study four patients complained of side effects on fixed combination therapy with one patient withdrawn due to flushes and hot sweats. One other patient suffered flushes and hot sweats and two patients complained of mild dizziness. There were no demonstrable effects of fixed combination therapy upon the bio",
+        "journal": "The British journal of clinical practice",
+        "year": "1990",
+        "authors": [
+          "Duckett G K",
+          "Cheadle B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2200490/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:18:12.579434",
+  "success": true,
+  "error_message": null
+}

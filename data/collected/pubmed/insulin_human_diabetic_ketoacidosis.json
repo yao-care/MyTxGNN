@@ -1,0 +1,485 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Insulin Human",
+    "disease": "diabetic ketoacidosis",
+    "query_string": "Insulin Human AND diabetic ketoacidosis"
+  },
+  "data": {
+    "query": "Insulin Human AND diabetic ketoacidosis",
+    "results": [
+      {
+        "pmid": "36479786",
+        "title": "Effectiveness and safety of early insulin glargine administration in combination with continuous intravenous insulin infusion in the management of diabetic ketoacidosis: A randomized controlled trial.",
+        "abstract": "To determine the effectiveness and safety of early combination of insulin glargine with intravenous (IV) insulin infusion compared with IV insulin infusion alone in the management of diabetic ketoacidosis (DKA).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2023",
+        "authors": [
+          "Thammakosol Kitti",
+          "Sriphrapradang Chutintorn"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Insulin",
+          "Insulin Glargine",
+          "Diabetic Ketoacidosis",
+          "Diabetes Mellitus, Type 2",
+          "Hypokalemia",
+          "Insulin, Regular, Human",
+          "Hypoglycemia",
+          "Hyperglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36479786/"
+      },
+      {
+        "pmid": "16848698",
+        "title": "Fuel metabolism in starvation.",
+        "abstract": "This article, which is partly biographical and partly scientific, summarizes a life in academic medicine. It relates my progress from benchside to bedside and then to academic and research administration, and concludes with the teaching of human biology to college undergraduates. My experience as an intern (anno 1953) treating a youngster in diabetic ketoacidosis underscored our ignorance of the controls in human fuel metabolism. Circulating free fatty acids were then unknown, insulin could not be measured in biologic fluids, and beta-hydroxybutyric acid, which was difficult to measure, was considered by many a metabolic poison. The central role of insulin and the metabolism of free fatty acids, glycerol, glucose, lactate, and pyruvate, combined with indirect calorimetry, needed characterization in a near-steady state, namely prolonged starvation. This is the main topic of this chapter. Due to its use by brain, D-beta-hydroxybutyric acid not only has permitted man to survive prolonged ",
+        "journal": "Annual review of nutrition",
+        "year": "2006",
+        "authors": [
+          "Cahill George F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "3-Hydroxybutyric Acid",
+          "Blood Glucose",
+          "Brain",
+          "Energy Metabolism",
+          "Fatty Acids, Nonesterified",
+          "Humans",
+          "Ketosis",
+          "Starvation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16848698/"
+      },
+      {
+        "pmid": "28222533",
+        "title": "Type 1 Diabetes Mellitus and Cognitive Impairments: A Systematic Review.",
+        "abstract": "Type 1 diabetes mellitus (T1DM) is a major subtype of diabetes and is usually diagnosed at a young age with insulin deficiency. The life expectancy of T1DM patients has increased substantially in comparison with that three decades ago due to the availability of exogenous insulin, though it is still shorter than that of healthy people. However, the relation remains unclear between T1DM and dementia as an aging-related disease. We conducted a systematic review of existing literature on T1DM and cognition impairments by carrying out searches in electronic databases Medline, EMBASE, and Google Scholar. We restricted our review to studies involving only human subjects and excluded studies on type 2 diabetes mellitus or non-classified diabetes. A meta-analysis was first performed on the relationship between T1DM and cognitive changes in youths and adults respectively. Then the review focused on the cognitive complications of T1DM and their relation with the characteristics of T1DM, glycemic ",
+        "journal": "Journal of Alzheimer's disease : JAD",
+        "year": "2017",
+        "authors": [
+          "Li Wei",
+          "Huang Edgar",
+          "Gao Sujuan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Cognitive Dysfunction",
+          "Diabetes Mellitus, Type 1",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28222533/"
+      },
+      {
+        "pmid": "27097605",
+        "title": "Euglycemic Diabetic Ketoacidosis: A Review.",
+        "abstract": "Diabetic ketoacidosis (DKA) is one of the most serious complications of diabetes. It is characterised by the triad of hyperglycemia (blood sugar >250 mg/dl), metabolic acidosis (arterial pH <7.3 and serum bicarbonate <18 mEq/L) and ketosis. Rarely these patients can present with blood glucose (BG) levels of less than 200 mg/dl, which is defined as euglycemic DKA. The possible etiology of euglycemic DKA includes the recent use of insulin, decreased caloric intake, heavy alcohol consumption, chronic liver disease and glycogen storage disorders. DKA in pregnancy has also been reported to present with euglycemia. The recent use of sodium glucose cotransporter 2 (SGLT2) inhibitors has shed light on another possible mechanism of euglycemic DKA. Clinicians may also be misled by the presence of pseudonormoglycemia.",
+        "journal": "Current diabetes reviews",
+        "year": "2017",
+        "authors": [
+          "Modi Anar",
+          "Agrawal Abhinav",
+          "Morgan Farah"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Blood Glucose",
+          "Diabetic Ketoacidosis",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications",
+          "Sodium-Glucose Transporter 2",
+          "Sodium-Glucose Transporter 2 Inhibitors",
+          "Starvation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27097605/"
+      },
+      {
+        "pmid": "38954371",
+        "title": "SGLT2 inhibitor use in the management of feline diabetes mellitus.",
+        "abstract": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors are routinely used in the management of human type 2 diabetes and have been shown to effectively mitigate hyperglycemia and reduce the risks of cardiovascular and renal compromise. Two SGLT2 inhibitors, namely bexagliflozin and velagliflozin, were recently FDA approved for the treatment of uncomplicated feline diabetes mellitus. These oral hypoglycemic agents are a suitable option for many newly diagnosed cats, with rapid improvements in glycemic control and clinical signs. Suitable candidates must have some residual β-cell function, as some endogenous insulin production is required to prevent ketosis. Appropriate patient selection and monitoring are necessary, and practitioners should be aware of serious complications such as euglycemic diabetic ketoacidosis.",
+        "journal": "Journal of veterinary pharmacology and therapeutics",
+        "year": "2025",
+        "authors": [
+          "Cook Audrey K",
+          "Behrend Ellen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cats",
+          "Cat Diseases",
+          "Sodium-Glucose Transporter 2 Inhibitors",
+          "Hypoglycemic Agents",
+          "Diabetes Mellitus, Type 2",
+          "Diabetes Mellitus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38954371/"
+      },
+      {
+        "pmid": "28003053",
+        "title": "SGLT2 Inhibitor-associated Diabetic Ketoacidosis: Clinical Review and Recommendations for Prevention and Diagnosis.",
+        "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors are the newest class of antihyperglycemic agents available on the market. Regulator warnings and concerns regarding the risk of developing diabetic ketoacidosis (DKA), however, have dampened enthusiasm for the class despite the combined glycemic, blood pressure, and occasional weight benefits of SGLT2 inhibitors. With the goal of improving patient safety, a cross-Canada expert panel and writing group were convened to review the evidence to-date on reported SGLT2 inhibitor-related DKA incidents and to offer recommendations for preventing and recognizing patients with SGLT2 inhibitor-associated DKA.",
+        "journal": "Clinical therapeutics",
+        "year": "2016",
+        "authors": [
+          "Goldenberg Ronald M",
+          "Berard Lori D",
+          "Cheng Alice Y Y",
+          "Gilbert Jeremy D",
+          "Verma Subodh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Canada",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Ketoacidosis",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Incidence",
+          "Insulin",
+          "Sodium-Glucose Transporter 2",
+          "Sodium-Glucose Transporter 2 Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28003053/"
+      },
+      {
+        "pmid": "28364357",
+        "title": "Treatment of Diabetic Ketoacidosis (DKA)/Hyperglycemic Hyperosmolar State (HHS): Novel Advances in the Management of Hyperglycemic Crises (UK Versus USA).",
+        "abstract": "Diabetic ketoacidosis (DKA) and hyperglycemic hyperosmolar state (HHS) are diabetic emergencies that cause high morbidity and mortality. Their treatment differs in the UK and USA. This review delineates the differences in diagnosis and treatment between the two countries.",
+        "journal": "Current diabetes reports",
+        "year": "2017",
+        "authors": [
+          "Dhatariya Ketan K",
+          "Vellanki Priyathama"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diabetic Ketoacidosis",
+          "Humans",
+          "Hyperglycemic Hyperosmolar Nonketotic Coma",
+          "United Kingdom",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28364357/"
+      },
+      {
+        "pmid": "35389497",
+        "title": "Evaluation of Outcomes Following Hospital-Wide Implementation of a Subcutaneous Insulin Protocol for Diabetic Ketoacidosis.",
+        "abstract": "Standard diabetic ketoacidosis care in the US includes intravenous insulin treatment in the intensive care unit. Subcutaneous (SQ) insulin could decrease intensive care unit need, but the data are limited.",
+        "journal": "JAMA network open",
+        "year": "2022",
+        "authors": [
+          "Rao Priya",
+          "Jiang Sheng-Fang",
+          "Kipnis Patricia",
+          "Patel Divyesh M",
+          "Katsnelson Svetlana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cohort Studies",
+          "Diabetes Mellitus",
+          "Diabetic Ketoacidosis",
+          "Female",
+          "Hospitals",
+          "Humans",
+          "Insulin",
+          "Insulin, Regular, Human",
+          "Length of Stay"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35389497/"
+      },
+      {
+        "pmid": "34590174",
+        "title": "The management of type 1 diabetes in adults. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD).",
+        "abstract": "The American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD) convened a writing group to develop a consensus statement on the management of type 1 diabetes in adults. The writing group has considered the rapid development of new treatments and technologies and addressed the following topics: diagnosis, aims of management, schedule of care, diabetes self-management education and support, glucose monitoring, insulin therapy, hypoglycaemia, behavioural considerations, psychosocial care, diabetic ketoacidosis, pancreas and islet transplantation, adjunctive therapies, special populations, inpatient management and future perspectives. Although we discuss the schedule for follow-up examinations and testing, we have not included the evaluation and treatment of the chronic microvascular and macrovascular complications of diabetes as these are well-reviewed and discussed elsewhere. The writing group was aware of both national and international guidance on",
+        "journal": "Diabetologia",
+        "year": "2021",
+        "authors": [
+          "Holt Richard I G",
+          "DeVries J Hans",
+          "Hess-Fischl Amy",
+          "Hirsch Irl B",
+          "Kirkman M Sue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Blood Glucose",
+          "Blood Glucose Self-Monitoring",
+          "Consensus",
+          "Diabetes Mellitus, Type 1",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34590174/"
+      },
+      {
+        "pmid": "26086329",
+        "title": "SGLT2 Inhibitors May Predispose to Ketoacidosis.",
+        "abstract": "Sodium glucose cotransporter 2 (SGLT2) inhibitors are antidiabetic drugs that increase urinary excretion of glucose, thereby improving glycemic control and promoting weight loss. Since approval of the first-in-class drug in 2013, data have emerged suggesting that these drugs increase the risk of diabetic ketoacidosis. In May 2015, the Food and Drug Administration issued a warning that SGLT2 inhibitors may lead to ketoacidosis.",
+        "journal": "The Journal of clinical endocrinology and metabolism",
+        "year": "2015",
+        "authors": [
+          "Taylor Simeon I",
+          "Blau Jenny E",
+          "Rother Kristina I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Intramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Benzhydryl Compounds",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Ketoacidosis",
+          "Disease Susceptibility",
+          "Glucosides",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Sodium-Glucose Transporter 2",
+          "Sodium-Glucose Transporter 2 Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26086329/"
+      },
+      {
+        "pmid": "31704689",
+        "title": "Clinical Outcomes in Patients With Isolated or Combined Diabetic Ketoacidosis and Hyperosmolar Hyperglycemic State: A Retrospective, Hospital-Based Cohort Study.",
+        "abstract": "Many patients with hyperglycemic crises present with combined features of diabetic ketoacidosis (DKA) and hyperosmolar hyperglycemic state (HHS). The implications of concomitant acidosis and hyperosmolality are not well known. We investigated hospital outcomes in patients with isolated or combined hyperglycemic crises.",
+        "journal": "Diabetes care",
+        "year": "2020",
+        "authors": [
+          "Pasquel Francisco J",
+          "Tsegka Katerina",
+          "Wang Heqiong",
+          "Cardona Saumeth",
+          "Galindo Rodolfo J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Cohort Studies",
+          "Comorbidity",
+          "Diabetic Ketoacidosis",
+          "Female",
+          "Hospital Mortality",
+          "Hospitalization",
+          "Hospitals",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31704689/"
+      },
+      {
+        "pmid": "37451650",
+        "title": "Diabetic Ketoacidosis and Long-term Insulin Requirements in Youths with Newly Diagnosed Type 2 Diabetes During the SARS-CoV-2 Pandemic.",
+        "abstract": "SARS-CoV-2 infection increases the risk of diabetes and diabetic ketoacidosis (DKA) in both adults and children. We investigated the clinical course of new-onset type 2 diabetes in youth presenting with DKA during the COVID-19 pandemic.",
+        "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+        "year": "2023",
+        "authors": [
+          "Hao Shuai",
+          "Cossen Kristina",
+          "Westbrook Adrianna L",
+          "Umpierrez Guillermo E",
+          "Vellanki Priyathama"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Adult",
+          "Humans",
+          "Adolescent",
+          "Diabetic Ketoacidosis",
+          "Insulin",
+          "Diabetes Mellitus, Type 2",
+          "SARS-CoV-2",
+          "Pandemics",
+          "Diabetes Mellitus, Type 1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37451650/"
+      },
+      {
+        "pmid": "36969293",
+        "title": "Editorial: Diabetic ketoacidosis in children and adolescents: From epidemiological data to clinical aspects.",
+        "abstract": "",
+        "journal": "Frontiers in pediatrics",
+        "year": "2023",
+        "authors": [
+          "Zucchini Stefano",
+          "Bonfanti Riccardo",
+          "Schiaffini Riccardo",
+          "Passanisi Stefano",
+          "Salzano Giuseppina"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36969293/"
+      },
+      {
+        "pmid": "38444312",
+        "title": "Diabetic Ketoacidosis at Onset of Type 1 Diabetes and Glycemic Outcomes with Closed-Loop Insulin Delivery.",
+        "abstract": "The presence of diabetic ketoacidosis (DKA) at diagnosis of type 1 diabetes (T1D) is associated with higher glycated hemoglobin levels over time. We evaluated whether hybrid-closed loop (HCL) therapy from onset of T1D could prevent the adverse impact of DKA at diagnosis on long-term glycemic outcomes. This was a posthoc analysis from 51 adolescents using HCL from diagnosis of T1D as part of the CLOuD trial (NCT02871089). We compared glycemic and insulin metrics between adolescents with (n = 17) and without (n = 34) DKA at diagnosis. Participants with and without DKA at diagnosis had similar time in target glucose range 3.9-10.0 mmol/L (70-180 mg/dL), time below range (<3.9 mmol/L, <70 mg/dL) and HbA1c at 6, 12, and 24 months. While insulin requirements at 6 months were higher in those with DKA at diagnosis, this was not statistically significant after adjusting for bodyweight. Residual C-peptide secretion was similar between groups. We conclude that HCL therapy may mitigate against the",
+        "journal": "Diabetes technology & therapeutics",
+        "year": "2024",
+        "authors": [
+          "Lakshman Rama",
+          "Najami Mazin",
+          "Allen Janet M",
+          "Ware Julia",
+          "Wilinska Malgorzata E"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Humans",
+          "Insulin",
+          "Diabetes Mellitus, Type 1",
+          "Diabetic Ketoacidosis",
+          "Blood Glucose",
+          "Insulin Infusion Systems",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38444312/"
+      },
+      {
+        "pmid": "40596274",
+        "title": "Association between bipolar disorder and diabetic ketoacidosis/hyperosmolar hyperglycemic state.",
+        "abstract": "Individuals with bipolar disorder have a higher prevalence of type 2 diabetes mellitus (T2DM) and are at increased risk for diabetes-related complications. However, little is known about the association between bipolar disorder and acute hyperglycemic crises, including diabetic ketoacidosis (DKA) and hyperosmolar hyperglycemic state (HHS). This study aimed to evaluate whether bipolar disorder is associated with an increased risk of DKA and HHS in individuals with newly diagnosed T2DM. We conducted a retrospective cohort study using the TriNetX electronic health records network. Adults diagnosed with T2DM between 2016 and 2024 who received at least one glucose-lowering medication were included. Patients with a recorded diagnosis of bipolar disorder within one year before T2DM onset formed the exposure group, while those without bipolar disorder served as controls. Individuals with pre-existing hyperglycemic crises were excluded. Propensity score matching (1:1) was applied to balance dem",
+        "journal": "Scientific reports",
+        "year": "2025",
+        "authors": [
+          "Liu Han-Jung",
+          "Lo Shih-Chang",
+          "Huang Chien-Ning",
+          "Yang Yi-Sun",
+          "Wang Yu-Hsun"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bipolar Disorder",
+          "Female",
+          "Male",
+          "Diabetic Ketoacidosis",
+          "Middle Aged",
+          "Diabetes Mellitus, Type 2",
+          "Retrospective Studies",
+          "Adult",
+          "Hyperglycemic Hyperosmolar Nonketotic Coma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40596274/"
+      },
+      {
+        "pmid": "40407548",
+        "title": "Research Priorities for Diabetic Ketoacidosis: An Evidence and Gap Mapping Review.",
+        "abstract": "Diabetic ketoacidosis (DKA) is a common acute complication of diabetes with treatment consisting of reversal of cause, insulin administration, fluid resuscitation and electrolyte repletion. Yet, many aspects of DKA management are currently based on low-quality evidence or physiological rationale. This evidence and gap map review presents an overview of the current body of literature and identifies evidence gaps in relation to therapeutic interventions for DKA.",
+        "journal": "Medical sciences (Basel, Switzerland)",
+        "year": "2025",
+        "authors": [
+          "Sieben Nicolas",
+          "Ramanan Mahesh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diabetic Ketoacidosis",
+          "Humans",
+          "Insulin",
+          "Fluid Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40407548/"
+      },
+      {
+        "pmid": "35856973",
+        "title": "Recurrent hypoglycemic coma and diabetic ketoacidosis caused by insulin antibody. A rare case of type 1 diabetes mellitus.",
+        "abstract": "Insulin antibodies (IAs) induced by exogenous insulin rarely cause hypoglycemia. However, insulin autoantibodies (IAAs) in insulin autoimmune syndrome (IAS) can cause hypoglycemia. The typical manifestations of IAS are fasting or postprandial hypoglycemia, elevated insulin level, decreased C-peptide levels, and positive IAA. We report a 45-year-old male with type 1 diabetes mellitus (T1DM) treated with insulin analogues suffering from recurrent hypoglycemic coma and diabetic ketoacidosis (DKA). His symptoms were caused by exogenous insulin and were similar to IAS. A possible reason was that exogenous insulin induced IA. IA titers were 61.95% (normal: < 5%), and the concentrations of insulin and C-peptide were > 300 mU/L and < 0.02 nmol/L when hypoglycemia occurred. Based on his clinical symptoms and other examinations, he was diagnosed with hyperinsulinemic hypoglycemia caused by IA. His symptoms improved after changing insulin regimens from insulin lispro plus insulin detemir to recom",
+        "journal": "Revista medica de Chile",
+        "year": "2022",
+        "authors": [
+          "Kong Yaping",
+          "Zhang Yao",
+          "Cheng Li",
+          "Ling Cong",
+          "Hu Xiling"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Autoimmune Diseases",
+          "C-Peptide",
+          "Coma",
+          "Diabetes Mellitus, Type 1",
+          "Diabetic Ketoacidosis",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin Antibodies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35856973/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:52:23.048041",
+  "success": true,
+  "error_message": null
+}

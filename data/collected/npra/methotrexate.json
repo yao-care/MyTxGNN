@@ -1,0 +1,90 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Methotrexate",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20014315ARZ",
+      "product": "Zexate Solution for Injection or Infusion 25 mg/ml",
+      "active_ingredient": "METHOTREXATE[25MG/ML                       ]",
+      "generic_name": "Methotrexate 50 mg Injection",
+      "holder": "FRESENIUS KABI MALAYSIA SDN. BHD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-10-28",
+      "date_end": "2026-10-28",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20014315ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL22046019AZ",
+      "product": "TREXOL - Methotrexate Solution for Injection 100 mg/ml",
+      "active_ingredient": "METHOTREXATE[100 mg/mL]",
+      "generic_name": NaN,
+      "holder": "UNIMED SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-04-07",
+      "date_end": "2027-04-07",
+      "url": "https://npra.gov.my/index.php/search/product/MAL22046019AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL22046018AZ",
+      "product": "TREXOL - Methotrexate Solution for Injection 25 mg/ml",
+      "active_ingredient": "METHOTREXATE[25 mg/mL]",
+      "generic_name": NaN,
+      "holder": "UNIMED SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-04-07",
+      "date_end": "2027-04-07",
+      "url": "https://npra.gov.my/index.php/search/product/MAL22046018AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL24016008AZ",
+      "product": "Trexan 2.5mg tablets",
+      "active_ingredient": "Methotrexate Disodium[2.742 mg]",
+      "generic_name": NaN,
+      "holder": "ORION PHARMA (MY) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-01-04",
+      "date_end": "2029-01-04",
+      "url": "https://npra.gov.my/index.php/search/product/MAL24016008AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19940257ARZ",
+      "product": "DBL&reg; Methotrexate Injection BP 1g/10ml",
+      "active_ingredient": "METHOTREXATE[1G/10ML                       ]",
+      "generic_name": "Methotrexate 1 g/10 ml Injection",
+      "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "CONDITIONAL REGISTRATION",
+      "date_reg": "2024-07-07",
+      "date_end": "2029-07-07",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19940257ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20000041ACZ",
+      "product": "PFZ Methotrexate Tablet 2.5mg",
+      "active_ingredient": "METHOTREXATE[2.5MG                         ]",
+      "generic_name": "Methotrexate 2.5 mg Tablet",
+      "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-02-01",
+      "date_end": "2030-02-01",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20000041ACZ"
+    }
+  ],
+  "timestamp": "2026-03-04T15:28:14.820154",
+  "success": true,
+  "error_message": null
+}

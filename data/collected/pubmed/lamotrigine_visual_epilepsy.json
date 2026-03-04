@@ -1,0 +1,598 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lamotrigine",
+    "disease": "visual epilepsy",
+    "query_string": "Lamotrigine AND visual epilepsy"
+  },
+  "data": {
+    "query": "Lamotrigine AND visual epilepsy",
+    "results": [
+      {
+        "pmid": "20200383",
+        "title": "Ethosuximide, valproic acid, and lamotrigine in childhood absence epilepsy.",
+        "abstract": "Childhood absence epilepsy, the most common pediatric epilepsy syndrome, is usually treated with ethosuximide, valproic acid, or lamotrigine. The most efficacious and tolerable initial empirical treatment has not been defined.",
+        "journal": "The New England journal of medicine",
+        "year": "2010",
+        "authors": [
+          "Glauser Tracy A",
+          "Cnaan Avital",
+          "Shinnar Shlomo",
+          "Hirtz Deborah G",
+          "Dlugos Dennis"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Analysis of Variance",
+          "Anticonvulsants",
+          "Attention Deficit and Disruptive Behavior Disorders",
+          "Child",
+          "Child, Preschool",
+          "Double-Blind Method",
+          "Epilepsy, Absence",
+          "Ethosuximide",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20200383/"
+      },
+      {
+        "pmid": "17382828",
+        "title": "The SANAD study of effectiveness of valproate, lamotrigine, or topiramate for generalised and unclassifiable epilepsy: an unblinded randomised controlled trial.",
+        "abstract": "Valproate is widely accepted as a drug of first choice for patients with generalised onset seizures, and its broad spectrum of efficacy means it is recommended for patients with seizures that are difficult to classify. Lamotrigine and topiramate are also thought to possess broad spectrum activity. The SANAD study aimed to compare the longer-term effects of these drugs in patients with generalised onset seizures or seizures that are difficult to classify.",
+        "journal": "Lancet (London, England)",
+        "year": "2007",
+        "authors": [
+          "Marson Anthony G",
+          "Al-Kharusi Asya M",
+          "Alwaidh Muna",
+          "Appleton Richard",
+          "Baker Gus A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anticonvulsants",
+          "Child",
+          "Child, Preschool",
+          "Cost-Benefit Analysis",
+          "Epilepsy, Generalized",
+          "Female",
+          "Follow-Up Studies",
+          "Fructose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17382828/"
+      },
+      {
+        "pmid": "28862044",
+        "title": "Acute lamotrigine overdose: a systematic review of published adult and pediatric cases.",
+        "abstract": "Lamotrigine is a broad-spectrum anticonvulsant commonly used to treat seizure and bipolar mood disorders. Evidence from case series and retrospective studies indicate that lamotrigine overdose is usually benign. However, there are reported cases of cardiac arrest and mortality following lamotrigine overdose. We undertook a systematic review of the literature on lamotrigine overdoses to better understand the clinical severity, the relevance of serum concentrations, and therapeutic interventions for overdose.",
+        "journal": "Clinical toxicology (Philadelphia, Pa.)",
+        "year": "2018",
+        "authors": [
+          "Alyahya Bader",
+          "Friesen Marjorie",
+          "Nauche Bénédicte",
+          "Laliberté Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Child",
+          "Drug Overdose",
+          "Humans",
+          "Lamotrigine",
+          "Renal Dialysis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28862044/"
+      },
+      {
+        "pmid": "30734897",
+        "title": "A Practical Guide to Treatment of Childhood Absence Epilepsy.",
+        "abstract": "Childhood absence epilepsy (CAE) is a common pediatric epilepsy syndrome with distinct seizure semiology, electroencephalography (EEG) features, and treatment. A diagnosis of CAE can be obtained during an office visit with a careful history, physical exam including prolonged hyperventilation, and a routine EEG. The treatment of choice for CAE with absence seizures only is ethosuximide. Valproic acid and lamotrigine are also effective treatments for many patients, but when compared to ethosuximide, valproic acid has more adverse effects and lamotrigine is less effective. Attention to predictors of response to treatment, including clinical, electrographic, and genetic factors, is increasing. Refractory CAE occurs in fewer than half of patients, and treatment strategies are available, though efficacy data are lacking. Careful assessment and treatment of psychosocial comorbidities is essential in caring for patients with CAE.",
+        "journal": "Paediatric drugs",
+        "year": "2019",
+        "authors": [
+          "Kessler Sudha Kilaru",
+          "McGinnis Emily"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Child",
+          "Child, Preschool",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Electroencephalography",
+          "Epilepsy, Absence",
+          "Ethosuximide",
+          "Female",
+          "Humans",
+          "Lamotrigine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30734897/"
+      },
+      {
+        "pmid": "34260837",
+        "title": "Initial Management of Seizure in Adults.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2021",
+        "authors": [
+          "Smith Phil E M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anticonvulsants",
+          "Diagnosis, Differential",
+          "Electroencephalography",
+          "Epilepsy",
+          "Ethanol",
+          "Female",
+          "Humans",
+          "Lamotrigine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34260837/"
+      },
+      {
+        "pmid": "18420429",
+        "title": "Lamotrigine and catamenial epilepsy.",
+        "abstract": "Catamenial epilepsy (CE) is characterized by epileptic seizures in the female occurring rhythmatically with the menstrual cycle. Hormonal mechanisms have been proposed as a cause of this epileptic form. Few reports about the efficacy of anti-epileptic drugs (AEDs) have been published. We studied prospectively women with CE who were treated with lamotrigine (LTG) for a period of 3 months in order to evaluate its efficacy, measuring the progesterone levels before and after LTG at the same time. LTG seemed to be efficacious in 66% of women, meaning the disappearance of seizures or reduction of 50% or more of the number of seizures. The reported side effects were few and mild, and the drug was well tolerated. Serum progesterone levels were found to rise during LTG treatment.",
+        "journal": "Seizure",
+        "year": "2008",
+        "authors": [
+          "Gilad Ronit",
+          "Sadeh Menachem",
+          "Rapoport Abraham",
+          "Dabby Ron",
+          "Lampl Yair"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Electroencephalography",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Menstruation",
+          "Middle Aged",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18420429/"
+      },
+      {
+        "pmid": "12562315",
+        "title": "Review of lamotrigine and its clinical applications in epilepsy.",
+        "abstract": "Lamotrigine is an anti-epileptic agent with broad efficacy. Lamotrigine works at voltage-sensitive sodium channels, thereby stabilising the neuronal membrane and inhibiting the release of excitatory neurotransmitters such as glutamate and aspartate. Early preclinical animal studies indicate its broad-spectrum efficacy, which was later confirmed in clinical trials. Multiple randomised, placebo-controlled and comparative trials demonstrate its efficacy against partial and secondarily generalised seizures. Open-label trials show its efficacy against generalised seizures, especially absence seizures of childhood absence epilepsy and generalised seizures of juvenile myoclonic epilepsy. Lamotrigine has a wide clinical dose range and possesses favourable pharmacokinetic properties. It has a good tolerability and safety profile, which enhance compliance. Its small risk of serious skin rash should be weighed against its potential benefits when choosing lamotrigine on an individual basis. Lamotr",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2003",
+        "authors": [
+          "Choi Hyunmi",
+          "Morrell Martha J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abnormalities, Drug-Induced",
+          "Animals",
+          "Anticonvulsants",
+          "Child",
+          "Dose-Response Relationship, Drug",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12562315/"
+      },
+      {
+        "pmid": "17144777",
+        "title": "Lamotrigine and its applications in the treatment of epilepsy and other neurological and psychiatric disorders.",
+        "abstract": "Lamotrigine is a broad-spectrum antiepileptic drug, initially approved in 1994 for the adjunctive treatment of partial seizures in adults and for the generalized seizures of Lennox-Gastaut syndrome in pediatric (>2 years old) and adult populations. Its role in the treatment of bipolar disorder type I has also been well established. In addition, lamotrigine has been successfully used for the management of other neurological conditions such as migraines and neuropathic pain, and preliminary data show promising results. It has favorable pharmacokinetic properties and is generally well tolerated. The small risk of serious skin rash can be minimized with slow titration of the drug and dose adjustment with concomitant medications. Lamotrigine has demonstrated particular benefit in the treatment of women and elderly patients with epilepsy.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2006",
+        "authors": [
+          "Malik Sheetal",
+          "Arif Hiba",
+          "Hirsch Lawrence J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antimanic Agents",
+          "Dose-Response Relationship, Drug",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Mental Disorders",
+          "Nervous System Diseases",
+          "Neuroprotective Agents",
+          "Practice Guidelines as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17144777/"
+      },
+      {
+        "pmid": "41306944",
+        "title": "Dosing Optimization of Lamotrigine in Peripregnancy Epilepsy Through PopPK Modelling and Simulation.",
+        "abstract": "Lamotrigine demonstrates substantial interindividual pharmacokinetic variability during pregnancy, though the underlying mechanisms remain incompletely understood. The study aimed to develop a population pharmacokinetic model of lamotrigine in Chinese epileptic patients during the peripregnancy period, in order to identify the key influencing factors and thereby assist in providing a solution for the individualized administration of lamotrigine.",
+        "journal": "Drug design, development and therapy",
+        "year": "2025",
+        "authors": [
+          "Huo Jiping",
+          "Liu Yilin",
+          "Yang Jiayu",
+          "Chen Meng",
+          "Yang Li"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lamotrigine",
+          "Female",
+          "Anticonvulsants",
+          "Epilepsy",
+          "Adult",
+          "Pregnancy",
+          "Dose-Response Relationship, Drug",
+          "Young Adult",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41306944/"
+      },
+      {
+        "pmid": "8536554",
+        "title": "Lamotrigine. An update of its pharmacology and therapeutic use in epilepsy.",
+        "abstract": "Lamotrigine is an antiepileptic agent which blocks voltage-dependent sodium channels, thereby preventing excitatory neurotransmitter release. Clinical evidence indicates that lamotrigine is effective against partial and secondarily generalised tonic-clonic seizures, as well as idiopathic (primary) generalised epilepsy. As monotherapy, lamotrigine 100 to 300 mg/day has similar medium term (30 to 48 weeks) efficacy to carbamazepine 300 to 1400 mg/day and phenytoin 300 mg/day against partial onset seizures and idiopathic generalised tonic-clonic seizures in adults with newly diagnosed epilepsy, and appears to be better tolerated than the older agents. As adjunctive therapy, lamotrigine (50 to 500 mg/day) has shown efficacy in short term ( < or = 6-months) placebo-controlled studies in adults with refractory partial epilepsy, reducing total seizure frequency (by < or = 60%) and producing improvement ( > or = 50% reduction in seizure frequency) in < or = 67% of patients. Both simple and com",
+        "journal": "Drugs",
+        "year": "1995",
+        "authors": [
+          "Fitton A",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Child",
+          "Child, Preschool",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8536554/"
+      },
+      {
+        "pmid": "38666475",
+        "title": "Population Pharmacokinetics of Lamotrigine and Its N2-Glucuronide Metabolite in Chinese Patients With Epilepsy.",
+        "abstract": "Lamotrigine is a new antiepileptic drug with substantial interindividual variability in its pharmacokinetics and therapeutic responses. This study aimed to develop population pharmacokinetic (PPK) models of lamotrigine and its N2-glucuronide metabolites for model-informed individualized therapy.",
+        "journal": "Therapeutic drug monitoring",
+        "year": "2024",
+        "authors": [
+          "Yang Hua",
+          "Zhang Dongjie",
+          "Wei Shifeng",
+          "Zhao Zhigang",
+          "Mei Shenghui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Anticonvulsants",
+          "China"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38666475/"
+      },
+      {
+        "pmid": "26844734",
+        "title": "Antiepileptic Drugs.",
+        "abstract": "Treatment of epilepsy starts with antiepileptic drug (AED) monotherapy. Knowledge of the spectrum of efficacy, clinical pharmacology, and modes of use for individual AEDs is essential for optimal treatment for epilepsy. This article addresses AEDs individually, focusing on key pharmacokinetic characteristics, indications, and modes of use.",
+        "journal": "Continuum (Minneapolis, Minn.)",
+        "year": "2016",
+        "authors": [
+          "Abou-Khalil Bassel W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anticonvulsants",
+          "Carbamazepine",
+          "Epilepsy",
+          "Female",
+          "Humans",
+          "Lamotrigine",
+          "Levetiracetam",
+          "Oxcarbazepine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26844734/"
+      },
+      {
+        "pmid": "9429127",
+        "title": "Use of lamotrigine in Lennox-Gastaut and related epilepsy syndromes.",
+        "abstract": "Lennox-Gastaut syndrome a combination of various generalized seizures including atypical absences and tonic seizures with generalized slow spike waves and mental deterioration, is often difficult to distinguish from a subgroup of myoclonic-astatic epilepsy, other generalized epilepsy syndromes, and various symptomatic generalized epilepsies. Conventional antiepileptic medication is poorly effective in this condition, particularly because various types of seizures respond differently to each given drug. Lamotrigine is effective in the various types of generalized seizures and efficacy has been demonstrated in Lennox-Gastaut syndrome. Given the potential of major mental deterioration within a matter of months in this condition, and the need of slow dose escalation in order to prevent skin rash, lamotrigine should be administered as soon as the diagnosis of Lennox-Gastaut syndrome is suspected. In addition, there is growing evidence that lamotrigine is also most useful in the subgroup of ",
+        "journal": "Journal of child neurology",
+        "year": "1997",
+        "authors": [
+          "Dulac O",
+          "Kaminska A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Child",
+          "Diagnosis, Differential",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Lamotrigine",
+          "Seizures",
+          "Syndrome",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9429127/"
+      },
+      {
+        "pmid": "7691504",
+        "title": "Lamotrigine. A review of its pharmacological properties and clinical efficacy in epilepsy.",
+        "abstract": "Lamotrigine is an antiepileptic drug which is believed to suppress seizures by inhibiting the release of excitatory neurotransmitters. Efficacy has been demonstrated for lamotrigine as add-on therapy to existing regimens in patients with resistant partial seizures. Total seizure frequency was reduced by 17 to 59% compared with placebo, and 13 to 67% of patients experienced reductions of > or = 50% in seizure frequency. Secondarily generalised tonic-clonic seizures respond well to lamotrigine, and there is preliminary evidence of improvement in patients with primary generalised seizures, Lennox-Gastaut syndrome and in children with multiple seizure types. Seizure control has been maintained in patients who have continued to receive lamotrigine as monotherapy after discontinuation of other medications. Results of one trial suggest similar efficacy for lamotrigine monotherapy as for carbamazepine, but confirmation of its use in this setting awaits more extensive controlled comparisons wit",
+        "journal": "Drugs",
+        "year": "1993",
+        "authors": [
+          "Goa K L",
+          "Ross S R",
+          "Chrisp P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Dosage Forms",
+          "Drug Evaluation",
+          "Drug Interactions",
+          "Drug Tolerance",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7691504/"
+      },
+      {
+        "pmid": "7624259",
+        "title": "Lamotrigine.",
+        "abstract": "Lamotrigine is a novel antiepileptic that, although its mechanism is not completely understood, appears to affect voltage-activated sodium channels, resulting in inhibition of the presynaptic release of the excitatory neurotransmitter glutamate. It is well absorbed after oral administration. Its route of elimination is hepatic glucuronidation, which is susceptible to both hepatic microsomal enzyme-inducing and -inhibiting agents. In clinical trials lamotrigine was effective as add-on therapy for refractory partial seizures in adults. Small trials suggest the feasibility of monotherapy, but further controlled trials are warranted to support this practice. Additional data indicate the utility of lamotrigine for generalized seizures. Reported side effects are rash, nausea, vomiting, blurred vision, diplopia, and vision abnormalities. Lamotrigine appears to be an attractive alternative to currently available antiepileptics.",
+        "journal": "Pharmacotherapy",
+        "year": "1995",
+        "authors": [
+          "Burstein A H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Clinical Trials as Topic",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7624259/"
+      },
+      {
+        "pmid": "40499085",
+        "title": "Lamotrigine and Cardiac Arrhythmias: A Target Trial Approach.",
+        "abstract": "While lamotrigine is an effective, well-tolerated antiseizure medication (ASM), a recent warning raised the possibility of ventricular arrhythmias. We compared arrhythmia incidence between patients newly treated for seizures with lamotrigine and those with levetiracetam (presumed cardiac-inert control).",
+        "journal": "Neurology",
+        "year": "2025",
+        "authors": [
+          "Terman Samuel W",
+          "Josephson Colin Bruce",
+          "Goyal Parag",
+          "Gonzalez-Izquierdo Arturo",
+          "Morrison Jean"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lamotrigine",
+          "Female",
+          "Male",
+          "Aged",
+          "Anticonvulsants",
+          "Levetiracetam",
+          "Retrospective Studies",
+          "Middle Aged",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40499085/"
+      },
+      {
+        "pmid": "24642265",
+        "title": "Cardiac phenomena during kainic-acid induced epilepsy and lamotrigine antiepileptic therapy.",
+        "abstract": "Pathologic ECG events are known to accompany seizures and to persist in several chronic epilepsy syndromes. The contribution of antiepileptic drugs (AEDs) to these events and the implications in the etiology of sudden-unexpected death in epilepsy (SUDEP) continue to be a matter of debate. We therefore investigated cardiac parameters during kainic-acid (KA) induced experimental epilepsy and antiepileptic treatment with lamotrigine (LTG).",
+        "journal": "Epilepsy research",
+        "year": "2014",
+        "authors": [
+          "Dibué Maxine",
+          "Kamp Marcel A",
+          "Neumaier Felix",
+          "Steiger Hans-Jakob",
+          "Hänggi Daniel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Death, Sudden",
+          "Electrocardiography",
+          "Epilepsy",
+          "Kainic Acid",
+          "Lamotrigine",
+          "Mice",
+          "Risk Factors",
+          "Tachycardia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24642265/"
+      },
+      {
+        "pmid": "10367180",
+        "title": "Neurophysiologic and neuropsychologic profiles of lamotrigine in epilepsy.",
+        "abstract": "The anticonvulsant potential of lamotrigine (LTG) has been extensively assessed in open and double-blind clinical trials including patients with different types of epilepsy. In this review, the neurophysiologic and neuropsychologic profile of LTG is discussed. The electroencephalographic (EEG) findings reveal that the drug induces a decrease both in frequency and in probability of propagation of the EEG epileptiform abnormalities (interictal and ictal), whereas the background activity appears unmodified. In contrast with the traditional antiepileptic drugs (AEDs), LTG does not affect evoked responses (brainstem auditory evoked potentials and somatosensory and visual evoked potentials), indicating only a minor toxic effect on the nervous system. The neuropsychologic assessment shows that LTG does not alter the cognitive functions. In conclusion, the neurophysiologic and neuropsychologic data confirm the efficacy and safety of LTG and support its clinical use as monotherapy in epilepsy.",
+        "journal": "Clinical neuropharmacology",
+        "year": "1999",
+        "authors": [
+          "Marciani M G",
+          "Spanedda F",
+          "Mattia D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Electroencephalography",
+          "Epilepsy",
+          "Humans",
+          "Lamotrigine",
+          "Psychomotor Performance",
+          "Triazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10367180/"
+      },
+      {
+        "pmid": "37895080",
+        "title": "Antiepileptogenic Effects of Anakinra, Lamotrigine and Their Combination in a Lithium-Pilocarpine Model of Temporal Lobe Epilepsy in Rats.",
+        "abstract": "Temporal lobe epilepsy is a common, chronic disorder with spontaneous seizures that is often refractory to drug therapy. A potential cause of temporal lobe epilepsy is primary brain injury, making prevention of epileptogenesis after the initial event an optimal method of treatment. Despite this, no preventive therapy for epilepsy is currently available. The purpose of this study was to evaluate the effects of anakinra, lamotrigine, and their combination on epileptogenesis using the rat lithium-pilocarpine model of temporal lobe epilepsy. The study showed that there was no significant difference in the number and duration of seizures between treated and untreated animals. However, the severity of seizures was significantly reduced after treatment. Anakinra and lamotrigine, alone or in combination, significantly reduced neuronal loss in the CA1 hippocampus compared to the control group. However, the drugs administered alone were found to be more effective in preventing neuron loss in the",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Zubareva Olga E",
+          "Sinyak Denis S",
+          "Kalita Alisa D",
+          "Griflyuk Alexandra V",
+          "Diespirov Georgy P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Rats",
+          "Animals",
+          "Epilepsy, Temporal Lobe",
+          "Pilocarpine",
+          "Lamotrigine",
+          "Lithium",
+          "Interleukin 1 Receptor Antagonist Protein",
+          "Anticonvulsants",
+          "Seizures",
+          "Hippocampus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37895080/"
+      },
+      {
+        "pmid": "7975572",
+        "title": "Guidelines for treating epilepsy in the age of felbamate, vigabatrin, lamotrigine, and gabapentin.",
+        "abstract": "For the first time in 15 years, new antiepileptic medications are available for the treatment of patients with seizure disorders. These drugs have demonstrated efficacy in animal models of epilepsy and in controlled clinical trials. Felbamate was licensed in 1993 for use as adjunctive therapy or monotherapy in adults with partial or tonic-clonic seizures and as adjunctive therapy for children with the Lennox-Gastaut syndrome. Gabapentin was approved January 1994 as adjunctive therapy in patients 12 years or older with partial seizures, with or without secondary generalization. Lamotrigine is expected to be approved this year for the treatment of partial and tonic-clonic seizures in adults. Last, a new drug application has been filed for vigabatrin this year, with possible licensing next year. These four anticonvulsants present new options in the treatment of patients with refractory epilepsy and are not merely congeners of previously available treatments. They have unique clinical spec",
+        "journal": "The Western journal of medicine",
+        "year": "1994",
+        "authors": [
+          "Laxer K D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Adult",
+          "Amines",
+          "Animals",
+          "Anticonvulsants",
+          "Child",
+          "Clinical Protocols",
+          "Controlled Clinical Trials as Topic",
+          "Cyclohexanecarboxylic Acids",
+          "Epilepsy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7975572/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:04:28.489842",
+  "success": true,
+  "error_message": null
+}

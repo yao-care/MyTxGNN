@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Decitabine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB01262",
+    "name": "Decitabine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:13:33.745669",
+  "success": true,
+  "error_message": null
+}

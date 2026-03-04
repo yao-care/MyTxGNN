@@ -1,0 +1,249 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Iron",
+    "disease": "microcytic anemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06252103",
+      "title": "Lactoferrin With Ferrous Gluconate Versus Ferrous Gluconate in Treatment of Iron Deficiency Anemia During Pregnancy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-05-30",
+      "completion_date": "2023-12-30",
+      "country": "Egypt",
+      "enrollment": 40,
+      "brief_summary": "Study Procedures:\n\nAll patients will undergo the following:\n\nInformed consent will be obtained from all the participants in this study before enrolling in this study and all participants will be subjected to a detailed clinical assessment including: a detailed history, general, abdominal examinations, Investigations.\n\n1. History taking:\n\n   * Personal history: name, age, occupation and address.\n   * Menstrual and obstetric history: Date of LMP, expected date of delivery which will be calculated ",
+      "eligibility_criteria": "* The study will include women with the following inclusion and exclusion criteria:\n\nInclusion criteria:\n\n1. Pregnant women with single fetus\n2. Microcytic hypochromic anemia, mild anemia Hb 10 to 10.5 g/dl) and moderate anemia (Hb 7 to 9.9 g/dl)\n3. Gestational age (14 - 35 weeks)\n4. Serum ferritin ",
+      "endpoints": [
+        "• Hemoglobin (Hb) level",
+        "serum ferritin"
+      ],
+      "sponsor": "Ain Shams University",
+      "url": "https://clinicaltrials.gov/study/NCT06252103"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04713943",
+      "title": "Efficacy of >Your< Iron Syrup Supplementation in Children With Iron Deficiency With or Without Mild Microcytic Anemia - a Double-Blind, Placebo-Controlled Multicentric Clinical Study",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2017-12-22",
+      "completion_date": "2020-06-22",
+      "country": "Slovenia",
+      "enrollment": 94,
+      "brief_summary": "The study evaluates the efficacy and safety of \\>Your\\< Iron Syrup, a novel iron-containing dietary supplement, in the management of dietary iron deficiency in children. The study is a randomized, double-blind, placebo-controlled intervention conducted in 16 research centers in Slovenia, collectively enrolling 92 eligible children. Eligibility of children for participation in the study will be determined by screening for hemoglobin and ferritin (combined with C-reactive protein) levels in a samp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 9 months to 6 years (inclusive).\n* Signed informed consent for screening and for enrollment (parent or legal guardian).\n* Iron deficiency with or without mild microcytic anemia not requiring treatment (ferritin ≤20 µg/l and Hb ≥ 100 g/l in a capillary blood sample).\n\nExclu",
+      "endpoints": [
+        "The proportion of children having ferritin >20 µg/l"
+      ],
+      "sponsor": "PharmaLinea Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04713943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03868306",
+      "title": "Red Cell Distribution Width Index Versus Red Cell Distribution Width as Discriminating Guide for Iron Deficiency Anaemia and Beta Thalassemia Trait .",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-06-01",
+      "completion_date": "2022-06-01",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Red Cell Distribution Width Index versus Red Cell Distribution Width as Discriminating Guide for Iron Deficiency Anaemia and Beta Thalassemia Trait .",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with microcytic hypochromic anemia ( according to WHO , MCV less than 80 fl and HB level below the lower limit of normal value specified by age and gender .\n\nExclusion Criteria:\n\n* Beta thalassemia major patients .\n* Chronic diseases or infections .\n* Lead poisoni",
+      "endpoints": [
+        "Diagnostic comparison of both the RDWI and RDW in the differentiation of Iron deficiency anemia and Beta thalassemia trait"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03868306"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06951633",
+      "title": "Functional Efficiency, Respiratory Parameters and Blood Rheological Tests in Elderly People With Respiratory Diseases Participating in Pulmonary Rehabilitation in Underground Salt Chambers - a Prospective Experimental Study, Controlled in a Crossover Design",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-04-04",
+      "completion_date": "2026-02-28",
+      "country": "Poland",
+      "enrollment": 33,
+      "brief_summary": "The aim of the study is to assess the impact of the rehabilitation and treatment stay at the underground Health Resort of the 'Wieliczka' Salt Mine in Wieliczka on the functional capacity, respiratory parameters, and rheological properties of blood in elderly individuals with respiratory diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* people aged 65 and older with chronic respiratory diseases in a stable period of the disease (without exacerbations), qualified to participate in a rehabilitation and treatment stay in the underground Health Resort 'Wieliczka' Salt Mine in Wieliczka,\n* patients who gave inform",
+      "endpoints": [
+        "Respiratory muscle force: Maximal inspiratory pressure - MIP",
+        "Respiratory muscle force: Maximal expiratory pressure - MEP",
+        "Respiratory muscle force: Sniff Nasal Inspiratory Pressure - SNIP"
+      ],
+      "sponsor": "University School of Physical Education, Krakow, Poland",
+      "url": "https://clinicaltrials.gov/study/NCT06951633"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06875947",
+      "title": "EFFECTS of MORINGA OLEIFERA LEAF MICRONIZED POWDERS on HEMATOLOGICAL PROFILES, PERIPHERAL BLOOD SMEAR, HEPCIDIN, AND CYTOKINES (IL-1 DAN IL-6) OF PREGNANT WOMEN WITH IRON DEFICIENCY ANAEMIA",
+      "phase": "NA",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2025-05-23",
+      "completion_date": "2026-05-31",
+      "country": "Indonesia",
+      "enrollment": 59,
+      "brief_summary": "Title: The Effect of Moringa Oleifera Leaf Micronized Powders on Hematological Profile, Hepcidin, and Cytokines (IL-1 and IL-6) in Pregnant Women with Iron Deficiency Anemia\n\nStudy Description:\n\nIron deficiency anemia is one of the most common health problems affecting pregnant women worldwide, especially in developing countries like Indonesia. This condition can cause serious complications for both mothers and babies, such as premature birth, low birth weight, and increased risk of maternal mor",
+      "eligibility_criteria": "Inclusion Criteria\n\n1. Demographic Characteristics:\n\n   * Women aged 18-44 years\n   * Married, have a husband and/or family\n   * Have an ID card\n2. Clinical Characteristics:\n\n   * Pregnant with a gestational age of 28 to \\<32 weeks\n   * Live single fetus\n   * Hemoglobin (Hb) 7 - \\< 11 g/dl\n   * No c",
+      "endpoints": [
+        "Hemoglobin Levels"
+      ],
+      "sponsor": "Fakultas Kedokteran Universitas Padjadjaran",
+      "url": "https://clinicaltrials.gov/study/NCT06875947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06670963",
+      "title": "The Use of Epoetin Alfa and Iron Derisomaltose in the Treatment of Anemia in Patients With Sepsis or Septic Shock Hospitalized in the Intensive Care Unit: a Randomized Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2024-11-10",
+      "completion_date": "2027-04-01",
+      "country": "Poland",
+      "enrollment": 200,
+      "brief_summary": "Background Up to 66% of have anemia at the admission to the intensive care unit. This number increases to 95% after 72 hours of hospitalization in the intensive care unit due to illness and iatrogenic blood loss. Anemia worsens tissue oxygenation, especially in patietns with sepsis or septic shock, who already have blood flow issues. Instead of giving blood transfusions, which can have side effects, we aim to address the root causes of anemia in these patients. Sepsis can cause \"inflammatory ane",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. age ≥18,\n2. diagnosed sepsis (Sepsis-3) or septic shock (Septic Shock-3),\n3. hemoglobin \\<120 g/L in both sexes.\n\nExclusion criteria:\n\n1. bleeding,\n2. decompensated liver disease,\n3. inherited microcytic disorders,\n4. macrocytosis,\n5. contraindications to pharmacological prop",
+      "endpoints": [
+        "Hemoglobin concentration difference at exit from the study"
+      ],
+      "sponsor": "Medical University of Silesia",
+      "url": "https://clinicaltrials.gov/study/NCT06670963"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03822585",
+      "title": "Detection of β-thalassemia Carriers Among Close Relatives of β-thalassemia Children Attending Assiut University Children Hospital",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-03",
+      "completion_date": "2021-06",
+      "country": "N/A",
+      "enrollment": 100,
+      "brief_summary": "Thalassemia is different in kids with microcytic hypochromic anemia than general population because there is a confusion between symptoms of thalassemia and iron deficiency anemia in kids and both of them differ in management and prognosis. otherwise the most commonest causes of microcytic hypochromic anemia in kids are iron deficiency anemia and thalassemia and both of them are more common in kids than in general population.\n\nThalassemia is different in Egypt than anywhere in the world because ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Close Relatives Of B-Thalassemia Carriers With Microcytic Hypochromic Anemia\n\nExclusion Criteria:\n\n* Normocytic Normochromic Anemia\n* Iron Deficiency Anemia",
+      "endpoints": [
+        "detection of thalassemia carriers in children with microcytic hypochromic anemia"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03822585"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05022979",
+      "title": "Prevalence of Micro-nutritional Deficiencies in Pregnant Women Presenting to the Emergency Department for Threatened Delivery",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-28",
+      "completion_date": "2019-03-31",
+      "country": "French Guiana",
+      "enrollment": 341,
+      "brief_summary": "Micronutrient deficiencies are frequent in pregnant women in French Guiana, a French territory in South America. Micronutrient deficiencies are more frequent in precarious women. Obesity is a frequent problem but it is also associated with micronutrient deficiency. Micronutrient deficiencies have largely been overlooked in this outermost European region and should be corrected.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant at least 22 weeks of amenorrhea (WHO threshold for fetal viability)\n* Patient hospitalized for delivery in the Gynecological and Obstetrical Emergency Unit at Cayenne hospital\n* Patient's consent\n* Consent of the legal representative if the patient is a minor\n\nExclusi",
+      "endpoints": [
+        "Identification of a micronutrient deficiency defined as at least one micronutrient below the lower limit."
+      ],
+      "sponsor": "Centre Hospitalier de Cayenne",
+      "url": "https://clinicaltrials.gov/study/NCT05022979"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05185024",
+      "title": "A Study of Efficacy and Safety of Three Different Oral Iron-Containing Dietary Supplements in Correction of Hematological Indices and Replenishment of Depleted Iron Stores in Iron Deficient Adults With or Without Mild Microcytic Anemia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-19",
+      "completion_date": "2024-01-15",
+      "country": "Slovenia",
+      "enrollment": 152,
+      "brief_summary": "The study is designed as a parallel, randomized, double blind, three-arm single-center study exploring the efficacy and safety of 12-week once daily oral dosing of iron for correction of overall iron status in 150 otherwise healthy iron-deficient adults presenting with or without mild microcytic anemia. Three iron-containing preparations in the form of either Ferrous Sulfate Capsules, \\>Your\\< Iron Forte Capsules, or \\>Your\\< Iron Forte Liquid will be tested. Potential study participants will be",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Personally signed and dated Informed Consent Form.\n* Male or female, aged 18-50 years (inclusive) at the time of signing the Informed Consent Form.\n* Iron deficiency as defined by a hemoglobin value 100-130 g/L (females) and 110-140 g/L (males) and a serum ferritin level \\<30 ",
+      "endpoints": [
+        "Change in hemoglobin level from baseline to week 12."
+      ],
+      "sponsor": "PharmaLinea Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT05185024"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00481221",
+      "title": "Detection of β Thalassemia Carriers by Red Cell Parameters Obtained From the H2 Automatic Counter. A Clinical Retrospective Study.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2007-03",
+      "completion_date": "2020-12-31",
+      "country": "Israel",
+      "enrollment": 30000,
+      "brief_summary": "β thalassemia is an autosomal recessive hemoglobinopathy and considered as the most widespread genetic mutation. According to the World Health Organization (WHO) between 1.5-7% of the world population are carriers for this disease, and every year 60,000-400,000 birth of new patients are reported. In Israel, the incidence of carriers for β thalassemia is around 20% among the Jewish from Kurdish origin and around 5-10% among the Arab population.\n\nβ thalassemia is a severe disease which requires ma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Blood count and Hgb electrophoresis analysis received from pregnant women send for screening for thalassemia.\n\nExclusion Criteria:\n\n* Age below 17 yrs and older than 50 yrs.\n* Sever anemia with hgb level below 8 gr/dl.",
+      "endpoints": [
+        "Detection of β Thalassemia Carriers by Red Cell Parameters"
+      ],
+      "sponsor": "HaEmek Medical Center, Israel",
+      "url": "https://clinicaltrials.gov/study/NCT00481221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03771092",
+      "title": "CONTROLLED RANDOMIZED PILOT STUDY TO COMPARE THE EFFICACY OF DIFFERENT IRON FORMULATIONS: SUCROSOMAL FERRIC PYROPHOSPHATE, SUNACTIVE Fe AND INTRAVENOUS FERRIC GLUCONATE",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-11-02",
+      "completion_date": "2018-10-30",
+      "country": "N/A",
+      "enrollment": 148,
+      "brief_summary": "The purpose of the study is to evaluate the effects of martial therapy, comparing different formulations, sucrosomal ferric pyrophosphate, SunActive®Fe micronized and ferric gluconate and different ways of administration, orally and intravenous, in subjects affected by sideropenic microcytic hypochromic anemia identified by the simultaneous presence of anemia, microcytosis and hypoferremia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of iron deficiency anemia, microcytic and hypochromic\n* Age \\>18\n\nExclusion Criteria:\n\n* Diagnosis of Celiac Disease\n* Patients who refuse to sign the informed consent\n* Clinically relevant cognitive Turbe\n* Hemodynamic instability defined by the presence of low bloo",
+      "endpoints": [
+        "HB"
+      ],
+      "sponsor": "University of Palermo",
+      "url": "https://clinicaltrials.gov/study/NCT03771092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03202615",
+      "title": "Bovine Lactoferrin Versus Ferrous Sulphate In The Treatment Of Iron Deficiency Anemia During Pregnancy: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-09",
+      "completion_date": "2018-10",
+      "country": "Egypt",
+      "enrollment": 130,
+      "brief_summary": "130 pregnant women with Iron deficiency anemia, in the 2nd trimester (microcytic hypochromic anemia, hemoglobin range from 9-10.5g/dl, serum ferritin less than 12 ng/ml), from the outpatient clinics in the Obstetrics and Gynecology Department, in Ain Shams University Hospital, Cairo, Egypt, will be enrolled and distributed into one of 2 groups by a computer generated random number table. Each of the 2 groups will receive 2 medication for 2 months with specific instruction to increase iron absorp",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant with singleton intrauterine pregnancy\n* 14- 20 weeks of gestation\n* Have iron deficiency anemia (IDA) with hemoglobin 9 to less than 10.5 g/dl.\n\nExclusion Criteria:\n\n* Patients with a history of anemia due to any other causes such as chronic blood loss, hemolytic anem",
+      "endpoints": [
+        "change in Hemoglobin concentration"
+      ],
+      "sponsor": "Abdelwahed, Mai Mahmoud Mohamed, M.D.",
+      "url": "https://clinicaltrials.gov/study/NCT03202615"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03212781",
+      "title": "Total Dose Infusion of Iron Dextran Versus Oral Iron for Treating Iron Deficiency Anemia in Pregnant Women: a Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-06",
+      "completion_date": "2016-10",
+      "country": "Egypt",
+      "enrollment": 66,
+      "brief_summary": "Iron deficiency is the most prevalent nutritional deficiency and the most common cause of anemia .It is characterized by a defect in hemoglobin synthesis, resulting in red blood cells that are abnormally small (microcytic) and contain a decreased amount of hemoglobin (hypochromic).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hemoglobin \\< 10 g/dL\n* Gestational age between 14-28 weeks.\n* Willingness to participate and signing the informed consent form.\n\nExclusion Criteria:\n\n* Iron overload or disturbances in utilization of iron\n* Decompensated liver cirrhosis and active hepatitis\n* Active acute or ",
+      "endpoints": [
+        "The change in Hemoglobin concentration from baseline to 8 weeks therapy"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT03212781"
+    }
+  ],
+  "timestamp": "2026-03-04T16:19:27.670588",
+  "success": true,
+  "error_message": null
+}

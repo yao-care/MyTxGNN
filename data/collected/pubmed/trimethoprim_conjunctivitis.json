@@ -1,0 +1,586 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Trimethoprim",
+    "disease": "conjunctivitis",
+    "query_string": "Trimethoprim AND conjunctivitis"
+  },
+  "data": {
+    "query": "Trimethoprim AND conjunctivitis",
+    "results": [
+      {
+        "pmid": "36350597",
+        "title": "Sudden Conjunctivitis, Lymphopenia, and Rash Combined With Hemodynamic Changes (SCoRCH) After Trimethoprim-Sulfamethoxazole Use: A Case Series Study of a Hypersensitivity Reaction.",
+        "abstract": "Trimethoprim-sulfamethoxazole (TMP-SMX) hypersensitivity reaction, ranging from circulatory shock to aseptic meningitis and respiratory failure, is a potentially life-threatening condition with dermatologic relevance.",
+        "journal": "JAMA dermatology",
+        "year": "2023",
+        "authors": [
+          "O'Brian Madeleine",
+          "Rose Elysha K",
+          "Mauskar Melissa M",
+          "Dominguez Arturo R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Young Adult",
+          "Adult",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Retrospective Studies",
+          "Sunburn",
+          "Multiple Organ Failure",
+          "Hypersensitivity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36350597/"
+      },
+      {
+        "pmid": "30007329",
+        "title": "Treatment of Neonatal Chlamydial Conjunctivitis: A Systematic Review and Meta-analysis.",
+        "abstract": "With the continued high prevalence of chlamydia worldwide and high risk of transfer from mothers to their infant during delivery, a need for safe and effective therapies for infants who acquire a chlamydial infection remains. We conducted a systematic review and meta-analysis of antibiotic treatments, including oral erythromycin, azithromycin, and trimethoprim, for neonatal chlamydial conjunctivitis.",
+        "journal": "Journal of the Pediatric Infectious Diseases Society",
+        "year": "2018",
+        "authors": [
+          "Zikic Andrew",
+          "Schünemann Holger",
+          "Wi Teodora",
+          "Lincetto Ornella",
+          "Broutet Nathalie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bias",
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Conjunctivitis, Bacterial",
+          "Drug Administration Schedule",
+          "Erythromycin",
+          "Female",
+          "Gastrointestinal Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30007329/"
+      },
+      {
+        "pmid": "23092529",
+        "title": "A single-blinded randomized clinical trial comparing polymyxin B-trimethoprim and moxifloxacin for treatment of acute conjunctivitis in children.",
+        "abstract": "To perform a randomized controlled trial comparing moxifloxacin hydrochloride with polymyxin B-trimethoprim for the treatment of acute conjunctivitis.",
+        "journal": "The Journal of pediatrics",
+        "year": "2013",
+        "authors": [
+          "Williams Lee",
+          "Malhotra Yogangi",
+          "Murante Barbra",
+          "Laverty Susan",
+          "Cook Steve"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Aza Compounds",
+          "Child",
+          "Child, Preschool",
+          "Conjunctiva",
+          "Conjunctivitis, Bacterial",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fluoroquinolones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23092529/"
+      },
+      {
+        "pmid": "19043945",
+        "title": "A multicenter comparison of polymyxin B sulfate/trimethoprim ophthalmic solution and moxifloxacin in the speed of clinical efficacy for the treatment of bacterial conjunctivitis.",
+        "abstract": "To compare the speed of clinical efficacy for two currently available topical antibiotics: polymyxin B sulfate/trimethoprim (polymyxin/trimethoprim) and 0.5% moxifloxacin ophthalmic solution.",
+        "journal": "Journal of pediatric ophthalmology and strabismus",
+        "year": "2008",
+        "authors": [
+          "Granet David B",
+          "Dorfman Mark",
+          "Stroman David",
+          "Cockrum Paul"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Infective Agents, Local",
+          "Aza Compounds",
+          "Bacteria",
+          "Child",
+          "Child, Preschool",
+          "Conjunctivitis, Bacterial",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19043945/"
+      },
+      {
+        "pmid": "31554017",
+        "title": "Antibiotics for trachoma.",
+        "abstract": "Trachoma is the world's leading infectious cause of blindness. In 1996, WHO launched the Alliance for the Global Elimination of Trachoma by the year 2020, based on the 'SAFE' strategy (surgery, antibiotics, facial cleanliness, and environmental improvement).",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2019",
+        "authors": [
+          "Evans Jennifer R",
+          "Solomon Anthony W",
+          "Kumar Rahul",
+          "Perez Ángela",
+          "Singh Balendra P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Anti-Bacterial Agents",
+          "Chlamydia trachomatis",
+          "Drug Resistance, Bacterial",
+          "Humans",
+          "Randomized Controlled Trials as Topic",
+          "Trachoma",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31554017/"
+      },
+      {
+        "pmid": "19043943",
+        "title": "Moxifloxacin versus polymyxin B/trimethoprim sulfate in pediatric bacterial conjunctivitis.",
+        "abstract": "",
+        "journal": "Journal of pediatric ophthalmology and strabismus",
+        "year": "2008",
+        "authors": [
+          "Wagner Rudolph S"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents, Local",
+          "Aza Compounds",
+          "Child, Preschool",
+          "Conjunctivitis, Bacterial",
+          "Drug Therapy, Combination",
+          "Fluoroquinolones",
+          "Humans",
+          "Infant",
+          "Moxifloxacin",
+          "Polymyxin B"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19043943/"
+      },
+      {
+        "pmid": "7671609",
+        "title": "An in vitro comparison of the susceptibilities of bacterial isolates from patients with conjunctivitis and blepharitis to newer and established topical antibiotics.",
+        "abstract": "This retrospective study compared new and established topical antibiotics with regard to the in vitro susceptibility of bacterial isolates recovered from patients with conjunctivitis (n = 385) and blepharitis (n = 173) using the National Committee for Clinical Laboratory Standards-approved disk diffusion method. The percent susceptibility of recovered isolates to single antibiotic agents or combinations were ranked from greatest to least: chloramphenicol, bacitracin/polymyxin B, ofloxacin, sulfa, ciprofloxacin, trimethoprim/polymyxin B, norfloxacin, gentamicin, bacitracin, trimethoprim, tobramycin, neomycin, erythromycin, and polymyxin B. We determined that none of the available topical antibiotics provided 100% broad spectrum coverage in vitro. Established antibiotics often provided coverage comparable to the newer drugs. Due to the unproven value of in vitro testing as a predictor of clinical outcome in bacterial blepharitis and conjunctivitis, the ophthalmologist should choose thera",
+        "journal": "Cornea",
+        "year": "1995",
+        "authors": [
+          "Everett S L",
+          "Kowalski R P",
+          "Karenchak L M",
+          "Landsittel D",
+          "Day R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Anti-Bacterial Agents",
+          "Blepharitis",
+          "Conjunctiva",
+          "Conjunctivitis, Bacterial",
+          "Drug Combinations",
+          "Eye Infections, Bacterial",
+          "Eyelids",
+          "Gram-Negative Bacteria",
+          "Gram-Positive Bacteria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7671609/"
+      },
+      {
+        "pmid": "6188739",
+        "title": "Trimethoprim-polymyxin B ophthalmic solution in the treatment of presumptive bacterial conjunctivitis--a multicentre trial of its efficacy versus neomycin-polymyxin B-gramicidin and chloramphenicol ophthalmic solutions.",
+        "abstract": "Two-hundred and thirty patients with a diagnosis of presumptive bacterial conjunctivitis were assessed in a randomized double-blind multicentre trial. In two of the centres the patients had been treated with either trimethoprim-polymyxin B or neomycin-polymyxin B-gramicidin ophthalmic solution. In the other two centres the patients had been treated with either trimethoprim-polymyxin B or chloramphenicol ophthalmic solution. All of the preparations used were shown to be effective and very few adverse reactions were encountered. No significant difference in clinical efficacy could be demonstrated between trimethoprim-polymyxin B and neomycin-polymyxin B -gramicidin but trimethoprim-polymyxin B was found to be significantly better (P = 0.03) than chloramphenicol in reducing signs and symptoms.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "Gibson J R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Conjunctivitis",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Gramicidin",
+          "Humans",
+          "Neomycin",
+          "Ophthalmic Solutions",
+          "Polymyxin B",
+          "Polymyxins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6188739/"
+      },
+      {
+        "pmid": "24892274",
+        "title": "Chronic Conjunctivitis due to Nocardia nova Complex Formation on a Silicone Stent: A Case Report and Review of the Literature.",
+        "abstract": "Nocardial conjunctivitis associated with silicone tubing is an extremely rare finding. The authors present a case of a 52-year-old woman with previous dacryocystorhinostomy and silicone tube placement 3 years prior who presented with OD redness and discharge for 1 week. On examination, the patient was noted to have mucoid discharge and crusting surrounding the silicone tube. The tube debris was sampled, and the culture was positive for Nocardia nova complex sensitive to trimethoprim/sulfamethoxazole and amikacin. Silicone tube colonization and N. nova complex conjunctivitis are both rare but should be considered in the differential diagnosis of patients with indwelling silicone tubes presenting with chronic conjunctivitis resistant to fluoroquinolones and tobramycin.",
+        "journal": "Ophthalmic plastic and reconstructive surgery",
+        "year": "2015",
+        "authors": [
+          "Micheletti John M",
+          "Agrawal Megha",
+          "Matoba Alice Y",
+          "Marx Douglas P"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chronic Disease",
+          "Conjunctivitis, Bacterial",
+          "Dacryocystorhinostomy",
+          "Eye Infections, Bacterial",
+          "Female",
+          "Humans",
+          "Intubation",
+          "Microbial Sensitivity Tests",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24892274/"
+      },
+      {
+        "pmid": "10537781",
+        "title": "Ocular manifestations of cat-scratch disease.",
+        "abstract": "Bartonella henselae has only recently been isolated, characterized, and found to be the principal cause of cat-scratch disease (CSD). The availability of specific serologic investigations has allowed the recognition of a spectrum of ocular CSD syndromes that previously were ill defined and considered idiopathic. The primary inoculation complex causing regional lymphadenopathy is represented in the eye by Parinaud's oculoglandular syndrome; B. henselae is the most common cause. Leber's neuroretinitis has been identified for 80 years, and new data suggest that it is commonly a manifestation of CSD; the extent of the association remains to be determined. CSD optic neuritis is also described. The vitreoretinal manifestations include anterior uveitis, vitritis, pars planitis, focal retinal vasculitis, a characteristic retinal white spot syndrome, Bartonella retinitis, branch retinal arteriolar or venular occlusions, focal choroiditis, serous retinal detachments, and peripapillary angiomatou",
+        "journal": "Current opinion in ophthalmology",
+        "year": "1999",
+        "authors": [
+          "Ormerod L D",
+          "Dailey J P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bartonella henselae",
+          "Cat-Scratch Disease",
+          "Conjunctivitis, Bacterial",
+          "Diagnosis, Differential",
+          "Drug Therapy, Combination",
+          "Eye Infections, Bacterial",
+          "Humans",
+          "Optic Neuritis",
+          "Retinitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10537781/"
+      },
+      {
+        "pmid": "37522571",
+        "title": "Expanding the Histologic Spectrum of Sudden Conjunctivitis, Lymphopenia, and Rash Combined With Hemodynamic Changes.",
+        "abstract": "Sudden conjunctivitis, lymphopenia, and rash combined with hemodynamic changes (SCoRCH) is a recently described hypersensitivity reaction to trimethoprim-sulfamethoxazole. To date, only 1 case of histologic findings in SCoRCH has been reported, revealing a superficial perivascular dermatitis. In this article, we present a 53-year-old woman with a four-day history of a widespread, confluent, erythematous, and dusky rash after exposure to trimethoprim-sulfamethoxazole. Histologic examination revealed a vacuolar interface dermatitis with several apoptotic keratinocytes at multiple levels of the epidermis, similar to an erythema multiforme-like presentation. As described in SCoRCH, our patient's clinical findings rapidly improved within 48 hours of presentation without treatment. This case adds to the current literature by identifying a newly described histopathological presentation of SCoRCH.",
+        "journal": "The American Journal of dermatopathology",
+        "year": "2023",
+        "authors": [
+          "Ticknor Iesha L",
+          "Lee Michael P",
+          "Kearns Donovan",
+          "Ibraheim Marina K",
+          "Kraus Christina"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Trimethoprim, Sulfamethoxazole Drug Combination",
+          "Exanthema",
+          "Thrombocytopenia",
+          "Conjunctivitis",
+          "Lymphopenia",
+          "Dermatitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37522571/"
+      },
+      {
+        "pmid": "19913370",
+        "title": "Detection of Chlamydophila caviae and Streptococcus equi subsp. zooepidemicus in horses with signs of rhinitis and conjunctivitis.",
+        "abstract": "At a stud farm of Trakehner horses, all 33 foals of a birth cohort developed conjunctivitis and serous to muco-purulent rhinitis, and 7 older horses showed recurrent signs of conjunctivitis. Examination of nasal and conjunctival swabs by bacterial and cell culture, as well as real-time PCR, ArrayTube microarray analysis and DNA sequencing led to the identification of Chlamydophila (C.) caviae (first description in horses) and Streptococcus (S.) equi subsp. zooepidemicus. We presume a synergistic effect associated with these two agents by hypothesising that primary lesions were set by C. caviae and subsequently aggravated by Streptococcus equi subsp. zooepidemicus. Indications supporting this assumption include (i) the conjunctivitis caused by mono-infection with C. caviae, (ii) recurrent clinical symptoms in the affected animals, and (iii) the absence of a sustained clinical effect of antibiotic therapy with trimethoprim-sulfonamide, enrofloxacin and amoxicillin. The detection of C. ca",
+        "journal": "Veterinary microbiology",
+        "year": "2010",
+        "authors": [
+          "Gaede Wolfgang",
+          "Reckling Karl-Friedrich",
+          "Schliephake Anette",
+          "Missal Dirk",
+          "Hotzel Helmut"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bacterial Outer Membrane Proteins",
+          "Chlamydophila",
+          "Chlamydophila Infections",
+          "Conjunctivitis, Bacterial",
+          "Horse Diseases",
+          "Horses",
+          "Molecular Sequence Data",
+          "RNA, Ribosomal, 16S",
+          "RNA, Ribosomal, 23S"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19913370/"
+      },
+      {
+        "pmid": "12419095",
+        "title": "Penetration of topically administered ofloxacin and trimethoprim into aqueous humor.",
+        "abstract": "Ocular penetration of two topical antibiotics used to treat bacterial conjunctivitis was assessed in adult volunteers scheduled for cataract surgery. In this randomized, parallel-group study, patients instilled trimethoprim sulfate 0.1%/polymyxin B (n = 23) or ofloxacin 0.3% (n = 25) QID for 3 days, plus 4 instillations in the hour before surgery. Analysis of aqueous humor samples obtained during surgery showed a 2.4-fold greater concentration of ofloxacin over trimethoprim (1.135 micro g/ml vs 0.470 micro g/ml; P <.0001). The greater concentration of ofloxacin in ocular tissue coupled with its superior antibacterial activity profile supports its use as an alternative to trimethoprim/polymyxin B for treatment of bacterial conjunctivitis.",
+        "journal": "Journal of ocular pharmacology and therapeutics : the official journal of the Association for Ocular Pharmacology and Therapeutics",
+        "year": "2002",
+        "authors": [
+          "Price Francis W",
+          "Dobbins Kendall",
+          "Zeh William"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Infective Agents, Local",
+          "Aqueous Humor",
+          "Cataract Extraction",
+          "Chromatography, High Pressure Liquid",
+          "Female",
+          "Humans",
+          "Instillation, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12419095/"
+      },
+      {
+        "pmid": "20084257",
+        "title": "Acute infectious conjunctivitis in childhood.",
+        "abstract": "To review the etiology, clinical features and management of acute infectious conjunctivitis in children after the newborn period.",
+        "journal": "Paediatrics & child health",
+        "year": "2001",
+        "authors": [
+          "Chawla R",
+          "Kellner J D",
+          "Astle W F"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20084257/"
+      },
+      {
+        "pmid": "8595639",
+        "title": "Results of a survey of children with acute bacterial conjunctivitis treated with trimethoprim-polymyxin B ophthalmic solution.",
+        "abstract": "Acute conjunctivitis, one of the most frequently seen eye diseases in infants and children, is associated with a shorter duration of clinical disease when antimicrobial agents are used. Although viruses often are implicated as causative agents, Haemophilus influenzae and Streptococcus pneumoniae are the most commonly isolated bacterial pathogens. Empiric therapy of acute conjunctivitis therefore should include agents with both gram-positive and gram-negative antimicrobial activity. Trimethoprim-polymyxin B is a broad-spectrum antimicrobial agent available as an ophthalmic solution. We conducted a patient outcomes study to evaluate the subjective response to treatment with trimethoprim-polymyxin B of children with presumed acute bacterial conjunctivitis. Questionnaires were distributed to more than 100 pediatricians who assessed outcome measures in 472 children with acute bacterial conjunctivitis for whom they prescribed trimethoprim-polymyxin B. The parameters evaluated were clinical o",
+        "journal": "Clinical therapeutics",
+        "year": "1995",
+        "authors": [
+          "Wagner R S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adolescent",
+          "Anti-Infective Agents",
+          "Child",
+          "Child, Preschool",
+          "Conjunctivitis, Bacterial",
+          "Drug Combinations",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8595639/"
+      },
+      {
+        "pmid": "2540136",
+        "title": "Trimethoprim-polymyxin B sulphate ophthalmic ointment versus chloramphenicol ophthalmic ointment in the treatment of bacterial conjunctivitis--a review of four clinical studies. The Trimethoprim-Polymyxin B Sulphate Ophthalmic Ointment Study Group.",
+        "abstract": "Five hundred and twenty-eight patients with a clinical diagnosis of bacterial conjunctivitis were enrolled in four randomized, double-blind, parallel studies. Patients were treated with trimethoprim-polymyxin B sulphate (TP) or chloramphenicol ophthalmic ointments, four times a day for seven days in three studies, and three times a day for five days in one. Data suitable for evaluation of efficacy and safety were obtained from 448 patients. The results of each study were analysed separately and indicated that both treatments were effective and well tolerated and that there were no statistically significant differences between them. However, in three studies, efficacy trends generally favoured TP ophthalmic ointment and in one study efficacy trends favoured chloramphenicol ophthalmic ointment. A wide range of pathogenic or potentially pathogenic organisms was isolated, with Haemophilus influenzae being the most prevalent.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1989",
+        "authors": [],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Child",
+          "Child, Preschool",
+          "Chloramphenicol",
+          "Conjunctivitis, Bacterial",
+          "Humans",
+          "Infant",
+          "Infant, Newborn"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2540136/"
+      },
+      {
+        "pmid": "16491721",
+        "title": "Controlling contagious bacterial conjunctivitis.",
+        "abstract": "Recent outbreaks (epidemics) of Streptococcus pneumoniae conjunctivitis, involving hundreds of patients, underscore the importance of following recommended guidelines to minimize disease transmission. These include the use of antimicrobial agents capable of minimizing patients' symptoms and the duration of the infectious period when disease can be transmitted to others.",
+        "journal": "Journal of pediatric ophthalmology and strabismus",
+        "year": "2006",
+        "authors": [
+          "Lichtenstein Steven J",
+          "Dorfman Mark",
+          "Kennedy Robert",
+          "Stroman David"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Aza Compounds",
+          "Colony Count, Microbial",
+          "Conjunctivitis, Bacterial",
+          "Disease Transmission, Infectious",
+          "Fluoroquinolones",
+          "Follow-Up Studies",
+          "Gentamicins",
+          "Humans",
+          "In Vitro Techniques"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16491721/"
+      },
+      {
+        "pmid": "21175242",
+        "title": "Moxifloxacin 0.5% ophthalmic solution: in bacterial conjunctivitis.",
+        "abstract": "The fourth-generation 8-methoxyfluoroquinolone moxifloxacin is available as an 0.5% ophthalmic solution for use in the treatment of bacterial conjunctivitis. Moxifloxacin had good activity against various Gram-positive and -negative ocular isolates in vitro, and moxifloxacin 0.5% ophthalmic solution achieved good penetration into ocular tissues in healthy volunteers and patients undergoing ocular surgery. The efficacy of moxifloxacin 0.5% ophthalmic solution in the treatment of bacterial conjunctivitis has been shown in three randomized, double-blind, multicentre trials. In a trial in patients aged ≥1 year, the clinical success rate was significantly higher with moxifloxacin 0.5% ophthalmic solution than with placebo. In a trial in patients aged ≥12 years, moxifloxacin 0.5% ophthalmic solution was noninferior to levofloxacin 0.5% ophthalmic solution in terms of the clinical success rate. In a third trial, the clinical cure rate was significantly higher with moxifloxacin 0.5% ophthalmic",
+        "journal": "Drugs",
+        "year": "2011",
+        "authors": [
+          "Keating Gillian M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Aza Compounds",
+          "Clinical Trials as Topic",
+          "Conjunctivitis, Bacterial",
+          "Eye",
+          "Fluoroquinolones",
+          "Humans",
+          "Moxifloxacin",
+          "Multicenter Studies as Topic",
+          "Ophthalmic Solutions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21175242/"
+      },
+      {
+        "pmid": "1286241",
+        "title": "New antibacterial drugs for topical ophthalmic use.",
+        "abstract": "Three new antibacterial drugs have recently been approved for topical ophthalmic use. Ciprofloxacin (Ciloxan) and norfloxacin (Chibroxin) are fluoroquinolones with very broad activity spectra; both have been found to be safe and effective for the treatment of conjunctivitis. Ciprofloxacin, in the commercially available concentration (0.3%), has also been found to be a safe and effective treatment for corneal ulcers. Trimethoprim-polymyxin B (Polytrim) is a new combination product that has been used successfully for the treatment of conjunctivitis. Use of these three new drugs will significantly enhance the ability of the primary care clinician to treat bacterial infections of the cornea and conjunctiva.",
+        "journal": "Optometry clinics : the official publication of the Prentice Society",
+        "year": "1992",
+        "authors": [
+          "Yolton D P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Ciprofloxacin",
+          "Conjunctivitis, Bacterial",
+          "Corneal Ulcer",
+          "Drug Therapy, Combination",
+          "Eye Infections, Bacterial",
+          "Humans",
+          "Norfloxacin",
+          "Ophthalmic Solutions",
+          "Polymyxin B",
+          "Trimethoprim"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1286241/"
+      },
+      {
+        "pmid": "27528052",
+        "title": "Case report: Providencia stuartii conjunctivitis.",
+        "abstract": "The purpose of this study is to report a case of Providencia stuartii conjunctivitis.",
+        "journal": "Journal of ophthalmic inflammation and infection",
+        "year": "2016",
+        "authors": [
+          "Crane Elliot S",
+          "Shum May",
+          "Chu David S"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27528052/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:50:15.886406",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,69 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Desloratadine",
+    "disease": "common cold",
+    "query_string": "Desloratadine AND common cold"
+  },
+  "data": {
+    "query": "Desloratadine AND common cold",
+    "results": [
+      {
+        "pmid": "15516152",
+        "title": "Chronic urticaria: aetiology, management and current and future treatment options.",
+        "abstract": "Chronic urticaria is a common condition that can be very disabling when severe. A cause for chronic idiopathic urticaria (CIU) is only infrequently identified. Potential causes include reactions to food and drugs, infections (rarely) and, apart from an increased incidence of thyroid disease, uncomplicated urticaria is not usually associated with underlying systemic disease or malignancy. About one-third of patients with CIU have circulating functional autoantibodies against the high affinity IgE receptor or against IgE, although it is not known why such antibodies are produced, or how the presence of such antibodies alters the course of the disease or response to treatment. There are only a few publications relating to childhood urticaria, but it is probably similar to the adult form, except that adult urticaria is more common. The diagnosis is based on patient history and it is vital to spend time documenting this in detail. Extensive laboratory tests are not required in the vast majo",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Kozel Martina M A",
+          "Sabroe Ruth A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Allergic Agents",
+          "Child",
+          "Chronic Disease",
+          "Histamine Antagonists",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Quality of Life",
+          "Urticaria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15516152/"
+      },
+      {
+        "pmid": "19032340",
+        "title": "Ebastine in allergic rhinitis and chronic idiopathic urticaria.",
+        "abstract": "Histamine is a key mediator in the development of allergy symptoms, and oral H(1)-antihistamines are among the most widely used treatments for symptomatic relief in conditions such as allergic rhinitis and chronic urticaria. Ebastine is a second-generation antihistamine which has been shown to be an effective treatment for both seasonal and perennial allergic rhinitis. In controlled clinical trials in adult and adolescent patients with allergic rhinitis, ebastine 10 mg once-daily improved symptoms to a significantly greater extent than placebo and to a similar extent as loratadine 10 mg and cetirizine 10 mg (both once-daily), while ebastine 20 mg proved to be more effective than these two comparator antihistamines. In addition, ebastine was significantly more effective than placebo at relieving the symptoms of chronic idiopathic urticaria. Ebastine provides efficacy throughout the 24-h dosing interval with once-daily administration and clinical benefit is seen from the first day of tre",
+        "journal": "Allergy",
+        "year": "2008",
+        "authors": [
+          "Sastre J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Butyrophenones",
+          "Chronic Disease",
+          "Histamine H1 Antagonists",
+          "Humans",
+          "Piperidines",
+          "Rhinitis, Allergic, Perennial",
+          "Rhinitis, Allergic, Seasonal",
+          "Urticaria"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19032340/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:03:53.181980",
+  "success": true,
+  "error_message": null
+}

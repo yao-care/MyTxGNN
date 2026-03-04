@@ -1,0 +1,76 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Thiotepa",
+    "disease": "ovarian clear cell adenocarcinoma",
+    "query_string": "Thiotepa AND ovarian clear cell adenocarcinoma"
+  },
+  "data": {
+    "query": "Thiotepa AND ovarian clear cell adenocarcinoma",
+    "results": [
+      {
+        "pmid": "19395997",
+        "title": "Survival after second-line intraperitoneal therapy for the treatment of epithelial ovarian cancer: the Gynecologic Oncology Group experience.",
+        "abstract": "To assess the association between patient-disease characteristics and overall survival (OS) after second-line intraperitoneal (IP) treatment of ovarian cancer.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2009",
+        "authors": [
+          "Markman Maurie",
+          "Brady Mark",
+          "Hutson Alan",
+          "Berek Jonathan S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Aged",
+          "Antineoplastic Agents",
+          "Cisplatin",
+          "Etoposide",
+          "Female",
+          "Fluorouracil",
+          "Humans",
+          "Infusions, Parenteral",
+          "Interferon alpha-2"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19395997/"
+      },
+      {
+        "pmid": "9072220",
+        "title": "[The morphological aspects of a study of the efficacy of chemotherapy in ovarian cancer].",
+        "abstract": "The authors have analyzed therapeutic pathomorphosis of carcinoma of the ovaries in 66 patients depending on the number of courses received and histological structure of the tumour. It has been established that the most serous carcinoma of the ovaries does not practically respond to the one course of chemotherapy while its metastases to the omentum do so better. Increase in the number of courses of chemotherapy promotes regression of primary tumour. Carcinoma mucosum is scarcely amenable to one course of chemotherapy as well, and like other carcinomas requires polychemotherapy and choice of chemotherapeutic agents to suit individual patients. Highly responsive to chemotherapy are dysgerminoma and clear cell carcinoma. As to the other histological forms of carcinoma, they are not treatable by chemotherapy, which fact attests to the need of searching for various and different means capable of influencing the carcinoma of the above localization.",
+        "journal": "Likars'ka sprava",
+        "year": "1996",
+        "authors": [
+          "Iakymova T P",
+          "Pavlova T D",
+          "Kartashov S M",
+          "Iakymov D Iu"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma",
+          "Adenocarcinoma, Mucinous",
+          "Adult",
+          "Aged",
+          "Antibiotics, Antineoplastic",
+          "Antineoplastic Agents, Alkylating",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Cyclophosphamide",
+          "Doxorubicin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9072220/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:44:52.668360",
+  "success": true,
+  "error_message": null
+}

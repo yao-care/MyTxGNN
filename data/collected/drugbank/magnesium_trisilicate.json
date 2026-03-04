@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Magnesium Trisilicate"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB09281",
+    "name": "Magnesium trisilicate",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:54:54.328597",
+  "success": true,
+  "error_message": null
+}

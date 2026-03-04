@@ -6,7 +6,7 @@ drug_name: "Beclomethasone Dipropionate"
 kg_predictions: 147
 dl_predictions: 38
 evidence_level: "L1"
-indication_count: 147
+indication_count: 5
 brands: []
 permalink: /drugs/beclomethasone-dipropionate/
 ---

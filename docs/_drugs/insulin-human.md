@@ -6,7 +6,7 @@ drug_name: "Insulin Human"
 kg_predictions: 110
 dl_predictions: 20
 evidence_level: "L1"
-indication_count: 110
+indication_count: 5
 brands: []
 permalink: /drugs/insulin-human/
 ---

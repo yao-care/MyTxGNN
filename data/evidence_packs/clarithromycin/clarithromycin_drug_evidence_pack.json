@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Clarithromycin",
+    "drugbank_id": "DB01211"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 28
+  },
+  "indications": [
+    {
+      "disease": "maxillary sinusitis",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 1,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 1
+    },
+    {
+      "disease": "streptococcal pneumonia",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "pneumonia caused by chlamydia",
+      "evidence_level": "L2",
+      "recommendation": "Research Question",
+      "trials": 0,
+      "articles": 20,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "infectious otitis media",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 3,
+      "articles": 14,
+      "phase3": 1,
+      "phase2": 0,
+      "phase4": 1
+    },
+    {
+      "disease": "bacterial pneumonia",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 14,
+      "articles": 20,
+      "phase3": 8,
+      "phase2": 1,
+      "phase4": 4
+    }
+  ]
+}

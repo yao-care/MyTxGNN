@@ -1,0 +1,309 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "cardiac arrest"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05283850",
+      "title": "A Prospective, Pre-Hospital Comparison of Normal Saline Versus Half-Normal Saline, After Universal Calcium Chloride Administration, to Improve Outcomes in Pulseless Electrical Activity Patients",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2022-02-16",
+      "completion_date": "2027-02",
+      "country": "United States",
+      "enrollment": 342,
+      "brief_summary": "The Carilion Clinic and Virginia Tech Carilion School of Medicine, in conjunction with Roanoke Fire-EMS, Botetourt County Department of Fire \\& EMS and Salem Fire-EMS, are studying the outcomes of patients experiencing Pulseless Electrical Activity (PEA). PEA refers to a type of cardiac arrest in which there is normal electrical activity in the heart however the heart still fails to contract to generate a pulse. Without heart contractions, which normally generates a pulse, the brain and other im",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients who present with PEA at any time during the patients' treatment by Roanoke Fire-EMS, Botetourt County Department of Fire \\& EMS and/or Salem Fire-EMS. This study defines a PEA presentation as any patient who is unconscious, presenting without a carotid pulse and w",
+      "endpoints": [
+        "Event Survival"
+      ],
+      "sponsor": "Carilion Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT05283850"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05339854",
+      "title": "Evaluation of Cardio-pulmonary, Physcial and Neuro-psychiatric Function in Patients Who Survived a Therapy-refractory Cardiac Arrest With Extracorporeal Cardiopulmonary Resuscitation.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-06-01",
+      "completion_date": "2024-03-30",
+      "country": "Germany",
+      "enrollment": 30,
+      "brief_summary": "A cardiac arrest event has severe impact on the patient´s health-related quality of life. Survival of cardiac arrest does not innately translate to favorable quality of life. In particular, highly invasive resuscitation strategies, including extracorporeal cardio-pulmonary resuscitation (ECPR) due to therapy-refractory cardiac arrest, may have impact on long-term outcomes. Therefore, apart from acute medical treatment and physical rehabilitation, long-term effects on cardio-pulmonary, physical a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients\n* Survival of cardiac arrest\n* Use of extracorporeal cardiopulmonary resuscitation (ECPR) with veno-arterial extracorporeal membrane oxygenation (VA-ECMO) or ECMELLA (VA-ECMO and left-ventricular Impella micro-axial pump)\n\nExclusion Criteria:\n\n* Non-adult patien",
+      "endpoints": [
+        "Left ventricular ejection fraction (LVEF)"
+      ],
+      "sponsor": "Charite University, Berlin, Germany",
+      "url": "https://clinicaltrials.gov/study/NCT05339854"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07023159",
+      "title": "Predicting Clinical Factors and Laboratory Parameters Associated With Short-Term Survival in Out-of-Hospital Cardiac Arrest",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-05-01",
+      "completion_date": "2024-06-01",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 327,
+      "brief_summary": "This prospective study aimed to identify clinical and laboratory predictors of return of spontaneous circulation (ROSC), 28-day survival, and favorable neurological outcomes in adult patients experiencing out-of-hospital cardiac arrest (OHCA) and brought to the emergency department (ED) by emergency medical services (EMS). Specifically, the prognostic value of hematologic, biochemical, and blood gas parameters on admission was assessed for ROSC, 28-day survival, and favorable neurological recove",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- This study included 420 adult patients (aged ≥18 years) who were brought to our hospital's ED due to OHCA and who had initiated attempted resuscitation by EMS were initially screened for inclusion between May 2023 and May 2024.\n\nExclusion Criteria:\n\n* Patients aged \\< 18 year",
+      "endpoints": [
+        "Number of Participants with Return of Spontaneous Circulation (ROSC)",
+        "Number of Participants Alive at Day 28",
+        "Number of Participants with Favorable Neurological Outcome (CPC 1-2) at Day 28"
+      ],
+      "sponsor": "Haseki Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07023159"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04153435",
+      "title": "Calcium for Out-of-Hospital Cardiac Arrest - A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-01-20",
+      "completion_date": "2022-04-15",
+      "country": "Denmark",
+      "enrollment": 397,
+      "brief_summary": "This is an investigator-initiated, multicenter, randomized, placebo-controlled, parallel group, double-blind, superiority trial of calcium during adult out-of-hospital cardiac arrest. 430 adult patients with out-of-hospital cardiac arrest receiving at least one dose of adrenaline will be enrolled. The primary outcome is sustained return of spontaneous circulation and key secondary outcomes include survival at 30 days and survival at 30 days with a favorable neurological outcome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Out-of-hospital cardiac arrest\n* Age ≥ 18 years\n* Received at least one dose of adrenaline\n\nExclusion Criteria:\n\n* Traumatic cardiac arrest - including drowning and external asphyxia (e.g., hanging, strangulation, or foreign object airway obstruction)\n* Known or strongly suspe",
+      "endpoints": [
+        "Number of Participants With Sustained Return of Spontaneous Circulation"
+      ],
+      "sponsor": "Aarhus University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04153435"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03642405",
+      "title": "Exploring the Effect of Methylphenidate and Antidepressants on Cardiac Repolarisation.",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2018-08-15",
+      "completion_date": "2022-01-01",
+      "country": "Denmark",
+      "enrollment": 150,
+      "brief_summary": "Studies have shown that the risk of developing heart arrhythmias, is increased in patients receiving medication for Attention-deficit hyperactivity disorder (ADHD) and depression. The QT-interval on a electrocardiogram (ECG) is often used to assess the patients risk of developing heart arrhythmias. The QT-interval defines the hearts electrical resting period and a long interval is linked to an increased risk of developing heart arrhythmias. In this project the investigators wish to examine possi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Over 18 years old\n* Patients treated with Methylphenidate\n* Patients treated with Methylphenidate and QT-prolonging SSRI\n* Patients treated with Methylphenidate and a non QT-prolonging SSRI\n\nExclusion Criteria:\n\n* Patients considered in an unstable phase in their psychiatric c",
+      "endpoints": [
+        "ECG changes"
+      ],
+      "sponsor": "Copenhagen University Hospital at Herlev",
+      "url": "https://clinicaltrials.gov/study/NCT03642405"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01172171",
+      "title": "Intracoronary Injection of Melatonin for Patients With ST-elevation Myocardial Infarction: a Placebo Controlled Randomized Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2016-12",
+      "country": "Denmark",
+      "enrollment": 41,
+      "brief_summary": "In Denmark, 12.000 people a year, is struck by acute myocardial infarction. A third of these cannot be saved before treatment is possible.\n\nDespite quick and effective reperfusion of the coronary arteries using PCI (Percutaneous Coronary Intervention) after an acute ST-elevation myocardial infarction, substantial morbidity and mortality remain. Infarct size is an important determinant of the short-and long-term outcome after acute myocardial infarction. The most widely used and most effective pr",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Adults who are able to give informed consent\n* 1 significant coronary occlusion (\\>2mm) with TIMI 0-1 expected to undergo PCI.\n* The occlusion must be ECG-verified with new ST-elevations ≥ 0.2 mV in V2-V3 and/or ≥ 0.1 in the other leads or a new onset left bundle branch block.",
+      "endpoints": [
+        "MRI of the heart"
+      ],
+      "sponsor": "Herlev Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01172171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01681095",
+      "title": "Custodiol-HTK Solution as a Cardioplegic Agent- A Prospective Non-Inferiority Randomized Clinical Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 110,
+      "brief_summary": "The purpose of the study is to demonstrate that Custodiol-HTK is not inferior to cold cardioplegic solution in patients undergoing cardiovascular surgery requiring cardioplegic arrest.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing scheduled cardiac surgery requiring cardioplegic arrest with expected cross clamp time\\>45 minutes\n* Patients age 18 and older\n\nExclusion Criteria:\n\n* Pregnant women\\*\n* Urgent or emergent cases\n* Repeat cardiovascular surgical procedures\n* Patients on dial",
+      "endpoints": [
+        "Change in Creatine Phosphokinase-MB Isoenzyme (CK-MB)",
+        "Change in Troponin I",
+        "Changes in Left Ventricular (LV) Ejection Fraction (EF) by Transthoracic Echocardiogram (TTE)"
+      ],
+      "sponsor": "Corewell Health East",
+      "url": "https://clinicaltrials.gov/study/NCT01681095"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05564130",
+      "title": "Bicarbonate for In-Hospital Cardiac Arrest - A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-02-06",
+      "completion_date": "2027-02-11",
+      "country": "Denmark",
+      "enrollment": 778,
+      "brief_summary": "This is an investigator-initiated, multicenter, randomized, placebo-controlled, parallel group, double-blind, superiority trial of sodium bicarbonate during adult in-hospital cardiac arrest. There will be 22 enrolling sites in Denmark. 778 adult patients with in-hospital cardiac arrest receiving at least one dose of adrenaline will be enrolled. The primary outcome is return of spontaneous circulation and key secondary outcomes include survival at 30 days and survival at 30 days with a favorable ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. In-hospital cardiac arrest\n2. Age ≥ 18 years\n3. Received at least one dose of adrenaline during cardiopulmonary resuscitation (CPR)\n\nExclusion Criteria:\n\n1. Clearly documented \"do-not-resuscitate\" order prior to the cardiac arrest\n2. Prior enrollment in the trial\n3. Invasive ",
+      "endpoints": [
+        "Number of Participants With Return of Spontaneous Circulation"
+      ],
+      "sponsor": "Aarhus University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT05564130"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01516138",
+      "title": "Myocardial Protection of Glucose - Insulin - Potassium in Patients Undergoing Cardiac Surgery With Cardiopulmonary Bypass",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-02",
+      "completion_date": "2022-02",
+      "country": "China",
+      "enrollment": 930,
+      "brief_summary": "The purpose of this study is to evaluate the effects of modified glucose - insulin - potassium (GIK) therapy in cardiac surgery patients undergoing cardiopulmonary bypass (CPB).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 70 years of age\n* Elective cardiac surgery with first time cardiopulmonary bypass\n* Left ventricular ejection fraction(LVEF) ≥ 30%\n* Informed agreement signed\n\nExclusion Criteria:\n\n* Previous cardiac surgery\n* Emergent surgery\n* Cardiac surgery without the use o",
+      "endpoints": [
+        "Number of participants of the major adverse cardiac events"
+      ],
+      "sponsor": "Xijing Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01516138"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06930391",
+      "title": "Effect of Extracellular Calcium on Carbetocin Mediated Contractility in Human Myometrium: An Ex-Vivo Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-15",
+      "completion_date": "2026-06",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "Postpartum hemorrhage (PPH) continues to be an increasing problem globally. Uterotonics play an essential role in the pharmacological management of uterine atony. Carbetocin, a long acting analog of oxytocin has been recommended as a first line uterotonic for PPH prophylaxis at cesarean delivery. Considering many woman have associated comorbidities and are at high risk of PPH, finding alternative pharmacological agents is essential. Calcium is a key factor for myometrial contractions and calcium",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* non-laboring women with gestational age between 37 to 41 weeks\n* not exposed to exogenous oxytocin, scheduled for a primary or first repeat cesarean delivery under neuraxial anesthesia.\n\nExclusion criteria:\n\n* patients requiring general anesthesia\n* more than 1 previous cesare",
+      "endpoints": [
+        "Motility index"
+      ],
+      "sponsor": "Samuel Lunenfeld Research Institute, Mount Sinai Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06930391"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02484768",
+      "title": "A Phase II, Six-week, Randomised, Comparative, Double-blind Study of Intravenous Iron Isomaltoside 1000 Versus Placebo in Subjects With Restless Leg Syndrome With a 3 Month Extension",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2015-01",
+      "completion_date": "2015-02",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to to establish proof-of-concept for efficacy of iron isomaltoside 1000 in subjects with Restless Legs Syndrome.\n\nThe study is a randomised, comparative, double-blind study with a 3 months extension. Subjects with restless leg syndrome (RLS) will be randomised 2:1 to one of the following treat-ment groups:\n\n* Group A (42 subjects): 1000 mg iron isomaltoside 1000\n* Group B (21 subjects): Placebo infusion\n\nFurthermore, non-responders, who continue to meet entry require",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Diagnosis of RLS based upon the CH-RLSq and HTDI\n3. IRLS score ≥ 15 at baseline evaluation when off RLS medications\n4. Willingness to participate and signing the informed consent form\n\nExclusion Criteria:\n\n1. S-ferritin \\> 300 ng/mL and/or TfS \\> 50 %\n2. Iro",
+      "endpoints": [
+        "To measure the change in RLS symptoms from baseline to week 6 measured by the clinical global impression (CGI) score"
+      ],
+      "sponsor": "Pharmacosmos A/S",
+      "url": "https://clinicaltrials.gov/study/NCT02484768"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06968806",
+      "title": "Study on Ketorolac for Improving Outcomes and Prognosis in Patients With Stanford Type A Aortic Dissection -A Single-Center, Randomized, Double-Blind, Controlled Clinical Trial",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-10-27",
+      "completion_date": "2028-09-01",
+      "country": "China",
+      "enrollment": 360,
+      "brief_summary": "This multicenter, randomized, double-blind, placebo-controlled trial evaluates the efficacy and safety of ketorolac in 360 patients with Stanford Type A aortic dissection, conducted between 2025 and 2027. Participants will receive either ketorolac (60 mg intramuscularly \\[IM\\] preoperatively and 30 mg twice daily \\[BID\\] for two days postoperatively) or placebo in addition to standard care. Study outcomes include composite clinical endpoints, postoperative complications, and adverse events, whic",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with Stanford Type A aortic dissection confirmed by imaging and scheduled for emergency surgery.\n\nAged between 18 and 65 years.\n\nSigned informed consent.\n\nExclusion Criteria:\n\n* Patients who are unable to eat independently or require prolonged fasting.\n\nHistory of mal",
+      "endpoints": [
+        "Composite Endpoint: Mortality, Malperfusion Syndrome, Permanent Organ Dysfunction, Unplanned Cardiac Reoperation, and Prolonged Hospitalization"
+      ],
+      "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+      "url": "https://clinicaltrials.gov/study/NCT06968806"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04846036",
+      "title": "A Randomized Placebo Controlled, Double-blind Phase II Study to Explore the Safety, Efficacy and Pharmacokinetics of Sonlicromanol in Children With Genetically Confirmed Mitochondrial Disease",
+      "phase": "PHASE2",
+      "status": "SUSPENDED",
+      "start_date": "2021-02-01",
+      "completion_date": "2025-12-01",
+      "country": "Netherlands",
+      "enrollment": 24,
+      "brief_summary": "This a randomized placebo controlled, double-blind phase II study to explore the pharmacokinetics, safety and efficacy of sonlicromanol in children (from birth to 17 years) with genetically confirmed mitochondrial disease of which the gene defect is known to decrease one or more oxidative phosphorylation system enzymes and who suffer from motor symptoms (\"KHENERGYC\").",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 0 months and 17 years\n2. Genetically confirmed mitochondrial disease, of which the gene defect is known to decrease one or more oxidative phosphorylation system enzymes and who suffer from motor symptoms, based on investigator judgement\n3. Abnormal gross motor fun",
+      "endpoints": [
+        "Motor Symptom Severity as assessed with the Gross Motor Function Measure-88 (GMFM-88)"
+      ],
+      "sponsor": "Khondrion BV",
+      "url": "https://clinicaltrials.gov/study/NCT04846036"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04355728",
+      "title": "Umbilical Cord-derived Mesenchymal Stem Cells for COVID-19 Patients With Acute Respiratory Distress Syndrome (ARDS)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-04-25",
+      "completion_date": "2020-10-31",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this research study is to learn about the safety and efficacy of human umbilical cord derived Mesenchymal Stem Cells (UC-MSC) for treatment of COVID-19 Patients with Severe Complications of Acute Lung Injury/Acute Respiratory Distress Syndrome (ALI/ARDS).",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients \\>/= 18 years old diagnosed with COVID-19 (as evaluated by PCR test confirming infection with SARS-CoV-2) will be eligible for inclusion if they meet all of the below criteria. Inclusion criteria must all be present within a 24-hour time period at the time of enrollment",
+      "endpoints": [
+        "Number of Participants With Pre-Specified Infusion Associated Adverse Events",
+        "Number of Subjects With Serious Adverse Events by 31 Days After First Infusion",
+        "Percentage of Participants Experiencing Serious Adverse Events (SAEs) Through Study Day 90"
+      ],
+      "sponsor": "University of Miami",
+      "url": "https://clinicaltrials.gov/study/NCT04355728"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05118022",
+      "title": "Artificial Intelligence Identified Dyskalemia Using Electrocardiogram (AIDE) Prompts Immediate Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-01-01",
+      "completion_date": "2023-02-28",
+      "country": "Taiwan",
+      "enrollment": 14989,
+      "brief_summary": "This is a randomized controlled trial (RCT) to test a novel artificial intelligence (AI)-enabled electrocardiogram (ECG)-based screening tool for improving the diagnosis and management of potassium abnormalities.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients in emergency department.\n* Patients recieved at least 1 ECG examination.\n\nExclusion Criteria:\n\n* Patients recieved dyskalemia-related treatment before ECG examination.\n* The patients recieved ECG at the period of inactive AI-ECG system.",
+      "endpoints": [
+        "Cumulative proportion of hyperkalemia treatment",
+        "Cumulative proportion of hypokalemia treatment"
+      ],
+      "sponsor": "National Defense Medical Center, Taiwan",
+      "url": "https://clinicaltrials.gov/study/NCT05118022"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04136210",
+      "title": "Perioperative Clinical, Hemodynamic Data and Prognosis Assessment in Patients Who Undergo Cardiovascular Surgery; Registry Construction",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-09-19",
+      "completion_date": "2025-01-08",
+      "country": "South Korea",
+      "enrollment": 1568,
+      "brief_summary": "The purpose of this registry is to obtain perioperative data in patients undergoing cardiac or thoracic aortic surgery and find out relations between the data and investigate several causes affecting postoperative complications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* patients undergoing cardiac or thoracic aortic surgery\n\nExclusion Criteria:\n\n* refused to participate",
+      "endpoints": [
+        "Baseline characteristics",
+        "Preoperative data",
+        "Intraoperative and postoperative data"
+      ],
+      "sponsor": "Seoul National University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04136210"
+    }
+  ],
+  "timestamp": "2026-03-04T16:34:18.197614",
+  "success": true,
+  "error_message": null
+}

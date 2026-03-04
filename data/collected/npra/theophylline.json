@@ -1,0 +1,116 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Theophylline",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL13025048ACZ",
+      "product": "Nuelin syrup 80mg/15ml",
+      "active_ingredient": "THEOPHYLLINE[80mg;15ml]",
+      "generic_name": "Theophylline 80 mg/15 ml Syrup",
+      "holder": "iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore) Malaysia Branch",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-03-02",
+      "date_end": "2028-03-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL13025048ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL13075064ACZ",
+      "product": "Nuelin SR 250 tablet",
+      "active_ingredient": "THEOPHYLLINE[250mg;0]",
+      "generic_name": NaN,
+      "holder": "iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore) Malaysia Branch",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-07-27",
+      "date_end": "2028-07-27",
+      "url": "https://npra.gov.my/index.php/search/product/MAL13075064ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL13085050ACZ",
+      "product": "Nuelin SR 125 tablet",
+      "active_ingredient": "THEOPHYLLINE[125mg;0]",
+      "generic_name": NaN,
+      "holder": "iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore) Malaysia Branch",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-08-31",
+      "date_end": "2028-08-31",
+      "url": "https://npra.gov.my/index.php/search/product/MAL13085050ACZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19872133AZ",
+      "product": "PHARMANIAGA THEOPHYLLINE 125MG TABLET",
+      "active_ingredient": "THEOPHYLLINE[125MG                         ]",
+      "generic_name": "Theophylline 125 mg Tablet",
+      "holder": "PHARMANIAGA MANUFACTURING BERHAD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-09-06",
+      "date_end": "2028-09-06",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19872133AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20132342AZ",
+      "product": "Unicontin 400 controlled release tablets",
+      "active_ingredient": "THEOPHYLLINE[400;mg;;0]",
+      "generic_name": NaN,
+      "holder": "PAHANG PHARMACY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-10-26",
+      "date_end": "2028-10-26",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20132342AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20132343AZ",
+      "product": "Unicontin 600 controlled release tablets",
+      "active_ingredient": "THEOPHYLLINE[600;mg;;0]",
+      "generic_name": NaN,
+      "holder": "PAHANG PHARMACY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-11-09",
+      "date_end": "2028-11-09",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20132343AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19992359ACRZ",
+      "product": "AA-Theo LA Tablet 200mg",
+      "active_ingredient": "THEOPHYLLINE[200MG                         ]",
+      "generic_name": "Theophylline 200 mg Tablet",
+      "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-11-14",
+      "date_end": "2029-11-14",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19992359ACRZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19992360ACRZ",
+      "product": "AA-Theo LA Tablet 300mg",
+      "active_ingredient": "THEOPHYLLINE[300MG                         ]",
+      "generic_name": "Theophylline 300 mg Tablet",
+      "holder": "PHARMAFORTE (MALAYSIA) SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-11-14",
+      "date_end": "2029-11-14",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19992360ACRZ"
+    }
+  ],
+  "timestamp": "2026-03-04T16:58:37.249671",
+  "success": true,
+  "error_message": null
+}

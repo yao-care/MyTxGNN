@@ -1,0 +1,922 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "B-cell neoplasm"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00602836",
+      "title": "Phase II Trial of Pentostatin, Cyclophosphamide, and Rituximab Followed by Consolidation With Lenalidomide for Previously Untreated B-Chronic Lymphocytic Leukemia (CLL) or Small Lymphocytic Lymphoma (SLL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2017-09-12",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Drugs used in chemotherapy, such as pentostatin and cyclophosphamide, work in different ways to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. Lenalidomide may stop the growth of cancer cells by blocking some",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL), meeting the following criteria:\n\n  * Biopsy-proven SLL according to WHO criteria\n  * CLL diagnosis\\* according to NCI working group criteria as evidenced by all of the following:\n\n    * P",
+      "endpoints": [
+        "Number of Participants With Complete Response (CR)"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT00602836"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03206671",
+      "title": "B-NHL 2013 - Treatment Protocol of the NHL-BFM and the NOPHO Study Groups for Mature Aggressive B-cell Lymphoma and Leukemia in Children and Adolescents",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-08-03",
+      "completion_date": "2027-06",
+      "country": "Finland, Norway, Czechia, Switzerland, Austria, Germany, Denmark, Sweden",
+      "enrollment": 650,
+      "brief_summary": "The trial B-NHL 2013 is a collaborative prospective, multi-national, multi-center, randomized trial with participating centers of the NHL-BFM group (Austria, Switzerland, Czech Republic, Germany) and the Scandinavian NOPHO group (Denmark, Finland, Norway, Sweden). The aim of the trial is to evaluate the role of rituximab in the treatment of mature aggressive B-cell Non-Hodgkin lymphoma and leukemia (B-NHL and B-AL) in children and adolescents.\n\nThe following primary study questions are going to ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, histological or cytological and immunological proven aggressive mature B-cell Non-Hodgkin lymphoma including Burkitt lymphoma (BL), Burkitt leukemia (B-AL), diffuse large B-cell lymphoma (DLBCL), or mature B-cell NHL not further classified according to current",
+      "endpoints": [
+        "Event-free survival (EFS)",
+        "Immune reconstitution rate (only in R3/R4 patients)"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT03206671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02752204",
+      "title": "Torch: A Phase II Study to Determine the Safety and Efficacy of the Dual mTORC Inhibitor AZD2014 and to Investigate Additional Toxicities in Combination With Rituximab in Relapsed/Refractory Diffuse Large B Cell Lymphoma (DLBCL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2020-02-06",
+      "country": "United Kingdom",
+      "enrollment": 36,
+      "brief_summary": "The aim of this clinical trial is to see if the drug called AZD2014 is effective and safe to use to treat patients with relapsed or refractory Diffuse Large BCell Lymphoma (DLBCL). The trial will also be looking at combining the antibody (Rituximab) with the drug AZD2014 in a small number of patients to see if this can be done without increasing the toxicity. 36 patients will be recruited to the trial. 30 will receive AZD2014 alone and the remaining 6 will receive AZD2014 plus rituximab. AZD2014",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Relapsed or refractory Diffuse Large B-Cell Lymphoma (DLBCL) relapsing after at least 1 course of potentially curative, anti-CD20 antibody containing regimen (e.g. RCHOP, GCHOP, RGCVP). High grade transformation from low grade lymphoma (e.g. follicular lymphoma, lymphoplasmac",
+      "endpoints": [
+        "Best overall response rate (PR plus CR) (using the Revised Response Criteria for Malignant Lymphoma ) during the first 6 cycles"
+      ],
+      "sponsor": "University of Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT02752204"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00799136",
+      "title": "Feasibility Study of CO-administering Combination Antiretroviral Therapy (cART) and R-EPOCH Chemotherapy for the Management of Acquired Immunodeficiency Syndrome (AIDS)-Related Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2013-09",
+      "country": "Canada",
+      "enrollment": 6,
+      "brief_summary": "No standard regimen currently exists for the treatment of AIDS-related lymphoma. Based on the encouraging NCI results with DA-EPOCH, the US AIDS Malignancy Consortium is currently administering a phase II randomized protocol comparing EPOCH with sequential versus concurrent rituximab (AMC protocol 034). In this AMC trial, the decision to co-administer cART is left to the discretion of the treating physician and the patient. While the AMC phase II study may establish an acceptable chemotherapy re",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. HIV seropositivity\n2. Biopsy diagnosis of a CD20+ diffuse large B-cell lymphoma or variants (including mediastinal (thymic) large B-cell lymphoma and plasmablastic lymphoma), atypical Burkit/Burkitt-like lymphoma, or Burkitt lymphoma diagnosed according to the World Health Or",
+      "endpoints": [
+        "The primary outcome for this feasibility study will be medication adherence. Acceptable adherence, defined as compliance to ≥90% of all prescribed doses of cART during the course of chemotherapy, will be measured by pill counting and patient self-report"
+      ],
+      "sponsor": "Ontario Clinical Oncology Group (OCOG)",
+      "url": "https://clinicaltrials.gov/study/NCT00799136"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02005471",
+      "title": "A Multicenter, Phase III, Open-Label, Randomized Study in Relapsed/Refractory Patients With Chronic Lymphocytic Leukemia to Evaluate the Benefit of Venetoclax (GDC-0199/ABT-199) Plus Rituximab Compared With Bendamustine Plus Rituximab",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-03-17",
+      "completion_date": "2022-08-03",
+      "country": "Spain, Russia, Sweden, Canada, Belgium, Taiwan, Hungary, Germany, Australia, South Korea, Austria, Poland, United States, France, Czechia, Italy, Denmark, United Kingdom, Netherlands, New Zealand",
+      "enrollment": 389,
+      "brief_summary": "The purpose of this open-label, multicenter, randomized, Phase III study is to evaluate the benefit of venetoclax in combination with rituximab compared with bendamustine in combination with rituximab in participants with relapsed or refractory CLL. Participants will be randomly assigned in 1:1 ratio to receive either venetoclax + rituximab (Arm A) or bendamustine + rituximab (Arm B).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of CLL per diagnostic criteria for relapsed or refractory CLL per the international workshop on chronic lymphocytic leukemia (iwCLL) guidelines\n* Previously treated with 1-3 lines of therapy (example: completed greater than or equal to \\[\\>/=\\] 2 treatment cycles per",
+      "endpoints": [
+        "Percentage of Participants With PD as Assessed by the Investigator Using Standard International Workshop on Chronic Lymphocytic Leukemia (iwCLL) Guidelines or Death",
+        "Progression-Free Survival (PFS) as Assessed by the Investigator Using Standard iwCLL Guidelines"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT02005471"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01808599",
+      "title": "A Phase II Study of Chlorambucil in Combination With Subcutaneous Rituximab Followed by Maintenance Therapy With Subcutaneous Rituximab in Patients With Extranodal Marginal Zone B-cell Lymphoma of Mucosa Associated Lymphoid Tissue (MALT Lymphoma)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2013-12",
+      "completion_date": "2028-09",
+      "country": "Switzerland, France, Italy",
+      "enrollment": 112,
+      "brief_summary": "Single arm phase II study of Chlorambucil in combination with subcutaneous Rituximab followed by maintenance therapy with subcutaneous Rituximab in patients with histologically proven diagnosis of CD20-positive marginal zone B-cell lymphoma of MALT type arisen at any extranodal site, either de novo, or relapsed following local therapy (including surgery, radiotherapy and antibiotics for H. pylori-positive gastric lymphoma).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically proven diagnosis of CD20-positive marginal zone B-cell lymphoma of MALT type either de novo, or relapsed following local therapy (including surgery, radiotherapy and antibiotics for H. pylori-positive gastric lymphoma) arisen at any extranodal site 1.1 The foll",
+      "endpoints": [
+        "Complete remission rate"
+      ],
+      "sponsor": "International Extranodal Lymphoma Study Group (IELSG)",
+      "url": "https://clinicaltrials.gov/study/NCT01808599"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00308087",
+      "title": "Randomized, Open Label, Phase II Trial Comparing Rituximab Plus Sargramostim to Rituximab Monotherapy for the Treatment of Relapsed Follicular B-cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-05",
+      "completion_date": "2009-06",
+      "country": "Puerto Rico, United States",
+      "enrollment": 75,
+      "brief_summary": "The purpose of this study is to evaluate whether treatment with rituximab plus sargramostim will be more effective than rituximab alone.",
+      "eligibility_criteria": "Inclusion Criteria (abbreviated list):\n\n* Relapsed follicular B-cell lymphoma\n* One or more previous therapies for non-Hodgkin's\n* At least one measurable tumor by CT scan or MRI\n* Additional criteria to be determined at screening visit\n\nExclusion Criteria (abbreviated list):\n\n* Rituximab refractory",
+      "endpoints": [
+        "Number of Participants With a Complete Response or Unconfirmed Complete Response at Week 8 With Confirmation at Week 12"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00308087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04566887",
+      "title": "A Phase II Study of Acalabrutinib in Combination With R-CHOP Chemotherapy in Previously Untreated Mantle Cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2021-03-01",
+      "completion_date": "2032-04-30",
+      "country": "Canada",
+      "enrollment": 105,
+      "brief_summary": "This is a multicenter, open-label, non-randomized, phase II clinical trial conducted in Canada. The purpose of the study is to determine the remission rate of acalabrutinib in combination with R-CHOP in patients with previously untreated mantle cell lymphoma prior to autologous stem cell transplantation. This study is composed of 2 cohorts, A and B. In Cohort A all patients will receive six cycles of R-CHOP chemotherapy together with continuous acalabrutinib at the standard dose twice per day or",
+      "eligibility_criteria": "Cohort A:\n\nInclusion Criteria Eligible subjects will be considered for inclusion in Cohort A of this study if they meet all of the following criteria:\n\n1. Men and women greater than or equal to 18 years of age deemed eligible for treatment with Full dose RCHOP and ASCT by the qualified investigator.",
+      "endpoints": [
+        "Complete response (CR) rate by PET/CT scan using Lugano Classification for Malignant Lymphoma - Cohort A",
+        "To evaluate FFS in patients receiving acalabrutinib + R-CHOP followed by 2 years of maintenance acalabrutinib + rituximab - Cohort B"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT04566887"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00290407",
+      "title": "Phase II Study of Rituximab Plus B-Glucan in Patients With Chronic Lymphocytic Leukemia(CLL)/Small Lymphocytic Lymphoma (SLL)",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-03",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 2,
+      "brief_summary": "The purpose of this study is to determine how well subjects respond to treatment with Rituximab plus Beta-Glucan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* definitive diagnosis of Chronic Lymphocytic Leukemia (CLL) or Small Lymphocytic Lymphoma (SLL)\n* Patients with CLL must have active, progressive, or symptomatic Rai stage II, III, or IV disease. Patients with SLL must have active, progressive or symptomatic stages II, III, IV ",
+      "endpoints": [
+        "CT Scan to Measure Clinical Effect (Response)"
+      ],
+      "sponsor": "University of Louisville",
+      "url": "https://clinicaltrials.gov/study/NCT00290407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04447716",
+      "title": "A Phase I Study of Venetoclax + Lenalidomide + Rituximab Hyaluronidase in Relapsed or Refractory (R/R) Indolent Non-Hodgkin's Lymphoma (iNHL).",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-10-16",
+      "completion_date": "2027-04",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "This phase I trial studies the side effects and best dose of venetoclax when given together with lenalidomide and rituximab hyaluronidase in treating patients with follicular lymphoma and marginal zone lymphoma that has come back after treatment (relapsed) or has not responded to treatment (refractory). Venetoclax may stop the growth of cancer cells by blocking the action of a protein called Bcl-2, that helps cancer cells survive. Immunotherapy with lenalidomide, may induce changes in body's imm",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSigned informed consent form\n\n* Ability and willingness to comply with the requirements of the study protocol\n* Able to swallow oral medications whole\n* Patients must have received at least one prior systemic therapy\n* Histologically confirmed indolent B-cell non-Hodgkin's lymph",
+      "endpoints": [
+        "Rate of dose-limiting toxicities"
+      ],
+      "sponsor": "Thomas Jefferson University",
+      "url": "https://clinicaltrials.gov/study/NCT04447716"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01703364",
+      "title": "Fludarabine/Rituximab Combined With Escalating Doses of Lenalidomide in Untreated Chronic Lymphocytic Leukemia (CLL) - a Dose-finding Study With Escalating Starting Dose of Lenalidomide and Concomitant Evaluation of Safety and Efficacy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2015-10",
+      "country": "Austria",
+      "enrollment": 12,
+      "brief_summary": "This is a trial in patients with previously untreated CLL. Eligible patients will receive Lenalidomide with a backbone of Fludarabine and Rituximab for 6 therapy cycles. Lenalidomide will be increased by dose steps of 5 mg every cycle in the absence of limiting toxicity. If limiting toxicity ensues the patients will be treated with last tolerable dose for the remainder of the 6 treatment cycles.\n\nThe first 5 patients will start with dose level 5 mg Lenalidomide and further escalating dose. After",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed written informed consent\n* Male or female ≥ 18 years of age\n* CLL (as determined by CD23+, CD5+, CD19+)\n* Treatment indication as defined by the NCI Workshop criteria (see appendix 6 and reference 10)\n* ECOG ≤ 2\n* No previous treatment of the CLL by chemotherapy, radiot",
+      "endpoints": [
+        "Tolerability of escalated starting dose"
+      ],
+      "sponsor": "Arbeitsgemeinschaft medikamentoese Tumortherapie",
+      "url": "https://clinicaltrials.gov/study/NCT01703364"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01234467",
+      "title": "A Phase II Trial of Bendamustine in Combination With Rituximab in Older Patients With Previously Untreated Diffuse Large B-cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2016-08",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "The purpose of this research study is to learn about the safety of the treatment with a combination of bendamustine and rituximab and to find out what effects, both good and bad this treatment has on DLBCL. In addition to learning about the combination of bendamustine and rituximab, the researchers are interested in learning about how this cancer treatment affects daily activities. Subjects will be asked to complete a Geriatric Assessment (GA). GAs are designed to gather information on memory, n",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with previously untreated , histologically confirmed, diffuse large B-cell lymphoma (DLBCL), immunophenotyped for CD20\n* Age greater than or equal to 65 years\n* Stage II-IV\n* Measurable disease including lesions that can be accurately measured in 2 dimensions by CT an",
+      "endpoints": [
+        "Complete Response (CR) Rate as Defined by The International Harmonization Project for Response Criteria"
+      ],
+      "sponsor": "UNC Lineberger Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01234467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06158399",
+      "title": "A Single-arm Clinical Study of Azacitidine in Combination With R-CHOP (ARCHOP) for the Treatment of TP53-mutated Previously Untreated Diffuse Large B-cell Lymphoma",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-22",
+      "completion_date": "2026-05-31",
+      "country": "China",
+      "enrollment": 52,
+      "brief_summary": "To evaluate the efficacy and adverse effects of Azacitidine in combination with R-CHOP (ARCHOP) for the treatment of TP53-mutated previously untreated Diffuse large B-cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n(1)18-70 years old; 2) New-onset TP53 mutant DLBCL; 3) ECOG 0-2; 4) LVEF \\>45%; 5) HBV-positive serology (occult carriers: anti-HBeAg +, HbsAg-, anti-HBsAg +/-) only if HBV-DNA test is negative before enrollment; (6) Liver function: serum bilirubin ≤ 2.0 × ULN, serum ALT and AST",
+      "endpoints": [
+        "Complete remission rate (CR)"
+      ],
+      "sponsor": "The First Affiliated Hospital of Xiamen University",
+      "url": "https://clinicaltrials.gov/study/NCT06158399"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06230224",
+      "title": "A Phase 3, Randomized, Open Label Study Evaluating the Efficacy and Safety of Odronextamab (REGN1979), an Anti-CD20 x Anti-CD3 Bispecific Antibody, Versus Standard of Care Therapy in Participants With Relapsed/Refractory Aggressive B-cell Non-Hodgkin Lymphoma (OLYMPIA-4)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-15",
+      "completion_date": "2027-05-14",
+      "country": "South Korea, Brazil, Singapore, Spain, Chile, Taiwan, Turkey (Türkiye), Italy, Hungary, Australia, Netherlands, Malaysia, Romania, Thailand, Colombia, Argentina",
+      "enrollment": 216,
+      "brief_summary": "This study is researching an experimental drug called odronextamab, referred to as study drug. The study is focused on patients with previously treated aggressive B-cell non-Hodgkin lymphoma whose cancer has stopped responding to treatment (also known as 'refractory') or has returned (also known as 'relapsed'). The aim of the study is to see how safe, tolerable and effective the study drug is when given alone.\n\nThe study is looking at several other research questions, including:\n\n* What side eff",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Histologically proven aggressive B-NHL, as described in the protocol. Availability of tumor tissue for submission to central laboratory is required for study enrollment. Archival tumor tissue for histological assessment prior to enrollment is allowed\n2. Have primary refra",
+      "endpoints": [
+        "Event-free survival (EFS) as assessed by independent central review (ICR)"
+      ],
+      "sponsor": "Regeneron Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT06230224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01889797",
+      "title": "Phase II Randomized Trial Comparing GA101 (Obinutuzumab) and Rituximab in Patients With Previously Untreated Low Tumor Burden Indolent Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-12",
+      "completion_date": "2016-08",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "Patients with previously untreated low tumor burden indolent Non-Hodgkin's Lymphoma (NHL) will receive either rituximab or GA101 weekly for 4 weeks followed by re-staging to determine response.\n\nRituximab, an anti-CD20 chimeric antibody, was approved by the United States Food and Drug Administration in 1998 for the treatment of patients with relapsed low-grade B-cell lymphomas. Clinically, four weekly doses of rituximab have proven to be well tolerated and effective in previously untreated as we",
+      "eligibility_criteria": "Inclusion Criteria:\n\nRegistration: Patients having both diffuse and follicular architectural elements will be considered eligible if the histology is predominantly follicular (≥ 50% of the cross-sectional area), and there is no evidence of transformation to a large cell histology.\n\n* Biopsy-proven d",
+      "endpoints": [
+        "Complete Response (CR) Rate"
+      ],
+      "sponsor": "PrECOG, LLC.",
+      "url": "https://clinicaltrials.gov/study/NCT01889797"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00521261",
+      "title": "Immune Consolidation With Allogeneic Activated T Cells Armed With OKT3 x Rituxan (Anti-CD3 x Anti-CD20) Bispecific Antibody (CD20Bi) After Allogeneic Peripheral Blood Stem Cell Transplant for High Risk CD20+ Non-Hodgkin's Lymphoma (Phase I)",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2007-10",
+      "completion_date": "2008-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "RATIONALE: Giving high doses of chemotherapy before a donor stem cell transplant helps stop the growth of cancer cells. It also stops the patient's immune system from rejecting the donor's stem cells. Colony stimulating factors, such as aldesleukin and GM-CSF, may increase the number of immune cells found in bone marrow or peripheral blood and may help the immune system recover from the side effects of chemotherapy. The donated stem cells may replace the patient's immune cells and help destroy a",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically confirmed CD20-positive non-Hodgkin lymphoma\n\n  * Relapsed, resistant, or chemorefractory disease\n* Must have an available HLA-identical sibling donor\n* No significant skin breakdown from tumor or other disease\n\nPATIENT CHARACTERISTICS:\n\n* ECOG performance ",
+      "endpoints": [
+        "Maximum tolerated dose",
+        "Time to relapse",
+        "Disease-free survival"
+      ],
+      "sponsor": "Barbara Ann Karmanos Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00521261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04623541",
+      "title": "A Phase 1b/2, Open-Label, Safety and Efficacy Study of Epcoritamab (GEN3013; DuoBody®-CD3xCD20) in Relapsed/Refractory Chronic Lymphocytic Leukemia and Richter's Syndrome",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-11-25",
+      "completion_date": "2028-04",
+      "country": "Israel, France, Spain, Czechia, Italy, Denmark, Australia, Germany, Netherlands, Poland, Belgium, United States",
+      "enrollment": 195,
+      "brief_summary": "The study is a global, multi-center safety and efficacy trial of epcoritamab, an antibody also known as EPKINLY™ and GEN3013 (DuoBody®-CD3xCD20). Epcoritamab will be tested either in\n\nRelapsed/refractory (R/R) chronic lymphocytic leukemia (CLL) as:\n\n* Monotherapy, or\n* Combination therapy:\n\n  * epcoritamab + venetoclax\n  * epcoritamab + pirtobrutinib\n\nIn Non-United States (US) Participants Only: Treatment-naïve (TN) high risk (HR) (CLL):\n\n• epcoritamab + pirtobrutinib\n\nCombination therapy for Ri",
+      "eligibility_criteria": "Key Inclusion Criteria\n\n1. Eastern Cooperative Oncology Group (ECOG) performance status score of 0, 1 or 2.\n2. Evidence of CD20 positivity in a sample representative of the disease at Screening.\n3. Acceptable hematology parameters and organ function based on baseline bloodwork.\n4. Life expectancy \\>",
+      "endpoints": [
+        "Dose Escalation Phase and Safety Run-in (R/R CLL arm): Number of Participants with Dose Limiting Toxicities (DLTs)",
+        "Dose Escalation Phase and Safety Run-in: Number of Participants with Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)",
+        "Dose Escalation Phase: Number of Participants with Cytokine Release Syndrome (CRS), Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS) and Clinical Tumor Lysis Syndrome (CTLS)"
+      ],
+      "sponsor": "Genmab",
+      "url": "https://clinicaltrials.gov/study/NCT04623541"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02054559",
+      "title": "Randomized Phase III Trial Comparing R-CHOP Alone and R-CHOP Plus Radiotherapy for Localized CD20+ Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2020-01",
+      "country": "South Korea",
+      "enrollment": 0,
+      "brief_summary": "To compare the efficacy and safety of chemotherapy alone and combined modality therapy in the treatment of localized CD20 (+) diffuse large B-cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent\n* Histologically confirmed CD20-positive Diffuse Large B-cell Lymphoma (DLBCL), NOS\n* Immunostains for CD20, CD5, CD3, CD10, MUM-1, BCL-6, BCL-2 and Ki-67 and the in situ hybridization for Epstein-Barr virus are recommended for diagnosis of DLBCL, NOS.",
+      "endpoints": [
+        "To compare 3-year event-free survival"
+      ],
+      "sponsor": "Asan Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02054559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01562990",
+      "title": "A Multi-center, Phase IB/II, Open Label, Single Arm Study of Inotuzumab Ozogamicin Plus Rituximab (R-CMC544) Alternating With Gemcitabine-oxaliplatin Plus Rituximab(R-GEMOX)in Patients Aged From 18 to 80 Years With CD20 and CD22 Positive Diffuse Large B-cell Lymphoma (DLBCL) in Relapse After/Refractory to 1ST or 2ND Line Treatment, Who Are no Candidates for Autologous Transplant.",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-12",
+      "completion_date": "2016-03",
+      "country": "Belgium, France",
+      "enrollment": 11,
+      "brief_summary": "The purpose of this study is to determine the recommended dose of CMC544 administered in combination with rituximab (R-CMC544), and in alternance with rituximab, gemcitabine and oxaliplatin (R-GEMOX) in the first phase of the study. After that, efficacy and safety of this combination will be evaluated preliminarily in patients with DLBCL in relapse or refractory, who are no candidates for autologous transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically documented CD20 and CD22 positive diffuse large B-cell lymphoma, according to WHO classification. CD20 and CD22 immunophenotyping at initial diagnosis is acceptable. If such prior documentation is not available, then the immunophenotyping at relapse must be esta",
+      "endpoints": [
+        "Determination of the Recommended Dose of R-CMC544"
+      ],
+      "sponsor": "The Lymphoma Academic Research Organisation",
+      "url": "https://clinicaltrials.gov/study/NCT01562990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03474744",
+      "title": "Copanlisib and Rituximab in Marginal Zone Lymphoma Patients (COUP-1)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-12-15",
+      "completion_date": "2027-12-31",
+      "country": "Germany, Austria",
+      "enrollment": 36,
+      "brief_summary": "For marginal zone lymphoma (MZL) Rituximab in combination with conventional chemotherapy is widely used for those patients who fail local therapy or do not qualify for such. Depending on the MZL subtype Rituximab/chemotherapy is able to induce in part long remissions, but do not prevent relapse later on. In addition, chemotherapy associated toxicity is often problematic in MZL patients, who are mostly of advanced age. Thus, chemotherapy - free approaches are highly attractive for this patient gr",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients must meet all of the following inclusion criteria to be eligible for participation in this study:\n\n* Confirmed CD20 positive MALT Lymphoma de novo or relapsed following or being not eligible for local therapy (including surgery, radiotherapy) and antibiotics for H. pylo",
+      "endpoints": [
+        "Complete Response"
+      ],
+      "sponsor": "University of Ulm",
+      "url": "https://clinicaltrials.gov/study/NCT03474744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02657447",
+      "title": "A Phase 1, Open Label, Randomized Study to Assess Pharmacokinetics, Biodistribution and Radiation Dosimetry of Lutetium (177Lu) Lilotomab Satetraxetan (Betalutin®) Radioimmunotherapy in Patients With Relapsed Non-Hodgkin Lymphoma",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2017-12-19",
+      "completion_date": "2020-09",
+      "country": "Germany",
+      "enrollment": 0,
+      "brief_summary": "This study is a phase I, open label, randomized study to assess pharmacokinetics, biodistribution and radiation dosimetry of lutetium (177Lu) lilotomab satetraxetan (Betalutin®) radioimmunotherapy in patients with relapsed non-Hodgkin lymphoma. The study will also investigate the safety, toxicity and efficacy of Betalutin and pre-dosing.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed (by WHO classification) relapsed indolent non-Hodgkin B-cell lymphoma of following subtypes: Follicular lymphoma (follicular grade I-IIIA), Marginal zone lymphoma (exclusion of MZL if large lymphocytes \\> 50%), Small lymphocytic lymphoma, Lymphoplasma",
+      "endpoints": [
+        "Dosimetry"
+      ],
+      "sponsor": "Nordic Nanovector",
+      "url": "https://clinicaltrials.gov/study/NCT02657447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04279938",
+      "title": "A Phase Ib Combination Study of Rituximab, TinostamustinEAnd CHeckpoint Inhibition With Pembrolizumab in Relapsed/Refractory DLBCL - REACH",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "2018-09",
+      "completion_date": "2021-01",
+      "country": "United Kingdom",
+      "enrollment": 0,
+      "brief_summary": "Safety run-in (part 1): Relapsed or refractory B-cell Non-Hodgkin lymphoma (NHL)\n\nMain study (part 2): Relapsed or refractory diffuse large B-cell lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically proven CD20+ DLBCL (including transformed lymphoma)\n* Previous treatment with at least 1 line of standard therapy\n* Age 18 or over\n* ECOG performance status 0/1 Measurable disease on cross-sectional imaging that is at least 1.5 cm in the longest diameter and mea",
+      "endpoints": [
+        "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0"
+      ],
+      "sponsor": "Royal Marsden NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT04279938"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03777085",
+      "title": "Multicenter, Randomized, Double-blind, Parallel Controlled, Phase III Clinical Study to Compare the Efficacy and Safety of TQB2303 in Conbination With CHOP Regimen (T-CHOP) Versus Rituximab in Combination With CHOP Regimen (R-CHOP) in Previously Untreated Subjects With CD20-Positive Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-01-10",
+      "completion_date": "2020-12-30",
+      "country": "China",
+      "enrollment": 230,
+      "brief_summary": "The Purpose of This Study is to Compare the Efficacy, Safety, Immunogenicity and Pharmacokinetics between TQB2303 and Rituximab in Combination With CHOP in Previously Untreated Patients with Diffuse Large B-cell Lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Untreated CD20-positive DLBCL patients confirmed by histopathology or cytology.\n2. 18 years to 75 years; Male or female patients.\n3. International Prognostic Index (IPI) score of 0 to 2.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 2.\n5. More than 6",
+      "endpoints": [
+        "Overall response rate (ORR)"
+      ],
+      "sponsor": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03777085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00517049",
+      "title": "A Phase II, Single-Arm, Open-Label Study of the Safety, Pharmacokinetics, and Efficacy of Multiple Doses of PRO95780 Administered Intravenously in Combination With Rituximab in Patients With Follicular, CD20-Positive B-Cell Non-Hodgkin's Lymphoma That Has Progressed Following Previous Rituximab Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2009-12",
+      "country": "N/A",
+      "enrollment": 49,
+      "brief_summary": "This Phase II, single-arm, open-label, multicenter trial is designed to evaluate the safety, efficacy, and pharmacokinetics of PRO95780 when combined with rituximab in patients with follicular, CD20-positive B-cell NHL that has progressed following previous rituximab therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form\n* Age ≥ 18 years\n* Diagnosis of follicular, CD20-positive B-cell NHL\n* Progression of disease after an objective response or stable disease lasting \\> 6 months following completion of the most recent rituximab-containing regimen\n* Measurable diseas",
+      "endpoints": [
+        "Objective response, as determined by independent review facility"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00517049"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02933320",
+      "title": "A Cancer Research UK Phase I/IIa Clinical Trial of BI-1206; an Antibody to FcƔRIIB (CD32b), as a Single Agent and in Combination With an Anti-CD20 Antibody in Patients With CD32b Positive B-cell Malignancy",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-10-27",
+      "completion_date": "2020-03-19",
+      "country": "United Kingdom",
+      "enrollment": 14,
+      "brief_summary": "The purpose of this trial is to identify the tolerable dose of BI-1206 (both alone and in combination) for patients with B-cell lymphoma and leukaemia and further evaluate BI-1206 alone and in combination with an anti-CD20 antibody.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written (signed and dated) informed consent and be capable of co-operating with treatment and follow-up.\n2. B-cell lymphoma or CLL proven by histology or flow cytometry, relapsed or refractory to conventional treatment, or for which no conventional therapy exists or is declin",
+      "endpoints": [
+        "Documenting Adverse Events (AEs), Serious Adverse Events (SAEs), Dose Limiting Toxicities (DLTs) (Graded According to NCI-CTCAE Version 4.02) and Laboratory Parameters and Determining Their Causality in Relation to BI-1206.",
+        "Documenting AEs, SAEs (Graded According to NCI-CTCAE Version 4.02) and Laboratory Parameters and Determining Their Causality in Relation to BI-1206 and, Where Appropriate, Anti-CD20 Antibody."
+      ],
+      "sponsor": "Cancer Research UK",
+      "url": "https://clinicaltrials.gov/study/NCT02933320"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00312845",
+      "title": "A Randomized, Open-Label, Multicenter Study of VELCADE With Rituximab or Rituximab Alone in Subjects With Relapsed or Refractory, Rituximab Naive or Sensitive Follicular B-cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2010-07",
+      "country": "Brazil, Spain, Mexico, Puerto Rico, Russia, Canada, Sweden, Belgium, India, Hungary, Slovakia, Germany, Australia, Portugal, Romania, Thailand, Israel, South Korea, Finland, South Africa, Greece, Ukraine, Poland, Argentina, United States, France, Czechia, Italy, China, United Kingdom, Cyprus, New Zealand",
+      "enrollment": 676,
+      "brief_summary": "The purpose of this study is to determine if the combination of VELCADE and rituximab improves progression free survival relative to rituximab alone in patients with relapsed or refractory B-cell non-Hodgkin's lymphoma (B-NHL) who never received rituximab or who have previously responded to rituximab. This is an international study being conducted in the United States and in many countries around the world. A complete list of study locations is listed below.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must satisfy the following criteria to be enrolled in the study:\n\n* Man or woman and age 18 years or older\n* Diagnosis of follicular B-NHL of the following subtypes (World Health Organization \\[WHO\\] classification 1997): follicular lymphoma (FL) (Grades 1 and 2).\n* Doc",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Millennium Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00312845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01538641",
+      "title": "Phase II Evaluation Of GROC (Gemcitabine- Rituximab-Oxaliplatin Combination) Given Every 14 Days For The Treatment Of Patients With Relapsed Or Refractory Aggressive Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-10",
+      "completion_date": "2008-12",
+      "country": "N/A",
+      "enrollment": 43,
+      "brief_summary": "Study Proposal:\n\nOther drugs where synergy with Gemcitabine has been observed are Cisplatinum, Taxol, Taxotere, Etoposide and alkylating agents. However in view of Oxaliplatin's superior activity as a single agent against lymphoma, the combination of Gemcitabine with Oxaliplatin is more attractive and should be explored in this group of disorders. Based on these data and considering the advantage of its favorable toxicity profile, we propose a phase II study in patients with either refractory or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with refractory or relapsed aggressive non-Hodgkin's Lymphoma. The definition of refractory includes patients who either did not respond to prior therapy or those whose best response was a PR after at least 4 courses of chemotherapy. Aggressive histologies include fol",
+      "endpoints": [
+        "The response rate of the combination of Gemcitabine-Oxaliplatin-Rituximab."
+      ],
+      "sponsor": "Auxilio Mutuo Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01538641"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00086203",
+      "title": "Study of Talabostat and Rituximab in Advanced Chronic Lymphocytic Leukemia (CLL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2007-09",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "The objective of this study is to assess the efficacy and safety of talabostat and rituximab in patients with advanced CLL who failed to respond, or have progressed following a prior response, to a fludarabine regimen.",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n* Men or women ≥18 years of age\n* Histopathologically confirmed diagnosis of B-CLL expressing surface CD20 of any detectable intensity\n* Rai Stage III or IV. Rai Stages I and II with massive or progressive lymphadenopathy or hepatosplenomegaly.\n* Primary resistance to a fludarab",
+      "endpoints": [],
+      "sponsor": "FDA Office of Orphan Products Development",
+      "url": "https://clinicaltrials.gov/study/NCT00086203"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06005870",
+      "title": "Zanubrutinib Combined With Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone in the Treatment of Newly Diagnosed Diffuse Large B-cell Lymphoma With p53 Protein Expression",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2022-11-26",
+      "completion_date": "2026-12",
+      "country": "China",
+      "enrollment": 41,
+      "brief_summary": "This study aim to evaluate the efficacy and safety of zanubrutinib combined with R-CHOP in the treatment of DLBCL patients with p53 protein expression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years, ≤ 75 years, both sexes;\n2. Diff use large B-cell lymphoma diagnosed by histopathology without previous systemic DLBCL treatment;\n3. ECOG score: 0-2;\n4. Predicted survival ≥3 months;\n5. Patients with positive p53 expression detected by immunohistochemistry (≥50%",
+      "endpoints": [
+        "Complete response rate (CRR)"
+      ],
+      "sponsor": "Huazhong University of Science and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT06005870"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00107380",
+      "title": "Iodine-131-Labeled Monoclonal Anti-B1 Antibody (I-131 Tositumomab) in Combination With Cyclophosphamide, Doxorubicin, Vincristine, Prednisone and Rituximab Therapy for Patients ≥ Age 60 With Advanced Stage Diffuse Large B-Cell NHL: A Phase II Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2015-12",
+      "country": "United States",
+      "enrollment": 86,
+      "brief_summary": "RATIONALE: Radiolabeled monoclonal antibodies, such as iodine I 131 tositumomab, can find cancer cells and carry cancer-killing substances to them without harming normal cells. Monoclonal antibodies, such as rituximab, can block cancer growth in different ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells and help kill them or carry cancer-killing substances to them. Drugs used in chemotherapy, such as cyclophosphamide, doxorubicin, vincristine, and prednis",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of diffuse large B-cell non-Hodgkin's lymphoma, meeting 1 of the following stage criteria:\n\n  * Bulky stage II disease\n  * Stage III disease\n  * Stage IV disease\n* Confirmed cluster of differentiation antigen 20 (CD20) antigen-positive disease\n* Bidimensionally ",
+      "endpoints": [
+        "Progression-free Survival (PFS) at 2 Years",
+        "Response Rate (Complete, Complete Unconfirmed, and Partial)"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00107380"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03391466",
+      "title": "A Phase 3, Randomized, Open-Label Study Evaluating the Efficacy of Axicabtagene Ciloleucel Versus Standard of Care Therapy in Subjects With Relapsed/Refractory Diffuse Large B Cell Lymphoma (ZUMA-7)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-01-25",
+      "completion_date": "2024-11-25",
+      "country": "Israel, France, Spain, Sweden, Switzerland, Austria, Italy, Germany, Australia, United Kingdom, Netherlands, Canada, Belgium, United States",
+      "enrollment": 359,
+      "brief_summary": "The goal of this clinical study is to assess whether axicabtagene ciloleucel therapy improves the clinical outcome compared with standard of care second-line therapy in participants with relapsed/refractory diffuse large B-cell lymphoma (DLBCL).",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Histologically proven large B-cell lymphoma (BCL) including the following types defined by World Health Organization (WHO) 2016.\n\n  * Diffuse large B-cell lymphoma (DLBCL) not otherwise specified activated B-cell/ germinal center B-cell (ABC/GCB).\n  * High-grade B-cell lym",
+      "endpoints": [
+        "Event Free Survival (EFS) Per Blinded Central Assessment"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT03391466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03749018",
+      "title": "A Phase II Study of Nivolumab in Combination With DA-REPOCH Followed by Short Course Nivolumab Consolidation in Patients With Aggressive B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-01-02",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "This phase II trial studies how well nivolumab works with the DA-REPOCH chemotherapy regimen in treating patients with aggressive B-cell non-Hodgkin lymphoma. Immunotherapy with monoclonal antibodies, such as nivolumab, may help the body?s immune system attack the cancer, and may interfere with the ability of cancer cells to grow and spread. Drugs used in chemotherapy, such as dose-adjusted rituximab, etoposide, prednisone, vincristine sulfate, cyclophosphamide, and doxorubicin hydrochloride (DA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be willing and able to provide written informed consent/assent for the trial.\n* Measurable disease (defined as \\>= 1.5 cm in diameter) or at least one PET avid area of disease.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n* Absolute neutrophil count (",
+      "endpoints": [
+        "Progression-free survival (PFS)"
+      ],
+      "sponsor": "Ohio State University Comprehensive Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT03749018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00695786",
+      "title": "A Phase II Study of Revlimid in Combination With Rituximab as Initial Treatment for Patients With Indolent Non-Hodgkin's Lymphoma (NHL)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-06-10",
+      "completion_date": "2020-07-11",
+      "country": "United States",
+      "enrollment": 156,
+      "brief_summary": "This phase II trial studies how well lenalidomide works in combination with rituximab in treating participants with stage III-IV non-Hodgkin lymphoma that is growing slowly. Lenalidomide is designed to change the body's immune system. It may also interfere with the development of tiny blood vessels that help support tumor growth, which may prevent the growth of cancer cells. Monoclonal antibodies, such as rituximab, may interfere with the ability of cancer cells to grow and spread. Giving lenali",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Understand and voluntarily sign an informed consent form.\n2. Age \\>/= 18 at the time of signing the informed consent form.\n3. Able to adhere to the study visit schedule and other protocol requirements.\n4. Untreated indolent non-Hodgkin's lymphoma stage III-IV including small ",
+      "endpoints": [
+        "Number of Participants With Best Overall Disease Response"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00695786"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00496873",
+      "title": "A Single-Center, Open-Label Study to Evaluate the Safety and Efficacy of Nipent, Cytoxan, and Rituxan (\"PCR\") in the Treatment of Previously Untreated and Treated, Stage III or IV, Low-Grade B-Cell Non-Hodgkin's Lymphoma or Bulky Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-06",
+      "completion_date": "2014-12",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The goal of the clinical research study is to learn if treatment with a combination of three drugs, Cytoxan (cyclophosphamide), Rituxan (rituximab) and Nipent (pentostatin), will help to control the disease in patients with previously untreated non-Hodgkin's lymphoma, CLL, or bulky lymphoma. The safety of this treatment will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically or cytologically proven, stage III or IV, low-grade B-cell NHL, as defined by the updated WHO modification of the REAL classification for peripheral B-cell neoplasms: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma; Lymphoplasmacytic lymphoma/imm",
+      "endpoints": [
+        "Participant Response Rate According to the International Working Group (IWG) Response Criteria for Non Hodgkin's Lymphoma (NHL), Cheson 1999",
+        "Number of Participants With Complete Response (CR)/Complete Response Unconfirmed (CRu) With Low-grade Lymphoma (N=83) After 6-9 Cycles of PCR Therapy"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00496873"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04361279",
+      "title": "A Phase III, Multicenter, Randomized, Double-blind Study Comparing the Efficacy and Safety of SIBP-02 (Rituximab Biosimilar) and Rituximab Combination With CHOP in Previously Untreated Subjects With CD20+ DLBCL",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-07-25",
+      "completion_date": "2022-05-20",
+      "country": "China",
+      "enrollment": 421,
+      "brief_summary": "This is a randomised, double-blind, positive drug parallel controlled equivalence clinical trial initiated at about 30 sites in China.\n\nIn the trial, it is planned to enroll 414 subjects, randomized to two treatment groups in a ratio of 1:1 to receive the test drug and the positive control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18-75 years old, male or female;\n* Patients diagnosed as CD20-positive diffuse large B-cell lymphoma after histopathological or cytological examination and untreated;\n* ECOG score ≤ 2 when enrolled;\n* Echocardiography measured LVEF ≥ 50%;\n* The laboratory indicators during the",
+      "endpoints": [
+        "Overall Response Rate (ORR)"
+      ],
+      "sponsor": "Shanghai Institute Of Biological Products",
+      "url": "https://clinicaltrials.gov/study/NCT04361279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00031642",
+      "title": "Phase I/II Study of IDEC-Y2B8 (Zevalin) for Post Transplant Relapses of B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2002-01-01",
+      "completion_date": "2008-03-01",
+      "country": "United States",
+      "enrollment": 26,
+      "brief_summary": "RATIONALE: Monoclonal antibodies such as rituximab can locate cancer cells and deliver cancer-killing substances to them without harming normal cells. Radiolabeled monoclonal antibodies can locate and deliver radioactive cancer-killing substances.\n\nPURPOSE: Phase I/II trial to study the effectiveness of combining radiolabeled monoclonal antibodies with rituximab in treating patients who have non-Hodgkin's lymphoma that has not responded to high-dose chemotherapy and autologous stem cell transpla",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of relapsed B-cell non-Hodgkin's lymphoma (NHL) after high-dose chemotherapy and autologous stem cell transplantation\n* Less than 25% bone marrow involvement with NHL as evidenced by unilateral or bilateral biopsy within the past 6 weeks\n\n  o Bone marrow biopsy shoul",
+      "endpoints": [
+        "Maximum tolerated dose",
+        "Safety and efficacy"
+      ],
+      "sponsor": "University of Nebraska",
+      "url": "https://clinicaltrials.gov/study/NCT00031642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04212013",
+      "title": "A Multicenter, Randomized, Double-blind, Placebo-controlled, Phase III Study of Ibrutinib in Combination With Rituximab in Subjects With Treatment Naïve Marginal Zone Lymphoma",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-12-23",
+      "completion_date": "2027-03-18",
+      "country": "United States",
+      "enrollment": 23,
+      "brief_summary": "The purpose of this study is to see if the combination of rituximab and ibrutinib can help people with marginal zone lymphoma who have not received treatment in the past. The study will also compare the combination of rituximab and ibrutinib with the combination of rituximab and placebo to see which combination works better.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically documented marginal zone lymphoma, including splenic, nodal, and extranodal sub-types at the enrolling institution.\n* No prior systemic therapy for MZL with the exception of the following:\n\n  * Prior antibiotic therapy for H. pylori, C. psittaci, and B. burgdorf",
+      "endpoints": [
+        "complete response"
+      ],
+      "sponsor": "Memorial Sloan Kettering Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT04212013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00077961",
+      "title": "Phase I/II Study of Rituximab Plus CAMPATH in Patients With Previously Treated Relapsed or Refractory Low-Grade Follicular, CD20-positive, B-cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2003-12",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "The purpose of this study is to determine the optimal dose of subcutaneous CAMPATH when used in combination with rituximab for patients with relapsing or refractory, low-grade or follicular, CD-20-positive, B-Cell non-Hodgkin's Lymphoma. Safety will be the primary objective of phase I, while the primary objective of phase II will be to determine overall response.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For the Phase I portion of the study, patients must have pathologically confirmed diagnosis of low-grade or follicular, CD20-positive, B-cell, non-Hodgkin's lymphoma that has relapsed or is refractory. For the Phase II portion of the study, patients must have a pathologically ",
+      "endpoints": [],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00077961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03492125",
+      "title": "A Phase I/II Dose-Escalation and Expansion Study of the Selective PKC-β Inhibitor MS-553 in Patients With Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2018-05-25",
+      "completion_date": "2023-11-28",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "A Phase I/II Dose-Escalation and Expansion Study Of The Selective PKC-Β Inhibitor MS-553 In Patients With Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\nTo be eligible for inclusion in the primary escalation and expansion cohort 1 in this study, patients must meet all of the following criteria:\n\n1. Age 18 years or older\n2. Diagnosis of chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL):\n\n   1. History of hist",
+      "endpoints": [
+        "The Incidence Rate of DLT and TEAE Requiring Study Drug Discontinuation"
+      ],
+      "sponsor": "MingSight Pharmaceuticals, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT03492125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00274989",
+      "title": "Multicentre Phase II Trial of Bendamustine in Combination With Rituximab for Patients With Previously Untreated or Relapsed Chronic Lymphocytic Leukemia. CLL2M Protocol of the German CLL-Study Group (GCLLSG)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2011-03",
+      "country": "Germany",
+      "enrollment": 195,
+      "brief_summary": "CLL2M is a phase 2, multicenter, open label study to investigate the possible therapeutic benefits of using bendamustine in combination with rituximab for the treatment of patients with previously untreated or relapsed CLL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Diagnosis of B-CLL in need of treatment\n\n  * Previously untreated Binet stage C or Binet B with need of treatment according to NCI-criteria\n  * Relapsed or refractory disease after at least one but not more than 3 prior regimens. Patients who previou",
+      "endpoints": [
+        "Overall response rate"
+      ],
+      "sponsor": "German CLL Study Group",
+      "url": "https://clinicaltrials.gov/study/NCT00274989"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04980859",
+      "title": "A Phase III, Single-arm Clinical Trial of Zebutinib Combined With Immunochemotherapy With Limited Course of Treatment for Newly Treated Chronic Lymphocytic Leukemia Patients Without 17p-",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-01",
+      "completion_date": "2025-09-01",
+      "country": "N/A",
+      "enrollment": 45,
+      "brief_summary": "To investigate limited course of treatment of Zebutinib combined with immunochemotherapy for patients with newly treated chronic lymphocytic leukemia without 17p-/TP53 mutation",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CLL patients with indications for treatment according to iwCLL;\n* CT/MRI shows measurable lesions;\n* ECOG score is 0-2;\n* No pregnancy plans during treatment\n\nExclusion Criteria:\n\n* Richter transformation;\n* 17p-/TP53 amplification ≥20% (FISH);\n* Received steroids within 7 day",
+      "endpoints": [
+        "MRD conversion rate (minimal residual disease conversion rate)"
+      ],
+      "sponsor": "Nanfang Hospital, Southern Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT04980859"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05498259",
+      "title": "A Phase 2 Study of Orelabrutinib With R-CHOP-like Regimen for Patients With Newly Diagnosed Untreated Non-GCB DLBCL",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-07-27",
+      "completion_date": "2025-01-01",
+      "country": "China",
+      "enrollment": 46,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of orelabrutinib combined with rituximab，followed by orelabrutinib combined with R-CHOP-like regimen for newly diagnosed untreated Non-GCB DLBCL Patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed Non-GCB DLBCL\n2. Age ≥18 and ≤70 years\n3. At least one measurable lesion，measurable lymph nodes or masses of at least 15 millimeter (mm)\n4. ECOG performance status 0-2\n5. Lymphoma International Prognostic Score (IPI) ≥ 2\n6. Life expectancy ≥ 6 months\n",
+      "endpoints": [
+        "Complete Response Rate"
+      ],
+      "sponsor": "The First Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT05498259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01611259",
+      "title": "Phase II Trial of Rituximab Plus Lenalidomide in Patients With Lymphoma of the Mucosa Associated Lymphoid Tissue (MALT) Type",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2015-02",
+      "country": "Austria",
+      "enrollment": 50,
+      "brief_summary": "This is an open label, phase II study to evaluate the capacity of Rituximab (Mabthera®) plus Lenalidomide (Revlimid®) to induce objective responses in patients with Mucosa Associated Lymphoid Tissue (MALT) lymphoma presenting with measurable disease.",
+      "eligibility_criteria": "Inclusion Criteria selected:\n\n* Histologically verified diagnosis if MALT lymphoma of any localization\n* Measurable disease upon diagnosis or first or greater relapse after local therapy, prior chemotherapy orHP-eradication. In addition, also in patients with gastric MALT-lymphoma judged refractory ",
+      "endpoints": [
+        "Objective Responses in Patients With MALT Lymphoma Presenting With Measureable Disease"
+      ],
+      "sponsor": "Arbeitsgemeinschaft medikamentoese Tumortherapie",
+      "url": "https://clinicaltrials.gov/study/NCT01611259"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00799773",
+      "title": "STAR - Study of TTP and Rituximab, A Randomized Clinical Trial",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-04",
+      "completion_date": "2010-02",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "Thrombotic thrombocytopenic purpura (TTP) is a rare disorder that causes blood clots to form in blood vessels. The main treatment for TTP is plasma exchange, in which affected patients receive transfusions of plasma, the liquid part of blood, from healthy donors. This study will examine the effectiveness of an antibody, rituximab, in combination with plasma exchange, at improving the immune response in people with TTP and decreasing the recurrence of TTP.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Differential or admission diagnosis of TTP-like syndrome, defined as the following:\n\n  1. Platelet count of less than 80,000/µL for newly diagnosed patients and less than 120,000/µL for relapsed patients\n  2. Microangiopathic hemolytic anemia (MHA) with red blood cell fragment",
+      "endpoints": [
+        "Role of Rituximab in Increasing Early Treatment Response in Participants With TTP Who Are Also Treated With Plasma Exchange and Corticosteroids"
+      ],
+      "sponsor": "Carelon Research",
+      "url": "https://clinicaltrials.gov/study/NCT00799773"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00455897",
+      "title": "Phase II Trial of CHOP-Rituximab Augmented With Granulocyte-Macrophage Colony Stimulating Factor (GM-CSF) in Patients With Previously Untreated Diffuse Large B Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-12",
+      "completion_date": "2011-07",
+      "country": "United States",
+      "enrollment": 3,
+      "brief_summary": "The primary goal of this study is to determine the effects (good and bad) of Granulocyte-macrophage colony stimulating factor (GM-CSF) in combination with Cytoxan, Adriamycin, Vincristine, Prednisone, Rituximab (CHOP-R) on diffuse Large B cell Non-Hodgkin's lymphoma (DLBCL). The standard of care for DLBCL is the combination of drugs known as CHOP-Rituximab (CHOP-R). The drugs that make up CHOP-R are the chemotherapy drugs cyclophosphamide, doxorubicin and vincristine, prednisone and rituximab. G",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed diagnosis of diffuse large B cell Non-Hodgkin's lymphoma with characteristic immunophenotypic profile\n* Patient has not received any prior anti-cancer therapy for lymphoma\n* Tumor tissue confirmed to express the cluster of differentiation antigen 20 an",
+      "endpoints": [
+        "To determine the safety of GM-CSF when administered in combination with CHOP-R to patients with previously untreated diffuse large B cell non-Hodgkin's lymphoma."
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00455897"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04680052",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of Tafasitamab Plus Lenalidomide in Addition to Rituximab Versus Lenalidomide in Addition to Rituximab in Patients With Relapsed/Refractory (R/R) Follicular Lymphoma Grade 1 to 3a or R/R Marginal Zone Lymphoma",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2021-04-15",
+      "completion_date": "2028-08-09",
+      "country": "Spain, Switzerland, Russia, Canada, Sweden, Belgium, Norway, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Israel, South Korea, Finland, Greece, Austria, Ukraine, Ireland, Poland, Japan, United States, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 654,
+      "brief_summary": "This is a Phase 3 double-blind, placebo-controlled, randomized study designed to investigate whether tafasitamab and lenalidomide as an add-on to rituximab provides improved clinical benefit compared with lenalidomide as an add-on to rituximab in patients with R/R FL Grade 1 to 3a or R/R MZL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed Grade 1, 2, or 3a FL or nodal MZL, splenic MZL, or extra nodal MZL\n* Willingness to avoid pregnancy or fathering children\n* In the opinion of the investigator, be able and willing to receive adequate mandatory prophylaxis and/or therapy for thromboembo",
+      "endpoints": [
+        "FL Population: Progression-free Survival (PFS) by Investigator Assessment, Using the Lugano 2014 Criteria, Defined as the Time From Randomization to the First Documented Disease Progression (PD), or Death From Any Cause, Whichever Occurred First",
+        "FL Population: Kaplan-Meier Estimates of PFS by Investigator Assessment, Using the Lugano 2014 Criteria, Defined as the Time From Randomization to the First Documented PD, or Death From Any Cause, Whichever Occurred First"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT04680052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02158091",
+      "title": "A Phase 1b/2 Study of IPI-145 in Combination With Fludarabine, Cyclophosphamide, and Rituximab (iFCR) in Previously Untreated, Younger Patients With Chronic Lymphocytic Leukemia.",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-06-27",
+      "completion_date": "2026-07",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "This research study is evaluating a new drug called IPI-145 in combination with the standard drugs fludarabine, cyclophosphamide, and rituximab (FCR), as a possible treatment for chronic lymphocytic leukemia (CLL).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* confirmed diagnosis of CLL and an indication for treatment as per IW-CLL 2008 criteria\n* no prior therapy for CLL\n* age 18-65 -- ECOG performance status ≤1\n\nExclusion Criteria:\n\n* May not be receiving any other study agents\n* Known CNS involvement\n* Uncontrolled intercurrent i",
+      "endpoints": [
+        "Number of Patients Who Experienced a Dose Limiting Toxicity (DLT) During Phase I",
+        "Number of Patients Who Had a Minimal Residual Disease (MRD) Negative Complete Response (CR) 2 Months After Chemotherapy"
+      ],
+      "sponsor": "Dana-Farber Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT02158091"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05171647",
+      "title": "A Randomized, Open-Label, Multicenter Phase III Study Evaluating Efficacy and Safety of Mosunetuzumab in Combination With Polatuzumab Vedotin in Comparison With Rituximab in Combination With Gemcitabine Plus Oxaliplatin in Participants With Relapsed or Refractory Aggressive B-Cell Non-Hodgkin's Lymphoma",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2022-04-25",
+      "completion_date": "2027-02-28",
+      "country": "Israel, South Korea, Brazil, Mexico, Turkey (Türkiye), China, Peru, Thailand, Canada, Argentina, Japan, New Zealand, United States",
+      "enrollment": 208,
+      "brief_summary": "This study will assess the efficacy and safety of mosunetuzumab in combination with polatuzumab vedotin (M+P) in participants with relapsed or refractory (R/R) diffuse-large B-cell lymphoma (DLBCL), high-grade B-cell lymphoma, transformed follicular lymphoma (trFL) and FL Grade 3B (FL3B) in comparison with a commonly used regimen in this participant population, rituximab, gemcitabine and oxaliplatin (R-GemOx).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2\n* CD20+ aggressive lymphoma as determined by the local hemopathology laboratory from the following diagnoses by 2016 World Health Organization classification of lymphoid neoplasms: DLBCL, not otherwise ",
+      "endpoints": [
+        "Progression-free survival (PFS)",
+        "Objective response rate (ORR) as determined by an independent review facility (IRF)"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT05171647"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01671904",
+      "title": "A Phase IB, Open-Label Study Evaluating the Safety and Pharmacokinetics of Venetoclax (GDC-0199, ABT-199) in Combination With Bendamustine+Rituximab (BR) or Bendamustine+Obinutuzumab (BG) in Patients With Relapsed/Refractory or Previously Untreated Chronic Lymphocytic Leukemia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-01-13",
+      "completion_date": "2020-08-11",
+      "country": "Germany, France, United States",
+      "enrollment": 84,
+      "brief_summary": "This multi-center, open-label, dose-finding study will evaluate the safety and pharmacokinetics of venetoclax (GDC-0199, ABT-199) administered in combination with bendamustine and rituximab (BR) (MabThera/Rituxan) or bendamustine and obinutuzumab (BG) to participants with first-line (1L)/previously untreated or relapsed/refractory (R/R) chronic lymphocytic leukemia (CLL). The study will explore two venetoclax combination regimens in participants with 1L CLL: BR+venetolax (V) and BG+V. Participan",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of relapsing/refractory or previously untreated CLL\n* Eastern Cooperative Oncology Group (ECOG) performance score of less than equal to (\\</=) 1\n* Adequate bone marrow function\n* Adequate coagulation, renal and hepatic function\n* Hematological values within the limit",
+      "endpoints": [
+        "Number of Participants With Dose Limiting Toxicities (DLTs)"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01671904"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04263584",
+      "title": "A Prospective Multicenter Phase 2 Study of Copanlisib in Combination With Rituximab and CHOP Chemotherapy (COPA-R-CHOP) in Patients With Previously Untreated Diffuse Large B-cell Lymphoma (DLBCL)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2020-06-19",
+      "completion_date": "2025-04",
+      "country": "Germany",
+      "enrollment": 62,
+      "brief_summary": "This is a prospective, multicenter, non-randomized, open-label, phase II study to describe the efficacy of R-CHOP plus copanlisib including a safety run-in phase in order to detect early and common unexpected toxicities caused by the addition of copanlisib to the standard immuno-chemotherapy R-CHOP in patients with diffuse large B-cell lymphoma (DLBCL)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed\n\n   1. DLBCL (NOS) or\n   2. High-grade B-cell lymphoma with MYC and BCL2 and/or BCL6 rearrangements or\n   3. High-grade B-cell lymphoma (NOS)\n   4. Follicular lymphoma Grade 3B (primary diagnosis without history of indolent lymphoma) with a diagnostic",
+      "endpoints": [
+        "2-year progression-free survival"
+      ],
+      "sponsor": "University Hospital Muenster",
+      "url": "https://clinicaltrials.gov/study/NCT04263584"
+    }
+  ],
+  "timestamp": "2026-03-04T16:24:11.576921",
+  "success": true,
+  "error_message": null
+}

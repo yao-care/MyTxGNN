@@ -1,0 +1,70 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Loratadine",
+    "disease": "vasomotor rhinitis",
+    "query_string": "Loratadine AND vasomotor rhinitis"
+  },
+  "data": {
+    "query": "Loratadine AND vasomotor rhinitis",
+    "results": [
+      {
+        "pmid": "17376024",
+        "title": "Review of azelastine nasal spray in the treatment of allergic and non-allergic rhinitis.",
+        "abstract": "Azelastine is a potent H(1)-antihistamine, which is available as a topical nasal spray and indicated for both seasonal allergic and non-allergic vasomotor rhinitis. In addition to its antihistaminic effects, it has also been shown to have a number of other potentially important attributes, including effects on cytokines, adhesion molecules and inflammatory cells. Azelastine nasal spray has been shown to benefit patients who have not responded adequately to loratadine and fexofenadine, and is significantly more efficacious than cetirizine and levocabastine in patients with seasonal allergic rhinitis. Given its unique pharmacologic properties and clinical profile, azelastine maintains an important role in the treatment of chronic rhinitis.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2007",
+        "authors": [
+          "Lee Christina",
+          "Corren Jonathan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Intranasal",
+          "Animals",
+          "Anti-Allergic Agents",
+          "Biological Availability",
+          "Humans",
+          "Phthalazines",
+          "Randomized Controlled Trials as Topic",
+          "Rhinitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17376024/"
+      },
+      {
+        "pmid": "28005035",
+        "title": "[Acute respiratory viral infections: Topical issues of diagnosis, prevention and treatment in therapeutic practice].",
+        "abstract": "to assess the efficacy and safety of the medication Grippferon with loratadine for the prevention of acute respiratory viral infections (ARVI) and influenza during the epidemics.",
+        "journal": "Terapevticheskii arkhiv",
+        "year": "2016",
+        "authors": [
+          "Trukhan D I",
+          "Mazurov A L",
+          "Rechapova L A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adult",
+          "Antiviral Agents",
+          "Common Cold",
+          "Female",
+          "Humans",
+          "Influenza, Human",
+          "Male",
+          "Respiratory Tract Infections",
+          "Seasons"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28005035/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:49:46.948812",
+  "success": true,
+  "error_message": null
+}

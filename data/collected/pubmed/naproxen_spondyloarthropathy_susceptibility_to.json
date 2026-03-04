@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Naproxen",
+    "disease": "spondyloarthropathy, susceptibility to",
+    "query_string": "Naproxen AND spondyloarthropathy, susceptibility to"
+  },
+  "data": {
+    "query": "Naproxen AND spondyloarthropathy, susceptibility to",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:08:03.788125",
+  "success": true,
+  "error_message": null
+}

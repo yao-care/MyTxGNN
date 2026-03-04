@@ -1,0 +1,580 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": "peritoneum cancer",
+    "query_string": "Bevacizumab AND peritoneum cancer"
+  },
+  "data": {
+    "query": "Bevacizumab AND peritoneum cancer",
+    "results": [
+      {
+        "pmid": "40690248",
+        "title": "Ovarian Cancer: A Review.",
+        "abstract": "Ovarian cancer is the eighth most common cause of cancer and cancer death in women worldwide. In 2022, ovarian cancer was diagnosed in approximately 324 398 individuals, and 206 839 died of ovarian cancer worldwide. In 2025, it is estimated that 20 890 US women will be diagnosed with ovarian cancer and 12 730 patients will die of ovarian cancer.",
+        "journal": "JAMA",
+        "year": "2025",
+        "authors": [
+          "Caruso Giuseppe",
+          "Weroha S John",
+          "Cliby William"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Antineoplastic Agents",
+          "Chemotherapy, Adjuvant",
+          "Genes, BRCA1",
+          "Neoplasm Staging",
+          "Ovarian Neoplasms",
+          "Risk Factors",
+          "Age Factors",
+          "Ovary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40690248/"
+      },
+      {
+        "pmid": "38644553",
+        "title": "Narrative review of malignant ascites: epidemiology, pathophysiology, assessment, and treatment.",
+        "abstract": "Malignant ascites (MA) is common in patients with advanced cancer, and about 60% of patients with MA experience distressing symptoms. In addition, MA has been identified as a poor prognostic factor, therefore, making the management of MA an important issue. We aimed to review literature describing MA provide a narrative synthesis of relevant studies.",
+        "journal": "Annals of palliative medicine",
+        "year": "2024",
+        "authors": [
+          "Ikegami Takako",
+          "Ishiki Hiroto",
+          "Kadono Toru",
+          "Ito Tetsuya",
+          "Yokomichi Naosuke"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ascites",
+          "Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38644553/"
+      },
+      {
+        "pmid": "38328890",
+        "title": "Efficacy and safety of bevacizumab in patients with low-grade serous ovarian cancer.",
+        "abstract": "Aim: To investigate the efficacy and safety of bevacizumab in patients with recurrent low-grade serous ovarian carcinoma. Materials & methods: The data of patients who received at least two cycles of bevacizumab in combination with chemotherapy were retrospectively recorded. Results: The median age of 51 patients was 56 (range: 33-75) years. The complete response rate was 10.4% and the partial response rate was 43.7%. The objective response rate was 54.1%. Median progression-free survival was 15.9 months (95% CI: 9.1-22.6) and median overall survival was 42.5 months (95% CI: 37.2-47.8). Conclusion: Bevacizumab with chemotherapy is an effective option for treating recurrent ovarian low-grade serous carcinoma.",
+        "journal": "Future oncology (London, England)",
+        "year": "2024",
+        "authors": [
+          "Karacin Cengiz",
+          "Sunar Veli",
+          "Urakci Zuhat",
+          "Yilmaz Ali",
+          "Ayhan Murat"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Adult",
+          "Middle Aged",
+          "Aged",
+          "Bevacizumab",
+          "Ovarian Neoplasms",
+          "Retrospective Studies",
+          "Peritoneal Neoplasms",
+          "Cystadenocarcinoma, Serous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38328890/"
+      },
+      {
+        "pmid": "38646225",
+        "title": "The Safety and Effectiveness of Bevacizumab in Metastatic Colorectal Cancer With Unresectable Metastases: A Real-Life Study From the South of Morocco.",
+        "abstract": "Background Colorectal cancer constitutes a significant public health challenge, despite remarkable strides made in the last two decades, particularly in the medical management of metastatic stages. Notable progress has been achieved through targeted therapies such as anti-epidermal growth factor receptors or anti-angiogenic antibodies, as well as advancements in surgical approaches for hepatic metastases. This study seeks to assess the efficacy and safety of bevacizumab plus chemotherapy in individuals with metastatic colorectal cancer. Methodology This is an observational, cross-sectional, retrospective study of all patients who were followed up for metastatic colorectal cancer with unresectable metastases and were treated with bevacizumab in combination with standard chemotherapy from January 2010 until December 2019 in the medical oncology department of the Centre Hospitalier Universitaire (CHU) Souss-Massa of Agadir. Results Of the total 162 cases, 117 (72%) had metastatic disease,",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Rais Ghizlane",
+          "Boutaagount Farah",
+          "Mokfi Rania",
+          "Maskrout Meryem",
+          "Bennour Soundous"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38646225/"
+      },
+      {
+        "pmid": "29580267",
+        "title": "Bevacizumab-induced intestinal perforation in a patient with inoperable breast cancer: a case report and review of the literature.",
+        "abstract": "Gastrointestinal perforation is known as a serious adverse event, but, for breast cancer, there are very few reports of gastrointestinal perforation. This report highlights gastrointestinal perforation caused by bevacizumab for breast cancer, which is of special interest because gastrointestinal perforations caused by bevacizumab are very rare in breast cancer.",
+        "journal": "Journal of medical case reports",
+        "year": "2018",
+        "authors": [
+          "Fujii Yusuke",
+          "Hirahara Noriyuki",
+          "Kaji Syunsuke",
+          "Taniura Takahito",
+          "Hyakudomi Ryoji"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Breast Neoplasms",
+          "Fatal Outcome",
+          "Female",
+          "Humans",
+          "Intestinal Perforation",
+          "Intestine, Small",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29580267/"
+      },
+      {
+        "pmid": "24476788",
+        "title": "A phase II trial of oxaliplatin, docetaxel, and bevacizumab as first-line therapy of advanced cancer of the ovary, peritoneum, and fallopian tube.",
+        "abstract": "To determine the safety and efficacy of the novel combination of docetaxel, oxaliplatin, and bevacizumab as first-line treatment of advanced cancer of the ovary, peritoneum or fallopian tube after initial debulking surgery.",
+        "journal": "Gynecologic oncology",
+        "year": "2014",
+        "authors": [
+          "Herzog Thomas J",
+          "Monk Bradley J",
+          "Rose Peter G",
+          "Braly Patricia",
+          "Hines Jeffrey F"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carcinoma, Ovarian Epithelial",
+          "Disease-Free Survival",
+          "Docetaxel",
+          "Fallopian Tube Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24476788/"
+      },
+      {
+        "pmid": "39168966",
+        "title": "A gut microbiota rheostat forecasts responsiveness to PD-L1 and VEGF blockade in mesothelioma.",
+        "abstract": "Malignant mesothelioma is a rare tumour caused by asbestos exposure that originates mainly from the pleural lining or the peritoneum. Treatment options are limited, and the prognosis is dismal. Although immune checkpoint blockade (ICB) can improve survival outcomes, the determinants of responsiveness remain elusive. Here, we report the outcomes of a multi-centre phase II clinical trial (MiST4, NCT03654833) evaluating atezolizumab and bevacizumab (AtzBev) in patients with relapsed mesothelioma. We also use tumour tissue and gut microbiome sequencing, as well as tumour spatial immunophenotyping to identify factors associated with treatment response. MIST4 met its primary endpoint with 50% 12-week disease control, and the treatment was tolerable. Aneuploidy, notably uniparental disomy (UPD), homologous recombination deficiency (HRD), epithelial-mesenchymal transition and inflammation with CD68+ monocytes were identified as tumour-intrinsic resistance factors. The log-ratio of gut-resident",
+        "journal": "Nature communications",
+        "year": "2024",
+        "authors": [
+          "Zhang Min",
+          "Bzura Aleksandra",
+          "Baitei Essa Y",
+          "Zhou Zisen",
+          "Spicer Jake B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Gastrointestinal Microbiome",
+          "Bevacizumab",
+          "Male",
+          "B7-H1 Antigen",
+          "Antibodies, Monoclonal, Humanized",
+          "Female",
+          "Immune Checkpoint Inhibitors",
+          "Middle Aged",
+          "Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39168966/"
+      },
+      {
+        "pmid": "36930122",
+        "title": "Colorectal cancer with testicular metastasis: A case report and literature review.",
+        "abstract": "Colorectal cancer is the second leading cause of cancer-related deaths in the world. About 50% of patients will have metastases during the course of the disease. The common sites of metastasis are the liver, lung, peritoneum, lymph, etc. Metastatic carcinoma to the testes is uncommon. We found a case of ascending colon cancer metastasized to the testis in the clinic.",
+        "journal": "Medicine",
+        "year": "2023",
+        "authors": [
+          "Wu Jia-Ming",
+          "Zhang Ao",
+          "Dong Yu",
+          "Lin Si-Hong",
+          "Meng Jin-Cheng"
+        ],
+        "pub_types": [
+          "Review",
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Middle Aged",
+          "Adenocarcinoma",
+          "Testicular Neoplasms",
+          "Bevacizumab",
+          "Capecitabine",
+          "Colonic Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36930122/"
+      },
+      {
+        "pmid": "30450291",
+        "title": "Malignant peritoneal mesothelioma: a review.",
+        "abstract": "Malignant peritoneal mesothelioma (MPM) is a very rare malignancy of the peritoneum and has a poor prognosis. Of all mesotheliomas, pleural mesothelioma is more common than MPM. In comparison to pleural mesothelioma, the link with asbestos exposure is weaker (33-50% vs. >80%), but it is still the best-defined risk factor. MPM spreads predominantly expansive rather than infiltrative and symptoms are related to tumor spread within the abdominal cavity. Often, MPM is encountered incidentally by diagnostic imaging or by surgery. Computed tomography scan is widely accepted as a first line modality in diagnostic imaging. In diagnostic histopathology, MPM presents some challenges. Firstly, adequate clinical information is of utmost importance to consider the possibility of the diagnosis of MPM. Furthermore, a few morphological subtypes and variants exist. The most sensitive immunohistochemical markers are calretinin (100%), WT1 (94%) and CK5/6 (89%). The malignant character of immunohistochem",
+        "journal": "Translational lung cancer research",
+        "year": "2018",
+        "authors": [
+          "Broeckx Glenn",
+          "Pauwels Patrick"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30450291/"
+      },
+      {
+        "pmid": "30905627",
+        "title": "Management of epithelial cancer of the ovary, fallopian tube, and primary peritoneum. Short text of the French Clinical Practice Guidelines issued by FRANCOGYN, CNGOF, SFOG, and GINECO-ARCAGY, and endorsed by INCa.",
+        "abstract": "An MRI is recommended for an ovarian mass that is indeterminate on ultrasound. The ROMA score (combining CA125 and HE4) can also be calculated (Grade A). In presumed early-stage ovarian or tubal cancers, the following procedures should be performed: an omentectomy (at a minimum, infracolic), an appendectomy, multiple peritoneal biopsies, peritoneal cytology (grade C), and pelvic and para-aortic lymphadenectomies (Grade B) for all histologic types, except the expansile mucinous subtypes, for which lymphadenectomies can be omitted (grade C). Minimally invasive surgery is recommended for early-stage ovarian cancer, when there is no risk of tumor rupture (grade B). Adjuvant chemotherapy by carboplatin and paclitaxel is recommended for all high-grade ovarian and tubal cancers (FIGO stages I-IIA) (grade A). For FIGO stage III or IV ovarian, tubal, and primary peritoneal cancers, a contrast-enhanced computed tomography (CT) scan of the thorax/abdomen/pelvis is recommended (Grade B), as well a",
+        "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+        "year": "2019",
+        "authors": [
+          "Lavoue V",
+          "Huchon C",
+          "Akladios C",
+          "Alfonsi P",
+          "Bakrin N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "France",
+          "Humans",
+          "Minimally Invasive Surgical Procedures",
+          "Ovarian Neoplasms",
+          "Peritoneal Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30905627/"
+      },
+      {
+        "pmid": "38238055",
+        "title": "Intraperitoneal irinotecan with concomitant FOLFOX and bevacizumab for patients with unresectable colorectal peritoneal metastases: protocol of the multicentre, open-label, phase II, INTERACT-II trial.",
+        "abstract": "The peritoneum is the second most affected organ for the dissemination of colorectal cancer (CRC). Patients with colorectal peritoneal metastases (CPM) face a poor prognosis, despite the majority of patients being treated with palliative systemic therapy. The efficacy of palliative systemic therapy is limited due to the plasma-peritoneum barrier. The poor prognosis of unresectable CPM patients has resulted in the development of new treatment strategies where systemic therapy is combined with local, intraperitoneal chemotherapy. In the recently published phase I study, the maximum tolerated dose and thus the recommended phase II dose of intraperitoneal irinotecan was investigated and determined to be 75 mg. In the present study, the overall survival after treatment with 75 mg irinotecan with concomitant mFOLFOX4 and bevacizumab will be investigated.",
+        "journal": "BMJ open",
+        "year": "2024",
+        "authors": [
+          "van de Vlasakker Vincent C J",
+          "Guchelaar Niels A D",
+          "van den Heuvel Teun B M",
+          "Lurvink Robin J",
+          "van Meerten Esther"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bevacizumab",
+          "Irinotecan",
+          "Peritoneum",
+          "Peritoneal Neoplasms",
+          "Colorectal Neoplasms",
+          "Fluorouracil",
+          "Leucovorin",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Clinical Trials, Phase II as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38238055/"
+      },
+      {
+        "pmid": "41676146",
+        "title": "FPSIR predicts clinical therapeutic responses and survival outcomes in patients with metastatic colorectal cancer undergoing first-line bevacizumab-containing chemotherapy.",
+        "abstract": "Identifying patients who are most likely to benefit from the combination of bevacizumab and chemotherapy (Bev/CT) is essential for the optimal management of metastatic colorectal cancer (mCRC). The aim of this study is to investigate the utility of chronic inflammatory biomarkers in predicting clinical response to Bev/CT and outcomes in patients with mCRC.",
+        "journal": "Frontiers in immunology",
+        "year": "2026",
+        "authors": [
+          "Li Ya-Nan",
+          "Deng Feng-Wen",
+          "Lan Tian-Qi",
+          "Lu Ying",
+          "Xiang Lin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bevacizumab",
+          "Colorectal Neoplasms",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biomarkers, Tumor",
+          "Fibrinogen"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41676146/"
+      },
+      {
+        "pmid": "27141071",
+        "title": "Low-grade serous carcinoma of the ovary or peritoneum.",
+        "abstract": "Over the past decade, the strategy for clinical trial design in making progress against epithelial cancers of the ovary/peritoneum/fallopian tube has changed dramatically. The NRG (GOG) Rare Tumor Committee has been a leader in this transformation. No longer does 'one size fit all'. Rather, separate clinical trials for rare subtypes have been developed and, in some cases, completed. An enhanced understanding of their pathologic diagnosis, molecular biology, and clinical behavior has galvanized this change. Low-grade serous carcinoma may occur de novo or following an initial diagnosis of serous tumor of low malignant potential. It is characterized by young age at diagnosis, relative chemoresistance, and prolonged survival compared with high-grade serous carcinoma. Historically, conventional chemotherapy has demonstrated very limited activity in this subtype. Hormonal therapy may provide benefit in this subtype. Preclinical studies have identified and elucidated genes and pathways-MAP ki",
+        "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+        "year": "2016",
+        "authors": [
+          "Gershenson D M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents, Hormonal",
+          "Female",
+          "Humans",
+          "Molecular Targeted Therapy",
+          "Ovarian Neoplasms",
+          "Ovary",
+          "Peritoneal Neoplasms",
+          "Peritoneum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27141071/"
+      },
+      {
+        "pmid": "26176048",
+        "title": "Addition of Bevacizumab to First-Line Chemotherapy for Metastatic Colorectal Cancer.",
+        "abstract": "We evaluated the efficacy and safety of bevacizumab for metastatic colorectal cancer patients.",
+        "journal": "Hepato-gastroenterology",
+        "year": "2014",
+        "authors": [
+          "Tsutsumi Soichi",
+          "Fujii Takaaki",
+          "Yamaguchi Satoru",
+          "Suto Toshinaga",
+          "Yajima Reina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Camptothecin",
+          "Colorectal Neoplasms",
+          "Disease Progression",
+          "Disease-Free Survival",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26176048/"
+      },
+      {
+        "pmid": "33609014",
+        "title": "Review of systemic chemotherapy in unresectable colorectal peritoneal carcinomatosis.",
+        "abstract": "Colorectal cancer remains the third most common malignancy in Australia with the peritoneum being the second most common metastatic site. Colorectal peritoneal carcinomatosis (CPC) can be treated with cytoreductive surgery and hyperthermic intraperitoneal chemotherapy but this is only limited to a small subset of patients. Those with inoperable disease have a particularly poor prognosis. While the ideal systemic regimen has not been defined, 5-fluorouracil-based chemotherapy regimens appear to provide overall and progression free survival benefits. The role of targeted agents such as bevacizumab (vascular endothelial growth factor inhibitor) or cetuximab (epidermal growth factor inhibitor) in the setting of CPC is still evolving. Currently, retrospective analyses have shown promising results for the use of bevacizumab in addition to systemic chemotherapy but similar results have not been seen with cetuximab or panitumumab. However, there is significant heterogeneity in the trial data, ",
+        "journal": "Asia-Pacific journal of clinical oncology",
+        "year": "2022",
+        "authors": [
+          "Nindra Udit",
+          "Shahnam Adel",
+          "Mahon Kate L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Colorectal Neoplasms",
+          "Fluorouracil",
+          "Humans",
+          "Peritoneal Neoplasms",
+          "Retrospective Studies",
+          "Vascular Endothelial Growth Factor A"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33609014/"
+      },
+      {
+        "pmid": "28679291",
+        "title": "Promising investigational drug candidates in phase I and phase II clinical trials for mesothelioma.",
+        "abstract": "Malignant mesothelioma is a rare and lethal malignancy primarily affecting the pleura and peritoneum. Mesothelioma incidence is expected to increase worldwide and current treatments remain ineffective, leading to poor prognosis. Within this article potential targets to improve the quality of life of the patients and assessment of further avenues for research are discussed. Areas covered: This review highlights emerging therapies currently under investigation for malignant mesothelioma with a specific focus on phase I and phase II clinical trials. Three main areas are discussed: immunotherapy (immune checkpoint blockade and cancer vaccines, among others), multitargeted therapy (such as targeting pro-angiogenic genes) and gene therapy (such as suicide gene therapy). For each, clinical trials are described to detail the current or past investigations at phase I and II. Expert opinion: The approach of applying existing treatments from other cancers does not show significant benefit, with t",
+        "journal": "Expert opinion on investigational drugs",
+        "year": "2017",
+        "authors": [
+          "Guazzelli Alice",
+          "Bakker Emyr",
+          "Tian Kun",
+          "Demonacos Constantinos",
+          "Krstic-Demonacos Marija"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antineoplastic Agents",
+          "Clinical Trials, Phase I as Topic",
+          "Clinical Trials, Phase II as Topic",
+          "Drug Design",
+          "Drugs, Investigational",
+          "Humans",
+          "Immunotherapy",
+          "Mesothelioma",
+          "Molecular Targeted Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28679291/"
+      },
+      {
+        "pmid": "32278676",
+        "title": "Association Between Baseline Circulating Tumor Cells, Molecular Tumor Profiling, and Clinical Characteristics in a Large Cohort of Chemo-naïve Metastatic Colorectal Cancer Patients Prospectively Collected.",
+        "abstract": "Clinicopathologic characteristics and prognostic and predictive factors offer valuable guidance when selecting optimal first-line treatment in patients with metastatic colorectal cancer (CRC). The association between baseline circulating tumor cell (bCTC) count, molecular tumor profile, and clinicopathologic features was analyzed in a chemo-naïve metastatic CRC population.",
+        "journal": "Clinical colorectal cancer",
+        "year": "2020",
+        "authors": [
+          "Sastre Javier",
+          "Orden Virginia de la",
+          "Martínez Antonio",
+          "Bando Inmaculada",
+          "Balbín Milagros"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Biomarkers, Tumor",
+          "Bone Neoplasms",
+          "Camptothecin",
+          "Cell Count",
+          "Colorectal Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32278676/"
+      },
+      {
+        "pmid": "40115908",
+        "title": "Response to anti-EGFR therapy in chemo-refractory right-sided RAS wild-type metastatic colorectal cancer: a case report and literature review.",
+        "abstract": "Anti-epidermal growth factor receptor (EGFR) therapies are important targeted agents in the treatment of metastatic colorectal cancer (CRC). However, clinical benefit is limited to patients with left-sided primary tumors and RAS wild-type (WT) disease. In right-sided chemo-refractory settings, response to anti-EGFR therapy has not been reported to date.",
+        "journal": "Journal of gastrointestinal oncology",
+        "year": "2025",
+        "authors": [
+          "Xiao Annie",
+          "Fakih Marwan"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40115908/"
+      },
+      {
+        "pmid": "28139261",
+        "title": "Activity of bevacizumab-containing regimens in recurrent low-grade serous ovarian or peritoneal cancer: A single institution experience.",
+        "abstract": "The aim of this study was to evaluate the activity of bevacizumab in a cohort of women with recurrent low-grade serous carcinoma of the ovary or peritoneum.",
+        "journal": "Gynecologic oncology",
+        "year": "2017",
+        "authors": [
+          "Dalton Heather J",
+          "Fleming Nicole D",
+          "Sun Charlotte C",
+          "Bhosale Priya",
+          "Schmeler Kathleen M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Aromatase Inhibitors",
+          "Bevacizumab",
+          "Carboplatin",
+          "Cyclophosphamide",
+          "Databases, Factual",
+          "Deoxycytidine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28139261/"
+      },
+      {
+        "pmid": "30936025",
+        "title": "Management of epithelial cancer of the ovary, fallopian tube, primary peritoneum. Long text of the joint French clinical practice guidelines issued by FRANCOGYN, CNGOF, SFOG, GINECO-ARCAGY, endorsed by INCa. (Part 2: systemic, intraperitoneal treatment, elderly patients, fertility preservation, follow-up).",
+        "abstract": "Adjuvant chemotherapy by carboplatin and paclitaxel is recommended for all high-grade ovarian and tubal cancers (FIGO stages I-IIA) (grade A). After primary surgery is complete, 6 cycles of intravenous chemotherapy (grade A) are recommended, or a discussion with the patient about intraperitoneal chemotherapy, according to her risk-benefit ratio. After complete interval surgery for FIGO stage III, hyperthermic intraperitoneal chemotherapy (HIPEC) can be proposed, in accordance with the modalities of the OV-HIPEC trial (grade B). In cases of postoperative tumor residue or in FIGO stage IV tumors, chemotherapy associated with bevacizumab is recommended (grade A).",
+        "journal": "Journal of gynecology obstetrics and human reproduction",
+        "year": "2019",
+        "authors": [
+          "Lavoue V",
+          "Huchon C",
+          "Akladios C",
+          "Alfonsi P",
+          "Bakrin N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Bevacizumab",
+          "Carboplatin",
+          "Chemotherapy, Adjuvant",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "Fertility Preservation",
+          "France"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30936025/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:19:25.159570",
+  "success": true,
+  "error_message": null
+}

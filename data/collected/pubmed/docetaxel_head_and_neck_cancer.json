@@ -1,0 +1,605 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "head and neck cancer",
+    "query_string": "Docetaxel AND head and neck cancer"
+  },
+  "data": {
+    "query": "Docetaxel AND head and neck cancer",
+    "results": [
+      {
+        "pmid": "17960012",
+        "title": "Cisplatin, fluorouracil, and docetaxel in unresectable head and neck cancer.",
+        "abstract": "Phase 2 studies suggest that the standard regimen of cisplatin and fluorouracil (PF) plus docetaxel (TPF) improves outcomes in squamous-cell carcinoma of the head and neck. We compared TPF with PF as induction chemotherapy in patients with locoregionally advanced, unresectable disease.",
+        "journal": "The New England journal of medicine",
+        "year": "2007",
+        "authors": [
+          "Vermorken Jan B",
+          "Remenar Eva",
+          "van Herpen Carla",
+          "Gorlia Thierry",
+          "Mesia Ricard"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Disease-Free Survival",
+          "Docetaxel",
+          "Female",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17960012/"
+      },
+      {
+        "pmid": "36706347",
+        "title": "Results of Phase III Randomized Trial for Use of Docetaxel as a Radiosensitizer in Patients With Head and Neck Cancer, Unsuitable for Cisplatin-Based Chemoradiation.",
+        "abstract": "There is a lack of published literature on systemic therapeutic options in cisplatin-ineligible patients with locally advanced head and neck squamous cell carcinoma (LAHNSCC) undergoing chemoradiation. Docetaxel was assessed as a radiosensitizer in this situation.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2023",
+        "authors": [
+          "Patil Vijay Maruti",
+          "Noronha Vanita",
+          "Menon Nandini",
+          "Singh Ajay",
+          "Ghosh-Laskar Sarbani"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Adolescent",
+          "Docetaxel",
+          "Cisplatin",
+          "Carcinoma, Squamous Cell",
+          "Taxoids",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Head and Neck Neoplasms",
+          "Squamous Cell Carcinoma of Head and Neck"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36706347/"
+      },
+      {
+        "pmid": "17960013",
+        "title": "Cisplatin and fluorouracil alone or with docetaxel in head and neck cancer.",
+        "abstract": "A randomized phase 3 trial of the treatment of squamous-cell carcinoma of the head and neck compared induction chemotherapy with docetaxel plus cisplatin and fluorouracil (TPF) with cisplatin and fluorouracil (PF), followed by chemoradiotherapy.",
+        "journal": "The New England journal of medicine",
+        "year": "2007",
+        "authors": [
+          "Posner Marshall R",
+          "Hershock Diane M",
+          "Blajman Cesar R",
+          "Mickiewicz Elizabeth",
+          "Winquist Eric"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Disease-Free Survival",
+          "Docetaxel",
+          "Female",
+          "Fluorouracil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17960013/"
+      },
+      {
+        "pmid": "30509740",
+        "title": "Pembrolizumab versus methotrexate, docetaxel, or cetuximab for recurrent or metastatic head-and-neck squamous cell carcinoma (KEYNOTE-040): a randomised, open-label, phase 3 study.",
+        "abstract": "There are few effective treatment options for patients with recurrent or metastatic head-and-neck squamous cell carcinoma. Pembrolizumab showed antitumour activity and manageable toxicity in early-phase trials. We aimed to compare the efficacy and safety of pembrolizumab versus standard-of-care therapy for the treatment of head-and-neck squamous cell carcinoma.",
+        "journal": "Lancet (London, England)",
+        "year": "2019",
+        "authors": [
+          "Cohen Ezra E W",
+          "Soulières Denis",
+          "Le Tourneau Christophe",
+          "Dinis José",
+          "Licitra Lisa"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cetuximab",
+          "Disease Progression",
+          "Docetaxel",
+          "Drug Administration Schedule",
+          "Female",
+          "Head and Neck Neoplasms",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30509740/"
+      },
+      {
+        "pmid": "36881975",
+        "title": "Docetaxel plus radiotherapy for head and neck cancer.",
+        "abstract": "",
+        "journal": "Oral oncology",
+        "year": "2023",
+        "authors": [
+          "De Felice Francesca"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Fluorouracil",
+          "Cisplatin",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Chemoradiotherapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36881975/"
+      },
+      {
+        "pmid": "9781605",
+        "title": "Docetaxel in head and neck cancer: a review.",
+        "abstract": "Docetaxel has been shown to have significant antitumor activity. The mechanism of action is through stabilization of tubulin, arresting cells in the G2M phase of the cell cycle. The maximum tolerated dose of docetaxel is 100 mg/m2 every 21 days. Short-lasting neutropenia is the dose-limiting toxicity. Other significant toxicities include alopecia, mucositis, fatigue, sensory neuropathy, fluid retention, rash, and hypersensitivity reactions. Phase II studies of docetaxel as a single agent in patients with squamous cell carcinoma of the head and neck (SCCHN) have documented response rates of 27% to 43%. Studies of docetaxel combined with cisplatin, and docetaxel, cisplatin, and 5-fluorouracil (TPF) as induction therapy for patients with SCCHN demonstrate that these regimens are highly active. An early trial of induction TPF with leucovorin (TPFL) has yielded an overall response rate of 100% and complete response rate of 61%. In vitro studies have shown docetaxel to be a potent radiation ",
+        "journal": "American journal of clinical oncology",
+        "year": "1998",
+        "authors": [
+          "Colevas A D",
+          "Posner M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Clinical Trials as Topic",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Paclitaxel",
+          "Radiation-Sensitizing Agents",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9781605/"
+      },
+      {
+        "pmid": "19639668",
+        "title": "Docetaxel in the management of head and neck cancer.",
+        "abstract": "Squamous cell carcinoma of the head and neck is a major health problem, and much effort is being made in the different settings of its presentation. Much of the recent progress has been made in locoregionally advanced inoperable disease, mainly with the optimal combination of concurrent chemoradiotherapy and with the introduction of new active drugs, such as docetaxel, in the induction phase of the treatment. The association of docetaxel, cisplatin, and 5-fluorouracil (TPF) regimen is now acknowledged as being the gold standard of induction treatment. The subset of patients with recurrent/metastatic disease still carries a grim prognosis. For the time being, new biological therapies have not dramatically changed this scenario, even in combination with conventional treatments. Little is known about the role of docetaxel and, in general, of chemotherapy in the adjuvant setting, even though it is increasingly acknowledged that, beyond a certain risk, concurrent adjuvant chemoradiotherapy ",
+        "journal": "Anti-cancer drugs",
+        "year": "2009",
+        "authors": [
+          "Caponigro Francesco",
+          "Longo Francesco",
+          "Perri Francesco",
+          "Ionna Franco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Carcinoma, Squamous Cell",
+          "Chemotherapy, Adjuvant",
+          "Clinical Trials as Topic",
+          "Docetaxel",
+          "Drug Therapy, Combination",
+          "ErbB Receptors",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19639668/"
+      },
+      {
+        "pmid": "36264639",
+        "title": "Macrophage secretory IL-1β promotes docetaxel resistance in head and neck squamous carcinoma via SOD2/CAT-ICAM1 signaling.",
+        "abstract": "Docetaxel (DTX) combined with cisplatin and 5-fluorouracil has been used as induction chemotherapy for head and neck squamous cell carcinoma (HNSCC). However, the development of acquired resistance remains a major obstacle to treatment response. Tumor-associated macrophages are associated with chemotherapeutic resistance. In the present study, increased infiltration of macrophages into the tumor microenvironment (TME) was significantly associated with shorter overall survival and increased resistance to chemotherapeutic drugs, particularly DTX, in patients with HNSCC. Macrophage coculture induced expression of intercellular adhesion molecule 1 (ICAM1), which promotes stemness and the formation of polyploid giant cancer cells, thereby reducing the efficacy of DTX. Both genetic silencing and pharmacological inhibition of ICAM1 sensitized HNSCC to DTX. Macrophage secretion of IL-1β was found to induce tumor expression of ICAM1. IL-1β neutralization and IL-1 receptor blockade reversed DTX ",
+        "journal": "JCI insight",
+        "year": "2022",
+        "authors": [
+          "Hsieh Ching-Yun",
+          "Lin Ching-Chan",
+          "Huang Yu-Wen",
+          "Chen Jong-Hang",
+          "Tsou Yung-An"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Mice",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Intercellular Adhesion Molecule-1",
+          "Macrophages",
+          "Squamous Cell Carcinoma of Head and Neck",
+          "Tumor Microenvironment",
+          "Humans",
+          "Interleukin-1beta"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36264639/"
+      },
+      {
+        "pmid": "14727247",
+        "title": "Docetaxel with concurrent radiotherapy in head and neck cancer.",
+        "abstract": "Recent studies in the treatment of head and neck cancer suggest that combined chemoradiation is superior to radiation alone with regard to local-regional control. Agents that have shown activity as radiosensitizers include platinum agents and taxanes. Docetaxel is a semisynthetic taxane that affects polymerized tubulin both to promote microtubule formation and to inhibit its disassembly. As a single agent, docetaxel shows significant antitumor activity in head and neck cancer in the neoadjuvant setting. Docetaxel also exhibits potent radiosensitizing capability. Because docetaxel is a phase-specific agent, frequent administration of docetaxel offers the potential for enhancement of radiosensitization. Current trials are exploring the optimal dose and schedule of administration of docetaxel with concurrent radiotherapy in patients with head and neck cancer.",
+        "journal": "Seminars in oncology",
+        "year": "2003",
+        "authors": [
+          "Nabell Lisle",
+          "Spencer Sharon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Combined Modality Therapy",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Radiation-Sensitizing Agents",
+          "Stomatitis",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14727247/"
+      },
+      {
+        "pmid": "30509741",
+        "title": "PD-1 antibodies in head-and-neck cancer.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "2019",
+        "authors": [
+          "Wollenberg Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal, Humanized",
+          "Cetuximab",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Methotrexate",
+          "Programmed Cell Death 1 Receptor"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30509741/"
+      },
+      {
+        "pmid": "39639338",
+        "title": "Inhibition of the chemokine receptors CXCR1 and CXCR2 synergizes with docetaxel for effective tumor control and remodeling of the immune microenvironment of HPV-negative head and neck cancer models.",
+        "abstract": "Relapsed head and neck squamous cell carcinoma (HNSCC) unrelated to HPV infection carries a poor prognosis. Novel approaches are needed to improve the clinical outcome and prolong survival in this patient population which has poor long-term responses to immune checkpoint blockade. This study evaluated the chemokine receptors CXCR1 and CXCR2 as potential novel targets for the treatment of HPV-negative HNSCC.",
+        "journal": "Journal of experimental & clinical cancer research : CR",
+        "year": "2024",
+        "authors": [
+          "Horn Lucas A",
+          "Lind Hanne",
+          "Fousek Kristen",
+          "Qin Haiyan",
+          "Rajabian Nika"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Docetaxel",
+          "Receptors, Interleukin-8B",
+          "Receptors, Interleukin-8A",
+          "Animals",
+          "Mice",
+          "Tumor Microenvironment",
+          "Head and Neck Neoplasms",
+          "Cell Line, Tumor",
+          "Squamous Cell Carcinoma of Head and Neck"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39639338/"
+      },
+      {
+        "pmid": "11340900",
+        "title": "Docetaxel in squamous cell cancer of the head and neck.",
+        "abstract": "Single-agent docetaxel induces a response in 21-42% of patients with recurrent squamous cell cancer of the head and neck (SCCHN). When used in combination with 5-fluorouracil (5-FU), response rates (RRs) of between 24 and 27% have been reported. In contrast, in combination with cisplatin, docetaxel has achieved a RR of 33% in previously treated patients and 86% in a subgroup of chemotherapy-naive advanced stage patients. The docetaxel/cisplatin combination appears to be highly active. High-dose induction chemotherapy for patients with locally advanced but potentially curable SCCHN is producing promising results: following combination therapy involving docetaxel, cisplatin, 5-FU and leucovorin (TPFL), RR are high and 75% of patients are alive at 2 years. Intermediate-dose induction chemotherapy involving docetaxel is also promising: the TAX 708 trial found an excellent 93% RR in 41 evaluable patients treated with docetaxel plus cisplatin and 5-FU (TPF). The rate of pathological complete",
+        "journal": "Anti-cancer drugs",
+        "year": "2001",
+        "authors": [
+          "Posner M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Paclitaxel",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11340900/"
+      },
+      {
+        "pmid": "12108901",
+        "title": "The role of docetaxel in the management of squamous cell cancer of the head and neck.",
+        "abstract": "The activity of docetaxel (Taxotere) as a single agent (overall response rates, 24%-45%) in the treatment of patients with recurrent squamous cell cancer of the head and neck has resulted in the investigation of docetaxel-based doublet and triplet combinations in both the recurrent and neoadjuvant settings. When combined with cisplatin, with or without fluorouracil (5-FU), in the treatment of recurrent disease, response rates of 33% to 44% have been observed for docetaxel, with median survival ranging from 9.6 to 11 months. In the neoadjuvant setting, response rates have been typically greater than 90%, with promising disease-free and overall survival results. Randomized trials are now under way to assess the value of docetaxel-based therapy relative to that of the standard cisplatin/5-FU combination in both the neoadjuvant and recurrent settings. Preclinical data indicate that docetaxel is a potent radiosensitizer and its initial evaluation with concurrent radiation in patients with l",
+        "journal": "Oncology (Williston Park, N.Y.)",
+        "year": "2002",
+        "authors": [
+          "Glisson Bonnie S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Clinical Trials as Topic",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Neoplasm Recurrence, Local",
+          "Neoplasms, Squamous Cell",
+          "Paclitaxel",
+          "Radiation-Sensitizing Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12108901/"
+      },
+      {
+        "pmid": "37925894",
+        "title": "Pembrolizumab versus methotrexate, docetaxel, or cetuximab in recurrent or metastatic head and neck squamous cell carcinoma (KEYNOTE-040): Subgroup analysis by pattern of disease recurrence.",
+        "abstract": "In the phase 3 KEYNOTE-040 study, pembrolizumab prolonged OS versus chemotherapy in previously treated recurrent or metastatic (R/M) HNSCC. We present a post hoc subgroup analysis by disease recurrence pattern: recurrent-only, recurrent and metastatic (recurrent-metastatic), and metastatic-only HNSCC.",
+        "journal": "Oral oncology",
+        "year": "2023",
+        "authors": [
+          "Harrington K J",
+          "Cohen E E W",
+          "Soulières D",
+          "Dinis J",
+          "Licitra L"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Squamous Cell Carcinoma of Head and Neck",
+          "Cetuximab",
+          "Docetaxel",
+          "Methotrexate",
+          "Platinum",
+          "Neoplasm Recurrence, Local",
+          "Head and Neck Neoplasms",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37925894/"
+      },
+      {
+        "pmid": "9891552",
+        "title": "Advanced head and neck cancer and clinical experience of an effective new agent: docetaxel.",
+        "abstract": "Docetaxel is a taxoid cytotoxic agent known to have considerable clinical activity in a broad range of malignancies. A series of phase I/II studies have been performed to elucidate its toxicity and antitumor activity in advanced squamous cell carcinoma of the head and neck. DOCETAXEL AS FIRST-LINE MONOTHERAPY: Docetaxel administered at 100 mg/m2 as a 1-hour infusion every 3-4 weeks initiated an overall response of 27-42% for a duration of 5-6.5 months in patients with recurrent locoregional or metastatic disease. These results compare favourably with other single-agents in this setting.",
+        "journal": "Anticancer research",
+        "year": "1998",
+        "authors": [
+          "Schöffski P",
+          "Weihkopf T",
+          "Ganser A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Docetaxel",
+          "Fluorouracil",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Neoplasm Metastasis",
+          "Neoplasm Recurrence, Local",
+          "Neutropenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9891552/"
+      },
+      {
+        "pmid": "37391233",
+        "title": "Prostate Stereotactic Body Radiation Therapy Margins, Accelerated Partial Breast Irradiation Techniques, Total Neoadjuvant Therapy Local Control, Hyperfractionated Reirradiation, Hyaluronic Acid Rectal Spacer, and Concurrent Docetaxel for Head and Neck Cancer.",
+        "abstract": "",
+        "journal": "Practical radiation oncology",
+        "year": "2023",
+        "authors": [
+          "Dover Laura",
+          "Dulaney Caleb"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Docetaxel",
+          "Prostate",
+          "Re-Irradiation",
+          "Hyaluronic Acid",
+          "Neoadjuvant Therapy",
+          "Head and Neck Neoplasms",
+          "Breast Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37391233/"
+      },
+      {
+        "pmid": "34657397",
+        "title": "Concurrent chemoradiotherapy with cisplatin and docetaxel for head and neck squamous cell carcinoma.",
+        "abstract": "",
+        "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+        "year": "2022",
+        "authors": [
+          "Kumai Takumi",
+          "Komatsuda Hiroki",
+          "Wakisaka Risa",
+          "Yamaki Hidekiyo",
+          "Kono Michihisa"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antineoplastic Agents",
+          "Chemoradiotherapy",
+          "Cisplatin",
+          "Disease-Free Survival",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Retrospective Studies",
+          "Squamous Cell Carcinoma of Head and Neck"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34657397/"
+      },
+      {
+        "pmid": "10884498",
+        "title": "Role of taxoids in head and neck cancer.",
+        "abstract": "Docetaxel and paclitaxel represent a new class of cytotoxic agents having both a specific chemical structure and mechanism of action. They act to promote tubulin polymerization and the formation of stable microtubules. The microtubules produced in the presence of taxoids are resistant to disassembly by physiologic stimuli, and cells exposed to these agents exhibit an accumulation of disorganized microtubule arrays. This affects the normal mitotic process and eventually results in cell death. Both drugs are active as single agents in patients with head and neck cancer with response rates ranging from 20% to 40%. They may be combined with other cytotoxic agents, radiotherapy, or both. A review is given of the presently available data.",
+        "journal": "The oncologist",
+        "year": "2000",
+        "authors": [
+          "Schrijvers D",
+          "Vermorken J B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Phytogenic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cell Death",
+          "Docetaxel",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Microtubules",
+          "Paclitaxel",
+          "Taxoids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10884498/"
+      },
+      {
+        "pmid": "15971451",
+        "title": "Revisiting induction chemotherapy for head and neck cancer.",
+        "abstract": "Squamous cell carcinomas of the head and neck are highly responsive to induction chemotherapy. However, randomized trials have failed to demonstrate a survival advantage with the addition of induction chemotherapy to locoregional therapy consisting of surgery and/or radiation therapy. Currently, concomitant radiation and chemotherapy has emerged as a standard and has optimized locoregional control in head and neck cancer. In this setting, the addition of induction chemotherapy may further improve outcome by enhancing both locoregional and distant control. As interest in induction regimens is renewed, we elected to conduct a systematic review of trials of induction chemotherapy for locoregionally advanced head and neck cancer. The most studied combination--cisplatin plus fluorouracil (5-FU)--achieves objective response rates of about 80%. In a meta-analysis, induction with platinum/5-FU resulted in a small survival advantage over locoregional therapy alone. The introduction of a taxane ",
+        "journal": "Oncology (Williston Park, N.Y.)",
+        "year": "2005",
+        "authors": [
+          "Argiris Athanassios",
+          "Jayaram Prathima",
+          "Pichardo Diely"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinoma, Squamous Cell",
+          "Cisplatin",
+          "Clinical Trials as Topic",
+          "Docetaxel",
+          "Fluorouracil",
+          "Head and Neck Neoplasms",
+          "Humans",
+          "Leucovorin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15971451/"
+      },
+      {
+        "pmid": "12604730",
+        "title": "Docetaxel, cisplatin, 5-fluorouracil (TPF)-based induction chemotherapy for head and neck cancer and the case for sequential, combined-modality treatment.",
+        "abstract": "Since the publication of the Veterans Affairs study in the early 1990s, much has been learned regarding the role of chemotherapy, radiation therapy, and more importantly, the role of combined-modality treatment with chemoradiation in the therapy of locally advanced head and neck cancer. There continues to be widespread variation and controversy in the timing, schedule, and intensity of chemotherapy and chemoradiation. Herein, we present the various approaches currently used in the year 2003 with a specific emphasis on the role of sequential combined-modality therapy combining chemotherapy, chemoradiotherapy, and surgery in the treatment of these malignancies.",
+        "journal": "The oncologist",
+        "year": "2003",
+        "authors": [
+          "Haddad Robert",
+          "Tishler Roy B",
+          "Norris Charles M",
+          "Mahadevan Anand",
+          "Busse Paul"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Squamous Cell",
+          "Chemotherapy, Adjuvant",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Docetaxel",
+          "Drug Administration Schedule",
+          "Fluorouracil",
+          "Head and Neck Neoplasms",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12604730/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:52:39.786057",
+  "success": true,
+  "error_message": null
+}

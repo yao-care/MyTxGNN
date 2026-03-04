@@ -1,0 +1,517 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ezetimibe",
+    "disease": "sitosterolemia",
+    "query_string": "Ezetimibe AND sitosterolemia"
+  },
+  "data": {
+    "query": "Ezetimibe AND sitosterolemia",
+    "results": [
+      {
+        "pmid": "34969652",
+        "title": "Clinical, genetic profile and therapy evaluation of 55 children and 5 adults with sitosterolemia.",
+        "abstract": "Sitosterolemia is a rare autosomal recessive disease characterized by phytosterol accumulation in the blood and tissues. However, the detailed clinical and genetic spectra are lacking.",
+        "journal": "Journal of clinical lipidology",
+        "year": "2022",
+        "authors": [
+          "Xia Yu",
+          "Duan Ying",
+          "Zheng Wanqi",
+          "Liang Lili",
+          "Zhang Huiwen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+          "Adult",
+          "Arthralgia",
+          "Atherosclerosis",
+          "Child",
+          "Cholesterol, LDL",
+          "Ezetimibe",
+          "Genetic Profile",
+          "Humans",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34969652/"
+      },
+      {
+        "pmid": "36897412",
+        "title": "Update on Sitosterolemia and Atherosclerosis.",
+        "abstract": "The purpose of this review was to summarize important and updated information on sitosterolemia. Sitosterolemia is an inherited lipid disorder consisting of high levels of plasma plant sterols. This sterol storage condition is caused by biallelic loss-of-function genetic variants in either ABCG5 or ABCG8, leading to increased intestinal absorption and decreased hepatic excretion of plant sterols. Clinically, patients with sitosterolemia usually exhibit xanthomatosis, high levels of plasma cholesterol, and premature atherosclerotic disease, but presentation can be highly heterogeneous. Therefore, recognition of this condition requires a high level of suspicion, with confirmation upon genetic diagnosis or through measurement of plasma phytosterols. Treatment of sitosterolemia with both a plant sterol-restricted diet and the intestinal cholesterol absorption inhibitor ezetimibe can reduce efficiently the levels of plasma plant sterols, consisting in the first-line therapy for this disease",
+        "journal": "Current atherosclerosis reports",
+        "year": "2023",
+        "authors": [
+          "Rocha Viviane Zorzanelli",
+          "Tada Mauricio Teruo",
+          "Chacra Ana Paula Marte",
+          "Miname Marcio Hiroshi",
+          "Mizuta Marjorie H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hypercholesterolemia",
+          "Phytosterols",
+          "Lipid Metabolism, Inborn Errors",
+          "Intestinal Diseases",
+          "Hyperlipoproteinemia Type II",
+          "Cholesterol",
+          "Xanthomatosis",
+          "Atherosclerosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36897412/"
+      },
+      {
+        "pmid": "30033951",
+        "title": "Sitosterolemia, Hypercholesterolemia, and Coronary Artery Disease.",
+        "abstract": "Sitosterolemia is a rare inherited disease characterized by increased levels of plant sterols, such as sitosterol. The cause of this disease is ATP-binding cassette (ABC) subfamily G member 5 or member 8 (ABCG5 or ABCG8, respectively) gene mutations. Recent advances in genetics have revealed that the prevalence of subjects with deleterious mutations in ABCG5 and/or ABCG8 genes could be more than 1 in ~200,000 individuals among the general population. Furthermore, accumulated evidence, including infantile cases exhibiting progression/regression of systemic xanthomas associated with LDL cholesterol levels, have shown that the elevation of LDL cholesterol seems to be the major cause of development of atherosclerosis and not the elevation of sitosterol. Regarding therapies, LDL apheresis, as well as proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors, could be useful for sitosterolemia, in addition to ezetimibe and/or colestimide. In this study, we provide the current understa",
+        "journal": "Journal of atherosclerosis and thrombosis",
+        "year": "2018",
+        "authors": [
+          "Tada Hayato",
+          "Nohara Atsushi",
+          "Inazu Akihiro",
+          "Sakuma Nagahiko",
+          "Mabuchi Hiroshi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+          "ATP Binding Cassette Transporter, Subfamily G, Member 8",
+          "Coronary Artery Disease",
+          "Heterozygote",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases",
+          "Lipid Metabolism, Inborn Errors",
+          "Lipoproteins",
+          "Mutation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30033951/"
+      },
+      {
+        "pmid": "25941971",
+        "title": "Plant Sterols, Stanols, and Sitosterolemia.",
+        "abstract": "Phytosterolemia (sitosterolemia) is a rare autosomal recessive sterol storage disease caused by mutations in either of the adenosine triphosphate (ATP) binding cassette transporter genes; (ABC) G5 or ABCG8, leading to impaired elimination of plant sterols and stanols, with their increased accumulation in the blood and tissues. Thus the disease is characterized by substantially elevated serum plant sterols and stanols, with moderate to high plasma cholesterol levels, and increased risk of premature atherosclerosis. Hematologic abnormalities including macrothrombocytopenia, stomatocytosis and hemolysis are frequently observed in sitosterolemia patients. Currently, ezetimibe, a sterol absorption inhibitor, is used as the routine treatment for sitosterolemia, with reported improvement in plant sterol levels and hemolytic parameters. This review summarizes the research related to the health impact of plant sterols and stanols on sitosterolemia.",
+        "journal": "Journal of AOAC International",
+        "year": "2015",
+        "authors": [
+          "Ajagbe Bridget O",
+          "Othman Rgia A",
+          "Myrie Semone B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "ATP-Binding Cassette Transporters",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases",
+          "Lipid Metabolism, Inborn Errors",
+          "Mutation",
+          "Phytosterols",
+          "Plants"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25941971/"
+      },
+      {
+        "pmid": "24821603",
+        "title": "Sitosterolemia: diagnosis, investigation, and management.",
+        "abstract": "Sitosterolemia is a rare autosomal recessively inherited disease caused by mutations affecting ABCG5 or ABCG8, which are located on human chromosome band 2p21. Around 100 cases have been reported in the literature. Sitosterolemic patients typically exhibit a 30-fold to 100-fold increase in plasma concentrations of plant sterols. The clinical manifestations include xanthomas, premature atherosclerosis, hemolytic anemia, and macrothrombocytopenia. It is noteworthy that abnormal hematological parameters may be the only clinical feature of sitosterolemic patients, suggesting that sitosterolemia may be more frequent than previously thought. Severe accumulation of plant sterols in mouse models of sitosterolemia induced complex cardiac lesions, anemia, and macrothrombocytopenia, disrupted adrenal and liver cholesterol homeostasis, and caused infertility and hypertriglyceridemia. It remains unclear whether all disease traits are present in sitosterolemic patients. The drug ezetimibe appears to",
+        "journal": "Current atherosclerosis reports",
+        "year": "2014",
+        "authors": [
+          "Escolà-Gil Joan Carles",
+          "Quesada Helena",
+          "Julve Josep",
+          "Martín-Campos Jesús M",
+          "Cedó Lídia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Hemolytic",
+          "Animals",
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Azetidines",
+          "Ezetimibe",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases",
+          "Lipid Metabolism, Inborn Errors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24821603/"
+      },
+      {
+        "pmid": "29984642",
+        "title": "Sitosterolemia: Diagnosis, Metabolic and Hematological Abnormalities, Cardiovascular Disease and Management.",
+        "abstract": "Sitosterolemia is a recessive inherited metabolic disorder of unknown prevalence, characterized by increased levels of plasma plant sterols. It is caused by 28 and 31 variants in ABCG5 and ABCG8 genes, respectively, and is characterized by a predisposition to hyperabsorption and accumulation of toxic levels of plant sterols in plasma. Its clinical picture is extremely heterogeneous. The main clinical features are tendinous and cutaneous xanthomas, arthritis or arthralgia, premature cardiovascular disease and atherosclerosis. These characteristics are shared with familial hypercholesterolemia (FH), making it possible for sitosterolemia to be misdiagnosed as homozygous FH, especially in pediatric patients. In such cases, a specific chromatography-based laboratory method is essential to differentiate sitosterol and cholesterol. Hematological abnormalities (hemolytic anemia and macrothrombocytopenia) may be present in 25-35% of patients, in whom it is usually associated with the main clini",
+        "journal": "Current medicinal chemistry",
+        "year": "2019",
+        "authors": [
+          "Bastida Jose María",
+          "Girós María Luisa",
+          "Benito Rocío",
+          "Janusz Kamila",
+          "Hernández-Rivas Jesús María"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cardiovascular Diseases",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases",
+          "Lipid Metabolism, Inborn Errors",
+          "Phytosterols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29984642/"
+      },
+      {
+        "pmid": "27104173",
+        "title": "Sitosterolemia: a review and update of pathophysiology, clinical spectrum, diagnosis, and management.",
+        "abstract": "Sitosterolemia is an autosomal recessive disorder characterized by increased plant sterol levels, xanthomas, and accelerated atherosclerosis. Although it was originally reported in patients with normolipemic xanthomas, severe hypercholesterolemia have been reported in patients with sitosterolemia, especially in children. Sitosterolemia is caused by increased intestinal absorption and decreased biliary excretion of sterols resulting from biallelic mutations in either ABCG5 or ABCG8, which encode the sterol efflux transporter ABCG5 and ABCG8. Patients with sitosterolemia show extreme phenotypic heterogeneity, ranging from almost asymptomatic individuals to those with severe hypercholesterolemia leading to accelerated atherosclerosis and premature cardiac death. Hematologic manifestations include hemolytic anemia with stomatocytosis, macrothrombocytopenia, splenomegaly, and abnormal bleeding. The mainstay of therapy includes dietary restriction of both cholesterol and plant sterols and th",
+        "journal": "Annals of pediatric endocrinology & metabolism",
+        "year": "2016",
+        "authors": [
+          "Yoo Eun-Gyong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27104173/"
+      },
+      {
+        "pmid": "28340366",
+        "title": "Effect of ezetimibe on low- and high-density lipoprotein subclasses in sitosterolemia.",
+        "abstract": "Sitosterolemia displays high plasma total sterols [high plant sterols (PS) + normal to high total cholesterol (TC)] with normal to moderately elevated low-density lipoprotein (LDL) levels. High LDL, intermediate-density lipoprotein (IDL) and very low-density lipoprotein (VLDL) particles, low high-density lipoprotein (HDL), and increased non-HDL and the ratios of TC and triglycerides (TG) to HDL can increase the risk for atherosclerosis. Ezetimibe (EZE) can reduce plasma PS and TC levels in sitosterolemia, but its effect on lipoprotein subclasses has not been previously reported.",
+        "journal": "Atherosclerosis",
+        "year": "2017",
+        "authors": [
+          "Othman Rgia A",
+          "Myrie Semone B",
+          "Mymin David",
+          "Roullet Jean-Baptiste",
+          "Steiner Robert D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anticholesteremic Agents",
+          "Cholesterol, HDL",
+          "Electrophoresis, Polyacrylamide Gel",
+          "Ezetimibe",
+          "Female",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28340366/"
+      },
+      {
+        "pmid": "34140251",
+        "title": "Cerebrotendinous xanthomatosis, sitosterolemia, Smith-Lemli-Opitz syndrome and the seminal contributions of Gerald Salen, MD (1935-2020).",
+        "abstract": "Cerebrotendinous xanthomatosis (CTX), sitosterolemia, and Smith-Lemli Opitz syndrome (SLOS) are rare inborn errors of metabolism. The diagnoses of CTX and sitosterolemia are often delayed for many years because of lack of physician awareness, often resulting in significant and unnecessary progression of disease. CTX may present with chronic diarrhea, juvenile onset cataracts, strikingly large xanthomas, and neurologic disease in the setting of a normal serum cholesterol, but markedly elevated serum or plasma cholestanol levels. These patients have a defect in producing the bile acid chenodoxycholate, and oral chenodeoxycholate therapy is essential for these patients in order to prevent neurologic complications. Sitosterolemia can present with xanthomas, anemia, thrombocytopenia, splenomegaly, very premature heart disease, and serum cholesterol levels that may be normal or elevated, along with marked elevations of plasma β-sitosterol. These patients have a defect causing overabsorption ",
+        "journal": "Journal of clinical lipidology",
+        "year": "2021",
+        "authors": [
+          "Schaefer Ernst J",
+          "Tint G Stephen",
+          "Duell P Barton",
+          "Steiner Robert D"
+        ],
+        "pub_types": [
+          "Biography",
+          "Historical Article",
+          "Journal Article",
+          "Portrait",
+          "Review"
+        ],
+        "mesh_terms": [
+          "History, 20th Century",
+          "History, 21st Century",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases",
+          "Lipid Metabolism, Inborn Errors",
+          "Male",
+          "Physicians",
+          "Phytosterols",
+          "Smith-Lemli-Opitz Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34140251/"
+      },
+      {
+        "pmid": "14727947",
+        "title": "Ezetimibe.",
+        "abstract": "Ezetimibe, a synthetic 2-azetidinone, is the first of a new class of compounds that selectively inhibits the absorption of cholesterol and related plant sterols in the intestine. The drug, and its glucuronyl metabolite, are thought to inhibit a putative cholesterol transporter of enterocytes, located within the brush-border membrane of the small intestine. In large, randomized, placebo-controlled, 12-week trials, ezetimibe reduced levels of low density lipoprotein-cholesterol (LDL-C) by approximately 18%; triglyceride levels were reduced by approximately 6% in one trial but not another. Ezetimibe produced a modest increase in levels of high density lipoprotein-cholesterol. Moreover, reductions in LDL-C and triglyceride levels were greater in patients treated with ezetimibe coadministered with a statin (lovastatin, pravastatin, atorvastatin or simvastatin), than with either of those agents given alone. The coadministration of the lowest statin dose and ezetimibe produced similar LDL-C r",
+        "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+        "year": "2003",
+        "authors": [
+          "Darkes Malcolm J M",
+          "Poole Raewyn M",
+          "Goa Karen L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Cholesterol, LDL",
+          "Clinical Trials as Topic",
+          "Ezetimibe",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14727947/"
+      },
+      {
+        "pmid": "31254003",
+        "title": "[Sitosterolemia (phytosterolemia)].",
+        "abstract": "Sitosterolemia or phytosterolemia is a rare autosomal recessive hereditary lipid storage disorder. It is caused by homozygous or compound heterozygous mutations in one of the two ABCG5 and ABCG8 genes encoding the intestinal and hepatic heterodimer ABCG5 (sterolin 1)/ABCG8 (sterolin 2) efflux transporters. These mutations lead to intestinal hyperabsorption and reduced hepatic secretion of cholesterol and plant sterols with subsequent accumulation of phytosterols and cholesterol in plasma and deposition in tissue (xanthoma). Phytosterols are found mainly in vegetable oils, margarine, nuts, grains, soybeans and avocados. Patients with sitosterolemia show extreme phenotypic heterogeneity from almost asymptomatic individuals to those with combined severe hypercholesterolemia at a young age, leading to increased atherosclerosis and premature cardiac death. Early abnormalities include hemolytic anemia with stomatocytosis, macrothrombocytopenia and splenomegaly. In addition to strict avoidanc",
+        "journal": "Der Internist",
+        "year": "2019",
+        "authors": [
+          "Lütjohann D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+          "ATP Binding Cassette Transporter, Subfamily G, Member 8",
+          "ATP-Binding Cassette Transporters",
+          "Humans",
+          "Hypercholesterolemia",
+          "Intestinal Diseases",
+          "Lipid Metabolism, Inborn Errors",
+          "Mutation",
+          "Phytosterols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31254003/"
+      },
+      {
+        "pmid": "35248527",
+        "title": "Clinical and genetic features of sitosterolemia in Japan.",
+        "abstract": "Clinical manifestations and genetic backgrounds of Japanese patients with sitosterolemia have been unclear.",
+        "journal": "Clinica chimica acta; international journal of clinical chemistry",
+        "year": "2022",
+        "authors": [
+          "Tada Hayato",
+          "Kojima Nobuko",
+          "Yamagami Kan",
+          "Takamura Masayuki",
+          "Kawashiri Masa-Aki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+          "ATP Binding Cassette Transporter, Subfamily G, Member 8",
+          "Adenosine Triphosphate",
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Humans",
+          "Hypercholesterolemia",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35248527/"
+      },
+      {
+        "pmid": "29169939",
+        "title": "The association between hypercholesterolemia and sitosterolemia, and report of a sitosterolemia kindred.",
+        "abstract": "Sitosterolemia is associated with increases in intestinal sterol absorption, low-density lipoprotein cholesterol (LDL-C), and cardiovascular disease risk.",
+        "journal": "Journal of clinical lipidology",
+        "year": "2018",
+        "authors": [
+          "Brinton Eliot A",
+          "Hopkins Paul N",
+          "Hegele Robert A",
+          "Geller Andrew S",
+          "Polisecki Eliana Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily G, Member 8",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Diet, Fat-Restricted",
+          "Ezetimibe",
+          "Female",
+          "Heterozygote"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29169939/"
+      },
+      {
+        "pmid": "25444527",
+        "title": "Ezetimibe reduces plant sterol accumulation and favorably increases platelet count in sitosterolemia.",
+        "abstract": "To assess if ezetimibe (EZE), a sterol-absorption inhibitor, improves platelet (PLT) count and size relative to its effect on plasma plant sterol (PS) in patients with sitosterolemia (STSL).",
+        "journal": "The Journal of pediatrics",
+        "year": "2015",
+        "authors": [
+          "Othman Rgia A",
+          "Myrie Semone B",
+          "Mymin David",
+          "Merkens Louise S",
+          "Roullet Jean-Baptiste"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Canada",
+          "Cholesterol",
+          "Erythrocyte Count",
+          "Ezetimibe",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25444527/"
+      },
+      {
+        "pmid": "24267242",
+        "title": "Non-cholesterol sterols and cholesterol metabolism in sitosterolemia.",
+        "abstract": "Sitosterolemia (STSL) is a rare autosomal recessive disease, manifested by extremely elevated plant sterols (PS) in plasma and tissue, leading to xanthoma and premature atherosclerotic disease. Therapeutic approaches include limiting PS intake, interrupting enterohepatic circulation of bile acid using bile acid binding resins such as cholestyramine, and/or ileal bypass, and inhibiting intestinal sterol absorption by ezetimibe (EZE). The objective of this review is to evaluate sterol metabolism in STSL and the impact of the currently available treatments on sterol trafficking in this disease. The role of PS in initiation of xanthomas and premature atherosclerosis is also discussed. Blocking sterols absorption with EZE has revolutionized STSL patient treatment as it reduces circulating levels of non-cholesterol sterols in STSL. However, none of the available treatments including EZE have normalized plasma PS concentrations. Future studies are needed to: (i) explore where cholesterol and ",
+        "journal": "Atherosclerosis",
+        "year": "2013",
+        "authors": [
+          "Othman Rgia A",
+          "Myrie Semone B",
+          "Jones Peter J H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "ATP Binding Cassette Transporter, Subfamily G",
+          "ATP-Binding Cassette Transporters",
+          "Absorption",
+          "Atherosclerosis",
+          "Azetidines",
+          "Cholesterol",
+          "Disease Progression",
+          "Ezetimibe",
+          "Humans",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24267242/"
+      },
+      {
+        "pmid": "38509578",
+        "title": "Gene variants and clinical characteristics of children with sitosterolemia.",
+        "abstract": "To enhance the detection, management and monitoring of Chinese children afflicted with sitosterolemia by examining the physical characteristics and genetic makeup of pediatric patients.",
+        "journal": "Lipids in health and disease",
+        "year": "2024",
+        "authors": [
+          "Gu Rui",
+          "Wang Hui",
+          "Wang Chun-Lin",
+          "Lu Mei",
+          "Miao Miao"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Lipoproteins",
+          "ATP Binding Cassette Transporter, Subfamily G, Member 5",
+          "Phytosterols",
+          "Cholesterol",
+          "Ezetimibe",
+          "Xanthomatosis",
+          "Hypercholesterolemia",
+          "Intestinal Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38509578/"
+      },
+      {
+        "pmid": "18822021",
+        "title": "Long-term efficacy and safety of ezetimibe 10 mg in patients with homozygous sitosterolemia: a 2-year, open-label extension study.",
+        "abstract": "To assess the long-term efficacy and safety profile of ezetimibe 10 mg/day in patients with homozygous sitosterolemia.",
+        "journal": "International journal of clinical practice",
+        "year": "2008",
+        "authors": [
+          "Lütjohann D",
+          "von Bergmann K",
+          "Sirah W",
+          "Macdonell G",
+          "Johnson-Levonas A O"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Achilles Tendon",
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anticholesteremic Agents",
+          "Azetidines",
+          "Child",
+          "Double-Blind Method",
+          "Ezetimibe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18822021/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:00:02.018829",
+  "success": true,
+  "error_message": null
+}

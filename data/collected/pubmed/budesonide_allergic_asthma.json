@@ -1,0 +1,518 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Budesonide",
+    "disease": "allergic asthma",
+    "query_string": "Budesonide AND allergic asthma"
+  },
+  "data": {
+    "query": "Budesonide AND allergic asthma",
+    "results": [
+      {
+        "pmid": "38470381",
+        "title": "Allergic Rhinitis: A Review.",
+        "abstract": "Allergic rhinitis affects an estimated 15% of the US population (approximately 50 million individuals) and is associated with the presence of asthma, eczema, chronic or recurrent sinusitis, cough, and both tension and migraine headaches.",
+        "journal": "JAMA",
+        "year": "2024",
+        "authors": [
+          "Bernstein Jonathan A",
+          "Bernstein Joshua S",
+          "Makol Richika",
+          "Ward Stephanie"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Budesonide",
+          "Cetirizine",
+          "Fluticasone",
+          "Histamine H1 Antagonists",
+          "Immunoglobulin E",
+          "Mometasone Furoate",
+          "Olopatadine Hydrochloride",
+          "Pruritus",
+          "Rhinitis, Allergic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38470381/"
+      },
+      {
+        "pmid": "37422796",
+        "title": "Effects of omalizumab combined with budesonide formoterol on clinical efficacy, pulmonary function, immune function, and adverse reactions in children with moderate and severe allergic asthma.",
+        "abstract": "To evaluate the clinical efficacy and safety of combining omalizumab with budesonide formoterol to treat children with moderate and severe allergic asthma, and investigate the effect of this combination therapy on pulmonary and immune functions.",
+        "journal": "Allergologia et immunopathologia",
+        "year": "2023",
+        "authors": [
+          "Chen Fuzhe",
+          "Liang Lei",
+          "Chu Fang Fang",
+          "Lu Changlong",
+          "Xu Chongyu"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Budesonide",
+          "Omalizumab",
+          "Bronchodilator Agents",
+          "Formoterol Fumarate",
+          "Ethanolamines",
+          "Asthma",
+          "Budesonide, Formoterol Fumarate Drug Combination",
+          "Administration, Inhalation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37422796/"
+      },
+      {
+        "pmid": "40471636",
+        "title": "Effect of Montelukast and Budesonide Aerosol Inhalation in the Treatment of Allergic Rhinitis and asthma in Children and Its Effect on the Inflammatory Response of Children.",
+        "abstract": "Studies have investigated montelukast and budesonide aerosol inhalation for treating allergic rhinitis (AR) and bronchial asthma (BA) in children. However, there are significant variations in dosage and duration of administration. This research evaluated the efficacy in children with AR and BA and analyzed montelukast's impact on the inflammatory response. This retrospective cohort study involved 100 children with AR and BA who were admitted to \"Baoding Hospital, Beijing Children's Hospital Affiliated with the Capital Medical University\" from October 2022 to September 2023. They were divided into a budesonide group (budesonide n=50) and a combination group (montelukast and budesonide, n=50). Comparisons were made between the two groups in terms of clinical efficacy, severity scores of AR and BA before and after treatment, inflammatory indicators (interleukin-6 (IL-6), tumor necrosis factor-α (TNF-α)), pulmonary function indicators (forced expiratory volume in the first second (FEV1), p",
+        "journal": "Iranian journal of allergy, asthma, and immunology",
+        "year": "2025",
+        "authors": [
+          "Li Hui",
+          "Nie Lei",
+          "Zhang Tiecheng",
+          "Chen Ziwei",
+          "Gao Shipei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Budesonide",
+          "Sulfides",
+          "Child",
+          "Female",
+          "Male",
+          "Asthma",
+          "Cyclopropanes",
+          "Rhinitis, Allergic",
+          "Quinolines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40471636/"
+      },
+      {
+        "pmid": "38186993",
+        "title": "Effects of montelukast sodium combined with budesonide on pulmonary function, serum IgE levels, and EOS percentage in children with comorbid allergic rhinitis and asthma.",
+        "abstract": "This study was designed to determine the effects of montelukast sodium combined with budesonide on pulmonary function, serum immunoglobulin (Ig)E levels, and eosinophil (EOS) percentage in children comorbid with allergic rhinitis (AR) and asthma.",
+        "journal": "American journal of translational research",
+        "year": "2023",
+        "authors": [
+          "Guo Shasha",
+          "Cao Changxing"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38186993/"
+      },
+      {
+        "pmid": "27329088",
+        "title": "Combination Therapy with Budesonide and Salmeterol in Experimental Allergic Inflammation.",
+        "abstract": "The aim of this study was to determinate bronchodilator, antitussive, and ciliomodulatory activity of inhaled combination therapy with budesonide and salmeterol, and to correlate the results with the anti-inflammatory effect. The experiments were performed using two models of allergic inflammation (21 and 28 days long sensitization with ovalbumine) in guinea pigs. The animals were treated daily by aerosols of budesonide (1 mM), salmeterol (0.17 mM), and a half-dose combination of the two drugs. Antitussive and bronchodilator activities were evaluated in vivo. The ciliary beat frequency (CBF) was assessed in vitro in tracheal brushed samples, and inflammatory cytokines (IL-4, IL-5, IL-13, GM-CSF, and TNF-α) were determined in bronchoalveolar lavage fluid (BALF). We found that the combination therapy significantly decreased the number of cough efforts, airway reactivity, and the level of inflammatory cytokines in both models of allergic asthma. Three weeks long sensitization led to an in",
+        "journal": "Advances in experimental medicine and biology",
+        "year": "2016",
+        "authors": [
+          "Pappová L",
+          "Jošková M",
+          "Kazimierová I",
+          "Šutovská M",
+          "Fraňová S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Cilia",
+          "Cough",
+          "Disease Models, Animal",
+          "Drug Synergism",
+          "Drug Therapy, Combination",
+          "Guinea Pigs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27329088/"
+      },
+      {
+        "pmid": "25722071",
+        "title": "Budesonide increases TLR4 and TLR2 expression in Treg lymphocytes of allergic asthmatics.",
+        "abstract": "Reduced innate immunity responses as well as reduced T regulatory activities characterise bronchial asthma.",
+        "journal": "Pulmonary pharmacology & therapeutics",
+        "year": "2015",
+        "authors": [
+          "Pace Elisabetta",
+          "Di Sano Caterina",
+          "Ferraro Maria",
+          "Bruno Andreina",
+          "Caputo Valentina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asthma",
+          "Budesonide",
+          "Cytokines",
+          "Female",
+          "Flow Cytometry",
+          "Glucocorticoids",
+          "Humans",
+          "In Vitro Techniques",
+          "Interleukin-10"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25722071/"
+      },
+      {
+        "pmid": "25878387",
+        "title": "Acebrophylline-induced angioedema.",
+        "abstract": "A 53-year-old woman visited her physician complaining of acute breathlessness and productive cough. Her medications included budesonide and formoterol for asthma, fixed-dose combination aspirin 150 mg + clopidogrel 75 mg + atorvastatin 20 mg for ischemic heart disease. History revealed that she had allergic rhinitis and was hypersensitive to penicillins. The patient was prescribed acebrophylline (ABP). Six hours after ABP therapy she presented with generalized urticarial lesions, swelling of hands, feet, lips and face, suggestive of angioedema. ABP was stopped immediately, and the patient was treated symptomatically. This case was categorized as probable as per standard causality assessment scale.",
+        "journal": "Indian journal of pharmacology",
+        "year": "2015",
+        "authors": [
+          "Kuriachan Sanitha",
+          "Amberkar Mohan Babu V",
+          "Mohan Manu K",
+          "Shahul Hameed Aboobackar",
+          "Kishore Meenakumari Kamal"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ambroxol",
+          "Angioedema",
+          "Asthma",
+          "Bronchitis",
+          "Bronchodilator Agents",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Theophylline",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25878387/"
+      },
+      {
+        "pmid": "1382936",
+        "title": "Budesonide. An updated review of its pharmacological properties, and therapeutic efficacy in asthma and rhinitis.",
+        "abstract": "Inhaled budesonide is now well established in the management of adult and childhood asthma, and when nebulised, shows considerable promise in recurrent wheezing and in severe asthma in infants. Studies conducted since the drug was previously reviewed in the Journal in 1984 have confirmed the comparable efficacy of equal doses of budesonide and beclomethasone dipropionate, the ability of budesonide to reduce oral maintenance corticosteroid requirements, and demonstrated its potential as first-line treatment of mild to moderate asthma. Recent studies have established the usefulness and good tolerability of intranasal budesonide in the treatment of seasonal allergic and perennial rhinitis where the drug is more effective than disodium cromoglycate and at least as effective as beclomethasone dipropionate. After up to 10 years of treatment with inhaled budesonide there is no evidence that the drug damages the tracheobronchial lining or the nasal mucosa. Inhaled corticosteroids continue to p",
+        "journal": "Drugs",
+        "year": "1992",
+        "authors": [
+          "Brogden R N",
+          "McTavish D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Glucocorticoids",
+          "Humans",
+          "Pregnenediones",
+          "Rhinitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1382936/"
+      },
+      {
+        "pmid": "6394263",
+        "title": "Budesonide. A preliminary review of its pharmacodynamic properties and therapeutic efficacy in asthma and rhinitis.",
+        "abstract": "Budesonide is a non-halogenated glucocorticosteroid which has been shown to possess a high ratio of topical to systemic activity compared with a number of reference corticosteroids such as beclomethasone dipropionate, flunisolide, and triamcinolone acetonide. It appears to undergo extensive first-pass metabolism to metabolites of minimal activity which accounts for the low level of systemic activity. The majority of therapeutic trials in asthma have been of short term duration and have demonstrated that conventional doses of inhaled budesonide (200 to 800 micrograms/day) and beclomethasone dipropionate (400 to 800 micrograms/day) are of similar efficacy in both adults and children with moderate to severe asthma. Other studies have compared high doses of inhaled budesonide (400 to 3200 micrograms/day in 4 divided doses) with both alternate day (7.5 to 60 mg) and daily (7.5 to 40 mg) oral prednisone in patients with severe or unstable asthma. In the small number of such trials to date, i",
+        "journal": "Drugs",
+        "year": "1984",
+        "authors": [
+          "Clissold S P",
+          "Heel R C"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adrenal Glands",
+          "Adult",
+          "Anaphylaxis",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Budesonide",
+          "Child",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6394263/"
+      },
+      {
+        "pmid": "17135763",
+        "title": "Treatment and outcomes in patients with asthma and allergic rhinitis in the United kingdom.",
+        "abstract": "Since allergic rhinitis in asthma patients is associated with worse asthma control, the treatment of the comorbid condition may improve outcomes.",
+        "journal": "International archives of allergy and immunology",
+        "year": "2007",
+        "authors": [
+          "Zhang Qiaoyi",
+          "Thomas Michael",
+          "Wisniewski Tami",
+          "Sazonov Kocevar Vasilisa",
+          "Price David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetates",
+          "Adolescent",
+          "Adrenergic beta-Agonists",
+          "Adult",
+          "Androstadienes",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Beclomethasone",
+          "Budesonide",
+          "Cohort Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17135763/"
+      },
+      {
+        "pmid": "35344453",
+        "title": "Machine learning model for classification of predominantly allergic and non-allergic asthma among preschool children with asthma hospitalization.",
+        "abstract": "Asthma is the most frequent chronic airway illness in preschool children and is difficult to diagnose due to the disease's heterogeneity. This study aimed to investigate different machine learning models and suggested the most effective one to classify two forms of asthma in preschool children (predominantly allergic asthma and non-allergic asthma) using a minimum number of features.",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "2023",
+        "authors": [
+          "Bhardwaj Piyush",
+          "Tyagi Ashish",
+          "Tyagi Shashank",
+          "Antão Joana",
+          "Deng Qichen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Humans",
+          "Asthma",
+          "Azithromycin",
+          "Budesonide",
+          "Chronic Disease",
+          "Hospitalization",
+          "Machine Learning"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35344453/"
+      },
+      {
+        "pmid": "32595223",
+        "title": "Asthma and Respiratory Foundation NZ Adolescent and Adult Asthma Guidelines 2020: a quick reference guide.",
+        "abstract": "The purpose of the 2020 Asthma and Respiratory Foundation NZ Adolescent and Adult Asthma Guidelines is to provide simple, practical and evidence-based recommendations for the diagnosis, assessment and management of asthma in adolescents and adults (aged 12 and over) in a quick reference format. The intended users are health professionals responsible for delivering asthma care in the community and hospital settings, and those responsible for the training of such health professionals. The main changes in the 2020 update are: 1) combining the recommendations for both adolescents and adults in a single document, 2) the recommendation to avoid SABA-only treatment in the long-term management of asthma, 3) the use of budesonide/formoterol reliever, with or without maintenance budesonide/formoterol, is preferred to SABA reliever, with or without maintenance ICS or ICS/LABA, across the spectrum of asthma severity, 4) introduction of the terminology 'anti-inflammatory reliever (AIR)' therapy to ",
+        "journal": "The New Zealand medical journal",
+        "year": "2020",
+        "authors": [
+          "Beasley Richard",
+          "Beckert Lutz",
+          "Fingleton James",
+          "Hancox Robert J",
+          "Harwood Matire"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Asthma",
+          "Delivery of Health Care",
+          "Humans",
+          "New Zealand",
+          "Practice Guidelines as Topic",
+          "Societies, Medical",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32595223/"
+      },
+      {
+        "pmid": "36249456",
+        "title": "Effects of a polyherbal formulation on inflammation and histopathological alterations in mice with ovalbumin-induced allergic asthma.",
+        "abstract": "Allergic asthma is a complex inflammatory disorder that affects the airways. As an ancient medical system, Iranian Traditional Medicine (ITM) recommends a polyherbal formula called \"Monzej-e-balgham\" for the treatment of asthma. In the present investigation, the antiasthmatic effects of \"Monzej-e-balgham\" were examined in a murine model of allergic asthma.",
+        "journal": "Avicenna journal of phytomedicine",
+        "year": "2022",
+        "authors": [
+          "Hamzeloo-Moghadam Maryam",
+          "Athari Seyyed Shamsadin",
+          "Kashafroodi Hanieh",
+          "Dargahi Tahereh",
+          "Ara Leila"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36249456/"
+      },
+      {
+        "pmid": "18328368",
+        "title": "Asthma and rhinitis: comorbidities.",
+        "abstract": "The connection between asthma and rhinitis is not a new discovery. Significant progress has been made in understanding the relationship of these two conditions, however, and the implications of the asthma-rhinitis link make it increasingly important. Patients who have asthma and rhinitis tend to have more severe disease with higher treatment costs. Treatment of rhinitis may improve asthma control, and early treatment of allergies may prevent the development of asthma. This article more fully explores the epidemiologic, pathophysiologic, and clinical relationships between asthma and rhinitis.",
+        "journal": "Otolaryngologic clinics of North America",
+        "year": "2008",
+        "authors": [
+          "Ryan Matthew W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Budesonide",
+          "Comorbidity",
+          "Humans",
+          "Immunotherapy",
+          "Intercellular Adhesion Molecule-1",
+          "Rhinitis, Allergic, Perennial",
+          "Vascular Cell Adhesion Molecule-1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18328368/"
+      },
+      {
+        "pmid": "9669826",
+        "title": "Risk-benefit assessment of fluticasone propionate in the treatment of asthma and allergic rhinitis.",
+        "abstract": "Fluticasone propionate (FP) is a new topical corticosteroid spray for the treatment of allergic rhinitis and asthma. FP has been shown to be effective for the treatment of adult and pediatric asthma, even at rather low doses (25 microg twice daily [b.i.d.]); many studies in asthma have shown clinical efficacy of fluticasone at half the dose of the comparison steroid (such as beclomethasone dipropionate [BDP] or budesonide [BUD]). However, exact dose comparisons cannot be made because dose-ranging comparison studies have not been done. Studies in allergic rhinitis in children and adults have shown good efficacy in FP-treated patients at a dose of 200 microg once daily (o.d.), intranasally. In summary, FP is effective in both asthma and allergic rhinitis.",
+        "journal": "The Journal of asthma : official journal of the Association for the Care of Asthma",
+        "year": "1998",
+        "authors": [
+          "Storms W W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Androstadienes",
+          "Anti-Asthmatic Agents",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Fluticasone",
+          "Humans",
+          "Rhinitis, Allergic, Perennial",
+          "Rhinitis, Allergic, Seasonal",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9669826/"
+      },
+      {
+        "pmid": "27650241",
+        "title": "Allergy Medications During Pregnancy.",
+        "abstract": "Allergic diseases are common in women of childbearing age. Both asthma and atopic conditions may worsen, improve or remain the same during pregnancy. Primary care physicians commonly encounter women receiving multiple medications for pre-existing atopic conditions, who then become pregnant and require medication changes to avoid potential fetal injury or congenital malformations. Each medication should be evaluated; intranasal and inhaled steroids are relatively safe to continue during pregnancy (budesonide is the drug of choice), second-generation antihistamines of choice are cetirizine and loratadine, leukotriene receptor antagonists are safe, sparing use of oral decongestants during the first trimester and omalizumab may be used for both uncontrolled asthma and for antihistamine-resistant urticaria. Medications to avoid during pregnancy include intranasal antihistamines, first-generation antihistamines, mycophenolate mofetil, methotrexate, cyclosporine, azathioprine and zilueton. Co",
+        "journal": "The American journal of the medical sciences",
+        "year": "2016",
+        "authors": [
+          "Gonzalez-Estrada Alexei",
+          "Geraci Stephen A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Allergic Agents",
+          "Asthma",
+          "Female",
+          "Histamine Antagonists",
+          "Humans",
+          "Hypersensitivity",
+          "Nasal Decongestants",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27650241/"
+      },
+      {
+        "pmid": "23573194",
+        "title": "Th17 immunity in children with allergic asthma and rhinitis: a pharmacological approach.",
+        "abstract": "Th17 cells and IL-17A play a role in the development and progression of allergic diseases. We analyzed the IL-17A levels in sputum supernatants (Ss), nasal wash (NW) and plasma (P) from Healthy Controls (HC) and children with Asthma/Rhinitis. We tested the expression of IL-17A, RORγ(t) and FOXP3 in peripheral blood T-lymphocytes from intermittent and mild-moderate asthma. The effect of Budesonide and Formoterol was tested \"in vitro\" on IL-17A, RORγ(t) and FOXP3 expression in cultured T-lymphocytes from mild-moderate asthma/persistent rhinitis patients, and on nasal and bronchial epithelial cells stimulated with NW and Ss from mild-moderate asthma/persistent rhinitis. Further, the effect of 12 weeks of treatment with Budesonide and Formoterol was tested \"in vivo\" in T-lymphocytes from mild-moderate asthma/persistent rhinitis patients. IL-17A was increased in Ss, NW and P from children with mild-moderate asthma compared with intermittent and HC. In cultured T-lymphocytes IL-17A and RORγ(",
+        "journal": "PloS one",
+        "year": "2013",
+        "authors": [
+          "Albano Giusy Daniela",
+          "Di Sano Caterina",
+          "Bonanno Anna",
+          "Riccobono Loredana",
+          "Gagliardo Rosalia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adolescent",
+          "Adrenergic beta-2 Receptor Agonists",
+          "Anti-Asthmatic Agents",
+          "Asthma",
+          "Budesonide",
+          "Case-Control Studies",
+          "Cells, Cultured",
+          "Child",
+          "Ethanolamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23573194/"
+      },
+      {
+        "pmid": "17478662",
+        "title": "Treating asthma and comorbid allergic rhinitis in pregnancy.",
+        "abstract": "Women with severe or uncontrolled asthma are at higher risk for pregnancy complications and adverse fetal outcomes than women with well-controlled asthma. Recent evidence-based guidelines have concluded that it is safer for pregnant women with asthma to be treated pharmacologically than to continue to have asthma symptoms and exacerbations. According to the Asthma and Pregnancy Working Group (APWG) of the National Asthma Education and Prevention Program, optimal treatment of asthma during pregnancy includes treatment of comorbid allergic rhinitis (AR), which can trigger or aggravate asthma symptoms. In general, treatment of both asthma and AR during pregnancy should follow the same stepwise approach that is used in the general population. This article presents the specific recommendations from the most recent APWG report and from other systematic reviews about which asthma and allergic rhinitis drugs should be preferred during pregnancy. Of the corticosteroids, budesonide has the most ",
+        "journal": "Journal of the American Board of Family Medicine : JABFM",
+        "year": "2007",
+        "authors": [
+          "Yawn Barbara",
+          "Knudtson Mary"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Asthma",
+          "Comorbidity",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "Female",
+          "Humans",
+          "Pregnancy",
+          "Rhinitis, Allergic, Seasonal",
+          "United States"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17478662/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:09:30.550892",
+  "success": true,
+  "error_message": null
+}

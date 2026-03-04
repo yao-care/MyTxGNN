@@ -1,0 +1,606 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": "primary peritoneal carcinoma",
+    "query_string": "Bevacizumab AND primary peritoneal carcinoma"
+  },
+  "data": {
+    "query": "Bevacizumab AND primary peritoneal carcinoma",
+    "results": [
+      {
+        "pmid": "32305099",
+        "title": "Bevacizumab and platinum-based combinations for recurrent ovarian cancer: a randomised, open-label, phase 3 trial.",
+        "abstract": "State-of-the art therapy for recurrent ovarian cancer suitable for platinum-based re-treatment includes bevacizumab-containing combinations (eg, bevacizumab combined with carboplatin-paclitaxel or carboplatin-gemcitabine) or the most active non-bevacizumab regimen: carboplatin-pegylated liposomal doxorubicin. The aim of this head-to-head trial was to compare a standard bevacizumab-containing regimen versus carboplatin-pegylated liposomal doxorubicin combined with bevacizumab.",
+        "journal": "The Lancet. Oncology",
+        "year": "2020",
+        "authors": [
+          "Pfisterer Jacobus",
+          "Shannon Catherine M",
+          "Baumann Klaus",
+          "Rau Joern",
+          "Harter Philipp"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Australia",
+          "Austria",
+          "Bevacizumab",
+          "Carboplatin",
+          "Doxorubicin",
+          "Fallopian Tube Neoplasms",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32305099/"
+      },
+      {
+        "pmid": "22529265",
+        "title": "OCEANS: a randomized, double-blind, placebo-controlled phase III trial of chemotherapy with or without bevacizumab in patients with platinum-sensitive recurrent epithelial ovarian, primary peritoneal, or fallopian tube cancer.",
+        "abstract": "This randomized, multicenter, blinded, placebo-controlled phase III trial tested the efficacy and safety of bevacizumab (BV) with gemcitabine and carboplatin (GC) compared with GC in platinum-sensitive recurrent ovarian, primary peritoneal, or fallopian tube cancer (ROC).",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2012",
+        "authors": [
+          "Aghajanian Carol",
+          "Blank Stephanie V",
+          "Goff Barbara A",
+          "Judson Patricia L",
+          "Teneriello Michael G"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carcinoma, Ovarian Epithelial",
+          "Disease Progression",
+          "Disease-Free Survival",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22529265/"
+      },
+      {
+        "pmid": "28438473",
+        "title": "Bevacizumab and paclitaxel-carboplatin chemotherapy and secondary cytoreduction in recurrent, platinum-sensitive ovarian cancer (NRG Oncology/Gynecologic Oncology Group study GOG-0213): a multicentre, open-label, randomised, phase 3 trial.",
+        "abstract": "Platinum-based chemotherapy doublets are a standard of care for women with ovarian cancer recurring 6 months after completion of initial therapy. In this study, we aimed to explore the roles of secondary surgical cytoreduction and bevacizumab in this population, and report the results of the bevacizumab component here.",
+        "journal": "The Lancet. Oncology",
+        "year": "2017",
+        "authors": [
+          "Coleman Robert L",
+          "Brady Mark F",
+          "Herzog Thomas J",
+          "Sabbatini Paul",
+          "Armstrong Deborah K"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carboplatin",
+          "Carcinoma, Ovarian Epithelial",
+          "Cytoreduction Surgical Procedures",
+          "Disease-Free Survival",
+          "Fallopian Tube Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28438473/"
+      },
+      {
+        "pmid": "31216226",
+        "title": "Final Overall Survival of a Randomized Trial of Bevacizumab for Primary Treatment of Ovarian Cancer.",
+        "abstract": "We report the final, protocol-specified analysis of overall survival (OS) in GOG-0218, a phase III, randomized trial of bevacizumab in women with newly diagnosed ovarian, fallopian tube, or primary peritoneal carcinoma.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2019",
+        "authors": [
+          "Tewari Krishnansu S",
+          "Burger Robert A",
+          "Enserro Danielle",
+          "Norquist Barbara M",
+          "Swisher Elizabeth M"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carboplatin",
+          "Carcinoma, Ovarian Epithelial",
+          "Double-Blind Method",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31216226/"
+      },
+      {
+        "pmid": "39841949",
+        "title": "Neoadjuvant Chemotherapy for Newly Diagnosed, Advanced Ovarian Cancer: ASCO Guideline Update.",
+        "abstract": "To provide updated guidance regarding neoadjuvant chemotherapy (NACT) and primary cytoreductive surgery (PCS) among patients with stage III-IV epithelial ovarian, fallopian tube, or primary peritoneal cancer (epithelial ovarian cancer [EOC]).",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2025",
+        "authors": [
+          "Gaillard Stéphanie",
+          "Lacchetti Christina",
+          "Armstrong Deborah K",
+          "Cliby William A",
+          "Edelson Mitchell I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Neoadjuvant Therapy",
+          "Ovarian Neoplasms",
+          "Cytoreduction Surgical Procedures",
+          "Carcinoma, Ovarian Epithelial",
+          "Neoplasm Staging",
+          "Chemotherapy, Adjuvant",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39841949/"
+      },
+      {
+        "pmid": "36736157",
+        "title": "Safety and efficacy of mirvetuximab soravtansine, a folate receptor alpha (FRα)-targeting antibody-drug conjugate (ADC), in combination with bevacizumab in patients with platinum-resistant ovarian cancer.",
+        "abstract": "Evaluate the antitumor activity and safety profile of the combination of mirvetuximab soravtansine and bevacizumab in patients with platinum-resistant ovarian cancer.",
+        "journal": "Gynecologic oncology",
+        "year": "2023",
+        "authors": [
+          "Gilbert Lucy",
+          "Oaknin Ana",
+          "Matulonis Ursula A",
+          "Mantia-Smaldone Gina M",
+          "Lim Peter C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Middle Aged",
+          "Bevacizumab",
+          "Ovarian Neoplasms",
+          "Folate Receptor 1",
+          "Drug Resistance, Neoplasm",
+          "Carcinoma, Ovarian Epithelial",
+          "Immunoconjugates",
+          "Antineoplastic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36736157/"
+      },
+      {
+        "pmid": "31283415",
+        "title": "Fallopian Tube Carcinoma.",
+        "abstract": "Primary fallopian tube carcinoma is a rare and difficult to cure disease. It is often grouped under the epithelial ovarian cancer umbrella, together with primary ovarian and peritoneal carcinomas. More recent evidence has suggested that epithelial ovarian cancers originate from a fallopian tube precursor. The mainstay of treatment is surgical cytoreduction and platinum-based chemotherapy. There is much debate over the best timing for surgery and the best approach to delivering the chemotherapy: traditional intravenous once every 3 weeks regimen, versus intraperitoneal, versus dose-dense intravenous regimens. Although these debates continue, novel targeted therapies, including bevacizumab and poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibitors, have emerged. PARP inhibitors are particularly efficacious in patients with BRCA1/2 gene mutations, and their use has been shown to prolong patient survival. This article reviews the pathologic etiology; describes the heredity, ",
+        "journal": "Journal of oncology practice",
+        "year": "2019",
+        "authors": [
+          "Stasenko Marina",
+          "Fillipova Olga",
+          "Tew William P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Carcinoma in Situ",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "Humans",
+          "Incidence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31283415/"
+      },
+      {
+        "pmid": "32205449",
+        "title": "Primary cytoreductive surgery with or without hyperthermic intraperitoneal chemotherapy (HIPEC) for FIGO stage III epithelial ovarian cancer: OVHIPEC-2, a phase III randomized clinical trial.",
+        "abstract": "The addition of hyperthermic intraperitoneal chemotherapy (HIPEC) to interval cytoreductive surgery improves recurrence-free and overall survival in patients with FIGO stage III ovarian cancer who are ineligible for primary cytoreductive surgery. The effect of HIPEC remains undetermined in patients who are candidates for primary cytoreductive surgery.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2020",
+        "authors": [
+          "Koole Simone",
+          "van Stein Ruby",
+          "Sikorska Karolina",
+          "Barton Desmond",
+          "Perrin Lewis"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Carcinoma, Ovarian Epithelial",
+          "Clinical Trials, Phase III as Topic",
+          "Cytoreduction Surgical Procedures",
+          "Fallopian Tube Neoplasms",
+          "Female",
+          "Humans",
+          "Hyperthermic Intraperitoneal Chemotherapy",
+          "Ovarian Neoplasms",
+          "Peritoneal Neoplasms",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32205449/"
+      },
+      {
+        "pmid": "36697062",
+        "title": "Conversion Surgery After Atezolizumab Plus Bevacizumab for Primary and Peritoneal Metastasis After Hepatocellular Carcinoma Rupture.",
+        "abstract": "Conversion surgery (CS) following atezolizumab plus bevacizumab (Atez+Bev) is a treatment strategy for unresectable hepatocellular carcinoma (UR-HCC). Herein, we report a case of CS after transcatheter arterial embolization (TAE) and Atez+Bev for primary HCC with peritoneal metastases and multiple liver metastasis after HCC rupture.",
+        "journal": "Anticancer research",
+        "year": "2023",
+        "authors": [
+          "Miyata Tatsunori",
+          "Sugi Kazuhiro",
+          "Horino Taichi",
+          "Ono Asuka",
+          "Tagayasu Yoshiyuki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Aged",
+          "Carcinoma, Hepatocellular",
+          "Liver Neoplasms",
+          "Bevacizumab",
+          "Peritoneal Neoplasms",
+          "Hepatectomy",
+          "Antibodies, Monoclonal, Humanized"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36697062/"
+      },
+      {
+        "pmid": "31486887",
+        "title": "Primary peritoneal serous papillary carcinoma: a case series.",
+        "abstract": "To present the clinical and laboratory characteristics, as well as the management, of patients with primary peritoneal serous papillary carcinoma (PPSPC).",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2019",
+        "authors": [
+          "Blontzos Nikolaos",
+          "Vafias Evangelos",
+          "Vorgias George",
+          "Kalinoglou Nikolaos",
+          "Iavazzo Christos"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Agents",
+          "Bevacizumab",
+          "CA-125 Antigen",
+          "Carboplatin",
+          "Carcinoma, Papillary",
+          "Cytoreduction Surgical Procedures",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31486887/"
+      },
+      {
+        "pmid": "35049696",
+        "title": "Neoadjuvant and Adjuvant Systemic Therapy for Newly Diagnosed Stage II-IV Epithelial Ovary, Fallopian Tube, or Primary Peritoneal Carcinoma: A Practice Guideline.",
+        "abstract": "This study aims to provide guidance for the use of neoadjuvant and adjuvant systemic therapy in women with newly diagnosed stage II-IV epithelial ovary, fallopian tube, or primary peritoneal carcinoma.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "year": "2022",
+        "authors": [
+          "Hirte Hal",
+          "Poon Raymond",
+          "Yao Xiaomei",
+          "May Taymaa",
+          "Ethier Josee-Lyne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Carcinoma",
+          "Fallopian Tube Neoplasms",
+          "Fallopian Tubes",
+          "Female",
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35049696/"
+      },
+      {
+        "pmid": "38872480",
+        "title": "First-line bevacizumab plus chemotherapy in Chinese patients with stage III/IV epithelial ovarian cancer, fallopian tube cancer or primary peritoneal cancer: a phase III randomized controlled trial.",
+        "abstract": "First-line bevacizumab plus carboplatin and paclitaxel (CP) is approved for stage III/IV ovarian cancer treatment following initial surgical resection, based on global phase III GOG-0218 and ICON7 trials. This study evaluated the efficacy and safety of bevacizumab + CP as first-line ovarian cancer therapy in Chinese patients.",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2024",
+        "authors": [
+          "Wu Xiaohua",
+          "Liu Jihong",
+          "An Ruifang",
+          "Yin Rutie",
+          "Zhang Yu"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carboplatin",
+          "Carcinoma, Ovarian Epithelial",
+          "China"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38872480/"
+      },
+      {
+        "pmid": "32081463",
+        "title": "Phase Ib study of mirvetuximab soravtansine, a folate receptor alpha (FRα)-targeting antibody-drug conjugate (ADC), in combination with bevacizumab in patients with platinum-resistant ovarian cancer.",
+        "abstract": "To evaluate the safety and clinical activity of mirvetuximab soravtansine, an antibody-drug conjugate comprising a humanized anti-folate receptor alpha (FRα) monoclonal antibody, cleavable linker, and the maytansinoid DM4, a potent tubulin-targeting agent, in combination with bevacizumab in patients with FRα-positive, platinum-resistant ovarian cancer.",
+        "journal": "Gynecologic oncology",
+        "year": "2020",
+        "authors": [
+          "O'Malley David M",
+          "Matulonis Ursula A",
+          "Birrer Michael J",
+          "Castro Cesar M",
+          "Gilbert Lucy"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carcinoma, Ovarian Epithelial",
+          "Drug Resistance, Neoplasm",
+          "Female",
+          "Folate Receptor 1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32081463/"
+      },
+      {
+        "pmid": "34648082",
+        "title": "Prospective feasibility study of neoadjuvant dose-dense paclitaxel plus carboplatin with bevacizumab therapy followed by interval debulking surgery for advanced ovarian, fallopian tube, and primary peritoneal cancer patients.",
+        "abstract": "This study aimed to investigate the clinical benefit of dose-dense paclitaxel plus carboplatin (TC) with bevacizumab therapy for advanced ovarian, fallopian tube, and primary peritoneal cancer patients in the neoadjuvant setting.",
+        "journal": "International journal of clinical oncology",
+        "year": "2022",
+        "authors": [
+          "Iwasa-Inoue Naomi",
+          "Nomura Hiroyuki",
+          "Kataoka Fumio",
+          "Chiyoda Tatsuyuki",
+          "Yoshihama Tomoko"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carboplatin",
+          "Cytoreduction Surgical Procedures",
+          "Fallopian Tube Neoplasms",
+          "Fallopian Tubes",
+          "Feasibility Studies",
+          "Female",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34648082/"
+      },
+      {
+        "pmid": "39032926",
+        "title": "Clinical Trial Protocol for ROSELLA: a phase 3 study of relacorilant in combination with nab-paclitaxel versus nab-paclitaxel monotherapy in advanced platinum-resistant ovarian cancer.",
+        "abstract": "Ovarian cancer has the highest mortality among gynecologic cancers, primarily because it typically is diagnosed at a late stage and because of the development of chemoresistance in recurrent disease. Improving outcomes in women with platinum-resistant ovarian cancer is a substantial unmet need. Activation of the glucocorticoid receptor (GR) by cortisol has been shown to suppress the apoptotic pathways used by cytotoxic agents, limiting their efficacy. Selective GR modulation may be able to counteract cortisol's antiapoptotic effects, enhancing chemotherapy's efficacy. A previous phase 2 study has shown that adding intermittently dosed relacorilant, a selective GR modulator, to nab-paclitaxel improved outcomes, including progression-free survival (PFS) and overall survival (OS), with minimal added toxicity, in women with recurrent platinum-resistant ovarian cancer. The ROSELLA study aims to confirm and expand on these findings in a larger population.",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2024",
+        "authors": [
+          "Olawaiye Alexander B",
+          "Kim Jae-Weon",
+          "Bagameri Andrea",
+          "Bishop Erin",
+          "Chudecka-Głaz Anita"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Albumins",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carcinoma, Ovarian Epithelial",
+          "Clinical Trials, Phase III as Topic",
+          "Drug Resistance, Neoplasm",
+          "Multicenter Studies as Topic",
+          "Neoplasm Recurrence, Local",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39032926/"
+      },
+      {
+        "pmid": "36854492",
+        "title": "Efficacy and Safety of Platinum-based Chemotherapy With Bevacizumab Followed by Bevacizumab Maintenance for Recurrent Ovarian, Fallopian Tube, and Primary Peritoneal Cancer During PARP Inhibitor Therapy: A Multicenter Retrospective Study.",
+        "abstract": "In recent years, the usefulness of poly ADP-ribose polymerase (PARP) inhibitors as subsequent maintenance therapy with poly ADP-ribose polymerase (PARP) inhibitors has been reported. However, it has been reported shown that platinum-based chemotherapy has a low response rate and short progression-free survival for recurrent platinum-sensitive ovarian cancer during treatment with PARP inhibitor therapy. This retrospective study evaluated platinum-based chemotherapy with bevacizumab (BEV) followed by BEV maintenance in these recurrent patients.",
+        "journal": "Anticancer research",
+        "year": "2023",
+        "authors": [
+          "Abe Marina",
+          "Shoji Tadahiro",
+          "Chiba Yohei",
+          "Takatori Eriko",
+          "Kaido Yoshitaka"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Poly(ADP-ribose) Polymerase Inhibitors",
+          "Bevacizumab",
+          "Retrospective Studies",
+          "Platinum",
+          "Carboplatin",
+          "Fallopian Tubes",
+          "Carcinoma, Ovarian Epithelial",
+          "Neutropenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36854492/"
+      },
+      {
+        "pmid": "33862245",
+        "title": "Neoadjuvant and adjuvant systemic therapy for newly diagnosed stage II- IV epithelial ovary, fallopian tube, or primary peritoneal carcinoma: A systematic review.",
+        "abstract": "To systematically review neoadjuvant and adjuvant therapy options for women with newly diagnosed stage II-IV ovarian cancer.",
+        "journal": "Critical reviews in oncology/hematology",
+        "year": "2021",
+        "authors": [
+          "Hirte Hal",
+          "Poon Raymond",
+          "Yao Xiaomei",
+          "May Taymaa",
+          "Ethier Josee-Lyne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Carcinoma",
+          "Chemotherapy, Adjuvant",
+          "Fallopian Tube Neoplasms",
+          "Fallopian Tubes",
+          "Female",
+          "Humans",
+          "Neoadjuvant Therapy",
+          "Ovarian Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33862245/"
+      },
+      {
+        "pmid": "34278661",
+        "title": "Peutz-Jeghers syndrome complicated by gastric-type cervical mucinous carcinoma and primary peritoneal carcinoma.",
+        "abstract": "A 45-year-old multiparous woman with a STK11 mutation and a history of Peutz-Jeghers syndrome underwent radical hysterectomy and bilateral salpingo-oophorectomy for a gastric-type cervical mucinous carcinoma. Four and a half years later, blood tests revealed elevations in CEA and CA125 tumor marker levels, and computed tomography showed multiple calcifications in the peritoneum. Peritoneal dissemination was suspected, and a laparoscopic biopsy was performed. Histopathology showed a high-grade serous carcinoma, and the patient was diagnosed with a metachronous stage IIIC primary peritoneal carcinoma. She had no BRCA1/2 mutation. After chemotherapy with docetaxel, carboplatin, and bevacizumab, she achieved complete remission.",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2021",
+        "authors": [
+          "Kotaka Saki",
+          "Kanno Kiyoshi",
+          "Yanai Shiori",
+          "Omori Masako",
+          "Andou Masaaki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenocarcinoma, Mucinous",
+          "Female",
+          "Humans",
+          "Hysterectomy",
+          "Middle Aged",
+          "Peritoneal Neoplasms",
+          "Peutz-Jeghers Syndrome",
+          "Salpingo-oophorectomy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34278661/"
+      },
+      {
+        "pmid": "24978709",
+        "title": "Bevacizumab shows activity in patients with low-grade serous ovarian and primary peritoneal cancer.",
+        "abstract": "Low-grade serous (LGS) ovarian and primary peritoneal cancer is a rare disease with limited therapeutic options. Low response rates are observed with cytotoxic chemotherapy. However, significant responses have been reported in patients treated with bevacizumab. The objective of this study was to determine the response rate to bevacizumab with or without concurrent chemotherapy in patients with recurrent serous borderline or LGS ovarian or primary peritoneal cancer.",
+        "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+        "year": "2014",
+        "authors": [
+          "Grisham Rachel N",
+          "Iyer Gopa",
+          "Sala Evis",
+          "Zhou Qin",
+          "Iasonos Alexia"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Angiogenesis Inhibitors",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carboplatin",
+          "Carcinoma, Ovarian Epithelial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24978709/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:20:07.661298",
+  "success": true,
+  "error_message": null
+}

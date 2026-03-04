@@ -1,0 +1,612 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Rituximab",
+    "disease": "mantle cell lymphoma",
+    "query_string": "Rituximab AND mantle cell lymphoma"
+  },
+  "data": {
+    "query": "Rituximab AND mantle cell lymphoma",
+    "results": [
+      {
+        "pmid": "32126141",
+        "title": "Rituximab/bendamustine and rituximab/cytarabine induction therapy for transplant-eligible mantle cell lymphoma.",
+        "abstract": "The addition of high-dose cytarabine to rituximab/bendamustine (RB) induction could improve outcomes for transplant-eligible patients with mantle cell lymphoma (MCL). We conducted a pooled analysis of 2 phase 2 trials and an off-trial cohort each testing 3 cycles of RB and 3 cycles of rituximab/high-dose cytarabine (RC) followed by autologous stem cell transplantation (ASCT) among untreated, transplant-eligible patients with MCL. Dana-Farber Cancer Institute (DFCI) and Washington University in St. Louis (WUSTL) led separate phase 2 trials testing sequential and alternating cycles of RB/RC, respectively. Patients treated at DFCI with sequential RB/RC off trial were retrospectively identified. Minimal residual disease (MRD) was assessed in the DFCI trial. A total of 88 patients (23 DFCI trial, 18 WUSTL trial, and 47 off trial) received RB/RC; 92% of patients completed induction, and 84% underwent planned consolidative ASCT. Grade 3 or 4 adverse events among trial patients included lympho",
+        "journal": "Blood advances",
+        "year": "2020",
+        "authors": [
+          "Merryman Reid W",
+          "Edwin Natasha",
+          "Redd Robert",
+          "Bsat Jad",
+          "Chase Matthew"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Cytarabine",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Induction Chemotherapy",
+          "Lymphoma, Mantle-Cell",
+          "Retrospective Studies",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32126141/"
+      },
+      {
+        "pmid": "38669626",
+        "title": "Obinutuzumab vs rituximab for transplant-eligible patients with mantle cell lymphoma.",
+        "abstract": "Obinutuzumab (O) and rituximab (R) are 2 CD antibodies that have never been compared in a prospective randomized trial of mantle cell lymphoma (MCL). Herein, we report the long-term outcome of the LyMa-101 trial, in which newly diagnosed patients with MCL were treated with chemotherapy plus O before transplantation, followed by O maintenance (O group). We then compared these patients with those treated with the same treatment design with R instead of O (R group). A propensity score matching (PSM) was used to compare the 2 populations (O vs R groups) in terms of measurable residual disease (MRD) at the end of induction (EOI), progression-free survival (PFS), and overall survival (OS). In LyMa-101, the estimated 5-year PFS and OS after inclusion (n = 85) were 83.4% (95% confidence interval [CI], 73.5-89.8) and 86.9% (95% CI, 77.6-92.5), respectively. At EOI, patients treated in the O group had more frequent bone marrow MRD negativity than those treated in the R group (83.1% vs 63.4%; χ2,",
+        "journal": "Blood",
+        "year": "2024",
+        "authors": [
+          "Sarkozy Clémentine",
+          "Callanan Mary",
+          "Thieblemont Catherine",
+          "Obéric Lucie",
+          "Burroni Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Rituximab",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Aged",
+          "Antineoplastic Agents, Immunological",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38669626/"
+      },
+      {
+        "pmid": "30348538",
+        "title": "Frontline bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP) versus rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) in transplantation-ineligible patients with newly diagnosed mantle cell lymphoma: final overall survival results of a randomised, open-label, phase 3 study.",
+        "abstract": "In the LYM-3002 study, the efficacy and safety of frontline bortezomib plus rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP) and rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) were compared in transplant-ineligible patients with untreated, newly diagnosed, mantle cell lymphoma. We report the final overall survival and safety outcomes for patients in the long-term follow-up phase after the primary progression-free-survival endpoint was met.",
+        "journal": "The Lancet. Oncology",
+        "year": "2018",
+        "authors": [
+          "Robak Tadeusz",
+          "Jin Jie",
+          "Pylypenko Halyna",
+          "Verhoef Gregor",
+          "Siritanaratkul Noppadol"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Asia",
+          "Bortezomib",
+          "Cyclophosphamide",
+          "Disease Progression",
+          "Doxorubicin",
+          "Europe",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30348538/"
+      },
+      {
+        "pmid": "39023870",
+        "title": "Is rituximab retro in mantle cell lymphoma?",
+        "abstract": "",
+        "journal": "Blood",
+        "year": "2024",
+        "authors": [
+          "Ryan Christine E",
+          "Cohen Jonathon B"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Lymphoma, Mantle-Cell",
+          "Humans",
+          "Rituximab",
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39023870/"
+      },
+      {
+        "pmid": "30811293",
+        "title": "First-Line Treatment of Patients With Indolent Non-Hodgkin Lymphoma or Mantle-Cell Lymphoma With Bendamustine Plus Rituximab Versus R-CHOP or R-CVP: Results of the BRIGHT 5-Year Follow-Up Study.",
+        "abstract": "The BRIGHT study ( ClinicalTrials.gov identifier: NCT00877006) was initiated to compare the efficacy and safety of bendamustine plus rituximab (BR) with either rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) or rituximab plus cyclophosphamide, vincristine, and prednisone (R-CVP) for treatment-naive patients with indolent non-Hodgkin lymphoma or mantle-cell lymphoma. This publication provides long-term follow-up data.",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2019",
+        "authors": [
+          "Flinn Ian W",
+          "van der Jagt Richard",
+          "Kahl Brad",
+          "Wood Peter",
+          "Hawkins Tim"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Lymphoma, Non-Hodgkin",
+          "Prednisone",
+          "Progression-Free Survival",
+          "Proportional Hazards Models"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30811293/"
+      },
+      {
+        "pmid": "41052510",
+        "title": "Ibrutinib and rituximab versus immunochemotherapy in patients with previously untreated mantle cell lymphoma (ENRICH): a randomised, open-label, phase 2/3 superiority trial.",
+        "abstract": "Ibrutinib, a Bruton tyrosine kinase inhibitor, prolongs progression-free survival when added to immunochemotherapy as first line treatment. The ENRICH trial compared the chemotherapy-free combination of ibrutinib and the anti-CD20 antibody rituximab (ibrutinib-rituximab) with standard immunochemotherapy (R-CHOP [rituximab-cyclophosphamide, doxorubicin, vincristine, and prednisolone] or bendamustine-rituximab) in patients 60 years and older with untreated mantle-cell lymphoma.",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "authors": [
+          "Lewis David J",
+          "Jerkeman Mats",
+          "Sorrell Lexy",
+          "Wright David",
+          "Glimelius Ingrid"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Comparative Study",
+          "Equivalence Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Lymphoma, Mantle-Cell",
+          "Adenine",
+          "Piperidines",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Male",
+          "Female",
+          "Aged",
+          "Vincristine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41052510/"
+      },
+      {
+        "pmid": "32985902",
+        "title": "A Phase III study of zanubrutinib plus rituximab versus bendamustine plus rituximab in transplant-ineligible, untreated mantle cell lymphoma.",
+        "abstract": "Mantle cell lymphoma is an aggressive B-cell malignancy. Current frontline chemoimmunotherapies produce high response rates but relapse is inevitable. Furthermore, the elderly and those with comorbidities are precluded from standard regimens and stem cell transplant, leaving them with limited options. Targeted therapies, including Bruton tyrosine kinase inhibitors, are an effective treatment strategy in mantle cell lymphoma. Zanubrutinib is a potent next-generation Bruton tyrosine kinase inhibitor that has demonstrated complete and sustained Bruton tyrosine kinase occupancy, minimal off-target effects and favorable pharmacokinetic/pharmacodynamic properties. Described herein is an ongoing Phase III study comparing the efficacy and safety of zanubrutinib plus rituximab followed by zanubrutinib monotherapy versus bendamustine plus rituximab followed by observation in transplant-ineligible patients with previously untreated mantle cell lymphoma. Clinical Trial Registration: NCT04002297 (C",
+        "journal": "Future oncology (London, England)",
+        "year": "2021",
+        "authors": [
+          "Dreyling Martin",
+          "Tam Constantine S",
+          "Wang Michael",
+          "Smith Stephen D",
+          "Ladetto Marco"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Agammaglobulinaemia Tyrosine Kinase",
+          "Aged",
+          "Antineoplastic Agents, Alkylating",
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Drug Resistance, Neoplasm",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Piperidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32985902/"
+      },
+      {
+        "pmid": "36469833",
+        "title": "High-Dose Cytarabine and Autologous Stem-Cell Transplantation in Mantle Cell Lymphoma: Long-Term Follow-Up of the Randomized Mantle Cell Lymphoma Younger Trial of the European Mantle Cell Lymphoma Network.",
+        "abstract": "Clinical trials frequently include multiple end points that mature at different times. The initial report, typically based on the primary end point, may be published when key planned co-primary or secondary analyses are not yet available. Clinical Trial Updates provide an opportunity to disseminate additional results from studies, published in JCO or elsewhere, for which the primary end point has already been reported.In 2004, the European Mantle Cell Lymphoma (MCL) Network initiated the randomized open-label, phase III MCL Younger trial for first-line treatment of patients with advanced-stage MCL, age < 66 years, comparing an alternating rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone/rituximab plus dexamethasone, high-dose cytarabine, and cisplatin (R-CHOP/R-DHAP) induction followed by high-dose cytarabine-containing myeloablative radiochemotherapy conditioning and autologous peripheral blood stem-cell transplantation (R-DHAP arm) to R-CHOP with standard mye",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2023",
+        "authors": [
+          "Hermine Olivier",
+          "Jiang Linmiao",
+          "Walewski Jan",
+          "Bosly André",
+          "Thieblemont Catherine"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aged",
+          "Lymphoma, Mantle-Cell",
+          "Rituximab",
+          "Follow-Up Studies",
+          "Cytarabine",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Hematopoietic Stem Cell Transplantation",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36469833/"
+      },
+      {
+        "pmid": "32739830",
+        "title": "Mantle cell lymphoma.",
+        "abstract": "MCL is a well-characterized generally aggressive lymphoma with a poor prognosis. However, patients with a more indolent disease have been reported in whom the initiation of therapy can be delayed without any consequence for the survival. In 2017 the World Health Organization updated the classification of MCL describing two main subtypes with specific molecular characteristics and clinical features, classical and indolent leukaemic nonnodal MCL. Recent research results suggested an improving outcome of this neoplasm. The addition of rituximab to conventional chemotherapy has increased overall response rates, but it did not improve overall survival compared to chemotherapy alone. The use of intensive frontline therapies including rituximab and consolidation with autologous stem cell transplantation ameliorated response rate and prolonged progression-free survival in young fit patients, but any impact on survival remains to be proven. Furthermore, the optimal timing, cytoreductive regimen",
+        "journal": "Critical reviews in oncology/hematology",
+        "year": "2020",
+        "authors": [
+          "Cortelazzo Sergio",
+          "Ponzoni Maurilio",
+          "Ferreri Andrés J M",
+          "Dreyling Martin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Neoplasm Recurrence, Local",
+          "Prognosis",
+          "Rituximab",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32739830/"
+      },
+      {
+        "pmid": "26755518",
+        "title": "Mantle Cell Lymphoma.",
+        "abstract": "Mantle cell lymphoma (MCL) is an uncommon subtype of non-Hodgkin lymphoma previously considered to have a poor prognosis. Large gains were made in the first decade of the new century when clinical trials established the importance of high-dose therapy and autologous stem-cell rescue and high-dose cytarabine in younger patients and the benefits of maintenance rituximab and bendamustine in older patients. In particular, greater depth of understanding of the molecular pathophysiology of MCL has resulted in an explosion of specifically targeted new efficacious agents. In particular, agents recently approved by the Food and Drug Administration include the proteasome inhibitor bortezomib, immunomodulator lenalidomide, and Bruton's tyrosine kinase inhibitor ibrutinib. We review recent advances in the understanding of MCL biology and outline our recommended approach to therapy, including choice of chemoimmunotherapy, the role of stem-cell transplantation, and mechanism-based targeted therapies",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2016",
+        "authors": [
+          "Cheah Chan Yoon",
+          "Seymour John F",
+          "Wang Michael L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Bortezomib",
+          "Cytarabine",
+          "Drug Administration Schedule",
+          "Gene Expression Profiling",
+          "Gene Expression Regulation, Neoplastic",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26755518/"
+      },
+      {
+        "pmid": "30033656",
+        "title": "Rituximab maintenance therapy for mantle cell lymphoma: A systematic review and meta-analysis.",
+        "abstract": "Mantle cell lymphoma is characterized by relapse and progressive disease, despite initial response to chemoimmunotherapy. We conducted a systematic review and meta-analysis to determine the efficacy of rituximab maintenance (RM) therapy in patients with mantle cell lymphoma. We searched PubMed, Embase and Cochrane Central Register of Controlled Trials from database inception through November 1, 2017. Only full-text articles were included. Prespecified data elements were extracted from each trial. Outcomes of interest included progression-free survival (PFS) and overall survival (OS). The overall effect was pooled using the Der Simonian-Laird random effects model. Three randomized controlled trials and four observational studies met our inclusion criteria and were identified in the analyses. Six studies compared RM therapy to observation, and one compared RM therapy to interferon alfa. Meta-analysis evaluating outcomes of patients treated after ASCT revealed that RM improved for both PF",
+        "journal": "American journal of hematology",
+        "year": "2018",
+        "authors": [
+          "Hilal Talal",
+          "Wang Zhen",
+          "Almader-Douglas Diana",
+          "Rosenthal Allison",
+          "Reeder Craig B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Immunosuppressive Agents",
+          "Immunotherapy",
+          "Interferon-alpha",
+          "Lymphoma, Mantle-Cell",
+          "Maintenance Chemotherapy",
+          "Observational Studies as Topic",
+          "Progression-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30033656/"
+      },
+      {
+        "pmid": "36456154",
+        "title": "Bendamustine Plus Rituximab for Mantle Cell Lymphoma: A Korean, Multicenter Retrospective Analysis.",
+        "abstract": "The combination of bendamustine and rituximab (BR) is highly effective in both treatment-naïve and relapsed or refractory mantle cell lymphoma (MCL). Due to the rarity of MCL and limited accessibility of BR, clinical outcome from BR in the routine clinical practice in Korean patients are limited.",
+        "journal": "Anticancer research",
+        "year": "2022",
+        "authors": [
+          "Yi Jun Ho",
+          "Kim Seok Jin",
+          "Lee Jeong-Ok",
+          "Lee Gyeong-Won",
+          "Kwak Jae-Yong"
+        ],
+        "pub_types": [
+          "Multicenter Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Aged",
+          "Bendamustine Hydrochloride",
+          "Rituximab",
+          "Lymphoma, Mantle-Cell",
+          "Retrospective Studies",
+          "Republic of Korea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36456154/"
+      },
+      {
+        "pmid": "36919283",
+        "title": "Superiority of ibrutinib plus bendamustine and rituximab in newly diagnosed patients with mantle-cell lymphoma ineligible for intensive therapy: A network meta-analysis.",
+        "abstract": "Because of lacking of head-to-head comparison among recently effective novel agents' combination regimens for newly diagnosed patients with mantle-cell lymphoma (MCL) who are ineligible for intensive therapy like autologous stem-cell transplantation, the optimal option for these patients still remains undefined. We searched relevant published reports. Three randomized controlled trials with 1459 subjects were identified. In the network meta-analysis, ibrutinib plus bendamustine and rituximab (Ibru + BR) significantly improved progression-free survival (PFS) when compared to bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone (VR-CAP; hazard ratio [HR]: 0.55, p = .03) and rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP; HR: 0.35, p < .001) for newly diagnosed patients with MCL ineligible for intensive therapy. Among these first-line treatment regimens (Ibru + BR, VR-CAP, R-CHOP, and BR), Ibru + BR had the highest probability of 94.9% to be ",
+        "journal": "European journal of haematology",
+        "year": "2023",
+        "authors": [
+          "Sheng Zhixin",
+          "Wang Lida"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Rituximab",
+          "Bendamustine Hydrochloride",
+          "Prednisone",
+          "Prospective Studies",
+          "Vincristine",
+          "Doxorubicin",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36919283/"
+      },
+      {
+        "pmid": "28561694",
+        "title": "Current Approaches to Mantle Cell Lymphoma: Diagnosis, Prognosis, and Therapies.",
+        "abstract": "Mantle cell lymphoma (MCL) is a unique lymphoma subtype, both biologically and clinically. Virtually all cases are characterized by a common genetic lesion, t(11;14), resulting in overexpression of cyclin D1. The clinical course is moderately aggressive, and the disease is considered incurable. Considerable biologic and clinical heterogeneity exists, with some patients experiencing a rapidly progressive course, while others have disease that is readily managed. New tools exist for risk stratification and may allow for a more personalized approach in the future. Landmark studies have been completed in recent years and outcomes appear to be improving. Randomized clinical trials have clarified the role of high-dose cytarabine (Ara-C) for younger patients and have demonstrated a role for maintenance rituximab therapy. Multiple areas of uncertainty remain, however, and are the focus of ongoing research. This review focuses on (1) strategies to differentiate between aggressive and less aggre",
+        "journal": "American Society of Clinical Oncology educational book. American Society of Clinical Oncology. Annual Meeting",
+        "year": "2017",
+        "authors": [
+          "Cohen Jonathon B",
+          "Zain Jasmine M",
+          "Kahl Brad S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Combined Modality Therapy",
+          "Cyclin D1",
+          "Cytarabine",
+          "Gene Expression Regulation, Neoplastic",
+          "Hematopoietic Stem Cell Transplantation",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Prognosis",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28561694/"
+      },
+      {
+        "pmid": "35100932",
+        "title": "Clinical characteristics and outcomes of ocular adnexal mantle cell lymphoma.",
+        "abstract": "To compare characteristics of initial ocular adnexal (OA) mantle cell lymphoma (MCL) and initial systemic MCL.",
+        "journal": "Orbit (Amsterdam, Netherlands)",
+        "year": "2022",
+        "authors": [
+          "Castillejo Becerra Clara M",
+          "Dalvin Lauren A",
+          "Jevremovic Dragan",
+          "Hodge David O",
+          "Tooley Andrea A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Eye Neoplasms",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Retrospective Studies",
+          "Rituximab",
+          "Transplantation, Autologous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35100932/"
+      },
+      {
+        "pmid": "36170622",
+        "title": "Frontline Therapy in Mantle Cell Lymphoma: When Clinical Trial and Real-World Data Collide.",
+        "abstract": "The Oncology Grand Rounds series is designed to place original reports published in the Journal into clinical context. A case presentation is followed by a description of diagnostic and management challenges, a review of the relevant literature, and a summary of the authors' suggested management approaches. The goal of this series is to help readers better understand how to apply the results of key studies, including those published in Journal of Clinical Oncology, to patients seen in their own clinical practice.A large number of frontline treatment options exist for mantle cell lymphoma (MCL), making selection of therapy a challenge for the clinician. In this Oncology Grand Rounds article, the case of a 73-year-old woman with MCL who attained remission with bendamustine and rituximab is presented. The relevant literature regarding frontline therapy is then reviewed, with particular focus on selection of induction regimen and the potential roles for autologous transplantation and/or ri",
+        "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+        "year": "2023",
+        "authors": [
+          "Fenske Timothy S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Bendamustine Hydrochloride",
+          "Lymphoma, Mantle-Cell",
+          "Prospective Studies",
+          "Retrospective Studies",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36170622/"
+      },
+      {
+        "pmid": "38678093",
+        "title": "The addition of bortezomib to rituximab, high-dose cytarabine and dexamethasone in relapsed or refractory mantle cell lymphoma-a randomized, open-label phase III trial of the European mantle cell lymphoma network.",
+        "abstract": "The therapy of relapsed or refractory (r/r) mantle cell lymphoma (MCL) patients remains a major clinical challenge to date. We conducted a randomized, open-label, parallel-group phase-III trial hypothesizing superior efficacy of rituximab, high-dose cytarabine and dexamethasone with bortezomib (R-HAD + B) versus without (R-HAD) in r/r MCL ineligible for or relapsed after autologous stem cell transplant (ASCT). Primary endpoint was time to treatment failure (TTF), secondary endpoints included response rates, progression free survival, overall survival, and safety. In total, 128 of 175 planned patients were randomized to R-HAD + B (n = 64) or R-HAD (n = 64). Median TTF was 12 vs. 2.6 months (p = 0.045, MIPI-adjusted HR 0.69; 95%CI 0.47-1.02). Overall and complete response rates were 63 vs. 45% (p = 0.049) and 42 vs. 19% (p = 0.0062). A significant treatment effect was seen in the subgroup of patients >65 years (aHR 0.48, 0.29-0.79) and without previous ASCT (aHR 0.52, 0.28-0.96). Toxicit",
+        "journal": "Leukemia",
+        "year": "2024",
+        "authors": [
+          "Fischer Luca",
+          "Jiang Linmiao",
+          "Dürig Jan",
+          "Schmidt Christian",
+          "Stilgenbauer Stephan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase III",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bortezomib",
+          "Lymphoma, Mantle-Cell",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Female",
+          "Male",
+          "Dexamethasone",
+          "Aged",
+          "Middle Aged",
+          "Cytarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38678093/"
+      },
+      {
+        "pmid": "28988912",
+        "title": "Maintenance rituximab in mantle-cell lymphoma.",
+        "abstract": "",
+        "journal": "The Lancet. Oncology",
+        "year": "2017",
+        "authors": [
+          "Burki Talha Khan"
+        ],
+        "pub_types": [
+          "News"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Immunological",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Maintenance Chemotherapy",
+          "Rituximab",
+          "Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28988912/"
+      },
+      {
+        "pmid": "27927585",
+        "title": "Bendamustine-rituximab in mantle cell lymphoma.",
+        "abstract": "",
+        "journal": "The Lancet. Haematology",
+        "year": "2017",
+        "authors": [
+          "Lipsky Andrew",
+          "Martin Peter"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents, Alkylating",
+          "Antineoplastic Agents, Immunological",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bendamustine Hydrochloride",
+          "Cytarabine",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Rituximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27927585/"
+      },
+      {
+        "pmid": "37199050",
+        "title": "Rituximab/bendamustine/cytarabine for transplant-eligible patients with mantle cell lymphoma: A retrospective study.",
+        "abstract": "Mantle cell lymphoma is considered an aggressive B-cell lymphoma. The optimal induction regimen remains controversial as no randomized controlled trial has compared the efficacy of different induction therapies.",
+        "journal": "Cancer medicine",
+        "year": "2023",
+        "authors": [
+          "Shimizu Yuki",
+          "Kaji Daisuke",
+          "Watanabe Otoya",
+          "Yamaguchi Kyosuke",
+          "Kageyama Kosei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Lymphoma, Mantle-Cell",
+          "Rituximab",
+          "Retrospective Studies",
+          "Bendamustine Hydrochloride",
+          "Hematopoietic Stem Cell Transplantation",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Transplantation, Autologous",
+          "Cyclophosphamide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37199050/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:24:04.812897",
+  "success": true,
+  "error_message": null
+}

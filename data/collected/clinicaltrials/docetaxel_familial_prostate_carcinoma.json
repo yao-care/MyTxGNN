@@ -1,0 +1,523 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "familial prostate carcinoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04876651",
+      "title": "A Multinational, Multicenter, Prospective, Randomized, Controlled, Open Label Phase 3 Study With Best Standard of Care With and Without 177Lu-DOTA-rosopatamab for Patients With PSMA Expressing Metastatic Castration-resistant Prostate Cancer Progressing Despite Prior Treatment With a Novel Androgen Axis Drug",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2023-08-29",
+      "completion_date": "2025-07-01",
+      "country": "Australia, New Zealand",
+      "enrollment": 16,
+      "brief_summary": "This multinational, multicenter, prospective, randomized, controlled, open label Phase 3 study is designed to investigate and confirm the benefits and risks associated with the PSMA-targeted antibody, 177Lu DOTA rosopatamab administered together with Standard of Care (SoC), as compared to the best SoC alone. The phase 3 will be conducted in patients with metastatic castration-resistant PC (mCRPC) that expresses PSMA and has progressed despite prior treatment with a novel androgen axis drug (NAAD",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Be a male, at least 18 years old, with metastatic adenocarcinoma of the prostate defined by histological / pathological confirmation of PC.\n2. Be of ECOG Performance Status 0, 1, or 2 and have an estimated life expectancy of ≥6 months.\n3. Have metastatic disease (≥1 metastati",
+      "endpoints": [
+        "Comparison of radiographic progression-free survival (rPFS)"
+      ],
+      "sponsor": "Telix Pharmaceuticals (Innovations) Pty Limited",
+      "url": "https://clinicaltrials.gov/study/NCT04876651"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00514917",
+      "title": "A Randomized, Open Label, Multicenter, Phase III, 2-Arm Study of Androgen Deprivation With Leuprolide, +/- Docetaxel for Clinically Asymptomatic Prostate Cancer Subjects With a Rising PSA Following Definitive Local Therapy",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2007-07",
+      "completion_date": "2012-09",
+      "country": "Spain, Czechia, Slovakia, Germany, Poland, Canada, Lithuania, Belgium, United States",
+      "enrollment": 413,
+      "brief_summary": "The primary objective was to evaluate and compare the efficacy of androgen deprivation with or without docetaxel as determined by the median progression free survival (PFS) over the period of 18-month therapy and at least 18-month follow-up.\n\nThe secondary objectives were:\n\n* To assess cancer specific survival;\n* To compare overall survival between the 2 treatment groups;\n* To evaluate patient-reported outcomes including quality of life, fatigue, and sexual functioning as measured by 3 different",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of prostate adenocarcinoma pathologically confirmed\n* History of radical prostatectomy (pre-operative radiation therapy to the prostate or pelvis or salvage radiation after radical prostatectomy was allowed)\n* Demonstration of biochemical progression of disease based",
+      "endpoints": [
+        "Median Progression-Free Survival (PFS) in Intent-to-treat (ITT) Population",
+        "Progression-Free Survival (PFS) Rate at Month 36 in ITT Population",
+        "Median Progression-Free Survival (PFS) in Testosterone Specific Evaluable Population"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00514917"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04028388",
+      "title": "A Multicentre Phase 2b Trial to Evaluate the Efficacy and Tolerability of ModraDoc006/r in Subjects With Metastatic Castration Resistant Prostate Cancer (mCRPC), Suitable for Treatment With a Taxane",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-07-17",
+      "completion_date": "2021-11-29",
+      "country": "Czechia, Russia, Hungary, Germany, Poland, United States",
+      "enrollment": 135,
+      "brief_summary": "This is a multicenter phase 2b study to evaluate the efficacy and tolerability of ModraDoc006 in combination with ritonavir (denoted ModraDoc006/r) in patients with metastatic castration-resistant prostate cancer, suitable for treatment with a taxane.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years\n2. Histologically or cytologically proven prostate cancer with evidence of progressive mCRPC, defined as:\n\n   1. Castrate levels of testosterone, defined as ≤ 50 ng/dL (or ≤ 0.50 ng/mL or 1.73 nmol/L)\n   2. Evidence of progressive metastatic disease as defined ",
+      "endpoints": [
+        "Radiographic Progression Free Survival (rPFS)"
+      ],
+      "sponsor": "Modra Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT04028388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06551324",
+      "title": "A PHASE 3, RANDOMIZED, OPEN-LABEL STUDY OF PF-06821497 (MEVROMETOSTAT) IN COMBINATION WITH ENZALUTAMIDE COMPARED WITH ENZALUTAMIDE OR DOCETAXEL IN PARTICIPANTS WITH METASTATIC CASTRATION RESISTANT PROSTATE CANCER PREVIOUSLY TREATED WITH ABIRATERONE ACETATE (MEVPRO-1)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-10-21",
+      "completion_date": "2028-10-29",
+      "country": "Brazil, Spain, Canada, Sweden, Taiwan, Turkey (Türkiye), Hungary, Slovakia, Germany, Australia, South Korea, South Africa, Greece, Poland, Argentina, Japan, United States, France, Czechia, Italy, China, Netherlands, United Kingdom",
+      "enrollment": 600,
+      "brief_summary": "Pfizer MEVPRO-1 (C2321014) is a randomized, open-label, multi-center clinical trial evaluating whether combining the study medicine (PF-06821497) with enzalutamide is safe and effective compared to physician's choice of either second-line androgen receptor (AR) directed therapy with enzalutamide or docetaxel (chemotherapy) for treating metastatic castration-resistant prostate cancer (mCRPC) after progression on prior abiraterone acetate treatment.\n\nThe primary objective of this clinical trial is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate without small cell features.\n* Metastatic disease in bone documented on bone scan, or in soft tissue documented on CT/MRI scan.\n* Progressive disease in the setting of surgical or medical castration with ",
+      "endpoints": [
+        "Radiographic Progression Free Survival (rPFS) assessed by blinded independent central review (BICR) per RECIST v1.1 and Prostate Cancer Clinical Trials Working Group 3 (PCWG3)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT06551324"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04034095",
+      "title": "The Registry to Observe Clinical Outcomes of Patients With High-risk Metastatic Hormone-naïve Prostate Cancer in Japan",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-07-08",
+      "completion_date": "2024-08-13",
+      "country": "Japan",
+      "enrollment": 979,
+      "brief_summary": "The purpose of this registry study is to longitudinally observe clinical outcomes and patient-reported outcomes (PRO) for participants with high-risk metastatic hormone-naive prostate cancer (mHNPC) in the real-world setting in Japan.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Documented diagnosis of metastatic, hormone-naïve prostate cancer (mHNPC) after 1 May 2019\n* Should have at least 2 of the 3 following high-risk factors: a Gleason score of greater than or equal to (\\>=) 8, at least 3-bone lesions, or the presence of visceral metastasis\n* Will",
+      "endpoints": [
+        "Percentage of Participants who Achieve Prostate-specific Antigen (PSA) <=0.2 ng/mL Within a Year from Registration",
+        "PSA Progression-free Survival (PSA-PFS)",
+        "Percentage of Participants with PSA-PFS"
+      ],
+      "sponsor": "Janssen Pharmaceutical K.K.",
+      "url": "https://clinicaltrials.gov/study/NCT04034095"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02560051",
+      "title": "Phase 2 Study of Androgen Deprivation Therapy (ADT) Plus Chemotherapy as Initial Treatment for Local Failures or Advanced Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-11",
+      "completion_date": "2017-09-14",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "This study is for men who have prostate cancer and have failed local therapy or are not a candidate for prostatectomy or radiation therapy. The purpose of this research study is to assess the safety and benefit of androgen deprivation therapy (ADT, blocks hormones) plus chemotherapy. Degarelix is the hormone blocking drug that will be used. Doxorubicin, Ketoconazole, Docetaxel and Estramustine are the chemotherapy drugs that will be used. The drugs used in this study are approved by the Food and",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Pathologic proof of adenocarcinoma of the prostate.\n* Patients must belong to one of the following subsets:\n* Prior local therapy\n* Patients with Prostate Specific Antigen (PSA) recurrence following prostatectomy or radiation therapy who have no radiographic involvement. PSA d",
+      "endpoints": [
+        "Efficacy as Measured by Number Who Progressed"
+      ],
+      "sponsor": "The University of Texas Health Science Center, Houston",
+      "url": "https://clinicaltrials.gov/study/NCT02560051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00676650",
+      "title": "A Multicenter, Randomized, Double-Blind, Phase 3 Study Of Sunitinib Plus Prednisone Versus Prednisone In Patients With Progressive Metastatic Castration-Resistant Prostate Cancer After Failure Of A Docetaxel-Based Chemotherapy Regimen",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2008-07",
+      "completion_date": "2011-12",
+      "country": "Brazil, Spain, Peru, Canada, Sweden, Belgium, Taiwan, Slovakia, Germany, Australia, Portugal, Israel, South Korea, Finland, Poland, United States, France, Czechia, Italy, Denmark, China, United Kingdom",
+      "enrollment": 873,
+      "brief_summary": "This study will compare the safety and efficacy of sunitinib in combination with prednisone versus placebo and prednisone in patients that have metastatic castration-resistant prostate cancer that has progressed after treatment with a docetaxel-containing chemotherapy regimen. This is a second-line study.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate.\n* Progressive, metastatic castration-resistant prostate cancer after failure of docetaxel chemotherapy (resistant or intolerant).\n* Progressive disease based on PSA progression, RECIST, or positive bone ",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00676650"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00480090",
+      "title": "A Phase II Study of Ara-C (Cytarabine) in Men With Androgen Independent Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2011-07",
+      "country": "Canada",
+      "enrollment": 10,
+      "brief_summary": "This is a single-arm, open label phase II trial of the investigational agent, Ara-C (cytarabine), in patients diagnosed with hormone refractory prostate cancer whose disease has progressed on or deemed not suitable for standard chemotherapy with docetaxel. Ara-C appears to inhibit DNA synthesis and is cytotoxic to a wide variety of mammalian cells. Recent discoveries have suggested the role of gene fusions in the ETS family of transcription factors as important for the development of prostate ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Biopsy-proven prostate cancer or clinical picture consistent with metastatic prostate cancer with high level of serum PSA (\\> 20ng/ml)\n* At least 4 weeks after docetaxel treatment and have at least 2 consecutive rising PSAs measured at least 2 weeks apart\n* Progression on or i",
+      "endpoints": [
+        "PSA response"
+      ],
+      "sponsor": "University Health Network, Toronto",
+      "url": "https://clinicaltrials.gov/study/NCT00480090"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00313781",
+      "title": "A Phase 2, Randomized, Non-Comparative, Two-Arm Open Label, Multiple-Center Study Of CP-751,871 In Combination With Docetaxel/Prednisone In Chemotherapy- Naive (Arm A) And Docetaxel/Prednisone Refractory (Arm B) Patients With Hormone Insensitive Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-05",
+      "completion_date": "2011-12",
+      "country": "Spain, Switzerland, Germany, United Kingdom, Canada, United States",
+      "enrollment": 204,
+      "brief_summary": "To test the efficacy of CP-751,871 combined with docetaxel and prednisone in the treatment of prostate cancer that is refractory to hormone therapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of metastatic, progressive hormone refractory prostate cancer\n* Adequate bone marrow, liver and kidney function\n\nExclusion Criteria:\n\n* Previous treatment with chemotherapy",
+      "endpoints": [
+        "Percentage of Participants With Prostate Specific Antigen (PSA) Best Response"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00313781"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01289067",
+      "title": "Predicting Response to Platinum Chemotherapy in Metastatic Castration Resistant Prostate Ca(mCRPC)Using a Genomic Signature for \"BRCAness\": A Phase II Prospective Open Label Clinical Trial of Satraplatin in Men With mCRPC Who Have Progressed on Docetaxel",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-12",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "The purpose of the study is to test genes for BRCAness(BRCA\\[BReast CAncer\\] gene) Studying these genes could help predict which patients would benefit from treatment with satraplatin, a medication being used for subjects who have failed prior chemotherapy. All subjects will have a biopsy of metastatic lesions to measure BRCAness (a gene signature). This gene signature may be able to predict response to satraplatin and a tool will be developed to be able to screen patients likely to benefit from",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients must have histologically confirmed adenocarcinoma of the prostate.\n2. Radiographic evidence of metastatic disease (Bone scan, CT(Computerized Tomography) scan, or MRI(Magnetic Resonance Imaging) are acceptable) amenable to image-guided biopsy.\n3. Castrate levels of t",
+      "endpoints": [
+        "Efficacy of Satraplatin as Second Line Therapy in Men With CRCP"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT01289067"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07112209",
+      "title": "Evaluation of the Efficacy and Safety of Rezvilutamide Combined With Docetaxel in the Treatment of Abiraterone-resistant Prostate Cancer.",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2023-11-06",
+      "completion_date": "2027-11-06",
+      "country": "China",
+      "enrollment": 20,
+      "brief_summary": "Emphasize the main 4 points.\n\n1. Trial Name: Evaluate the efficacy and safety of Rezvilutamide combined with docetaxel in the treatment of abiraterone-resistant prostate cancer.\n2. Inclusion criteria:\n\n   ① Adult males over 18 years old, excluding healthy volunteers.\n   * Pathological and imaging confirmed as metastatic prostate cancer, who have been receiving abiraterone and castration therapy but have experienced serological or imaging progression; ③ Agree to receive Rezvilutamide combined wit",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult males over 18 years old, excluding healthy volunteers. ② Pathological and imaging confirmed as metastatic prostate cancer, who have been receiving abiraterone and castration therapy but have experienced serological or imaging progression; ③ Agree to receive Rezvilutamide",
+      "endpoints": [
+        "PSA response rate"
+      ],
+      "sponsor": "Zhujiang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07112209"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00879619",
+      "title": "A Pilot Phase I/II Study to Evaluate the Effects of Taxotere/Prednisone Plus Sunitinib in Chemotherapy-Naïve, Hormone Refractory Prostate Cancer Patients With Biochemical Relapse",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-07",
+      "completion_date": "2011-11",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy, such as docetaxel and prednisone, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Sunitinib malate may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth and by blocking blood flow to the tumor. Giving docetaxel and prednisone together with sunitinib malate may kill more tumor cells.\n\nPURPOSE: This pilot phase I/II trial studies the side effects and b",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Subjects must have a histological diagnosis of adenocarcinoma of the prostate\n* Age ≥ 18\n* Subjects must have metastatic prostate cancer deemed to be unresponsive or refractory to hormone therapy by one or more of the following (despite androgen deprivation and anti-androgen wi",
+      "endpoints": [
+        "Prostate Specific Antigen (PSA) Response Rate"
+      ],
+      "sponsor": "University of California, Irvine",
+      "url": "https://clinicaltrials.gov/study/NCT00879619"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00309985",
+      "title": "CHAARTED: ChemoHormonal Therapy Versus Androgen Ablation Randomized Trial for Extensive Disease in Prostate Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09-26",
+      "completion_date": "2025-01-31",
+      "country": "United States",
+      "enrollment": 790,
+      "brief_summary": "RATIONALE: Androgens can cause the growth of prostate cancer cells. Androgen ablation therapy may stop the adrenal glands from making androgens. Drugs used in chemotherapy, such as docetaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. It is not yet known whether androgen-ablation therapy is more effective with or without docetaxel in treating metastatic prostate cancer.\n\nPURPOSE: This randomized phase III trial is stud",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed prostate cancer\n* Metastatic disease\n* On androgen-deprivation therapy for \\< 120 days\n* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0-2\n\n  * PS 2 eligible only if decline in PS is due to metastatic prostate cance",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Eastern Cooperative Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT00309985"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01732549",
+      "title": "A Randomised, Double-Blind, Placebo-Controlled Proof Of Concept Study Of Maintenance Therapy With Tasquinimod In Patients With Metastatic Castrate-Resistant Prostate Cancer Who Are Not Progressing After A First Line Docetaxel Based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2013-01",
+      "completion_date": "2015-05",
+      "country": "France, Spain, Czechia, Italy, Hungary, Denmark, Germany, United Kingdom, Poland, Lithuania, Belgium",
+      "enrollment": 144,
+      "brief_summary": "The purpose of this study is to confirm that tasquinimod used as maintenance therapy is active and tolerable in patients with metastatic castrate-resistant prostate cancer not progressing after a first chemotherapy with docetaxel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically documented prostate cancer with evidence of metastatic disease on radiological evaluation, with or without symptoms (defined according to the BPI scale, with use of analgesics or narcotics)\n* Has received a first line docetaxel based chemotherapy (as a monothera",
+      "endpoints": [
+        "Time to Radiological Progression Free Survival [PFS]"
+      ],
+      "sponsor": "Ipsen",
+      "url": "https://clinicaltrials.gov/study/NCT01732549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02485691",
+      "title": "A Randomized, Open Label, Multicenter Study of Cabazitaxel Versus an Androgen Receptor (AR)-Targeted Agent (Abiraterone or Enzalutamide) in mCRPC Patients Previously Treated With Docetaxel and Who Rapidly Failed a Prior AR-targeted Agent (CARD)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-11-09",
+      "completion_date": "2021-03-15",
+      "country": "Iceland, France, Spain, Norway, Czechia, Greece, Austria, Italy, Germany, Ireland, United Kingdom, Netherlands, Belgium",
+      "enrollment": 255,
+      "brief_summary": "Primary Objective:\n\nTo compare the radiographic progression-free survival (rPFS) (using Response Evaluation Criteria in Solid Tumors \\[RECIST\\] 1.1 for tumor lesions and Prostate Cancer Working Group 2 (PCWG2) criteria for bone scan lesions or death due to any cause) with chemotherapy (cabazitaxel plus prednisone, Arm A) versus Androgen Receptor (AR)-targeted therapy (enzalutamide or abiraterone acetate plus prednisone, Arm B) in mCRPC participants who have been treated with docetaxel and who ha",
+      "eligibility_criteria": "Inclusion criteria :\n\nHistologically confirmed prostate adenocarcinoma.\n\n* Metastatic disease.\n* Effective castration with serum testosterone levels less than (\\<)0.5 ng/mL. If the participant has been treated with Luteinizing hormone-releasing hormone agonist (LHRH) agonists or antagonist (i.e., wi",
+      "endpoints": [
+        "Radiographic Progression-Free Survival (rPFS)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT02485691"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00283062",
+      "title": "A Multicenter, Open-Label, Randomized, Phase III Trial Comparing Immediate Adjuvant Hormonal Therapy (ELIGARD®- Leuprolide Acetate) in Combination With TAXOTERE® (Docetaxel) Administered Every Three Weeks Versus Hormonal Therapy Alone Versus Deferred Therapy Followed by the Same Therapeutic Options in Patients With Prostate Cancer at High Risk of Relapse After Radical Prostatectomy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-12",
+      "completion_date": "2010-12",
+      "country": "Israel, Brazil, France, Mexico, South Africa, Turkey (Türkiye), India, Russia, Austria, Italy, Germany, Australia, United Kingdom, Netherlands, Poland, Canada, United States",
+      "enrollment": 228,
+      "brief_summary": "This is a prospective, multicenter, open-label, randomized phase III study in participants at high risk of recurrent prostate cancer after radical prostatectomy. The study will investigate\n\n* Treatment with docetaxel (TAXOTERE®) every three weeks (q3w) plus leuprolide acetate (ELIGARD®) versus leuprolide acetate alone (ELIGARD®)\n* Immediate treatment following prostatectomy versus deferred treatment at the time of relapse\n\nUsing a 2x2 factorial design participants will therefore be randomized to",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants who met all of the following criteria were considered for enrollment into the study.\n\n* Pathologically confirmed adenocarcinoma of the prostate based on central pathology review. All other variants are excluded\n* Randomization should occur less than 120 days after p",
+      "endpoints": [
+        "Progression-free Survival (PFS) Assessment - Number of Participants With Disease Progression"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00283062"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05848011",
+      "title": "A Phase 2, Randomized, Open-Label, Study of Lorigerlimab With Docetaxel or Docetaxel Alone in Participants With Metastatic Castration-Resistant Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-09-28",
+      "completion_date": "2027-09",
+      "country": "Bulgaria, France, Spain, Puerto Rico, Georgia, Australia, United Kingdom, Poland, Belgium, United States",
+      "enrollment": 154,
+      "brief_summary": "The purpose of this study is to determine whether the amount of time before disease progression can be prolonged in participants with metastatic castration-resistant prostate cancer (MCRPC) who receive lorigerlimab in addition to the standard of care (SOC) of docetaxel and prednisone. About 150 participants with mCRPC will be enrolled. Participants will be randomized in a 2:1 ratio to receive lorigerlimab with docetaxel and prednisone (experimental arm) or docetaxel and prednisone alone (standar",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Metastatic castration-resistant adenocarcinoma of the prostate without evidence of neuroendocrine differentiation, signet cell, or small cell features.\n* Participants must have ≥ 1 metastatic (measurable or non-measurable per PCWG3) lesion.\n* Participant has prostate cancer pr",
+      "endpoints": [
+        "Median radiographic progression free survival (rPFS) determined by investigator review."
+      ],
+      "sponsor": "MacroGenics",
+      "url": "https://clinicaltrials.gov/study/NCT05848011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02288247",
+      "title": "A Randomized, Double Blind, Placebo-Controlled, Phase IIIb Study of the Efficacy and Safety of Continuing Enzalutamide in Chemotherapy Naïve Metastatic Castration Resistant Prostate Cancer Patients Treated With Docetaxel Plus Prednisolone Who Have Progressed on Enzalutamide Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-12-01",
+      "completion_date": "2024-03-15",
+      "country": "France, Spain, Norway, Czechia, Sweden, Switzerland, Greece, Russia, Austria, Italy, Turkey (Türkiye), Germany, United Kingdom, Netherlands, Poland, Belgium",
+      "enrollment": 688,
+      "brief_summary": "The purpose of the study was to understand if there was benefit in continued treatment with a medicine called enzalutamide, when starting treatment with docetaxel and prednisolone (a standard chemotherapy for prostate cancer), after the prostate cancer had gotten worse when treated with enzalutamide alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed adenocarcinoma of the prostate without neuroendocrine differentiation or small cell features;\n* Ongoing androgen deprivation therapy (ADT) with a luteinizing hormone-releasing hormone (LHRH) agonist or antagonist at a stable dose and schedule within 4 ",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT02288247"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01308567",
+      "title": "Randomized, Open Label, Multi-Center Study Comparing Cabazitaxel at 25 mg/m^2 and at 20 mg/m^2 in Combination With Prednisone Every 3 Weeks to Docetaxel in Combination With Prednisone in Patients With Metastatic Castration Resistant Prostate Cancer Not Pretreated With Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-05-05",
+      "completion_date": "2018-05",
+      "country": "Brazil, Spain, Mexico, Russia, Peru, Canada, Sweden, Taiwan, Turkey (Türkiye), Germany, Australia, Portugal, Romania, Israel, Finland, Belarus, Ukraine, Poland, Japan, United States, France, Czechia, Italy, Denmark, China",
+      "enrollment": 1168,
+      "brief_summary": "Primary Objective:\n\n* To demonstrate the superiority of cabazitaxel plus prednisone at 25 mg/m\\^2 (Arm A) or 20 mg/m\\^2 (Arm B) versus docetaxel plus prednisone (Arm C) in term of overall survival (OS) in participants with metastatic castration resistant prostate cancer (mCRPC) and not previously treated with chemotherapy.\n\nSecondary Objectives:\n\n* To evaluate safety in the 3 treatment arms.\n* To compare efficacy of cabazitaxel at 20 mg/m\\^2 and 25 mg/m\\^2 to docetaxel for:\n\n  * Progression Free",
+      "eligibility_criteria": "Inclusion criteria :\n\n* I 01. Histologically- or cytologically-confirmed prostate adenocarcinoma.\n* I 02. Metastatic disease.\n* I 03. Progressive disease while receiving hormonal therapy or after surgical castration.\n* I 04. Effective castration (serum testosterone levels ≤0.50 ng/mL) by orchiectomy",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01308567"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00974311",
+      "title": "Affirm: A Multinational Phase 3, Randomized, Double-blind, Placebo-controlled Efficacy And Safety Study Of Oral Mdv3100 In Patients With Progressive Castration-resistant Prostate Cancer Previously Treated With Docetaxel Based Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-09-30",
+      "completion_date": "2017-11-02",
+      "country": "France, Spain, Chile, South Africa, Austria, Italy, Germany, Australia, United Kingdom, Netherlands, Poland, Canada, Argentina, Belgium, United States",
+      "enrollment": 1199,
+      "brief_summary": "This is a phase 3 study to compare the clinical benefit of MDV3100 versus placebo in patients with castration-resistant prostate cancer who have been previously treated with docetaxel-based chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Progressive prostate cancer\n* Medical or surgical castration with testosterone less than 50 ng/dl\n* One or two prior chemotherapy regimens. At least one chemotherapy regimen must have contained docetaxel\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n* Adeq",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00974311"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04495179",
+      "title": "A Phase II, Open-label, Study to Assess the Efficacy, Safety, and Tolerability of AZD4635 in Combination With Durvalumab and in Combination With Cabazitaxel and Durvalumab in Patients Who Have Progressive Metastatic Castrate-Resistant Prostate Cancer (AARDVARC)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-08-04",
+      "completion_date": "2022-08-08",
+      "country": "South Korea, Spain, France, Belgium, United States",
+      "enrollment": 30,
+      "brief_summary": "This is a Phase II, international, open-label, two-arm, non-randomised study of AZD4635 in participants with metastatic castration-resistant prostate cancer (mCRPC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Histologically confirmed adenocarcinoma of the prostate.\n2. Known castrate-resistant disease.\n3. Evidence of disease progression ≤6 months.\n4. Body weight \\>30 kg at screening.\n5. Willingness to adhere to the study treatment-specific contraception requirements.\n6. Adequate bo",
+      "endpoints": [
+        "Radiographic Progression Free Survival (rPFS) in Each Arm Separately to Determine the Efficacy of AZD4635 Plus Durvalumab and of AZD4635 Plus Durvalumab Plus Cabazitaxel in Patients With Metastatic Castrate-resistant Prostate Cancer (mCRPC)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT04495179"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01957436",
+      "title": "A Prospective Randomised Phase III Study Of Androgen Deprivation Therapy With Or Without Docetaxel With Or Without Local Radiotherapy With Or Without Abiraterone Acetate And Prednisone In Patients With Metastatic Hormone-Naïve Prostate Cancer",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2013-11-13",
+      "completion_date": "2032-12",
+      "country": "France, Spain, Switzerland, Italy, Ireland, Romania, Belgium",
+      "enrollment": 1173,
+      "brief_summary": "This is a multi-center phase III study to compare the clinical benefit of androgen deprivation therapy with or without docetaxel with or without local radiotherapy with or without abiraterone acetate and prednisone in patient with metastatic hormone-naïve prostate cancer.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Histologically or cytologically confirmed adenocarcinoma of the prostate,\n2. Metastatic disease documented by a positive bone scan (any technique) or CT scan or an MRI. For patients with nodal metastases only, only patients with extra-pelvic enlarged lymph nodes (lymph nodes ",
+      "endpoints": [
+        "Survival",
+        "Survival"
+      ],
+      "sponsor": "UNICANCER",
+      "url": "https://clinicaltrials.gov/study/NCT01957436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04533958",
+      "title": "Evaluation of Hypnosis in Virtual Reality on the Anxiety of Patients With Metastatic Prostate Cancer Over Chemotherapy Monocentric, Comparative, Randomized, Open Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2020-09-28",
+      "completion_date": "2027-02-28",
+      "country": "France, Portugal",
+      "enrollment": 60,
+      "brief_summary": "Prostate cancer is the first cancer in men. The treatment of metastatic prostate cancer with chemotherapy is based on the intravenous administration of docetaxel chemotherapy. Symptoms of anticipatory nausea, linked to anxiety caused by the treatment, may occur. Hypnosis is already used to treat the anxiety of people with cancer and can help treat the symtoms of nausea and vomiting of women with breast cancer.\n\nThe purpose of the study is to evaluate the effect of medical hypnosis in virtual rea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Man aged ≥ 18 years\n* Histologically proven metastatic prostate adenocarcinoma,\n* Patient undergoing chemotherapy according to the following conventional scheme: 12 courses of Docetaxel every two weeks\n* Patient who signed their informed consent\n* Patient benefiting from socia",
+      "endpoints": [
+        "Demonstrate a modification in anxiety after each infusion of Docetaxel in the HypnoVR arm compared to the control arm."
+      ],
+      "sponsor": "Saint-Gregoire Private Hospital Center",
+      "url": "https://clinicaltrials.gov/study/NCT04533958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01308580",
+      "title": "Randomized, Open Label Multi-Center Study Comparing Cabazitaxel at 20 mg/m² and at 25 mg/m² Every 3 Weeks in Combination With Prednisone for the Treatment of Metastatic Castration Resistant Prostate Cancer Previously Treated With a Docetaxel-Containing Regimen",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-04",
+      "completion_date": "2015-08",
+      "country": "Brazil, Spain, Russia, Peru, Tunisia, Canada, Belgium, Chile, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Romania, South Korea, South Africa, Poland, Argentina, United States, France, United Kingdom, Netherlands",
+      "enrollment": 1200,
+      "brief_summary": "Primary Objective:\n\n\\- To demonstrate the non inferiority in term of overall survival (OS) of Cabazitaxel 20 mg/m² (Arm A) versus Cabazitaxel 25 mg/m² (Arm B) in combination with prednisone in participants with metastatic castration resistant prostate cancer (mCRPC) previously treated with a docetaxel-containing regimen.\n\nSecondary Objectives:\n\n* To evaluate safety in the 2 treatment arms and to assess if Cabazitaxel 20 mg/m² was better tolerated than Cabazitaxel 25 mg/m².\n* To compare efficacy ",
+      "eligibility_criteria": "Inclusion criteria :\n\nI 01. Diagnosis of histologically or cytologically proven prostate adenocarcinoma, that was resistant to hormone therapy and previously treated with a docetaxel-containing regimen.\n\nI 02. Participant must had either measurable or non-measurable disease. I 03. Received prior cas",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01308580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03317392",
+      "title": "A Phase 1/2 Study of Combination Olaparib and Radium-223 in Men With Metastatic Castration-Resistant Prostate Cancer With Bone Metastases (COMRADE)",
+      "phase": "PHASE1, PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-02-04",
+      "completion_date": "2027-02-16",
+      "country": "United States",
+      "enrollment": 145,
+      "brief_summary": "This phase I/II trial studies the best dose and side effects of olaparib and how well it works with radium Ra 223 dichloride in treating patients with castration-resistant prostate cancer that has spread to the bone and other places in the body (metastatic). PARPs are proteins that help repair DNA mutations. PARP inhibitors, such as olaparib, can keep PARP from working, so tumor cells can't repair themselves, and they may stop growing. Radioactive drugs, such as radium Ra 223 dichloride, may car",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must be male aged \\>= 18 years of age\n* Participants must have histologically or cytologically confirmed adenocarcinoma of the prostate\n* Participants must have castrate levels of serum testosterone \\< 50 ng/dL\n* Participants without orchiectomy must be maintained",
+      "endpoints": [
+        "Maximum tolerated dose of olaparib and radium Ra 223 dichloride",
+        "Radiographic progression-free survival (rPFS)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03317392"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642018",
+      "title": "A Randomized Phase 2 Study of LY2181308 in Combination With Docetaxel Versus Docetaxel in Hormone Refractory Prostate Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-03",
+      "completion_date": "2012-04",
+      "country": "Germany, Spain, Poland, United States",
+      "enrollment": 154,
+      "brief_summary": "The primary purpose of this study is to determine whether LY2181308 in combination with docetaxel is safe and effective treatment for hormone refractory prostate cancer patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate which is metastatic and/or unresectable\n* Hormone refractory prostate cancer defined as progressive based by documented 2 increase Prostate specific antigen (PSA) values over a previous reference value.\n*",
+      "endpoints": [
+        "Progression-free Survival (PFS) in Participants With Hormone Refractory Prostate Cancer (HRPC) Administered LY2181308 Sodium Plus Docetaxel Compared to Docetaxel Alone",
+        "Number of Participants With Adverse Events (Safety)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT00642018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00137436",
+      "title": "A Phase 1/2 Safety And Pharmacokinetic Study Of SU011248 In Combination With Docetaxel (Taxotere) And Prednisone In Patients With Metastatic Hormone Refractory Prostate Cancer (HRPC)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2010-03",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "This is a multi-center, open-label, Phase 1/2 study of SU011248 (sunitinib malate, SUTENT) in combination with docetaxel and prednisone for the first-line treatment of metastatic hormone-refractory prostate cancer (mHRPC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed adenocarcinoma of the prostate\n* Patients must have progressive hormone-refractory prostate cancer (HRPC): patients must have undergone primary hormone treatment (e.g. orchiectomy or gonadotropin releasing hormone analog with or withou",
+      "endpoints": [
+        "Percentage of Participants With Prostate Specific Antigen (PSA) Response"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00137436"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00519285",
+      "title": "A Multicenter, Randomized, Double Blind Study Comparing the Efficacy and Safety of Aflibercept Versus Placebo Administered Every 3 Weeks in Patients Treated With Docetaxel/ Prednisone for Metastatic Androgen-independent Prostate Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-08",
+      "completion_date": "2012-04",
+      "country": "Brazil, Singapore, Spain, Switzerland, Russia, Canada, Sweden, Belgium, Chile, Croatia, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Portugal, Israel, South Korea, Hong Kong, South Africa, Ukraine, Poland, Argentina, Estonia, United States, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 1224,
+      "brief_summary": "Primary objective was to demonstrate overall survival improvement with aflibercept compared to placebo in patients receiving docetaxel / prednisone for metastatic androgen-independent prostate cancer (MAIPC).\n\nThe secondary objectives were:\n\n* To assess the efficacy of aflibercept compared to placebo on other parameters such prostate-specific antigen (PSA) level, cancer related pain, progression free survival (PFS), tumor-based and skeletal events and health-related quality of life (HRQL);\n* To ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically- or cytologically-confirmed prostate adenocarcinoma;\n* Metastatic disease;\n* Progressive disease while receiving hormonal therapy or after surgical castration;\n* Effective castration.\n\nExclusion Criteria:\n\n* Prior cytotoxic chemotherapy for prostate cancer, exce",
+      "endpoints": [
+        "Overall Survival Time"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00519285"
+    }
+  ],
+  "timestamp": "2026-03-04T16:50:52.192011",
+  "success": true,
+  "error_message": null
+}

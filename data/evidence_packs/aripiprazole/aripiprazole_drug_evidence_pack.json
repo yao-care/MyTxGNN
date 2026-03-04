@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Aripiprazole",
+    "drugbank_id": "DB01238"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 26
+  },
+  "indications": [
+    {
+      "disease": "autism susceptibility 1",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "autism",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 30,
+      "articles": 20,
+      "phase3": 8,
+      "phase2": 7,
+      "phase4": 8
+    },
+    {
+      "disease": "schizophrenia",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 13,
+      "phase2": 2,
+      "phase4": 15
+    },
+    {
+      "disease": "bipolar disorder",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 19,
+      "phase2": 2,
+      "phase4": 16
+    },
+    {
+      "disease": "manic bipolar affective disorder",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 40,
+      "articles": 20,
+      "phase3": 17,
+      "phase2": 2,
+      "phase4": 17
+    }
+  ]
+}

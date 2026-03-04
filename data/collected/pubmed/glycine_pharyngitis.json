@@ -1,0 +1,221 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Glycine",
+    "disease": "pharyngitis",
+    "query_string": "Glycine AND pharyngitis"
+  },
+  "data": {
+    "query": "Glycine AND pharyngitis",
+    "results": [
+      {
+        "pmid": "38043864",
+        "title": "The erythromycin polyketide compound TMC-154 stimulates ROS generation to exert antibacterial effects against Streptococcus pyogenes.",
+        "abstract": "The erythromycin polyketide compound TMC-154 is a secondary metabolite that is isolated from the rhizospheric fungus Clonostachys rogersoniana associated with Panax notoginseng, which possesses antibacterial activity. However, its antibacterial mechanism has not been investigated thus far. In this study, proteomics coupled with bioinformatics approaches was used to explore the antibacterial mechanism of TMC-154. KEGG pathway enrichment analysis indicated that eight signaling pathways were associated with TMC-154, including oxidative phosphorylation, cationic antimicrobial peptide (CAMP) resistance, benzoate degradation, heme acquisition systems, glycine/serine and threonine metabolism, beta-lactam resistance, ascorbate and aldarate metabolism, and phosphotransferase system (PTS). Cell biology experiments confirmed that TMC-154 could induce reactive oxygen species (ROS) generation in Streptococcus pyogenes; moreover, TMC-154-induced antibacterial effects could be blocked by the inhibiti",
+        "journal": "Journal of proteomics",
+        "year": "2024",
+        "authors": [
+          "Yan Yuan-Feng",
+          "Liu Ying",
+          "Liang Hangeri",
+          "Cai Le",
+          "Yang Xiao-Yan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Proteomics",
+          "Anti-Bacterial Agents",
+          "Microbial Sensitivity Tests",
+          "Streptococcus pyogenes",
+          "Reactive Oxygen Species",
+          "Humans",
+          "Erythromycin",
+          "Mannose",
+          "Waxes",
+          "Hypocreales"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38043864/"
+      },
+      {
+        "pmid": "34603060",
+        "title": "Pithecellobium clypearia: Amelioration Effect on Imiquimod-Induced Psoriasis in Mice Based on a Tissue Metabonomic Analysis.",
+        "abstract": "Pithecellobium clypearia Benth. (accepted name: Archidendron clypearia (Jack) I.C.Nielsen; Mimosaceae), a popular traditional Chinese medicine, has a significant anti-inflammatory effect. The crude water extract of the aerial part of P. clypearia has been clinically applied to treat upper respiratory tract infections, acute gastroenteritis, laryngitis, and pharyngitis. However, the therapeutic mechanism of ethanol fraction of water extract (ESW) of P. clypearia to treat psoriasis should be complemented. The aim of our research was to clarify the protective effects of ESW from P. clypearia against psoriasis-like skin inflammation induced by imiquimod (IMQ) in mice with efficacy indexes and target tissue (spleen and serum) metabolomics. The ingredient of ESW was analyzed by ultrahigh-performance liquid chromatography combined with tandem mass spectrometry (UHPLC-MS/MS) method. The imiquimod-induced psoriatic mouse model was employed to investigate the effect of ESW against psoriasis, whe",
+        "journal": "Frontiers in pharmacology",
+        "year": "2021",
+        "authors": [
+          "Li Ying",
+          "Zong Jiaxin",
+          "Ye Wenjun",
+          "Fu Yuanfeng",
+          "Gu Xinyi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34603060/"
+      },
+      {
+        "pmid": "32493693",
+        "title": "Phase 3, Randomized, Double-Blind, Active-Comparator (Darbepoetin Alfa) Study of Oral Roxadustat in CKD Patients with Anemia on Hemodialysis in Japan.",
+        "abstract": "Roxadustat is an oral hypoxia-inducible factor prolyl hydroxylase inhibitor approved in China for dialysis-dependent CKD anemia.",
+        "journal": "Journal of the American Society of Nephrology : JASN",
+        "year": "2020",
+        "authors": [
+          "Akizawa Tadao",
+          "Iwasaki Manabu",
+          "Yamaguchi Yusuke",
+          "Majikawa Yoshikatsu",
+          "Reusch Michael"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Equivalence Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia",
+          "Contusions",
+          "Darbepoetin alfa",
+          "Diarrhea",
+          "Double-Blind Method",
+          "Female",
+          "Ferritins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32493693/"
+      },
+      {
+        "pmid": "23291146",
+        "title": "Determination of glyphosate and AMPA in blood and urine from humans: about 13 cases of acute intoxication.",
+        "abstract": "Acute intoxications after ingesting glyphosate are observed in suicidal or accidental cases. Despite low potential toxicity of this herbicide, a number of fatalities and severe outcomes are reported. Indeed, some authors have described the clinical features associated with blood and urine concentrations following intoxication. The purpose of this study is to describe the clinical feature and determinate the utility of the glyphosate concentration in blood and urine and the dose taken for predicting clinical outcomes. In 13 glyphosate poisoning cases treated in our laboratory within 7 years period from 2002 to 2009, we registered clinical observations and collected blood and urine samples to HPLC-MS-MS analysis. We classified our patients by the intoxication severity using simple clinical criteria. We obtained clinical observations from 10 patients and the others three patients were treated in forensic cases. Among the 10 patients, one was asymptomatic, 5 had mild to moderate poisoning ",
+        "journal": "Forensic science international",
+        "year": "2013",
+        "authors": [
+          "Zouaoui K",
+          "Dulaurent S",
+          "Gaulier J M",
+          "Moesch C",
+          "Lachâtre G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Accidents",
+          "Acidosis",
+          "Adult",
+          "Aged",
+          "Arrhythmias, Cardiac",
+          "Chemical and Drug Induced Liver Injury",
+          "Chromatography, High Pressure Liquid",
+          "Consciousness Disorders",
+          "Deglutition Disorders",
+          "Disseminated Intravascular Coagulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23291146/"
+      },
+      {
+        "pmid": "31891449",
+        "title": "Oral roxadustat three times weekly in ESA-naïve and ESA-converted patients with anemia of chronic kidney disease on hemodialysis: Results from two phase 3 studies.",
+        "abstract": "Roxadustat is a hypoxia-inducible factor prolyl hydroxylase inhibitor approved in China for anemia of dialysis-dependent chronic kidney disease (CKD). Japanese hemodialysis patients with anemia of CKD previously naïve to, or converted from, erythropoiesis-stimulating agents (ESAs) were enrolled in two open-label, noncomparative studies of titrated oral roxadustat administered three times weekly. ESA-naïve patients (n = 75) were randomized to roxadustat (initial dose, 50 or 70 mg) for 24 weeks; ESA-converted patients (n = 164) were assigned to roxadustat (initial dose, 70 or 100 mg based on prior ESA dose) for 52 weeks. Efficacy outcomes included average hemoglobin (Hb, weeks 18-24 or 46-52), change of Hb from baseline to weeks 18 to 24 (ΔHb18-24 ) or weeks 46 to 52 (ΔHb46-52 ), and maintenance rate (proportion of patients who achieved average Hb of 10.0-12.0 g/dL for weeks 18-24 or weeks 46-52). Treatment-emergent adverse events (TEAEs) were monitored. Mean (SD) Hb was 10.93 (0.79) g/d",
+        "journal": "Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy",
+        "year": "2020",
+        "authors": [
+          "Akizawa Tadao",
+          "Ueno Mai",
+          "Shiga Takanori",
+          "Reusch Michael"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Drug Monitoring",
+          "Female",
+          "Glycine",
+          "Hematinics",
+          "Hemoglobins",
+          "Humans",
+          "Hypoxia-Inducible Factor-Proline Dioxygenases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31891449/"
+      },
+      {
+        "pmid": "26283331",
+        "title": "A Single Amino Acid Replacement in the Sensor Kinase LiaS Contributes to a Carrier Phenotype in Group A Streptococcus.",
+        "abstract": "Despite the high frequency of asymptomatic carriage of bacterial pathogens, we understand little about the bacterial molecular genetic underpinnings of this phenomenon. To obtain new information about the molecular genetic mechanisms underlying carriage of group A Streptococcus (GAS), we performed whole-genome sequencing of GAS strains recovered from a single individual during acute pharyngitis and subsequent asymptomatic carriage. We discovered that compared to the initial infection isolate, the strain recovered during asymptomatic carriage contained three single nucleotide polymorphisms, one of which was in a highly conserved region of a gene encoding a sensor kinase, liaS, resulting in an arginine-to-glycine amino acid replacement at position 135 of LiaS (LiaS(R135G)). Using gene replacement, we demonstrate that introduction of the carrier allele (liaS(R135G)) into a serotype-matched invasive strain increased mouse nasopharyngeal colonization and adherence to cultured human epitheli",
+        "journal": "Infection and immunity",
+        "year": "2015",
+        "authors": [
+          "Flores Anthony R",
+          "Jewell Brittany E",
+          "Yelamanchili Dedipya",
+          "Olsen Randall J",
+          "Musser James M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Amino Acid Sequence",
+          "Amino Acid Substitution",
+          "Animals",
+          "Asymptomatic Diseases",
+          "Bacterial Proteins",
+          "Carrier State",
+          "Female",
+          "Gene Expression Regulation, Bacterial",
+          "Humans",
+          "Mice"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26283331/"
+      },
+      {
+        "pmid": "1112054",
+        "title": "Free amino acids in human tonsillar tissue.",
+        "abstract": "Free amino acids in the tonsils of 20 individuals were measured column chromatographically. Those always found in readily detectable amounts included O-phosphoserine, taurine, O-phosphoethanolamine, aspartic acid, hydroxyproline, threonine, serine, glutamic acid, proline, glycine, alanine, alpha-amino-n-butyric acid, valine, cystine, methionine, isoleucine, leucine, tyrosine, phenylalanine, ornithine, gamma-amino-butyric acid, lysine, histidine, and arginine. Results were compared for three clinical pathological groups and for four age groups. Some abnormal values may result from the pathological conditions.",
+        "journal": "Clinical chemistry",
+        "year": "1975",
+        "authors": [
+          "Doi Y",
+          "Kataura A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age Factors",
+          "Amino Acids",
+          "Child",
+          "Child, Preschool",
+          "Chromatography, Ion Exchange",
+          "Chronic Disease",
+          "Humans",
+          "Palatine Tonsil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1112054/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:13:59.825143",
+  "success": true,
+  "error_message": null
+}

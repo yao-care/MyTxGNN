@@ -1,0 +1,293 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Testosterone",
+    "disease": "congenital hypogonadotropic hypogonadism"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05752591",
+      "title": "Study of the Hypothalamic-pituitary Dysfuntion in Patients With Diabetes Mellitus",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-05-25",
+      "completion_date": "2024-03-14",
+      "country": "Italy",
+      "enrollment": 200,
+      "brief_summary": "Type 2 Diabetes mellitus (T2DM) is a chronic disease with a high prevalence and several comorbidities impacting on public health and society. Among the complications of T2DM it has been showed a high prevalence of hypogonadotropic hypogonadism. Even if hypogonadism is associated to a worse metabolic profile and cardiovascular risk, it is discussed whether and when to treat this potentially reversible form associated to diabetes. In fact, the pathogenic mechanism of this condition in diabetic pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age between 18 and 80 years old\n* males\n* proved diagnosis of T2DM\n\nExclusion Criteria:\n\n* patients affected with known hypothalamic-pituitary diseases at the enrollment.\n* patients affected with severe systemic diseases, fever, chronic inflammatory disorders with PCR \\> 10 mg",
+      "endpoints": [
+        "Prevalence of Hypogonadism",
+        "Genetic predisposition"
+      ],
+      "sponsor": "Istituto Auxologico Italiano",
+      "url": "https://clinicaltrials.gov/study/NCT05752591"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392457",
+      "title": "Feedback Control of FSH Secretion in the Human Male",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1995-07",
+      "completion_date": "2007-02",
+      "country": "United States",
+      "enrollment": 175,
+      "brief_summary": "The purpose of the research study is to learn more about the regulation of reproductive hormones in adult men. We would like to understand what role testosterone and estradiol play in controlling the release of LH (lutenizing hormone) and FSH (follicle stimulating hormone). Testosterone and estradiol come from the testes, and LH and FSH are released from a gland in the head called the pituitary.\n\nMen involved in the study will have detailed evaluations that involve overnight stays in the hospita",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men aged 18 to 50 years\n* In good health\n* On no medications\n\nExclusion Criteria:\n\nSubjects will not be enrolled in this study if there is a history of:\n\n* Liver disease or if screening blood tests demonstrate abnormal liver function tests\n* Excessive alcohol consumption\n* Ill",
+      "endpoints": [
+        "serum hormone levels"
+      ],
+      "sponsor": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "url": "https://clinicaltrials.gov/study/NCT00392457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01438073",
+      "title": "Elucidating Kisspeptin Physiology by Blocking Kisspeptin Signaling",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 96,
+      "brief_summary": "The investigators are looking for subjects to complete a study on the role of kisspeptin in the reproductive system. Kisspeptin is a naturally occurring hormone in humans that tells the body to produce other reproductive hormones. However, giving someone a continued amount of kisspeptin over a period of time can have the opposite effect and tell the body to, for a short time, stop making hormones needed for reproduction. By giving 24-hour infusions of kisspeptin, the investigators hope to learn ",
+      "eligibility_criteria": "A. Healthy Subjects\n\nAll healthy subjects will meet the following criteria:\n\n* normal puberty with respect to onset and pace,\n* no difficulty with blood draws,\n* no prescription medications for at least 2 months with the exception of asthma medication (albuterol only), hypercholesterolemia medicatio",
+      "endpoints": [
+        "Average difference in Luteinizing Hormone (LH) concentration at the beginning and end of kisspeptin infusion"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01438073"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01454011",
+      "title": "Phase 4 Study That Compares the High Density Lipoprotein Cholesterol (HDL) Cholesterol Subgroups of the Patients With Congenital Hypogonadotrophic Hypogonadism With That of the Healthy Control Subjects, and Investigates the Effect of Testosterone Treatment on HDL Subgroups.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2011-02",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 140,
+      "brief_summary": "The study is designed to answer the following questions:\n\n1. Is there any difference between the compositions of the HDL cholesterol subpopulations of patients with hypogonadism and the healthy controls.\n2. What is the effect of testosterone replacement therapy on the distributions of HDL subgroups.\n3. Is there any difference between the effects of the two different testosteron replacement regiments",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Congenital hypogonadotrophic hypogonadism,\n* Male sex\n\nExclusion Criteria:\n\n* Previous history of androgen replacement,\n* any chronic disorder",
+      "endpoints": [
+        "Changes in the HDL cholesterol levels and the HDL subgroups"
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01454011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03118479",
+      "title": "Effect of Varying Testosterone Levels on Insulin Sensitivity in Men With Idiopathic Hypogonadotropic Hypogonadism",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2010-05",
+      "completion_date": "2010-09-01",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "The investigators are doing this research study to look at the relationship between testosterone (the main sex hormone in men) and insulin (the hormone that controls blood sugar levels) in men with Idiopathic Hypogonadotropic Hypogonadism (IHH).\n\nThe investigators hypothesize that normalizing testosterone levels in men with IHH enhances insulin sensitivity, reduces visceral fat, increases lean body mass, and improves the lipid profile.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of idiopathic hypogonadotropic hypogonadism or Kallmann Syndrome\n* mean testosterone level less than 300 ng/dl\n* stable weight for the previous 3 months (no weight change greater than or equal to 10 lbs)\n* normal serum TSH\n* normal serum prolactin levels\n\nExclusion C",
+      "endpoints": [
+        "Change in glucose tolerance",
+        "Change in insulin sensitivity"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03118479"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02111434",
+      "title": "Phase 4 Study of Effect of Testosteron Treatment on the Visceral Adiposity Index and Triglyceride/High-density Lipoprotein Cholesterol Ratio in the Congenital Hypogonadotropic Hypogonadism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2014-04",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 150,
+      "brief_summary": "The study is designed to answer the following questions:\n\n1. What is the levels of visceral adiposity index and Triglycerides/HDL cholesterol ratio in hypogonadism?\n2. What is the effect of testosterone replacement on the visceral adiposity index and Triglycerides/HDL cholesterol ratio?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Congenital hypogonadism\n* Treatment Naive\n\nExclusion Criteria:\n\n* Previous history of androgen replacement\n* Hypertension\n* Diabetes mellitus",
+      "endpoints": [
+        "time to change of visceral adiposity index with testosteron replacement",
+        "time to change of TG/HDL cholesterol ratio with testosteron replacement"
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02111434"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00392756",
+      "title": "Role of Gonadotropin Pulsations in the Reversal of Hypogonadotropic Hypogonadism",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1989-04",
+      "completion_date": "2019-05-16",
+      "country": "United States",
+      "enrollment": 624,
+      "brief_summary": "The purpose of the study is to examine how Kallmann syndrome (KS) and idiopathic hypogonadotropic hypogonadism (IHH) affect reproductive hormones. These disorders are caused by a defect in Gonadotropin Releasing Hormone (GnRH) secretion. GnRH is a hormone released by a small gland in the brain called the hypothalamus. When GnRH is released, it signals another gland in the brain, the pituitary, to secrete the reproductive hormones that influence sex hormone (testosterone, estrogen) levels and gam",
+      "eligibility_criteria": "Eligibility\n\nAges Eligible for Study:\n\n* Adolescents (16-17yrs)\n* Adults (18 years and older)\n\n  * Genders Eligible for Study:\n* Male and Female\n\n  * Accepts Healthy Volunteers:\n* No\n\nCriteria\n\nInclusion Criteria:\n\n* adolescent boys (age 16-17 years) and adult male individuals (age 18 years and olde",
+      "endpoints": [
+        "endogenous LH secretion pattern"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00392756"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00623116",
+      "title": "Kallmann Syndrome in Finland",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2007-12",
+      "completion_date": "2025-12",
+      "country": "Finland",
+      "enrollment": 50,
+      "brief_summary": "Objective is to characterize epidemiology, clinical and genetic features of Kallmann syndrome in Finland.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Kallmann syndrome\n* Age 15 yrs or more\n\nExclusion Criteria:\n\n* Severe mental retardation",
+      "endpoints": [
+        "Clinical features including quality of life, reversibility and genetic features of Kallmann syndrome in Finland"
+      ],
+      "sponsor": "Hospital for Children and Adolescents, Finland",
+      "url": "https://clinicaltrials.gov/study/NCT00623116"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00064987",
+      "title": "Role of FSH in Human Gonadal Development",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2001-04",
+      "completion_date": "2012-10",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "Men with idiopathic hypogonadotropic hypogonadism (IHH, Kallmann Syndrome) may have small testicular size, low testosterone levels, no history of puberty, and infertility. These men lack a hormone called gonadotropin releasing hormone (GnRH) that stimulates the development and maturation of the testes. This study will investigate the impact of hormonal treatments on men with IHH. The goal of hormonal therapy is to maximize the potential fertility in these individuals.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* no history of spontaneous puberty\n* clinical hypogonadism\n* infantile testes (\\< 3 ml)\n* no reproductive hormone therapy except testosterone\n* Complete absence of normal LH pulses during 12-hour baseline frequent blood sampling and serum testosterone \\< 100 ng/dl\n* Normal testi",
+      "endpoints": [
+        "LH",
+        "FSH",
+        "Testosterone"
+      ],
+      "sponsor": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+      "url": "https://clinicaltrials.gov/study/NCT00064987"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02111473",
+      "title": "Phase 4 Study of Effect of Testosteron Replacement Treatment on the Fibroblast Growth Factor-23, Asymmetric Dimethylarginine and Vitamin D Levels in the Congenital Hypogonadotropic Hypogonadism",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-05",
+      "completion_date": "2014-04",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 49,
+      "brief_summary": "The study is designed to answer the following questions:\n\n1\\) What is the effect of testosteron replacement treatment on the endothelial dysfunction.\n\n2/ What is the effect of testosteron replacement on the bone mineral metabolism.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Congenital hypogonadism\n* Treatment Naive\n\nExclusion Criteria:\n\n* Previous history of androgen replacement\n* Hypertension\n* Diabetes mellitus",
+      "endpoints": [
+        "the effect of testosteron replacement treatment on the Fibroblast Growth Factor-23.",
+        "the effect of testosteron replacement treatment on the asymmetric dimethylarginine.",
+        "the effect of testosteron replacement treatment on the vitamin D levels."
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02111473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02880280",
+      "title": "Human Menopausal Gonadotropin Combining With Human Chorionic Gonadotropin is Superior to Human Chorionic Gonadotropin in Therapeutic Efficacy in Adolescent Boys With Congenital Hypogonadotropic Hypogonadism",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-08",
+      "completion_date": "2018-12",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "Observe the therapeutic efficacy of human menopausal gonadotropin combining with human chorionic gonadotropin in adolescent boys with congenital hypogonadotropic hypogonadism.",
+      "eligibility_criteria": "Inclusion Criteria\n\nCriteria A\n\n* Boy \\>14yr without any sign of puberty, testis \\<4ml\n* BA ≥12yr\n* Sex hormone (LH,FSH, T) are pre-pubertal level\n* No other hormones problems (other pituitary glands axis are normal except gonad axis)\n* No space occupying lesion, No tumor on MRI of pituitary and hyp",
+      "endpoints": [
+        "testicular volume"
+      ],
+      "sponsor": "Beijing Children's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02880280"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00493961",
+      "title": "The Effects of 7 Days of Exogenous Pulsatile GnRH Treatment on the Pituitary-Gonadal Axis in Hypogonadotropic Hypogonadal Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1999-01",
+      "completion_date": "2009-11-17",
+      "country": "United States",
+      "enrollment": 27,
+      "brief_summary": "Men with Idiopathic Hypogonadotropic Hypogonadism (IHH) lack a hormone called gonadotropin releasing hormone (GnRH). This hormone is important for starting puberty, maintaining testosterone levels, and fertility. The purpose of this study is to research the effects of treating IHH men with GnRH for 7 days.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of idiopathic hypogonadotropic hypogonadism (IHH) or Kallmann syndrome (KS)Adult male 18-65 years of age\n* Serum testosterone \\<100 ng/dL\n\nExclusion Criteria:\n\n* No specific exclusion criteria",
+      "endpoints": [
+        "testosterone",
+        "LH",
+        "FSH"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00493961"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511588",
+      "title": "The Role of Gonadotropin Pulsations in the Regulation of Puberty and Fertility",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04-25",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 111,
+      "brief_summary": "Background:\n\n\\- The body produces gonadotropin-releasing hormone (GnRH) about every 2 hours. GnRH travels through the bloodstream to the pituitary gland, where it stimulates the gland to produce hormones called gonadotropins. These hormones stimulate the testicles or ovaries. The testicles produce testosterone and develop sperm. The ovaries produce estrogen and prepare for ovulation. Normal estrogen and testosterone levels are required for puberty. Some people, however, have either low levels or",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nSince hypogonadotropic hypogonadism is a rare condition, with an incidence of 1/10,000 to 1/86,000 for isolated GnRH deficiency (43, 44), this protocol remains open to enrollment so that we may study all subjects that are both qualified and interested in participating. Males o",
+      "endpoints": [
+        "The main outcome is the identification of novel GnRH secretory patterns or non-reproductive phenotypic characteristics in individuals representing the complete spectrum of idiopathic hypogonadotropic hypogonadism."
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01511588"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02171390",
+      "title": "Phase 4 Study That Evaluates the Presence of Endothelial Dysfunction, Inflammation and Insulin Resistance in Male Subjects With Hypogonadotrophic Hypogonadism and Effects of Two Different Testosterone Replacement Regiments on These Parameters.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 130,
+      "brief_summary": "The study searched for answers to two questions\n\n1. Is there endothelial dysfunction, inflammation and insulin resistance in patients with congenital hypogonadotropic hypogonadism?\n2. What is the effect of testosterone replacement therapy on endothelial dysfunction, inflammation and insulin resistance?",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men\n* Treatment naive\n* Hypogonadotrophic hypogonadism\n\nExclusion Criteria:\n\n* Previous history of androgen replacement\n* Chronic metabolic disorders",
+      "endpoints": [
+        "The alterations in the measures for endothelial functions",
+        "The alterations in the measures of inflammation",
+        "The alterations in the measures of insulin resistance"
+      ],
+      "sponsor": "Gulhane School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT02171390"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03687606",
+      "title": "Efficacy and Safety of Long Term Use of hCG or hCG Plus hMG in the Treatment of Male Patients With Isolated Hypogonadotropic Hypogonadism: an Open, Randomized Controlled Study",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-18",
+      "completion_date": "2025-10-01",
+      "country": "China",
+      "enrollment": 210,
+      "brief_summary": "This study will evaluate the efficacy and safety of long term use of hCG alone or hCG plus hMG in the treatment of male patients with isolated hypogonadotropic hypogonadism (IHH). One third of the participants will receive hCG treatment alone and the other third of the participants will receive hCG treatment alone for six months, then the hMG will be added. And the last third of the participants will receive hCG and hMG treatment since the beginning of the treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18, ≤ 45 years old;\n2. Adolescent dysplasia or loss of puberty: Genital Tanner score ﹤ 5, pubic hair Tanner score ﹤ 5;\n3. Serum FSH and LH levels are low or in normal low value, testosterone was lower than normal range (1.75ng / ml, the lower limit of the normal blood t",
+      "endpoints": [
+        "Sperm density"
+      ],
+      "sponsor": "Tongji Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03687606"
+    }
+  ],
+  "timestamp": "2026-03-04T16:26:06.697156",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,116 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Everolimus",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20071691ARZ",
+      "product": "CERTICAN 0.75 MG TABLETS",
+      "active_ingredient": "EVEROLIMUS[0.75 MG]",
+      "generic_name": "Everolimus 0.75 mg Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-09-03",
+      "date_end": "2027-09-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20071691ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20071689ARZ",
+      "product": "CERTICAN 0.25 MG TABLETS",
+      "active_ingredient": "EVEROLIMUS[0.25 MG]",
+      "generic_name": "Everolimus 0.25 mg Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2022-09-03",
+      "date_end": "2027-09-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20071689ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20091942ARZ",
+      "product": "AFINITOR 5 MG TABLET",
+      "active_ingredient": "EVEROLIMUS[5MG]",
+      "generic_name": "Everolimus 5 mg Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-08-31",
+      "date_end": "2029-08-31",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20091942ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20091943ARZ",
+      "product": "AFINITOR 10 MG TABLET",
+      "active_ingredient": "EVEROLIMUS[10MG]",
+      "generic_name": "Everolimus 10 mg Tablet",
+      "holder": "NOVARTIS CORPORATION (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-08-31",
+      "date_end": "2029-08-31",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20091943ARZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25076029AE",
+      "product": "Evafin Everolimus Tablet 5 mg",
+      "active_ingredient": "EVEROLIMUS[5.000 mg]",
+      "generic_name": NaN,
+      "holder": "NOVUGEN ONCOLOGY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-07-03",
+      "date_end": "2030-07-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25076029AE"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25076030AE",
+      "product": "Evafin Everolimus Tablet 7.5 mg",
+      "active_ingredient": "EVEROLIMUS[7.500 mg]",
+      "generic_name": NaN,
+      "holder": "NOVUGEN ONCOLOGY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-07-03",
+      "date_end": "2030-07-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25076030AE"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25076028AE",
+      "product": "Evafin Everolimus Tablets 2.5 mg",
+      "active_ingredient": "EVEROLIMUS[2.500 mg]",
+      "generic_name": NaN,
+      "holder": "NOVUGEN ONCOLOGY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-07-03",
+      "date_end": "2030-07-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25076028AE"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL25076031AE",
+      "product": "Evafin Everolimus Tablet 10 mg",
+      "active_ingredient": "EVEROLIMUS[10.00 mg]",
+      "generic_name": NaN,
+      "holder": "NOVUGEN ONCOLOGY SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-07-03",
+      "date_end": "2030-07-03",
+      "url": "https://npra.gov.my/index.php/search/product/MAL25076031AE"
+    }
+  ],
+  "timestamp": "2026-03-04T16:36:49.628363",
+  "success": true,
+  "error_message": null
+}

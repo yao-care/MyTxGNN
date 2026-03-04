@@ -6,7 +6,7 @@ drug_name: "Thiotepa"
 kg_predictions: 117
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 117
+indication_count: 5
 brands: []
 permalink: /drugs/thiotepa/
 ---

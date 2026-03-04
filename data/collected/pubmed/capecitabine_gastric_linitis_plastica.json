@@ -1,0 +1,58 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Capecitabine",
+    "disease": "gastric linitis plastica",
+    "query_string": "Capecitabine AND gastric linitis plastica"
+  },
+  "data": {
+    "query": "Capecitabine AND gastric linitis plastica",
+    "results": [
+      {
+        "pmid": "15825991",
+        "title": "[Stomach cancer].",
+        "abstract": "Despite its decline in incidence in developed countries, gastric cancer is the second digestive cancer in France and remains the second most cause of cancer-related deaths in the world. Gastritis induced by H. pylori infection and food regimen are the most frequent precancerous gastric factors. However there is no definite clinical evidence of the benefit of eradication on cancer risk. By waiting for effective anti-H. pylorivaccine, H. pylori should be only eradicated in selected patients at the highest risk of cancer. The stake is to develop inexpensive tests for identification of individuals at high risk, depending on genotypic polymorphisms of both the bacterium and the host. The endoscopic diagnosis is currently made at an advanced stage, related to non-specific and late symptoms. The prognosis remains poor with 5 years overall survival rate less than 20%. Surgical resection with D1 lymphadenectomy is the gold standard curative treatment. An adjuvant therapy with chemoradiotherapy ",
+        "journal": "La Revue du praticien",
+        "year": "2005",
+        "authors": [
+          "Bouché Olivier",
+          "Lagarde Stéphanie"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "France",
+          "Humans",
+          "Prognosis",
+          "Risk Factors",
+          "Stomach Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15825991/"
+      },
+      {
+        "pmid": "30112333",
+        "title": "Metastatic Gastric cancer: Real world scenario from a developing country.",
+        "abstract": "Data on epidemiology and outcome in metastatic stomach carcinoma patients from India are scarce. We aimed to evaluate clinical features and treatment outcome in patients treated at our center.",
+        "journal": "South Asian journal of cancer",
+        "year": "2018",
+        "authors": [
+          "Ganguly Sandip",
+          "Biswas Bivas",
+          "Ghosh Joydeep",
+          "Dabkara Deepak"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30112333/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:43:43.351121",
+  "success": true,
+  "error_message": null
+}

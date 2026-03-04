@@ -1,0 +1,160 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Azacitidine",
+    "disease": "acute myeloid leukemia with minimal differentiation",
+    "query_string": "Azacitidine AND acute myeloid leukemia with minimal differentiation"
+  },
+  "data": {
+    "query": "Azacitidine AND acute myeloid leukemia with minimal differentiation",
+    "results": [
+      {
+        "pmid": "37608777",
+        "title": "SUMOylation inhibitor TAK-981 (subasumstat) synergizes with 5-azacytidine in preclinical models of acute myeloid leukemia.",
+        "abstract": "Acute myeloid leukemias (AML) are severe hematomalignancies with dismal prognosis. The post-translational modification SUMOylation plays key roles in leukemogenesis and AML response to therapies. Here, we show that TAK-981 (subasumstat), a first-in-class SUMOylation inhibitor, is endowed with potent anti-leukemic activity in various preclinical models of AML. TAK-981 targets AML cell lines and patient blast cells in vitro and in vivo in xenografted mice with minimal toxicity on normal hematopoietic cells. Moreover, it synergizes with 5-azacytidine (AZA), a DNA-hypomethylating agent now used in combination with the BCL-2 inhibitor venetoclax to treat AML patients unfit for standard chemotherapies. Interestingly, TAK-981+AZA combination shows higher anti-leukemic activity than AZA+venetoclax combination both in vitro and in vivo, at least in the models tested. Mechanistically, TAK-981 potentiates the transcriptional reprogramming induced by AZA, promoting apoptosis, alteration of the cel",
+        "journal": "Haematologica",
+        "year": "2024",
+        "authors": [
+          "Gabellier Ludovic",
+          "De Toledo Marion",
+          "Chakraborty Mehuli",
+          "Akl Dana",
+          "Hallal Rawan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Animals",
+          "Mice",
+          "Azacitidine",
+          "Sumoylation",
+          "Leukemia, Myeloid, Acute",
+          "Sulfonamides",
+          "Antineoplastic Agents",
+          "Bridged Bicyclo Compounds, Heterocyclic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37608777/"
+      },
+      {
+        "pmid": "32601337",
+        "title": "Targeting CD70 with cusatuzumab eliminates acute myeloid leukemia stem cells in patients treated with hypomethylating agents.",
+        "abstract": "Acute myeloid leukemia (AML) is driven by leukemia stem cells (LSCs) that resist conventional chemotherapy and are the major cause of relapse1,2. Hypomethylating agents (HMAs) are the standard of care in the treatment of older or unfit patients with AML, but responses are modest and not durable3-5. Here we demonstrate that LSCs upregulate the tumor necrosis factor family ligand CD70 in response to HMA treatment resulting in increased CD70/CD27 signaling. Blocking CD70/CD27 signaling and targeting CD70-expressing LSCs with cusatuzumab, a human αCD70 monoclonal antibody with enhanced antibody-dependent cellular cytotoxicity activity, eliminated LSCs in vitro and in xenotransplantation experiments. Based on these preclinical results, we performed a phase 1/2 trial in previously untreated older patients with AML with a single dose of cusatuzumab monotherapy followed by a combination therapy with the HMA azacitidine ( NCT03030612 ). We report results from the phase 1 dose escalation part of",
+        "journal": "Nature medicine",
+        "year": "2020",
+        "authors": [
+          "Riether Carsten",
+          "Pabst Thomas",
+          "Höpner Sabine",
+          "Bacher Ulrike",
+          "Hinterbrandner Magdalena"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Clinical Trial, Phase II",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Apoptosis",
+          "Azacitidine",
+          "CD27 Ligand",
+          "DNA Methylation",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Neoplastic Stem Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32601337/"
+      },
+      {
+        "pmid": "26055299",
+        "title": "Maintenance Therapy with Decitabine after Allogeneic Stem Cell Transplantation for Acute Myelogenous Leukemia and Myelodysplastic Syndrome.",
+        "abstract": "Decitabine is a hypomethylating agent that irreversibly inhibits DNA methyltransferase I, inducing leukemic differentiation and re-expression of epigenetically silenced putative tumor antigens. We assessed safety and efficacy of decitabine maintenance after allogeneic transplantation for acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS). Decitabine maintenance may help eradicate minimal residual disease, decrease the incidence of graft-versus-host disease (GVHD), and facilitate a graft-versus-leukemia effect by enhancing the effect of T regulatory lymphocytes. Patients with AML/MDS in complete remission (CR) after allotransplantation started decitabine between day +50 and +100. We investigated 4 decitabine doses in cohorts of 4 patients: 5, 7.5, 10, and 15 mg/m(2)/day × 5 days every 6 weeks, for a maximum 8 cycles. The maximum tolerated dose (MTD) was defined as the maximum dose at which ≤ 25% of people experience dose-limiting toxicities during the first cycle of treatme",
+        "journal": "Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation",
+        "year": "2015",
+        "authors": [
+          "Pusic Iskra",
+          "Choi Jaebok",
+          "Fiala Mark A",
+          "Gao Feng",
+          "Holt Matthew"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Allografts",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Combined Modality Therapy",
+          "Decitabine",
+          "Disease-Free Survival",
+          "Dose-Response Relationship, Drug",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26055299/"
+      },
+      {
+        "pmid": "26686245",
+        "title": "The combination of FLT3 and DNA methyltransferase inhibition is synergistically cytotoxic to FLT3/ITD acute myeloid leukemia cells.",
+        "abstract": "Effective treatment regimens for elderly acute myeloid leukemia (AML) patients harboring internal tandem duplication mutations in the FMS-like tyrosine kinase-3 (FLT3) gene (FLT3/ITD) are lacking and represent a significant unmet need. Recent data on the effects of FLT3 tyrosine kinase inhibitors on FLT3/ITD(+) AML showed promising clinical activity, including in elderly patients. DNA methyltransferase (DNMT) inhibitors such as decitabine (5-aza-2-deoxycytidine, DEC) and 5-azacitidine (AZA) demonstrated clinical benefit in AML, are well tolerated and are associated with minimal increases in FLT3 ligand, which can represent a potential resistance mechanism to FLT3 inhibitors. In addition, both FLT3 and DNMT inhibition are associated with the induction of terminal differentiation of myeloid blasts. Consequently, there is a strong theoretical rationale for combining FLT3 and DNMT inhibition for FLT3/ITD(+) AML. We therefore sought to study the anti-leukemic effects of DEC, AZA and FLT3 in",
+        "journal": "Leukemia",
+        "year": "2016",
+        "authors": [
+          "Chang E",
+          "Ganguly S",
+          "Rajkhowa T",
+          "Gocke C D",
+          "Levis M"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents",
+          "Apoptosis",
+          "Azacitidine",
+          "Cell Differentiation",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "DNA Modification Methylases",
+          "Decitabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26686245/"
+      },
+      {
+        "pmid": "36551725",
+        "title": "Ex Vivo Drug Sensitivity Correlates with Clinical Response and Supports Personalized Therapy in Pediatric AML.",
+        "abstract": "Acute myeloid leukemia (AML) is a heterogeneous disease that accounts for ~20% of all childhood leukemias, and more than 40% of children with AML relapse within three years of diagnosis. Although recent efforts have focused on developing a precise medicine-based approach towards treating AML in adults, there remains a critical gap in therapies designed specifically for children. Here, we present ex vivo drug sensitivity profiles for children with de novo AML using an automated flow cytometry platform. Fresh diagnostic blood or bone marrow aspirate samples were screened for sensitivity in response to 78 dose conditions by measuring the reduction in leukemic blasts relative to the control. In pediatric patients treated with conventional chemotherapy, comprising cytarabine, daunorubicin and etoposide (ADE), ex vivo drug sensitivity results correlated with minimal residual disease (r = 0.63) and one year relapse-free survival (r = 0.70; AUROC = 0.94). In the de novo ADE analysis cohort of ",
+        "journal": "Cancers",
+        "year": "2022",
+        "authors": [
+          "Strachan Debbie C",
+          "Gu Christine J",
+          "Kita Ryosuke",
+          "Anderson Erica K",
+          "Richardson Michelle A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36551725/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:12:10.318266",
+  "success": true,
+  "error_message": null
+}

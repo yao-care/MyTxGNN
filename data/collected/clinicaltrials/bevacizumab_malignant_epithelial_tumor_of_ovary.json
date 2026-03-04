@@ -1,0 +1,525 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": "malignant epithelial tumor of ovary"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01097746",
+      "title": "A Phase II Trial of Bevacizumab With Carboplatin and Weekly Paclitaxel as First-Line Treatment in Epithelial Ovarian, Primary Peritoneal, and Fallopian Tube Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-04-14",
+      "completion_date": "2022-09-13",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "This phase II trial studies how well first-line treatment of bevacizumab, carboplatin, and paclitaxel work in treating participants with stage III- IV ovarian, primary peritoneal and fallopian tube cancer. Monoclonal antibodies, such as bevacizumab, may interfere with the ability of tumor cells to grow and spread. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with a histologic diagnosis of epithelial ovarian cancer, peritoneal primary carcinoma or fallopian tube cancer; FIGO stage III and IV defined surgically at the completion of initial abdominal surgery and with appropriate tissue available for histologic evaluation. T",
+      "endpoints": [
+        "Number of Participants With Treatment Success"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01097746"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00504257",
+      "title": "A Phase II Trial of Avastin in Combination With Docetaxel in Patients With Recurrence of Epithelial Carcinoma of the Ovary/Fallopian Tube/Peritoneum Within 12 Months of Platinum Therapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-03",
+      "completion_date": "2012-10",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of the combination of Avastin and Docetaxel in the treatment of women with platinum sensitive recurrent epithelial ovarian cancer within 12 months of platinum chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Pathologically confirmed epithelial ovarian cancer, peritoneal serous cancer, or fallopian tube cancer\n* Patient's disease recurrence or progression occurs between 0 to 12 months (1 to 365 days) from prior platinum-containing chemotherapy regimen. Pat",
+      "endpoints": [
+        "Six Month Progression Free Survival (PFS)"
+      ],
+      "sponsor": "H. Lee Moffitt Cancer Center and Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00504257"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01096381",
+      "title": "A Prospective Clinical Trial Evaluating Potential Biomarkers for Bevacizumab Induced Hypertension",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2010-03",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "RATIONALE: Studying samples of blood and urine in the laboratory from patients with cancer receiving bevacizumab may help doctors learn more about changes that occur in DNA and identify biomarkers related to high blood pressure.\n\nPURPOSE: This phase I trial is studying potential biomarkers for bevacizumab-induced high blood pressure in patients with malignant solid tumors, including breast cancer, colorectal cancer, non-small cell lung cancer, head and neck cancer, ovarian cancer, fallopian tube",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatients with stage IV or unresectable recurrent cancer (except for renal cell carcinoma and glioblastoma multiforme) that will get bevacizumab as a standard of care, as well as patients about to initiate bevacizumab within the protocols:\n\n* ECOG5103: A Double-Blind Phase III Tr",
+      "endpoints": [
+        "Digital-pulse amplitude (DPA) measures"
+      ],
+      "sponsor": "Vanderbilt-Ingram Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT01096381"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05200364",
+      "title": "A Phase 1 Open-Label, Safety, Pharmacokinetic and Preliminary Efficacy Study of STRO-002, an Anti-Folate Receptor Alpha Antibody Drug Conjugate, in Combination With Bevacizumab in Patients With Advanced Epithelial Ovarian Cancer (Including Fallopian Tube or Primary Peritoneal Cancers)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2022-03-22",
+      "completion_date": "2025-06-01",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "Phase 1 trial to study the safety, pharmacokinetic and Preliminary Efficacy of STRO-002 in combination with Bevacizumab.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years.\n2. ECOG 0-1\n3. Life expectancy \\> 3 months\n4. High Grade serous epithelial ovarian cancer (EOC), fallopian tube or primary peritoneal cancer with pathology report documentation of tumor type.\n5. At least one measurable target lesion per RECIST v1.1.\n6. Tumor t",
+      "endpoints": [
+        "Part 1 - Safety and tolerability of STRO-002/bevacizumab as a combination therapy",
+        "Part 1 - Determine the recommended phase 2 dose (RP2D) of STRO-002/bevacizumab"
+      ],
+      "sponsor": "Sutro Biopharma, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05200364"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00097019",
+      "title": "A Multicenter, Single-Arm, Phase II Trial of Bevacizumab in Subjects With Platinum-Resistant Epithelial Carcinoma of the Ovary or Primary Peritoneal Carcinoma for Whom Subsequent Doxil or Topotecan Therapy Has Failed",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-02",
+      "completion_date": "2006-05",
+      "country": "N/A",
+      "enrollment": 53,
+      "brief_summary": "This is an open-label, single-arm, two-stage, multicenter Phase II study evaluating the efficacy and safety of bevacizumab in women with platinum resistant, advanced (Stage III or IV) EOC (epithelial ovarian cancer) or PPC (primary peritoneal cancer) that subsequently progressed either during treatment with Doxil or Hycamtin therapy or within 3 months of discontinuing treatment with Doxil or Hycamtin therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent\n* Female, age \\>=18 years\n* Advanced (Stage III or IV), histologically documented epithelial ovarian cancer or primary peritoneal cancer\n* Platinum-resistant disease\n* Platinum-resistant disease that subsequently progressed either during treatment with ",
+      "endpoints": [],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00097019"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00262847",
+      "title": "A Phase III Trial of Carboplatin and Paclitaxel Plus Placebo Versus Carboplatin and Paclitaxel Plus Concurrent Bevacizumab (NSC # 704865) Followed by Placebo, Versus Carboplatin and Paclitaxel Plus Concurrent and Extended Bevacizumab, in Women With Newly Diagnosed, Previously Untreated, Stage III or IV Epithelial Ovarian, Primary Peritoneal or Fallopian Tube Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-09",
+      "completion_date": "2015-04",
+      "country": "Japan, South Korea, Canada, United States",
+      "enrollment": 1873,
+      "brief_summary": "This randomized phase III trial studies carboplatin, paclitaxel, and bevacizumab to see how well they work compared to carboplatin, paclitaxel, and placebo in treating patients with stage III or stage IV ovarian epithelial, primary peritoneal, or fallopian tube cancer. Drugs used in chemotherapy, such as carboplatin and paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Monoclonal antibodies, such as bevacizumab, m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a histologic diagnosis of epithelial ovarian cancer, peritoneal primary carcinoma or fallopian tube cancer; International Federation of Gynecology and Obstetrics (FIGO) stage III with any gross (macroscopic or palpable) residual disease or FIGO stage IV, defined ",
+      "endpoints": [
+        "Progression-free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00262847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01167712",
+      "title": "GOG-0262: A Phase III Trial of Every-3-Weeks Paclitaxel Versus Dose Dense Weekly Paclitaxel in Combination With Carboplatin With or Without Concurrent and Consolidation Bevacizumab (NSC #704865) in the Treatment of Primary Stage II, III or IV Epithelial Ovarian, Peritoneal or Fallopian Tube Cancer and ACRIN 6695: Perfusion CT Imaging to Evaluate Treatment Response in Patients Participating in GOG-0262",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2010-09-27",
+      "completion_date": "2026-07-02",
+      "country": "South Korea, Canada, United States",
+      "enrollment": 692,
+      "brief_summary": "This phase III clinical trial studies two different dose schedules of paclitaxel to see how well they work in combination with carboplatin with or without bevacizumab in treating patients with stage II, III or IV ovarian epithelial cancer, primary peritoneal cancer, or fallopian tube cancer. Drugs used in chemotherapy, such as paclitaxel and carboplatin, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary Surgery and Neoadjuvant Chemotherapy with Interval Cytoreductive Surgery Patients:\n* Patients must have measurable disease; at least one target lesion must have a minimum length of 1 cm in both the long and short axis (determined at the local site); for primary surgery",
+      "endpoints": [
+        "Progression-Free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01167712"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06047379",
+      "title": "An Open-label Phase 1/2 Dose Finding, Safety and Efficacy Study of Oral NEO212 in Patients With Astrocytoma IDH-mutant, Glioblastoma IDH-wildtype or Uncontrolled Brain Metastasis in Patients With Select Solid Tumors.",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-11-01",
+      "completion_date": "2027-08-31",
+      "country": "United States",
+      "enrollment": 134,
+      "brief_summary": "This multi-site, Phase 1/2 clinical trial is an open-label study to identify the safety, pharmacokinetics, and efficacy of a repeated dose regimen of NEO212 alone for the treatment of patients with radiographically-confirmed progression of Astrocytoma IDH- mutant, Glioblastoma IDH-wildtype, and the safety, pharmacokinetics and efficacy of a repeated dose regimen of NEO212 when given with select SOC for the treatment of solid tumor patients with radiographically confirmed uncontrolled metastases ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient must be ≥ 18yrs of age.\n* Patient must have the ability to understand, and the willingness to sign, a written informed consent form.\n* Patient has been on a stable or decreasing dose of steroids for at least five days prior to the date of informed consent.\n* Any toxici",
+      "endpoints": [
+        "Phase 1: safety and tolerability of increasing dose levels of orally administered NEO212 alone in patients with Astrocytoma IDH-mutant, Glioblastoma IDH-wildtype or patients with select solid tumors with uncontrolled metastases to the brain",
+        "Phase 1: Identify the maximum tolerated dose (MTD) of NEO212",
+        "Phase 1: Determine the recommended Phase 2 dose (RP2D) of NEO212"
+      ],
+      "sponsor": "Neonc Technologies, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06047379"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02142803",
+      "title": "A Phase 1 Study of MLN0128 and Bevacizumab in Patients With Recurrent Glioblastoma and Other Solid Tumors",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2014-05-20",
+      "completion_date": "2026-10-16",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This phase I trial studies the side effects and best dose of raptor/rictor-mammalian target of rapamycin (mTOR) (TORC1/2) inhibitor MLN0128 when given in combination with bevacizumab in treating patients with glioblastoma, a type of brain tumor, or a solid tumor that has spread and not responded to standard treatment. TORC1/2 inhibitor MLN0128 may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as bevacizumab, may interfere with ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have a histologically/cytologically confirmed diagnosis of recurrent glioblastoma or an advanced solid tumor in which bevacizumab has shown benefit in specific disease population and for which standard or curative measures do not exist or are no longer effective\n",
+      "endpoints": [
+        "Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (R2PD) of Daily Oral MLN0128 When Administered With Bevacizumab",
+        "Most Common Related Toxicities That Led to Dose Hold/Reductions"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT02142803"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06540729",
+      "title": "Disitamab Vedotin (RC48) in Combination With AK104 (PD-1/CTLA-4 Bispecific) and Bevacizumab for the Treatment of Recurrent and Persistent Clear Cell Ovarian Cancer",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-09-24",
+      "completion_date": "2030-08-01",
+      "country": "China",
+      "enrollment": 39,
+      "brief_summary": "Disitamab vedotin (RC48) in combination with AK104 (PD-1/CTLA-4 bispecific) and bevacizumab for the treatment of recurrent and persistent clear cell ovarian cancer: a single-arm, phase II, multicenter study (DAB OCC study)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The pathological diagnosis confirms ovarian clear cell carcinoma. In cases of mixed carcinoma, a prerequisite is that clear cell carcinoma constitutes at least 70% of the tumor mass. Moreover, adherence to RECIST 1.1 criteria mandates the presence of at least one evaluable les",
+      "endpoints": [
+        "Objective Response Rate"
+      ],
+      "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06540729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04227522",
+      "title": "Rucaparib MAintenance After Bevacizumab Maintenance Following Carboplatin Based First Line Chemotherapy in Ovarian Cancer Patients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2020-06-08",
+      "completion_date": "2024-07-01",
+      "country": "Germany",
+      "enrollment": 42,
+      "brief_summary": "MAMOC is a multicenter, randomized, placebo controlled, double blind study including BRCA negative patients with histologically confirmed, advanced (FIGO stage IIIA, IIIB, IIIC, or IV of the 2014 FIGO classification) high grade serous or high grade endometrioid (based on local histopathological findings) ovarian cancer, fallopian tube cancer, primary peritoneal cancer and clear cell carcinoma of the ovary in first line therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent and obtained from the subject prior to performing any protocol-related procedures, including screening evaluations.\n2. Age ≥ 18.\n3. Patients with histologically confirmed, advanced (FIGO stage IIIA, IIIB, IIIC, or IV of the 2014 FIGO classification) h",
+      "endpoints": [
+        "Progression free survival (PFS)"
+      ],
+      "sponsor": "North Eastern German Society of Gynaecological Oncology",
+      "url": "https://clinicaltrials.gov/study/NCT04227522"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01010126",
+      "title": "A Phase 2 Trial of Temsirolimus and Bevacizumab in Patients With Endometrial, Ovarian, Hepatocellular Carcinoma, Carcinoid or Islet Cell Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-09-08",
+      "completion_date": "2017-03-13",
+      "country": "Canada, United States",
+      "enrollment": 252,
+      "brief_summary": "This phase II trial studies how well temsirolimus and bevacizumab work in treating patients with advanced endometrial, ovarian, liver, carcinoid, or islet cell cancer. Temsirolimus may stop the growth of tumor cells by blocking some of the enzymes needed for cell growth. Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some block the ability of tumor cells to grow and spread. Others find tumor cells and help kill them or carry tumor-killing substances to them",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed endometrial (endometrioid, uterine, papillary serous carcinoma, and carcinosarcoma), ovarian (primary peritoneal/fallopian tube, serous, endometrioid, mixed, and poorly differentiated epithelial ovarian cancers \\[for purposes of eligib",
+      "endpoints": [
+        "Progression Free Survival Rate",
+        "Tumor Response Rate"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT01010126"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02884648",
+      "title": "A Phase II Investigation of Bevacizumab for the Treatment of Second-Look Positive Epithelial Ovarian Cancer",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2016-11-15",
+      "completion_date": "2027-02-02",
+      "country": "United States",
+      "enrollment": 35,
+      "brief_summary": "The goal of this clinical research study is to learn if Avastin (bevacizumab) can help to control ovarian, fallopian, or primary peritoneal cancer that has been found during second-look surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed written Informed Consent (in participant's preferred language or short form, per SOP04).\n2. Age\\>/= 18 years of age or older.\n3. Histologically confirmed Stage III-IV high-grade epithelial non-mucinous ovarian, fallopian tube, or primary peritoneal cancers.\n4. Have rec",
+      "endpoints": [
+        "Progression-Free Survival (PFS) of Participants with Positive Second-Look Findings Treated with Bevacizumab"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02884648"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04430842",
+      "title": "A Phase 1, Open Label, Multi-Center, Single and Multiple Dose, Dose Escalation and Expansion Study to Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of QBS10072S in Previously Treated Patients With Advanced or Metastatic Cancers With High LAT1 Signatures, and in Patients With Relapsed or Refractory Grade 4 Astrocytoma",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-07-20",
+      "completion_date": "2022-12-22",
+      "country": "Australia",
+      "enrollment": 15,
+      "brief_summary": "This is a multi-center, open-label, dose escalation study to determine the safety, tolerability, pharmacokinetics, pharmacodynamics, and maximum tolerated dose (MTD) of QBS10072S in patients with advanced or metastatic cancers with high LAT1 expression. The MTD of QBS10072S will be confirmed in patients with relapsed or refractory grade 4 astrocytoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants aged ≥18 years at the time of informed consent.\n2. Adequate Bone Marrow Function\n3. Adequate renal function\n4. Adequate Liver Function\n5. Resolved acute effects of any prior therapy to baseline severity or CTCAE Grade ≤1 except for AEs not constitu",
+      "endpoints": [
+        "Determination of maximum tolerated dose (MTD)"
+      ],
+      "sponsor": "Quadriga Biosciences, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04430842"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03842982",
+      "title": "Phase III Randomized Clinical Trial Evaluating Hyperthermic Intraperitoneal Chemotherapy (HIPEC) in Ovarian Cancer Considering Two Different Settings: Primary Debulking Surgery (PDS) and Interval Debulking Surgery (IDS)",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2019-04-01",
+      "completion_date": "2026-11-01",
+      "country": "Belgium, France",
+      "enrollment": 362,
+      "brief_summary": "This is a phase III, multicenter, interventional and randomized study which evaluates the use of Hyperthermic Intraperitoneal Chemotherapy (HIPEC) coupled with either Primary Debulking Surgery (PDS) or Interval Debulking Surgery (IDS), in patients with ovarian cancer. This study aims to assess the efficacy, in terms of disease-free survival (DFS), the use of HIPEC combined with standard care (PDS or IDS) or standard care alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPre-eligibility criteria to be checked before surgery for pre-registration\n\n1. Age ≥18 years and ≤ 76 years\n2. Histologically proven primary epithelial ovarian carcinoma or fallopian tube carcinoma or peritoneal carcinoma (including serous papillary adenocarcinoma, clear-cell ca",
+      "endpoints": [
+        "Disease-free Survival (DFS)"
+      ],
+      "sponsor": "Centre Oscar Lambret",
+      "url": "https://clinicaltrials.gov/study/NCT03842982"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01248949",
+      "title": "Phase 1/1b, Open-Label, Dose-Escalation and Expansion Study to Evaluate the Safety and Antitumor Activity of MEDI3617 as a Single-Agent or in Combination Therapy in Adult Subjects With Advanced Solid Tumors",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 162,
+      "brief_summary": "To determine the maximum tolerated dose or optimal biological dose, and the safety profile of MEDI3617 when given as a single-agent or in combination with other chemotherapeutic agents in subjects with advanced solid malignancies resistant to standard therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with confirmed diagnosis of advanced solid tumors (dose-escalation phase) or another solid tumor type based on antitumoral activity (dose-expansion phase) that are not responsive to standard therapy or for which no standard therapy exists\n* Patients must be 18 years o",
+      "endpoints": [
+        "Number of Participants With Dose Limiting Toxicities (DLTs)",
+        "Maximum Tolerated Dose (MTD)",
+        "Number of Participants With Treatment Emergent Adverse Events (TEAEs) and Treatment Emergent Serious Adverse Events (TESAEs)"
+      ],
+      "sponsor": "MedImmune LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01248949"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03872947",
+      "title": "A Phase 1b, Multicenter Study to Determine the Dose, Safety, Efficacy and Pharmacokinetics of TRK-950 When Used in Combinations With Selected Anti-Cancer Treatment Regimens in Patients With Selected Advanced Solid Tumors",
+      "phase": "PHASE1",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-04-26",
+      "completion_date": "2026-06",
+      "country": "France, United States",
+      "enrollment": 138,
+      "brief_summary": "The main purpose of this study is to establish the safety and the recommended dose of TRK-950 in combination with FOLFIRI, Gemcitabine / Cisplatin, Gemcitabine / Carboplatin, Ramucirumab / Paclitaxel, PD1 inhibitors (Nivolumab or Pembrolizumab), and Imiquimod Cream, Bevacizumab, Gemcitabine / Carboplatin / Bevacizumab, Pegylated liposomal doxorubicin (PLD), Carboplatin / PLD / Bevacizumab and Paclitaxel for selected advanced solid tumors.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed solid malignancy for which the following treatment regimens are warranted:\n* Arm A. Colorectal Cancer with no prior history of treatment with Irinotecan alone or in combination: FOLFIRI as standard of care\n* Arm B. Cholangiocarcinoma, Bladder Cancer wi",
+      "endpoints": [
+        "Frequency of patients experiencing treatment emergent adverse events as assessed by CTCAE v5.0",
+        "Frequency of patients experiencing adverse events of special interest (AESIs)",
+        "Blood pressure"
+      ],
+      "sponsor": "Toray Industries, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT03872947"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05039801",
+      "title": "A Phase 1 Open-Label, Dose-Escalation and Dose-Expansion Study to Investigate the Safety, Pharmacokinetics, and Anti-Tumor Activity of IACS-6274 as Monotherapy and in Combination in Patients With Advanced Solid Tumors",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2021-09-09",
+      "completion_date": "2026-05-29",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "To find the highest tolerable dose of IACS-6274 that can be given alone, in combination with bevacizumab and paclitaxel, or in combination with capivasertib to patients who have solid tumors. The safety and tolerability of the study drug(s) will also be studied.",
+      "eligibility_criteria": "Inclusion Criteria All Parts\n\n1. Provision of written informed consent prior to any study related procedures and compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.\n2. Male or female patients ≥18 years of age at the time of study entry wh",
+      "endpoints": [
+        "Incidence of adverse events (AEs)"
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT05039801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02923739",
+      "title": "A Randomized Phase II Induction Discontinuation Trial of Emactuzumab Following Paclitaxel and Bevacizumab in Patients With Platinum-Resistant, Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2017-05-05",
+      "completion_date": "2022-09-27",
+      "country": "United States",
+      "enrollment": 9,
+      "brief_summary": "This randomized phase II trial studies the side effects of paclitaxel and bevacizumab with or without emactuzumab and how well they work in treating patients with ovarian, fallopian tube, or primary peritoneal cancer that has come back after treatment with platinum chemotherapy. Monoclonal antibodies, such as emactuzumab, block tumor growth in different ways by targeting certain cells. Drugs used in chemotherapy, such as paclitaxel, work in different ways to stop the growth of tumor cells, eithe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent obtained prior to initiation of any study-specific procedures and treatment as confirmation of the patient's awareness and willingness to comply with the study requirements (inclusive of 2 biopsies, one at baseline and if they qualify, one pre-randomiza",
+      "endpoints": [
+        "Part 1: To Evaluate the Safety of Administration of Paclitaxel, Bevacizumab and Emactuzumab Over 4 Weeks.",
+        "Part 2B: To Compare the Progression-free Survival (PFS) of Patients With Stable Disease Following Part 2A Randomized to Paclitaxel Plus Bevacizumab or to Paclitaxel, Bevacizumab Plus Emactuzumab."
+      ],
+      "sponsor": "M.D. Anderson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT02923739"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06279104",
+      "title": "A Comparative Study of the Treatment of Real-world Patients With Clear Cell Carcinoma of the Ovary",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2023-03-01",
+      "completion_date": "2025-05-01",
+      "country": "China",
+      "enrollment": 150,
+      "brief_summary": "The goal of this observational study is to learn about the treatment effectiveness of physician's choice of chemotherapy and the immune checkpoint inhibitor (ICI)-based therapy in patients with relapsed/refractory ovarian clear cell carcinoma (OCCC), and compare the treatment response with the phase II, single-arm clinical trial INOVA to investigate the efficacy of combinational therapy of sintilimab plus bevacizumab. The main questions it aims to answer are:\n\n* What is the efficacy of physician",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Female patients with age ≥ 18 years old and ≤ 75 years old.\n2. There must be a histological diagnosis of ovarian clear cell carcinoma.\n3. Patients with recurrent or persistent ovarian clear cell carcinoma must have at least one-line pretreated platinum-containing chemotherapy",
+      "endpoints": [
+        "tumor response rate"
+      ],
+      "sponsor": "Tongji Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06279104"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02020707",
+      "title": "Targeted Complex Therapy for Advanced Melanoma, Gynecologic Cancers, and Other Malignancies: Nab-Paclitaxel (Abraxane)/Bevacizumab Complex (AB-Complex)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-02-24",
+      "completion_date": "2024-07-18",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "This phase I trial studies the side effects and best dose of nab-paclitaxel and bevacizumab in treating patients with stage IV melanoma that cannot be removed by surgery (unresectable), cancer of the cervix, endometrium, ovary, fallopian tube or peritoneal cavity. Drugs used in chemotherapy, such as nab-paclitaxel, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Bevacizumab may stop or slow",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>= 18 years\n* Melanoma cohort only: histologic proof of surgically unresectable stage IV malignant melanoma\n* Melanoma cohort only: measurable disease defined as at least one lesion whose longest diameter can be accurately measured as \\>= 2.0 cm with chest x-ray, or as \\>",
+      "endpoints": [
+        "Maximum tolerated dose (MTD"
+      ],
+      "sponsor": "Mayo Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT02020707"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03281681",
+      "title": "A Phase 1/2, Open Label, Multi-center Study of VAL-083 in Patients With Recurrent Platinum Resistant Ovarian Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2021-03",
+      "completion_date": "2022-09",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "This is an open label, multi-center, Phase 1/2 clinical trial in subjects with recurrent adenocarcinoma of the ovary who have been previously treated with a minimum of two courses of platinum-based chemotherapy, and up to two additional cytotoxic regimens that may also have included platinum (no more than four total lines of prior therapy), with or without bevacizumab, whose cancer has recurred within six months of the most recent platinum-based chemotherapy. All eligible subjects will receive V",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient must willingly provide written consent after being informed of the procedure to be followed, the experimental nature of the therapy, alternatives, potential benefits, side effects, risks, and discomforts. (Human protection committee approval of this protocol and conse",
+      "endpoints": [
+        "Estimate Overall Response Rate"
+      ],
+      "sponsor": "Kintara Therapeutics, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03281681"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00748657",
+      "title": "A Phase II Trial of NCI-Supplied Agent: Bevacizumab (rhuMAB VEGF) (NSC# 704865) for Recurrent Sex Cord-Stromal Tumors of the Ovary",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-09-22",
+      "completion_date": "2013-01-31",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This phase II trial studies how well bevacizumab works in treating patients with sex cord-stromal tumors of the ovary that have come back. Monoclonal antibodies, such as bevacizumab, may block tumor growth in different ways by targeting certain cells. Bevacizumab may also stop the growth of tumor cells by blocking blood flow to the tumor.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed with histologically confirmed recurrent ovarian stromal tumor (granulosa cell tumor, granulosa cell-theca cell tumor, Sertoli-Leydig cell tumor \\[androblastoma\\], steroid \\[lipid\\] cell tumor, gynandroblastoma, unclassified sex cord-stromal tumor, sex cord t",
+      "endpoints": [
+        "Tumor Response"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00748657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00434642",
+      "title": "A Phase III, Multicenter, Randomized, Blinded, Placebo-controlled Trial of Carboplatin and Gemcitabine Plus Bevacizumab in Patients With Platinum-sensitive Recurrent Ovary, Primary Peritoneal, or Fallopian Tube Carcinoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2013-07",
+      "country": "N/A",
+      "enrollment": 484,
+      "brief_summary": "This is a placebo-controlled, randomized, multicenter Phase III study that will evaluate the safety and efficacy of bevacizumab, administered in combination with carboplatin with gemcitabine, in women with platinum-sensitive recurrent epithelial ovarian, primary peritoneal, or fallopian tube carcinoma.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent Form\n* Age ≥ 18 years\n* Documented ovarian, primary peritoneal, or fallopian tube carcinoma that has recurred\n* No prior chemotherapy in the recurrent setting\n* Measurable disease\n* Recovered from prior radiation therapy or surgery\n\nExclusion Criteria:\n",
+      "endpoints": [
+        "Progression Free Survival (PFS) as Determined by the Investigator, Per Response Evaluation Criteria for Solid Tumors (RECIST)"
+      ],
+      "sponsor": "Genentech, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00434642"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07146919",
+      "title": "A Multicenter, Open-label Phase I/II Trial Aiming to Assess the Safety and Clinical Activity of Bemarituzumab + Bevacizumab in Advanced/Metastatic Gynecological Cancer Overexpressing FGFR2b",
+      "phase": "PHASE1, PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-10-15",
+      "completion_date": "2030-10-15",
+      "country": "N/A",
+      "enrollment": 87,
+      "brief_summary": "The aim of this study is to determine the Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D) of bemarituzimab given in combination with a fixed dose of bevacizumab and to assess the clinical activity of the proposed combination bemarituzumab and bevacizumab in 3 parallel and independent cohorts of gynecological cancer (endometrium, ovary and cervix).",
+      "eligibility_criteria": "Inclusion Criteria:\n\nI1. Female patients ≥ 18 years of age at time of ICF signature.\n\nI2. Patients must have histologically or cytologically confirmed locally advanced or metastatic gynaecological cancer including\n\n* Cohort I - all endometrial carcinoma (endometroid, serous, carcinosarcoma and undif",
+      "endpoints": [
+        "Dose escalation part : Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D)",
+        "Extension part : Progression free rate (PFR)"
+      ],
+      "sponsor": "Centre Leon Berard",
+      "url": "https://clinicaltrials.gov/study/NCT07146919"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00951496",
+      "title": "A Phase III Clinical Trial of Bevacizumab With IV Versus IP Chemotherapy in Ovarian, Fallopian Tube and Primary Peritoneal Carcinoma",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-08-11",
+      "completion_date": "2016-01-11",
+      "country": "United States",
+      "enrollment": 1560,
+      "brief_summary": "This randomized phase III trial studies bevacizumab and intravenous (given into a vein) chemotherapy to see how well they work compared with bevacizumab and intraperitoneal (given into the abdominal cavity) chemotherapy in treating patients with stage II-III ovarian epithelial cancer, fallopian tube cancer, or primary peritoneal cancer. Monoclonal antibodies, such as bevacizumab, can block the ability of tumor cells to grow and spread by blocking the growth of new blood vessels necessary for tum",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a histologic diagnosis of epithelial ovarian, fallopian tube, or primary peritoneal carcinoma, stage II, III, or IV with either optimal (=\\< 1 cm residual disease) or suboptimal residual disease; in the event of a higher priority Phase III Gynecologic Oncology Gr",
+      "endpoints": [
+        "Median Progression-free Survival"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00951496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00296816",
+      "title": "A Pilot Phase II Study Evaluating the Combination of Oxaliplatin and Docetaxel With Bevacizumab as First Line Therapy in Patients With FIGO Stage IB-IV Epithelial Ovarian, Primary Peritoneal or Fallopian Tube Carcinoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 132,
+      "brief_summary": "Feasibility study to assess a novel combination of cytotoxic agents, docetaxel and oxaliplatin, as first-line therapy in the treatment of ovarian cancer and the impact of angiogenesis inhibition for the progression and prognosis of ovarian cancer by concurrent addition of bevacizumab (Avastin®).",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\n1. Females 18 years of age or older\n2. Participants with a histologic diagnosis of ovarian, primary peritoneal, or fallopian tube carcinoma, Stage Ib- IV, with either optimal (≤ 1 cm residual disease) or suboptimal residual disease ( \\> 1 cm maximal diameter any remaining lesion",
+      "endpoints": [
+        "Twelve-month Progression-free Survival (PFS) Rate in Participants"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00296816"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00683241",
+      "title": "A Phase I Clinical Trial of Autologous Dendritic Cell Vaccine Leaded With Autologous Tumor Cell Lysate for Recurrent Ovarian or Primary Peritoneal Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 36,
+      "brief_summary": "This study is open to women with recurrent epithelial ovarian carcinoma or primary peritoneal cancer. Subjects will be asked to donate either a piece of their tumor or malignant effusion in order to make the first part of the vaccine or lysate. If enough of the lystate had been collected to make the first part of the vaccine, then subjects may enroll in the study as long as they meet the rest of the entry criteria.\n\nAfter is determined that a subject is eligible to enroll into the study, you wil",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Recurrent stage II to IV ovarian carcinoma or primary peritoneal carcinoma.\n* Subjects with prior secondary cytoreductive surgery or aspiration of malignant effusion yielding tumor for lysate preparation.\n* Subjects must have sufficient lysate for DCVax-L preparation (\\> 10 mg",
+      "endpoints": [
+        "To determine the feasibility and safety of administering DCVax-L intradermally combined with intravenous bevacizumab and oral metronomic cyclophosphamide in patients with recurrent ovarian or primary peritoneal cancer."
+      ],
+      "sponsor": "Abramson Cancer Center at Penn Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00683241"
+    }
+  ],
+  "timestamp": "2026-03-04T15:19:42.736978",
+  "success": true,
+  "error_message": null
+}

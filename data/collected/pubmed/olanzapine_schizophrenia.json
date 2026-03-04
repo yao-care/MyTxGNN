@@ -1,0 +1,598 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "schizophrenia",
+    "query_string": "Olanzapine AND schizophrenia"
+  },
+  "data": {
+    "query": "Olanzapine AND schizophrenia",
+    "results": [
+      {
+        "pmid": "35040357",
+        "title": "Olanzapine/Samidorphan: New Drug Approved for Treating Bipolar I Disorder and Schizophrenia.",
+        "abstract": "To describe the approval of olanzapine/samidorphan, compare the clinical trial data, and summarize key findings, with a focus on impact to clinical practice.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2022",
+        "authors": [
+          "Monahan Christie",
+          "McCoy Lindsey",
+          "Powell Jason",
+          "Gums John G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Naltrexone",
+          "Olanzapine",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35040357/"
+      },
+      {
+        "pmid": "35644903",
+        "title": "Olanzapine/Samidorphan: A New Combination Treatment for Schizophrenia and Bipolar I Disorder Intended to Reduce Weight Gain.",
+        "abstract": "Olanzapine is a second-generation antipsychotic with established efficacy in several psychiatric disease states, but its use is limited because of weight gain and metabolic side effects. Samidorphan is a novel opioid antagonist that binds to mu-opioid, kappa-opioid, and delta-opioid receptors and is hypothesized to reduce cravings for high-calorie foods thus attenuating antipsychotic-induced weight gain. The combination product olanzapine/samidorphan was approved by the US Food and Drug Administration in June 2021 for the treatment of schizophrenia and bipolar I disorder; this article reviews the pharmacological properties of oral olanzapine/samidorphan and its clinical efficacy and tolerability with a focus on mitigation of olanzapine-induced weight gain in these patient populations. In clinical trials, the combination of olanzapine/samidorphan was associated with significantly less weight gain and smaller increases in waist circumference as compared with olanzapine monotherapy. Olanz",
+        "journal": "CNS drugs",
+        "year": "2022",
+        "authors": [
+          "Corrao Madeline M",
+          "Nelson Leigh Anne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics, Opioid",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Naltrexone",
+          "Olanzapine",
+          "Schizophrenia",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35644903/"
+      },
+      {
+        "pmid": "40663991",
+        "title": "High-dose olanzapine versus clozapine for treatment-resistant schizophrenia: A systematic review and meta-analysis.",
+        "abstract": "Treatment-resistant schizophrenia (TRS) affects approximately 30 % of schizophrenia patients and represents a significant clinical challenge. Although clozapine remains the gold standard treatment, it is underutilized due to hematological monitoring requirements, though recent FDA guidance has made such monitoring less restrictive. High-dose olanzapine has emerged as a potential alternative; however, comparative evidence has been mixed. We conducted a systematic review and meta-analysis following PRISMA guidelines. Four electronic databases were searched, from inception to February 2025. Studies that directly compared high-dose olanzapine (≥20 mg/day) with clozapine in treatment-resistant populations were included. The primary outcomes included changes in overall psychopathology as measured by PANSS total scores or BPRS total scores, along with positive and negative symptom subscales, positive and negative symptoms, and adverse events. Twelve studies met the inclusion criteria, which w",
+        "journal": "General hospital psychiatry",
+        "year": "2025",
+        "authors": [
+          "Upadhyay Bijen",
+          "Abdolmanafi Sheila",
+          "Bhatnagar Tanmay",
+          "Al Jnainati Mustafa",
+          "Al Jnainati Jana"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Clozapine",
+          "Olanzapine",
+          "Outcome Assessment, Health Care",
+          "Schizophrenia",
+          "Schizophrenia, Treatment-Resistant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40663991/"
+      },
+      {
+        "pmid": "39111258",
+        "title": "Association of new-onset diabetes mellitus in adults with schizophrenia treated with clozapine versus patients treated with olanzapine, risperidone, or quetiapine: A systematic review and meta-analysis.",
+        "abstract": "Many articles suggest that clozapine was strongly associated with a higher incidence of new-onset diabetes mellitus, and the issue has remained unsettled. Many articles have compared clozapine with FGAs, but few have compared clozapine with SGAs. We aimed to compare the risk of new-onset diabetes mellitus in adults with schizophrenia treated with clozapine and other SGAs.",
+        "journal": "Schizophrenia research",
+        "year": "2024",
+        "authors": [
+          "He Qi",
+          "Zhu Peixin",
+          "Liu Xiyan",
+          "Huo Chunyue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Antipsychotic Agents",
+          "Clozapine",
+          "Diabetes Mellitus",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Risperidone",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39111258/"
+      },
+      {
+        "pmid": "34528455",
+        "title": "The pharmacogenetics of treatment with olanzapine.",
+        "abstract": "Genetic polymorphism in olanzapine-metabolizing enzymes, transporters and drug targets is associated with alterations in safety and efficacy. The aim of this systematic review is to describe all clinically relevant pharmacogenetic information on olanzapine and to propose clinically actionable variants. Two hundred and eighty-four studies were screened; 76 complied with the inclusion criteria and presented significant associations. DRD2 Taq1A (rs1800497) *A1, LEP -2548 (rs7799039) G and CYP1A2*1F alleles were related to olanzapine effectiveness and safety variability in several studies, with a high level of evidence. DRD2 -141 (rs1799732) Ins, A-241G (rs1799978) G, DRD3 Ser9Gly (rs6280) Gly, HTR2A rs7997012 A, ABCB1 C3435T (rs1045642) T and G2677T/A (rs2032582) T and UGT1A4*3 alleles were related to safety, effectiveness and/or pharmacokinetic variability with moderated level of evidence.",
+        "journal": "Pharmacogenomics",
+        "year": "2021",
+        "authors": [
+          "Zubiaur Pablo",
+          "Soria-Chacartegui Paula",
+          "Villapalos-García Gonzalo",
+          "Gordillo-Perdomo Juan J",
+          "Abad-Santos Francisco"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Humans",
+          "Olanzapine",
+          "Pharmacogenetics",
+          "Polymorphism, Genetic",
+          "Schizophrenia",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34528455/"
+      },
+      {
+        "pmid": "9464002",
+        "title": "Olanzapine, sertindole and schizophrenia.",
+        "abstract": "",
+        "journal": "Drug and therapeutics bulletin",
+        "year": "1997",
+        "authors": [],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Drug Administration Schedule",
+          "Humans",
+          "Imidazoles",
+          "Indoles",
+          "Olanzapine",
+          "Pirenzepine",
+          "Randomized Controlled Trials as Topic",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9464002/"
+      },
+      {
+        "pmid": "37027805",
+        "title": "Olanzapine and Weight Loss in Early-Onset Schizophrenia.",
+        "abstract": "",
+        "journal": "The primary care companion for CNS disorders",
+        "year": "2023",
+        "authors": [
+          "Naguy Ahmed",
+          "Md Reda Rushdy",
+          "Pridmore Saxby",
+          "Singh Anubhuti",
+          "Alamiri Bibi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Olanzapine",
+          "Schizophrenia",
+          "Antipsychotic Agents",
+          "Psychotic Disorders",
+          "Weight Loss",
+          "Benzodiazepines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37027805/"
+      },
+      {
+        "pmid": "41630413",
+        "title": "Olanzapine in the treatment of schizophrenia in adolescents - mechanisms of action and therapeutic efficacy.",
+        "abstract": "Olanzapine is widely used for schizophrenia and bipolar I disorder, yet its role in adolescents remains debated due to metabolic risks.",
+        "journal": "Psychiatria polska",
+        "year": "2025",
+        "authors": [
+          "Nowak Wiktoria",
+          "Korba Paulina",
+          "Kinalska Natalia",
+          "Kubik Julia",
+          "Lizoń Anna"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Olanzapine",
+          "Schizophrenia",
+          "Adolescent",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Treatment Outcome",
+          "Female",
+          "Male",
+          "Bipolar Disorder"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41630413/"
+      },
+      {
+        "pmid": "15907151",
+        "title": "Effectiveness and cost of risperidone and olanzapine for schizophrenia: a systematic review.",
+        "abstract": "Risperidone and olanzapine are novel antipsychotic medications that compete as first-line agents in treating patients with schizophrenia. The objective of this paper is to review the available evidence regarding the effectiveness and cost of risperidone versus olanzapine. We reviewed both randomised and peer-reviewed non-randomised head-to-head (olanzapine versus risperidone) studies in populations with schizophrenia. The studies were selected through a MEDLINE search. Risperidone and olanzapine provide control of positive, negative and global symptoms of schizophrenia. Each drug has a distinct adverse effect profile. Five randomised trials comparing risperidone with olanzapine suggested grossly similar efficacy in the first 2 months of treatment, with some results indicating advantages for olanzapine over the longer term. Only two of the trials included measures of service utilisation. One had 28-week follow-up, and the other followed patients for 12 months but had small sample sizes.",
+        "journal": "CNS drugs",
+        "year": "2005",
+        "authors": [
+          "Hargreaves William A",
+          "Gibson P Joseph"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Costs and Cost Analysis",
+          "Humans",
+          "Olanzapine",
+          "Randomized Controlled Trials as Topic",
+          "Risperidone",
+          "Schizophrenia",
+          "Schizophrenic Psychology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15907151/"
+      },
+      {
+        "pmid": "37326421",
+        "title": "Weight Gain and Metabolic Changes in Patients With First-Episode Psychosis or Early-Phase Schizophrenia Treated With Olanzapine: A Meta-Analysis.",
+        "abstract": "Patients with first-episode psychosis or early-phase schizophrenia are susceptible to olanzapine-associated weight gain and cardiometabolic dysregulation. This meta-analysis characterized weight and metabolic effects observed during olanzapine treatment in randomized clinical trials in this vulnerable patient population.",
+        "journal": "The international journal of neuropsychopharmacology",
+        "year": "2023",
+        "authors": [
+          "Correll Christoph U",
+          "Højlund Mikkel",
+          "Graham Christine",
+          "Todtenkopf Mark S",
+          "McDonnell David"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Olanzapine",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Schizophrenia",
+          "Psychotic Disorders",
+          "Weight Gain",
+          "Cardiovascular Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37326421/"
+      },
+      {
+        "pmid": "30901117",
+        "title": "Effects of olanzapine during cognitive and emotional processing in schizophrenia: A review of functional magnetic resonance imaging findings.",
+        "abstract": "Olanzapine is an atypical antipsychotic that is widely used in the treatment of schizophrenia and has shown some degree of efficacy on negative and cognitive symptoms. We aimed to review the effects of olanzapine treatment on brain regions that are directly involved in cognitive and emotional processing.",
+        "journal": "Human psychopharmacology",
+        "year": "2019",
+        "authors": [
+          "Del Fabro Lorenzo",
+          "Delvecchio Giuseppe",
+          "D'Agostino Armando",
+          "Brambilla Paolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Brain",
+          "Cognition",
+          "Emotions",
+          "Functional Neuroimaging",
+          "Humans",
+          "Magnetic Resonance Imaging",
+          "Olanzapine",
+          "Schizophrenia",
+          "Schizophrenic Psychology"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30901117/"
+      },
+      {
+        "pmid": "15963000",
+        "title": "Efficacy of olanzapine and ziprasidone for the treatment of schizophrenia: a systematic review.",
+        "abstract": "It is difficult to determine the relative efficacy of atypical antipsychotics for the treatment of schizophrenia, based on the available literature. The purpose of this article is to review and compare the efficacy of two atypical antipsychotics: olanzapine and ziprasidone.This review focused on randomised trials in which these two antipsychotics were compared with placebo, conventional antipsychotics and each other. Common efficacy measures were the Brief Psychiatric Rating Scale, Positive and Negative Syndrome Scale and Schedule for Assessment of Negative Symptoms. When sufficient data were available, the mean treatment effect (with 95% confidence intervals) was computed and presented. Olanzapine was consistently found to be significantly superior to placebo and comparable with, or superior to, haloperidol for the treatment of overall, positive and negative schizophrenic symptoms. Ziprasidone appears to have significantly greater efficacy than placebo for overall and negative symptom",
+        "journal": "CNS drugs",
+        "year": "2005",
+        "authors": [
+          "Matza Louis S",
+          "Baker Timothy M",
+          "Revicki Dennis A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Drug Evaluation",
+          "Humans",
+          "Meta-Analysis as Topic",
+          "Olanzapine",
+          "Piperazines",
+          "Schizophrenia",
+          "Thiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15963000/"
+      },
+      {
+        "pmid": "35354374",
+        "title": "Olanzapine-samidorphan combination tablets for the treatment of schizophrenia and bipolar I disorder - what is it, and will it be used?",
+        "abstract": "Although olanzapine remains one of the most efficacious antipsychotic medications for the treatment of schizophrenia, there are significant tolerability concerns related to its weight and metabolic profile. Olanzapine-samidorphan combination tablets (OLZ/SAM), branded as Lybalvi, is a newly FDA approved formulation aimed at attenuating antipsychotic induced weight gain via modulation of the endogenous opioid system with samidorphan, while retaining the robust antipsychotic efficacy of olanzapine.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2022",
+        "authors": [
+          "Faden Justin",
+          "Serdenes Ryan",
+          "Citrome Leslie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Humans",
+          "Naltrexone",
+          "Narcotic Antagonists",
+          "Olanzapine",
+          "Schizophrenia",
+          "Tablets",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35354374/"
+      },
+      {
+        "pmid": "22967188",
+        "title": "Comparing tolerability of olanzapine in schizophrenia and affective disorders: a meta-analysis.",
+        "abstract": "Olanzapine is prescribed for a number of psychiatric disorders, including schizophrenia, bipolar mania, and unipolar and bipolar depression. Olanzapine treatment is associated with tolerability issues such as metabolic adverse effects (e.g. weight gain, increase in blood glucose, triglycerides and total cholesterol levels), extrapyramidal symptoms [EPS] (e.g. parkinsonism, akathisia, tardive dyskinesia) and sedative adverse effects. Metabolic issues lead to some long-term consequences, which include cardiovascular diseases (CVD) and type 2 diabetes mellitus, and these complications cause high rates of mortality and morbidity among patients with severe mental illnesses. The expanded indications of olanzapine in psychiatry suggest a need to investigate whether there is a difference in the incidence and severity of adverse effects related to category diagnosis. Are the adverse effects expressed differently according to phenotype? Unfortunately, there are no reported studies that investiga",
+        "journal": "Drug safety",
+        "year": "2012",
+        "authors": [
+          "Moteshafi Hoda",
+          "Zhornitsky Simon",
+          "Brunelle Sarah",
+          "Stip Emmanuel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Female",
+          "Humans",
+          "Male",
+          "Mood Disorders",
+          "Olanzapine",
+          "Randomized Controlled Trials as Topic",
+          "Schizophrenia",
+          "Sex Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22967188/"
+      },
+      {
+        "pmid": "33046806",
+        "title": "Effects of olanzapine treatment on lipid profiles in patients with schizophrenia: a systematic review and meta-analysis.",
+        "abstract": "Olanzapine-induced dyslipidemia significantly increases the risk of cardiovascular disease in patients with schizophrenia. However, the clinical features of olanzapine-induced dyslipidemia remain hitherto unclear because of inconsistencies in the literature. This meta-analysis thus investigated the effects of olanzapine treatment on lipid profiles among patients with schizophrenia. Studies of the effects of olanzapine on lipids were obtained through the PubMed, Web of science, The Cochrane Library and Embase databases (up to January 1, 2020). Twenty-one studies and 1790 schizophrenia patients who received olanzapine therapy were included in our analysis. An olanzapine-induced increase was observed in plasma triglyceride (TG), total cholesterol (TC), and low-density lipoprotein cholesterol (LDL-C) levels in patients with schizophrenia (all P < 0.05). Moreover, the time points analyzed included the following: baseline, 4 weeks, 6 weeks, 8 weeks, 12 weeks, and ≥ 24 weeks (data of ≥ 24 wee",
+        "journal": "Scientific reports",
+        "year": "2020",
+        "authors": [
+          "Li Rong",
+          "Zhang Yiqi",
+          "Zhu Wenqiang",
+          "Ding Chen",
+          "Dai Wenjie"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Humans",
+          "Lipid Metabolism",
+          "Lipids",
+          "Olanzapine",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33046806/"
+      },
+      {
+        "pmid": "25152019",
+        "title": "HTR2C polymorphisms, olanzapine-induced weight gain and antipsychotic-induced metabolic syndrome in schizophrenia patients: a meta-analysis.",
+        "abstract": "To conduct meta-analyses of all published association studies on the HTR2C -759C/T (rs3813829) polymorphism and olanzapine-induced weight gain in schizophrenia patients and on the HTR2C -759C/T, -697G/C (rs518147) and rs1414334:C> G polymorphisms and olanzapine/clozapine/risperidone-induced metabolic syndrome in schizophrenia patients.",
+        "journal": "International journal of psychiatry in clinical practice",
+        "year": "2014",
+        "authors": [
+          "Ma Xiaojie",
+          "Maimaitirexiati Tuerxun",
+          "Zhang Rong",
+          "Gui Xueping",
+          "Zhang Wenhui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Alleles",
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Clozapine",
+          "Female",
+          "Genetic Association Studies",
+          "Humans",
+          "Male",
+          "Metabolic Syndrome",
+          "Olanzapine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25152019/"
+      },
+      {
+        "pmid": "31428814",
+        "title": "Insulin resistance induced by olanzapine and other second-generation antipsychotics in Chinese patients with schizophrenia: a comparative review and meta-analysis.",
+        "abstract": "This systematic review aimed to determine whether olanzapine is more likely than other second-generation antipsychotics (SGAs) to induce insulin resistance in patients with schizophrenia in China.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "2019",
+        "authors": [
+          "Yu Liangyu",
+          "Wu Sanlan",
+          "Deng Yahui",
+          "Lei Juan",
+          "Yu Lixiu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "China",
+          "Humans",
+          "Insulin Resistance",
+          "Metabolic Syndrome",
+          "Olanzapine",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31428814/"
+      },
+      {
+        "pmid": "15846619",
+        "title": "Olanzapine for schizophrenia.",
+        "abstract": "Olanzapine is an atypical antipsychotic reported to be effective without producing disabling extrapyramidal adverse effects associated with older, typical antipsychotic drugs.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2005",
+        "authors": [
+          "Duggan L",
+          "Fenton M",
+          "Rathbone J",
+          "Dardennes R",
+          "El-Dosoky A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Humans",
+          "Olanzapine",
+          "Psychotic Disorders",
+          "Randomized Controlled Trials as Topic",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15846619/"
+      },
+      {
+        "pmid": "11048906",
+        "title": "The effects of olanzapine, risperidone, and haloperidol on plasma prolactin levels in patients with schizophrenia.",
+        "abstract": "There is relatively little comparative information on elevations in plasma prolactin level (PRL) with conventional versus novel antipsychotic agents.",
+        "journal": "Clinical therapeutics",
+        "year": "2000",
+        "authors": [
+          "David S R",
+          "Taylor C C",
+          "Kinon B J",
+          "Breier A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Cross-Over Studies",
+          "Dose-Response Relationship, Drug",
+          "Haloperidol",
+          "Humans",
+          "Olanzapine",
+          "Pirenzepine",
+          "Prolactin",
+          "Risperidone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11048906/"
+      },
+      {
+        "pmid": "10796640",
+        "title": "Olanzapine for schizophrenia.",
+        "abstract": "Olanzapine is an atypical antipsychotic that is reported to be effective without producing the disabling extrapyramidal side effects associated with the older, typical antipsychotic drugs.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2000",
+        "authors": [
+          "Duggan L",
+          "Fenton M",
+          "Dardennes R M",
+          "El-Dosoky A",
+          "Indran S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Benzodiazepines",
+          "Humans",
+          "Olanzapine",
+          "Pirenzepine",
+          "Psychotic Disorders",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10796640/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:06:15.913181",
+  "success": true,
+  "error_message": null
+}

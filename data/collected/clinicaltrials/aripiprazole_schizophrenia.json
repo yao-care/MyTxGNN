@@ -1,0 +1,919 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Aripiprazole",
+    "disease": "schizophrenia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03304457",
+      "title": "Effect of Lurasidone Vs Olanzapine on Neurotrophic Biomarkers and Cardiometabolic Parameters in First Episode Untreated Schizophrenia: A Randomized, Open Label, Active Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-25",
+      "completion_date": "2018-03-25",
+      "country": "India",
+      "enrollment": 100,
+      "brief_summary": "Schizophrenia (SCZ) is a chronic, severe and disabling mental disorder with unclear etiology and pathophysiology concerned with neuro-developmental,neurodegenerative abnormalities and cognitive impairmentslinked to behavioural changes.According to neurotrophic hypothesis, the changes result due to the abnormal regulation of neurotrophic factor, especially the decreased serum brain derived neurotrophic factor (BDNF) validated by several meta-analyses. However, the regulation of nerve growth facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All treatment naive patients clinically diagnosed first episode of SCZ according to ICD-10\n* Patients of either sex with age range 18-45 years\n* Treatment naïve patients\n\nExclusion Criteria:\n\n* Other Psychotic spectrum disorders (F21- F29)\n* Highly agitated/ violent/ suicidal ",
+      "endpoints": [
+        "Serum brain derived neurotrophic factor (BDNF)"
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT03304457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03090503",
+      "title": "Open Flexible-dose Randomized Study of the Effectiveness of Second Generation Antipsychotics in First Episode Psychosis Patients: A 3-year Follow-up",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-06",
+      "completion_date": "2021-06",
+      "country": "Spain",
+      "enrollment": 200,
+      "brief_summary": "This study compares the efficacy and effectiveness of two of the second-generation antipsychotics (SGAs) most used in our society in the treatment of schizophrenia (Aripiprazole and Risperidone) and the investigators do within an assistance program of early-stage psychosis individuals of the Community of Cantabria, clinical reference for the treatment of this disease in the Spanish Autonomous Community. Patients are included in a prospective naturalistic study, open flexible-doses and randomized",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Experiencing their first episode of psychosis (First Episode of Psychosis is defined as that psychopathological state in which for the first time and regardless of its duration, the patient has enough severe psychotic symptoms to allow a diagnosis of psychosis, having received",
+      "endpoints": [
+        "Effectiveness of Aripiprazole and Risperidone at long term as measured by Percentage of discontinuation"
+      ],
+      "sponsor": "Fundación Marques de Valdecilla",
+      "url": "https://clinicaltrials.gov/study/NCT03090503"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02137616",
+      "title": "Effectiveness of Antipsychotic Drugs to Treat Psychosis Syndrome: an Open Label, Controlled Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2014-12",
+      "country": "China",
+      "enrollment": 300,
+      "brief_summary": "This study assess the safety and effects of atypical antipsychotics in subjects with psychosis syndrome and psychosis risk syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* were help-seeking young individuals in outpatients service\n* aged 16-30 years\n* fitted one of the following Criteria: Psychosis-risk Syndromes (COPS-SIPS) or Psychotic Syndrome (POPS-SIPS) or DSM-IV diagnosis of schizophreniform disorder\n\nExclusion Criteria:\n\n* a previous diag",
+      "endpoints": [
+        "Changes of PANSS total scores from baseline to 18 months"
+      ],
+      "sponsor": "Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT02137616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00044655",
+      "title": "Effectiveness of Switching Antipsychotic Medications",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-07",
+      "completion_date": "2009-03",
+      "country": "N/A",
+      "enrollment": 219,
+      "brief_summary": "This study will evaluate the effectiveness of switching medications in decreasing schizophrenia symptoms in individuals who are currently taking an antipsychotic medication for the treatment of schizophrenia.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* SCID diagnosis of schizophrenia or schizoaffective disorder\n* Partially remitted outpatients, defined as persons who have received clear symptomatic benefit from antipsychotic medication but remain symptomatic (due to lack of efficacy or inability to tolerate an efficacious do",
+      "endpoints": [
+        "Number Who Discontinued Medication Within First 6 Study Months"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT00044655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01813643",
+      "title": "A Multiple-Center, Randomized, Double-Blind Study of Comparison of Risperidone and Aripiprazole for Treatment",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2012-07",
+      "completion_date": "2014-08",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "Methamphetamine-associated psychosis (MAP) has been considered a pharmacological or environmental pathogen model of schizophrenia (SCZ) due in part to similarities in clinical presentation (i.e. paranoia, hallucinations, disorganized speech, and negative symptoms), response to treatment (e.g.neuroleptics),and pathologic mechanisms (e.g. central dopaminergic neurotransmission) of both conditions. Both risperidone and aripiprazole are second generation antipsychotics，but have different pharmacolog",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients,Diagnostic and Statistical Manual of Mental Disorders 4thed. (DSM-IV) criteria for Methamphetamine-Associated Psychosis.\n2. Must sign a Information consent form.\n3. Required to provide detailed address and phone number\n\nExclusion Criteria:\n\n1. Serious organic disease",
+      "endpoints": [
+        "The severity of psychosis"
+      ],
+      "sponsor": "Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT01813643"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01909466",
+      "title": "An Open-label, Multiple Dose, Safety and Tolerability Study of Aripiprazole IM Depot Administered in the Deltoid Muscle in Adult Subjects With Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2013-07",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 141,
+      "brief_summary": "To determine the safety and tolerability of multiple-dose administrations of aripiprazole intramuscular (IM) depot in the deltoid muscle in adult subjects with schizophrenia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female individuals between 18 and 64 years, inclusive, at the time of informed consent.\n* Prior history of tolerating aripiprazole per investigator's judgement.\n\nExclusion Criteria:\n\n* Subjects who have met DSMV-IV-TR criteria for substance dependence within the past ",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs).",
+        "Mean Visual Analog Scale (VAS) Score for Rating of Pain at the Injection Site.",
+        "Mean Change From Baseline in Suicidal Ideation Intensity Total Score Via Columbia-suicide Severity Rating Scale (C-SSRS)."
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01909466"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00395915",
+      "title": "Randomized Evaluation of the Effectiveness of Clozapine and Aripiprazole Versus Clozapine and Haloperidol in the Treatment of Schizophrenia. An Independent, Pragmatic, Multicentre, Parallel-Group, Superiority Trial.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2006-09",
+      "completion_date": "2009-12",
+      "country": "Italy",
+      "enrollment": 106,
+      "brief_summary": "The principal clinical question to be answered by CHAT (Clozapine Haloperidol Aripiprazole Trial) is the relative efficacy and tolerability of combination treatment with clozapine plus aripiprazole compared to combination treatment with clozapine plus haloperidol in patients with an incomplete response to treatment with clozapine over an appropriate period of time.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Current treatment with clozapine for the primary indication of schizophrenia (clinical diagnosis, guided by DSM-IV criteria).\n2. Treatment with clozapine for at least six months at a stable dose of 400 mg or more per day, unless the size of the dose was limited by side-effect",
+      "endpoints": [
+        "Withdrawal from allocated treatment within 3 months."
+      ],
+      "sponsor": "Universita di Verona",
+      "url": "https://clinicaltrials.gov/study/NCT00395915"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03237052",
+      "title": "A Randomized Controlled Multi-center Clinical Study Focusing on Validating and Optimizing Model of Antipsychotics Selection in China",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-01",
+      "completion_date": "2020-12",
+      "country": "China",
+      "enrollment": 2000,
+      "brief_summary": "This multi-centre study will evaluate the clinical efficacy of 3 atypical antipsychotics treatment in Chinese Patients with Schizophrenia by comparing model-decision with real-world psychiatrist-decision. The three atypical antipsychotics are olanzapine (5-20 milligram per day), risperidone (2-6 milligram per day) and aripiprazole (5-30 milligram per day). The main purpose of this study is to explore the potential difference between modal-aided-decision with clinician-decision in order to valida",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* An in-patient or out-patient (male or female) and aged ≥18 years\n* A diagnosis of schizophrenia, DSM-5 (Diagnostic and Statistical Manual Diploma in Social Medicine-5)\n* Subjects must have the ability to effectively communicate with investigator, complete study related documen",
+      "endpoints": [
+        "Change of PSP from Baseline"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT03237052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02582736",
+      "title": "Atypical Antipsychotics and Hyperglycemic Emergencies: Multicentre, Retrospective Cohort Study of Administrative Data",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2012-12",
+      "country": "Canada",
+      "enrollment": 725489,
+      "brief_summary": "The purpose of this study is to determine whether the use of atypical antipsychotic medication increases the risk of hospitalization for a hyperglycemic emergency.\n\nThe investigators will carry out separate population-based cohort studies using administrative health databases in eight jurisdictions in Canada and the UK. Cohort entry will be defined by the initiation of a new antipsychotic medication. Follow-up will continue until hospitalization for a hyperglycemic emergency or the end of 365 da",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a with a first-time prescription for an antipsychotic medication\n* Patients at least 18 years of age at cohort entry (except Alberta, Ontario, and Nova Scotia, where patients will be a least 66 years of age)\n* Patients with at least 1 year of history in the datab",
+      "endpoints": [
+        "Hospitalization for a hyperglycemic emergency"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02582736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00712270",
+      "title": "A Randomized Double-blind Trial of Aripiprazole and Risperidone in Schizophrenia: An Evaluation of Neuroimaging, Neuropsychological, and Pharmacogenomic Markers of Differential Treatment Response",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2005-04",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "This study is being conducted to find a way to predict how individual schizophrenic patients will respond if they are treated with different types of antipsychotic drugs. This could help doctors prescribe the medication that will work best for each individual.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will meet DSM-IV diagnostic criteria for schizophreniform disorder, schizophrenia, schizoaffective disorder or (non-affective) psychotic disorder, NOS. Subjects with schizophreniform disorder or psychotic disorder, NOS, will be diagnostically reevaluated (recontacted",
+      "endpoints": [
+        "Pre and Post Treatment PET and MRI Imaging",
+        "QTc Measurement"
+      ],
+      "sponsor": "Kettering Health Network",
+      "url": "https://clinicaltrials.gov/study/NCT00712270"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00237874",
+      "title": "Aripiprazole Treatment of Prodromal Patients",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2007-02",
+      "country": "United States",
+      "enrollment": 15,
+      "brief_summary": "We hypothesize that symptoms will improve in patients who meet diagnostic criteria for the schizophrenia prodrome when they are prescribed aripiprazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 13 to 40 meet criteria for the prodrome for schizophrenia\n\nExclusion Criteria:\n\n* history of psychosis",
+      "endpoints": [
+        "Total Score of the Scale Of Prodromal Symptoms"
+      ],
+      "sponsor": "Yale University",
+      "url": "https://clinicaltrials.gov/study/NCT00237874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482554",
+      "title": "Lumateperone for the Improvement of Apathy in Patients With Psychotic Symptoms.",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study is looking to determine if Lumateperone improves motivation in patients with schizophrenia or schizoaffective disorders who show high levels of apathy as judged by AES-C-Apathy (Apathy Evaluation Scale - Clinician - Apathy) assessment and to examine a possible correlation between improvement in apathy scores and changes in elements of the PANSS (Positive and Negative Syndrome Scale) due to treatment with Lumateperone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects between the ages of 18-65 that have been diagnosed with Schizophrenia, Schizoaffective Disorder or Schizophrenia Spectrum and Other Psychotic Disorders.\n* A BPRS score \\> 35 at the screening visit.\n* An AES-C score \\> 32 at the screening visit.\n* If the",
+      "endpoints": [
+        "Change in AES-C Score"
+      ],
+      "sponsor": "Louisiana State University Health Sciences Center Shreveport",
+      "url": "https://clinicaltrials.gov/study/NCT06482554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01104766",
+      "title": "A Double-Blind, Placebo and Active-Controlled Evaluation of the Safety and Efficacy of Cariprazine in the Acute Exacerbation of Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-04-23",
+      "completion_date": "2011-12-20",
+      "country": "Ukraine, Romania, Russia, United States",
+      "enrollment": 617,
+      "brief_summary": "The objective of this study is to evaluate the efficacy, safety, and tolerability of cariprazine relative to placebo for the treatment of acute exacerbation of schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who have provided informed consent prior to any study specific procedures\n* Patients currently meeting the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) criteria for schizophrenia (paranoid type, disorganized type, ca",
+      "endpoints": [
+        "Measurement of Schizophrenia Symptoms: Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score."
+      ],
+      "sponsor": "Forest Laboratories",
+      "url": "https://clinicaltrials.gov/study/NCT01104766"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01795547",
+      "title": "A 28-week, Randomised, Open-label Study Evaluating the Effectiveness of Aripiprazole Once-monthly Versus Paliperidone Palmitate in Adult Patients With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-02",
+      "completion_date": "2014-09",
+      "country": "United States",
+      "enrollment": 295,
+      "brief_summary": "To assess the effectiveness of aripiprazole once-monthly in the maintenance treatment of patients with a diagnosis of schizophrenia as defined by the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, Text Revision (DSM-IV-TR®), in a naturalistic care setting by comparing it to an existing long-acting antipsychotic, paliperidone palmitate.",
+      "eligibility_criteria": "Main Inclusion Criteria:\n\n* The patient has schizophrenia, diagnosed according to DSM-IV-TR®.\n* The patient has a CGI-S score from mildly ill to markedly ill at the Screening and Baseline Visit(s).\n* The patient is in need of a change in the current antipsychotic treatment and in the judgement of th",
+      "endpoints": [
+        "Change From Baseline to Week 28 in Quality of Life Scale (QLS) Total Score"
+      ],
+      "sponsor": "H. Lundbeck A/S",
+      "url": "https://clinicaltrials.gov/study/NCT01795547"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00705783",
+      "title": "A 52-week, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of an Intramuscular Depot Formulation of Aripiprazole as Maintenance Treatment in Patients With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2011-02",
+      "country": "Bulgaria, Philippines, Mexico, Taiwan, India, Russia, Serbia, Slovakia, Malaysia, Romania, Argentina, United States",
+      "enrollment": 843,
+      "brief_summary": "The purpose of the trial was to evaluate the efficacy, safety, and tolerability of an intramuscular depot formulation of aripiprazole as maintenance treatment in patients with schizophrenia.\n\nThe trial was designed into 4 treatment phases. Phase 1 was designed to allow for a patient to be converted from their current antipsychotic treatment to oral non-generic aripiprazole monotherapy (oral conversion phase from 4 to 6 weeks). During Phase 2, the patient was stabilized on oral non-generic aripip",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who are able to provide written informed consent and/or consent obtained from a legally acceptable representative (as required by the Institutional Review Board/Institutional Ethics Committee \\[IRB/IEC\\]), prior to the initiation of any protocol-required procedures.\n*",
+      "endpoints": [
+        "Time to Exacerbation of Psychotic Symptoms/Impending Relapse"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00705783"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00276874",
+      "title": "Preventing Cocaine Relapse: Developing Pharmacotherapies",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2012-01",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "Despite the many behavioral and cognitive treatment therapies that exist for cocaine addiction, individuals who complete cocaine abuse treatment are still at high risk for relapsing. Aripiprazole, a medication that is currently used to treat schizophrenia, may be useful in preventing drug relapse in individuals addicted to cocaine. This three-part study will evaluate the interaction between aripiprazole and cocaine. It will also determine the safety and effectiveness of aripiprazole in preventin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV diagnostic criteria for cocaine dependence\n* Current cocaine use at study entry, as determined by a urine screen\n* Body Mass Index of less than 30\n* ECG results within normal limits\n* If female, willing to use contraception throughout the study\n\nExclusion Criteria",
+      "endpoints": [
+        "Behavioral effects of cocaine"
+      ],
+      "sponsor": "University of Kentucky",
+      "url": "https://clinicaltrials.gov/study/NCT00276874"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06128408",
+      "title": "The Characteristics of Treatment Resistant Schizophrenia From the Illness Onset",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-01",
+      "completion_date": "2024-10-13",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "Previous long-term follow-up studies on patients with first-episode schizophrenia have shown that up to 30% of patients who have never received antipsychotic medication treatment do not experience symptom relief or have poor treatment response after standard antipsychotic medication treatment, becoming treatment-resistant schizophrenia (TRS). Moreover, in long-term follow-up, patients with treatment-resistant schizophrenia from the illness onset (TRO) account for 80% of all TRS patients. Prelimi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Having a diagnosis of schizophrenics based on the patient edition of the Structured Clinical Interview for Axis I Diagnostic and Statistical Manual-IV Axis I Disorders (SCID).\n2. Age 18-45 years.\n3. First episode of schizophrenia.\n4. Course of disease ≤ 3 years.\n5. Previous c",
+      "endpoints": [
+        "treatment-resistant schizophrenia"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT06128408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05766540",
+      "title": "Effect of add-on Aripiprazole on Cardiometabolic Profile in Treatment Resistant Schizophrenia With Metabolic Syndrome: A Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2023-08-20",
+      "completion_date": "2023-12-31",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "The goal of this clinical trial participant population is to evaluate the effect of add on Aripiprazole in reducing the metabolic parameters in patients of TRS on Clozapine with metabolic syndrome. The cardiovascular risk would be measured by calculating the change in QRISK3(QRISK3 is an algorithm tool used to calculate cardiovascular risk. The software calculates the risk score using various parameters. It is a name not an abbreviation.) score and the metabolic parameters by change in Low densi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* • Patients clinically diagnosed with TRS (TRRIP consensus criteria) on Clozapine for more than 6 months.\n\n  * Patients with metabolic syndrome (NCEP ATP III Definition).\n  * Patients aged above 25 years of either sex.\n  * Patients/LAR giving voluntary written consent for parti",
+      "endpoints": [
+        "Change in QRISK3 score (QRISK3 is an algorythm based software which calculates the score using various parameters. It is not an abbreviation.)."
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT05766540"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01646827",
+      "title": "An Open-label, Randomized, Parallel Arm, Bioavailability Trial of Aripiprazole IM Depot Administered in the Deltoid or Gluteal Muscle in Adult Subjects With Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2013-04",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "The purpose of this study is to determine whether aripiprazole injection into the shoulder or the buttocks produces similar effects in the body",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of schizophrenia\n* Stabilized on oral antipsychotic medication\n* Good physical health\n* BMI 18 to 35 kg/m2\n* Prior history of tolerating aripiprazole\n\nExclusion Criteria:\n\n* Sexually active males who will not commit to utilizing 2 of the approved birth control method",
+      "endpoints": [
+        "Maximum Observed Plasma Concentration (Cmax) of Aripriprazole",
+        "Area Under the Concentration-Time Curve Infinity (AUC Infinity); Area Under the Concentration-Time Curve 28 (AUC 28), and Area Under the Concentration-Time Curve t (AUC t): Aripiprazole",
+        "Maximum Observed Plasma Concentration (Cmax) of Dehydro-Aripiprazole"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01646827"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02431702",
+      "title": "A Prospective, Matched-Control, Randomized, Open-Label, Flexible-Dose, Study in Subjects With Recent-Onset Schizophrenia or Schizophreniform Disorder to Compare Disease Progression and Disease Modification Following Treatment With Paliperidone Palmitate Long-Acting Injection or Oral Antipsychotics",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-07-08",
+      "completion_date": "2019-11-12",
+      "country": "Mexico, Brazil, United States",
+      "enrollment": 337,
+      "brief_summary": "The purpose of the study is to compare effectiveness of paliperidone palmitate (PP: paliperidone palmitate once-monthly and 3-month injections) versus oral antipsychotic (OAP \\[that is oral paliperidone extended release {ER}, oral risperidone, or another OAP\\]) in delaying time to treatment failure. The study will also evaluate changes in cognition, functioning, brain intracortical myelin (ICM) volume following treatment with PP compared with OAP in participants with recent-onset schizophrenia o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must have a current diagnosis of schizophrenia (295.90) or schizophreniform disorder (295.40) as defined by Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) and confirmed by the Structured Clinical Interview for DSM-5 Disorders (SCID) with",
+      "endpoints": [
+        "Part-2 (Disease Progression): Time to First Treatment Failure",
+        "Part 3 (Extended Disease Progression [EDP]): Change From Baseline in Cognition as Measured by the MATRICS Consensus Cognitive Battery (MCCB) Composite Score",
+        "Part 3 (Disease Modification): Change From Baseline in Cognition as Measured by the MATRICS Consensus Cognitive Battery (MCCB) Composite Score"
+      ],
+      "sponsor": "Janssen Scientific Affairs, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02431702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00288353",
+      "title": "Estimating and Reducing the Cardiovascular Risk of Patients With Schizophrenia Drugs From Lipid Measures and Ischemic Electrocardiographic Changes",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2006-01",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The primary goal of this study is to examine the triglyceride/high-density lipoprotein (TG/HDL) ratio and the ischemic EKG changes in patients with schizophrenia, schizoaffective disorder or bipolar disorder.",
+      "eligibility_criteria": "Inclusion criteria\n\nTo be eligible, a patient must :\n\n* Be male or female, between 18-65.\n* Have a diagnosis of schizophrenia, schizoaffective disorder or bipolar disorder according to Diagnostic and Statistical Manual (DSM-IV) criteria\n* Have TG/HDL ratios (\\>\\>3.5) and ischemic EKG changes with an",
+      "endpoints": [
+        "Triglyceride/High-density Lipoprotein (TG/HDL) Ratio"
+      ],
+      "sponsor": "Northwestern University",
+      "url": "https://clinicaltrials.gov/study/NCT00288353"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01424449",
+      "title": "A Positron Emission Tomography Study in Healthy Male Subjects to Examine the Test-retest Reliability of the D2/3 Agonist Radiotracer [11C]PHNO",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2010-07",
+      "country": "United Kingdom",
+      "enrollment": 7,
+      "brief_summary": "This will be an open label, non-randomised \\[11C\\]PHNO PET study using healthy male volunteers. Each volunteer will undergo 4 \\[11C\\]PHNO PET scans to allow for further characterisation of this radioligand and examine the effects of \\[11C\\]PHNO mass carry-over and displaceable binding in the brain. This study aims to obtain data from 6 evaluable subjects.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy as determined by a responsible physician\n2. Male subjects between 25 and 55 years of age.\n3. Male subjects must agree to use one of the contraception methods listed\n4. Capable of giving written informed consent\n\nExclusion Criteria:\n\n1. The subject has a positive pre-s",
+      "endpoints": [
+        "volume of distribution"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01424449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04789915",
+      "title": "AMEND - Add-on MEmaNtine to Dopamine Modulation to Improve Negative Symptoms at First Psychosis",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2021-05-26",
+      "completion_date": "2026-12-31",
+      "country": "Denmark",
+      "enrollment": 46,
+      "brief_summary": "Antipsychotics affects the brain's dopamine system, and the drugs reduce delusions, hallucinations, and disorganized thinking, which are cardinal symptoms of psychotic disorders. However, negative symptoms e.g. anhedonia, avolition, and social withdrawal, as well as cognitive deficits, are not sufficiently treated.\n\nMemantine is used to treat Alzheimer's disease and affects the brain's glutamate system. AMEND is a 12-week, double-blind, placebo-controlled, randomized clinical trial (RCT) testing",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients:\n\n  * Antipsychotic-free(as defined under Exclusion Criteria below), first episode psychosis\n  * Fulfilling the diagnostic criteria of schizophrenia, persistent delusional disorder, acute and transient psychotic disorders, schizoaffective disorder, other non-organic p",
+      "endpoints": [
+        "Negative Symptom change, PANSS negative subscore",
+        "Negative Symptom change, Brief Negative Symptom Scale (BNSS)"
+      ],
+      "sponsor": "University of Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT04789915"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01161277",
+      "title": "Effects of Aripiprazole and Haloperidol on Mesolimbic System Functioning: A Pharmacological fMRI Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-08",
+      "completion_date": "2011-06",
+      "country": "Norway",
+      "enrollment": 54,
+      "brief_summary": "The main objective is to investigate if the brain activation signature of a typical antipsychotic agent is dissociable from a newer drug with a pharmacological profile that differs from both typical and atypical antipsychotics since it is a potent partial D2 agonist. The method used to study this will be functional magnetic resonance imaging (fMRI).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female subject, 18 to 50 years of age\n* Capacity to give written informed consent\n* Psychiatrically healthy as determined by the MINI interview\n\nExclusion Criteria:\n\n* History of head trauma resulting in loss of consciousness \\>30 minutes that required medical attentio",
+      "endpoints": [
+        "Differences in blood oxygen level dependent response after an acute dose of either aripiprazole or haloperidol in healthy controls"
+      ],
+      "sponsor": "Oslo University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01161277"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01057849",
+      "title": "Sequenced Atypical Antipsychotics Therapy With Intensive or Basic Psychosocial Intervention for First-episode Schizophrenia: An Effectiveness Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2008-09",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 600,
+      "brief_summary": "Schizophrenia is not a curable but a treatable disease by antipsychotics. Kinds of atypical antipsychotics are widely used since 1990s' in China. Although their efficacy for acute phase are all better than typicals, individulized regimen of them for first-episode schizophrenia and their effectiveness in real naturalistic clinical settings still remain unclear. And those patients also need more comprehensive intervention such as psychosocial programs to improve their function. This protocol is to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* schizophrenic patients diagnosed with DSM-IV criteria by SCID-I.\n* age between 16-45 years old\n* with disease course less than 3 years and during their first episode\n* without receiving systematic antipsychotic treatment less than 1 month\n\nExclusion Criteria:\n\n* organic diseas",
+      "endpoints": [
+        "the time the patients remain stable"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT01057849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01739127",
+      "title": "A Longitudinal Comparison of Aripiprazole vs. Higher Metabolic Risk Antipsychotic Drugs on Adiposity Using MRI",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2016-02",
+      "country": "Canada",
+      "enrollment": 83,
+      "brief_summary": "The purpose of this study is to compare abdominal weight gain and fat distribution in people taking aripiprazole versus risperidone or quetiapine, to people not taking any of these antipsychotic medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged 12+ years for healthy participants or participants with bipolar disorder; or aged 15+ years for participants with non-affective psychosis.\n* Recent admission to hospital for psychiatric services related to first-episode psychosis or first-episode bipolar d",
+      "endpoints": [
+        "Abdominal distribution of visceral fat versus subcutaneous fat"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01739127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00556140",
+      "title": "The Combination of Aripiprazole and Selective Serotonin Reuptake Inhibitor (SSRI) Antidepressants in the Acute Treatment of Psychotic Major Depression: Efficacy and Tolerability",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2008-01",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "The purpose of the study is to assess the safety and effectiveness of the combination of aripiprazole (Abilify) and selective serotonin reuptake inhibitors (SSRIs) in subjects with psychotic major depression.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women aged 18-80 years, inclusive.\n2. Drug-free outpatients or inpatients meeting DSM-IV criteria for major depression with psychotic features.\n3. Inpatients who undergo a 5-7 day washout period of their medication while concurrently beginning one of the approved SSRI",
+      "endpoints": [
+        "Depression and Psychosis Response Rate"
+      ],
+      "sponsor": "Massachusetts General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00556140"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00095810",
+      "title": "An Open-Label Study of Aripiprazole to Evaluate the Safety and Tolerability in Patients With Psychosis Associated With Parkinson's Disease",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-07",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this clinical research study is to assess the safety and tolerability of aripiprazole in patients with psychosis associated with Parkinson's disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Primary diagnosis of idiopathic Parkinson's disease.\n* Psychosis related to Parkinson's disease.\n\nExclusion Criteria:\n\n* Psychosis present prior to diagnosis of Parkinson's disease.",
+      "endpoints": [
+        "Tolerability"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00095810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03442101",
+      "title": "Trajectories of Treatment Response as Window Into the Heterogeneity of Psychosis: a Longitudinal Multimodal Imaging Study in Medication-naïve First Episode Psychosis Patients",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-04-01",
+      "completion_date": "2026-12-31",
+      "country": "United States",
+      "enrollment": 156,
+      "brief_summary": "Psychosis is a heterogeneous disorder and present treatment only works for a limited number of patients. In order to identify new therapeutic targets, this study will longitudinally characterize the underlying pathologies in those with poor treatment response using complimentary brain imaging modalities.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of first episode psychosis\n* Never been treated with an antipsychotic medication\n* Between the age of 17 and 35\n\nExclusion Criteria:\n\n* Inability to sign informed consent assessed by the Evaluation to sign - - Consent form\n* Poorly controlled acute or chronic medic",
+      "endpoints": [
+        "Measures of brain structure",
+        "Measures of brain function",
+        "Measures of brain biochemistry"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03442101"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01981811",
+      "title": "A Single-arm Study to Evaluate Adherence to Treatment With, and Safety and Tolerability of, the Medical Information Device #1 (MIND1) System in Subjects With Schizophrenia or Bipolar I Disorder Who Are Currently Treated With Oral Aripiprazole",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2014-03",
+      "completion_date": "2014-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate adherence to treatment with, and safety and tolerability of, the medical information device #1 (MIND1) system in subjects with Schizophrenia or Bipolar I Disorder who are currently treated with oral aripiprazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females 18 to 65 years of age, inclusive, at time of informed consent\n* Schizophrenia: Patients with two or more exacerbations of symptoms in past year leading to an intervention, per investigator's judgment (ie, inpatient psychiatric hospitalization, psychiatric ER ",
+      "endpoints": [
+        "Medication adherence, as defined by the number of IEM detections reported by the MIND1 System divided by the medication doses prescribed."
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01981811"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03198078",
+      "title": "A Multicenter, Randomized, Double-blind, Placebo- and Active-controlled Trial to Evaluate the Efficacy of Brexpiprazole Monotherapy for the Treatment in Adolescents (13-17 Years Old) With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-30",
+      "completion_date": "2023-04-03",
+      "country": "United States",
+      "enrollment": 316,
+      "brief_summary": "To determine the safety \\& efficacy of brexpiprazole monotherapy in the treatment of adolescents with schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male \\& female subjects aged 13-17 years, inclusive at time of consent and at baseline visit, with a primary diagnosis of schizophrenia as defined by DSM-5 criteria and confirmed by K-SADS-PL and a history of the illness for at least 6 months prior to screening.\n* PANSS score ",
+      "endpoints": [
+        "Change From Baseline to Week 6 in Positive and Negative Syndrome Scale (PANSS) Total Score"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03198078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00634348",
+      "title": "A Four-Week Double Blind Multicenter Study Comparing The Efficacy And Safety Of Ziprasidone To Aripiprazole In Subjects With Schizophrenia Or Schizoaffective Disorder Needing Inpatient Care",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2005-03",
+      "country": "United States",
+      "enrollment": 256,
+      "brief_summary": "The purpose of this study is to compare the efficacy and safety of ziprasidone and aripiprazole in hospitalized patients with schizophrenia or schizoaffective disorder",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hospitalized patients with schizophrenia or schizoaffective disorder\n* At least a 6th grade reading level\n* Males or females, between 18 and 70 years of age at the time of consent\n* Subjects must have been hospitalized for no more than 14 consecutive days immediately prior to ",
+      "endpoints": [
+        "Change from baseline to endpoint in Clinical Global Impressions-Severity (CGI-S) scale scores.",
+        "Change from baseline to endpoint in Brief Psychiatric Rating Scale derived (BPRSd) total scores."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00634348"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00222833",
+      "title": "The Effect of Switching to Aripiprazole on Indices of Cardiovascular Health in Overweight and Obese Patients With Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2004-10",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "This is a 2-year study proposing to examine the effects of aripiprazole on heart health factors such as serum lipids, serum leptin, fasting blood sugar, body weight and blood pressure. This study also examines the safety of switching to aripiprazole with respect to changes in the clinical state, preexisting or emergent side-effects, how the brain processes information and changes in social functioning and quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects ages 18-65 years\n* Outpatients and stable partial hospital patients\n* Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) diagnosis of schizophrenia or schizoaffective disorder\n* No psychiatric hospitalizati",
+      "endpoints": [
+        "To examine heart health factors: serum lipids, serum leptin, fasting blood glucose, body weight, and blood pressure"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT00222833"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00347425",
+      "title": "A Multicenter, Open-Label, Parallel-Group, Randomized, Flexible Dose Study To Evaluate the Safety and Tolerability of Switching From Existing Atypical Antipsychotics to Bifeprunox in Subjects With Schizophrenia or Schizoaffective Disorder",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-12",
+      "completion_date": "2008-02",
+      "country": "France, Czechia, Hungary, Lithuania, Latvia, Canada, Argentina, Estonia, United States",
+      "enrollment": 286,
+      "brief_summary": "The study will evaluate the safety and tolerability of switching subjects with schizophrenia or schizoaffective disorder from their existing antipsychotic medication to Bifeprunox.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males or females, 18-65 years, meeting DSM-IV TR diagnosis of Schizophrenia or Schizoaffective Disorder for whom a switch is indicated\n\nExclusion Criteria:\n\n* Acutely psychotic or with a current Axis I primary psychiatric diagnosis other than schizophrenia or schizoaffective d",
+      "endpoints": [
+        "Successful switch defined as those who complete the 4 weeks core study with no worsening of 2 successive post baseline assessments on the CGIS, exacerbation of EPS, or cardiovascular risk factors (body weight and fasting triglycerides) from baseline."
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00347425"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00325689",
+      "title": "A Multicenter, Randomized, Double-blind, Placebo-controlled, 16 Week Study of Aripiprazole Used as Dual Therapy in the Treatment of Patients With Chronic Stable Schizophrenia or Schizoaffective Disorder Demonstrating an Inadequate Response to Quetiapine or Risperidone Monotherapy.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 323,
+      "brief_summary": "A Multicenter, Double-blind 16 Week Study on the augmentation of atypical antipsychotic with Aripiprazole in patients with Schizophrenia with inadequate response to antipsychotic treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with diagnosis of chronic Schizophrenia or Schizoaffective disorder\n* Stable symptoms and dose of Quetiapine or Risperidone\n\nExclusion Criteria:\n\n* First diagnosis in the past year\n* Significant risk of suicide or meet DSM-IV-TR criteria for substance abuse",
+      "endpoints": [
+        "Evaluate the efficacy of adding Aripiprazole to atypical antipsychotic treatment via Positive and Negative Symptoms Scale (PANSS) score at endpoint"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00325689"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02305823",
+      "title": "Phase IV Study of the Effectiveness of Aripiprazole, Quetiapine, and Ziprasidone in the Treatment of First Episode of Non-affective Psychosis Individuals Included in the First Episode Psychosis Clinical Program II (PAFIP II)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2014-05",
+      "country": "Spain",
+      "enrollment": 203,
+      "brief_summary": "The selection of antipsychotic in early stages of the illness is mainly determined by its clinical effectiveness. Second generation antipsychotics (SGAs) are the first line drug treatment for individuals suffering from schizophrenia. It is clear that SGAs are not a homogeneous group and clinical effects and profile of side effects differ between SGAs. Differences among antipsychotics in terms of effectiveness have turned out to be a topic of increasing research interest, although comparisons bet",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 15-60 years.\n* Living in the catchment area.\n* Experiencing their first episode of psychosis.\n* No prior treatment with antipsychotic medication or, if previously treated, a total life time of adequate antipsychotic treatment of less than 6 weeks.\n* Diagnostic and Statistical ",
+      "endpoints": [
+        "Effectiveness of antipsychotics (percentage of discontinuation of the initially assigned treatment)"
+      ],
+      "sponsor": "Fundación Marques de Valdecilla",
+      "url": "https://clinicaltrials.gov/study/NCT02305823"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06799559",
+      "title": "A Multicenter, Randomized, Double-blind, Parallel Controlled Study on the Efficacy and Safety of QLM1016 in the Treatment of Schizophrenia",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-05",
+      "completion_date": "2026-12",
+      "country": "N/A",
+      "enrollment": 402,
+      "brief_summary": "The study will evaluate the antipsychotic efficacy of QLM1016 in a multicenter, randomized, double-blind, parallel controlled study in patients diagnosed with schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* male or female subjects, ages 18-65 inclusive, with a clinical diagnosis of schizophrenia\n* PANSS total score ≥ 70 and ≤ 120，Rating of at least 4 (moderate) on at least 2 of the following 4 PANSS positive symptoms: delusions, hallucinatory behavior, conceptual disorganization,",
+      "endpoints": [
+        "change from baseline to week 6 in the Positive and Negative Syndrome Scale (PANSS) total score"
+      ],
+      "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06799559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00102518",
+      "title": "A Multi-Center, Open-Label, Safety and Tolerability Study of Flexible-Dose Oral Aripiprazole (2 Mg-30 mg) in the Treatment of Adolescent Patients With Schizophrenia and Child and Adolescent Patients With Bipolar I Disorder, Manic or Mixed Episode With or Without Psychotic Features",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-09",
+      "completion_date": "2007-02",
+      "country": "United States",
+      "enrollment": 325,
+      "brief_summary": "The purpose of this study is to test the long-term safety and tolerability of aripiprazole in adolescent patients with schizophrenia, and child and adolescent patients with bipolar I disorder, manic or mixed episode.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescent patients with schizophrenia, or child and adolescent patients with bipolar I disorder, manic or mixed episode\n\nExclusion Criteria:\n\n* Patients with a co-morbid serious, uncontrolled systemic illness\n* Patients with a significant risk of committing suicide",
+      "endpoints": [
+        "Percentage of Subjects Experiencing SAEs"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00102518"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00528359",
+      "title": "Phase 1 Study of Insulin Sensitivity, Adjusted β-Cell Function and Adiponectin Among Lean Drug-naïve Schizophrenic Subjects Treated With Atypical Antipsychotic Drugs",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2007-02",
+      "country": "Belgium",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to determine whether atypical antipsychotic drugs (commonly prescribed for treating schizophrenia) induce changes in anthropometry and metabolism, including alteration in insulin sensitivity and/or insulin secretion by the pancreas, when given to lean, non-diabetic, individuals who are antipsychotic drug(s)-naïve, and free of metabolic syndrome at enrollment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18-55 years\n* body mass index \\<25.0 kg/m²\n* waist circumference \\<102 (men) and \\<88 cm (women)\n* absence of a metabolic syndrome according to NCEP ATPIII criteria\n* normoglycaemic (fasting plasma glucose levels \\<100 mg/dl)\n\nExclusion Criteria:\n\n* previous use of antipsy",
+      "endpoints": [],
+      "sponsor": "Cliniques universitaires Saint-Luc- Université Catholique de Louvain",
+      "url": "https://clinicaltrials.gov/study/NCT00528359"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03376763",
+      "title": "MAintain the Efficacy and Safety in Treatment of Schizophrenia After Switching to Long-acTing Injectable aRipiprazole From Oral Atypical Antipsychotics",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-11-21",
+      "completion_date": "2021-11-19",
+      "country": "South Korea",
+      "enrollment": 201,
+      "brief_summary": "Interventional, multicenter, open-label, 20 weeks study\n\n* To identify efficacy and safety in switching from oral aripiprazole to Abilify Maintena.\n* To identify efficacy and safety in switching from oral atypical antipsychotics other than aripiprazole to Abilify Maintena",
+      "eligibility_criteria": "Inclusion criteria\n\n1. Subjects who voluntarily consented to participating in the clinical trial.\n2. Male and female legally aged ≥19 and \\< 65 years.\n3. Subjects who were diagnosed of schizophrenia as defined by DSM diagnostic criteria, and were diagnosed of schizophrenia for at least for 2 years p",
+      "endpoints": [
+        "PANSS total score"
+      ],
+      "sponsor": "Korea Otsuka Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT03376763"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05542264",
+      "title": "A Double-Blind, Randomized, Multiple Dose Study of Weight Associated Parameters: SEP-363856 vs Prior Antipsychotic (PA) Standard of Care in Subjects With Schizophrenia Suffering From Metabolic Dysregulation",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-11-15",
+      "completion_date": "2024-02-12",
+      "country": "United States",
+      "enrollment": 19,
+      "brief_summary": "A Clinical Study that will look at an investigational medication, SEP-363856 (called \"study medication\") in patients with schizophrenia, and assess wether it affectsbody-weight associated parameters. This study is accepting male and female participants age 18 years to 65 years. This study will be conducted in approximately 6 study sites in the United States. Participation could last up to 13 weeks.",
+      "eligibility_criteria": "Inclusion Criteria: This is not an all inclusive list\n\n* Male or female subjects between 18 and 65 years of age, inclusive at time of consent.\n* Subject meets Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria for a primary diagnosis of schizophrenia as established by clinical in",
+      "endpoints": [
+        "Insulin stimulated change in glucose disposal rate during the steady state of the low dose hyperinsulinemic euglycemic clamp (HEC), baseline to end of the treatment",
+        "Insulin stimulated change in glucose disposal rate during the steady state of the high dose hyperinsulinemic euglycemic clamp (HEC) baseline to end of the treatment.",
+        "Change in liver proton density fat fraction (PDFF), baseline to end of the treatment"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05542264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00209027",
+      "title": "Aripiprazole Effects on Reward Processing in Deficit Syndrome Schizophrenia",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2005-04",
+      "completion_date": "2011-04",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "The objective of this study is to determine whether subjects with negative symptoms of schizophrenia have abnormal functioning of brain circuits relevant to reward processing, and to determine whether any such abnormalities are normalized by treatment with aripiprazole.",
+      "eligibility_criteria": "Subjects with Schizophrenia:\n\nInclusion Criteria:\n\n* Diagnosed with schizophrenia\n* Male\n* Age 20-50\n* Right handed\n\nExclusion Criteria:\n\n* No current or past drug or alcohol problems (dependance or abuse)\n* Not color blind\n\nControl Subjects:\n\nInclusion Criteria:\n\n* Male\n* Age 20-50\n* Right handed\n\n",
+      "endpoints": [
+        "BOLD Activation During fMRI Scanning During Performance of a Monetary Reward Task"
+      ],
+      "sponsor": "Emory University",
+      "url": "https://clinicaltrials.gov/study/NCT00209027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00541554",
+      "title": "Reversal of Antipsychotic-Induced Hyperprolactinemia, Weight Gain, Hyperglycemia and Dyslipidemia by Aripiprazole Add-on Therapy in the Treatment of Schizophrenia and Bipolar Disorder: An Open-Label Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2007-10",
+      "completion_date": "2009-02",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "This is a prospective, open-label study to evaluate the efficacy and safety in reducing antipsychotic-induced hyperprolactinemia, weight gain, and dyslipidemia by aripiprazole. Approximate 60 patients will be recruited to achieve at least 40 evaluable patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female in age between 12 and 65 years old.\n2. Clinical diagnosis of schizophrenia, schizoaffective disorder, or bipolar disorder with DSM-IV criteria.\n3. Keep stable dosage of the same antipsychotic other than aripiprazole during last one month.\n4. Who are currently t",
+      "endpoints": [],
+      "sponsor": "Genovate Biotechnology Co., Ltd.,",
+      "url": "https://clinicaltrials.gov/study/NCT00541554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03130465",
+      "title": "Aripiprazole Once-monthly Versus Daily Oral Atypical Antipsychotic Treatment in Patients With Recent-onset Schizophrenia: an Observational, Non-interventional Study",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2017-07-13",
+      "completion_date": "2020-01-31",
+      "country": "Germany, France, Italy, Spain",
+      "enrollment": 636,
+      "brief_summary": "This is an observational, non-interventional study that will include two cohorts of patients with schizophrenia who initiated maintenance treatment during a schizophrenia-related hospitalisation or during the immediate three months after hospital discharge: patients who initiated maintenance treatment with AOM and patients who initiated maintenance treatment with any daily oral atypical AP.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients between ≥18 and ≤35 years of age\n2. Diagnosis of schizophrenia confirmed by the current investigator.\n3. Initiation of maintenance treatment with AOM (at least one injection) or with daily oral atypical AP before the study start at the site and up to a maximum ",
+      "endpoints": [
+        "Time (days) to all-cause treatment discontinuation for AOM or daily oral atypical AP"
+      ],
+      "sponsor": "Otsuka Pharmaceutical Europe Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT03130465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02529163",
+      "title": "Evaluating the Efficacy of a Late-Life Schizophrenia Integrated Care Pathway to Treat Acute Psychotic Symptoms",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2015-08",
+      "completion_date": "2019-07",
+      "country": "Canada",
+      "enrollment": 24,
+      "brief_summary": "As of late Integrated Care Pathways (ICPs) have been shown to improve quality of care in the medical field with special attention given to mental health in particular. One aspect of metal health that has not seen the incorporation of ICPs is in the area of schizophrenia. Late life Schizophrenia (LLS) is defined as suffering from schizophrenia and being 50 years of age or older. The LLS-ICP study will look at the efficacy of an ICP in late life schizophrenia versus treatment as usual (TAU). Parti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All races and ethnicity\n* Meets DSM-IV TR (Diagnostic and Statistical Manual Version 4 Text Revision) criteria for a current diagnosis of Schizophrenia\n* clinically unstable and in an acute episode as defined by a CGI severity score greater than 3 or a BPRS thought disorder su",
+      "endpoints": [
+        "Efficacy of LLS-ICP using a medication algorithm and evaluating with the clinical global impression severity scale (CGI-S) and brief psychiatric rating scale (BPRS)"
+      ],
+      "sponsor": "Centre for Addiction and Mental Health",
+      "url": "https://clinicaltrials.gov/study/NCT02529163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02501109",
+      "title": "A Single-dose, Randomized, Three-period, Crossover Comparative Bioavailability Study of a Novel Formulation of Aripiprazole 10 mg Oral Soluble Film vs the Marketed Formulation Abilify® 10 mg Tablet in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-10",
+      "completion_date": "2016-03",
+      "country": "N/A",
+      "enrollment": 36,
+      "brief_summary": "The purpose of this study is to compare the rate and extent of absorption of Aripiprazole Oral Soluble Film 10 mg (Test) versus Abilify® 10 mg tablet (Reference) in healthy male volunteers",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female, moderate smoker (no more than 9 cigarettes daily) or non-smoker, ≥45 and ≤65 years of age, with BMI \\> 18.5 and \\< 30.0 kg/m2 and body weight 50.0 kg for males and 45.0 kg for females.\n2. Healthy as defined by:\n3. Females of childbearing potential who are sexu",
+      "endpoints": [
+        "The rate extent of absorption of aripiprazole OSF 10mg versus Abilify ® 10mg tablet"
+      ],
+      "sponsor": "CMG Pharmaceutical Co. Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT02501109"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05686772",
+      "title": "A Better Understanding of the Association Between Problem Gambling and Psychotic Disorders in Young Adults: a New Path Towards Recovery",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-11-01",
+      "completion_date": "2023-05-01",
+      "country": "Canada",
+      "enrollment": 520,
+      "brief_summary": "The aims of this propsective cohort study are to get a better understanding of the association between problem gambling and psychotic disorders among young adults with first-episode psychosis.\n\nThe main questions to be answered are:\n\n1. What is the incidence of problem gambling in this population?\n2. What are the predictors of problem gambling in this population?\n\nTo do so, putative predictors of problem gambling will be analyzed using Cox regression models:\n\n* Sociodemographics (e.g., age, gend",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 to 35 years old;\n* Diagnosis of first-episode psychosis (i.e., DSM-5 diagnosis of schizophrenia spectrum and other psychotic disorders, as well as DSM-5 bipolar disorder with psychotic features).\n\nExclusion Criteria:\n\n* Active/prior PBG at te time of admission;\n* Loss to fo",
+      "endpoints": [
+        "Problem gambling"
+      ],
+      "sponsor": "Laval University",
+      "url": "https://clinicaltrials.gov/study/NCT05686772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01724372",
+      "title": "The Role of Antidepressants or Antipsychotics in Preventing Psychosis",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2012-10",
+      "completion_date": "2014-05",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This is a randomized, controlled pilot study comparing the antidepressant fluoxetine with the second generation antipsychotic aripiprazole in approximately 10 subjects aged 12-25 at risk for developing psychosis.\n\nOur primary hypotheses are that compared to aripiprazole, fluoxetine will be better tolerated and will lead to greater improvement in symptoms at the end of 6 months of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 12-25 years of age (inclusive)\n* Able to understand and speak English\n* Have at least one sub-threshold positive psychotic symptom that is moderate, moderately severe, or severe\n\nExclusion Criteria:\n\n* Lifetime diagnosis of an Axis I psychotic disorder: schizophreniform disord",
+      "endpoints": [
+        "Attenuated positive, negative and general psychiatric symptoms"
+      ],
+      "sponsor": "St. Luke's-Roosevelt Hospital Center",
+      "url": "https://clinicaltrials.gov/study/NCT01724372"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00541502",
+      "title": "A Obervational, Prospective Study to Evaluate the Effectiveness of Improving Cognitive Function of Aripiprazole in Treating Adolescents and Young Adults With Psychotic Disorder in Taiwan",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2007-11",
+      "completion_date": "2008-10",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "This is a 24-week, observational, prospective study to evaluate the effectiveness of improving cognitive function of aripiprazole in treating adolescents and young adults with psychotic disorder in Taiwan. Approximately 120 qualified patients who have clinical diagnosis of DSM-IV of psychotic symptom (e.g. schizophrenia or other psychotic disorders such as schizophreniform disorder, schizoaffective disorder, delusional disorder, shared psychotic disorder, bipolar disorder with psychotic feature ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female in age between 12 and 25 years old.\n2. Clinical diagnosis of DSM-IV of psychotic symptom (e.g. schizophrenia or other psychotic disorders such as schizophreniform disorder, schizoaffective disorder, delusional disorder, shared psychotic disorder, bipolar disord",
+      "endpoints": [],
+      "sponsor": "Genovate Biotechnology Co., Ltd.,",
+      "url": "https://clinicaltrials.gov/study/NCT00541502"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03345979",
+      "title": "A Phase 3b, Multicenter, Randomized, Double-blind Study to Evaluate the Efficacy and Safety of Aripiprazole Lauroxil or Paliperidone Palmitate for the Treatment of Schizophrenia in Subjects Hospitalized for Acute Exacerbation",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-11-15",
+      "completion_date": "2019-03-12",
+      "country": "United States",
+      "enrollment": 200,
+      "brief_summary": "This study will evaluate the efficacy of initiating treatment of schizophrenia with ARISTADA INITIO plus 30 mg oral aripiprazole followed by a 2-month dose of AL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Has a diagnosis of schizophrenia\n* Requires acute treatment for symptoms of schizophrenia\n* Willing and able to be confined to an inpatient study unit for up to 3-4 weeks\n* Has experienced at least one previous hospitalization for schizophrenia\n* Has been able to achieve outpa",
+      "endpoints": [
+        "Change From Baseline in the Positive and Negative Syndrome Scale (PANSS) Total Score at Week 4"
+      ],
+      "sponsor": "Alkermes, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03345979"
+    }
+  ],
+  "timestamp": "2026-03-04T15:26:08.891311",
+  "success": true,
+  "error_message": null
+}

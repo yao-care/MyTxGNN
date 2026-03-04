@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Loratadine",
+    "disease": "nasopharyngitis",
+    "query_string": "Loratadine AND nasopharyngitis"
+  },
+  "data": {
+    "query": "Loratadine AND nasopharyngitis",
+    "results": []
+  },
+  "timestamp": "2026-03-04T14:50:09.288563",
+  "success": true,
+  "error_message": null
+}

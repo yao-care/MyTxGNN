@@ -1,0 +1,215 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Erythromycin",
+    "disease": "infectious otitis media"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01272999",
+      "title": "POSTMARKETING OBSERVATIONAL STUDY OF THE IMPACT OF PREVNAR 13 (PNEUMOCOCCAL 13-VALENT CONJUGATE VACCINE) ON OTITIS MEDIA IN CHILDREN",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-05-21",
+      "completion_date": "2013-12-19",
+      "country": "United States",
+      "enrollment": 391,
+      "brief_summary": "Prevnar (7 valent pneumococcal conjugate vaccine \\[7vPnC\\]) has been shown to be effective against ear infections in children. Prevnar 13 is a new vaccine that is similar to Prevnar. It is expected that the effectiveness of Prevnar 13 against ear infections in children will be similar to that observed following Prevnar. Pfizer has committed to conduct a postmarketing study of the impact of Prevnar 13 in reducing ear infections among children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Case eligibility should be based on microbiologic data and should be reviewed and documented by an appropriately qualified member of the investigator's study team before cases are included in the study database.\n* S pneumoniae identified from middle ear fluid or mastoiditis sa",
+      "endpoints": [
+        "Percentage of Streptococcus Pneumoniae Serotype Isolates From Middle Ear Fluid (MEF) Sample at Surveillance Year 1",
+        "Percentage of Streptococcus Pneumoniae Serotype Isolates From Middle Ear Fluid (MEF) Sample at Surveillance Year 2",
+        "Percentage of Streptococcus Pneumoniae Serotype Isolates From Middle Ear Fluid (MEF) Sample at Surveillance Year 3"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01272999"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00471822",
+      "title": "An Evaluation of Streptococcus Pneumoniae Serotype Carriage Rate for Nasopharyngeal Carriage in Taiwanese Children Attending Pediatric Clinics in Hospitals, Day Care Centers, or Kindergartens",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2010-12",
+      "country": "Taiwan",
+      "enrollment": 9707,
+      "brief_summary": "Primary Objective: Evaluation of the\n\n\\- Carriage rate of Streptococcus pneumoniae in the nasopharynx of children\n\nSecondary Objective:\n\n* Carriage rate and distribution of Streptococcus pneumoniae serotypes\n* Estimation of prevalence rate of antibiotic-resistant Streptococcus pneumoniae strains\n* Distribution of Staphylococcus aureus strain\n* The influence of risk factors in the Streptococcus pneumoniae carriage rate in children",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Children aged between 2 months and 5 years attending pediatric clinics in hospitals, day care centers or kindergartens.\n2. Informed consent obtained from parents or legal guardian.\n\nExclusion Criteria:\n\n1. Children younger than 2 months of age.\n2. Children with following seri",
+      "endpoints": [
+        "Percentage of Participants With Carriage of Streptococcus Pneumoniae in Nasopharynx"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00471822"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01511107",
+      "title": "A Phase 2b, Multicenter, Randomized, Double Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy of Short-Course Antimicrobial Therapy for Young Children With Acute Otitis Media (AOM) and Impact on Antimicrobial Resistance",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2012-01",
+      "completion_date": "2015-10",
+      "country": "United States",
+      "enrollment": 520,
+      "brief_summary": "The investigators will study whether, in young children with acute otitis media (AOM), shortening length of antibiotic treatment as a strategy for reducing antimicrobial resistance provides satisfactory clinical outcome. This is a Phase 2b multicenter, randomized, double-blind, placebo-controlled clinical trial in 600 children aged 6 through 23 months comparing the efficacy of consistent reduced-duration antimicrobial treatment (5 days) with that of consistent standard-duration treatment (10 day",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 6 through 23 months\n2. Have evidence of AOM defined as:\n\n   * recent (within 48 hours) onset of signs and symptoms as described in the Acute Otitis Media - Severity of Symptoms (AOM-SOS) Scale AND a score of ≥3 at the time of enrollment on the AOM-SOS scale\n   * middle e",
+      "endpoints": [
+        "The Distribution of Children Categorized as Treatment Failure (TF) at or Before the Day 12-14 End-of-Treatment Visit Specific to the Index Episode of AOM"
+      ],
+      "sponsor": "University of Pittsburgh",
+      "url": "https://clinicaltrials.gov/study/NCT01511107"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04464291",
+      "title": "An Epidemiological Survey to Establish the Spectrum of Circulating Serotypes of S. Pneumoniae, in Patients Older 18 Years: Healthy Carriage, Patients With Non-invasive and Invasive Pneumococcal Infections in the Russian Federation",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2019-06-01",
+      "completion_date": "2021-01-31",
+      "country": "Russia",
+      "enrollment": 500,
+      "brief_summary": "Pneumococcal conjugate vaccine was added to the National Immunization Program in Russia in 2014 which could affect the changes in pneumococcal serotypes in growing population. The purpose of this study is to determine the spectrum of serotypes of S. pneumoniae in patients older 18-years: in healthy carriage, in patients with non-invasive and invasive forms of pneumococcal infection. The patients will be divide into several groups: 18-64-years old, 65 years old and older, immunocompromised patien",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinically relevant causative isolate - The isolate must meet the laboratory criteria of S. pneumoniae and be considered the \"probable causative agent\" of infection.\n2. Isolates from patients older 18-years with pneumococcal acute otitis media\n3. Isolates from patients older ",
+      "endpoints": [
+        "Incidence of pneumococcal infection in the Russian Federation, caused by different serotypes of Streptococcus pneumoniae"
+      ],
+      "sponsor": "The Interregional Association for Clinical Microbiology and Antimicrobial Chemotherapy (IACMAC)",
+      "url": "https://clinicaltrials.gov/study/NCT04464291"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04583280",
+      "title": "A Phase 3, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Rilematovir in Infants and Children (≥28 Days to ≤5 Years of Age) and Subsequently in Neonates (<28 Days of Age), Hospitalized With Acute Respiratory Tract Infection Due to Respiratory Syncytial Virus (RSV)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2021-09-06",
+      "completion_date": "2022-03-18",
+      "country": "Bulgaria, Brazil, Spain, Mexico, Sweden, Belgium, Taiwan, Turkey (Türkiye), Hungary, Slovakia, Germany, Latvia, Thailand, Israel, South Korea, Ukraine, Poland, Argentina, Japan, Estonia, United States, Czechia, Panama, Italy, China, Malaysia",
+      "enrollment": 28,
+      "brief_summary": "The purpose of the study is to evaluate the efficacy of rilematovir compared to placebo treatment with respect to the clinical outcome on the RSV Recovery Scale (RRS).",
+      "eligibility_criteria": "Inclusion criteria:\n\n* The participant weighs within greater than or equal to (\\>=) 2.4 kilograms (kg) and less than or equal to (\\<=) 24.6 kg\n* Each participant's parent(s) (preferably both if available or as per local requirements) or their legally acceptable representative(s) has/have signed an i",
+      "endpoints": [
+        "Percentage of Participants by Respiratory Syncytial Virus (RSV) Recovery Scale (RRS) Category"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04583280"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00796224",
+      "title": "A Open Label, Randomized, Single Dose, Parallel Arm Study To Determine Pharmacokinetics Of Azithromycin Following Oral Administration Of Immediate-Release Or Extended-Release Formulation In Pediatric Subjects With Acute Otitis Media",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2009-02",
+      "country": "Costa Rica",
+      "enrollment": 38,
+      "brief_summary": "The purpose of this study was to determine the pharmacokinetics (PK), safety and clinical response following a single dose of either 30 mg/kg IR (Immediate Release) or 60 mg/kg ER (Extended Release) formulation in pediatric subjects 6 months to 6 years of age inclusive.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects age 6 months to \\< 12 years.\n* Have clinical signs/symptoms of acute otitis media in at least one ear.\n* Parent(s)/legal guardian(s) provide written informed consent.\n\nExclusion Criteria:\n\n* Clinical significant other disease.\n* Recent use of investigational drugs, pr",
+      "endpoints": [
+        "Area Under the Curve From Time Zero to 72 Hours (AUC72Hours)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00796224"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00360100",
+      "title": "A Randomized, Multicenter, Comparative Study To Assess Tolerability Of A Single Oral 60 Mg/Kg Dose Of Zmax (Pediatric Concentration) Vs. Zmax (Adult Concentration) In Pediatric Patients With Acute Otitis Media",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2006-12",
+      "country": "Dominican Republic, Chile, Panama, Guatemala, Costa Rica, Argentina, United States",
+      "enrollment": 120,
+      "brief_summary": "Assess tolerability of different dosing formulations (adult versus pediatric).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have clinical signs/symptoms of AOM in at least 1 ear\n\nExclusion Criteria:\n\n* Known or suspected hypersensitivity, or intolerance to azithromycin or other macrolides or to any penicillin, beta-lactam antibiotic or beta lactamase inhibitor\n* Previously diagnosed disease(s) of i",
+      "endpoints": [
+        "Treatment-related vomiting on Day 1, which is based directly on the collected observed or voluntarily reported vomiting."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00360100"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00645112",
+      "title": "A Comparison of Safety and Efficacy of Cefdinir Oral Suspension Versus Azithromycin in Pediatric Subjects With Acute Otitis Media",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 357,
+      "brief_summary": "To compare the safety and efficacy of cefdinir oral suspension, 7 mg/kg every 12 hours for 5 days, to azithromycin oral suspension 10 mg/kg/day (Day 1) then 5 mg/kg/day (Days 2-5) for a total of 5 days, in children between 6 months and 6 years of age, with AOM.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis, documented by medical history and physical examination, is AOM I 1 week.\n* Clinical symptoms include \\>=1 of the following: Otalgia (earache or pain), this may be expressed as ear pulling or nabbing; Ear fullness; Decreased hearing, this may be based on rep",
+      "endpoints": [
+        "Clinical cure rate at Evaluation 2"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT00645112"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00315003",
+      "title": "Multinational, Randomized, Double-Blind, Double-Dummy, Comparative Study to Evaluate the Efficacy and Safety of 5 Days Telithromycin 25mg/kg od Versus 5 Days Azithromycin 10 mg/kg od Followed by 5 mg/kg od for 4 Days, in Children With Acute Otitis Media",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2006-01",
+      "completion_date": "2006-07",
+      "country": "Israel, Brazil, Dominican Republic, Chile, Czechia, Panama, Guatemala, Costa Rica, Peru, Canada, Colombia, Argentina, United States",
+      "enrollment": 1500,
+      "brief_summary": "This is a multinational, randomized (1:1), double-blind, double-dummy, comparative, 2- treatmentgroup study in children (age range: ≥6 months and \\<72 months \\[\\< 6 years of age\\]) with AOM.Subjects will be randomized to receive either telithromycin (50 mg/mL) oral suspension 25 mg/kgonce daily for 5 days or azithromycin (40 mg/mL) oral suspension (10 mg/kg once on Day 1, followed by 5 mg/kg once daily on Days 2-5, not to exceed 500 mg onDay 1 and 250 mg/day from Days 2 - 5. Matching placebo sus",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects meeting all of the following criteria will be considered for enrollment into the study:\n\n* Subjects ≥6 months and \\<72 months (\\< 6 years) of age;\n* Recent (within the last 72 hours) and rapid onset of AOM symptoms and signs;\n* The presence of MEF on otoscopy indicated ",
+      "endpoints": [
+        "The primary efficacy variables will be time to symptom resolution (TSR) and clinical cure at theposttherapy/TOC Visit 3."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00315003"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03824847",
+      "title": "Immunomodulatory Effect of Macrolides in Naturally Occurring Influenza Virus Infections in the Community",
+      "phase": "PHASE4",
+      "status": "SUSPENDED",
+      "start_date": "2023-06-01",
+      "completion_date": "2024-09-01",
+      "country": "Hong Kong",
+      "enrollment": 100,
+      "brief_summary": "The investigators propose a double-blind randomised placebo-controlled study in naturally occurring influenza virus infections in the community setting to compare the impact of a short course of clarithromycin versus placebo, on the clinical course, viral shedding, immunomodulation, and the antimicrobial resistance pattern of respiratory bacterial carriage of the patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged between 18-60\n* Presenting with symptoms of acute URTI (at least two among the following symptoms: body temperature ≥37.8°C, cough, rhinorrhea, sore throat, headache, myalgia/arthralgia) to university health clinics within 48 hours of illness onset.\n\nExclusion Crit",
+      "endpoints": [
+        "Time from recruitment to cessation of clinical illness",
+        "Time from recruitment to cessation of viral shedding"
+      ],
+      "sponsor": "The University of Hong Kong",
+      "url": "https://clinicaltrials.gov/study/NCT03824847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06798051",
+      "title": "A Single-dose, Fasting, Randomized, Open-label, Two-treatment, Three-period, Partially-replicated, Reference-corrected Crossover Bioequivalence Study of Roxithromycin Tablets in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2019-06-03",
+      "completion_date": "2019-09-03",
+      "country": "China",
+      "enrollment": 39,
+      "brief_summary": "Roxithromycin is used for the treatment of pharyngitis and tonsillitis caused by Streptococcus pyogenes, sinusitis, otitis media, acute bronchitis, acute exacerbations of chronic bronchitis, and pneumonia caused by Mycoplasma pneumoniae or Chlamydia pneumoniae; urethritis and cervicitis caused by Chlamydia trachomatis; and skin and soft tissue infections caused by susceptible bacteria.\n\nThe purpose of this study was to evaluate the bioequivalence of roxithromycin tablets from two different manuf",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chinese healthy adults over 18 years old ( including 18 years old ) ;\n* Weight : male ≥ 50.0kg, female ≥ 45.0kg and body mass index ( BMI ) :\n\n19.0 \\~ 26.0kg / m2 ( including boundary value, BMI = weight ( kg ) / height ( m ) 2 ) ;\n\n* Understand and sign the informed consent, ",
+      "endpoints": [
+        "maximum observed serum or plasma concentration",
+        "area under the serum or plasma concentration-time curve from 0 to t",
+        "area under the serum or plasma concentration-time curve from 0 to infinity"
+      ],
+      "sponsor": "The Affiliated Hospital Of Guizhou Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT06798051"
+    }
+  ],
+  "timestamp": "2026-03-04T16:30:23.881081",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,187 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Bevacizumab",
+    "disease": "hereditary breast ovarian cancer syndrome",
+    "query_string": "Bevacizumab AND hereditary breast ovarian cancer syndrome"
+  },
+  "data": {
+    "query": "Bevacizumab AND hereditary breast ovarian cancer syndrome",
+    "results": [
+      {
+        "pmid": "39796639",
+        "title": "BRCA and Beyond: Impact on Therapeutic Choices Across Cancer.",
+        "abstract": "Identifying patients with gBRCAm is crucial to facilitate screening strategies, preventive measures and the usage of targeted therapeutics in their management. This review examines the evidence for the latest predictive and therapeutic approaches in BRCA-associated cancers.",
+        "journal": "Cancers",
+        "year": "2024",
+        "authors": [
+          "Tan Joshua Zhi Chien",
+          "Zhang Zewen",
+          "Goh Hui Xuan",
+          "Ngeow Joanne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39796639/"
+      },
+      {
+        "pmid": "34036697",
+        "title": "Precision medicine for hereditary tumors in gynecologic malignancies.",
+        "abstract": "Genomic medicine for gynecologic tumors is characterized by hereditary breast and ovarian cancer (HBOC) and Lynch syndrome (LS). Poly ADP-ribose polymerase (PARP) inhibitor, olaparib, and the immune checkpoint inhibitor, pembrolizumab, which are drugs that show sensitivity to each hereditary tumor, have begun to spread in clinical practice for gynecologic malignancies. In clinical use, platinum sensitivity is used as a clinical surrogate marker for olaparib sensitivity, and microsatellite instability is used as a biological surrogate marker for pembrolizumab sensitivity. BRCA genetic testing and microsatellite instability test have been used as companion diagnostics before starting olaparib and pembrolizumab treatment, respectively. Homologous recombination deficiency test could be used for companion diagnostic of olaparib combination with bevacizumab in first-line maintenance treatment and niraparib without re-administration of platinum agents in the treatment of recurrence. The appro",
+        "journal": "The journal of obstetrics and gynaecology research",
+        "year": "2021",
+        "authors": [
+          "Sekine Masayuki",
+          "Enomoto Takayuki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "BRCA1 Protein",
+          "Female",
+          "Genital Neoplasms, Female",
+          "Humans",
+          "Japan",
+          "Neoplasm Recurrence, Local",
+          "Ovarian Neoplasms",
+          "Precision Medicine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34036697/"
+      },
+      {
+        "pmid": "29468855",
+        "title": "Major clinical research advances in gynecologic cancer in 2017.",
+        "abstract": "In 2017, 10 topics were selected as major clinical research advances in gynecologic oncology. For cervical cancer, efficacy and safety analysis results of a 9-valent human papillomavirus (HPV) vaccine and long-term impact of reduced dose of quadrivalent vaccine were updated. Brief introduction of KEYNOTE trials of pembrolizumab, a monoclonal antibody that blocks the interaction between programmed death (PD)-1 and its ligands, PD-L1 and PD-L2, followed. Tailored surveillance programs for gynecologic cancer related with Lynch syndrome and update on sentinel lymph node mapping were reviewed for uterine corpus cancer. For ovarian cancer, 5 topics were selected including poly(ADP-ribose) polymerases inhibitors and immunotherapy. The other potential practice changers covered in this review were lymphadenectomy in advanced disease, secondary cytoreductive surgery in recurrent disease, weekly dose-dense regimen for first-line chemotherapy, incorporation of bevacizumab maintenance in platinum-s",
+        "journal": "Journal of gynecologic oncology",
+        "year": "2018",
+        "authors": [
+          "Suh Dong Hoon",
+          "Kim Miseon",
+          "Lee Kyung Hun",
+          "Eom Keun Yong",
+          "Kjeldsen Maj Kamille"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antibodies, Monoclonal, Humanized",
+          "Biomedical Research",
+          "Breast Neoplasms",
+          "Colorectal Neoplasms, Hereditary Nonpolyposis",
+          "Endometrial Neoplasms",
+          "Female",
+          "Genetic Predisposition to Disease",
+          "Genital Neoplasms, Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29468855/"
+      },
+      {
+        "pmid": "34952708",
+        "title": "Efficacy of maintenance olaparib plus bevacizumab according to clinical risk in patients with newly diagnosed, advanced ovarian cancer in the phase III PAOLA-1/ENGOT-ov25 trial.",
+        "abstract": "Adding maintenance olaparib to bevacizumab provided a significant progression-free survival (PFS) benefit in patients with newly diagnosed, advanced ovarian cancer in the randomized, double-blind PAOLA-1/ENGOT-ov25 trial (NCT02477644). We analyzed PFS by clinical risk and biomarker status.",
+        "journal": "Gynecologic oncology",
+        "year": "2022",
+        "authors": [
+          "Harter Philipp",
+          "Mouret-Reynier Marie Ange",
+          "Pignata Sandro",
+          "Cropet Claire",
+          "González-Martín Antonio"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Agents, Immunological",
+          "Bevacizumab",
+          "Carcinoma, Ovarian Epithelial",
+          "Cytoreduction Surgical Procedures",
+          "Female",
+          "Genes, BRCA1",
+          "Genes, BRCA2"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34952708/"
+      },
+      {
+        "pmid": "33468816",
+        "title": "[A Case of Ipsilateral Breast Tumor Recurrence(IBTR)after Breast-Conserving Surgery Which Successfully Resected after Chemotherapy Using Carboplatin plus Gemcitabine].",
+        "abstract": "A 39-year-old woman underwent partial mastectomy with sentinel lymph node biopsy for right triple negative breast cancer(T2N0M0, Stage ⅡA). Six months later, ipsilateral breast tumor recurrence(IBTR)was observed and paclitaxel plus bevacizumab therapy was started, but anaphylactoid symptoms appeared and the patient was discontinued. Subsequently, eribulin was started, but the IBTR was increased ineffectively. At that point, IBTR had progressed, apparently unresectable, with no distant metastases. We predicted from the patient's background that the patient may be associated with BRCA1 gene mutation and was sensitive to the platinum salts. Carboplatin plus gemcitabine was selected and 6 courses were performed. After the 6 courses, the IBTR were remarkably reduced and resectable, and mastectomy with axillary lymph node dissection were performed. One year after the operation, contralateral breast cancer develop and found to be hereditary breast and ovarian cancer syndrome (HBOC) by Genetic",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Sato Takanobu",
+          "Kouno Tsutomu",
+          "Hirose Shigemichi",
+          "Oikawa Haruna",
+          "Machino Chiaki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Breast Neoplasms",
+          "Carboplatin",
+          "Deoxycytidine",
+          "Female",
+          "Humans",
+          "Mastectomy",
+          "Mastectomy, Segmental",
+          "Neoplasm Recurrence, Local",
+          "Gemcitabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33468816/"
+      },
+      {
+        "pmid": "32668858",
+        "title": "[A Case Report on the Effectiveness of Olaparib in a Patient with Recurrent Breast Cancer with Human Immunodeficiency Virus Infection].",
+        "abstract": "A 43 -year-old woman presented to the hospital with a right breast tumor. She had been treated for human immunodeficiency virus(HIV)infection for 5 years. After being diagnosed with right breast cancer, she underwent total mastectomy and sentinel lymph node biopsy, which indicated T2N1M0 triple-negative breast cancer. She received doxorubicin and cyclophosphamide( AC)followed by docetaxel(AC-T)as postoperative adjuvant chemotherapy. However, 14 months after the adjuvant chemotherapy finished, distant metastasis occurred in the brain, lung, and mediastinum lymph nodes. Treatment for relapse was initiated, with whole brain radiotherapy followed by paclitaxel plus bevacizumab combination therapy(PB); however, new metastatic lesions were found in the bone, liver, and mediastinum lymph node after 2 courses of PB. Given the risk of hereditary breast and ovarian cancer syndrome, a BRCAgene test was performed when the patient received radiotherapy for left recurrent laryngeal nerve paralysis c",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2020",
+        "authors": [
+          "Yabe Sakiko",
+          "Iwamoto Naoko",
+          "Inokuchi Takuhiko",
+          "Nara Miyako",
+          "Saita Chiaki"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Female",
+          "HIV Infections",
+          "Humans",
+          "Mastectomy",
+          "Neoplasm Recurrence, Local",
+          "Phthalazines",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32668858/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:19:36.174746",
+  "success": true,
+  "error_message": null
+}

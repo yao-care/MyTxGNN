@@ -1,0 +1,28 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Thiotepa",
+    "disease": "ovarian clear cell adenocarcinoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002977",
+      "title": "A Phase I Trial of Melphalan and Thiotepa Followed by Autologous or Syngeneic Peripheral Blood Stem Cell (PBSC) Rescue in Patients With a Complete Response Following Standard Therapy for Stage III/IV Epithelial Ovarian Cancer",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1997-01",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.\n\nPURPOSE: Phase I trial to study the effectiveness of melphalan and thiotepa followed by peripheral stem cell transplantation in treating patients with stage III or stage IV epithelial ovarian cancer in complete remission.",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed stage III/IV ovarian epithelial cancer in first or second clinical complete remission after receiving a minimum of 4-10 courses of chemotherapy consisting of paclitaxel and either cisplatin or carboplatin Ovarian epithelial cancer of following histol",
+      "endpoints": [],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00002977"
+    }
+  ],
+  "timestamp": "2026-03-04T15:44:44.223027",
+  "success": true,
+  "error_message": null
+}

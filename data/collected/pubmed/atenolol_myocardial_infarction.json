@@ -1,0 +1,564 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Atenolol",
+    "disease": "myocardial infarction",
+    "query_string": "Atenolol AND myocardial infarction"
+  },
+  "data": {
+    "query": "Atenolol AND myocardial infarction",
+    "results": [
+      {
+        "pmid": "28107561",
+        "title": "Beta-blockers for hypertension.",
+        "abstract": "Beta-blockers refer to a mixed group of drugs with diverse pharmacodynamic and pharmacokinetic properties. They have shown long-term beneficial effects on mortality and cardiovascular disease (CVD) when used in people with heart failure or acute myocardial infarction. Beta-blockers were thought to have similar beneficial effects when used as first-line therapy for hypertension. However, the benefit of beta-blockers as first-line therapy for hypertension without compelling indications is controversial. This review is an update of a Cochrane Review initially published in 2007 and updated in 2012.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2017",
+        "authors": [
+          "Wiysonge Charles S",
+          "Bradley Hazel A",
+          "Volmink Jimmy",
+          "Mayosi Bongani M",
+          "Opie Lionel H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Angiotensin Receptor Antagonists",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Calcium Channel Blockers",
+          "Coronary Disease",
+          "Diuretics",
+          "Heart Arrest"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28107561/"
+      },
+      {
+        "pmid": "11937178",
+        "title": "Cardiovascular morbidity and mortality in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol.",
+        "abstract": "Blood pressure reduction achieved with beta-blockers and diuretics is the best recorded intervention to date for prevention of cardiovascular morbidity and death in patients with hypertension. Left ventricular hypertrophy (LVH) is a strong independent indicator of risk of cardiovascular morbidity and death. We aimed to establish whether selective blocking of angiotensin II improves LVH beyond reducing blood pressure and, consequently, reduces cardiovascular morbidity and death.",
+        "journal": "Lancet (London, England)",
+        "year": "2002",
+        "authors": [
+          "Dahlöf Björn",
+          "Devereux Richard B",
+          "Kjeldsen Sverre E",
+          "Julius Stevo",
+          "Beevers Gareth"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Angiotensin Receptor Antagonists",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Cardiovascular Diseases",
+          "Diabetes Complications",
+          "Double-Blind Method",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11937178/"
+      },
+      {
+        "pmid": "33186492",
+        "title": "Polypill with or without Aspirin in Persons without Cardiovascular Disease.",
+        "abstract": "A polypill comprising statins, multiple blood-pressure-lowering drugs, and aspirin has been proposed to reduce the risk of cardiovascular disease.",
+        "journal": "The New England journal of medicine",
+        "year": "2021",
+        "authors": [
+          "Yusuf Salim",
+          "Joseph Philip",
+          "Dans Antonio",
+          "Gao Peggy",
+          "Teo Koon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Antihypertensive Agents",
+          "Aspirin",
+          "Atenolol",
+          "Blood Pressure",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Drug Combinations",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33186492/"
+      },
+      {
+        "pmid": "2046107",
+        "title": "Prevention of stroke by antihypertensive drug treatment in older persons with isolated systolic hypertension. Final results of the Systolic Hypertension in the Elderly Program (SHEP). SHEP Cooperative Research Group.",
+        "abstract": "To assess the ability of antihypertensive drug treatment to reduce the risk of nonfatal and fatal (total) stroke in isolated systolic hypertension.",
+        "journal": "JAMA",
+        "year": "1991",
+        "authors": [],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Cause of Death",
+          "Cerebrovascular Disorders",
+          "Chlorthalidone",
+          "Contraindications",
+          "Double-Blind Method",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2046107/"
+      },
+      {
+        "pmid": "16154016",
+        "title": "Prevention of cardiovascular events with an antihypertensive regimen of amlodipine adding perindopril as required versus atenolol adding bendroflumethiazide as required, in the Anglo-Scandinavian Cardiac Outcomes Trial-Blood Pressure Lowering Arm (ASCOT-BPLA): a multicentre randomised controlled trial.",
+        "abstract": "The apparent shortfall in prevention of coronary heart disease (CHD) noted in early hypertension trials has been attributed to disadvantages of the diuretics and beta blockers used. For a given reduction in blood pressure, some suggested that newer agents would confer advantages over diuretics and beta blockers. Our aim, therefore, was to compare the effect on non-fatal myocardial infarction and fatal CHD of combinations of atenolol with a thiazide versus amlodipine with perindopril.",
+        "journal": "Lancet (London, England)",
+        "year": "2005",
+        "authors": [
+          "Dahlöf Björn",
+          "Sever Peter S",
+          "Poulter Neil R",
+          "Wedel Hans",
+          "Beevers D Gareth"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Amlodipine",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Bendroflumethiazide",
+          "Blood Pressure",
+          "Calcium Channel Blockers"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16154016/"
+      },
+      {
+        "pmid": "25821584",
+        "title": "β-Blockers in hypertension, diabetes, heart failure and acute myocardial infarction: a review of the literature.",
+        "abstract": "β-Blockers (BBs) are an essential class of cardiovascular medications for reducing morbidity and mortality in patients with heart failure (HF). However, a large body of data indicates that BBs should not be used as first-line therapy for hypertension (HTN). Additionally, new data have questioned the role of BBs in the treatment of stable coronary heart disease (CHD). However, these trials mainly tested the non-vasodilating β1 selective BBs (atenolol and metoprolol) which are still the most commonly prescribed BBs in the USA. Newer generation BBs, such as the vasodilating BBs carvedilol and nebivolol, have been shown not only to be better tolerated than non-vasodilating BBs, but also these agents do not increase the risk of diabetes mellitus (DM), atherogenic dyslipidaemia or weight gain. Moreover, carvedilol has the most evidence for reducing morbidity and mortality in patients with HF and those who have experienced an acute myocardial infarction (AMI). This review discusses the corner",
+        "journal": "Open heart",
+        "year": "2015",
+        "authors": [
+          "DiNicolantonio James J",
+          "Fares Hassan",
+          "Niazi Asfandyar K",
+          "Chatterjee Saurav",
+          "D'Ascenzo Fabrizio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25821584/"
+      },
+      {
+        "pmid": "9732337",
+        "title": "Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. UK Prospective Diabetes Study Group.",
+        "abstract": "To determine whether tight control of blood pressure prevents macrovascular and microvascular complications in patients with type 2 diabetes.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "1998",
+        "authors": [],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Albuminuria",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Antihypertensive Agents",
+          "Atenolol",
+          "Blood Glucose",
+          "Captopril",
+          "Cerebrovascular Disorders",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Angiopathies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9732337/"
+      },
+      {
+        "pmid": "16534490",
+        "title": "Beta-blockers for the post-myocardial infarction patient: current clinical evidence and practical considerations.",
+        "abstract": "Beta-blockers significantly decrease the risk of mortality in patients after myocardial infarction (MI). Furthermore, beta-blockers reduce the risk of reinfarction and mortality in both the immediate and long term after an MI. Guidelines recommend that post-MI patients should be started on beta-blocker therapy and continued indefinitely, unless absolutely contraindicated or not tolerated. Despite compelling evidence, many patients are not prescribed beta-blockers after a myocardial event. In addition, some patients are treated with agents whose long-term use has not been shown to be effective. This article discusses practical implementation of beta-blockers, provides the rationale for choosing specific beta-blockers, and presents protocols for initiating or switching to evidence-based therapies in the acute and chronic post-MI period.",
+        "journal": "Reviews in cardiovascular medicine",
+        "year": "2006",
+        "authors": [
+          "Fonarow Gregg C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Algorithms",
+          "Atenolol",
+          "Carbazoles",
+          "Carvedilol",
+          "Humans",
+          "Myocardial Infarction",
+          "Practice Guidelines as Topic",
+          "Propanolamines",
+          "Propranolol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16534490/"
+      },
+      {
+        "pmid": "9226286",
+        "title": "Heart rate variability after acute myocardial infarction in patients treated with atenolol and metoprolol.",
+        "abstract": "Heart rate variability (HRV) reflects autonomous activity that influences the heart. It has been shown that HRV is depressed during acute myocardial infarction (AMI) and that it recovers with time. Beta-blockers reduce mortality after AMI and changes in sympathico-vagal activity have been suggested to be of importance. Under certain animal experimental conditions, metoprolol has been reported to increase vagal tone more than atenolol, which could have clinical implications. The purpose of the present study was to compare the effects of atenolol and metoprolol treatments on HRV during 6 weeks after AMI and to follow the post MI changes in HRV in patients on betablockers.",
+        "journal": "International journal of cardiology",
+        "year": "1997",
+        "authors": [
+          "Lurje L",
+          "Wennerblom B",
+          "Tygesen H",
+          "Karlsson T",
+          "Hjalmarson A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Autonomic Nervous System",
+          "Cross-Over Studies",
+          "Death, Sudden, Cardiac",
+          "Heart Rate",
+          "Humans",
+          "Metoprolol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9226286/"
+      },
+      {
+        "pmid": "2891461",
+        "title": "The pharmacokinetics of lignocaine and beta-adrenoceptor antagonists in patients with acute myocardial infarction.",
+        "abstract": "Lignocaine (lidocaine) and beta-adrenoceptor antagonists are widely used after acute myocardial infarction. The therapeutic value of these agents depends on the achievement and maintenance of safe and effective plasma concentrations. Lignocaine pharmacokinetics after acute myocardial infarction (MI) are controlled by a number of variables. The single most important is left ventricular function, which affects both volume of distribution and plasma clearance. Other major factors include bodyweight, age, hepatic function, the presence of obesity, and concomitant drug therapy. Lignocaine is extensively bound to alpha 1-acid glycoprotein, a plasma protein which is also an acute phase reactant. Increases in alpha 1-acid glycoprotein concentration occur after an acute MI, decreasing the free fraction of lignocaine in the plasma and consequently decreasing total plasma lignocaine clearance without altering the clearance of non-protein-bound lignocaine. Complex changes in lignocaine disposition",
+        "journal": "Clinical pharmacokinetics",
+        "year": "1987",
+        "authors": [
+          "Nattel S",
+          "Gagne G",
+          "Pineau M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Drug Interactions",
+          "Humans",
+          "Lidocaine",
+          "Myocardial Infarction",
+          "Orosomucoid",
+          "Solubility"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2891461/"
+      },
+      {
+        "pmid": "1688977",
+        "title": "Pharmacokinetic and pharmacodynamic properties of atenolol in acute myocardial infarction.",
+        "abstract": "A commonly used combined intravenous (i.v.) and oral dose regimen of atenolol was evaluated in 21 patients with acute myocardial infarction (MI). Atenolol 5-10 mg was administered i.v. and was followed by 50 mg twice daily during the first 24 h. Starting on the second day, 100 mg was administered as a single dose. Dose adjustments were made as necessary. The i.v. dose resulted in a rapid plasma peak concentration, but absorption of the first oral dose appeared to be delayed. The half-life (t1/2) was significantly prolonged on day 2 as compared with day 6, but the tmax, Cmax, and area under the curve (AUC) were all comparable to what has been reported in patients without MI. The change in heart rate (HR) or blood pressure (BP) was not related to the initial plasma level of atenolol. The interindividual variation was large, but most patients obtained plasma levels of atenolol which in studies of other diseases have been shown to be effective.",
+        "journal": "Journal of cardiovascular pharmacology",
+        "year": "1990",
+        "authors": [
+          "Held P",
+          "Regårdh C G",
+          "Swedberg K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Atenolol",
+          "Blood Pressure",
+          "Female",
+          "Half-Life",
+          "Heart Rate",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1688977/"
+      },
+      {
+        "pmid": "3421513",
+        "title": "Circulatory effects of intravenous and oral atenolol in acute myocardial infarction.",
+        "abstract": "The hemodynamic dose-response effects of intravenous (0.05 and 0.10 mg/kg) and oral (50 and 100 mg) atenolol were compared in a randomized between-group study of 24 men within seventeen hours of an acute uncomplicated myocardial infarction; 6 subjects were evaluated in each of the four groups. Hemodynamic variables were determined over a one-hour control period, following which the randomized dose of atenolol was administered and measurements repeated at 15 (intravenous therapy only), 30, 60, 90, 120, 180, 240, 300, and 360 minutes. The peak hemodynamic effect was similar and independent of either the dosage or route of administration. In all groups atenolol reduced heart rate and cardiac and stroke volume indices. The pulmonary artery occluded pressure and systemic vascular resistance index were transiently increased. Mean arterial pressure was significantly reduced only in the oral group with the highest pretreatment pressure. Maximum changes developed between fifteen and thirty minu",
+        "journal": "Angiology",
+        "year": "1988",
+        "authors": [
+          "Midtbø K",
+          "Silke B",
+          "Verma S P",
+          "Reynolds G W",
+          "Hafizullah M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Atenolol",
+          "Dose-Response Relationship, Drug",
+          "Hemodynamics",
+          "Humans",
+          "Injections, Intravenous",
+          "Male",
+          "Middle Aged",
+          "Myocardial Infarction",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3421513/"
+      },
+      {
+        "pmid": "10147474",
+        "title": "Metoprolol: a pharmacoeconomic and quality-of-life evaluation of its use in hypertension, post-myocardial infarction and dilated cardiomyopathy.",
+        "abstract": "Metoprolol is a beta 1-selective adrenoceptor antagonist that is widely used in several indications. A recent investigation has also highlighted a potential role for metoprolol in selected patients with idiopathic dilated cardiomyopathy. Pharmacoeconomic and quality-of-life data for metoprolol are limited to the areas of hypertension, post-myocardial infarction and idiopathic dilated cardiomyopathy. In these settings, metoprolol has shown beneficial effects on morbidity and mortality, or closely-related end-points. Controlled release formulations offer the potential to maximise the confirmed antihypertensive benefits of metoprolol by maintaining clinically effective plasma drug concentrations within a narrow range over a 24-hour interval between doses. Recent data support the use of controlled release metoprolol at the low dose of 50 mg/day. Metoprolol is at least as effective as many other antihypertensive drugs, although compared with thiazide diuretics at relatively high doses in th",
+        "journal": "PharmacoEconomics",
+        "year": "1994",
+        "authors": [
+          "Peters D H",
+          "Benfield P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cardiomyopathy, Dilated",
+          "Cost of Illness",
+          "Cost-Benefit Analysis",
+          "Economics, Pharmaceutical",
+          "Follow-Up Studies",
+          "Formularies as Topic",
+          "Humans",
+          "Hypertension",
+          "Metoprolol",
+          "Myocardial Infarction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10147474/"
+      },
+      {
+        "pmid": "2871805",
+        "title": "Use of beta adrenoceptor blockade during and after acute myocardial infarction.",
+        "abstract": "In the last year, two large randomized controlled trials of metoprolol (MIAMI, almost 6,000 patients) and atenolol (ISIS 1, over 16,000 patients) given intravenously within 12 hours of the onset of acute myocardial infarction reduced mortality by about 15% in low-risk subjects. The reduction was significant for atenolol (2P = 0.04) but not for metoprolol, probably because of the smaller size of that trial. The reduction in mortality in both trials was nearly all in the first 36 hours, a finding that reduced the fears that the treatment might produce irreversible failure, shock, or heart block. Tolerance in these relatively low-risk subjects (control mortality about 5%) was good. Inotropes were used in 1-2% more subjects in the beta-blocked group but were effective in reversing the side effects without increasing mortality. No clear subgroups (age, sex, site, time from onset, initial blood pressure or heart rate) were found in which treatment was more beneficial. In the ISIS study, pati",
+        "journal": "Annual review of medicine",
+        "year": "1986",
+        "authors": [
+          "Sleight P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Arrhythmias, Cardiac",
+          "Atenolol",
+          "Cardiotonic Agents",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Female",
+          "Fibrinolytic Agents",
+          "Heart Rupture",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2871805/"
+      },
+      {
+        "pmid": "9594263",
+        "title": "Secondary prevention of cardiac events following myocardial infarction: effects of atenolol and enalapril. Beijing Collaborative Study Group.",
+        "abstract": "To investigate the actions of beta-blocker (atenolol) and ACE inhibitor (enalapril) for the secondary prevention of the main cardiac complications after acute myocardial infarction (AMI).",
+        "journal": "Chinese medical journal",
+        "year": "1997",
+        "authors": [
+          "Wu N",
+          "Fan Z"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Antagonists",
+          "Aged",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Atenolol",
+          "Cardiac Output, Low",
+          "Death, Sudden, Cardiac",
+          "Enalapril",
+          "Follow-Up Studies",
+          "Humans",
+          "Myocardial Infarction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9594263/"
+      },
+      {
+        "pmid": "6105436",
+        "title": "Early intravenous atenolol treatment in suspected acute myocardial infarction. Preliminary report of a randomised trial.",
+        "abstract": "214 patients were studied in a randomised trial to determine whether administraiton of intravenous atenolol within 12 hours of chest pain reduced eventual infarct size, as estimated by cumulative enzyme release and by ECG changes. 135 patients already had ECG evidence of infarction at entry; 72 received atenolol which significantly decreased subsequent enzyme release (atenolol and control means = 121 IU, SE +/- 10 and 177 IU, SE +/- 17; 2p < 0.005) and enhanced R-wave preservation (atenolol and control means = 46% +/- 3 and 36% +/- 3; 2p < 0.02). 79 patients had no evidence of infarction at entry; 44 did not receive atenolol and 27 of these subsequently developed infarction, whereas only 11 of 35 treated patients infarcted during their hospital stay (2p < 0.01). In hospital, fewer atenolol patients died (4 vs 9), had non-fatal cardiac arrests (2 vs 6), or required therapy for heart-failure (36 vs 47). Unlike many previous trials which had negative results, in this trial we gave the dru",
+        "journal": "Lancet (London, England)",
+        "year": "1980",
+        "authors": [
+          "Yusuf S",
+          "Ramsdale D",
+          "Peto R",
+          "Furse L",
+          "Bennett D"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Atenolol",
+          "Clinical Enzyme Tests",
+          "Clinical Trials as Topic",
+          "Electrocardiography",
+          "Female",
+          "Humans",
+          "Injections, Intravenous",
+          "Myocardial Infarction",
+          "Propanolamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6105436/"
+      },
+      {
+        "pmid": "7802182",
+        "title": "Myocardial infarction in a parturient. A case report with emphasis on medication and management.",
+        "abstract": "Myocardial infarction is rare in pregnancy. We report a 38-year-old woman with a history of smoking and pre-eclampsia in her previous pregnancy, who suffered a non-Q infarction at 18 weeks of gestation. Stenoses in the left coronary artery were verified angiographically. She delivered a healthy child vaginally under epidural anaesthesia.",
+        "journal": "Anaesthesia",
+        "year": "1994",
+        "authors": [
+          "Söderlin M K",
+          "Purhonen S",
+          "Haring P",
+          "Hietakorpi S",
+          "Koski E"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aspirin",
+          "Atenolol",
+          "Delivery, Obstetric",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Myocardial Infarction",
+          "Pre-Eclampsia",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7802182/"
+      },
+      {
+        "pmid": "2580155",
+        "title": "Cardioselective beta-blockade with atenolol and acebutolol following acute myocardial infarction: a multiple-dose haemodynamic comparison.",
+        "abstract": "In patients with acute myocardial infarction the haemodynamic relevance of the ancillary pharmacological properties of cardioselectivity and of intrinsic sympathomimetic activity (ISA) possessed by beta-blocking drugs is unclear. The dose-response effects of atenolol and acebutolol, two cardioselective compounds, the latter also possessing a degree of ISA, were therefore compared in a single-blind, dose-response, crossover study in patients within 18 h of suffering an uncomplicated acute myocardial infarction. The logarithmic cumulative dosage schedule achieved plasma concentrations in the clinical therapeutic ranges for both atenolol (0.05 +/- 0.04-0.19 +/- 0.03 micrograms/ml) and acebutolol (0.22 +/- 0.14-0.8 +/- 0.29 micrograms/ml). Incremental doses of intravenous atenolol (cumulative, 1-8 mg) resulted in significant decreases in systolic blood pressure, heart rate, cardiac output, stroke volume, and stroke work index (p less than 0.01 for each). Pulmonary artery occluded pressure ",
+        "journal": "Journal of cardiovascular pharmacology",
+        "year": "1985",
+        "authors": [
+          "Frais M A",
+          "Silke B",
+          "Ahuja R C",
+          "Verma S P",
+          "Nelson G I"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acebutolol",
+          "Adult",
+          "Atenolol",
+          "Dose-Response Relationship, Drug",
+          "Hemodynamics",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Myocardial Infarction",
+          "Sympathomimetics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2580155/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:18:55.876406",
+  "success": true,
+  "error_message": null
+}

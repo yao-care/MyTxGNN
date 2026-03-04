@@ -1,0 +1,538 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "bronchitis",
+    "query_string": "Theophylline AND bronchitis"
+  },
+  "data": {
+    "query": "Theophylline AND bronchitis",
+    "results": [
+      {
+        "pmid": "21639960",
+        "title": "Copd.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "McIvor Robert Andrew",
+          "Tunks Marcel",
+          "Todd David Charles"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-Agonists",
+          "Humans",
+          "Muscle Strength",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Theophylline",
+          "alpha 1-Antitrypsin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21639960/"
+      },
+      {
+        "pmid": "19445783",
+        "title": "Copd.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+        "journal": "BMJ clinical evidence",
+        "year": "2008",
+        "authors": [
+          "Kerstjens Huib Am",
+          "Postma Dirkje S",
+          "Ten Hacken Nick"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-Agonists",
+          "Cholinergic Antagonists",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Smoking",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445783/"
+      },
+      {
+        "pmid": "10193688",
+        "title": "Moxifloxacin.",
+        "abstract": "Moxilloxacin is a new fluoroquinolone antibacterial agent with a broad spectrum of activity, encompassing gram-negative and gram-positive bacteria. It has improved activity against gram-positive species (including staphylococci, streptococci, enterococci) and anaerobes compared with ciprofloxacin. This is offset by slightly lower activity against pseudomonal species and Enterobacteriaceae. In common with other fluoroquinolones, moxifloxacin attains good penetration into respiratory tissues and fluids and its bioavailability is substantially reduced by coadministration with an antacid or iron preparation. However, moxifloxacin does not interact with theophylline or warfarin. In clinical trials in patients with community-acquired pneumococcal pneumonia (CAP), acute exacerbations of chronic bronchitis (AECB) or acute sinusitis, moxifloxacin 400 mg once daily achieved bacteriological and/or clinical success rates of approximately 90% or higher. Moxifloxacin was as effective as amoxicillin ",
+        "journal": "Drugs",
+        "year": "1999",
+        "authors": [
+          "Balfour J A",
+          "Wiseman L R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Area Under Curve",
+          "Aza Compounds",
+          "Bacterial Infections",
+          "Ciprofloxacin",
+          "Drug Interactions",
+          "Fluoroquinolones",
+          "Half-Life",
+          "Humans",
+          "Metabolic Clearance Rate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10193688/"
+      },
+      {
+        "pmid": "3297526",
+        "title": "Theophylline and mucociliary clearance.",
+        "abstract": "Abnormal mucociliary transport is improvement by the action of theophylline, and this effect can be attributed to several mechanisms. The drug may directly and indirectly mediate the increase in the secretory output of bronchial glands, and this effect is enhanced by the vagal gastropulmonary reflex which is stimulated by the irritant action of theophylline on the stomach. Theophylline can increase the transepithelial secretion of fluid into the respiratory tract lumen by stimulating the chloride pump which is controlled by cyclic AMP. Ciliary motility is stimulated by theophylline; most of this effect is confined to the proximal part of the respiratory tree. However, much of the improvement in mucociliary clearance may be a consequence of the bronchodilation induced by theophylline, since the improved airway patency is generally a prerequisite for enhanced mucokinesis. Nevertheless, the multiple sites of action of theophylline in the respiratory tract suggests that this drug should be",
+        "journal": "Chest",
+        "year": "1987",
+        "authors": [
+          "Ziment I"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aminophylline",
+          "Animals",
+          "Asthma",
+          "Bronchitis",
+          "Cilia",
+          "Clinical Trials as Topic",
+          "Dogs",
+          "Humans",
+          "Lung Diseases, Obstructive",
+          "Movement"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3297526/"
+      },
+      {
+        "pmid": "6136751",
+        "title": "Theophylline benefits and difficulties.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1983",
+        "authors": [],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asthma",
+          "Bronchitis",
+          "Child",
+          "Humans",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6136751/"
+      },
+      {
+        "pmid": "6435664",
+        "title": "The effects of theophylline and salbutamol on right and left ventricular function in chronic bronchitis and emphysema.",
+        "abstract": "We have compared the effects of oral theophylline and salbutamol on right and left ventricular function in twelve patients with chronic bronchitis and emphysema. Right and left ventricular ejection fraction (RVEF and LVEF) were measured using multiple gated radionuclide ventriculography. Theophylline 600 mg and salbutamol 4 mg both produced increases in RVEF and LVEF. There were no significant changes in blood gases after either drug. The clinical significance of the effects of oral bronchodilators on cardiac function in patients with chronic bronchitis and emphysema has yet to be determined.",
+        "journal": "British journal of diseases of the chest",
+        "year": "1984",
+        "authors": [
+          "Winter R J",
+          "Langford J A",
+          "George R J",
+          "Deacock S J",
+          "Rudd R M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Albuterol",
+          "Bronchitis",
+          "Carbon Dioxide",
+          "Cardiac Output",
+          "Chronic Disease",
+          "Heart",
+          "Heart Rate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6435664/"
+      },
+      {
+        "pmid": "3907108",
+        "title": "Canine chronic bronchitis.",
+        "abstract": "The diagnosis and management of the chronic bronchitis patient can be a challenging, but rewarding, task for the veterinarian. The normal respiratory defense mechanisms and the pathophysiologic responses to the pathologic changes are of dramatic importance in understanding the choices of therapy. The keys to successful management of the patient lie in correct assessment of the clinical features and diagnostic procedures and periodic reevaluation of the patient's response to therapy and age/environment-related progression of pathology. Lastly, the clinician must create a realistic attitude for the owner regarding chronically diseased patients.",
+        "journal": "The Veterinary clinics of North America. Small animal practice",
+        "year": "1985",
+        "authors": [
+          "Prueter J C",
+          "Sherding R G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Antitussive Agents",
+          "Bronchitis",
+          "Bronchodilator Agents",
+          "Chronic Disease",
+          "Dog Diseases",
+          "Dogs",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3907108/"
+      },
+      {
+        "pmid": "6439357",
+        "title": "Slow release theophyllines and chronic bronchitis.",
+        "abstract": "",
+        "journal": "British medical journal (Clinical research ed.)",
+        "year": "1984",
+        "authors": [
+          "Cochrane G M"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Albuterol",
+          "Bronchitis",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Respiratory Function Tests",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6439357/"
+      },
+      {
+        "pmid": "3907486",
+        "title": "Breathing during sleep.",
+        "abstract": "Hypoxaemia during the rapid eye movement phase of sleep is common in older healthy normal subjects over 55 years of age; the sleep apnoea syndromes--such as obstructive sleep apnoea, where oro-nasal airflow ceases for more than 10 seconds on many separate occasions throughout the night, due to failure of contraction of the genio-glossus muscle; \"blue and bloated\" patients with chronic bronchitis and emphysema, where profound nocturnal hypoxaemia is common in REM sleep, and is associated with further elevation of pulmonary arterial pressure; the overlap syndrome--where \"blue and bloated\" chronic bronchitis is associated with an obstructive sleep apnoea syndrome; and bronchial asthma, where hypoxaemia is associated with irregular breathing and possibly nocturnal bronchoconstriction. Although absolute recognition depends upon all night sleep studies, monitoring of ear oxygen saturation, breathing patterns, and EEG, the clinical features when awake can lead to suspicion of sleep hypoxaemia",
+        "journal": "Annals of the Academy of Medicine, Singapore",
+        "year": "1985",
+        "authors": [
+          "Flenley D C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Airway Obstruction",
+          "Asthma",
+          "Bronchitis",
+          "Chronic Disease",
+          "Female",
+          "Humans",
+          "Hypoxia",
+          "Male",
+          "Obesity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3907486/"
+      },
+      {
+        "pmid": "2885156",
+        "title": "Theophylline as a bronchodilator in COPD and its combination with inhaled beta-adrenergic drugs.",
+        "abstract": "The bronchodilating action of theophylline in COPD has been examined, with emphasis on its combined use with inhaled beta 2 agonists. The suggestion is made that failure to recognize the nonlinearity of the dose-response curves for bronchodilators has resulted in underestimating their combined action. Recent studies suggest that systemic theophylline has somewhat different actions on the airways in COPD than inhaled beta agonists, and that more bronchodilation may be possible when the two are used together than large doses of either one. By analogy, with asthma the suggestion is also made that the addition of theophylline is also likely to provide a more constant bronchodilation, reducing peak-trough variations in flow. The most complete clinical comparison to date suggests that, in currently sanctioned doses, a regimen containing both theophylline and an inhaled beta 2 agonist provides significantly greater bronchodilation than either drug alone, with fewer patient withdrawals. Furthe",
+        "journal": "Chest",
+        "year": "1987",
+        "authors": [
+          "Jenne J W"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Agonists",
+          "Albuterol",
+          "Animals",
+          "Asthma",
+          "Bronchi",
+          "Bronchitis",
+          "Clinical Trials as Topic",
+          "Culture Techniques",
+          "Dogs",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2885156/"
+      },
+      {
+        "pmid": "34173985",
+        "title": "Multidose pharmacokinetics and safety of a modified, compounded theophylline product in dogs.",
+        "abstract": "Theophylline is used in canine medicine for the management of chronic bronchitis and bradyarrhythmias, yet no species-validated commercial products are available. This study reports the single-dose and multidose pharmacokinetics and safety of a modified, compounded theophylline (MCT) product readily available from a well-established, USP-compliant compounding pharmacy, which may be a suitable and reliable source for theophylline for dogs. Eleven dogs underwent serial plasma theophylline measurement following 10 mg/kg MCT PO. After a 7 days washout, dogs received 10 mg/kg MCT PO q12h and serial plasma theophylline quantification was repeated after the ninth dose. Dogs were monitored for potential adverse effects. For the nine dogs that completed the study, plasma theophylline concentrations were between 5 and 30 μg/ml for 91 +/- 15% of the dosing interval. There was no significant difference in half-life between single-dose and multidose administration. The most common adverse effects r",
+        "journal": "Journal of veterinary pharmacology and therapeutics",
+        "year": "2021",
+        "authors": [
+          "Reinhart Jennifer M",
+          "Perkowski Claudia",
+          "Lester Courtney",
+          "Campos Valeria",
+          "Kadotani Saki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bronchitis, Chronic",
+          "Dog Diseases",
+          "Dogs",
+          "Half-Life",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34173985/"
+      },
+      {
+        "pmid": "19669108",
+        "title": "Cough due to asthma and nonasthmatic eosinophilic bronchitis.",
+        "abstract": "Asthma and nonasthmatic eosinophilic bronchitis are among the most common causes of chronic cough, accounting for about 25 and 10% of cases, respectively. Chronic cough due to asthma may present in isolation in which case it is known as cough-variant asthma. Nonasthmatic eosinophilic bronchitis is characterized by the presence of eosinophilic airway inflammation in the absence of variable airflow obstruction or airway hyperresponsiveness. Both conditions share many immunopathological features with the exceptions to date of mast cell infiltration into the airway smooth muscle, increased IL-13 expression, and narrowing and thickening of the airway wall, which are features reserved to asthma. In most cases the trigger that causes the cough is uncertain. However, removal of potential triggers is important to consider, in particular with respect to occupational exposure to known sensitisers. In both conditions there is subjective and objective improvement following treatment with inhaled co",
+        "journal": "Lung",
+        "year": "2010",
+        "authors": [
+          "Brightling Christopher E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Asthma",
+          "Bronchitis",
+          "Cough",
+          "Humans",
+          "Mast Cells",
+          "Pulmonary Eosinophilia",
+          "Sputum"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19669108/"
+      },
+      {
+        "pmid": "25878387",
+        "title": "Acebrophylline-induced angioedema.",
+        "abstract": "A 53-year-old woman visited her physician complaining of acute breathlessness and productive cough. Her medications included budesonide and formoterol for asthma, fixed-dose combination aspirin 150 mg + clopidogrel 75 mg + atorvastatin 20 mg for ischemic heart disease. History revealed that she had allergic rhinitis and was hypersensitive to penicillins. The patient was prescribed acebrophylline (ABP). Six hours after ABP therapy she presented with generalized urticarial lesions, swelling of hands, feet, lips and face, suggestive of angioedema. ABP was stopped immediately, and the patient was treated symptomatically. This case was categorized as probable as per standard causality assessment scale.",
+        "journal": "Indian journal of pharmacology",
+        "year": "2015",
+        "authors": [
+          "Kuriachan Sanitha",
+          "Amberkar Mohan Babu V",
+          "Mohan Manu K",
+          "Shahul Hameed Aboobackar",
+          "Kishore Meenakumari Kamal"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Ambroxol",
+          "Angioedema",
+          "Asthma",
+          "Bronchitis",
+          "Bronchodilator Agents",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Theophylline",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25878387/"
+      },
+      {
+        "pmid": "3891201",
+        "title": "Management of bronchiolitis.",
+        "abstract": "The incidence, etiology, epidemiology, clinical presentation, treatment, prognosis, and prevention of bronchiolitis are discussed with a critical evaluation of the available studies on various therapeutic approaches. Bronchiolitis is a lower respiratory-tract viral infection that affects 6-10% of all children below two years of age. Respiratory syncytial virus (RSV) is the usual pathogen. The symptoms range from mild wheezing to severe respiratory distress. An infected child usually has a fever, a rapid pulse, an increased breathing rate, and difficulty in breathing. Because most of the infants hospitalized with bronchiolitis have hypoxemia, the administration of oxygen is the mainstay of therapy. Correct fluid therapy is essential to avoid dehydration and overhydration. Limited data are available on the use of drugs in the management of bronchiolitis. Although a variety of adrenergic drugs, theophylline, and corticosteroids are used, sound efficacy data are lacking, and most studies h",
+        "journal": "Clinical pharmacy",
+        "year": "1985",
+        "authors": [
+          "Nahata M C",
+          "Johnson J A",
+          "Powell D A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Anti-Infective Agents",
+          "Bronchiolitis, Viral",
+          "Bronchodilator Agents",
+          "Child, Preschool",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Oxygen Inhalation Therapy",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3891201/"
+      },
+      {
+        "pmid": "19555716",
+        "title": "Inflammatory mechanisms and treatment of obstructive airway diseases with neutrophilic bronchitis.",
+        "abstract": "Obstructive airway diseases such as asthma and chronic obstructive pulmonary disease (COPD) are major global health issues. Although considered as distinct diseases, airway inflammation is a key underlying pathophysiological process in asthma, COPD and bronchiectasis. Persistent neutrophilic airway inflammation (neutrophilic bronchitis) occurs with innate immune activation and is a feature of each of these airway diseases. Little is known about the mechanisms leading to neutrophilic bronchitis and few treatments are effective in reducing neutrophil accumulation in the airways. There is a similar pattern of inflammatory mediator release and toll like receptor 2 expression in asthma, COPD and bronchiectasis. We propose the existence of an active amplification mechanism, an effector arm of the innate immune system, involving toll like receptor 2, operating in persistent neutrophilic bronchitis. Neutrophil persistence in the airways can occur through a number of mechanisms such as impaired",
+        "journal": "Pharmacology & therapeutics",
+        "year": "2009",
+        "authors": [
+          "Simpson Jodie L",
+          "Phipps Simon",
+          "Gibson Peter G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Bronchitis",
+          "Cost of Illness",
+          "Humans",
+          "Immunity, Innate",
+          "Mucus",
+          "Neutrophil Activation",
+          "Neutrophils",
+          "Phagocytosis",
+          "Pulmonary Disease, Chronic Obstructive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19555716/"
+      },
+      {
+        "pmid": "2750638",
+        "title": "Theophylline in serum and in bronchoalveolar lavage (BAL) in atopic bronchial asthma and chronic bronchitis.",
+        "abstract": "To evaluate the penetration of theophylline into the airways its concentration (Theo-Dur, Astra, Sweden) was determined in BAL and in serum in 20 patients with atopic bronchial asthma, 24 patients with chronic bronchitis and 5 smokers as controls. The results were statistically analyzed. Slow-release theophylline in Theo-Dur was well tolerated. The mean concentrations of theophylline in BAL and serum in all analyzed groups were similar, but theophylline concentration in BAL was 1/3 of serum value. Moreover, the low correlation between concentrations of theophylline in BAL and serum was detected. The calculation of theophylline values in relation to total protein or albumin is not recommended.",
+        "journal": "Allergologia et immunopathologia",
+        "year": "1989",
+        "authors": [
+          "Plusa T",
+          "Józefczak E",
+          "Raczka A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Asthma",
+          "Bronchitis",
+          "Bronchoalveolar Lavage Fluid",
+          "Chronic Disease",
+          "Delayed-Action Preparations",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2750638/"
+      },
+      {
+        "pmid": "14159587",
+        "title": "CHRONIC BRONCHITIS AND EMPHYSEMA.",
+        "abstract": "",
+        "journal": "Modern treatment",
+        "year": "1964",
+        "authors": [
+          "DESPREZ R M",
+          "MUSCHENHEIM C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Air Pollution",
+          "Aminophylline",
+          "Anti-Bacterial Agents",
+          "Body Weight",
+          "Bronchitis",
+          "Bronchitis, Chronic",
+          "Bronchodilator Agents",
+          "Central Nervous System Stimulants",
+          "Chymotrypsin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14159587/"
+      },
+      {
+        "pmid": "4003919",
+        "title": "The efficacy of orally administered theophylline, inhaled salbutamol, and a combination of the two as chronic therapy in the management of chronic bronchitis with reversible air-flow obstruction.",
+        "abstract": "The efficacy of bronchodilator therapy was assessed in the long-term management of patients with chronic bronchitis and varying degrees of reversible air-flow obstruction. Twenty-five patients with a mean forced expiratory volume in one second (FEV1) 38.7% predicted received: optimized doses of orally administered, sustained-release theophylline, inhaled salbutamol (200 micrograms 4 times a day), a combination of the 2 drugs, and identical placebo therapy for periods of 3 wk in a randomized, double-blind, crossover trial. Patients who deteriorated during treatment were assessed immediately and designated \"treatment failures\" if additional therapy proved necessary. Such \"failures\" occurred in 9 patients with placebo, in 8 with salbutamol, in 6 with theophylline, and in only 1 with combined therapy. Using a ranking system based on \"treatment failures\" and mean daily peak flow rates, first preference was given to combined therapy in 13 patients, theophylline in 6, salbutamol in 4, and pla",
+        "journal": "The American review of respiratory disease",
+        "year": "1985",
+        "authors": [
+          "Taylor D R",
+          "Buick B",
+          "Kinney C",
+          "Lowry R C",
+          "McDevitt D G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aerosols",
+          "Aged",
+          "Albuterol",
+          "Bronchitis",
+          "Delayed-Action Preparations",
+          "Drug Therapy, Combination",
+          "Female",
+          "Humans",
+          "Lung Diseases, Obstructive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4003919/"
+      },
+      {
+        "pmid": "23563369",
+        "title": "Chronic obstructive pulmonary disease.",
+        "abstract": "The global prevalence of physiologically defined chronic obstructive pulmonary disease (COPD) in adults aged >40 yr is approximately 9-10 per cent. Recently, the Indian Study on Epidemiology of Asthma, Respiratory Symptoms and Chronic Bronchitis in Adults had shown that the overall prevalence of chronic bronchitis in adults >35 yr is 3.49 per cent. The development of COPD is multifactorial and the risk factors of COPD include genetic and environmental factors. Pathological changes in COPD are observed in central airways, small airways and alveolar space. The proposed pathogenesis of COPD includes proteinase-antiproteinase hypothesis, immunological mechanisms, oxidant-antioxidant balance, systemic inflammation, apoptosis and ineffective repair. Airflow limitation in COPD is defined as a postbronchodilator FEV1 (forced expiratory volume in 1 sec) to FVC (forced vital capacity) ratio <0.70. COPD is characterized by an accelerated decline in FEV1. Co morbidities associated with COPD are ca",
+        "journal": "The Indian journal of medical research",
+        "year": "2013",
+        "authors": [
+          "Vijayan V K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Air Pollution",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Comorbidity",
+          "Humans",
+          "India",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23563369/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:59:41.404168",
+  "success": true,
+  "error_message": null
+}

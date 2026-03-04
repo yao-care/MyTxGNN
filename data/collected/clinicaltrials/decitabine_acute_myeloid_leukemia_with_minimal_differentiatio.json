@@ -1,0 +1,70 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Decitabine",
+    "disease": "acute myeloid leukemia with minimal differentiation"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02785900",
+      "title": "A Randomized, Double-blind Phase 3 Study of Vadastuximab Talirine (SGN-CD33A) Versus Placebo in Combination With Azacitidine or Decitabine in the Treatment of Older Patients With Newly Diagnosed Acute Myeloid Leukemia (AML)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2016-05",
+      "completion_date": "2017-10-03",
+      "country": "Israel, South Korea, France, Spain, Czechia, Taiwan, Austria, Hungary, Italy, Germany, Australia, United Kingdom, Poland, Luxembourg, Belgium, United States",
+      "enrollment": 240,
+      "brief_summary": "The purpose of this study in AML patients is to test whether vadastuximab talirine (SGN-CD33A; 33A) combined with either azacitidine or decitabine improves remission rates and extends overall survival as compared to placebo combined with either azacitidine or decitabine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed, previously untreated, cytologically/histologically confirmed de novo or secondary AML according to World Health Organization (WHO) classification (except for acute promyelocytic leukemia (APL))\n* Intermediate or adverse cytogenetic risk\n* Eligible for therapy ",
+      "endpoints": [
+        "Overall Survival",
+        "Composite Complete Remission (CRc) Rate"
+      ],
+      "sponsor": "Seagen Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02785900"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03701295",
+      "title": "A Phase Ib/II Study of the Histone Methyltransferase Inhibitor Pinometostat in Combination With Azacitidine in Patients With 11q23-Rearranged Acute Myeloid Leukemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-03-06",
+      "completion_date": "2021-01-12",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "This phase Ib/II trial studies the side effects and best dose of pinometostat when given together with azacitidine and to see how well it works in treating patients with acute myeloid leukemia that has come back (relapsed), does not respond to treatment (refractory), or is newly diagnosed, with an 11q23 rearrangement. Pinometostat and azacitidine may stop the growth of cancer cells by blocking some of the enzymes needed for cell growth.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed acute myeloid leukemia\n* Patients must have an 11q23 translocation or partial tandem duplication, confirmed by cytogenetics, fluorescence in situ hybridization (FISH), or myeloid panel. Both de novo and therapy-relat",
+      "endpoints": [
+        "Incidence of Dose-limiting Toxicities (DLTs) (Phase Ib)",
+        "Response Rate (Phase II)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT03701295"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07283094",
+      "title": "FHD-286 With Low-Dose Weekly Decitabine/Venetoclax in Patients With Acute Myeloid Leukemia",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2026-02-03",
+      "completion_date": "2030-02",
+      "country": "United States",
+      "enrollment": 33,
+      "brief_summary": "This is a Phase 1, uncontrolled, single-arm, open-label, nonrandomized, dose escalation, study of Decitabine (DAC)+Venetoclax (VEN)+FHD-286 in participants with newly diagnosed Acute Myeloid Leukemia (AML) classified as adverse risk per the 2022 European Leukemia Net (ELN) criteria or AML that has progressed after one prior line of therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Newly diagnosed adverse risk AML, including Myelodysplastic Syndrome/Acute Myeloid Leukemia (MDS/AML), per the 2022 ELN criteria, with a histopathologic diagnosis confirmed by hematopathology review OR AML that has progressed after 1 prior line of therapy with ≥5% blasts\n\n   ",
+      "endpoints": [
+        "Dose-limiting toxicities (DLTs)",
+        "Frequency and severity of the adverse event of special interest (AESI)",
+        "Percentage of participants who are able to continue treatment"
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT07283094"
+    }
+  ],
+  "timestamp": "2026-03-04T16:14:29.839405",
+  "success": true,
+  "error_message": null
+}

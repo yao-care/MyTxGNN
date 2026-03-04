@@ -1,0 +1,965 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Calcium Chloride",
+    "disease": "phosphorus metabolism disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03001011",
+      "title": "A Randomized, Double Blind, Parallel Group Study For Assessing The Efficacy And Safety Of Renvela® Tablets For The Treatment Of Hyperphosphatemia In Patients With Chronic Kidney Disease Not On Dialysis Versus Placebo",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-06-07",
+      "completion_date": "2019-08-16",
+      "country": "China",
+      "enrollment": 202,
+      "brief_summary": "Primary Objective:\n\nTo demonstrate efficacy of Renvela tablets in the reduction of serum phosphorus in hyperphosphatemia in participants with chronic kidney disease not on dialysis.\n\nSecondary Objectives:\n\nTo document the efficacy of Renvela tablets in the reduction of serum lipids (total cholesterol and low-density lipoprotein cholesterol \\[LDL-C\\]).\n\nTo document the efficacy of Renvela tablets in the reduction of calcium-phosphorus product.\n\nTo document the efficacy of Renvela tablets in the r",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participants with chronic kidney disease who had not been on dialysis, and were not expected to begin dialysis, or renal transplantation in the next 4 months from the screening visit.\n* Had serum phosphorus measurement greater than or equal to (\\>=) 5.5 mg/dL (1.78 mmol/L) at ",
+      "endpoints": [
+        "Change From Baseline in Serum Phosphorus at Week 8"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT03001011"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05651620",
+      "title": "Legacy Effects of CALERIE™, a 2-year Calorie Restriction Intervention, on Hallmarks of Healthspan and Aging",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-04-06",
+      "completion_date": "2027-01-31",
+      "country": "United States",
+      "enrollment": 216,
+      "brief_summary": "The purpose of the CALERIE Legacy Study is to follow up on the health and wellness of participants from phase 2 of the Comprehensive Assessment of Long-term Effects of Reducing Intake of Energy (CALERIE) trial, which was conducted from 2007 to 2011.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Enrolled in the CALERIE trial and started their allocated group (CR intervention or ad libitum control condition)\n* Willing and able to attend one of the clinical sites for an in-person visit and provide informed consent\n\nExclusion Criteria:\n\n* Pregnant women\n* Women less than",
+      "endpoints": [
+        "Biological age - Klemera-Doubal Method",
+        "Healthspan"
+      ],
+      "sponsor": "Tufts University",
+      "url": "https://clinicaltrials.gov/study/NCT05651620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01426750",
+      "title": "Enteral Nutrition Support in Children and Adolescents With Cancer: a Non-randomized Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2002-06",
+      "completion_date": "2006-06",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "CONTEXT AND OBJECTIVE: Tumor and its therapy have adverse effects on the nutritional status of cancer patients, leading to nutritional support. The aim was to study enteral nutrition indications, as well as its compliance and the impact on nutritional status.\n\nDESIGN AND SETTING: Clinical trial, IOP, Unifesp-EPM. METHODS: Patients older than 1 year followed during anticancer therapy were included from January 2002 to January 2004. They received industrialized oral supplementation - Nutren 1.0 or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Were chemotherapy, age above one year and malnutrition\n* A z-score of weight for height (zW/H) \\< -1.0 to -2.0 in children26 and ≥ 5th to \\< 15th of body mass index (BMI) in adolescents 27 were considered as mild malnutrition\n* A zW/H \\< -2.0 in children and \\< 5th of BMI in a",
+      "endpoints": [],
+      "sponsor": "Grupo de Apoio ao Adolescente e a Crianca com Cancer",
+      "url": "https://clinicaltrials.gov/study/NCT01426750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05981365",
+      "title": "A Phase 1, Open-Label, Two-Part, Fixed-Sequence, Drug-Drug Interaction Study to Evaluate the Effect of Voxelotor on the Pharmacokinetics of Selected CYP and Transporter Probe Substrates in Healthy Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2023-04-17",
+      "completion_date": "2023-10-04",
+      "country": "United States",
+      "enrollment": 44,
+      "brief_summary": "This research study is examining multiple doses of voxelotor (a study drug intended for treatment of sickle cell disease) and how it interacts with additional substrates (substrates are drugs or other substances that are metabolized by cytochrome enzymes. The substrates used in this study are FDA approved medications). The study will help to determine the safety and tolerability of the study drugs taken together, as well as the pharmacokinetics (PK) on how your body processes and responds to the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Males or females ≥ 18 and ≤ 55 years of age inclusive, at the time of signing the informed consent.\n\n  2\\. No clinically significant findings as assessed by review of medical and surgical history, vital signs assessments, 12-lead electrocardiograms (ECG), physical examinat",
+      "endpoints": [
+        "Part A: Maximum Observed Plasma Concentration (Cmax) for Bupropion",
+        "Part A: Cmax for Repaglinide",
+        "Part A: Cmax for Flurbiprofen"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT05981365"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01525238",
+      "title": "A Randomized, Multi-Center, Parallel Group, Single-Dose, Pharmacokinetics and Pharmacodynamics Study of Dapagliflozin in Children and Adolescents Aged 10 to 17 Years With Type 2 Diabetes Mellitus",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-07-01",
+      "completion_date": "2014-09-01",
+      "country": "Mexico, United States",
+      "enrollment": 53,
+      "brief_summary": "The primary purpose of this study is to evaluate the pharmacokinetics (PK) of Dapagliflozin in pediatric subjects with type 2 diabetes mellitus (T2DM)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of T2DM\n* Male and female subjects ages 10-17\n* Glycosylated Hemoglobin A1c (HbA1c) ≥6 to 10%\n* Body weight ≥30 kg\n\nExclusion Criteria:\n\n* Fasting plasma glucose (FPG) \\>240 mg/dL at screening\n* Abnormal renal function\n* Active liver disease and/or significa",
+      "endpoints": [
+        "Geometric Mean of Maximum Observed Plasma Concentration (Cmax) of Dapagliflozin",
+        "Median Time of Maximum Observed Plasma Concentration (Tmax) of Dapagliflozin",
+        "Geometric Mean of Area Under the Plasma Concentration-time Curve From Time Zero Extrapolated to Infinite Time [AUC(INF)] of Dapagliflozin"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT01525238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06614413",
+      "title": "Randomized Controlled Clinical Trial: Dietetic-nutritional Intervention Based on the Mediterranean Diet During Pregnancy and the First Two Years, First Thousand Days, for the Improvement of Neurological Development",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-10-01",
+      "completion_date": "2029-02",
+      "country": "N/A",
+      "enrollment": 534,
+      "brief_summary": "The main objective is to evaluate the effect of the Mediterranean diet during pregnancy and the first two years of the child\\&amp;amp;amp;#39;s life on the child\\&amp;amp;amp;#39;s neurodevelopment and behavior (externalizing and internalizing disorders) measured at one and a half and two years. Secondary objectives are to evaluate the effect of the Mediterranean diet on: body composition at two years of age in infants (densitometry) and of the mother at 3 months postpartum, the incidence of all",
+      "eligibility_criteria": "1. Inclusion Criteria:\n\n   a. Fluency in the Spanish language, singleton pregnancy\n2. Exclusion Criteria:\n\n   1. Children conceived with assisted reproduction techniques\n   2. Fetal anomalies and congenital infections\n   3. Neonatal anomalies diagnosed after birth\n   4. Intellectual development diso",
+      "endpoints": [
+        "Neurodevelopmental assessment an behavior at 2 years old"
+      ],
+      "sponsor": "Hospital Universitario La Paz",
+      "url": "https://clinicaltrials.gov/study/NCT06614413"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05369013",
+      "title": "Study and Follow-up of the Clinical Effectiveness and Comparative Safety of Biosimilar Teriparatide in the Management of Postmenopausal or Senile (ESECTO)",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2021-06-15",
+      "completion_date": "2024-04-14",
+      "country": "Spain",
+      "enrollment": 188,
+      "brief_summary": "Non-interventional observational prospective follow-up study of cohorts of patients with Previous diagnosis of Osteoporosis with high risk of fractures, with/without previous fractures and treatment with bone formers (biosimilar or original Teriparatide), who meet all the inclusion criteria and exclusion, with prior information and signing of prior informed consent documents.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signing the Informed Consent Men or women of legal age who have completed somatic growth.\n* Previous diagnosis of densitometric osteoporosis in any location (densitometry with DEXA diagnosis within 6 months prior to start of treatment) or previous diagnosis of established oste",
+      "endpoints": [
+        "Effectiveness for patients treatment with original"
+      ],
+      "sponsor": "STADA, Spain",
+      "url": "https://clinicaltrials.gov/study/NCT05369013"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00533897",
+      "title": "A Phase IIIb, Multi-Center, Randomized, Withdrawal Study to Evaluate the Immunogenicity and Safety of Subcutaneous Administered Abatacept in Adults With Active Rheumatoid Arthritis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-11",
+      "completion_date": "2014-02",
+      "country": "Mexico, South Africa, Canada, Argentina, United States",
+      "enrollment": 270,
+      "brief_summary": "The purpose of the study is to determine whether subcutaneous abatacept administered to patients with rheumatoid arthritis is associated with increased immunogenicity or increased safety events upon withdrawal and reintroduction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Rheumatoid Arthritis\n* Disease Activity Score (DAS)28-C-Reactive Protein (CRP) score ≥ 3.2 and ≤5.1\n* On background methotrexate at least 3 months (≥10mg weekly)\n* Must be able to self injection or allow a care giver to do it for them\n* Discontinue all Bi",
+      "endpoints": [
+        "Double-blind Withdrawal (DBW) Period; Percentage of Participants With Positive Anti-Abatacept or Anti-Cytotoxic T-Lymphocyte Antigen 4 (CTLA4) Antibody Responses by Enzyme-Linked Immunosorbent Assay (ELISA) at Day 169",
+        "Re-introduction (RI) Period; Percentage of Participants With Positive Anti-Abatacept or Anti-CTLA4 Antibody Responses by ELISA at Day 253, by DBW Period Groups"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00533897"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01302509",
+      "title": "Enteral Nutrition Support in Children and Adolescents With Cancer: a Non-randomized Controlled Clinical Trial.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "CONTEXT AND OBJECTIVE: Tumor and its therapy have adverse effects on the nutritional status of cancer patients, leading to nutritional support. The aim was to study enteral nutrition indications, as well as its compliance and the impact on nutritional status.\n\nDESIGN AND SETTING: Clinical trial, IOP, Unifesp-EPM. METHODS: Patients older than 1 year followed during anticancer therapy were included from January 2002 to January 2004. They received industrialized oral supplementation - Nutren 1.0 or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Were chemotherapy, age above one year and malnutrition. A z-score of weight for height (zW/H) \\< -1.0 to -2.0 in children26 and ≥ 5th to \\< 15th of body mass index (BMI) in adolescents27 were considered as mild malnutrition; and a zW/H \\< -2.0 in children and \\< 5th of BMI in ",
+      "endpoints": [],
+      "sponsor": "Grupo de Apoio ao Adolescente e a Crianca com Cancer",
+      "url": "https://clinicaltrials.gov/study/NCT01302509"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06815978",
+      "title": "Validation of ESPEN-EASO Algorithm for the Diagnosis of Sarcopenic Obesity (SO)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2024-05-24",
+      "completion_date": "2027-03-01",
+      "country": "Italy",
+      "enrollment": 150,
+      "brief_summary": "The proposed research project aims to investigate sarcopenic obesity (SO), a condition characterized by the combination of high body fat and low skeletal muscle mass, with a focus on muscle function. SO has been defined according to the ESPEN-EASO algorithm, and this study aims to evaluate its validity, exploring associations with circulating biomarkers and functional outcomes. By enrolling 75 subjects with SO and a control sample of 75 subjects with non-sarcopenic obesity, the primary objective",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI equal more than 30\n* Caucasians\n\nExclusion Criteria:\n\n* any disease or medication that can significantly affect body composition (eg.malignant diseases in the last 5 years, autoimmune diseases, neurological diseases, syndromic obesity),\n* level of physical activity more th",
+      "endpoints": [
+        "Association between diagnostic criteria for Sarcopenic Obesity and hemochrome in Odd Ratios as assessed by Multivariate analysis",
+        "Association between diagnostic criteria for Sarcopenic Obesity and ferritin in Odd Ratios as assessed by Multivariate analysis",
+        "Association between diagnostic criteria for Sarcopenic Obesity and transferrin in Odd Ratios as assessed by Multivariate analysis"
+      ],
+      "sponsor": "University of Roma La Sapienza",
+      "url": "https://clinicaltrials.gov/study/NCT06815978"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00220337",
+      "title": "A Multicenter, Open-label Trial to Assess the Long-term Safety and Efficacy of Lacosamide in Subjects With Painful Diabetic Neuropathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-12-21",
+      "completion_date": "2007-10-31",
+      "country": "Germany",
+      "enrollment": 371,
+      "brief_summary": "The purpose of this study is to determine if lacosamide (SPM 927) is safe if taken for a longer period of time and whether it continues to work well to treat pain.\n\nSubjects will receive lacosamide at a dose that will be individually determined to be the one that provides most pain relief with the least side effects. The maximum dose will be 600mg/day. Subjects may participate in this trial until October 2007. This time may be extended to allow them to participate until lacosamide is commerciall",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion Criteria:\n\n* Painful diabetic neuropathy\n\nExclusion Criteria:\n\n* no clinically relevant liver enzyme abnormalities and impaired renal function, no cardiac abnormalities, no pregnant or nursing females\n\nExclusion Criteria:",
+      "endpoints": [
+        "Percentage of Subjects With Adverse Events (AE) Reported Spontaneously by the Subject or Observed by the Investigator",
+        "Percentage of Subjects With Marked Abnormalities in Hematology Parameters After Start of Treatment During the Titration Period",
+        "Percentage of Subjects With Marked Abnormalities in Hematology Parameters After Start of Treatment During the Maintenance Period"
+      ],
+      "sponsor": "UCB Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00220337"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01304446",
+      "title": "Enteral Nutrition Support in Children and Adolescents With Cancer: a Non-randomized Controlled Clinical Trial",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": "N/A",
+      "brief_summary": "CONTEXT AND OBJECTIVE: Tumor and its therapy have adverse effects on the nutritional status of cancer patients, leading to nutritional support. The aim was to study enteral nutrition indications, as well as its compliance and the impact on nutritional status.\n\nDESIGN AND SETTING: Clinical trial, IOP, Unifesp-EPM.\n\nMETHODS: Patients older than 1 year followed during anticancer therapy were included from January 2002 to January 2004. They received industrialized oral supplementation - Nutren 1.0 o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Were on chemotherapy;\n* Age above one year;\n* Malnutrition;\n* A z-score of weight for height (zW/H) \\< -1.0 to -2.0 in children and ≥ 5th to \\< 15th of body mass index (BMI) in adolescents were considered as mild malnutrition;\n* A zW/H \\< -2.0 in children and \\< 5th of BMI in ",
+      "endpoints": [],
+      "sponsor": "Grupo de Apoio ao Adolescente e a Crianca com Cancer",
+      "url": "https://clinicaltrials.gov/study/NCT01304446"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04040621",
+      "title": "A PHASE 1, OPEN-LABEL, SINGLE-DOSE STUDY TO ASSESS THE PHARMACOKINETICS, SAFETY AND TOLERABILITY OF CEFTAZIDIME-AVIBACTAM (CAZ-AVI) IN CHILDREN FROM 3 MONTHS TO LESS THAN 18 YEARS OF AGE WHO ARE HOSPITALIZED AND RECEIVING SYSTEMIC ANTIBIOTIC THERAPY FOR SUSPECTED OR CONFIRMED NOSOCOMIAL PNEUMONIA, INCLUDING VENTILATOR-ASSOCIATED PNEUMONIA",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2020-06-15",
+      "completion_date": "2021-05-07",
+      "country": "Taiwan, China",
+      "enrollment": 4,
+      "brief_summary": "This is a multicenter, multinational, open label single dose pharmacokinetic (PK) study enrolling at least 32 subjects. The study aims to characterize the pharmacokinetics (PK) of a single intravenous dose of CAZ AVI in pediatric subjects aged 3 months to less than 18 years who are receiving systemic antibiotic therapy for suspected or confirmed nosocomial pneumonia, including ventilator associated pneumonia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must meet all of the following inclusion criteria to be eligible for enrollment into the study:\n\n1. Evidence of a personally signed and dated informed consent document indicating that the subject's parent(s), legal guardian, or legally acceptable representative has been",
+      "endpoints": [
+        "Plasma Concentration Time Summary for Ceftazidime and Avibactam",
+        "Area Under the Plasma Concentration-Time Profile From Time 0 to 8 Hours (AUC0-8 Hours)",
+        "Area Under the Curve From Time Zero to Extrapolated Infinite Time of CAZ-AVI (AUCinf)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT04040621"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02332798",
+      "title": "A Randomized, Double-blind, Placebo Controlled, Sponsor Open, Parallel Group Phase 1b Study To Examine The Safety, Tolerability And Pharmacokinetics Of Multiple Ascending Doses Of Pf-04958242 In Subjects With Stable Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-01-06",
+      "completion_date": "2015-04-15",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "This study aims to assess the safety, tolerability and pharmacokinetics of PF-04958242 in multiple ascending doses in subjects with stable schizophrenia.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Psychiatrically stable (≥3 months) male and female subjects with schizophrenia of non-childbearing potential between the ages of 18 and 55 years, inclusive.\n* Body Mass Index (BMI) of 17.5 to 30.5 kg/m2; and a total body weight \\>55 kg (121 lbs).\n* DSM-IV Diagnosis of Schi",
+      "endpoints": [
+        "Maximum Observed Plasma Concentration (Cmax) (Single Dose)",
+        "Cmax (Steady State)",
+        "Time for Cmax (Tmax) (Single Dose)"
+      ],
+      "sponsor": "Biogen",
+      "url": "https://clinicaltrials.gov/study/NCT02332798"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00935012",
+      "title": "Open-Label Safety And Efficacy Evaluation Of Fx-1006a In Patients With V122i Or Wild-Type Transthyretin (TTR) Amyloid Cardiomyopathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-09-30",
+      "completion_date": "2019-11-20",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "Open-label Safety and Efficacy Evaluation of Fx-1006a in Patients with V122i Or Wild-type Transthyretin (ttr) Amyloid Cardiomyopathy.\n\nPatients who successfully complete Fx1B-201 will report to the clinical unit on Day 0 to sign the informed consent form and determine eligibility for Protocol Fx1B-303. In addition, on Day 0, patients will have their entrance criteria reviewed, and medical histories and demographic characteristics obtained.\n\nThe physical examination (including weight and vital si",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient successfully completed Protocol Fx1B-201.\n* If female; patient is post menopausal. If male, female partner is post-menopausal. If female is of child bearing potential, willing to use acceptable method of birth control up to 3 months after last dose (included female par",
+      "endpoints": [
+        "Percentage of Participants With Categories of Patient Global Assessment (PGA) for Follow-up Visit: Month 12",
+        "Percentage of Participants With Categories of Patient Global Assessment (PGA) for Follow-up Visit: Month 60",
+        "Number of Participants Classified on the Basis of New York Heart Association (NYHA) Classification at Baseline"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00935012"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03462121",
+      "title": "A 6-Month, Double-Blind, Phase 2 Study and 6-Month Open- Label Extension Evaluating the Safety, Tolerability, and Clinical Benefit of RPh201 in Individuals With Alzheimer's Disease With or Without Coexisting Cerebrovascular Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-03-01",
+      "completion_date": "2020-03-30",
+      "country": "Canada",
+      "enrollment": 83,
+      "brief_summary": "This study is a randomized, double-blind, placebo-controlled, multicentre, Phase 2 study, with an optional open-label extension, to evaluate the safety, tolerability, and efficacy of RPh201 in subjects with mild to moderate AD who are eligible for enrollment in this study.\n\nSubject participation will include a Screening Phase, Treatment Phase, and an Optional Open-Label Extension. The Screening Phase will be up to 4 weeks prior to randomization. Both the subject and their study partner(s) will s",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be ≥65 years of age at the time of consent.\n* Subjects 65-69 years old, inclusive, must have evidence of cerebrovascular disease.\n* Meet National Institute on Aging-Alzheimer's Association 2011 criteria for All-Cause Dementia and have evidence for probable AD or ",
+      "endpoints": [
+        "Change in (Alzheimer disease assessment scale) ADAS-Cog score between Baseline and Month 6",
+        "Change in CDR-SB score between Baseline and Month 6",
+        "AEs at Month 6"
+      ],
+      "sponsor": "Regenera Pharma Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT03462121"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01587898",
+      "title": "A Four-week Phase IIa, Randomized, Double-blind, Placebo-controlled, Parallel-group, Multi-center Study to Evaluate the Safety, Efficacy and Pharmacokinetics of GSK1278863 in Subjects With Anemia Associated With Chronic Kidney Disease Who Are Not Taking Recombinant Human Erythropoietin and Are Not Undergoing Dialysis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-05-17",
+      "completion_date": "2013-05-07",
+      "country": "Germany, Canada, United States",
+      "enrollment": 72,
+      "brief_summary": "This is a four-week Phase IIa, randomized, double-blind, placebo-controlled, parallel-group, multi-center study to evaluate the safety, efficacy and pharmacokinetics of GSK1278863 in approximately 68 subjects with anemia associated with chronic kidney disease who are not taking rhEPO and are not undergoing dialysis. The range of Hgb values for study eligibility is 8.5-11.0 g/dL. Eligible subjects will be randomized in equal proportions to receive once daily (QD) placebo or GSK1278863 0.5 mg, 2 m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age and weight: \\>/= 18 years of age and \\>/= 45 kg.\n2. Not routinely undergoing dialysis, regardless of the modality (either hemodialysis or peritoneal dialysis) or dialysis planned during the time the subject would be enrolled in the study.\n3. No current or prior rhEPO use ",
+      "endpoints": [
+        "Modeled Hgb Change From Baseline Over 4 Weeks of Treatment"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01587898"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02014467",
+      "title": "A Twelve-Month Randomized, Double-Blind, Placebo Controlled, Parallel-Group, Multicenter Study to Evaluate the Efficacy and Safety of Denosumab in Chinese Postmenopausal Women With Osteoporosis at Increased Risk of Fracture",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2015-08",
+      "country": "China",
+      "enrollment": 486,
+      "brief_summary": "This study is to evaluate the efficacy and safety of denosumab 60 milligrams (mg) for 12 month treatment in Chinese postmenopausal women with osteoporosis at increased risk of fracture.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is willing and able to provide written informed consent.\n* Of Chinese origin - defined as being born in China, having four ethnic Chinese grandparents.\n* Ambulatory woman between the age of 60 and 90 years, inclusive.\n* The subject has a BMD absolute value consistent w",
+      "endpoints": [
+        "Percent Change From Baseline in Bone Mineral Density (BMD) at the Lumbar Spine at Month 12"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02014467"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06343129",
+      "title": "Effects of an Education Program Emphasizing a Whole-food, Plant-based Nutrition Program on Blood Pressure and Blood Potassium Levels in Subjects With Chronic Kidney Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-10-26",
+      "completion_date": "2022-12-12",
+      "country": "United States",
+      "enrollment": 43,
+      "brief_summary": "The purpose of this study is to determine if an educational program emphasizing a whole food plant based diet favorably impacts blood pressure while not significantly increasing blood potassium levels, by comparing a group of patients receiving the educational program with a control group of patients receiving no specific education.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than 18 years\n* Subjects with CKD 3 and 4 (as determined by an estimated glomerular filtration rate of ≥ 15 ml/min but \\< 60 ml/min for at least three months)\n* Subjects with hypertension, defined as use of antihypertension medication:\n* Lack of significant protein",
+      "endpoints": [
+        "Mean change in systolic blood pressure",
+        "Mean change in diastolic blood pressure",
+        "Mean change in potassium levels"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT06343129"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04975464",
+      "title": "BRINK (BRain In Kidney Disease) Memory Study 2.0 (The Natural History of Cognitive Decline in Chronic Kidney Disease: Renal, Vascular and Alzheimer's Disease Contributions)",
+      "phase": "N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2011-11-15",
+      "completion_date": "2026-05",
+      "country": "United States",
+      "enrollment": 600,
+      "brief_summary": "In this study, the investigators will be looking at results of tests of memory and thinking and daily activities in a group of people without known chronic kidney disease (CKD) , and a group of CKD patients, and follow the participants for up to four more years, including after the participants start dialysis or receive a transplant. The investigators are doing this study to compare how often memory loss, confusion and difficulty with daily activities occur in those without and those with CKD. A",
+      "eligibility_criteria": "Inclusion Criteria for CKD Participants:\n\n1. In stages 3b-5 of chronic kidney disease (GFR ≤ 60 ± 5 ml/min/1.73m2) at the first baseline visit in BRINK 1.0.\n2. Able to complete an approximately 90 minute cognitive and physical testing battery.\n3. Able to sign the informed consent, or allow a caregiv",
+      "endpoints": [
+        "Screening Interview",
+        "Classification",
+        "Medical History Interview"
+      ],
+      "sponsor": "Hennepin Healthcare Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT04975464"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01970865",
+      "title": "PHASE 1/2 STUDY OF PF-06463922 (AN ALK/ROS1 TYROSINE KINASE INHIBITOR) IN PATIENTS WITH ADVANCED NON-SMALL CELL LUNG CANCER HARBORING SPECIFIC MOLECULAR ALTERATIONS",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-01-08",
+      "completion_date": "2023-05-24",
+      "country": "South Korea, France, Singapore, Spain, Hong Kong, Taiwan, Switzerland, Italy, Germany, Australia, Canada, Japan, Belgium, United States",
+      "enrollment": 364,
+      "brief_summary": "Phase 1 and 2 trial to study the safety, pharmacokinetics, pharmacodynamics, patient reported outcomes and efficacy of PF-06463922 in ALK + advanced non-small cell lung cancer patients and ROS1+ advanced non small cell lung cancer patients .",
+      "eligibility_criteria": "Inclusion Criteria\n\n* Evidence of histologically or cytologically confirmed diagnosis of metastatic NSCLC (Stage IV, AJCC v7.0) that carries an ALK rearrangement, as determined by the Food and Drug Administration (FDA) approved FISH assay (Abbott Molecular Inc) or by Immunohistochemistry (IHC) (Vent",
+      "endpoints": [
+        "Number of Participants With Cycle 1 Dose-Limiting Toxicities (DLTs) in Phase 1",
+        "Percentage of Participants With Overall and Intracranial Objective Response (Phase 2)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01970865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06525636",
+      "title": "A Multicenter, Open-label, Phase 1/2, Dose-escalation and Subsequent Safety Extension Study of Subcutaneous KK8123 in Adult Patients With X-linked Hypophosphatemia",
+      "phase": "PHASE1, PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2024-10-09",
+      "completion_date": "2028-05-10",
+      "country": "Germany, France, Spain, United States",
+      "enrollment": 24,
+      "brief_summary": "A first-in-human study of KK8123 in adults with X-linked hypophosphatemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Part 1: Inclusion Criteria:\n\n  1. Male or female patients aged 18 to 65 years inclusive at the time of signing the ICF.\n  2. Body weight is at least 40 kg.\n  3. Diagnosed with XLH (as documented by the investigator).\n  4. Have a value of fasting serum phosphorus \\< 2.5 mg/dL (",
+      "endpoints": [
+        "Part 1: Number of participants with TEAEs",
+        "Part 1: Percentage of participants with TEAEs",
+        "Part 2: Number of participants with TEAEs"
+      ],
+      "sponsor": "Kyowa Kirin Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06525636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06494852",
+      "title": "Association of Renal-tubular Acidosis in Children With Cow Milk Protein Allergy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-06-03",
+      "completion_date": "2024-01-03",
+      "country": "Egypt",
+      "enrollment": 120,
+      "brief_summary": "Our study aims to detect renal manifestations of children proved to be with cow milk protein allergy special focusing on tubular dysfunction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Children proved to be with cow milk protein allergy by oral challenge test after stabilization and prevention of cow protein with Age group from 3 months up to 3 years attending outpatient clinic at Sohag University Hospital will be included in the study\n\nExclusion Criteria:\n\n",
+      "endpoints": [
+        "investigate association of Renal tubular acidosis in cow milk protein allergy patients"
+      ],
+      "sponsor": "Sohag University",
+      "url": "https://clinicaltrials.gov/study/NCT06494852"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02334943",
+      "title": "Immune Activation in HIV-1 Infected Patients Under AntiRetroviral Treatment: Etiologic Factors, Forms and Potential Association With Chronic Comorbidities Unrelated to Immune Deficiency.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-03",
+      "completion_date": "2015-03",
+      "country": "France",
+      "enrollment": 140,
+      "brief_summary": "Immune Activation persists in HIV-1 infected patients despite efficient antiretroviral treatment. This immune activation is responsible for immune deficiency as well as for non-AIDS related comorbidities, such as non-alcoholic Fatty liver disease, metabolic syndrome or osteoporosis. The goal of this observational transversal multicentric study is to establish the etiologic factors of persistent immune activation in treated HIV-1 infected patients (persistent de novo infection of T CD4+ cells, mi",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Age \\> or = 45 years\n* HIV-1 infection\n* Number of T CD4+ lymphocytes before antiretroviral treatment \\< 350 cells/mm3\n* Current number of T CD4+ lymphocytes \\> 200 cells / mm3 for 6 moths before inclusion\n* Efficient and well tolerated antiretroviral treatment for more than 2",
+      "endpoints": [
+        "Infection of novo persistent"
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "url": "https://clinicaltrials.gov/study/NCT02334943"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06094504",
+      "title": "Impact of Full Spectrum Light on Outcomes of Infants With Intestinal Failure",
+      "phase": "NA",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2024-03-01",
+      "completion_date": "2027-03-15",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "The goal of this exploratory n-of-1-study is to compare markers of metabolism in infants with intestinal failure between two lighting environments. Investigators are seeking to learn whether supplementing the lighting environment of infants with intestinal failure with blue and violet wavelengths of light will allow more efficient utilization of the nutrition provided to participants by influencing hormones involved in regulation of growth and development as compared to a conventional lighting e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* greater than or equal to 32 weeks post-menstrual age (PMA)\n* diagnosis or anticipated diagnosis of intestinal failure by qualified provider\n* have an anticipated hospital stay of at least 5 weeks following initiation of study participation\n\nExclusion Criteria:\n\n* Infants with ",
+      "endpoints": [
+        "plasma protein concentration of insulin",
+        "plasma protein concentration of leptin"
+      ],
+      "sponsor": "Children's Hospital Medical Center, Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT06094504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01222078",
+      "title": "Evaluation of the Safety and Tolerability of Re-dosing With Intravenous (iv) Otelixizumab in Adult Subjects With Newly Diagnosed Type 1 Diabetes Mellitus",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-11-22",
+      "completion_date": "2011-05-19",
+      "country": "Germany, France",
+      "enrollment": 1,
+      "brief_summary": "The purpose of this study to assess the safety and tolerability of re-dosing at 6 months with otelixizumab (given as an 8-day series of intravenous infusions) in adult subjects with newly diagnosed type 1 diabetes mellitus",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged 18 to 45 years. Women are allowed if they are of non-childbearing potential or agree to use one of the contraception methods listed in the protocol.\n* Diagnosis of type 1 autoimmune diabetes mellitus according to ADA and WHO criteria\n* No more than 90 days",
+      "endpoints": [
+        "Number of Participants With Any Adverse Events (AEs) and Serious AEs (SAEs)",
+        "Mean Change From Baseline in Systolic Blood Pressure (SBP) and Diastolic Blood Pressure (DBP)",
+        "Mean Change From Baseline in Respiration Rate"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01222078"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01673178",
+      "title": "A Phase 1, Placebo-controlled, Randomized Trial To Assess The Safety, Tolerability, Pharmacokinetics And Pharmacodynamics Of Multiple Iv Doses Of Pf-05231023 In Obese Hyperlipidemic Adult Subjects With And Without Type 2 Diabetes Mellitus On A Background Of Atorvastatin",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2012-10",
+      "completion_date": "2013-09",
+      "country": "United States",
+      "enrollment": 107,
+      "brief_summary": "This is a trial in obese subjects who have poor lipid control with and without Type 2 diabetes mellitus to study the safety, tolerability and pharmacokinetics of multiple doses of PF-05231023",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects of non-childbearing potential between the ages of 30 and 70 years with and without a diagnosis of Type 2 diabetes mellitus (according to the American Diabetes Association guidelines).\n* Subjects with poor lipid control as confirmed by laboratory tests.",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Number of Participants With Laboratory Abnormalities",
+        "Number of Participants With Clinically Significant Vital Sign Abnormalities"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01673178"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01119846",
+      "title": "A Study in Type II Diabetic Subjects of Single and Multiple Doses of Orally Administered GSK1292263 to Investigate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of the Compound Alone and When Co-administered With Sitagliptin or Metformin",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-06-05",
+      "completion_date": "2010-03-19",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to see if GSK1292263 is safe and well-tolerated when administered to type 2 diabetics, and to get preliminary information about whether it may be effective in the treatment of type 2 diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects, 18 - 60 years of age, inclusive, at the time of signing the informed consent.\n* A female subject is eligible to participate if she is of non-childbearing potential, defined as pre-menopausal females with a documented tubal ligation or hysterectomy; or ",
+      "endpoints": [
+        "Part A: Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Part A: Number of Participants With Abnormal Hematology Parameters of Potential Clinical Importance (PCI)",
+        "Part A: Number of Participants With Abnormal Clinical Chemistry Parameters of PCI"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01119846"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05376553",
+      "title": "Phase 1 Study of Cemiplimab - TP Induction Chemotherapy in Patients with Locally Advanced Squamous Cell Carcinoma of the Head and Neck",
+      "phase": "PHASE1",
+      "status": "ENROLLING_BY_INVITATION",
+      "start_date": "2022-07-20",
+      "completion_date": "2025-10",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this research study is to determine the safety and tolerability of two dosing schedules of cemiplimab given in combination with cisplatin and docetaxel induction chemotherapy (TPI) in patients with locally advanced squamous cell carcinoma of the head and neck (LA SCCHN). Cemiplimab is FDA approved for treatment of basal cell and squamous cell carcinoma of the skin as well as non-small cell lung cancer but not for squamous cell carcinoma of head and neck.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with stage III or IV, previously untreated, non-metastatic, locally advanced HNSCC (patients may have had previous surgery, but not chemotherapy or radiotherapy).\n\n  a) Patients with oral cancer, HPV negative oropharyngeal cancer, high risk HPV+ oropharyngeal HNSCC co",
+      "endpoints": [
+        "Dose-limiting toxicity (DLT)",
+        "Dose-limiting toxicity (DLT)"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT05376553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01457950",
+      "title": "A Six Month Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Multicenter Study With a Six Month Open-Label Extension to Evaluate the Efficacy and Safety of Denosumab in Korean Postmenopausal Women With Osteoporosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2013-06",
+      "country": "South Korea",
+      "enrollment": 135,
+      "brief_summary": "The purpose of this study is to determine if denosumab is effective in increasing bone mineral density at the lumbar spine in Korean postmenopausal women with osteoporosis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ambulatory Korean postmenopausal women with osteoporosis\n* greater than 5 years postmenopausal\n* aged 60 to 90 years old\n* absolute bone mineral density value consistent with a T-score less than -2.5 and greater than or equal to - 4.0 at the either the lumbar spine or total hi",
+      "endpoints": [
+        "Mean Percent Change From Baseline in Lumbar Spine BMD at Month 6"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01457950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03459703",
+      "title": "Effect of Time-Restricted Feeding on Fat Loss and Cardiometabolic Risk Factors in Overweight Adults",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-07-12",
+      "completion_date": "2020-04-30",
+      "country": "United States",
+      "enrollment": 90,
+      "brief_summary": "Time-restricted feeding (TRF) is a novel type of intermittent fasting that involves eating within a daily period of 10 hours or less, followed by fasting for at least 14 hours daily. Several studies in rodents report that TRF reduces body weight, improves blood sugar control, and reduces the risk of cardiovascular disease-even when food intake is matched to the control group or no weight loss occurs. Preliminary evidence suggests that TRF may also increase weight loss, fat loss, and reduce the r",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Are a new patient at the UAB Weight Loss Medicine Clinic\n* Aged 25-75 years old\n* BMI between 30-60 kg/m2 (inclusive)\n* Weigh less than 450 lbs\n* Wake up regularly between 4-9 am on most days.\n\nExclusion Criteria:\n\n* Diagnosed with diabetes, have an HbA1c of ≥6.5%, or are on d",
+      "endpoints": [
+        "Fat loss and lean mass retention",
+        "Weight loss",
+        "Absolute changes in body composition"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT03459703"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05102279",
+      "title": "Analysis of Urine Composition Saturation and Dietary Intervention in Subjects Without Urinary Calculi",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2021-12-23",
+      "completion_date": "2024-12-30",
+      "country": "China",
+      "enrollment": 10,
+      "brief_summary": "Urinary calculi have become a global public health problem, which brings a huge economic burden to society and individuals. The pathogenesis of urinary calculi is not completely clear. Supersaturation of urinary components is a necessary condition for the formation of urinary calculi. The causes of stone formation are closely related to diet, drugs, metabolic disorders, basic diseases, genetic factors, environment and so on. Diet essentially determines the composition of urine, which affects the",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 20-45 years old\n* 18\\. 5≤Body Mass Index≤ 23. 9\n* Normal oral diet\n\nExclusion Criteria:\n\n* People who have had or are suffering from urinary tract stones , or have the following diseases leading to the formation of stones: renal tubular acidosis, gout, hyperuricemia, chro",
+      "endpoints": [
+        "Subjects complete the trial within 10 days"
+      ],
+      "sponsor": "Shanghai Ninth People's Hospital Affiliated to Shanghai Jiao Tong University",
+      "url": "https://clinicaltrials.gov/study/NCT05102279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05797506",
+      "title": "Safety, Feasibility and Efficacy of Sulforaphane (Avmacol Extra Strength) in Chronic Kidney Disease - Randomized, Double-blind, Placebo-controlled Trial",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-05-03",
+      "completion_date": "2025-12-31",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The Sulforaphane Production System® in Avmacol Extra Strength (ES) supplies broccoli seed extract (glucoraphanin) and Myrosimax® (Active Myrosinase Enzyme) which helps promote sulforaphane production in your body. The investigators hypothesize that daily intake of Avmacol ES can decrease kidney disease progression rate and decrease markers of oxidative stress and inflammation in Chronic Kidney Disease (CKD) patients. They will test this hypothesis in a randomized, double-blind, placebo controlle",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years and ≤ 80 years\n* Estimated glomerular filtration rate (eGFR) ≥ 20 and \\< 60 mL/min/1.73m2 and a decline in eGFR of ≥ 3 ml/min/1.73m2 /year in the previous 12 ± 2 months\n* Able to provide consent\n* Able to swallow Avmacol ES or placebo capsules\n\nExclusion Criteri",
+      "endpoints": [
+        "Longitudinal change in the scores",
+        "Longitudinal change in the scores",
+        "Longitudinal change in the scores"
+      ],
+      "sponsor": "University of Rochester",
+      "url": "https://clinicaltrials.gov/study/NCT05797506"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02564744",
+      "title": "A Phase 2 Study to Evaluate the Efficacy and Tolerability of Debio 1562 in Combination With Rituximab in Patients With Relapsed and/or Refractory Diffuse Large B-Cell Lymphoma and Other Forms of Non-Hodgkin's Lymphoma",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-06-05",
+      "completion_date": "2021-06-25",
+      "country": "Bulgaria, Czechia, Switzerland, Italy, Hungary, Ukraine, Poland, Belgium, United States",
+      "enrollment": 100,
+      "brief_summary": "The primary purpose of the study was to determine the safety and tolerability, anti-tumor activity of the proposed Debio 1562 dose regimens in combination with rituximab.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* For Part 1 of the study, participants must have histopathologically confirmed diagnosis of R/R, DLBCL, FL, MZL/MALT, MCL, or other Sponsor approved NHL subtypes according to the World Health Organization (WHO) classification 2008 for which standard measures do not exist or are",
+      "endpoints": [
+        "Number of Participants With Treatment-emergent Adverse Events (TEAEs)",
+        "Number of Participants With Clinically Significant Changes in Clinical Laboratory Test Results Reported as TEAEs",
+        "Number of Participants With Clinically Significant Changes in Electrocardiogram (ECG) Reported as TEAEs"
+      ],
+      "sponsor": "Debiopharm International SA",
+      "url": "https://clinicaltrials.gov/study/NCT02564744"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00111800",
+      "title": "A 12-Week, Parallel-Group, Double-Blind, Randomized, Placebo-Controlled, Multicenter, Dose Ranging Study to Evaluate the Efficacy, Safety and Tolerability of Denagliptin, Administered Orally, Once Daily, as Monotherapy in Subjects With Type 2 Diabetes Mellitus Followed by a 12-week Active Treatment Extension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-04-28",
+      "completion_date": "2006-07-21",
+      "country": "Finland, Sweden, Czechia, Puerto Rico, Greece, Germany, Latvia, Romania, Canada, United States",
+      "enrollment": 375,
+      "brief_summary": "This is a 24-week study investigating the safety and efficacy of several dosages of a potential new oral medicine for Type II diabetes mellitus.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Women must not be pregnant and must not be breastfeeding.\n* Have Type II diabetes.\n* Not taking any medicine for diabetes, or taking one oral medicine for their diabetes.\n\nExclusion criteria:\n\n* Have any underlying or significant active disease that would prevent the subject f",
+      "endpoints": [
+        "Change From Baseline in Glycosylated Hemoglobin (HbA1c) at Week 12"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00111800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05718687",
+      "title": "A PHASE 1 STUDY TO ASSESS THE MASS BALANCE, EXCRETION, AND PHARMACOKINETICS OF [14C]-GBT021601, AN ORAL HEMOGLOBIN SPOLYMERIZATION INHIBITOR, IN HEALTHY PARTICIPANTS",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-12-22",
+      "completion_date": "2023-08-10",
+      "country": "Netherlands",
+      "enrollment": 9,
+      "brief_summary": "An Open-label Study of GBT021601 in 8 to 10 healthy male or female participants to evaluate the absorption, distribution, metabolism, and excretion (ADME) of GBT021601.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI): 18.0 to 27.0 kg/m2, inclusive, at screening.\n* Body weight ≥ 50 kg at screening\n* Females must be nonlactating and nonpregnant (as confirmed by a negative serum pregnancy test at screening and admission for all females), or of nonchildbearing potential (",
+      "endpoints": [
+        "GBT021601 Concentration in Whole Blood and Plasma at Predose",
+        "14C-GBT021601 Total Radioactivity Concentration in Whole Blood and Plasma at Predose",
+        "GBT021601 Concentration in Whole Blood and Plasma at 0.25 Hours"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT05718687"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03390504",
+      "title": "A Phase 3 Study of Erdafitinib Compared With Vinflunine or Docetaxel or Pembrolizumab in Subjects With Advanced Urothelial Cancer and Selected FGFR Gene Aberrations",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2018-03-23",
+      "completion_date": "2026-12-31",
+      "country": "Bulgaria, Brazil, Spain, Mexico, Russia, Canada, Belgium, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Portugal, Israel, South Korea, Greece, Austria, Ukraine, Poland, Argentina, Japan, United States, France, Italy, China, Netherlands, United Kingdom",
+      "enrollment": 629,
+      "brief_summary": "The purpose of this study is to evaluate efficacy of erdafitinib versus chemotherapy or pembrolizumab in participants with advanced urothelial cancer harboring selected fibroblast growth factor receptor (FGFR) aberrations who have progressed after 1 or 2 prior treatments, at least 1 of which includes an anti-programmed death ligand 1(PD-\\[L\\]1) agent (cohort 1) or 1 prior treatment not containing an anti-PD-(L) 1 agent (cohort 2).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologic demonstration of transitional cell carcinoma of the urothelium. Minor components ( less than \\[\\<\\] 50 percent \\[%\\] overall) of variant histology such as glandular or squamous differentiation, or evolution to more aggressive phenotypes such as sarcomatoid or microp",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03390504"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01674621",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Study of BA058 Administered Via a Coated Transdermal Microarray Delivery System (BA058 Transdermal) in Healthy Postmenopausal Women With Osteoporosis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-09-25",
+      "completion_date": "2013-08-02",
+      "country": "Denmark, Estonia, Poland, United States",
+      "enrollment": 250,
+      "brief_summary": "To determine the clinical safety and efficacy of abaloparatide transdermal in otherwise healthy postmenopausal women with osteoporosis as assessed by changes in bone mineral density (BMD) and serum markers of bone metabolism when compared to transdermal placebo and abaloparatide injection for 6 months of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Postmenopausal woman, less than 85 years old.\n* BMD T-score ≤-2.5 of spine or hip (femoral neck) or ≤-2.0 with previous fracture (within 5 years).\n* Normal physical exam, vital signs, electrocardiogram (ECG), and medical history.\n* Laboratory tests within the normal range, inc",
+      "endpoints": [
+        "Percent Change From Baseline in Bone Mineral Density (BMD) of Lumbar Spine at 6 Months"
+      ],
+      "sponsor": "Radius Health, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01674621"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04188964",
+      "title": "A Phase 1/2, Open-label, Multicenter, Non-randomized Study to Assess the Safety, Tolerability, Pharmacokinetics and Efficacy of Burosumab in Pediatric Patients From Birth to Less Than 1 Year of Age With X-linked Hypophosphatemia (XLH)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2020-02-26",
+      "completion_date": "2024-03-06",
+      "country": "Spain, France, Italy, Austria, United Kingdom, Sweden",
+      "enrollment": 16,
+      "brief_summary": "A Phase 1/2, Open-label, Multicenter, Non-randomized Study to Assess the Safety, Tolerability, Pharmacokinetics and Efficacy of Burosumab in Paediatric Patients from Birth to Less than 1 Year of Age with X-linked Hypophosphatemia (XLH)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female pediatric subjects, aged \\<12 months at burosumab treatment initiation.\n2. Pediatric subjects with PHEX mutation or variant of uncertain significance in either the subject or a directly related family member with appropriate X-linked inheritance.\n3. Presenting ",
+      "endpoints": [
+        "To assess the safety and tolerability of Burosumab in paediatric subjects with X-linked Hypophosphatemia (XLH) starting treatment below 12 months of age"
+      ],
+      "sponsor": "Kyowa Kirin Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT04188964"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02510274",
+      "title": "A Phase 1, Single and Multiple Dosing Study to Evaluate Pharmacokinetics and Pharmacodynamics of ASP3325 in Patients With Chronic Kidney Disease and Hyperphosphatemia Undergoing Hemodialysis",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2014-05-12",
+      "completion_date": "2014-11-04",
+      "country": "Japan",
+      "enrollment": 24,
+      "brief_summary": "The objective of this study is to assess PK, safety and tolerability of a single oral dose of ASP3325 and to assess PD, PK and safety of repeated oral doses of ASP3325 administered t.i.d. before or just after each meal",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject who has received maintenance hemodialysis 3 times a week for at least 12 weeks (84 days) prior to the scheduled first day of the washout period.\n* Subject who can receive morning dialysis from the start of the washout period to the end of follow-up period. (Part 2)\n* S",
+      "endpoints": [
+        "Safety assessed by adverse events: Part 1",
+        "Safety assessed by adverse events: Part 2",
+        "Safety assessed by vital signs: Part 1"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT02510274"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01965990",
+      "title": "A 2-week Course of Enteral Treatment With a Very Low-calorie Protein-based Formula for the Management of Severe Obesity",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2013-02",
+      "country": "Italy",
+      "enrollment": 364,
+      "brief_summary": "Body weight excess, from overweight to overt obesity, is associated with adverse health outcomes. In view of the time-trends of the obesity epidemic and the related cost burden, the search for effective strategies for weight reduction and long-term maintenance of weight loss (WL) is at the top of the agenda of public health systems.\n\nThe current first-line strategy includes several treatment options and dietary interventions to be implemented together with an exercise program. Unfortunately, com",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age \\>=18 years\n* severe obesity (body mass index \\[BMI\\] \\>=40 kg/m2)\n* history of multiple failures in weight loss programs\n\nExclusion Criteria:\n\n* age \\>=70 years\n* insulin-dependent diabetes mellitus\n* a psychiatric disorder\n* previous (\\<1 year since last chemo- or radiot",
+      "endpoints": [
+        "Weight loss",
+        "Feasibility",
+        "Safety"
+      ],
+      "sponsor": "San Giuseppe Moscati Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01965990"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01010542",
+      "title": "A SINGLE DOSE STUDY OF THE SAFETY, TOLERABILITY, PHARMACOKINETICS, PHARMACODYNAMICS AND CLINICAL ACTIVITY OF ILV-095 ADMINISTERED SUBCUTANEOUSLY TO SUBJECTS WITH PSORIASIS.",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2009-12-01",
+      "completion_date": "2011-05-20",
+      "country": "Canada, United States",
+      "enrollment": 39,
+      "brief_summary": "The purpose of this research study is to evaluate the safety and tolerability of ILV-095 when it is given to individuals with moderate to severe chronic plaque psoriasis. Another purpose of the study is to observe how the drug enters the blood and tissues over time, how the body breaks down the drug and whether or not the body will develop an immune reaction (sensitivity) to the drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Sexually active men or women must agree to use a medically acceptable form of contraception during the study and continue it for 16 weeks after investigational product administration.\n* Negative urine pregnancy test result for all women.\n* Body mass index (BMI) \\>=18 kg/m2 and",
+      "endpoints": [
+        "Percentage of Participants With 50 Percent Improvement From Baseline in Total Psoriasis Area Severity Index (PASI) Score at Week 2",
+        "Percentage of Participants With 50 Percent Improvement From Baseline in Total Psoriasis Area Severity Index (PASI) Score at Week 4",
+        "Percentage of Participants With 50 Percent Improvement From Baseline in Total Psoriasis Area Severity Index (PASI) Score at Week 6"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01010542"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00420199",
+      "title": "A Phase IIIB Multicenter, Randomized, Double-Blind, Placebo-controlled Study to Assess Short-term Changes in Synovitis and Structural Damage Outcomes in Subjects With Active Rheumatoid Arthritis and Inadequate Response to Methotrexate, Treated With Abatacept Versus Placebo on a Background Therapy With Methotrexate",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2010-05",
+      "country": "Spain, Germany, United Kingdom, Netherlands, Sweden, Belgium",
+      "enrollment": 50,
+      "brief_summary": "The only trial in participants who are methotrexate-inadequate responders and have active Rheumatoid Arthritis, in which gadolinium-enhanced Magnetic Resonance Imaging; Bone Mineral Density; and biochemical markers of bone, cartilage, and synovial tissue metabolism are used to evaluate early effects (4 months) of Abatacept on inflammation/structural damage. Study will provide valuable mechanism-of-action information on how Abatacept exerts its effects (including on bone) through new techniques.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Disease activity as defined by a Disease Activity Score 28-C-Reactive Protein (CRP) \\>3.2 or \\>6 swollen and ≥6 tender joints and CRP greater than the upper limit of normal\n* At least 1 erosion in hands/wrists or positive anticyclic citrullinated peptides or rheumatoid factor\n",
+      "endpoints": [
+        "Double-blind Period: Mean Synovitis Scores at Baseline As Measured by the Rheumatoid Arthritis Clinical Trials 6 (OMERACT 6) Rheumatoid Arthritis Magnetic Resonance Imaging Score (RAMRIS)",
+        "Double-blind Period: Mean Change From Baseline in OMERACT 6 Wrist Synovitis Score: Planned Analysis Using Non-Parametric ANCOVA",
+        "Double-blind Period: Mean Change From Baseline in OMERACT 6 Wrist Synovitis Score: Post Hoc Sensitivity Analysis Using Parametric ANCOVA Analysis"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00420199"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07103889",
+      "title": "Assessment of Biochemical, Metabolic, Inflammatory, and Hematological Parameters Following Acute Exercise in Normal-Weight and Overweight/Obese Adolescent Girls.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2025-08-10",
+      "completion_date": "2025-08-13",
+      "country": "Tunisia",
+      "enrollment": 35,
+      "brief_summary": "The goal of this interventional clinical trial is to compare the acute physiological and biochemical responses to maximal physical exercise (Spartacus test). in two groups of adolescent girls: in normal-weight and overweight/obese adolescent. The main question it aims to answer:\n\n* Does Spartacus test significantly alter glucose metabolism and lipid profile in normal-weight and overweight/obese adolescent?\n* How do inflammatory markers such as C-Reactive Protein \\[CRP\\], Erythrocyte Sedimentatio",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Female,\n* Aged 14-18 years\n* BMI between the 5th and \\<85th percentile for age (normal-weight group), or BMI ≥ 85th percentile for age (overweight/obese group)\n* No chronic illness or contraindication to exercise\n* No regular medication use\n* Written informed consent from part",
+      "endpoints": [
+        "Concentration of Blood Glucose (mg/dL)",
+        "iron",
+        "Concentration of Total Cholesterol (mg/dL)"
+      ],
+      "sponsor": "High Institute of Sports and Physical Education of Kef",
+      "url": "https://clinicaltrials.gov/study/NCT07103889"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02688764",
+      "title": "An Open-label, Randomised, Active-controlled, Parallel Group, Multicentre, Phase 3 Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent CKD Patients With Hyperphosphataemia",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2016-05-26",
+      "completion_date": "2019-02-21",
+      "country": "France, Russia, Germany, Romania, Poland, Lithuania, United States",
+      "enrollment": 85,
+      "brief_summary": "This is a Phase 3, Open-label, Randomised, Active-controlled, Parallel Group, Multicentre Study to Investigate the Safety and Efficacy of PA21 (Velphoro®) and Calcium Acetate (Phoslyra®) in Paediatric and Adolescent CKD Patients with Hyperphosphataemia. The aim of this Phase 3 clinical study is to demonstrate similar efficacy of PA21 (Velphoro) in paediatric and adolescent patients with CKD, and to provide safety and dosing information for this patient population. The Phoslyra (comparator) group",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects 0 to \\<18 years at time of consent.\n2. Subjects with hyperphosphataemia\n3. Subjects ≥1 year with CKD Stages 4-5 defined by a glomerular filtration rate \\<30 mL/min/1.73 m2 or with CKD Stage 5D receiving adequate maintenance haemodialysis (HD) or peritoneal dialysis (",
+      "endpoints": [
+        "Change in Serum Phosphorus Level From Baseline to the End of Stage 1 in the PA21 Group",
+        "Number and Percentage of Participants Who Withdrew Due to Treatment Emergent Adverse Events",
+        "Number and Percentage of Participants With Any Treatment Emergent Adverse Event"
+      ],
+      "sponsor": "Vifor Fresenius Medical Care Renal Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02688764"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04797871",
+      "title": "Resistance Training Intervention on the Clinical Status in Patients With Post Discharge Symptoms After Covid-19: The \"EXER-COVID Study\"",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-03-08",
+      "completion_date": "2022-09-18",
+      "country": "Spain",
+      "enrollment": 100,
+      "brief_summary": "COVID-19 survivors commonly exhibit a marked extra-respiratory complication affecting the cardiac (arrhythmias and myocardial injury), renal (acute kidney injury), gastrointestinal, nervous (neuropathy, encephalopathy), endocrine and musculoskeletal (weakness, pain, and fatigue) systems. In this context, several studies have found that resistance training intervention promotes important health-related benefits, including cardiac function, compared to aerobic exercise training. Other exercise ada",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* SARS-CoV-2 diagnosed using real-time reverse transcriptase polymerase chain reaction (PCR) tests or positive for SARS-CoV-2 virus antigen \\>90 days before randomization.\n* Still present a chronic symptomatic phase lasting \\>90 days since debut of symptoms.\n* H",
+      "endpoints": [
+        "Changes in Cardiorespiratory fitness"
+      ],
+      "sponsor": "Universidad Pública de Navarra",
+      "url": "https://clinicaltrials.gov/study/NCT04797871"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05299554",
+      "title": "A Phase 3 Open-Label Extension Study to Evaluate the Long-term Safety and Tolerability of Chronocort in the Treatment of Participants Aged 16 Years and Over With Congenital Adrenal Hyperplasia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2022-04-01",
+      "completion_date": "2026-01-15",
+      "country": "Japan, France, United States",
+      "enrollment": 76,
+      "brief_summary": "This phase III study is an open-label extension study to be conducted at approximately 21 investigational sites across 3 countries. The study will evaluate the long-term safety and tolerability of Chronocort in participants aged 16 years and over when used as treatment for Congenital Adrenal Hyperplasia (CAH).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with Congenital Adrenal Hyperplasia (CAH) who have successfully completed Chronocort study DIUR-006 (sites in France and US only) or study DIUR-014.\n* Participants who are capable of giving signed informed consent/assent, which includes compliance with the require",
+      "endpoints": [
+        "Signs and symptoms of over-treatment [Safety and Tolerability] throughout the study.",
+        "Signs and symptoms of under-treatment [Safety and Tolerability] throughout the study.",
+        "To measure signs or symptoms of under treatment [Safety and Tolerability] in terms of use of additional glucocorticoid treatment throughout the study."
+      ],
+      "sponsor": "Neurocrine UK Limited",
+      "url": "https://clinicaltrials.gov/study/NCT05299554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02793154",
+      "title": "A Randomized, Open-label, Active-Controlled, Parallel-Group, Exploratory Study on the Effects of Repeated Doses of Albiglutide Compared to Exenatide on Gastric Myoelectrical Activity and Gastric Emptying in Subjects With Type 2 Diabetes Mellitus",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2016-09-26",
+      "completion_date": "2017-03-16",
+      "country": "United States",
+      "enrollment": 4,
+      "brief_summary": "The primary objective of this study is to compare the effect of albiglutide and exenatide on gastric myoelectrical activity (GMA), gastric emptying (GE) and nausea (as measured by visual analogue scale \\[VAS\\]) in subjects with type 2 diabetes mellitus (T2DM). The study is divided in two parts. Part A will characterize the GMA, GE and nausea response to exenatide and confirm exenatide as a positive control for Part B. Part B will compare the effects of albiglutide and exenatide on GMA, GE and na",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged between 18 and 60 years of age at the time of signing the informed consent.\n* Type 2 diabetes mellitus diagnosed at least 6 months prior to screening.\n* Subjects treated with diet and exercise alone or stable dose of single oral antihyperglycemic medicatio",
+      "endpoints": [
+        "Part A: Distribution of Average Power by Frequency Region",
+        "Part A: Ratios of Average Power Post- WLT/Pre-WLT by Frequency Region",
+        "Part A: Percentage of Time With the Dominant EGG Frequencies in the Four Frequency Ranges of Bradygastria, Normal, Tachygastria and Duodenal"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT02793154"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03769441",
+      "title": "Effect of Ferric Carboxymaltose on Exercise Capacity After Kidney Transplantation: a Multicenter Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-08-02",
+      "completion_date": "2024-08-19",
+      "country": "Netherlands",
+      "enrollment": 148,
+      "brief_summary": "Iron deficiency is common in kidney transplant recipients and is associated with impaired exercise tolerance and an unfavourable prognosis.\n\nThis multicentre double-blind, placebo-controlled randomized controlled clinical trial will allow the investigators to analyse the effects of intravenous iron correction with ferric(III) carboxymaltose on exercise tolerance and other parameters, in comparison to a placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Kidney transplant recipient\n* Iron deficiency, defined by a ferritin level of ≤100 ug/L, or 100-299 ug/L combined with a transferrin saturation of ≤20%\n* At least six months after transplantation at baseline\n* Age ≥18 years\n* Ability to comply with the study protocol\n* Informe",
+      "endpoints": [
+        "Exercise tolerance"
+      ],
+      "sponsor": "University Medical Center Groningen",
+      "url": "https://clinicaltrials.gov/study/NCT03769441"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00575159",
+      "title": "A Double-blind, Randomized, Single Ascending Dose Escalation, Placebo-controlled, Crossover Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of GSK189075 Administered to Subjects With Type 1 Diabetes Mellitus",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2008-03-31",
+      "completion_date": "2008-12-18",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this research study is to look at concentrations of GSK189075 in blood when single doses of the drug are taken by mouth in combination with basal insulin. The clinical effects of the drug in combination with insulin on the body will also be studied. The results will help determine doses of GSK189075 can be studied in the future in the type I diabetes mellitus population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult male/female, 18 to 55 years old\n* Diagnosis of type 1 diabetes mellitus for at least 6 months; and using a continuous insulin pump\n* Willing and able to follow all study-related instructions provided by the site staff.\n* Willing to provide signed informed consent.\n\nExclu",
+      "endpoints": [
+        "Number of Participants With All Adverse Events (AE) and Serious Adverse Events (SAE)",
+        "Number of Participants With Hypoglycemia Episodes/Events",
+        "Change From Baseline Vital Signs: Systolic and Diastolic Blood Pressure (SBP and DBP)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00575159"
+    }
+  ],
+  "timestamp": "2026-03-04T16:34:49.543136",
+  "success": true,
+  "error_message": null
+}

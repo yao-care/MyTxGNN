@@ -1,0 +1,903 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes simplex infectious disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03831165",
+      "title": "Effects of Melatonin in the Treatment of Genital Herpes",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-09-02",
+      "completion_date": "2021-12-28",
+      "country": "Brazil",
+      "enrollment": 90,
+      "brief_summary": "Genital herpes is a common and increasingly-common infection worldwide. The annual incidence in the United States is 1.75 per 1000 inhabitants. The etiologic agent is the herpes type 1 and 2 strains simplex virus. Classical Treatment is with acyclovir which decreases the duration of the disease and prevents rashes but has no curative effect. Also, studies show herpes resistance to acyclovir which has stimulating research into new drugs to treat this condition. Authors suggest melatonin way be a ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* clinical and laboratory diagnosis of genital herpes\n* real time polymerase chain reaction for herpes type 2\n* serology\n\nExclusion criteria:\n\n* immunodeficiencies\n* pregnant women",
+      "endpoints": [
+        "Clinical disease activity"
+      ],
+      "sponsor": "University of Sao Paulo General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03831165"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001115",
+      "title": "A Pilot Study to Determine the Effect of Acyclovir Treatment for Herpes Simplex Virus (HSV) Infection on Peripheral Blood HIV Viral Load.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2005-06",
+      "country": "United States",
+      "enrollment": 75,
+      "brief_summary": "Part A: To evaluate the impact of HSV suppression with acyclovir ( ACV ) on HIV burden in patients with asymptomatic HSV infection and at high risk for HSV reactivation.\n\nPart B: To characterize the change in plasma HIV RNA levels and other measures of HIV burden during and after a 10 day course of ACV treatment for acute HSV infection.\n\nApproximately 70% of patients infected with HIV are concurrently infected with HSV. There is new evidence to suggest that HSV may act as a co-factor in HIV dise",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\nParts A and B:\n\n* Documented HIV infection.\n* Patients \\>= 18 years of age must be willing and able to give informed consent and patients \\< 18 years must have written consent from a parent or guardian.\n\nPart A:\n\n* CD4+ T count \\< 250 cells/mm3 within 1 month",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001115"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01441063",
+      "title": "Pilot Study of Tocilizumab in Patients With Symptomatic Kaposi Sarcoma Herpesvirus (KSHV) - Associated Multicentric Castleman Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-09-13",
+      "completion_date": "2020-10-05",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Background:\n\n\\- Kaposi's sarcoma-associated herpes virus (KSHV)-associated multicentric Castleman disease (KSHV-MCD) is caused by a herpes virus known as KSHV. This disease can also cause several other cancers, including Kaposi sarcoma. People with KSHV-MCD often have symptoms like fever, weight and muscle loss, and fluid in the legs or abdomen. Tocilizumab may be able to block the chemicals in the body that cause KSHV-MCD symptoms. Researchers want to test this drug and other anti-virus drugs t",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n* Pathologically confirmed Kaposi sarcoma (KS)-associated herpes virus multi-centric Castleman disease (KSHV-MCD)\n* Age greater than or equal to 18\n* At least one clinical symptom probably or definitely attributed to KSHV-MCD\n* Intermittent or persistent fever for at least 1 we",
+      "endpoints": [
+        "Percentage of Participants With an Overall Clinical Benefit Response"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01441063"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00230867",
+      "title": "A Multicenter, Placebo Controlled, Randomized, Double Blind, Subject Initiated Study of the Safety and Efficacy of a Single Topical Iontophoretic Application of Acyclovir 5% Cream With an Open Label Conventional Therapy Treatment Arm, and a Blinded Evaluator, for the Treatment of Recurrent Herpes Labialis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-04",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 1800,
+      "brief_summary": "Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the site where the herpes virus is replicating. Iontophoresis uses electric current to enhance the delivery of drugs through the skin. This trial is testing a new iontophoretic device for the delivery of acyclovir cream to treat cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subject 18-75 years of age\n2. Female subject must be using a medically acceptable form of birth control during the study. Acceptable birth control measures are abstinence, oral contraceptive pills or patch, injectable contraception, barrier contraceptives (cond",
+      "endpoints": [
+        "Clinician assessed duration of the herpetic episode measured from time of treatment until lesion healed. Lesion assessments for a minimum of 5 consecutive days and a maximum of 10 consecutive days."
+      ],
+      "sponsor": "Transport Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00230867"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002021",
+      "title": "An Open Study of Foscarnet Treatment of Acyclovir-Resistant Herpes Simplex Virus in Patients With the Acquired Immunodeficiency Syndrome and Other Immunodeficiencies",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To evaluate the safety and efficacy of intermittent intravenous (IV) foscarnet in the treatment of acyclovir-resistant herpes simplex virus (HSV) infections in AIDS patients and other immunocompromised patients. To evaluate the necessity, efficacy, and safety of IV maintenance foscarnet therapy in preventing recurrent disease. To confirm the pharmacokinetics of intermittent induction and maintenance IV regimens.",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Cyclosporine.\n\nPatients must have AIDS as defined by the CDC or be immunocompromised (transplant patients; other hematologic malignancies with recognized cell-mediated immune deficiency). Patients must also have herpes simplex virus (HSV) infec",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03073967",
+      "title": "A Randomized, Open Label, Multi-center, Comparative Trial, to Assess the Efficacy and Safety of Pritelivir for the Treatment of Acyclovir-resistant Mucocutaneous HSV (Herpes Simplex Virus) Infections in Immunocompromised Subjects (PRIOH-1)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-05-08",
+      "completion_date": "2025-11-11",
+      "country": "Israel, France, Mexico, Switzerland, Greece, Italy, Georgia, Ukraine, Germany, Australia, United Kingdom, Canada, Argentina, Belgium, United States",
+      "enrollment": 158,
+      "brief_summary": "Randomized, open-label, multi-center, comparative trial to assess the efficacy and safety in immunocompromised subjects with acyclovir resistant or acyclovir susceptible mucocutaneous HSV infection, treated with pritelivir 100 mg once daily (following a loading dose of 400 mg as first dose to rapidly reach steady-state plasma concentration) or investigators choice, which can be either foscarnet 40 mg/kg every 8 hours or 60 mg/kg every 12 hours, or Cidofovir iv 5 mg/kg body weight given once week",
+      "eligibility_criteria": "Part C inclusion criteria\n\n1. Immunocompromised men and women of any ethnic group aged ≥16 years.\n\n   In Canada, Germany, Belgium:\n\n   Immunocompromised (due to conditions including but not limited to HIV infection, hematopoietic cell or solid organ transplantation, and chronic use of immunosuppress",
+      "endpoints": [
+        "Efficacy measured by cure rate"
+      ],
+      "sponsor": "AiCuris Anti-infective Cures AG",
+      "url": "https://clinicaltrials.gov/study/NCT03073967"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01254630",
+      "title": "A Phase III Randomized, Placebo-Controlled, Clinical Trial to Study the Safety and Efficacy of V212 in Adult Patients With Solid Tumor or Hematologic Malignancy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-06-24",
+      "completion_date": "2017-04-11",
+      "country": "N/A",
+      "enrollment": 5305,
+      "brief_summary": "This is a randomized, double-blind, placebo-controlled study to assess the safety and tolerability of V212 when administered to adults with solid tumor malignancy (STM) receiving chemotherapy and to assess the impact of V212 on the development of herpes zoster (HZ) in adults with STM receiving chemotherapy. The primary hypothesis is that vaccination with V212 will reduce the incidence of HZ compared with placebo in adults with STM (lower bound of the 97.5% {one-sided α=0.0125} confidence interva",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Has been diagnosed with an STM or HM and is not likely to undergo hematopoietic cell transplant (HCT) and is either ≥18 years of age and receiving a cytotoxic or immunosuppressive chemotherapy regimen OR is ≥ 50 years of age with a hematologic malignancy that is not in remissi",
+      "endpoints": [
+        "Incidence of Confirmed Herpes-Zoster",
+        "Percentage of Participants With One or More Serious Adverse Events"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01254630"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04713423",
+      "title": "Oral and Perioral Herpes Simplex Virus Infection Type I in a Five-month-old Infant: A Case Report",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-10-19",
+      "completion_date": "2017-10-19",
+      "country": "Saudi Arabia",
+      "enrollment": 1,
+      "brief_summary": "A five-month-old healthy girl who presented with painful herpetic gingivostomatitis and perioral vesicles.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Five-months-old infants or younger\n\nExclusion Criteria:\n\n* Six-months-old infants or older",
+      "endpoints": [
+        "Health condition"
+      ],
+      "sponsor": "Princess Nourah Bint Abdulrahman University",
+      "url": "https://clinicaltrials.gov/study/NCT04713423"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002310",
+      "title": "A Pilot Study to Determine the Safety and Efficacy of Topically Applied SP-303T in Patients With Acquired Immunodeficiency Syndrome and Concomitant Herpes Simplex Virus (HSV) Infection Unresponsive to Acyclovir",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To evaluate the safety and tolerance of topically applied SP-303T in AIDS patients. To observe the effect of this drug on herpes simplex virus lesions in patients who have failed to heal in response to oral or intravenous acyclovir therapy.\n\nThe lack of alternative treatments for herpes simplex virus infection in patients with AIDS and the development of resistance to acyclovir for patients requiring repeated treatment presents a therapeutic dilemma for physicians. SP-303T has good in vitro acti",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have:\n\n* HIV-1 infection.\n* AIDS.\n* Chronic mucocutaneous herpes simplex virus (HSV) infection, with one or more lesions unresponsive to oral acyclovir therapy.\n* No uncontrolled infections other than HSV.\n* Sufficient mental status to understand the purpose of the ",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002310"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00031460",
+      "title": "A Placebo-Controlled Phase III Evaluation of Suppressive Therapy With Oral Acyclovir Suspension Following Neonatal Herpes Simplex Virus Infections Involving the Central Nervous System",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-12",
+      "completion_date": "2008-04",
+      "country": "Canada, United States",
+      "enrollment": 46,
+      "brief_summary": "The purpose of this study is to test whether long term treatment with acyclovir given orally (by mouth) improves the outcome for infants with herpes simplex virus infection of the brain or spinal cord (known as the central nervous system \\[CNS\\]). Infants with herpes viral infection of the CNS that has or has not spread to other parts of the body will be enrolled in this study. All participants will receive treatment in a hospital for 21 days with acyclovir, given intravenously (by a needle inse",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Viral Culture:\n\n  1. If cutaneous lesions are present, then isolation of Herpes Simplex Virus (HSV)-1 or HSV-2 by viral culture from any site (skin, oropharynx, cerebral spinal fluid \\[CSF\\], urine, etc.) will be required for study entry.\n  2. If cutaneous lesions are not pres",
+      "endpoints": [
+        "Participants With Neurologic Impairment at 12 Months as Measured by a Bayley's Neuro-developmental Assessment (Motor Scores).",
+        "Participants With Neurologic Impairment at 12 Months as Measured by Bayley's Neuro-developmental Assessment.(Mental Scores)"
+      ],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00031460"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00587496",
+      "title": "A 30-Day Double-Masked Study to Determine the Effect of Oral Valacyclovir or Oral Valacyclovir Plus Aspirin on the Shedding of Herpes Simplex Virus DNA in the Tears and Saliva of Volunteers Without Clinical Signs of Ocular Herpetic Disease",
+      "phase": "PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2006-04",
+      "completion_date": "2008-07",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "The purpose of this study is to determine whether oral Valtrex alone or in combination with aspirin will reduce the shedding of herpes simplex virus DNA in the tears and saliva from volunteers with no evidence of ocular herpes infection. The secretion of virus into the tears and saliva might make people more susceptible to virus infection in the future if their immune system becomes deficient. The study will also try to determine if there is a correlation between shedding of viral DNA and herpes",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* either sex\n* any race\n* over age of 21 years\n\nExclusion Criteria:\n\n* have active ocular herpetic lesion\n* had ocular herpetic lesion in past 30 days\n* taking systemic or oral antiviral drugs\n* have taken antiviral drugs in the past 30 days\n* taking aspirin or NSAIDs\n* have dry",
+      "endpoints": [
+        "Cessation of DNA shedding above the positive detection threshold"
+      ],
+      "sponsor": "National Eye Institute (NEI)",
+      "url": "https://clinicaltrials.gov/study/NCT00587496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02871401",
+      "title": "A Phase One-B (1B) Pilot Trial of Herpesvirus Treatment in Idiopathic Pulmonary Fibrosis (IPF)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2018-01-03",
+      "completion_date": "2020-01-31",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The investigators will conduct a single-center, prospective, randomized, placebo-controlled, double-blind pilot study of anti-herpesvirus therapy in patients with idiopathic pulmonary fibrosis (IPF). Patients with mild, moderate or severe IPF with serologic evidence of current or past Epstein-Barr Virus (EBV) or cytomegalovirus (CMV) infection. Randomization will be to pirfenidone plus placebo or pirfenidone plus valganciclovir. Thirty subjects will be enrolled and randomized to treatment with p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age \\>21 and \\<80 years\n2. ability to provided informed consent\n3. diagnosis of probable or definite IPF according to American Thoracic Society (ATS) criteria\n4. tolerance of full-dose (2403 mg/day) pirfenidone\n5. Positive serology for EBV or CMV\n\nExclusion Criteria:\n\n1. FVC ",
+      "endpoints": [
+        "Proportion of Subjects Who Discontinue Study Drug Due to Adverse Events"
+      ],
+      "sponsor": "Vanderbilt University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT02871401"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00652184",
+      "title": "Phase 2/3 Multi-Center, Double-Blind, Controlled Trial Comparing Topical ARYS-01 (Sorivudine) Cream 3%, Oral Valaciclovir, and Combination Topical ARYS-01 Cream /Oral Valaciclovir for Treatment of Herpes Zoster in Immunocompetent Patients 18 Years of Age or Older",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2008-03",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 300,
+      "brief_summary": "A multi-center, randomized, 4-arm, placebo-controlled, double-blind efficacy study of ARYS-01 (sorivudine) cream 3%.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least 18 years of age\n* diagnosed with herpes zoster\n* confirmed for VZV with lesion swab at screening and subsequent PCR test.\n* contraception for women of child-bearing potential\n* be able to communicate with investigator and compliant\n\nExclusion Criteria:\n\n* cytotoxic or",
+      "endpoints": [
+        "The effect of ARYS-01 (sorivudine) cream (with or without Valaciclovir) on the reduction of the crusting stage of VZV rash present at Day 8."
+      ],
+      "sponsor": "aRigen Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00652184"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00164424",
+      "title": "Impact of Episodic Acyclovir Therapy on Ulcer Duration and HIV Shedding From Genital Ulcers Among Men in South Africa",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2011-07",
+      "country": "South Africa",
+      "enrollment": 613,
+      "brief_summary": "The purpose of this study is to determine if acyclovir episodic treatment has an effect in ulcer healing and if it should be added to the syndromic management of genital ulcer disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males presenting at the primary health care clinic with a genital ulcer\n* Age 18 years or older\n* Willing and able to give informed consent\n* Willing to be tested for HSV and HIV\n* Willing and able to comply with the study protocol including follow-up visits\n* Willing to accep",
+      "endpoints": [
+        "Ulcer healing"
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT00164424"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00306293",
+      "title": "The Effect of Valacyclovir 1g Once Daily on HSV-2 Viral Shedding in Subjects Newly Diagnosed With Genital Herpes Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-02-20",
+      "completion_date": "2006-11-27",
+      "country": "United States",
+      "enrollment": 70,
+      "brief_summary": "Eligible subjects will be randomized to receive VALTREX 1g or placebo once daily for 60 days in a two-way crossover study with a washout period of 7 days in between.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is in overall general good health.\n* If female, subject must be of:\n\n  1. Non-childbearing potential (i.e., physiologically incapable of becoming pregnant, including any female who is pre-menarchial or post-menopausal or surgically sterile); or\n  2. Childbearing potent",
+      "endpoints": [
+        "Mean Percent Days of Total Shedding (Clinical and Subclinical) as Determined by Type-specific Polymerase Chain Reaction (PCR) Assay for Herpes Simplex Virus Type 2 (HSV-2)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00306293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00942084",
+      "title": "An Open Label Study to Describe the Pharmacokinetics of Acyclovir in Premature Infants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-09",
+      "completion_date": "2012-06",
+      "country": "United States",
+      "enrollment": 32,
+      "brief_summary": "Acyclovir is a drug used to treat herpes simplex virus (HSV) infections in babies. Appropriate dosing of acyclovir is known for adults and children but acyclovir has not been adequately studied in full-term or premature neonates. HSV is a very serious infection in babies \\<6 months of age and often results in death or profound mental retardation. HSV leads to profound mental retardation in young infants because the virus attacks the central nervous system.\n\nThe investigators hypothesize that the",
+      "eligibility_criteria": "The investigator or other study site personnel will document in the source documents (e.g., the hospital chart) that informed consent was obtained. Laboratory tests or non-pharmacologic treatment procedures that were performed as standard of care within 72 hours prior to first dose of study drug may",
+      "endpoints": [
+        "Clearance (CL)",
+        "Volume of Distribution (V)",
+        "Half-life (T1/2)"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00942084"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03134196",
+      "title": "Long-term Suppressive Valacyclovir Treatment for Herpes Zoster Ophthalmicus",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-23",
+      "completion_date": "2024-07-22",
+      "country": "Canada, United States",
+      "enrollment": 527,
+      "brief_summary": "This is a multi-center, randomized, double-masked, placebo-controlled clinical trial of suppressive valacyclovir for one year in immunocompetent study participants with an episode of dendriform epithelial keratitis, stromal keratitis, endothelial keratitis, and/or iritis due to Herpes Zoster Ophthalmicus (HZO) in the year prior to enrollment.",
+      "eligibility_criteria": "PARTICIPANT INCLUSION CRITERIA\n\nTo be eligible for study participation, an individual must meet all of the following criteria:\n\n1. Ability to understand, and willingness and ability to read and sign, the informed consent form.\n2. Ability to understand and follow instructions and study procedures.\n3.",
+      "endpoints": [
+        "Number of Participants With the First Occurrence of New or Worsening Stromal Keratitis Without Ulceration (SK), Endothelial Keratitis (EK), Iritis (IR), Dendriform Epithelial Keratitis (DEK), or Stromal Keratitis With Ulceration (SKU)"
+      ],
+      "sponsor": "NYU Langone Health",
+      "url": "https://clinicaltrials.gov/study/NCT03134196"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02157090",
+      "title": "Clinical Assessment of the Effectiveness and Safety of Herpes Patch SOS (Hansaplast®) Based on Hydrocolloids Without Active Substances in the Treatment of Herpes Simplex Labialis in Comparison to a Competitor's Product (Herpes Vesicle Patch of COMPEED®)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2009-08",
+      "completion_date": "2010-06",
+      "country": "Germany",
+      "enrollment": "N/A",
+      "brief_summary": "Recent clinical studies showed, that a hydrocolloid patch is effective, well tolerated and comparable with aciclovir cream 5 % for the treatment of HSL lesions, while affording additional benefits of wound protection, discretion and relief of social embarrassment. The aim of the actual study was the clinical assessment of the effectiveness and safety of Hansaplast® SOS Herpes Patch (HPHP) in comparison to Compeed® Herpes Vesicle Patch (CHP) in treating HSL. Both products are CE-certificated and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* at least 18 years old\n* with a history of recurrent HSL of the lips and/or perioral skin\n* lesions typically manifesting as classical lesions\n* duration of HSL symptoms not more than three days\n* haven´t used acyclovir or other cold sore therapies\n\nExclusion Criteria:\n\n* pregn",
+      "endpoints": [
+        "The primary endpoint of this study was the Subjects Global Assessment of Therapy (SGAT) at final visit."
+      ],
+      "sponsor": "Technische Universität Dresden",
+      "url": "https://clinicaltrials.gov/study/NCT02157090"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01327144",
+      "title": "A Prospective, Randomized, Multicenter Study of the Efficacy and Safety of Famciclovir 500 mg Comparing To Aciclovir 400mg in Patients With Herpes Zoster",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2017-07",
+      "country": "Brazil",
+      "enrollment": 177,
+      "brief_summary": "Herpes Zoster is an infection that affects part of the nervous system caused by Varicella Zoster Virus. Herpes Zoster manifests as vesicular eruption in the dermatome, often associated with significant pain.\n\nThere are effective oral prescription antiviral medicines available to reduce the discomfort of symptoms as famciclovir and aciclovir.\n\nThis is a phase III, multicenter, randomized, parallel-group study to compare the efficacy and safety of treatment with Famciclovir (500 mg) comparing to A",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be able to understand the study procedures, agree to participate and give written consent.\n* Patients with clinical diagnosis of Herpes Zoster;\n* Score higher than 4 for at least for 2 symptoms of Herpes Zoster;\n* Negative pregnant urine test\n\nExclusion Criteria:",
+      "endpoints": [
+        "For efficacy evaluation, a visual analogue scale (VAS) will be used to detect the improvement of symptoms"
+      ],
+      "sponsor": "EMS",
+      "url": "https://clinicaltrials.gov/study/NCT01327144"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132729",
+      "title": "A Single Dose, 2-Period, 2-Treatment 2-Way Crossover Bioequivalency Study of Valacyclovir Caplets Under Fasting Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The objective of this study was to prove the bioequivalence of Valacyclovir Hydrochlorothiazide Caplet under fasting conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal findings on the physical examination, medical history, or clinical laboratory results during screening\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with known enzyme altering drugs.\n* History of alle",
+      "endpoints": [
+        "bioequivalence determined by statistical comparison Cmax"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01132729"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00723229",
+      "title": "A Randomized, Cross-Over Study to Evaluate the Suppressive Effect of Acyclovir on Rapidly Cleared Herpes Simplex Virus Type 2 Genital Reactivation Episodes in Herpes Simplex Virus-2 Seropositive Adults",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2011-09",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "We propose to study the episode rate, duration, and quantity of HSV-2 genital shedding in patients taking standard, FDA approved, CDC recommended doses of acyclovir (400 mg PO BID) for HSV-2 suppression compared to taking no medication to better define the effect of acyclovir on short bursts of rapidly cleared HSV-2 shedding. This study will be a randomized, open label, cross-over trial. We hypothesize that short bursts of HSV-2 reactivation will not be suppressed by acyclovir.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nCOHORT 1: HIV seronegative\n\n1. Older than 18 years;\n2. HSV-2 seropositive by Western Blot;\n3. not receiving any drugs with known anti-HSV-2 activity for study duration;\n4. women of child bearing potential who are sexually active with men must be using a medically accepted method",
+      "endpoints": [
+        "Frequency of HSV-2 Total Shedding From the Genital Tract as Measured by PCR, Calculated Using a Per-day Shedding Rate in Participants Treated With Suppressive Acyclovir as Compared to no Medication in HIV Seronegative and HIV Seropositive Individuals."
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00723229"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01574612",
+      "title": "An Open Label Multi Center Phase III Subject/Caregiver Initiated Safety Study of Xerese(Acyclovir and Hydrocortisone)Cream 5%/1% in the Treatment of Recurrent Herpes Labialis in Children",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2013-02",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "To test the safety of Xerese (acyclovir and hydrocortisone)Cream 5%/1% for the treatment of recurrent cold sores in children ages 6-11yrs after 5 days of treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, age 6-11 years at time of enrollment\n* General good health, as judged by the Investigator\n* History of recurrent herpes labialis with at least two (2) recurrences during the last twelve (12) months, as based on interview with the subject or subject's caregiver\n",
+      "endpoints": [
+        "Reporting of Adverse Events"
+      ],
+      "sponsor": "Meda Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01574612"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00004644",
+      "title": "Phase I/II Study of High-Dose Acyclovir for Central Nervous System or Disseminated Neonatal Herpes Simplex Virus Infection",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1995-02",
+      "completion_date": "",
+      "country": "N/A",
+      "enrollment": 25,
+      "brief_summary": "OBJECTIVES: I. Evaluate whether high-dose acyclovir decreases acute and long-term morbidity and mortality in neonates with central nervous system or disseminated herpes simplex virus (HSV) infection.\n\nII. Evaluate whether high-dose acyclovir is safe and tolerated in the newborn. III. Assess resistance to antiviral medication. IV. Amplify disease classification for the purpose of predicting prognosis. V. Assess any changes in viral excretion patterns. VI. Evaluate whether antigens and antibodies ",
+      "eligibility_criteria": "PROTOCOL ENTRY CRITERIA:\n\n--Disease Characteristics--\n\nHerpes simplex virus infection that is disseminated or localized to the central nervous system Virologically confirmed by 1 of the following methods:\n\n* Tissue culture\n* Monoclonal antibody staining\n* Electron microscopy\n\n--Prior/Concurrent Ther",
+      "endpoints": [],
+      "sponsor": "Office of Rare Diseases (ORD)",
+      "url": "https://clinicaltrials.gov/study/NCT00004644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01132716",
+      "title": "A Single Dose, 2-Period, 2-Treatment 2-Way Crossover Bioequivalency Study of Valacyclovir Caplets Under Fed Conditions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2006-09",
+      "country": "United States",
+      "enrollment": 48,
+      "brief_summary": "The objective of this study was to prove the bioequivalence of Valacyclovir Hydrochlorothiazide Caplet under fed conditions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* No clinically significant abnormal findings on the physical examination, medical history, or clinical laboratory results during screening\n\nExclusion Criteria:\n\n* Positive test for HIV, Hepatitis B, or Hepatitis C.\n* Treatment with known enzyme altering drugs.\n* History of alle",
+      "endpoints": [
+        "bioequivalence determined by statistical comparison Cmax"
+      ],
+      "sponsor": "West-Ward Pharmaceutical",
+      "url": "https://clinicaltrials.gov/study/NCT01132716"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00469300",
+      "title": "A Multicenter, Placebo Controlled, Randomized, Double Blind, Subject Initiated Study of the Safety and Efficacy of the Electrokinetic Transdermal System (ETS) With Acyclovir Gel for the Episodic Treatment of Herpes Labialis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-04",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 810,
+      "brief_summary": "Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the sites where the herpes virus is replicating. Iontophoresis uses electric current to enhance delivery of drugs through the skin. This trial is testing a new iontophoretic device with a new acyclovir gel to treat cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subject 18-75 years of age\n2. Female subjects must be using a medically acceptable form of birth control during the study.\n3. Subject must have a history of recurrent herpes labialis and report at least 3 recurrences during the preceding 12 months.\n4. Subject m",
+      "endpoints": [
+        "Clinician assessed duration of the herpetic episode measured from the time of treatment until the lesion is healed."
+      ],
+      "sponsor": "Transport Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00469300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00194519",
+      "title": "Phase III Randomized Placebo-Controlled Trial of HSV-2 Suppression to Prevent HIV Transmission Among HIV-Discordant Couples",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2010-03",
+      "country": "Zambia, Botswana, Tanzania, South Africa, Uganda, Rwanda, Kenya",
+      "enrollment": 3408,
+      "brief_summary": "The University of Washington has received funding to conduct a proof-of-concept trial to assess the impact of suppression of genital herpes on HIV infectiousness. This study (the Partners in Prevention Study) will enroll HIV discordant heterosexual couples in which the HIV-infected partner is co-infected with herpes simplex virus type 2 (HSV-2) to test the efficacy of twice daily (bid) acyclovir (400 mg) given to the HIV-infected partner to prevent transmission to his/her HIV negative partner(s)",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPotential index (HIV-infected) participants must meet the following criteria (by self-report, unless otherwise indicated) in order to be eligible for inclusion in the study:\n\n* Of legal age to provide independent informed consent for research per local regulations and guidelines",
+      "endpoints": [
+        "Sequence-verified HIV-transmission from index to partner participant"
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00194519"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00487682",
+      "title": "Dose-finding Study of ASP2151 in Subjects With Herpes Zoster- A Multicenter, Randomized, Double-blind, Valacyclovir Hydrochloride-controlled, Parallel-group, Comparative Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-11-13",
+      "completion_date": "2008-09-01",
+      "country": "Japan",
+      "enrollment": 403,
+      "brief_summary": "To investigate the efficacy and safety of three different doses of ASP2151, as compared to valacyclovir hydrochloride in subjects with herpes zoster, and to determine the recommended clinical dose.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged from 20 years to under 80 years on the day informed consent is obtained\n* Subjects to whom the study drugs can be orally administered within 72 hours after the onset of rash due to herpes zoster\n* Subjects in whom protocol-specified observations and assessments a",
+      "endpoints": [
+        "To compare the efficacy and safety of ASP2151 with valacyclovir in subjects with Herpes Zoster"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00487682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01390805",
+      "title": "Special Drug Use Investigation for VALTREX (Valaciclovir) (Suppression Prophylaxis)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-11",
+      "completion_date": "2011-03",
+      "country": "N/A",
+      "enrollment": 462,
+      "brief_summary": "The purpose of this study is to collect and assess information on proper use of valaciclovir regarding safety and efficacy of long-term use in suppressive therapy for subjects with recurrent genital herpes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who started suppressive therapy for recurrent genital herpes for the first time\n\nExclusion Criteria:\n\n* Subjects with a history of hypersensitivity to the ingredients of VALTREX or aciclovir",
+      "endpoints": [
+        "The number of adverse events in Japanese subjects with recurrent genital herpes treated with valaciclovir"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01390805"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00527618",
+      "title": "A Randomized, Open-label, Crossover Trial of the Effect of Dosing of Daily HSV-2 Suppressive Therapy on HSV Reactivation and Plasma HIV-1 Levels Among HIV-1/ HSV-2 Co-infected Persons",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "To compare the effect of high-dose valacyclovir (1 gram orally twice daily) versus standard-dose acyclovir (400 mg orally twice daily) on the frequency of genital HSV reactivation and on plasma HIV-1 levels among HSV-2/HIV-1 co-infected individuals. The investigators hypothesize that high-dose valacyclovir will result in greater reduction in plasma HIV-1 and genital HSV reactivation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 years or older\n* Documented HIV-1 seropositive\n* Not on HIV-1 antiretroviral therapy nor planning to initiate antiretroviral therapy during the study period\n* Detectable HIV-1 plasma viral load\n* HSV-2 seropositive as determined by western blot\n* Not intending to move o",
+      "endpoints": [
+        "The Quantity of HIV-1 RNA in Plasma While on 400 mg Twice Daily of Acyclovir Versus 1000 mg Twice Daily of Valacyclovir.",
+        "The Genital HSV Shedding Rate While on 400 mg Twice Daily of Acyclovir Versus 1000 mg Twice Daily of Valacyclovir."
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00527618"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04448392",
+      "title": "Evaluation of the Pharmacokinetics and Pharmacodynamics of Valacyclovir in Neonates With Neonatal Herpes Simplex Virus Disease Who Have Completed Standard of Care Treatment With Acyclovir",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2021-07-01",
+      "completion_date": "2024-07-24",
+      "country": "United States",
+      "enrollment": 7,
+      "brief_summary": "This is an open-label, single center, pharmacokinetic (PK) study to assess valacyclovir pharmacokinetics and pharmacodynamics in neonates and compare to the pharmacokinetics and pharmacodynamics of the standard of care treatment dose of intravenous acyclovir. 6 (up to 10 infants) with virologically confirmed neonatal herpes simplex virus (HSV) disease who meet all inclusion/exclusion criteria will be enrolled in the study. Study duration is 5 years. Primary objective is to define the pharmacokin",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent from parent(s) or legal guardian(s)\n* Confirmation of HSV infection from surface culture/PCR, skin lesion culture/PCR, blood PCR, or CSF PCR (performed at UAB Virology lab)\n* ≥34 weeks gestational age at birth\n* Weight at study enrollment is ≥ 2000 gram",
+      "endpoints": [
+        "Area Under the Curve Following Administration of Oral Valacyclovir Suspension 20 mg/kg Every 8 Hours",
+        "Creatinine Clearance Following Administration of Oral Valacyclovir Suspension 20 mg/kg Every 8 Hours",
+        "Half-life Following Administration of Oral Valacyclovir Suspension 20 mg/kg Every 8 Hours"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT04448392"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01346475",
+      "title": "A Randomized, Cross-Over Study to Evaluate the Suppressive Effect of High-Dose Valacyclovir Versus Once Daily Valacyclovir on Herpes Simplex Virus Type 2 Genital Shedding in Herpes Simplex Virus-2 Seropositive Adults",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-09",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "On 13 August 2008, this trial was submitted to ClinicalTrials.gov as modification to NCT00362297. On 28 April 2011, the two records were split for administrative purposes and each trial was given its own unique study record. Please refer to the \"History of Changes\" on posting NCT00362297 for a detailed summary of the modifications.\n\nThe purpose of the research study is to evaluate the effectiveness of high-dose valacyclovir compared to once daily valacyclovir for reduction of asymptomatic HSV-2 ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older;\n* HSV-2 seropositive by Western Blot;\n* not receiving any drugs with known anti-HSV-2 activity for study duration;\n* history of primary genital herpes infection within past 6 months OR history of 4 or more HSV recurrences per year during the past year OR 4 o",
+      "endpoints": [
+        "Frequency of HSV-2 Total Shedding From the Genital Tract as Measured by PCR, Calculated Using a Per-day Shedding Rate in Participants Treated With High-dose Valacyclovir as Compared to Once-daily Valacyclovir."
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT01346475"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00059592",
+      "title": "Valacyclovir in Immunocompromised Children",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "1998-04-07",
+      "completion_date": "2005-05-05",
+      "country": "United States",
+      "enrollment": 37,
+      "brief_summary": "Shingles is an infection commonly seen in children with a weakened immune system (immunocompromised children). The immune system can be weakened as a result of medications that patients receive for cancer or other serious illness or as a result of a bone marrow transplantation. Shingles in children with a weakened immune system may spread throughout the body and in some instances may be life-threatening. Acyclovir is a medication that is routinely used to treat immunocompromised children with sh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be \\>/= 2 and \\</= 18 years old.\n* Patients must have a life expectancy of \\> 8 weeks.\n* Patients must be receiving chemotherapy or have been treated with bone marrow transplantation or chemotherapy for an underlying malignancy or medical condition in the past 12",
+      "endpoints": [],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00059592"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00486200",
+      "title": "A Phase II, Dose-Finding Study With ASP2151 in Subjects With Recurrent Episodes of Genital HErpes",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-06-21",
+      "completion_date": "2008-08-12",
+      "country": "United States",
+      "enrollment": 695,
+      "brief_summary": "A study of ASP2151 in subjects with recurrent outbreaks of genital herpes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject has a history of genital HSV documented by laboratory testing at screening\n* Subject has experienced 4 or more episodes of genital herpes during the past 12 months\n\nExclusion Criteria:\n\n* Subject is immunocompromised",
+      "endpoints": [
+        "To compare the efficacy and safety of ASP2151 with valacyclovir and placebo in the acute treatment of recurrent genital Herpes Simplex Virus Infection"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00486200"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00209352",
+      "title": "Randomized Trial of Long-Term Oral Acyclovir Usage to Prevent Varicella Zoster Virus Infection After Allogeneic Bone Marrow Transplant",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1985-06",
+      "completion_date": "2004-07",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "The objective of this study is to prevent reactivation of herpes zoster during the first year after transplant.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 10 years or older\n* Both sex (male or female)\n* Allogeneic transplant patient for hematologic malignancy or aplastic anemia\n\nExclusion Criteria:\n\n* Previous intolerance to acyclovir\n* Patients who are unavailable for follow-up\n* Patients in whom drug compliance may be a proble",
+      "endpoints": [
+        "VZV infection at one year"
+      ],
+      "sponsor": "Fred Hutchinson Cancer Center",
+      "url": "https://clinicaltrials.gov/study/NCT00209352"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06134492",
+      "title": "Effect of Acyclovir Therapy on the Outcome of Ventilated Patients With Lower Respiratory Tract Infection and Detection of Herpes Simplex Virus in Bronchoalveolar Lavage",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-02-20",
+      "completion_date": "2026-12",
+      "country": "Germany",
+      "enrollment": 616,
+      "brief_summary": "Almost 90 out of 100 people carry herpes simplex viruses (HSV). Once a person has been infected with the herpes viruses, he or she can't get rid of them for the rest of her/his life. For the most part, the viruses are in a dormant state. Only when the immune system is weakened, for example in the case of a serious illness or stress, are the viruses reactivated. They then mainly cause cold sores, which are harmless for healthy people and usually heal without therapy. However, especially in people",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥ 18 years\n2. need for invasive or non-invasive respiratory support\n3. PCR HSV-1 detection in BAL (≥ 10\\^3 copies/ml)\n4. Pneumonia (community or healthcare acquired, incl. ventilator-associated pneumonia)\n5. declaration of consent by the patient or legal representative\n\nExclu",
+      "endpoints": [
+        "mortality (survival status)"
+      ],
+      "sponsor": "Jena University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06134492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00478465",
+      "title": "A Randomized, Double-blind, Placebo-controlled Clinical Trial to Evaluate the Efficacy and Safety of Valganciclovir (Valcyte) in Patients Experiencing Chronic Fatigue Syndrome With Elevated Antibody Titers Against Human Herpesvirus-6 (HHV-6) and Epstein-Barr Virus (EBV)",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2007-08",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "The purpose of this study determine whether the drug valganciclovir has a significant and real benefit on the central core of symptoms experienced by patients who have high titers to EBV and HHV-6 and are experiencing long-standing fatigue and cognitive impairment (CFS).\n\nIn addition, to characterize a quantifiable biological marker in these patients that will facilitate the identification of those likely to respond to valganciclovir and will make it possible to assess response to treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult patients (≥ 18 years old).\n2. Patient understands and signs the Informed Consent.\n3. Patients who meet the clinical criteria for the diagnosis of chronic fatigue syndrome as established by the International Chronic Fatigue Syndrome Study Group in 1994 \\[10\\].\n4. Patient",
+      "endpoints": [],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00478465"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04165122",
+      "title": "A Randomized, Double-Blind, Double-Dummy Phase II Study of Single Dose HDIT101 Versus Standard of Care Valaciclovir in Patients With Chronic Recurrent Anogenital HSV-2 Infection",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-11-15",
+      "completion_date": "2021-11-01",
+      "country": "Germany",
+      "enrollment": 122,
+      "brief_summary": "This is a randomized, double-blind, double-dummy study of single dose HDIT101 versus Standard of Care Valaciclovir.\n\nHSV-2-positive patients with at least 4 anogenital herpes lesions in the last 12 months (or at least 2 herpes lesions with previous valaciclovir long-term therapy) can be included.\n\nIf a patients develops a anogenital Herpes lesion within 4 months after the screening visit, the patients will be randomized in a 2:1 ratio to HDIT i.v. infusion + episodic treatment with 500 mg Valaci",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 18 years at the time of signing informed consent.\n2. Signed informed consent for participation in the study.\n3. Understanding, ability, and willingness to fully comply with study interventions and restrictions.\n4. Seropositive for HSV-2.\n5. History of chronic recurrent ",
+      "endpoints": [
+        "Percentage of days with lesion(s) per treatment group"
+      ],
+      "sponsor": "Heidelberg ImmunoTherapeutics GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT04165122"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04530162",
+      "title": "Prevention of Post Herpetic Neuralgia by Ultrasound Guided Single Nerve Block in the Emergency Department",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2021-10-01",
+      "completion_date": "2022-06-10",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Herpes zoster causes significant morbidity on over 1 million Americans every year. Although the majority of herpes zoster pain will self-resolve within one week, a significant proportion of patients will develop postherpetic neuralgia (PHN), which is characterized by debilitating pain that persists more than three months after the initial symptoms. Nerve blocks have been previously studied as a method to control herpes zoster pain in outpatient pain clinics and inpatient settings. This study aim",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. age over 18\n2. herpes zoster pain\n3. pain onset within 30 days of characteristic dermatomal herpes zoster rash\n\nExclusion Criteria:\n\n1. allergic to bupivacaine\n2. signs of infection over herpes zoster site\n3. greater than 30 days duration of pain\n4. pain across more than one ",
+      "endpoints": [
+        "Incidence of subacute herpetic neuralgia"
+      ],
+      "sponsor": "Maimonides Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04530162"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000693",
+      "title": "Suppression of Cytomegalovirus Retinitis Utilizing High Dose Intravenous Acyclovir and Oral Zidovudine in Patients With AIDS",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1992-03",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "To study the use of acyclovir (ACV) and zidovudine (AZT) in the treatment of cytomegalovirus (CMV) retinitis in patients with AIDS who would otherwise be treated with ganciclovir (DHPG) alone.\n\nCMV retinitis is one of the most common opportunistic infections in patients with AIDS. DHPG is at present the only drug available for widespread compassionate use in the United States. Although most patients respond to treatment with DHPG, the medication does not cure the infection. Most patients will ha",
+      "eligibility_criteria": "Inclusion Criteria\n\nPrior Medication:\n\nRequired:\n\n* Patients must have successfully completed remission induction therapy with ganciclovir (minimum of 14 days of therapy) for acute cytomegalovirus (CMV) retinitis within the preceding 48 hours. Patients who show no evidence of progressive disease are",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000693"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362297",
+      "title": "A Randomized, Cross-Over Study to Evaluate the Suppressive Effect of High-Dose Acyclovir Versus Once Daily Valacyclovir on Herpes Simplex Virus Type 2 Genital Shedding in Herpes Simplex Virus-2 Seropositive Adults",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2011-09",
+      "country": "United States",
+      "enrollment": 31,
+      "brief_summary": "The purpose of the research study is to evaluate the effectiveness of high-dose acyclovir compared to valacyclovir for reduction of asymptomatic genital shedding in persons with genital herpes.\n\nThe study will enroll men and women who are 18 years or older, test positive to HSV-2 (by blood test) and have had a first outbreak of HSV-2 within the past 6 months or have had at least 4 genital herpes outbreaks in the past year. Participants must be HIV negative and willing to stop taking suppressive ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. 18 years or older;\n2. HSV-2 seropositive by Western Blot;\n3. not receiving any drugs with known anti-HSV-2 activity for study duration;\n4. history of primary genital herpes infection within past 6 months OR history of 4 or more HSV recurrences per year during the past year OR",
+      "endpoints": [
+        "Frequency of HSV-2 Total Shedding From the Genital Tract as Measured by PCR, Calculated Using a Per-day Shedding Rate in Participants Treated With High-dose Acyclovir as Compared to Once-daily Valacyclovir."
+      ],
+      "sponsor": "University of Washington",
+      "url": "https://clinicaltrials.gov/study/NCT00362297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00769314",
+      "title": "A Randomised, Double-Blind, Single Dose, One-Day Early Administration, Multicentre Study Comparing the Efficacy and Safety of Acyclovir Lauriad® 50 mg Muco-adhesive Buccal Tablet to Matching Placebo, in the Treatment of Herpes Labialis in Immunocompetent Patients.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-08",
+      "country": "France, Czechia, Germany, Australia, United Kingdom, Poland, United States",
+      "enrollment": 1727,
+      "brief_summary": "To demonstrate the efficacy of a single dose of acyclovir Lauriad® 50mg muco-adhesive buccal tablet versus a single dose of matching placebo on the primary vesicular lesion of cold sore.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of recurrent herpes labialis lesions where:\n\n  * At least 50% of previous episodes produced classical lesions to the vesicular stage (i.e. episodes that progressed through macula, papule, vesicle, crust and healed);\n  * Prodromal symptoms (itching, tingling, pain etc.)",
+      "endpoints": [
+        "Time to Healing (TTH) of Vesicular Primary Lesion"
+      ],
+      "sponsor": "Valerio Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT00769314"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02265913",
+      "title": "Comparative Safety and Efficacy of Two Antiviral Treatments in the Treatment of Recurrent Herpes Simplex Labialis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-10-06",
+      "completion_date": "2017-11-21",
+      "country": "United States",
+      "enrollment": 4076,
+      "brief_summary": "To compare safety and efficacy of Perrigo's antiviral drug product compared to an FDA approved antiviral drug product in the treatment of cold sores.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Provides written informed consent/assent\n2. Immunocompetent male or non-pregnant females, \\>12 years old, with limited, non-life-threatening, recurrent herpes simplex labialis.\n3. Subjects must have at least 3 recurrences of herpes simplex labialis per year for the past two y",
+      "endpoints": [
+        "Lesion Healing"
+      ],
+      "sponsor": "Padagis LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02265913"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362596",
+      "title": "A Randomized Controlled Crossover Trial of Acylcovir Among HIV and HSV-2 Co-Infected Women, Chiang Rai, Thailand",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2005-08",
+      "country": "Thailand",
+      "enrollment": 67,
+      "brief_summary": "Herpes infection is an important co-factor in HIV transmission. A recent meta-analysis demonstrated that HSV infection contributed to a 2-fold increased risk of HIV transmission. Suppressive therapy with acyclovir has been a method proposed to reduce HIV transmission. We are conducting a randomized controlled cross-over trial to evaluate the effect of acyclovir suppressive therapy on HIV genital shedding in women co-infected with HIV-1 and Herpes Simplex Virus Type-2 (HSV-2) in Thailand.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* participants will be HIV and HSV-2 seropositive\n\nExclusion Criteria:\n\n* pregnancy, CD4 count \\<200, on ART",
+      "endpoints": [
+        "To evaluate the effect of acyclovir suppressive therapy on HIV genital shedding."
+      ],
+      "sponsor": "Centers for Disease Control and Prevention",
+      "url": "https://clinicaltrials.gov/study/NCT00362596"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00002000",
+      "title": "A Study to Compare the Efficacy and Safety of Valacyclovir Hydrochloride ( 256U87 ) Versus Acyclovir in the Treatment of Recurrent Anogenital Herpes Infections in HIV Infected Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "To evaluate the safety and efficacy of oral valacyclovir hydrochloride (256U87) vs. acyclovir in the treatment of recurrent anogenital herpes in HIV-infected patients (CD4 greater than or equal to 100).",
+      "eligibility_criteria": "Inclusion Criteria\n\nPatients must have the following:\n\n* HIV-infected individual (CD4 = or \\> 100) with a history of recurrent anogenital herpes.\n* Signed the consent form or present a signed parental consent form if below 18 years.\n\nExclusion Criteria\n\nCo-existing Condition:\n\nPatients with the foll",
+      "endpoints": [],
+      "sponsor": "NIH AIDS Clinical Trials Information Service",
+      "url": "https://clinicaltrials.gov/study/NCT00002000"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04081480",
+      "title": "Pharmacokinetics of a New Paediatric Formulation of Valacyclovir Used for Prophylaxis and Treatment of Varicella Zoster Virus (VZV) and Herpes Simplex Virus (HSV) Infections in Children, Phase II (VALID II)",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2019-12-10",
+      "completion_date": "2021-05-12",
+      "country": "Netherlands",
+      "enrollment": 7,
+      "brief_summary": "Valacyclovir has replaced acyclovir in many clinical scenarios. Pharmacokinetic data support the use of oral valacyclovir in children, but practical problems exist in children having to take adult-dose tablets. A formulation with acceptable palatability, good pharmaceutical quality and possibility of flexible dosing is developed. Pharmacokinetic data of this formulation is missing.\n\nThe present study investigates the pharmacokinetics of valacyclovir oral solution in children by determine the are",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is in the age of 2-12 years.\n* Subject has an indication for (val)acyclovir prophylaxis and are planned to receive valacyclovir oral solution.\n* Subject is managed with a central venous catheter (CVC/Port-a-Cath).\n* Subject's parents have signed the Informed Consent Fo",
+      "endpoints": [
+        "Area under the curve",
+        "Cmax",
+        "Tmax"
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04081480"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01250561",
+      "title": "Reduction of Postherpetic Neuralgia in Herpes Zoster",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2002-02",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 133,
+      "brief_summary": "The addition of gabapentin therapy to standard antiviral treatment with valacyclovir in acute herpes zoster patients will decrease the incidence of post-herpetic neuralgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients of 50 years of age and older.\n* Patients with a clinical diagnosis of uncomplicated herpes zoster presenting within the first 72 hours of vesicles.\n* Patients who are willing and able to comply with the requirements of the study.\n* Patients who are will",
+      "endpoints": [
+        "Proportion of patients with zoster pain at 6 months"
+      ],
+      "sponsor": "Center for Clinical Studies, Texas",
+      "url": "https://clinicaltrials.gov/study/NCT01250561"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00001054",
+      "title": "A Phase I Trial to Evaluate the Pharmacokinetics, Safety, and Tolerance of Valacyclovir HCl in HIV-1 Infected Children With Herpes Simplex Infections or Varicella/Zoster Infections",
+      "phase": "PHASE1",
+      "status": "WITHDRAWN",
+      "start_date": "",
+      "completion_date": "2001-01",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "To obtain tolerance, safety, and pharmacokinetic data for oral valacyclovir hydrochloride ( 256U87 ) in HIV-1 infected children with herpes simplex virus infections ( cold sores ) and/or varicella / zoster virus infections ( chicken pox / shingles ).\n\nVaricella and zoster are common problems in HIV-infected children. It is believed that chronic oral therapy with acyclovir may result in subtherapeutic concentrations of acyclovir, resulting in resistance to that drug. Valacyclovir hydrochloride, w",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Antiretrovirals.\n* PCP prophylaxis.\n* IVIG, G-CSF, and erythropoietin.\n\nConcurrent Treatment:\n\nAllowed:\n\n* Transfusions.\n\nPatients must have:\n\n* Localized mucocutaneous herpes simplex OR undisseminated varicella or zoster.\n* HIV positive. NOTE:",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00001054"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04664127",
+      "title": "Clinical and Immunological Study of the Efficacy and Safety of Combined Treatment of Patients With Severe Herpes Simplex (HSV) Infection) by Acyclic Nucleoside Valacyclovir and Interferon Inducer Kagocel",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-10-30",
+      "completion_date": "2018-10-29",
+      "country": "Russia",
+      "enrollment": 45,
+      "brief_summary": "This study examined the efficacy, safety and benefits of modern treatment and changes in the dynamics of the life of adult patients quality with severe herpes simplex in the current medical practice when combined therapy by acyclic nucleoside Valacyclovir and antiviral agent Kagocel versus monotherapy by Valacyclovir. This study also evaluated the structure of herpesvirus infections and the rate of mixed variants of the course, the rate of exacerbations of herpes simplex, the time of disappearan",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients ≥ 18 years old\n* The absence of systemic etiotropic antiviral and immunosuppressive therapy for at least a year at the time of inclusion in this study\n* Severe herpes simplex (HSV infection with orolabial and / or genital localization) with a recurrence rate of 6 or m",
+      "endpoints": [
+        "Change of the patients proportion with different localizations of herpes simplex exacerbations.",
+        "Change of the rate of exacerbations of orolabial, genital and other localization herpes simplex",
+        "Change of the number of patients with varying degrees of severity illness"
+      ],
+      "sponsor": "Nearmedic Plus LLC",
+      "url": "https://clinicaltrials.gov/study/NCT04664127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00306787",
+      "title": "A Multicenter, Randomized, Double-blind Study to Compare the Efficacy and Safety of Patient-initiated Famciclovir 1000 mg b.i.d. x 1 Day to Valacyclovir 500 mg b.i.d. x 3 Days in Immunocompetent Adults With Recurrent Genital Herpes",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-02",
+      "country": "Germany, Australia, Canada, United States",
+      "enrollment": 1179,
+      "brief_summary": "This study will assess the safety and efficacy of one-day famciclovir (1000 mg twice a day (b.i.d)) in reducing the duration of genital herpes lesions and the associated symptoms compared to three-day treatment with valacyclovir (500 mg capsule b.i.d).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years old\n* History of at least 4 recurrences of genital herpes in the preceding 12 months\n* Lesions located on the external genitalia or anogenital region\n* Willing to discontinue suppressive treatment\n* Documented positive herpes simplex virus (HSV)\n* General goo",
+      "endpoints": [
+        "Investigator-assessed Time to Healing of All Non-aborted Genital Herpes Lesions"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00306787"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00006132",
+      "title": "Phase III Randomized Study of Oral Acyclovir in Infants With Herpes Simplex Virus Infection Involving the Central Nervous System",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "1997-06",
+      "completion_date": "",
+      "country": "Canada, United States",
+      "enrollment": 132,
+      "brief_summary": "OBJECTIVES: I. Determine the efficacy of long term suppressive therapy with oral acyclovir in infants with herpes simplex virus infection involving the central nervous system.\n\nII. Determine whether neurologic outcome is improved in these patients when treated with this regimen.\n\nIII. Determine whether continuous administration of this drug suppresses recurrent skin lesions in these patients.\n\nIV. Determine the safety of this regimen in these patients.",
+      "eligibility_criteria": "PROTOCOL ENTRY CRITERIA:\n\n--Disease Characteristics--\n\n* Infants diagnosed with herpes simplex virus infection involving the central nervous system with or without evidence of viral dissemination to other organs (i.e., skin, liver, or lungs) HSV-1 or HSV-2 isolated from cutaneous lesions from any si",
+      "endpoints": [],
+      "sponsor": "National Center for Research Resources (NCRR)",
+      "url": "https://clinicaltrials.gov/study/NCT00006132"
+    }
+  ],
+  "timestamp": "2026-03-04T14:52:54.537770",
+  "success": true,
+  "error_message": null
+}

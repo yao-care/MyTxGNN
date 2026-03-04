@@ -6,7 +6,7 @@ drug_name: "Sodium Citrate"
 kg_predictions: 90
 dl_predictions: 132
 evidence_level: "L1"
-indication_count: 90
+indication_count: 5
 brands: []
 permalink: /drugs/sodium-citrate/
 ---

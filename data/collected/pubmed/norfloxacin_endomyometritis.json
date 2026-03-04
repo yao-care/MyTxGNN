@@ -1,0 +1,66 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Norfloxacin",
+    "disease": "endomyometritis",
+    "query_string": "Norfloxacin AND endomyometritis"
+  },
+  "data": {
+    "query": "Norfloxacin AND endomyometritis",
+    "results": [
+      {
+        "pmid": "38787195",
+        "title": "Isolation and Identification of Morganella morganii from Rhesus Monkey (Macaca mulatta) in China.",
+        "abstract": "A bacterium was isolated and identified from the secretion of a rhesus monkey with endometritis. The morphological results showed that the strain exhibited round, convex, gray-white colonies with smooth surfaces and diameters ranging from 1 to 2 mm when cultured on Columbia blood agar at 37 °C for 24 h; on salmonella-shigella agar (S.S.) at 37 °C for 24 h, the colonies appeared round, flat, and translucent. Gram staining showed negative results with blunt ends and non-spore-forming characteristics. Molecular biology results showed that the 16S rRNA sequence of the strain revealed over 96.9% similarity with published sequences of M. morganii from different sources in the NCBI GenBank database. Morphological and molecular biology analysis confirmed that the strain (RM2023) isolated from cervical secretions of rhesus monkey was M. morganii. Drug sensitivity testing demonstrated that the isolated strain (RM2023) was sensitive to ceftriaxone, amikacin, gentamicin, cefazolin, cefuroxime, cef",
+        "journal": "Veterinary sciences",
+        "year": "2024",
+        "authors": [
+          "Li Heling",
+          "Chen Zhigang",
+          "Ning Qing",
+          "Zong Faliang",
+          "Wang Hong"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38787195/"
+      },
+      {
+        "pmid": "20129803",
+        "title": "Sensitivity to antibiotics of Arcanobacterium pyogenes and Escherichia coli from the uteri of cows with metritis/endometritis.",
+        "abstract": "The aim of the study was to determine the in vitro sensitivity of 161 Arcanobacterium pyogenes strains and 99 Escherichia coli strains isolated from the uteri of 312 cows with metritis/endometritis. Animals with pathological discharges were clinically diagnosed per rectum and per vaginum, and then swabs from the lumen of the uterus were aseptically collected. Bacteriological examination of swabs was according to commonly accepted procedures with the additional use of API tests. Sensitivity to antibiotics was tested by the disk diffusion method and performed in Mueller-Hinton agar. Arc. pyogenes strains were the most sensitive to amoxicillin/clavulanic acid (Amc) (97.3%), bacitracin (96.7%), ceftiofur (95.8%) and cephapirin (77.5%). E. coli strains were the most sensitive to norfloxacin (98.1%), marbofloxacin (95.8%), gentamycin (88%), Amc (80.7%) and ceftiofur (73.1%). Arc. pyogenes and E. coli were most resistant to oxytetracycline (63.7% and 31%, respectively).",
+        "journal": "Veterinary journal (London, England : 1997)",
+        "year": "2011",
+        "authors": [
+          "Malinowski Edward",
+          "Lassa Henryka",
+          "Markiewicz Hanna",
+          "Kaptur Maciej",
+          "Nadolny Marek"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Actinomycetales Infections",
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Arcanobacterium",
+          "Cattle",
+          "Cattle Diseases",
+          "Endometritis",
+          "Escherichia coli",
+          "Escherichia coli Infections",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20129803/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:31:43.508203",
+  "success": true,
+  "error_message": null
+}

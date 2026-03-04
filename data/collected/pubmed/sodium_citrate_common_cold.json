@@ -1,0 +1,190 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Sodium Citrate",
+    "disease": "common cold",
+    "query_string": "Sodium Citrate AND common cold"
+  },
+  "data": {
+    "query": "Sodium Citrate AND common cold",
+    "results": [
+      {
+        "pmid": "36897059",
+        "title": "Comparison of 99m Tc-methylenediphosphonate and 68 Ga-BPAMD PET/computed tomography imaging in bone metastasis.",
+        "abstract": "Bone is considered as the third most common site of metastases, besides lung and liver. Early detection of skeletal metastases aids in better management of skeletal-related events. In the present study cold kit-based 2,2 ' ,2 '' -(10-(2-((diphosphonomethyl)amino)-2-oxoethyl)-1,4,7,10-tetraazacyclododecane-1,4,7-triyl) triacetic acid (BPAMD) was labeled with 68 Ga. The radiolabeling parameters and clinical evaluation in patients with suspected bone metastases were compared with routinely used 99m Tc-methylenediphosphonate ( 99m Tc-MDP).",
+        "journal": "Nuclear medicine communications",
+        "year": "2023",
+        "authors": [
+          "Vatsa Rakhee",
+          "Kaur Damanpreet",
+          "Shekhar Shashank Singh",
+          "Chhabra Anupriya",
+          "Chakraborty Sudipta"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Positron-Emission Tomography",
+          "Diphosphonates",
+          "Radiopharmaceuticals",
+          "Bone Neoplasms",
+          "Technetium Tc 99m Medronate",
+          "Gallium Radioisotopes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36897059/"
+      },
+      {
+        "pmid": "24523302",
+        "title": "Assessment of a blood preservation protocol for use in ferrets before transfusion.",
+        "abstract": "Blood transfusion has been described in ferrets as a treatment for oestrus-associated anaemia and as a life-saving therapy following trauma, iatrogenic (usually surgery-induced) anaemia, autoimmune haemolytic anaemia and pure red cell aplasia. Although blood banking is a common method for storage of feline and canine blood it is not currently done with ferret blood. The aim of this study was to determine the shelf-life of ferret blood using the anticoagulant citrate-phosphate-dextrose-solution with adenine (CPDA). Two male ferrets were used as blood donors. From each ferret, 6 ml of blood was taken from the cranial vena cava and stored in 10 ml polyethylene terephthalate (PET) blood tubes containing 1 ml of CPDA solution. Blood was taken from each ferret once per month for five months. These 10 blood samples were stored in a laboratory refrigerator at 4°C for four weeks. Biochemical (glucose, pH, lactate, potassium, sodium) and haematological (haematocrit, light microscopic blood smear",
+        "journal": "The Veterinary record",
+        "year": "2014",
+        "authors": [
+          "Pignon C",
+          "Donnelly T M",
+          "Todeschini C",
+          "Deschamps J Y",
+          "Roux F A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Animals",
+          "Anticoagulants",
+          "Blood Preservation",
+          "Blood Transfusion",
+          "Citrates",
+          "Cold Temperature",
+          "Erythrocytes",
+          "Ferrets",
+          "Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24523302/"
+      },
+      {
+        "pmid": "8829883",
+        "title": "Effects of depolarizing or non-depolarizing preservation solutions on human endothelial cells during cold hypoxia.",
+        "abstract": "1. Hypothermic storage of whole organs flushed with a preservation solution is common practice in clinical transplantation. This procedure leaves vascular endothelial cells in direct contact with the preservation solution during the length of the cold ischaemic period. 2. Aiming to study the effects of organ preservation on vascular endothelium, we subjected cultures of human umbilical vein endothelial cells to hypoxic and hypothermic storage conditions in vitro for 3 or 16 h. Four preservation solutions with different levels of sodium and potassium were tested. Morphometric analysis and 51Cr leakage index were used to assess monolayer continuity, cell viability and membrane integrity. 3. Hypothermic storage resulted in severe changes in endothelial cell morphology with formation of intercellular gaps that destroyed monolayer continuity after only 3h. Cellular blebbing was a common feature in seriously damaged cells. 4. Morphometric analysis and 51Cr leakage results correlated well. No",
+        "journal": "Clinical science (London, England : 1979)",
+        "year": "1996",
+        "authors": [
+          "Hidalgo M A",
+          "Mann D J",
+          "Fuller B J",
+          "Green C J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Cell Hypoxia",
+          "Cell Membrane Permeability",
+          "Cells, Cultured",
+          "Chromium Radioisotopes",
+          "Cryopreservation",
+          "Endothelium, Vascular",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8829883/"
+      },
+      {
+        "pmid": "20039442",
+        "title": "Impact of freezing on pH of buffered solutions and consequences for monoclonal antibody aggregation.",
+        "abstract": "Freezing of biologic drug substance at large scale is an important unit operation that enables manufacturing flexibility and increased use-period for the material. Stability of the biologic in frozen solutions is associated with a number of issues including potentially destabilizing pH changes. The pH changes arise from temperature-associated change in the pK(a)s, solubility limitations, eutectic crystallization, and cryoconcentration. The pH changes for most of the common protein formulation buffers in the frozen state have not been systematically measured. Sodium phosphate buffer, a well-studied system, shows the greatest change in pH when going from +25 to -30 degrees C. Among the other buffers, histidine hydrochloride, sodium acetate, histidine acetate, citrate, and succinate, less than 1 pH unit change (increase) was observed over the temperature range from +25 to -30 degrees C, whereas Tris-hydrochloride had an approximately 1.2 pH unit increase. In general, a steady increase in ",
+        "journal": "Biotechnology progress",
+        "year": "2010",
+        "authors": [
+          "Kolhe Parag",
+          "Amend Elizabeth",
+          "Singh Satish K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Buffers",
+          "Chromatography, Gel",
+          "Cold Temperature",
+          "Cryoprotective Agents",
+          "Freezing",
+          "Histidine",
+          "Hydrogen-Ion Concentration",
+          "Immunoglobulin G",
+          "Phosphates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20039442/"
+      },
+      {
+        "pmid": "8065019",
+        "title": "[Parvovirus B19-induced aplastic crisis in a patient with iron deficiency anemia].",
+        "abstract": "A 38-year-old female was referred to Takaoka City Hospital for treatment of common-cold-like symptom and an episode of transient unconsciousness. Physical examination on admission revealed severe anemia and an ejection heart murmur. Complete blood count revealed microcytic hypochromic anemia (Hb 4.1 g/dl), leukocytopenia (2.600/microliters), thrombocytopenia (7.1 x 10(4)/microliters) and reticulocytopenia (17,000/microliters). The bone marrow cellularity was within normal limits. Cells in the erythroid series were decreased to 5% of total bone marrow nucleated cells with maturation arrest at the level of proerythroblasts. Giant proerythroblasts were observed in 0.2% of marrow nucleated cells. No stainable iron was seen. Both anti-parvovirus B19 IgM antibody and IgG antibody were positive in the serum and parvovirus B19 DNA was detected in the bone marrow cells by polymerase chain reaction. From these results, iron deficiency anemia complicated with pure red cell aplasia secondary to pa",
+        "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+        "year": "1994",
+        "authors": [
+          "Negami T",
+          "Ohta M",
+          "Okuda K",
+          "Shimizu S"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia, Hypochromic",
+          "Erythema Infectiosum",
+          "Female",
+          "Humans",
+          "Red-Cell Aplasia, Pure"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8065019/"
+      },
+      {
+        "pmid": "21244738",
+        "title": "Decreased rhinovirus shedding after intranasal oxymetazoline application in adults with induced colds compared with intranasal saline.",
+        "abstract": "Intranasal oxymetazoline (OMZ) is used as a decongestant during common colds. Recently, intracellular adhesion molecule (ICAM) 1 receptor expression in vitro has been shown to be diminished by OMZ. ICAM-1 is the major receptor used by rhinovirus to gain entry to human cells. The objective of this study was to assess the effect of OMZ on geometric mean titer of rhinovirus in nasal lavage fluid after rhinovirus inoculation.",
+        "journal": "American journal of rhinology & allergy",
+        "year": "2010",
+        "authors": [
+          "Winther Birgit",
+          "Buchert Dagobert",
+          "Turner Ronald B",
+          "Hendley J Owen",
+          "Tschaikin Marion"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Common Cold",
+          "Double-Blind Method",
+          "Female",
+          "Humans",
+          "Male",
+          "Nasal Decongestants",
+          "Oxymetazoline",
+          "Rhinovirus",
+          "Sodium Chloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21244738/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:26:01.728216",
+  "success": true,
+  "error_message": null
+}

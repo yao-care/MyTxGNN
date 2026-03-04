@@ -1,0 +1,415 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Clobetasol Propionate",
+    "disease": "seborrheic dermatitis",
+    "query_string": "Clobetasol Propionate AND seborrheic dermatitis"
+  },
+  "data": {
+    "query": "Clobetasol Propionate AND seborrheic dermatitis",
+    "results": [
+      {
+        "pmid": "19454093",
+        "title": "Seborrhoeic dermatitis.",
+        "abstract": "Seborrhoeic dermatitis affects at least 1-3% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation involving T cells and complement. Seborrhoeic dermatitis tends to relapse after treatment.",
+        "journal": "BMJ clinical evidence",
+        "year": "2007",
+        "authors": [
+          "Manríquez Juan Jorge",
+          "Uribe Pablo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Administration, Topical",
+          "Dermatitis, Seborrheic",
+          "Face",
+          "Humans",
+          "Ketoconazole",
+          "Lithium",
+          "Malassezia",
+          "Remission Induction",
+          "Scalp Dermatoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19454093/"
+      },
+      {
+        "pmid": "21418692",
+        "title": "Seborrhoeic dermatitis.",
+        "abstract": "Seborrhoeic dermatitis affects at least 10% of the population. Malassezia (Pityrosporum) ovale is thought to be the causative organism, and causes inflammation by still poorly defined mechanisms. Seborrhoeic dermatitis tends to relapse after treatment.",
+        "journal": "BMJ clinical evidence",
+        "year": "2010",
+        "authors": [
+          "Naldi Luigi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Betamethasone Valerate",
+          "Dermatitis, Seborrheic",
+          "Emollients",
+          "Hair Preparations",
+          "Humans",
+          "Hydrocortisone",
+          "Severity of Illness Index",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21418692/"
+      },
+      {
+        "pmid": "17569404",
+        "title": "Clobetasol propionate shampoo 0.05% in the treatment of seborrheic dermatitis of the scalp: results of a pilot study.",
+        "abstract": "Seborrheic dermatitis (SD), a common dermatosis associating hyperseborrhea, erythema, itching, and dandruff, has frequent scalp involvement. Malassezia furfur infection seems to play an important role in the condition's etiopathology. Treatment of SD usually consists of corticosteroids or antifungals, such as ketoconazole. The aim of this multicenter, randomized, investigator-blinded, parallel-group pilot study was to evaluate the efficacy and safety of clobetasol propionate shampoo 0.05% after different short-contact application times compared with its vehicle and ketoconazole foaming gel 2% in the treatment of SD of the scalp. For 4 weeks, 55 subjects received one of the following treatments twice weekly: clobetasol propionate shampoo for 2.5, 5, or 10 minutes; clobetasol propionate vehicle for 10 minutes; or ketoconazole foaming gel for 5 minutes before rinsing off. Efficacy criteria included total severity score (TSS) and individual scores of signs such as itching and global improv",
+        "journal": "Cutis",
+        "year": "2007",
+        "authors": [
+          "Reygagne Pascal",
+          "Poncet Michel",
+          "Sidou Farzaneh",
+          "Soto Pascale"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Female",
+          "Hair Preparations",
+          "Humans",
+          "Male",
+          "Pilot Projects"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17569404/"
+      },
+      {
+        "pmid": "16918053",
+        "title": "Fluconazole and its place in the treatment of seborrheic dermatitis--new therapeutic possibilities.",
+        "abstract": "Seborrheic dermatitis is a subacute or chronic disease of the skin, affecting the seborrhea afflicted areas and presenting with erythema and desquamation. The inflammatory reaction towards the fungi Malassezia spp. is considered to have a basic etiologic connection with this disease. Taking into consideration the pathogenesis, treatment of the dermatitis should be directed towards eradication of Malassezia spp., reduction of the skin lipids, and suppression of the inflammatory response. A wide variety of agents presented in different forms--ointments, shampoos and drugs--can offer quick, safe and effective treatment alternatives. The purpose of the present study was to monitor the therapeutic effects of the anti-fungal drug fluconazole in patients with seborrheic dermatitis. We compared two study groups of patients: Group I--27 patients with seborrheic dermatitis stage I, II and III, treated with fluconazole, 50 mg/day for two weeks. As topical therapy we applied clobetasol propionate ",
+        "journal": "Folia medica",
+        "year": "2006",
+        "authors": [
+          "Zisova Lilija G"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Antifungal Agents",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fluconazole",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16918053/"
+      },
+      {
+        "pmid": "21707573",
+        "title": "Efficacious and safe management of moderate to severe scalp seborrhoeic dermatitis using clobetasol propionate shampoo 0·05% combined with ketoconazole shampoo 2%: a randomized, controlled study.",
+        "abstract": "Topical antifungals and corticosteroids are the mainstay of treatment for seborrhoeic dermatitis. The short-contact clobetasol propionate 0·05% shampoo (CP) is an efficacious and safe once-daily treatment for scalp psoriasis.",
+        "journal": "The British journal of dermatology",
+        "year": "2011",
+        "authors": [
+          "Ortonne J-P",
+          "Nikkels A F",
+          "Reich K",
+          "Ponce Olivera R M",
+          "Lee J H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Antifungal Agents",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Dermatologic Agents",
+          "Drug Combinations",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21707573/"
+      },
+      {
+        "pmid": "26016669",
+        "title": "Seborrhoeic dermatitis of the scalp.",
+        "abstract": "Seborrhoeic dermatitis affects a variable proportion of the general population, ranging from 3% to 10%. Malassezia yeast species (previously referred to as Pityrosporum) are thought to be the responsible organisms, and cause inflammation by still poorly defined mechanisms. Seborrhoeic dermatitis tends to relapse after treatment.",
+        "journal": "BMJ clinical evidence",
+        "year": "2015",
+        "authors": [
+          "Naldi Luigi",
+          "Diphoorn Janouk"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Dermatitis, Seborrheic",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26016669/"
+      },
+      {
+        "pmid": "20120424",
+        "title": "The evolving role of therapeutic shampoos for targeting symptoms of inflammatory scalp disorders.",
+        "abstract": "Scalp lesions are common among patients with psoriasis, seborrheic dermatitis and a number of other inflammatory and fungal conditions. Topical corticosteroids are a mainstay of treatment for many scalp dermatoses and they significantly reduce erythema, scaling and pruritus. Conventional corticosteroid formulations such as cream and ointments are often difficult or time consuming for patients to apply and may produce undesirable cosmetic effects. Medicated shampoos provide a more convenient alternative for patients who require topical administration of corticosteroids for scalp conditions. Tar shampoos have long been used to treat psoriasis and are effective for the long-term maintenance of remission in patients who respond to therapy. Antifungal shampoos are effective for the treatment of seborrheic dermatitis and other mycotic conditions. A shampoo formulation containing fluocinolone acetonide, 0.01% is also approved for the treatment of seborrheic dermatitis. One superpotent cortico",
+        "journal": "Journal of drugs in dermatology : JDD",
+        "year": "2010",
+        "authors": [
+          "Kircik Leon"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Dermatitis, Seborrheic",
+          "Hair Preparations",
+          "Humans",
+          "Psoriasis",
+          "Scalp Dermatoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20120424/"
+      },
+      {
+        "pmid": "25362492",
+        "title": "Pruritic eruption on the chest.",
+        "abstract": "The fact that this patient's rash was limited to his chest provided an important diagnostic clue.",
+        "journal": "The Journal of family practice",
+        "year": "2014",
+        "authors": [
+          "Chwen Ch'ng Chin M"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acantholysis",
+          "Acneiform Eruptions",
+          "Administration, Oral",
+          "Administration, Topical",
+          "Biopsy",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Dermatologic Agents",
+          "Diagnosis, Differential",
+          "Drug Eruptions"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25362492/"
+      },
+      {
+        "pmid": "39830384",
+        "title": "Prescribing practices of corticosteroids in outpatient dermatology department of Injibara General Hospital, north-West Ethiopia, 2024.",
+        "abstract": "Corticosteroids are among the most frequently prescribed drugs in the world because they are extremely effective for the relief of symptoms of many inflammatory and immune disorders and other conditions. Corticosteroids have been a mainstay of pharmacotherapy in dermatological practice.",
+        "journal": "Frontiers in medicine",
+        "year": "2024",
+        "authors": [
+          "Tegegnie Alemu Bezabih",
+          "Alene Tamiru",
+          "Tamir Workineh",
+          "Sineshaw Meaza Molla"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39830384/"
+      },
+      {
+        "pmid": "38524395",
+        "title": "Use of Topical Corticosteroids in the Treatment of Noninfectious Inflammatory Dermatoses of the Scalp: A Survey of Practicing Dermatologists and Dermatology Residents Using Delphi Methodology.",
+        "abstract": "Noninfectious inflammatory dermatoses of the scalp are common, and their symptomsin particular, those affecting appearance, can have a psychological effect that may be disproportionate to their clinical severity. Effective, cosmetically acceptable treatments are important to manage these conditions. Topical corticosteroids form the cornerstone of acute treatment for many of these conditions. We surveyed practicing dermatologists and dermatology residents to determine the current clinical practice in prescribing topical corticosteroids for these disorders in their various preparation formats.",
+        "journal": "Clinical, cosmetic and investigational dermatology",
+        "year": "2024",
+        "authors": [
+          "Mir-Bonafé Juan Francisco",
+          "Piquero-Casals Jaime",
+          "Prudkin Ludmila",
+          "Delgado Jesus",
+          "Martínez Julia Santamaria"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38524395/"
+      },
+      {
+        "pmid": "25244174",
+        "title": "Increasing use of non-traditional vehicles for psoriasis and other inflammatory skin conditions.",
+        "abstract": "Although topical corticosteroid ointments were once viewed as the best vehicle for treating inflammatory skin diseases, the recognition of the problem of poor compliance and patients' preferences for other vehicles has led to the development of corticosteroid products in alternative formulations.",
+        "journal": "Dermatology online journal",
+        "year": "2014",
+        "authors": [
+          "Huang Karen E",
+          "Davis Scott A",
+          "Cantrell Jacob",
+          "Feldman Scott R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Anti-Inflammatory Agents",
+          "Clobetasol",
+          "Dermatitis",
+          "Dermatitis, Seborrheic",
+          "Dermatologic Agents",
+          "Female",
+          "Humans",
+          "Male",
+          "Medication Adherence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25244174/"
+      },
+      {
+        "pmid": "9552768",
+        "title": "Randomised double blind controlled trial of 2% ketoconazole cream versus 0.05% clobetasol 17-butyrate cream in seborrhoeic dermatitis.",
+        "abstract": "",
+        "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+        "year": "1998",
+        "authors": [
+          "Pari T",
+          "Pulimood S",
+          "Jacob M",
+          "George S",
+          "Jeyaseelan L"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Letter",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Antifungal Agents",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Double-Blind Method",
+          "Glucocorticoids",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9552768/"
+      },
+      {
+        "pmid": "2137101",
+        "title": "\"Wash leather scrotum\" (scrotal dermatitis): a treatable cause of male infertility.",
+        "abstract": "A group of 16 male patients with infertility had dermatitis of the scrotum and groins giving lichenified oedematous skin; the resulting thickening and loss of rugosity produced a characteristic appearance that we have termed wash leather scrotum. Treatment of the dermatosis resulted in an improvement in sperm count and motility in most patients, and 5 couples produced one or more pregnancies.",
+        "journal": "Fertility and sterility",
+        "year": "1990",
+        "authors": [
+          "Hendry W F",
+          "Munro D D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Topical",
+          "Adult",
+          "Anti-Inflammatory Agents",
+          "Clobetasol",
+          "Dermatitis",
+          "Dermatitis, Seborrheic",
+          "Female",
+          "Humans",
+          "Male",
+          "Neomycin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2137101/"
+      },
+      {
+        "pmid": "6226593",
+        "title": "[2 new liquid forms of clobetasol propionate in seborrheoic eczema].",
+        "abstract": "",
+        "journal": "Giornale italiano di dermatologia e venereologia : organo ufficiale, Societa italiana di dermatologia e sifilografia",
+        "year": "1982",
+        "authors": [
+          "Carboni G",
+          "Longhi Gelati M",
+          "Pierfelice V"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Betamethasone",
+          "Clinical Trials as Topic",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Dosage Forms",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6226593/"
+      },
+      {
+        "pmid": "6447927",
+        "title": "[Dermovate scalp application in dermatology. A multi-centre Swiss study (author's transl)].",
+        "abstract": "",
+        "journal": "Therapeutische Umschau. Revue therapeutique",
+        "year": "1980",
+        "authors": [
+          "Roduner J",
+          "Krebs A"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Alopecia",
+          "Betamethasone",
+          "Child",
+          "Child, Preschool",
+          "Clobetasol",
+          "Dermatitis, Seborrheic",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6447927/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:04:47.192795",
+  "success": true,
+  "error_message": null
+}

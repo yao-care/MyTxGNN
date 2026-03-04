@@ -1,0 +1,527 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Caffeine",
+    "disease": "headache disorder",
+    "query_string": "Caffeine AND headache disorder"
+  },
+  "data": {
+    "query": "Caffeine AND headache disorder",
+    "results": [
+      {
+        "pmid": "33974014",
+        "title": "Diagnosis and Management of Headache: A Review.",
+        "abstract": "Approximately 90% of people in the US experience headache during their lifetime. Migraine is the second leading cause of years lived with disability worldwide.",
+        "journal": "JAMA",
+        "year": "2021",
+        "authors": [
+          "Robbins Matthew S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Analgesics",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Calcitonin Gene-Related Peptide Receptor Antagonists",
+          "Diagnosis, Differential",
+          "Headache Disorders",
+          "Humans",
+          "Migraine Disorders",
+          "Tension-Type Headache",
+          "Tryptamines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33974014/"
+      },
+      {
+        "pmid": "35574653",
+        "title": "Dietary sources, health benefits, and risks of caffeine.",
+        "abstract": "Dietary intake of caffeine has significantly increased in recent years, and beneficial and harmful effects of caffeine have been extensively studied. This paper reviews antioxidant and anti-inflammatory activities of caffeine as well as its protective effects on cardiovascular diseases, obesity, diabetes mellitus, cancers, and neurodegenerative and liver diseases. In addition, we summarize the side effects of long-term or excessive caffeine consumption on sleep, migraine, intraocular pressure, pregnant women, children, and adolescents. The health benefits of caffeine depend on the amount of caffeine intake and the physical condition of consumers. Moderate intake of caffeine helps to prevent and modulate several diseases. However, the long-term or over-consumption of caffeine can lead to addiction, insomnia, migraine, and other side effects. In addition, children, adolescents, pregnant women, and people who are sensitive to caffeine should be recommended to restrict/reduce their intake ",
+        "journal": "Critical reviews in food science and nutrition",
+        "year": "2023",
+        "authors": [
+          "Saimaiti Adila",
+          "Zhou Dan-Dan",
+          "Li Jiahui",
+          "Xiong Ruo-Gu",
+          "Gan Ren-You"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Adolescent",
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Caffeine",
+          "Obesity",
+          "Diabetes Mellitus",
+          "Diet",
+          "Migraine Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35574653/"
+      },
+      {
+        "pmid": "26677204",
+        "title": "Effects of coffee/caffeine on brain health and disease: What should I tell my patients?",
+        "abstract": "Over the last decade, Food Regulation Authorities have concluded that coffee/caffeine consumption is not harmful if consumed at levels of 200 mg in one sitting (around 2½ cups of coffee) or 400 mg daily (around 5 cups of coffee). In addition, caffeine has many positive actions on the brain. It can increase alertness and well-being, help concentration, improve mood and limit depression. Caffeine may disturb sleep, but only in sensitive individuals. It may raise anxiety in a small subset of particularly sensitive people. Caffeine does not seem to lead to dependence, although a minority of people experience withdrawal symptoms. Caffeine can potentiate the effect of regular analgesic drugs in headache and migraine. Lifelong coffee/caffeine consumption has been associated with prevention of cognitive decline, and reduced risk of developing stroke, Parkinson's disease and Alzheimer's disease. Its consumption does not seem to influence seizure occurrence. Thus, daily coffee and caffeine intak",
+        "journal": "Practical neurology",
+        "year": "2016",
+        "authors": [
+          "Nehlig Astrid"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Brain",
+          "Caffeine",
+          "Coffee",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26677204/"
+      },
+      {
+        "pmid": "34865666",
+        "title": "Attention-deficit/hyperactivity disorder, headache and caffeine.",
+        "abstract": "",
+        "journal": "Psychological medicine",
+        "year": "2022",
+        "authors": [
+          "Musafia Boaz",
+          "Rosenberg Gilad"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Caffeine",
+          "Central Nervous System Stimulants",
+          "Headache"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34865666/"
+      },
+      {
+        "pmid": "32731623",
+        "title": "The Ambiguous Role of Caffeine in Migraine Headache: From Trigger to Treatment.",
+        "abstract": "Migraine is a chronic disorder, and caffeine has been linked with migraine for many years, on the one hand as a trigger, and on the other hand as a cure. As most of the population, including migraineurs, consume a considerable amount of caffeine daily, a question arises as to whether it influences their headaches. Indeed, drinking coffee before a migraine attack may not be a real headache trigger, but a consequence of premonitory symptoms, including yawning, diminished energy levels, and sleepiness that may herald a headache. Here, we aim to summarize the available evidence on the relationship between caffeine and migraines. Articles concerning this topic published up to June 2020 were retrieved by searching clinical databases, and all types of studies were included. We identified 21 studies investigating the prevalence of caffeine/caffeine withdrawal as a migraine trigger and 7 studies evaluating caffeine in acute migraine treatment. Among them, in 17 studies, caffeine/caffeine withdr",
+        "journal": "Nutrients",
+        "year": "2020",
+        "authors": [
+          "Nowaczewska Magdalena",
+          "Wiciński Michał",
+          "Kaźmierczak Wojciech"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Beverages",
+          "Caffeine",
+          "Child",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Migraine Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32731623/"
+      },
+      {
+        "pmid": "22928360",
+        "title": "[Caffeine--common ingredient in a diet and its influence on human health].",
+        "abstract": "Caffeine is widely consumed by people of all ages. In the last period a market of caffeine-containing products, particularly energy drinks and food supplements increased. Caffeine for years is under discussion, whether has positive whether adverse impact on health. Children are a group of special anxieties. Caffeine is a stimulant of central nervous system and therefore is probably the most commonly used psychoactive substance in the world. The physiological effect of caffeine and the lack of nutrition value causes a great interest its impact on health, especially with reference to the risk of cardiovascular diseases. Results of scientific research are not clear. The influence of caffeine on the human body is conditioned with the individual metabolism of caffeine which also depends on many endogenic and environmental factors. According to the current knowledge moderate caffeine intake by healthy adults at a dose level of 400 mg a day is not associated with adverse effects, but it also ",
+        "journal": "Roczniki Panstwowego Zakladu Higieny",
+        "year": "2012",
+        "authors": [
+          "Wierzejska Regina"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Brain",
+          "Caffeine",
+          "Cardiovascular Diseases",
+          "Central Nervous System Stimulants",
+          "Child",
+          "Coffee",
+          "Dietary Supplements",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22928360/"
+      },
+      {
+        "pmid": "32449944",
+        "title": "The Role of Diet and Nutrition in Migraine Triggers and Treatment: A Systematic Literature Review.",
+        "abstract": "Migraine is a disabling primary headache disorder often associated with triggers. Diet-related triggers are a common cause of migraine and certain diets have been reported to decrease the frequency of migraine attacks if dietary triggers or patterns are adjusted.",
+        "journal": "Headache",
+        "year": "2020",
+        "authors": [
+          "Hindiyeh Nada Ahmad",
+          "Zhang Niushen",
+          "Farrar Mallory",
+          "Banerjee Pixy",
+          "Lombard Louise"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Diet",
+          "Diet Therapy",
+          "Feeding Behavior",
+          "Humans",
+          "Migraine Disorders",
+          "Precipitating Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32449944/"
+      },
+      {
+        "pmid": "25728949",
+        "title": "Caffeine and headache: specific remarks.",
+        "abstract": "Caffeine is the most widely used psychostimulant worldwide. Excessive caffeine consumption induces a series of both acute and chronic biological and physiological changes that may give rise to cognitive decline, depression, fatigue, insomnia, cardiovascular changes, and headache. Chronic consumption of caffeine promotes a pro-nociceptive state of cortical hyperexcitability that can intensify a primary headache or trigger a headache due to excessive analgesic use. This review offers an in-depth analysis of the physiological mechanisms of caffeine and its relationship with headache.",
+        "journal": "Neurologia (Barcelona, Spain)",
+        "year": "2017",
+        "authors": [
+          "Espinosa Jovel C A",
+          "Sobrino Mejía F E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Caffeine",
+          "Central Nervous System Stimulants",
+          "Headache",
+          "Headache Disorders",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25728949/"
+      },
+      {
+        "pmid": "15448977",
+        "title": "A critical review of caffeine withdrawal: empirical validation of symptoms and signs, incidence, severity, and associated features.",
+        "abstract": "Although reports of caffeine withdrawal in the medical literature date back more than 170 years, the most rigorous experimental investigations of the phenomenon have been conducted only recently.",
+        "journal": "Psychopharmacology",
+        "year": "2004",
+        "authors": [
+          "Juliano Laura M",
+          "Griffiths Roland R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Caffeine",
+          "Diagnostic and Statistical Manual of Mental Disorders",
+          "Humans",
+          "Incidence",
+          "Meta-Analysis as Topic",
+          "Severity of Illness Index",
+          "Substance Withdrawal Syndrome",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15448977/"
+      },
+      {
+        "pmid": "40378325",
+        "title": "Migraine Headache Prophylaxis.",
+        "abstract": "In the United States, the prevalence of migraines is 11% to 14%; prevalence of chronic migraine is 1%. Goals of migraine prophylaxis include reduction in headache severity and frequency, improved response to acute treatment, fewer days with disability, improvement in quality of life, and empowerment of patients with a sense of control over the condition. Indications for consideration of preventive therapy include frequent headaches, failure of or contraindication to acute treatments, overuse of acute treatments, and patient preference. First-line medications include propranolol, metoprolol, topiramate, divalproex, valproate, and calcitonin gene-related peptide receptor antagonists. However, use of calcitonin gene-related peptide receptor antagonists is limited by cost and insurance coverage. Amitriptyline and venlafaxine are considered second-line medications due to a greater number of adverse events and less supporting evidence, respectively. OnabotulinumtoxinA (Botox) injection is ap",
+        "journal": "American family physician",
+        "year": "2025",
+        "authors": [
+          "Moreland Paige",
+          "Gaffney Brody",
+          "Lanham Jason S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Migraine Disorders",
+          "Botulinum Toxins, Type A",
+          "Cognitive Behavioral Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40378325/"
+      },
+      {
+        "pmid": "18625110",
+        "title": "Caffeine and headaches.",
+        "abstract": "Caffeine is the most widely consumed psychostimulant drug in the world. With intermittent exposures, caffeine may act as a mild analgesic for headache or as an adjuvant for the actions of other analgesics. Chronic repetitive exposures to caffeine increase the risks for development of analgesic-overuse headache, chronic daily headache, and physical dependency. Cessation of caffeine use after chronic exposures leads to a withdrawal syndrome with headache as a dominant symptom. At dosages achieved by common dietary intake, caffeine acts as a potent antagonist of central and peripheral nervous system adenosine receptors. The complex effects of caffeine on headache disorders suggest important roles for adenosine in these disorders and in the induction of caffeine dependency.",
+        "journal": "Current pain and headache reports",
+        "year": "2008",
+        "authors": [
+          "Shapiro Robert E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Caffeine",
+          "Headache",
+          "Headache Disorders, Secondary",
+          "Humans",
+          "Substance Withdrawal Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18625110/"
+      },
+      {
+        "pmid": "17508167",
+        "title": "Caffeine and headaches.",
+        "abstract": "Caffeine is the most widely consumed psychostimulant drug. It is a potent antagonist of adenosine receptors at dosages consistent with common dietary intake. With infrequent exposure, caffeine may act as an analgesic for headache or an adjuvant for the actions of other analgesics. With chronic repetitive intake, caffeine is associated with an increased risk of development of analgesicoveruse headache, chronic daily headache and physical dependency. Cessation of caffeine use following chronic exposures leads to a withdrawal syndrome, with headache as a dominant symptom.",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "year": "2007",
+        "authors": [
+          "Shapiro R E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenosine",
+          "Brain",
+          "Caffeine",
+          "Drug Combinations",
+          "Drug Synergism",
+          "Headache Disorders",
+          "Headache Disorders, Secondary",
+          "Humans",
+          "Purinergic P1 Receptor Agonists",
+          "Receptors, Purinergic P1"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17508167/"
+      },
+      {
+        "pmid": "39467289",
+        "title": "2023 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline for the Management of Headache.",
+        "abstract": "Headache medicine and therapeutics evidence have been rapidly expanding and evolving since the 2020 U.S. Department of Veterans Affairs (VA) and U.S. Department of Defense (DoD) clinical practice guideline (CPG) for the management of headache. Therefore, the CPG was revised in 2023, earlier than the standard 5-year cycle. This article reviews the 2023 CPG recommendations relevant to primary care clinicians for treatment and prevention of migraine and tension-type headache (TTH).",
+        "journal": "Annals of internal medicine",
+        "year": "2024",
+        "authors": [
+          "Sico Jason J",
+          "Antonovich Natasha M",
+          "Ballard-Hernandez Jennifer",
+          "Buelt Andrew C",
+          "Grinberg Amy S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "United States",
+          "Migraine Disorders",
+          "Tension-Type Headache",
+          "United States Department of Veterans Affairs",
+          "United States Department of Defense",
+          "Analgesics"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39467289/"
+      },
+      {
+        "pmid": "23039391",
+        "title": "Hypnic headache and caffeine.",
+        "abstract": "Hypnic headache (HH) is a rare primary headache disorder primarily affecting patients over the age of 50 years. This headache entity occurs exclusively at night almost always at the same time. Imaging data as well as the strict circadian rhythm of headache attacks suggest a hypothalamic involvement in the underlying pathophysiology of this headache disorder. One interesting clinical feature about HH is its therapeutic response to caffeine as an acute as well as prophylactic agent. This review addresses the efficacy of caffeine in HH as well as in other headache disorders, and attempts to give insight into the analgesic properties of this substance. In addition, it depicts possible problems of caffeine consumption with regard to headache.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2012",
+        "authors": [
+          "Holle Dagny",
+          "Obermann Mark"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Caffeine",
+          "Headache Disorders, Primary",
+          "Humans",
+          "Hypothalamus",
+          "Neurons"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23039391/"
+      },
+      {
+        "pmid": "39371383",
+        "title": "The Prophylactic Effect of Acetaminophen and Caffeine on Post Dural Puncture Headache after Spinal Anesthesia for Cesarean Section: A Randomized Double-Blind Clinical Trial.",
+        "abstract": "Post-dural puncture headache (PDPH) is the most common complication following spinal anesthesia among parturients undergoing cesarean section surgery. The purpose of this study was to evaluate the effectiveness of acetaminophen and caffeine in preventing PDPH.",
+        "journal": "Iranian journal of medical sciences",
+        "year": "2024",
+        "authors": [
+          "Hadavi Seyed Mohammad Reza",
+          "Panah Ashkan",
+          "Shamohammadi Sona",
+          "Kanaani Nejad Fatemeh",
+          "Sahmeddini Mohammad Ali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Acetaminophen",
+          "Female",
+          "Cesarean Section",
+          "Anesthesia, Spinal",
+          "Post-Dural Puncture Headache",
+          "Double-Blind Method",
+          "Caffeine",
+          "Adult",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39371383/"
+      },
+      {
+        "pmid": "25231430",
+        "title": "Hypnic headache.",
+        "abstract": "Hypnic headache (HH) is a rare primary headache characterized by strictly sleep-related headache attacks.",
+        "journal": "Headache",
+        "year": "2014",
+        "authors": [
+          "Lanteri-Minet Michel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Headache Disorders, Primary",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25231430/"
+      },
+      {
+        "pmid": "37353507",
+        "title": "Association between dietary caffeine intake and severe headache or migraine in US adults.",
+        "abstract": "The relationship between current dietary caffeine intake and severe headache or migraine is controversial. Therefore, we investigated the association between dietary caffeine intake and severe headaches or migraines among American adults. This cross-sectional study included 8993 adults (aged ≥ 20 years) with a dietary caffeine intake from the National Health and Nutrition Examination Surveys of America from 1999 to 2004. Covariates, including age, race/ethnicity, body mass index, poverty-income ratio, educational level, marital status, hypertension, cancer, energy intake, protein intake, calcium intake, magnesium intake, iron intake, sodium intake, alcohol status, smoking status, and triglycerides, were adjusted in multivariate logistic regression models. In US adults, after adjusting for potential confounders, a 100 mg/day increase in dietary caffeine intake was associated with a 5% increase in the prevalence of severe headache or migraine (odds ratio [OR] 1.05, 95% confidence interva",
+        "journal": "Scientific reports",
+        "year": "2023",
+        "authors": [
+          "Zhang Lu",
+          "Yin Jiahui",
+          "Li Jinling",
+          "Sun Haiyang",
+          "Liu Yuanxiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "United States",
+          "Caffeine",
+          "Cross-Sectional Studies",
+          "Migraine Disorders",
+          "Nutrition Surveys",
+          "Headache"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37353507/"
+      },
+      {
+        "pmid": "36942412",
+        "title": "Prevalence, characteristics, and factors associated with caffeine-withdrawal headache during the first day of Ramadan.",
+        "abstract": "Data regarding prevalence, characteristics, and factors associated with caffeine-withdrawal headache are lacking. This work aimed to study the prevalence of caffeine-withdrawal headache among caffeine consumers during Ramadan's first day and describe its characteristics and associated factors.",
+        "journal": "Headache",
+        "year": "2023",
+        "authors": [
+          "Magdy Rehab",
+          "El Desouky Eman D",
+          "Hammad El-Sayed Mah",
+          "Salem Marwa Rashad",
+          "Mahfouz Noha A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Caffeine",
+          "Prevalence",
+          "Cross-Sectional Studies",
+          "Headache",
+          "Substance Withdrawal Syndrome",
+          "Body Weight"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36942412/"
+      },
+      {
+        "pmid": "23832130",
+        "title": "Hypnic headache.",
+        "abstract": "Hypnic headache (HH) is a rare primary headache disorder that is characterised by strictly sleep-related headache attacks.",
+        "journal": "Cephalalgia : an international journal of headache",
+        "year": "2013",
+        "authors": [
+          "Holle Dagny",
+          "Naegel Steffen",
+          "Obermann Mark"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Headache Disorders, Primary",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23832130/"
+      },
+      {
+        "pmid": "20839413",
+        "title": "Hypnic headache.",
+        "abstract": "Hypnic headache is a rare primary headache disorder that is characterized by exclusively sleep-related headache attacks in patients usually beyond 50 years of age. Only 174 cases have been reported in the literature so far. Owing to its low prevalence, clinical features and therapeutic options, as well as underlying pathophysiologic mechanisms, are widely unknown or being controversially discussed. The association of hypnic headache with rapid-eye movement sleep was strongly contradicted in recent articles, while an association with hypothalamic dysfunction is thought to be one important pathophysiological mechanism. Common acute, as well as prophylactic, treatment is caffeine intake, either in the form of a cup of coffee or a caffeine tablet. Lithium, indomethacin and melatonin were promoted as potent medical treatments, while almost every other drug commonly used to treat headache or other pain syndromes was reported to be effective in single case reports on hypnic headache.",
+        "journal": "Expert review of neurotherapeutics",
+        "year": "2010",
+        "authors": [
+          "Obermann Mark",
+          "Holle Dagny"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Caffeine",
+          "Central Nervous System Stimulants",
+          "Cyclooxygenase Inhibitors",
+          "Headache Disorders, Primary",
+          "Humans",
+          "Indomethacin",
+          "Melatonin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20839413/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:56:10.165366",
+  "success": true,
+  "error_message": null
+}

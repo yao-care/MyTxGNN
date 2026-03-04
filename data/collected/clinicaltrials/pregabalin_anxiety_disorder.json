@@ -1,0 +1,934 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Pregabalin",
+    "disease": "anxiety disorder"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00537238",
+      "title": "A Randomized, Double-Blind, Parallel-Group Multi-Center Comparative Flexible-Dose Study Of Pregabalin Versus Levetiracetam As Adjunctive Therapy To Reduce Seizure Frequency In Subjects With Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2012-05",
+      "country": "Bulgaria, Spain, Mexico, Russia, Peru, Venezuela, Belgium, Taiwan, Turkey (Türkiye), India, Germany, Costa Rica, Lithuania, South Korea, Greece, Colombia, France, Philippines, Czechia, Panama, Italy",
+      "enrollment": 509,
+      "brief_summary": "This study will compare pregabalin and levetiracetam in patients with partial seizures. It will also evaluate the safety and tolerability of pregabalin and levetiracetam in these patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects (male or female) must be \\> 18 years of age, with a diagnosis of epilepsy with partial seizures, as defined in the International League Against Epilepsy (ILAE) classification of seizures.\n* Partial seizures may be simple or complex, with or without secondary tonic-clo",
+      "endpoints": [
+        "Proportion of Participants With Response to Treatment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00537238"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00151450",
+      "title": "An 8-Week Multicenter, Randomized, Double-Blind, Placebo-Controlled, Flexible Dose Study Of Pregabalin (300-600 Mg/Day) And Venlafaxine XR (75-225 Mg/Day) For The Acute Treatment Of DSM-IV Generalized Anxiety Disorder In Outpatients",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-03",
+      "completion_date": "2006-11",
+      "country": "France, Spain, Sweden, Italy, Ireland, Netherlands, Canada, Belgium",
+      "enrollment": 390,
+      "brief_summary": "The purpose of the study is to compare pregabalin to Venlafaxine XR and placebo in the treatment of generalized anxiety disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female outpatients with diagnosis of generalized anxiety disorder.\n\nExclusion Criteria:\n\n* Any serious or uncontrolled medical condition.\n* Current diagnosis of depression, dysthymia, obsessive-compulsive disorder.",
+      "endpoints": [
+        "Evaluation of the efficacy of pregabalin and Venlafaxine XR in the treatment of generalized anxiety disorder."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00151450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07275762",
+      "title": "A Multicenter, Randomized, Double-blind, Double-dummy, Parallel-controlled Phase II Clinical Study Evaluating the Efficacy and Safety of Y-4 Tablets in Chinese Patients With Postherpetic Neuralgia, Compared With Pregabalin Capsules",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-01",
+      "completion_date": "2026-11-30",
+      "country": "N/A",
+      "enrollment": 160,
+      "brief_summary": "The goal of this clinical trial is to assess the efficacy and safety of Y-4 in patients with postherpetic neuralgia(PHN).\n\nThe main questions it aims to answer are:\n\nThe efficacy of Y-4 to treat PHN. If drug RK-4 is safe and tolerate in the patients with LHI?\n\nResearchers will analyze data from different groups, includes Y-4 group and pregabalin group , to see efficacy of Y-4 and If drug Y-4 is safe and tolerate in the patients with PHN.\n\nParticipants will :\n\n* Take Y-4 (1w titration period:75 m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- 1. Able to understand and voluntarily sign the informed consent form. 2. Age ≥ 18 years, any gender. 3. Diagnosed with PHN, meaning pain persists for more than one month after the acute shingles rash has healed.\n\n4\\. VAS score in SF-MPQ ≥ 40 mm of the last 24 hours during scr",
+      "endpoints": [
+        "Evaluate the efficacy of Y-4 in patients with PHN by Change from baseline in Average Daily Pain Score (ADPS) for each group at week 13."
+      ],
+      "sponsor": "Neurodawn Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT07275762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03956420",
+      "title": "ERAS Implementation in Coronary Artery Bypass Surgery",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-05-03",
+      "completion_date": "2021-05",
+      "country": "Poland",
+      "enrollment": 100,
+      "brief_summary": "It has been assumed that some elements of the ERAS protocol may contribute to the reduction of complications and improve the satisfaction of patients undergoing coronary artery bypass surgery.\n\nElements of the ERAS strategy will be tested in this study. The elements that prove to be feasible and have a positive effect on the treatment process will be introduced into everyday clinical practice.\n\nIn the next stage of the research, we are planning to investigate whether the introduction of the ERAS",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* CABG/OPCAB (Coronary Artery Bypass Surgery/Off Pump Coronary Bypass Surgery).\n* Left ventricular ejection fraction above 35% (EF ≥ 35%).\n* The operation was performed in a planned mode.\n\nExclusion Criteria:\n\n* Haematological diseases and the associated increased risk of bleedi",
+      "endpoints": [
+        "ERAS bundle compliance in the first 72 hours post-op",
+        "Shorter Length Of Hospitalization (LOH)"
+      ],
+      "sponsor": "Silesian University of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03956420"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04478526",
+      "title": "Determining the Efficacy of Online Cognitive Behavioural Therapy for Generalized Anxiety Disorder Compared to Pharmaceutical Interventions",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-04-29",
+      "completion_date": "2021-05-01",
+      "country": "Canada",
+      "enrollment": 115,
+      "brief_summary": "Generalized anxiety disorder (GAD) is an extremely prevalent and debilitating mental health disorder. Currently, the gold standard treatment for GAD is cognitive behavioural therapy (CBT) and/or pharmacotherapy. The most common medications used to treat GAD are selective serotonin reuptake inhibitors (SSRIs) and selective norepinephrine reuptake inhibitors (SNRIs). While CBT is a gold standard treatment for GAD, it is costly, time-consuming, and often inaccessible. Fortunately, the electronic de",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age or older\n* Have consistent and reliable access to the internet\n* Be diagnosed with GAD according to the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-V) by a clinician\n* Meet the criteria for GAD according to the GAD-7 Screener (GAD-7)",
+      "endpoints": [
+        "Change in State Trait Anxiety Level",
+        "Change in Quality of Life",
+        "Change in Generalized Anxiety Levels"
+      ],
+      "sponsor": "Queen's University",
+      "url": "https://clinicaltrials.gov/study/NCT04478526"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01359085",
+      "title": "Pain Relief Following Arthroscopic Rotator Cuff Repair: Perioperative Pregabalin Administration Versus Interscalene Brachial Plexus Block. a Prospective, Randomized, Double Blinded, Multicenter Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-06",
+      "completion_date": "",
+      "country": "Israel",
+      "enrollment": 56,
+      "brief_summary": "Arthroscopic rotator cuff (RC) repair is often associated with severe post operative pain and discomfort. Many analgesic protocols have been proposed for pain relief following RC repair and controversy remains regarding the optimal postoperative analgesic protocol. Despite significant advancement in analgesic techniques over the last decades 50-70% of patients who undergo surgical procedures still experience moderate to severe postoperative pain. Postoperative pain has both inflammatory componen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ASA physical status I-III patients (\\> 18 years old) with normal renal and coagulation function, scheduled for elective arthroscopic RC repair at Tel Aviv-Sourasky Medical Center or Tel Aviv Assuta Medical Center shoulder surgery unit.\n\nExclusion Criteria:\n\n* Patients with kno",
+      "endpoints": [
+        "To compare postoperative pain relief by pregabalin versus ISBPB following arthroscopic rotator cuff repair"
+      ],
+      "sponsor": "Tel-Aviv Sourasky Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01359085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04245748",
+      "title": "Determining Optimal Treatment Sequences in Anxious Depression (DOTS-AD)",
+      "phase": "PHASE4",
+      "status": "RECRUITING",
+      "start_date": "2020-03-01",
+      "completion_date": "2025-12-31",
+      "country": "United States",
+      "enrollment": 84,
+      "brief_summary": "Acute, double-blind, adaptively randomized treatment with duloxetine or escitalopram, followed by double-blind, randomized adjunctive treatment with clonazepam or pregabalin for persistent symptoms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written, informed consent.\n* Patients must be fluent in the English.\n* 18 to 50 years of age, inclusive, at Visit 1.\n* Patients must meet DSM-5 criteria for generalized, social and/or separation anxiety disorder and/or panic disorder, confirmed by the MINI.99 Patients may also",
+      "endpoints": [
+        "Change from Baseline in Hamilton Anxiety Rating Scale (HAM-A) total score",
+        "Change from Baseline in the Clinical Global Impression of Severity (CGI-S)"
+      ],
+      "sponsor": "University of Cincinnati",
+      "url": "https://clinicaltrials.gov/study/NCT04245748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00407511",
+      "title": "A Prospective, Open Label, Multi-Center, Study Of Pregabalin In The Treatment Of Neuropathic Pain Associated With Diabetic Peripheral Neuropathy, Postherpetic Neuralgia, HIV-Related Peripheral Neuropathic Pain And Chemotherapy Induced Peripheral Neuropathic Pain",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-01",
+      "completion_date": "2008-07",
+      "country": "Ecuador, Mexico, Peru, Venezuela, Colombia",
+      "enrollment": 121,
+      "brief_summary": "Management of neuropathic pain associated with diabetic peripheral neuropathy, post-herpetic neuralgia, human immunodeficiency virus-related peripheral neuropathy, and chemotherapy induced peripheral neuropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are diagnosed with neuropathic pain associated with diabetic peripheral neuropathy, post-herpetic neuralgia, human immunodeficiency virus related peripheral neuropathy, and chemotherapy induced peripheral neuropathy.\n\nExclusion Criteria:\n\n* Severe Pain associated ",
+      "endpoints": [
+        "Change From Baseline to End of Treatment (EOT) in Weekly Mean Pain Score on the Daily Pain Rating Scale (DPRS)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00407511"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01352741",
+      "title": "Evaluation of the Effectiveness, Safety, and Tolerability of Tapentadol PR Versus a Combination of Tapentadol PR and Pregabalin in Subjects With Severe Chronic Low Back Pain With a Neuropathic Pain Component",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-03",
+      "completion_date": "2012-01",
+      "country": "Spain, Austria, Denmark, Germany, Netherlands, Poland, Belgium",
+      "enrollment": 622,
+      "brief_summary": "The main objective of the study is to evaluate the effectiveness, safety, and tolerability of increasing doses of tapentadol prolonged release (PR) (500 mg per day) versus a combination of tapentadol PR (300 mg per day) and pregabalin (to 300 mg per day) in subjects requiring additional analgesia after titration to tapentadol PR 300 mg per day.\n\nThis is a clinical effectiveness trial designed to establish a link between anticipated clinical outcomes and the clinical practice by means of selected",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have a diagnosis of chronic low back pain; chronic pain defined as pain lasting for at least 3 months.\n* Subject's pain must require a strong analgesic (defined as World Health Organization (WHO) step III) as judged by the investigator.\n* The painDETECT diagnosti",
+      "endpoints": [
+        "Change in the Average Pain Intensity Score for the Overall Low Back Pain on an 11-point Numeric Rating Scale (NRS-3)"
+      ],
+      "sponsor": "Grünenthal GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01352741"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07230171",
+      "title": "Comparing the Efficacy and Safety of Conventional Therapy With Conventional Therapy Combined Esketamine in the Treatment of Fibromyalgia: A Multicenter Clinical Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2025-09-15",
+      "completion_date": "2027-08-31",
+      "country": "China",
+      "enrollment": 106,
+      "brief_summary": "Fibromyalgia is a chronic pain syndrome where current medications have limited efficacy and a slow onset of action. Esketamine shows potential as a rapid-acting analgesic, but previous low-dose studies failed to demonstrate long-term benefits. The efficacy of higher-dose ESK as an adjunctive therapy when standard treatments are insufficient remains unclear.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between ages over 18 years with proper cognitive function and language skills for the study;\n* Patients diagnosed with FM as defined by the ACR FM diagnostic criteria;\n* Patients who have experienced insufficient symptom relief with non-pharmacological treatments and ",
+      "endpoints": [
+        "The median pain relief time"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07230171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01450163",
+      "title": "PHASE III, Randomized, Double-blind, Placebo-controlled Clinical Trial to Evaluate the Efficacy and Safety of Pregabalin in Prevention and Reduction of Oxaliplatin-induced Painful Neuropathy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-08",
+      "completion_date": "2014-12",
+      "country": "Brazil",
+      "enrollment": 200,
+      "brief_summary": "Oxaliplatin (Ox) is part of most treatment regimens for colorectal cancer. However, it may induce side effects, such as a specific injury to peripheral nerves called neuropathy. Ox-induced neuropathy is frequently painful. The presence of pain after its administration may hamper the full chemotherapeutic treatment of patients with colorectal cancer receiving this agent. Recently, it has been suggested that the appearance of acute neuropathy after oxaliplatin (Ox) infusion could predict the dista",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient must have histologically or cytologically confirmed colorectal cancer\n* Indication of adjuvant chemotherapy regime including oxaliplatin\n* Age ≥ 18 years\n* Karnofsky performance status (KPS) ≥ 50\n* Normal neurological examination\n* Be able to understand study protocol\n",
+      "endpoints": [
+        "Evaluate the efficacy"
+      ],
+      "sponsor": "University of Sao Paulo",
+      "url": "https://clinicaltrials.gov/study/NCT01450163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00245609",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Trial Of The Anxiolytic Efficacy Of Pregabalin And Alprazolam IR In Subjects With Anxiety Prior To Dental Procedure",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2006-10",
+      "country": "Germany, United Kingdom",
+      "enrollment": 90,
+      "brief_summary": "The primary purpose of the trial is to assess how effective pregabalin, alprazolam, and placebo are at reducing anxiety levels of subjects who take a dose of these treatments 4 hours before a scheduled dental procedure.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female outpatients 18 years of age or older who score 12 points or more on the Dental Anxiety Scale at screening and baseline evaluations and have a scheduled appointment for an elective dental procedure.\n\nExclusion Criteria:\n\n* Current diagnosis of any of the DSM-IV a",
+      "endpoints": [
+        "Change from baseline to endpoint on the Visual Analogue Scale for Anxiety."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00245609"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01226667",
+      "title": "Fixed Versus Flexible Dosing of Pregabalin in Patients With Fibromyalgia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2012-07",
+      "country": "United States",
+      "enrollment": 174,
+      "brief_summary": "A 9-week randomized double-blind, multi-center study of 172 patients, who after 1 week baseline evaluation are randomized to either fixed dose pregabalin starting at 75 mg BID for one week and increased to 150 mg BID for 7 weeks or flexibly dosed pregabalin given BID (75-300 mg/d) increased gradually over 4 weeks then maintained at that same dosing for 4 weeks.It is proposed that use of flexible dosing combined with nightly dosing would have similar pain relief to fixed dosing, would improve adh",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of fibromyalgia by ACR criteria\n* ambulatory patients\n* complete of 5 pain diaries during 1 week evaluation\n* other inclusion criteria may apply\n\nExclusion Criteria:\n\n* pregnant or of childbearing potential not using contraceptives\n* use of pregabalin in the past\n* c",
+      "endpoints": [
+        "Pain score evaluation by NRS"
+      ],
+      "sponsor": "Osteoporosis Medical Center, Beverly Hills, CA",
+      "url": "https://clinicaltrials.gov/study/NCT01226667"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00442546",
+      "title": "A Multicenter, Double-Blind Randomized, Placebo-Controlled Study Of The Efficacy And Safety Of Pregabalin In The Treatment Of Subjects With Post-Operative Pain Following Total Knee Arthroplasty (TKA)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 307,
+      "brief_summary": "Pregabalin added to the standard of care with dosing starting preoperatively and continuing for up to 6 weeks post surgery will decrease the intensity of post-operative pain following total knee replacement.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with osteoarthritis (OA) undergoing elective TKA under regional anesthesia (neuroaxial with or without peripheral nerve block).\n* Subjects able to demonstrate sufficient psychomotor dexterity and cognitive capacity to use Patient Controlled Analgesia/Patient Controlle",
+      "endpoints": [
+        "Subject Reported Worst Pain Score in Daily Diaries Using the Worst Pain Item of the Modified Brief Pain Inventory - Short Form (m-BPI-sf)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00442546"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01524796",
+      "title": "NEP-TUNE: Neuropathic Pain - Treatment With Pregabalin Under Real-life Conditions In Denmark",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2014-03",
+      "country": "N/A",
+      "enrollment": 128,
+      "brief_summary": "Observational study to assess the effectiveness and use of pregabalin (Lyrica) in the treatment of patients with peripheral neuropathic pain in real-life daily clinical practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects aged 18 years or over.\n* Subjects diagnosed with peripheral neuropathic pain.\n* Subjects that independently of the study and before consideration for observation in the study have been prescribed pregabalin for treatment of peripheral neuropathic pain either.\n\n  1. fo",
+      "endpoints": [
+        "Change From Baseline In Average Pain Level At Month 3 Telephonic Interview",
+        "Change From Baseline In Worst Pain Level At Month 3 Telephonic Interview",
+        "Change From Baseline In Least Pain Level At Month 3 Telephonic Interview"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01524796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00280059",
+      "title": "A Randomized, Comparative, Double-Blind, Parallel-Group, Multicenter, Monotherapy, Study Of Pregabalin (Lyrica) And Lamotrigine (Lamictal) In Patients With Newly Diagnosed Partial Seizures",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-08",
+      "completion_date": "2010-04",
+      "country": "Bulgaria, Singapore, Spain, Mexico, Sweden, Belgium, Norway, Taiwan, India, Hungary, Slovakia, Germany, Latvia, Portugal, Romania, Thailand, Lithuania, South Korea, Finland, Hong Kong, Ireland, Colombia, Estonia, France, Czechia, Italy, China, Netherlands, United Kingdom",
+      "enrollment": 660,
+      "brief_summary": "The purpose of this study is to assess whether Lyrica is a safe and effective treatment for partial epilepsy in comparison with an established treatment, Lamictal.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be diagnosed with partial epilepsy and have experienced at least 2 partial seizures (simple partial, complex partial or partial seizure with secondary generalization) in the past year with one in the past 6 months.\n\nExclusion Criteria:\n\n* Treatable causes of seiz",
+      "endpoints": [
+        "Percentage of Seizure-free Participants (Responders) During Efficacy Assessment Phase"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00280059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02417935",
+      "title": "A Japan Post-Marketing, Randomized, Double-Blind, Parallel-Group, Flexible Dose Comparative Study to Assess the Non-Inferiority of Duloxetine Compared With Pregabalin in Patients With Diabetic Peripheral Neuropathic Pain",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2017-05-13",
+      "country": "N/A",
+      "enrollment": 304,
+      "brief_summary": "The main purpose of this study is to evaluate the effectiveness and safety of the study drug known as duloxetine in participants with diabetic peripheral neuropathic pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants present with pain due to bilateral, peripheral neuropathy\n* Participants who have hemoglobin A1c (HbA1c) ≤9.4% (National Glycohemoglobin Standardization Program \\[NGSP\\]) at screening\n* Participants who have HbA1c that has been measured 42 to 70 days prior to scre",
+      "endpoints": [
+        "Change From Baseline to 12 Weeks in the Weekly Mean of the 24-Hour Average Pain Score on the 11-Point Numeric Rating Scale (NRS)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT02417935"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06261801",
+      "title": "Efficacy of Electroacupuncture Combined With Pregabalin in the Treatment of Trigeminal Herpetic Neuralgia: a Multicenter Randomized Controlled Trial Study Protocol",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-02-07",
+      "completion_date": "2025-12-20",
+      "country": "China",
+      "enrollment": 102,
+      "brief_summary": "Trigeminal herpetic neuralgia is a common type of Zoster-associated Pain (ZAP), which troubles individuals in all ages and burdens society all over the world. Eleactroaupuncture (EA) is increasingly used in the treatment of ZAP due to its advantages such as low price, high safety, no adverse reactions, and high patient acceptance. Therefore, it is necessary to conduct randomized controlled trials to evaluate the effectiveness and safety of EA on ZAP and whether EA can be used as a substitute for",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. meet the aforementioned diagnostic criteria for trigeminal ZAP, with a disease duration of 1 to 3 months;\n2. have a visual analog scale (VAS) score of 4 points ≤ VAS ≤ 7 points;\n3. be between 18 and 85 years old, regardless of gender;\n4. have clear consciousness, the ability ",
+      "endpoints": [
+        "Visual Analog Score change"
+      ],
+      "sponsor": "The Third People's Hospital of Hangzhou",
+      "url": "https://clinicaltrials.gov/study/NCT06261801"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01309074",
+      "title": "Does Pregabalin Improve Symptoms of Anxiety in Patients With Epilepsy? A Comparison With Sertraline",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2009-11",
+      "completion_date": "2012-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The aim of the study is to compare the safety \\& efficacy of sertraline (up to a dose of 200mg/day) \\& pregabalin (up to a dose of 300mg/day) for the treatment of symptoms of anxiety in patients with epilepsy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* GAD-7 total score above 10.\n* Have a diagnosis of a Partial Seizure Disorder.\n* Have a Hamilton-A total score 20 and above.\n* 18-80 years of age.\n* Able to read at a fourth grade level.\n* If a woman of childbearing age, agrees to use an acceptable means of birth control.\n\nExcl",
+      "endpoints": [
+        "Improvement of anxiety symptoms measured with the changes of the total scores of GAD-7 & HAM-A."
+      ],
+      "sponsor": "Rush University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01309074"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01455415",
+      "title": "A Study Of Pregabalin In The Treatment Of Subjects With Painful Diabetic Peripheral Neuropathy With Background Treatment Of Nsaid For Other Pain Conditions",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-12",
+      "completion_date": "2013-12",
+      "country": "Sweden, Czechia, Italy, United States",
+      "enrollment": 306,
+      "brief_summary": "This study is to test the effectiveness of pregabalin in treating nerve pain caused by diabetes. The suitable subjects will be patients who also use an non-steroid anti-inflammatory drug for another pain which is not related to the diabetic nerve pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 or 2 diabetes with painful neuropathy\n* Currently treated with one NSAID (including COX 2 inhibitors) for a co morbid pain condition with a regular dose\n* Meet pre-defined level of pain severity at entrance\n\nExclusion Criteria:\n\n* History of failed pregabalin treatment ",
+      "endpoints": [
+        "Average Diabetic Peripheral Neuropathy (DPN) Pain Based on a Numeric Rating Scale (NRS) Over the Last 7 Days of Each Treatment Period (Week 6 of Each Treatment Period)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01455415"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05221151",
+      "title": "Efficacy of Preoperative Melatonin Versus Pregabalin on Intraoperative Anxiolysis and Sedation During Hip Arthroplasty Under Regional Anesthesia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2022-01-30",
+      "completion_date": "2022-10-02",
+      "country": "Egypt",
+      "enrollment": 78,
+      "brief_summary": "preoperative melatonin, pregabalin or both will be given to all patients preoperative",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ASA I or II\n* patients undergoing hip arthroplasty\n* patient consent for spinal anaesthesia\n* patient alert, concious and good mental condition\n\nExclusion Criteria:\n\n* Patients with any neurolgical or psychiatric history before the procedure\n* Patients with a history of chroni",
+      "endpoints": [
+        "VAS",
+        "Ramsey Sedation scale"
+      ],
+      "sponsor": "Menoufia University",
+      "url": "https://clinicaltrials.gov/study/NCT05221151"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03636958",
+      "title": "Study of the Efficacy and Safety of Perampanel in Combination in Glioma-refractory Epilepsy",
+      "phase": "NA",
+      "status": "WITHDRAWN",
+      "start_date": "2021-02-15",
+      "completion_date": "2026-12-01",
+      "country": "France",
+      "enrollment": 0,
+      "brief_summary": "Gliomas are primitive brain tumors frequently associated with epilepsy. In a significant number of these patients epilepsy is resistant to antiepileptic drugs. There are currently no recommendations for the management of these drug-resistant epilepsies associated with glioma. In addition, few studies have addressed the subject and no treatment appears to be superior to others in the literature for this indication. In addition, many antiepileptic drugs pose problems of tolerance or interaction wi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nPatient, male or female, over 18 years old\n\n* Glioma confirmed by histology\n* Not in progression (clinico-radiological criterion RANO, (Wen et al., 2014), see appendix 1)\n\n  * No clinical worsening (excluding epileptic seizures)\n  * No increase greater than 25% in contrast enhan",
+      "endpoints": [
+        "Numbers of crisis at baseline",
+        "Numbers of crisis under treatment"
+      ],
+      "sponsor": "Assistance Publique Hopitaux De Marseille",
+      "url": "https://clinicaltrials.gov/study/NCT03636958"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03317262",
+      "title": "Multi-center, Open, Non-invasive, Prospective, Clinical Observational Study in Patients in Greece With Depression and Generalized Anxiety Disorder Treated With Sitalopram and Not Satisfactorily Controlled.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-03-01",
+      "completion_date": "2019-03-01",
+      "country": "Greece",
+      "enrollment": 800,
+      "brief_summary": "Depression is a psychiatric disorder that affects mood, thoughts and is usually accompanied by physical annoyances. It affects the person's eating habits, his sleep, the way he sees himself and the way he thinks and understands. Depressed emotion has great tension, lasts longer and leads to a reduction in the person's functioning in many areas of his life.\n\nGeneralized Anxiety Disorder (GAD) is the psychiatric disorder characterized by a multitude of diverse organic responses as well as a genera",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed informed consent form\n* Male or female asthma patients over 18 years of age\n* Compliance with treatment\n* Compliance with study procedures\n* Patients already receiving or to receive citalopram\n* Patients not adequately controlled by citalopram\n* Patients not adequately ",
+      "endpoints": [
+        "Disease Control",
+        "Disease Control"
+      ],
+      "sponsor": "Elpen Pharmaceutical Co. Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03317262"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00407797",
+      "title": "Pregabalin In Partial Seizures (PREPS): An Open-Label, Multicenter Add On Therapy Trial. A Phase IV Open-Label Trial Using 150,300, 600 mg/Day Of Pregabalin",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2007-03",
+      "completion_date": "2009-08",
+      "country": "Mexico",
+      "enrollment": 136,
+      "brief_summary": "The purpose of this study is to assess the clinical improvement by partial seizures reduction, safety and tolerability of subjects having partial epilepsy related to the adjunction of pregabalin BID (75 to 300mg day titration, BID) to existing standard AED (Antiepileptic drugs).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female who are diagnosed of partial seizure (simple partial, complex partial, partial seizure secondarily generalized) as defined in the international league of epilepsy classification of seizure.\n\nExclusion Criteria:\n\n* Patients having a treatable cause of seizure, cu",
+      "endpoints": [
+        "Percent Change From Baseline in 28 Day Partial Seizure Rate During Treatment Observation Phase"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00407797"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05432843",
+      "title": "A Randomized Controlled Trial Comparing Pregabalin and Placebo in Patients With Persistent Globus Sensation",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-03-12",
+      "completion_date": "2023-01",
+      "country": "Belgium",
+      "enrollment": 90,
+      "brief_summary": "To evaluate the relative merits, safety and effectiveness of pregabalin in globus patients compared with placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-80 years\n* Globus symptoms for more than three months\n* First symptoms \\> 6 months ago\n* Signed informed consent\n\nExclusion Criteria:\n\n* Gabapentin/pregabalin treatment\n* Unstable neuroleptic or antidepressive treatment (stable dose during min 8 weeks)\n* Symptom relief ",
+      "endpoints": [
+        "Clinical remission"
+      ],
+      "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT05432843"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00333866",
+      "title": "A 14 Week, Randomized, Double-Blind, Placebo-Controlled Trial Of Pregabalin Twice Daily In Patients With Fibromyalgia.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-07",
+      "completion_date": "2007-11",
+      "country": "South Korea, France, Spain, Sweden, Mexico, Switzerland, India, Italy, Denmark, Australia, Germany, Netherlands, Portugal, United Kingdom, Canada, Venezuela",
+      "enrollment": 747,
+      "brief_summary": "This study, will compare pregabalin with placebo for the duration of 14 weeks to evaluate the efficacy and safety of pregabalin in patients with fibromyalgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* ACR criteria for fibromyalgia\n* A score of more or equal to 40 mm on the Pain Visual Analog Scale (VAS) and a an average score more or equal to 4 on 4 daily pain diaries\n\nExclusion Criteria:\n\n* Patients with other severe pain conditions\n* Patients with severe depression\n* Pati",
+      "endpoints": [
+        "Change From Baseline in Mean Pain Score at Endpoint (Up to Week 14)",
+        "Patient Global Impression of Change (PGIC)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00333866"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06512155",
+      "title": "The Effect of Pregabalin on Perioperative Sleep Quality in Orthopedic Surgery Patients: a Prospective, Randomized, Controlled Study",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2024-07-02",
+      "completion_date": "2024-12-26",
+      "country": "China",
+      "enrollment": 215,
+      "brief_summary": "In today's day of increasing surgical volume, perioperative sleep disorders are an issue that cannot be ignored. They are an important component of perioperative brain protection. Physiologically and psychologically, sleep disorders cause serious damage to patients. The application of pregabalin aims to improve the sleep quality of hand surgery patients, and its anti anxiety effect can also alleviate preoperative anxiety. At the same time, its analgesic mechanism is different from that of opioid",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years old ≤ Age ≤ 65 years old, gender unlimited.\n* ASA level I-II.\n* Plan to undergo elective total knee arthroplasty, total hip arthroplasty, and spinal vertebral body surgery.\n\nExclusion Criteria:\n\n* Patients with preoperative sleep problems.\n* Patients refuse to partici",
+      "endpoints": [
+        "Athens Insomnia Scale"
+      ],
+      "sponsor": "Sichuan Provincial People's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06512155"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00706836",
+      "title": "PharmacofMRI of Anxiolytic Medications (Pregabalin)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-06",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 16,
+      "brief_summary": "The purpose of this study is to use functional magnetic resonance imaging (fMRI) in healthy controls to examine the acute effects of certain anxiolytic medications on brain function. In this case, the medication pregabalin will be used. The investigators hypothesize that pregabalin (at doses of 50 mg and 200 mg, versus placebo) will yield a reduction in amygdala and insula activity (in a dose-dependent fashion) during emotion processing using fMRI.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male, or female (not pregnant or intending to become pregnant during the study)\n* Between the ages of 18-30.\n* In good general health.\n* No specific contraindications to the drug being administered\n\nExclusion Criteria:\n\n* Subjects with a history of DSM-IV depressive disorder, ",
+      "endpoints": [
+        "Effect of Pregabalin (Two Doses) Versus Placebo"
+      ],
+      "sponsor": "University of California, San Diego",
+      "url": "https://clinicaltrials.gov/study/NCT00706836"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06383702",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Controlled, Phase 3 Trial to Evaluate the Efficacy and Safety of Pregabalin Sustained-Release Tablets for the Treatment of Neuropathic Pain Associated With Diabetic Peripheral Neuropathy",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-05-15",
+      "completion_date": "2025-04-15",
+      "country": "N/A",
+      "enrollment": 358,
+      "brief_summary": "This study is designed to evaluate the efficacy and safety of pregabalin extended-release tablets in the treatment of neuropathic pain associated with diabetic peripheral neuropathy. Pregabalin has been approved in more than 130 countries for neuropathic pain associated with diabetic peripheral neuropathy, postherpetic neuralgia, and neuralgia associated with spinal cord injury. Pregabalin extended-release tablets were administered once daily, as a single dose after dinner. Compared with pregaba",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged ≥ 18 years and ≤ 75 years at screening;\n* diagnosed with type 1 or type 2 diabetes for ≥ 1 year;\n* diagnosed with distal symmetrical polyneuropathy caused by diabetes (type 1 or type 2), with duration of neuropathic pain associated with diabetic peripheral neuropathy ≥ 6 ",
+      "endpoints": [
+        "Numeric Rating Scale (NRS) mean change at week 13."
+      ],
+      "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06383702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00646451",
+      "title": "A 17 Week, Investigator-initiated, Single-center, Double-blind, Randomized, Placebo-controlled, Cross-over Trial of Pregabalin in Essential Tremor",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2006-06",
+      "completion_date": "2008-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "Pregabalin is approved for the treatment of nerve pain as well as an additional therapy in the treatment of seizures. In December 2004, Pfizer gained Food and Drug Administration (FDA) approval for use of pregabalin in nerve pain associated with diabetes and shingles; making it the first FDA-approved treatment for both of these nerve pain states.\n\nTremor is uncontrolled trembling in part of the body. Essential tremor (ET) is associated with purposeful movement(e.g., holding a glass to drink, sha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must be between the ages of 18 and 80 inclusive.\n2. Each subject must have current manifestations of ET symptoms based on the Tremor Investigational Group (TRIG) criteria for definite or probable ET: - Moderate or severe tremor in head or arms for at least 3 years du",
+      "endpoints": [
+        "Change in Tremor Rating Scale (TRS) Compared With Baseline."
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00646451"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06914180",
+      "title": "Intravenous Infusion of Esketamine in Combination With Pulsed Radiofrequency for Trigeminal Postherpetic Neuralgia",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-07-01",
+      "country": "China",
+      "enrollment": 174,
+      "brief_summary": "This trial's primary objective is to compare the analgesic efficacy of esketamine in combination with pulsed radiofrequency (PRF) against that of PRF monotherapy in patients with trigeminal postherpetic neuralgia (TPHN).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages more than 18 years;\n2. Pain persisting for over three months following the onset of the herpes zoster skin rash;\n3. Lesions located in the trigeminal nerve or its branches innervated regions；\n4. Having an average pain score of at least 4 on a Numeric Rating Scale (NRS, 0",
+      "endpoints": [
+        "1.the difference between the means of the daily mean pain scores over the first 7 days, measured on an 11-point Numeric Rating Scale（NRS）"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06914180"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01474772",
+      "title": "A Phase 3b Multicenter, Double-blind, Randomized, Placebo-controlled Cross-over Efficacy And Safety Study Of Pregabalin In The Treatment Of Patients With Painful Diabetic Peripheral Neuropathy And Pain On Walking",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2013-07",
+      "country": "Sweden, Czechia, South Africa, United States",
+      "enrollment": 217,
+      "brief_summary": "The intent of this study is to treat subjects with painful Diabetic Peripheral Neuropathy (DPN) who also have pain on walking and to determine whether or not pregabalin demonstrates improvement relative to placebo on the following: reducing DPN pain, reducing pain on walking, and providing other benefits associated with daily activities and quality of life.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women who are at least 18 years old.\n* Diagnosis of painful diabetic peripheral neuropathy.\n* Pain on walking.\n\nExclusion Criteria:\n\n* Inability to walk 50 feet on a flat surface.\n* Pain on walking due to conditions other than diabetic peripheral neuropathy.",
+      "endpoints": [
+        "Average Diabetic Peripheral Neuropathy (DPN) Pain Based on a Numeric Rating Scale (NRS) Over the Last 7 Days of Each Treatment Period (Week 6 of Each Treatment Period)",
+        "DPN Pain on Walking Based on a 11-point NRS of Each Treatment Period (Week 6 of Each Treatment Period)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01474772"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04675671",
+      "title": "Analgesic and Anxiety Efficacy of Preemptive Pregabalin Administration in Arthroscopic Shoulder Surgery: a Prospective Randomized Controlled Trial",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2019-12-01",
+      "completion_date": "2021-03-15",
+      "country": "Turkey (Türkiye)",
+      "enrollment": 60,
+      "brief_summary": "Effective postoperative pain control after arthroscopic shoulder surgery optimizes postoperative rehabilitation, reduces anxiety, and can increase patient satisfaction and postoperative healing by providing amnesia and sedation. Few literature is available for postoperative pain management, including intra-articular local anesthetic infiltration, regional nerve blocks, patient-controlled analgesia (PCA) with intravenous opioid, and oral nonsteroidal anti-inflammatory and gabapentinoid drugs. Rec",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* American society of Anesthesiologists (ASA) grade I or II\n* Aged 18-65 years\n* Scheduled for elective Arthroscopic shoulder surgery (Bankart or rotator cuff repair)\n\nExclusion Criteria:\n\n* Major neurological, cardiovascular, metabolic, respiratory, renal disease or coagulation",
+      "endpoints": [
+        "Preoperative anxiety measurement [Spielberger's State Anxiety Scale (STAI-S)]",
+        "Preoperative anxiety measurement [Spielberger's State Anxiety Scale (STAI-T)]",
+        "Preoperative anxiety measurement [Spielberger's State Anxiety Scale (STAI-S)"
+      ],
+      "sponsor": "Selcuk University",
+      "url": "https://clinicaltrials.gov/study/NCT04675671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01496690",
+      "title": "Pregablin for Anxiety-comorbidity in Patients With Schizophrenia - a Double-blinded Randomized Placebo Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2016-12",
+      "country": "Denmark",
+      "enrollment": 54,
+      "brief_summary": "The PACS study aims to investigate the efficacy and tolerability of pregabalin for schizophrenic patients that suffer from comorbid anxiety.\n\nThe study design is an 8 week flexible dosage, randomized placebo controlled.\n\nThe study population is patients diagnosed with ICD-10 schizophrenia and age 18-65. Patients are recruited from outpatient clinics from entire Denmark.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 18-65 years\n* An ICD-10 schizophrenia diagnosis F20.0-20.3 or F20.9\n* Stable dosage of psychotropic 4 weeks before inclusion\n* Hamilton Anxiety Scale total score \\> 15\n* Positive and Negative Syndrome Scale for Schizophrenia total score \\< 70\n* The Calgary Depression Scal",
+      "endpoints": [
+        "Hamilton Anxiety Scale"
+      ],
+      "sponsor": "University of Aarhus",
+      "url": "https://clinicaltrials.gov/study/NCT01496690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04662125",
+      "title": "Comparative Study Between Analgesic Effect of Oral Prednisolone and Oral Pregabalin in Management of Post-dural Puncture Headache in Patients Undergoing Lower Limb Surgeries",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2020-12-10",
+      "completion_date": "2023-08-30",
+      "country": "Egypt",
+      "enrollment": 63,
+      "brief_summary": "The aim of this study is to compare between oral prednisolone and oral pregabalin in management of PDPH to detect effectiveness of the treatment in reducing severity of PDPH, total rescue analgesic consumption and adverse effects of prednisolone and pregabalin in patients undergoing lower limb surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* \\- Both gender.\n* Age: 18- 65 years old.\n* Body Mass Index 20-30 kg/m2\n* American Society of Anesthesiologist (ASA) physical status I - II.\n* Patients are diagnosed as PDPH according to criteria of International Headache Society (IHS) after lower limb surgeries .\n\nExclusion Cr",
+      "endpoints": [
+        "pain intensity of headache",
+        "pain intensity of headache",
+        "pain intensity of headache"
+      ],
+      "sponsor": "Zagazig University",
+      "url": "https://clinicaltrials.gov/study/NCT04662125"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00573261",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Single Center Study Designed to Assess the Effects of Pregabalin on Change in Patients With Diabetic Neuropathy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-05",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study is designed to examine how pregabalin affects parameters of autonomic nerve regulation in correlation with change in pain, anxiety, and depressive symptoms in patients with diabetic neuropathy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients aged 18 years or older\n* Meet criteria for diagnosis of diabetic neuropathy\n* Average daily pain scores greater than or equal to 4 by Visual Analog Scale\n* Ability to give informed consent\n* No pregnancy\n\nExclusion Criteria:\n\n* Patients with clinically significant ",
+      "endpoints": [
+        "Assessing the Change in Resting Blood Pressure Upon Treatment of Pregabalin vs. Placebo in Patients With Diabetes and Peripheral Neuropathy.",
+        "Assessing the Change in Heart Rate by Means of the LifeShirt System Upon Treatment of Pregabalin vs. Placebo in Patients With Diabetes and Peripheral Neuropathy.",
+        "Assessing the Change in Heart Rate Variability by Means of the LifeShirt System Upon Treatment of Pregabalin vs. Placebo in Patients With Diabetes and Peripheral Neuropathy."
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00573261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00353704",
+      "title": "Analgetic and Anxiolytic Effect of Preoperative Pregabalin in Patients Undergoing Surgery of the Vertebral Columna",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2010-06",
+      "country": "Norway",
+      "enrollment": 50,
+      "brief_summary": "The purpose of this study is to determine whether the use of oral pregabalin 150 mg as premedication reduces the amount and degree of postoperative pain.\n\nFurthermore the purpose of this study is to determine whether the use of oral pregabalin 150 mg as premedication reduces anxiety prior to anaesthesia in these patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of disc prolapse\n* Age 18+\n* ASA (American Association in Anesthesiology) I-III\n* written consent\n\nExclusion Criteria:\n\n* Age \\< 18\n* ASA \\> III\n* liver failure\n* renal failure\n* allergic reaction against gabapentin and/or pregabalin\n* pregnancy",
+      "endpoints": [
+        "Mean VAS Pain (Visual Analogue Scale)at Rest (0-100 mm)"
+      ],
+      "sponsor": "Asker & Baerum Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00353704"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01432236",
+      "title": "A Phase 3b Multicenter, Double-blind, Randomized, Placebo-controlled, 2-way Crossover Study Of Pregabalin In The Treatment Of Fibromyalgia With Concurrent Antidepressant Therapy For Comorbid Depression (Protocol A0081275)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2013-07",
+      "country": "Spain, Canada, Italy, United States",
+      "enrollment": 197,
+      "brief_summary": "The intent of this study is to identify and treat fibromyalgia subjects with comorbid depression who are receiving an SSRI (selective serotonin reuptake inhibitor) or SNRI (selective norepinephrine reuptake inhibitor) primarily for their depression and to determine whether pregabalin demonstrates improvement relative to placebo in improving pain associated with fibromyalgia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women of any race or ethnicity who are at least 18 years of age.\n* Adult women and men with a diagnosis of fibromyalgia and stable depression (major depressive disorder, depression not otherwise specified (NOS), or dysthymia) who have been taking an antidepressant (SSRI",
+      "endpoints": [
+        "Mean NRS Pain Score at End of Period."
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01432236"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07352553",
+      "title": "Non-invasive Brain Stimulation for Postherpetic Neuralgia: A Prospective, Randomized, Sham-Controlled Study",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-20",
+      "completion_date": "2026-07-30",
+      "country": "China",
+      "enrollment": 94,
+      "brief_summary": "Pharmacotherapy is the cornerstone of Postherpetic Neuralgia (PHN) management. First-line treatments for PHN include antiviral agents (e.g., acyclovir, valacyclovir, famciclovir, and brivudine), centrally acting antiepileptic drugs (pregabalin and gabapentin), antidepressants (duloxetine and venlafaxine), and peripherally acting sodium-channel blockers (lidocaine patches).\n\nIn recent years, substantial progress has been made in the prevention and treatment of PHN, including early and active anti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years.\n* Diagnosis of postherpetic neuralgia (PHN) with disease duration ≥ 3 months.\n* NRS pain score ≥ 4.\n* Willing to receive the intervention and able to provide written informed consent.\n\nExclusion Criteria:\n\n* Contraindications to electrical stimulation (e.g., in",
+      "endpoints": [
+        "Change in Pain Intensity (NRS)"
+      ],
+      "sponsor": "Huazhong University of Science and Technology",
+      "url": "https://clinicaltrials.gov/study/NCT07352553"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00905437",
+      "title": "Randomized Double-Blind, Multi-Center Study Of Efficacy And Tolerability Of Pregabalin Versus Placebo As An Adjunct To Standard Of Care For Perioperative Management Of Patients Undergoing Total Hip Arthroplasty",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2009-11",
+      "completion_date": "2012-07",
+      "country": "India",
+      "enrollment": 72,
+      "brief_summary": "The purpose of this study is the investigate if pregabalin started a day before surgery and continued for 14 days post-operatively can reduce post-operative pain, relieve pre- and post-operative anxiety and sleep disturbances.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The patient is undergoing a routine (i.e., expected to be uncomplicated) total primary or secondary hip replacement surgery performed under a standardized regimen of spinal anesthesia, and is expected to experience moderate to severe post-surgical pain in the absence of post-o",
+      "endpoints": [
+        "Mean Pain on Movement Score"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00905437"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03794388",
+      "title": "Multicentric, Open, Randomized Study Comparing Topical Treatment by Patch of Capsaicin to 8% (Qutenza) to Pregabalin Oral in the Early Treatment of Neuropathic Pain After Primary Surgery for Breast Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-03-19",
+      "completion_date": "2022-11-18",
+      "country": "France",
+      "enrollment": 140,
+      "brief_summary": "Breast cancer is the most common cancer in women in Europe. Therefore, breast cancer has become a chronic disease and patients need to learn to live with it as well as with the adverse effects related to the disease itself or to the therapies used.\n\nAs noted in the third \"Plan cancer\", pain is a major criterion in the quality of life of patients treated for breast cancer.\n\nNeuropathic pain was defined in 2011 by the international Association for the Study of Pain (I.A.S.P.) as the direct result ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female who had first breast cancer surgery, regardless of the type of surgery\n* Age ≥ 18 years\n* Healthy, non-irritated skin on painful areas to treat\n* During the inclusion visit to M4 post surgery, neuropathic pain of the breast and / or axillary area corresponding t",
+      "endpoints": [
+        "To show the noninferiority of early early medical treatment by topical treatment with capsaicin compared to oral treatment of pregabalin on the evolution of neuropathic pain after 2 months in patients who have undergone surgical excision of breast cancer"
+      ],
+      "sponsor": "Institut Cancerologie de l'Ouest",
+      "url": "https://clinicaltrials.gov/study/NCT03794388"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00806026",
+      "title": "Randomized, Double Blind, 12-Month Study Of Pregabalin In Subjects With Restless Legs Syndrome",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-12",
+      "completion_date": "2011-05",
+      "country": "Spain, Finland, Italy, Austria, Germany, United Kingdom, Netherlands, Sweden, United States",
+      "enrollment": 731,
+      "brief_summary": "This purpose of this study is to investigate the efficacy and tolerability of pregabalin in treating idiopathic RLS patients for up to 12 months.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* idiopathic RLS with the presence of all four clinical manifestations of RLS\n* RLS symptoms occur predominantly in the evening\n* RLS history at least 6 months\n* IRLS =\\> 15 at the beginning and the end of placebo run-in\n* Have =\\>15 nights with RLS symptoms in the month prior t",
+      "endpoints": [
+        "Restless Legs Syndrome (RLS) Symptom Severity",
+        "Change From Baseline in the RLS Symptom Severity at Week 12",
+        "Percentage of Participants Responding to Treatment at Week 12"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00806026"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06401499",
+      "title": "The Effect of Low Dose Pregabalin and Etoricoxib Combination on Pain in Comparison to Etoricoxib Alone in Patients Suffering From Chronic Low Back Pain",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-06-01",
+      "completion_date": "2024-12-31",
+      "country": "N/A",
+      "enrollment": 140,
+      "brief_summary": "To determine the effects of pregabalin in reducing pain intensity and improving functional disability in patients with chronic low back pain of neuropathic origin when used in combination with Etoricoxib.\n\nHypothesis Pregabalin-etoricoxib combination is more effective than etoricoxib monotherapy in reducing pain and improving functional status in patients with chronic low back pain.\n\nNull Hypothesis:\n\nThere is no significant difference between pregabalin-etoricoxib combination and etoricoxib mon",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants within age 20-65 years\n* Both male and non-pregnant non-lactating female patients will be included in the study\n* Patients experiencing CLBP symptoms from last 6 months\n\nExclusion Criteria:\n\n* • Patients with the history of antidepressant, opioid, and benzodiazepi",
+      "endpoints": [
+        "Evaluation of pregabalin's effectiveness in chronic lower back will be the primary outcomes of this study"
+      ],
+      "sponsor": "Watim Medical & Dental College",
+      "url": "https://clinicaltrials.gov/study/NCT06401499"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06766916",
+      "title": "Crisugabalin Versus Pregabalin for Radiotherapy-Related Neuropathic Pain in Head and Neck Cancers: A Multicenter, Randomized, Open-Label, Non-Inferiority Trial",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2025-05-07",
+      "completion_date": "2026-12-31",
+      "country": "China",
+      "enrollment": 172,
+      "brief_summary": "The purpose of this study is to evaluate whether Crisugabalin has similar efficacy compared to Pregabalin in reducing radiotherapy-related neuropathic pain (RRNP) in patients with head and neck cancers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ability to understand and voluntarily sign a written informed consent form.\n2. Male or female patients aged ≥18 years with an expected survival of at least 5 months.\n3. Histologically confirmed head and neck tumors treated with radiotherapy at least 6 months prior to screenin",
+      "endpoints": [
+        "Numeric Rating Scale (NRS) Change"
+      ],
+      "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT06766916"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00150449",
+      "title": "A 1-Year Open-Label Safety Extension Study of Pregabalin in Patients With Anxiety Disorders",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "2006-03",
+      "country": "Israel, France, Spain, South Africa, Austria, Italy, Ukraine, Germany, Latvia, United Kingdom, Netherlands, Poland, Belgium, Estonia",
+      "enrollment": 511,
+      "brief_summary": "Determine long-term safety and tolerability of pregabalin in patients with anxiety disorders.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Must have completed the double-blind portion of the preceding trial\n* Completed any protocol specified withdrawal phase and follow-up visits.\n\nExclusion Criteria:\n\n* Patient cannot participate if they experienced a serious adverse event or a nonserious, but medically significa",
+      "endpoints": [
+        "Safety Tolerability"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00150449"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07382921",
+      "title": "Efficacy and Safety of Pregabalin/Tizanidine vs. Pregabalin in Patients With Fibromyalgia: a Prospective, Randomized, Open-label, Blinded Endpoint (PROBE) Trial",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-30",
+      "completion_date": "2026-08",
+      "country": "China",
+      "enrollment": 164,
+      "brief_summary": "Fibromyalgia (FM) is a chronic pain syndrome characterized by widespread pain, fatigue, and emotional disorders. Its onset is related to factors such as central sensitization and imbalance of neurotransmitters. The current mainstream treatments include pregabalin, but the efficacy of pregabalin is limited, with only 25%-40% pain relief rate, and adverse reactions are common.Tizanidine is an imidazoline derivative and a centrally acting alpha-2 receptor agonist with skeletal muscle relaxant, seda",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1.Aged 18-65 years. 2.Fulfill the 2016 updated American College of Rheumatology (ACR) diagnostic criteria for fibromyalgia.\n\n  3.Sufficient cognitive function, visual acuity and language skills to complete questionnaires and pain diaries and to participate in telephone communi",
+      "endpoints": [
+        "Average pain intensity"
+      ],
+      "sponsor": "Beijing Tiantan Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT07382921"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04532684",
+      "title": "Comparison of the Efficacy of Duloxetine and Pregabalin in Patients With Knee Osteoarthritis With Mix Type Pain",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2016-10",
+      "completion_date": "2020-12-15",
+      "country": "N/A",
+      "enrollment": 66,
+      "brief_summary": "Osteoarthritis (OA) is a common degenerative joint disorder associated with chronic pain at older age.It is known that patients with osteoarthritis experience nociceptive and neuropathic pain to varying degrees. Addition of molecules targeting neuropathic pain to conventional therapy has been shown to improve treatment response in the management of osteoarthritis.The aim of our study is to evaluate the effect of duloxetine and pregabalin on pain, functional capacity, quality of life, depression,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 40-69\n* Diagnosed with knee osteoarthritis according to the American College of Rheumatology (ACR) criteria\n* Grade 2-3 knee osteoarthritis according to Kellgren-Lawrence grading system\n* VAS-pain score: 4 and above\n* Neuropathic Pain Diagnostic Questionnaire (DN4) score:",
+      "endpoints": [
+        "Assessing Visual Analog Scale Score Change in Patients",
+        "Neuropthic Pain Diagnostic Questionnaire (DN4)",
+        "Assessing Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) Score Change in Patients"
+      ],
+      "sponsor": "Fatih Sultan Mehmet Training and Research Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT04532684"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00843284",
+      "title": "Assessing the Treatment of Patients With Neuropathic Pain Using LYRICA; A Non Interventional Post-marketing Study (NI-PMS)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2008-03",
+      "country": "N/A",
+      "enrollment": 691,
+      "brief_summary": "A Non-Interventional, Post-Marketing Surveillance (NI-PMS) study whose objectives were to assess the impact of pregabalin on subjects' pain, quality of sleep, and their general wellbeing, as well as the tolerance and safety of pregabalin in subjects with neuropathic pain.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of neuropathic pain and inclusion according to the current Summary of Product Characteristics.\n\nExclusion Criteria:\n\n* The patients were excluded according to the current Summary of Product Characteristics.",
+      "endpoints": [
+        "Daily Average Pain Scores",
+        "Pain Related Sleep Interference"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00843284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00371033",
+      "title": "A Randomized, Placebo-controlled Multi-center Clinical Trial to Evaluate the Efficacy and Safety of Pregabalin for the Treatment of Chronic Prostatitis/Chronic Pelvic Pain Syndrome (CP/CPPS)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-04-30",
+      "country": "Canada, United States",
+      "enrollment": 324,
+      "brief_summary": "The purpose of this study is to determine whether pregabalin is an effective treatment for Chronic Prostatitis/Chronic Pelvic Pain Syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant has signed and dated the appropriate Informed Consent document.\n* Participant must have had symptoms of discomfort or pain in the pelvic region for at least a three (3) month period within the last six (6) months.\n\nExclusion Criteria:\n\n* Participant has continued e",
+      "endpoints": [
+        "Decrease in the NIH-CPSI Total Score by at Least 6 Points"
+      ],
+      "sponsor": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+      "url": "https://clinicaltrials.gov/study/NCT00371033"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01021696",
+      "title": "The Impact of Pain on Behavioural Disturbances in Patients With Moderate and Severe Dementia. A Cluster Randomized Trial",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2010-10",
+      "country": "Norway",
+      "enrollment": 352,
+      "brief_summary": "In nursing homes (NHs) 80% of the patients have dementia, between 60%-80% exhibit behavioural disturbances (BPSD), and more than 60% have pain. Both pain and BPSD is more common in those with severe dementia. Since older persons with dementia have less communicative skills, suffer from more pain and exhibit more agitation, pain may be a contributing factor in these patients. More than 40% of patients with BPSD are treated with neuroleptics despite described side-effects. There is an urgent need ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 65 and older\n* Residing in the NHs for at least 4 weeks\n* Dementia according to Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) (American Psychiatric Association 1994), FAST score \\> 4 (Hughes 1982).\n* Clinically relevant BPSD, operationally defined as CMAI",
+      "endpoints": [
+        "Cohen-Mansfield Agitation Inventory - long form (CMAI)"
+      ],
+      "sponsor": "University of Bergen",
+      "url": "https://clinicaltrials.gov/study/NCT01021696"
+    }
+  ],
+  "timestamp": "2026-03-04T14:58:06.124478",
+  "success": true,
+  "error_message": null
+}

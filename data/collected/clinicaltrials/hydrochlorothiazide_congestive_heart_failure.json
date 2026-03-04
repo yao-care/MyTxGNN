@@ -1,0 +1,653 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Hydrochlorothiazide",
+    "disease": "congestive heart failure"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03553810",
+      "title": "Role of ARNi in Ventricular Remodeling in Hypertensive LVH",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-04-12",
+      "completion_date": "2024-06-28",
+      "country": "Singapore",
+      "enrollment": 80,
+      "brief_summary": "In Singapore, hypertension is very common in the adult population. Hypertensive heart disease is a leading cause of heart failure and cardiovascular death. Current management relies primarily on achieving blood pressure targets. However, the optimal blood pressure goals are controversial and there are inherent difficulties in measuring blood pressure using external devices applied to peripheral arteries. As a result of (usually longstanding) hypertension, the heart thickens (i.e. hypertrophies) ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Increased left ventricular mass on cardiovascular magnetic resonance (based on established local age- and sex-specific CMR ranges)\n* Essential hypertension\n\nExclusion Criteria:\n\n* Known secondary causes of hypertension\n* Previous intolerance to angiotensin receptor blockers\n* ",
+      "endpoints": [
+        "Fibrosis volume"
+      ],
+      "sponsor": "National Heart Centre Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT03553810"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03006796",
+      "title": "Observational Prospective stUdy of aZilsartan Medoxomil/ Chlorthalidone Compared With Irbesartan/hydrochlorothiaZide Combination Therapy in Patients With arteriaL Hypertension and obEsity in Routine Clinical Practice (PUZZLE).",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2017-01-16",
+      "completion_date": "2020-03-31",
+      "country": "Russia",
+      "enrollment": 94,
+      "brief_summary": "This is an observational prospective study of azilsartan medoxomil / chlorthalidone compared with irbesartan / hydrochlorothiazide in routine therapy of patients with arterial hypertension and obesity.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. male and female 35-55 year old,\n2. diagnosis of I-II grade essential AH,\n3. patients with obesity (BMI ≥ 30 kg/m²),\n4. patients with untreated AH (office SBP ≥ 140 mmHg, DBP ≥ 90 mmHg, no previous antihypertensive therapy),\n5. patients with poorly controlled AH (office SBP ≥ ",
+      "endpoints": [
+        "Clinic systolic blood pressure lowering."
+      ],
+      "sponsor": "Russian Heart Failure Society",
+      "url": "https://clinicaltrials.gov/study/NCT03006796"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02814552",
+      "title": "OPTImizing Precision of Hypertension Care to Maximize Blood Pressure Control Pilot (OPTI-BP Pilot)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2016-06-18",
+      "completion_date": "2018-06-30",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "Hypertension (HTN) is a major risk factor for coronary heart disease (CHD), heart failure, kidney failure and stroke. Disparities in HTN prevalence, treatment and control in the US have persisted for decades. The prevalence of HTN is 44% among Blacks, which is among the highest rates in the world. Those in ethnic/racial, rural, socioeconomically disadvantaged and other medically underserved populations are known to have the worst blood pressure (BP) control. Awareness of, treatment for, and cont",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* untreated HTN (systolic BP ≥ 140 or diastolic BP ≥ 90 mm Hg while taking no anti-HTN drugs)\n* treated, uncontrolled HTN (systolic BP ≥ 140 or diastolic BP ≥ 90 mm Hg while taking one or more anti-HTN drug)\n* provide voluntary, written informed consent\n* willing to comply with ",
+      "endpoints": [
+        "BP control"
+      ],
+      "sponsor": "University of Florida",
+      "url": "https://clinicaltrials.gov/study/NCT02814552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00745953",
+      "title": "Regression of Fatty Heart by Valsartan Therapy",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2007-08",
+      "completion_date": "2009-08",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Traditionally, obesity is considered an indirect cause of heart disease. Obese individuals typically present with a number of traditional Framingham risk factors (hypertension, dyslipidemia, and type 2 diabetes), predisposing them to heart attacks and subsequent heart failure. However, an emerging body of basic research revisits a hypothesis that fat is a direct cardiotoxin. Under healthy conditions, most triglyceride is stored in fatty tissue (adipocytes) while the amount of triglyceride stored",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prediabetic individuals with impaired glucose tolerance (2 hr postprandial glucose \\> 140mg/dL) or having 3 of 5 Metabolic Syndrome criteria:\n\n  1. Fasting glucose \\> 100mg/dL;\n  2. Waist circumference: men \\> 102cm, women \\> 88cm (confirmed with abdominal MRI);\n  3. HDL: men ",
+      "endpoints": [
+        "Myocardial triglyceride levels"
+      ],
+      "sponsor": "University of Texas Southwestern Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00745953"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02795910",
+      "title": "Integrated Primary Care for Diabetes and Cardiovascular Disease in Less Developed Countries: Pragmatic Trial of the Practical Approach to Care Kit",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-04-01",
+      "completion_date": "2019-03-31",
+      "country": "Brazil",
+      "enrollment": 40577,
+      "brief_summary": "This study will evaluate a complex intervention based on a patient management tool (PMT), combined with educational outreach to primary care doctors, nurses and other health workers, in the Brazilian city of Florianopolis. The intervention is aimed at improving the quality of primary health care and health outcomes, in adults with diabetes and cardiovascular disease (CVD). The effectiveness of the intervention will be assessed by randomly allocating 48 primary care clinics to receive the interve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 35 years and over in July 2016\n* Diagnosis of hypertension (ICD-10 code I10-I15), ischaemic heart disease (ICD-10 code I20-I25), heart failure (ICD-10 code I50), cerebrovascular disease (ICD-10 code I60-I69), or diabetes mellitus (ICD-10 code E10-E14) ever recorded since J",
+      "endpoints": [
+        "Cardiovascular risk and diabetes testing",
+        "Systolic blood pressure"
+      ],
+      "sponsor": "University of Sao Paulo General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02795910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06362668",
+      "title": "EU Sites: Fluid Management of Acute Decompensated Heart Failure Subjects Treated With Reprieve Decongestion Management System (DMS) (FASTR-EU)",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2024-05-17",
+      "completion_date": "2024-10-31",
+      "country": "Netherlands, Poland",
+      "enrollment": 12,
+      "brief_summary": "The objective of this study is to prospectively compare decongestive therapy administered by the Reprieve DMS system to Optimal Diuretic Therapy (ODT) in the treatment of patients diagnosed with acute decompensated heart failure (ADHF). The main objective is to determine if the Reprieve DMS is non-inferior to state-of-the-art urine sodium guided aggressive diuretic titration in two European HF centers of excellence.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Hospitalized with a diagnosis of heart failure as defined by the presence of at least 1 symptom AND 1 sign.\n2. ≥10 pounds (4.5 kg) above dry weight either by historical weights or as estimated by health care provider.\n3. Prior use of loop diuretics within 30 says prior to adm",
+      "endpoints": [
+        "Total sodium loss (in mmol of sodium) per 24 hours",
+        "Comparison of occurrence of composite endpoint comprised of clinically significant acute kidney injury, severe electrolyte abnormality, or symptomatic hypotension or hypertensive emergency."
+      ],
+      "sponsor": "Reprieve Cardiovascular, Inc",
+      "url": "https://clinicaltrials.gov/study/NCT06362668"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01647932",
+      "title": "Safety and Efficacy of the Combination of Loop Diuretics With Thiazide-type Diuretics in Patients With Decompensated Heart Failure: a Double-blind, Randomized, Placebo-controlled Trial (CLOROTIC Trial).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-10",
+      "completion_date": "2019-12-15",
+      "country": "Spain",
+      "enrollment": 232,
+      "brief_summary": "The purpose of this study is to determine whether a combined diuretic therapy (loop diuretics with thiazide-type diuretics) is more effective (in terms of improving fluid overload symptoms) among patients with decompensated heart failure in comparison with loop diuretic alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* History of chronic heart failure\n* Admission for acute decompensated heart failure\n* There is no prespecified inclusion criterion with respect to heart failure etiology and/or ejection fraction\n* Receipt of an oral loop diuretic for at least 1 month before hospitalization, at ",
+      "endpoints": [
+        "Changes in body weight",
+        "Patient-reported dyspnea"
+      ],
+      "sponsor": "Spanish Society of Internal Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT01647932"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01245608",
+      "title": "Fixed-dose Combination Therapy (PolyPill) in Prevention of Cardiovascular Disease in Middle-aged and Elderly Iranians - Focus on Liver-Related Variables.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2018-09",
+      "country": "Iran",
+      "enrollment": 2400,
+      "brief_summary": "The primary purpose of this study is to determine the effects of a fixed dose combination of valsartan, hydrochlorothiazide, atorvastatin and aspirin (PolyPill) on prevention of cardiovascular events in adults older than 50.\n\nVarious liver-related variables will also be recorded which will allow studying the effects of PolyPill on the liver and the effect of liver diseases such as nonalcoholic steatohepatitis on cardiovascular events and the protective effect of PolyPill.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n\\- Being enrolled in Golestan Cohort Study\n\nExclusion Criteria:\n\n* Debilitating disease causing inability to comply\n* Contraindications to any of the components of PolyPill\n* Not consenting to the study",
+      "endpoints": [
+        "Major Cardiovascular Events"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01245608"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04465123",
+      "title": "Furosemide With Early Sequential Nephron Blockade Versus Furosemide Alone in Acute Heart Failure Patients With Furosemide-guided Diuretic Resistance: A Double-blinded, Randomized, Placebo-controlled Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2020-08-13",
+      "completion_date": "2022-12-31",
+      "country": "Thailand",
+      "enrollment": 100,
+      "brief_summary": "This study aims to demonstrate the efficacy of sequential nephron blockade by adding hydrochlorothiazide or spironolactone on intravenous furosemide compared to intravenous furosemide alone in the treatments of volume overload in patients with acute heart failure who have diuretic resistance from furosemide stress test.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n* Diagnosis of acute heart failure which is defined by 2 of the 3 following features: ≥2+ leg edema, jugular venous pressure \\>10 cm from physical examination or central venous pressure \\>10 mmHg, and bilateral pulmonary edema or bilateral pleural effusion from c",
+      "endpoints": [
+        "Urine volume"
+      ],
+      "sponsor": "Chiang Mai University",
+      "url": "https://clinicaltrials.gov/study/NCT04465123"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06273397",
+      "title": "Acetazolamide or Metolazone in Acute Heart Failure",
+      "phase": "NA",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-05-01",
+      "completion_date": "2027-05-01",
+      "country": "N/A",
+      "enrollment": 1050,
+      "brief_summary": "Impact of Acute Heart Failure:\n\nAccording to the World Health Organization (WHO), approximately 26 million people suffer from Heart Failure (HF), with a mortality rate of up to 50% within five years of diagnosis. Acute Heart Failure (AHF) exacerbations, leading to hospitalization, are common and represent the primary cause of hospital admissions in those over 65. Effective decongestion during hospitalization is crucial, as failure to achieve it doubles the risk of rehospitalization and mortality",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acute heart failure: Hospitalization due to symptoms of heart failure, congestion signs documented with a congestion score greater than 1, NT-proBNP above 1000 pg/ml.\n* Randomization within 24 hours of admission.\n\nExclusion Criteria:\n\n* Under 18 years of age.\n* Received more t",
+      "endpoints": [
+        "Treatment success"
+      ],
+      "sponsor": "Clinica Alemana de Santiago",
+      "url": "https://clinicaltrials.gov/study/NCT06273397"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00865124",
+      "title": "Role of Mineralocorticoid Receptor in Diabetic Cardiovascular Disease",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2008-09",
+      "completion_date": "2014-05",
+      "country": "United States",
+      "enrollment": 69,
+      "brief_summary": "Aldosterone is a significant mediator of cardiovascular injury associated with heart failure and the cardiovascular benefits of mineralocorticoid receptor blockade are additive to those of angiotensin converting enzyme inhibitors or angiotensin II (ANGII) receptor blockers. This study will test the hypothesis that mineralocorticoid receptor (MR) antagonists exert beneficial cardiovascular effects, specifically by decreasing vascular injury and improving vascular function. A randomized, double-bl",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* age 18-70 years\n* type 2 diabetes mellitus\n* with or without hypertension\n\nExclusion Criteria:\n\n* ischemic changes on resting electrocardiogram,\n* clinical evidence of heart disease (angina, heart failure, unstable angina),cerebrovascular or peripheral vascular disease,\n* sign",
+      "endpoints": [
+        "Change in Coronary Flow Reserve From Baseline to 6 Months"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00865124"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01922141",
+      "title": "A Randomized, Double-blind, Parallel Group, Active-controlled Study to Compare the Systolic Blood Pressure Lowering Efficacy of Aliskiren, Ramipril and a Combination of Aliskiren and Amlodipine, With an Initial 8-week Evaluation, Followed by a 2-3 Year Follow-up to Compare Long-term Safety of an Aliskiren-based Regimen to a Ramipril-based Regimen in Hypertensive Patients ≥ 65 Years of Age",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2015-05",
+      "completion_date": "2018-06",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This study is designed to compare the blood pressure lowering efficacy of aliskiren, a combination of aliskiren plus amlodipine, and ramipril in elderly patients with mild to moderate hypertension. It will also compare the long-term safety of an aliskiren-based regimen to a ramipril-based regimen",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients ≥ 65 years of age with a clinical diagnosis of essential hypertension at Visit 1.\n* Mean sitting SBP (MSSBP) ≥ 140 mmHg and \\< 180 mmHg at Visit 2/Visit 201 and Visit 3.\n* Absolute MSSBP difference ≤ 20 mmHg between Visit 3 and the Visit immediately prior\n\nExclusion C",
+      "endpoints": [
+        "Change from baseline in mean sitting systolic blood pressure (MSSBP) to week 8"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01922141"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02185417",
+      "title": "CSP #597 - Diuretic Comparison Project",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-06-15",
+      "completion_date": "2022-12-29",
+      "country": "Puerto Rico, United States",
+      "enrollment": 20723,
+      "brief_summary": "The Diuretic Comparison Project aimed to evaluate whether chlorthalidone, as compared with hydrochlorothiazide, would reduce the risk of major nonfatal cardiovascular disease outcomes and non-cancer-related deaths in older patients with hypertension who were receiving hydrochlorothiazide at baseline. The investigators incorporated the pragmatic methods used by the Department of Veterans Affairs (VA) Healthcare System to provide a real-world assessment of the effectiveness of chlorthalidone as co",
+      "eligibility_criteria": "Inclusion criteria\n\n* over age 65 years\n* receiving hydrochlorothiazide from the VA pharmacy at a daily dose of 25 or 50 mg\n* most recent SBP ≥120 mm Hg and no records of SBP \\<120 mm Hg in the past 90 days\n\nExclusion criteria:\n\n* impaired decision-making capacity rendering the patient unable to pro",
+      "endpoints": [
+        "Time From Randomization to Composite Primary Outcome",
+        "Proportion of Participants Had a Composite Primary Outcome"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT02185417"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00690521",
+      "title": "A Comparison of Hydrochlorothiazide and Metolazone in Combination With Furosemide in Congestive Heart Failure Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-10-26",
+      "completion_date": "2009-11-10",
+      "country": "United States",
+      "enrollment": 8,
+      "brief_summary": "Objective: To establish which combination of diuretics is the most effective in promoting diuresis in congestive heart failure patients. Secondary Objectives: To determine the duration of action of furosemide as monotherapy and in combination hydrochlorothiazide with metolazone. To determine the effect of diuretic combination therapy on neurohormonal activation. Background: Diuretic resistance occurs when a potent diuretic drug, such as furosemide, is given in therapeutic doses and fails to redu",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Diagnosis of chronic congestive heart failure with an ejection fraction ≤45%\n* Currently on a stable regimen of furosemide consisting of a daily dose of at least 80 mg for at least two weeks.\n* Patients receiving ACE-inhibitors and/or beta-blockers must be tak",
+      "endpoints": [
+        "Participants With Change in Urinary Output"
+      ],
+      "sponsor": "University of New Mexico",
+      "url": "https://clinicaltrials.gov/study/NCT00690521"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07008365",
+      "title": "The Role of intraABDOminal Pressure and Point Of Care UltraSound to Guide Decongestive Therapy in Heart Failure",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-03-10",
+      "completion_date": "2026-12-31",
+      "country": "Spain",
+      "enrollment": 168,
+      "brief_summary": "Systemic venous congestion is the primary therapeutic target of intravenous loop diuretics in patients admitted for acute heart failure (AHF). Despite their utility, a significant proportion of AHF patients are discharged with persistent clinical symptoms of congestion (residual congestion). Therefore, in recent years, there has been a growing focus on the use of tools (biomarkers, clinical ultrasound) that allow us to optimize diuretic treatment and thereby improve the prognosis of AHF patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men or women over 18 years of age.\n* Diagnosis of heart failure (HF) based on the latest HF guidelines published in 2022.\n* N-terminal pro b-type natriuretic peptide (NT-proBNP) \\&gt; 1000 pg/mL or Brain Natriuretic Peptide (BNP) \\&gt; 250 pg/mL.\n* Placement of a urinary cathe",
+      "endpoints": [
+        "Significant reduction in congestion (ADVOR scale)"
+      ],
+      "sponsor": "Instituto de Investigación Sanitaria Aragón",
+      "url": "https://clinicaltrials.gov/study/NCT07008365"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000620",
+      "title": "Action to Control Cardiovascular Risk in Diabetes (ACCORD)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1999-09",
+      "completion_date": "2012-12",
+      "country": "Canada, United States",
+      "enrollment": 10251,
+      "brief_summary": "The purpose of this study is to prevent major cardiovascular events (heart attack, stroke, or cardiovascular death) in adults with type 2 diabetes mellitus using intensive glycemic control, intensive blood pressure control, and multiple lipid management.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with type 2 diabetes mellitus, as determined by the new American Diabetes Association guidelines, which include a fasting plasma glucose level greater than 126 mg/dl (7.0 mmol/l), or a 2-hour postload value in the oral glucose tolerance test of greater than 200 mg/dl",
+      "endpoints": [
+        "First Occurrence of a Major Cardiovascular Event (MCE); Specifically Nonfatal Heart Attack, Nonfatal Stroke, or Cardiovascular Death (Measured Throughout the Study) in the Glycemia Trial.",
+        "First Occurrence of Major Cardiovascular Event (MCE) in the Blood Pressure Trial.",
+        "First Occurrence of Major Cardiovascular Event (MCE) in the Lipid Trial."
+      ],
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "url": "https://clinicaltrials.gov/study/NCT00000620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04192110",
+      "title": "Association of Diuretics With Change in Extracellular Volume, Natriuretic Peptides, Symptoms, and Cardiovascular Outcomes in CKD",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2020-08-11",
+      "completion_date": "2020-08-11",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "Almost 15% of Americans have chronic kidney disease (CKD), with an even higher rate in Veterans due to common risk factors such as high blood pressure and diabetes. People with CKD have a high risk of cardiovascular (CV) diseases, such as heart attacks, heart failure, and strokes. Extra fluid in the body, called volume overload, may lead to CV disease in people with CKD. It is unknown if volume overload develops in the earliest stages of CKD, when treating it with common, inexpensive medicines c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* The presence of CKD stages 1, 2, or 3, as defined below by National Kidney Foundation guidelines, for a period of at least 3 months.\n\n  * Stage 1: eGFR 90 mL/min/1.73 m2 and spot urine albumin-to-creatinine ratio 30 mg/g.\n  * Stage 2: eGFR 60-89 mL/min/1.73 m2 and spot urine a",
+      "endpoints": [
+        "NT-pro-BNP",
+        "Total peripheral resistance index"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT04192110"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02646397",
+      "title": "Comparison of Efficacy and Safety Between Benidipine and Hydrochlorothiazide in Fosinopril Treated Chronic Kidney Disease Patients With Hypertension: a Randomized Controlled Trial",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2016-02",
+      "completion_date": "2017-12",
+      "country": "China",
+      "enrollment": 508,
+      "brief_summary": "The purpose of this study is to compare the effect of fosinopril plus benidipine vs. fosinopril plus hydrochlorothiazide on the renal function during the 6-month treatment in CKD patients with HTN.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients diagnosed with non-dialysis CKD at the enrollment and randomization eGFR≥ 30 ml/min per 1.73 m2 at the enrollment and randomization SBP\\> 130 mmHg and/or DBP \\> 80 mmHg at the enrollment and randomization. Patients could not receive more than two antihypertensive med",
+      "endpoints": [
+        "Changes in estimated glomerular filtration rate"
+      ],
+      "sponsor": "Shanghai Changzheng Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02646397"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05963568",
+      "title": "Stroke Minimization Through Additive Anti-atherosclerotic Agents in Routine Treatment II Study (SMAART II)",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-01-01",
+      "completion_date": "2028-09-01",
+      "country": "Ghana",
+      "enrollment": 680,
+      "brief_summary": "The overall objective of the Stroke Minimization through Additive Anti-atherosclerotic Agents in Routine Treatment II (SMAART-II) is to deploy a hybrid study design to firstly, demonstrate the efficacy of a polypill (Polycap ®) containing fixed doses of antihypertensives, a statin, and antiplatelet therapy taken as two capsules, once daily orally in reducing composite vascular risk over 24 months vs. usual care among 500 recent stroke patients encountered at 12 hospitals in Ghana. Secondly, SMAA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Above the age of 18 years; male or female\n* Ischemic stroke diagnosis no greater than two months before enrollment. Ischemic strokes including� lacunar, large-vessel atherosclerotic, cardio-embolic subtypes are eligible\n* Subjects with stroke may present with at least one of t",
+      "endpoints": [
+        "Composite vascular risk factor control"
+      ],
+      "sponsor": "Northern California Institute of Research and Education",
+      "url": "https://clinicaltrials.gov/study/NCT05963568"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05171686",
+      "title": "Association of Diuretics With Change in Extracellular Volume, Natriuretic Peptides, Symptoms, and Cardiovascular Outcomes in CKD",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2023-02-01",
+      "completion_date": "2025-10-02",
+      "country": "United States",
+      "enrollment": 49,
+      "brief_summary": "Almost 15% of Americans have chronic kidney disease (CKD), with an even higher rate in Veterans due to common risk factors such as high blood pressure and diabetes. People with CKD have a high risk of cardiovascular (CV) diseases, such as heart attacks, heart failure, and strokes. Extra fluid in the body, called volume overload, may lead to CV disease in people with CKD. It is unknown if volume overload develops in the earliest stages of CKD, when treating it with common, inexpensive medicines c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female Veterans age 18 years or older. There will be no upper age limit.\n* The presence of CKD stages 1, 2, or 3, as defined below by Kidney Disease Improving Global Outcomes guidelines, for a period of at least 3 months.\n\n  * Stage 1: eGFR 90 mL/min/1.73 m2 and spot u",
+      "endpoints": [
+        "Change in NT-pro-BNP"
+      ],
+      "sponsor": "VA Office of Research and Development",
+      "url": "https://clinicaltrials.gov/study/NCT05171686"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04952051",
+      "title": "Randomized Controlled Blind End Point Study of Enalapril Folic Acid Tablets Combined With Calcium Antagonist or Diuretic to Prevent Stroke in Patients With Type H Hypertension",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2014-07-01",
+      "completion_date": "2020-07-01",
+      "country": "China",
+      "enrollment": 1000,
+      "brief_summary": "Hypertension is a common condition that can cause serious events such as stroke, coronary heart disease and heart failure. Homocysteine (Hcy) is a substance in the body that is harmful to blood vessels. Hyperhomocysteinemia (plasma Hcy≥10 mol/L), which is associated with hypertension, significantly increases the risk of stroke. This type of high blood pressure is called type \"H\" hypertension. Enalapril folic acid tablet is an innovative drug developed independently in China and is the first choi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 1.40-75 years old (inclusive);\n* 2\\. Patients who have been diagnosed with all types of essential hypertension (those who are currently taking antihypertensive drugs with normal blood pressure can still be admitted) or those whose blood pressure screening meets the inclusion c",
+      "endpoints": [
+        "Stroke rate"
+      ],
+      "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+      "url": "https://clinicaltrials.gov/study/NCT04952051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06395194",
+      "title": "The Valsartan Antihypertensive Long-term Use Evaluation Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1997-09-27",
+      "completion_date": "2003-12-05",
+      "country": "N/A",
+      "enrollment": 15313,
+      "brief_summary": "The Valsartan Antihypertensive Long-term Use Evaluation (VALUE) trial tested the hypothesis that for the same blood-pressure control, valsartan would reduce cardiac morbidity and mortality more than amlodipine in hypertensive patients at high cardiovascular risk. The present study investigates effects of valsartan and amlodipine on pre-specified secondary kidney outcomes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* hypertension, and predefined combinations of risk factors, including:\n* age\n* male gender\n* the presence of electrocardiographic left ventricular hypertrophy (LVH, determined by Cornell voltage-duration product or Sokolow-Lyon voltage criteria with or without a strain pattern)",
+      "endpoints": [
+        "Composite cardiac event (mostly myocardial infarction and heart failure hospitalization)"
+      ],
+      "sponsor": "Oslo University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT06395194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00170950",
+      "title": "A Prospective, Multinational, Multicenter Trial to Compare the Effects of Amlodipine/Benazepril to Benazepril and Hydrochlorothiazide Combined on the Reduction of Cardiovascular Morbidity and Mortality in Patients With High Risk Hypertension",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2003-10",
+      "completion_date": "2008-05",
+      "country": "Finland, Norway, Denmark, Sweden, United States",
+      "enrollment": 11506,
+      "brief_summary": "A comparison study of two combination drugs, amlodipine/benazepril and benazepril/HCTZ to evaluate the effectiveness of the combination on reducing heart disease and death in a high risk hypertensive population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 55 years of age.\n* Previously untreated or treated hypertension.\n* For patients \\>= 60 years, evidence of at least one CV disease or target organ damage, or for patients 55-59 years evidence of at least two CV diseases or target organ damage from two different organ s",
+      "endpoints": [
+        "Time-to-event Analysis of Percentage of Patients With a Composite Cardiovascular (CV) Morbidity or Mortality Event"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00170950"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01198496",
+      "title": "Phase IV Study for Effect of Intensive Blood-Pressure Control Using Anti-hypertensive Agents in Essential Hypertension With History of Stroke",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-10",
+      "completion_date": "2019-12",
+      "country": "Japan",
+      "enrollment": 5000,
+      "brief_summary": "1. Objectives and Hypothesis\n\n   1. Objectives:\n\n      This study evaluates whether strict BP management is useful for the prevention of recurrent stroke.\n\n      Hypertensive patients with history of stroke are treated with stepwise multi-drug therapy to achieve stricter BP target \\<120/80 mmHg in the strict BP control group and less stricter BP target \\<140/90 mmHg or \\<130/80 mmHg for patients with current DM/CKD/MI in the standard BP control group. The participants under the BP treatment achi",
+      "eligibility_criteria": "Inclusion Criteria:\n\nParticipants include those with essential hypertension and history of stroke who satisfy the following criteria:\n\n* Outpatient\n* Onset of stroke(cerebral infarction/cerebral hemorrhage) occurred between 30 days and 3 years prior to the date of consent.\n* Drug adherence is ≧80% d",
+      "endpoints": [
+        "the prevention of recurrent stroke."
+      ],
+      "sponsor": "Biomedis International Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01198496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03015311",
+      "title": "Strategy of Systolic Blood Pressure Intervention in the Elderly Hypertensive Patients: A Prospective Randomized Open-Label Blinded-Endpoint Trial",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2017-01-15",
+      "completion_date": "2021-12-31",
+      "country": "China",
+      "enrollment": 8000,
+      "brief_summary": "The Strategy of Blood Pressure Intervention in the Elderly Hypertensive Patients (STEP) is a 2-arm, multi-center, prospective, randomized, open-labeled, blinded-endpoint trial. The purpose of this trial is to test whether a treatment program aimed at reducing systolic blood pressure (SBP) to a lower goal (\\<130 mmHg, intensive treatment) than currently recommended (\\<150 mmHg, standard treatment) will reduce CVD risk among persons between 60-80 years of old. Furthermore, this trial will also exa",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Systolic BP between 140-190 mm Hg in the three screening visits or currently under anti-hypertension treatment；\n2. An age of 60 - 80 years old；\n3. Signed the written informed consent.\n\nExclusion Criteria:\n\n1. Systolic BP≥190 mm Hg, or diastolic BP \\<60 mm Hg;\n2. Known seconda",
+      "endpoints": [
+        "Primary composite outcome"
+      ],
+      "sponsor": "Chinese Academy of Medical Sciences, Fuwai Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03015311"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01259297",
+      "title": "A Randomized Controlled Trial of Aliskiren in the Prevention of Major Cardiovascular Events in Elderly People",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2011-01",
+      "completion_date": "2012-11",
+      "country": "Israel, Brazil, Spain, Philippines, Sweden, Chile, Czechia, South Africa, India, Hungary, Germany, Ireland, Netherlands, Malaysia, Canada, Colombia, Argentina, United States",
+      "enrollment": 2336,
+      "brief_summary": "This study was planned to provide new information regarding the role of aliskiren (with or without additional therapy with a diuretic or a Calcium channel blockers (CCB)) in elderly individuals (≥ 65 years) with systolic blood pressure (SBP) 130 to 159 mmHg, in preventing major cardiovascular (CV) events and on global measures of physical, executive and cognitive function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSystolic blood pressure 130 - 159 mmHg with any one of the following (1, 2 or 3):\n\n1. Men and women aged ≥ 65 years if they have at least one of the following: (secondary prevention) Coronary heart disease\n\n   * Previous myocardial infarction or\n   * Stable angina or unstable an",
+      "endpoints": [
+        "Number of Participants With Composite Cardiovascular Endpoints in Aliskiren Based Regimen Versus Non-Aliskiren Based Regimen",
+        "Number of Participants With Composite Cardiovascular Endpoints in Aliskiren+Amlodipine/HCTZ Group Versus All Placebo Group"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01259297"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03720288",
+      "title": "Prospective Analysis Between Acetazolamide vs Placebo in Patients With Acute Heart Failure",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2018-10-01",
+      "completion_date": "2020-10-01",
+      "country": "Brazil",
+      "enrollment": 90,
+      "brief_summary": "Introduction: Recent studies have suggested that the use of acetazolamide may assist in the vol- ume management of patients with decompensated heart failure (HF). However, prospective and randomized comparison in patients with HF and optimized diuretic therapy has not been described. Objective: The aim of this study was to evaluate the effectiveness and safety of the use of acetazolamide versus placebo in volume control in patients with decompensated HF. Methodology: For this, a unicentric, rand",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult men and women aged\\> 18 years.\n* Patients with LVEF ≤ 40% documented on echocardiography\n* BNP\\> 500 pg / mL\n* Signed consent form.\n\nExclusion Criteria:\n\n* Pregnancy\n* COPD\n* Hepatical cirrhosis\n* Known allergy to acetazolamide\n* 2nd or 3rd degree atrioventricular block.",
+      "endpoints": [
+        "diuresis and negative water balance"
+      ],
+      "sponsor": "University of Sao Paulo General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03720288"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03892148",
+      "title": "Evaluation of an Optimization Protocol for Diuretics in the Decompensation of Chronic Heart Failure: Randomized Trial in Clusters With Sequential Permutation",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2019-05-17",
+      "completion_date": "2023-01-16",
+      "country": "France",
+      "enrollment": 299,
+      "brief_summary": "The main objective of the study is to determine if a diuretic adaptation protocol in the decompensation of chronic heart failure is more effective but also safer than the current non-protocolized practice.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients hospitalized for chronic decompensated congestive heart failure without acute pulmonary edema and acute cardiac decompensation against a background of hypertensive crisis\n* covered under a social security program\n* with legal capacity to give voluntary informed ",
+      "endpoints": [
+        "Change in the serum creatinine level",
+        "change in weight"
+      ],
+      "sponsor": "University Hospital, Clermont-Ferrand",
+      "url": "https://clinicaltrials.gov/study/NCT03892148"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02088450",
+      "title": "Systolic Hypertension in Europe Trial",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "1990-02",
+      "completion_date": "1997-02",
+      "country": "N/A",
+      "enrollment": 4695,
+      "brief_summary": "The Syst-Eur Trial is a concerted action of the European Community's Medical and Health Research Programme. The trial is carried out in consultation with the World Health Organization, the International Society of Hypertension, the European Society of Hypertension and the World Hypertension League. Syst-Eur is a multicentre trial designed by the European Working Party on High Blood Pressure in the Elderly (EWPHE), to test the hypothesis that antihypertensive treatment of elderly patients with is",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 60 years old.\n* Sitting systolic blood pressure on masked placebo, during run-in phase of 160 to 219 mmHg, with a sitting diastolic blood pressure below 95 mmHg and a standing systolic blood pressure of at least 140 mmHg\n* Informed consent must be obtained\n\nExclusion ",
+      "endpoints": [
+        "Incidence of stroke"
+      ],
+      "sponsor": "KU Leuven",
+      "url": "https://clinicaltrials.gov/study/NCT02088450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05545059",
+      "title": "Effects and Safety of Sacubitril/Valsartan Versus Valsartan on Refractory Hypertension: The EOSORH Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2022-09-24",
+      "completion_date": "2023-03-31",
+      "country": "China",
+      "enrollment": 138,
+      "brief_summary": "Resistant hypertension (RH) accounted for a considerable proportion of patients with hypertension. It has been revealed to impose certain adverse effects on the prognosis of patients with cardiovascular diseases. The antihypertensive effect of sacubitril/valsartan being fully confirmed in previous studies, there were no related randomized controlled trials (RCT) about this potency among Chinese patients with RH. The investigators designed this study to evaluated effects and safety of sacubitril/",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of resistant hypertension\n* ≥18 and ≤75 years old at the time of randomization\n* Must agree to comply with all requirements and sign the informed consent form\n\nExclusion Criteria:\n\n* unwilling to sign informed consent.\n* Severe renal insufficiency\n* Research",
+      "endpoints": [
+        "the change in 24 hours average ambulatory systolic pressure from baseline to 8 weeks after randomization"
+      ],
+      "sponsor": "Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",
+      "url": "https://clinicaltrials.gov/study/NCT05545059"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03031496",
+      "title": "An Open-label, Randomized, Single-dose, Two-period Cross-over Study to Evaluate Bioequivalence of GSK3542503 Hydrochlorothiazide + Amiloride Hydrochloride 50 mg: 5 mg Fixed Dose Combination Tablets Versus Reference Product in Healthy Adult Participants Under Fasting Conditions",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2017-03-17",
+      "completion_date": "2017-04-10",
+      "country": "South Africa",
+      "enrollment": 42,
+      "brief_summary": "The combination of the diuretics amiloride hydrochloride (HCl) and hydrochlorothiazide (HCTZ) (GSK3542503) is indicated for the treatment of hypertension, congestive heart failure and hepatic cirrhosis with ascites and edema. This first time in human (FTIH) study is aimed to determine whether the test product GSK3542503 is bioequivalent to the reference (ref) hydrochlorothiazide 50 milligram (mg)/amiloride hydrochlorothiazide 5 mg in healthy adult participants under fasting conditions based on p",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must be between18 and 65 years of age inclusive, at the time of signing the informed consent.\n* Healthy, non-smoker, as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination, la",
+      "endpoints": [
+        "Area Under the Curve (AUC) From Time Zero to the Time of the Last Quantifiable Concentration (AUC [0-t]) of Hydrochlorothiazide and Amiloride Hydrochloride",
+        "Maximum Observed Concentration (Cmax) of Hydrochlorothiazide and Amiloride Hydrochloride in Plasma"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT03031496"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03147092",
+      "title": "Matão Controlling Hypertension (MatCH Study): Rationale and Design. Project to Reduce Incidence of Arterial Hypertension in City of Matão, Brazil.",
+      "phase": "EARLY_PHASE1",
+      "status": "UNKNOWN",
+      "start_date": "2018-02-01",
+      "completion_date": "2021-06-30",
+      "country": "N/A",
+      "enrollment": 15000,
+      "brief_summary": "Background Hypertension is the main risk factor for most cardiovascular diseases. Blood pressure (BP) control has been shown to reduce the incidence of stroke, myocardial infarction, renal diseases and heart failure. Although BP lowering is effective, few population programs can achieve BP control. A coordinated and organized system from the Brazilian Ministry of Healthy involving Family Health Strategy (FHS), a program for the prevention of chronic disease, and the Popular Pharmacy Program (PPP",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All consented subjects aged ≥ 40 years belonging to Family Strategy Health program and residing in Matão.\n\nExclusion Criteria:\n\n* Patients younger than 40 years.\n* Subjects not belonging to Family Strategy Health program in Matão.",
+      "endpoints": [
+        "Number of hypertensive subjects with BP controlled during follow-up"
+      ],
+      "sponsor": "Centro Neurológico de Pesquisa e Reabiitação, Brazil",
+      "url": "https://clinicaltrials.gov/study/NCT03147092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03640221",
+      "title": "A Double-blind, Randomized, Parallel 2- Arm Study to Compare the Efficacy of Ertugliflozin Versus Hydrochlorothiazide in Reducing Sympathetic Neural Overactivity in Patients With Hypertension and Recently-diagnosed Type 2 Diabetes Who Are Receiving Background Standard-of-care Cardio-metabolic Therapy With Metformin, an Angiotensin Converting Enzyme Inhibitor or Angiotensin Receptor Blocker, and a Statin.",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2018-09-01",
+      "completion_date": "2020-08-31",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The sodium-glucose cotransporter 2 (SGLT2) inhibitors are an exciting new class of antidiabetic drugs that cause a modest reduction in high blood pressure and large reductions in the risk of cardiovascular disease (CVD) outcomes and renal outcomes in patients with advanced type 2 diabetes and very high CVD risk. However, the mechanistic underpinning of these CVD benefits is not well understood. Mechanistic studies are needed to define specific biologic targets and thus optimize therapeutic benef",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of diabetes mellitus established \\< 24 months before enrollment\n2. Ages 30-65 years\n3. Men and women, inclusive or race/ethnic groups\n4. Background standard-of-care cardiometabolic therapy including a stable dose regimen for 6 weeks of: a) metformin and b) an ACEI o",
+      "endpoints": [
+        "Muscle sympathetic nerve activity (bursts/minute)"
+      ],
+      "sponsor": "Cedars-Sinai Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT03640221"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00902304",
+      "title": "A Phase IV Clinical Trial of Intensified Blood Pressure Management in Primary Care Using Valsartan Alone and as Combination Anti-Hypertensive Therapy",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-07",
+      "completion_date": "2011-07",
+      "country": "Australia, United States",
+      "enrollment": 2337,
+      "brief_summary": "This study will assess the efficacy of an intensive blood pressure management strategy compared to usual care in a primary care (general practice) setting.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* newly diagnosed or currently treated hypertensive patients who have not attained their blood pressure target and require active pharmacological treatment as recommended by the local guidelines as judged by the general practitioner\n\nExclusion Criteria:\n\n* significantly elevated",
+      "endpoints": [
+        "Percentage of Patients Who Have Achieved Their Pre-specified (Individualized National Heart Foundation of Australia Criteria) Blood Pressure (BP) Target"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00902304"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00468923",
+      "title": "Heart Outcomes Prevention Evaluation-3",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2016-01",
+      "country": "Canada",
+      "enrollment": 12705,
+      "brief_summary": "Heart disease and stroke are major causes of death and disability worldwide and are largely preventable. Cholesterol and blood pressure are major cardiovascular risk factors. Previous studies have shown that certain drugs can effectively and safely lower cholesterol and blood pressure and prevent heart attacks and strokes. Such studies have been conducted primarily in people who had already sustained a heart attack or a stroke, or in people with high cholesterol and blood pressure levels. Howeve",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged \\> 60 years and men \\> 55 years\n* At least one additional CV risk factor including:\n* Waist/hip ratio ≥ 0.90 in men and ≥ 0.85 in women;\n* History of current or recent smoking (regular tobacco use within 5 years)\n* Low HDL cholesterol\n* Dysglycemia\n* Renal dysfuncti",
+      "endpoints": [
+        "The composite of; Cardiovascular death, non-fatal myocardial infarction, non-fatal stroke.",
+        "The composite of; cardiovascular death, resuscitated cardiac arrest, non-fatal myocardial infarction, non-fatal stroke, heart failure, arterial revascularizations"
+      ],
+      "sponsor": "Population Health Research Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00468923"
+    }
+  ],
+  "timestamp": "2026-03-04T15:22:34.016539",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,950 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Potassium Chloride",
+    "disease": "potassium deficiency disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03493087",
+      "title": "Underlying Causes of Low Vitamin K Status in Hemodialysis Patients",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2018-02-22",
+      "completion_date": "2018-11-20",
+      "country": "Denmark",
+      "enrollment": 33,
+      "brief_summary": "Studies have shown that patients with chronic kidney disease in hemodialysis have a low vitamin K status which is believed to be related to an increased risk of atherosclerosis and increased bleeding tendency. The underlying causes of low vitamin K status in hemodialysis patients is unknown. Thus, the aim of this study is to investigate why hemodialysis patients have a low vitamin K status and how to improve it.\n\nThis study is composed of five trials. Four of them are based on possible hypothese",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic kidney disease\n* Hemodialysis (\\> 3 months) at Herlev Hospital, Nephrological department\n* Understands and are able to read danish\n* Able to collaborate on diet etc.\n\nExclusion Criteria:\n\n* Warfarin treatment\n* Pregnant or breastfeeding\n* Prior intake of vitamin K supp",
+      "endpoints": [
+        "Δ-dp-uc-MGP (Sub-trial 5)"
+      ],
+      "sponsor": "University of Copenhagen",
+      "url": "https://clinicaltrials.gov/study/NCT03493087"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01300234",
+      "title": "A Multi-centre, Double Blind, Double Dummy, Randomised, Controlled Study to Evaluate the Efficacy and Safety of TDF 300mg Once Daily (QD) Versus Adefovir Dipivoxil (ADV) 10mg QD in Chinese Subjects With CHB",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-03-30",
+      "completion_date": "2016-12-06",
+      "country": "China",
+      "enrollment": 512,
+      "brief_summary": "This is a multi-centre, double blind, double dummy, randomised, controlled study to evaluate the efficacy and safety of TDF 300mg QD versus ADV 10mg QD in Chinese subjects with CHB. This study is designed to demonstrate the superiority of TDF 300mg QD over ADV 10mg QD in treating Chinese subjects with CHB (hepatitis B e antigen \\[HBeAg\\] positive subjects and HBeAg negative subjects). It will also provide long-term efficacy and safety data (up to 240 weeks) for TDF 300 mg administered once daily",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HBeAg positive/negative CHB with blood HBVDNA≥10\\^5 copies/mL and elevated ALT\n* Nucleoside and nucleotide naïve CHB subjects. Previous lamivudine treatment is allowed in less than 10% of the total study population\n\nExclusion Criteria:\n\n* subjects with hepatocellular carcinoma",
+      "endpoints": [
+        "Participants With Hepatitis B Virus (HBV) Deoxyribonucleic Acid (DNA) <400 Copies/Milliliter (mL) at Week 48"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT01300234"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00594646",
+      "title": "A Phase IV Open-Label Evaluation of Safety, Tolerability and Patient Acceptance of Raltegravir (MK-0518) Combined With a Fixed-Dose Formulation of Tenofovir Following Potential Exposure to HIV-1",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2008-02",
+      "completion_date": "2010-08",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "This study will evaluate how safe and tolerable a combination of taking three-drugs will be for the purpose of preventing HIV transmission after a high-risk sexual contact exposure in HIV uninfected adults.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV uninfected on the basis of a negative HIV Rapid Test, EIA or Western blot, and a negative HIV-1 RNA assay\n* Possible non-occupational exposure to HIV-1, recent enough to permit receiving the first dose of study medication within 72 hours from the end of the exposure.\n* Abl",
+      "endpoints": [
+        "Medication Regimen Completion Rates",
+        "Number of HIV-1 Infected Participants"
+      ],
+      "sponsor": "Fenway Community Health",
+      "url": "https://clinicaltrials.gov/study/NCT00594646"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03907241",
+      "title": "Title for SCGAM-03: CLINICAL PHASE III STUDY TO MONITOR THE SAFETY, TOLERABILITY AND EFFICACY OF SUBCUTANEOUS HUMAN IMMUNOGLOBULIN (OCTANORM) IN PATIENTS WITH PRIMARY IMMUNODEFICIENCY DISEASES WHO HAVE COMPLETED THE SCGAM-01 TRIAL Title for SCGAM-03 in Canada: CLINICAL PHASE III STUDY TO MONITOR THE SAFETY, TOLERABILITY AND EFFICACY OF SUBCUTANEOUS HUMAN IMMUNOGLOBULIN (OCTANORM) IN PATIENTS WITH PRIMARY IMMUNODEFICIENCY DISEASES, INCLUDING (BUT NOT LIMITED TO) THOSE WHO HAVE COMPLETED THE SCGAM-01 TRIAL",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-03-01",
+      "completion_date": "2019-09-05",
+      "country": "Canada, United States",
+      "enrollment": 27,
+      "brief_summary": "Summary for SCGAM-03: Clinical phase III study to monitor the safety, tolerability and efficacy of subcutaneous human immunoglobulin (Octanorm) in patients with primary immunodeficiency diseases who have completed the SCGAM-01 trial.\n\nSummary for SCGAM-03 in Canada: Clinical phase III study to monitor the safety, tolerability and efficacy of subcutaneous human immunoglobulin (octanorm) in patients with primary immunodeficiency diseases, including (but not limited to) those who have completed the",
+      "eligibility_criteria": "Inclusion Criteria for SCGAM-03:\n\n1. Completion of the main study SCGAM-01, with good tolerance of Octanorm (as determined by the investigator).\n2. For adult patients: freely given written informed consent. For patients below the legal age of majority: freely given written informed consent from pare",
+      "endpoints": [
+        "Occurrence of All Treatment-emergent Adverse Events (TEAEs)",
+        "Occurrence of Temporally Associated TEAEs",
+        "Number of Temporally Associated TEAEs by Infusion Rate"
+      ],
+      "sponsor": "Octapharma",
+      "url": "https://clinicaltrials.gov/study/NCT03907241"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02525861",
+      "title": "A Phase 3/4 Study to Evaluate the Safety, Immunogenicity, and Effects on the Alpha1-Proteinase Inhibitor (A1PI) Levels in Epithelial Lining Fluid Following Glassia Therapy in A1PI-Deficient Subjects",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-03-08",
+      "completion_date": "2020-07-29",
+      "country": "Canada, United States",
+      "enrollment": 34,
+      "brief_summary": "The purpose of the study is 2-fold: (1) to evaluate the safety and potential immunogenicity of GLASSIA following intravenous (IV) administration via in-line filtration; and (2) to assess the effects of GLASSIA augmentation therapy on the levels of A1PI and various biomarkers in the epithelial lining fluid (ELF) following intravenous (IV) administration at a dosage of 60 milligrams per kilogram (mg/kg) Body weight (BW)/week active alpha1-proteinase inhibitor (A1PI) protein for 25 weeks in partici",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female participants meeting the following age criteria:\n\n   1. For participants who will undergo bronchoscopy/ bronchoalveolar lavage (BAL) procedures: 18 to 75 years of age at the time of screening.\n   2. For participants who will be waived from undergoing bronchosco",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (TEAEs) Potentially Related to Presence of Particle Load in the GLASSIA Solution",
+        "Number of Participants With Treatment-Emergent Adverse Reactions (ARs) Plus Suspected Adverse Reactions (ARs) Within 24 Hours Following the End of IP Infusion",
+        "Number of Participants With Treatment-Emergent Adverse Reactions (ARs) Plus Suspected Adverse Reactions (ARs) Within 72 Hours Following the End of IP Infusion"
+      ],
+      "sponsor": "Takeda",
+      "url": "https://clinicaltrials.gov/study/NCT02525861"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05291520",
+      "title": "A Phase 1, Open-Label, Single-Dose Study of the Safety and Pharmacokinetics of a Human Monoclonal Antibody, GSK3810109, Administered Either Subcutaneously or Intravenously With Recombinant Human Hyaluronidase PH20 (rHuPH20) to Healthy Adults",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-02-23",
+      "completion_date": "2023-04-10",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "An open-label, two part study to assess the safety, tolerability, and PK of VH3810109 in healthy adult participants. Participants will receive a single SC or IV dose of VH3810109 co-administered with rHuPH20 and will be followed up for 24 weeks.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who are overtly healthy as determined by medical evaluation including medical history, physical examination, laboratory tests, and without history of any of the conditions listed in the exclusion criteria.\n* Participants having body weight of ≥50 kilogram (kg) and",
+      "endpoints": [
+        "Number of Participants With Grade 2 or Higher (>=) Adverse Events (AEs) Following SC Administration of VH3810109 (Part 1 and Part 3)",
+        "Number of Participants With Serious Adverse Events (SAEs) Following SC Administration of VH3810109 (Part 1 and Part 3)",
+        "Number of Participants With Injection Site Reactions (ISRs) Following VH3810109 SC Administration (Part 1 and 3)"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT05291520"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00774683",
+      "title": "A Phase IV, Open-Label, Single-Sequence Pilot Study to Characterize the Pharmacokinetics of a 400mg Oral Dose of Raltegravir in the Cervicovaginal Fluids of HIV-Infected Women",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 1,
+      "brief_summary": "The purpose of this research sub-study is to learn about the levels of an antiretroviral (ARV) medication called Raltegravir, and response to HIV virus in the genital tract of HIV-positive women.\n\nWe would like to see how this study medication is tolerated, and how the body processes the study medication in women who are HIV-positive. More specifically, we are interested in how Isentress® might penetrate into the female cervicovaginal secretions thereby potentially reducing the amount of HIV in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infection documented by HIV serology or detectable viral load\n* Self-described as African-American\n* Less than 7 days cumulative of prior HIV therapy\n* Plasma HIV RNA PCR equal to or greater than 1000 copies/mL within 90 days prior to study entry\n* Able to provide inform",
+      "endpoints": [
+        "To characterize the pharmacokinetics of raltegravir in cervicovaginal fluids of HIV-infected women, and compare this to the blood plasma pharmacokinetics being obtained in the main study, CID 0706."
+      ],
+      "sponsor": "University of North Carolina, Chapel Hill",
+      "url": "https://clinicaltrials.gov/study/NCT00774683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03205566",
+      "title": "The Time to Protection and Adherence Requirements of Raltegravir With or Without Lamivudine in Protection From HIV Infection",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-09-19",
+      "completion_date": "2018-09-24",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "This study evaluates whether a 7-day course of Raltegravir 400mg bd or Raltegravir 400mg/lamivudine 150mg bd can prevent HIV from infecting genital tissue and will relate the level of drug in the blood to the level of drug in genital tissue and to the ability to of HIV to infect genital tissue. As well as determining whether these regimes can provide ex vivo protection against HIV, this study will also determine speed to provision of protection and a 48 hour PK/PD decay profile of Raltegravir fo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The ability to understand and sign a written informed consent form prior to participation in any screening procedures and must be willing to comply with all trial requirements.\n2. Male or non-pregnant, non-lactating females\n3. Age between 18 to 60 years, inclusive.\n4. Body Ma",
+      "endpoints": [
+        "The Level of Raltegravir Alone or Raltegravir /Lamivudine Required in the Plasma, Vagina and Rectum for 100% ex Vivo Protection From HIV"
+      ],
+      "sponsor": "Guy's and St Thomas' NHS Foundation Trust",
+      "url": "https://clinicaltrials.gov/study/NCT03205566"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04112862",
+      "title": "Effects of Sodium Lactate Infusion in Patients With Glucose Transporter 1 Deficiency Syndrome (GLUT1DS)",
+      "phase": "EARLY_PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2022-05-20",
+      "completion_date": "2022-11-18",
+      "country": "Netherlands",
+      "enrollment": 2,
+      "brief_summary": "This study investigates the effect of lactate infusion on epileptic discharges on EEG and seizure frequency in glucose transporter 1 deficiency syndrome (GLUT1DS) patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with GLUT1DS and known in our center.\n* Baseline characteristics include a high frequency of clinical seizures and epileptic discharges on EEG.\n* History of trying ketogenic diet with good compliance without beneficial effects.\n* Age \\> 6 years.\n* Informed consent.\n\n",
+      "endpoints": [
+        "Number of changes in epileptic discharges on EEG during the infusion of lactate."
+      ],
+      "sponsor": "Radboud University Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT04112862"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06363097",
+      "title": "The Effect of Dietary Sodium Intake on Ambulatory Blood Pressure Levels According to Urinary Uromodulin Levels in Patients With Chronic Kidney Disease",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2023-09-04",
+      "completion_date": "2025-08-30",
+      "country": "Greece",
+      "enrollment": 130,
+      "brief_summary": "In chronic kidney disease (CKD), hypertension is characterized by the phenomenon of sodium-sensitivity, i.e., the disproportionate increase in blood pressure (BP) due to an increase in dietary sodium consumption to maintain homeostasis through urinary sodium excretion. Impaired renal circulation, blunt suppression of renin-angiotensin-aldosterone system, sympathetic nervous system overactivity, paradoxically reduced levels of atrial natriuretic peptide and hyperinsulinemia represent the main pat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years\n2. CKD defined based on the KDIGO criteria\n3. Provision of informed written consent\n\nExclusion Criteria:\n\n1. Kidney transplantation or end-stage kidney disease (ESKD) under hemodialysis or peritoneal dialysis\n2. Chronic atrial fibrillation or other diagnosed arr",
+      "endpoints": [
+        "Effect of urinary uromodulin levels on the relationship between 24-hour urinary sodium excretion and 24-hour ambulatory systolic blood pressure.",
+        "Effect of urinary uromodulin levels on the relationship between 24-hour urinary sodium excretion and 24-hour ambulatory diastolic blood pressure."
+      ],
+      "sponsor": "Aristotle University Of Thessaloniki",
+      "url": "https://clinicaltrials.gov/study/NCT06363097"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000648",
+      "title": "A Pilot Study Evaluating Penicillin G and Ceftriaxone as Therapies for Presumed Neurosyphilis in HIV Seropositive Individuals",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1996-02",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "To provide information on the response of HIV infected, neurosyphilis patients to the currently recommended treatment for neurosyphilis; to determine whether possible co-infection with both HIV and syphilis makes more difficult the diagnosis of syphilis; to explore the usefulness of an alternative treatment which, if effective, would permit outpatient treatment for neurosyphilis that until now required prolonged hospitalization.\n\nStudies suggest that syphilis treatment failures may be more commo",
+      "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Antiretroviral drugs.\n* Concurrent treatment for opportunistic infections with non-antisyphilitic drugs.\n* Metronidazole, aminoglycosides, trimethoprim / sulfamethoxazole (TMP / SMX), polymyxin, vancomycin, dapsone, pentamidine, acyclovir, anti",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00000648"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01187108",
+      "title": "Randomized Controlled Trial of N-acetylcysteine and Acetazolamide in Treatment of Chronic Mountain Sickness",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2013-06",
+      "completion_date": "2013-09",
+      "country": "Peru",
+      "enrollment": 85,
+      "brief_summary": "Chronic mountain sickness is characterized by excessive red blood cell production which causes sludging of the vascular system. This high viscosity blood causes heart failure, cognitive dysfunction, and strokes. The investigators hypothesize that cobalt which has been previously been shown to be an environmental pollutant worsens the overproduction of red blood cells. The investigators plan to conduct a 6 week trial in which acetazolamide (already shown to improve chronic mountain sickness) and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males over 17 years of age\n* Hematocrit \\> 70%\n* Chronic Mountain Sickness score (CMS) \\> 6\n* Able to give informed consent and follow instructions in written Spanish\n\nExclusion Criteria:\n\n* CMS \\> 15\n* Underlying lung disease, smoking, or oxygen therapy\n* Asthma (bronchospasm",
+      "endpoints": [
+        "Change from baseline in Hematocrit, or fraction of plasma occupied by cellular elements at week 8"
+      ],
+      "sponsor": "University of Colorado, Denver",
+      "url": "https://clinicaltrials.gov/study/NCT01187108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06669949",
+      "title": "Natural History and Phenotypic Spectrum of Sphingosine Phosphate Lyase Insufficiency Syndrome (SPLIS)",
+      "phase": "N/A",
+      "status": "RECRUITING",
+      "start_date": "2025-04-22",
+      "completion_date": "2030-12-31",
+      "country": "United States",
+      "enrollment": 28,
+      "brief_summary": "This is a prospective longitudinal natural history study with a retrospective cross-sectional arm aimed at determining the natural history of sphingosine phosphate lyase insufficiency syndrome (SPLIS), a recently recognized inborn error of metabolism. The central hypothesis is that age of onset, other disease features, and disease biomarkers will be predictive of quality of life (QOL) and survival in SPLIS patients.",
+      "eligibility_criteria": "All identified patients with SPLIS diagnosed by genetic criteria are eligible for enrollment in this study, regardless of baseline demographic, biochemical or metabolic features and regardless of interventions such as vitamin B6 supplementation, dialysis or kidney transplantation at time of enrollme",
+      "endpoints": [
+        "Survival",
+        "Height",
+        "Weight"
+      ],
+      "sponsor": "University of California, San Francisco",
+      "url": "https://clinicaltrials.gov/study/NCT06669949"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03667547",
+      "title": "An Open-label Single Oral Dose Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of MK-0518 1200 mg (600 mg Tablet × 2) in Healthy Japanese Male Participants",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2018-09-27",
+      "completion_date": "2018-10-23",
+      "country": "Japan",
+      "enrollment": 12,
+      "brief_summary": "This study is designed to evaluate safety, tolerability, and pharmacokinetics of a single 1200-mg dose of raltegravir (MK-0518, ISENTRESS®) in healthy Japanese male participants.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Japanese male in good health\n* Body mass index (BMI) between 18.5 and 32.0 kg/m\\^2\n* Nonsmoker and has not used nicotine-containing products for over 3 months at the time of screening test.\n\nExclusion Criteria:\n\n* History of clinically significant endocrine, gastrointestinal, ",
+      "endpoints": [
+        "Number of Participants With an Adverse Event (AE)",
+        "Number of Participants Discontinued From the Study Due to an AE",
+        "Number of Participants With a Serious Adverse Event (SAE)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03667547"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01568892",
+      "title": "A Phase III Randomized, Double-blind Study to Demonstrate the Antiviral Activity of Dolutegravir (DTG) 50 mg Twice Daily Versus Placebo Both Co-Administered With a Failing Antiretroviral Regimen Over Seven Days, Followed by an Open Label Phase With All Subjects Receiving DTG 50 mg Twice Daily Co-administered With an Optimised Background Regimen (OBR) in HIV-1 Infected, Integrase Inhibitor Therapy-Experienced and Resistant, Adults",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-04-18",
+      "completion_date": "2013-12-16",
+      "country": "United States",
+      "enrollment": 30,
+      "brief_summary": "Study ING116529 is a multicenter, randomized, study with an initial 7 day placebo- controlled, functional monotherapy phase to quantify the antiviral activity attributable to dolutegravir (DTG) in HIV-1 infected, ART-experienced adults who are experiencing virological failure on an Integrase inhibitor containing regimen (current RAL or ELV failures), with evidence of genotypic resistance to RAL or ELV at study entry. Thirty subjects will be randomized (1:1) to receive either DTG 50mg BID (Arm A)",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Screening plasma HIV-1 RNA ≥1000 copies/mL\n* ART-experienced, INI-experienced, DTG naïve\n* Current virological failure on raltegravir (RAL) or elvitegravir (ELV) regimen\n* The subject's HIV-1 shows genotypic resistance to RAL or ELV at Screening\n* Subject has been on stable AR",
+      "endpoints": [
+        "Mean Change From Baseline in Plasma Human Immunodeficiency Virus Type 1 (HIV-1) Ribonucleic Acid (RNA) at Day 8"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT01568892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04563845",
+      "title": "A Study to Evaluate the Effect of Therapeutic and Supratherapeutic Oral Doses of GSK3640254 on Cardiac Conduction as Assessed by 12-Lead Electrocardiogram Compared to Placebo and a Single Oral Dose of Moxifloxacin in Healthy Adult Participants",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-11-09",
+      "completion_date": "2021-10-30",
+      "country": "United States",
+      "enrollment": 50,
+      "brief_summary": "This study will aim to evaluate the effect of therapeutic and supratherapeutic oral doses of GSK3640254 on cardiac conduction compared to placebo and a single oral dose of Moxifloxacin in healthy adult participants. The study has 2 parts: Part 1 will determine the supratherapeutic dose for Part 2, which will be the main corrected QT interval (QTc) study. Part 1 will evaluate once daily (QD) dosing of GSK3640254 or placebo and Part 2 will investigate the safety, tolerability and Pharmacokinetics ",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participant must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examination (inc",
+      "endpoints": [
+        "Part 1: Area Under the Plasma Concentration-time Curve From Time Zero to Time t (AUC[0-t]) of GSK3640254",
+        "Part 1: AUC From Time Zero to the End of the Dosing Interval at Steady State (AUC[0-tau]) of GSK3640254",
+        "Part 1: Maximum Observed Concentration (Cmax) of GSK3640254"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04563845"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01047995",
+      "title": "Plasma and Intracellular Pharmacokinetics of Once Daily Darunavir/Ritonavir and Twice and Once Daily Raltegravir in HIV-infected Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-06",
+      "completion_date": "2009-12",
+      "country": "United Kingdom",
+      "enrollment": 26,
+      "brief_summary": "The study aims to help us understand if the HIV drugs darunavir (taken with ritonavir) and raltegravir will affect each other when they are given at the same time.\n\nThe purpose of the study is to assess the pharmacokinetics (how a drug is absorbed, distributed and eliminated from your body) of darunavir and ritonavir when these are taken with and without raltegravir.\n\nThe duration of the study will be up to 50 days plus a screening visit which will take place up to 4 weeks prior to the start of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects must meet all of the following inclusion criteria within 28 days prior to the baseline visit:\n\n1. The ability to understand and sign a written informed consent form, prior to participation in any screening procedure and must be willing to comply with all study requireme",
+      "endpoints": [
+        "Steady state plasma and intracellular concentrations of darunavir/ritonavir once daily with and without raltegravir and raltegravir twice and once daily"
+      ],
+      "sponsor": "St Stephens Aids Trust",
+      "url": "https://clinicaltrials.gov/study/NCT01047995"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01288755",
+      "title": "A Phase I, Open-label, Randomized, Crossover Trial in Healthy Subjects to Investigate the Pharmacokinetic Interaction Between TMC278 25 mg q.d. and Raltegravir 400 mg b.i.d.",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2011-02",
+      "completion_date": "2011-05",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to investigate the effect of steady-state concentrations of raltegravir (administered as 400 mg, twice daily) on the steady-state pharmacokinetics of TMC278 (25 mg, once daily), and vice versa. Steady state is a term that means that the drug has been given long enough so that the plasma levels will remain at about the same level with each subsequent dose. TMC278 is being investigated for the treatment of human immunodeficiency virus (HIV) infection. Raltegravir is a ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy, based on physical examination, medical history, vital signs, ECG, blood biochemistry, hematology and urinalysis\n* Body Mass Index of 18 to 30.0 kg/m2\n* Non-smoking for at least 3 months prior to screening\n* Women must be postmenopausal for at least 2 years, or be surg",
+      "endpoints": [
+        "Change in exposure to TMC278 following co-administration with raltegravir and vice versa"
+      ],
+      "sponsor": "Tibotec Pharmaceuticals, Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT01288755"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06560489",
+      "title": "Clinical Trial of Safety, Pharmacodynamics and Pharmacokinetic Characteristics of Multiple Subcutaneous Injections of LP-98 in Primary Treatment of HIV-infected Patients",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2024-09-02",
+      "completion_date": "2025-08-22",
+      "country": "China",
+      "enrollment": 40,
+      "brief_summary": "A Randomized, Double-Blind, Parallel-Group, Exploratory Clinical Study to Evaluate the Safety, Pharmacodynamic Effects, and Pharmacokinetic Characteristics of Multiple Subcutaneous Injections of LP-98 in Treatment-Naive HIV-Infected Individuals",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Voluntarily participate in the study and obtain informed consent prior to any study-related evaluation;\n2. Aged 18-65 years at the time of the screening visit (including the cut-off), male or female;\n3. At the time of screening visit, the weight of male subjects is not less t",
+      "endpoints": [
+        "Changes from baseline in respiration rate of Vital Signs.",
+        "Changes from baseline in blood pressure of Vital Signs.",
+        "Changes from baseline in Blood lactate of Laboratory Examination."
+      ],
+      "sponsor": "Shanxi Kangbao Biological Product Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT06560489"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02025868",
+      "title": "Systematic \"Adherence Intervention\" Phase Before Switching to 3rd-line ART in Patients With 2nd-line ART Virologic Failure in Sub-Saharan Africa : a Phase 2b Non-randomized Study.",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2013-03",
+      "completion_date": "2017-05",
+      "country": "Burkina Faso, Senegal, Mali, Côte d’Ivoire",
+      "enrollment": 201,
+      "brief_summary": "Thilao is a multi-country, phase 2b, non-randomized study, in Burkina Faso, Cote d'Ivoire, Mali and Senegal, West Africa.\n\nHIV-1 adults with 2nd-line ART virologic failure (plasma HIV-1 RNA \\>1000 copies/ml) will be recruited and followed in two phases:\n\n* First, a 12-week intentive adherence reinforcement phase, during which patients will continue 2nd-line ART, be seen repeatidly for counseling and educational training on adherence, and be offered the possibility of phone, SMS and home visit co",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>18 years\n* Documented HIV-1 infection\n* History of failing a NNRTI-based 1st-line ART\n* Current PI-based 2nd-line ART \\>6 months\n* Plasma HIV-1 RNA \\>1000 copies/ml\n* Signed informed consent\n\nExclusion Criteria:\n\n* HIV-2 infection\n* Any Severe clinical event under explor",
+      "endpoints": [
+        "Virologic efficacy of the adherence reinforcement intervention",
+        "Persistent virologic efficacy of the adherence reinforcement intervention",
+        "Virologic efficacy of 3rd-line ART"
+      ],
+      "sponsor": "ANRS, Emerging Infectious Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT02025868"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04630002",
+      "title": "Open-Label, Single-Sequence Study to Evaluate the Effects of Darunavir/Ritonavir and/or Etravirine on the Pharmacokinetics of GSK3640254 and the Effects of GSK3640254 on the Pharmacokinetics of Darunavir/Ritonavir and/or Etravirine in Heathy Adults",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-10-28",
+      "completion_date": "2021-10-02",
+      "country": "United States",
+      "enrollment": 54,
+      "brief_summary": "This is an open-label, single-sequence, multiple-dose, 3 cohort study to investigate the effects of DRV/RTV and/or ETR on the pharmacokinetics (PK) of GSK3640254 and the effects of GSK3640254 on the PK of DRV/RTV and/or ETR. This study will aid in understanding these interactions and resulting changes in exposure (if any) when given in combination with GSK3640254.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Participant must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are overtly healthy as determined by investigator or medically qualified designee based on a medical evaluation including medical history, physical examination,",
+      "endpoints": [
+        "Cohort 1: Area Under the Plasma Concentration-time Curve From Time Zero to the End of the Dosing Interval at Steady State (AUC[0-tau]) of GSK3640254",
+        "Cohort 1: Maximum Observed Concentration (Cmax) of GSK3640254",
+        "Cohort 1: AUC(0-tau) of DRV"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04630002"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04425902",
+      "title": "Effects of GSK3640254 on the Single-Dose Pharmacokinetics of Probe Substrates (Caffeine, Metoprolol, Montelukast, Flurbiprofen, Omeprazole, Midazolam, Digoxin, and Pravastatin) in Healthy Subjects",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2020-12-16",
+      "completion_date": "2021-03-10",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "This is an open-label, single sequence study that is being conducted to investigate the potential drug-drug interaction (DDI) when GSK3640254 is co-administered with a cocktail of cytochrome P450 (CYP) enzymes and transporter probe substrates in healthy participants. This study will aid in understanding these interactions and resulting changes in exposure (if any) when drugs that are metabolized via these pathways are given in combination with GSK3640254. The study will consist of a Screening pe",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be 18 to 50 years of age inclusive, at the time of signing the informed consent.\n* Participants who are overtly healthy as determined by the investigator or medically qualified designee based on a medical evaluation including medical history, physical examinat",
+      "endpoints": [
+        "Area Under the Plasma Concentration-time Curve (AUC) From Time Zero to Time t (AUC[0-t]) for Caffeine",
+        "AUC From Time Zero Extrapolated to Infinity (AUC[0-infinity]) for Caffeine",
+        "Maximum Observed Plasma Concentration (Cmax) for Caffeine"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT04425902"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05014594",
+      "title": "Sodium-glucose Linked Transporter 2 (SGLT-2) Inhibitors in Recurrent Ascites: a Pilot RCT",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2021-09-03",
+      "completion_date": "2022-05-19",
+      "country": "India",
+      "enrollment": 44,
+      "brief_summary": "The development of ascites is a landmark event in the natural history of cirrhosis and signifies a grim prognosis. Portal hypertension and splanchnic arterial vasodilatation are the major contributors in the development of ascites. Vasodilatation with the consequential decrease in effective circulating volume leads to the activation of sympathetic nervous system and renin angiotensin aldosterone system (RAAS), leading to antinatriuretic effects and retention of sodium and water. This results in ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-70 years\n2. Cirrhosis as determined by clinical findings, hemogram and liver function tests, endoscopic findings and imaging\n3. Recurrent ascites: Recurrent ascites will be defined as tense ascites recurring at least thrice within the last 1-year despite optimal standa",
+      "endpoints": [
+        "control of ascites at 6-months"
+      ],
+      "sponsor": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+      "url": "https://clinicaltrials.gov/study/NCT05014594"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01384851",
+      "title": "Therapeutic Efficacy of the Chronic Application of Tear Formulations for Dry Eye and Normal Subjects Under Conditions of Environmental Stress",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2011-07",
+      "completion_date": "2011-11",
+      "country": "United Kingdom",
+      "enrollment": 38,
+      "brief_summary": "The purpose of this study is to determine the therapeutic effect of the chronic application of eye-drops on tear evaporation rate in dry eye and normal subjects exposed to a condition of environmental stress. The effect will be studied in terms of changes in tear physiology and the inflammatory biomarkers on the ocular surface.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Be between the ages of 18 and 79 years of age.\n* Must understand and be able, willing and likely to fully comply with study procedures and restrictions.\n\nExclusion Criteria:\n\n* Active ocular allergy\n* Current contact lens wear\n* Any topical ophthalmic drops within 1 week of in",
+      "endpoints": [
+        "Tear Film Evaporation"
+      ],
+      "sponsor": "Glasgow Caledonian University",
+      "url": "https://clinicaltrials.gov/study/NCT01384851"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02880371",
+      "title": "A Phase 1b/2 Study of ARRY-382 in Combination With Pembrolizumab, a Programmed Cell Death Receptor 1 (PD-1) Antibody, for the Treatment of Patients With Advanced Solid Tumors",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2016-09-01",
+      "completion_date": "2019-10-24",
+      "country": "United States",
+      "enrollment": 82,
+      "brief_summary": "This is an open-label, multicenter Phase 1b/2 study to determine the maximum tolerated dose (MTD) and/or recommended Phase 2 dose (RP2D) of ARRY-382 in combination with pembrolizumab in adult patients with selected advanced solid tumors (Part A/Phase 1b); and to estimate the efficacy of the combination in three separate cohorts: 1) patients with advanced solid tumors that have progressed on prior PD-1/PD-L1inhibitors, 2) patients with platinum-resistant ovarian cancer and 3) patients with pancre",
+      "eligibility_criteria": "Key Inclusion Criteria\n\nAll Study Parts:\n\n* Diagnosis of cancer that has been histologically or cytologically confirmed\n* Eastern Cooperative Oncology Group Performance Status of 0 or 1\n\nPart A (1 of the following):\n\n* Ovarian cancer, triple-negative breast cancer, head and neck squamous cell cancer",
+      "endpoints": [
+        "Phase 1b, Part A: Number of Participants With Dose-Limiting Toxicities (DLT)",
+        "Phase 2 Cohorts: Objective Response Rate (ORR)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT02880371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00970931",
+      "title": "Prevention of Hypertension in Patients With Pre-hypertension: PREVER-prevention Study",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-07",
+      "completion_date": "2014-09",
+      "country": "Brazil",
+      "enrollment": 730,
+      "brief_summary": "The incidence of hypertension in individuals with pre-hypertension was 80% in ten years in a study conducted in Southern Brazil. The effectiveness of non-drug interventions to prevent hypertension is low in the long term. It may be hypothesized that a population-based drug intervention could reduce relevantly the burden of hypertension and cardiovascular disease.\n\nDiuretics are at least as efficacious as other blood pressure-lowering drugs, are well tolerated, have longer duration of action and ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* individuals with 30 to 70 years of age with pre-hypertension\n\nExclusion Criteria:\n\n* low life expectancy\n* other indications for the use of diuretics, such as cardiovascular disease\n* intolerance to the study drugs\n* pregnancy",
+      "endpoints": [
+        "Incidence of hypertension, by blood pressure ≥ 140/90 mmHg in individuals without diabetes or ≥ 135/85 mmHg in participants with diabetes.",
+        "Adverse events.",
+        "Development or worsening of microalbuminuria and of left ventricular hypertrophy in the EKG"
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT00970931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00751153",
+      "title": "Open Label Phase 4, 48 Week Pilot Study of the Antiviral Efficacy and Tolerability of the Combination of Isentress™ and ReyatazTM When Substituted for Current Antiviral Regimen in Patients With Viral Suppression But Who Are Experiencing Adverse Events Related to Their Current Antiviral Regimen.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2008-03",
+      "completion_date": "2009-12",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "Subjects with HIV who have viral suppression on current regimen but also have side effects/intolerance will change their current regimen to a combination of Raltegravir and Atazanavir and be monitored for viral and immunological response and quality of life.",
+      "eligibility_criteria": "Inclusion Criteria\n\n* History of no PI resistance or antiretroviral failure while receiving a PI.\n* On a current antiviral regimen with plasma HIV viral load (VL) \\< 400 copies/ml for 4 months or longer.\n* Intolerance to or toxicity with current or alternative regimen(s) with side effects including ",
+      "endpoints": [
+        "Evaluation of the proportion of patients who maintain plasma HIV viral load measurements < 400 copies/ml at week 4, 8, 12, 16, 24, 36 and 48 weeks after switching to Raltegravir and Atazanavir"
+      ],
+      "sponsor": "Peter J. Ruane, M.D., Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT00751153"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01105611",
+      "title": "An Open-label, Randomised Pilot Study Comparing the Efficacy, Safety and Tolerability of Raltegravir With Protease Inhibitor-based Therapy in Treatment-naïve, HIV/Hepatitis C Co-infected Injecting Drug Users Receiving Methadone",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2010-08",
+      "completion_date": "2012-12",
+      "country": "Ireland",
+      "enrollment": 40,
+      "brief_summary": "The purpose of this study is to compare how safe, tolerable, and effective a novel drug, raltegravir, is to a commonly used combination, atazanavir/ritonavir, as initial treatment in HIV/Hepatitis C co-infected injecting drug users on a methadone program.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female Patients Age ≥ 18 years old.\n* Naïve to antiretroviral treatment.\n* Subject must be willing and able to understand and provide written, informed consent prior to participation in the study.\n* Subjects must be on concurrent methadone maintenance therapy.\n* Docume",
+      "endpoints": [
+        "Incidence of grade 3-4 liver function test (LFT) elevations",
+        "Incidence of grade 3-4 liver function test (LFT) elevations",
+        "Incidence of grade 3-4 liver function test (LFT) elevations"
+      ],
+      "sponsor": "St. James's Hospital, Ireland",
+      "url": "https://clinicaltrials.gov/study/NCT01105611"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04156321",
+      "title": "Moringa Oleifera (Drumstick Leaves) for Improving Haemoglobin, Vitamin A Status and Underweight Among Adolescent Girls in Rural Bangladesh: A Quasi-experimental Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-09-01",
+      "completion_date": "2020-09-30",
+      "country": "Bangladesh",
+      "enrollment": 226,
+      "brief_summary": "Background (brief):\n\n1. Burden:\n\n   Bangladesh has a population of 29.5 million adolescents, which represents nearly one-fifth of the country's total population. Adequate nutrition during this critical age period is key, and is associated with improved health and development of the future adult population, as well as that of their future off-spring bringing potential inter-generational benefits. Yet, adolescents are known to face multiple nutritional challenges related to persistent undernutriti",
+      "eligibility_criteria": "Inclusion Criteria:\n\n-Unmarried adolescent girls aged 12-14 years will be enrolled from the selected high schools in our study,\n\nExclusion Criteria:\n\n* Participants will be excluded if they are taking other nutritional supplements (vitamins and minerals) as this might affect the level of hemoglobin ",
+      "endpoints": [
+        "Changes in 2 biochemical markers (serum haemoglobin and retinol level)"
+      ],
+      "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+      "url": "https://clinicaltrials.gov/study/NCT04156321"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00525733",
+      "title": "A Phase II, Randomized Trial of Open-Label Truvada With Darunavir/Ritonavir Versus Multiclass Therapy With Truvada, Darunavir/Ritonavir, Maraviroc and Raltegravir in Acutely HIV-1 Infected Antiretroviral-Naïve Subjects",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2007-10",
+      "completion_date": "2013-12",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "The researchers are involved in a phase II, randomized, two-arm study, comparing the efficacy, safety, and tolerability of open-label ritonavir (RTV)-enhanced darunavir with Truvada to a 5-drug multi-class regimen including truvada, darunavir/ritonavir/maraviroc/and raltegravir on acutely HIV-1-infected, antiretroviral (ARV) drug-naïve men and women. Subjects will participate for at least 60 weeks and up to 96 weeks if in the opinion of the investigator and patient that continued therapy is in t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Acute HIV-1 infection defined as:\n\n  * Negative ELISA/Western Blot or indeterminate Western Blot in the presence of HIV-1 RNA \\> 5,000 copies/ml.\n  * Positive HIV-1 serology with a detuned ELISA O.D. value below 0.5.\n  * A documented negative serology within 180 days of screen",
+      "endpoints": [
+        "The Primary Outcome of This Study is the Proportion of Patients Having Detectable HIV-1 RNA Using the Single Copy Assay After 48 Weeks of Treatment and the Study Hypothesis is That New Treatment is Better Than the Control Group."
+      ],
+      "sponsor": "Rockefeller University",
+      "url": "https://clinicaltrials.gov/study/NCT00525733"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00197145",
+      "title": "A Phase III, Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel Group Study to Compare the Efficacy and Safety of GW873140 400mg BID in Combination With a Ritonavir-containing Optimized Background Therapy (OBT) Regimen Versus Placebo Plus OBT Over 48 Weeks.",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2005-07-21",
+      "completion_date": "2007-09-11",
+      "country": "Puerto Rico, Canada, United States",
+      "enrollment": 24,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of the CCR5 antagonist GW873140 or placebo in combination with an optimized background regimen in treatment-experienced HIV-infected subjects with R5-tropic virus",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-infected.\n* Screening viral load at least 5000copies/mL.\n* R5-tropic only virus at screening.\n* Total prior antiretroviral experience of at least 3 months and documented resistance to at least one drug in each of the following classes: nucleoside reverse transcriptase inhi",
+      "endpoints": [
+        "Number of Participants With Plasma HIV-1 RNA <400 Copies Per Milliliter (Copies /mL) at Week 24 and 48",
+        "Average Area Under the Curve Minus Baseline (AAUCMB) of Plasma HIV-1 RNA Through the Entire Study Period",
+        "Number of Participants With >= 1.0 log10 Copies/mL Decrease in Plasma HIV-1 RNA From Baseline Over Time"
+      ],
+      "sponsor": "ViiV Healthcare",
+      "url": "https://clinicaltrials.gov/study/NCT00197145"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02395081",
+      "title": "Trial of Vitamin D Supplements to Raise Calcidiol Levels of Pregnant Women in Mongolia",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2015-02",
+      "completion_date": "2016-12",
+      "country": "Mongolia",
+      "enrollment": 360,
+      "brief_summary": "A double-blind randomized, placebo-controlled trial comparing the impact of 600 IU, 2000 IU, or 4000 IU of Vitamin D3 on third trimester 25(OH)D levels and change from baseline. The Vitamin D will be integrated in a standard prenatal vitamin, which will be taken from 12-16 weeks' gestation and continue throughout pregnancy. Umbilical cord 25(OH)D levels will also be determined. The investigators will generate preliminary data regarding Vitamin D intake and hypertensive disorders, blood pressure,",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 or older\n* 12-16 weeks pregnant\n* Receiving prenatal care at Zuun Kharaa Hospital and planning to deliver at Zuun Kharaa Hospital\n* Willing not to take any additional vitamin D supplements, other than the study dispensed pills\n\nExclusion Criteria:\n\n* Existing known seiz",
+      "endpoints": [
+        "Total Serum 25(OH)D Concentration"
+      ],
+      "sponsor": "Brigham and Women's Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02395081"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02709031",
+      "title": "Cicletanine in Hypertension With Diabetes: Added Magnesium Preserves Potassium and Sodium",
+      "phase": "PHASE1, PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2022-06",
+      "completion_date": "2024-09",
+      "country": "N/A",
+      "enrollment": 24,
+      "brief_summary": "Cicletanine, which has been approved and launched for hypertension in France and Germany, has promise beyond hypertension in critically-unmet needs such as diabetes. It is evident from in vitro, animal and human studies that cicletanine's optimal dose in diabetes and other challenging, critically-unmet needs is likely to be higher than that for hypertension. Cicletanine's maximum tolerated dosage is not known, but the drug's dose-limiting effects are documented to be potassium loss and sodium lo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Sitting SBP (systolic blood pressure) \\> 150 mmHg (millimeters of mercury) after five minutes' rest.\n2. Type II diabetes, with HbA1c between 8.5 and 11.5%. If a patient at screening presents outside of this range, the investigator may elect to re-screen a patient once to dete",
+      "endpoints": [
+        "Time to potassium rescue"
+      ],
+      "sponsor": "Navitas Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT02709031"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01048671",
+      "title": "Collection of Data on the Management of HIV-1 Patients Treated With Antiretroviral Combination Therapy Including the HIV Integrase Inhibitor Raltegravir",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2012-12",
+      "country": "N/A",
+      "enrollment": 482,
+      "brief_summary": "To evaluate the management of HIV-1 participants treated with antiretroviral combination therapy including the integrase inhibitor raltegravir, all across the country of France.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant Infected With HIV-1.\n* Participant for whom raltegravir therapy has been decided and started less than 30 days prior to inclusion in the study.\n* Participant who has received oral and written information about the study and who has agreed to the computer processing",
+      "endpoints": [
+        "Percentage of Participants Receiving Antiretroviral Treatments Administered With Raltegravir",
+        "Percentage of Participants Responding to Treatment: All Treated Participants",
+        "Percentage of Participants Responding to Treatment: Participants Still Receiving Raltegravir Treatment at Month 24"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01048671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05478018",
+      "title": "Type 1 Interferon Induced Changes to Exercise Adaptations in Systemic Lupus",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-04-01",
+      "completion_date": "2025-01-01",
+      "country": "Denmark",
+      "enrollment": 55,
+      "brief_summary": "Investigating the physiological effects of the interferons type 1 and 2 (IFNs), and the cytokines Interleukin 6 (IL-6) and tumor necrosis factor (TNF) on the adaptive changes to exercise in patients with systemic lupus erythematosus (SLE).\n\nThe investigators hypothesize that the pathogenic blockage of IL-6 signalling that occurs in SLE, will decrease the cardiac and metabolic adaptations to aerobic exercise, and this decrease can be related to the IFN signature.\n\n55 patients was included in a 12",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years by inclusion.\n* Able to provide informed consent.\n* Diagnosed SLE and fulfilling the classification criteria for SLE based on the American College of Rheumatology/EULAR criteria (SLICC)\n\nExclusion Criteria:\n\n* Health conditions that prevent participating in the ",
+      "endpoints": [
+        "Changes in maximal aerobic capacity (VO2max)",
+        "Patient reported Fatigue"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT05478018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05258513",
+      "title": "The Effects of Oral Supplementation With Geranylgeraniol (GG) Sourced From Annatto on Sexual Health in Males and Females",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2022-02-06",
+      "completion_date": "2022-12-09",
+      "country": "United States",
+      "enrollment": 83,
+      "brief_summary": "The purpose of this study will be to examine the effectiveness of Geranylgeraniol supplementation on sexual health function in males and females following an 8-week dose escalation intervention. The study will be carried out in a randomized, double-blind, placebo-controlled, parallel manner. Participants will be stratified into quartiles based on their scores on the Derogatis Interview for Sexual Functioning during screening and prior to baseline testing. Participants from each quartile will be ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and Females age 30-49 years old\n* Males scoring 27-36 on the Aging Males Symptoms scale\n* Willing to sign the Informed Consent\n* English literate\n\nExclusion Criteria:\n\n* Cardiovascular, neurological, metabolic, or endocrine disease\n* Drink heavily (\\>7 and \\>14 drinks pe",
+      "endpoints": [
+        "Changes in Overall Sexual Function",
+        "Changes in Aging Male Symptoms",
+        "Changes in Androgen Deficiency in Aging Males Scale"
+      ],
+      "sponsor": "Applied Science & Performance Institute",
+      "url": "https://clinicaltrials.gov/study/NCT05258513"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02116660",
+      "title": "Switching From Regimens Consisting of a RTV-Boosted Protease Inhibitor Plus TDF/FTC to a Combination of Raltegravir Plus Nevirapine and Lamivudine in HIV Patients With Suppressed Viremia and Impaired Renal Function (RANIA Study) (Pilot Study) Protocol MK-0518-284-03",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2014-09-03",
+      "completion_date": "2017-07-10",
+      "country": "N/A",
+      "enrollment": 11,
+      "brief_summary": "To evaluate changes in renal function, efficacy, and safety when switching from a combination of tenofovir/emtricitabine (TDF/FTC) plus a protease inhibitor/ritonavir (PI/r) to a combination of raltegravir (MK-0518) plus nevirapine plus lamivudine in human immunodeficiency virus (HIV)-1 infected participants with suppressed viremia and impaired renal function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male, or non-pregnant, non-breastfeeding female\n* No previous history of virological failure\n* No previous exposure to non-nucleoside reverse transcriptase inhibitors or integrase inhibitors\n* No previous history of intolerance to lamivudine\n* At least 2 documented plasma HIV-",
+      "endpoints": [
+        "Change From Baseline in Estimated Glomerular Filtration Rate (eGFR)"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02116660"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00988039",
+      "title": "A Randomised Controlled Trial to Evaluate Options for Second-line Therapy in Patients Failing a First-line 2NRTI + NNRTI Regimen in Africa",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2010-03",
+      "completion_date": "2014-01",
+      "country": "Zimbabwe, Zambia, Uganda, Malawi, Kenya",
+      "enrollment": 1277,
+      "brief_summary": "The trial aim is to ascertain what, if anything, needs to be combined with a boosted protease inhibitor (bPI) backbone in second-line therapy in order to maximize the chance of a good clinical outcome following WHO-defined failure on a first-line nucleoside reverse transcriptase inhibitor (NRTI) and NNRTI-containing regimen with probable extensive NRTI and NNRTI resistance mutations.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Previously documented HIV infection on at least one standard antibody-based test\n* Age 12 years and above\n* Taking 2NRTI + NNRTI-based regimen continuously for at least 12 months\n* Naive to protease inhibitor therapy\n* Good adherence to ART in the 12 weeks prior to screening d",
+      "endpoints": [
+        "Good HIV disease control defined as a composite endpoint consisting of all of: - No new WHO stage 4 events - CD4 count >250 cells/mm3 - viral load <10,000 copies/ml or >10,000 copies/ml with no PI resistance mutations"
+      ],
+      "sponsor": "Medical Research Council",
+      "url": "https://clinicaltrials.gov/study/NCT00988039"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01515748",
+      "title": "A Phase III, Open-labelled, Randomised Study of Neoadjuvant Docetaxel+Oxaliplatin+S-1 (DOS) + Surgery + Adjuvant S-1 Versus Surgery + Adjuvant S-1 in Patients With Resectable Advanced Gastric Cancer",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-12-30",
+      "completion_date": "2021-12-13",
+      "country": "South Korea",
+      "enrollment": 530,
+      "brief_summary": "Primary Objective:\n\n\\- To compare the 3-year progression free survival (PFS) in the two treatment arms.\n\nSecondary Objectives:\n\n* Overall survival (OS).\n* Postoperative pathological stage and R0 (complete) resection rate.\n* Safety: Toxicities associated with neoadjuvant chemotherapy, surgery, morbidity/mortality, toxicity of adjuvant chemotherapy.",
+      "eligibility_criteria": "Inclusion criteria :\n\n* Participants with new histologically confirmed, newly diagnosed, localized gastric or gastro-oesophageal adenocarcinoma, that is considered resectable.\n* Participants with clinical stage (T2-3/N(+), T4/N(+/-):N positive means greater than or equal to \\[\\>=\\] 8 in hour axis).\n",
+      "endpoints": [
+        "Percentage of Participants With 3-Year Progression-Free Survival (PFS), as Assessed by Response Evaluation Criteria in Solid Tumors (RECIST)1.1"
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT01515748"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00529243",
+      "title": "Virologic Outcomes of Changing Enfuvirtide to Raltegravir in HIV-1 Patients Well Controlled on an Enfuvirtide Based Regimen",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2007-09",
+      "completion_date": "2009-09",
+      "country": "United States",
+      "enrollment": 52,
+      "brief_summary": "The primary objective of this study is:\n\nTo assess the virologic effect of changing enfuvirtide to MK-0518(raltegravir) in human immunodeficiency virus type 1(HIV-1) infected patients who have an undetectable level of serum human immunodeficiency virus(HIV) (\\< 75 copies/ml by branch deoxyribonucleic acid (bDNA) assay, \\< 50 copies/ml by Ultrasensitive Polymerase Chain Reaction(PCR) assay) on their current HIV medication regimen.\n\nHypothesis:\n\nHIV-1 infected individuals well controlled on an enf",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet all of the following inclusion criteria to be eligible for participation in this study.\n\n  1. Subject is ≥ 18 years of age and able to understand and willing to sign a written informed consent form, which must be obtained prior to initiation of the study.\n  ",
+      "endpoints": [
+        "Number of Patients With Undetectable Human Immunodeficiency Virus (HIV) Viral Load at Week 24."
+      ],
+      "sponsor": "Kaiser Permanente",
+      "url": "https://clinicaltrials.gov/study/NCT00529243"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00677300",
+      "title": "Evaluation of Safety and Efficacy of Raltegravir/Darunavir Combination in Antiretroviral-Naive Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-01",
+      "completion_date": "2012-12",
+      "country": "United States",
+      "enrollment": 85,
+      "brief_summary": "The purpose of this study is to determine whether a combination of raltegravir and darunavir is as effective as standard regimens in the treatment of HIV-infected patients who have not previously used antiretroviral drug (treatment naive)",
+      "eligibility_criteria": "Inclusion Criteria\n\n* The patient has documented HIV-1 infection.\n* The patient is at least 18 years of age.\n* Antiretroviral naive, defined as 7 days or less of ARV treatment at any time prior to study entry. HIV viral load greater than 5,000 copies/ml within 90 days of study entry\n* Willing to use",
+      "endpoints": [
+        "Time from randomization to virologic failure (HIV viral load of 1,000 copies/ml or greater at or after Week 16 and before Week 24, or two consecutive HIV viral load of 50 copies/ml or greater at or after Week 24)"
+      ],
+      "sponsor": "Dallas VA Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00677300"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05173584",
+      "title": "Is Levalbuterol an Effective Treatment With Less Cardiac Side Effects Than Albuterol in Hyperkalemia Patients: A Randomized-controlled Clinical Trial Protocol.",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2021-11-04",
+      "completion_date": "2021-12-31",
+      "country": "Syria",
+      "enrollment": 30,
+      "brief_summary": "Hyperkalemia is a common life-threatening electrolyte disturbance which may impair cardiac and many other organs' functions. Unfortunately, a well-established guideline for the treatment of hyperkalemia in the emergency setting is still missing. However, the last \"Kidney Disease: Improving Global Outcomes (KDIGO)\" conference proposed a treatment protocol for hyperkalemia and addressed controversies in this matter. Beta2-agonists were one of the main lines in the approach towards managing a patie",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients\n* serum potassium level \\>5.9 mEq/L\n\nExclusion Criteria:\n\n* Pseudohyperkalemia:\n\n  * Hemolysis of blood sample\n  * Thrombocytosis \\> 10\\*6 /mm3\n  * Hyperleukocytosis \\> 10\\*5/mm3\n  * Mechanical Trauma during Venipuncture\n  * Fist clenching during blood drawing\n ",
+      "endpoints": [
+        "Heart rate changes",
+        "Serum potassium level changes"
+      ],
+      "sponsor": "University of Aleppo",
+      "url": "https://clinicaltrials.gov/study/NCT05173584"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03075644",
+      "title": "A Multicentre, Randomised, Open-labelled, Parallel-group, Activecontrolled Trial to Evaluate the Safety of Once Weekly Dosing of Somapacitan (NNC0195-0092) and Daily Norditropin® FlexPro® for 52 Weeks in Previously Human Growth Hormone Treated Japanese Adults With Growth Hormone Deficiency",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2017-03-03",
+      "completion_date": "2018-10-04",
+      "country": "Japan",
+      "enrollment": 62,
+      "brief_summary": "This trial is conducted in Asia. The aim of this trial is to evaluate the safety of once weekly dosing of somapacitan (NNC0195-0092) and daily Norditropin® FlexPro® for 52 weeks in previously human growth hormone treated Japanese adults with growth hormone deficiency.",
+      "eligibility_criteria": "Inclusion Criteria: - Male or female of at least 18 years of age and not more than 79 years of age at the time of signing informed consent - GHD diagnosed for at least 6 months (defined as 180 days) prior to screening - Treatment with hGH for at least 6 consecutive months (defined as 180 days) at sc",
+      "endpoints": [
+        "Incidence of Adverse Events, Including Injection Site Reactions"
+      ],
+      "sponsor": "Novo Nordisk A/S",
+      "url": "https://clinicaltrials.gov/study/NCT03075644"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03833089",
+      "title": "Arrhythmia Prevention in High Risk Cardiovascular Patients Using Targeted Potassium Levels",
+      "phase": "PHASE4",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2019-03-01",
+      "completion_date": "2035-04-01",
+      "country": "Denmark",
+      "enrollment": 1200,
+      "brief_summary": "This study evaluates whether a rigorously controlled high-normal level of serum-potassium (4.5-5.0 mEq/L) using dietary recommendations, potassium supplements and mineralocorticoid receptor antagonists will results in a lower incidence of cardiac arrhythmias in patients with an ICD. Patients will be randomized to this treatment or a control arm, where patients will receive usual guideline recommended follow-up.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Implantable cardioverter defibrillator (ICD) or cardiac resynchronization pacemaker with ICD (CRT-D).\n* Age \\>18 years\n\nExclusion Criteria:\n\n* Estimated glomerular filtration rate (eGFR) \\<30 ml/h\n* Pregnancy\n* Lack of ability to understand and sign informed consent",
+      "endpoints": [
+        "Time to first occurrence of ECG documented ventricular tachycardia, appropriate ICD therapy, hospitalization > 24 hours due to arrhythmias and/or heart failure leading to a change in treatment and all cause mortality"
+      ],
+      "sponsor": "Rigshospitalet, Denmark",
+      "url": "https://clinicaltrials.gov/study/NCT03833089"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00814762",
+      "title": "Study to Evaluate the Safety and Reactogenicity of the HIV Vaccine SB732462 in HIV Infected Subjects Aged 18 to 55 Years Old",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2009-02-03",
+      "completion_date": "2010-08-18",
+      "country": "Germany",
+      "enrollment": 41,
+      "brief_summary": "The purpose of this research study is to evaluate the safety of GSK Biologicals' investigational HIV vaccine 732462, administered as two doses approximately 1 month apart, in a small group of HIV infected people.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAll subjects must satisfy the following criteria at screening and before vaccination:\n\n* A male or female, aged between and including 18-55 years at the time of first vaccination.\n* Known to be HIV-1 infected and under care of an HIV physician for a minimum of 6 months. However,",
+      "endpoints": [
+        "Number of subjects with solicited local symptoms",
+        "Number of subjects with solicited general symptoms",
+        "Number of subjects with unsolicited Adverse Events (AEs)"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00814762"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00948389",
+      "title": "Randomized Phase II of Lomustine Versus Lomustine-Dasatinib in Patients With Recurrent Glioblastoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2009-10",
+      "completion_date": "2011-05",
+      "country": "Netherlands, Switzerland, France, Italy",
+      "enrollment": 28,
+      "brief_summary": "To determine whether dasatinib plus lomustine are effective for treatment of recurrent glioblastoma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with histological or cytological proven glioblastoma multiforme\n* Recurrent or progressive disease documented by magnetic resonance imaging (MRI)\n* World Health Organization (WHO) Performance status 0 - 2\n* Patient may have been operated for recurrence\n* For non opera",
+      "endpoints": [
+        "Number of Participants With Adverse Events (AEs), Serious AEs (SAEs), Deaths, and Discontinuations Due to AEs",
+        "Number of Participants With Dose-limiting Toxicities (DLTs)",
+        "Deaths Within 30 Days of Protocol Treatment Discontinuation"
+      ],
+      "sponsor": "Bristol-Myers Squibb",
+      "url": "https://clinicaltrials.gov/study/NCT00948389"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00460382",
+      "title": "Prospective Clinical Trial to Assess Safety and Efficacy of DRV/r(TMC 114/r), ETV(TMC 125) and MK-0518 in Addition to OBT in HIV-1 Infected Patients With Limited to No Treatment Options ANRS 139 TRIO",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-05",
+      "completion_date": "2009-09",
+      "country": "France",
+      "enrollment": 103,
+      "brief_summary": "The purpose of this study is to look at the safety and efficacy of a combination of 3 new antiretroviral drugs: darunavir, etravirine and MK-0518 (raltegravir) in patients who have multi-resistant viruses and limited treatment options. An optimized background regimen that may include nucleoside reverse transcriptase inhibitors (NRTIs) and enfuvirtide can be added, if possible, to this combination. Patients will undergo treatment for 48 weeks and virological efficacy will be evaluated at week 24.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age: 18 years and above\n* Documented HIV-1 infection.\n* History of virological failure on NNRTIs (patients with a history of toxicity to nevirapine and efavirenz may be enrolled in this study).\n* On a combination antiretroviral therapy for at least 8 weeks prior to the screeni",
+      "endpoints": [
+        "Proportion of patients with HIV RNA levels of less than 50 copies/ml in an intent to treat analysis at week 24"
+      ],
+      "sponsor": "French National Agency for Research on AIDS and Viral Hepatitis",
+      "url": "https://clinicaltrials.gov/study/NCT00460382"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06251713",
+      "title": "Feasibility of a Randomised Trial Comparing a Fluid-removal Guided by VeXUS Score With Usual Care in Patients With Acute Kidney Injury After Cardiac Surgery: a Pilot Randomised Trial.",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2024-07-31",
+      "completion_date": "2026-07",
+      "country": "France",
+      "enrollment": 40,
+      "brief_summary": "Acute kidney injury affects more than 30% of patients after cardiac surgery, and is associated with an excess in mortality. There is a clinical continuum between acute kidney injury (transient if \\<48h, persistent if \\>48h), the development of acute kidney and chronic renal failure. Each of these entities characterising renal recovery is associated with an increase in long-term morbidity and mortality. Fluid management in patients with acute kidney injury is challenging, as both hypovolaemia and",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Intensive care unit admission within 72 hours of cardiac surgery with extracorporeal circulation\n* Acute kidney injury defined by KDIGO criteria\n* Vasoactive inotropic score \\<45 and capillary refill time \\<3s\n* Informed written consent\n\nExclusion Criteria:\n\n* Hypokalaemia \\<3",
+      "endpoints": [
+        "Randomized controlled study feasibility"
+      ],
+      "sponsor": "Hospices Civils de Lyon",
+      "url": "https://clinicaltrials.gov/study/NCT06251713"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00729924",
+      "title": "Genetic Predictors of Raltegravir Penetration Into Cerebrospinal Fluid",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-08",
+      "completion_date": "2011-08",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "This study is being done to find out how much of the drug raltegravir (RGV) gets into cerebrospinal fluid (CSF), compared to how much get into the blood and to find out if normal changes in a certain gene in your body affects how much RGV gets into the CSF.",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Able to give informed consent.\n2. Negative HIV-1 serology.\n3. At least 18 but no more than 55 years of age.\n4. Body mass index \\<30.\n5. Estimated creatinine clearance ≥ 50 mL/minute within 30 days prior to study entry.\n6. Within 30 days prior to study entry:\n\n   * Absolute ne",
+      "endpoints": [
+        "Penetration of Raltegravir (RGV) Into Cerebrospinal Fluid (CSF) Based on Plasma Area-under-the-curve."
+      ],
+      "sponsor": "Vanderbilt University",
+      "url": "https://clinicaltrials.gov/study/NCT00729924"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01173510",
+      "title": "A Pilot Study to Determine if Raltegravir Eradicates HIV From Peripheral Blood Mononuclear Cells",
+      "phase": "PHASE4",
+      "status": "WITHDRAWN",
+      "start_date": "2010-08-23",
+      "completion_date": "2012-10-19",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Human Immunodeficiency Virus (HIV) infection is permanently established by integrating a deoxyribonucleic acid (DNA) copy into the human chromosome, a step also necessary to complete the Human Immunodeficiency Virus (HIV)replication cycle. Standard treatment of HIV infection suppresses Human Immunodeficiency Virus (HIV)replication and has not been able to eliminate Human Immunodeficiency Virus (HIV)from an infected person because of the integrated Human Immunodeficiency Virus (HIV). Raltegravir ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects age 18 or older with HIV-1 infection\n* CD4 cell counts greater than 200 cells/mm at screening\n* Plasma HIV RNA \\> 1000 copies/mL\n* Women of childbearing potential must be using an adequate method of contraception to avoid pregnancy throughout the study ",
+      "endpoints": [
+        "Efficacy in eradicated HIV-1 integrated DNA from PBMCs",
+        "Efficacy in eradicating HIV-1 integrated DNA from CD34+ cells"
+      ],
+      "sponsor": "Community Research Initiative of New England",
+      "url": "https://clinicaltrials.gov/study/NCT01173510"
+    }
+  ],
+  "timestamp": "2026-03-04T15:59:26.284892",
+  "success": true,
+  "error_message": null
+}

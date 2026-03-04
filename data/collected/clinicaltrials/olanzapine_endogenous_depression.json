@@ -1,0 +1,49 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Olanzapine",
+    "disease": "endogenous depression"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02088060",
+      "title": "A Four-week, Multicentre, Double-blinded, Randomised, Active- and Placebo- Controlled, Parallel-group Trial Investigating Efficacy and Safety of Cannabidiol in Acute, Early-stage Schizophrenic Patients",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-12-08",
+      "completion_date": "2024-09-16",
+      "country": "Denmark, Germany",
+      "enrollment": 150,
+      "brief_summary": "Schizophrenia is a heterogeneous mental disorder that affects one percent of the world's population. Current antipsychotics are only partially effective, and their use is often associated with serious side effects. Cannabidiol is a natural counterpart of the psychoactive component of marijuana, delta-9-tetrahydrocannabinol. While cannabidiol has no psychotomimetic or addictive properties, it indirectly affects endogenous cannabinoid signalling by impairing the degradation of the endocannabinoid ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent given by the subject\n* DSM-IV-TR diagnosis of schizophrenic psychosis (295.10, 295.20, 295.30, 295.90 (American Psychiatric Association)\n* Patients must be within the first three years of illness, i.e. first diagnosis of schizophrenia is no older than three ye",
+      "endpoints": [
+        "Change in the Positive and Negative Syndrome Scale (PANSS) total score"
+      ],
+      "sponsor": "Central Institute of Mental Health, Mannheim",
+      "url": "https://clinicaltrials.gov/study/NCT02088060"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00290121",
+      "title": "Cerebral Mechanism Involved in Appetite Increase in Schizophrenia Patients Treated With Atypical Antipsychotics (IIT)",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2008-06",
+      "country": "Canada",
+      "enrollment": 25,
+      "brief_summary": "The purpose of this study is to understand, with the use of functional magnetic resonance imaging, the neural correlates involved in appetite control and the mechanism of weight gain in patients with schizophrenia treated with atypical antipsychotics. We hypothesize that a difference in cerebral activations between weight gaining and non-weight gaining patients will be detected after four months of treatment with olanzapine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with schizophrenia (DMS-IV)\n* 18 to 60 years old\n* Right handed\n* Begin a treatment with olanzapine and had not received it for at leat 6 months\n* Other medication accepted (except antipsychotic)\n\nExclusion Criteria:\n\n* concomitant axis-I or axis-II disorders\n* unstab",
+      "endpoints": [
+        "fMRI (functional magnetic resonance imaging with appetizing films)",
+        "Weight"
+      ],
+      "sponsor": "Université de Montréal",
+      "url": "https://clinicaltrials.gov/study/NCT00290121"
+    }
+  ],
+  "timestamp": "2026-03-04T15:06:16.807141",
+  "success": true,
+  "error_message": null
+}

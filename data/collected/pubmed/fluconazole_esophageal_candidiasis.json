@@ -1,0 +1,519 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluconazole",
+    "disease": "esophageal candidiasis",
+    "query_string": "Fluconazole AND esophageal candidiasis"
+  },
+  "data": {
+    "query": "Fluconazole AND esophageal candidiasis",
+    "results": [
+      {
+        "pmid": "1583715",
+        "title": "Fluconazole: a new option in the treatment of Candida mucositis and esophageal candidiasis.",
+        "abstract": "Fluconazole is a new triazole antifungal agent with good activity against Candida and cryptococcal meningitis. It is well-tolerated and effective in immunosuppressed patients with oral-pharyngeal candidiasis. This review outlines the characteristics of fluconazole and discusses its role among the class of antifungal agents.",
+        "journal": "The Journal of otolaryngology",
+        "year": "1992",
+        "authors": [
+          "Garber G E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Candidiasis",
+          "Candidiasis, Oral",
+          "Esophageal Diseases",
+          "Fluconazole",
+          "HIV Infections",
+          "Humans",
+          "Mouth Mucosa"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1583715/"
+      },
+      {
+        "pmid": "12867215",
+        "title": "Voriconazole.",
+        "abstract": "Reports of resistance and intolerance to currently available antifungal agents are increasing. Voriconazole is a broad-spectrum azole antifungal agent structurally derived from fluconazole. It is indicated for the treatment of invasive aspergillosis and serious fungal infections caused by Scedosporium apiospermum and Fusarium species in patients who are unable to tolerate or are refractory to other antifungal therapy.",
+        "journal": "Clinical therapeutics",
+        "year": "2003",
+        "authors": [
+          "Jeu LilyAnn",
+          "Piacenti Frank J",
+          "Lyakhovetskiy Aleksandr G",
+          "Fung Horatio B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Area Under Curve",
+          "Aspergillosis",
+          "Candidiasis",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Fungi",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12867215/"
+      },
+      {
+        "pmid": "19029563",
+        "title": "Caspofungin.",
+        "abstract": "Caspofungin is a new antifungal drug meant for intravenous use. It has been shown to be comparable to other antifungal agents such as amphotericin B and fluconazole for empirical therapy in febrile neutropenic patients, oropharyngeal/esophageal candidiasis and invasive aspergillosis. Its efficacy has also been documented in children in small uncontrolled trials. The biggest assets of caspofungin are its excellent tolerability/safety profile and minimal drug interactions.",
+        "journal": "Indian pediatrics",
+        "year": "2008",
+        "authors": [
+          "Parakh Ankit",
+          "Dubey Anand Prakash",
+          "Samanta Debopam"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anesthesia, Intravenous",
+          "Antifungal Agents",
+          "Aspergillosis",
+          "Candidiasis",
+          "Caspofungin",
+          "Echinocandins",
+          "Humans",
+          "Lipopeptides",
+          "Mycoses"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19029563/"
+      },
+      {
+        "pmid": "11363911",
+        "title": "Candidiasis.",
+        "abstract": "",
+        "journal": "Journal of the International Association of Physicians in AIDS Care",
+        "year": "1996",
+        "authors": [
+          "Powderly W G"
+        ],
+        "pub_types": [
+          "Newspaper Article",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Candidiasis, Oral",
+          "Esophageal Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11363911/"
+      },
+      {
+        "pmid": "33380680",
+        "title": "Fungal profile and antifungal susceptibility pattern of candidiasis in esophageal cancer patients.",
+        "abstract": "This study was carried out to determine the fungal profile and antifungal susceptibility pattern in the brushing samples of candidiasis in patients with carcinoma of esophagus.",
+        "journal": "Journal of cancer research and therapeutics",
+        "year": "2020",
+        "authors": [
+          "Talukdar Abhijit",
+          "Barman Rashmisnata",
+          "Sarma Anupam",
+          "Krishnatreya Manigreeva",
+          "Sharma Jagannath Dev"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis",
+          "Drug Resistance, Fungal",
+          "Esophageal Neoplasms",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "India"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33380680/"
+      },
+      {
+        "pmid": "15456342",
+        "title": "Anidulafungin.",
+        "abstract": "Anidulafungin is a novel antifungal agent which, like other echinocandins, inhibits beta-(1,3)-D-glucan synthase and disrupts fungal cell-wall synthesis. It has marked antifungal activity against a broad spectrum of Candida spp. and Aspergillus spp., including amphotericin B- and triazole-resistant strains. In clinical trials, anidulafungin has primarily been evaluated in patients with oesophageal and invasive candidiasis. Preliminary data are emerging for other indications such as invasive aspergillosis. In a large, multicentre, double-blind, double-dummy, randomised trial in patients with oesophageal candidiasis, intravenous anidulafungin 50 mg/day was as effective as oral fluconazole 100 mg/day regarding end-of-treatment rates of endoscopic cure and clinical and microbiological success. Duration of treatment was approximately 2-3 weeks, and patients in both groups received a loading dose of study drug (twice the daily maintenance dose) on day 1. Anidulafungin is generally well toler",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Murdoch David",
+          "Plosker Greg L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anidulafungin",
+          "Animals",
+          "Antifungal Agents",
+          "Aspergillosis",
+          "Aspergillus",
+          "Candida",
+          "Candidiasis",
+          "Cell Wall",
+          "Clinical Trials as Topic",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15456342/"
+      },
+      {
+        "pmid": "15101786",
+        "title": "Micafungin.",
+        "abstract": "Micafungin, an echinocandin antifungal agent with a novel mechanism of action, inhibits beta-(1,3)-D-glucan synthase interfering with fungal cell wall synthesis. It shows excellent antifungal activity against a broad range of Candida spp., including azole-resistant strains, and Aspergillus spp. in in vitro and animal studies. In HIV-positive patients, intravenous micafungin 50-150 mg/day dose-dependently eradicated endoscopically confirmed oesophageal candidiasis, with micafungin 100 and 150 mg/day being more effective than micafungin 50 mg/day and as effective as fluconazole 200 mg/day in a double-blind trial. In nonblind trials, micafungin (monotherapy or combination therapy) was effective against invasive aspergillosis, candidiasis and candidaemia in paediatric and adult patients with newly diagnosed or refractory infections. Micafungin 50 mg/day provided significantly better antifungal prophylaxis than fluconazole 400 mg/day in 882 haematopoietic stem cell transplant recipients in ",
+        "journal": "Drugs",
+        "year": "2004",
+        "authors": [
+          "Jarvis Blair",
+          "Figgitt David P",
+          "Scott Lesley J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antifungal Agents",
+          "Aspergillosis",
+          "Candidiasis",
+          "Clinical Trials as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Drug Resistance, Fungal",
+          "Echinocandins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15101786/"
+      },
+      {
+        "pmid": "30755955",
+        "title": "Fungal Gastroduodenitis.",
+        "abstract": "Candida infection of the gastrointestinal (GI) tract is rare in the immunocompetent individual. In immunocompromised patients, it frequently involves the oesophagus, but extra-oesophageal involvement is uncommon. We report a case of primary and isolated gastroduodenal candidiasis. Upper GI endoscopy with biopsy of gastric mucosa was crucial for making the diagnosis. The patient showed transient improvement after therapy with fluconazole.",
+        "journal": "European journal of case reports in internal medicine",
+        "year": "2017",
+        "authors": [
+          "Branco Sara Castelo",
+          "Ferreira Ana Teresa",
+          "Saraiva Sofia",
+          "Silva Mário Jorge",
+          "Garcia Teresa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30755955/"
+      },
+      {
+        "pmid": "11465873",
+        "title": "Caspofungin.",
+        "abstract": "Caspofungin is the first in a new class of antifungal agents, the glucan synthesis inhibitors, that interfere with fungal cell wall synthesis. Caspofungin exhibited in vitro and in vivo efficacy against a wide range of fungi and yeasts including Aspergillus and Candida species. A complete or partial response to caspofungin therapy was seen in 40.7% of immunocompromised adults with invasive aspergillosis who did not respond to, or did not tolerate, other antifungal agents in a noncomparative multicentre study. Caspofungin was effective in patients with oropharyngeal or oesophageal candidiasis, according to the preliminary results of 2 randomised double-blind trials. Caspofungin was generally well tolerated in a multicentre noncomparative trial involving patients with invasive aspergillosis. One or more drug-related clinical adverse effects were experienced by 13.8% of caspofungin recipients (the most common were fever, nausea, vomiting and complications associated with the vein into whi",
+        "journal": "Drugs",
+        "year": "2001",
+        "authors": [
+          "Keating G M",
+          "Jarvis B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Antifungal Agents",
+          "Aspergillosis",
+          "Candidiasis",
+          "Caspofungin",
+          "Echinocandins",
+          "Fever",
+          "Humans",
+          "Infusions, Intravenous",
+          "Lipopeptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11465873/"
+      },
+      {
+        "pmid": "11590489",
+        "title": "Therapeutic options for the management of oropharyngeal and esophageal candidiasis in HIV/AIDS patients.",
+        "abstract": "Mucocutaneous candidiasis is frequently one of the first signs of HIV infection. Over 90% of patients with AIDS will develop oropharyngeal candidiasis at some time during their illness. Although numerous antifungal agents are available, azoles, both topical (clotrimazole) and systemic (fluconazole, itraconazole), have replaced older topical antifungals (gentian violet and nystatin) in the management of oropharyngeal candidiasis in these patients. The systemic azoles, itraconazole and fluconazole, are generally safe and effective agents in HIV-infected patients with oropharyngeal candidiasis. A concern in these patients is clinical relapse, which appears to be dependent on degree of immunosuppression and is more common following clotrimazole and ketoconazole than following fluconazole or itraconazole. Candida esophagitis is also of concern, since it occurs in more than 10% of patients with AIDS. Fluconazole is an integral part of the management of mucosal candidiasis. A cyclodextrin ora",
+        "journal": "HIV clinical trials",
+        "year": "2000",
+        "authors": [
+          "Vazquez J A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adult",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis, Oral",
+          "Child",
+          "Child, Preschool",
+          "Esophagitis",
+          "Humans",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11590489/"
+      },
+      {
+        "pmid": "24424852",
+        "title": "Is empiric therapy with fluconazole appropriate for esophageal candidiasis?",
+        "abstract": "We studied the prevalence of fluconazole resistance in esophageal candidiasis. Patients with suspected esophageal candidiasis during gastroscopy underwent culture of white plaques. Minimum inhibitory concentration (MIC) >64 μg/mL of fluconazole for Candida was indicative of resistance. Sensitivity of itraconazole was tested in a subset of resistant strains. Sixty-five patients were included. Mean (SD) age was 50.03 (13.5) years and 67.7 % were males. Predisposing factors for candidiasis were found in 42 (64.6 %) patients. C. albicans was identified in 64 (97.4 %) patients and C. glabrata in one patient. Fluconazole resistance was seen in 38 (59.4 %) patients with C. albicans and also in the one patient with C. glabrata. All the fluconazole resistant isolates of C. albicans had MIC >128 μg/mL suggesting very high resistance. Twelve patients with fluconazole resistance had itraconazole resistance as well. The study shows a high rate of fluconazole resistance in patients with esophageal c",
+        "journal": "Indian journal of gastroenterology : official journal of the Indian Society of Gastroenterology",
+        "year": "2014",
+        "authors": [
+          "Sajith Kattiparambil Gangadharan",
+          "Dutta Amit Kumar",
+          "Sahni Rani Diana",
+          "Esakimuthu Saritha",
+          "Chacko Ashok"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Candida albicans",
+          "Candida glabrata",
+          "Candidiasis",
+          "Drug Resistance, Fungal",
+          "Esophageal Diseases",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Itraconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24424852/"
+      },
+      {
+        "pmid": "1287140",
+        "title": "Fluconazole and ketoconazole in the treatment of oral and esophageal candidiasis in AIDS patients.",
+        "abstract": "In our study 77 AIDS patients suffering from oral and/or esophageal candidiasis were evaluated: 38 received fluconazole, 39 ketoconazole. We analyzed the rates of clinical and mycological responses, relapses and toxicities. In vitro susceptibility tests for both antifungal drugs were performed by evaluating their Minimal Inhibitory Concentrations (MICs). The azole drugs investigated show a good activity in the treatment of oropharyngeal and esophageal candidiasis also in advanced stages of HIV infection. Clinical cure or improvement were achieved in 29 (76.3%) and 31 (79.4%) of the patients treated with fluconazole or ketoconazole respectively. Clinical or laboratory adverse experiences related to fluconazole were seen in 7 (21.2%) patients while ketoconazole provoked adverse experiences in 9 (26.4%) patients. In vitro susceptibility tests, if repeated more than once, both in primary infection and relapses, could be important to demonstrate a probable sensitivity change or resistance o",
+        "journal": "Journal of chemotherapy (Florence, Italy)",
+        "year": "1992",
+        "authors": [
+          "Barchiesi F",
+          "Giacometti A",
+          "Arzeni D",
+          "Branchesi P",
+          "Crescenzi G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adult",
+          "Aged",
+          "Candidiasis",
+          "Candidiasis, Oral",
+          "Esophageal Diseases",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Ketoconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1287140/"
+      },
+      {
+        "pmid": "15340133",
+        "title": "Micafungin.",
+        "abstract": "To review the pharmacology, mycology, chemistry, in vitro susceptibility, pharmacokinetics, clinical efficacy, safety, tolerability, dosage, and administration of micafungin, an echinocandin antifungal agent.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2004",
+        "authors": [
+          "Carver Peggy L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Clinical Trials as Topic",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Dose-Response Relationship, Drug",
+          "Drug Interactions",
+          "Drug Resistance, Fungal",
+          "Echinocandins",
+          "Humans",
+          "Lipopeptides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15340133/"
+      },
+      {
+        "pmid": "19466307",
+        "title": "The resistance to fluconazole in patients with esophageal candidiasis.",
+        "abstract": "Esophageal candidiasis is often observed in patients with risk factors for its development and fluconazole is the therapeutic choice for the treatment of this disease.",
+        "journal": "Arquivos de gastroenterologia",
+        "year": "2009",
+        "authors": [
+          "Wilheim Ana Botler",
+          "Miranda-Filho Demócrito de Barros",
+          "Nogueira Rodrigo Albuquerque",
+          "Rêgo Rossana Sette de Melo",
+          "Lima Kedma de Magalhães"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Brazil",
+          "Candida",
+          "Candidiasis",
+          "Esophageal Diseases",
+          "Female",
+          "Fluconazole",
+          "HIV Infections",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19466307/"
+      },
+      {
+        "pmid": "10959741",
+        "title": "Esophageal candidiasis in pediatric acquired immunodeficiency syndrome: clinical manifestations and risk factors.",
+        "abstract": "Little is known about the epidemiology and clinical features of esophageal candidiasis (EC) in pediatric AIDS. We therefore investigated the clinical presentation and risk factors of EC in a large prospectively monitored population of HIV-infected children at the National Cancer Institute.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2000",
+        "authors": [
+          "Chiou C C",
+          "Groll A H",
+          "Gonzalez C E",
+          "Callender D",
+          "Venzon D"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Adolescent",
+          "Age Distribution",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Case-Control Studies",
+          "Child",
+          "Child, Preschool",
+          "Comorbidity",
+          "Esophagitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10959741/"
+      },
+      {
+        "pmid": "38735485",
+        "title": "The modern face of esophageal candidiasis in an oncology center: Correlating clinical manifestations, endoscopic grade, and pathological data in 323 contemporary cancer patients.",
+        "abstract": "Clinical presentation and outcomes of esophageal candidiasis (EC) in cancer patients are scarcely studied in the azole era, as is the correlation between clinical, endoscopic, and histopathological EC manifestations.",
+        "journal": "The Journal of infection",
+        "year": "2024",
+        "authors": [
+          "Matsuo Takahiro",
+          "Singh Ben S",
+          "Wurster Sebastian",
+          "Jiang Ying",
+          "Bhutani Manoop S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Retrospective Studies",
+          "Candidiasis",
+          "Aged",
+          "Fluconazole",
+          "Antifungal Agents",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38735485/"
+      },
+      {
+        "pmid": "33988259",
+        "title": "Genotyping, antifungal susceptibility, enzymatic activity, and phenotypic variation in Candida albicans from esophageal candidiasis.",
+        "abstract": "Esophageal candidiasis is the most frequent form of esophagitis. The pathogenicity of Candida spp. is related to a combination of microbial factors, hydrolytic enzyme secretion and phenotypic switching. This study was designed to investigate esophageal candidiasis, antifungal activity, enzymatic activity patterns, phenotyping, and genotyping profiles of Candida albicans species.",
+        "journal": "Journal of clinical laboratory analysis",
+        "year": "2021",
+        "authors": [
+          "Jafarian Hadis",
+          "Gharaghani Maral",
+          "Seyedian Seyed Saeed",
+          "Mahmoudabadi Ali Zarei"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Candida albicans",
+          "Candidiasis",
+          "Esophagitis",
+          "Female",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33988259/"
+      },
+      {
+        "pmid": "11158743",
+        "title": "Dosage-dependent antifungal efficacy of V-echinocandin (LY303366) against experimental fluconazole-resistant oropharyngeal and esophageal candidiasis.",
+        "abstract": "V-echinocandin (VER-002; LY303366) is a semisynthetic derivative of echinocandin B and a potent inhibitor of fungal (1, 3)-beta-D-glucan synthase. We studied the antifungal efficacy, the concentrations in saliva and tissue, and the safety of VER-002 at escalating dosages against experimental oropharyngeal and esophageal candidiasis caused by fluconazole-resistant Candida albicans in immunocompromised rabbits. Study groups consisted of untreated controls, animals treated with VER-002 at 1, 2.5, and 5 mg/kg of body weight/day intravenously (i.v.), animals treated with fluconazole at 2 mg/kg/day i.v., or animals treated with amphotericin B at 0.3 mg/kg/day. VER-002-treated animals showed a significant dosage-dependent clearance of C. albicans from the tongue, oropharynx, esophagus, stomach, and duodenum in comparison to that for untreated controls. VER-002 also was superior to amphotericin B and fluconazole in clearing the organism from all sites studied. These in vivo findings are consis",
+        "journal": "Antimicrobial agents and chemotherapy",
+        "year": "2001",
+        "authors": [
+          "Petraitis V",
+          "Petraitiene R",
+          "Groll A H",
+          "Sein T",
+          "Schaufele R L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Anidulafungin",
+          "Animals",
+          "Antifungal Agents",
+          "Candidiasis",
+          "Candidiasis, Oral",
+          "Drug Resistance, Microbial",
+          "Echinocandins",
+          "Esophageal Diseases",
+          "Esophagus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11158743/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:15:24.713816",
+  "success": true,
+  "error_message": null
+}

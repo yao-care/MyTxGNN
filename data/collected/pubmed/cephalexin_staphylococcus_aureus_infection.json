@@ -1,0 +1,554 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "staphylococcus aureus infection",
+    "query_string": "Cephalexin AND staphylococcus aureus infection"
+  },
+  "data": {
+    "query": "Cephalexin AND staphylococcus aureus infection",
+    "results": [
+      {
+        "pmid": "25250996",
+        "title": "Impetigo: diagnosis and treatment.",
+        "abstract": "Impetigo is the most common bacterial skin infection in children two to five years of age. There are two principal types: nonbullous (70% of cases) and bullous (30% of cases). Nonbullous impetigo, or impetigo contagiosa, is caused by Staphylococcus aureus or Streptococcus pyogenes, and is characterized by honey-colored crusts on the face and extremities. Impetigo primarily affects the skin or secondarily infects insect bites, eczema, or herpetic lesions. Bullous impetigo, which is caused exclusively by S. aureus, results in large, flaccid bullae and is more likely to affect intertriginous areas. Both types usually resolve within two to three weeks without scarring, and complications are rare, with the most serious being poststreptococcal glomerulonephritis. Treatment includes topical antibiotics such as mupirocin, retapamulin, and fusidic acid. Oral antibiotic therapy can be used for impetigo with large bullae or when topical therapy is impractical. Amoxicillin/clavulanate, dicloxacill",
+        "journal": "American family physician",
+        "year": "2014",
+        "authors": [
+          "Hartman-Adams Holly",
+          "Banvard Christine",
+          "Juckett Gregory"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Anti-Bacterial Agents",
+          "Diagnosis, Differential",
+          "Disease Management",
+          "Global Health",
+          "Humans",
+          "Impetigo",
+          "Incidence",
+          "Skin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25250996/"
+      },
+      {
+        "pmid": "34902109",
+        "title": "Cellulitis: A Review of Current Practice Guidelines and Differentiation from Pseudocellulitis.",
+        "abstract": "Cellulitis, an infection involving the deep dermis and subcutaneous tissue, is the most common reason for skin-related hospitalization and is seen by clinicians across various disciplines in the inpatient, outpatient, and emergency room settings, but it can present as a diagnostic and therapeutic challenge. Cellulitis is a clinical diagnosis based on the history of present illness and physical examination and lacks a gold standard for diagnosis. Clinical presentation with acute onset of redness, warmth, swelling, and tenderness and pain is typical. However, cellulitis can be difficult to diagnose due to a number of infectious and non-infectious clinical mimickers such as venous stasis dermatitis, contact dermatitis, eczema, lymphedema, and erythema migrans. Microbiological diagnosis is often unobtainable due to poor sensitivity of culture specimens. The majority of non-purulent, uncomplicated cases of cellulitis are caused by β-hemolytic streptococci or methicillin-sensitive Staphyloco",
+        "journal": "American journal of clinical dermatology",
+        "year": "2022",
+        "authors": [
+          "Boettler Michelle A",
+          "Kaffenberger Benjamin H",
+          "Chung Catherine G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cellulitis",
+          "Humans",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Skin",
+          "Staphylococcal Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34902109/"
+      },
+      {
+        "pmid": "18819238",
+        "title": "Management of mastitis in breastfeeding women.",
+        "abstract": "Mastitis occurs in approximately 10 percent of U.S. mothers who are breastfeeding, and it can lead to the cessation of breastfeeding. The risk of mastitis can be reduced by frequent, complete emptying of the breast and by optimizing breastfeeding technique. Sore nipples can precipitate mastitis. The differential diagnosis of sore nipples includes mechanical irritation from a poor latch or infant mouth anomalies, such as cleft palate or bacterial or yeast infection. The diagnosis of mastitis is usually clinical, with patients presenting with focal tenderness in one breast accompanied by fever and malaise. Treatment includes changing breastfeeding technique, often with the assistance of a lactation consultant. When antibiotics are needed, those effective against Staphylococcus aureus (e.g., dicloxacillin, cephalexin) are preferred. As methicillin-resistant S. aureus becomes more common, it is likely to be a more common cause of mastitis, and antibiotics that are effective against this or",
+        "journal": "American family physician",
+        "year": "2008",
+        "authors": [
+          "Spencer Jeanne P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Breast Feeding",
+          "Female",
+          "Humans",
+          "Mastitis",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18819238/"
+      },
+      {
+        "pmid": "32412727",
+        "title": "Twice- and Thrice-daily Cephalexin Dosing for Staphylococcus aureus Infections in Children.",
+        "abstract": "Cephalexin is used for the treatment of methicillin-susceptible Staphylococcus aureus (MSSA) infections in children. Although 4 times daily dosing is recommended, less frequent dosing regimens are often prescribed to improve treatment acceptability and adherence. We developed a population pharmacokinetic model of cephalexin in children to determine a twice-daily (BID) and thrice-daily (TID) cephalexin dosing regimen for MSSA infections.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2020",
+        "authors": [
+          "Gwee Amanda",
+          "Autmizguine Julie",
+          "Curtis Nigel",
+          "Duffull Stephen B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adolescent",
+          "Cephalexin",
+          "Child",
+          "Child, Preschool",
+          "Dose-Response Relationship, Drug",
+          "Female",
+          "Humans",
+          "Infant",
+          "Joints"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32412727/"
+      },
+      {
+        "pmid": "33634465",
+        "title": "Interventions for bacterial folliculitis and boils (furuncles and carbuncles).",
+        "abstract": "Bacterial folliculitis and boils are globally prevalent bacterial infections involving inflammation of the hair follicle and the perifollicular tissue. Some folliculitis may resolve spontaneously, but others may progress to boils without treatment. Boils, also known as furuncles, involve adjacent tissue and may progress to cellulitis or lymphadenitis. A systematic review of the best evidence on the available treatments was needed.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2021",
+        "authors": [
+          "Lin Huang-Shen",
+          "Lin Pei-Tzu",
+          "Tsai Yu-Shiun",
+          "Wang Shu-Hui",
+          "Chi Ching-Chi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anti-Bacterial Agents",
+          "Anti-Infective Agents, Local",
+          "Bias",
+          "Carbuncle",
+          "Child",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33634465/"
+      },
+      {
+        "pmid": "30562290",
+        "title": "Extended Oral Antibiotic Prophylaxis in High-Risk Patients Substantially Reduces Primary Total Hip and Knee Arthroplasty 90-Day Infection Rate.",
+        "abstract": "Total joint arthroplasty (TJA) episodic payment models shift risk and cost of periprosthetic joint infection (PJI) to surgeons and hospitals, causing some to avoid treating high-risk patients. Furthermore, there are little data to support optimization of host factors preoperatively to decrease PJI, and recent literature supports using extended antibiotic prophylaxis following reimplantation TJA. The purpose of this study was to evaluate whether extended oral antibiotic prophylaxis minimized PJI after primary TJA in high-risk patients.",
+        "journal": "The Journal of bone and joint surgery. American volume",
+        "year": "2018",
+        "authors": [
+          "Inabathula Avinash",
+          "Dilley Julian E",
+          "Ziemba-Davis Mary",
+          "Warth Lucian C",
+          "Azzam Khalid A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Antibiotic Prophylaxis",
+          "Arthroplasty, Replacement, Hip",
+          "Arthroplasty, Replacement, Knee",
+          "Cefadroxil",
+          "Clindamycin",
+          "Delayed-Action Preparations",
+          "Drug Administration Schedule"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30562290/"
+      },
+      {
+        "pmid": "33413376",
+        "title": "Dynamic interactions between cephalexin and macrophages on different Staphylococcus aureus inoculum sizes: a tripartite in vitro model.",
+        "abstract": "The bactericidal activity of an antimicrobial drug is generally assessed by in vitro bacterial time-kill experiments which do not include any components of the immune system, even though the innate immunity, the primary host defence, is probably able to kill a large proportion of pathogenic bacteria in immunocompetent patients. We developed an in vitro tripartite model to investigate the joint action of C57Bl/6 murine bone-marrow-derived macrophages and cephalexin on the killing of Staphylococcus aureus.",
+        "journal": "BMC veterinary research",
+        "year": "2021",
+        "authors": [
+          "Lallemand Elodie Anne",
+          "Zemirline Claudine",
+          "Toutain Pierre-Louis",
+          "Bousquet-Melou Alain",
+          "Ferran Aude A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Cephalexin",
+          "Female",
+          "Host-Pathogen Interactions",
+          "Immunity, Innate",
+          "Macrophages",
+          "Mice, Inbred C57BL",
+          "Microbial Sensitivity Tests",
+          "Models, Biological"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33413376/"
+      },
+      {
+        "pmid": "40372039",
+        "title": "Infection of neonates with Staphylococcus aureus and methicillin-resistant Staphylococcus aureus at Dormaa Presbyterian Hospital, Ghana.",
+        "abstract": "Staphylococcus aureus is the second most common pathogen found in all cases of nosocomial infections globally. Methicillin-resistant Staphylococcus aureus (MRSA) is a common cause of infection among preterm and critically ill newborns in neonatal intensive care units. Newborns are predominantly susceptible to S. aureus and MRSA colonization and infection due to their weaker immune systems. Treating infections in newborns associated with S. aureus and MRSA has proven challenging due to decreasing susceptibility to first-line antibiotics, leaving clinicians with few treatment options. This cross-sectional study aimed to determine the prevalence of hospital-acquired MRSA among neonates at the Dormaa Presbyterian Hospital in Ghana, the susceptibility profile to selected antibiotics, and the associated risk factors. Venous blood samples were taken from each of the neonatal participants and inoculated into Brain Heart Infusion broth. Standard biochemical tests were performed, and 36.0% (9/25",
+        "journal": "Microbiology spectrum",
+        "year": "2025",
+        "authors": [
+          "Obeng Jerome Adinkrah",
+          "Akanwariwiak William Gariba",
+          "Adade Eugene",
+          "Sylverken Augustina Angelina"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Ghana",
+          "Infant, Newborn",
+          "Staphylococcal Infections",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Anti-Bacterial Agents",
+          "Female",
+          "Cross-Sectional Studies",
+          "Male",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40372039/"
+      },
+      {
+        "pmid": "38788844",
+        "title": "District-wide herd sanitation and eradication of intramammary Staphylococcus aureus genotype B infection in dairy herds in Ticino, Switzerland.",
+        "abstract": "The present study demonstrates successful herd sanitation and eradication of contagious mastitis caused by Staphylococcus aureus genotype B (GTB) in an entire Swiss district (Ticino) including 3,364 dairy cows from 168 farms. Herd sanitation included testing of all cows using a highly GTB-specific and sensitive real-time quantitative PCR (qPCR) assay, implementation of related on-farm measures, appropriate antibiotic therapy of GTB-positive cows, and culling of therapy-resistant animals, respectively. A treatment index was used as an objective criterion to select GTB-positive cows eligible for culling and replacement payment. Sixty-two herds (37%) were initially GTB-positive with a cow prevalence between 10% and 100% and were submitted to sanitation. Twenty months after the start of the campaign, all of these herds were free from S. aureus GTB, whereby 73% of them were sanitized during the first 7 mo. At the cow level, a total of 343 animals were infected. Fifty of them were immediatel",
+        "journal": "Journal of dairy science",
+        "year": "2024",
+        "authors": [
+          "Sesso L",
+          "Vanzetti T",
+          "Weber J",
+          "Vaccani M",
+          "Riva Scettrini P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cattle",
+          "Female",
+          "Staphylococcus aureus",
+          "Staphylococcal Infections",
+          "Mastitis, Bovine",
+          "Switzerland",
+          "Genotype",
+          "Milk",
+          "Sanitation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38788844/"
+      },
+      {
+        "pmid": "18649613",
+        "title": "Diabetic foot infection.",
+        "abstract": "Foot infections are common in patients with diabetes and are associated with high morbidity and risk of lower extremity amputation. Diabetic foot infections are classified as mild, moderate, or severe. Gram-positive bacteria, such as Staphylococcus aureus and beta-hemolytic streptococci, are the most common pathogens in previously untreated mild and moderate infection. Severe, chronic, or previously treated infections are often polymicrobial. The diagnosis of diabetic foot infection is based on the clinical signs and symptoms of local inflammation. Infected wounds should be cultured after debridement. Tissue specimens obtained by scraping the base of the ulcer with a scalpel or by wound or bone biopsy are strongly preferred to wound swabs. Imaging studies are indicated for suspected deep soft tissue purulent collections or osteomyelitis. Optimal management requires aggressive surgical debridement and wound management, effective antibiotic therapy, and correction of metabolic abnormalit",
+        "journal": "American family physician",
+        "year": "2008",
+        "authors": [
+          "Bader Mazen S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diabetic Foot",
+          "Humans",
+          "Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18649613/"
+      },
+      {
+        "pmid": "4248663",
+        "title": "Cephalexin.",
+        "abstract": "",
+        "journal": "The Medical clinics of North America",
+        "year": "1970",
+        "authors": [
+          "Griffith R S",
+          "Black H R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Animals",
+          "Aqueous Humor",
+          "Bacteria",
+          "Biological Assay",
+          "Cats",
+          "Cephalosporins",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Diarrhea"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4248663/"
+      },
+      {
+        "pmid": "37219839",
+        "title": "Cephalosporin susceptibility of Staphylococcus aureus strains isolated from commercial rabbit and goats farms in Spain.",
+        "abstract": "Antimicrobial drug resistance is an important problem that challenges veterinary clinicians to provide effective treatments without further spreading resistance to other animals and people. The most commonly used pharmacodynamic parameter to define potency of antimicrobial drugs is minimum inhibitory concentration (MIC). The aim of this study was to evaluate the antibiotic susceptibility of thirty-six strains of Staphylococcus aureus isolated from dairy goats with mastitis and rabbits with chronic staphylococcosis. Four cephalosporins were tested: cephalexin, cephalotin, cefonicid and ceftiofur. MIC tests were performed according to the microdilution broth method. The calculated values of sensitivity in goats and rabbits were 66.67% and 72.22% for cephalexin, 72.22 % and 94.44% for cefonicid, 77.78% and 94.44% for cephalotin and 77.78% and 100% for ceftiofur, respectively. For all antibiotics, MIC90 of S. aureus from rabbits were lower than MIC90 from goats. These data suggest that mor",
+        "journal": "Veterinaria italiana",
+        "year": "2022",
+        "authors": [
+          "Badillo Elena",
+          "Escudero Elisa",
+          "Galecio Juan Sebastián",
+          "Hernandis Verónica",
+          "Marin Pedro"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Female",
+          "Rabbits",
+          "Staphylococcus aureus",
+          "Farms",
+          "Cefonicid",
+          "Goats",
+          "Spain",
+          "Lactation",
+          "Cephalosporins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37219839/"
+      },
+      {
+        "pmid": "29675919",
+        "title": "Therapy and Outcome of Staphylococcus aureus Infections of Intracorporeal Ventricular Assist Devices.",
+        "abstract": "Infection of the driveline or pump pocket is a common complication in patients with ventricular assist devices (VADs) and Staphylococcus aureus is the main pathogen causing such infections. Limited evidence is currently available to guide the choice of antibiotic therapy and the duration of treatment in these patients. Patients at the University Medical Center Utrecht who developed a VAD-related S. aureus infection between 2007 and 2016 were retrospectively assessed. Blood culture isolates were typed by whole genome sequencing to differentiate between relapses and reinfections, and to determine whether antibiotic therapy had led to acquisition of resistance mutations. Twenty-eight patients had S. aureus VAD infections. Ten of these patients also suffered S. aureus bacteremia. Discontinuation of antibiotic therapy was followed by relapse in 50% of the patients without prior S. aureus bacteremia and in 80% of patients with bacteremia. Oral cephalexin could ultimately suppress the infecti",
+        "journal": "Artificial organs",
+        "year": "2018",
+        "authors": [
+          "Ekkelenkamp Miquel B",
+          "Vervoorn Mats T",
+          "Bayjanov Jumamurat R",
+          "Fluit Ad C",
+          "Benaissa-Trouw Barry J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Cephalexin",
+          "Clindamycin",
+          "Female",
+          "Heart-Assist Devices",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29675919/"
+      },
+      {
+        "pmid": "41465858",
+        "title": "The Mechanism of Emodin Against Methicillin-Resistant Staphylococcus aureus Infection and Research on Synergistic Antibiotics.",
+        "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) poses a significant clinical challenge due to its multidrug resistance, particularly to β-lactam antibiotics. This study comprehensively evaluated the natural compound emodin for its anti-MRSA activity, mechanisms of action, and potential for synergy with β-lactam antibiotics. Our findings demonstrate that emodin dose-dependently inhibits MRSA growth and abrogates biofilm formation at 2× MIC. Mechanistic studies revealed that emodin compromises cell membrane and wall integrity, induces oxidative stress, and downregulates the virulence factors SPA and EsxA. Furthermore, emodin acted synergistically with β-lactam antibiotics: it enhanced the ability of cefalexin to block bacterial adhesion and invasion of HaCat cells, and potentiated the efficacy of amoxicillin in clearing MRSA from infected macrophages. In conclusion, emodin employs a multi-target mechanism against MRSA and can resensitize the bacterium to conventional β-lactam antibiot",
+        "journal": "Life (Basel, Switzerland)",
+        "year": "2025",
+        "authors": [
+          "Chu Chenliang",
+          "Qin Liang",
+          "Peng Huayong",
+          "Kuang Tao",
+          "Li Yongshi"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41465858/"
+      },
+      {
+        "pmid": "32725811",
+        "title": "Comparison of Antibacterial Effect of Cationic Peptide LL-37 and Cefalexin on Clinical Staphylococcus aureus-induced Infection after Femur Fracture Fixation.",
+        "abstract": "Antimicrobial peptides are widely present in nature, with many of the antimicrobial peptides having antimicrobial activity against Gram-positive and Gram-negative bacteria, fungi, parasites, and even coated viruses. Internal fixation of fractures is a reliable technique. However, the fracture is difficult to heal and internal fixation is not easy to maintain after infection. This study aims to verify the antibacterial effect of cationic peptide LL-37 on Staphylococcus aureus, explore the anti-biofilm effects of LL-37, and compare the effects of the cationic peptide LL-37 and Cefalexin in treatment of postoperative infection of femoral fracture in vivo.",
+        "journal": "Orthopaedic surgery",
+        "year": "2020",
+        "authors": [
+          "Yan Cheng-Yuan",
+          "Liu Yu-Zhou",
+          "Xu Zhong-Hua",
+          "Yang Hao-Yu",
+          "Li Jin"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Bacterial Agents",
+          "Antimicrobial Cationic Peptides",
+          "Biofilms",
+          "Cephalexin",
+          "Disease Models, Animal",
+          "Femoral Fractures",
+          "Fracture Fixation, Internal",
+          "Humans",
+          "Rabbits"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32725811/"
+      },
+      {
+        "pmid": "25428411",
+        "title": "Staphylococcus aureus skin infection recurrences among household members: an examination of host, behavioral, and pathogen-level predictors.",
+        "abstract": "Many patients suffer from recurrent Staphylococcus aureus infections, but there are few data examining recurrence predictors.",
+        "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+        "year": "2015",
+        "authors": [
+          "Miller Loren G",
+          "Eells Samantha J",
+          "David Michael Z",
+          "Ortiz Nancy",
+          "Taylor Alexis R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Chicago",
+          "Child",
+          "Child, Preschool",
+          "Cross-Sectional Studies",
+          "Family Characteristics",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25428411/"
+      },
+      {
+        "pmid": "37158826",
+        "title": "Effectiveness of oral cephalexin in antibiotic-course completion for methicillin-susceptible Staphylococcus aureus-induced bacteremic vertebral osteomyelitis.",
+        "abstract": "Methicillin-susceptible Staphylococcus aureus (MSSA) is the most common causative microorganism of pyogenic vertebral osteomyelitis (PVO). Although oral antimicrobial therapy with first-generation cephalosporins can treat MSSA infection, data on PVO are scarce. This study evaluated the treatment efficacy of cephalexin as oral antibiotic therapy for MSSA-induced PVO.",
+        "journal": "BMC infectious diseases",
+        "year": "2023",
+        "authors": [
+          "Okumura Nobumasa",
+          "Hayakawa Kayoko",
+          "Yamamoto Kei",
+          "Yamada Gen",
+          "Mezaki Kazuhisa"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Aged",
+          "Male",
+          "Anti-Bacterial Agents",
+          "Cephalexin",
+          "Methicillin",
+          "Staphylococcus aureus",
+          "Abscess"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37158826/"
+      },
+      {
+        "pmid": "35984202",
+        "title": "Ecthyma gangrenosum caused by Staphylococcus aureus in hematological malignancies: Case reports and literature review.",
+        "abstract": "Ecthyma gangrenosum (EG) is a potentially life-threatening, systemic infection generally caused by Pseudomonas aeruginosa. Data on EG caused by Staphylococcus aureus in patients with hematological malignancies are scarce. The present case report aimed to describe the clinical features of EG caused by S. aureus in patients with hematological malignancies and to provide a comprehensive review of previous studies on the topic.",
+        "journal": "Medicine",
+        "year": "2022",
+        "authors": [
+          "Kudo Nagata Yuka",
+          "Sekiya Noritaka",
+          "Fukushima Kazuaki",
+          "Horiuchi Masao",
+          "Doki Noriko"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteremia",
+          "Ecthyma",
+          "Hematologic Neoplasms",
+          "Humans",
+          "Male",
+          "Methicillin-Resistant Staphylococcus aureus",
+          "Middle Aged",
+          "Staphylococcal Infections",
+          "Staphylococcus aureus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35984202/"
+      },
+      {
+        "pmid": "35730963",
+        "title": "Cefadroxil Comparable to Cephalexin: Minimum Inhibitory Concentrations among Methicillin-Susceptible Staphylococcus aureus Isolates from Pediatric Musculoskeletal Infections.",
+        "abstract": "Cephalexin and cefadroxil are oral first-generation cephalosporins used to treat methicillin-susceptible Staphylococcus aureus (MSSA) infections. Despite its shorter half-life, cephalexin is more frequently prescribed, although cefadroxil is an appealing alternative, given its slower clearance and possibility for less frequent dosing. We report comparative MIC distributions for cefadroxil and cephalexin, as well as for oxacillin, cephalothin, ceftaroline, and cefazolin, for 48 unique clinical MSSA isolates from pediatric patients with musculoskeletal infections. Both cefadroxil and cephalexin had MIC50 values of 2 μg/mL and MIC90 values of 4 μg/mL. MIC50s for oxacillin, cephalothin, and ceftaroline were ≤0.25 μg/mL, and cefazolin's MIC50 was 0.5 μg/mL. While cefadroxil and cephalexin MICs are higher than those for other active agents, the distributions of MICs for cefadroxil and cephalexin are statistically equivalent, suggesting similar in vitro MSSA activities. Cefadroxil should be f",
+        "journal": "Microbiology spectrum",
+        "year": "2022",
+        "authors": [
+          "Haynes Andrew S",
+          "Prinzi Andrea",
+          "Silveira Lori J",
+          "Parker Sarah K",
+          "Lampe Jed N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S."
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Bacteria",
+          "Cefadroxil",
+          "Cefazolin",
+          "Cephalexin",
+          "Cephalothin",
+          "Child",
+          "Humans",
+          "Methicillin",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35730963/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:58:35.780665",
+  "success": true,
+  "error_message": null
+}

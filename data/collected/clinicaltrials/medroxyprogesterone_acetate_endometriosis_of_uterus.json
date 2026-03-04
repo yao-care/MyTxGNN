@@ -1,0 +1,81 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "endometriosis of uterus"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04710017",
+      "title": "Tranexamic Acid Versus Depot-Medroxyprogesterone Acetate in the Treatment of Perimenopausal Irregular Uterine Bleeding: Randomized Clinical Trial",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2021-02-01",
+      "completion_date": "2022-05-01",
+      "country": "Egypt",
+      "enrollment": 110,
+      "brief_summary": "Abnormal uterine bleeding is a symptom and not a disease. It is one of the most frequently encountered complaints in gynecologic practice. It accounts for more than 70% of all gynecological consultations in the peri- and post-menopausal age group.\n\nAbnormal uterine bleeding may be acute or chronic and is defined as bleeding from the uterine corpus that is abnormal in regularity, volume, frequency, or duration and occurs in the absence of pregnancy.\n\nChronic heavy or prolonged uterine bleeding ca",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients diagnosed, clinically as peri-menopausal abnormal uterine bleeding with normal pelvic examination.\n* Patient's age ranging from 40- 55y.\n\nExclusion Criteria:\n\n* Post menopausal women\n* Presence of fibroids, adenomyosis, polyp, adnexal mass, endometrial hyperplasia wit",
+      "endpoints": [
+        "Number of bleeding days"
+      ],
+      "sponsor": "Assiut University",
+      "url": "https://clinicaltrials.gov/study/NCT04710017"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00155051",
+      "title": "Progestin Treatment for Endometrial Stromal Cells in Adenomyosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2004-07",
+      "completion_date": "2005-04",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "Long term treatment of progestin has been demonstrated to have an inhibitory effect on endometrial angiogenesis and the proliferation of endometrial stromal cells. As a result, progestin is now widely employed in the treatment of endometrial cancer, endometrial hyperplasia, and dysfunction uterine bleeding. In the treatment of adenomyosis, however, the beneficial effect of progestin was limited. It might imply that the behavior of endometrial cells in women with adenomyosis is different from tha",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with adenomyosis\n* at early- to mid-secretory phases\n\nExclusion Criteria:\n\n* postmenopausal\n* malignancy",
+      "endpoints": [],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00155051"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00173212",
+      "title": "Proliferation of Endometrial Stromal Cells in Adenomyosis",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2005-09",
+      "completion_date": "2006-03",
+      "country": "Taiwan",
+      "enrollment": 45,
+      "brief_summary": "Adenomyosis refers to the presence of endometrial glands and stroma that is haphazardly deep within the myometrium. However, the etiology and pathologic mechanism responsible for adenomyosis are not yet very well known. Our previous results revealed that the expression of killer inhibitory receptors on natural killer cells was decreased in eutopic endometrium in women with adenomyosis. It implies that the formation of adenomyosis might be due to abnormal endometrial tissues, but not the aberrant",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women with adenomyosis\n* at early- to mid-secretory phases\n\nExclusion Criteria:\n\n* postmenopausal\n* malignancy",
+      "endpoints": [],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT00173212"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06378489",
+      "title": "The Etonogestrel Contraceptive Implant for Treatment of Endometrial Hyperplasia Without Atypia: A Single-arm, Open-label, Longitudinal Study in a Government Hospital in the Philippines",
+      "phase": "N/A",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2024-06-01",
+      "completion_date": "2025-05-31",
+      "country": "N/A",
+      "enrollment": 60,
+      "brief_summary": "Endometrial hyperplasia without atypia is a condition in which the endometrium (the lining of the uterus) becomes abnormally thick. Although endometrial hyperplasia without atypia is not cancer, it can lead to endometrial cancer in 1-3% of women. This disease is treated by giving progestins. The optimal route, dosage and duration of progestin treatment for endometrial hyperplasia has not yet been determined until now. However, several publications have suggested the use of levonorgestrel releasi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* women aged 18 years old to perimenopause who present with or without abnormal uterine bleeding and who have an endometrial biopsy result which shows endometrial hyperplasia without atypia\n* women willing to have the etonogestrel implant (Implant NXT) for the duration of treatm",
+      "endpoints": [
+        "Rate of (resolution) regression to normal endometrium",
+        "Endometrial thickness (by ultrasound)"
+      ],
+      "sponsor": "University of the Philippines",
+      "url": "https://clinicaltrials.gov/study/NCT06378489"
+    }
+  ],
+  "timestamp": "2026-03-04T17:00:45.176701",
+  "success": true,
+  "error_message": null
+}

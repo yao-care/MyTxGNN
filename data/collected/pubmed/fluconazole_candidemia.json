@@ -1,0 +1,612 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Fluconazole",
+    "disease": "candidemia",
+    "query_string": "Fluconazole AND candidemia"
+  },
+  "data": {
+    "query": "Fluconazole AND candidemia",
+    "results": [
+      {
+        "pmid": "38514673",
+        "title": "Invasive candidiasis.",
+        "abstract": "Invasive candidiasis is an important fungal disease caused by Candida albicans and, increasingly, non-albicans Candida pathogens. Invasive Candida infections originate most frequently from endogenous human reservoirs and are triggered by impaired host defences. Signs and symptoms of invasive candidiasis are non-specific; candidaemia is the most diagnosed manifestation, with disseminated candidiasis affecting single or multiple organs. Diagnosis poses many challenges, and conventional culture techniques are frequently supplemented by non-culture-based assays. The attributable mortality from candidaemia and disseminated infections is ~30%. Fluconazole resistance is a concern for Nakaseomyces glabratus, Candida parapsilosis, and Candida auris and less so in Candida tropicalis infection; acquired echinocandin resistance remains uncommon. The epidemiology of invasive candidiasis varies in different geographical areas and within various patient populations. Risk factors include intensive car",
+        "journal": "Nature reviews. Disease primers",
+        "year": "2024",
+        "authors": [
+          "Lass-Flörl Cornelia",
+          "Kanj Souha S",
+          "Govender Nelesh P",
+          "Thompson George R",
+          "Ostrosky-Zeichner Luis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antifungal Agents",
+          "Candidiasis, Invasive",
+          "Fluconazole",
+          "Candida",
+          "Candidemia",
+          "Candidiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38514673/"
+      },
+      {
+        "pmid": "37121240",
+        "title": "Worldwide emergence of fluconazole-resistant Candida parapsilosis: current framework and future research roadmap.",
+        "abstract": "Candida parapsilosis is one of the most commen causes of life-threatening candidaemia, particularly in premature neonates, individuals with cancer of the haematopoietic system, and recipients of organ transplants. Historically, drug-susceptible strains have been linked to clonal outbreaks. However, worldwide studies started since 2018 have reported severe outbreaks among adults caused by fluconazole-resistant strains. Outbreaks caused by fluconazole-resistant strains are associated with high mortality rates and can persist despite strict infection control strategies. The emergence of resistance threatens the efficacy of azoles, which is the most widely used class of antifungals and the only available oral treatment option for candidaemia. The fact that most patients infected with fluconazole-resistant strains are azole-naive underscores the high potential adaptability of fluconazole-resistant strains to diverse hosts, environmental niches, and reservoirs. Another concern is the multidr",
+        "journal": "The Lancet. Microbe",
+        "year": "2023",
+        "authors": [
+          "Daneshnia Farnaz",
+          "de Almeida Júnior João N",
+          "Ilkit Macit",
+          "Lombardi Lisa",
+          "Perry Austin M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Infant, Newborn",
+          "Humans",
+          "Fluconazole",
+          "Candida parapsilosis",
+          "Microbial Sensitivity Tests",
+          "Antifungal Agents",
+          "Candidemia",
+          "Azoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37121240/"
+      },
+      {
+        "pmid": "39027938",
+        "title": "Increase in candidemia cases and emergence of fluconazole-resistant Candida parapsilosis and C. auris isolates in a tertiary care academic hospital during the COVID-19 pandemic, Greece, 2020 to 2023.",
+        "abstract": "BackgroundThe COVID-19 pandemic and the emergence of Candida auris have changed the epidemiological landscape of candidaemia worldwide.AimWe compared the epidemiological trends of candidaemia in a Greek tertiary academic hospital before (2009-2018) and during the early COVID-19 (2020-2021) and late COVID-19/early post-pandemic (2022-2023) era.MethodsIncidence rates, species distribution, antifungal susceptibility profile and antifungal consumption were recorded, and one-way ANOVA or Fisher's exact test performed. Species were identified by MALDI-ToF MS, and in vitro susceptibility determined with CLSI M27-Ed4 for C. auris and the EUCAST-E.DEF 7.3.2 for other Candida spp.ResultsIn total, 370 candidaemia episodes were recorded during the COVID-19 pandemic. Infection incidence (2.0 episodes/10,000 hospital bed days before, 3.9 during the early and 5.1 during the late COVID-19 era, p < 0.0001), C. auris (0%, 9% and 33%, p < 0.0001) and fluconazole-resistant C. parapsilosis species complex ",
+        "journal": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+        "year": "2024",
+        "authors": [
+          "Siopi Maria",
+          "Georgiou Panagiota-Christina",
+          "Paranos Paschalis",
+          "Beredaki Maria-Ioanna",
+          "Tarpatzi Aikaterini"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Candidemia",
+          "Greece",
+          "Antifungal Agents",
+          "Drug Resistance, Fungal",
+          "COVID-19",
+          "Microbial Sensitivity Tests",
+          "Tertiary Care Centers",
+          "Fluconazole",
+          "SARS-CoV-2"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39027938/"
+      },
+      {
+        "pmid": "37990393",
+        "title": "Fluconazole-resistant Candida parapsilosis complex candidemia and analysis of mutations in the ERG11 gene from Pakistan.",
+        "abstract": "Recent reports of the emergence of fluconazole resistance in Candida parapsilosis species complex poses a challenge, more specifically in settings where echinocandin-based treatment regime is not feasible.",
+        "journal": "Mycoses",
+        "year": "2024",
+        "authors": [
+          "Zeeshan Mohammad",
+          "Memon Saba",
+          "Malick Ayesha",
+          "Naqvi Syed Faheem",
+          "Farooqi Joveria"
+        ],
+        "pub_types": [
+          "Observational Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Fluconazole",
+          "Candida parapsilosis",
+          "Candidemia",
+          "Pakistan",
+          "Antifungal Agents",
+          "Mutation",
+          "Microbial Sensitivity Tests",
+          "Drug Resistance, Fungal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37990393/"
+      },
+      {
+        "pmid": "24192246",
+        "title": "Candida and candidaemia. Susceptibility and epidemiology.",
+        "abstract": "In our part of the world invasive fungal infections include invasive yeast infections with Candida as the absolutely dominating pathogen and invasive mould infections with Aspergillus as the main organism. Yeasts are part of our normal micro-flora and invasive infections arise only when barrier leakage or impaired immune function occurs. On the contrary, moulds are ubiquitous in the nature and environment and their conidia inhaled at a daily basis. Hence invasive mould infections typically arise from the airways whereas invasive yeast infections typically enter the bloodstream causing fungaemia. Candida is by far the most common fungal blood stream pathogen; hence this genus has been the main focus of this thesis. As neither the Danish epidemiology nor the susceptibility of fungal pathogens was well described when we initiated our studies we initially wanted to be able to include animal models in our work. Therefore, a comprehensive animal study was undertaken comparing the virulence i",
+        "journal": "Danish medical journal",
+        "year": "2013",
+        "authors": [
+          "Arendrup Maiken Cavling"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Candida",
+          "Candidemia",
+          "Denmark",
+          "Echinocandins",
+          "Fluconazole",
+          "Humans",
+          "Incidence",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24192246/"
+      },
+      {
+        "pmid": "31197619",
+        "title": "The association between fluconazole dose and MIC with mortality and persistence in candidemia.",
+        "abstract": "To evaluate the association between fluconazole exposure parameters and clinical outcomes in patients with candidemia. We retrospectively included all adults with candidemia in a single center from January 2009 to December 2017, treated initially with fluconazole for fluconazole-susceptible candidemia. We assessed the association between fluconazole exposure parameters and 30-day mortality or 14-day clinical failure, a composite of mortality at day 14 or persistent candidemia ≥ 72 h, in all patients and in patients with C. glabrata candidemia. During the study period, 158 patients fulfilled the inclusion criteria. Main species were C. albicans 66 (41.8%), C. glabrata 35 (22.2%), and C. parapsilosis 31 (19.6%). Sixty patients (38%) died within 30 days. Sixty-one patients (38.6%) experienced 14-day failure. In 30-day survivors, the median AUC24/MIC was 2279 [398, 5989] versus 1764 [238, 6714] h in non-survivors, p = 0.75. Median fluconazole MIC was 0.75 [0.25, 4] and 1 [0.22, 5.50] mg/L,",
+        "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+        "year": "2019",
+        "authors": [
+          "Ghanem-Zoubi Nesrin",
+          "Qasum Majd",
+          "Khoury Johad",
+          "Zorbavel Danny",
+          "Arnon Merav"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Area Under Curve",
+          "Candida",
+          "Candida albicans",
+          "Candida glabrata",
+          "Candidemia",
+          "Drug Resistance, Fungal",
+          "Electronic Health Records"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31197619/"
+      },
+      {
+        "pmid": "36309674",
+        "title": "Cost-utility analysis of caspofungin and fluconazole for primary treatment of invasive candidiasis and candidemia in Ethiopia.",
+        "abstract": "Invasive candidiasis and/or candidemia (IC/C) is a common fungal infection leading to significant health and economic losses worldwide. Caspofungin was shown to be more effective than fluconazole in treating inpatients with IC/C. However, cost-effectiveness of caspofungin for treating IC/C in Ethiopia remains unknown. We aimed to assess the cost-utility of caspofungin compared to fluconazole-initiated therapies as primary treatment of IC/C in Ethiopia.",
+        "journal": "BMC health services research",
+        "year": "2022",
+        "authors": [
+          "Gebretekle Gebremedhin Beedemariam",
+          "Fentie Atalay Mulu",
+          "Gebremariam Girma Tekle",
+          "Ali Eskinder Eshetu",
+          "Erku Daniel Asfaw"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Caspofungin",
+          "Fluconazole",
+          "Candidemia",
+          "Cost-Benefit Analysis",
+          "Echinocandins",
+          "Ethiopia",
+          "Lipopeptides",
+          "Candidiasis, Invasive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36309674/"
+      },
+      {
+        "pmid": "36066554",
+        "title": "Determinants of fluconazole resistance and echinocandin tolerance in C. parapsilosis isolates causing a large clonal candidemia outbreak among COVID-19 patients in a Brazilian ICU.",
+        "abstract": "Patients presenting with severe COVID-19 are predisposed to acquire secondary fungal infections such as COVID-19-associated candidemia (CAC), which are associated with poor clinical outcomes despite antifungal treatment. The extreme burden imposed on clinical facilities during the COVID-19 pandemic has provided a permissive environment for the emergence of clonal outbreaks of multiple Candida species, including C. auris and C. parapsilosis. Here we report the largest clonal CAC outbreak to date caused by fluconazole resistant (FLZR) and echinocandin tolerant (ECT) C. parapsilosis. Sixty C. parapsilosis strains were obtained from 57 patients at a tertiary care hospital in Brazil, 90% of them were FLZR and ECT. Although only 35.8% of FLZR isolates contained an ERG11 mutation, all of them contained the TAC1L518F mutation and significantly overexpressed CDR1. Introduction of TAC1L518F into a susceptible background increased the MIC of fluconazole and voriconazole 8-fold and resulted in sig",
+        "journal": "Emerging microbes & infections",
+        "year": "2022",
+        "authors": [
+          "Daneshnia Farnaz",
+          "de Almeida Júnior João N",
+          "Arastehfar Amir",
+          "Lombardi Lisa",
+          "Shor Erika"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Brazil",
+          "COVID-19",
+          "Candida parapsilosis",
+          "Candidemia",
+          "Disease Outbreaks",
+          "Echinocandins",
+          "Fluconazole",
+          "Humans",
+          "Intensive Care Units"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36066554/"
+      },
+      {
+        "pmid": "36707288",
+        "title": "Comparison of amphotericin B lipid complex, deoxycholate amphotericin B, fluconazole, and anidulafungin activity against Candida albicans biofilm isolated from breakthrough candidemia.",
+        "abstract": "Biofilm formation causes virulence and resistance in Candida albicans. However, little is known about breakthrough candidemia isolates. We evaluated the antifungal activity of fluconazole, anidulafungin, deoxycholate amphotericin B (dAMB), and amphotericin B lipid complex (ABLC) against biofilms of C. albicans isolated from patients with breakthrough candidemia.",
+        "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
+        "year": "2023",
+        "authors": [
+          "Kraft Letícia",
+          "Ribeiro Victoria Stadler Tasca",
+          "Gonçalves Geiziane Aparecida",
+          "Suss Paula Hansen",
+          "Tuon Felipe Francisco"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Amphotericin B",
+          "Antifungal Agents",
+          "Anidulafungin",
+          "Fluconazole",
+          "Candida albicans",
+          "Candidemia",
+          "Candida",
+          "Biofilms",
+          "Deoxycholic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36707288/"
+      },
+      {
+        "pmid": "26104051",
+        "title": "Is Fluconazole or an Echinocandin the Agent of Choice for Candidemia.",
+        "abstract": "Candidemia is among the most common nosocomial bloodstream infections and is associated with high mortality, increased length of hospital stay, and significant economic burden. The introduction of the echinocandins in the 2000s has expanded the armamentarium against Candida spp and provides therapeutic options that are effective, safe, and tolerable. Although the Infectious Diseases Society of America favors echinocandins as treatment for candidemia in selected settings (at least as initial therapy), there remain divergent opinions about whether an echinocandin or fluconazole is the preferred agent for candidemia, and clinical practice guidelines are in flux. In this review, the currently available laboratory and clinical data are summarized and critically evaluated.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2015",
+        "authors": [
+          "Eschenauer Gregory A",
+          "Nguyen Minh-Hong",
+          "Clancy Cornelius J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antifungal Agents",
+          "Candida",
+          "Candidemia",
+          "Cost-Benefit Analysis",
+          "Cross Infection",
+          "Disease Management",
+          "Echinocandins",
+          "Fluconazole"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26104051/"
+      },
+      {
+        "pmid": "20513207",
+        "title": "Candidemia in children.",
+        "abstract": "Seriously ill or immunocompromised children are at increased risk of invasive fungal infections, particularly candidemia. Candida albicans and Candida parapsilosis are the two most frequent causes of candidemia in pediatric patients. Candidemia in children is associated with high morbidity and mortality, increased length of hospital stays, and higher healthcare costs. Early effective antifungal therapy is the key to improved outcomes. Risk factors for candidemia may be used to identify patients suitable for empiric therapy. Such risk factors include prolonged stay in an intensive care unit, immunosuppression, prior bacterial infection, and recent surgery, as well as the use of a central venous catheter, mechanical ventilation, and/or total parenteral nutrition. Recent guidelines from the Infectious Diseases Society of America recommend consideration of fluconazole or an echinocandin for empiric therapy in suitable candidates, with a preference for an echinocandin in patients with moder",
+        "journal": "Current medical research and opinion",
+        "year": "2010",
+        "authors": [
+          "Zaoutis Theoklis"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Child",
+          "Echinocandins",
+          "Fluconazole",
+          "Guidelines as Topic",
+          "Humans",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20513207/"
+      },
+      {
+        "pmid": "27189197",
+        "title": "Empirical and targeted therapy of candidemia with fluconazole versus echinocandins: a propensity score-derived analysis of a population-based, multicentre prospective cohort.",
+        "abstract": "We compared the clinical efficacy of fluconazole and echinocandins in the treatment of candidemia in real practice. The CANDIPOP study is a prospective, population-based cohort study on candidemia carried out between May 2010 and April 2011 in 29 Spanish hospitals. Using strict inclusion criteria, we separately compared the impact of empirical and targeted therapy with fluconazole or echinocandins on 30-day mortality. Cox regression, including a propensity score (PS) for receiving echinocandins, stratified analysis on the PS quartiles and PS-based matched analyses, were performed. The empirical and targeted therapy cohorts comprised 316 and 421 cases, respectively; 30-day mortality was 18.7% with fluconazole and 33.9% with echinocandins (p 0.02) in the empirical therapy group and 19.8% with fluconazole and 27.7% with echinocandins (p 0.06) in the targeted therapy group. Multivariate Cox regression analysis including PS showed that empirical therapy with fluconazole was associated with ",
+        "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+        "year": "2016",
+        "authors": [
+          "López-Cortés L E",
+          "Almirante B",
+          "Cuenca-Estrella M",
+          "Garnacho-Montero J",
+          "Padilla B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antifungal Agents",
+          "Candidemia",
+          "Comorbidity",
+          "Echinocandins",
+          "Female",
+          "Fluconazole",
+          "Humans",
+          "Kaplan-Meier Estimate",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27189197/"
+      },
+      {
+        "pmid": "31306235",
+        "title": "Malassezia furfur Emergence and Candidemia Trends in a Neonatal Intensive Care Unit During 10 Years: The Experience of Fluconazole Prophylaxis in a Single Hospital.",
+        "abstract": "Because Candida spp is a major cause of mortality and morbidity in preterm infants, fluconazole prophylaxis has been suggested by some experts and hospital policy. In our hospital, fluconazole prophylaxis was used in eligible preterm infants and set as the neonatal intensive care unit (NICU) practice in 2014.",
+        "journal": "Advances in neonatal care : official journal of the National Association of Neonatal Nurses",
+        "year": "2020",
+        "authors": [
+          "Chen I-Ting",
+          "Chen Chih-Cheng",
+          "Huang Hsin-Chun",
+          "Kuo Kuang-Che"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidemia",
+          "Female",
+          "Fluconazole",
+          "Forecasting",
+          "Fungemia",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Intensive Care Units, Neonatal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31306235/"
+      },
+      {
+        "pmid": "15530193",
+        "title": "Randomized comparison between fluconazole and itraconazole for the treatment of candidemia in a pediatric intensive care unit: a preliminary study.",
+        "abstract": "Candida bloodstream infections have shown an increase in hospitalized patients, especially those receiving intensive care. The effectiveness of various azoles, especially itraconazole, in treatment of candidemia has not been fully evaluated. Our objective was to compare the efficacy and safety of enterally administered itraconazole vs. fluconazole in treatment of candidemia.",
+        "journal": "Pediatric critical care medicine : a journal of the Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies",
+        "year": "2004",
+        "authors": [
+          "Mondal Rakesh K",
+          "Singhi Sunit C",
+          "Chakrabarti Arunaloke",
+          "M Jayashree"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candidiasis",
+          "Child",
+          "Child, Preschool",
+          "Cross Infection",
+          "Double-Blind Method",
+          "Female",
+          "Fluconazole",
+          "Fungemia",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15530193/"
+      },
+      {
+        "pmid": "37314581",
+        "title": "Study of Candidemia and its Antifungal Susceptibility Profile at the University Hospital of Montevideo, Uruguay.",
+        "abstract": "Systemic candidiasis are high mortality infections caused by yeasts of the genus Candida, affecting patients with numerous risk factors. Nowadays, candidemia produced by \"non-albicans\" species has increased considerably. Timely diagnosis and subsequent treatment substantially improve patients' survival. Our objectives are to study the frequency, distribution, and antifungal susceptibility profiles of candidemia isolates in our hospital. We conducted a descriptive, cross-sectional study. Positive blood cultures were recorded from January 2018 to December 2021. Positive Candida genus blood cultures were selected, classified, and analyzed on their susceptibility profile for amphotericin B, fluconazole and caspofungin using AST-YS08® card for VITEK 2 Compact® to determine minimum inhibitory concentration (MIC) and CLSI M60 2020 2nd Edition to determine breakpoints. 3862 positive blood cultures were obtained, 113 (2.93%) presented growth of Candida spp., corresponding to 58 patients. 55.2% ",
+        "journal": "Mycopathologia",
+        "year": "2023",
+        "authors": [
+          "Carbia Mauricio",
+          "Medina Vania",
+          "Bustillo Camila",
+          "Martínez Cecilia",
+          "González Maria Pía"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antifungal Agents",
+          "Candidemia",
+          "Fluconazole",
+          "Uruguay",
+          "Cross-Sectional Studies",
+          "Candida",
+          "Candida glabrata",
+          "Hospitals, University",
+          "Candida parapsilosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37314581/"
+      },
+      {
+        "pmid": "31681629",
+        "title": "The Epidemiology and Susceptibility of Candidemia in Jerusalem, Israel.",
+        "abstract": "Objectives: Invasive Candida infections pose a major public health problem worldwide and is a major cause of nosocomial bloodstream infection. Our aim was to assess dynamics in incidence, species distribution and antifungal susceptibility of candidemia episodes in Jerusalem, to better understand the epidemiology of invasive isolates and to better direct therapy. Methods: We analyzed the incidence dynamics, species distribution and susceptibility pattern of 899 candidemia episodes during 2005-2016 in Jerusalem. Results: The overall incidence of candidemia was relatively low of 0.62 per 1,000 admissions. Candida albicans was the leading pathogen (39.4%); however, there was a shift toward non-albicans species, with Candida glabrata predominating among them (40%). As expected, more than one-third of candidemias occurred in intensive care units. However, the distribution between species varied and Candida tropicalis was the leading pathogen in hematology-oncology patients. The susceptibilit",
+        "journal": "Frontiers in cellular and infection microbiology",
+        "year": "2019",
+        "authors": [
+          "Israel Sarah",
+          "Amit Sharon",
+          "Israel Ariel",
+          "Livneh Ayalah",
+          "Nir-Paz Ran"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candida",
+          "Candidemia",
+          "Cross Infection",
+          "Disease Susceptibility",
+          "Drug Resistance, Fungal",
+          "Humans",
+          "Incidence",
+          "Israel",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31681629/"
+      },
+      {
+        "pmid": "21029444",
+        "title": "Secular trend in candidemia and the use of fluconazole in Finland, 2004-2007.",
+        "abstract": "In a previous study we observed an increasing trend in candidemia in Finland in the 1990s. Our aim was now to investigate further population-based secular trends, as well as outcome, and evaluate the association of fluconazole consumption and prophylaxis policy with the observed findings.",
+        "journal": "BMC infectious diseases",
+        "year": "2010",
+        "authors": [
+          "Poikonen Eira",
+          "Lyytikäinen Outi",
+          "Anttila Veli-Jukka",
+          "Koivula Irma",
+          "Lumio Jukka"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antifungal Agents",
+          "Candida",
+          "Candidiasis",
+          "Chemoprevention",
+          "Child",
+          "Child, Preschool"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21029444/"
+      },
+      {
+        "pmid": "27750452",
+        "title": "Epidemiology of candidemia and antifungal susceptibility in invasive Candida species in the Asia-Pacific region.",
+        "abstract": "In the Asia-Pacific region, Candida albicans is the predominant Candida species causing invasive candidiasis/candidemia in Australia, Japan, Korea, Hong Kong, Malaysia, Singapore and Thailand whereas C. tropicalis is the most frequently encountered Candida species in Pakistan and India. Invasive isolates of C. albicans, C. parapsilosis complex and C. tropicalis remain highly susceptible to fluconazole (>90% susceptible). Fluconazole resistance (6.8-15%), isolates with the non-wild-type phenotype for itraconazole susceptibility (3.9-10%) and voriconazole (5-17.8%), and echinocandin resistance (2.1-2.2% in anidulafungin and 2.2% in micafungin) among invasive C. glabrata complex isolates are increasing in prevalence. Moreover, not all isolates of C. tropicalis have been shown to be susceptible to fluconazole (nonsusceptible rate, 5.7-11.6% in China) or voriconazole (nonsusceptible rate, 5.7-9.6% in China).",
+        "journal": "Future microbiology",
+        "year": "2016",
+        "authors": [
+          "Wang He",
+          "Xu Ying-Chun",
+          "Hsueh Po-Ren"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anidulafungin",
+          "Antifungal Agents",
+          "Asia",
+          "Azoles",
+          "Candida",
+          "Candida albicans",
+          "Candida glabrata",
+          "Candida tropicalis",
+          "Candidemia",
+          "Candidiasis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27750452/"
+      },
+      {
+        "pmid": "30281546",
+        "title": "Pediatric Candidemia Epidemiology and Morbidities: A Nationwide Cohort.",
+        "abstract": "Candidemia is the most frequent pediatric fungal infection, but incompletely elucidated in population-based settings. We performed a nationwide cohort study including all pediatric patients with candidemia in Denmark from 2004 to 2014 to determine age, incidence, species distribution, underlying diseases, patient management and outcomes.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2019",
+        "authors": [
+          "Lausch Karen Rokkedal",
+          "Schultz Dungu Kia Hee",
+          "Callesen Michael Thude",
+          "Schrøder Henrik",
+          "Rosthøj Steen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Antifungal Agents",
+          "Candida",
+          "Candidemia",
+          "Child",
+          "Child, Preschool",
+          "Cohort Studies",
+          "Denmark",
+          "Disease Management"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30281546/"
+      },
+      {
+        "pmid": "33941745",
+        "title": "Spectrum and Antifungal Resistance of Candidemia in Neonates With Early- and Late-Onset Sepsis in Pakistan.",
+        "abstract": "Neonatal candidemia leads to high morbidity and mortality in developing countries. We studied the trends, spectrum and antifungal resistance in neonatal candidemia isolates from the year 2014 to 2019.",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "2021",
+        "authors": [
+          "Rattani Salima",
+          "Farooqi Joveria",
+          "Hussain Ali Shabbir",
+          "Jabeen Kauser"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Antifungal Agents",
+          "Candida",
+          "Candidemia",
+          "Cross-Sectional Studies",
+          "Drug Resistance, Fungal",
+          "Female",
+          "Gestational Age",
+          "Humans",
+          "Infant, Newborn",
+          "Late Onset Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33941745/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:16:36.891078",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,547 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lamotrigine",
+    "disease": "Lennox-Gastaut syndrome",
+    "query_string": "Lamotrigine AND Lennox-Gastaut syndrome"
+  },
+  "data": {
+    "query": "Lamotrigine AND Lennox-Gastaut syndrome",
+    "results": [
+      {
+        "pmid": "29124439",
+        "title": "Lennox-Gastaut syndrome: a comprehensive review.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is considered an epileptic encephalopathy and is defined by a triad of multiple drug-resistant seizure types, a specific EEG pattern showing bursts of slow spike-wave complexes or generalized paroxysmal fast activity, and intellectual disability. The prevalence of LGS is estimated between 1 and 2% of all patients with epilepsy. The etiology of LGS is often divided into two groups: identifiable (genetic-structural-metabolic) in 65 to 75% of the patients and LGS of unknown cause in others. Lennox-Gastaut syndrome may be considered as secondary network epilepsy. The seizures in LGS are usually drug-resistant, and complete seizure control with resolution of intellectual and psychosocial dysfunction is often not achievable. Reduction in frequency of the most incapacitating seizures (e.g., drop attacks and tonic-clonic seizures) should be the major objective. Valproate, lamotrigine, and topiramate are considered to be the first-line drugs by many experts. Other ",
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "year": "2018",
+        "authors": [
+          "Asadi-Pooya Ali A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lennox Gastaut Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29124439/"
+      },
+      {
+        "pmid": "39700524",
+        "title": "Refining management strategies for Lennox-Gastaut syndrome: Updated algorithms and practical approaches.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe developmental and epileptic encephalopathy (DEE) characterized by multiple types of drug-resistant seizures (which must include tonic seizures) with classical onset before 8 years (although some cases with later onset have also been described), abnormal electroencephalographic features, and cognitive and behavioral impairments. Management and treatment of LGS are challenging, due to associated comorbidities and the treatment resistance of seizures. A panel of five epileptologists reconvened to provide updated guidance and treatment algorithms for LGS, incorporating recent advancements in antiseizure medications (ASMs) and understanding of DEEs. The resulting consensus document is based on current evidence from clinical trials and clinical practice and the panel's expert opinion, focusing on new ASMs with novel mechanisms of action, such as highly purified cannabidiol and fenfluramine. For a patient presenting with newly diagnosed LGS or suspect",
+        "journal": "Epilepsia open",
+        "year": "2025",
+        "authors": [
+          "Auvin Stéphane",
+          "Arzimanoglou Alexis",
+          "Falip Mercè",
+          "Striano Pasquale",
+          "Cross J Helen"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Algorithms",
+          "Anticonvulsants",
+          "Disease Management",
+          "Lennox Gastaut Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39700524/"
+      },
+      {
+        "pmid": "33479851",
+        "title": "Expanding the Treatment Landscape for Lennox-Gastaut Syndrome: Current and Future Strategies.",
+        "abstract": "Lennox-Gastaut syndrome (LGS), a childhood-onset severe developmental and epileptic encephalopathy (DEE), is an entity that encompasses a heterogenous group of aetiologies, with no single genetic cause. It is characterised by multiple seizure types, an abnormal EEG with generalised slow spike and wave discharges and cognitive impairment, associated with high morbidity and profound effects on the quality of life of patients and their families. Drug-refractory seizures are a hallmark and treatment is further complicated by its multiple morbidities, which evolve over the patient's lifetime. This review provides a comprehensive overview of the current and future options for the treatment of seizures associated with LGS. Six treatments are specifically indicated as adjunct therapies for the treatment of seizures associated with LGS in the US: lamotrigine, clobazam, rufinamide, topiramate, felbamate and most recently cannabidiol. These therapies have demonstrated reductions in drop seizures ",
+        "journal": "CNS drugs",
+        "year": "2021",
+        "authors": [
+          "Strzelczyk Adam",
+          "Schubert-Bast Susanne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anticonvulsants",
+          "Child",
+          "Diet, Ketogenic",
+          "Drug Development",
+          "Electroencephalography",
+          "Humans",
+          "Lennox Gastaut Syndrome",
+          "Off-Label Use",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33479851/"
+      },
+      {
+        "pmid": "32563898",
+        "title": "Expert opinion: Proposed diagnostic and treatment algorithms for Lennox-Gastaut syndrome in adult patients.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe developmental epileptic encephalopathy diagnosed in childhood that persists through adolescence and into adulthood. While the characteristics of LGS in pediatric patients are well defined, including \"drop attacks\", interictal slow spike and wave electroencephalogram (EEG) activity, and intellectual disability, these features can evolve over time, and different EEG activities may be present in adult patients with LGS. This may result in missed diagnoses in these patients and subsequent challenges for the adequate treatment of their seizures. Based on discussions held during the LGS Transition of Care advisory board meeting and thereafter, we developed proposed diagnostic and treatment algorithms for LGS in adult patients. We highlight readily available assessments to facilitate diagnosis of LGS, based on past medical history and physical examination. The LGS diagnostic algorithm recommends that clinicians consider the occurrence of wider seizure",
+        "journal": "Epilepsy & behavior : E&B",
+        "year": "2020",
+        "authors": [
+          "Montouris Georgia",
+          "Aboumatar Sami",
+          "Burdette David",
+          "Kothare Sanjeev",
+          "Kuzniecky Ruben"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Algorithms",
+          "Anticonvulsants",
+          "Clinical Trials as Topic",
+          "Clobazam",
+          "Electroencephalography",
+          "Humans",
+          "Intellectual Disability",
+          "Lennox Gastaut Syndrome",
+          "Sleep",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32563898/"
+      },
+      {
+        "pmid": "39854828",
+        "title": "Antiseizure medications for Lennox-Gastaut Syndrome: Comprehensive review and proposed consensus treatment algorithm.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe, childhood-onset developmental and epileptic encephalopathy characterized by multiple drug-resistant seizure types, specific electroencephalogram (EEG) patterns, and significant cognitive and behavioral impairments. To date, eight anti-seizure medications (ASMs) have been specifically approved by the U.S. Food and Drug Administration (FDA) for the treatment of LGS: clonazepam, felbamate, lamotrigine, topiramate, rufinamide, clobazam, cannabidiol, and fenfluramine. Additionally, several other ASMs, including valproate, are frequently used off-label for LGS management. As the therapeutic landscape for LGS expands, clinicians are increasingly faced with complex decisions regarding optimal ASM selection. This narrative review explores evolving treatment strategies, offering a consensus-based treatment algorithm designed by a panel of U.S.- based experts. We analyze both FDA-approved and off-label ASMs, drawing on data from randomized controlled tri",
+        "journal": "Epilepsy & behavior : E&B",
+        "year": "2025",
+        "authors": [
+          "Samanta Debopam",
+          "Bhalla Sonam",
+          "Bhatia Sonal",
+          "Fine Anthony L",
+          "Haridas Babitha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lennox Gastaut Syndrome",
+          "Anticonvulsants",
+          "Algorithms",
+          "Consensus"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39854828/"
+      },
+      {
+        "pmid": "32409177",
+        "title": "Lennox-Gastaut syndrome: New treatments and treatments under investigation.",
+        "abstract": "There are currently five compounds (clobazam, felbamate, lamotrigine, topiramate, rufinamide) available for prescription with a demonstrated efficacy on drop seizures for Lennox-Gastaut syndrome (LGS). There are also currently new and under-investigation compounds. This paper gives an overview on these novel developments for LGS based on the lecture given at the French Chapter meeting of the International League Against Epilepsy (ILAE) held in Paris in October 2019. Five compounds were discussed. Epidiolex (cannabidiol) has been approved recently based on positive randomized control trials in LGS patients. Four drugs are under investigation according to a search on the 'clinicaltrials.gov' database. Perampanel and fenfluramine are both being studied in ongoing phase 3 studies. Two compounds are in an earlier stage of development with ongoing phase 1 and 2 studies: carisbamate and OV953. We summarized the publicly available data. Based on these drug development programs, we can expect t",
+        "journal": "Revue neurologique",
+        "year": "2020",
+        "authors": [
+          "Auvin S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Cannabidiol",
+          "Drug Development",
+          "Drugs, Investigational",
+          "Fenfluramine",
+          "Humans",
+          "Lennox Gastaut Syndrome",
+          "Nitriles",
+          "Pyridones",
+          "Therapies, Investigational"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32409177/"
+      },
+      {
+        "pmid": "40468679",
+        "title": "Current and emerging pharmacotherapies in Lennox-Gastaut syndrome.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe childhood-onset developmental and epileptic encephalopathy characterized by multiple drug-resistant seizures, cognitive impairments, and distinctive EEG patterns. Given its profound impact on patients' quality of life, developing effective pharmacotherapies remains a critical clinical challenge.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2025",
+        "authors": [
+          "Samanta Debopam",
+          "Nath Manan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lennox Gastaut Syndrome",
+          "Anticonvulsants",
+          "Quality of Life",
+          "Precision Medicine",
+          "Animals",
+          "Drug Development",
+          "Randomized Controlled Trials as Topic",
+          "Off-Label Use"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40468679/"
+      },
+      {
+        "pmid": "37212330",
+        "title": "Current and emerging pharmacotherapy for the treatment of Lennox-Gastaut syndrome.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe childhood-onset epileptic encephalopathy, characterized by multiple seizure types, generalized slow spike-and-wave complexes in the EEG, and cognitive impairment. Seizures in LGS are typically resistant to treatment with antiseizure medications (ASMs). Tonic/atonic ('drop') seizures are of particular concern, due to their liability to cause physical injury.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2023",
+        "authors": [
+          "Besag Frank M C",
+          "Vasey Michael J",
+          "Chin Richard F M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Lennox Gastaut Syndrome",
+          "Clobazam",
+          "Topiramate",
+          "Quality of Life",
+          "Anticonvulsants",
+          "Seizures",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37212330/"
+      },
+      {
+        "pmid": "21233883",
+        "title": "[Lennox-Gastaut syndrome--course and treatment].",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe epileptic encephalopathy, which starts in childhood with various seizure types. The children develop cognitive impairment and a typical EEG pattern. The aim of this article is to describe the clinical presentation of LGS, with particular emphasis on the course in adulthood.",
+        "journal": "Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke",
+        "year": "2011",
+        "authors": [
+          "Lund Caroline",
+          "Brodtkorb Eylert",
+          "Nakken Karl O"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Diagnosis, Differential",
+          "Electroencephalography",
+          "Humans",
+          "Intellectual Disability",
+          "Lennox Gastaut Syndrome",
+          "Prognosis",
+          "Quality of Life",
+          "Spasms, Infantile"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21233883/"
+      },
+      {
+        "pmid": "28461749",
+        "title": "Treatment-resistant Lennox-Gastaut syndrome: therapeutic trends, challenges and future directions.",
+        "abstract": "Lennox-Gastaut syndrome is a severe, childhood-onset electroclinical syndrome comprised of multiple seizure types, intellectual and behavioral disturbances and characteristic findings on electroencephalogram of slow spike and wave complexes and paroxysmal fast frequency activity. Profound morbidity often accompanies a common and severe seizure type, the drop attack. Seizures often remain refractory, or initial treatment efficacy fades. Few individuals are seizure free despite the development of multiple generations of antiseizure medications over decades and high-level evidence on several choices. Approved medications such as lamotrigine, topiramate, rufinamide, felbamate and clobazam have demonstrated efficacy in reducing seizure burden. Cannabidiol has emerged as a promising investigational therapy with vast social interest yet lacks a standard, approved formulation. Palliative surgical procedures, such as vagal nerve stimulation and corpus callosotomy may provide reduction in total ",
+        "journal": "Neuropsychiatric disease and treatment",
+        "year": "2017",
+        "authors": [
+          "Ostendorf Adam P",
+          "Ng Yu-Tze"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28461749/"
+      },
+      {
+        "pmid": "36194365",
+        "title": "Psychobehavioural and Cognitive Adverse Events of Anti-Seizure Medications for the Treatment of Developmental and Epileptic Encephalopathies.",
+        "abstract": "The developmental and epileptic encephalopathies encompass a group of rare syndromes characterised by severe drug-resistant epilepsy with onset in childhood and significant neurodevelopmental comorbidities. The latter include intellectual disability, developmental delay, behavioural problems including attention-deficit hyperactivity disorder and autism spectrum disorder, psychiatric problems including anxiety and depression, speech impairment and sleep problems. Classical examples of developmental and epileptic encephalopathies include Dravet syndrome, Lennox-Gastaut syndrome and tuberous sclerosis complex. The mainstay of treatment is with multiple anti-seizure medications (ASMs); however, the ASMs themselves can be associated with psychobehavioural adverse events, and effects (negative or positive) on cognition and sleep. We have performed a targeted literature review of ASMs commonly used in the treatment of developmental and epileptic encephalopathies to discuss the latest evidence",
+        "journal": "CNS drugs",
+        "year": "2022",
+        "authors": [
+          "Strzelczyk Adam",
+          "Schubert-Bast Susanne"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Autism Spectrum Disorder",
+          "Bromides",
+          "Cannabidiol",
+          "Clobazam",
+          "Cognition",
+          "Ethosuximide",
+          "Everolimus",
+          "Felbamate",
+          "Fenfluramine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36194365/"
+      },
+      {
+        "pmid": "30391662",
+        "title": "The pharmacological management of Lennox-Gastaut syndrome and critical literature review.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe epileptic encephalopathy with a prevalence of 1-2% of all patients with epilepsy. It is characterized by multiple pharmaco-resistant seizure types, including tonic, atypical absences and tonic or atonic drop attacks, and the presence of electroencephalographic abnormalities, such as slow-spike waves and paroxysmal fast rhythms. Intellectual disability, behavioural and psychiatric disorders are common comorbidities; these disturbances have a multi-factorial pathogenesis. The selection of the most appropriate drug must be tailored to each patient and guided by the prevalent seizure type. In this paper available pharmacological options are discussed and for each pharmacological agent, current evidence of efficacy and tolerability is provided. Valproic acid represents one of the first-line options in the treatment of LGS. Anyway, other antiepileptic drugs (AEDs) may be considered and added: lamotrigine, rufinamide, topiramate, clobazam can be effic",
+        "journal": "Seizure",
+        "year": "2018",
+        "authors": [
+          "Verrotti Alberto",
+          "Striano Pasquale",
+          "Iapadre Giulia",
+          "Zagaroli Luca",
+          "Bonanni Paolo"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Humans",
+          "Lennox Gastaut Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30391662/"
+      },
+      {
+        "pmid": "23450537",
+        "title": "Treatment of Lennox-Gastaut syndrome.",
+        "abstract": "The Lennox-Gastaut syndrome (LGS) is an age-specific disorder, characterised by epileptic seizures, a characteristic electroencephalogram (EEG), psychomotor delay and behavioural disorder. It occurs more frequently in males and onset is usually before the age of eight years, with a peak between three and five years of age. Late cases occurring in adolescence and early adulthood have rarely been reported. Language is frequently affected, with both slowness in ideation and expression in addition to difficulties of motor dysfunction. Severe behavioural disorders (e.g. hyperactivity, aggressiveness and autistic tendencies) and personality disorders are nearly always present. There is also a tendency for psychosis to develop with time. The long-term prognosis is poor; although the epilepsy often improves, complete seizure freedom is rare and conversely the mental and psychiatric disorders tend to worsen with time.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2013",
+        "authors": [
+          "Hancock Eleanor C",
+          "Cross J Helen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Age of Onset",
+          "Anticonvulsants",
+          "Child",
+          "Electroencephalography",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Intellectual Disability",
+          "Lennox Gastaut Syndrome",
+          "Male",
+          "Personality Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23450537/"
+      },
+      {
+        "pmid": "19588340",
+        "title": "Treatment of Lennox-Gastaut syndrome.",
+        "abstract": "The Lennox-Gastaut syndrome is an age-specific disorder, characterised by epileptic seizures, a characteristic electroencephalogram (EEG), psychomotor delay and behaviour disorders. It occurs more frequently in males and onset is usually before the age of eight, with a peak between three and five years. Late cases occurring in adolescence and early adulthood have rarely been reported. Language is frequently affected, with both slowness in ideation and expression in addition to difficulties of motor dysfunction. Severe behavioural disorders (for example hyperactivity, aggressiveness and autistic tendencies) and personality disorders are nearly always present. There is also a tendency for psychosis to develop with time. The long-term prognosis is poor; although the epilepsy often improves, complete seizure freedom is rare and conversely the mental and psychiatric disorders tend to worsen with time.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2009",
+        "authors": [
+          "Hancock Eleanor C",
+          "Cross Helen H J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Age of Onset",
+          "Anticonvulsants",
+          "Child",
+          "Developmental Disabilities",
+          "Electroencephalography",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Male",
+          "Personality Disorders",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19588340/"
+      },
+      {
+        "pmid": "12917958",
+        "title": "Treatment of Lennox-Gastaut syndrome.",
+        "abstract": "The Lennox-Gastaut syndrome is an age-specific disorder, characterised by epileptic seizures, a characteristic electroencephalogram (EEG), psychomotor delay and personality disorders. It occurs more frequently in males and onset is usually before the age of eight with a peak between three and five years. Late cases occurring in adolescence and early adulthood have rarely been reported. Language is frequently affected with both slowness in ideation and expression in addition to difficulties of motor dysfunction. Severe behavioural disorders (for example hyperactivity, aggressiveness and autistic tendencies)and personality disorders are nearly always present. There is also a tendency for psychosis to develop with time. The long-term prognosis is poor; although the epilepsy often improves, complete seizure freedom is rare and conversely the mental and psychiatric disorders tend to worsen with time.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2003",
+        "authors": [
+          "Hancock E",
+          "Cross H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Age of Onset",
+          "Anticonvulsants",
+          "Child",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Male",
+          "Personality Disorders",
+          "Randomized Controlled Trials as Topic",
+          "Seizures",
+          "Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12917958/"
+      },
+      {
+        "pmid": "34590711",
+        "title": "Efficacy and safety of antiseizure medication for Lennox-Gastaut syndrome: a systematic review and network meta-analysis.",
+        "abstract": "To compare and rank the efficacy and safety of antiseizure medication (ASM) in patients with Lennox-Gastaut syndrome (LGS).",
+        "journal": "Developmental medicine and child neurology",
+        "year": "2022",
+        "authors": [
+          "Zhang Lanlan",
+          "Wang Juan",
+          "Wang Chengzhong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Cannabidiol",
+          "Child",
+          "Humans",
+          "Lennox Gastaut Syndrome",
+          "Outcome Assessment, Health Care",
+          "Randomized Controlled Trials as Topic",
+          "Triazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34590711/"
+      },
+      {
+        "pmid": "9429127",
+        "title": "Use of lamotrigine in Lennox-Gastaut and related epilepsy syndromes.",
+        "abstract": "Lennox-Gastaut syndrome a combination of various generalized seizures including atypical absences and tonic seizures with generalized slow spike waves and mental deterioration, is often difficult to distinguish from a subgroup of myoclonic-astatic epilepsy, other generalized epilepsy syndromes, and various symptomatic generalized epilepsies. Conventional antiepileptic medication is poorly effective in this condition, particularly because various types of seizures respond differently to each given drug. Lamotrigine is effective in the various types of generalized seizures and efficacy has been demonstrated in Lennox-Gastaut syndrome. Given the potential of major mental deterioration within a matter of months in this condition, and the need of slow dose escalation in order to prevent skin rash, lamotrigine should be administered as soon as the diagnosis of Lennox-Gastaut syndrome is suspected. In addition, there is growing evidence that lamotrigine is also most useful in the subgroup of ",
+        "journal": "Journal of child neurology",
+        "year": "1997",
+        "authors": [
+          "Dulac O",
+          "Kaminska A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Child",
+          "Diagnosis, Differential",
+          "Epilepsy",
+          "Epilepsy, Generalized",
+          "Humans",
+          "Lamotrigine",
+          "Seizures",
+          "Syndrome",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9429127/"
+      },
+      {
+        "pmid": "40409093",
+        "title": "Seizure-type-specific treatment responses in Lennox-Gastaut Syndrome: A comprehensive review of pharmacological, neuromodulatory, dietary, and surgical therapies.",
+        "abstract": "Lennox-Gastaut Syndrome (LGS) is a severe developmental and epileptic encephalopathy characterized by multiple drug-resistant seizure types, presenting significant challenges for treatment. This comprehensive review examines seizure-type-specific response patterns to various therapeutic interventions in LGS. We conducted an extensive literature review of randomized controlled trials, observational studies, and real-world evidence, covering research up to February 2025. Our analysis shows that atonic seizures respond particularly well to corpus callosotomy (CC) and Vagus Nerve Stimulation (VNS), with CC demonstrating superior efficacy. Generalized tonic-clonic seizures (GTCS) show favorable responses to antiseizure medications (ASMs) such as felbamate, lamotrigine, topiramate, fenfluramine, lacosamide, and perampanel. Myoclonic seizures tend to respond better to clonazepam, topiramate, zonisamide, brivaracetam, and perampanel, but may show limited responsiveness to neuromodulation and C",
+        "journal": "Epilepsy & behavior : E&B",
+        "year": "2025",
+        "authors": [
+          "Samanta Debopam",
+          "Naik Sunil"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lennox Gastaut Syndrome",
+          "Anticonvulsants",
+          "Vagus Nerve Stimulation",
+          "Seizures"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40409093/"
+      },
+      {
+        "pmid": "33825230",
+        "title": "Anti-seizure medications for Lennox-Gastaut syndrome.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is an age-specific epilepsy syndrome characterised by multiple seizure types, including drop seizures. LGS has a characteristic electroencephalogram, an onset before age eight years and an association with drug resistance. This is an updated version of the Cochrane Review published in 2013.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2021",
+        "authors": [
+          "Brigo Francesco",
+          "Jones Katherine",
+          "Eltze Christin",
+          "Matricardi Sara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Age of Onset",
+          "Anticonvulsants",
+          "Cannabidiol",
+          "Child",
+          "Child, Preschool",
+          "Cinnamates",
+          "Clobazam",
+          "Electroencephalography"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33825230/"
+      },
+      {
+        "pmid": "39854829",
+        "title": "Cognitive and behavioral impact of antiseizure medications, neuromodulation, ketogenic diet, and surgery in Lennox-Gastaut syndrome: A comprehensive review.",
+        "abstract": "Lennox-Gastaut syndrome (LGS) is a severe developmental and epileptic encephalopathy marked by drug-resistant seizures and profound cognitive and behavioral impairments, with nearly 95% of individuals affected by moderate to severe intellectual disability. This review comprehensively explores the cognitive and behavioral impacts of current treatment options for LGS, including antiseizure medications (ASMs), neuromodulation strategies, the ketogenic diet, and surgical interventions. Given the limited availability of LGS-specific data for several ASMs, the evidence base is supplemented with findings from general epilepsy populations and individuals with epilepsy and intellectual disabilities. The evidence reveals that ASMs exert varied cognitive and behavioral effects in LGS. Medications such as valproate, lamotrigine, cannabidiol, fenfluramine, levetiracetam, brivaracetam, felbamate, and rufinamide generally support cognitive stability, while topiramate and zonisamide are associated wit",
+        "journal": "Epilepsy & behavior : E&B",
+        "year": "2025",
+        "authors": [
+          "Samanta Debopam"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anticonvulsants",
+          "Lennox Gastaut Syndrome",
+          "Diet, Ketogenic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39854829/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:03:51.973606",
+  "success": true,
+  "error_message": null
+}

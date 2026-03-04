@@ -6,7 +6,7 @@ drug_name: "Docetaxel"
 kg_predictions: 70
 dl_predictions: 610
 evidence_level: "L1"
-indication_count: 70
+indication_count: 5
 brands: []
 permalink: /drugs/docetaxel/
 ---

@@ -6,7 +6,7 @@ drug_name: "Azacitidine"
 kg_predictions: 204
 dl_predictions: 0
 evidence_level: "L1"
-indication_count: 204
+indication_count: 5
 brands: []
 permalink: /drugs/azacitidine/
 ---

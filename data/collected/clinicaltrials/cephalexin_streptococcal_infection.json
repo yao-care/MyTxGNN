@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Cephalexin",
+    "disease": "streptococcal infection"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02297815",
+      "title": "Comparative Effectiveness of Broad vs. Narrow Spectrum Antibiotics for Acute Respiratory Tract Infections in Children",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2014-01",
+      "completion_date": "2016-04",
+      "country": "United States",
+      "enrollment": 2472,
+      "brief_summary": "The purpose of this study is to identify and use patient centered outcomes to compare narrow-spectrum and broad-spectrum antibiotics for the treatment of common acute respiratory tract infections (ARTIs) in children.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nWe included children between six months and 12 years old, diagnosed with an ARTI (acute otitis media, acute sinusitis, Group A streptococcal \\[GAS\\] pharyngitis) using International Classification of Diseases diagnosis codes and prescribed an antibiotic. For GAS pharyngitis, the",
+      "endpoints": [
+        "Health Related Quality of Life Score"
+      ],
+      "sponsor": "Children's Hospital of Philadelphia",
+      "url": "https://clinicaltrials.gov/study/NCT02297815"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01561703",
+      "title": "Postoperative Healthcare Utilization in Adenotonsillectomy Patients With Postoperative Antibiotic Administration Compared to Patients Without Antibiotic Administration",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2012-03",
+      "completion_date": "2015-06",
+      "country": "United States",
+      "enrollment": 58,
+      "brief_summary": "This study is designed to look at healthcare utilization following the removal of tonsils and adenoids in pediatric patients who are not given an antibiotic following surgery.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are candidates for Adenotonsillectomy or Tonsillectomy only (AT/T).\n* Patient age 18 years or younger(if patient not 18 years, then parent/guardian will be the participant and must also meet inclusion criteria #3).\n* English as the primary language.\n\nExclusion Cri",
+      "endpoints": [
+        "Healthcare Utilization"
+      ],
+      "sponsor": "University of Missouri-Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01561703"
+    }
+  ],
+  "timestamp": "2026-03-04T16:58:17.202578",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,564 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": "endometriosis",
+    "query_string": "Medroxyprogesterone Acetate AND endometriosis"
+  },
+  "data": {
+    "query": "Medroxyprogesterone Acetate AND endometriosis",
+    "results": [
+      {
+        "pmid": "36279764",
+        "title": "Hormonal drugs for the treatment of endometriosis.",
+        "abstract": "In the past, the primary approach for the treatment of endometriosis was represented by surgery; however, after the introduction of non-invasive diagnosis of endometriosis with the development of imaging technologies, medical treatment became the preferred approach, particularly in young patients. Hormonal drugs, by blocking menstruation, are the most effective for the treatment of endometriosis-related pain, independently of phenotype (ovarian, deep, or superficial endometriosis). Gonadotropin-releasing hormone analogs and oral antagonists act on hypothalamus-pituitary-ovary axis inducing iatrogenic menopause, thus reducing dysmenorrhea and all pain symptoms. The side effects, such as hot flushes and bone loss, may be reduced by an add-back therapy. However, the cost in terms of women's health remains high in view of a long-term treatment. Progestins are considered the first-line treatment, highly effective, and with reduced side effects. In addition to the well-known and largely used",
+        "journal": "Current opinion in pharmacology",
+        "year": "2022",
+        "authors": [
+          "Capezzuoli Tommaso",
+          "Rossi Margherita",
+          "La Torre Francesco",
+          "Vannuccini Silvia",
+          "Petraglia Felice"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Gonadotropin-Releasing Hormone",
+          "Progestins",
+          "Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36279764/"
+      },
+      {
+        "pmid": "2934522",
+        "title": "Endometriosis.",
+        "abstract": "Endometriosis is a common disease associated with pelvic pain and infertility. The etiology and physiology are poorly understood, often frustrating clinicians and patient. Treatment may be medical or surgical, or a combination of these. Nursing care involves education of couples about endometriosis and its physical and psychological implications.",
+        "journal": "Journal of obstetric, gynecologic, and neonatal nursing : JOGNN",
+        "year": "1985",
+        "authors": [
+          "Garner C H",
+          "Webster B W"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Abortion, Spontaneous",
+          "Adult",
+          "Danazol",
+          "Diagnosis, Differential",
+          "Diethylstilbestrol",
+          "Dinoprost",
+          "Endometriosis",
+          "Endometrium",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2934522/"
+      },
+      {
+        "pmid": "38749550",
+        "title": "Long acting progestogens versus combined oral contraceptive pill for preventing recurrence of endometriosis related pain: the PRE-EMPT pragmatic, parallel group, open label, randomised controlled trial.",
+        "abstract": "To evaluate the clinical effectiveness of long acting progestogens compared with the combined oral contraceptive pill in preventing recurrence of endometriosis related pain.",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "2024",
+        "authors": [
+          "Cooper Kevin G",
+          "Bhattacharya Siladitya",
+          "Daniels Jane P",
+          "Horne Andrew W",
+          "Clark T Justin"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Pragmatic Clinical Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Young Adult",
+          "Contraceptives, Oral, Combined",
+          "Endometriosis",
+          "Intrauterine Devices, Medicated",
+          "Levonorgestrel",
+          "Medroxyprogesterone Acetate",
+          "Pain Measurement"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38749550/"
+      },
+      {
+        "pmid": "15686299",
+        "title": "Dysmenorrhea.",
+        "abstract": "Dysmenorrhea is the leading cause of recurrent short-term school absence in adolescent girls and a common problem in women of reproductive age. Risk factors for dysmenorrhea include nulliparity, heavy menstrual flow, smoking, and depression. Empiric therapy can be initiated based on a typical history of painful menses and a negative physical examination. Nonsteroidal anti-inflammatory drugs are the initial therapy of choice in patients with presumptive primary dysmenorrhea. Oral contraceptives and depo-medroxyprogesterone acetate also may be considered. If pain relief is insufficient, prolonged-cycle oral contraceptives or intravaginal use of oral contraceptive pills can be considered. In women who do not desire hormonal contraception, there is some evidence of benefit with the use of topical heat; the Japanese herbal remedy toki-shakuyaku-san; thiamine, vitamin E, and fish oil supplements; a low-fat vegetarian diet; and acupressure. If dysmenorrhea remains uncontrolled with any of the",
+        "journal": "American family physician",
+        "year": "2005",
+        "authors": [
+          "French Linda"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Complementary Therapies",
+          "Contraceptive Agents, Female",
+          "Dysmenorrhea",
+          "Endometriosis",
+          "Female",
+          "Humans",
+          "Life Style",
+          "Risk Factors",
+          "Vasopressins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15686299/"
+      },
+      {
+        "pmid": "36995381",
+        "title": "Comparison of the effectiveness of Dienogest with medroxyprogesterone acetate in the treatment of pelvic pain and recurrence of endometriosis after laparoscopic surgery.",
+        "abstract": "The aim of this study was to compare the effects of Dienogest and medroxyprogesterone acetate (MPA) on the recurrence of endometriosis lesions and clinical symptoms in women undergoing laparoscopic surgery.",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2023",
+        "authors": [
+          "Vahid-Dastjerdi Marzieh",
+          "Hosseini Reihaneh",
+          "Rodi Hanieh",
+          "Rastad Hadith",
+          "Hosseini Ladan"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Endometriosis",
+          "Laparoscopy",
+          "Medroxyprogesterone Acetate",
+          "Nandrolone",
+          "Pelvic Pain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36995381/"
+      },
+      {
+        "pmid": "120837",
+        "title": "Medroxyprogesterone acetate.",
+        "abstract": "",
+        "journal": "IARC monographs on the evaluation of the carcinogenic risk of chemicals to humans",
+        "year": "1979",
+        "authors": [],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Breast Diseases",
+          "Carcinogens",
+          "Chemical Phenomena",
+          "Chemistry",
+          "Dogs",
+          "Female",
+          "Haplorhini",
+          "Humans",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/120837/"
+      },
+      {
+        "pmid": "39259620",
+        "title": "Preventing recurrence of endometriosis-related pain by means of long-acting progestogen therapy: the PRE-EMPT RCT.",
+        "abstract": "Endometriosis affects 1 in 10 women, many of whom have surgery for persistent pain. Recurrence of symptoms following an operation is common. Although hormonal treatment can reduce this risk, there is uncertainty about the best option.",
+        "journal": "Health technology assessment (Winchester, England)",
+        "year": "2024",
+        "authors": [
+          "Cooper Kevin G",
+          "Bhattacharya Siladitya",
+          "Daniels Jane P",
+          "Cheed Versha",
+          "Gennard Laura"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Cost-Benefit Analysis",
+          "Adult",
+          "Quality-Adjusted Life Years",
+          "Quality of Life",
+          "United Kingdom",
+          "Levonorgestrel",
+          "Contraceptives, Oral, Combined"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39259620/"
+      },
+      {
+        "pmid": "6221125",
+        "title": "The Food and Drug Administration and medroxyprogesterone acetate. What are the issues?",
+        "abstract": "In 1978, the Food and Drug Administration denied approval of the three-month injectable contraceptive depot medroxyprogesterone acetate for use in the United States. This decision goes against the advice of the FDA's own scientific advisory panels, as well as the rulings of the World Health Organization and the drug regulation institutions of more than 70 developed and developing countries. In response to protest from the manufacturer of depot medroxyprogesterone acetate and from many health professionals, the FDA took the unusual step of scheduling a public board of inquiry to review its decision in January 1983. Reviewing the scientific literature on the risks and benefits of depot medroxyprogesterone acetate, we find no reason to deny depot medroxyprogesterone acetate approval, provided that studies of its possible side effects are continued and that women use it only after having made an informed choice between this and other methods of contraception.",
+        "journal": "JAMA",
+        "year": "1983",
+        "authors": [
+          "Rosenfield A",
+          "Maine D",
+          "Rochat R",
+          "Shelton J",
+          "Hatcher R A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Delayed-Action Preparations",
+          "Developing Countries",
+          "Drug Evaluation",
+          "Endometriosis",
+          "Family Planning Services",
+          "Female",
+          "Humans",
+          "Injections",
+          "Legislation, Drug",
+          "Medroxyprogesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6221125/"
+      },
+      {
+        "pmid": "8131317",
+        "title": "Endometriosis: medical therapy.",
+        "abstract": "The management of women with endometriosis is complex and necessitates individualization of patient care. The most commonly used medical therapies are danazol, GnRH agonists, medroxyprogesterone acetate and gestrinone. Studies to date have shown these drugs to have equal efficacy in terms of reduction in laparoscopic score and relief of symptoms. However, their side-effects make them unsuitable for long-term use. The addition of low dose hormone replacement therapy to GnRH agonist regimens may allow prolonged use but the current cost of these agents is high. Low dose oral contraceptive pills deserve further investigation. The role of medical treatment for women with endometriosis and infertility is controversial. There is no place for hormonal therapy in such women with stage I or II disease. When expectant management fails, gamete intrafallopian transfer offers excellent results. For those with stage III or IV disease, surgery is preferable with adjunctive medical therapy in selected ",
+        "journal": "Bailliere's clinical obstetrics and gynaecology",
+        "year": "1993",
+        "authors": [
+          "Wingfield M",
+          "Healy D L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Danazol",
+          "Endometriosis",
+          "Estrogens",
+          "Female",
+          "Gestrinone",
+          "Goserelin",
+          "Humans",
+          "Infertility, Female",
+          "Laparoscopy",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8131317/"
+      },
+      {
+        "pmid": "32355821",
+        "title": "Impacts of medroxyprogesterone acetate on oocytes and embryos: matched case-control study in women with stage III-IV ovarian endometriosis undergoing controlled ovarian hyperstimulation for in vitro fertilization.",
+        "abstract": "This study investigated the effects of medroxyprogesterone acetate (MPA) on the oocytes and embryos in patients with advanced endometriosis who had a normal ovarian reserve and tubal infertility and received controlled ovarian hyperstimulation (COH) and explored the characteristics and pregnancy outcomes in subsequent frozen-thawed embryo transfer (FET) cycles.",
+        "journal": "Annals of translational medicine",
+        "year": "2020",
+        "authors": [
+          "Guo Haiyan",
+          "Gao Hongyuan",
+          "Li Jianghui",
+          "Cong Yanyan",
+          "Chen Qiuju"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32355821/"
+      },
+      {
+        "pmid": "2970029",
+        "title": "Evaluation of oral medroxyprogesterone acetate in the treatment of endometriosis.",
+        "abstract": "Medroxyprogesterone acetate was administered orally at the daily dose of 50 mg for four months to 21 symptomatic women with moderate to severe endometriosis, staged according to the American Fertility Society classification. The efficacy of the therapy was evaluated prospectively by the patients' symptomatology, monthly pelvic examinations, and by restaging the disease at second-look laparoscopy during the last week of treatment. The effects of therapy on the serum gonadotropin and ovarian steroid levels and on the endometrium and the implants of endometriosis were also evaluated. Improvement of symptoms, pelvic nodularity, and tenderness occurred in 80% of the patients. The mean stage score of disease by the American Fertility Society classification decreased from 18.2 +/- 2 before therapy to 5.9 +/- 1 after therapy (P less than .005). Amenorrhea, breakthrough bleeding, and persistent cyclic bleeding occurred in 75, 20, and 10% of the patients, respectively. Ovulation was inhibited in",
+        "journal": "Obstetrics and gynecology",
+        "year": "1988",
+        "authors": [
+          "Luciano A A",
+          "Turksoy R N",
+          "Carleo J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Antineoplastic Agents",
+          "Drug Administration Schedule",
+          "Drug Evaluation",
+          "Endometriosis",
+          "Estradiol",
+          "Female",
+          "Humans",
+          "Laparoscopy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2970029/"
+      },
+      {
+        "pmid": "2974428",
+        "title": "Danazol and medroxyprogesterone acetate inefficacious in the treatment of infertility in endometriosis.",
+        "abstract": "Danazol (200 mg three times a day) and medroxyprogesterone acetate (MPA, 100 mg a day) were compared with placebo in the treatment of infertility of patients with endometriosis. Twenty-seven patients had medical therapy alone for 6 months, and 22 patients received it after conservative surgery. The clinical characteristics of the patients in the danazol group (n = 18), the MPA group (n = 17), and the placebo group (n = 14) were comparable to each other. The follow-up time was 30 months. The cumulative pregnancy rates, 33% in the danazol group (n = 6), 42% in the MPA group (n = 7), and 46% in the placebo group (n = 6), did not differ significantly from each other. The time to pregnancy after the start of therapy was 17.7 +/- 8.4 (standard deviation [SD]) months in the danazol group, 18.0 +/- 9.0 months in the MPA group and 10.0 +/- 5.8 months in the placebo group with no significant difference between the groups. The abortion rate was 26%, and there was no significant difference among t",
+        "journal": "Fertility and sterility",
+        "year": "1988",
+        "authors": [
+          "Telimaa S"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Clinical Trials as Topic",
+          "Danazol",
+          "Endometriosis",
+          "Female",
+          "Humans",
+          "Infertility, Female",
+          "Medroxyprogesterone",
+          "Medroxyprogesterone Acetate",
+          "Pregnadienes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2974428/"
+      },
+      {
+        "pmid": "38759792",
+        "title": "Medical Management of Endometriosis in Adolescent and Young Adult Women: A Review of 91 Cases of Biopsy-Confirmed Endometriosis.",
+        "abstract": "To characterise contemporary trends in the hormonal management of endometriosis in adolescent and young adult patients with biopsy-proven endometriosis.",
+        "journal": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+        "year": "2024",
+        "authors": [
+          "Li Howard J",
+          "Esencan Ecem",
+          "Song Yue",
+          "Taylor Hugh S",
+          "Cho Yonghee"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Endometriosis",
+          "Adolescent",
+          "Young Adult",
+          "Retrospective Studies",
+          "Adult",
+          "Levonorgestrel",
+          "Intrauterine Devices, Medicated",
+          "Contraceptives, Oral, Combined"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38759792/"
+      },
+      {
+        "pmid": "1250555",
+        "title": "Management of endometriosis with oral medroxyprogesterone acetate.",
+        "abstract": "Efficacy of oral medroxyprogesterone acetate (MPA) was assessed in 35 women with an established diagnosis of endometriosis (33 pelvic and 2 abdominal). MPA was given in a dosage of 30 mg daily for 90 days. Results indicated improvement or remission in all cases, even though breakthrough bleeding occurred in 8. Twenty-six were treated for associated infertility. Twelve of these became pregnant following treatment. Pregnancy rate in those women whose husbands were fertile was 90%. Side effects included spotting and breakthrough bleeding. The patients usually remained amenorrheic and anovulatory while receiving MPA. Posttreatment resumption of ovulation was prompt. The findings indicate that oral MPA is a useful therapeutic agent in the management of minimal to moderate endometriosis, particularly when it is associated with infertility.",
+        "journal": "Obstetrics and gynecology",
+        "year": "1976",
+        "authors": [
+          "Moghissi K S",
+          "Boyce C R"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Abdominal Neoplasms",
+          "Administration, Oral",
+          "Endometriosis",
+          "Female",
+          "Humans",
+          "Male",
+          "Medroxyprogesterone",
+          "Pelvic Neoplasms",
+          "Pregnancy",
+          "Progesterone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1250555/"
+      },
+      {
+        "pmid": "28931865",
+        "title": "Use of medroxyprogesterone acetate in women with ovarian endometriosis undergoing controlled ovarian hyperstimulation for in vitro fertilization.",
+        "abstract": "This study investigated the use of medroxyprogesterone acetate (MPA) or a short protocol for controlled ovarian hyperstimulation (COH) in patients with advanced endometriosis who have normal ovarian function, and to compare cycle characteristics and pregnancy outcomes after frozen-thawed embryo transfer (FET). This was a retrospective case-control study of 244 patients with advanced endometriosis undering COH. The patients were allocated to three groups: the surgery group with MPA COH (62 patients, 71 IVF/ICSI cycles, 78 FET cycles); the aspiration group with MPA COH (85 patients had ovarian \"chocolate\" cysts (>3 cm) aspirated, 90 IVF/ICSI cycles, 76 FET cycles); and the short protocol group (97 patients, 101 IVF/ICSI cycles, 51 FET cycles). The results showed that higher rates of mature oocyte, D3 high quality embryo, hMG dose were observed in the two study groups using MPA compared with the short protocol. The number of >10-14 mm follicles on the trigger day, D3 top-quality embryos, ",
+        "journal": "Scientific reports",
+        "year": "2017",
+        "authors": [
+          "Guo Haiyan",
+          "Wang Yun",
+          "Chen Qiuju",
+          "Chai Weiran",
+          "Sun Lihua"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Case-Control Studies",
+          "Contraceptive Agents, Female",
+          "Endometriosis",
+          "Female",
+          "Fertilization in Vitro",
+          "Humans",
+          "Medroxyprogesterone Acetate",
+          "Ovulation Induction",
+          "Pregnancy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28931865/"
+      },
+      {
+        "pmid": "17948750",
+        "title": "[Endometriosis].",
+        "abstract": "The major symptom is dysmenorrhea. Chronic, sometimes non-cyclic pain due to pelvic adhesions is often seen in the long course of the disease. Infiltration into the blader or bowel is a rare but serious complication. A group of patients presents with sterility. Endometriosis histologically resembles endometrium. There can be ovarian cysts and foci either on the peritoneum or in the muscularis of the uterus. The etiology is unknown. There are a number of existing theories. A rare condition is an endometriosis caused iatrogen during a caesarean section. It can develop between uterus and bladder or within the suture or scar tissue. Since we know so little, the treatment options are unsatisfying. Operative resection followed by endocrine medication is the standard therapy. Alternative medicine can be an useful additional factor in the treatment concept.",
+        "journal": "Therapeutische Umschau. Revue therapeutique",
+        "year": "2007",
+        "authors": [
+          "Carstensen A",
+          "Mundhenke C",
+          "Schollmeyer T"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Inflammatory Agents, Non-Steroidal",
+          "Buserelin",
+          "Complementary Therapies",
+          "Contraceptive Agents, Female",
+          "Cyclooxygenase 2 Inhibitors",
+          "Dysmenorrhea",
+          "Endometriosis",
+          "Female",
+          "Fertility Agents, Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17948750/"
+      },
+      {
+        "pmid": "2973820",
+        "title": "Medroxyprogesterone acetate enhances spontaneous mammary tumorigenesis and uterine adenomyosis in mice.",
+        "abstract": "Based on our previous findings that medroxyprogesterone acetate (MPA) significantly suppressed the formation of preneoplastic mammary hyperplastic alveolar nodules in mice, and that this suppression persisted for some time, we studied the effects of different schedules of MPA treatment on spontaneous mammary tumorigenesis and uterine adenomyosis in SHN virgin mice. Mice received a subcutaneous pellet of MPA every 2 months: I) during the limited period of 1-3 months of age; II) throughout the experiment beginning at 6-8 months of age; and III) throughout the experiment beginning at 2-3 months of age. All treatments significantly enhanced mammary tumorigenesis with little difference in the effects among treatments. The progression of uterine adenomyosis was also stimulated in Experiments I and III, but not in Experiment II. These results are in good accord with our previous observations with progesterone, indicating that MPA has progesterone-like effects on mammary and uterine lesions of",
+        "journal": "Breast cancer research and treatment",
+        "year": "1988",
+        "authors": [
+          "Nagasawa H",
+          "Aoki M",
+          "Sakagami N",
+          "Ishida M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cell Transformation, Neoplastic",
+          "Endometriosis",
+          "Female",
+          "Mammary Glands, Animal",
+          "Mammary Neoplasms, Experimental",
+          "Medroxyprogesterone",
+          "Medroxyprogesterone Acetate",
+          "Mice",
+          "Organ Size"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2973820/"
+      },
+      {
+        "pmid": "30078406",
+        "title": "Differential expressions of estrogen and progesterone receptors in endometria and cyst walls of ovarian endometrioma from women with endometriosis and their responses to depo-medroxyprogesterone acetate treatment.",
+        "abstract": "Depo-medroxyprogesterone acetate (DMPA) is an injectable progestin contraceptive that provides a highly effective reduction of pelvic pain in women with endometriosis. Despite its wide use to treat pain associated with endometriosis, its precise mechanisms of action remain unclear. The aims of this study were to investigate the differential expressions of estrogen receptors (ERs), and progesterone receptors (PRs) in endometria and ovarian endometrioma cyst walls of women with endometriosis with and without DMPA treatment.",
+        "journal": "Molecular and cellular probes",
+        "year": "2018",
+        "authors": [
+          "Sroyraya Morakot",
+          "Songkoomkrong Sineenart",
+          "Changklungmoa Narin",
+          "Poljaroen Jaruwan",
+          "Weerakiet Sawaek"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Cell Count",
+          "Cysts",
+          "Endometriosis",
+          "Endometrium",
+          "Estrogen Receptor alpha",
+          "Estrogen Receptor beta",
+          "Female",
+          "Humans",
+          "Medroxyprogesterone Acetate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30078406/"
+      },
+      {
+        "pmid": "16176939",
+        "title": "Subcutaneous depot medroxyprogesterone acetate versus leuprolide acetate in the treatment of endometriosis-associated pain.",
+        "abstract": "A clinical study compared efficacy and safety of depot medroxyprogesterone acetate (DMPA) with leuprolide for endometriosis-associated pain.",
+        "journal": "Human reproduction (Oxford, England)",
+        "year": "2006",
+        "authors": [
+          "Crosignani P G",
+          "Luciano A",
+          "Ray A",
+          "Bergqvist A"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Administration, Cutaneous",
+          "Adult",
+          "Antineoplastic Agents, Hormonal",
+          "Bone Density",
+          "Contraceptive Agents, Female",
+          "Endometriosis",
+          "Female",
+          "Fertility Agents, Female",
+          "Hip",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16176939/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T17:00:41.739921",
+  "success": true,
+  "error_message": null
+}

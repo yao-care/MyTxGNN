@@ -1,0 +1,563 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Acyclovir",
+    "disease": "herpes zoster",
+    "query_string": "Acyclovir AND herpes zoster"
+  },
+  "data": {
+    "query": "Acyclovir AND herpes zoster",
+    "results": [
+      {
+        "pmid": "8809466",
+        "title": "Varicella-zoster virus.",
+        "abstract": "Varicella-zoster virus (VZV) is a ubiquitous human alphaherpesvirus that causes varicella (chicken pox) and herpes zoster (shingles). Varicella is a common childhood illness, characterized by fever, viremia, and scattered vesicular lesions of the skin. As is characteristic of the alphaherpesviruses, VZV establishes latency in cells of the dorsal root ganglia. Herpes zoster, caused by VZV reactivation, is a localized, painful, vesicular rash involving one or adjacent dermatomes. The incidence of herpes zoster increases with age or immunosuppression. The VZV virion consists of a nucleocapsid surrounding a core that contains the linear, double-stranded DNA genome; a protein tegument separates the capsid from the lipid envelope, which incorporates the major viral glycoproteins. VZV is found in a worldwide geographic distribution but is more prevalent in temperate climates. Primary VZV infection elicits immunoglobulin G (IgG), IgM, and IgA antibodies, which bind to many classes of viral pro",
+        "journal": "Clinical microbiology reviews",
+        "year": "1996",
+        "authors": [
+          "Arvin A M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antibody Formation",
+          "Antiviral Agents",
+          "Chickenpox",
+          "Contraindications",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Humans",
+          "Immunity, Cellular",
+          "Immunization, Passive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8809466/"
+      },
+      {
+        "pmid": "6355050",
+        "title": "A review of acyclovir treatment of ocular herpes zoster and skin infections.",
+        "abstract": "Intravenous acyclovir had a significant effect on the resolution of the skin rash in patients with acute zoster, but the 5-day course of therapy was not, in itself, sufficient to treat coexisting ocular involvement. In an open study, topical acyclovir was found to control herpes zoster kerato-uveitis, without recurrences and in a shorter time than if steroids alone were used. The use of steroids in combination with acyclovir led to prolonged treatment and high recurrence rates. A comparative trial of topical acyclovir versus steroids in the treatment of acute herpes zoster kerato-uveitis showed significant differences in favour of acyclovir in terms of the time to resolution of corneal epithelial disease, total treatment duration and the numbers of patients having a recurrence of infection. The reductions in treatment duration and recurrence rate would be expected to result in a reduced incidence of ocular damage and visual loss in acyclovir treated patients.",
+        "journal": "The Journal of antimicrobial chemotherapy",
+        "year": "1983",
+        "authors": [
+          "McGill J",
+          "Chapman C",
+          "Copplestone A",
+          "Maharasingam M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Topical",
+          "Herpes Zoster",
+          "Herpes Zoster Ophthalmicus",
+          "Humans",
+          "Injections, Intravenous",
+          "Recurrence",
+          "Skin Diseases, Infectious",
+          "Steroids"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6355050/"
+      },
+      {
+        "pmid": "39132940",
+        "title": "Genital Herpes Zoster.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2024",
+        "authors": [
+          "Bao Chengbei",
+          "Ji Chao"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Acyclovir",
+          "Antiviral Agents",
+          "Herpes Genitalis",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Aged",
+          "Scrotum",
+          "Penis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39132940/"
+      },
+      {
+        "pmid": "35831585",
+        "title": "Ophthalmic herpes zoster.",
+        "abstract": "",
+        "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+        "year": "2022",
+        "authors": [
+          "Hirade Tomohiro",
+          "Koike Daisuke",
+          "Matama Chihiro",
+          "Yamada Kenji",
+          "Kato Fumihide"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Herpes Zoster",
+          "Herpes Zoster Ophthalmicus",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35831585/"
+      },
+      {
+        "pmid": "23399601",
+        "title": "[Herpes zoster].",
+        "abstract": "",
+        "journal": "Praxis",
+        "year": "2013",
+        "authors": [
+          "Matt Ulrich",
+          "Rampini Silvana"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Aged",
+          "Antiviral Agents",
+          "Cross-Sectional Studies",
+          "DNA, Viral",
+          "Diagnosis, Differential",
+          "Female",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23399601/"
+      },
+      {
+        "pmid": "12604384",
+        "title": "[Contribution of the laboratory in case of resistance to acyclovir of herpes simplex and varicella zoster virus].",
+        "abstract": "Herpes simplex virus (HSV) and varicella zoster virus (VZV) are susceptible to acyclovir which inhibits viral replication through two viral enzymes, thymidine kinase (TK) and DNA polymerase. Resistance may occur, it is a rare phenomenon among immunocompetent patients but resistance is more frequent and may be associated with serious complications among immunocompromised patients. Virological survey of these at risk patients is needed to detect resistant virus as soon as possible through phenotypic tests performed on virus isolated on cell cultures. Resistant virus may also be genetically characterised by detection of mutations within TK and DNA polymerase genes. Pharmacological parameters also have to be taken into consideration and a determination of acyclovir blood concentration should be performed in case of unexplained therapeutic failure. Improvement of immune system, when possible, may resolve these infections. Alternative treatments using drugs such as foscarnet or cidofovir whi",
+        "journal": "Annales de biologie clinique",
+        "year": "2003",
+        "authors": [
+          "Morfin F",
+          "Frobert E",
+          "Thouvenot D"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Chickenpox",
+          "Drug Resistance, Viral",
+          "Herpes Simplex",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Humans",
+          "Mutation",
+          "Phenotype"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12604384/"
+      },
+      {
+        "pmid": "9707315",
+        "title": "Response to acyclovir in two cases of herpes zoster leukoencephalitis and review of the literature.",
+        "abstract": "Herpes zoster leukoencephalitis is a rare complication of varicella-zoster virus infection. Associated with high mortality, the majority of cases have been discovered postmortem; today, however, magnetic resonance imaging is being used successfully as an aid in the diagnosis of this disease. The first two reported cases of HIV-infected patients with herpes zoster leukoencephalitis who recovered clinically and showed complete resolution of the magnetic resonance demyelination images after acyclovir treatment are described. In addition, the cases of herpes zoster leukoencephalitis reported in the literature to date are reviewed.",
+        "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+        "year": "1998",
+        "authors": [
+          "Otero J",
+          "Ribera E",
+          "Gavaldà J",
+          "Rovira A",
+          "Ocaña I"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "AIDS-Related Opportunistic Infections",
+          "Acyclovir",
+          "Adult",
+          "Antiviral Agents",
+          "Encephalitis, Viral",
+          "Herpes Zoster",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9707315/"
+      },
+      {
+        "pmid": "12449270",
+        "title": "Evaluation and management of herpes zoster ophthalmicus.",
+        "abstract": "Herpes zoster ophthalmicus occurs when the varicella-zoster virus is reactivated in the ophthalmic division of the trigeminal nerve. Herpes zoster ophthalmicus represents up to one fourth of all cases of herpes zoster. Most patients with herpes zoster ophthalmicus present with a periorbital vesicular rash distributed according to the affected dermatome. A minority of patients may also develop conjunctivitis, keratitis, uveitis, and ocular cranial-nerve palsies. Permanent sequelae of ophthalmic zoster infection may include chronic ocular inflammation, loss of vision, and debilitating pain. Antiviral medications such as acyclovir, valacyclovir, and famcidovir remain the mainstay of therapy and are most effective in preventing ocular involvement when begun within 72 hours after the onset of the rash. Timely diagnosis and management of herpes zoster ophthalmicus. with referral to an ophthalmologist when ophthalmic involvement is present, are critical in limiting visual morbidity.",
+        "journal": "American family physician",
+        "year": "2002",
+        "authors": [
+          "Shaikh Saad",
+          "Ta Christopher N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Blepharitis",
+          "Corneal Diseases",
+          "Herpes Zoster Ophthalmicus",
+          "Humans",
+          "Uveitis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12449270/"
+      },
+      {
+        "pmid": "6207596",
+        "title": "Herpes zoster: epidemiology, clinical features, and management.",
+        "abstract": "Herpes zoster is a commonly encountered infectious disease primarily affecting the elderly and immunosuppressed. The natural history and complications of the disease and the principles of management are often not appreciated by clinicians in a variety of disciplines who may see the patient during the acute phase. Recent literature has furthered our understanding of the virology of herpes zoster and the roles of corticosteroid and antiviral therapy. We review the clinical features, diagnostic principles, and management controversies of herpes zoster.",
+        "journal": "Southern medical journal",
+        "year": "1984",
+        "authors": [
+          "Reuler J B",
+          "Chang M K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adrenal Cortex Hormones",
+          "Adult",
+          "Aged",
+          "Antiviral Agents",
+          "Child",
+          "Diagnosis, Differential",
+          "Facial Paralysis",
+          "Herpes Simplex",
+          "Herpes Zoster"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6207596/"
+      },
+      {
+        "pmid": "3941520",
+        "title": "Acyclovir therapy for herpes zoster: advantages and adverse effects.",
+        "abstract": "",
+        "journal": "JAMA",
+        "year": "1986",
+        "authors": [
+          "Balfour H H"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Herpes Zoster",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3941520/"
+      },
+      {
+        "pmid": "10794584",
+        "title": "Management of herpes zoster (shingles) and postherpetic neuralgia.",
+        "abstract": "Herpes zoster (commonly referred to as \"shingles\") and postherpetic neuralgia result from reactivation of the varicella-zoster virus acquired during the primary varicella infection, or chickenpox. Whereas varicella is generally a disease of childhood, herpes zoster and post-herpetic neuralgia become more common with increasing age. Factors that decrease immune function, such as human immunodeficiency virus infection, chemotherapy, malignancies and chronic corticosteroid use, may also increase the risk of developing herpes zoster. Reactivation of latent varicella-zoster virus from dorsal root ganglia is responsible for the classic dermatomal rash and pain that occur with herpes zoster. Burning pain typically precedes the rash by several days and can persist for several months after the rash resolves. With postherpetic neuralgia, a complication of herpes zoster, pain may persist well after resolution of the rash and can be highly debilitating. Herpes zoster is usually treated with orally",
+        "journal": "American family physician",
+        "year": "2000",
+        "authors": [
+          "Stankus S J",
+          "Dlugopolski M",
+          "Packer D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Analgesics",
+          "Anti-Inflammatory Agents",
+          "Anticonvulsants",
+          "Antidepressive Agents, Tricyclic",
+          "Antiviral Agents",
+          "Drug Therapy, Combination",
+          "Herpes Zoster",
+          "Humans",
+          "Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10794584/"
+      },
+      {
+        "pmid": "16962434",
+        "title": "Herpes zoster in childhood.",
+        "abstract": "Herpes zoster is caused by reactivation of latent varicella-zoster virus that resides in a dorsal root ganglion. Herpes zoster can develop any time after a primary infection. Because varicella vaccine is a live attenuated virus, herpes zoster can develop in a vaccine recipient. The incidence of herpes zoster among vaccine recipients is about 14 cases per 100,000 person-years. In young children, herpes zoster has a predilection for areas supplied by the cervical and sacral dermatomes. The most common complications are secondary bacterial infection, depigmentation, and scarring. Although the diagnosis of herpes zoster is based on a distinct clinical appearance, viral DNA analysis of the lesion by polymerase chain reaction or restriction fragment length polymorphism is necessary to differentiate wild from vaccine-type viruses. Acyclovir is the treatment of choice for herpes zoster.",
+        "journal": "Journal of pediatric health care : official publication of National Association of Pediatric Nurse Associates & Practitioners",
+        "year": "2006",
+        "authors": [
+          "Leung Alexander K C",
+          "Robson W Lane M",
+          "Leong Alexander G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Chickenpox Vaccine",
+          "Child",
+          "Child, Preschool",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Humans",
+          "Incidence",
+          "Infection Control"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16962434/"
+      },
+      {
+        "pmid": "8063022",
+        "title": "Clinical aspects of chickenpox and herpes zoster.",
+        "abstract": "Chickenpox in immunocompromised individuals is potentially fatal and should be treated with intravenous acyclovir as soon as it is recognized. Data from four double-blind, placebo-controlled trials in the USA provide a sound scientific basis for using acyclovir to treat chickenpox in immunocompetent individuals. Three studies in children and a fourth study in US naval recruits showed statistically significant reductions in the duration of fever, constitutional illness, and time to cutaneous healing, when treatment was initiated within 24 h of rash onset. Although chickenpox is generally mild in children the severity of the disease increases with age and secondary cases in the family tend to be more ill than the primary case. It is recommended that secondary and tertiary cases in a family, and adolescents and adults with chickenpox be treated with acyclovir. In immunocompromised hosts, intravenous acyclovir halts the progression of herpes zoster and is recommended as therapy during new ",
+        "journal": "The Journal of international medical research",
+        "year": "1994",
+        "authors": [
+          "Balfour H H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adolescent",
+          "Adult",
+          "Chickenpox",
+          "Child",
+          "Female",
+          "Herpes Zoster",
+          "Humans",
+          "Immunocompromised Host",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8063022/"
+      },
+      {
+        "pmid": "12118839",
+        "title": "Antiviral therapy for varicella and herpes zoster.",
+        "abstract": "Varicella-zoster virus (VZV) causes 2 clinical illnesses, varicella (chickenpox) and herpes zoster (shingles). The purpose of this review is to describe the role of antiviral therapy in the treatment of VZV infections in healthy and immunocompromised children. Acyclovir is the drug of choice for varicella and herpes zoster. The route of administration may be intravenous or oral, depending on the immunocompetence of the host. The clinical impact of acyclovir therapy is related directly to its use early in the clinical course and to the likely susceptibility of the patient to severe or life-threatening VZV infection. Patients who have the most clinical benefit are otherwise healthy adolescents with varicella infection and high-risk populations of immunocompromised children who have varicella or herpes zoster. The morbidity and mortality of VZV infections are reduced substantially by initiating acyclovir treatment early in the course of the disease.",
+        "journal": "Seminars in pediatric infectious diseases",
+        "year": "2002",
+        "authors": [
+          "Arvin Ann M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Oral",
+          "Adolescent",
+          "Adult",
+          "Algorithms",
+          "Antiviral Agents",
+          "Chickenpox",
+          "Child",
+          "Child, Preschool",
+          "Clinical Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12118839/"
+      },
+      {
+        "pmid": "26366954",
+        "title": "Herpes zoster triplex.",
+        "abstract": "",
+        "journal": "Cleveland Clinic journal of medicine",
+        "year": "2015",
+        "authors": [
+          "Takashima Shota",
+          "Ota Mitsuhito"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Aged",
+          "Antiviral Agents",
+          "Diagnosis, Differential",
+          "Glucocorticoids",
+          "Herpes Zoster",
+          "Herpesvirus 3, Human",
+          "Humans",
+          "Male",
+          "Neuralgia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26366954/"
+      },
+      {
+        "pmid": "3222675",
+        "title": "Herpes zoster associated encephalitis: clinical findings and acyclovir treatment.",
+        "abstract": "The clinical course of herpes zoster associated encephalitis (HZAE) with special emphasis on the treatment with acyclovir is described from the experience in 14 own patients and 47 review cases. Immunosuppression and dissemination involved increased risk of HZAE, whereas cranial zoster implied no or only a slightly increased risk. The symptoms were mainly disturbances of mental function and ataxia. Nuchal rigidity was noted in approximately one third of cases. The median duration from dermatomal lesion to HZAE was 15 days in immunosuppressed patients versus 5 days in non-immunosuppressed patients. Abnormal spinal fluid findings included mononuclear pleocytosis, occasionally with low glucose concentration. Protein was elevated in half of the patients. Serum sodium levels were often low. Brain CAT scans were generally normal and EEGs always abnormal. Recurrence of HZAE was noted in 2 patients. Treatment with acyclovir seemed to have a beneficial effect. The results, however, need cautiou",
+        "journal": "Scandinavian journal of infectious diseases",
+        "year": "1988",
+        "authors": [
+          "Peterslund N A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Aged",
+          "Encephalitis",
+          "Female",
+          "Herpes Zoster",
+          "Humans",
+          "Immune Tolerance",
+          "Male",
+          "Middle Aged",
+          "Time Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3222675/"
+      },
+      {
+        "pmid": "27388385",
+        "title": "Atypical and disseminated herpes zoster.",
+        "abstract": "",
+        "journal": "British journal of hospital medicine (London, England : 2005)",
+        "year": "2016",
+        "authors": [
+          "Amarouch H",
+          "Zaouri H",
+          "Hassam B",
+          "Ismaili N"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Administration, Intravenous",
+          "Antiviral Agents",
+          "Female",
+          "Herpes Zoster",
+          "Humans",
+          "Middle Aged",
+          "Torso"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27388385/"
+      },
+      {
+        "pmid": "9675639",
+        "title": "Antiviral therapy of herpes simplex and varicella-zoster virus infections.",
+        "abstract": "Antiviral treatment of herpesvirus infections is rapidly changing since the advent of new drugs with improved oral availability. The efficacy of valaciclovir, the prodrug of aciclovir, and famciclovir, the prodrug of penciclovir, in the treatment of herpes genitalis and acute herpes zoster has been well documented in large clinical trials. Both drugs are effective on zoster-associated pain. Brivudin and sorivudine which are the most active compounds against varicella-zoster virus (VZV) in cell culture have also been successful in the treatment of herpes zoster. Aciclovir is still the standard therapy of severe herpes simplex virus (HSV) and varicella virus infections. In patients treated with aciclovir, the mortality of herpes encephalitis has been reduced to about 25%. The development of resistance against aciclovir and the other nucleoside analogues has not been a problem to date in the treatment of immunocompetent individuals. However, in immunocompromised patients, aciclovir-resist",
+        "journal": "Intervirology",
+        "year": "1997",
+        "authors": [
+          "Wutzler P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "2-Aminopurine",
+          "Acyclovir",
+          "Administration, Oral",
+          "Antiviral Agents",
+          "Arabinofuranosyluracil",
+          "Bromodeoxyuridine",
+          "Chickenpox",
+          "Drug Resistance, Microbial",
+          "Encephalitis, Viral",
+          "Famciclovir"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9675639/"
+      },
+      {
+        "pmid": "34137062",
+        "title": "Improvement of acyclovir-resistant herpes zoster infection by amenamevir.",
+        "abstract": "",
+        "journal": "The Journal of dermatology",
+        "year": "2021",
+        "authors": [
+          "Onaka Takashi",
+          "Shiraki Kimiyasu",
+          "Yonezawa Akihito"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Antiviral Agents",
+          "Herpes Zoster",
+          "Humans",
+          "Oxadiazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34137062/"
+      },
+      {
+        "pmid": "27566094",
+        "title": "Prophylactic Efficacy Against Herpes Zoster and Costs Difference Between Acyclovir and Valaciclovir in Hematological Patients.",
+        "abstract": "Immunocompromised hematological patients are at increased risk of herpes zoster (HZ). We examined the efficacy of acyclovir and valaciclovir in preventing HZ. We also created a simulation to reduce prophylactic medicine costs.",
+        "journal": "In vivo (Athens, Greece)",
+        "year": "2016",
+        "authors": [
+          "Usami Eiseki",
+          "Kimura Michio",
+          "Iwai Mina",
+          "Teramachi Hitomi",
+          "Yoshimura Tomoaki"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acyclovir",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Cost-Benefit Analysis",
+          "Female",
+          "Hematologic Neoplasms",
+          "Herpes Zoster",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27566094/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:51:49.022951",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,604 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Adalimumab",
+    "disease": "inflammatory bowel disease",
+    "query_string": "Adalimumab AND inflammatory bowel disease"
+  },
+  "data": {
+    "query": "Adalimumab AND inflammatory bowel disease",
+    "results": [
+      {
+        "pmid": "38985232",
+        "title": "Efficacy and safety of infliximab and adalimumab in inflammatory bowel disease patients.",
+        "abstract": "Inflammatory bowel disease (IBD), consists of two primary types: Ulcerative Colitis (UC) and Crohn's Disease (CD). Infliximab (IFX) and Adalimumab (ADA) are frequently utilized in the management of moderate to severe cases of IBD.",
+        "journal": "Inflammopharmacology",
+        "year": "2024",
+        "authors": [
+          "Kamal Mahmoud E",
+          "Werida Rehab H",
+          "Radwan Mahasen A",
+          "Askar Safaa R",
+          "Omran Gamal A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Infliximab",
+          "Adalimumab",
+          "Male",
+          "Female",
+          "Adult",
+          "Prospective Studies",
+          "Middle Aged",
+          "Treatment Outcome",
+          "Crohn Disease"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38985232/"
+      },
+      {
+        "pmid": "39438660",
+        "title": "A longitudinal single-cell atlas of anti-tumour necrosis factor treatment in inflammatory bowel disease.",
+        "abstract": "Precision medicine in immune-mediated inflammatory diseases (IMIDs) requires a cellular understanding of treatment response. We describe a therapeutic atlas for Crohn's disease (CD) and ulcerative colitis (UC) following adalimumab, an anti-tumour necrosis factor (anti-TNF) treatment. We generated ~1 million single-cell transcriptomes, organised into 109 cell states, from 216 gut biopsies (41 subjects), revealing disease-specific differences. A systems biology-spatial analysis identified granuloma signatures in CD and interferon (IFN)-response signatures localising to T cell aggregates and epithelial damage in CD and UC. Pretreatment differences in epithelial and myeloid compartments were associated with remission outcomes in both diseases. Longitudinal comparisons demonstrated disease progression in nonremission: myeloid and T cell perturbations in CD and increased multi-cellular IFN signalling in UC. IFN signalling was also observed in rheumatoid arthritis (RA) synovium with a lymphoi",
+        "journal": "Nature immunology",
+        "year": "2024",
+        "authors": [
+          "Thomas Tom",
+          "Friedrich Matthias",
+          "Rich-Griffin Charlotte",
+          "Pohin Mathilde",
+          "Agarwal Devika"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Single-Cell Analysis",
+          "Adalimumab",
+          "Inflammatory Bowel Diseases",
+          "Crohn Disease",
+          "Longitudinal Studies",
+          "Colitis, Ulcerative",
+          "Tumor Necrosis Factor-alpha",
+          "Transcriptome",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39438660/"
+      },
+      {
+        "pmid": "30864505",
+        "title": "Biosimilars of Adalimumab in Inflammatory Bowel Disease: Are we Ready for that?",
+        "abstract": "Biosimilars present a considerable potential to reduce costs related to clinical management allowing health-care providers to reinvest this money, leading to a wider access to an effective biological treatment with monoclonal antibodies (mAb). Infliximab biosimilars have already been incorporated in daily clinical practice and are currently used in all indications for which the reference product (RP) was approved. Areas covered: In the next few years, also adalimumab biosimilars will become available for the treatment of inflammatory bowel disease (IBD). In fact, several of them (ABP501, BI 695501, GP2017, and SB5) have been approved by the European Medicines Agency (EMA) with the same indications of the reference product (Humira ®). Initial preclinical data proved a strong similarity between all biosimilars and the RP. Moreover, phase 3 studies in rheumatoid arthritis and psoriasis showed no differences in terms of efficacy, safety, and immunogenicity. Data on IBD patients are urgentl",
+        "journal": "Current pharmaceutical design",
+        "year": "2019",
+        "authors": [
+          "Argollo Marjorie",
+          "Fiorino Gionata",
+          "Gilardi Daniela",
+          "Furfaro Federica",
+          "Roda Giulia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Anti-Inflammatory Agents",
+          "Biosimilar Pharmaceuticals",
+          "Gastrointestinal Agents",
+          "Humans",
+          "Inflammatory Bowel Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30864505/"
+      },
+      {
+        "pmid": "34388361",
+        "title": "Adalimumab biosimilar in inflammatory bowel disease.",
+        "abstract": "",
+        "journal": "The lancet. Gastroenterology & hepatology",
+        "year": "2021",
+        "authors": [
+          "Fiorino Gionata",
+          "Allocca Mariangela",
+          "Danese Silvio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Biosimilar Pharmaceuticals",
+          "Colitis",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Infliximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34388361/"
+      },
+      {
+        "pmid": "37070385",
+        "title": "Adalimumab originator versus adalimumab biosimilars in inflammatory bowel disease in Australia.",
+        "abstract": "Biosimilar adalimumabs have improved treatment access, but without any clinical advantage, distributors rely on delivery device design-enhancements, support services, and removal of painful excipients to capture market share. Prescribers, however, are often unaware of these differences. This article compares and contrasts originator versus biosimilar adalimumab agents to identify key differences that might influence adalimumab selection.",
+        "journal": "Expert opinion on biological therapy",
+        "year": "2023",
+        "authors": [
+          "Anderson Emilia",
+          "Waller Karen",
+          "Tamilarasan Aravind Gokul",
+          "Lin Huiyu",
+          "Paramsothy Sudarshan"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adalimumab",
+          "Biosimilar Pharmaceuticals",
+          "Inflammatory Bowel Diseases",
+          "Australia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37070385/"
+      },
+      {
+        "pmid": "31039560",
+        "title": "Relationship between Serum Adalimumab Levels and Clinical Outcome in the Treatment of Inflammatory Bowel Disease.",
+        "abstract": "Adalimumab (ADA) is an anti-tumor necrosis factor agent that has been shown to be effective in inducing and maintaining remission in adult patients with inflammatory bowel disease. The relationship between the ADA trough levels and clinical efficacy has been demonstrated, but there is variability in the definition of the most suitable range for its clinical applicability.",
+        "journal": "Digestive diseases (Basel, Switzerland)",
+        "year": "2019",
+        "authors": [
+          "Hinojosa Joaquín",
+          "Muñoz Fernando",
+          "Martínez-Romero Gregorio Juan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Anti-Inflammatory Agents",
+          "Endoscopy",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Publications",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31039560/"
+      },
+      {
+        "pmid": "32032073",
+        "title": "Risk of Tuberculosis in Patients With Inflammatory Bowel Disease on Infliximab or Adalimumab Is Dependent on the Local Disease Burden of Tuberculosis: A Systematic Review and Meta-Analysis.",
+        "abstract": "Infliximab (IFX) or adalimumab (ADA) use in patients with inflammatory bowel disease (IBD) leads to increased risk of tuberculosis (TB). This meta-analysis evaluated the factors which determine this risk, with special focus on local TB incidence.",
+        "journal": "The American journal of gastroenterology",
+        "year": "2020",
+        "authors": [
+          "Kedia Saurabh",
+          "Mouli Venigalla Pratap",
+          "Kamat Nagesh",
+          "Sankar Jeeva",
+          "Ananthakrishnan Ashwin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Anti-Inflammatory Agents",
+          "Cost of Illness",
+          "Global Health",
+          "Humans",
+          "Incidence",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Risk Factors",
+          "Tuberculosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32032073/"
+      },
+      {
+        "pmid": "40126153",
+        "title": "Temporal trends in characteristics and management of inflammatory bowel disease.",
+        "abstract": "Inflammatory bowel disease (IBD) requires complex clinical management. Despite substantial advancements in endoscopy and in pharmacotherapies for patients with IBD, it remains unclear how these developments have influenced IBD incidence and clinical care. We aim to describe changes in diagnostic and therapeutic practices in IBD management.",
+        "journal": "Scandinavian journal of gastroenterology",
+        "year": "2025",
+        "authors": [
+          "Young Jessica C",
+          "Helsingen Lise M",
+          "Refsum Erle",
+          "Högdén Amanda",
+          "Perrin Vera"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Norway",
+          "Female",
+          "Sweden",
+          "Adult",
+          "Middle Aged",
+          "Colitis, Ulcerative",
+          "Crohn Disease",
+          "Registries"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40126153/"
+      },
+      {
+        "pmid": "37847820",
+        "title": "Efficacy and Safety of Anti-Tumor Necrosis Factor Alpha in Very Early Onset Inflammatory Bowel Disease.",
+        "abstract": "Very early onset inflammatory bowel disease (VEOIBD) is defined as disease onset in patients younger than 6 years. Challenges in treatment of VEOIBD include lack of approved therapies and increased incidence of monogenic immunodeficiencies. We report on patterns of anti-TNF use, efficacy, and safety in a large cohort of patients with VEOIBD.",
+        "journal": "Inflammatory bowel diseases",
+        "year": "2024",
+        "authors": [
+          "Collen Lauren V",
+          "Mitsialis Vanessa",
+          "Kim David Y",
+          "Bresnahan Mairead",
+          "Yang Jessica"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Male",
+          "Inflammatory Bowel Diseases",
+          "Tumor Necrosis Factor-alpha",
+          "Age of Onset",
+          "Prospective Studies",
+          "Child, Preschool",
+          "Infant",
+          "Child"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37847820/"
+      },
+      {
+        "pmid": "40088372",
+        "title": "The efficacy, safety, and persistence of vedolizumab versus adalimumab in patients with inflammatory bowel disease: a systematic review and meta-analysis.",
+        "abstract": "This systematic review and meta-analysis compared the efficacy, safety, and treatment persistence of vedolizumab and adalimumab in patients with inflammatory bowel disease (IBD).",
+        "journal": "Inflammopharmacology",
+        "year": "2025",
+        "authors": [
+          "Chen Zhixin",
+          "Li Huo",
+          "Li Zhongzhuan",
+          "Ouyang Rong",
+          "Huang Shijiang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adalimumab",
+          "Antibodies, Monoclonal, Humanized",
+          "Inflammatory Bowel Diseases",
+          "Gastrointestinal Agents",
+          "Treatment Outcome",
+          "Randomized Controlled Trials as Topic",
+          "Remission Induction"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40088372/"
+      },
+      {
+        "pmid": "31961001",
+        "title": "Review article: determination of the therapeutic range for therapeutic drug monitoring of adalimumab and infliximab in patients with inflammatory bowel disease.",
+        "abstract": "Clinical application of therapeutic drug monitoring (TDM) to optimise anti-TNF therapies in patients with IBD depends upon target ranges.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2020",
+        "authors": [
+          "Gibson David J",
+          "Ward Mark G",
+          "Rentsch Clarissa",
+          "Friedman Antony B",
+          "Taylor Kirstin M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Dose-Response Relationship, Drug",
+          "Drug Monitoring",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Reference Values",
+          "Treatment Outcome",
+          "Tumor Necrosis Factor-alpha",
+          "Wound Healing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31961001/"
+      },
+      {
+        "pmid": "35762693",
+        "title": "Comparative efficacy trials in inflammatory bowel disease: current and future implications for practice.",
+        "abstract": "Over the last decade, there has been rapid expansion of the therapeutic armamentarium, and evolution of treatment strategies, for the management of inflammatory bowel diseases (IBDs). Consequently, there is an increasing need for head-to-head or comparative efficacy trials to inform optimal positioning of therapies, and pragmatic trials comparing treatment strategies to inform treatment approach. In this review, we will discuss the current status and future of comparative efficacy clinical trials in IBD.",
+        "journal": "Current opinion in gastroenterology",
+        "year": "2022",
+        "authors": [
+          "Ahuja Dhruv",
+          "Singh Siddharth"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Biosimilar Pharmaceuticals",
+          "Chronic Disease",
+          "Clinical Trials, Phase III as Topic",
+          "Colitis, Ulcerative",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35762693/"
+      },
+      {
+        "pmid": "39679312",
+        "title": "Real-world experience and long-term outcomes of a mandatory non-medical switch of adalimumab originator to biosimilars in inflammatory bowel disease.",
+        "abstract": "Over the last decade, the treatment options for inflammatory bowel disease (IBD) have significantly progressed with the emergence of new medications designed to target various immune pathways and mitigate inflammation. Adalimumab (ADA) is a tumor necrosis factor alpha antagonist and stands as an effective treatment for IBD. In April 2021, the province of British Columbia implemented a mandatory non-medical switch policy of the ADA originator Humira® to ADA biosimilars. Biosimilars offer a potential cost-effective, safe, and efficacious alternative to the originator, yet there remains limited real-world evidence on long-term outcomes of ADA non-medical switching in IBD.",
+        "journal": "World journal of gastroenterology",
+        "year": "2024",
+        "authors": [
+          "Liu Chen Kiow Jeremy",
+          "Hoang Thomas",
+          "Bedi Harjot K",
+          "Majdzadeh Ardekani Zhina",
+          "Rosenfeld Daniel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Biosimilar Pharmaceuticals",
+          "Adalimumab",
+          "Male",
+          "Female",
+          "Drug Substitution",
+          "Adult",
+          "Retrospective Studies",
+          "Treatment Outcome",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39679312/"
+      },
+      {
+        "pmid": "33110013",
+        "title": "Biosimilars in Inflammatory Bowel Disease.",
+        "abstract": "Over the past 2 decades, biological therapy with monoclonal antibodies targeting tumor necrosis factor-α has become a cornerstone of treatment of patients with inflammatory bowel disease. Although clinically effective, the biological therapies remain expensive, and their availability and utilization have been at times limited due to their high costs. Biosimilars are biological products similar to but not identical to the original biological agent or \"reference biologic,\" also called \"originator biologic.\" It is hoped that the use of biosimilars might enable these agents to become more available and, thus, decrease further expenditures related to the use of the original reference agents such as infliximab and adalimumab. In this study, we review the currently available evidence and shortcomings of these data supporting the use of biosimilars for the treatment of patients with inflammatory bowel disease, including their efficacy and safety as related to initiating therapy with biosimilar",
+        "journal": "The American journal of gastroenterology",
+        "year": "2021",
+        "authors": [
+          "Buchner Anna M",
+          "Schneider Yecheskel",
+          "Lichtenstein Gary R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Biosimilar Pharmaceuticals",
+          "Drug Costs",
+          "Drug Substitution",
+          "Health Expenditures",
+          "Health Services Accessibility",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Tumor Necrosis Factor Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33110013/"
+      },
+      {
+        "pmid": "36375696",
+        "title": "Biological treatment interruption in inflammatory bowel disease: Motivation and predictive factors.",
+        "abstract": "Loss-of-response and adverse events (AE) to biologics have been linked to HLA-DQA1*05 allele. However, the clinical factors or biologic used may influence treatment duration. Our objective was to evaluate the influence of clinical and therapeutic factors, along with HLA, in biological treatment discontinuation.",
+        "journal": "Gastroenterologia y hepatologia",
+        "year": "2023",
+        "authors": [
+          "Davis González María Rocío",
+          "Ballester María Pilar",
+          "Romero-González Eva",
+          "Sánchez-Pardo Ana María",
+          "Marti-Aguado David"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Female",
+          "Infliximab",
+          "Adalimumab",
+          "Retrospective Studies",
+          "Motivation",
+          "Inflammatory Bowel Diseases",
+          "Colitis, Ulcerative",
+          "Biological Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36375696/"
+      },
+      {
+        "pmid": "27567553",
+        "title": "Molecular mechanisms of action of anti-TNF-α agents - Comparison among therapeutic TNF-α antagonists.",
+        "abstract": "Tumor necrosis factor (TNF)-α is a potent pro-inflammatory and pathological cytokines in inflammatory diseases such as rheumatoid arthritis and inflammatory bowel diseases. Anti-TNF-α therapy has been established as an efficacious therapeutic strategy in these diseases. In clinical settings, three monoclonal anti-TNF-α full IgG1 antibodies infliximab, adalimumab, and golimumab, PEGylated Fab' fragment of anti-TNF-α antibody certolizumab pegol, extracellular domain of TNF receptor 2/IgG1-Fc fusion protein etanercept, are almost equally effective for rheumatoid arthritis. Although monoclonal full IgG1 antibodies are able to induce clinical and endoscopic remission in inflammatory bowel diseases, certolizumab pegol without Fc portion has been shown to be less effective for inflammatory bowel diseases compared to full IgG1 antibodies. In addition, there are no evidences that etanercept leads clinical remission in inflammatory bowel diseases. Besides the common effect of anti-TNF-α agents o",
+        "journal": "Cytokine",
+        "year": "2018",
+        "authors": [
+          "Mitoma Hiroki",
+          "Horiuchi Takahiko",
+          "Tsukamoto Hiroshi",
+          "Ueda Naoyasu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Humanized",
+          "Antirheumatic Agents",
+          "Arthritis, Rheumatoid",
+          "Certolizumab Pegol",
+          "Disease Models, Animal",
+          "Etanercept"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27567553/"
+      },
+      {
+        "pmid": "37300512",
+        "title": "Safety of Biologic and Small Molecule Therapy for Inflammatory Bowel Disease Among Solid Organ Transplant Recipients: Systematic Review and Meta-Analysis.",
+        "abstract": "Patients undergoing organ transplantation are often on immunosuppressing medications to prevent rejection of the transplant. The data on use of concomitant immunosuppression for inflammatory bowel disease (IBD) and organ transplant management are limited. This study sought to evaluate the safety of biologic and small molecule therapy for the treatment of IBD among solid organ transplant recipients.",
+        "journal": "Inflammatory bowel diseases",
+        "year": "2024",
+        "authors": [
+          "Taneja Vikas",
+          "Anand Rajsavi S",
+          "El-Dallal Mohammed",
+          "Dong Jeffrey",
+          "Desai Nisa"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adalimumab",
+          "Biological Products",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Organ Transplantation",
+          "Ustekinumab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37300512/"
+      },
+      {
+        "pmid": "29685744",
+        "title": "Update on biosimilars in inflammatory bowel disease: Position and recommendations in Mexico.",
+        "abstract": "The biotechnology-derived medicines known as biosimilars are defined as non-originator treatments that have demonstrated quality, efficacy, and safety comparable to the reference biologic drug. Clinical trials have shown that the infliximab biosimilar, CT-P13, and the candidates for the adalimumab biosimilars, ABP 501 and ZRC 3197, are not significantly different, with respect to efficacy and safety, from the originator drugs in patients with other autoimmune diseases. However, controversy has arisen over the use of biosimilars in inflammatory bowel disease, due to the incipient evidence not only in patients with no previous biotechnology treatment, but also in patients in remission, that could be switched to a biosimilar for non-medical reasons. The present review is the first critical analysis by different specialists in the area of gastroenterology on the use of biosimilars in inflammatory bowel disease, the evidence on interchangeability, the extrapolation of indications, efficacy,",
+        "journal": "Revista de gastroenterologia de Mexico (English)",
+        "year": "2018",
+        "authors": [
+          "Mayoral-Zavala A",
+          "Esquivel-Aguilar A",
+          "Del Real-Calzada C M",
+          "Gutiérrez-Grobe Y",
+          "Ramos-García J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Biosimilar Pharmaceuticals",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Legislation, Drug",
+          "Mexico"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29685744/"
+      },
+      {
+        "pmid": "38589784",
+        "title": "Anti-tumor necrosis factor-α therapy may not be safe during pregnancy in women with inflammatory bowel disease: an updated meta-analysis and systematic review.",
+        "abstract": "Inflammatory Bowel Disease (IBD) affects reproductive-aged women. Active disease can lead to decreased fertility. Although the vast majority of international guidelines recommend for the continuation of anti-TNF-α during pregnancy, recent studies have raised concerns about the safety of anti-tumor necrosis factor-α (TNF-α) therapy during pregnancy, both for patients and for physicians.",
+        "journal": "BMC pregnancy and childbirth",
+        "year": "2024",
+        "authors": [
+          "Huang Wei",
+          "Zhang Xinxing",
+          "Zhang Li",
+          "Dai Xiaosong",
+          "Chen Heping"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pregnancy",
+          "Female",
+          "Tumor Necrosis Factor-alpha",
+          "Inflammatory Bowel Diseases",
+          "Pregnancy Complications",
+          "Premature Birth",
+          "Pregnancy Outcome",
+          "Adalimumab",
+          "Infliximab"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38589784/"
+      },
+      {
+        "pmid": "34849649",
+        "title": "Differential Serum-intestinal Dynamics of Infliximab and Adalimumab in Inflammatory Bowel Disease Patients.",
+        "abstract": "Therapeutic drug monitoring is used to guide anti-tumour necrosis factor [TNF] therapy. However, the associations between serum drug levels [SDL], TNF-bound, and free anti-TNF in the target tissue are incompletely defined. We aimed to assess the interactions between these parameters in inflammatory bowel disease [IBD] patients.",
+        "journal": "Journal of Crohn's & colitis",
+        "year": "2022",
+        "authors": [
+          "Bar-Yoseph Haggai",
+          "Blatt Alexandra",
+          "Gerassy Shiran",
+          "Pressman Sigal",
+          "Mousa Amjad"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adalimumab",
+          "Antibodies",
+          "Humans",
+          "Inflammatory Bowel Diseases",
+          "Infliximab",
+          "Tumor Necrosis Factor Inhibitors",
+          "Tumor Necrosis Factor-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34849649/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:17:08.155683",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,929 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Fenofibrate",
+    "disease": "hypertriglyceridemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03011450",
+      "title": "A Phase 3, Multi-Center, Placebo-Controlled, Randomized, Double--Blind, 12-Week Study With a 40-Week, Active-Controlled, Open-Label Extension to Evaluate the Efficacy and Safety of K-877 in Adult Patients With Fasting Triglyceride Levels ≥500 mg/dL and <2000 mg/dL and Mild or Moderate Renal Impairment",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-11-26",
+      "completion_date": "2019-07-05",
+      "country": "Bulgaria, Czechia, Russia, Belarus, Georgia, Hungary, Ukraine, Poland, United States",
+      "enrollment": 471,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of K-877 in adult patients With Fasting High Triglyceride Levels ≥500 mg/dL and \\<2000 mg/dL and Mild or Moderate Renal Impairment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able to understand and willing to comply with all study requirements and procedures throughout the duration of the study and give written informed consent;\n2. Aged ≥18 years;\n3. Patients receiving moderate- or high-intensity statin therapy must meet one of the following crite",
+      "endpoints": [
+        "Percent Change in Fasting TG From Baseline to Week 12"
+      ],
+      "sponsor": "Kowa Research Institute, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03011450"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01122355",
+      "title": "Comparison of Fenofibrate and Niacin in Patients With Hypertriglyceridemia and Low High-Density Lipoprotein (HDL)-Cholesterol",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2010-01",
+      "country": "N/A",
+      "enrollment": 240,
+      "brief_summary": "The purpose of the study is to compare the efficacy and tolerability of fenofibrate 160 mg and niacin 1500 mg in patients with hypertriglyceridemia and low HDL-cholesterol. The primary end point is the percent change of apoB/A1 and the secondary end points are other lipid parameters and biomarkers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Triglyceride 150-500 mg/dL and HDL-cholesterol \\< 45 mg/dL after 8 week dietary run in period\n* 20-79 years old\n\nExclusion Criteria:\n\n* Low-density lipoprotein (LDL)-cholesterol ≥ 130 mg/dL without any lipid-modifying drug\n* History of cerebrovascular or cardiovascular disease",
+      "endpoints": [
+        "percent change of apoB/A1"
+      ],
+      "sponsor": "Yonsei University",
+      "url": "https://clinicaltrials.gov/study/NCT01122355"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362206",
+      "title": "A Multicenter, Double-Blind, Randomized, Forced-Titration Study to Compare the Efficacy and Safety of the Combination of 145 mg Fenofibrate and 20 or 40 mg Simvastatin With 40 mg Pravastatin Monotherapy in Patients With Mixed Dyslipidemia at Risk of Cardiovascular Disease Not Adequately Controlled by 40 mg Pravastatin Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-09",
+      "completion_date": "2008-09",
+      "country": "Israel, South Africa, Greece, Russia, Romania",
+      "enrollment": 423,
+      "brief_summary": "Mixed or combined hyperlipidemia is a common metabolic disorder characterized by both hypercholesterolemia and hypertriglyceridemia. Statins and fibrates have complementary mechanisms and can be coadministered to patients with mixed hyperlipidemia.The overall objective of the study is to compare the efficacy and safety of combining fenofibrate and simvastatin versus pravastatin monotherapy in patients with mixed hyperlipidemia at risk of cardiovascular diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mixed dyslipidemia\n\nExclusion Criteria:\n\n* Known hypersensitivity to fenofibrates or simvastatin or pravastatin\n* Pregnant or lactating women\n* Contra-indication to fenofibrate or simvastatin or pravastatin\n* Unstable or severe cardiac disease",
+      "endpoints": [
+        "Percent change from baseline to 12 weeks of treatment in Triglycerides",
+        "Percent change from baseline to 12 weeks of treatment in HDL-C",
+        "Percent change from baseline to 12 weeks of treatment in LDL-C"
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00362206"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00819910",
+      "title": "Rosiglitazone And Fenofibrate Additive Effects on Lipids (RAFAEL)",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2008-09",
+      "completion_date": "2010-05",
+      "country": "United States",
+      "enrollment": 41,
+      "brief_summary": "The design of the study will be randomized, double blind trial, which will examine the effects of Rosiglitazone on the fasting triglycerides (TG), high-density lipoprotein (HDL), low-density lipoprotein (LDL), and plasma concentrations of apolipoproteins A-I, A-II, and C-III as compared to Fenofibrate and placebo. This study will also assess the synergistic effect of Rosiglitazone and Fenofibrate on the same parameters. Data from this study will help clarify whether Rosiglitazone favorably impac",
+      "eligibility_criteria": "Inclusion criteria:\n\n1. Fasting plasma glucose \\<100 mg/dl\n2. Fasting LDL \\<160 mg/dl and Triglyceride \\<400 mg/dl.\n\nExclusion criteria:\n\n1. Congestive heart failure\n2. Evidence of renal impairment (serum creatinine\\> 1.4mg/dL)\n3. Liver disease (ALT and/or AST above the upper level of normal)\n4. Kno",
+      "endpoints": [
+        "Percent Change in Triglyceride (TG) Levels Post Treatment"
+      ],
+      "sponsor": "Brooke Army Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00819910"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02015988",
+      "title": "Effectiveness and Tolerability of Early Initiation of Combined Lipid -Lowering Therapy Included Simvastatin and Fenofibrate vs Simvastatin Alone in Patients With Type 2 Diabetes Mellitus, Hypertriglyceridemia and Acute Coronary Syndrome",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-01",
+      "completion_date": "2017-05",
+      "country": "Ukraine",
+      "enrollment": 60,
+      "brief_summary": "To test the hypothesis that early (within 5-21 days after index event) administration of combined lipid-lowering therapy in extremely high risk population of patients with type 2 diabetes mellitus (T2DM) and hypertriglyceridemia (HTG) who experienced acute coronary syndrome (ACS) will be effective and well tolerated in achievement of contemporary strict requirements for triglyceride (TG) levels as an independent risk factor in the case of HTG with diabetes.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 Diabetes Mellitus\n* Fasting triglycerides ≥ 1,7 mmol/l\n* Acute coronary syndrome at least before 5 and maximum 21 days before the inclusion\n* If previously treated with statin therapy, the dose should be equivalent to 40 mg of simvastatin at inclusion\n* In case of previ",
+      "endpoints": [
+        "Percentage change from baseline in triglycerides (TG) at week 12"
+      ],
+      "sponsor": "Dnipropetrovsk State Medical Academy",
+      "url": "https://clinicaltrials.gov/study/NCT02015988"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092560",
+      "title": "Evaluation of the Efficacy and Safety of Fenofibrate and Ezetimibe Coadministration in Patients With Mixed Hyperlipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-12",
+      "completion_date": "2003-12",
+      "country": "N/A",
+      "enrollment": 587,
+      "brief_summary": "The purpose of this study is to evaluate the cholesterol lowering effectiveness and safety of two investigational drugs in patients with mixed hyperlipidemia (high cholesterol and high triglycerides).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* High cholesterol and high triglycerides\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional criteria as required by the study",
+      "endpoints": [
+        "Plasma LDL-C vs. fenofibrate for 12 weeks."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092560"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01211847",
+      "title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study Assessing the Efficacy, Safety and Tolerability of Diazoxide Choline Controlled-Release Tablet (DCCR) in Subjects Without Diabetes Mellitus Having Very High Fasting Triglyceride Levels, With Double-Blind DCCR-Fenofibrate Combination Extension",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-10",
+      "completion_date": "2011-12",
+      "country": "N/A",
+      "enrollment": 44,
+      "brief_summary": "Once a day oral administration with DCCR helps lower triglycerides",
+      "eligibility_criteria": "INCLUSION CRITERIA:\n\nFasting triglycerides\n\n* Difference between Visit 3 (7 days prior to Baseline Visit) and Visit 4 (3 days prior to Baseline Visit) ≤ 60% (compared to the higher value of Visit 3 or Visit 4)\n* Run-in Triglycerides\\* ≥ 500 mg/dL and \\< 1500 mg/dL \\*Run-in Triglyceride is defined as",
+      "endpoints": [
+        "Triglyceride-lowering efficacy of DCCR"
+      ],
+      "sponsor": "Essentialis, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01211847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00158899",
+      "title": "A Multi-center, Three-staged With Interim Analyses, Parallel, Randomized, Double-blind, fenofibrate-and Placebo-controlled Proof of Concept and Dose-response Evaluation of the Safety, Tolerability, and Effects on Plasma High-density Lipoprotein Cholesterol (HDLc) and Triglycerides of Eight Weeks Treatment With GW501516 in Otherwise Healthy Patients With Low HDLc, Mildly to Moderately Elevated Triglycerides, and Normal Low-density Lipoprotein Cholesterol (LDLc)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2006-06",
+      "country": "France, Finland, Norway, Denmark, Germany, Netherlands, Portugal, Sweden, Lithuania, Belgium, Estonia",
+      "enrollment": 424,
+      "brief_summary": "The purpose of this clinical research study is to compare up to 3 doses of an investigational drug GW501516 to placebo (an inactive pill that looks like GW501516) to see if it is safe, well tolerated and effective in improving (raising) low levels of \"good cholesterol\", high-density lipoprotein cholesterol (HDLc), as compared to placebo.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* Have a fasting plasma HDLc concentration \\<=45mg/dL (\\<=1.16mmol/L), plasma LDLc levels that do not require treatment according to the National Cholesterol Education Program/Adult Treatment Panel III (NCEP/ATPÂ III) guidelines.\n* Have a fasting plasma TG concentration =500mg/d",
+      "endpoints": [
+        "The change from baseline in fasting plasma HDLc concentration at the end of 12 weeks of double-blind treatment."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00158899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00884819",
+      "title": "Effects of Fenofibrate on Metabolic and Reproductive Parameters in Polycystic Ovary Syndrome. A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "phase": "NA",
+      "status": "TERMINATED",
+      "start_date": "2008-12",
+      "completion_date": "2015-02",
+      "country": "Canada",
+      "enrollment": 4,
+      "brief_summary": "This is a prospective randomized, double-blind placebo-controlled trial of 6 months' duration evaluating the effect of fenofibrate (200 mg/day) in females with polycystic ovary syndrome and mild hypertriglyceridemia. The investigators primary objective will be to determine whether fenofibrate will reduce hepatic adiposity as measured using MRI, and our secondary outcomes will be to delineate the impact of fenofibrate on biochemical or clinical parameters for insulin resistance, cardiovascular di",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* premenopausal women ≥ 18 years\n* diagnosis of PCOS based on the recent 2006 Androgen Excess Society criteria (modified from Rotterdam 2003)\n* waist circumference \\>88 cm\n* fasting TG 2.0 - 5.0 mmol/L\n* stable on any type of oral contraceptive for a minimum of 3-months\n\nExclusi",
+      "endpoints": [
+        "Hepatic adiposity as assessed using MRI"
+      ],
+      "sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "url": "https://clinicaltrials.gov/study/NCT00884819"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00362934",
+      "title": "A Multicenter, Double-Blind, Randomized, Forced-Titration Study to Compare the Efficacy and Safety of the Combination of 145 mg Fenofibrate and 20 or 40 mg Simvastatin With Atorvastatin Monotherapy in Patients With Mixed Dyslipidemia at Risk of Cardiovascular Disease Not Adequately Controlled by 10 mg Atorvastatin Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2008-08",
+      "country": "Bulgaria, Czechia, Ukraine, Slovakia, Germany",
+      "enrollment": 516,
+      "brief_summary": "Mixed or combined hyperlipidemia is a common metabolic disorder characterized by both hypercholesterolemia and hypertriglyceridemia. Statins and fibrates have complementary mechanisms and can be coadministered to patients with mixed hyperlipidemia. The overall objective of the study is to compare the efficacy and safety of combining fenofibrate and simvastatin versus atorvastatin monotherapy in patients with mixed hyperlipidemia at risk of cardiovascular diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mixed dyslipidemia.\n\nExclusion Criteria:\n\n* Known hypersensitivity to fenofibrates or simvastatin or atorvastatin\n* Pregnant or lactating women\n* Contra-indication to fenofibrate or simvastatin or atorvastatin\n* Unstable or severe cardiac disease",
+      "endpoints": [
+        "Percent change from baseline to 12 weeks of treatment in Triglycerides",
+        "Percent change from baseline to 12 weeks of treatment in HDL-C",
+        "Percent change from baseline to 12 weeks of treatment in LDL-C"
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00362934"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04650152",
+      "title": "A Prospective Observational Study to Assess Tricor Therapy Effectiveness in Patients With Metabolic Syndrome (TRISTAN)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2020-10-27",
+      "completion_date": "2021-11-12",
+      "country": "Russia",
+      "enrollment": 1000,
+      "brief_summary": "This study is a prospective observational program within the frames of which Tricor (fenofibrate) is prescribed to patients with hypertriglyceridemia within a routine procedure as a part of the combination therapy with statins.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 18 years of age.\n* Triglycerides level above 2,3 mmol/l.\n* Patients having been prescribed fenofibrate 145 mg for at least 6 months AND who have been taking fenofibrate 145 mg no more than 3 days at the time of enrollment into the study.\n* Patient who take stat",
+      "endpoints": [
+        "Change of TG at Visit 3 (6 months of fenofibrate treatment) versus baseline level at Visit 1."
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT04650152"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00246636",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase IV Study to Assess the Efficacy and Safety of Adjunctive Omacor Therapy in Hypertriglyceridemic Subjects Treated With Antara, Followed by an 8-week Extension",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-10",
+      "completion_date": "2007-03",
+      "country": "N/A",
+      "enrollment": 167,
+      "brief_summary": "The purpose of OM5/LOV111859 was to evaluate efficacy and safety of Omacor (omega-3-acid ethyl esters) as add-on therapy to Antara (fenofibrate) and diet for the treatment of patients with very high triglycerides.\n\nThe purpose of both OM5X/LOV111860 was to assess the continued efficacy and safety of adjunctive Lovaza (omega-3-acid ethyl esters) therapy in hypertriglyceridemic subjects treated with fenofibrate in lowering serum triglyceride (TG) levels.",
+      "eligibility_criteria": "For OM5/LOV111858 -\n\nInclusion Criteria:\n\n* Men and women ages 18-79 years, inclusive\n* Triglyceride levels between 500 mg/dL and \\<1300 mg/dL\n* Body mass index between 25 and 43 kg/m2\n* Willingness to follow a low-saturated fat diet during the study period and maintain current physical activity lev",
+      "endpoints": [
+        "OM5X/LOV111860 - Difference between double-blind Lovaza (omega-3-acid ethyl esters) + fenofibrate (Group 1) and placebo + fenofibrate (Group 2) treatment groups in percent change in fasting serum TG level from baseline of OM5 to end of OM5X",
+        "OM5/LOV111859 - Difference between Lovaza (omega-3-acid ethyl esters) [formerly known as Omacor]+ fenofibrate and placebo + fenofibrate treatment groups in percent change in TG level from baseline"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00246636"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00186537",
+      "title": "Comparison Fenofibrate, Rosiglitazone, or Weight Loss to Decrease Cardiovascular Risk in Insulin Resistant Dyslipidemic Individuals.",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2008-09",
+      "country": "United States",
+      "enrollment": 47,
+      "brief_summary": "Approximately 1/4 of the US population has insulin resistance and the associated risk factors such as elevated lipid levels -triglycerides (type of fat from what we eat and what the liver produces and low HDL cholesterol which is the good cholesterol helping to protect against heart disease. Currently one known treatment for this a medication called fenofibrate, another medication that can improve insulin resistance is rosiglitazone, a third treatment known to improve insulin resistance an decre",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInsulin Resistant Triglyceride 150 mg/dL or greater or triglyceride HDL-C ratio 3 or greater BMI 25-35\n\nExclusion Criteria:\n\nDiabetes Mellitus History of gall stones History of CHF History of CAD Severe anemia,kidney, or liver disease",
+      "endpoints": [
+        "Pre- and Post-Intervention Triglyceride Levels",
+        "Pre- and Post-Intervention LDL Cholesterol Levels",
+        "Pre- and Post-Intervention HDL Cholesterol Levels"
+      ],
+      "sponsor": "Stanford University",
+      "url": "https://clinicaltrials.gov/study/NCT00186537"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03557983",
+      "title": "Evaluation of Fenofibrate on Radiation-induced Skin Injury",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-06-13",
+      "completion_date": "2020-04-13",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "Fenofibrate is a specific ligand for PPARα, which has been used for the treatment of hypercholesterolemia, hypertriglyceridemia, diabetes and cardiovascular diseases for long time. Fenofibrate reduces low-density lipoprotein (LDL), very low density lipoprotein (VLDL) and triglyceride levels, while increases high-density lipoprotein (HDL) levels. PPARα has also shown antioxidant and anti-inflammatory properties. Fenofibrate confers cytoprotective effect against myocardial ischemia-reperfusion (I/",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible patients had to have a pathologically proven cancer with a planned course of radiotherapy.\n* Normal haematological function (granulocyte count \\> 1.5 X 109 cells per litre, platelet count \\> 100 X 109 cells per litre and haemoglobin \\> 100 g/L) and organ function (cre",
+      "endpoints": [
+        "Measurement of skin wound area"
+      ],
+      "sponsor": "Second Affiliated Hospital of Soochow University",
+      "url": "https://clinicaltrials.gov/study/NCT03557983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00352183",
+      "title": "A Multicenter, Double-Blind, Randomized Study to Compare the Efficacy and Safety of the Combination of 145 mg Fenofibrate and 40 mg Simvastatin With 40 mg Simvastatin Monotherapy in Patients With Mixed Dyslipidemia at Risk of Cardiovascular Disease Not Adequately Controlled by 40 mg Simvastatin Alone.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2006-01",
+      "completion_date": "2008-08",
+      "country": "Hungary, Australia, Latvia, Lithuania, New Zealand, Estonia",
+      "enrollment": 450,
+      "brief_summary": "Mixed or combined hyperlipidemia is a common metabolic disorder characterized by both hypercholesterolemia and hypertriglyceridemia. Statins and fibrates have complementary mechanisms and can be coadministered to patients with mixed hyperlipidemia. The overall objective of the study is to evaluate the efficacy and safety of combining fenofibrate and simvastatin in patients with mixed hyperlipidemia at risk of cardiovascular diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mixed dyslipidemia\n\nExclusion Criteria:\n\n* Diabetes,\n* Known hypersensitivity to fenofibrate or simvastatin,\n* Pregnant or lactating women,\n* Contra-indication to fenofibrate or simvastatin,\n* Unstable or severe cardiac disease.",
+      "endpoints": [
+        "Triglycerides",
+        "Percent change from baseline to 12 weeks of treatment in HDL-C",
+        "Percent change from baseline to 12 weeks of treatment in LDL-C"
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00352183"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00891293",
+      "title": "A Second Open-Label Extension of a Double-Blind, Parallel, Phase IV Study to Assess the Efficacy and Safety of Adjunctive Lovaza® (Formerly Known as Omacor®) Therapy in Hypertriglyceridemic Subjects Treated With Antara™",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2008-05",
+      "country": "United States",
+      "enrollment": 93,
+      "brief_summary": "This was a 24-month, open-label extension study that followed an 8-week double-blind study (Study LOV111859/OM5) and an 8-week, open-label extension study (LOV111860/OM5X). Study LOV111859/OM5 was conducted to evaluate whether combination therapy with Lovaza (omega-3-acid ethyl esters) and Antara (fenofibrate) would result in a greater reduction in serum triglyceride levels in hypertriglyceridemic subjects than treatment with fenofibrate alone. This second extension of 24 months was to assess th",
+      "eligibility_criteria": "Subjects were men and women who had successfully completed the previous open-label extension study (LOV111860/OM5X) and had met all inclusion and exclusion criteria for the original double-blind study (LOV111859/OM5) and throughout LOV111860/OM5X, or who had a renewed waiver of a previously approved",
+      "endpoints": [
+        "Percent Change in Serum Triglycerides From LOV111859/OM5 (Double-blind [DB] Study) Baseline to Week 8 of LOV111860/OM5X (1st Open-label [OL] Extension Study) and From LOV111859/OM5 (DB) Baseline to Month 24 of LOV111821/OM5XX (2nd OL Extension)."
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00891293"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00093899",
+      "title": "A Study to Evaluate the Efficacy and Safety of Ezetimibe/Simvastatin and Fenofibrate Coadministration in Patients With Mixed Hyperlipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2005-09",
+      "country": "N/A",
+      "enrollment": 611,
+      "brief_summary": "The purpose of this study is to assess the cholesterol lowering effects of an investigational drug in patients with mixed hyperlipidemia (high cholesterol and high triglycerides).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women 18-79 years of age with high cholesterol and high triglycerides.\n\nExclusion Criteria:\n\n* Individuals who do not meet specific cholesterol or triglyceride levels as required by the study.",
+      "endpoints": [
+        "Plasma LDL-C."
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00093899"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01047501",
+      "title": "Evaluation of the Effect of Two Doses of AMR101 (Ethyl Icosapentate) on Fasting Serum Triglyceride Levels in Patients With Persistent High Triglyceride Levels (≥ 200 mg/dL and < 500 mg/dL) Despite Statin Therapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2011-02",
+      "country": "United States",
+      "enrollment": 702,
+      "brief_summary": "The primary objective is to determine the efficacy of AMR101 (ethyl icosapentate) compared to placebo in lowering high fasting triglyceride levels in patients with high risk for cardiovascular disease and fasting triglyceride levels ≥ 200 and \\< 500 mg/dL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women, ages \\>18\n* Fasting triglyceride ≥200 mg/dL and \\<500 mg/dL\n* LDL-C (low density lipoprotein - cholesterol) ≥40 mg/dL and \\<100 mg/dL\n* High risk for coronary heart disease\n* On stable dose of statin (atorvastatin, rosuvastatin or simvastatin)\n* Provide written ",
+      "endpoints": [
+        "Difference Between AMR101 (Ethyl Icosapentate) and Placebo Treatment Groups in Triglyceride Lowering Effect"
+      ],
+      "sponsor": "Amarin Pharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01047501"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00349375",
+      "title": "A Multicenter, Double-Blind, Randomized, Active Comparator, Forced-Titration Study to Compare the Efficacy and Safety of the Combination of 145 mg Fenofibrate and 20 or 40 mg Simvastatin With 40 mg Simvastatin Monotherapy in Patients With Mixed Dyslipidemia at Risk of Cardiovascular Disease Not Adequately Controlled by 20 mg Simvastatin Alone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-11",
+      "completion_date": "2008-09",
+      "country": "France, Czechia, Ukraine, Hungary, Denmark, Germany, Netherlands, Poland",
+      "enrollment": 1040,
+      "brief_summary": "Mixed or combined hyperlipidemia is a common metabolic disorder characterized by both hypercholesterolemia and hypertriglyceridemia. Statins and fibrates have complementary mechanisms and can be coadministered to patients with mixed hyperlipidemia. The overall objective of the study is to evaluate the efficacy and safety of combining fenofibrate and simvastatin in patients with mixed hyperlipidemia at risk of cardiovascular diseases.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Mixed dyslipidemia\n\nExclusion Criteria:\n\n* Known hypersensitivity to fenofibrate or simvastatin\n* Pregnant or lactating women\n* Contra-indication to fenofibrate or simvastatin\n* Unstable or severe cardiac disease",
+      "endpoints": [
+        "Percent change from baseline to 24 weeks of treatment in Triglycerides",
+        "Percent change from baseline to 24 weeks of treatment in HDL-C",
+        "Percent change from baseline to 24 weeks of treatment in LDL-C"
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00349375"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01003847",
+      "title": "Differential Metabolic Effects of Fenofibrate and Fatty Acid",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-11",
+      "completion_date": "2010-09",
+      "country": "South Korea",
+      "enrollment": 150,
+      "brief_summary": "The investigators hypothesize that fenofibrate and fatty acid may have different metabolic effects in hypertriglyceridemic patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* hypertriglyceridemia\n\nExclusion Criteria:\n\n* Overt liver disease Chronic renal failure Hypothyroidism Myopathy Uncontrolled diabetes Severe hypertension",
+      "endpoints": [
+        "flow-mediated dilation"
+      ],
+      "sponsor": "Gachon University Gil Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01003847"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02354976",
+      "title": "A Double-blind Randomized Placebo-controlled, Parallel-group 12 Week Study to Investigate the Effects of Epanova® Compared to Placebo and Compared to Fenofibrate on Liver Fat Content in Hypertriglyceridemic overwEight subjeCTs; EFFECT I",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-09-01",
+      "completion_date": "2016-05-26",
+      "country": "Sweden",
+      "enrollment": 78,
+      "brief_summary": "This study is a double-blind randomized, placebo-controlled, parallel-group, 12 week study performed in 2 centres in Sweden to assess the effect of Omega-3 carboxylic acids and fenofibrate on liver fat measured with magnetic resonance imaging (MRI) in patients with over-weight and hypertriglyceridemia.",
+      "eligibility_criteria": "Inclusion Criteria: - Provision of informed consent\n\n* Men or women ≥40 years and ≤75 years with suitable veins for cannulation or repeated venepuncture\n* Have serum triglycerides ≥1.7 mM\n* Have liver fat content as assessed by MRI \\>5.5%\n* Have a body mass index (BMI) \\>25 and ≤40 kg/m2\n\n  , Exclus",
+      "endpoints": [
+        "Geometric Mean Ratio (Week 12/Baseline) of % Liver Fat as Assessed by MRI (Epanova Versus Placebo)"
+      ],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT02354976"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05781698",
+      "title": "Repurposing Fenofibrate in Modulating mTOR/NLRP3 Inflammasome in Patients With Ulcerative Colitis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2023-03-20",
+      "completion_date": "2024-12-20",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Fibrates, specific pharmacological agonists of PPARα, have been widely used to treat hypercholesterolemia and hypertriglyceridemia. Apart from their metabolic action, anti-inflammatory properties of fibrates have been described, including inhibition of NF-kappa B signaling and pro-inflammatory cytokine production. 4 Fenofibrate, an important peroxisome proliferator-activated receptor-a (PPAR- α) agonist, is widely used in clinical as a triglyceride (TG)-lowering agent",
+      "eligibility_criteria": "Inclusion Criteria:\n\nAge ≥ 18 years Both male and female will be included Negative pregnancy test and effective contraception. Mild and moderate UC patients diagnosed and confirmed by endoscope\n\nExclusion Criteria:\n\nBreast feeding Significant liver and kidney function abnormalities Colorectal cancer",
+      "endpoints": [
+        "• The primary endpoint is the change in disease activity index and the improvement in health-related quality of life (HRQL)."
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT05781698"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03515213",
+      "title": "A Phase IIa, Randomized, Double-blind, Placebo-controlled Study of the Safety and Efficacy of Fenofibrate as a Treatment for Huntington's Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2017-04-27",
+      "completion_date": "2021-08-31",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this research study is to study the safety and efficacy of fenofibrate, an FDA-approved drug for high cholesterol and/or elevated triglycerides (fats), as a treatment for Huntington's disease (HD). Subjects who meet the entry criteria will be randomized (3:1) to either 145mg of fenofibrate or placebo.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* An adult of either sex, ages 25-85 inclusive,\n* Have proficiency with written and spoken English and corrected vision or hearing to complete the cognitive testing,\n* Are able to give informed consent,\n* Have good overall health status with no known problems anticipated over th",
+      "endpoints": [
+        "Change in PGC-1alpha RNA Expression",
+        "Change in PGC-1alpha Protein Abundance."
+      ],
+      "sponsor": "University of California, Irvine",
+      "url": "https://clinicaltrials.gov/study/NCT03515213"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03031821",
+      "title": "A Randomized Phase 3 Trial of Metformin in Patients Initiating Androgen Deprivation Therapy as Prevention and Intervention of Metabolic Syndrome: The Prime Study",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2018-07-12",
+      "completion_date": "2023-11-24",
+      "country": "Canada",
+      "enrollment": 168,
+      "brief_summary": "This is a multi-centre, double-blind, randomized phase III trial comparing metformin to placebo in patients with advanced prostate cancer starting (or have recently started) androgen deprivation therapy (ADT).",
+      "eligibility_criteria": "Inclusion Criteria\n\nParticipants must fulfill all the following criteria to be eligible for admission to the study:\n\n1. Pathologically confirmed adenocarcinoma of the prostate\n2. Eligible for initiating androgen deprivation therapy with either:\n\n   1. (Neo-)Adjuvant therapy for localized prostate ca",
+      "endpoints": [
+        "Proportion of participants who meet the diagnostic criteria for metabolic syndrome after 18 months of study treatment"
+      ],
+      "sponsor": "Canadian Urologic Oncology Group",
+      "url": "https://clinicaltrials.gov/study/NCT03031821"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00703755",
+      "title": "A Randomized, Double-Blind Trial Comparing the Efficacy and Safety of Fenofibrate, Metformin, Their Combination and Placebo in Patients With Metabolic Syndrome.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2004-06",
+      "country": "Finland, Norway, Sweden, Italy, Hungary, Netherlands, Romania, Poland, Canada",
+      "enrollment": 2288,
+      "brief_summary": "The purpose of this study was to study the effect of different combinations of fenofibrate and metformin on the cluster of metabolic syndrome (MetS) biochemical abnormalities, and to determine the dose combination allowing normalization of MetS patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients aged from 18 to 75 years old (at inclusion V1).\n* With 3 of the following 5 criteria, including at least 2 biochemical abnormalities (glucose and one lipid abnormality)\n* And having signed a written informed consent (at inclusion V1).\n\nExclusion Criteri",
+      "endpoints": [
+        "The percentage of normalized patients at V4 (fasting glucose < 6.1 mmol/L, TG < 1.69 mmol/L and HDL-C >= 1.03 mmol/L in males and >= 1.29 mmol/L in females)"
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00703755"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05883865",
+      "title": "Safety and Efficacy of Fenofibrate in the Treatment of Pregnant Women With Severe Hypertriglyceridemia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2022-06-01",
+      "completion_date": "2025-12-01",
+      "country": "China",
+      "enrollment": 250,
+      "brief_summary": "The purpose of this study is to evaluate the safety of fenofibrate in severe hypertriglyceridemia pregnant women.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 20-45 years pregnant women; TG level ≥10mM； Voluntary signed informed consent (prospective study) or voluntary consent to use of medical information (retrospective analysis)\n\nExclusion Criteria:\n\n* Evidence of decompensated liver disease; Pregnant women with major organ lesion",
+      "endpoints": [
+        "rate of preterm birth of infants",
+        "Apger score of infants",
+        "body weight of infants"
+      ],
+      "sponsor": "First People's Hospital of Hangzhou",
+      "url": "https://clinicaltrials.gov/study/NCT05883865"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01594983",
+      "title": "A Multicenter, Randomized, Active Comparator, Placebo Controlled, Double-blind Pilot Study to Assess the Efficacy and Safety of LCQ908 Alone and in Combination With Fenofibrate or Lovaza® in Patients With Severe Hypertriglyceridemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-06",
+      "completion_date": "2013-07",
+      "country": "Canada, Russia, United States",
+      "enrollment": 58,
+      "brief_summary": "This study is to determine a dose response signal for LCQ908 monotherapy and to assess the efficacy and safety of adding LCQ908 to Lovaza or fenofibrate.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects ages \\>18 years of age, inclusive.\n* History of plasma TG concentration ≥890 mg/dl (10 mmol/L) or history of lactescent plasma in the fasting state.\n* Fasting TG ≥ 750 mg/dL (8.5 mmol/L) at day -7 or repeat of day -7 one week later for those failing to",
+      "endpoints": [
+        "Change from baseline in triglycerides (TG) relative to placebo at 6 weeks"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01594983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00400231",
+      "title": "The Fenofibrate and Metformin for Atherogenic Dyslipidemia (FAMA) Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-08",
+      "completion_date": "2008-03",
+      "country": "United States",
+      "enrollment": 124,
+      "brief_summary": "Patients with metabolic syndrome, insulin resistance, and elevated triglycerides of 150 mg/dl or higher will be randomized to one of four groups: 1) placebo; 2) metformin; 3) fenofibrate; or 4) combined metformin and fenofibrate for a period of 12 weeks after titration to target dose. We are interested in the effects of these therapies on triglyceride levels, HDL-C, insulin resistance, and markers of inflammation.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSubjects between the ages of 18 and 75 with both of the following risk factors:\n\n1. Fasting triglycerides \\>= 150 mg/dl (but less than 800 mg/dl)\n2. Glucose of 140 to 199 mg/dl, 2 hours after a 75 gm oral glucose load, a fasting HOMA level in the upper quartile (\\> 2.68), or a p",
+      "endpoints": [
+        "triglyceride levels"
+      ],
+      "sponsor": "University of Pennsylvania",
+      "url": "https://clinicaltrials.gov/study/NCT00400231"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01148004",
+      "title": "The Influence of Ritonavir, Alone and in Combination With Lopinavir, on Fenofibric Acid Pharmacokinetics in Healthy Volunteers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2010-05-13",
+      "completion_date": "2013-07-29",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "Background:\n\n\\- Patients infected with the human immunodeficiency virus (HIV) are often treated with protease inhibitors that help fight HIV infection. However, these medications often increase blood cholesterol levels, particularly triglycerides and low-density lipoproteins, and can lead to heart disease and other problems. Patients may take drugs known as fibrates (such as gemfibrozil (Lopid )) to lower triglyceride levels, but even with maximum approved doses patients often cannot reach goal ",
+      "eligibility_criteria": "* INCLUSION CRITERIA:\n\nA subject will be considered eligible for this study only if all of the following criteria are met:\n\n* Between the ages of 18 and 60 years\n* Healthy according to medical history and physical examination\n* Laboratory values: normal liver function tests (ALT less than or equal t",
+      "endpoints": [
+        "Fenofibratae pharmacokinetic parameter values"
+      ],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT01148004"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00076518",
+      "title": "A Phase II Trial of the Effect of Combination Therapy With Fish Oil Supplement and Fenofibrate on Triglyceride (TG) Levels in Subjects on Highly Active Antiretroviral Therapy (HAART) Who Are Not Responding to Either Fish Oil or Fenofibrate Alone",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2005-09",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The purpose of this study is to determine the effectiveness of fish oil supplements combined with the drug fenofibrate in treating elevated triglyceride levels in people taking anti-HIV drugs. The participants in this study will have shown no response to fish oil supplements or fenofibrate alone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV infected\n* Fasting LDL \\<= 160 mg/dL and fasting serum triglycerides \\>= 400 mg/dL within 28 days prior to study entry\n* Willing and able to adhere to a lipid-lowering diet and exercise program for at least 28 days prior to study start and for the duration of the study\n* T",
+      "endpoints": [],
+      "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+      "url": "https://clinicaltrials.gov/study/NCT00076518"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05753267",
+      "title": "Clinical Study to Evaluate the Possible Efficacy of Fenofibrate in Patient With Ulcerative Colitis",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2023-02-28",
+      "completion_date": "2026-06-20",
+      "country": "Egypt",
+      "enrollment": 60,
+      "brief_summary": "Fibrates, which are specific pharmacological agonists of PPARα, have been widely used in the treatment of hypercholesterolemia and hypertriglyceridemia. Apart from their metabolic action, anti-inflammatory properties of fibrates have been described, including inhibition of NF-kappa B signaling and pro-inflammatory cytokine production. 4 Fenofibrate, an important peroxisome proliferator-activated receptor-a (PPAR- α) agonist, is widely used in clinical as a triglyceride (TG)-lowering agent.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Both males and females will be included\n* Negative pregnancy test and effective contraception.\n* Mild and moderate UC patients diagnosed and confirmed by an endoscope\n\nExclusion Criteria:\n\n* Breastfeeding\n* Significant liver and kidney function abnormalities\n*",
+      "endpoints": [
+        "The primary endpoint is the change in disease activity index and the improvement in health-related quality of life (HRQL)"
+      ],
+      "sponsor": "Tanta University",
+      "url": "https://clinicaltrials.gov/study/NCT05753267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03869931",
+      "title": "Effects of Fenofibrate Administration in Patients With Diabetic Nephropathy",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2019-03-08",
+      "completion_date": "2021-04-30",
+      "country": "Singapore",
+      "enrollment": 300,
+      "brief_summary": "Diabetic nephropathy (DN) is a common cause of end-stage renal disease (ESRD) and accounts for nearly half of all new patients starting dialysis in Singapore, the country with the highest rates of DN in the Asia-Pacific region. Despite the scale of the problem, little progress has been made in our understanding of the pathogenesis of the disorder and no new therapies have been offered.\n\nThe investigators have conducted a metabolomics study of human diabetic nephropathy that revealed evidence for",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Man or woman between 21 and 100 years of age\n* Type 2 diabetes mellitus Increased urine protein excretion as defined as:\n* More than one measurement in the past 1-year with urine microalbumin/creatinine ratio (ACR) \\> 3.3 mg/mmol creatinine, or urine total protein/creatinine r",
+      "endpoints": [
+        "Serum concentration of palmitoylcarnitine following 30 days of fenofibrate treatment",
+        "Serum concentration of acetylcarnitine following 30 days of fenofibrate treatment",
+        "Serum concentration of leucine following 30 days of fenofibrate treatment"
+      ],
+      "sponsor": "Singapore General Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03869931"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01492361",
+      "title": "Evaluation of the Effect of AMR101 on Cardiovascular Health and Mortality in Hypertriglyceridemic Patients With Cardiovascular Disease or at High Risk for Cardiovascular Disease: REDUCE-IT (Reduction of Cardiovascular Events With EPA - Intervention Trial)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2018-05",
+      "country": "South Africa, India, Russia, Ukraine, Australia, Netherlands, Romania, Poland, Canada, New Zealand, United States",
+      "enrollment": 8179,
+      "brief_summary": "AMR101 (icosapent ethyl \\[ethyl-EPA\\]) is a highly purified ethyl ester of eicosapentaenoic acid (EPA) developed by Amarin Pharma Inc. for the treatment of cardiovascular disease in statin-treated patients with hypertriglyceridemia. The purpose of this study was to evaluate whether this drug, combined with a statin therapy, will be superior to the statin therapy alone, when used as a prevention in reducing long-term cardiovascular events in high-risk patients with mixed dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and non-pregnant or sterile women ages 45 and older\n* Hypertriglyceridemia\n* On statin therapy for at least four weeks\n* Either having established cardiovascular disease or at high risk for cardiovascular disease\n\nExclusion Criteria:\n\n* Severe heart failure\n* Any life-thre",
+      "endpoints": [
+        "Composite of CV Death, Nonfatal MI (Including Silent MI), Nonfatal Stroke, Coronary Revascularization, or Unstable Angina Determined to be Caused by Myocardial Ischemia by Invasive / Non-invasive Testing and Requiring Emergent Hospitalization."
+      ],
+      "sponsor": "Amarin Pharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01492361"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01025492",
+      "title": "Mechanisms of Atheroprotection by Fenofibric Acid (ABT 335) Added to a Statin in Subjects With Insulin Resistance (Hypertriglyceridemia and Low HDL-C)",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2009-11",
+      "completion_date": "2011-03",
+      "country": "United States",
+      "enrollment": 24,
+      "brief_summary": "Fibrates reduce atherosclerosis and cardiovascular disease events. A major mechanism of this benefit appears to be their ability to raise plasma high density lipoprotein cholesterol (HDL-C), especially in patients with high triglyceride levels. This study will investigate the effects of the addition of Trilipix (fenofibric acid) versus placebo to ongoing statin treatment on high density lipoprotein (HDL) composition and arterial function in subjects with insulin resistance.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Triglyceride 150-500 mg/dL\n* HDL-C \\< 45 mg/dL in men, \\< 55 in women\n* LDL-C \\< 130 mg/dL\n* stable statin dose x 8 weeks\n\nExclusion Criteria:\n\n* Prior use of a fibrate \\> 4 weeks ever (minimum 12 months off fibrate)\n* Intolerance to medications to be used in study (fenofibric",
+      "endpoints": [
+        "Apolipoprotein A-I Serum Concentration"
+      ],
+      "sponsor": "University of Utah",
+      "url": "https://clinicaltrials.gov/study/NCT01025492"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00092573",
+      "title": "Evaluation of the Efficacy and Safety of Fenofibrate and Ezetimibe Coadministration in Patients With Mixed Hyperlipidemia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2004-11",
+      "country": "N/A",
+      "enrollment": 576,
+      "brief_summary": "The purpose of this study is to assess the cholesterol lowering safety and effectiveness of two investigational drugs in patients with mixed hyperlipidemia (high cholesterol and high triglycerides).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* High cholesterol and high triglycerides\n\nExclusion Criteria:\n\n* Patient has a condition which, in the opinion of the investigator, might pose a risk to the patient, interfere with participation in the study, or does not meet the additional criteria as required by the study",
+      "endpoints": [
+        "Tolerability"
+      ],
+      "sponsor": "Organon and Co",
+      "url": "https://clinicaltrials.gov/study/NCT00092573"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00169559",
+      "title": "A Multi-center, Three-staged, Randomized, Parallel Group, Sequential, Double-blind, fenofibrate-and Placebo-controlled Dose-response Evaluation of the Safety, Tolerability, and Effects on Plasma HDLc and TG of Eight Weeks Treatment With 1µg to 20µg Daily Doses of GW590735 in Otherwise Healthy Subjects With Low HDLc, Mildly to Moderately Elevated TG, and Normal LDLc",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2005-04",
+      "country": "Canada, United States",
+      "enrollment": 250,
+      "brief_summary": "An eight week comparison of the investigational drug GW590735, placebo, and the marketed drug fenofibrate intended to increase the levels of \"good cholesterol\" and decrease levels of \"bad cholesterol\" in healthy patients with low levels of good cholesterol and high levels of bad cholesterol.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* High-density lipoprotein cholesterol less than or equal to 45 mg/dL.\n* Triglycerides greater than or equal to 120 mg/dL and less than or equal to 500 mg/dL.\n* Women must be surgically sterile or postmenopausal.\n\nExclusion criteria:\n\n* Heart disease\n* Diabetes",
+      "endpoints": [
+        "change from baseline in fasting plasma HDLc concentration at the end of eight weeks of double blind treatment"
+      ],
+      "sponsor": "GlaxoSmithKline",
+      "url": "https://clinicaltrials.gov/study/NCT00169559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01047683",
+      "title": "Evaluation of the Efficacy and Safety of AMR101 (Ethyl Icosapentate) in Patients With Fasting Triglyceride Levels ≥ 500 mg/dL and ≤ 2000 mg/dL",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-12",
+      "completion_date": "2011-07",
+      "country": "Finland, Mexico, South Africa, India, Russia, Italy, Ukraine, Denmark, Germany, Netherlands, United States",
+      "enrollment": 229,
+      "brief_summary": "The primary objective is to determine the efficacy of AMR101 (ethyl icosapentate) compared to placebo in lowering fasting triglyceride levels in patients with very high fasting triglyceride levels ≥ 500 and ≤ 2000 mg/dL.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women, ages \\>18\n* Fasting triglyceride ≥500 mg/dL and ≤2000 mg/dL\n* Provide written informed consent and authorization for protected health information disclosure\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant\n* Use of non-",
+      "endpoints": [
+        "Difference Between AMR101 (Ethyl Icosapentate) and Placebo Treatment Groups in Triglyceride Lowering Effect"
+      ],
+      "sponsor": "Amarin Pharma Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01047683"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00349284",
+      "title": "A Randomised, Double-Blind Study Comparing the Efficacy and Safety of 145 mg Fenofibrate, 10 mg Ezetimibe and Their Combination in Patients With Type IIb Dyslipidemia and Features of the Metabolic Syndrome",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "",
+      "country": "Germany, Belgium, France",
+      "enrollment": 181,
+      "brief_summary": "Type IIb dyslipidemia is characterized by elevated triglycerides (TG ³ 150 mg/dL), and elevated LDL-C levels (³160 mg/dL). When in addition, HDL-C is low, the presence of the lipid triad, elevated TG and LDL-C and low levels of HDL-C, seems to confer additional CHD risk in this type of patient, compared to elevated LDL-C alone.Coadministration of fenofibrate and ezetimibe could provide a complementary efficacy therapy and improve the atherogenic profile of this patient population.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type IIb dyslipidemia.\n\nExclusion Criteria:\n\n* Known hypersensitivity to fibrates or ezetimibe. Pregnant or lactating women. Contra-indication to fenofibrate or ezetimibe.",
+      "endpoints": [
+        "TG and HDL-C levels."
+      ],
+      "sponsor": "Solvay Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00349284"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03001817",
+      "title": "A Phase 3, Multi-Center, Placebo-Controlled, Randomized, Double-Blind, 12-Week Study With a 40-Week, Active-Controlled, Double-Blind Extension to Evaluate the Efficacy and Safety of K-877 in Adult Patients With Fasting Triglyceride Levels ≥500 mg/dL and <2000 mg/dL and Normal Renal Function",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-11-28",
+      "completion_date": "2019-06-24",
+      "country": "Bulgaria, Czechia, Russia, Belarus, Georgia, Hungary, Ukraine, Poland, United States",
+      "enrollment": 551,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of K-877 in adult patients with fasting high triglyceride levels ≥500 mg/dL and \\<2000 mg/dL and normal renal function.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Able to understand and willing to comply with all study requirements and procedures throughout the duration of the study and give written informed consent;\n2. Aged ≥18 years;\n3. Patients receiving moderate- or high-intensity statin therapy must meet one of the following crite",
+      "endpoints": [
+        "Percent Change of Fasting Triglyceride(TG) Levels From Baseline to Week 12"
+      ],
+      "sponsor": "Kowa Research Institute, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03001817"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01023750",
+      "title": "Pretreatment Genotyping at APOA5 and GCKR Loci and Response to Fenofibrate Therapy",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2012-07",
+      "country": "United States",
+      "enrollment": 39,
+      "brief_summary": "Fenofibrate is one of the best options for treating hypertriglyceridemia. In the majority of patients, fenofibrate lowers triglycerides (TG) by 24-55% and improves HDL- and LDL-cholesterol. However, the response to fenofibrate is highly variable and currently there are no screening tests to identify poor responders. Genetic and environmental factors may explain the high variability in response. Although exploratory in nature, this study is of clinical and public health importance because predict",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 19 years old or over dyslipidemic patients designated to receive fenofibrate by their attending physician.\n* All patients will be seen at the UAB Diabetes and Endocrine Clinic or Cardiology Clinic.\n* Women who are unable to have children because of surgery or other medical rea",
+      "endpoints": [
+        "Change in fasting triglyceride concentrations"
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT01023750"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01462877",
+      "title": "An Open-label, Multi-center Study to Evaluate the Efficacy and Safety of Statin-fenofibrate Combination Therapy in Dyslipidemic Chinese Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2011-10",
+      "completion_date": "2014-03",
+      "country": "China",
+      "enrollment": 506,
+      "brief_summary": "Atherogenic dyslipidemia includes patients who have coronary heart disease (CHD) or CHD risk equivalents, whose TG level is not adequately controlled after statin monotherapy. According to the published ESC/EAS consensus, fibrate is suggested to be added to this type of patient who has insufficient improvement. The purpose of the study is to evaluate the efficacy on lipid control and the safety of adding fenofibrate in patients on a background of statin treatment.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years and \\< 80 years, male or female\n2. With at least one risk of coronary heart disease (CHD) \\[medical history of myocardial infarction (MI) or coronary angiography shows coronary stenosis ≥ 50% or post percutaneous coronary intervention (PCI) or post coronary artery b",
+      "endpoints": [
+        "Percentage of Triglyceride (TG) Change"
+      ],
+      "sponsor": "Abbott",
+      "url": "https://clinicaltrials.gov/study/NCT01462877"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01666041",
+      "title": "Vascular and Metabolic Effects of Fenofibrate/Omega vs Fenofibrate",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2012-01",
+      "completion_date": "2013-07",
+      "country": "South Korea",
+      "enrollment": 120,
+      "brief_summary": "The investigators hypothesize that fenofibrate/omega will improve insulin resistance compared with fenofibrate",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* hypertriglyceridemia\n\nExclusion Criteria:\n\n* moderate or severe hypertension, uncontrolled diabetes (HbA1c \\> 9%), nephrotic syndrome, hypothyroidism, coronary artery disease, or peripheral vascular disease",
+      "endpoints": [
+        "flow-mediated dilation"
+      ],
+      "sponsor": "Gachon University Gil Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT01666041"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03615534",
+      "title": "Efficacy and Safety of Extended Release Niacin-Fenofibrate Combination and Monotherapy for the Treatment of Atherogenic Dyslipidemia in Obese Females",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2014-10-01",
+      "completion_date": "2015-10-30",
+      "country": "Iraq",
+      "enrollment": 161,
+      "brief_summary": "Atherogenic Dyslipidemia (AD) is a risk-conferring lipid/lipoprotein profile that comprises a higher proportion of small LDL particles, reduced HDL-C, and increased triglycerides. It is characteristically seen in patients with obesity, metabolic syndrome, insulin resistance, and type 2 diabetes mellitus and has emerged as an important marker for the increased cardiovascular disease (CVD) risk observed in these populations.\n\nOptimal cardiovascular risk reduction in patients exhibiting the lipid t",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* BMI≥30 kg/m2.\n* Conventional diagnosis of atherogenic dyslipidemia, confirmed by a fasting serum TG more than150 mg/dl coincide with an HDL-C of less than 50 mg/dl.\n\nExclusion Criteria:\n\n* The use of any antilipidemic medication.\n* Findings suggestive for renal dysfunction (eG",
+      "endpoints": [
+        "Changes Serum Triglyceride Levels",
+        "Changes in Serum Lipoprotein Cholesterol Levels",
+        "Changes in Serum Apolipoprotein Levels"
+      ],
+      "sponsor": "Al-Kindy College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT03615534"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06623539",
+      "title": "Pemafibrate for Treating NAFLD Complicated by Hypertriglyceridemia: A Multi-center, Open Study, Randomized Controlled Trial (PRESENT Study)",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-12-23",
+      "completion_date": "2026-03",
+      "country": "Japan",
+      "enrollment": 360,
+      "brief_summary": "This is a study to evaluate the effect of pemafibrate on fatty liver in patients with hypertgemia combined with NAFLD, using fenofibrate as a control.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women at least 20 years old and under 80 years old at the time of obtaining consent.\n2. Patients with fatty liver diagnosed histologically within 1 year prior to obtaining consent or imaging examination within 6 months prior to obtaining consent and who have failed ex",
+      "endpoints": [
+        "Change in ALT level"
+      ],
+      "sponsor": "Yokohama City University",
+      "url": "https://clinicaltrials.gov/study/NCT06623539"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01927315",
+      "title": "Effects of Fenofibrate on Endothelial Progenitor Cell Levels in Diabetic Patients With Retinopathy. A Randomized Controlled Trial.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-08",
+      "completion_date": "2019-12",
+      "country": "Italy",
+      "enrollment": 41,
+      "brief_summary": "Long-standing diabetes is often complicated by retinopathy. The mechanisms that induce the development of diabetic retinopathy are incompletely understood and include alterations in bone marrow derived vasculogenic cells called \"endothelial progenitor cells\".\n\nFenofibrate is a PPAR-alpha agonist used for the treatment of mixed dislipidemia and hypertriglyceridemia. In a trial conducted in type 2 diabetic patients, the drug fenofibrate has reduced retinopathy-related endpoints suggesting a direct",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 1 or type 2 diabetes\n* Diabetic retinopathy\n* Age 18-70\n* Both sexes\n\nExclusion Criteria:\n\n* Age \\<18 or \\>70 at enrollment\n* Hereditary muscle disorders\n* Uncontrolled hypothyroidism\n* Elevated alcohol consumption\n* Renal failure\n* Hepatic failure\n* Allergy to fenofibrat",
+      "endpoints": [
+        "Endothelial progenitor cells",
+        "Circulating progenitor cells"
+      ],
+      "sponsor": "University of Padova",
+      "url": "https://clinicaltrials.gov/study/NCT01927315"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00745407",
+      "title": "Effects of Fenofibrate on Adipocytokine Levels In Hypertriglyceridemic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2005-01",
+      "completion_date": "2008-08",
+      "country": "South Korea",
+      "enrollment": "N/A",
+      "brief_summary": "Fenofibrate increases adiponectin levels, but reduces leptin levels",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* hypertriglyceridemia\n\nExclusion Criteria:\n\n* chronic liver disease",
+      "endpoints": [],
+      "sponsor": "Gachon University Gil Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00745407"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01539616",
+      "title": "A Multicentric Prospective Randomized Double Blind Parallel Group Active Controlled Study to Evaluate the Safety and Efficacy of ZYH7 Compared to Fenofibrate in Patients With Dyslipidemia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-11",
+      "completion_date": "2012-08",
+      "country": "India",
+      "enrollment": 109,
+      "brief_summary": "ZYH7, a novel peroxisome proliferator-activated receptor (PPAR) alpha agonist, is expected to decrease triglyceride level and also correct dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18-65 years\n2. Subjects of either gender, males or females\n3. Triglycerides between 200 to 500 mg/dl on screening visit.\n4. Body mass index (BMI) \\> 23 kg/m2\n5. If subject is diabetic, he should be controlled on a maximum of two oral anti diabetic agents except Thiazolidi",
+      "endpoints": [
+        "Percentage change in mean triglyceride level from baseline"
+      ],
+      "sponsor": "Zydus Lifesciences Limited",
+      "url": "https://clinicaltrials.gov/study/NCT01539616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00246376",
+      "title": "Diet/Exercise, Niacin, Fenofibrate for HIV Lipodystrophy",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2004-01",
+      "completion_date": "2012-02",
+      "country": "United States",
+      "enrollment": 221,
+      "brief_summary": "This study will evaluate the efficacy of diet and exercise (DE), with and without niacin and fenofibrate, in reducing the cardiovascular risk of patients with HIV lipodystrophy or dyslipidemia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* HIV positive\n* On stable HAART regimen for at least 6 months prior to study entry\n* T-cell count greater than 100 and viral load less than 1,000 for at least 6 months prior to study entry\n* Fasting triglyceride level greater than 150 mg/dl\n* Body mass index (BMI) greater than ",
+      "endpoints": [
+        "Triglycerides",
+        "Non-HDL-C",
+        "HDL-C"
+      ],
+      "sponsor": "Baylor College of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00246376"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02153879",
+      "title": "Qualitative and Quantitative Characterization of HDL in T2D After Fenofibrate or Niacin Treatment in Spanish Population",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2013-12",
+      "country": "Spain",
+      "enrollment": 30,
+      "brief_summary": "The structural and functional alterations of high density lipoproteins (HDL) levels in type 2 diabetes (T2D) patients linked to hypertriglyceridemia, hyperglycemia, insulin resistance, inflammation and oxidation, play a major role in the increased macrovascular risk in these patients. An impaired function of the adipose tissue (AT) in T2D contributes to low HDL concentrations.\n\nObjectives: 1) Quantitative and qualitative characterisation of HDL subclasses by ultracentrifugation, proteomic and me",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Type 2 diabetic patients\n* Age from 30 years to 70 years\n* HDL not exceeding 50 mg/dl in men or 60 mg/dl in women\n\nExclusion Criteria:\n\n* to be a smoker\n* To be diagnosed with diabetes less than three months before\n* To have triglyceride levels above 400 mg/dl\n* Glycated hemog",
+      "endpoints": [
+        "HDL particles size and number assessed by nuclear magnetic resonance (NMR) and reported as nm and micromol/L"
+      ],
+      "sponsor": "Institut Investigacio Sanitaria Pere Virgili",
+      "url": "https://clinicaltrials.gov/study/NCT02153879"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00422396",
+      "title": "Effects of Micronized Fenofibrate on Fasting and Postprandial Lipoproteins, Inflammatory Mediators and Thrombosis",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2001-01",
+      "completion_date": "2002-04",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "This is a randomized placebo controlled clinical trial designed to investigate the effects of micronized fenofibrate on fasting and postprandial lipoproteins, oxidized fatty acids and lipoproteins, inflammatory mediators and thrombotic factors among hypertriglyceridemic individuals with two or more other characteristics of the metabolic syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. males and postmenopausal females 18 years of age with fasting triglycerides greater than or equal to 1.7 mmol/L and \\<6.9 mmol/L\n2. two or more of the following Adult Treatment Panel III (1) criteria of the metabolic syndrome: abdominal obesity (waist circumference \\>89 cm in",
+      "endpoints": [
+        "1. lipids and lipoproteins"
+      ],
+      "sponsor": "University of Michigan",
+      "url": "https://clinicaltrials.gov/study/NCT00422396"
+    }
+  ],
+  "timestamp": "2026-03-04T16:40:09.747917",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,589 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Folic Acid",
+    "disease": "deficiency anemia",
+    "query_string": "Folic Acid AND deficiency anemia"
+  },
+  "data": {
+    "query": "Folic Acid AND deficiency anemia",
+    "results": [
+      {
+        "pmid": "28034892",
+        "title": "How I treat anemia in pregnancy: iron, cobalamin, and folate.",
+        "abstract": "Anemia of pregnancy, an important risk factor for fetal and maternal morbidity, is considered a global health problem, affecting almost 50% of pregnant women. In this article, diagnosis and management of iron, cobalamin, and folate deficiencies, the most frequent causes of anemia in pregnancy, are discussed. Three clinical cases are considered. Iron deficiency is the most common cause. Laboratory tests defining iron deficiency, the recognition of developmental delays and cognitive abnormalities in iron-deficient neonates, and literature addressing the efficacy and safety of IV iron in pregnancy are reviewed. An algorithm is proposed to help clinicians diagnose and treat iron deficiency, recommending oral iron in the first trimester and IV iron later. Association of folate deficiency with neural tube defects and impact of fortification programs are discussed. With increased obesity and bariatric surgery rates, prevalence of cobalamin deficiency in pregnancy is rising. Low maternal cobal",
+        "journal": "Blood",
+        "year": "2017",
+        "authors": [
+          "Achebe Maureen M",
+          "Gafter-Gvili Anat"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Erythrocyte Transfusion",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hematinics",
+          "Humans",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28034892/"
+      },
+      {
+        "pmid": "35257147",
+        "title": "Coverage of iron and folic acid supplementation in India: progress under the Anemia Mukt Bharat strategy 2017-20.",
+        "abstract": "High prevalence of anaemia is a severe public health problem in India. In 2018, India launched the Anemia Mukt Bharat (AMB) strategy that focuses on six beneficiary groups for coverage, six institutional mechanisms for health system strengthening and six programmatic interventions to accelerate reductions in anaemia prevalence. This paper uses the Health Management Information System data (2017-18 to 2019-20) to examine gains in IFA coverage across Indian states. A coverage-based AMB index is computed to review performance across states. After the launch of AMB strategy, the Iron and Folic Acid (IFA) supplementation coverage between 2017-18 and 2019-20 has increased for all beneficiary groups [pregnant women from 78% to 90%; lactating mothers from 34% to 49%; school going adolescent girls (boys) from 23% to 40% (21% to 42%); out-of-school adolescent girls from 6% to 23%; children 5-9 years from 8% to 3% and children 6-59 months from 7% to 15%]. Coverage was relatively low for target gr",
+        "journal": "Health policy and planning",
+        "year": "2022",
+        "authors": [
+          "Joe William",
+          "Patel Narendra",
+          "Alambusha Ruby",
+          "Kulkarni Bharati"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "India",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35257147/"
+      },
+      {
+        "pmid": "27212091",
+        "title": "Evaluation of Anemia.",
+        "abstract": "Anemia is a common problem in primary care. Classification based on mean cell volume narrows the differential diagnosis and directs testing. A marked macrocytosis is characteristic of vitamin B12 and folate deficiencies, certain medications, and primary bone marrow disorders. The three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation. Additional laboratory testing is required for diagnosis. Determination of the rate of development of anemia and examination of a blood smear may provide diagnostic clues to guide more specialized testing. Diagnosis of iron, vitamin B12, or folate deficiency mandates determination of the underlying cause.",
+        "journal": "Obstetrics and gynecology clinics of North America",
+        "year": "2016",
+        "authors": [
+          "Kujovich Jody L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Alcohol Drinking",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Blood Cell Count",
+          "Diagnosis, Differential",
+          "Drug-Related Side Effects and Adverse Reactions",
+          "FIGLU Test",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27212091/"
+      },
+      {
+        "pmid": "31973225",
+        "title": "Micronutrient Supplementation and Fortification Interventions on Health and Development Outcomes among Children Under-Five in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.",
+        "abstract": "Micronutrient deficiencies continue to be widespread among children under-five in low- and middle-income countries (LMICs), despite the fact that several effective strategies now exist to prevent them. This kind of malnutrition can have several immediate and long-term consequences, including stunted growth, a higher risk of acquiring infections, and poor development outcomes, all of which may lead to a child not achieving his or her full potential. This review systematically synthesizes the available evidence on the strategies used to prevent micronutrient malnutrition among children under-five in LMICs, including single and multiple micronutrient (MMN) supplementation, lipid-based nutrient supplementation (LNS), targeted and large-scale fortification, and point-of-use-fortification with micronutrient powders (MNPs). We searched relevant databases and grey literature, retrieving 35,924 papers. After application of eligibility criteria, we included 197 unique studies. Of note, we examin",
+        "journal": "Nutrients",
+        "year": "2020",
+        "authors": [
+          "Tam Emily",
+          "Keats Emily C",
+          "Rind Fahad",
+          "Das Jai K",
+          "Bhutta And Zulfiqar A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Child Nutrition Disorders",
+          "Child, Preschool",
+          "Developing Countries",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Food, Fortified",
+          "Growth Disorders",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31973225/"
+      },
+      {
+        "pmid": "33906782",
+        "title": "Vitamin B12 deficiency and anemia in 140 Taiwanese female lacto-vegetarians.",
+        "abstract": "Lacto-vegetarians (LVs) tend to have vitamin B12 deficiency (B12D). This study assessed whether 140 female LVs, including 16 B12D/LVs and 124 non-B12D/LVs, had significantly higher frequencies of microcytosis, macrocytosis, and of blood hemoglobin (Hb), red blood cell (RBC), and serum vitamin B12 deficiencies than 140 healthy control subjects (HCSs).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2021",
+        "authors": [
+          "Lee Yi-Pang",
+          "Loh Ching-Hui",
+          "Hwang Ming-Jay",
+          "Lin Chun-Pin"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Autoantibodies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid",
+          "Hemoglobins",
+          "Humans",
+          "Hyperhomocysteinemia",
+          "Iron"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33906782/"
+      },
+      {
+        "pmid": "13591299",
+        "title": "Folic acid deficiency and the megaloblastic anaemias.",
+        "abstract": "",
+        "journal": "Proceedings of the Royal Society of Medicine",
+        "year": "1958",
+        "authors": [
+          "CHANARIN I",
+          "MOLLIN D L",
+          "ANDERSON B B"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Megaloblastic",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13591299/"
+      },
+      {
+        "pmid": "1596590",
+        "title": "Nutritional anaemias.",
+        "abstract": "Nutritional anaemia is recognized as a major public health problem throughout the world, especially in developing countries. Infants, young children, menstruating women and, in particular, pregnant women are most frequently affected. Sufficient evidence suggests that iron deficiency is the most common cause of nutritional anaemia in the world. Folate deficiency is considered as the second most common cause. In this chapter we discuss the factors determining nutritional inadequacy in iron and folate requirements versus iron and folate intake, particularly in different age/sex categories; the amounts of iron and folate involved in daily exchange and the role of the diet and physiological and pathological variations in losses and requirements are reviewed. The consequences in terms of health of iron and folate deficiencies and methods for assessing iron and folate status of populations are also presented.",
+        "journal": "Bailliere's clinical haematology",
+        "year": "1992",
+        "authors": [
+          "Hercberg S",
+          "Galan P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Hypochromic",
+          "Anemia, Megaloblastic",
+          "Child",
+          "Child, Preschool",
+          "Diet",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1596590/"
+      },
+      {
+        "pmid": "38626969",
+        "title": "Impact of supplementation with iron-folic acid (IFA) and vitamin D3 compared with IFA alone on haemoglobin levels in elderly people with mild-to-moderate anaemia: protocol for the double-blind, randomised, placebo-controlled Iron and vitamin D trial in Elderly Anemia (IDEA).",
+        "abstract": "Anaemia in the elderly is often difficult to treat with iron supplementation alone as prevalence of anaemia of chronic disease (ACD) alone or mixed with iron-deficiency anaemia (IDA) is high in this age group. Hepcidin remains high in ACD, preventing utilisation of iron for heme synthesis. Vitamin D3 has shown hepcidin suppression activity in both in vitro and in vivo studies. As there is no study assessing the effect of iron-folic acid (IFA) with vitamin D3 on haemoglobin levels in the elderly in India, we want to conduct this study to estimate the impact of supplementation of a therapeutic package of IFA and vitamin D3 on haemoglobin levels in the elderly with mild-to-moderate anaemia in comparison with IFA only. The study will also assess the impact of the proposed intervention on ferritin, hepcidin, 25-hydroxyvitamin D, C reactive protein (CRP) and parathyroid hormone (PTH) levels.",
+        "journal": "BMJ open",
+        "year": "2024",
+        "authors": [
+          "Ahamed Farhad",
+          "Jaiswal Abhishek",
+          "Sahoo Sibasish",
+          "Ghosh Tandra",
+          "Kaur Amandeep"
+        ],
+        "pub_types": [
+          "Clinical Trial Protocol",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aged",
+          "Iron",
+          "Cholecalciferol",
+          "Hepcidins",
+          "Dietary Supplements",
+          "Folic Acid",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Vitamin D"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38626969/"
+      },
+      {
+        "pmid": "18053140",
+        "title": "Prevalence of anemia and deficiency of iron, folic acid, and zinc in children younger than 2 years of age who use the health services provided by the Mexican Social Security Institute.",
+        "abstract": "In Mexico, as in other developing countries, micronutrient deficiencies are common in infants between 6 and 24 months of age and are an important public health problem. The objective of this study was to determine the prevalence of anemia and of iron, folic acid, and zinc deficiencies in Mexican children under 2 years of age who use the health care services provided by the Mexican Institute for Social Security (IMSS).",
+        "journal": "BMC public health",
+        "year": "2007",
+        "authors": [
+          "Duque Ximena",
+          "Flores-Hernández Sergio",
+          "Flores-Huerta Samuel",
+          "Méndez-Ramírez Ignacio",
+          "Muñoz Sergio"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Case-Control Studies",
+          "Child Health Services",
+          "Female",
+          "Ferritins",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18053140/"
+      },
+      {
+        "pmid": "3880840",
+        "title": "Megaloblastic anemias.",
+        "abstract": "",
+        "journal": "Laboratory investigation; a journal of technical methods and pathology",
+        "year": "1985",
+        "authors": [
+          "Herbert V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S.",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Anemia, Megaloblastic",
+          "Anemia, Pernicious",
+          "Child",
+          "Child, Preschool",
+          "Demyelinating Diseases",
+          "Diagnosis, Differential"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3880840/"
+      },
+      {
+        "pmid": "7796091",
+        "title": "Does folic acid harm people with vitamin B12 deficiency?",
+        "abstract": "Oral folic acid given before and during pregnancy can prevent about 75% of fetal neural tube defects. Even in large dose (20 mg daily) folic acid has never been shown to harm normal people, but it has acquired a bad reputation in pernicious anaemia. Before 1930, if untreated patients survived the anaemia, they succumbed to peripheral neuritis, subacute combined degeneration of the spinal cord, and death. The speed of this progression was extremely variable. From 1947 onwards, there were many reports of rapid neurological deterioration during administration of folic acid as sole therapy to people with pernicious anaemia. However, a review of clinical studies published before the introduction of liver and vitamin B12 therapy shows that neurological deterioration was often quite as rapid and severe in untreated patients. Oral folic acid can usually correct or prevent the anaemia of pernicious anaemia. Thus it could mask the underlying disease, and allow the development or progression of n",
+        "journal": "QJM : monthly journal of the Association of Physicians",
+        "year": "1995",
+        "authors": [
+          "Dickinson C J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anemia, Pernicious",
+          "Clinical Trials as Topic",
+          "Diagnostic Errors",
+          "Female",
+          "Folic Acid",
+          "Food, Fortified",
+          "Humans",
+          "Male",
+          "Nervous System Diseases"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7796091/"
+      },
+      {
+        "pmid": "29582845",
+        "title": "The burden of iron-deficiency anaemia among women in India: how have iron and folic acid interventions fared?",
+        "abstract": "Iron-deficiency anaemia (IDA) among women in India is a problem of major public health significance. Using data from three waves of the National Family Health Survey, this article discusses the burden of and trend in IDA among women in India, and discusses the level of iron and folic acid (IFA) supplementation and its potential role in reducing the burden of IDA. Between 2005-2006 and 2015-2016, IDA in India decreased by only 3.5 percentage points (from 56.5% in 2005-2006 to 53.0% in 2015-2016) for women aged 15-49 years. However, during the same period, of 27 states compared, IDA increased in eight: Delhi, Haryana, Himachal Pradesh, Kerala, Meghalaya, Tamil Nadu, Punjab and Uttar Pradesh; furthermore, some of these (e.g. Kerala) are states that rank among the highest on the state Human Development Index but had failed to contain the burden of IDA. Although there is a standard guideline for IFA supplementation in place, the IFA intervention appears to be ineffective in reducing the bur",
+        "journal": "WHO South-East Asia journal of public health",
+        "year": "2018",
+        "authors": [
+          "Rai Rajesh Kumar",
+          "Fawzi Wafaie W",
+          "Barik Anamitra",
+          "Chowdhury Abhijit"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Anemia, Iron-Deficiency",
+          "Dietary Supplements",
+          "Female",
+          "Folic Acid",
+          "Health Surveys",
+          "Humans",
+          "India",
+          "Iron, Dietary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29582845/"
+      },
+      {
+        "pmid": "395648",
+        "title": "Nutritional anemias.",
+        "abstract": "The role of the metals, iron and copper, and the vitamins E, folic acid, and B12 in the genesis of nutritional anemias in infancy have been reviewed. All are preventable. The precise requirements for each of these trace elements and vitamins in the small premature infant remain to be defined. The nonhematologic consequences of these nutritional deficiencies require further study. Anemia may prove to be the least important manifestation of the deficiency states.",
+        "journal": "Seminars in perinatology",
+        "year": "1979",
+        "authors": [
+          "Oski F A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Hypochromic",
+          "Child",
+          "Child, Preschool",
+          "Copper",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/395648/"
+      },
+      {
+        "pmid": "26187724",
+        "title": "Hematinic deficiencies and anemia statuses in oral mucosal disease patients with folic acid deficiency.",
+        "abstract": "Folic acid deficiency (FAD) may result in macrocytic anemia. This study assessed the hematinic deficiencies and anemia statuses in oral mucosal disease patients with FAD (defined as folic acid ≤ 6 ng/mL).",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "2015",
+        "authors": [
+          "Chang Julia Yu-Fong",
+          "Wang Yi-Ping",
+          "Wu Yang-Che",
+          "Cheng Shih-Jung",
+          "Chen Hsin-Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Anemia, Iron-Deficiency",
+          "Anemia, Macrocytic",
+          "Autoantibodies",
+          "Case-Control Studies",
+          "Erythrocyte Indices",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26187724/"
+      },
+      {
+        "pmid": "1121649",
+        "title": "Folic acid deficiency in sickle cell anaemia.",
+        "abstract": "Megaloblastic anaemia responding to folic acid has been reported in a number fo patients with sickle cell anaemia. The incidence of reduced serum and erythrocyte folate levels in such patients remains unclear, however. Serum and erythrocyte folate contents were measured microbiologically in patients with sickle cell anaemia as well as in two control groups with sickle cell trait or normal haemoglobin pattern. Low serum and erythrocyte folate values were significantly more common in 61 sickle-cell patients than in each of the two socio-economically-matched control groups including 61 subjects with Hb AS and 69 blacks with Hb AA. There was no correlation between serum folate and haematocrit or reticulocyte count. The erythrocyte folate, measured before and after removal of reticulocytes, remains a reliable indicator of deficiency of folic acid in sickle-cell patients despite variable degrees of reticulocytes. Folate therapy resulted in higher haematocrits in three of four sickle-cell pat",
+        "journal": "Scandinavian journal of haematology",
+        "year": "1975",
+        "authors": [
+          "Liu Y K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anemia, Sickle Cell",
+          "Blood Cell Count",
+          "Child",
+          "Child, Preschool",
+          "Erythrocytes",
+          "Female",
+          "Folic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1121649/"
+      },
+      {
+        "pmid": "11509095",
+        "title": "Prevalence of micronutrient deficiency particularly of iron, zinc and folic acid in pregnant women in South East Asia.",
+        "abstract": "Micronutrient deficiency, whether clinical or subclinical, may affect growth, cognition and reproductive performance. In pregnant women moderate to severe deficiencies of iron, zinc and folic acid have been shown to increase risk of low birth weight, pregnancy complications and birth defects. Any attempt to introduce a micronutrient supplementation programme during pregnancy must be based on adequate data on the prevalence of micronutrient deficiencies, their adverse effects and the potential for reversing these through supplementation. This paper reviews parameters for assessment of iron, zinc and folic acid deficiencies in pregnancy and the available data on prevalence of these in pregnant women in South Asia. Iron deficiency and anemia affect 50 % or more of pregnant women, the prevalence of folic acid deficiency may be up to 30-50 % and there is evidence to suggest that zinc deficiency is likely to be widespread but supportive data are scarce.",
+        "journal": "The British journal of nutrition",
+        "year": "2001",
+        "authors": [
+          "Seshadri S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Asia, Southeastern",
+          "Bone Marrow",
+          "Developing Countries",
+          "Erythrocytes",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Hemoglobins",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11509095/"
+      },
+      {
+        "pmid": "14147634",
+        "title": "HEMOLYTIC ANEMIAS AND FOLIC ACID DEFICIENCY IN CHILDREN.",
+        "abstract": "",
+        "journal": "American journal of diseases of children (1960)",
+        "year": "1964",
+        "authors": [
+          "SHOJANIA A M",
+          "GROSS S"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anemia",
+          "Anemia, Hemolytic",
+          "Anemia, Sickle Cell",
+          "Black People",
+          "Blood",
+          "Child",
+          "FIGLU Test",
+          "Folic Acid",
+          "Folic Acid Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14147634/"
+      },
+      {
+        "pmid": "40021307",
+        "title": "Comparative effectiveness of daily therapeutic supplementation with multiple micronutrients and iron-folic acid versus iron-folic acid alone in children with mild-to-moderate anaemia in rural India: an open-label, randomised controlled trial.",
+        "abstract": "Anaemia is a major public health problem among children younger than 5 years and supplementation with iron-folic acid alone has not been found to result in desired improvements in haemoglobin concentrations. We aimed to compare the effect of supplementation with iron-folic acid plus multiple micronutrients versus iron-folic acid supplementation alone on haemoglobin concentration and cure rates in children with mild-to-moderate anaemia.",
+        "journal": "The Lancet. Global health",
+        "year": "2025",
+        "authors": [
+          "Upadhyay Ravi Prakash",
+          "Chowdhury Ranadip",
+          "Mundra Sudarshan",
+          "Taneja Sunita",
+          "Jacob Molly"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Anemia",
+          "Dietary Supplements",
+          "Folic Acid",
+          "Hemoglobins",
+          "India"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40021307/"
+      },
+      {
+        "pmid": "35927693",
+        "title": "Knowledge on anaemia and benefit of iron-folic acid supplementation among pregnant mothers attending antenatal care in Woldia town, Northeastern Ethiopia: a facility-based cross-sectional study.",
+        "abstract": "Anaemia in pregnancy is the leading cause of maternal morbidity and mortality and poor birth outcomes in low- and middle-income countries. The most common cause of anaemia during pregnancy is acute blood loss and iron deficiency due to physiological changes and increasing demand for iron on the mother and growing foetus. Iron and folic acid supplementation is the most widely employed strategy to alleviate iron deficiency anaemia during pregnancy. The mother's knowledge of anaemia and the benefit of iron-folic acid is crucial in reducing the magnitude of anaemia due to iron deficiency. In Woldia town, despite the efforts made to reduce iron deficiency anaemia during pregnancy, information on pregnant mother knowledge on anaemia and the benefit of iron-folic acid and its associated factors are scarce.",
+        "journal": "Journal of health, population, and nutrition",
+        "year": "2022",
+        "authors": [
+          "Bizuneh Asmamaw Demis",
+          "Azeze Getnet Gedefaw"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Cross-Sectional Studies",
+          "Dietary Supplements",
+          "Ethiopia",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "Iron",
+          "Iron Deficiencies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35927693/"
+      },
+      {
+        "pmid": "13978088",
+        "title": "Association of anaemia in pregnancy and folic acid deficiency.",
+        "abstract": "",
+        "journal": "The Journal of obstetrics and gynaecology of the British Empire",
+        "year": "1962",
+        "authors": [
+          "SOLOMONS E",
+          "LEE S L",
+          "WASSERMAN M",
+          "MALKIN J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Hypochromic",
+          "Anemia, Macrocytic",
+          "Female",
+          "Folic Acid",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Pregnancy",
+          "Pregnancy Complications"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13978088/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:40:11.838505",
+  "success": true,
+  "error_message": null
+}

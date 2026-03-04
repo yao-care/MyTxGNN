@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "v1",
+    "created_at": "2026-03-04",
+    "analyzed_by": "Claude (batch)"
+  },
+  "drug": {
+    "name": "Fenofibrate",
+    "drugbank_id": "DB01039"
+  },
+  "overall": {
+    "best_evidence_level": "L1",
+    "npra_products": 13
+  },
+  "indications": [
+    {
+      "disease": "hypoalphalipoproteinemia",
+      "evidence_level": "L4",
+      "recommendation": "Hold",
+      "trials": 1,
+      "articles": 11,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "familial hyperlipidemia",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 9,
+      "articles": 20,
+      "phase3": 5,
+      "phase2": 2,
+      "phase4": 1
+    },
+    {
+      "disease": "obsolete familial combined hyperlipidemia",
+      "evidence_level": "L5",
+      "recommendation": "Hold",
+      "trials": 0,
+      "articles": 0,
+      "phase3": 0,
+      "phase2": 0,
+      "phase4": 0
+    },
+    {
+      "disease": "hypertriglyceridemia",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 0,
+      "phase3": 16,
+      "phase2": 13,
+      "phase4": 13
+    },
+    {
+      "disease": "hyperlipidemia",
+      "evidence_level": "L1",
+      "recommendation": "Go",
+      "trials": 50,
+      "articles": 20,
+      "phase3": 20,
+      "phase2": 7,
+      "phase4": 12
+    }
+  ]
+}

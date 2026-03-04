@@ -1,0 +1,1904 @@
+{
+  "drug": {
+    "name": "Amphotericin B",
+    "drugbank_id": "DB00681",
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "esophageal candidiasis",
+        "kg_score": null,
+        "kg_rank": 1,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00002041",
+            "title": "Evaluation of Amphotericin B in the Treatment of Biopsy Proven Candida Esophagitis in Immunocompromised Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": "N/A",
+            "brief_summary": "To determine the appropriate duration of amphotericin B therapy for Candida esophagitis. To compare the effectiveness of two different amphotericin B doses in the treatment of biopsy-proven Candida esophagitis. To determine if low-dose amphotericin B is less toxic than standard dose therapy during a limited treatment period. To evaluate pharmacokinetic and pharmacodynamic parameters of the two different dosing regimens.",
+            "eligibility_criteria": "Exclusion Criteria\n\nCo-existing Condition:\n\nPatients with histological or clinical (skin rash, cotton wool exudates, Candida endophthalmitis, etc.) evidence of disseminated candidiasis are excluded.\n\nConcurrent Medication:\n\nExcluded:\n\n* Systemic administration of amphotericin B for a proven or suspe",
+            "endpoints": [],
+            "sponsor": "Bristol-Myers Squibb",
+            "url": "https://clinicaltrials.gov/study/NCT00002041"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00041704",
+            "title": "A Phase 2 Open-Label Study of the Safety and Efficacy of Intravenous Anidulafungin as a Treatment for Azole-Refractory Mucosal Candidiasis.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2002-08",
+            "completion_date": "2004-08",
+            "country": "United States",
+            "enrollment": 19,
+            "brief_summary": "Anidulafungin is an antifungal agent of the echinocandin class which is highly active in vitro against fluconazole resistant Candida species. The efficacy of anidulafungin has demonstrated in various animal models of fluconazole-resistant mucosal disease; as well as, in Phase 2 Esophageal Candidiasis studies. This study is intended to offer patients with FRMC an alternate therapy with amphotericin B or with other agents whose efficacy and/or safety are inadequate in the treatment of this disease",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of definite azole-refractory mucosal candidiasis (oral or oropharyngeal candidiasis or esophageal candidiasis), i.e., patients who have not responded to a prior 14-day course of fluconazole at a dose of at least 200 mg daily or other azole (e.g. voriconazole)\n* Grade",
+            "endpoints": [],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00041704"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "35699443",
+            "title": "Efficacy of Cochleated Amphotericin B in Mouse and Human Mucocutaneous Candidiasis.",
+            "abstract": "Candida albicans causes debilitating, often azole-resistant, infections in patients with chronic mucocutaneous candidiasis (CMC). Amphotericin B (AMB) resistance is rare, but AMB use is limited by parenteral administration and nephrotoxicity. In this study, we evaluated cochleated AMB (CAMB), a new oral AMB formulation, in mouse models of oropharyngeal candidiasis (OPC) and vulvovaginal candidiasis (VVC) and in patients with azole-resistant CMC. OPC and VVC were modeled in Act1-/- mice, and mucosal tissue fungal burden was assessed after once-daily treatment with CAMB, vehicle, or AMB-deoxycholate (AMB-d). Four patients with azole-resistant CMC enrolled in a phase 2 CAMB dose-escalation study. The primary endpoint was clinical improvement at 2 weeks followed by optional extension for long-term CMC suppression to assess safety and efficacy. CAMB-treated mice had significantly reduced tongue and vaginal fungal burdens compared to vehicle-treated mice and exhibited comparable fungal burde",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2022",
+            "authors": [
+              "Desai Jigar V",
+              "Urban Amanda",
+              "Swaim Doris Z",
+              "Colton Benjamin",
+              "Kibathi Lilian W"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase II",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, N.I.H., Intramural"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Antifungal Agents",
+              "Azoles",
+              "Candida albicans",
+              "Candidiasis",
+              "Candidiasis, Chronic Mucocutaneous",
+              "Candidiasis, Oral",
+              "Candidiasis, Vulvovaginal",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35699443/"
+          },
+          {
+            "pmid": "12867215",
+            "title": "Voriconazole.",
+            "abstract": "Reports of resistance and intolerance to currently available antifungal agents are increasing. Voriconazole is a broad-spectrum azole antifungal agent structurally derived from fluconazole. It is indicated for the treatment of invasive aspergillosis and serious fungal infections caused by Scedosporium apiospermum and Fusarium species in patients who are unable to tolerate or are refractory to other antifungal therapy.",
+            "journal": "Clinical therapeutics",
+            "year": "2003",
+            "authors": [
+              "Jeu LilyAnn",
+              "Piacenti Frank J",
+              "Lyakhovetskiy Aleksandr G",
+              "Fung Horatio B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antifungal Agents",
+              "Area Under Curve",
+              "Aspergillosis",
+              "Candidiasis",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Fungi",
+              "Half-Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12867215/"
+          },
+          {
+            "pmid": "19029563",
+            "title": "Caspofungin.",
+            "abstract": "Caspofungin is a new antifungal drug meant for intravenous use. It has been shown to be comparable to other antifungal agents such as amphotericin B and fluconazole for empirical therapy in febrile neutropenic patients, oropharyngeal/esophageal candidiasis and invasive aspergillosis. Its efficacy has also been documented in children in small uncontrolled trials. The biggest assets of caspofungin are its excellent tolerability/safety profile and minimal drug interactions.",
+            "journal": "Indian pediatrics",
+            "year": "2008",
+            "authors": [
+              "Parakh Ankit",
+              "Dubey Anand Prakash",
+              "Samanta Debopam"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anesthesia, Intravenous",
+              "Antifungal Agents",
+              "Aspergillosis",
+              "Candidiasis",
+              "Caspofungin",
+              "Echinocandins",
+              "Humans",
+              "Lipopeptides",
+              "Mycoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19029563/"
+          },
+          {
+            "pmid": "15456342",
+            "title": "Anidulafungin.",
+            "abstract": "Anidulafungin is a novel antifungal agent which, like other echinocandins, inhibits beta-(1,3)-D-glucan synthase and disrupts fungal cell-wall synthesis. It has marked antifungal activity against a broad spectrum of Candida spp. and Aspergillus spp., including amphotericin B- and triazole-resistant strains. In clinical trials, anidulafungin has primarily been evaluated in patients with oesophageal and invasive candidiasis. Preliminary data are emerging for other indications such as invasive aspergillosis. In a large, multicentre, double-blind, double-dummy, randomised trial in patients with oesophageal candidiasis, intravenous anidulafungin 50 mg/day was as effective as oral fluconazole 100 mg/day regarding end-of-treatment rates of endoscopic cure and clinical and microbiological success. Duration of treatment was approximately 2-3 weeks, and patients in both groups received a loading dose of study drug (twice the daily maintenance dose) on day 1. Anidulafungin is generally well toler",
+            "journal": "Drugs",
+            "year": "2004",
+            "authors": [
+              "Murdoch David",
+              "Plosker Greg L"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anidulafungin",
+              "Animals",
+              "Antifungal Agents",
+              "Aspergillosis",
+              "Aspergillus",
+              "Candida",
+              "Candidiasis",
+              "Cell Wall",
+              "Clinical Trials as Topic",
+              "Drug Administration Schedule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15456342/"
+          },
+          {
+            "pmid": "11363911",
+            "title": "Candidiasis.",
+            "abstract": "",
+            "journal": "Journal of the International Association of Physicians in AIDS Care",
+            "year": "1996",
+            "authors": [
+              "Powderly W G"
+            ],
+            "pub_types": [
+              "Newspaper Article",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Candidiasis, Oral",
+              "Esophageal Diseases",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11363911/"
+          },
+          {
+            "pmid": "2502408",
+            "title": "Candidiasis.",
+            "abstract": "Candida spp. are the most common fungal pathogens isolated in immunocompromised hosts, particularly cancer patients. Numerous clinical manifestations of candidiasis have been recognized, including localized infection such as oropharyngeal candidiasis or focal hepatic candidiasis, and disseminated infection resulting from hematogenous spread, with or without documented fungemia. Granulocytopenic patients are particularly at risk. Candida albicans is isolated in approximately 40% of cases of fungemia, other Candida spp. now also commonly being isolated. The rate of morbidity and mortality secondary to candidiasis is still significant despite numerous attempts to develop better diagnostic techniques, and more effective means of chemoprophylaxis and therapy. Currently, new antifungal agents and galenic preparations of amphotericin B are being evaluated with the aim of improving the prognosis of candidiasis in immunocompromised hosts.",
+            "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+            "year": "1989",
+            "authors": [
+              "Meunier F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Candida",
+              "Candidiasis",
+              "Central Nervous System Diseases",
+              "Endocarditis",
+              "Esophagitis",
+              "Gastrointestinal Diseases",
+              "Humans",
+              "Immune Tolerance",
+              "Liver Diseases",
+              "Lung Diseases, Fungal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2502408/"
+          },
+          {
+            "pmid": "11465873",
+            "title": "Caspofungin.",
+            "abstract": "Caspofungin is the first in a new class of antifungal agents, the glucan synthesis inhibitors, that interfere with fungal cell wall synthesis. Caspofungin exhibited in vitro and in vivo efficacy against a wide range of fungi and yeasts including Aspergillus and Candida species. A complete or partial response to caspofungin therapy was seen in 40.7% of immunocompromised adults with invasive aspergillosis who did not respond to, or did not tolerate, other antifungal agents in a noncomparative multicentre study. Caspofungin was effective in patients with oropharyngeal or oesophageal candidiasis, according to the preliminary results of 2 randomised double-blind trials. Caspofungin was generally well tolerated in a multicentre noncomparative trial involving patients with invasive aspergillosis. One or more drug-related clinical adverse effects were experienced by 13.8% of caspofungin recipients (the most common were fever, nausea, vomiting and complications associated with the vein into whi",
+            "journal": "Drugs",
+            "year": "2001",
+            "authors": [
+              "Keating G M",
+              "Jarvis B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antifungal Agents",
+              "Aspergillosis",
+              "Candidiasis",
+              "Caspofungin",
+              "Echinocandins",
+              "Fever",
+              "Humans",
+              "Infusions, Intravenous",
+              "Lipopeptides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11465873/"
+          },
+          {
+            "pmid": "41226935",
+            "title": "Pharmacological Management of Oral and Esophageal Candidiasis: A Clinical Pharmacotherapy Perspective.",
+            "abstract": "Candida spp. are common components of normal microbiota in the oral cavity. However, Candida albicans can be a primary cause of superficial infections in the oral cavity and esophagus, especially in immunocompromised individuals. While these infections are rarely life-threatening, they can significantly impair quality of life and, in severe cases, progress to hematogenous dissemination. Oral candidiasis often exhibits as pseudomembranous, erythematous (atrophic), chronic hyperplastic, denture stomatitis, or angular cheilitis. Esophageal candidiasis is typically diagnosed by upper endoscopy, which involves histological examination and brushing. Clinical guidelines recommend topical antifungal agents for mild oral candidiasis, and systemic agents for moderate-to-severe disease or when topical therapy fails. However, azole antifungals pose a substantial risk of drug-drug interactions, primarily due to the inhibition of cytochrome P450 enzymes and drug transporters, which dramatically alte",
+            "journal": "Journal of clinical medicine",
+            "year": "2025",
+            "authors": [
+              "Hirai Toshinori",
+              "Nashi Masanori"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41226935/"
+          },
+          {
+            "pmid": "7811544",
+            "title": "Resistant candidiasis.",
+            "abstract": "Mucosal (oropharyngeal, esophageal, and, in women, vaginal) candidiasis is a common infectious complication in HIV-infected patients. There is a wide range of drugs to treat or suppress Candida infections. However, with the increasingly common use of fluconazole as treatment or prophylaxis in patients with relatively advanced HIV disease, mucosal candidiasis that is clinically resistant to fluconazole is increasingly recognized. Susceptibility testing for fluconazole has not been well standardized, and laboratory and clinical correlations often have been difficult to demonstrate. However, the frequency with which Candida strains resistant to fluconazole can be isolated appears to be increasing, particularly in patients with advanced HIV disease. Anecdotal results suggest that patients who fail fluconazole therapy usually do not respond to higher doses of fluconazole, but may occasionally respond to itraconazole or ketoconazole. In vitro susceptibility to these agents does not necessari",
+            "journal": "AIDS research and human retroviruses",
+            "year": "1994",
+            "authors": [
+              "Powderly W G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Antifungal Agents",
+              "Candida",
+              "Candidiasis",
+              "Drug Resistance, Microbial",
+              "Female",
+              "Fluconazole",
+              "Humans",
+              "Recurrence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7811544/"
+          },
+          {
+            "pmid": "3181663",
+            "title": "Esophageal candidiasis.",
+            "abstract": "Among 3,501 individuals receiving endoscopic examination for the upper digestive tract, 41 were found to have esophageal candidiasis including 17 malignancies, 14 immunological disorders, 4 diabetes mellitus, 7 other underlying diseases and 7 apparently healthy subjects. The diagnosis was made either by brushing of the esophagus or by histological examination of the biopsied specimen. Systemic invasion of fungi was observed mainly in patients with malignancy involving the hematopoietic system, and most of them had been treated by corticosteroids, antibiotics or anticancer agents. Although complications associated with esophageal candidiasis are rare, it is emphasized that those patients with malignancy as well as impared immunity should be carefully examined for esophageal candidiasis, in order to prevent the fungi from developing invasive candidiasis. It should be noted that a few cases of gastric ulcer treated by H2 blocker revealed esophageal candidiasis, suggesting that decrease of",
+            "journal": "Gastroenterologia Japonica",
+            "year": "1988",
+            "authors": [
+              "Naito Y",
+              "Yoshikawa T",
+              "Oyamada H",
+              "Tainaka K",
+              "Morita Y"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Autoimmune Diseases",
+              "Candidiasis",
+              "Esophageal Diseases",
+              "Esophagoscopy",
+              "Female",
+              "Humans",
+              "Immune Tolerance",
+              "Ketoconazole",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3181663/"
+          },
+          {
+            "pmid": "6339183",
+            "title": "Candida esophagitis.",
+            "abstract": "Candida esophagitis is being increasingly recognized in the practice of clinical gastroenterology. The widespread use of corticosteroids, immunosuppressive drugs, and cancer chemotherapy, combined with the frequent use of endoscopy for the evaluation of esophageal symptoms, often leads to the identification of Candida infection in this part of the gastrointestinal tract. The salient clinical features of Candida esophagitis include odynophagia and dysphagia, although gastrointestinal bleeding may occasionally be the sole presenting symptom. While the radiological signs of Candida esophagitis are nonspecific, the endoscopic appearance is quite characteristic. Demonstration of tissue invasion by fungal mycelia on mucosal biopsy of the esophagus is diagnostic. The role of serology in the diagnosis of Candida esophagitis is not well defined. Oral nystatin therapy has been extensively used to control Candida infection of the esophagus. More recently amphotericin-B, 5-fluorocytosine and imida",
+            "journal": "Digestive diseases and sciences",
+            "year": "1983",
+            "authors": [
+              "Mathieson R",
+              "Dutta S K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Candidiasis",
+              "Esophagitis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6339183/"
+          },
+          {
+            "pmid": "33380680",
+            "title": "Fungal profile and antifungal susceptibility pattern of candidiasis in esophageal cancer patients.",
+            "abstract": "This study was carried out to determine the fungal profile and antifungal susceptibility pattern in the brushing samples of candidiasis in patients with carcinoma of esophagus.",
+            "journal": "Journal of cancer research and therapeutics",
+            "year": "2020",
+            "authors": [
+              "Talukdar Abhijit",
+              "Barman Rashmisnata",
+              "Sarma Anupam",
+              "Krishnatreya Manigreeva",
+              "Sharma Jagannath Dev"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antifungal Agents",
+              "Candida",
+              "Candidiasis",
+              "Drug Resistance, Fungal",
+              "Esophageal Neoplasms",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "India"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33380680/"
+          },
+          {
+            "pmid": "8804799",
+            "title": "Fluconazole versus amphotericin B in the treatment of esophageal candidiasis in cancer patients.",
+            "abstract": "Thirty-one patients with malignancy and endoscopy-confirmed symptomatic esophageal candidiasis were randomly assigned to receive oral fluconazole, 200 mg once daily, or intravenous amphotericin B, 0.3 mg/kg, over 1-4 weeks. Clinical efficacy was determined weekly and follow-up esophageal endoscopy with biopsy and culture performed whenever possible. Both agents produced rapid resolution of symptoms, especially dysphagia and odynophagia. All 13 evaluable patients in the fluconazole group and 10/12 treated with amphotericin had clinical improvement. Endoscopy showed eradication of the fungus in all 11 patients undergoing repeat endoscopy, with cure or improvement of esophagitis. The incidence of adverse effects attributable to treatment was higher in the amphotericin group. The efficacy of oral fluconazole in esophageal candidiasis appears to be equivalent to that of amphotericin, with fewer adverse reactions.",
+            "journal": "Chemotherapy",
+            "year": "1996",
+            "authors": [
+              "Lake D E",
+              "Kunzweiler J",
+              "Beer M",
+              "Buell D N",
+              "Islam M Z"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amphotericin B",
+              "Antifungal Agents",
+              "Candidiasis",
+              "Esophageal Diseases",
+              "Female",
+              "Fluconazole",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8804799/"
+          },
+          {
+            "pmid": "11590489",
+            "title": "Therapeutic options for the management of oropharyngeal and esophageal candidiasis in HIV/AIDS patients.",
+            "abstract": "Mucocutaneous candidiasis is frequently one of the first signs of HIV infection. Over 90% of patients with AIDS will develop oropharyngeal candidiasis at some time during their illness. Although numerous antifungal agents are available, azoles, both topical (clotrimazole) and systemic (fluconazole, itraconazole), have replaced older topical antifungals (gentian violet and nystatin) in the management of oropharyngeal candidiasis in these patients. The systemic azoles, itraconazole and fluconazole, are generally safe and effective agents in HIV-infected patients with oropharyngeal candidiasis. A concern in these patients is clinical relapse, which appears to be dependent on degree of immunosuppression and is more common following clotrimazole and ketoconazole than following fluconazole or itraconazole. Candida esophagitis is also of concern, since it occurs in more than 10% of patients with AIDS. Fluconazole is an integral part of the management of mucosal candidiasis. A cyclodextrin ora",
+            "journal": "HIV clinical trials",
+            "year": "2000",
+            "authors": [
+              "Vazquez J A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Adult",
+              "Antifungal Agents",
+              "Candida",
+              "Candidiasis, Oral",
+              "Child",
+              "Child, Preschool",
+              "Esophagitis",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11590489/"
+          },
+          {
+            "pmid": "16779750",
+            "title": "Anidulafungin: a novel echinocandin.",
+            "abstract": "Until recently, the treatment available for serious fungal infections was composed of amphotericin B and azoles, and each class demonstrated significant limitations. Echinocandins are a new class of drugs that have shown promising results in treating a variety of fungal infections. Of these, anidulafungin is a novel echinocandin that appears to have several advantages over existing antifungals. It is unique because it slowly degrades in humans, undergoing a process of biotransformation rather than being metabolized. It has potent in vitro activity against Aspergillus and Candida species, including those resistant to fluconazole or amphotericin B. Results of several clinical trials indicate that anidulafungin is effective in treating esophageal candidiasis, including azole-refractory disease. The results of a recent study comparing fluconazole versus anidulafungin demonstrated the superiority of anidulafungin in the treatment of candidemia and invasive candidiasis (IC). Studies evaluati",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2006",
+            "authors": [
+              "Vazquez Jose A",
+              "Sobel Jack D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anidulafungin",
+              "Antifungal Agents",
+              "Echinocandins",
+              "Fungal Proteins",
+              "Humans",
+              "Mycoses",
+              "Peptides, Cyclic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16779750/"
+          },
+          {
+            "pmid": "10959741",
+            "title": "Esophageal candidiasis in pediatric acquired immunodeficiency syndrome: clinical manifestations and risk factors.",
+            "abstract": "Little is known about the epidemiology and clinical features of esophageal candidiasis (EC) in pediatric AIDS. We therefore investigated the clinical presentation and risk factors of EC in a large prospectively monitored population of HIV-infected children at the National Cancer Institute.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2000",
+            "authors": [
+              "Chiou C C",
+              "Groll A H",
+              "Gonzalez C E",
+              "Callender D",
+              "Venzon D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Adolescent",
+              "Age Distribution",
+              "Antifungal Agents",
+              "Candidiasis",
+              "Case-Control Studies",
+              "Child",
+              "Child, Preschool",
+              "Comorbidity",
+              "Esophagitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10959741/"
+          },
+          {
+            "pmid": "11796357",
+            "title": "Randomized, double-blind, multicenter study of caspofungin versus amphotericin B for treatment of oropharyngeal and esophageal candidiases.",
+            "abstract": "Caspofungin is an antifungal agent of the novel echinocandin class. We investigated its efficacy, safety, and tolerability as therapy for oropharyngeal and/or esophageal candidiasis in a phase II dose-ranging study. Patients were randomized in a double-blind manner to receive either caspofungin acetate (35, 50, or 70 mg) or amphotericin B (0.5 mg/kg of body weight) intravenously once daily for 7 to 14 days. A favorable response required both complete resolution of symptoms and quantifiable improvement of mucosal lesions 3 to 4 days after discontinuation of study drug. Efficacy was assessed using a modified intent-to-treat analysis. No hypothesis testing of efficacy was planned or performed. Of 140 enrolled patients, 63% had esophageal involvement and 98% were infected with the human immunodeficiency virus (HIV) (median CD4 count, 30/mm(3)). A modestly higher proportion of patients in each of the caspofungin groups (74 to 91%) achieved favorable responses compared to amphotericin B reci",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2002",
+            "authors": [
+              "Arathoon Eduardo G",
+              "Gotuzzo Eduardo",
+              "Noriega L Miguel",
+              "Berman Rayanne S",
+              "DiNubile Mark J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amphotericin B",
+              "Anti-Bacterial Agents",
+              "Antifungal Agents",
+              "Candidiasis",
+              "Caspofungin",
+              "Double-Blind Method",
+              "Drug Tolerance"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11796357/"
+          },
+          {
+            "pmid": "10839593",
+            "title": "Amphotericin B oral suspension for fluconazole-refractory oral candidiasis in persons with HIV infection. Adult AIDS Clinical Trials Group Study Team 295.",
+            "abstract": "To determine the efficacy and safety of amphotericin B oral suspension (ABOS) for the treatment of fluconazole refractory oral candidiasis in persons with HIV infection.",
+            "journal": "AIDS (London, England)",
+            "year": "2000",
+            "authors": [
+              "Fichtenbaum C J",
+              "Zackin R",
+              "Rajicic N",
+              "Powderly W G",
+              "Wheat L J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Adult",
+              "Amphotericin B",
+              "Antifungal Agents",
+              "Candida",
+              "Candidiasis, Oral",
+              "Drug Resistance, Microbial",
+              "Female",
+              "Fluconazole",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10839593/"
+          },
+          {
+            "pmid": "1616960",
+            "title": "Candida infections in AIDS patients.",
+            "abstract": "",
+            "journal": "International journal of STD & AIDS",
+            "year": "1992",
+            "authors": [
+              "Odds F C"
+            ],
+            "pub_types": [
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Candidiasis",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Male",
+              "Opportunistic Infections",
+              "Prevalence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1616960/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "acne",
+        "kg_score": null,
+        "kg_rank": 2,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "8351723",
+            "title": "[Cutaneous manifestations of AIDS].",
+            "abstract": "",
+            "journal": "La Tunisie medicale",
+            "year": "1993",
+            "authors": [
+              "Marrakchi H",
+              "Mokhtar I",
+              "Zarrouk H",
+              "Daghfous M",
+              "Kamoun M R"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Humans",
+              "Skin Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8351723/"
+          },
+          {
+            "pmid": "4275329",
+            "title": "Acne vulgaris and free fatty acids. A review and criticism.",
+            "abstract": "",
+            "journal": "Archives of dermatology",
+            "year": "1974",
+            "authors": [
+              "Voss J G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Amphotericin B",
+              "Fatty Acids, Nonesterified",
+              "Humans",
+              "Propionibacterium acnes",
+              "Sebaceous Glands",
+              "Sebum",
+              "Skin",
+              "Tetracycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4275329/"
+          },
+          {
+            "pmid": "41247420",
+            "title": "Dual drug co-encapsulation into liposomes and liposome-derived nanosystems for improved synergistic treatment of skin diseases.",
+            "abstract": "Skin disorders impact nearly one-third of the global population, and represent the fourth most common cause of human diseases. However, delivering drugs into and through the skin is a significant challenge due to its low permeability, which severely limits the efficacy of conventional topical and transdermal formulations. To tackle this issue, liposomes and liposome-derived nanosystems can be of use, which, among other advantages, also have the capacity to encapsulate more than one drug molecule simultaneously, allowing combination therapy. This review provides a comprehensive summary and critical analysis of recent studies regarding dual drug co-encapsulation into liposomes and liposome-derived nanosystems as an improved therapeutic approach for the treatment of several skin diseases, such as acne vulgaris, androgenetic alopecia, cutaneous leishmaniasis, psoriasis, vitiligo, and chronic wounds, and for dermal analgesia and general skin oxidative stress management purposes. Conventiona",
+            "journal": "Drug delivery and translational research",
+            "year": "2026",
+            "authors": [
+              "Rodrigues Sara",
+              "Veiga Francisco",
+              "Paiva-Santos Ana Cláudia",
+              "Pires Patrícia C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Liposomes",
+              "Humans",
+              "Skin Diseases",
+              "Animals",
+              "Administration, Cutaneous",
+              "Nanoparticles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41247420/"
+          },
+          {
+            "pmid": "8592071",
+            "title": "Modeling acne in vitro.",
+            "abstract": "To help elucidate the factors responsible for the infundibular changes seen in acne, the human sebaceous pilosebaceous infundibulum was isolated by microdissection and maintained for 7 d in keratinocyte serum-free medium supplemented with 50 micrograms/ml bovine pituitary extract, 100 units/ml penicillin and streptomycin, 2.5 micrograms/ml amphotericin B and CaCl2(10H2O) to give a final Ca2+ concentration of 2 mM. Infundibular structure was maintained over 7 d in this medium; the pattern of cell division mimicked that in vivo. The rate of cell division was significantly higher than previously described for infundibula maintained in supplemented William's E medium, and moreover did not fall over 7 d. The addition of 1 ng/ml interleukin-1 alpha (IL-1 alpha) caused hypercornification of the infundibulum similar to that seen in comedones; this could be blocked by 1000 ng/ml interleukin-1 receptor antagonist (IL-1ra). In about 20% of subjects there was spontaneous hypercornification of the ",
+            "journal": "The Journal of investigative dermatology",
+            "year": "1996",
+            "authors": [
+              "Guy R",
+              "Green M R",
+              "Kealey T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Animals",
+              "Cattle",
+              "Cell Survival",
+              "Culture Techniques",
+              "Epidermal Growth Factor",
+              "Female",
+              "Humans",
+              "Interleukin-1",
+              "Isotretinoin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8592071/"
+          },
+          {
+            "pmid": "25280605",
+            "title": "Cerebral aspergillosis in a patient with leprosy and diabetes: a case report.",
+            "abstract": "Opportunistic fungi are dispersed as airborne, ground and decaying matter. The second most frequent extra-pulmonary disease by Aspergillus is in the central nervous system.",
+            "journal": "BMC research notes",
+            "year": "2014",
+            "authors": [
+              "Segundo João Batista Alves",
+              "da Silva Marcos Antonio Custódio Neto",
+              "Filho Walbert Edson Muniz",
+              "Nascimento Anna Cyntia Brandão",
+              "Vidal Flávia Castello Branco"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Anticonvulsants",
+              "Antifungal Agents",
+              "Aspergillus fumigatus",
+              "Biopsy",
+              "Carbamazepine",
+              "Cerebrum",
+              "Diabetes Mellitus",
+              "Fluconazole",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25280605/"
+          },
+          {
+            "pmid": "40818018",
+            "title": "Effect of Lactiplantibacillus Plantarum THK-J112 Against Candida Overgrowth in Acne Complications.",
+            "abstract": "Secondary fungal infections resulting from disruptions caused by acne vulgaris treatments underscore the critical need for therapies that minimize dysbiosis while effectively targeting acne-associated pathogens. This study investigates Lactiplantibacillus plantarum THK-J112 cell-free supernatant (CFS) as a microbiome-stabilizing intervention against Candida overgrowth, utilizing a combination of genomic analysis and functional validation. In vitro evaluations demonstrated broad-spectrum antifungal activity, with inhibition zones of more than 10 mm against C. tropicalis KCTC 17762 and a minimum fungicidal concentration of 2.5 mg/mL. Scanning electron microscopy revealed profound Candida cell wall disruption, while cytotoxicity assays confirmed CFS safety for HaCaT keratinocytes and Caco-2 intestinal cells. The supernatant significantly reduced Candida adhesion to epithelial cells by up to 80.25%, outperforming Amphotericin B's anti-adhesive effects. Anti-inflammatory activity was eviden",
+            "journal": "Probiotics and antimicrobial proteins",
+            "year": "2025",
+            "authors": [
+              "Nguyen Trang Thi Minh",
+              "Bae Chan-Il",
+              "Yang Su-Jin",
+              "Jin Xiangji",
+              "Zheng Qiwen"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40818018/"
+          },
+          {
+            "pmid": "20379462",
+            "title": "Case report of Acremonium intraocular infection after cataract extraction.",
+            "abstract": "A 64-year-old woman was referred to our clinic for the treatment of chronic uveitis in her left eye, which had started two weeks after an uncomplicated cataract extraction. She was treated with topical steroids with an initially good response, yet she subsequently developed severe inflammation and plaque-like material around the intraocular lens, despite continuous steroid therapy. She underwent pars plana vitrectomy, smear and culture of the aqueous and vitreous fluids, and intravitreal antibiotic injection under the impression of Propionibacterium acne (P. acne) endophthalmitis. As a result of the smear and culture of the vitreous fluid identified as an Acremonium species, she was treated with intravenous amphotericin B injections for five days, followed by oral voriconazole administration. During the post-operative 18-month follow-up, she was stable without significant relapse of uveitis. In this case, the best correction of visual acuity was an improvement from 20/40 to 20/20.",
+            "journal": "Korean journal of ophthalmology : KJO",
+            "year": "2010",
+            "authors": [
+              "Joe Soo Geun",
+              "Lim Jongyoon",
+              "Lee Joo Yong",
+              "Yoon Young Hee"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acremonium",
+              "Antifungal Agents",
+              "Cataract Extraction",
+              "Endophthalmitis",
+              "Eye Infections, Fungal",
+              "Female",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20379462/"
+          },
+          {
+            "pmid": "31399065",
+            "title": "Dermatoscopy for the rapid diagnosis of Talaromyces marneffei infection: a case report.",
+            "abstract": "Talaromyces marneffei is a thermally dimorphic fungus endemic in south-east Asia. It predominantly occurs in both immunocompromised and immunosuppressed patients and can be fatal if diagnosis and treatment are delayed. The clinical manifestations of T. marneffei infection are nonspecific and rapid diagnosis of T. marneffei infection remains challenging.",
+            "journal": "BMC infectious diseases",
+            "year": "2019",
+            "authors": [
+              "Xian Jiayi",
+              "Huang Xiaowen",
+              "Li Qiaofei",
+              "Peng Xiaoming",
+              "Peng Xuebiao"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Anti-HIV Agents",
+              "Antifungal Agents",
+              "China",
+              "Dermoscopy",
+              "HIV Infections",
+              "Humans",
+              "Itraconazole",
+              "Male",
+              "Mycology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31399065/"
+          },
+          {
+            "pmid": "15322719",
+            "title": "[Stomatitis, glossitis, and esophagitis in a patient treated with minocycline].",
+            "abstract": "After 10 days of minocycline therapy, stomatitis, glossitis and esophagitis were seen in a 62-year-old male patient, who had previously tolerated minocycline for > 20 years without complications. This typical side effect of minocycline was initially misinterpreted in the differential diagnosis and was only diagnosed, when the patient was reexposed to a new 7-day minocycline therapy. Healing was achieved by termination of the minocycline therapy and the initiation of antimycotic treatment.",
+            "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+            "year": "2004",
+            "authors": [
+              "Heidrich Heinz"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Amphotericin B",
+              "Anti-Bacterial Agents",
+              "Antifungal Agents",
+              "Esophagitis",
+              "Glossitis",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Minocycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15322719/"
+          },
+          {
+            "pmid": "4246900",
+            "title": "[Amphocycline: major therapeutics in acne rosacea, therapeutics in some cases of juvenile acne].",
+            "abstract": "",
+            "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+            "year": "1970",
+            "authors": [
+              "Bazex A",
+              "Dupré A",
+              "Salvador R",
+              "Christol B",
+              "Rumeau H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Amphotericin B",
+              "Diagnosis, Differential",
+              "Humans",
+              "Placebos",
+              "Rosacea",
+              "Tetracycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4246900/"
+          },
+          {
+            "pmid": "4237583",
+            "title": "[Clinical trial of amphocycline in treatment of acne rosacea].",
+            "abstract": "",
+            "journal": "Journal de medecine de Bordeaux et du Sud-Ouest",
+            "year": "1967",
+            "authors": [
+              "Texier L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amphotericin B",
+              "Drug Synergism",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Rosacea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4237583/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "ornithosis",
+        "kg_score": null,
+        "kg_rank": 3,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "disseminated candidiasis",
+        "kg_score": null,
+        "kg_rank": 4,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00670657",
+            "title": "CRITIC: Phase II Pilot Multicenter Study on Efficacy and Safety of Liposomal Amphotericin B (AmBisome®) at 2 mg/kg/Day in the Treatment of Candidemia and Invasive Candidiasis in Non-Neutropenic Patients",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2007-05",
+            "completion_date": "2009-01",
+            "country": "Italy",
+            "enrollment": 39,
+            "brief_summary": "Patients will receive 2mg/kg/day IV daily administration of AmBisome® over 30-60 minutes as a reaction to signs/symptoms and positive Candida culture",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients admitted to ICU for all medical reasons that meet the inclusion criteria\n* Males or non pregnant females (women of child-bearing potential must have a negative serum or urine pregnancy test at baseline).\n* Subjects who are 14 years old or older.\n* Subjects with at lea",
+            "endpoints": [
+              "Success at End of Trial (EOT) - Success is defined as: The definition of success is (criteria a, b, c and d must be satisfied): a. i) Absence of all clinical signs and symptoms present at baseline and absence of any new signs and symptoms that may be"
+            ],
+            "sponsor": "Gilead Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT00670657"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00388167",
+            "title": "PROCAS: Study Observational Prospective and Multicenter to Determine the Clinic Effectiveness and the Safety of Caspofungin Acetate (CANCIDAS®) in the Treatment of Invader Fungal Infection",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2004-03",
+            "completion_date": "2008-02",
+            "country": "Spain",
+            "enrollment": 320,
+            "brief_summary": "We wanted to determine the efficacy and the safety of caspofungin acetate (CANCIDAS®) in the treatment of invader fungal infection (IFI) specifically, Invasive Candidiasis (CI) in adults patients without neutropenia and Invasive Aspergillosis (AI) in adults patients who are refractory to or intolerant of other therapies (i.e., amphotericin B, lipid formulations of amphotericin B, and/or itraconazole).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female and male with 18 years old at least.\n* Diagnosis of AI or CI. It will be based in Clinical History, signs and symptoms that the patient takes, discovery of studies of radiology and results of cultivation and/or studies of anatomopathology positives for Candida spp. or A",
+            "endpoints": [],
+            "sponsor": "PETHEMA Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT00388167"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01945281",
+            "title": "A Multicenter, Double-Blind, Randomized, Comparator-Controlled Study to Evaluate the Safety, Tolerability, and Efficacy of Caspofungin Versus Amphotericin B Deoxycholate in the Treatment of Invasive Candidiasis in Neonates and Infants Less Than 3 Months of Age",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2014-01-15",
+            "completion_date": "2018-02-28",
+            "country": "N/A",
+            "enrollment": 51,
+            "brief_summary": "The study will evaluate the safety, tolerability, and efficacy of caspofungin as compared with amphotericin B deoxycholate in the treatment of invasive candidiasis in neonates and infants. The primary hypothesis to be tested in the study is that caspofungin will be superior to amphotericin B deoxycholate with regard to the proportion of participants with fungal-free survival at the 2-week post-therapy follow-up visit.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Culture-confirmed invasive Candida infection\n\nExclusion Criteria:\n\n* Candida disease limited to the oropharynx, esophagus, or other mucosal or superficial skin surfaces\n* Positive culture for Candida only from sputum, broncho-alveolar lavage, catheter tip, or previously placed",
+            "endpoints": [
+              "Percentage of Participants With Fungal-free Survival Through the 2-week Post-therapy Period"
+            ],
+            "sponsor": "Merck Sharp & Dohme LLC",
+            "url": "https://clinicaltrials.gov/study/NCT01945281"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01040156",
+            "title": "Safety, Feasibility and Efficacy of Caspofungin Versus Liposomal Amphotericin B as Antifungal Prophylaxis Following Allogeneic Hematopoietic Stem Cell Transplantation in Pediatric Patients - a Retrospective Phase I/II Study",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2008-08",
+            "completion_date": "2009-12",
+            "country": "Germany",
+            "enrollment": "N/A",
+            "brief_summary": "Pediatric patients are at high risk to acquire mycotic infections following allogeneic bone marrow transplantation. In the present retrospective analysis we assess the safety and efficacy of different regimens in antimycotic prophylaxis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric patients under the age of 18 years\n* Pediatric patients after HSCT treated with caspofungin\n* Pediatric patients after HSCT treated with liposomal amphotericin\n\nExclusion Criteria:\n\n* Pediatric patients with uncontrolled hematological malignancies\n* Pediatric patient",
+            "endpoints": [],
+            "sponsor": "University Children's Hospital Tuebingen",
+            "url": "https://clinicaltrials.gov/study/NCT01040156"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00815516",
+            "title": "A Phase 3, Randomized, Double-Blind, Multi-Center Study to Compare the Efficacy and Safety of Micafungin Versus Amphotericin B Deoxycholate for the Treatment of Neonatal Candidiasis",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2013-02",
+            "completion_date": "2014-12",
+            "country": "Israel, Bulgaria, Brazil, Philippines, Turkey (Türkiye), Greece, Ukraine, Hungary, Romania, Canada, Colombia, United States",
+            "enrollment": 30,
+            "brief_summary": "The study will evaluate how effective and how safe the drug micafungin is when compared to the drug amphotericin B deoxycholate in treating neonates and young infants with certain fungal infections.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Infant greater than 48 hours of life after birth up to day of life 120 at the time of culture acquisition\n* Diagnosis of proven invasive candidiasis within 4 days prior to study start\n* Subject's parent or legal guardian agrees not to allow subject to participate in another st",
+            "endpoints": [
+              "Fungal-free Survival"
+            ],
+            "sponsor": "Astellas Pharma Inc",
+            "url": "https://clinicaltrials.gov/study/NCT00815516"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00106288",
+            "title": "A Multicenter, Double Blind, Comparative, Randomized Study to Evaluate the Efficacy and Safety of Micafungin (FK463) Versus Liposomal Amphotericin B (AmBisome) in the Treatment of Invasive Candidiasis and Candidemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2005-12",
+            "country": "Canada, United States",
+            "enrollment": 637,
+            "brief_summary": "The purpose of this study is to determine the efficacy and safety of micafungin (FK463) versus liposomal amphotericin B (AmBisome) in treating neutropenic and non-neutropenic patients with confirmed invasive candidiasis or candidemia. Enrollment will include adult and pediatric patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients either non-neutropenic with absolute neutrophil counts \\>= 500 cells/mm3 or neutropenic with absolute neutrophil counts \\< 500 cells/mm3 must have:\n\n* Candidemia or invasive candidiasis,\n* Confirmation and typical clinical signs and symptoms by fungal culture and/or his",
+            "endpoints": [
+              "Investigator's assessment of overall treatment success. Success is defined as clinical (complete or partial) and mycological (eradication or presumed eradication) response at the End of Therapy."
+            ],
+            "sponsor": "Astellas Pharma Inc",
+            "url": "https://clinicaltrials.gov/study/NCT00106288"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06859671",
+            "title": "A Randomized Study of a Short Duration Therapy for Candidemia",
+            "phase": "PHASE3",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-07-01",
+            "completion_date": "2027-09-01",
+            "country": "N/A",
+            "enrollment": 362,
+            "brief_summary": "Scientific justification Candidemia is a major public health problem. In France, the 30-day mortality of candidemia varies from 30% to 50% depending on the need for intensive care and it has not decreased in 30 years.\n\nThe duration of treatment for candidemia was set at a minimum of 14 days after the last positive blood culture following the Rex trial (1) comparing the efficacy of fluconazole vs amphotericin B where the minimum duration of treatment was imposed. The risk of a too short treatment",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (Age ≥ 18 years old)\n* With an uncomplicated candidemia defined by the absence of secondary sites requiring prolonged treatment: endocarditis, ophthalmologic involvement, thrombosed catheter, arthritis, meningitis, candida abscess that cannot be drained, pyelonephritis.",
+            "endpoints": [
+              "All-cause mortality (ACM)"
+            ],
+            "sponsor": "Assistance Publique - Hôpitaux de Paris",
+            "url": "https://clinicaltrials.gov/study/NCT06859671"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04225195",
+            "title": "An Open, Multicenter Clinical Study to Evaluate the Safety, Efficacy, and Population Pharmacokinetics of ABCD for Invasive Candidiasis and Invasive Aspergillosis",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2020-01",
+            "completion_date": "2022-06",
+            "country": "N/A",
+            "enrollment": 60,
+            "brief_summary": "This is an open, multicenter clinical trial of ABCD for invasive candidiasis and invasive aspergillosis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with confirmed invasive candidiasis or confirmed/probable/possible invasive aspergillosis;\n2. Agree to use contraceptive measures from the date of signing the informed consent to 6 weeks after the end of the last medication;\n3. Female subjects must meet one of the fo",
+            "endpoints": [
+              "Number of patients who discontinued treatment due to study drug-related adverse events or abnormal laboratory tests, Intent-to-Treat (ITT) analysis set",
+              "Overall response success rate at the end of ABCD treatment, modified ITT (mITT) analysis set",
+              "Proportion of patients who discontinued treatment due to study drug-related adverse events or abnormal laboratory tests, ITT analysis set"
+            ],
+            "sponsor": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT04225195"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05707832",
+            "title": "An Open Clinical Trial to Evaluate the Safety, Efficacy and Population Pharmacokinetics of Amphotericin B Cholesteryl Sulfate Complex for Injection in Subjects With Invasive Candidiasis and Invasive Aspergillus",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2023-03-30",
+            "completion_date": "2025-03-31",
+            "country": "China",
+            "enrollment": 31,
+            "brief_summary": "This is a multi-center, open-label, non-controlled, single-arm clinical trial to evaluate the safety, efficacy and population pharmacokinetics of Amphotericin B cholesteryl Sulfate Complex for Injection domestic formulations (ABCD) in the treatment of confirmed invasive candidiasis (IC) and confirmed/clinically diagnosed invasive aspergillus (IA) disease.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥18 years old, male or female;\n2. Subjects who meet the EORTC-MSG diagnostic criteria and are diagnosed with invasive candidiasis (confirmed) or invasive aspergillus disease (confirmed or clinical) according to the Revised Definition of Invasive Mycosis: IC confirmed subj",
+            "endpoints": [
+              "The number and percentage of subjects whose treatment is terminated due to study abnormal laboratory tests leads to drug related adverse events.",
+              "The number and percentage of subjects whose treatment is terminated due to study the infusion reaction leads to drug related adverse events.",
+              "The number and percentage of subjects with study the infusion reaction leads to drug related adverse events."
+            ],
+            "sponsor": "CSPC Ouyi Pharmaceutical Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT05707832"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03828773",
+            "title": "PTX3 Genetically Stratified Randomized Double-blinded Allocation Event-driven Clinical Trial for Antifungal Prophylaxis in Patients With Acute Myeloid Leukemia",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2019-02-11",
+            "completion_date": "2027-11-30",
+            "country": "Switzerland, Belgium, France",
+            "enrollment": 410,
+            "brief_summary": "This is a prospective genetically-stratified randomized double-blind event-driven multicentre clinical trial to assess the efficacy of posaconazole-based antifungal prophylaxis allocation strategies for patients with acute myeloid leukemia who receive induction chemotherapy. Allocation strategy based on an invasive mold infection genetic risk will be double-blinded.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed Informed Consent according to national/local regulations.\n2. Age ≥18 years.\n3. Diagnosis of Acute Myeloid Leukemia (AML) or Myelodysplastic Syndrome in transformation (MDSit) treated with an intensive chemotherapy regimen, including induction / consolidation / salvage ",
+            "endpoints": [
+              "Cumulative incidence of proven and probable invasive mold infection (IMI)"
+            ],
+            "sponsor": "Centre Hospitalier Universitaire Vaudois",
+            "url": "https://clinicaltrials.gov/study/NCT03828773"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01869829",
+            "title": "International Pediatric Fungal Network: Multi-Center Studies to Improve Diagnosis and Treatment of Pediatric Candidiasis",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-01",
+            "completion_date": "2018-04",
+            "country": "Spain, Saudi Arabia, Greece, India, Italy, Canada, Colombia, United States",
+            "enrollment": 750,
+            "brief_summary": "The overarching objective is to develop new evidence-based treatment guidelines for invasive fungal diseases in children. To accomplish that, this protocol will focus on two specific aims: 1) Compare the effectiveness of echinocandin versus amphotericin B or triazole antifungal therapy for pediatric invasive candidiasis and for the subset of patients with invasive candidemia; 2) Characterize the incidence rate of inpatient pediatric invasive candidiasis per hospital admissions.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females age \\> 120 days and \\<18 years\n2. Documented proven or probable case of invasive candidiasis\n3. Parental/guardian permission (informed consent, if required) and if appropriate, child assent (if required).\n\nExclusion Criteria:\n\n1\\) Any history of prior Candida",
+            "endpoints": [
+              "Global response to antifungal therapy"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT01869829"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31654220",
+            "title": "Candida urinary tract infections in adults.",
+            "abstract": "Candiduria is commonly seen in hospitalized patients and most of the patients are asymptomatic, but it may be due to cystitis, pyelonephritis, prostatitis, epididymo-orchitis or disseminated candidiasis. Major risk factors are diabetes mellitus, indwelling urinary catheters, use of broad-spectrum antibiotics, urinary obstruction, and admission to intensive care units. Candida urinary tract infections can be caused by hematogenous spread following candidemia, or retrograde route via the urethra. The presence of Candida species in urine in asymptomatic patients does not warrant antifungal therapy except neutropenic patients, very low-birth-weight infants and patients undergoing urologic procedures. Fluconazole is the treatment of choice for symptomatic infections, it achieves high urinary levels. The other azole antifungals and echinocandins do not reach sufficient urine levels. Amphotericin B deoxycholate is the alternative antifungal agent if fluconazole can not be used because of resi",
+            "journal": "World journal of urology",
+            "year": "2020",
+            "authors": [
+              "Odabasi Zekaver",
+              "Mert Ali"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antifungal Agents",
+              "Candidiasis",
+              "Humans",
+              "Risk Factors",
+              "Urinary Tract Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31654220/"
+          },
+          {
+            "pmid": "320931",
+            "title": "Flucytosine.",
+            "abstract": "Flucytosine is a systemic antifungal drug that is readily absorbed from the gastrointestinal tract. The most clearly documented therapeutic effect has been in cryptococcosis, candidiasis, and chromomycosis. An important limitation of the use of flucytosine in all three diseases has been drug resistance arising during therapy. The addition of low-dose, intravenous amphotericin B to flucytosine therapy of cryptococcosis has appeared to decrease the frequency of secondary flucytosine resistance. In addition, the two drugs have an additive or slightly synergistic effect against flucytosine susceptible isolates of Cryptococcus and Candida. The combination is probably the treatment of choice in cryptococcal meningitis and offers promise in the therapy of systemic candidiasis and nonmeningeal cryptococcosis.",
+            "journal": "Annals of internal medicine",
+            "year": "1977",
+            "authors": [
+              "Bennet J E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Candidiasis",
+              "Chromoblastomycosis",
+              "Cryptococcosis",
+              "Cytosine",
+              "Drug Therapy, Combination",
+              "Flucytosine",
+              "Mycoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/320931/"
+          },
+          {
+            "pmid": "33894072",
+            "title": "Comparative effectiveness of amphotericin B, azoles and echinocandins in the treatment of candidemia and invasive candidiasis: A systematic review and network meta-analysis.",
+            "abstract": "BACKGROUND + OBJECTIVES: The echinocandins, amphotericin B preparations, voriconazole and fluconazole are approved for the treatment of invasive candidiasis, though it remains unclear which agent is most effective. In order to answer this question, we performed a systematic review and network meta-analysis of the randomised controlled trials (RCTs) which evaluated these agents in comparison.",
+            "journal": "Mycoses",
+            "year": "2021",
+            "authors": [
+              "Demir Koray K",
+              "Butler-Laporte Guillaume",
+              "Del Corpo Olivier",
+              "Ekmekjian Taline",
+              "Sheppard Donald C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Antifungal Agents",
+              "Candidemia",
+              "Candidiasis",
+              "Candidiasis, Invasive",
+              "Echinocandins",
+              "Humans",
+              "Randomized Controlled Trials as Topic",
+              "Triazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33894072/"
+          },
+          {
+            "pmid": "11181381",
+            "title": "Pharmacodynamics of amphotericin B in a neutropenic-mouse disseminated-candidiasis model.",
+            "abstract": "In vivo pharmacodynamic parameters have been described for a variety of antibacterials. These parameters have been studied in correlation with in vivo outcomes in order to determine which dosing parameter is predictive of outcome and the magnitude of that parameter associated with efficacy. Very little is known about pharmacodynamics for antifungal agents. We utilized a neutropenic mouse model of disseminated candidiasis to correlate pharmacodynamic parameters (percent time above MIC [T > MIC], area under the concentration time curve [AUC]/MIC ratio, and peak serum level/MIC ratio) for amphotericin B in vivo with efficacy, as measured by organism number in homogenized kidney cultures after 72 h of therapy. Amphotericin B was administered by the intraperitoneal route. Drug kinetics for amphotericin B in infected mice were nonlinear. Serum half-lives ranged from 13 to 27 h. Infection was achieved by intravenous inoculation with 10(6) CFU of yeast cells per ml via the lateral tail vein of",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2001",
+            "authors": [
+              "Andes D",
+              "Stamsted T",
+              "Conklin R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Antifungal Agents",
+              "Candida albicans",
+              "Candidiasis",
+              "Colony Count, Microbial",
+              "Disease Models, Animal",
+              "Female",
+              "Mice",
+              "Mice, Inbred ICR"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11181381/"
+          },
+          {
+            "pmid": "1476286",
+            "title": "[Systemic candidiasis].",
+            "abstract": "Candida proliferate within the body of patients with deficient cellular immunity either by the haematogenous route or by adjacency. This condition is often found in hospital patients. It explains the increasing incidence of disseminated candidiasis. They are preferentially found in patients who have had complicated surgery, mostly of the gastrointestinal tract and the heart, or transplant surgery (except for kidney transplants), or who have had prolonged intensive care. Other patients concerned are neonates with a low birth weight, haemato-oncology patients, heroin addicts and AIDS patients. Clinical signs are usually unspecific. When there is widespread involvement, clinical signs can be defined by the secondary locations, especially within the kidneys, lung, endocardium and brain in surgical patients, and liver and spleen in haemato-oncology patients. Eye, skin, gastrointestinal tract, and indeed, muscle lesions which are easily accessible, should be looked for routinely. This helps ",
+            "journal": "Annales francaises d'anesthesie et de reanimation",
+            "year": "1992",
+            "authors": [
+              "Lelarge P",
+              "Mariot J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Candida",
+              "Candidiasis",
+              "Decontamination",
+              "Drug Therapy, Combination",
+              "Female",
+              "Flucytosine",
+              "Humans",
+              "Ketoconazole",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1476286/"
+          },
+          {
+            "pmid": "2024963",
+            "title": "Comparison of fluconazole and amphotericin B for treatment of disseminated candidiasis and endophthalmitis in rabbits.",
+            "abstract": "We compared the efficacy of intravenous fluconazole (80 mg/kg of body weight per day) with that of amphotericin B (1 mg/kg/day) for the long-term treatment of endophthalmitis in rabbits with disseminated candidiasis. After 17 days of therapy, fluconazole decreased the fungal colony counts of the choroid-retinas significantly more than did the saline control (P less than 0.05); however, after 24 days of fluconazole therapy, this treatment effect was lost and fluconazole was no more effective than saline. In contrast, treatment for 24 days with amphotericin B reduced the vitreous and choroid-retina fungal colony counts significantly more than either fluconazole or saline (P less than 0.05 for both treatment groups). After 17 days of therapy, indirect ophthalmoscopy revealed less severe eye involvement in both antifungal treatment groups than in saline controls; however, this difference reached statistical significance only for the amphotericin B-treated rabbits (P less than 0.05). Also, ",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1991",
+            "authors": [
+              "Filler S G",
+              "Crislip M A",
+              "Mayer C L",
+              "Edwards J E"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Candida albicans",
+              "Candidiasis",
+              "Endophthalmitis",
+              "Female",
+              "Fluconazole",
+              "Kidney",
+              "Rabbits"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2024963/"
+          },
+          {
+            "pmid": "2670371",
+            "title": "Systemic candidiasis.",
+            "abstract": "Systemic candidiasis is a disease of increasing incidence and proportions, which appears to be associated with the advances in modern medicine. It involves primarily patients with severe debilitating and malignant disease who are receiving immunosuppressive, cytotoxic, antimetabolite, and antibiotic therapy. Side effects of these otherwise major therapeutic agents predispose patients to opportunistic fungal infections, of which candidiasis is the most common. The high morbidity and mortality of disseminated candidiasis in neutropenic patients are difficult obstacles to obtaining the optimal, if not full, potential of modern chemotherapy for cancer. The inability to diagnose early invasive and systemic candidiasis is a major handicap that delays timely initiation of antifungal therapy. The paucity of highly efficacious antifungal agents with low toxicity severely limits the ability to successfully cure systemic fungal infections in cancer patients. Aggressive research into the basic bio",
+            "journal": "Dermatologic clinics",
+            "year": "1989",
+            "authors": [
+              "Ray T L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Candidiasis",
+              "Flucytosine",
+              "Humans",
+              "Immune Tolerance",
+              "Ketoconazole",
+              "Neoplasms",
+              "Opportunistic Infections",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2670371/"
+          },
+          {
+            "pmid": "1867240",
+            "title": "Fluconazole therapy for chronic disseminated candidiasis in patients with leukemia and prior amphotericin B therapy.",
+            "abstract": "To study the efficacy of fluconazole against chronic disseminated candidiasis (hepatosplenic candidiasis) in patients with leukemia in whom amphotericin B treatment had failed.",
+            "journal": "The American journal of medicine",
+            "year": "1991",
+            "authors": [
+              "Anaissie E",
+              "Bodey G P",
+              "Kantarjian H",
+              "David C",
+              "Barnett K"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Amphotericin B",
+              "Candidiasis",
+              "Child, Preschool",
+              "Chronic Disease",
+              "Female",
+              "Fluconazole",
+              "Humans",
+              "Leukemia, Myeloid, Acute"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1867240/"
+          },
+          {
+            "pmid": "38978781",
+            "title": "Case report: Successful combination therapy with isavuconazole and amphotericin B in treatment of disseminated Candida tropicalis infection.",
+            "abstract": "Disseminated candidiasis is a severe complication in patients with hematological malignancies who have undergone chemotherapy or hematopoietic stem cell transplantation. It has a high mortality rate. When disseminated candidiasis caused by Candida tropicalis involves either the brain or heart, the prognosis is extremely poor. Traditional methods such as cultures are limited in diagnosing disseminated candidiasis. We describe a case report of a 55-year-old man with acute myeloid leukemia who developed candidemia caused by Candida tropicalis after chemotherapy, which disseminated extensively to the heart, brain, skin, liver, spleen and kidneys. In this instance, the patient was rapidly diagnosed with candida infection by metagenomic next generation sequencing, and successfully treated with combination therapy of isavuconazole and amphotericin B. The patient continued with treatment of leukemia while simultaneously receiving antifungal therapy, and both leukemia and disseminated candidias",
+            "journal": "Frontiers in medicine",
+            "year": "2024",
+            "authors": [
+              "Teng Qibei",
+              "Ye Xueshi",
+              "Wang Bei",
+              "Zhang Xinyue",
+              "Tao Zhizhi"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38978781/"
+          },
+          {
+            "pmid": "15755501",
+            "title": "Chronic disseminated candidiasis in patients with acute leukemia: emphasis on diagnostic definition and treatment.",
+            "abstract": "Chronic disseminated candidiasis (CDC) is a form of invasive fungal infection that occurs most commonly in patients with acute leukemia treated with chemotherapy. Recent studies have provided evidence for diagnostic alternatives to invasive procedures and more therapeutic options for the management of this complication. In order to put diagnostic criteria and methodological approach to the disease into the perspective of developing strategies for therapy, all relevant studies published in the English literature over the last 30 years were examined.",
+            "journal": "Leukemia research",
+            "year": "2005",
+            "authors": [
+              "Masood Aisha",
+              "Sallah Sabah"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Antifungal Agents",
+              "Candidiasis",
+              "Chronic Disease",
+              "Fluconazole",
+              "Humans",
+              "Leukemia, Myeloid, Acute",
+              "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+              "Salvage Therapy",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15755501/"
+          },
+          {
+            "pmid": "20840836",
+            "title": "Efficacy of combination immunotherapy of IgM MAb B6.1 and amphotericin B against disseminated candidiasis.",
+            "abstract": "We previously reported that the IgM MAb B6.1, specific for β-1,2-mannotriose on the surface of the cell wall of Candida albicans, prevents mice from disseminated candidiasis. The preventive activity of the antibody is mediated by enhanced phagocytosis that caused killing of the fungus and involvement of the complement system. In the present study, MAb B6.1 was tested if the antibody enhances therapeutic efficacy of amphotericin B (Amp B) in a murine model of disseminated candidiasis due to C. albicans. Determination by the kidneys-cfu (colony forming unit) and survival times was used to assess treatment. Mice treated intraperitoneally with MAb B6.1 at 1h post-infection with C. albicans (5 x 10⁵ yeast cells/mouse) developed fewer 28%cfu and prolonged survival rates than negative controls, whereas administration of B6.1 to mice at 2h post-infection was ineffective. Therapeutic effect of Amp B on mice with the disseminated disease was dose-dependent, but dosage of Amp B (0.5mg/kg body wei",
+            "journal": "International immunopharmacology",
+            "year": "2010",
+            "authors": [
+              "Han Yongmoon"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Antibodies, Monoclonal",
+              "Antifungal Agents",
+              "Candida albicans",
+              "Candidiasis, Invasive",
+              "Disease Models, Animal",
+              "Drug Synergism",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20840836/"
+          },
+          {
+            "pmid": "15744087",
+            "title": "Berberine synergy with amphotericin B against disseminated candidiasis in mice.",
+            "abstract": "In present study, we investigated the synergic effect of berberine against disseminated candidiasis caused by the pathogenic fungus, Candida albicans. Berberine inhibited the growth of C. albicans under in-vitro condition. The broth susceptibility revealed the synergic effect of berberine with amphotericin B (Amp B). To confirm these results under the in-vivo condition, the effect was examined in mice against disseminated candidiasis. Results showed mice that were given diluent (negative control), Amp B (0.5 mg/kg of body weight), or berberine (1 mg/kg of body weight) had mean survival times (MST) of approximately 12, 14, and 17 d, respectively. On the contrary, mice that were treated using a combination of the two agents at the same concentrations resulted in a MST value of 36 d, surviving at an average of 22 d longer than the mice group treated only with the Amp B. This MST value was almost same as MST value from the mice that were given four times the Amp B dose. These data indicate",
+            "journal": "Biological & pharmaceutical bulletin",
+            "year": "2005",
+            "authors": [
+              "Han Yongmoon",
+              "Lee Jue-Hee"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Berberine",
+              "Candidiasis",
+              "Drug Synergism",
+              "Female",
+              "Mice",
+              "Mice, Inbred BALB C"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15744087/"
+          },
+          {
+            "pmid": "8192469",
+            "title": "Saperconazole therapy of murine disseminated candidiasis: efficacy and interactions with amphotericin B.",
+            "abstract": "The efficacy of a new triazole antifungal agent, saperconazole, in a murine model of disseminated candidiasis was studied. Mice were intravenously infected with Candida albicans blastoconidia and treated for 14 days with oral saperconazole, intraperitoneal amphotericin B, or a combination of these. Amphotericin B alone was the most efficacious in prolonging survival and in decreasing renal colony counts, usually with complete sterilization of the kidneys by the end of the treatment course. Saperconazole improved survival rates and effected a decrease in renal colony counts, but kidneys were not microbiologically sterilized. Combination therapy with saperconazole and amphotericin B did not result in a decrease in the efficacy of amphotericin B by either end point (survival or renal colony counts). High-pressure liquid chromatographic analysis of saperconazole concentrations in serum indicated low levels of absorption of the drug. We conclude that saperconazole is effective in the treatm",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1994",
+            "authors": [
+              "Sugar A M",
+              "Salibian M",
+              "Goldani L Z"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Absorption",
+              "Amphotericin B",
+              "Animals",
+              "Azoles",
+              "Candidiasis",
+              "Chromatography, High Pressure Liquid",
+              "Colony Count, Microbial",
+              "Disease Models, Animal",
+              "Drug Interactions",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8192469/"
+          },
+          {
+            "pmid": "1929290",
+            "title": "Synergy between cilofungin and amphotericin B in a murine model of candidiasis.",
+            "abstract": "The efficacies of cilofungin and amphotericin B separately and together in mice with disseminated candidiasis were studied. Male CD-1 mice (age, 5 weeks) were infected intravenously with 3 X 10(5) CFU of Candida albicans. At 4 days postinfection, intraperitoneal therapy was initiated and was continued for 14 days. Therapy groups included those given cilofungin at 6.25 or 62.5 mg/kg/day (given twice daily), amphotericin B at 0.625 mg/kg/day (given once daily), cilofungin at 6.25 mg/kg/day plus amphotericin B, and cilofungin at 62.5 mg/kg/day plus amphotericin B. Mice were observed through 30 days postinfection. All infected untreated mice died of infection between days 6 and 18. Eighty-five percent of mice receiving cilofungin at 6.25 mg/kg/day died between days 13 and 30. All other mice survived. Quantitative determination of the number of CFU of C. albicans in the spleens and kidneys of all survivors revealed that mice that had received both drugs had lower residual burdens of C. albi",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1991",
+            "authors": [
+              "Hanson L H",
+              "Perlman A M",
+              "Clemons K V",
+              "Stevens D A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Antifungal Agents",
+              "Candida",
+              "Candidiasis",
+              "Drug Synergism",
+              "Echinocandins",
+              "Male",
+              "Mice",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1929290/"
+          },
+          {
+            "pmid": "1457662",
+            "title": "Disseminated candidiasis in addicts who use brown heroin: report of 83 cases and review.",
+            "abstract": "From November 1983 to April 1990, disseminated candidiasis was diagnosed in 83 heroin addicts at our institution. All patients had consumed brown heroin diluted in fresh lemon juice. Sixty-two (75%) had skin lesions, 41 (49%) had ocular lesions, and 35 (42%) had one or several costochondral tumors. Candida albicans was grown in culture or histopathologically identified in 34 cases (41%). The patients who had only cutaneous lesions were treated with ketoconazole, and they were all cured. The patients with ocular involvement received systemic amphotericin B with or without oral flucytosine; 29 of these patients developed varying degrees of vision loss. The method of treatment of costochondral tumors was not uniform; in 14 cases the lesions were resected. The one patient who died developed endocarditis involving the aortic valve. Cases of pleuropulmonary involvement, spondylitis, and large-joint arthritis have also been described among the 300 cases reported in the reviewed literature. Th",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1992",
+            "authors": [
+              "Bisbe J",
+              "Miro J M",
+              "Latorre X",
+              "Moreno A",
+              "Mallolas J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Candidiasis",
+              "Female",
+              "Heroin Dependence",
+              "Humans",
+              "Male",
+              "Substance Abuse, Intravenous"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1457662/"
+          },
+          {
+            "pmid": "29194382",
+            "title": "Liposomal and Deoxycholate Amphotericin B Formulations: Effectiveness against Biofilm Infections of Candida spp.",
+            "abstract": "candidiasis is the primary fungal infection encountered in patients undergoing prolonged hospitalization, and the fourth leading cause of nosocomial bloodstream infections. One of the most important Candida spp. virulence factors is the ability to form biofilms, which are extremely refractory to antimicrobial therapy and very difficult to treat with the traditional antifungal therapies. It is known that the prophylaxis or treatment of a systemic candidiasis are recurrently taken without considering the possibility of a Candida spp. biofilm-related infections. Therefore, it is important to assess the effectiveness of the available drugs and which formulations have the best performance in these specific infections.",
+            "journal": "Pathogens (Basel, Switzerland)",
+            "year": "2017",
+            "authors": [
+              "Rodrigues Célia F",
+              "Henriques Mariana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29194382/"
+          },
+          {
+            "pmid": "17093376",
+            "title": "Neonatal invasive candidiasis.",
+            "abstract": "Over the last two decades, systemic fungal infections have emerged to play a primary role in hospital-acquired infections. C. albicans is involved in 75% of neonatal candidiasis; however, the incidence of infection from C. parapsilosis is also increasing significantly. The higher incidence observed in the high-risk group of very low birth weight (VLBW) infants is linked to their special physical characteristics and the diagnostic and therapeutic invasive procedures they undergo. Colonization is a relevant risk factor depending on the colonized site , the fungal species and the type of colonization. Serological tests have a low specificity and sensitivity; in many cases, they do not distinguish between colonization and infection. Blood culture, although the best diagnostic test for determining systemic infection, can result negative, even in cases of deep organ involvement. In addition, fungi grow more slowly than bacteria in cultures. So, the difficulty in diagnosing systemic candidias",
+            "journal": "Minerva pediatrica",
+            "year": "2006",
+            "authors": [
+              "Stronati M",
+              "Decembrino L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Amphotericin B",
+              "Antifungal Agents",
+              "Candidiasis",
+              "Drug Therapy, Combination",
+              "Fluconazole",
+              "Flucytosine",
+              "Humans",
+              "Incidence",
+              "Infant, Newborn"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17093376/"
+          },
+          {
+            "pmid": "10952575",
+            "title": "Single-dose AmBisome (Liposomal amphotericin B) as prophylaxis for murine systemic candidiasis and histoplasmosis.",
+            "abstract": "AmBisome is a liposomal formulation of amphotericin B that has broad-spectrum antifungal activity and greatly reduced toxicity compared to the parent drug. In this study, amphotericin B deoxycholate (Fungizone) (1 mg/kg) and AmBisome (1 to 20 mg/kg) were tested as single-dose prophylactic agents in both immunocompetent and immunosuppressed C57BL/6 mice challenged with either Candida albicans or Histoplasma capsulatum. Prophylactic efficacy was based on survival and fungal burden in the target organ (kidneys or spleen). At 9 to 10 days after histoplasma challenge, 80 to 90% of both immunocompetent and immunosuppressed mice in the control and Fungizone groups had died. All AmBisome-treated mice survived, although in the AmBisome groups given 1 mg/kg, the mice became moribund by day 10 to 12. No spleen CFU were detected in the histoplasma-challenged mice given 10 or 20 mg of AmBisome per kg. By 23 to 24 days after histoplasma challenge, fungal growth and/or death had occurred in all immun",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2000",
+            "authors": [
+              "Garcia A",
+              "Adler-Moore J P",
+              "Proffitt R T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amphotericin B",
+              "Animals",
+              "Antibiotic Prophylaxis",
+              "Antifungal Agents",
+              "Candida albicans",
+              "Candidiasis",
+              "Disease Models, Animal",
+              "Female",
+              "Histoplasma",
+              "Histoplasmosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10952575/"
+          },
+          {
+            "pmid": "40781933",
+            "title": "Utility and Pitfalls of β-D-Glucan for Diagnosis and Response Monitoring of Chronic Disseminated Candidiasis in Paediatric Cancer Patients.",
+            "abstract": "β-D-Glucan (BDG) is a useful but nonspecific biomarker in patients with suspected invasive fungal diseases including Pneumocystis pneumonia. Little is known, however, about its utility for response monitoring in chronic disseminated candidiasis (CDC).",
+            "journal": "Mycoses",
+            "year": "2025",
+            "authors": [
+              "Körholz Katharina F",
+              "Hennies Marc T",
+              "Herbrüggen Heidrun",
+              "Krämer Katja",
+              "Ahlmann Martina"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "beta-Glucans",
+              "Child",
+              "Adolescent",
+              "Child, Preschool",
+              "Male",
+              "Female",
+              "Antifungal Agents",
+              "Neoplasms",
+              "Proteoglycans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40781933/"
+          },
+          {
+            "pmid": "29280061",
+            "title": "Antifungal activity of oral (Tragacanth/acrylic acid) Amphotericin B carrier for systemic candidiasis: in vitro and in vivo study.",
+            "abstract": "In an effort to increase the oral bioavailability of Amphotericin B (AmB), a pH-sensitive drug carrier composed of Tragacanth (Trag) and acrylic acid (AAc) was prepared using γ-irradiation. The swelling behavior of (Trag/AAc) hydrogels was characterized as a function of pH and ionic strength of the swelling medium. The obtained swelling indices revealed the ability of the prepared hydrogel to protect a loaded drug in stomach-simulated medium (Fickian behavior) and to release such drug in intestinal-simulated medium (non-Fickian behavior). In vitro release studies of the antifungal (AmB) were performed to evaluate the hydrogel potential as a drug carrier. The antifungal activity of the prepared oral formulation was investigated in a mouse model of systemic candidiasis. Data revealed that (Trag/AAc)-AmB has a potent antifungal efficacy as demonstrated by prolonging the survival time and reducing the tissue fungal burden, serum antibody titers, as well as inflammatory cytokines in kidney ",
+            "journal": "Drug delivery and translational research",
+            "year": "2018",
+            "authors": [
+              "Mohamed Heba A",
+              "Radwan Rasha R",
+              "Raafat Amany I",
+              "Ali Amr El-Hag"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acrylates",
+              "Administration, Oral",
+              "Amphotericin B",
+              "Animals",
+              "Antibodies, Fungal",
+              "Antifungal Agents",
+              "Candida albicans",
+              "Candidiasis",
+              "Cytokines",
+              "Drug Carriers"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29280061/"
+          }
+        ],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      },
+      {
+        "disease_name": "Actinomycetales infectious disease",
+        "kg_score": null,
+        "kg_rank": 5,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "evidence_level": null,
+        "evidence_summary": null,
+        "mechanistic_link": null
+      }
+    ]
+  },
+  "npra": {
+    "found": true,
+    "records": [
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL09072763AZ",
+        "product": "AMPHOTRET FOR INJECTION USP 50MG",
+        "active_ingredient": "AMPHOTERICIN B[50;mg;;0]",
+        "generic_name": "Amphotericin B 50 mg Injection",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2024-08-02",
+        "date_end": "2029-08-02",
+        "url": "https://npra.gov.my/index.php/search/product/MAL09072763AZ"
+      },
+      {
+        "registry": "NPRA Malaysia",
+        "reg_no": "MAL10053649AZ",
+        "product": "AMPHOLIP Injection 50mg/10ml",
+        "active_ingredient": "AMPHOTERICIN B[5.0;mg;1;ml]",
+        "generic_name": "Amphotericin B 50 mg Injection",
+        "holder": "PAHANG PHARMACY SDN. BHD.",
+        "description": "PRESCRIPTION",
+        "status": "PRODUCT APPROVED",
+        "date_reg": "2025-05-30",
+        "date_end": "2030-05-30",
+        "url": "https://npra.gov.my/index.php/search/product/MAL10053649AZ"
+      }
+    ]
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00681",
+    "name": "Amphotericin B",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "npra",
+      "query_params": {
+        "drug": "Amphotericin B"
+      },
+      "queried_at": "2026-03-04T15:59:38.429885",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Amphotericin B"
+      },
+      "queried_at": "2026-03-04T16:00:02.153203",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-04T16:00:03.545170",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-04T16:00:09.618210",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-04T16:00:13.266966",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "acne"
+      },
+      "queried_at": "2026-03-04T16:00:14.032628",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "acne"
+      },
+      "queried_at": "2026-03-04T16:00:17.716343",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "acne"
+      },
+      "queried_at": "2026-03-04T16:00:24.433214",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "ornithosis"
+      },
+      "queried_at": "2026-03-04T16:00:25.394988",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "ornithosis"
+      },
+      "queried_at": "2026-03-04T16:00:30.796593",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "ornithosis"
+      },
+      "queried_at": "2026-03-04T16:00:32.069926",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "disseminated candidiasis"
+      },
+      "queried_at": "2026-03-04T16:00:33.458990",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "disseminated candidiasis"
+      },
+      "queried_at": "2026-03-04T16:00:38.814853",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "disseminated candidiasis"
+      },
+      "queried_at": "2026-03-04T16:00:42.502887",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "Actinomycetales infectious disease"
+      },
+      "queried_at": "2026-03-04T16:00:43.017172",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "Actinomycetales infectious disease"
+      },
+      "queried_at": "2026-03-04T16:00:46.542539",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amphotericin B",
+        "disease": "Actinomycetales infectious disease"
+      },
+      "queried_at": "2026-03-04T16:00:47.566917",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "indications_requested": 5,
+    "indications_processed": 5,
+    "created_at": "2026-03-04T16:00:47.572865",
+    "version": "1.0"
+  }
+}

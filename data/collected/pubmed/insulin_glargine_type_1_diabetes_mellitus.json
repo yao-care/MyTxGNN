@@ -1,0 +1,596 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Insulin Glargine",
+    "disease": "type 1 diabetes mellitus",
+    "query_string": "Insulin Glargine AND type 1 diabetes mellitus"
+  },
+  "data": {
+    "query": "Insulin Glargine AND type 1 diabetes mellitus",
+    "results": [
+      {
+        "pmid": "36896906",
+        "title": "Insulin Glargine in Type 1 Diabetes Mellitus: A Review of Clinical Trials and Real-world Evidence Across Two Decades.",
+        "abstract": "Over the past two decades, insulin glargine 100 U/mL (Gla-100) has emerged as the \"standard of care\" basal insulin for the management of type 1 diabetes mellitus (T1DM). Both formulations, insulin glargine 100 U/mL (Gla-100) and glargine 300 U/mL (Gla- 300) have been extensively studied against various comparator basal insulins across various clinical and real-world studies. In this comprehensive article, we reviewed the evidence on both insulin glargine formulations in T1DM across clinical trials and real-world studies.",
+        "journal": "Current diabetes reviews",
+        "year": "2024",
+        "authors": [
+          "Saboo Banshi",
+          "Chandalia Hemraj",
+          "Ghosh Sujoy",
+          "Kesavadev Jothydev",
+          "Kochar I P S"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Insulin Glargine",
+          "Diabetes Mellitus, Type 1",
+          "Hypoglycemic Agents",
+          "Diabetes Mellitus, Type 2",
+          "Blood Glucose",
+          "Glycated Hemoglobin",
+          "Hypoglycemia",
+          "Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36896906/"
+      },
+      {
+        "pmid": "37909930",
+        "title": "[New Insulins for Type 1 Diabetes treatment].",
+        "abstract": "Insulin therapy is complex in pediatric patients because they present greater variations in insulin requirements. Traditional insulins have limitations related to time of onset of action and duration of effect, which has led to the development of new insulins, seeking to reduce chronic complications, severe or nocturnal hypoglycemia, and to improve adherence to therapy. This review updates the information on new insulins, their mechanisms of action and the benefits they provide in the treatment of diabetes. Insulin analogues attempt to mimic the physiological secretion of the hormone, including time of action and duration of effect. The most used prandial analogs are the so-called rapid-acting insulins, including Faster Aspartic and the new basal insulins, glargine U300 and degludec, which have a prolonged action of more than 24 hours and therefore require a daily dose. New technologies under development include biosimilar insulins such as the glargine biosimilar, already available in ",
+        "journal": "Andes pediatrica : revista Chilena de pediatria",
+        "year": "2023",
+        "authors": [
+          "Rumié Carmi Hana Karime",
+          "Domínguez-Menéndez Gonzalo",
+          "Araya Manuel",
+          "Martínez-Aguayo Alejandro"
+        ],
+        "pub_types": [
+          "Review",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child",
+          "Diabetes Mellitus, Type 1",
+          "Insulin Glargine",
+          "Biosimilar Pharmaceuticals",
+          "Insulin",
+          "Insulins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37909930/"
+      },
+      {
+        "pmid": "29322308",
+        "title": "Quality of Life of Patients with Type 1 Diabetes Mellitus Using Insulin Analog Glargine Compared with NPH Insulin: A Systematic Review and Policy Implications.",
+        "abstract": "Insulin analog glargine (GLA) has been available as one of the therapeutic options for patients with type 1 diabetes mellitus to enhance glycemic control. Studies have shown that a decrease in the frequency of hypoglycemic episodes improves the quality of life (QoL) of diabetic patients. However, there are appreciable acquisition cost differences between different insulins. Consequently, there is a need to assess their impact on QoL to provide future guidance to health authorities.",
+        "journal": "The patient",
+        "year": "2018",
+        "authors": [
+          "Almeida Paulo H R F",
+          "Silva Thales B C",
+          "de Assis Acurcio Francisco",
+          "Guerra Júnior Augusto A",
+          "Araújo Vania E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Brazil",
+          "Cost-Benefit Analysis",
+          "Diabetes Mellitus, Type 1",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin Glargine",
+          "Insulin, Isophane"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29322308/"
+      },
+      {
+        "pmid": "40211481",
+        "title": "An open-label, multiple ascending dose trial of orally administered insulin Tregopil in patients with type 1 diabetes mellitus to evaluate its pharmacokinetics, pharmacodynamics, safety and tolerability.",
+        "abstract": "This trial evaluated the safety, tolerability, pharmacokinetics (PK) and pharmacodynamics (PD) of oral insulin Tregopil (Part 1; results discussed in this paper) and the post-prandial glucose control with different meal types in comparison with insulin aspart (Part 2) in patients with type 1 diabetes mellitus (T1DM).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2025",
+        "authors": [
+          "Latres Esther",
+          "Plum-Moerschel Leona",
+          "Murugesan Sundara Moorthi Nainar",
+          "Lou Olivia",
+          "Panda Jayanti"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase I"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 1",
+          "Female",
+          "Male",
+          "Adult",
+          "Hypoglycemic Agents",
+          "Administration, Oral",
+          "Middle Aged",
+          "Insulin",
+          "Blood Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40211481/"
+      },
+      {
+        "pmid": "17319470",
+        "title": "Insulin glargine in the treatment of type 1 and type 2 diabetes.",
+        "abstract": "Insulin glargine is an analogue of human insulin that is modified to provide a consistent level of plasma insulin over a long duration. Pharmacokinetic and pharmacodynamic studies show that a single injection of insulin glargine leads to a smooth 24-hour time-action profile with no undesirable pronounced peaks of activity. In clinical trials, this profile has been associated with at least equivalent, if not better, glycemic control than other traditional basal insulins and a significantly lower rate of overall and nocturnal hypoglycemia. The convenience of a once-daily injection, a lack of need for resuspension (insulin glargine is a clear solution when injected), and lower rates of hypoglycemia should translate into improvements in patient treatment satisfaction. This review appraises the evidence for the view that insulin glargine represents an advance in basal insulin therapy for both type 1 and type 2 diabetes patients.",
+        "journal": "Vascular health and risk management",
+        "year": "2006",
+        "authors": [
+          "Barnett Anthony H"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Cardiovascular Diseases",
+          "Delayed-Action Preparations",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Diabetic Angiopathies",
+          "Drug Administration Schedule",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17319470/"
+      },
+      {
+        "pmid": "35881330",
+        "title": "Insulin Glargine 300 U/mL Therapy in Children and Adolescents with Type 1 Diabetes.",
+        "abstract": "The pharmacokinetic and pharmacodynamic properties of the second-generation basal insulin glargine 300 Units/mL (Gla-300) may be of benefit in the treatment of type 1 diabetes mellitus (T1DM). Gla-300 provides a stable and sustained time-action profile, which is associated with glycaemic control and flexible dosing schedule. This review summarises the available evidence on the safety and efficacy of Gla-300 in children and adolescents with T1DM. Gla-300 is as effective as the first-generation basal insulin glargine 100 Units/mL (Gla-100), a standard of care for patients with diabetes in reducing HbA1c, and shows a lower risk of severe hypoglycaemia and hyperglycaemia in children and adolescents with T1DM. However, Gla-300 and Gla-100 are not bioequivalent and are not directly interchangeable. Real-world studies on patients aged 6-17 years are limited. To date, only one small study assessed the effectiveness and safety of Gla-300 versus Gla-100 in newly diagnosed T1DM paediatric patient",
+        "journal": "Paediatric drugs",
+        "year": "2022",
+        "authors": [
+          "Maffeis Claudio",
+          "Rabbone Ivana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Diabetes Mellitus, Type 1",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35881330/"
+      },
+      {
+        "pmid": "15765621",
+        "title": "Spotlight on insulin glargine in type 1 and 2 diabetes mellitus.",
+        "abstract": "Insulin glargine is a recombinant human insulin analog produced by DNA technology using a nonpathogenic strain of Escherichia coli. Two modifications of human insulin result in a stable molecule which is soluble in slightly acidic conditions (pH 4.0) and precipitates in the neutral pH of subcutaneous tissue. Because of these properties, absorption of insulin glargine is delayed and the analog provides a fairly constant, basal insulin supply without peaks in plasma insulin levels for approximately 24 hours, similar to that achieved by a continuous subcutaneous insulin infusion. Insulin glargine is indicated as a once daily subcutaneous injection to provide basal glycemic control in adults and children aged >6 years with type 1 diabetes mellitus and in adults with type 2 diabetes mellitus. Fasting plasma glucose and fasting blood glucose levels generally improved to a greater extent in patients with type 1 diabetes mellitus receiving insulin glargine than patients who administered Neutra",
+        "journal": "Treatments in endocrinology",
+        "year": "2002",
+        "authors": [
+          "McKeage Kate",
+          "Goa Karen L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin",
+          "Insulin Glargine",
+          "Insulin, Long-Acting"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15765621/"
+      },
+      {
+        "pmid": "38679838",
+        "title": "Once-weekly insulin efsitora alfa: Design and rationale for the QWINT phase 3 clinical development programme.",
+        "abstract": "Insulin efsitora alfa (efsitora) is a once-weekly basal insulin. This review describes the study design and rationale of the efsitora phase 3 Once Weekly (QW) Insulin Therapy (QWINT) clinical development programme, including the five trials, QWINT-1 through QWINT-5.",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2024",
+        "authors": [
+          "Bergenstal Richard M",
+          "Philis-Tsimikas Athena",
+          "Wysham Carol",
+          "Carr Molly C",
+          "Bue-Valleskey Juliana M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Hypoglycemic Agents",
+          "Drug Administration Schedule",
+          "Clinical Trials, Phase III as Topic",
+          "Diabetes Mellitus, Type 1",
+          "Insulin, Long-Acting",
+          "Blood Glucose",
+          "Glycated Hemoglobin",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38679838/"
+      },
+      {
+        "pmid": "26238470",
+        "title": "New Insulin Glargine 300 U/mL for the Treatment of Type 1 and Type 2 Diabetes Mellitus.",
+        "abstract": "To describe the studies evaluating the efficacy and safety of new insulin glargine 300 U/mL (Gla-300) as a basal insulin in the treatment of type 1 (T1DM) and type 2 (T2DM) diabetes mellitus.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "2015",
+        "authors": [
+          "Goldman Jennifer",
+          "White John R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Clinical Trials as Topic",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Dose-Response Relationship, Drug",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26238470/"
+      },
+      {
+        "pmid": "11577797",
+        "title": "Insulin glargine: a review of its therapeutic use as a long-acting agent for the management of type 1 and 2 diabetes mellitus.",
+        "abstract": "Insulin glargine is a recombinant human insulin analogue produced by DNA technology using a nonpathogenic strain of Escherichia coli. Two modifications of human insulin result in a stable molecule which is soluble in slightly acidic conditions (pH 4.0) and precipitates in the neutral pH of subcutaneous tissue. Because of these properties, absorption of insulin glargine is delayed and the analogue provides a fairly constant, basal insulin supply without peaks in plasma insulin levels for approximately 24 hours, similar to that achieved by a continuous subcutaneous insulin infusion. Insulin glargine is indicated as a once daily subcutaneous injection to provide basal glycaemic control in adults and children aged >6 years with type 1 diabetes mellitus and in adults with type 2 diabetes mellitus. Fasting plasma glucose and fasting blood glucose levels generally improved to a greater extent in patients with type 1 diabetes mellitus receiving insulin glargine than patients who administered N",
+        "journal": "Drugs",
+        "year": "2001",
+        "authors": [
+          "McKeage K",
+          "Goa K L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Absorption",
+          "Area Under Curve",
+          "Blood Glucose",
+          "Child",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Insulin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11577797/"
+      },
+      {
+        "pmid": "29368288",
+        "title": "LY2963016 Insulin Glargine: A Review in Type 1 and 2 Diabetes.",
+        "abstract": "Subcutaneous once-daily LY2963016 insulin glargine (LY insulin glargine) [Abasaglar® (EU); Basaglar® (USA)] has been approved in the EU as a biosimilar to reference insulin glargine (Lantus®), and in the USA as a follow-on biologic to reference insulin glargine, for use in patients with type 1 or 2 diabetes. Structural and functional characterization of LY insulin glargine in preclinical studies showed that it is similar to reference insulin glargine. In phase I euglycaemic clamp studies, LY insulin glargine demonstrated similar pharmacodynamic (including duration of action) and pharmacokinetic parameters to reference insulin glargine. In the phase III ELEMENT trials, LY insulin glargine and reference insulin glargine were noninferior to each other with respect to glycaemic control, indicating their equivalent efficacy, when administered with mealtime insulin in adults with type 1 diabetes or with oral antiglycaemic medications in adults with type 2 diabetes. LY insulin glargine was ge",
+        "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+        "year": "2018",
+        "authors": [
+          "Lamb Yvette N",
+          "Syed Yahiya Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Biosimilar Pharmaceuticals",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Humans",
+          "Hypoglycemic Agents",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29368288/"
+      },
+      {
+        "pmid": "16398447",
+        "title": "Long-acting insulin analogues (insulin glargine or determir) and continuous subcutaneous insulin infusion in the treatment of type 1 diabetes mellitus in the paediatric population.",
+        "abstract": "Despite many improvements in the treatment of type 1 diabetes mellitus (DM1), the non-physiological time-action profiles of conventional insulins remain a significant obstacle. In recent years, recombinant DNA technology has been used to design insulin molecules that overcome the limitations of regular and NPH insulin. The rapid insulin analogs used as prandial and the long-acting insulin analogs used as basal simulate physiological insulin profiles more closely than the older conventional insulins. The efficacy of insulin analogs now available for multiple daily injection (MDI) and continuous subcutaneous insulin infusion (CSII) therapy in DM1 has been established in pediatric patients. Insulin pumps have improved since they were first introduced. CSII therapy may provide an effective alternative for selected pediatric patients with DM1. In most studies at pediatric age, CSII therapy resulted in a improvement in HbA1c, a decreased rate of hypoglycemia without an abnormal increase in B",
+        "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+        "year": "2005",
+        "authors": [
+          "Barrio Castellanos Raquel"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Child",
+          "Child, Preschool",
+          "Diabetes Mellitus, Type 1",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Insulin",
+          "Insulin Glargine",
+          "Insulin Infusion Systems"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16398447/"
+      },
+      {
+        "pmid": "17919543",
+        "title": "Negative binomial meta-regression analysis of combined glycosylated hemoglobin and hypoglycemia outcomes across eleven Phase III and IV studies of insulin glargine compared with neutral protamine Hagedorn insulin in type 1 and type 2 diabetes mellitus.",
+        "abstract": "This analysis first modeled the interaction between hypoglycemia and glycosylated hemoglobin (HbA1c) in clinical trials that compared insulin glargine (glargine) with human neutral protamine Hagedorn insulin (NPH) in patients with type 1 or type 2 diabetes mellitus. The model was then used to compare rates of hypoglycemia associated with use of these insulins.",
+        "journal": "Clinical therapeutics",
+        "year": "2007",
+        "authors": [
+          "Mullins Peter",
+          "Sharplin Peter",
+          "Yki-Jarvinen Hannele",
+          "Riddle Matthew C",
+          "Haring Hans-Ulrich"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Binomial Distribution",
+          "Blood Glucose",
+          "Clinical Trials, Phase III as Topic",
+          "Clinical Trials, Phase IV as Topic",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17919543/"
+      },
+      {
+        "pmid": "36748186",
+        "title": "Comparative clinical efficacy and safety of insulin glargine 300 U/ml (Toujeo) versus insulin glargine 100 U/ml in type 2 diabetes and type 1 diabetes: A systematic literature review and meta-analysis.",
+        "abstract": "To compare the clinical efficacy and safety of glargine-U100 (Lantus/Gla-100) with glargine-U300 (Toujeo/Gla-300) in adult patients with type 2 diabetes (T2D) and type 1 diabetes (T1D).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2023",
+        "authors": [
+          "Joshi Shashank R",
+          "Singh Gursharan",
+          "Marwah Ashwani",
+          "Mittra Shivani",
+          "Suvarna Viraj R"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin Glargine",
+          "Insulin, Regular, Human"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36748186/"
+      },
+      {
+        "pmid": "36763996",
+        "title": "Efficacy and Tolerability of Insulin Degludec Versus Other Long-acting Basal Insulin Analogues in the Treatment of Type 1 and Type 2 Diabetes Mellitus: A Systematic Review and Meta-analysis.",
+        "abstract": "The goal of this study was to compare the efficacy and tolerability of insulin degludec with those of other long-acting insulin analogues (insulin glargine and insulin detemir) in patients with type 1 or 2 diabetes mellitus (T1D or T2D).",
+        "journal": "Clinical therapeutics",
+        "year": "2022",
+        "authors": [
+          "Dong Zhi-Yuan",
+          "Feng Ji-Hua",
+          "Zhang Jian-Feng"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Insulin Glargine",
+          "Insulin Detemir",
+          "Diabetes Mellitus, Type 1",
+          "Hypoglycemic Agents",
+          "Insulin, Long-Acting",
+          "Hypoglycemia",
+          "Glycated Hemoglobin",
+          "Blood Glucose"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36763996/"
+      },
+      {
+        "pmid": "27710135",
+        "title": "Pharmacodynamic and pharmacokinetic evaluation of insulin glargine U300 for the treatment of type 1 diabetes.",
+        "abstract": "Glargine 300 units/ml (Gla-300) is a novel basal insulin formulation approved in 2015 for the treatment of diabetes. This more concentrated form of glargine causes delayed redissolution from the subcutaneous depot after injection and thus altered action profile. Areas covered: The pharmacokinetics, pharmacodynamics, efficacy, and safety of Gla-300 in patients with type 1 diabetes mellitus (T1DM) will be reviewed. Expert opinion: Gla-300 has a flatter and more prolonged pharmacokinetic profile compared to glargine 100 units/ml (Gla-100), but is less potent on a unit per unit basis. The prolonged duration of Gla-300 should provide 24h coverage with a single daily dose in all patients. Two phase III trials comparing Gla-300 and Gla-100 were conducted in patients with T1DM. A1C reduction and other measures of glycemic control were similar between groups. Hypoglycemia rates were similar among groups in one trial, but favored Gla-300 in the other. Evidence for improvement in hypoglycemia wit",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2016",
+        "authors": [
+          "Hurren Kathryn M",
+          "O'Neill Jessica L"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Blood Glucose",
+          "Delayed-Action Preparations",
+          "Diabetes Mellitus, Type 1",
+          "Drug Administration Schedule",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27710135/"
+      },
+      {
+        "pmid": "35476308",
+        "title": "Safety, efficacy, and cost-effectiveness of insulin degludec U100 versus insulin glargine U300 in adults with type 1 diabetes: a systematic review and indirect treatment comparison.",
+        "abstract": "Clinical differences between degludec U100 (Deg-100) and glargine U300 (Gla-300) in type 1 diabetes (T1D) were unknown.",
+        "journal": "International journal of clinical pharmacy",
+        "year": "2022",
+        "authors": [
+          "Martin",
+          "Zhou Yi",
+          "Takagi Tatsuya",
+          "Tian Yu-Shi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Blood Glucose",
+          "Cost-Benefit Analysis",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2",
+          "Glycated Hemoglobin",
+          "Humans",
+          "Hypoglycemia",
+          "Hypoglycemic Agents",
+          "Insulin Glargine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35476308/"
+      },
+      {
+        "pmid": "38379002",
+        "title": "Pharmacokinetic and pharmacodynamic properties of once-weekly insulin icodec in individuals with type 1 diabetes.",
+        "abstract": "To investigate the pharmacokinetic/pharmacodynamic properties of once-weekly insulin icodec in individuals with type 1 diabetes (T1D).",
+        "journal": "Diabetes, obesity & metabolism",
+        "year": "2024",
+        "authors": [
+          "Hövelmann Ulrike",
+          "Engberg Susanne",
+          "Heise Tim",
+          "Kristensen Niels Rode",
+          "Nørgreen Lea"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adolescent",
+          "Young Adult",
+          "Adult",
+          "Middle Aged",
+          "Diabetes Mellitus, Type 1",
+          "Insulin Glargine",
+          "Hypoglycemic Agents",
+          "Diabetes Mellitus, Type 2",
+          "Hypoglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38379002/"
+      },
+      {
+        "pmid": "32215829",
+        "title": "MYL1501D Insulin Glargine: A Review in Diabetes Mellitus.",
+        "abstract": "Subcutaneous MYL1501D insulin glargine 100 U/mL (hereafter referred to as MYL1501D insulin glargine) [Semglee®] is a long-acting human insulin analogue approved as a biosimilar of insulin glargine 100 U/mL (hereafter referred to as reference insulin glargine 100 U/mL) [Lantus®] in various countries, including those of the EU for the treatment of diabetes mellitus in patients aged ≥ 2 years, as well as Japan for diabetes where insulin therapy is indicated. MYL1501D insulin glargine has similar physicochemical characteristics and biological properties to those of EU- and US-sourced reference insulin glargine 100 U/mL, with the bioequivalence of pharmacodynamic and pharmacokinetic parameters between these agents shown in adults with type 1 diabetes. Once-daily MYL1501D insulin glargine demonstrated noninferior glycaemic efficacy to that of once-daily reference insulin glargine 100 U/mL in adults with type 1 or 2 diabetes, with its glycated haemoglobin-lowering benefits maintained over the",
+        "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+        "year": "2020",
+        "authors": [
+          "Hoy Sheridan M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Biosimilar Pharmaceuticals",
+          "Child",
+          "Child, Preschool",
+          "Diabetes Mellitus",
+          "Diabetes Mellitus, Type 1",
+          "Diabetes Mellitus, Type 2"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32215829/"
+      },
+      {
+        "pmid": "36800034",
+        "title": "The efficacy of insulin degludec and insulin glargine over NPH insulin among toddlers and preschoolers with type 1 diabetes using glycemic variability and time in range.",
+        "abstract": "Optimizing glycemic control without risking hypoglycemia is crucial in toddlers and preschoolers with type 1 diabetes (T1D) to avoid cognitive impairment later in life. Hence, this study aims to compare glycemic parameters among toddlers and preschoolers with T1D in relation to different basal insulins. Sixty toddlers and preschoolers with T1D with mean age of 3.53 ± 1.17 years (range, 2-6) and mean diabetes duration of 9.37 ± 1.85 months were randomly assigned into three equal groups; group A received insulin degludec, group B received insulin glargine, and group C were on NPH. At baseline, the three groups were matched regarding clinical and laboratory parameters (p > 0.05). They were followed up at 3 and 6 months for insulin daily dose (IDD), hypoglycemia and severe-hypoglycemia frequency, and glycated hemoglobin (HbA1c). At the study endpoint, continuous glucose monitoring (CGM) was assessed in a random sample of 10 patients from each group. The mean time in range (TIR) of the stud",
+        "journal": "European journal of pediatrics",
+        "year": "2023",
+        "authors": [
+          "Elhabashy Safinaz Adel",
+          "Sakr Eman Mohamed",
+          "Salah Nouran Yousef"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Child, Preschool",
+          "Insulin Glargine",
+          "Diabetes Mellitus, Type 1",
+          "Insulin, Isophane",
+          "Hypoglycemic Agents",
+          "Glycated Hemoglobin",
+          "Blood Glucose Self-Monitoring",
+          "Blood Glucose",
+          "Hypoglycemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36800034/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:54:00.361872",
+  "success": true,
+  "error_message": null
+}

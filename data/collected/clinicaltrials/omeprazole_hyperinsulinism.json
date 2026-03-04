@@ -1,0 +1,102 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Omeprazole",
+    "disease": "hyperinsulinism"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01654549",
+      "title": "The Effect of Helicobacter Pylori Eradication on Liver Fat Content in Non-diabetic Subjects With Non-alcoholic Fatty Liver Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2012-09",
+      "country": "Iran",
+      "enrollment": 40,
+      "brief_summary": "The aim of study was to evaluate the effect of helicobacter pylori eradication on liver fat content, liver function tests, lipid profile, homeostasis model assessment-IR (HOMA-IR) index, and anthropometric measurements (body mass index and waist circumference)in non-diabetic subjects with non-alcoholic fatty liver disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Dyspeptic patients with positive antibody to H.pylori and persistent elevated aminotransferase levels with the evidence of fatty liver in ultrasonography, who were referred to a gastroenterology clinic.\n\nExclusion Criteria:\n\n* Alcohol use (more than 20 gram per day in men and ",
+      "endpoints": [
+        "Liver Fat Content"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01654549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02291666",
+      "title": "Effects of Type 2 Diabetes on CYP450s Activities; Intersubject Variability in Drug Metabolism.",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2015-04",
+      "completion_date": "2019-07",
+      "country": "Canada",
+      "enrollment": 73,
+      "brief_summary": "Type 2 diabetes (T2D) could modulate CYP450 activities involved in drug-metabolism and cardiovascular homeostasis. We propose to carry out, for the first time, a comprehensive characterization of the effects of T2D on the expression and activity of major CYP450s. In our studies, patients with T2D will be studied since hyperglycaemia and/or hyperinsulinemia are believed to modulate CYP450s. This vicious cycle puts patients at risk of micro- and macro-vascular complications and inadequately contro",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants will be ≥18 years old\n* Body weight index ≤35,\n* Non-smokers (\\>3 months)\n* Patients with type 2 diabetes and good glycemic control (A1C\\<7) or poor glycemic control (A1C\\>7.0) and healthy non-diabetic subjects will be eligible.\n\nExclusion Criteria:\n\n* Subjects wi",
+      "endpoints": [
+        "Metabolic ratio"
+      ],
+      "sponsor": "Centre hospitalier de l'Université de Montréal (CHUM)",
+      "url": "https://clinicaltrials.gov/study/NCT02291666"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01759628",
+      "title": "The Effect of Helicobacter Pylori Eradication on Liver Function Tests in Subjects With Non-alcoholic Fatty Liver Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2013-06",
+      "country": "Iran",
+      "enrollment": 100,
+      "brief_summary": "The aim of study was to evaluate the effect of helicobacter pylori eradication on liver function tests, lipid profile, homeostasis model assessment-IR (HOMA-IR) index, and anthropometric measurements (body mass index and waist circumference)in subjects with non-alcoholic fatty liver disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Dyspeptic patients with positive antibody to H.pylori and persistent elevated aminotransferase levels with the evidence of fatty liver in ultrasonography, who were referred to a gastroenterology clinic\n\nExclusion Criteria:\n\n* Alcohol use (more than 20 gram per day in men and 1",
+      "endpoints": [
+        "Change from Baseline liver function tests at Twelve weeks"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01759628"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01712711",
+      "title": "The Effect of Helicobacter Pylori Eradication on Liver Fat Content in Diabetic Subjects With Non-alcoholic Fatty Liver Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-09",
+      "completion_date": "2013-03",
+      "country": "Iran",
+      "enrollment": 40,
+      "brief_summary": "The aim of study was to evaluate the effect of helicobacter pylori eradication on liver fat content, liver function tests, lipid profile, homeostasis model assessment-IR (HOMA-IR) index, and anthropometric measurements (body mass index and waist circumference)in diabetic subjects with non-alcoholic fatty liver disease.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic dyspeptic patients with positive antibody to H.pylori and persistent elevated aminotransferase levels with the evidence of fatty liver in ultrasonography, who were referred to a gastroenterology clinic\n\nExclusion Criteria:\n\n* Alcohol use (more than 20 gram per day in ",
+      "endpoints": [
+        "Liver Fat Content Change From Baseline to Six Weeks Post H.Pylori Treatment"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01712711"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01876108",
+      "title": "The Effect of Helicobacter Pylori Eradication on Liver Fat Content in Subjects With Non-alcoholic Fatty Liver Disease",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-07",
+      "completion_date": "2013-07",
+      "country": "Iran",
+      "enrollment": 100,
+      "brief_summary": "The role of Helicobacter pylori(HP)in the pathogenesis of non-alcoholic fatty liver disease (NAFLD) is controversial.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* dyspeptic patients with positive antibody to H.pylori and\n* persistent elevated aminotransferase levels with the evidence of fatty liver in ultrasonography, who were referred to a gastroenterology clinic.\n\nExclusion Criteria:\n\n* alcohol use (more than 20 gram per day in men an",
+      "endpoints": [
+        "Change from baseline liver fat content at 6 months"
+      ],
+      "sponsor": "Tehran University of Medical Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT01876108"
+    }
+  ],
+  "timestamp": "2026-03-04T15:40:48.908106",
+  "success": true,
+  "error_message": null
+}

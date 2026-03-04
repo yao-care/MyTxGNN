@@ -1,0 +1,595 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Methylprednisolone",
+    "disease": "lymphosarcoma",
+    "query_string": "Methylprednisolone AND lymphosarcoma"
+  },
+  "data": {
+    "query": "Methylprednisolone AND lymphosarcoma",
+    "results": [
+      {
+        "pmid": "35242118",
+        "title": "Role of Dexamethasone and Methylprednisolone Corticosteroids in Coronavirus Disease 2019 Hospitalized Patients: A Review.",
+        "abstract": "The WHO announced coronavirus disease 2019 (COVID-19) as a pandemic disease globally on March 11, 2020, after it emerged in China. The emergence of COVID-19 has lasted over a year, and despite promising vaccine reports that have been produced, we still have a long way to go until such remedies are accessible to everyone. The immunomodulatory strategy has been kept at the top priority for the research agenda for COVID-19. Corticosteroids have been used to modulate the immune response in a wide range of diseases for the last 70 years. These drugs have been shown to avoid and reduce inflammation in tissues and the bloodstream through non-genomic and genomic effects. Now, the use of corticosteroids increased the chance of survival and relief by combating the viral strong inflammatory impacts and has moved to the forefront in the management of patients seeking supplemental oxygen. The goal of this review is to illuminate dexamethasone and methylprednisolone, i.e., in terms of their chemical",
+        "journal": "Frontiers in microbiology",
+        "year": "2022",
+        "authors": [
+          "Mehta Jyoti",
+          "Rolta Rajan",
+          "Mehta Brij Bhushan",
+          "Kaushik Neha",
+          "Choi Eun Ha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35242118/"
+      },
+      {
+        "pmid": "5467061",
+        "title": "Lymphocytoma cutis.",
+        "abstract": "",
+        "journal": "Archives of dermatology",
+        "year": "1970",
+        "authors": [
+          "Roenigk H H",
+          "Lesowitz S A"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydroxychloroquine",
+          "Lymphoma, Non-Hodgkin",
+          "Male",
+          "Methylprednisolone",
+          "Middle Aged",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5467061/"
+      },
+      {
+        "pmid": "8406379",
+        "title": "Pharmacokinetics of high dose methylprednisolone and use in hematological malignancies.",
+        "abstract": "The pharmacokinetics of oral and intravenous high dose methylprednisolone (Solu-medrone, Upjohn) were compared in patients with hematological malignancies. The aim of the study was to determine the oral bioavailability of high dose methylprednisolone and to establish whether this is a feasible and more convenient route of administration. The plasma pharmacokinetics were described by a one-compartment open model with peak plasma levels of 6.9 +/- 2.5 micrograms/ml. Total area under the plasma concentration versus time curve was similar by either route. Mean relative oral bioavailability was generally high (91 +/- 27 per cent). Retrospective analysis of 34 patients with chronic lymphocytic leukemia (CLL), non-Hodgkin's and Hodgkin's lymphoma treated with high dose methylprednisolone showed 11 responses including two complete remissions among nine patients with CLL. There was significant improvement in platelet counts in thrombocytopenic patients and treatment was well tolerated and toxic",
+        "journal": "Hematological oncology",
+        "year": "1993",
+        "authors": [
+          "Patel P M",
+          "Selby P J",
+          "Graham M A",
+          "Viner C",
+          "Newell D R"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Biological Availability",
+          "Dose-Response Relationship, Drug",
+          "Doxorubicin",
+          "Female",
+          "Hodgkin Disease",
+          "Humans",
+          "Injections, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8406379/"
+      },
+      {
+        "pmid": "15812553",
+        "title": "Gemcitabine, cisplatin and methylprednisolone (GEM-P) is an effective salvage regimen in patients with relapsed and refractory lymphoma.",
+        "abstract": "There is currently no standard salvage chemotherapy regimen in relapsed and refractory lymphoma. Gemcitabine is a novel nucleoside analogue, which acts synergistically with cisplatin both in vitro and in clinical studies. We evaluated the combination of gemcitabine, cisplatin and methylprednisolone (GEM-P) in 41 heavily pretreated patients with relapsed and refractory Hodgkin's and non-Hodgkin's lymphoma. The best-achieved response rate (RR) was 79% (95% CI 64-91), with a complete RR of 21%. In patients with chemo-resistant disease, the RR was 63%. Myelosuppression was the main toxicity, the incidence of Grade 3 or 4 anaemia, neutropenia and thrombocytopenia was 17.1, 61.0 and 53.7% respectively. Only one patient had neutropenic sepsis and none of the patients suffered from haemorrhage. Grade 3 or 4 nonhaematological toxicity was minimal and stem cell mobilisation was not inhibited. GEM-P is an effective salvage regimen and its use prior to autologous stem cell transplant warrants furt",
+        "journal": "British journal of cancer",
+        "year": "2005",
+        "authors": [
+          "Ng M",
+          "Waters J",
+          "Cunningham D",
+          "Chau I",
+          "Horwich A"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Drug Resistance, Neoplasm",
+          "Humans",
+          "Lymphoma",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15812553/"
+      },
+      {
+        "pmid": "25039915",
+        "title": "Rituximab, Gemcitabine, Cisplatin and Methylprednisolone (R-GEM-P) is an effective regimen in relapsed diffuse large B-cell lymphoma.",
+        "abstract": "Patients with relapsed diffuse large B-cell lymphoma (DLBCL) have a poor prognosis. Gemcitabine, methylprednisolone, cisplatin +/- rituximab (GEM-P+/-R) is a salvage regimen with limited overlap in toxicity with first-line therapy and short duration of inpatient delivery.",
+        "journal": "European journal of haematology",
+        "year": "2015",
+        "authors": [
+          "Barton Sarah",
+          "Hawkes Eliza A",
+          "Cunningham David",
+          "Peckitt Clare",
+          "Chua Sue"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Drug Administration Schedule",
+          "Drug Substitution",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25039915/"
+      },
+      {
+        "pmid": "24943209",
+        "title": "[Deep-seated mycosis].",
+        "abstract": "",
+        "journal": "Medical mycology journal",
+        "year": "2014",
+        "authors": [
+          "Yoshida Koichiro"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aspergillosis",
+          "Aspergillus fumigatus",
+          "Hepatitis B",
+          "Humans",
+          "Immunocompromised Host",
+          "Invasive Pulmonary Aspergillosis",
+          "Liver Neoplasms",
+          "Lymphoma, B-Cell, Marginal Zone",
+          "Male",
+          "Methylprednisolone"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24943209/"
+      },
+      {
+        "pmid": "17454196",
+        "title": "Gemcitabine, cisplatin and methylprednisolone (GEM-P) with or without Rituximab in relapsed and refractory patients with diffuse large B cell lymphoma (DLBCL).",
+        "abstract": "This is the first report of the combination of gemcitabine, cisplatin and methylprednisolone (GEM-P) with Rituximab (GEM-PR) for diffuse large B-cell lymphoma (DLBCL). Thirty-nine patients with relapsed or refractory DLBCL in this study received GEM-P with (n = 24) or without Rituximab (n = 15) 64% patients had Stage III/IV disease. The overall response rate (ORR) was 59% (95% CI 42.1-74.4); 11/39 (28%) patients attained complete response. Patients received a median of two cycles (1-4) of treatment. For GEM-PR group, the ORR was 67% (95% CI 45-84%) compared to 47% (95% CI 21-73%) in GEM-P alone. one-year progression-free survival was 51% (95% CI 28-69%) in GEM-PR group compared to 27% (95% CI 8-49%) in GEM-P alone (P = 0.04). GEM-P is an effective second-line regimen in patients with relapsed or refractory DLBCL and the addition of Rituximab appears to further improve outcomes.",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2007",
+        "authors": [
+          "Sirohi Bhawna",
+          "Cunningham David",
+          "Norman Andy",
+          "Last Kim",
+          "Chau Ian"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Deoxycytidine",
+          "Disease-Free Survival"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17454196/"
+      },
+      {
+        "pmid": "12648066",
+        "title": "Gemcitabine, cisplatin and methylprednisolone chemotherapy (GEM-P) is an effective regimen in patients with poor prognostic primary progressive or multiply relapsed Hodgkin's and non-Hodgkin's lymphoma.",
+        "abstract": "This study was designed to assess the efficacy and safety of gemcitabine, cisplatin and methylprednisolone (GEM-P) for patients with relapsed or refractory Hodgkin's disease (HD) and non-Hodgkin's lymphoma. Twenty-one patients were treated with gemcitabine (1000 mg/m2 d 1, 8 and 15), cisplatin (100 mg/m2 d 15) and methylprednisolone (1000 mg d 1-5) given every 28 d. Of these, 20 patients were evaluable for response. The median age was 38 years (range 17-64 years). Histological subtypes were: nodular sclerosing HD (n = 10), diffuse large B cell (n = 5), T cell-rich B cell (n = 2), follicular (n = 2), mantle cell (n = 1) and enteropathy-associated T-cell lymphoma (n = 1). The median remission duration prior to receiving GEM-P was only 42 d. The overall objective response rate was 80%[95% confidence interval (CI): 56-94%], including five complete and 11 partial responses. GEM-P induced responses in all histological subtypes, primary progressive disease and patients who had received a prev",
+        "journal": "British journal of haematology",
+        "year": "2003",
+        "authors": [
+          "Chau Ian",
+          "Harries Mark",
+          "Cunningham David",
+          "Hill Mark",
+          "Ross Paul J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Female",
+          "Follow-Up Studies",
+          "Hodgkin Disease",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12648066/"
+      },
+      {
+        "pmid": "24598187",
+        "title": "[Malignant lymphoma and adult T-cell leukemia-lymphoma].",
+        "abstract": "",
+        "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+        "year": "2014",
+        "authors": [
+          "Kato Koji"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Cyclophosphamide",
+          "Cytarabine",
+          "Deoxycytidine",
+          "Dexamethasone",
+          "Doxorubicin",
+          "Etoposide",
+          "Genetic Markers",
+          "Genetic Testing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24598187/"
+      },
+      {
+        "pmid": "36470547",
+        "title": "Quantitative evaluation of therapy options for relapsed/refractory diffuse large B-cell lymphoma: A model-based meta-analysis.",
+        "abstract": "New therapies for relapsed/refractory diffuse large B-cell lymphoma (r/rDLBCL) have emerged in recent years, but there have been no comprehensive quantitative comparisons of the efficacy of these therapies. In this study, the efficacy characteristics of 11 types of treatment strategy and 63 treatment regimens were compared by model based meta-analysis. We found that compared with monotherapy, association therapy had significant benefits in terms of overall survival (OS), progression-free survival (PFS), and objective response rate (ORR). However, whereas treatment regimens involving chemotherapy contributed to significant improvements in ORR and PFS, OS was not improved. In terms of treatment strategy, we identified chemotherapy in association with immunotherapy sequential autologous stem cell transplantation (ASCT), the association of two different types of immunotherapies, chemotherapy sequential ASCT, chemotherapy in association with immunotherapy, and chemotherapy in association wi",
+        "journal": "Pharmacological research",
+        "year": "2023",
+        "authors": [
+          "Li Ting",
+          "Yu Jiesen",
+          "Hou Mengyuan",
+          "Zha Sijie",
+          "Cheng Qingqing"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Journal Article",
+          "Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Rituximab",
+          "Etoposide",
+          "Hematopoietic Stem Cell Transplantation",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Transplantation, Autologous",
+          "Neoplasm Recurrence, Local",
+          "Lymphoma, Large B-Cell, Diffuse",
+          "Cytarabine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36470547/"
+      },
+      {
+        "pmid": "25219592",
+        "title": "Glycolytic inhibitor 2-deoxy-d-glucose suppresses cell proliferation and enhances methylprednisolone sensitivity in non-Hodgkin lymphoma cells through down-regulation of HIF-1α and c-MYC.",
+        "abstract": "Metabolic reprogramming is linked to tumorigenesis, disease progression, clinical outcome and resistance to chemotherapy. However, the significance of glycolytic metabolism in non-Hodgkin lymphoma (NHL) remains unclear. Here we report that both NHL patient-samples and cell lines exhibited significant up-regulation of glycolytic metabolism. The glycolytic inhibitor 2-deoxy-d-glucose (2-DG) inhibited glucose consumption, lactic acid generation and cell proliferation and induced cell cycle arrest in NHL cell lines under both normoxia and hypoxia, and hypoxia could even enhance the inhibitory effects of 2-DG. Furthermore, 2-DG combined with methylprednisolone synergistically inhibited cell proliferation, induced cell apoptosis and cell cycle arrest, and thus increased the sensitivity of NHL cells to methylprednisolone via down-regulation of HIF-1α and c-MYC. In conclusion, these results present a novel insight into critical roles of glycolytic pathway activation in NHL progression and gluc",
+        "journal": "Leukemia & lymphoma",
+        "year": "2015",
+        "authors": [
+          "Pang Yu-Yang",
+          "Wang Ting",
+          "Chen Fang-Yuan",
+          "Wu Ying-Li",
+          "Shao Xia"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Blotting, Western",
+          "Cell Cycle Checkpoints",
+          "Cell Hypoxia",
+          "Cell Line, Tumor",
+          "Cell Proliferation",
+          "Cells, Cultured",
+          "Deoxyglucose",
+          "Dose-Response Relationship, Drug",
+          "Down-Regulation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25219592/"
+      },
+      {
+        "pmid": "16863926",
+        "title": "Whole-brain radiotherapy and high-dose methylprednisolone for elderly patients with primary central nervous system lymphoma: Results of North Central Cancer Treatment Group (NCCTG) 96-73-51.",
+        "abstract": "The aim of this study was to evaluate the efficacy, toxicity, and survival of whole-brain radiotherapy-treated (WBRT) and high-dose methylprednisolone (HDMP)-treated in elderly patients with primary central nervous system lymphoma (PCNSL).",
+        "journal": "International journal of radiation oncology, biology, physics",
+        "year": "2006",
+        "authors": [
+          "Laack Nadia N",
+          "Ballman Karla V",
+          "Brown Paul B",
+          "O'Neill Brian Patrick"
+        ],
+        "pub_types": [
+          "Evaluation Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Central Nervous System Neoplasms",
+          "Combined Modality Therapy",
+          "Cranial Irradiation",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16863926/"
+      },
+      {
+        "pmid": "22825684",
+        "title": "Assessment of gemcitabine, cisplatin and methylprednisolone (GEM-P) combination treatment for non-Hodgkin T cell lymphoma.",
+        "abstract": "T cell lymphoma is rare with few dedicated studies and no consensus regarding optimal treatment. We undertook a retrospective hospital review to assess the efficacy of gemcitabine, cisplatin and methylprednisolone (GEM-P) combination therapy. Twenty-nine patients were followed up for a median duration of 28 months. Twenty-three patients received standard GEM-P. Due to hearing impairment, 3 patients had cisplatin substituted with carboplatin and 1 with oxaliplatin. In 2 cases, rituximab was added to GEM-P in view of the presence of EBV + B cell clones. Overall response rate (RR) [complete response (CR) + partial response (PR)] was 73 % (95 % CI range 54-86 %). 11/29 (38 %) achieved CR and 10/29 (35 %) had PR. In first-line treatment, 4/10 patients achieved CR and 4/10 had PR relating to a RR of 80 %. CR was seen in 4/9 (45 %), 2/8 (25) and 1/2 (50 %) patients treated in the second, third and fifth-sixth line respectively. Thus, GEM-P was found to be effective as first-line or salvage th",
+        "journal": "Medical oncology (Northwood, London, England)",
+        "year": "2012",
+        "authors": [
+          "Yim Kein-Leong",
+          "Ashley Sue"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Disease-Free Survival",
+          "Female",
+          "Humans",
+          "Kaplan-Meier Estimate"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22825684/"
+      },
+      {
+        "pmid": "12368156",
+        "title": "High-dose infusional ifosfamide, etoposide plus methylprednisolone followed by dexamethasone, high-dose ara-C and cisplatinum and autologous stem cell transplantation for refractory or relapsed aggressive non-Hodgkin's lymphoma.",
+        "abstract": "A salvage program including infusional high-dose ifosfamide plus etoposide (IFOVM) was evaluated in patients with refractory or relapsed aggressive non-Hodgkin's lymphoma.",
+        "journal": "Haematologica",
+        "year": "2002",
+        "authors": [
+          "Salar Antonio",
+          "Martino Rodrigo",
+          "Perea Granada",
+          "Ribera José María",
+          "López-Guillermo Armando"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Combined Modality Therapy",
+          "Cytarabine",
+          "Dexamethasone",
+          "Disease-Free Survival",
+          "Etoposide",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12368156/"
+      },
+      {
+        "pmid": "17296587",
+        "title": "Gemcitabine, cisplatin and methylprednisolone for the treatment of patients with peripheral T-cell lymphoma: the Royal Marsden Hospital experience.",
+        "abstract": "Novel, effective therapies are needed for peripheral T-cell non-Hodgkin's lymphoma (PTCL). We treated 16 patients with a combination of gemcitabine, cisplatin and methylprednisolone (GEM-P). Three patients (19%) achieved a complete remission and eight (50%) a partial remission. GEM-P has encouraging efficacy with an acceptable toxicity profile in patients with PTCL.",
+        "journal": "Haematologica",
+        "year": "2007",
+        "authors": [
+          "Arkenau Hendrik-Tobias",
+          "Chong Geoff",
+          "Cunningham David",
+          "Watkins David",
+          "Sirohi Bhawna"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cisplatin",
+          "Deoxycytidine",
+          "Female",
+          "Humans",
+          "Lymphoma, T-Cell, Peripheral",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17296587/"
+      },
+      {
+        "pmid": "1987363",
+        "title": "Effects of 2,4,5-trichlorophenoxyacetic acid, pentachlorophenol, methylprednisolone, and Freund's adjuvant on 2-hydroxyethylnitrosourea carcinogenesis in MRC-Wistar rats.",
+        "abstract": "A link was proposed between human non-Hodgkin's lymphoma and exposure to 2,4,5-trichlorophenoxyacetic acid (245T) and pentachlorophenol (PCP). To test this view and the hypothesis that immune suppression or stimulation could affect B-cell lymphoma (BCL) induction, we administered chronically to MRC-Wistar (MRC-W) rats of both sexes 98% pure 245T (600 mg/kg diet), 86% pure PCP (500 mg/kg diet), methylprednisolone (20 mg/kg ip weekly), and Freund's adjuvant (0.5 ml im every 3-6 wk) for 40 wk, together with 75 mg 2-hydroxyethylnitrosourea (HENU)/l drinking water, a system known to induce B-cell lymphoma. The 245T was shown to contain only 1-4 micrograms/kg each of 2,3,7,8-tetrachlorodibenzodioxin (TCDD) and 2,3,7,8-tetrachlorodibenzofuran (TCDF), but the PCP contained 25 micrograms TCDD and 670 micrograms TCDF/kg. HENU given alone induced B-cell lymphoma and osteosarcoma as before, with higher incidences of both tumors in males than in females. The B-cell lymphoma diagnosis was confirmed ",
+        "journal": "Journal of toxicology and environmental health",
+        "year": "1991",
+        "authors": [
+          "Mirvish S S",
+          "Nickols J",
+          "Weisenburger D D",
+          "Johnson D",
+          "Joshi S S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Research Support, U.S. Gov't, P.H.S."
+        ],
+        "mesh_terms": [
+          "2,4,5-Trichlorophenoxyacetic Acid",
+          "Animals",
+          "Body Weight",
+          "Carcinogenicity Tests",
+          "Cocarcinogenesis",
+          "Ethylnitrosourea",
+          "Female",
+          "Freund's Adjuvant",
+          "Leukocyte Count",
+          "Lymphoma, Non-Hodgkin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1987363/"
+      },
+      {
+        "pmid": "3245016",
+        "title": "Methylprednisolone, etoposide, vindesine, and chlorambucil (PEEC) alone or alternating with CHOP as initial or salvage therapy for non-Hodgkin's lymphoma.",
+        "abstract": "A novel cytotoxic drug combination, PEEC, has been tested in the initial or salvage treatment of lymphomas. The PEEC combination alone is active in high grade or intermediate grade NHL with two complete and two partial remissions out of four patients so treated. When combined with standard CHOP therapy using an alternating regime, seven out of 11 patients obtained a complete remission and four partial remission. Ten patients were well, off treatment, beyond one year from presentation. The combination was less impressive, however, as salvage therapy with two partial responses in a heavily pre-treated group of nine patients.",
+        "journal": "Scottish medical journal",
+        "year": "1988",
+        "authors": [
+          "Leonard R C",
+          "Lucraft H H",
+          "Proctor S J",
+          "Allan N C",
+          "Dawson A A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Alopecia",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Chlorambucil",
+          "Cyclophosphamide",
+          "Doxorubicin",
+          "Etoposide",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3245016/"
+      },
+      {
+        "pmid": "38035837",
+        "title": "[Modified Premedication of Infusion Reaction with Obinutuzumab Therapy].",
+        "abstract": "Obinutuzumab frequently triggers an infusion reaction(IR). In the GALLIUM study, despite the use of corticosteroids, antipyretic analgesics, and antihistamines to prevent IR, IR occurred at a high frequency of 68.2% for all Grades and 12.4% for Grades 3 or higher. The dose of methylprednisolone was increased from 80 mg administered in the GALLIUM study to 125 mg, and the development of IR was investigated in 30 patients with follicular lymphoma who received the initial dose of obinutuzumab. The incidence of IR was 43.3% for all Grades and 0% for Grades 3 or higher, and no serious IR was observed. It also had no effect on infectious diseases. Increased doses of corticosteroids were well tolerated and suggested as an effective method for reducing the frequency of IR.",
+        "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+        "year": "2023",
+        "authors": [
+          "Sakamoto Ryohei",
+          "Mukai Junji",
+          "Kotake Yuki",
+          "Takehara Ryoko",
+          "Nishimura Mahiro"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antibodies, Monoclonal, Humanized",
+          "Adrenal Cortex Hormones",
+          "Lymphoma, Follicular",
+          "Premedication",
+          "Gallium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38035837/"
+      },
+      {
+        "pmid": "15042529",
+        "title": "Improving second-line therapy in aggressive non-Hodgkin's lymphoma.",
+        "abstract": "The prognosis is poor for patients relapsing following treatment with standard chemotherapy for aggressive non-Hodgkin's lymphoma. High-dose therapy and autologous stem cell transplantation is a potential curative approach for these patients. The primary aim of second-line therapy is the attainment of a complete response, because response rate is predictive of outcome following autologous stem cell transplantation. A number of strategies have been explored to improve the complete response rate to standard second-line regimens. Ifosfamide, carboplatin, and etoposide (ICE) can offer an improved response rate compared with the standard regimens of dexamethasone, cisplatin, and cytarabine (DHAP) and etoposide, methylprednisolone, high-dose cytarabine, and cisplatin (ESHAP). The addition of rituximab to ICE improves the complete response rate compared with ICE alone. Because the addition of rituximab to chemotherapy regimens leads to improved complete response rates compared with chemothera",
+        "journal": "Seminars in oncology",
+        "year": "2004",
+        "authors": [
+          "Gisselbrecht Christian",
+          "Mounier Nicolas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Antibodies, Monoclonal, Murine-Derived",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Carboplatin",
+          "Etoposide",
+          "Humans",
+          "Ifosfamide",
+          "Lymphoma, Non-Hodgkin",
+          "Rituximab",
+          "Salvage Therapy"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15042529/"
+      },
+      {
+        "pmid": "31171117",
+        "title": "47-Year-Old Man With Pancytopenia and Fever.",
+        "abstract": "",
+        "journal": "Mayo Clinic proceedings",
+        "year": "2019",
+        "authors": [
+          "Hoversten Katherine P",
+          "Higgins Alexandra S",
+          "Ashrani Aneel A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cyclophosphamide",
+          "Diagnosis, Differential",
+          "Doxorubicin",
+          "Etoposide",
+          "Felty Syndrome",
+          "Fever",
+          "Humans",
+          "Lymphoma, T-Cell"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31171117/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:43:46.614355",
+  "success": true,
+  "error_message": null
+}

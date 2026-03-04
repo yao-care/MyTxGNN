@@ -1,0 +1,298 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Norfloxacin",
+    "disease": "paratyphoid fever",
+    "query_string": "Norfloxacin AND paratyphoid fever"
+  },
+  "data": {
+    "query": "Norfloxacin AND paratyphoid fever",
+    "results": [
+      {
+        "pmid": "21975746",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Typhoid and paratyphoid are febrile illnesses, due to a bacterial infection, which remain common in many low- and middle-income countries. The World Health Organization (WHO) currently recommends the fluoroquinolone antibiotics in areas with known resistance to the older first-line antibiotics.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2011",
+        "authors": [
+          "Effa Emmanuel E",
+          "Lassi Zohra S",
+          "Critchley Julia A",
+          "Garner Paul",
+          "Sinclair David"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21975746/"
+      },
+      {
+        "pmid": "18843659",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever (enteric fever), but how they compare with other antibiotics and different fluoroquinolones is unclear.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2008",
+        "authors": [
+          "Thaver Durrane",
+          "Zaidi Anita Km",
+          "Critchley Julia A",
+          "Azmatullah Asma",
+          "Madni Syed Ali"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18843659/"
+      },
+      {
+        "pmid": "15846718",
+        "title": "Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever).",
+        "abstract": "Fluoroquinolones are recommended as first-line therapy for typhoid and paratyphoid fever, but how they compare with other cheaper antibiotics and different fluoroquinolones is unclear.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2005",
+        "authors": [
+          "Thaver D",
+          "Zaidi A K",
+          "Critchley J",
+          "Madni S A",
+          "Bhutta Z A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Infective Agents",
+          "Child",
+          "Fluoroquinolones",
+          "Humans",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Randomized Controlled Trials as Topic",
+          "Treatment Outcome",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15846718/"
+      },
+      {
+        "pmid": "11197787",
+        "title": "Oral administration of fluoroquinolones in the treatment of typhoid fever and paratyphoid fever in Japan.",
+        "abstract": "To study the adverse reactions and therapeutic effects of fluoroquinolones to investigate whether they can be used for the treatment of patients with typhoid fever and paratyphoid fever.",
+        "journal": "Internal medicine (Tokyo, Japan)",
+        "year": "2000",
+        "authors": [
+          "Ohnishi K",
+          "Kimura K",
+          "Masuda G",
+          "Tsunoda T",
+          "Obana M"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Adult",
+          "Aged",
+          "Anti-Infective Agents",
+          "Drug Evaluation",
+          "Female",
+          "Fluoroquinolones",
+          "Humans",
+          "Japan",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11197787/"
+      },
+      {
+        "pmid": "1781005",
+        "title": "Randomized treatment of patients with typhoid and paratyphoid fevers using norfloxacin or chloramphenicol.",
+        "abstract": "Forty adult patients with Salmonella typhi and S. paratyphi infections were studied in a randomly assigned prospective study to receive norfloxacin (12 drug-sensitive and 8 drug-resistant cases) or chloramphenicol (20 cases). No complication occurred in either group and no side effect was noted in the norfloxacin-treated group. The results suggest that a 7 d course of twice daily norfloxacin promises to be an alternative to a 14 d course of chloramphenicol for treating chloramphenicol-sensitive and multidrug-resistant typhoid and paratyphoid fevers.",
+        "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+        "year": "1991",
+        "authors": [
+          "Sarma P S",
+          "Durairaj P"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Chloramphenicol",
+          "Drug Resistance, Microbial",
+          "Female",
+          "Humans",
+          "Male",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Prospective Studies"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1781005/"
+      },
+      {
+        "pmid": "18383953",
+        "title": "Current pattern of enteric fever: a prospective clinical and microbiological study.",
+        "abstract": "A prospective clinical and microbiological study was conducted in 145 blood culture positive cases of enteric fever below the age of 18 years over a period of eleven months (June 2004 to April 2005). It aimed to study the clinical profile, the relative magnitude of enteric fever in children, especially in those below the age of two years and to determine the current antibiotic sensitivity pattern of Salmonella typhi and S paratyphi. Enteric fever is a significant problem in the preschool years. Sixty-five per cent of cases were in the age group of 2 to 9 years, 27% in 0-5 years and 13% in age group 0-2 years. Ninety-two per cent of the cases were caused by S typhi. Paratyphoid fever is less common (8%), when occurs is caused by S paratyphi A. In-vitro sensitivity, using the Bauer-Kirby agar disc diffusion method, to ceftriaxone was 99%, cefixime-99%, cefotaxime-99%, cefpodoxime-72%, cefoperazone-93%, among quinolones, ciprofloxacin-95%, ofloxacin-83%, norfloxacin-79%. Sensitivity to th",
+        "journal": "Journal of the Indian Medical Association",
+        "year": "2007",
+        "authors": [
+          "Verma Madhoolika",
+          "Parashar Yogesh",
+          "Singh Anuradha",
+          "Kamoji Ravi"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Cephalosporins",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Prospective Studies",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18383953/"
+      },
+      {
+        "pmid": "27188369",
+        "title": "[Drug tolerance and PFGE molecular typing of Salmonella paratyphi A isolated in Dengfeng, Henan province, 2009-2015].",
+        "abstract": "To investigate the drug tolerance and PFGE patterns of Salmonella(S.)paratyphi A strains isolated from sentinel hospitals in Dengfeng, Henan province, during 2009-2015.",
+        "journal": "Zhonghua liu xing bing xue za zhi = Zhonghua liuxingbingxue zazhi",
+        "year": "2016",
+        "authors": [
+          "Zhao J Y",
+          "Zhang S Y",
+          "Mu Y J",
+          "Zhang B F",
+          "Xia S L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Agglutination Tests",
+          "Anti-Bacterial Agents",
+          "Cefepime",
+          "Cephalosporins",
+          "China",
+          "Drug Resistance, Bacterial",
+          "Drug Tolerance",
+          "Electrophoresis, Gel, Pulsed-Field",
+          "Humans",
+          "Molecular Typing"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27188369/"
+      },
+      {
+        "pmid": "17164172",
+        "title": "Increasing prevalence of Salmonella enterica serotype Paratyphi-A in patients with enteric fever in a periurban slum setting of Kolkata, India.",
+        "abstract": "A sudden rise in the occurrence of Salmonella enterica serotype Paratyphi-A (SPTA) was noted in a longitudinal community-based study in Kolkata, India, during 2004 - 2005. We compared the incidence rate of Salmonella enterica serotype Typhi (ST) and SPTA and their antimicrobial susceptibility pattern. Rate of isolation of SPTA was 1.5 times higher than that of ST, a trend detected for the first time in that particular focus. Almost all the isolates were sensitive to Gentamycin and Norfloxacin. Most of the strains (90%) were sensitive to Ciprofloxacin. Two thirds of the strains were also sensitive to Chloramphenicol. The high occurrence of SPTA in the present study could be the signal of the emergence of SPTA as a pathogen in India. Quinolone derivatives (namely, Ciprofloxacin, Norfloxacin and Chloramphenicol) can be suggested as drugs of choice for treatment of enteric fever caused by SPTA. Future vaccination strategies should include bivalent vaccines with protection capacities agains",
+        "journal": "International journal of environmental health research",
+        "year": "2006",
+        "authors": [
+          "Palit Anup",
+          "Ghosh Subrata",
+          "Dutta Sanjucta",
+          "Sur Dipika",
+          "Bhattacharya Mihir Kumar"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Infective Agents",
+          "Humans",
+          "India",
+          "Longitudinal Studies",
+          "Microbial Sensitivity Tests",
+          "Paratyphoid Fever",
+          "Poverty Areas",
+          "Prevalence",
+          "Salmonella paratyphi A",
+          "Typhoid Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17164172/"
+      },
+      {
+        "pmid": "3137036",
+        "title": "Prospective randomized comparative trial of pefloxacin versus cotrimoxazole in the treatment of typhoid fever in adults.",
+        "abstract": "Pefloxacin, which has been shown to have a high in vitro activity against Salmonella spp., was compared to cotrimoxazole in the treatment of typhoid fever in adults. In a prospective, randomized trial, 42 patients with bacteriologically documented typhoid fever received either 400 mg pefloxacin b.i.d. or 160/800 mg cotrimoxazole b.i.d. Duration of treatment was 14 days in both groups. All patients were cured without experiencing a relapse or becoming a salmonella carrier. Apyrexia and resolution of digestive and neurological symptoms were obtained in a significantly shorter time with pefloxacin than with cotrimoxazole. Pefloxacin was well tolerated and more effective than cotrimoxazole in the treatment of typhoid fever.",
+        "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+        "year": "1988",
+        "authors": [
+          "Hajji M",
+          "el Mdaghri N",
+          "Benbachir M",
+          "el Filali K M",
+          "Himmich H"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Drug Combinations",
+          "Female",
+          "Humans",
+          "Male",
+          "Norfloxacin",
+          "Paratyphoid Fever",
+          "Pefloxacin",
+          "Prospective Studies",
+          "Random Allocation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3137036/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:30:45.007165",
+  "success": true,
+  "error_message": null
+}

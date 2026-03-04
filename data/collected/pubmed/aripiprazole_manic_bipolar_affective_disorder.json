@@ -1,0 +1,607 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Aripiprazole",
+    "disease": "manic bipolar affective disorder",
+    "query_string": "Aripiprazole AND manic bipolar affective disorder"
+  },
+  "data": {
+    "query": "Aripiprazole AND manic bipolar affective disorder",
+    "results": [
+      {
+        "pmid": "37815563",
+        "title": "Diagnosis and Treatment of Bipolar Disorder: A Review.",
+        "abstract": "Bipolar disorder affects approximately 8 million adults in the US and approximately 40 million individuals worldwide.",
+        "journal": "JAMA",
+        "year": "2023",
+        "authors": [
+          "Nierenberg Andrew A",
+          "Agustini Bruno",
+          "Köhler-Forsberg Ole",
+          "Cusin Cristina",
+          "Katz Douglas"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Anticonvulsants",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Psychotropic Drugs"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37815563/"
+      },
+      {
+        "pmid": "34599629",
+        "title": "Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) recommendations for the management of patients with bipolar disorder with mixed presentations.",
+        "abstract": "The 2018 Canadian Network for Mood and Anxiety Treatments (CANMAT) and International Society for Bipolar Disorders (ISBD) guidelines provided clinicians with pragmatic treatment recommendations for bipolar disorder (BD). While these guidelines included commentary on how mixed features may direct treatment selection, specific recommendations were not provided-a critical gap which the current update aims to address.",
+        "journal": "Bipolar disorders",
+        "year": "2021",
+        "authors": [
+          "Yatham Lakshmi N",
+          "Chakrabarty Trisha",
+          "Bond David J",
+          "Schaffer Ayal",
+          "Beaulieu Serge"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Anxiety",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Canada",
+          "Humans",
+          "Olanzapine",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34599629/"
+      },
+      {
+        "pmid": "32447355",
+        "title": "Clinical picture and treatment of bipolar affective disorder in children and adolescents.",
+        "abstract": "Bipolar disorder (BD) is characterized by pathological changes in mood as well as recurring episodes of mania, hypomania, depression and mixed symptoms. In recent years, the number of BD diagnoses has risen considerably in children and adolescents. Itis believed that anaverage rate of prevalence of bipolar spectrum disorder in the pediatric population is 1.8%, and BD type I - 1.2%, and the prevalence of the disorder increases with the age of patients. Despite the same diagnostic criteria, there are premises that suggest thatthe symptoms of the disorder are present with a different frequency among children and adolescents than in adults. The most frequent manic symptom in persons with childhood-onset of the illness is thought to be irritability, and in adolescence -hyperactivity. BD in children and adolescent population is accompanied by a high rate of comorbid psychiatric conditions. Attention deficit hyperactivity disorder and borderline personality disorder constitute particular diag",
+        "journal": "Psychiatria polska",
+        "year": "2020",
+        "authors": [
+          "Cichoń Lena",
+          "Janas-Kozik Małgorzata",
+          "Siwiec Andrzej",
+          "Rybakowski Janusz K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Age Factors",
+          "Antipsychotic Agents",
+          "Attention Deficit Disorder with Hyperactivity",
+          "Bipolar Disorder",
+          "Borderline Personality Disorder",
+          "Child",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32447355/"
+      },
+      {
+        "pmid": "39243127",
+        "title": "Advances in Mood Disorder Pharmacotherapy: Evaluating New Antipsychotics and Mood Stabilizers for Bipolar Disorder and Schizophrenia.",
+        "abstract": "This article provides a narrative review of recent developments in mood-stabilizing drugs, considering their mechanism of action, efficacy, safety, and therapeutic potential in the treatment of mood disorders, particularly bipolar disorder and schizophrenia. The review focuses on the mechanism and clinical aspects of second-generation antipsychotic medications; aripiprazole, classified as a third-generation antipsychotic medication; lamotrigine, as a representative of antiepileptic drugs; and lurasidone, a novel second-generation antipsychotic medication. Moreover, the article refers to one of the newest and most highly effective normothymic drugs, cariprazine. The potential of new mood stabilizer candidates lumateperone and brexpiprazole is also presented. Covered topics include the clinical efficacy of new drugs in reducing manic and depressive symptoms during acute episodes, as well as their role in preventing relapse. In addition, we analyzed the incidence of adverse effects of eac",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "year": "2024",
+        "authors": [
+          "Kowalczyk Emilia",
+          "Koziej Sylwia",
+          "Soroka Ewelina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Schizophrenia",
+          "Mood Disorders",
+          "Aripiprazole",
+          "Anticonvulsants",
+          "Lamotrigine",
+          "Lurasidone Hydrochloride",
+          "Piperazines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243127/"
+      },
+      {
+        "pmid": "34642461",
+        "title": "Pharmacological treatment for bipolar mania: a systematic review and network meta-analysis of double-blind randomized controlled trials.",
+        "abstract": "A systematic review and random-effects model network meta-analysis was conducted to compare the efficacy, acceptability, tolerability, and safety of pharmacological interventions for adults with acute bipolar mania. We searched PubMed, the Cochrane Library, and Embase databases for eligible studies published before March 14, 2021. Randomized controlled trials (RCTs) of oral medication monotherapy lasting ≥10 days in adults with mania were included, and studies that allowed the use of antipsychotics as a rescue medication during a trial were excluded. The primary outcomes were response to treatment (efficacy) and all-cause discontinuation (acceptability). The secondary outcomes were the improvement of mania symptoms and discontinuation due to inefficacy. Of the 79 eligible RCTs, 72 double-blind RCTs of 23 drugs and a placebo were included in the meta-analysis (mean study duration = 3.96 ± 2.39 weeks, n = 16442, mean age = 39.55 years, with 50.93% males). Compared with the placebo, aripi",
+        "journal": "Molecular psychiatry",
+        "year": "2022",
+        "authors": [
+          "Kishi Taro",
+          "Ikuta Toshikazu",
+          "Matsuda Yuki",
+          "Sakuma Kenji",
+          "Okuya Makoto"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Benzodiazepines",
+          "Bipolar Disorder",
+          "Carbamazepine",
+          "Female",
+          "Haloperidol",
+          "Humans",
+          "Lithium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34642461/"
+      },
+      {
+        "pmid": "34489127",
+        "title": "Preventing new episodes of bipolar disorder in adults: Systematic review and meta-analysis of randomized controlled trials.",
+        "abstract": "Uncertainty remains regarding the relative efficacy of maintenance pharmacotherapy for bipolar disorder (BD), and available data require updating. The present systematic review and meta-analysis aims to consolidate the evidence from the highest quality randomized controlled trials (RCTs) published up to July 2021, overcoming the limitations of earlier reviews. The PubMed and the Cochrane Central Register of Controlled Trials were searched for double-blind RCTs involving lithium, mood stabilizing anticonvulsants (MSAs), antipsychotics, antidepressants, and other treatments. Rates of new mood episodes with test vs. reference treatments (placebo or alternative active agent) were compared by random-effects meta-analysis. Polarity index was calculated for each treatment type. Eligible trials involved ≥6 months of maintenance follow up. Of 2,158 identified reports, 22 met study eligibility criteria, and involved 7,773 subjects stabilized for 1-12 weeks and followed-up for 24-104 weeks. Psych",
+        "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+        "year": "2022",
+        "authors": [
+          "Nestsiarovich Anastasiya",
+          "Gaudiot Christopher E S",
+          "Baldessarini Ross J",
+          "Vieta Eduard",
+          "Zhu Yiliang"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lithium",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34489127/"
+      },
+      {
+        "pmid": "36961650",
+        "title": "A Randomized, Open-Label, Multiple-Dose, Parallel-Arm, Pivotal Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of Aripiprazole 2-Month Long-Acting Injectable in Adults With Schizophrenia or Bipolar I Disorder.",
+        "abstract": "Aripiprazole 2-month ready-to-use 960 mg (Ari 2MRTU 960) is a new long-acting injectable antipsychotic formulation for gluteal administration every 2 months, currently being investigated for the treatment of schizophrenia and bipolar I disorder (BP-I). The objectives of this trial were to evaluate the safety and tolerability of Ari 2MRTU 960, and the similarity of aripiprazole plasma concentrations following administration of Ari 2MRTU 960 or aripiprazole once-monthly 400 mg (AOM 400), in adults with schizophrenia or BP-I.",
+        "journal": "CNS drugs",
+        "year": "2023",
+        "authors": [
+          "Harlin Matthew",
+          "Yildirim Murat",
+          "Such Pedro",
+          "Madera-McDonough Jessica",
+          "Jan Michael"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Male",
+          "Humans",
+          "Female",
+          "Middle Aged",
+          "Aripiprazole",
+          "Schizophrenia",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Injections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36961650/"
+      },
+      {
+        "pmid": "35545157",
+        "title": "Evidence-based treatment strategies for rapid cycling bipolar disorder, a systematic review.",
+        "abstract": "Rapid cycling is a phase of bipolar disorder with increased episode frequencies. It is a severe and disabling condition that often poses a major challenge to the clinician. The aim of this paper is to give an overview of the evidence-based treatment options for rapid cycling.",
+        "journal": "Journal of affective disorders",
+        "year": "2022",
+        "authors": [
+          "Roosen L",
+          "Sienaert P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Humans",
+          "Lamotrigine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Valproic Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35545157/"
+      },
+      {
+        "pmid": "36789916",
+        "title": "Comparison of antipsychotic dose equivalents for acute bipolar mania and schizophrenia.",
+        "abstract": "Are antipsychotic dose equivalents between acute mania and schizophrenia the same?",
+        "journal": "BMJ mental health",
+        "year": "2023",
+        "authors": [
+          "Yu Chia-Ling",
+          "Carvalho Andre F",
+          "Thompson Trevor",
+          "Tsai Tzu-Cheng",
+          "Tseng Ping-Tao"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antipsychotic Agents",
+          "Olanzapine",
+          "Risperidone",
+          "Aripiprazole",
+          "Quetiapine Fumarate",
+          "Haloperidol",
+          "Bipolar Disorder",
+          "Mania",
+          "Schizophrenia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36789916/"
+      },
+      {
+        "pmid": "30770235",
+        "title": "Long-acting injectable antipsychotics (LAIs) for maintenance treatment of bipolar and schizoaffective disorders: A systematic review.",
+        "abstract": "Long-Acting Injectable Antipsychotics (LAIs) are used to overcome non-compliance in psychoses, mainly schizophrenia spectrum disorders. We aimed to summarize available evidence of studies comparing the efficacy of LAIs to placebo or oral medications for Bipolar Disorder (BD) and/or Schizoaffective Disorder (SAD). We searched six databases from inception to 28-March-2018, using the strategy: long-acting antipsychotics AND (bipolar disorder OR schizoaffective disorder OR mania OR manic OR bipolar depression). We included peer-reviewed double-blind comparisons of LAIs for any clinical outcome occurrence in BD, or open mirror studies with same prospective as retrospective assessment periods. We excluded studies reporting on mixed schizophrenia/SAD populations without reporting results separately. The pooled records amounted to 642. After duplicate removal and inclusion/exclusion criteria application, we included 15 studies, 6 double-blind and 9 open, 13 assessing BD and 2 SAD. Depot neurol",
+        "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+        "year": "2019",
+        "authors": [
+          "Pacchiarotti Isabella",
+          "Tiihonen Jari",
+          "Kotzalidis Georgios D",
+          "Verdolini Norma",
+          "Murru Andrea"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Injections, Intramuscular",
+          "Psychotic Disorders",
+          "Recurrence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30770235/"
+      },
+      {
+        "pmid": "35778967",
+        "title": "A systematic review and meta-analysis of treatments for rapid cycling bipolar disorder.",
+        "abstract": "Rapid cycling is a common and disabling phenomenon in individuals with bipolar disorders. In the absence of a recent literature examination, this systematic review and meta-analysis aimed to synthesise the evidence of efficacy, acceptability and tolerability of treatments for individuals with rapid cycling bipolar disorder (RCBD).",
+        "journal": "Acta psychiatrica Scandinavica",
+        "year": "2022",
+        "authors": [
+          "Strawbridge Rebecca",
+          "Kurana Suman",
+          "Kerr-Gaffney Jess",
+          "Jauhar Sameer",
+          "Kaufman Kenneth R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Citalopram",
+          "Fluoxetine",
+          "Humans",
+          "Lamotrigine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Venlafaxine Hydrochloride"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35778967/"
+      },
+      {
+        "pmid": "36138129",
+        "title": "The impact of pharmacological and non-pharmacological interventions on physical health outcomes in people with mood disorders across the lifespan: An umbrella review of the evidence from randomised controlled trials.",
+        "abstract": "People with mood disorders have increased risk of comorbid medical diseases versus the general population. It is paramount to identify interventions to improve physical health in this population.",
+        "journal": "Molecular psychiatry",
+        "year": "2023",
+        "authors": [
+          "Croatto Giovanni",
+          "Vancampfort Davy",
+          "Miola Alessandro",
+          "Olivola Miriam",
+          "Fiedorowicz Jess G"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Humans",
+          "Aged",
+          "Adolescent",
+          "Fluoxetine",
+          "Olanzapine",
+          "Quetiapine Fumarate",
+          "Selective Serotonin Reuptake Inhibitors",
+          "Aripiprazole",
+          "Longevity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36138129/"
+      },
+      {
+        "pmid": "35164524",
+        "title": "Lithium plus antipsychotics or anticonvulsants for bipolar disorder: Comparing clinical response and metabolic changes.",
+        "abstract": "Patients with bipolar disorder treated with lithium often require additional antipsychotics or anticonvulsants. However, the comparative effectiveness and safety of these agents as add-on to lithium has not been studied.",
+        "journal": "The Australian and New Zealand journal of psychiatry",
+        "year": "2023",
+        "authors": [
+          "Köhler-Forsberg Ole",
+          "Sylvia Louisa G",
+          "Thase Michael",
+          "Calabrese Joseph R",
+          "Tohen Mauricio"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Anticonvulsants",
+          "Antimanic Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Drug Therapy, Combination",
+          "Lithium"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35164524/"
+      },
+      {
+        "pmid": "25963405",
+        "title": "Antipsychotics as antidepressants.",
+        "abstract": "Three second-generation antipsychotic (SGA) agents have received FDA approval for adjunctive treatment, to antidepressant, of major depressive disorder: quetiapine, aripiprazole, and olanzapine. Additionally, quetiapine and lurasidone have been approved for the treatment of bipolar depression. There are data suggesting that quetiapine is effective for major depressive disorder as monotherapy. These agents are effective for depression only at subantipsychotic doses. Receptor profiles predict that all SGA will have anxiolytic effects as subantipsychotic doses but that all will be dysphorogenic at full antipsychotic doses (i.e., produce a depression-like clinical picture). The antidepressant effect appears to be unique to some agents, with direct evidence of insignificant antidepressant action for ziprasidone. Three general principles can guide the use of antipsychotics as antidepressants: (i) All SGAs may have anxiolytic effects; (ii) full antipsychotic doses are dysphorogenic, and there",
+        "journal": "Asia-Pacific psychiatry : official journal of the Pacific Rim College of Psychiatrists",
+        "year": "2016",
+        "authors": [
+          "Roberts Rona Jeannie",
+          "Lohano Kavita K",
+          "El-Mallakh Rif S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antidepressive Agents",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Major Depressive Disorder",
+          "Humans",
+          "Off-Label Use",
+          "United States",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25963405/"
+      },
+      {
+        "pmid": "28864753",
+        "title": "Bipolar disorder and addictions: the elephant in the room.",
+        "abstract": "Addictions are highly prevalent in bipolar disorder and greatly affect clinical outcomes. In this editorial, we review the evidence that addictions are a key challenge in bipolar disorder, examine putative neurobiological mechanisms, and reflect on the limited clinical trial evidence base with suggestions for treatment strategies and further developments.",
+        "journal": "The British journal of psychiatry : the journal of mental science",
+        "year": "2017",
+        "authors": [
+          "Stokes Paul R A",
+          "Kalk Nicola J",
+          "Young Allan H"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Bipolar Disorder",
+          "Comorbidity",
+          "Humans",
+          "Substance-Related Disorders"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28864753/"
+      },
+      {
+        "pmid": "38602057",
+        "title": "Population Pharmacokinetics and Dosing Simulations for Aripiprazole 2-Month Ready-to-Use Long-Acting Injectable in Adult Patients With Schizophrenia or Bipolar I Disorder.",
+        "abstract": "A ready-to-use (RTU) long-acting injectable (LAI) formulation of aripiprazole monohydrate for administration once every 2 months, available in 960 mg (Ari 2MRTU 960) or 720 mg doses, has been developed for the treatment of schizophrenia or bipolar I disorder. A previously developed and validated population pharmacokinetic model for characterizing aripiprazole plasma concentrations following administration of oral aripiprazole or aripiprazole once-monthly (AOM) intramuscular injection was expanded to include the RTU LAI formulation of aripiprazole (Ari RTU LAI). Overall, 8899 aripiprazole pharmacokinetic samples from 1191 adults from 10 clinical trials were included in the final combined analysis data set. Aripiprazole plasma concentration-time profiles were simulated for various Ari RTU LAI initiation and maintenance scenarios in 1000 virtual patients. Diagnostic plots demonstrated that the final population pharmacokinetic model, which incorporated data for oral aripiprazole, AOM, and ",
+        "journal": "Clinical pharmacology in drug development",
+        "year": "2024",
+        "authors": [
+          "Wang Yanlin",
+          "Harlin Matthew",
+          "Larsen Frank",
+          "Wang Xiaofeng",
+          "Park Wansu"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aripiprazole",
+          "Schizophrenia",
+          "Adult",
+          "Bipolar Disorder",
+          "Antipsychotic Agents",
+          "Delayed-Action Preparations",
+          "Injections, Intramuscular",
+          "Male",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38602057/"
+      },
+      {
+        "pmid": "16432528",
+        "title": "Treatment-resistant bipolar disorder.",
+        "abstract": "Despite the remarkable increase in medications validated as effective in bipolar disorder, treatment is still plagued by inadequate response in acute manic or depressive episodes or in long-term preventive maintenance treatment. Established first-line treatments include lithium, valproate and second-generation antipsychotics (SGAs) in acute mania, and lithium and valproate as maintenance treatments. Recently validated treatments include extended release carbamazapine for acute mania and lamotrigine, olanzapine and aripiprazole as maintenance treatments. For treatment-resistant mania and as maintenance treatments, a number of newer anticonvulsants, and one older one, phenytoin, have shown some promise as effective. However, not all anticonvulsants are effective and each agent needs to be evaluated individually. Combining multiple agents is the most commonly used clinical strategy for treatment resistant bipolar patients despite a relative lack of data supporting its use, except for acut",
+        "journal": "Molecular psychiatry",
+        "year": "2006",
+        "authors": [
+          "Gitlin M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticonvulsants",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Drug Resistance",
+          "Drug Therapy, Combination",
+          "Electroconvulsive Therapy",
+          "Humans",
+          "Lithium Chloride",
+          "Psychotherapy",
+          "Reproducibility of Results"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16432528/"
+      },
+      {
+        "pmid": "30743017",
+        "title": "Aripiprazole augmentation in treating comorbid bipolar disorder and obsessive-compulsive disorder: A systematic review.",
+        "abstract": "Apparent comorbidity between bipolar disorder (BD) and obsessive-compulsive disorder (OCD) is a common condition in psychiatry, but treatment of BD-OCD remains a clinical challenge. Although serotonin reuptake inhibitors (SRIs) are the first line treatment for OCD, they can induce mood instability in BD. An optimal treatment approach remains to be defined.",
+        "journal": "Journal of affective disorders",
+        "year": "2019",
+        "authors": [
+          "Amerio A",
+          "Odone A",
+          "Ghaemi S N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antimanic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Comorbidity",
+          "Humans",
+          "Lithium Carbonate",
+          "Obsessive-Compulsive Disorder",
+          "Selective Serotonin Reuptake Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30743017/"
+      },
+      {
+        "pmid": "39792489",
+        "title": "Treatment With Long-Acting Injectable Aripiprazole During Pregnancy in Bipolar Disorder: A Scoping Review.",
+        "abstract": "The management of bipolar disorder during pregnancy presents a significant challenge, particularly regarding the safety and effectiveness of long-acting injectable (LAI) antipsychotics like aripiprazole. Despite the growing use of LAI antipsychotics in psychiatric disorders, data on their use during pregnancy are limited, especially for bipolar disorder. This study aimed to shed light on this issue through a scoping review.",
+        "journal": "American journal of therapeutics",
+        "year": "2024",
+        "authors": [
+          "Teodorescu Andreea",
+          "Dima Lorena",
+          "Petric Paula Simina",
+          "Necula Ruxandra Mihaela",
+          "Banciu Roxana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Scoping Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Aripiprazole",
+          "Pregnancy",
+          "Female",
+          "Antipsychotic Agents",
+          "Bipolar Disorder",
+          "Pregnancy Complications",
+          "Delayed-Action Preparations",
+          "Pregnancy Outcome",
+          "Injections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39792489/"
+      },
+      {
+        "pmid": "31072228",
+        "title": "Drug safety evaluation of aripiprazole in bipolar disorder.",
+        "abstract": "Introduction: Safety and tolerability of medications are key variables to inform treatment choice for patients with bipolar disorder (BD). This review focuses on the overall tolerability and safety profile of aripiprazole when used for its bipolar disorder indications, which include acute treatment of manic and mixed episodes and maintenance treatment of bipolar I disorder for the oral formulation, agitation associated with bipolar mania for the injectable immediate-release formulation, and maintenance treatment of bipolar I disorder for the long acting once-monthly (AOM) formulation. Areas covered: The authors reviewed aripiprazole safety in bipolar disorder according to product labeling. English language reports located through PubMed and information available on the US Food and Drug Administration (FDA) and European Medicines Agency (EMA) websites, with a focus on the safety and tolerability of aripiprazole, were reviewed. Expert opinion: Compared to many other antipsychotics, aripi",
+        "journal": "Expert opinion on drug safety",
+        "year": "2019",
+        "authors": [
+          "Cuomo Alessandro",
+          "Beccarini Crescenzi Bruno",
+          "Goracci Arianna",
+          "Bolognesi Simone",
+          "Giordano Nicola"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antipsychotic Agents",
+          "Aripiprazole",
+          "Bipolar Disorder",
+          "Delayed-Action Preparations",
+          "Humans",
+          "Weight Gain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31072228/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:26:51.735953",
+  "success": true,
+  "error_message": null
+}

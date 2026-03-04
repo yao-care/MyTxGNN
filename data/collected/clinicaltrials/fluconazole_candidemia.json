@@ -1,0 +1,468 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Fluconazole",
+    "disease": "candidemia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02244606",
+      "title": "Open-Label, Randomized Study to Estimate Safety, PK, and Efficacy of Oral Ibrexafungerp (SCY-078) vs. Standard-of-Care Following IV Echinocandin Therapy in the Treatment of Invasive Candidiasis in Hospitalized Nonneutropenic Adults",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2014-09",
+      "completion_date": "2016-08",
+      "country": "Germany, Honduras, El Salvador, Guatemala, United States",
+      "enrollment": 27,
+      "brief_summary": "The purpose of this study is to compare the safety, pharmacokinetics, and efficacy of oral SCY-078 vs. standard-of-care following initial intravenous echinocandin therapy in the treatment of invasive candidiasis.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of invasive candidiasis defined as a positive culture of blood or from another normally sterile site for Candida.\n* Not of reproductive potential or if of reproductive potential, agrees to remain abstinent or use 2 methods of contraception.\n\nExclusion Criteria:\n\n* Pa",
+      "endpoints": [
+        "Safety and Tolerability, Assessed by Adverse Events, Clinical Laboratory Results, Physical Examination Findings, ECG Results, and Vital Sign Measurements",
+        "Dose of SCY-078 That Achieves the Target Exposure (AUC)"
+      ],
+      "sponsor": "Scynexis, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02244606"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05421858",
+      "title": "An Interventional Efficacy and Safety Phase 3 Double-blind 2-arm Study to Investigate IV Followed by Oral Fosmanogepix Compared With IV Caspofungin Followed by Oral Fluconazole in Adult Participants With Candidemia and/or Invasive Candidiasis",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-12-11",
+      "completion_date": "2028-01-30",
+      "country": "Bulgaria, Brazil, Singapore, Spain, Belgium, Taiwan, Germany, Australia, Thailand, Israel, South Korea, South Africa, Greece, Austria, Colombia, Argentina, United States, France, Italy, China",
+      "enrollment": 450,
+      "brief_summary": "The purpose of this clinical trial is to learn about the safety and effects of the study medicine (called Fosmanogepix) for the potential treatment of candidemia and/or invasive candidiasis, a life-threatening fungal infection caused by several species of yeast called Candida.\n\nThe study is seeking patients who have a diagnosis of candidemia and/or invasive candidiasis.\n\nTwo-thirds of all patients will receive the study medication fosmanogepix Intravenous (IV) infusion followed by optional fosma",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients ≥ 18 years (or the minimum country-specific age of consent if \\> 18) at Screening who have provided signed informed consent indicating that they understand the purpose of, and procedures required for, the study, and are willing to participate in the study. If the pat",
+      "endpoints": [
+        "Proportion of patients alive at Day 30",
+        "Proportion of patients with an overall response of treatment success at end of study treatment (EOST)"
+      ],
+      "sponsor": "Basilea Pharmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT05421858"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01236261",
+      "title": "Prospective Population Study on Candidemia in Spain (Estudio Poblacional Prospectivo Sobre Candidemia en España)",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2013-03",
+      "completion_date": "2013-03",
+      "country": "Spain",
+      "enrollment": 730,
+      "brief_summary": "The aim of this study is to describe the epidemiology of fungal blood infections in Spain (with emphasis on the incidence, fungal species distribution and antifungal susceptibility). The study is to be performed in five big cities which represent different geographic areas: Barcelona, Bilbao, Madrid, Sevilla and Valencia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Fungal isolate obtained from blood sample\n\nExclusion Criteria:\n\n* None",
+      "endpoints": [
+        "Describe fungemia epidemiology in Spain"
+      ],
+      "sponsor": "Fundacion SEIMC-GESIDA",
+      "url": "https://clinicaltrials.gov/study/NCT01236261"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00509834",
+      "title": "A Phase-IIa, Double-blind, Randomized Study on the Tolerability and Early Efficacy of hLF1-11 in Hospitalized Patients With Proven Candidaemia. (SLIC: Study of Lactoferrin Peptide in Infections With Candida)",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2008-07",
+      "completion_date": "2009-01",
+      "country": "Netherlands",
+      "enrollment": 0,
+      "brief_summary": "This is a phase-I, double-blind, randomized study with hLF1-11 to study the tolerability and early efficacy of hLF1-11 compared to standard fluconazole therapy in hospitalized patients with invasive Candida infection.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent must be obtained before admission in the study.\n* Patients in whom Candida species have been confirmed by 2 consecutive blood cultures within 12 hours.\n* Patients who have not received systemic administration of antifungal agents or who have started su",
+      "endpoints": [
+        "Haematology, biochemistry, and microbiological evaluation Adverse event monitoring."
+      ],
+      "sponsor": "AM-Pharma",
+      "url": "https://clinicaltrials.gov/study/NCT00509834"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00058682",
+      "title": "A Phase III, Double Blind, Randomized, Multi-Center Study of the Safety and Efficacy of Anidulafungin VS. Fluconazole in the Treatment of Patients With Candidemia and Other Forms of Invasive Candidiasis and Prevention of Complications",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-04",
+      "completion_date": "2005-01",
+      "country": "United States",
+      "enrollment": 248,
+      "brief_summary": "Fluconazole is an FDA-approved drug that is widely used to treat fungal infections due to candida. The experimental drug anidulafungin has been found to be active in treating life-threatening fungal infections. The purpose of this study is to determine whether anidulafungin is as effective as fluconazole in treating candidemia, an invasive form of candidiasis.\n\nThree hundred patients 16 years of age or older will participate in this study. Participants will be randomly assigned to one of two gro",
+      "eligibility_criteria": "INCLUSION CRITERIA\n\nDiagnosis of candidemia or other forms of invasive candidiasis from a blood culture or a culture specimen from a normally sterile site, the sample preferably having been taken within 96 hours before study entry. The diagnosis will be based on the following:\n\n1. Candidemia: at lea",
+      "endpoints": [],
+      "sponsor": "National Institutes of Health Clinical Center (CC)",
+      "url": "https://clinicaltrials.gov/study/NCT00058682"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01174147",
+      "title": "Brazilian Network of Candidemia: a Laboratory-based Surveillance Study on Candida Bloodstream Infections in 10 Medical Centers",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2010-04",
+      "completion_date": "2012-11",
+      "country": "N/A",
+      "enrollment": 436,
+      "brief_summary": "This study will evaluate the incidence rate of Candida blood stream infection (candidemia) among people hospitalized in participating medical centers in Brazil, and will assess the antifungal drug susceptibility patterns of Candida clinical isolates. No hypotheses will be tested in the study. Candida blood stream isolates collected from people hospitalized for any reason during the study period will be sent to a core mycology laboratory for antifungal drug susceptibility testing. All people who ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Hospitalized in a participating medical center\n* Developed candidemia blood stream infection (confirmed by isolation of Candida species from blood culture)",
+      "endpoints": [
+        "Number of participants with Candidemia per 1000 hospital admissions",
+        "Number of participants with Candidemia per 1000 patient-Days in hospital",
+        "Percentage of Specific Candida Isolates Susceptible to Amphotericin B, Fluconazole, Voriconazole, Anidulafungin, and Caspofungin"
+      ],
+      "sponsor": "Merck Sharp & Dohme LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01174147"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01176058",
+      "title": "A Phase Iiib, Open-label, Randomized, Multi-center Study Of The Efficacy And Safety Of Anidulafungin Vs. Fluconazole, In The Treatment Of Subjects With Candidemia And/or Other Forms Of Invasive Candidiasis",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2010-12",
+      "completion_date": "2011-11",
+      "country": "China",
+      "enrollment": 17,
+      "brief_summary": "In the treatment of patients with candidemia and/or other forms of invasive candidiasis , Anidulafungin is at least as effective and safe as Fluconazole.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of candidemia or invasive candidiasis.\n* Presence of one or more of signs and symptoms of acute fungal infection.\n\nExclusion Criteria:\n\n* Subjects who received greater than 48 hours of systemic antifungal treatment for the Candida infection for which they will be enro",
+      "endpoints": [
+        "Percentage of Participants With Global Response at End of Intravenous Treatment (EOIT)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT01176058"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04874441",
+      "title": "Evaluation of the Effect of the Implementation of a Candida PCR Diagnosis Strategy on the Time Required to Obtain Results in Patients From Intensive Care Units With Suspected Systemic Invasive Candidiasis: Pilot Study",
+      "phase": "NA",
+      "status": "RECRUITING",
+      "start_date": "2022-05-19",
+      "completion_date": "2025-08-01",
+      "country": "France",
+      "enrollment": 120,
+      "brief_summary": "The aim of this study is to evaluate the implementation of a new technique for invasive candidiasis diagnosis by PCR. The main objective will be to evaluate the effect of this strategy on the time required to obtain results in patients from intensive care units with suspected systemic invasive candidiasis. This PCR method could allow an antifungal switch to be made earlier, limiting the appearance of resistance and reducing the cost of antifungals for healthcare facilities.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient affiliated or benefiting from a social protection system\n* Patient (or his/her trusted person) having given free and informed written consent to the investigating physician\n* Non-neutropenic patient hospitalised in the Toulouse University Hospital intensive care unit.\n",
+      "endpoints": [
+        "Reporting delay"
+      ],
+      "sponsor": "University Hospital, Toulouse",
+      "url": "https://clinicaltrials.gov/study/NCT04874441"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06985758",
+      "title": "Phase IV, Open-label, Single Arm, Multicenter Trial to Evaluate Pharmacokinetic Parameters of Peritoneal Diffusion and Peritoneal Diffusion Activity.",
+      "phase": "PHASE4",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-09",
+      "completion_date": "2026-01",
+      "country": "Spain",
+      "enrollment": 20,
+      "brief_summary": "Intra-abdominal candidiasis is the most frequent candidiasis infection after candidemia. The studies that have positioned echinocandins as the first therapeutic option in candidiasis have been carried out mainly in patients with candidemia. Peritoneal concentrations of caspofungin, micafungin and anidulafungin are clearly above the MICs of most Candida spp but are below the threshold for selection of resistant mutants, which has been argued by some researchers as a risk for the control of intra-",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with suspicion, confirmed or not, of candidiasis peritonitis or intra-abdominal infection by Candida spp. who, after having received information about the design, the purpose of the study, the possible risks that may arise from it and that they can refuse to collabora",
+      "endpoints": [
+        "Peack Plasma Concentration (Cmax)",
+        "Minimum Plasma Concentration (Cmin)",
+        "Area Under the Rezafungin Curve levels in blood."
+      ],
+      "sponsor": "Fundacion para la Investigacion Biomedica del Hospital Universitario Ramon y Cajal",
+      "url": "https://clinicaltrials.gov/study/NCT06985758"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03667690",
+      "title": "A Phase 3, Multicenter, Randomized, Double-blind Study of the Efficacy and Safety of Rezafungin for Injection vs. Intravenous Caspofungin Followed by Oral Fluconazole Step Down in the Treatment of Subjects With Candidemia and/or Invasive Candidiasis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2018-10-07",
+      "completion_date": "2021-10-07",
+      "country": "Israel, Bulgaria, France, Singapore, South Korea, Spain, Taiwan, Turkey (Türkiye), Greece, Italy, Germany, Australia, China, Thailand, Colombia, Argentina, Belgium, United States",
+      "enrollment": 199,
+      "brief_summary": "The purpose of this pivotal study is to determine if intravenous Rezafungin is efficacious and safe in the treatment of candidemia and/or invasive candidiasis when compared to caspofungin (followed by optional oral fluconazole).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willing and able to provide written informed consent. If the subject is unable to consent for himself/herself, a legally acceptable representative must provide informed consent on his/her behalf.\n2. Males or females ≥18 years of age.\n3. Established mycological diagnosis of ca",
+      "endpoints": [
+        "All-Cause Mortality (US FDA Only)",
+        "Global Response as Assessed by Data Review Committee (EU European Medicines Agency [EMA] Only)"
+      ],
+      "sponsor": "Cidara Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT03667690"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04368559",
+      "title": "A Phase 3, Multicenter, Randomized, Double-Blind Study of the Efficacy and Safety of Rezafungin for Injection Versus the Standard Antimicrobial Regimen to Prevent Invasive Fungal Diseases in Adults Undergoing Allogeneic Blood and Marrow Transplantation (The ReSPECT Study)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-05-11",
+      "completion_date": "2026-02",
+      "country": "France, Spain, Switzerland, Italy, Germany, United Kingdom, Canada, Belgium, United States",
+      "enrollment": 602,
+      "brief_summary": "The purpose of this pivotal study is to determine if intravenous Rezafungin is efficacious and safe in the prevention of invasive fungal diseases when compared to the standard antimicrobial regimen.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Willing and able to provide written informed consent.\n2. Males or females ≥18 years of age.\n3. Receiving a human leukocyte antigen (HLA) matched allogeneic peripheral BMT from a family or unrelated donor, HLA-mismatched related or unrelated donor, or haploidentical donor.\n4. ",
+      "endpoints": [
+        "Noninferior Fungal-Free Survival (US FDA)",
+        "Noninferior Fungal-Free Survival (US FDA)",
+        "Superior Fungal-Free Survival (EMA)"
+      ],
+      "sponsor": "Mundipharma Research Limited",
+      "url": "https://clinicaltrials.gov/study/NCT04368559"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01211041",
+      "title": "The Relationship Between Morphology and Virulent Genes of Candida Albicans and Clinical Aspects, Surveillance of Fungemia",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2010-07",
+      "completion_date": "2011-07",
+      "country": "Taiwan",
+      "enrollment": 100,
+      "brief_summary": "Candida albicans is the most common and important clinical fungal pathogen. Our previous surveillance disclosed that fluconazole could induce different morphological changes in clinical strains. Our current study on C. albicans causing candiuria disclosed that renal insufficiency , diabetes mellitus, respiratory failure and uremia were risk factors of treatment failure. However, we also found results of E-test drug susceptible test could not predict outcome. Hence, retrospective analysis of 31 m",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 2007 to 2010 medical records\n* Cases with candidemmia of Candida albicans with available clinical information in medical records for analysis.\n* Cases with candidemmia of Candida albicans which clinical isolates were preserved.\n\nExclusion Criteria:\n\n* Cases were not hospitaliz",
+      "endpoints": [],
+      "sponsor": "Taipei Medical University WanFang Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01211041"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06859671",
+      "title": "A Randomized Study of a Short Duration Therapy for Candidemia",
+      "phase": "PHASE3",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-07-01",
+      "completion_date": "2027-09-01",
+      "country": "N/A",
+      "enrollment": 362,
+      "brief_summary": "Scientific justification Candidemia is a major public health problem. In France, the 30-day mortality of candidemia varies from 30% to 50% depending on the need for intensive care and it has not decreased in 30 years.\n\nThe duration of treatment for candidemia was set at a minimum of 14 days after the last positive blood culture following the Rex trial (1) comparing the efficacy of fluconazole vs amphotericin B where the minimum duration of treatment was imposed. The risk of a too short treatment",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults (Age ≥ 18 years old)\n* With an uncomplicated candidemia defined by the absence of secondary sites requiring prolonged treatment: endocarditis, ophthalmologic involvement, thrombosed catheter, arthritis, meningitis, candida abscess that cannot be drained, pyelonephritis.",
+      "endpoints": [
+        "All-cause mortality (ACM)"
+      ],
+      "sponsor": "Assistance Publique - Hôpitaux de Paris",
+      "url": "https://clinicaltrials.gov/study/NCT06859671"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05178862",
+      "title": "A Phase 3, Multicenter, Prospective, Randomized, Double-blind Study of Two Treatment Regimens for Candidemia and/or Invasive Candidiasis: Intravenous Echinocandin Followed by Oral Ibrexafungerp Versus Intravenous Echinocandin Followed by Oral Fluconazole (MARIO)",
+      "phase": "PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2022-08-03",
+      "completion_date": "2025-12-16",
+      "country": "Israel, Bulgaria, France, South Korea, Spain, South Africa, Greece, Italy, Germany, China, Canada, Belgium, United States",
+      "enrollment": 68,
+      "brief_summary": "This is a multicenter, randomized, double-blind study of two treatment regimens for invasive candidiasis included candidemia. Subjects will receive intravenous echinocandin followed by oral ibrexafungerp (SCY-078) vs intravenous echinocandin followed by oral fluconazole.",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Subject is a male or female adult ≥ 18 years of age on the day the study informed consent is signed.\n* Subject has a diagnosis of candidemia and/or invasive candidiasis, defined as evidence of Candida spp in either a bloodstream or tissue culture from a normally sterile si",
+      "endpoints": [
+        "All-cause mortality (US FDA Only)",
+        "Global Response at End of Treatment (EU European Medicines Agency [EMA] Only)"
+      ],
+      "sponsor": "Scynexis, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05178862"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03604705",
+      "title": "An Open-Label Study to Evaluate the Efficacy and Safety of APX001 in Non Neutropenic Patients With Candidemia, With or Without Invasive Candidiasis, Inclusive of Patients With Suspected Resistance to Standard of Care Antifungal Treatment",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-10-03",
+      "completion_date": "2020-07-02",
+      "country": "Israel, Spain, Germany, Belgium, United States",
+      "enrollment": 21,
+      "brief_summary": "This is a multicenter, open-label, non-comparative, single-arm study to evaluate the efficacy and safety of APX001 for the first-line treatment for candidemia including suspected or confirmed antifungal-resistant candidemia in non-neutropenic patients 18 yeas of age and older.\n\nSuspicion of antifungal-resistant candidemia is sufficient (documented resistance is not required for enrollment). The Study Drug Treatment Period of APX001 will be a maximum of 14 days. After completion of 14 days study ",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Provision of written consent\n* Adults ages 18 and above male or female\n* New diagnosis of candidemia\n* Able to have pre-existing intravascular catheters removed and replaced (as necessary)\n\nKey Exclusion Criteria:\n\n* neutropenia\n* deep-seated Candida-related infections\n* h",
+      "endpoints": [
+        "Treatment Success at End of Study Treatment (EOST) as Determined by the Data Review Committee (DRC)"
+      ],
+      "sponsor": "Basilea Pharmaceutica",
+      "url": "https://clinicaltrials.gov/study/NCT03604705"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07422194",
+      "title": "Phylogenetic Characteristics of Different Candida Species and Their Impact on the Clinical Picture of Patients With Invasive Candidiasis. What Has Changed During the COVID Pandemic?",
+      "phase": "N/A",
+      "status": "WITHDRAWN",
+      "start_date": "2023-03-01",
+      "completion_date": "2025-12-30",
+      "country": "Italy",
+      "enrollment": 0,
+      "brief_summary": "Antimicrobial susceptibility testing (AST) of C. parapsilosis strains causing candidemia between 2018 and 2021 has shown a reduced susceptibility to azoles in general, with high rates of fluconazole resistance. This phenotypic profile is most expressed in C. parapsilosis strains; a profile that hasn't been frequently encountered in the past. According to several epidemiological studies, C. parapsilosis strains tend to show echinocandin resistance which drives us to believe that we are facing an ",
+      "eligibility_criteria": "Inclusion Criteria:\n\nadult patients older then 18 years old\n\nExclusion Criteria:\n\npatients under 18 years old",
+      "endpoints": [
+        "Study the incidence of various Candida species causing candidemia to design a local epidemiological framework"
+      ],
+      "sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+      "url": "https://clinicaltrials.gov/study/NCT07422194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00189709",
+      "title": "A Single Center, Open, Parallel, Comparative, Randomized Study of Micafungin (FK463) vs Fluconazole (Diflucan) in the Treatment of Invasive Candidiasis and Candidaemia (Protocol No: MCFGCAN-0301F-TW)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-08",
+      "completion_date": "2006-07",
+      "country": "Taiwan",
+      "enrollment": 24,
+      "brief_summary": "To determine the efficacy and safety of micafungin (FK463) versus fluconazole (Diflucan) in treating patients with invasive candidiasis or candidaemia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a confirmed diagnosis of candidemia and invasive candidiasis\n* Patients could be newly diagnosed with candidiasis who received no more than 48 hours of prior systemic antifungal therapy\n* Inpatients aged 16 and above\n\nExclusion Criteria:\n\n* Patients with serious ",
+      "endpoints": [
+        "Response rate"
+      ],
+      "sponsor": "Astellas Pharma Inc",
+      "url": "https://clinicaltrials.gov/study/NCT00189709"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00163111",
+      "title": "A Randomized, Open Label, Comparative Multicenter Study Of Voriconazole Versus Conventional Amphotericin B Followed By Fluconazole In The Treatment Of Candidaemia In Non Neutropenic Subjects.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "1998-09",
+      "completion_date": "2003-05",
+      "country": "N/A",
+      "enrollment": 412,
+      "brief_summary": "This is a study to investigate the safety and efficacy of voriconazole for the treatment of candidemia in critically ill non-neutropenic patients",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with candidemia\n\nExclusion Criteria:\n\n* Neutropenia",
+      "endpoints": [
+        "Sustained clinical response for 12 weeks from end of treatment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00163111"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02734862",
+      "title": "A Phase 2, Multicenter, Randomized, Double-blind Study of the Safety, Tolerability, and Efficacy of Intravenous CD101 vs Intravenous Caspofungin Followed by Oral Fluconazole Step-down in the Treatment of Subjects With Candidemia and/or Invasive Candidiasis",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2016-07-26",
+      "completion_date": "2019-07",
+      "country": "Bulgaria, Spain, Greece, Russia, Italy, Hungary, Romania, Canada, Belgium, United States",
+      "enrollment": 207,
+      "brief_summary": "The purpose of this study is to determine if intravenous CD101 is safe and effective in the treatment of candidemia and/or invasive candidiasis when compared to caspofungin (followed by oral fluconazole).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* mycological diagnosis of candidemia and/or invasive candidiasis from a sample taken less than or equal to 96 hours before randomization (defined as: at least 1 blood culture positive for Candida or positive test for Candida from a sponsor approved rapid diagnostic test or posi",
+      "endpoints": [
+        "Incidence of Treatment Emergent Adverse Events [Safety and Tolerability]",
+        "Resolution of Systemic Signs Attributable to Candidemia and/or Invasive Candidiasis and Mycological Eradication [Overall Success]"
+      ],
+      "sponsor": "Cidara Therapeutics Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT02734862"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00496197",
+      "title": "Phase IV Open Label Non Comparative Trial Of IV Anidulafungin Followed By Oral Azole Therapy For The Treatment Of Candidemia And Invasive Candidiasis",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2010-06",
+      "country": "South Korea, United States",
+      "enrollment": 282,
+      "brief_summary": "The purpose of this study is to further evaluate the safety and effectiveness of intravenous anidulafungin (Eraxis™) in patients with a diagnosis of candidemia or invasive candidiasis, which is a fungus infection of the blood or tissue. Currently the drug is approved for treatment using a daily dose of IV medication until 14 days after the fungus disappears from the blood. This study will evaluate the effectiveness of intravenous anidulafungin when it is administered for 5-28 days followed by or",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects \\> or equal to 18 years of age.\n* Presence of candidemia (positive blood culture) or invasive candidiasis (histopathologic or cytopathologic examination of a needle aspiration or biopsy specimen from a normally sterile site excluding mucous membranes sh",
+      "endpoints": [
+        "Number of Participants With Global Response of Success or Failure (Based on Clinical and Microbiological Response) at End of Treatment (EOT)"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00496197"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00689338",
+      "title": "Open-Label, Non-Comparative, Study Of Intravenous Anidulafungin, Followed Optionally By Oral Voriconazole Or Fluconazole Therapy, For Treatment Of Documented Candidemia/Invasive Candidiasis In Intensive Care Unit Patient Populations",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2010-05",
+      "country": "Russia, Canada, Belgium, Turkey (Türkiye), Hungary, Slovakia, Germany, Portugal, Romania, Greece, Ukraine, Austria, Poland, France, Czechia, Italy, Denmark, United Kingdom, Netherlands",
+      "enrollment": 216,
+      "brief_summary": "To evaluate the efficacy and safety of anidulafungin in the treatment of systemic fungal infections in intensive care and critical care unit patients.",
+      "eligibility_criteria": "Inclusion Criteria:\n\nICU patients with a diagnosis of documented candidemia or invasive candidiasis and belonging to one or more of the following specific populations:\n\n* Post-abdominal surgery.\n* Elderly \\> 65 years old.\n* Renal insufficiency / failure / hemodialysis.\n* Solid tumor.\n* Solid-organ (",
+      "endpoints": [
+        "Percentage of Participants With Global Treatment Response Success at End of Treatment"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00689338"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00056368",
+      "title": "A Phase III, Double-Blind, Randomized, Multi-Center, Study of the Safety and Efficacy of Anidulafungin vs. Fluconazole in the Treatment of Patients With Candidemia and Other Forms of Invasive Candidiasis and Prevention of Complications.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2004-10",
+      "country": "United States",
+      "enrollment": 256,
+      "brief_summary": "Anidulafungin is a medicine being developed for treatment of patients with certain kinds of fungal infections. These infections due to yeast (a type of fungus) in the mouth/esophagus, in the blood or in other areas within the body.",
+      "eligibility_criteria": "* Diagnosis of candidemia and/or other forms of invasive candidiasis.\n* Should not have received greater than 48 hours of systemic antifungal therapy.\n* Life expectancy should be greater than 72 hours.\n* Should not have received greater than one week of prophylactic azole therapy 30 days prior to en",
+      "endpoints": [],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00056368"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00761267",
+      "title": "A PROSPECTIVE, OPEN-LABEL STUDY TO ASSESS THE PHARMACOKINETICS, SAFETY & EFFICACY OF ANIDULAFUNGIN WHEN USED TO TREAT CHILDREN WITH INVASIVE CANDIDIASIS, INCLUDING CANDIDEMIA",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2009-02",
+      "completion_date": "2018-02",
+      "country": "South Korea, Brazil, Spain, Taiwan, Greece, Russia, Italy, United Kingdom, Canada, United States",
+      "enrollment": 70,
+      "brief_summary": "Prospective, open label study to assess the pharmacokinetics, safety \\& efficacy of anidulafungin when used to treat children (aged 1 month - \\<18 years) with invasive candidiasis, including candidemia (ICC).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be either (1) at high risk for candidiasis (1 month - \\< 2 years ONLY) or (2) have a definitive diagnosis of invasive candidiasis/candidemia (ICC) (All age groups)\n* Male and female patients from 1 month to less than 18 years of age.\n\nExclusion Criteria:\n\n* Any pa",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "Number of Participants With Laboratory Abnormalities"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00761267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00797420",
+      "title": "Pharmacokinetics of a Fluconazole Loading Dose in Infants and Toddlers",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2008-11",
+      "completion_date": "2011-09",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "The purpose of this study is to investigate the pharmacokinetics and safety of a fluconazole loading dose in infants and toddlers.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* suspected sepsis with blood culture within 48 hours\n* age ≥ 48 hours and \\< 2 years of age\n* sufficient venous access to permit study drug administration\n\nExclusion Criteria:\n\n* allergic reaction to azole\n* history of fluconazole administration in prior 5 days\n* liver dysfunct",
+      "endpoints": [
+        "Plasma concentration of Fluconazole"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT00797420"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01869829",
+      "title": "International Pediatric Fungal Network: Multi-Center Studies to Improve Diagnosis and Treatment of Pediatric Candidiasis",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2018-04",
+      "country": "Spain, Saudi Arabia, Greece, India, Italy, Canada, Colombia, United States",
+      "enrollment": 750,
+      "brief_summary": "The overarching objective is to develop new evidence-based treatment guidelines for invasive fungal diseases in children. To accomplish that, this protocol will focus on two specific aims: 1) Compare the effectiveness of echinocandin versus amphotericin B or triazole antifungal therapy for pediatric invasive candidiasis and for the subset of patients with invasive candidemia; 2) Characterize the incidence rate of inpatient pediatric invasive candidiasis per hospital admissions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Males or females age \\> 120 days and \\<18 years\n2. Documented proven or probable case of invasive candidiasis\n3. Parental/guardian permission (informed consent, if required) and if appropriate, child assent (if required).\n\nExclusion Criteria:\n\n1\\) Any history of prior Candida",
+      "endpoints": [
+        "Global response to antifungal therapy"
+      ],
+      "sponsor": "Duke University",
+      "url": "https://clinicaltrials.gov/study/NCT01869829"
+    }
+  ],
+  "timestamp": "2026-03-04T15:16:24.755525",
+  "success": true,
+  "error_message": null
+}

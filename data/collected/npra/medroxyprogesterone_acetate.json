@@ -1,0 +1,103 @@
+{
+  "source": "npra",
+  "query": {
+    "drug": "Medroxyprogesterone Acetate",
+    "disease": null
+  },
+  "data": [
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19950156AZ",
+      "product": "RAVIMED TABLET 5MG",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[5MG                           ]",
+      "generic_name": "Medroxyprogesterone Acetate 5mg Tablet",
+      "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-04-29",
+      "date_end": "2026-04-29",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19950156AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20020010AZ",
+      "product": "NON-PREG INJECTION",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[50MG/ML                       ]",
+      "generic_name": "Medroxyprogesterone Acetate 150 mg/3ml Injection",
+      "holder": "HEALOL PHARMACEUTICALS SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2021-12-30",
+      "date_end": "2026-12-30",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20020010AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL19872273AZ",
+      "product": "DEPO-PROVERA 150 INJ (3ML,VIAL)",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[50MG/ML                       ]",
+      "generic_name": "Medroxyprogesterone Acetate 150 mg/3ml Injection",
+      "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2023-09-06",
+      "date_end": "2028-09-06",
+      "url": "https://npra.gov.my/index.php/search/product/MAL19872273AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL14125122AZ",
+      "product": "DEPOGESTON 50MG/ML INJECTION",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[50mg;0]",
+      "generic_name": NaN,
+      "holder": "J. BIO MEDIC MARKETING SDN. BHD.",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2024-12-25",
+      "date_end": "2029-12-25",
+      "url": "https://npra.gov.my/index.php/search/product/MAL14125122AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL20000997AZ",
+      "product": "PROVERA 10MG TABLET",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[10MG                          ]",
+      "generic_name": "Medroxyprogesterone Acetate 10 mg Tablet",
+      "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-03-25",
+      "date_end": "2030-03-25",
+      "url": "https://npra.gov.my/index.php/search/product/MAL20000997AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL05061485AZ",
+      "product": "Condep Injection 50mg/ml (3ml vial)",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[150;mg;3;ml]",
+      "generic_name": "Medroxyprogesterone Acetate 150 mg/3ml Injection",
+      "holder": "DUOPHARMA (M) SENDIRIAN BERHAD",
+      "description": "PRESCRIPTION",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2025-07-04",
+      "date_end": "2030-07-04",
+      "url": "https://npra.gov.my/index.php/search/product/MAL05061485AZ"
+    },
+    {
+      "registry": "NPRA Malaysia",
+      "reg_no": "MAL06051306AZ",
+      "product": "Provera 5mg Tablets",
+      "active_ingredient": "MEDROXYPROGESTERONE ACETATE[5;mg;;0]",
+      "generic_name": "Medroxyprogesterone Acetate 5mg Tablet",
+      "holder": "PFIZER (MALAYSIA) SDN. BHD.",
+      "description": "NEW CHEMICAL ENTITY",
+      "status": "PRODUCT APPROVED",
+      "date_reg": "2026-06-02",
+      "date_end": "2031-06-02",
+      "url": "https://npra.gov.my/index.php/search/product/MAL06051306AZ"
+    }
+  ],
+  "timestamp": "2026-03-04T16:59:58.154412",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,925 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Docetaxel",
+    "disease": "non-small cell lung carcinoma"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00378404",
+      "title": "A Phase I Trial of Docetaxel and Low-Dose Fractionated Radiation in the Treatment of Metastatic or Recurrent Non-Small Cell Lung Cancer (NSCLC)",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2004-11",
+      "completion_date": "2010-01",
+      "country": "United States",
+      "enrollment": 10,
+      "brief_summary": "The purpose of this study is to assess the maximum tolerated dose of low-dose radiation in combination with Docetaxel in recurrent or metastatic non-small cell lung cancer for second-line therapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be 18 years of age or greater.\n* Histologically or cytologically proven non-small cell lung cancer that is either metastatic or recurrent and failed at least one prior platinum-based chemotherapeutic regimen.\n* Patients who have recurred after previous surgery an",
+      "endpoints": [
+        "To assess the MTD of low-dose fractionated radiation in combination with Docetaxel in recurrent or metastatic non-small cell lung cancer in the second-line setting."
+      ],
+      "sponsor": "University of Kentucky",
+      "url": "https://clinicaltrials.gov/study/NCT00378404"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01742767",
+      "title": "Randomized Phase II Trial of Three-weekly Cisplatinum and Pemetrexed Versus Split-dose d1 and d8 Cisplatinum and Pemetrexed In Advanced and Inoperable Non-squamous Non-small-cell Lung Cancer (NSCLC)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-11",
+      "completion_date": "2015-04",
+      "country": "Germany",
+      "enrollment": "N/A",
+      "brief_summary": "Cisplatinum and pemetrexed (ALIMTA®) has become an effective first-line regimen for advanced and inoperable non-squamous NSCLC without somatic activating mutations of epidermal growth factor receptor (EGFR). In the standard regimen the cisplatinum dose is 75 mg/m2 on day 1 of a 21-day cycle. Due to the high platinum-dose patients do need a strict hyperhydration and often have to be hospitalized for survey. Split-dose cisplatinum with two administrations on Day 1 and 8 of a 21-day-cycle has alrea",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients are eligible to be included in the study only if they meet all of the following criteria:\n\n  1. Histologically or cytologically confirmed diagnosis of non-squamous-cell non-small cell lung cancer (NSCLC) Stage IV (American Joint Committee on Cancer Staging Criteria \\[",
+      "endpoints": [
+        "Response rate"
+      ],
+      "sponsor": "Universität Duisburg-Essen",
+      "url": "https://clinicaltrials.gov/study/NCT01742767"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01802021",
+      "title": "Efficacy Study of Chinese Medicine on Modulating Immune Alterations in Advanced Stage, Non-small Cell Lung Cancer Patients Receiving 1st Line Doublet Chemotherapy and 2nd Line Target Therapy",
+      "phase": "PHASE2, PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2009-05",
+      "completion_date": "2014-02",
+      "country": "Taiwan",
+      "enrollment": 120,
+      "brief_summary": "The myeloid-derived suppressor cells (MDSCs) can further trigger cytotoxic T cell apoptosis, and may shift the macrophages toward M2 subtype, inhibit the Th1 cell, and initiate other immune suppressive mechanism. The functions of NK cells and regulatory T cells are altered, resulting in a disturbance of anti-tumor immune function. All these can further create an environment with a benefit for malignant cell growth and advancement. Astragalus-based formula may confer its survival advantage in can",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with pathological diagnosis of primary non-small-cell lung cancer Stage IIIB, IV\n2. Age ≧ 18 years\n3. Written, informed consent\n4. ECOG: 0-1\n\nExclusion Criteria:\n\n1. Subjects with inflammatory, infectious or immune disorder, such as TB, AIDS, active pneumonia, DM, SL",
+      "endpoints": [
+        "overall survival"
+      ],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01802021"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03986463",
+      "title": "CIrculating Tumour DNA in Lung Cancer (CITaDeL): Optimizing Sensitivity and Clinical Utility",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-05-01",
+      "completion_date": "2020-12-31",
+      "country": "Canada",
+      "enrollment": 40,
+      "brief_summary": "This is a prospective observation study in patients with non-small cell lung cancer (NSCLC) starting either cytotoxic chemotherapy or radiation therapy. It will assess changes in circulating tumor DNA (ctDNA) in the days following the initiation of treatment, as well as longitudinal monitoring, to assess the dynamics and value of ctDNA in stage III-IV NSCLC.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically diagnosed NSCLC\n* Age 18 or older\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0-3\n* Patients must be able to provide informed consent\n* Patients must meet the criteria above AND fulfill the criteria below for entry into one of the 3 cohorts",
+      "endpoints": [
+        "To measure the change in quantitative ctDNA levels following the initiation of cytotoxic chemotherapy or radiation",
+        "To identify the timepoint after the initiation of treatment at which the quantified level of ctDNA peaks",
+        "To detect genetic alterations at the time point of maximal ctDNA that were not present in baseline testing"
+      ],
+      "sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+      "url": "https://clinicaltrials.gov/study/NCT03986463"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00062270",
+      "title": "Neoadjuvant Chemoradiotherapy (Gemcitabine/Cisplatin and Taxotere) With or Without Co-Administration of ZD 1839 (Iressa) for Stage IIIA (N2) and Selective Stage IIIB Non-Small Cell Lung Cancer: Phase I-II Study",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "2004-09",
+      "country": "United States",
+      "enrollment": "N/A",
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells. Biological therapies such as gefitinib may interfere with the growth of the tumor cells and slow the growth of the tumor. Combining chemotherapy and radiation therapy with gefitinib before surgery may shrink the tumor so that it can be removed during surgery.\n\nPURPOSE: Phase I/II trial to compare the effectiveness",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically or cytologically confirmed non-small cell lung cancer\n\n  * Stage IIIA (T1-3, N2)\n\n    * Positive (pathological) ipsilateral mediastinal node\n  * Selective stage IIIB meeting all of the following criteria:\n\n    * No pleural/pericardial effusion or superior v",
+      "endpoints": [
+        "Determine the tolerability and toxicity of gefitinib in combination with chest radiotherapy in patients with stage IIIA or stage IIIB non-small cell lung cancer."
+      ],
+      "sponsor": "University of Alabama at Birmingham",
+      "url": "https://clinicaltrials.gov/study/NCT00062270"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00905983",
+      "title": "Phase II Study of Biweekly Gemcitabine and Docetaxel as First Line Treatment for Advanced Disease in Elderly Non Small Cell Lung Cancer (NSCLC) Patients.",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2007-10",
+      "completion_date": "2011-09",
+      "country": "Spain",
+      "enrollment": 48,
+      "brief_summary": "Lung cancer is one of the most common malignancies worldwide and the leading cause of cancer-related deaths in Western countries. Standard treatment for patients with good performance status (PS) stage IIIB/IV NSCLC currently includes a two-drug platinum-based chemotherapy regimen, but optimum treatment for elderly patients is less well-defined due to platinum related toxicities. Several drugs with novel mechanisms of action and significant activity in NSCLC have been developed; including doceta",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of advanced NSCLC.\n* Stage III with pleural effusion and stage IV.\n* Patients are 70 years old.\n* Patients with 1 \\> ECOG PS =1.\n* Patients must have at least one measurable lesion, no previously irradiated.\n* Life expectancy",
+      "endpoints": [
+        "Overall response rate = sum of complete and partial tumour responses divided by the number of included patients"
+      ],
+      "sponsor": "Hospital Arnau de Vilanova",
+      "url": "https://clinicaltrials.gov/study/NCT00905983"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00391586",
+      "title": "INST 0601C: A Non-Randomized Phase II Protocol of Erlotinib for Patients With Newly Diagnosed, Advanced Non-Small Cell Carcinoma of the Lung",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2006-07",
+      "completion_date": "2012-05",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "This study was conducted to compare the activities of erlotinib to that of intravenous, platinum-based therapy in the treatment of non-small cell lung cancer (NSCLC). The goal of this trial was to demonstrate clinical equivalence of erlotinib to platinum-based frontline therapy, compared to historical controls.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Prior chemotherapy will be allowed for other invasive malignancies, provided at least five years has elapsed since the completion of therapy and enrollment on this protocol. No prior chemotherapy for metastatic non-small cell lung cancer (NSCLC) will be allowed. Prior adjuvant",
+      "endpoints": [
+        "Progression-free Survival (PFS)",
+        "Toxicity Profile"
+      ],
+      "sponsor": "New Mexico Cancer Research Alliance",
+      "url": "https://clinicaltrials.gov/study/NCT00391586"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05062980",
+      "title": "A Phase 1/2 Open-Label, Dose-Escalation and Clinical Response Study of Quaratusugene Ozeplasmid in Combination With Pembrolizumab Versus Docetaxel With or Without Ramucirumab in Patients With Previously Treated Non-Small Cell Lung Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2022-03-30",
+      "completion_date": "2025-02-03",
+      "country": "United States",
+      "enrollment": 5,
+      "brief_summary": "The purpose of this study is to determine the safety and efficacy of quaratusugene ozeplasmid (Reqorsa), in combination with pembrolizumab in patients with previously treated NSCLC. Quaratusugene ozeplasmid consists of non-viral lipid nanoparticles that encapsulate a DNA plasmid with the TUSC2 tumor suppressor gene, and is a systemic gene therapy.\n\nThe study will be conducted in 2 phases, a dose escalation phase (Phase 1) and a safety and efficacy evaluation phase (Phase 2). In Phase 1, patients",
+      "eligibility_criteria": "Patients will have their most recent archival tumor biopsy submitted to a central laboratory for IHC analysis.\n\nInclusion Criteria:\n\n1. Age ≥18 years.\n2. Voluntarily signed an informed consent in accordance with institutional policies.\n3. Histologically or cytologically documented NSCLC (SQ, NSQ, or",
+      "endpoints": [
+        "Recommended Phase 2 Dose (RP2D) - Phase 1",
+        "Progression-free Survival (PFS) - Phase 2 Dose Expansion",
+        "Progression-free Survival (PFS) - Phase 2 Randomized"
+      ],
+      "sponsor": "Genprex, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT05062980"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07139041",
+      "title": "Treatment Strategy of Iparomlimab and Tuvonralimab Plus Chemotherapy for Inducing Conversion to Resectability in Initially Unresectable Stage III Non-Small Cell Lung Cancer: A Single-Arm Phase II Clinical Study",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2025-10",
+      "completion_date": "2029-06",
+      "country": "N/A",
+      "enrollment": 69,
+      "brief_summary": "This is a single-arm, multicenter Phase II clinical study designed to observe and evaluate the efficacy and safety of Iparomlimab and tuvonralimab plus chemotherapy in initially unresectable Stage III NSCLC. The study plans to enroll 69 Stage III NSCLC patients judged unresectable by a MDT team, with the R0 resection rate as the primary endpoint.\n\nAfter completing 2-4 cycles of conversion therapy, the MDT team reassesses resectability. Subjects deemed suitable for surgical resection undergo surg",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Signed an informed consent form\n2. Patients aged ≥18\n3. Histologically or cytologically confirmed Stage III (AJCC 9th ed.) squamous or non-squamous NSCLC (mixed tumors classified by predominant cell type), deemed unresectable by the MDT team based on at least one of the follo",
+      "endpoints": [
+        "R0 Resection Rate"
+      ],
+      "sponsor": "Shanghai Pulmonary Hospital, Shanghai, China",
+      "url": "https://clinicaltrials.gov/study/NCT07139041"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00153803",
+      "title": "A National Web-Based Randomized Phase III Study of Erlotinib or Placebo Following Concurrent Docetaxel, Carboplatin, and Thoracic Radiotherapy in Patients With Inoperable Stage III Non-Small Cell Lung Cancer (D0410).",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2014-04",
+      "country": "United States",
+      "enrollment": 245,
+      "brief_summary": "This is a national, randomized, web-based, double-blind study to determine whether erlotinib (Tarceva) compared to placebo improves progression-free survival (PFS) for patients with inoperable, stage III NSCLC following concurrent docetaxel, carboplatin and thoracic radiotherapy. We hypothesize that the introduction of this orally active, well-tolerated agent following concurrent chemoradiation and prior to the emergence of drug resistance will prolong the progression-free survival by 40% (10 mo",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Unresectable, stage IIIA or IIIB NSCLC (measurable disease is not required)\n* No evidence of metastatic disease\n* No prior treatment\n* Adequate organ function\n* Adequate pulmonary function (FEV \\>= 1.0L or predicted FEV \\>0.8L)\n\nExclusion Criteria:\n\n* Metastasis\n* Prior treatm",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Dartmouth-Hitchcock Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT00153803"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02455843",
+      "title": "A Multicenter, Randomized, Open-label Phase III Trial of Microwave Plus Chemotherapy Versus Chemotherapy for Advanced NSCLC",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2015-05",
+      "completion_date": "2018-05",
+      "country": "China",
+      "enrollment": 275,
+      "brief_summary": "This study is a multicenter, randomized, open-label Phase III trial that compares microwave plus chemotherapy versus chemotherapy in patients with advanced non-small cell lung cancer. The primary endpoint is progression free survival (PFS) and the key secondary endpoint is overall survival (OS). A total of 275 eligible patients will be randomized to receive either microwave ablation combinated with first-line platinum-based doublet chemotherapy（138） or first-line platinum-based doublet chemother",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of advanced stage NSCLC (stage IIIB or IV) which is confirmed by histology or cytology methods.\n2. Measurable disease other than the primary tumors site according to RECIST1.1.\n3. Eastern Cooperative Oncology Group (ECOG) score of 0-2\n4. Adequate organ function, def",
+      "endpoints": [
+        "progression free survival"
+      ],
+      "sponsor": "Shandong Provincial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02455843"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05633667",
+      "title": "A Phase 2 Platform Study Evaluating the Safety and Efficacy of Novel Treatment Combinations in Patients With Lung Cancer (VELOCITY-Lung)",
+      "phase": "PHASE2",
+      "status": "RECRUITING",
+      "start_date": "2023-03-16",
+      "completion_date": "2029-09",
+      "country": "Israel, South Korea, Brazil, Hong Kong, Taiwan, Turkey (Türkiye), United Kingdom, United States",
+      "enrollment": 593,
+      "brief_summary": "The goal of this platform clinical trial is to test how well novel treatment combinations work in participants with lung cancer. Substudy-01 will compare the different novel combinations versus standard of care in participants with metastatic (cancer that has spread) non-small-cell lung cancer (NSCLC) who have not been treated before. Substudy-02 will compare the different novel combination versus standard of care in participants with cancer that has progressed after receiving previous treatment",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\nAll Substudies:\n\n* Histologically or cytologically documented non-small-cell lung cancer (NSCLC).\n* No known actionable genomic alterations for which targeted therapies are available.\n* Eastern cooperative oncology group (ECOG) performance status score of 0 or 1.\n* Measurabl",
+      "endpoints": [
+        "Substudies 01 and 02: Objective Response Rate (ORR) as Assessed by the Investigator According to Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1",
+        "Substudy 03: Complete Pathological Response (pCR) Rate"
+      ],
+      "sponsor": "Gilead Sciences",
+      "url": "https://clinicaltrials.gov/study/NCT05633667"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00264134",
+      "title": "A Phase I/II Trial: Docetaxel, Irinotecan, and Carboplatin in the Treatment of Extensive Stage Small Cell Lung Carcinoma",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2003-06",
+      "completion_date": "2005-10",
+      "country": "United States",
+      "enrollment": 40,
+      "brief_summary": "Primary Objective: To determine the maximum tolerated dose of docetaxel when given with Irinotecan and Carboplatin for the treatment of inoperable lung cancer.\n\nSecondary Objective: To evaluate the dose-related toxicities of this triple regimen in patients with inoperable lung cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years or older unresectable lung cancer measurable or evaluable lesions Karnofsky PS greater than or equal to 60%\n\nExclusion Criteria:\n\n* untreated CNS metastases",
+      "endpoints": [
+        "Primary Objective: To determine the maximum tolerated dose of docetaxel when given with Irinotecan and Carboplatin for the treatment of inoperable lung cancer."
+      ],
+      "sponsor": "Kentuckiana Cancer Institute",
+      "url": "https://clinicaltrials.gov/study/NCT00264134"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00067548",
+      "title": "A Phase 2 Study of EKB-569 in Subjects With Advanced Non-Small Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2005-01",
+      "country": "N/A",
+      "enrollment": 44,
+      "brief_summary": "This non-randomized, open-label, outpatient clinical trial is designed to assess the safety and efficacy of daily orally administered EKB-569 in subjects with advanced non-small cell lung cancer. Patients must have been previously treated with a platinum- and docetaxel-based therapy either given concurrently or as separate regimens.\n\nThe primary objective of the study is to assess the clinical activity of EKB-569 administered orally as a second-line or later stage treatment in subjects with adva",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed and dated, institutional review board (IRB) or independent ethics committee (IEC)-approved informed consent form before any protocol-specific screening procedures\n* Histologic and/or cytologic diagnosis of locally-advanced or metastatic non-small cell lung cancer in sub",
+      "endpoints": [],
+      "sponsor": "Wyeth is now a wholly owned subsidiary of Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00067548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01204307",
+      "title": "A Phase III Study to Investigate the Differential Influence of Prior Chemotherapy on the Efficacy of Erlotinib in Patients With Advanced Non-small Cell Lung Cancer (IIIB, IV) With or Without EGFR Gene Mutation",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-01",
+      "completion_date": "2015-06",
+      "country": "Taiwan",
+      "enrollment": 101,
+      "brief_summary": "To compare the differential influence of 1st line doublet chemotherapy containing Docetaxel versus Pemetrexed on clinical efficacy of Erlotinib as a second line therapy in patients with relapsed or progressed non-squamous NSCLC.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients \\> 18 years, \\<75 years old\n2. Pathological confirmation of non-squamous NSCLC\n3. Clinical stage IIIB or IV\n4. Measurable tumor size by RECIST criteria\n5. ECOG \\<2\n6. Adequate hematological laboratory parameters\n7. Adequate hepatic, renal laboratory parameters\n\nExclu",
+      "endpoints": [
+        "Response rate to erlotinib with Docetaxel/cisplatin or Pemetrexed/cisplatin"
+      ],
+      "sponsor": "Chang Gung Memorial Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01204307"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00695994",
+      "title": "The Effect of Pharmacogenetics on Treatment Toxicities and Outcomes in East Asian and Caucasian Patients Undergoing Docetaxel or Gemcitabine-based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-10",
+      "completion_date": "2012-09",
+      "country": "Singapore",
+      "enrollment": 300,
+      "brief_summary": "The aims of this study are:\n\n1. to compare the toxicity profile and efficacy of gemcitabine/carboplatin or docetaxel in East Asian and Caucasian patients.\n2. to determine the genotype distribution of genes involved in docetaxel and gemcitabine pathways in East Asian and Caucasian patients.\n3. to evaluate the association between genotypes and\n\n   1. treatment toxicity\n   2. treatment efficacy\n   3. pharmacokinetics.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must have histologically or cytologically confirmed i) AJCC/UICC stage IIIB or IV non small cell lung cancer and stage IV breast cancer for which docetaxel is indicated. ii) AJCC/UICC stage IIIB or stage IV non small cell lung cancer for which gemcitabine/carboplatin ",
+      "endpoints": [
+        "Treatment toxicities"
+      ],
+      "sponsor": "National University Hospital, Singapore",
+      "url": "https://clinicaltrials.gov/study/NCT00695994"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00642824",
+      "title": "Local Substudy Associated to the International Study MO19390 to Determine the BRCA1 Gene mRNA Expression as a Predictive Marker of Response to Chemotherapy",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2007-05",
+      "completion_date": "2009-12",
+      "country": "Spain",
+      "enrollment": 3,
+      "brief_summary": "This single arm genetic substudy of MO19390 will test the hypothesis that there is a positive relationship between mRNA BRCAI levels and the response to different chemotherapy combinations plus Avastin. A subset of patients participating in MO19390, and receiving Avastin 15mg/kg iv on day 1 and subsequently once every 3 weeks, will undergo BRCAI mRNA expression determination. Depending on the BRCAI mRNA level (low, medium or high) they will receive a different chemotherapy regimen in combination",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* participating in, and meeting all inclusion/exclusion criteria of, MO19390.\n\nExclusion Criteria:\n\n* not meeting the inclusion/exclusion criteria of MO19390.",
+      "endpoints": [
+        "Progression-free survival"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT00642824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02358473",
+      "title": "Open-label, Multicenter Phase 1 Study of Mogamulizumab (KW-0761) in Combination With Docetaxel in Previously Treated Subjects With Non-small Cell Lung Cancer (NSCLC)",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2015-01",
+      "completion_date": "2016-12",
+      "country": "United States",
+      "enrollment": 13,
+      "brief_summary": "The purpose of this study is to evaluate the safety of mogamulizumab in combination with docetaxel in adult subjects with previously treated locally advanced or metastatic non-small cell lung cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed Stage IIIB or IV advanced or metastatic NSCLC with measurable neoplastic disease. Sputum cytology alone is not considered an acceptable method of diagnosis;\n* Prior therapy must meet all of the following criteria:\n\n  1. Subject has exp",
+      "endpoints": [
+        "Number of Subjects Reporting Adverse Events",
+        "Number of Subjects Reporting Serious Adverse Events",
+        "Number of Subjects Experiencing Dose-limiting Toxicity"
+      ],
+      "sponsor": "Kyowa Kirin Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02358473"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00086268",
+      "title": "Non-small Cell Lung Cancer Study US75 (Z-PACT)",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-04",
+      "completion_date": "2007-10",
+      "country": "United States",
+      "enrollment": 250,
+      "brief_summary": "This study will evaluate the effects of an investigational drug in combination with chemotherapy in patients with stage IIIB/IV non-small cell lung cancer. This study will measure the effects of this combination on progression of lung cancer, cancer response to treatments, and development of cancer-related bone lesions.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female patients at least of 18 years old\n* Patients with diagnosed non-small cell lung cancer that cannot be treated by surgery\n* Women must not be pregnant or attempting to become pregnant\n* Able and willing to sign informed consent\n\nExclusion Criteria:\n\n* Patients wi",
+      "endpoints": [],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT00086268"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01784549",
+      "title": "A Multi-center Phase II Randomized Study of Customized Neoadjuvant Therapy Versus Standard Chemotherapy in Non-small Cell Lung Cancer (NSLC) Patients With Resectable Stage IIIA (N2) Disease (CONTEST-TRIAL)",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2012-07",
+      "completion_date": "2015-12",
+      "country": "Italy",
+      "enrollment": 168,
+      "brief_summary": "* The investigators hypothesized that NSCL patients receiving therapy based on their baseline tumor markers levels would attain higher response rates than patients in the control arm receiving non customized therapy.\n* patients with stage IIIA(N2) NSCLC will be randomized in a 2:1 ratio to customized therapy based on biomarkers status (ERCC1, RRM1, TS and EGFR mutation) vs standard chemotherapy.\n* The primary objective of this multicenter trial is to compare pathological complete response of all",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of a signed and dated written informed consent document prior to any study specific procedures.\n* Age ≥18 years, male or female.\n* Histologically confirmed NSCLC.\n* Specimen tumor tissue obtained from mediastinoscopy\n* ECOG Performance status (PS) 0-1.\n* Stage IIIA(N",
+      "endpoints": [
+        "Pathologic Complete Response"
+      ],
+      "sponsor": "IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy",
+      "url": "https://clinicaltrials.gov/study/NCT01784549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00736814",
+      "title": "Genotype-driven Treatment of Advanced Non-small Cell Lung Cancer Based on mRNA Expression of ERCC1 & RRM1 as First-line Chemotherapy",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2008-06",
+      "completion_date": "",
+      "country": "South Korea",
+      "enrollment": 117,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy work in different ways to stop the growth of tumor cells, either by killing the cells or by stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor cells. It is not yet known which combination chemotherapy regimen is most effective in treating non-small cell lung cancer.\n\nPURPOSE: This randomized phase II trial is comparing different combination chemotherapy regimens to see how well they work as first-line therap",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Histologically proven or radiologically and clinically suspected stage IIIB (with malignant pleural effusion) or IV non-small cell lung cancer\n* Unresectable disease\n* At least 1 measurable lesion (\\> 10 mm with spiral CT scan or \\> 20 mm with conventional CT scan)\n* No s",
+      "endpoints": [
+        "Response rate (complete and partial responses)"
+      ],
+      "sponsor": "National Cancer Institute (NCI)",
+      "url": "https://clinicaltrials.gov/study/NCT00736814"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02326285",
+      "title": "Induction Therapy With Gefitinib Followed by Taxane Platinum Chemotherapy and Intercalated Gefitinib in NSCLC Stages II-IIIB With Activating EGFR Mutation - A Single Arm Phase II Trial.",
+      "phase": "PHASE2, PHASE3",
+      "status": "TERMINATED",
+      "start_date": "2015-11",
+      "completion_date": "2018-01",
+      "country": "Germany",
+      "enrollment": 1,
+      "brief_summary": "This study is designed as a single arm, un-controlled, open-label, multi-center hypothesis generating two-stage phase II trial. It is based on the assumption that the proposed treatment scheme doubles the rate of pathologic complete remission in Mutated epidermal growth factor receptor (EGFRmt) + NSCLC patients compared to historical control data from standard treatments.\n\nPatients with NSCLC and activating EGFR mutation in stages II, IIIA and IIIB eligible for induction therapy with docetaxel a",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with histologically or cytologically confirmed non-squamous non-small-cell lung cancer (NSCLC) stage II, IIIA and IIIB detected preoperatively by adequate methods and activating EGFR mutation in exons 18-21 and deemed to be able to undergo curative surgery after indu",
+      "endpoints": [
+        "pathologic complete remission rate (pCR rate)"
+      ],
+      "sponsor": "AIO-Studien-gGmbH",
+      "url": "https://clinicaltrials.gov/study/NCT02326285"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01668108",
+      "title": "Open, Multicenter Observational Study of Paclitaxel Utilized in Mono- or Combination Therapy for the Treatment of Breast Cancer, Non-small Cell Lung Cancer and Ovarial Cancer.",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2018-05",
+      "country": "Germany",
+      "enrollment": 770,
+      "brief_summary": "The main purpose of this observational study with Paclitaxel is to determine the number of treatment cycles and the quantity of Paclitaxel onkovis needed therefore under the special circumstance of ambulant chemotherapy.\n\nonkovis aims an economical utilization of the chemotherapeutics.The provision with adapted packaging sizes as to decrease the excess quantity to be discarded follows also this objective.\n\nSecondary objectives are the survey of the side effects of Paclitaxel onkovis in compariso",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Indication for Paclitaxel according to the SmPC and treating physician\n\nExclusion Criteria:\n\n* according to the Paclitaxel SmPC",
+      "endpoints": [
+        "the quantity of Paclitaxel onkovis needed pro treatment cycle"
+      ],
+      "sponsor": "Onkovis GmbH",
+      "url": "https://clinicaltrials.gov/study/NCT01668108"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00073385",
+      "title": "A Randomized Trial of Pivanex Plus Docetaxel or Docetaxel Monotherapy in Patients With Chemotherapy Resistant Advanced Non-Small Cell Carcinoma of the Lung (NSCLC)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-09",
+      "completion_date": "2004-10",
+      "country": "United Kingdom, India, United States",
+      "enrollment": 225,
+      "brief_summary": "This randomized study will assess the efficacy and safety of the combination of Pivanex and docetaxel compared to docetaxel alone in patients with a type of lung cancer called non-small cell lung cancer. Pivanex is an investigational agent, and docetaxel is an approved drug.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed non-small cell lung cancer (NSCLC); Treatment with one prior platinum-based chemotherapy regimen (Eligible patients may include:\n\n  1. Patients previously treated with adjuvant or neoadjuvant chemotherapy (must be completed within 6 mo",
+      "endpoints": [],
+      "sponsor": "Titan Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT00073385"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06881784",
+      "title": "RASolve 301: Phase 3 Multicenter, Open Label, Randomized Study of RMC-6236 Versus Docetaxel in Patients With Previously Treated Locally Advanced or Metastatic RAS[MUT] NSCLC",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-05-06",
+      "completion_date": "2030-12-01",
+      "country": "South Korea, France, Singapore, Spain, Hong Kong, Taiwan, Puerto Rico, Switzerland, Italy, Germany, Australia, Ireland, Netherlands, Poland, Japan, Belgium, United States",
+      "enrollment": 420,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of a novel RAS(ON) inhibitor compared to docetaxel.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years old and has provided informed consent.\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n* Pathologically confirmed NSCLC, either locally advanced or metastatic, not amenable to curative surgery or radiotherapy.\n* Measurable disease pe",
+      "endpoints": [
+        "Progression free survival (PFS) per Investigator in the RAS G12X-C population (i.e RAS G12X excluding G12C)",
+        "Overall survival (OS) in the RAS G12X-C population"
+      ],
+      "sponsor": "Revolution Medicines, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06881784"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02393248",
+      "title": "A Phase 1/2, Open-Label, Dose-Escalation, Safety and Tolerability Study of INCB054828 in Subjects With Advanced Malignancies (FIGHT-101)",
+      "phase": "PHASE1, PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2015-02-27",
+      "completion_date": "2021-12-17",
+      "country": "Denmark, United States",
+      "enrollment": 201,
+      "brief_summary": "The purpose of this study will be to evaluate the safety, tolerability, and pharmacological activity of pemigatinib in subjects with advanced malignancies. This study will have three parts, dose escalation (Part 1), dose expansion (Part 2) and combination therapy (Part 3).",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subjects, age 18 years or older on day of signing consent\n2. Part 1: Any advanced solid tumor malignancy; Part 2: Subjects with squamous non-small cell lung cancer, cholangiocarcinoma/gastric cancer, urothelial cancer, breast/endometrial cancer, multiple myelom",
+      "endpoints": [
+        "Parts 1 and 2 Combined: Number of Participants With Any Treatment-emergent Adverse Event (TEAE)",
+        "Part 3: Number of Participants With Any TEAE",
+        "E0 Following Once Daily Dosing of Pemigatinib as Monotherapy in Parts 1 and 2"
+      ],
+      "sponsor": "Incyte Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT02393248"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04794699",
+      "title": "An Open Label, Phase 1, Treatment Study to Evaluate the Safety, Pharmacokinetics and Pharmacodynamics of IDE397 (MAT2A Inhibitor) In Adult Participants With Advanced Solid Tumors",
+      "phase": "PHASE1",
+      "status": "RECRUITING",
+      "start_date": "2021-04-14",
+      "completion_date": "2027-03-30",
+      "country": "South Korea, France, Spain, Taiwan, Germany, Australia, United States",
+      "enrollment": 180,
+      "brief_summary": "This is a Phase 1, open-label, multicenter, dose escalation and expansion study of the safety, PK, PD, and preliminary anti-tumor activity of IDE397 as a single agent and in combination with other anticancer agents including taxanes (docetaxel, paclitaxel), or sacituzumab govitecan (SG), in adult patients with selected advanced or metastatic MTAP-deleted advanced solid tumors who are unresponsive to standard of care therapy. IDE397 is a small molecule inhibitor of methionine adenosyltransferase ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must be at least 18 years of age\n* Advanced or metastatic solid tumor that has progressed on at least one prior line of treatment or is intolerant to additional effective standard therapy\n* Have evidence of homozygous loss of MTAP or MTAP deletion\n* Willing to unde",
+      "endpoints": [
+        "Dose-limiting Toxicities (DLTs) of IDE397",
+        "Dose-limiting Toxicities (DLTs) of IDE397 in combination with docetaxel or paclitaxel or sacituzumab govitecan",
+        "Maximum Tolerated Dose (MTD) and/or Recommended Phase 2 Dose (RP2D) of IDE397"
+      ],
+      "sponsor": "IDEAYA Biosciences",
+      "url": "https://clinicaltrials.gov/study/NCT04794699"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04430933",
+      "title": "A Phase 1/2 Study of NC318 in Combination With Chemotherapy for Subjects With Advanced or Metastatic Non-Small Cell Lung Cancer",
+      "phase": "PHASE1, PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2021-12-06",
+      "completion_date": "2022-10-30",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This research study is studying an investigational drug, NC318, as a possible treatment for subjects with advanced or metastatic non-small cell lung cancer in combination with chemotherapy",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women aged 18 or older.\n* Willingness to provide written informed consent for the study.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 1.\n* Have a life expectancy of at least 6 months\n* Locally advanced or metastatic disease; locally advanced dise",
+      "endpoints": [
+        "Number of participants with treatment-emergent adverse events as assessed by CTCAE v5.0"
+      ],
+      "sponsor": "NextCure, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT04430933"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00003587",
+      "title": "Randomized Phase II Trial of Carboplatin/Gemcitabine Followed By Paclitaxel or Cisplatin/Vinorelbine Followed by Docetaxel in Advanced Non-Small Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "1998-10",
+      "completion_date": "2007-01",
+      "country": "United States",
+      "enrollment": 204,
+      "brief_summary": "RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so they stop growing or die. Combining more than one drug may kill more tumor cells.\n\nPURPOSE: Randomized phase II trial to study the effectiveness of two different combination chemotherapy regimens in treating patients who have stage IIIB or stage IV non-small cell lung cancer",
+      "eligibility_criteria": "DISEASE CHARACTERISTICS: Histologically confirmed newly diagnosed stage IIIB or IV advanced primary non-small cell lung cancer (adenocarcinoma, large cell carcinoma, squamous cell carcinoma, or unspecified) or recurrent non-small cell lung cancer after previous surgery and/or radiotherapy Stage IIIB",
+      "endpoints": [],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT00003587"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT05500092",
+      "title": "An Open Label, Randomized Study of Neoadjuvant Nivolumab and Chemotherapy, With or Without Sub-ablative Stereotactic Body Radiation Therapy, for Resectable Stage IIA to IIIB Non-small Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2023-01-25",
+      "completion_date": "2030-05",
+      "country": "United States",
+      "enrollment": 17,
+      "brief_summary": "An open label, randomized study of neoadjuvant nivolumab and chemotherapy, with or without sub-ablative stereotactic body radiation therapy, for resectable stage IIA to IIIB non-small cell lung cancer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patient has histologically or cytologically proven clinical stages IIA (tumors \\> 4 cm), IIB, IIIA, and IIIB (T3 or T4, N2) NSCLC (AJCC version 8) and is considered eligible for surgical resection with curative intent. Patients with 2 primary non-small cell lung cancers are a",
+      "endpoints": [
+        "Complete Pathological Response Rate"
+      ],
+      "sponsor": "Montefiore Medical Center",
+      "url": "https://clinicaltrials.gov/study/NCT05500092"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06182800",
+      "title": "A Prospective Study of Adebrelimab Combined With Bevacizumab and Docetaxel in the Treatment of Advanced Non-Squamous Non-small Cell Lung Cancer After Progression on First-line Immunotherapy",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-27",
+      "completion_date": "2025-12-30",
+      "country": "N/A",
+      "enrollment": 35,
+      "brief_summary": "This study is a prospective, single-arm, multicenter, phase II clinical study to observe and evaluate the efficacy and safety of adebrelimab in combination with bevacizumab and docetaxel in patients with advanced non-squamous NSCLC after progression on first-line immunotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. voluntarily enrolled in this study and signed the Informed Consent Form (ICF).\n2. age ≥ 18 years and both sexes\n3. patients with metastatic or recurrent stage IV non-squamous NSCLC (AJCC 8th edition Tumor Node Metastasis (TNM) stage) proven by histopathological or cytopatholo",
+      "endpoints": [
+        "6-month PFS rate"
+      ],
+      "sponsor": "The First Affiliated Hospital of Xinxiang Medical College",
+      "url": "https://clinicaltrials.gov/study/NCT06182800"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03735264",
+      "title": "Anlotinib Combined With Docetaxel For Advanced Non-Small Cell Lung Cancer After The Failure Of Platinum-Based Doublet-Chemotherapy",
+      "phase": "PHASE2",
+      "status": "UNKNOWN",
+      "start_date": "2018-11-15",
+      "completion_date": "2020-10-15",
+      "country": "N/A",
+      "enrollment": 46,
+      "brief_summary": "Anlotinib is a multi-target receptor tyrosine kinase inhibitor in domestic research and development. It can inhibit the angiogenesis related kinase, such as VEGFR, FGFR, PDGFR, and tumor cell proliferation related kinase -c-Kit kinase. In the phase Ⅲ study, patients who failed at least two kinds of systemic chemotherapy (third line or beyond) or drug intolerance were treated with anlotinib or placebo, the anlotinib group PFS and OS were 5.37 months and 9.63 months, the placebo group PFS and OS w",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Signed the informed consent form prior to patient entry;\n* ECOG PS：0-2;Expected Survival Time: Over 3 months;\n* EGFR、ALK、ROS1 mutation-negative；Patients with squamous cell carcinoma may not have genetic testing;\n* Diagnosed with advanced NSCLC (phase IIIB/IV) through pathology",
+      "endpoints": [
+        "Progress free survival (PFS)"
+      ],
+      "sponsor": "The Affiliated Hospital of Qingdao University",
+      "url": "https://clinicaltrials.gov/study/NCT03735264"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01362400",
+      "title": "A Phase 2, Double-Blind, Placebo-Controlled Study of IPI-504 and Docetaxel in Previously Treated Patients With Stage IIIB or IV Non-Small Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2011-05",
+      "completion_date": "2014-04",
+      "country": "South Korea, Taiwan, Russia, Hungary, Romania, United States",
+      "enrollment": 226,
+      "brief_summary": "The purpose of this study is to compare the impact of IPI-504 in combination with docetaxel to placebo in combination with docetaxel on life expectancy in patients with Non Small Cell Lung cancer (NSCLC). Docetaxel is an approved chemotherapy for NSCLC. An additional goal of the study is to determine the effect of IPI-504, in combination with docetaxel, verses placebo in, combination with docetaxel, on the growth of cancer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be ≥18 years of age\n* Voluntarily signed an informed consent\n* Confirmed NSCLC and Stage IIIB or IV disease.\n* At least a ≥15 pack year smoking history and must have been an active smoker within 20 years of diagnosis.\n* Must have archival NSCLC tissue available t",
+      "endpoints": [
+        "Overall Survival"
+      ],
+      "sponsor": "Infinity Pharmaceuticals, Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01362400"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07393555",
+      "title": "A Randomized Phase II Study of Sacituzumab Govitecan Alone, Ivonescimab Alone, or Sacituzumab Govitecan and Ivonescimab in Participants With Previously-Treated Actionable Genomic Alteration Positive Stage IV or Recurrent Non-Small Cell Lung Cancer (Lung-MAP Sub-Study)",
+      "phase": "PHASE2",
+      "status": "NOT_YET_RECRUITING",
+      "start_date": "2026-08-07",
+      "completion_date": "2029-11",
+      "country": "N/A",
+      "enrollment": 117,
+      "brief_summary": "This phase II Expanded Lung-MAP treatment trial compares how well sacituzumab govitecan alone, ivonescimab alone, or sacituzumab govitecan in combination with ivonescimab works in treating patients with non-small cell lung cancer (NSCLC) that has come back after a period of improvement (recurrent) or is stage IV and has a change in at least 1 of these genes: ALK, EGFR, HER2 (ERBB2), MET, NTRK, RET, and ROS1. This type of gene change is called an actionable genomic alteration (AGA), which means c",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have been assigned to S1900N by the Southwest Oncology Group (SWOG) Statistics and Data Management Center (SDMC). Assignment to S1900N is determined by submission of documentation of NSCLC harboring an actionable genomic alteration (AGA) in the LUNGMAP protoc",
+      "endpoints": [
+        "Progression-free survival (PFS) (Comparison between arms)",
+        "PFS (Comparison between arms)",
+        "Response rate of SG against historical response rates (Single arm evaluation)"
+      ],
+      "sponsor": "SWOG Cancer Research Network",
+      "url": "https://clinicaltrials.gov/study/NCT07393555"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00295672",
+      "title": "Oral Vinorelbine and Cisplatin and Concurrent Radiotherapy After Induction Chemotherapy With Cisplatin-docetaxel in Patients With Locally Advanced Non-small-cell Lung Cancer. A Multicenter Phase II Trial",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2006-02",
+      "completion_date": "2007-06",
+      "country": "France",
+      "enrollment": 60,
+      "brief_summary": "Our aim is to conducted a multicenter phase II trial of the cisplatin-oral vinorelbine -radiotherapy combination after induction chemotherapy with cisplatin-docetaxel in patient with NSCLC. Oral vinorelbine will be used in the present study rather than the intravenous form because: 1- Previous investigations have demonstrated that oral vinorelbine is as effective as the intravenous form in the treatment of NSCLC. 2 - We think that the use of oral agents in CT will reduce some disagreements provo",
+      "eligibility_criteria": "Inclusion Criteria:\n\nhistologically or cytologically documented inoperable stage IIIA N2 or IIIB NSCLC previously untreated, absence of malignant pleural effusion, performance status (PS) =1 and patient life expectancy of at least 12 weeks.\n\nExclusion Criteria:\n\nmetastatic disease, small Cell lung c",
+      "endpoints": [
+        "TUMORAL RESPONSE (RECIST)",
+        "TOXICITY (NCI 20)"
+      ],
+      "sponsor": "University Hospital, Brest",
+      "url": "https://clinicaltrials.gov/study/NCT00295672"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03606239",
+      "title": "A Phase II Open-Label Multi-center Trial of Isotoxic Hypofractionated Chemoradiotherapy for NSCLC",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2019-02-01",
+      "completion_date": "2026-02-01",
+      "country": "China",
+      "enrollment": 30,
+      "brief_summary": "Radiotherapy plays an important role in non-small cell lung cancer (NSCLC), and concurrent chemoradiation is considered to be the standard treatment for locally advanced NSCLC. However, due to the patient's physical condition, comorbidities and other reasons, only about 1/3 of patients can receive concurrent chemoradiation. Radiotherapy alone or sequential chemoradiation has become the treatment protocol for most patients. Hypofractionated radiotherapy can be used in NSCLC because it can shorten",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Pathological or cytological diagnosis of non-small cell lung cancer patients, the clinical stage using the eighth edition of American Joint Committee on Cancer（AJCC）, including stage III without resectable or who when SBRT/SABR are not suitable;\n2. Age ≥ 18 years，≤ 75 years;\n",
+      "endpoints": [
+        "radiation induced esophagitis and radiation induced pneumonitis"
+      ],
+      "sponsor": "The Second Hospital of Hebei Medical University",
+      "url": "https://clinicaltrials.gov/study/NCT03606239"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03673657",
+      "title": "A Prospective, Single-arm, Phase II Study of Early Nutritional Intervention During Concurrent Chemoradiotherapy for Local Advanced Non-small Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2018-08-10",
+      "completion_date": "2023-08-31",
+      "country": "China",
+      "enrollment": 67,
+      "brief_summary": "This single-arm phase II prospective study is to determine the efficacy of early nutritional intervention during concurrent chemoradiotherapy for local advanced non-small cell lung cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed unresectable stage IIIA-IIIC non-small cell lung cancer.\n* Recieved definitive concurrent chemoradiotherapy.\n* Pretreatment PG-SGA score A or B.\n* Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\n* Estimated life expectancy of at least 6 months.\n* Wi",
+      "endpoints": [
+        "The incidence of weight loss ≥5% during the treatment"
+      ],
+      "sponsor": "Sun Yat-sen University",
+      "url": "https://clinicaltrials.gov/study/NCT03673657"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00210171",
+      "title": "Multicentric Phase II Study of Concomitant Chemo-radiotherapy in Locally Advanced Non Small Cell Lung Cancer, With :- Induction Chemotherapy by Cisplatin - Docetaxel- Concomitant Chemo-radiotherapy by Weekly Cisplatin - Docetaxel- Consolidation Chemotherapy by Docetaxel",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2004-05",
+      "completion_date": "2004-05",
+      "country": "France",
+      "enrollment": 0,
+      "brief_summary": "Feasibility of pragmatic concomitant chemo-radiotherapy association with 1 cycle of Induction chemotherapy, weekly chemo-radiotherapy, and consolidation chemotherapy.",
+      "eligibility_criteria": "Inclusion criteria:\n\nHistologically or cytologically confirmed newly diagnosed, untreated, unresectable stage IIIA or stage IIIB non-small cell lung cancer Not scheduled for curative cancer surgery No pleural effusion At least 1 bidimensionally or unidimensionally measurable lesion Age 18 years et 7",
+      "endpoints": [
+        "Objective response"
+      ],
+      "sponsor": "Institut Bergonié",
+      "url": "https://clinicaltrials.gov/study/NCT00210171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00198393",
+      "title": "Randomized Phase 2 Study of 3 Therapeutic Modalities in PS 2/3 Patients With NSCLC Stage IIIB/IV",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2008-12",
+      "country": "France",
+      "enrollment": 126,
+      "brief_summary": "Patients presenting a deterioration of the general state (performance status \\[PS\\] 2-3), constitute a population which needs an adapted treatment. An analysis was made of the evolution of PS 2 patients included in the Eastern Cooperative Oncology Group (ECOG) 1594 trial which evaluated associations of new cytotoxic agents (gemcitabine, paclitaxel, docetaxel) with cisplatin. During this trial, the inclusion of these patients stopped due to the occurrence of toxicities more frequent than in the o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Stage IIIB/IV NSCLC\n* patients with performance status 2 or 3.",
+      "endpoints": [
+        "Progression-free Survival (PFS)"
+      ],
+      "sponsor": "Intergroupe Francophone de Cancerologie Thoracique",
+      "url": "https://clinicaltrials.gov/study/NCT00198393"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01204099",
+      "title": "Phase 1/2 Study of PX-866 and Docetaxel in Patients With Solid Tumors",
+      "phase": "PHASE1, PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-09",
+      "completion_date": "2014-02",
+      "country": "Canada, United States",
+      "enrollment": 223,
+      "brief_summary": "Phase 1: To determine the maximally tolerated dose (MTD) or recommended dose (RD) and any potential efficacy of PX-866 in combination with docetaxel in patients with solid tumors.\n\nPhase 2: To determine the antitumor activity and safety of PX-866 in combination with docetaxel versus docetaxel alone in patients with NSCLC or SCCHN.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years at time of consent\n* Agrees to use a medically accepted form of contraception from the time of consent to completion of all follow up study visits\n* If female of child bearing potential, negative pregnancy test (not required for post menopausal females)\n* Sig",
+      "endpoints": [
+        "Progression Free Survival"
+      ],
+      "sponsor": "Seagen Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01204099"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01138163",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial of Bavituximab Plus Docetaxel in Patients With Previously Treated Locally Advanced or Metastatic Non-Squamous Non Small-Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2013-05",
+      "country": "India, Russia, Ukraine, Georgia, United States",
+      "enrollment": 121,
+      "brief_summary": "The primary purpose of this research study is to see whether adding bavituximab (an investigational drug) to the standard chemotherapy drug docetaxel, will improve the results of the treatment for non-small-cell lung cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adults over age 18 years of age with a life expectancy of at least 3 months.\n* Histologically or cytologically confirmed stage IIIB or stage IV non squamous non-small-cell lung cancer (NSCLC) who have progressed after 1 chemotherapy regimen.\n* Measurable disease by Response Ev",
+      "endpoints": [
+        "Objective Response Rate"
+      ],
+      "sponsor": "Peregrine Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT01138163"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01240447",
+      "title": "A Prospective, Randomised, Open Label Phase II Study of Active Specific Immunotherapy With Racotumomab Versus Support Treatment in Patients With Advanced Non-small Cell Lung Cancer",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2009-09",
+      "completion_date": "2014-06",
+      "country": "Argentina",
+      "enrollment": 7,
+      "brief_summary": "This study is designed to evaluate safety and immunogenicity of racotumomab in patients with advanced Non-small Cell Lung Cancer (NSCLC), in concomitance with chemotherapy (docetaxel) when a second-line therapy is indicated. The study will also compare survival and progression free survival on both study arms.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. The patient (aged over 21 years, either sex) can comply with the protocol and scheduled appointments and sign voluntarily the informed consent form\n2. Diagnosis of Non-small cell lung cancer (NSCLC) stages IIIA (surgically unresectable), IIIB or IV, according to the TNM class",
+      "endpoints": [
+        "Number of Participants with Adverse events as a measure of safety and tolerability",
+        "Evaluation of the reactivity if the antibodies against X63 tumor line",
+        "Determination of T supressor cell (Treg cell) frequency by immunostaining and flow cytometry."
+      ],
+      "sponsor": "Laboratorio Elea Phoenix S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT01240447"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01038752",
+      "title": "Combination of Non-Cytotoxic Suramin With Docetaxel and Carboplatin in Chemo-Naive Non-small Cell Lung Cancer (NSCLC): A Randomized Single-Blind Placebo-Controlled Phase II Study",
+      "phase": "PHASE2",
+      "status": "TERMINATED",
+      "start_date": "2010-08",
+      "completion_date": "2013-05",
+      "country": "United States",
+      "enrollment": 14,
+      "brief_summary": "The purpose of this study is to evaluate the benefit of adding suramin at a non-cytotoxic dose to carboplatin and docetaxel regimen in the treatment of chemo-naïve patients with non-small cell lung cancer.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically proven on-small cell lung cancer (NSCLC), including squamous cell carcinoma.\n* Newly-diagnosed stage IIIB with malignant pleural effusion, stage IV or recurrent disease.\n* Known central nervous system metastases if patients are asymptomatic and ",
+      "endpoints": [
+        "Progression-free Survival for Participants With Stage IIIB/IV NSCLC Per RECIST Criteria"
+      ],
+      "sponsor": "Optimum Therapeutics, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT01038752"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04367311",
+      "title": "A Phase II Study of Adjuvant Treatment With Cisplatin-based Chemotherapy Plus Concomitant Atezolizumab in Patients With Stage I (Tumors ≥ 4cm), IIA, IIB, and Select Stage III [Any T1-3 N1-2 and T4N0-2] Resected Non-small Cell Lung Cancer (NSCLC) and the Clearance of Circulating Tumor DNA (ctDNA) Big Ten Cancer Research Consortium BTCRC-LUN19-396",
+      "phase": "PHASE2",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2020-05-22",
+      "completion_date": "2026-03",
+      "country": "United States",
+      "enrollment": 100,
+      "brief_summary": "The vast majority of patients with stage I (tumors ≥ 4cm), IIA, IIB (and select stage III) NSCLC are managed with upfront surgery, followed by adjuvant chemotherapy. However, relapse rates remain high and are primarily due to distant, metastatic disease. Previous meta-analysis evaluating the use of neo-adjuvant chemotherapy and adjuvant chemotherapy demonstrate a similar impact on improved disease free survival (DFS) and overall survival (OS). The role of checkpoint inhibitors has been proven to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent and HIPAA authorization for release of personal health information. NOTE: HIPAA authorization may be included in the informed consent or obtained separately.\n* Age \\>= 18 years at the time of consent.\n* ECOG Performance Status of 0-1 within 28 days pri",
+      "endpoints": [
+        "Percentage of patients with undetectable ctDNA after 4 cycles of adjuvant chemotherapy + Atezolizumab plus up to 13 additional cycles of Atezolizumab in patients with stage I (tumors ≥ 4cm), IIA, IIB, and select stage III [any T1-3 N1-2 and T4N0-2]"
+      ],
+      "sponsor": "Big Ten Cancer Research Consortium",
+      "url": "https://clinicaltrials.gov/study/NCT04367311"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03178552",
+      "title": "A Phase II/III Multicenter Study Evaluating the Efficacy and Safety of Multiple Targeted Therapies as Treatments for Patients With Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC) Harboring Actionable Somatic Mutations Detected in Blood (B-FAST: Blood-First Assay Screening Trial)",
+      "phase": "PHASE2, PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2017-09-22",
+      "completion_date": "2026-10-31",
+      "country": "Brazil, Singapore, Spain, Mexico, Russia, Peru, Canada, Belgium, Chile, Taiwan, Turkey (Türkiye), Serbia, Germany, Australia, Thailand, Israel, South Korea, Hong Kong, Poland, Argentina, Japan, United States, France, Panama, Italy, China, New Zealand",
+      "enrollment": 1000,
+      "brief_summary": "This is a phase 2/3, global, multicenter, open-label, multi-cohort study designed to evaluate the safety and efficacy of targeted therapies or immunotherapy as single agents or in combination in participants with unresectable, advanced or metastatic NSCLC determined to harbor oncogenic somatic mutations or positive by tumor mutational burden (TMB) assay as identified by a blood-based next-generation sequencing (NGS) circulating tumor DNA (ctDNA) assay.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of unresectable Stage IIIb not amenable to treatment with combined modality chemoradiation (advanced) or Stage IV (metastatic) NSCLC\n* Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2\n* Measurable disease\n* Ad",
+      "endpoints": [
+        "Cohort A: Percentage of Participants with Confirmed Objective Response as Assessed by the Investigator Based on the Response Evaluation Criteria in Solid Tumors (RECIST) Version (v) 1.1",
+        "Cohort B: Percentage of Participants with Confirmed Objective Response as Assessed by the Investigator Based on RECIST v1.1",
+        "Cohort C: Progression Free Survival (PFS) as Assessed by the Investigator Based on RECIST v1.1 in bTMB PP1"
+      ],
+      "sponsor": "Hoffmann-La Roche",
+      "url": "https://clinicaltrials.gov/study/NCT03178552"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00805194",
+      "title": "Multicentre, Randomised, Double-blind, Phase III Trial to Investigate the Efficacy and Safety of Oral BIBF 1120 Plus Standard Docetaxel Therapy Compared to Placebo Plus Standard Docetaxel Therapy in Patients With Stage IIIB/IV or Recurrent Non Small Cell Lung Cancer After Failure of First Line Chemotherapy",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-12-03",
+      "completion_date": "2017-11-13",
+      "country": "Bulgaria, Spain, Switzerland, Russia, Belgium, Croatia, India, Slovakia, Germany, Portugal, Romania, Lithuania, Israel, South Korea, South Africa, Greece, Belarus, Austria, Georgia, Ukraine, Poland, France, Czechia, Italy, Denmark, China, United Kingdom",
+      "enrollment": 1314,
+      "brief_summary": "The present trial will be performed to evaluate whether BIBF 1120 in combination with standard therapy of docetaxel in patients with stage IIIB/IV or recurrent NSCLC is more effective as compared to placebo in combination with standard therapy of docetaxel. A secondary aim is to obtain safety information as well as information on quality of life of patients treated with BIBF 1120 in combination to standard therapy with docetaxel. In addition, blood will be collected for pharmacokinetic analysis.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* male or female patient aged 18 years or older;\n* histologically or cytologically confirmed, locally advanced and/or metastatic NSCLC of stage IIIB or IV or recurrent NSCLC;\n* relapse or failure of one first line prior chemotherapy;\n* at least one target tumour lesion that has ",
+      "endpoints": [
+        "Progression Free Survival (PFS) as Assessed by Central Independent Review"
+      ],
+      "sponsor": "Boehringer Ingelheim",
+      "url": "https://clinicaltrials.gov/study/NCT00805194"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00424853",
+      "title": "Randomized Phase II Trial of Two Sequential Schedules of Docetaxel and Cisplatin Followed by Gemcitabine in Patients With Advanced Non-small-cell Lung Cancer.",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2005-05",
+      "completion_date": "2008-08",
+      "country": "Italy",
+      "enrollment": 88,
+      "brief_summary": "This is a multicenter, open-label, randomized phase II trial whose aim is to assess the antitumor activity of two sequential schedules of docetaxel and cisplatin followed by gemcitabine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed diagnosis of NSCLC; Histologic subtypes may include large cell, squamous cell, or adenocarcinoma or a generic cytological diagnosis of NSCLC;\n* Patients must have a locoregionally advanced unresectable non metastatic NSCLC Stage IIIB (",
+      "endpoints": [
+        "overall response rate assessed by RECIST criteria."
+      ],
+      "sponsor": "Sanofi",
+      "url": "https://clinicaltrials.gov/study/NCT00424853"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00070629",
+      "title": "Promune™ (CPG 7909 Injection) In Combination With Chemotherapy In Patients With Advanced Or Metastatic Non-Small Cell Lung Cancer, A Randomized, Multi-Center, Controlled, Phase 2 Study",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2003-05",
+      "completion_date": "2007-07",
+      "country": "Germany, Canada, United States",
+      "enrollment": 116,
+      "brief_summary": "Eligible patients will be randomized in a ratio of 2:1 to receive either chemotherapy (a taxane and a platinum compound) plus CPG 7909 Injection or chemotherapy alone. Protocol therapy will be administered until disease progression or intolerable toxicity. CpG 7909 Injection will be administered subcutaneously, on Weeks 2 and 3 of each three-week cycle (days 8 and 15) and chemotherapy will be administered on Week 1 (Day 1). Patients will undergo complete disease evaluation at the end of every ot",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically or cytologically confirmed non-small cell lung cancer that is beyond surgical cure or that is metastatic (Stage IIIB or IV according to AJCC).\n* Patients must have measurable disease according to the RECIST criteria.\n\nExclusion Criteria:\n\n* Prior treatment with ",
+      "endpoints": [
+        "Efficacy- overall response rate (CR & PR) according to the RECIST criteria",
+        "Safety- drug exposure, adverse events, laboratory tests, vital signs, ECG, and physical examinations"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00070629"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06635824",
+      "title": "A Prospective, Open-Label, Randomized, Phase 3 Trial of Acasunlimab (GEN1046) in Combination With Pembrolizumab Versus Docetaxel in Subjects With PD-L1 Positive Metastatic Non-Small Cell Lung Cancer After Treatment With a PD-1/PD-L1 Inhibitor and Platinum-Containing Chemotherapy (ABBIL1TY NSCLC-06)",
+      "phase": "PHASE3",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "start_date": "2024-11-25",
+      "completion_date": "2028-09-30",
+      "country": "Bulgaria, Brazil, Spain, Puerto Rico, Canada, Belgium, Chile, Croatia, Taiwan, Turkey (Türkiye), Hungary, Germany, Australia, Portugal, South Korea, Greece, Austria, Ireland, Poland, Argentina, Japan, Estonia, United States, France, Italy, United Kingdom, Netherlands",
+      "enrollment": 190,
+      "brief_summary": "This is a multicenter, randomized, open-label, international, Phase 3 trial to evaluate the efficacy and safety of acasunlimab in combination with pembrolizumab versus docetaxel (standard of care) in participants with locally advanced (unresectable stage IIIB/C) or programmed death ligand 1 (PD-L1)-positive metastatic non-small cell lung cancer (NSCLC) who have been treated with programmed cell death protein 1 (PD-1)/PD-L1 inhibitor and platinum-containing chemotherapy, administered either in co",
+      "eligibility_criteria": "Key Inclusion Criteria:\n\n* Participant has histologically or cytologically confirmed locally advanced (unresectable stage IIIB/C) or metastatic NSCLC (stage IV) with known subtype.\n* Participant has progressed radiographically on or after receiving:\n\n  * One prior line of therapy (PD-1/PD-L1 inhibit",
+      "endpoints": [
+        "Overall Survival (OS)"
+      ],
+      "sponsor": "Genmab",
+      "url": "https://clinicaltrials.gov/study/NCT06635824"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02450539",
+      "title": "A Randomized Phase 2 Study of Abemaciclib (LY2835219) Versus Docetaxel in Patients With Stage IV Squamous Non-Small Cell Lung Cancer Previously Treated With Platinum-Based Chemotherapy",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2015-08-06",
+      "completion_date": "2020-07-29",
+      "country": "South Korea, France, Spain, Taiwan, Russia, Italy, Hungary, Ukraine, Germany, Australia, Romania, Poland, United States",
+      "enrollment": 159,
+      "brief_summary": "The main purpose of this study is to evaluate the effectiveness of the study drug known as abemaciclib versus docetaxel in participants with stage IV squamous non-small cell lung cancer (NSCLC) previously treated with platinum-based chemotherapy.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of stage IV NSCLC.\n* Have progressed during or after platinum-based chemotherapy for advanced disease.\n* Have not received prior treatment with docetaxel.\n* Have availability of adequate formalin-fixed paraffin-embedded (FFPE) tumor derived material.\n* Have",
+      "endpoints": [
+        "Progression Free Survival (PFS)"
+      ],
+      "sponsor": "Eli Lilly and Company",
+      "url": "https://clinicaltrials.gov/study/NCT02450539"
+    }
+  ],
+  "timestamp": "2026-03-04T16:52:42.199577",
+  "success": true,
+  "error_message": null
+}

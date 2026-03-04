@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Testosterone"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00624",
+    "name": "Testosterone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T16:26:04.983109",
+  "success": true,
+  "error_message": null
+}

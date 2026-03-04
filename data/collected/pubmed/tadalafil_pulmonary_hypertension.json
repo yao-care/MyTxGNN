@@ -1,0 +1,514 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Tadalafil",
+    "disease": "pulmonary hypertension",
+    "query_string": "Tadalafil AND pulmonary hypertension"
+  },
+  "data": {
+    "query": "Tadalafil AND pulmonary hypertension",
+    "results": [
+      {
+        "pmid": "35412560",
+        "title": "Diagnosis and Treatment of Pulmonary Arterial Hypertension: A Review.",
+        "abstract": "Pulmonary arterial hypertension (PAH) is a subtype of pulmonary hypertension (PH), characterized by pulmonary arterial remodeling. The prevalence of PAH is approximately 10.6 cases per 1 million adults in the US. Untreated, PAH progresses to right heart failure and death.",
+        "journal": "JAMA",
+        "year": "2022",
+        "authors": [
+          "Ruopp Nicole F",
+          "Cockrill Barbara A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Antihypertensive Agents",
+          "Endothelin Receptor Antagonists",
+          "Endothelins",
+          "Guanosine Monophosphate",
+          "Heart Failure",
+          "Humans",
+          "Hypertension, Pulmonary",
+          "Infant, Newborn",
+          "Nitric Oxide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35412560/"
+      },
+      {
+        "pmid": "32065428",
+        "title": "ACVIM consensus statement guidelines for the diagnosis, classification, treatment, and monitoring of pulmonary hypertension in dogs.",
+        "abstract": "Pulmonary hypertension (PH), defined by increased pressure within the pulmonary vasculature, is a hemodynamic and pathophysiologic state present in a wide variety of cardiovascular, respiratory, and systemic diseases. The purpose of this consensus statement is to provide a multidisciplinary approach to guidelines for the diagnosis, classification, treatment, and monitoring of PH in dogs. Comprehensive evaluation including consideration of signalment, clinical signs, echocardiographic parameters, and results of other diagnostic tests supports the diagnosis of PH and allows identification of associated underlying conditions. Dogs with PH can be classified into the following 6 groups: group 1, pulmonary arterial hypertension; group 2, left heart disease; group 3, respiratory disease/hypoxia; group 4, pulmonary emboli/pulmonary thrombi/pulmonary thromboemboli; group 5, parasitic disease (Dirofilaria and Angiostrongylus); and group 6, disorders that are multifactorial or with unclear mechan",
+        "journal": "Journal of veterinary internal medicine",
+        "year": "2020",
+        "authors": [
+          "Reinero Carol",
+          "Visser Lance C",
+          "Kellihan Heidi B",
+          "Masseau Isabelle",
+          "Rozanski Elizabeth"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Dog Diseases",
+          "Dogs",
+          "Hypertension, Pulmonary",
+          "Practice Guidelines as Topic",
+          "Societies, Scientific",
+          "Veterinary Medicine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32065428/"
+      },
+      {
+        "pmid": "38966990",
+        "title": "Initial combination therapy with macitentan and tadalafil in patients with pulmonary arterial hypertension, with and without cardiac comorbidities.",
+        "abstract": "According to current guidelines, initial monotherapy should be considered for pulmonary arterial hypertension (PAH) patients with cardiopulmonary comorbidities. This analysis of combined data from the TRITON and REPAIR clinical trials, assesses efficacy and safety of initial double combination therapy in patients without vs. with 1-2 cardiac comorbidities.",
+        "journal": "European journal of heart failure",
+        "year": "2024",
+        "authors": [
+          "McLaughlin Vallerie V",
+          "Sitbon Olivier",
+          "Chin Kelly M",
+          "Galiè Nazzareno",
+          "Hoeper Marius M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tadalafil",
+          "Male",
+          "Female",
+          "Sulfonamides",
+          "Drug Therapy, Combination",
+          "Middle Aged",
+          "Pyrimidines",
+          "Pulmonary Arterial Hypertension",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38966990/"
+      },
+      {
+        "pmid": "30545978",
+        "title": "Paediatric pulmonary arterial hypertension: updates on definition, classification, diagnostics and management.",
+        "abstract": "Paediatric pulmonary arterial hypertension (PAH) shares common features of adult disease, but is associated with several additional disorders and challenges that require unique approaches. This article discusses recent advances, ongoing challenges and distinct approaches for the care of children with PAH, as presented by the Paediatric Task Force of the 6th World Symposium on Pulmonary Hypertension. We provide updates of the current definition, epidemiology, classification, diagnostics and treatment of paediatric PAH, and identify critical knowledge gaps. Several features of paediatric PAH including the prominence of neonatal PAH, especially in pre-term infants with developmental lung diseases, and novel genetic causes of paediatric PAH are highlighted. The use of cardiac catheterisation as a diagnostic modality and haemodynamic definitions of PAH, including acute vasoreactivity, are addressed. Updates are provided on issues related to utility of the previous classification system to r",
+        "journal": "The European respiratory journal",
+        "year": "2019",
+        "authors": [
+          "Rosenzweig Erika B",
+          "Abman Steven H",
+          "Adatia Ian",
+          "Beghetti Maurice",
+          "Bonnet Damien"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antihypertensive Agents",
+          "Child",
+          "Child, Preschool",
+          "Disease Management",
+          "Dose-Response Relationship, Drug",
+          "Exercise Test",
+          "Hemodynamics",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30545978/"
+      },
+      {
+        "pmid": "38267108",
+        "title": "Randomized Trial of Macitentan/Tadalafil Single-Tablet Combination Therapy for Pulmonary Arterial Hypertension.",
+        "abstract": "Endothelin receptor antagonist (ERA) and phosphodiesterase 5 inhibitor (PDE5i) combination therapy is recommended for low-/intermediate-risk pulmonary arterial hypertension (PAH) patients. A fixed-dose combination of the ERA macitentan and PDE5i tadalafil (M/T FDC) in a once-daily, single tablet would simplify treatment.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": "2024",
+        "authors": [
+          "Grünig Ekkehard",
+          "Jansa Pavel",
+          "Fan Fenling",
+          "Hauser Jakob A",
+          "Pannaux Matthieu"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Pulmonary Arterial Hypertension",
+          "Tadalafil",
+          "Combined Modality Therapy",
+          "Phosphodiesterase 5 Inhibitors",
+          "Endothelin Receptor Antagonists",
+          "Tablets",
+          "Pyrimidines",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38267108/"
+      },
+      {
+        "pmid": "19470885",
+        "title": "Tadalafil therapy for pulmonary arterial hypertension.",
+        "abstract": "Treatment options for pulmonary arterial hypertension target the prostacyclin, endothelin, or nitric oxide pathways. Tadalafil, a phosphodiesterase type-5 inhibitor, increases cGMP, the final mediator in the nitric oxide pathway.",
+        "journal": "Circulation",
+        "year": "2009",
+        "authors": [
+          "Galiè Nazzareno",
+          "Brundage Bruce H",
+          "Ghofrani Hossein A",
+          "Oudiz Ronald J",
+          "Simonneau Gerald"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Bosentan",
+          "Carbolines",
+          "Double-Blind Method",
+          "Endothelin Receptor Antagonists",
+          "Exercise Tolerance",
+          "Female",
+          "Humans",
+          "Hypertension, Pulmonary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19470885/"
+      },
+      {
+        "pmid": "38939948",
+        "title": "Tadalafil for Treatment of Combined Postcapillary and Precapillary Pulmonary Hypertension in Patients With Heart Failure and Preserved Ejection Fraction: A Randomized Controlled Phase 3 Study.",
+        "abstract": "We assessed the efficacy and safety of tadalafil, a phosphodiesterase type 5 inhibitor, in patients with heart failure with preserved ejection fraction and combined postcapillary and precapillary pulmonary hypertension.",
+        "journal": "Circulation",
+        "year": "2024",
+        "authors": [
+          "Hoeper Marius M",
+          "Oerke Britta",
+          "Wissmüller Max",
+          "Leuchte Hanno",
+          "Opitz Christian"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tadalafil",
+          "Heart Failure",
+          "Male",
+          "Female",
+          "Stroke Volume",
+          "Hypertension, Pulmonary",
+          "Aged",
+          "Middle Aged",
+          "Double-Blind Method"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38939948/"
+      },
+      {
+        "pmid": "26308684",
+        "title": "Initial Use of Ambrisentan plus Tadalafil in Pulmonary Arterial Hypertension.",
+        "abstract": "Data on the effect of initial combination therapy with ambrisentan and tadalafil on long-term outcomes in patients with pulmonary arterial hypertension are scarce.",
+        "journal": "The New England journal of medicine",
+        "year": "2015",
+        "authors": [
+          "Galiè Nazzareno",
+          "Barberà Joan A",
+          "Frost Adaani E",
+          "Ghofrani Hossein-Ardeschir",
+          "Hoeper Marius M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Carbolines",
+          "Disease Progression",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Hospitalization",
+          "Humans",
+          "Hypertension, Pulmonary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26308684/"
+      },
+      {
+        "pmid": "39347150",
+        "title": "New and Emerging Therapeutic Drugs for the Treatment of Pulmonary Arterial Hypertension: A Systematic Review.",
+        "abstract": "Pulmonary arterial hypertension (PAH) is a serious, progressive, and potentially fatal lung disease characterized by a gradual increase in mean pulmonary arterial pressure to over 20 mmHg at rest. The pathogenesis of PAH is multifactorial. It involves dynamic obstruction of the pulmonary vasculature through vasoconstriction, structural obstruction due to adverse vascular remodeling, and pathological obstruction caused by vascular fibrosis and stiffening, which reduces compliance. PAH often presents with vague initial symptoms and is frequently diagnosed at an advanced stage. The increased pulmonary arterial pressure leads to vascular remodeling, eventually resulting in right ventricular hypertrophy and failure. PAH is a rare condition with a median life expectancy of three years, underscoring the need for effective treatment alternatives. Several FDA-approved therapeutic options are available, including prostacyclin analogs (epoprostenol, iloprost, and treprostinil), the non-prostanoid",
+        "journal": "Cureus",
+        "year": "2024",
+        "authors": [
+          "Rasheed Amir",
+          "Aslam Shadab",
+          "Sadiq Hafiz Zeeshan",
+          "Ali Salamat",
+          "Syed Rizwana"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39347150/"
+      },
+      {
+        "pmid": "38378970",
+        "title": "Treatment of pulmonary arterial hypertension in patients with connective tissue diseases: a systematic review and meta-analysis.",
+        "abstract": "The evidence for the treatment of connective tissue disease-associated pulmonary arterial hypertension (CTD-PAH) mostly depends on subgroup or post hoc analysis of randomized controlled trials (RCTs). Thus, we performed a meta-analysis of RCTs that reported outcomes for CTD-PAH. PubMed and EMBASE were searched for CTD-PAH treatment. The selected outcomes were functional class (FC) change, survival rates, 6-min walk distance (6-MWD), clinical worsening (CW), N-terminal prohormone BNP (NT-proBNP), pulmonary vascular resistance (PVR), mean pulmonary arterial pressure (mPAP), right atrial pressure (RAP), and cardiac index (CI). The meta-analysis was conducted according to the PRISMA guidelines and registered in PROSPERO (CRD42020153560). Twelve RCTs conducted with 1837 patients were included. The diagnoses were systemic sclerosis in 59%, SLE in 20%, and other CTDs in 21%. The pharmacological interventions were epoprostenol, treprostinil, sildenafil, tadalafil, bosentan, macitentan, ambrise",
+        "journal": "Internal and emergency medicine",
+        "year": "2024",
+        "authors": [
+          "Erdogan Mustafa",
+          "Esatoglu Sinem Nihal",
+          "Kilickiran Avci Burcak",
+          "Hatemi Gulen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Antihypertensive Agents",
+          "Connective Tissue Diseases",
+          "Peptide Fragments",
+          "Pulmonary Arterial Hypertension",
+          "Randomized Controlled Trials as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38378970/"
+      },
+      {
+        "pmid": "39316293",
+        "title": "Macitentan and Tadalafil Combination Therapy in Incident and Prevalent Pulmonary Arterial Hypertension: Real-World Evidence from the OPUS/OrPHeUS Studies.",
+        "abstract": "Historically, patients recently (≤ 6 months) diagnosed with pulmonary arterial hypertension (PAH; incident) have had poorer survival than those with a longer (> 6 months) time from PAH diagnosis (prevalent). Despite guideline recommendations for initial combination therapy for most patients with PAH, many are initiated and maintained on monotherapy. Real-world evidence to evaluate the benefit of early combination treatment in newly-diagnosed patients is lacking.",
+        "journal": "Advances in therapy",
+        "year": "2024",
+        "authors": [
+          "Chin Kelly M",
+          "Channick Richard",
+          "Kim Nick H",
+          "MacDonald Gwen",
+          "Ong Rose"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study",
+          "Observational Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Tadalafil",
+          "Male",
+          "Drug Therapy, Combination",
+          "Female",
+          "Middle Aged",
+          "Sulfonamides",
+          "Phosphodiesterase 5 Inhibitors",
+          "Aged",
+          "Pyrimidines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39316293/"
+      },
+      {
+        "pmid": "38596414",
+        "title": "Tadalafil in Neonates and Infants With Pulmonary Hypertension Secondary to Bronchopulmonary Dysplasia.",
+        "abstract": "The primary outcome of this study was to describe the dosing regimen of tadalafil in neonates and infants diagnosed with pulmonary hypertension (PH) secondary to bronchopulmonary dysplasia (BPD). Secondary outcomes included tolerability, efficacy, adverse events, discontinuation of therapy, and changes in echocardiography.",
+        "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+        "year": "2024",
+        "authors": [
+          "Kiskaddon Amy",
+          "Dang Tanaka",
+          "Mauriello Daniel"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38596414/"
+      },
+      {
+        "pmid": "40934467",
+        "title": "Tadalafil for Treatment of Pulmonary Hypertension: Mechanisms, Evidence, and Emerging Perspectives.",
+        "abstract": "Pulmonary arterial hypertension (PAH), a subset of pulmonary hypertension (PH), remains a progressive and debilitating disease marked by vascular remodeling and elevated pulmonary vascular resistance. Tadalafil, a phosphodiesterase type 5 inhibitor (PDE-5i), plays a central role in the nitric oxide-cyclic guanosine monophosphate pathway, enhancing vasodilation and reducing right ventricular afterload. Compared with sildenafil, tadalafil offers the advantages of once-daily dosing, a longer half-life, and favorable tolerability. A randomized controlled trial and its long-term extension demonstrated significant improvements in 6-minute walk distance, functional class, and hemodynamic parameters in patients with PAH, with sustained efficacy and an acceptable safety profile over time. Current international guidelines recommend tadalafil both as monotherapy and in combination regimens, particularly with endothelin receptor antagonists like ambrisentan, for World Health Organization functiona",
+        "journal": "Cardiology in review",
+        "year": "2025",
+        "authors": [
+          "Elattar Sara",
+          "Basha Nabel Rajab",
+          "Salem Amr",
+          "Abdulfattah Ammar Y",
+          "Taha Sara"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40934467/"
+      },
+      {
+        "pmid": "34593120",
+        "title": "Three- Versus Two-Drug Therapy for Patients With Newly Diagnosed Pulmonary Arterial Hypertension.",
+        "abstract": "In pulmonary arterial hypertension (PAH), there are no data comparing initial triple oral therapy with initial double oral therapy.",
+        "journal": "Journal of the American College of Cardiology",
+        "year": "2021",
+        "authors": [
+          "Chin Kelly M",
+          "Sitbon Olivier",
+          "Doelberg Martin",
+          "Feldman Jeremy",
+          "Gibbs J Simon R"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Acetamides",
+          "Adult",
+          "Aged",
+          "Antihypertensive Agents",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Endothelin Receptor Antagonists",
+          "Female",
+          "Humans",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34593120/"
+      },
+      {
+        "pmid": "23129569",
+        "title": "Tadalafil as monotherapy and in combination regimens for the treatment of pulmonary arterial hypertension.",
+        "abstract": "The purpose of this review is to evaluate the use of tadalafil as monotherapy and in combination regimens for the treatment of pulmonary arterial hypertension (PAH). A systematic English language search of the medical literature using PubMed was conducted between January 1960 and May 2012 using the search terms 'tadalafil', 'therapy', 'pulmonary (arterial) hypertension' and 'combination therapy'. Special emphasis was given to controlled clinical trials and case studies relevant for the use of tadalafil in PAH. The search revealed 113 relevant publications, 31 of which were clinical trials, 52 were reviews and 12 were case reports. Of these, 12 were clinical studies in human patients with PAH who were treated with tadalafil alone, and seven were clinical studies in human patients with PAH who were treated with tadalafil in combination with other agents. Only clinical studies in human patients were included. Exclusion criteria were monotherapy other than using tadalafil and any combinati",
+        "journal": "Therapeutic advances in respiratory disease",
+        "year": "2013",
+        "authors": [
+          "Udeoji Dioma U",
+          "Schwarz Ernst R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Arterial Pressure",
+          "Carbolines",
+          "Drug Therapy, Combination",
+          "Familial Primary Pulmonary Hypertension",
+          "Humans",
+          "Hypertension, Pulmonary",
+          "Phosphodiesterase 5 Inhibitors",
+          "Pulmonary Artery",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23129569/"
+      },
+      {
+        "pmid": "33472458",
+        "title": "Recent advances in the management of pulmonary arterial hypertension: lessons from the upfront combination of ambrisentan and tadalafil.",
+        "abstract": "The sixth World Symposium of Pulmonary Hypertension (sixth WSPH) brought to the forefront for the first time the value of earlier, aggressive management with an upfront oral combination in patients with pulmonary arterial hypertension (PAH) of low or intermediate risk. This was prompted by results from the AMBITION study (ambrisentan + tadalafil). A literature search was conducted to collect all evidence provided by upfront treatment with this combination, as well as other combinations under investigation at the time the manuscript was prepared.",
+        "journal": "Expert review of respiratory medicine",
+        "year": "2021",
+        "authors": [
+          "Escribano Subías Pilar",
+          "Aurtenetxe Pérez Agueda",
+          "Pérez Olivares Carmen",
+          "Gómez Climent Leticia",
+          "Diago Cabezudo Jesús I"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Phenylpropionates",
+          "Pulmonary Arterial Hypertension",
+          "Pyridazines",
+          "Tadalafil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33472458/"
+      },
+      {
+        "pmid": "39734932",
+        "title": "Safety, tolerability, and efficacy of an in-class combination therapy switch from bosentan plus sildenafil to ambrisentan plus tadalafil in children with pulmonary arterial hypertension.",
+        "abstract": "The aim of this single-centre retrospective observational study was to evaluate the safety, tolerability, and efficacy of an in-class combination therapy switch from bosentan plus sildenafil to ambrisentan plus tadalafil in children with pulmonary arterial hypertension. Children aged over 5 years who were established on sildenafil plus bosentan were offered to undergo a therapy switch from May 2014 to May 2021 and, if remaining in the service, followed up to May 2024. Children with Eisenmenger syndrome, open intra or extra-cardiac shunt, or with pulmonary hypertension-associated lung disease were excluded. As part of a structured clinical program children were assessed via walk test, echocardiography, cardiac magnetic resonance imaging (CMRI), cardiopulmonary exercise testing, and serum biomarkers. Fifty-two children were included, 33 in the switch group and 19 in the control group. Clinical characteristics at diagnosis and baseline assessments did not differ between groups. All childr",
+        "journal": "Pulmonary circulation",
+        "year": "2024",
+        "authors": [
+          "Morgan Cara",
+          "Idris Nikmah",
+          "Elterefi Kathy",
+          "Di Ienno Luca",
+          "Constantine Andrew"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39734932/"
+      },
+      {
+        "pmid": "23829793",
+        "title": "Pulmonary arterial hypertension.",
+        "abstract": "Pulmonary arterial hypertension (PAH) is a chronic and progressive disease leading to right heart failure and ultimately death if untreated. The first classification of PH was proposed in 1973. In 2008, the fourth World Symposium on PH held in Dana Point (California, USA) revised previous classifications. Currently, PH is devided into five subgroups. Group 1 includes patients suffering from idiopathic or familial PAH with or without germline mutations. Patients with a diagnosis of PAH should systematically been screened regarding to underlying mutations of BMPR2 gene (bone morphogenetic protein receptor type 2) or more rarely of ACVRL1 (activine receptor-like kinase type 1), ENG (endogline) or Smad8 genes. Pulmonary veno occusive disease and pulmonary capillary hemagiomatosis are individualized and designated as clinical group 1'. Group 2 'Pulmonary hypertension due to left heart diseases' is divided into three sub-groups: systolic dysfonction, diastolic dysfonction and valvular dysfon",
+        "journal": "Orphanet journal of rare diseases",
+        "year": "2013",
+        "authors": [
+          "Montani David",
+          "Günther Sven",
+          "Dorfmüller Peter",
+          "Perros Frédéric",
+          "Girerd Barbara"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Heart Diseases",
+          "Humans",
+          "Hypertension, Pulmonary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23829793/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:47:06.874637",
+  "success": true,
+  "error_message": null
+}

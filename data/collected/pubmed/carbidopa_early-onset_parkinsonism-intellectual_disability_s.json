@@ -1,0 +1,15 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Carbidopa",
+    "disease": "early-onset parkinsonism-intellectual disability syndrome",
+    "query_string": "Carbidopa AND early-onset parkinsonism-intellectual disability syndrome"
+  },
+  "data": {
+    "query": "Carbidopa AND early-onset parkinsonism-intellectual disability syndrome",
+    "results": []
+  },
+  "timestamp": "2026-03-04T16:18:49.096559",
+  "success": true,
+  "error_message": null
+}

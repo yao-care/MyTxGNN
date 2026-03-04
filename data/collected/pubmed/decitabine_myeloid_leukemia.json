@@ -1,0 +1,622 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Decitabine",
+    "disease": "myeloid leukemia",
+    "query_string": "Decitabine AND myeloid leukemia"
+  },
+  "data": {
+    "query": "Decitabine AND myeloid leukemia",
+    "results": [
+      {
+        "pmid": "39316768",
+        "title": "A weekly low-dose regimen of decitabine and venetoclax is efficacious and less myelotoxic in a racially diverse cohort.",
+        "abstract": "A metronomic, low-dose schedule of decitabine and venetoclax was safe and effective in myeloid malignancies with few dose reductions or interruptions in an older diverse population. Median overall survival for patients with acute myeloid leukemia and a TP53-mutation was 16.1 and 11.3 months, respectively. This trial was registered at www.clinicaltrials.gov as #NCT05184842.",
+        "journal": "Blood",
+        "year": "2024",
+        "authors": [
+          "Goldfinger Mendel",
+          "Mantzaris Ioannis",
+          "Shastri Aditi",
+          "Saunthararajah Yogen",
+          "Gritsman Kira"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39316768/"
+      },
+      {
+        "pmid": "40009498",
+        "title": "Venetoclax and decitabine vs intensive chemotherapy as induction for young patients with newly diagnosed AML.",
+        "abstract": "Venetoclax (VEN) combined with hypomethylating agents is approved for frontline therapy in older/unfit patients with acute myeloid leukemia (AML). However, prospective data on this low-intensity therapy in treatment-naive younger patients with AML are lacking. This study investigated the efficacy and safety of VEN plus decitabine (VEN-DEC) as induction in untreated young fit patients with AML in a randomized trial. Patients aged 18 to 59 years eligible for intensive chemotherapy were randomized 1:1 to receive VEN-DEC or IA-12 (idarubicin and cytarabine). All patients achieved composite complete remission (CRc) underwent high-dose cytarabine consolidation. The primary end point was CRc rate after induction. Of 255 screened, 188 were enrolled and randomly assigned, with 94 in each group. In the intention-to-treat population, CRc was 89% (84/94) in the VEN-DEC group vs 79% (74/94) in the IA-12 group (noninferiority P = .0021), with measurable residual disease negativity rates of 80% (67/8",
+        "journal": "Blood",
+        "year": "2025",
+        "authors": [
+          "Lu Jing",
+          "Xue Sheng-Li",
+          "Wang Ying",
+          "He Xue-Feng",
+          "Hu Xiao-Hui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Adult",
+          "Male",
+          "Female",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Middle Aged",
+          "Leukemia, Myeloid, Acute",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Decitabine",
+          "Young Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40009498/"
+      },
+      {
+        "pmid": "36066514",
+        "title": "Diagnosis and Treatment of Myelodysplastic Syndromes: A Review.",
+        "abstract": "Myelodysplastic neoplasms (MDS), formerly known as myelodysplastic syndromes, are clonal hematopoietic malignancies that cause morphologic bone marrow dysplasia along with anemia, neutropenia, or thrombocytopenia. MDS are associated with an increased risk of acute myeloid leukemia (AML). The yearly incidence of MDS is approximately 4 per 100 000 people in the United States and is higher among patients with advanced age.",
+        "journal": "JAMA",
+        "year": "2022",
+        "authors": [
+          "Sekeres Mikkael A",
+          "Taylor Justin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Azacitidine",
+          "Decitabine",
+          "Erythropoietin",
+          "Female",
+          "Hematinics",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Male",
+          "Myelodysplastic Syndromes"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36066514/"
+      },
+      {
+        "pmid": "29543073",
+        "title": "Epigenetic therapy: azacytidine and decitabine in acute myeloid leukemia.",
+        "abstract": "The majority of patients with acute myeloid leukemia (AML) are older and exhibit a poor prognosis even after intensive therapy. Inducing differentiation and apoptosis of leukemic blasts by DNA-hypomethylating agents, like e.g. azacytidine (AZA) and decitabine (DAC), represent well-tolerated alternative treatment approaches. Both agents show convincing response as single agents in AML. However, there is a lack of knowledge regarding molecular mechanisms and predictive biomarkers for these agents. Areas covered: This review will (i) provide an overview of the current knowledge of molecular mechanisms underlying the action of these drugs, (ii) report promising predictive biomarkers, (iii) elude on new combined treatment options, and (iv) discuss novel approaches to improve outcomes. A literature search was performed using PubMed to find recent major publications, which provide biological and clinical research about epigenetic therapy in AML patients. Expert commentary: Numerous studies ha",
+        "journal": "Expert review of hematology",
+        "year": "2018",
+        "authors": [
+          "Bohl Stephan R",
+          "Bullinger Lars",
+          "Rücker Frank G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Epigenesis, Genetic",
+          "Gene Expression Regulation, Leukemic",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29543073/"
+      },
+      {
+        "pmid": "38452788",
+        "title": "Oral decitabine and cedazuridine plus venetoclax for older or unfit patients with acute myeloid leukaemia: a phase 2 study.",
+        "abstract": "Hypomethylating agents combined with venetoclax are effective regimens in patients with acute myeloid leukaemia who are ineligible for intensive chemotherapy. Decitabine and cedazuridine (ASTX727) is an oral formulation of decitabine that achieves equivalent area-under-curve exposure to intravenous decitabine. We performed a single centre phase 2 study to evaluate the efficacy and safety of ASTX727 plus venetoclax.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Bazinet Alexandre",
+          "Garcia-Manero Guillermo",
+          "Short Nicholas",
+          "Alvarado Yesid",
+          "Bataller Alex"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Male",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Decitabine",
+          "Treatment Outcome",
+          "Leukemia, Myeloid, Acute",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Respiratory Insufficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38452788/"
+      },
+      {
+        "pmid": "40159945",
+        "title": "Oral decitabine in acute myeloid leukemia: assessing efficacy, safety, and future implications for older patients.",
+        "abstract": "Older patients with acute myeloid leukemia (AML) are often unsuitable for standard treatments and traditionally have a dismal prognosis. For 20 years, hypomethylating agents (HMAs), as single agents and recently as a backbone with venetoclax, have been used in this setting. The oral combination of decitabine and cedazuridine (C-DEC), which is therapeutically and pharmacologically equivalent to the intravenous (IV) formulation (IV-DEC), has expanded the therapeutic arsenal for AML, allowing for better convenience of administration. This review provides an overview of C-DEC, current clinical applications, and ongoing clinical studies, highlighting its potential role in managing AML in older patients.",
+        "journal": "Expert review of hematology",
+        "year": "2025",
+        "authors": [
+          "Niscola Pasquale"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Decitabine",
+          "Administration, Oral",
+          "Aged",
+          "Treatment Outcome",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Antimetabolites, Antineoplastic",
+          "Age Factors",
+          "Uridine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40159945/"
+      },
+      {
+        "pmid": "36651780",
+        "title": "ENABLE: treatment combination including decitabine and venetoclax in acute myeloid leukemia secondary to myeloproliferative neoplasms.",
+        "abstract": "The management of patients with acute myeloid leukemia (blast phase) secondary to myeloproliferative neoplasms (MPNs) is extremely challenging and the outcome dismal, with a median overall survival of about 3-6 months. Effective therapeutic approaches are lacking, especially when intensive strategies followed by allogeneic transplantation are not feasible. The combination of venetoclax and hypomethylating agents has recently been established as standard for newly diagnosed, unfit patients with de novo acute myeloid leukemia, but the application of this therapeutic modality has not been tested prospectively in the specific context of blast-phase MPNs. ENABLE is an open, phase II clinical trial aimed at verifying the efficacy and safety of the combination of venetoclax and decitabine in patients with post-MPN blast phase.",
+        "journal": "Future oncology (London, England)",
+        "year": "2023",
+        "authors": [
+          "Mannelli Francesco",
+          "Guglielmelli Paola",
+          "Fazi Paola",
+          "Crea Enrico",
+          "Piciocchi Alfonso"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Decitabine",
+          "Blast Crisis",
+          "Leukemia, Myeloid, Acute",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Myeloproliferative Disorders",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Sulfonamides"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36651780/"
+      },
+      {
+        "pmid": "29339097",
+        "title": "Safety and preliminary efficacy of venetoclax with decitabine or azacitidine in elderly patients with previously untreated acute myeloid leukaemia: a non-randomised, open-label, phase 1b study.",
+        "abstract": "Elderly patients (aged ≥65 years) with acute myeloid leukaemia have poor outcomes and no effective standard-of-care therapy exists. Treatment with hypomethylating agents such as azacitidine and decitabine is common, but responses are modest and typically short-lived. The oral anti-apoptotic B-cell lymphoma 2 protein inhibitor, venetoclax, has shown promising single-agent activity in patients with relapsed or refractory acute myeloid leukaemia and preclinical data suggested synergy between hypomethylating agents and venetoclax, which led to this combination phase 1b study.",
+        "journal": "The Lancet. Oncology",
+        "year": "2018",
+        "authors": [
+          "DiNardo Courtney D",
+          "Pratz Keith W",
+          "Letai Anthony",
+          "Jonas Brian A",
+          "Wei Andrew H"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase I",
+          "Comparative Study",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Confidence Intervals",
+          "Decitabine",
+          "Disease-Free Survival",
+          "Dose-Response Relationship, Drug"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29339097/"
+      },
+      {
+        "pmid": "39303729",
+        "title": "Decitabine, venetoclax, and ponatinib for advanced phase chronic myeloid leukaemia and Philadelphia chromosome-positive acute myeloid leukaemia: a single-arm, single-centre phase 2 trial.",
+        "abstract": "Advanced phase Philadelphia chromosome-positive myeloid disease-consisting of chronic myeloid leukaemia in the myeloid blast phase and in the accelerated phase, and Philadelphia chromosome-positive acute myeloid leukaemia-is associated with poor outcomes. Although previous studies have suggested the benefit of chemotherapy and BCR::ABL1 tyrosine kinase inhibitor combinations, the optimal regimen is uncertain and prospective studies for this rare group of diseases are scant. Preclinical and retrospective clinical data suggest possible synergy between the BCL-2 inhibitor venetoclax and BCR::ABL1 tyrosine kinase inhibitors. We therefore aimed to design a study to evaluate the safety and activity of a novel combination of decitabine, venetoclax, and the third-generation BCR::ABL1 tyrosine kinase inhibitor ponatinib in advanced phase Philadelphia chromosome-positive myeloid diseases.",
+        "journal": "The Lancet. Haematology",
+        "year": "2024",
+        "authors": [
+          "Short Nicholas J",
+          "Nguyen Daniel",
+          "Jabbour Elias",
+          "Senapati Jayastu",
+          "Zeng Zhihong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Middle Aged",
+          "Female",
+          "Male",
+          "Imidazoles",
+          "Pyridazines",
+          "Sulfonamides",
+          "Aged",
+          "Antineoplastic Combined Chemotherapy Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39303729/"
+      },
+      {
+        "pmid": "32997910",
+        "title": "Myelodysplastic Syndromes.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2020",
+        "authors": [
+          "Cazzola Mario"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Azacitidine",
+          "Decitabine",
+          "Enzyme Inhibitors",
+          "Erythrocyte Transfusion",
+          "Genetic Predisposition to Disease",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Mutation",
+          "Myelodysplastic Syndromes",
+          "Stem Cell Transplantation"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32997910/"
+      },
+      {
+        "pmid": "33580980",
+        "title": "Decitabine and venetoclax for IDH1/2-mutated acute myeloid leukemia.",
+        "abstract": "",
+        "journal": "American journal of hematology",
+        "year": "2021",
+        "authors": [
+          "Venugopal Sangeetha",
+          "Maiti Abhishek",
+          "DiNardo Courtney D",
+          "Loghavi Sanam",
+          "Daver Naval G"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase II",
+          "Comparative Study",
+          "Letter",
+          "Research Support, N.I.H., Extramural"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Isocitrate Dehydrogenase"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33580980/"
+      },
+      {
+        "pmid": "40632299",
+        "title": "The efficacy and safety of venetoclax combined with decitabine in elderly patients with acute myeloid leukemia: a systematic review and meta-analysis.",
+        "abstract": "Acute Myeloid Leukemia (AML) carries a high mortality rate in elderly patients who often face limited treatment options and a poor overall prognosis. The combination of Venetoclax (VEN) and Decitabine (DEC) is recommended for treatment, yet there is insufficient evidence to fully support its efficacy. This study aims to perform a meta-analysis to evaluate the effectiveness and safety of the VEN + DEC regimen in treating elderly patients with AML. We systematically searched PubMed, EMBASE, the Cochrane Library, CNKI, and WanFang. Efficacy was evaluated using complete remission (CR), composite response rate, overall response rate, and median overall survival. Safety was assessed based on adverse events. The fixed/random effect model was employed to evaluate the effect sizes. Seven articles were included in this meta-analysis. VEN + DEC group (OR 1.90, 95%CI 1.36-2.67) could significantly improve CR among the elderly patients with AML, compared to the control group. VEN + DEC was associat",
+        "journal": "Clinical and experimental medicine",
+        "year": "2025",
+        "authors": [
+          "He Feng",
+          "Tian Tian",
+          "Qiao Shukai",
+          "Xing Lina"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Humans",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Leukemia, Myeloid, Acute",
+          "Sulfonamides",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40632299/"
+      },
+      {
+        "pmid": "31242832",
+        "title": "Use of decitabine for patients with refractory or relapsed acute myeloid leukemia: a systematic review and meta-analysis.",
+        "abstract": "Background: Approximately, one-third of adult patients with acute myeloid leukemia (AML) are refractory to initial induction chemotherapy and relapse occurs in most patients who achieve remission. This study evaluates the efficacy of decitabine in the management of refractory or relapsed AML. Methods: After literature search in electronic databases (Google Scholar, Embase, Ovid, and PubMed) studies were selected by following pre-determined eligibility criteria. Random-effects meta-analyses were performed to achieve effect sizes of complete remission (CR) rate, response rate (RR), and median survival after therapy. Subgroup analyses were performed with regards to use of decitabine with either epigenetics-based therapy, molecular therapy or chemotherapy. Results: Twenty studies were included (310 patients; age 55.1 years [95% confidence interval (CI): 43.8, 66.4]; 57% [52%, 63%] males). Overall RR was 46.1% [95% CI: 36.1%, 56.1%]. Overall CR rate was 23.5% [95% CI: 22.1%, 24.9%] but was ",
+        "journal": "Hematology (Amsterdam, Netherlands)",
+        "year": "2019",
+        "authors": [
+          "Ma Yuan-Yuan",
+          "Zhao Min",
+          "Liu Yi",
+          "Zhao De-Feng",
+          "Wang Li-Xin"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antimetabolites, Antineoplastic",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Combined Modality Therapy",
+          "DNA (Cytosine-5-)-Methyltransferase 1",
+          "DNA Methylation",
+          "Decitabine",
+          "Enzyme Inhibitors",
+          "Fatigue",
+          "Febrile Neutropenia",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31242832/"
+      },
+      {
+        "pmid": "34963436",
+        "title": "Decitabine Enhances Acute Myeloid Leukemia Cell Apoptosis through SH3BGRL Upregulation.",
+        "abstract": "SH3-domain-binding glutamic acid-rich protein-like protein (SH3BGRL) is downregulated in acute myeloid leukemia (AML). Clinically, DNA demethylating drug decitabine (DAC) combined with traditional chemotherapies reveals better efficacy on AML patients than the conventional chemotherapies alone. Our previous results revealed that human SH3-domain-binding glutamic acid-rich protein-like protein (SH3BGRL) plays a tumor suppressive role in AML but whether there is a connection between DAC and SH3BGRL expression remains elusive.",
+        "journal": "Anti-cancer agents in medicinal chemistry",
+        "year": "2022",
+        "authors": [
+          "Chen Xiaomin",
+          "Liu Fengqi",
+          "Rong Dade",
+          "Xu Limei",
+          "Tong Xiuzhen"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Azacitidine",
+          "Cell Line, Tumor",
+          "DNA Methylation",
+          "Decitabine",
+          "Glutamic Acid",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Proteins",
+          "RNA, Messenger"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34963436/"
+      },
+      {
+        "pmid": "39313917",
+        "title": "Oral decitabine/cedazuridine versus intravenous decitabine for acute myeloid leukaemia: A randomised, crossover, registration, pharmacokinetics study.",
+        "abstract": "This study compared decitabine exposure when administered IV (DEC-IV) at a dose of 20 mg/m2 for 5-days with orally administered decitabine with cedazuridine (DEC-C), as well as the clinical efficacy and safety of DEC-C in patients with acute myeloid leukaemia (AML) who were ineligible for intensive induction chemotherapy. In all, 89 patients were randomised 1:1 to DEC-IV or oral DEC-C (days 1-5 in a 28-day treatment cycle), followed by 5 days of the other formulation in the next treatment cycle. All patients received oral DEC-C for subsequent treatment cycles until treatment discontinuation. Equivalent systemic decitabine exposures were demonstrated (5-day area under the curve ratio between the two decitabine formulations of 99.64 [90% confidence interval 91.23%, 108.80%]). Demethylation rates also were similar (≤1.1% difference). Median overall survival (OS), clinical response and safety profile with oral DEC-C were consistent with those previously observed with DEC-IV. Next-generatio",
+        "journal": "British journal of haematology",
+        "year": "2024",
+        "authors": [
+          "Geissler Klaus",
+          "Koristek Zdenek",
+          "Del Castillo Teresa Bernal",
+          "Novák Jan",
+          "Rodríguez-Macías Gabriela"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Decitabine",
+          "Leukemia, Myeloid, Acute",
+          "Male",
+          "Middle Aged",
+          "Female",
+          "Administration, Oral",
+          "Aged",
+          "Uridine",
+          "Adult"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39313917/"
+      },
+      {
+        "pmid": "39243311",
+        "title": "Addition of ruxolitinib and decitabine to modified busulfan/cyclophosphamide conditioning regimen for prophylaxis relapse in high-risk acute myeloid leukemia: the phase 2 prospective study.",
+        "abstract": "The prognosis of patients with high-risk acute myeloid leukemia (AML) is dismal even after allogeneic stem cell transplantation (allo-HSCT), with relapse remaining the leading cause of treatment failure. Here, we investigated whether ruxolitinib and decitabine plus modified busulfan-cyclophosphamide (mBu/Cy) conditioning could reduce relapse in high-risk AML after allo-HSCT. This prospective, single-arm, phase II trial enrolled 37 patients who received allo-HSCT between September 2020 and March 2022 at the First Medical Center of Chinese People's Liberation Army (PLA) General Hospital. Eligible patients (10-62 years) had relapsed/refractory, positive measurable residual disease (MRD) prior to conditioning or adverse genetic abnormalities. Ruxolitinib (35 mg twice daily, days - 15 to - 10) and decitabine (20 mg/m2/day, days - 15 to - 10) were administered followed by mBu/Cy conditioning. All patients achieved engraftment. The cumulative incidences (CIs) of acute graft-versus-host diseas",
+        "journal": "Annals of hematology",
+        "year": "2024",
+        "authors": [
+          "Wei Yujun",
+          "Qian Kun",
+          "Le Ning",
+          "Wang Lili",
+          "Li Fei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Decitabine",
+          "Adult",
+          "Leukemia, Myeloid, Acute",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Transplantation Conditioning",
+          "Prospective Studies",
+          "Busulfan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39243311/"
+      },
+      {
+        "pmid": "28489568",
+        "title": "Efficacy and safety of decitabine in treatment of elderly patients with acute myeloid leukemia: A systematic review and meta-analysis.",
+        "abstract": "Elderly patients with acute myeloid leukemia (AML) have limited treatment options concerned about their overall fitness and potential treatment related mortality. Although a number of clinical trials demonstrated benefits of decitabine treatment in elderly AML patients, the results remains controversial. A meta-analysis was performed to evaluate efficacy and safety of decitabine in treatment of elderly AML patients. Eligible studies were identified from PubMed, Web of Science, Embase and Cochrane Library. Nine published studies were included in the meta-analysis, enrolling 718 elderly AML patients. The efficacy outcomes were complete remission (CR), overall response rate (ORR) and overall survival (OS). Safety was evaluated based on treatment related grades 3-4 adverse events (AEs) and early death (ED) rate. Pooled estimates with 95% confidence interval (CI) for CR, ORR and OS were 27% (95% CI 19%-36%), 37% (95% CI 28%-47%) and 8.09 months (95% CI 5.77-10.41), respectively. The estimat",
+        "journal": "Oncotarget",
+        "year": "2017",
+        "authors": [
+          "He Pin-Fang",
+          "Zhou Jing-Dong",
+          "Yao Dong-Ming",
+          "Ma Ji-Chun",
+          "Wen Xiang-Mei"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Decitabine",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28489568/"
+      },
+      {
+        "pmid": "34255353",
+        "title": "Outcomes of TP53-mutant acute myeloid leukemia with decitabine and venetoclax.",
+        "abstract": "TP53 mutation (TP53mut ) confers an adverse prognosis in acute myeloid leukemia (AML). Venetoclax with hypomethylating agents is a current standard for older patients; however, recent reports suggest that TP53mut confers resistance to venetoclax. The authors investigated the outcomes of patients with TP53mut AML who were treated with a 10-day decitabine and venetoclax (DEC10-VEN) (ClinicalTrials.gov identifier NCT03404193).",
+        "journal": "Cancer",
+        "year": "2021",
+        "authors": [
+          "Kim Kunhwa",
+          "Maiti Abhishek",
+          "Loghavi Sanam",
+          "Pourebrahim Rasoul",
+          "Kadia Tapan M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Decitabine",
+          "Humans",
+          "Leukemia, Myeloid, Acute",
+          "Middle Aged",
+          "Sulfonamides",
+          "Tumor Suppressor Protein p53"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34255353/"
+      },
+      {
+        "pmid": "33532040",
+        "title": "Decitabine Downregulates TIGAR to Induce Apoptosis and Autophagy in Myeloid Leukemia Cells.",
+        "abstract": "Decitabine (DAC) is a well-known DNA methyltransferase inhibitor, which has been widely used for the treatment of acute myeloid leukemia (AML). However, in addition to hypomethylation, DAC in AML is also involved in cell metabolism, apoptosis, and immunity. The TP53-induced glycolysis and apoptosis regulator (TIGAR) functions to inhabit glycolysis and protect cancer cells from reactive oxygen species- (ROS-) associated apoptosis. Our previous study revealed that TIGAR is highly expressed in myeloid leukemia cell lines and AML primary cells and associated with poor prognosis in adult patients with cytogenetically normal AML. In the present study, it was found that in a time- and concentration-dependent manner, DAC downregulates the TIGAR expression, induces ROS production, and promotes apoptosis in HL-60 and K562 cells. However, blocking the glycolytic pathway partially reversed the combined effects of DAC and TIGAR knockdown on apoptosis, ROS production, and cell cycle arrest, indicati",
+        "journal": "Oxidative medicine and cellular longevity",
+        "year": "2021",
+        "authors": [
+          "Li Lanzhu",
+          "Liu Wenjie",
+          "Sun Qian",
+          "Zhu Han",
+          "Hong Ming"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Apoptosis",
+          "Apoptosis Regulatory Proteins",
+          "Autophagy",
+          "Decitabine",
+          "Down-Regulation",
+          "Gene Expression Regulation, Leukemic",
+          "Glycolysis",
+          "HL-60 Cells",
+          "Humans",
+          "K562 Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33532040/"
+      },
+      {
+        "pmid": "22369322",
+        "title": "Decitabine for acute myeloid leukemia.",
+        "abstract": "Decitabine (Dacogen(®), Eisai Inc., NJ, USA) is a nucleoside analogue DNA methyltransferase inhibitor first synthesized and documented to have antileukemic efficacy over 40 years ago. Over the years, the dosing of decitabine has been refined, such that for acute myeloid leukemia, a 5-day schedule of 20 mg/m(2) is now commonly utilized. Owing to its relatively modest nonhematologic toxicity when administered in this manner, single agent decitabine has shown the greatest promise in antileukemic efficacy for the management of older individuals and others who are not candidates for more intensive therapy. Whether or not single-agent decitabine is more safe and effective than existing therapies for older individuals, which markers best predict for response, and what drugs combine most effectively with decitabine, are all areas of active investigation at this time.",
+        "journal": "Expert review of anticancer therapy",
+        "year": "2012",
+        "authors": [
+          "Marks Peter W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Antimetabolites, Antineoplastic",
+          "Azacitidine",
+          "Clinical Trials as Topic",
+          "DNA Methylation",
+          "Decitabine",
+          "Dose-Response Relationship, Drug",
+          "Drug Monitoring",
+          "Female",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22369322/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:15:16.189469",
+  "success": true,
+  "error_message": null
+}

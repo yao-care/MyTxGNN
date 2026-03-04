@@ -1,0 +1,48 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "pulmonary emphysema"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01794780",
+      "title": "A 1-year Multi-center, Prospective, Cohort Study in Patients With Chronic Obstructive Pulmonary Disease Treated With Long-acting Bronchodilator",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2013-02-05",
+      "completion_date": "2015-05-25",
+      "country": "China",
+      "enrollment": 2229,
+      "brief_summary": "This multi-center study is designed to describe natural history of disease, treatment and health care products in physician-diagnosed COPD patients who require adding daily maintenance therapy in real world.\n\nThe study planned to enroll 550 patients in Indacaterol group and 9450 patients in non- Indacaterol group, a total of 10,000 patients. Enrollment was stopped at 2253 patients due to low recruitment in indacaterol group. Finally a total of 2229 patients were analyzed in full analysis set.\n\nA",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willing and able to provide informed consent\n* Physician-diagnosis of COPD\n* COPD patients requiring long-acting bronchodilator treatment\n* Patients with spirometry available at baseline\n\nExclusion Criteria:\n\n* Patients who have a diagnosis of asthma.\n* Patients who had been h",
+      "endpoints": [
+        "Change From Baseline in Forced Expiratory Volume in 1 Second (FEV1)"
+      ],
+      "sponsor": "Novartis",
+      "url": "https://clinicaltrials.gov/study/NCT01794780"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04234360",
+      "title": "Eosinophil-driven Corticotherapy for Patients Hospitalized for COPD Exacerbation: a Double-blind, Randomized, Controlled Trial",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2021-10-12",
+      "completion_date": "2025-01-12",
+      "country": "France",
+      "enrollment": 600,
+      "brief_summary": "The primary objective of this study is to compare treatment failure rates between a group of eosinophilic (eosinophilia \\> 2% on day 1 of hospitalization) patients hospitalised for a COPD exacerbation treated via corticotherapy versus a similar group treated via placebo.\n\nSecondarily, treatment failure rates will also be compared between a group of non-eosinophilic patients hospitalised for a COPD exacerbation treated via corticotherapy versus a similar group treated via placebo. Study arms will",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients admitted to a participating hospital (ward, ICU or emergency services) for an acute COPD exacerbation\n* For patients with known COPD: COPD defined according to GOLD 2018 criteria: (1) Post-bronchodilator FEV1/FVC \\< 70% of predicted values; (2) \\> 10 pack years ",
+      "endpoints": [
+        "Treatment failure"
+      ],
+      "sponsor": "University Hospital, Montpellier",
+      "url": "https://clinicaltrials.gov/study/NCT04234360"
+    }
+  ],
+  "timestamp": "2026-03-04T16:59:41.964520",
+  "success": true,
+  "error_message": null
+}

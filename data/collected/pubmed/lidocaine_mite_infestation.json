@@ -1,0 +1,44 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lidocaine",
+    "disease": "mite infestation",
+    "query_string": "Lidocaine AND mite infestation"
+  },
+  "data": {
+    "query": "Lidocaine AND mite infestation",
+    "results": [
+      {
+        "pmid": "1664794",
+        "title": "New developments in pediatric dermatology.",
+        "abstract": "",
+        "journal": "Current problems in pediatrics",
+        "year": "1991",
+        "authors": [
+          "Eichenfield L F",
+          "Honig P J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anesthetics, Local",
+          "Child",
+          "Condylomata Acuminata",
+          "Drug Combinations",
+          "Erythema Infectiosum",
+          "Exanthema Subitum",
+          "Female",
+          "Food Hypersensitivity",
+          "Hemangioma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1664794/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:56:38.800834",
+  "success": true,
+  "error_message": null
+}

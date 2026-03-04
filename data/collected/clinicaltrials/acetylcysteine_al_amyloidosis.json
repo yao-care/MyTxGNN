@@ -1,0 +1,32 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Acetylcysteine",
+    "disease": "AL amyloidosis"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04115956",
+      "title": "An Open-Label, Phase 1/2 Study of Melflufen and Dexamethasone for Patients With AL Amyloidosis Following at Least One Prior Line of Therapy",
+      "phase": "PHASE1",
+      "status": "TERMINATED",
+      "start_date": "2020-08-06",
+      "completion_date": "2022-01-05",
+      "country": "Israel, France, Spain, Norway, Czechia, Greece, Germany, United Kingdom, United States",
+      "enrollment": 6,
+      "brief_summary": "This is a phase 1/2 open label study of melphalan flufenamide (melflufen) in combination with dexamethasone for participants with Al amyloidosis following at least one prior line of therapy. Melflufen will be administered on Day 1 of each 28-day cycle in combination with dexamethasone on days 1 and 2.\n\nIn both phases, treatment of each individual participant will continue for up to 8 cycles or until any stopping events occur.\n\nApproximately 46 participants will be enrolled.\n\nThe study was intend",
+      "eligibility_criteria": "Inclusion Criteria: (For full list of inclusion criteria, see study protocol)\n\n* Male or female, age 18 years or older at the time of signing the informed consent\n* Proven histochemical diagnosis of AL amyloidosis based on tissue specimens with Congo red staining\n* At least one prior line of therapy",
+      "endpoints": [
+        "The primary objective in Phase 1 is to explore safety and tolerability of melflufen",
+        "The primary objective in Phase 1 is to identify recommended Phase 2 dose (RP2D)",
+        "The primary endpoint in Phase 2 is to evaluate the hematologic overall response rate (ORR) after 4 cycles at the RP2D determined in Phase 1"
+      ],
+      "sponsor": "Oncopeptides AB",
+      "url": "https://clinicaltrials.gov/study/NCT04115956"
+    }
+  ],
+  "timestamp": "2026-03-04T15:02:17.132493",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,609 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ezetimibe",
+    "disease": "familial hyperlipidemia",
+    "query_string": "Ezetimibe AND familial hyperlipidemia"
+  },
+  "data": {
+    "query": "Ezetimibe AND familial hyperlipidemia",
+    "results": [
+      {
+        "pmid": "28978219",
+        "title": "Epidemiology and management of hyperlipidemia.",
+        "abstract": "Cardiovascular disease (CVD) is the leading cause of death among adults in the United States, and people with hyperlipidemia are at roughly twice the risk of developing CVD as compared to those with normal total cholesterol levels.1 Patients with familial hypercholesterolemia (FH) have an even greater risk of developing CVD at an earlier age; therefore, early detection and treatment are imperative to reduce cardiovascular events and premature death. Statins are the mainstay treatment for hyperlipidemia; however, the limitations of statins include treatment resistance, intolerance due to adverse events, and a lack of adherence which contribute to poor outcomes. As such, many patients require adjunct therapies to properly control hyperlipidemia including niacin, bile acid sequestrants, fibric acids, and ezetimibe. FH can be even more challenging to treat, often requiring the use of lomitapide, mipomersen, proprotein convertase subtilisin/kexin type 9 inhibitors, or low-density lipoprotei",
+        "journal": "The American journal of managed care",
+        "year": "2017",
+        "authors": [
+          "Karr Samantha"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Hyperlipidemias",
+          "Hypolipidemic Agents",
+          "Practice Guidelines as Topic",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28978219/"
+      },
+      {
+        "pmid": "31357887",
+        "title": "Bempedoic acid plus ezetimibe fixed-dose combination in patients with hypercholesterolemia and high CVD risk treated with maximally tolerated statin therapy.",
+        "abstract": "The aim of this study was to evaluate the low-density lipoprotein cholesterol lowering efficacy and safety of a bempedoic acid 180 mg and ezetimibe 10 mg fixed-dose combination in patients with hypercholesterolemia and a high risk of cardiovascular disease receiving maximally tolerated statin therapy.",
+        "journal": "European journal of preventive cardiology",
+        "year": "2020",
+        "authors": [
+          "Ballantyne Christie M",
+          "Laufs Ulrich",
+          "Ray Kausik K",
+          "Leiter Lawrence A",
+          "Bays Harold E"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anticholesteremic Agents",
+          "Biomarkers",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Dicarboxylic Acids",
+          "Double-Blind Method",
+          "Down-Regulation",
+          "Drug Combinations",
+          "Ezetimibe"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31357887/"
+      },
+      {
+        "pmid": "34480646",
+        "title": "Familial Hypercholesterolemia: Global Burden and Approaches.",
+        "abstract": "Familial hypercholesterolemia (FH) is the most common genetic metabolic disorder characterized by markedly elevated LDL-C levels from birth leading to atherosclerotic cardiovascular disease (ASCVD) and premature deaths. The purpose of this review is to share the current knowledge in the diagnosis, risk estimation, and management of patients with FH in the light of recent evidence and guideline recommendations.",
+        "journal": "Current cardiology reports",
+        "year": "2021",
+        "authors": [
+          "Tokgozoglu Lale",
+          "Kayikcioglu Meral"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hyperlipoproteinemia Type II"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34480646/"
+      },
+      {
+        "pmid": "37762244",
+        "title": "Postprandial Hyperlipidemia: Its Pathophysiology, Diagnosis, Atherogenesis, and Treatments.",
+        "abstract": "Postprandial hyperlipidemia showing postprandial increases in serum triglyceride (TG) is associated with the development of atherosclerotic cardiovascular disease (ASCVD). To diagnose postprandial hyperlipidemia, the oral fat loading test (OFLT) should be performed; however, this test is very time-consuming and is difficult to perform. Elevated serum TG levels reflect an increase in TG-rich lipoproteins (TRLs), such as chylomicrons (CM), very low-density lipoproteins (VLDL), and their remnants (CM remnants [CMRs] and VLDL remnants [VLDLRs]). Understanding of elevation in CMR and/or VLDLR can lead us to understand the existence of postprandial hyperlipidemia. The measurement of apo B48, which is a constituent of CM and CMR; non-fasting TG, which includes TG content in all lipoproteins including CM and CMR; non-high-density lipoprotein cholesterol (non-HDL-C), which includes TRLs and low-density lipoprotein; and remnant cholesterol are useful to reveal the existence of postprandial hyper",
+        "journal": "International journal of molecular sciences",
+        "year": "2023",
+        "authors": [
+          "Yanai Hidekatsu",
+          "Adachi Hiroki",
+          "Hakoshima Mariko",
+          "Katsuyama Hisayuki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hyperlipidemias",
+          "Diabetes Mellitus, Type 2",
+          "Lipoproteins",
+          "Triglycerides",
+          "Lipoproteins, VLDL",
+          "Atherosclerosis",
+          "Postprandial Period"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37762244/"
+      },
+      {
+        "pmid": "23956253",
+        "title": "Familial hypercholesterolaemia is underdiagnosed and undertreated in the general population: guidance for clinicians to prevent coronary heart disease: consensus statement of the European Atherosclerosis Society.",
+        "abstract": "The first aim was to critically evaluate the extent to which familial hypercholesterolaemia (FH) is underdiagnosed and undertreated. The second aim was to provide guidance for screening and treatment of FH, in order to prevent coronary heart disease (CHD).",
+        "journal": "European heart journal",
+        "year": "2013",
+        "authors": [
+          "Nordestgaard Børge G",
+          "Chapman M John",
+          "Humphries Steve E",
+          "Ginsberg Henry N",
+          "Masana Luis"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anticholesteremic Agents",
+          "Atherosclerosis",
+          "Child",
+          "Child, Preschool",
+          "Cholesterol, LDL",
+          "Coronary Disease",
+          "Cost-Benefit Analysis",
+          "Delivery of Health Care",
+          "Early Diagnosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23956253/"
+      },
+      {
+        "pmid": "25939291",
+        "title": "Familial hypercholesterolemia.",
+        "abstract": "Familial hypercholesterolemia is a common, inherited disorder of cholesterol metabolism that leads to early cardiovascular morbidity and mortality. It is underdiagnosed and undertreated. Statins, ezetimibe, bile acid sequestrants, niacin, lomitapide, mipomersen, and low-density lipoprotein (LDL) apheresis are treatments that can lower LDL cholesterol levels. Early treatment can lead to substantial reduction of cardiovascular events and death in patients with familial hypercholesterolemia. It is important to increase awareness of this disorder in physicians and patients to reduce the burden of this disorder.",
+        "journal": "Cardiology clinics",
+        "year": "2015",
+        "authors": [
+          "Bouhairie Victoria Enchia",
+          "Goldberg Anne Carol"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Blood Component Removal",
+          "Genetic Predisposition to Disease",
+          "Global Health",
+          "Humans",
+          "Hyperlipoproteinemia Type II",
+          "Lipoproteins",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25939291/"
+      },
+      {
+        "pmid": "38599725",
+        "title": "Familial hypercholesterolemia.",
+        "abstract": "Familial hypercholesterolemia is a common genetic disorder of autosomal inheritance associated with elevated LDL-cholesterol. It is estimated to affect 1:250 individuals in general population roughly estimated to be 5 million in India. The prevalence of FH is higher in young CAD patients (<55 years in men; <60 years in women). FH is underdiagnosed and undertreated. Screening during childhood and Cascade screening of family members of known FH patients is of utmost importance in order to prevent the burden of CAD. Early identification of FH patients and early initiation of the lifelong lipid lowering therapy is the most effective strategy for managing FH. FH management includes pharmaceutical agents (statins and non statin drugs) and lifestyle modification. Inspite of maximum dose of statin with or without Ezetimibe, if target levels of LDL-C are not achieved, Bempedoic acid, proprotein convertase subtilisin/kexin type 9 (PCSK9) Inhibitors/Inclisiran can be added.",
+        "journal": "Indian heart journal",
+        "year": "2024",
+        "authors": [
+          "Sawhney J P S",
+          "Madan Kushal"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Male",
+          "Humans",
+          "Female",
+          "Proprotein Convertase 9",
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Hyperlipoproteinemia Type II",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38599725/"
+      },
+      {
+        "pmid": "36422206",
+        "title": "Familial Hypercholesterolemia and Its Current Diagnostics and Treatment Possibilities: A Literature Analysis.",
+        "abstract": "Familial hypercholesterolemia (FH) is a common, inherited disorder of cholesterol metabolism. This pathology is usually an autosomal dominant disorder and is caused by inherited mutations in the APOB, LDLR, and PCSK9 genes. Patients can have a homozygous or a heterozygous genotype, which determines the severity of the disease and the onset age of cardiovascular disease (CVD) manifestations. The incidence of heterozygous FH is 1: 200-250, whereas that of homozygous FH is 1: 100.000-160.000. Unfortunately, FH is often diagnosed too late and after the occurrence of a major coronary event. FH may be suspected in patients with elevated blood low-density lipoprotein cholesterol (LDL-C) levels. Moreover, there are other criteria that help to diagnose FH. For instance, the Dutch Lipid Clinical Criteria are a helpful diagnostic tool that is used to diagnose FH. FH often leads to the development of early cardiovascular disease and increases the risk of sudden cardiac death. Therefore, early diag",
+        "journal": "Medicina (Kaunas, Lithuania)",
+        "year": "2022",
+        "authors": [
+          "Zubielienė Kristina",
+          "Valterytė Gintarė",
+          "Jonaitienė Neda",
+          "Žaliaduonytė Diana",
+          "Zabiela Vytautas"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Proprotein Convertase 9",
+          "Cholesterol, LDL",
+          "Hyperlipoproteinemia Type II",
+          "Acute Coronary Syndrome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36422206/"
+      },
+      {
+        "pmid": "30586774",
+        "title": "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines.",
+        "abstract": "Since 1980, the American College of Cardiology (ACC) and American Heart Association (AHA) have translated scientific evidence into clinical practice guidelines with recommendations to improve cardiovascular health. These guidelines, which are based on systematic methods to evaluate and classify evidence, provide a foundation for the delivery of quality cardiovascular care. The ACC and AHA sponsor the development and publication of clinical practice guidelines without commercial support, and members volunteer their time to the writing and review efforts. Clinical practice guidelines provide recommendations applicable to patients with or at risk of developing cardiovascular disease (CVD). The focus is on medical practice in the United States, but these guidelines are relevant to patients throughout the world. Although guidelines may be used to inform regulatory or payer decisions, the intent is to improve quality of care and align with patients’ interests. Guidelines are intended to defi",
+        "journal": "Circulation",
+        "year": "2019",
+        "authors": [
+          "Grundy Scott M",
+          "Stone Neil J",
+          "Bailey Alison L",
+          "Beam Craig",
+          "Birtcher Kim K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Practice Guideline",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Biomarkers",
+          "Cardiology",
+          "Cardiovascular Diseases",
+          "Cholesterol",
+          "Consensus",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Hyperlipidemias",
+          "Risk Assessment"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30586774/"
+      },
+      {
+        "pmid": "41206969",
+        "title": "Efficacy and Safety of Oral PCSK9 Inhibitor Enlicitide in Adults With Heterozygous Familial Hypercholesterolemia: A Randomized Clinical Trial.",
+        "abstract": "Persons with heterozygous familial hypercholesterolemia (HeFH) are at increased risk of atherosclerotic cardiovascular disease due to lifelong elevated levels of low-density lipoprotein cholesterol (LDL-C). Many patients with HeFH do not achieve guideline-recommended LDL-C goals with the currently available lipid-lowering therapies.",
+        "journal": "JAMA",
+        "year": "2026",
+        "authors": [
+          "Ballantyne Christie M",
+          "Gellis Laura",
+          "Tardif Jean-Claude",
+          "Banka Puja",
+          "Navar Ann Marie"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Administration, Oral",
+          "Anticholesteremic Agents",
+          "Apolipoproteins B",
+          "Cholesterol, LDL"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41206969/"
+      },
+      {
+        "pmid": "26009596",
+        "title": "Familial hypercholesterolaemia in children and adolescents: gaining decades of life by optimizing detection and treatment.",
+        "abstract": "Familial hypercholesterolaemia (FH) is a common genetic cause of premature coronary heart disease (CHD). Globally, one baby is born with FH every minute. If diagnosed and treated early in childhood, individuals with FH can have normal life expectancy. This consensus paper aims to improve awareness of the need for early detection and management of FH children. Familial hypercholesterolaemia is diagnosed either on phenotypic criteria, i.e. an elevated low-density lipoprotein cholesterol (LDL-C) level plus a family history of elevated LDL-C, premature coronary artery disease and/or genetic diagnosis, or positive genetic testing. Childhood is the optimal period for discrimination between FH and non-FH using LDL-C screening. An LDL-C ≥5 mmol/L (190 mg/dL), or an LDL-C ≥4 mmol/L (160 mg/dL) with family history of premature CHD and/or high baseline cholesterol in one parent, make the phenotypic diagnosis. If a parent has a genetic defect, the LDL-C cut-off for the child is ≥3.5 mmol/L (130 mg",
+        "journal": "European heart journal",
+        "year": "2015",
+        "authors": [
+          "Wiegman Albert",
+          "Gidding Samuel S",
+          "Watts Gerald F",
+          "Chapman M John",
+          "Ginsberg Henry N"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review",
+          "Consensus Statement"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Atherosclerosis",
+          "Carotid Intima-Media Thickness",
+          "Child",
+          "Clinical Laboratory Techniques",
+          "Cost of Illness",
+          "Counseling",
+          "Diet",
+          "Dietary Supplements"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26009596/"
+      },
+      {
+        "pmid": "29219151",
+        "title": "Familial hypercholesterolaemia.",
+        "abstract": "Familial hypercholesterolaemia is a common inherited disorder characterized by abnormally elevated serum levels of low-density lipoprotein (LDL) cholesterol from birth, which in time can lead to cardiovascular disease (CVD). Most cases are caused by autosomal dominant mutations in LDLR, which encodes the LDL receptor, although mutations in other genes coding for proteins involved in cholesterol metabolism or LDLR function and processing, such as APOB and PCSK9, can also be causative, although less frequently. Several sets of diagnostic criteria for familial hypercholesterolaemia are available; common diagnostic features are an elevated LDL cholesterol level and a family history of hypercholesterolaemia or (premature) CVD. DNA-based methods to identify the underlying genetic defect are desirable but not essential for diagnosis. Cascade screening can contribute to early diagnosis of the disease in family members of an affected individual, which is crucial because familial hypercholestero",
+        "journal": "Nature reviews. Disease primers",
+        "year": "2017",
+        "authors": [
+          "Defesche Joep C",
+          "Gidding Samuel S",
+          "Harada-Shiba Mariko",
+          "Hegele Robert A",
+          "Santos Raul D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cholesterol, LDL",
+          "Coronary Artery Disease",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Hyperlipoproteinemia Type II"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29219151/"
+      },
+      {
+        "pmid": "40347969",
+        "title": "Fixed-dose combination of obicetrapib and ezetimibe for LDL cholesterol reduction (TANDEM): a phase 3, randomised, double-blind, placebo-controlled trial.",
+        "abstract": "Reducing LDL cholesterol prevents atherosclerotic cardiovascular disease (ASCVD) events. The aim of this study was to evaluate the LDL cholesterol-lowering efficacy of a fixed-dose combination (FDC) of obicetrapib, a CETP inhibitor, and ezetimibe.",
+        "journal": "Lancet (London, England)",
+        "year": "2025",
+        "authors": [
+          "Sarraju Ashish",
+          "Brennan Danielle",
+          "Hayden Kierstyn",
+          "Stronczek Amanda",
+          "Goldberg Anne C"
+        ],
+        "pub_types": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anticholesteremic Agents",
+          "Cholesterol Ester Transfer Proteins",
+          "Cholesterol, LDL",
+          "Double-Blind Method",
+          "Drug Combinations"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40347969/"
+      },
+      {
+        "pmid": "35593194",
+        "title": "A Comprehensive Review of PCSK9 Inhibitors.",
+        "abstract": "Cardiovascular disease (CVD) is the leading cause of death in the United States and worldwide. A major risk factor for this condition is increased serum low-density lipoprotein cholesterol (LDL-C) levels for which statins have been successful in reducing serum LDL-C to healthy concentrations. However, patients who are statin intolerant or those who do not achieve their treatment goals while on high-intensity statin therapy, such as those with familial hypercholesterolemia, remain at risk. With the discovery of PCSK9 inhibitors, the ability to provide more aggressive treatment for patients with homozygous and heterozygous familial hypercholesterolemia has increased. Ezetimibe reduces LDL-C by 15%-20% when combined with statin.2,3 Protein convertase subtilisin/kexin type 9 (PCSK9) inhibitors have been found to achieve profound reductions in LDL-C (54%-74%) when added to statins. They have shown dramatic effects at lowering major adverse cardiovascular events (MACE) in high-risk patients4",
+        "journal": "Journal of cardiovascular pharmacology and therapeutics",
+        "year": "2022",
+        "authors": [
+          "Coppinger Caroline",
+          "Movahed Mohammad Reza",
+          "Azemawah Veronica",
+          "Peyton Lee",
+          "Gregory James"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antibodies, Monoclonal",
+          "Anticholesteremic Agents",
+          "Cholesterol, LDL",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Hyperlipoproteinemia Type II",
+          "PCSK9 Inhibitors",
+          "Proprotein Convertase 9",
+          "Subtilisin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35593194/"
+      },
+      {
+        "pmid": "25053660",
+        "title": "Homozygous familial hypercholesterolaemia: new insights and guidance for clinicians to improve detection and clinical management. A position paper from the Consensus Panel on Familial Hypercholesterolaemia of the European Atherosclerosis Society.",
+        "abstract": "Homozygous familial hypercholesterolaemia (HoFH) is a rare life-threatening condition characterized by markedly elevated circulating levels of low-density lipoprotein cholesterol (LDL-C) and accelerated, premature atherosclerotic cardiovascular disease (ACVD). Given recent insights into the heterogeneity of genetic defects and clinical phenotype of HoFH, and the availability of new therapeutic options, this Consensus Panel on Familial Hypercholesterolaemia of the European Atherosclerosis Society (EAS) critically reviewed available data with the aim of providing clinical guidance for the recognition and management of HoFH.",
+        "journal": "European heart journal",
+        "year": "2014",
+        "authors": [
+          "Cuchel Marina",
+          "Bruckert Eric",
+          "Ginsberg Henry N",
+          "Raal Frederick J",
+          "Santos Raul D"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Arcus Senilis",
+          "Atherosclerosis",
+          "Blood Component Removal",
+          "Cardiovascular Diseases",
+          "Cholesterol, LDL",
+          "Diagnosis, Differential",
+          "Early Diagnosis",
+          "Gene Frequency",
+          "Genetic Heterogeneity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25053660/"
+      },
+      {
+        "pmid": "33818688",
+        "title": "Role of Bempedoic Acid in Clinical Practice.",
+        "abstract": "Many patients do not achieve optimal low-density lipoprotein cholesterol (LDL-C) levels with statins alone; others are unable to tolerate statin therapy. Additional non-statin treatment options including ezetimibe, proprotein convertase subtilisin/kexin type 9 inhibitors, and bile acid sequestrants are often necessary to further reduce the risk of atherosclerotic cardiovascular disease. This review provides practical guidance as to the use of bempedoic acid to lower LDL-C and includes direction as to which patients may benefit and advice for safety monitoring during treatment. Bempedoic acid, a new class of agent, is a prodrug converted to bempedoyl-CoA by very long-chain acyl-CoA synthetase 1, an enzyme with high expression in the liver but that is undetectable in the skeletal muscle. Bempedoic acid inhibits the enzyme adenosine triphosphate (ATP)-citrate lyase, which lies two steps upstream from β-hydroxy β-methylglutaryl-CoA reductase in the cholesterol biosynthesis pathway. In clin",
+        "journal": "Cardiovascular drugs and therapy",
+        "year": "2021",
+        "authors": [
+          "Ballantyne Christie M",
+          "Bays Harold",
+          "Catapano Alberico L",
+          "Goldberg Anne",
+          "Ray Kausik K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Cholesterol, LDL",
+          "Coronary Artery Disease",
+          "Dicarboxylic Acids",
+          "Drug Tolerance",
+          "Fatty Acids",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia",
+          "Hypolipidemic Agents",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33818688/"
+      },
+      {
+        "pmid": "33766264",
+        "title": "New and Emerging Therapies for Reduction of LDL-Cholesterol and Apolipoprotein B: JACC Focus Seminar 1/4.",
+        "abstract": "Adding to the foundation of statins, ezetimibe and proprotein convertase subtilisin-kexin type 9 inhibitors (PCSK9i), novel, emerging low-density lipoprotein cholesterol (LDL-C)-lowering therapies are under development for the prevention of cardiovascular disease. Inclisiran, a small interfering RNA molecule that inhibits PCSK9, only needs to be dosed twice a year and has the potential to help overcome current barriers to persistence and adherence to lipid-lowering therapies. Bempedoic acid, which lowers LDL-C upstream from statins, provides a novel alternative for patients with statin intolerance. Angiopoetin-like 3 protein (ANGPTL3) inhibitors have been shown to provide potent LDL-C lowering in patients with homozygous familial hypercholesterolemia without major adverse effects as seen with lomitapide and mipomersen, and may reduce the need for apheresis. Finally, CETP inhibitors may yet be effective with the development of obicetrapib. These novel agents provide the clinician the to",
+        "journal": "Journal of the American College of Cardiology",
+        "year": "2021",
+        "authors": [
+          "Nurmohamed Nick S",
+          "Navar Ann Marie",
+          "Kastelein John J P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Apolipoproteins B",
+          "Cholesterol, LDL",
+          "Humans",
+          "Hypercholesterolemia",
+          "Hyperlipoproteinemias"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33766264/"
+      },
+      {
+        "pmid": "35262430",
+        "title": "Comparative efficacy of non-statin lipid-lowering therapies in patients with hypercholesterolemia at increased cardiovascular risk: a network meta-analysis.",
+        "abstract": "Network meta-analysis was used to derive estimates of the relative efficacy of inclisiran, evolocumab, alirocumab, bempedoic acid, and ezetimibe in patients with hypercholesterolemia and/or at increased cardiovascular risk due to elevated low-density lipoprotein cholesterol taking maximum tolerated dose statins.",
+        "journal": "Current medical research and opinion",
+        "year": "2022",
+        "authors": [
+          "Burnett Heather",
+          "Fahrbach Kyle",
+          "Cichewicz Allie",
+          "Jindal Ramandeep",
+          "Tarpey Jialu"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review",
+          "Research Support, Non-U.S. Gov't",
+          "Network Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Anticholesteremic Agents",
+          "Bayes Theorem",
+          "Cardiovascular Diseases",
+          "Cholesterol",
+          "Cholesterol, LDL",
+          "Ezetimibe",
+          "Heart Disease Risk Factors",
+          "Humans",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "Hypercholesterolemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35262430/"
+      },
+      {
+        "pmid": "37850379",
+        "title": "Efficacy, Safety, and Tolerability of Inclisiran in Patients With Homozygous Familial Hypercholesterolemia: Results From the ORION-5 Randomized Clinical Trial.",
+        "abstract": "Homozygous familial hypercholesterolemia is a genetic disease characterized by extremely high levels of low-density lipoprotein cholesterol (LDL-C) and a high risk of premature cardiovascular events. The proof-of-concept study ORION-2 (A Study of Inclisiran in Participants With Homozygous Familial Hypercholesterolemia) showed that inclisiran, a small interfering RNA that prevents production of the hepatic PCSK9 protein (proprotein convertase subtilisin/kexin type 9), could lead to durable reductions in LDL-C levels when added to statins and ezetimibe in patients with homozygous familial hypercholesterolemia.",
+        "journal": "Circulation",
+        "year": "2024",
+        "authors": [
+          "Raal Frederick",
+          "Durst Ronen",
+          "Bi Ran",
+          "Talloczy Zsolt",
+          "Maheux Pierre"
+        ],
+        "pub_types": [
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Female",
+          "Adult",
+          "Male",
+          "Proprotein Convertase 9",
+          "Cholesterol, LDL",
+          "Homozygous Familial Hypercholesterolemia",
+          "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+          "RNA, Small Interfering",
+          "Cholesterol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37850379/"
+      },
+      {
+        "pmid": "35101175",
+        "title": "Worldwide experience of homozygous familial hypercholesterolaemia: retrospective cohort study.",
+        "abstract": "Homozygous familial hypercholesterolaemia (HoFH) is a rare inherited disorder resulting in extremely elevated low-density lipoprotein cholesterol levels and premature atherosclerotic cardiovascular disease (ASCVD). Current guidance about its management and prognosis stems from small studies, mostly from high-income countries. The objective of this study was to assess the clinical and genetic characteristics, as well as the impact, of current practice on health outcomes of HoFH patients globally.",
+        "journal": "Lancet (London, England)",
+        "year": "2022",
+        "authors": [
+          "Tromp Tycho R",
+          "Hartgers Merel L",
+          "Hovingh G Kees",
+          "Vallejo-Vaz Antonio J",
+          "Ray Kausik K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Child, Preschool",
+          "Cohort Studies",
+          "Female",
+          "Homozygous Familial Hypercholesterolemia",
+          "Humans",
+          "Male",
+          "Registries"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35101175/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:00:28.658523",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,602 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Iron",
+    "disease": "anemia of prematurity",
+    "query_string": "Iron AND anemia of prematurity"
+  },
+  "data": {
+    "query": "Iron AND anemia of prematurity",
+    "results": [
+      {
+        "pmid": "37866852",
+        "title": "Anemia, Iron Supplementation, and the Brain.",
+        "abstract": "The developing brain is particularly vulnerable to extrinsic environmental events such as anemia and iron deficiency during periods of rapid development. Studies of infants with postnatal iron deficiency and iron deficiency anemia clearly demonstrated negative effects on short-term and long-term brain development and function. Randomized interventional trials studied erythropoiesis-stimulating agents and hemoglobin-based red blood cell transfusion thresholds to determine how they affect preterm infant neurodevelopment. Studies of red blood cell transfusion components are limited in preterm neonates. A biomarker strategy measuring brain iron status and health in the preanemic period is desirable to evaluate treatment options and brain response.",
+        "journal": "Clinics in perinatology",
+        "year": "2023",
+        "authors": [
+          "Gisslen Tate",
+          "Rao Raghavendra",
+          "Georgieff Michael K"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Infant, Newborn",
+          "Humans",
+          "Infant, Premature",
+          "Infant, Low Birth Weight",
+          "Iron",
+          "Erythropoietin",
+          "Anemia, Neonatal",
+          "Iron Deficiencies",
+          "Brain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37866852/"
+      },
+      {
+        "pmid": "36411551",
+        "title": "Neonatal Anemia.",
+        "abstract": "All neonates experience a downtrend in their hematocrit values immediately following the birth through normal falls in erythropoietin (Epo) production, transition to adult hemoglobin, and hemodilution with somatic growth. However, this drop is more pronounced in critically ill and preterm neonates and can lead to potentially pathologic anemia that impairs tissue oxygen delivery. In this review, we highlight the mechanisms underlying physiologic anemia and anemia of prematurity and briefly review the evidence for the treatment of anemia in the neonatal population, including the use of red blood cell transfusions, erythropoietic stimulating agents, and iron supplementation.",
+        "journal": "Current pediatric reviews",
+        "year": "2023",
+        "authors": [
+          "German Kendell R",
+          "Juul Sandra E"
+        ],
+        "pub_types": [
+          "Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant, Newborn",
+          "Humans",
+          "Infant, Low Birth Weight",
+          "Age Factors",
+          "Infant, Premature",
+          "Erythropoietin",
+          "Hematinics",
+          "Anemia, Neonatal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36411551/"
+      },
+      {
+        "pmid": "34860784",
+        "title": "Anemia in Pregnancy: Screening and Clinical Management Strategies.",
+        "abstract": "Screening recommendations for anemia during pregnancy, etiologies of inherited and noninherited forms of anemia, their impact on maternal-fetal outcomes, and the clinical management of pregnant patients presenting with these conditions are reviewed. Anemia during pregnancy can cause adverse perinatal outcomes including preterm labor, premature rupture of membranes, and increased maternal and fetal mortality. Physiologic (dilutional) anemia and iron deficiency anemia are the two most common noninherited forms of anemia, and some cases may be the result of an underlying comorbidity such as diabetes or lupus. Aplastic anemia and autoimmune hemolytic anemia are uncommon forms of noninherited anemias that also merit discussion. Inherited forms of anemia include sickle cell disease, alpha-thalassemia, and beta-thalassemia. Timely diagnosis and treatment of anemia during pregnancy, whether inherited or noninherited, is imperative to protect mother and baby from potential adverse outcomes asso",
+        "journal": "MCN. The American journal of maternal child nursing",
+        "year": "2022",
+        "authors": [
+          "Stanley Angela Y",
+          "Wallace Jerrol B",
+          "Hernandez Andrea M",
+          "Spell Jenna L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Humans",
+          "Iron Deficiencies",
+          "Mass Screening",
+          "Pregnancy",
+          "Pregnancy Outcome",
+          "Premature Birth"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34860784/"
+      },
+      {
+        "pmid": "26739036",
+        "title": "Maternal anemia and risk of adverse birth and health outcomes in low- and middle-income countries: systematic review and meta-analysis.",
+        "abstract": "Anemia is a leading cause of maternal deaths and adverse pregnancy outcomes in developing countries.",
+        "journal": "The American journal of clinical nutrition",
+        "year": "2016",
+        "authors": [
+          "Rahman Md Mizanur",
+          "Abe Sarah Krull",
+          "Rahman Md Shafiur",
+          "Kanda Mikiko",
+          "Narita Saki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Avitaminosis",
+          "Developing Countries",
+          "Female",
+          "Fetal Growth Retardation",
+          "Folic Acid Deficiency",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26739036/"
+      },
+      {
+        "pmid": "35289581",
+        "title": "Alpha- and Beta-thalassemia: Rapid Evidence Review.",
+        "abstract": "Thalassemia is a group of autosomal recessive hemoglobinopathies affecting the production of normal alpha- or beta-globin chains that comprise hemoglobin. Ineffective production of alpha- or beta-globin chains may result in ineffective erythropoiesis, premature red blood cell destruction, and anemia. Chronic, severe anemia in patients with thalassemia may result in bone marrow expansion and extramedullary hematopoiesis. Thalassemia should be suspected in patients with microcytic anemia and normal or elevated ferritin levels. Hemoglobin electrophoresis may reveal common characteristics of different thalassemia subtypes, but genetic testing is required to confirm the diagnosis. Thalassemia is generally asymptomatic in trait and carrier states. Alpha-thalassemia major results in hydrops fetalis and is often fatal at birth. Beta-thalassemia major requires lifelong transfusions starting in early childhood (often before two years of age). Alpha- and beta-thalassemia intermedia have variable ",
+        "journal": "American family physician",
+        "year": "2022",
+        "authors": [
+          "Baird Drew C",
+          "Batten Stuart H",
+          "Sparks Steven K"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child, Preschool",
+          "Hematologic Diseases",
+          "Humans",
+          "Infant, Newborn",
+          "Iron",
+          "Iron Overload",
+          "Thalassemia",
+          "beta-Globins",
+          "beta-Thalassemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35289581/"
+      },
+      {
+        "pmid": "37590852",
+        "title": "Prenatal Care: An Evidence-Based Approach.",
+        "abstract": "Well-coordinated prenatal care that follows an evidence-based, informed process results in fewer hospital admissions, improved education, greater satisfaction, and lower pregnancy-associated morbidity and mortality. Care initiated at 10 weeks or earlier improves outcomes. Identification and treatment of periodontal disease decreases preterm delivery risk. A prepregnancy body mass index greater than 25 kg per m2 is associated with gestational diabetes mellitus, hypertension, miscarriage, and stillbirth. Advanced maternal and paternal age (35 years or older) is associated with gestational diabetes, hypertension, miscarriage, intrauterine growth restriction, aneuploidy, birth defects, and stillbirth. Rho(D) immune globulin decreases alloimmunization risk in a patient who is RhD-negative carrying a fetus who is RhD-positive. Treatment of iron deficiency anemia decreases the risk of preterm delivery, intrauterine growth restriction, and perinatal depression. Ancestry-based genetic risk stra",
+        "journal": "American family physician",
+        "year": "2023",
+        "authors": [
+          "Ramírez Sarah Inés"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant, Newborn",
+          "Female",
+          "Pregnancy",
+          "Humans",
+          "Adult",
+          "Prenatal Care",
+          "Abortion, Spontaneous",
+          "Fetal Growth Retardation",
+          "Stillbirth",
+          "COVID-19 Vaccines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37590852/"
+      },
+      {
+        "pmid": "12168242",
+        "title": "Iron status and the treatment of the anemia of prematurity.",
+        "abstract": "Many unanswered issues regarding rhEPO therapy in prematurity remain, including which premature infants best respond to rhEPO, what the long-term effect of decreased erythrocyte transfusions is, how nutritional supplementation optimizes the effect of rhEPO, whether or not rhEpo therapy causes iron deficiency later in life, and whether or not it is safe to supplement with parenteral iron. Further study of rhEPO therapy and iron status in prematurity is necessary.",
+        "journal": "Clinics in perinatology",
+        "year": "2002",
+        "authors": [
+          "Kling Pamela J",
+          "Winzerling Joy J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Erythrocyte Transfusion",
+          "Erythropoietin",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Premature, Diseases",
+          "Iron",
+          "Recombinant Proteins"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12168242/"
+      },
+      {
+        "pmid": "31296936",
+        "title": "Anaemia and iron deficiency in pregnancy and adverse perinatal outcomes in Southern India.",
+        "abstract": "We examined the prevalence of anaemia, iron deficiency, and inflammation during pregnancy and their associations with adverse pregnancy and infant outcomes in India.",
+        "journal": "European journal of clinical nutrition",
+        "year": "2020",
+        "authors": [
+          "Finkelstein Julia L",
+          "Kurpad Anura V",
+          "Bose Beena",
+          "Thomas Tinku",
+          "Srinivasan Krishnamachari"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Child",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "India",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Pregnancy Complications, Hematologic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31296936/"
+      },
+      {
+        "pmid": "30873598",
+        "title": "Multiple-micronutrient supplementation for women during pregnancy.",
+        "abstract": "Multiple-micronutrient (MMN) deficiencies often coexist among women of reproductive age in low- and middle-income countries. They are exacerbated in pregnancy due to the increased demands of the developing fetus, leading to potentially adverse effects on the mother and baby. A consensus is yet to be reached regarding the replacement of iron and folic acid supplementation with MMNs. Since the last update of this Cochrane Review in 2017, evidence from several trials has become available. The findings of this review will be critical to inform policy on micronutrient supplementation in pregnancy.",
+        "journal": "The Cochrane database of systematic reviews",
+        "year": "2019",
+        "authors": [
+          "Keats Emily C",
+          "Haider Batool A",
+          "Tam Emily",
+          "Bhutta Zulfiqar A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Dietary Supplements",
+          "Drug Interactions",
+          "Female",
+          "Folic Acid",
+          "Humans",
+          "Infant, Newborn",
+          "Infant, Small for Gestational Age",
+          "Iron, Dietary",
+          "Micronutrients",
+          "Perinatal Mortality"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30873598/"
+      },
+      {
+        "pmid": "30522368",
+        "title": "The relationship between maternal anemia during pregnancy with preterm birth: a systematic review and meta-analysis.",
+        "abstract": "Objective: Iron deficiency anemia is the most common cause of anemia during pregnancy. Other causes of anemia include parasitic diseases, micronutrient deficiencies, and genetic hemoglobin apathies. Maternal anemia during pregnancy is the most important public health problem. Since the relationship between maternal anemia by the months of pregnancy and premature birth has been reported differently in various studies; thus, this study aims to determine the relationship between maternal anemia during pregnancy and premature birth.Methods: This systematic review and meta-analysis article was designed based on the recommendations of PRISMA. This study was performed from 1990 to 2018. Articles extracted using related keywords such as maternal, anemia, premature birth, and pregnancy in databases, including Cochrane, Medline, Medlib, Web of Science, PubMed, Scopus, Springer, Science Direct, Embase, Google Scholar, Sid, Irandoc, Iranmedex, and Magiran. Relative risk and its confidence interval",
+        "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+        "year": "2020",
+        "authors": [
+          "Rahmati Shoboo",
+          "Azami Milad",
+          "Badfar Gholamreza",
+          "Parizad Naser",
+          "Sayehmiri Kourosh"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Anemia, Iron-Deficiency",
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Pregnancy Complications",
+          "Pregnancy Trimester, First",
+          "Premature Birth"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30522368/"
+      },
+      {
+        "pmid": "31203386",
+        "title": "Early versus delayed umbilical cord clamping on maternal and neonatal outcomes.",
+        "abstract": "Policies for timing of cord clamping varied from early cord clamping (ECC) in the first 30 s after birth, to delayed cord clamping (DCC) in more than 30 s after birth or when cord pulsation has ceased. DCC, an inexpensive method allowed physiological placental transfusion. The aim of this article is to review the benefits and the potential harms of early versus delayed cord clamping.",
+        "journal": "Archives of gynecology and obstetrics",
+        "year": "2019",
+        "authors": [
+          "Qian Yiyu",
+          "Ying Xinxin",
+          "Wang Peixin",
+          "Lu Zhe",
+          "Hua Ying"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Delivery, Obstetric",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Ligation",
+          "Placental Circulation",
+          "Postpartum Hemorrhage"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31203386/"
+      },
+      {
+        "pmid": "37076797",
+        "title": "Maternal low and high hemoglobin concentrations and associations with adverse maternal and infant health outcomes: an updated global systematic review and meta-analysis.",
+        "abstract": "Growing evidence suggests low and high maternal hemoglobin (Hb) concentrations may have adverse consequences for maternal and child health. There remain questions on specific Hb thresholds to define anemia and high Hb as well as how cutoffs may vary by anemia etiology and timing of assessment.",
+        "journal": "BMC pregnancy and childbirth",
+        "year": "2023",
+        "authors": [
+          "Young Melissa F",
+          "Oaks Brietta M",
+          "Rogers Hannah Paige",
+          "Tandon Sonia",
+          "Martorell Reynaldo"
+        ],
+        "pub_types": [
+          "Meta-Analysis",
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Female",
+          "Child",
+          "Infant, Newborn",
+          "Humans",
+          "Pregnancy Outcome",
+          "Stillbirth",
+          "Premature Birth",
+          "Anemia, Iron-Deficiency",
+          "Pre-Eclampsia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37076797/"
+      },
+      {
+        "pmid": "39277077",
+        "title": "Supplemental Iron and Recombinant Erythropoietin for Anemia in Infants Born Very Preterm: A Survey of Clinical Practice in Europe.",
+        "abstract": "To survey practices of iron and recombinant human erythropoietin (rhEpo) administration to infants born preterm across Europe.",
+        "journal": "The Journal of pediatrics",
+        "year": "2025",
+        "authors": [
+          "Reibel-Georgi Nora J",
+          "Scrivens Alexandra",
+          "Heeger Lisanne E",
+          "Lopriore Enrico",
+          "New Helen V"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Multicenter Study"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Erythropoietin",
+          "Europe",
+          "Infant, Newborn",
+          "Recombinant Proteins",
+          "Iron",
+          "Intensive Care Units, Neonatal",
+          "Practice Patterns, Physicians'",
+          "Infant, Premature",
+          "Anemia, Neonatal"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39277077/"
+      },
+      {
+        "pmid": "32075071",
+        "title": "Vitamin and Mineral Supplementation During Pregnancy on Maternal, Birth, Child Health and Development Outcomes in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis.",
+        "abstract": "Almost two billion people are deficient in key vitamins and minerals, mostly women and children in low- and middle-income countries (LMICs). Deficiencies worsen during pregnancy due to increased energy and nutritional demands, causing adverse outcomes in mother and child, but could be mitigated by interventions like micronutrient supplementation. To our knowledge, this is the first systematic review that aimed to compile evidence from both efficacy and effectiveness trials, evaluating different supplementation interventions on maternal, birth, child health, and developmental outcomes. We evaluated randomized controlled trials and quasi-experimental studies published since 1995 in peer-reviewed and grey literature that assessed the effects of calcium, vitamin A, iron, vitamin D, and zinc supplementation compared to placebo/no treatment; iron-folic (IFA) supplementation compared to folic acid only; multiple micronutrient (MMN) supplementation compared to IFA; and lipid-based nutrient sup",
+        "journal": "Nutrients",
+        "year": "2020",
+        "authors": [
+          "Oh Christina",
+          "Keats Emily C",
+          "Bhutta Zulfiqar A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Child",
+          "Child Development",
+          "Child, Preschool",
+          "Developing Countries",
+          "Dietary Supplements",
+          "Female",
+          "Humans",
+          "Income",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32075071/"
+      },
+      {
+        "pmid": "35766558",
+        "title": "Efficacy and safety of parenteral nutrition with iron sucrose for anemia prevention in preterm infants: A randomized, double-blind controlled study.",
+        "abstract": "Our objective is to study the efficacy and safety of parenteral nutrition (PN) with iron sucrose to prevent anemia in preterm infants.",
+        "journal": "Asia Pacific journal of clinical nutrition",
+        "year": "2022",
+        "authors": [
+          "Wu Qingqing",
+          "Wang Ying",
+          "Wang Weiping",
+          "Zhang Yonghong",
+          "Yan Weihui"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Anemia",
+          "Ferric Oxide, Saccharated",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Infant, Premature",
+          "Iron",
+          "Parenteral Nutrition"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35766558/"
+      },
+      {
+        "pmid": "35033748",
+        "title": "The impact of response to iron therapy on maternal and neonatal outcomes among pregnant women with anemia.",
+        "abstract": "Anemia during pregnancy is associated with increased risks of preterm birth, preeclampsia, cesarean delivery, and maternal morbidity. The most prevalent modifiable cause of pregnancy-associated anemia is iron deficiency. However, it is still unclear whether iron therapy can reduce the risks of adverse outcomes in women with anemia.",
+        "journal": "American journal of obstetrics & gynecology MFM",
+        "year": "2022",
+        "authors": [
+          "Detlefs Sarah E",
+          "Jochum Michael D",
+          "Salmanian Bahram",
+          "McKinney Jennifer R",
+          "Aagaard Kjersti M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, N.I.H., Extramural",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Pregnancy",
+          "Anemia",
+          "Cohort Studies",
+          "Iron",
+          "Obstetric Labor Complications",
+          "Pre-Eclampsia",
+          "Pregnant People"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35033748/"
+      },
+      {
+        "pmid": "40245977",
+        "title": "Patterns of hemolysis, erythropoiesis, and iron distribution define unique disease trajectories in three mouse models of genetic anemia.",
+        "abstract": "Hemolytic anemias involve premature red blood cell (RBC) destruction and present complex phenotypes, including disturbances in iron metabolism, extramedullary erythropoiesis, and systemic organ involvement. To guide the selection of appropriate murine models for studying pathophysiology and pharmacologic treatments of human hemolytic disorders, we systematically characterized three genetic mouse models commonly used to investigate such conditions: sickle cell disease (SCD), β-thalassemia (THAL), and hereditary spherocytosis (SPH). We sought to clarify how these models differ in the severity and nature of hemolysis, the balance between erythropoietic responses and iron regulation, and the long-term patterns of iron distribution. Our findings reveal that SPH mice exhibit severe intravascular hemolysis and suppressed hepcidin levels, leading to unopposed intestinal iron absorption and extensive tissue iron loading, especially in the liver. In contrast, SCD and THAL mice display predominan",
+        "journal": "Experimental hematology",
+        "year": "2025",
+        "authors": [
+          "Dubach Irina L",
+          "Buzzi Raphael M",
+          "Schaer Dominik J",
+          "Vallelian Florence"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Erythropoiesis",
+          "Mice",
+          "Disease Models, Animal",
+          "Hemolysis",
+          "Iron",
+          "Anemia, Sickle Cell",
+          "Hepcidins",
+          "beta-Thalassemia",
+          "Spherocytosis, Hereditary"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40245977/"
+      },
+      {
+        "pmid": "34096415",
+        "title": "Prevalence and approaches to manage iron deficiency anemia (IDA).",
+        "abstract": "Iron is a vital micronutrient required for growth and development at all stages of human life. Its deficiency is the primary cause of anemia that poses a significant global health problem and challenge for developing countries. Various risks are involved during iron deficiency anemia (IDA), such as premature delivery, low birth weight, etc. Further, it affects children's cognitive functioning, delays motor development, hampers physical performance and quality of life. It also speeds up the morbidity and mortality rate among women. The major reasons accountable are elevated iron demand in diet, socio-economic status, and disease condition. Various strategies have been adopted to reduce the IDA occurrence, such as iron supplementation, iron fortificants salts, agronomic practices, dietary diversification, biofortification, disease control measures, and nutritional education. Usually, the staple food groups for fortification are considered, but the selection of food fortificants and their",
+        "journal": "Critical reviews in food science and nutrition",
+        "year": "2022",
+        "authors": [
+          "Bathla Shikha",
+          "Arora Shalini"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Female",
+          "Humans",
+          "Iron Deficiencies",
+          "Food, Fortified",
+          "Iron",
+          "Prevalence",
+          "Quality of Life",
+          "Micronutrients",
+          "Anemia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34096415/"
+      },
+      {
+        "pmid": "19174983",
+        "title": "Occurrence and detection of iron-deficiency anemia in infants and toddlers.",
+        "abstract": "Infants and toddlers are particularly vulnerable to developing iron deficiency, which can cause irreversible deficits in neurodevelopment. Children at highest risk include premature and low birth weight infants, those who are fed cow's milk rather than breast milk or formula prior to age one, and those who drink large amounts of cow's milk as toddlers. It is important to detect iron deficiency before it becomes frank anemia through the use of appropriate laboratory tests. Hemoglobin or hematocrit testing, at around age one, has been the usual screening test. These tests, however, do not become abnormally low until frank anemia has developed. Over the past decade, research has shown the assay for reticulocyte hemoglobin content to be a much earlier indicator of iron deficiency. This article provides an overview of the epidemiology, occurrence, and detection of iron deficiency and iron deficiency anemia in young children as well as a comparison of the utility of various laboratory tests.",
+        "journal": "Clinical laboratory science : journal of the American Society for Medical Technology",
+        "year": "2008",
+        "authors": [
+          "Bamberg Richard"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anemia, Iron-Deficiency",
+          "Child, Preschool",
+          "Erythrocyte Indices",
+          "Ferritins",
+          "Hemoglobinometry",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Iron",
+          "Prevalence"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19174983/"
+      },
+      {
+        "pmid": "37164765",
+        "title": "Risk factors for anemia of prematurity among 30-35-week preterm infants.",
+        "abstract": "The risk factors for anemia of prematurity (AOP) among late preterm infants are unelucidated. We identified risk factors for declining hemoglobin (Hb) concentration and triggering factors for AOP treatment in infants born at 30-35 gestational weeks.",
+        "journal": "Fukushima journal of medical science",
+        "year": "2023",
+        "authors": [
+          "Kitaoka Hiroki",
+          "Shitara Yoshihiko",
+          "Kashima Kohei",
+          "Ochiai Shingo",
+          "Chikai Hayato"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Infant",
+          "Infant, Newborn",
+          "Humans",
+          "Infant, Premature",
+          "Infant, Low Birth Weight",
+          "Retrospective Studies",
+          "Anemia, Neonatal",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37164765/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:20:26.990621",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,540 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "asthma",
+    "query_string": "Theophylline AND asthma"
+  },
+  "data": {
+    "query": "Theophylline AND asthma",
+    "results": [
+      {
+        "pmid": "8471184",
+        "title": "Theophylline. Current thoughts on the risks and benefits of its use in asthma.",
+        "abstract": "Theophylline and its derivatives have been used in the treatment of asthma for over 50 years, but since the advent of more potent bronchodilators their use has become cloaked in controversy. Their continued existence results from their undoubted usefulness in severe acute asthma, nocturnal asthma, childhood asthma and moderate to severe chronic airflow limitation, and because of habitual use by physicians in other situations. The precise mechanism of action of theophylline remains uncertain. The role of phosphodiesterase inhibition and adenosine antagonism has been reviewed and the clinical significance of the anti-inflammatory action of theophylline discussed. Theophylline has unpredictable metabolism when first administered, and continued monitoring of drug concentrations is essential. Commonly encountered adverse effects may occur at therapeutic serum concentrations, frequently necessitating drug withdrawal. The overlapping therapeutic and toxic theophylline serum ranges can lead to",
+        "journal": "Drug safety",
+        "year": "1993",
+        "authors": [
+          "Nasser S S",
+          "Rees P J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Humans",
+          "Risk Factors",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8471184/"
+      },
+      {
+        "pmid": "7589387",
+        "title": "Theophylline and selective phosphodiesterase inhibitors as anti-inflammatory drugs in the treatment of bronchial asthma.",
+        "abstract": "Theophylline has been in clinical use for the treatment of bronchial asthma and other respiratory diseases for well over 50 yrs. Over this time, a considerable body of evidence has accumulated to show that this drug has a wide range of pharmacological actions, in addition to the well-recognized action on airway smooth muscle function. Current evidence suggests that part of the therapeutic value of theophylline in the treatment of asthma is by virtue of an anti-inflammatory or immunomodulatory effect, although the actual mechanism of action remains unclear. It has been proposed that the observed anti-inflammatory effects of theophylline could be attributed to phosphodiesterase (PDE) inhibition, and recently the type III and IV isoenzymes have been characterized in a number of inflammatory cells. This article reviews the evidence that theophylline and the newer more selective type IV PDE isoenzyme inhibitors can inhibit the activation of inflammatory cell types, such as T-lymphocytes, eo",
+        "journal": "The European respiratory journal",
+        "year": "1995",
+        "authors": [
+          "Banner K H",
+          "Page C P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Guinea Pigs",
+          "Humans",
+          "Phosphodiesterase Inhibitors",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7589387/"
+      },
+      {
+        "pmid": "8614425",
+        "title": "Theophylline in asthma.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "1996",
+        "authors": [
+          "Weinberger M",
+          "Hendeles L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Humans",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8614425/"
+      },
+      {
+        "pmid": "6147224",
+        "title": "Controversies in asthma therapy with theophylline and the beta 2-adrenergic agonists.",
+        "abstract": "The pharmacology and clinical use of the beta 2-adrenergic agonists and theophylline, singly and in combination, are reviewed. The beta 2-adrenergic agents produce bronchodilation by stimulating production of intracellular cyclic adenosine monophosphate, while theophylline's mechanism of action is unknown. The primary differences between various beta 2-adrenergic agents are in specificity and duration of action. In acute asthma attacks, greater reversal of bronchospasm results from beta 2-adrenergic agents than from theophylline. Inhalation of beta 2-adrenergic agents is as effective as injection of these drugs and produces fewer side effects. Inhaled beta 2-adrenergic agents also produce the greatest degree of prevention of exercise-induced bronchospasm. In hospitalized patients with severe acute bronchospasm, the combination of intravenous aminophylline and inhaled beta 2-adrenergic agents appears to provide optimal therapy with the greatest margin of safety. For long-term bronchodil",
+        "journal": "Clinical pharmacy",
+        "year": "1984",
+        "authors": [
+          "Kelly H W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Adrenergic beta-Agonists",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Drug Therapy, Combination",
+          "Drug Tolerance",
+          "Heart Diseases",
+          "Humans",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6147224/"
+      },
+      {
+        "pmid": "2010095",
+        "title": "Theophylline in asthma and COPD: changing perspectives and controversies.",
+        "abstract": "Theophylline's role in the treatment of airway obstruction has been challenged, yet it remains a useful agent in the management of obstructive lung disease. It has a narrow therapeutic range and frequent side effects. Drug interactions are common, and variations in theophylline clearance among patients arise from individual differences in its absorption, metabolism, and elimination. Acute bronchospasm is best treated with inhaled sympathomimetic agents, but the nonbronchodilator effects of theophylline offer therapeutic benefits for the patient with non-reversible disease. When properly monitored by serum level determinations, theophylline may be used as an adjunct to aerosol therapy and corticosteroids in asthma. However, the patient with COPD may benefit the most from an empiric trial of the drug, using lower doses than were commonly employed in the past.",
+        "journal": "Geriatrics",
+        "year": "1991",
+        "authors": [
+          "Poe R H",
+          "Utell M J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Humans",
+          "Lung Diseases, Obstructive",
+          "Mucociliary Clearance",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2010095/"
+      },
+      {
+        "pmid": "2192613",
+        "title": "The relationship between vitamin B6 metabolism, asthma, and theophylline therapy.",
+        "abstract": "",
+        "journal": "Annals of the New York Academy of Sciences",
+        "year": "1990",
+        "authors": [
+          "Ubbink J B",
+          "Vermaak W J",
+          "Delport R",
+          "Serfontein W J",
+          "Bartel P"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Humans",
+          "Pyridoxal Kinase",
+          "Pyridoxal Phosphate",
+          "Pyridoxine",
+          "Theophylline",
+          "Vitamin B 6 Deficiency"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2192613/"
+      },
+      {
+        "pmid": "32094104",
+        "title": "The effect of doxofylline in asthma and COPD.",
+        "abstract": "Theophylline is still one of the most widely prescribed drugs for the treatment of asthma and COPD in developing countries because the majority of asthma and COPD medicines are largely unavailable and also because it is a cheap option. In any case, its anti-inflammatory effects and capacity to reverse corticosteroid resistance deserve consideration, but it can induce numerous side effects and drug-drug interactions and frequently requires measurement of drug levels in plasma. In order to overcome the problems posed by theophylline, other xanthines have been developed. Doxofylline is a newer generation xanthine with both bronchodilating and anti-inflammatory activities and for this reason it has been called \"novofylline\". It differs substantially from theophylline at the pharmacological level. Clinical studies have shown substantial differences between doxofylline and theophylline. In particular, efficacy/safety profile of doxofylline is better than that of theophylline.",
+        "journal": "Respiratory medicine",
+        "year": "2020",
+        "authors": [
+          "Cazzola Mario",
+          "Matera Maria Gabriella"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Bronchodilator Agents",
+          "Drug Costs",
+          "Economics, Pharmaceutical",
+          "Female",
+          "Humans",
+          "Male",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32094104/"
+      },
+      {
+        "pmid": "1747676",
+        "title": "Unstable asthma and theophylline.",
+        "abstract": "",
+        "journal": "BMJ (Clinical research ed.)",
+        "year": "1991",
+        "authors": [
+          "Stern M",
+          "Geddes D M",
+          "Collins J V",
+          "Evans T"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Clinical Conference",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asthma",
+          "Circadian Rhythm",
+          "Female",
+          "Humans",
+          "Peak Expiratory Flow Rate",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1747676/"
+      },
+      {
+        "pmid": "9756184",
+        "title": "Theophylline and airway inflammation.",
+        "abstract": "The view of theophylline as a second-line bronchodilator in asthma therapy has begun to be reconsidered in recent years as the details of its additional actions on airway inflammation have emerged. Increasing understanding of the mechanisms of action of theophylline has led to an appreciation of the ways in which this, and other related drugs, may influence the development and maintenance of the airway inflammation that underlies asthma through alteration of inflammatory cell function. In addition, recent demonstrations that theophylline can suppress late-phase asthmatic reactions at serum concentrations below those traditionally regarded as therapeutically useful have provided evidence that theophylline's beneficial actions in asthma extend beyond mild bronchodilation. The apparent suppression of airway inflammation by theophylline in asthmatic patients reinforces data from ill vitro experiments, showing inhibitory actions of theophylline on the pro-inflammatory functions of many immu",
+        "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+        "year": "1998",
+        "authors": [
+          "Rabe K F",
+          "Dent G"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "3',5'-Cyclic-AMP Phosphodiesterases",
+          "Adenosine",
+          "Administration, Oral",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Biopsy",
+          "Bronchi",
+          "CD4 Lymphocyte Count",
+          "CD8-Positive T-Lymphocytes",
+          "Eosinophils"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9756184/"
+      },
+      {
+        "pmid": "1735811",
+        "title": "Safety and efficacy of theophylline in children with asthma.",
+        "abstract": "",
+        "journal": "The Journal of pediatrics",
+        "year": "1992",
+        "authors": [
+          "Hendeles L",
+          "Weinberger M",
+          "Szefler S",
+          "Ellis E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Child",
+          "Drug Interactions",
+          "Humans",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1735811/"
+      },
+      {
+        "pmid": "3315274",
+        "title": "Sustained-release theophylline and nocturnal asthma, once-daily and unequal dosing schedules.",
+        "abstract": "Many asthmatic patients experience aggravation of symptoms overnight resulting in disruption of their sleep. Sustained-release theophylline represents at this time a major bronchodilator medication which possesses a sufficient duration of activity to avert the nocturnal breathing distress of asthma. Circadian rhythm-adapted theophylline schedules consisting of unequal dosing--more or all the drug taken in the evening--have proven efficacious in clinical investigations for certain patients. Although the kinetic behavior of some formulations is affected by food, the circadian rhythm-adapted schedules represent a significant step forward toward the goal of optimizating sustained-release theophyllines for patients who experience nighttime symptoms.",
+        "journal": "Chronobiology international",
+        "year": "1987",
+        "authors": [
+          "Smolensky M H",
+          "D'Alonzo G E",
+          "Kunkel G",
+          "Barnes P J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Circadian Rhythm",
+          "Delayed-Action Preparations",
+          "Drug Administration Schedule",
+          "Food",
+          "Humans",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3315274/"
+      },
+      {
+        "pmid": "11775391",
+        "title": "Theophylline revisited.",
+        "abstract": "Theophylline was first isolated in 1888 and remains the most commonly used medication worldwide for the treatment of asthma. It decreases the need for asthma rescue medications by people who have asthma and is an effective steroid-sparing agent for patients who tolerate it. Recently, investigators have shown that theophylline decreases airway inflammation, accelerates eosinophil apoptosis, and decreases recruitment of lymphocytes and neutrophils to the lungs at low doses. It is classified as a phosphodiesterase (PDE) inhibitor, but its therapeutic mechanism of action remains undetermined. Theophylline should be reevaluated as a long-term medication for the treatment of asthma because of its ease of use, low cost, and recent evidence of its anti-inflammatory actions.",
+        "journal": "Allergy and asthma proceedings",
+        "year": "2001",
+        "authors": [
+          "Somerville L L"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Bronchodilator Agents",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Phosphodiesterase Inhibitors",
+          "Practice Guidelines as Topic",
+          "Theophylline",
+          "Treatment Outcome",
+          "United States",
+          "United States Food and Drug Administration"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11775391/"
+      },
+      {
+        "pmid": "2656270",
+        "title": "Chronopharmacology and its application to the development of theophylline treatment schedules for asthma.",
+        "abstract": "",
+        "journal": "European journal of clinical pharmacology",
+        "year": "1989",
+        "authors": [
+          "Godfrey K R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Circadian Rhythm",
+          "Humans",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2656270/"
+      },
+      {
+        "pmid": "6367926",
+        "title": "Theophylline.",
+        "abstract": "",
+        "journal": "Clinical reviews in allergy",
+        "year": "1983",
+        "authors": [
+          "Ellis E F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Asthma",
+          "Biological Availability",
+          "Child",
+          "Child, Preschool",
+          "Chromatography, High Pressure Liquid",
+          "Delayed-Action Preparations",
+          "Drug Administration Schedule",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6367926/"
+      },
+      {
+        "pmid": "19479396",
+        "title": "[Asthma therapy: combination of topical glucocorticosteroids and theophylline].",
+        "abstract": "In addition to its bronchodilatory effects, theophylline has anti-inflammatory and immunomodulatory effects. Since theophylline and corticosteroids act via different molecular mechanisms, they may be used in combination. Two recently completed trials have demonstrated that with respect to asthma control the combination of inhaled steroid (400 - 800 microg/d) plus theophylline is at least as effective as doubling the dose of inhaled steroid in patients who remain symptomatic on a dosage of 400 - 800 microg daily.",
+        "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+        "year": "1997",
+        "authors": [
+          "Ukena D"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenergic beta-Agonists",
+          "Albuterol",
+          "Anti-Inflammatory Agents",
+          "Asthma",
+          "Beclomethasone",
+          "Bronchodilator Agents",
+          "Budesonide",
+          "Dose-Response Relationship, Drug",
+          "Drug Therapy, Combination"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19479396/"
+      },
+      {
+        "pmid": "32393652",
+        "title": "Investigating the Role of Altered Systemic Albumin Concentration on the Disposition of Theophylline in Adult and Pediatric Patients with Asthma by Using the Physiologically Based Pharmacokinetic Approach.",
+        "abstract": "Theophylline is commonly used for the treatment of asthma and has a low hepatic clearance. The changes in plasma albumin concentration occurring in asthma may affect the exposure of theophylline. The aim of the presented work was to predict theophylline pharmacokinetics (PK) after incorporating the changes in plasma albumin concentration occurring in patients with asthma into a physiologically based pharmacokinetic (PBPK) model to see whether these changes can affect the systemic theophylline concentrations in asthma. The PBPK model was developed following a systematic model building approach using Simcyp. The predictions were performed initially in healthy adults after intravenous and oral drug administration. Only when the developed adult PBPK model had adequately predicted theophylline PK in healthy adults, the changes in plasma albumin concentrations were incorporated into the model for predicting drug exposure in patients with asthma. After evaluation of the developed model in the",
+        "journal": "Drug metabolism and disposition: the biological fate of chemicals",
+        "year": "2020",
+        "authors": [
+          "Rasool Muhammad Fawad",
+          "Khalid Ramsha",
+          "Imran Imran",
+          "Majeed Abdul",
+          "Saeed Hamid"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Intravenous",
+          "Administration, Oral",
+          "Adult",
+          "Age Factors",
+          "Area Under Curve",
+          "Asthma",
+          "Child",
+          "Child, Preschool",
+          "Computer Simulation",
+          "Datasets as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32393652/"
+      },
+      {
+        "pmid": "2697988",
+        "title": "[Theophylline in the treatment of asthma: indications, use and side effects].",
+        "abstract": "",
+        "journal": "Zeitschrift fur arztliche Fortbildung",
+        "year": "1989",
+        "authors": [
+          "Slapke J",
+          "Hummel S",
+          "Wilke A",
+          "Wenz W",
+          "Meister W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Asthma",
+          "Delayed-Action Preparations",
+          "Dose-Response Relationship, Drug",
+          "Humans",
+          "Lung Diseases, Obstructive",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2697988/"
+      },
+      {
+        "pmid": "3523664",
+        "title": "Enprofylline and theophylline slow-eroding tablets in the treatment of asthma: a comparison.",
+        "abstract": "Fifteen asthmatic outpatients were randomly treated during two periods of 14 days each with sustained-release preparations of either enprofylline (3-propyl-xanthine) or theophylline (Theo-Dur) in a double-blind crossover study. After 4 days of treatment the mean daily doses of enprofylline and theophylline, which were 14.1 and 16.2 mg/kg/day, produced mean plasma concentrations of 4.9 and 12.7 micrograms/ml, respectively. Taking into account all the parameters used to evaluate the antiasthmatic effects, the peak expiratory flow, the number of puffs used from a beta-agonist aerosol, the asthma symptom score and the patients' preferred period, enprofylline was found to be better than theophylline. Enprofylline produced more headaches during the 1st week than theophylline did. However, during the 2nd week the score for headaches decreased to the same level as in the theophylline treatment group. Thus, enprofylline and theophylline seem to have comparable bronchodilator properties and side",
+        "journal": "Respiration; international review of thoracic diseases",
+        "year": "1986",
+        "authors": [
+          "Laursen L C",
+          "Eriksson G",
+          "Weeke B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Asthma",
+          "Clinical Trials as Topic",
+          "Delayed-Action Preparations",
+          "Double-Blind Method",
+          "Headache",
+          "Humans",
+          "Middle Aged",
+          "Peak Expiratory Flow Rate",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3523664/"
+      },
+      {
+        "pmid": "6117754",
+        "title": "Theophylline, beta-agonists, and fatal asthma.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1981",
+        "authors": [
+          "Sutherland D C",
+          "Wilson J D"
+        ],
+        "pub_types": [
+          "Letter"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adrenergic beta-Agonists",
+          "Adult",
+          "Asthma",
+          "Drug Interactions",
+          "Humans",
+          "Middle Aged",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6117754/"
+      },
+      {
+        "pmid": "6595559",
+        "title": "Oral theophylline and asthma.",
+        "abstract": "",
+        "journal": "The New Zealand medical journal",
+        "year": "1984",
+        "authors": [
+          "Taylor A J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Acute Disease",
+          "Administration, Oral",
+          "Adult",
+          "Asthma",
+          "Child",
+          "Delayed-Action Preparations",
+          "Humans",
+          "New Zealand",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6595559/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:59:01.711955",
+  "success": true,
+  "error_message": null
+}

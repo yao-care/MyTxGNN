@@ -1,0 +1,586 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Theophylline",
+    "disease": "pulmonary emphysema",
+    "query_string": "Theophylline AND pulmonary emphysema"
+  },
+  "data": {
+    "query": "Theophylline AND pulmonary emphysema",
+    "results": [
+      {
+        "pmid": "21639960",
+        "title": "Copd.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+        "journal": "BMJ clinical evidence",
+        "year": "2011",
+        "authors": [
+          "McIvor Robert Andrew",
+          "Tunks Marcel",
+          "Todd David Charles"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-Agonists",
+          "Humans",
+          "Muscle Strength",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Theophylline",
+          "alpha 1-Antitrypsin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21639960/"
+      },
+      {
+        "pmid": "19445783",
+        "title": "Copd.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible. The airflow limitation is usually progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases. Classically, it is thought to be a combination of emphysema and chronic bronchitis, although only one of these may be present in some people with COPD. The main risk factor for the development and deterioration of COPD is smoking.",
+        "journal": "BMJ clinical evidence",
+        "year": "2008",
+        "authors": [
+          "Kerstjens Huib Am",
+          "Postma Dirkje S",
+          "Ten Hacken Nick"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Administration, Inhalation",
+          "Adrenal Cortex Hormones",
+          "Adrenergic beta-Agonists",
+          "Cholinergic Antagonists",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Smoking",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19445783/"
+      },
+      {
+        "pmid": "22044554",
+        "title": "Can β2-adrenoceptor agonists, anticholinergic drugs, and theophylline contribute to the control of pulmonary inflammation and emphysema in COPD?",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) has become a global epidemic disease with an increased morbidity and mortality in the world. Inflammatory process progresses and contributes to irreversible airflow limitation. However, there is no available therapy to better control the inflammatory progression and therefore to reduce the exacerbations and mortality. Thus, the development of efficient anti-inflammatory therapies is a priority for patients with COPD. β(2) -Adrenoceptor agonists and anticholinergic agents are widely used as first line drugs in management of COPD because of their efficient bronchodilator properties. At present, many studies in vitro and some data obtained in laboratory animals reveal the potential anti-inflammatory effects of these bronchodilators but their protective role against chronic inflammation and the development of emphysema in patients with COPD remains to be investigated. The anti-inflammatory effects of theophylline at low doses have also been iden",
+        "journal": "Fundamental & clinical pharmacology",
+        "year": "2012",
+        "authors": [
+          "Zhang Wen-Hui",
+          "Zhang Yong",
+          "Cui Yong-Yao",
+          "Rong Wei-Fang",
+          "Cambier Carole"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-2 Receptor Agonists",
+          "Animals",
+          "Bronchodilator Agents",
+          "Cholinergic Antagonists",
+          "Disease Progression",
+          "Drug Synergism",
+          "Emphysema",
+          "Humans",
+          "Inflammation",
+          "Pulmonary Disease, Chronic Obstructive"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22044554/"
+      },
+      {
+        "pmid": "14202663",
+        "title": "[PULMONARY EMPHYSEMA].",
+        "abstract": "",
+        "journal": "Gazeta medica portuguesa",
+        "year": "1964",
+        "authors": [
+          "RIGATTO M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Aminophylline",
+          "Anti-Bacterial Agents",
+          "Central Nervous System Stimulants",
+          "Detergents",
+          "Diagnosis",
+          "Drug Therapy",
+          "Ephedrine",
+          "Epinephrine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14202663/"
+      },
+      {
+        "pmid": "26612542",
+        "title": "Chronic Use of Theophylline and Mortality in Chronic Obstructive Pulmonary Disease: A Meta-analysis.",
+        "abstract": "Theophylline has been shown to improve respiratory function and oxygenation in patients with chronic obstruction pulmonary disease (COPD). However, the impact of theophylline on mortality in COPD patients has not been not sufficiently evaluated.",
+        "journal": "Archivos de bronconeumologia",
+        "year": "2016",
+        "authors": [
+          "Horita Nobuyuki",
+          "Miyazawa Naoki",
+          "Kojima Ryota",
+          "Inoue Miyo",
+          "Ishigatsubo Yoshiaki"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-2 Receptor Agonists",
+          "Aged",
+          "Bronchodilator Agents",
+          "Cause of Death",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Muscarinic Antagonists",
+          "Observational Studies as Topic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26612542/"
+      },
+      {
+        "pmid": "19721232",
+        "title": "Pulmonary emphysema induced by cigarette smoke solution and lipopolysaccharide in guinea pigs.",
+        "abstract": "Exposure of animals to cigarette smoke for longer than 3 months leads to the development of chronic obstructive pulmonary disease (COPD) showing pulmonary emphysema. We attempted to create a COPD model with emphysema that could be established in a shorter period of time. Guinea pigs were intratracheally treated once a day on days 0-3, 5-8, 10-13 and 15-18 with a cigarette smoke solution (CSS), which was prepared by bubbling a stream of smoke into saline. Additionally, lipopolysaccharide (LPS) was administered intratracheally as an exacerbation factor on days 4, 9 and 14. By day 19, there was a gradual elevation of specific airway resistance (sRaw). In addition, both residual volume and functional residual capacity were found to be significantly higher on day 19. In the lungs, there was a marked increase in leukocytes, especially neutrophils. Histologically, we observed epithelial hyperplasia and emphysema. On the other hand, daily oral administration of theophylline during the administ",
+        "journal": "Biological & pharmaceutical bulletin",
+        "year": "2009",
+        "authors": [
+          "Mizutani Nobuaki",
+          "Fuchikami Jun-ichi",
+          "Takahashi Maki",
+          "Nabe Takeshi",
+          "Yoshino Shin"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Guinea Pigs",
+          "Lipopolysaccharides",
+          "Male",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Pulmonary Emphysema",
+          "Smoke",
+          "Solutions",
+          "Nicotiana"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19721232/"
+      },
+      {
+        "pmid": "6972851",
+        "title": "Chronic bronchitis and pulmonary emphysema.",
+        "abstract": "",
+        "journal": "Comprehensive therapy",
+        "year": "1981",
+        "authors": [
+          "Johnston R F",
+          "Mondschein F J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bronchitis",
+          "Bronchodilator Agents",
+          "Chronic Disease",
+          "Diagnosis, Differential",
+          "Humans",
+          "Metaproterenol",
+          "Phenotype",
+          "Prednisone",
+          "Pulmonary Emphysema",
+          "Respiratory Function Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6972851/"
+      },
+      {
+        "pmid": "20367966",
+        "title": "[Meta-analysis of efficacy and safety of oral theophylline in chronic obstructive pulmonary disease].",
+        "abstract": "To evaluate the efficacy and safety of oral theophylline versus placebo in patients with stable chronic obstructive pulmonary disease (COPD).",
+        "journal": "Zhonghua yi xue za zhi",
+        "year": "2010",
+        "authors": [
+          "Wang Chang-Hui",
+          "Zhang Qian",
+          "Li Ming",
+          "Fu Pei-Fang",
+          "Yan Zheng-Mao"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Meta-Analysis"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Randomized Controlled Trials as Topic",
+          "Respiratory Function Tests",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20367966/"
+      },
+      {
+        "pmid": "3907486",
+        "title": "Breathing during sleep.",
+        "abstract": "Hypoxaemia during the rapid eye movement phase of sleep is common in older healthy normal subjects over 55 years of age; the sleep apnoea syndromes--such as obstructive sleep apnoea, where oro-nasal airflow ceases for more than 10 seconds on many separate occasions throughout the night, due to failure of contraction of the genio-glossus muscle; \"blue and bloated\" patients with chronic bronchitis and emphysema, where profound nocturnal hypoxaemia is common in REM sleep, and is associated with further elevation of pulmonary arterial pressure; the overlap syndrome--where \"blue and bloated\" chronic bronchitis is associated with an obstructive sleep apnoea syndrome; and bronchial asthma, where hypoxaemia is associated with irregular breathing and possibly nocturnal bronchoconstriction. Although absolute recognition depends upon all night sleep studies, monitoring of ear oxygen saturation, breathing patterns, and EEG, the clinical features when awake can lead to suspicion of sleep hypoxaemia",
+        "journal": "Annals of the Academy of Medicine, Singapore",
+        "year": "1985",
+        "authors": [
+          "Flenley D C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Airway Obstruction",
+          "Asthma",
+          "Bronchitis",
+          "Chronic Disease",
+          "Female",
+          "Humans",
+          "Hypoxia",
+          "Male",
+          "Obesity"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3907486/"
+      },
+      {
+        "pmid": "3048940",
+        "title": "Chronic obstructive pulmonary disease.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is equated with chronic bronchitis and emphysema as one disease entity. In COPD airflow limitation is relatively persistent--unlike asthma. Tests for \"small-airways disease\" form no part of routine practice, for their accuracy in detecting pathological change is debatable. The proteolytic theory of the pathogenesis of emphysema highlights the role of neutrophil elastase, antielastases, oxidants, antioxidants, and thus of potential new treatments. Clinical features of COPD include breathlessness, cough, and sputum, with airflow obstruction and lung hyperinflation. The differential diagnosis includes bronchiectasis, cystic fibrosis, and pulmonary hypertension, but pulmonary fibrosis, etc., is distinguished by radiological infiltrates. Plain chest radiography cannot reliably diagnose emphysema in life, but a new method measuring lung density from the computed tomographic (CT) scan allows location, quantitation, and diagnosis of emphysema (defin",
+        "journal": "Disease-a-month : DM",
+        "year": "1988",
+        "authors": [
+          "Flenley D C"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Lung Diseases, Obstructive",
+          "Respiratory Muscles",
+          "Sleep"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3048940/"
+      },
+      {
+        "pmid": "6435664",
+        "title": "The effects of theophylline and salbutamol on right and left ventricular function in chronic bronchitis and emphysema.",
+        "abstract": "We have compared the effects of oral theophylline and salbutamol on right and left ventricular function in twelve patients with chronic bronchitis and emphysema. Right and left ventricular ejection fraction (RVEF and LVEF) were measured using multiple gated radionuclide ventriculography. Theophylline 600 mg and salbutamol 4 mg both produced increases in RVEF and LVEF. There were no significant changes in blood gases after either drug. The clinical significance of the effects of oral bronchodilators on cardiac function in patients with chronic bronchitis and emphysema has yet to be determined.",
+        "journal": "British journal of diseases of the chest",
+        "year": "1984",
+        "authors": [
+          "Winter R J",
+          "Langford J A",
+          "George R J",
+          "Deacock S J",
+          "Rudd R M"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Albuterol",
+          "Bronchitis",
+          "Carbon Dioxide",
+          "Cardiac Output",
+          "Chronic Disease",
+          "Heart",
+          "Heart Rate",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6435664/"
+      },
+      {
+        "pmid": "10497412",
+        "title": "[Pathophysiology and management of pulmonary emphysema].",
+        "abstract": "The predominant physiological abnormalities of pulmonary emphysema are chronic airway obstruction, hyperinflation of the lung, decrease of lung elastic recoil, and impaired gas exchange. Patient who still smokes must be advised and supported in an effort to stop smoking before medical treatment. The treatment goals are to induced bronchodilation, decreased the inflammatory change and promote expectoration to prevent the progressive deterioration in lung function and improves quality of life. Inhaled beta 2-agonists, anticholinergics, and oral theophylines, as bronchodilators improved exertional dyspnea and exercise tolerance. Inhaled and oral corticosteroids have an anti inflammatory effect for chronic airway inflammation. Comprehensive respiratory treatments including home oxygen therapy and rehabilitation are also successfully applied for these patients.",
+        "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+        "year": "1999",
+        "authors": [
+          "Yoshida M",
+          "Ishibasi M",
+          "Nishida T"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenergic beta-Agonists",
+          "Anti-Inflammatory Agents",
+          "Bronchodilator Agents",
+          "Cholinergic Antagonists",
+          "Humans",
+          "Lung Compliance",
+          "Oxygen Inhalation Therapy",
+          "Pulmonary Emphysema",
+          "Pulmonary Gas Exchange",
+          "Quality of Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10497412/"
+      },
+      {
+        "pmid": "4926060",
+        "title": "Airway obstruction.",
+        "abstract": "",
+        "journal": "The Medical clinics of North America",
+        "year": "1971",
+        "authors": [
+          "Bocles J S",
+          "Llamas R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Ambulatory Care",
+          "Aminophylline",
+          "Anti-Bacterial Agents",
+          "Asthma",
+          "Bronchial Spasm",
+          "Bronchitis",
+          "Carbon Dioxide",
+          "Epinephrine",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4926060/"
+      },
+      {
+        "pmid": "8583711",
+        "title": "[Effect of theophylline on disturbances of ventilation and of gas exchange during exercise in patients with pulmonary emphysema].",
+        "abstract": "Factors limiting exercise were studied in 23 patients with pulmonary emphysema, and the effects of theophylline on exercise tolerance and on hypercapnic ventilatory response were studied in 16 patients with pulmonary emphysema. Exercise in these patients was limited by inability to increase tidal volume and by disturbances of gas exchange, as indicated by low PaO2, high AaDO2, and high PaCO2 during exercise, and by low diffusing capacity. Theophylline increased tidal volume during exercise, but it did not improve oxygenation during exercise. Theophylline improved exercise tolerance and hypercapnic ventilatory response. The percent increases in VEmax and in VO2max after theophylline administration correlated significantly with the percent increase in the ratio of mouth occlusion pressure to PACO2 during rebreathing. These results indicate that exercise tolerance in patients with pulmonary emphysema can be improved by theophylline, probably because of an increase in ventilatory drive.",
+        "journal": "Nihon Kyobu Shikkan Gakkai zasshi",
+        "year": "1995",
+        "authors": [
+          "Senju S",
+          "Toyoshima H",
+          "Ikeda A",
+          "Aritomi T",
+          "Watanabe K"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Bronchodilator Agents",
+          "Exercise Tolerance",
+          "Female",
+          "Humans",
+          "Male",
+          "Pulmonary Emphysema",
+          "Pulmonary Gas Exchange",
+          "Respiration",
+          "Theophylline"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8583711/"
+      },
+      {
+        "pmid": "13797050",
+        "title": "The effect of xanthin derivatives: Ro 1-8239, aminophylline and dihydroxy theophylline on chronic pulmonary diseases.",
+        "abstract": "",
+        "journal": "Diseases of the chest",
+        "year": "1960",
+        "authors": [
+          "BARRERA F",
+          "REGALADO G G",
+          "BEZOS L"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aminophylline",
+          "Chronic Disease",
+          "Diuretics",
+          "Pulmonary Emphysema",
+          "Theophylline",
+          "Xanthines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/13797050/"
+      },
+      {
+        "pmid": "14159587",
+        "title": "CHRONIC BRONCHITIS AND EMPHYSEMA.",
+        "abstract": "",
+        "journal": "Modern treatment",
+        "year": "1964",
+        "authors": [
+          "DESPREZ R M",
+          "MUSCHENHEIM C"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aerosols",
+          "Air Pollution",
+          "Aminophylline",
+          "Anti-Bacterial Agents",
+          "Body Weight",
+          "Bronchitis",
+          "Bronchitis, Chronic",
+          "Bronchodilator Agents",
+          "Central Nervous System Stimulants",
+          "Chymotrypsin"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14159587/"
+      },
+      {
+        "pmid": "25834280",
+        "title": "Biological effects and mechanisms of action of mesenchymal stem cell therapy in chronic obstructive pulmonary disease.",
+        "abstract": "Chronic obstructive pulmonary disease (COPD) is the most frequent chronic respiratory disease and a leading cause of morbidity and mortality, worldwide. Given that the foremost risk factor leading to the development of COPD is cigarette smoke, the initial treatment for COPD is smoking cessation. Even after smoking cessation, inflammation, apoptosis and oxidative stress can persist and continue to contribute to COPD. Although current therapies for COPD (which are primarily based on anti-inflammatory drugs such as corticosteroids, theophylline and bronchodilators) reduce airway obstruction, limit COPD exacerbation and improve the patient's health-related quality-of-life, none can prevent disease progression or reduce mortality. Recent advances in stem cell research have provided novel insight into the potential of bone marrow mesenchymal stem cells (MSCs) in the treatment of several pulmonary diseases. This review article discusses the biological effects and mechanisms of action of MSC t",
+        "journal": "The Journal of international medical research",
+        "year": "2015",
+        "authors": [
+          "Jin Zhixian",
+          "Pan Xinghua",
+          "Zhou Kaihua",
+          "Bi Hong",
+          "Wang Liyan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adrenal Cortex Hormones",
+          "Apoptosis",
+          "Bronchodilator Agents",
+          "Cell- and Tissue-Based Therapy",
+          "Chronic Disease",
+          "Disease Progression",
+          "Humans",
+          "Inflammation",
+          "Mesenchymal Stem Cell Transplantation",
+          "Mesenchymal Stem Cells"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25834280/"
+      },
+      {
+        "pmid": "8537766",
+        "title": "[Basic and clinical study of pulmonary emphysema].",
+        "abstract": "",
+        "journal": "Nihon Naika Gakkai zasshi. The Journal of the Japanese Society of Internal Medicine",
+        "year": "1995",
+        "authors": [
+          "Yoshida M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Bronchodilator Agents",
+          "Cholinergic Antagonists",
+          "Female",
+          "Humans",
+          "Male",
+          "Pulmonary Emphysema",
+          "Respiratory Function Tests",
+          "Respiratory Tract Infections",
+          "Smoking"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8537766/"
+      },
+      {
+        "pmid": "36227333",
+        "title": "Clinical pharmacokinetics of terbutaline in humans: a systematic review.",
+        "abstract": "Terbutaline is used for the management of bronchospasm associated with asthma, bronchitis, emphysema, and chronic obstructive pulmonary disease. A systematic review would be beneficial to assess the impact of routes of administration, stereoisomerism, disease states, smoking, age, exercise, and chronobiology on pharmacokinetics (PK) of terbutaline in humans. PubMed and Google Scholar databases were searched to screen all the relevant articles consisting of at least one of the PK parameters after administration of oral, inhaled, and intravenous (IV) terbutaline in humans. Oral studies of terbutaline depicted a linear relationship between plasma concentration (Cp) and the administered dose. The IV studies demonstrated multi-exponential behavior for disposition and renal clearance. Higher systemic availability was observed with inhaled as compared to oral route, and chrono-pharmacokinetic behavior was notable. Time to reach maximum plasma concentration (Tmax) was prolonged, and maximum pl",
+        "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+        "year": "2023",
+        "authors": [
+          "Sultan Khadeeja",
+          "Zamir Ammara",
+          "Ashraf Waseem",
+          "Imran Imran",
+          "Saeed Hamid"
+        ],
+        "pub_types": [
+          "Systematic Review",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Pregnancy",
+          "Humans",
+          "Female",
+          "Terbutaline",
+          "Asthma",
+          "Theophylline",
+          "Kinetics",
+          "Administration, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36227333/"
+      },
+      {
+        "pmid": "30358442",
+        "title": "Theophylline inhibits cigarette smoke-induced inflammation in skeletal muscle by upregulating HDAC2 expression and decreasing NF-κB activation.",
+        "abstract": "Inflammation is associated with skeletal muscle dysfunction and atrophy in patients with chronic obstructive pulmonary disease (COPD). Theophylline has an anti-inflammatory role in COPD. However, the effects of theophylline on inflammation in skeletal muscle in COPD have rarely been reported. The aims of this study were to explore whether theophylline has an anti-inflammatory effect on skeletal muscle in a mouse model of emphysema and to investigate the molecular mechanism underlying this effect. In mice, cigarette smoke (CS) exposure for 28 wk resulted in atrophy of the gastrocnemius muscle. Histone deacetylase 2 (HDAC2) and nuclear factor-κBp65 (NF-κBp65) mRNA and protein levels were significantly decreased and increased, respectively, in gastrocnemius muscle. This effect was revered by aminophylline. The exposure of murine skeletal muscle C2C12 cells to CS extract (CSE) significantly increased IL-8 and TNF-α levels as well as NF-κBp65 mRNA and protein levels and NF-κBp65 activity. T",
+        "journal": "American journal of physiology. Lung cellular and molecular physiology",
+        "year": "2019",
+        "authors": [
+          "Bin Yanfei",
+          "Xiao Ying",
+          "Huang Dongmei",
+          "Ma Zhiying",
+          "Liang Yi"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Cell Line",
+          "Gene Expression Regulation, Enzymologic",
+          "Histone Deacetylase 2",
+          "Inflammation",
+          "Male",
+          "Mice",
+          "Muscle, Skeletal",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Smoking"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30358442/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:59:48.907792",
+  "success": true,
+  "error_message": null
+}

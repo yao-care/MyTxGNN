@@ -1,0 +1,572 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Hydrochlorothiazide",
+    "disease": "hypertensive disorder",
+    "query_string": "Hydrochlorothiazide AND hypertensive disorder"
+  },
+  "data": {
+    "query": "Hydrochlorothiazide AND hypertensive disorder",
+    "results": [
+      {
+        "pmid": "30529707",
+        "title": "The expanding saga of hydrochlorothiazide and skin cancer.",
+        "abstract": "",
+        "journal": "Journal of the American Academy of Dermatology",
+        "year": "2019",
+        "authors": [
+          "Heymann Warren R"
+        ],
+        "pub_types": [
+          "Editorial"
+        ],
+        "mesh_terms": [
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Incidence",
+          "Male",
+          "Patient Safety",
+          "Prognosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30529707/"
+      },
+      {
+        "pmid": "21561363",
+        "title": "Gout.",
+        "abstract": "",
+        "journal": "The New England journal of medicine",
+        "year": "2011",
+        "authors": [
+          "Messerli Franz H",
+          "Makani Harikrishna",
+          "Halpern Dan"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Allopurinol",
+          "Antihypertensive Agents",
+          "Gout",
+          "Gout Suppressants",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Uric Acid"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21561363/"
+      },
+      {
+        "pmid": "7418711",
+        "title": "Reserpine, hydrochlorothiazide and pituitary-gonadal hormones in hypertensive patients.",
+        "abstract": "Sex histories and serum samples were obtained from 27 hypertensive men before and after 3 months of therapy with either 100 mg of hydrochlorothiazide or 0.25 mg of reserpine daily. Sera were analyzed for testosterone, dihydrotestosterone, estradiol, luteinizing hormone and prolactin. Both drugs effectively lowered pressure. The incidence of impaired sexual performance was low and insignificantly different in the two treatment groups. There were no significant changes in serum hormone concentrations as a result of drug therapy.",
+        "journal": "European journal of clinical pharmacology",
+        "year": "1980",
+        "authors": [
+          "Boyden T W",
+          "Nugent C A",
+          "Ogihara T",
+          "Maeda T"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Erectile Dysfunction",
+          "Gonadal Steroid Hormones",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male",
+          "Middle Aged",
+          "Pituitary Hormones"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7418711/"
+      },
+      {
+        "pmid": "17703637",
+        "title": "Fixed combination of losartan and hydrochlorothiazide and reduction of risk of stroke.",
+        "abstract": "A fixed-dose combination of losartan/hydrochlorothiazide (HCTZ) therapy may be a logical choice for antihypertensive treatment, including for initial therapy in patients with blood pressure elevation >20/10 mmHg above treatment target. The renin-angiotensin-aldosterone-system-activating effect of hydrochlorothiazide augments the efficacy of blocking the angiotensin II type 1 (AT1) receptor with losartan. Some adverse effects associated with hydrochlorothiazide, including increased risk for new-onset diabetes mellitus, may be offset by losartan. Losartan was frequently administered with hydrochlorothiazide in the Losartan Intervention For Endpoint reduction in hypertension (LIFE) study, in which there was a 25% risk reduction for stroke in the losartan-based compared with the atenolol-based treatment group. The efficacy, tolerability, and convenience of losartan/HCTZ combination therapy may increase patient compliance and lower risk for stroke, a devastating outcome in patients with hyp",
+        "journal": "Vascular health and risk management",
+        "year": "2007",
+        "authors": [
+          "Kjeldsen Sverre E",
+          "Lyle Paulette A",
+          "Kizer Jorge R",
+          "Oparil Suzanne",
+          "Høieggen Aud"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Angiotensin II Type 1 Receptor Blockers",
+          "Antihypertensive Agents",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Losartan",
+          "Risk Factors",
+          "Stroke"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17703637/"
+      },
+      {
+        "pmid": "19296759",
+        "title": "Efficacy and safety of olmesartan medoxomil alone and in combination with hydrochlorothiazide.",
+        "abstract": "In at least 50% of patients with hypertension, particularly those with stage 2 hypertension, combination drug therapy is required to achieve the currently recommended blood pressure (BP) goals. It is likely that future hypertension guidelines will recommend lowering BP beyond the currently recommended systolic/diastolic BP goals of lower than 140/90 mmHg for all patients with hypertension and lower than 130/80 mmHg for patients with diabetes or chronic kidney disease. In a series of clinical trials, the combination of olmesartan medoxomil, a well-established angiotensin receptor blocker, and hydrochlorothiazide, a thiazide diuretic, has produced greater reductions in systolic BP and diastolic BP and greater proportions of patients achieving BP goals than monotherapy with either component. Additionally, the increased efficacy resulting from the combination with hydrochlorothiazide does not appear to significantly affect the tolerability profile of olmesartan medoxomil. This article prov",
+        "journal": "Expert review of cardiovascular therapy",
+        "year": "2009",
+        "authors": [
+          "Punzi Henry A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Animals",
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Imidazoles",
+          "Olmesartan Medoxomil"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19296759/"
+      },
+      {
+        "pmid": "8282360",
+        "title": "Combined versus single effect of fosinopril and hydrochlorothiazide in hypertensive patients.",
+        "abstract": "The antihypertensive effect and safety of fosinopril and hydrochlorothiazide combined were compared with each drug singly and placebo in a controlled manner. After a 4- to 5-week placebo lead-in period, 67 mild to moderate essential hypertensive patients (seated diastolic blood pressure > or = 95 and < or = 110 mm Hg) were randomized in a double-blind fashion into four parallel treatment groups: 20 mg fosinopril plus 12.5 mg hydrochlorothiazide, 20 mg fosinopril, 12.5 mg hydrochlorothiazide, and placebo during 8 weeks. Patients were seen biweekly. Sitting diastolic blood pressure was the outcome variable defining therapeutic response. The efficacy of fosinopril plus hydrochlorothiazide as a combined therapy was superior to any single drug (P < .05) and placebo (P < .01) in the treatment of mild to moderate essential hypertension. Mean adjusted systolic/diastolic blood pressure decrements at week 8 were -18.8/-13.7, -12.9/-11.8, -8.5/-9.3, and -2.7/-6.9 mm Hg for the fosinopril plus hyd",
+        "journal": "Hypertension (Dallas, Tex. : 1979)",
+        "year": "1994",
+        "authors": [
+          "Fernández M",
+          "Madero R",
+          "González D",
+          "Camacho P",
+          "Villalpando J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Double-Blind Method",
+          "Drug Therapy, Combination",
+          "Female",
+          "Fosinopril",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8282360/"
+      },
+      {
+        "pmid": "36376654",
+        "title": "[Not Available].",
+        "abstract": "",
+        "journal": "MMW Fortschritte der Medizin",
+        "year": "2022",
+        "authors": [
+          "Schumacher Beate"
+        ],
+        "pub_types": [
+          "News"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydrochlorothiazide",
+          "Antihypertensive Agents",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36376654/"
+      },
+      {
+        "pmid": "19689218",
+        "title": "Valsartan/hydrochlorothiazide: pharmacology and clinical efficacy.",
+        "abstract": "Valsartan/hydrochlorothiazide is a combination of an angiotensin II receptor antagonist and diuretic indicated for hypertensive patients as initial therapy and those not controlled on monotherapy.",
+        "journal": "Expert opinion on drug metabolism & toxicology",
+        "year": "2009",
+        "authors": [
+          "Kondrack Robyn",
+          "Mohiuddin Syed"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Clinical Trials as Topic",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Tetrazoles",
+          "Valine",
+          "Valsartan"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19689218/"
+      },
+      {
+        "pmid": "12215069",
+        "title": "Valsartan/hydrochlorothiazide: a review of its pharmacology, therapeutic efficacy and place in the management of hypertension.",
+        "abstract": "The combination of valsartan [an angiotensin II type 1 (AT(1)) receptor blocker] and hydrochlorothiazide (a thiazide diuretic), administered once daily, has been evaluated in the treatment of patients with hypertension in clinical trials ranging in duration from 8 weeks to 3 years. These studies showed that combination treatment with valsartan 80 or 160mg and hydrochlorothiazide 12.5 or 25mg induced significant reductions from baseline in systolic blood pressure (SBP) and diastolic BP (DBP) in patients with mild to severe hypertension. Clinical trials have demonstrated that the combination of valsartan 80 or 160mg with hydrochlorothiazide 12.5 or 25mg is significantly more effective than either drug alone. Furthermore, valsartan plus hydrochlorothiazide was effective at reducing BP in patients unresponsive to monotherapy with either agent alone. Effective BP control with valsartan plus hydrochlorothiazide was maintained in long-term studies, with reductions observed after 3 months of t",
+        "journal": "Drugs",
+        "year": "2002",
+        "authors": [
+          "Wellington Keri",
+          "Faulds Diana M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Databases, Bibliographic",
+          "Diuretics",
+          "Drug Therapy, Combination",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Randomized Controlled Trials as Topic",
+          "Sodium Chloride Symporter Inhibitors",
+          "Tetrazoles"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12215069/"
+      },
+      {
+        "pmid": "33851692",
+        "title": "Superior antihypertensive and cardioprotective effects of chlorthalidone compared with hydrochlorothiazide.",
+        "abstract": "Diuretics are the most commonly used drugs for the treatment of hypertension, either alone or in combination with other antihypertensive drugs. Of all diuretics, hydrochlorothiazide (HCTZ) and chlorthalidone (CTD) are the most commonly used, with HCTZ being the most widely prescribed diuretic. Recent studies have shown that CTD is a better diuretic with superior antihypertensive effectiveness and cardiovascular protection. Although these diuretics are chemically, pharmacokinetically and pharmacodynamically different, CTD continues to be called a \"thiazide-like\" diuretic. The only common features they both share are a sulfhydryl group in their molecules and their common mechanism and site of diuretic action. In order to get a better understanding of the true pharmacologic actions as well as the benefits and risks of these diuretics, a MEDLINE search of the English language literature between 1964 and January 2021 was conducted, using the terms \"diuretics\", \"hydrochlorothiazide\", \"chlort",
+        "journal": "Drugs of today (Barcelona, Spain : 1998)",
+        "year": "2021",
+        "authors": [
+          "Chrysant S G",
+          "Chrysant G S"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Blood Pressure",
+          "Chlorthalidone",
+          "Diuretics",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33851692/"
+      },
+      {
+        "pmid": "14028477",
+        "title": "Drug-induced diabetes.",
+        "abstract": "",
+        "journal": "Lancet (London, England)",
+        "year": "1962",
+        "authors": [
+          "DOLLERY C T",
+          "PENTECOST B L",
+          "SAMAAN N A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Benzothiadiazines",
+          "Diabetes Mellitus",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14028477/"
+      },
+      {
+        "pmid": "7636894",
+        "title": "The efficacy and tolerability of amlodipine and hydrochlorothiazide in Nigerians with essential hypertension.",
+        "abstract": "The efficacy and safety of the novel calcium antagonist Amlodipine (Pfizer Laboratories, New York, New York) and hydrochlorothiazide were evaluated and compared in a randomized, single-blind, parallel group study in black Africans with essential hypertension. Twenty Nigerians with newly diagnosed mild to moderate essential hypertension were randomized to receive ascending doses of Amlodipine (5 mg and 10 mg) or hydrochlorothiazide (25 mg or 50 mg), and blood pressure and heart rate were measured at baseline and at 2, 4, and 6 weeks of therapy. Both Amlodipine and hydrochlorothiazide significantly reduced supine and erect blood pressure. Supine blood pressure on Amlodipine fell from a mean of 190/104 mm Hg to 150/79 mm Hg, and on thiazide from 180/103 mm Hg to 141/84 mm Hg. There was, however, no significant difference between both drugs in antihypertensive efficacy. Neither drug induced a reflex increase in heart rate. The fall in blood pressure on both agents was associated with an in",
+        "journal": "Journal of the National Medical Association",
+        "year": "1995",
+        "authors": [
+          "Ajayi A A",
+          "Akintomide A O"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Comparative Study",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Amlodipine",
+          "Blood Pressure",
+          "Drug Tolerance",
+          "Female",
+          "Heart Rate",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Hypokalemia",
+          "Male"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7636894/"
+      },
+      {
+        "pmid": "6374931",
+        "title": "Reserpine plus hydrochlorothiazide and sotalol plus hydrochlorothiazide in Black and Indian hypertensive patients.",
+        "abstract": "Fifty patients (25 Blacks and 25 Indians) suffering from mild-to-moderate hypertension (supine diastolic blood pressure 100 - 105 mmHg) were studied in order to compare the antihypertensive effect of a combination of a beta-blocker (sotalol hydrochloride 160 mg/d) plus a thiazide derivative (hydrochlorothiazide 25 mg/d) ( Sotazide ; B-M) with that of a combination of reserpine 0,1 mg/d ( Serpasil ; Ciba) plus hydrochlorothiazide 25 mg/d ( Dichlotride ; Frosst MSD). The combination of reserpine plus hydrochlorothiazide was found to be as effective as that of sotalol plus hydrochlorothiazide in lowering the blood pressure in both the Black and the Indian patients. Two patients taking the combination containing reserpine developed side-effects, but this did not occur in any of those taking the combination containing sotalol. We feel that in developing countries, where the cost of therapy is important, reserpine in a dosage of less than 0,1 mg/d plus a thiazide derivative in low dosage is ",
+        "journal": "South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde",
+        "year": "1984",
+        "authors": [
+          "Seedat Y K",
+          "Hoosen S",
+          "Bhigjee A I"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Blood Pressure",
+          "Clinical Trials as Topic",
+          "Double-Blind Method",
+          "Drug Combinations",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Random Allocation",
+          "Reserpine",
+          "Sotalol"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6374931/"
+      },
+      {
+        "pmid": "3582468",
+        "title": "A comparative study of the pharmacokinetics and pharmacodynamics of atenolol, hydrochlorothiazide and amiloride in normal young and elderly subjects and elderly hypertensive patients.",
+        "abstract": "Six normal young and six normal elderly volunteers and six elderly hypertensive patients took part in an acute and chronic dose study of a combination capsule containing atenolol (50 mg), hydrochlorothiazide (25 mg) and amiloride (2.5 mg) designed for the treatment of hypertension. No difference in any of the drug pharmacokinetic parameters could be detected between the hypertensives and the normal elderly subjects. The bio-availability and the 24-h blood concentrations of all three drugs, half-life of atenolol and amiloride and the peak concentration of hydrochlorothiazide was significantly greater in the elderly. The 24-h blood concentrations of atenolol and hydrochlorothiazide did not alter with chronic dosing, but amiloride concentrations were significantly higher at this time in all groups. A significant fall in the blood pressure was observed in the hypertensive group. Heart rate fell more in the normal and hypertensive elderly subjects than in the young. The combination has show",
+        "journal": "European journal of clinical pharmacology",
+        "year": "1987",
+        "authors": [
+          "Sabanathan K",
+          "Castleden C M",
+          "Adam H K",
+          "Ryan J",
+          "Fitzsimons T J"
+        ],
+        "pub_types": [
+          "Comparative Study",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Aging",
+          "Amiloride",
+          "Atenolol",
+          "Blood Pressure",
+          "Drug Combinations",
+          "Heart Rate",
+          "Humans",
+          "Hydrochlorothiazide"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3582468/"
+      },
+      {
+        "pmid": "23067322",
+        "title": "The single pill triple combination of aliskiren, amlodipine, and hydrochlorothiazide in the treatment of hypertension.",
+        "abstract": "Hypertension is a leading cause of cardiovascular morbidity and mortality, and uncontrolled hypertension remains common despite the availability of several classes of effective antihypertensive medications. Combination therapy with antihypertensive agents of complementary actions has been advocated in the management of hypertension to maximize efficacy and minimize side effects.",
+        "journal": "Expert opinion on pharmacotherapy",
+        "year": "2012",
+        "authors": [
+          "Huan Yonghong",
+          "Townsend Raymond"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Amides",
+          "Amlodipine",
+          "Antihypertensive Agents",
+          "Drug Combinations",
+          "Fumarates",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23067322/"
+      },
+      {
+        "pmid": "24905126",
+        "title": "Clinical inquiry: How do hydrochlorothiazide and chlorthalidone compare for treating hypertension?",
+        "abstract": "",
+        "journal": "The Journal of family practice",
+        "year": "2014",
+        "authors": [
+          "Kildare Leanne",
+          "Jones Ty",
+          "Neher Jon O",
+          "St Anna Leilani"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antihypertensive Agents",
+          "Chlorthalidone",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24905126/"
+      },
+      {
+        "pmid": "32668519",
+        "title": "Response to comment on \"Hydrochlorothiazide use and the risk of skin cancer in patients with hypertensive disorder: a nationwide retrospective cohort study from Korea\".",
+        "abstract": "",
+        "journal": "The Korean journal of internal medicine",
+        "year": "2020",
+        "authors": [
+          "Park Eunjung",
+          "Lee Young",
+          "Jue Mihn-Sook"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Republic of Korea",
+          "Retrospective Studies",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32668519/"
+      },
+      {
+        "pmid": "5455635",
+        "title": "Effects of large and small doses of hydrochlorothiazide in hypertensive patients.",
+        "abstract": "",
+        "journal": "Clinical pharmacology and therapeutics",
+        "year": "1970",
+        "authors": [
+          "McLeod P J",
+          "Ogilvie R I",
+          "Ruedy J"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Aged",
+          "Blood Chemical Analysis",
+          "Blood Pressure",
+          "Body Weight",
+          "Diuresis",
+          "Female",
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5455635/"
+      },
+      {
+        "pmid": "2527546",
+        "title": "Pharmacokinetics and effects on renal function following cilazapril and hydrochlorothiazide alone and in combination in healthy subjects and hypertensive patients.",
+        "abstract": "1. Possible interactions between cilazapril and hydrochlorothiazide with respect to pharmacokinetics and renal effects were investigated in healthy subjects (single dose) and in hypertensive patients (multiple dosing). 2. No significant pharmacokinetic interaction was found between cilazapril and hydrochlorothiazide. 3. Cilazapril showed weak saluretic properties as compared with hydrochlorothiazide, but increased the saluretic effects of hydrochlorothiazide. 4. Cilazapril attenuated the hypokalaemia observed with hydrochlorothiazide in hypertensive patients. 5. The effect on blood pressure reduction obtained from the combination of cilazapril and hydrochlorothiazide lasted longer than that of cilazapril alone.",
+        "journal": "British journal of clinical pharmacology",
+        "year": "1989",
+        "authors": [
+          "Nilsen O G",
+          "Sellevold O F",
+          "Romfo O S",
+          "Smedsrud A",
+          "Grynne B"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Controlled Clinical Trial",
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Blood Pressure",
+          "Cilazapril",
+          "Double-Blind Method",
+          "Drug Interactions",
+          "Drug Therapy, Combination",
+          "Female",
+          "Glomerular Filtration Rate",
+          "Half-Life"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2527546/"
+      },
+      {
+        "pmid": "32229795",
+        "title": "Comment on \"Hydrochlorothiazide use and the risk of skin cancer in patients with hypertensive disorder: a nationwide retrospective cohort study from Korea\".",
+        "abstract": "",
+        "journal": "The Korean journal of internal medicine",
+        "year": "2020",
+        "authors": [
+          "Pottegård Anton",
+          "Morales Daniel"
+        ],
+        "pub_types": [
+          "Letter",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "Humans",
+          "Hydrochlorothiazide",
+          "Hypertension",
+          "Republic of Korea",
+          "Retrospective Studies",
+          "Skin Neoplasms"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32229795/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T15:23:19.935767",
+  "success": true,
+  "error_message": null
+}

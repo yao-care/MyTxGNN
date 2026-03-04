@@ -1,0 +1,30 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Magnesium Trisilicate",
+    "disease": "peptic ulcer disease"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT07310927",
+      "title": "Alginate vs Sucralfate for GERD Symptomatic Relief in Combination With PPIS",
+      "phase": "PHASE2, PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2025-04-01",
+      "completion_date": "2026-02-28",
+      "country": "Pakistan",
+      "enrollment": 140,
+      "brief_summary": "Gastroesophageal reflux disease (GERD) is a chronic gastrointestinal disorder characterized by the regurgitation of gastric contents into the esophagus.It can also present in an atypical manner such as chest pain, dental erosions, chronic cough, laryngitis, or asthma i.e. extra gastroesophageal symptoms. Sucralfate is a unique anti-ulcer drug and is a basic aluminum salt of sucrose octa-sulfate. It forms a protective layer, enhancing bicarbonate production, demonstrating anti-peptic properties, ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All patients having symptoms of severe GERD for more than 3 times /week\n\nExclusion Criteria:\n\n1. Patients with preexisting cardiovascular disorders\n2. Patients with chronic kidney or liver diseases\n3. Patients with gross abnormalities on upper GI endoscopies e.g.; ulcers, tumo",
+      "endpoints": [
+        "Quality of Life in Reflux and Dyspepsia"
+      ],
+      "sponsor": "CMH Lahore Medical College and Institute of Dentistry",
+      "url": "https://clinicaltrials.gov/study/NCT07310927"
+    }
+  ],
+  "timestamp": "2026-03-04T16:55:29.641378",
+  "success": true,
+  "error_message": null
+}

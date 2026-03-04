@@ -1,0 +1,35 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Ciprofloxacin",
+    "disease": "acute contagious conjunctivitis",
+    "query_string": "Ciprofloxacin AND acute contagious conjunctivitis"
+  },
+  "data": {
+    "query": "Ciprofloxacin AND acute contagious conjunctivitis",
+    "results": [
+      {
+        "pmid": "31788487",
+        "title": "Bacteriology and Antimicrobial Susceptibility Patterns of Childhood Acute Bacterial Conjunctivitis in Western Greece.",
+        "abstract": "Acute bacterial conjunctivitis is a common, highly contagious infection in children and is usually treated empirically with broad spectrum topical antibiotics. In the current study we investigated bacteriology and antibiotic susceptibility patterns in childhood acute bacterial conjunctivitis in Western Greece. We conducted a retrospective analysis of presumed acute bacterial conjunctivitis cases in ''Karamandaneio'' Pediatric General Hospital of Patras, Western Greece, between February 1, 2013 and January 31, 2018. Specimens from the lower conjunctiva fornix were isolated from 191 cases and outcomes were analyzed to identify the pathogenic bacteria of acute bacterial conjunctivitis and their corresponding antibiotic susceptibility patterns. Patients were divided into 3 groups; Group A included neonates under 28 days of life, Group B children from 1 month to 2 years and Group C from 2 years to 14 years. Results revealed that Staphylococcus spp., Haemophilus spp. and Streptococcus spp. w",
+        "journal": "Medical hypothesis, discovery & innovation ophthalmology journal",
+        "year": "2019",
+        "authors": [
+          "Oikonomakou Maria-Zoi",
+          "Makri Olga E",
+          "Panoutsou Eleni",
+          "Kagkelaris Konstantinos",
+          "Plotas Panagiotis"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31788487/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T14:51:10.811813",
+  "success": true,
+  "error_message": null
+}

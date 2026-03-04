@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Glycine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00145",
+    "name": "Glycine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:13:51.698683",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,575 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Erythromycin",
+    "disease": "pneumonia caused by chlamydia",
+    "query_string": "Erythromycin AND pneumonia caused by chlamydia"
+  },
+  "data": {
+    "query": "Erythromycin AND pneumonia caused by chlamydia",
+    "results": [
+      {
+        "pmid": "36207958",
+        "title": "[Clinical characteristics and outcomes of acute respiratory distress syndrome caused by severe Chlamydia psittaci pneumonia].",
+        "abstract": "Objective: To investigate the clinical characteristics and outcomes of acute respiratory distress syndrome (ARDS) caused by Chlamydia psittaci pneumonia. Methods: From June 2016 to January 2021, 10 cases were diagnosed as severe Chlamydia psittaci pneumonia induced ARDS in Intensive Care Unit of Respiratory and Critical Care Medicine Department (RICU) of Beijing Chao-Yang Hospital Affiliated to Capital Medical University. We collected the clinical data including clinical features, laboratory tests, imaging and outcomes of the patients. Results: The pathogenic diagnosis was confirmed by metagenomic Next-generation Sequencing (mNGS) in these 10 patients, with a median age of 59 (46, 67) years. In addition to high fever, cough and dyspnea, the patients also had multiple organ involvement. Six patients had elevated peripheral leukocyte count, 10 cases had increased type B natriuretic peptide, 7 cases had increased aspartate aminotransferase/alanine aminotransferase, 9 cases had hyponatremi",
+        "journal": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+        "year": "2022",
+        "authors": [
+          "Zhao Z L",
+          "Tang X",
+          "He C W",
+          "Liu Y L",
+          "Li X Y"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Alanine Transaminase",
+          "Aspartate Aminotransferases",
+          "Azithromycin",
+          "Chlamydophila psittaci",
+          "Creatinine",
+          "Humans",
+          "Middle Aged",
+          "Moxifloxacin",
+          "Natriuretic Peptide, Brain"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36207958/"
+      },
+      {
+        "pmid": "9193855",
+        "title": "Atypical pathogen pneumonia.",
+        "abstract": "The term atypical pathogens has been applied in recent years to Chlamydia pneumoniae, Mycoplasma pneumoniae, and the various species of Legionella. The incidence of pneumonia caused by these pathogens has increased with the development of specific diagnostic techniques. Atypical pathogen community-acquired pneumonia demonstrates a broad spectrum of severity from a mild disease not requiring hospitalization to adult respiratory distress syndrome necessitating mechanical ventilation. The clinical, radiological, and laboratory manifestations of the disease are similar to those of community-acquired pneumonia caused by other pathogens, and reliable etiological differentiation cannot be based on these factors alone. The possibility of shortening treatment time, at least in some patients, by antibiotic therapy with the new macrolides has been added to standard therapeutic regimens with erythromycin, tetracyclines, or quinolones.",
+        "journal": "Current opinion in pulmonary medicine",
+        "year": "1997",
+        "authors": [
+          "Lieberman D",
+          "Lieberman D"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Community-Acquired Infections",
+          "Hantavirus Pulmonary Syndrome",
+          "Humans",
+          "Legionnaires' Disease",
+          "Pneumonia",
+          "Pneumonia, Mycoplasma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9193855/"
+      },
+      {
+        "pmid": "2496449",
+        "title": "Pneumonia caused by Mycoplasma pneumoniae and the TWAR agent.",
+        "abstract": "Mycoplasma pneumoniae and the TWAR agent account for a good proportion of pneumonias acquired in the community among older children and young adults. Recovery from these infections is common, although serious complications may occur. Each is associated with fever, nonproductive cough, and headache. The full clinical manifestations of TWAR agent infection are only now beginning to be defined. Diagnosis of M pneumoniae can be by serology and/or culture capabilities. The TWAR agent cannot be routinely isolated and serologic tests are available only in research laboratories. Response to tetracycline antibiotics has been established for each agent and hospitalization is rarely needed. Erythromycin and other macrolide antibiotics have good activity against M pneumoniae and can be employed as an alternative to tetracycline antibiotics for this pathogen.",
+        "journal": "Seminars in respiratory infections",
+        "year": "1989",
+        "authors": [
+          "Atmar R L",
+          "Greenberg S B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Child",
+          "Chlamydia",
+          "Chlamydia Infections",
+          "Humans",
+          "Mycoplasma pneumoniae",
+          "Pneumonia",
+          "Pneumonia, Mycoplasma"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2496449/"
+      },
+      {
+        "pmid": "10084418",
+        "title": "Intravenous azithromycin.",
+        "abstract": "To review the pharmacology, microbiology, chemistry, pharmacokinetics, efficacy, safety, tolerability, dosage, administration, and economic issues of intravenous azithromycin.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1999",
+        "authors": [
+          "Garey K W",
+          "Amsden G W"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Clinical Trials as Topic",
+          "Community-Acquired Infections",
+          "Drug Interactions",
+          "Drug Resistance, Microbial",
+          "Economics, Pharmaceutical",
+          "Female",
+          "Humans",
+          "Infusions, Intravenous"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10084418/"
+      },
+      {
+        "pmid": "7817549",
+        "title": "Community-acquired pneumonia in adults.",
+        "abstract": "Although the frequency of community-acquired pneumonia caused by Streptococcus pneumoniae continues to be high, studies show that Mycoplasma pneumoniae, Chlamydia pneumoniae, or Legionella pneumophila are the etiologic agents in 20% to 40% of community-acquired pneumonia in adults. The clinical presentation of pneumonia caused by these organisms may be indistinguishable from pneumonia due to S pneumoniae. Separation of cases of pneumonia due to S pneumoniae as typical and that caused by M pneumoniae, C pneumoniae, or L pneumophila as atypical is unwarranted and unhelpful in planning therapy. As many as 35% to 50% of patients do not have an etiologic agent identified. Community-acquired pneumonia can have high morbidity and mortality in patients who are older, have underlying lung disease, diabetes mellitus, or other comorbid conditions, or who have decreased immune function regardless of the specific etiologic agent. In choosing appropriate empiric antimicrobial therapy in hosts who ar",
+        "journal": "The Western journal of medicine",
+        "year": "1994",
+        "authors": [
+          "Sue D Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Humans",
+          "Pneumonia"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7817549/"
+      },
+      {
+        "pmid": "12013330",
+        "title": "3: Community-acquired pneumonia.",
+        "abstract": "Community-acquired pneumonia is caused by a range of organisms, most commonly Streptococcus pneumoniae, Mycoplasma pneumoniae, Chlamydia pneumoniae and respiratory viruses. Chest x-ray is required for diagnosis. A risk score based on patient age, coexisting illness, physical signs and results of investigations can aid management decisions. Patients at low risk can usually be managed with oral antibiotics at home, while those at higher risk should be further assessed, and may need admission to hospital and intravenous therapy. For S. pneumoniae infection, amoxycillin is the recommended oral drug, while benzylpenicillin is recommended for intravenous use; all patients should also receive a tetracycline (eg, doxycycline) or macrolide (eg, roxithromycin) as part of initial therapy. Flucloxacillin or dicloxacillin should be added if staphylococcal pneumonia is suspected, and gentamicin or other specific therapy if gram-negative pneumonia is suspected; a third-generation cephalosporin plus i",
+        "journal": "The Medical journal of Australia",
+        "year": "2002",
+        "authors": [
+          "Johnson Paul D R",
+          "Irving Lou B",
+          "Turnidge John D"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Diagnosis, Differential",
+          "Evidence-Based Medicine",
+          "Humans",
+          "Male",
+          "Penicillin Resistance",
+          "Pneumonia",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12013330/"
+      },
+      {
+        "pmid": "6388234",
+        "title": "Neonatal conjunctivitis caused by Chlamydia trachomatis.",
+        "abstract": "Chlamydia trachomatis is a common cause of neonatal infection in industrialized countries and is acquired from the infected maternal cervix. Multiple mucosal surfaces, including the respiratory and the gastrointestinal tract as well as the conjunctiva, will be colonized by the organism. Conjunctivitis and pneumonia are the illnesses presently recognized as manifestations of these infections. C. trachomatis is isolated from the eye in 14 to 25% of patients with neonatal conjunctivitis and there is often an associated nasopharyngeal infection. The conjunctivitis is often the first clinical manifestation of these potentially systemic infections and therefore systemic therapy is required. The recommended treatment in neonatal chlamydial conjunctivitis is oral erythromycin 25 mg/kg every 12 hours for 14 days. This dose is well tolerated by the infant. Parents of infants with chlamydia infection should be treated with oral erythromycin or tetracyclines. Erythromycin should be given to breast",
+        "journal": "Acta oto-laryngologica. Supplementum",
+        "year": "1984",
+        "authors": [
+          "Sandström I"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Bacteriological Techniques",
+          "Conjunctivitis, Inclusion",
+          "Diagnosis, Differential",
+          "Erythromycin",
+          "Erythromycin Ethylsuccinate",
+          "Humans",
+          "Infant, Newborn",
+          "Microbial Sensitivity Tests"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6388234/"
+      },
+      {
+        "pmid": "15700690",
+        "title": "[Choice of antimicrobial drug for infections caused by Chlamydia trachomatis and Chlamydophila pneumoniae].",
+        "abstract": "Chlamydia (C.) trachomatis is the most common bacterial cause of sexually transmitted disease in the world. A well documented feature of chlamydial infection is its high rate of recurrence among sexually active populations. However, it is difficult to distinguish whether the high rate of recurrent disease is due to reinfection or to persistent infection with the same organism. Of particular concern in this era of increasing antibiotic resistance is whether persistent infection is the consequence of increasing resistance to standard antimicrobial therapy. Azithromycin and doxycycline are considered by the Centers for Disease Control and Prevention (CDC) as first line drugs for the treatment of chlamydial infections; erythromycin, ofloxacin and levofloxacin are recommended as alternative-regimen. Although C. trachomatis has been historically sensitive to these antibiotics, in vitro resistance is being increasingly reported. However, although in vitro antimicrobial resistance has been des",
+        "journal": "Acta medica Croatica : casopis Hravatske akademije medicinskih znanosti",
+        "year": "2004",
+        "authors": [
+          "Zele-Starcević Lidija",
+          "Plecko Vanda",
+          "Budimir Ana",
+          "Kalenić Smilja"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Humans",
+          "Sexually Transmitted Diseases, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15700690/"
+      },
+      {
+        "pmid": "1749296",
+        "title": "Tetracyclines, chloramphenicol, erythromycin, clindamycin, and metronidazole.",
+        "abstract": "The tetracyclines are effective in the treatment of Chlamydia, Mycoplasma pneumoniae, and rickettsial infections and also can be used for gonococcal infections in patients unable to tolerate penicillin. These drugs may cause gastrointestinal irritation, diarrhea, phototoxic dermatitis, and vestibular damage, and fatal reactions due to hepatotoxicity have occurred in pregnant women. Chloramphenicol has a broad spectrum of bacteriostatic activity, but its association with suppression of the bone marrow and aplastic anemia has relegated it to a historical role. Erythromycin is the drug of choice for the treatment of infections caused by M. pneumoniae, Legionella species, group A beta-hemolytic streptococci, and Streptococcus pneumoniae. The frequency of serious adverse effects associated with the use of erythromycin is low; dose-related epigastric distress may occur. Clindamycin is bactericidal to most nonenterococcal gram-positive aerobic bacteria and many anaerobic microorganisms. Altho",
+        "journal": "Mayo Clinic proceedings",
+        "year": "1991",
+        "authors": [
+          "Smilack J D",
+          "Wilson W R",
+          "Cockerill F R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Chloramphenicol",
+          "Clindamycin",
+          "Drug Resistance, Microbial",
+          "Erythromycin",
+          "Humans",
+          "Metronidazole",
+          "Tetracyclines"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1749296/"
+      },
+      {
+        "pmid": "8493198",
+        "title": "Atypical pneumonias. Clinical and extrapulmonary features of Chlamydia, Mycoplasma, and Legionella infections.",
+        "abstract": "Pneumonias caused by atypical organisms usually have extra-pulmonary features. Chlamydial pneumonia often starts with hoarseness and fever, and respiratory tract symptoms may not appear for days. Mycoplasmal pneumonia may manifest with ear pain and a nonproductive cough. Legionnaires' disease presents with high fevers and central nervous system and gastrointestinal abnormalities. Diagnosis of chlamydial infection is accomplished with serologic testing. Patients are unresponsive to erythromycin treatment and should be started on empirical doxycycline (Doryx, Vibramycin) therapy. The presence of cold agglutinins in the appropriate clinical setting permits a presumptive diagnosis of mycoplasmal infection. Clinical diagnosis of Legionella pneumonia may be made in patients with pneumonia who also have relative bradycardia with elevated serum transaminases or hypophosphatemia with gastrointestinal or central nervous system symptoms. Erythromycin is the mainstay of treatment of legionnaires' ",
+        "journal": "Postgraduate medicine",
+        "year": "1993",
+        "authors": [
+          "Johnson D H",
+          "Cunha B A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Humans",
+          "Legionnaires' Disease",
+          "Pneumonia",
+          "Pneumonia, Mycoplasma",
+          "Pneumonia, Rickettsial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8493198/"
+      },
+      {
+        "pmid": "9109154",
+        "title": "History of macrolide use in pediatrics.",
+        "abstract": "Erythromycin, the prototypical macrolide, has been widely used since the 1950s in the management of pediatric infections. Erythromycin is the drug of choice for infants and children with Legionnaire's disease, pertussis, diphtheria, lower respiratory tract infections caused by Mycoplasma pneumoniae, Chlamydia pneumoniae and Chlamydia trachomatis and enteritis caused by Campylobacter jejuni. It is also indicated for treatment of syphilis; for streptococcal, staphylococcal and pneumococcal infections; genital infections caused by Ureaplasma urealyticum; and for the prevention of rheumatic fever and endocarditis in patients who are allergic to beta-lactam antibiotics. The new macrolides azithromycin and clarithromycin are also active against Borrelia burgdorferi, Helicobacter pylori, Mycobacterium avium-intracellulare complex, Cryptosporidium spp. and Toxoplasma gondii. Erythromycin is associated with a low risk of serious side effects, although gastric distress occurs in a significant pr",
+        "journal": "The Pediatric infectious disease journal",
+        "year": "1997",
+        "authors": [
+          "Klein J O"
+        ],
+        "pub_types": [
+          "Historical Article",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Bacterial Infections",
+          "Child",
+          "Child, Preschool",
+          "Clarithromycin",
+          "Drug Interactions",
+          "Erythromycin",
+          "Haemophilus Infections"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9109154/"
+      },
+      {
+        "pmid": "8357517",
+        "title": "[Neonatal conjunctivitis caused by Chlamydia trachomatis].",
+        "abstract": "32 newborns with neonatal Chlamydia trachomatis conjunctivitis were reported. Diagnosis was carried out through immunofluorescent monoclonal antibody of conjunctiva scraping staining; 37 conjunctiva samples were taken from same number of newborn patients not responds to topical antibiotic treatment. The sample came out from two different third level institutions with maternal facilities and attending more than five thousand deliveries per year each one of them. Were studied incidence and clinical picture from neonatal C. trachomatis conjunctivitis. Positive immunofluorescent and conjunctive culture of secretion to C. trachomatis in the sample were 86 per cent (32 out of 37). 19 of the newborns acquired Staphylococcus associated to C. trachomatis (59%): nine with S. aureus in six Staphylococcus negative coagulase was isolated and four with the latest two. Out of 32 patients who demonstrated positive cultures to C. trachomatis (86%), 22(69%) were males and ten (31%) were females. Signifi",
+        "journal": "Boletin medico del Hospital Infantil de Mexico",
+        "year": "1993",
+        "authors": [
+          "Yescas-Buendía G",
+          "Udaeta-Mora E",
+          "Arredondo-García J L",
+          "Guerra F",
+          "Chávez-González C"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Conjunctivitis, Bacterial",
+          "Female",
+          "Humans",
+          "Infant, Newborn",
+          "Male",
+          "Prospective Studies",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8357517/"
+      },
+      {
+        "pmid": "1792424",
+        "title": "Community acquired pneumonia caused by Chlamydia pneumoniae strain TWAR in chronic cardiopulmonary disease in the elderly.",
+        "abstract": "The role of Chlamydia pneumoniae in respiratory infections is controversial. Seroepidemiological studies in different countries have shown an incidence of around 50% of previous contact, whereas prospective studies only in the USA have detected 6-10% of C. pneumoniae in community acquired pneumonias; in a similar Swedish study no cases were detected. There have been no descriptions of this Chlamydia in Mediterranean countries. The acute antibody response indicative of recent infection is accepted if the microimmunofluorescence test shows a fourfold rise in antibody or a titer 1/6 or higher of the IgM fraction. Since the introduction of the microimmunofluorescence test in our hospital, we have detected 4 cases of pneumonia associated to TWAR antibody in a current study of 63 cases of community acquired pneumonias which required hospitalization. All 4 patients presented chronic cardiopulmonary diseases. These facts and additional seroepidemiological studies with a frequency of 53% of pre",
+        "journal": "Respiration; international review of thoracic diseases",
+        "year": "1991",
+        "authors": [
+          "Pacheco A",
+          "González-Sainz J",
+          "Arocena C",
+          "Rebollar M",
+          "Antela A"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Aged, 80 and over",
+          "Antibodies, Bacterial",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Chronic Disease",
+          "Erythromycin",
+          "Female",
+          "Heart Diseases",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1792424/"
+      },
+      {
+        "pmid": "17095177",
+        "title": "13--Antibiotic therapy of community-acquired pneumonia (CAP) caused by atypical agents.",
+        "abstract": "Macrolides, fluoroquinolones, doxycycline, and ketolides show a good intrinsic activity against intracellular pathogens which are responsible for a variable percentage of community-acquired pneumonia (CAP). These therapeutic agents all seem effective in treating most cases of CAP caused by Mycoplasma pneumoniae, Chlamydia pneumoniae, or Legionella spp. Among quinolones, the more recent fluoroquinolones, such as gemifloxacin or moxifloxacin, generally show a better intrinsic activity than the older ones. Among macrolides, azithromycin, and clarithromycin show a better pharmacokinetic profile. Both of them are available in intravenous form. It is quite common for M. pneumoniae and C. pneumoniae to continue to be shed in respiratory secretions, weeks after an effective therapy. The clinical relevance of this finding is not clear since most of these patients have a good outcome. Azithromycin, due to its advantageous pharmacokinetic profile, seems the best option when antibiotic prophylaxis",
+        "journal": "Medecine et maladies infectieuses",
+        "year": "2006",
+        "authors": [
+          "Roig J",
+          "Casal J",
+          "Gispert P",
+          "Gea E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Community-Acquired Infections",
+          "Doxycycline",
+          "Fluoroquinolones",
+          "Humans",
+          "Ketolides",
+          "Macrolides",
+          "Pneumonia, Bacterial",
+          "Q Fever"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17095177/"
+      },
+      {
+        "pmid": "1326110",
+        "title": "[Pneumopathies caused by Chlamydia pneumoniae].",
+        "abstract": "Among the atypical pneumonias observed between March 1990 and March 1991, 6 were diagnosed as being caused by Chlamydia pneumoniae of the TWAR strain. The serological diagnosis was obtained by a microimmunofluorescence test. All 6 patients had anti-TWAR antibody levels higher than 512; they were treated with a macrolide administered by the oral route and were cured without sequelae or recurrences. Four cases received a ten day course of roxithromycin 300 mg/day and one case received erythromycin 2 g/day also for 10 days. The sixth case received a short course of azithromycin 500 mg once daily for three days. In 2 other patients presenting with clinical and radiological signs of pneumonia the diagnosis of C. pneumoniae infection could not be made despite an antibody level equal or higher than 512, since the serological results showed cross-reactions between C. pneumoniae, C. trachomatis and C. psittaci antibody responses.",
+        "journal": "Presse medicale (Paris, France : 1983)",
+        "year": "1992",
+        "authors": [
+          "Bruaire J P",
+          "Ducroix J P",
+          "Eb F",
+          "Smail A",
+          "Cohen G"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "English Abstract",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Azithromycin",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Erythromycin",
+          "Female",
+          "Fluorescent Antibody Technique",
+          "Humans",
+          "Male",
+          "Middle Aged"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1326110/"
+      },
+      {
+        "pmid": "16128864",
+        "title": "Azithromycin reduces Chlamydia pneumoniae-induced attenuation of eNOS and cGMP production by endothelial cells.",
+        "abstract": "Intracellular infections with cytomegalovirus (CMV) or Chlamydia pneumoniae (Cp) may play a role in the aetiology of atherosclerosis. Nitric oxide (NO) is a key regulator of endothelial function. Under pathological conditions uncoupling of endothelial nitric oxide synthase (eNOS) leads to vessel damage as a result of production of oxygen radicals instead of NO. We hypothesized that infection-induced atherosclerosis is initiated by changes in NO metabolism and may be reversed by azithromycin treatment.",
+        "journal": "European journal of clinical investigation",
+        "year": "2005",
+        "authors": [
+          "Bouwman J J M",
+          "Visseren F L J",
+          "Bevers L M",
+          "van der Vlist W E",
+          "Bouter K P"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Cell Survival",
+          "Cells, Cultured",
+          "Chlamydophila Infections",
+          "Chlamydophila pneumoniae",
+          "Cyclic GMP",
+          "Cytomegalovirus Infections",
+          "Endothelial Cells",
+          "Humans"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16128864/"
+      },
+      {
+        "pmid": "16888699",
+        "title": "[A young infant with afebrile pneumonia caused by Chlamydia trachomatis].",
+        "abstract": "Pregnant women who have an urogenital Chlamydia trachomatis infection may transmit the infection to their infants. Conjunctivitis and nasopharyngeal infection are the most frequent manifestations. Less frequently the infants may develop pneumonia. We report a case of a 5-week-old girl with poor feeding, staccato cough and clinical signs of pneumonia. Chest radiography revealed severe bronchopneumonia. Despite of intravenous therapy with ampicillin and gentamicin respiration deteriorated and oxygen supplementation became necessary. After additional treatment with oral erythromycin (50 mg/kg per day) had been started the clinical condition improved. Polymerase chain reaction with a nasopharyngeal specimen was found to be positive for Chlamydia trachomatis.",
+        "journal": "Klinische Padiatrie",
+        "year": "2008",
+        "authors": [
+          "Geis T",
+          "Schilling S",
+          "Segerer H"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Administration, Oral",
+          "Anti-Bacterial Agents",
+          "Bronchopneumonia",
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Erythromycin",
+          "Female",
+          "Follow-Up Studies",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16888699/"
+      },
+      {
+        "pmid": "7866068",
+        "title": "Azithromycin in the treatment of pneumonia caused by Chlamydia pneumoniae: report of a case.",
+        "abstract": "We report a 67-year-old male with pneumonia in which Chlamydia pneumoniae was identified by serologic studies as the causative agent. After initial treatment failure with amoxicillin + clavulanic acid, pneumonia was successfully treated with the administration of oral azithromycin, 500 mg per day, for three days. Azithromycin is a new macrolide which has a long half-life and superior action to erythromycin. It provides a new and alternative choice in the treatment of Chlamydia pneumoniae infection in the future.",
+        "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "year": "1994",
+        "authors": [
+          "Wang J H",
+          "Wang J H",
+          "Liu Y C",
+          "Chen Y S",
+          "Yen M Y"
+        ],
+        "pub_types": [
+          "Case Reports",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Aged",
+          "Azithromycin",
+          "Chlamydia Infections",
+          "Chlamydophila pneumoniae",
+          "Humans",
+          "Male",
+          "Pneumonia, Bacterial"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7866068/"
+      },
+      {
+        "pmid": "7970898",
+        "title": "Chlamydia trachomatis in children.",
+        "abstract": "",
+        "journal": "Pediatric annals",
+        "year": "1994",
+        "authors": [
+          "Hammerschlag M R"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Child",
+          "Child Abuse, Sexual",
+          "Child, Preschool",
+          "Chlamydia Infections",
+          "Chlamydia trachomatis",
+          "Conjunctivitis, Inclusion",
+          "Erythromycin",
+          "Female",
+          "Humans",
+          "Infant"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7970898/"
+      },
+      {
+        "pmid": "9172008",
+        "title": "Azithromycin in the treatment of pneumonias caused by Chlamydia spp: a retrospective study.",
+        "abstract": "A retrospective study was undertaken in order to compare the efficacy and safety of azithromycin and doxycycline in the treatment of pneumonias caused by Chlamydia spp. Patients with radiologically confirmed pneumonia and positive complement fixation test for chlamydial infection who were hospitalized in the University Hospital of Infectious Diseases, Zagreb during the years 1989-1992 were reviewed. Among them, 83 were treated with azithromycin, given in a total dose of 1.5 g over 5 days (500 mg once daily at day 1 followed by 250 mg at days 2-5, 60 patients) or 3 days (500 mg once daily, 23 patients). Twenty-two patients were treated with doxycycline (100 mg b.i.d. for 10 days). Treatment groups were comparable with respect to age, sex, and severity of signs and symptoms of illness. All the patients were cured. There were no differences in duration of fever after treatment initiation between patients treated with azithromycin (whether pretreated with beta-lactam antibiotics or not) an",
+        "journal": "International journal of clinical pharmacology research",
+        "year": "1996",
+        "authors": [
+          "Kuzman I",
+          "Oresković K",
+          "Schönwald S",
+          "Culig J"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Anti-Bacterial Agents",
+          "Azithromycin",
+          "Child",
+          "Chlamydia Infections",
+          "Doxycycline",
+          "Drug Administration Schedule",
+          "Female"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9172008/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:28:59.715699",
+  "success": true,
+  "error_message": null
+}

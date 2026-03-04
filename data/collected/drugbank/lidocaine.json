@@ -1,0 +1,17 @@
+{
+  "source": "drugbank",
+  "query": {
+    "drug": "Lidocaine"
+  },
+  "data": {
+    "found": true,
+    "drugbank_id": "DB00281",
+    "name": "Lidocaine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "timestamp": "2026-03-04T15:56:16.430143",
+  "success": true,
+  "error_message": null
+}

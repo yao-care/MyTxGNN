@@ -1,0 +1,570 @@
+{
+  "source": "pubmed",
+  "query": {
+    "drug": "Lamivudine",
+    "disease": "chronic hepatitis B virus infection",
+    "query_string": "Lamivudine AND chronic hepatitis B virus infection"
+  },
+  "data": {
+    "query": "Lamivudine AND chronic hepatitis B virus infection",
+    "results": [
+      {
+        "pmid": "12269843",
+        "title": "Lamivudine: in children and adolescents with chronic hepatitis B virus infection.",
+        "abstract": "Lamivudine, the negative enantiomer of 2'-deoxy-3'-thiacytidine, is a dideoxynucleoside analog that prevents hepatitis B virus (HBV) DNA synthesis by competitively inhibiting the viral reverse transcriptase and DNA polymerase stages of HBV replication and by terminating proviral DNA chain extension. A dose-ranging study established that once daily oral lamivudine 3 mg/kg up to a maximum of 100 mg/day has the optimum efficacy and tolerability profile for achieving a maximal reduction in serum HBV DNA levels in children aged 2 to 12 years and adolescents aged 13 to 17 years with chronic HBV infection and active viral replication (chronic hepatitis B). Significantly more children and adolescents with chronic hepatitis B receiving lamivudine demonstrated a virologic response (undetectable serum hepatitis Be antigen and undetectable HBV DNA level) [23 vs 13%; p = 0.04] and/or biochemical response (55 vs 12%; p < 0.001) compared with placebo in a large, randomized, double-blind, 52-week phas",
+        "journal": "Paediatric drugs",
+        "year": "2002",
+        "authors": [
+          "Keam Susan J",
+          "Scott Lesley J"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Antiviral Agents",
+          "Child",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12269843/"
+      },
+      {
+        "pmid": "19207972",
+        "title": "Natural history of chronic hepatitis B virus infection and long-term outcome under treatment.",
+        "abstract": "Chronic hepatitis B virus (HBV) infection is a dynamic state of interactions among HBV, the hepatocytes and the immune system of the patient. Perinatally or early childhood-acquired chronic HBV infection has a long 'immune tolerant phase', when patients are young, and HBeAg seropositive with a high viral load but with no significant liver disease. Persistent or episodic liver injuries during the 'immune clearance phase' may lead to decompensation, fibrosis progression or cirrhosis development in some patients, but may eventually lead to HBV-DNA seroclearance with HBeAg seroconversion and entry into the 'inactive phase' with remission. Hepatitis may relapse, because of reactivation of HBV with precore or basal core promptor mutations, and develop 'HBeAg-negative chronic hepatitis', in some patients. In contrast, HBsAg seroclearance may occur in those with sustained remission. During the course, HBV replication is the key driver of disease progression including development of cirrhosis a",
+        "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+        "year": "2009",
+        "authors": [
+          "Liaw Yun-Fan"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Research Support, Non-U.S. Gov't",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Age Factors",
+          "Antiviral Agents",
+          "Disease Progression",
+          "Drug Therapy, Combination",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Interferon-alpha",
+          "Lamivudine",
+          "Treatment Outcome"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19207972/"
+      },
+      {
+        "pmid": "31272463",
+        "title": "Lamivudine therapy for chronic hepatitis B in children: a meta-analysis.",
+        "abstract": "Currently, there is no consensus on the effects and safety of lamivudine therapy for chronic hepatitis B (CHB) in children.",
+        "journal": "Virology journal",
+        "year": "2019",
+        "authors": [
+          "Luo Aoran",
+          "Jiang Xiaoyan",
+          "Ren Hong"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Meta-Analysis",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Child",
+          "Drug Resistance, Viral",
+          "Hepatitis B virus",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine",
+          "Odds Ratio"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31272463/"
+      },
+      {
+        "pmid": "12526729",
+        "title": "Management of chronic hepatitis B virus infection in remote-dwelling Aboriginals and Torres Strait Islanders: an update for primary healthcare providers.",
+        "abstract": "Chronic HBV infection is common in remote Aboriginal and Torres Strait Islander communities, where resources are scarce and patients may have several concurrent illnesses. The management of chronic HBV infection has changed over recent years, with greater application of serological and radiological investigations and new, more acceptable treatments for chronic liver disease, cirrhosis and hepatocellular carcinoma. Optimal follow-up procedures for patients with chronic HBV infection are still being debated, but may not be applicable to Aboriginal and Torres Strait Islander communities where factors such as endemicity, remoteness, frequent comorbidities, shorter life expectancy and cultural differences in health priorities must be taken into consideration. We have defined an algorithm to assist primary care providers caring for patients with chronic HBV infection in Aboriginal and Torres Strait Islander communities. Patients are divided into one of three categories for follow-up and refe",
+        "journal": "The Medical journal of Australia",
+        "year": "2003",
+        "authors": [
+          "Fisher Dale A",
+          "Huffam Sarah E"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Adolescent",
+          "Adult",
+          "Algorithms",
+          "Antiviral Agents",
+          "Australia",
+          "Carcinoma, Hepatocellular",
+          "Child",
+          "Child, Preschool",
+          "Clinical Protocols"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12526729/"
+      },
+      {
+        "pmid": "15482184",
+        "title": "Lamivudine for chronic hepatitis B.",
+        "abstract": "Lamivudine (Epivir, GlaxoSmithKline) was approved by the US Food and Drug Administration for the treatment of adult patients with chronic hepatitis B in 1998, and has since been shown to be of benefit to selected patients with chronic hepatitis B. Drug resistance is the main issue encountered during therapy, with lamivudine resistant mutants emerging at a rate of approximately 15 to 30% per year of therapy. These mutants are associated with relapse of hepatitis, and occasionally hepatic decompensation. Despite this, therapeutic indications and guidelines for lamivudine therapy have now been drawn up, which indicate that lamivudine will be the first line therapy for hepatitis B e antigen-positive chronic hepatitis B patients, although its role in hepatitis B e antigen-negative patients remains controversial.",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2004",
+        "authors": [
+          "Leung Nancy"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Clinical Trials, Phase III as Topic",
+          "Drug Resistance, Viral",
+          "Female",
+          "Hepatitis B e Antigens",
+          "Hepatitis B virus",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Immunosuppression Therapy",
+          "Infectious Disease Transmission, Vertical"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15482184/"
+      },
+      {
+        "pmid": "16984494",
+        "title": "Systematic review: lamivudine prophylaxis for chemotherapy-induced reactivation of chronic hepatitis B virus infection.",
+        "abstract": "Reactivation of hepatitis B virus infection in asymptomatic hepatitis B surface antigen carriers undergoing chemotherapy or immunosuppressive therapy is a well-documented and potentially fatal complication. Data supporting the use of lamivudine for primary prophylaxis have emerged, but its use remains controversial and is not standardized.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2006",
+        "authors": [
+          "Kohrt H E",
+          "Ouyang D L",
+          "Keeffe E B"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh_terms": [
+          "Antineoplastic Agents",
+          "Antiviral Agents",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine",
+          "Prospective Studies",
+          "Randomized Controlled Trials as Topic",
+          "Reverse Transcriptase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16984494/"
+      },
+      {
+        "pmid": "12118403",
+        "title": "Chronic hepatitis B virus infection in renal transplant recipients.",
+        "abstract": "Although in Western Europe and North America the prevalence of chronic hepatitis B virus (HBV) infection has declined in patients awaiting renal transplantation, it remains a relevant clinical problem, mainly in patients with a long history of renal replacement therapy (RRT) who may have been infected many years ago. At the same time, a significant proportion of renal transplant recipients (RTR) is at risk for HBV infection in areas with endemic HBV. HBV infection may increase morbidity and mortality in RTR. The majority of long-term studies reported reduced patient survival compared with hepatitis B surface antigen (HBsAg)-negative RTR. The risk for morbidity and mortality of HBsAg-positive RTR transplantation is probably related to the extent of pretransplant liver disease. A thorough evaluation, including liver biopsy in many patients, is required to assess the individual HBsAg-positive patient's risk-benefit ratio. The influence of immunosuppressive therapy on HBV replication and H",
+        "journal": "Seminars in nephrology",
+        "year": "2002",
+        "authors": [
+          "Kletzmayr Josef",
+          "Watschinger Bruno"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Immunosuppression Therapy",
+          "Interferon-alpha",
+          "Kidney Failure, Chronic",
+          "Kidney Transplantation",
+          "Lamivudine",
+          "Practice Guidelines as Topic",
+          "Risk Factors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12118403/"
+      },
+      {
+        "pmid": "10534223",
+        "title": "Role of lamivudine in the treatment of chronic hepatitis B virus infection.",
+        "abstract": "To examine the evidence regarding the therapeutic effectiveness of lamivudine in the treatment of chronic hepatitis B virus (HBV) infection in immunocompetent patients.",
+        "journal": "The Annals of pharmacotherapy",
+        "year": "1999",
+        "authors": [
+          "Hagmeyer K O",
+          "Pan Y Y"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "DNA, Viral",
+          "Hepatitis B Antigens",
+          "Hepatitis B virus",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10534223/"
+      },
+      {
+        "pmid": "10764020",
+        "title": "Current limitations to nucleoside analogue therapy for chronic hepatitis B virus infection in the liver transplant and non-transplant settings.",
+        "abstract": "",
+        "journal": "Journal of gastroenterology and hepatology",
+        "year": "2000",
+        "authors": [
+          "Freiman J S",
+          "McCaughan G W"
+        ],
+        "pub_types": [
+          "Editorial",
+          "Review",
+          "Comment"
+        ],
+        "mesh_terms": [
+          "2-Aminopurine",
+          "Adenine",
+          "Antiviral Agents",
+          "DNA, Viral",
+          "Famciclovir",
+          "Hepatitis B e Antigens",
+          "Hepatitis B virus",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10764020/"
+      },
+      {
+        "pmid": "15476146",
+        "title": "Treatment of chronic hepatitis B: who to treat, what to use, and for how long?",
+        "abstract": "Chronic hepatitis B infection continues to be a major public health concern worldwide. The natural history of the disease can be divided into 4 different phases: immune tolerance, immune clearance, inactive carrier, and reactivation. The goals of treatment are sustained viral suppression, normalization of ALT, and improvement in liver histology. Antiviral agents in current use include standard interferon-alpha, lamivudine, and adefovir. With an improved understanding of the natural history of the disease and a growing repertoire of antiviral drugs, the important questions are: who should receive treatment, what is the best agent to use, and what is the optimal duration of therapy? Treatment is indicated for patients in the immune clearance and reactivation phases. Patients with high pretreatment ALT level, detectable HBV DNA in the serum, and active inflammation on liver biopsy are predicted to have the highest chance of response to treatment. The choice of a particular agent must bala",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "year": "2004",
+        "authors": [
+          "Fung Scott K",
+          "Lok Anna S F"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antiviral Agents",
+          "Drug Administration Schedule",
+          "Drug Therapy, Combination",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Interferon-alpha",
+          "Lamivudine",
+          "Organophosphonates",
+          "Reverse Transcriptase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15476146/"
+      },
+      {
+        "pmid": "19100230",
+        "title": "[Entecavir].",
+        "abstract": "Chronic hepatitis B continues to be a serious problem worldwide. Because a high viral load is associated with greater progression to cirrhosis and hepatocarcinoma in these patients, new drugs that achieve rapid, potent and lasting suppression of viral replication must be sought. Entecavir is a new, highly potent antiviral agent; phase II and III studies have demonstrated this drug to be superior to placebo and lamivudine in patients with chronic hepatitis B virus in terms of histological improvement, efficacy in achieving suppression of viral replication and normalizing transaminase counts. The drug is well tolerated, since its adverse effects are usually mild or moderate and their incidence is similar to that found with placebo or lamivudine. Moreover, in treatment-naïve patients, no resistance has been observed after 3 years of therapy. However, in patients with prior resistance to lamivudine, the incidence of resistance is approximately 15% at 3 years. Further studies are required t",
+        "journal": "Enfermedades infecciosas y microbiologia clinica",
+        "year": "2008",
+        "authors": [
+          "Calleja José Luis",
+          "Peñas Beatriz"
+        ],
+        "pub_types": [
+          "English Abstract",
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Anti-HIV Agents",
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "Drug Resistance, Viral",
+          "Drug Therapy, Combination",
+          "Genotype",
+          "Guanine",
+          "HIV Infections",
+          "Hepatitis B e Antigens"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19100230/"
+      },
+      {
+        "pmid": "10960461",
+        "title": "Acute exacerbation of chronic hepatitis B virus infection after withdrawal of lamivudine therapy.",
+        "abstract": "Acute exacerbations of chronic hepatitis B virus (HBV) infection occur after withdrawal of lamivudine therapy in approximately 16% of patients and are considered of little clinical significance. We observed \"lamivudine withdrawal hepatitis\" accompanied by jaundice and incipient liver failure, but also followed by complete recovery and viral clearance. To investigate the incidence, severity, timing, and virologic characteristics of \"lamivudine withdrawal hepatitis\" we monitored 41 patients for at least 6 months after discontinuation of nucleoside analogue therapy. The incidence of hepatitis flares was estimated to be 7 of 41 (17%); in 2 of 41 cases (5%), hepatitis flares were associated with jaundice and incipient liver failure. A noticeable feature of the \"lamivudine withdrawal hepatitis\" flares were the high HBV-DNA levels at the time of the alanine transaminase (ALT) peak. All were wild-type HBV, even the one that emerged from a lamivudine-resistant strain during therapy. To minimize",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "year": "2000",
+        "authors": [
+          "Honkoop P",
+          "de Man R A",
+          "Niesters H G",
+          "Zondervan P E",
+          "Schalm S W"
+        ],
+        "pub_types": [
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adult",
+          "Drug Administration Schedule",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Jaundice",
+          "Lamivudine",
+          "Liver Failure",
+          "Male",
+          "Retreatment",
+          "Reverse Transcriptase Inhibitors"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10960461/"
+      },
+      {
+        "pmid": "20890947",
+        "title": "Treatment of children with chronic hepatitis B virus infection in the United States: patient selection and therapeutic options.",
+        "abstract": "Chronic hepatitis B virus (HBV) infection in children presents a therapeutic challenge for the practitioner. Decisions regarding selection of patients who may benefit from treatment, appropriate timing of treatment, and the choice of antiviral therapy are complex and are compounded by the limited number of drugs that have been studied in children. An expert panel of nationally recognized pediatric liver specialists was convened by the Hepatitis B Foundation on August 11, 2009, to consider clinical practice relative to the therapeutic options available for children. A detailed account of these discussions is provided, and the opinions expressed are based on consensus of the experts, as well as on published evidence when available. The panel concludes that, at this time, there is no established benefit of treatment of children in the immune tolerant phase, and there is a very high risk of development of drug resistance. In addition, there is no indication for treatment of children in the",
+        "journal": "Hepatology (Baltimore, Md.)",
+        "year": "2010",
+        "authors": [
+          "Jonas Maureen M",
+          "Block Joan M",
+          "Haber Barbara A",
+          "Karpen Saul J",
+          "London W Thomas"
+        ],
+        "pub_types": [
+          "Consensus Statement",
+          "Journal Article",
+          "Practice Guideline",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Adolescent",
+          "Adult",
+          "Alanine Transaminase",
+          "Antiviral Agents",
+          "Child",
+          "Child, Preschool",
+          "DNA, Viral",
+          "Drug Resistance, Viral",
+          "Hepatitis B Surface Antigens"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20890947/"
+      },
+      {
+        "pmid": "27375283",
+        "title": "Long-term lamivudine therapy in chronic hepatitis B.",
+        "abstract": "One to 5 years of therapy of chronic hepatitis B with oral nucleoside analogues result in significant clinical improvements, but effects of more prolonged therapy are not well defined.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2016",
+        "authors": [
+          "Lingala S",
+          "Lau D T-Y",
+          "Koh C",
+          "Auh S",
+          "Ghany M G"
+        ],
+        "pub_types": [
+          "Clinical Trial",
+          "Journal Article"
+        ],
+        "mesh_terms": [
+          "Adolescent",
+          "Adult",
+          "Aged",
+          "Antiviral Agents",
+          "Female",
+          "Hepatitis B Surface Antigens",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine",
+          "Liver Cirrhosis"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27375283/"
+      },
+      {
+        "pmid": "10549375",
+        "title": "Lamivudine therapy of chronic hepatitis B.",
+        "abstract": "",
+        "journal": "Advances in experimental medicine and biology",
+        "year": "1999",
+        "authors": [
+          "Hunt C M",
+          "Brown N A",
+          "Rubin M"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Clinical Trials as Topic",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10549375/"
+      },
+      {
+        "pmid": "16788215",
+        "title": "Antiviral treatment for chronic hepatitis B virus infection--immune modulation or viral suppression?",
+        "abstract": "The availability of nucleoside analogues has broadened treatment options for chronic hepatitis B virus (HBV ) infection. Registered treatment for chronic hepatitis B currently consists of (pegylated) interferon, lamivudine and adefovir, while entecavir is expected to be licensed in the short term. Treatment is generally recommended for patients with high serum HBV DNA and elevated ALAT, indicating the host's immune response against HBV. Induction of an HBV -specific immune response seems crucial for persistent control of HBV infection. Currently available treatment strategies can be differentiated into those that provide sustained off-treatment response and those that provide therapy maintained response. A finite treatment course with immunomodulatory agents (interferon-based therapy) results in sustained response in about one third of patients, while nucleoside analogue treatment generally requires indefinite therapy without a clear stopping point. Since nucleoside analogues are well ",
+        "journal": "The Netherlands journal of medicine",
+        "year": "2006",
+        "authors": [
+          "Buster E H C J",
+          "Janssen H L A"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antiviral Agents",
+          "Carcinoma, Hepatocellular",
+          "Fibrosis",
+          "Genotype",
+          "Hepatitis B e Antigens",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Interferon alpha-2",
+          "Interferon-alpha"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16788215/"
+      },
+      {
+        "pmid": "17218162",
+        "title": "New and emerging treatment of chronic hepatitis B.",
+        "abstract": "Conventional treatment of chronic hepatitis B with interferon alfa-2b, lamivudine, and adefovir is limited by low rates of sustained hepatitis B virus DNA suppression and hepatitis B e antigen (HBeAg) seroconversion, increasing rates of drug resistance to the oral agents, and poor tolerability of interferon. Recently several promising new antiviral agents have emerged that possess potent antiviral effects, less toxicity, and have little or no risk of drug resistance. Two new agents, entecavir and peginterferon alfa-2a, have received recent approval by regulatory authorities in the United States and several other countries for the treatment of adults with chronic hepatitis B. In large phase III clinical trials, these agents have demonstrated superior efficacy over lamivudine in both HBeAg-positive and HBeAg-negative patients. Drug resistance occurs at a low rate in lamivudine-refractory patients treated with entecavir or is, to date, nonexistent in nucleoside-naïve patients treated with",
+        "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "year": "2007",
+        "authors": [
+          "Keeffe Emmet B",
+          "Marcellin Patrick"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Clinical Trials, Phase II as Topic",
+          "Clinical Trials, Phase III as Topic",
+          "Cohort Studies",
+          "Dose-Response Relationship, Drug",
+          "Drug Administration Schedule",
+          "Female",
+          "Forecasting",
+          "Guanine",
+          "Hepatitis B, Chronic"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17218162/"
+      },
+      {
+        "pmid": "10889180",
+        "title": "Lamivudine therapy for chronic hepatitis B: is longer duration of treatment better?",
+        "abstract": "",
+        "journal": "Gastroenterology",
+        "year": "2000",
+        "authors": [
+          "Lok A S"
+        ],
+        "pub_types": [
+          "Comment",
+          "Editorial",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Antiviral Agents",
+          "Drug Administration Schedule",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10889180/"
+      },
+      {
+        "pmid": "15482237",
+        "title": "Current therapies for chronic hepatitis B virus infection.",
+        "abstract": "Patients who are chronically infected with the hepatitis B virus are at an increased risk of developing cirrhosis, hepatic decompensation and hepatocellular carcinoma. Therapeutic intervention offers the only means of interrupting this progression. Currently there are three licensed agents for the treatment of chronic hepatitis B virus infection. These are interferon-alpha, an immunomodulator, and two synthetic nucleos(t)ide analogs, namely lamivudine (Epivir, GlaxoSmithKline) and adefovir dipivoxil (Hepsera, Gilead Sciences). This review aims to summarize current experience with these drugs in the treatment and management of patients with chronic hepatitis B virus infection, their efficacy, and current problems of drug resistance. An outline of future treatment perspectives is also included.",
+        "journal": "Expert review of anti-infective therapy",
+        "year": "2004",
+        "authors": [
+          "Karayiannis Peter"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antiviral Agents",
+          "Drug Resistance",
+          "Drug Resistance, Viral",
+          "Drug Therapy, Combination",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Interferon-alpha",
+          "Lamivudine",
+          "Organophosphonates"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15482237/"
+      },
+      {
+        "pmid": "24299322",
+        "title": "Review article: nucleos(t)ide analogues in patients with chronic hepatitis B virus infection and chronic kidney disease.",
+        "abstract": "The treatment of chronic hepatitis B (CHB) in patients with chronic kidney disease (CKD) is based on nucleoside (lamivudine, telbivudine, entecavir) or nucleotide (adefovir, tenofovir) analogues (NAs), but it may be complex and the information is scarce. Entecavir and tenofovir represent the currently recommended first-line NAs for NA-naive CHB patients, while tenofovir is the NA of choice for CHB patients with resistance to nucleosides.",
+        "journal": "Alimentary pharmacology & therapeutics",
+        "year": "2014",
+        "authors": [
+          "Pipili C",
+          "Cholongitas E",
+          "Papatheodoridis G"
+        ],
+        "pub_types": [
+          "Journal Article",
+          "Review"
+        ],
+        "mesh_terms": [
+          "Adenine",
+          "Antiviral Agents",
+          "Guanine",
+          "Hepatitis B, Chronic",
+          "Humans",
+          "Lamivudine",
+          "Nucleosides",
+          "Organophosphonates",
+          "Renal Insufficiency, Chronic",
+          "Telbivudine"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24299322/"
+      }
+    ]
+  },
+  "timestamp": "2026-03-04T16:22:36.455402",
+  "success": true,
+  "error_message": null
+}

@@ -1,0 +1,926 @@
+{
+  "source": "clinicaltrials",
+  "query": {
+    "drug": "Risperidone",
+    "disease": "schizophrenia"
+  },
+  "data": [
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03304457",
+      "title": "Effect of Lurasidone Vs Olanzapine on Neurotrophic Biomarkers and Cardiometabolic Parameters in First Episode Untreated Schizophrenia: A Randomized, Open Label, Active Controlled Study",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2017-08-25",
+      "completion_date": "2018-03-25",
+      "country": "India",
+      "enrollment": 100,
+      "brief_summary": "Schizophrenia (SCZ) is a chronic, severe and disabling mental disorder with unclear etiology and pathophysiology concerned with neuro-developmental,neurodegenerative abnormalities and cognitive impairmentslinked to behavioural changes.According to neurotrophic hypothesis, the changes result due to the abnormal regulation of neurotrophic factor, especially the decreased serum brain derived neurotrophic factor (BDNF) validated by several meta-analyses. However, the regulation of nerve growth facto",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* All treatment naive patients clinically diagnosed first episode of SCZ according to ICD-10\n* Patients of either sex with age range 18-45 years\n* Treatment naïve patients\n\nExclusion Criteria:\n\n* Other Psychotic spectrum disorders (F21- F29)\n* Highly agitated/ violent/ suicidal ",
+      "endpoints": [
+        "Serum brain derived neurotrophic factor (BDNF)"
+      ],
+      "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+      "url": "https://clinicaltrials.gov/study/NCT03304457"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00249132",
+      "title": "Risperidone Versus Haloperidol Versus Placebo in the Treatment of Chronic Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "1991-07",
+      "country": "N/A",
+      "enrollment": 523,
+      "brief_summary": "The purpose of the study is to evaluate the effectiveness and safety of different doses of risperidone (an antipsychotic medication) compared with placebo and with a fixed 20 mg/day dose of a standard antipsychotic, haloperidol, in patients with chronic schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with diagnosis of chronic schizophrenic disorder, according to the Diagnostic and Statistical Manual of Mental Diseases, 3rd edition (DSM-III-R) criteria and are inpatients at the beginning of study\n* total score on the PANSS (Positive and Negative Syndrome Scale for ",
+      "endpoints": [
+        "Percent of patients showing clinical improvement, defined as a >=20% reduction in the total PANSS score from baseline to end of double-blind treatment, and the mean change from baseline to end of double-blind treatment in total PANSS score."
+      ],
+      "sponsor": "Janssen, LP",
+      "url": "https://clinicaltrials.gov/study/NCT00249132"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00161018",
+      "title": "New Antipsychotic Strategies: Quetiapine and Risperidone vs. Fluphenazine in Treatment Resistant Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2004-11",
+      "country": "United States",
+      "enrollment": 150,
+      "brief_summary": "The purpose of this study is to:\n\n1. Evaluate the efficacy and safety of the new antipsychotics, quetiapine (300-500mg/day) and risperidone (3-4mg/day) compared to each other and to fluphenazine (10-15mg/day), a high potency typical antipsychotic in patients who meet the DSM IV criteria for schizophrenia.\n2. To evaluate the efficacy and safety of quetiapine (1200mg/day) in patients who have not responded to conventional and newer antipsychotics.\n3. To evaluate the effectiveness of quetiapine (30",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Males and Females, between ages 18 and 65 year sof age.\n* Females of childbearing potential must agree to use medically accepted means of contraception.\n* A diagnosis of schizophrenia according to the DSM-IV.\n* Subjects must meet retrospective criteria for treatment-resistance",
+      "endpoints": [
+        "To evaluate the efficacy and safety of the new antipsychotics, quetiapine(300-500mg/day) and risperidone(3-5mg/day) compared to each other and to fluphenazine(10-15mg/day), a high potency typical antipsychotic"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT00161018"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03090503",
+      "title": "Open Flexible-dose Randomized Study of the Effectiveness of Second Generation Antipsychotics in First Episode Psychosis Patients: A 3-year Follow-up",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2014-06",
+      "completion_date": "2021-06",
+      "country": "Spain",
+      "enrollment": 200,
+      "brief_summary": "This study compares the efficacy and effectiveness of two of the second-generation antipsychotics (SGAs) most used in our society in the treatment of schizophrenia (Aripiprazole and Risperidone) and the investigators do within an assistance program of early-stage psychosis individuals of the Community of Cantabria, clinical reference for the treatment of this disease in the Spanish Autonomous Community. Patients are included in a prospective naturalistic study, open flexible-doses and randomized",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Experiencing their first episode of psychosis (First Episode of Psychosis is defined as that psychopathological state in which for the first time and regardless of its duration, the patient has enough severe psychotic symptoms to allow a diagnosis of psychosis, having received",
+      "endpoints": [
+        "Effectiveness of Aripiprazole and Risperidone at long term as measured by Percentage of discontinuation"
+      ],
+      "sponsor": "Fundación Marques de Valdecilla",
+      "url": "https://clinicaltrials.gov/study/NCT03090503"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02137616",
+      "title": "Effectiveness of Antipsychotic Drugs to Treat Psychosis Syndrome: an Open Label, Controlled Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2012-06",
+      "completion_date": "2014-12",
+      "country": "China",
+      "enrollment": 300,
+      "brief_summary": "This study assess the safety and effects of atypical antipsychotics in subjects with psychosis syndrome and psychosis risk syndrome.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* were help-seeking young individuals in outpatients service\n* aged 16-30 years\n* fitted one of the following Criteria: Psychosis-risk Syndromes (COPS-SIPS) or Psychotic Syndrome (POPS-SIPS) or DSM-IV diagnosis of schizophreniform disorder\n\nExclusion Criteria:\n\n* a previous diag",
+      "endpoints": [
+        "Changes of PANSS total scores from baseline to 18 months"
+      ],
+      "sponsor": "Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT02137616"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02433717",
+      "title": "A Study on the Efficacy, Pharmacokinetics and Adverse Effects of Paliperidone ER",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-04",
+      "completion_date": "2016-02",
+      "country": "Taiwan",
+      "enrollment": 40,
+      "brief_summary": "Background Paliperidone is an active metabolite of risperidone, both of which are antipsychotic agents for treatment of schizophrenia and related psychotic disorders. Pharmacogenetic studies have revealed that the efficacy and side effects of antipsychotic agents are related to polymorphisms of specific genes, however, there are just a few related studies on paliperidone. The current study aims to evaluate whether pharmacogenetic markers related to risperidone and genetic markers associated with",
+      "eligibility_criteria": "Inclusion criteria:\n\n* 20-65 years old\n* With DSM-IV diagnosis of schizophrenia or schizoaffective disorder\n* Being hospitalized in an acute psychiatric ward\n* Scoring at least 60 according to the Positive and Negative Syndrome Scale (PANSS)\n* Having not received long-acting injectable antipsychotic",
+      "endpoints": [
+        "Pharmacodynamics factor on response rate",
+        "Pharmacogenetic factor on response rate: ABCB1",
+        "Pharmacogenetic factor on response rate: DRD3"
+      ],
+      "sponsor": "National Taiwan University Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT02433717"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00044655",
+      "title": "Effectiveness of Switching Antipsychotic Medications",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-07",
+      "completion_date": "2009-03",
+      "country": "N/A",
+      "enrollment": 219,
+      "brief_summary": "This study will evaluate the effectiveness of switching medications in decreasing schizophrenia symptoms in individuals who are currently taking an antipsychotic medication for the treatment of schizophrenia.",
+      "eligibility_criteria": "Inclusion criteria:\n\n* SCID diagnosis of schizophrenia or schizoaffective disorder\n* Partially remitted outpatients, defined as persons who have received clear symptomatic benefit from antipsychotic medication but remain symptomatic (due to lack of efficacy or inability to tolerate an efficacious do",
+      "endpoints": [
+        "Number Who Discontinued Medication Within First 6 Study Months"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT00044655"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01813643",
+      "title": "A Multiple-Center, Randomized, Double-Blind Study of Comparison of Risperidone and Aripiprazole for Treatment",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2012-07",
+      "completion_date": "2014-08",
+      "country": "China",
+      "enrollment": 50,
+      "brief_summary": "Methamphetamine-associated psychosis (MAP) has been considered a pharmacological or environmental pathogen model of schizophrenia (SCZ) due in part to similarities in clinical presentation (i.e. paranoia, hallucinations, disorganized speech, and negative symptoms), response to treatment (e.g.neuroleptics),and pathologic mechanisms (e.g. central dopaminergic neurotransmission) of both conditions. Both risperidone and aripiprazole are second generation antipsychotics，but have different pharmacolog",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients,Diagnostic and Statistical Manual of Mental Disorders 4thed. (DSM-IV) criteria for Methamphetamine-Associated Psychosis.\n2. Must sign a Information consent form.\n3. Required to provide detailed address and phone number\n\nExclusion Criteria:\n\n1. Serious organic disease",
+      "endpoints": [
+        "The severity of psychosis"
+      ],
+      "sponsor": "Central South University",
+      "url": "https://clinicaltrials.gov/study/NCT01813643"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00216580",
+      "title": "An Open-label Trial of Risperidone Long-acting Injectable in the Treatment of Subjects With Recent Onset Psychosis",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2004-02",
+      "completion_date": "2006-12",
+      "country": "N/A",
+      "enrollment": 50,
+      "brief_summary": "The purpose of the study is to assess the effectiveness and safety of long-acting injectable risperidone in the treatment of patients in the early stage of psychosis",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the criteria of the Diagnostic and Statistical Manual of Mental Diseases, 4th edition (DSM-IV) for schizophreniform disorder, schizophrenia, or schizoaffective disorder for no longer than 12 months, and with not more than two hospitalizations for psychosis\n* patients who ",
+      "endpoints": [
+        "Change in Positive and Negative Syndrome Scale (PANSS) from baseline to end of study"
+      ],
+      "sponsor": "Janssen Pharmaceutica N.V., Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00216580"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00287027",
+      "title": "Family Perspectives:Treatment of Psychiatric Illnesses With Atypical Long Acting Injectable Antipsychotic Medication",
+      "phase": "N/A",
+      "status": "TERMINATED",
+      "start_date": "2006-02",
+      "completion_date": "2006-12",
+      "country": "United States",
+      "enrollment": 60,
+      "brief_summary": "Patients who have schizophrenia, schizoaffective disorder, a psychotic disorder, and are being treated with a medication called Risperidone Long Acting Injectable medication or another antipsychotic medication are candidates for the study. The purpose of the study is to find out from patients' family how they feel the medication has affected their relationship with them. The study will involve meeting with family members three times over the course of one year. The first time will be at New Hamp",
+      "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria:Families of adults between the ages of 18-65 who have a diagnosis of Schizophrenia, Schizoaffective Disorder, Psychotic Disorder NOS, and whose loved one gave permission for them to be contacted.\n\n* Either a) a family member whose adult consumer started on Ris",
+      "endpoints": [],
+      "sponsor": "National Alliance on Mental Illness New Hampshire",
+      "url": "https://clinicaltrials.gov/study/NCT00287027"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00330551",
+      "title": "Effects of Risperdal Consta Versus Oral Antipsychotic Medication on Clinical and Functional Outcome and Neurocognition in First-episode Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2006-03",
+      "completion_date": "2012-11",
+      "country": "United States",
+      "enrollment": 126,
+      "brief_summary": "This study will determine the effectiveness of oral risperidone versus long-acting injectable risperidone in treating people with first-episode schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV diagnosis of schizophrenia, schizoaffective disorder (depressed type), or schizophreniform disorder\n* First major episode of psychotic symptoms occurred within 2 years prior to study entry\n* Participant in the UCLA Center for Neurocognition and Emotion in Schizophrenia\n",
+      "endpoints": [
+        "Medication Adherence",
+        "Number of Participants Who Had an Exacerbation or Relapse of Psychotic Symptoms",
+        "Number of Participants Who Returned to Work or School (SAS Work Section)"
+      ],
+      "sponsor": "University of California, Los Angeles",
+      "url": "https://clinicaltrials.gov/study/NCT00330551"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03818256",
+      "title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety, Efficacy, and Pharmacokinetics of Miricorilant (CORT118335) in Obese Adult Patients With Schizophrenia or Bipolar Disorder and Recent Weight Gain While Taking Antipsychotic Medications (GRATITUDE)",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2019-12-04",
+      "completion_date": "2022-07-06",
+      "country": "United States",
+      "enrollment": 71,
+      "brief_summary": "This phase 2, double blind, placebo-controlled, randomized study is to assess the safety, efficacy, and pharmacokinetics (PK) of miricorilant (CORT118335) in obese adults with schizophrenia or bipolar disorder treated with antipsychotic medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a diagnosis of schizophrenia or bipolar disorder\n* Are currently taking oral or injectable atypical antipsychotic medication (except clozapine) and must have documented weight gain while on these medications\n* Must be on a stable dose of medication for 1 month prior to Sc",
+      "endpoints": [
+        "Change From Baseline in Body Weight at Week 12 for 600 mg Miricorilant Versus Placebo",
+        "Number of Patients With One or More Treatment-emergent Adverse Events",
+        "Number of Patients With One or More Treatment-emergent Serious Adverse Events"
+      ],
+      "sponsor": "Corcept Therapeutics",
+      "url": "https://clinicaltrials.gov/study/NCT03818256"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00205738",
+      "title": "Glucose Regulation During Risperidone and Olanzapine Treatment",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "2000-07",
+      "completion_date": "2006-10",
+      "country": "United States",
+      "enrollment": 120,
+      "brief_summary": "Abnormalities in peripheral glucose regulation and type 2 diabetes can occur more commonly in individuals with schizophrenia than in healthy subjects or in other psychiatric conditions. Antipsychotic treatment may contribute significantly to abnormalities in glucose regulation. Hyperglycemia can contribute to long-term cardiovascular disease risk that may already be increased in patients with schizophrenia due to higher rates of smoking, sedentary life style, obesity and under-treated hypertensi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients: meets DSM-IV criteria for schizophrenia, any type, or schizoaffective disorder;\n2. Aged 18 to 60 years;\n3. Able to give informed consent;\n4. No medication changes for 2 weeks prior to and during the period of study; 5. Patients: currently taking olanzapine, risperid",
+      "endpoints": [
+        "Effects of olanzapine/risperidone/haloperidol on glucose regulation."
+      ],
+      "sponsor": "Washington University School of Medicine",
+      "url": "https://clinicaltrials.gov/study/NCT00205738"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT04002258",
+      "title": "Prolactin Change and Its Effectors in Chinese Patients With Schizophrenia After Antipsychotics Treatment",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2019-06-06",
+      "completion_date": "2022-10-25",
+      "country": "China",
+      "enrollment": 10363,
+      "brief_summary": "Objective:\n\nHyperprolactinemia(HPRL) which can result in a series of prolactin-related symptoms is a frequent adverse effect of antipsychotics. The investigators are interested to explicate the characteristics of serum prolactin level change after taking different antipsychotics and related factors.\n\nMethod:\n\n1. Review of electronic medical records of schizophrenia patients who were brought to Shanghai Mental Health Center since January 1, 2007.\n2. The investigators collect their information, an",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosed as schizophrenia according to Diagnostic and Statistical Manual of Mental Disorders(DSM)-5;\n* were taking or going to take antipsychotics;\n* have the results of serum prolactin level.\n\nExclusion Criteria:\n\n* other mental disorder;\n* suffered endocrinic diseases of pi",
+      "endpoints": [
+        "prolactin level at first 1-month antipsychotic treatment"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT04002258"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00208143",
+      "title": "Seroquel (Quetiapine) Therapy for Schizophrenia and Schizoaffective Disorders and Comorbid Cocaine and/or Amphetamine Abuse/Dependence: A Comparative Study With Risperidone",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2003-11",
+      "completion_date": "2005-12",
+      "country": "United States",
+      "enrollment": 20,
+      "brief_summary": "It is hypothesized that the atypical antipsychotic, Seroquel, will cause significant reduction in drug and alcohol cravings in patients with schizophrenia and comorbid cocaine and/methamphetamine dependence compared to the atypical antipsychotic, risperidone (Risperdal).\n\nPatients treated with Seroquel will have less use of cocaine and/or methamphetamine as measured by the Time Line Follow-back, over a 24-week follow-up period.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages 19 - 65.\n2. Diagnosis of schizophrenia or schizoaffective disorder with comorbid cocaine and/or amphetamine abuse/dependence as confirmed by Structured Clinical Interview for DSM-IV.\n3. Comorbid diagnoses of depression, anxiety and/or personality disorders are permitted.",
+      "endpoints": [
+        "50% or greater decrease in the drug use determined by the Time Line Follow Back method versus baseline."
+      ],
+      "sponsor": "Creighton University",
+      "url": "https://clinicaltrials.gov/study/NCT00208143"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00236548",
+      "title": "An Open-label Evaluation of the Utility of the RISPERDAL CONSTA Treatment Guidebook During Transition of Adult Patients With Schizophrenia or Schizoaffective Disorder to RISPERDAL CONSTA (Risperidone) Treatment Over Three Months in the Community Mental Health Center (CMHC) Setting",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2003-01",
+      "country": "N/A",
+      "enrollment": 1,
+      "brief_summary": "The purpose of this study is to assess the usefulness of the RisperdalÂ® ConstaÂ® Treatment Guidebook in helping the doctor switch the adult patient from taking risperidone tablets daily by mouth to taking long-acting risperidone by injection. The study will also evaluate the effectiveness and safety of long-acting risperidone and its effect on patient satisfaction.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of schizophrenia or schizoaffective disorder\n* stable with respect to disease symptoms and other medical conditions\n* taking oral risperidone at doses of 2 to 6 milligrams per day for 4 weeks before start of study\n* if female, using birth control.\n\nExclusion Criteria",
+      "endpoints": [
+        "Usefulness of the Risperdal® Consta® Treatment Guidebook; patient and clinician adherence to guidelines"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00236548"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00034892",
+      "title": "Efficacy and Tolerability of Olanzapine, Quetiapine and Risperidone in the Treatment of First Episode Psychosis: A Randomized Double Blind 52-Week Comparison",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2002-03",
+      "completion_date": "2005-03",
+      "country": "Canada, United States",
+      "enrollment": "N/A",
+      "brief_summary": "The purpose of this study is to compare the effectiveness, tolerability, and efficacy of the currently available atypical antipsychotic drugs olanzapine (2.5-20 mg/day), quetiapine (100-800 mg/day) and risperidone (0.5-4 mg/day) in patients with schizophrenia, schizophreniform disorder, or schizoaffective disorder who are experiencing their first psychotic episode.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must meet criteria for schizophreniform disorder, schizophrenia, or schizoaffective disorder with psychotic symptoms lasting 1-60 months\n* Psychotic symptoms must have persisted at least one month, and not more thn 5 years (60 months)\n* Patients must have no previous ",
+      "endpoints": [],
+      "sponsor": "AstraZeneca",
+      "url": "https://clinicaltrials.gov/study/NCT00034892"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03237052",
+      "title": "A Randomized Controlled Multi-center Clinical Study Focusing on Validating and Optimizing Model of Antipsychotics Selection in China",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2018-01-01",
+      "completion_date": "2020-12",
+      "country": "China",
+      "enrollment": 2000,
+      "brief_summary": "This multi-centre study will evaluate the clinical efficacy of 3 atypical antipsychotics treatment in Chinese Patients with Schizophrenia by comparing model-decision with real-world psychiatrist-decision. The three atypical antipsychotics are olanzapine (5-20 milligram per day), risperidone (2-6 milligram per day) and aripiprazole (5-30 milligram per day). The main purpose of this study is to explore the potential difference between modal-aided-decision with clinician-decision in order to valida",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* An in-patient or out-patient (male or female) and aged ≥18 years\n* A diagnosis of schizophrenia, DSM-5 (Diagnostic and Statistical Manual Diploma in Social Medicine-5)\n* Subjects must have the ability to effectively communicate with investigator, complete study related documen",
+      "endpoints": [
+        "Change of PSP from Baseline"
+      ],
+      "sponsor": "Shanghai Mental Health Center",
+      "url": "https://clinicaltrials.gov/study/NCT03237052"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02582736",
+      "title": "Atypical Antipsychotics and Hyperglycemic Emergencies: Multicentre, Retrospective Cohort Study of Administrative Data",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-04",
+      "completion_date": "2012-12",
+      "country": "Canada",
+      "enrollment": 725489,
+      "brief_summary": "The purpose of this study is to determine whether the use of atypical antipsychotic medication increases the risk of hospitalization for a hyperglycemic emergency.\n\nThe investigators will carry out separate population-based cohort studies using administrative health databases in eight jurisdictions in Canada and the UK. Cohort entry will be defined by the initiation of a new antipsychotic medication. Follow-up will continue until hospitalization for a hyperglycemic emergency or the end of 365 da",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a with a first-time prescription for an antipsychotic medication\n* Patients at least 18 years of age at cohort entry (except Alberta, Ontario, and Nova Scotia, where patients will be a least 66 years of age)\n* Patients with at least 1 year of history in the datab",
+      "endpoints": [
+        "Hospitalization for a hyperglycemic emergency"
+      ],
+      "sponsor": "Canadian Network for Observational Drug Effect Studies, CNODES",
+      "url": "https://clinicaltrials.gov/study/NCT02582736"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00712270",
+      "title": "A Randomized Double-blind Trial of Aripiprazole and Risperidone in Schizophrenia: An Evaluation of Neuroimaging, Neuropsychological, and Pharmacogenomic Markers of Differential Treatment Response",
+      "phase": "PHASE4",
+      "status": "TERMINATED",
+      "start_date": "2005-04",
+      "completion_date": "2010-11",
+      "country": "United States",
+      "enrollment": 21,
+      "brief_summary": "This study is being conducted to find a way to predict how individual schizophrenic patients will respond if they are treated with different types of antipsychotic drugs. This could help doctors prescribe the medication that will work best for each individual.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will meet DSM-IV diagnostic criteria for schizophreniform disorder, schizophrenia, schizoaffective disorder or (non-affective) psychotic disorder, NOS. Subjects with schizophreniform disorder or psychotic disorder, NOS, will be diagnostically reevaluated (recontacted",
+      "endpoints": [
+        "Pre and Post Treatment PET and MRI Imaging",
+        "QTc Measurement"
+      ],
+      "sponsor": "Kettering Health Network",
+      "url": "https://clinicaltrials.gov/study/NCT00712270"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00791232",
+      "title": "A Randomized, Double-blind, Placebo- and Active-controlled, Parallel-group, Phase 1 Study to Compare the Tolerability of OROS Paliperidone (Extended Release) With Immediate-release (IR) Risperidone in Subjects With Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-03",
+      "completion_date": "2003-06",
+      "country": "N/A",
+      "enrollment": 113,
+      "brief_summary": "The purpose of this study is a noninferiority comparison of the orthostatic tolerability of a dose of 12 mg extended-release (ER) OROS paliperidone with the current recommended initial titration dose (2 mg) of immediate-release (IR) risperidone in patients with schizophrenia. Other study objectives are 1) to compare the tolerability and safety of a clinically equivalent fixed dose of ER OROS paliperidone with the currently recommended dose of risperidone, 2) to compare the early tolerability of ",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Willingness to spend 2 weeks as an in-patient during the washout and treatment period\n* Currently treated with oral risperidone antipsychotic monotherapy for at least 1 month prior to screening\n* DSM-IV diagnosis of schizophrenia (Patients with a diagnosis of schizophrenia \\[p",
+      "endpoints": [
+        "A non-inferiority comparison of the orthostatic tolerability of a higher initial dose of paliperidone OROS with the current recommended initial dose of risperidone in patients with schizophrenia"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00791232"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00000267",
+      "title": "Risperidone Treatment in Dually-Diagnosed Individuals",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "",
+      "completion_date": "2001-12",
+      "country": "United States",
+      "enrollment": 0,
+      "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of risperidone for cocaine dependence in individuals with schizophrenia/schizoaffective illness.",
+      "eligibility_criteria": "Please contact site for information.",
+      "endpoints": [
+        "Side effects",
+        "Craving",
+        "Drug use"
+      ],
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "url": "https://clinicaltrials.gov/study/NCT00000267"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03955549",
+      "title": "Insight Enhancement Program vs. Metacognitive Training for Psychosis in Patients With Schizophrenia: A Three-Armed Comparative Randomized Controlled Trial",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2019-05-01",
+      "completion_date": "2021-01-30",
+      "country": "Egypt",
+      "enrollment": 99,
+      "brief_summary": "The aim of this study is to explore new safe effective psychotherapeutic interventions for schizophrenia through assessing the efficacy and acceptability of complementary \"Insight Enhancement Program\" (IEP) and \"Metacognitive Training for Psychosis\" (MCT), in relation to each other, and in relation to \"Treatment As Usual\" (TAU). It is hypothesized that at the end of therapy, compared to \"Treatment As Usual\", patients undergoing whether (IEP) or (MCT) will display a significant reduction in psych",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of a Schizophrenia Spectrum Disorder according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM5).\n* A present or prior episode of delusional symptoms, as assessed via clinical interview.\n* Within the first five years since the onset",
+      "endpoints": [
+        "Mean Change in Psychopathology as measured by The Positive and Negative Syndrome Scale for Schizophrenia (PANSS)",
+        "Mean Change in Psychopathology as measured by The Psychotic Symptom Rating Scale (PSYRATS)",
+        "Mean Change in Insight Scores as measured by The Scale to Assess Unawareness of Mental Disorder (SUMD)"
+      ],
+      "sponsor": "Agiad Psychiatry Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT03955549"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02773576",
+      "title": "A One Year, Open-label, Study to Evaluate the Safety and Tolerability of Risperidone Implants as a Maintenance Treatment in Patients With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2016-04",
+      "completion_date": "2017-09",
+      "country": "United States",
+      "enrollment": 140,
+      "brief_summary": "A one year, open-label, study to evaluate the safety and tolerability of risperidone implants as a maintenance treatment in patients with schizophrenia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject has provided written informed consent.\n2. Male and female subjects 18 to 70 years of age, inclusive, at time of informed consent.\n3. Subjects with a current diagnosis of schizophrenia as defined by DSM-5 criteria and a history of the illness for at least 2 years prior",
+      "endpoints": [
+        "Number of Participants With Treatment-related Adverse Events as Assessed"
+      ],
+      "sponsor": "Braeburn Pharmaceuticals",
+      "url": "https://clinicaltrials.gov/study/NCT02773576"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06482554",
+      "title": "Lumateperone for the Improvement of Apathy in Patients With Psychotic Symptoms.",
+      "phase": "PHASE3",
+      "status": "RECRUITING",
+      "start_date": "2024-06",
+      "completion_date": "2026-12",
+      "country": "United States",
+      "enrollment": 80,
+      "brief_summary": "This study is looking to determine if Lumateperone improves motivation in patients with schizophrenia or schizoaffective disorders who show high levels of apathy as judged by AES-C-Apathy (Apathy Evaluation Scale - Clinician - Apathy) assessment and to examine a possible correlation between improvement in apathy scores and changes in elements of the PANSS (Positive and Negative Syndrome Scale) due to treatment with Lumateperone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects between the ages of 18-65 that have been diagnosed with Schizophrenia, Schizoaffective Disorder or Schizophrenia Spectrum and Other Psychotic Disorders.\n* A BPRS score \\> 35 at the screening visit.\n* An AES-C score \\> 32 at the screening visit.\n* If the",
+      "endpoints": [
+        "Change in AES-C Score"
+      ],
+      "sponsor": "Louisiana State University Health Sciences Center Shreveport",
+      "url": "https://clinicaltrials.gov/study/NCT06482554"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00645502",
+      "title": "A Bioequivalence Study Comparing a Single Oral Intake of a 4mg Orally-disintegrating Tablet With a 4mg Conventional Risperdal Tablet in Patients With Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2003-06",
+      "completion_date": "2003-07",
+      "country": "N/A",
+      "enrollment": 40,
+      "brief_summary": "The primary objective of this study is to demonstrate the bioequivalence, with respect to risperidone and its active moiety, of a single oral dose of risperidone given as a 4 mg orally-disintegrating tablet and as a 4 mg conventional RISPERDAL tablet. In addition, their tolerability and safety will be documented.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with diagnosis of schizophrenia of any subtype\n* who have a normal weight as defined by Body Mass Index in range of 18.0 to 35.0, extremes included\n* For whom an Informed consent form signed by the patient or legally acceptable representative is available and who are ",
+      "endpoints": [
+        "PK parameters (Cmax and AUC) for active moiety, 9-OH-risperidone and risperidone"
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT00645502"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT03629951",
+      "title": "An Observational Study for Schizophrenia Relapse Prediction",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2018-11-29",
+      "completion_date": "2021-12-31",
+      "country": "India",
+      "enrollment": 333,
+      "brief_summary": "The purpose of this study is to identify if there are self-reported/caregiver reported or objective measures that can predict near-term relapse (within 1 month or at another identified time point before meeting the criteria for relapse) or early symptomatic changes indicative of pre-relapse.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants and their legally acceptable representative where applicable must be able to sign an informed consent form (ICF) indicating that he or she understands the purpose of and procedures required for the study and is willing to participate for the duration of the study\n",
+      "endpoints": [
+        "Number of Participants with Relapse"
+      ],
+      "sponsor": "Janssen Research & Development, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT03629951"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01541371",
+      "title": "An Open-label Prospective Trial to Explore the Tolerability, Safety and Efficacy of Flexibly Dosed Paliperidone ER in Non Acute Episode Subjects With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-07",
+      "completion_date": "2009-09",
+      "country": "N/A",
+      "enrollment": 405,
+      "brief_summary": "The purpose of this study is to evaluate the effectiveness of paliperidone extended-release (ER; designed to slowly release a drug in the body over an extended period of time) tablets in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions \\[a false belief held in the face of strong differing evidence, especially as a symptom of psychiatric disorder\\] and hallucinations \\[imagining things\\], and withdrawal int",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants meeting Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV) diagnosis criteria of schizophrenia\n* Participant receiving full course of treatment (6-8 weeks) at correct dose (dose range recommended by the instruction) of Risperdal, Zyprexa or Seroquel",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score at Week 12"
+      ],
+      "sponsor": "Xian-Janssen Pharmaceutical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT01541371"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00158028",
+      "title": "Risperidone in the Treatment of Psychotic-like and Deficit Symptoms of Schizotypal Personality Disorder",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "start_date": "1995-11",
+      "completion_date": "2001-12",
+      "country": "United States",
+      "enrollment": 25,
+      "brief_summary": "The purpose of this study is to determine the efficacy of risperidone compared to placebo in the treatment of the psychotic-like and deficit symptoms of schizotypal personality disorder (SPD). Treatment with risperidone, a 5HT2 and dopamine D2 blocking agent, holds particular promise in the treatment of SPD. Unlike traditional antipsychotics, risperidone targets the deficit or negative symptoms of schizophrenia. The deficit-like symptoms of SPD are therefore also likely respond to treatment with",
+      "eligibility_criteria": "Inclusion Criteria:\n\nSchizotypal Personality Disorder\n\nExclusion Criteria:\n\nOver 65",
+      "endpoints": [
+        "Positive and Negative Symptom Scale (PANAS) rating"
+      ],
+      "sponsor": "Icahn School of Medicine at Mount Sinai",
+      "url": "https://clinicaltrials.gov/study/NCT00158028"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02453893",
+      "title": "Double-blind,Double-simulation,Risperidone-controlled,Multicentre Clinical Trial of Iloperidone in Patients With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2013-11",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 288,
+      "brief_summary": "This research is a Randomized, double-blind, risperidone-controlled, multicenter clinical study. Chinese subjects with Ischemic Schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* men and women aged 18 to 65 years with schizophrenia;\n* PANSS total score of at least 70 at screening and baseline;\n* at least 2 more than 4 points in 7 of PANSS-P;\n* informed consent.\n\nExclusion Criteria:\n\n* allergy with iloperidone or risperidone;\n* psychotic symptoms failin",
+      "endpoints": [
+        "the score of Positive and Negative syndrome scale to evaluation the severity of schizophrenia"
+      ],
+      "sponsor": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02453893"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00768612",
+      "title": "A Randomized, Double-Blind, Risperidone-Reference, Parallel-Group, Safety, and Tolerability Study of Vabicaserin (SCA-136) in Japanese Subjects With Acute Exacerbation of Schizophrenia",
+      "phase": "PHASE2",
+      "status": "WITHDRAWN",
+      "start_date": "2008-11",
+      "completion_date": "2009-07",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "This study will evaluate the clinical safety and tolerability of vabicaserin in Japanese subjects that have a sudden worsening of their symptoms of schizophrenia. The study will also assess the efficacy of vabicaserin and compare it to risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female subjects between \\>=20 and =\\<65 years of age\n* Current diagnosis and DSM-IV-TR diagnosis of schizophrenia type (295.10, 295.30 and 295.90)\n* Total PANSS score \\>=70 and =\\< 120\n\nExclusion Criteria:\n\n* Subjects who are hospitalized against their will\n* Current ",
+      "endpoints": [
+        "Positive and Negative Syndrome Scale PANSS"
+      ],
+      "sponsor": "Wyeth is now a wholly owned subsidiary of Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00768612"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00249171",
+      "title": "Comparison of Oral Risperdal in Combination With Oral Lorazepam vs Standard Care Including Initial Conventional Neuroleptic IM Treatment, in Acute Schizophrenic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-06",
+      "completion_date": "2003-02",
+      "country": "N/A",
+      "enrollment": 226,
+      "brief_summary": "The purpose of the study is to show that risperidone (an antipsychotic medication) combined with lorazepam (an anti-anxiety medication) is more effective than conventional therapy administered by intramuscular injection for emergency treatment of patients with schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Psychotic patients with schizophrenia who require rapid intervention\n* experiencing symptoms of a psychotic disorder\n* capable of choosing to be treated\n\nExclusion Criteria:\n\n* Patients with a known hypersensitivity to the study drugs\n* have participated in an investigational ",
+      "endpoints": [
+        "Treatment success, 2 hours after drug administration, indicated by patient being asleep or by improvement on Clinical Global Improvement (CGI) scale."
+      ],
+      "sponsor": "Janssen Pharmaceutica N.V., Belgium",
+      "url": "https://clinicaltrials.gov/study/NCT00249171"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02002832",
+      "title": "A Randomized, Double-blind, Double-dummy, Parallel-group and Multicenter Study to Investigate Lurasidone in Treatment of Schizophrenia Compared With Risperidone",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2013-12",
+      "completion_date": "2015-11",
+      "country": "China",
+      "enrollment": 388,
+      "brief_summary": "This is a randomized, double-blind, double-dummy, parallel- controlled, adjustable dose, non-inferiority and multicentre study designed to evaluate the efficacy and safety of lurasidone on schizophrenia for 6 weeks treatment, and to compare with risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Provide written informed consent and aged between 18 and 65 years of age.\n* Meets DSM-IV-TR criteria for a primary diagnosis of schizophrenia, had a PANSS total score ≥ 70 and ≤ 120 at Screening and Baseline, and a score ≥ 4 on the CGI-S at Screening and Baseline.\n* Not pregna",
+      "endpoints": [
+        "Mean Change From Baseline to Week 6 in Positive and Negative Syndrome Scale (PANSS) Total Scores."
+      ],
+      "sponsor": "Sumitomo Pharma (Suzhou) Co., Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT02002832"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02562287",
+      "title": "A Randomized Controlled Trial to Evaluate the Effectiveness of Clozapine Versus Olanzapine, Quetiapine or Risperidone in Treatment Resistant Bipolar Disorder",
+      "phase": "PHASE4",
+      "status": "UNKNOWN",
+      "start_date": "2015-10",
+      "completion_date": "2020-12",
+      "country": "Brazil",
+      "enrollment": 54,
+      "brief_summary": "The clinical use of clozapine has been an unequivocal advance in the treatment of schizophrenia, a chronic and severe mental illness. A wealth of clinical data demonstrates it offers enhanced efficacy on both positive and negative symptomatology, improving cognition, functioning and quality of life. It is also associated with improved compliance and a continued efficacy in long-term treatment that can be translated into a reduction of suicidality and all-cause mortality. Because of preclinical e",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV Bipolar I Disorder;\n* having had a mood episode within the preceding year; DSM-IV rapid cyclers will be permitted to participate in this study;\n* males or females between 18 and 65 years of age;\n* ongoing illness symptoms including significant functional impairment;\n* d",
+      "endpoints": [
+        "Functioning according to Functioning Assessment Short-Test"
+      ],
+      "sponsor": "Hospital de Clinicas de Porto Alegre",
+      "url": "https://clinicaltrials.gov/study/NCT02562287"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00558298",
+      "title": "Risperidone Depot (Microspheres) in the Treatment of Subjects With Schizophrenia or Schizoaffective Disorder - an Open Label Follow up Trial of RIS-INT-57 and RIS-INT-61.",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2000-02",
+      "completion_date": "2005-02",
+      "country": "N/A",
+      "enrollment": 811,
+      "brief_summary": "The purpose of this study is to document the long-term safety of 25, 50 or 75 mg long-acting injectable risperidone given via injection to the gluteal muscle every 2 weeks to patients with schizophrenia or schizoaffective disorder.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of schizophrenia (patients from RIS-INT-57 or RIS-INT-61) or schizoaffective disorder (patients from RIS-INT-57 only) according to the DSM-IV criteria\n* patient completed RIS-INT-57 or RIS-INT-61 or dropped out after completion of 3 injection cycles in RIS-INT-61 (i.",
+      "endpoints": [
+        "To document the long-term safety of 25, 50 and 75 mg long-acting injectable risperidone from baseline until study endpoint."
+      ],
+      "sponsor": "Janssen, LP",
+      "url": "https://clinicaltrials.gov/study/NCT00558298"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01625897",
+      "title": "A Long-term Study of MP-214 in Patients With Chronic Phase or Elderly Schizophrenia",
+      "phase": "PHASE2, PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2012-05",
+      "completion_date": "2015-03",
+      "country": "Japan",
+      "enrollment": 125,
+      "brief_summary": "The objective of this study is to evaluate the long-term safety, tolerability, and efficacy of MP-214 in patients with chronic phase or elderly schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent obtained from the patient before the initiation of any study-specific procedures\n* Patients diagnosed with schizophrenia according to the diagnostic criteria of the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (D",
+      "endpoints": [
+        "Number of Participants With Adverse Events as a Measure of Safety and Tolerability"
+      ],
+      "sponsor": "Tanabe Pharma Corporation",
+      "url": "https://clinicaltrials.gov/study/NCT01625897"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06128408",
+      "title": "The Characteristics of Treatment Resistant Schizophrenia From the Illness Onset",
+      "phase": "N/A",
+      "status": "UNKNOWN",
+      "start_date": "2023-12-01",
+      "completion_date": "2024-10-13",
+      "country": "N/A",
+      "enrollment": 300,
+      "brief_summary": "Previous long-term follow-up studies on patients with first-episode schizophrenia have shown that up to 30% of patients who have never received antipsychotic medication treatment do not experience symptom relief or have poor treatment response after standard antipsychotic medication treatment, becoming treatment-resistant schizophrenia (TRS). Moreover, in long-term follow-up, patients with treatment-resistant schizophrenia from the illness onset (TRO) account for 80% of all TRS patients. Prelimi",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Having a diagnosis of schizophrenics based on the patient edition of the Structured Clinical Interview for Axis I Diagnostic and Statistical Manual-IV Axis I Disorders (SCID).\n2. Age 18-45 years.\n3. First episode of schizophrenia.\n4. Course of disease ≤ 3 years.\n5. Previous c",
+      "endpoints": [
+        "treatment-resistant schizophrenia"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT06128408"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT02431702",
+      "title": "A Prospective, Matched-Control, Randomized, Open-Label, Flexible-Dose, Study in Subjects With Recent-Onset Schizophrenia or Schizophreniform Disorder to Compare Disease Progression and Disease Modification Following Treatment With Paliperidone Palmitate Long-Acting Injection or Oral Antipsychotics",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2015-07-08",
+      "completion_date": "2019-11-12",
+      "country": "Mexico, Brazil, United States",
+      "enrollment": 337,
+      "brief_summary": "The purpose of the study is to compare effectiveness of paliperidone palmitate (PP: paliperidone palmitate once-monthly and 3-month injections) versus oral antipsychotic (OAP \\[that is oral paliperidone extended release {ER}, oral risperidone, or another OAP\\]) in delaying time to treatment failure. The study will also evaluate changes in cognition, functioning, brain intracortical myelin (ICM) volume following treatment with PP compared with OAP in participants with recent-onset schizophrenia o",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participant must have a current diagnosis of schizophrenia (295.90) or schizophreniform disorder (295.40) as defined by Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5) and confirmed by the Structured Clinical Interview for DSM-5 Disorders (SCID) with",
+      "endpoints": [
+        "Part-2 (Disease Progression): Time to First Treatment Failure",
+        "Part 3 (Extended Disease Progression [EDP]): Change From Baseline in Cognition as Measured by the MATRICS Consensus Cognitive Battery (MCCB) Composite Score",
+        "Part 3 (Disease Modification): Change From Baseline in Cognition as Measured by the MATRICS Consensus Cognitive Battery (MCCB) Composite Score"
+      ],
+      "sponsor": "Janssen Scientific Affairs, LLC",
+      "url": "https://clinicaltrials.gov/study/NCT02431702"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00526877",
+      "title": "Evaluation of Efficacy and Safety of Long-acting Risperidone Microspheres in Patients With Schizophrenia or Schizoaffective Disorders, Who is Receiving Psychiatric Home-care Treatment, When Switching From Typical Depot or Oral Antipsychotics to Long-acting Risperidone Microspheres",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2007-07",
+      "completion_date": "2009-01",
+      "country": "N/A",
+      "enrollment": 31,
+      "brief_summary": "The purpose of this study is to evaluate the efficacy and safety of long-acting risperidone microspheres (small uniformly-sized spherical particles, of micrometer dimensions, frequently labeled with radioisotopes or various reagents acting as tags or markers) in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions and hallucinations, and withdrawal into the self) and schizoaffective disorders (a mixed psychiat",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Meet the diagnostic criteria for schizophrenia or schizoaffective disorder according to Diagnostic and Statistical Manual of Mental Disorders, fourth edition (DSM-IV)\n* Participant has been given an adequate dose of an appropriate antipsychotic for an adequate period of time p",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndromes Scale (PANSS) Total Score at Week 24"
+      ],
+      "sponsor": "Johnson & Johnson Taiwan Ltd",
+      "url": "https://clinicaltrials.gov/study/NCT00526877"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00774085",
+      "title": "Electronic Schizophrenia Treatment Adherence Registry",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2004-11",
+      "completion_date": "2007-12",
+      "country": "N/A",
+      "enrollment": 408,
+      "brief_summary": "The purpose of this study is to assess treatment and outcomes data in patients receiving treatment with long-acting injectable risperidone.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Patient who started long-acting injectable risperidone treatment after agreement between doctor and patient\n* Ambulatory patient or not chronically full-time hospitalized patient. Full-time hospitalization at the moment of inclusion for maximal 6 months\n* The treatment and tre",
+      "endpoints": [
+        "Change in total length of hospitalization from retrospective to prospective period"
+      ],
+      "sponsor": "Janssen Cilag N.V./S.A.",
+      "url": "https://clinicaltrials.gov/study/NCT00774085"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01677377",
+      "title": "A Phase 2A, Open-Label, Multiple Ascending Dose Study of the Safety, Tolerability, Pharmacokinetics, and Primary Pharmacodynamic Markers of Efficacy of 60mg, 90mg, and 120mg of Risperidone in RBP-7000 Subcutaneous Injections in Subjects With Clinically Stable Schizophrenia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2012-08",
+      "completion_date": "2013-04",
+      "country": "United States",
+      "enrollment": 45,
+      "brief_summary": "Evaluate the safety and tolerability of multiple subcutaneous injections of various dosages of risperidone with clinically stable schizophrenia",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female\n* \\> 18 to \\< 65 years\n* Diagnosis of paranoid, residual, or undifferentiated schizophrenia as defined by Diagnostic and Statistical Manual of Mental Disorders-IV-Text Revision (DSM-IV-TR) criteria\n\n  * Status: clinically stable subjects defined as subjects wit",
+      "endpoints": [
+        "Summary of Participants With Treatment-Emergent Adverse Events (TEAE)",
+        "Total Risperidone PK: Area Under the Plasma Concentration-Time Curve From Time Zero to 24 Hours (AUC0-24)",
+        "Total Risperidone PK: Maximum Plasma Concentration (Cmax) During Initial Peak"
+      ],
+      "sponsor": "Indivior Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT01677377"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01370291",
+      "title": "Repetitive Transcranial Magnetic Stimulation (rTMS) for First-episode Schizophrenia Patients:A Double-blinded , Randomized and Functional Magnetic Resonance Imaging (fMRI)Study",
+      "phase": "PHASE3",
+      "status": "UNKNOWN",
+      "start_date": "2011-06",
+      "completion_date": "2013-12",
+      "country": "China",
+      "enrollment": 60,
+      "brief_summary": "The aim of the study is to evaluate the effects of repetitive transcranial magnetic stimulation(rTMS)in the first-episode Schizophrenic patients: the clinical and MRI findings",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 16-45 years\n* Diagnosis of schizophrenia according to DSM-IV criteria(by a board-certified psychiatrist)\n* PANSS\\>=60\n* First episode, and the patients haven't use any antipsychotic drugs\n\nExclusion Criteria:\n\n* Suicide risk\n* Diagnose of substance abuse/dependance",
+      "endpoints": [
+        "PANSS"
+      ],
+      "sponsor": "Xijing Hospital",
+      "url": "https://clinicaltrials.gov/study/NCT01370291"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00563706",
+      "title": "A Randomized, Double-Blind, Placebo-Controlled, Risperidone-Referenced, Parallel-Group, Adaptive-Design Study of the Efficacy, Safety, and Tolerability of Vabicaserin (SCA-136) in Subjects With Acute Exacerbations of Schizophrenia",
+      "phase": "PHASE2",
+      "status": "COMPLETED",
+      "start_date": "2007-12",
+      "completion_date": "2008-06",
+      "country": "Canada, United States",
+      "enrollment": 199,
+      "brief_summary": "The primary purpose of this protocol is to establish the efficacy, safety, and tolerability of vabicaserin (SCA-136) using a once a day capsule in subjects with acute exacerbations of schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Generally healthy, men and women, aged 18 to 65.\n* Hospitalization because of an acute exacerbation of schizophrenia with a diagnosis of schizophrenia established greater than 1 year.\n* Ability to remain hospitalized for the duration of the screening period and for 4 weeks of ",
+      "endpoints": [
+        "Positive and Negative Symptom Scale (PANSS) Total Score at Baseline",
+        "Change From Baseline in Positive and Negative Symptom Scale (PANSS) Total Score at Day 28"
+      ],
+      "sponsor": "Pfizer",
+      "url": "https://clinicaltrials.gov/study/NCT00563706"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01057849",
+      "title": "Sequenced Atypical Antipsychotics Therapy With Intensive or Basic Psychosocial Intervention for First-episode Schizophrenia: An Effectiveness Study",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "start_date": "2008-09",
+      "completion_date": "",
+      "country": "China",
+      "enrollment": 600,
+      "brief_summary": "Schizophrenia is not a curable but a treatable disease by antipsychotics. Kinds of atypical antipsychotics are widely used since 1990s' in China. Although their efficacy for acute phase are all better than typicals, individulized regimen of them for first-episode schizophrenia and their effectiveness in real naturalistic clinical settings still remain unclear. And those patients also need more comprehensive intervention such as psychosocial programs to improve their function. This protocol is to",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* schizophrenic patients diagnosed with DSM-IV criteria by SCID-I.\n* age between 16-45 years old\n* with disease course less than 3 years and during their first episode\n* without receiving systematic antipsychotic treatment less than 1 month\n\nExclusion Criteria:\n\n* organic diseas",
+      "endpoints": [
+        "the time the patients remain stable"
+      ],
+      "sponsor": "Peking University",
+      "url": "https://clinicaltrials.gov/study/NCT01057849"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT06878833",
+      "title": "A Multidose, Randomized, Double-Blind Study to Evaluate the Safety and Tolerability of Long-Acting Oral Risperidone (LYN-005) in Participants With Schizophrenia or Schizoaffective Disorder",
+      "phase": "PHASE3",
+      "status": "WITHDRAWN",
+      "start_date": "2025-04-18",
+      "completion_date": "2026-12-31",
+      "country": "N/A",
+      "enrollment": 0,
+      "brief_summary": "Lyndra Therapeutics, Inc., is developing a long-acting oral (LAO) treatment of risperidone (LYN-005) in a capsule dosage form (LYNX® drug delivery platform). The intent of LYN-005 is to reduce the dosing frequency of orally-administered risperidone to once weekly or less and, thereby improve treatment adherence and management of schizophrenia and schizoaffective disorder.\n\nThis study will evaluate the safety and tolerability of multiple administrations of LYN-005 at 3 dose levels.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female aged ≥18 and ≤65 years.\n2. Current diagnosis of schizophrenia or schizoaffective disorder according to Diagnostic and Statistical Manual of Mental Disorders version 5 (DSM-5) criteria as confirmed by the Mini International Neuropsychiatric Interview version 7.0",
+      "endpoints": [
+        "Number of Participants With Treatment-Emergent Adverse Events (TEAEs)"
+      ],
+      "sponsor": "Lyndra Inc.",
+      "url": "https://clinicaltrials.gov/study/NCT06878833"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01140620",
+      "title": "Effects of NMDA Receptor Antagonism on Cognitive Processes in Healthy Volunteers and Its Reversal by a Dopamine Antagonist: Comparison to Patients With Schizophrenia",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2010-06",
+      "completion_date": "2010-12",
+      "country": "United Kingdom",
+      "enrollment": 87,
+      "brief_summary": "The primary objective of this study is:\n\n• To determine the effects of ketamine, which blocks the ion-channel gated by the NMDA receptor, on performance of cognitive tasks and the extent to which these effects can be reversed by the dopamine receptor antagonist, risperidone.\n\nThe secondary objectives of this study are:\n\n* To establish whether patients with schizophrenia are able to reliably complete the biomarker test battery and to assess whether their responses are similar to healthy volunteer",
+      "eligibility_criteria": "Inclusion Criteria:\n\n5.2.1 General inclusion criteria (healthy and schizophrenia groups)\n\n* Male or female aged 18 to 45 years\n* Fluent English speakers, preferably with English as first language.\n* Normotensive with sitting (5 minutes) blood pressure of 100 to 140 mmHg systolic, and 60 to 90 mmHg d",
+      "endpoints": [
+        "Biconditional learning task",
+        "Eye movement task",
+        "Salience Attribution task"
+      ],
+      "sponsor": "University of Manchester",
+      "url": "https://clinicaltrials.gov/study/NCT01140620"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01739127",
+      "title": "A Longitudinal Comparison of Aripiprazole vs. Higher Metabolic Risk Antipsychotic Drugs on Adiposity Using MRI",
+      "phase": "N/A",
+      "status": "COMPLETED",
+      "start_date": "2012-11",
+      "completion_date": "2016-02",
+      "country": "Canada",
+      "enrollment": 83,
+      "brief_summary": "The purpose of this study is to compare abdominal weight gain and fat distribution in people taking aripiprazole versus risperidone or quetiapine, to people not taking any of these antipsychotic medications.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged 12+ years for healthy participants or participants with bipolar disorder; or aged 15+ years for participants with non-affective psychosis.\n* Recent admission to hospital for psychiatric services related to first-episode psychosis or first-episode bipolar d",
+      "endpoints": [
+        "Abdominal distribution of visceral fat versus subcutaneous fat"
+      ],
+      "sponsor": "University of British Columbia",
+      "url": "https://clinicaltrials.gov/study/NCT01739127"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00056498",
+      "title": "Clozapine Treatment of Schizophrenic Patients",
+      "phase": "PHASE4",
+      "status": "COMPLETED",
+      "start_date": "2001-12",
+      "completion_date": "2007-12",
+      "country": "United States",
+      "enrollment": 65,
+      "brief_summary": "This study will determine whether adding the drug risperidone (Risperdal®) is more effective than placebo in treating schizophrenic patients who are taking the drug clozapine.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV criteria for schizophrenia or schizoaffective disorder\n* Current clozapine treatment\n* Moderate illness severity and inadequate positive symptom response to clozapine treatment\n* 6 month period of clozapine treatment with documented clozapine blood level greater than or",
+      "endpoints": [
+        "Positive Symptom Item Scores by Week and Treatment Group"
+      ],
+      "sponsor": "University of Maryland, Baltimore",
+      "url": "https://clinicaltrials.gov/study/NCT00056498"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT00604279",
+      "title": "A Randomized, Open-Label, Parallel Group Comparative Study of Paliperidone Palmitate (50, 100, 150 mg eq) and Risperidone LAI (25, 37.5, or 50 mg) in Subjects With Schizophrenia",
+      "phase": "PHASE3",
+      "status": "COMPLETED",
+      "start_date": "2008-01",
+      "completion_date": "2009-01",
+      "country": "China",
+      "enrollment": 452,
+      "brief_summary": "The purpose of this study is to compare the efficacy of paliperidone palmitate and risperidone long acting injection (LAI) in participants with schizophrenia (psychiatric disorder with symptoms of emotional instability, detachment from reality, often with delusions and hallucinations, and withdrawal into the self) along with safety and tolerability.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who meet diagnostic criteria for schizophrenia according to Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) (disorganized type \\[295.10\\], catatonic type \\[295.20\\], paranoid type \\[295.30\\], residual type \\[295.60\\], or undifferenti",
+      "endpoints": [
+        "Change From Baseline in Positive and Negative Syndrome Scale (PANSS) Total Score at Day 92 or Early Withdrawal"
+      ],
+      "sponsor": "Xian-Janssen Pharmaceutical Ltd.",
+      "url": "https://clinicaltrials.gov/study/NCT00604279"
+    },
+    {
+      "registry": "ClinicalTrials.gov",
+      "id": "NCT01110317",
+      "title": "Open-Label, Parallel, Randomized, Multiple-Dose Pharmacokinetic Study of Paliperidone After Intramuscular Injection of Paliperidone Palmitate in the Deltoid or Gluteal Muscle in Subjects With Schizophrenia",
+      "phase": "PHASE1",
+      "status": "COMPLETED",
+      "start_date": "2005-07",
+      "completion_date": "2006-03",
+      "country": "N/A",
+      "enrollment": 49,
+      "brief_summary": "The purpose of this study is to evaluate the concentration of paliperidone in the blood after intramuscular injection in upper arm (deltoid muscle) or in the buttock (gluteal muscle) in patients with schizophrenia.",
+      "eligibility_criteria": "Inclusion Criteria:\n\n* Have a diagnosis of schizophrenia according to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) for more than 1 year that is clinically stable with no change in current antipsychotic medications for 3 months prior to screening\n* Have a total P",
+      "endpoints": [
+        "Determination of the concentration of paliperidone in blood samples obtained from patients."
+      ],
+      "sponsor": "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+      "url": "https://clinicaltrials.gov/study/NCT01110317"
+    }
+  ],
+  "timestamp": "2026-03-04T15:32:20.788186",
+  "success": true,
+  "error_message": null
+}
